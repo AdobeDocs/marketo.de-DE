@@ -1,7 +1,7 @@
 ---
 unique-page-id: 37357050
 description: Aktualisieren Ihres MSI-Pakets - Marketo-Dokumente - Produktdokumentation
-title: MSI-Paket aktualisieren
+title: Upgrade Ihres MSI-Pakets
 exl-id: 45004990-8452-4824-a9b2-89cd8302fe43
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# MSI-Paket aktualisieren {#upgrading-your-msi-package}
+# Upgrade Ihres MSI-Pakets {#upgrading-your-msi-package}
 
 1. Navigieren Sie zu [diese Seite im Appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO){target="_blank"}.
 

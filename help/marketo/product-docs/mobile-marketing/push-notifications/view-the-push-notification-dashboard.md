@@ -23,11 +23,11 @@ Es ist einfach zu sehen, wie Ihre Push-Benachrichtigungen funktionieren.
 
    ![](assets/image2015-12-11-13-3a1-3a56.png)
 
-1. Klicken **Ansicht: Zusammenfassung** und wählen Sie **Dashboard**.
+1. Klicks **Ansicht: Zusammenfassung** und wählen **Dashboard**.
 
    ![](assets/image2015-12-11-13-3a4-3a23.png)
 
-1. Sie können die Gesamtzahl der gesendeten Nachrichten und die Gesamtübersichten für iOS und Android in Kreisdiagrammen anzeigen. Scrollen Sie nach unten, um in Balkendiagrammen auf &quot;Verfall&quot;zu tippen.
+1. Sie können die Gesamtzahl der gesendeten Nachrichten und die Gesamtübersichten für iOS und Android in Kreisdiagrammen anzeigen. Scrollen Sie nach unten, um in Balkendiagrammen auf Verfall zu tippen.
 
    ![](assets/image2015-12-15-15-3a23-3a47.png)
 

@@ -13,7 +13,7 @@ ht-degree: 5%
 
 # Eine Personenliste importieren {#import-a-list-of-people}
 
-## Auftrag: Importieren Sie eine Tabellenliste mit den Teilnehmern einer Fachmesse in Ihre Datenbank. {#mission-import-a-spreadsheet-list-of-trade-show-attendees-into-your-database}
+## Auftrag: Importieren Sie eine Tabellenkalkulation der Messebesucher in Ihre Datenbank {#mission-import-a-spreadsheet-list-of-trade-show-attendees-into-your-database}
 
 >[!PREREQUISITES]
 >
@@ -49,7 +49,7 @@ In diesem Tutorial erfahren Sie, wie Sie Personen aus einer Tabellendatei in Mar
 
    ![](assets/import-a-list-of-people-3.png)
 
-1. Wählen Sie Ihre **Lernen** Ordner, dann unter **[!UICONTROL Neu]** click **[!UICONTROL Neues Programm]**.
+1. Wählen Sie **Lernen** Ordner, dann unter **[!UICONTROL Neu]** click **[!UICONTROL Neues Programm]**.
 
    ![](assets/import-a-list-of-people-4.png)
 
@@ -57,7 +57,7 @@ In diesem Tutorial erfahren Sie, wie Sie Personen aus einer Tabellendatei in Mar
 
    ![](assets/import-a-list-of-people-5.png)
 
-1. Auswählen **[!UICONTROL Messen]** für **[!UICONTROL Kanal]** und klicken Sie auf **[!UICONTROL Erstellen]**.
+1. Auswählen **[!UICONTROL Messen]** für die **[!UICONTROL Kanal]** und klicken **[!UICONTROL Erstellen]**.
 
    ![](assets/import-a-list-of-people-6.png)
 
@@ -67,7 +67,7 @@ In diesem Tutorial erfahren Sie, wie Sie Personen aus einer Tabellendatei in Mar
 
 ## Schritt 3: Importieren Ihrer Tabelle in Marketo {#step-import-your-spreadsheet-into-marketo}
 
-1. In **Eigenes Schulungsprogramm** klicken **[!UICONTROL Neu]** und wählen Sie **[!UICONTROL Neues lokales Asset]**.
+1. In **Eigenes Schulungsprogramm** klicken **[!UICONTROL Neu]** und wählen **[!UICONTROL Neues lokales Asset]**.
 
    ![](assets/import-a-list-of-people-7.png)
 
@@ -79,7 +79,7 @@ In diesem Tutorial erfahren Sie, wie Sie Personen aus einer Tabellendatei in Mar
 
    ![](assets/import-a-list-of-people-9.png)
 
-1. In **[!UICONTROL Messebesucher]** Liste, klicken Sie auf **[!UICONTROL Aktionen auflisten]** und wählen Sie **[!UICONTROL Importliste]**.
+1. In der **[!UICONTROL Messebesucher]** Liste, klicken Sie **[!UICONTROL Aktionen auflisten]** und wählen **[!UICONTROL Importliste]**.
 
    ![](assets/import-a-list-of-people-10.png)
 
@@ -103,7 +103,7 @@ In diesem Tutorial erfahren Sie, wie Sie Personen aus einer Tabellendatei in Mar
    > * Personen-Feldaktualisierungen überspringen
    > * Aktivitätsprotokollierung überspringen
 
-1. Zuordnen [!UICONTROL Listenspalte] Felder zum entsprechenden Marketo-Feld hinzu und klicken Sie auf **[!UICONTROL Nächste]**.
+1. Ordnen Sie [!UICONTROL Listenspalte] Felder zum entsprechenden Marketo-Feld hinzu und klicken Sie auf **[!UICONTROL Nächste]**.
 
    ![](assets/import-a-list-of-people-12.png)
 
@@ -115,7 +115,7 @@ In diesem Tutorial erfahren Sie, wie Sie Personen aus einer Tabellendatei in Mar
    >
    >Wenn es Felder gibt, die Sie nicht importieren möchten, wählen Sie **Ignorieren** im Dropdown-Menü Marketo-Feld.
 
-1. Auswählen **Eigenes Schulungsprogramm** für **[!UICONTROL Akquiseprogramm]** Klicken Sie auf **[!UICONTROL Import]**.
+1. Auswählen **Eigenes Schulungsprogramm** für die **[!UICONTROL Akquiseprogramm]** Klicken Sie auf **[!UICONTROL Import]**.
 
    ![](assets/import-a-list-of-people-13.png)
 

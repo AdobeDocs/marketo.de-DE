@@ -15,17 +15,17 @@ ht-degree: 6%
 
 Anhand von benutzerdefinierten Aktivitäten eine für Ihr Unternehmen relevante Aktion nachverfolgen, die eine Person getätigt hat.
 
-**Was sind Aktivitäten?**
+**Was sind Aktivitäten**
 
 Es gibt mehrere Möglichkeiten, wie eine Person mit Ihrer Organisation interagieren kann. Sie können die Website Ihres Unternehmens besuchen, an einer Ihrer Messen teilnehmen oder vielleicht auf einen Link in einer E-Mail klicken, die Sie ihnen geschickt haben. Bei diesen Aktionen handelt es sich um Aktivitäten. Welche Maßnahmen auch immer ergriffen werden, Marketo erfasst sie, damit Ihr Marketing-Team besser verstehen kann, wie Sie sie zeitnah und mit relevanten Informationen versenden können.
 
 **Eigene Aktivitäten**
 
-Mit benutzerdefinierten Aktivitäten können Sie Aktivitäten verfolgen, die nicht mit einem Marketo-Formular, einer E-Mail oder einer Landingpage in Verbindung stehen. Möchten Sie verfolgen, wann jemand einen Scheck einlegt? Verwenden Sie eine benutzerdefinierte Aktivität. Möchten Sie über die Teilnahme an einem Webinar informiert bleiben? Verwenden Sie eine benutzerdefinierte Aktivität.
+Mit benutzerdefinierten Aktivitäten können Sie Aktivitäten verfolgen, die nicht mit einem Marketo-Formular, einer E-Mail oder einer Landingpage in Verbindung stehen. Möchten Sie verfolgen, wann jemand einen Scheck einlegt? Verwenden Sie eine benutzerdefinierte Aktivität. Möchten Sie über die Teilnahme an einem Webinar auf dem Laufenden bleiben? Verwenden Sie eine benutzerdefinierte Aktivität.
 
 >[!NOTE]
 >
->Benutzerdefinierte Aktivitäten unterscheiden sich von benutzerdefinierten Objekten. Verwenden Sie benutzerdefinierte Objekte, wenn sich der Wert ändern kann (d. h. &quot;Farbe des Fahrzeugs&quot;ändert sich von blau in rot). Verwenden Sie benutzerdefinierte Aktivitäten, wenn Sie Ereignisse verfolgen und deren Details sich nicht ändern können (d. h. &quot;erworbenes Auto&quot;).
+>Benutzerdefinierte Aktivitäten unterscheiden sich von benutzerdefinierten Objekten. Verwenden Sie benutzerdefinierte Objekte, wenn sich der Wert ändern kann (d. h., die Farbe des Fahrzeugs ändert sich von blau in rot). Verwenden Sie benutzerdefinierte Aktivitäten, wenn Sie Ereignisse verfolgen und deren Details sich nicht ändern können (d. h. &quot;gekaufter Wagen&quot;).
 
 **Felder** Sie können [Zusätzliche Felder](/help/marketo/product-docs/administration/marketo-custom-activities/add-edit-delete-marketo-custom-activity-fields.md) die Sie mit Ihrer Aktivität verbinden möchten. Wie das primäre Feld können sie als Filterkriterien in einer intelligenten Liste verwendet werden.
 

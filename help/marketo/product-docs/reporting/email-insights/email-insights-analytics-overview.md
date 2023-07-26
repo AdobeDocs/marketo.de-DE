@@ -1,7 +1,7 @@
 ---
 unique-page-id: 10099411
 description: Übersicht über Email Insights Analytics - Marketo-Dokumente - Produktdokumentation
-title: Übersicht über die Analyse von E-Mail-Insights
+title: Übersicht über Email Insights Analytics
 exl-id: 370720f7-bbe1-4143-b2be-15854e1ffe55
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# Übersicht über die Analyse von E-Mail-Insights {#email-insights-analytics-overview}
+# Übersicht über Email Insights Analytics {#email-insights-analytics-overview}
 
 Erkunden Sie in Analytics die aggregierten Daten für E-Mail-Versand und Interaktion. Verwenden Sie das Diagramm auf der linken Seite, um Daten zu untersuchen, die Einblicke auf der rechten Seite, um ein geführteres Erlebnis zu erhalten.
 
@@ -29,7 +29,7 @@ Bewegen Sie den Mauszeiger über die KPI-Kacheln, um Details anzuzeigen..
 
 ![](assets/kpi-hover.png)
 
-...oder Details anzeigen, ohne den Mauszeiger über das Browserfenster bewegen zu müssen (auf größeren Bildschirmen).
+... oder Details anzeigen, ohne den Mauszeiger über das Browserfenster bewegen zu müssen (auf größeren Bildschirmen).
 
 ![](assets/kpi-wide.png)
 
@@ -41,7 +41,7 @@ Das Diagramm zeigt Ihre gefilterten Kriterien an. Um einen Filter auszublenden, 
 
 ![](assets/chart1.png)
 
-...und die Metrik aus dem Diagramm verschwindet. Klicken Sie erneut auf die Farbleiste, damit sie wieder angezeigt wird.
+... und die Metrik verschwindet aus der Grafik. Klicken Sie erneut auf die Farbleiste, damit sie wieder angezeigt wird.
 
 ![](assets/chart2.png)
 
@@ -57,7 +57,7 @@ Auf der rechten Seite der Seite helfen Ihnen geführte Metriken bei der Erkennun
 >
 >Sehen Sie, dass Aktualisieren oben rechts? Wenn Sie es sehen, müssen Sie manuell darauf klicken, um das Insights-Modul zu aktualisieren. Wir zeigen sie nur an, wenn Sie eine Änderung an Filtern vorgenommen haben, die die aktuellen Werte ungültig machen würden.
 
-Sie können auch angeben, was Sie sehen (von links nach rechts): Alle, Zielgruppe, Inhalt und Plattform.
+Sie können auch angeben, was Sie sehen (von links nach rechts): &quot;Alle&quot;, &quot;Zielgruppe&quot;, &quot;Inhalt&quot;und &quot;Plattform&quot;.
 
 ![](assets/guided-bar.png)
 

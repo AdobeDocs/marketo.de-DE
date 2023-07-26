@@ -15,7 +15,7 @@ ht-degree: 5%
 
 >[!NOTE]
 >
->Wir empfehlen die Verwendung der REST-API. Weitere Informationen finden Sie unter [developers.marketo.com](https://developers.marketo.com/documentation/rest/).
+>Wir empfehlen die Verwendung der REST-API. Weitere Informationen unter [developers.marketo.com](https://developers.marketo.com/documentation/rest/).
 
 >[!NOTE]
 >
@@ -25,7 +25,7 @@ ht-degree: 5%
 
    ![](assets/configuring-your-soap-api-settings-1.png)
 
-1. Klicken **[!UICONTROL Web-Services]**.
+1. Klicks **[!UICONTROL Web-Services]**.
 
    ![](assets/configuring-your-soap-api-settings-2.png)
 
@@ -35,7 +35,7 @@ ht-degree: 5%
 
 >[!CAUTION]
 >
->Ihr SOAP-Endpunkt und [!UICONTROL Benutzer-ID] eindeutig sein; senden Sie den Screenshot in diesem Artikel nicht an Ihren Entwickler.
+>Ihr SOAP-Endpunkt und [!UICONTROL Benutzer-ID] eindeutig sein. Senden Sie den Screenshot in diesem Artikel nicht an Ihren Entwickler.
 
 >[!MORELIKETHIS]
 >

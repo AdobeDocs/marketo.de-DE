@@ -17,7 +17,7 @@ ht-degree: 3%
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-1.png)
 
-1. Klicken **[!UICONTROL Email]**.
+1. Klicks **[!UICONTROL Email]**.
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-2.png)
 
@@ -35,7 +35,7 @@ ht-degree: 3%
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-4.png)
 
-1. Klicken **[!UICONTROL Speichern]**.
+1. Klicks **[!UICONTROL Speichern]**.
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-5.png)
 

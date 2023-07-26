@@ -25,7 +25,7 @@ Verwenden Sie einen Erfolgspfad-Analyzer, um die spezifischen Details zu untersu
 
    Das Diagramm auf der rechten Seite spiegelt die Daten der ausgewählten Schaltfläche auf der linken Seite wider. Standardmäßig ist dies Balance.
 
-1. Klicken **In Fluss** , um zu bestimmen, wie viele Personen während des ausgewählten Zeitraums in die Bühne eingestiegen sind.
+1. Klicks **In Fluss** , um zu bestimmen, wie viele Personen während des ausgewählten Zeitraums in die Bühne eingestiegen sind.
 
    ![](assets/image2015-6-12-17-3a30-3a52.png)
 
@@ -33,7 +33,7 @@ Verwenden Sie einen Erfolgspfad-Analyzer, um die spezifischen Details zu untersu
    * Klicken Sie auf Konvertieren in % , um die Konversionsrate von dieser in die nächste Phase zu diagrammen.
    * Klicken Sie auf Durchschn. Zeit , um zu sehen, wie lange Personen in dieser Phase verbracht haben, bevor sie zur nächsten Phase übergehen.
 
-1. Klicken **Diagrammaktionen** > Zeitraum vergleichen , um die Daten mit einem anderen Zeitrahmen gleicher Länge zu vergleichen.
+1. Klicks **Diagrammaktionen** > Zeitraum vergleichen , um die Daten mit einem anderen Zeitrahmen gleicher Länge zu vergleichen.
 
    ![](assets/image2015-6-12-17-3a39-3a15.png)
 
@@ -43,7 +43,7 @@ Verwenden Sie einen Erfolgspfad-Analyzer, um die spezifischen Details zu untersu
 
    Die **nach** Das Datum wird automatisch auf die Länge des ursprünglichen Zeitraums eingestellt.
 
-1. Klicken **Vergleichen**.
+1. Klicks **Vergleichen**.
 
    ![](assets/image2015-6-12-17-3a44-3a8.png)
 
@@ -63,9 +63,9 @@ Verwenden Sie einen Erfolgspfad-Analyzer, um die spezifischen Details zu untersu
 
    ![](assets/image2015-6-12-17-3a50-3a16.png)
 
-   Die orangefarbenen Menschen *oder nicht* noch in der SLA-Bühne.
+   Die orangefarbenen Leute könnten *oder nicht* noch in der SLA-Bühne.
 
-1. Klicken **Diagrammaktionen** > **SLA-Vergangenheit anzeigen fällig** , um alle Personen mit abgelaufenen SLA-Zielen anzuzeigen, die sich am Ende des angegebenen Zeitraums noch in der SLA-Phase befinden.
+1. Klicks **Diagrammaktionen** > **SLA-Vergangenheit anzeigen fällig** , um alle Personen mit abgelaufenen SLA-Zielen anzuzeigen, die sich am Ende des angegebenen Zeitraums noch in der SLA-Phase befinden.
 
    ![](assets/image2015-6-12-17-3a51-3a39.png)
 
@@ -77,8 +77,8 @@ Verwenden Sie einen Erfolgspfad-Analyzer, um die spezifischen Details zu untersu
 
    ![](assets/image2015-6-12-17-3a52-3a49.png)
 
-1. Um das Diagramm zu drucken, klicken Sie auf **Diagrammaktionen** > **Druckdiagramm**.
+1. Klicken Sie zum Drucken des Diagramms auf **Diagrammaktionen** > **Druckdiagramm**.
 
    ![](assets/image2015-6-12-17-3a53-3a34.png)
 
-Der Analyzer hilft Ihnen, Bewegungen durch Ihr Modell zu verstehen. Wenn Sie weitermachen, wird dies für die strategische Ausrichtung Ihrer Marketing-Maßnahmen von großer Bedeutung sein.
+Der Analyzer hilft Ihnen, Bewegungen durch Ihr Modell zu verstehen. Wenn Sie weitermachen, wird dies für die strategische Ausrichtung Ihrer Marketing-Maßnahmen sehr wichtig.

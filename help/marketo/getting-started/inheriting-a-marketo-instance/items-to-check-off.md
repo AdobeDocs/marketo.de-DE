@@ -21,8 +21,8 @@ Stellen Sie sicher, dass Sie über die richtigen Arten von Zugriff und Informati
 
 * Erfahren Sie, wie Sie mit dem [**Marketing-Nation**](https://nation.marketo.com/t5/About-Community/ct-p/about-community){target="_blank"} Community , um Antworten auf Ihre Fragen zu erhalten.
 
-* Klicken **[!UICONTROL Ihre Orte]** in Ihrem Marketo Nation-Community-Profil , um die Kontoseite Ihres Unternehmens anzuzeigen.
+* Klicks **[!UICONTROL Ihre Orte]** in Ihrem Marketo Nation-Community-Profil , um die Kontoseite Ihres Unternehmens anzuzeigen.
 
-* Erfahren Sie, wie Sie [**Support-Fall einreichen**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"} (and confirm you're [**set up as an authorized support contact**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}).
+* Erfahren Sie, wie [**Support-Fall einreichen**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"} (and confirm you're [**set up as an authorized support contact**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}).
 
 * [**Benutzer verwalten**](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md){target="_blank"} und löschen Sie diejenigen, die Ihr Unternehmen verlassen haben.

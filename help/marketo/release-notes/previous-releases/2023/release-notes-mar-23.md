@@ -10,13 +10,13 @@ ht-degree: 7%
 
 ---
 
-# Versionshinweise: März 2023 {#release-notes-mar-23}
+# März 2023 - Versionshinweise {#release-notes-mar-23}
 
 Unten finden Sie alle Funktionen der Version vom 23. März. Überprüfen Sie Ihre Adobe Marketo Engage-Edition auf Funktionsverfügbarkeit.
 
 >[!AVAILABILITY]
 >
->Mit einem Stern gekennzeichnete Funktionen (![star](assets/yellow-star.png)) sind kostenpflichtige Add-ons. Weitere Informationen erhalten Sie von Ihrem Marketo Engage-Support-Mitarbeiter.
+>Mit einem Stern (![star](assets/yellow-star.png)) sind kostenpflichtige Add-ons. Weitere Informationen erhalten Sie von Ihrem Marketo Engage-Support-Mitarbeiter.
 
 ## Standardfunktionen des Versionszyklus {#standard-release-cycle-features}
 
@@ -26,7 +26,7 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
 
 </br>
 
-* **Verbesserte Verwendung nach Komponente für Details von Landingpage-Vorlagen und Formulardetails**: Die Registerkarte &quot;Neu verwendet von Benutzeroberfläche&quot;enthält zusätzliche Informationen in den Details der Landingpage-Vorlage und in den Formulardetails, einschließlich weiterer Details zu Assets, die ein ausgewähltes Asset verwendet haben. Analyse langer Asset-Listen mithilfe der Such-, Sortierungs- und Filterfunktionen.
+* **Verbesserte Verwendung nach Komponente für Details von Landingpage-Vorlagen und Formulardetails**: Die Registerkarte Neu verwendet von Benutzeroberfläche enthält zusätzliche Informationen in den Details der Landingpage-Vorlage und den Formulardetails, einschließlich weiterer Details zu Assets, die ein ausgewähltes Asset verwendet haben. Analyse langer Asset-Listen mithilfe der Such-, Sortierungs- und Filterfunktionen.
 
 <table> 
   <tr> 
@@ -40,7 +40,7 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
   </tbody>
 </table>
 
-* **Umschalter und klassisches Erlebnis aus Landingpages entfernen**: Die Einstellung des Umschalters und des klassischen Erlebnisses für Einstiegsseiten hilft Ihnen, das neue Erlebnis vollständig zu übernehmen. Das neue Erlebnis ermöglicht die vollständige Nutzung der mit diesen Assets bereitgestellten Funktionen, ohne auf das alte Erlebnis angewiesen zu sein oder ständig zwischen den beiden Erlebnissen wechseln zu müssen.
+* **Umschalter und klassisches Erlebnis aus Landingpages entfernen**: Die Einstellung des Umschalters und des klassischen Erlebnisses für Einstiegsseiten hilft Ihnen bei der vollständigen Übernahme des neuen Erlebnisses. Das neue Erlebnis ermöglicht die vollständige Nutzung der mit diesen Assets bereitgestellten Funktionen, ohne auf das alte Erlebnis angewiesen zu sein oder ständig zwischen den beiden Erlebnissen wechseln zu müssen.
 
 <table> 
   <tr> 
@@ -54,7 +54,7 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
   </tbody>
 </table>
 
-* **Leistungsverbesserungen bei Tree-Knoten**: Diejenigen mit einer großen Anzahl von Strukturknoten werden eine deutliche Leistungsverbesserung erleben.
+* **Leistungsverbesserungen bei Tree-Knoten**: Diejenigen mit einer großen Anzahl von Strukturknoten sehen eine deutliche Leistungsverbesserung.
 
 <table> 
   <tr> 
@@ -72,7 +72,7 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
 
 </br>
 
-* **Aktualisierung der Marketo Facebook-Integration zur Verwendung des Facebook Graph API-Updates**: Mit der kürzlich erfolgten Aktualisierung von Facebook auf die Facebook Graph API v15 sind nun maximal 500 benutzerdefinierte Zielgruppen verfügbar, die für ein bestimmtes Anzeigenkonto erstellt werden können.
+* **Aktualisierung der Marketo Facebook-Integration zur Verwendung des Facebook Graph API-Updates**: Mit dem kürzlich durchgeführten Upgrade von Facebook auf die Facebook Graph-API v15 sind jetzt maximal 500 benutzerdefinierte Zielgruppen verfügbar, die für ein bestimmtes Anzeigenkonto erstellt werden können.
 
 <table> 
   <tr> 
@@ -90,11 +90,11 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
 
 Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiedenen Daten vor oder nach dem standardmäßigen Veröffentlichungsdatum veröffentlicht. Bitte prüfen Sie unten jedes Feature nach seinem Status.
 
-### Dynamischer Chat {#dynamic-chat}
+### Dynamic Chat {#dynamic-chat}
 
 </br>
 
-* **Dialog Interaktionsbericht für Dynamic Chat**: Bietet einen Überblick über die Interaktion im Dialog im Zeitverlauf, einschließlich der Möglichkeit, nach Besuchertyp und Interaktionstyp zu filtern, um eine bessere Sichtbarkeit für Benutzer zu erreichen.
+* **Dialog Interaktionsbericht für Dynamic Chat**: Bietet einen Überblick über die Interaktion des Dialogfelds im Zeitverlauf, einschließlich der Möglichkeit, nach Besuchertyp und Interaktionstyp zu filtern, um eine bessere Sichtbarkeit für Benutzer zu gewährleisten.
 
 <table> 
   <tr> 
@@ -108,7 +108,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
   </tbody>
 </table>
 
-* **Rollen und Berechtigungen für dynamischen Chat**: Führt Rollen und Berechtigungen für Dynamic Chat ein, sodass Administratoren die Sichtbarkeit und Nutzung verschiedener Bereiche der App auf ausgewählte Benutzertypen beschränken können.
+* **Rollen und Berechtigungen für Dynamic Chat**: Führt Rollen und Berechtigungen für Dynamic Chat ein, sodass Administratoren die Sichtbarkeit und Nutzung verschiedener Bereiche der App auf ausgewählte Benutzertypen beschränken können.
 
 <table> 
   <tr> 
@@ -122,7 +122,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
   </tbody>
 </table>
 
-* **Chat als Programmkanal für Dynamic Chat**: Erstellt einen neuen &quot;Chat&quot;-Programmkanal zur Verfolgung des Programmfortschritts für durch Dynamic Chat erworbene Personen. Beispielsweise verfügt ein Marketing-Experte über ein Programm, das mit einem dynamischen Chat-Dialogfeld verknüpft ist, um neue Leads zu erfassen. Sie können dieses Programm nun dem Chat-Kanal zuweisen, damit sie verfolgen können, wann Leads Mitglieder des Programms sind und wann sie erfolgreich waren.
+* **Chat als Programmkanal für Dynamic Chat**: Erstellt einen neuen &quot;Chat&quot;-Programmkanal, um den Programmfortschritt für die durch Dynamic Chat erworbenen Personen zu verfolgen. Beispielsweise verfügt ein Marketingspezialist über ein Programm, das mit einem Dynamic Chat-Dialogfeld verknüpft ist, um neue Leads zu erfassen. Sie können dieses Programm nun dem Chat-Kanal zuweisen, damit sie verfolgen können, wann Leads Mitglieder des Programms sind und wann sie erfolgreich waren.
 
 <table> 
   <tr> 

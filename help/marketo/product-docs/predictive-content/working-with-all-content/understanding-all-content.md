@@ -21,10 +21,10 @@ Die Seitenfelder umfassen:
 
 * **Titel**: Der Name des Inhaltselements
 * **Kategorien**: Erstellt von Ihnen und zur Gruppierung Ihrer prognostizierten Ergebnisse für Web oder E-Mail verwendet
-* **Ansichten**: Klicks insgesamt auf erkannte Webinhalte (einschließlich aller Quellen)
-* **Konversionen**: Die Anzahl der Besucher, die ein Inhaltselement angesehen und ein Formular im selben Besuch ausgefüllt haben
+* **Ansichten**: Gesamtzahl der Klicks auf erkannte Webinhalte (einschließlich aller Quellen)
+* **Konversionen**: Die Anzahl der Besucher, die ein Inhaltselement angesehen und ein Formular im selben Besuch ausgefüllt haben.
 * **Konversionsrate**: Prozentsatz berechnet durch direkte Konversionen dividiert durch Klicks
-* **Für Vorhersagekraft genehmigen**: Das Symbol wird angezeigt, wenn der Inhalt genehmigt wurde
+* **Für Vorhersagekraft genehmigen**: Symbol wird angezeigt, wenn der Inhalt genehmigt wurde
 
 Sie können ein neues Inhaltselement hinzufügen und es verfolgen, ein Inhaltselement entfernen oder ein Inhaltselement genehmigen. Nachdem Sie den Inhalt validiert haben, können Sie ihn auf der Seite Prädiktiver Inhalt bearbeiten.
 
@@ -32,7 +32,7 @@ Sie können ein neues Inhaltselement hinzufügen und es verfolgen, ein Inhaltsel
 
 Filtern Sie den Inhalt durch Auswahl einer oder mehrerer Kategorien. Richten Sie dann mithilfe von Standardeinstellungen oder benutzerdefinierten Einstellungen das Datum oder den Datumsbereich für die Inhaltsanalyse ein.
 
-1. Im **Alle Inhalte** Seite, klicken Sie auf das Filtersymbol und unter **Kategorie**, wählen Sie eine oder mehrere Inhaltskategorien aus.
+1. Im **Alle Inhalte** Seite, klicken Sie auf das Filtersymbol und unter **Kategorie** auswählen eine oder mehrere Inhaltskategorien.
 
    ![](assets/image2017-10-3-9-3a5-3a52.png)
 
@@ -42,7 +42,7 @@ Filtern Sie den Inhalt durch Auswahl einer oder mehrerer Kategorien. Richten Sie
 
 ## Anzeigen von Analytics für einen Datums- oder Datumsbereich {#display-analytics-for-a-date-or-date-range}
 
-1. Um Daten zu einem bestimmten Datum oder Datumsbereich anzuzeigen, klicken Sie auf das Kalendersymbol und wählen Sie dann im linken Bereich aus. Klicken Sie für einen benutzerdefinierten Datumsbereich auf den ersten und letzten Tag des Datumsbereichs im Kalender (wie dargestellt). Klicken **Anwenden**.
+1. Um Daten für ein bestimmtes Datum oder einen bestimmten Datumsbereich anzuzeigen, klicken Sie auf das Kalendersymbol und wählen Sie dann im linken Bereich aus. Klicken Sie für einen benutzerdefinierten Datumsbereich auf den ersten und letzten Tag des Datumsbereichs im Kalender (wie dargestellt). Klicks **Anwenden**.
 
    ![](assets/all-content-calendar-filter-hands.png)
 

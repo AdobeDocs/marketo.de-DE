@@ -31,11 +31,11 @@ Im Umgang mit internationalen Formularen sollten Sie Daten/Uhrzeit in den richti
 
    ![](assets/image2014-9-15-12-3a53-3a35.png)
 
-1. Klicken **Beenden**.
+1. Klicks **Beenden**.
 
    ![](assets/image2014-9-15-12-3a53-3a43.png)
 
-1. Klicken **Genehmigen und schließen** , um Änderungen anzuwenden und zu speichern.
+1. Klicks **Genehmigen und schließen** , um Änderungen anzuwenden und zu speichern.
 
    >[!NOTE]
    >

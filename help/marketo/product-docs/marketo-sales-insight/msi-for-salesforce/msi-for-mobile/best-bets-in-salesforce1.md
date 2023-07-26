@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Beste Betten in Salesforce1 {#best-bets-in-salesforce}
 
-Ihre [Best Bets](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) sind Ihre Leads und Kontakte mit höchster Dringlichkeit und relativem Ergebnis. Nur die Leads, deren Inhaber Sie sind, sind in dieser Liste sichtbar und die Liste wird aktualisiert, wenn sich die Lead-Punktzahlen ändern.
+Ihre [Beste Betas](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) sind Ihre Leads und Kontakte mit höchster Dringlichkeit und relativem Ergebnis. Nur die Leads, deren Inhaber Sie sind, sind in dieser Liste sichtbar und die Liste wird aktualisiert, wenn sich die Lead-Punktzahlen ändern.
 
 1. Wechseln Sie in der Salesforce-App zum Marketo-Bereich.
 

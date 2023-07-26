@@ -29,7 +29,7 @@ SLA steht für &quot;Service Level Agreement&quot;. Diese Phasen werden verwende
 
    ![](assets/image2015-4-27-15-3a6-3a30.png)
 
-1. Klicken **Entwurf bearbeiten**.
+1. Klicks **Entwurf bearbeiten**.
 
    ![](assets/image2015-4-27-12-3a10-3a49.png)
 

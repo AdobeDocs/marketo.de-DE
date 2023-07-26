@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Smart-Campaign-Karten {#understanding-smart-campaign-cards}
 
-Verwenden Sie Marketo Moments , um die einzelnen Ausführungen Ihrer Smart-Kampagnen über Ihr Smartphone oder iPad anzuzeigen. Die Smart-Kampagnenkarte Marketo Moments stellt einen einmaligen Kampagnenstart dar. Bei jeder Ausführung der Smart-Kampagne wird eine neue Karte angezeigt. Smart-Kampagnenkarten sind oben links mit einer Glühbirne markiert.
+Verwenden Sie Marketo Moments , um die einzelnen Ausführungen Ihrer Smart-Kampagnen über Ihr Smartphone oder iPad anzuzeigen. Die Smart-Kampagnenkarte &quot;Marketo Moments&quot;stellt einen einmaligen Ablauf einer Kampagne dar. Bei jeder Ausführung der Smart-Kampagne wird eine neue Karte angezeigt. Smart-Kampagnenkarten sind oben links mit einer Glühbirne markiert.
 
 Für zukünftige Smart-Kampagnen, die geplant, aber noch nicht ausgeführt werden, zeigt die Karte Marketo-Momente noch keine Kampagnenstatistiken an. Sie werden in einer zukünftigen Version erscheinen.
 
@@ -43,7 +43,7 @@ Für zukünftige Smart-Kampagnen, die geplant, aber noch nicht ausgeführt werde
 
    ![](assets/image2015-9-22-15-3a8-3a12.png)
 
-1. Klicken **Email Summary**.
+1. Klicks **Email Summary**.
 
    ![](assets/image2015-9-21-13-3a51-3a7.png)
 
@@ -119,7 +119,7 @@ Sie können eine bestätigte Smart-Kampagne, die noch nicht ausgeführt wurde, n
 
    ![](assets/image2015-9-22-14-3a13-3a25.png)
 
-1. Wählen Sie ein Datum im Kalender aus und tippen Sie auf **Zeitplan**.
+1. Datum im Kalender auswählen und tippen **Zeitplan**.
 
    ![](assets/image2015-9-22-14-3a16-3a56.png)
 

@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Filtern von Assets in E-Mail-Berichten einer Kampagne {#filter-assets-in-a-campaign-email-reports}
 
-Fokussieren Sie Ihre [Leistung von Campaign-E-Mails](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) spezifische [Smart-Kampagnen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md) in Ihren Programmen (&quot;lokale Assets&quot;) oder archivierten Programmen angezeigt werden.
+Fokus [Leistung von Campaign-E-Mails](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) Bericht über spezifische [Smart-Kampagnen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md) in Ihren Programmen (&quot;lokale Assets&quot;) oder archivierten Programmen angezeigt werden.
 
 1. Navigieren Sie zu **Analytics** (oder **Marketingaktivitäten**).
 

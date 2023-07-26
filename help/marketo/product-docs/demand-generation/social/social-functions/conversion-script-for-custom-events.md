@@ -35,13 +35,13 @@ Sie definieren das Erfüllungsziel beim Erstellen eines Verweisangebots. Wenn di
 
    ![](assets/image2015-4-20-17-3a34-3a46.png)
 
-1. Klicken Sie mit der rechten Maustaste auf die **Kopfzeilencode** und fügen Sie sie in Ihren Webseitenkopf ein. Führen Sie dann dasselbe für die **Textkörper**.
+1. Rechtsklicken Sie auf die **Kopfzeilencode** und fügen Sie sie in Ihren Webseitenkopf ein. Führen Sie dann dasselbe für die **Textkörper**.
 
    ![](assets/image2015-4-20-20-3a49-3a19.png)
 
 ## Einfügen der Skripte in Ihre Webseite {#pasting-the-scripts-onto-your-webpage}
 
-Fügen Sie die Konvertierungsskripte in die HTML für den Hauptteil und die Kopfzeile ein. Platzieren Sie dann die Lader-Skripte in die HTML für den Hauptteil und die Kopfzeile.
+Fügen Sie die Konvertierungsskripte in die HTML für den Hauptteil und die Kopfzeile ein. Platzieren Sie anschließend die Lader-Skripte in die HTML für den Hauptteil und die Kopfzeile.
 
 ![](assets/image2015-4-20-21-3a0-3a16.png)
 

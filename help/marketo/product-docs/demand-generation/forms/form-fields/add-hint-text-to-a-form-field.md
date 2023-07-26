@@ -35,11 +35,11 @@ Hinweise und [instructions](/help/marketo/product-docs/demand-generation/forms/f
 
    ![](assets/image2014-9-15-13-3a53-3a58.png)
 
-1. Klicken **Beenden**.
+1. Klicks **Beenden**.
 
    ![](assets/image2014-9-15-13-3a53-3a36.png)
 
-1. Klicken **Genehmigen und schließen**.
+1. Klicks **Genehmigen und schließen**.
 
    ![](assets/image2014-9-15-13-3a53-3a29.png)
 
@@ -49,4 +49,4 @@ Hinweise und [instructions](/help/marketo/product-docs/demand-generation/forms/f
 
    ![](assets/image2014-9-15-13-3a53-3a23.png)
 
-Schau es dir an! Lassen Sie uns ein paar hinzufügen [instructions](add-tooltip-instructions-to-a-form-field.md) jetzt.
+Schau es dir an! Lassen Sie uns ein paar hinzufügen. [instructions](add-tooltip-instructions-to-a-form-field.md) jetzt.

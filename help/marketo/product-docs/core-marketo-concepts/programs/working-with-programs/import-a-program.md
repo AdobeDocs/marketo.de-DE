@@ -21,7 +21,7 @@ Ein Programm kann aus einem Marketo-Abonnement in ein anderes importiert werden.
 
    ![](assets/import-a-program-1.png)
 
-1. Klicken **Neu** angezeigt. Auswählen **Importprogramm**.
+1. Klicks **Neu** angezeigt. Auswählen **Importprogramm**.
 
    ![](assets/import-a-program-2.png)
 
@@ -31,11 +31,11 @@ Ein Programm kann aus einem Marketo-Abonnement in ein anderes importiert werden.
    >
    >Um ein Sandbox-Konto mit Ihrem Live-Abonnement zu verbinden, wenden Sie sich an [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support).
 
-1. Marketo auswählen **Abonnement** und ein Importprogramm. Klicken **Nächste**.
+1. Marketo auswählen **Abonnement** und ein Importprogramm. Klicks **Nächste**.
 
    ![](assets/import-a-program-3.png)
 
-1. Geben Sie eine **Kampagnenordner** für das importierte Programm. Klicken **Weiter.**
+1. Geben Sie eine **Kampagnenordner** für das importierte Programm. Klicks **Weiter.**
 
    ![](assets/import-a-program-4.png)
 
@@ -67,7 +67,7 @@ Programme verwenden externe Assets wie E-Mail-Vorlagen, Landingpage-Vorlagen, Bi
 
 **E-Mail-/Landingpage-Vorlagen:** E-Mail-/Landingpage-Vorlagen werden in Design Studio importiert. Sie können Konfliktregeln verwenden, um das Verhalten zu konfigurieren, wenn eine Vorlage mit demselben Namen vorhanden ist. Unter Verwendung der Standardregel wird eine Zahl an eine Vorlage angehängt, wenn eine mit demselben Namen vorhanden ist. Wenn Sie beispielsweise bereits über eine Vorlage mit dem Namen &quot;Standardvorlage&quot;verfügen, erhält die neue Vorlage den Namen &quot;Standardvorlage - 1&quot;.
 
-**Landing Pages/Forms:** Wenn ein Formular oder eine Landingpage mit demselben Namen in Design Studio vorhanden ist, werden sie dennoch importiert, jedoch mit einer Nummer, die an ihren Namen angehängt wird (z. B.: Landingpage - 1).
+**Landing Pages/Forms:** Wenn ein Formular oder eine Landingpage mit demselben Namen in Design Studio vorhanden ist, werden sie dennoch importiert, jedoch mit einer Nummer an ihren Namen angehängt (z. B.: Landingpage - 1).
 
 **Bilder:** Bilder, die von Landingpages verwendet werden, werden in das Design-Studio importiert, es sei denn, es existiert eines mit demselben Namen.
 

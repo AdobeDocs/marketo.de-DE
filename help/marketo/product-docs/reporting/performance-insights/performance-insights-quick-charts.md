@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Schnelldiagramme sind Miniaturansichten, die Sie anpassen und speichern, um eine schnelle Ansicht der Diagramme zu ermöglichen, die Sie am häufigsten verwenden.
 
-## Erstellen eines neuen Schnelldiagramms {#create-a-new-quick-chart}
+## Neues Schnelldiagramm erstellen {#create-a-new-quick-chart}
 
 Schnelldiagramme leiten sich von den von Ihnen angegebenen Daten ab. In diesem Beispiel wählen wir Folgendes: **neue Möglichkeiten (Erstkontakt), Opportunity type = neues Geschäft, aktuelles Jahr-zu-Datum**.
 
@@ -65,6 +65,6 @@ Wenn Sie ein Schnelldiagramm löschen müssen, führen Sie die folgenden einfach
 
    ![](assets/9-2.png)
 
-1. Klicken **Löschen**.
+1. Klicks **Löschen**.
 
    ![](assets/10-1.png)

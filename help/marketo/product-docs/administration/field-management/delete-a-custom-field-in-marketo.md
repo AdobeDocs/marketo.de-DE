@@ -23,7 +23,7 @@ Sie können ein zuvor erstelltes Feld entfernen, wenn Sie es nicht mehr verwende
 
    ![](assets/delete-a-custom-field-in-marketo-1.png)
 
-1. Klicken **[!UICONTROL Feldverwaltung]**.
+1. Klicks **[!UICONTROL Feldverwaltung]**.
 
    ![](assets/delete-a-custom-field-in-marketo-2.png)
 

@@ -23,11 +23,11 @@ Mit dieser Integration können Sie Zielgruppendaten aus statischen und intellige
 
    ![](assets/image2016-11-29-10-3a50-3a29.png)
 
-1. Navigieren Sie zu **LaunchPoint** klicken Sie auf **Neu** und wählen Sie **Neuer Dienst**.
+1. Navigieren Sie zu **LaunchPoint**, klicken Sie auf **Neu** und wählen **Neuer Dienst**.
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
-1. Geben Sie einen **Anzeigename** für Ihren Dienst und wählen Sie die **Benutzerdefinierte facebook-Zielgruppen** Dienst von **Diensleistung** Dropdown-Liste.
+1. Geben Sie einen **Anzeigename** für Ihren Dienst und wählen Sie die **Benutzerdefinierte facebook-Zielgruppen** -Dienst von **Dienst** angezeigt.
 
    ![](assets/image2016-11-29-12-3a51-3a8.png)
 
@@ -39,7 +39,7 @@ Mit dieser Integration können Sie Zielgruppendaten aus statischen und intellige
 
    ![](assets/image2016-11-29-10-3a52-3a29.png)
 
-1. Nachdem Sie sich bei Facebook angemeldet haben, kehren Sie zu Marketo zurück. Klicken **Autorisieren**.
+1. Nachdem Sie sich bei Facebook angemeldet haben, kehren Sie zu Marketo zurück. Klicks **Autorisieren**.
 
    ![](assets/fb-custom-authorize-hand.png)
 
@@ -63,7 +63,7 @@ Mit dieser Integration können Sie Zielgruppendaten aus statischen und intellige
 
    >[!CAUTION]
    >
-   >Ach, bevor du gehst, sei sicher [Benutzerdefinierte Zielgruppenbegriffe von Facebook akzeptieren](https://www.facebook.com/ads/manage/customaudiences/tos.php) in Ihrem Facebook-Konto! Andernfalls schlagen die Zielgruppen-Updates fehl.
+   >Ach, bevor du gehst, sei sicher [Benutzerdefinierte Zielgruppenbegriffe von Facebook akzeptieren](https://www.facebook.com/ads/manage/customaudiences/tos.php) innerhalb Ihres Facebook-Kontos! Andernfalls schlagen die Zielgruppen-Updates fehl.
 
 >[!MORELIKETHIS]
 >

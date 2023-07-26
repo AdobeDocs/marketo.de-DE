@@ -31,7 +31,7 @@ Wenn Sie einen einmaligen Flussschritt ausführen möchten, können Sie einen ei
    >
    >Sowohl statische Listen als auch Smart-Listen verfügen über diese Funktion.
 
-1. Klicken **Alle auswählen**. Sie können auch **Strg/Befehl** und klicken Sie auf , um einige Datensätze manuell auszuwählen.
+1. Klicks **Alle auswählen**. Sie können auch **Strg/Befehl** und klicken Sie auf , um einige Datensätze manuell auszuwählen.
 
    ![](assets/smartlist-selectallhand.png)
 
@@ -47,11 +47,11 @@ Wenn Sie einen einmaligen Flussschritt ausführen möchten, können Sie einen ei
 
    ![](assets/runaction-hands.png)
 
-1. Neuen Wert eingeben. Klicken **Jetzt ausführen**.
+1. Neuen Wert eingeben. Klicks **Jetzt ausführen**.
 
    ![](assets/runactionnewvalue-hands.png)
 
-1. Wenn Sie Datenwerte für eine große Anzahl von Personen ändern, müssen Sie die Änderung möglicherweise bestätigen, indem Sie die Zahl eingeben. Klicken **Los**.
+1. Wenn Sie Datenwerte für eine große Anzahl von Personen ändern, müssen Sie die Änderung möglicherweise bestätigen, indem Sie die Zahl eingeben. Klicks **Los**.
 
    ![](assets/changedatavalue.jpg)
 

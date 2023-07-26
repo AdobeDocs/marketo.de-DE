@@ -30,7 +30,7 @@ Lassen Sie uns in unserem Beispiel diese Filter definieren, um alle Menschen in 
 
    ![](assets/smarlist-choosefilters.png)
 
-1. Suchen und Auswählen **CA** für **state** Filter.
+1. Suchen und Auswählen **CA** für die **Bundesland** Filter.
 
    ![](assets/smartlistdefinefilters.png)
 

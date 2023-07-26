@@ -38,11 +38,11 @@ Fügen Sie E-Mails, die über Marketo gesendet werden, bis zu fünf CC-Adressen 
 **API**
 
 * **Unterstützung für mehrere Branding-Domänen für die Asset-API:** Das Genehmigen und Klonen von Assets führt innerhalb der API und Benutzeroberfläche zu denselben Ergebnissen.
-* **E-Mail-CC-Unterstützung für Asset-API**: Benutzer, die E-Mails über die API klonen, genehmigen und verarbeiten, bleiben mit den Benutzeroberflächeneinstellungen identisch.
+* **E-Mail-CC-Unterstützung für Asset-API**: Benutzer, die E-Mails über die API klonen, genehmigen und verarbeiten, stimmen mit den Benutzeroberflächeneinstellungen überein.
 
 **[Munchkin v155 (Beta)](https://developers.marketo.com/javascript-api/lead-tracking/configuration/)**
 
-* **Nur-API-Modus**: Benutzer können jetzt bestimmen, wann und wie sie Mitglieder ihrer Datenbank verfolgen, indem sie zulassen, dass Einzelseiten-Webanwendungen explizit aufrufen, wenn sie einen Webseitenbesuch aufzeichnen möchten, anstatt sich auf die automatische Verfolgung von Marketo zu verlassen.
+* **Nur-API-Modus**: Benutzer können jetzt bestimmen, wann und wie Mitglieder ihrer Datenbank verfolgt werden, indem sie zulassen, dass einseitige Webanwendungen explizit aufrufen, wenn sie einen Webseitenbesuch aufzeichnen möchten, anstatt sich auf die automatische Verfolgung von Marketo zu verlassen.
 * **Opt-out-Verwaltung**: Einfaches Verwalten von Opt-outs durch Abgleichen der Opt-out-Cookie-Domäne mit der Munchkin-Tracking-Cookie-Domäne.
 * **Entscheidungsparameter auf Domänenebene**: Domänen mit zwei Buchstaben (d. h. &quot; [website.io](https://website.io)&quot;) wird automatisch in Marketo ohne zusätzliche Einrichtungsanforderungen verfolgt.
 
@@ -52,13 +52,13 @@ Fügen Sie E-Mails, die über Marketo gesendet werden, bis zu fünf CC-Adressen 
 
 * **Salesforce-Anpassung**: Durch das Entfernen nicht kritischer benutzerdefinierter Aktivitätsfelder können Benutzer die Kundenbindung in der CRM-Plattform effizienter einrichten.
 * **Email Service**: Nutzen Sie eine bessere Zustellbarkeit sowie verbesserte Antwort-Tracking, geplante E-Mail-Funktionen und Massen-E-Mail-Funktionen, indem Sie eine Verbindung zu Microsoft Outlook herstellen (entweder über Office365 oder On-Premise über die Registerkarte E-Mail-Verbindung ).
-* **Neue Admin-Einstellungen**: Es wurden zwei Admin-Seiten hinzugefügt, um Ihre Sales Engage-Instanz zu optimieren
+* **Neue Admin Settings**: Es wurden zwei Admin-Seiten hinzugefügt, um Ihre Sales Engage-Instanz zu optimieren.
 
    * _Team-Management_ unterstützt eine nahtlose Kontoeinrichtung, indem sie es Administratoren ermöglicht, Abonnements und Teams zu bearbeiten.
    * _Salesforce-Admin-Einstellungen_ hilft Teams, ihre SFDC-Synchronisation schneller und einfacher einzurichten als je zuvor.
 
 * **OWA-Plug-in für Windows**: Mit einem einzigen Add-in werden alle Windows Office365-Clients in Sales Engage unterstützt, sodass Live Feed in Outlook verwendet werden kann. Das neue Plug-in wird im Microsoft Store verfügbar sein.
-* **Activities Pusher**: Synchronisieren Sie Sales Engage mit der zentralen Marketo-Plattform, um Echtzeit-Marketing-Einblicke zu nutzen.
+* **Activities Pusher**: Synchronisieren Sie die Vertriebsinteraktion mit der Marketo-Hauptplattform, um Echtzeit-Marketing-Einblicke zu nutzen.
 
 ## Marketo Sky {#marketo-sky}
 
@@ -66,18 +66,18 @@ Fügen Sie E-Mails, die über Marketo gesendet werden, bis zu fünf CC-Adressen 
 >
 >Marketo Sky-Releases treten häufiger auf. Die folgenden Funktionen und Verbesserungen werden voraussichtlich Ende Q4/Anfang Q1 veröffentlicht. Weitere Informationen und Aktualisierungen finden Sie in der [Sky-Dokumentation](https://help.marketo.com/).
 
-* **Optionales Standarderlebnis**: Marketo-Benutzer können Marketo Sky als Standarderlebnis festlegen, wenn ihnen ein Administrator Zugriff gewährt hat.
+* **Optionales Standarderlebnis**: Marketo-Benutzer können Marketo Sky als Standarderlebnis festlegen, wenn ihnen Zugriff durch einen Administrator gewährt wurde.
 
 * **Meine Marketo neu gestaltet**: Passen Sie Ihr Erlebnis an, indem Sie Widgets hinzufügen, die wichtige Informationen, Benachrichtigungen und Links zu den am häufigsten besuchten Bereichen enthalten.
 
-* **Design Studio-Listenansichten und Detailseiten**: Mit filterbaren und durchsuchbaren Listenansichten von E-Mails, Landingpages und Formularen profitieren Sie von mehr Organisation und Genauigkeit. Asset-Detailseiten bieten wichtige Informationen zu jedem Asset, einschließlich der Programme, von denen das Asset verwendet wird, der Anzahl der verwendeten Snippets und mehr.
+* **Design Studio-Listenansichten und Detailseiten**: Mit filterbaren und durchsuchbaren Listenansichten von E-Mails, Landingpages und Formularen profitieren Sie von einer höheren Organisation und Genauigkeit. Asset-Detailseiten bieten wichtige Informationen zu jedem Asset, einschließlich der Programme, von denen das Asset verwendet wird, der Anzahl der verwendeten Snippets und mehr.
 
 * **Globale Suche**: Marketo bietet jetzt eine schnellere und robustere globale Suchfunktion auf der gesamten Plattform. Suchabfragen werden jetzt in allen zugänglichen Arbeitsbereichen ausgeführt und können nach Assets (sowohl aktiv als auch archiviert), Bezeichnungen, Kampagnen und Programmen suchen. Suchergebnisse werden über eine Überlagerung bereitgestellt. Jedes Ergebnis enthält seinen Dateispeicherort-Pfad, um anzugeben, wo sich das Asset befindet.
 
 * **Verbesserte Benutzeroberfläche**: Neue Symbole, Modelle und Schaltflächen sowie eine neue Farbpalette, die unsere Markenaktualisierung widerspiegelt und Marketo Sky noch beeindruckender und funktioneller macht.
 
-* **Verbesserungen bei der Benutzerfreundlichkeit von E-Mail-Programmen**: Wir gehen weiter in Richtung Parität bei der Funktionalität des E-Mail-Programms zwischen unserer klassischen Marketo-Lead-Management-Plattform und dem neuen Marketo Sky-Erlebnis.
-* **Event-with-Webinar-Programme**: Event-With-Webinar-Programme sind jetzt unter Marketo Sky verfügbar (Hinweis: In dieser Version wird nur GoToWebinar unterstützt, wobei im Laufe der Zeit weitere Integrationen erstellt werden.
+* **Verbesserungen bei der Benutzerfreundlichkeit von E-Mail-Programmen**: Wir gehen weiter auf die Parität der E-Mail-Programmfunktionalität zwischen unserer klassischen Marketo-Lead-Management-Plattform und dem neuen Marketo Sky-Erlebnis zu.
+* **Event-with-Webinar-Programme**: Event-With-Webinar-Programme sind jetzt unter Marketo Sky verfügbar (Hinweis: In dieser Version wird nur GoToWebinar unterstützt, wobei im Laufe der Zeit weitere Integrationen erstellt werden).
 
 ## Kundenbezogenes Marketing {#account-based-marketing}
 
@@ -89,7 +89,7 @@ Personalisieren Sie Ihre ABM-Kampagnen für bestimmte Personas in benannten Kont
 
 **Bizible**
 
-* **Benutzerdefinierte berechnete Felder**: Verwenden Sie ein beliebiges Bizible-Attribut, um benutzerdefinierte Felder zu erstellen, die für die Dashboard-Berichterstellung und -Segmentierung verwendet werden können.
+* **Benutzerdefinierte berechnete Felder**: Verwenden Sie ein beliebiges Bizible-Attribut, um benutzerdefinierte Felder zu erstellen, die für Dashboard-Berichte und -Segmentierung verwendet werden können.
 
 * **Zertifizierung nach SOC II Typ II**: Die neue Sicherheits- und Datenschutzzertifizierung baut auf der Typakkreditierung I von Anfang dieses Jahres auf.
 

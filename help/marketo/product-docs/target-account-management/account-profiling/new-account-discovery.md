@@ -39,19 +39,19 @@ Mit der neuen Kontoerkennung können Sie mithilfe von KI-gestützten Empfehlunge
    >
    >Neue Konten zeigen eine Liste der Konten an, die noch nicht in TAM vorhanden sind. Dies sind Konten, die basierend auf von Ihnen ausgewählten Filtern für Sie möglicherweise neu sein können.
 
-1. Wählen Sie alle entsprechenden Filter aus (dieser Teil ist stark anpassbar, im Folgenden finden Sie nur ein Beispiel für die Veranschaulichung der Filterung).
+1. Wählen Sie alle zutreffenden Filter aus (dieser Teil ist stark anpassbar, im Folgenden finden Sie nur ein Beispiel für die Veranschaulichung der Filterung).
 
    ![](assets/four-1.png)
 
-1. Klicken **Alle speichern und Liste erstellen** unten rechts auf der Seite.
+1. Klicks **Alle speichern und Liste erstellen** unten rechts auf der Seite.
 
    ![](assets/five-1.png)
 
    >[!NOTE]
    >
-   >Wenn Sie nur einige der gewünschten Konten sehen, haben Sie die Möglichkeit, auf einzelne Konten zu klicken und auf **Ausgewählte Konten speichern** wann geschehen.
+   >Wenn Sie nur einige der gewünschten Konten sehen, können Sie auf einzelne Konten klicken und auf **Ausgewählte Konten speichern** wann geschehen.
 
-1. Sie können Ihre Liste zu einer eigenen neuen Kontoliste machen oder sie einer vorhandenen hinzufügen. In diesem Beispiel erstellen wir ein neues.
+1. Sie können Ihre Liste zu einer eigenen neuen Kontoliste machen oder sie zu einer vorhandenen hinzufügen. In diesem Beispiel erstellen wir ein neues.
 
    ![](assets/six-1.png)
 
@@ -59,7 +59,7 @@ Mit der neuen Kontoerkennung können Sie mithilfe von KI-gestützten Empfehlunge
    >
    >Um es in einer vorhandenen Kontoliste zu speichern, wählen Sie diese Option aus, klicken Sie auf das Dropdown-Menü und wählen Sie die gewünschte Kontoliste aus. Klicken Sie dann auf **Nächste**.
 
-1. Klicken **Speichern**.
+1. Klicks **Speichern**.
 
    ![](assets/seven-1.png)
 
@@ -67,7 +67,7 @@ Mit der neuen Kontoerkennung können Sie mithilfe von KI-gestützten Empfehlunge
    >
    >Sie können bis zu 5.000 Konten gleichzeitig speichern. Wenn Ihre Suche 10.000 Ergebnisse liefert, müssen Sie die ersten 5.000 (Top) speichern, dann die Filter zurücksetzen und die nächsten 5.000 speichern. Die **total** Kontobegrenzung beträgt eine Million.
 
-1. Klicken **OK**.
+1. Klicks **OK**.
 
    ![](assets/eight.png)
 

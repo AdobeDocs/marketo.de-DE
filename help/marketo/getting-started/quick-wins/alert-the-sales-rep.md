@@ -13,7 +13,7 @@ ht-degree: 6%
 
 # Vertriebsmitarbeiter benachrichtigen {#alert-the-sales-rep}
 
-## Auftrag: Warnen Sie den Vertriebsmitarbeiter, wenn eine Person ein Formular auf Ihrer Website ausfüllt. {#mission-alert-the-sales-rep-when-a-person-fills-out-a-form-on-your-web-site}
+## Auftrag: Warnung des Vertriebsmitarbeiters, wenn ein Benutzer ein Formular auf Ihrer Website ausfüllt {#mission-alert-the-sales-rep-when-a-person-fills-out-a-form-on-your-web-site}
 
 Um Warn-E-Mails automatisch an Vertriebsmitarbeiter zu senden, benötigen Sie lediglich eine Warn-E-Mail und eine E-Mail-Kampagne. Hier ist, wie man das macht.
 
@@ -31,7 +31,7 @@ Um Warn-E-Mails automatisch an Vertriebsmitarbeiter zu senden, benötigen Sie le
 
    ![](assets/alert-the-sales-rep-2.png)
 
-1. Klicken **[!UICONTROL Email]**.
+1. Klicks **[!UICONTROL Email]**.
 
    ![](assets/alert-the-sales-rep-3.png)
 
@@ -39,7 +39,7 @@ Um Warn-E-Mails automatisch an Vertriebsmitarbeiter zu senden, benötigen Sie le
 
    ![](assets/alert-the-sales-rep-4.png)
 
-1. Geben Sie die **Aus Name**, **Aus E-Mail**, **[!UICONTROL Antwort]** und **[!UICONTROL Betreff]** die Sie von Ihrem Verkaufsteam sehen wollen.
+1. Geben Sie die **Aus Name**, **Aus E-Mail**, **[!UICONTROL Antwort]**, und **[!UICONTROL Betreff]** die Sie von Ihrem Verkaufsteam sehen wollen.
 
    ![](assets/alert-the-sales-rep-5.png)
 
@@ -55,7 +55,7 @@ Um Warn-E-Mails automatisch an Vertriebsmitarbeiter zu senden, benötigen Sie le
 
    ![](assets/alert-the-sales-rep-8.png)
 
-1. Suchen und Auswählen `{{SP_Send_Alert_Info}}` **[!UICONTROL Token]** und klicken Sie auf **[!UICONTROL Einfügen]**.
+1. Suchen und Auswählen `{{SP_Send_Alert_Info}}` **[!UICONTROL Token]** und klicken **[!UICONTROL Einfügen]**.
 
    ![](assets/alert-the-sales-rep-9.png)
 
@@ -63,7 +63,7 @@ Um Warn-E-Mails automatisch an Vertriebsmitarbeiter zu senden, benötigen Sie le
    >
    >{{SP_Send_Alert_Info}} ist ein spezielles Token für Warnhinweis-E-Mails. Siehe [Verwenden des Tokens &quot;Send Alert Info&quot;](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target="_blank"}{target="_blank"} , um mehr zu erfahren.
 
-1. Klicken **[!UICONTROL Speichern]**.
+1. Klicks **[!UICONTROL Speichern]**.
 
    ![](assets/alert-the-sales-rep-10.png)
 
@@ -93,11 +93,11 @@ Um Warn-E-Mails automatisch an Vertriebsmitarbeiter zu senden, benötigen Sie le
 
    ![](assets/alert-the-sales-rep-16.png)
 
-1. Auswählen **[!UICONTROL Meine Benachrichtigungs-E-Mail]** zuvor erstellt und verlassen **[!UICONTROL Senden an]** as **[!UICONTROL Vertriebsmitarbeiter]**.
+1. Auswählen **[!UICONTROL Meine Benachrichtigungs-E-Mail]** zuvor erstellt und verlassen **[!UICONTROL Senden an]** as **[!UICONTROL Sales Owner]**.
 
    ![](assets/alert-the-sales-rep-17.png)
 
-1. Geben Sie Ihre E-Mail-Adresse in das Feld **[!UICONTROL zu anderen E-Mails]** -Feld.
+1. Geben Sie Ihre E-Mail-Adresse in **[!UICONTROL zu anderen E-Mails]** -Feld.
 
    ![](assets/alert-the-sales-rep-18.png)
 
@@ -109,7 +109,7 @@ Um Warn-E-Mails automatisch an Vertriebsmitarbeiter zu senden, benötigen Sie le
    >
    >Legen Sie die **[!UICONTROL Qualifikationsregeln]** nach **[!UICONTROL jedes Mal]** (durch Bearbeiten der Smart-Kampagne), damit dieselbe Person Warnhinweise mehrmals Trigger.
 
-1. Klicken **[!UICONTROL Aktivieren]** auf dem Bestätigungsbildschirm.
+1. Klicks **[!UICONTROL Aktivieren]** auf dem Bestätigungsbildschirm.
 
    ![](assets/alert-the-sales-rep-20.png)
 
@@ -121,7 +121,7 @@ Um Warn-E-Mails automatisch an Vertriebsmitarbeiter zu senden, benötigen Sie le
 
    >[!NOTE]
    >
-   >Vergessen Sie nicht, Landingpages zu genehmigen. sie gehen erst live, wenn sie genehmigt wurden.
+   >Vergessen Sie nicht, Landingpages zu validieren. Sie werden erst live geschaltet, wenn sie genehmigt wurden.
 
 1. Füllen Sie das Formular aus und klicken Sie auf **[!UICONTROL Einsenden]**.
 
@@ -139,4 +139,4 @@ Um Warn-E-Mails automatisch an Vertriebsmitarbeiter zu senden, benötigen Sie le
 
 [◄ Aufgabe 7: E-Mail personalisieren](/help/marketo/getting-started/quick-wins/personalize-an-email.md)
 
-[Auftrag 9: Persönliche Daten aktualisieren ►](/help/marketo/getting-started/quick-wins/update-person-data.md)
+[Mission 9: Aktualisieren der Daten des Benutzers ► ►](/help/marketo/getting-started/quick-wins/update-person-data.md)

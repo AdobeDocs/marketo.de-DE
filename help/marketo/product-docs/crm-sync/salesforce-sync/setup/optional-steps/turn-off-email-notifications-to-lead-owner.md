@@ -6,7 +6,7 @@ exl-id: e079ed85-5fdd-49c9-a89c-aaf854a5db63
 feature: Salesforce Integration
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Sie können die automatischen E-Mail-Benachrichtigungen deaktivieren, die bei Le
 
    ![](assets/admin-1.png)
 
-1. Klicken **Salesforce**.
+1. Klicks **Salesforce**.
 
    ![](assets/adminsalesforce.png)
 
@@ -27,6 +27,6 @@ Sie können die automatischen E-Mail-Benachrichtigungen deaktivieren, die bei Le
 
    ![](assets/salesforcesummary2.jpg)
 
-1. Deaktivieren Sie die **E-Mail-Benachrichtigung an den Eigentümer bei Lead-Zuweisung in Salesforce senden** ankreuzen. Klicken **Speichern**.
+1. Deaktivieren Sie die **E-Mail-Benachrichtigung an den Eigentümer bei Lead-Zuweisung in Salesforce senden** ankreuzen. Klicks **Speichern**.
 
    ![](assets/new-screen.png)

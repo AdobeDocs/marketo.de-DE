@@ -47,16 +47,16 @@ So fügen Sie sie einer E-Mail hinzu:
    >
    >Kopieren/Fügen Sie das gewünschte Token ein: **`{{system.forwardToFriendLink}}`** oder **`{{system.unsubscribeLink}}`** oder **`{{system.viewAsWebpageLink}}`**
 
-1. Klicken **Speichern**.
+1. Klicks **Speichern**.
 
    ![](assets/image2014-9-17-22-3a12-3a17.png)
 
 >[!IMPORTANT]
 >
->Wenn Sie diesen Ansatz verwenden, um das System-Token &quot;viewAsWebpageLink&quot;hinzuzufügen, können Sie **not** mit Token überschreiben. Verwenden Sie stattdessen [Hinzufügen eines Links &quot;Als Webseite anzeigen&quot;zu einer E-Mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md) -Ansatz, bei dem Sie &quot;viewAsWebPageLink&quot;mithilfe von Token überschreiben können.
+>Wenn Sie diesen Ansatz verwenden, um das System-Token &quot;viewAsWebpageLink&quot;hinzuzufügen, können Sie **not** mit Token überschreiben. stattdessen [Hinzufügen einer E-Mail als Webseitenlink anzeigen](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md) -Ansatz, bei dem Sie &quot;viewAsWebPageLink&quot;mithilfe von Token überschreiben können.
 
 >[!NOTE]
 >
 >Vergiss nicht, [E-Mail validieren](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md) wann geschehen.
 
-Gut gemacht! Jetzt wissen Sie, wie Sie ein System-Token als Link in einer E-Mail hinzufügen können.
+Schön gemacht! Jetzt wissen Sie, wie Sie ein System-Token als Link in einer E-Mail hinzufügen können.

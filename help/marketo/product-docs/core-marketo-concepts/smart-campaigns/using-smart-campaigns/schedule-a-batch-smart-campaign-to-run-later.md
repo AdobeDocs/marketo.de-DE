@@ -23,7 +23,7 @@ Wenn Sie eine Batch-Smart-Kampagne so einrichten möchten, dass sie irgendwann i
 
    ![](assets/schedule-a-batch-smart-campaign-to-run-later-1.png)
 
-1. Klicken **Später ausführen** klicken Sie auf das Kalendersymbol und wählen Sie den Tag aus, an dem die Smart-Kampagne ausgeführt werden soll.
+1. Klicks **Später ausführen** klicken Sie auf das Kalendersymbol und wählen Sie den Tag aus, an dem die Smart-Kampagne ausgeführt werden soll.
 
    ![](assets/schedule-a-batch-smart-campaign-to-run-later-2.png)
 
@@ -31,7 +31,7 @@ Wenn Sie eine Batch-Smart-Kampagne so einrichten möchten, dass sie irgendwann i
 
    ![](assets/schedule-a-batch-smart-campaign-to-run-later-3.png)
 
-1. Klicken **Speichern**.
+1. Klicks **Speichern**.
 
    ![](assets/schedule-a-batch-smart-campaign-to-run-later-4.png)
 

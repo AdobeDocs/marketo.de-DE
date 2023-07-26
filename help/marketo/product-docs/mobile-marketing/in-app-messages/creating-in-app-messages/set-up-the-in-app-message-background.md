@@ -31,11 +31,11 @@ Die Auswahl eines Nachrichtenhintergrunds ist ein wichtiger Schritt beim Fertigs
    >
    >Nur weiß, die Standardeinstellung, ist normalerweise ein Gewinner.
 
-1. Wenn Sie einen Hintergrund verwenden möchten, klicken Sie auf **Bild** und dann **Bild auswählen** Link.
+1. Wenn Sie einen Hintergrund verwenden möchten, klicken Sie auf **Bild** und dann **Bild auswählen** -Link.
 
    ![](assets/image2016-5-9-8-3a52-3a43.png)
 
-1. Wählen Sie aus den in das Design Studio hochgeladenen Dateien aus. Klicken **Auswählen**.
+1. Wählen Sie aus den in das Design Studio hochgeladenen Dateien aus. Klicks **Auswählen**.
 
    ![](assets/image2016-5-9-9-3a0-3a2.png)
 
@@ -65,12 +65,12 @@ Die Auswahl eines Nachrichtenhintergrunds ist ein wichtiger Schritt beim Fertigs
 
    >[!NOTE]
    >
-   >Für Tippen-Aktionen für Hintergründe können Sie verschiedene Aktionen für Apple- und Android-Plattformen einrichten. Deep-Links werden beispielsweise für Apple und Android unterschiedlich gehandhabt. Wenn Ihre Nachricht nur eine Plattform besucht, lassen Sie die andere Plattform in der Standardeinstellung oder wählen Sie **Keines**.
+   >Für Tippen-Aktionen für Hintergründe können Sie verschiedene Aktionen für Apple- und Android-Plattformen einrichten. Deep-Links werden beispielsweise für Apple und Android unterschiedlich gehandhabt. Wenn Ihre Nachricht nur eine Plattform besucht, bleibt die andere in der Standardeinstellung oder wählen Sie **Keines**.
 
    Um den Auftrag abzuschließen, müssen Sie als letzten Schritt [Einrichten der Schaltfläche &quot;Verwerfen&quot;](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-dismiss-button-and-approve-the-message.md).
 
    >[!MORELIKETHIS]
    >
-   >* [Grundlegendes zu In-App-Nachrichten](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+   >* [In-App-Nachrichten verstehen](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
    >* [In-App-Nachricht senden](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md)
-   >* [Layout für Ihre In-App-Nachricht auswählen](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
+   >* [Auswählen eines Layouts für Ihre In-App-Nachricht](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)

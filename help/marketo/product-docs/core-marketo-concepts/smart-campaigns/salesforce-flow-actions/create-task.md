@@ -13,7 +13,7 @@ ht-degree: 3%
 
 # Aufgabe erstellen {#create-task}
 
-Als Marketing-Experte verfügen Sie über Informationen, die dem Vertrieb beim Abschluss von Angeboten helfen können. Sie können Aufgaben erstellen, um ihnen mitzuteilen, was sie tun und wann sie es tun sollten.
+Als Marketing-Experte verfügen Sie über Informationen, die dem Vertrieb beim Abschluss von Geschäften helfen können. Sie können Aufgaben erstellen, um ihnen mitzuteilen, was sie tun und wann sie es tun sollten.
 
 ![](assets/image2014-9-22-14-3a54-3a46.png)
 

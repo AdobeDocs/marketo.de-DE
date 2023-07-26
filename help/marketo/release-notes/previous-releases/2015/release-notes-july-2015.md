@@ -11,7 +11,7 @@ ht-degree: 3%
 
 ---
 
-# Versionshinweise: Juli 2015 {#release-notes-july}
+# Juli 2015 - Versionshinweise {#release-notes-july}
 
 ## Marketo Moments {#marketo-moments}
 
@@ -48,10 +48,10 @@ Haben Sie mehrere personalisierte RTP-Kampagnen eingerichtet und festgestellt, d
 
 ## Firmen-API {#company-api}
 
-**Zugriff auf Unternehmensobjekte über die REST-API**: Die REST-API bietet jetzt Zugriff auf das Marketo-Firmenobjekt (auch Konto genannt). Das bedeutet, dass Sie in Marketo erstellte Unternehmensobjekte lesen, aktualisieren und löschen und mit diesen Unternehmen Leads über die aktualisierte Lead-API verknüpfen können.
+**Zugriff auf Unternehmensobjekte über die REST-API**: Die REST-API bietet jetzt Zugriff auf das Marketo-Unternehmensobjekt (auch Konto genannt). Das bedeutet, dass Sie in Marketo erstellte Unternehmensobjekte lesen, aktualisieren und löschen und mit diesen Unternehmen Leads über die aktualisierte Lead-API verknüpfen können.
 
 Lernen [more](https://developers.marketo.com/documentation/company-api/) in unserem Referenzhandbuch für die Firmen-API.
 
 ## Email Deliverability aufrufen {#access-email-deliverability}
 
-**Email Deliverability Tool aufrufen**: Mit dieser neuen Berechtigung können Administratoren Benutzern Zugriff auf das Email Deliverability-Tool gewähren.
+**Email Deliverability Tool aufrufen**: Diese neue Berechtigung ermöglicht es Administratoren, Benutzern Zugriff auf das Email Deliverability-Tool zu gewähren.

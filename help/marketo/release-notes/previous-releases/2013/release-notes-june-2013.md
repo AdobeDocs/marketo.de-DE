@@ -11,7 +11,7 @@ ht-degree: 1%
 
 ---
 
-# Versionshinweise: Juni 2013 {#release-notes-june}
+# Juni 2013 - Versionshinweise {#release-notes-june}
 
 Die folgenden Funktionen sind in der Juni-Version enthalten.
 
@@ -23,13 +23,13 @@ Zeigen Sie die Marketo-Benutzeroberfläche für die Lead-Verwaltung in Ihrer bev
 
 ## Cobalt-Benutzeroberfläche {#cobalt-user-interface}
 
-In den nächsten Monaten werden Sie ein neues Thema sehen, das in verschiedenen Teilen der Anwendung eingeführt wurde. Auswirkungen beispielsweise auf modale Fenster.
+In den nächsten Monaten werden Sie ein neues Thema sehen, das in verschiedenen Teilen der Anwendung eingeführt wurde, z. B. mit Auswirkungen auf modale Fenster.
 
 ![](assets/image2014-9-22-16-3a26-3a8.png)
 
 ## Unterordnerklonen {#subfolder-cloning}
 
-Klonen von Assets in Unterordnern
+Klonen Sie Assets in Unterordnern.
 
 ![](assets/image2014-9-22-16-3a26-3a25.png)
 

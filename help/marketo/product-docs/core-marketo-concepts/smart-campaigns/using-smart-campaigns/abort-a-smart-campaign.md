@@ -23,17 +23,17 @@ Manchmal starten Sie eine Smart-Kampagne und erkennen sofort, dass dies ein Fehl
 
    ![](assets/abort-a-smart-campaign-1.png)
 
-1. Klicken Sie auf **Kampagnenaktionen** Dropdown-Liste. Auswählen **Abbruch der Kampagne**.
+1. Klicken Sie auf **Kampagnenaktionen** angezeigt. Auswählen **Abbruch der Kampagne**.
 
    ![](assets/abort-a-smart-campaign-2.png)
 
-1. Klicken **Abbruch** zur Bestätigung.
+1. Klicks **Abbruch** zur Bestätigung.
 
    ![](assets/abort-a-smart-campaign-3.png)
 
    >[!NOTE]
    >
-   >Beim Abbrechen werden die bereits abgeschlossenen Schritte nicht rückgängig gemacht. Es wird einfach verhindert, dass mehr passiert (Beispiel: E-Mails können nicht rückgängig gemacht werden).
+   >Durch Abbruch werden die bereits abgeschlossenen Schritte nicht rückgängig gemacht, sondern nur die Durchführung weiterer Schritte verhindert (z. B.: E-Mails können nicht rückgängig gemacht werden).
 
    ![](assets/abort-a-smart-campaign-4.png)
 

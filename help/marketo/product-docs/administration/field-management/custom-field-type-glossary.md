@@ -33,7 +33,7 @@ Wenn Sie ein benutzerdefiniertes Feld in Marketo erstellen, haben Sie eine Liste
 
 **Beispielwerte:** True (aktiviert) / False (deaktiviert)
 
-**Benutzer**: Keines
+**Operatoren**: Keine
 
 ## Währung {#currency}
 
@@ -41,7 +41,7 @@ Wenn Sie ein benutzerdefiniertes Feld in Marketo erstellen, haben Sie eine Liste
 
 **Beispielwerte:** 100
 
-**Benutzer**: ist, nicht zwischen, größer, kleiner als, zumindest höchstens leer ist, nicht leer ist
+**Operatoren**: ist, ist nicht zwischen, größer als, kleiner als, zumindest höchstens leer, ist nicht leer
 
 ## Datum {#date}
 
@@ -49,15 +49,15 @@ Wenn Sie ein benutzerdefiniertes Feld in Marketo erstellen, haben Sie eine Liste
 
 **Beispielwerte:** 19.08.14
 
-**Benutzer**: ist, ist nicht zwischen, in der Vergangenheit, in der Vergangenheit, in Zukunft, nachdem, im Zeitrahmen, nachdem, bevor, an oder danach, an oder davor, leer ist, nicht leer ist
+**Operatoren**: ist, liegt nicht dazwischen, in der Vergangenheit, in der Vergangenheit, in Zukunft, nachdem, im Zeitrahmen, nachdem, bevor, an oder danach, an oder davor, leer ist, nicht leer ist.
 
 ## Datum/Uhrzeit {#datetime}
 
 **Beispielname:** Erstellungsdatum - Speichern Sie Datum und Uhrzeit der Erstellung einer Person.
 
-**Beispielwerte:** 19.08.14 2:00
+**Beispielwerte:** 19.8.14 2:00
 
-**Benutzer**: ist, ist nicht zwischen, in der Vergangenheit, in der Vergangenheit, in Zukunft, nachdem, im Zeitrahmen, nachdem, bevor, an oder danach, an oder davor, leer ist, nicht leer ist
+**Operatoren**: ist, liegt nicht dazwischen, in der Vergangenheit, in der Vergangenheit, in Zukunft, nachdem, im Zeitrahmen, nachdem, bevor, an oder danach, an oder davor, leer ist, nicht leer ist.
 
 ## E-Mail {#email}
 
@@ -65,7 +65,7 @@ Wenn Sie ein benutzerdefiniertes Feld in Marketo erstellen, haben Sie eine Liste
 
 **Beispielwerte:** name@company.com
 
-**Benutzer**: is, is not, starts with, not starts with, contains, not contains, is empty, is not empty
+**Operatoren**: is, is, not, starts with, not starts with, contains, not contains, is, is empty, is not empty
 
 ## Fließkommazahl {#float}
 
@@ -73,11 +73,11 @@ Wenn Sie ein benutzerdefiniertes Feld in Marketo erstellen, haben Sie eine Liste
 
 **Beispielwerte:** 2,47
 
-**Benutzer**: zwischen, größer als, kleiner als, zumindest höchstens leer ist, nicht leer ist
+**Operatoren**: zwischen, größer als, kleiner als, zumindest höchstens leer ist, nicht leer ist
 
 ## Formel {#formula}
 
-**Beispielname:** Lösungen - verwenden Sie dieses spezielle Feld in einer [Lösung, um die richtige Anrede zu erhalten](/help/marketo/product-docs/administration/field-management/create-and-use-a-concatenated-string-formula-field.md) auf der Grundlage des Geschlechts
+**Beispielname:** Lösungen - verwenden Sie dieses spezielle Feld in einer [Lösung, um die richtige Anrede zu erhalten](/help/marketo/product-docs/administration/field-management/create-and-use-a-concatenated-string-formula-field.md) geschlechtsbasiert
 
 **Beispielwerte:** die verknüpfte Lösung überprüfen
 
@@ -87,7 +87,7 @@ Wenn Sie ein benutzerdefiniertes Feld in Marketo erstellen, haben Sie eine Liste
 
 **Beispielwerte:** 600
 
-**Benutzer**: ist, nicht zwischen, größer, kleiner als, zumindest höchstens leer ist, nicht leer ist
+**Operatoren**: ist, ist nicht zwischen, größer als, kleiner als, zumindest höchstens leer, ist nicht leer
 
 ## Prozent {#percent}
 
@@ -95,15 +95,15 @@ Wenn Sie ein benutzerdefiniertes Feld in Marketo erstellen, haben Sie eine Liste
 
 **Beispielwerte:** 85 %
 
-**Benutzer**: ist, nicht zwischen, größer, kleiner als, zumindest höchstens leer ist, nicht leer ist
+**Operatoren**: ist, ist nicht zwischen, größer als, kleiner als, zumindest höchstens leer, ist nicht leer
 
 ## Telefon {#phone}
 
 **Beispielname:** Alternatives Telefon - Speichern Sie eine zusätzliche Telefonnummer für Ihre Personen.
 
-**Beispielwert:** 650-555-5555
+**Beispielwert:** 650 555 555
 
-**Benutzer**: is, is not, starts with, not starts with, contains, not contains, is empty, is not empty
+**Operatoren**: is, is, not, starts with, not starts with, contains, not contains, is, is empty, is not empty
 
 ## Bewertung {#score}
 
@@ -111,7 +111,7 @@ Wenn Sie ein benutzerdefiniertes Feld in Marketo erstellen, haben Sie eine Liste
 
 **Beispielwert:** 14
 
-**Benutzer**: ist, nicht zwischen, größer, kleiner als, zumindest höchstens leer ist, nicht leer ist
+**Operatoren**: ist, ist nicht zwischen, größer als, kleiner als, zumindest höchstens leer, ist nicht leer
 
 ## Zeichenfolge {#string}
 
@@ -119,7 +119,7 @@ Wenn Sie ein benutzerdefiniertes Feld in Marketo erstellen, haben Sie eine Liste
 
 **Beispielwert:** Rose
 
-**Benutzer**: is, is not, starts with, not starts with, contains, not contains, is empty, is not empty
+**Operatoren**: is, is, not, starts with, not starts with, contains, not contains, is, is empty, is not empty
 
 ## Textbereich {#text-area}
 
@@ -127,7 +127,7 @@ Wenn Sie ein benutzerdefiniertes Feld in Marketo erstellen, haben Sie eine Liste
 
 **Beispielwert:** Dieser Artikel ist fantastisch!
 
-**Benutzer**: is, is not, starts with, not starts with, contains, not contains, is empty, is not empty
+**Operatoren**: is, is, not, starts with, not starts with, contains, not contains, is, is empty, is not empty
 
 ## URL {#url}
 
@@ -135,4 +135,4 @@ Wenn Sie ein benutzerdefiniertes Feld in Marketo erstellen, haben Sie eine Liste
 
 **Beispielwert:** www.myblog.com
 
-**Benutzer**: is, is not, starts with, not starts with, contains, not contains, is empty, is not empty
+**Operatoren**: is, is, not, starts with, not starts with, contains, not contains, is, is empty, is not empty

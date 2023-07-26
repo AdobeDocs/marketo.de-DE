@@ -23,13 +23,13 @@ Interaktionsprogramme können mehrere Streams aufweisen. Wenn Sie [Stream hinzuf
 
    ![](assets/multistream.jpg)
 
-1. Klicken **Übergangsregeln** für den Stream, in den Sie aus anderen Streams abrufen möchten, klicken Sie auf **Übergangsregeln bearbeiten**.
+1. Klicks **Übergangsregeln** für den Stream, in den Sie aus anderen Streams abrufen möchten, klicken Sie auf **Übergangsregeln bearbeiten**.
 
    ![](assets/image2014-9-15-18-3a10-3a18.png)
 
    >[!NOTE]
    >
-   >Übergangsregeln werden in einen Stream gezogen. Definieren Sie immer die Regeln für den Stream, in den Sie ziehen möchten.
+   >Übergangsregeln ziehen in einen Stream. Definieren Sie immer die Regeln im Stream, in den Sie ziehen möchten.
 
    Sobald das Fenster der Übergangsregel geöffnet ist, suchen und ziehen Sie den gewünschten Trigger. In diesem Fall möchten wir Menschen in die Mid-Stage verschieben, wenn sie zu einer Chance hinzugefügt wird.
 
@@ -53,4 +53,4 @@ Interaktionsprogramme können mehrere Streams aufweisen. Wenn Sie [Stream hinzuf
 
    >[!NOTE]
    >
-   >Die oben beschriebenen Schritte *do* sich auf Personen, die [bei Pause](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md) sowie
+   >Die oben beschriebenen Schritte *do* sich auf Personen beziehen, die [bei Pause](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md) sowie.

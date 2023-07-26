@@ -57,7 +57,7 @@ Wenn Sie Ihr Modell erstellen und Ihre Inventarphasen auswählen und organisiere
 
    ![](assets/eight.png)
 
-1. Wenn Sie dies korrekt getan haben, wird die folgende Meldung angezeigt.
+1. Wenn Sie die Funktion korrekt ausgeführt haben, wird die folgende Meldung angezeigt.
 
    ![](assets/nine.png)
 

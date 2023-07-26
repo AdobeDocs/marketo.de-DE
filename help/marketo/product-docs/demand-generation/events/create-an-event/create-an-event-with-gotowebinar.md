@@ -35,7 +35,7 @@ Nachstehend finden Sie eine Liste der von Marketo verwendeten Einstellungen.
 
 ## Datum &amp; Uhrzeit {#date-time}
 
-Geben Sie die folgenden Informationen für Ihr Webinar ein, das über den Adapter nach Marketo gezogen wird. Wenn Sie Änderungen an diesen Informationen vornehmen, müssen Sie auf den Link &quot;**Von Webinar-Anbieter aktualisieren**&quot; **Ereignisaktionen**, damit Marketo die Änderungen sehen kann.
+Geben Sie die folgenden Informationen für Ihr Webinar ein, das über den Adapter nach Marketo gezogen wird. Wenn Sie Änderungen an diesen Informationen vornehmen, müssen Sie auf den Link &quot;**Von Webinar-Anbieter aktualisieren**&quot; unter **Ereignisaktionen**, damit Marketo die Änderungen sehen kann.
 
 **Startdatum** - geben Sie Ihr Startdatum ein. Dies ist in Marketo sichtbar.
 
@@ -59,7 +59,7 @@ Geben Sie die folgenden Informationen für Ihr Webinar ein, das über den Adapte
 
 Jetzt springen wir in Marketo!
 
-1. Wählen Sie ein Ereignis aus. Klicken **Ereignisaktionen** und wählen Sie **Ereigniseinstellungen**.
+1. Wählen Sie ein Ereignis aus. Klicks **Ereignisaktionen** und wählen **Ereigniseinstellungen**.
 
    ![](assets/image2015-5-14-14-3a53-3a10.png)
 
@@ -67,7 +67,7 @@ Jetzt springen wir in Marketo!
    >
    >Der Kanaltyp des ausgewählten Ereignisses muss **Webinar**.
 
-1. Auswählen **GoToWebinar** von **Veranstaltungspartner** Liste.
+1. Auswählen **GoToWebinar** aus dem **Veranstaltungspartner** Liste.
 
    ![](assets/image2015-5-14-14-3a55-3a20.png)
 
@@ -79,7 +79,7 @@ Jetzt springen wir in Marketo!
 
    ![](assets/image2015-5-14-14-3a57-3a31.png)
 
-1. Klicken **Speichern**.
+1. Klicks **Speichern**.
 
    ![](assets/image2015-5-14-14-3a58-3a54.png)
 
@@ -105,9 +105,9 @@ Jetzt springen wir in Marketo!
 
    >[!TIP]
    >
-   >Es kann bis zu 48 Stunden dauern, bis die Daten in Marketo angezeigt werden. Wenn Sie nach so langer Wartezeit immer noch nichts sehen, wählen Sie **Von Webinar-Anbieter aktualisieren** über das Menü &quot;Ereignisaktionen&quot;im **Zusammenfassung** Registerkarte Ihres Ereignisses.
+   >Die Anzeige der Daten in Marketo kann bis zu 48 Stunden dauern. Wenn Sie nach so langer Wartezeit immer noch nichts sehen, wählen Sie **Von Webinar-Anbieter aktualisieren** über das Menü &quot;Ereignisaktionen&quot;im **Zusammenfassung** -Registerkarte Ihres Ereignisses.
 
-Personen, die sich für Ihr Webinar anmelden, werden über den Schritt Programmstatus ändern zu Ihrem Webinar-Anbieter gepusht, wenn für Neuen Status &quot;Registriert&quot;festgelegt ist. Kein anderer Status wird die Person überstürzen. Stellen Sie außerdem sicher, dass Sie Schritt 1 zum Ändern des Programmstatus und Schritt 2 zum Senden eines E-Mail-Flusses durchführen.
+Personen, die sich für Ihr Webinar anmelden, werden über den Schritt Programmstatus ändern zu Ihrem Webinar-Anbieter gepusht, wenn für Neuer Status &quot;Registriert&quot;festgelegt ist. Kein anderer Status wird die Person überstürzen. Stellen Sie außerdem sicher, dass Sie Schritt 1 zum Ändern des Programmstatus und Schritt 2 zum Senden eines E-Mail-Flusses durchführen.
 
 ## Anzeigen des Zeitplans  {#viewing-the-schedule}
 

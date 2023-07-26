@@ -21,8 +21,8 @@ ht-degree: 0%
 >
 >Wenn Sie Salesforce Enterprise/Unlimited haben:
 >
->* [Schritt 1 von 3: Marketo-Felder zu Salesforce hinzufügen (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
->* [Schritt 2 von 3: Salesforce-Benutzer für Marketo erstellen (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
+>* [Schritt 1 von 3: Hinzufügen von Marketo-Feldern zu Salesforce (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
+>* [Schritt 2 von 3: Erstellen eines Salesforce-Benutzers für Marketo (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
 >* [Schritt 3 von 3: Verbinden von Marketo und Salesforce (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
 >* [Konfigurieren von Marketo Sales Insight in Salesforce Enterprise/Unlimited](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
 >
@@ -33,27 +33,27 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo Sales Insight in Salesforce1 umfasst: Best-Bets, Lead-Feed, interessante Momente und Hinzufügen zu Marketo Campaign.
+>Marketo Sales Insight in Salesforce1 umfasst: Best Bets, Lead-Feed, interessante Momente und Add to Marketo Campaign.
 
 ## Salesforce1 Mobile App aktivieren {#enable-the-salesforce1-mobile-app}
 
-1. Klicken **Einrichtung** und dann **Mobile Administration**.
+1. Klicks **Einrichtung** und dann **Mobile Administration**.
 
    ![](assets/image2015-4-21-15-3a29-3a22.png)
 
-1. Klicken **Salesforce1**.
+1. Klicks **Salesforce1**.
 
    ![](assets/image2015-4-21-15-3a30-3a51.png)
 
-1. Klicken **Salesforce1-Einstellungen**.
+1. Klicks **Salesforce1-Einstellungen**.
 
    ![](assets/image2015-4-21-15-3a32-3a21.png)
 
-1. Klicken **Mobile Browser-App Salesforce1 aktivieren**.
+1. Klicks **Mobile Browser-App Salesforce1 aktivieren**.
 
    ![](assets/image2015-4-21-15-3a34-3a27.png)
 
-1. Klicken **Speichern**.
+1. Klicks **Speichern**.
 
    ![](assets/image2015-4-21-15-3a42-3a48.png)
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-11-3a10-3a14.png)
 
-1. Klicken **Navigationsmenü für Mobilgeräte verwalten**.
+1. Klicks **Navigationsmenü für Mobilgeräte verwalten**.
 
    ![](assets/image2015-4-22-11-3a13-3a10.png)
 
@@ -75,7 +75,7 @@ ht-degree: 0%
 
 ## Veraltetes benutzerdefiniertes Marketo-Objekt ausblenden {#hide-outdated-marketo-custom-object}
 
-1. Klicken **Einrichtung**.
+1. Klicks **Einrichtung**.
 
    ![](assets/image2015-4-22-15-3a13-3a48.png)
 
@@ -109,7 +109,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-17-3a14-3a49.png)
 
-1. Klicken **Benutzerdefinierte Registerkarten**.
+1. Klicks **Benutzerdefinierte Registerkarten**.
 
    ![](assets/image2015-4-22-17-3a16-3a22.png)
 
@@ -123,11 +123,11 @@ ht-degree: 0%
 
 ## Seitenlayouts anpassen {#customize-page-layouts}
 
-1. Klicken **Einrichtung**.
+1. Klicks **Einrichtung**.
 
    ![](assets/image2015-4-22-17-3a26-3a56.png)
 
-1. Klicken **Einrichtung**, Typ **Seitenlayouts** und klicken Sie auf **Seitenlayouts** unter &quot;Leads&quot;.
+1. Klicks **Einrichtung**, Typ **Seitenlayouts** und klicken Sie auf **Seitenlayouts** unter &quot;Leads&quot;.
 
    >[!NOTE]
    >
@@ -135,11 +135,11 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-17-3a34-3a33.png)
 
-1. Klicken **Bearbeiten** , um Änderungen am Lead-Layout vorzunehmen.
+1. Klicks **Bearbeiten** , um Änderungen am Lead-Layout vorzunehmen.
 
    ![](assets/image2015-4-22-17-3a44-3a0.png)
 
-1. Klicken **Visualforce-Seiten** und ziehen Sie **Lead Mobile** in den Bereich Karten für Mobilgeräte .
+1. Klicks **Visualforce-Seiten** und ziehen Sie **Lead Mobile** in den Bereich Karten für Mobilgeräte .
 
    ![](assets/image2015-4-22-17-3a49-3a37.png)
 
@@ -147,7 +147,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-17-3a52-3a15.png)
 
-1. Klicken **Felder** und ziehen **Zu Marketo Campaign hinzufügen** der **Marketo Sales Insight** Abschnitt.
+1. Klicks **Felder** und ziehen **Zu Marketo Campaign hinzufügen** der **Marketo Sales Insight** Abschnitt.
 
    ![](assets/configure-step-6.png)
 
@@ -155,7 +155,7 @@ ht-degree: 0%
    >
    >Geben Sie &quot;Hinzufügen zu&quot;in die Schnellsuche ein, um die Suche nach Hinzufügen zu Marketo Campaign zu vereinfachen.
 
-1. Klicken **Speichern**.
+1. Klicks **Speichern**.
 
    ![](assets/image2015-4-22-18-3a1-3a56.png)
 

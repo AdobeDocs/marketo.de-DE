@@ -38,7 +38,7 @@ Nachstehend finden Sie eine Liste der Erinnerungsaufgaben-Felder in Sales Insigh
  <tr>
   <td>Status</td>
   <td>Aufgabenstatus</td>
-  <td><p>Zeigt den Status der Aufgabe an. Sales Insight-Aktionen haben zwei Status, die zwei der Werte in der Liste für den Aufgabenstatus der Salesforce zuordnen.</p>
+  <td><p>Zeigt den Status der Aufgabe an. Sales Insight-Aktionsaufgaben verfügen über zwei Status, die zwei der Werte in der Liste für den Status der Salesforce-Aufgaben zuordnen.</p>
   <p>Öffnen Sie in Sales Insight Actions = Not Started in Salesforce.</p>
   <p>Abgeschlossen in Sales Insight-Aktionen = Abgeschlossen in Salesforce.</p>
   <p>Die anderen Statuswerte in Salesforce werden nicht mit Sales Insight-Aktionen synchronisiert.</p></td>
@@ -46,7 +46,7 @@ Nachstehend finden Sie eine Liste der Erinnerungsaufgaben-Felder in Sales Insigh
  <tr>
   <td>Priorität</td>
   <td>Priorität</td>
-  <td><p>Die Priorität von Sales Insight-Aktionen kann entweder "Normal"oder "Hoch"sein, die den Prioritätswerten Normal und Hoch in Salesforce zugeordnet sind.</p>
+  <td><p>Die Priorität von Sales Insight-Aktionen kann entweder "Normal"oder "Hoch"lauten, die den Prioritätswerten Normal und Hoch in Salesforce zugeordnet sind.</p>
   <p>Der Wert mit niedriger Priorität in Salesforce wird nicht mit Sales Insight-Aktionen synchronisiert.</p></td>
  </tr>
  <tr>

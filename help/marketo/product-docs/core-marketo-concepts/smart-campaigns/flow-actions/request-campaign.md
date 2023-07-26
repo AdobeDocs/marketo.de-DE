@@ -23,7 +23,7 @@ Sie können Personen mithilfe der **Anforderungskampagne** Schritt mit einem Flu
 
    ![](assets/one-5.png)
 
-1. Klicken **Personenaktionen**, bewegen Sie den Mauszeiger über **Sonderaktion** und wählen Sie **Anforderungskampagne**.
+1. Klicks **Personenaktionen**, bewegen Sie den Mauszeiger über **Sonderaktion** und wählen Sie **Anforderungskampagne**.
 
    ![](assets/two-5.png)
 
@@ -31,7 +31,7 @@ Sie können Personen mithilfe der **Anforderungskampagne** Schritt mit einem Flu
 
    ![](assets/three-4.png)
 
-1. Oben rechts auf dem Bildschirm sehen Sie, wann es fertig ist. Klicken **Ergebnisse anzeigen**.
+1. Oben rechts auf dem Bildschirm sehen Sie, wann es fertig ist. Klicks **Ergebnisse anzeigen**.
 
    ![](assets/four-4.png)
 
@@ -43,4 +43,4 @@ Sie können Personen mithilfe der **Anforderungskampagne** Schritt mit einem Flu
 
 >[!TIP]
 >
->Verwenden Sie die **Kampagne wird angefordert** Trigger oder Filter, um Personen zu finden, die von diesem Flussschritt betroffen sind.
+>Verwenden Sie die **Kampagne wird angefordert** Trigger oder Filter, um von diesem Flussschritt betroffene Personen zu finden.

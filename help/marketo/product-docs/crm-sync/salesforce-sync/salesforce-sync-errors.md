@@ -20,11 +20,11 @@ Zeigen Sie eine Zusammenfassung der Fehler an, die während des Synchronisierung
 
 ## Synchronisierungsfehler anzeigen {#view-sync-errors}
 
-1. Klicken **Admin**.
+1. Klicks **Admin**.
 
    ![](assets/salesforce-sync-errors-1.png)
 
-1. Klicken Sie unter &quot;Integration&quot;auf **Salesforce**, dann **Synchronisierungsfehler** Registerkarte.
+1. Klicken Sie unter &quot;Integration&quot;auf **Salesforce**, dann die **Synchronisierungsfehler** Registerkarte.
 
    ![](assets/salesforce-sync-errors-2.png)
 
@@ -48,7 +48,7 @@ Zeigen Sie eine Zusammenfassung der Fehler an, die während des Synchronisierung
 
    ![](assets/salesforce-sync-errors-3.png)
 
-1. Wählen Sie Datum und Zeitraum aus und filtern Sie dann nach Fehlertyp (Auftragsebene oder Datensatzebene). Klicken **Anwenden** wann geschehen.
+1. Wählen Sie Datum und Zeitraum aus und filtern Sie dann nach Fehlertyp (Auftragsebene oder Datensatzebene). Klicks **Anwenden** wann geschehen.
 
    ![](assets/salesforce-sync-errors-4.png)
 

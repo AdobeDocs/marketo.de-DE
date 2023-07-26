@@ -21,13 +21,13 @@ Manchmal müssen Sie Änderungen in einem Arbeitsbereich vornehmen. Es ist einfa
 
 >[!NOTE]
 >
->In Arbeitsbereiche mit [Grundlegendes zu Arbeitsbereichen und Personen-Partitionen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.
+>In Arbeitsbereiche mit [Grundlagen zu Arbeitsbereichen und Personen-Partitionen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.
 
 1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
 
    ![](assets/edit-a-workspace-1.png)
 
-1. Klicken **[!UICONTROL Arbeitsbereiche und Partitionen]**.
+1. Klicks **[!UICONTROL Arbeitsbereiche und Partitionen]**.
 
    ![](assets/edit-a-workspace-2.png)
 
@@ -51,7 +51,7 @@ Manchmal müssen Sie Änderungen in einem Arbeitsbereich vornehmen. Es ist einfa
    >
    >Die **[!UICONTROL Primäre Personenpartition]** fungiert als Standard und ist der Ort, an dem alle Personen zugewiesen werden.
 
-   Wenn Sie mehrere Markendomänen aktiviert haben, können Sie zu einer anderen primären Markendomäne wechseln. Klicken **[!UICONTROL Speichern]**.
+   Wenn Sie mehrere Markendomänen aktiviert haben, können Sie zu einer anderen primären Markendomäne wechseln. Klicks **[!UICONTROL Speichern]**.
 
    ![](assets/edit-a-workspace-5.png)
 
@@ -62,4 +62,4 @@ Manchmal müssen Sie Änderungen in einem Arbeitsbereich vornehmen. Es ist einfa
 >[!MORELIKETHIS]
 >
 >* [Neuen Arbeitsbereich erstellen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md){target="_blank"}
->* [Grundlegendes zu Arbeitsbereichen und Personen-Partitionen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}
+>* [Grundlagen zu Arbeitsbereichen und Personen-Partitionen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}

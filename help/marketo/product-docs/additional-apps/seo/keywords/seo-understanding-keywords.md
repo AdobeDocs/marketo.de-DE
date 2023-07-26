@@ -15,7 +15,7 @@ ht-degree: 0%
 
 [!UICONTROL Schlüsselwörter] sind das Rückgrat Ihrer SEO-Strategie. Ihr Ziel besteht darin, auf der ersten Seite so nah wie möglich an #1 für Suchbegriffe zu sein, die für Ihr Unternehmen relevant sind.
 
-Die [!UICONTROL Schlüsselwörter] wird Ihnen gezeigt, wie erfolgreich Ihre Site dies erreicht hat und wie Sie [Ihre Konkurrenz](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md).
+Die [!UICONTROL Schlüsselwörter] wird Ihnen gezeigt, wie erfolgreich Ihre Site dies erreicht hat und wie Sie [Ihr Wettbewerb](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md).
 
 ## [!UICONTROL Schlüsselwörter] - Zusammenfassungsansicht {#keywords-summary-view}
 
@@ -46,7 +46,7 @@ Die [!UICONTROL Schlüsselwörter] wird Ihnen gezeigt, wie erfolgreich Ihre Site
    <td colspan="1" rowspan="1">Wie viele Suchvorgänge werden monatlich für den Suchbegriff durchgeführt. Diese Daten basieren auf exakten Übereinstimmungen und sind nur für Google-USA über einen Zeitraum von 12 Monaten verfügbar. </td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><span class="uicontrol">Höchste Ranking-URL für Suchbegriff-Wortgruppe</span></td>
+   <td colspan="1" rowspan="1"><span class="uicontrol">Höchste Ranking-URL für Suchbegriff</span></td>
    <td colspan="1" rowspan="1">Von Ihren URLs, die den höchsten Rang für den Suchbegriff aufweisen.</td> 
   </tr> 
  </tbody> 
@@ -63,4 +63,4 @@ Sehr gut! Jetzt, da Sie die [!UICONTROL Schlüsselwörter] lassen Sie uns mehr �
 >[!MORELIKETHIS]
 >
 >* [Verstehen von Seiten](/help/marketo/product-docs/additional-apps/seo/pages/seo-understanding-pages.md)
->* [Grundlegendes zu eingehenden Links](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
+>* [Eingehende Links](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)

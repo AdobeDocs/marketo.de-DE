@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Ein- und Ausschalten eines Interaktionsprogramms {#turn-an-engagement-program-on-and-off}
 
-Sie können ein Interaktionsprogramm mit einem Schalter deaktivieren. Dadurch wird verhindert, dass Inhalte gesendet werden. So geht es.
+Sie können ein Interaktionsprogramm mit dem Klick auf einen Schalter deaktivieren. Dadurch wird verhindert, dass Inhalte gesendet werden. So geht es.
 
 1. Navigieren Sie zu **Marketingaktivitäten**.
 
@@ -31,8 +31,8 @@ Sie können ein Interaktionsprogramm mit einem Schalter deaktivieren. Dadurch wi
 
    ![](assets/image2014-9-15-17-3a14-3a59.png)
 
-1. Auswählen **Aus** und klicken Sie auf **Speichern**.
+1. Auswählen **Aus** und klicken **Speichern**.
 
    ![](assets/image2014-9-15-17-3a15-3a2.png)
 
-Da bist du! Sie können es mit denselben Schritten wieder aktivieren.
+Los geht&#39;s! Sie können es mit denselben Schritten wieder aktivieren.

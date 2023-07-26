@@ -27,11 +27,11 @@ Eine Personenpartition ist wie eine zweite (oder dritte) Datenbank. Eine Partiti
 
    ![](assets/edit-an-existing-person-partition-1.png)
 
-1. Klicken **[!UICONTROL Arbeitsbereiche und Partitionen]**.
+1. Klicks **[!UICONTROL Arbeitsbereiche und Partitionen]**.
 
    ![](assets/edit-an-existing-person-partition-2.png)
 
-1. Unter dem **[!UICONTROL Personenpartitionen]** , wählen Sie die Personenpartition aus, die Sie bearbeiten möchten, und klicken Sie auf **[!UICONTROL Personenpartition bearbeiten]**.
+1. Unter dem **[!UICONTROL Personen-Partitionen]** , wählen Sie die Personenpartition aus, die Sie bearbeiten möchten, und klicken Sie auf **[!UICONTROL Personenpartition bearbeiten]**.
 
    ![](assets/edit-an-existing-person-partition-3.png)
 

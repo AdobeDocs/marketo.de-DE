@@ -19,11 +19,11 @@ Marketo bietet eine feine Kontrolle über die Synchronisierung benutzerdefiniert
 >
 >**Erforderliche Administratorberechtigungen**
 
-1. Klicken **Admin.**
+1. Klicks **Admin.**
 
    ![](assets/image2014-12-10-13-3a9-3a47.png)
 
-1. Klicken **Admin** und dann **Salesforce-Objekte synchronisieren.**
+1. Klicks **Admin** und dann **Salesforce-Objekte synchronisieren.**
 
    ![](assets/image2015-12-11-15-3a11-3a41.png)
 
@@ -35,7 +35,7 @@ Marketo bietet eine feine Kontrolle über die Synchronisierung benutzerdefiniert
 
    ![](assets/image2014-12-10-13-3a10-3a11.png)
 
-1. Klicken **Sichtbare Felder bearbeiten**.
+1. Klicks **Sichtbare Felder bearbeiten**.
 
    >[!TIP]
    >

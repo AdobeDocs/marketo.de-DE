@@ -23,7 +23,7 @@ Befolgen Sie zur Implementierung Ihres RTP-Tags die folgenden Installationsanwei
 
    ![](assets/image2014-11-30-15-3a19-3a21-4.png)
 
-1. Suchen Sie unter &quot;Domain&quot;die entsprechende Domäne und klicken Sie auf **Tag generieren**.
+1. Suchen Sie unter Domäne die entsprechende Domäne und klicken Sie auf **Tag generieren**.
 
    ![](assets/image2014-11-30-15-3a20-3a17-4.png)
 
@@ -35,11 +35,11 @@ Befolgen Sie zur Implementierung Ihres RTP-Tags die folgenden Installationsanwei
 
 1. Navigieren Sie zu **Regeln** klicken **Neue Regel erstellen**.
 
-1. Füllen Sie Folgendes aus
+1. Füllen Sie Folgendes aus:
 
    1. Name: **Marketo RTP**
-   1. Bedingungen (reduzieren) : Trigger-Regel unter - **Seitenanfang**
-   1. JavaScript (Reduzieren): click **Neues Skript hinzufügen**
+   1. Bedingungen (Reduzieren) : Trigger-Regel unter - **Seitenanfang**
+   1. JavaScript (Reduzieren): Klicken **Neues Skript hinzufügen**
 
    ![](assets/image2014-12-3-17-3a59-3a40.png)
 
@@ -58,7 +58,7 @@ Befolgen Sie zur Implementierung Ihres RTP-Tags die folgenden Installationsanwei
    >
    >Achten Sie darauf, alle Tags zu entfernen und nur das Skript selbst zu lassen (nein `<script type='text/javascript'>` , `</script>` )
 
-1. Klicken **Code speichern** im Skript-Editor und **Regel speichern** im Regeleditor.
+1. Klicks **Code speichern** im Skript-Editor und **Regel speichern** im Regeleditor.
 
 1. Suchen Sie im Bereich Regeln die Marketo RTP-Seitenladeregel und innerhalb der Variablen **Aktionen** Dropdown-Auswahl **Aktivieren von Regeln**.
 
@@ -66,4 +66,4 @@ Befolgen Sie zur Implementierung Ihres RTP-Tags die folgenden Installationsanwei
 
 1. **Überprüfen** dass sie auf allen Seiten einschließlich Landingpages und Subdomänen angezeigt wird.
 
-   Klicken Sie mit der rechten Maustaste auf die Seiten Ihrer Website. Navigieren Sie zu **Inspect-Element** klicken Sie auf **Netzwerk**, Suche: **RTP**.
+   Klicken Sie mit der rechten Maustaste auf die Seiten Ihrer Website. Navigieren Sie zu **Inspect-Element**, klicken Sie auf **Netzwerk**, Suche: **RTP**.

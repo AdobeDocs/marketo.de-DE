@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Die Aktivierung einer Trigger-Smart-Kampagne gleicht ihrer Aktivierung. Hier ist, was zu tun ist.
 
-1. In der **Zeitplan** Registerkarte, klicken Sie auf **Aktivieren**.
+1. In der Smart-Kampagne **Zeitplan** Registerkarte, klicken **Aktivieren**.
 
    ![](assets/activate-a-trigger-smart-campaign-schedule-tab-1.png)
 
@@ -23,7 +23,7 @@ Die Aktivierung einer Trigger-Smart-Kampagne gleicht ihrer Aktivierung. Hier ist
    >
    >Überprüfen Sie die Smart-Kampagne, bevor Sie sie aktivieren.
 
-1. Klicken **Aktivieren** erneut.
+1. Klicks **Aktivieren** erneut.
 
    ![](assets/activate-a-trigger-smart-campaign-schedule-tab-2.png)
 

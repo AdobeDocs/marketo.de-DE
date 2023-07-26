@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Hierarchien sollen in CRMs erstellt werden. Wenn Sie jedoch kein CRM haben, führen Sie die folgenden Schritte aus, um eine Hierarchie manuell zu erstellen.
 
-1. Klicken Sie in &quot;Spezifische Konten&quot;auf die **Gruppe nach Hierarchie** aktivieren.
+1. Klicken Sie in &quot;Spezifische Konten&quot;auf die **Nach Hierarchie gruppieren** aktivieren.
 
    ![](assets/create-a-hierarchy-1.png)
 
    >[!NOTE]
    >
-   >Nur Nicht-CRM-Konten können zum manuellen Erstellen einer Hierarchie verwendet werden. CRM-verknüpfte Konten müssen ihre Hierarchien im CRM-System erstellen lassen.
+   >Nur Nicht-CRM-Konten können zum manuellen Erstellen einer Hierarchie verwendet werden. CRM-verknüpfte Konten müssen ihre Hierarchien im CRM erstellen lassen.
 
 1. Wählen Sie bei gedrückter Strg- (Windows) bzw. Befehlstaste (Mac) alle Konten aus, die Sie in einer Hierarchie gruppieren möchten.
 
@@ -35,7 +35,7 @@ Hierarchien sollen in CRMs erstellt werden. Wenn Sie jedoch kein CRM haben, füh
    >
    >Wenn Sie die Verknüpfung von Konten aufheben möchten, gehen Sie wie oben beschrieben vor, wählen Sie jedoch **Verknüpfung von benanntem Konto aufheben**.
 
-1. Wählen Sie ein übergeordnetes benanntes Konto aus der Dropdown-Liste aus und klicken Sie auf **Link**.
+1. Wählen Sie ein übergeordnetes benanntes Konto aus der Dropdownliste aus und klicken Sie auf **Link**.
 
    ![](assets/create-a-hierarchy-4.png)
 

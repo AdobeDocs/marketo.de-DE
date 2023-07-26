@@ -27,7 +27,7 @@ So können Sie Synchronisierungsfelder überprüfen und hinzufügen.
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. Klicken **Bearbeiten** in den Details zur Feldsynchronisierung.
+1. Klicks **Bearbeiten** in den Details zur Feldsynchronisierung.
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
@@ -39,7 +39,7 @@ So können Sie Synchronisierungsfelder überprüfen und hinzufügen.
 
    ![](assets/image2016-6-8-13-3a35-3a22.png)
 
-1. ...und das Kontrollkästchen Relative Bewertung .
+1. ... und das Kontrollkästchen Relative Bewertung .
 
    ![](assets/image2016-6-8-13-3a36-3a1.png)
 
@@ -47,7 +47,7 @@ So können Sie Synchronisierungsfelder überprüfen und hinzufügen.
 
    ![](assets/image2016-6-8-13-3a36-3a36.png)
 
-1. Klicken **Speichern**.
+1. Klicks **Speichern**.
 
    ![](assets/image2016-6-8-13-3a41-3a27.png)
 

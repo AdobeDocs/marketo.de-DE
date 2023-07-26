@@ -25,7 +25,7 @@ Um das Dashboard einer Kontoliste anzuzeigen, klicken Sie einfach auf den Namen.
 
 ![](assets/one-new.png)
 
-...und das Dashboard angezeigt.
+... und das Dashboard wird angezeigt.
 
 ![](assets/two-new-1.png)
 

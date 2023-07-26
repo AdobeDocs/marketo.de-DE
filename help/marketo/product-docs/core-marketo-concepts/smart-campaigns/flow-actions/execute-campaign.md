@@ -64,10 +64,10 @@ Bei Verwendung von Plan oder Anforderungskampagne [in der API](https://developer
 
 ## Zu beachten {#things-to-note}
 
-* Die Smart-Liste filtert alle Personen heraus, die sich nicht qualifizieren. Wenn sich eine Person qualifiziert, werden sie im Aktivitätsdatensatz der resultierenden ausgeführten Kampagne als &quot;qualifiziert&quot;aufgeführt: TRUE&quot;(und FALSE, wenn nicht)
+* Die Smart-Liste filtert alle Personen heraus, die sich nicht qualifizieren. Wenn sich eine Person qualifiziert, werden sie im Aktivitätsdatensatz &quot;Ausgeführte Kampagne&quot;als &quot;Qualifiziert: TRUE&quot;aufgeführt (und FALSE, wenn dies nicht der Fall ist).
 * Anwendung der Kampagnenqualifizierungsregeln planen (Einstellungen für intelligente Kampagnen auf der Registerkarte Plan )
 * Ausführbare Kampagnen können nicht über Arbeitsbereiche hinweg aufgerufen werden
-* Wenn Sie [Aus Fluss entfernen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) Flussaktion, die auf eine ausführbare Kampagne abzielt, dient dem Ziel, sowohl das untergeordnete als auch das übergeordnete Element
+* Wenn Sie die [Aus Fluss entfernen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) Flussaktion, die auf eine ausführbare Kampagne abzielt, dient dem Ziel, sowohl das untergeordnete als auch das übergeordnete Element
 * Nutzen der Token-Vererbung - Wenn Sie beispielsweise einen einzigen gemeinsamen Scoring-Fluss haben, der durch mehrere verschiedene Assets ausgelöst wird, können Sie in der untergeordneten Kampagne und in der übergeordneten Kampagne einen standardmäßigen My Token-Wert definieren, sodass Sie den untergeordneten Score-Kampagnenwert für Ihre übergeordneten Kampagnen überschreiben können (siehe unten für visuelles Beispiel).
 * Ausführbare Kampagnen können bis zu drei Ebenen tief aufgerufen werden (z. B. übergeordnete Kampagne > Untergeordnet > Untergeordnet > Untergeordnet).
 
@@ -77,7 +77,7 @@ Bei Verwendung von Plan oder Anforderungskampagne [in der API](https://developer
 
 ## Beispiel einer Token-Vererbung {#token-inheritance-example}
 
-Nachstehend finden Sie ein visuelles Beispiel für die Token-Vererbung in einer ausführbaren Kampagne und in zwei übergeordneten Kampagnen: einer mit Token-Kontext auf **True**, der andere **False**.
+Nachstehend finden Sie ein visuelles Beispiel für die Token-Vererbung in einer ausführbaren Kampagne und in zwei übergeordneten Kampagnen: eine mit Token-Kontext, der auf **True**, der andere **False**.
 
 Untergeordnete Kampagne mit einer Tokenisierten Änderungsbewertung.
 
@@ -97,7 +97,7 @@ Die My Tokens der übergeordneten Kampagne.
 
 ![](assets/execute-campaign-6.png)
 
-Die Ergebnisse: Wert um +10 geändert.
+Die Ergebnisse: Die Punktzahl wurde um +10 geändert.
 
 ![](assets/execute-campaign-7.png)
 
@@ -111,6 +111,6 @@ Die My Tokens der übergeordneten Kampagne.
 
 ![](assets/execute-campaign-9.png)
 
-Die Ergebnisse: Wert unverändert bleibt, da der Punktwert der untergeordneten Kampagne, +0, verwendet wurde.
+Die Ergebnisse: Die Punktzahl bleibt unverändert, da der Punktwert der untergeordneten Kampagne, +0, verwendet wurde.
 
 ![](assets/execute-campaign-10.png)

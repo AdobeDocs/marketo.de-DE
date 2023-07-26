@@ -1,6 +1,6 @@
 ---
 description: Häufig gestellte Fragen zur Benutzerkontensynchronisierung - Marketo-Dokumente - Produktdokumentation
-title: Häufig gestellte Fragen zur Benutzerkontosynchronisierung
+title: Häufig gestellte Fragen zur Benutzerkontensynchronisierung
 exl-id: b77bb44f-94d0-40b2-9955-9636421ac468
 feature: Veeva CRM
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -10,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Häufig gestellte Fragen zur Benutzerkontosynchronisierung {#person-account-sync-faq}
+# Häufig gestellte Fragen zur Benutzerkontensynchronisierung {#person-account-sync-faq}
 
 Marketo Engage synchronisiert Ihre gesamte Datenbank mit Veeva für den Datensatztyp &quot;Benutzerkonto&quot;. Nach der Synchronisation wartet es 5 Minuten und synchronisiert dann den ganzen Tag und jeden Tag erneut.
 

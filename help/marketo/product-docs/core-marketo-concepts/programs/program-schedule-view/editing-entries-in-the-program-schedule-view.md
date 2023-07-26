@@ -35,7 +35,7 @@ Sie können die verschiedenen Elemente Ihres Programms in der Planungsansicht be
 
    ![](assets/image2014-9-18-18-3a3-3a7.png)
 
-1. Bearbeiten Sie Ihre Beschreibung. Klicken **Speichern**.
+1. Bearbeiten Sie Ihre Beschreibung. Klicks **Speichern**.
 
    ![](assets/image2014-9-18-18-3a3-3a22.png)
 
@@ -53,4 +53,4 @@ Du rock! Jetzt wurde das Datum Ihres Eintrags in ein neues Datum verschoben.
 
 >[!NOTE]
 >
-> Smart-Kampagnen- und E-Mail-Programmeinträge, die bereits ausgeführt wurden, können nicht in die Vergangenheit verschoben werden.
+> Bereits ausgeführte Smart-Kampagnen- und E-Mail-Programmeinträge können nicht in die Vergangenheit verschoben werden.

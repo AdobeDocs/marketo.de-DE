@@ -18,14 +18,14 @@ Einige Einblicke in die Welt und Sprache von Marketo Web Personalization.
 | Begriff | Definition |
 |---|---|
 | **Anonymer Besucher** | Ein Webbesucher, der nie ein Formular ausgefüllt oder seine Details auf der Website gelassen hat. |
-| **Webkampagne** | Eine benutzerdefinierte Reaktion, die mit einem bestimmten Segment verknüpft ist. Bei der Web-Personalisierung enthalten Webkampagnen Dialogfelder, Bereiche und Widgets. |
+| **Webkampagne** | Eine benutzerspezifische Reaktion, die mit einem bestimmten Segment verknüpft ist. Bei der Web-Personalisierung enthalten Webkampagnen Dialogfelder, Bereiche und Widgets. |
 | **Clickstream** | Aktivität und URL-Pfad des Besuchers auf der Site und Dauer des Besuchs auf den einzelnen Seiten |
 | **ISP** | Internet Service Provider |
 | **Bekannter Besucher** | Ein Webbesucher, der ein Formular ausgefüllt und seine Details (E-Mail-Adresse) auf Ihrer Website gelassen oder auf einen Link in einer Marketo-E-Mail geklickt hat. |
 | **Kontoliste** | Eine Liste der wichtigsten Konto-/Organisationsnamen. Wird auch als Account-Based Marketing-Liste (ABM) bezeichnet. |
 | **Segmente** | Eine Sammlung von Besuchern, die die in der Variablen [Seite &quot;Segment festlegen&quot;](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md). |
 | **Test aufteilen** | Ein Testexperiment mit zwei oder mehr Varianten, um den Unterschied in den Ergebnissen zu messen. Das Ziel besteht darin, Änderungen an Webseiten zu identifizieren, die ein Interessenergebnis steigern oder maximieren. |
-| **Platzhalter** | Ein Platzhalterzeichen (&#42; wird verwendet), die vor oder nach einer Zeichenfolge verwendet wird, um andere Zeichen in einer Zeichenfolge zu ersetzen. Siehe die Beispiele unten. |
+| **Platzhalter** | Ein Platzhalter (&#42; wird verwendet), die vor oder nach einer Zeichenfolge verwendet wird, um andere Zeichen in einer Zeichenfolge zu ersetzen. Siehe die Beispiele unten. |
 
 ## Beispiele für Platzhalter {#wildcard-examples}
 

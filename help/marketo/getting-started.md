@@ -23,7 +23,7 @@ Was ist Marketo Engage, fragen Sie? Große Frage!
 
 Mit ein wenig Hilfe von Ihrem IT-Team können Sie es in kürzester Zeit erledigen.
 
-[Einrichten](/help/marketo/getting-started/setup/setup-steps.md){target="_blank"}
+[Einrichtung starten](/help/marketo/getting-started/setup/setup-steps.md){target="_blank"}
 
 ## Gewinnen Sie Quick Wins {#get-some-quick-wins}
 

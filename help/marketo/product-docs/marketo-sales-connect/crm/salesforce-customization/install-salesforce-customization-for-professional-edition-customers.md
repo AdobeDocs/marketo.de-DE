@@ -44,7 +44,7 @@ Kunden mit Salesforce Professional Edition müssen diese Schritte ausführen, um
 1. Wählen Sie die Benutzer aus, für die Sie Anpassungen installieren möchten: Nur Administrator, alle Benutzer oder bestimmte Profile.
 1. Klicken Sie auf **Installieren** Schaltfläche zum Installieren der Anpassung.
 1. Um die erfolgreiche Installation zu bestätigen, melden Sie sich bei Ihrem Salesforce-Konto an.
-1. Klicken **Einrichtung**, suchen Sie in der Suchleiste nach &quot;Installierte Pakete&quot;und klicken Sie auf **Installierte Pakete**.
+1. Klicks **Einrichtung**, suchen Sie in der Suchleiste nach &quot;Installierte Pakete&quot;und klicken Sie auf **Installierte Pakete**.
 
    Dort werden Marketo Sales Connect-Anpassungen angezeigt.
 

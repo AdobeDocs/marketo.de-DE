@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Fügen Sie Statistiken zum Programmstatus zu Ihrem [Programmvollzugsbericht](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md).
 
-1. Gehen Sie zu Marketingaktivitäten (oder Analytics).
+1. Wechseln Sie zu Marketingaktivitäten (oder Analytics).
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -35,7 +35,7 @@ Fügen Sie Statistiken zum Programmstatus zu Ihrem [Programmvollzugsbericht](/he
    >
    >Um Spalten mit dem Programmstatus anzuzeigen, muss Ihr Bericht nach _Nur eins_ -Kanal.
 
-1. Aktivieren Sie die Option Spalten mit Programmstatus anzeigen . Klicken **Anwenden**.
+1. Aktivieren Sie die Option Spalten mit Programmstatus anzeigen . Klicks **Anwenden**.
 
    ![](assets/image2014-9-23-16-3a26-3a53.png)
 

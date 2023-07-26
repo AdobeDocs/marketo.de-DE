@@ -15,7 +15,7 @@ ht-degree: 2%
 
 Willkommen bei Marketo! Sie können die folgende Checkliste als visuelle Aufgabenliste verwenden, um die ersten Schritte einzuleiten. Details finden Sie unter [Einrichtungsschritte](/help/marketo/getting-started/setup/setup-steps.md){target="_blank"}.
 
-## Anmelden bei Marketo und Erstellen zusätzlicher Benutzer {#log-in-to-marketo-and-create-additional-users}
+## Melden Sie sich bei Marketo an und erstellen Sie weitere Benutzer {#log-in-to-marketo-and-create-additional-users}
 
 1. Bei Marketo anmelden
 1. Zusätzliche Benutzer erstellen
@@ -43,7 +43,7 @@ Willkommen bei Marketo! Sie können die folgende Checkliste als visuelle Aufgabe
 
 ## CRM-Synch. {#crm-sync}
 
-1. Arbeiten Sie mit Ihrem CRM-Administrator zusammen, um alle CRM-Kontakte mit Marketo zu synchronisieren.
+1. Synchronisieren aller CRM-Kontakte mit Marketo mit Ihrem CRM-Administrator
 
 ## Hinzufügen von Trackingcode zu Ihrer Website {#add-tracking-code-to-your-website}
 

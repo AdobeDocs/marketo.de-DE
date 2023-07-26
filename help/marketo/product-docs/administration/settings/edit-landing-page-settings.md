@@ -51,11 +51,11 @@ Sie können Ihren Domänennamen und Ihre Fallback-Seite bearbeiten, das Vorausf�
 
    >[!NOTE]
    >
-   >Wenn Sie die Vorbefüllung vornehmen möchten `<script>` -Tag, das am Ende der `<head>` -Tag im Code, überprüfen Sie die **[!UICONTROL Skript zum Vorfüllen am Ende des Kopfes injizieren]** ankreuzen. Lassen Sie die Option deaktiviert, wenn sie am Anfang angezeigt werden soll.
+   >Wenn Sie die Vorbefüllung vornehmen möchten `<script>` -Tag, das am Ende der `<head>` -Tag im Code, überprüfen Sie die **[!UICONTROL Skript zum Vorfüllen am Ende des Kopfes einfügen]** ankreuzen. Lassen Sie die Option deaktiviert, wenn sie am Anfang angezeigt werden soll.
    >
    >Überprüfen **[!UICONTROL Standardmäßige Favicon-Links entfernen]** um zu verhindern, dass Marketo Favicon-Links in den Code einfügt.
 
-1. Nachdem Sie Ihre Auswahl getroffen haben, klicken Sie auf **[!UICONTROL Speichern]**.
+1. Klicken Sie nach der Auswahl auf **[!UICONTROL Speichern]**.
 
    ![](assets/edit-landing-page-settings-7.png)
 

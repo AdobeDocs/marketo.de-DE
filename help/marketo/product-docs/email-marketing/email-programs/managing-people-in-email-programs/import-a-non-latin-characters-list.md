@@ -23,7 +23,7 @@ Wenn Sie sie jedoch in Marketo importieren, sehen Sie möglicherweise, dass die 
 
 Dies liegt daran, dass die Datei nicht ordnungsgemäß gespeichert wird, damit Marketo alle nicht lateinischen Zeichen erkennt. Die gute Nachricht ist, dass es ein paar einfache Schritte gibt, die Sie ausführen können, um es zu beheben.
 
-1. Auswählen **Speichern unter...** von **Datei** in Excel.
+1. Auswählen **Speichern unter...** aus dem **Datei** in Excel.
 
    ![](assets/image2015-2-10-9-3a46-3a44.png)
 
@@ -35,7 +35,7 @@ Dies liegt daran, dass die Datei nicht ordnungsgemäß gespeichert wird, damit M
    >
    >Marketo unterstützt auch UTF-8, Shift-JIS oder EUC-JP.
 
-1. Excel speichert die neue Datei als Textdatei mit der Erweiterung .txt . Es werden jedoch auch alle Kommas in der Datei in Tabs konvertiert. Wir müssen es wieder ändern.
+1. Excel speichert die neue Datei als Textdatei mit der Erweiterung .txt . Es werden jedoch auch alle Kommas in der Datei in Tabs konvertiert. Wir müssen es zurückverändern.
 
    >[!TIP]
    >
@@ -47,7 +47,7 @@ Dies liegt daran, dass die Datei nicht ordnungsgemäß gespeichert wird, damit M
 
    ![](assets/image2015-2-10-9-3a55-3a53.png)
 
-1. Auswählen **Suchen und Ersetzen...** von **Bearbeiten** Menü.
+1. Auswählen **Suchen und Ersetzen...** aus dem **Bearbeiten** Menü.
 
    ![](assets/image2015-2-10-9-3a59-3a8.png)
 

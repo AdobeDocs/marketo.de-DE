@@ -19,11 +19,11 @@ Du hast Seiten! Marketo SEO durchsucht Ihre Site automatisch und verfolgt sie. F
 
    ![](assets/image2014-9-18-12-3a55-3a19.png)
 
-1. Klicken **[!UICONTROL Seiten hinzufügen]**.
+1. Klicks **[!UICONTROL Seiten hinzufügen]**.
 
    ![](assets/image2014-9-18-12-3a55-3a53.png)
 
-1. Geben Sie die URLs ein, die Sie hinzufügen möchten. Klicken **[!UICONTROL Hinzufügen]**.
+1. Geben Sie die URLs ein, die Sie hinzufügen möchten. Klicks **[!UICONTROL Hinzufügen]**.
 
    ![](assets/image2014-9-18-12-3a56-3a15.png)
 

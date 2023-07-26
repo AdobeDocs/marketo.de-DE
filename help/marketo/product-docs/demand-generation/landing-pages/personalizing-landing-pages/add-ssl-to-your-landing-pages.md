@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Mit der SSL-Verschlüsselung (Secure Socket Layer) können Sie alle Landingpages für eine Marketo-Instanz sicher machen.
 
-Wenn Sie ein Webformular ausfüllen oder eine Landingpage besuchen, die von Marketo gehostet wird, werden die Informationen standardmäßig über ein nicht sicheres Protokoll (HTTP) gesendet. Gemäß der Richtlinie Ihres Unternehmens möchten Sie möglicherweise die Informationen schützen, die über (HTTPS) an Marketo übermittelt werden. Wenn Sie beispielsweise `http://info.mydomain.com/` jetzt `https://info.mydomain.com/`.
+Wenn Sie ein Webformular ausfüllen oder eine Landingpage besuchen, die von Marketo gehostet wird, werden die Informationen standardmäßig über ein nicht sicheres Protokoll (HTTP) gesendet. Gemäß der Richtlinie Ihres Unternehmens möchten Sie möglicherweise die Informationen schützen, die über (HTTPS) an Marketo übermittelt werden. Wenn Sie beispielsweise `http://info.mydomain.com/` wird es jetzt `https://info.mydomain.com/`.
 
 Marketo verfolgt standardmäßig &quot;Besuchte Webseite&quot;und &quot;Klick-Link auf Webseite&quot;über nicht sicheres HTTP-Protokoll. Wenn Sie Ihre Tracking-Links mit einem eigenen Zertifikat sichern möchten, müssen Sie Marketo einen separaten Server erstellen, der nicht freigegeben ist, um ihn zu aktivieren. Um alle Aspekte der Interaktion eines Kontakts mit Ihnen zu schützen, bedeutet normalerweise, sowohl Landingpages als auch Tracking-Links zu schützen.
 

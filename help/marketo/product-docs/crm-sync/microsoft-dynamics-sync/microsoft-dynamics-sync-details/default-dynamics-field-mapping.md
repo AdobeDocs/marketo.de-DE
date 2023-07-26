@@ -89,7 +89,7 @@ Wenn Sie Ihr Marketo-Konto zum ersten Mal mit Microsoft synchronisieren, führt 
       <td>address1_city</td>
     </tr>
     <tr>
-      <td>Zustand</td>
+      <td>Status</td>
       <td>Bundesland/Kanton</td>
       <td>address1_stateorprovinz</td>
     </tr>
@@ -129,8 +129,8 @@ Wenn Sie Ihr Marketo-Konto zum ersten Mal mit Microsoft synchronisieren, führt 
       <td>donotphone</td>
     </tr>
     <tr>
-      <td>Hat abbestellt</td>
-      <td>Massen-E-Mail nicht versenden</td>
+      <td>Abgemeldet</td>
+      <td>Massen-E-Mail nicht</td>
       <td>donotbulkemail</td>
     </tr>
     <tr>
@@ -324,7 +324,7 @@ Die folgenden Lead-Felder werden für die interne Verwendung synchronisiert.
       <td>address1_city</td>
     </tr>
     <tr>
-      <td>Zustand</td>
+      <td>Status</td>
       <td>Adresse 1: Bundesland/Kanton</td>
       <td>address1_stateorprovinz</td>
     </tr>
@@ -354,8 +354,8 @@ Die folgenden Lead-Felder werden für die interne Verwendung synchronisiert.
       <td>donotphone</td>
     </tr>
     <tr>
-      <td>Hat abbestellt</td>
-      <td>Massen-E-Mail nicht versenden</td>
+      <td>Abgemeldet</td>
+      <td>Massen-E-Mail nicht</td>
       <td>donotbulkemail</td>
     </tr>
     <tr>
@@ -633,7 +633,7 @@ Die folgenden Kontofelder werden für die interne Verwendung synchronisiert.
       <td>nächste Wahrscheinlichkeit</td>
     </tr>
     <tr>
-      <td>Stadium</td>
+      <td>Phase</td>
       <td>Status</td>
       <td>statecode</td>
     </tr>
@@ -677,7 +677,7 @@ Die folgenden Kontofelder werden für die interne Verwendung synchronisiert.
       <td>ownerid</td>
     </tr>
     <tr>
-      <td>Chance</td>
+      <td>Opportunity</td>
       <td>OpportunityId</td>
     </tr>
     <tr>
@@ -707,7 +707,7 @@ Die folgenden Felder werden in Marketo erstellt, können jedoch nicht von Benutz
     </tr>
     <tr>
       <td>Microsoft – Erstellungsdatum</td>
-      <td>Datum, das in MS Dynamics erstellt wurde (kann sich von dem in Marketo erstellten unterscheiden)</td>
+      <td>In MS Dynamics erstelltes Datum (kann sich von dem in Marketo erstellten unterscheiden)</td>
     </tr>
     <tr>
       <td>Microsoft wird gelöscht</td>

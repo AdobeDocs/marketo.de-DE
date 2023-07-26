@@ -29,15 +29,15 @@ Dies kann an zwei Stellen erfolgen: im Vorlagen-Editor und im Landingpage-Editor
 
    ![](assets/image2015-1-22-20-3a22-3a24.png)
 
-1. Klicken **Entwurf bearbeiten**.
+1. Klicks **Entwurf bearbeiten**.
 
    ![](assets/image2015-1-22-20-3a25-3a36.png)
 
-1. Klicken **Kompatibel mit Mobilgeräten**.
+1. Klicks **Kompatibel mit Mobilgeräten**.
 
    ![](assets/image2015-1-22-20-3a30-3a33.png)
 
-1. Klicken **Upgrade**.
+1. Klicks **Upgrade**.
 
    ![](assets/image2015-1-22-20-3a32-3a45.png)
 
@@ -69,7 +69,7 @@ Wenn Sie Änderungen an der Vorlage vornehmen, klicken Sie auf Vorlagenaktionen 
 
 Wenn Sie eine Landingpage bearbeiten und auf die Registerkarte &quot;Mobil&quot;klicken, werden Sie manchmal feststellen, dass die Vorlage nicht aktualisiert wurde. Keine Angst! Sie können es direkt dort aktualisieren.
 
-1. Klicken Sie auf **Mobile** Registerkarte.
+1. Klicken Sie auf **Mobilnummer** Registerkarte.
 
    ![](assets/image2015-1-22-20-3a48-3a19.png)
 

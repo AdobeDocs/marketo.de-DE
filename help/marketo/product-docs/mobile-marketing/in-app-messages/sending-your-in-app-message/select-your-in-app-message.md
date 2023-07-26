@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Hier wählen Sie die Nachricht aus, die Sie für das Programm erstellt haben.
 
-1. Wählen Sie Ihre In-App-Nachricht aus der Dropdown-Liste aus.
+1. Wählen Sie Ihre In-App-Nachricht aus der Dropdownliste aus.
 
    ![](assets/image2016-5-9-15-3a43-3a3.png)
 

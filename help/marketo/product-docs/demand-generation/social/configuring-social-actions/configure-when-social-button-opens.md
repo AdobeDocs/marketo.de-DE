@@ -37,4 +37,4 @@ Wenn Sie eine [Social-Schaltfläche](/help/marketo/product-docs/demand-generatio
 
    >[!MORELIKETHIS]
    >
-   >Nachdem die Person freigegeben wurde, können Sie ihre E-Mail-Adresse anfordern oder eine Bestätigungsnachricht senden. Erfahren Sie, wie Sie [Konfigurieren der Eingabeaufforderungen nach der Freigabe](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md).
+   >Nachdem die Person freigegeben wurde, können Sie ihre E-Mail-Adresse anfordern oder eine Bestätigungsnachricht senden. Erfahren Sie, wie [Konfigurieren der Eingabeaufforderungen nach der Freigabe](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md).

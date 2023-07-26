@@ -35,7 +35,7 @@ Sie können Ihre E-Mails einfach per A/B-Test testen. Ein guter Test ist die **G
 
    ![](assets/image2014-9-12-15-3a22-3a52.png)
 
-1. Klicken **Hinzufügen** um die E-Mail anzuwenden.
+1. Klicks **Hinzufügen** , um die E-Mail anzuwenden.
 
    ![](assets/image2014-9-12-15-3a23-3a20.png)
 
@@ -47,7 +47,7 @@ Sie können Ihre E-Mails einfach per A/B-Test testen. Ein guter Test ist die **G
 
    [](assets/image2014-9-12-15-3a23-3a49.png)
 
-1. Klicken **Hinzufügen** um die zweite E-Mail anzuwenden. Ziehen Sie den Schieberegler, um festzulegen, welcher Prozentsatz der Zielgruppe Sie Ihren A/B-Test erhalten möchten, und klicken Sie auf **Nächste**.
+1. Klicks **Hinzufügen** um die zweite E-Mail anzuwenden. Ziehen Sie den Schieberegler, um festzulegen, welcher Prozentsatz der Zielgruppe Sie Ihren A/B-Test erhalten möchten, und klicken Sie auf **Nächste**.
 
    [](assets/image2014-9-12-15-3a24-3a1.png)
 

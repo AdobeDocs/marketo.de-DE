@@ -41,7 +41,7 @@ Sie können mit der Detailansicht der Seite viele Informationen zu Ihren Seiten 
 | [!UICONTROL Eingehende Links (eindeutige Domänen)] | Die Anzahl der anderen Websites mit mindestens einem eingehenden Link zu Ihrer Site. |
 | [!UICONTROL Ausgehende Links] | Die Anzahl der Links, die von dieser bestimmten Seite zu anderen Websites führen. |
 | [!UICONTROL Facebook Share] | Häufigkeit, mit der diese Seite freigegeben wurde [!DNL Facebook]. |
-| [!UICONTROL Facebook &quot;Gefällt mir&quot;-Klicks] | Anzahl der &quot;Gefällt mir&quot;-Klicks für diese Seitenfreigabe [!DNL Facebook]. |
+| [!UICONTROL Facebook-Vorlieben] | Anzahl der &quot;Gefällt mir&quot;-Klicks für diese Seitenfreigabe [!DNL Facebook]. |
 | [!UICONTROL Facebook-Klicks] | Anzahl der Klicks aus der [!DNL Facebook share]. |
 
 ## [!UICONTROL Suchbegriffe, für die die Seite optimiert ist] {#keyword-s-that-page-is-optimized-for}
@@ -50,7 +50,7 @@ Hier sind Sie [auswählen, für welchen Suchbegriff Sie Ihre Seite optimieren m�
 
 >[!NOTE]
 >
->Dies ist ein wichtiger Schritt, um diese Funktion optimal zu nutzen. Es wird empfohlen, weniger als drei Suchbegriffe pro Seite zu verwenden. Idealerweise nur eine.
+>Dies ist ein wichtiger Schritt, um diese Funktion optimal zu nutzen. Es wird empfohlen, weniger als drei Suchbegriffe pro Seite zu verwenden. Idealerweise nur einer.
 
 ![](assets/image2014-9-17-21-3a56-3a35.png)
 

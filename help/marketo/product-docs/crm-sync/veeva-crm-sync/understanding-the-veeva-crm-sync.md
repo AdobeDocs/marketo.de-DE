@@ -39,4 +39,4 @@ Die Synchronisation zwischen VEE und Marketo Engage erfolgt nur für Kontaktfeld
 
 * Veeva CRM basiert auf force.com und das Rich-Experience-Marketo Engage mit der Plattform wird in diese Synchronisation übernommen.
 
-* Das VEE-CRM zeigt: Lead, Kontakt, Konten (Geschäftskonten, Chancen, Kampagne und Aktivität). Sie werden jedoch nicht in der Synchronisierung mit Marketo Engage unterstützt.
+* Das VEE-CRM zeigt Lead, Kontakt, Konten (Geschäftskonten, Chancen, Kampagne und Aktivität. Sie werden jedoch nicht in der Synchronisierung mit Marketo Engage unterstützt.

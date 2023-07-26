@@ -15,7 +15,7 @@ ht-degree: 0%
 Wenn Sie Aufrufergebnisse protokollieren und Salesforce aus Berichts- oder Sichtbarkeitsgründen aufrufen möchten, können Sie für jede Aktivität ein eigenes Aktivitätsfeld erstellen. Jedes Feld muss einen bestimmten API-Namen verwenden (in Salesforce als &quot;Feldname&quot;bezeichnet).
 
 * Feldname für Aufrufergebnisse: mktosales_call_result
-* Name des Felds Gründe aufrufen: mktosales_call_reason
+* Feldname für Aufrufgründe: mktosales_call_reason
 
 Um diese Felder zu nutzen, müssen Sie zunächst das Feld als ein benutzerdefiniertes Aktivitätsfeld erstellen. Damit sie für Benutzer sichtbar ist, müssen Sie sie dem Seitenlayout der Aufgabenobjekte hinzufügen.
 
@@ -27,15 +27,15 @@ Um diese Felder zu nutzen, müssen Sie zunächst das Feld als ein benutzerdefini
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-1.png)
 
-1. Geben Sie &quot;Aktivitäten&quot;in das Feld &quot;Schnellsuche&quot;ein.
+1. Geben Sie &quot;Aktivitäten&quot;in das Feld Schnellsuche ein.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-2.png)
 
-1. Klicken **Benutzerdefinierte Aktivitätsfelder**.
+1. Klicks **Benutzerdefinierte Aktivitätsfelder**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-3.png)
 
-1. Klicken **Neu**.
+1. Klicks **Neu**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-4.png)
 
@@ -47,7 +47,7 @@ Um diese Felder zu nutzen, müssen Sie zunächst das Feld als ein benutzerdefini
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-6.png)
 
-1. Die übrigen Einstellungen sind optional. Nachdem Sie die Konfiguration abgeschlossen haben, klicken Sie auf **Nächste**.
+1. Die übrigen Einstellungen sind optional. Klicken Sie nach Abschluss der Konfiguration auf **Nächste**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-7.png)
 
@@ -57,9 +57,9 @@ Um diese Felder zu nutzen, müssen Sie zunächst das Feld als ein benutzerdefini
 
    >[!NOTE]
    >
-   >Stellen Sie sicher, dass das benutzerdefinierte Feld für das Profil, das Ihre Sales Connect-Benutzer verwenden, sowie für alle anderen Felder, die Sie sehen möchten, sichtbar ist.
+   >Vergewissern Sie sich, dass das benutzerdefinierte Feld für das Profil, das Ihre Sales Connect-Benutzer verwenden, sowie für alle anderen Felder, die Sie sehen möchten, sichtbar ist.
 
-1. Wählen Sie die Seitenlayouts aus, denen das Feld hinzugefügt werden soll, und klicken Sie auf **Speichern** (Optional können Sie auf **Speichern und Neu** und wiederholen Sie den Prozess für das Feld &quot;Grund für Aufruf&quot;).
+1. Wählen Sie die Seitenlayouts aus, denen das Feld hinzugefügt werden soll, und klicken Sie auf **Speichern** (Optional können Sie auf **Speichern und Neu** und wiederholen Sie den Prozess für das Feld Aufrufgrund ).
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-9.png)
 
@@ -73,15 +73,15 @@ Um diese Felder zu nutzen, müssen Sie zunächst das Feld als ein benutzerdefini
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-10.png)
 
-1. Geben Sie &quot;Aufgabe&quot;in das Feld &quot;Schnellsuche&quot;ein.
+1. Geben Sie &quot;Aufgabe&quot;in das Feld Schnellsuche ein.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-11.png)
 
-1. Klicken **Aufgabenseitenlayouts**.
+1. Klicks **Aufgabenseitenlayouts**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-12.png)
 
-1. Klicken **Bearbeiten** neben dem Aufgabenseitenlayout, dem Sie dieses Feld hinzufügen möchten.
+1. Klicks **Bearbeiten** neben dem Aufgabenseitenlayout, dem Sie dieses Feld hinzufügen möchten.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-13.png)
 
@@ -89,7 +89,7 @@ Um diese Felder zu nutzen, müssen Sie zunächst das Feld als ein benutzerdefini
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-14.png)
 
-1. Klicken **Speichern**.
+1. Klicks **Speichern**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-15.png)
 
@@ -101,11 +101,11 @@ Um diese Felder zu nutzen, müssen Sie zunächst das Feld als ein benutzerdefini
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-16.png)
 
-1. Klicken **Object Manager**.
+1. Klicks **Object Manager**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-17.png)
 
-1. Geben Sie &quot;Aktivität&quot;in das Feld &quot;Schnellsuche&quot;ein.
+1. Geben Sie &quot;Aktivität&quot;in das Feld Schnellsuche ein.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-18.png)
 
@@ -113,11 +113,11 @@ Um diese Felder zu nutzen, müssen Sie zunächst das Feld als ein benutzerdefini
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-19.png)
 
-1. Klicken **Felder und Beziehungen**.
+1. Klicks **Felder und Beziehungen**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-20.png)
 
-1. Klicken **Neu**.
+1. Klicks **Neu**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-21.png)
 
@@ -127,11 +127,11 @@ Um diese Felder zu nutzen, müssen Sie zunächst das Feld als ein benutzerdefini
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-22.png)
 
-1. Klicken **Object Manager**.
+1. Klicks **Object Manager**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-23.png)
 
-1. Geben Sie &quot;Aufgabe&quot;in das Feld &quot;Schnellsuche&quot;ein.
+1. Geben Sie &quot;Aufgabe&quot;in das Feld Schnellsuche ein.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-24.png)
 
@@ -139,7 +139,7 @@ Um diese Felder zu nutzen, müssen Sie zunächst das Feld als ein benutzerdefini
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-25.png)
 
-1. Klicken **Seitenlayouts**.
+1. Klicks **Seitenlayouts**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-26.png)
 
@@ -151,7 +151,7 @@ Um diese Felder zu nutzen, müssen Sie zunächst das Feld als ein benutzerdefini
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-28.png)
 
-1. Klicken **Speichern**.
+1. Klicks **Speichern**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-29.png)
 

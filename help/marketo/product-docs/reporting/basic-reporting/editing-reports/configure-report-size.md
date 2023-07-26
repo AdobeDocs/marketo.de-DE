@@ -19,7 +19,7 @@ Standardmäßig sind Marketo-Berichte auf maximal 5.000 Zeilen beschränkt. Sie 
 
    ![](assets/image2014-9-16-10-3a53-3a57.png)
 
-1. Wählen Sie Ihren Bericht in der Navigationsstruktur aus und klicken Sie auf das **Einrichtung** Registerkarte.
+1. Wählen Sie Ihren Bericht in der Navigationsstruktur aus und klicken Sie auf die Schaltfläche **Einrichtung** Registerkarte.
 
    ![](assets/image2014-9-16-10-3a54-3a1.png)
 
@@ -35,7 +35,7 @@ Standardmäßig sind Marketo-Berichte auf maximal 5.000 Zeilen beschränkt. Sie 
    >
    >Wenn Sie das Limit ändern, wird die Berichtsgröße selbst geändert, nicht nur die exportierte Excel-Datei. Wenn die Erstellung Ihres Berichts zu lang dauert, reduzieren Sie das Limit!
 
-1. Klicken **Speichern** um die neue Begrenzung zu bestätigen.
+1. Klicks **Speichern** um die neue Begrenzung zu bestätigen.
 
    ![](assets/image2016-3-2-9-3a13-3a59.png)
 

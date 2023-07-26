@@ -1,5 +1,5 @@
 ---
-description: Erstellen eines Dialogfelds - Marketo-Dokumente - Produktdokumentation
+description: Dialogfeld erstellen - Marketo-Dokumente - Produktdokumentation
 title: Erstellen eines Dialogfelds
 exl-id: 64f8d0c6-8e5c-4892-85ec-729c609f700a
 feature: Dynamic Chat
@@ -14,7 +14,7 @@ ht-degree: 6%
 
 So erstellen Sie ein neues Dialogfeld.
 
-1. Klicken **Dialogfelder**.
+1. Klicks **Dialogfelder**.
 
    ![](assets/create-a-dialogue-1.png)
 

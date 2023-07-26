@@ -6,7 +6,7 @@ exl-id: 50ffcd60-48ee-4341-94d8-170c63bc9ecb
 feature: Smart Campaigns
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -49,7 +49,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >Nur die erste passende Auswahl wird auf den Flussschritt angewendet. Erfahren Sie, wie Sie  [Neuanordnung von &quot;Auswahl hinzufügen&quot;in einer Flussaktion](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md).
+   >Nur die erste passende Auswahl wird auf den Flussschritt angewendet. Erfahren Sie, wie  [Neuanordnen von &quot;Auswahl hinzufügen&quot;in einer Flussaktion](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md).
 
    Sehr gut! Sie können jetzt eine einzelne Smart-Kampagne mit Flussschritt-Auswahlmöglichkeiten erstellen, anstatt für jede Auswahl mehrere Smart-Kampagnen zu erstellen.
 

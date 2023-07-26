@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Ein Account-Team ist eine Gruppe von Stakeholdern, die mit einem benannten Konto zusammenarbeiten. Führen Sie diese Schritte aus, um festzulegen, welche CRM-Konto-Rollen hinzugefügt werden sollen.
 
-1. Klicken **Admin**.
+1. Klicks **Admin**.
 
    ![](assets/one-3.png)
 
-1. Klicken **Verwaltung von Target-Konten**.
+1. Klicks **Verwaltung von Target-Konten**.
 
    ![](assets/account-team-setup-2.png)
 
@@ -39,7 +39,7 @@ Ein Account-Team ist eine Gruppe von Stakeholdern, die mit einem benannten Konto
    >
    >Sie können Kontoinhaber nicht auswählen. Er wird standardmäßig aus der Kontoebene in Ihrem CRM-System ausgewählt.
 
-1. Klicken **Speichern** wann geschehen.
+1. Klicks **Speichern** wann geschehen.
 
    ![](assets/five-2.png)
 

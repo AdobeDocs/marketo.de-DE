@@ -11,7 +11,7 @@ ht-degree: 6%
 
 ---
 
-# Microsoft Dynamics Sync-Filter: Qualifizieren {#microsoft-dynamics-sync-filter-qualify}
+# Synchronisierungsfilter für Microsoft Dynamics: Qualifizieren {#microsoft-dynamics-sync-filter-qualify}
 
 Wenn Sie einen Lead in Microsoft Dynamics in einen Kontakt konvertieren möchten, stellen Sie sicher, dass Sie diesen standardmäßigen Qualifizierungsprozess verwenden. Synchronisieren Sie sie dann mit Marketo.
 
@@ -21,7 +21,7 @@ So funktionieren die Filter während des Konvertierungsprozesses.
 
 | Wenn der Lead-Synchronisierungsfilter: | und der Filter für die Kontaktsynchronisierung lautet: | Dies führt zu Marketo |
 |---|---|---|
-| Falsch | Falsch | In Marketo wird nichts synchronisiert |
+| Falsch | Falsch | In Marketo wird nichts synchronisiert. |
 | True | True | Der Kontakt wird in Marketo synchronisiert. |
 | Falsch | True | Neuer Kontaktdatensatz wird in Marketo erstellt |
 | True | Falsch | MS Dynamics aktualisiert Lead-Informationen in Marketo, aber Kontaktdatensätze werden nicht synchronisiert |

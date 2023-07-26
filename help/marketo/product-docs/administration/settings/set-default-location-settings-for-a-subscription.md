@@ -27,17 +27,17 @@ Wenn ein Administrator die Standardeinstellungen für den Speicherort ändert, �
 
    ![](assets/set-default-location-settings-for-a-subscription-1.png)
 
-1. Klicken **[!UICONTROL Standort]**.
+1. Klicks **[!UICONTROL Standort]**.
 
    ![](assets/set-default-location-settings-for-a-subscription-2.png)
 
-1. Klicken **[!UICONTROL Bearbeiten]**.
+1. Klicks **[!UICONTROL Bearbeiten]**.
 
    ![](assets/set-default-location-settings-for-a-subscription-3.png)
 
    Dieses Abonnement wurde auf Englisch erstellt. Nehmen wir an, Sie waren in London und wollten das Standardgebietsschema und die Zeitzone ändern. Das Gebietsschema bestimmt die Formatierung für Zahlen, Daten und Uhrzeiten.
 
-1. Wählen Sie die **[!UICONTROL Gebietsschema]** und ändern Sie sie in **[!UICONTROL Englisch (Vereinigtes Königreich)]**.
+1. Wählen Sie die **[!UICONTROL Gebietsschema]** und ändern Sie sie in **[!UICONTROL Englisch (UK)]**.
 
    ![](assets/set-default-location-settings-for-a-subscription-4.png)
 
@@ -53,7 +53,7 @@ Wenn ein Administrator die Standardeinstellungen für den Speicherort ändert, �
 
 Wenn Sie das Standardgebietsschema für Ihre Benutzer ändern, sollten Sie auch die Einstellungen für das Währungsformat ändern.
 
-1. Klicken **[!UICONTROL Bearbeiten]** in [!UICONTROL Währungseinstellungen für Abonnements].
+1. Klicks **[!UICONTROL Bearbeiten]** in [!UICONTROL Währungseinstellungen für Abonnements].
 
    ![](assets/set-default-location-settings-for-a-subscription-6.png)
 

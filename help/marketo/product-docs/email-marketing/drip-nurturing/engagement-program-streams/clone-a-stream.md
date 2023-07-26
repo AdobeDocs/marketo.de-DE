@@ -27,7 +27,7 @@ Klonen Sie einen Stream aus verschiedenen Gründen, einschließlich Testen versc
    >
    >Sie können bis zu 25 Streams pro Interaktionsprogramm haben.
 
-   Gut gemacht! Liebst du nicht Dinge, die dir das Leben erleichtern?
+   Schön gemacht! Liebst du nicht Dinge, die dir das Leben erleichtern?
 
    ![](assets/image2014-9-15-17-3a1-3a20.png)
 

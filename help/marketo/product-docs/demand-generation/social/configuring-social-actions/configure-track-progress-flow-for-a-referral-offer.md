@@ -19,7 +19,7 @@ Wenn Sie [Erstellen eines Verweisangebots](/help/marketo/product-docs/demand-gen
 
    ![](assets/login-marketing-activities-4.png)
 
-1. Wählen Sie das Verweisangebot aus und klicken Sie auf **Entwurf bearbeiten**.
+1. Wählen Sie das Angebot aus und klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/image2014-9-22-14-3a35-3a31.png)
 

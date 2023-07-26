@@ -17,4 +17,4 @@ Wir geben Ihnen die Möglichkeit, das benutzerdefinierte Domain-Tracking für Ih
 
 Um dies einzurichten, muss Ihr IT-Administrator die in der [Einstellungsseite](https://toutapp.com/custom_tracking_domain).
 
-Nachdem Sie diese Einstellung eingerichtet haben, werden alle Links, die Sie in Ihrer E-Mail haben, als &quot;go.yourcompany.com&quot;auf die Zulassungsliste gesetzt.
+Nachdem Sie diese Einstellung eingerichtet haben, wird jeder Link, den Sie in Ihrer E-Mail haben, als &quot;go.yourcompany.com&quot;auf die Zulassungsliste gesetzt.

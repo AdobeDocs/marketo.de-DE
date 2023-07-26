@@ -23,11 +23,11 @@ Es ist sehr wichtig, nicht zu viel mit Ihren Leuten zu kommunizieren. Durch das 
 
    ![](assets/enable-communication-limits-1.png)
 
-1. Klicken **[!UICONTROL Kommunikationsgrenzen]**.
+1. Klicks **[!UICONTROL Kommunikationsgrenzen]**.
 
    ![](assets/enable-communication-limits-2.png)
 
-1. Klicken **[!UICONTROL Bearbeiten]**.
+1. Klicks **[!UICONTROL Bearbeiten]**.
 
    ![](assets/enable-communication-limits-3.png)
 
@@ -53,9 +53,9 @@ Es ist sehr wichtig, nicht zu viel mit Ihren Leuten zu kommunizieren. Durch das 
 
    >[!NOTE]
    >
-   >Erfahren Sie mehr darüber, was [operative E-Mails](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) sind.
+   >Erfahren Sie mehr darüber [operative E-Mails](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) sind.
 
-1. Klicken **[!UICONTROL Speichern]**.
+1. Klicks **[!UICONTROL Speichern]**.
 
    ![](assets/enable-communication-limits-7.png)
 

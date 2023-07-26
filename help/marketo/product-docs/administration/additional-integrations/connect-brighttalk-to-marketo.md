@@ -21,7 +21,7 @@ Erfahren Sie, wie Sie Ihre [!DNL BrightTALK] zu Ihrer Marketo-Instanz weiterleit
 
 ## Schritte in [!DNL BrightTALK] {#steps-in-brighttalk}
 
-1. Anmelden bei [business.brighttalk.com/demandcentral](https://business.brighttalk.com/demandcentral/login){target="_blank"} und klicken Sie auf **[!UICONTROL Jetzt verbinden]**.
+1. Anmelden bei [business.brighttalk.com/demandcentral](https://business.brighttalk.com/demandcentral/login){target="_blank"} und klicken **[!UICONTROL Jetzt verbinden]**.
 1. under [!UICONTROL Erweiterter Marketo Connector]klicken **[!UICONTROL Verbinden]**.
 1. Sie gelangen zum Bildschirm mit den Anmeldedaten und fragen nach: Client-ID, Client-Geheimnis, Identity Service-URL und REST-Dienst-URL. Um diese Informationen zu erhalten, melden Sie sich bei Marketo an.
 
@@ -47,7 +47,7 @@ Erfahren Sie, wie Sie Ihre [!DNL BrightTALK] zu Ihrer Marketo-Instanz weiterleit
 
    ![](assets/connect-brighttalk-to-marketo-3.png)
 
-1. Geben Sie einen **[!UICONTROL Anzeigename]** Ihrer Wahl. Klicken Sie auf **[!UICONTROL Diensleistung]** und wählen Sie **[!UICONTROL Benutzerdefiniert]** (do _not_ select [!DNL BrightTALK]).
+1. Geben Sie einen **[!UICONTROL Anzeigename]** Ihrer Wahl. Klicken Sie auf **[!UICONTROL Dienst]** und wählen Sie **[!UICONTROL Benutzerdefiniert]** (do _not_ select [!DNL BrightTALK]).
 
    ![](assets/connect-brighttalk-to-marketo-4.png)
 
@@ -59,7 +59,7 @@ Erfahren Sie, wie Sie Ihre [!DNL BrightTALK] zu Ihrer Marketo-Instanz weiterleit
 
    ![](assets/connect-brighttalk-to-marketo-5.png)
 
-1. Klicken **[!UICONTROL Details anzeigen]** für den soeben erstellten benutzerdefinierten Dienst.
+1. Klicks **[!UICONTROL Details anzeigen]** für den soeben erstellten benutzerdefinierten Dienst.
 
    ![](assets/connect-brighttalk-to-marketo-6.png)
 

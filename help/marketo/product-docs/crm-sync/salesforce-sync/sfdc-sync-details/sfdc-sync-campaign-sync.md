@@ -11,7 +11,7 @@ ht-degree: 5%
 
 ---
 
-# SFDC Sync: Kampagnensynchronisierung {#sfdc-sync-campaign-sync}
+# SFDC-Synchronisation: Kampagnensynchronisierung {#sfdc-sync-campaign-sync}
 
 Marketo-Programme können mit Salesforce-Kampagnen synchronisiert werden. Hier finden Sie einen Überblick darüber, wie dies funktioniert.
 
@@ -29,7 +29,7 @@ In Marketo haben Sie die Möglichkeit, ein Eins-zu-Eins-Mapping zwischen einem P
 
 Die **[channel](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)** und **[Zeitraumkosten](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md)** Synchronisieren Sie in Marketo mit Salesforce als **Kampagnentyp** und **tatsächliche Kosten**. Diese Synchronisierung **Einweg**, von Marketo nach Salesforce.
 
-Marketo **Programmmitglieder** und **[Progressionsstatus](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)** werden mit dem **Salesforce-Kampagnenmitglieder** und **Status der Kampagnenmitglieder**. Dies ist ein **bidirektionale Synchronisation**, sodass alle in Marketo oder Salesforce vorgenommenen Änderungen in beiden Systemen übernommen werden.
+Marketo **Programmmitglieder** und **[Progressionsstatus](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)** werden mit dem **Salesforce-Kampagnenmitglieder** und **Status der Kampagnenmitglieder**. Dies ist ein **bidirektionale Synchronisation**, sodass alle Änderungen, die in Marketo oder Salesforce vorgenommen werden, in beiden Systemen übernommen werden.
 
 >[!NOTE]
 >
@@ -45,7 +45,7 @@ Auslöser:
 
 Filter:
 
-* Mitglied der SFDC-Kampagne
+* Mitglied einer SFDC-Kampagne
 
 ## Kann ich meiner SFDC-Kampagne Marketo People hinzufügen? {#can-i-add-marketo-people-to-my-sfdc-campaign}
 
@@ -57,7 +57,7 @@ Ja, verwenden Sie die [Aus der SFDC-Campaign-Flussaktion entfernen](/help/market
 
 ## Kann ich den Status von Kampagnenmitgliedern mit Marketo ändern? {#can-i-change-campaign-member-status-using-marketo}
 
-Ja, verwenden Sie die [Status in der Flussaktion für SFDC-Kampagnen ändern](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md).
+Ja, verwenden Sie die [Status in der Flow-Aktion für SFDC-Kampagnen ändern](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md).
 
 ## Warum kann ich keine meiner Salesforce-Kampagnen sehen? {#why-cant-i-see-any-of-my-salesforce-campaigns}
 

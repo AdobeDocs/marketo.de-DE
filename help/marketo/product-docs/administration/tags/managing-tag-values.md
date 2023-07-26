@@ -29,11 +29,11 @@ ht-degree: 2%
 
    ![](assets/managing-tag-values-1.png)
 
-1. Klicken **[!UICONTROL Tags]**.
+1. Klicks **[!UICONTROL Tags]**.
 
    ![](assets/managing-tag-values-2.png)
 
-1. Klicken **[!UICONTROL Neu]**, dann **[!UICONTROL Neuer Tag-Wert]**.
+1. Klicks **[!UICONTROL Neu]**, dann **[!UICONTROL Neuer Tag-Wert]**.
 
    ![](assets/managing-tag-values-3.png)
 
@@ -41,7 +41,7 @@ ht-degree: 2%
 
    ![](assets/managing-tag-values-4.png)
 
-1. Geben Sie einen **[!UICONTROL Wert]** und klicken Sie auf **[!UICONTROL Weitere hinzufügen]**. Sie können beliebig viele Werte hinzufügen.
+1. Geben Sie einen **[!UICONTROL Wert]** und klicken **[!UICONTROL Weitere hinzufügen]**. Sie können beliebig viele Werte hinzufügen.
 
    ![](assets/managing-tag-values-5.png)
 

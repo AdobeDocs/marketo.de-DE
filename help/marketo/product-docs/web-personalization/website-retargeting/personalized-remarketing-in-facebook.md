@@ -24,11 +24,11 @@ Mit personalisiertem Remarketing können Sie mit RTP-Daten und der Leistungsfäh
 
 1. Navigieren Sie in Facebook zu Ihrem [Registerkarte &quot;Zielgruppe&quot;](https://www.facebook.com/ads/audience_manager) im Anzeigen-Manager.
 
-1. Klicken **Instrumente** und wählen Sie **Zielgruppen**.
+1. Klicks **Instrumente** und wählen **Zielgruppen**.
 
    ![](assets/one-1.png)
 
-1. Klicken **Erstellen einer benutzerdefinierten Zielgruppe**.
+1. Klicks **Erstellen einer benutzerdefinierten Zielgruppe**.
 
    ![](assets/two-1.png)
 
@@ -48,7 +48,7 @@ Mit personalisiertem Remarketing können Sie mit RTP-Daten und der Leistungsfäh
 
    ![](assets/image2015-1-19-16-3a52-3a29.png)
 
-1. Wählen Sie für dieses Beispiel Branche aus, die enthalten sein soll **Bildungswesen**. Eingabe **Bildungswesen** und bearbeiten **Im letzten** auf 180 Tage. Zielgruppenname eingeben: **Bildungswesen**. Klicken **Zielgruppe erstellen**.
+1. Wählen Sie für dieses Beispiel Branche aus, die enthalten sein soll **Bildungswesen**. Eingabe **Bildungswesen** und bearbeiten **Im letzten** auf 180 Tage. Zielgruppenname eingeben: **Bildungswesen**. Klicks **Zielgruppe erstellen**.
 
    ![](assets/image2015-1-19-16-3a56-3a15.png)
 

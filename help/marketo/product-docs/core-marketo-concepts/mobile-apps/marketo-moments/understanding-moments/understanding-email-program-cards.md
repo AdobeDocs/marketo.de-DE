@@ -67,7 +67,7 @@ Sie können bestätigte oder nicht bestätigte E-Mail-Karten neu planen.
 >
 >Für bereits bestätigte E-Mails müssen Sie die E-Mail zuerst abbrechen (siehe unten).
 
-1. Um eine E-Mail zu planen, tippen Sie auf das Menü mit den drei Punkten .
+1. Um eine E-Mail neu zu planen, tippen Sie auf das Menü mit den drei Punkten .
 
    ![](assets/image2015-7-17-9-3a58-3a44.png)
 
@@ -75,7 +75,7 @@ Sie können bestätigte oder nicht bestätigte E-Mail-Karten neu planen.
 
    ![](assets/image2015-7-17-10-3a0-3a32.png)
 
-1. Wählen Sie ein Datum im Kalender aus und tippen Sie auf **Zeitplan**.
+1. Datum im Kalender auswählen und tippen **Zeitplan**.
 
    ![](assets/image2015-7-17-10-3a5-3a55.png)
 

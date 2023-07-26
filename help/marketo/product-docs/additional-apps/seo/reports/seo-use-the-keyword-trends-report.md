@@ -21,7 +21,7 @@ In diesem Bericht können Sie sehen, wie Sie im Zeitverlauf nach Suchbegriffen g
 
    ![](assets/image2014-9-18-14-3a12-3a18.png)
 
-1. Klicken Sie auf **[!UICONTROL Suchbegriff-Rangtrends]**.
+1. Klicken Sie auf **[!UICONTROL Suchbegriffsrang-Trends]**.
 
    ![](assets/image2014-9-18-14-3a13-3a14.png)
 
@@ -54,7 +54,7 @@ In diesem Bericht können Sie sehen, wie Sie im Zeitverlauf nach Suchbegriffen g
 >
 >Sie können diesen Bericht auf Ihren Desktop exportieren.
 
-1. Klicken **[!UICONTROL CSV exportieren]** oder **[!UICONTROL Export PDF]**.
+1. Klicks **[!UICONTROL CSV exportieren]** oder **[!UICONTROL Export PDF]**.
 
    ![](assets/image2014-9-18-14-3a14-3a46.png)
 

@@ -17,7 +17,7 @@ ht-degree: 8%
 
    ![](assets/delete-a-branding-domain-1.png)
 
-1. Klicken **[!UICONTROL Email]**.
+1. Klicks **[!UICONTROL Email]**.
 
    ![](assets/delete-a-branding-domain-2.png)
 

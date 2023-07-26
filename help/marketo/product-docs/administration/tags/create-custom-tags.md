@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2950660
 description: Erstellen benutzerdefinierter Tags - Marketo-Dokumente - Produktdokumentation
-title: Benutzerdefinierte Tags erstellen
+title: Erstellen benutzerdefinierter Tags
 exl-id: f8efcbf5-7557-4cdf-b4e6-29d25b2fdd75
 feature: Tags
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# Benutzerdefinierte Tags erstellen {#create-custom-tags}
+# Erstellen benutzerdefinierter Tags {#create-custom-tags}
 
 Tags helfen Ihnen bei der Organisation Ihrer Programme, während Kanäle bei der Erfassung von Daten zu Berichtszwecken helfen.
 
@@ -31,11 +31,11 @@ So erstellen Sie einen neuen Tag-Typ:
 
    ![](assets/create-custom-tags-1.png)
 
-1. Klicken **[!UICONTROL Tags]**.
+1. Klicks **[!UICONTROL Tags]**.
 
    ![](assets/create-custom-tags-2.png)
 
-1. Klicken **[!UICONTROL Neu]** und wählen Sie **[!UICONTROL Neuer Tag-Typ]**.
+1. Klicks **[!UICONTROL Neu]** und wählen **[!UICONTROL Neuer Tag-Typ]**.
 
    ![](assets/create-custom-tags-3.png)
 
@@ -43,7 +43,7 @@ So erstellen Sie einen neuen Tag-Typ:
 
    ![](assets/create-custom-tags-4.png)
 
-1. Geben Sie den gewünschten Wert für den Tag-Typ ein. Klicken **[!UICONTROL Weitere hinzufügen]** um zusätzliche Werte einzugeben.
+1. Geben Sie den gewünschten Wert für den Tag-Typ ein. Klicks **[!UICONTROL Weitere hinzufügen]** um zusätzliche Werte einzugeben.
 
    ![](assets/create-custom-tags-5.png)
 

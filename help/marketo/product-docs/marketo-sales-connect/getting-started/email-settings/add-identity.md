@@ -21,9 +21,9 @@ Fügen Sie eine Identität hinzu, wenn Sie über mehrere E-Mail-Adressen verfüg
 
 1. Klicken Sie auf das Symbol Einstellungen .
 
-1. Klicken **E-Mail-Einstellungen**.
+1. Klicks **E-Mail-Einstellungen**.
 
-1. Klicken **Identität hinzufügen**.
+1. Klicks **Identität hinzufügen**.
 
 1. Geben Sie Ihre Informationen ein (E-Mail und Name sind erforderliche Felder) und klicken Sie auf **Erstellen** wann geschehen.
 

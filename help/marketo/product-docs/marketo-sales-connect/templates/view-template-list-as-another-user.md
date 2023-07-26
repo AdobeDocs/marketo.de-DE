@@ -19,7 +19,7 @@ Als Administrator können Sie Vorlagen wie beliebige Benutzer anzeigen.
 >
 >**Erforderliche Administratorberechtigungen**
 
-1. Klicken **Vorlagen**.
+1. Klicks **Vorlagen**.
 
    ![](assets/one.png)
 

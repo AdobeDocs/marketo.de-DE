@@ -1,6 +1,6 @@
 ---
-description: Übersicht über das Einchecken von Ereignissen
-title: Übersicht über das Einchecken von Ereignissen
+description: Übersicht über das Einchecken von Veranstaltungen
+title: Übersicht über das Einchecken von Veranstaltungen
 exl-id: aae09cd8-5f8f-48c7-9d26-63c8345445d0
 feature: Mobile Marketing
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -10,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Übersicht über das Einchecken von Ereignissen {#event-check-in-overview}
+# Übersicht über das Einchecken von Veranstaltungen {#event-check-in-overview}
 
 Die Marketo Events App für iPad oder Android Tablet erleichtert die sofortige Einreise von Personen bei Ihrer Ankunft.
 
@@ -37,7 +37,7 @@ So bereiten Sie die iPad- oder Android-Tablets vor:
 * Herunterladen und Installieren der Marketo Events iPad- oder Android-Tablet-App
 * Anmeldedaten bestätigen
 * Synchronisieren der App zum Ausfüllen des Ereignisses
-* Überprüfen Sie, ob die Check-ins funktionieren.
+* Überprüfen Sie, ob die Check-ins funktionieren
 
 ## Personen in Verwendung von iPad oder Tablet überprüfen
 

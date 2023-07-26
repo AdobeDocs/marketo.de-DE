@@ -20,20 +20,20 @@ Benutzer können einen benutzerdefinierten SMTP-Server für ihre eigene individu
 >[!NOTE]
 >
 >* Zusätzlich zur Einrichtung Ihres SMTP-Servers muss Ihr [E-Mail-Identität muss überprüft werden](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md) bevor Sie E-Mails versenden können.
->* Wir empfehlen, mit Ihrem IT-Team oder SMTP-Serveranbieter zusammenzuarbeiten, um die richtigen Serverberechtigungen für Ihren SMTP-Server zu erhalten.
->* Sie können Ihren Gmail- und Exchange-Server nicht mit den SMTP-Server-Anmeldedaten verbinden. Bitte nutzen Sie unseren Email Connection-Dienst, um sich mit diesen Anbietern zu integrieren.
+>* Es wird empfohlen, mit Ihrem IT-Team oder SMTP-Serveranbieter zusammenzuarbeiten, um die richtigen Serverberechtigungen für Ihren SMTP-Server zu erhalten.
+>* Sie können Ihren Gmail- und Exchange-Server nicht mit den SMTP-Server-Anmeldedaten verbinden. Bitte nutzen Sie unseren Email Connection-Dienst, um diese Anbieter zu integrieren.
 
 ## Benutzerdefiniertes SMTP {#custom-smtp}
 
-1. Melden Sie sich bei der [Webanwendung](https://toutapp.com/login), klicken Sie auf das Zahnradsymbol oben rechts und wählen Sie **Einstellungen**.
+1. Melden Sie sich bei [Webanwendung](https://toutapp.com/login), klicken Sie auf das Zahnradsymbol oben rechts und wählen Sie **Einstellungen**.
 
    ![](assets/setting-up-a-custom-delivery-channel-1.png)
 
-1. Klicken Sie unter &quot;Mein Konto&quot;auf **E-Mail-Einstellungen**.
+1. Klicken Sie unter Mein Konto auf **E-Mail-Einstellungen**.
 
    ![](assets/setting-up-a-custom-delivery-channel-2.png)
 
-1. Klicken **Benutzerspezifischer Bereitstellungskanal**.
+1. Klicks **Benutzerspezifischer Bereitstellungskanal**.
 
    ![](assets/setting-up-a-custom-delivery-channel-3.png)
 
@@ -57,7 +57,7 @@ Benutzer können einen benutzerdefinierten SMTP-Server für ihre eigene individu
 
    ![](assets/setting-up-a-custom-delivery-channel-7.png)
 
-1. Klicken Sie auf das Dropdown-Menü Kanal und wählen Sie den soeben hinzugefügten benutzerdefinierten Versandkanal aus. Klicken **Speichern**.
+1. Klicken Sie auf die Dropdown-Liste Kanal und wählen Sie den soeben hinzugefügten Kanal aus. Klicks **Speichern**.
 
    ![](assets/setting-up-a-custom-delivery-channel-8.png)
 
@@ -71,7 +71,7 @@ Benutzer können einen benutzerdefinierten SMTP-Server für ihre eigene individu
 >
 >**Erforderliche Administratorberechtigungen**
 
-1. Melden Sie sich bei der [Webanwendung](https://toutapp.com/login), klicken Sie auf das Zahnradsymbol oben rechts und wählen Sie **Einstellungen**.
+1. Melden Sie sich bei [Webanwendung](https://toutapp.com/login), klicken Sie auf das Zahnradsymbol oben rechts und wählen Sie **Einstellungen**.
 
    ![](assets/setting-up-a-custom-delivery-channel-9.png)
 
@@ -79,7 +79,7 @@ Benutzer können einen benutzerdefinierten SMTP-Server für ihre eigene individu
 
    ![](assets/setting-up-a-custom-delivery-channel-10.png)
 
-1. Klicken **Team Delivery Channel**.
+1. Klicks **Team Delivery Channel**.
 
    ![](assets/setting-up-a-custom-delivery-channel-11.png)
 

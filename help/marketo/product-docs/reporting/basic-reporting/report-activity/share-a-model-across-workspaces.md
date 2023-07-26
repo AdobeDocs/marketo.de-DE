@@ -19,7 +19,7 @@ Marketo bietet Ihnen die Möglichkeit, ein oder mehrere Modelle über Arbeitsber
 
    ![](assets/analytics.png)
 
-1. Klicken Sie mit der rechten Maustaste auf **Meine Modelle** Ordner und klicken Sie auf **Neuer Ordner**.
+1. Rechtsklicken Sie auf die **Meine Modelle** Ordner und klicken Sie auf **Ordner**.
 
    ![](assets/image2014-10-3-14-3a5-3a23.png)
 

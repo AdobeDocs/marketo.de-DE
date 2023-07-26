@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Mitglieder von Smart Campaign anzeigen {#view-smart-campaign-members}
 
-Anzeigen von Personen, die bereits den Fluss intelligenter Kampagnen durchlaufen haben; d. h. Mitglieder intelligenter Kampagnen.
+Sehen Sie sich Personen an, die bereits durch den Fluss intelligenter Kampagnen geführt haben, d. h. Mitglieder intelligenter Kampagnen.
 
 1. Navigieren Sie zu **Marketingaktivitäten**.
 

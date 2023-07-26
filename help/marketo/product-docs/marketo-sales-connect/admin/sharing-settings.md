@@ -27,11 +27,11 @@ Wenn Freigabeeinstellungen aktiviert sind, können nur Administratoren in Katego
 
    ![](assets/one-2.png)
 
-1. Wählen Sie unter &quot;Admin Settings&quot;die Option **Zugriff freigeben**.
+1. Wählen Sie unter Admin Settings die Option **Zugriff freigeben**.
 
    ![](assets/two-2.png)
 
-1. Stellen Sie sicher **Freigabeeinstellungen** aktiviert sind. Dies bedeutet, dass standardmäßig nur Administratoren in der Lage sind, Vorlagen in Ihren Vorlagenkategorien freizugeben.
+1. Stellen Sie sicher **Freigabeeinstellungen** aktiviert sind. Dies bedeutet, dass standardmäßig nur Administratoren Vorlagen in Ihren Vorlagenkategorien freigeben können.
 
    ![](assets/three-2.png)
 
@@ -39,7 +39,7 @@ Wenn Freigabeeinstellungen aktiviert sind, können nur Administratoren in Katego
 
    ![](assets/four-2.png)
 
-1. Klicken **Hinzufügen von Teams für den Zugriff**.
+1. Klicks **Team für Zugriff hinzufügen**.
 
    ![](assets/five-2.png)
 
@@ -51,7 +51,7 @@ Wenn Freigabeeinstellungen aktiviert sind, können nur Administratoren in Katego
    >
    >Wenn Sie keine Teams sehen, müssen Sie zu Team Management gehen und ein Team von Benutzern erstellen.
 
-1. Klicken **Hinzufügen von Teams für den Zugriff** speichern.
+1. Klicks **Team für Zugriff hinzufügen** speichern.
 
    ![](assets/seven-1.png)
 

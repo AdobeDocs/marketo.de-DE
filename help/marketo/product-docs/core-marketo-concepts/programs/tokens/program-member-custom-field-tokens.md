@@ -24,7 +24,7 @@ Mitglieder-Token werden für Felder verwendet, die unter den Geltungsbereich des
 >[!NOTE]
 >
 >* Benutzerdefinierte Felder für Programmmitglieder können nur im Kontext eines Programms verwendet werden.
->* Benutzerdefinierte Felder für Programmmitglieder können nicht in folgenden Bereichen verwendet werden: E-Mail-Preheader, Datum-Token in Warteschritten oder Snippets.
+>* Benutzerdefinierte Felder des Programmmitglieds können nicht in verwendet werden: E-Mail-Preheader, Datum-Token in Warteschritten oder Snippets.
 >* Der Status der Programmteilnehmer wird in den Mitglieds-Token nicht unterstützt.
 
 ## Verwenden von benutzerdefinierten Feld-Token für Programmteilnehmer in Assets {#using-program-member-custom-field-tokens-in-assets}
@@ -45,7 +45,7 @@ Sie können Token für benutzerdefinierte Felder des Programmmitglieds in E-Mail
 
    ![](assets/program-member-custom-field-tokens-3.png)
 
-1. Klicken **Speichern**.
+1. Klicks **Speichern**.
 
    ![](assets/program-member-custom-field-tokens-4.png)
 
@@ -79,7 +79,7 @@ Sie können Token für benutzerdefinierte Felder des Programmmitglieds in E-Mail
 
    ![](assets/program-member-custom-field-tokens-9.png)
 
-1. Klicken **Speichern**.
+1. Klicks **Speichern**.
 
    ![](assets/program-member-custom-field-tokens-10.png)
 
@@ -93,7 +93,7 @@ Sie können Token für benutzerdefinierte Felder des Programmmitglieds in E-Mail
 
    ![](assets/program-member-custom-field-tokens-12.png)
 
-1. Suchen und wählen Sie das gewünschte benutzerdefinierte Feld-Token für Programmteilnehmer aus. Geben Sie einen Standardwert ein und klicken Sie auf &quot;Einfügen&quot;.
+1. Suchen und wählen Sie das gewünschte benutzerdefinierte Feld-Token für Programmteilnehmer aus. Geben Sie einen Standardwert ein und klicken Sie auf Einfügen.
 
    ![](assets/program-member-custom-field-tokens-13.png)
 
@@ -107,7 +107,7 @@ Sie können Token für benutzerdefinierte Felder des Programmmitglieds in E-Mail
 
    ![](assets/program-member-custom-field-tokens-15.png)
 
-1. Klicken **Push-Benachrichtigung**.
+1. Klicks **Push-Benachrichtigung**.
 
    ![](assets/program-member-custom-field-tokens-16.png)
 
@@ -119,7 +119,7 @@ Sie können Token für benutzerdefinierte Felder des Programmmitglieds in E-Mail
 
    ![](assets/program-member-custom-field-tokens-18.png)
 
-1. Klicken **Beenden** Speichern und beenden (oder **Nächste** zunächst zu überprüfen).
+1. Klicks **Beenden** Speichern und beenden (oder **Nächste** zunächst zu überprüfen).
 
    ![](assets/program-member-custom-field-tokens-19.png)
 

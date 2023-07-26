@@ -42,7 +42,7 @@ Visualforce-Seiten:
 * Lead - Enthält die Option zum Klicken auf die Unterschrift &quot;Zur vollständigen Liste gehen&quot;. Sie werden auf eine neue Registerkarte in Salesforce gesendet, auf der das MSI-Bedienfeld in einem vollständigen Seitenlayout angezeigt wird.
 * Lead-Vollständige Liste - enthält nicht die Option &quot;Zur vollständigen Liste wechseln&quot;
 * Lead Mobile - In Salesforce Mobile App sichtbar
-* Lead Contact Bridge - Zeigt das MSI-Bedienfeld des Kontakts an, den Sie im Feld MSI-Kontakt-ID hinzugefügt haben
+* Lead Contact Bridge - Zeigt das MSI-Bedienfeld des Kontakts an, den Sie im Feld MSI Contact ID hinzugefügt haben
 
 Felder:
 
@@ -57,7 +57,7 @@ Felder:
 * Wert für Relativergebnis
 * Dringlichkeit
 * Wert für Wichtigkeit
-* In Marketo anzeigen - Klicken Sie auf dieses Feld, um eine nicht bearbeitbare Ansicht des Leads in Marketo zu öffnen. Umfasst: Lead-Info, Firmeninformationen, SFDC-Lead-Informationen, benutzerdefinierte SFDC-Felder, Aktivitätsprotokoll
+* In Marketo anzeigen - Klicken Sie auf dieses Feld, um eine nicht bearbeitbare Ansicht des Leads in Marketo zu öffnen. Dazu gehören: Lead-Info, Firmeninfo, SFDC-Lead-Info, benutzerdefinierte SFDC-Felder, Aktivitätsprotokoll
 * MSI-Kontakt-ID - Fügen Sie diesem Feld einen Salesforce-Kontakt hinzu und fügen Sie das Bedienfeld &quot;Lead Contact Bridge&quot;in das Lead-Layout ein, um das MSI-Bedienfeld des Kontakts anzuzeigen.
 
 ## Kontaktlayout {#contact-layout}
@@ -81,7 +81,7 @@ Felder:
 * Wert für Relativergebnis
 * Dringlichkeit
 * Wert für Wichtigkeit
-* In Marketo anzeigen - Klicken Sie auf dieses Feld, um eine nicht bearbeitbare Ansicht des Leads in Marketo zu öffnen. Umfasst: Lead-Info, Firmeninformationen, SFDC-Lead-Informationen, benutzerdefinierte SFDC-Felder, Aktivitätsprotokoll
+* In Marketo anzeigen - Klicken Sie auf dieses Feld, um eine nicht bearbeitbare Ansicht des Leads in Marketo zu öffnen. Dazu gehören: Lead-Info, Firmeninfo, SFDC-Lead-Info, benutzerdefinierte SFDC-Felder, Aktivitätsprotokoll
 * MKTO-Lead-Ergebnis
 * Sales Insight - Öffnet die Seite mit der vollständigen Liste .
 
@@ -132,9 +132,9 @@ Die folgenden Funktionen sind **nicht verfügbar** auf der Seite &quot;Opportuni
 
 ## Ansicht &quot;Lead&quot;und &quot;Kontaktliste&quot;(Massenaktionen) {#lead-and-contact-list-view-bulk-actions}
 
-Salesforce Lightning: Fügen Sie die Aktionsschaltflächen Zu Marketo Campaign hinzufügen und Marketo-E-Mail-Massenaktion senden in der Liste der Leads und Kontakte hinzu.
+Salesforce-Blitze: Fügen Sie die Aktionsschaltflächen Zu Marketo-Campaign hinzufügen und Marketo-E-Mail-Massenaktionen senden in der Ansicht &quot;Lead&quot;und &quot;Kontaktliste&quot;hinzu.
 
-Salesforce Classic: Fügen Sie in der Listenansicht &quot;Lead&quot;und &quot;Kontaktliste&quot;die Schaltflächen &quot;Zu Marketo Campaign hinzufügen&quot;und &quot;Marketo-E-Mail-Massenaktion senden&quot;hinzu.
+Salesforce Classic: Fügen Sie die Aktionsschaltflächen Zu Marketo-Campaign hinzufügen und Marketo-E-Mail-Massenaktionen senden in der Ansicht &quot;Lead&quot;und &quot;Kontaktliste&quot;hinzu.
 
 ## Marketo-Registerkarte {#marketo-tab}
 
@@ -174,9 +174,9 @@ Salesforce Classic: Fügen Sie in der Listenansicht &quot;Lead&quot;und &quot;Ko
 
 ## Registerkarte &quot;Marketo Sales Insight-Konfiguration&quot; {#marketo-sales-insight-configuration-tab}
 
-* Betriebseinstellungen: Enthält Soap- und Rest-API-Anmeldeinformationen, die zum Einrichten von MSI in SFDC erforderlich sind
-* MSI-Konfiguration: Enthält die Konfiguration der Marketo-Registerkarte und des MSI-Visualisierungs-Bedienfelds
-* Marketo Sales Insight zurücksetzen: Möglichkeit zum Löschen aller Konfigurationen
+* Betriebseinstellungen: Enthält Soap &amp; Rest API-Anmeldeinformationen, die zum Einrichten von MSI in SFDC erforderlich sind
+* MSI-Konfiguration: Enthält die Konfiguration der Registerkarte &quot;Marketo&quot;und des MSI Visualforce-Bedienfelds
+* Zurücksetzen von Marketo Sales Insight: Umfasst die Möglichkeit, alle Konfigurationen zu löschen
 
 >[!MORELIKETHIS]
 >

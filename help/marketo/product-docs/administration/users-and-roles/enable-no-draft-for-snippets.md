@@ -29,7 +29,7 @@ Mit &quot;Kein Entwurf für Snippets&quot;können Sie Änderungen an Snippets ve
 
    ![](assets/enable-no-draft-for-snippets-1.png)
 
-1. Klicken **[!UICONTROL Benutzer und Rollen]**.
+1. Klicks **[!UICONTROL Benutzer und Rollen]**.
 
    ![](assets/enable-no-draft-for-snippets-2.png)
 
@@ -45,7 +45,7 @@ Mit &quot;Kein Entwurf für Snippets&quot;können Sie Änderungen an Snippets ve
 
    ![](assets/enable-no-draft-for-snippets-5.png)
 
-1. Erweitern Sie die **[!UICONTROL Snippet genehmigen]** Berechtigung und Überprüfung der **[!UICONTROL No-Draft]** ankreuzen. Klicken Sie anschließend auf **[!UICONTROL Speichern]**.
+1. Erweitern Sie die **[!UICONTROL Snippet genehmigen]** Berechtigungen und überprüfen Sie die **[!UICONTROL No-Draft]** ankreuzen. Klicken Sie anschließend auf **[!UICONTROL Speichern]**.
 
    ![](assets/enable-no-draft-for-snippets-6.png)
 

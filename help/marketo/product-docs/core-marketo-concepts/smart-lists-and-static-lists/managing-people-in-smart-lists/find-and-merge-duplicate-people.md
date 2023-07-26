@@ -57,9 +57,9 @@ Marketo dedupliziert automatisch, wenn neue Personen in das System eintreten. Ih
 
    >[!TIP]
    >
-   >Es können zwei oder mehr Duplikate für dieselbe Person vorhanden sein. Wählen Sie alle Duplikate gleichzeitig aus.
+   >Es können zwei oder mehr Duplikate für dieselbe Person vorhanden sein. Wählen Sie diese alle gleichzeitig aus.
 
-1. Sie sehen die Werte zwischen den Datensätzen, die _don&#39;t_ übereinstimmen. Wählen Sie für jedes Feld den Wert aus, den Sie beibehalten möchten. Klicken **Zusammenführen** wann geschehen. Wenn Sie keinen der Werte wünschen, können Sie **Benutzerdefiniert** und geben Sie einen Wert Ihrer Wahl ein.
+1. Sie sehen die Werte zwischen den Datensätzen, die _don&#39;t_ übereinstimmen. Wählen Sie für jedes Feld den Wert aus, den Sie beibehalten möchten. Klicks **Zusammenführen** wann geschehen. Wenn Sie keinen der Werte wünschen, können Sie **Benutzerdefiniert** und geben Sie einen Wert Ihrer Wahl ein.
 
    ![](assets/find-and-merge-duplicate-people-4.png)
 
@@ -75,7 +75,7 @@ Marketo dedupliziert automatisch, wenn neue Personen in das System eintreten. Ih
 
 Wenn Sie über eine Salesforce-Integration verfügen, gibt es einige Hinweise zu den Auswirkungen der Zusammenführung von Leads in Salesforce.
 
-* Beim Zusammenführen von Leads oder nur Kontakten werden diese nach normalen Salesforce-Regeln zusammengeführt.
+* Beim Zusammenführen von Leads oder nur Kontakten werden diese gemäß den normalen Salesforce-Regeln zusammengeführt.
 * Beim Zusammenführen von Leads und Kontakten werden alle Leads gemäß den normalen Salesforce-Regeln in Kontakte umgewandelt.
 
 Weitere Informationen zum Salesforce-Verhalten beim Zusammenführen von Leads oder Kontakten finden Sie in den folgenden Salesforce-Dokumenten:

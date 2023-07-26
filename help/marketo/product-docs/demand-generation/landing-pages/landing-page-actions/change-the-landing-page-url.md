@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Sie können die URL einer Landingpage ändern. Dies kann dazu beitragen, die URL leichter zu merken und SEO zu verbessern.
 
-1. Wählen Sie Ihre Landingpage aus. Klicken Sie auf **Landingpage-Aktionen** Dropdown, scrollen Sie zu **URL-Tools** und wählen Sie **URL-Einstellungen bearbeiten**.
+1. Wählen Sie Ihre Landingpage aus. Klicken Sie auf **Landingpage-Aktionen** Dropdown, scrollen Sie zu **URL-Tools** und wählen **URL-Einstellungen bearbeiten**.
 
    ![](assets/one.png)
 

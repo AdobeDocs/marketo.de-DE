@@ -29,4 +29,4 @@ Sie können die primäre Markendomäne pro E-Mail überschreiben. Dies ändert d
 
    >[!NOTE]
    >
-   >Nicht alle Benutzer sind berechtigt, die Markendomäne pro E-Mail festzulegen. Wenden Sie sich an Ihren Administrator, wenn die Variable [!UICONTROL Markendomänen] Dropdown-Liste.
+   >Nicht alle Benutzer sind berechtigt, die Markendomäne pro E-Mail festzulegen. Wenden Sie sich an Ihren Administrator, wenn die Variable [!UICONTROL Markendomänen] angezeigt.

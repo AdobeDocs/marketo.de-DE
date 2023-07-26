@@ -24,7 +24,7 @@ Geben Sie Ihren Ereignissen spezifische Ziele und sehen Sie, wie sie funktionier
 
    ![](assets/setting-event-goals-1.png)
 
-1. Wählen Sie die [!UICONTROL Kampagnenordner], geben Sie Ihrem Ereignis eine [!UICONTROL Name], wählen Sie die [!UICONTROL Programmtyp] und [!UICONTROL Kanal]. Klicken **[!UICONTROL Erstellen]** wann geschehen.
+1. Wählen Sie die [!UICONTROL Kampagnenordner], geben Sie Ihrem Ereignis eine [!UICONTROL Name], wählen Sie die [!UICONTROL Programmtyp] und [!UICONTROL Kanal]. Klicks **[!UICONTROL Erstellen]** wann geschehen.
 
    ![](assets/setting-event-goals-2.png)
 

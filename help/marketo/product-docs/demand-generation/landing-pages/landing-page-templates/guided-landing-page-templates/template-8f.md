@@ -22,7 +22,7 @@ Diese Vorlage enthält den folgenden Inhalt:
 * Kopfzeile (optional)
 * Ein primärer Abschnitt
 
-   * enthält einen Hero-Header, Hero-Text und einen Gewinnspiel
+   * enthält einen Helden-Header, Hero-Text und einen Gewinnspiel
 
 * Fünf Hauptabschnitte (optional)
 * Fußzeile (optional)

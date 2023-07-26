@@ -57,7 +57,7 @@ Einige Trigger und Filter bieten zusätzliche Einschränkungen wie:
 
 * Sitzungslänge (Sekunden) - Sitzungszeit, wenn sich die App im Vordergrund befindet
 
-* Ist Push aktiviert - **True** bedeutet, dass Push-Benachrichtigungen gesendet werden können. **False** bedeutet, dass sie es nicht können; Beispielsweise hat sich die Person vom Erhalt von Push-Benachrichtigungen abgemeldet
+* Ist Push aktiviert - **True** bedeutet, dass Push-Benachrichtigungen gesendet werden können. **False** bedeutet, dass dies nicht möglich ist. Beispielsweise hat sich die Person vom Erhalt von Push-Benachrichtigungen abgemeldet.
 
 ## Trigger und Filter {#triggers-and-filters}
 

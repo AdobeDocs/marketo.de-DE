@@ -1,7 +1,7 @@
 ---
 unique-page-id: 10096400
 description: Erstellen einer E-Mail-Vorlage - Marketo Docs - Produktdokumentation
-title: E-Mail-Vorlage erstellen
+title: Erstellen einer E-Mail-Vorlage
 exl-id: dfd91254-03fa-4f91-995d-ae4fe549a98d
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,13 +11,13 @@ ht-degree: 0%
 
 ---
 
-# E-Mail-Vorlage erstellen {#create-an-email-template}
+# Erstellen einer E-Mail-Vorlage {#create-an-email-template}
 
 Führen Sie die folgenden Schritte aus, um eine neue E-Mail-Vorlage zu erstellen.
 
 >[!NOTE]
 >
->Der Marketo-Support ist nicht für die Fehlerbehebung bei benutzerdefiniertem HTML eingerichtet. Wenden Sie sich an einen Webentwickler, um Hilfe beim HTML zu erhalten.
+>Der Marketo-Support ist nicht für die Fehlerbehebung bei benutzerdefiniertem HTML eingerichtet. Wenden Sie sich an einen Web-Entwickler, um Hilfe beim HTML zu erhalten.
 
 >[!CAUTION]
 >
@@ -25,11 +25,11 @@ Führen Sie die folgenden Schritte aus, um eine neue E-Mail-Vorlage zu erstellen
 
 ## Neue E-Mail-Vorlage erstellen {#create-a-new-email-template}
 
-1. Klicken **Design Studio**.
+1. Klicks **Design Studio**.
 
    ![](assets/designstudio.png)
 
-1. Klicken **Neu**, wählen Sie **Neue E-Mail-Vorlage**.
+1. Klicks **Neu**, wählen Sie **Neue E-Mail-Vorlage**.
 
    ![](assets/ds-two.png)
 
@@ -49,7 +49,7 @@ Führen Sie die folgenden Schritte aus, um eine neue E-Mail-Vorlage zu erstellen
 
 Wenn Sie eine E-Mail erstellt haben, die Sie als Vorlage für die zukünftige Verwendung speichern möchten, führen Sie die folgenden einfachen Schritte aus.
 
-1. Klicken **Marketingaktivitäten**.
+1. Klicks **Marketingaktivitäten**.
 
    ![](assets/one.png)
 

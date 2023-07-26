@@ -25,9 +25,9 @@ Diese werden aus dem Lead-Score abgeleitet - einem Maß für das Interesse der P
 
 ## Dringlichkeit {#urgency}
 
-Die Flammen stellen die Dringlichkeit dar - wie sehr sich die Lead-Punktzahl dieser Person in letzter Zeit geändert hat. Eine hohe Dringlichkeit (mehr Flammen) bedeutet, dass sich die Punktzahl dieses Leads in letzter Zeit stark erhöht hat. Es ist ein gutes Zeichen, dass dieser Leiter an Ihrem Angebot interessiert ist. Du solltest diese Person schnell verfolgen!
+Die Flammen stellen die Dringlichkeit dar - wie sehr sich das Lead-Ergebnis dieser Person in letzter Zeit geändert hat. Eine hohe Dringlichkeit (mehr Flammen) bedeutet, dass der Punktstand dieses Leads in letzter Zeit stark zugenommen hat. Es ist ein gutes Zeichen, dass dieser Lead an Ihrem Angebot interessiert ist. Du solltest diese Person schnell verfolgen!
 
-Beispielsweise wird ein Lead, der eine Demo angefordert und mehrere Webseiten besucht hat, wahrscheinlich eine sehr hohe Dringlichkeit haben. Ein Lead, der Ihre Webseite nicht besucht oder Ihre E-Mails geöffnet hat, hat eine geringe Dringlichkeit. Verwenden Sie die Dringlichkeit, um zu bestimmen, wer als Nächstes kontaktiert werden muss.
+Beispielsweise wird ein Lead, der eine Demo angefordert und mehrere Webseiten besucht hat, wahrscheinlich eine sehr hohe Dringlichkeit haben. Ein Lead, der Ihre Webseite nicht besucht oder Ihre E-Mails geöffnet hat, hat eine geringe Dringlichkeit. Verwenden Sie die Dringlichkeit, um die Personen zu priorisieren, die als Nächstes kontaktiert werden müssen.
 
 ![](assets/priority-urgency-relative-score-and-best-bets-2.png)
 
@@ -43,7 +43,7 @@ Ihre besten Wetten sind Ihre Leads und Kontakte mit höchster Dringlichkeit und 
 
 >[!NOTE]
 >
->Wenn Ihre besten Wetten nicht mit den besten Leads und Kontakten übereinstimmen, die Sie besitzen, sprechen Sie mit einer Person in Ihrem Unternehmen, die Zugriff auf Marketo hat, über die Aktualisierung Ihrer [Scoring-Regeln](/help/marketo/getting-started/quick-wins/simple-scoring.md).
+>Wenn Ihre besten Wetten nicht mit den besten Leads und Kontakten übereinstimmen, die Sie besitzen, sprechen Sie mit einer Person in Ihrem Unternehmen, die Zugriff auf Marketo hat, über die Aktualisierung Ihrer [Bewertungsregeln](/help/marketo/getting-started/quick-wins/simple-scoring.md).
 
 ### Berechnung von Dringlichkeit und relativer Punktzahl
 

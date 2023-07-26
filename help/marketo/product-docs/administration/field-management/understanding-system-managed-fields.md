@@ -20,12 +20,12 @@ Vielleicht haben Sie bemerkt, dass die Variable [Personendetailseite](/help/mark
 | **Feldname** | **Definition** |
 |---|---|
 | Ursprünglicher Quellentyp | Der Ort, an dem eine Person oder ein Website-Besucher zuerst entdeckt wurde (Beispiel: Listenimport, Webseitenbesuch) |
-| Ursprüngliche Quelleninfo | Details zu diesem Ort (Beispiel: Name der Liste, URL der Webseite) |
+| Ursprüngliche Quelleninfo | Details zu dieser Position (Beispiel: Name der Liste, URL der Webseite) |
 | Ursprüngliche Such-Engine | Gegebenenfalls die Suchmaschine, die die Person an die ursprüngliche Einstiegsquelle verwiesen hat |
 | Ursprünglicher Suchausdruck | Falls zutreffend, der verwendete Suchbegriff, der die Person an die ursprüngliche Quelle der Einsendung verwiesen hat |
-| Ursprünglicher Verweis | URL, die die ursprüngliche Einstiegsquelle gehostet hat |
+| Ursprünglicher Verweis | URL, die die ursprüngliche Einstiegsquelle hostet |
 | Registrierungsquellentyp | Der Ort, an dem eine Aktivität zuerst zu einer Person wurde (Beispiel: Listenimport, Webseitenbesuch) |
-| Registrierungsquelleninfo | Details zu diesem Ort (Beispiel: Name der Liste, URL der Webseite) |
+| Registrierungsquelleninfo | Details zu dieser Position (Beispiel: Name der Liste, URL der Webseite) |
 | Anonyme IP | Gibt die IP-Adresse einer Person an |
 | Abgeleitetes Unternehmen | Die beste Schätzung von Marketo (basierend auf IP) für das Unternehmen der Person |
 | Abgeleiteter Ort | Die beste Schätzung von Marketo (basierend auf IP) für die Stadt der Person |
@@ -52,7 +52,7 @@ Im Folgenden finden Sie einige mögliche Werte und deren Bedeutung.
 | Kontakt | Person wurde synchronisiert von [!DNL Webhook] als Ansprechpartner |
 | [!DNL Munchkin] API | Person wurde vom Marketo Engage entdeckt [!DNL Munchkin] API |
 | Social App | Person wurde von einem Social-Widget entdeckt |
-| Webservice-API | Person wurde von einer Web-Service-API erkannt |
+| Webservice-API | Person wurde von einer Web-Service-API entdeckt |
 | Veranstaltungspartner | Person wurde über einen synchronisierten Webinardienst entdeckt |
 | Lead zuordnen | Person, die über den API-Aufruf &quot;Associate Lead&quot;zusammengeführt wurde |
 
@@ -60,7 +60,7 @@ Im Folgenden finden Sie einige mögliche Werte und deren Bedeutung.
 |---|---|
 | Listenimport | Person durch Listenimport werden |
 | Salesforce.com | Werden Sie ein Mensch durch eine [!DNL Webhook] Synchronisieren |
-| Webformularausfüllung | Werden Sie eine Person, nachdem Sie ein Formular ausgefüllt haben |
+| Webformularausfüllung | Person werden, nachdem ein Formular ausgefüllt wurde |
 | Sales Email | Person wurde eine E-Mail gesendet über [!DNL Webhook] E-Mail-Add-In |
 | Webservice-API | Person wurde über die SOAP-/REST-API erstellt |
 | Neue Person | Person wurde manuell in die Datenbank eingegeben |

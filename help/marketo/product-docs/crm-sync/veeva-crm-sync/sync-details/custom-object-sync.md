@@ -34,7 +34,7 @@ Benutzerdefinierte Objekte, die in Ihrer VEE CRM-Instanz erstellt wurden, könne
 
    ![](assets/custom-object-sync-2.png)
 
-1. Klicken **Globale Synchronisierung deaktivieren**.
+1. Klicks **Globale Synchronisierung deaktivieren**.
 
    ![](assets/custom-object-sync-3.png)
 
@@ -50,11 +50,11 @@ Benutzerdefinierte Objekte, die in Ihrer VEE CRM-Instanz erstellt wurden, könne
    >
    >Benutzerdefinierte Objekte müssen eindeutige Namen haben. Marketo unterstützt zwei verschiedene benutzerdefinierte Objekte mit demselben Namen nicht.
 
-1. Klicken **Synchronisierung aktivieren**.
+1. Klicks **Synchronisierung aktivieren**.
 
    ![](assets/custom-object-sync-5.png)
 
-1. Klicken **Synchronisierung aktivieren** erneut.
+1. Klicks **Synchronisierung aktivieren** erneut.
 
    ![](assets/custom-object-sync-6.png)
 
@@ -62,11 +62,11 @@ Benutzerdefinierte Objekte, die in Ihrer VEE CRM-Instanz erstellt wurden, könne
 
    ![](assets/custom-object-sync-7.png)
 
-1. Klicken **Synchronisierung aktivieren**.
+1. Klicks **Synchronisierung aktivieren**.
 
    ![](assets/custom-object-sync-8.png)
 
-1. Um alle benutzerdefinierten Objekte von Veeva anzuzeigen, klicken Sie auf &quot;Admin- und Veeva-Objektsynchronisierung&quot;.
+1. Um alle benutzerdefinierten Objekte von Veeva anzuzeigen, klicken Sie auf Admin- und Veeva-Objektsynchronisierung.
 
    ![](assets/custom-object-sync-9.png)
 

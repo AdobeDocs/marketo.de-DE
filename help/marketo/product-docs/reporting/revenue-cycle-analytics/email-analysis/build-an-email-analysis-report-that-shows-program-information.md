@@ -23,7 +23,7 @@ Führen Sie diese Schritte aus, um einen E-Mail-Analysebericht zu erstellen, in 
 
    ![](assets/report-that-shows-program-information-1.png)
 
-1. Klicken **Neu erstellen** und wählen Sie **Bericht**.
+1. Klicks **Neu erstellen** und wählen **Bericht**.
 
    ![](assets/report-that-shows-program-information-2.png)
 
@@ -31,7 +31,7 @@ Führen Sie diese Schritte aus, um einen E-Mail-Analysebericht zu erstellen, in 
 
    ![](assets/image2014-9-17-19-3a43-3a20.png)
 
-1. Suchen Sie die **Gesendet (Woche)** gelber Punkt und Rechtsklick. Klicken **Filter**.
+1. Suchen Sie die **Gesendet (Woche)** gelber Punkt und Rechtsklick. Klicks **Filter**.
 
    >[!NOTE]
    >
@@ -39,7 +39,7 @@ Führen Sie diese Schritte aus, um einen E-Mail-Analysebericht zu erstellen, in 
 
    ![](assets/image2014-9-17-19-3a43-3a49.png)
 
-1. Überprüfen **Aktuelle gesendete Woche** und klicken Sie auf **OK**.
+1. Überprüfen **Aktuelle gesendete Woche** und klicken **OK**.
 
    ![](assets/image2014-9-17-19-3a43-3a59.png)
 

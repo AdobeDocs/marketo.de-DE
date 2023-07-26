@@ -27,7 +27,7 @@ Durch das Hinzufügen von Konkurrenten können Sie verfolgen, wie sie bei densel
 
    ![](assets/image2014-9-17-21-3a12-3a31.png)
 
-1. Klicken **[!UICONTROL Konkurrenten hinzufügen]**.
+1. Klicks **[!UICONTROL Konkurrenten hinzufügen]**.
 
    ![](assets/image2014-9-17-21-3a12-3a38.png)
 

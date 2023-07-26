@@ -53,11 +53,11 @@ Wenn die Grenzwerte durchgängig überschritten werden, kann dies manchmal als v
 
    ![](assets/email-connection-throttling-5.png)
 
-1. Klicken **Speichern**.
+1. Klicks **Speichern**.
 
    ![](assets/email-connection-throttling-6.png)
 
-Nachdem die Änderungen gespeichert wurden, werden alle Benutzer ihre E-Mails in Batches an ihr verbundenes Gmail- oder Exchange-Konto zum Versand senden lassen.
+Nachdem die Änderungen gespeichert wurden, werden alle Benutzer ihre E-Mails in Batches an ihr verbundenes Gmail- oder Exchange-Konto zur Bereitstellung senden.
 
 ## Einschränkungen des E-Mail-Anbieters {#email-provider-limits}
 

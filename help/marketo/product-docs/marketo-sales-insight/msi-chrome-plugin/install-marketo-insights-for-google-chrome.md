@@ -17,7 +17,7 @@ Führen Sie diese Schritte aus, um mit der Verwendung des leistungsstarken Chrom
 
 >[!NOTE]
 >
->Die Funktionen von Sales Insight-Aktionen, einschließlich &quot;E-Mail an Vertrieb senden&quot;, &quot;Zu Vertriebskampagne hinzufügen&quot;und &quot;Aufgaben&quot;, sind nicht in den E-Mail-Plugins für Sales Insight für Gmail und Outlook verfügbar. Derzeit können Benutzer von ihrem E-Mail-Client aus nur trackbare E-Mails mit oder ohne Marketo-E-Mail-Vorlage senden, wenn sie die Sales Insight-E-Mail-Plugins verwenden.
+>Die Funktionen von Sales Insight-Aktionen, einschließlich &quot;E-Mail an Vertrieb senden&quot;, &quot;Zu Vertriebskampagne hinzufügen&quot;und &quot;Aufgaben&quot;, sind nicht in den Sales Insight-E-Mail-Plugins für Gmail und Outlook verfügbar. Derzeit können Benutzer von ihrem E-Mail-Client aus nur trackbare E-Mails mit oder ohne Marketo-E-Mail-Vorlage senden, wenn sie die Sales Insight-E-Mail-Plugins verwenden.
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ Führen Sie diese Schritte aus, um mit der Verwendung des leistungsstarken Chrom
 
    ![](assets/two.png)
 
-1. Geben Sie Ihre **Reg-Code**, **Email-Adresse**, **Vorname** und **Nachname**. Klicken **Überprüfen und Speichern**.
+1. Geben Sie Ihre **Reg-Code**, **Email-Adresse**, **Vorname**, und **Nachname**. Klicks **Überprüfen und Speichern**.
 
    ![](assets/three.png)
 
@@ -41,9 +41,9 @@ Führen Sie diese Schritte aus, um mit der Verwendung des leistungsstarken Chrom
 
    >[!NOTE]
    >
-   >Der Reg-Code wird in der E-Mail enthalten sein, die nach einem Marketo-Administrator gesendet wird. [stellt Ihnen eine Marketo-E-Mail-Add-in-Lizenz zur Verfügung](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md) [.](https://docs.marketo.com/pages/viewpage.action?pageid=7510848) **Sie läuft nach 14 Tagen ab**.
+   >Der Reg-Code wird in der E-Mail enthalten sein, die nach einem Marketo-Administrator gesendet wird. [stellt eine Marketo-E-Mail-Add-in-Lizenz bereit](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md) [.](https://docs.marketo.com/pages/viewpage.action?pageid=7510848) **Sie läuft nach 14 Tagen ab**.
 
-1. Klicken **Zulassen** , um den Offline-Zugriff zuzulassen.
+1. Klicks **Zulassen** , um den Offline-Zugriff zuzulassen.
 
    ![](assets/image2015-10-5-10-3a34-3a1.png)
 

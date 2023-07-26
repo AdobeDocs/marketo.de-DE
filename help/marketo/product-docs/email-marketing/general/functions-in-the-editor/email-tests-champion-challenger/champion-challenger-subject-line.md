@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# Champion/Challenger: Betreff {#champion-challenger-subject-line}
+# Champion/Challenger: Betreffzeile {#champion-challenger-subject-line}
 
 Sie können mühelos mehrere Betreffzeilen testen. Wenn der Test beendet ist, senden Sie E-Mails mit der effektivsten E-Mail. Hier ist, wie man das macht.
 
@@ -19,7 +19,7 @@ Sie können mühelos mehrere Betreffzeilen testen. Wenn der Test beendet ist, se
 >
 >[E-Mail-Champion/Challenger hinzufügen](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. Wählen Sie im E-Mail-Test-Editor **Betreff** im **Testtyp** Dropdown-Liste.
+1. Wählen Sie im E-Mail-Test-Editor **Betreff** im **Testtyp** angezeigt.
 
    ![](assets/image2014-9-15-12-3a37-3a50.png)
 
@@ -27,7 +27,7 @@ Sie können mühelos mehrere Betreffzeilen testen. Wenn der Test beendet ist, se
    >
    >Bei einem Betrefftest wird die erste eingegebene Betreffzeile als **Champion**. Nachfolgende Betreffzeilen werden **Herausforderungen**.
 
-1. Betreffzeile(n) für die **Herausforderungen**.
+1. Betreffzeile(n) für **Herausforderungen**.
 
    ![](assets/image2014-9-15-12-3a38-3a4.png)
 
@@ -47,7 +47,7 @@ Sie können mühelos mehrere Betreffzeilen testen. Wenn der Test beendet ist, se
 
    Um statistische Genauigkeit zu erhalten, stellen Sie sicher, dass der gewählte Prozentsatz genügend Personen enthält, damit Ihr Test gültig ist. Lassen Sie sich nicht von unschlüssigen Ergebnissen täuschen. [Mehr Informationen als jemals zuvor über das statistische Vertrauen](https://en.wikipedia.org/wiki/Confidence_interval).
 
-1. Klicken **Nächste**.
+1. Klicks **Nächste**.
 
    ![](assets/image2014-9-15-12-3a40-3a42.png)
 

@@ -21,7 +21,7 @@ Im Folgenden finden Sie die Grundlagen für die Navigation in der Programmplanan
 
    ![](assets/login-marketing-activities.png)
 
-1. Wählen Sie Ihr Programm aus. Klicken Sie auf **Ansicht** Dropdown-Liste. Auswählen **Zeitplan**.
+1. Wählen Sie Ihr Programm aus. Klicken Sie auf **Ansicht** angezeigt. Auswählen **Zeitplan**.
 
    ![](assets/image2014-9-17-11-3a38-3a3.png)
 
@@ -31,7 +31,7 @@ Im Folgenden finden Sie die Grundlagen für die Navigation in der Programmplanan
 
 >[!NOTE]
 >
->Die Programmplanungsansicht ist fixierbar. Sobald Sie sie festgelegt haben, werden alle Programme standardmäßig in der Planungsansicht angezeigt.
+>Die Programmplanungsansicht hängt. Sobald Sie sie festgelegt haben, werden alle Programme standardmäßig in der Planungsansicht angezeigt.
 
 ## Wechseln zwischen Einträgen {#switching-between-entries}
 

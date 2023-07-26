@@ -19,7 +19,7 @@ Bevor Sie sich mit der Verwendung von Marketo befassen, müssen Sie einige Schri
 
 Zu diesen Schritten gehören:
 
-* Einige grundlegende Kontoeinstellungen
+* Grundlegende Kontoeinstellungen
 * Branding von Landingpage-URLs und E-Mail-Links zur Verbesserung von Vertrauen und Zustellbarkeit
 * Synchronisieren Ihres CRM
 * Hinzufügen von Trackingcode zur Website Ihres Unternehmens
@@ -32,7 +32,7 @@ Einige Schritte erfordern Hilfe von Ihrem IT-Team.
 
 >[!TIP]
 >
->Wenn Sie [Diese Checkliste ausdrucken](/help/marketo/getting-started/setup/setup-checklist.md){target="_blank"}, können Sie die Elemente nach Abschluss abwählen.
+>Wenn Sie [Diese Checkliste ausdrucken](/help/marketo/getting-started/setup/setup-checklist.md){target="_blank"}, können Sie die Elemente bei ihrem Abschluss abwählen.
 
 ## Anmelden und Erstellen zusätzlicher Marketo-Benutzer {#log-in-and-create-additional-marketo-users}
 
@@ -54,15 +54,15 @@ Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
 >
 >**Erforderliche Administratorberechtigungen**
 
-Klicken **[!UICONTROL Benutzer und Rollen]**.
+Klicks **[!UICONTROL Benutzer und Rollen]**.
 
 ![](assets/setup-steps-3.png)
 
-Klicken **[!UICONTROL Neuen Benutzer einladen]**.
+Klicks **[!UICONTROL Neuen Benutzer einladen]**.
 
 ![](assets/setup-steps-4.png)
 
-Füllen Sie die E-Mail-Adresse, den Vor- und Nachnamen Ihres Kollegen aus. _Das Festlegen des Ablaufdatums für den Zugriff ist optional._. Klicken **[!UICONTROL Nächste]**.
+Füllen Sie die E-Mail-Adresse, den Vor- und Nachnamen Ihres Kollegen aus. _Das Festlegen des Ablaufdatums für den Zugriff ist optional._. Klicks **[!UICONTROL Nächste]**.
 
 ![](assets/setup-steps-5.png)
 
@@ -74,7 +74,7 @@ Füllen Sie die E-Mail-Adresse, den Vor- und Nachnamen Ihres Kollegen aus. _Das 
 >
 >Wenn das Ablaufdatum eintrifft, erhält der Benutzer eine Ablaufbenachrichtigung und das Konto wird gesperrt.
 
-Wählen Sie eine Rolle aus und klicken Sie auf **[!UICONTROL Nächste]**. Standardbenutzer haben Zugriff auf alle Bereiche außer Admin.
+Rollen auswählen und auf **[!UICONTROL Nächste]**. Standardbenutzer haben Zugriff auf alle Bereiche außer Admin.
 
 ![](assets/setup-steps-6.png)
 
@@ -82,7 +82,7 @@ Wählen Sie eine Rolle aus und klicken Sie auf **[!UICONTROL Nächste]**. Standa
 >
 >Neben den fünf integrierten Rollen können Sie auch benutzerdefinierte Rollen erstellen. Weitere Informationen [Verwalten von Benutzerrollen und Berechtigungen](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
 
-Sie können den Einladungstext anpassen. Klicken **Senden**.
+Sie können den Einladungstext anpassen. Klicks **Senden**.
 
 ![](assets/setup-steps-7.png)
 
@@ -130,7 +130,7 @@ Um die Munchkin-ID abzurufen, die Sie durch Ihren Landingpage-CNAME ersetzen, ge
 
 ![](assets/setup-steps-9.png)
 
-Klicken **Mein Konto**.
+Klicks **Mein Konto**.
 
 ![](assets/setup-steps-10.png)
 
@@ -151,8 +151,8 @@ Konfigurieren Sie Ihre Domäneneinstellungen so, dass Landingpages die Domäne I
 Es gibt verschiedene Maßnahmen, mit denen Sie sicherstellen können, dass die E-Mails möglichst viele Ihrer Personen erreichen.
 
 * **Markieren von Tracking-Links**. Sie können einen CNAME auswählen, um Ihre eigene Domäne (anstelle von Marketo) in den Links zu verwenden, die Sie in E-Mails von Marketo einfügen. Dies stärkt das Domain-Branding und erhöht das Vertrauen und die Zustellbarkeit für Ihre Empfänger.
-* **Fügen Sie Marketo zu Ihrer E-Mail-Zulassungsliste Ihres Unternehmens hinzu.** Es empfiehlt sich, vor dem Versand von E-Mails an tatsächliche Personen Testversand an Testkonten durchzuführen. Durch die Zulassungsauflistung von Marketo können Sie verhindern, dass diese Test-E-Mails blockiert oder als Spam gekennzeichnet werden.
-* **Richten Sie SPF und DKIM ein.** Mit diesen Technologien können Sie Ihren Empfängern versichern, dass Ihre Marketo-E-Mails keine Spam sind. Um zu verhindern, dass die Spamfilter der Empfänger Ihre Marketo-E-Mails ablehnen, gehen Sie wie folgt vor: [Einrichten einer SPF und eines DKIM für Ihre E-Mail-Zustellbarkeit](/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md).
+* **Fügen Sie Marketo zu Ihrer E-Mail-Zulassungsliste Ihres Unternehmens hinzu.** Es ist eine gängige Best Practice, vor dem Versand von E-Mails an Personen Testversand an Testkonten durchzuführen. Durch die Zulassungsauflistung von Marketo können Sie verhindern, dass diese Test-E-Mails blockiert oder als Spam gekennzeichnet werden.
+* **Einrichten von SPF und DKIM.** Mit diesen Technologien können Sie Ihren Empfängern versichern, dass Ihre Marketo-E-Mails keine Spam sind. Um zu verhindern, dass die Spamfilter der Empfänger Ihre Marketo-E-Mails ablehnen, gehen Sie wie folgt vor: [Einrichten einer SPF und eines DKIM für Ihre E-Mail-Zustellbarkeit](/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md).
 * **Richten Sie einen MX-Datensatz für Ihre Domäne ein.** Ein MX-Datensatz ermöglicht es Ihnen, E-Mails an die Domain zu erhalten, von der Sie E-Mails senden, um Antworten und automatische Antworten zu verarbeiten. Wenn Sie von Ihrer Unternehmensdomäne aus senden, ist diese wahrscheinlich bereits konfiguriert. Wenn nicht, können Sie normalerweise so einrichten, dass die Zuordnung zum MX-Datensatz Ihrer Unternehmensdomäne erfolgt.
 * **Empfohlene Einstellungen für die Absenderadresse.** Sie müssen in allen E-Mail-Kampagnen in der Absenderadresse eine gültige, vorhandene und funktionierende E-Mail-Domäne verwenden. Es kann von Vorteil sein, eine Subdomain Ihrer Unternehmensdomäne zu konfigurieren, anstatt sie von Ihrer Unternehmensdomäne aus zu senden. Dadurch wird sichergestellt, dass Probleme aus Ihrem Unternehmens-Mailstream keine Auswirkungen auf Ihren Marketo-Mailstream haben und umgekehrt. Darüber hinaus senden Sie E-Mails von `something@nonexistentdomain.com` wird E-Mail gefiltert oder blockiert. Jede Domäne, die in der Absenderadresse verwendet wird, muss über ein gültiges und funktionierendes Postmaster@- und Missbrauch@-Konto verfügen.
 
@@ -174,7 +174,7 @@ Um Ihren Marketo-Tracking-Link zu finden, navigieren Sie zum **[!UICONTROL Admin
 
 ![](assets/setup-steps-12.png)
 
-Klicken **[!UICONTROL Email]**.
+Klicks **[!UICONTROL Email]**.
 
 ![](assets/setup-steps-13.png)
 
@@ -186,9 +186,9 @@ Die [!UICONTROL Tracking-Link] im Formular: `mkto-[a-z][4 digits].com`.
 
 Dies ist Ihr `[MktoTrackingLink]`. Speichern Sie sie. Sie müssen es IT in Schritt 5 geben.
 
-Erfassen Sie &quot;Von&quot;-Domänen. Erstellen Sie eine Liste aller &quot;Von&quot;-Domänen (wie in `[Sender]@[FromDomain].com`), die Sie zum Senden von E-Mails aus Marketo verwenden möchten. Für die meisten gibt es nur einen.
+Erfassen Sie &quot;Von&quot;-Domänen. Erstellen Sie eine Liste aller &quot;Von&quot;-Domänen (wie in, `[Sender]@[FromDomain].com`), die Sie zum Senden von E-Mails aus Marketo verwenden möchten. Für die meisten gibt es nur einen.
 
-Beispiel: &quot;marketo.com&quot;, &quot;info.marketo.com&quot;. Diese `[FromDomain1]`,`[FromDomain2]`, usw. Speichern Sie sie. Sie müssen sie in Schritt 5 IT übergeben.
+Beispiel: &quot;marketo.com,&quot;&quot;info.marketo.com,&quot;. Diese `[FromDomain1]`,`[FromDomain2]`, usw. Speichern Sie sie. Sie müssen sie in Schritt 5 IT übergeben.
 
 Sie haben jetzt alle Informationen, die Sie benötigen, um Ihre Anfrage an IT zu senden!
 
@@ -206,7 +206,7 @@ Fügen Sie diesen Text in die E-Mail ein und ersetzen Sie die fett hervorgehoben
 
 >[!NOTE]
 >
->Siehe Schritte 3 und 4 oben, um den Text zu bestimmen, der die Platzhalter ersetzen soll. Beachten Sie Folgendes: `[LandingPageCNAME]` und `[EmailTrackingCNAME]` muss anders sein.
+>Informationen zum Ersetzen der Platzhalter finden Sie in den Schritten 3 und 4 oben. Beachten Sie Folgendes: `[LandingPageCNAME]` und `[EmailTrackingCNAME]` muss anders sein.
 
 `----------------------------------------------`
 
@@ -214,9 +214,9 @@ Sehr geehrter IT-Administrator,
 
 Unser Marketingteam verwendet jetzt die Marketo-Plattform, um mit unseren Mitarbeitern zu kommunizieren. Um eine großartige Zustellbarkeit der E-Mail zu gewährleisten, müssen wir folgende Änderungen vornehmen:
 
-`1)` Fügen Sie für unsere Landingpages einen DNS-Eintrag (CNAME) hinzu für **[LandingPageCNAME]**.**[CompanyDomain]**.com, unter Verweis auf **[Munchkin-ID]**.mktoweb.com.
+`1)` Fügen Sie für unsere Landingpages einen DNS-Eintrag (CNAME) hinzu für **[LandingPageCNAME]**.**[CompanyDomain]**.com, auf **[Munchkin-ID]**.mktoweb.com
 
-`2)` Fügen Sie für unsere Tracking-Links in E-Mails einen DNS-Eintrag (CNAME) hinzu für **[EmailTrackingCNAME]**.**[CompanyDomain]**.com, unter Verweis auf **[MktoTrackingLink]**.
+`2)` Fügen Sie für unsere Tracking-Links in E-Mails einen DNS-Eintrag (CNAME) hinzu für **[EmailTrackingCNAME]**.**[CompanyDomain]**.com, auf **[MktoTrackingLink]**.
 
 `3)` Zulassungsliste Marketo.
 
@@ -257,7 +257,7 @@ Wenn wir bereits einen vorhandenen SPF-Eintrag in unserem DNS-Eintrag haben, fü
 
 include:mktomail.com
 
-`[`Ersetzen **Von Domäne** mit Ihrer E-Mail von Domain (z. B.: company.com) und **CorpIP** mit der IP-Adresse Ihres Unternehmens-E-Mail-Servers (z. B.: 255 255 255 255  Wenn Sie E-Mails von mehreren Domänen über Marketo versenden möchten, sollten Ihre IT-Mitarbeiter diese Zeile für jede Domäne hinzufügen (in einer Zeile).`]`
+`[`Ersetzen **Von Domäne** mit Ihrer E-Mail von der Domäne (z. B.: company.com) und **CorpIP** mit der IP-Adresse Ihres Unternehmens-E-Mail-Servers (z. B.: 255.255.255).  Wenn Sie E-Mails von mehreren Domänen über Marketo versenden möchten, sollten Ihre IT-Mitarbeiter diese Zeile für jede Domäne hinzufügen (in einer Zeile).`]`
 
 `b.` Erstellen Sie für DKIM DNS-Ressourcendatensätze für jede Domäne, die wir einrichten möchten. Im Folgenden finden Sie die Hostdatensätze und TXT-Werte für jede Domäne, für die wir Signieren werden:
 
@@ -299,21 +299,21 @@ Geben Sie Ihren neuen Domänennamen in das Feld ein. **[!UICONTROL Domänenname 
 
 ![](assets/setup-steps-17.png)
 
-Im **[!UICONTROL Fallback]** -Seite, geben Sie die URL ein, zu der Personen wechseln sollen, wenn eine Landingpage nicht verfügbar ist. Wenn Sie keine Fallback-Seite haben, können Sie die Startseite Ihres Unternehmens verwenden. Im **[!UICONTROL Homepage]** eingeben.
+Im **[!UICONTROL Fallback]** -Seite, geben Sie die URL ein, zu der Personen wechseln sollen, wenn eine Landingpage nicht verfügbar ist. Wenn Sie keine Fallback-Seite haben, können Sie die Startseite Ihres Unternehmens verwenden. Im **[!UICONTROL Homepage]** eingeben, geben Sie Ihre Firmenwebsite ein.
 
 ![](assets/setup-steps-18.png)
 
-Im [!UICONTROL Admin] Bereich, auswählen **[!UICONTROL Email]** Hinzufügen Ihres E-Mail-CNAME
+Im [!UICONTROL Admin] Bereich, auswählen **[!UICONTROL Email]** Hinzufügen des E-Mail-CNAME
 
 ![](assets/setup-steps-19.png)
 
-Scrollen Sie nach unten zu [!UICONTROL Branding-Domänen]. Wählen Sie Ihre Domäne aus und klicken Sie auf **[!UICONTROL Bearbeiten]**.
+Nach unten scrollen zu [!UICONTROL Branding-Domänen]. Wählen Sie Ihre Domäne aus und klicken Sie auf **[!UICONTROL Bearbeiten]**.
 
 ![](assets/setup-steps-20.png)
 
 Geben Sie im Feld Domäne Ihre E-Mail-Tracking-Domäne ein. Dies sollte folgende Form aufweisen:
 
-`[EmailTrackingCNAME].[CompanyDomain].com`. Klicken **[!UICONTROL Speichern]**.
+`[EmailTrackingCNAME].[CompanyDomain].com`. Klicks **[!UICONTROL Speichern]**.
 
 ![](assets/setup-steps-21.png)
 

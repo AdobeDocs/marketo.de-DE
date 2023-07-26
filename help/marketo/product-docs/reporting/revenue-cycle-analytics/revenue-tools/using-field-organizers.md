@@ -25,7 +25,7 @@ Field Organizers werden in der Modellleistungsanalyse verwendet.
 
 ## Erstellen von Feld-Organizern {#how-to-create-field-organizers}
 
-1. Klicken **Datenbank**.
+1. Klicks **Datenbank**.
 
    ![](assets/db.png)
 
@@ -33,7 +33,7 @@ Field Organizers werden in der Modellleistungsanalyse verwendet.
 
    ![](assets/two-1.png)
 
-1. under **Feld**, wählen Sie ein Attribut aus. Beschreibung ist optional.
+1. under **Feld** auswählen Sie ein Attribut. Beschreibung ist optional.
 
    ![](assets/three-1.png)
 
@@ -41,7 +41,7 @@ Field Organizers werden in der Modellleistungsanalyse verwendet.
 
    ![](assets/image2015-9-3-16-3a36-3a31.png)
 
-1. Benennen Sie die Gruppe und geben Sie die entsprechenden Daten ein (dies hängt vom Datentyp des ausgewählten Felds ab). Klicken **Gruppe hinzufügen**.
+1. Benennen Sie die Gruppe und geben Sie die entsprechenden Daten ein (dies hängt vom Datentyp des ausgewählten Felds ab). Klicks **Gruppe hinzufügen**.
 
    ![](assets/image2015-9-3-16-3a40-3a45.png)
 

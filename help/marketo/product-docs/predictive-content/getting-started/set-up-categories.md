@@ -33,7 +33,7 @@ So erstellen Sie Kategorie-Tags:
 
    ![](assets/settings-dropdown-hand-1.png)
 
-1. Klicken **Kategorien**.
+1. Klicks **Kategorien**.
 
    ![](assets/content-discovery-categories-hand.png)
 
@@ -45,7 +45,7 @@ So erstellen Sie Kategorie-Tags:
 
    ![](assets/remove-category-tag-updated.png)
 
-1. Klicken **Speichern** wenn Sie fertig sind.
+1. Klicks **Speichern** wenn Sie fertig sind.
 
    ![](assets/save-new.png)
 

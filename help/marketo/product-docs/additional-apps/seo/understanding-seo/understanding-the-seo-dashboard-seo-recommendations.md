@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2949180
 description: Erläuterungen zum SEO-Dashboard - SEO Recommendations - Marketo Docs - Produktdokumentation
-title: Das SEO-Dashboard - SEO Recommendations
+title: Erläuterungen zum SEO-Dashboard - SEO Recommendations
 exl-id: 44239e48-4aa1-450b-957a-cd3a13787cca
 feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f

@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Führen Sie die folgenden Schritte aus, um Benutzern Zugriff auf Kontoeinblicke zu gewähren.
 
-1. Klicken **Admin**.
+1. Klicks **Admin**.
 
    ![](assets/admin-1.png)
 
-1. Klicken **Benutzer und Rollen** im Baum. Klicken Sie anschließend auf **Vertriebsbenutzer** und **Neuen Vertriebsbenutzer einladen**.
+1. Klicks **Benutzer und Rollen** im Baum. Klicken Sie anschließend auf **Vertriebsbenutzer** und **Neuen Vertriebsbenutzer einladen**.
 
    ![](assets/two-6.png)
 
-   Es gibt zwei Möglichkeiten, Benutzer einzuladen: Nach CRM oder E-Mail. In diesem Beispiel verwenden wir Einladen nach CRM.
+   Es gibt zwei Möglichkeiten, Benutzer einzuladen: per CRM oder per E-Mail. In diesem Beispiel verwenden wir Einladen nach CRM.
 
    >[!NOTE]
    >
@@ -41,14 +41,14 @@ Führen Sie die folgenden Schritte aus, um Benutzern Zugriff auf Kontoeinblicke 
 
    ![](assets/four-5.png)
 
-1. Klicken **Nächste**.
+1. Klicks **Nächste**.
 
    ![](assets/five-5.png)
 
-1. Überprüfen Sie die **Kontoeinblick** Kontrollkästchen und klicken Sie auf **Nächste**.
+1. Überprüfen Sie die **Kontoeinblick** aktivieren und auf **Nächste**.
 
    ![](assets/six-3.png)
 
-1. Sehen Sie sich die Versandnachricht an, nehmen Sie die gewünschten Änderungen vor (optional) und klicken Sie auf **Senden**.
+1. Überprüfen Sie die Versandnachricht, nehmen Sie die gewünschten Änderungen vor (optional) und klicken Sie auf **Senden**.
 
    ![](assets/seven-2.png)

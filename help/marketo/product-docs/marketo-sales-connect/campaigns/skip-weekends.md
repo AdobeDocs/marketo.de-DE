@@ -23,7 +23,7 @@ Bei der Automatisierung einer Kampagne möchten Sie wahrscheinlich nicht, dass I
 
    ![](assets/two-2.png)
 
-1. Klicken **Einstellungen**.
+1. Klicks **Einstellungen**.
 
    ![](assets/three-2.png)
 

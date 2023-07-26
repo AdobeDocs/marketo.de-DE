@@ -26,7 +26,7 @@ Die empfohlenen Vorlagen von Sales Insight Action helfen Ihnen dabei, die richti
 
    ![](assets/recommended-templates-3.png)
 
-1. Wählen Sie die **Eine empfohlene Vorlage erstellen** Kontrollkästchen und klicken Sie auf **Speichern**.
+1. Wählen Sie die **Eine empfohlene Vorlage erstellen** aktivieren und auf **Speichern**.
 
    ![](assets/recommended-templates-4.png)
 
@@ -46,11 +46,11 @@ Ihre Kriterien werden die Bedingungen festlegen, für die Vorlagen empfohlen wer
 
 Wählen Sie nun Ihre Bedingung aus. Wenn Ihre Bedingungen für Ihr dynamisches Feld erfüllt sind, wird die Vorlage empfohlen. Wählen Sie aus 4 verschiedenen Bedingungen.
 
-**Gleich**: Der Wert muss eine exakte Übereinstimmung sein (z. B. Marketo ist Marketo).
+**Gleich**: Wert muss eine exakte Übereinstimmung sein (z. B. Marketo ist Marketo).
 
-**Does not Equal**: Der Wert muss alles andere als eine exakte Übereinstimmung sein (z. B. Marketing Nation ist nicht gleich Marketing).
+**Does not Equal**: Wert muss alles andere als eine exakte Übereinstimmung sein (z. B. Marketing Nation ist nicht gleich Marketing)
 
-**Enthält**: Nur muss den Wert enthalten (z. B. Marketo Rocks! enthält Marketo)
+**Enthält**: Nur der Wert muss enthalten (z. B. Marketo Rocks! enthält Marketo)
 
 **Enthält nicht**: Der Wert darf sich nicht im dynamischen Feld befinden (z. B. Marketo Rocks! enthält nicht Awesome)
 

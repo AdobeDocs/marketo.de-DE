@@ -19,7 +19,7 @@ Wenn Sie sich fragen, welche Berechtigungen Sie in Marketo haben oder nicht, kö
 
    ![](assets/find-out-what-permissions-you-have-1.png)
 
-1. Klicken **[!UICONTROL Vollständiger Zugriff]** um die Berechtigungen anzuzeigen, die Sie haben.
+1. Klicks **[!UICONTROL Vollständiger Zugriff]** um die Berechtigungen anzuzeigen, die Sie haben.
 
    ![](assets/find-out-what-permissions-you-have-2.png)
 

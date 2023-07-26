@@ -6,8 +6,8 @@ exl-id: 7b76e910-6c01-4fdb-8ab8-f6b1abe13136
 feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '288'
-ht-degree: 7%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -40,7 +40,7 @@ Marketo Engage verfügt über eine Vielzahl von großartigen Funktionen, mit den
 
 ## Muss ich das alles lernen? {#do-i-need-to-learn-all-of-that}
 
-Du nicht! Es ist einfach, in Marketo Engage zu beginnen und wird sich mit Ihnen entwickeln. Sie können alles lernen, wenn Sie möchten, oder einfach die Teile, die Ihren Bedürfnissen entsprechen.
+Du nicht! Es ist einfach, in Marketo Engage zu beginnen, und wird sich mit Ihnen entwickeln. Sie können alles lernen, wenn Sie möchten, oder einfach die Teile, die Ihren Bedürfnissen entsprechen.
 
 ## Muss ich irgendwelche Einstellungen vornehmen? {#do-i-need-to-do-any-setup}
 

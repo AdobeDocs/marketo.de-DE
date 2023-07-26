@@ -11,7 +11,7 @@ ht-degree: 1%
 
 ---
 
-# Schritt 3 von 3: Marketo und Dynamics verbinden (On-Premises 2013) {#step-of-connect-marketo-and-dynamics-on-premises}
+# 3. Schritt: Marketo und Dynamics verbinden (On-Premises 2013) {#step-of-connect-marketo-and-dynamics-on-premises}
 
 Gut! Wir haben die Lösung installiert und den Synchronisierungsbenutzer konfiguriert. Als Nächstes müssen wir Marketo und Dynamics verbinden.
 
@@ -38,7 +38,7 @@ Gut! Wir haben die Lösung installiert und den Synchronisierungsbenutzer konfigu
 
    ![](assets/image2014-12-11-11-3a54-3a10.png)
 
-1. Klicken **Bearbeiten** in **Schritt 1: Anmeldedaten eingeben**.
+1. Klicks **Bearbeiten** in **Schritt 1: Anmeldedaten eingeben**.
 
    ![](assets/image2014-12-11-11-3a54-3a19.png)
 
@@ -57,13 +57,13 @@ Gut! Wir haben die Lösung installiert und den Synchronisierungsbenutzer konfigu
 
 ## Felder für Synchronisierung auswählen {#select-fields-to-sync}
 
-Jetzt müssen wir die Felder auswählen, über die wir synchronisieren möchten.
+Jetzt müssen wir die Felder auswählen, über die wir die Synchronisation durchführen möchten.
 
-1. Klicken **Bearbeiten** in **Schritt 2: Zu synchronisierende Felder auswählen**.
+1. Klicks **Bearbeiten** in **Schritt 2: Zu synchronisierende Felder auswählen**.
 
    ![](assets/image2015-3-16-9-3a51-3a28.png)
 
-1. Wählen Sie die Felder aus, die Sie mit Marketo synchronisieren möchten, damit sie vorausgewählt werden. Klicken **Speichern**.
+1. Wählen Sie die Felder aus, die Sie mit Marketo synchronisieren möchten, damit sie vorausgewählt werden. Klicks **Speichern**.
 
    ![](assets/image2016-8-25-15-3a10-3a17.png)
 
@@ -79,17 +79,17 @@ Wenn Sie einen benutzerdefinierten Filter erstellt haben, gehen Sie in und wähl
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. Klicken **Bearbeiten** in den Details zur Feldsynchronisierung.
+1. Klicks **Bearbeiten** in den Details zur Feldsynchronisierung.
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
-1. Scrollen Sie nach unten zum Feld und überprüfen Sie es. Der tatsächliche Name muss &quot;new_synctomkto&quot;lauten, der Anzeigename kann jedoch beliebig sein. Klicken **Speichern**.
+1. Scrollen Sie nach unten zum Feld und überprüfen Sie es. Der tatsächliche Name muss &quot;new_synctomkto&quot;lauten, der Anzeigename kann jedoch beliebig sein. Klicks **Speichern**.
 
    ![](assets/image2016-8-25-15-3a11-3a4.png)
 
 ## Synchronisierung aktivieren {#enable-sync}
 
-1. Klicken **Bearbeiten** in **Schritt 3: Synchronisierung aktivieren**.
+1. Klicks **Bearbeiten** in **Schritt 3: Synchronisierung aktivieren**.
 
    ![](assets/image2015-3-16-9-3a52-3a2.png)
 
@@ -97,7 +97,7 @@ Wenn Sie einen benutzerdefinierten Filter erstellt haben, gehen Sie in und wähl
    >
    >Marketo deaktiviert die Duplizierung nicht automatisch für eine Microsoft Dynamics-Synchronisation oder wenn Sie Personen oder Leads manuell eingeben.
 
-1. Lesen Sie alles im Popup-Fenster, geben Sie Ihre E-Mail ein und klicken Sie auf **Synchronisierung starten**.
+1. Alles im Popup lesen, Ihre E-Mail eingeben und auf klicken **Synchronisierung starten**.
 
    ![](assets/image2015-3-30-14-3a23-3a13.png)
 

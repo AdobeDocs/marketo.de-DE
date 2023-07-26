@@ -1,6 +1,6 @@
 ---
 unique-page-id: 4718664
-description: Verstehen des Erfolgspfads des Umsatzmodells - Marketo Docs - Produktdokumentation
+description: Erfolgspfad für Umsatzmodelle - Marketo Docs - Produktdokumentation
 title: Erfolgspfad des Umsatzmodells verstehen
 exl-id: aeb85e5e-0377-40b5-a7c9-ee9c1322ee66
 feature: Reporting, Revenue Cycle Analytics
@@ -26,7 +26,7 @@ Beispielschritte für einen Erfolgspfad:
 | **Neue Namen überprüfen** | Überprüfen Sie, ob neue Namen qualifiziert sind. |
 | **Potenzieller Kunde** | Qualifizierte Interessenten, die noch nicht verkaufsbereit sind |
 | **Lead** | Marketing-qualifizierte Leads (&quot;sales ready&quot;) |
-| **Chance** | Vom Vertrieb akzeptierte Leads, aktiv arbeiten |
+| **Opportunity** | Vom Vertrieb akzeptierte Leads, aktiv arbeiten |
 | **Kunde** | Geschlossene Sonderangebote |
 
 >[!TIP]

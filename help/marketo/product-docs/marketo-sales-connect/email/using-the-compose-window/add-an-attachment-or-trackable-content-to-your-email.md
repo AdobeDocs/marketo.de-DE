@@ -33,7 +33,7 @@ Beim Versand einer E-Mail über Sales Connect haben Sie die Möglichkeit, eine D
 
    ![](assets/attach-three.png)
 
-1. Wählen Sie die Datei aus, die Sie anhängen möchten, und klicken Sie auf **Einfügen**.
+1. Wählen Sie die anzuhängende Datei aus und klicken Sie auf **Einfügen**.
 
    ![](assets/attach-four.png)
 
@@ -59,7 +59,7 @@ Der Anhang wird unten in Ihrer E-Mail angezeigt.
 
    ![](assets/three-4.png)
 
-1. Wählen Sie den Inhalt aus, den Sie hinzufügen möchten, und klicken Sie auf die **Inhalt wird verfolgt** und klicken Sie auf **Einfügen**.
+1. Wählen Sie den Inhalt aus, den Sie hinzufügen möchten, und klicken Sie auf die **Inhalt wird verfolgt** und klicken Sie **Einfügen**.
 
    ![](assets/four-4.png)
 

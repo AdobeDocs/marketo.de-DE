@@ -18,7 +18,7 @@ ht-degree: 0%
 >* [Erstellen einer Smart-Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 >* [Suchen und Hinzufügen von Filtern zu einer Smart-Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
 
-Nehmen wir an, Sie möchten alle in Kalifornien finden, aber Sie speichern vielleicht beide **Kalifornien** und **CA** in Ihrer Datenbank. Um alle relevanten Personen einzubeziehen, können Sie zwei **state** Filter, aber es ist einfacher mit einem.
+Nehmen wir an, Sie möchten alle in Kalifornien finden, aber Sie speichern vielleicht beide **Kalifornien** und **CA** in Ihrer Datenbank. Um alle relevanten Personen einzubeziehen, können Sie zwei **Bundesland** Filter, aber es ist einfacher mit einem.
 
 1. Navigieren Sie zu **Marketingaktivitäten**.
 
@@ -28,7 +28,7 @@ Nehmen wir an, Sie möchten alle in Kalifornien finden, aber Sie speichern viell
 
    ![](assets/smarlist-choosefilters.png)
 
-1. Klicken Sie auf **+** im Filter.
+1. Klicken Sie auf **+** auf den Filter.
 
    ![](assets/smartlist-plussignhand-.png)
 

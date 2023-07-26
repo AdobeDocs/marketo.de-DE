@@ -32,7 +32,7 @@ Die `{{system.date}}` -Token rendert das aktuelle Datum zur Laufzeit wie folgt: 
 
 ## system.time {#system-time}
 
-Die `{{system.time}}` -Token gibt die aktuelle Zeit zur Laufzeit wie folgt aus: **16:34 (GMT -0700)**
+Die `{{system.time}}` -Token rendert die aktuelle Zeit zur Laufzeit wie folgt: **16:34 (GMT -0700)**
 
 **Funktioniert in:**
 

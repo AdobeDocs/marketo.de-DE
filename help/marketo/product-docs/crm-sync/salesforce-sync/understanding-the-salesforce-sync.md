@@ -42,4 +42,4 @@ Die Synchronisierung zwischen Salesforce und Marketo erfolgt nur für Leads, Kon
 >
 >Die [Anmeldedaten, die Sie in Marketo für Salesforce eingeben](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) werden zum Synchronisieren von Daten verwendet. Es werden nur Daten einbezogen, auf die diese Anmeldeinformationen Zugriff haben.
 
-Die Synchronisation von Marketo mit Salesforce ist die leistungsfähigste dieser Art auf der Welt. Es fühlt sich wie Zauberei an. eine Änderung vorgenommen wird und das andere System in Kürze auf dem neuesten Stand ist.
+Die Synchronisation von Marketo mit Salesforce ist die leistungsfähigste dieser Art auf der Welt. Es fühlt sich wie Zauberei an, es wird eine Veränderung vorgenommen und das andere System ist bald auf dem neuesten Stand.

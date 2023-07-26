@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >Universal Analytics ist jetzt der Betriebsstandard und alle Eigenschaften in Google wurden auf Universal Analytics aktualisiert.
 >
->Dieser Artikel zeigt, wie Sie die alte Google Standard Analytics verwenden. Wir empfehlen jedoch, zu Universal Analytics zu wechseln.
+>Dieser Artikel zeigt, wie Sie die alte Google Standard Analytics verwenden. Es wird jedoch empfohlen, zu Universal Analytics zu wechseln.
 >
 >Wenn Sie die [Trackingcode für analytics.js](https://developers.google.com/analytics/devguides/collection/analyticsjs/)empfiehlt Google dringend, Ihre Site neu zu taggen, um sie zu verwenden. Google stellt Folgendes ein:
 >
@@ -80,7 +80,7 @@ Messen Sie Ihre RTP-Kampagnen und ordnen Sie sie Ihrem gesamten Site-Durchschnit
 
 ![](assets/image2014-11-28-17-3a0-3a17.png)
 
-1. Klicken **Speichern**.
+1. Klicks **Speichern**.
 
 >[!NOTE]
 >

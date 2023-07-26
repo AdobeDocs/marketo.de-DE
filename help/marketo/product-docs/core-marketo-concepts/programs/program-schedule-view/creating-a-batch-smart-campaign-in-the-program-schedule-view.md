@@ -23,7 +23,7 @@ Sie können neue Smart-Kampagnen erstellen und [Bestehende Elemente erneut ausf�
 
    ![](assets/image2014-9-23-15-3a28-3a20.png)
 
-1. Wählen Sie einen Namen für Ihren Eintrag aus, der zu Ihrer neuen Smart-Kampagne wird. Drücken Sie die **Eingabe/Rückgabe** zur Bestätigung des Namens.
+1. Wählen Sie einen Namen für Ihren Eintrag aus, der zu Ihrer neuen Smart-Kampagne wird. Drücken Sie die **Eingabe/Rückgabe** zum Bestätigen des Namens.
 
    ![](assets/image2014-9-23-15-3a28-3a28.png)
 
@@ -37,7 +37,7 @@ Sie können neue Smart-Kampagnen erstellen und [Bestehende Elemente erneut ausf�
 
    ![](assets/four.png)
 
-1. Wählen Sie Ihre [Smart-Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md) Regeln.
+1. Wählen Sie [Smart-Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md) Regeln.
 
    ![](assets/changeprogramstatus-hands.png)
 

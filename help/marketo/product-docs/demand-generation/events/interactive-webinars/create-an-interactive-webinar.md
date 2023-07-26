@@ -30,7 +30,7 @@ Erstellen Sie ein interaktives Webinar in wenigen einfachen Schritten.
 
    ![](assets/create-an-interactive-webinar-4.png)
 
-1. Auswählen **Interaktive Webinare** und klicken Sie auf **Nächste**.
+1. Auswählen **Interaktive Webinare** und klicken **Nächste**.
 
    ![](assets/create-an-interactive-webinar-5.png)
 
@@ -46,6 +46,6 @@ Erstellen Sie ein interaktives Webinar in wenigen einfachen Schritten.
 
    ![](assets/create-an-interactive-webinar-7.png)
 
-Ihr interaktives Webinar wird erstellt. Jetzt ist es an der Zeit, [Design](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md).
+Ihr interaktives Webinar wird erstellt. Jetzt ist es Zeit, [Design](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md).
 
 ![](assets/create-an-interactive-webinar-8.png)

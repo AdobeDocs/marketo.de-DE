@@ -27,11 +27,11 @@ Wann [Felder zu einem Formular hinzufügen](/help/marketo/product-docs/demand-ge
 
    ![](assets/image2014-9-15-17-3a30-3a44.png)
 
-1. Gut gemacht! Klicken **Beenden**.
+1. Schön gemacht! Klicks **Beenden**.
 
    ![](assets/image2014-9-15-17-3a30-3a58.png)
 
-1. Klicken **Genehmigen und schließen**.
+1. Klicks **Genehmigen und schließen**.
 
    ![](assets/image2014-9-15-17-3a31-3a11.png)
 

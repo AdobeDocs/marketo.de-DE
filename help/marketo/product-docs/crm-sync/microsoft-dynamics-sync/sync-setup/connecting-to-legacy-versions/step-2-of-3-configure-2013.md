@@ -43,11 +43,11 @@ Weisen Sie die Benutzerrolle &quot;Marketo Sync User&quot;nur dem Marketo-Synchr
 
    ![](assets/image2015-3-26-10-3a39-3a35.png)
 
-1. Wählen Sie den Synchronisierungsbenutzer aus. Klicken ![](assets/image2015-3-26-11-3a16-3a22.png) und wählen Sie **Rollen verwalten**
+1. Wählen Sie den Synchronisierungsbenutzer aus. Klicks ![](assets/image2015-3-26-11-3a16-3a22.png) und wählen **Rollen verwalten**
 
    ![](assets/image2015-3-26-11-3a18-3a6.png)
 
-1. Überprüfen **Marketo Sync User** und klicken Sie auf **OK**.
+1. Überprüfen **Marketo Sync User** und klicken **OK**.
 
    ![](assets/image2014-12-11-11-3a14-3a52.png)
 
@@ -71,7 +71,7 @@ Fast fertig! Wir haben nur einige letzte Konfigurationsschritte, bevor wir zum n
    >
    >Wenn **Marketo-Konfiguration** fehlt, versuchen Sie, die Seite zu aktualisieren. Wenn das Problem weiterhin besteht, [Marketo-Lösung veröffentlichen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2013.md) erneut oder versuchen Sie, sich ab- und wieder anzumelden.
 
-1. Klicken **Standard**.
+1. Klicks **Standard**.
 
    ![](assets/image2015-3-26-11-3a30-3a20.png)
 
@@ -79,22 +79,22 @@ Fast fertig! Wir haben nur einige letzte Konfigurationsschritte, bevor wir zum n
 
    ![](assets/image2015-3-26-11-3a29-3a13.png)
 
-1. Klicken ![](assets/image2015-3-13-15-3a10-3a11.png) in der rechten unteren Ecke, um die Änderungen zu speichern.
+1. Klicks ![](assets/image2015-3-13-15-3a10-3a11.png) in der rechten unteren Ecke, um die Änderungen zu speichern.
 
    ![](assets/image2014-12-11-11-3a15-3a32.png)
 
-1. Klicken **Alle Anpassungen veröffentlichen**.
+1. Klicks **Alle Anpassungen veröffentlichen**.
 
    ![](assets/publish-all-customizations1.png)
 
 ## Bevor Sie mit Schritt 3 fortfahren {#before-proceeding-to-step}
 
 * Wenn Sie die Anzahl der zu synchronisierenden Datensätze einschränken möchten, [Einrichten eines benutzerdefinierten Synchronisierungsfilters](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md) jetzt.
-* Führen Sie die [Überprüfen der Synchronisierung mit Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md) Prozess. Es wird überprüft, ob Ihre ersten Setups ordnungsgemäß durchgeführt wurden.
+* Führen Sie die [Überprüfen der Synchronisierung mit Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md) -Prozess. Es wird überprüft, ob Ihre ersten Setups ordnungsgemäß durchgeführt wurden.
 * Melden Sie sich im Microsoft Dynamics CRM beim Marketo Sync User an.
 
 Großartig gemacht!
 
 >[!MORELIKETHIS]
 >
->[Schritt 3 von 3: Marketo und Dynamics verbinden (On-Premises 2013)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2013.md)
+>[3. Schritt: Marketo und Dynamics verbinden (On-Premises 2013)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2013.md)

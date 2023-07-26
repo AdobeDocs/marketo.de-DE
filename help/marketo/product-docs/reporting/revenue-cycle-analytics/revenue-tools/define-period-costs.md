@@ -39,7 +39,7 @@ Verfolgen und verknüpfen Sie Lead-Pflege- und Lead-Akquisekosten für ein Progr
 
    ![](assets/image2015-4-24-16-3a11-3a30.png)
 
-1. Geben Sie einen **Periodenkosten** als Ganzzahl ohne Dezimalstellen oder Kommas (Höchstgrenze: 99999999)
+1. Geben Sie einen **Periodenkosten** als Ganzzahl ohne Dezimalstellen oder Kommas (max. Begrenzung: 99999999)
 
    ![](assets/image2015-4-24-16-3a10-3a24.png)
 
@@ -67,6 +67,6 @@ Verfolgen und verknüpfen Sie Lead-Pflege- und Lead-Akquisekosten für ein Progr
 
    ![](assets/image2015-4-24-16-3a33-3a32.png)
 
-1. Klicken **Löschen** die Periodenkosten dauerhaft zu löschen oder **Abbrechen** zurück.
+1. Klicks **Löschen** die Periodenkosten dauerhaft zu löschen oder **Abbrechen** zurück.
 
    ![](assets/image2015-4-24-16-3a34-3a38.png)

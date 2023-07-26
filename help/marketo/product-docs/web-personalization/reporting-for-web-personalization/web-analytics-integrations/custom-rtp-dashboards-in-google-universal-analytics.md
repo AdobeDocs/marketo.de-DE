@@ -24,13 +24,13 @@ In diesem Beitrag wird erläutert, wie RTP-Dashboards in Google Universal Analyt
 
 ## Einrichten eines benutzerdefinierten Dashboards {#setting-up-a-custom-dashboard}
 
-1. Melden Sie sich bei Google Analytics an. Klicken Sie auf **Berichterstellung** im oberen Menü. Klicken **Dashboards** und **+Neues benutzerdefiniertes Dashboard**.
+1. Melden Sie sich bei Google Analytics an. Klicken Sie auf **Berichterstellung** im oberen Menü. Klicks **Dashboards** und **+Neues benutzerdefiniertes Dashboard**.
 
    ![](assets/image2015-3-22-16-3a41-3a29.png)
 
-1. Auswählen **Leere Arbeitsfläche**, fügen Sie eine **Dashboard-Name** und klicken Sie auf **Dashboard erstellen**.
+1. Auswählen **Leere Arbeitsfläche**, fügen Sie eine **Dashboard-Name** und klicken **Dashboard erstellen**.
 
-1. Klicken **Widget hinzufügen** , um ein neues Widget zu erstellen.
+1. Klicks **Widget hinzufügen** , um ein neues Widget zu erstellen.
 
    ![](assets/image2015-3-22-16-3a46-3a48.png)
 
@@ -42,7 +42,7 @@ Sie enthält Informationen wie Besuchsquelle und Verhalten vor Ort nach Branche,
 
 Das Dashboard besteht aus drei Spalten
 
-* Traffic source
+* Traffic-Quelle
 * Segmentierung
 * Firmographie-Drilldown
 
@@ -73,22 +73,22 @@ Das Dashboard besteht aus drei Spalten
      <li>Widget-Typ: Balken<br></li> 
      <li>Erstellen Sie ein Balkendiagramm, das Folgendes anzeigt: Sitzung</li> 
      <li>Gruppiert nach: Ereignisbezeichnung</li> 
-     <li>Pivot nach: Standardkanalgruppierung</li> 
+     <li>Pivot nach: Standard-Kanalgruppierung</li> 
      <li>Filter: <br>Nur anzeigen | Ereigniskategorie (enthält) RTP-Segmente</li> 
     </ul><p><img width="300" src="assets/image2015-3-23-11-3a32-3a13.png" data-linked-resource-id="7504247" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> 
     <ul> 
      <li>Name: Anzahl segmentierter RTP-Benutzer</li> 
-     <li>Typ: 2.1 Metrik</li> 
-     <li>Zeigt die folgende Metrik an: Benutzer<br></li> 
+     <li>Typ: 2,1 Metrik</li> 
+     <li>Anzeigen der folgenden Metrik: Benutzer<br></li> 
      <li>Filter: <br>Nur anzeigen | Ereigniskategorie (enthält) RTP-Segmente</li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a33-3a6.png" data-linked-resource-id="7504249" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> 
     <ul> 
-     <li>Name: Sitzungen der Industrie</li> 
-     <li>Typ: Torte<br></li> 
-     <li>Erstellen Sie ein Tortendiagramm mit folgenden Elementen: Sitzungen</li> 
-     <li>Gruppiert nach: RTP-Branche</li> 
+     <li>Name: Sitzungen nach Branche</li> 
+     <li>Typ: Kreis<br></li> 
+     <li>Erstellen Sie ein Tortendiagramm mit folgenden Daten: Sitzungen</li> 
+     <li>Gruppiert nach: RTP-Industrie</li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a33-3a27.png" data-linked-resource-id="7504250" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
   </tr> 
   <tr> 
@@ -97,22 +97,22 @@ Das Dashboard besteht aus drei Spalten
      <li><strong>Name: Sitzungen nach Branche und Kanälen</strong></li> 
      <li><strong>Widget-Typ: Balken</strong></li> 
      <li><strong>Erstellen Sie ein Balkendiagramm, das Folgendes anzeigt: Sitzung</strong></li> 
-     <li><strong>Gruppiert nach: RTP-Branche</strong></li> 
-     <li><strong>Pivot nach: Standardkanalgruppierung</strong><br><img width="300" src="assets/image2015-3-23-11-3a33-3a52.png" data-linked-resource-id="7504252" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></li> 
+     <li><strong>Gruppiert nach: RTP-Industrie</strong></li> 
+     <li><strong>Pivot nach: Standard-Kanalgruppierung</strong><br><img width="300" src="assets/image2015-3-23-11-3a33-3a52.png" data-linked-resource-id="7504252" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></li> 
     </ul></th> 
    <th> 
     <ul> 
      <li><strong>Name: Segmentierte Sitzungen nach Land</strong></li> 
      <li><strong>Typ: Geomap</strong></li> 
-     <li><strong>Ausgewählte Metrik zeichnen: Land | Sitzungen</strong></li> 
+     <li><strong>Metrik "Plot ausgewählt": Land | Sitzungen</strong></li> 
      <li><strong>Wählen Sie eine Region aus: Die Welt</strong></li> 
      <li><strong>Filter: Nur anzeigen | Ereigniskategorie (enthält) RTP-Segmente</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a34-3a18.png" data-linked-resource-id="7504253" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></th> 
    <th> 
     <ul> 
      <li><strong>Name: Sitzungen nach RTP-Kategorie</strong></li> 
-     <li><strong>Typ: Torte</strong></li> 
-     <li><strong>Erstellen Sie ein Tortendiagramm mit folgenden Elementen: Sitzungen</strong></li> 
+     <li><strong>Typ: Kreis</strong></li> 
+     <li><strong>Erstellen Sie ein Tortendiagramm mit folgenden Daten: Sitzungen</strong></li> 
      <li><strong>Gruppiert nach: RTP-Kategorie</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a35-3a1.png" data-linked-resource-id="7504254" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></th> 
   </tr> 
@@ -130,7 +130,7 @@ Das Dashboard besteht aus drei Spalten
     <ul> 
      <li>Name: Sitzungen von RTP-Gruppen</li> 
      <li>Typ: Balken<br></li> 
-     <li>Erstellen Sie ein Balkendiagramm, das Folgendes anzeigt: Sitzungen</li> 
+     <li>Ein Balkendiagramm mit folgenden Elementen erstellen: Sitzungen</li> 
      <li>Gruppiert nach: RTP-Gruppe</li> 
     </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a35-3a54.png" data-linked-resource-id="7504256" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></th> 
   </tr> 
@@ -139,7 +139,7 @@ Das Dashboard besteht aus drei Spalten
    <th> 
     <ul> 
      <li>Name: Sitzungen und Ziele nach wichtigsten Segmenten</li> 
-     <li>Typ: Verzeichnis<br></li> 
+     <li>Typ: Tabelle<br></li> 
      <li>Zeigen Sie die folgenden Spalten an: <br>Ereignisbezeichnung | Sitzungen | Zielkonversionsrate</li> 
      <li>Filter: <br>Nur anzeigen | Ereigniskategorie (enthält) RTP-Segmente</li> 
     </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a36-3a15.png" data-linked-resource-id="7504257" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></th> 
@@ -150,7 +150,7 @@ Das Dashboard besteht aus drei Spalten
 
 ## RTP-Interaktions-Dashboard {#rtp-engagement-dashboard}
 
-Dieses Dashboard ermöglicht Benutzern die Analyse der RTP-Kampagnenleistung und der Interaktionen mit der Empfehlungsmaschine. Es bietet einen Vergleich von durchschnittlichem Wert. Sitzungsdauer und Seiten pro Sitzung zwischen:
+Dieses Dashboard ermöglicht Benutzern die Analyse der RTP-Kampagnenleistung und der Interaktionen mit der Empfehlungsmaschine. Es bietet einen Vergleich von avg. Sitzungsdauer und Seiten pro Sitzung zwischen:
 
 * Nicht aktiviert
 * Interagiert (Impressionen und Klicks auf eine personalisierte Kampagne)
@@ -188,7 +188,7 @@ Erstellen Sie ein neues Dashboard mit dem Namen **RTP-Interaktions-Dashboard** u
      <li>Name: <strong>CTA insgesamt (Clickthrough)</strong></li> 
      <li>Typ: <strong>2.1 Metrik </strong></li> 
      <li>Zeigt die folgende Metrik an: <strong>Gesamtereignisse</strong></li> 
-     <li>Filter:<br><strong>[nur zeigen] Ereigniskategorie (enthält): RTP-Kampagnen</strong><br><strong>[nur zeigen] Ereignisaktion (exakt Übereinstimmung): Klicks</strong><strong>[Nicht anzeigen] Ereignisbezeichnung (enthält): #</strong></li> 
+     <li>Filter:<br><strong>[nur zeigen] Ereigniskategorie (enthält): RTP-Kampagnen</strong><br><strong>[nur anzeigen] Ereignisaktion (exakt Übereinstimmung): Klicks</strong><strong>[Nicht anzeigen] Ereignisbezeichnung (enthält): #</strong></li> 
     </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a38-3a12.png" data-linked-resource-id="7504261" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
    <td> 
     <ul> 
@@ -204,7 +204,7 @@ Erstellen Sie ein neues Dashboard mit dem Namen **RTP-Interaktions-Dashboard** u
      <li>Name: <strong>Durchschn. Sitzungsdauer (Interaktion)</strong></li> 
      <li>Typ: <strong>2.1 Metrik </strong></li> 
      <li>Zeigt die folgende Metrik an: <strong>Durchschn. Sitzungsdauer</strong></li> 
-     <li>Filter:<br><strong>[nur zeigen] Ereigniskategorie (exakt Übereinstimmung): RTP-Kampagnen</strong><br><strong>[nur zeigen] Ereignisaktion (exakt Übereinstimmung): Impression</strong><strong>[Nicht anzeigen] Ereignisbezeichnung (enthält): #</strong></li> 
+     <li>Filter:<br><strong>[nur zeigen] Ereigniskategorie (exakt Übereinstimmung): RTP-Kampagnen</strong><br><strong>[nur zeigen] Ereignisaktion (exakt Übereinstimmung): impression</strong><strong>[Nicht anzeigen] Ereignisbezeichnung (enthält): #</strong></li> 
     </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a41-3a21.png" data-linked-resource-id="7504264" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
    <td colspan="1"> 
     <ul> 
@@ -228,7 +228,7 @@ Erstellen Sie ein neues Dashboard mit dem Namen **RTP-Interaktions-Dashboard** u
      <li>Typ: <strong>2.1 Metrik </strong></li> 
      <li>Zeigt die folgende Metrik an: <strong>Seiten/Sitzung</strong></li> 
      <li>Filter:<br><strong>[nur zeigen] Ereigniskategorie (exakt Übereinstimmung): RTP-Kampagnen</strong></li> 
-     <li><strong>[nur zeigen] Ereignisaktion (exakt Übereinstimmung): Impression</strong></li> 
+     <li><strong>[nur zeigen] Ereignisaktion (exakt Übereinstimmung): impression</strong></li> 
      <li><strong>[Nicht anzeigen] Ereignisbezeichnung (enthält): #</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a42-3a10.png" data-linked-resource-id="7504267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> 
@@ -248,7 +248,7 @@ Erstellen Sie ein neues Dashboard mit dem Namen **RTP-Interaktions-Dashboard** u
      <li>Name: <strong>Impressionen nach CTA</strong></li> 
      <li>Typ: <strong>Verzeichnis</strong></li> 
      <li>Zeigen Sie die folgenden Spalten an: <strong>Ereignisbezeichnung | Gesamtereignisse | Benutzer</strong></li> 
-     <li>Filter:<br><strong>[nur zeigen] Ereigniskategorie (exakt Übereinstimmung): RTP-Kampagnen</strong><br><strong>[nur zeigen] Ereignisaktion (exakt Übereinstimmung): Impression</strong><strong>[Nicht anzeigen] Ereignisbezeichnung (enthält): #</strong></li> 
+     <li>Filter:<br><strong>[nur zeigen] Ereigniskategorie (exakt Übereinstimmung): RTP-Kampagnen</strong><br><strong>[nur zeigen] Ereignisaktion (exakt Übereinstimmung): impression</strong><strong>[Nicht anzeigen] Ereignisbezeichnung (enthält): #</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a42-3a48.png" data-linked-resource-id="7504269" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> 
     <ul> 

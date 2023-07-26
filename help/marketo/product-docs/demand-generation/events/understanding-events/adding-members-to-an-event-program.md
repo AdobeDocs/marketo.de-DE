@@ -35,7 +35,7 @@ Dieser Artikel gilt nur für Benutzer, die Event Cap oder Event Goals verwenden.
 
    ![](assets/five.png)
 
-1. Suchen und wählen Sie Ihr Ereignisprogramm aus.
+1. Suchen und wählen Sie Ihr Veranstaltungsprogramm aus.
 
    ![](assets/six.png)
 
@@ -47,8 +47,8 @@ Dieser Artikel gilt nur für Benutzer, die Event Cap oder Event Goals verwenden.
 
    ![](assets/eight.png)
 
-1. Auswählen **Jetzt ausführen** und klicken Sie auf **Ausführen**.
+1. Auswählen **Jetzt ausführen** und klicken **Ausführen**.
 
    ![](assets/nine.png)
 
-1. Nachdem die intelligente Kampagne ausgeführt wurde, werden die Mitglieder zum Programm hinzugefügt und in den Berechnungen Zielverfolgung und Ereignis-Cap-Progression gezählt.
+1. Nachdem die intelligente Kampagne ausgeführt wurde, werden die Mitglieder zum Programm hinzugefügt und in den Berechnungen Zielverfolgung und Ereignis-Begrenzung berücksichtigt.

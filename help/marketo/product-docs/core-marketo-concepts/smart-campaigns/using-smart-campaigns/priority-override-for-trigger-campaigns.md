@@ -26,7 +26,7 @@ AdministratorInnen können die von Marketo festgelegte Priorität für Trigger-K
 
 >[!NOTE]
 >
->Nur Administratoren oder Benutzer mit Administratorrechten sollten die Kampagnenpriorität haben, den Zugriff außer Kraft zu setzen.
+>Nur Administratoren oder Benutzer mit Administratorrechten sollten über die Kampagnenpriorität verfügen, um den Zugriff zu überschreiben.
 
 1. Im [!UICONTROL Admin] Bereich, klicken Sie **[!UICONTROL Benutzer und Rollen]**.
 
@@ -36,7 +36,7 @@ AdministratorInnen können die von Marketo festgelegte Priorität für Trigger-K
 
    ![](assets/priority-override-for-trigger-campaigns-2.png)
 
-1. under [!UICONTROL Auf Marketing-Aktivitäten zugreifen]auswählen **[!UICONTROL Trigger-Kampagnenpriorität bearbeiten]**. Klicken **[!UICONTROL Speichern]**.
+1. under [!UICONTROL Auf Marketing-Aktivitäten zugreifen]auswählen **[!UICONTROL Trigger-Kampagnenpriorität bearbeiten]**. Klicks **[!UICONTROL Speichern]**.
 
    ![](assets/priority-override-for-trigger-campaigns-3.png)
 
@@ -57,5 +57,5 @@ AdministratorInnen können die von Marketo festgelegte Priorität für Trigger-K
 >[!NOTE]
 >
 >* Die Standardpriorität Ihrer Kampagne können Sie im [!UICONTROL Kampagnenwarteschlange] under [!UICONTROL Marketingaktivitäten]. Um die Ausführungsrate zu steigern, empfehlen wir, die Kampagnenpriorität auf eine Ebene zu setzen, die über der Standardeinstellung liegt.
->* Die von Benutzern festgelegte Priorität gilt nur für neue Personen, die sich für die Kampagne qualifizieren. Personen, die sich bereits in der Warteschlange befinden, sind nicht betroffen.
+>* Die Priorität des Benutzersatzes gilt nur für neue Personen, die sich für die Kampagne qualifizieren. Personen, die sich bereits in der Warteschlange befinden, sind davon nicht betroffen.
 >* Prioritätsüberschreibungen werden in [Audit-Protokoll](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md).

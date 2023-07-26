@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Beim Erstellen von Smart-Listen verfügen einige Filter über erweiterte Optionen, die als &quot;Begrenzungen&quot;bezeichnet werden. Dies sind zusätzliche Bedingungen, die Sie zu Filtern und Triggern hinzufügen können, um Ihre Suche noch weiter einzugrenzen.
 
-In diesem Beispiel fügen wir einer **[Datenwert geändert](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)** nach Personen suchen, die einen Status-Wechsel von MQL zu SQL hatten.
+Fügen wir in diesem Beispiel Einschränkungen zu einem **[Datenwert geändert](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)** nach Personen suchen, die einen Status-Wechsel von MQL zu SQL hatten.
 
 >[!PREREQUISITES]
 >
@@ -47,4 +47,4 @@ In diesem Beispiel fügen wir einer **[Datenwert geändert](/help/marketo/produc
 
    ![](assets/six.png)
 
-1. Gut gemacht! Klicken Sie auf **Personen** Registerkarte, um alle Personen anzuzeigen, die über eine **Status** ändern von **MQL** nach **SQL** in den letzten 30 Tagen.
+1. Schön gemacht! Klicken Sie auf **Personen** Registerkarte, um alle Personen anzuzeigen, die eine **Status** ändern von **MQL** nach **SQL** in den letzten 30 Tagen.

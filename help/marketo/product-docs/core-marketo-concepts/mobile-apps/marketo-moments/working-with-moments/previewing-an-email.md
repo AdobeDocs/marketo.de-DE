@@ -29,6 +29,6 @@ Klicken Sie mit der rechten Maustaste auf eine E-Mail-Karte, um sie in der Vorsc
 
    >[!NOTE]
    >
-   >Um ein Muster direkt über die Seite &quot;E-Mail-Vorschau&quot;zu senden, tippen Sie oben rechts auf das Papierfliegersymbol.
+   >Um ein Muster direkt von der Seite &quot;E-Mail-Vorschau&quot;aus zu senden, tippen Sie oben rechts auf das Papierfliegersymbol.
 
    Ausgezeichnet!

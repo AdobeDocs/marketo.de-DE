@@ -37,7 +37,7 @@ Verwenden Sie die **Ist Personenkonto** in Ihrer intelligenten Liste zu filtern,
 
 ## Wo werden die Informationen zu meinen Personenkonten in Marketo Sales Insight angezeigt? {#where-is-my-person-accounts-information-displayed-in-marketo-sales-insight}
 
-Aktivitäten im Zusammenhang mit Personenkonten werden im **Konto** Bereich.
+Aktivitäten im Zusammenhang mit Personenkonten werden im **Konto** Bedienfeld.
 
 >[!NOTE]
 >

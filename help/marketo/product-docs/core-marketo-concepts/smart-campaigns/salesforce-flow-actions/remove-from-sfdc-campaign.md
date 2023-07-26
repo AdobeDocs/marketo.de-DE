@@ -25,7 +25,7 @@ Wie du kannst [Zu SFDC Campaign hinzufügen](/help/marketo/product-docs/core-mar
 
 ## Nutzung {#usage}
 
-1. Nachdem Sie den Fluss-Schritt per Drag-and-Drop ausgewählt haben, suchen Sie die Salesforce-Kampagne, aus der Sie die Person oder den Lead entfernen möchten.
+1. Nachdem Sie den Schritt &quot;Fluss&quot;per Drag-and-Drop eingefügt haben, suchen und wählen Sie die Salesforce-Kampagne aus, aus der Sie die Person oder den Lead entfernen möchten.
 
    ![](assets/image2014-9-22-15-3a54-3a39.png)
 

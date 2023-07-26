@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Sie können Elemente zu Listen hinzufügen, wenn Sie Suchbegriffe, Seiten, Seitenprobleme oder eingehende Links hinzufügen. Mit Listen können Sie organisiert bleiben und Berichte so filtern, dass nur Daten aus dieser Liste angezeigt werden. Hier ist, wie man sie macht.
 
-1. Klicken **[!UICONTROL Suchbegriffe hinzufügen]**.
+1. Klicks **[!UICONTROL Suchbegriffe hinzufügen]**.
 
    >[!NOTE]
    >
-   >Dies funktioniert genauso beim Hinzufügen von Seiten, Seitenproblemen und eingehenden Links.
+   >Dies funktioniert auf die gleiche Weise beim Hinzufügen von Seiten, Seitenproblemen und eingehenden Links.
 
    ![](assets/image2014-9-18-13-3a24-3a35.png)
 
@@ -31,6 +31,6 @@ Sie können Elemente zu Listen hinzufügen, wenn Sie Suchbegriffe, Seiten, Seite
    >
    >Sie können eine neue Liste in der Dropdown-Liste erstellen. Geben Sie einen Titel ein und drücken Sie die Eingabetaste.
 
-1. Klicken **[!UICONTROL Speichern]**.
+1. Klicks **[!UICONTROL Speichern]**.
 
    ![](assets/image2014-9-18-13-3a25-3a36.png)

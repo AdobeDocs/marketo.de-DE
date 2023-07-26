@@ -17,7 +17,7 @@ Eine intelligente Liste zeigt einen Standardsatz von Spalten an. Wusstest du, da
 
 ## Erstellen einer Ansicht {#create-a-view}
 
-1. Navigieren Sie zu einer Liste oder Smart-Liste, klicken Sie auf die **Personen** und klicken Sie auf **Erstellen** **Ansicht** unter **Ansicht** Dropdown-Liste.
+1. Navigieren Sie zu einer Liste oder Smart-Liste, klicken Sie auf die Schaltfläche **Personen** und klicken Sie auf **Erstellen** **Ansicht** unter **Ansicht** angezeigt.
 
    ![](assets/smartlist-createview.png)
 
@@ -45,7 +45,7 @@ Eine intelligente Liste zeigt einen Standardsatz von Spalten an. Wusstest du, da
 
 ## Bearbeiten einer Ansicht {#edit-a-view}
 
-1. Stellen Sie sicher, dass die Ansicht, die Sie bearbeiten möchten, im **Ansicht** Dropdown-Liste.
+1. Stellen Sie sicher, dass die gewünschte Ansicht im **Ansicht** angezeigt.
 
    ![](assets/smartlist-customviewchoose.png)
 
@@ -59,11 +59,11 @@ Eine intelligente Liste zeigt einen Standardsatz von Spalten an. Wusstest du, da
 
 ## Ansicht löschen {#delete-a-view}
 
-1. Wählen Sie die **Bearbeiten** -Option für die Ansicht, die Sie aus der **Ansicht** Dropdown-Liste.
+1. Wählen Sie die **Bearbeiten** -Option für die Ansicht, die Sie aus der **Ansicht** angezeigt.
 
    ![](assets/smartlist-editcustomview.png)
 
-1. Klicken **Löschen**.
+1. Klicks **Löschen**.
 
    ![](assets/image2014-9-12-11-3a27-3a39.png)
 

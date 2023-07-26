@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352472
-description: Salesforce-Feldzugriff bearbeiten - Marketo-Dokumente - Produktdokumentation
+description: Barrierefreiheit von Salesforce-Feldern bearbeiten - Marketo-Dokumente - Produktdokumentation
 title: Barrierefreiheit von Salesforce-Feldern bearbeiten
 exl-id: e4ef29c8-f6ab-4dca-b56e-907c7d2e5263
 feature: Marketo Sales Connect
@@ -19,4 +19,4 @@ Wenn Sie kein Protokoll zu E-Mail-Aktivitäten bei Salesforce sehen, kann dies a
 
 * Arbeiten Sie mit Ihrem Salesforce-Administrator zusammen, um sicherzustellen, dass diese Sicherheitseinstellungen nicht in Sales Connect eingreifen.
 
-* Als Salesforce-Administrator können Sie Ihre Barrierefreiheit für Felder auf der Registerkarte Sicherheitskontrollen anzeigen. Die Hauptfelder, mit denen Sales Connect interagiert, sind: Konto, Kontakte, Chancen, Lead und Aufgabe.
+* Als Salesforce-Administrator können Sie Ihre Barrierefreiheit für Felder auf der Registerkarte Sicherheitskontrollen anzeigen. Die Hauptfelder, mit denen Sales Connect interagiert, sind: Konto, Kontakte, Chancen, Interessenten und Aufgaben.

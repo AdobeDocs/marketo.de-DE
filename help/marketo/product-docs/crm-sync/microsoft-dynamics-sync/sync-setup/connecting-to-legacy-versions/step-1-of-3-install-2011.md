@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# Schritt 1 von 3: Installieren Sie die Marketo-Lösung (On-Premises 2011) {#step-of-install-the-marketo-solution-on-premises}
+# Schritt 1 von 3: Installieren der Marketo-Lösung (On-Premises 2011) {#step-of-install-the-marketo-solution-on-premises}
 
 Bevor Sie Microsoft Dynamics On-Premises und Marketo synchronisieren können, müssen Sie zunächst die Marketo-Lösung in Dynamics installieren.
 
@@ -21,7 +21,7 @@ Bevor Sie Microsoft Dynamics On-Premises und Marketo synchronisieren können, m�
 
 >[!PREREQUISITES]
 >
->Sie müssen [Bereitstellung im Internet](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD) mit [Active Directory Federation-Dienste](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0, 2.1 oder 3.0 (ADFS) konfiguriert. **Hinweis**: Das IFD-Dokument wird automatisch heruntergeladen, wenn Sie auf den Link klicken.
+>Sie müssen [Bereitstellung im Internet](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD) mit [Active Directory Federation-Dienste](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0, 2.1 oder 3.0 (ADFS) konfiguriert. **Hinweis**: Das IFD-Dokument wird beim Klicken auf den Link automatisch heruntergeladen.
 >
 >[Marketo-Lead-Management-Lösung herunterladen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) bevor Sie beginnen.
 
@@ -39,15 +39,15 @@ Bevor Sie Microsoft Dynamics On-Premises und Marketo synchronisieren können, m�
 
    ![](assets/image2015-4-2-11-3a35-3a28.png)
 
-1. Klicken **Import**.
+1. Klicks **Import**.
 
    ![](assets/image2015-4-2-11-3a37-3a33.png)
 
-1. Klicken **Durchsuchen**. Wählen Sie die Marketo Lead Management-Lösung aus, die Sie verwenden [heruntergeladen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Klicken **Nächste**.
+1. Klicks **Durchsuchen**. Wählen Sie die Marketo Lead Management-Lösung aus, die Sie verwenden [heruntergeladen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Klicks **Nächste**.
 
    ![](assets/image2015-4-2-11-3a40-3a33.png)
 
-1. Zeigen Sie die Lösungsinformationen an und klicken Sie auf **Lösungspaketdetails anzeigen**.
+1. Anzeigen der Lösungsinformationen und klicken Sie auf **Lösungspaketdetails anzeigen**.
 
    ![](assets/image2015-11-18-11-3a12-3a8.png)
 
@@ -59,7 +59,7 @@ Bevor Sie Microsoft Dynamics On-Premises und Marketo synchronisieren können, m�
 
    ![](assets/image2015-4-2-11-3a41-3a48.png)
 
-1. Stellen Sie sicher, dass das Kontrollkästchen SDK-Nachrichtenoption aktiviert ist. Klicken **Nächste**.
+1. Stellen Sie sicher, dass das Kontrollkästchen SDK-Nachrichtenoption aktiviert ist. Klicks **Nächste**.
 
    ![](assets/image2015-4-2-11-3a42-3a37.png)
 
@@ -95,4 +95,4 @@ War nicht zu schlecht? Komm schon, ich werde dich durch den Rest führen.
 
 >[!MORELIKETHIS]
 >
->[Schritt 2 von 3: Marketo Sync User in Dynamics einrichten (On-Premises 2011)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md)
+>[Schritt 2 von 3: Einrichten des Marketo Sync User in Dynamics (On-Premises 2011)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md)

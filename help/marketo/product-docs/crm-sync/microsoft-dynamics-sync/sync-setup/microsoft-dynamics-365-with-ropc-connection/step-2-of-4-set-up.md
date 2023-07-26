@@ -16,7 +16,7 @@ Beginnen wir mit der Erstellung eines Benutzerkontos.
 
 >[!PREREQUISITES]
 >
->[Schritt 1 von 4: Installieren Sie die Marketo-Lösung mit Resource Owner Password Control Connection.](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md)
+>[Schritt 1 von 4: Installieren der Marketo-Lösung mit Resource Owner Password Control Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md)
 
 ## Neuen Benutzer erstellen {#create-a-new-user}
 
@@ -24,27 +24,27 @@ Beginnen wir mit der Erstellung eines Benutzerkontos.
 
    ![](assets/one.png)
 
-1. Klicken **Einstellungen** und wählen Sie **Sicherheit**.
+1. Klicks **Einstellungen** und wählen **Sicherheit**.
 
    ![](assets/two.png)
 
-1. Klicken **Benutzer**.
+1. Klicks **Benutzer**.
 
    ![](assets/three.png)
 
-1. Klicken **Neu.**
+1. Klicks **Neu.**
 
    ![](assets/four.png)
 
-1. Klicken **Hinzufügen und Lizenzieren von Benutzern** in das neue Fenster ein.
+1. Klicks **Hinzufügen und Lizenzieren von Benutzern** im neuen Fenster.
 
    ![](assets/five.png)
 
-1. Eine neue Registerkarte wird geöffnet. Klicken **Admin** oben auf der Seite.
+1. Eine neue Registerkarte wird geöffnet. Klicks **Admin** oben auf der Seite.
 
    ![](assets/six.png)
 
-1. Eine weitere neue Registerkarte wird geöffnet. Klicken **Benutzer hinzufügen**.
+1. Eine weitere neue Registerkarte wird geöffnet. Klicks **Benutzer hinzufügen**.
 
    ![](assets/seven.png)
 
@@ -60,7 +60,7 @@ Beginnen wir mit der Erstellung eines Benutzerkontos.
    >
    >Dieser Name muss ein dedizierter Synchronisierungsbenutzer und nicht das Konto eines vorhandenen CRM-Benutzers sein. Es muss sich nicht um eine tatsächliche E-Mail-Adresse handeln.
 
-1. Geben Sie die E-Mail ein, um die neuen Benutzeranmeldeinformationen zu erhalten, und klicken Sie auf **E-Mail senden und schließen**.
+1. Geben Sie die E-Mail zum Empfang der neuen Benutzeranmeldeinformationen ein und klicken Sie auf **E-Mail senden und schließen**.
 
    ![](assets/nine.png)
 
@@ -84,11 +84,11 @@ Weisen Sie die Benutzerrolle &quot;Marketo Sync User&quot;nur dem Marketo-Synchr
 
    ![](assets/eleven.png)
 
-1. Klicken **Rollen verwalten**.
+1. Klicks **Rollen verwalten**.
 
    ![](assets/twelve.png)
 
-1. Überprüfen **Marketo Sync User** und klicken Sie auf **OK**.
+1. Überprüfen **Marketo Sync User** und klicken **OK**.
 
    ![](assets/thirteen.png)
 
@@ -106,9 +106,9 @@ Fast da! Wir haben nur noch die Möglichkeit, Marketo Solution über den neu ers
 
    >[!NOTE]
    >
-   >Wenn Sie **Marketo-Konfiguration** Aktualisieren Sie die Seite im Menü Einstellungen . Wenn das nicht funktioniert, versuchen Sie, [Marketo-Lösung veröffentlichen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md) erneut oder melden Sie sich ab und wieder an.
+   >Wenn Sie nicht sehen **Marketo-Konfiguration** Aktualisieren Sie die Seite im Menü Einstellungen . Wenn das nicht funktioniert, versuchen Sie, [Marketo-Lösung veröffentlichen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md) erneut oder melden Sie sich ab und wieder an.
 
-1. Klicken **Standard**.
+1. Klicks **Standard**.
 
    ![](assets/fifteen.png)
 
@@ -134,4 +134,4 @@ Fast da! Wir haben nur noch die Möglichkeit, Marketo Solution über den neu ers
 
 >[!MORELIKETHIS]
 >
->[Schritt 3 von 4: Verbinden der Marketo-Lösung mit der Kennwortsteuerungsverbindung des Ressourceneigentümers](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-4-set-up.md)
+>[Schritt 3 von 4: Verbinden der Marketo-Lösung mit der Resource Owner Password Control Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-4-set-up.md)

@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Sie können Ihre E-Mail-Voreinstellungen anpassen, um festzulegen, wann Sie über Ihre SEO-Bemühungen aktualisiert werden.
 
-1. Klicken Sie in der oberen Navigationsleiste auf Ihren Benutzernamen. Klicken **[!UICONTROL E-Mail-Voreinstellungen]**.
+1. Klicken Sie in der oberen Navigationsleiste auf Ihren Benutzernamen. Klicks **[!UICONTROL E-Mail-Einstellungen]**.
 
    ![](assets/image2014-9-17-21-3a23-3a28.png)
 

@@ -19,7 +19,7 @@ Der Erfolg ist ein Maß für die sinnvolle Interaktion in Marketo. Ziel eines Pr
 
 >[!NOTE]
 >
->In einem Webinar-Programm können mehrere Status vorhanden sein, z. B.: Eingeladen, registriert und angemeldet. Eingeladene oder registrierte Interaktionen sind nicht aussagekräftig, da die Leute sich das Webinar nicht ansehen. Die Teilnahme wird in diesem Fall als Erfolg betrachtet.
+>In einem Webinar-Programm können mehrere Status vorhanden sein, z. B.: Eingeladen, Registriert und Eingestiegen. Eingeladene oder registrierte Interaktionen sind nicht aussagekräftig, da die Leute sich das Webinar nicht ansehen. Die Teilnahme wird in diesem Fall als Erfolg betrachtet.
 
 ## Funktioniert MPI mit jedem CRM-System? {#will-mpi-work-with-any-crm}
 
@@ -78,7 +78,7 @@ Möglicherweise fehlen Ihnen auch Chancen aufgrund der fehlenden Programmkosten 
 
 ## Warum werden im Interaktions-Dashboard keine benutzerdefinierten Felder, Opportunity Type und ABM-Filter angezeigt? {#why-do-i-not-see-custom-fields-opportunity-type-and-abm-filters-on-the-engagement-dashboard}
 
-Benutzerdefinierte Felder, Opportunity-Typ und ABM-Filter sind alle Attribute, die sich auf eine Chance beziehen. Mit dem Interaktions-Dashboard können Sie Ihre Interaktion messen und Akquise leiten, unabhängig davon, ob sie mit einer Gelegenheit verbunden sind oder nicht. Da das Interaktions-Dashboard die Möglichkeiten nicht berücksichtigt, gelten benutzerdefinierte Felder, Opportunity Type und ABM Filters nicht.
+Benutzerdefinierte Felder, Opportunity-Typ und ABM-Filter sind alle Attribute, die sich auf eine Chance beziehen. Mit dem Interaktions-Dashboard können Sie Ihre Interaktion messen und Akquise leiten, unabhängig davon, ob sie einer Gelegenheit zugeordnet sind oder nicht. Da das Interaktions-Dashboard die Möglichkeiten nicht berücksichtigt, gelten benutzerdefinierte Felder, Opportunity Type und ABM Filters nicht.
 
 ## Ich möchte ein benutzerdefiniertes Feld für Salesforce-Chancen für Umsatzberichte anstelle des standardmäßigen Felds Salesforce Opportunity Amount verwenden. Ermöglicht mir MPI das? {#i-want-to-use-a-custom-salesforce-opportunity-field-for-revenue-reporting-instead-of-the-standard-salesforce-opportunity-amount-field-will-mpi-allow-me-to-do-that}
 
@@ -86,7 +86,7 @@ Ja. [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support) kann d
 
 >[!NOTE]
 >
->Nach der Neukodifizierung zeigt MPI die Daten für die Zukunft an. Der historische Betrag wird nicht geändert.
+>Nach der Neukodifizierung zeigt MPI die Daten an. Der historische Betrag wird nicht geändert.
 
 ## Wenn ich keine Möglichkeiten verwende, kann ich MPI trotzdem verwenden? {#if-i-don-t-use-opportunities-can-i-still-use-mpi}
 
@@ -100,7 +100,7 @@ Mit MPI können Sie die Programmleistung von oben im Trichter bis hin zu den Aus
 
 ## Kann ich den Erfolg von kontobasierten Strategien in MPI messen? {#can-i-measure-the-success-of-account-based-strategies-in-mpi}
 
-Ja. MPI-Integration mit [Marketo TAM](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview) um ABM-Kontolisten nahtlos in MPI abzurufen. Sie können den Filter ABM-Kontoliste verwenden, um die gewünschte ABM-Liste auszuwählen, nach der die Daten gefiltert werden sollen.
+Ja. MPI-Integration mit [MARKETO TAM](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview) um ABM-Kontolisten nahtlos in MPI abzurufen. Sie können den Filter ABM-Kontoliste verwenden, um die gewünschte ABM-Liste auszuwählen, nach der die Daten gefiltert werden sollen.
 
 ## Ist die Attribution sofort verfügbar, wenn ich MPI kaufe? {#is-attribution-instantly-available-when-i-purchase-mpi}
 
@@ -133,7 +133,7 @@ Mit dem Programm-Analyzer können Sie Ihre Programme mit bis zu vier Kennzahlen 
 
 ## Was ist der Unterschied zwischen MPI und dem Advanced Report Builder? {#whats-the-difference-between-mpi-and-the-advanced-report-builder}
 
-Der erweiterte Report Builder (manchmal auch als RCE bezeichnet) ist für Self-Service-Berichte (oder Ad-hoc-Berichte) konzipiert, die normalerweise von Marketing Operations durchgeführt werden. MPI ist so konzipiert, dass Marketing-Experten und Marketing-Experten mit einem Klick auf die Leistungsanalyse zugreifen können. Es ist eine minimale Einrichtung erforderlich.
+Der erweiterte Report Builder (manchmal auch als RCE bezeichnet) ist für Self-Service-Berichte (oder Ad-hoc-Berichte) konzipiert, die normalerweise von Marketing-Vorgängen durchgeführt werden. MPI wurde entwickelt, um Marketing-Experten und Marketing-Experten einen einmaligen Zugriff auf die Leistungsanalyse zu ermöglichen. Es ist eine minimale Einrichtung erforderlich.
 
 ## Was ist mit der Option &quot;Vorheriges Jahr&quot;im Datumsfilter des Beitrags passiert? {#what-happened-to-the-previous-year-option-in-contributions-date-filter}
 

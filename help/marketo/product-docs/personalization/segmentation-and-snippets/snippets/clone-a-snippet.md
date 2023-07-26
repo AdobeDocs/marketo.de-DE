@@ -23,7 +23,7 @@ Klonen Sie ein Snippet, um eine Kopie davon zu erstellen, die Sie Ihren Anforder
 
    ![](assets/image2014-9-16-10-3a32-3a44.png)
 
-1. Geben Sie Details zu Snippets ein und klicken Sie auf **Klonen**.
+1. Geben Sie Details zum Ausschnitt ein und klicken Sie auf **Klonen**.
 
    ![](assets/image2014-9-16-10-3a32-3a53.png)
 

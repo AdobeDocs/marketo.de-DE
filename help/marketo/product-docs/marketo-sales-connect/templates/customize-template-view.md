@@ -13,6 +13,6 @@ ht-degree: 0%
 
 # Anpassen der Vorlagenansicht {#customize-template-view}
 
-Aus dem **Ansicht** in der Dropdown-Liste können Sie Folgendes anzeigen: alle Vorlagen, Ihre Vorlagen, freigegebenen Vorlagen oder nicht verwendeten Vorlagen (Vorlagen, die in den letzten 90 Tagen nicht verwendet wurden).
+Aus dem **Ansicht** in der Dropdown-Liste können Sie auswählen, ob alle Vorlagen, Ihre Vorlagen, freigegebenen Vorlagen oder nicht verwendeten Vorlagen (Vorlagen, die in den letzten 90 Tagen nicht verwendet wurden) angezeigt werden sollen.
 
 Darüber hinaus können Sie Spalten in Ihrer Vorlagenansicht hinzufügen/entfernen, indem Sie auf das Einstellungssymbol rechts neben **Ansicht.**

@@ -17,7 +17,7 @@ Die empfohlenen Vorlagen von Sales Connect helfen Ihnen dabei, die richtigen Nac
 
 1. Gehen Sie in den Tab Vorlagen .
 
-1. Wählen Sie die Vorlage aus, die Sie empfehlen möchten, und klicken Sie auf **Bearbeiten**.
+1. Wählen Sie die zu empfehlende Vorlage aus und klicken Sie auf **Bearbeiten**.
 
 1. So aktivieren Sie die Funktion &quot;Empfohlene Vorlage&quot;für Ihre Vorlage **Diese Vorlage automatisch vorschlagen, wenn**.
 
@@ -33,9 +33,9 @@ Ihre Kriterien werden die Bedingungen festlegen, für die Vorlagen empfohlen wer
 
 Wählen Sie nun Ihre Bedingung aus. Wenn Ihre Bedingungen für Ihr dynamisches Feld erfüllt sind, wird die Vorlage empfohlen. Wählen Sie aus 4 verschiedenen Bedingungen.
 
-**Gleich**: Der Wert muss eine exakte Übereinstimmung sein (z. B. Marketo ist Marketo).
+**Gleich**: Wert muss eine exakte Übereinstimmung sein (z. B. Marketo ist Marketo).
 
-**Does not Equal**: Der Wert muss alles andere als eine exakte Übereinstimmung sein (z. B. Marketing Nation ist nicht gleich Marketing)
+**Does not Equal**: Wert muss alles andere als eine exakte Übereinstimmung sein (z. B. Marketing Nation ist nicht gleich Marketing)
 
 **Enthält**: Nur muss den Wert enthalten (z. B. Marketo Rocks! enthält Marketo)
 

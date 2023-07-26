@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Segment beschriften {#label-your-segment}
 
-Haben Sie so viele Segmente, dass das Scrollen umständlich wird? Verwenden Sie Bezeichnungen, um Ihre Segmente mit Tags zu versehen, damit Sie sie schnell finden können.
+Haben Sie so viele Segmente, dass das Scrollen umständlich wird? Verwenden Sie Bezeichnungen, um Ihre Segmente zu taggen, damit Sie sie schnell finden können.
 
 ## Taggen eines Segments {#tag-a-segment}
 
@@ -29,7 +29,7 @@ Haben Sie so viele Segmente, dass das Scrollen umständlich wird? Verwenden Sie 
 
    ![](assets/image2015-10-14-15-3a34-3a42.png)
 
-1. Oder klicken Sie auf , um eine neue Bezeichnung zu erstellen. **Beschriftung festlegen**, geben Sie den neuen Titel ein und klicken Sie auf **Neu erstellen**.
+1. Klicken Sie alternativ auf **Beschriftung festlegen**, geben Sie den neuen Titel ein und klicken Sie auf **Neu erstellen**.
 
    ![](assets/image2015-10-14-15-3a38-3a30.png)
 

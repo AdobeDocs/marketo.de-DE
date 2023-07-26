@@ -34,7 +34,7 @@ Zu den Funktionen gehören:
 
 * Hochladen von Offline-Konversionsdaten in Paid Media-Systeme, Optimierung von Lead-Akquise und Förderung
 
-   * So sucht beispielsweise eine Person, sieht eine Anzeige, klickt darauf und füllt dann ein Formular online aus. Danach erhält er eine Demo offline und wird zu einer CRM-Chance. Hier wendet sich der Werber an ihn
+   * So sucht beispielsweise eine Person, sieht eine Anzeige, klickt darauf und füllt dann ein Formular online aus. Danach erhält er eine Offline-Demo und wird zu einer CRM-Chance. Hier wendet sich der Werber an ihn
 
 * Retargeting von Website-Besuchern mithilfe von [Web-Personalisierung](/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md), um sie zurück zu Ihrer Website zu führen
 

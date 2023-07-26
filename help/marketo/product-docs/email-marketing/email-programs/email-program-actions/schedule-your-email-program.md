@@ -30,7 +30,7 @@ Wenn Sie Ihr E-Mail-Programm erstellt, die Audience definiert und die E-Mail aus
 
    ![](assets/selectemailprogram-1.jpg)
 
-1. Unter dem **Zeitplan** Kachel, legen Sie das Datum fest.
+1. Unter dem **Zeitplan** -Kachel, legen Sie das Datum fest.
 
    ![](assets/image2017-12-5-14-3a4-3a28.png)
 
@@ -42,7 +42,7 @@ Wenn Sie Ihr E-Mail-Programm erstellt, die Audience definiert und die E-Mail aus
 
    ![](assets/image2017-12-5-14-3a3-3a12.png)
 
-   Wie einfach war das? Das Einzige, was übrig bleibt, ist [E-Mail-Programm genehmigen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md) und du kannst gut gehen.
+   Wie einfach war das? Es bleibt nur [E-Mail-Programm genehmigen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md) und du kannst gut gehen.
 
 >[!MORELIKETHIS]
 >

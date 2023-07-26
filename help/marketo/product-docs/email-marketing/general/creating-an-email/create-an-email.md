@@ -31,7 +31,7 @@ Es gibt zwei Möglichkeiten, eine E-Mail in Marketo zu erstellen. Sehen wir uns 
 
 Einfach! Für den anderen Weg...
 
-## E-Mail in Marketingaktivitäten erstellen {#create-an-email-in-marketing-activities}
+## Erstellen einer E-Mail in Marketingaktivitäten {#create-an-email-in-marketing-activities}
 
 1. Navigieren Sie zu **Marketingaktivitäten**.
 
@@ -41,13 +41,13 @@ Einfach! Für den anderen Weg...
 
    ![](assets/create-an-email-4.png)
 
-1. Klicken **Email**.
+1. Klicks **Email**.
 
    ![](assets/create-an-email-5.png)
 
    Und das ist es!
 
-Die gewählte Methode bringt Sie zur Vorlagenauswahl.
+Welche Methode Sie auswählen, führt Sie zur Vorlagenauswahl.
 
 1. Geben Sie Ihrer E-Mail einen Namen, klicken Sie auf die gewünschte Vorlage und klicken Sie auf **Erstellen**.
 

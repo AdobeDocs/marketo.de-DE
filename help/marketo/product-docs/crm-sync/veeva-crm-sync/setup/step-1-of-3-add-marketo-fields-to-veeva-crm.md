@@ -10,7 +10,7 @@ ht-degree: 7%
 
 ---
 
-# Schritt 1 von 3: Hinzufügen von Marketo-Feldern zum VEC-CRM {#step-1-of-3-add-marketo-fields-to-veeva-crm}
+# Schritt 1 von 3: Hinzufügen von Marketo-Feldern zum VEC CRM {#step-1-of-3-add-marketo-fields-to-veeva-crm}
 
 >[!PREREQUISITES]
 >
@@ -18,7 +18,7 @@ ht-degree: 7%
 
 Marketo Engage verwendet eine Reihe von Feldern, um bestimmte Arten von Marketing-bezogenen Informationen zu erfassen. Wenn Sie diese Daten im Vevar CRM wünschen, folgen Sie bitte den unten stehenden Anweisungen.
 
-`1.` Erstellen Sie ein benutzerdefiniertes Feld in VEE CRM für die Kontaktobjekte: Ergebnis
+`1.` Erstellen Sie ein benutzerdefiniertes Feld im VEE-CRM für die Kontaktobjekte: Punktzahl
 
 `2.` Sie können bei Bedarf weitere Felder erstellen (siehe Tabelle unten).
 
@@ -46,7 +46,7 @@ Führen Sie die folgenden Schritte aus, um das Feld Punktzahl hinzuzufügen.
 
 1. Wählen Sie Felder und Beziehungen aus.
 
-1. Klicken **Neu**.
+1. Klicks **Neu**.
 
    ![](assets/step-1-of-3-add-marketo-fields-4.png)
 
@@ -54,7 +54,7 @@ Führen Sie die folgenden Schritte aus, um das Feld Punktzahl hinzuzufügen.
 
    ![](assets/step-1-of-3-add-marketo-fields-5.png)
 
-1. Klicken **Nächste**.
+1. Klicks **Nächste**.
 
    ![](assets/step-1-of-3-add-marketo-fields-6.png)
 
@@ -88,7 +88,7 @@ Dezimalstellen 0</td>
 >
 >Text- und Zahlenfelder erfordern eine Länge, Datums-/Uhrzeitfelder jedoch nicht. Eine Beschreibung ist optional.
 
-1. Klicken **Nächste**.
+1. Klicks **Nächste**.
 
    ![](assets/step-1-of-3-add-marketo-fields-8.png)
 
@@ -105,9 +105,9 @@ Dezimalstellen 0</td>
 
 1. Wählen Sie die Seitenlayouts aus, die das Feld anzeigen sollen.
 
-1. Klicken **Speichern und Neu** , um die beiden anderen benutzerdefinierten Felder zu erstellen.
+1. Klicks **Speichern und Neu** , um die beiden anderen benutzerdefinierten Felder zu erstellen.
 
-1. Klicken **Speichern** wenn Sie mit allen drei fertig sind.
+1. Klicks **Speichern** wenn Sie mit allen drei fertig sind.
 
    ![](assets/step-1-of-3-add-marketo-fields-10.png)
 
@@ -115,7 +115,7 @@ Dezimalstellen 0</td>
 >
 >Durch Hinzufügen des Felds zum Kontaktobjekt werden sie auch zum Objekt &quot;Personenkonto&quot;hinzugefügt.
 
-OPTIONAL: Verwenden Sie das obige Verfahren für alle zusätzlichen benutzerdefinierten Felder aus der unten stehenden Tabelle.
+OPTIONAL: Verwenden Sie das obige Verfahren für alle zusätzlichen benutzerdefinierten Felder aus der folgenden Tabelle.
 
 <table>
  <tbody>

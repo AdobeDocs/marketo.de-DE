@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # SEO - Entfernen/Löschen einer URL für eingehende Links {#seo-remove-delete-an-inbound-link-url}
 
-Manchmal wollen Sie eingehende Links entfernen. So geht es:
+Manchmal wollen Sie eingehende Links entfernen. So geht&#39;s:
 
 1. Navigieren Sie zu **[!UICONTROL Eingehende Links]** Abschnitt.
 
@@ -23,7 +23,7 @@ Manchmal wollen Sie eingehende Links entfernen. So geht es:
 
    ![](assets/image2014-9-18-13-3a49-3a34.png)
 
-1. Klicken **[!UICONTROL Entfernen]**.
+1. Klicks **[!UICONTROL Entfernen]**.
 
    ![](assets/image2014-9-18-13-3a49-3a44.png)
 

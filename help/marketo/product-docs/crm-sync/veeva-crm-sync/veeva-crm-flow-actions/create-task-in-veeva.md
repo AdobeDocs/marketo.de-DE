@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Aufgabe erstellen in Veeva {#create-task-in-veeva}
 
-Als Marketing-Experte verfügen Sie über Informationen, die dem Vertrieb beim Abschluss von Angeboten helfen können. Sie können Aufgaben erstellen, um ihnen mitzuteilen, was sie tun und wann sie es tun sollten.
+Als Marketing-Experte verfügen Sie über Informationen, die dem Vertrieb beim Abschluss von Geschäften helfen können. Sie können Aufgaben erstellen, um ihnen mitzuteilen, was sie tun und wann sie es tun sollten.
 
 ![](assets/create-task-in-veeva-1.png)
 

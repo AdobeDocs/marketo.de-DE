@@ -1,7 +1,7 @@
 ---
 unique-page-id: 10093159
 description: Informationen zu Content Analytics - Marketo Docs - Produktdokumentation
-title: Grundlegendes zu Content Analytics
+title: Grundlagen zu Content Analytics
 exl-id: 9266fdfe-2a12-43b0-84ad-d12eb8589ed4
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,7 +11,7 @@ ht-degree: 2%
 
 ---
 
-# Grundlegendes zu Content Analytics {#understanding-content-analytics}
+# Grundlagen zu Content Analytics {#understanding-content-analytics}
 
 Auf der Seite &quot;Content Analytics&quot;werden die von Ihnen entdeckten vorhandenen Inhalte (Fallstudien, Blog-Beiträge, Videos, Pressemitteilungen usw.) aus Ihrer Website angezeigt. Es zeigt auch die Leistung Ihres Inhalts und der generierten Personen an, wenn Besucher mit ihnen interagieren.
 
@@ -45,7 +45,7 @@ Die Analytics-Tabelle enthält die folgenden Details:
  <tbody> 
   <tr> 
    <td colspan="1" rowspan="1"><strong>Titel</strong></td> 
-   <td colspan="1" rowspan="1">Name des digitalen Inhalts-Assets. Klicken <strong>Titel</strong> um die Inhalts-URL in einer neuen Registerkarte zu öffnen.</td> 
+   <td colspan="1" rowspan="1">Name des digitalen Inhalts-Assets Klicks <strong>Titel</strong> um die Inhalts-URL in einer neuen Registerkarte zu öffnen.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><p><strong>Empfehlung </strong><strong>Symbol</strong></p><p><strong><img alt="—" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></strong></p></td> 

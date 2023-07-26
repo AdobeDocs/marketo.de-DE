@@ -19,7 +19,7 @@ ht-degree: 0%
 
 1. Fügen Sie dort den Quellcode ein.
 
-1. Klicken **Speichern**.
+1. Klicks **Speichern**.
 
 >[!NOTE]
 >

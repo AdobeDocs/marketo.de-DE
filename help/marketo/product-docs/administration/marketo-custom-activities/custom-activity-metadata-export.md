@@ -18,7 +18,7 @@ Gehen Sie wie folgt vor, um Ihr benutzerdefiniertes Aktivitäts-Metadatenschema 
 
    ![](assets/custom-activity-metadata-export-1.png)
 
-1. Klicken **[!UICONTROL Benutzerdefinierte Marketo-Aktivitäten]**.
+1. Klicks **[!UICONTROL Benutzerdefinierte Marketo-Aktivitäten]**.
 
    ![](assets/custom-activity-metadata-export-2.png)
 

@@ -28,14 +28,14 @@ Standardmäßig verwendet Marketo Sales Insight die **Lead-Punktzahl** Feld zur 
 >**Definition**
 >
 >* **Sterne**: Sterne stellen den Gesamt-Lead-Wert im Vergleich zu anderen Leads dar.
->* **Flammen**: Flammen stellen die Dringlichkeit dar - wie sehr sich das Ergebnis eines Leads in letzter Zeit geändert hat.
+>* **Flammen**: Flammen stellen die Dringlichkeit dar - wie stark sich das Ergebnis eines Leads in letzter Zeit geändert hat.
 >
 
 1. under **Admin** klicken **Sales Insight**.
 
    ![](assets/image2014-9-16-13-3a27-3a19.png)
 
-1. under **Lead-Scoring-Einstellungen** klicken Sie auf **Bearbeiten**.
+1. under **Lead-Scoring-Einstellungen**, klicken Sie auf **Bearbeiten**.
 
    ![](assets/image2014-9-16-13-3a27-3a33.png)
 
@@ -47,7 +47,7 @@ Standardmäßig verwendet Marketo Sales Insight die **Lead-Punktzahl** Feld zur 
 
    ![](assets/image2014-9-16-13-3a28-3a1.png)
 
-1. Klicken **Speichern**.
+1. Klicks **Speichern**.
 
    ![](assets/image2014-9-16-13-3a28-3a18.png)
 

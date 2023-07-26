@@ -21,7 +21,7 @@ Wenn Sie beim Versuch, Sales Insight-Aktionen mit Salesforce zu verbinden, die F
 1. Auswählen **Benutzer verwalten**.
 1. Auswählen **Profile**.
 1. Suchen Sie das Profil, unter dem sich die ToutApp-Benutzer befinden, und klicken Sie auf **Bearbeiten**.
-1. Scrollen Sie nach unten zu **Administratorberechtigungen** und stellen Sie sicher, dass **API aktiviert** aktiviert ist.
+1. Nach unten scrollen zu **Administratorberechtigungen** und stellen Sie sicher, **API aktiviert** aktiviert ist.
 
 ## Überprüfen Sie, ob Salesforce Sales Insight-Aktionen von der Verbindung blockiert {#check-if-salesforce-is-blocking-sales-insight-actions-from-connecting}
 

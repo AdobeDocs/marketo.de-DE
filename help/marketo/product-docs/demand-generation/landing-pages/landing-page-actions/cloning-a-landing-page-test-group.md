@@ -19,7 +19,7 @@ In Design Studio können Sie eine Testgruppe für Landingpages suchen und dupliz
 
    ![](assets/image2015-4-27-15-3a11-3a24.png)
 
-1. Geben Sie dieser geklonten Seite eine neue **Name**. Klonte Seiten werden unten im aktuellen Ordner angezeigt.
+1. Geben Sie dieser geklonten Seite eine neue **Name**. Die geklonten Seiten werden unten im aktuellen Ordner angezeigt.
 
    ![](assets/image2015-4-27-16-3a10-3a10.png)
 
@@ -31,7 +31,7 @@ In Design Studio können Sie eine Testgruppe für Landingpages suchen und dupliz
 
    ![](assets/image2015-4-27-15-3a58-3a13.png)
 
-1. Wählen Sie am unteren Rand des Dialogfelds die geklonten Seiten im **Verfügbare Landingpages** und klicken Sie auf den Pfeil, der nach rechts zeigt, um ihn in die **Getestete Einstiegsseiten**. Führen Sie diese Schritte für alle Landingpages aus, die Sie in dieser Gruppe verwenden möchten.
+1. Wählen Sie unten im Dialogfeld die geklonten Seiten im **Verfügbare Landingpages** und klicken Sie auf den Pfeil nach rechts, um ihn in die Liste aufzunehmen. **Getestete Einstiegsseiten**. Führen Sie diese Schritte für alle Landingpages aus, die Sie in dieser Gruppe verwenden möchten.
 
    ![](assets/image2015-4-27-16-3a3-3a22.png)
 

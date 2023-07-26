@@ -1,5 +1,5 @@
 ---
-description: Synchronisieren von Anrufen und Aufrufen von Schlüsselnachrichten - Marketo-Dokumente - Produktdokumentation
+description: Synchronisieren von Anrufen und Aufrufen von Schlüsselmeldungen - Marketo-Dokumente - Produktdokumentation
 title: Synchronisieren von Aufrufen und Aufrufen von Schlüsselmeldungen
 exl-id: a8df5b77-e594-4e06-8194-1758a3582cda
 feature: Veeva CRM
@@ -74,7 +74,7 @@ Die folgenden Felder in den Meldungen &quot;Aufruf&quot;und &quot;Schlüssel auf
     <tr>
       <td>Anruf</td>
       <td>Aufruftyp</td>
-      <td>Art des Aufrufs, der basierend auf Typ und Inhalt des Aufrufs systemverwaltet wird. Dieses Feld wird für Berichterstellungszwecke verwendet. Gültige Werte sind: Nur Detail, Detail mit Beispiel, Gruppendetails, Gruppendetails mit Beispiel, nur Beispiel. Diese Werte sollten nicht geändert werden, aber die Übersetzungen für diese Picklists können geändert werden. Teilnehmer haben denselben Aufruftyp wie der Header-Aufruf. Bei einem Gruppenaufruf mit 3 Profis weisen alle vier Datensätze den Aufruftyp "Gruppendetails"auf</td>
+      <td>Art des Aufrufs, der basierend auf Typ und Inhalt des Aufrufs systemverwaltet wird. Dieses Feld wird für Berichterstellungszwecke verwendet. Gültige Werte sind: Nur Details, Details mit Beispiel, Gruppendetails, Gruppendetails mit Beispiel, Nur Beispiel. Diese Werte sollten nicht geändert werden, aber die Übersetzungen für diese Picklists können geändert werden. Teilnehmer haben denselben Aufruftyp wie der Header-Aufruf. Bei einem Gruppenaufruf mit 3 Profis weisen alle vier Datensätze den Aufruftyp "Gruppendetails"auf</td>
       <td>Call_Type_vod_c</td>
       <td>Auswahlliste</td>
     </tr>
@@ -123,7 +123,7 @@ Die folgenden Felder in den Meldungen &quot;Aufruf&quot;und &quot;Schlüssel auf
     <tr>
       <td>Schlüsselmeldung aufrufen</td>
       <td>Kategorie</td>
-      <td>Zeichnet die Nachrichtenkategorie der Nachricht auf. Wird hauptsächlich für Berichte verwendet.</td>
+      <td>Zeichnet die Nachrichtenkategorie der Nachricht auf. Wird hauptsächlich für die Berichterstellung verwendet.</td>
       <td>Category_vod_c</td>
       <td>Auswahlliste</td>
     </tr>

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7504047
-description: Erstellen eines Berichts "Umsatz-Explorer"- Marketo-Dokumente - Produktdokumentation
+description: Erstellen eines Berichts über den Umsatz-Explorer - Marketo-Dokumente - Produktdokumentation
 title: Erstellen eines Berichts "Umsatz-Explorer"
 exl-id: dc7b705d-00cc-4b9f-aae1-83a5127036f4
 feature: Reporting, Revenue Cycle Analytics

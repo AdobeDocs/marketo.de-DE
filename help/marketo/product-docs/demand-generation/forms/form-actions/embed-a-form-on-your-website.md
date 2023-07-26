@@ -19,7 +19,7 @@ Mit Marketo können Sie unsere Formulare auf Ihrer eigenen Website einbetten. So
 
    ![](assets/login-marketing-activities-4.png)
 
-1. Suchen und wählen Sie das Formular aus.
+1. Wählen Sie das Formular aus.
 
    ![](assets/image2014-9-15-12-3a12-3a14.png)
 
@@ -49,4 +49,4 @@ Geben Sie nun einfach den Einbettungscode an Ihren Web-Entwickler weiter und las
 >
 >Wenn Ihr Entwickler das Erscheinungsbild anpassen oder auf erweiterte API-Funktionen zugreifen möchte, zeigen Sie ihnen die [Forms 2.0-Entwicklerseite](https://developers.marketo.com/documentation/websites/forms-2-0/).
 
-Großartig gemacht! Möchten Sie die [Einbettungscode zum Einschließen von Lightbox-Code](/help/marketo/product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md)? Das ist auch einfach!
+Großartig gemacht! Willst du, dass [Einbettungscode zum Einschließen von Lightbox-Code](/help/marketo/product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md)? Das ist auch einfach!

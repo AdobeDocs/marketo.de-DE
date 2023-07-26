@@ -29,13 +29,13 @@ ht-degree: 2%
 
    * E-Mail-Adresse ändern
    * Persönliche Daten hinzufügen (Vor- und Nachname, Mobiltelefonnummer und Zeitzone)
-   * Wählen Sie die Anzahl der Zeilen aus, die beim Exportieren von Tabellen in die Plattform exportiert werden sollen. Siehe -Feld: &quot;Maximale Anzahl der Zeilen im Excel-Export (begrenzt auf 10.000)&quot;
+   * Wählen Sie die Anzahl der Zeilen aus, die beim Exportieren von Tabellen in die Plattform exportiert werden sollen. Siehe Feld: &quot;Maximale Anzahl von Zeilen im Excel-Export (auf 10.000 begrenzt)&quot;
    * Wählen Sie Ihre Mobile-Benachrichtigungen für eine neue Person oder Überwachungsliste im Zusammenhang mit der Mobile App aus.
    * Passen Sie die Einstellungen für die persönliche Region an, indem Sie auf **Regionen bearbeiten**.
    * Passwort ändern
    * Wählen Sie Ihre Einstellungen für E-Mail-Berichtsbenachrichtigungen für E-Mail-Berichte zu Organisationen, Personen, Kampagnen und Asset-Leistung aus.
 
-   Klicken **Speichern** , nachdem Sie Änderungen vorgenommen haben.
+   Klicks **Speichern** , nachdem Sie Änderungen vorgenommen haben.
 
    >[!NOTE]
    >

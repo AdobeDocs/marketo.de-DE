@@ -21,7 +21,7 @@ Normalerweise würden Sie [Stream-Übergangsregeln](/help/marketo/product-docs/e
 
 ## Nutzung {#usage}
 
-1. Wählen Sie das Interaktionsprogramm aus, in das Sie die Person verschieben möchten.
+1. Wählen Sie das Interaktionsprogramm aus, in das die Person verschoben werden soll.
 
    >[!NOTE]
    >

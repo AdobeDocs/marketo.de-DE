@@ -17,7 +17,7 @@ Die Asset-Arbeitsfläche ist eine visuelle Darstellung Ihres Programms. Sie kön
 
 ## Hinzufügen von Assets {#adding-assets}
 
-Aus dem **Marketingaktivitäten** Bereich, klicken Sie auf **Assets** Registerkarte. Wählen Sie eines der folgenden Assets aus und fügen Sie es Ihrem Programm hinzu.
+Aus dem **Marketingaktivitäten** Bereich, klicken Sie auf die **Assets** Registerkarte. Wählen Sie eines der folgenden Assets aus und fügen Sie es Ihrem Programm hinzu.
 
 ![](assets/programassets.png)
 

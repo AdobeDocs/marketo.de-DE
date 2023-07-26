@@ -47,7 +47,7 @@ Legen Sie eine Zeitverzögerung (in Gesamtsekunden) fest, damit Webkampagnen auf
  <tbody> 
   <tr> 
    <td><strong>Unter Übergang</strong></td> 
-   <td>Zeigt die Kampagne an, wenn der Besucher unter die Kante scrollt. Kampagne verschwindet, wenn der Besucher wieder über die Kante scrollt.</td> 
+   <td>Zeigt die Kampagne an, wenn Besucher unter die Kante scrollen. Die Kampagne verschwindet, wenn der Besucher wieder über die Kante scrollt.</td> 
   </tr> 
   <tr> 
    <td><strong>Prozent</strong></td> 

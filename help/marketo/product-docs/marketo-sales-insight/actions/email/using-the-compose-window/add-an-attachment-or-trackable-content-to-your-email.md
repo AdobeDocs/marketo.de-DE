@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Hinzufügen eines Anhangs oder verfolgbaren Inhalts zu Ihrer E-Mail {#add-an-attachment-or-trackable-content-to-your-email}
 
-Beim Versand einer E-Mail über Marketo Sales haben Sie die Möglichkeit, eine Datei als Anhang hinzuzufügen oder eine Datei als herunterladbaren (und nachverfolgten) Link zu erstellen.
+Beim Versand einer E-Mail über Marketo Sales haben Sie die Möglichkeit, eine Datei als Anhang hinzuzufügen oder eine Datei als herunterladbaren (und nachverfolgten) Link zu formatieren.
 
 >[!NOTE]
 >
@@ -32,7 +32,7 @@ Beim Versand einer E-Mail über Marketo Sales haben Sie die Möglichkeit, eine D
 
    ![](assets/add-an-attachment-or-trackable-content-3.png)
 
-1. Wählen Sie die Datei aus, die Sie anhängen möchten, und klicken Sie auf **Einfügen**.
+1. Wählen Sie die anzuhängende Datei aus und klicken Sie auf **Einfügen**.
 
    ![](assets/add-an-attachment-or-trackable-content-4.png)
 
@@ -58,7 +58,7 @@ Beim Versand einer E-Mail über Marketo Sales haben Sie die Möglichkeit, eine D
 
    ![](assets/add-an-attachment-or-trackable-content-8.png)
 
-1. Wählen Sie den Inhalt aus, den Sie hinzufügen möchten, und klicken Sie auf die **Inhalt wird verfolgt** und klicken Sie auf **Einfügen**.
+1. Wählen Sie den Inhalt aus, den Sie hinzufügen möchten, und klicken Sie auf die **Inhalt wird verfolgt** und klicken Sie **Einfügen**.
 
    ![](assets/add-an-attachment-or-trackable-content-9.png)
 

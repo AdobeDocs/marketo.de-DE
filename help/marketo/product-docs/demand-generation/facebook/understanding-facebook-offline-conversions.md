@@ -27,10 +27,10 @@ Facebook Lead Ads-Kampagnen generieren Leads und senden sie zur Verwendung in Ma
 >
 >Basierend auf diesen Zahlen erscheint allein Anzeige 3 als die effektivste.
 >
->Bei der Betrachtung von Daten auf Marketo-Seite entwickelt sich jedoch eine andere Geschichte.
+>Bei der Betrachtung von Daten auf der Marketo-Seite entwickelt sich jedoch eine andere Geschichte.
 >
 >* Anzeige 1 generiert 10 Verkäufe
->* Anzeige 3 generiert 2 Verkäufe
+>* Ad 3 generiert 2 Verkäufe
 >
 >Das bedeutet, dass Anzeige 1, obwohl sie weniger Leads generiert hat, eine Erfolgsrate von 50 Prozent aufwies, während Anzeige 3 überhaupt nicht wirksam war.
 >

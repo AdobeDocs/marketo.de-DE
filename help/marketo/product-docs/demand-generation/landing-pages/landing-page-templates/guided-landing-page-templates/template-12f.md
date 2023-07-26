@@ -22,7 +22,7 @@ Diese Vorlage enthält den folgenden Inhalt:
 * Kopfzeile (optional)
 * Ein primärer Abschnitt
 
-   * enthält Herd-Bild und Link &quot;Mehr erfahren&quot;
+   * enthält Herd-Bild und Link Weitere Informationen
 
 * Sechs Hauptteilabschnitte (optional)
 * Fußzeile (optional)

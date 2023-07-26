@@ -20,7 +20,7 @@ Als Administrator können Sie Vorlagen wie beliebige Benutzer anzeigen.
 >
 >**Erforderliche Administratorberechtigungen**
 
-1. Klicken **Vorlagen**.
+1. Klicks **Vorlagen**.
 
    ![](assets/view-template-list-as-another-user-1.png)
 

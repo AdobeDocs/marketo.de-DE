@@ -19,11 +19,11 @@ ht-degree: 0%
 
 Ein Administrator kann sich entscheiden, eine Anmeldung erforderlich zu machen, um einen Bericht anzuzeigen.
 
-1. Klicken **Admin**, und dann **Anmeldeeinstellungen**.
+1. Klicks **Admin**, und dann **Anmeldeeinstellungen**.
 
    ![](assets/image2015-4-29-12-3a46-3a14.png)
 
-1. Klicken **Bearbeiten** für Smart List-Berichtseinstellungen.
+1. Klicks **Bearbeiten** für Smart-List-Berichtseinstellungen.
 
    ![](assets/image2015-4-29-12-3a50-3a50.png)
 

@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Sie müssen Ihr Passwort ändern? So geht es.
 
-## Kennwort bei Anmeldung ändern {#change-your-password-while-signed-in}
+## Passwort bei der Anmeldung ändern {#change-your-password-while-signed-in}
 
 1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen**.
 
@@ -24,7 +24,7 @@ Sie müssen Ihr Passwort ändern? So geht es.
 
    ![](assets/change-your-marketo-sales-password-2.png)
 
-1. Geben Sie Ihr aktuelles Kennwort ein. Geben Sie dann Ihren neuen ein und geben Sie ihn erneut ein, um sicherzustellen, dass er übereinstimmt. Klicken **Speichern** wann geschehen.
+1. Geben Sie Ihr aktuelles Kennwort ein. Geben Sie dann Ihren neuen ein und geben Sie ihn erneut ein, um sicherzustellen, dass er übereinstimmt. Klicks **Speichern** wann geschehen.
 
    ![](assets/change-your-marketo-sales-password-3.png)
 
@@ -43,15 +43,15 @@ Sie müssen Ihr Passwort ändern? So geht es.
 
    ![](assets/change-your-marketo-sales-password-4.png)
 
-1. Klicken **Kennwort vergessen**.
+1. Klicks **Kennwort vergessen**.
 
    ![](assets/change-your-marketo-sales-password-5.png)
 
-1. Geben Sie die mit dem Konto verknüpfte E-Mail-Adresse ein und klicken Sie auf **E-Mail zum Zurücksetzen senden**.
+1. Geben Sie die dem Konto zugeordnete E-Mail-Adresse ein und klicken Sie auf **E-Mail zum Zurücksetzen senden**.
 
    ![](assets/change-your-marketo-sales-password-6.png)
 
-1. Wir senden eine E-Mail, um zu überprüfen, ob der Kontoinhaber das Passwort ändern möchte. Klicken **Kennwort zurücksetzen**.
+1. Wir senden eine E-Mail, um zu überprüfen, ob der Kontoinhaber das Passwort ändern möchte. Klicks **Kennwort zurücksetzen**.
 
    ![](assets/change-your-marketo-sales-password-7.png)
 
@@ -59,6 +59,6 @@ Sie müssen Ihr Passwort ändern? So geht es.
    >
    >Überprüfen Sie auch Ihren Spam-Ordner, da diese E-Mail manchmal dort landet.
 
-1. Geben Sie Ihr neues Kennwort ein und bestätigen Sie es. Klicken **Kennwort festlegen** wann geschehen.
+1. Geben Sie Ihr neues Kennwort ein und bestätigen Sie es. Klicks **Kennwort festlegen** wann geschehen.
 
    ![](assets/change-your-marketo-sales-password-8.png)

@@ -23,17 +23,17 @@ Marketo Sales Insight ist ein fantastisches Tool, mit dem Sie Ihrem Vertriebstea
 
 ## Importlösung {#import-solution}
 
-OK, jetzt ist es an der Zeit, die Marketo Sales Insight-Lösung in Microsoft Dynamics zu importieren. So geht es:
+OK, jetzt ist es an der Zeit, die Marketo Sales Insight-Lösung in Microsoft Dynamics zu importieren. So geht&#39;s:
 
 1. Klicken Sie unter Microsoft Dynamics CRM auf **Einstellungen**.
 
    ![](assets/image2014-12-12-9-3a4-3a56.png)
 
-1. Klicken Sie unter &quot;EINSTELLUNGEN&quot;auf **Anpassungen**.
+1. Klicken Sie unter EINSTELLUNGEN auf **Anpassungen**.
 
    ![](assets/image2015-4-29-14-3a22-3a1.png)
 
-1. Klicken **Lösungen**.
+1. Klicks **Lösungen**.
 
    ![](assets/image2014-12-12-9-3a5-3a17.png)
 
@@ -41,7 +41,7 @@ OK, jetzt ist es an der Zeit, die Marketo Sales Insight-Lösung in Microsoft Dyn
    >
    >Sie sollten die Marketo-Lösung bereits installiert und konfiguriert haben, bevor Sie fortfahren.
 
-1. Klicken **Import**.
+1. Klicks **Import**.
 
    ![](assets/image2014-12-12-9-3a5-3a27.png)
 
@@ -49,15 +49,15 @@ OK, jetzt ist es an der Zeit, die Marketo Sales Insight-Lösung in Microsoft Dyn
 
    ![](assets/image2014-12-12-9-3a5-3a36.png)
 
-1. Suchen und wählen Sie die Lösung aus, die Sie oben heruntergeladen haben.
+1. Suchen Sie nach der Lösung, die Sie oben heruntergeladen haben, und wählen Sie sie aus.
 
    ![](assets/image2014-12-12-9-3a5-3a45.png)
 
-1. Klicken **Nächste**.
+1. Klicks **Nächste**.
 
    ![](assets/image2014-12-12-9-3a5-3a55.png)
 
-1. Die Lösung wird hochgeladen. Sie können den Paketinhalt bei Bedarf anzeigen. Klicken **Nächste**.
+1. Die Lösung wird hochgeladen. Sie können den Paketinhalt bei Bedarf anzeigen. Klicks **Nächste**.
 
    ![](assets/image2014-12-12-9-3a6-3a10.png)
 
@@ -75,7 +75,7 @@ OK, jetzt ist es an der Zeit, die Marketo Sales Insight-Lösung in Microsoft Dyn
 
 ## Verbinden von Marketo und Sales Insight {#connect-marketo-and-sales-insight}
 
-Verknüpfen wir Ihre Marketo-Instanz mit Sales Insight in Dynamics. So geht es:
+Verknüpfen wir Ihre Marketo-Instanz mit Sales Insight in Dynamics. So geht&#39;s:
 
 >[!NOTE]
 >
@@ -85,11 +85,11 @@ Verknüpfen wir Ihre Marketo-Instanz mit Sales Insight in Dynamics. So geht es:
 
    ![](assets/image2014-12-12-9-3a6-3a50.png)
 
-1. Klicken Sie im Abschnitt Sales Insight auf **API-Konfiguration bearbeiten**.
+1. Klicken Sie unter dem Abschnitt Sales Insight auf **API-Konfiguration bearbeiten**.
 
    ![](assets/image2014-12-12-9-3a7-3a0.png)
 
-1. Kopieren Sie die **Marketo-Host**, **API-URL** und **API-Benutzer-ID** zur Verwendung in einem späteren Schritt. Geben Sie einen API-Geheimschlüssel Ihrer Wahl ein und klicken Sie auf **Speichern**.
+1. Kopieren Sie die **Marketo-Host**, **API-URL**, und **API-Benutzer-ID** zur Verwendung in einem späteren Schritt. Geben Sie einen API-Geheimschlüssel Ihrer Wahl ein und klicken Sie auf **Speichern**.
 
    >[!CAUTION]
    >
@@ -99,7 +99,7 @@ Verknüpfen wir Ihre Marketo-Instanz mit Sales Insight in Dynamics. So geht es:
 
    >[!NOTE]
    >
-   >Die folgenden Felder müssen mit Marketo synchronisiert werden für *Lead und Kontakt* für Sales Insight funktioniert:
+   >Die folgenden Felder müssen mit Marketo synchronisiert werden *Lead und Kontakt* für Sales Insight funktioniert:
    >
    >* Priorität
    >* Dringlichkeit
@@ -107,7 +107,7 @@ Verknüpfen wir Ihre Marketo-Instanz mit Sales Insight in Dynamics. So geht es:
    >
    >Wenn eines dieser Felder fehlt, wird in Marketo eine Fehlermeldung mit dem Namen der fehlenden Felder angezeigt. Um dies zu beheben, führen Sie [dieses Verfahrens](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md).
 
-1. Zurück in Microsoft Dynamics, navigieren Sie zu **Einstellungen**.
+1. Wechseln Sie in Microsoft Dynamics zu **Einstellungen**.
 
    ![](assets/image2014-12-12-9-3a7-3a25.png)
 
@@ -115,7 +115,7 @@ Verknüpfen wir Ihre Marketo-Instanz mit Sales Insight in Dynamics. So geht es:
 
    ![](assets/image2014-12-12-9-3a7-3a34.png)
 
-1. Klicken **Neu**.
+1. Klicks **Neu**.
 
    ![](assets/image2014-12-12-9-3a8-3a8.png)
 
@@ -135,7 +135,7 @@ Schließlich müssen Sie bestimmten Benutzern Zugriff auf Marketo Sales Insight 
 
    ![](assets/image2015-4-29-14-3a56-3a33.png)
 
-1. Klicken **Benutzer**.
+1. Klicks **Benutzer**.
 
    ![](assets/image2015-4-29-14-3a57-3a46.png)
 

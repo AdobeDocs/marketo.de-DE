@@ -27,7 +27,7 @@ Führen Sie diese kurzen Schritte aus, um ein benanntes Konto zu löschen.
 
    ![](assets/eight-1.png)
 
-1. Klicken **Löschen**.
+1. Klicks **Löschen**.
 
    ![](assets/nine-1.png)
 

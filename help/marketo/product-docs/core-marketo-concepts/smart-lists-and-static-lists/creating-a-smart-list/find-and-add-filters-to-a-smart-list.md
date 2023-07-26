@@ -29,7 +29,7 @@ In diesem Beispiel finden wir alle Menschen in Kalifornien mit einer Punktzahl �
 
    ![](assets/two.png)
 
-1. Suchen und Ziehen **state** auf die Arbeitsfläche.
+1. Suchen und Ziehen **Bundesland** auf die Arbeitsfläche.
 
    ![](assets/three.png)
 

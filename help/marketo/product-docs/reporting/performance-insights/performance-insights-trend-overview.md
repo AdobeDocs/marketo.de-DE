@@ -27,7 +27,7 @@ Wählen Sie die Metrik aus, nach der Sie die Leistung anzeigen möchten. In dies
 
 ![](assets/3-2.png)
 
-Metriken werden in zwei Diagrammen dargestellt: Schalenfrüchte und Leine.
+Die Metriken werden in zwei Diagrammen dargestellt: Doppel- und Liniendiagramm.
 
 ![](assets/4-1.png)
 

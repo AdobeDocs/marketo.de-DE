@@ -31,15 +31,15 @@ Die Verbindung mit Gmail bedeutet, dass Sie Antwort-Tracking, Zugriff auf den Ka
 
    ![](assets/three.png)
 
-1. Klicken **Erste Schritte**.
+1. Klicks **Erste Schritte**.
 
    ![](assets/four.png)
 
-1. Auswählen **Ich verwende Gmail zum Senden von E-Mails** und klicken Sie auf **Nächste**.
+1. Auswählen **Ich verwende Gmail zum Senden von E-Mails** und klicken **Nächste**.
 
    ![](assets/five.png)
 
-1. Klicken **OK**.
+1. Klicks **OK**.
 
    ![](assets/six.png)
 
@@ -51,7 +51,7 @@ Die Verbindung mit Gmail bedeutet, dass Sie Antwort-Tracking, Zugriff auf den Ka
 
    ![](assets/eight.png)
 
-1. Klicken **Zulassen**.
+1. Klicks **Zulassen**.
 
    ![](assets/nine.png)
 
@@ -59,4 +59,4 @@ Die Verbindung mit Gmail bedeutet, dass Sie Antwort-Tracking, Zugriff auf den Ka
 
 >[!NOTE]
 >
->Gmail erzwingt eigene Versandbeschränkungen. [Weitere Informationen finden Sie hier](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits).
+>Gmail erzwingt eigene Versandbeschränkungen. [Weitere Informationen hier](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits).

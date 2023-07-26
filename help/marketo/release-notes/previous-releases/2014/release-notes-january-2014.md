@@ -11,13 +11,13 @@ ht-degree: 2%
 
 ---
 
-# Versionshinweise: Januar 2014 {#release-notes-january}
+# Januar 2014 - Versionshinweise {#release-notes-january}
 
 Die folgenden Funktionen sind in der Version vom Januar 2014 enthalten. Bitte überprüfen Sie Ihre [Marketo Edition](https://www.marketo.com/pricing/) für Funktionsverfügbarkeit.
 
 ## Formulare 2.0 {#forms}
 
-Kopf nach oben: Die Dokumentation für Forms 2.0 ist in Kürze verfügbar!
+Köpfe hoch: Die Dokumentation für Forms 2.0 ist in Kürze verfügbar!
 
 Übernehmen Sie die Kontrolle über den Formularerstellungsprozess und geben Sie Ihren Webentwicklern eine Pause. Forms 2.0 wurde entwickelt, um Marketingexperten die Möglichkeit zu geben, visuell und funktional robuste Formulare zu erstellen, ohne Programmierkenntnisse zu benötigen.
 
@@ -29,7 +29,7 @@ Designentwürfe, Schaltflächenanpassungen und flexible Layouts ermöglichen es 
 
 ![](assets/image2014-9-22-10-3a30-3a52.png)
 
-Möchten Sie, dass &quot;State&quot;nur angezeigt wird, wenn ein Benutzer USA als &quot;Country&quot;auswählt? Wie wäre es, Kunden verschiedene Whitepapers zu präsentieren, basierend darauf, wie sie auf Fragen in Ihrem Formular antworten? Erstellen Sie eine Bedingungslogik direkt vom Editor in Ihre Formulare. Kein JavaScript erforderlich!
+Möchten Sie, dass &quot;State&quot;nur angezeigt wird, wenn ein Benutzer USA als &quot;Country&quot;auswählt? Wie wäre es, Kunden verschiedene Whitepapers zu präsentieren, basierend darauf, wie sie auf Fragen in Ihrem Formular antworten? Erstellen Sie eine Bedingungslogik in Ihren Formularen direkt vom Editor aus. Kein JavaScript erforderlich!
 
 ![](assets/image2014-9-22-10-3a31-3a54.png)
 

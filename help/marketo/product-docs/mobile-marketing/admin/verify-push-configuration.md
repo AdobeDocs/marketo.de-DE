@@ -31,7 +31,7 @@ ht-degree: 7%
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-1. Klicken **Mobile App-Aktionen** und wählen Sie **Push-Konfiguration überprüfen**.
+1. Klicks **Mobile App-Aktionen** und wählen **Push-Konfiguration überprüfen**.
 
    ![](assets/image2015-4-22-17-3a25-3a8.png)
 

@@ -23,7 +23,7 @@ Wenn Sie eine E-Mail erstellen, möchten Sie möglicherweise, dass deren Textver
 
    ![](assets/one-5.png)
 
-1. Deaktivieren **Automatische Kopie von HTML** , um Änderungen vorzunehmen.
+1. Deaktivieren **Automatisch aus HTML kopieren** , um Änderungen vorzunehmen.
 
    ![](assets/two-5.png)
 

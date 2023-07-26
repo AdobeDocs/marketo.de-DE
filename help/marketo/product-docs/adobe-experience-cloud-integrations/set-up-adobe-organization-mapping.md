@@ -31,7 +31,7 @@ Um eine Synchronisation mit Adobe-Anwendungen wie Audience Manager herzustellen,
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-2.png)
 
-1. Klicken **[!UICONTROL Bearbeiten]**.
+1. Klicks **[!UICONTROL Bearbeiten]**.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-3.png)
 
@@ -39,7 +39,7 @@ Um eine Synchronisation mit Adobe-Anwendungen wie Audience Manager herzustellen,
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-4.png)
 
-1. Klicken **[!UICONTROL Bestätigen]**.
+1. Klicks **[!UICONTROL Bestätigen]**.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-5.png)
 

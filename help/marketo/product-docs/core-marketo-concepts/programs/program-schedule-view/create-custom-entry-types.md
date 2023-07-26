@@ -19,7 +19,7 @@ Sie können benutzerdefinierte Eintrittstypen erstellen, die in Ihrer Programmpl
 
    ![](assets/admintags.png)
 
-1. Klicken **Kalendereintragstyp**.
+1. Klicks **Kalendereingabetyp**.
 
    ![](assets/image2014-9-15-15-3a41-3a33.png)
 
@@ -35,7 +35,7 @@ Sie können benutzerdefinierte Eintrittstypen erstellen, die in Ihrer Programmpl
 
    ![](assets/image2014-9-15-16-3a3-3a55.png)
 
-1. Klicken **Speichern**.
+1. Klicks **Speichern**.
 
    ![](assets/image2014-9-15-16-3a4-3a14.png)
 

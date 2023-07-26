@@ -19,15 +19,15 @@ Führen Sie diese Schritte aus, um einen Bericht zur Programmteilnahmeanalyse zu
 >
 >Nicht alle Kunden haben diese Funktion erworben. Detaillierte Informationen erhalten Sie vom zuständigen Vertriebsmitarbeiter.
 
-1. Launch-Umsatz-Explorer.
+1. Launch Umsatz Explorer.
 
    ![](assets/one.png)
 
-1. Klicken **Neu erstellen** then **Bericht**.
+1. Klicks **Neu erstellen** then **Bericht**.
 
    ![](assets/two.png)
 
-1. Auswählen **Analyse der Programmmitgliedschaft** und klicken Sie auf **OK**.
+1. Auswählen **Analyse der Programmmitgliedschaft** und klicken **OK**.
 
    ![](assets/three.png)
 

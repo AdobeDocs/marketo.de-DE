@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Sales Connect-Plugin wird nicht in Gmail angezeigt {#sales-connect-plugin-not-showing-up-in-gmail}
 
-Aus unseren Erfahrungen können Sie Folgendes ausprobieren, wenn Ihre Symbolleiste nicht angezeigt wird.
+Aus unseren Erfahrungen können Sie Folgendes testen, wenn Ihre Symbolleiste nicht angezeigt wird.
 
 - Überprüfen Sie, ob unsere Erweiterung ordnungsgemäß heruntergeladen wurde. Wenn Sie sich in Chrome befinden, rufen Sie Ihre Liste der Erweiterungen ab. Ist Sales Connect (Tout) aufgeführt?
 
@@ -27,4 +27,4 @@ Aus unseren Erfahrungen können Sie Folgendes ausprobieren, wenn Ihre Symbolleis
 
 - Versuchen Sie, die Verbindung zu trennen und dann die Browser-Erweiterung Sales Connect erneut zu verbinden.
 
-Wenn keiner der oben genannten Tipps geholfen hat, wenden Sie sich an [Fall einreichen](https://nation.marketo.com/community/support_solutions) auf Support.
+Wenn keiner der oben genannten Tipps geholfen hat, wenden Sie sich an [Groß-/Kleinschreibung einreichen](https://nation.marketo.com/community/support_solutions) auf Support.

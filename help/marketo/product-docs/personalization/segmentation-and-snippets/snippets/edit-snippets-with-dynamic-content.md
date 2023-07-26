@@ -34,13 +34,13 @@ Verwenden Sie die Segmentierung in Snippets, um dynamische Inhalte in E-Mails un
 
    ![](assets/image2014-9-16-8-3a59-3a27.png)
 
-1. Eingabe **Segmentierung** und klicken Sie auf **Speichern**.
+1. Eingabe **Segmentierung** und auf **Speichern**.
 
    ![](assets/image2014-9-16-8-3a59-3a42.png)
 
 ## Dynamische Inhalte anwenden {#apply-dynamic-content}
 
-1. Klicken Sie auf **Segment** und dann Inhalt bearbeiten. Wiederholen für jedes Segment
+1. Klicken Sie auf **Segment** und dann den Inhalt bearbeiten. Wiederholen für jedes Segment
 
    ![](assets/image2014-9-16-8-3a59-3a59.png)
 

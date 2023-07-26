@@ -15,7 +15,7 @@ ht-degree: 5%
 
 ## Überblick {#overview}
 
-Mit den Programmstatus können Sie verfolgen, wie Personen durch ein Programm oder eine Veranstaltung vorankommen. Weitere Informationen finden Sie unter [Anpassen, Erstellen und Verwalten von Kanälen](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
+Mit den Programmstatus können Sie verfolgen, wie Personen durch ein Programm oder eine Veranstaltung vorankommen. Weitere Informationen finden Sie unter [Kanäle anpassen, erstellen und verwalten](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
 
 >[!CAUTION]
 >
@@ -23,7 +23,7 @@ Mit den Programmstatus können Sie verfolgen, wie Personen durch ein Programm od
 
 ## Nutzung {#usage}
 
-1. Ziehen Sie die **Ändern des Programmstatus** Flussschritt.
+1. Ziehen Sie in die **Ändern des Programmstatus** Flussschritt.
 
    ![](assets/image2014-9-22-14-3a43-3a34.png)
 

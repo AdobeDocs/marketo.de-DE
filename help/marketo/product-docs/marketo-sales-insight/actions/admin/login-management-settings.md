@@ -34,7 +34,7 @@ Gehen Sie wie folgt vor, um Ihre Anmeldeverwaltungseinstellungen zu aktualisiere
 
    ![](assets/login-management-settings-2.png)
 
-1. Scrollen Sie nach unten zur Karte Anmeldeverwaltung und wählen Sie die gewünschte Einstellung aus (in diesem Beispiel wählen wir nur Salesforce aus). Klicken **Speichern** wann geschehen.
+1. Scrollen Sie nach unten zur Karte Anmeldeverwaltung und wählen Sie die gewünschte Einstellung aus (in diesem Beispiel wählen wir nur Salesforce aus). Klicks **Speichern** wann geschehen.
 
    ![](assets/login-management-settings-3.png)
 

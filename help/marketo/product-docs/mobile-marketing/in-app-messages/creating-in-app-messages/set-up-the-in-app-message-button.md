@@ -75,5 +75,5 @@ Fast da. Ihr letzter Schritt besteht darin, [Konfigurieren des Hintergrunds von 
 
 >[!MORELIKETHIS]
 >
->* [Grundlegendes zu In-App-Nachrichten](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->* [Layout für Ihre In-App-Nachricht auswählen](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
+>* [In-App-Nachrichten verstehen](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+>* [Auswählen eines Layouts für Ihre In-App-Nachricht](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)

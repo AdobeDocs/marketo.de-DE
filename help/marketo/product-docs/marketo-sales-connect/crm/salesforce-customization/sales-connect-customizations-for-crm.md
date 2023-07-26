@@ -13,7 +13,7 @@ ht-degree: 1%
 
 # Sales Connect-Anpassungen für CRM {#sales-connect-customizations-for-crm}
 
-Die Felder und Schaltflächen unten werden von der Metadaten-API in Salesforce CRM erstellt. Nach der Erstellung der Felder müssen Administratoren die Seitenlayouts in ihrem CRM-System konfigurieren, um sie verfügbar zu machen. Anweisungen finden Sie [here](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf).
+Die Felder und Schaltflächen unten werden von der Metadaten-API in Salesforce CRM erstellt. Nach der Erstellung der Felder müssen Administratoren die Seitenlayouts in ihrem CRM-System konfigurieren, um sie verfügbar zu machen. Anweisungen hierzu finden Sie [here](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf).
 
 >[!NOTE]
 >
@@ -25,15 +25,15 @@ Die Felder und Schaltflächen unten werden von der Metadaten-API in Salesforce C
 
    ![](assets/one.png)
 
-1. Wählen Sie unter &quot;Admin Settings&quot;die Option **Salesforce**.
+1. Wählen Sie unter Admin Settings die Option **Salesforce**.
 
    ![](assets/two.png)
 
-1. Klicken **Marketo Sales Connect-Anpassungen**.
+1. Klicks **Marketo Sales Connect-Anpassungen**.
 
    ![](assets/three.png)
 
-1. Klicken **Mit Salesforce verbinden**.
+1. Klicks **Mit Salesforce verbinden**.
 
    ![](assets/four.png)
 
@@ -57,11 +57,11 @@ Aktualisierungen des Salesforce-Anpassungspakets umfassen Verbesserungen und Feh
 
    ![](assets/sales-connect-customizations-for-crm-7.png)
 
-1. Auf der Karte zur Anpassung von Sales Connect wird angezeigt, ob Updates verfügbar sind. Klicken **Aktualisieren von Anpassungen**.
+1. Auf der Karte zur Anpassung von Sales Connect wird angezeigt, ob Updates verfügbar sind. Klicks **Aktualisieren von Anpassungen**.
 
    ![](assets/sales-connect-customizations-for-crm-8.png)
 
-1. Klicken **Upgrade**.
+1. Klicks **Upgrade**.
 
    ![](assets/sales-connect-customizations-for-crm-9.png)
 
@@ -80,17 +80,17 @@ Marketo erkennt die Erstellung der neuen Felder und führt dann eine einmalige A
 | **Feldname** | **Beschreibung** |
 |---|---|
 | Lokale Präsenz-ID des MSE-Aufrufs | Als Benutzer können Sie bei Aufrufen über das MSE Phone &quot;Lokale Präsenz&quot;als Option wählen. Eingehende Aufrufe zeigen eine lokale Nummer für den Empfänger an. |
-| URL zur Aufzeichnung von MSE-Aufrufen | Aufrufe können aufgezeichnet werden und hier wird ein Link zur Aufzeichnung protokolliert. |
+| URL zur Aufzeichnung von MSE-Aufrufen | Aufrufe können aufgezeichnet werden und hier wird ein Link für die Aufzeichnung protokolliert. |
 | MSE-Kampagne | Protokollierungsname der MSE-Kampagne, der der Kontakt/Lead angehört. |
-| MSE-Kampagnen-URL | Protokolliert die URL der Kampagne, die in MSE erstellt wurde. Wenn Sie auf diese Option klicken, wird die Kampagne in der MSE-Web-App geöffnet. |
+| MSE-Kampagnen-URL | Protokolliert die URL für die in MSE erstellte Kampagne. Wenn Sie auf diese Option klicken, wird die Kampagne in der MSE-Web-App geöffnet. |
 | Aktueller Schritt einer MSE-Kampagne | Wenn ein Kontakt/Lead Teil einer Kampagne ist, protokolliert dieses Feld den Namen des Schritts, in dem sich der Lead/Kontakt derzeit befindet. |
 | Angezeigte MSE-E-Mail-Anlage | Protokolliert Daten, wenn eine E-Mail mit einem Anhang gesendet und der Anhang vom Empfänger angezeigt wird. |
 | MSE-E-Mail angeklickt | Protokolliert ein Häkchen, wenn der Empfänger auf einen Link in einer E-Mail klickt. |
 | MSE-E-Mail beantwortet | Protokolliert ein Häkchen, wenn der Empfänger auf eine E-Mail antwortet. |
 | MSE Email Status | Zeigt an, ob eine E-Mail gesendet/in Bearbeitung/abgestürzt wurde (das Tracking nicht zugestellter E-Mails hängt vom verwendeten Versandkanal ab). |
-| MSE Email Template | Protokollierungsname der MSE-Vorlage, die in der an den Lead/Kontakt gesendeten E-Mail verwendet wurde. |
-| URL der MSE-E-Mail-Vorlage | Protokolliert die URL auf die Vorlage, die in MSE erstellt wurde. Wenn Sie auf diese Option klicken, wird die Vorlage in der MSE-Web-App geöffnet. |
-| MSE Email URL | Wenn Sie auf diese URL klicken, wird das Command Center in MSE geöffnet und Sie rufen die Registerkarte &quot;People Detail View history&quot;ab, auf der Sie die gesendete E-Mail sehen können. |
+| MSE Email Template | Logs name of the MSE template that was used in the email sent to the lead/contact. |
+| URL der MSE-E-Mail-Vorlage | Protokolliert die URL auf die in MSE erstellte Vorlage. Wenn Sie auf diese Option klicken, wird die Vorlage in der MSE-Web-App geöffnet. |
+| MSE Email URL | Wenn Sie auf diese URL klicken, wird das Command Center in MSE geöffnet und die Registerkarte &quot;People Detail View history&quot;abgerufen, auf der Sie die gesendete E-Mail sehen können. |
 | Angezeigte MSE-E-Mail | Protokolliert ein Häkchen, wenn der Empfänger eine E-Mail anzeigt. |
 
 ## Datenaggregations-Protokollierungsfelder {#roll-up-logging-fields}

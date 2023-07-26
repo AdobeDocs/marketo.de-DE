@@ -25,15 +25,15 @@ Wenn Sie über Arbeitsbereiche verfügen, können Sie zusätzliche Branding-Dom�
 
    ![](assets/add-an-additional-branding-domain-with-workspaces-1.png)
 
-1. Klicken **[!UICONTROL Email]**.
+1. Klicks **[!UICONTROL Email]**.
 
    ![](assets/add-an-additional-branding-domain-with-workspaces-2.png)
 
-1. Klicken **[!UICONTROL Hinzufügen]** , um eine zusätzliche Branding-Domäne hinzuzufügen.
+1. Klicks **[!UICONTROL Hinzufügen]** , um eine zusätzliche Branding-Domäne hinzuzufügen.
 
    ![](assets/add-an-additional-branding-domain-with-workspaces-3.png)
 
-1. Geben Sie eine neue Branding-Domäne ein. Klicken **[!UICONTROL Nächste]**.
+1. Geben Sie eine neue Branding-Domäne ein. Klicks **[!UICONTROL Nächste]**.
 
    ![](assets/add-an-additional-branding-domain-with-workspaces-4.png)
 

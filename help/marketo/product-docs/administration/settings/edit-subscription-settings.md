@@ -21,11 +21,11 @@ Wenn Sie beispielsweise sowohl in der Produktions- als auch in der Sandbox-Insta
 
    ![](assets/edit-subscription-settings-1.png)
 
-1. Klicken **[!UICONTROL Mein Konto]**.
+1. Klicks **[!UICONTROL Mein Konto]**.
 
    ![](assets/edit-subscription-settings-2.png)
 
-1. Klicken **[!UICONTROL Abonnementinformationen bearbeiten]**.
+1. Klicks **[!UICONTROL Abonnementinformationen bearbeiten]**.
 
    ![](assets/edit-subscription-settings-3.png)
 

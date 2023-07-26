@@ -13,4 +13,4 @@ ht-degree: 0%
 
 # Ich wurde aus meinem Konto gesperrt. Was mache ich? {#i-got-locked-out-of-my-account-what-do-i-do}
 
-Wenn Sie die Anzahl der Anmeldeversuche überschritten haben, werden Sie von Ihrem Konto ausgeschlossen. Bitte kontaktieren Sie uns [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support#) für Hilfe beim Entsperren.
+Wenn Sie die Anzahl der Anmeldeversuche überschritten haben, werden Sie von Ihrem Konto ausgeschlossen. Bitte kontaktieren Sie [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support#) für Hilfe beim Entsperren.

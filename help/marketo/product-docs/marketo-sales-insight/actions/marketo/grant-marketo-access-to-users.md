@@ -5,7 +5,7 @@ exl-id: 0efb3e85-cc75-4810-bc67-05127f44e012
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -40,11 +40,11 @@ Sie müssen Benutzer einladen, [Sales Insight-Aktionen](/help/marketo/product-do
 
    ![](assets/grant-marketo-access-to-users-4.png)
 
-   **OPTIONALER SCHRITT**: Klicken Sie auf die Dropdown-Liste Arbeitsbereich und wählen Sie die gewünschten Arbeitsbereiche aus.
+   **OPTIONALER SCHRITT**: Klicken Sie auf das Dropdown-Menü Arbeitsbereich und wählen Sie die gewünschten Arbeitsbereiche aus.
 
    ![](assets/grant-marketo-access-to-users-5.png)
 
-1. Klicken **Verbinden**.
+1. Klicks **Verbinden**.
 
    ![](assets/grant-marketo-access-to-users-6.png)
 

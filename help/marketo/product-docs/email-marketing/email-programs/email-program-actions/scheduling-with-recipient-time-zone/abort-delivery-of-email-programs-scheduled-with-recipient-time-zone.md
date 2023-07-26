@@ -1,7 +1,7 @@
 ---
 unique-page-id: 13795727
 description: Abbruch des Versands von E-Mail-Programmen, die mit der Zeitzone der Empfänger geplant sind - Marketo Docs - Produktdokumentation
-title: Abbruch des Versands von E-Mail-Programmen, die mit der Zeitzone des Empfängers geplant sind
+title: Abbruch des Versands von E-Mail-Programmen mit Zeitzone des Empfängers
 exl-id: e69afa4a-32fb-4791-a9b6-683d64d610d6
 feature: Email Programs
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# Abbruch des Versands von E-Mail-Programmen, die mit der Zeitzone des Empfängers geplant sind {#abort-delivery-of-email-programs-scheduled-with-recipient-time-zone}
+# Abbruch des Versands von E-Mail-Programmen mit Zeitzone des Empfängers {#abort-delivery-of-email-programs-scheduled-with-recipient-time-zone}
 
 In Notfällen können Sie den Versand eines E-Mail-Programms abbrechen, das bereits mit aktivierter Zeitzone für Empfänger gestartet wurde.
 
@@ -21,7 +21,7 @@ Da E-Mail-Programme, die mit der Zeitzone der Empfänger geplant sind, bis zu 24
 
    ![](assets/ptz-abortdelivery.png)
 
-1. Vergewissern Sie sich, dass Sie den Versand abbrechen möchten, indem Sie auf **Abbruch**.
+1. Vergewissern Sie sich, dass Sie den Versand durch Klicken auf **Abbruch**.
 
    ![](assets/image2018-2-23-11-3a20-3a27.png)
 
@@ -39,5 +39,5 @@ Da E-Mail-Programme, die mit der Zeitzone der Empfänger geplant sind, bis zu 24
 
 >[!MORELIKETHIS]
 >
->* [Verstehen der Zeitzone eines Empfängers](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
+>* [Die Zeitzone der Empfänger](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
 >* [E-Mail-Programme mit der Zeitzone der Empfänger planen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)

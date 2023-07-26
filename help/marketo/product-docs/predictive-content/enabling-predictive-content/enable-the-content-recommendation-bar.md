@@ -33,7 +33,7 @@ Die Content Recommendation Engine verwendet prädiktive Analyse- und maschinelle
 
    ![](assets/settings-dropdown-hand.png)
 
-1. Klicken **Balken**.
+1. Klicks **Balken**.
 
    ![](assets/content-settings-bar-hand.png)
 
@@ -41,7 +41,7 @@ Die Content Recommendation Engine verwendet prädiktive Analyse- und maschinelle
 
    ![](assets/bar-enable.png)
 
-1. Um eine URL anzupassen, wählen Sie Farben, Stil, Format, Pfeile für die Empfehlungsleiste und Seiten aus, die die Leiste ein- oder ausschließen sollen. Passen Sie an das Branding Ihrer Website an. Klicken **Speichern**.
+1. Um eine URL anzupassen, wählen Sie Farben, Stil, Format, Pfeile für die Empfehlungsleiste und Seiten aus, die die Leiste ein- oder ausschließen sollen. Passen Sie an das Branding Ihrer Website an. Klicks **Speichern**.
 
    ![](assets/bar-customize-details-hands.png)
 
@@ -49,7 +49,7 @@ Die Content Recommendation Engine verwendet prädiktive Analyse- und maschinelle
    >
    >**Anzeige-URL einschließen/ausschließen**
    >
-   >* Die Anzeigen-URL sollte dem Pfad der Domäne entsprechen
+   >* Die Anzeigen-URL sollte der Pfad der Domäne sein.
    >* Schließen Sie https:// oder https:// nicht ein
    >* Verwendung &#42; für Platzhalter
    >* Semikolon als Trennzeichen verwenden

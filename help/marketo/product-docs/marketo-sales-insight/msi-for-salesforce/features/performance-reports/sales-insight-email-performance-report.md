@@ -17,11 +17,11 @@ Zeigen Sie die Leistung von E-Mails an, die über Salesforce, Microsoft Dynamics
 
 ## Einen Bericht erstellen {#generate-a-report}
 
-1. Klicken **Analytics**.
+1. Klicks **Analytics**.
 
    ![](assets/mainnav-analyticshand-small.png)
 
-1. Klicken **Sales Insight-E-Mail-Leistung**.
+1. Klicks **Sales Insight-E-Mail-Leistung**.
 
    ![](assets/analytics-salesemailreporthand.png)
 
@@ -47,7 +47,7 @@ Zeigen Sie die Leistung von E-Mails an, die über Salesforce, Microsoft Dynamics
 
 Sie können diesen Bericht nach Vertriebsmitarbeitern gruppiert anzeigen, indem Sie Ihre Einstellungen ändern.
 
-1. Klicken **Einrichtung**. Doppelklicken **Email**.
+1. Klicks **Einrichtung**. Doppelklicken **Email**.
 
    ![](assets/image2014-12-9-12-3a12-3a19.png)
 
@@ -55,7 +55,7 @@ Sie können diesen Bericht nach Vertriebsmitarbeitern gruppiert anzeigen, indem 
 
    ![](assets/image2014-12-9-12-3a16-3a42.png)
 
-1. Klicken **Speichern**.
+1. Klicks **Speichern**.
 
    ![](assets/image2014-12-9-12-3a17-3a39.png)
 

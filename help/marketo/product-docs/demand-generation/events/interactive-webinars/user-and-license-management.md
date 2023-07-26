@@ -20,11 +20,11 @@ Erfahren Sie, wie Sie Benutzer hinzufügen und entfernen sowie Ihre aktuellen Li
 
    ![](assets/user-and-license-management-1.png)
 
-1. Klicken **Interaktive Webinare**.
+1. Klicks **Interaktive Webinare**.
 
    ![](assets/user-and-license-management-2.png)
 
-1. Klicken **Benutzer hinzufügen/entfernen**.
+1. Klicks **Benutzer hinzufügen/entfernen**.
 
    ![](assets/user-and-license-management-3.png)
 
@@ -38,15 +38,15 @@ Erfahren Sie, wie Sie Benutzer hinzufügen und entfernen sowie Ihre aktuellen Li
 
    ![](assets/user-and-license-management-5.png)
 
-1. Klicken **Interaktive Webinare**.
+1. Klicks **Interaktive Webinare**.
 
    ![](assets/user-and-license-management-6.png)
 
-1. Klicken **Benutzer hinzufügen/entfernen**.
+1. Klicks **Benutzer hinzufügen/entfernen**.
 
    ![](assets/user-and-license-management-7.png)
 
-1. Markieren Sie die Benutzer, die Sie entfernen möchten, und drücken Sie die Entf-Taste auf Ihrer Tastatur. Klicken **OK** wann geschehen.
+1. Markieren Sie die Benutzer, die Sie entfernen möchten, und drücken Sie die Entf-Taste auf Ihrer Tastatur. Klicks **OK** wann geschehen.
 
    ![](assets/user-and-license-management-8.png)
 
@@ -58,7 +58,7 @@ Interaktive Webinare bieten spezifische Lizenzen für die Erstellung von Veranst
 
    ![](assets/user-and-license-management-9.png)
 
-1. Klicken **Interaktive Webinare**.
+1. Klicks **Interaktive Webinare**.
 
    ![](assets/user-and-license-management-10.png)
 
@@ -69,7 +69,7 @@ Interaktive Webinare bieten spezifische Lizenzen für die Erstellung von Veranst
 <table> 
   <tr> 
    <td><b>Startdatum</b></td>
-   <td>Datum, an dem die Lizenz beginnt.</td>
+   <td>Datum, an dem die Lizenz beginnt</td>
   </tr>
   <tr> 
    <td><b>Ablaufdatum</b></td>
@@ -77,7 +77,7 @@ Interaktive Webinare bieten spezifische Lizenzen für die Erstellung von Veranst
   </tr>
   <tr> 
    <td><b>Typ</b></td>
-   <td>Die Art der erworbenen Lizenz. Es stehen drei Typen zur Verfügung: Shared Events Lizenz, Shared Rooms License, Additional Storage License.</td>
+   <td>Die Art der erworbenen Lizenz. Es stehen drei Typen zur Verfügung: Shared Events License, Shared Rooms License, Additional Storage License.</td>
   </tr>
   <tr> 
    <td><b>Ereigniskapazität</b></td>

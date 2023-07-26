@@ -29,7 +29,7 @@ Wenn Sie Ihr Marketo-Konto zum ersten Mal mit Salesforce synchronisieren, führt
 | E-Mail | E-Mail-Adresse |
 | Fax | Faxnummer |
 | Vorname | Vorname |
-| E-Mail-Abmeldung | Hat abbestellt |
+| E-Mail-Abmeldung | Abgemeldet |
 | Branche | Branche |
 | Konvertiert | SFDC wird konvertiert |
 | Gelöscht | SFDC wurde gelöscht |
@@ -42,7 +42,7 @@ Wenn Sie Ihr Marketo-Konto zum ersten Mal mit Salesforce synchronisieren, führt
 | PLZ | Postleitzahl |
 | Bewertung | Bewertung |
 | Anrede | Anrede |
-| Bundesland/Kanton | Zustand |
+| Bundesland/Kanton | Status |
 | Status | Status |
 | Straße | Adresse |
 | Titel | Job-Titel |
@@ -58,15 +58,15 @@ Wenn Sie Ihr Marketo-Konto zum ersten Mal mit Salesforce synchronisieren, führt
 | E-Mail | E-Mail-Adresse |
 | Business Fax | Faxnummer |
 | Vorname | Vorname |
-| E-Mail-Abmeldung | Hat abbestellt |
+| E-Mail-Abmeldung | Abgemeldet |
 | Gelöscht | SFDC wurde gelöscht |
 | Nachname | Nachname |
 | Lead-Quelle | Quelle |
 | Lead-Bewertung | Bewertung |
 | MailingCity | Ort |
 | MailingCountry | Land |
-| MailingPostalCode | Postleitzahl |
-| MailingState | Zustand |
+| Postleitzahl | Postleitzahl |
+| MailingState | Status |
 | MailingStreet | Adresse |
 | Mobiltelefon | Mobiltelefonnummer |
 | Geschäftstelefon | Telefonnummer |
@@ -102,5 +102,5 @@ Diese Felder werden in Marketo erstellt, können jedoch nicht von den Kunden ang
 |---|---|
 | SFDC-ID | Die Salesforce-ID mit 18 Zeichen |
 | SFDC-Typ | Lead oder Kontakt. Wenn leer, ist der Lead nur als Person in Marketo vorhanden |
-| SFDC-Erstellungsdatum | Datum, das in SFDC erstellt wurde (kann sich von dem in Marketo erstellten unterscheiden) |
+| SFDC-Erstellungsdatum | In SFDC erstelltes Datum (kann sich von dem in Marketo erstellten unterscheiden) |
 | SFDC wird gelöscht | Person, die früher Teil des SFDC war, aber gelöscht wurde und jetzt nur noch in Marketo lebt |

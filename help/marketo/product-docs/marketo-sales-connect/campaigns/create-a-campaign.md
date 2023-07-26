@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Erstellen einer Kampagne {#create-a-campaign}
 
-Kampagnen sind eine Reihe von Schritten mit mehreren Kanälen, darunter: E-Mails, Telefonanrufe, InMail und benutzerdefinierte Aufgaben. Damit können Sie Ihre Kommunikation mit Ihren potenziellen und bestehenden Kunden optimieren.
+Kampagnen sind eine Reihe von Schritten mit mehreren Kanälen, darunter E-Mails, Telefonanrufe, InMail und benutzerdefinierte Aufgaben. Sie ermöglichen es Ihnen, Ihre Kommunikation mit Ihren potenziellen und bestehenden Kunden zu optimieren.
 
 Mit Kampagnen können Sie:
 
 * **Organisieren**: Straffen Sie alle Ihre Reichweitenaktivitäten an einem Ort, um eine effiziente Ausführung zu gewährleisten.
 
-* **Skalieren**: Planen Sie alle Ihre Kontaktaufnahmen, damit Sie Ihre Bemühungen skalieren, die manuelle Arbeit minimieren und so viel Personalisierung wie nötig durchführen können.
+* **Skalieren**: Planen Sie alle Ihre Kontaktaufnahme-Bemühungen, damit Sie Ihre Bemühungen skalieren, die manuelle Arbeit minimieren und beliebig viele Personalisierungen vornehmen können.
 * **Maßnahme**: Verfolgen Sie den Erfolg aller E-Mails und Aufgaben an einem Ort, während Sie sie automatisch bei Salesforce anmelden. Indem Sie wissen, was Resonanz zeigt und zu Ergebnissen führt, können Sie Ihre Ergebnisse konsequent testen und verbessern.
 
 Wie richtet man also eine Kampagne ein?
@@ -28,7 +28,7 @@ Wie richtet man also eine Kampagne ein?
 
    ![](assets/one-1.png)
 
-1. Wählen Sie eine Kategorie aus und klicken Sie auf die Schaltfläche **Erstellen einer Kampagne** Schaltfläche, um eine neue Kampagne zu erstellen.
+1. Wählen Sie eine Kategorie aus und klicken Sie auf **Erstellen einer Kampagne** Schaltfläche, um eine neue Kampagne zu erstellen.
 
    ![](assets/two-1.png)
 
@@ -40,7 +40,7 @@ Wie richtet man also eine Kampagne ein?
 
    ![](assets/three-1.png)
 
-1. Klicken **Schritt hinzufügen**.
+1. Klicks **Schritt hinzufügen**.
 
    ![](assets/four-1.png)
 
@@ -60,4 +60,4 @@ Wie richtet man also eine Kampagne ein?
 
    ![](assets/seven.png)
 
-   Jetzt ist es an der Zeit, Personen zu Ihrer Kampagne hinzuzufügen!
+   Jetzt ist es an der Zeit, mit dem Hinzufügen von Personen zu Ihrer Kampagne zu beginnen!

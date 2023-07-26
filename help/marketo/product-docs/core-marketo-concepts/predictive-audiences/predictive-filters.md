@@ -22,7 +22,7 @@ Im Rahmen von Predictive Audiences bietet Marketo eine Gruppe von KI/ML-basierte
 
 ## Wahrscheinlichkeit der Teilnahme
 
-Mit diesem Filter können Sie Ihre Zielgruppe effektiv eingrenzen. Auf diese Weise können Sie Leads auswählen und einladen, die eine höhere Wahrscheinlichkeit haben **Besuch** Ihr Webinar oder Ihre Veranstaltung. Beachten Sie, dass Ihr aktuelles Ereignisprogramm &quot;Wahrscheinlichkeit, am Programm teilzunehmen&quot;ist.
+Mit diesem Filter können Sie Ihre Zielgruppe effektiv eingrenzen. Auf diese Weise können Sie Leads auswählen und einladen, die eine höhere Wahrscheinlichkeit haben **Besuch** Ihr Webinar oder Ihre Veranstaltung Beachten Sie, dass Ihr aktuelles Ereignisprogramm &quot;Wahrscheinlichkeit, am Programm teilzunehmen&quot;ist.
 
 ![Bild 2](assets/predictive-filters-2.png)
 
@@ -46,7 +46,7 @@ Dadurch wird die Zielgruppe danach gefiltert, ob die Abmeldewahrscheinlichkeit i
 
 Mit diesen beiden Filtern können Sie Ihre aktuelle Zielgruppe erweitern, indem Sie zusätzliche Leads auswählen, die den Mitgliedern eines anderen Programms oder einer intelligenten Liste ähnlich sind. Die Suchfilter berücksichtigen mehr als 50 Faktoren, einschließlich Lead-Attributen, E-Mail-Aktivität, Web-Aktivität und Interaktion.
 
-Klicken **[!UICONTROL Beschränkung hinzufügen]** um Erfolgskriterien für die Mitglieder des ausgewählten Programms/der ausgewählten Programme auszuwählen.
+Klicks **[!UICONTROL Beschränkung hinzufügen]** um Erfolgskriterien für die Mitglieder des ausgewählten Programms/der ausgewählten Programme auszuwählen.
 
 Klicken Sie auf **+** -Symbol, um einfach mehrere Programme/Smart-Listen zu einem Filter hinzuzufügen.
 

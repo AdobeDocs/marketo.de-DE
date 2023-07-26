@@ -19,13 +19,13 @@ Möchten Sie eine Aufschlüsselung aller Ereignisse in einer intelligenten Kampa
 
    >[!TIP]
    >
-   >Sie können die Liste der Personen anzeigen, die von der Smart-Kampagne verarbeitet wurden, indem Sie auf [Anzeigen von Campaign-Mitgliedern](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md).
+   >Sie können die Liste der von der Smart-Kampagne verarbeiteten Personen anzeigen, indem Sie auf [Anzeigen von Campaign-Mitgliedern](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md).
 
    ![](assets/image2014-9-22-11-38-10.jpg)
 
    >[!TIP]
    >
-   >Sie können die Ergebnisse auch nach Aktivitätstyp filtern. Erfahren Sie, wie Sie [Ergebnisse intelligenter Kampagnen filtern](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.md).
+   >Sie können die Ergebnisse auch nach Aktivitätstyp filtern. Erfahren Sie, wie [Ergebnisse intelligenter Kampagnen filtern](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.md).
 
 1. Klicken Sie auf **ID** , um weitere Details zu dieser Aktivität anzuzeigen.
 

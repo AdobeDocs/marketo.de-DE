@@ -32,7 +32,7 @@ Senden Sie eine Push-Benachrichtigung an Personen, die Ihre mobile App verwenden
 
    ![](assets/image2015-4-22-18-3a33-3a13.png)
 
-1. Wählen Sie eine Push-Benachrichtigung aus. Klicken **Zeitplan**.
+1. Wählen Sie eine Push-Benachrichtigung. Klicks **Zeitplan**.
 
    ![](assets/image2015-4-22-18-3a33-3a38.png)
 
@@ -44,7 +44,7 @@ Senden Sie eine Push-Benachrichtigung an Personen, die Ihre mobile App verwenden
 
    ![](assets/image2015-4-23-18-3a0-3a54.png)
 
-1. Wählen Sie ein Datum und eine Uhrzeit aus. Klicken **Speichern**.
+1. Wählen Sie ein Datum und eine Uhrzeit. Klicks **Speichern**.
 
    ![](assets/image2015-4-23-18-3a1-3a33.png)
 

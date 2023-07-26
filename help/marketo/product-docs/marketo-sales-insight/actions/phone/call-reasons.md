@@ -50,7 +50,7 @@ Lassen Sie zu, dass Ihre Verkaufsteams bei Aufrufen die Anrufgründe auswählen,
 
    ![](assets/call-reasons-6.png)
 
-1. Klicken **Gründe für Aufrufe verwalten**.
+1. Klicks **Gründe für Aufrufe verwalten**.
 
    ![](assets/call-reasons-7.png)
 

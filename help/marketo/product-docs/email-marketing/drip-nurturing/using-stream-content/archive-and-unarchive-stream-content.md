@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Archivieren und Archivieren von Stream-Inhalten aufheben {#archive-and-unarchive-stream-content}
 
-Wenn Sie ein Inhaltselement nicht mehr in einem Stream verwenden möchten, können Sie entweder [remove](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md) oder archivieren. Hier erfahren Sie, wie Sie Inhalte archivieren.
+Wenn Sie ein Inhaltselement nicht mehr in einem Stream verwenden möchten, können Sie [remove](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md) oder archivieren. Hier erfahren Sie, wie Sie Inhalte archivieren.
 
 >[!TIP]
 >
->Das Entfernen zerstört den gesamten zugehörigen Verlauf. Durch die Archivierung bleibt sie erhalten.
+>Durch das Entfernen werden alle verknüpften Verläufe zerstört. Durch die Archivierung bleibt sie erhalten.
 
 ## Archiv-Stream-Inhalt {#archive-stream-content}
 

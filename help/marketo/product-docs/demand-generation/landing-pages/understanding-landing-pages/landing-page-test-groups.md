@@ -28,7 +28,7 @@ Marketo verfolgt die Anzahl der Seitenansichten und Formularabschlüsse auf jede
    >Die anderen Möglichkeiten zum Erstellen einer Testgruppe sind:
    >
    >* Klicken Sie mit der rechten Maustaste auf eine Landingpage im Baum und wählen Sie **In Testgruppe konvertieren**
-   >* Erstellen Sie in einem Programm eine Landingpage-Testgruppe, indem Sie **AB-Testgruppe** im **Neues lokales Asset** Menü
+   >* Erstellen Sie in einem Programm eine Einstiegsseitentestgruppe durch Auswahl von **AB-Testgruppe** im **Neues lokales Asset** Menü
 
 1. Geben Sie einen Namen und eine optionale Beschreibung ein. Wählen Sie die Einstiegsseiten aus, die Sie testen möchten, und klicken Sie auf **Erstellen**.
 
@@ -42,7 +42,7 @@ Marketo verfolgt die Anzahl der Seitenansichten und Formularabschlüsse auf jede
 
    ![](assets/three-1.png)
 
-1. Klicken Sie auf **Gruppenoptionen testen** Dropdown-Liste **Genehmigen einer Testgruppe**.
+1. Klicken Sie auf **Gruppenoptionen testen** Dropdown-Liste und **Genehmigen einer Testgruppe**.
 
    ![](assets/four-1.png)
 
@@ -52,4 +52,4 @@ Marketo verfolgt die Anzahl der Seitenansichten und Formularabschlüsse auf jede
 
    >[!TIP]
    >
-   >Wenn Sie die Testgruppe löschen möchten, klicken Sie einfach auf **Testgruppenaktionen** und wählen Sie **Testgruppe löschen**.
+   >Wenn Sie die Testgruppe löschen möchten, klicken Sie einfach auf **Testgruppenaktionen** und wählen **Testgruppe löschen**.

@@ -71,9 +71,9 @@ Alle Auswahlmöglichkeiten für Grafiken, Text und Schaltflächen wurden automat
 
 So viele Optionen, aber jetzt haben Sie eine großartige In-App-Nachricht, bereit zum Senden!
 
-Jetzt ist es an der Zeit, [Nachricht senden](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md).
+Jetzt ist es Zeit, [Nachricht senden](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md).
 
 >[!MORELIKETHIS]
 >
->* [Grundlegendes zu In-App-Nachrichten](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->* [Layout für Ihre In-App-Nachricht auswählen](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
+>* [In-App-Nachrichten verstehen](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+>* [Auswählen eines Layouts für Ihre In-App-Nachricht](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)

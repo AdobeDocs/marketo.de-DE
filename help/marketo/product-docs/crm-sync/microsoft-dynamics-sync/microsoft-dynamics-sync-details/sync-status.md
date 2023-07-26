@@ -17,7 +17,7 @@ Auf den Registerkarten Synchronisierungsstatus und Synchronisierungsfehler könn
 
 ## Registerkarte &quot;Synchronisierungsstatus&quot; {#sync-status-tab}
 
-1. Klicken **Admin** und **Microsoft Dynamics**.
+1. Klicks **Admin** und **Microsoft Dynamics**.
 
    ![](assets/image2016-1-20-11-3a34-3a14.png)
 

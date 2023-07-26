@@ -25,7 +25,7 @@ Sie können Ihre Registrierungspflichtigen manuell validieren, bevor Sie ihnen e
 1. Gehen Sie zum Ereignis und klicken Sie auf die Schaltfläche **Mitglieder** Registerkarte. Auf dieser Registerkarte werden alle Personen angezeigt, die das Formular ausgefüllt haben. Ihr Status sollte auf **Ausstehende Genehmigung**.
 1. Verwenden Sie den Filter oben im Raster, um nur die Personen mit dem Status **Ausstehende Genehmigung**.
 1. Wählen Sie die Personen aus, die Sie registrieren möchten (Umschalt-Klick, Strg-Klick oder Alle auswählen).
-1. Klicken Sie im Menü auf **Status ändern**. Auswählen **Angemeldet**, **Zurückgewiesen** oder einen anderen anwendbaren Status.
+1. Klicken Sie im Menü auf **Status ändern**. Auswählen **Angemeldet**, **Abgelehnt** oder einen anderen anwendbaren Status.
 
 ## Umgang mit Personen mit einem Registrierungsfehler {#handling-people-with-a-registration-error}
 

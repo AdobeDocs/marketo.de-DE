@@ -11,7 +11,7 @@ ht-degree: 5%
 
 ---
 
-# Hinzufügen [!DNL Level 3 Web Meeting] as a [!DNL LaunchPoint] Diensleistung {#add-level-three-web-meeting-as-a-launchpoint-service}
+# Hinzufügen [!DNL Level 3 Web Meeting] as a [!DNL LaunchPoint] Dienst {#add-level-three-web-meeting-as-a-launchpoint-service}
 
 Marketo verwaltet Ihre [!DNL Level 3 Web Meeting] Anmeldung und Teilnahme.
 
@@ -27,7 +27,7 @@ Marketo verwaltet Ihre [!DNL Level 3 Web Meeting] Anmeldung und Teilnahme.
 
    ![](assets/add-level-three-web-meeting-as-a-launchpoint-service-1.png)
 
-1. Klicken **[!UICONTROL LaunchPoint]**.
+1. Klicks **[!UICONTROL LaunchPoint]**.
 
    ![](assets/add-level-three-web-meeting-as-a-launchpoint-service-2.png)
 
@@ -35,11 +35,11 @@ Marketo verwaltet Ihre [!DNL Level 3 Web Meeting] Anmeldung und Teilnahme.
 
    ![](assets/add-level-three-web-meeting-as-a-launchpoint-service-3.png)
 
-1. Geben Sie einen **[!UICONTROL Anzeigename]**. under **[!UICONTROL Diensleistung]** auswählen **[!UICONTROL Level 3 Web Meeting]**.
+1. Geben Sie einen **[!UICONTROL Anzeigename]**. under **[!UICONTROL Dienst]** auswählen **[!UICONTROL Level 3-Webtreffen]**.
 
    ![](assets/add-level-three-web-meeting-as-a-launchpoint-service-4.png)
 
-1. Geben Sie Ihre **[!UICONTROL Zugriffsnummer]**, **[!UICONTROL Zugriffscode]** und **[!UICONTROL Passcode]** Klicken Sie auf **[!UICONTROL Erstellen]**.
+1. Geben Sie Ihre **[!UICONTROL Zugriffsnummer]**, **[!UICONTROL Zugriffscode]**, und **[!UICONTROL Passcode]** Klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/add-level-three-web-meeting-as-a-launchpoint-service-5.png)
 
@@ -49,4 +49,4 @@ Ihre [!DNL Level 3 Web Meeting] Konto wurde jetzt mit Marketo synchronisiert!
 
 >[!MORELIKETHIS]
 >
->Erfahren Sie, wie Sie [Erstellen Sie ein Ereignis mit einer [!DNL Level 3 Web Meeting]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md){target="_blank"}.
+>Erfahren Sie, wie [Erstellen Sie ein Ereignis mit einer [!DNL Level 3 Web Meeting]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md){target="_blank"}.

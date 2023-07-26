@@ -15,7 +15,7 @@ ht-degree: 2%
 
 ## Einführung {#introduction}
 
-Für neue Marketo-Kunden ist die Echtzeit-Personalisierung in vier Apps unterteilt, auf die mit diesen beiden Kacheln zugegriffen wird: Web-Personalisierung und ContentAI.
+Für neue Marketo-Kunden ist die Echtzeit-Personalisierung in vier Apps unterteilt, auf die über die beiden Kacheln Web-Personalisierung und ContentAI zugegriffen wird.
 
 ![](assets/pasted-image-at-2016-03-23-02-45-pm.png) ![](assets/mlm-homepage-content-ai-281-29.png)
 
@@ -27,7 +27,7 @@ Vorhandene Kunden greifen über die Kachel Echtzeit-Personalisierung bis zur Ver
 
 ![](assets/image2016-2-9-8-3a52-3a32.png)
 
-Wenn Sie auf die Kachel Web-Personalisierung klicken, wird die Seite Dashboard angezeigt. Klicken Sie auf die Kachel ContentAI und gehen Sie direkt zur Seite Content Recommendations .
+Wenn Sie auf die Kachel Web-Personalisierung klicken, wird die Seite Dashboard angezeigt. Klicken Sie auf die Kachel ContentAI und navigieren Sie direkt zur Seite Content Recommendations .
 
 Die vier Apps sind:
 
@@ -56,9 +56,9 @@ Im Tab Organisationen werden alle Details (Name, Standort, Aktivität und Zeitst
 
 >[!TIP]
 >
->&quot;Am meisten aktiv&quot;vs. &quot;Aktuell&quot;- Die Tabelle wird von identifizierten Organisationen und anschließend von Internetdienstanbietern (mit einem ISP-Symbol gekennzeichnet) organisiert. Er kann nach folgenden Kriterien sortiert werden:
+>&quot;Am aktivsten&quot;im Vergleich zu &quot;am neuesten&quot;- Die Tabelle wird von identifizierten Organisationen und dann von Internetdienstanbietern (durch ein ISP-Symbol gekennzeichnet) organisiert. Er kann nach folgenden Kriterien sortiert werden:
 >
->* Am aktivsten: die aktivsten Organisationen in der Tabelle basierend auf der Anzahl der Seitenansichten
+>* Am aktivsten: die aktivsten Organisationen in der Tabelle, basierend auf der Anzahl der Seitenansichten
 >* Neueste: die neuesten Organisationen in der Tabelle (Standard)
 >* Für wertvolle Einblicke filtern Sie nach der aktivsten
 
@@ -69,7 +69,7 @@ Das rechte Bedienfeld der Seite &quot;Organisationen&quot;bietet die folgenden F
 <table> 
  <tbody> 
   <tr> 
-   <td><p><strong>Symbol "Tabelle"</strong>: Oben rechts im Bedienfeld befindet, lädt das Symbol die Tabelle Organisationen im CSV-Format herunter, um sie für die Offline-Verwendung freizugeben.</p><p><strong>E-Mail-Warnung festlegen</strong>: Sendet dem angemeldeten Benutzer bei jedem Besuch der Website durch die ausgewählte Organisation eine E-Mail</p><p><strong>Leads</strong>: Öffnet die Lead-Tabelle für die ausgewählte Organisation</p><p><strong>Freigeben</strong>: Öffnet ein Popup-Fenster, in dem Sie die Details der Organisation, die die Webseite besucht hat, per E-Mail senden und weitergeben können</p><p><strong>Standortsymbol</strong>: Zeigt das Land und die Stadt der ausgewählten Organisation an</p><p><strong>Links</strong>: Jigsaw, who, Linkedin, Google, Twitter öffnet ein neues Fenster mit zusätzlichen Informationen von der jeweiligen Webseite, das zusätzliche Einblicke in die ausgewählte Organisation bietet</p><p><strong>Suche</strong>: Zeigt den Suchbegriff an, der verwendet wird, wenn der Besucher über eine Suchmaschine gelangt ist</p><p><strong>Referrer</strong>: Zeigt den URL-Link der Seite an, die den Traffic auf Ihre Site verwiesen hat</p><p><strong>Besucher</strong>: Zeigt die Anzahl der Besuche, die Anzahl der von der ausgewählten Organisation angezeigten Seiten und ihre E-Mail-Adresse (wenn diese ein Sendeformular ausgefüllt haben) sowie Uhrzeit und Datum des letzten Besuchs an</p><p><strong>Clickstream</strong>: Zeigt eine Tabelle der Benutzeraktivität und des URL-Pfads auf der Site an und zeigt an, wie lange sie die einzelnen Seiten besucht haben</p></td> 
+   <td><p><strong>Symbol "Tabelle"</strong>: Das Symbol oben rechts im Bedienfeld lädt die Tabelle "Organisationen"im CSV-Format zur Offline-Verwendung herunter</p><p><strong>E-Mail-Warnung festlegen</strong>: Sendet dem angemeldeten Benutzer bei jedem Besuch der Website durch die ausgewählte Organisation eine E-Mail.</p><p><strong>Leads</strong>: Öffnet die Lead-Tabelle für die ausgewählte Organisation</p><p><strong>Freigeben</strong>: Öffnet ein Popup-Fenster, in dem Sie die Details der Organisation, die die Webseite besucht hat, per E-Mail senden und diese weitergeben können.</p><p><strong>Symbol "Position"</strong>: Zeigt das Land und die Stadt der ausgewählten Organisation an</p><p><strong>Links</strong>: Jigsaw, who, Linkedin, Google, Twitter öffnet ein neues Fenster mit zusätzlichen Informationen von der jeweiligen Webseite, das zusätzliche Einblicke in die ausgewählte Organisation bietet.</p><p><strong>Suche</strong>: Zeigt den Suchbegriff an, der verwendet wird, wenn der Besucher über eine Suchmaschine gelangt ist.</p><p><strong>Referrer</strong>: Zeigt den URL-Link der Seite an, die den Traffic auf Ihre Site verwiesen hat.</p><p><strong>Besucher</strong>: Zeigt die Anzahl der Besuche, die Anzahl der von der ausgewählten Organisation angezeigten Seiten und ihre E-Mail-Adresse (sofern diese ein Sendeformular ausgefüllt haben) sowie Uhrzeit und Datum des letzten Besuchs an</p><p><strong>Clickstream</strong>: Zeigt eine Tabelle der Benutzeraktivität und des URL-Pfads auf der Site sowie die Dauer des Besuchs auf den einzelnen Seiten an</p></td> 
    <td><img src="assets/image2014-11-10-19-3a22-3a47.png" data-linked-resource-id="5046291" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="3571900"></td> 
   </tr> 
  </tbody> 
@@ -111,7 +111,7 @@ Das rechte Bedienfeld der Seite &quot;Besucher&quot;bietet die folgenden Einblic
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><strong>Kampagne einstellen</strong></td> 
-   <td colspan="1" rowspan="1">Ermöglicht die Einrichtung eines Campaign CTA, der dem ausgewählten Besucher zugeordnet ist</td> 
+   <td colspan="1" rowspan="1">Ermöglicht die Einrichtung eines dem ausgewählten Besucher zugeordneten Campaign CTA</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Standort</strong></td> 
@@ -156,7 +156,7 @@ Die Echtzeit-Seite ist in 6 informative Tabellen mit Details zu Onsite-Besuchern
   </tr> 
   <tr> 
    <td colspan="1"><strong>Echtzeit-Segment</strong></td> 
-   <td colspan="1">Die Anzahl der aktuell auf der Site befindlichen Besucher, die bestimmten Segmenten entsprechen</td> 
+   <td colspan="1">Die Anzahl der Besucher, die derzeit auf der Site sind und bestimmten Segmenten entsprechen</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Derzeit auf der Seite</strong></td> 

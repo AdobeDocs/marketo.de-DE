@@ -27,7 +27,7 @@ In diesem Abschnitt erfahren Sie, wie Ihre Site nach der [Targeting-Suchbegriffe
 
 | Farbe | Rang |
 |---|---|
-| Grün | Erstes Ergebnis in der Suche |
+| Grün | Erstes Suchergebnis |
 | Gelb | 2. - 10. Ergebnis in der Suche |
 | Grau | 11. bis 20. Ergebnis in der Suche |
 
@@ -49,9 +49,9 @@ Es basiert auf einer Sammlung von Dutzenden von Best Practices. Ein Wert von 70 
 >
 >Sie können auch den Optimierungswert für bestimmte Listen von Seiten sehen. Verwenden Sie die Dropdown-Liste und wählen Sie eine, die Sie interessiert.
 
-## [!UICONTROL Suchbegriff-Rangtrends] {#keyword-rank-trends}
+## [!UICONTROL Suchbegriffsrang-Trends] {#keyword-rank-trends}
 
-Die [!UICONTROL Suchbegriff-Rangtrends] -Diagramm ruft Ihre Suchbegriffe mit den fünf höchsten monatlichen Suchvolumen ab und kartiert, wie sie im Laufe der Zeit rangieren.
+Die [!UICONTROL Suchbegriffsrang-Trends] -Diagramm ruft Ihre Suchbegriffe mit den fünf höchsten monatlichen Suchvolumen ab und kartiert, wie sie im Laufe der Zeit rangieren.
 
 >[!TIP]
 >
@@ -63,4 +63,4 @@ Sehen wir uns nun die [!UICONTROL Recommendations] des Dashboards.
 
 >[!MORELIKETHIS]
 >
->[Grundlegendes zum Dashboard: SEO Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
+>[Das Dashboard: SEO Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)

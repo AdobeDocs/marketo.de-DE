@@ -10,13 +10,13 @@ ht-degree: 5%
 
 ---
 
-# Versionshinweise: Januar 2023 {#release-notes-jan-23}
+# Januar 2023 - Versionshinweise {#release-notes-jan-23}
 
 Unten finden Sie alle Funktionen der Version vom 23. Januar. Überprüfen Sie Ihre Adobe Marketo Engage-Edition auf Funktionsverfügbarkeit.
 
 >[!AVAILABILITY]
 >
->Mit einem Stern gekennzeichnete Funktionen (![star](assets/yellow-star.png)) sind kostenpflichtige Add-ons. Weitere Informationen erhalten Sie von Ihrem Marketo Engage-Support-Mitarbeiter.
+>Mit einem Stern (![star](assets/yellow-star.png)) sind kostenpflichtige Add-ons. Weitere Informationen erhalten Sie von Ihrem Marketo Engage-Support-Mitarbeiter.
 
 ## Standardfunktionen des Versionszyklus {#standard-release-cycle-features}
 
@@ -26,7 +26,7 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
 
 </br>
 
-* **Aktualisierte Screens in der modernen Benutzeroberfläche**: In der modernen Benutzeroberfläche (früher bekannt als Erlebnis der nächsten Generation) stellen wir zusätzliche, aktualisierte Bildschirme bereit, die aktualisierte Design- und Benutzerfreundlichkeitsverbesserungen bieten, auf die über Umschalter zugegriffen werden kann:
+* **Aktualisierte Screens in der modernen Benutzeroberfläche**: In der modernen Benutzeroberfläche (früher als Erlebnis der nächsten Generation bekannt) stellen wir zusätzliche, aktualisierte Bildschirme bereit, die aktualisierte Design- und Benutzerfreundlichkeitsverbesserungen bieten, auf die über Umschalter zugegriffen werden kann:
 
    * Ansicht &quot;Snippet List&quot;
    * Liste der Landingpage-Vorlagen
@@ -43,7 +43,7 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
   </tbody>
 </table>
 
-* **Verbesserte Verwendung durch die Komponente für Details von E-Mail-Vorlagen und Snippet-Details**: Die Registerkarte &quot;Neu verwendet von&quot;bietet zusätzliche Informationen zu den einzelnen von Assets verwendeten Assets, z. B. wann und von wem sie zuletzt geändert wurden. Mithilfe der Such-, Sortierungs- und Filterfunktionen können Sie mühelos Analysen durchführen. Diese neue UI-Komponente wird mit den Assets E-Mail-Vorlage und Snippet integriert.
+* **Verbesserte Verwendung durch die Komponente für Details von E-Mail-Vorlagen und Snippet-Details**: Die Registerkarte Neu verwendet von Benutzeroberfläche enthält zusätzliche Informationen zu den einzelnen von Assets verwendeten Assets, z. B. wann und von wem sie zuletzt geändert wurden. Mithilfe der Such-, Sortierungs- und Filterfunktionen können Sie mühelos Analysen durchführen. Diese neue UI-Komponente wird mit den Assets E-Mail-Vorlage und Snippet integriert.
 
 <table> 
   <tr> 
@@ -61,7 +61,7 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
 
 </br>
 
-* **Neu entworfene Modelle für Report Assets**: Neues Design für Berichtskonfigurationsmodelle in der modernen UX-Benutzeroberfläche, das ein aktualisiertes Aussehen und ein verbessertes Erscheinungsbild bietet.
+* **Neu entworfene Modelle für Report Assets**: Neues Design für Berichtkonfigurationsmodelle in der modernen UX, das ein aktualisiertes Aussehen und ein verbessertes Erscheinungsbild sowie eine verbesserte Barrierefreiheit bietet.
 
 <table> 
   <tr> 
@@ -115,11 +115,11 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
 
 Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiedenen Daten vor oder nach dem standardmäßigen Veröffentlichungsdatum veröffentlicht. Bitte prüfen Sie unten jedes Feature nach seinem Status.
 
-### Dynamischer Chat {#dynamic-chat}
+### Dynamic Chat {#dynamic-chat}
 
 </br>
 
-* **Picklist in Info Capture Card für Dynamic Chat definieren**: Um Datensauberkeit zu gewährleisten, können Sie Auswahllisten für Datenerfassungskarten definieren, damit Besucher nur aus einer vordefinierten Optionsliste auswählen können.
+* **Picklist in Info Capture Card für Dynamic Chat definieren**: Um Datenbereinigungen sicherzustellen, können Sie Auswahllisten für Datenerfassungskarten definieren, damit Besucher nur aus einer vordefinierten Optionsliste auswählen können.
 
 <table> 
   <tr> 
@@ -133,7 +133,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
   </tbody>
 </table>
 
-* **Personalisierung in Konferenzbestätigung für Dynamic Chat**: Kundendienstmitarbeiter können per E-Mail Bestätigungen für die Buchung von Meetings personalisieren, indem sie Marketo Engage- und Firmenfelder verwenden, um die Interaktion mit Besuchern zu verbessern (z. B.: Besucher nach Vorname in der E-Mail zur automatischen Sitzungsbuchung begrüßen).
+* **Personalisierung in Konferenzbestätigung für Dynamic Chat**: Kundendienstmitarbeiter können per E-Mail Bestätigungen für die Buchung von Meetings personalisieren, indem sie Marketo Engage- und Firmenfelder verwenden, um die Interaktion mit Besuchern zu verbessern (z. B.: Besucher mit Vornamen in der E-Mail zur automatisierten Anmeldung von Meetings begrüßen).
 
 <table> 
   <tr> 
@@ -147,7 +147,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
   </tbody>
 </table>
 
-* **Suchen in Stream-Designer**: Einfache Suche nach Inhalten in Stream Designer, um Inhalte auf allen Karten/Knoten in einem Stream schnell zu finden (z. B.: Suchen Sie &quot;SEO&quot;, und es werden alle Knoten markiert, die diese Zeichenfolge enthalten).
+* **Suchen in Stream-Designer**: Einfache Suche nach Inhalten in Stream Designer, um Inhalte schnell über alle Karten/Knoten in einem Stream zu finden (z. B. Suchen Sie &quot;SEO&quot;, und markieren Sie alle Knoten, die diese Zeichenfolge enthalten).
 
 <table> 
   <tr> 

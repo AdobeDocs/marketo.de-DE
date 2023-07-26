@@ -15,7 +15,7 @@ ht-degree: 6%
 
 ## Wie werden Opportunitätsdetails zwischen den beiden Systemen synchronisiert? {#how-are-opportunity-details-kept-in-sync-between-the-two-systems}
 
-Die Synchronisierung ist eine Möglichkeit: von Salesforce nach Marketo. Aktualisierungen der Möglichkeiten in Salesforce werden mit Marketo synchronisiert.
+Die Synchronisation ist eine Möglichkeit: von Salesforce bis Marketo. Aktualisierungen der Möglichkeiten in Salesforce werden mit Marketo synchronisiert.
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ Nein, das kannst du nicht. Die Änderungen an allen Möglichkeiten in Salesforce
 
 ## Unterstützt Marketo mehr als eine Währung im Opportunity Amount? {#does-marketo-support-more-than-one-currency-in-the-opportunity-amount}
 
-Nein, Marketo unterstützt nur eine Währung. Der Opportunitätsbetrag wird von Salesforce synchronisiert, die Währung wird jedoch der [Standardwährung](/help/marketo/product-docs/administration/settings/set-default-location-settings-for-a-subscription.md#set-the-default-currency-settings-for-a-subscription) in Ihrem Marketo-Abonnement.
+Nein, Marketo unterstützt nur eine Währung. Der Opportunitätsbetrag wird von Salesforce synchronisiert, die Währung ist jedoch der [Standardwährung](/help/marketo/product-docs/administration/settings/set-default-location-settings-for-a-subscription.md#set-the-default-currency-settings-for-a-subscription) in Ihrem Marketo-Abonnement.
 
 ## Wie verknüpft Marketo Chancen und Kontakte? {#how-does-marketo-associate-opportunities-and-contacts}
 

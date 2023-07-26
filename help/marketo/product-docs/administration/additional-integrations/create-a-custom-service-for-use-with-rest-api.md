@@ -35,7 +35,7 @@ Wenn Sie die Integration mit Marketo über die ReST-API durchführen möchten, m
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-1.png)
 
-1. Klicken **LaunchPoint**.
+1. Klicks **LaunchPoint**.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-2.png)
 
@@ -63,22 +63,22 @@ Wenn Sie die Integration mit Marketo über die ReST-API durchführen möchten, m
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-6.png)
 
-1. Klicken **[!UICONTROL LaunchPoint]**.
+1. Klicks **[!UICONTROL LaunchPoint]**.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-7.png)
 
-1. Klicken **[!UICONTROL Details anzeigen]** für die benutzerdefinierte [!UICONTROL LaunchPoint] -Dienst, der oben erstellt wurde.
+1. Klicks **[!UICONTROL Details anzeigen]** für die benutzerdefinierte [!UICONTROL LaunchPoint] -Dienst, der oben erstellt wurde.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-8.png)
 
-1. Klicken **[!UICONTROL Token abrufen]**.
+1. Klicks **[!UICONTROL Token abrufen]**.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-9.png)
 
-1. Stellen Sie die **[!UICONTROL Client-ID]**, **[!UICONTROL Client Secret]**, **[!UICONTROL Autorisierter Benutzer]** und **[!UICONTROL Token]** an die Person, die für die Herstellung der Verbindung verantwortlich ist.
+1. Stellen Sie die **[!UICONTROL Client-ID]**, **[!UICONTROL Client Secret]**, **[!UICONTROL Autorisierter Benutzer]**, und **[!UICONTROL Token]** an die Person, die für die Herstellung der Verbindung verantwortlich ist.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-10.png)
 
 >[!CAUTION]
 >
->Geben Sie diese Informationen nicht weiter. Es ist die Hintertür zu Ihren Daten. Halte es sicher!
+>Geben Sie diese Informationen nicht weiter, sondern sind die Hintertür Ihrer Daten. Halte es sicher!

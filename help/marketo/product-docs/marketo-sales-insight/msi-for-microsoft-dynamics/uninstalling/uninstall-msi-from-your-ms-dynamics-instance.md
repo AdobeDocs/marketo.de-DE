@@ -23,33 +23,33 @@ Um MSI aus Ihrer MS Dynamics-Instanz zu deinstallieren, müssen Sie Schritte sow
 
    ![](assets/one-1.png)
 
-1. Klicken **Sales Insight**.
+1. Klicks **Sales Insight**.
 
    ![](assets/six.png)
 
-1. Klicken **Feldsynchronisierung bearbeiten**.
+1. Klicks **Feldsynchronisierung bearbeiten**.
 
    ![](assets/seven.png)
 
-1. Wählen Sie die **Synchronisierung deaktivieren** Kontrollkästchen und klicken Sie auf **Speichern**.
+1. Wählen Sie die **Synchronisierung deaktivieren** aktivieren und auf **Speichern**.
 
    >[!NOTE]
    >
-   >Stellen Sie sicher, dass [Deaktivieren der globalen MS Dynamics-Synchronisierung](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/disable-global-ms-dynamics-sync.md) vor der Deaktivierung der Feldsynchronisierung.
+   >Stellen Sie sicher, dass [Deaktivieren Sie die globale MS Dynamics-Synchronisierung](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/disable-global-ms-dynamics-sync.md) vor der Deaktivierung der Feldsynchronisierung.
 
    ![](assets/eight.png)
 
 ## Die folgenden Schritte finden in Ihrer MS Dynamics-Instanz statt: {#the-following-steps-take-place-in-your-ms-dynamics-instance}
 
-1. Klicken **Erweiterte Einstellungen**.
+1. Klicks **Erweiterte Einstellungen**.
 
-1. Klicken **Lösungen**.
+1. Klicks **Lösungen**.
 
 1. Auswählen **Marketo Sales Insight** und klicken Sie auf das Löschsymbol.
 
-1. Wenn das Modal Lösung deinstallieren angezeigt wird, klicken Sie auf **OK**.
+1. Klicken Sie beim Anzeigen des Moduls Lösung deinstallieren auf **OK**.
 
-   Die vollständige Deinstallation der MS Dynamics-Lösung dauert in der Regel etwa 20 Minuten. Wenn Sie jedoch eine große MS Dynamics-Instanz haben, kann es etwas länger dauern.
+   Die vollständige Deinstallation der MS Dynamics-Lösung dauert in der Regel etwa 20 Minuten. Wenn Sie jedoch über eine große MS Dynamics-Instanz verfügen, kann es etwas länger dauern.
 
    >[!NOTE]
    >

@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # E-Mail-Skript-Token hinzufügen {#add-an-email-script-token-to-your-email}
 
-Nachdem Sie [E-Mail-Skript erstellt](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md), möchten Sie sie zu einer E-Mail hinzufügen, um sie in Aktion zu sehen. So geht es.
+Nachdem Sie [E-Mail-Skript erstellt haben](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md), möchten Sie sie zu einer E-Mail hinzufügen, um sie in Aktion zu sehen. So geht es.
 
 >[!NOTE]
 >
@@ -47,7 +47,7 @@ Nachdem Sie [E-Mail-Skript erstellt](/help/marketo/product-docs/email-marketing/
    >
    >Fügen Sie bei Bedarf einen Standardwert hinzu.
 
-1. Klicken **Speichern**.
+1. Klicks **Speichern**.
 
    ![](assets/six.png)
 

@@ -21,7 +21,7 @@ Sie möchten Ihre Seiten verwalten? Erstellen Sie dazu einfach eine Liste. Sie k
 
    ![](assets/image2014-9-18-13-3a2-3a49.png)
 
-1. Bewegen Sie den Mauszeiger über die Seite, die Sie einer Liste hinzufügen möchten. Klicken **[!UICONTROL Aus Liste hinzufügen/entfernen]**.
+1. Bewegen Sie den Mauszeiger über die Seite, die Sie einer Liste hinzufügen möchten. Klicks **[!UICONTROL Aus Liste hinzufügen/entfernen]**.
 
    ![](assets/image2014-9-18-13-3a2-3a53.png)
 
@@ -49,7 +49,7 @@ Ja! Ihre Seite sollte nun der Liste hinzugefügt werden.
 
    ![](assets/image2014-9-18-13-3a3-3a59.png)
 
-1. Bewegen Sie den Mauszeiger über die Seite, die Sie entfernen möchten. Klicken **[!UICONTROL Aus Liste hinzufügen/entfernen]**.
+1. Bewegen Sie den Mauszeiger über die Seite, die Sie entfernen möchten. Klicks **[!UICONTROL Aus Liste hinzufügen/entfernen]**.
 
    ![](assets/image2014-9-18-13-3a4-3a3.png)
 

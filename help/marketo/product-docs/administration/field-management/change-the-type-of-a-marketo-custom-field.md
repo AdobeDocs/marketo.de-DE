@@ -19,7 +19,7 @@ So ändern Sie den Feldtyp eines benutzerdefinierten Felds:
 
    ![](assets/change-the-type-of-a-marketo-custom-field-1.png)
 
-1. Klicken **[!UICONTROL Feldverwaltung]**.
+1. Klicks **[!UICONTROL Feldverwaltung]**.
 
    ![](assets/change-the-type-of-a-marketo-custom-field-2.png)
 
@@ -27,7 +27,7 @@ So ändern Sie den Feldtyp eines benutzerdefinierten Felds:
 
    ![](assets/change-the-type-of-a-marketo-custom-field-3.png)
 
-1. Im **[!UICONTROL Feldaktionen]** Dropdown, klicken Sie auf **[!UICONTROL Typ ändern]**.
+1. Im **[!UICONTROL Feldaktionen]** Dropdown, klicken Sie auf **[!UICONTROL Änderungstyp]**.
 
    ![](assets/change-the-type-of-a-marketo-custom-field-4.png)
 
@@ -39,7 +39,7 @@ So ändern Sie den Feldtyp eines benutzerdefinierten Felds:
 
    ![](assets/change-the-type-of-a-marketo-custom-field-5.png)
 
-1. Lesen Sie die Warnung und klicken Sie auf **[!UICONTROL Änderung]** zur Bestätigung.
+1. Lesen Sie die Warnung und klicken Sie dann auf **[!UICONTROL Änderung]** zur Bestätigung.
 
    ![](assets/change-the-type-of-a-marketo-custom-field-6.png)
 

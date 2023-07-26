@@ -16,7 +16,7 @@ Erfahren Sie mehr über die Dynamic Chat-Integration mit Sales Insight.
 
 >[!PREREQUISITES]
 >
->* Ihr Sales Insight SFDC-Paket muss version sein [1.9 oder höher](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}
+>* Ihr Sales Insight SFDC-Paket muss version sein. [1.9 oder höher](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}
 >
 >* Sie müssen über die [Dynamic Chat-Integration](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} einrichten
 
@@ -38,13 +38,13 @@ Gehen Sie wie folgt vor, um die Dynamic Chat-Integration zu aktivieren.
 
 Die folgenden Dynamic Chat-Aktivitäten können von Sales Insight-Benutzern genutzt werden.
 
-Interagiertes Dialogfeld: Angemeldet in Marketo und in Sales Insight ausgefüllt, wenn ein Besucher auf einen Chat klickt und mit dem Dialogfeld interagiert.
+Interagiertes Dialogfeld: Angemeldet und in Sales Insight ausgefüllt, wenn ein Besucher auf einen Chat klickt und mit dem Dialogfeld interagiert.
 
 * Dialogname
 * Seiten-URL
 * Status (Initiiert/Dropped/Abgeschlossen)
 
-Geplante Ernennung: Angemeldet in Marketo und in Sales Insight ausgefüllt, wenn ein Besucher einen Termin erfolgreich über den Chat-Bot plant.
+Geplante Ernennung: Wird in Marketo angemeldet und in Sales Insight ausgefüllt, wenn ein Besucher einen Termin erfolgreich über den Chatbot festlegt.
 
 * Dialogname
 * Agentin oder Agent
@@ -58,7 +58,7 @@ Erreichtes Ziel: Wird in Marketo angemeldet und in Sales Insight ausgefüllt, we
 * Zielname
 * Seiten-URL
 
-Interagiert mit Dokument: Wird in Marketo angemeldet und in Sales Insight ausgefüllt, wenn ein Besucher mit einem Dokument interagiert, das über den ChatBot freigegeben wurde.
+Interagiert mit Dokument: Wird in Marketo angemeldet und in Sales Insight ausgefüllt, wenn ein Besucher mit einem Dokument interagiert, das über den Chatbot freigegeben wurde.
 
 * Dialogname
 * Dokument

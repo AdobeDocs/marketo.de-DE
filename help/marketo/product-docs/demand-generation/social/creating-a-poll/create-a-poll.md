@@ -59,7 +59,7 @@ Engage Menschen mit einer Umfrage, in der sie wählen können, und mit ihren Fre
 
    ![](assets/image2014-9-18-18-3a19-3a50.png)
 
-1. Klicken **Genehmigen** und **Schließen.**
+1. Klicks **Genehmigen** und **Schließen.**
 
    ![](assets/image2014-9-18-18-3a19-3a57.png)
 

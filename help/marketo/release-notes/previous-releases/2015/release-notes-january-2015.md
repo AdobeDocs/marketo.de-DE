@@ -11,7 +11,7 @@ ht-degree: 4%
 
 ---
 
-# Versionshinweise: Januar 2015 {#release-notes-january}
+# Januar 2015 - Versionshinweise {#release-notes-january}
 
 Die folgenden Funktionen sind in der Version vom Januar 2015 enthalten. Informationen zur Verfügbarkeit von Funktionen finden Sie in Ihrer Marketo Edition. Stellen Sie nach der Veröffentlichung sicher, dass Sie zu den einzelnen Funktionen Links zu detaillierten Artikeln finden!
 
@@ -41,7 +41,7 @@ Greifen Sie jetzt in E-Mail-Skripten auf benutzerdefinierte Objekte zu, die mit 
 
 **Individuelles Remarketing für Google und Facebook**
 
-Remarketing zeigt Anzeigen für Personen, die Ihre Website besucht haben. Sie können Ihre Remarketing-Kampagnen jetzt personalisieren in [Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md) und [Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md) Verwendung von Daten aus der Echtzeit-Personalisierung. Remarketing für Zielgruppen aus verschiedenen Branchen, spezifische Kontolisten, Unternehmensgrößen oder Daten bekannter Leads.
+Remarketing zeigt Anzeigen für Personen an, die Ihre Website besucht haben. Sie können Ihre Remarketing-Kampagnen jetzt personalisieren in [Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md) und [Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md) Verwendung von Daten aus der Echtzeit-Personalisierung. Remarketing für Zielgruppen aus verschiedenen Branchen, spezifische Kontolisten, Unternehmensgrößen oder Daten bekannter Leads.
 
 [Namenskontenlisten-Modul](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)
 

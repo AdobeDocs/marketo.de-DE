@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Filtern eines Programmberichts nach Programm {#filter-a-program-report-by-program}
 
-Fokussieren Sie Ihre [Programmvollzugsbericht](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md) über spezifische Programme, um ihre Leistung zu vergleichen.
+Fokus [Programmvollzugsbericht](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md) über spezifische Programme, um ihre Leistung zu vergleichen.
 
 1. Navigieren Sie zu **Marketing** **Tätigkeiten** (oder **Analytics**).
 

@@ -35,7 +35,7 @@ Das Filtern eignet sich hervorragend, um Daten schnell einzugrenzen.
 
    ![](assets/filter-3.png)
 
-1. under **ArbeitnehmerInnen**, geben Sie &quot;0&quot;in die **Min** -Feld, &quot;10000&quot;im **Max** und klicken Sie auf **Anwenden**.
+1. under **Arbeitnehmerinnen**, geben Sie &quot;0&quot;in die **Min** -Feld, &quot;10000&quot;im **Max** und klicken Sie auf **Anwenden**.
 
    ![](assets/four-2.png)
 

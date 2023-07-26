@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Überschreiben von Personenbeschränkungen in einer Smart-Kampagne {#override-person-restrictions-in-a-smart-campaign}
 
-Mit Marketo können Sie die maximale Anzahl von Personen festlegen, die sich für eine intelligente Kampagne qualifizieren können. Dadurch wird verhindert, dass versehentlich eine E-Mail an Ihre gesamte Datenbank gesendet wird. Wenn Sie _override_ diese Grenze, so ist es.
+Mit Marketo können Sie die maximale Anzahl von Personen festlegen, die sich für eine intelligente Kampagne qualifizieren können. So können Sie verhindern, dass versehentlich eine E-Mail an Ihre gesamte Datenbank gesendet wird. Wenn Sie möchten _override_ diese Grenze, so ist es.
 
 >[!PREREQUISITES]
 >
->Stellen Sie sicher, dass [Personenbeschränkungen für intelligente Kampagnen aktivieren](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md) in Marketo Admin.
+>Stellen Sie sicher, [Personenbeschränkungen für intelligente Kampagnen aktivieren](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md) in Marketo Admin.
 
 1. Gehen Sie in Marketingaktivitäten zu Ihrer Smart-Kampagne und klicken Sie auf **Zeitplan**.
 
@@ -31,7 +31,7 @@ Mit Marketo können Sie die maximale Anzahl von Personen festlegen, die sich fü
    >
    >Die Standardbegrenzung ist die in Admin festgelegte.
 
-1. Geben Sie eine neue Begrenzung ein und klicken Sie auf **Speichern.**
+1. Geben Sie eine neue Begrenzung ein und klicken Sie auf **Speichern Sie.**
 
    ![](assets/override-person-restrictions-in-a-smart-campaign-3.png)
 

@@ -11,7 +11,7 @@ ht-degree: 8%
 
 ---
 
-# Schritt 1 von 3: Marketo-Felder zu Salesforce hinzufügen (Enterprise/Unlimited) {#step-of-add-marketo-fields-to-salesforce-enterprise-unlimited}
+# Schritt 1 von 3: Hinzufügen von Marketo-Feldern zu Salesforce (Enterprise/Unlimited) {#step-of-add-marketo-fields-to-salesforce-enterprise-unlimited}
 
 >[!PREREQUISITES]
 >
@@ -19,7 +19,7 @@ ht-degree: 8%
 
 Marketo verwendet eine Reihe von Feldern, um bestimmte Arten von Marketing-bezogenen Informationen zu erfassen. Wenn Sie diese Daten in Salesforce wünschen, folgen Sie bitte den unten stehenden Anweisungen.
 
-1. Erstellen Sie drei benutzerdefinierte Felder in Salesforce für Lead- und Kontaktobjekte: Bewertung, Akquiseprogramm und Akquisedatum.
+1. Erstellen Sie in Salesforce drei benutzerdefinierte Felder für die Lead- und Kontaktobjekte: Score, Akquiseprogramm und Akquisedatum.
 1. Ordnen Sie diese benutzerdefinierten Felder zwischen Leads und Kontakten zu, sodass die Werte bei der Konvertierung in Salesforce übernommen werden.
 1. Sie können bei Bedarf weitere Felder erstellen (siehe Tabelle unten).
 
@@ -35,19 +35,19 @@ Führen Sie die folgenden Schritte für jedes der drei benutzerdefinierten Felde
 
    ![](assets/image2016-5-23-13-3a15-3a21.png)
 
-1. Klicken Sie im Menü Erstellen auf der linken Seite auf **Anpassen** und wählen Sie **Leads**. Klicken **Felder**.
+1. Klicken Sie im Menü Erstellen auf der linken Seite auf **Anpassen** und wählen **Leads**. Klicks **Felder**.
 
    ![](assets/image2016-5-23-13-3a20-3a5.png)
 
-1. Klicken **Neu** im Abschnitt Benutzerdefinierte Felder und Beziehungen unten auf der Seite.
+1. Klicks **Neu** im Abschnitt Benutzerdefinierte Felder und Beziehungen unten auf der Seite.
 
    ![](assets/image2016-5-26-14-3a41-3a40.png)
 
-1. Wählen Sie den entsprechenden Feldtyp aus (für Punktzahl — Zahl). Akquiseprogramm — Text; Akquisedatum - Datum/Uhrzeit).
+1. Wählen Sie den entsprechenden Feldtyp aus (für Score - Zahl; Akquise-Programm - Text; Akquise-Datum - Datum/Uhrzeit).
 
    ![](assets/choose-field-type-2-hand.png)
 
-1. Klicken **Nächste**.
+1. Klicks **Nächste**.
 
    ![](assets/image2016-5-26-14-3a51-3a14.png)
 
@@ -106,7 +106,7 @@ Führen Sie die folgenden Schritte für jedes der drei benutzerdefinierten Felde
 >
 >Text- und Zahlenfelder erfordern eine Länge, Datums-/Uhrzeitfelder jedoch nicht. Eine Beschreibung ist optional.
 
-1. Klicken **Nächste**.
+1. Klicks **Nächste**.
 
    ![](assets/image2016-5-23-14-3a50-3a5.png)
 
@@ -125,7 +125,7 @@ Führen Sie die folgenden Schritte für jedes der drei benutzerdefinierten Felde
 
    ![](assets/image2016-5-26-15-3a14-3a45.png)
 
-1. Klicken **Speichern und Neu** , um die beiden anderen benutzerdefinierten Felder zu erstellen. Klicken **Speichern** mit Ihnen sind mit allen drei fertig.
+1. Klicks **Speichern und Neu** , um die beiden anderen benutzerdefinierten Felder zu erstellen. Klicks **Speichern** mit Ihnen sind mit allen drei fertig.
 
    ![](assets/image2016-5-23-15-3a8-3a43.png)
 
@@ -248,7 +248,7 @@ Ein benutzerdefiniertes Feld für das Lead-Objekt in Salesforce sollte einem Kon
 
    ![](assets/image2016-5-26-16-3a34-3a0.png)
 
-1. Geben Sie &quot;Felder&quot;in die Nav-Suche ein, ohne die Eingabetaste zu drücken. Felder werden unter verschiedenen Objekten angezeigt; Klicken **Felder** unter &quot;Leads&quot;.
+1. Geben Sie &quot;Felder&quot;in die Nav-Suche ein, ohne die Eingabetaste zu drücken. Felder werden unter verschiedenen Objekten angezeigt. Klicken Sie auf **Felder** unter &quot;Leads&quot;.
 
    ![](assets/image2016-5-26-16-3a36-3a32.png)
 
@@ -266,10 +266,10 @@ Ein benutzerdefiniertes Feld für das Lead-Objekt in Salesforce sollte einem Kon
 
 1. Wiederholen Sie die obigen Schritte für alle anderen Felder, die Sie erstellt haben.
 
-1. Klicken **Speichern** wenn Sie fertig sind.
+1. Klicks **Speichern** wenn Sie fertig sind.
 
    Einfach genug, nicht wahr?
 
 >[!MORELIKETHIS]
 >
->[Schritt 2 von 3: Salesforce-Benutzer für Marketo erstellen (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
+>[Schritt 2 von 3: Erstellen eines Salesforce-Benutzers für Marketo (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)

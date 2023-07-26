@@ -23,7 +23,7 @@ Mit dem Umsatzstatus-Modeler und dem Umsatz-Explorer erhalten Sie Einblicke in d
 
    ![](assets/image2015-4-29-16-3a36-3a2.png)
 
-1. Um einen neuen Bericht zu erstellen, klicken Sie auf **Datei** und wählen Sie **Neu** then **Bericht**.
+1. Um einen neuen Bericht zu erstellen, klicken Sie auf **Datei** und wählen **Neu** then **Bericht**.
 
    ![](assets/image2015-4-29-16-3a38-3a44.png)
 
@@ -31,15 +31,15 @@ Mit dem Umsatzstatus-Modeler und dem Umsatz-Explorer erhalten Sie Einblicke in d
 
    ![](assets/image2015-4-29-16-3a41-3a47.png)
 
-1. Es wird empfohlen, das **Staging**, **Monat** und **Endet Balance** -Felder, um Ihnen den Fortschritt von Unternehmen durch Ihr Modell nach Monat zu zeigen. Verwenden Sie Filter, um die gewünschten Monate auszuwählen.
+1. Es wird empfohlen, das **Staging**, **Monat**, und **Endet Balance** -Felder, um Ihnen den Fortschritt von Unternehmen durch Ihr Modell nach Monat zu zeigen. Verwenden Sie Filter, um die gewünschten Monate auszuwählen.
 
    ![](assets/image2015-4-29-17-3a16-3a1.png)
 
-1. Wenn Sie die Einrichtung Ihres Berichts abgeschlossen haben, klicken Sie mit der rechten Maustaste auf **Is Track Company** und wählen Sie **Filter**. Dies wird verwendet, um den Bericht auf Phasen zu beschränken, in denen **Tracking nach Konto** ausgewählt ist.
+1. Wenn Sie die Einrichtung Ihres Berichts abgeschlossen haben, klicken Sie mit der rechten Maustaste auf **Is Track Company** und wählen **Filter**. Dies wird verwendet, um den Bericht auf Phasen zu beschränken, in denen **Tracking nach Konto** ausgewählt ist.
 
    ![](assets/image2015-4-29-17-3a18-3a9.png)
 
-1. Wählen Sie im angezeigten Dialogfeld &quot;Ja&quot;aus und klicken Sie in der Mitte auf den Pfeil mit der rechten Maustaste. Dadurch werden nur die Bühnen gefiltert, bei denen &quot;Tracking by Account&quot;aktiviert ist. Klicken **OK** wenn Sie fertig sind.
+1. Wählen Sie im angezeigten Dialogfeld &quot;Ja&quot;aus und klicken Sie in der Mitte auf den Pfeil mit der rechten Maustaste. Dadurch werden nur die Bühnen gefiltert, bei denen &quot;Tracking by Account&quot;aktiviert ist. Klicks **OK** wenn Sie fertig sind.
 
    ![](assets/image2015-6-9-16-3a21-3a3.png)
 

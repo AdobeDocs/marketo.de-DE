@@ -30,7 +30,7 @@ Mit diesen Anmeldedaten wird Ihr Salesforce-Konto mit Ihrer Marketo-Instanz verb
 ## Personenbewertungseinstellungen {#person-score-settings}
 
 * **Sterne**: Sterne stellen den Gesamt-Lead-Wert im Vergleich zu anderen Leads dar.
-* **Flammen**: Flammen stellen die Dringlichkeit dar - wie sehr sich das Ergebnis eines Leads in letzter Zeit geändert hat.
+* **Flammen**: Flammen stellen die Dringlichkeit dar - wie stark sich das Ergebnis eines Leads in letzter Zeit geändert hat.
 
 Standardmäßig verwendet Marketo Sales Insight das Feld Lead-Score , um Sterne und Flammen zu berechnen. Wenn Sie jedoch ein anderes Feld auswählen möchten, sehen Sie wie:
 
@@ -38,7 +38,7 @@ Standardmäßig verwendet Marketo Sales Insight das Feld Lead-Score , um Sterne 
 
    ![](assets/four.png)
 
-1. Klicken Sie unter &quot;Lead-Scoring-Einstellungen&quot;auf **Bearbeiten**.
+1. Klicken Sie unter Lead-Scoring-Einstellungen auf **Bearbeiten**.
 
    ![](assets/five.png)
 
@@ -50,7 +50,7 @@ Standardmäßig verwendet Marketo Sales Insight das Feld Lead-Score , um Sterne 
 
    ![](assets/seven.png)
 
-1. Klicken **Speichern**. Die Neuberechnung von Sales Insight dauert einige Zeit. Sie können Ihr CRM später überprüfen, um die Sterne und Flammen zu sehen.
+1. Klicks **Speichern**. Die Neuberechnung von Sales Insight dauert einige Zeit. Sie können Ihr CRM später überprüfen, um die Sterne und Flammen zu sehen.
 
    ![](assets/eight.png)
 
@@ -87,7 +87,7 @@ Wenn diese Option aktiviert ist, können MSI-Benutzer ihren Lead-Feed in einem R
 
 Der Token-Ablauf wird im Feature Manager gesteuert. Um sie zu aktivieren/deaktivieren, wenden Sie sich an [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support). Wenn diese Option aktiviert ist, laufen alle Marketo-Token innerhalb von 10 Minuten ab. Wenn diese Option deaktiviert ist, laufen Marketo-Token nicht ab.
 
-Token, die vor der Aktivierung des Token-Ablaufs generiert wurden, haben keine Gültigkeitsdauer, sodass sie auch dann nicht ablaufen, wenn die Funktion derzeit aktiviert ist.
+Token, die vor der Aktivierung des Token-Ablaufs generiert wurden, haben keine Ablaufzeit, um sie zu validieren. Daher laufen sie auch dann nicht ab, wenn die Funktion derzeit aktiviert ist.
 
 Token, die nach der Aktivierung des Token-Ablaufs generiert wurden, haben eine Ablaufzeit von 10 Minuten, sodass sie auch nach der Deaktivierung der Funktion noch in 10 Minuten ablaufen.
 

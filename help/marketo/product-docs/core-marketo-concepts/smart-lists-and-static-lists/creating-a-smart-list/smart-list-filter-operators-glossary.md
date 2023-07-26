@@ -23,10 +23,10 @@ Im Folgenden finden Sie ein Glossar, in dem die einzelnen Operatoren beschrieben
 
 Wenn Sie einen Operator auswählen, ändert sich die rechte Seite dynamisch.
 
-| Benutzerin oder Benutzer | Rechts | Beschreibung |
+| Benutzerin oder Benutzer | Rechts Seite | Beschreibung |
 |---|---|---|
 | ist | Einzeldatum | genaue Datumsübereinstimmung |
-| ist nicht | Einzeldatum | Jegliches Datum außer dem angegebenen |
+| ist nicht | Einzeldatum | Jedes Datum außer dem angegebenen |
 | zwischen | Zwei Datumsfelder | Jedes Datum einschließlich und zwischen zwei angegebenen Daten |
 | in der Vergangenheit | Natürliche Spracheingabe&#42; | Siehe Diagramm unten |
 | in der Vergangenheit vor | Natürliche Spracheingabe&#42; | Siehe Diagramm unten |
@@ -36,7 +36,7 @@ Wenn Sie einen Operator auswählen, ändert sich die rechte Seite dynamisch.
 | nach | Einzeldatum | Alle Datensätze nach dem angegebenen Datum |
 | vor | Einzeldatum | Alle Datensätze vor dem angegebenen |
 | am oder nach | Einzeldatum | siehe &quot;after&quot;, aber inklusive |
-| am oder vor | Einzeldatum | siehe &quot;before&quot;, aber inklusive |
+| am oder vor | Einzeldatum | siehe &quot;before&quot;, aber inklusiv |
 | ist leer | Keine | Alle Datensätze ohne Datum |
 | ist nicht leer | Keine | Alle Datensätze mit beliebigem Datum |
 
@@ -56,7 +56,7 @@ Geben Sie einfach die Nummer und Einheit zusammen und es wird funktionieren!
 
 >[!CAUTION]
 >
->Wenn Sie eine intelligente Liste mit einem Datumsfeldfilter erstellen (z. B. Geburtsdatum, SFDC-Erstellungsdatum) und die Begrenzungen verwenden **before**, **auf oder vor** oder **in der Vergangenheit**, werden in die intelligente Liste auch Personen aufgenommen, die in dem Datumsfeld keinen Wert haben.
+>Wenn Sie eine intelligente Liste mit einem Datumsfeldfilter erstellen (z. B. Geburtsdatum, SFDC-Erstellungsdatum) und die Begrenzungen verwenden **before**, **auf oder vor** oder **früher**, werden in die intelligente Liste auch Personen aufgenommen, die in dem Datumsfeld keinen Wert haben.
 
 Verwenden Sie das folgende Diagramm, um die Unterschiede zwischen den Datumsoperatoren zu verstehen.
 
@@ -86,7 +86,7 @@ Verwenden Sie das folgende Diagramm, um die Unterschiede zwischen den Datumsoper
 | ist nicht | Alles außer exakter Übereinstimmung |
 | beginnt mit | Erste Buchstaben der Zeichenfolge stimmen überein |
 | beginnt nicht mit | Erste Buchstaben der Zeichenfolge stimmen NICHT überein |
-| enthält | Alle Buchstaben in der Zeichenfolge stimmen überein (Beispiel: Kalifornien, Glück, also) |
+| enthält | Alle Buchstaben zusammen in der Zeichenfolgenübereinstimmung (Beispiel: california, vermögen, also) |
 | enthält nicht | Keine Buchstaben zusammen in der Zeichenfolge stimmen überein. (Umkehrung von &quot;enthält&quot;) |
 | ist leer | Datensätze ohne Wert (NULL) |
 | ist nicht leer | Datensätze mit ANY-Wert |

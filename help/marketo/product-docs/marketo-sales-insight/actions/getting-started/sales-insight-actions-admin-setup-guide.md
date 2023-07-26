@@ -5,8 +5,8 @@ exl-id: 339d518d-445b-4634-ab81-92c9d5541927
 feature: Sales Insight Actions
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '660'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -66,7 +66,7 @@ ht-degree: 1%
    >
    >Wenn auf der Karte &quot;Integrationsinformationen&quot;keine Client-ID und kein Client-Geheimnis angezeigt werden, aktivieren Sie Ihre Aktionsinstanz, indem Sie den ersten Benutzer einladen. Daraufhin werden die Client-ID und das Client-Geheimnis angezeigt.
 
-1. Klicken **Sales Insight**, dann **Aktionskonfiguration**. Wählen Sie aus einer Liste von Marketo-Administratoren aus, die Sie einladen möchten, und klicken Sie auf **Einladung senden**.
+1. Klicks **Sales Insight**, dann **Aktionskonfiguration**. Wählen Sie aus einer Liste von Marketo-Administratoren aus, die Sie einladen möchten, und klicken Sie auf **Einladung senden**.
 
    ![](assets/msi-actions-admin-guide-2.png)
 
@@ -90,7 +90,7 @@ Der Benutzer erhält eine E-Mail mit Schritten, um Zugriff auf das Konto zu erha
 
    ![](assets/msi-actions-admin-guide-5.png)
 
-1. Klicken **OK**.
+1. Klicks **OK**.
 
    ![](assets/msi-actions-admin-guide-6.png)
 
@@ -106,13 +106,13 @@ Wenn Sie bereits bei Salesforce angemeldet sind, werden Sie angemeldet sein. Ist
 
    ![](assets/msi-actions-admin-guide-8.png)
 
-1. Klicken **connect**. Ihr Konto wird dann verbunden.
+1. Klicks **connect**. Ihr Konto wird dann verbunden.
 
    ![](assets/msi-actions-admin-guide-9.png)
 
 >[!NOTE]
 >
->Wenn keine Verbindung hergestellt wird, kopieren Sie die Anmeldeinformationen aus der Registerkarte &quot;Aktionskonfiguration&quot;von Marketo Sales Insight und fügen Sie sie auf der Registerkarte &quot;Einrichtung&quot;ein.
+>Wenn keine Verbindung hergestellt wird, kopieren Sie die Anmeldeinformationen aus der Registerkarte &quot;Aktionskonfiguration&quot;von Marketo Sales Insight und fügen Sie sie auf der Registerkarte &quot;Einrichten&quot;ein.
 
 ## Datensynchronisation starten {#initiate-data-sync}
 
@@ -126,7 +126,7 @@ Die Datenzusammenführungsfeldsynchronisierung für Sales Insight-Aktionen ermö
 
    ![](assets/msi-actions-admin-guide-10.png)
 
-1. Klicken **Sales Insight**.
+1. Klicks **Sales Insight**.
 
    ![](assets/msi-actions-admin-guide-11.png)
 
@@ -134,7 +134,7 @@ Die Datenzusammenführungsfeldsynchronisierung für Sales Insight-Aktionen ermö
 
    ![](assets/msi-actions-admin-guide-12.png)
 
-1. Sie sehen eine Vorschau der zu synchronisierenden Felder. Klicken **Synchronisierung starten**.
+1. Sie sehen eine Vorschau der zu synchronisierenden Felder. Klicks **Synchronisierung starten**.
 
    ![](assets/msi-actions-admin-guide-13.png)
 
@@ -142,7 +142,7 @@ Personendatensätze, die in Marketo und Salesforce vorhanden sind, werden mit Ih
 
 >[!NOTE]
 >
->Weitere Informationen dazu, wie Personen und Aktivitätsdaten zwischen Sales Insight Actions, Marketo und Salesforce synchronisiert werden, finden Sie unter [Hier klicken](/help/marketo/product-docs/marketo-sales-insight/actions/admin/sync-sales-action-data-with-marketo-and-salesforce.md){target="_blank"}.
+>Weitere Informationen dazu, wie Personen und Aktivitätsdaten zwischen Sales Insight Actions, Marketo und Salesforce synchronisiert werden, finden Sie unter [Klicken Sie hier](/help/marketo/product-docs/marketo-sales-insight/actions/admin/sync-sales-action-data-with-marketo-and-salesforce.md){target="_blank"}.
 
 ## Einladen einzelner Benutzer zu MSI-Aktionen {#invite-individual-users-to-msi-actions}
 
@@ -150,11 +150,11 @@ Personendatensätze, die in Marketo und Salesforce vorhanden sind, werden mit Ih
 
    ![](assets/msi-actions-admin-guide-14.png)
 
-1. Wählen Sie unter &quot;Admin Settings&quot;die Option **Benutzerverwaltung**.
+1. Wählen Sie unter Admin Settings die Option **Benutzerverwaltung**.
 
    ![](assets/msi-actions-admin-guide-15.png)
 
-1. Klicken **Aktionen** und wählen Sie **Benutzer einladen**.
+1. Klicks **Aktionen** und wählen **Benutzer einladen**.
 
    ![](assets/msi-actions-admin-guide-16.png)
 
@@ -174,11 +174,11 @@ Sie erhalten eine Bestätigungsnachricht.
 
    ![](assets/msi-actions-admin-guide-18.png)
 
-1. Wählen Sie unter &quot;Admin Settings&quot;die Option **Benutzerverwaltung**.
+1. Wählen Sie unter Admin Settings die Option **Benutzerverwaltung**.
 
    ![](assets/msi-actions-admin-guide-19.png)
 
-1. Klicken **Aktionen** und wählen Sie **Benutzer über CSV einladen**.
+1. Klicks **Aktionen** und wählen **Benutzer über CSV einladen**.
 
    ![](assets/msi-actions-admin-guide-20.png)
 

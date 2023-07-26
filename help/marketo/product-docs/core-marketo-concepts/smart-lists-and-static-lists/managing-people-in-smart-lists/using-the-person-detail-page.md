@@ -88,7 +88,7 @@ Viele Felder können bearbeitet werden. Um die Informationen einer Person zu akt
 | Marketo Social – Twitter-Foto-URL | Marketo Social – Twitter-Profil-URL | Marketo Social – Twitter-Reichweite | Marketo Social – bezeichnete Registrierungen bei Twitter | Marketo Social – bezeichnete Besuche bei Twitter |
 | Zweiter Vorname | Mobiltelefonnummer | Anzahl Mitarbeiter | Telefonnummer | Postleitzahl |
 | Priorität | Relative Bewertung | Rolle | Anrede | SIC-Code |
-| Seite | Zustand | Abgemeldet | Ursache für Abbestellung | Aktualisiert am |
+| Seite | Status | Abgemeldet | Ursache für Abbestellung | Aktualisiert am |
 | Dringlichkeit | Website |  |  |  |
 
 >[!NOTE]

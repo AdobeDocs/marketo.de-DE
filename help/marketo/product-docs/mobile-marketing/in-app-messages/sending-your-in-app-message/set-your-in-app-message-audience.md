@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Der erste Schritt besteht darin, zu entscheiden, wer Ihre In-App-Nachricht erhalten soll. Sie müssen Ihre Smart-Liste einrichten.
 
-1. Klicken **Smart List bearbeiten**.
+1. Klicks **Smart List bearbeiten**.
 
    ![](assets/image2016-5-9-15-3a15-3a7.png)
 
@@ -53,6 +53,6 @@ Der erste Schritt besteht darin, zu entscheiden, wer Ihre In-App-Nachricht erhal
 
    ![](assets/image2016-5-9-15-3a32-3a6.png)
 
-Gut gemacht! Du hast dein Publikum eingestellt. Sie haben die blaue Leiste und das grüne Häkchen erhalten.
+Gut gemacht! Du hast dein Publikum eingestellt. Sie haben die blaue Leiste und das grüne Häkchen verdient.
 
 Zeit bis [In-App-Nachricht auswählen](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/select-your-in-app-message.md)!

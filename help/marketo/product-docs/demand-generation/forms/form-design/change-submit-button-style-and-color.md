@@ -43,19 +43,19 @@ Wenn Sie die Standard-Senden-Schaltfläche stumpf finden oder etwas raffinierter
    >
    >Sie können den Farbcode auch manuell eingeben.
 
-1. Klicken **Auswählen**.
+1. Klicks **Auswählen**.
 
    ![](assets/image2014-9-15-16-3a56-3a37.png)
 
-1. Klicken **Beenden**.
+1. Klicks **Beenden**.
 
    ![](assets/image2014-9-15-16-3a56-3a52.png)
 
-1. Klicken **Genehmigen und schließen**.
+1. Klicks **Genehmigen und schließen**.
 
    ![](assets/image2014-9-15-16-3a57-3a10.png)
 
-   Da bist du!
+   Los geht&#39;s!
 
    ![](assets/image2014-9-15-16-3a57-3a17.png)
 

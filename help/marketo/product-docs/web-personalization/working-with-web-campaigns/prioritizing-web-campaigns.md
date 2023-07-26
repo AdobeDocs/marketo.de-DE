@@ -22,7 +22,7 @@ Priorisieren Sie Ihre Webkampagnen, wenn sich zwei oder mehr Webkampagnen übers
 >Eine Webkampagnenüberschneidung tritt auf, wenn:
 >
 >* Zwei oder mehr Widgets und/oder Dialogkampagnen reagieren gleichzeitig auf derselben Seite
->* Zwei oder mehr In Bereichen mit derselben Zone-ID reagieren gleichzeitig auf derselben Web-Seite
+>* Zwei oder mehr In Bereichen mit derselben Zone-ID reagieren gleichzeitig auf derselben Webseite
 >
 >Eine In-Zone-Kampagne und eine (Widget- oder Dialogfeldkampagne) können auf dieselbe Seite reagieren.
 

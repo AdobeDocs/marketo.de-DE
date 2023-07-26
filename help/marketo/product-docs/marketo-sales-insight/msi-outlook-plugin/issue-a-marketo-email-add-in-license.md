@@ -30,7 +30,7 @@ Jeder, der das Marketo Email Outlook Add-In verwenden möchte, muss zunächst ei
 
 ![](assets/image2015-7-20-17-3a48-3a17.png)
 
-1. Unter dem **E-Mail-Add-in** Registerkarte, klicken Sie auf **Ausstelllizenz**.
+1. Unter dem **E-Mail-Add-in** Registerkarte, klicken **Ausstelllizenz**.
 
    ![](assets/image2016-7-22-10-3a20-3a15.png)
 

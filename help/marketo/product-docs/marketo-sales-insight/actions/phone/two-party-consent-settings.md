@@ -30,7 +30,7 @@ Um die Einhaltung der US-amerikanischen Zustimmungsgesetze bei der Aufzeichnung 
 
    ![](assets/two-party-consent-settings-3.png)
 
-1. Klicken **Importaufzeichnung**.
+1. Klicks **Importaufzeichnung**.
 
    ![](assets/two-party-consent-settings-4.png)
 
@@ -38,11 +38,11 @@ Um die Einhaltung der US-amerikanischen Zustimmungsgesetze bei der Aufzeichnung 
    >
    >Nur Wav- und MP3-Dateien werden unterstützt. Eine Datei, die länger als 30 Sekunden dauert, kann nicht hochgeladen werden.
 
-1. Wählen Sie die gewünschten Audiodateien von Ihrer Festplatte aus.
+1. Wählen Sie die gewünschte(n) Audiodatei(en) von Ihrer Festplatte aus.
 
    ![](assets/two-party-consent-settings-5.png)
 
-1. Nachdem der Upload abgeschlossen ist, wählen Sie die Daten (drei Punkte) im Dateimanager aus und klicken Sie auf **Als Einverständniserklärung auswählen**. Klicken **OK** wann geschehen.
+1. Nachdem der Upload abgeschlossen ist, wählen Sie die Daten (drei Punkte) im Dateimanager aus und klicken Sie auf **Als Einverständniserklärung auswählen**. Klicks **OK** wann geschehen.
 
    ![](assets/two-party-consent-settings-6.png)
 

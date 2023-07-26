@@ -19,7 +19,7 @@ Vor der Veröffentlichung können Sie das Formular in dieser schnellen und einfa
 
    ![](assets/login-marketing-activities-6.png)
 
-1. Suchen und wählen Sie das Formular aus.
+1. Wählen Sie das Formular aus.
 
    ![](assets/image2014-9-15-17-3a45-3a51.png)
 
@@ -31,7 +31,7 @@ Vor der Veröffentlichung können Sie das Formular in dieser schnellen und einfa
 
    ![](assets/image2014-9-15-17-3a46-3a17.png)
 
-1. Klicken **Entwurf bearbeiten** zurück zu **edit** -Modus.
+1. Klicks **Entwurf bearbeiten** zurück zu **edit** -Modus.
 
    ![](assets/image2014-9-15-17-3a46-3a37.png)
 

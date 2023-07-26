@@ -39,11 +39,11 @@ Ermöglichen es Besuchern, das Formular über ihr soziales Netzwerk auszufüllen
    >
    >Sehen Sie sich an, was [Daten, die Marketo erfasst](/help/marketo/product-docs/demand-generation/social/social-functions/manage-social-profile-data.md) wenn Benutzer die Social-Schaltflächen verwenden.
 
-1. Klicken **Beenden**.
+1. Klicks **Beenden**.
 
    ![](assets/image2014-9-15-16-3a36-3a26.png)
 
-1. Klicken **Genehmigen und schließen**.
+1. Klicks **Genehmigen und schließen**.
 
    ![](assets/image2014-9-15-16-3a36-3a33.png)
 

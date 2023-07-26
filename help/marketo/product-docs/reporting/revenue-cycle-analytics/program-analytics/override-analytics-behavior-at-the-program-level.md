@@ -23,7 +23,7 @@ Sie können die [Analytics-Verhalten auf Admin-Ebene bei Kanälen](/help/marketo
 
    ![](assets/image2014-9-24-11-3a40-3a57.png)
 
-1. Unter dem **Einrichtung** Registerkarte &quot;Analytics-Verhalten&quot;auf die Arbeitsfläche ziehen.
+1. Unter dem **Einrichtung** Registerkarte Analytics-Verhalten auf die Arbeitsfläche ziehen.
 
    ![](assets/image2014-9-24-11-3a41-3a2.png)
 
@@ -38,15 +38,15 @@ Sie können die [Analytics-Verhalten auf Admin-Ebene bei Kanälen](/help/marketo
 
    >[!NOTE]
    >
-   >Das Standardverhalten (wenn diese Einstellung nicht angewendet wird) ist, dass das Programm in Analytics enthalten ist. **NUR bei mindestens einem Zeitraumkosten**, auch wenn einer mit 0 zugewiesenem Dollar.
+   >Das Standardverhalten (wenn diese Einstellung nicht angewendet wird) ist, dass das Programm in Analytics enthalten ist. **NUR bei mindestens einem Zeitraumkosten**, auch mit 0 zugewiesenem Dollar.
 
    ![](assets/image2014-9-24-11-3a42-3a0.png)
 
-1. Klicken **Speichern**.
+1. Klicks **Speichern**.
 
    ![](assets/image2014-9-24-11-3a42-3a6.png)
 
-Gut gemacht! Jetzt wissen Sie, wie Sie das Analytics-Verhalten auf Programmebene überschreiben können.
+Schön gemacht! Jetzt wissen Sie, wie Sie das Analyseverhalten auf Programmebene überschreiben können.
 
 >[!NOTE]
 >

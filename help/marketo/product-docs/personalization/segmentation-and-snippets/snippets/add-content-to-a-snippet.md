@@ -27,7 +27,7 @@ Sie können einem Snippet Token, Bilder, Dateien oder Rich-Text hinzufügen.
 
    ![](assets/designstudio-2.png)
 
-1. Wählen Sie Ihre **Snippet** und klicken Sie auf **Entwurf bearbeiten**.
+1. Wählen Sie **Snippet** und klicken **Entwurf bearbeiten**.
 
    ![](assets/image2014-9-16-9-3a34-3a58.png)
 
@@ -39,7 +39,7 @@ Sie können einem Snippet drei Inhaltstypen hinzufügen.
 
    ![](assets/image2014-9-16-9-3a35-3a8.png)
 
-1. Eingabe **Token** und klicken Sie auf **Einfügen**.
+1. Eingabe **Token** und klicken **Einfügen**.
 
    ![](assets/image2014-9-16-9-3a35-3a16.png)
 
@@ -75,7 +75,7 @@ Sie können einem Snippet drei Inhaltstypen hinzufügen.
 
    ![](assets/image2014-9-16-9-3a35-3a51.png)
 
-1. Klicken **Kopieren aus HTML**.
+1. Klicks **Kopieren aus HTML**.
 
    ![](assets/image2014-9-16-9-3a35-3a59.png)
 

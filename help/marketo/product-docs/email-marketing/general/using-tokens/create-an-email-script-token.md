@@ -49,16 +49,16 @@ Für fortgeschrittene Entwickler können Sie [Velocity-Skripte](https://velocity
 
 1. Schreiben Sie Ihr Skript in Velocity. Im Folgenden finden Sie einige nützliche Ressourcen:
 
-   * [Dokumentation zur E-Mail-Skripterstellung für Marketo-Entwickler](https://developers.marketo.com/email-scripting/)
+   * [Dokumentation zu Marketo Developers Email Scripting](https://developers.marketo.com/email-scripting/)
    * [Velocity-Benutzerhandbuch](https://velocity.apache.org/engine/devel/user-guide.html)
    * [Velocity-Referenzhandbuch](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
    * [Velocity Tools Javadoc](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
 
-1. Nachdem das Skript abgeschlossen ist, klicken Sie auf **Speichern**.
+1. Klicken Sie nach Abschluss des Skripts auf **Speichern**.
 
    ![](assets/image2014-9-17-22-3a23-3a1.png)
 
-1. Klicken **Speichern** einmalig.
+1. Klicks **Speichern** einmalig.
 
    ![](assets/image2014-9-17-22-3a23-3a13.png)
 

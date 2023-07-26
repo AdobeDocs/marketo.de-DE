@@ -31,7 +31,7 @@ Wenn Sie eine alte Smart-Kampagne haben, die Sie nicht mehr benötigen, können 
    >
    >Um die Verarbeitung einer aktiven Smart-Kampagne abzubrechen, ohne sie vollständig zu löschen, erfahren Sie, wie Sie [Abbrechen einer Smart-Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md).
 
-1. Klicken **Löschen** zur Bestätigung.
+1. Klicks **Löschen** zur Bestätigung.
 
    ![](assets/campaign-actions-delete-a-smart-campaign-3.png)
 

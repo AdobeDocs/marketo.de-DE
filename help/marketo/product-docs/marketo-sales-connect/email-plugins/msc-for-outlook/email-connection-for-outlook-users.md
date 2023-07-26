@@ -35,11 +35,11 @@ Die Verbindung mit Outlook bedeutet, dass Sie Antwort-Tracking, Zugriff auf den 
 
    ![](assets/three.png)
 
-1. Klicken **Erste Schritte**.
+1. Klicks **Erste Schritte**.
 
    ![](assets/four.png)
 
-1. Auswählen **Ich verwende Outlook zum Senden von E-Mails** und klicken Sie auf **Nächste**.
+1. Auswählen **Ich verwende Outlook zum Senden von E-Mails** und klicken **Nächste**.
 
    ![](assets/five-a.png)
 
@@ -64,15 +64,15 @@ Die Verbindung mit Outlook bedeutet, dass Sie Antwort-Tracking, Zugriff auf den 
    >
    >Marketo unterstützt derzeit keine Exchange Hybrid-Konten.
 
-1. Klicken **OK**.
+1. Klicks **OK**.
 
    ![](assets/seven-a.png)
 
-1. Wenn Sie nicht bei Outlook angemeldet sind, geben Sie Ihre Anmeldedaten ein und klicken Sie auf **Nächste**. Wenn Sie dies tun, wählen Sie das Konto aus, mit dem Sie eine Verbindung herstellen möchten, und klicken Sie auf **Nächste**. In diesem Beispiel sind wir bereits angemeldet.
+1. Wenn Sie nicht bei Outlook angemeldet sind, geben Sie Ihre Anmeldedaten ein und klicken Sie auf **Nächste**. Wählen Sie das Konto, mit dem Sie eine Verbindung herstellen möchten, und klicken Sie auf **Nächste**. In diesem Beispiel sind wir bereits angemeldet.
 
    ![](assets/eight-a.png)
 
-1. Klicken **Accept**.
+1. Klicks **Accept**.
 
    ![](assets/nine-a.png)
 
@@ -80,9 +80,9 @@ Die Verbindung mit Outlook bedeutet, dass Sie Antwort-Tracking, Zugriff auf den 
 
    >[!NOTE]
    >
-   >Outlook Online (Office365) erzwingt eigene Versandbeschränkungen. [Weitere Informationen finden Sie hier](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits).
+   >Outlook Online (Office365) erzwingt eigene Versandbeschränkungen. [Weitere Informationen hier](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits).
 
-## Herstellen einer Verbindung zu Exchange On-Premise {#connecting-to-exchange-on-premise}
+## Verbindung zu Exchange On-Premise herstellen {#connecting-to-exchange-on-premise}
 
 Eine Verbindung zu Exchange On-Premise bedeutet, dass Sie Antwort-Tracking, Zugriff auf den Kanal Outlook-Versand, die Möglichkeit zur Planung von E-Mails in Outlook und die Einhaltung von Richtlinien erhalten.
 
@@ -98,11 +98,11 @@ Eine Verbindung zu Exchange On-Premise bedeutet, dass Sie Antwort-Tracking, Zugr
 
    ![](assets/three.png)
 
-1. Klicken **Erste Schritte**.
+1. Klicks **Erste Schritte**.
 
    ![](assets/four.png)
 
-1. Auswählen **Ich verwende Outlook zum Senden von E-Mails** und klicken Sie auf **Nächste**.
+1. Auswählen **Ich verwende Outlook zum Senden von E-Mails** und klicken **Nächste**.
 
    ![](assets/five-a.png)
 

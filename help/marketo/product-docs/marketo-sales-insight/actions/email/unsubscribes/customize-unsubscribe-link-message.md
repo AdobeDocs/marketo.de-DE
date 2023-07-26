@@ -42,6 +42,6 @@ Wir haben es Teams immer ermöglicht, ihre Abmelde-Link-Nachrichten anzupassen, 
 
    ![](assets/customize-unsubscribe-link-message-5.png)
 
-1. Klicken **Speichern** am unteren Rand, um Ihre Änderungen zu speichern.
+1. Klicks **Speichern** unten, um Ihre Änderungen zu speichern.
 
    ![](assets/customize-unsubscribe-link-message-6.png)

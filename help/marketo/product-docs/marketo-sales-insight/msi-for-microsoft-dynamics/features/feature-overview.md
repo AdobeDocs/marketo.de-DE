@@ -30,7 +30,7 @@ Die folgenden Funktionen sind in der neuen MSI MSD-Lösung verfügbar.
 * Priorität
 * Dringlichkeit
 
-## Marketo Sales Insight-Aktionsaufruf-Schaltfläche im Lead-Layout  {#marketo-sales-insight-call-to-action-button-in-lead-layout}
+## Marketo Sales Insight - Aktionsschaltfläche im Lead-Layout  {#marketo-sales-insight-call-to-action-button-in-lead-layout}
 
 * Zu Marketo-Kampagne hinzufügen
 * Marketo-E-Mail senden

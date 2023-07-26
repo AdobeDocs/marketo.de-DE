@@ -12,13 +12,13 @@ ht-degree: 0%
 
 # Erstellen und Zuweisen von Erinnerungsaufgaben {#create-and-assign-reminder-tasks}
 
-Erinnerungsaufgaben eignen sich hervorragend, um auf dem Laufenden zu bleiben und eine potenzielle Interaktion zu erzielen. Gehen Sie wie folgt vor, um eine Aufgabe zu erstellen.
+Erinnerungsaufgaben eignen sich hervorragend, um Ihren Kunden auf dem Laufenden zu bleiben und eine potenzielle Interaktion zu erzielen. Gehen Sie wie folgt vor, um eine Aufgabe zu erstellen.
 
-1. Klicken **Command Center**.
+1. Klicks **Command Center**.
 
    ![](assets/create-and-assign-reminder-tasks-1.png)
 
-1. Aufgaben werden standardmäßig geöffnet. Klicken **Aufgabe hinzufügen**.
+1. Aufgaben werden standardmäßig geöffnet. Klicks **Aufgabe hinzufügen**.
 
    ![](assets/create-and-assign-reminder-tasks-2.png)
 
@@ -46,6 +46,6 @@ Erinnerungsaufgaben eignen sich hervorragend, um auf dem Laufenden zu bleiben un
 
    ![](assets/create-and-assign-reminder-tasks-8.png)
 
-1. Fügen Sie Details zu der Aufgabe hinzu, die Sie beim Abschließen der Aufgabe benötigen, z. B. Anruferbeschreibungen, eine InMail-Nachrichtenvorlage oder Anmerkungen zur Person. Klicken **Erstellen** wann geschehen.
+1. Fügen Sie Details zu der Aufgabe hinzu, die Sie beim Abschließen der Aufgabe benötigen, z. B. Anruferbeschreibungen, eine InMail-Nachrichtenvorlage oder Anmerkungen zur Person. Klicks **Erstellen** wann geschehen.
 
    ![](assets/create-and-assign-reminder-tasks-9.png)

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359965
-description: Berichtstyp - Übersicht über Marketo-Dokumente - Produktdokumentation
+description: Berichtstyp - Übersicht über Marketo - Produktdokumentation
 title: Berichtstyp - Übersicht
 exl-id: 983e920d-bba7-4c61-8a0f-6611808dd5c5
 feature: Reporting
@@ -35,7 +35,7 @@ Wenn Sie [einen Bericht in einem Programm erstellen](/help/marketo/product-docs/
   </tr> 
   <tr> 
    <td><strong>  <a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md">E-Mail-Leistung</a>  </strong></td> 
-   <td>Überprüfen Sie die Interaktionen mit Ihren E-Mails: zugestellt oder nicht gesendet, geöffnet, angeklickt, abgemeldet usw.</td> 
+   <td>Überprüfen Sie die Interaktionen mit Ihren E-Mails: zugestellt oder nicht zugestellt, geöffnet, angeklickt, abgemeldet usw.</td> 
   </tr> 
   <tr> 
    <td><strong>  <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md">Sales Insight-E-Mail-Leistung</a>  </strong></td> 
@@ -47,7 +47,7 @@ Wenn Sie [einen Bericht in einem Programm erstellen](/help/marketo/product-docs/
   </tr> 
   <tr> 
    <td><strong>  <a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md">Bericht "Personen nach Umsatzstatus"</a>  </strong></td> 
-   <td>Grundlegende Berichterstellung für Ihre <a href="https://docs.marketo.com/display/docs/revenue+cycle+analytics">Umsatzmodell</a>. Siehe <a href="https://docs.marketo.com/display/docs/revenue+cycle+analytics">Umsatzzyklusanalysen</a> für eine tiefergehende Berichterstellung.</td> 
+   <td>Basisberichte für Ihre <a href="https://docs.marketo.com/display/docs/revenue+cycle+analytics">Umsatzmodell</a>. Siehe <a href="https://docs.marketo.com/display/docs/revenue+cycle+analytics">Umsatzzyklusanalysen</a> für eine tiefergehende Berichterstellung.</td> 
   </tr> 
   <tr> 
    <td><strong>  <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md">Landing Page-Leistung</a>  </strong></td> 

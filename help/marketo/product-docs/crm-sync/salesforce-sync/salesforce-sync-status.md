@@ -5,8 +5,8 @@ exl-id: 61197808-7812-4e0a-8ac6-4a60af0f7979
 feature: Salesforce Integration
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '552'
-ht-degree: 14%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -22,7 +22,7 @@ Die Synchronisierungsschritte spiegeln die Push- oder Pull-Vorgänge jedes Objek
 
 ## Synchronisierungsstatus anzeigen {#view-sync-status}
 
-1. Klicken **Admin**.
+1. Klicks **Admin**.
 
    ![](assets/salesforce-sync-status-1.png)
 
@@ -30,7 +30,7 @@ Die Synchronisierungsschritte spiegeln die Push- oder Pull-Vorgänge jedes Objek
 
    ![](assets/salesforce-sync-status-2.png)
 
-Standardmäßig werden die Statistiken nach den letzten Startvorgängen sortiert. Sie können die Sortierung nach &quot;Gestartet am&quot;oder &quot;Beendet am&quot;- vom neuesten zum ältesten - vornehmen, indem Sie auf das Sortiersymbol klicken.
+Standardmäßig werden die Statistiken nach den letzten Startvorgängen sortiert. Sie können die Sortierung nach &quot;Gestartet am&quot;oder &quot;Beendet am&quot;- vom letzten zum ältesten - vornehmen, indem Sie auf das Sortiersymbol klicken.
 
 ![](assets/salesforce-sync-status-3.png)
 
@@ -44,7 +44,7 @@ Standardmäßig werden die Statistiken nach den letzten Startvorgängen sortiert
 
    ![](assets/salesforce-sync-status-5.png)
 
-1. Klicken **Anwenden**.
+1. Klicks **Anwenden**.
 
    ![](assets/salesforce-sync-status-6.png)
 
@@ -156,7 +156,7 @@ Standardmäßig werden die Statistiken nach den letzten Startvorgängen sortiert
    <td colspan="1">Person (Lead)</td> 
   </tr>  
   <tr> 
-   <td colspan="1">Chance</td> 
+   <td colspan="1">Opportunity</td> 
   </tr>  
   <tr> 
    <td colspan="1">Gelegenheit Kontaktrolle</td> 

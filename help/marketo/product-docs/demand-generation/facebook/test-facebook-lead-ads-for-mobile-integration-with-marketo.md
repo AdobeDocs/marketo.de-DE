@@ -21,11 +21,11 @@ Nachdem Sie Ihre Lead-Anzeige erstellt haben, sollten Sie sie testen!
 
 1. Wählen Sie im Power Editor von Facebook eine Kampagne, eine Anzeige aus und klicken Sie auf **Bearbeiten**.
 
-1. under **Links**, klicken Sie auf die **Anzeigen in mobilen Apps** Link.
+1. under **Links**, klicken Sie auf die **Anzeigen in mobilen Apps** -Link.
 
    ![](assets/image2016-5-13-15-3a2-3a38.png)
 
-1. Eine neue Benachrichtigung wird an das Facebook-Konto gesendet, auf das Sie mit dem autorisierten Konto auf dem Mobilgerät zugreifen können. Klicken **OK**.
+1. Eine neue Benachrichtigung wird an das Facebook-Konto gesendet, auf das Sie mit dem autorisierten Konto auf dem Mobilgerät zugreifen können. Klicks **OK**.
 
    ![](assets/image2016-3-11-8-3a35-3a7.png)
 

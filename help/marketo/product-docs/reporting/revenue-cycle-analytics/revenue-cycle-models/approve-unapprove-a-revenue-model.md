@@ -13,7 +13,7 @@ ht-degree: 1%
 
 # Genehmigen/Aufheben der Genehmigung eines Umsatzmodells {#approve-unapprove-a-revenue-model}
 
-Sie dürfen immer nur ein genehmigtes Modell haben.
+Sie dürfen zu jedem Zeitpunkt nur ein genehmigtes Modell haben.
 
 >[!CAUTION]
 >
@@ -33,7 +33,7 @@ Sie dürfen immer nur ein genehmigtes Modell haben.
 
    ![](assets/image2015-4-28-14-3a6-3a3.png)
 
-1. Es wird ein Dialogfeld angezeigt, in dem Sie Ihre Auswahl bestätigen können. Klicken **Genehmigen**.
+1. Es wird ein Dialogfeld angezeigt, in dem Sie Ihre Auswahl bestätigen können. Klicks **Genehmigen**.
 
    ![](assets/image2015-4-28-14-3a6-3a49.png)
 

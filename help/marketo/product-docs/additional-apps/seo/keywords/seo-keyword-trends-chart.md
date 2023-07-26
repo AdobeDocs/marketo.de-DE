@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # SEO - Übersicht über Suchbegriffstrends {#seo-keyword-trends-chart}
 
-Es ist wichtig zu überwachen, wie Ihr Suchbegriff [SERP-Ränge](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) Trend im Zeitverlauf. Prüfen Sie diese coole Grafik, um den Fortschritt zu überwachen.
+Es ist wichtig zu überwachen, wie Ihr Suchbegriff [SERP-Ränge](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) Trend im Zeitverlauf. Sehen Sie sich diese coole Grafik an, um den Fortschritt zu überwachen.
 
 1. Navigieren Sie zu **[!UICONTROL Schlüsselwörter]** Abschnitt.
 

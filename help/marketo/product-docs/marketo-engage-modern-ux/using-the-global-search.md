@@ -65,6 +65,6 @@ Sie werden direkt zur gewünschten E-Mail geleitet.
  </tbody>
 </table>
 
-**OPTIONALER SCHRITT**: Um die Filterung zu verwenden, wählen Sie einfach die gewünschten Optionen aus.
+**OPTIONALER SCHRITT**: Wählen Sie zur Verwendung der Filterfunktion einfach die gewünschten Optionen aus.
 
 ![](assets/using-the-global-search-7.png)

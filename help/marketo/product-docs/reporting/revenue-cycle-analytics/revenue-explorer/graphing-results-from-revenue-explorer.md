@@ -73,6 +73,6 @@ Standardmäßig werden Berichte in Umsatz Explorer als Tabelle angezeigt. Sie ha
 
 ![](assets/heat-grid.png)
 
-1. Um zur Tabellenansicht zurückzukehren, klicken Sie auf die Schaltfläche &quot;Tabelle&quot;.
+1. Um zur Tabellenansicht zurückzukehren, klicken Sie auf die Schaltfläche Tabelle .
 
    ![](assets/two-1.png)

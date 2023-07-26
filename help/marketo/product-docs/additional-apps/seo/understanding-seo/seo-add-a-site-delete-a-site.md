@@ -29,11 +29,11 @@ Damit Marketo Daten (eingehende Links und Empfehlungen) abrufen kann, die für d
 
    ![](assets/one.png)
 
-1. Klicken **[!UICONTROL Site hinzufügen]**.
+1. Klicks **[!UICONTROL Site hinzufügen]**.
 
    ![](assets/two.png)
 
-1. Geben Sie die **[!UICONTROL Name], [!UICONTROL Website-URL]** und klicken Sie auf **[!UICONTROL Speichern]**.
+1. Geben Sie die **[!UICONTROL Name], [!UICONTROL Website-URL]** und klicken **[!UICONTROL Speichern]**.
 
    >[!TIP]
    >
@@ -57,7 +57,7 @@ Wenn Sie mehr als eine Site verfolgen, können Sie auch eine Site löschen, die 
 
    ![](assets/six.png)
 
-1. Klicken **[!UICONTROL Löschen]**.
+1. Klicks **[!UICONTROL Löschen]**.
 
    ![](assets/seven.png)
 

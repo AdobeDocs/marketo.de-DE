@@ -21,7 +21,7 @@ Wenn Sie ein Verweisangebot oder einen Gewinnspiel erstellen, können Sie jedem 
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Wählen Sie das Verweisangebot aus und klicken Sie auf **Entwurf bearbeiten**.
+1. Wählen Sie das Angebot aus und klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/image2015-4-22-11-3a16-3a45.png)
 
@@ -61,6 +61,6 @@ Sobald die Teilnehmer beginnen, Ihre Angebotsbelohnung zu erhalten, können Sie 
 
    ![](assets/image2015-4-22-11-3a36-3a22.png)
 
-1. Hier sollten Sie einige Einträge sehen. Klicken Sie auf die Zahl im **Angebotscodes** -Spalte, um die an diesen Teilnehmer gesendeten Angebotscodes sowie den Zeitpunkt anzuzeigen.
+1. Hier sollten Sie einige Einträge sehen. Klicken Sie auf die Zahl im **Angebotscodes** angezeigt, um die an diesen Teilnehmer gesendeten Angebotscodes sowie den Zeitpunkt des Versands anzuzeigen.
 
    ![](assets/image2015-4-22-11-3a36-3a43.png)

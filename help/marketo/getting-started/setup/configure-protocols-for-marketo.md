@@ -6,8 +6,8 @@ exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '1024'
-ht-degree: 3%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -28,7 +28,7 @@ Wenn Ihr IT-Team den Webzugriff mithilfe einer Zulassungsliste einschränkt, bit
 * `*.mktoweb.com`
 * `*.experience.adobe.com`
 
-## Schritt 1: DNS-Einträge für Einstiegsseiten und E-Mail erstellen {#step-create-dns-records-for-landing-pages-and-email}
+## Schritt 1: DNS-Einträge für Landingpages und E-Mails erstellen {#step-create-dns-records-for-landing-pages-and-email}
 
 **Tracking-Link-CNAMEs**
 
@@ -38,9 +38,9 @@ Ihr Marketing-Team sollte Ihnen zwei Anfragen für neue CNAME-Einträge gesendet
 
 Fügen Sie den CNAME der Landingpage hinzu, den Sie an Ihren DNS-Eintrag gesendet haben, sodass `[YourLandingPageCNAME]` verweist auf die eindeutige Kontozeichenfolge, die Ihren Marketo-Landingpages zugewiesen ist. Melden Sie sich bei der Site Ihres Domänenregistrierers an und geben Sie den CNAME und die Kontozeichenfolge der Landingpage ein. In der Regel umfasst dies drei Felder:
 
-* Alias: Eingabe `[YourLandingPageCNAME]` (durch die Vermarktung bereitgestellt)
+* Alias: Enter `[YourLandingPageCNAME]` (durch die Vermarktung bereitgestellt)
 * Typ: CNAME
-* Verweis auf: Eingabe `[MunchkinID].mktoweb.com` (durch die Vermarktung bereitgestellt)
+* Point to: Enter `[MunchkinID].mktoweb.com` (durch die Vermarktung bereitgestellt)
 
 `2` **Hinzufügen von CNAME für E-Mail-Tracking-Links**
 
@@ -63,7 +63,7 @@ Benachrichtigen Sie Ihr Marketing-Team, wenn Sie diesen Vorgang abgeschlossen ha
 
 Dieser Vorgang kann bis zu drei Werktage dauern.
 
-## Schritt 2: Marketo-IPs der Zulassungsliste {#step-allowlist-marketo-ips}
+## Schritt 2: Zulassungsliste der Marketo-IPs {#step-allowlist-marketo-ips}
 
 Wenn Ihre Marketing-Gruppe Marketo zum Versand von Test-E-Mails verwendet (eine Best Practice vor dem Versand von E-Mail-Nachrichten), werden die Test-E-Mails manchmal von Anti-Spam-Systemen blockiert, die zur Überprüfung der Gültigkeit der E-Mail auf Absender-IP-Adressen angewiesen sind. Um sicherzustellen, dass diese Test-E-Mails eintreffen, fügen Sie Marketo zu Ihrer Zulassungsliste hinzu.
 

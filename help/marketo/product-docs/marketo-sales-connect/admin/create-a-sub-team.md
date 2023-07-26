@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/one-1.png)
 
-1. Wählen Sie unter &quot;Admin Settings&quot;die Option **Team-Management**.
+1. Wählen Sie unter Admin Settings die Option **Team-Management**.
 
    ![](assets/two-1.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    ![](assets/six.png)
 
-1. Klicken **Auswahl zu Teams hinzufügen**.
+1. Klicks **Auswahl zu Teams hinzufügen**.
 
    ![](assets/seven.png)
 
@@ -53,6 +53,6 @@ ht-degree: 0%
 
    ![](assets/eight.png)
 
-1. Klicken **Hinzufügen zu Teams** wann geschehen.
+1. Klicks **Hinzufügen zu Teams** wann geschehen.
 
    ![](assets/nine.png)

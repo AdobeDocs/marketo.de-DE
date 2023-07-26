@@ -13,14 +13,14 @@ ht-degree: 0%
 
 # Grundlagen zu Analytics-Karten {#understanding-analytics-cards}
 
-Zu Beginn eines jeden Monats stellt Marketo Moments drei verschiedene Berichtskarten bereit: Erworbene Leads, neue Leads und Abmeldungen. Jede zeigt Ihnen die monatliche Performance und den Trend über einen Zeitraum von sechs Monaten.
+Zu Beginn eines jeden Monats bietet Marketo Moments drei verschiedene Berichtskarten: &quot;Akquirierte Leads&quot;, &quot;Neue Leads&quot;und &quot;Abmeldungen&quot;. Jedes zeigt Ihnen die monatliche Performance und den Trend über einen Zeitraum von sechs Monaten.
 
 ## Analytics-Karten {#analytics-cards}
 
 Wenn Sie auf eine Analytics-Karte tippen, haben Sie folgende Möglichkeiten:
 
 * [Als Favoriten festlegen](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
-* [Markieren Sie es wie erledigt](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
+* [Markieren Sie es wie fertig](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
 * [Freigeben](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
 Tippen Sie auf eine Analytics-Karte, um Folgendes anzuzeigen:

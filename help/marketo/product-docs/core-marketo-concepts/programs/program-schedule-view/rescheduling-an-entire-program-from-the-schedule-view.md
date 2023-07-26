@@ -31,7 +31,7 @@ Wenn Sie ein Programm oder Ereignis mit Daten klonen, sollten Sie wahrscheinlich
 
    ![](assets/image2014-9-23-15-3a18-3a37.png)
 
-1. Klicken **Zeitplan**.
+1. Klicks **Zeitplan**.
 
    ![](assets/image2014-9-23-15-3a18-3a54.png)
 

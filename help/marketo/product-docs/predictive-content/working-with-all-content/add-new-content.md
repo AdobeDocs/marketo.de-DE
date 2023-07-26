@@ -27,7 +27,7 @@ Sie können Inhalte einfach manuell zur Seite &quot;Alle Inhalte&quot;hinzufüge
 
    ![](assets/add-new-content-categories-updated-hands.png)
 
-1. Klicken **Hinzufügen**.
+1. Klicks **Hinzufügen**.
 
    ![](assets/all-content-add-hand.png)
 

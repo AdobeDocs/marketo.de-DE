@@ -65,7 +65,7 @@ Einfaches Personalisieren von Push-Benachrichtigungen mit [Token](/help/marketo/
 
 ![](assets/image2015-10-1-13-3a44-3a58.png)
 
-Sie können auch [Vorschau](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md) oder senden Sie eine [sample](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md) Push-Benachrichtigung , bevor Sie sie für Kunden bereitstellen.
+Sie können auch [Vorschau](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md) oder senden Sie eine [sample](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md) Push-Benachrichtigung vor der Bereitstellung an Kunden.
 
 ![](assets/image2015-10-1-13-3a45-3a25.png)
 
@@ -96,7 +96,7 @@ RTP Content Analytics zeigt Ihnen die Leistung Ihrer Webinhalt-Assets aus normal
 
 Die Asset-Seite von RTP ist jetzt in Content Analytics und Content Recommendations unterteilt.
 
-* **Content Analytics:** Zeigt die Ansichten und direkten Leads aller entdeckten und definierten Webinhalte an, sodass Sie Ihre leistungsschwächsten Inhalte analysieren können
+* **Content Analytics:** Zeigt die Ansichten und direkten Leads aller entdeckten und definierten Webinhalte an, sodass Sie Ihre leistungsstärksten Inhalte analysieren können
 * **Content Recommendations**: Zeigt Impressionen und Klicks von RTP-empfohlenen Inhalten und der zugehörigen Lead-Attribution an. Sie können Inhaltsempfehlungen auch auf dieser Seite bearbeiten und aktivieren für die [bar](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md) und [Rich Media](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md) Empfehlungen.
 
 * Alle direkten Lead-Daten auf diesen beiden Seiten wurden seit Jahresbeginn (1. Januar 2015) nachträglich aktualisiert.

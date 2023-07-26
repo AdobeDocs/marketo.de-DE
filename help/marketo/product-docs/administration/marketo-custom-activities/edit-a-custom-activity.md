@@ -19,7 +19,7 @@ Müssen Sie Änderungen an einer bereits erstellten benutzerdefinierten Aktivit�
 
    ![](assets/edit-a-custom-activity-1.png)
 
-1. Klicken **[!UICONTROL Benutzerdefinierte Marketo-Aktivitäten]**.
+1. Klicks **[!UICONTROL Benutzerdefinierte Marketo-Aktivitäten]**.
 
    ![](assets/edit-a-custom-activity-2.png)
 
@@ -27,7 +27,7 @@ Müssen Sie Änderungen an einer bereits erstellten benutzerdefinierten Aktivit�
 
    ![](assets/edit-a-custom-activity-3.png)
 
-1. Klicken **[!UICONTROL Benutzerdefinierte Aktivitätsaktionen]** und wählen Sie **[!UICONTROL Aktivität bearbeiten]**.
+1. Klicks **[!UICONTROL Benutzerdefinierte Aktivitätsaktionen]** und wählen **[!UICONTROL Aktivität bearbeiten]**.
 
    ![](assets/edit-a-custom-activity-4.png)
 

@@ -19,7 +19,7 @@ So werden die Daten ausgetauscht:
 
 ![](assets/image2015-12-16-13-33-56.png)
 
-Wenn Sie das Marketo-Ereignis erstellen, wählen Sie **Webinar** als Kanaltyp. Sie können diesen Kanal in Admin bearbeiten und einen neuen Kanal erstellen. Wenn Sie einen neuen Kanal erstellen, muss dieser vom Typ **Veranstaltung mit Webinar** , damit die Integration funktioniert. Siehe [Erstellen eines Programmkanals](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"} für weitere Informationen.
+Wenn Sie das Marketo-Ereignis erstellen, wählen Sie **Webinar** als Kanaltyp. Sie können diesen Kanal in Admin bearbeiten und einen neuen Kanal erstellen. Wenn Sie einen neuen Kanal erstellen, muss dieser dem Typ **Veranstaltung mit Webinar** , damit die Integration funktioniert. Siehe [Erstellen eines Programmkanals](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"} für weitere Informationen.
 
 Ihr nächster Schritt besteht darin, [Ereigniseinstellungen konfigurieren und Marketo mit Ihrem Webinar synchronisieren](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md){target="_blank"}.
 

@@ -15,8 +15,8 @@ ht-degree: 0%
 
 Es wird immer wichtiger, dass Unternehmen die Datenschutzgesetze für E-Mails einhalten. Um Ihnen dabei zu helfen, haben wir unsere Abmeldeerfahrung verbessert.
 
-* Abmelde-Links werden in allen E-Mails platziert, die von Sales Connect/ToutApp und Salesforce gesendet werden (dies gilt nicht für benutzerdefinierte E-Mails, die von Outlook oder Gmail gesendet werden).
-* Administratoren können Abmelde-Nachrichten für ihr gesamtes Team bearbeiten
+* Abmelde-Links werden in allen E-Mails platziert, die von Sales Connect/ToutApp und Salesforce gesendet werden (dies gilt nicht für benutzerdefinierte E-Mails, die von Outlook oder Gmail gesendet werden)
+* Administratoren können die Abmelde-Nachrichten für ihr gesamtes Team bearbeiten
 * Abmeldeinformationen werden in PDV gespeichert.
-* Abmeldungen können manuell vorgenommen werden: Klicks auf Link, Salesforce Sync und Bounce
+* Abmeldungen können manuell vorgenommen werden: angeklickter Link, Salesforce-Synchronisation und Bounce
 * Neue Landingpage für Abmelde-Links

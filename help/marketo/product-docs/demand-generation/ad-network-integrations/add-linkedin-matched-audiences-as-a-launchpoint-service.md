@@ -31,7 +31,7 @@ Verbinden Sie Ihr Marketo-Konto mit LinkedIn Matched Audiences , um eine statisc
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. Geben Sie einen **Anzeigename** und wählen Sie **linkedIn Matched Audiences**. Klicken Sie auf **Erstellen**.
+1. Geben Sie einen **Anzeigename** und wählen **LinkedIn Matched Audiences**. Klicken Sie auf **Erstellen**.
 
    ![](assets/image2018-2-23-14-3a25-3a39.png)
 
@@ -41,9 +41,9 @@ Verbinden Sie Ihr Marketo-Konto mit LinkedIn Matched Audiences , um eine statisc
 
    >[!CAUTION]
    >
-   >Damit Marketo Zielgruppen über mehrere LinkedIn-Anzeigenkonten senden kann, muss der LinkedIn-Benutzer, den Sie in den folgenden Schritten autorisieren, Zugriff auf *all* dieser Anzeigenkonten in ihrem Campaign Manager.
+   >Damit Marketo Zielgruppen über mehrere LinkedIn-Anzeigenkonten hinweg senden kann, muss der LinkedIn-Benutzer, den Sie in den folgenden Schritten autorisieren, Zugriff auf *all* dieser Anzeigenkonten in ihrem Campaign Manager.
 
-1. linkedIn wird in einer neuen Registerkarte geöffnet. Melden Sie sich von hier aus bei Ihrem LinkedIn-Konto an.
+1. LinkedIn wird in einer neuen Registerkarte geöffnet. Melden Sie sich von hier aus bei Ihrem LinkedIn-Konto an.
 
    ![](assets/image2018-2-23-14-3a32-3a20.png)
 

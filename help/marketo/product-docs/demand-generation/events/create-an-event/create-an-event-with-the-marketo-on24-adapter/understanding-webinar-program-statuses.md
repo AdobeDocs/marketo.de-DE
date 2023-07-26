@@ -21,7 +21,7 @@ Im Folgenden finden Sie eine kurze Beschreibung des Programmstatus im Zusammenha
 
 >[!TIP]
 >
->Um den Status manuell zu aktualisieren, klicken Sie auf  **Von Webinar-Anbieter aktualisieren** im **Ereignisaktionen** Dropdown-Liste.
+>Um den Status manuell zu aktualisieren, klicken Sie auf  **Von Webinar-Anbieter aktualisieren** im **Ereignisaktionen** angezeigt.
 
 ![](assets/image2015-12-17-13-3a52-3a39.png)
 
@@ -33,7 +33,7 @@ Im Folgenden finden Sie eine kurze Beschreibung des Programmstatus im Zusammenha
 
 **Warteliste** - Verwenden Sie diesen Status, damit einige Personen warten, bis weitere Plätze verfügbar sind.
 
-**Zurückgewiesen** - Verwenden Sie diesen Status, um die Registrierung einer Person für Ihr Ereignis abzulehnen.
+**Abgelehnt** - Verwenden Sie diesen Status, um die Registrierung einer Person für Ihr Ereignis abzulehnen.
 
 **Angemeldet** - Dieser Status sendet Personen an ON24, wenn Sie die ON24-Integration verwenden. Der Status der Person wird aktualisiert, wenn ON24 antwortet, dass die Person erfolgreich registriert wurde.
 

@@ -19,7 +19,7 @@ Wenn Sie einen bestimmten Satz von Feldern in der Person immer wieder suchen, so
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-1.png)
 
-1. Klicken **[!UICONTROL Feldverwaltung]**.
+1. Klicks **[!UICONTROL Feldverwaltung]**.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-2.png)
 

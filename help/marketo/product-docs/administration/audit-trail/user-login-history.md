@@ -53,7 +53,7 @@ So zeigen Sie den Verlauf der Benutzeranmeldung an:
 
    ![](assets/user-login-history-6.png)
 
-1. Wählen Sie die Benutzer aus dem **[!UICONTROL Benutzer]** Dropdown-Liste.
+1. Wählen Sie die Benutzer aus dem **[!UICONTROL Benutzer]** angezeigt.
 
    ![](assets/user-login-history-7.png)
 
@@ -61,7 +61,7 @@ So zeigen Sie den Verlauf der Benutzeranmeldung an:
 
    ![](assets/user-login-history-8.png)
 
-1. Klicken **[!UICONTROL Anwenden]**.
+1. Klicks **[!UICONTROL Anwenden]**.
 
    ![](assets/user-login-history-9.png)
 

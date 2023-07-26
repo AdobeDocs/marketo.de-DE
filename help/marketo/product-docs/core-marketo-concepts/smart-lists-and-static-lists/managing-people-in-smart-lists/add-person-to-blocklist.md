@@ -21,7 +21,7 @@ Wenn Sie Personen zu Ihrer Blockierungsliste hinzufügen, wird verhindert, dass 
 
 1. [Neues Standardprogramm erstellen](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md) und benennen Sie sie **Zu Blockierungsliste hinzufügen**.
 
-1. Klicken **Neu** und wählen Sie **Neues lokales Asset**.
+1. Klicks **Neu** und wählen **Neues lokales Asset**.
 
    ![](assets/image2015-8-14-11-3a0-3a46.png)
 
@@ -37,7 +37,7 @@ Wenn Sie Personen zu Ihrer Blockierungsliste hinzufügen, wird verhindert, dass 
 
    ![](assets/three-6.png)
 
-1. Klicken **Neu** und wählen Sie **Neue intelligente Kampagne**.
+1. Klicks **Neu** und wählen **Neue intelligente Kampagne**.
 
    ![](assets/image2015-8-14-11-3a12-3a35.png)
 
@@ -57,15 +57,15 @@ Wenn Sie Personen zu Ihrer Blockierungsliste hinzufügen, wird verhindert, dass 
 
    ![](assets/image2015-8-14-11-3a18-3a41.png)
 
-1. Für **Fluss**, eingeben **Block Listed** für **Attribut** und **Neuer Wert** nach **true**.
+1. Für **Fluss**, eingeben **Block Listed** für die **Attribut** und **Neuer Wert** nach **true**.
 
    ![](assets/image2015-8-14-11-3a21-3a1.png)
 
-1. Im **Zeitplan** Registerkarte, wählen Sie **Einmal ausführen**.
+1. Im **Zeitplan** Registerkarte auswählen **Einmal ausführen**.
 
    ![](assets/ten.png)
 
-1. Auswählen **Jetzt ausführen** und klicken Sie auf **Ausführen**.
+1. Auswählen **Jetzt ausführen** und klicken **Ausführen**.
 
    ![](assets/image2015-8-14-11-3a24-3a50.png)
 

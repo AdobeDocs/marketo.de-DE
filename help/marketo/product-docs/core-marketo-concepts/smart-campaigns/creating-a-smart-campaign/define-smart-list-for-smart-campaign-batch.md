@@ -19,7 +19,7 @@ Mit intelligenten Listen können Sie in Marketo festlegen, wer (welche Personen)
 
    ![](assets/define-smart-list-for-smart-campaign-batch-1.png)
 
-1. Geben Sie ein, um nach einem Filter zu suchen, und ziehen Sie ihn auf die Arbeitsfläche. Wiederholen Sie diesen Vorgang für mehrere Filter.
+1. Geben Sie ein, um nach einem Filter zu suchen, und ziehen Sie ihn per Drag-and-Drop auf die Arbeitsfläche. Wiederholen Sie diesen Vorgang für mehrere Filter.
 
    ![](assets/define-smart-list-for-smart-campaign-batch-2.png)
 
@@ -47,9 +47,9 @@ Mit intelligenten Listen können Sie in Marketo festlegen, wer (welche Personen)
    >
    >Standardmäßig werden Personen qualifiziert, die ALLE Regeln der intelligenten Liste erfüllen. Dieser kann Ihren Kampagnenanforderungen entsprechend angepasst werden. Checkout  [Smart List Rules for Complex Logic](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md) , um mehr zu erfahren.
 
-   Lernen Sie, wie Sie Live-Events einzeln Trigger haben [Definieren einer Smart-Liste für eine intelligente Kampagne | Trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md).
+   Lernen Sie, wie Sie Live-Events einzeln Trigger haben [Definieren einer Smart-Liste für eine intelligente Kampagne | TRIGGER](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md).
 
    >[!MORELIKETHIS]
    >
-   >* [Definieren einer Smart-Liste für eine intelligente Kampagne | Trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
+   >* [Definieren einer Smart-Liste für eine intelligente Kampagne | TRIGGER](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
    >* [Hinzufügen eines Flussschritts zu einer Smart-Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)

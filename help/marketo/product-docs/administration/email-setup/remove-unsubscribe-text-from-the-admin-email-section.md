@@ -13,13 +13,13 @@ ht-degree: 3%
 
 # Entfernen Sie den Abmelde-Text aus dem Abschnitt &quot;Admin-E-Mail&quot;. {#remove-unsubscribe-text-from-the-admin-email-section}
 
-Der einzige Grund, warum Sie den Inhalt der Abmeldung jemals vollständig aus der **[!UICONTROL Admin]** > **[!UICONTROL Email]** ist, wenn Sie den Abmelde-Link in die E-Mail-Vorlagen selbst erstellen möchten. Das Textfeld verfügt über eine Validierung, die das Speichern ohne Inhalt nicht zulässt. Sie können dies umgehen, indem Sie einen kleinen HTML-Kommentar hinzufügen. Der HTML-Kommentar wird nicht im E-Mail-Client angezeigt, da er die E-Mail in HTML rendert und die Kommentare weggelassen werden. Hier ist, wie man das macht.
+Der einzige Grund, warum Sie den Inhalt der Abmeldung jemals vollständig aus der **[!UICONTROL Admin]** > **[!UICONTROL Email]** ist, wenn Sie den Abmelde-Link in die E-Mail-Vorlagen selbst erstellen möchten. Das Textfeld verfügt über eine Validierung, die das Speichern ohne Inhalt nicht erlaubt. Sie können dies umgehen, indem Sie einen kleinen HTML-Kommentar hinzufügen. Der HTML-Kommentar wird nicht im E-Mail-Client angezeigt, da er die E-Mail in HTML rendert und die Kommentare weggelassen werden. Hier ist, wie man das macht.
 
 1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
 
    ![](assets/remove-unsubscribe-text-from-the-admin-email-section-1.png)
 
-1. Klicken **[!UICONTROL Email]**.
+1. Klicks **[!UICONTROL Email]**.
 
    ![](assets/remove-unsubscribe-text-from-the-admin-email-section-2.png)
 
@@ -33,7 +33,7 @@ Der einzige Grund, warum Sie den Inhalt der Abmeldung jemals vollständig aus de
 
    ![](assets/remove-unsubscribe-text-from-the-admin-email-section-3.png)
 
-1. Klicken **[!UICONTROL Änderungen speichern]**.
+1. Klicks **[!UICONTROL Änderungen speichern]**.
 
    ![](assets/remove-unsubscribe-text-from-the-admin-email-section-4.png)
 

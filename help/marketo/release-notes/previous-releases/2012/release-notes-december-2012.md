@@ -47,7 +47,7 @@ Mit dem Marketo BrightTALK-Adapter können Sie Besucherinformationen von einem L
 
 Sales Insight ist jetzt für Microsoft Dynamics-Kunden verfügbar!
 
-## Synchronisation von Dynamics-Chancen {#dynamics-opportunity-sync}
+## Dynamics Opportunity Sync {#dynamics-opportunity-sync}
 
 Synchronisieren von Opportunitätsdaten zwischen Marketo und Microsoft Dynamics.
 
@@ -56,7 +56,7 @@ Synchronisieren von Opportunitätsdaten zwischen Marketo und Microsoft Dynamics.
 Zeigen Sie an, welcher Prozentsatz der Pipeline und des Umsatzes Ihres Unternehmens von Ihren Marketingprogrammen beeinflusst wurde. In **Umsatz-Explorer** können Sie nun benutzerdefinierte Berichte mit dem neuen gelben Punkt &quot;Marketing-beeinflusst-Chancen&quot;in der Opportunity Analysis erstellen. Sie können auch die beiden folgenden Berichte im Ordner Standard verwenden:
 
 * Marketing-Einfluss auf erstellte Chancen
-* Marketing-Einfluss auf Opportunities Closed Won
+* Marketing-Einfluss auf Chancen - Abgeschlossen
 
 ![](assets/image2014-9-23-10-3a52-3a11.png)
 

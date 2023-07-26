@@ -19,7 +19,7 @@ Das Dashboard &quot;Spezifisches Konto&quot;bietet eine 360-Grad-Ansicht eines Z
 
 ## Dashboard {#dashboard}
 
-Das Dashboard aggregiert wichtige Einblicke auf Kontoebene aus allen Personen innerhalb eines benannten Kontos, sodass es nicht erforderlich ist, zu jeder Person zu gehen, um ihren Fortschritt zu bewerten. Sie können die E-Mail-Aktivität mithilfe von detaillierter untersuchen [Email Insights](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md#account-based-marketing).
+Das Dashboard aggregiert wichtige Einblicke auf Kontoebene aus allen Personen innerhalb eines benannten Kontos, sodass es nicht erforderlich ist, zu jeder Person zu gehen, um ihren Fortschritt zu bewerten. Sie können die E-Mail-Aktivität mithilfe von detaillierter untersuchen. [Email Insights](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md#account-based-marketing).
 
 >[!NOTE]
 >
@@ -37,7 +37,7 @@ Das Dashboard aggregiert wichtige Einblicke auf Kontoebene aus allen Personen in
  <tbody> 
   <tr> 
    <td><strong>Kontobewertung</strong></td> 
-   <td><p>Siehe Interaktion von Woche zu Woche basierend auf allen Kontobewertungen, die Sie in Admin erstellt haben. Sie können diese Kontobewertungen nebeneinander vergleichen. Um die wöchentliche Interaktion zu bestimmen, nehmen wir die maximale Interaktion von einem beliebigen Wochentag aus.</p></td> 
+   <td><p>Siehe wöchentliche Interaktion basierend auf allen Kontobewertungen, die Sie in Admin erstellt haben. Sie können diese Kontobewertungen nebeneinander vergleichen. Um die wöchentliche Interaktion zu bestimmen, nehmen wir die maximale Interaktion von einem beliebigen Wochentag aus.</p></td> 
   </tr> 
   <tr> 
    <td><strong>Vertriebskette</strong></td> 
@@ -58,13 +58,13 @@ Anwender von Marketo Sales Insight können sich die interessanten Momente ansehe
 
 **Die besten Personen**
 
-Diese Personen werden anhand von Prioritäten berechnet, die auf Neuigkeit oder Dringlichkeit basieren, die von Personen mit benannten Konten (wie [Best Bets](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) in Sales Insight) oder vom Benutzer definierte Werte. **Priorität** ist nur für Benutzer von Marketo Sales Insight verfügbar.
+Diese Personen werden anhand von Prioritäten berechnet, die auf Neuigkeit oder Dringlichkeit basieren, die von Personen mit benannten Konten (wie [Beste Betas](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) in Sales Insight) oder vom Benutzer definierte Werte. **Priorität** ist nur für Benutzer von Marketo Sales Insight verfügbar.
 
 ![](assets/top-ten.png)
 
 **Enthält untergeordnete Elemente**
 
-Klicken **Enthält untergeordnete Elemente** , um die untergeordneten Konten des ausgewählten benannten Kontos anzuzeigen und auszuwählen und die aggregierte Analyse anzuzeigen.
+Klicks **Enthält untergeordnete Elemente** , um die untergeordneten Konten des ausgewählten benannten Kontos anzuzeigen und auszuwählen und die aggregierte Analyse anzuzeigen.
 
 ![](assets/abm.png)
 
@@ -78,7 +78,7 @@ Ermitteln Sie, wo sich das ausgewählte benannte Konto im Verhältnis zur Hierar
 
 ![](assets/hierarchy.png)
 
-## Opportunities {#opportunities}
+## Opportunitys {#opportunities}
 
 Eine Rollup-Ansicht aller Öffnungsmöglichkeiten auf Kontoebene, die Marketing-Teams dabei unterstützt, sich auf die Schließung bestimmter Chancen zu konzentrieren.
 

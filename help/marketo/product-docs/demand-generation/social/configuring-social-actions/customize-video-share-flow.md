@@ -23,7 +23,7 @@ Wenn Sie [Erstellen einer Videofreigabe](/help/marketo/product-docs/demand-gener
 
    ![](assets/image2014-9-22-16-3a40-3a41.png)
 
-1. Wechseln Sie im Video Share Editor zu **App-Einstellungen** > **Erweiterte Optionen**.
+1. Wechseln Sie im Video Share-Editor zu **App-Einstellungen** > **Erweiterte Optionen**.
 
    ![](assets/image2014-9-22-16-3a41-3a3.png)
 

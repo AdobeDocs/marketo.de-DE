@@ -1,7 +1,7 @@
 ---
 unique-page-id: 17432598
 description: Einrichten von Kontoprofilen - Marketo-Dokumente - Produktdokumentation
-title: Kontoprofil einrichten
+title: Einrichten von Kontoprofilen
 exl-id: 6f3af2e7-f820-473b-8ed6-ff0982672e54
 feature: Target Account Management
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,7 +11,7 @@ ht-degree: 2%
 
 ---
 
-# Kontoprofil einrichten {#setting-up-account-profiling}
+# Einrichten von Kontoprofilen {#setting-up-account-profiling}
 
 Führen Sie diese Schritte aus, um mit der Verwendung von Kontoprofilen zu beginnen.
 
@@ -24,7 +24,7 @@ Führen Sie diese Schritte aus, um mit der Verwendung von Kontoprofilen zu begin
 >* E-Mail
 >* Land
 >
->Erfahren Sie, wie Sie [Feld hier einblenden](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md#unhide-a-field).
+>Erfahren Sie, wie [Feld hier einblenden](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md#unhide-a-field).
 
 1. Öffnen Sie in My Marketo **Verwaltung von Target-Konten**.
 
@@ -34,11 +34,11 @@ Führen Sie diese Schritte aus, um mit der Verwendung von Kontoprofilen zu begin
 
    ![](assets/two-1.png)
 
-1. Die Registerkarte Modell wird standardmäßig geöffnet. Klicken **Erste Schritte**.
+1. Die Registerkarte Modell wird standardmäßig geöffnet. Klicks **Erste Schritte**.
 
    ![](assets/three.png)
 
-1. Geben Sie Ihrem Modell einen Namen und wählen Sie den Listentyp/die Liste der Personen aus, die als Grundlage für das Ideal Customer Profile (ICP) dienen. Klicken **Modell erstellen** wann geschehen.
+1. Geben Sie Ihrem Modell einen Namen und wählen Sie den Listentyp/die Liste der Personen aus, die als Grundlage für das Ideal Customer Profile (ICP) dienen. Klicks **Modell erstellen** wann geschehen.
 
    ![](assets/setting-up-account-profiling-4.png)
 
@@ -56,4 +56,4 @@ Führen Sie diese Schritte aus, um mit der Verwendung von Kontoprofilen zu begin
 
    >[!TIP]
    >
-   >Nachdem Ihr Modell erstellt wurde, [Informationen zur Anpassung](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md).
+   >Nachdem Ihr Modell erstellt wurde, [Erfahren Sie, wie Sie es anpassen](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md).

@@ -20,13 +20,13 @@ Die Analyseseite wird alle zehn Minuten aktualisiert.
 
 ## Was bedeuten die Zahlen? {#what-do-the-numbers-mean}
 
-Die Zahlen im Radial berechnen die Gesamtzahl der Ereignisse aller gesendeten E-Mails. Wenn also eine E-Mail fünfmal angezeigt wird, ergibt diese Zahl fünf Ansichten. Dieselbe Idee wird auf die innerhalb des Kreises gezählten Klicks und Antworten angewendet.
+Die im Radial erfassten Zahlen berechnen die Gesamtzahl der Ereignisse aller gesendeten E-Mails. Wenn also eine E-Mail fünf Mal angezeigt wird, werden fünf Ansichten zu dieser Zahl hinzugefügt. Dieselbe Idee wird auf die innerhalb des Kreises gezählten Klicks und Antworten angewendet.
 
 Sämtliche Statistiken, die in der Tabelle gespeichert sind, werden berechnet, indem Sie sich die individuellen Ansichten, Klicks und Antworten Ihrer E-Mails ansehen. Wenn eine E-Mail fünfmal angezeigt wird, wird dies als eine Ansicht gezählt. Deshalb können Sie einen großen Unterschied zwischen den Zahlen in den Tabellen und den Zahlen im Radial sehen.
 
 ## Analytische Registerkarten {#analytic-tabs}
 
-Wir unterteilen Ihre Statistiken in drei separate Registerkarten: Ich, Team und Inhalt. Sie können jede einzelne verwenden, um eine andere Perspektive zu den von uns bereitgestellten Einblicken zu erhalten.
+Wir teilen Ihre Statistiken in drei separate Registerkarten auf: &quot;Ich&quot;, &quot;Team&quot;und &quot;Inhalt&quot;. Sie können jede einzelne verwenden, um eine andere Perspektive zu den von uns bereitgestellten Einblicken zu erhalten.
 
 Wenn Sie von Registerkarte zu Tab auf der Analytics-Seite gehen, können Sie Ihre Statistiken sortieren, indem Sie auf die Ansicht, das Klick- oder das Antwortsymbol klicken.
 

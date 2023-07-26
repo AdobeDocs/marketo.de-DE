@@ -23,7 +23,7 @@ Steuern Sie die Kennwortrichtlinie Ihres Abonnements. So geht es.
 
    ![](assets/change-your-password-security-settings-1.png)
 
-1. Klicken **[!UICONTROL Anmeldeeinstellungen]**.
+1. Klicks **[!UICONTROL Anmeldeeinstellungen]**.
 
    ![](assets/change-your-password-security-settings-2.png)
 
@@ -31,7 +31,7 @@ Steuern Sie die Kennwortrichtlinie Ihres Abonnements. So geht es.
 
    ![](assets/change-your-password-security-settings-3.png)
 
-1. Wählen Sie eine **[!UICONTROL Vorlage]**. Für erweiterte Optionen klicken Sie auf **[!UICONTROL Erweitert]** Dropdown-Liste.
+1. Wählen Sie eine **[!UICONTROL Vorlage]**. Für erweiterte Optionen klicken Sie auf **[!UICONTROL Erweitert]** angezeigt.
 
    ![](assets/change-your-password-security-settings-4.png)
 

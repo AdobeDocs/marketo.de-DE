@@ -33,7 +33,7 @@ Ziel eines Programms ist es, eine sinnvolle Interaktion mit der Person oder dem 
 
 >[!NOTE]
 >
->In einem Webinar-Programm können mehrere Status vorhanden sein, z. B.: Eingeladen, registriert und angemeldet. Eingeladene oder registrierte Interaktionen sind nicht aussagekräftig, da die Leute sich das Webinar nicht ansehen. Die Teilnahme wird in diesem Fall als Erfolg betrachtet.
+>In einem Webinar-Programm können mehrere Status vorhanden sein, z. B.: Eingeladen, Registriert und Eingestiegen. Eingeladene oder registrierte Interaktionen sind nicht aussagekräftig, da die Leute sich das Webinar nicht ansehen. Die Teilnahme wird in diesem Fall als Erfolg betrachtet.
 
 Erfassen neuer Namen messen
 

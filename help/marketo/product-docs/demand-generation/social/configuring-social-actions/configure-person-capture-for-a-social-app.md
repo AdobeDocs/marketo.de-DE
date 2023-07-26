@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Personenerfassung für eine Social-App konfigurieren {#configure-person-capture-for-a-social-app}
 
-Wenn Sie eine [Referenzangebot](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) oder [Preisausschreiben](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), können Sie konfigurieren, welche Informationen Sie anfordern und welche Informationen Sie von Personen benötigen, um teilnehmen zu können.
+Wenn Sie eine [Verweisangebot](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) oder [Preisausschreiben](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), können Sie konfigurieren, welche Informationen Sie anfordern und welche Informationen Sie von Personen benötigen, um teilnehmen zu können.
 
 >[!NOTE]
 >
@@ -37,12 +37,12 @@ Wenn Sie eine [Referenzangebot](/help/marketo/product-docs/demand-generation/soc
 
    Marketing-Optionen einschließen:
 
-   * **Opt-out**: Standardmäßig hat Person ein Abonnement.
+   * **Opt-out**: Standardmäßig hat die Person ein Abonnement.
    * **Opt-in**: Der Benutzer kann sich für ein Abonnement entscheiden.
 
    >[!NOTE]
    >
-   >In beiden Fällen erhalten die Teilnehmer weiterhin die [_operation_ E-Mails](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) aus Ihrem Angebot.
+   >In beiden Fällen erhalten die Teilnehmer weiterhin die [_operativ_ E-Mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) von Ihrem Angebot aus.
 
 1. Klicken Sie im Fenster Ansicht und Bearbeiten auf **Bearbeitungen anzeigen** und bearbeiten Sie die Meldungen in der Freigabeaufforderung.
 

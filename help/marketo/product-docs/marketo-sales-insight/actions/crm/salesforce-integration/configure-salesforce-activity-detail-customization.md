@@ -52,7 +52,7 @@ Mit der Funktion können die folgenden Vorteile freigeschaltet werden:
 
 >[!NOTE]
 >
->Wenn Sie E-Mail-Antworten als Aktivitäten an Salesforce protokollieren, werden sie nicht die Einstellungen für die Anpassung der Salesforce-Aktivitätsdetails verwenden. Stattdessen protokollieren sie als &quot;Antwort: E-Mail-Betreff.&quot;
+>Wenn Sie E-Mail-Antworten als Aktivitäten an Salesforce protokollieren, werden sie nicht die Einstellungen für die Anpassung der Salesforce-Aktivitätsdetails verwenden. Stattdessen melden sie sich als &quot;Antwort: E-Mail-Betreff&quot;an.
 
 ## Unterstützte dynamische Aktivitätsfelder {#activity-dynamic-fields-supported}
 
@@ -87,7 +87,7 @@ Dynamische Felder der Aktivität Referenzinformationen zu Ihren Verkaufsaktivit�
  </tr>
  <tr>
   <td>{{sales_campaign_step}}</td>
-  <td>Wenn die Aktivität von einer Verkaufskampagne aus initiiert wurde, wird die Schrittnummer innerhalb der Verkaufskampagne aufgefüllt, an der diese Aktivität stattgefunden hat.</td>
+  <td>Wenn die Aktivität von einer Verkaufskampagne aus initiiert wurde, wird die Schrittnummer innerhalb der Verkaufskampagne aufgefüllt, an der diese Aktivität stattfand.</td>
  </tr>
  <tr>
   <td>{{call_outcome}}</td>
@@ -111,11 +111,11 @@ Dynamische Felder der Aktivität Referenzinformationen zu Ihren Verkaufsaktivit�
 
    ![](assets/configure-salesforce-activity-detail-customization-3.png)
 
-1. Klicken **Salesforce**.
+1. Klicks **Salesforce**.
 
    ![](assets/configure-salesforce-activity-detail-customization-4.png)
 
-1. Klicken **Einstellungen synchronisieren**.
+1. Klicks **Einstellungen synchronisieren**.
 
    ![](assets/configure-salesforce-activity-detail-customization-5.png)
 
@@ -135,7 +135,7 @@ Dynamische Felder der Aktivität Referenzinformationen zu Ihren Verkaufsaktivit�
 
    ![](assets/configure-salesforce-activity-detail-customization-8.png)
 
-1. Klicken **Speichern**.
+1. Klicks **Speichern**.
 
    ![](assets/configure-salesforce-activity-detail-customization-9.png)
 

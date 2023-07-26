@@ -22,7 +22,7 @@ Belohnen Sie Ihre Kunden mit Gutscheinen und Rabattcodes über die E-Mail zur An
 
 ## Einrichten der Fulfillment-Bereitstellung {#set-up-fulfillment-delivery}
 
-1. Wählen Sie das Verweisangebot aus. Klicken **Entwurf bearbeiten**.
+1. Wählen Sie das Angebot aus. Klicks **Entwurf bearbeiten**.
 
    ![](assets/image2015-4-20-16-3a3-3a14.png)
 
@@ -56,7 +56,7 @@ Sie können eine Erfüllungs-E-Mail manuell an eine Person senden, sobald diese 
 
    ![](assets/image2015-4-20-15-3a37-3a14.png)
 
-1. Klicken Sie auf **Filtern nach** und wählen Sie **Ziel**.
+1. Klicken Sie auf **Filtern nach** auswählen **Ziel**.
 
    >[!NOTE]
    >
@@ -68,7 +68,7 @@ Sie können eine Erfüllungs-E-Mail manuell an eine Person senden, sobald diese 
 
    ![](assets/2015-04-23-13-08-53.png)
 
-1. Klicken Sie mit der rechten Maustaste und wählen Sie **E-Mail zur Erfüllung senden**.
+1. Rechtsklicken Sie auf und wählen Sie **E-Mail zur Erfüllung senden**.
 
    ![](assets/2015-04-20-15-54-13.png)
 

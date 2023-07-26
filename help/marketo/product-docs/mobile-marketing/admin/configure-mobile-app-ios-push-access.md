@@ -13,7 +13,7 @@ ht-degree: 1%
 
 # Konfigurieren des Push-Zugriffs auf die Mobile App iOS {#configure-mobile-app-ios-push-access}
 
-1. Klicken **Admin**.
+1. Klicks **Admin**.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
@@ -31,7 +31,7 @@ ht-degree: 1%
 
    >[!NOTE]
    >
-   >Sie benötigen eine **Zertifikat** und **Passwort** von Ihrem App-Entwickler aus. Der Entwickler erhält diese Informationen, indem er sich beim Apple Developer Member Center anmeldet, ein Push-Benachrichtigungszertifikat für Ihre App eingerichtet und herunterlädt und den Inhalt exportiert. Der Entwickler legt beim Export das Kennwort fest. **WICHTIG**: Das Zertifikat sollte für die Art der verwendeten Umgebung geeignet sein - Sandbox oder Produktion. Stellen Sie dies mit Ihrem Marketo-Administrator oder Entwickler für mobile Apps sicher.
+   >Sie benötigen eine **Zertifikat** und **Passwort** von Ihrem App-Entwickler aus. Der Entwickler erhält diese Informationen, indem er sich beim Apple Developer Member Center anmeldet, ein Push-Benachrichtigungszertifikat für Ihre App eingerichtet und herunterlädt und den Inhalt exportiert. Der Entwickler legt beim Export das Kennwort fest. **WICHTIG**: Das Zertifikat sollte der verwendeten Umgebung entsprechen - Sandbox oder Produktion. Stellen Sie dies mit Ihrem Marketo-Administrator oder Entwickler für mobile Apps sicher.
 
 1. Wählen Sie Ihr Zertifikat aus, geben Sie Ihr Kennwort ein und klicken Sie auf **Speichern**.
 

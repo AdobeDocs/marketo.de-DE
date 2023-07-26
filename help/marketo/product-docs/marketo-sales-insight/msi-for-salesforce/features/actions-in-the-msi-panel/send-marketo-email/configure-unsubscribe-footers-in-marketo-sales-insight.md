@@ -29,7 +29,7 @@ In E-Mails zum Verkauf wird die Abmelde-Fußzeile automatisch am unteren Rand pl
 
    ![](assets/one-1.png)
 
-1. Klicken **Sales Insight**, dann **Einstellungen bearbeiten**.
+1. Klicks **Sales Insight**, dann **Einstellungen bearbeiten**.
 
    ![](assets/two-1.png)
 
@@ -38,14 +38,14 @@ In E-Mails zum Verkauf wird die Abmelde-Fußzeile automatisch am unteren Rand pl
    ![](assets/three-1.png)
 
    * **Keine Vorlage** - Manuell von einem Vertriebsbenutzer erstellt.
-   * **Standard-E-Mail** - Auf Vorlagen basierende E-Mails.
+   * **Standard-Email** - Vorlagen für E-Mails.
    * **Operative E-Mail** - E-Mails, die Abmeldungen ignorieren, Marketing ausgesetzt und Kommunikationsbeschränkungen (unabhängig davon, was gesendet wird).
 
    Sie können für jeden Typ ein anderes Verhalten festlegen.
 
    >[!CAUTION]
    >
-   >**Abmeldeeinstellungen respektieren**: abgemeldete Leads erhalten die E-Mail NICHT, selbst wenn die veröffentlichte E-Mail &quot;betriebsbereit&quot;ist
+   >**Abmeldeeinstellungen respektieren**: abgemeldete Leads erhalten die E-Mail NICHT, selbst wenn die veröffentlichte E-Mail &quot;funktionsfähig&quot;ist.
    >
    >**Ignorieren von Abmeldeeinstellungen**: abgemeldete Leads erhalten die E-Mail
 
@@ -53,7 +53,7 @@ In E-Mails zum Verkauf wird die Abmelde-Fußzeile automatisch am unteren Rand pl
 
    >[!TIP]
    >
-   >Die letzten beiden Optionen ermöglichen es, die Abmeldefußzeile abhängig von der Anzahl der Empfänger (größer als 1 oder größer als 5) dynamisch einzuschließen/auszuschließen.
+   >Die letzten beiden Optionen ermöglichen es, die Abmeldefußzeile dynamisch einzuschließen/auszuschließen, je nach Empfängeranzahl (größer als 1 oder größer als 5).
 
    ![](assets/four-1.png)
 

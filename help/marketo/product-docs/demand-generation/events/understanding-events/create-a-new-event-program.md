@@ -19,7 +19,7 @@ Mit Ereignissen können Sie Online- und Offline-Ereignisse automatisieren! Erfas
 
    ![](assets/ma.png)
 
-1. Wählen Sie den Ordner für das neue Programm aus. Auswählen **Neu** und klicken Sie auf **Neues Programm**.
+1. Wählen Sie den Ordner für das neue Programm aus. Auswählen **Neu** und klicken **Neues Programm**.
 
    ![](assets/image2015-2-26-14-3a24-3a30.png)
 
@@ -43,7 +43,7 @@ Mit Ereignissen können Sie Online- und Offline-Ereignisse automatisieren! Erfas
 
    ![](assets/image2015-2-26-14-3a34-3a33.png)
 
-1. Um das Ereignis zu planen, wählen Sie **Planansicht** und klicken Sie im Kalender darauf, um das Popup zu öffnen. Datum und Uhrzeit eingeben.
+1. Um das Ereignis zu planen, wählen Sie **Zeitplanansicht** und klicken Sie im Kalender darauf, um das Popup zu öffnen. Geben Sie Datum und Uhrzeit ein.
 
    ![](assets/image2016-3-25-14-3a17-3a33.png)
 
@@ -51,7 +51,7 @@ Mit Ereignissen können Sie Online- und Offline-Ereignisse automatisieren! Erfas
 
    ![](assets/image2016-3-25-14-3a18-3a13.png)
 
-Nachdem das Ereignis erstellt wurde, erstellen Sie die [Landingpages](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md), [forms](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)und [E-Mails](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) um Ihre Gäste einzuladen! Außerdem sollten Sie sich mit dem [Programmplanungsansicht](https://docs.marketo.com/display/docs/program+schedule+view).
+Nachdem das Ereignis erstellt wurde, erstellen Sie die [Landingpages](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md), [forms](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md), und [E-Mail](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) um Ihre Gäste einzuladen! Außerdem sollten Sie sich mit dem [Programmplanungsansicht](https://docs.marketo.com/display/docs/program+schedule+view).
 
 >[!MORELIKETHIS]
 >

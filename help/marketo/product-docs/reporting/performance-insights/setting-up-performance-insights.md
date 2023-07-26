@@ -17,11 +17,11 @@ Gehen Sie wie folgt vor, um MPI einzurichten.
 
 ## Einrichtung von Chancen {#opportunity-setup}
 
-1. Klicken **Admin**.
+1. Klicks **Admin**.
 
    ![](assets/admin.png)
 
-1. Klicken **Umsatzzyklusanalysen**.
+1. Klicks **Umsatzzyklusanalysen**.
 
    ![](assets/two-2.png)
 
@@ -29,7 +29,7 @@ Gehen Sie wie folgt vor, um MPI einzurichten.
    >
    >Wenn Sie keine RCA haben, müssen Sie **Programmanalyse** für Schritt 2.
 
-1. Klicken Sie unter &quot;Attribution&quot;auf **Bearbeiten**.
+1. Klicken Sie unter Attribution auf **Bearbeiten**.
 
    ![](assets/three-1.png)
 
@@ -43,7 +43,7 @@ Gehen Sie wie folgt vor, um MPI einzurichten.
 
    >[!NOTE]
    >
-   >Stellen Sie sicher, dass alle Möglichkeiten die entsprechenden Felder enthalten:
+   >Stellen Sie sicher, dass alle Möglichkeiten die entsprechenden Felder ausgefüllt haben:
    >
    >* Opportunity-Betrag
    >* Ist geschlossen
@@ -56,7 +56,7 @@ Gehen Sie wie folgt vor, um MPI einzurichten.
 
 Aktualisieren Sie die Programmkosten für mindestens 12 Monate. Sie können dies manuell oder mithilfe der Programm-API tun. In diesem Beispiel machen wir es manuell.
 
-1. Klicken **Marketingaktivitäten**.
+1. Klicks **Marketingaktivitäten**.
 
    ![](assets/ma.png)
 
@@ -82,11 +82,11 @@ Aktualisieren Sie die Programmkosten für mindestens 12 Monate. Sie können dies
 
 Überprüfen Sie anschließend das Analytics-Verhalten, um anzugeben, ob ein bestimmter Kanal in die Analyse einbezogen werden soll. Legen Sie das Analytics-Verhalten fest (Normal, Einschließen, Operativ).
 
-1. Klicken **Admin**.
+1. Klicks **Admin**.
 
    ![](assets/admin.png)
 
-1. Klicken **Tags**.
+1. Klicks **Tags**.
 
    ![](assets/tags.png)
 
@@ -102,11 +102,11 @@ Aktualisieren Sie die Programmkosten für mindestens 12 Monate. Sie können dies
 
    ![](assets/edit-channel.png)
 
-1. Legen Sie die Erfolgskriterien fest.
+1. Festlegen der Erfolgskriterien.
 
    ![](assets/success.png)
 
-1. Klicken **Speichern**.
+1. Klicks **Speichern**.
 
    ![](assets/save.png)
 

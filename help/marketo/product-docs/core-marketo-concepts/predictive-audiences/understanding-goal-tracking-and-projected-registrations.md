@@ -1,6 +1,6 @@
 ---
 description: Verstehen des Zieltrackings und der geplanten Registrierungen - Marketo-Dokumente - Produktdokumentation
-title: Verstehen des Zieltrackings und der geplanten Registrierungen
+title: Verstehen der Zielverfolgung und der geplanten Registrierungen
 exl-id: 110768f4-46ed-4951-96b2-a97813d7b257
 feature: Predictive Audiences
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -10,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Verstehen des Zieltrackings und der geplanten Registrierungen {#understanding-goal-tracking-and-projected-registrations}
+# Verstehen der Zielverfolgung und der geplanten Registrierungen {#understanding-goal-tracking-and-projected-registrations}
 
 Hier erfahren Sie, wie Sie den Zielfortschritt verfolgen und die Prognosen von Marketo verstehen können.
 
@@ -75,7 +75,7 @@ Oben auf der Seite Berichte finden Sie KI/ML-basierte Empfehlungen, die auf Ihre
 
 ## Vorhersagen auf Benutzerebene
 
-Klicken Sie auf **[!UICONTROL Mitglieder]** um alle Programmmitglieder anzuzeigen. Bewegen Sie den Mauszeiger über die **[!UICONTROL Registrierungswahrscheinlichkeit]** oder **[!UICONTROL Wahrscheinlichkeit der Teilnahme]** Balken, um genaue Prozentsätze und Kategorisierungen anzuzeigen. Sie können dann Maßnahmen für Mitglieder einer bestimmten Kategorie ergreifen (z. B. für alle in der Kategorie &quot;Weniger wahrscheinlich&quot;, um sich zu registrieren) und sie gezielt ansprechen, um Ihre Registrierungsnummern potenziell zu erhöhen.
+Klicken Sie auf **[!UICONTROL Mitglieder]** -Tab, um alle Programmmitglieder anzuzeigen. Bewegen Sie den Mauszeiger über die **[!UICONTROL Registrierungswahrscheinlichkeit]** oder **[!UICONTROL Wahrscheinlichkeit der Teilnahme]** Balken, um genaue Prozentsätze und Kategorisierungen anzuzeigen. Sie können dann Maßnahmen für Mitglieder einer bestimmten Kategorie ergreifen (z. B. für alle in der Kategorie &quot;Weniger wahrscheinlich&quot;, um sich zu registrieren) und sie gezielt ansprechen, um Ihre Registrierungsnummern potenziell zu erhöhen.
 
 ![](assets/understanding-goal-tracking-and-projected-registrations-8.png)
 
@@ -87,7 +87,7 @@ Klicken Sie auf **[!UICONTROL Mitglieder]** um alle Programmmitglieder anzuzeig
 
 **F: Was ist das Segment?**
 
-A: Die Wahrscheinlichkeit, sich zu registrieren, liegt bei 0 bis 100. Jede Person, die Mitglied des Veranstaltungsprogramms ist, erhält einen Wahrscheinlichkeitswert zwischen 0 und 100.
+A: Die Wahrscheinlichkeit einer Registrierung liegt zwischen 0 und 100. Jede Person, die Mitglied des Veranstaltungsprogramms ist, erhält einen Wahrscheinlichkeitswert zwischen 0 und 100.
 
 Wir unterteilen die Wahrscheinlichkeitswerte in drei Segmente:
 
@@ -101,15 +101,15 @@ Daher haben Personen, die in das Segment &quot;Sehr wahrscheinlich&quot;fallen, 
 
 Konversion in Registrierung = Anzahl der registrierten Personen im Segment dividiert durch die Anzahl der Personen, die in das Segment fallen (wenn beispielsweise 100 Personen in das Segment mit hoher Wahrscheinlichkeit fallen und 60 von ihnen registriert sind, beträgt die Konversionsrate 60 %).
 
-Konversion % zur Registrierung folgt diesem Muster: Sehr wahrscheinlich > Wahrscheinlich > Weniger wahrscheinlich.
+Die Konversionsrate in Prozent zur Registrierung folgt diesem Muster: Sehr wahrscheinlich > Wahrscheinlich > Weniger wahrscheinlich.
 
 **F: Wie verwende ich die Einblicke?**
 
 A: Best Practice umfasst Folgendes:
 
-i. Erstellen Sie ein Programm, und dann verwendet eine Smart-Kampagne prädiktive Filter mit &quot;größer als X&quot;, was zu einer bestimmten Anzahl von Personen führen würde (z. B. 1000) und Sie führen die Kampagne aus.
+i. Sie erstellen ein Programm, und dann verwendet eine Smart-Kampagne prädiktive Filter mit &quot;größer als X&quot;, was zu einer bestimmten Anzahl von Personen führen würde (z. B. 1000), und Sie führen die Kampagne aus.
 
-ii. Nach 24 Stunden in der [!UICONTROL Berichte] -Tab können Sie die voraussichtlichen Registrierungen sehen, die auf der Grundlage der Wahrscheinlichkeit berechnet werden, dass die Werte aller aktuell eingeladenen Personen registriert werden.
+ii. Nach 24 Stunden in der Variablen [!UICONTROL Berichte] -Tab können Sie die voraussichtlichen Registrierungen sehen, die auf der Grundlage der Wahrscheinlichkeit berechnet werden, dass die Werte aller aktuell eingeladenen Personen registriert werden.
 
 iii. Wenn die geplanten Registrierungen geringer sind als das Ziel, müssten Sie mehr Personen einladen. An diesem Punkt können Sie die Einblicke sehen, die Ihnen mitteilen, welche Schwelle in früheren Programmen funktioniert hat.
 
@@ -119,13 +119,13 @@ iv. Sie können eine neue Smart-Kampagne mit diesem Schwellenwert erstellen, um 
 
 v. Sie können jederzeit die Zielgruppen-Verteilung über Segmente und deren Konversionsraten aus der Vergangenheit hinweg anzeigen und diese Konversionsraten auf die aktuelle Zielgruppe anwenden, um zu verstehen, warum eine projizierte Zahl angezeigt wird (siehe Screenshot unten).
 
-**F: Was ist das Diagramm Segmente nach Registrierung?**
+**F: Was ist das Diagramm &quot;Segmente nach Registrierung&quot;?**
 
-A: Drei Balken, von denen jeder ein Segment darstellt (hoch wahrscheinlich, wahrscheinlich, weniger wahrscheinlich).
+A: Drei Balken, von denen jeder ein Segment darstellt (sehr wahrscheinlich, wahrscheinlich, weniger wahrscheinlich).
 
 **violette gepunktete Linie:** Durchschnittliche Konversationsrate zur Registrierung in diesem Segment, basierend auf früheren ähnlichen Programmen.
 
-**Blaue Leiste:** Registrierungsprozentsatz aller Personen in diesem Segment.
+**Blue bar:** Registrierungsprozentsatz aller Personen in diesem Segment.
 
 ![](assets/understanding-goal-tracking-and-projected-registrations-10.png)
 
@@ -133,7 +133,7 @@ Nehmen wir beispielsweise an, 100 Personen haben eine Wahrscheinlichkeit, sich b
 
 **F: Was bedeutet &quot;Registered and Higher&quot;?**
 
-A: Jede Person, die als registriert aufgeführt ist, oder jeder andere Status mit einer gleichwertigen oder höheren Schrittnummer.
+A: Jede Person, die als registriert aufgeführt ist, oder jeder andere Status mit einer gleichen oder einer höheren Schrittnummer.
 
 Sie können neue Progressionsstatus für ein Ereignisprogramm erstellen, aber wir ordnen diese Status den Standardstatus zu. Betrachten wir einen Fall, in dem eine Person von einer eingeladenen in eine Erinnerung verschoben wird, was einen höheren Schritt als die Registrierung darstellt. Diese Person gilt auch als registriert und wird im Ziel-Tracking angezeigt.
 

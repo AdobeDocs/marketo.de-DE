@@ -18,7 +18,7 @@ ht-degree: 0%
 >* [Personalisierte URLs für Ihr Konto aktivieren](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
 >* [Personalisierte URLs für eine Landingpage aktivieren](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)
 
-1. Wählen Sie Ihre Liste oder Smart-Liste aus und klicken Sie auf die **Leads** um die Ergebnisse abzurufen, und klicken Sie dann auf das Excel-Symbol. INLINE Stellen Sie sicher, dass **Eindeutiger Marketo-Code** und **Eindeutiger Marketo-Name** [Spalten sichtbar](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).
+1. Wählen Sie Ihre Liste oder Smart-Liste aus und klicken Sie auf die **Leads** um die Ergebnisse abzurufen, und klicken Sie dann auf das Excel-Symbol. INLINE Stellen Sie sicher, dass **Marketo Unique Code** und **Eindeutiger Marketo-Name** [Spalten sichtbar](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).
 
    ![](assets/image2014-9-25-11-3a10-3a43.png)
 
@@ -34,7 +34,7 @@ ht-degree: 0%
    >
    >Wenn Sie mehrere URLs für dieselbe Landingpage sehen, liegt dies wahrscheinlich daran, dass Sie die Seiten-URL irgendwann in der Vergangenheit geändert und eine Umleitung erstellt haben.
 
-1. Wählen Sie eine **Stil** und klicken Sie auf **Export**.
+1. Wählen Sie eine **Stil** und klicken **Export**.
 
    ![](assets/image2014-9-18-13-3a37-3a6.png)
 

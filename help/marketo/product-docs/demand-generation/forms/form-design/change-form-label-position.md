@@ -36,11 +36,11 @@ Wann [Erstellen eines Formulars](/help/marketo/product-docs/demand-generation/fo
    * Left (Standard)
    * Oberhalb von
 
-1. Klicken **Beenden**.
+1. Klicks **Beenden**.
 
    ![](assets/image2014-9-15-16-3a16-3a49.png)
 
-1. Klicken **Genehmigen und schließen**.
+1. Klicks **Genehmigen und schließen**.
 
    >[!NOTE]
    >

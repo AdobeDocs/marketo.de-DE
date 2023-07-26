@@ -43,7 +43,7 @@ Obwohl optional, empfehlen wir, das Kontrollkästchen Automatisch bewerben zu ak
    <td><strong>Konten (%)</strong></td> 
    <td> 
     <div>
-      Prozentsatz der Konten in Modelleingaben mit diesem Rang 
+      Prozentsatz der Konten in Modelleingaben mit diesem Rang. 
     </div></td> 
   </tr> 
   <tr> 

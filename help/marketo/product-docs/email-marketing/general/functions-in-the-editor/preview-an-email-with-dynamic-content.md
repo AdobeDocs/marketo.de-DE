@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Sehen Sie sich Ihre E-Mail in der Vorschau an, nachdem Sie dynamischen Inhalt hinzugefügt haben, um ihn zu überprüfen.
 
-1. Wählen Sie Ihre E-Mail aus und klicken Sie auf **Vorschau von E-Mail**.
+1. E-Mail auswählen und auf **Vorschau von E-Mail**.
 
    ![](assets/one-3.png)
 
@@ -27,7 +27,7 @@ Sehen Sie sich Ihre E-Mail in der Vorschau an, nachdem Sie dynamischen Inhalt hi
 
    ![](assets/three-2.png)
 
-1. Mit den Pfeilen können Sie durch die Optionen blättern.
+1. Verwenden Sie die Pfeile, um durch die Optionen zu scrollen.
 
    ![](assets/four-1.png)
 

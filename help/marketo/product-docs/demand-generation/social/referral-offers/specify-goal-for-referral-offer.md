@@ -29,7 +29,7 @@ Beispielziele:
 
    ![](assets/ma.png)
 
-1. Wählen Sie das Verweisangebot aus und klicken Sie auf **Entwurf bearbeiten**.
+1. Wählen Sie das Angebot aus und klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/image2014-9-19-15-3a6-3a35.png)
 
@@ -37,7 +37,7 @@ Beispielziele:
 
    ![](assets/image2014-9-19-15-3a6-3a44.png)
 
-1. under **Einstellungen**, wählen Sie einen Ereignistyp aus der **Erfüllungsziel** Dropdown-Liste.
+1. under **Einstellungen**, wählen Sie einen Ereignistyp aus der **Erfüllungsziel** angezeigt.
 
    ![](assets/image2014-9-19-15-3a6-3a56.png)
 
@@ -45,11 +45,11 @@ Beispielziele:
 >
 >Wenn Sie die **Gutschrift an verweisende Stelle** Flussschritt: Sie müssen **Smart List Trigger** als Zieltyp für die Erfüllung.
 
-* Referred Visits: Angebotsteilnehmer erhalten die Gutschrift für jeden Besuch von einem Freund auf der Seite, auf der sich Ihr Angebot befindet.
+* Referred Visits: Angebotsteilnehmer erhalten die Gutschrift für jeden Besuch von einem Freund auf der Seite, auf der Ihr Angebot gehostet wird.
 * Referred Sign-Ups: Angebotsteilnehmer erhalten die Gutschrift für jeden Freund, der sich für das Angebot anmeldet.
 * Smart List Trigger: Die Teilnehmer des Angebots erhalten die Gutschrift für jeden Freund, der die Bedingungen eines [Smart-Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md) Trigger in einem [Smart-Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md). Sie können beispielsweise einen Trigger verwenden, der ausgelöst wird, wenn sich ein überwiesener Interessent für ein Webinar anmeldet.
 
-* Benutzerspezifisches JavaScript-Ereignis: Angebotsteilnehmer erhalten die Gutschrift für jeden Freund, der ein bestimmtes JavaScript-Ereignis auf Ihrer Seite Trigger. Siehe [Konversionsskript für benutzerspezifische Ereignisse](/help/marketo/product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md).
+* Benutzerspezifisches JavaScript-Ereignis: Die Teilnehmer des Angebots erhalten die Gutschrift für jeden Freund, der ein bestimmtes JavaScript-Ereignis auf Ihrer Seite Trigger. Siehe [Konversionsskript für benutzerspezifische Ereignisse](/help/marketo/product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md).
 
 >[!NOTE]
 >

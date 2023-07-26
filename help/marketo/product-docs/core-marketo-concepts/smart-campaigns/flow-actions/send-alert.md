@@ -35,9 +35,9 @@ Marketo kann einen E-Mail-Warnhinweis mit Personeninformationen an jede Person s
 
    >[!NOTE]
    >
-   >Stellen Sie sicher, dass Sie die **Warnhinweisinformationen senden** Token in Ihrer E-Mail.
+   >Verwenden Sie unbedingt die **Warnhinweisinformationen senden** Token in Ihrer E-Mail.
 
-1. Wählen Sie den Warnhinweis-Empfänger aus. Sie können &quot;Vertriebsmitarbeiter&quot;oder &quot;Kontoinhaber&quot;auswählen.
+1. Wählen Sie den Empfänger der Warnung aus. Sie können &quot;Vertriebsmitarbeiter&quot;oder &quot;Kontoinhaber&quot;auswählen.
 
    ![](assets/four-2.png)
 

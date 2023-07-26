@@ -25,7 +25,7 @@ Eine Webkampagne ist eine benutzerdefinierte Reaktion, die mit einem bestimmten 
 
    ![](assets/create-new-web-campaign-hand.png)
 
-1. Wählen Sie die **In Zone** Kampagnentyp. Anpassen und Hinzufügen eines **Zone-ID.** Setzen Sie die Kampagne auf **Sticky** und fügen Sie Ihre kreativen Inhalte im Editor hinzu. Fügen Sie die URL der Seite hinzu, die Sie in der Vorschau anzeigen möchten, und klicken Sie auf **Vorschau** um zu sehen, wie die Kampagne auf Ihrer Site reagieren wird.
+1. Wählen Sie die **In Zone** Kampagnentyp. Anpassen und Hinzufügen eines **Zone-ID.** Setzen Sie die Kampagne auf **Sticky** und fügen Sie Ihre kreativen Inhalte im Editor hinzu. Fügen Sie die URL der Seite hinzu, deren Vorschau Sie anzeigen möchten, und klicken Sie auf **Vorschau** um zu sehen, wie die Kampagne auf Ihrer Site reagieren wird.
 
    ![](assets/new-3-1.png)
 
@@ -70,7 +70,7 @@ Eine Webkampagne ist eine benutzerdefinierte Reaktion, die mit einem bestimmten 
    <td colspan="1">Anzeigen einer Vorschau von Kampagnen vor dem Start <br> 
     <ul> 
      <li> URL - Geben Sie eine Beispiel-URL ein, unter der die Kampagne laufen würde, um ein Vorschaubeispiel dafür zu erhalten, wie die Kampagne live aussehen würde.</li> 
-     <li>Gerät - Sehen Sie sich die Darstellung Ihrer Kampagne auf dem Gerät in der Vorschau an: Desktop, Mobiles Hochformat, Mobiles Querformat, Tablet-Hochformat, Hochformat.</li> 
+     <li>Gerät - Sehen Sie sich an, wie Ihre Kampagne auf dem Gerät dargestellt wird: Desktop, Mobiles Hochformat, Mobilgerät - Querformat, Tablet - Hochformat, Hochformat.</li> 
      <li> Vorschau - Klicken <strong>Vorschau</strong> um ein neues Fenster der Beispiel-URL zu öffnen, um zu sehen, wie die Kampagne reagiert.</li> 
      <li> Freigabe - Verwenden Sie die Schaltfläche Freigeben , um eine E-Mail an einen Kollegen mit einem Link zu senden, um die Proxy-Kampagne anzuzeigen.</li> 
     </ul></td> 
@@ -88,7 +88,7 @@ Eine Webkampagne ist eine benutzerdefinierte Reaktion, die mit einem bestimmten 
 
 ## Eine Webkampagne bearbeiten {#edit-a-web-campaign}
 
-Aus dem **Web-Kampagnen** Seite, klicken Sie auf **Bearbeiten** in der Kampagne.
+Aus dem **Web-Kampagnen** Seite, klicken **Bearbeiten** in der Kampagne.
 
 ![](assets/in-zone-web-campaign-edit.png)
 

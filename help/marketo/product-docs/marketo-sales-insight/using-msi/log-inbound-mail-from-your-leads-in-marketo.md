@@ -29,7 +29,7 @@ Sie sollten eine Bestätigung sehen.
 
 ![](assets/image2014-9-23-17-3a13-3a39.png)
 
-## Über die E-Mail selbst {#from-the-email-itself}
+## E-Mail selbst {#from-the-email-itself}
 
 Wenn Sie die E-Mail geöffnet haben, können Sie von dort aus einfach auf die Schaltfläche Mit Marketo protokollieren klicken.
 

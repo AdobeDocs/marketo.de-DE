@@ -33,7 +33,7 @@ Wählen Sie aus, für welchen Zeitraum Metriken angezeigt werden sollen. In dies
 >
 >Die Auswahl &quot;Vorheriges Jahr&quot;wurde vorübergehend entfernt. Sie haben weiterhin die Möglichkeit, die Leistungsdaten des gesamten Vorjahres über die Auswahl des benutzerdefinierten Bereichs anzuzeigen.
 
-Metriken werden in zwei Diagrammen dargestellt: Donut und Balken.
+Die Metriken werden in zwei Diagrammen dargestellt: Doppel- und Balkendiagramm.
 
 ![](assets/four.png)
 

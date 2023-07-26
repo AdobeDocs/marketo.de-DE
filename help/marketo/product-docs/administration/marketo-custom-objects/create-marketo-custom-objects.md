@@ -31,17 +31,17 @@ In diesem Beispiel wird ein benutzerdefiniertes Objekt vom Typ Auto zur Verwendu
 
    ![](assets/create-marketo-custom-objects-1.png)
 
-1. Klicken **[!UICONTROL Benutzerdefinierte Marketo-Objekte]**.
+1. Klicks **[!UICONTROL Benutzerdefinierte Marketo-Objekte]**.
 
    ![](assets/create-marketo-custom-objects-2.png)
 
-1. Klicken **[!UICONTROL Neues benutzerdefiniertes Objekt]**.
+1. Klicks **[!UICONTROL Neues benutzerdefiniertes Objekt]**.
 
    ![](assets/create-marketo-custom-objects-3.png)
 
    >[!NOTE]
    >
-   >Die [!UICONTROL Benutzerdefinierte Marketo-Objekte] -Tab zeigt alle benutzerdefinierten Objekte auf der rechten Seite sowie Details zu allen genehmigten Objekten an, einschließlich der Anzahl der Datensätze und Felder bei der letzten Aktualisierung.
+   >Die [!UICONTROL Benutzerdefinierte Marketo-Objekte] auf der rechten Seite werden alle benutzerdefinierten Objekte sowie Details zu allen genehmigten Objekten angezeigt, einschließlich der Anzahl der Datensätze und Felder bei der letzten Aktualisierung.
 
 1. Geben Sie einen [!UICONTROL Anzeigename]. Die [!UICONTROL API-Name] und [!UICONTROL Plural Name] automatisch aufgefüllt werden. Geben Sie einen [!UICONTROL Beschreibung] (optional).
 
@@ -51,7 +51,7 @@ In diesem Beispiel wird ein benutzerdefiniertes Objekt vom Typ Auto zur Verwendu
    >
    >Sie können diese Felder bearbeiten, wenn Sie sie erstellen, aber nachdem sie gespeichert wurden, können Sie nur die [!UICONTROL Plural Name] und **[!UICONTROL In Lead-Detail anzeigen]** festlegen.
 
-1. Ziehen Sie die **[!UICONTROL In Lead-Detail anzeigen]** Anzeige-Regler **[!UICONTROL Anzeigen]** , wenn Sie benutzerdefinierte Objektdaten auf der Seite &quot;Datenbank&quot;anzeigen möchten. Klicken **[!UICONTROL Speichern]**.
+1. Ziehen Sie die **[!UICONTROL In Lead-Detail anzeigen]** Anzeige-Regler **[!UICONTROL Anzeigen]** , wenn Sie benutzerdefinierte Objektdaten auf der Seite &quot;Datenbank&quot;anzeigen möchten. Klicks **[!UICONTROL Speichern]**.
 
    ![](assets/create-marketo-custom-objects-5.png)
 
@@ -59,7 +59,7 @@ In diesem Beispiel wird ein benutzerdefiniertes Objekt vom Typ Auto zur Verwendu
 
    ![](assets/create-marketo-custom-objects-6.png)
 
-   Der nächste Schritt besteht darin, Felder hinzuzufügen [Erstellen eines benutzerdefinierten Objekts](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md).
+   Der nächste Schritt besteht darin, Felder zu [Erstellen eines benutzerdefinierten Objekts](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md).
 
    >[!NOTE]
    >
@@ -77,11 +77,11 @@ Dieses Beispiel zeigt ein benutzerdefiniertes Kursobjekt, mit dem Sie eine n:n-B
 
    ![](assets/create-marketo-custom-objects-7.png)
 
-1. Klicken **[!UICONTROL Benutzerdefinierte Marketo-Objekte]**.
+1. Klicks **[!UICONTROL Benutzerdefinierte Marketo-Objekte]**.
 
    ![](assets/create-marketo-custom-objects-8.png)
 
-1. Klicken **[!UICONTROL Neues benutzerdefiniertes Objekt]**.
+1. Klicks **[!UICONTROL Neues benutzerdefiniertes Objekt]**.
 
    ![](assets/create-marketo-custom-objects-9.png)
 
@@ -93,7 +93,7 @@ Dieses Beispiel zeigt ein benutzerdefiniertes Kursobjekt, mit dem Sie eine n:n-B
    >
    >Sie können diese Felder bearbeiten, wenn Sie sie erstellen, aber nachdem sie gespeichert wurden, können Sie nur die [!UICONTROL Plural Name] und **[!UICONTROL In Lead-Detail anzeigen]** festlegen.
 
-1. Ziehen Sie die **[!UICONTROL In Lead-Detail anzeigen]** Anzeige-Regler **[!UICONTROL Anzeigen]** , wenn Sie benutzerdefinierte Objektdaten auf der Seite &quot;Datenbank&quot;anzeigen möchten. Klicken **[!UICONTROL Speichern]**.
+1. Ziehen Sie die **[!UICONTROL In Lead-Detail anzeigen]** Anzeige-Regler **[!UICONTROL Anzeigen]** , wenn Sie benutzerdefinierte Objektdaten auf der Seite &quot;Datenbank&quot;anzeigen möchten. Klicks **[!UICONTROL Speichern]**.
 
    ![](assets/create-marketo-custom-objects-11.png)
 
@@ -119,11 +119,11 @@ Verwenden Sie ein zwischengeschaltetes Objekt, um ein benutzerdefiniertes Objekt
 
    ![](assets/create-marketo-custom-objects-13.png)
 
-1. Klicken **[!UICONTROL Benutzerdefinierte Marketo-Objekte]**.
+1. Klicks **[!UICONTROL Benutzerdefinierte Marketo-Objekte]**.
 
    ![](assets/create-marketo-custom-objects-14.png)
 
-1. Klicken **[!UICONTROL Neues benutzerdefiniertes Objekt]**.
+1. Klicks **[!UICONTROL Neues benutzerdefiniertes Objekt]**.
 
    ![](assets/create-marketo-custom-objects-15.png)
 
@@ -135,7 +135,7 @@ Verwenden Sie ein zwischengeschaltetes Objekt, um ein benutzerdefiniertes Objekt
    >
    >Sie können diese Felder bearbeiten, wenn Sie sie erstellen, aber nachdem sie gespeichert wurden, können Sie nur die [!UICONTROL Plural Name] und [!UICONTROL In Lead-Detail anzeigen] festlegen.
 
-1. Ziehen Sie die **[!UICONTROL In Lead-Detail anzeigen]** Anzeige-Regler **Anzeigen** , wenn Sie benutzerdefinierte Objektdaten auf der Seite &quot;Datenbank&quot;anzeigen möchten. Klicken **Speichern**.
+1. Ziehen Sie die **[!UICONTROL In Lead-Detail anzeigen]** Anzeige-Regler **Anzeigen** , wenn Sie benutzerdefinierte Objektdaten auf der Seite &quot;Datenbank&quot;anzeigen möchten. Klicks **Speichern**.
 
    ![](assets/create-marketo-custom-objects-17.png)
 

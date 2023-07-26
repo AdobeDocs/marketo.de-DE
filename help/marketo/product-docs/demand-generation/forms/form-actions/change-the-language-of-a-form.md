@@ -23,7 +23,7 @@ Erfahren Sie, wie Sie die Sprache Ihres Formulars ändern können.
 
    ![](assets/change-the-language-of-a-form-2.png)
 
-1. Klicken **Formulareinstellungen** und wählen Sie **Einstellungen**.
+1. Klicks **Formulareinstellungen** und wählen **Einstellungen**.
 
    ![](assets/change-the-language-of-a-form-3.png)
 
@@ -35,11 +35,11 @@ Erfahren Sie, wie Sie die Sprache Ihres Formulars ändern können.
 
    ![](assets/change-the-language-of-a-form-5.png)
 
-1. Klicken **Beenden**.
+1. Klicks **Beenden**.
 
    ![](assets/change-the-language-of-a-form-6.png)
 
-1. Klicken **Genehmigen und schließen** , um Änderungen anzuwenden und zu speichern.
+1. Klicks **Genehmigen und schließen** , um Änderungen anzuwenden und zu speichern.
 
    ![](assets/change-the-language-of-a-form-7.png)
 

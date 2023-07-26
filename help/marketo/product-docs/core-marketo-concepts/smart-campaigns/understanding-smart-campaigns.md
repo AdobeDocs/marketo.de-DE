@@ -13,9 +13,9 @@ ht-degree: 4%
 
 # Smart-Kampagnen {#understanding-smart-campaigns}
 
-Wenn Marketo ein leistungsstarkes Auto ist, ist die intelligente Kampagne wirklich der Motor. Es ist einfach, zu beginnen, aber kann fast alles tun, was Sie darum bitten.
+Wenn Marketo ein leistungsstarkes Auto ist, ist die intelligente Kampagne wirklich der Motor. Es ist einfach, zu beginnen, aber kann fast alles tun, was man davon verlangt.
 
-Die intelligente Kampagne umfasst drei Hauptbereiche: Die [Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md){target="_blank"}, [Flow](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} and [Schedule](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"} Registerkarten.
+Die intelligente Kampagne hat drei Hauptbereiche: Die [Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md){target="_blank"}, [Flow](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} and [Schedule](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"} Registerkarten.
 
 ## Intelligente Liste {#smart-list}
 

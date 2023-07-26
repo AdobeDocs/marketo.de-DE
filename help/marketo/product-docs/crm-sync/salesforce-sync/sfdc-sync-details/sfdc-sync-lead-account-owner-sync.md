@@ -11,7 +11,7 @@ ht-degree: 13%
 
 ---
 
-# SFDC Sync: Synchronisierung von Lead-/Kontoinhabern {#sfdc-sync-lead-account-owner-sync}
+# SFDC-Synchronisation: Synchronisation von Lead-/Kontoinhabern {#sfdc-sync-lead-account-owner-sync}
 
 Diese synchronisieren technisch die &quot;Benutzer&quot;-Tabelle in Salesforce, werden jedoch als &quot;Lead-/Kontoeigentümer&quot;-Felder bezeichnet.
 
@@ -33,7 +33,7 @@ Für jeden Kontakt werden die oben genannten fünf Lead-Eigentümer-Felder sowie
 
 ## Kann ich den Lead-Inhaber in Marketo ändern? {#can-i-change-the-lead-owner-in-marketo}
 
-Verwenden Sie auf jeden Fall die [Inhaber ändern](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md) Flussaktion.
+Absolut: Verwenden Sie einfach die [Inhaber ändern](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md) Flussaktion.
 
 >[!NOTE]
 >
@@ -46,6 +46,6 @@ Es gibt viele Gründe für die Verwendung dieser Daten, z. B.
 * Senden einer personalisierten E-Mail mit der Unterschrift des Eigentümers des Verkaufs
 * Filtern nach bestimmten Vertriebsmitarbeitern für Marketing- oder Analyse der Effektivität
 * Zuweisungs- (und Neuzuweisungsregeln) in Marketo
-* Verwenden Sie sie im [Inhaber ändern](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md), [Person mit SFDC synchronisieren](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)und [Aufgabe erstellen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) Flussaktionen
+* Verwenden Sie sie im [Inhaber ändern](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md), [Person mit SFDC synchronisieren](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md), und [Aufgabe erstellen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) Flussaktionen
 
 Marketo verfügt über eine fantastische Salesforce-Synchronisation. Niemand sonst macht es so gut!

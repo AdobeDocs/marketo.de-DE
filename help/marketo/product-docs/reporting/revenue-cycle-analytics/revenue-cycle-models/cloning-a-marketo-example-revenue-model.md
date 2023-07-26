@@ -31,7 +31,7 @@ Marketo verfügt über Beispiel-Umsatzmodelle, die Sie bei der Inspiration unter
 
    ![](assets/image2015-4-27-17-3a18-3a29.png)
 
-1. Geben Sie einen **Name** und klicken Sie auf **Klonen**.
+1. Geben Sie einen **Name** und klicken **Klonen**.
 
    ![](assets/image2015-4-27-17-3a20-3a22.png)
 

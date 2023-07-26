@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Tracking für einen E-Mail-Link deaktivieren {#disable-tracking-for-an-email-link}
 
-Manchmal möchten Sie die **Marketo-Tracking-URL** auf einen Link in einer E-Mail klicken. Dies ist nützlich, wenn die Zielseite URL-Parameter nicht unterstützt und zu einem fehlerhaften Link führen kann.
+Manchmal möchten Sie die **Marketo Tracking URL** auf einen Link in einer E-Mail klicken. Dies ist nützlich, wenn die Zielseite URL-Parameter nicht unterstützt und zu einem fehlerhaften Link führen kann.
 
-1. Wählen Sie Ihre E-Mail aus und klicken Sie auf **Entwurf bearbeiten**.
+1. E-Mail auswählen und auf **Entwurf bearbeiten**.
 
    ![](assets/one-7.png)
 
@@ -31,7 +31,7 @@ Manchmal möchten Sie die **Marketo-Tracking-URL** auf einen Link in einer E-Mai
 
    ![](assets/four-4.png)
 
-1. Sie werden die **mkt_tok-Feld einschließen** verschwindet. Klicken **Anwenden**.
+1. Sie werden die **mkt_tok-Feld einschließen** verschwindet. Klicks **Anwenden**.
 
    ![](assets/five-3.png)
 
@@ -39,7 +39,7 @@ Manchmal möchten Sie die **Marketo-Tracking-URL** auf einen Link in einer E-Mai
    >
    >Deaktivieren von **mkt_tok einschließen** lässt weiterhin zu, dass der Link verfolgt wird, aber nach einer Umleitung enthält die Ziel-URL nicht den Abfragezeichenfolgenparameter mkt_tok . Dieser Parameter wird von Marketo-Einstiegsseiten und Munchkin verwendet, um eine ordnungsgemäße Verfolgung der Personenaktivitäten sicherzustellen (z. B. wenn sich eine Person von einer E-Mail abmeldet). Sie sollten die Verwendung dieser Funktion vermeiden, es sei denn, Sie sehen auf Ihrer Website ein seltsames Verhalten aufgrund des vorhandenen Parameters.
 
-1. Klicken **Speichern**.
+1. Klicks **Speichern**.
 
    ![](assets/image2014-9-17-22-3a25-3a20.png)
 

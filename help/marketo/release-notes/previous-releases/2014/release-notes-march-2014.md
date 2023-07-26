@@ -11,7 +11,7 @@ ht-degree: 3%
 
 ---
 
-# Versionshinweise: März 2014 {#release-notes-march}
+# März 2014 - Versionshinweise {#release-notes-march}
 
 Die folgenden Funktionen sind in der Version vom März 2014 enthalten. Informationen zur Verfügbarkeit von Funktionen finden Sie in Ihrer Marketo Edition. Stellen Sie nach der Veröffentlichung sicher, dass Sie für jede Funktion Links zu Knowledge Base-Artikeln finden.
 
@@ -41,9 +41,9 @@ Sie können jetzt [Programme ohne Zeitkosten einschließen](/help/marketo/produc
 
 ## Hybride und implizite Optionen für die Lead-Konversion {#hybrid-and-implicit-options-for-lead-conversion}
 
-Sie können die Art und Weise ändern, wie Marketo Kontakte und Möglichkeiten für die Lead-Konversionsmetriken in der Lead-Analyse verknüpft. Sie können [Attributionseinstellung ändern](/help/marketo/product-docs/administration/settings/change-attribution-settings-for-analytics.md) auf eine von drei Optionen zu setzen. Wenn Sie diese Einstellung ändern, werden keine Marketo- oder CRM-Daten geändert. Sie ändert lediglich die Ausführung Ihrer Berichte und kann jederzeit rückgängig gemacht werden.
+Sie können die Art und Weise ändern, wie Marketo Kontakte und Möglichkeiten für die Lead-Konversionsmetriken in der Lead-Analyse verknüpft. Sie können [Attributionseinstellung ändern](/help/marketo/product-docs/administration/settings/change-attribution-settings-for-analytics.md) auf eine von drei Optionen zu setzen. Wenn Sie diese Einstellung ändern, werden keine Marketo- oder CRM-Daten geändert. Sie ändern lediglich die Art und Weise, wie Ihre Berichte ausgeführt werden, und können jederzeit zurückgesetzt werden.
 
-Die Einstellung Explizit behandelt Kontakte mit Rollen in einer Chance nur als konvertierte Leads (Standardverhalten). Implizit behandelt alle Kontakte, die mit dem Konto in der Gelegenheit verbunden sind, unabhängig von der Rolle, wie konvertiert. Hybrid behandelt Kontakte mit Rollen, sofern verfügbar, wie konvertiert. wenn nicht, behandeln wir alle Kontakte in dem Konto als konvertiert.
+Die Einstellung Explizit behandelt Kontakte mit Rollen in einer Chance nur als konvertierte Leads (Standardverhalten). Implizit behandelt alle Kontakte, die mit dem Konto in der Gelegenheit verbunden sind, unabhängig von der Rolle, wie konvertiert. Hybrid behandelt Kontakte mit Rollen, sofern verfügbar, als konvertiert. Wenn keine verfügbar ist, werden alle Kontakte im Konto als konvertiert behandelt.
 
 Zur Erinnerung: Diese Einstellung ändert auch die Programmzuordnungsmetriken.
 
@@ -51,7 +51,7 @@ Zur Erinnerung: Diese Einstellung ändert auch die Programmzuordnungsmetriken.
 
 ## Zusätzliche Benutzersprache {#additional-user-language}
 
-Wählen Sie Ihre [Marketo-Anwendungssprache](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md). Zeigen Sie die Marketo-Lead-Management-Benutzeroberfläche in Ihrer bevorzugten Sprache an - jetzt wird Japanisch unterstützt.
+Auswählen [Marketo-Anwendungssprache](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md). Zeigen Sie die Marketo-Lead-Management-Benutzeroberfläche in Ihrer bevorzugten Sprache an - jetzt wird Japanisch unterstützt.
 
 ![](assets/image2014-9-22-11-3a37-3a14.png)
 

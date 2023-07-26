@@ -19,7 +19,7 @@ Testen Sie ganze E-Mails gegeneinander. Wenn der Test vorüber ist, senden Sie d
 >
 >[E-Mail-Champion/Challenger hinzufügen](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. Wählen Sie im E-Mail-Test-Editor **Gesamte E-Mails** im **Testtyp** Dropdown-Liste.
+1. Wählen Sie im E-Mail-Test-Editor **Gesamte E-Mails** im **Testtyp** angezeigt.
 
    ![](assets/image2014-9-12-16-3a39-3a14.png)
 
@@ -49,7 +49,7 @@ Testen Sie ganze E-Mails gegeneinander. Wenn der Test vorüber ist, senden Sie d
 
    [Mehr Informationen als jemals zuvor über das statistische Vertrauen](https://en.wikipedia.org/wiki/Confidence_interval).
 
-1. Klicken **Nächste**.
+1. Klicks **Nächste**.
 
    ![](assets/image2014-9-12-16-3a42-3a9.png)
 

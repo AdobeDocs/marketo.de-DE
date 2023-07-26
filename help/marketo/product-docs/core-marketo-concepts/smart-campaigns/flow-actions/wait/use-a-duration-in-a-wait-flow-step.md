@@ -31,7 +31,7 @@ Mit dem Schritt Wartefluss können Sie das Journey einer Person für eine bestim
 
    ![](assets/image2014-9-22-11-3a54-3a10.png)
 
-1. Geben Sie optional die Zeit an. Klicken **Speichern**.
+1. Geben Sie optional die Zeit an. Klicks **Speichern**.
 
    ![](assets/image2014-9-22-11-3a54-3a35.png)
 
@@ -39,7 +39,7 @@ Mit dem Schritt Wartefluss können Sie das Journey einer Person für eine bestim
    >
    >**Beispiel**
    >
-   >Eine Person Trigger am Freitag um 17 Uhr eine Smart-Kampagne. Der Warteschritt ist erweitert: 48 Stunden und muss am Mo-Fri um 9 Uhr enden.
+   >Eine Person Trigger am Freitag um 17 Uhr eine Smart-Kampagne. Der Warteschritt ist fortgeschritten: 48 Stunden und muss am Montag um 9 Uhr enden.
    >
    >Das Ergebnis wäre, dass die Person im Fluss fortfahren würde **Montag, 9 Uhr**. Dies ist das erste M-F-Datum nach 48 Stunden.
 

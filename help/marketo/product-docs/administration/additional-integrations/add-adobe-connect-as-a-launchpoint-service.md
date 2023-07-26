@@ -11,7 +11,7 @@ ht-degree: 2%
 
 ---
 
-# Hinzufügen von Adobe Connect as a [!DNL LaunchPoint] Diensleistung {#add-adobe-connect-as-a-launchpoint-service}
+# Hinzufügen von Adobe Connect as a [!DNL LaunchPoint] Dienst {#add-adobe-connect-as-a-launchpoint-service}
 
 Marketo verwaltet die Registrierung und Teilnahme Ihres Adobe Connect-Webinars.
 
@@ -21,7 +21,7 @@ Marketo verwaltet die Registrierung und Teilnahme Ihres Adobe Connect-Webinars.
 
 >[!NOTE]
 >
->Für diesen Schritt sind ein bestehendes Abonnement für Adobe Connect und Administratorrechte erforderlich. Verwenden Sie die folgenden Einstellungen: Benutzername, Kennwort, Teilnehmerkennwort und URL des Sitzungsordners.
+>Für diesen Schritt sind ein bestehendes Abonnement für Adobe Connect und Administratorrechte erforderlich. Verwenden Sie die folgenden Einstellungen: Benutzername, Kennwort, Teilnehmerkennwort und Sitzungsordner-URL.
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ Marketo verwaltet die Registrierung und Teilnahme Ihres Adobe Connect-Webinars.
 
    ![](assets/add-adobe-connect-as-a-launchpoint-service-1.png)
 
-1. Klicken **[!UICONTROL LaunchPoint]**.
+1. Klicks **[!UICONTROL LaunchPoint]**.
 
    ![](assets/add-adobe-connect-as-a-launchpoint-service-2.png)
 
@@ -39,7 +39,7 @@ Marketo verwaltet die Registrierung und Teilnahme Ihres Adobe Connect-Webinars.
 
    ![](assets/add-adobe-connect-as-a-launchpoint-service-3.png)
 
-1. Geben Sie einen **[!UICONTROL Anzeigename]**. under **[!UICONTROL Diensleistung]**, wählen Sie Adobe Connect aus.
+1. Geben Sie einen **[!UICONTROL Anzeigename]**. under **[!UICONTROL Dienst]**, wählen Sie Adobe Connect aus.
 
    ![](assets/add-adobe-connect-as-a-launchpoint-service-4.png)
 
@@ -65,4 +65,4 @@ Ihr Adobe Connect-Dienst ist jetzt mit Marketo synchronisiert!
 
 >[!MORELIKETHIS]
 >
->Erfahren Sie, wie Sie [Ereignis mit Adobe Connect erstellen](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md){target="_blank"}.
+>Erfahren Sie, wie [Ereignis mit Adobe Connect erstellen](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md){target="_blank"}.

@@ -29,9 +29,9 @@ Marketo synchronisiert Daten kontinuierlich und täglich mit Microsoft Dynamics.
 
 >[!NOTE]
 >
->Die erste Synchronisation in Ihrem Abonnement dauert je nach Größe Ihrer Datenbank Minuten bis Stunden. Marketo kopiert die gesamte Datenbank aus Dynamics. Danach dauert eine Synchronisation meist nur Sekunden oder Minuten; neu synchronisiert werden nur die Daten, die sich geändert haben.
+>Die allererste Synchronisation in Ihrem Abonnement dauert je nach Größe Ihrer Datenbank Minuten bis Stunden. Marketo kopiert die gesamte Datenbank aus Dynamics. Danach dauert eine Synchronisation meist nur Sekunden oder Minuten; neu synchronisiert werden nur die Daten, die sich geändert haben.
 
-Die Synchronisation zwischen Marketo und Dynamics erfolgt bidirektional für Leads und Kontakte. Wenn Sie Änderungen in Marketo oder Dynamics vornehmen, werden Ihre Aktualisierungen in beiden Systemen übernommen. Alle anderen Felder wie Konten und Möglichkeiten werden nur auf eine Weise synchronisiert, von Dynamics bis Marketo.
+Die Synchronisation zwischen Marketo und Dynamics erfolgt bidirektional für Leads und Kontakte. Wenn Sie Änderungen in Marketo oder Dynamics vornehmen, werden Ihre Aktualisierungen in beiden Systemen übernommen. Alle anderen Felder, wie Konten und Chancen, werden nur auf eine Weise synchronisiert, von Dynamics bis Marketo.
 
 ## Was wird zwischen Marketo und Microsoft Dynamics synchronisiert? {#what-is-synced-between-marketo-and-microsoft-dynamics}
 
@@ -40,7 +40,7 @@ Die Synchronisation zwischen Marketo und Dynamics erfolgt bidirektional für Lea
 * [Konten](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-account-sync.md)
 * [Benutzer](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-user-sync.md)
 * Teams (Gruppen von System-Benutzern)
-* [Opportunities](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-opportunity-sync.md)
+* [Opportunitys](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-opportunity-sync.md)
 * [Benutzerdefinierte Entitäten](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity.md)
 
 Die [Anmeldedaten, die Sie in Marketo für Dynamics eingeben](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md) werden zum Synchronisieren von Daten verwendet.

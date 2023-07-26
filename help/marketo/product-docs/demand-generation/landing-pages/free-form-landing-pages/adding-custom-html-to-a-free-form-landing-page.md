@@ -17,7 +17,7 @@ Sie können Landingpages benutzerdefinierte Skripte, CSS oder andere HTML hinzuf
 
 >[!NOTE]
 >
->Der Marketo-Support ist nicht für die Fehlerbehebung bei benutzerdefiniertem HTML eingerichtet. Wenden Sie sich an einen Webentwickler, um Hilfe beim HTML zu erhalten.
+>Der Marketo-Support ist nicht für die Fehlerbehebung bei benutzerdefiniertem HTML eingerichtet. Wenden Sie sich an einen Web-Entwickler, um Hilfe beim HTML zu erhalten.
 
 1. Wählen Sie Ihre Landingpage aus und klicken Sie auf **Entwurf bearbeiten**.
 

@@ -8,7 +8,7 @@ feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '273'
-ht-degree: 13%
+ht-degree: 12%
 
 ---
 
@@ -22,7 +22,7 @@ Sie können anpassen, welche Kontaktinformationen Ihnen angezeigt werden, indem 
 
    ![](assets/people-page-columns-1.png)
 
-1. Blättern Sie durch und wählen Sie die gewünschten Spalten aus (Sie können auch auf **Alle auswählen** wenn Sie jede Spalte benötigen). Klicken Sie abschließend auf die Liste.
+1. Blättern Sie durch und wählen Sie die gewünschten Spalten aus (Sie können auch auf **Alle auswählen** , wenn Sie jede Spalte wünschen). Klicken Sie abschließend auf die Liste.
 
    ![](assets/people-page-columns-2.png)
 
@@ -43,7 +43,7 @@ Sie können anpassen, welche Kontaktinformationen Ihnen angezeigt werden, indem 
    <td>Vorname</td> 
   </tr> 
   <tr> 
-   <td>Nachname (standard)</td> 
+   <td>Nachname (Standard)</td> 
    <td>Nachname</td> 
   </tr> 
   <tr> 
@@ -92,7 +92,7 @@ Sie können anpassen, welche Kontaktinformationen Ihnen angezeigt werden, indem 
   </tr> 
   <tr> 
    <td>Einverständnis</td> 
-   <td><p>Rechtliche Interessen, Durchführung eines Vertrags, Erfüllung gesetzlicher Verpflichtungen, Schutz wesentlicher Interessen, öffentliches Interesse/öffentliche Behörde und andere</p></td> 
+   <td><p>Rechtliche Interessen, Ausführung eines Vertrags, Erfüllung gesetzlicher Verpflichtungen, Schutz wesentlicher Interessen, öffentliches Interesse/öffentliche Behörde und andere</p></td> 
   </tr> 
   <tr> 
    <td>Offene Aufgaben</td> 
@@ -127,7 +127,7 @@ Sie können anpassen, welche Kontaktinformationen Ihnen angezeigt werden, indem 
    <td>Gruppen, denen die Person angehört</td> 
   </tr> 
   <tr> 
-   <td colspan="1">Hat abbestellt</td> 
+   <td colspan="1">Abgemeldet</td> 
    <td colspan="1">Status der Abmeldung von Vertrieb</td> 
   </tr> 
  </tbody> 

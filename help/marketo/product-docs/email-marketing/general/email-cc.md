@@ -31,25 +31,25 @@ Diese Funktion ist für alle Marketo-E-Mail-Assets verfügbar, unabhängig davon
 
    ![](assets/two.png)
 
-1. Klicken **E-Mail-CC-Einstellungen bearbeiten**.
+1. Klicks **E-Mail-CC-Einstellungen bearbeiten**.
 
    ![](assets/three.png)
 
-1. Wählen Sie bis zu 25 Marketo Lead- oder Firmenfelder (vom Typ &quot;E-Mail&quot;) aus, um diese als CC-Adressen in E-Mails verfügbar zu machen. Klicken **Speichern** wann geschehen.
+1. Wählen Sie bis zu 25 Marketo Lead- oder Firmenfelder (vom Typ &quot;E-Mail&quot;) aus, um diese als CC-Adressen in E-Mails verfügbar zu machen. Klicks **Speichern** wann geschehen.
 
    ![](assets/four.png)
 
 ## Verwenden von Email CC {#using-email-cc}
 
-1. Wählen Sie Ihre E-Mail aus und klicken Sie auf **Entwurf bearbeiten**.
+1. E-Mail auswählen und auf **Entwurf bearbeiten**.
 
    ![](assets/five.png)
 
-1. Klicken **E-Mail-Einstellungen**.
+1. Klicks **E-Mail-Einstellungen**.
 
    ![](assets/six.png)
 
-1. Wählen Sie bis zu fünf Felder aus, die Sie für CC-Benutzer verwenden möchten. In diesem Beispiel möchten wir nur den Lead Owner CC&#39;d. Klicken **Speichern** wann geschehen.
+1. Wählen Sie bis zu fünf Felder aus, die Sie für CC-Benutzer verwenden möchten. In diesem Beispiel möchten wir nur den Lead Owner CC&#39;d. Klicks **Speichern** wann geschehen.
 
    ![](assets/seven.png)
 
@@ -80,5 +80,5 @@ Diese Funktion ist für alle Marketo-E-Mail-Assets verfügbar, unabhängig davon
 >Sie haben die Möglichkeit, [Deaktivieren einiger oder aller Tracking-Links](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/disable-tracking-for-an-email-link.md) in einer E-Mail.
 
 * Nach Ausführung einer E-Mail-Kampagne enthält die Aktivität E-Mail senden eine Liste aller CC-Adressen, die für jeden Empfänger des Mailings enthalten waren. Wenn CC-Adressen aufgrund einer Abmeldung übersprungen wurden, wird dies auch in der Aktivität vermerkt.
-* Abmelde-Links und -Seiten funktionieren in CC&#39;d-E-Mails normal. Auf diese Weise können CC-Empfänger sich erfolgreich abmelden, wenn sie dies wünschen (Einhaltung der Anti-Spam-Vorschriften). Ein Datensatz mit dieser Aktion wird in der Marketo-Datenbank gespeichert.
+* Abmelde-Links und -Seiten funktionieren in CC&#39;d-E-Mails normal. Auf diese Weise können CC-Empfänger sich erfolgreich abmelden, wenn sie dies wünschen (Einhaltung der Anti-Spam-Vorschriften), und ein Datensatz mit dieser Aktion wird in der Marketo-Datenbank gespeichert.
 * Personen, die in Ihrer Marketo-Datenbank als abgemeldet aufgeführt sind, werden **not** E-Mails über CC empfangen.

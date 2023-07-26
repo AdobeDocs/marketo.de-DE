@@ -63,13 +63,13 @@ ht-degree: 0%
    >
    >Wenn Sie bereits auf einer anderen Registerkarte bei Azure als Administrator angemeldet sind, müssen Sie einen anderen Browser oder Inkognito-Modus verwenden, um sich als Synchronisierungsbenutzer anzumelden.
 
-1. Klicken **Accept**.
+1. Klicks **Accept**.
 
    ![](assets/grant-consent-for-client-id-app-registration-3.png)
 
 ## Zustimmung für alle Benutzer erteilen {#grant-consent-for-all-users}
 
-Als Administrator können Sie auch die delegierten Berechtigungen einer Anwendung für alle Benutzer in Ihrem Mandanten genehmigen. Die administrative Zustimmung verhindert, dass das Dialogfeld für die Zustimmung für jeden Benutzer im Mandanten angezeigt wird, und kann im Azure-Portal von Benutzern mit der Administratorrolle ausgeführt werden. Erfahren Sie, welche Administratorrollen verfügbar sind [Zustimmung zu delegierten Berechtigungen hier](https://docs.microsoft.com/en-us/azure/active-directory/roles/permissions-reference).
+Als Administrator können Sie auch die delegierten Berechtigungen einer Anwendung im Namen aller Benutzer in Ihrem Mandanten genehmigen. Die administrative Zustimmung verhindert, dass das Dialogfeld für die Zustimmung für jeden Benutzer im Mandanten angezeigt wird, und kann im Azure-Portal von Benutzern mit der Administratorrolle ausgeführt werden. Erfahren Sie, welche Administratorrollen verfügbar sind [Zustimmung zu delegierten Berechtigungen hier](https://docs.microsoft.com/en-us/azure/active-directory/roles/permissions-reference).
 
 1. Navigieren Sie in Ihrem Azure-Portal zur Startseite der Anwendung.
 
@@ -81,7 +81,7 @@ Als Administrator können Sie auch die delegierten Berechtigungen einer Anwendun
 
    ![](assets/grant-consent-for-client-id-app-registration-5.png)
 
-1. Klicken **Ja** zur Bestätigung.
+1. Klicks **Ja** zur Bestätigung.
 
    ![](assets/grant-consent-for-client-id-app-registration-6.png)
 

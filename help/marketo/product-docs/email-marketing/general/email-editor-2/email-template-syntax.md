@@ -13,9 +13,9 @@ ht-degree: 1%
 
 # Syntax der E-Mail-Vorlage {#email-template-syntax}
 
-In Marketos neuem E-Mail 2.0-Erlebnis bestehen E-Mail-Vorlagen aus einer beliebigen Kombination von Elementen, Variablen, Modulen oder Containern. Jede wird definiert, indem Sie Ihrer HTML eine Marketo-spezifische Syntax hinzufügen. Alte (v1.0) E-Mail-Vorlagen werden in Email Editor 2.0 unterstützt. Sie enthalten jedoch nicht alle Funktionen des neuen Editors.
+In Marketos neuem E-Mail 2.0-Erlebnis bestehen E-Mail-Vorlagen aus einer beliebigen Kombination von Elementen, Variablen, Modulen oder Containern. Jede wird definiert, indem Sie Ihrer HTML eine Marketo-spezifische Syntax hinzufügen. Alte (v1.0) E-Mail-Vorlagen werden in E-Mail-Editor 2.0 unterstützt. Sie enthalten jedoch nicht alle neuen Editor-Funktionen.
 
-Die Marketo-E-Mail-Syntax funktioniert nur in Vorlagen und E-Mails. Funktion **not** funktionieren, wenn sie in Snippets oder Rich-Text-Token eingebettet sind.
+Die E-Mail-Syntax von Marketo funktioniert nur in Vorlagen und E-Mails. **not** funktionieren, wenn sie in Snippets oder Rich-Text-Token eingebettet sind.
 
 >[!NOTE]
 >
@@ -23,7 +23,7 @@ Die Marketo-E-Mail-Syntax funktioniert nur in Vorlagen und E-Mails. Funktion **n
 
 >[!CAUTION]
 >
->Bei Klassenwerten mit Marketo-Syntax (d. h. mktoModule, mktoContainer, mktoText) wird zwischen Groß- und Kleinschreibung unterschieden. Benutzerdefinierte Attributnamen (d. h. mktoimgwidth, mktoname) nicht.
+>Bei Klassenwerten mit Marketo-Syntax (d. h. mktoModule, mktoContainer, mktoText) wird zwischen Groß- und Kleinschreibung unterschieden. Benutzerdefinierte Attributnamen (d. h. mktoimgwidth, mktoname) sind nicht vorhanden.
 
 ## Elemente {#elements}
 
@@ -79,7 +79,7 @@ Beispiel:
 
 ## Bilder {#images}
 
-Sie haben zwei Optionen zum Definieren bearbeitbarer Bildelemente. Sie können entweder `<div>`, der einen Container angibt, der `<img>` in oder ein `<img>` -Tag. Wenn Sie möchten, dass der Endbenutzer einfach ein Bild auswählt, das die Bild-URL zurückgibt (im Gegensatz zum DOM), lesen Sie bitte &quot;Bildvariablen&quot;im folgenden Abschnitt. Mit den folgenden beiden Optionen wird eine HTML eingefügt `<img>` -Element.
+Sie haben zwei Optionen zum Definieren bearbeitbarer Bildelemente. Sie können entweder eine `<div>`, der einen Container angibt, der `<img>` in oder ein `<img>` -Tag. Wenn Sie möchten, dass der Endbenutzer einfach ein Bild auswählt, das die Bild-URL zurückgibt (im Gegensatz zum DOM), lesen Sie bitte &quot;Bildvariablen&quot;im folgenden Abschnitt. Mit den folgenden beiden Optionen wird eine HTML eingefügt `<img>` -Element.
 
 ### Option 1: Verwenden eines `<div>` {#option-use-a-div}
 
@@ -102,7 +102,7 @@ Optionale Attribute
 
 Standardwert (optional)
 
-**`<img>`**: Als `<img>` -Element, in dem das Bild platziert wird. Nützlich, wenn Sie dem Bild Inline-Stile hinzufügen möchten. Denken Sie daran, die Umgebung einzubeziehen `<a> </a>` Tags, sodass der Benutzer einen Link hinzufügt, Ihr Stil nicht entfernt wird!
+**`<img>`**: Wird als `<img>` -Element, in dem das Bild platziert werden soll. Nützlich, wenn Sie dem Bild Inline-Stile hinzufügen möchten. Denken Sie daran, die Umgebung einzubeziehen `<a> </a>` Tags, sodass der Benutzer einen Link hinzufügt, Ihr Stil nicht entfernt wird!
 
 Beispiel:
 
@@ -162,7 +162,7 @@ Beispiel:
 
 ## Variablen {#variables}
 
-Variablen sind wie Token. Definieren Sie sie zunächst im `<head>` Abschnitt Ihrer E-Mail-Vorlage mit `<meta>` Tags verwenden, dann so oft, wie Sie es in Ihrer Vorlage möchten. Da sie in der Vorlage definiert sind, kann der Endbenutzer seine Werte entsprechend seinen Regeln ändern. Beachten Sie, dass Sie eine Variable im Umfang als lokal oder global definieren können. Wenn Sie eine Variable in einem &quot;Modul&quot;verwenden (siehe unten) und ein Endbenutzer dieses Modul dupliziert, verfügen lokale Variablen über unabhängige Werte, während globale Variablen für beide Module gelten.
+Variablen sind wie Token. Definieren Sie sie zunächst im `<head>` Abschnitt Ihrer E-Mail-Vorlage mit `<meta>` Tags verwenden, dann so oft, wie Sie möchten, in Ihrer Vorlage verwenden. Da sie in der Vorlage definiert sind, kann der Endbenutzer seine Werte entsprechend seinen Regeln ändern. Beachten Sie, dass Sie eine Variable im Umfang als lokal oder global definieren können. Wenn Sie eine Variable in einem &quot;Modul&quot;verwenden (siehe unten) und ein Endbenutzer dieses Modul dupliziert, verfügen lokale Variablen über unabhängige Werte, während globale Variablen für beide Module gelten.
 
 ## Zeichenfolge {#string}
 
@@ -199,7 +199,7 @@ Erforderliche Attribute
 
 Optionale Attribute
 
-* **default:** Standardwert des Dropdown-Menüs &quot;Auswählen&quot;. Wenn dieser Wert weggelassen wird, wird der erste Wert aus dem Attribut &quot;Werte&quot;verwendet.
+* **default:** Standardwert des Dropdown-Menüs Auswahl . Wenn dieser Wert weggelassen wird, wird der erste Wert aus dem Attribut &quot;Werte&quot;verwendet.
 * **mktoModuleScope**: Boolesch. Steuert bei Verwendung in einem Modul, ob die Variable lokal (true) oder global (false) ist. Der Standardwert ist &quot;False&quot;, wenn weggelassen.
 
 Beispieldeklaration:
@@ -222,9 +222,9 @@ Erforderliche Attribute
 
 Optionale Attribute
 
-* **min:** Min. akzeptierter Wert.
-* **max:** Maximal akzeptierter Wert.
-* **Einheiten:** Einheiten, die an den Zahlenwert angehängt werden sollen (z. B.: px, pt, em usw.) im E-Mail-Editor sowie im resultierenden Code angezeigt werden.
+* **min:** Mindestzulässiger Wert.
+* **max:** Max. zulässige Wert.
+* **Einheiten:** Einheiten, die an den Zahlenwert angehängt werden sollen (z. B. px, pt, em usw.) im E-Mail-Editor sowie im resultierenden Code angezeigt werden.
 * **step:** Wie viele Einheiten die Zahlenvariable um (0,1, 1, 10 usw.) erhöhen/verringern soll. Wenn nicht angegeben, wird standardmäßig 1 verwendet.
 * **mktoModuleScope**: Boolesch. Steuert bei Verwendung in einem Modul, ob die Variable lokal (true) oder global (false) ist. Der Standardwert ist &quot;False&quot;, wenn weggelassen.
 
@@ -247,7 +247,7 @@ Erforderliche Attribute
 
 Optionale Attribute
 
-* **default:** Standardwert für die Farbe. 6-stelliger Hexadezimalfarbcode. Beispiel: #ffffffff.
+* **default:** Standardwert für die Farbe. 6-stelliger Hexadezimalfarbcode. Beispiel: #ffffff.
 * **mktoModuleScope**: Boolesch. Steuert bei Verwendung in einem Modul, ob die Variable lokal (true) oder global (false) ist. Der Standardwert ist &quot;False&quot;, wenn weggelassen.
 
 Beispieldeklaration:
@@ -356,7 +356,7 @@ Optionale Attribute
 
 >[!NOTE]
 >
->Bei Klassenwerten mit Marketo-Syntax (d. h. mktoModule, mktoContainer, mktoText) wird zwischen Groß- und Kleinschreibung unterschieden. Benutzerdefinierte Attributnamen (d. h. mktoimgwidth, mktoname) nicht.
+>Bei Klassenwerten mit Marketo-Syntax (d. h. mktoModule, mktoContainer, mktoText) wird zwischen Groß- und Kleinschreibung unterschieden. Benutzerdefinierte Attributnamen (d. h. mktoimgwidth, mktoname) sind nicht vorhanden.
 
 ## Container {#containers}
 

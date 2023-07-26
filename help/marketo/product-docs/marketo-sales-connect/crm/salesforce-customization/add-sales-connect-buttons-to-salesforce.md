@@ -16,7 +16,7 @@ ht-degree: 10%
 ## In Marketo Sales Connect pushen {#push-to-marketo-sales-connect}
 
 1. Navigieren Sie zu **Einrichtung** then **Anpassen**.
-1. Öffnen Sie unter &quot;Kontakte/Leads/Konten&quot; **Suchlayouts**.
+1. Öffnen Sie unter &quot;Kontakte/Leads/Konten&quot; **Layouts durchsuchen**.
 1. Lead-Listenansicht bearbeiten und ziehen **Push to MSC** in die ausgewählten Schaltflächen.
 
 ## Marketo Verkaufs-E-Mail senden {#send-marketo-sales-email}

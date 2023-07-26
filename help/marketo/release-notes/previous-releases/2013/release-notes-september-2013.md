@@ -11,7 +11,7 @@ ht-degree: 11%
 
 ---
 
-# Versionshinweise: September 2013 {#release-notes-september}
+# September 2013 - Versionshinweise {#release-notes-september}
 
 Die folgenden Funktionen sind in der Septemberversion enthalten.
 
@@ -61,7 +61,7 @@ Sie können die Daten jetzt im Opportunity Influence Analyzer nach Excel exporti
 
 Sie können die Art und Weise ändern, wie Marketo Kontakte und Möglichkeiten für Erstkontakt- und Multi-Touch-Attributionsmetriken verknüpft, einschließlich der Möglichkeit, eine kontobasierte Attribution durchzuführen. Diese Einstellungen wirken sich auf die Attributionsmetriken in Umsatz Explorer-Berichten im Bereich &quot;Analyse der Programmchancen&quot;und im Bereich &quot;Opportunity Analysis&quot;aus. Dies wirkt sich auch auf die Attributionsmetriken in Programm Analyzer aus.
 
-Sie können die Attributionseinstellungen des Programms in eine von drei Optionen ändern. Wenn Sie diese Einstellung ändern, werden keine Marketo- oder CRM-Daten geändert. Sie ändert lediglich die Ausführung Ihrer Berichte und kann jederzeit rückgängig gemacht werden.
+Sie können die Attributionseinstellungen des Programms in eine von drei Optionen ändern. Wenn Sie diese Einstellung ändern, werden keine Marketo- oder CRM-Daten geändert. Sie ändern lediglich die Art und Weise, wie Ihre Berichte ausgeführt werden, und können jederzeit zurückgesetzt werden.
 
 Die Einstellung Explizit untersucht nur Kontakte mit Rollen (aktuelles Verhalten). Implicit prüft alle mit dem Konto verbundenen Kontakte unabhängig von der Rolle. Es wird dringend empfohlen, nach Möglichkeit den expliziten Modus zu verwenden. Die Verwendung von Implicit kann falsch-positive Ergebnisse hervorbringen, Menschen, die für eine Chance gelten, obwohl sie keinen echten Einfluss auf die Chancen haben.
 

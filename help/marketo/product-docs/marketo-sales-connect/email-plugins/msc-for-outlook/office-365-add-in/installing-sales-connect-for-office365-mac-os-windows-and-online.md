@@ -23,7 +23,7 @@ Als Administrator können Sie [installieren Sie dies im Namen Ihres gesamten Tea
 >
 >i. Navigieren Sie zur Schaltfläche Hilfe (in der oberen Navigation rechts neben &quot;Outlook&quot;).
 >
->ii. Auswählen **Nach Updates suchen** im Dropdown-Menü
+>ii. Auswählen **Nach Updates suchen** im Dropdownmenü
 >
 >iii. Aktualisieren Sie auf die neueste Version von Outlook und kehren Sie nach Abschluss der Schritte zu diesen Schritten zurück.
 

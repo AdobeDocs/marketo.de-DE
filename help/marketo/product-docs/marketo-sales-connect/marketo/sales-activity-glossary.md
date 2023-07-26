@@ -12,7 +12,7 @@ ht-degree: 13%
 
 # Glossar zur Verkaufsaktivität {#sales-activity-glossary}
 
-Wenn ein Verkäufer in Sales Connect: fügt einen Lead zu einem Verkaufskatalog hinzu, sendet ihm eine E-Mail oder tätigt einen Aufruf an eine Aktivität. Er wird im Verlauf der Marketo-Aktivität protokolliert. Wenn der Lead mit E-Mails interagiert, werden auch Öffnungen, Klicks und Antworten protokolliert.
+Wenn ein Verkäufer in Sales Connect einen Lead zu einem Verkaufsstamm hinzufügt, ihm eine E-Mail sendet oder eine Aktivität aufruft, wird dieser im Verlauf der Marketo-Aktivitäten protokolliert. Wenn der Lead mit E-Mails interagiert, werden auch Öffnungen, Klicks und Antworten protokolliert.
 
 Die folgenden Aktivitäten werden von Sales Connect aus bei Marketo protokolliert.
 
@@ -197,7 +197,7 @@ Die folgenden Aktivitäten werden von Sales Connect aus bei Marketo protokollier
   <td>Vertriebskampagnen-ID</td>
  </tr>
  <tr>
-  <th rowspan="5">E-Mail-Bounce für Vertrieb</th>
+  <th rowspan="5">E-Mail-Bounce Vertrieb</th>
   <td>Details</td>
  </tr>
  <tr>
@@ -260,7 +260,7 @@ Die folgenden Aktivitäten werden von Sales Connect aus bei Marketo protokollier
   </tr>
   <tr> 
    <td><strong>Status der Verkaufsaufrufe</strong></td> 
-   <td>Speichert den endgültigen Aufrufstatus des Aufrufs, der Folgendes enthält: abgeschlossen, keine Antwort, abgebrochen, fehlgeschlagen.</td> 
+   <td>Speichert den letzten Aufrufstatus des Aufrufs, der Folgendes enthält: abgeschlossen, keine Antwort, abgebrochen, fehlgeschlagen.</td> 
   </tr>
   <tr> 
    <td><strong>Verkaufsgespräch</strong></td> 
@@ -280,7 +280,7 @@ Die folgenden Aktivitäten werden von Sales Connect aus bei Marketo protokollier
   </tr>
   <tr> 
    <td><strong>Sales Email Subject</strong></td> 
-   <td>Betreffzeile der E-Mail, gefolgt von einer eindeutigen ID (z. B.: Meine Betreffzeile (MSC-12345678)</td> 
+   <td>Betreffzeile der E-Mail, gefolgt von einer eindeutigen ID (z. B. My Subject Line (MSC-12345678))</td> 
   </tr>
   <tr> 
    <td><strong>Telefonnummer des Verkäufers aufgerufen</strong></td> 

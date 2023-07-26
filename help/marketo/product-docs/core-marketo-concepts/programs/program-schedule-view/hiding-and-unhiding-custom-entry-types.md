@@ -25,7 +25,7 @@ Benutzerdefinierte Eintragstypen können im Admin-Abschnitt ausgeblendet werden.
 
    ![](assets/image2014-9-24-10-3a11-3a54.png)
 
-   Fantastisch. Dieser Eintragstyp steht nicht mehr zur Verwendung zur Verfügung.
+   Fantastisch. Dieser Eintragstyp ist nicht mehr verfügbar.
 
 ## Einblenden eines benutzerdefinierten Einstiegstyps {#unhide-a-custom-entry-type}
 

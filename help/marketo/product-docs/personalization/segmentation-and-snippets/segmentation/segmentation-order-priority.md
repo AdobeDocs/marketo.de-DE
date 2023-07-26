@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Segmentierungsreihenfolge - Priorität {#segmentation-order-priority}
 
-Es ist wichtig zu verstehen, wie **order** legt die Priorität für die Bewertung Ihrer Personen in einer Segmentierung fest.
+Es ist wichtig zu verstehen, wie **bestellen** legt die Priorität für die Bewertung Ihrer Personen in einer Segmentierung fest.
 
 >[!PREREQUISITES]
 >
@@ -24,7 +24,7 @@ Es ist wichtig zu verstehen, wie **order** legt die Priorität für die Bewertun
 
    ![](assets/image2017-3-29-8-3a9-3a33.png)
 
-1. Wählen Sie Ihre **Segmentierung**. In **Segmentierungsaktionen** klicken **Segmente bearbeiten**.
+1. Wählen Sie **Segmentierung**. In **Segmentierungsaktionen** klicken **Segmente bearbeiten**.
 
    ![](assets/image2014-9-16-10-3a11-3a55.png)
 

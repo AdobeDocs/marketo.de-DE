@@ -49,7 +49,7 @@ Es gibt zwei Arten von **content** Sie können zu den Interaktionsprogrammström
 >[!MORELIKETHIS]
 >
 >* [Inhalt zu einem Stream hinzufügen](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
->* [Priorisieren von Stream-Inhalten](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/prioritize-stream-content.md)
+>* [Stream-Inhalt priorisieren](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/prioritize-stream-content.md)
 >* [Verfügbarkeit von Stream-Inhalten bearbeiten](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/edit-availability-of-stream-content.md)
 >* [Stream-Inhalt entfernen](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
 >* [Archivieren und Archivieren von Stream-Inhalten aufheben](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)

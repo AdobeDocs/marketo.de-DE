@@ -28,7 +28,7 @@ Auf der rechten Seite der Seite befinden sich verschiedene Informationen zu Ihre
 **Typ** gibt die Art des verwendeten Assets an.
 **Empfänger** number gibt an, wie viele Personen die E-Mail gesendet wurden.
 **Versandmetriken** gibt Ihnen einen schnellen Überblick darüber, wie viele E-Mails zugestellt, ausstehend oder nicht zugestellt wurden.\
-**Interaktionsmetriken** gibt einen schnellen Überblick darüber, wie viele Empfänger eine E-Mail geöffnet, angeklickt und sich von ihr abgemeldet haben.
+**Einsatzmetriken** gibt einen schnellen Überblick darüber, wie viele Empfänger eine E-Mail geöffnet, angeklickt und sich von ihr abgemeldet haben.
 **Ergebnis** ist die E-Mail von [Interaktionsbewertung](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
 
 Standardmäßig werden Ihre E-Mails nach der letzten sortiert, Sie können sie jedoch nach jeder verfügbaren Metrik sortieren.
@@ -47,4 +47,4 @@ Coole Sachen!
 
 >[!MORELIKETHIS]
 >
->[Übersicht über die Analyse von E-Mail-Insights](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md)
+>[Übersicht über Email Insights Analytics](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md)

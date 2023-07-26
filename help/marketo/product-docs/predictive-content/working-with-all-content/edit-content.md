@@ -27,6 +27,6 @@ Sie können einige Änderungen an Listen auf der Seite &quot;Alle Inhalte&quot;v
 
    ![](assets/edit-content-3.png)
 
-1. Überprüfen Sie die **Für prädiktiven Inhalt genehmigen** aktivieren oder deaktivieren Sie das Kontrollkästchen, um die Genehmigung aufzuheben. Klicken **Speichern** wann geschehen.
+1. Überprüfen Sie die **Für prädiktiven Inhalt genehmigen** aktivieren oder deaktivieren Sie das Kontrollkästchen, um die Genehmigung aufzuheben. Klicks **Speichern** wann geschehen.
 
    ![](assets/edit-content-4.png)

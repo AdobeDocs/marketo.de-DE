@@ -21,7 +21,7 @@ Wenn Sie eine zufällig erstellen oder sie nicht mehr benötigen, können Sie si
 
    ![](assets/delete-a-program-channel-1.png)
 
-1. Klicken **[!UICONTROL Tags]**.
+1. Klicks **[!UICONTROL Tags]**.
 
    ![](assets/delete-a-program-channel-2.png)
 

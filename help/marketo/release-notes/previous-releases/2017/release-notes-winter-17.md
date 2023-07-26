@@ -61,7 +61,7 @@ Verwenden Sie &quot;Benanntes Konto&quot;oder &quot;Kontoliste&quot;als Dimensio
 
 **[Filtern nach aktivierter Quelle](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
 
-Filtern von Predictive Content-Teilen, die für E-Mail, Rich Media oder die Empfehlungsleiste aktiviert sind.
+Filtern Sie prädiktive Inhalte, die für E-Mail, Rich Media oder die Empfehlungsleiste aktiviert sind.
 
 ![](assets/predictive-content-enabled-source.png)
 

@@ -19,11 +19,11 @@ Das Hinzufügen von Benutzern ist schnell und einfach!
 
    ![](assets/one.png)
 
-1. Wählen Sie unter &quot;Admin Settings&quot;die Option **Benutzerverwaltung**.
+1. Wählen Sie unter Admin Settings die Option **Benutzerverwaltung**.
 
    ![](assets/invite-team-members-2.png)
 
-1. Klicken **Benutzer einladen**.
+1. Klicks **Benutzer einladen**.
 
    ![](assets/invite-team-members-3.png)
 
@@ -35,6 +35,6 @@ Das Hinzufügen von Benutzern ist schnell und einfach!
    >
    >Standardmäßig werden alle neuen Mitglieder zum Team Alle hinzugefügt.
 
-1. Klicken **OK**.
+1. Klicks **OK**.
 
    ![](assets/five.png)

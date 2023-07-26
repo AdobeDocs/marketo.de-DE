@@ -31,7 +31,7 @@ Wenn Sie ![x](assets/delete.png) überprüfen Sie hier, ob die URL gültig ist. 
 
    ![](assets/two.png)
 
-1. Klicken **Entwicklungsressourcen**.
+1. Klicks **Entwicklungsressourcen**.
 
    ![](assets/three.png)
 
@@ -41,11 +41,11 @@ Wenn Sie ![x](assets/delete.png) überprüfen Sie hier, ob die URL gültig ist. 
 
 ## Benutzername und Passwort sind gültig {#username-and-password-are-valid}
 
-Wenn Sie ![x](assets/delete.png) Überprüfen Sie hier, ob Ihre Microsoft Dynamics-Anmeldeinformationen gültig sind. Für die Web-API-S2S-Authentifizierung muss der Benutzername in Marketo mit dem [E-Mail-Adresse](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user) des Anwendungsbenutzers im CRM. Bei anderen Typen sollte sie mit dem Benutzernamen für den Synchronisierungsbenutzer übereinstimmen.
+Wenn Sie ![x](assets/delete.png) Überprüfen Sie hier, ob Ihre Microsoft Dynamics-Anmeldeinformationen gültig sind. Für die Web-API-S2S-Authentifizierung muss der Benutzername in Marketo mit dem [Email-Adresse](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user) des Anwendungsbenutzers im CRM. Bei anderen Typen sollte sie mit dem Benutzernamen für den Synchronisierungsbenutzer übereinstimmen.
 
 ## Der Synchronisierungsbenutzer wird der Benutzerrolle &quot;Marketo Sync User&quot;zugewiesen. {#sync-user-is-assigned-to-the-marketo-sync-user-role}
 
-Wenn Sie ![x](assets/delete.png) hier könnte es eines der drei folgenden Probleme sein.
+Wenn Sie ![x](assets/delete.png) Hier könnte es sich um eines der drei folgenden Probleme handeln.
 
 **Option 1: Überprüfen, ob die Benutzerrolle &quot;Marketo Sync User&quot;in Microsoft Dynamics aktiviert ist**:
 
@@ -53,11 +53,11 @@ Wenn Sie ![x](assets/delete.png) hier könnte es eines der drei folgenden Proble
 
    ![](assets/one.png)
 
-1. Klicken **Einstellungen** und wählen Sie **Sicherheit**.
+1. Klicks **Einstellungen** und wählen **Sicherheit**.
 
    ![](assets/six.png)
 
-1. Klicken **Benutzer.**
+1. Klicks **Benutzer.**
 
    ![](assets/image2015-9-24-9-3a47-3a25.png)
 
@@ -65,7 +65,7 @@ Wenn Sie ![x](assets/delete.png) hier könnte es eines der drei folgenden Proble
 
    ![](assets/seven.png)
 
-1. Klicken **Rollen verwalten**.
+1. Klicks **Rollen verwalten**.
 
    ![](assets/eight.png)
 
@@ -89,7 +89,7 @@ Wenn Sie ![x](assets/delete.png) Wechseln Sie hier zu Microsoft Dynamics , um zu
 
    ![](assets/one.png)
 
-1. Klicken **Einstellungen** und wählen Sie **Lösungen.**
+1. Klicks **Einstellungen** und wählen **Lösungen.**
 
    ![](assets/eleven.png)
 
@@ -109,7 +109,7 @@ Wenn Sie ![x](assets/delete.png) Stellen Sie hier sicher, dass der Synchronisier
 
    ![](assets/one.png)
 
-1. Klicken **Einstellungen** und wählen Sie **Marketo-Konfiguration**.
+1. Klicks **Einstellungen** und wählen **Marketo-Konfiguration**.
 
    ![](assets/thirteen.png)
 

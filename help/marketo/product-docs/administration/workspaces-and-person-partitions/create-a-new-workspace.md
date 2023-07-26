@@ -13,7 +13,7 @@ ht-degree: 3%
 
 # Neuen Arbeitsbereich erstellen {#create-a-new-workspace}
 
-Arbeitsbereiche sind nützlich für die Unterteilung Ihres Unternehmens. Gründe für die Einrichtung von Arbeitsbereichen sind:
+Arbeitsbereiche sind nützlich, um Ihr Unternehmen zu unterteilen. Gründe für die Einrichtung von Arbeitsbereichen sind:
 
 * Geografie: Europe Marketing Operations vs. North America Marketing Operations
 * Geschäftseinheit A vs. Geschäftseinheit B
@@ -26,7 +26,7 @@ So erstellen Sie einen neuen Arbeitsbereich.
 
 >[!NOTE]
 >
->Erste Schritte mit [Grundlegendes zu Arbeitsbereichen und Personen-Partitionen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.
+>Erste Schritte mit [Grundlagen zu Arbeitsbereichen und Personen-Partitionen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.
 
 >[!TIP]
 >
@@ -36,15 +36,15 @@ So erstellen Sie einen neuen Arbeitsbereich.
 
    ![](assets/create-a-new-workspace-1.png)
 
-1. Klicken **[!UICONTROL Arbeitsbereiche und Partitionen]**.
+1. Klicks **[!UICONTROL Arbeitsbereiche und Partitionen]**.
 
    ![](assets/create-a-new-workspace-2.png)
 
-1. Klicken **[!UICONTROL Neuer Arbeitsbereich]**.
+1. Klicks **[!UICONTROL Neuer Arbeitsbereich]**.
 
    ![](assets/create-a-new-workspace-3.png)
 
-1. Geben Sie einen **[!UICONTROL Name]** und wählen Sie die **[!UICONTROL Personenpartitionen]** Sie verwenden möchten. Wählen Sie eine **[!UICONTROL Primäre Personenpartition]**. Stellen Sie sicher, dass [Personenpartitionen erstellen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"} wenn Sie es noch nicht getan haben.
+1. Geben Sie einen **[!UICONTROL Name]** und wählen Sie die **[!UICONTROL Personen-Partitionen]** Sie verwenden möchten. Wählen Sie eine **[!UICONTROL Primäre Personenpartition]**. Stellen Sie sicher, dass [Personenpartitionen erstellen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"} wenn Sie es noch nicht getan haben.
 
    ![](assets/create-a-new-workspace-4.png)
 

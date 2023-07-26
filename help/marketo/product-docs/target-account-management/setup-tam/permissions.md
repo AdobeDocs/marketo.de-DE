@@ -15,11 +15,11 @@ ht-degree: 1%
 
 Sie müssen Berechtigungen einrichten, damit Ihre Benutzer TAM verwenden können. So geht es.
 
-1. Klicken **Admin**.
+1. Klicks **Admin**.
 
    ![](assets/one-2.png)
 
-1. Klicken **Benutzer und Rollen**.
+1. Klicks **Benutzer und Rollen**.
 
    ![](assets/two-2.png)
 
@@ -27,7 +27,7 @@ Sie müssen Berechtigungen einrichten, damit Ihre Benutzer TAM verwenden können
    >
    >Sie können TAM-Berechtigungen für eine vorhandene Rolle hinzufügen oder eine neue erstellen. In diesem Beispiel wird eine neue Rolle verwendet.
 
-1. Klicken **Rollen**, dann **Neue Rolle**.
+1. Klicks **Rollen**, dann **Neue Rolle**.
 
    ![](assets/three-2.png)
 
@@ -43,7 +43,7 @@ Sie müssen Berechtigungen einrichten, damit Ihre Benutzer TAM verwenden können
    >
    >Sie können auch nur einige der Optionen auswählen. Aktivieren Sie dazu die einzelnen Kontrollkästchen einzeln.
 
-1. Klicken Sie auf **+** , um das Menü &quot;Zugriffsverwaltung&quot;zu öffnen. Überprüfen Sie die **Zugriff auf ABM Admin** Kontrollkästchen (ABM ist der vorherige Name für TAM) und klicken Sie auf **Erstellen**.
+1. Klicken Sie auf **+** , um das Menü Zugriffsverwaltung zu öffnen. Überprüfen Sie die **Zugriff auf ABM Admin** Kontrollkästchen (ABM ist der vorherige Name für TAM) und klicken Sie auf **Erstellen**.
 
    ![](assets/permissions-6.png)
 

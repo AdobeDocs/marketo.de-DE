@@ -1,7 +1,7 @@
 ---
 unique-page-id: 4719350
 description: Anzeigen von Segmenten aus einem bestimmten Titel - Marketo Docs - Produktdokumentation
-title: Anzeigen von Segmenten aus einer bestimmten Bezeichnung
+title: Anzeigen von Segmenten aus einer bestimmten Beschriftung
 exl-id: 86a73898-1ad6-4edb-99cf-104f7ebb3ddd
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# Anzeigen von Segmenten aus einer bestimmten Bezeichnung {#view-segments-from-a-specific-label}
+# Anzeigen von Segmenten aus einer bestimmten Beschriftung {#view-segments-from-a-specific-label}
 
 Möchten Sie Ihre Segmente nach einer bestimmten Bezeichnung anzeigen und filtern?
 

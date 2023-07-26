@@ -1,7 +1,7 @@
 ---
 unique-page-id: 42762514
 description: Insights-Dashboard Funktionsübersicht - Marketo-Dokumente - Produktdokumentation
-title: Übersicht über die Funktionen des Insights-Dashboards
+title: Übersicht über die Funktionen des Insight Dashboard
 exl-id: a32f8694-faf2-4183-a485-82fd859b77d2
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,13 +11,13 @@ ht-degree: 0%
 
 ---
 
-# Übersicht über die Funktionen des Insights-Dashboards {#insights-dashboard-feature-overview}
+# Übersicht über die Funktionen des Insight Dashboard {#insights-dashboard-feature-overview}
 
 Erfahren Sie mehr über die Funktionen, die in Ihrem Sales Insights-Dashboard verfügbar sind.
 
 >[!PREREQUISITES]
 >
->Sie müssen über das neueste MSI SFDC-Paket verfügen und [Konfiguration](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md).
+>Sie benötigen das neueste MSI SFDC-Paket und [Konfiguration](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md).
 
 ![](assets/insights-dashboard-feature-overview-1.png)
 
@@ -44,7 +44,7 @@ Erfahren Sie mehr über die Funktionen, die in Ihrem Sales Insights-Dashboard ve
 Registerkarte &quot;E-Mail-Kampagnen&quot;:
 
 * Umfasst Kampagnen, die Teil von E-Mail-Programmen oder Standardprogrammen sind, die für die nächsten 90 Tage geplant sind
-* Nicht spezifisch für Kontakt/Lead (d. h. die Kampagnenliste ist eine allgemeine Liste aller in der Marketo-Instanz geplanten E-Mail-Kampagnen). Die Liste der Kampagnen in allen Lead-, Kontakt-, Konto- und Opportunity-Bereichen ist identisch.
+* Nicht spezifisch für Kontakt/Lead (d. h. die Kampagnenliste ist eine allgemeine Liste aller E-Mail-Kampagnen, die in der Marketo-Instanz geplant sind). Die Liste der Kampagnen in allen Lead-, Kontakt-, Konto- und Opportunity-Bereichen ist identisch.
 * Wenn die Kampagnenwiederholung in den nächsten 90 Tagen mehr als dreimal ausgeführt wird, werden zu jedem beliebigen Zeitpunkt nur die nächsten drei Ausführungen angezeigt (ähnlich dem Verhalten in Marketo)
 * Die Karte mit den Aktivitätsdetails in diesem Abschnitt enthält eine Vorschauoption. Wenn der Ablauf mehrere Schritte zum Senden von E-Mails umfasst, stehen alle E-Mails für die Vorschau zur Verfügung. Wenn im Schritt E-Mail-Ablauf des Versands mehrere &quot;E-Mail-Optionen&quot;vorhanden sind, ist die Standardoption für die Vorschau verfügbar
 * Zu den Filtern gehören &quot;Suche&quot;und &quot;Datumsbereich&quot;.
@@ -53,7 +53,7 @@ Registerkarte &quot;E-Mail-Kampagnen&quot;:
 
 Registerkarte Ereignis :
 
-* Enthält Veranstaltungsprogramme, die für die nächsten 90 Tage geplant sind
+* Enthält Veranstaltungsprogramme für die nächsten 90 Tage
 * Verwenden Sie die Filteroption, um alle Ereignisse/eingeladenen Ereignisse anzuzeigen (basierend auf den Admin-Einstellungen).
 * Bei der Auswahl der eingeladenen Ereignisse werden Ereignisse, zu denen ein bestimmter Kontakt eingeladen wurde, zusammen mit dem Mitgliedsstatus angezeigt
 * Bei Auswahl aller Ereignisse wird die Liste der Ereignisse angezeigt, die für die nächsten 90 Tage geplant sind
@@ -73,7 +73,7 @@ Registerkarte Ereignis :
 
 **Interaktionsanalyse und Zusammenfassung**
 
-* Drilldown-Aktivitätskarten für interessante Momente, E-Mail und Web-Aktivität
+* Drilldown-Aktivitätskarten für interessante Momente, E-Mail- und Web-Aktivität
 * Interessante Momente Aktivitätskarte - Enthält die Option Abonnieren
 * E-Mail-Aktivitätskarte - einschließlich Vorschauoption
 * Web-Aktivitätskarte - Bietet die Möglichkeit, auf einen Link zu klicken
@@ -85,7 +85,7 @@ Registerkarte Ereignis :
 Registerkarte &quot;E-Mail-Kampagnen&quot;:
 
 * Umfasst Kampagnen, die Teil von E-Mail-Programmen oder Standardprogrammen sind, die für die nächsten 90 Tage geplant sind
-* Nicht spezifisch für Kontakt/Lead (d. h. die Kampagnenliste ist eine allgemeine Liste aller in der Marketo-Instanz geplanten E-Mail-Kampagnen). Die Liste der Kampagnen in allen Lead-, Kontakt-, Konto- und Opportunity-Bereichen ist identisch.
+* Nicht spezifisch für Kontakt/Lead (d. h. die Kampagnenliste ist eine allgemeine Liste aller E-Mail-Kampagnen, die in der Marketo-Instanz geplant sind). Die Liste der Kampagnen in allen Lead-, Kontakt-, Konto- und Opportunity-Bereichen ist identisch.
 * Wenn die Kampagnenwiederholung in den nächsten 90 Tagen mehr als dreimal ausgeführt wird, werden zu jedem beliebigen Zeitpunkt nur die nächsten drei Ausführungen angezeigt (ähnlich dem Verhalten in Marketo)
 * Die Karte mit den Aktivitätsdetails in diesem Abschnitt enthält eine Vorschauoption. Wenn der Ablauf mehrere Schritte zum Senden von E-Mails umfasst, stehen alle E-Mails für die Vorschau zur Verfügung. Wenn im Schritt E-Mail-Ablauf des Versands mehrere &quot;E-Mail-Optionen&quot;vorhanden sind, ist die Standardoption für die Vorschau verfügbar
 * Zu den Filtern gehören &quot;Suche&quot;und &quot;Datumsbereich&quot;.
@@ -94,7 +94,7 @@ Registerkarte &quot;E-Mail-Kampagnen&quot;:
 
 Registerkarte Ereignis :
 
-* Enthält Veranstaltungsprogramme, die für die nächsten 90 Tage geplant sind
+* Enthält Veranstaltungsprogramme für die nächsten 90 Tage
 * Verwenden Sie die Filteroption, um alle Ereignisse/eingeladenen Ereignisse anzuzeigen (basierend auf den Admin-Einstellungen).
 * Bei der Auswahl der eingeladenen Ereignisse werden Ereignisse, zu denen ein bestimmter Kontakt eingeladen wurde, zusammen mit dem Mitgliedsstatus angezeigt
 * Bei Auswahl aller Ereignisse wird die Liste der Ereignisse angezeigt, die für die nächsten 90 Tage geplant sind
@@ -111,7 +111,7 @@ Registerkarte Ereignis :
 * Benutzer können bestimmte Wochen hervorheben, um Aktivitäten innerhalb dieser Woche anzuzeigen
 * Standardansicht: Aktuelle Woche ist ausgewählt
 
-**Interaktions-Drilldown und -Zusammenfassung**
+**Interaktionsdiagramm und Zusammenfassung**
 
 * Drilldown-Aktivitätskarten für interessante Momente, E-Mail- und Web-Aktivität, einschließlich Kontaktname
 * Interessante Momente Aktivitätskarte - Enthält die Option Abonnieren
@@ -125,14 +125,14 @@ Registerkarte Ereignis :
 Registerkarte &quot;E-Mail-Kampagnen&quot;:
 
 * Umfasst Kampagnen, die Teil von E-Mail-Programmen oder Standardprogrammen sind, die für die nächsten 90 Tage geplant sind
-* Nicht spezifisch für Kontakt/Lead (d. h. die Kampagnenliste ist eine allgemeine Liste aller in der Marketo-Instanz geplanten E-Mail-Kampagnen). Die Liste der Kampagnen in allen Lead-, Kontakt-, Konto- und Opportunity-Bereichen ist identisch.
+* Nicht spezifisch für Kontakt/Lead (d. h. die Kampagnenliste ist eine allgemeine Liste aller E-Mail-Kampagnen, die in der Marketo-Instanz geplant sind). Die Liste der Kampagnen in allen Lead-, Kontakt-, Konto- und Opportunity-Bereichen ist identisch.
 * Wenn die Kampagnenwiederholung in den nächsten 90 Tagen mehr als dreimal ausgeführt wird, werden zu jedem beliebigen Zeitpunkt nur die nächsten drei Ausführungen angezeigt (ähnlich dem Verhalten in Marketo)
 * Die Karte mit den Aktivitätsdetails in diesem Abschnitt enthält eine Vorschauoption. Wenn der Ablauf mehrere Schritte zum Senden von E-Mails umfasst, stehen alle E-Mails für die Vorschau zur Verfügung. Wenn im Schritt E-Mail-Ablauf des Versands mehrere &quot;E-Mail-Optionen&quot;vorhanden sind, ist die Standardoption für die Vorschau verfügbar
 * Zu den Filtern gehören &quot;Suche&quot;und &quot;Datumsbereich&quot;.
 
 Registerkarte Ereignis :
 
-* Enthält Veranstaltungsprogramme, die für die nächsten 90 Tage geplant sind
+* Enthält Veranstaltungsprogramme für die nächsten 90 Tage
 * Verwenden Sie die Filteroption, um alle Ereignisse/eingeladenen Ereignisse anzuzeigen (basierend auf den Admin-Einstellungen).
 * Bei der Auswahl der eingeladenen Ereignisse werden Ereignisse, zu denen ein bestimmter Kontakt eingeladen wurde, zusammen mit dem Mitgliedsstatus angezeigt
 * Bei Auswahl aller Ereignisse wird die Liste der Ereignisse angezeigt, die für die nächsten 90 Tage geplant sind
@@ -147,7 +147,7 @@ Registerkarte Ereignis :
 * Benutzer können bestimmte Wochen hervorheben, um Aktivitäten innerhalb dieser Woche anzuzeigen
 * Standardansicht: Aktuelle Woche ist ausgewählt
 
-**Interaktions-Drilldown und -Zusammenfassung**
+**Interaktionsdiagramm und Zusammenfassung**
 
 * Drilldown-Aktivitätskarten für interessante Momente, E-Mail- und Web-Aktivität, einschließlich Kontaktname
 * Interessante Momente Aktivitätskarte - Enthält die Option Abonnieren
@@ -159,14 +159,14 @@ Registerkarte Ereignis :
 **Bevorstehende E-Mail-Kampagnen und -Ereignisse** Registerkarte &quot;E-Mail-Kampagnen&quot;:
 
 * Umfasst Kampagnen, die Teil von E-Mail-Programmen oder Standardprogrammen sind, die für die nächsten 90 Tage geplant sind
-* Nicht spezifisch für Kontakt/Lead (d. h. die Kampagnenliste ist eine allgemeine Liste aller in der Marketo-Instanz geplanten E-Mail-Kampagnen). Die Liste der Kampagnen in allen Lead-, Kontakt-, Konto- und Opportunity-Bereichen ist identisch.
+* Nicht spezifisch für Kontakt/Lead (d. h. die Kampagnenliste ist eine allgemeine Liste aller E-Mail-Kampagnen, die in der Marketo-Instanz geplant sind). Die Liste der Kampagnen in allen Lead-, Kontakt-, Konto- und Opportunity-Bereichen ist identisch.
 * Wenn die Kampagnenwiederholung in den nächsten 90 Tagen mehr als dreimal ausgeführt wird, werden zu jedem beliebigen Zeitpunkt nur die nächsten drei Ausführungen angezeigt (ähnlich dem Verhalten in Marketo)
 * Die Karte mit den Aktivitätsdetails in diesem Abschnitt enthält eine Vorschauoption. Wenn der Ablauf mehrere Schritte zum Senden von E-Mails umfasst, stehen alle E-Mails für die Vorschau zur Verfügung. Wenn im Schritt E-Mail-Ablauf des Versands mehrere &quot;E-Mail-Optionen&quot;vorhanden sind, ist die Standardoption für die Vorschau verfügbar
 * Zu den Filtern gehören &quot;Suche&quot;und &quot;Datumsbereich&quot;.
 
 Registerkarte Ereignis :
 
-* Enthält Veranstaltungsprogramme, die für die nächsten 90 Tage geplant sind
+* Enthält Veranstaltungsprogramme für die nächsten 90 Tage
 * Verwenden Sie die Filteroption, um alle Ereignisse/eingeladenen Ereignisse anzuzeigen (basierend auf den Admin-Einstellungen).
 * Bei der Auswahl der eingeladenen Ereignisse werden Ereignisse, zu denen ein bestimmter Kontakt eingeladen wurde, zusammen mit dem Mitgliedsstatus angezeigt
 * Bei Auswahl aller Ereignisse wird die Liste der Ereignisse angezeigt, die für die nächsten 90 Tage geplant sind

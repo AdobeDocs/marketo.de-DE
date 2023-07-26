@@ -25,11 +25,11 @@ A [Zeitraumkosten](/help/marketo/product-docs/core-marketo-concepts/programs/wor
 
    ![](assets/image2014-9-18-12-3a9-3a57.png)
 
-1. Klicken Sie auf das Kalendersymbol. Wählen Sie einen Monat aus. Klicken **OK**.
+1. Klicken Sie auf das Kalendersymbol. Einen Monat auswählen. Klicks **OK**.
 
    ![](assets/image2014-9-18-12-3a10-3a13.png)
 
-1. Geben Sie einen **Periodenkosten** (ohne Dezimalstellen oder Kommas). Klicken **Speichern**.
+1. Geben Sie einen **Periodenkosten** (ohne Dezimalstellen oder Kommas). Klicks **Speichern**.
 
    >[!NOTE]
    >
@@ -53,11 +53,11 @@ A [Zeitraumkosten](/help/marketo/product-docs/core-marketo-concepts/programs/wor
 
    ![](assets/image2014-9-18-14-3a3-3a6.png)
 
-1. Klicken Sie mit der rechten Maustaste auf die **Periodenkosten**. Auswählen **Bearbeiten**.
+1. Rechtsklicken Sie auf die **Periodenkosten**. Auswählen **Bearbeiten**.
 
    ![](assets/image2014-9-18-14-3a3-3a23.png)
 
-1. Nehmen Sie Ihre Änderungen vor. Klicken **Speichern**.
+1. Nehmen Sie Ihre Änderungen vor. Klicks **Speichern**.
 
    ![](assets/image2014-9-18-14-3a3-3a41.png)
 
@@ -67,11 +67,11 @@ A [Zeitraumkosten](/help/marketo/product-docs/core-marketo-concepts/programs/wor
 
    ![](assets/image2014-9-18-14-3a4-3a11.png)
 
-1. Klicken Sie mit der rechten Maustaste auf die **Periodenkosten**. Auswählen **Löschen**.
+1. Rechtsklicken Sie auf die **Periodenkosten**. Auswählen **Löschen**.
 
    ![](assets/image2014-9-18-14-3a4-3a22.png)
 
-1. Klicken **Löschen** zur Bestätigung.
+1. Klicks **Löschen** zur Bestätigung.
 
    ![](assets/image2014-9-18-14-3a4-3a35.png)
 

@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Verwenden von A/B-Tests &quot;Datum/Uhrzeit&quot; {#use-date-time-a-b-testing}
 
-Sie können Ihre E-Mails einfach per A/B-Test testen. Ein Test ist **Datum/Uhrzeit** Test. Dadurch wird getestet, welche Tageszeit oder welcher Wochentag für den Versand von E-Mails am besten geeignet ist. So richten Sie es ein.
+Sie können Ihre E-Mails einfach per A/B-Test testen. Ein Test ist **Datum/Uhrzeit** Test. Dadurch wird getestet, zu welcher Tageszeit oder an welchem Wochentag E-Mails am besten gesendet werden. So richten Sie es ein.
 
 >[!PREREQUISITES]
 >

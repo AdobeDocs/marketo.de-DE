@@ -24,27 +24,27 @@ Große Arbeit zum Abschluss der vorherigen Schritte. Lasst uns das durchgehen.
 
    ![](assets/step-2-of-3-marketo-on-premises-2016-1.png)
 
-1. Klicken **Einstellungen** und wählen Sie **Sicherheit**.
+1. Klicks **Einstellungen** und wählen **Sicherheit**.
 
    ![](assets/step-2-of-3-marketo-on-premises-2016-2.png)
 
-1. Klicken **Benutzer**.
+1. Klicks **Benutzer**.
 
    ![](assets/step-2-of-3-marketo-on-premises-2016-3.png)
 
-1. Klicken **Neu**.
+1. Klicks **Neu**.
 
    ![](assets/step-2-of-3-marketo-on-premises-2016-4.png)
 
-1. Klicken **Hinzufügen und Lizenzieren von Benutzern**. Eine neue Registerkarte sollte geöffnet werden.
+1. Klicks **Hinzufügen und Lizenzieren von Benutzern**. Eine neue Registerkarte sollte geöffnet werden.
 
    ![](assets/step-2-of-3-marketo-on-premises-2016-5.png)
 
-1. Klicken **Admin** oben auf der Seite. Eine neue Registerkarte sollte geöffnet werden.
+1. Klicks **Admin** oben auf der Seite. Eine neue Registerkarte sollte geöffnet werden.
 
    ![](assets/step-2-of-3-marketo-on-premises-2016-6.png)
 
-1. Klicken **Benutzer hinzufügen**.
+1. Klicks **Benutzer hinzufügen**.
 
    ![](assets/step-2-of-3-marketo-on-premises-2016-7.png)
 
@@ -80,7 +80,7 @@ Weisen Sie die Benutzerrolle &quot;Marketo Sync User&quot;nur dem Marketo-Synchr
 
    ![](assets/assign1.png)
 
-1. Klicken **Benutzer**.
+1. Klicks **Benutzer**.
 
    ![](assets/assign2.png)
 
@@ -88,7 +88,7 @@ Weisen Sie die Benutzerrolle &quot;Marketo Sync User&quot;nur dem Marketo-Synchr
 
    ![](assets/image2015-3-26-10-3a39-3a35.png)
 
-1. Wählen Sie den Synchronisierungsbenutzer aus. Klicken **Rollen verwalten**.
+1. Wählen Sie den Synchronisierungsbenutzer aus. Klicks **Rollen verwalten**.
 
    ![](assets/assign4.png)
 
@@ -116,7 +116,7 @@ Fast fertig! Wir haben nur einige letzte Konfigurationsschritte, bevor wir zum n
    >
    >Wenn die Marketo-Konfiguration fehlt, versuchen Sie, die Seite zu aktualisieren. Wenn das Problem weiterhin besteht, [Marketo-Lösung veröffentlichen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md) oder versuchen Sie, sich ab- und wieder anzumelden.
 
-1. Klicken **Standard**.
+1. Klicks **Standard**.
 
    ![](assets/configure2.png)
 
@@ -128,14 +128,14 @@ Fast fertig! Wir haben nur einige letzte Konfigurationsschritte, bevor wir zum n
 
    ![](assets/configure4.png)
 
-1. Klicken **Alle Anpassungen veröffentlichen**.
+1. Klicks **Alle Anpassungen veröffentlichen**.
 
    ![](assets/publish-all-customizations1.png)
 
 ## Bevor Sie mit Schritt 3 fortfahren {#before-proceeding-to-step}
 
 * Wenn Sie die Anzahl der zu synchronisierenden Datensätze einschränken möchten, [Einrichten eines benutzerdefinierten Synchronisierungsfilters](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md) jetzt.
-* Führen Sie die [Überprüfen der Synchronisierung mit Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md) Prozess. Es wird überprüft, ob Ihre ersten Setups ordnungsgemäß durchgeführt wurden.
+* Führen Sie die [Überprüfen der Synchronisierung mit Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md) -Prozess. Es wird überprüft, ob Ihre ersten Setups ordnungsgemäß durchgeführt wurden.
 * Melden Sie sich beim Marketo Sync User in Microsoft Dynamics CRM an.
 
 >[!MORELIKETHIS]

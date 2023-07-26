@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Benutzerdefinierte Spalten zu einem Personenbericht hinzufügen {#add-custom-columns-to-a-person-report}
 
-Sie können die Metriken in Ihren Personenberichten weiter filtern, indem Sie Ihre [Smart-Listen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md) als benutzerdefinierte Spalten.
+Sie können die Metriken in Ihren Personenberichten mithilfe Ihrer [Smart-Listen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md) als benutzerdefinierte Spalten.
 
 1. Navigieren Sie zu **Marketingaktivitäten** (oder **Analytics**).
 

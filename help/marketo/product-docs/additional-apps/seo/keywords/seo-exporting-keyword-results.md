@@ -19,7 +19,7 @@ Sie können Ihre Suchbegriffsergebnisse exportieren, um sie für Ihr Team freizu
 
    ![](assets/image2014-9-18-12-3a51-3a7.png)
 
-1. Klicken **[!UICONTROL Export]**.
+1. Klicks **[!UICONTROL Export]**.
 
    ![](assets/image2014-9-18-12-3a51-3a25.png)
 

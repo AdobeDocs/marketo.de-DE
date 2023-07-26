@@ -18,10 +18,10 @@ Der Tab Beste Einsätze enthält eine Liste aller Hot Leads basierend auf ihrer 
 
 Sie können auf jede der folgenden Schaltflächen klicken, um die besten Einsätze anzuzeigen:
 
-* Leads: Für alle Leads, die Ihnen im CRM-System zugewiesen sind, können Sie die besten Bets sehen.
-* Ansprechpartner: Es werden die Best-Bets für alle Kontakte angezeigt, die Ihnen im CRM-System zugewiesen sind.
-* Kundenkontakte: Sie können die besten Bets für alle Kontakte sehen, die zu Konten gehören, die Ihnen im CRM zugewiesen sind, selbst wenn Ihnen der Kontakt selbst nicht zugewiesen ist.
-* Ansprechpartner für weitere Informationen: Sie können die besten Einsätze für alle Kontakte sehen, die zu den Ihnen im CRM zugewiesenen Chancen gehören, selbst wenn Ihnen der Kontakt selbst nicht zugewiesen ist.
+* Leads: Sie können die besten Betas für alle Leads sehen, die Ihnen im CRM zugewiesen sind.
+* Kontakte: Es werden die besten Betas für alle Kontakte angezeigt, die Ihnen im CRM-System zugewiesen sind
+* Kontokontakte: Sie können die besten Einsätze für alle Kontakte sehen, die zu Konten gehören, die Ihnen im CRM zugewiesen sind, selbst wenn Ihnen der Kontakt selbst nicht zugewiesen ist.
+* Gelegenheitskontakte: Für alle Kontakte, die Ihnen im CRM-System zugewiesene Chancen bieten, können Sie die besten Wetten sehen, selbst wenn Ihnen der Kontakt selbst nicht zugewiesen ist.
 
 **Zu beachten**
 

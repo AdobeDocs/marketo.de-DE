@@ -27,15 +27,15 @@ Wenn Sie die Integration mit Marketo über die [REST-API](https://developers.mar
 
    ![](assets/create-an-api-only-user-1.png)
 
-1. Klicken **[!UICONTROL Benutzer und Rollen]**.
+1. Klicks **[!UICONTROL Benutzer und Rollen]**.
 
    ![](assets/create-an-api-only-user-2.png)
 
-1. Klicken **[!UICONTROL Neuen Benutzer einladen]**.
+1. Klicks **[!UICONTROL Neuen Benutzer einladen]**.
 
    ![](assets/create-an-api-only-user-3.png)
 
-1. Geben Sie eine E-Mail, einen Vornamen und einen Nachnamen für den Benutzer &quot;Nur API&quot;ein. Klicken **[!UICONTROL Nächste]**.
+1. Geben Sie eine E-Mail, einen Vornamen und einen Nachnamen für den Benutzer &quot;Nur API&quot;ein. Klicks **[!UICONTROL Nächste]**.
 
    ![](assets/create-an-api-only-user-4.png)
 
@@ -43,11 +43,11 @@ Wenn Sie die Integration mit Marketo über die [REST-API](https://developers.mar
    >
    >Fügen Sie einen optionalen Grund oder ein Ablaufdatum für den Zugriff hinzu. Für kurzfristige Mitarbeiter eignen sich die Zugriffs-Ablaufdaten.
 
-1. Wählen Sie die **[!UICONTROL Nur API]** Rolle und überprüfen Sie die **[!UICONTROL Nur API]** aktivieren. Klicken **[!UICONTROL Nächste]**.
+1. Wählen Sie die **[!UICONTROL Nur API]** Rolle und überprüfen Sie die **[!UICONTROL Nur API]** aktivieren. Klicks **[!UICONTROL Nächste]**.
 
    ![](assets/create-an-api-only-user-5.png)
 
-1. Klicken **[!UICONTROL Senden]**.
+1. Klicks **[!UICONTROL Senden]**.
 
    ![](assets/create-an-api-only-user-6.png)
 

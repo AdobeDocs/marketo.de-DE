@@ -37,7 +37,7 @@ Umfasst alle Kontaktinformationen der Person.
 
 **Kontaktkarte**
 
-* Enthält Kontaktinformationen wie: E-Mail-Adresse, Name, Firma, Titel, Telefonnummer und Social-Media-Links
+* Enthält Kontaktinformationen wie E-Mail-Adresse, Name, Unternehmen, Titel, Telefonnummer und Social-Media-Links
 
 **Gruppen**
 
@@ -70,7 +70,7 @@ Erfahren Sie, wie diese Person mit Ihrer Kontaktaufnahme interagiert.
 
 * Erfahren Sie, wie Ihre Person mit Marketing-Kampagnen interagiert
 
-## Registerkarte &quot;Verlauf&quot; {#history-tab}
+## Verlauf {#history-tab}
 
 Zeigt Ihren Kontaktverlauf an. Umfasst E-Mails, Kampagnen und Aufrufe.
 

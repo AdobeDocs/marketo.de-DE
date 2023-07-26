@@ -21,7 +21,7 @@ Benutzerdefinierte Objekte, die in Ihrer Salesforce-Instanz erstellt wurden, kö
 >
 >Benötigte Administratorrechte.
 
-1. Klicken **Admin**.
+1. Klicks **Admin**.
 
    ![](assets/one.png)
 
@@ -41,7 +41,7 @@ Benutzerdefinierte Objekte, die in Ihrer Salesforce-Instanz erstellt wurden, kö
    >
    >Die Synchronisierung des benutzerdefinierten Salesforce-Objektschemas kann einige Minuten dauern.
 
-1. Klicken **Schema aktualisieren**.
+1. Klicks **Schema aktualisieren**.
 
    ![](assets/image2014-12-10-10-3a15-3a7.png)
 
@@ -53,7 +53,7 @@ Benutzerdefinierte Objekte, die in Ihrer Salesforce-Instanz erstellt wurden, kö
 
    ![](assets/image2014-12-10-10-3a15-3a30.png)
 
-1. Klicken **Synchronisierung aktivieren** erneut.
+1. Klicks **Synchronisierung aktivieren** erneut.
 
    ![](assets/image2014-12-10-10-3a15-3a40.png)
 
@@ -71,7 +71,7 @@ Benutzerdefinierte Objekte, die in Ihrer Salesforce-Instanz erstellt wurden, kö
 
    ![](assets/image2015-8-26-9-3a39-3a28.png)
 
-1. Verwenden Sie dann Filterbegrenzungen, um den Fokus einzugrenzen.
+1. Verwenden Sie dann Filterbegrenzungen, um den Fokus einzuschränken.
 
    ![](assets/image2015-8-24-14-3a18-3a53.png)
 

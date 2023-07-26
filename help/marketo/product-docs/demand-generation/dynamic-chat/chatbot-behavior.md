@@ -157,7 +157,7 @@ Im Folgenden finden Sie verschiedene mögliche Szenarien, in denen das erwartete
       </td>
       <td>
         <p>Die Anzahl der Trigger und Interaktionen für D1 werden um 1 erhöht</p>
-        <p>In WP2 wird keine Anzahl geändert</p>
+        <p>In WP2 keine Änderung an der Anzahl</p>
       </td>
     </tr>
     <tr>
@@ -200,7 +200,7 @@ Im Folgenden finden Sie verschiedene mögliche Szenarien, in denen das erwartete
         <p>V1 klickt auf D1 und schließt D1 ab</p>
         <p>V1 besucht WP2</p>
       </td>
-      <td>D1 wird auf WP1 und nach der Fertigstellung aufgelöst<br/>D2 wird auf WP2 aufgelöst</td>
+      <td>D1 wird auf WP1 und nach Abschluss aufgelöst<br/>D2 wird auf WP2 aufgelöst</td>
       <td>
         <p>Die Anzahl der Trigger, der Interaktion und der Abgeschlossene Anzahl für D1 werden um 1 erhöht</p>
         <p>Die Anzahl der Trigger für D2 wird um 1 erhöht</p>
@@ -215,7 +215,7 @@ Im Folgenden finden Sie verschiedene mögliche Szenarien, in denen das erwartete
         <p>V1 besucht WP2</p>
         <p>V1-Klicks auf D2 liefern die erste Antwort</p>
       </td>
-      <td>D1 wird auf WP1 und nach der Fertigstellung aufgelöst<br/>D2 wird auf WP2 aufgelöst</td>
+      <td>D1 wird auf WP1 und nach Abschluss aufgelöst<br/>D2 wird auf WP2 aufgelöst</td>
       <td>
         <p>Die Anzahl der Trigger, der Interaktion und der Abgeschlossene Anzahl für D1 werden um 1 erhöht</p>
         <p>Trigger und Interaktionsanzahl für D2 werden um 1 erhöht</p>
@@ -267,7 +267,7 @@ Im Folgenden finden Sie verschiedene mögliche Szenarien, in denen das erwartete
       <td>
         <p>Die Anzahl der Trigger für D1 wird um 1 erhöht</p>
         <p>Die Anzahl der Interaktionen mit D1 wird um 1 erhöht</p>
-        <p>Nach der Aktualisierung wird D1 weiter verwendet und ändert sich nicht mehr in die Trigger- oder Interaktionsanzahl.</p>
+        <p>Nach der Aktualisierung wird D1 weiterhin unverändert an der Trigger- oder Interaktionsanzahl angepasst.</p>
       </td>
     </tr>
     <tr>
@@ -302,7 +302,7 @@ Im Folgenden finden Sie verschiedene mögliche Szenarien, in denen das erwartete
       <td>
         <p>Die Anzahl der Trigger für D1 wird um 1 erhöht</p>
         <p>Die Interaktionsanzahl für D1 wird um 1 erhöht</p>
-        <p>Nach der Aktualisierung wird die alte D1 angezeigt, sodass keine Änderung an der Anzahl der Trigger vorgenommen wird.</p>
+        <p>Nach der Aktualisierung wird die alte D1 angezeigt, sodass keine Änderung an der Anzahl der Trigger erfolgt</p>
       </td>
     </tr>
     <tr>
@@ -379,7 +379,7 @@ Im Folgenden finden Sie verschiedene mögliche Szenarien, in denen das erwartete
     <tr>
       <td>
         <p>D1, die für WP1 mit einer Priorität und dem Trigger "Besuchszeit pro Seite"mit 30 Sekunden bestimmt ist</p>
-        <p>D2 für WP1 mit 2 Priorität und Ereignis "Seitenscrollprozentsatz"von 50</p>
+        <p>D2 für WP1 mit 2 Priorität und Ereignis "Seitenbildprozentsatz"von 50</p>
         <p>V1 besucht WP1, nachdem V1 WP2 nach 10 Sekunden besucht hat, besucht V1 WP1</p>
       </td>
       <td>
@@ -397,11 +397,11 @@ Im Folgenden finden Sie verschiedene mögliche Szenarien, in denen das erwartete
       </td>
       <td>
         <p>D1 wird V1 automatisch angezeigt, da sie die Trigger-Kriterien während der vorherigen Sitzung bereits erfüllt haben</p>
-        <p>Dasselbe gilt für "Besuchszeit pro Seite"und "Prozentsatz für Seitenscrollvorgänge"</p>
+        <p>Dasselbe gilt für "Besuchszeit pro Seite"und "Prozentsatz für Seitenbildvorgänge"</p>
       </td>
       <td>
         <p>Die Anzahl der Trigger für D1 wird um 1 erhöht</p>
-        <p>Nach der Rückkehr keine Maßnahmen erforderlich</p>
+        <p>Nach der Rückkehr keine Maßnahmen zu ergreifen</p>
       </td>
     </tr>
   </tbody>

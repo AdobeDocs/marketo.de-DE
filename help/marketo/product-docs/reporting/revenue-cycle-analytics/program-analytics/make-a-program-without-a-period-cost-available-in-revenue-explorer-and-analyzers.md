@@ -13,19 +13,19 @@ ht-degree: 0%
 
 # Bereitstellen eines Programms ohne Periodenkosten in Umsatz-Explorer und Analyzern {#make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers}
 
-Die Kosten des Programmzeitraums ermöglichen es Ihnen, &quot;Wie viel Geld&quot;und &quot;Wann&quot;für ein Programm zu definieren. Dies wird in Umsatz-Cycle Explorer angezeigt und [Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md).
+Die Kosten des Programmzeitraums ermöglichen es Ihnen, &quot;Wie viel Geld&quot;und &quot;Wann&quot;für ein Programm zu definieren. Dies wird in Umsatz-Cycle-Explorer angezeigt und [Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md).
 
 >[!NOTE]
 >
 >**Erforderliche Administratorberechtigungen**
 
-Einige Programme müssen möglicherweise auch ohne Zeitraumkosten eingeschlossen werden. Sie können zwar 0 für die Zeitraumkosten eingeben, doch wir haben die Einbeziehung dieser Programme vereinfacht.
+Einige Programme müssen möglicherweise auch ohne Zeitraumkosten eingeschlossen werden. Obwohl Sie für die Zeitraumkosten 0 eingeben können, wurde es uns erleichtert, diese Programme einzubeziehen.
 
 >[!NOTE]
 >
 >Der Programm-Analyzer erfasst den Erfolg des Programms nach Zeitraumkosten. Wenn keine Zeitraumkosten verfügbar sind, wird der Erfolg des Programms unabhängig vom Analyseverhalten des Programms nicht angezeigt. Wenn das Analytics-Verhalten eingerichtet ist, werden Daten für Opportunitätsmetriken angezeigt (Pipeline-Chancen, Umsatz usw.).
 
-1. Klicken Sie im Abschnitt &quot;Admin&quot;auf **Tags**.
+1. Klicken Sie im Abschnitt Admin auf **Tags**.
 
    ![](assets/image2014-9-17-12-3a35-3a32.png)
 

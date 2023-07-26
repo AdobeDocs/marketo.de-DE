@@ -23,7 +23,7 @@ Sie können benutzerdefinierte [tags](/help/marketo/product-docs/core-marketo-co
 >
 >**Beispiel**
 >
->Programm-Tag: Zielgruppe
+>Programm-Tag: Target-Zielgruppe
 >
 >Programm-Tag-Wert: SMB, Enterprise, Mid-Market
 
@@ -31,11 +31,11 @@ Sie können benutzerdefinierte [tags](/help/marketo/product-docs/core-marketo-co
 
    ![](assets/create-a-new-program-tag-and-tag-values-1.png)
 
-1. Klicken **[!UICONTROL Tags]**.
+1. Klicks **[!UICONTROL Tags]**.
 
    ![](assets/create-a-new-program-tag-and-tag-values-2.png)
 
-1. Klicken **[!UICONTROL Neu]** und wählen Sie **[!UICONTROL Neuer Tag-Typ]**.
+1. Klicks **[!UICONTROL Neu]** und wählen **[!UICONTROL Neuer Tag-Typ]**.
 
    ![](assets/create-a-new-program-tag-and-tag-values-3.png)
 
@@ -51,7 +51,7 @@ Sie können benutzerdefinierte [tags](/help/marketo/product-docs/core-marketo-co
    >
    >Sie können mehrere Programmtypen auswählen. Wenn ein neues Programm erstellt wird, ist dieser Tag-Typ verfügbar.
 
-1. Überprüfen **[!UICONTROL Erforderlich]** und klicken Sie auf **[!UICONTROL Erstellen]**.
+1. Überprüfen **[!UICONTROL Erforderlich]** und klicken **[!UICONTROL Erstellen]**.
 
    ![](assets/create-a-new-program-tag-and-tag-values-6.png)
 

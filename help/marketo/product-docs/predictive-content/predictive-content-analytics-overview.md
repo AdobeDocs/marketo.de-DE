@@ -25,7 +25,7 @@ Klicken Sie auf der Zusammenfassungsseite auf **Analytics**.
 
 ![](assets/one.png)
 
-Analytics umfasst mehrere Abschnitte: Top-Inhalte nach Ansichten, Top-Inhalt nach Konversionsrate, Trendinhalt, vorgeschlagene Inhalte und Inhalt
+Analytics umfasst verschiedene Abschnitte: &quot;Top-Inhalt nach Ansichten&quot;, &quot;Top-Inhalt nach Konversionsrate&quot;, &quot;Trend-Inhalt&quot;, &quot;Vorgeschlagener Inhalt&quot;und &quot;Inhalt&quot;.
 
 ![](assets/new-2.png)
 
@@ -47,7 +47,7 @@ Klicken Sie auf das Kalendersymbol, um die Daten der reflektierten Daten zu änd
 
 ## Top-Inhalt nach Anzeigen {#top-content-by-views}
 
-Zeigt die wichtigsten Inhaltselemente nach Anzahl der Ansichten pro ausgewähltem Datumsbereich an.
+Zeigt die wichtigsten Inhaltselemente nach Anzahl der Ansichten pro Datumsbereich an.
 
 ![](assets/new-6.png)
 
@@ -61,7 +61,7 @@ Zeigt den am häufigsten konvertierenden Inhalt nach Konversionsrate für den au
 >
 >**Definition**
 >
->**Konversionsrate**: Ein Prozentsatz, der durch direkte Konversionen dividiert durch Klicks berechnet wird.
+>**Konversionsrate**: Prozentsatz, der durch direkte Konversionen dividiert durch Klicks berechnet wird.
 
 ## Trending-Inhalt {#trending-content}
 
@@ -87,7 +87,7 @@ Bewegen Sie den Mauszeiger über ein Bild in &quot;Vorgeschlagener Inhalt&quot;,
 
 ![](assets/image2017-10-3-10-3a22-3a24.png)
 
-Suchen Sie nach dem gewünschten Inhaltselement und klicken Sie darauf, um weitere Details anzuzeigen, darunter: die Besucher, die ihn ansehen, neue oder zurückkehrende, bekannte und anonyme, die Top-Positionen, von denen die Besucher bei der Anzeige des Inhalts kamen, und die am häufigsten zurückgewiesenen Branchen, aus denen sie stammen.
+Suchen Sie nach dem gewünschten Inhaltselement und klicken Sie darauf, um weitere Details anzuzeigen, darunter die Besucher, die es ansehen, neue oder zurückkehrende Besucher, bekannte und anonyme Standorte, die Top-Orte, von denen die Besucher bei der Anzeige des Inhalts kamen, und die am häufigsten abgerufenen Branchen, aus denen sie stammen.
 
 ![](assets/image2017-10-3-10-3a23-3a40.png)
 

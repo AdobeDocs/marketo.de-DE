@@ -29,7 +29,7 @@ Im Folgenden finden Sie die Schritte, die Sie zur Konfiguration von Marketo Sale
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-1.png)
 
-1. Klicken **API-Konfiguration bearbeiten**.
+1. Klicks **API-Konfiguration bearbeiten**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-2.png)
 
@@ -41,11 +41,11 @@ Im Folgenden finden Sie die Schritte, die Sie zur Konfiguration von Marketo Sale
    >
    >Ihr API-Geheimschlüssel ist wie ein Kennwort für Ihre Organisation und sollte sicher sein.
 
-1. Klicken **Ansicht** im Bedienfeld Rest-API-Konfiguration , um die Anmeldeinformationen zu füllen.
+1. Klicks **Ansicht** im Bedienfeld Rest-API-Konfiguration , um die Anmeldeinformationen zu füllen.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-4.png)
 
-1. Es wird ein Bestätigungs-Popup angezeigt. Klicken **OK**.
+1. Es wird ein Bestätigungs-Popup angezeigt. Klicks **OK**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-5.png)
 
@@ -63,19 +63,19 @@ Im Folgenden finden Sie die Schritte, die Sie zur Konfiguration von Marketo Sale
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-7.png)
 
-1. Klicken **Neue Remote-Site**.
+1. Klicks **Neue Remote-Site**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-8.png)
 
-1. Geben Sie den Remote-Site-Namen ein (z. B. &quot;MarketoSoapAPI&quot;). Geben Sie die Remote-Site-URL ein, die Ihre Marketo-Host-URL im Bedienfeld Soap-API-Konfiguration in Marketo ist. Klicken **Speichern**. Sie haben jetzt Remote-Site-Einstellungen für die Soap-API erstellt.
+1. Geben Sie den Remote-Site-Namen ein (z. B. &quot;MarketoSoapAPI&quot;). Geben Sie die Remote-Site-URL ein, die Ihre Marketo-Host-URL im Bedienfeld Soap-API-Konfiguration in Marketo ist. Klicks **Speichern**. Sie haben jetzt Remote-Site-Einstellungen für die Soap-API erstellt.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-9.png)
 
-1. Klicken **Neue Remote-Site** erneut.
+1. Klicks **Neue Remote-Site** erneut.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-10.png)
 
-1. Geben Sie den Remote-Site-Namen ein (z. B. &quot;MarketoAPI&quot;). Geben Sie die Remote-Site-URL ein, die Ihre API-URL aus dem Bedienfeld REST-API-Konfiguration in Marketo ist. Klicken **Speichern**. Sie haben jetzt Remote-Site-Einstellungen für die Rest-API erstellt.
+1. Geben Sie den Remote-Site-Namen ein (z. B. &quot;MarketoAPI&quot;). Geben Sie die Remote-Site-URL ein, die Ihre API-URL aus dem Bedienfeld REST-API-Konfiguration in Marketo ist. Klicks **Speichern**. Sie haben jetzt Remote-Site-Einstellungen für die Rest-API erstellt.
 
    >[!NOTE]
    >
@@ -83,7 +83,7 @@ Im Folgenden finden Sie die Schritte, die Sie zur Konfiguration von Marketo Sale
 
 ## Seitenlayouts anpassen {#customize-page-layouts}
 
-1. Klicken **Einrichtung**.
+1. Klicks **Einrichtung**.
 
    ![](assets/image2015-5-22-14-3a40-3a39.png)
 
@@ -91,11 +91,11 @@ Im Folgenden finden Sie die Schritte, die Sie zur Konfiguration von Marketo Sale
 
    ![](assets/image2015-5-28-14-3a58-3a39.png)
 
-1. Klicken **Visualforce-Seiten** auf der linken Seite. Ziehen **Abschnitt** zum Layout unter dem Abschnitt &quot;Benutzerspezifische Links&quot;.
+1. Klicks **Visualforce-Seiten** auf der linken Seite. Ziehen **Abschnitt** zum Layout unter dem Abschnitt &quot;Benutzerspezifische Links&quot;.
 
    ![](assets/image2014-9-24-17-3a32-3a53.png)
 
-1. Geben Sie &quot;Marketo Sales Insight&quot;als **Bereichsname**. Auswählen **1-Spalte** und klicken Sie auf **OK**.
+1. Geben Sie &quot;Marketo Sales Insight&quot;als **Bereichsname**. Auswählen **1-Spalte** und klicken **OK**.
 
    ![](assets/image2014-9-24-17-3a33-3a23.png)
 
@@ -111,7 +111,7 @@ Im Folgenden finden Sie die Schritte, die Sie zur Konfiguration von Marketo Sale
 
    ![](assets/image2014-9-24-17-3a34-3a0.png)
 
-1. Höhe bearbeiten auf **450** Pixel und klicken Sie auf **OK**.
+1. Höhe bearbeiten auf **450** Pixel und Klicken **OK**.
 
    ![](assets/image2014-9-24-17-3a34-3a26.png)
 
@@ -173,7 +173,7 @@ Im Folgenden finden Sie die Schritte, die Sie zur Konfiguration von Marketo Sale
     </tbody> 
    </table>
 
-1. Klicken **Speichern** wenn fertig.
+1. Klicks **Speichern** wenn fertig.
 
    ![](assets/image2014-9-24-17-3a35-3a6.png)
 
@@ -229,7 +229,7 @@ Im Folgenden finden Sie die Schritte, die Sie zur Konfiguration von Marketo Sale
 
 Marketo-Personenfelder müssen Salesforce-Kontaktfeldern zugeordnet werden, um sicherzustellen, dass die Konvertierung ordnungsgemäß funktioniert. So geht es.
 
-1. Klicken **Einrichtung**.
+1. Klicks **Einrichtung**.
 
    ![](assets/image2015-5-22-14-3a40-3a39.png)
 
@@ -237,7 +237,7 @@ Marketo-Personenfelder müssen Salesforce-Kontaktfeldern zugeordnet werden, um s
 
    ![](assets/image2015-6-1-9-3a54-3a50.png)
 
-1. Klicken **Lead-Felder zuordnen**.
+1. Klicks **Lead-Felder zuordnen**.
 
    ![](assets/image2015-6-1-9-3a58-3a48.png)
 
@@ -271,7 +271,7 @@ Marketo-Personenfelder müssen Salesforce-Kontaktfeldern zugeordnet werden, um s
      </tr> 
      <tr> 
       <td colspan="1" rowspan="1"><p>Datum des letzten interessanten Moments</p></td> 
-      <td colspan="1" rowspan="1"><p>Contact.Last Interest-Zeitpunkt</p></td> 
+      <td colspan="1" rowspan="1"><p>Contact.Last Interest-Moment-Datum</p></td> 
      </tr> 
      <tr> 
       <td colspan="1" rowspan="1"><p>Beschreibung des letzten interessanten Moments</p></td> 
@@ -288,7 +288,7 @@ Marketo-Personenfelder müssen Salesforce-Kontaktfeldern zugeordnet werden, um s
     </tbody> 
    </table>
 
-1. Klicken **Speichern** wenn Sie fertig sind.
+1. Klicks **Speichern** wenn Sie fertig sind.
 
 ## Registerkarte &quot;Marketo Sales Insight-Konfiguration&quot; {#marketo-sales-insight-configuration-tab}
 

@@ -23,7 +23,7 @@ Sie können jede Landingpage-Vorlage in Marketo bearbeiten.
 
    ![](assets/image2015-5-21-12-3a40-3a3.png)
 
-1. Wählen Sie die **Vorlage** Sie bearbeiten möchten. Klicken **Entwurf bearbeiten**.
+1. Wählen Sie die **Vorlage** Sie bearbeiten möchten. Klicks **Entwurf bearbeiten**.
 
    ![](assets/image2015-5-21-12-3a37-3a54.png)
 

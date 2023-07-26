@@ -30,7 +30,7 @@ Bevor Sie einen Asset-Ablauf planen können, muss für Ihre Marketo-Rolle die en
 
    ![](assets/local-asset-expiration-2.png)
 
-1. under [!UICONTROL Auf Marketing-Aktivitäten zugreifen]auswählen **[!UICONTROL Planen des Ablaufs eines lokalen Assets]** und klicken Sie auf **[!UICONTROL Speichern]**.
+1. under [!UICONTROL Auf Marketing-Aktivitäten zugreifen]auswählen **[!UICONTROL Planen des Ablaufs eines lokalen Assets]** und klicken **[!UICONTROL Speichern]**.
 
    ![](assets/local-asset-expiration-3.png)
 
@@ -48,7 +48,7 @@ Bevor Sie einen Asset-Ablauf planen können, muss für Ihre Marketo-Rolle die en
 
    ![](assets/local-asset-expiration-6.png)
 
-1. Legen Sie eine Zeit fest. Sie müssen eine Zeit von mindestens 15 Minuten in der Zukunft planen (vergessen Sie nicht, AM/PM zu betreten). Klicken **[!UICONTROL Bestätigen]** wann geschehen.
+1. Legen Sie eine Zeit fest. Sie müssen eine Zeit von mindestens 15 Minuten in der Zukunft planen (vergessen Sie nicht, AM/PM zu betreten). Klicks **[!UICONTROL Bestätigen]** wann geschehen.
 
    ![](assets/local-asset-expiration-7.png)
 

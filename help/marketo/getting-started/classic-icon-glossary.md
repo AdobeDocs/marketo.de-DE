@@ -13,7 +13,7 @@ ht-degree: 34%
 
 # Glossar zu klassischen Symbolen {#classic-icon-glossary}
 
-Unten finden Sie die alten Symbole von Marketo Classic. Das neue Symbolglossar kann [hier finden](/help/marketo/product-docs/marketo-engage-modern-ux/icon-glossary.md){target="_blank"}.
+Unten finden Sie die alten Symbole von Marketo Classic. Das neue Glossar für Symbole kann [hier finden](/help/marketo/product-docs/marketo-engage-modern-ux/icon-glossary.md){target="_blank"}.
 
 **Allgemeine Symbole**
 
@@ -572,7 +572,7 @@ Unten finden Sie die alten Symbole von Marketo Classic. Das neue Symbolglossar k
     <div> 
      <img src="assets/image2015-1-9-15-3a15-3a42.png"> 
     </div></td> 
-   <td>Preisausschreiben von Aktionen</td> 
+   <td>Preisausschreiben</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1106,7 +1106,7 @@ Unten finden Sie die alten Symbole von Marketo Classic. Das neue Symbolglossar k
     <div> 
      <img src="assets/image2015-1-5-14-3a43-3a28.png"> 
     </div></td> 
-   <td>E-Mail-Skript (nur für Velocity)</td> 
+   <td>Email Script (nur für Velocity)</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1173,7 +1173,7 @@ Unten finden Sie die alten Symbole von Marketo Classic. Das neue Symbolglossar k
     <div> 
      <img src="assets/image2015-1-5-14-3a43-3a28.png"> 
     </div></td> 
-   <td>E-Mail-Skript (nur für Velocity)</td> 
+   <td>Email Script (nur für Velocity)</td> 
   </tr> 
   <tr> 
    <td> 

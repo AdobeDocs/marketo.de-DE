@@ -100,18 +100,18 @@ Wie bei der Akquise ändert sich der Wert des Beitrags zu den Verkäufen an eine
  </tbody> 
 </table>
 
-_&#42;(FT) = Erstkontaktzuordnung, die zur Messung der Lead-Akquise verwendet wird; (MT) = Multi-Touch-Zuordnung, verwendet für Messungen des Lead-Erfolgs_
+_&#42;(FT) = Erstkontakt-Zuordnung, verwendet für Messungen der Lead-Akquise; (MT) = Multi-Touch-Zuordnung, verwendet für Messungen des Lead-Erfolgs_
 
 Nachstehend finden Sie ein Szenario, in dem beschrieben wird, wie Opportunity Units berechnet werden, wenn zwei Programme Leads generieren, aber diese dazu führten, dass aus demselben Konto eine Chance bestand.
 
 **Programm 1**
 
-* Erzeugt einen Lead: Blei 1
+* Erzeugt einen Lead: Lead 1
 * Lead 1 stammt aus Konto 1
 
 **Programm 2**
 
-* Erzeugt einen weiteren Lead: Blei 2
+* Erstellt einen weiteren Lead: Lead 2
 * Lead 2 stammt auch aus Konto 1
 
 **Konto 1**
@@ -132,7 +132,7 @@ Die anderen verfügbaren Maßnahmen spiegeln die Gesamtleistung des Programms wi
   </tr> 
   <tr> 
    <td>Anzahl der mit dem Programm verbundenen Möglichkeiten</td> 
-   <td><p>Die Anzahl der Gesamtchancen, die einem Programm eine Art von Attributionsguthaben zugeteilt haben. Chancen können durch einen oder mehrere Leads und durch ein oder mehrere Programme beeinflusst werden.</p></td> 
+   <td><p>Die Anzahl der Gesamtchancen, die einem Programm eine beliebige Art von Attributionsguthaben zugeteilt haben. Chancen können durch einen oder mehrere Leads und durch ein oder mehrere Programme beeinflusst werden.</p></td> 
   </tr> 
   <tr> 
    <td>Durchschnittliche Anzahl der Erfolge pro geschlossener Gelegenheit</td> 
@@ -169,11 +169,11 @@ Während Messungen (blaue Punkte) berechnet werden und einige Überlegungen und 
   </tr> 
   <tr> 
    <td>Opportunity-Attribute</td> 
-   <td>Chancen geschlossen<br>Opportunity Name*<br>Opportunity Owner Name<br>Opportunity Stage<br>Opportunity type</td> 
+   <td>Geschlossene Chancen<br>Opportunity Name*<br>Opportunity Owner Name<br>Opportunity Stage<br>Opportunity type</td> 
   </tr> 
   <tr> 
    <td>Opportunity Timeframe</td> 
-   <td>Geschlossene Chancen Jahr/Quartal/Monat<br>Erstellte Gelegenheit Jahr/Quartal/Monat</td> 
+   <td>Geschlossene Chancen Jahr/Quartal/Monat<br>Erstellte Chancen - Jahr/Quartal/Monat</td> 
   </tr> 
   <tr> 
    <td>Programmattribute</td> 

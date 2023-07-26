@@ -35,11 +35,11 @@ Marketo erleichtert es Ihnen, das Erscheinungsbild Ihrer Formulare anzupassen. E
 
    ![](assets/image2014-9-15-16-3a10-3a8.png)
 
-1. Klicken **Beenden**.
+1. Klicks **Beenden**.
 
    ![](assets/image2014-9-15-16-3a10-3a50.png)
 
-1. Klicken **Genehmigen und schließen**.
+1. Klicks **Genehmigen und schließen**.
 
    >[!NOTE]
    >

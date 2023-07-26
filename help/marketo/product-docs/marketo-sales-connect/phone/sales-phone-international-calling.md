@@ -1,7 +1,7 @@
 ---
 unique-page-id: 14352434
 description: Sales Phone International Calling - Marketo Docs - Produktdokumentation
-title: Sales Phone International - Aufruf
+title: Sales Phone International - Anruf
 exl-id: 5a5956fe-67f3-41dd-bbbe-b0cea1ded6f0
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,7 +11,7 @@ ht-degree: 17%
 
 ---
 
-# Sales Phone International - Aufruf {#sales-phone-international-calling}
+# Sales Phone International - Anruf {#sales-phone-international-calling}
 
 Sales Phone macht es Ihnen leicht, international zu kommunizieren. Kunden, die aus den USA anrufen, können das Sales Phone für ausgehende Anrufe in internationale Länder verwenden. Für Kunden außerhalb der Vereinigten Staaten unterstützen wir Anrufe aus internationalen Ländern.
 
@@ -148,7 +148,7 @@ Sales Phone macht es Ihnen leicht, international zu kommunizieren. Kunden, die a
 
 **Warum unterstützt MSE nicht die internationale Forderung nach allen Ländern?**
 
-Heute bieten wir mit Sales Phone internationale Anrufe ohne Zusatzkosten an. Wir möchten Ihnen die Kommunikation mit Ihren eigenen Interessenten und Kunden erleichtern, deshalb haben wir Unterstützung für internationale Standardtarife-Anrufe ins Leben gerufen. Wir bieten 34 Länder außerhalb der USA und Kanadas für Regionen in Europa, Asien und anderen wichtigen Zielen an. Wir werden auf der Basis des Feedbacks unserer Kunden weiter expandieren.
+Heute bieten wir mit Sales Phone internationale Anrufe ohne zusätzliche Kosten an. Wir möchten Ihnen die Kommunikation mit Ihren eigenen Interessenten und Kunden erleichtern, deshalb haben wir Unterstützung für internationale Standardtarife-Anrufe ins Leben gerufen. Wir bieten 34 Länder außerhalb der USA und Kanadas für Regionen in Europa, Asien und anderen wichtigen Zielen an. Wir werden auf der Basis des Feedbacks unserer Kunden weiter expandieren.
 
 **Wenn ich außerhalb der USA bin, welche Länder kann ich von und zu anrufen?**
 

@@ -46,29 +46,29 @@ Beispiel:
 
 ## Bild {#image}
 
-Sie haben zwei Optionen zum Definieren bearbeitbarer Bildelemente. Sie können entweder `<div>`, der einen Container angibt, in den das Bild eingefügt wird, oder einen `<img>` -Tag.
+Sie haben zwei Optionen zum Definieren bearbeitbarer Bildelemente. Sie können entweder eine `<div>`, der einen Container angibt, in den das Bild eingefügt wird, oder einen `<img>` -Tag.
 
 ## Option 1: Verwenden eines `<div>` {#option-use-a-div}
 
 Erforderliche Attribute:
 
--Klasse: &quot;mktoImg&quot;\
+class: &quot;mktoImg&quot;\
 id: ID-Zeichenfolge. Enthält nur Buchstaben, Zahlen, Bindestriche &quot;-&quot;und Unterstriche &quot;_&quot;. Leerzeichen sind nicht zulässig. Muss eindeutig sein.\
-mktoName : Zeichenfolge. Dies ist der Anzeigename, der im Landingpage-Editor angezeigt wird. Es empfiehlt sich, einen beschreibenden Namen zu verwenden.
+mktoName : String. Dies ist der Anzeigename, der im Landingpage-Editor angezeigt wird. Es empfiehlt sich, einen beschreibenden Namen zu verwenden.
 
 Optional:\
-mktoImgClass: Zeichenfolge. Der Wert hier wird dem class -Attribut der `<img>` -Element innerhalb des div.
+mktoImgClass: String. Der Wert hier wird dem class -Attribut der `<img>` -Element innerhalb des div.
 
 Beispiel:
 
 `<div class="mktoImg" id="exampleImg" mktoName="Example Image"></div>`
 
-## Option 2: Verwenden einer `<img>` {#option-use-a-img}
+## Option 2: Verwenden Sie eine `<img>` {#option-use-a-img}
 
 Erforderliche Attribute:\
--Klasse: &quot;mktoImg&quot;\
+class: &quot;mktoImg&quot;\
 id: ID-Zeichenfolge. Enthält nur Buchstaben, Zahlen, Bindestriche &quot;-&quot;und Unterstriche &quot;_&quot;. Leerzeichen sind nicht zulässig. Muss eindeutig sein.\
-mktoName : Zeichenfolge. Dies ist der Anzeigename, der im Landingpage-Editor angezeigt wird. Es empfiehlt sich, einen beschreibenden Namen zu verwenden.
+mktoName : String. Dies ist der Anzeigename, der im Landingpage-Editor angezeigt wird. Es empfiehlt sich, einen beschreibenden Namen zu verwenden.
 
 Optional:\
 src: String-URL. Dies wird als Standardwert für das Bild verwendet.
@@ -199,7 +199,7 @@ Erforderliche Attribute:\
 **mktoName** : Zeichenfolge. Dies ist der Anzeigename, der im Landingpage-Editor angezeigt wird. Es empfiehlt sich, einen beschreibenden Namen zu verwenden.
 
 Optional:\
-**default**: Ein 7-stelliger HEX-Zeichenfarbcode. z: &quot;#336699&quot;
+**default**: Ein 7-stelliger HEX-Zeichenfarbcode. Beispiel: &quot;#336699&quot;
 
 Grundlegendes Beispiel:
 

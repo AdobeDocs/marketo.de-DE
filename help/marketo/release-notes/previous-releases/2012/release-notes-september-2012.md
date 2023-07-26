@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# Versionshinweise: September 2012 {#release-notes-september}
+# September 2012 - Versionshinweise {#release-notes-september}
 
 Diese Version beinhaltet hoch erwartete, integrierte soziale Funktionen und Lead-Management-Strategien! Hinweis: Social-Funktionen sind als Add-on oder als Teil ausgewählter Bundles verfügbar.
 
@@ -51,7 +51,7 @@ Microsoft Dynamics 2011 wird jetzt On-Premise mit einer Internet-Facing-Implemen
 
 Ein Webhook ist ein benutzerdefinierter HTTP-Rückruf. Es ist eine großartige Möglichkeit, Daten von Marketo an einen anderen Dienst zu übertragen. Diese Funktion ist derzeit in der Schatzkiste verfügbar und wird derzeit nur in Trigger-Kampagnen unterstützt.
 
-Beispiele für die Verwendung von Webhooks: Veröffentlichen von Benutzername- und Passwortinformationen in ein anderes System, um ein Testkonto zu erstellen; SMS-Textnachrichten senden, wenn Sie einen neuen Lead erhalten.
+Beispiele für die Verwendung von Webhooks sind: das Posten von Benutzername- und Passwortinformationen in einem anderen System, um ein Testkonto zu erstellen; das Senden einer SMS-Textnachricht, wenn Sie einen neuen Lead erhalten.
 
 ## Aktualisierung der getMultipleLeads-API {#update-to-getmultipleleads-api}
 

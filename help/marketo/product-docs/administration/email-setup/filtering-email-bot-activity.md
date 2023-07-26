@@ -21,21 +21,21 @@ Zur Bestätigung der Bot-Aktivität werden zwei verschiedene Methoden verwendet:
    * Lead-ID (sollte identisch sein)
    * E-Mail-Asset (sollte identisch sein)
    * Link-Klick oder E-Mail-Öffnung
-   * Zeitdifferenz (sollte kleiner als eine Sekunde sein)
+   * Zeitdifferenz (sollte weniger als eine Sekunde betragen)
 
 Bei der Aktivität E-Mail-Link-Klick und E-Mail-Öffnung werden neue Attribute mit den folgenden Werten ausgefüllt:
 
 * Aktivitäten, die als Bots identifiziert werden, haben &quot;Bot Activity&quot;als &quot;True&quot;und &quot;Bot Activity Pattern&quot;als identifiziertes Muster/Methode
 * Aktivitäten, die als nicht &quot;bots&quot;gekennzeichnet sind, haben &quot;Bot Activity&quot;als &quot;False&quot;und &quot;Bot Activity Pattern&quot;als &quot;K/A&quot;.
-* Aktivitäten, die stattgefunden haben, bevor wir diese Attribute eingeführt haben, haben &quot;Bot Activity&quot;als &quot;&quot;(leer) und &quot;Bot Activity Pattern&quot;als &quot;&quot;(leer).
+* Aktivitäten, die vor der Einführung dieser Attribute stattgefunden haben, haben &quot;Bot Activity&quot;als &quot;&quot;(leer) und &quot;Bot Activity Pattern&quot;als &quot;&quot;(leer).
 
 ## Filtertyp auswählen {#select-filter-type}
 
-1. Klicken **[!UICONTROL Admin]**.
+1. Klicks **[!UICONTROL Admin]**.
 
    ![](assets/filtering-email-bot-activity-1.png)
 
-1. Klicken **[!UICONTROL Email]**.
+1. Klicks **[!UICONTROL Email]**.
 
    ![](assets/filtering-email-bot-activity-2.png)
 

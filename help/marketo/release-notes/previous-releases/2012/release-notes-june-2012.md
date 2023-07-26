@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# Versionshinweise: Juni 2012 {#release-notes-june}
+# Juni 2012 - Versionshinweise {#release-notes-june}
 
 ## Verbesserungen bei der Marketo-Lead-Verwaltung {#marketo-lead-management-enhancements}
 
@@ -47,7 +47,7 @@ Wir haben zu unseren Asset-Zusammenfassungsseiten eine neue Registerkarte namens
 
 ![](assets/image2014-9-23-10-3a24-3a5.png)
 
-Beispiel: Wird von für statische Listen verwendet
+Beispiel: Verwendet von für statische Listen
 
 ## Einstiegsseiten-Rasterlinien {#landing-page-gridlines}
 
@@ -59,7 +59,7 @@ Durch das Hinzufügen von Raster-Linien für Landingpages wird die Ausrichtung v
 
 ## Von Sendungen blockierte Leads {#leads-blocked-from-mailings}
 
-Wenn Sie eine Kampagne planen, können Sie auf den Link klicken, um die Liste der Leads anzuzeigen, die von Ihrem Versand blockiert werden.
+Wenn Sie eine Kampagne planen, können Sie auf den Link klicken, um die Liste der Leads anzuzeigen, die von Ihrem Mailing ausgeschlossen sind.
 
 ![](assets/image2014-9-23-10-3a24-3a51.png)
 
@@ -75,9 +75,9 @@ Schalten Sie Ihre Ansicht von einer Bildliste in eine Miniaturansicht um!
 
 ![](assets/image2014-9-23-10-3a26-3a13.png)
 
-Hinweis: Ab dieser Version gilt die vorherige Sortierung bei Smart-List-Rastern nicht für die nächste angezeigte Smart-Liste. Wenn Sie beispielsweise eine Smart-Liste nach Unternehmensname sortieren, wird die nächste angezeigte Smart-Liste nicht automatisch nach demselben Feld sortiert.
+Hinweis: Ab dieser Version gilt die vorherige Sortierung bei Smart-List-Rastern nicht mehr für die nächste angezeigte Smart-Liste. Wenn Sie beispielsweise eine Smart-Liste nach Unternehmensname sortieren, wird die nächste angezeigte Smart-Liste nicht automatisch nach demselben Feld sortiert.
 
-Erinnerung: E-Mail-Leistungsbericht - Aktualisierung läuft!
+Erinnerung: E-Mail-Leistungsbericht wird aktualisiert!
 
 ## Verbesserungen bei Marketo-Umsatzwyklus Analytics {#marketo-revenue-cycle-analytics-enhancements}
 

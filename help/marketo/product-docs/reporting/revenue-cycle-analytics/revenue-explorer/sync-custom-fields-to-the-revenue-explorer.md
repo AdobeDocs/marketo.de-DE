@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Benutzerdefinierte Felder mit dem Umsatz-Explorer synchronisieren {#sync-custom-fields-to-the-revenue-explorer}
 
-In &quot;Umsatz-Cycle Analytics&quot;können Berichte zu benutzerdefinierten Marketo-Feldern erstellt werden. Dazu müssen Sie die benutzerdefinierten Felder festlegen, die synchronisiert werden sollen.
+In &quot;Umsatz-Cycle Analytics&quot;können Berichte zu benutzerdefinierten Marketo-Feldern erstellt werden. Dazu müssen Sie die benutzerdefinierten Felder für die Synchronisierung festlegen.
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ In &quot;Umsatz-Cycle Analytics&quot;können Berichte zu benutzerdefinierten Mar
 
    ![](assets/image2014-9-19-9-3a51-3a26.png)
 
-1. Wählen Sie das Feld aus, für das Sie die Synchronisierung aktivieren möchten, und klicken Sie auf **Option &quot;Sync bearbeiten&quot;**.
+1. Wählen Sie das Feld aus, für das Sie die Synchronisierung aktivieren möchten, und klicken Sie auf **Option &quot;Synchronisierung bearbeiten&quot;**.
 
    ![](assets/image2014-9-19-9-3a51-3a36.png)
 

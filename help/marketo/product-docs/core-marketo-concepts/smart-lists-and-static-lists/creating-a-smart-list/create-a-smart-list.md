@@ -31,7 +31,7 @@ Mit Hilfe einfacher Filter erlauben intelligente Listen es Ihnen, bestimmte Pers
 
    ![](assets/image2014-9-9-16-3a27-3a18.png)
 
-1. Geben Sie einen **Name** und klicken Sie auf **Erstellen**.
+1. Geben Sie einen **Name** und klicken **Erstellen**.
 
    ![](assets/image2014-9-9-16-3a27-3a39.png)
 

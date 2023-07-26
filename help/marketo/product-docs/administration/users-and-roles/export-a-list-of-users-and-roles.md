@@ -23,7 +23,7 @@ Es ist ziemlich einfach, eine vollständige Liste Ihrer Benutzer und Benutzerrol
 
    ![](assets/export-a-list-of-users-and-roles-1.png)
 
-1. Klicken **[!UICONTROL Benutzer und Rollen]**.
+1. Klicks **[!UICONTROL Benutzer und Rollen]**.
 
    ![](assets/export-a-list-of-users-and-roles-2.png)
 

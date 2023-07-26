@@ -19,13 +19,13 @@ ht-degree: 7%
 
 ## Überblick {#overview}
 
-Mit Webhooks können Sie mit Drittanbieterdiensten interagieren. Senden/Empfangen von Informationen durch Aufruf eines Webhooks in einem smarten Kampagnenfluss.
+Webhooks ermöglichen die Interaktion mit Drittanbieterdiensten. Senden/Empfangen von Informationen durch Aufruf eines Webhooks in einem smarten Kampagnenfluss.
 
 ![](assets/image2014-9-22-15-3a4-3a7.png)
 
 >[!NOTE]
 >
->Erfahren Sie mehr über die vielen faszinierenden Dinge, die [Webhooks](https://developers.marketo.com/documentation/webhooks/) Ich kann für dich tun.
+>Lernen Sie die vielen faszinierenden Dinge kennen, die [Webhooks](https://developers.marketo.com/documentation/webhooks/) Ich kann für dich tun.
 
 ## Nutzung {#usage}
 

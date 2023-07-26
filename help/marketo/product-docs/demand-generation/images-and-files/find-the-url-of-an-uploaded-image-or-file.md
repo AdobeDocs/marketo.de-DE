@@ -19,11 +19,11 @@ Suchen Sie die Webadresse (URL) eines hochgeladenen Bildes oder einer hochgelade
 
    ![](assets/designstudio-4.png)
 
-1. Klicken **Bilder und Dateien** im linken Menü und wählen Sie dann die Datei aus, für die Sie die URL verwenden möchten.
+1. Klicks **Bilder und Dateien** im linken Menü und wählen Sie dann die Datei aus, für die Sie die URL verwenden möchten.
 
    ![](assets/image2014-9-25-14-3a47-3a53.png)
 
-1. Die **URL** wird auf der Detailseite angezeigt. Klicken Sie mit der rechten Maustaste auf die **URL** und klicken Sie auf **Kopieren** im angezeigten Menü.
+1. Die **URL** wird auf der Detailseite angezeigt. Rechtsklicken Sie auf die **URL** und klicken **Kopieren** im angezeigten Menü.
 
    ![](assets/image2014-9-25-14-3a48-3a16.png)
 
@@ -31,4 +31,4 @@ Gönnen Sie sich einen Rücken für eine gute Arbeit!
 
 >[!MORELIKETHIS]
 >
->[Ersetzen eines hochgeladenen Bildes oder einer hochgeladenen Datei](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)
+>[Ersetzen eines hochgeladenen Bildes oder einer Datei](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)

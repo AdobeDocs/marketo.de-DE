@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Sie können benutzerdefinierte Überlagerungen erstellen, um für Ihre Anforderungen relevante Einträge anzuzeigen.
 
-1. Klicken Sie auf **Agenda** Dropdown-Liste.
+1. Klicken Sie auf **Agenda** angezeigt.
 
    ![](assets/image2014-9-24-10-3a20-3a11.png)
 
@@ -27,7 +27,7 @@ Sie können benutzerdefinierte Überlagerungen erstellen, um für Ihre Anforderu
 
    ![](assets/image2014-9-24-10-3a20-3a26.png)
 
-1. Sie können auch nach [Programm-Tags](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md).
+1. Sie können auch nach [Programmtags](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md).
 
    ![](assets/image2014-9-24-10-3a20-3a32.png)
 

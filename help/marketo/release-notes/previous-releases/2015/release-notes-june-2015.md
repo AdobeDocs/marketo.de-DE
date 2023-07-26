@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# Versionshinweise: Juni 2015 {#release-notes-june}
+# Juni 2015 - Versionshinweise {#release-notes-june}
 
 Die folgenden Funktionen sind in der Version vom Juni 2015 enthalten. Informationen zur Verfügbarkeit von Funktionen finden Sie in Ihrer Marketo Edition. Stellen Sie nach der Veröffentlichung sicher, dass Sie zu den einzelnen Funktionen Links zu detaillierten Artikeln finden!
 

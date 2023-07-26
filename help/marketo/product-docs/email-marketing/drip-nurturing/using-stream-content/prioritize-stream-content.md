@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2359834
 description: Priorisieren von Stream-Inhalten - Marketo-Dokumente - Produktdokumentation
-title: Priorisieren von Stream-Inhalten
+title: Stream-Inhalt priorisieren
 exl-id: 81de8a3c-c002-4ecd-afdd-217522c3db01
 feature: Engagement Programs
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# Priorisieren von Stream-Inhalten {#prioritize-stream-content}
+# Stream-Inhalt priorisieren {#prioritize-stream-content}
 
 Nachdem Sie dem Stream Inhalt hinzugefügt haben, können Sie die Priorität ändern. Der Inhalt wird immer von oben nach unten in jedem Guss bereitgestellt, und kein Inhalt wird zweimal an dieselbe Person gesendet.
 

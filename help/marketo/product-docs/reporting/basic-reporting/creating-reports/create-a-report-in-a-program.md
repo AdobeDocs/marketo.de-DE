@@ -19,7 +19,7 @@ Führen Sie einen Bericht aus, um Personen, Ihre Programme, Landingpages, E-Mail
 
    ![](assets/login-marketing-activities.png)
 
-1. Wählen Sie ein Programm aus.
+1. Wählen Sie ein Programm.
 
    ![](assets/selectprogramreport.png)
 
@@ -31,7 +31,7 @@ Führen Sie einen Bericht aus, um Personen, Ihre Programme, Landingpages, E-Mail
 
    ![](assets/programrightclick-asset.png)
 
-1. Klicken **Bericht**.
+1. Klicks **Bericht**.
 
    ![](assets/image2014-9-15-18-3a36-3a46.png)
 

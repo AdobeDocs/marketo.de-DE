@@ -17,8 +17,8 @@ Als Unternehmen arbeiten wir hart daran, sicherzustellen, dass unsere Zustellbar
 
 **Überprüfen der Einstellungen**
 
-* Benutzerdefinierte Domänenverfolgung: Auf diese Weise können Sie sicherstellen, dass alle Tracking-Links sofort angezeigt werden.&quot;yourdomain&quot;anstelle von go.toutapp. Einige E-Mail-Sicherheitseinstellungen sehen, dass die E-Mail von &quot;Ihrer Domäne&quot;stammt, der Link jedoch in &quot;go.toutapp&quot;umgeleitet wird. Durch die Implementierung des Linktrackings von benutzerdefinierten Domains sehen Ihre E-Mails legitim aus und haben eine höhere Wahrscheinlichkeit, den Posteingang des Empfängers zu erreichen.
-* Email Delivery Channel: Standardmäßig werden Ihre E-Mails über ToutApp-Server gesendet. Durch die Einrichtung Ihrer eigenen Gmail oder SMTP können Sie Ihren E-Mails die beste Möglichkeit geben, in den Posteingang eines Empfängers zu gelangen. [Hier klicken](https://nation.marketo.com/docs/DOC-5080) , um mehr über die Auswahl des richtigen Versandkanals für Ihre Anforderungen zu erfahren.
+* Benutzerdefiniertes Domain-Tracking: Damit können Sie alle Tracking-Links sofort anzeigen lassen.&quot;yourdomain&quot;anstelle von go.toutapp. Einige E-Mail-Sicherheitseinstellungen sehen, dass die E-Mail von &quot;Ihrer Domäne&quot;stammt, der Link jedoch in &quot;go.toutapp&quot;umgeleitet wird. Durch die Implementierung des Linktrackings von benutzerdefinierten Domains sehen Ihre E-Mails legitim aus und haben eine höhere Wahrscheinlichkeit, den Posteingang des Empfängers zu erreichen.
+* E-Mail-Bereitstellungskanal: Standardmäßig werden Ihre E-Mails über ToutApp-Server gesendet. Durch die Einrichtung Ihrer eigenen Gmail oder SMTP können Sie Ihren E-Mails die beste Möglichkeit geben, in den Posteingang eines Empfängers zu gelangen. [Hier klicken](https://nation.marketo.com/docs/DOC-5080) , um mehr über die Auswahl des richtigen Versandkanals für Ihre Anforderungen zu erfahren.
 
 **Prüfen des E-Mail-Verhaltens**
 

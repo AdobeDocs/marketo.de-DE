@@ -23,7 +23,7 @@ Sie haben ein ganz neues benutzerdefiniertes Objekt erstellt. So kann man es gen
 
    ![](assets/approve-a-custom-object-1.png)
 
-1. Klicken **[!UICONTROL Benutzerdefinierte Marketo-Objekte]**.
+1. Klicks **[!UICONTROL Benutzerdefinierte Marketo-Objekte]**.
 
    ![](assets/approve-a-custom-object-2.png)
 
@@ -63,6 +63,6 @@ Nachdem Sie ein genehmigtes benutzerdefiniertes Objekt bearbeitet haben, müssen
 
    ![](assets/approve-a-custom-object-7.png)
 
-1. Eine Vorschau zeigt die Elemente an, die im Entwurf geändert wurden. Klicken **[!UICONTROL Genehmigen]**.
+1. Eine Vorschau zeigt die Elemente an, die im Entwurf geändert wurden. Klicks **[!UICONTROL Genehmigen]**.
 
    ![](assets/approve-a-custom-object-8.png)

@@ -34,7 +34,7 @@ Eine Segmentierung muss genehmigt werden, bevor sie verwendet werden kann.
 
    >[!NOTE]
    >
-   >Der Status ändert sich in Mit einem Drehrad genehmigen ( ![](assets/image2014-9-15-15-3a31-3a43.png)), während die Genehmigung ausgeführt wird.
+   >Der Status ändert sich in Mit einem Drehrad genehmigen ( ![](assets/image2014-9-15-15-3a31-3a43.png)), während die Validierung ausgeführt wird.
 
    >[!CAUTION]
    >
@@ -53,7 +53,7 @@ Eine Segmentierung muss genehmigt werden, bevor sie verwendet werden kann.
 
 >[!CAUTION]
 >
->Die Gesamtanzahl der Segmente, die Sie in einer Segmentierung erstellen können, hängt von der Anzahl und dem Typ der verwendeten Filter sowie davon ab, wie komplex die Logik Ihrer Segmente ist. Sie können zwar bis zu 100 Segmente mithilfe von Standardfeldern erstellen, aber die Verwendung anderer Filtertypen kann die Komplexität erhöhen und Ihre Segmentierung kann möglicherweise nicht genehmigt werden. Beispiele: benutzerdefinierte Felder, Mitglied der Liste, Felder des Lead-Eigentümers und Umsatzstufen.
+>Die Gesamtanzahl der Segmente, die Sie in einer Segmentierung erstellen können, hängt von der Anzahl und dem Typ der verwendeten Filter sowie davon ab, wie komplex die Logik Ihrer Segmente ist. Sie können zwar bis zu 100 Segmente mithilfe von Standardfeldern erstellen, aber die Verwendung anderer Filtertypen kann die Komplexität erhöhen und Ihre Segmentierung kann möglicherweise nicht genehmigt werden. Beispiele sind: benutzerdefinierte Felder, Listenmitglieder, Lead-Inhaber-Felder und Umsatzstufen.
 >
 >Wenn Sie eine Fehlermeldung während der Validierung erhalten und Unterstützung bei der Reduzierung der Komplexität Ihrer Segmentierung benötigen, wenden Sie sich an [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support).
 

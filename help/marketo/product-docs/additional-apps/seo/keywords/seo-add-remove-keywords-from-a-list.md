@@ -21,7 +21,7 @@ Sie können alle Ihre Suchbegriffe mithilfe von Listen organisieren. Dadurch wir
 
    ![](assets/image2014-9-18-11-3a48-3a36.png)
 
-1. Bewegen Sie den Mauszeiger über den Suchbegriff, den Sie einer Liste hinzufügen möchten. Klicken **[!UICONTROL Aus Liste hinzufügen/entfernen]**.
+1. Bewegen Sie den Mauszeiger über den Suchbegriff, den Sie einer Liste hinzufügen möchten. Klicks **[!UICONTROL Aus Liste hinzufügen/entfernen]**.
 
    ![](assets/image2014-9-18-11-3a48-3a42.png)
 
@@ -45,7 +45,7 @@ Sie können auch Suchbegriffe aus einer Liste entfernen.
 
    ![](assets/image2014-9-18-11-3a49-3a55.png)
 
-1. Bewegen Sie den Mauszeiger über den Suchbegriff, den Sie aus einer Liste entfernen möchten. Klicken **[!UICONTROL Aus Liste hinzufügen/entfernen]**.
+1. Bewegen Sie den Mauszeiger über den Suchbegriff, den Sie aus einer Liste entfernen möchten. Klicks **[!UICONTROL Aus Liste hinzufügen/entfernen]**.
 
    ![](assets/image2014-9-18-11-3a50-3a4.png)
 
@@ -61,4 +61,4 @@ Sie können auch Suchbegriffe aus einer Liste entfernen.
 
    >[!MORELIKETHIS]
    >
-   >[Suchbegriffe verstehen (Zusammenfassungsansicht)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
+   >[Grundlegendes zu Suchbegriffen (Zusammenfassungsansicht)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)

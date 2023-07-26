@@ -45,7 +45,7 @@ Die **Klicks Link in SMS-Nachricht** Trigger löst einen Fluss aus, wenn ein Bes
 
 ## SMS-Filter {#sms-filters}
 
-Sie können auch Vibes-Filter in Smart-Listen verwenden. Die **Abonnieren der Vibes-Liste** filter findet alle Personen, die *ever* abonniert hat. Dies umfasst sowohl abgemeldete als auch gelöschte Personen, auch wenn gelöschte Personen im Fluss weggelassen werden. Dieser Filter eignet sich am besten für Berichte.
+Sie können auch Vibes-Filter in Smart-Listen verwenden. Die **Abonnieren der Vibes-Liste** filter findet alle Personen, die *ever* abonniert Vibes. Dies umfasst sowohl abgemeldete als auch gelöschte Personen, auch wenn gelöschte Personen im Fluss weggelassen werden. Dieser Filter eignet sich am besten für Berichte.
 
 ![](assets/subscribed-to-vibes-list-filter-real.jpg)
 
@@ -55,11 +55,11 @@ Im Gegensatz dazu wird die Variable **Mitglied der Vibes List** filter findet _e
 
 >[!NOTE]
 >
->Alle SMS-Filter enthalten **Datum der Aktivität** Beschränkung standardmäßig.
+>Alle SMS-Filter enthalten **Datum der Aktivität** -Beschränkung standardmäßig.
 
 Nachdem Sie die Video-Trigger und -Filter in Ihrer Smart-Liste eingerichtet haben, können Sie [Fluss definieren](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/add-a-flow-step-for-sms.md).
 
 >[!MORELIKETHIS]
 >
->* [Definieren einer Smart-Liste für eine intelligente Kampagne | Trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
+>* [Definieren einer Smart-Liste für eine intelligente Kampagne | TRIGGER](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
 >* [Suchen und Hinzufügen von Filtern zu einer Smart-Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)

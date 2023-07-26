@@ -14,7 +14,7 @@ ht-degree: 1%
 
 Im Dynamic Chat gebuchte Meetings können auf zwei Arten durchgeführt werden. Runden Sie die Aktivität ab oder verwenden Sie eine benutzerdefinierte Regel.
 
-Round robin: Sitzungen werden Agenten nacheinander zugewiesen. Wenn Sie also fünf Agenten und Agenten haben, die drei das letzte Meeting hatten, dann wird Agent vier das nächste bekommen, gefolgt von Agent fünf, dann zurück zum Agenten eins.
+Round robin: Sitzungen werden den Agenten nacheinander zugewiesen. Wenn Sie also fünf Agenten und Agenten haben, die drei das letzte Meeting hatten, wird Agent vier das nächste bekommen, gefolgt von Agent fünf, dann zurück zum Agenten eins.
 
 Benutzerdefinierte Regel: Sie können bestimmte Agenten auswählen, um Sitzungen basierend auf von Ihnen ausgewählten Attributen zu erhalten.
 
@@ -30,7 +30,7 @@ In diesem Beispiel senden wir alle Sitzungen aus den angeblichen Bundesstaaten C
 
    ![](assets/routing-2.png)
 
-1. Klicken **Regel erstellen**.
+1. Klicks **Regel erstellen**.
 
    ![](assets/routing-3.png)
 
@@ -50,6 +50,6 @@ In diesem Beispiel senden wir alle Sitzungen aus den angeblichen Bundesstaaten C
 
    ![](assets/routing-7.png)
 
-1. Wenn Sie alle gewünschten Werte ausgewählt haben, klicken Sie auf **Speichern**.
+1. Klicken Sie bei Auswahl aller gewünschten Werte auf **Speichern**.
 
    ![](assets/routing-8.png)

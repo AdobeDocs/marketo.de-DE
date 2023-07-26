@@ -26,7 +26,7 @@ Sie können genau die Personen finden, die Sie benötigen, indem Sie die Logik v
 
 ## Hinzufügen einer Logik zu einer Smart-Liste {#add-logic-to-a-smart-list}
 
-Standardmäßig findet Ihre Smart-Liste die Personen, die **ALL** Filter (Filter 1 _und_ 2 _und_ 3). Sie können die Regellogik ändern, um passende Personen zu finden **ANDERE** der definierten Filter (Filter 1 _oder_ 2 _oder_ 3) oder erweiterte Filter verwenden (Filter 1) _und_ 2 _oder_ 3).
+Standardmäßig findet Ihre Smart-Liste die Personen, die **ALL** Filter (Filter 1 _und_ 2 _und_ 3). Sie können die Regellogik ändern, um passende Personen zu finden **ANDERE** der Filter 1 _oder_ 2 _oder_ 3) oder erweiterte Filter verwenden (Filter 1) _und_ 2 _oder_ 3).
 
 Nehmen wir an, Sie möchten Menschen in Kalifornien finden _und_ mit einer Punktzahl von mindestens 50 Punkten _oder_ mit dem Status &quot;Sales Qualified&quot;.
 

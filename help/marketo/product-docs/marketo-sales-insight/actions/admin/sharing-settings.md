@@ -14,7 +14,7 @@ ht-degree: 1%
 
 Optimieren Sie die Verwaltung Ihrer Vorlagen, indem Sie einschränken, welche Benutzer für welche Kategorien freigegeben werden können.
 
-Wenn Ihr Sales Insight-Aktionskonto zum ersten Mal erstellt wird, sind die Freigabeeinstellungen aktiviert. Dadurch erhalten Ihre Kontoadministratoren die Möglichkeit, Ihre Vorlagenkategorien zu erstellen und zu organisieren, bevor die Startpunkte geöffnet werden, und Benutzern die Möglichkeit zu geben, Inhalte in Ihren Teamkategorien zu teilen.
+Wenn Ihr Sales Insight-Aktionskonto zum ersten Mal erstellt wird, ist die Option Freigabeeinstellungen aktiviert. Dadurch erhalten Ihre Kontoadministratoren die Möglichkeit, Ihre Vorlagenkategorien zu erstellen und zu organisieren, bevor die Startpunkte geöffnet werden, und Benutzern die Möglichkeit zu geben, Inhalte in Ihren Teamkategorien zu teilen.
 
 Wenn die Freigabeeinstellungen aktiviert sind, können nur Administratoren in Kategorien freigegeben werden, es sei denn, einem Team oder allen Benutzern werden Freigabeberechtigungen gewährt. Wenn die Freigabeeinstellungen deaktiviert sind, gibt es keine Einschränkungen und alle Benutzer können in beliebige Vorlagenkategorien freigeben.
 
@@ -24,7 +24,7 @@ Wenn die Freigabeeinstellungen aktiviert sind, können nur Administratoren in Ka
 
    ![](assets/sharing-settings-1.png)
 
-1. Wählen Sie unter &quot;Admin Settings&quot;die Option **Zugriff freigeben**.
+1. Wählen Sie unter Admin Settings die Option **Zugriff freigeben**.
 
    ![](assets/sharing-settings-2.png)
 
@@ -36,7 +36,7 @@ Wenn die Freigabeeinstellungen aktiviert sind, können nur Administratoren in Ka
 
    ![](assets/sharing-settings-4.png)
 
-1. Klicken **Hinzufügen von Teams für den Zugriff**.
+1. Klicks **Team für Zugriff hinzufügen**.
 
    ![](assets/sharing-settings-5.png)
 
@@ -48,7 +48,7 @@ Wenn die Freigabeeinstellungen aktiviert sind, können nur Administratoren in Ka
    >
    >Wenn Sie keine Teams sehen, müssen Sie zu Team Management gehen und ein Team von Benutzern erstellen.
 
-1. Klicken **Hinzufügen von Teams für den Zugriff** speichern.
+1. Klicks **Team für Zugriff hinzufügen** speichern.
 
    ![](assets/sharing-settings-7.png)
 

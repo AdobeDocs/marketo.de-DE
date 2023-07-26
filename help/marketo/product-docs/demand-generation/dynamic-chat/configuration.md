@@ -14,7 +14,7 @@ ht-degree: 1%
 
 Erfahren Sie, wie Sie das Erscheinungsbild Ihres Chatbot-Dialogfensters anpassen können.
 
-Um zu beginnen, klicken Sie auf **Konfiguration**.
+Klicken Sie zunächst auf **Konfiguration**.
 
 ![](assets/configuration-1.png)
 
@@ -26,7 +26,7 @@ Es gibt verschiedene Anpassungsoptionen.
 
 ### Stil {#style}
 
-Hier definieren Sie das Erscheinungsbild des Chatbots, in dem Ihre Dialogfelder angezeigt werden, einschließlich: Farben, Schriftarten, Platzierung des Bot-Widgets und Name/Avatar des Chat-Bots.
+Hier definieren Sie das Erscheinungsbild des Chat-Bots, in dem Ihre Dialogfelder angezeigt werden, einschließlich Farben, Schriftarten, Platzierung des Bot-Widgets und Name/Avatar des Chat-Bots.
 
 Die Farbe jeder Kategorie wird durch eine [hexadezimaler Farbwert](https://color.adobe.com/create/color-wheel) (z. B. weiß = #ffffff, rot = #bf1932 usw.).
 
@@ -38,7 +38,7 @@ Der Anker ermöglicht es Ihrem Site-Besucher, die Chatbox zu öffnen/zu schließ
 
 ### Agenteneinstellungen {#agent-settings}
 
-In den Agenteneinstellungen können Sie Ihrer Chatbox eine Bezeichnung hinzufügen (z. B.: &quot;Adobe Bot&quot;), die oben angezeigt wird. Sie können auch die Antwortzeit (in Sekunden) bestimmen und Ihren Chat-Avatar ändern. Um Ihr eigenes Avatarbild hochzuladen, klicken Sie auf das **+** Schaltfläche.
+In den Agenteneinstellungen können Sie Ihrer Chatbox einen Titel hinzufügen (z. B. &quot;Adobe Bot&quot;), der oben angezeigt wird. Sie können auch die Antwortzeit (in Sekunden) bestimmen und Ihren Chat-Avatar ändern. Um Ihr eigenes Avatarbild hochzuladen, klicken Sie auf das **+** Schaltfläche.
 
 ![](assets/configuration-5.png)
 
@@ -72,4 +72,4 @@ Damit der Chat-Bot auf Ihrer Website angezeigt wird, müssen Sie zunächst das D
 
 >[!NOTE]
 >
->Der Marketo-Support ist nicht für die Fehlerbehebung bei HTML eingerichtet. Wenden Sie sich an einen Webentwickler, um Hilfe beim HTML zu erhalten.
+>Der Marketo-Support ist nicht für die Fehlerbehebung bei HTML eingerichtet. Wenden Sie sich an einen Web-Entwickler, um Hilfe beim HTML zu erhalten.

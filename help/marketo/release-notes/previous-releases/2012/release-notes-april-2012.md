@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# Versionshinweise: April 2012 {#release-notes-april}
+# April 2012 - Versionshinweise {#release-notes-april}
 
 ## Segmentierungsfilter und Trigger {#segmentation-filters-and-triggers}
 
@@ -34,7 +34,7 @@ Die Bestätigungs-URL wurde vereinfacht, indem ein Mitglieds-Token erstellt wurd
 
 Sparen Sie Zeit und sparen Sie beim Importieren von Bildern und Dateien in Marketo effizienter! Wenn Sie Firefox oder Google Chrome verwenden, können Sie Dateien mehrmals auswählen und alle gleichzeitig hochladen. Obwohl die Anzahl der hochzuladenden Dateien nicht begrenzt ist, beträgt die individuelle Größenbeschränkung pro Datei 50 MB.
 
-Hinweis: Derzeit wird diese Funktion in Internet Explorer aufgrund von Browserbeschränkungen nicht unterstützt.
+Hinweis: Diese Funktion wird derzeit in Internet Explorer aufgrund von Browserbeschränkungen nicht unterstützt.
 
 ![](assets/image2014-9-23-10-3a4-3a32.png)
 

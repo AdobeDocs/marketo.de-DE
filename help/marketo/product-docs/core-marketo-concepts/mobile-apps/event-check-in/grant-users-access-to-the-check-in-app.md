@@ -17,11 +17,11 @@ Marketo hat eine besondere Benutzerrolle für die Check-in-App für Ereignisse. 
 
 ## Neue Benutzerrolle für Mobilgeräte erstellen {#create-a-new-user-role-for-mobile}
 
-1. Klicken **Admin**.
+1. Klicks **Admin**.
 
    ![](assets/image2015-6-2-10-3a39-3a31.png)
 
-1. Klicken **Benutzer und Rollen**.
+1. Klicks **Benutzer und Rollen**.
 
    ![](assets/image2015-6-2-10-3a56-3a0.png)
 
@@ -41,11 +41,11 @@ Marketo hat eine besondere Benutzerrolle für die Check-in-App für Ereignisse. 
 
    ![](assets/image2015-6-2-11-3a10-3a42.png)
 
-1. Klicken **Neuen Benutzer einladen**.
+1. Klicks **Neuen Benutzer einladen**.
 
    ![](assets/image2015-6-2-11-3a11-3a32.png)
 
-1. Geben Sie die Informationen des neuen Benutzers ein. Aktivieren Sie die Kontrollkästchen für alle entsprechenden Rollen und die neue Rolle mit der Berechtigung zum Zugriff auf die Mobile App. Klicken **Einladen** wenn Sie fertig sind.
+1. Geben Sie die Informationen des neuen Benutzers ein. Aktivieren Sie die Kontrollkästchen für alle entsprechenden Rollen und die neue Rolle mit der Berechtigung zum Zugriff auf die Mobile App. Klicks **Einladen** wenn Sie fertig sind.
 
    ![](assets/image2015-6-2-11-3a16-3a26.png)
 

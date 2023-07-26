@@ -22,19 +22,19 @@ E-Mails und E-Mail-Vorlagen in Ihrem Abonnement sollten über eine Versionsnumme
 Standardmäßig werden all Ihre vorhandenen E-Mails und E-Mail-Vorlagen als v1.0 gekennzeichnet, wenn sie entweder vor der Frühlingsversion 16 oder nach der Veröffentlichung erstellt wurden, wenn E-Mail-Editor 2.0 deaktiviert ist. Wenn Email Editor 2.0 jetzt automatisch aktiviert ist, sehen Sie folgendes Verhalten:
 
 * Wenn Sie eine neue E-Mail erstellen, wird die [E-Mail-Vorlagenauswahl](email-template-picker-overview.md) wird angezeigt und Sie können eine E-Mail-Vorlage v2.0 auswählen.
-* Jedes Mal, wenn Sie eine E-Mail mit Email Editor 2.0 erstellen oder bearbeiten, wird die resultierende E-Mail **always** als v2.0 markiert sein (auch wenn Sie eine E-Mail-Vorlage v1.0 verwendet haben).
+* Bei jeder Erstellung oder Bearbeitung einer E-Mail mit Email Editor 2.0 wird die resultierende E-Mail **always** als v2.0 markiert sein (auch wenn Sie eine E-Mail-Vorlage v1.0 verwendet haben).
 
 Wenn Ihr Abonnement v1.0-E-Mails vor dem Wechsel zu E-Mail-Editor 2.0 enthält, wird das folgende Verhalten basierend auf dem aktuellen Status des Assets angezeigt:
 
 **Genehmigt** - Wenn Sie auf &quot;Entwurf bearbeiten&quot;klicken, wird ein Entwurf der genehmigten E-Mail der Version 2.0 erstellt. Wenn Sie dann den Entwurf der Version 2.0 genehmigen, wird der genehmigte Status der E-Mail zu v2.0 und es gibt keine Möglichkeit, zurück zu v1.0 zu wechseln.\
-**Entwurf** - Wenn Sie auf &quot;Entwurf bearbeiten&quot;klicken, wird dieser Entwurf automatisch als v2.0 gekennzeichnet. Zu diesem Zeitpunkt kann der Entwurf nicht verworfen und auf v1.0 zurückgesetzt werden, da keine genehmigte Version des Assets vorhanden ist.
-**Genehmigt mit Entwurf** - Wenn Sie auf &quot;Entwurf bearbeiten&quot;klicken, wird dieser Entwurf automatisch als v2.0 markiert. Daher gibt es auch keine Möglichkeit, den Entwurf zurück auf v1.0 zu setzen.
+**Entwurf** - Durch Klicken auf &quot;Entwurf bearbeiten&quot;wird dieser Entwurf automatisch als v2.0 markiert. Zu diesem Zeitpunkt ist es nicht möglich, v1.0 zu verwerfen und wiederherzustellen, da keine genehmigte Version des Assets vorhanden ist.
+**Genehmigt mit Entwurf** - Wenn Sie auf &quot;Entwurf bearbeiten&quot;klicken, wird dieser Entwurf automatisch als v2.0 markiert. Aus diesem Grund gibt es auch keine Möglichkeit, den Entwurf zurück auf v1.0 zu setzen.
 
 Wenn Ihr Abonnement über E-Mail-Vorlagen der Version 1.0 verfügt, bevor Sie zu Email Editor 2.0 wechseln, wird Folgendes angezeigt:
 
 **Genehmigt** - Durch Klicken auf &quot;Entwurf bearbeiten&quot;wird ein Entwurf der vorhandenen E-Mail-Vorlage der Version 2.0 erstellt.
-**Entwurf** - Wenn Sie auf &quot;Entwurf bearbeiten&quot;klicken, wird dieser Entwurf automatisch als v2.0 gekennzeichnet. Zu diesem Zeitpunkt ist es nicht möglich, den Entwurf zu v1.0 zu verwerfen und wiederherzustellen, da keine genehmigte Version des Assets vorhanden ist.
-**Genehmigt mit Entwurf** - Wenn Sie auf &quot;Entwurf bearbeiten&quot;klicken, wird dieser Entwurf automatisch als v2.0 markiert. Daher gibt es auch keine Möglichkeit, den Entwurf zurück auf v1.0 zu setzen.
+**Entwurf** - Durch Klicken auf &quot;Entwurf bearbeiten&quot;wird dieser Entwurf automatisch als v2.0 markiert. Zu diesem Zeitpunkt ist es nicht möglich, v1.0 zu verwerfen und wiederherzustellen, da keine genehmigte Version des Assets vorhanden ist.
+**Genehmigt mit Entwurf** - Durch Klicken auf &quot;Entwurf bearbeiten&quot;wird dieser Entwurf automatisch als v2.0 markiert. Aus diesem Grund gibt es auch keine Möglichkeit, den Entwurf zurück auf v1.0 zu setzen.
 
 Wenn Sie eine E-Mail-Vorlage genehmigen, die zuvor v1.0 war (in einem der oben genannten Status), sehen Sie folgendes Verhalten:
 
@@ -58,7 +58,7 @@ Zu beachten
 
 * Genehmigte E-Mail-Vorlagen sind **never** geändert.
 
-* Unter **selten** kann in E-Mail-Editor 2.0 keine E-Mail der Version 1.0 geöffnet werden. In diesem Fall verwerfen Sie den Entwurf und wenden sich an den Marketo-Support.
+* In einigen **selten** kann in E-Mail-Editor 2.0 keine E-Mail der Version 1.0 geöffnet werden. Wenn dies der Fall ist, verwerfen Sie den Entwurf und wenden Sie sich an den Marketo-Support.
 
 >[!MORELIKETHIS]
 >

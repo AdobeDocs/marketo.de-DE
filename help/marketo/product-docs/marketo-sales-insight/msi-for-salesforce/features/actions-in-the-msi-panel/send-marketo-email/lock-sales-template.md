@@ -33,7 +33,7 @@ Um zu verhindern, dass CRM-Benutzer Verkaufsvorlagen bearbeiten, können Adminis
 
    ![](assets/2.png)
 
-1. Überprüfen **Aktivieren der Möglichkeit, Vorlagen zu sperren**. Klicken **Speichern**.
+1. Überprüfen **Aktivieren der Möglichkeit, Vorlagen zu sperren**. Klicks **Speichern**.
 
    ![](assets/image2017-10-9-8-3a19-3a45.png)
 
@@ -43,7 +43,7 @@ Um zu verhindern, dass CRM-Benutzer Verkaufsvorlagen bearbeiten, können Adminis
 
 >[!NOTE]
 >
->Wenn Sie diese Einstellung als Administrator ändern, wird **not** bestehende Vorlagen rückwirkend beeinflussen; Sie werden also nicht automatisch gesperrt.
+>Wenn Sie diese Einstellung als Administrator ändern, **not** vorhandene Vorlagen rückwirkend zu beeinflussen, d. h. sie werden nicht automatisch gesperrt.
 
 ## Vorlage im E-Mail-Editor sperren {#lock-template-in-the-email-editor}
 
@@ -55,7 +55,7 @@ Um zu verhindern, dass CRM-Benutzer Verkaufsvorlagen bearbeiten, können Adminis
 
    ![](assets/6.png)
 
-1. Überprüfen **In Marketo Sales Insight veröffentlichen** , wenn es noch nicht aktiviert ist. Sie können jetzt deaktivieren **Bearbeitung von E-Mails durch CRM-Benutzer zulassen** , um die Vorlage zu sperren. Klicken **Speichern**.
+1. Überprüfen **In Marketo Sales Insight veröffentlichen** , wenn es noch nicht aktiviert ist. Sie können jetzt deaktivieren **Bearbeitung von E-Mails durch CRM-Benutzer zulassen** , um die Vorlage zu sperren. Klicks **Speichern**.
 
    ![](assets/7.png)
 

@@ -19,7 +19,7 @@ Durch das Erstellen von Ordnern können Sie Bilder und Dateien verschieben, nur 
 
    ![](assets/designstudio-7.png)
 
-1. Rechtsklick auf **Bilder und Dateien** Wählen Sie im linken Menü die Option **Neuer Ordner**.
+1. Rechtsklick auf **Bilder und Dateien** Wählen Sie im linken Menü die Option **Ordner**.
 
    ![](assets/image2014-9-16-11-3a25-3a45.png)
 

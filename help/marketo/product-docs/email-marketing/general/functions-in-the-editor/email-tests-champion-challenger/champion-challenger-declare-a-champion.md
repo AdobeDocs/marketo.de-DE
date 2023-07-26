@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Champion/Challenger: Declare a Champion {#champion-challenger-declare-a-champion}
 
-Wenn Sie fertig sind, können Sie einen Champion für Ihren E-Mail-Test festlegen.
+Wenn Sie fertig sind, können Sie einen Meister für Ihren E-Mail-Test erklären.
 
 >[!MORELIKETHIS]
 >
->[Champion/Challenger: E-Mail-Test genehmigen](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
+>[Champion/Challenger: Genehmigen Sie Ihren E-Mail-Test](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
 
 1. Navigieren Sie zu **Marketingaktivitäten**.
 
@@ -43,7 +43,7 @@ Wenn Sie fertig sind, können Sie einen Champion für Ihren E-Mail-Test festlege
    >
    >Beachten Sie, dass die Standardeinstellung **Datum deklarieren** ist morgen, nicht heute.
 
-1. Wählen Sie eine Zeit aus und klicken Sie auf **Speichern**.
+1. Zeit auswählen und auf **Speichern**.
 
    ![](assets/image2014-9-15-13-3a33-3a56.png)
 

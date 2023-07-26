@@ -23,7 +23,7 @@ Verwenden Sie einen Personen-Leistungsbericht, um das Datenbankwachstum im Zeitv
 
    >[!NOTE]
    >
-   >In der Standardeinstellung werden Berichte zur Leistung von Personen nach *Erstellt bei* Monat.
+   >In der Standardeinstellung werden die Berichte zur Leistung von Personen nach *Erstellt bei* Monat.
 
    ![](assets/one.png)
 

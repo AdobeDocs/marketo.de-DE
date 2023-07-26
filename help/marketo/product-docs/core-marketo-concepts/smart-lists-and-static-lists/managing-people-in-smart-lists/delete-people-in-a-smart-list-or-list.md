@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1146897
-description: Löschen von Personen in einer Smart-Liste oder Liste - Marketo Docs - Produktdokumentation
+description: Löschen von Personen in einer Smart-Liste oder Liste - Marketo-Dokumente - Produktdokumentation
 title: Löschen von Personen in einer Smart-Liste oder -Liste
 exl-id: 192e79e6-d816-44e3-84c4-212cd73eb3ce
 feature: Smart Lists
@@ -31,7 +31,7 @@ Sie können schnell und einfach einige/alle Personen löschen, die sich in einer
    >
    >Wenn Sie eine Person löschen, entfernen Sie sie nicht nur aus der Liste, sondern sie wird vollständig aus der Datenbank entfernt.
 
-1. Klicken **Alle auswählen**. Sie können auch mithilfe der Strg-/Befehlstaste und der Klicks einige Datensätze manuell auswählen.
+1. Klicks **Alle auswählen**. Sie können auch mithilfe der Strg-/Befehlstaste und der Klicks einige Datensätze manuell auswählen.
 
    ![](assets/three-1.png)
 
@@ -55,7 +55,7 @@ Sie können schnell und einfach einige/alle Personen löschen, die sich in einer
    >
    >Wenn Ihre Marketo nicht an Ihr CRM-System gebunden ist, wird die Option wie im Screenshot gezeigt grau dargestellt.
 
-1. Klicken **Jetzt ausführen**.
+1. Klicks **Jetzt ausführen**.
 
    ![](assets/image2014-9-24-13-3a0-3a3.png)
 

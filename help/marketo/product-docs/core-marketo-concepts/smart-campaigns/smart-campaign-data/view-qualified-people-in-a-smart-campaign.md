@@ -33,7 +33,7 @@ Anzeigen von Personen, die sich für den Durchlauf im Rahmen einer Smart-Kampagn
 
    >[!NOTE]
    >
-   >Die Anzahl qualifizierter Personen hängt auch von den Qualifikationsregeln für intelligente Kampagnen ab. Erfahren Sie, wie Sie [Bearbeiten von Qualifikationsregeln](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md).
+   >Die Anzahl qualifizierter Personen hängt auch von den Qualifikationsregeln für intelligente Kampagnen ab. Erfahren Sie, wie [Bearbeiten von Qualifikationsregeln](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md).
 
 Süß! Mithilfe dieser Liste können Sie überprüfen, welche Personen den Fluss durchlaufen können, bevor Sie eine Smart-Kampagne starten.
 

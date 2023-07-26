@@ -40,11 +40,11 @@ Möchten Sie wissen, wie Ihre Interaktionsinhalte funktionieren? Testen Sie den 
 
 ## Einstellungen bearbeiten {#edit-settings}
 
-1. Suchen und wählen Sie Ihren Bericht aus.
+1. Wählen Sie Ihren Bericht aus.
 
    ![](assets/engagementperformancereport.jpg)
 
-1. Unter dem **Einrichtung** Registerkarte, doppelklicken Sie auf die **Interaktionsprogramm-E-Mail** Filter.
+1. Unter dem **Einrichtung** Registerkarte, doppelklicken Sie auf die **Interaktionsprogramm Email** Filter.
 
    ![](assets/image2014-9-15-18-3a25-3a4.png)
 

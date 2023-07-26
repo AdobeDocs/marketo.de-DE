@@ -32,8 +32,8 @@ Hier sind die verschiedenen Ströme in Moments.
 >
 >* Momente: Alles, was gerade lief oder gerade laufen wird, geht hierher.
 >* Favoriten: Alles, was du am liebsten machst, geht hier rein.
->* Später: Alles, was später als dieser Moment passiert, geht hier rein.
->* Fertig: Alles, was fertig läuft oder Sie als fertig markiert haben, geht hier.
+>* Später: Alles, was später als dieser Moment stattfindet, geht hier rein.
+>* Fertig: Alles, was fertig ausgeführt wurde oder Sie als fertig markiert haben, geht hier.
 
 Ok, jetzt, da wir das im Weg stehen, lassen Sie uns einen Blick auf Marketo Moments werfen!
 
@@ -63,7 +63,7 @@ Durch Tippen auf die Karte wird ein Detailbildschirm geöffnet.
 
 >[!NOTE]
 >
->Orangenkarten werden bestätigt; graue sind vorsichtig.
+>Orangefarbene Karten werden bestätigt; graue Karten sind vorläufig.
 
 ![](assets/image2015-9-25-9-3a37-3a26.png)
 
@@ -79,11 +79,11 @@ Sehr gut! Sie können etwas geschehen lassen, indem Sie auf Folgendes tippen:
 >
 >**Definition**
 >
->* Favorit: Es ist einfach, auf die Dinge zu achten, die am aktuellsten und am wichtigsten sind, wenn man sie zu Favoriten macht.
->* Fertig: Fertig löst es aus Ihrer Marketo Moments-Ansicht (lässt sie jedoch in Marketo, sicher und Sound).
->* Freigabe: Senden Sie ein Bild, um Ihr Team zu motivieren oder zu beglückwünschen.
->* Beispiel senden (nur E-Mail): Verwenden Sie diese Option, damit andere überprüfen können, wie Ihre E-Mails aussehen, bevor Sie sie versenden.
->* Vorschau der E-Mail (nur E-Mails): Es ist immer eine gute Idee, Ihre E-Mails im Voraus auszuchecken.
+>* Favorit: Es ist einfach, auf die Dinge zu achten, die am aktuellsten und am wichtigsten sind, wenn Sie sie zu Favoriten machen.
+>* Fertig: Fertig löst sie aus der Marketo-Ansicht &quot;Moments&quot;(bleibt aber in Marketo, sicher und gesund).
+>* Freigeben: Senden Sie ein Bild, um Ihr Team zu motivieren oder zu beglückwünschen.
+>* Beispiel senden (nur E-Mail): Mithilfe dieser Funktion können andere überprüfen, wie Ihre E-Mails aussehen, bevor Sie sie senden.
+>* Vorschau von E-Mails (nur E-Mails): Es ist immer empfehlenswert, Ihre E-Mails im Voraus zu überprüfen.
 
 ## Spätere Momente {#later-moments}
 
@@ -125,7 +125,7 @@ Die Analytics-Ereigniskarten zeigen Ihnen, wie Ihre E-Mails und Ereignisse in de
 
 ## Ausführungskarten für intelligente Kampagnen {#smart-campaign-run-cards}
 
-Smart-Kampagnenkarten stellen einen einzelnen Ablauf einer Kampagne dar. Bei jeder Ausführung der Smart-Kampagne wird eine neue Karte angezeigt. Tippen Sie auf , um die verwendeten Filter für die intelligente Liste, den Kampagnenfluss und die einzelnen in der Kampagne verwendeten E-Mails anzuzeigen.
+Smart-Kampagnenkarten stellen einen einzelnen Ablauf einer Kampagne dar. Bei jeder Ausführung der Smart-Kampagne wird eine neue Karte angezeigt. Tippen Sie auf , um die verwendeten Filter für die intelligente Liste, den Kampagnenfluss und jede in der Kampagne verwendete E-Mail anzuzeigen.
 
 ![](assets/image2015-9-23-11-3a0-3a54.png)
 

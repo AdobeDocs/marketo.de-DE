@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2953417
-description: Grundlegendes zu dynamischen Inhalten - Marketo-Dokumente - Produktdokumentation
+description: Verstehen dynamischer Inhalte - Marketo-Dokumente - Produktdokumentation
 title: Grundlagen zu dynamischen Inhalten
 exl-id: 1e74cdb5-f879-424e-8db0-0a788d13fd5e
 feature: Dynamic Content
@@ -27,7 +27,7 @@ Zunächst müssen Sie Ihre Leute in Untergruppen aufteilen. Dies heißt [Segment
 >
 >Durch Segmentierung wird Ihre Zielgruppe basierend auf einer [Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md) Regel. Diese Gruppen werden als Segmente bezeichnet.
 
-Wenn wir beispielsweise eine Segmentierung namens &quot;Branche&quot;haben, könnten einige der Segmente Folgendes sein: Gesundheitswesen, Technologie, Finanzen, Verbrauchsgüter usw.
+Wenn wir beispielsweise eine Segmentierung namens &quot;Branche&quot;haben, könnten einige der Segmente lauten: Gesundheitswesen, Technologie, Finanzen, Verbrauchsgüter usw.
 
 ![](assets/artboard-2.png)
 
@@ -39,13 +39,13 @@ Nachdem Sie verschiedene Segmente erstellt haben, können Sie Ihrer Landingpage 
 
 ## Ausschnitte {#snippets}
 
-[Snippets](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md) sind ein nützliches Tool in Marketo. Erstellen Sie es einmal und verwenden Sie es an mehreren Orten! Wenn Sie das Snippet aktualisieren, werden alle Assets (Landingpages oder E-Mails), die das Snippet verwenden, automatisch aktualisiert.
+[Snippets](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md) sind ein nützliches Tool in Marketo. Erstellen Sie es einmal und verwenden Sie es an mehreren Orten! Wenn Sie den Ausschnitt aktualisieren, werden alle Assets (Landingpages oder E-Mails), die den Ausschnitt verwenden, automatisch aktualisiert.
 
 >[!NOTE]
 >
 >**Beispiel**
 >
->* Sie können ein Snippet als Signatur in einer E-Mail verwenden. Dynamische Änderung des Texts in Abhängigkeit vom Standort des Empfängers
+>* Sie können ein Snippet als Signatur in einer E-Mail verwenden. Dynamische Änderung des Texts in Abhängigkeit vom Standort des Empfängers.
 >* Verwenden Sie auf Landingpages einen standardmäßigen Aktionsaufruf-Bereich mit unterschiedlichen Links für Kunden und Interessenten. Hunderte von LPs zentral aktualisieren.
 
 Probieren Sie es aus und erzählen Sie uns Ihre Erfolgsgeschichte!

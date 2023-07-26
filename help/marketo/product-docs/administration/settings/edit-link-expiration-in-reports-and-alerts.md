@@ -23,15 +23,15 @@ Die Links in den E-Mails zum Abonnement Ihres Berichts laufen nach drei Tagen ab
 
    ![](assets/edit-link-expiration-in-reports-and-alerts-1.png)
 
-1. Klicken **[!UICONTROL Anmeldeeinstellungen]**.
+1. Klicks **[!UICONTROL Anmeldeeinstellungen]**.
 
    ![](assets/edit-link-expiration-in-reports-and-alerts-2.png)
 
-1. Klicken **[!UICONTROL URL-Ablauf bearbeiten]**.
+1. Klicks **[!UICONTROL URL-Ablauf bearbeiten]**.
 
    ![](assets/edit-link-expiration-in-reports-and-alerts-3.png)
 
-1. Wählen Sie in der Dropdown-Liste die Anzahl der Tage vor Ablauf des Links aus. Klicken **[!UICONTROL Speichern]**.
+1. Wählen Sie in der Dropdown-Liste die Anzahl der Tage vor Ablauf des Links aus. Klicks **[!UICONTROL Speichern]**.
 
    ![](assets/edit-link-expiration-in-reports-and-alerts-4.png)
 

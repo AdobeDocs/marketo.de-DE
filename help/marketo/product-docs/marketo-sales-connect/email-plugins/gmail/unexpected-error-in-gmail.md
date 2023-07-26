@@ -17,8 +17,8 @@ Wenn Sie beim Versand einer E-Mail einen &quot;unerwarteten Fehler&quot;in Gmail
 
 1. Navigieren Sie zu **Einstellungen** > **E-Mail-Tracking** > **Verwalten**.
 
-1. Klicken **Trennen von Gmail**.
+1. Klicks **Trennen von Gmail**.
 
 1. Klicken Sie nach dem Trennen auf **Verbindung zu Google herstellen**.
 
-   Sobald Sie wieder angemeldet sind, gehen Sie zurück zu Gmail und aktualisieren Sie Ihre Seite, und versuchen Sie erneut, Ihre E-Mail zu senden. Wenn es immer noch nicht funktioniert, bitte [Ticket senden](https://nation.marketo.com/t5/Support/ct-p/Support) an unser Support-Team.
+   Sobald Sie wieder angemeldet sind, gehen Sie zurück zu Gmail und aktualisieren Sie Ihre Seite, und versuchen Sie erneut, Ihre E-Mail zu senden. Wenn es immer noch nicht funktioniert, bitte [Einreichen eines Tickets](https://nation.marketo.com/t5/Support/ct-p/Support) an unser Support-Team.

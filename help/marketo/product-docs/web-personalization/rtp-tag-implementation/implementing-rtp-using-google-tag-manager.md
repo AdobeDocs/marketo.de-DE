@@ -27,16 +27,16 @@ Befolgen Sie zur Implementierung Ihres RTP-Tags die unten stehenden Installation
 
    ![](assets/image2014-11-30-15-3a19-3a21.png)
 
-1. Suchen Sie unter &quot;Domain&quot;die entsprechende Domäne und klicken Sie auf **Tag generieren**.
+1. Suchen Sie unter Domäne die entsprechende Domäne und klicken Sie auf **Tag generieren**.
 
    ![](assets/image2014-11-30-15-3a20-3a17.png)
 
 1. Kopieren Sie das RTP-JavaScript-Tag und fügen Sie es in das neue **Benutzerdefiniertes HTML-Tag** haben Sie erstellt (Schritt 1).
 
-1. Klicken **+Regel zum Auslösen eines Tags hinzufügen**. Auswählen **Alle Seiten**.
+1. Klicks **+Regel zum Auslösen eines Tags hinzufügen**. Auswählen **Alle Seiten**.
 
-1. Klicken **Speichern** und [die neue Version veröffentlichen](https://support.google.com/tagmanager/answer/2699097?hl=en).
+1. Klicks **Speichern** und [die neue Version veröffentlichen](https://support.google.com/tagmanager/answer/2699097?hl=en).
 
-1. Vergewissern Sie sich, dass sie auf allen Seiten angezeigt wird, einschließlich Landingpages und Subdomänen.
+1. Vergewissern Sie sich, dass sie auf allen Seiten angezeigt wird, einschließlich Landingpages und Sub-Domains.
 
    a. Klicken Sie dazu mit der rechten Maustaste auf die Seite Ihrer Website. Navigieren Sie zu **Inspect-Element**, suchen Sie nach **RTP** , um das Tag zu finden.

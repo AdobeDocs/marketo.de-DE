@@ -19,7 +19,7 @@ Möchten Sie ohne Aufhebens eine andere Adresse ausprobieren? So geht es.
 >
 >[E-Mail-Champion/Challenger hinzufügen](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. Wählen Sie im E-Mail-Test-Editor **Von Adresse** im **Testtyp** Dropdown-Liste.
+1. Wählen Sie im E-Mail-Test-Editor **Von Adresse** im **Testtyp** angezeigt.
 
    ![](assets/image2014-9-15-12-3a52-3a33.png)
 
@@ -47,7 +47,7 @@ Möchten Sie ohne Aufhebens eine andere Adresse ausprobieren? So geht es.
 
    Stellen Sie sicher, dass Sie einen Prozentsatz auswählen, der genügend Personen enthält, damit Ihr Test gültig ist. Lassen Sie sich nicht von unschlüssigen Ergebnissen täuschen. [Mehr Informationen als jemals zuvor über das statistische Vertrauen](https://en.wikipedia.org/wiki/Confidence_interval).
 
-1. Klicken **Nächste**.
+1. Klicks **Nächste**.
 
    ![](assets/image2014-9-15-12-3a53-3a15.png)
 

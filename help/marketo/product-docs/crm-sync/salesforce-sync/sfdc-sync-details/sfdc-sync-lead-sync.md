@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# SFDC Sync: Lead-Synchronisation {#sfdc-sync-lead-sync}
+# SFDC Sync: Lead Sync {#sfdc-sync-lead-sync}
 
 Wussten Sie, dass Marketo-Synchronisationen aus Ihrer Salesforce-Datenbank stammen? Es wird synchronisiert, 5 Minuten wartet und dann erneut synchronisiert. Den ganzen Tag, jeden Tag. Im Folgenden finden Sie einige Details dazu, wie Marketo Salesforce-Leads spezifisch behandelt.
 

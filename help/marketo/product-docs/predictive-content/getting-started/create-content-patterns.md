@@ -19,7 +19,7 @@ Wenn Sie Inhaltsmuster festlegen, werden Inhalte automatisch erkannt, wenn ein W
 
    ![](assets/settings-dropdown-hand-2.png)
 
-1. Klicken **URL-Muster**.
+1. Klicks **URL-Muster**.
 
    ![](assets/click-url-patterns-hand.png)
 
@@ -35,7 +35,7 @@ Wenn Sie Inhaltsmuster festlegen, werden Inhalte automatisch erkannt, wenn ein W
    >
    >Elemente in der Dropdown-Liste auf der rechten Seite spiegeln die Kategorien wider, die Sie bei der Einrichtung eingerichtet haben [erstellte Kategorien](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md).
 
-1. Klicken **+** , um einen weiteren Pfad hinzuzufügen.
+1. Klicks **+** , um einen weiteren Pfad hinzuzufügen.
 
    ![](assets/url-patterns-add2.png)
 
@@ -45,7 +45,7 @@ Wenn Sie Inhaltsmuster festlegen, werden Inhalte automatisch erkannt, wenn ein W
 
 ## Inhaltsmuster-Regeln {#content-pattern-rules}
 
-* Sie können einen Platzhalter an einer beliebigen Stelle in einem Ausdruck verwenden (Beispiel: _domain.com/&#42;_, _domain.com/&#42;blog&#42;_)
+* Sie können einen Platzhalter an einer beliebigen Stelle in einem Ausdruck verwenden (Beispiel: _domain.com/&#42;_, _domain.com/&#42;Blog&#42;_)
 
 * Wir empfehlen die Verwendung von /&#42; am Ende eines Ausdrucks, um die Mustererkennung fortzusetzen (Beispiel: _domain.com/blog/&#42;_ erkennt alle Beiträge im Ordner &quot;Blog&quot;)
 * Bei Inhaltsmustern wird nicht zwischen Groß- und Kleinschreibung unterschieden (Beispiel: _domain.com/Blog/&#42;_ erkennt alle HTML-Seiten auf _domain.com/Blog_ und _domain.com/blog_)
@@ -72,7 +72,7 @@ Für _domain.com_:
   </tr> 
   <tr> 
    <td><img alt="—" width="80" src="assets/image2017-3-24-10-3a38-3a46.png" data-linked-resource-id="12976559" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11385579" title="--"></td> 
-   <td><p>Entdeckt alle URLs, die das Wort "datasheets:"enthalten.</p><p>domain.com/datasheets/5-top-tricks</p><p>domain.com/blog/5-top-datasheets</p></td> 
+   <td><p>Ermittelt alle URLs, die das Wort "datasheets:"enthalten.</p><p>domain.com/datasheets/5-top-tricks</p><p>domain.com/blog/5-top-datasheets</p></td> 
   </tr> 
   <tr> 
    <td>Pressemitteilung</td> 

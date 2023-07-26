@@ -22,11 +22,11 @@ Fügen Sie eine Identität hinzu, wenn Sie über mehrere E-Mail-Adressen verfüg
 
    ![](assets/add-identity-1.png)
 
-1. Klicken **E-Mail-Einstellungen**.
+1. Klicks **E-Mail-Einstellungen**.
 
    ![](assets/add-identity-2.png)
 
-1. Klicken **Identität hinzufügen**.
+1. Klicks **Identität hinzufügen**.
 
    ![](assets/add-identity-3.png)
 

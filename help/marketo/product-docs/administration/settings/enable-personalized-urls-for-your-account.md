@@ -27,7 +27,7 @@ Personalisierte URLs eignen sich hervorragend für Druckpost-Kampagnen.
 
    ![](assets/enable-personalized-urls-for-your-account-2.png)
 
-1. Klicken **[!UICONTROL Bearbeiten]**.
+1. Klicks **[!UICONTROL Bearbeiten]**.
 
    ![](assets/enable-personalized-urls-for-your-account-3.png)
 
@@ -39,4 +39,4 @@ Großartig gemacht! Nachdem Sie PURLs für Ihr Konto aktiviert haben, können Si
 
 >[!NOTE]
 >
->Wenn es zwei Personen mit demselben Vor-/Nachnamen gibt, hängt das System automatisch eine Zahl an das Ende an.
+>Wenn zwei Personen denselben Vor-/Nachnamen haben, hängt das System automatisch eine Zahl an das Ende an.

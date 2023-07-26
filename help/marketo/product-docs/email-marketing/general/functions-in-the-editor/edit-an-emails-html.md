@@ -17,15 +17,15 @@ Manchmal müssen Sie die zugrunde liegende HTML einer E-Mail ändern. Manchmal k
 
 ## HTML bearbeiten {#edit-html}
 
-1. Wählen Sie Ihre E-Mail aus und klicken Sie auf **Entwurf bearbeiten**.
+1. E-Mail auswählen und auf **Entwurf bearbeiten**.
 
    ![](assets/teamspidey.jpg)
 
-1. Klicken **Code bearbeiten**.
+1. Klicks **Code bearbeiten**.
 
    ![](assets/two-4.png)
 
-1. Nehmen Sie alle Änderungen vor. Klicken **Speichern** wann geschehen.
+1. Nehmen Sie alle Änderungen vor. Klicks **Speichern** wann geschehen.
 
    ![](assets/three-3.png)
 
@@ -66,11 +66,11 @@ Verwenden Sie die Suchcode-Funktion, um effizient Inhalte im HTML-Code Ihrer E-M
 
    ![](assets/five-2.png)
 
-1. Geben Sie an, was Sie suchen möchten, und klicken Sie auf **Weitersuchen** nach vorn zu suchen oder **Vorherige suchen** zurück zu suchen. Sie haben auch die Möglichkeit, **Ersetzen** und **Alle ersetzen**.
+1. Geben Sie das gesuchte Element ein und klicken Sie auf **Weitersuchen** nach vorn zu suchen oder **Vorherige suchen** zurück zu suchen. Sie können auch **Ersetzen** und **Alle ersetzen**.
 
    ![](assets/six-1.png)
 
-1. Klicken **Schließen** wann geschehen.
+1. Klicks **Schließen** wann geschehen.
 
    ![](assets/seven.png)
 

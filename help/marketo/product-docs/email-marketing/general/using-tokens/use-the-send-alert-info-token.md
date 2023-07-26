@@ -40,7 +40,7 @@ Die folgenden Informationen sind Teil der `{{SP_Send_Alert_Info}}`:
 
 ## SP_Send_Alert_Info-Token zu einer E-Mail hinzufügen {#add-the-sp-send-alert-info-token-to-an-email}
 
-1. Wählen Sie die E-Mail aus und klicken Sie auf **Entwurf bearbeiten**.
+1. E-Mail auswählen und auf **Entwurf bearbeiten**.
 
    ![](assets/one-3.png)
 
@@ -56,7 +56,7 @@ Die folgenden Informationen sind Teil der `{{SP_Send_Alert_Info}}`:
 
    ![](assets/image2014-9-25-15-3a19-3a11.png)
 
-1. Klicken **Speichern**.
+1. Klicks **Speichern**.
 
    ![](assets/image2014-9-25-15-3a19-3a24.png)
 

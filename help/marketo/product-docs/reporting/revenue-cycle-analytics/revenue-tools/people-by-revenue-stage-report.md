@@ -35,6 +35,6 @@ Sie können einen Bericht erstellen, der anzeigt, in welcher Phase Ihres Umsatzz
 
    ![](assets/image2015-4-29-12-3a11-3a31.png)
 
-1. Klicken Sie auf **Bericht** Registerkarte. Jetzt können Sie sehen, in welcher Phase Ihres Umsatzmodells sich Ihre Mitarbeiter befinden, und sich auf Engpässe konzentrieren.
+1. Klicken Sie auf **Bericht** Registerkarte. Jetzt können Sie sehen, in welcher Phase Ihres Umsatzmodells sich Ihre Mitarbeiter befinden, und sich auf etwaige Engpässe konzentrieren.
 
    ![](assets/image2017-3-28-8-3a6-3a48.png)

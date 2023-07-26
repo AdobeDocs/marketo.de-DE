@@ -37,7 +37,7 @@ Das eine Wort (plus YourCompany.com) wird als CNAME bezeichnet. Sie werden dies 
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-1.png)
 
-1. Klicken **Mein Konto**.
+1. Klicks **Mein Konto**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-2.png)
 
@@ -51,7 +51,7 @@ Das eine Wort (plus YourCompany.com) wird als CNAME bezeichnet. Sie werden dies 
 
 ## Anfrage an IT senden {#send-request-to-it}
 
-Bitten Sie Ihre IT-Mitarbeiter, den folgenden CNAME einzurichten: (Ersetzen Sie das Wort [CNAME] und [Munchkin-ID] mit dem Text aus dem vorherigen Schritt.)
+Bitten Sie Ihre IT-Mitarbeiter, den folgenden CNAME einzurichten: (Ersetzen Sie das Wort: [CNAME] und [Munchkin-ID] mit dem Text aus dem vorherigen Schritt.)
 
 [CNAME].YourCompany.com > [Munchkin-ID].mktoweb.com
 
@@ -69,7 +69,7 @@ Bitten Sie Ihre IT-Mitarbeiter, den folgenden CNAME einzurichten: (Ersetzen Sie 
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-6.png)
 
-1. Geben Sie Ihren CNAME in ein. **Domänenname für Einstiegsseiten** eingeben **Fallback-Seite** eingeben **Homepage** und klicken Sie auf **Speichern**.
+1. Geben Sie Ihren CNAME in ein. **Domänenname für Einstiegsseiten** eingeben **Fallback-Seite** eingeben **Homepage** und klicken **Speichern**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-7.png)
 

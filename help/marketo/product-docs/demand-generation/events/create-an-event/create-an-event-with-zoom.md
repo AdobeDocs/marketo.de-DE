@@ -57,7 +57,7 @@ Geben Sie die folgenden Informationen für Ihr Webinar ein, das über den Adapte
 
 Jetzt springen wir in Marketo!
 
-1. Wählen Sie ein Ereignis aus. Klicken **Ereignisaktionen** und wählen Sie **Ereigniseinstellungen**.
+1. Wählen Sie ein Ereignis aus. Klicks **Ereignisaktionen** und wählen **Ereigniseinstellungen**.
 
    ![](assets/image2015-5-14-14-3a53-3a10-1.png)
 
@@ -65,7 +65,7 @@ Jetzt springen wir in Marketo!
    >
    >Der Kanaltyp des ausgewählten Ereignisses muss **Webinar**.
 
-1. Auswählen **Zoom** von **Ereignis** **Partner** Liste.
+1. Auswählen **Zoom** aus dem **Ereignis** **Partner** Liste.
 
    ![](assets/eventsettings1.png)
 
@@ -77,7 +77,7 @@ Jetzt springen wir in Marketo!
 
    ![](assets/selectevent.png)
 
-1. Klicken **Speichern**.
+1. Klicks **Speichern**.
 
    ![](assets/eventsettingssave.png)
 
@@ -103,4 +103,4 @@ Jetzt springen wir in Marketo!
 
    >[!TIP]
    >
-   >Es kann bis zu 48 Stunden dauern, bis die Daten in Marketo angezeigt werden. Wenn Sie nach so langer Wartezeit immer noch nichts sehen, wählen Sie **Von Webinar-Anbieter aktualisieren** über das Menü &quot;Ereignisaktionen&quot;im **Zusammenfassung** Registerkarte Ihres Ereignisses.
+   >Die Anzeige der Daten in Marketo kann bis zu 48 Stunden dauern. Wenn Sie nach so langer Wartezeit immer noch nichts sehen, wählen Sie **Von Webinar-Anbieter aktualisieren** über das Menü &quot;Ereignisaktionen&quot;im **Zusammenfassung** -Registerkarte Ihres Ereignisses.

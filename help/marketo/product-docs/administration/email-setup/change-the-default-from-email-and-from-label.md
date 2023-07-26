@@ -23,7 +23,7 @@ Jeder Admin-Benutzer kann die Standardwerte für **[!UICONTROL Aus E-Mail]** und
 
    ![](assets/change-the-default-from-email-and-from-label-1.png)
 
-1. Klicken **[!UICONTROL Email]**.
+1. Klicks **[!UICONTROL Email]**.
 
    ![](assets/change-the-default-from-email-and-from-label-2.png)
 

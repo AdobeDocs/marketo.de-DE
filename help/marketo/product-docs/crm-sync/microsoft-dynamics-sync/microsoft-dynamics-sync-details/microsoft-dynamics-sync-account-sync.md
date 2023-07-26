@@ -17,7 +17,7 @@ Wussten Sie, dass Marketo Ihre gesamte Datenbank mit Dynamics synchronisiert? Es
 
 ## Wie werden die Informationen synchronisiert? {#which-way-does-the-information-sync}
 
-Nur eine Methode: von Dynamics zu Marketo.
+Nur eine Möglichkeit: von Dynamics bis Marketo.
 
 ## Wie funktionieren die Aktualisierungen? {#how-do-the-updates-work}
 

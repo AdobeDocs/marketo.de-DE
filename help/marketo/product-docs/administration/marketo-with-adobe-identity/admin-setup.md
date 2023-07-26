@@ -24,7 +24,7 @@ Nachdem Sie als Adobe-Systemadministrator in einer Adobe-Organisation zu Marketo
 
    ![](assets/admin-setup-2.png)
 
-## Erstellen eines Produktprofils {#create-a-product-profile}
+## Produktprofil erstellen {#create-a-product-profile}
 
 Nachdem der Systemadministrator auf die Admin Console zugegriffen hat, ist es an der Zeit, ein Produktprofil zu erstellen. So erhalten Ihre Benutzer/Administratoren Zugriff auf Marketo Engage.
 
@@ -38,7 +38,7 @@ Nachdem der Systemadministrator auf die Admin Console zugegriffen hat, ist es an
 
    >[!NOTE]
    >
-   >Wenn Sie mehrere Abonnements haben, müssen diese Schritte für jedes Abonnement ausgeführt werden.
+   >Wenn Sie mehrere Abonnements haben, müssen diese Schritte für jedes Abonnement befolgt werden.
 
 1. Klicken Sie auf **[!UICONTROL Neues Profil]** Schaltfläche.
 

@@ -52,7 +52,7 @@ ht-degree: 0%
 
    ![](assets/manage-template-categories-8.png)
 
-1. Klicken **Löschen** zur Bestätigung.
+1. Klicks **Löschen** zur Bestätigung.
 
    ![](assets/manage-template-categories-9.png)
 

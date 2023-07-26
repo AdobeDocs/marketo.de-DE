@@ -27,7 +27,7 @@ Statt eine neue Smart-Liste zu erstellen, sparen Sie etwas Zeit, indem Sie eine 
 
    ![](assets/clonesmartlist-hands.png)
 
-1. Geben Sie einen **Name** und klicken Sie auf **Klonen**.
+1. Geben Sie einen **Name** und klicken **Klonen**.
 
    ![](assets/supersmartlist-clonewindow.png)
 

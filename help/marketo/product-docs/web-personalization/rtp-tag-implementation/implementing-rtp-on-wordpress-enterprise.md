@@ -21,7 +21,7 @@ Befolgen Sie zur Implementierung Ihres RTP-Tags die folgenden Installationsanwei
 
    ![](assets/image2014-11-30-15-3a19-3a21-3.png)
 
-1. Suchen Sie unter &quot;Domain&quot;die entsprechende Domäne und klicken Sie auf **Tag generieren**.
+1. Suchen Sie unter Domäne die entsprechende Domäne und klicken Sie auf **Tag generieren**.
 
    ![](assets/image2014-11-30-15-3a20-3a17-3.png)
 
@@ -29,7 +29,7 @@ Befolgen Sie zur Implementierung Ihres RTP-Tags die folgenden Installationsanwei
 
 1. Melden Sie sich bei Ihrem WordPress-Konto als Admin-Benutzer an
 
-   a. under **Erscheinungsbild**, gehen Sie zu **Benutzerdefiniertes JavaScript**.
+   a. **Erscheinungsbild**, gehen Sie zu **Benutzerdefiniertes JavaScript**.
 b. Fügen Sie das RTP-JavaScript-Tag direkt nach dem vorhandenen Code ein.
 
    ![](assets/image2014-12-3-17-3a51-3a46.png)
@@ -45,4 +45,4 @@ b. Fügen Sie das RTP-JavaScript-Tag direkt nach dem vorhandenen Code ein.
    >
    >Fügen Sie das Skript NUR selbst ein.
 
-1. Klicken **Aktualisieren**.
+1. Klicks **Aktualisieren**.

@@ -27,7 +27,7 @@ Wenn Sie Listen- oder Smart-List-Ergebnisse außerhalb von Marketo benötigen, k
 
    ![](assets/exportpeople.png)
 
-1. Auswählen **Sichtbare Spalten** und klicken Sie auf **Export**.
+1. Auswählen **Sichtbare Spalten** und klicken **Export**.
 
    ![](assets/image2014-9-11-14-3a1-3a37.png)
 
@@ -37,9 +37,9 @@ Wenn Sie Listen- oder Smart-List-Ergebnisse außerhalb von Marketo benötigen, k
 
    >[!TIP]
    >
-   >Wenn Ihre Personendatensätze Fremdzeichen enthalten, die beim Export nicht richtig dargestellt werden, versuchen Sie, den Dateityp in der **Format** Dropdown-Liste.
+   >Wenn Ihre Personendatensätze Fremdzeichen enthalten, die beim Export nicht richtig dargestellt werden, versuchen Sie, den Dateityp in der **Format** angezeigt.
 
-1. Der Export wird ausgeführt. Sobald Sie fertig sind, können Sie auf **Jetzt herunterladen** , um die Datei zu erfassen.
+1. Der Export wird ausgeführt. Nach Abschluss können Sie auf **Jetzt herunterladen** , um die Datei zu erfassen.
 
    ![](assets/popup.png)
 

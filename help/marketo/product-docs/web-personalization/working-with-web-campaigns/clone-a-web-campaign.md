@@ -39,6 +39,6 @@ Verwenden Sie die Klonfunktion auf der Seite Web-Kampagnen , um die Kampagnenein
 
 >[!MORELIKETHIS]
 >
->* [Erstellen einer Dialogkampagne](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+>* [Erstellen einer Dialogfeldkampagne](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
 >* [Erstellen einer RTP-In-Zone-Kampagne](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
 >* [Erstellen einer RTP Widget-Kampagne](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)

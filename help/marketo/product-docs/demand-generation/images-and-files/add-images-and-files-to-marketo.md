@@ -55,7 +55,7 @@ Es ist einfach, mehrere Bilder und Dateien gleichzeitig hinzuzufügen.
 
    ![](assets/image2014-9-15-18-3a8-3a45.png)
 
-Gut gemacht!
+Schön gemacht!
 
 >[!NOTE]
 >

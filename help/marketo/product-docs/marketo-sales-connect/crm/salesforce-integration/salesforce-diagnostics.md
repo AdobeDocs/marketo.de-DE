@@ -17,7 +17,7 @@ Teil unserer Salesforce-Integration ist eine Salesforce-Diagnoseseite innerhalb 
 
 **Fehler:** API_CURRENTLY_DISABLED\
 **Kategorie:** Zugriff/Validierung\
-**Nachricht:** Die API ist für diesen Benutzer deaktiviert.\
+**Nachricht:** Die API ist für diesen Benutzer deaktiviert\
 **Was geschieht:** Benutzer hat keinen API-Zugriff\
 **Schritte zur Fehlerbehebung:** Salesforce Admin muss dem Benutzer-API-Zugriff gewähren.
 
@@ -66,7 +66,7 @@ Teil unserer Salesforce-Integration ist eine Salesforce-Diagnoseseite innerhalb 
 **Kategorie:** Authentifizierung
 **Nachricht:** invalid_grant: abgelaufenes Zugriffs-/Aktualisierungstoken
 **Was geschieht:** Das Zugriffs- oder Aktualisierungstoken ist abgelaufen. Token laufen basierend auf ab [Sitzungseinstellungen in Salesforce](https://salesforce.stackexchange.com/questions/10759/invalid-grant-expired-access-refresh-token-error-when-authenticating-access-via).
-**Schritte zur Fehlerbehebung:** Sie müssen sich erneut authentifizieren. Trennen Sie die Salesforce-Verbindung und verbinden Sie sich erneut.
+**Schritte zur Fehlerbehebung:** Sie müssen sich erneut authentifizieren. Trennen Sie die Salesforce-Verbindung und stellen Sie eine erneute Verbindung her.
 
 <br> 
 
@@ -96,7 +96,7 @@ Teil unserer Salesforce-Integration ist eine Salesforce-Diagnoseseite innerhalb 
 
 **Fehler:** FIELD_INTEGRITY_EXCEPTION\
 **Kategorie:** Zugriff/Validierung\
-**Nachricht:** Das bestehende Land/Gebiet erkennt den Landeswert für das Feld nicht: Code Bundesland/Provinz\
+**Nachricht:** Das bestehende Land/Gebiet erkennt den Landeswert für das Feld nicht an: Code für Bundesland/Provinz\
 **Was geschieht:** Vorhandene fehlerhafte Daten in Salesforce werden bei der Aktualisierung erzwungen.\
 **Schritte zur Fehlerbehebung:** Siehe oben.
 
@@ -148,7 +148,7 @@ Teil unserer Salesforce-Integration ist eine Salesforce-Diagnoseseite innerhalb 
 
 **Fehler:** INVALID_GRANT\
 **Kategorie:** Authentifizierung\
-**Nachricht:** invalid_grant: IP eingeschränkt\
+**Nachricht:** invalid_grant: ip restricted\
 **Was geschieht:** Wir versuchen, auf Ihre Salesforce zuzugreifen, aber Sie haben IP-Einschränkungen, die uns daran hindern, dies zu tun.\
 **Schritte zur Fehlerbehebung:** Ihr Salesforce-Administrator muss unsere IPs in Zulassungsliste stellen. Benutzer sollten sich an den Support wenden, um die IP-Adressen zu erhalten.
 
@@ -160,11 +160,11 @@ Teil unserer Salesforce-Integration ist eine Salesforce-Diagnoseseite innerhalb 
 
 **Fehler:** QUERY_TIMEOUT\
 **Kategorie:** Gelegentlich\
-**Nachricht:** Ihre Abfrageanforderung wurde zu lange ausgeführt\
+**Nachricht:** Ihre Abfrageanforderung wurde zu lange ausgeführt.\
 **Was geschieht:** Siehe oben.\
 **Schritte zur Fehlerbehebung:** Wiederholungslogik sollte dies handhaben. Wenn es immer noch nicht funktioniert, wenden Sie sich an Ihren Salesforce-Administrator, um einen problematischen Trigger zu beheben.
 
-**Fehler:** REQUEST_LIMIT_EXCEEDED\
+**Fehler:** ANFRAGE_LIMIT_EXCEEDED\
 **Kategorie:** Gelegentlich\
 **Nachricht:**
 1 - ConcurrentPerOrgLongTxn Limit überschritten\
@@ -197,7 +197,7 @@ Teil unserer Salesforce-Integration ist eine Salesforce-Diagnoseseite innerhalb 
 
 **Fehler:** UNABLE_TO_LOCK_ROW\
 **Kategorie:** Gelegentlich\
-**Nachricht:** keinen ausschließlichen Zugriff auf diesen Datensatz oder 1 Datensätze erhalten kann: &quot;record ID&quot;\
+**Nachricht:** kann keinen ausschließlichen Zugriff auf diesen Datensatz oder 1 Datensätze erhalten: &quot;Datensatz-ID&quot;\
 **Was geschieht:** Wahrscheinlich gibt es einen Trigger, der mehrere Versuche zum Zugriff auf denselben Datensatz verursacht, möglicherweise im Fall einer Gruppen-E-Mail.\
 **Schritte zur Fehlerbehebung:** Wiederholungslogik sollte dies handhaben. Wenn es immer noch nicht funktioniert, wenden Sie sich an Ihren Salesforce-Administrator, um einen problematischen Trigger zu beheben.
 

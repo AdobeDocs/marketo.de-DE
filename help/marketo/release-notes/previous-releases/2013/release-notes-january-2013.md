@@ -11,7 +11,7 @@ ht-degree: 1%
 
 ---
 
-# Versionshinweise: Januar 2013 {#release-notes-january}
+# Januar 2013 - Versionshinweise {#release-notes-january}
 
 Die Januar-Version erweitert unser Social-Angebot mit **Verweisangebote**. Darüber hinaus können Marketo Lead Management-Benutzer ihre Zeitzone, Sprache und Gebietsschema-Voreinstellungen festlegen. Beachten Sie, dass Funktionen mit einer &#42; sind nur in der Select Edition verfügbar.
 

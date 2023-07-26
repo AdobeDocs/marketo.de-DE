@@ -42,7 +42,7 @@ Beim Versand einer E-Mail mit Marketo Sales Connect werden Ansichten (E-Mail-Öf
    >
    >Wenn jemand, der CC’d oder BCC’d war, die E-Mail öffnet, wird diese Öffnung als Ansicht auf den Datensatz der Person im **nach** -Feld.
 
-1. Fügen Sie eine Betreffzeile hinzu.
+1. Betreffzeile hinzufügen.
 
    ![](assets/four.png)
 
@@ -50,7 +50,7 @@ Beim Versand einer E-Mail mit Marketo Sales Connect werden Ansichten (E-Mail-Öf
    >
    >Betreffzeile und Empfänger sind zum Senden der E-Mail erforderlich. Wir werden **Entwurf automatisch speichern** nachdem Betreffzeile und Empfänger hinzugefügt wurden.
 
-1. Erstellen Sie Ihre E-Mail mit dem Editor. Klicken **Senden** (oder [Zeitplan](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md), wenn Sie es vorziehen).
+1. Erstellen Sie Ihre E-Mail mit dem Editor. Klicks **Senden** (oder [Zeitplan](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md), wenn Sie es vorziehen).
 
    ![](assets/five.png)
 

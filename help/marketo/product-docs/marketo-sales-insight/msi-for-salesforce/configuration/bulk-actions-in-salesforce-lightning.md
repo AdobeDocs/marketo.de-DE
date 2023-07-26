@@ -27,7 +27,7 @@ So richten Sie Massenaktionen in Salesforce Lightning ein.
 
    ![](assets/bulk-actions-in-salesforce-lightning-3.png)
 
-1. Klicken **Suchlayouts für Salesforce Classic**.
+1. Klicks **Suchlayouts für Salesforce Classic**.
 
    ![](assets/bulk-actions-in-salesforce-lightning-4.png)
 
@@ -39,7 +39,7 @@ So richten Sie Massenaktionen in Salesforce Lightning ein.
 
    ![](assets/bulk-actions-in-salesforce-lightning-6.png)
 
-1. Klicken **Speichern**.
+1. Klicks **Speichern**.
 
    ![](assets/bulk-actions-in-salesforce-lightning-7.png)
 
@@ -47,4 +47,4 @@ So richten Sie Massenaktionen in Salesforce Lightning ein.
 
    >[!NOTE]
    >
-   >Wiederholen Sie dieselben Schritte, um in der Ansicht &quot;Kontaktliste&quot;Massenaktionen hinzuzufügen.
+   >Wiederholen Sie die gleichen Schritte, um in der Ansicht &quot;Kontaktliste&quot;Massenaktionen hinzuzufügen.

@@ -6,8 +6,8 @@ exl-id: 6984fd94-dd91-4832-83ce-3a6c3b35b034
 feature: Snippets
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -23,11 +23,11 @@ Löschen Sie ein Snippet, das Sie nicht mehr benötigen.
 
    ![](assets/image2014-9-16-10-3a43-3a47.png)
 
-1. Navigieren Sie zu Ihrem Snippet und dann unter **Snippet-Aktionen** Klick auf **Löschen**.
+1. Navigieren Sie zu Ihrem Snippet und dann unter **Snippet-Aktionen** click **Löschen**.
 
    ![](assets/image2014-9-16-10-3a43-3a57.png)
 
-1. Klicken Sie auf **Löschen** zur Bestätigung oder einfach **Abbrechen**.
+1. Klicken Sie auf **Löschen** zur Bestätigung oder **Abbrechen**.
 
    ![](assets/image2014-9-16-10-3a44-3a8.png)
 

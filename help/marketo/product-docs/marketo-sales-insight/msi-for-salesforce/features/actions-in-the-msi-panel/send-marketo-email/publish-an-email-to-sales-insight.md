@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Aktivieren Sie die Einstellung In Sales Insight veröffentlichen , um Ihrem Verkaufsteam eine E-Mail sowohl in Sales Insight als auch im Outlook- und Gmail-Add-In zur Verfügung zu stellen. Sie können ihr auch ein Ablaufdatum geben.
 
-1. Suchen Sie Ihre E-Mail, wählen Sie sie aus und klicken Sie auf **Entwurf bearbeiten**.
+1. E-Mail suchen, auswählen und klicken **Entwurf bearbeiten**.
 
    ![](assets/one.png)
 
@@ -27,24 +27,24 @@ Aktivieren Sie die Einstellung In Sales Insight veröffentlichen , um Ihrem Verk
 
    ![](assets/three.png)
 
-1. Um ein Ablaufdatum festzulegen (optional), aktivieren Sie die Option **Ablauf festlegen** und wählen Sie ein Datum aus.
+1. Um ein Ablaufdatum festzulegen (optional), aktivieren Sie **Ablauf festlegen** und wählen Sie ein Datum aus.
 
    ![](assets/four.png)
 
    >[!NOTE]
    >
-   >Um 23:59 Uhr (CST) am Ablaufdatum (sofern Sie eines festlegen), werden die von Ihnen zur Verfügung gestellte E-Mail nicht mehr in Sales Insight sowie in allen seinen Add-Ins angezeigt. Es wird natürlich auch in Marketo verfügbar sein.
+   >Um 23:59 Uhr (CST) am Ablaufdatum (sofern Sie eines festlegen), werden die von Ihnen zur Verfügung gestellte E-Mail sowie alle Add-Ins von Sales Insight entfernt. Es wird natürlich auch in Marketo verfügbar sein.
 
-1. Klicken **Speichern**.
+1. Klicks **Speichern**.
 
    ![](assets/five.png)
 
-Gut gemacht! Jetzt wissen Sie, wie Sie E-Mails für Ihr Verkaufsteam zur Verfügung stellen können, um sie auf CRM-Seite zu versenden und gegebenenfalls die verfügbare Zeit zu begrenzen.
+Gut gemacht! Jetzt wissen Sie, wie Sie E-Mails für Ihr Verkaufsteam zur Verfügung stellen können, um sie auf CRM-Seite zu senden, und wie Sie die verfügbare Zeit bei Bedarf begrenzen können.
 
 >[!NOTE]
 >
->[Meine Token](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) wird beim Senden einer E-Mail aus Sales Insight auf Microsoft Dynamics oder Salesforce nicht aufgelöst; Nur Standard-Token (Lead, Unternehmen usw.) werden ausgefüllt. Die Standardwerte für Token funktionieren jedoch.
+>[Meine Token](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) wird beim Versand einer E-Mail von Sales Insight auf Microsoft Dynamics oder Salesforce nicht aufgelöst. Es werden nur Standard-Token (Lead, Unternehmen usw.) aufgefüllt. Die Standardwerte für Token funktionieren jedoch.
 
 >[!TIP]
 >
->Vergessen Sie nicht, diese E-Mail zu validieren, damit die Änderungen wirksam werden. Erfahren Sie, wie Sie [E-Mail genehmigen](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md).
+>Vergessen Sie nicht, diese E-Mail zu validieren, damit die Änderungen wirksam werden. Erfahren Sie, wie [E-Mail genehmigen](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md).

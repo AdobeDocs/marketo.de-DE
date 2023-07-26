@@ -13,12 +13,12 @@ ht-degree: 0%
 
 # Schritt 3 von 3: Verbinden von Marketo und Salesforce (Enterprise/Unlimited) {#step-of-connect-marketo-and-salesforce-enterprise-unlimited}
 
-In diesem Artikel konfigurieren Sie Marketo für die Synchronisierung mit Ihrer konfigurierten Salesforce-Instanz.
+In diesem Artikel konfigurieren Sie Marketo so, dass es mit Ihrer konfigurierten Salesforce-Instanz synchronisiert wird.
 
 >[!PREREQUISITES]
 >
->* [Schritt 1 von 3: Marketo-Felder zu Salesforce hinzufügen (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
->* [Schritt 2 von 3: Salesforce-Benutzer für Marketo erstellen (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
+>* [Schritt 1 von 3: Hinzufügen von Marketo-Feldern zu Salesforce (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
+>* [Schritt 2 von 3: Erstellen eines Salesforce-Benutzers für Marketo (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
 
 ## Sync User Security Token abrufen {#retrieve-sync-user-security-token}
 
@@ -34,7 +34,7 @@ In diesem Artikel konfigurieren Sie Marketo für die Synchronisierung mit Ihrer 
 
    ![](assets/image2015-6-12-9-3a13-3a39.png)
 
-1. Klicken **Sicherheitstoken zurücksetzen**.
+1. Klicks **Sicherheits-Token zurücksetzen**.
 
    ![](assets/image2014-12-9-9-3a52-3a50.png)
 
@@ -48,7 +48,7 @@ In diesem Artikel konfigurieren Sie Marketo für die Synchronisierung mit Ihrer 
 
    >[!NOTE]
    >
-   >Stellen Sie sicher, dass [Alle nicht benötigten Felder ausblenden](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md) in Marketo vom Synchronisierungsbenutzer aus, bevor auf **Synchronisierungsfelder**. Wenn Sie auf Felder synchronisieren klicken, werden alle Felder, die dem Benutzer angezeigt werden, dauerhaft in Marketo erstellt und können nicht gelöscht werden.
+   >Stellen Sie sicher, [Alle nicht benötigten Felder ausblenden](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md) in Marketo vom Synchronisierungsbenutzer aus, bevor auf **Synchronisierungsfelder**. Wenn Sie auf Felder synchronisieren klicken, werden alle Felder, die dem Benutzer angezeigt werden, dauerhaft in Marketo erstellt und können nicht gelöscht werden.
 
 1. Geben Sie die Salesforce Sync User-Anmeldeinformationen ein, die in Teil 2 der Salesforce-Konfiguration erstellt wurden ([Professional](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md) oder [Unternehmen](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)) und klicken Sie auf **Synchronisierungsfelder** (check **Sandbox** nur, wenn Sie eine Marketo-Sandbox mit einer Salesforce-Sandbox synchronisieren).
 
@@ -56,9 +56,9 @@ In diesem Artikel konfigurieren Sie Marketo für die Synchronisierung mit Ihrer 
 
    >[!CAUTION]
    >
-   >Wenn anstelle der Felder &quot;Benutzername/Kennwort/Token&quot;die Schaltfläche &quot;Bei Salesforce anmelden&quot;angezeigt wird, ist Ihr Marketo-Abonnement für OAuth aktiviert. Bitte [in diesem Artikel](/help/marketo/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md). Sobald die Synchronisierung mit der Verwendung einer Reihe von Anmeldeinformationen beginnt, **Salesforce-Anmeldedaten oder -Abonnements werden nicht gewechselt**. Wenn Sie die Standardauthentifizierung verwenden möchten, wenden Sie sich an das Adobe Account Team (Ihren Kundenbetreuer).
+   >Wenn anstelle der Felder &quot;Benutzername/Kennwort/Token&quot;die Schaltfläche &quot;Bei Salesforce anmelden&quot;angezeigt wird, ist Ihr Marketo-Abonnement für OAuth aktiviert. Bitte [in diesem Artikel](/help/marketo/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md). Sobald die Synchronisierung mit der Verwendung einer Reihe von Anmeldeinformationen beginnt, **Salesforce-Anmeldedaten oder -Abonnements werden nicht geändert**. Wenn Sie die Standardauthentifizierung verwenden möchten, wenden Sie sich an das Adobe Account Team (Ihren Kundenbetreuer).
 
-1. Lesen Sie die Warnung und klicken Sie auf **Anmeldeinformationen bestätigen**.
+1. Lesen Sie die Warnung und klicken Sie dann auf **Anmeldeinformationen bestätigen**.
 
    ![](assets/image2014-12-9-9-3a53-3a16.png)
 
@@ -68,7 +68,7 @@ In diesem Artikel konfigurieren Sie Marketo für die Synchronisierung mit Ihrer 
 
 ## Salesforce-Synchronisierung starten {#start-salesforce-sync}
 
-1. Klicken **Salesforce Sync starten** , um die permanente Marketo-Salesforce-Synchronisation zu starten.
+1. Klicks **Salesforce Sync starten** , um die permanente Marketo-Salesforce-Synchronisation zu starten.
 
    ![](assets/image2014-12-9-9-3a53-3a24.png)
 
@@ -76,7 +76,7 @@ In diesem Artikel konfigurieren Sie Marketo für die Synchronisierung mit Ihrer 
    >
    >Marketo deaktiviert das Duplizieren nicht automatisch für eine Salesforce-Synchronisation oder wenn Sie Leads manuell eingeben.
 
-1. Klicken **Synchronisierung starten**.
+1. Klicks **Synchronisierung starten**.
 
    ![](assets/image2014-12-9-9-3a53-3a32.png)
 
@@ -104,7 +104,7 @@ Wow, Sie haben gerade mit der Konfiguration einer der leistungsstärksten Funkti
 
 >[!MORELIKETHIS]
 >
->* [Schritt 1 von 3: Marketo-Felder zu Salesforce hinzufügen (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
->* [Schritt 2 von 3: Salesforce-Benutzer für Marketo erstellen (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
+>* [Schritt 1 von 3: Hinzufügen von Marketo-Feldern zu Salesforce (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
+>* [Schritt 2 von 3: Erstellen eines Salesforce-Benutzers für Marketo (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
 >* [Installieren des Marketo Sales Insight-Pakets in Salesforce AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
 >* [Konfigurieren von Marketo Sales Insight in Salesforce Enterprise/Unlimited](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)

@@ -19,15 +19,15 @@ Bei der Erstellung einer Landingpage ohne Formulare können Sie Hilfslinien verw
 >
 >Guides sind nur auf der Seite **Freiform** Landingpage-Editor.
 
-1. Wählen Sie eine **Landingpage** und klicken Sie auf **Entwurf bearbeiten**.
+1. Wählen Sie eine **Landingpage** und klicken **Entwurf bearbeiten**.
 
    ![](assets/image2015-5-20-14-3a10-3a9.png)
 
-1. Klicken **Landingpage-Aktionen** und wählen Sie **Handbücher anzeigen**.
+1. Klicks **Landingpage-Aktionen** und wählen **Handbücher anzeigen**.
 
    ![](assets/image2015-5-20-14-3a12-3a15.png)
 
-1. Über der Arbeitsfläche wird eine vertikale und horizontale Führungslinie angezeigt. Verwenden Sie den Cursor, um sie zu verschieben.
+1. Über der Arbeitsfläche wird ein vertikaler und horizontaler Guide angezeigt. Verwenden Sie den Cursor, um sie zu verschieben.
 
    ![](assets/image2015-5-20-14-3a15-3a9.png)
 

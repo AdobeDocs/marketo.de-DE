@@ -23,11 +23,11 @@ Wenn Sie unsere [!DNL SOAP API] oder [!DNL Munchkin API] benötigen Sie eine Lis
 
    ![](assets/export-a-list-of-all-marketo-api-field-names-1.png)
 
-1. Klicken **[!UICONTROL Feldverwaltung]**.
+1. Klicks **[!UICONTROL Feldverwaltung]**.
 
    ![](assets/export-a-list-of-all-marketo-api-field-names-2.png)
 
-1. Klicken **[!UICONTROL Feldnamen exportieren]** , um die Tabelle herunterzuladen.
+1. Klicks **[!UICONTROL Feldnamen exportieren]** , um die Tabelle herunterzuladen.
 
    ![](assets/export-a-list-of-all-marketo-api-field-names-3.png)
 

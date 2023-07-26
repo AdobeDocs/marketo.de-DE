@@ -78,14 +78,14 @@ Die Berechtigung &quot;Marketo App&quot;ist Teil des Sales Insight Salesforce -P
 </table>
 
 * Apex-Klassenzugriff: 159 Apex-Klassen, die mit &quot;mkto_si&quot;beginnen
-* Visualforce Page Access: 64 Visualforce-Seiten, die mit &quot;mkto_si&quot;beginnen
+* Visualforce-Seitenzugriff: 64 Visualforce-Seiten, die mit &quot;mkto_si&quot;beginnen
 * Benutzerdefinierte Einstellungsdefinitionen: mkto_si.Marketo-Einstellungen und mkto_si.Benutzereinstellungen
 
 ## Hinzufügen von Marketo App-Berechtigungen für Benutzer {#adding-marketo-app-permission-set-to-users}
 
 1. Melden Sie sich bei Ihrem Salesforce-Konto an.
 
-1. Klicken **Einrichtung**.
+1. Klicks **Einrichtung**.
 
    ![](assets/add-sales-insight-permission-set-1.png)
 
@@ -97,11 +97,11 @@ Die Berechtigung &quot;Marketo App&quot;ist Teil des Sales Insight Salesforce -P
 
    ![](assets/add-sales-insight-permission-set-3.png)
 
-1. Klicken **Zuweisungen bearbeiten**.
+1. Klicks **Zuweisungen bearbeiten**.
 
    ![](assets/add-sales-insight-permission-set-4.png)
 
-1. Auswählen **Zugriff auf Marketo-Apps** aus den verfügbaren Berechtigungssätzen und **Hinzufügen**. Klicken **Speichern**.
+1. Auswählen **Zugriff auf Marketo-Apps** aus den verfügbaren Berechtigungssätzen und **Hinzufügen**. Klicks **Speichern**.
 
    ![](assets/add-sales-insight-permission-set-5.png)
 
@@ -111,6 +111,6 @@ Die Berechtigung &quot;Marketo App&quot;ist Teil des Sales Insight Salesforce -P
 
 >[!NOTE]
 >
->Benutzern ohne Zugriff auf Sales Insight wird diese Nachricht angezeigt: &quot;Sie verfügen nicht über ausreichende Berechtigungen für den Zugriff auf diese Registerkarte.&quot;
+>Benutzer ohne Zugriff auf Sales Insight erhalten folgende Meldung: &quot;Sie verfügen nicht über ausreichende Berechtigungen für den Zugriff auf diese Registerkarte.&quot;
 
-Das ist alles! Sie haben erfolgreich Sales Insight-Zugriff hinzugefügt. Wiederholen Sie dieselben Schritte für jedes andere Profil, für das Sie Zugriff hinzufügen möchten.
+Das ist alles! Sie haben erfolgreich Sales Insight-Zugriff hinzugefügt. Wiederholen Sie die gleichen Schritte für jedes andere Profil, für das Sie Zugriff hinzufügen möchten.

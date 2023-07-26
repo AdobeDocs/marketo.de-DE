@@ -17,13 +17,13 @@ Aufgrund der überarbeiteten API-Richtlinie von linkedIn mussten wir LinkedIn So
 
 ## Wichtige Dinge zu wissen {#important-things-to-know}
 
-* linkedIn Social-Formularfüllschaltflächen waren ab dem 28. April 2016 keine Option mehr, um Marketo hinzuzufügen
+* LinkedIn Social-Formularfüllschaltflächen waren ab dem 28. April 2016 keine Option mehr, um Marketo hinzuzufügen
 
 * Die Schaltfläche &quot;LinkedIn Social-Formularausfüllung&quot;wurde aus allen Formularen entfernt, für die sie aktiviert war.
 
 ## Warum wurde diese Funktion aus meinem Marketo-Abonnement entfernt? {#why-was-this-functionality-removed-from-my-marketo-subscription}
 
-linkedIn hat einige wichtige Änderungen am Entwicklungsprogramm vorgenommen. Im Rahmen dieser Änderungen kann Marketo diese Funktion nicht mehr für Kunden unterstützen.
+LinkedIn hat einige wichtige Änderungen am Entwicklungsprogramm vorgenommen. Im Rahmen dieser Änderungen kann Marketo diese Funktion nicht mehr für Kunden unterstützen.
 
 ## Was ist passiert, wenn ich die Schaltflächen zum Ausfüllen von LinkedIn Social-Formularen nicht aus meinen Formularen entfernt habe, für die das Social-Formular aktiviert war? {#what-happened-if-i-didnt-remove-the-linkedin-social-form-fill-buttons-from-my-forms-that-had-social-form-enabled}
 

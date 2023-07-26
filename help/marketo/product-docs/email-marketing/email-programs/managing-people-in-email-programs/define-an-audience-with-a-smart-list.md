@@ -6,14 +6,14 @@ exl-id: 72a1e717-271b-46b5-b097-d29658b8f6ff
 feature: Email Programs
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '265'
-ht-degree: 2%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # Definieren einer Zielgruppe mit einer Smart-Liste {#define-an-audience-with-a-smart-list}
 
-Einmal [E-Mail-Programm erstellen](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md), möchten Sie ihm mitteilen, an wen die E-Mail gesendet werden soll. Sie können dies tun, indem Sie [Importieren einer Personenliste](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md) oder mit einer intelligenten Liste. Hier ist, wie man dies mit einer intelligenten Liste erreicht.
+Einmal [E-Mail-Programm erstellen](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md), möchten Sie ihm mitteilen, an wen die E-Mail gesendet werden soll. Sie können dies durch [Importieren einer Personenliste](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md) oder mit einer intelligenten Liste. Hier ist, wie man dies mit einer intelligenten Liste erreicht.
 
 >[!PREREQUISITES]
 >
@@ -47,7 +47,7 @@ Einmal [E-Mail-Programm erstellen](/help/marketo/product-docs/email-marketing/em
 
    ![](assets/myemailprogram.jpg)
 
-   Exzellente Arbeit! Jetzt ist es an der Zeit, [existierende E-Mail auswählen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) oder [E-Mail erstellen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) an diese Menschen zu schicken.
+   Exzellente Arbeit! Jetzt ist es Zeit, [existierende E-Mail auswählen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) oder [E-Mail erstellen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) an diese Menschen zu schicken.
 
 >[!NOTE]
 >
@@ -55,8 +55,8 @@ Einmal [E-Mail-Programm erstellen](/help/marketo/product-docs/email-marketing/em
 >
 >Haben Sie die Blockierungsnummer bemerkt? Diese Zahl ist eine Teilmenge der Personen, die sich qualifiziert haben, und repräsentiert Personen, die diese E-Mail nicht senden können, weil sie:
 >
->* Hat abbestellt
->* Marketing ausgesetzt
+>* Abgemeldet
+>* Marketing eingestellt
 >* Auf der Sperrliste
 >* E-Mail-Adresse ungültig
 >* Leere E-Mail

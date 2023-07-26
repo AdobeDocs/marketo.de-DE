@@ -31,7 +31,7 @@ Es ist einfach, eine Push-Benachrichtigung zu erstellen. Bevor Sie jedoch beginn
 
    ![](assets/image2015-4-23-13-3a35-3a6.png)
 
-1. Geben Sie einen **Name der Push-Benachrichtigung** und klicken Sie auf **Erstellen**.
+1. Geben Sie einen **Name der Push-Benachrichtigung** und klicken **Erstellen**.
 
    ![](assets/image2015-4-23-13-3a36-3a56.png)
 

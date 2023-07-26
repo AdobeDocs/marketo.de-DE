@@ -15,13 +15,13 @@ ht-degree: 1%
 
 Eine Kontoliste ist eine Sammlung benannter Konten, die gemeinsam als Ziel ausgewählt werden können. Mit Kontolisten können Sie spezifische Konten nach Branche, Standort oder Größe des Unternehmens auswählen.
 
-Zusätzlich zu den Kontolisten können Sie auch dynamische Kontolisten erstellen, die aus öffentlichen CRM-Kontoansichten generiert werden. Eine CRM-Kontoansicht ist ein Regelsatz, der beim Anzeigen von Konten als Filter dient. Sie können ihn beispielsweise verwenden, um Konten zu finden, in denen die Branche Gesundheitswesen ist *und* Der Umsatz beträgt über 100 Mio. US-Dollar.
+Zusätzlich zu den Kontolisten können Sie auch dynamische Kontolisten erstellen, die aus öffentlichen CRM-Kontoansichten generiert werden. Eine CRM-Kontoansicht ist ein Regelsatz, der beim Anzeigen von Konten als Filter dient. Sie können ihn beispielsweise verwenden, um Konten zu finden, in denen die Branche Gesundheitswesen ist. *und* Der Umsatz beträgt über 100 Mio. US-Dollar.
 
 ![](assets/one.png)
 
 >[!NOTE]
 >
->In der Marketo Target-Kontoverwaltung erstellte Kontolisten sind beim Erstellen von Smart-Listen und Webkampagnen in automatisch verfügbar [Web-Personalisierung](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md).
+>In der Marketo Target-Kontoverwaltung erstellte Kontolisten sind beim Erstellen von Smart-Listen und Webkampagnen in automatisch verfügbar. [Web-Personalisierung](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md).
 
 ## Neue Kontoliste erstellen {#create-a-new-account-list}
 
@@ -41,7 +41,7 @@ Zusätzlich zu den Kontolisten können Sie auch dynamische Kontolisten erstellen
 
 ## Erstellen einer neuen dynamischen Kontoliste {#create-a-new-dynamic-account-list}
 
-1. Klicken Sie auf **Neu** und wählen Sie **Neue dynamische Liste erstellen**.
+1. Klicken Sie auf **Neu** und wählen Sie **Erstellen einer neuen dynamischen Liste**.
 
    ![](assets/1.png)
 
@@ -55,7 +55,7 @@ Zusätzlich zu den Kontolisten können Sie auch dynamische Kontolisten erstellen
 
    >[!NOTE]
    >
-   >Stellen Sie in Salesforce sicher, dass Sie dem Synchronisierungsbenutzer die Berechtigung &quot;Listenansichtsobjekt&quot;gewähren.
+   >Stellen Sie in Salesforce sicher, dass Sie dem Synchronisierungsbenutzer Berechtigungen für die Listenansicht &quot;Objekt&quot;gewähren.
 
 ## Umbenennen einer Kontoliste {#rename-an-account-list}
 
@@ -85,7 +85,7 @@ Zusätzlich zu den Kontolisten können Sie auch dynamische Kontolisten erstellen
 
    ![](assets/five.png)
 
-1. Klicken **Löschen**.
+1. Klicks **Löschen**.
 
    ![](assets/six.png)
 

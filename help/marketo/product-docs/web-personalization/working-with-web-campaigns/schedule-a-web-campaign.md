@@ -43,7 +43,7 @@ Sie können die Webkampagne auf der Grundlage der Zeit des Webbesuchers oder ein
    >
    >Mit der Standardeinstellung werden Kampagnen in der Zeitzone des Webbesuchers ausgeführt.
 
-1. Wählen Sie ein Startdatum und eine Startzeit sowie ein Enddatum und eine Endzeit aus.
+1. Wählen Sie ein Startdatum und eine Startzeit sowie Enddatum und -zeit aus.
 
    ![](assets/image2016-1-14-8-3a16-3a12.png)
 
@@ -55,7 +55,7 @@ Sie können die Webkampagne auf der Grundlage der Zeit des Webbesuchers oder ein
 
    ![](assets/image2016-1-14-8-3a19-3a37.png)
 
-1. Klicken **Zeitplan**.
+1. Klicks **Zeitplan**.
 
    ![](assets/image2016-1-14-8-3a27-3a55.png)
 

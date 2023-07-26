@@ -17,8 +17,8 @@ Das Plug-in Sales Connect für Gmail wird über eine Browsererweiterung ausgefü
 
 1. In **Chrome** klicken Sie auf die drei Zeilen in der oberen rechten Ecke des Browser-Fensters.
 
-1. Klicken **Weitere Tools**.
+1. Klicks **Weitere Tools**.
 
-1. Klicken **Erweiterungen**.
+1. Klicks **Erweiterungen**.
 
 1. Klicken Sie auf das Papierkorbsymbol neben **ToutApp für Chrome**.

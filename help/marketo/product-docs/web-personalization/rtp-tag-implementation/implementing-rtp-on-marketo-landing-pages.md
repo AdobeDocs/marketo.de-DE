@@ -19,7 +19,7 @@ Befolgen Sie zur Implementierung Ihres RTP-Tags die folgenden Installationsanwei
 
    ![](assets/image2015-4-26-18-3a27-3a4.png)
 
-1. Nehmen Sie Ihre Vorlagenänderungen an der **HTML Source** Registerkarte.
+1. Nehmen Sie Ihre Vorlagenänderungen an der **HTML-Source** Registerkarte.
 
    ![](assets/image2015-4-26-18-3a28-3a17.png)
 
@@ -29,7 +29,7 @@ Befolgen Sie zur Implementierung Ihres RTP-Tags die folgenden Installationsanwei
 
    ![](assets/image2014-11-30-15-3a19-3a21-2.png)
 
-1. Suchen Sie unter &quot;Domain&quot;die entsprechende Domäne und klicken Sie auf **Tag generieren**.
+1. Suchen Sie unter Domäne die entsprechende Domäne und klicken Sie auf **Tag generieren**.
 
    ![](assets/image2015-4-26-18-3a27-3a35.png)
 
@@ -37,7 +37,7 @@ Befolgen Sie zur Implementierung Ihres RTP-Tags die folgenden Installationsanwei
 
 1. Kopieren Sie das RTP-JavaScript-Tag und fügen Sie es in alle Landingpage-Vorlagen zwischen den **`<head> </head>`** Tags.
 
-1. Klicken **Speichern** und **Schließen** das Fenster.
+1. Klicks **Speichern** und **Schließen** das Fenster.
 
 1. Zurück im **Design Studio** validieren Sie die Landingpage über **Vorlagenaktionen** klicken **Genehmigen**.
 

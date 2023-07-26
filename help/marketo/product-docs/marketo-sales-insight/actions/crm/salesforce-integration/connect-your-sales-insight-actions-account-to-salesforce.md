@@ -28,7 +28,7 @@ Führen Sie diese einfachen Schritte aus, um das Konto &quot;Sales Insight Actio
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-3.png)
 
-1. Klicken **OK**.
+1. Klicks **OK**.
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-4.png)
 
@@ -46,7 +46,7 @@ Führen Sie diese einfachen Schritte aus, um das Konto &quot;Sales Insight Actio
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-7.png)
 
-1. Klicken **OK**.
+1. Klicks **OK**.
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-8.png)
 

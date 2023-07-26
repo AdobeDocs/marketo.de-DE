@@ -21,7 +21,7 @@ Mit separaten Programmen können Sie dann die Anzahl der Konversionen von jedem 
 
 >[!PREREQUISITES]
 >
->* Richten Sie ein Kanal-Tag mit Statuswerten und Programmerfolg ein (z. B. Digital Advertising oder Social Paid und PPC)
+>* Richten Sie ein Kanal-Tag mit Statuswerten und Programmerfolg ein (z. B. digitale Werbung oder Social Paid und PPC)
 >* Erstellen oder bearbeiten Sie ein Formular, um eine Abfragezeichenfolge an die Person weiterzugeben
 >* Stellen Sie sicher, dass Sie Zugriff auf einige Analytics-Funktionen von Umsatzzyklen haben, um Berichte zu Ihren Anzeigenkanälen und -kampagnen zu erstellen.
 
@@ -33,7 +33,7 @@ Im Gegensatz zu einigen Programmen (wie E-Mails), die für einen bestimmten Zeit
 
    ![](assets/login-marketing-activities-5.png)
 
-1. Klicken **Neu** und wählen Sie **Neues Programm**.
+1. Klicks **Neu** und wählen **Neues Programm**.
 
    ![](assets/image2016-3-14-15-52-0.png)
 
@@ -51,11 +51,11 @@ Im Gegensatz zu einigen Programmen (wie E-Mails), die für einen bestimmten Zeit
    >
    >Eine Abfragezeichenfolge, die über die URL übergeben wird, hilft Marketo dabei zu wissen, auf welche Anzeigenkampagne jemand geklickt hat, als er in Marketo eine Person wurde.
    >
-   >Sie können eine Abfragezeichenfolgen-Methode erstellen, die alle Variablen enthält, die Sie messen möchten. Marketo verwendet diese Variablen, um Ihren verschiedenen Programmen Personen hinzuzufügen.
+   >Sie können eine Abfragezeichenfolgenmethodik erstellen, die alle Variablen enthält, die Sie messen möchten. Marketo verwendet diese Variablen, um Ihren verschiedenen Programmen Personen hinzuzufügen.
    >
-   >Sie können beispielsweise Kanal type_Channel__Asset__Region verwenden. Dies könnte wie folgt aussehen: SP_FB_NewGuide_US. **Hinweis**: Abkürzungen sparen Platz.
+   >Sie können beispielsweise Kanal type_Channel__Asset__Region verwenden. Dies könnte wie folgt aussehen: SP_FB_NewGuide_US. **Hinweis**: Abkürzungen sparen Speicherplatz.
    >
-   >Oder richten Sie es als Channel_Adsource_AssetName_Region_UniqueIdNumber ein. Dies könnte wie folgt aussehen: Social-Paid_Facebook_NewGuide_NA_123.
+   >Oder richten Sie es als Channel_Adsource_AssetName_Region_UniqueIdNumber ein. Das könnte wie folgt aussehen: Social-Paid_Facebook_NewGuide_NA_123.
 
 ## Erstellen einer Smart-Kampagne für neue Namen {#create-a-smart-campaign-for-new-names}
 
@@ -65,7 +65,7 @@ Im Gegensatz zu einigen Programmen (wie E-Mails), die für einen bestimmten Zeit
 
    >[!NOTE]
    >
-   >Die in den beiden Triggern verwendete Abfragezeichenfolge und die **Programm, das den Namen erfasst hat** Filter ist für Sie eindeutig. Die hier gezeigten Abfragezeichenfolgen sind beispielsweise nur verfügbar. Wenn Sie das Feld geklont haben, ersetzen Sie einfach diese Felder.
+   >Die in den beiden Triggern verwendete Abfragezeichenfolge und die **Programm, das den Namen erfasst** Filter ist für Sie eindeutig. Die hier gezeigten Abfragezeichenfolgen sind beispielsweise nur verfügbar. Wenn Sie das Feld geklont haben, ersetzen Sie einfach diese Felder.
 
 1. Erstellen Sie einen Flussschritt, um das Attribut in **Akquiseprogramm** und setzen Sie den neuen Wert auf den Wert, den Sie für gebührenpflichtige Social-Media-Kampagnen definiert haben.
 
@@ -95,7 +95,7 @@ Sie benötigen eine zweite intelligente Kampagne, um den Status von Personen zu 
 
 Nachdem Sie das Programm und die Kampagnen eingerichtet haben, erstellen Sie die neue Anzeige.
 
-1. Wechseln Sie zum Kanal; z. B. LinkedIn oder Facebook.
+1. Wechseln Sie zum Kanal, z. B. LinkedIn oder Facebook.
 1. Erstellen Sie eine neue Anzeige.
 1. Wählen Sie eine Marketo-Landingpage als Ziel für den Aktionsaufruf in der Kampagne aus.
 1. Fügen Sie die Abfragezeichenfolge zur URL hinzu.
@@ -119,7 +119,7 @@ Nachdem Sie das Programm und die Kampagnen eingerichtet haben, erstellen Sie die
 
 Verwenden Sie ein einzelnes Kanal-Tag zur Darstellung aller digitalen Werbung oder mehrere Kanal-Tags, wenn Sie detailliertere Vergleiche mit Ihren anderen Marketing-Kanälen wünschen (z. B. Social-Paid, Search-Paid, Display, Retargeting).
 
-Richten Sie dann für jede gewünschte Berichtsansicht verschiedene Programme ein. Verwenden Sie eine allgemeine ID als Parameter in der URL (z. B. BC) in der Abfragezeichenfolge, wenn 10 Regionen eine &quot;Big Campaign&quot;gemeinsam starten und Ergebnisse regionsübergreifend anzeigen möchten.
+Richten Sie dann für jede benötigte Berichtsansicht verschiedene Programme ein. Verwenden Sie eine allgemeine ID als Parameter in der URL (z. B. BC) in der Abfragezeichenfolge, wenn 10 Regionen eine &quot;Big Campaign&quot;gemeinsam starten und Ergebnisse regionsübergreifend anzeigen möchten.
 
 Wenn Sie über jede Region und die gemeinsamen Ergebnisse der Big Campaign berichten möchten, erstellen Sie 11 Programme - eines für jede Region und eines für die Big Campaign. Jedes Programm verweist nur auf die relevanten Zeichen aus der Abfragezeichenfolge (z. B. BC).
 

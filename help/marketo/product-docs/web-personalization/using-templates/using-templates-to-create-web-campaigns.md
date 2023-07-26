@@ -23,7 +23,7 @@ Beschleunigen und vereinfachen Sie den Erstellungsprozess von Webkampagnen mithi
 
    ![](assets/web-campaigns-hand.jpg)
 
-1. Klicken **Neue Web-Kampagne erstellen**.
+1. Klicks **Neue Web-Kampagne erstellen**.
 
    ![](assets/create-new-web-campaign-create-hand.jpg)
 
@@ -35,7 +35,7 @@ Beschleunigen und vereinfachen Sie den Erstellungsprozess von Webkampagnen mithi
 
    ![](assets/set-web-campaign-education.jpg)
 
-1. Klicken **Vorlagen**.
+1. Klicks **Vorlagen**.
 
    ![](assets/templates.png)
 
@@ -51,15 +51,15 @@ Beschleunigen und vereinfachen Sie den Erstellungsprozess von Webkampagnen mithi
    >
    >Wählen Sie für mobile Kampagnen eine Vorlage aus dem **mobile** Abschnitt.
 
-1. Passen Sie die Vorlage an.
+1. Anpassen der Vorlage.
 
    ![](assets/customize-template.jpg)
 
-1. Klicken **Speichern**.
+1. Klicks **Speichern**.
 
    ![](assets/click-save-hand.jpg)
 
-Gut gemacht! Haben Sie gesehen, wie viel Zeit Sie mit einer Vorlage gespart haben?
+Schön gemacht! Haben Sie gesehen, wie viel Zeit Sie mit einer Vorlage gespart haben?
 
 >[!MORELIKETHIS]
 >

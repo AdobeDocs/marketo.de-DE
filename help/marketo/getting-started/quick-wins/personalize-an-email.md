@@ -13,7 +13,7 @@ ht-degree: 10%
 
 # E-Mail personalisieren {#personalize-an-email}
 
-## Auftrag: Personalisieren von E-Mails durch Hinzufügen von Daten-Token {#mission-make-your-emails-personal-by-adding-data-tokens}
+## Auftrag: Personalisieren Sie Ihre E-Mails durch Hinzufügen von Daten-Token {#mission-make-your-emails-personal-by-adding-data-tokens}
 
 >[!PREREQUISITES]
 >
@@ -21,9 +21,9 @@ ht-degree: 10%
 >* [Massen-E-Mail senden](/help/marketo/getting-started/quick-wins/send-an-email.md){target="_blank"}
 >* [Schrittweises Lead-Nurturing](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md){target="_blank"}
 
-## Schritt 1: E-Mail zum Personalisieren auswählen {#step-select-an-email-to-personalize}
+## Schritt 1: E-Mail zur Personalisierung auswählen {#step-select-an-email-to-personalize}
 
-1. Wählen Sie eine der E-Mails aus, die in der [vorheriger Schnellsieg](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md){target="_blank"} und klicken Sie auf **[!UICONTROL Entwurf erstellen]**.
+1. Wählen Sie eine der E-Mails aus, die in der [vorheriger Schnellsieg](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md){target="_blank"} und klicken **[!UICONTROL Entwurf erstellen]**.
 
    ![](assets/personalize-an-email-1.png)
 
@@ -59,11 +59,11 @@ Wenn Sie einen Popup-Blocker nicht aktiviert haben, wird der E-Mail-Editor in ei
 
    ![](assets/personalize-an-email-7.png)
 
-1. Geben Sie &quot;Verkauf&quot;für die **Standardwert** und klicken Sie auf **Einfügen**.
+1. Geben Sie &quot;Verkauf&quot;für die **Standardwert** und klicken **Einfügen**.
 
    ![](assets/personalize-an-email-8.png)
 
-## Schritt 3: Fügen Sie den Namen des Leads zur E-Mail hinzu {#step-add-the-leads-name-to-the-email}
+## Schritt 3: Hinzufügen des Lead-Namens zur E-Mail {#step-add-the-leads-name-to-the-email}
 
 1. Wählen Sie den oberen bearbeitbaren Abschnitt aus, klicken Sie auf das Zahnradsymbol und wählen Sie **[!UICONTROL Bearbeiten]**.
 
@@ -85,11 +85,11 @@ Wenn Sie einen Popup-Blocker nicht aktiviert haben, wird der E-Mail-Editor in ei
    >
    >Fügen Sie immer einen Standardwert für Token hinzu. Dadurch wird sichergestellt, dass der Standardwert in der E-Mail angezeigt wird, wenn ein Teil der personenbezogenen Daten fehlt.
 
-1. Klicken **[!UICONTROL Speichern]**.
+1. Klicks **[!UICONTROL Speichern]**.
 
    ![](assets/personalize-an-email-13.png)
 
-1. under **[!UICONTROL E-Mail-Aktionen]** und wählen Sie **[!UICONTROL Genehmigen und schließen]**.
+1. under **[!UICONTROL E-Mail-Aktionen]** und wählen **[!UICONTROL Genehmigen und schließen]**.
 
    ![](assets/personalize-an-email-14.png)
 

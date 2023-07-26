@@ -18,7 +18,7 @@ Gehen Sie wie folgt vor, um zu erfahren, wie Sie Ihren E-Mail-Vorlagen Hyperlink
 
    ![](assets/add-hyperlinked-text-1.png)
 
-1. Klicken **Bearbeiten**.
+1. Klicks **Bearbeiten**.
 
    ![](assets/add-hyperlinked-text-2.png)
 
@@ -30,10 +30,10 @@ Gehen Sie wie folgt vor, um zu erfahren, wie Sie Ihren E-Mail-Vorlagen Hyperlink
 
    ![](assets/add-hyperlinked-text-4.png)
 
-1. Klicken **Speichern** erneut.
+1. Klicks **Speichern** erneut.
 
    ![](assets/add-hyperlinked-text-5.png)
 
 >[!NOTE]
 >
->Wenn die bearbeitete Vorlage in Kampagnen derzeit als E-Mail-Schritt verwendet wird, haben Sie die Möglichkeit, den Wortlaut für bestimmte (oder alle) Kampagnen zu aktualisieren.
+>Wenn die von Ihnen bearbeitete Vorlage in Kampagnen derzeit als E-Mail-Schritt verwendet wird, haben Sie die Möglichkeit, den Wortlaut für bestimmte (oder alle) Kampagnen zu aktualisieren.

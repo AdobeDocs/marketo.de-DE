@@ -23,7 +23,7 @@ Sie können festlegen, welche Kontakte in der E-Mail-Benachrichtigung angezeigt 
 
    ![](assets/image2016-7-25-14-3a2-3a53.png)
 
-1. Klicken **Plugin-Kontakt angeben**.
+1. Klicks **Plugin-Kontakt angeben**.
 
    ![](assets/image2016-7-25-14-3a7-3a27.png)
 
@@ -31,7 +31,7 @@ Sie können festlegen, welche Kontakte in der E-Mail-Benachrichtigung angezeigt 
 
    ![](assets/image2016-8-25-11-3a21-3a38.png)
 
-1. Klicken **Speichern**.
+1. Klicks **Speichern**.
 
    ![](assets/image2016-8-25-11-3a17-3a7.png)
 

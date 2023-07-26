@@ -23,7 +23,7 @@ Manchmal müssen Sie einen Standardbericht speichern, um ihn später erneut anzu
 
    ![](assets/image2015-4-20-16-3a57-3a42.png)
 
-1. Klicken **Berichtaktionen** und wählen Sie **Speichern unter**.
+1. Klicks **Berichtaktionen** und wählen **Speichern unter**.
 
    ![](assets/image2015-4-20-17-3a4-3a11.png)
 
@@ -41,4 +41,4 @@ Manchmal müssen Sie einen Standardbericht speichern, um ihn später erneut anzu
 
 >[!MORELIKETHIS]
 >
->Erfahren Sie, wie Sie [einen Bericht zur Gruppierung von Berichten klonen](/help/marketo/product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md).
+>Erfahren Sie, wie [einen Bericht zur Gruppierung von Berichten klonen](/help/marketo/product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md).

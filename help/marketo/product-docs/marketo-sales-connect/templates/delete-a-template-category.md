@@ -15,7 +15,7 @@ ht-degree: 0%
 
 1. Klicken Sie auf das Menüsymbol neben einer Kategorie und dann auf **Löschen**.
 
-1. Klicken **Löschen** zur Bestätigung.
+1. Klicks **Löschen** zur Bestätigung.
 
 >[!NOTE]
 >

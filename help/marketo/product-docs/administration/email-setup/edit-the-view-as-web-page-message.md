@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2360253
 description: Bearbeiten Sie die Meldung "Als Webseite anzeigen"- Marketo Docs - Produktdokumentation
-title: Bearbeiten Sie die Meldung "Als Webseite anzeigen".
+title: Bearbeiten Sie die Meldung "Als Webseite anzeigen"
 exl-id: 5541fe6c-7297-4277-8355-ba7b4ac73e2e
 feature: Email Setup
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,7 +11,7 @@ ht-degree: 8%
 
 ---
 
-# Bearbeiten Sie die Meldung &quot;Als Webseite anzeigen&quot;. {#edit-the-view-as-web-page-message}
+# Bearbeiten Sie die Meldung &quot;Als Webseite anzeigen&quot; {#edit-the-view-as-web-page-message}
 
 Wenn Sie die[Als Webseite anzeigen](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)&quot; Text, so ist es.
 
@@ -19,13 +19,13 @@ Wenn Sie die[Als Webseite anzeigen](/help/marketo/product-docs/email-marketing/g
 >
 >**Erforderliche Administratorberechtigungen**
 
-## Bearbeiten Sie die Meldung &quot;Als Webseite anzeigen&quot;. {#edit-the-view-as-web-page-message-1}
+## Bearbeiten Sie die Meldung &quot;Als Webseite anzeigen&quot; {#edit-the-view-as-web-page-message-1}
 
 1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
 
    ![](assets/edit-the-view-as-web-page-message-1.png)
 
-1. Klicken **[!UICONTROL Email]**.
+1. Klicks **[!UICONTROL Email]**.
 
    ![](assets/edit-the-view-as-web-page-message-2.png)
 

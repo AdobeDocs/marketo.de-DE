@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10100257
-description: Häufig gestellte Fragen zu E-Mail-Insights - Marketo-Dokumente - Produktdokumentation
+description: Häufig gestellte Fragen zu Email Insights - Marketo-Dokumente - Produktdokumentation
 title: Häufig gestellte Fragen zu E-Mail-Insights
 exl-id: de3aca5a-08b4-4af8-ab92-675cb46dcbb2
 feature: Reporting
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 ## Gibt es Unterschiede zwischen den Quotenmetriken mit E-Mail-Insights und anderen Marketo-E-Mail-Berichten? {#are-there-any-differences-between-ratio-metrics-with-email-insights-and-other-marketo-email-reporting}
 
-Ja. E-Mail-Insights ordnet Interaktionsmetriken den entsprechenden Versandmetriken für dieselbe E-Mail zu, die gesendet wird, wenn Interaktionsmetrikverhältnisse berechnet werden (Öffnungsrate, Klickrate, Abmelderate). Wenn Sie beispielsweise in E-Mail-Insights ein Zeitreihendiagramm der letzten Woche mit täglichen Aufschlüsselungen der Klickrate zur Offline-Rate betrachten, zeigen wir jetzt das tatsächliche korrelierte Verhältnis von Öffnungs-/Klick-/Abmeldeereignissen basierend auf den entsprechenden Versandmetriken. Dies steht im Gegensatz zum Verhalten im Umsatz-Explorer, der einfach alles zusammenfasst. Email Insights bietet eine genauere Ansicht der Interaktionsverhältnisse.
+Ja. E-Mail-Insights ordnet Interaktionsmetriken den entsprechenden Versandmetriken für dieselbe E-Mail zu, die gesendet wird, wenn Interaktionsmetrikverhältnisse berechnet werden (Öffnungsrate, Klickrate, Abmelderate). Wenn Sie beispielsweise in E-Mail-Insights ein Zeitreihendiagramm der letzten Woche mit täglichen Aufschlüsselungen der Klickrate zur Offline-Rate betrachten, wird jetzt das tatsächliche korrelierte Verhältnis zwischen Öffnungs-/Klick-/Abmeldeereignissen basierend auf den entsprechenden Versandmetriken angezeigt. Dies steht im Gegensatz zum Verhalten im Umsatz-Explorer, der einfach alles zusammenfasst. Email Insights bietet eine genauere Ansicht der Interaktionsverhältnisse.
 
-## Warum unterstützt Email Insights nur 10 benutzerdefinierte Dimensionen? {#why-does-email-insights-only-support-custom-dimensions}
+## Warum unterstützt Email Insights nur 10 benutzerspezifische Dimensionen? {#why-does-email-insights-only-support-custom-dimensions}
 
 Für viele Anwendungsfälle ist die Erweiterung der standardmäßigen Systemdimensionen um 10 zusätzliche benutzerdefinierte Dimensionen mehr als ausreichend und umfasst benutzerdefinierte Dimensionen, die auf Segmentierungen oder Programm-Tags basieren. In Zukunft wird geplant, Kunden zu erlauben, die Anzahl der zulässigen benutzerdefinierten Dimensionen zu erhöhen.
 
@@ -31,7 +31,7 @@ Ja. Alle E-Mails, die über Marketo Sales Insights gesendet werden, sind in Emai
 
 ## Unterstützt Email Insights operative E-Mails? {#does-email-insights-support-operational-emails}
 
-Ja. Standardmäßig sind operative E-Mails von Ansicht und Abfrage ausgeblendet. Sie können diese Einstellung jedoch im Bedienfeld Persönliche Einstellungen ändern.
+Ja. Standardmäßig werden operative E-Mails für Ansicht und Abfrage ausgeblendet. Sie können diese Einstellung jedoch im Bedienfeld Persönliche Einstellungen ändern.
 
 ## Erfasst E-Mail-Insights wiederkehrende geplante oder erneut ausgeführte E-Mail-Flow-Schritte für Smart-Campaign? {#does-email-insights-capture-recurring-scheduled-or-re-run-smart-campaign-email-flow-steps}
 

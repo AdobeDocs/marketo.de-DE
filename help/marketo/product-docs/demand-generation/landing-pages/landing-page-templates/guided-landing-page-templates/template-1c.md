@@ -21,7 +21,7 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 * Ein primärer Abschnitt
 
-   * enthält ein Video, eine Kopfzeile, einen Textkörper und eine Schaltfläche.
+   * enthält ein Video, eine Kopfzeile, Text und eine Schaltfläche.
 
 * Drei Hauptteilabschnitte (optional)
 * Fußzeile (optional)

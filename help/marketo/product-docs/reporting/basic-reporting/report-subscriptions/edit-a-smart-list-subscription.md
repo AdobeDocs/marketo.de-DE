@@ -37,7 +37,7 @@ Sie können diese Spalten direkt auf der Registerkarte Abonnements bearbeiten, d
 
    ![](assets/image2015-9-14-10-3a30-3a37.png)
 
-1. Öffnen Sie die **Spalten** und verwenden Sie die Auswahl, um Spalten aus dem Bericht hinzuzufügen oder zu entfernen. Berichtsspalten enthalten alle verfügbaren Spalten und Marketo-Spalten zeigen nur die Spalten an, die Sie für die Anzeige in Ihrem Bericht ausgewählt haben. Klicken **Speichern**.
+1. Öffnen Sie die **Spalten** und verwenden Sie die Auswahl, um Spalten aus dem Bericht hinzuzufügen oder zu entfernen. Berichtsspalten enthalten alle verfügbaren Spalten und Marketo-Spalten zeigen nur die Spalten an, die Sie für die Anzeige in Ihrem Bericht ausgewählt haben. Klicks **Speichern**.
 
    ![](assets/image2015-9-14-10-3a59-3a6.png)
 
@@ -45,7 +45,7 @@ Sie können diese Spalten direkt auf der Registerkarte Abonnements bearbeiten, d
    >
    >Die Spalten unter Marketo-Spalten sind die Berichtsspalten, nicht die im Tab Abonnementbericht verwendeten.
 
-1. Klicken Sie auf **Enddatum** zum Bearbeiten des Enddatums. Auswählen **Nie** oder **Datum**. Geben Sie ein Datum ein oder wählen Sie es aus dem Kalender aus. Klicken **Genehmigen**.
+1. Klicken Sie auf **Enddatum** zum Bearbeiten des Enddatums. Auswählen **Nie** oder **Datum**. Geben Sie ein Datum ein oder wählen Sie es aus dem Kalender aus. Klicks **Genehmigen**.
 
    ![](assets/image2015-9-14-11-3a6-3a38.png)
 

@@ -24,7 +24,7 @@ ht-degree: 17%
 >* [Landing Page mit Formular](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
 >* [Anpassen der Landingpage-URL mit einem CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md){target="_blank"}
 
-## Schritt 1: Neue Weiterleitungsregel starten {#step-start-a-new-redirect-rule}
+## Schritt 1: Starten einer neuen Umleitungsregel {#step-start-a-new-redirect-rule}
 
 1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
 

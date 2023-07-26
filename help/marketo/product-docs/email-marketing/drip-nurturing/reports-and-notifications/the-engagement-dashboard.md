@@ -63,7 +63,7 @@ Eine Liste aller Inhalte, sortiert nach dem höchsten Interaktionswert.
 
 ![](assets/image2014-9-15-16-3a46-3a54.png)
 
-Um die Sortierung zu ändern, klicken Sie auf das Zahnradsymbol und wählen Sie dann die Sortierreihenfolge aus.
+Klicken Sie zum Ändern der Sortierung auf das Zahnradsymbol und wählen Sie dann die Sortierreihenfolge aus.
 
 ![](assets/image2014-9-15-16-3a46-3a58.png)
 

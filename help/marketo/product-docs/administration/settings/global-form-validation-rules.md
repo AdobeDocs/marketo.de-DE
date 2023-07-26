@@ -22,7 +22,7 @@ Bevor Sie diese Funktion verwenden können, müssen Sie ihre Berechtigung für j
 
    ![](assets/global-form-validation-rules-1.png)
 
-1. Klicken **[!UICONTROL Benutzer und Rollen]**.
+1. Klicks **[!UICONTROL Benutzer und Rollen]**.
 
    ![](assets/global-form-validation-rules-2.png)
 
@@ -38,7 +38,7 @@ Bevor Sie diese Funktion verwenden können, müssen Sie ihre Berechtigung für j
 
    ![](assets/global-form-validation-rules-5.png)
 
-1. Scrollen Sie nach unten und wählen Sie **[!UICONTROL Auf Formularvalidierungsregeln zugreifen]** und klicken Sie auf **[!UICONTROL Speichern]**.
+1. Scrollen Sie nach unten und wählen Sie **[!UICONTROL Auf Formularvalidierungsregeln zugreifen]** und klicken **[!UICONTROL Speichern]**.
 
    ![](assets/global-form-validation-rules-6.png)
 
@@ -52,11 +52,11 @@ Bevor Sie diese Funktion verwenden können, müssen Sie ihre Berechtigung für j
 
    ![](assets/global-form-validation-rules-7.png)
 
-1. Klicken **[!UICONTROL Regel für globale Formularüberprüfung]**.
+1. Klicks **[!UICONTROL Regel für globale Formularüberprüfung]**.
 
    ![](assets/global-form-validation-rules-8.png)
 
-1. Klicken **[!UICONTROL Neue Formularvalidierungsregel]**.
+1. Klicks **[!UICONTROL Neue Formularvalidierungsregel]**.
 
    ![](assets/global-form-validation-rules-9.png)
 

@@ -17,7 +17,7 @@ Smart-Kampagnen und E-Mail-Programme verfügen über eine leistungsstarke Funkti
 
 ## Vorläufig {#tentative}
 
-Vorsätzliche Datumsangaben vermitteln Absicht. Stellen Sie sich Folgendes vor: _Peking_ etwas im Kalender. Tentative Einträge werden nicht ausgeführt - sie sind nur Platzhalter.
+Vorsätzliche Datumsangaben vermitteln die Absicht. Stellen Sie sich Folgendes vor: _Peking_ etwas im Kalender. Tentative Einträge werden nicht ausgeführt - sie sind nur Platzhalter.
 
 ![](assets/image2014-9-23-15-3a22-3a23.png)
 
@@ -25,7 +25,7 @@ Vorsätzliche Datumsangaben vermitteln Absicht. Stellen Sie sich Folgendes vor: 
 >
 >Nur Batch-Smart-Kampagnen und E-Mail-Programme können vorläufig sein.
 
-## Bestätigung der Einträge {#confirming-entries}
+## Bestätigung von Einträgen {#confirming-entries}
 
 Dies entspricht dem Genehmigen eines Assets. Daher müssen die Einträge vollständig eingerichtet sein, bevor Sie sie bestätigen können. Sobald alle Enten in einer Reihe sind, können Sie die Einsendungen bestätigen, indem Sie den entsprechenden Tab nach rechts schieben.
 

@@ -37,7 +37,7 @@ Verweisangebote geben den Menschen einen Anreiz, ihre Freunde zu verweisen. Erst
 
    Der Editor für Verweise wird in einem neuen Fenster geöffnet. Die Standardeinstellungen sind alle gut, Sie müssen jedoch einen Link zu den Regeln Ihres Angebots (Bedingungen) hinzufügen. Der Link wird unten auf den Bildschirmen zur Freigabe von Nachrichten angezeigt. Wir zeigen Ihnen wie im nächsten Schritt.
 
-1. Klicken **Erweiterte Optionen**.
+1. Klicks **Erweiterte Optionen**.
 
    ![](assets/image2014-9-19-11-3a3-3a49.png)
 
@@ -49,11 +49,11 @@ Verweisangebote geben den Menschen einen Anreiz, ihre Freunde zu verweisen. Erst
    >
    >Auf diesem Bildschirm können Sie auch einen Link zu Datenschutzrichtlinien hinzufügen. Siehe  [Hinzufügen Ihrer Datenschutzrichtlinie zu einer Social App](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md).
 
-1. Klicken **Beenden**.
+1. Klicks **Beenden**.
 
    ![](assets/image2014-9-19-11-3a4-3a4.png)
 
-1. Klicken **Genehmigen und schließen**.
+1. Klicks **Genehmigen und schließen**.
 
    >[!TIP]
    >

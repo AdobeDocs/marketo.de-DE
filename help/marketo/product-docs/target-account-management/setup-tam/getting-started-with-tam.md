@@ -21,13 +21,13 @@ Marketo TAM zu Ihrer Instanz hinzufügen? Sehr gut! Sehen wir uns an, was du jet
 
 **Schritt 1: [Lizenz ausstellen](/help/marketo/product-docs/target-account-management/setup-tam/issue-a-license.md)** - Entscheiden Sie, wer in Ihrem Team TAM verwenden wird.
 
-**Schritt 2: Satz [Berechtigungen](/help/marketo/product-docs/target-account-management/setup-tam/permissions.md)** - Weisen Sie bestimmten Benutzern bestimmte Aspekte von TAM zu oder gewähren Sie einfach vollständigen TAM-Zugriff.
+**Schritt 2: Festlegen [Berechtigungen](/help/marketo/product-docs/target-account-management/setup-tam/permissions.md)** - Weisen Sie bestimmten Benutzern bestimmte Aspekte von TAM zu oder gewähren Sie einfach vollständigen TAM-Zugriff.
 
 **Schritt 3: Konfigurieren Sie Ihre [Kontobewertung](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md)** - Die Kontoauswertung ist eines der Schlüsselelemente der Target-Kontoverwaltung. Dies hilft Ihnen bei der Bestimmung der Interaktionsstufe jedes Kontos.
 
-**Schritt vier: [Erstellen eines benutzerdefinierten Felds für die CRM-Erkennung](/help/marketo/product-docs/target-account-management/setup-tam/create-a-custom-field-for-crm-discovery.md)** - Ordnen Sie ein vorhandenes Feld im CRM-Konto einem neuen benutzerdefinierten Feld namens Konto zu (wenn Sie kein CRM verwenden, überspringen Sie diesen Schritt).
+**Schritt vier: [Erstellen eines benutzerdefinierten Felds für die CRM-Erkennung](/help/marketo/product-docs/target-account-management/setup-tam/create-a-custom-field-for-crm-discovery.md)** - Ordnen Sie ein vorhandenes CRM-Konto-Feld einem neuen benutzerdefinierten Feld namens Konto zu (wenn Sie kein CRM verwenden, überspringen Sie diesen Schritt).
 
-**Schritt 5:** **_Erstellen von benannten Konten_** - Namensbasierte Konten enthalten die Personen aus den Unternehmen, die Sie anvisieren. Es gibt vier Möglichkeiten, ein benanntes Konto zu erstellen:
+**Schritt 5:** **_Spezifische Konten erstellen_** - Namensbasierte Konten enthalten die Personen aus den Unternehmen, die Sie anvisieren. Es gibt vier Möglichkeiten, ein benanntes Konto zu erstellen:
 
 * [Spezifische Konten importieren](/help/marketo/product-docs/target-account-management/target/named-accounts/import-named-accounts.md) - Laden Sie eine Liste der potenziellen Zielkonten direkt in TAM hoch (dies kann eine Liste sein, die Sie aus Ihrem CRM-System exportiert haben).
 * [CRM-Konten kennenlernen](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts) - Zeigen Sie eine Liste aller in Marketo synchronisierten CRM-Konten an und filtern Sie mithilfe von Schlüsselattributen (z. B. der Branche) nach benannten Konten.

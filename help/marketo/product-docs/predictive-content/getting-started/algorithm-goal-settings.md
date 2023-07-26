@@ -31,6 +31,6 @@ Mit den Algorithmuszieleinstellungen können Sie das Endziel des Algorithmus fü
    |---|---|
    | **Konvertierungen** | Inhalt anzeigen, der die Person, die den Inhalt betrachtet, am ehesten dazu veranlasst, ein Formular auszufüllen |
 
-1. Klicken **Speichern** wann geschehen.
+1. Klicks **Speichern** wann geschehen.
 
    ![](assets/four.png)

@@ -23,11 +23,11 @@ ht-degree: 0%
 
 Neue Benutzer müssen die folgenden Schritte ausführen.
 
-1. Klicken Sie in der Begrüßungs-E-Mail auf **Erste Schritte**.
+1. Klicken Sie in der Willkommens-E-Mail auf **Erste Schritte**.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-1.png)
 
-1. Klicken **Konto mit Salesforce aktivieren**.
+1. Klicks **Konto mit Salesforce aktivieren**.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-2.png)
 
@@ -39,15 +39,15 @@ Neue Benutzer müssen die folgenden Schritte ausführen.
 >
 >Ihre Salesforce-E-Mail-ID und die E-Mail-Adresse Ihres Verkaufskontos müssen identisch sein.
 
-1. Klicken **Zulassen**.
+1. Klicks **Zulassen**.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-4.png)
 
-1. Klicken **Starten**.
+1. Klicks **Starten**.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-5.png)
 
-1. Klicken **Nächste**.
+1. Klicks **Nächste**.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-6.png)
 
@@ -63,7 +63,7 @@ Neue Benutzer müssen die folgenden Schritte ausführen.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-9.png)
 
-1. Klicken **Weiter**.
+1. Klicks **Weiter**.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-10.png)
 
@@ -79,11 +79,11 @@ Neue Benutzer müssen die folgenden Schritte ausführen.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-12.png)
 
-1. Klicken **Beenden**.
+1. Klicks **Beenden**.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-13.png)
 
-1. Sie sehen die Option, einen schnellen Einstieg in Marketo-Verkaufsaktionen anzuzeigen. Klicken **Nächste** zum Anzeigen oder **Nicht jetzt** , um später zu speichern.
+1. Sie sehen die Option, einen schnellen Einstieg in Marketo-Verkaufsaktionen anzuzeigen. Klicks **Nächste** zum Anzeigen oder **Nicht jetzt** zum späteren Speichern.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-14.png)
 

@@ -25,7 +25,7 @@ Die Verwendung von Token kann Ihre Bemühungen in Marketo vereinfachen. Sie kön
 
    ![](assets/login-marketing-activities.png)
 
-1. Wählen Sie ein Programm oder einen Kampagnenordner aus. Klicken **Meine Token**.
+1. Wählen Sie ein Programm oder einen Kampagnenordner aus. Klicks **Meine Token**.
 
    ![](assets/image2014-9-18-12-3a4-3a27.png)
 
@@ -37,7 +37,7 @@ Die Verwendung von Token kann Ihre Bemühungen in Marketo vereinfachen. Sie kön
 
    ![](assets/image2014-9-18-12-3a4-3a53.png)
 
-1. Klicken **Speichern**.
+1. Klicks **Speichern**.
 
    ![](assets/image2014-9-18-12-3a5-3a5.png)
 
@@ -47,7 +47,7 @@ Die Verwendung von Token kann Ihre Bemühungen in Marketo vereinfachen. Sie kön
 
 ## Mein Token bearbeiten {#edit-a-my-token}
 
-1. Doppelklicken Sie auf die **Mein Token** und nehmen Sie Ihre Änderungen vor. Klicken **Speichern**.
+1. Doppelklicken Sie auf die **Mein Token** und nehmen Sie Ihre Änderungen vor. Klicks **Speichern**.
 
    ![](assets/image2014-9-18-12-3a5-3a45.png)
 
@@ -57,16 +57,16 @@ Die Verwendung von Token kann Ihre Bemühungen in Marketo vereinfachen. Sie kön
 >
 >Wenn Sie ein My Token löschen, stellen Sie sicher, dass Sie in keinem Asset darauf verweisen. Ein leeres Leerzeichen wird an allen Stellen angezeigt, auf die verwiesen wird, wenn es gelöscht wird.
 
-1. Klicken Sie mit der rechten Maustaste auf die **Mein Token**. Auswählen **Token löschen**.
+1. Rechtsklicken Sie auf die **Mein Token**. Auswählen **Token löschen**.
 
    ![](assets/image2014-9-18-12-3a7-3a24.png)
 
-1. Klicken **Löschen**.
+1. Klicks **Löschen**.
 
    ![](assets/image2014-9-18-12-3a7-3a31.png)
 
    >[!MORELIKETHIS]
    >
    >* [Token-Übersicht](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)
-   >* [Grundlegendes zu meinen Token in einem Programm](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)
+   >* [Grundlagen zu meinen Token in einem Programm](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)
    >* [Verwenden von URLs in My Tokens](/help/marketo/product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)

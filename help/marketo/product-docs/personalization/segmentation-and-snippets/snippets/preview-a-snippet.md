@@ -23,7 +23,7 @@ Snippets sind Blöcke von dynamischen Inhalten, die sich basierend auf Segmentie
 
    ![](assets/designstudio-3.png)
 
-1. Klicken Sie auf Ihr Snippet und dann **Snippet in der Vorschau anzeigen**.
+1. Klicken Sie auf Ihr Snippet und dann **Snippet-Vorschau**.
 
    ![](assets/image2014-9-16-9-3a48-3a32.png)
 

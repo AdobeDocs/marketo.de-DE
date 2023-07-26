@@ -11,13 +11,13 @@ ht-degree: 4%
 
 ---
 
-# Best Practice: Organisieren Ihrer Programme {#best-practice-how-to-organize-your-programs}
+# Best Practice: Anleitung zur Organisation Ihrer Programme {#best-practice-how-to-organize-your-programs}
 
 Es gibt viele Möglichkeiten, den Baum in Marketingaktivitäten sowie den Inhalt eines einzelnen Programms zu organisieren. Einige Methoden sind jedoch besser und helfen Benutzern in Ihrer Marketingabteilung.
 
 >[!TIP]
 >
->Eines Tages (wenn Sie befördert werden!) jemand anderes wird versuchen, deine Programme zu verstehen. Eine gute Organisation wird ihnen helfen, schnell produktiv zu sein.
+>Eines Tages (wenn Sie befördert werden!) Jemand anderes wird versuchen, deine Programme zu verstehen. Eine gute Organisation wird ihnen helfen, schnell produktiv zu sein.
 
 ## Ordner {#folders}
 
@@ -55,7 +55,7 @@ Jedes der im Beispiel erwähnten Elemente ist ein Ordner. Beachten Sie, wie sie 
 
 >[!TIP]
 >
->Der Ordner &quot;Archiv&quot;ist eine spezielle Ordnerart, mit der Elemente aus ausgewählten Listen sowie aus Berichten entfernt werden können. Dies hilft Ihrem System, schneller zu laufen. Lernen [Weitere Informationen zu Ordnern](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md).
+>Der Ordner &quot;Archiv&quot;ist eine spezielle Ordnerart, mit der Elemente aus ausgewählten Listen sowie aus Berichten entfernt werden können. Dies hilft Ihrem System, schneller zu laufen. Lernen [mehr über Ordner](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md).
 
 Sie können sicherlich weitere Ordner hinzufügen, wenn Sie es für richtig halten. Denken Sie daran, dass zukünftige Generationen von Marketing-Experten in Ihrem Unternehmen mit Ihren Entscheidungen darüber leben, wie Sie Dinge benennen/organisieren.
 
@@ -91,7 +91,7 @@ Die oben erwähnte Organisation ermöglicht es Ihnen, Token in den Ordner &quot;
 
 ## Ereignisse {#events}
 
-Ein Ereignis weist in der Regel viele bewegliche Teile auf, darunter: Einladungen, Landingpages, Formulare, soziale Widgets und intelligente Kampagnen. Die Best Practice, sie zur einfachen Verwendung zu organisieren, ist die Phase des Ereignisses. Im Folgenden finden Sie ein Beispiel dafür, wie Ihr Ordnerbaum nach einem Ereignis suchen sollte.
+Ein Ereignis enthält in der Regel viele bewegte Teile, darunter Einladungen, Landingpages, Formulare, Social-Widgets und Smart-Kampagnen. Die Best Practice, sie zur einfachen Verwendung zu organisieren, ist die Phase des Ereignisses. Im Folgenden finden Sie ein Beispiel dafür, wie Ihr Ordnerbaum nach einem Ereignis suchen sollte.
 
 ![](assets/capture.png)
 
@@ -101,7 +101,7 @@ Lernen [Interaktionsprogramme](/help/marketo/product-docs/email-marketing/drip-n
 
 ## Operationelle Programme {#operational-programs}
 
-Diese werden für Datenbereinigungszwecke verwendet. Verfügen über Ordner für die Daten, zu denen die Programme ausgeführt wurden, und archivieren Sie dann die Ordner. Wenn Sie das Programm in die Praxis umsetzen, entziehen Sie es der Berichterstattung, was für diese Art von Aktivität gut ist.
+Diese werden für Datenbereinigungszwecke verwendet. Verfügen über Ordner für die Daten, zu denen die Programme ausgeführt wurden, und archivieren Sie dann die Ordner. Wenn Sie das Programm in die Praxis umsetzen, entziehen Sie es der Berichterstattung, was für diese Art von Aktivität von Vorteil ist.
 
 ## Verschachteln von E-Mail-Programmen {#nesting-email-programs}
 

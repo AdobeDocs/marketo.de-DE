@@ -10,13 +10,13 @@ ht-degree: 0%
 
 ---
 
-# Versionshinweise: Mai 2022 {#release-notes-may-22}
+# Mai 2022 - Versionshinweise {#release-notes-may-22}
 
 Unten finden Sie alle Funktionen der Version vom 22. Mai. Überprüfen Sie Ihre Adobe Marketo Engage-Edition auf Funktionsverfügbarkeit.
 
 >[!AVAILABILITY]
 >
->Mit einem Stern gekennzeichnete Funktionen (![star](assets/yellow-star.png)) sind kostenpflichtige Add-ons. Weitere Informationen erhalten Sie von Ihrem Marketo Engage-Support-Mitarbeiter.
+>Mit einem Stern (![star](assets/yellow-star.png)) sind kostenpflichtige Add-ons. Weitere Informationen erhalten Sie von Ihrem Marketo Engage-Support-Mitarbeiter.
 
 **_Vierteljährliche Versionen_**
 
@@ -24,21 +24,21 @@ Die folgenden Funktionen werden ab der Veröffentlichung auf **6. Mai 2022**, wo
 
 ## Native CRM-Integration {#native-crm-integration}
 
-**[Native VEE-CRM-Integration](/help/marketo/product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md){target="_blank"} (begrenzte Verfügbarkeit)**: Verbessern Sie die Interaktion mit Fachkräften im Gesundheitswesen durch die Synchronisierung der Aktivitäten zwischen Veeva CRM und Marketo Engage über die native Integration. Diese Integration ermöglicht es Marketingexperten, für Fachkräfte im Gesundheitswesen personalisiertere und nahtlose kanalübergreifende Erlebnisse zu erstellen. Wenden Sie sich an das Adobe Account Team (Ihren Kundenbetreuer), wenn Sie an einer Teilnahme interessiert sind.
+**[Native VEE-CRM-Integration](/help/marketo/product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md){target="_blank"} (begrenzte Verfügbarkeit)**: Verbessern Sie die Interaktion mit Fachkräften im Gesundheitswesen durch die Synchronisierung der Aktivitäten zwischen VEeva CRM und Marketo Engage über die native Integration. Diese Integration ermöglicht es Marketingexperten, für Fachkräfte im Gesundheitswesen personalisiertere und nahtlose kanalübergreifende Erlebnisse zu erstellen. Wenden Sie sich an das Adobe Account Team (Ihren Kundenbetreuer), wenn Sie an einer Teilnahme interessiert sind.
 
 ## Kanalübergreifende Orchestrierung {#cross-channel-orchestration}
 
-**Chatbot-Ereignisse für Dynamic Chat**: Verwenden Sie detailliertere Verhaltensdaten für Webbesucher, z. B. die Besuchszeit pro Seite, die Besuchszeit pro Site und den prozentualen Seitenbildlauf, um festzulegen, wann ein Chat-Dialogfeld angezeigt werden soll.
+**Chatbot-Ereignisse für Dynamic Chat**: Nutzen Sie detailliertere Verhaltensdaten für Webbesucher, z. B. die Besuchszeit pro Seite, die Besuchszeit pro Site und den prozentualen Seitenbildlauf, um festzulegen, wann ein Chat-Dialogfeld angezeigt werden soll.
 
 **PDF Einbetten für Dynamic Chat**: Erhöhen Sie die Interaktion und geben Sie sinnvolle Inhalte frei, indem Sie PDF in Chat-Dialogfelder einbetten und die Inhaltsleistung durch Interaktionsaktivitäten-Tracking messen.
 
 **Erweiterte Sprachunterstützung für Dynamic Chat**: Die Dynamic Chat-Benutzeroberfläche ist jetzt auch auf Französisch, Deutsch, Japanisch, Portugiesisch und Spanisch verfügbar. Chat-Dialogfelder können auch in diesen Sprachen konfiguriert werden.
 
-**Ausschluss von URLs für Dynamic Chat**: Sie können steuern, auf welchem Dynamic Chat Ihrer Webseiten bestimmte URLs von den Targeting-Kriterien ausgeschlossen werden.
+**Ausschluss von URLs für Dynamic Chat**: Steuern Sie, auf welchem Ihrer Webseiten-Dynamic Chat angezeigt wird, und schließen Sie bestimmte URLs aus den Targeting-Kriterien aus.
 
-**[Verbesserungen bei der Filterung der E-Mail-Bot-Aktivität](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"}**: Schützen Sie weiterhin den Zustand Ihrer Datenbank, indem Sie neben der vorhandenen IAB-Listen-Übereinstimmungskennung auch das Bot-Verhalten anhand von versteckten Link-Benutzeragenten oder IPs und Näherungsmustern identifizieren können. Zeigen Sie Bot-Aktivitätsstatistiken an, anhand derer Sie die Anzahl der für jeden Typ identifizierten Bot-Aktivitäten nachvollziehen können.
+**[Verbesserungen bei der Filterung der E-Mail-Bot-Aktivität](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"}**: Schützen Sie weiterhin den Zustand Ihrer Datenbank, indem Sie neben der vorhandenen IAB-Listen-Übereinstimmungskennung auch das Bot-Verhalten anhand von versteckten Link-Benutzeragenten oder IPs und Näherungsmustern identifizieren können. Zeigen Sie Bot-Aktivitätsstatistiken an, anhand derer Sie die Anzahl der für jeden Typ identifizierten Bot-Aktivitäten verstehen können.
 
-**[STS-Kopfzeile für E-Mail-Tracking-Links](/help/marketo/product-docs/administration/settings/email-tracking-link-headers.md){target="_blank"}**: Erfüllen Sie die Best Practices für die Sicherheit mit der Möglichkeit, sichere Transport Security-Header anzuwenden, um sicherzustellen, dass Traffic zu verfolgten Links immer sicher ist.
+**[STS-Kopfzeile für E-Mail-Tracking-Links](/help/marketo/product-docs/administration/settings/email-tracking-link-headers.md){target="_blank"}**: Erfüllen Sie die Best Practices für die Sicherheit mit der Möglichkeit, sichere Transport Security-Header anzuwenden, um sicherzustellen, dass der Traffic zu verfolgten Links immer sicher ist.
 
 ## Erlebnis der nächsten Generation {#modern-ux}
 
@@ -55,9 +55,9 @@ In der nächsten Generation stellen wir E-Mail-Vorlagendetailansicht in Design S
 ## API-Verbesserungen {#api-enhancements}
 
 * **Erweiterter API-Zugriff für CRM-aktivierte Abonnements**: Wir erweitern den API-Zugriff für Abonnements, für die eine CRM-Synchronisierung aktiviert ist, um Benutzern das Abrufen von Unternehmen, Chancen und Vertriebsmitarbeitern aus Marketo Engage zu ermöglichen.
-* **Unterstützung für &quot;ausgeblendete&quot;Datentypen in Forms**: Bietet die Möglichkeit, ausgeblendete Formularfelder über API zu verwalten.
+* **Unterstützung für &quot;ausgeblendete&quot;Datentypen in Forms**: Bietet die Möglichkeit, ausgeblendete Formularfelder über die API zu verwalten.
 * **Unterstützung mehrerer Vergleichswerte für isNot Form über Regeln**: Verwalten Sie die Sichtbarkeit von Formularfeldern basierend darauf, ob der Wert eines anderen Felds nicht einer der Werte in einer bestimmten Liste ist.
-* **Zulassen der Anzeige- und Sendewerte in Listen separat auswählen**: Legen Sie den Anzeigewert und den gesendeten Wert in einem Feld separat fest. Zeigen Sie beispielsweise den Namen eines Hotels an, senden Sie jedoch eine interne ID an das Backend.
+* **Zulassen der Anzeige- und Sendewerte in Listen separat auswählen**: Legt den Anzeigewert und den gesendeten Wert in einem Feld separat fest. Zeigen Sie beispielsweise den Namen eines Hotels an, senden Sie jedoch eine interne ID an das Backend.
 * **Zulassen der Einstellung &quot;Öffnungs-Tracking deaktivieren&quot;bei &quot;E-Mail erstellen oder aktualisieren&quot;**: Erstellen Sie eine E-Mail mit deaktiviertem Öffnungs-Tracking.
 
 ## Ankündigungen {#announcements}
@@ -66,7 +66,7 @@ In der nächsten Generation stellen wir E-Mail-Vorlagendetailansicht in Design S
 
 Die E-Mail-Überprüfung für Abonnements mit der Funktion &quot;Dialogfeld &quot;Anmeldung für eingeladene Benutzer&quot;oder bei denen eine einzelne E-Mail mit mehreren Benutzern verknüpft ist, fällt mit der Mai-Version zusammen. Abonnements, denen eine einzelne E-Mail mit mehreren Benutzern verknüpft ist, werden mit der E-Mail-Überprüfung aktiviert und erfordern, dass diese Benutzer den Konflikt beheben und eine eindeutige E-Mail pro Benutzer verwenden. Wenn die Funktion &quot;Dialogfeld für eingeladene Benutzer anmelden&quot;aktiviert ist, müssen über diese Funktion eingeladene Benutzer über eine eindeutige E-Mail-Adresse verfügen. Für Benutzer, die nur über diese Funktion eingeladen werden, muss die E-Mail-Adresse nicht eindeutig sein.
 
-**Änderung des Verhaltens von Archivordnern**: Mit dieser Version ist die Möglichkeit, neue Assets in Archivordnern zu erstellen, nicht mehr in den Baumstrukturkontextmenüs verfügbar. Menüoptionen zum Erstellen neuer Assets werden für alle Assets ausgeblendet. [Weitere Informationen finden Sie hier](https://nation.marketo.com/t5/product-discussions/archive-folder-change-in-may-2022-release/m-p/324369#M183235){target="_blank"}.
+**Verhaltensänderung bei Archivordnern**: Mit dieser Version ist die Möglichkeit, neue Assets in Archivordnern zu erstellen, nicht mehr in den Baumstrukturkontextmenüs verfügbar. Menüoptionen zum Erstellen neuer Assets werden für alle Assets ausgeblendet. [Weitere Informationen hier](https://nation.marketo.com/t5/product-discussions/archive-folder-change-in-may-2022-release/m-p/324369#M183235){target="_blank"}.
 
 **_Webinar zur Produktversion_**
 

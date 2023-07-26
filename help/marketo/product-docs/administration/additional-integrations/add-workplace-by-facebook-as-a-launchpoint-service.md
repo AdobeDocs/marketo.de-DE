@@ -11,12 +11,12 @@ ht-degree: 3%
 
 ---
 
-# Hinzufügen [!DNL Workplace By Facebook] as a [!DNL LaunchPoint] Diensleistung {#add-workplace-by-facebook-as-a-launchpoint-service}
+# Hinzufügen [!DNL Workplace By Facebook] as a [!DNL LaunchPoint] Dienst {#add-workplace-by-facebook-as-a-launchpoint-service}
 
 Es sind zwei Benachrichtigungstypen im [!DNL Workplace] Integration:
 
 * **Systembenachrichtigungen**: Get [!DNL Workplace] Benachrichtigungen zu wichtigen Ereignissen in Ihrer Marketo-Instanz, z. B. Warnungen zum aktuellen Kampagnenstatus und zu Problemen, die sofortige Aufmerksamkeit erfordern (CRM-Fehler und API-Beschränkungen).
-* **Interessante Momente**: Wenn eine [!DNL Marketo Insight] von einer bekannten Person über ein Verkaufskonto ausgelöst wurde, können Lead-Eigentümer über [!DNL Workplace]. Benachrichtigungen enthalten Lead-Informationen sowie Details zum Verkaufskonto.
+* **Interessante Momente**: Wenn ein [!DNL Marketo Insight] von einer bekannten Person über ein Verkaufskonto ausgelöst wurde, können Lead-Eigentümer über [!DNL Workplace]. Benachrichtigungen enthalten Lead-Informationen sowie Details zum Verkaufskonto.
 
 >[!NOTE]
 >
@@ -30,7 +30,7 @@ Es sind zwei Benachrichtigungstypen im [!DNL Workplace] Integration:
 
    ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-1.png)
 
-1. Klicken **[!UICONTROL LaunchPoint]**.
+1. Klicks **[!UICONTROL LaunchPoint]**.
 
    ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-2.png)
 
@@ -38,7 +38,7 @@ Es sind zwei Benachrichtigungstypen im [!DNL Workplace] Integration:
 
    ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-3.png)
 
-1. Geben Sie einen **[!UICONTROL Anzeigename]** für Ihre [!DNL Workplace] Integration. Im **[!UICONTROL Diensleistung]** Dropdown-Liste auswählen **[!UICONTROL Arbeitsplatz nach Facebook]**. Klicken Sie auf **[!UICONTROL Erstellen]**.
+1. Geben Sie einen **[!UICONTROL Anzeigename]** für Ihre [!DNL Workplace] Integration. Im **[!UICONTROL Dienst]** Dropdown-Liste auswählen **[!UICONTROL Arbeitsplatz nach Facebook]**. Klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-4.png)
 
@@ -46,7 +46,7 @@ Es sind zwei Benachrichtigungstypen im [!DNL Workplace] Integration:
 
    ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-5.png)
 
-1. Klicken **[!UICONTROL Autorisieren]**. Wird geöffnet [!DNL Workplace] auf einer neuen Registerkarte, auf der Sie die Autorisierung abschließen und Marketo die Berechtigung zum Abrufen von Informationen aus gewähren [!DNL Workplace].
+1. Klicks **[!UICONTROL Autorisieren]**. Wird geöffnet [!DNL Workplace] auf einer neuen Registerkarte, auf der Sie die Autorisierung abschließen und Marketo die Berechtigung zum Abrufen von Informationen aus gewähren [!DNL Workplace].
 
    ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-6.png)
 
@@ -58,7 +58,7 @@ Es sind zwei Benachrichtigungstypen im [!DNL Workplace] Integration:
 
    ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-8.png)
 
-1. Im [!DNL Workplace] Popup, wählen Sie eine [!DNL Facebook] Gruppe, in der Benachrichtigungen von Marketo veröffentlicht werden sollen (z. B. [!UICONTROL Partnerintegrationen]). Klicken **[!UICONTROL Installieren]**.
+1. Im [!DNL Workplace] Popup, wählen Sie eine [!DNL Facebook] Gruppe, in der Benachrichtigungen von Marketo veröffentlicht werden sollen (z. B. [!UICONTROL Partnerintegrationen]). Klicks **[!UICONTROL Installieren]**.
 
    ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-9.png)
 

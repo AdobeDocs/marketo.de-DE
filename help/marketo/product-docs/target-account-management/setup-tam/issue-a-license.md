@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # Lizenz ausstellen {#issue-a-license}
 
-Sie müssen Benutzer mit einer Lizenz für die Verwendung von TAM einrichten. Hier ist, wie man das macht.
+Sie müssen Benutzer mit einer Lizenz für die Verwendung von TAM einrichten. Hier ist, wie das geht.
 
 >[!NOTE]
 >
 >Die Anzahl der verfügbaren Lizenzen hängt von Ihrem Abonnement ab. Wenn Sie mehr benötigen, wenden Sie sich bitte an Ihren Vertriebsmitarbeiter.
 
-1. Klicken **Admin**.
+1. Klicks **Admin**.
 
    ![](assets/issue-a-license-1.png)
 
-1. Klicken **Benutzer und Rollen**. Wählen Sie den Benutzer aus, für den die Lizenz ausgestellt werden soll, und klicken Sie auf das **Ausstelllizenz** und wählen Sie **Verwaltung von Target-Konten**.
+1. Klicks **Benutzer und Rollen**. Wählen Sie den Benutzer aus, für den die Lizenz ausgestellt werden soll, und klicken Sie auf das **Ausstelllizenz** und wählen Sie **Verwaltung von Target-Konten**.
 
    ![](assets/issue-a-license-2.png)
 
-1. Überprüfen Sie die **Lizenz aktivieren** Kontrollkästchen und klicken Sie auf **Speichern**.
+1. Überprüfen Sie die **Lizenz aktivieren** aktivieren und auf **Speichern**.
 
    ![](assets/issue-a-license-3.png)
 

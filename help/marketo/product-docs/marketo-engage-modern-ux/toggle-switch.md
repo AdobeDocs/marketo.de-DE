@@ -16,7 +16,7 @@ Mit dem Umschalter können Sie zwischen der klassischen Benutzeroberfläche von 
 
 >[!NOTE]
 >
->Wenn die Option Umschalter aktiviert ist, werden alle vorhandenen Workflows automatisch gespeichert, bevor die UI geändert wird. Wenn ein Vorgang bereits ausgeführt wird (z. B.: Ein Asset wird derzeit genehmigt), erhalten Sie eine Fehlermeldung, die darauf hinweist, dass es sich um ein Asset handelt, das nach Abschluss des Vorgangs erneut geprüft werden sollte.
+>Wenn die Option Umschalter aktiviert ist, werden alle vorhandenen Workflows automatisch gespeichert, bevor die UI geändert wird. Wenn ein Vorgang bereits ausgeführt wird (z. B. wenn ein Asset gerade genehmigt wird), erhalten Sie eine Fehlermeldung, die darauf hinweist, dass es sich um ein Asset handelt, das nach Abschluss des Vorgangs erneut genehmigt werden soll.
 
 ## Aktivieren des Umschalters für einzelne Rollen {#enable-the-toggle-switch-for-individual-roles}
 
@@ -26,7 +26,7 @@ Aktivieren Sie den Umschalter für einzelne Rollen oder alle Rollen. So geht es.
 
    ![](assets/toggle-switch-1.png)
 
-1. Klicken **Neues Erlebnis**.
+1. Klicks **Neues Erlebnis**.
 
    ![](assets/toggle-switch-2.png)
 
@@ -50,7 +50,7 @@ So aktivieren Sie es für _all_ Funktionen verwenden, klicken Sie auf das Zahnra
 
 ![](assets/toggle-switch-6.png)
 
-Auswählen **Aktivieren für alle verfügbaren Funktionen** und klicken Sie auf **OK**.
+Auswählen **Aktivieren für alle verfügbaren Funktionen** und klicken **OK**.
 
 ![](assets/toggle-switch-7.png)
 
@@ -70,7 +70,7 @@ Die folgenden Funktionen sind derzeit in der modernen UX verfügbar (mit neuen F
 * Listenansicht der Landingpage
 * Details zur Landingpage-Vorlage
 * Liste der Landingpage-Vorlagen
-* Ansicht &quot;Snippet-Details&quot;
+* Ansicht &quot;Snippet Details&quot;
 * Ansicht &quot;Snippet List&quot;
 
 

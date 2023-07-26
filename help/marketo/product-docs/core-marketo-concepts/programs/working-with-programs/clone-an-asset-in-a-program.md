@@ -29,7 +29,7 @@ Klonen von Programmklonen _alles_. Manchmal möchten Sie nur ein Asset klonen. S
 
    ![](assets/image2014-9-23-15-3a56-3a12.png)
 
-1. Klicken Sie mit der rechten Maustaste auf das lokale Asset, das Sie klonen möchten. Klicken **Klonen**.
+1. Klicken Sie mit der rechten Maustaste auf das lokale Asset, das Sie klonen möchten. Klicks **Klonen**.
 
    ![](assets/image2014-9-23-15-3a56-3a25.png)
 

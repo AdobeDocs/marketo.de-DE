@@ -16,7 +16,7 @@ ht-degree: 2%
 
 ## Priorität {#priority}
 
-Die Priorität bestimmt, welches Dialogfeld ein Lead erhält, falls er für mehr als ein Feld qualifiziert ist. Sie wird zum ersten Mal festgelegt [Dialogfeld erstellen](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}. Sie können die Priorität eines vorhandenen Dialogfelds ändern, indem Sie es öffnen und **Dialogfelddetails** auf der Registerkarte Zielgruppenkriterien .
+Die Priorität bestimmt, welches Dialogfeld ein Lead erhält, falls er für mehr als ein Feld qualifiziert ist. Sie wird zum ersten Mal festgelegt [Erstellen eines Dialogfelds](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}. Sie können die Priorität eines vorhandenen Dialogfelds ändern, indem Sie es öffnen und **Dialogfelddetails** auf der Registerkarte Zielgruppenkriterien .
 
 ![](assets/audience-criteria-1.png)
 
@@ -34,7 +34,7 @@ Mit Ereignissen können Sie Besucher auf Basis des Bildlaufs oder der Dauer des 
 
    ![](assets/audience-criteria-4.png)
 
-1. Fügen Sie die URL der gewünschten Seite im [Target](#target) Abschnitt.
+1. Fügen Sie im [Target](#target) Abschnitt.
 
    ![](assets/audience-criteria-5.png)
 
@@ -74,9 +74,9 @@ Und das ist es!
 
 **Anonyme Personen**
 
-Es gibt eine einfache Möglichkeit, Personen gezielt anzusprechen, die noch nicht in Ihrer Datenbank sind. In diesem Beispiel zielen wir auf alle **Anonyme Personen** befindet sich im Gebiet von New York.
+Es gibt eine einfache Möglichkeit, Personen gezielt anzusprechen, die noch nicht in Ihrer Datenbank sind. In diesem Beispiel werden alle **Anonyme Personen** befindet sich im Gebiet von New York.
 
-1. Grab die **Personen-E-Mail** -Attribut fest und ziehen Sie es nach rechts.
+1. Grab die **Personen-Email** -Attribut fest und ziehen Sie es nach rechts.
 
    ![](assets/audience-criteria-12.png)
 
@@ -84,7 +84,7 @@ Es gibt eine einfache Möglichkeit, Personen gezielt anzusprechen, die noch nich
 
    ![](assets/audience-criteria-13.png)
 
-1. Grab die **Inferated State** Attribut hinzufügen und an die gewünschte Position ziehen _Attribut hier ziehen und ablegen_.
+1. Grab die **Abgegrenzter Status** Attribut hinzufügen und an die gewünschte Position ziehen _Attribut hier ziehen und ablegen_.
 
    ![](assets/audience-criteria-14.png)
 
@@ -117,7 +117,7 @@ Zulässige Formate:
 
 >[!NOTE]
 >
->Die Verwendung eines Sternchens dient als Platzhalter. Also `https://*.website.com` würde das Dialogfeld auf jeder Seite der Site platzieren, einschließlich Subdomains (z. B.: `support.website.com`). und `https://website.com/folder/*` würde das Dialogfeld auf jeder HTML-Seite im folgenden Ordner platzieren (z. B.: Nehmen wir in diesem Fall an, der Ordner ist &quot;Sport&quot;, also: website.com/sports/baseball.html, website.com/sports/football.html usw.).
+>Die Verwendung eines Sternchens dient als Platzhalter. Also `https://*.website.com` würde das Dialogfeld auf jeder Seite der Site platzieren, einschließlich Subdomains (z. B.: `support.website.com`). und `https://website.com/folder/*` würde das Dialogfeld auf jeder HTML-Seite im folgenden Ordner platzieren (z. B.: in diesem Fall ist der Ordner &quot;Sport&quot;, also: website.com/sports/baseball.html, website.com/sports/football.html usw.).
 
 **Ausschlüsse**
 

@@ -15,7 +15,7 @@ ht-degree: 3%
 
 Es gibt mehrere Möglichkeiten, wie Personen Mitglieder eines Interaktionsprogramms werden können:
 
-* [Zu Engagement-Programm hinzufügen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/add-to-engagement-program.md)
+* [Zu Interaktionsprogramm hinzufügen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/add-to-engagement-program.md)
 * [Ändern der Interaktionsprogrammkadenz](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md) Flussschritt
 * [Interaktionsprogramm-Stream ändern](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md) Flussschritt
 * [Ändern des Programmstatus](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) Flussschritt

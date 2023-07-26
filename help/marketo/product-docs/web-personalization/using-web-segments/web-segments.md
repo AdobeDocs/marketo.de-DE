@@ -64,12 +64,12 @@ Wenn Sie ein Segment in der Tabelle auswählen, werden im rechten Bereich zusät
 
 Zu diesen Details gehören:
 
-* Segmentname
+* Name des Segments
 * Erstellungsdatum des Segments
 * Die zugehörigen Kampagnen, die die mit dem Segment betriebenen Kampagnen anzeigen. Durch Klicken auf die Anzahl der Reaktionen gelangen Sie zur Kampagnenseite, auf der der Kampagnen-CTA (Aktionsaufruf) für das Segment angezeigt wird.
 * Die Anzahl der Übereinstimmungen (Anzahl der Besucher, die die Segmentkriterien erfüllten) für das Segment und die Anzahl der eindeutigen (individuellen) Besucher, die mit dem Segment übereinstimmten. Wenn Sie auf den Link &quot;Unique Visitor&quot;klicken, werden Sie zur Seite des Besuchers geleitet, auf der die Ergebnisse des Segments angezeigt werden.
 * Der Inhaber/Benutzer, der das Segment erstellt
-* Die mit dem Segment verknüpften Domänen-Sites
+* Die mit dem Segment verbundenen Domänen
 * Eine kurze Zusammenfassung der ausgewählten Kriterien des Segments
 
 ## Aktivieren oder Deaktivieren eines Segments {#enable-or-disable-a-segment}
@@ -84,7 +84,7 @@ Das erstellte Segment erfüllt alle spezifischen Kriterien, die Sie im **Segment
 
 So erstellen Sie ein neues Segment
 
-Aus dem **Segmente** Seite, klicken Sie auf **Neu erstellen** unter dem Diagramm. Der folgende Bildschirm wird angezeigt.
+Aus dem **Segmente** Seite, klicken **Neu erstellen** unter dem Diagramm. Der folgende Bildschirm wird angezeigt.
 
 ![](assets/four.png)
 
@@ -96,7 +96,7 @@ Definieren Sie allgemeine Parameter für Ihr Segment:
 * **Segmentregellogik:**  Wählen Sie eine UND/ODER-Logik aus, um jedes Segmentierungsattribut zu erstellen.
 * **Zeit:** Definieren Sie den Grad der Besucherinteraktion, den Sie in Ihrer Kampagne wünschen.
 
-   * **Bei Eintritt**: Interagieren des Besuchers gelangt auf die Website
+   * **Bei Eintritt**: Interagieren Sie vom Besucher auf die Website.
    * **Nach dem 1. bis 9. Klick**: Besucherinteraktion nach einer bestimmten Anzahl von Klicks auf die Website
 
 >[!TIP]
@@ -134,7 +134,7 @@ Ziehen Sie Segmentattribute aus der rechten Spalte in den Segmenteditor auf der 
 
 **Standort**
 
-Drag &amp; Drop **Standort** in den Segmenteditor ein.
+Drag &amp; Drop **Standort** in den Segmenteditor.
 
 * Wählen Sie aus den folgenden Parametern aus:
 
@@ -149,7 +149,7 @@ Nachdem das Land hinzugefügt wurde, können Sie auch das Bundesland, die Stadt 
 
 >[!TIP]
 >
->**Welche Segmentbedingungen wähle ich aus? &quot;AND&quot;oder &quot;OR&quot;?** OR fungiert in jedem Feld als zusätzliche Option. Die Aussichten müssen nur ein Kriterium aus mehreren Kriterien erfüllen, die in jedem Feld ausgewählt wurden, um für das Segment qualifiziert zu sein. (Zum Beispiel können potenzielle Kunden aus den USA kommen. *oder* der Verteidigungsindustrie). UND fungiert als zusätzlicher obligatorischer Parameter, der für dieses Segment erfüllt werden muss. (Zum Beispiel müssen die Aussichten sowohl aus den USA als auch aus der Verteidigungsindustrie stammen.) In jedem Segmentierungsprofil kann jedes separate Feld je nach ausgewählter Segmentbedingung entweder als &quot;AND&quot;oder als &quot;OR&quot;funktionieren.
+>**Welche Segmentbedingungen wähle ich aus? &quot;AND&quot;oder &quot;OR&quot;?** OR fungiert in jedem Feld als zusätzliche Option. Die Aussichten müssen nur ein Kriterium aus mehreren Kriterien erfüllen, die in jedem Feld ausgewählt wurden, um für das Segment qualifiziert zu sein. (Zum Beispiel können potenzielle Kunden aus den USA kommen. *oder* von der Verteidigungsindustrie). UND fungiert als zusätzlicher obligatorischer Parameter, der für dieses Segment erfüllt werden muss. (Zum Beispiel müssen die Aussichten sowohl aus den USA als auch aus der Verteidigungsindustrie stammen.) In jedem Segmentierungsprofil kann jedes separate Feld je nach ausgewählter Segmentbedingung entweder als &quot;AND&quot;oder als &quot;OR&quot;funktionieren.
 
 **Branchen** Unter dem **Profilsegmentierung** -Abschnitt, aktivieren Sie das Kontrollkästchen neben **Branche**.
 
@@ -164,10 +164,10 @@ Unter dem **Profilsegmentierung** -Abschnitt, aktivieren Sie das Kontrollkästch
 
 * Wählen Sie aus der Dropdown-Liste eine der folgenden Optionen aus:
 
-   * Fortune 500 - Schließt nur Fortune 500-Unternehmen in dieses Segment ein.
-   * Fortune 1000 - Schließt nur Fortune 1000-Unternehmen in dieses Segment ein.
+   * Fortune 500 - Enthält nur Fortune 500-Unternehmen in diesem Segment
+   * Fortune 1000 - Enthält nur Fortune 1000-Unternehmen in diesem Segment
    * Global 2000 - Einbeziehung der Global 2000-Unternehmen in dieses Segment
-   * Unternehmen - Umfasst Organisationen mit mehr als 1.000 Mitarbeitern und einem Umsatz von mehr als 250 Mio. US-Dollar
+   * Unternehmen - Umfasst Organisationen mit mehr als 1.000 Mitarbeitern und einem Umsatz von mehr als 250 Mio. USD
    * KMU - Schließt nur kleine und mittlere Unternehmen in dieses Segment ein
 
 **-Bekannte Kunden-**
@@ -207,7 +207,7 @@ Sie können Personendatenfelder über Kontoeinstellungen > Datenbank hinzufügen
 
 >[!TIP]
 >
->Erstellen Sie Ihre Segmentkriterien gemäß allen Personendatenfeldern von Marketo-Mitarbeitern, z. B. &quot;Auftragstitel&quot;. Punktzahl; Rolle; usw.
+>Erstellen Sie Ihre Segmentkriterien gemäß allen Personendatenfeldern von Marketo-Mitarbeitern, z. B. Titel, Punktzahl, Rolle usw.
 >
 >Z. B. &quot;Job Title equals CMO&quot;und &quot;Score ist kleiner oder gleich 50&quot;
 
@@ -230,7 +230,7 @@ Definieren Sie Ihr Segment entsprechend dem Status eines Interessenten: bekannt 
 
 * Anzahl der Besuche - Wählen Sie diese Option aus dem Dropdown-Feld aus, um die Anzahl der Besuche für Interessenten auf der Website anzugeben.
 
-   * Wählen Sie Gleich, Gleich oder Größer als oder Gleich oder Kleiner als aus dem Dropdown-Feld aus.
+   * Wählen Sie Gleich, Gleich oder Größer als oder Gleich oder Kleiner als aus dem Dropdownfeld aus.
 
 * Spezifische Besuche - Wählen Sie diese Option aus dem Dropdownfeld aus, um einen bestimmten Besucher anzugeben.
 
@@ -263,7 +263,7 @@ Ziehen Sie das mobile Betriebssystem in den Segmenteditor.
 ![](assets/image2015-5-27-17-3a45-3a3.png)
 
 * **Besuchertyp**<br />
-  **Mobilbetriebssystem** - Wählen Sie aus dem Dropdown-Feld ein oder mehrere aufgelistete mobile Betriebssysteme aus. Das ausgewählte mobile Betriebssystem wird unten angezeigt.
+  **Mobilbetriebssystem** - Wählen Sie aus dem Dropdownfeld ein oder mehrere aufgelistete mobile Betriebssysteme aus. Das ausgewählte mobile Betriebssystem wird unten angezeigt.
 
    * Der Besucher verwendet ein beliebiges Mobilgerät
    * Der Besucher verwendet dieses spezifische Gerät/Betriebssystem.
@@ -282,7 +282,7 @@ Targeting von Besuchern, die bestimmte Browsertypen und/oder Versionen verwenden
 
 **Datenereignisse** - Segmentieren von Besuchern, die bestimmte benutzerspezifische Datenereignisse Trigger haben
 
-Fügen Sie den Ereigniswert hinzu, den Sie als Ziel auswählen möchten. z. B. aus Datenquellen von Drittanbietern.
+Fügen Sie den Ereigniswert hinzu, den Sie als Ziel auswählen möchten. z. B. aus Datenquellen von Dritten.
 
 **Benutzerkontext-API**
 
@@ -290,7 +290,7 @@ Web Personalization-API-Aufruf  [Weitere Informationen dazu finden Sie hier .](h
 
 >[!TIP]
 >
->**Verwenden von Platzhaltern:** Wenn Sie Suchbegriffe oder URLs einbeziehen möchten, die etwas darin enthalten, d. h. &quot;[google.com](https://google.com)&quot; oder &quot;Suchbegriff Produkt&quot;, nennen wir dies einen Platzhalter und es sollte mit einem Sternchen eingegeben werden - dieser kleine Kerl&#42; - auf jeder Seite. Alles, was aus [google.com](https://google.com) als &#42; [google.com](https://google.com)&#42;
+>**Verwenden von Platzhaltern:** Wenn Sie Suchbegriffe oder URLs einbeziehen möchten, die etwas darin enthalten, d. h. &quot;[google.com](https://google.com)&quot; oder &quot;Suchbegriff Produkt&quot;, nennen wir dies einen Platzhalter und es sollte mit einem Sternchen eingegeben werden - dieser kleine Kerl&#42; - auf jeder Seite. Also alles, was aus [google.com](https://google.com) sollte als &#42; [google.com](https://google.com)&#42;
 
 ## Segmente bearbeiten {#edit-segments}
 
@@ -302,7 +302,7 @@ Sie können ein Segment bearbeiten, das erstellt wurde.
 
 1. Im **Segmente** auf das Bearbeitungssymbol ( ![](assets/segment-edit.png)) des Segments, das Sie bearbeiten möchten. Die **Segment festlegen** Seite mit dem ausgewählten Segment geöffnet.
 1. Wenden Sie alle Änderungen an, die Sie am Segment vornehmen möchten.
-1. Klicken **Speichern**.
+1. Klicks **Speichern**.
 
 ## Segmente löschen {#delete-segments}
 

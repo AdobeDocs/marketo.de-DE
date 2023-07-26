@@ -23,7 +23,7 @@ Eine wirklich coole Funktion von Marketo forms ist, dass Sie Formularfelder dyna
 >
 >**Beispiel**
 >
->In diesem Beispiel wird die **state** Feld, wenn **Land** als &quot;Vereinigte Staaten&quot;ausgewählt ist.
+>In diesem Beispiel wird die **Bundesland** Feld, wenn **Land** als &quot;Vereinigte Staaten&quot;ausgewählt ist.
 
 1. Navigieren Sie zu **Marketingaktivitäten**.
 
@@ -49,7 +49,7 @@ Eine wirklich coole Funktion von Marketo forms ist, dass Sie Formularfelder dyna
 
    ![](assets/image2014-9-15-15-3a16-3a50.png)
 
-1. Wählen Sie die Werte aus, nach denen gesucht werden soll, und klicken Sie dann außerhalb der Dropdown-Liste auf .
+1. Wählen Sie die zu suchenden Werte aus und klicken Sie dann außerhalb der Dropdown-Liste auf .
 
    ![](assets/image2014-9-15-15-3a17-3a4.png)
 
@@ -61,7 +61,7 @@ Eine wirklich coole Funktion von Marketo forms ist, dass Sie Formularfelder dyna
    >
    >Zuvor haben wir Land in einen Feldtyp vom Typ &quot;Auswahlliste&quot;konvertiert und [Alle Länder als Werte hinzugefügt](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md).
 
-1. Klicken **Speichern**.
+1. Klicks **Speichern**.
 
    ![](assets/image2014-9-15-15-3a18-3a15.png)
 

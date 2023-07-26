@@ -19,7 +19,7 @@ Verwenden Sie den Programm-Analyzer, um Ihre effektivsten und effizientesten Pro
 >
 >[Programm-Analyzer erstellen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
-1. Klicken **Analytics**.
+1. Klicks **Analytics**.
 
    ![](assets/image2014-9-17-18-3a50-3a30.png)
 

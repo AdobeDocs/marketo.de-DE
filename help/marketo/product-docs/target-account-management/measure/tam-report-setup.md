@@ -17,11 +17,11 @@ Der TAM-Verkaufsbericht ist eine wöchentliche, personalisierte E-Mail, die an d
 
 ## Berichtseinstellungen {#report-setup}
 
-1. Klicken **Admin**.
+1. Klicks **Admin**.
 
    ![](assets/one-3.png)
 
-1. Klicken **Verwaltung von Target-Konten**.
+1. Klicks **Verwaltung von Target-Konten**.
 
    ![](assets/tam-report-setup-2.png)
 
@@ -33,7 +33,7 @@ Der TAM-Verkaufsbericht ist eine wöchentliche, personalisierte E-Mail, die an d
 
    ![](assets/four-4.png)
 
-1. Um das Layout Ihrer E-Mail zu bestimmen, klicken Sie auf die Schaltfläche **Sortieren nach** und wählen Sie aus.
+1. Um das Layout Ihrer E-Mail zu bestimmen, klicken Sie auf das **Sortieren nach** und wählen Sie aus.
 
    ![](assets/five-3.png)
 
@@ -45,7 +45,7 @@ Der TAM-Verkaufsbericht ist eine wöchentliche, personalisierte E-Mail, die an d
    >
    >Benachrichtigungen werden nur an Kontoinhaber oder Teammitglieder gesendet.
 
-1. Klicken **Speichern**.
+1. Klicks **Speichern**.
 
    ![](assets/seven-2.png)
 
@@ -53,17 +53,17 @@ Und das ist es!
 
 ## Abmeldung {#how-to-unsubscribe}
 
-Jeder Bericht enthält die Option zum Abmelden. Klicken Sie dazu einfach auf **Abmelden** unten in der E-Mail.
+Jeder Bericht enthält die Option zum Opt-out. Klicken Sie dazu einfach auf **Abmelden** unten in der E-Mail.
 
 ![](assets/eight-1.png)
 
-## Neuanmeldung {#how-to-resubscribe}
+## Zurücksetzen der Anmeldung {#how-to-resubscribe}
 
-1. Klicken **Admin**.
+1. Klicks **Admin**.
 
    ![](assets/one-3.png)
 
-1. Klicken **Verwaltung von Target-Konten**.
+1. Klicks **Verwaltung von Target-Konten**.
 
    ![](assets/tam-report-setup-10.png)
 
@@ -71,7 +71,7 @@ Jeder Bericht enthält die Option zum Abmelden. Klicken Sie dazu einfach auf **A
 
    ![](assets/nine.png)
 
-1. Klicken Sie auf **Benutzer** Dropdown-Liste.
+1. Klicken Sie auf **Benutzer** angezeigt.
 
    ![](assets/ten.png)
 

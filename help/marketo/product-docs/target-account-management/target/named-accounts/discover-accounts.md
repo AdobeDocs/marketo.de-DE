@@ -27,7 +27,7 @@ Identifizieren Sie potenzielle Zielkonten aus Ihrem CRM-System.
 
 **Potenzielle Personen** (In Discover CRM-Konten und Discover Marketo-Unternehmen): Zeigt an, wie viele Leads Marketo gefunden hat, die möglicherweise zu einem CRM-Konto gehören könnten.
 
-**Benutzerdefiniertes CRM-Feld** (Nur in Discover CRM-Konten): Auf diese Weise können Sie Ihre Vertriebs- und Marketingorganisation auf die Auswahl der richtigen Zielkonten ausrichten. Einmal [Zuordnen des benutzerdefinierten CRM-Felds](/help/marketo/product-docs/target-account-management/setup-tam/create-a-custom-field-for-crm-discovery.md) Mit Marketo TAM zeigen wir Ihnen die zugeordneten Daten, die Ihnen bei der Identifizierung Ihrer Zielkonten helfen.
+**Benutzerdefiniertes CRM-Feld** (Nur in Discover CRM-Konten): Dies hilft Ihnen, Ihre Vertriebs- und Marketingorganisation auf die Auswahl der richtigen Zielkonten auszurichten. Einmal [Zuordnen des benutzerdefinierten CRM-Felds](/help/marketo/product-docs/target-account-management/setup-tam/create-a-custom-field-for-crm-discovery.md) Mit Marketo TAM zeigen wir Ihnen die zugeordneten Daten, die Ihnen bei der Identifizierung Ihrer Zielkonten helfen.
 
 1. Klicken Sie in &quot;Spezifische Konten&quot;auf die **Neu** und wählen Sie **CRM-Konten kennenlernen**.
 
@@ -75,7 +75,7 @@ Identifizieren Sie die richtigen Unternehmen für die Zielgruppenbestimmung.
    >
    >* Filtert die meisten Internet Service Provider und Public Domains (z. B. yahoo.com, gmail.com) als Unternehmensnamen heraus
    >
-   >* Dedupliziert CRM-Konten. Wenn Sie &quot;Acme&quot;in einem Datensatz und &quot;Acme Inc&quot; (oder eines der folgenden Suffixe) haben: Co, Corp, Corporation, GmbH, Inc, Incorporated, LLC, LLP, LP, Ltd, PA, PC, PLC, PLLC), werden wir sie in TAM als &quot;Acme&quot;zusammenführen.
+   >* Dedupliziert CRM-Konten. Wenn Sie &quot;Acme&quot;in einem Datensatz und &quot;Acme Inc&quot; (oder eines der folgenden Suffixe: Co, Corp, Corporation, GmbH, Inc, Incorporated, LLC, LLP, LP, Ltd, PA, PC, PLC, PLLC) haben, werden wir sie in TAM als &quot;Acme&quot;zusammenführen.
    >
    >Wenn Sie möchten, dass Marketo Konten nach CRM-ID oder Kontoinhaber anstatt nach Unternehmensname dedupliziert, wenden Sie sich an [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support).
 
@@ -95,7 +95,7 @@ Identifizieren Sie die richtigen Unternehmen für die Zielgruppenbestimmung.
 
    ![](assets/disc-comp-five.png)
 
-   ...und Sie sehen Ihr neues benanntes Konto. Klicken Sie an diesem Punkt auf **Nächste** wie in Schritt 4.
+   ... und Sie sehen Ihr neues benanntes Konto. Klicken Sie an diesem Punkt auf **Nächste** wie in Schritt 4.
 
    ![](assets/disc-comp-six.png)
 

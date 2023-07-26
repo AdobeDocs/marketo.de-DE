@@ -18,7 +18,7 @@ Die unten aufgeführten Artikel helfen Ihnen bei der Einrichtung von Marketo Eng
 
 Produktprofil und Produktadministratorerstellung.
 
-[Erstellen eines Produktprofils](/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#create-a-product-profile){target="_blank"}
+[Produktprofil erstellen](/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#create-a-product-profile){target="_blank"}
 
 [Produkt-Admin hinzufügen](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md#add-a-product-admin){target="_blank"}
 
@@ -38,7 +38,7 @@ Nur Marketo Engage-API-Benutzer müssen in Marketo Engage erstellt und verwaltet
 
 ## Benutzer über CSV hinzufügen {#add-users-via-csv}
 
-[Importieren einer CSV](https://helpx.adobe.com/enterprise/using/bulk-upload-users.html#add-users){target="_blank"}
+[CSV importieren](https://helpx.adobe.com/enterprise/using/bulk-upload-users.html#add-users){target="_blank"}
 
 ## Benutzeranmeldung {#user-sign-in}
 

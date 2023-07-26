@@ -23,11 +23,11 @@ Um zwischen Arbeitsbereichen in der Web-Personalisierung zu wechseln, klicken Si
 
 ## Ändern des Arbeitsbereichs eines Segments {#change-a-segments-workspace}
 
-1. Navigieren Sie zu **Segmente** ein Segment auswählen und auf das Bearbeitungssymbol klicken.
+1. Navigieren Sie zu **Segmente** , wählen Sie ein Segment aus und klicken Sie auf das Bearbeitungssymbol.
 
    ![](assets/ss4.png)
 
-1. Wählen Sie einen anderen Arbeitsbereich aus dem **Arbeitsbereich** Dropdown-Liste.
+1. Wählen Sie einen anderen Arbeitsbereich aus dem **Arbeitsbereich** angezeigt.
 
    ![](assets/ss6.png)
 

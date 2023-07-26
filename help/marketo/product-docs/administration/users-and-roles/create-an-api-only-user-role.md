@@ -13,7 +13,7 @@ ht-degree: 3%
 
 # Erstellen einer Benutzerrolle &quot;Nur API&quot; {#create-an-api-only-user-role}
 
-Wenn Sie die Integration mit Marketo über die [REST-API](https://developers.marketo.com/documentation/rest/), ist die Best Practice [Benutzern die Rolle &quot;Nur API&quot; zuweisen](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) und dann [Erstellen eines benutzerdefinierten Dienstes zur Verwendung mit der ReST-API](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md). So erstellen Sie nur die Benutzerrolle &quot;API&quot;.
+Wenn Sie die Integration mit Marketo über die [REST-API](https://developers.marketo.com/documentation/rest/), ist die Best Practice [Benutzern die Rolle Nur API zuweisen](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) und dann [Erstellen eines benutzerdefinierten Dienstes zur Verwendung mit der ReST-API](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md). So erstellen Sie nur die Benutzerrolle &quot;API&quot;.
 
 >[!NOTE]
 >
@@ -23,7 +23,7 @@ Wenn Sie die Integration mit Marketo über die [REST-API](https://developers.mar
 
    ![](assets/create-an-api-only-user-role-1.png)
 
-1. Klicken **[!UICONTROL Benutzer und Rollen]**.
+1. Klicks **[!UICONTROL Benutzer und Rollen]**.
 
    ![](assets/create-an-api-only-user-role-2.png)
 

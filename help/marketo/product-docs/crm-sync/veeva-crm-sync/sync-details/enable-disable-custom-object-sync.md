@@ -36,7 +36,7 @@ Benutzerdefinierte Objekte, die in Ihrer VEE CRM-Instanz erstellt wurden, könne
    >
    >Die Synchronisierung des benutzerdefinierten Objektschemas von Veeva kann einige Minuten dauern.
 
-1. Klicken **Schema aktualisieren**.
+1. Klicks **Schema aktualisieren**.
 
    ![](assets/enable-disable-custom-object-sync-4.png)
 
@@ -48,7 +48,7 @@ Wählen Sie das zu synchronisierende Objekt aus und klicken Sie auf Synchronisie
 >
 >Marketo kann ein benutzerdefiniertes Objekt nur dann synchronisieren, wenn es eine direkte Beziehung zum Kontakt- oder Kontoobjekt in Veeva CRM hat.
 
-1. Klicken **Synchronisierung aktivieren** erneut.
+1. Klicks **Synchronisierung aktivieren** erneut.
 
    ![](assets/enable-disable-custom-object-sync-6.png)
 
@@ -66,7 +66,7 @@ Wählen Sie das zu synchronisierende Objekt aus und klicken Sie auf Synchronisie
 
    ![](assets/enable-disable-custom-object-sync-8.png)
 
-1. Verwenden Sie optional Filterbegrenzungen, um den Fokus einzugrenzen.
+1. Verwenden Sie optional Filterbegrenzungen, um den Fokus einzuschränken.
 
    ![](assets/enable-disable-custom-object-sync-9.png)
 

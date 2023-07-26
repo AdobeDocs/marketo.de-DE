@@ -10,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Wie funktioniert das Standorttracking? {#how-does-location-tracking-work}
+# Wie funktioniert das Tracking von Standorten? {#how-does-location-tracking-work}
 
 Wenn der Ort für Ihre Empfänger falsch ist, gibt es drei Möglichkeiten, was möglicherweise passiert ist:
 

@@ -55,7 +55,7 @@ Angenommen, Sie führen ein neues Buch auf, Sie können einige Ihrer Zielgruppen
 
    >[!NOTE]
    >
-   >Um Marketo-Landingpages zu ersetzen, die Sie bereits in Facebook veröffentlicht haben, wählen Sie **Vorhandene Registerkarte ersetzen** und wählen Sie die zu ersetzende Registerkarte aus der Dropdown-Liste aus. Beachten Sie, dass Nicht-Marketo-Registerkarten dadurch nicht ersetzt werden.
+   >Um Marketo-Landingpages zu ersetzen, die Sie bereits in Facebook veröffentlicht haben, wählen Sie **Vorhandene Registerkarte ersetzen** und wählen Sie die zu ersetzende Registerkarte aus der Dropdownliste aus. Beachten Sie, dass Nicht-Marketo-Registerkarten dadurch nicht ersetzt werden.
 
 1. Leads können Ihre Landingpage jetzt direkt auf Ihrer Facebook-Seite aufrufen. Klicken Sie einfach auf den Namen der Registerkarte unter Ihrem Titelbild.
 
@@ -63,4 +63,4 @@ Angenommen, Sie führen ein neues Buch auf, Sie können einige Ihrer Zielgruppen
 
    >[!NOTE]
    >
-   >Um die Landingpage aus Facebook zu entfernen, deaktivieren Sie sie in Marketo und wählen Sie bei entsprechender Aufforderung die Option zum Entfernen des Facebook-Tabs aus.
+   >Um die Landingpage aus Facebook zu entfernen, deaktivieren Sie sie in Marketo und wählen Sie bei entsprechender Aufforderung die Option zum Entfernen der Registerkarte Facebook aus.

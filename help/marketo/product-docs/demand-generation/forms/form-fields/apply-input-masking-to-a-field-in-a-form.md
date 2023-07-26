@@ -31,7 +31,7 @@ Sie können die Eingabe Ihres Besuchers mithilfe einer Eingabemaske einschränke
 
    ![](assets/image2014-9-15-13-3a40-3a53.png)
 
-1. Klicken Sie auf **Maskieren der Eingabe** Link.
+1. Klicken Sie auf **Maskieren der Eingabe** -Link.
 
    ![](assets/image2014-9-15-13-3a41-3a3.png)
 
@@ -43,11 +43,11 @@ Sie können die Eingabe Ihres Besuchers mithilfe einer Eingabemaske einschränke
    >
    >Achten Sie auf die Maskierungsregeln. Sie können die Eingabe auf Zahlen, Buchstaben, beides und/oder sogar auf die Anzahl der eingegebenen Zeichen beschränken.
 
-1. Klicken **Beenden**.
+1. Klicks **Beenden**.
 
    ![](assets/image2014-9-15-13-3a41-3a22.png)
 
-1. Klicken **Genehmigen und schließen**.
+1. Klicks **Genehmigen und schließen**.
 
    ![](assets/image2014-9-15-13-3a41-3a28.png)
 

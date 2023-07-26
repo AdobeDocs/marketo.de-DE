@@ -31,7 +31,7 @@ Die Zuordnung von Marketo-Lead zu Konto erfolgt in vier Schritten:
 
 **2. Schritt -** Wir normalisieren die Firmennamen, die wir anhand verschiedener Lead-Attribute finden (z. B. werden Acme Inc. und Acme Corp automatisch in Acme normalisiert). Dieser Schritt stellt sicher, dass wir über eine einzige Darstellung des benannten Kontos in Marketo verfügen und alle Leads in einem einzigen benannten Konto sehen können.
 
-**3. Schritt -** Wir unterteilen übereinstimmende Leads in 2 Buckets: Starke Übereinstimmung und schwache Übereinstimmung.
+**3. Schritt -** Wir partitionieren Leads in 2 Buckets: Starke Übereinstimmung und schwache Übereinstimmung.
 
 * Auf den benannten Konten werden weniger übereinstimmende Leads angezeigt, die dann manuell aufgelöst werden können.
 

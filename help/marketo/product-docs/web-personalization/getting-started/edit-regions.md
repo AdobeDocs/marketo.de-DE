@@ -19,7 +19,7 @@ Möchten Sie die regionalen Benutzereinstellungen ändern, damit nur Daten für 
 
    ![](assets/image2014-12-1-23-3a8-3a40.png)
 
-1. Klicken **Regionen bearbeiten**.
+1. Klicks **Regionen bearbeiten**.
 
    ![](assets/image2014-12-3-18-3a55-3a25.png)
 
@@ -27,4 +27,4 @@ Möchten Sie die regionalen Benutzereinstellungen ändern, damit nur Daten für 
 
 >[!NOTE]
 >
->Wenn Sie die USA auswählen, werden unten auf der Seite alle US-amerikanischen Optionen angezeigt.
+>Wenn Sie die USA auswählen, werden unten auf der Seite alle US-amerikanischen Optionen angezeigt, die ausgewählt werden sollen.

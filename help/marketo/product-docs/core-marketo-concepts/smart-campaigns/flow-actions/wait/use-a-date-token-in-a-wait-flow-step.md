@@ -54,9 +54,9 @@ Mit dem Schritt Wartefluss können Sie das Journey einer Person durch eine intel
 
    >[!NOTE]
    >
-   >Sie können die Anzahl der Tage auch mithilfe einer `{{lead.` oder `{{company.` Token, das ein ganzzahliges Feld darstellt, oder ein `{{my.` Token des Zahlentyps.
+   >Sie können die Anzahl der Tage auch mithilfe einer `{{lead.` oder `{{company.` Token, das ein ganzzahliges Feld oder ein `{{my.` Token des Zahlentyps.
 
-1. Klicken **Speichern**.
+1. Klicks **Speichern**.
 
    ![](assets/image2014-9-22-14-3a11-3a3.png)
 

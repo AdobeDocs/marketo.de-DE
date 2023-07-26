@@ -20,7 +20,7 @@ Durch das Zurücksenden von Offline-Konversionsdaten an Facebook für Personen, 
 >* Sie müssen [Einrichten von Facebook Lead Ads](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
 >* Sie müssen über ein genehmigtes Modell in [Modell für Umsatzzyklen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md).
 
-## Admin-Konfiguration {#admin-configuration}
+## Administratorkonfiguration {#admin-configuration}
 
 1. Navigieren zu Marketo **Admin**.
 
@@ -34,19 +34,19 @@ Durch das Zurücksenden von Offline-Konversionsdaten an Facebook für Personen, 
 
    ![](assets/image2016-11-29-13-3a10-3a43.png)
 
-1. Bearbeiten Sie bei Bedarf die **Anzeigename** , um Offline-Konversionen einzuschließen. Klicken **Nächste**.
+1. Bearbeiten Sie bei Bedarf die **Anzeigename** , um Offline-Konversionen einzuschließen. Klicks **Nächste**.
 
    ![](assets/image2016-11-29-13-3a12-3a19.png)
 
-1. Überprüfen **Offline-Konvertierungen aktivieren** und klicken Sie auf **Nächste**.
+1. Überprüfen **Offline-Konvertierungen aktivieren** und klicken **Nächste**.
 
    ![](assets/image2016-11-29-13-3a13-3a32.png)
 
-1. Klicken **Nächste**.
+1. Klicks **Nächste**.
 
    ![](assets/image2016-11-29-13-3a14-3a17.png)
 
-1. Klicken **Speichern**.
+1. Klicks **Speichern**.
 
    ![](assets/image2016-11-29-13-3a14-3a52.png)
 

@@ -39,7 +39,7 @@ Erhalten Sie eine visuelle Darstellung der Geschwindigkeit und des Durchflusses 
    >
    >Um einen bestimmten Bereich auszuwählen, wählen Sie **Benutzerdefiniert** und verwenden Sie **Von** und **nach** -Felder.
 
-1. Wenn Sie mehr als ein Umsatzzyklusmodell haben, wählen Sie das Modell aus, das Sie im **Einrichtung** Registerkarte.
+1. Wenn Sie über mehr als ein Umsatzzyklusmodell verfügen, wählen Sie das Modell aus der **Einrichtung** Registerkarte.
 
    ![](assets/four.png)
 

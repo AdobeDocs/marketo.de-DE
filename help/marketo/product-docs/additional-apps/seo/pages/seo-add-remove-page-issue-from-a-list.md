@@ -15,17 +15,17 @@ ht-degree: 0%
 
 Sie können Seitenprobleme in Listen organisieren. Sie können Seitenprobleme auch aus einer Liste entfernen.
 
-## Hinzufügen von Seitenproblemen zu einer Liste {#add-page-issues-to-a-list}
+## Seitenprobleme zu einer Liste hinzufügen {#add-page-issues-to-a-list}
 
 1. Navigieren Sie zu **[!UICONTROL Seiten]** Abschnitt.
 
    ![](assets/image2014-9-18-14-3a3-3a10.png)
 
-1. Im **[!UICONTROL Seiten]** Registerkarte, klicken Sie auf **[!UICONTROL Probleme]**.
+1. Im **[!UICONTROL Seiten]** Registerkarte, klicken **[!UICONTROL Probleme]**.
 
    ![](assets/image2014-9-18-14-3a3-3a18.png)
 
-1. Bewegen Sie den Mauszeiger über das Seitenproblem, das Sie hinzufügen möchten. Klicken **[!UICONTROL Aus Liste hinzufügen/entfernen]**.
+1. Bewegen Sie den Mauszeiger über das Seitenproblem, das Sie hinzufügen möchten. Klicks **[!UICONTROL Aus Liste hinzufügen/entfernen]**.
 
    ![](assets/image2014-9-18-14-3a3-3a40.png)
 
@@ -43,7 +43,7 @@ Sie können Seitenprobleme in Listen organisieren. Sie können Seitenprobleme au
 
    ![](assets/image2014-9-18-14-3a4-3a8.png)
 
-1. Klicken Sie auf der Registerkarte &quot;Seiten&quot;auf **[!UICONTROL Probleme]**.
+1. Klicken Sie auf der Registerkarte Seiten auf **[!UICONTROL Probleme]**.
 
    ![](assets/image2014-9-18-14-3a4-3a22.png)
 
@@ -51,7 +51,7 @@ Sie können Seitenprobleme in Listen organisieren. Sie können Seitenprobleme au
 
    ![](assets/image2014-9-18-14-3a4-3a29.png)
 
-1. Bewegen Sie den Mauszeiger über das zu entfernende Seitenproblem. Klicken **[!UICONTROL Aus Liste hinzufügen/entfernen]**.
+1. Bewegen Sie den Mauszeiger über das zu entfernende Seitenproblem. Klicks **[!UICONTROL Aus Liste hinzufügen/entfernen]**.
 
    ![](assets/image2014-9-18-14-3a4-3a38.png)
 

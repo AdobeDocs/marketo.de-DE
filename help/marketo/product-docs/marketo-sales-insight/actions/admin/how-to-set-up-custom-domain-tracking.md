@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Einrichten des Trackings benutzerdefinierter Domänen {#how-to-set-up-custom-domain-tracking}
 
-Mit dem benutzerdefinierten Domain-Tracking kann Ihr Team Ihren eigenen Unternehmensnamen in allen verfolgbaren Links verwenden, die zu Ihren Verkaufs-E-Mails hinzugefügt werden. Nachdem Sie diese Einstellung eingerichtet haben, werden alle Links, die Sie in Ihrer E-Mail haben, als go.yourcompany.com auf die Zulassungsliste gesetzt, sodass, wenn ein Benutzer den Mauszeiger über einen Link bewegt, &quot;go.yourcompany.com&quot;anstelle von &quot;go.toutapp.com&quot;gelesen wird.
+Mit dem benutzerdefinierten Domain-Tracking kann Ihr Team Ihren eigenen Unternehmensnamen in allen verfolgbaren Links verwenden, die zu Ihren Verkaufs-E-Mails hinzugefügt werden. Nachdem Sie diese Einstellung eingerichtet haben, werden alle Links, die Sie in Ihrer E-Mail haben, als go.yourcompany.com angezeigt, sodass, wenn ein Benutzer den Mauszeiger über einen Link bewegt, go.yourcompany.com anstelle von go.toutapp.com gelesen wird.
 
 Sie benötigen Hilfe von Ihrem IT-Team, um einen CNAME-Eintrag für Ihre Domäne einzurichten, der auf go.toutapp.com verweist. Dieser CNAME wird auf allen Ihren Tracking-Links angezeigt (z. B. go.yourcompany.com).
 
@@ -32,7 +32,7 @@ Nachdem Sie mit Ihrem IT-Team bestätigt haben, dass der CNAME ordnungsgemäß k
 
    ![](assets/how-to-set-up-custom-domain-tracking-1.png)
 
-1. Wählen Sie unter &quot;Admin Settings&quot;die Option **Tracking**.
+1. Wählen Sie unter Admin Settings die Option **Tracking**.
 
    ![](assets/how-to-set-up-custom-domain-tracking-2.png)
 

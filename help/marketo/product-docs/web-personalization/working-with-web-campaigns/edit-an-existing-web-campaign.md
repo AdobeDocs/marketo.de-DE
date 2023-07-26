@@ -17,7 +17,7 @@ ht-degree: 0%
 
    ![](assets/image2016-8-18-16-3a15-3a14.png)
 
-1. Im **Web-Kampagnen** Seite, klicken Sie auf **Bearbeiten** auf der Kampagne, die Sie bearbeiten möchten.
+1. Im **Web-Kampagnen** Seite, klicken **Bearbeiten** auf der Kampagne, die Sie bearbeiten möchten.
 
    ![](assets/web-campaigns-1-edit-hand.png)
 

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359483
-description: Grundlegendes zu E-Mail-Testoptionen - Marketo-Dokumente - Produktdokumentation
+description: Grundlagen zu E-Mail-Testoptionen - Marketo-Dokumente - Produktdokumentation
 title: Grundlagen zu E-Mail-Testoptionen
 exl-id: 8e5b0298-4a4b-4c3a-bee1-712e77abadee
 feature: Email Programs, A/B Testing

@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Bericht-E-Mail, Leistung von Kampagnen über Arbeitsbereiche hinweg {#report-email-campaign-performance-across-workspaces}
 
-Aktivieren Sie die globale Berichterstellung , um Daten aus Ihrem gesamten Marketo einzubeziehen. [Arbeitsbereiche](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) in [E-Mail-Leistung](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md), [Leistung von E-Mail-Links](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)und [Kampagnenaktivität](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md) Berichte.
+Aktivieren Sie die globale Berichterstellung , um Daten aus Ihrem gesamten Marketo einzubeziehen. [Arbeitsbereiche](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) in [E-Mail-Leistung](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md), [Leistung von E-Mail-Links](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md), und [Kampagnenaktivität](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md) Berichte.
 
 1. Navigieren Sie zu **Analytics** (oder **Marketingaktivitäten**).
 

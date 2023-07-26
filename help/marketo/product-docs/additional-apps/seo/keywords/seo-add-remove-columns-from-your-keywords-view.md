@@ -27,7 +27,7 @@ Sie können Ihre Suchbegriffansicht so anpassen, dass die Daten angezeigt werden
 
    ![](assets/image2014-9-18-13-3a37-3a39.png)
 
-1. Wählen Sie die Spalten aus, die Sie sehen möchten, oder heben Sie die Auswahl auf. Klicken **[!UICONTROL Speichern]**.
+1. Wählen Sie die Spalten aus, die Sie sehen möchten, oder heben Sie die Auswahl auf. Klicks **[!UICONTROL Speichern]**.
 
    ![](assets/image2014-9-18-13-3a37-3a42.png)
 

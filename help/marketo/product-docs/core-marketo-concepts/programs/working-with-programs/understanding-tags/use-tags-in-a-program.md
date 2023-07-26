@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Verwenden von Tags in einem Programm {#use-tags-in-a-program}
 
-Tags sind Attribute, die Ihre Programme beschreiben und zum Gruppieren von Programmtypen in Berichten verwendet werden.
+Tags sind Attribute, die Ihre Programme beschreiben und zur Gruppierung von Programmtypen in Berichten verwendet werden.
 
 ## Verwenden eines Tags in einem Programm {#use-a-tag-in-a-program}
 
-1. Wählen Sie Ihr Programm aus. Klicken **Einrichtung**.
+1. Wählen Sie Ihr Programm aus. Klicks **Einrichtung**.
 
    ![](assets/image2014-9-23-15-3a45-3a0.png)
 
@@ -25,11 +25,11 @@ Tags sind Attribute, die Ihre Programme beschreiben und zum Gruppieren von Progr
 
    ![](assets/image2014-9-23-15-3a45-3a13.png)
 
-1. Wählen Sie einen Wert aus der Dropdown-Liste aus.
+1. Wählen Sie einen Wert aus der Dropdownliste aus.
 
    ![](assets/image2014-9-23-15-3a45-3a30.png)
 
-1. Klicken **Speichern**.
+1. Klicks **Speichern**.
 
    ![](assets/image2014-9-23-15-3a45-3a36.png)
 
@@ -47,7 +47,7 @@ Tags sind Attribute, die Ihre Programme beschreiben und zum Gruppieren von Progr
 
    ![](assets/image2014-9-23-15-3a46-3a12.png)
 
-1. Klicken **Speichern**.
+1. Klicks **Speichern**.
 
    ![](assets/image2014-9-23-15-3a46-3a25.png)
 
@@ -61,7 +61,7 @@ Tags sind Attribute, die Ihre Programme beschreiben und zum Gruppieren von Progr
 
    ![](assets/image2014-9-23-15-3a46-3a55.png)
 
-1. Klicken **Löschen** zur Bestätigung.
+1. Klicks **Löschen** zur Bestätigung.
 
    ![](assets/image2014-9-23-15-3a47-3a8.png)
 

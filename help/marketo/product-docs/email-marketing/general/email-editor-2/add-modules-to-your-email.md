@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Hinzufügen von Modulen zu Ihrer E-Mail {#add-modules-to-your-email}
 
-In Email Editor 2.0 ist ein Modul ein Abschnitt Ihrer E-Mail, der in der Vorlage definiert ist. Module können beliebige Kombinationen aus Elementen, Variablen und anderem HTML-Inhalt enthalten. Es ist einfach, sie zu Ihrer E-Mail hinzuzufügen.
+In Email Editor 2.0 ist ein Modul ein Abschnitt Ihrer E-Mail, der in der Vorlage definiert ist. Module können eine beliebige Kombination aus Elementen, Variablen und anderem HTML-Inhalt enthalten. Es ist einfach, sie zu Ihrer E-Mail hinzuzufügen.
 
 1. Erstellen Sie eine E-Mail. Wählen (oder erstellen) Sie eine Vorlage, die Module enthält.
 
@@ -51,7 +51,7 @@ Es gibt zwei Möglichkeiten, ein Modul zu verschieben.
 
    ![](assets/seven-2.png)
 
-1. ...und ziehen Sie das Modul an die gewünschte Stelle.
+1. ... und ziehen Sie das Modul an die gewünschte Position.
 
    ![](assets/eight-2.png)
 

@@ -23,21 +23,21 @@ Suchen Sie im Aktivitätsprotokoll nach Aktivitäten, die für Sie am wichtigste
 
    ![](assets/one.png)
 
-1. Wählen Sie die **Filter** Dropdown-Liste.
+1. Wählen Sie die **Filter** angezeigt.
 
    ![](assets/two-3.png)
 
 ## Erstellen benutzerdefinierter Filter {#creating-custom-filters}
 
-1. Klicken Sie auf **Filter** Dropdown-Liste. Auswählen **Benutzerdefiniert**.
+1. Klicken Sie auf **Filter** angezeigt. Auswählen **Benutzerdefiniert**.
 
    ![](assets/three-3.png)
 
-1. Wählen Sie Aktivitäten aus, nach denen gefiltert werden soll. Klicken **Speichern unter**.
+1. Wählen Sie Aktivitäten aus, nach denen gefiltert werden soll. Klicks **Speichern unter**.
 
    ![](assets/image2015-4-27-22-3a55-3a43.png)
 
-1. Geben Sie einen **benutzerspezifischer Filtername**. Klicken **Speichern**.
+1. Geben Sie einen **benutzerspezifischer Filtername**. Klicks **Speichern**.
 
    ![](assets/five-1.png)
 
@@ -47,12 +47,12 @@ Suchen Sie im Aktivitätsprotokoll nach Aktivitäten, die für Sie am wichtigste
 
 ## Referenz Gespeicherte Filter {#reference-saved-filters}
 
-Gespeicherte Filter können über die **Filter** Dropdown-Liste.
+Auf gespeicherte Filter kann über die **Filter** angezeigt.
 
-1. Klicken Sie auf **Filter** Dropdown-Liste. Auswählen **Benutzerdefiniert**.
+1. Klicken Sie auf **Filter** angezeigt. Auswählen **Benutzerdefiniert**.
 
    ![](assets/seven-1.png)
 
-1. Klicken **Gespeicherte Filter**. Gespeicherte Filter sind unten aufgeführt.
+1. Klicks **Gespeicherte Filter**. Gespeicherte Filter sind unten aufgeführt.
 
    ![](assets/eight.png)

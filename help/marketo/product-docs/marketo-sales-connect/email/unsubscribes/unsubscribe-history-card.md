@@ -33,11 +33,11 @@ Die Karte Verlauf der Abmeldung hilft Administratoren und Benutzern, kontextbezo
   </tr> 
   <tr> 
    <td><strong>Details</strong></td> 
-   <td><p>Neu anmelden: Ein Sales Connect-Administrator hat die Abmeldung manuell aus dem Kontaktdatensatz entfernt. Es können auch einige Details angezeigt werden, die darauf hinweisen, warum sich der Kontakt abgemeldet hat.</p><p>Abmelden: Der Kontakt wurde abgemeldet.</p></td> 
+   <td><p>Neu anmelden: Ein Sales Connect-Administrator hat die Abmeldung manuell aus dem Kontaktdatensatz entfernt. Es können auch einige Details angezeigt werden, die darauf hinweisen, warum sich der Kontakt abgemeldet hat.</p><p>Abmeldung: Der Kontakt wurde abgemeldet.</p></td> 
   </tr> 
   <tr> 
    <td><strong>Quelle</strong></td> 
-   <td><p>Salesforce Sync: Die Abmeldung wurde durch eine Synchronisierung von Salesforce erfasst.</p><p>Manuell: Der Benutzer klickte auf die Abmelde-Schaltfläche, um sich abzumelden.</p><p>Angeklickter Link: Der Empfänger einer E-Mail hat auf den Abmelde-Link geklickt.</p><p>"Admin Name": Der Name eines Administrators wird angezeigt, wenn die Aktion darin bestand, Kontakte erneut anzumelden. Auf diese Weise können Benutzer wissen, wer die Abmeldung entfernt hat.</p></td> 
+   <td><p>Salesforce Sync: Die Abmeldung wurde durch eine Synchronisation von Salesforce erfasst.</p><p>Manuell: Der Benutzer hat zum Abmelden auf die Schaltfläche zum Abmelden geklickt.</p><p>Angeklickter Link: Der Empfänger einer E-Mail hat auf den Abmelde-Link geklickt.</p><p>"Administratorname": Der Name eines Administrators wird angezeigt, wenn die Aktion darin bestand, Kontakte erneut anzumelden. Auf diese Weise können Benutzer wissen, wer die Abmeldung entfernt hat.</p></td> 
   </tr> 
  </tbody> 
 </table>

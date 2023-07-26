@@ -23,7 +23,7 @@ Sie können Interaktionsprogramme in Marketo verwenden, um E-Mail-Pflege zu erle
 
    ![](assets/newprogramlifecycle.jpg)
 
-1. Geben Sie einen **Name** auswählen **Interaktion** für **Programmtyp** und klicken Sie auf **Erstellen**.
+1. Geben Sie einen **Name** auswählen **Interaktion** für **Programmtyp** und klicken **Erstellen**.
 
    ![](assets/image2014-9-15-15-3a35-3a32.png)
 

@@ -25,7 +25,7 @@ Die Seite [!UICONTROL Optimierungsbewertung] ist ein allgemeines Ranking, wie gu
 
 >[!TIP]
 >
->Klicken Sie auf [!UICONTROL Hohe Auswirkung] im [!UICONTROL Aufgaben] -Feld, werden Sie zum [!UICONTROL Registerkarte &quot;Probleme&quot;] und zeigen Ihnen, welche Probleme mit hoher Priorität gelöst werden müssen.
+>Klicken Sie auf [!UICONTROL Hohe Auswirkung] -Link in [!UICONTROL Aufgaben] -Feld, werden Sie zum [!UICONTROL Registerkarte &quot;Probleme&quot;] und zeigen Ihnen, welche Probleme mit hoher Priorität gelöst werden müssen.
 
 ## [!UICONTROL Seiten] Registerkarte {#pages-tab}
 

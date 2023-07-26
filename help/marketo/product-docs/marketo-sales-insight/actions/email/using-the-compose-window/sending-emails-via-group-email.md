@@ -1,6 +1,6 @@
 ---
 description: Senden von E-Mails per Gruppenemail - Marketo-Dokumente - Produktdokumentation
-title: Senden von E-Mails über Gruppen-E-Mails
+title: Senden von E-Mails per Gruppenemail
 exl-id: 0099c0ee-dff2-4d7d-91cd-7d619405bac5
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -10,11 +10,11 @@ ht-degree: 0%
 
 ---
 
-# Senden von E-Mails über Gruppen-E-Mails {#sending-emails-via-group-email}
+# Senden von E-Mails per Gruppenemail {#sending-emails-via-group-email}
 
 Im Folgenden erfahren Sie, wie Sie E-Mails mit der Option E-Mail gruppieren senden/bearbeiten.
 
-## Senden einer Gruppen-E-Mail {#sending-a-group-email}
+## Senden einer Gruppenemail {#sending-a-group-email}
 
 1. Klicken Sie auf **Personen** Registerkarte.
 

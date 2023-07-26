@@ -56,7 +56,7 @@ Audit Trail bietet einen umfassenden Einblick in die Aktivitäten Ihres Marketo-
   </tr> 
   <tr> 
    <td>Programm-Token ändern</td> 
-   <td>Token "Token name"bearbeiten, neuer Wert "new value", alter Wert "old value"</td> 
+   <td>Token "Token name"bearbeiten neuer Wert "new value" alter Wert "old value"</td> 
   </tr> 
   <tr> 
    <td>Programm-Token ändern</td> 
@@ -129,7 +129,7 @@ Audit Trail bietet einen umfassenden Einblick in die Aktivitäten Ihres Marketo-
   </tr> 
   <tr> 
    <td>Bearbeiten</td> 
-   <td>Die fehlerhafte E-Mail aus der Vorlage "template_name"(HINWEIS: Dies geschieht heute, wenn Sie den Code direkt bearbeiten.)</td> 
+   <td>Bearbeitungen fehlerhafter E-Mails aus der Vorlage "template_name"(HINWEIS: Dies geschieht heute, wenn Sie den Code direkt bearbeiten)</td> 
   </tr> 
   <tr> 
    <td>Bearbeiten</td> 
@@ -153,7 +153,7 @@ Audit Trail bietet einen umfassenden Einblick in die Aktivitäten Ihres Marketo-
   </tr> 
   <tr> 
    <td>Verschieben</td> 
-   <td>In "Design Studio"in Ordner "Ordnername"verschoben<br>oder<br>Zu "Marketing-Aktivitäten"in "Programmname"verschoben</td> 
+   <td>In "Design Studio"in den Ordner "Ordnername"verschoben<br>oder<br>Zu "Marketing-Aktivitäten"in "Programmname"verschoben</td> 
   </tr> 
   <tr> 
    <td>Genehmigen</td> 
@@ -165,7 +165,7 @@ Audit Trail bietet einen umfassenden Einblick in die Aktivitäten Ihres Marketo-
   </tr> 
   <tr> 
    <td>Entwurf</td> 
-   <td>E-Mail wurde entworfen, weil das Snippet "Snippet Name"genehmigt wurde<br>oder<br>E-Mail wurde entworfen, weil die Vorlage "Vorlagenname"genehmigt wurde</td> 
+   <td>E-Mail wurde entworfen, weil das Ausschnitt "Snippet Name"genehmigt wurde<br>oder<br>E-Mail wurde entworfen, weil die Vorlage "Vorlagenname"genehmigt wurde</td> 
   </tr> 
    <td rowspan="17">E-Mail-Programm</td> 
    <td>Erstellen</td> 
@@ -204,11 +204,11 @@ Audit Trail bietet einen umfassenden Einblick in die Aktivitäten Ihres Marketo-
    <td>Token "Tokenname"löschen</td> 
   </tr> 
   <tr> 
-   <td>Ändern des Programmzeitplans</td> 
+   <td>Programmplanung ändern</td> 
    <td>Legen Sie den Zeitplan so fest, dass er am "Startdatum, Startzeit"beginnt und am "Enddatum, Endzeit"endet.</td> 
   </tr> 
   <tr> 
-   <td>Ändern des Programmzeitplans</td> 
+   <td>Programmplanung ändern</td> 
    <td>Der Zeitplan wurde zu "neues Datum, neue Uhrzeit"geändert.</td> 
   </tr> 
   <tr> 
@@ -295,7 +295,7 @@ Audit Trail bietet einen umfassenden Einblick in die Aktivitäten Ihres Marketo-
   </tr> 
   <tr> 
    <td>Ändern des Programmstreams</td> 
-   <td><p>Stream bearbeiten</p><p>Neuer Stream-Name: "new name" Alter Stream-Name: "alter name"</p><p>Neue Platzierung: "new #" Alte Platzierung: "old #"</p></td> 
+   <td><p>Stream bearbeiten</p><p>Neuer Stream-Name: "new name" Alter Stream-Name: "old name"</p><p>Neue Platzierung: "new #" Alte Platzierung: "old #"</p></td> 
   </tr> 
   <tr> 
    <td>Ändern des Programmstreams</td> 
@@ -303,19 +303,19 @@ Audit Trail bietet einen umfassenden Einblick in die Aktivitäten Ihres Marketo-
   </tr> 
   <tr> 
    <td>Ändern des Programmstreams</td> 
-   <td>Inhalt hinzufügen<br>Dampfname "Stream name"<br>Geben Sie "E-Mail"oder "Programm"ein.<br>Name: "email name" oder "program name"<br>Smart-Kampagne - "Name der Smart-Kampagne"</td> 
+   <td>Inhalt hinzufügen<br>Dampfname "Stream name"<br>Typ "E-Mail" oder "Programm"<br>Name: "email name" oder "program name"<br>Smart Campaign - "Name der Smart-Kampagne"</td> 
   </tr> 
   <tr> 
    <td>Ändern des Programmstreams</td> 
-   <td>Inhalt aktivieren<br>Streamname "Stream name"<br>Inhaltsname "E-Mail-Name"oder "Programmname"</td> 
+   <td>Inhalt aktivieren<br>Streamname "Stream name"<br>Inhaltsname: "email name" oder "program name"</td> 
   </tr> 
   <tr> 
    <td>Ändern des Programmstreams</td> 
-   <td>Inhalt deaktivieren<br>Streamname "Stream name"<br>Inhaltsname "E-Mail-Name"oder "Programmname"</td> 
+   <td>Inhalt deaktivieren<br>Streamname "Stream name"<br>Inhaltsname: "email name" oder "program name"</td> 
   </tr> 
   <tr> 
    <td>Ändern des Programmstreams</td> 
-   <td>Inhalt entfernen<br>Streamname "Stream name"<br>Inhaltsname "E-Mail-Name"oder "Programmname"</td> 
+   <td>Inhalt entfernen<br>Streamname "Stream name"<br>Inhaltsname: "email name" oder "program name"</td> 
   </tr> 
   <tr> 
    <td>Programm-Token ändern</td> 
@@ -395,11 +395,11 @@ Audit Trail bietet einen umfassenden Einblick in die Aktivitäten Ihres Marketo-
    <td>Token "Tokenname"löschen</td> 
   </tr> 
   <tr> 
-   <td>Ändern des Programmzeitplans</td> 
+   <td>Programmplanung ändern</td> 
    <td>Legen Sie den Zeitplan so fest, dass er am "Startdatum, Startzeit"beginnt und am "Enddatum, Endzeit"endet.</td> 
   </tr> 
   <tr> 
-   <td>Ändern des Programmzeitplans</td> 
+   <td>Programmplanung ändern</td> 
    <td>Der Zeitplan wurde zu "neues Datum, neue Uhrzeit"geändert.</td> 
   </tr> 
   <tr> 
@@ -486,7 +486,7 @@ Audit Trail bietet einen umfassenden Einblick in die Aktivitäten Ihres Marketo-
   </tr> 
   <tr> 
    <td>Verschieben</td> 
-   <td>In "Design Studio"in Ordner "Ordnername"verschoben<br>oder<br>Zu "Marketing-Aktivitäten"in "Programmname"verschoben</td> 
+   <td>In "Design Studio"in den Ordner "Ordnername"verschoben<br>oder<br>Zu "Marketing-Aktivitäten"in "Programmname"verschoben</td> 
   </tr> 
   <tr> 
    <td>Formulare</td> 
@@ -524,7 +524,7 @@ Audit Trail bietet einen umfassenden Einblick in die Aktivitäten Ihres Marketo-
   </tr> 
   <tr> 
    <td>Verschieben</td> 
-   <td>In "Design Studio"in Ordner "Ordnername"verschoben<br> oder<br> Zu "Marketing-Aktivitäten"in "Programmname"verschoben</td> 
+   <td>In "Design Studio"in den Ordner "Ordnername"verschoben<br> oder<br> Zu "Marketing-Aktivitäten"in "Programmname"verschoben</td> 
   </tr> 
   <tr> 
    <td>Genehmigen</td> 
@@ -532,7 +532,7 @@ Audit Trail bietet einen umfassenden Einblick in die Aktivitäten Ihres Marketo-
   </tr> 
   <tr> 
    <td>Entwurf</td> 
-   <td>Die Landingpage wurde entworfen, weil die Vorlage "Vorlagenname"genehmigt wurde</td> 
+   <td>Die Landingpage wurde entworfen, weil die Vorlage "Vorlagenname"genehmigt wurde.</td> 
   </tr> 
   <tr> 
    <td>Nicht genehmigen</td> 
@@ -735,7 +735,7 @@ Audit Trail bietet einen umfassenden Einblick in die Aktivitäten Ihres Marketo-
   <tr> 
    <td>IP-Einschränkungen</td> 
    <td>Bearbeiten</td> 
-   <td>Die IP-Einschränkungen wurden wie folgt geändert: Zulässiger/blockierter "Block", IP-Adresse "#", IP-Einschränkungen deaktiviert ""</td> 
+   <td>IP-Einschränkungen wurden wie folgt geändert: Zulässiger/blockierter "Block", IP-Adresse "#", IP-Einschränkungen deaktiviert ""</td> 
   </tr> 
   <tr> 
    <td rowspan="2">Partition</td> 
@@ -749,12 +749,12 @@ Audit Trail bietet einen umfassenden Einblick in die Aktivitäten Ihres Marketo-
   <tr> 
    <td>Passwortsicherheit</td> 
    <td>Bearbeiten</td> 
-   <td>Passwortsicherheit in Vorlage geändert: Standardsicherheit, Mindestlänge: #, lower-upper: #, Zahl: #, Groß-/Kleinschreibung: # , Ablauf : #, Sitzungs-Timeout: #</td> 
+   <td>Passwortsicherheit wurde in Vorlage geändert: Standardsicherheit, Mindestlänge: #, untergeordnetes Oberteil: #, Zahl: #, Groß-/Kleinschreibung: #, Ablauf : #, Sitzungs-Timeout: #</td> 
   </tr> 
   <tr> 
    <td rowspan="3">Rolle<br><br></td> 
    <td>Erstellen</td> 
-   <td>Rolle, die mit "Rollenname"erstellt wurde (HINWEIS: Wenn Sie weitere Informationen zu den hinzugefügten Berechtigungen benötigen, wenden Sie sich an den Support.) - <br>zeigt eine Momentaufnahme der der Rolle zugewiesenen Berechtigungen an</td> 
+   <td>Rolle, die mit "Rollenname"erstellt wurde (HINWEIS: Wenn Sie Details zu hinzugefügten Berechtigungen benötigen, wenden Sie sich an den Support) - <br>zeigt eine Momentaufnahme der der Rolle zugewiesenen Berechtigungen an</td> 
   </tr> 
   <tr> 
    <td>Löschen</td> 
@@ -762,17 +762,17 @@ Audit Trail bietet einen umfassenden Einblick in die Aktivitäten Ihres Marketo-
   </tr> 
   <tr> 
    <td>Bearbeiten</td> 
-   <td>Rolle Von "vorheriger Name"in "neuer Name"geändert (HINWEIS: Wenn Sie Details zu bearbeiteten Berechtigungen benötigen, wenden Sie sich an den Support.) - <br>zeigt eine Momentaufnahme der der Rolle zugewiesenen Berechtigungen an<br></td> 
+   <td>Rolle Von "vorheriger Name"in "neuer Name"geändert (HINWEIS: Wenn Sie Details zu bearbeiteten Berechtigungen benötigen, wenden Sie sich an den Support) - <br>zeigt eine Momentaufnahme der der Rolle zugewiesenen Berechtigungen an<br></td> 
   </tr> 
   <tr> 
    <td>Smartlist-Bericht</td> 
    <td>Bearbeiten</td> 
-   <td>SmarList wurde für die Anmeldung zum Herunterladen bearbeitet: "true"oder "false"</td> 
+   <td>SmarList wurde für die Anmeldung zum Download bearbeitet: "true or false"</td> 
   </tr> 
   <tr> 
    <td rowspan="7">Benutzer<br><br><br><br></td> 
    <td>Erstellen (einladen)</td> 
-   <td>Benutzer eingeladen mit: E-Mail-Adresse, Name "Vor- und Nachname", Zugriff läuft "leer oder mit einem Datum", API-Benutzer "true or false"- <br>zeigt eine Momentaufnahme der dem Benutzer zugewiesenen Rollen und Arbeitsbereiche an</td> 
+   <td>Benutzer eingeladen mit: E-Mail-Adresse "E-Mail-Adresse", Name "Vor- und Nachname", Zugriff läuft "leer oder mit einem Datum", API-Benutzer "true or false"- <br>zeigt eine Momentaufnahme der dem Benutzer zugewiesenen Rollen und Arbeitsbereiche an</td> 
   </tr> 
   <tr> 
    <td colspan="1">Löschen</td> 
@@ -780,11 +780,11 @@ Audit Trail bietet einen umfassenden Einblick in die Aktivitäten Ihres Marketo-
   </tr> 
   <tr> 
    <td>Bearbeiten</td> 
-   <td>Der Benutzer wurde von "alter Name"in "neuer Name"mit E-Mail-Adresse umbenannt: "email", apiUser: Der Zugriff auf "true"oder "false"läuft ab: "leer oder mit einem Datum"</td> 
+   <td>Der Benutzer wurde von "alter Name"in "neuer Name"mit E-Mail-Adresse "email", apiUser: "true or false"-Zugriff läuft ab: "blank or with a date"</td> 
   </tr> 
   <tr> 
    <td>Bearbeiten</td> 
-   <td>Benutzer wurde für E-Mail bearbeitet: "email", apiUser: "true or false", der Zugriff läuft ab: "leer oder mit einem Datum"</td> 
+   <td>Benutzer wurde für E-Mail bearbeitet: "email", apiUser: "true or false", access expires: "blank or with a date"</td> 
   </tr> 
   <tr> 
    <td colspan="1">Bearbeiten</td> 
@@ -792,11 +792,11 @@ Audit Trail bietet einen umfassenden Einblick in die Aktivitäten Ihres Marketo-
   </tr> 
   <tr> 
    <td>Problem</td> 
-   <td>Für E-Mail ausgestellte Kalenderlizenz: Name der E-Mail-Adresse des Benutzers: "Benutzername"</td> 
+   <td>Kalenderlizenz für E-Mail: Name der E-Mail des Benutzers: "Benutzername"</td> 
   </tr> 
   <tr> 
    <td>Zurücksetzen</td> 
-   <td>Kennwortrücksetzung für den Namen "name"und die E-Mail-Adresse "email"</td> 
+   <td>Kennwortrücksetzung für den Namen "name"und die E-Mail "email"</td> 
   </tr> 
   <tr> 
    <td rowspan="2">Arbeitsbereich</td> 

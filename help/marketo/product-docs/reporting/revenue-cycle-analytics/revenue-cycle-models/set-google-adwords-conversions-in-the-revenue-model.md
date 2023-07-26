@@ -41,7 +41,7 @@ Sie können eine neue AdWords-Offline-Konversion aus Marketo erstellen, wenn Sie
 
    ![](assets/image2015-2-23-18-3a3-3a12.png)
 
-1. Klicken **Entwurf bearbeiten**.
+1. Klicks **Entwurf bearbeiten**.
 
    ![](assets/image2015-3-10-15-3a3-3a20.png)
 
@@ -75,15 +75,15 @@ Sie können eine AdWords-Konversion auch unter &quot;Staging-Aktionen&quot;zuord
 
    ![](assets/image2015-2-26-21-3a22-3a10.png)
 
-1. Klicken **Speichern**.
+1. Klicks **Speichern**.
 
    ![](assets/image2015-2-26-16-3a56-3a2.png)
 
-1. Nachdem Sie alle AdWords-Konversionen den Umsatzphasen zugeordnet haben, gehen Sie zurück zur Zusammenfassungsseite. Auswählen **Modellaktionen** und wählen Sie **Phasen genehmigen**.
+1. Nachdem Sie alle AdWords-Konversionen den Umsatzphasen zugeordnet haben, gehen Sie zurück zur Zusammenfassungsseite. Auswählen **Modellaktionen** und wählen **Phasen genehmigen**.
 
    ![](assets/image2015-2-27-12-3a20-3a20.png)
 
-## Professioneller Tipp: Neue Konversion hinzufügen {#pro-tip-add-a-new-conversion}
+## Pro Tipp: Neue Konversion hinzufügen {#pro-tip-add-a-new-conversion}
 
 Pro Tipp! Eine neue AdWords-Offline-Konversion kann über Marketo erstellt werden.
 
@@ -99,7 +99,7 @@ Pro Tipp! Eine neue AdWords-Offline-Konversion kann über Marketo erstellt werde
 
    ![](assets/image2015-2-26-21-3a22-3a10.png)
 
-1. Geben Sie einen **Konversionsname**. Klicken **Speichern**.
+1. Geben Sie einen **Konversionsname**. Klicks **Speichern**.
 
    ![](assets/image2015-2-26-21-3a24-3a7.png)
 
@@ -121,7 +121,7 @@ Sie können alle Ihre Modellphasen mit Ihrer AdWords-Konversion an einem Ort mit
 
    ![](assets/image2015-2-26-17-3a7-3a48.png)
 
-1. Nachdem Sie alle AdWords-Konversionen den Umsatzphasen zugeordnet haben, gehen Sie zurück zur Zusammenfassungsseite. Auswählen **Modellaktionen** und wählen Sie **Phasen genehmigen**.
+1. Nachdem Sie alle AdWords-Konversionen den Umsatzphasen zugeordnet haben, gehen Sie zurück zur Zusammenfassungsseite. Auswählen **Modellaktionen** und wählen **Phasen genehmigen**.
 
    ![](assets/image2015-2-27-12-3a20-3a20.png)
 

@@ -19,23 +19,23 @@ ht-degree: 6%
 
    ![](assets/managing-marketo-users-1.png)
 
-1. Klicken **[!UICONTROL Benutzer und Rollen]**.
+1. Klicks **[!UICONTROL Benutzer und Rollen]**.
 
    ![](assets/managing-marketo-users-2.png)
 
-1. Klicken **[!UICONTROL Neuen Benutzer einladen]**.
+1. Klicks **[!UICONTROL Neuen Benutzer einladen]**.
 
    ![](assets/managing-marketo-users-3.png)
 
-1. Geben Sie die **[!UICONTROL Email]**, **[!UICONTROL Vorname]** und **[!UICONTROL Nachname]**.
+1. Geben Sie die **[!UICONTROL Email]**, **[!UICONTROL Vorname]**, und **[!UICONTROL Nachname]**.
 
    ![](assets/managing-marketo-users-4.png)
 
-1. Geben Sie optional einen Grund für die Einladung ein und wählen Sie ein Ablaufdatum im **[!UICONTROL Zugriffsablauf]** -Feld mithilfe der Datumsauswahl.
+1. Geben Sie optional einen Grund für die Einladung ein und wählen Sie ein Ablaufdatum im **[!UICONTROL Zugriffsabläufe]** -Feld mithilfe der Datumsauswahl.
 
    ![](assets/managing-marketo-users-5.png)
 
-1. Klicken **[!UICONTROL Nächste]**.
+1. Klicks **[!UICONTROL Nächste]**.
 
    ![](assets/managing-marketo-users-6.png)
 
@@ -51,13 +51,13 @@ ht-degree: 6%
 
    ![](assets/managing-marketo-users-7.png)
 
-1. Nehmen Sie bei Bedarf Änderungen an der Einladungsnachricht vor. Klicken **Siehend**.
+1. Nehmen Sie bei Bedarf Änderungen an der Einladungsnachricht vor. Klicks **Siehend**.
 
    ![](assets/managing-marketo-users-8.png)
 
    >[!NOTE]
    >
-   >Die E-Mail/Anmeldung muss eindeutig sein. Wenn Sie es bereits in einer Sandbox-Instanz verwendet haben, müssen Sie eine andere in der Produktion verwenden und umgekehrt.
+   >Die E-Mail/Anmeldung muss eindeutig sein. Wenn Sie sie bereits in einer Sandbox-Instanz verwendet haben, müssen Sie eine andere in der Produktion verwenden und umgekehrt.
 
    ![](assets/managing-marketo-users-9.png)
 
@@ -73,11 +73,11 @@ Der neue Benutzer wird jetzt im Tab Benutzer aufgelistet und erhält eine E-Mail
 
    ![](assets/managing-marketo-users-10.png)
 
-1. Klicken **[!UICONTROL Benutzer und Rollen]**.
+1. Klicks **[!UICONTROL Benutzer und Rollen]**.
 
    ![](assets/managing-marketo-users-11.png)
 
-1. Wählen Sie den Benutzer aus, den Sie entfernen möchten, und klicken Sie auf **[!UICONTROL Benutzer löschen]**.
+1. Wählen Sie den zu entfernenden Benutzer aus und klicken Sie auf **[!UICONTROL Benutzer löschen]**.
 
    ![](assets/managing-marketo-users-12.png)
 
@@ -91,7 +91,7 @@ Der neue Benutzer wird jetzt im Tab Benutzer aufgelistet und erhält eine E-Mail
 
    ![](assets/managing-marketo-users-14.png)
 
-1. Klicken **[!UICONTROL Benutzer und Rollen]**.
+1. Klicks **[!UICONTROL Benutzer und Rollen]**.
 
    ![](assets/managing-marketo-users-15.png)
 
@@ -99,7 +99,7 @@ Der neue Benutzer wird jetzt im Tab Benutzer aufgelistet und erhält eine E-Mail
 
    ![](assets/managing-marketo-users-16.png)
 
-1. Klicken **[!UICONTROL Schließen]** , um die Eingabeaufforderung zu schließen.
+1. Klicks **[!UICONTROL Schließen]** , um die Eingabeaufforderung zu schließen.
 
    ![](assets/managing-marketo-users-17.png)
 
@@ -115,7 +115,7 @@ Der Benutzer erhält eine E-Mail mit Anweisungen zum Zurücksetzen des Kennworts
 
    ![](assets/managing-marketo-users-18.png)
 
-1. Klicken **[!UICONTROL Benutzer und Rollen]**.
+1. Klicks **[!UICONTROL Benutzer und Rollen]**.
 
    ![](assets/managing-marketo-users-19.png)
 
@@ -123,7 +123,7 @@ Der Benutzer erhält eine E-Mail mit Anweisungen zum Zurücksetzen des Kennworts
 
    ![](assets/managing-marketo-users-20.png)
 
-1. Sie können Benutzerinformationen bearbeiten und die zugehörige Rolle ändern. Klicken **[!UICONTROL Speichern]**.
+1. Sie können Benutzerinformationen bearbeiten und die zugehörige Rolle ändern. Klicks **[!UICONTROL Speichern]**.
 
    ![](assets/managing-marketo-users-21.png)
 

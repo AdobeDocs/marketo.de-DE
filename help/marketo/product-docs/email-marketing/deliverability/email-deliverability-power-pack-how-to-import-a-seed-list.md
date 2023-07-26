@@ -25,7 +25,7 @@ Eine Testliste ist eine Liste von E-Mail-Konten mehrerer Postfachanbieter, einsc
 
    ![](assets/email-deliverability-power-pack-1.png)
 
-1. Die Everest App wird geöffnet. Klicken Sie im linken Navigationsbereich auf **Flug** und wählen Sie **Posteingangsplatzierung**.
+1. Die Everest App wird geöffnet. Klicken Sie im linken Navigationsbereich auf **Flug** und wählen **Posteingangsplatzierung**.
 
    ![](assets/email-deliverability-power-pack-2.png)
 
@@ -41,13 +41,13 @@ Eine Testliste ist eine Liste von E-Mail-Konten mehrerer Postfachanbieter, einsc
    >
    >Verwenden Sie den Seed List Optimizer (oben auf der Seite), wenn Sie möchten, dass Everest Ihre Liste für Sie optimiert.
 
-1. Nach dem Export wird die Liste als .txt-Datei im Downloadordner Ihres Browsers angezeigt. Abrufen und [importieren](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) in Ihre Marketo-Instanz als statische Liste.
+1. Nach dem Export wird die Liste als .txt-Datei im Downloadordner Ihres Browsers angezeigt. Rufen Sie sie ab und [importieren](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) in Ihre Marketo-Instanz als statische Liste.
 
    ![](assets/email-deliverability-power-pack-5.png)
 
    >[!TIP]
    >
-   >Benennen Sie Ihre Liste so, dass sie leicht zu finden ist.
+   >Achten Sie darauf, Ihre Liste so zu benennen, dass sie leicht zu finden ist.
 
    >[!CAUTION]
    >
@@ -57,4 +57,4 @@ Eine Testliste ist eine Liste von E-Mail-Konten mehrerer Postfachanbieter, einsc
 
 Ihre Testliste kann sich so oft wie jeden Monat ändern. Es ist wichtig, sich regelmäßig beim Email Delivery Power Pack anzumelden und den Status Ihrer Testliste zu überprüfen. Wenn neue Adressen hinzugefügt werden oder eine Aktualisierung erforderlich ist, werden Sie über das Benachrichtigungssymbol auf der linken unteren Seite der Anwendung benachrichtigt.
 
-Nachdem Ihre statische Liste in Marketo erstellt wurde, können Sie mit dem Versand beginnen, um die Platzierung des Posteingangs Ihrer E-Mail zu testen.
+Nachdem Sie Ihre statische Liste in Marketo erstellt haben, können Sie mit dem Versand beginnen, um die Platzierung des Posteingangs Ihrer E-Mail zu testen.

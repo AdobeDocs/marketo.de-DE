@@ -49,4 +49,4 @@ Um einen Speicherort für die Protokolldateien anzugeben, können Sie den Dateip
 >
 >Durch das Deinstallieren des Plug-ins wird Outlook auf dem Computer des Benutzers erzwungen.
 
-Siehe [Vollständige Liste der Switches von Microsoft](https://support.microsoft.com/en-us/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6) , wenn Sie verschiedene Protokollierungsstufen oder Benutzeroberflächen-Ebenen ausprobieren möchten.
+Bitte lesen Sie [Vollständige Liste der Switches von Microsoft](https://support.microsoft.com/en-us/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6) , wenn Sie verschiedene Protokollierungsstufen oder Benutzeroberflächen-Ebenen ausprobieren möchten.

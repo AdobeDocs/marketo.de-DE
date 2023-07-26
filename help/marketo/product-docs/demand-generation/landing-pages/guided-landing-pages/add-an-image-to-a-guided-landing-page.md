@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Im Gegensatz zu Landingpages mit Freiform-Landingpages verfügen geführte Landingpages über vordefinierte, gesperrte Bereiche, in denen Sie Bilder hinzufügen.
 
-1. Wählen Sie eine geführte Landingpage aus. Klicken **Entwurf bearbeiten**.
+1. Wählen Sie eine geführte Landingpage aus. Klicks **Entwurf bearbeiten**.
 
    ![](assets/image2015-5-19-14-3a1-3a26.png)
 

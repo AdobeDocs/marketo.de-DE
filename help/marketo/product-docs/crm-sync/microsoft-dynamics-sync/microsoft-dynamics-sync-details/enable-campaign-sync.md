@@ -26,15 +26,15 @@ Diese Option ermöglicht es Marketo, Mitglieder von MS Dynamics Campaign hinzuzu
 
    ![](assets/enable-campaign-sync-1.png)
 
-1. Klicken **Microsoft Dynamics**.
+1. Klicks **Microsoft Dynamics**.
 
    ![](assets/enable-campaign-sync-2.png)
 
-1. Klicken Sie unter &quot;Synchronisierungsoptionen&quot;auf **Bearbeiten**.
+1. Klicken Sie unter Synchronisierungsoptionen auf **Bearbeiten**.
 
    ![](assets/enable-campaign-sync-3.png)
 
-1. Wählen Sie die **Aktivieren der Kampagnensynchronisierung mit Microsoft Dynamics** Kontrollkästchen und klicken Sie auf **Speichern**.
+1. Wählen Sie die **Aktivieren der Kampagnensynchronisierung mit Microsoft Dynamics** aktivieren und auf **Speichern**.
 
    ![](assets/enable-campaign-sync-4.png)
 

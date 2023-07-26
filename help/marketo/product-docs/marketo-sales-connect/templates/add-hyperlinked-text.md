@@ -19,6 +19,6 @@ ht-degree: 0%
 
 1. Klicken Sie im Editor auf die Schaltfläche Link .
 
-1. Geben Sie die URL ein, mit der die Relation hergestellt werden soll (d. h. &quot;https://www.mywebsite.com&quot;).
+1. Geben Sie die URL ein, mit der die Relation hergestellt werden soll (z. B. &quot;https://www.mywebsite.com&quot;).
 
-1. Klicken **OK**.
+1. Klicks **OK**.

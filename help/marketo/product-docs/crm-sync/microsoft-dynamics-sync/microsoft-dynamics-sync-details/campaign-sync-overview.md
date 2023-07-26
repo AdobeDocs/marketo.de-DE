@@ -30,7 +30,7 @@ Die folgenden Flussaktionen sind verfügbar:
 Es gibt auch zwei Trigger:
 
 * Zu Microsoft Campaign hinzugefügt
-* Aus Microsoft Campaign entfernt
+* Aus der Microsoft-Kampagne entfernt
 
 Die Trigger werden basierend auf den Aktionen der Marketo-Flussaktion &quot;Zu Microsoft-Kampagne hinzufügen&quot;und &quot;Aus Microsoft Campaign entfernt&quot;ausgeführt.
 

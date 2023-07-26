@@ -13,11 +13,11 @@ ht-degree: 1%
 
 # Elemente in einer E-Mail bearbeiten {#edit-elements-in-an-email}
 
-E-Mails können vier Elemente enthalten: Rich-Text, Bilder, Snippets und Videos. Hier finden Sie, wie Sie sie bearbeiten können.
+E-Mails können vier verschiedene Elemente enthalten: Rich-Text, Bilder, Snippets und Video. Hier finden Sie, wie Sie sie bearbeiten können.
 
 ## Bearbeiten des Rich-Text-Elements {#how-to-edit-the-rich-text-element}
 
-1. Suchen Sie Ihre E-Mail, wählen Sie sie aus und klicken Sie auf **Entwurf bearbeiten**.
+1. E-Mail suchen, auswählen und klicken **Entwurf bearbeiten**.
 
    ![](assets/one-edited.png)
 
@@ -35,11 +35,11 @@ E-Mails können vier Elemente enthalten: Rich-Text, Bilder, Snippets und Videos.
 
    >[!NOTE]
    >
-   >Sie können auch Bilder, Token, Tabellen und andere Elemente hinzufügen. Siehe [Verwenden des Rich-Text-Editors](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
+   >Sie können auch Bilder, Token, Tabellen und andere Elemente hinzufügen. Siehe [Rich-Text-Editor verwenden](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
 
    >[!CAUTION]
    >
-   >Vermeiden Sie das Kopieren und Einfügen von Text aus einer Rich-Text-Quelle wie einer Website oder einem Word-Dokument. Fügen Sie stattdessen Rich-Text zuerst in einen Nur-Text-Editor ein, z. B. Notepad (Windows) oder TextEdit (Mac). Sobald es &quot;sauber&quot;ist, können Sie es aus dem Texteditor kopieren und in Ihre E-Mail einfügen.
+   >Kopieren und Einfügen von Text aus einer Rich-Text-Quelle wie einer Website oder einem Word-Dokument vermeiden. Fügen Sie stattdessen Rich-Text zuerst in einen Nur-Text-Editor ein, z. B. Notepad (Windows) oder TextEdit (Mac). Sobald es &quot;sauber&quot;ist, können Sie es aus dem Texteditor kopieren und in Ihre E-Mail einfügen.
 
 ## Bearbeiten des Bildelements {#how-to-edit-the-image-element}
 
@@ -77,7 +77,7 @@ E-Mails können vier Elemente enthalten: Rich-Text, Bilder, Snippets und Videos.
 
    ![](assets/nine.png)
 
-   Navigieren Sie zu der Stelle, an der sich das Bild auf Ihrem Computer befindet, und fügen Sie es ein.
+   Navigieren Sie an die Stelle, an der sich das Bild auf Ihrem Computer befindet, und fügen Sie es ein.
 
    ![](assets/ten.png)
 
@@ -95,7 +95,7 @@ E-Mails können vier Elemente enthalten: Rich-Text, Bilder, Snippets und Videos.
 
    ![](assets/twelve.png)
 
-   ...und fügen Sie sie ein. Ändern Sie die Dimensionen entsprechend Ihren Anforderungen, ändern Sie den ALT-Text (optional) und drücken Sie dann die Eingabetaste. **Tauschen**.
+   ... und fügen Sie es ein. Ändern Sie die Dimensionen entsprechend Ihren Anforderungen, ändern Sie den ALT-Text (optional) und drücken Sie dann die Eingabetaste. **Tauschen**.
 
    ![](assets/thirteen.png)
 

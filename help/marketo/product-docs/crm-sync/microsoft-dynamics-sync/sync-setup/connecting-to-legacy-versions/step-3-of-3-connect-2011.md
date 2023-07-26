@@ -11,14 +11,14 @@ ht-degree: 1%
 
 ---
 
-# Schritt 3 von 3: Verbinden von Microsoft Dynamics mit Marketo (On-Premises 2011) {#step-of-connect-microsoft-dynamics-with-marketo-on-premises}
+# Schritt 3: Verbinden von Microsoft Dynamics mit Marketo (On-Premises 2011) {#step-of-connect-microsoft-dynamics-with-marketo-on-premises}
 
 Gut! Wir haben die Lösung installiert und den Synchronisierungsbenutzer konfiguriert. Als Nächstes müssen wir Marketo und Dynamics verbinden.
 
 >[!PREREQUISITES]
 >
->* [Schritt 1 von 3: Installieren Sie die Marketo-Lösung (On-Premises 2011)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md)
->* [Schritt 2 von 3: Marketo Sync User in Dynamics einrichten (On-Premises 2011)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md)
+>* [Schritt 1 von 3: Installieren der Marketo-Lösung (On-Premises 2011)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md)
+>* [Schritt 2 von 3: Einrichten des Marketo Sync User in Dynamics (On-Premises 2011)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md)
 
 >[!NOTE]
 >
@@ -34,11 +34,11 @@ Gut! Wir haben die Lösung installiert und den Synchronisierungsbenutzer konfigu
 
    ![](assets/image2014-12-11-11-3a53-3a59.png)
 
-1. Klicken **Microsoft**.
+1. Klicks **Microsoft**.
 
    ![](assets/image2014-12-11-11-3a54-3a10.png)
 
-1. Klicken **Bearbeiten** in **Schritt 1: Geben Sie Anmeldeinformationen ein.**
+1. Klicks **Bearbeiten** in **Schritt 1: Anmeldedaten eingeben.**
 
    ![](assets/image2014-12-11-11-3a54-3a19.png)
 
@@ -57,9 +57,9 @@ Gut! Wir haben die Lösung installiert und den Synchronisierungsbenutzer konfigu
 
 ## Felder für Synchronisierung auswählen {#select-fields-to-sync}
 
-Jetzt müssen wir die Felder auswählen, über die wir synchronisieren möchten.
+Jetzt müssen wir die Felder auswählen, über die wir die Synchronisation durchführen möchten.
 
-1. Klicken **Bearbeiten** in **Schritt 2: Wählen Sie Zu synchronisierende Felder aus.**
+1. Klicks **Bearbeiten** in **Schritt 2: Wählen Sie Zu synchronisierende Felder aus.**
 
    ![](assets/image2015-3-16-9-51-28a.png)
 
@@ -79,17 +79,17 @@ Wenn Sie einen benutzerdefinierten Filter erstellt haben, gehen Sie in und wähl
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. Klicken **Bearbeiten** in den Details zur Feldsynchronisierung.
+1. Klicks **Bearbeiten** in den Details zur Feldsynchronisierung.
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
-1. Scrollen Sie nach unten zum Feld und überprüfen Sie es. Der tatsächliche Name muss &quot;new_synctomkto&quot;lauten, der Anzeigename kann jedoch beliebig sein. Klicken **Speichern**.
+1. Scrollen Sie nach unten zum Feld und überprüfen Sie es. Der tatsächliche Name muss &quot;new_synctomkto&quot;lauten, der Anzeigename kann jedoch beliebig sein. Klicks **Speichern**.
 
    ![](assets/image2016-8-25-14-3a14-3a57.png)
 
 ## Synchronisierung aktivieren {#enable-sync}
 
-1. Klicken **Bearbeiten** in **Schritt 3: Synchronisierung aktivieren**.
+1. Klicks **Bearbeiten** in **Schritt 3: Synchronisierung aktivieren**.
 
    ![](assets/image2015-3-16-9-52-2b.png)
 
@@ -97,7 +97,7 @@ Wenn Sie einen benutzerdefinierten Filter erstellt haben, gehen Sie in und wähl
    >
    >Marketo deaktiviert die Duplizierung nicht automatisch für eine Microsoft Dynamics-Synchronisation oder wenn Sie Personen oder Leads manuell eingeben.
 
-1. Lesen Sie alles im Popup-Fenster, geben Sie Ihre E-Mail ein und klicken Sie auf **Synchronisierung starten**.
+1. Alles im Popup lesen, Ihre E-Mail eingeben und auf klicken **Synchronisierung starten**.
 
    ![](assets/image2015-3-30-14-3a23-3a13.png)
 

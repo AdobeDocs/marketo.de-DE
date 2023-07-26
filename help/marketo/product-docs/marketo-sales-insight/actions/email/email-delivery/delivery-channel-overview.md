@@ -42,7 +42,7 @@ Darüber hinaus bieten SMTP-Drittanbieter eine Vielzahl von Funktionen, mit dene
 
 ## Marketo Sales Server (veraltet) {#marketo-sales-servers-legacy}
 
-Marketo Sales-Server sind nur für ältere ToutApp-Kunden verfügbar. Diese Kunden sehen die Marketo Sales-Server, die in ihren E-Mail-Einstellungen verfügbar sind. Nicht-ältere Kunden sehen Marketo Sales nicht als Option und sollten ihr Gmail- oder Outlook-Konto mit Marketo Sales verbinden, um einen Versandkanal zu entsperren.
+Marketo Sales-Server sind nur für einige ältere ToutApp-Kunden verfügbar. Diese Kunden sehen die Marketo Sales-Server, die in ihren E-Mail-Einstellungen verfügbar sind. Nicht-ältere Kunden sehen Marketo Sales nicht als Option und sollten ihr Gmail- oder Outlook-Konto mit Marketo Sales verbinden, um einen Versandkanal zu entsperren.
 
 Marketo Sales-Server unterstützen keine DKIM- und SPF-Authentifizierungsmethoden, die die Zustellrate senken können. Aus diesem Grund empfehlen wir allen Kunden, eine Verbindung zu Gmail oder Outlook herzustellen, um eine optimale Zustellbarkeit zu erreichen.
 

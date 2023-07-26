@@ -23,7 +23,7 @@ Detaillierte Programm- und Kanalstatistiken finden Sie im Programm-Analyzer. Sie
 >
 >Diese Funktion ist nicht in allen Marketo-Editionen enthalten. Weitere Informationen erhalten Sie von Ihrem Kundenbetreuer.
 
-1. Klicken **Analytics**.
+1. Klicks **Analytics**.
 
    ![](assets/image2015-4-28-12-3a54-3a47.png)
 
@@ -39,7 +39,7 @@ Detaillierte Programm- und Kanalstatistiken finden Sie im Programm-Analyzer. Sie
    >
    >Viele der Metriken, die Sie im Programm-Analyzer auswählen können, stehen bei Erstkontakt- (FT-) und Multi-Touch-(MT-)Berechnungen zur Verfügung. Es ist wichtig, die [Differenz zwischen FT- und MT-Attribution](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
-1. Um alle Programme in einem Kanal zu vergleichen, klicken Sie im Popup-Dialogfeld auf den Kanalnamen.
+1. Um alle Programme innerhalb eines Kanals zu vergleichen, klicken Sie im Popup-Dialogfeld auf den Kanalnamen.
 
    ![](assets/image2015-4-28-12-3a59-3a36.png)
 

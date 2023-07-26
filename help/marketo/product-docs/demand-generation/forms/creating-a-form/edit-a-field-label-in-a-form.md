@@ -29,13 +29,13 @@ Sie können die Beschriftung eines Formulars auf alles ändern - Sie können sog
 
    >[!TIP]
    >
-   >Wenn Sie sich vorstellen möchten, können Sie auf die ![Bleistift](assets/image2014-9-15-17-3a27-3a7.png). Dadurch wird ein Rich-Text-Editor geöffnet und Sie können mit Bildern, Links und mehr in die Stadt gehen!
+   >Wenn Sie sich etwas vorstellen möchten, können Sie auf die ![Bleistift](assets/image2014-9-15-17-3a27-3a7.png). Dadurch wird ein Rich-Text-Editor geöffnet und Sie können mit Bildern, Links und mehr in die Stadt gehen!
 
-1. Klicken **Beenden**.
+1. Klicks **Beenden**.
 
    ![](assets/image2014-9-15-17-3a27-3a26.png)
 
-1. Klicken **Genehmigen und schließen**.
+1. Klicks **Genehmigen und schließen**.
 
    ![](assets/image2014-9-15-17-3a27-3a44.png)
 

@@ -11,7 +11,7 @@ ht-degree: 7%
 
 ---
 
-# Versionshinweise: April 2013 {#release-notes-april}
+# April 2013 - Versionshinweise {#release-notes-april}
 
 Die folgenden Funktionen sind in der April-Version enthalten.
 

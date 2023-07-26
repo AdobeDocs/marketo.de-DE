@@ -33,7 +33,7 @@ Wenn Ihr Marketo-Synchronisierungsbenutzer auf eine andere Sprache als Englisch 
 
    ![](assets/image2014-12-10-13-3a18-3a22.png)
 
-1. Klicken **Bearbeiten**.
+1. Klicks **Bearbeiten**.
 
    ![](assets/image2014-12-10-13-3a18-3a32.png)
 
@@ -41,7 +41,7 @@ Wenn Ihr Marketo-Synchronisierungsbenutzer auf eine andere Sprache als Englisch 
 
    ![](assets/image2014-12-10-13-3a18-3a45.png)
 
-1. Klicken **Speichern**.
+1. Klicks **Speichern**.
 
    ![](assets/image2014-12-10-13-3a18-3a55.png)
 

@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Wenn Sie eine Social-App erstellen, können Sie die Auswahlmöglichkeiten für soziale Netzwerke konfigurieren und Aufforderungen festlegen, auf die ein Benutzer bei seiner Anmeldung stößt.
 
-## Auswählen von Netzwerken für die Freigabe {#select-networks-for-sharing}
+## Netzwerke für die Freigabe auswählen {#select-networks-for-sharing}
 
 >[!NOTE]
 >
@@ -73,7 +73,7 @@ Wenn Sie eine Social-App erstellen, können Sie die Auswahlmöglichkeiten für s
    >
    >Wenn Sie ein Bild hochladen, wird es hier erst angezeigt, wenn Sie den Social-App-Editor schließen und erneut öffnen.
 
-1. Klicken **Nächste**.
+1. Klicks **Nächste**.
 
 Wenn Sie auswählen, werden die Werte der OpenGraph-Tags der Seite (og:title, og:caption und og:description) und die Miniaturansicht automatisch zu Facebook-Beiträgen hinzugefügt. Siehe nächsten Schritt.
 
@@ -87,7 +87,7 @@ Wenn Sie auswählen, werden die Werte der OpenGraph-Tags der Seite (og:title, og
    >
    >Verwendung {html_title} in Ihren Tweet-Text ein, um den Titel der Seite automatisch anzuzeigen.
 
-1. Klicken **Nächste**.
+1. Klicks **Nächste**.
 
 ## Konfigurieren der LinkedIn-Nachricht {#configure-the-linkedin-message}
 
@@ -99,7 +99,7 @@ Wenn Sie auswählen, werden die Werte der OpenGraph-Tags der Seite (og:title, og
 
    Wenn Sie **Statisch hinzufügen** Inhalt, geben Sie den Titel, die Beschriftung und die Beschreibung ein und laden Sie ein Bild hoch. Siehe die nächsten beiden Schritte.
 
-1. Im **Anzeigen und Bearbeiten** Fenster, klicken Sie auf **Bearbeitungen anzeigen** und bearbeiten Sie die Freigabeaufforderung und -meldung, die in LinkedIn-Beiträgen angezeigt werden.
+1. Im **Anzeigen und Bearbeiten** Fenster, klicken Sie **Bearbeitungen anzeigen** und bearbeiten Sie die Freigabeaufforderung und -meldung, die in LinkedIn-Beiträgen angezeigt werden.
 
    ![](assets/image2014-9-22-12-3a3-3a38.png)
 
@@ -107,7 +107,7 @@ Wenn Sie auswählen, werden die Werte der OpenGraph-Tags der Seite (og:title, og
    >
    >Verwendung {html_title} in Ihren Beitragstext eingeben, um den Seitentitel automatisch anzuzeigen.
 
-1. Wenn Sie **Statisch hinzufügen** Bearbeiten Sie den Titel und die Beschreibung und laden Sie ein benutzerdefiniertes Bild hoch (aus Ihren Marketo-Bildern und -Dateien).
+1. Wenn Sie **Statisch hinzufügen** Bearbeiten Sie den Inhalt oben, bearbeiten Sie den Titel und die Beschreibung und laden Sie ein benutzerdefiniertes Bild hoch (aus Ihren Marketo-Bildern und -Dateien).
 
    ![](assets/image2014-9-22-12-3a4-3a43.png)
 
@@ -117,7 +117,7 @@ Wenn Sie auswählen, werden die Werte der OpenGraph-Tags der Seite (og:title, og
    >
    >Wenn Sie ein Bild hochladen, wird es hier erst angezeigt, wenn Sie den Social-App-Editor schließen und erneut öffnen.
 
-1. Klicken **Nächste**.
+1. Klicks **Nächste**.
 
 ## Bestätigungsnachricht konfigurieren {#configure-the-confirmation-message}
 
@@ -125,7 +125,7 @@ Wenn Sie auswählen, werden die Werte der OpenGraph-Tags der Seite (og:title, og
 
    ![](assets/image2014-9-22-12-3a5-3a30.png)
 
-1. Klicken **Beenden** > **Genehmigen** und **Schließen**.
+1. Klicks **Beenden** > **Genehmigen** und **Schließen**.
 
    ![](assets/image2014-9-22-12-3a5-3a45.png)
 

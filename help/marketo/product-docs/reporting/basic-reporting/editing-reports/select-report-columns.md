@@ -23,7 +23,7 @@ Sie können auswählen, welche Spalten in Ihrem Bericht enthalten sind und welch
 
    ![](assets/image2014-9-16-10-3a43-3a5.png)
 
-1. Klicken Sie auf **Bericht** auf und klicken Sie auf eine beliebige Spaltenüberschrift und wählen Sie **Spalten** und wählen Sie dann die einzuschließenden Spalten aus.
+1. Klicken Sie auf **Bericht** auf eine beliebige Spaltenüberschrift klicken und auswählen **Spalten** und wählen Sie dann die einzuschließenden Spalten aus.
 
    ![](assets/image2014-9-16-10-3a43-3a9.png)
 

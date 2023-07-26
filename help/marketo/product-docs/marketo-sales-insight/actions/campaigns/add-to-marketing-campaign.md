@@ -16,7 +16,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Sichtbarkeit einer Kampagne für Vertriebsbenutzer](/help/marketo/product-docs/marketo-sales-insight/actions/marketo/make-a-campaign-visible-to-sales-connect-users.md)
+>[Sichtbarmachen einer Kampagne für Vertriebsbenutzer](/help/marketo/product-docs/marketo-sales-insight/actions/marketo/make-a-campaign-visible-to-sales-connect-users.md)
 
 ## Hinzufügen von Personen zu einer Kampagne {#add-individuals-to-a-campaign}
 
@@ -40,11 +40,11 @@ ht-degree: 0%
 
    ![](assets/add-to-marketing-campaign-4.png)
 
-1. Da Sie eine Marketing-Kampagne hinzufügen, überspringen Sie die Auswahl einer &quot;Von&quot;-Adresse. Sie können jedoch weitere Kontakte hinzufügen. Klicken Sie bei Bedarf auf Individuen und geben Sie diese ein. Klicken **Nächste** wann geschehen.
+1. Da Sie eine Marketing-Kampagne hinzufügen, überspringen Sie die Auswahl einer &quot;Von&quot;-Adresse. Sie können jedoch weitere Kontakte hinzufügen. Klicken Sie bei Bedarf auf Individuen und geben Sie diese ein. Klicks **Nächste** wann geschehen.
 
    ![](assets/add-to-marketing-campaign-5.png)
 
-1. Klicken **Marketing-Kampagne**.
+1. Klicks **Marketing-Kampagne**.
 
 PICC
 
@@ -60,7 +60,7 @@ PICC
 
 PICC
 
-1. Ihnen werden die Kontakte angezeigt, die sich qualifizieren. Klicken **Starten** , um sie hinzuzufügen.
+1. Ihnen werden die Kontakte angezeigt, die sich qualifizieren. Klicks **Starten** , um sie hinzuzufügen.
 
 PICC
 
@@ -74,11 +74,11 @@ PICC
 
 PICC
 
-1. Klicken **Gruppe zu Kampagne hinzufügen**.
+1. Klicks **Gruppe zu Kampagne hinzufügen**.
 
 PICC
 
-1. Da Sie eine Marketing-Kampagne hinzufügen, überspringen Sie die Auswahl einer &quot;Von&quot;-Adresse. Sie können jedoch weitere Kontakte hinzufügen. Klicken Sie bei Bedarf auf Individuen und geben Sie diese ein. Klicken **Nächste** wann geschehen.
+1. Da Sie eine Marketing-Kampagne hinzufügen, überspringen Sie die Auswahl einer &quot;Von&quot;-Adresse. Sie können jedoch weitere Kontakte hinzufügen. Klicken Sie bei Bedarf auf Individuen und geben Sie diese ein. Klicks **Nächste** wann geschehen.
 
 PICC
 
@@ -102,6 +102,6 @@ PICC
 
 PICC
 
-1. Ihnen werden die Kontakte angezeigt, die sich qualifizieren. Klicken **Starten** , um sie hinzuzufügen.
+1. Ihnen werden die Kontakte angezeigt, die sich qualifizieren. Klicks **Starten** , um sie hinzuzufügen.
 
 PICC

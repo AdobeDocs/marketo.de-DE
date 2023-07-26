@@ -15,11 +15,11 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->Marketo standardisiert jetzt die Sprache für alle Abonnements, sodass Sie Leads/Leads in Ihrem Abonnement und Personen in unseren Dokumenten sehen können. Diese Begriffe bedeuten dasselbe: es wirkt sich nicht auf Artikelanweisungen aus. Es gibt auch einige andere Änderungen. [Weitere Informationen](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md).
+>Marketo standardisiert jetzt die Sprache für alle Abonnements, sodass Sie Leads/Leads in Ihrem Abonnement und Personen in unseren Dokumenten sehen können. Diese Begriffe bedeuten das Gleiche; sie wirken sich nicht auf Artikelanweisungen aus. Es gibt auch einige andere Änderungen. [Weitere Informationen](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md).
 
 >[!NOTE]
 >
->**Definition:** Ein Mitglied ist eine Person mit Status in einem Programm.
+>**Definition:** Ein Mitglied ist eine Person, die einen Status in einem Programm hat.
 
 ## Wie Menschen Mitglieder eines Programms werden {#how-people-become-members-of-a-program}
 
@@ -32,7 +32,7 @@ ht-degree: 1%
    1. Der erste Status des Fortschritts wird automatisch von Person übernommen.
 
 1. Sie verwenden die [Ändern des Programmstatus](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) Flussschritt.
-1. Eine Person registriert oder besucht eine [Webinar, das mit einem Veranstaltungsprogramm synchronisiert wird](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md).
+1. Eine Person registriert oder besucht eine [Webinar mit einem Veranstaltungsprogramm synchronisiert](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md).
 1. Eine Person ist [mit der Marketo iPad-Eincheckanwendung erstellt wurde](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
 1. Eine Person wird zu einer SFDC-Kampagne hinzugefügt, die [mit dem Programm synchronisiert](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md).
 
@@ -60,7 +60,7 @@ Ziel eines Programms ist es, eine sinnvolle Interaktion mit der Person oder dem 
 
 ## Akquirierungsprogramm  {#acquisition-program}
 
-Wenn ein neuer Name in das System als Programmmitglied aufgenommen wird, setzt Marketo dieses Programm automatisch als &quot;Akquise&quot;. Dadurch wird der [Erstkontakt-Attribution](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+Wenn ein neuer Name in das System als Programmmitglied aufgenommen wird, setzt Marketo dieses Programm automatisch als &quot;Akquise&quot;. Dadurch wird die Gutschrift für [Erstkontakt-Attribution](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 >[!MORELIKETHIS]
 >

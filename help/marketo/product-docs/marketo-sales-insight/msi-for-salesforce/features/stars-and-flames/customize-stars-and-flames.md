@@ -13,7 +13,7 @@ ht-degree: 4%
 
 # Anpassen von Sternen und Flammen {#customize-stars-and-flames}
 
-Marketo Sales Insight verwendet Sterne und Flammen, um Leads zu priorisieren. Marketo entscheidet automatisch, wer 1-2-3 Sterne/Flammen erhält. Sie können die Formel jedoch ändern. So geht es:
+Marketo Sales Insight verwendet Sterne und Flammen, um Leads zu priorisieren. Marketo entscheidet automatisch, wer 1-2-3 Sterne/Flammen erhält. Sie können die Formel jedoch ändern. So geht&#39;s:
 
 >[!AVAILABILITY]
 >
@@ -37,7 +37,7 @@ Marketo Sales Insight verwendet Sterne und Flammen, um Leads zu priorisieren. Ma
    >
    >**Definition**
    >
-   >**Dynamik** - Ist ein Prozentwert, der von [relative Daten](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md). Fantastisches Zeug. Diese Methode wird empfohlen.
+   >**Dynamik** - Ist ein aus [relative Daten](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md). Fantastisches Zeug. Diese Methode wird empfohlen.
    >
    >**Statisch** - Ermöglicht die Bestimmung der genauen Punktzahlen - keine Prozentsätze mehr, keine geheimen Saucen mehr.
 
@@ -47,7 +47,7 @@ Marketo Sales Insight verwendet Sterne und Flammen, um Leads zu priorisieren. Ma
 
    >[!TIP]
    >
-   >Bearbeiten Sie einfach den Anfangssatz, Marketo berechnet den Endprozentsatz für Sie!
+   >Bearbeiten Sie einfach den Anfangsprozentsatz, Marketo berechnet den Endprozentsatz für Sie!
 
    ![](assets/image2014-9-16-13-3a38-3a49.png)
 

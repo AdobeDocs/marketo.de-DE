@@ -19,7 +19,7 @@ Verwenden Sie Eingabetypen, Programm-Tags oder Arbeitsbereiche, um die im Kalend
 
 ![](assets/2017-05-10-15-30-47.png)
 
-1. Klicken Sie auf **[!UICONTROL Einstiegstyp]** Dropdown-Liste.
+1. Klicken Sie auf **[!UICONTROL Einstiegstyp]** angezeigt.
 
    >[!NOTE]
    >

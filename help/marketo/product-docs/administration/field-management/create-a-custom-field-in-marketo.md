@@ -19,7 +19,7 @@ Wenn Sie ein neues benutzerdefiniertes Feld in Marketo Engage zum Speichern/Erfa
 
    ![](assets/create-a-custom-field-in-marketo-1.png)
 
-1. Klicken **[!UICONTROL Feldverwaltung]**.
+1. Klicks **[!UICONTROL Feldverwaltung]**.
 
    ![](assets/create-a-custom-field-in-marketo-2.png)
 
@@ -27,7 +27,7 @@ Wenn Sie ein neues benutzerdefiniertes Feld in Marketo Engage zum Speichern/Erfa
    >
    >Wenn Sie möchten, dass die Felder mit Ihrem CRM-System synchronisiert werden, erstellen Sie sie im CRM-System und sie werden automatisch in Marketo erstellt.
 
-1. Klicken **[!UICONTROL Neues benutzerdefiniertes Feld]**.
+1. Klicks **[!UICONTROL Neues benutzerdefiniertes Feld]**.
 
    ![](assets/create-a-custom-field-in-marketo-3.png)
 
@@ -39,7 +39,7 @@ Wenn Sie ein neues benutzerdefiniertes Feld in Marketo Engage zum Speichern/Erfa
 
    ![](assets/create-a-custom-field-in-marketo-4.png)
 
-1. Geben Sie die [!UICONTROL Name] wie Sie möchten, dass sie in Marketo angezeigt wird. Die [!UICONTROL API-Name] wird automatisch generiert. Sie können sie anpassen, sie kann jedoch nicht nach der Festlegung umbenannt werden. Klicken **[!UICONTROL Erstellen]** wann geschehen.
+1. Geben Sie die [!UICONTROL Name] wie Sie möchten, dass sie in Marketo angezeigt wird. Die [!UICONTROL API-Name] wird automatisch generiert. Sie können sie anpassen, sie kann jedoch nicht nach der Festlegung umbenannt werden. Klicks **[!UICONTROL Erstellen]** wann geschehen.
 
 >[!CAUTION]
 >

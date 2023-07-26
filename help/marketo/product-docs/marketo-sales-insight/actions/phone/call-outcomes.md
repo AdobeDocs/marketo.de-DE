@@ -50,7 +50,7 @@ Ermöglichen Sie es Ihren Verkaufsteams, bei Anrufen die Ergebnisse der Anrufe a
 
    ![](assets/call-outcomes-6.png)
 
-1. Klicken **Ergebnisse von Aufrufen verwalten**.
+1. Klicks **Ergebnisse von Aufrufen verwalten**.
 
    ![](assets/call-outcomes-7.png)
 

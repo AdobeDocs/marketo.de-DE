@@ -32,7 +32,7 @@ Erstellen Sie eine neue E-Mail oder verwenden Sie eine bereits vorhandene Vorlag
 
 >[!TIP]
 >
->Erfahren Sie mehr über Ihre [Versandoptionen](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md){target="_blank"}.
+>Informationen zu Ihren [Versandoptionen](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md){target="_blank"}.
 
 ### Anruf {#call}
 

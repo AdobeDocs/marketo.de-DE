@@ -35,7 +35,7 @@ Konfigurieren Sie Adobe Experience Manager (AEM), damit Sie auf AEM Assets zugre
 
    ![](assets/two.png)
 
-1. In **Instrumente** klicken **Aktivitäten** und wählen Sie **Web-Konsole**.
+1. In **Instrumente** klicken **Aktivitäten** und wählen **Web-Konsole**.
 
    ![](assets/2a.png)
 
@@ -47,11 +47,11 @@ Konfigurieren Sie Adobe Experience Manager (AEM), damit Sie auf AEM Assets zugre
 
    ![](assets/four.png)
 
-1. Im **Zulässiger Ursprung (Regexp)** Textfeld, Eingabe `https://.*\.marketo\.com` und klicken Sie auf **Speichern**.
+1. Im **Zulässiger Ursprung (Regexp)** Textfeld, Eingabe `https://.*\.marketo\.com` und klicken **Speichern**.
 
    ![](assets/five-psd.png)
 
-1. Klicken Sie in der Kopfzeile oben auf der Seite auf **Web-Konsole** und wählen Sie **Systeminformationen**.
+1. Klicken Sie in der Kopfzeile oben auf der Seite auf **Web-Konsole** und wählen **Systeminformationen**.
 
    ![](assets/six.png)
 
@@ -59,7 +59,7 @@ Konfigurieren Sie Adobe Experience Manager (AEM), damit Sie auf AEM Assets zugre
 
    ![](assets/seven.png)
 
-1. Klicken **OK** zur Bestätigung.
+1. Klicks **OK** zur Bestätigung.
 
    ![](assets/eight.png)
 
@@ -71,7 +71,7 @@ Konfigurieren Sie Adobe Experience Manager (AEM), damit Sie auf AEM Assets zugre
 
    ![](assets/ten.png)
 
-1. Klicken **Bearbeiten**.
+1. Klicks **Bearbeiten**.
 
    ![](assets/eleven.png)
 

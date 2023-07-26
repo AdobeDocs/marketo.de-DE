@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Klonen eines Programm-Analyzers {#clone-a-program-analyzer}
 
-Nachdem Sie einen Analyzer gespeichert haben, ist es einfach, ihn zu klonen und einen neuen zu erstellen. Öffnen Sie dann das neue und bearbeiten Sie es, wenn es Änderungen erfordert.
+Nachdem Sie einen Analyzer gespeichert haben, ist es einfach, ihn zu klonen, um einen neuen zu erstellen. Öffnen Sie dann das neue und bearbeiten Sie es, wenn es Änderungen erfordert.
 
 1. Klicken Sie auf **Analytics** Kachel.
 

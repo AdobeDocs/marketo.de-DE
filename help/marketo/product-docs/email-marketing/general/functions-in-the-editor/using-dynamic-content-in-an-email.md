@@ -29,17 +29,17 @@ Verwenden Sie dynamische Inhalte in E-Mails, um Ihre Interessenten-Targeting-Inf
 
    ![](assets/login-marketing-activities.png)
 
-1. Wählen Sie Ihre E-Mail aus und klicken Sie auf **Entwurf bearbeiten**.
+1. E-Mail auswählen und auf **Entwurf bearbeiten**.
 
    ![](assets/1.2.png)
 
-1. In diesem Beispiel machen wir die Betreffzeile dynamisch. Klicken Sie in das Feld Betreff und dann auf das **Dynamisch** Schaltfläche.
+1. In diesem Beispiel machen wir die Betreffzeile dynamisch. Klicken Sie in das Feld Betreff und dann auf das **Dynamisch machen** Schaltfläche.
 
    ![](assets/1.3.png)
 
    >[!NOTE]
    >
-   >Sie können auch ein Element innerhalb der E-Mail dynamisch gestalten. Wählen Sie dazu den Bereich aus, klicken Sie auf das Zahnradsymbol und wählen Sie **Dynamisch** (oder [Ersetzen durch Snippet](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md), je nachdem, was Sie tun).
+   >Sie können auch ein Element innerhalb der E-Mail dynamisch gestalten. Wählen Sie dazu den Bereich aus, klicken Sie auf das Zahnradsymbol und wählen Sie **Dynamisch machen** (oder [Ersetzen durch Snippet](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md), je nachdem, was Sie tun).
 
 1. Geben Sie den Segmentierungsnamen ein, wählen Sie ihn aus und klicken Sie auf **Speichern**.
 

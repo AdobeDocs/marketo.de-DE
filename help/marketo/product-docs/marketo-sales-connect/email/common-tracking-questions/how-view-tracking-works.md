@@ -17,7 +17,7 @@ Wir verfolgen E-Mail-Öffnungen, indem wir in den gesendeten E-Mails ein unsicht
 
 Wenn eine Person auf Ihre E-Mail antwortet, aber Sales Connect darauf hinweist, dass sie nicht angezeigt wurde, besteht die Gefahr, dass der Empfänger keine Bilder in seinem E-Mail-Client aktiviert hat (d. h., er klickt in der E-Mail auf die Nachricht &quot;Hier klicken, um Bilder herunterzuladen&quot;).
 
-Tipps für bessere Trackingstatistiken in E-Mails:
+Einige Tipps für bessere Trackingstatistiken in E-Mails:
 
 * Fügen Sie ein Bild (wie ein Logo) in Ihre E-Mails ein, damit der Empfänger die Bilder zum Anzeigen Ihrer Nachricht aktivieren kann.
 

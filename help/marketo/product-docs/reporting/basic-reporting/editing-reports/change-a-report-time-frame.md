@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/image2017-3-27-9-3a15-3a9.png)
 
-1. Wählen Sie Ihren Bericht in der Navigationsstruktur aus und klicken Sie auf das **Einrichtung** Registerkarte.
+1. Wählen Sie Ihren Bericht in der Navigationsstruktur aus und klicken Sie auf die Schaltfläche **Einrichtung** Registerkarte.
 
    ![](assets/image2017-3-27-9-3a57-3a56.png)
 
@@ -48,4 +48,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >Um Ihren Bericht nach bestimmten Personenattributen einzugrenzen, können Sie [Personen in einem Bericht mit einer intelligenten Liste filtern](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md).
+   >Um Ihren Bericht nach bestimmten Personenattributen einzuschränken, können Sie [Personen in einem Bericht mit einer intelligenten Liste filtern](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md).

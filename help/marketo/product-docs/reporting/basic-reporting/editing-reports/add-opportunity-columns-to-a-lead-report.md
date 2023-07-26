@@ -19,7 +19,7 @@ Sie können Opportunitätsspalten hinzufügen, um die Opportunitätsstatistiken 
 
    ![](assets/ma.png)
 
-1. Wählen Sie Ihren Bericht in der Navigationsstruktur aus und klicken Sie auf das **Einrichtung** Registerkarte.
+1. Wählen Sie Ihren Bericht in der Navigationsstruktur aus und klicken Sie auf die Schaltfläche **Einrichtung** Registerkarte.
 
    ![](assets/two.png)
 
@@ -60,12 +60,12 @@ Sie können Opportunitätsspalten hinzufügen, um die Opportunitätsstatistiken 
    | Durchschnittlicher Opportunity-Betrag | Summe der Opportunitätsbeträge dividiert durch die Anzahl der Gelegenheiten. |
    | Opportunity-Gesamtzahl | Anzahl aller Möglichkeiten. |
    | Geschlossen | Anzahl der Gelegenheiten, die geschlossen, gewonnen oder verloren wurden. |
-   | Gewonnen | Anzahl der Chancen, die gewonnen wurden. |
+   | Gewonnen | Anzahl der erfolgreichen Möglichkeiten. |
    | % Gewonnen | Prozentsatz der Chancen, die gewonnen wurden. |
-   | Gewonnener Gesamtbetrag | Summe der Gewinner-Opportunitätsbeträge. |
+   | Gewonnener Gesamtbetrag | Summe der Gewinner-Opportunitäten. |
    | Tage bis Schließen | Durchschnittliche Anzahl Tage zum Schließen von Opportunitys. |
-   | Tage im Vertrieb | Durchschnittliche Dauer des Verkaufszyklus (Tage bis Opportunity + Tage bis zum Schließen). |
+   | Tage im Vertrieb | Durchschnittliche Dauer des Verkaufszyklus (Tage bis Gelegenheit + Tage bis zum Schließen). |
 
    >[!MORELIKETHIS]
    >
-   >Erfahren Sie, wie Sie [die Größe Ihres Berichts verwalten](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md).
+   >Erfahren Sie, wie [die Größe Ihres Berichts verwalten](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md).

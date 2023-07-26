@@ -16,7 +16,7 @@ ht-degree: 3%
 Erstellen Sie einen E-Mail-Leistungsbericht, um zu sehen, wie gut Ihre E-Mails mit Statistiken wie Zugestellt, Öffnungen, Klicks usw. funktionieren.
 
 1. [Erstellen eines Berichts in einem Programm](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) und wählen Sie die **E-Mail-Leistung** [Berichtstyp](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
-1. [Berichtszeitrahmen ändern](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) und klicken Sie auf **Bericht** Registerkarte.
+1. [Ändern des Berichtszeitrahmens](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) und klicken Sie auf **Bericht** Registerkarte.
 1. Du bist da! Sehen Sie sich nun den Bericht an, um zu sehen, wie Ihre E-Mails abgeschnitten haben.
 
    >[!NOTE]
@@ -41,7 +41,7 @@ Erstellen Sie einen E-Mail-Leistungsbericht, um zu sehen, wie gut Ihre E-Mails m
    | Soft Bounce-Ereignis aufgetreten | E-Mail wurde wegen einer temporären Bedingung wie einem Server ausgeschaltet oder einem vollständigen Posteingang abgelehnt. |
    | Ausstehend | Diese Zahl wird berechnet, indem die Anzahl der zugestellten, Bounce und Softbounce gesendeten E-Mails von der Gesamtzahl der gesendeten E-Mails abgezogen wird. |
    | Angeklickter Link | Anzahl der E-Mail-Empfänger, die auf einen Link in der E-Mail geklickt haben |
-   | Hat abbestellt | Anzahl der E-Mail-Empfänger, die auf die **Abmelden** in der E-Mail klicken und das Formular ausfüllen. |
+   | Abgemeldet | Anzahl der E-Mail-Empfänger, die auf die **Abmelden** in der E-Mail klicken und das Formular ausfüllen. |
 
    >[!NOTE]
    >

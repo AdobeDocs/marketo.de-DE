@@ -23,7 +23,7 @@ Sie können einen Zeitrahmen festlegen, innerhalb dessen der Inhalt in Ihrem Str
 
    ![](assets/image2014-9-15-17-3a35-3a56.png)
 
-1. Wählen Sie Ihre **Aktiv ab** date, dann die **Aktiv bis** Datum und Klicken **Speichern**.
+1. Wählen Sie **Aktiv ab** date, dann die **Aktiv bis** Datum und Klicken **Speichern**.
 
    ![](assets/image2014-9-15-17-3a36-3a0.png)
 

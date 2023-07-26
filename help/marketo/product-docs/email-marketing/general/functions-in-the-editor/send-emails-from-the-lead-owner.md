@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Was ist, wenn Sie im Namen des Lead-Eigentümers eine E-Mail an einen Lead senden möchten?  So geht es.
 
-1. Suchen Sie Ihre E-Mail, wählen Sie sie aus und klicken Sie auf **Entwurf bearbeiten**.
+1. E-Mail suchen, auswählen und klicken **Entwurf bearbeiten**.
 
    ![](assets/one.png)
 
-1. Klicken Sie in **Von** ein (löschen Sie einen vorhandenen Namen) und klicken Sie auf die Schaltfläche **Token einfügen** Schaltfläche.
+1. Klicken Sie in der **Von** ein (löschen Sie einen vorhandenen Namen) und klicken Sie auf die Schaltfläche **Token einfügen** Schaltfläche.
 
    ![](assets/two.png)
 

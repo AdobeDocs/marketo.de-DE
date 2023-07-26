@@ -19,7 +19,7 @@ Erstellen wir ein Basissegment, das alle Webbesucher aus den USA und der Finanzd
 
    ![](assets/image2016-8-18-15-3a37-3a32.png)
 
-1. Klicken **Neu erstellen**.
+1. Klicks **Neu erstellen**.
 
    ![](assets/image2014-11-19-19-3a33-3a47.png)
 
@@ -49,11 +49,11 @@ Erstellen wir ein Basissegment, das alle Webbesucher aus den USA und der Finanzd
 
    Sie haben nun ein Basissegment für alle Interessenten eingerichtet, die Ihre Website aus den USA und der Finanzbranche besuchen.
 
-1. Klicken **Speichern** , um das Segment zu speichern, oder **Kampagne speichern und definieren** , um zur Seite Kampagnen zu gelangen.
+1. Klicks **Speichern** zum Speichern des Segments oder **Kampagne speichern und definieren** , um zur Seite Kampagnen zu gelangen.
 
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 
-Jetzt haben Sie Ihre Besucher aus den USA segmentiert und die Finanzdienstleistungsbranche hinzugefügt.
+Jetzt haben Sie Ihre Besucher aus den Vereinigten Staaten segmentiert und fügen Sie die Finanzdienstleistungsbranche hinzu.
 
 >[!MORELIKETHIS]
 >

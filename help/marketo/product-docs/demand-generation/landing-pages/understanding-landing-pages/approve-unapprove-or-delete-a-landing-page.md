@@ -17,7 +17,7 @@ Landingpages befinden sich im Entwurfsmodus, bis Sie sie genehmigen. Durch die G
 
 ## Genehmigen einer Landingpage {#approve-a-landing-page}
 
-1. Landingpage auswählen, navigieren Sie zu **Landingpage-Aktionen** und klicken Sie auf **Genehmigen**.
+1. Landingpage auswählen, navigieren Sie zu **Landingpage-Aktionen** und klicken **Genehmigen**.
 
    >[!TIP]
    >
@@ -25,7 +25,7 @@ Landingpages befinden sich im Entwurfsmodus, bis Sie sie genehmigen. Durch die G
 
    ![](assets/image2014-9-16-15-3a28-3a22.png)
 
-1. Sie können auch mit der rechten Maustaste auf Ihre Landingpage klicken und auf **Genehmigen**.
+1. Sie können auch mit der rechten Maustaste auf Ihre Landingpage klicken und **Genehmigen**.
 
    ![](assets/image2014-9-16-15-3a30-3a4.png)
 
@@ -35,11 +35,11 @@ Landingpages befinden sich im Entwurfsmodus, bis Sie sie genehmigen. Durch die G
 
 ## Aufheben der Genehmigung einer Landingpage {#unapprove-a-landing-page}
 
-1. Landingpage auswählen, navigieren Sie zu **Landingpage-Aktionen** und klicken Sie auf **Nicht genehmigen**.
+1. Landingpage auswählen, navigieren Sie zu **Landingpage-Aktionen** und klicken **Nicht genehmigen**.
 
    ![](assets/image2014-9-16-15-3a31-3a8.png)
 
-1. Sie können auch mit der rechten Maustaste auf Ihre Landingpage klicken und **Nicht genehmigen**.
+1. Sie können auch mit der rechten Maustaste auf Ihre Landingpage klicken und auf **Nicht genehmigen**.
 
    ![](assets/image2014-9-16-15-3a31-3a34.png)
 
@@ -49,7 +49,7 @@ Landingpages befinden sich im Entwurfsmodus, bis Sie sie genehmigen. Durch die G
 
 ## Landingpage löschen {#delete-a-landing-page}
 
-1. Landingpage auswählen, navigieren Sie zu **Landingpage-Aktionen** und klicken Sie auf **Löschen**.
+1. Landingpage auswählen, navigieren Sie zu **Landingpage-Aktionen** und klicken **Löschen**.
 
    ![](assets/image2014-9-16-15-3a49-3a59.png)
 
@@ -57,7 +57,7 @@ Landingpages befinden sich im Entwurfsmodus, bis Sie sie genehmigen. Durch die G
    >
    >Sie können eine genehmigte Landing Page nicht löschen. Entziehen Sie zuerst die Genehmigung.
 
-1. Sie können auch mit der rechten Maustaste auf Ihre Landingpage klicken und auf **Löschen**.
+1. Sie können auch mit der rechten Maustaste auf Ihre Landingpage klicken und **Löschen**.
 
    ![](assets/image2014-9-16-15-3a50-3a40.png)
 
@@ -81,7 +81,7 @@ Möchten Sie mehrere Landingpages gleichzeitig löschen? So geht es.
 
    ![](assets/three.png)
 
-1. Klicken **Löschen**.
+1. Klicks **Löschen**.
 
    ![](assets/four.png)
 

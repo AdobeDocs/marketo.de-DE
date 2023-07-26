@@ -23,7 +23,7 @@ Wenn Sie mit anderen Team-Mitgliedern zusammenarbeiten möchten, kann die Zuweis
 
    ![](assets/one-1.png)
 
-1. Klicken **Aufgabe hinzufügen**.
+1. Klicks **Aufgabe hinzufügen**.
 
    ![](assets/two-1.png)
 
@@ -47,7 +47,7 @@ Wenn Sie mit anderen Team-Mitgliedern zusammenarbeiten möchten, kann die Zuweis
 
    ![](assets/seven.png)
 
-1. Legen Sie die Priorität fest.
+1. Festlegen der Priorität.
 
    ![](assets/eight.png)
 

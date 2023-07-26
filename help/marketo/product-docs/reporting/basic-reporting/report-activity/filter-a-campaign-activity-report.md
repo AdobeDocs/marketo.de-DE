@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Kampagnenaktivitätsbericht filtern {#filter-a-campaign-activity-report}
 
-Fokussieren Sie Ihre [Bericht zur Kampagnenaktivität](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)spezifische [Smart-Kampagnen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md).
+Fokus [Bericht zur Kampagnenaktivität](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)spezifische [Smart-Kampagnen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md).
 
 1. Navigieren Sie zu **Marketingaktivitäten** (oder **Analytics**) und wählen Sie den Bericht zur Kampagnenaktivität aus.
 
@@ -23,7 +23,7 @@ Fokussieren Sie Ihre [Bericht zur Kampagnenaktivität](/help/marketo/product-doc
 
    ![](assets/image2014-9-16-16-3a14-3a1.png)
 
-1. Wählen Sie die Ordner und spezifischen Smart-Kampagnen aus, die in Ihren Bericht aufgenommen werden sollen. Klicken **Anwenden**.
+1. Wählen Sie die Ordner und spezifischen Smart-Kampagnen aus, die in Ihren Bericht aufgenommen werden sollen. Klicks **Anwenden**.
 
    ![](assets/image2014-9-16-16-3a14-3a11.png)
 

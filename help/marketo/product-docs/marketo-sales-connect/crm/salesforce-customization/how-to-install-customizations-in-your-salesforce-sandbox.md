@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/two-3.png)
 
-1. Klicken **Installieren von Anpassungen**.
+1. Klicks **Installieren von Anpassungen**.
 
    ![](assets/three-3.png)
 

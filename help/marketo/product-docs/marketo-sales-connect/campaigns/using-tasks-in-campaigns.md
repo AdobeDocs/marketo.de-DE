@@ -6,7 +6,7 @@ exl-id: 444e7e3a-d774-40cf-82d1-40e395a79baa
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -25,4 +25,4 @@ Sie können auch eine &quot;Aufgabe an Inmail&quot; in LinkedIn kontaktieren, we
 
 Aufgaben werden immer mit jedem Kontakt in der Kampagne verknüpft. Dies bedeutet, dass Sie jede Person aufrufen und die Aufgabe schließen müssen, damit die Kampagne fortgesetzt werden kann.
 
-Sie können Ihre Aufgaben in folgenden Bereichen verwalten: den Tab Aufgaben Ihrer Kampagne in Campaign 2.0, direkt von Ihrem Command Center oder aus dem Abschnitt Aufgaben des Live-Feeds. Darüber hinaus können Sie Ihre Aufgaben auch über Salesforce verwalten.
+Sie können Ihre Aufgaben im Tab Aufgaben Ihrer Kampagne in Campaign 2.0 verwalten. Dies erfolgt direkt über Ihr Command Center oder im Abschnitt Aufgaben des Live-Feeds. Darüber hinaus können Sie Ihre Aufgaben auch über Salesforce verwalten.

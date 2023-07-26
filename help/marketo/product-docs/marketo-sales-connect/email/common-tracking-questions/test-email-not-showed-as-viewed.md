@@ -1,7 +1,7 @@
 ---
 unique-page-id: 14352538
 description: Test-E-Mail nicht wie angezeigt - Marketo Docs - Produktdokumentation
-title: Test-E-Mail wird nicht wie angezeigt angezeigt
+title: Test-E-Mail nicht angezeigt als
 exl-id: a97bf35c-6cc2-49d1-b8ab-7a434c4482b6
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,9 +11,9 @@ ht-degree: 0%
 
 ---
 
-# Test-E-Mail wird nicht wie angezeigt angezeigt {#test-email-not-showed-as-viewed}
+# Test-E-Mail nicht angezeigt als {#test-email-not-showed-as-viewed}
 
-Selbst wenn Sie Ihre Nachricht an eine andere E-Mail-Adresse gesendet haben, werden wir Sie nicht beim Anzeigen von E-Mails, die Sie selbst im Live Feed gesendet haben, anmelden. Unser Tracking ist gerätebasiert. Solange Sie einen Computer verwenden, mit dem Sie sich bei Sales Connect angemeldet haben, filtern wir diese Aktivität aus.
+Selbst wenn Sie Ihre Nachricht an eine andere E-Mail-Adresse gesendet haben, werden wir Sie nicht beim Anzeigen von E-Mails, die Sie selbst im Live Feed gesendet haben, anmelden. Unser Tracking ist gerätebasiert. Solange Sie einen Computer verwenden, mit dem Sie sich bei Sales Connect angemeldet haben, filtern wir diese Aktivität heraus.
 
 Der Grund? Sales Connect ist intelligent, und unsere aktiven Benutzer würden uns nie verzeihen, wenn ihre eigenen Informationen jedes Mal, wenn sie eine von ihnen gesendete E-Mail ansehen, in der Live-Feed-Aktivität angezeigt würden.
 

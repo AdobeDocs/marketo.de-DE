@@ -19,7 +19,7 @@ Der Marketing-Kalender kann nach Objekten in bestimmten Arbeitsbereichen gefilte
 
    ![](assets/2017-05-10-15-30-47-1.png)
 
-1. Wählen Sie im Filterbereich die **[!UICONTROL Arbeitsbereich]** Dropdown-Liste. Wählen Sie den gewünschten Arbeitsbereich aus.
+1. Wählen Sie im Filterbereich die **[!UICONTROL Arbeitsbereich]** angezeigt. Wählen Sie den gewünschten Arbeitsbereich aus.
 
    ![](assets/image2014-9-24-11-3a34-3a6.png)
 

@@ -33,7 +33,7 @@ Geführte Landingpages können als lokale Assets eines Programms oder in Design 
 
    ![](assets/image2015-5-26-9-3a24-3a2.png)
 
-1. Klicken Sie auf **Neu** Dropdown-Liste. Auswählen **Neues lokales Asset**.
+1. Klicken Sie auf **Neu** angezeigt. Auswählen **Neues lokales Asset**.
 
    ![](assets/image2015-5-26-9-3a25-3a36.png)
 
@@ -45,7 +45,7 @@ Geführte Landingpages können als lokale Assets eines Programms oder in Design 
 
    >[!NOTE]
    >
-   >Geführte Landingpage-Vorlagen verfügen über die ![—](assets/image2015-5-26-9-3a26-3a51.png) neben ihnen. Geführte Vorlagen sind so strukturiert, dass sie vollständig responsiv bleiben können.
+   >Geführte Landingpage-Vorlagen enthalten die ![—](assets/image2015-5-26-9-3a26-3a51.png) neben ihnen. Geführte Vorlagen sind so strukturiert, dass sie vollständig responsiv bleiben können.
 
    ![](assets/image2015-5-24-15-3a47-3a56.png)
 
@@ -55,7 +55,7 @@ Geführte Landingpages können als lokale Assets eines Programms oder in Design 
 
    ![](assets/six.png)
 
-1. Klicken Sie auf **Neu** Dropdown-Liste. Auswählen **Neue Landingpage**.
+1. Klicken Sie auf **Neu** angezeigt. Auswählen **Neue Landingpage**.
 
    ![](assets/seven.png)
 

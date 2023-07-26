@@ -11,15 +11,15 @@ ht-degree: 4%
 
 ---
 
-# Versionshinweise: Frühjahr 17 {#release-notes-spring}
+# Versionshinweise: Frühling &#39;17 {#release-notes-spring}
 
 Die folgenden Funktionen sind in der Version Frühjahr 17 enthalten. Überprüfen Sie Ihre Marketo-Edition auf Funktionsverfügbarkeit.
 
 Klicken Sie auf die Titel-Links, um detaillierte Artikel zu den einzelnen Funktionen anzuzeigen. **Hinweis**: Wenn ein Thema mehrere Unterüberschriften enthält, werden die Links dort platziert.
 
-## [linkedIn Lead Gen Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
+## [LinkedIn Lead Gen Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
 
-[linkedIn Lead Gen Forms](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) sind eine direktere Möglichkeit für ein Unternehmen, Lead-Generierungskampagnen in LinkedIn durchzuführen. Personen können Formulare ausfüllen, um ihr Interesse an einem Produkt oder Dienst zum Ausdruck zu bringen, sodass das Unternehmen die Details der Person erfassen und mit Marketo synchronisieren kann, wo automatisierte Folgeprozesse und Lead-Routing-Aktivitäten stattfinden können.
+[LinkedIn Lead Gen Forms](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) sind eine direktere Möglichkeit für ein Unternehmen, Lead-Generierungskampagnen in LinkedIn durchzuführen. Personen können Formulare ausfüllen, um ihr Interesse an einem Produkt oder Dienst zum Ausdruck zu bringen, sodass das Unternehmen die Details der Person erfassen und mit Marketo synchronisieren kann, wo automatisierte Folgeprozesse und Lead-Routing-Aktivitäten stattfinden können.
 
 Die Marketo-Integration mit LinkedIn Lead Gen Forms erfasst automatisch die Informationen, die ein Lead im Lead Gen-Formular bereitstellt. Folgenachrichten und Benachrichtigungen können dann mit der neuen automatisiert werden **Ausfüllen des LinkedIn Lead Gen-Formulars** Trigger und Filter.
 

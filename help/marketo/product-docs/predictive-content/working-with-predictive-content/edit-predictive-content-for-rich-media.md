@@ -23,7 +23,7 @@ Hier erfahren Sie, wie Sie Ihre prädiktiven Inhalte für Rich Media einrichten.
 
    ![](assets/image2017-10-3-9-3a40-3a38.png)
 
-1. Klicken **Rich Media**.
+1. Klicks **Rich Media**.
 
    ![](assets/image2017-10-3-9-3a41-3a33.png)
 
@@ -51,6 +51,6 @@ Hier erfahren Sie, wie Sie Ihre prädiktiven Inhalte für Rich Media einrichten.
 
    ![](assets/six-1.png)
 
-1. Klicken **Speichern**.
+1. Klicks **Speichern**.
 
    ![](assets/save.png)

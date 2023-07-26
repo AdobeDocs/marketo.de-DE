@@ -46,7 +46,7 @@ Erfahren Sie mehr über die verschiedenen Einstellungsoptionen in MPI.
  <tbody> 
   <tr> 
    <td><strong>Kalenderzeitraum</strong></td> 
-   <td>Stellen Sie den vorherigen Zeitraum auf Folgendes ein: vorherigen Kalendermonat, -quartal oder -jahr.</td> 
+   <td>Setzen Sie den vorherigen Zeitraum auf: Vorheriger Kalendermonat, -quartal oder -jahr.</td> 
   </tr> 
   <tr> 
    <td><strong>Jahresübergreifender Zeitraum</strong></td> 

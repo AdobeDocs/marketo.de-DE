@@ -23,11 +23,11 @@ Führen Sie diese Schritte aus, um eine neue benutzerdefinierte Aktivität zu er
 
    ![](assets/create-a-custom-activity-1.png)
 
-1. Klicken **[!UICONTROL Benutzerdefinierte Marketo-Aktivitäten]**.
+1. Klicks **[!UICONTROL Benutzerdefinierte Marketo-Aktivitäten]**.
 
    ![](assets/create-a-custom-activity-2.png)
 
-1. Klicken **[!UICONTROL Neue benutzerdefinierte Aktivität]**.
+1. Klicks **[!UICONTROL Neue benutzerdefinierte Aktivität]**.
 
    ![](assets/create-a-custom-activity-3.png)
 
@@ -39,7 +39,7 @@ Führen Sie diese Schritte aus, um eine neue benutzerdefinierte Aktivität zu er
    >
    >Wenn Sie den API-Namen ändern möchten, stellen Sie sicher, dass der Name nicht mit Feldern in anderen benutzerdefinierten Aktivitäten in Konflikt gerät.
 
-1. Definieren Sie Ihre [!UICONTROL Filter] und [!UICONTROL Trigger] und klicken Sie auf **[!UICONTROL Nächste]**.
+1. Definieren Sie [!UICONTROL Filter] und [!UICONTROL Trigger] und klicken **[!UICONTROL Nächste]**.
 
    ![](assets/create-a-custom-activity-5.png)
 

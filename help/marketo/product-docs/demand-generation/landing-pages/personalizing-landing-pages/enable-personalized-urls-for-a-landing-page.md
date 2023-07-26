@@ -23,7 +23,7 @@ Personalisierte URLs eignen sich hervorragend für Druckpost-Kampagnen.
 
    ![](assets/image2014-9-18-13-3a24-3a3.png)
 
-1. Jetzt können Sie **Personalisierte URLs aktivieren** und klicken Sie auf **Speichern**.
+1. Jetzt können Sie **Personalisierte URLs aktivieren** und klicken **Speichern**.
 
    ![](assets/image2014-9-18-13-3a23-3a53.png)
 

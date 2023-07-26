@@ -1,7 +1,7 @@
 ---
 unique-page-id: 11385020
 description: Aktivieren prädiktiver Inhalte in E-Mails - Marketo-Dokumente - Produktdokumentation
-title: Aktivieren von prädiktivem Inhalt in E-Mails
+title: Aktivieren prädiktiver Inhalte in E-Mails
 exl-id: 7eaefee1-23e8-47ee-afff-adcf49096aa7
 feature: Predictive Content
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# Aktivieren von prädiktivem Inhalt in E-Mails {#enable-predictive-content-in-emails}
+# Aktivieren prädiktiver Inhalte in E-Mails {#enable-predictive-content-in-emails}
 
 Erstellen Sie ein oder mehrere Bilder in Ihrer E-Mail-Prognose und passen Sie das Erlebnis für jeden Empfänger an.
 
@@ -33,11 +33,11 @@ Erstellen Sie ein oder mehrere Bilder in Ihrer E-Mail-Prognose und passen Sie da
 
 ## Hinzufügen prädiktiver Inhalte mit dem Email 2.0 Editor {#adding-predictive-content-using-the-email-editor}
 
-1. Klicken **Marketingaktivitäten**.
+1. Klicks **Marketingaktivitäten**.
 
    ![](assets/one.png)
 
-1. Wählen Sie Ihre E-Mail aus und klicken Sie auf **Entwurf bearbeiten**.
+1. E-Mail auswählen und auf **Entwurf bearbeiten**.
 
    ![](assets/two.png)
 
@@ -87,7 +87,7 @@ Nachdem Sie Ihre E-Mail validiert haben, wird sie mit Predictive Content ausgest
 
 Wenn Sie kein [Email 2.0](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md){target="_blank"} Vorlage können Sie Ihrer E-Mail Predictive Content hinzufügen, indem Sie einfach ein Bild in Ihrer Vorlage als bearbeitbares Marketo-Bildelement taggen.
 
-Erfahren Sie mehr über die [Marketo-spezifische Syntax hier](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#elements){target="_blank"}.
+Informationen zum [Marketo-spezifische Syntax hier](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#elements){target="_blank"}.
 
 Im Folgenden finden Sie ein Beispiel dafür, wie der Code aussehen sollte (dies ist nur ein Beispiel, kopieren Sie den unten stehenden Code nicht genau).
 

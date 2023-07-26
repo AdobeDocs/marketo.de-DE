@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Fügen Sie benutzerdefinierte Felder zu den Konten hinzu, ordnen Sie sie Ihrem CRM-System zu und verwenden Sie sie zur CRM-Kontoerkennung in Marketo.
 
-1. Klicken **Admin**.
+1. Klicks **Admin**.
 
    ![](assets/admin.png)
 
-1. Klicken **Feldverwaltung**, dann **Neues benutzerdefiniertes Feld**.
+1. Klicks **Feldverwaltung**, dann **Neues benutzerdefiniertes Feld**.
 
    ![](assets/two-4.png)
 

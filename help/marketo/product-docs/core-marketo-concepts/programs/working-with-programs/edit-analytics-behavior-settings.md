@@ -43,11 +43,11 @@ Sie können die [Analytics-Verhalten auf Admin-Ebene bei Kanälen](/help/marketo
 >
 >Das Standardverhalten (wenn diese Einstellung nicht angewendet wird) besteht darin, dass das Programm NUR dann in Analytics eingeschlossen wird, wenn mindestens ein Zeitraumkosten vorhanden ist, selbst wenn einem Wert Null zugewiesen ist.
 
-1. Klicken **Speichern**.
+1. Klicks **Speichern**.
 
    ![](assets/image2014-9-24-11-3a42-3a6.png)
 
-Gut gemacht! Jetzt wissen Sie, wie Sie das Analytics-Verhalten auf Programmebene überschreiben können.
+Schön gemacht! Jetzt wissen Sie, wie Sie das Analyseverhalten auf Programmebene überschreiben können.
 
 >[!NOTE]
 >

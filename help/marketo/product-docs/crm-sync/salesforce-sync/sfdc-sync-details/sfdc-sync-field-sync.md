@@ -21,7 +21,7 @@ Wir synchronisieren die meisten Standardfelder in SFDC und jedes benutzerdefinie
 
 ## Wie können Sie feststellen, ob ein Datensatz in Marketo ein Lead oder ein Kontakt in Salesforce ist? {#how-do-you-determine-if-a-record-in-marketo-is-a-lead-or-a-contact-in-salesforce}
 
-Wir haben ein Feld in Marketo namens SFDC Type. Es hat drei mögliche Werte: Lead, Kontakt oder leer ist. Wenn es leer ist, bedeutet dies, dass dieser Marketo-Lead nicht in SFDC vorhanden ist.
+Wir haben ein Feld in Marketo namens SFDC Type. Es hat drei mögliche Werte: Lead, Kontakt oder es ist leer. Wenn es leer ist, bedeutet dies, dass dieser Marketo-Lead nicht in SFDC vorhanden ist.
 
 ## Wie können Sie feststellen, ob ein Lead oder Kontakt im SFDC gelöscht wird? {#how-do-you-determine-if-a-lead-or-contact-is-deleted-in-sfdc}
 

@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Senden einer Marketo Sales-E-Mail aus Microsoft Dynamics {#send-a-marketo-sales-email-from-microsoft-dynamics}
 
-Ihr Verkaufsteam kann E-Mails versenden und sie auf Öffnungen und Klicks direkt in Microsoft Dynamics nachverfolgen lassen. So geht es.
+Ihr Verkaufsteam kann E-Mails senden und sie auf Öffnungen und Klicks direkt in Microsoft Dynamics verfolgen lassen. So geht es.
 
 1. Wechseln Sie in Dynamics zum **Vertrieb** Bereich.
 
@@ -41,7 +41,7 @@ Ihr Verkaufsteam kann E-Mails versenden und sie auf Öffnungen und Klicks direkt
 
    Sie können auf **Test-E-Mail senden** und die E-Mail an Sie gesendet wird (primäre E-Mail-Adresse in Microsoft Dynamics), bevor die E-Mail gesendet wird.
 
-Gut gemacht! Jetzt wissen Sie, wie Sie getrackte E-Mails von Marketo direkt aus Microsoft Dynamics senden können.
+Schön gemacht! Jetzt wissen Sie, wie Sie getrackte E-Mails von Marketo direkt aus Microsoft Dynamics senden können.
 
 >[!MORELIKETHIS]
 >

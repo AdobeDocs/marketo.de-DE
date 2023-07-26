@@ -28,7 +28,7 @@ Es ist schnell und einfach, Muster einer E-Mail zu senden. Informationen zum Sen
    >
    >Meine Token werden in den für das E-Mail-Programm geeigneten Wert aufgelöst.
 
-1. Geben Sie eine oder mehrere E-Mail-Adressen für den Versand ein. Trennen Sie mehrere E-Mail-Adressen durch Kommas. Klicken **Senden** wann geschehen.
+1. Geben Sie eine oder mehrere E-Mail-Adressen für den Versand ein. Trennen Sie mehrere E-Mail-Adressen durch Kommas. Klicks **Senden** wann geschehen.
 
    ![](assets/two.png)
 
@@ -46,7 +46,7 @@ Es ist schnell und einfach, Muster einer E-Mail zu senden. Informationen zum Sen
 
    ![](assets/three-281-29.jpg)
 
-1. Klicken **E-Mail-Aktionen** auswählen **Beispiel senden**.
+1. Klicks **E-Mail-Aktionen** auswählen **Beispiel senden**.
 
    ![](assets/four.png)
 
@@ -56,7 +56,7 @@ Es ist schnell und einfach, Muster einer E-Mail zu senden. Informationen zum Sen
 
    >[!NOTE]
    >
-   >Das Feld Trigger gilt nur für Benutzer, die [email, Skripterstellung](https://developers.marketo.com/documentation/velocity-script/).
+   >Das Feld Trigger gilt nur für Benutzer, die [email, Skript](https://developers.marketo.com/documentation/velocity-script/).
 
 ## Senden einer Beispiel-E-Mail anhand eines Segments {#send-a-sample-email-based-on-a-segment}
 
@@ -68,7 +68,7 @@ Es ist schnell und einfach, Muster einer E-Mail zu senden. Informationen zum Sen
 
    ![](assets/three-281-29.jpg)
 
-1. Klicken **Vorschau**.
+1. Klicks **Vorschau**.
 
    ![](assets/1.png)
 
@@ -84,7 +84,7 @@ Es ist schnell und einfach, Muster einer E-Mail zu senden. Informationen zum Sen
 
    ![](assets/4.png)
 
-1. Klicken **Beispiel senden** , um eine Test-E-Mail Ihres Segments zu erhalten.
+1. Klicks **Beispiel senden** , um eine Test-E-Mail Ihres Segments zu erhalten.
 
    ![](assets/5.png)
 
@@ -92,4 +92,4 @@ Es ist schnell und einfach, Muster einer E-Mail zu senden. Informationen zum Sen
    >
    >Im Bearbeitungsmodus Ihrer E-Mail können Sie auch eine auf einem Segment basierende Beispiel-E-Mail senden. Klicken Sie auf **E-Mail-Aktionen** Dropdown-Liste auswählen **Beispiel senden** und wählen Sie dann Ihr Segment aus.
 
-Es ist sehr wichtig, Ihre Inhalte vor dem Start einer Kampagne zu analysieren. Mess zweimal, schneide mal!
+Es ist sehr wichtig, Ihre Inhalte vor dem Start einer Kampagne zu evaluieren. Mess zweimal, schneide mal!

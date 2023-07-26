@@ -38,7 +38,7 @@ Der Massen-Versand von E-Mails ist eine hervorragende Möglichkeit, die potenzie
   <tr> 
    <td><p><span>Gruppen-E-Mail</span> </p></td> 
    <td><p><span>1,000</span> </p></td> 
-   <td><p><span>Wählen Sie eine Gruppe aus und klicken Sie auf</span><span> die </span><span>Schaltfläche "Gruppenaktionen"</span><span>oder geben Sie den Gruppennamen in das Feld "An"ein. </span> </p></td> 
+   <td><p><span>Wählen Sie eine Gruppe und klicken Sie auf</span><span> die </span><span>Schaltfläche "Gruppenaktionen"</span><span>oder geben Sie den Gruppennamen in das Feld An ein. </span> </p></td> 
    <td><p><span>Ja</span> </p></td> 
    <td><p><span>Nein</span> </p></td> 
    <td><p><span>Ja</span> </p></td> 
@@ -54,15 +54,15 @@ Der Massen-Versand von E-Mails ist eine hervorragende Möglichkeit, die potenzie
  </tbody> 
 </table>
 
-**Verwenden von Gruppen-E-Mail**
+**Verwenden der Gruppenemail**
 
-Sie können jede E-Mail in der Liste in der Vorschau anzeigen, um festzustellen, ob die dynamischen Felder korrekt ausgefüllt sind, und die Vorlage, die Sie versenden möchten, in einer Massenbearbeitung bearbeiten. Sie können jedoch keine eindeutigen Änderungen für jeden Benutzer vornehmen.
+Sie können jede E-Mail in der Liste in der Vorschau anzeigen, um festzustellen, ob die dynamischen Felder korrekt ausgefüllt sind, und die Vorlage, die Sie versenden möchten, in einer Massenbearbeitung bearbeiten. Sie können jedoch keine eindeutigen &quot;pro Benutzer&quot;-Bearbeitungen vornehmen.
 
 **Verwenden von Select und Senden**
 
-Standardmäßig werden Sie alle Empfänger bearbeiten. Sie können jedoch auch jede einzelne E-Mail auswählen, um benutzerdefinierte Bearbeitungen vorzunehmen. Dies eignet sich hervorragend zum Hinzufügen einer oder mehrerer eindeutiger Zeilen zur Anpassung an Empfänger, mit denen Sie einen personalisierteren Ansatz wählen möchten.
+Standardmäßig werden Sie alle Empfänger bearbeiten. Sie können jedoch auch jede einzelne E-Mail auswählen, um benutzerdefinierte Bearbeitungen vorzunehmen. Dies eignet sich hervorragend zum Hinzufügen einer oder mehrerer eindeutiger Zeile(n) zur Anpassung an Empfänger, mit denen Sie einen personalisierteren Ansatz wählen möchten.
 
 >[!MORELIKETHIS]
 >
 >* [Erstellen von Massen-E-Mails mit Auswählen und Senden](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)
->* [Senden von E-Mails über Gruppen-E-Mails](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
+>* [Senden von E-Mails per Gruppenemail](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)

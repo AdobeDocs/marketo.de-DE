@@ -1,7 +1,7 @@
 ---
 unique-page-id: 7515069
 description: Grundlegendes zu Elementen und Variablen in geführten Vorlagen - Marketo-Dokumente - Produktdokumentation
-title: Grundlegendes zu Elementen und Variablen in geführten Vorlagen
+title: Elemente und Variablen in geführten Vorlagen
 exl-id: c25c8b2b-d596-46f7-a570-b4a5cb5957a6
 feature: Landing Pages
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,9 +11,9 @@ ht-degree: 4%
 
 ---
 
-# Grundlegendes zu Elementen und Variablen in geführten Vorlagen {#understanding-elements-and-variables-in-guided-templates}
+# Elemente und Variablen in geführten Vorlagen {#understanding-elements-and-variables-in-guided-templates}
 
-Geführte Landingpage-Vorlagen haben zwei Arten von bearbeitbaren Abschnitten: -Elemente und -Variablen.
+Geführte Landingpage-Vorlagen haben zwei Arten von bearbeitbaren Abschnitten: Elemente und Variablen.
 
 ## Elemente {#elements}
 

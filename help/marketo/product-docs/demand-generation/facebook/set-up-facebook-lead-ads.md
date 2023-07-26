@@ -27,7 +27,7 @@ Verwendung [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) , u
 
    ![](assets/image2016-11-29-10-3a50-3a29.png)
 
-1. Navigieren Sie zu **LaunchPoint** klicken Sie auf **Neu,** und wählen Sie **Neuer Dienst**.
+1. Navigieren Sie zu **LaunchPoint**, klicken Sie auf **Neu,** und wählen **Neuer Dienst**.
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
@@ -51,7 +51,7 @@ Verwendung [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) , u
 
    ![](assets/image2016-11-29-10-3a56-3a3.png)
 
-1. Du wirst feststellen, dass du jetzt autorisiert bist. Klicken **Nächste**.
+1. Du wirst feststellen, dass du jetzt autorisiert bist. Klicks **Nächste**.
 
    ![](assets/image2016-11-29-10-3a56-3a28.png)
 
@@ -63,7 +63,7 @@ Verwendung [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) , u
 
    ![](assets/image2016-11-29-10-3a58-3a36.png)
 
-1. Um standardmäßige Facebook- zu Marketo-Feldzuordnungen zu akzeptieren, klicken Sie einfach auf **Erstellen**.
+1. Um die standardmäßigen Facebook- zu Marketo-Feldzuordnungen zu akzeptieren, klicken Sie einfach auf **Erstellen**.
 
    >[!TIP]
    >
@@ -75,7 +75,7 @@ Verwendung [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) , u
 
    ![](assets/image2016-11-29-11-3a0-3a2.png)
 
-   Gut gemacht! Leads fließen in Marketo über erfolgreiche Facebook Lead Ad-Kampagnen.
+   Schön gemacht! Leads fließen in Marketo über erfolgreiche Facebook Lead Ad-Kampagnen.
 
    ![](assets/image2016-11-29-12-3a32-3a54.png)
 

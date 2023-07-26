@@ -21,7 +21,7 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 * Ein primärer Abschnitt
 
-   * enthält eine Kopfzeile, Text und eine Schaltfläche.
+   * enthält eine Kopfzeile, einen Textkörper und eine Schaltfläche.
 
 * Drei Hauptteilabschnitte (optional)
 * Fußzeile (optional)

@@ -31,7 +31,7 @@ Sie können eine Liste von Personen importieren, die automatisch Mitglied eines 
 
    ![](assets/image2014-9-18-15-3a3-3a57.png)
 
-1. Klicken **Importmitglieder**.
+1. Klicks **Importieren von Mitgliedern**.
 
    ![](assets/image2014-9-18-15-3a38-3a14.png)
 
@@ -51,7 +51,7 @@ Sie können eine Liste von Personen importieren, die automatisch Mitglied eines 
 
    ![](assets/image2014-9-18-15-3a41-3a32.png)
 
-1. Klicken **Import**.
+1. Klicks **Import**.
 
    ![](assets/image2014-9-18-15-3a44-3a19.png)
 

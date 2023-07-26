@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-28-19-3a50-3a49.png)
 
-1. Klicken **Rollen**.
+1. Klicks **Rollen**.
 
    ![](assets/image2015-4-28-19-3a57-3a58.png)
 
@@ -27,11 +27,11 @@ ht-degree: 0%
    >
    >Wenn die Web Personalization (WP)-Benutzerrolle bereits vorhanden ist, stellen Sie sicher, dass sie wie in Schritt 4 gezeigt konfiguriert ist.
 
-1. Klicken **Neue Rolle**.
+1. Klicks **Neue Rolle**.
 
    ![](assets/three-1.png)
 
-1. Geben Sie einen Rollennamen ein und wählen Sie Berechtigungen aus. Klicken **Erstellen** (Diese Rolle muss [auf alle Arbeitsbereiche anwenden](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md)).
+1. Geben Sie einen Rollennamen ein und wählen Sie Berechtigungen aus. Klicks **Erstellen** (Diese Rolle muss [auf alle Arbeitsbereiche anwenden](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md)).
 
    ![](assets/four.png)
 
@@ -43,9 +43,9 @@ ht-degree: 0%
 
 **Targeting und Personalisierung**: Benutzer hat nur Anzeigeberechtigungen, wenn diese Berechtigung nur ausgewählt ist.
 
-**Admin Web Personalization + Predictive**: Der Benutzer hat nur Zugriff auf die Kontoeinstellungen und Inhaltseinstellungen für die Web-Personalisierung und die Predictive Content-App. Benutzer können Seiten in der App anzeigen, haben jedoch keine Berechtigungen zum Erstellen, Bearbeiten, Löschen und Starten.
+**Admin Web Personalization + Predictive**: Der Benutzer hat nur Zugriff auf die Kontoeinstellungen und Inhaltseinstellungen für die Web-Personalisierung- und Predictive Content-App. Benutzer können Seiten in der App anzeigen, haben jedoch keine Berechtigungen zum Erstellen, Bearbeiten, Löschen und Starten.
 
-**Predictive Content Editor**: Der Benutzer hat Editor-Zugriff auf die App &quot;Predictive Content&quot;. Die Berechtigung ermöglicht das Erstellen, Bearbeiten und Löschen von Inhaltselementen. Inhalte können nicht für die prädiktive Verwendung im Web oder in E-Mails aktiviert werden.
+**Predictive Content Editor**: Der Benutzer hat Editor-Zugriff auf die App Predictive Content . Die Berechtigung ermöglicht das Erstellen, Bearbeiten und Löschen von Inhaltselementen. Inhalte können nicht für die prädiktive Verwendung im Web oder in E-Mails aktiviert werden.
 
 **Predictive Content Launcher**: Der Benutzer hat Zugriff auf alle Funktionen für prädiktive Inhalte mit Ausnahme der Konto- und Inhaltseinstellungen. Mit dieser Berechtigung können Sie Inhaltselemente erstellen, bearbeiten, löschen und aktivieren.
 
@@ -67,6 +67,6 @@ ht-degree: 0%
 
    ![](assets/seven.png)
 
-1. Neu aktivierte Benutzer sehen die **Web-Personalisierung** in My Marketo beim nächsten Anmelden.
+1. Neu aktivierte Benutzer sehen die **Web-Personalisierung** -Kachel in My Marketo beim nächsten Anmelden.
 
    ![](assets/eight.png)

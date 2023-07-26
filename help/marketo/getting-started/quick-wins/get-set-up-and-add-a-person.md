@@ -15,7 +15,7 @@ ht-degree: 16%
 
 Es gibt ein paar Dinge zu tun, bevor Sie mit den Missionen beginnen.
 
-## Schritt 1: Bei Marketo anmelden {#step-log-in-to-marketo}
+## Schritt 1: Anmelden bei Marketo {#step-log-in-to-marketo}
 
 1. [Bei Marketo anmelden](https://app.marketo.com){target="_blank"} die Anmeldedaten verwenden, die Sie per E-Mail erhalten haben.
 
@@ -41,7 +41,7 @@ Es soll ein Ordner erstellt werden, in dem alle Vorgänge gespeichert werden, di
 
    ![](assets/get-set-up-and-add-a-person-5.png)
 
-## Schritt 3: Hinzufügen von sich selbst als Person {#step-add-yourself-as-a-person}
+## Schritt 3: Selbstregistrierung als Person hinzufügen {#step-add-yourself-as-a-person}
 
 Fügen Sie sich in Marketo selbst als Person hinzu, damit Sie sich später Test-E-Mails senden können.
 

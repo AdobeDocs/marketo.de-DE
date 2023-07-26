@@ -19,7 +19,7 @@ Sie verfügen über Ihre benutzerdefinierte Aktivität genau so, wie Sie es möc
 
    ![](assets/publish-a-custom-activity-1.png)
 
-1. Klicken **[!UICONTROL Benutzerdefinierte Marketo-Aktivitäten]**.
+1. Klicks **[!UICONTROL Benutzerdefinierte Marketo-Aktivitäten]**.
 
    ![](assets/publish-a-custom-activity-2.png)
 
@@ -27,7 +27,7 @@ Sie verfügen über Ihre benutzerdefinierte Aktivität genau so, wie Sie es möc
 
    ![](assets/publish-a-custom-activity-3.png)
 
-1. Klicken Sie auf **[!UICONTROL Benutzerdefinierte Aktivitätsaktionen]** und wählen Sie **[!UICONTROL Veröffentlichungsaktivität]**.
+1. Klicken Sie auf **[!UICONTROL Benutzerdefinierte Aktivitätsaktionen]** und wählen Sie **[!UICONTROL Aktivität veröffentlichen]**.
 
    ![](assets/publish-a-custom-activity-4.png)
 
@@ -35,8 +35,8 @@ Sie verfügen über Ihre benutzerdefinierte Aktivität genau so, wie Sie es möc
 
    ![](assets/publish-a-custom-activity-5.png)
 
-   ...nach [!UICONTROL Veröffentlicht].
+   ... bis [!UICONTROL Veröffentlicht].
 
    ![](assets/publish-a-custom-activity-6.png)
 
-   Gut gemacht!
+   Schön gemacht!

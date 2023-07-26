@@ -19,7 +19,7 @@ Programmstatus sind die Checkpoints über einen Programmpfad (Kanal). Wenn Sie e
 
    ![](assets/delete-a-program-status-from-a-program-channel-1.png)
 
-1. Klicken **[!UICONTROL Tags]**.
+1. Klicks **[!UICONTROL Tags]**.
 
    ![](assets/delete-a-program-status-from-a-program-channel-2.png)
 
@@ -35,4 +35,4 @@ Programmstatus sind die Checkpoints über einen Programmpfad (Kanal). Wenn Sie e
    >
    >Wenn dem betreffenden Status derzeit eine Person zugewiesen ist, können Sie ihn jedoch nicht löschen.
 
-Gut gemacht! Sie können auch [Löschen eines gesamten Kanals](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md) wenn Sie müssen.
+Schön gemacht! Sie können auch [Löschen eines gesamten Kanals](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md) wenn Sie müssen.

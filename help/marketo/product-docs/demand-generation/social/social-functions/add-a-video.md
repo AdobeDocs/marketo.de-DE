@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2359761
 description: Video hinzufügen - Marketo Docs - Produktdokumentation
-title: Video hinzufügen
+title: Hinzufügen eines Videos
 exl-id: e704ec2c-07d7-430f-9514-3ee2a4ab66d9
 feature: Social
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,7 +11,7 @@ ht-degree: 3%
 
 ---
 
-# Video hinzufügen {#add-a-video}
+# Hinzufügen eines Videos {#add-a-video}
 
 Fügen Sie Videos mit Social-Sharing-Optionen auf Ihren Landingpages ein.
 
@@ -35,7 +35,7 @@ Fügen Sie Videos mit Social-Sharing-Optionen auf Ihren Landingpages ein.
    >
    >Sie können auch eine Videofreigabe erstellen _innerhalb eines Programms_ durch Auswahl **Neu** > **Neues lokales Asset**. Sie können sie dann aus der Dropdown-Liste auswählen, wie hier dargestellt.
 
-1. Geben Sie die URL des YouTube-Videos ein und benennen Sie Ihre Videofreigabe. Unter dem **Klonen von** Auswahl der Option **Keines** und klicken Sie auf **Einfügen**.
+1. Geben Sie die URL des YouTube-Videos ein und benennen Sie Ihre Videofreigabe. Unter dem **Klonen von** Auswahl der Option **Keines** und klicken **Einfügen**.
 
    ![](assets/image2014-9-23-16-3a51-3a32.png)
 

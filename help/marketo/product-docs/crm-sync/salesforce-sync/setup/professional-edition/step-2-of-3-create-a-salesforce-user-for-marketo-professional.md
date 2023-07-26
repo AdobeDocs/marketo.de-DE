@@ -11,7 +11,7 @@ ht-degree: 10%
 
 ---
 
-# Schritt 2 von 3: Salesforce-Benutzer für Marketo (Professional) erstellen {#step-of-create-a-salesforce-user-for-marketo-professional}
+# Schritt 2 von 3: Erstellen eines Salesforce-Benutzers für Marketo (Professional) {#step-of-create-a-salesforce-user-for-marketo-professional}
 
 >[!NOTE]
 >
@@ -19,7 +19,7 @@ ht-degree: 10%
 
 >[!PREREQUISITES]
 >
->[Schritt 1 von 3: Marketo-Felder zu Salesforce (Professional) hinzufügen](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
+>[Schritt 1 von 3: Hinzufügen von Marketo-Feldern zu Salesforce (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
 
 In diesem Artikel passen Sie die Feldberechtigungen mit einem Salesforce-Seitenlayout an und erstellen einen Synchronisierungsbenutzer Marketo-Salesforce .
 
@@ -31,7 +31,7 @@ Salesforce Professional legt die Barrierefreiheit auf Feldebene mit Seitenlayout
 
    ![](assets/image2016-2-26-12-3a58-3a32.png)
 
-1. Klicken **Bearbeiten** neben Lead-Layout.
+1. Klicks **Bearbeiten** neben Lead-Layout.
 
    ![](assets/image2016-2-26-13-3a2-3a46.png)
 
@@ -39,7 +39,7 @@ Salesforce Professional legt die Barrierefreiheit auf Feldebene mit Seitenlayout
 
    ![](assets/image2014-12-9-12-3a56-3a40.png)
 
-1. Geben Sie &quot;Marketo&quot;ein für **Bereichsname** und klicken Sie auf **OK**.
+1. Geben Sie &quot;Marketo&quot;ein für **Bereichsname** und klicken **OK**.
 
    ![](assets/image2014-12-9-12-3a56-3a52.png)
 
@@ -74,7 +74,7 @@ Salesforce Professional legt die Barrierefreiheit auf Feldebene mit Seitenlayout
    >
    >Erstellen Sie zwei Spalten für die Felder, indem Sie sie nach rechts auf der Seite ziehen. Sie können Felder von einer Seite zur anderen verschieben, um die Spaltenlängen auszugleichen.
 
-1. Klicken **Speichern** wenn das Hinzufügen von Feldern abgeschlossen ist.
+1. Klicks **Speichern** wenn das Hinzufügen von Feldern abgeschlossen ist.
 
    ![](assets/image2014-12-9-12-3a57-3a10.png)
 
@@ -102,11 +102,11 @@ Marketo benötigt Anmeldeinformationen für den Zugriff auf Salesforce. Dies sol
 
    ![](assets/image2014-12-9-12-3a57-3a42.png)
 
-1. Klicken **Neuer Benutzer**.
+1. Klicks **Neuer Benutzer**.
 
    ![](assets/image2014-12-9-12-3a58-3a1.png)
 
-1. Füllen Sie die erforderlichen Felder aus und wählen Sie die **Anwenderlizenz: Salesforce**, legen Sie die **Profil: Systemadministrator**, check **Marketing-Benutzer** und klicken Sie auf **Speichern**.
+1. Füllen Sie die erforderlichen Felder aus und wählen Sie die **Anwenderlizenz: Salesforce**, legen Sie die **Profil: Systemadministrator**, check **Marketing-Benutzer** und klicken **Speichern**.
 
    ![](assets/image2014-12-9-12-3a58-3a11.png)
 
@@ -118,4 +118,4 @@ Ausgezeichnet! Jetzt haben Sie ein Konto, mit dem Marketo eine Verbindung zu Sal
 
 >[!MORELIKETHIS]
 >
->[Schritt 3 von 3: Verbinden von Marketo und Salesforce (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-3-of-3-connect-marketo-and-salesforce-professional.md)
+>[3. Schritt: Verbinden von Marketo und Salesforce (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-3-of-3-connect-marketo-and-salesforce-professional.md)

@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->Sie können Personen zu einer Liste hinzufügen, indem Sie [Import](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) oder [Schritt &quot;Zu Listenfluss hinzufügen&quot;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md).
+>Sie können Personen zu einer Liste hinzufügen mithilfe von [Import](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) oder [Schritt &quot;Zu Listenfluss hinzufügen&quot;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md).
 
 Mit diesem Filter können Sie Mitglieder aus einer anderen Liste abrufen, indem Sie in Ihren Smart-List-Regeln darauf verweisen. So geht es.
 

@@ -50,7 +50,7 @@ Favorit **bis zu fünf** spezifische Vorlagenkategorien , um schnell auf Ihre am
 
    ![](assets/using-a-template-in-the-compose-window-7.png)
 
-1. Klicken Sie auf **Kategorie veröffentlichen** und wählen Sie die gewünschte Kategorie aus.
+1. Klicken Sie auf **Kategorie fixieren** und wählen Sie die gewünschte Kategorie aus.
 
    ![](assets/using-a-template-in-the-compose-window-8.png)
 
@@ -58,7 +58,7 @@ Favorit **bis zu fünf** spezifische Vorlagenkategorien , um schnell auf Ihre am
    >
    >Es wird empfohlen, die Kategorie &quot;Alle&quot;zu veröffentlichen, damit Sie schnell auf die Suche in Ihrer gesamten Vorlagenbibliothek zugreifen können, da Sie häufig alle Vorlagen durchsuchen müssen, um nach dem zu suchen, wonach Sie suchen. Wenn Sie eine fixierte Kategorie ausgewählt haben und auf das Suchsymbol klicken, wird für die Suche standardmäßig die Suche in der ausgewählten fixierten Kategorie ausgewählt.
 
-1. Klicken **Änderungen speichern** when done (optional): Schritt 3 wiederholen, um weitere hinzuzufügen).
+1. Klicks **Änderungen speichern** wenn abgeschlossen (optional: Schritt 3 wiederholen, um weitere hinzuzufügen).
 
    ![](assets/using-a-template-in-the-compose-window-9.png)
 

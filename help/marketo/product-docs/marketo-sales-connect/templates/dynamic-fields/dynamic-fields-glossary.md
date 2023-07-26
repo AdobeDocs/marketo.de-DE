@@ -15,7 +15,7 @@ ht-degree: 3%
 
 Bei der Erstellung einer Vorlage in Sales Connect empfehlen wir immer, dynamische Felder mithilfe der **Dynamische MSE-Felder** Schaltfläche.
 
-Dieses Tool wird verwendet, um `auto-personalize your email` und sparen Ihnen unzählige Zeit `pulling information from the People page`.
+Mit diesem Tool wird `auto-personalize your email` und sparen Ihnen unzählige Zeit `pulling information from the People page`.
 
 | Dynamisches Feld | Anwendungsbeispiel für E-Mails |
 |---|---|

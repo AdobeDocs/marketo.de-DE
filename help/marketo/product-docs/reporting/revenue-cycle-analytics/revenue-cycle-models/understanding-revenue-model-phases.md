@@ -19,7 +19,7 @@ Phasen sind eine Möglichkeit, eine Reihe von Phasen zu gruppieren. Manchmal bez
 
 ## Definieren der Phasen des Modells {#define-the-phases-of-the-model}
 
-1. Klicken **Phasen**.
+1. Klicks **Phasen**.
 
    ![](assets/image2015-6-12-16-3a2-3a28.png)
 

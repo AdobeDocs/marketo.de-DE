@@ -23,7 +23,7 @@ Nicht alle Seitenprobleme können für Sie von Nutzen sein. So kann man eine ent
 
    ![](assets/image2014-9-18-14-3a0-3a30.png)
 
-1. Bewegen Sie den Mauszeiger über das zu entfernende Seitenproblem. Klicken **[!UICONTROL Entfernen]**.
+1. Bewegen Sie den Mauszeiger über das zu entfernende Seitenproblem. Klicks **[!UICONTROL Entfernen]**.
 
    ![](assets/image2014-9-18-14-3a0-3a38.png)
 

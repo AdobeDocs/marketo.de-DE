@@ -11,7 +11,7 @@ ht-degree: 19%
 
 ---
 
-# Versionshinweise: Februar 2015 {#release-notes-february}
+# Februar 2015 - Versionshinweise {#release-notes-february}
 
 Die folgenden Funktionen sind in der Version vom Februar 2015 enthalten. Informationen zur Verfügbarkeit von Funktionen finden Sie in Ihrer Marketo Edition. Stellen Sie nach der Veröffentlichung sicher, dass Sie zu den einzelnen Funktionen Links zu detaillierten Artikeln finden. Trommelrollen...
 
@@ -47,6 +47,6 @@ Wählen Sie mit &#39;Ziel-URL hinzufügen&#39; die Seiten aus, die in Ihrer Echt
 
 ![](assets/image2015-2-19-11-3a0-3a30.png)
 
-**Land und Bundesland für kontobasiertes Targeting hinzugefügt**
+**Land und Bundesland, das dem kontobasierten Targeting hinzugefügt wurde**
 
 Jetzt können Land und Bundesland zu Ihren Named-Accounts-Listen hinzugefügt werden. Zielen Sie auf wichtigste potenzielle Kunden an bestimmten Standorten ab.

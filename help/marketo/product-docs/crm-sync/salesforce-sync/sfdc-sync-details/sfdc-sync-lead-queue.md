@@ -11,7 +11,7 @@ ht-degree: 15%
 
 ---
 
-# SFDC Sync: Lead-Warteschlange {#sfdc-sync-lead-queue}
+# SFDC Sync: Lead Queue {#sfdc-sync-lead-queue}
 
 Mit Marketo können Sie Personen zu [Salesforce-Lead-Warteschlangen](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm) , um bei der Lead-Verteilung zu helfen. Hier sind die Details.
 

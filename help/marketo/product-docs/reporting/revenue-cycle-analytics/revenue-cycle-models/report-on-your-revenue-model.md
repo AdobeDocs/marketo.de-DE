@@ -23,15 +23,15 @@ Für jedes Umsatzzyklusmodell können Sie einen Bericht darüber generieren, wie
 
    ![](assets/image2015-4-29-16-3a8-3a14.png)
 
-1. Klicken **Leads nach Umsatzstufe**.
+1. Klicks **Leads nach Umsatzstufe**.
 
    ![](assets/image2015-4-29-16-3a15-3a3.png)
 
-1. Klicken Sie auf **Einrichtung** und dann unter dem Filterabschnitt doppelklicken **Modell für Umsatzzyklen**.
+1. Klicken Sie auf **Einrichtung** Registerkarte und dann unter dem Filterabschnitt doppelklicken Sie **Modell für Umsatzzyklen**.
 
    ![](assets/image2015-4-29-16-3a37-3a57.png)
 
-1. Wählen Sie die genehmigte **Modell**.
+1. Genehmigte Auswahl **Modell**.
 
    ![](assets/image2015-4-29-16-3a40-3a34.png)
 

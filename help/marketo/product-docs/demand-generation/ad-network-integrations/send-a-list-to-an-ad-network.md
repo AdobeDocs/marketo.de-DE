@@ -20,7 +20,7 @@ Erfahren Sie, wie Sie eine statische Liste an LinkedIn, Facebook oder Google sen
 
    ![](assets/send-a-list-to-an-ad-network-1.png)
 
-1. Wählen Sie zwischen LinkedIn, Facebook oder Google (die anderen Optionen sind derzeit nicht verfügbar). In diesem Beispiel wählen wir **linkedIn**. Klicken **Nächste**.
+1. Wählen Sie zwischen LinkedIn, Facebook oder Google (die anderen Optionen sind derzeit nicht verfügbar). In diesem Beispiel wählen wir **LinkedIn**. Klicks **Nächste**.
 
    ![](assets/send-a-list-to-an-ad-network-2.png)
 
@@ -40,7 +40,7 @@ Erfahren Sie, wie Sie eine statische Liste an LinkedIn, Facebook oder Google sen
    >
    >Wenn Sie &quot;Kontinuierliche Zielgruppensynchronisierung aktivieren&quot;auswählen, behält Marketo die Liste im ausgewählten Werbenetzwerk auf dem neuesten Stand, da sich die Liste in Ihrer Marketo-Instanz ändert. Wir fügen beide hinzu **und** Personen aus der Zielgruppe entfernen, wenn sie der statischen Liste hinzugefügt/daraus entfernt wurden.
 
-1. Und das ist es! Klicken **OK** zu beenden.
+1. Und das ist es! Klicks **OK** zu beenden.
 
    ![](assets/send-a-list-to-an-ad-network-5.png)
 

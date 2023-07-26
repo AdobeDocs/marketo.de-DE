@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359540
-description: Kalenderereignis-ICS-Datei in eine Landingpage einschließen - Marketo Dokumente - Produktdokumentation
+description: Kalenderereignis-ICS-Datei in eine Landingpage einschließen - Marketo-Dokumente - Produktdokumentation
 title: Kalenderereignis-ICS-Datei in eine Landingpage einschließen
 exl-id: 3975f5ba-f514-4708-b51e-bc20d1eed6b4
 feature: Landing Pages
@@ -33,7 +33,7 @@ A **Kalenderdatei** Mit dem -Token können Sie einen Kalenderereignis-Link (.ics
 
    ![](assets/image2015-1-6-16-3a31-3a28.png)
 
-1. Klicken **Speichern**.
+1. Klicks **Speichern**.
 
    Personen sehen eine Landingpage, die wie folgt aussieht:
 

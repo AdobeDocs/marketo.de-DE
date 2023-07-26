@@ -23,15 +23,15 @@ Mit der mobilen Interaktion von Marketo können Sie eine Benachrichtigung so ers
 >
 >Push-Benachrichtigungen sind ein Add-on und müssen von einem Marketo-Administrator aktiviert werden, bevor Sie beginnen.
 
-## Schritt 1: Admin und Entwickler führen Erstkonfigurationen durch {#step-admin-and-developer-perform-initial-setups}
+## Schritt 1: Erste Setups durch Admin und Entwickler durchführen {#step-admin-and-developer-perform-initial-setups}
 
 Der Entwickler von Marketo Admin und mobilen Apps arbeitet zusammen, um Sie einzurichten. Siehe [Vor der Erstellung von Push-Benachrichtigungen und In-App-Nachrichten](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md) für Details.
 
-## Schritt 2: Push-Benachrichtigung erstellen {#step-create-a-push-notification}
+## Schritt 2: Erstellen einer Push-Benachrichtigung {#step-create-a-push-notification}
 
 [Nachrichten erstellen](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md) und eine Vorschau der Darstellung auf Android- und iOS-Geräten anzeigen.
 
-## Schritt 3: Senden Sie! {#step-send}
+## Schritt 3: Senden! {#step-send}
 
 [Push-Benachrichtigungen können gesendet werden](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md) Verwendung von Trigger- und Batch-Smart-Kampagnen. Sehr cool, was?
 

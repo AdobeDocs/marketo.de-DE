@@ -29,7 +29,7 @@ Sie können jede der verfügbaren Spalten so konfigurieren, dass sie im E-Mail-B
   </tr> 
   <tr> 
    <td>Person</td> 
-   <td>Name und E-Mail-Adresse der Person in Sales Connect. Wenn Sie auf dieses Feld klicken, wird in der Personendetailansicht der Tab Info geöffnet.</td> 
+   <td>Name und E-Mail der Person in Sales Connect. Wenn Sie auf dieses Feld klicken, wird in der Personendetailansicht der Tab Info geöffnet.</td> 
   </tr> 
   <tr> 
    <td>Name</td> 
@@ -65,7 +65,7 @@ Sie können jede der verfügbaren Spalten so konfigurieren, dass sie im E-Mail-B
   </tr> 
   <tr> 
    <td>Status der E-Mail</td> 
-   <td>Status, in dem sich die E-Mail befindet. Zu den Status gehören: Entwurf, Geplant, Gestartet, Spam, Bounce, Fehlgeschlagen, Gesendet. Gesendete E-Mails zeigen einen Aktivitäts-Stream, der anzeigt, wie viele Ansichten, Klicks und Antworten in dieser E-Mail stattgefunden haben.</td> 
+   <td>Status, in dem sich die E-Mail befindet Zu den Status gehören: Entwurf, Geplant, Gestartet, Spam, Bounce, Failed, Gesendet. Gesendete E-Mails zeigen einen Aktivitäts-Stream, der anzeigt, wie viele Ansichten, Klicks und Antworten in dieser E-Mail stattgefunden haben.</td> 
   </tr> 
   <tr> 
    <td>Erstellungsdatum</td> 
@@ -101,7 +101,7 @@ Sie können jede der verfügbaren Spalten so konfigurieren, dass sie im E-Mail-B
   </tr> 
   <tr> 
    <td>E-Mail-Aktion</td> 
-   <td>Schnellaktionsschaltflächen, mit denen Aktionen für die E-Mail durchgeführt werden können. Je nach Status der E-Mail können die folgenden Aktionen verfügbar sein: Archivieren, Erfolg, Löschen, Senden wiederholen, Archivierung aufheben.</td> 
+   <td>Schnellaktionsschaltflächen, mit denen Aktionen für die E-Mail durchgeführt werden können. Je nach Status der E-Mail können die folgenden Aktionen verfügbar sein: Archivieren, Erfolg, Löschen, Senden erneut versuchen, Archivierung aufheben .</td> 
   </tr> 
   <tr> 
    <td>Aufgabentyp</td> 
@@ -126,7 +126,7 @@ Gehen Sie wie folgt vor, um Ihr Layout zu konfigurieren.
 
    ![](assets/email-columns-and-email-grid-layout-2.png)
 
-1. Wählen Sie die Konfigurationsschaltfläche aus. Zu Ihren Optionen gehören: Wählen Sie aus, wie viele Zeilen angezeigt werden sollen, wählen Sie die Felder aus, die angezeigt werden sollen, und wählen Sie aus, ob die Gruppierung von E-Mails zu einem Element im Raster zusammengefasst werden soll (oder ob alle E-Mails, die Teil eines E-Mail-Rasters sind, als einzelnes Element angezeigt werden sollen).
+1. Wählen Sie die Konfigurationsschaltfläche aus. Zu den Optionen gehören: die Auswahl der gewünschten Zeilen, die Auswahl der Felder, die angezeigt werden sollen, und die Auswahl, ob die Gruppierung von E-Mails zu einem Element im Raster zusammengefasst werden soll (oder ob alle E-Mails, die Teil eines E-Mail-Rasters sind, als einzelnes Element angezeigt werden sollen).
 
    ![](assets/email-columns-and-email-grid-layout-3.png)
 

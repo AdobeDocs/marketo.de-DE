@@ -149,7 +149,7 @@ In diesem Beispiel lautet die E-Mail &quot;Grußformeln, (Vorname)&quot;oder &qu
 
 >[!NOTE]
 >
->Weitere Informationen finden Sie unter [Token für interessante Momente](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) basierend auf Triggern, die in einer Smart-Kampagne verwendet werden.
+>Weitere Informationen finden Sie [Token für interessante Momente](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) basierend auf Triggern, die in einer Smart-Kampagne verwendet werden.
 
 ## Programm-Token {#program-tokens}
 
@@ -161,7 +161,7 @@ In diesem Beispiel lautet die E-Mail &quot;Grußformeln, (Vorname)&quot;oder &qu
 
 Meine Token werden in einem Programm definiert und beginnen mit `{{my.` gefolgt von dem Namen, den Sie für das Token erstellt haben. Weitere Informationen [Meine Token in einem Programm](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md).
 
-## Member Token {#member-token}
+## Mitglieds-Token {#member-token}
 
 Member Tokens werden verwendet, um eindeutige Werte von integrierten Servicepartnern einzufügen. Eine gängige Verwendung von Mitglieds-Token ist für eindeutige URLs für Webinar-Teilnehmer. Jede Person verfügt über eine eindeutige URL für den Zugriff auf das Webinar, die mithilfe einer `{{member.webinar url}}` Token. Die `{{member.webinar url}}` -Token löst automatisch die eindeutige Bestätigungs-URL der Person auf, die vom Dienstleister generiert wurde.
 
