@@ -4,24 +4,24 @@ title: Registerkarte "Einstellungen"
 hide: true
 hidefromtoc: true
 exl-id: 44bb3227-4d77-47db-88ef-aafc2ddf3c74
-source-git-commit: 02f3150cda31ec25fc47fc7f6ea50feaa9fed6b5
+source-git-commit: f88704f03a757f117fbb997eff13843cad637315
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '333'
 ht-degree: 1%
 
 ---
 
 # Registerkarte &quot;Einstellungen&quot; {#settings-tab}
 
-Auf der Registerkarte Einstellungen befinden sich alle Kampagneneinstellungen, einschließlich der gleichen Berechtigungssätze und des Zugriffs auf die Registerkarte Planung . DIE BESUCHUNG DIESES TABS WIRD NICHT UNTERBRECHEN? WENDEN SIE SICH AN ABLEGEN ODER WIEDERHOLEN - LOPA WIRD BESTÄTIGEN, DASS bestehende Kampagneneinstellungen nicht gestört werden.
+Auf der Registerkarte Einstellungen befinden sich alle Kampagneneinstellungen, einschließlich der gleichen Berechtigungssätze und des Zugriffs auf die Registerkarte Planung in Smart-Kampagnen.
 
 Er enthält die folgenden drei Abschnitte.
 
-* **Qualifikationsregeln**: Bestimmt, wie oft jede Person den Fluss der intelligenten Kampagne durchlaufen kann.
+* **Qualifikationsregeln**: Bestimmt, wie oft jede Person den Fluss Smart Campaign durchlaufen kann.
 
 * **Einzelne Ausführungen**: Kann verwendet werden, um einzelne Ausführungen entweder sofort oder in Zukunft zu planen.
 
-* **Wiederholung**: Wird zur Planung einer täglichen, wöchentlichen oder monatlichen Wiederholung verwendet.
+* **Wiederholung**: Wird verwendet, um eine tägliche, wöchentliche oder monatliche Wiederholung zu planen.
 
   ![](assets/settings-tab-1.png)
 
@@ -58,9 +58,13 @@ Die Registerkarte Einstellungen bietet außerdem einen schnellen Überblick übe
 
 Berechtigungssätze und Fehler auf der Registerkarte Einstellungen :
 
-Alle vorhandenen Berechtigungssätze können auf der Registerkarte Einstellungen verwendet werden. Wenn die Schaltfläche &quot;Bearbeiten&quot;ausgegraut ist, bedeutet dies, dass Sie nicht berechtigt sind, Änderungen vorzunehmen, und sich an Ihren Marketo-Administrator wenden müssen.
+Alle vorhandenen Berechtigungssätze können auf der Registerkarte Einstellungen verwendet werden. Wenn die Schaltfläche Bearbeiten ausgegraut ist, klicken Sie auf das Hilfesymbol, um die Gründe zu erfahren.
 
-HINZUFÜGEN VON BESCHREIBUNGEN ZUM ABSCHNITTEN VON GEPLANTEN LAUNS - BESTÄTIGEN SIE MIT LOPA NACH DEM SCHALTEN —> Wenn ein Benutzer keinen Zugriff auf die Kampagneneinstellungen hat, hat er auch keinen Zugriff auf das Abbrechen geplanter Läufe.
+>[!NOTE]
+>
+>Wenn nach dem Klicken auf das Hilfesymbol &quot;Zusätzliche Berechtigung erforderlich&quot;angezeigt wird, wenden Sie sich an Ihren Marketo-Administrator.
+
+REDUNDANT WIE OBEN ERLÄUTERT, KÖNNEN WIR ENTFERNEN —> Wenn ein Benutzer keinen Zugriff auf die Kampagneneinstellungen hat, hat er auch keinen Zugriff, geplante Läufe abzubrechen.
 
 ![](assets/settings-tab-5.png)
 

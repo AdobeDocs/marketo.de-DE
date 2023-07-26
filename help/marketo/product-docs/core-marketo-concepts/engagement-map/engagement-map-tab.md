@@ -4,9 +4,9 @@ title: Registerkarte "Interaktionskarte"
 hide: true
 hidefromtoc: true
 exl-id: f54b9258-451b-4607-b5a9-f8627c6f420a
-source-git-commit: 02f3150cda31ec25fc47fc7f6ea50feaa9fed6b5
+source-git-commit: f88704f03a757f117fbb997eff13843cad637315
 workflow-type: tm+mt
-source-wordcount: '950'
+source-wordcount: '965'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Interaktionszuordnung wird durch eine Reihe von Trigger-, Filter- und Flusskarte
 
   ![](assets/engagement-map-tab-1.png)
 
-Trigger-Detail: Auf dieser Karte wird der Name des Triggers angezeigt. Wenn Sie darauf klicken, wird ein Slide-out-Bedienfeld mit den folgenden Informationen angezeigt:
+Trigger Detail: Auf dieser Karte wird der Name des Triggers angezeigt. Wenn Sie darauf klicken, wird ein Slide-out-Bedienfeld mit den folgenden Informationen angezeigt:
 
 * Kampagne, zu der der Trigger gehört
 * Liste der dem Trigger zugeordneten Begrenzungen
@@ -31,7 +31,7 @@ Trigger-Detail: Auf dieser Karte wird der Name des Triggers angezeigt. Wenn Sie 
 
   ![](assets/engagement-map-tab-2.png)
 
-Filter: Wenn Sie auf diese Karte klicken, wird ein Bedienfeld mit den folgenden Informationen angezeigt:
+Filter: Wenn Sie auf diese Karte klicken, wird ein Slide-out-Bedienfeld mit den folgenden Informationen angezeigt:
 
 * Kampagne, zu der der Trigger gehört
 * Geschätzte Anzahl von Personen, die sich für den Filter qualifizieren
@@ -43,7 +43,7 @@ Filter: Wenn Sie auf diese Karte klicken, wird ein Bedienfeld mit den folgenden 
 Flussschritte: Wenn ein Flussschritt Optionen enthält, zeigt diese Karte den Namen des Flussschritts an. Wenn Sie darauf klicken, wird ein Slide-out-Bedienfeld mit den folgenden Informationen angezeigt:
 
 * Campaign Der Fluss -Schritt gehört zu
-* Liste der Auswahlbedingungen, die dem Flussschritt zugeordnet sind
+* Liste der Auswahlbedingungen, die mit dem Flussschritt verknüpft sind
 * Schaltfläche &quot;Fluss bearbeiten&quot;
 
   ![](assets/engagement-map-tab-4.png)
@@ -51,7 +51,7 @@ Flussschritte: Wenn ein Flussschritt Optionen enthält, zeigt diese Karte den Na
 Flussschritte: Wenn ein Flussschritt _not_ alle Optionen einschließen, zeigt diese Karte Attribute an, die mit dem Flussschritt verknüpft sind. Wenn Sie darauf klicken, wird ein Slide-out-Bedienfeld mit den folgenden Informationen angezeigt:
 
 * Campaign Der Fluss -Schritt gehört zu
-* Liste der mit dem Flussschritt verknüpften Attribute
+* Liste der dem Flussschritt zugeordneten Attribute
 * Schaltfläche &quot;Fluss bearbeiten&quot;
 
   ![](assets/engagement-map-tab-5.png)
@@ -62,7 +62,7 @@ Flussschritte: Wenn ein Flussschritt _not_ alle Optionen einschließen, zeigt di
 
    * Kampagne, zu der der Flussschritt gehört
    * Schaltfläche &quot;Fluss bearbeiten&quot;
-   * Liste der mit dem Flussschritt verknüpften Attribute
+   * Liste der dem Flussschritt zugeordneten Attribute
    * Schaltfläche &quot;Liste anzeigen&quot;, über die eine Liste von Kampagnen geöffnet wird, die die jeweilige Kampagne &quot;Anfrage/Ausführung&quot; verwenden
 
 >[!NOTE]
@@ -76,7 +76,7 @@ Flussschritte: Wenn ein Flussschritt _not_ alle Optionen einschließen, zeigt di
 * Wenn der Schritt Kampagnenfluss ausführen oder anfordern eine Auswahl enthält, zeigt die Karte den Namen der Kampagne an. Wenn Sie auf die Karte klicken, wird ein Bedienfeld mit der folgenden Information angezeigt:
 
    * Kampagne, zu der der Flussschritt gehört
-   * Liste der Auswahlbedingungen, die dem Flussschritt zugeordnet sind
+   * Liste der Auswahlbedingungen, die mit dem Flussschritt verknüpft sind
    * Schaltfläche &quot;Fluss bearbeiten&quot;
 
   ![](assets/engagement-map-tab-8.png)
@@ -87,79 +87,79 @@ Flussschritte: Wenn ein Flussschritt _not_ alle Optionen einschließen, zeigt di
 
    * Kampagne, zu der die Auswahl gehört
    * Schaltfläche &quot;Auswahl bearbeiten&quot;
-   * Liste der Auswahlbedingungen, die dem Flussschritt zugeordnet sind
+   * Liste der Auswahlbedingungen, die mit dem Flussschritt verknüpft sind
    * Schaltfläche &quot;Liste anzeigen&quot;, über die eine Liste von Kampagnen geöffnet wird, die die jeweilige Kampagne &quot;Anfrage/Ausführung&quot; verwenden
 
   ![](assets/engagement-map-tab-10.png)
 
 ## Visualisieren einer verschachtelten Execute-Kampagne {#visualizing-a-nested-execute-campaign}
 
-BEARBEITUNG HIER ZURÜCK —
+Führen Sie Kampagnen mit der übergeordneten Kampagne nacheinander aus. Personen, die sich für eine ausführbare Kampagne qualifizieren, führen alle Flussschritte aus der Kampagne aus und kehren zur primären Kampagne zurück, um die Durchsatzschritte dieser Kampagne zu verfolgen.
 
-Führen Sie Kampagnen, die nacheinander ausgeführt werden, mit den übergeordneten Kampagnenträgern aus, die für eine ausführbare Kampagne infrage kommen, durch. Schließen Sie alle Flussschritte von der Kampagne ab und kehren Sie zur primären Kampagne zurück, um die Durchsatzschritte dieser Kampagne zu durchlaufen.
-
-Nachstehend finden Sie ein Beispiel für eine intelligente Kampagne, &quot;Kampagne A&quot;, die einen Schritt zum Ausführen des Kampagnenflusses enthält. Stellen Sie sich &quot;Kampagne A&quot;als Ihre primäre Kampagne vor.
+Nachstehend finden Sie ein Beispiel für eine Smart-Kampagne, &quot;Kampagne A&quot;, die einen Workflow-Schritt zum Ausführen einer Kampagne enthält. Stellen Sie sich &quot;Kampagne A&quot;als Ihre primäre Kampagne vor.
 
 ![](assets/engagement-map-tab-11.png)
 
 1. Wenn Sie auf die Karte Kampagnenfluss ausführen klicken, werden Details zu &quot;Kampagne B&quot;angezeigt.
-1. &quot;Kampagne B&quot;enthält einen Filter, der zu einer qualifizierten und nicht qualifizierten Zielgruppe verzweigt.
-1. Qualifizierte Zielgruppen durchlaufen die mit &quot;Kampagne B&quot;verknüpften Flussschritte.
+1. &quot;Kampagne B&quot;enthält einen Filter, der die Zielgruppe in zwei Gruppen unterteilt: qualifiziert und nicht qualifiziert.
+1. Die qualifizierte Zielgruppe durchläuft die mit &quot;Kampagne B&quot;verknüpften Flussschritte.
 1. Alle Zielgruppen (qualifiziert und nicht qualifiziert) kehren zu &quot;Kampagne A&quot;zurück und fahren mit dem nächsten Flussschritt fort.
 
-BEARBEITUNG HIER ABGESCHLOSSEN —
+   ![](assets/engagement-map-tab-12.png)
 
-![](assets/engagement-map-tab-12.png)
-
-Sie können in &quot;Kampagne B&quot;auf den Schritt Kampagnenfluss ausführen klicken. Daraufhin werden Auswahlkarten und die mit jeder Auswahl verknüpfte Kampagne angezeigt.
+Sie können in &quot;Kampagne B&quot;auf den Schritt Kampagnenfluss ausführen klicken. Daraufhin werden die Auswahlkarten und die mit jeder Auswahl verknüpfte Kampagne angezeigt.
 
 ![](assets/engagement-map-tab-13.png)
 
 ## Visualisieren von Anforderungskampagnen {#visualizing-request-campaign}
 
-Anfragekampagnen werden parallel zur übergeordneten Kampagne ausgeführt, d. h. Leads, die für eine Anfragekampagne qualifiziert sind, führen alle Durchsatzschritte aus der Kampagne aus und beenden die Kampagne. Parallel dazu durchlaufen dieselben Leads auch die Flussschritte der primären Kampagne.
+Anfragekampagnen werden parallel zur übergeordneten Kampagne ausgeführt. Personen, die sich für eine Anfragekampagne qualifizieren, führen alle Flussschritte der Kampagne aus und beenden dann die Kampagne. Gleichzeitig durchlaufen dieselben Personen die Durchsatzschritte der primären Kampagne.
 
-Im Folgenden finden Sie ein Beispiel einer intelligenten Kampagne &quot;Kampagne A&quot;, die einen Schritt zum Anforderungskampagnenfluss enthält. Sie können sich vorstellen, dass &quot;Kampagne A&quot;Ihre primäre Kampagne ist.
+Im Folgenden finden Sie ein Beispiel für eine Smart-Kampagne, &quot;Kampagne A&quot;, die einen Schritt zum Anforderungskampagnenfluss enthält. Stellen Sie sich &quot;Kampagne A&quot;als Ihre primäre Kampagne vor.
 
 ![](assets/engagement-map-tab-14.png)
 
-1. Wenn Sie auf die Karte für den Ablauf der Anforderungskampagne klicken, werden Details von &quot;Kampagne B&quot;angezeigt
-1. Kampagne B enthält Filter, welche Verzweigungen in die qualifizierte Zielgruppe eingehen.
-1. Qualifizierte Zielgruppe durchläuft die mit &quot;Kampagne B&quot;verknüpften Flussschritte.
-1. Parallel dazu wechseln alle Zielgruppen zu den nächsten Flussschritten in &quot;Kampagne A&quot;.
+1. Wenn Sie auf die Flusskarte der Anfragekampagne klicken, werden die Details von &quot;Kampagne B&quot;angezeigt.
+1. &quot;Kampagne B&quot;enthält einen Filter, der die Zielgruppe in zwei Gruppen unterteilt: qualifiziert und nicht qualifiziert.
+1. Die qualifizierte Zielgruppe durchläuft die mit &quot;Kampagne B&quot;verknüpften Flussschritte.
+1. Gleichzeitig wechseln alle Zielgruppen zu den nächsten Flussprogrammen in &quot;Kampagne A&quot;.
 
    ![](assets/engagement-map-tab-15.png)
 
-Sie können tiefer in verschachtelte Kampagnen eintauchen, wenn einer der Flussschritte eine weitere Anfragekampagne enthält, indem Sie auf die Flusskarte klicken, um Details zur Kampagne anzuzeigen.
+Sie können Ihre verschachtelten Kampagnen genauer untersuchen, wenn einer der Durchsatzschritte eine andere Anfragekampagne enthält, indem Sie auf die Flusskarte klicken, um die Details der Kampagne anzuzeigen.
 
 ![](assets/engagement-map-tab-16.png)
 
-Hier ist ein Beispiel für eine Anforderungskampagne mit Auswahlmöglichkeiten.
+Im Folgenden finden Sie ein Beispiel für eine Anforderungskampagne mit Auswahlmöglichkeiten.
 
 ![](assets/engagement-map-tab-17.png)
 
 ## Umgang mit Fehlern {#error-handling}
 
-Fehler in den Schritten &quot;Smart-Liste&quot;und &quot;Fluss&quot;werden über das Fehlersymbol auf der Karte hervorgehoben. Darüber hinaus wird die entsprechende Fehlermeldung im Bedienfeld &quot;Folie ausblenden&quot;angezeigt.
+Fehler in Smart-Listen und Fluss-Schritten werden über ein Fehlersymbol auf der Karte hervorgehoben. Darüber hinaus wird eine entsprechende Fehlermeldung im Dia-out-Bedienfeld angezeigt.
 
-Im Folgenden finden Sie ein Beispiel für einen Fehler in Trigger, der auf der Übersichtskarte Trigger, im Bedienfeld &quot;Folie&quot;sowie auf der Trigger-Detailkarte angezeigt wird.
+Unten finden Sie ein Beispiel für einen Fehler in einem Trigger, der auf der Übersichtskarte &quot;Trigger&quot;, im Slide-out-Bedienfeld und auf der Detailkarte des Triggers angezeigt wird.
 
 ![](assets/engagement-map-tab-18.png)
 
 ![](assets/engagement-map-tab-19.png)
 
-Fehler in Filterkarte kann enthalten
+**Fehler in Filterkarten können Folgendes enthalten:**
 
-Fehler in der Smart-Liste, der dazu führt, dass keine qualifizierte Zielgruppe angezeigt wird
+* Fehler in der Smart-Liste, der dazu führt, dass die qualifizierte Zielgruppe nicht angezeigt wird
 
-Fehler in Filterlogik
+* Fehler in der Filterlogik
 
-Fehler bei Beschränkungen oder Fehlen von Beschränkungen in einem oder mehreren Filtern
+* Fehler bei Begrenzungen (oder fehlende Beschränkungen) in einem oder mehreren Filtern
 
-![](assets/engagement-map-tab-20.png)
+  ![](assets/engagement-map-tab-20.png)
 
-Wenn Sie keine Werte (Attribute) eingeben, werden sie nicht als Fehler gekennzeichnet. Sie funktionieren weiterhin wie auf der Registerkarte &quot;Fluss&quot;. Daher werden bestehende Kampagnen nicht gestört. Wenn jedoch Flussschritte keine Attribute enthalten, werden diese als Warnungen angezeigt.
+Wenn keine Werte (Attribute) eingegeben werden, tritt kein Fehler auf. Der Vorgang funktioniert weiterhin wie auf der Registerkarte &quot;Fluss&quot;. Daher werden bestehende Kampagnen nicht gestört. Wenn jedoch Flussschritte keine Attribute enthalten, werden diese als Warnungen angezeigt.
+
+^^^ BRAUCHEN WIR DAS WIRKLICH, WIRD DER KUNDE NICHT WARNEN??
 
 ![](assets/engagement-map-tab-21.png)
 
-Hinweis: Fehler innerhalb einer verschachtelten Kampagne sind erst sichtbar, wenn Sie zum Erweitern der verschachtelten Kampagne auf klicken
+>[!NOTE]
+>
+>Fehler innerhalb einer verschachtelten Kampagne werden erst sichtbar, wenn Sie zum Erweitern der verschachtelten Kampagne auf klicken.

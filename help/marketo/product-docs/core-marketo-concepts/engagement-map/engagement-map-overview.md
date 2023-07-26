@@ -4,9 +4,9 @@ title: Interaktionsübersicht
 hide: true
 hidefromtoc: true
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: 02f3150cda31ec25fc47fc7f6ea50feaa9fed6b5
+source-git-commit: f88704f03a757f117fbb997eff13843cad637315
 workflow-type: tm+mt
-source-wordcount: '818'
+source-wordcount: '787'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->Diese Funktion ist derzeit für Smart-Kampagnen verfügbar. Es ist nicht für Programme verfügbar.
+>Diese Funktion ist derzeit für Smart-Kampagnen verfügbar. Sie steht nicht für Programme zur Verfügung.
 
 Mit der Interaktionskarte können Sie mithilfe intuitiver Visualisierungen wiederverwendbare Smart-Kampagnen erstellen. Es bietet vollständige Abwärtskompatibilität mit allen bestehenden Marketo Engage-Smart-Kampagnen, ohne dass aktuelle Funktionen verloren gehen.
 
@@ -27,11 +27,11 @@ Navigieren Sie zu einer vorhandenen Kampagne und klicken Sie auf die Schaltfläc
 
 SCREENSHOT
 
-In der Interaktionszuordnung werden zwei Registerkarten angezeigt: [Interaktionskarte](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} and [Settings](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"}.
+In der Interaktionszuordnung werden Ihnen zwei Registerkarten angezeigt: [Interaktionskarte](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} and [Settings](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}.
 
 SCREENSHOT
 
-KOPFZEILE - KARTENBESCHREIBUNGEN? - LOPA WIRD BESTÄTIGEN
+## Kartenbeschreibungen {#card-descriptions}
 
 **Trigger**: In Kampagnen, die Trigger enthalten, wird die Karte über die Karte &quot;Trigger-Übersicht&quot;verfügen. Wenn Sie darauf klicken, werden eine Karte für jeden Trigger sowie ein Slide-out-Bedienfeld mit zusätzlichen Informationen angezeigt.
 
@@ -43,7 +43,7 @@ KOPFZEILE - KARTENBESCHREIBUNGEN? - LOPA WIRD BESTÄTIGEN
 
 ## Verschachtelte Kampagnen {#nested-campaigns}
 
-* Wenn eine Kampagne einen Schritt zum Anfordern oder Ausführen des Kampagnenflusses enthält, werden beim Klicken auf die Flusskarte Details zur aufgerufenen Kampagne sowie ein Slide-out-Bedienfeld mit zusätzlichen Informationen angezeigt. (Die verschachtelte Kampagne wird auch eine Nahtablette enthalten. Wenn Sie auf diese anklicken, werden die mit der verschachtelten Kampagne verbundenen Karten ausgeblendet.) !!!!!!!!!!! - ERNEUT ODER ENTFERNEN - LOPA WIRD BESTÄTIGT
+* Wenn eine Kampagne einen Schritt zum Anfordern oder Ausführen des Kampagnenflusses enthält, werden beim Klicken auf die Flusskarte Details zur aufgerufenen Kampagne sowie ein Slide-out-Bedienfeld mit zusätzlichen Informationen angezeigt.
 
 * Wenn eine Kampagne einen Schritt zum Anfordern oder Ausführen eines Kampagnenflusses mit Optionen enthält, werden beim Klicken auf die Flusskarte eine Auswahlkarte sowie ein Slide-out-Fenster mit weiteren Informationen zu den Optionen angezeigt. Wenn Sie auf jede Auswahlkarte klicken, werden Details zur aufgerufenen Kampagne sowie ein Slide-out-Bedienfeld mit weiteren Informationen angezeigt.
 
@@ -59,7 +59,7 @@ Die obere Navigationsleiste enthält die folgenden Funktionen:
 
 * Kampagnenname und Zugriff auf das Modal &quot;Kampagne bearbeiten&quot;, können Sie hier den Namen und die Beschreibung der Kampagne bearbeiten.
 
-* Kampagnenstatus und Kampagnentyp werden unter dem Kampagnennamen angezeigt
+* Kampagnenstatus und -typ werden unter dem Kampagnennamen angezeigt
 
 * Schaltfläche &quot;Aktivieren/Deaktivieren&quot;für Trigger-Kampagnen
 
@@ -83,7 +83,7 @@ Anz. Interaktionszuordnung ist vollständig abwärtskompatibel. Mit einem Klick 
 
 **Bedeutet die Verwendung von Interaktionskarten in Marketo Engage, dass ich den Zugriff auf die Ordnerstruktur verlieren werde und neu lernen muss, wie eine Smart-Kampagne erstellt wird?**
 
-Anz. Das Tolle an Interaktionskarten ist, dass Sie damit das Beste aus beiden Welten erhalten. Sie ergänzt die aktuelle Art und Weise, wie Sie Kampagnen erstellen. Sie können auswählen, ob Sie die vorhandene Benutzeroberfläche verwenden oder die neue Benutzeroberfläche erstellen/visualisieren möchten. Alle Benutzer erhalten weiterhin die leistungsstarken Funktionen von Marketo Engage, die jetzt durch ein visuelles Erstellungswerkzeug ergänzt werden.
+Anz. Das Tolle an Interaktionskarten ist, dass sie Ihnen das Beste aus beiden Welten bieten. Sie ergänzen die aktuelle Art und Weise, wie Sie Kampagnen erstellen. Sie können auswählen, ob Sie die vorhandene Benutzeroberfläche verwenden oder die neue Benutzeroberfläche erstellen/visualisieren möchten. Alle Benutzer erhalten weiterhin die leistungsstarken Funktionen von Marketo Engage, die jetzt durch ein visuelles Erstellungswerkzeug ergänzt werden.
 
 **Ist Interaktionszuordnung ein kostenpflichtiges Add-on?**
 
@@ -101,11 +101,11 @@ Ja. Die Interaktionszuordnung weist die volle Funktionsparität mit Smart-Kampag
 
 Es gibt drei wichtige Dinge, die Interaktionskarten auseinander setzen:
 
-* Flexibilität: Einfaches Verwalten und Validieren von miteinander verbundenen oder tief verschachtelten Kampagnen mit Visualisierung.
+* Flexibilität: Einfache Verwaltung und Validierung von miteinander verbundenen oder tief verschachtelten Kampagnen mit Visualisierung.
 
-* Funktion: Alle Visualisierungen sind vorkonfiguriert, was die Verwendung erleichtert. Die verschachtelte Struktur ermöglicht es Ihnen, einzutauchen und das ganze Bild zu bekommen.
+* Funktionalität: Alle Visualisierungen sind vorkonfiguriert, was die Bedienung erleichtert. Die verschachtelte Struktur ermöglicht es Ihnen, einzutauchen und das ganze Bild zu erhalten.
 
-* Leistung: Sie behalten die gesamte Komplexität des Marketo Engages bei, und zwar jetzt im visuellen Format.
+* Leistung: Sie behalten die gesamte bestehende Komplexität des Marketo Engages bei, jetzt in einem visuellen Format.
 
 >[!MORELIKETHIS]
 >
