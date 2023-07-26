@@ -3,20 +3,20 @@ description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokument
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 02f3150cda31ec25fc47fc7f6ea50feaa9fed6b5
+source-git-commit: f4c1e01f830f4f2f6ac16502511457cee7f3384e
 workflow-type: tm+mt
-source-wordcount: '780'
-ht-degree: 7%
+source-wordcount: '667'
+ht-degree: 9%
 
 ---
 
-# Versionshinweise: Juli 2023 {#release-notes-july-23}
+# Juli 2023 - Versionshinweise {#release-notes-july-23}
 
 Unten finden Sie alle Funktionen der Version vom 23. Juli. Überprüfen Sie Ihre Adobe Marketo Engage-Edition auf Funktionsverfügbarkeit.
 
 >[!AVAILABILITY]
 >
->Mit einem Stern gekennzeichnete Funktionen (![star](assets/yellow-star.png)) sind kostenpflichtige Add-ons. Weitere Informationen erhalten Sie von Ihrem Marketo Engage-Support-Mitarbeiter.
+>Mit einem Stern (![star](assets/yellow-star.png)) sind kostenpflichtige Add-ons. Weitere Informationen erhalten Sie von Ihrem Marketo Engage-Support-Mitarbeiter.
 
 ## Standardfunktionen des Versionszyklus {#standard-release-cycle-features}
 
@@ -56,11 +56,11 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
 
 Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiedenen Daten vor oder nach dem standardmäßigen Veröffentlichungsdatum veröffentlicht. Bitte prüfen Sie unten jedes Feature nach seinem Status.
 
-### Dynamischer Chat {#dynamic-chat}
+### Dynamic Chat {#dynamic-chat}
 
 </br>
 
-* **Chat-Quelle für dynamischen Chat**: &quot;Chat&quot; wird nun als Quelle für neue Personenaufzeichnungen und Aktivitäten angeboten. Diese Quelle kann verwendet werden, um Benutzern beim Filtern von Aktivitäten in Smart-Listen/Kampagnen zu helfen. Die Quelle kann auch von Aktualisierungen der Felder blockiert werden.
+* **Chat-Quelle für Dynamic Chat**: &quot;Chat&quot; wird nun als Quelle für neue Personeneinträge und -aktivitäten angeboten. Diese Quelle kann verwendet werden, um Benutzern beim Filtern von Aktivitäten in Smart-Listen/Kampagnen zu helfen. Die Quelle kann auch von Aktualisierungen der Felder blockiert werden.
 
 <table> 
   <tr> 
@@ -74,7 +74,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
   </tbody>
 </table>
 
-* **Verbesserte Dynamic Chat-Aktivitäten**: Dynamic Chat-Aktivitäten, -Filter und -Trigger wurden durch zusätzliche Attribute und standardisierte Benennungskonventionen erweitert.
+* **Verbesserte Dynamic Chat-Aktivitäten**: Dynamic Chat-Aktivitäten, -Filter und -Trigger wurden durch zusätzliche Attribute und standardisierte Benennungskonventionen verbessert.
 
 <table> 
   <tr> 
@@ -120,7 +120,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
   </tbody>
 </table>
 
-* **Dynamische Standardfelder**: Mit &quot;Dynamische Standardfelder&quot;können Sie einen Fallback-Wert konfigurieren, in den ein dynamisches Feld aufgelöst werden kann, wenn kein Wert zum Ausfüllen verfügbar ist. Dadurch wird sichergestellt, dass E-Mails mit der gesamten Personalisierung gesendet werden.
+* **Dynamische Standardfelder**: Mit dynamischen Standardfeldern können Sie einen Fallback-Wert konfigurieren, in den ein dynamisches Feld aufgelöst werden kann, wenn kein Wert zum Ausfüllen verfügbar ist. Dadurch wird sichergestellt, dass E-Mails mit der gesamten Personalisierung gesendet werden.
 
 <table> 
   <tr> 
@@ -162,7 +162,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
   </tbody>
 </table>
 
-* **Dynamic Chat-Trigger-Token**: Einführung neuer Trigger-Token für Dynamic Chat-Aktivitäten, die in interessanten Momenten verwendet werden.
+* **Dynamic Chat-Trigger-Token**: Einführung neuer Trigger-Token für Dynamic Chat-Aktivitäten, die in interessanten Momenten verwendet werden sollen.
 
 <table> 
   <tr> 
@@ -178,14 +178,6 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
 
 ## Ankündigungen {#announcements}
 
-Die Echtzeit-Personalisierung von Marketo Engage wurde um zwei Verbesserungen erweitert.
-
-* **Aktualisierung auf jQuery 3.7**: Um die Sicherheit und Stabilität zu verbessern, aktualisiert Marketo auf jQuery 3.7.0. RTP-Benutzer, die ihre eigene jQuery nicht laden, sind nicht negativ betroffen, da Marketo die von rtp.js geladene Standardversion ändert. Wenn Sie jedoch RTP-Benutzer mit einer Version von jQuery sind, die älter als 3.0.0 ist, wenden Sie sich an [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} Hilfe bei der Implementierung einer benutzerdefinierten Version von rtp.js, die Ihren Anforderungen entspricht.
-
->[!NOTE]
->
->Bitte stellen Sie gemeinsam mit Ihrem Webentwicklungsteam fest, ob Ihre Site Ihre eigene JQuery-Bibliothek lädt oder die Standardversion verwendet, die vom Web Personalization RTP-JavaScript-Tag geladen wird.
-
 * **Upgrade auf Google Analytics 4**: Marketo hat zuvor Universal Analytics unterstützt, das die Aufzeichnung von Daten bis zum 1. Juli 2023 stoppt. RTP-Benutzer müssen den Migrationsprozess in ihrem Google Analytics-Dashboard ausführen, um die Google Analytics 4-Integration in RTP abzuschließen. Künftig verfügen Benutzer über ein eindeutiges alphanumerisches Tag (innerhalb der Variablen `<head>` -Abschnitt des HTML-Codes) auf ihren Landingpages, über die Marketo Daten an Google Analytics senden kann.
 
-* **_Webinar zur Produktversion_**: Treten Sie uns am 6. September 2023 um 9:00 Uhr PT / 23:00 Uhr ET für eine [Live-Webinar](https://engage.marketo.com/2023_July_September_Release_Webinar_RegistrationPage.html){target="_blank"} von unserem Produktteam gehostet, wo Sie erfahren, wie Sie alle neuesten Produktinnovationen nutzen können.
+* **_Webinar zur Produktversion_**: Treten Sie uns am 6. September 2023 um 9:00 Uhr PT / 12:00 Uhr ET für eine [Live-Webinar](https://engage.marketo.com/2023_July_September_Release_Webinar_RegistrationPage.html){target="_blank"} von unserem Produktteam gehostet, wo Sie erfahren, wie Sie alle neuesten Produktinnovationen nutzen können.
