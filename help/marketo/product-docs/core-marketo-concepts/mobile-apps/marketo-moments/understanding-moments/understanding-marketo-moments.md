@@ -4,9 +4,9 @@ description: Verstehen von Marketo-Momenten - Marketo-Dokumente - Produktdokumen
 title: Grundlagen zu Marketo-Momenten
 exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 762b8206b1e4c748daae063a80e76cc028904d10
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '556'
 ht-degree: 5%
 
 ---
@@ -15,10 +15,13 @@ ht-degree: 5%
 
 Sie haben jetzt die leistungsstarken Funktionen von Marketo in der Hand – in jeder Hinsicht! Vorschau und Neuplanen von E-Mail direkt über Telefon oder iPad.
 
->[!AVAILABILITY]
->
+>[!NOTE]
 >
 >Die Zugriffsberechtigung für Mobile Apps ist erforderlich. Wenden Sie sich an Ihren Marketo-Administrator an [Rolle aktualisieren](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+
+>[!AVAILABILITY]
+>
+>Diese App ist nicht kompatibel mit [Identitätsauthentifizierung der Adobe](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} zu diesem Zeitpunkt.
 
 ## Streams {#streams}
 
