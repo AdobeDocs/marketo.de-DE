@@ -4,7 +4,7 @@ title: Interaktionsübersicht
 hide: true
 hidefromtoc: true
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
+source-git-commit: 7075f04972f755ffef01e0608ca81f0640fb8aa6
 workflow-type: tm+mt
 source-wordcount: '777'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Interaktionsübersicht {#engagement-map-overview}
 
->[!AVAILABILITY]
->
->Diese Funktion ist derzeit für Smart-Kampagnen verfügbar. Sie steht nicht für Programme zur Verfügung.
-
 Mit der Interaktionskarte können Sie mithilfe intuitiver Visualisierungen wiederverwendbare Smart-Kampagnen erstellen. Es bietet vollständige Abwärtskompatibilität mit allen bestehenden Marketo Engage-Smart-Kampagnen, ohne dass aktuelle Funktionen verloren gehen.
+
+>[!NOTE]
+>
+>Interaktionszuordnung ist derzeit in Smart-Kampagnen verfügbar. Sie ist nicht in Programme verfügbar.
 
 ![](assets/engagement-map-overview-1.png)
 
