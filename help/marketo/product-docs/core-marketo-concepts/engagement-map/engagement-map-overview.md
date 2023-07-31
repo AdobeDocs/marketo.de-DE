@@ -4,9 +4,9 @@ title: Interaktionsübersicht
 hide: true
 hidefromtoc: true
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: f88704f03a757f117fbb997eff13843cad637315
+source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
 workflow-type: tm+mt
-source-wordcount: '787'
+source-wordcount: '777'
 ht-degree: 0%
 
 ---
@@ -19,17 +19,17 @@ ht-degree: 0%
 
 Mit der Interaktionskarte können Sie mithilfe intuitiver Visualisierungen wiederverwendbare Smart-Kampagnen erstellen. Es bietet vollständige Abwärtskompatibilität mit allen bestehenden Marketo Engage-Smart-Kampagnen, ohne dass aktuelle Funktionen verloren gehen.
 
-SCREENSHOT
+![](assets/engagement-map-overview-1.png)
 
 ## Zugriff auf Interaktionszuordnung {#accessing-engagement-map}
 
 Navigieren Sie zu einer vorhandenen Kampagne und klicken Sie auf die Schaltfläche **Interaktionskarte** Schaltfläche.
 
-SCREENSHOT
+![](assets/engagement-map-overview-2.png)
 
 In der Interaktionszuordnung werden Ihnen zwei Registerkarten angezeigt: [Interaktionskarte](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} and [Settings](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}.
 
-SCREENSHOT
+![](assets/engagement-map-overview-3.png)
 
 ## Kartenbeschreibungen {#card-descriptions}
 
@@ -51,11 +51,7 @@ SCREENSHOT
 
 ## Obere Navigation {#top-navigation}
 
-SCREENSHOT
-
 Die obere Navigationsleiste enthält die folgenden Funktionen:
-
-!!!!! SCREENSHOUT IST OUTDIERT - GRAB NEW ONE
 
 * Kampagnenname und Zugriff auf das Modal &quot;Kampagne bearbeiten&quot;, können Sie hier den Namen und die Beschreibung der Kampagne bearbeiten.
 

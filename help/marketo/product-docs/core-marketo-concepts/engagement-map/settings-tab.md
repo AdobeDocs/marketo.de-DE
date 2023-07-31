@@ -4,9 +4,9 @@ title: Registerkarte "Einstellungen"
 hide: true
 hidefromtoc: true
 exl-id: 44bb3227-4d77-47db-88ef-aafc2ddf3c74
-source-git-commit: f88704f03a757f117fbb997eff13843cad637315
+source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '303'
 ht-degree: 1%
 
 ---
@@ -63,8 +63,6 @@ Alle vorhandenen Berechtigungssätze können auf der Registerkarte Einstellungen
 >[!NOTE]
 >
 >Wenn nach dem Klicken auf das Hilfesymbol &quot;Zusätzliche Berechtigung erforderlich&quot;angezeigt wird, wenden Sie sich an Ihren Marketo-Administrator.
-
-REDUNDANT WIE OBEN ERLÄUTERT, KÖNNEN WIR ENTFERNEN —> Wenn ein Benutzer keinen Zugriff auf die Kampagneneinstellungen hat, hat er auch keinen Zugriff, geplante Läufe abzubrechen.
 
 ![](assets/settings-tab-5.png)
 

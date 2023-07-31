@@ -3,7 +3,7 @@ description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokument
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: f4c1e01f830f4f2f6ac16502511457cee7f3384e
+source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
 workflow-type: tm+mt
 source-wordcount: '667'
 ht-degree: 9%
@@ -24,7 +24,7 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
 
 </br>
 
-* **Interaktionskarte**: Die Interaktionskarte ist ein visuelles Tool, mit dem Sie wiederverwendbare Kampagnen erstellen und organisieren können. Es ist vollständig abwärtskompatibel, sodass alle bestehenden Kampagnen in dieser neuen Struktur mit einem Klick auf eine Schaltfläche angezeigt werden können. Leinwanddateien können heruntergeladen und freigegeben werden.
+* **Interaktionskarte**: Die Interaktionskarte ist ein visuelles Tool, mit dem Sie wiederverwendbare Kampagnen erstellen und organisieren können. Es ist vollständig abwärtskompatibel, sodass alle bestehenden Kampagnen in dieser neuen Struktur mit einem Klick auf eine Schaltfläche angezeigt werden können. Karten können heruntergeladen und freigegeben werden.
 
 <table> 
   <tr> 

@@ -4,9 +4,9 @@ title: Registerkarte "Interaktionskarte"
 hide: true
 hidefromtoc: true
 exl-id: f54b9258-451b-4607-b5a9-f8627c6f420a
-source-git-commit: f88704f03a757f117fbb997eff13843cad637315
+source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
 workflow-type: tm+mt
-source-wordcount: '965'
+source-wordcount: '913'
 ht-degree: 0%
 
 ---
@@ -153,12 +153,6 @@ Unten finden Sie ein Beispiel für einen Fehler in einem Trigger, der auf der Ü
 * Fehler bei Begrenzungen (oder fehlende Beschränkungen) in einem oder mehreren Filtern
 
   ![](assets/engagement-map-tab-20.png)
-
-Wenn keine Werte (Attribute) eingegeben werden, tritt kein Fehler auf. Der Vorgang funktioniert weiterhin wie auf der Registerkarte &quot;Fluss&quot;. Daher werden bestehende Kampagnen nicht gestört. Wenn jedoch Flussschritte keine Attribute enthalten, werden diese als Warnungen angezeigt.
-
-^^^ BRAUCHEN WIR DAS WIRKLICH, WIRD DER KUNDE NICHT WARNEN??
-
-![](assets/engagement-map-tab-21.png)
 
 >[!NOTE]
 >
