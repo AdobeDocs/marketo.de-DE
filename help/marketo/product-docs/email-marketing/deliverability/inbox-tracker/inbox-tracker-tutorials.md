@@ -1,23 +1,21 @@
 ---
 description: Posteingangsverfolgung - Tutorials - Marketo - Produktdokumentation
 title: Tutorials für Posteingangsverfolgung
-hide: true
-hidefromtoc: true
 feature: Deliverability
-source-git-commit: 95eb2ddf7ecb94a930c59cad57f39d45465bb9c2
+source-git-commit: 1f55f6ae17f4c5a059a7e937f9c115a79514e8db
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '324'
 ht-degree: 0%
 
 ---
 
 # Tutorials für Posteingangsverfolgung {#inbox-tracker-tutorials.md}
 
-Inbox Tracker von MessageBird ist ein leistungsstarkes Tool von Drittanbietern ...
+Testen, überwachen und verstehen Sie Zustellbarkeitsprobleme mit Marketos E-Mail-Zustellbarkeits-Powerpack, der auf der Posteingangsverfolgungsplattform von Message Bird basiert. Inbox Tracker ist eine Einzelanwendung, die die Intelligenz Ihres Programms und die Vorhersage von E-Mail-Rendering/Inbox-Tests kombiniert, um die Leistung Ihrer E-Mails zu maximieren.
 
-MessageBird hat mehrere Schulungsvideos erstellt, die Ihnen beim Navigieren in der Plattform helfen.
+![](assets/inbox-tracker-tutorials-1.png)
 
-SCREENSHOT
+MessageBird hat mehrere Schulungsvideos erstellt, die Ihnen helfen, dieses leistungsstarke Tool optimal zu nutzen.
 
 ## Übersicht über Posteingang-Tracker {#inbox-tracker-overview}
 
@@ -28,6 +26,8 @@ SCREENSHOT
 [Intelligent (Konfigurieren und Herunterladen)](https://veed.io/view/8b9e398e-21c9-49dc-a133-e1d8eb8ba03d){target="_blank"}
 
 ## Zustellbarkeit des Posteingangstrackers {#inbox-tracker-deliverability-section}
+
+![](assets/inbox-tracker-tutorials-2.png)
 
 [Dashboard-Übersicht](https://veed.io/view/2d1084f3-b4b4-440b-9977-a3cc3b885bb9){target="_blank"}
 
@@ -62,5 +62,7 @@ SCREENSHOT
 [Google Postmaster-Tools](https://veed.io/view/7c89c0d8-ead2-46ad-9709-7509d043442a){target="_blank"}
 
 ## Design-Tracker {#design-tracker}
+
+![](assets/inbox-tracker-tutorials-3.png)
 
 [Design-Tracker](https://veed.io/view/3efe7959-d835-4a00-948c-93e4a0394871){target="_blank"}
