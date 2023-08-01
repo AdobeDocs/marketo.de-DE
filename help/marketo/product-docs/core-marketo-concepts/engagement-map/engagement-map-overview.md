@@ -1,12 +1,10 @@
 ---
 description: Interaktionsübersicht - Marketo-Dokumente - Produktdokumentation
 title: Interaktionsübersicht
-hide: true
-hidefromtoc: true
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: 7075f04972f755ffef01e0608ca81f0640fb8aa6
+source-git-commit: d41324dbde32ee731b3ce9c3416888e8088a2daa
 workflow-type: tm+mt
-source-wordcount: '777'
+source-wordcount: '793'
 ht-degree: 0%
 
 ---
@@ -35,7 +33,7 @@ In der Interaktionszuordnung werden Ihnen zwei Registerkarten angezeigt: [Intera
 
 **Trigger**: In Kampagnen, die Trigger enthalten, wird die Karte über die Karte &quot;Trigger-Übersicht&quot;verfügen. Wenn Sie darauf klicken, werden eine Karte für jeden Trigger sowie ein Slide-out-Bedienfeld mit zusätzlichen Informationen angezeigt.
 
-**Filter**: In Kampagnen, die Filter enthalten, enthält die Zuordnung für jede Karte eine Karte. Wenn Sie darauf klicken, wird ein Slide-out-Bedienfeld mit zusätzlichen Informationen angezeigt.
+**Filter**: In Kampagnen, die Filter enthalten, enthält die Zuordnung eine Karte Filterübersicht . Wenn Sie darauf klicken, wird ein Slide-out-Bedienfeld mit zusätzlichen Informationen zu den einzelnen Filtern angezeigt.
 
 **Flussschritte**: Jede Kampagne enthält eine Karte für jeden Flussschritt. Wenn Sie darauf klicken, wird ein Slide-out-Bedienfeld mit zusätzlichen Informationen angezeigt.
 
@@ -45,7 +43,7 @@ In der Interaktionszuordnung werden Ihnen zwei Registerkarten angezeigt: [Intera
 
 * Wenn eine Kampagne einen Schritt zum Anfordern oder Ausführen des Kampagnenflusses enthält, werden beim Klicken auf die Flusskarte Details zur aufgerufenen Kampagne sowie ein Slide-out-Bedienfeld mit zusätzlichen Informationen angezeigt.
 
-* Wenn eine Kampagne einen Schritt zum Anfordern oder Ausführen eines Kampagnenflusses mit Optionen enthält, werden beim Klicken auf die Flusskarte eine Auswahlkarte sowie ein Slide-out-Fenster mit weiteren Informationen zu den Optionen angezeigt. Wenn Sie auf jede Auswahlkarte klicken, werden Details zur aufgerufenen Kampagne sowie ein Slide-out-Bedienfeld mit weiteren Informationen angezeigt.
+* Wenn eine Kampagne einen Schritt zum Anfordern oder Ausführen eines Kampagnenflusses mit einer Auswahl enthält, wird durch Klicken auf die Flusskarte eine Karte für jede Auswahl sowie ein Slide-out-Fenster mit weiteren Informationen zu den Optionen angezeigt. Wenn Sie auf jede Auswahlkarte klicken, werden Details zur aufgerufenen Kampagne sowie ein Slide-out-Bedienfeld mit weiteren Informationen angezeigt.
 
 * Wenn außerdem eine der verschachtelten Kampagnen einen Schritt zum Anfordern oder Ausführen des Kampagnenflusses aufweist, werden beim Klicken auf die Flusskarte Details zur Kampagne angezeigt. Dasselbe gilt, wenn der Flussschritt Optionen enthält.
 
@@ -59,7 +57,7 @@ Die obere Navigationsleiste enthält die folgenden Funktionen:
 
 * Schaltfläche &quot;Aktivieren/Deaktivieren&quot;für Trigger-Kampagnen
 
-* Smart-Liste bearbeiten - Sie werden in einer neuen Registerkarte zur Benutzeroberfläche der Smart-Liste navigieren, auf der Sie Ihre Smart-Liste hinzufügen oder bearbeiten können
+* Smart-Liste bearbeiten - Sie werden in einer neuen Registerkarte zur Benutzeroberfläche der intelligenten Liste navigieren, auf der Sie Ihre Flussschritte hinzufügen oder bearbeiten können.
 
 * Fluss bearbeiten: Sie werden auf einer neuen Registerkarte zur Fluss-Benutzeroberfläche navigiert, auf der Sie Ihre Smart-Liste hinzufügen oder bearbeiten können.
 
@@ -69,7 +67,7 @@ Die obere Navigationsleiste enthält die folgenden Funktionen:
 
 >[!NOTE]
 >
->Änderungen, die in einer geöffneten Registerkarte Smart List und Fluss vorgenommen wurden, werden bei der Aktualisierung auf der Registerkarte Interaktionszuordnung angezeigt. Es wird nicht automatisch aktualisiert. Automatisch gespeicherte Aktualisierungen und Änderungen werden angezeigt.
+>Änderungen, die in einer geöffneten Registerkarte Smart List und Fluss vorgenommen wurden, werden bei der Aktualisierung auf der Registerkarte Interaktionszuordnung angezeigt. Es wird nicht automatisch aktualisiert. Aktualisierungen und Bearbeitungen, die automatisch gespeichert werden, werden bei der Aktualisierung der Registerkarte Interaktionszuordnung angezeigt.
 
 ## FAQs {#faq}
 

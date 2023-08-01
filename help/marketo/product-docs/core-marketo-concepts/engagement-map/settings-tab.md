@@ -1,10 +1,8 @@
 ---
 description: Registerkarte "Einstellungen"- Marketo-Dokumente - Produktdokumentation
 title: Registerkarte "Einstellungen"
-hide: true
-hidefromtoc: true
 exl-id: 44bb3227-4d77-47db-88ef-aafc2ddf3c74
-source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
+source-git-commit: d41324dbde32ee731b3ce9c3416888e8088a2daa
 workflow-type: tm+mt
 source-wordcount: '303'
 ht-degree: 1%
@@ -45,7 +43,7 @@ Das Wiederholungsmodal bietet die Möglichkeit, einen wiederkehrenden Zeitplan t
 
 ![](assets/settings-tab-4.png)
 
-Die Registerkarte Einstellungen bietet außerdem einen schnellen Überblick über Ihre Smart-Liste. Er umfasst Folgendes:
+Der Tab Einstellungen bietet außerdem einen schnellen Überblick über Ihre Smart-Kampagne. Er umfasst Folgendes:
 
 * Kampagnenstatus
 * Erstellt am
