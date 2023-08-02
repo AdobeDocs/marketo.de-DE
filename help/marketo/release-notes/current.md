@@ -3,10 +3,10 @@ description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokument
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: b6628cee17799801815f5b84c424399538eaf5ee
+source-git-commit: 93be928e540fd50d92bef4ead3ea23519de18cce
 workflow-type: tm+mt
-source-wordcount: '667'
-ht-degree: 8%
+source-wordcount: '665'
+ht-degree: 7%
 
 ---
 
@@ -33,7 +33,7 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
   </tr>
   <tr> 
    <td>Versendet</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-overview.md">Interaktionsübersicht</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-overview.md" target="_blank">Interaktionsübersicht</a></td>
   </tr>
   </tbody>
 </table>
@@ -114,8 +114,8 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
    <td><b>Aktualisierungen der Dokumentation</b></td>
   </tr>
   <tr> 
-   <td><i>Demnächst verfügbar</i></td>
-   <td><i>Demnächst verfügbar</i></td>
+   <td>Versendet</td>
+   <td><a href="/help/marketo/product-docs/marketo-sales-insight/actions/templates/field-prompts.md" target="_blank">Feldaufforderungen</a></td>
   </tr>
   </tbody>
 </table>
@@ -128,8 +128,8 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
    <td><b>Aktualisierungen der Dokumentation</b></td>
   </tr>
   <tr> 
-   <td><i>Demnächst verfügbar</i></td>
-   <td><i>Demnächst verfügbar</i></td>
+   <td>Versendet</td>
+   <td><a href="/help/marketo/product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md" target="_blank">Dynamische Felder</a></td>
   </tr>
   </tbody>
 </table>
