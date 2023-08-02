@@ -2,9 +2,9 @@
 description: Interaktionsübersicht - Marketo-Dokumente - Produktdokumentation
 title: Interaktionsübersicht
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: d41324dbde32ee731b3ce9c3416888e8088a2daa
+source-git-commit: b6628cee17799801815f5b84c424399538eaf5ee
 workflow-type: tm+mt
-source-wordcount: '793'
+source-wordcount: '796'
 ht-degree: 0%
 
 ---
@@ -51,15 +51,15 @@ In der Interaktionszuordnung werden Ihnen zwei Registerkarten angezeigt: [Intera
 
 Die obere Navigationsleiste enthält die folgenden Funktionen:
 
-* Kampagnenname und Zugriff auf das Modal &quot;Kampagne bearbeiten&quot;, können Sie hier den Namen und die Beschreibung der Kampagne bearbeiten.
+* Kampagnenname und Zugriff auf das Modal &quot;Kampagne bearbeiten&quot;, können Sie hier den Kampagnennamen und die Beschreibung bearbeiten.
 
 * Kampagnenstatus und -typ werden unter dem Kampagnennamen angezeigt
 
 * Schaltfläche &quot;Aktivieren/Deaktivieren&quot;für Trigger-Kampagnen
 
-* Smart-Liste bearbeiten - Sie werden in einer neuen Registerkarte zur Benutzeroberfläche der intelligenten Liste navigieren, auf der Sie Ihre Flussschritte hinzufügen oder bearbeiten können.
+* Smart-Liste bearbeiten - Sie werden in einer neuen Registerkarte zur Benutzeroberfläche der Smart-Liste navigieren, auf der Sie Filter und/oder Trigger hinzufügen oder bearbeiten können
 
-* Fluss bearbeiten: Sie werden auf einer neuen Registerkarte zur Fluss-Benutzeroberfläche navigiert, auf der Sie Ihre Smart-Liste hinzufügen oder bearbeiten können.
+* Fluss bearbeiten - Sie werden auf einer neuen Registerkarte zur Fluss-Oberfläche navigieren, auf der Sie Ihre Flussschritte hinzufügen oder bearbeiten können.
 
 * Export - Hiermit wird ein Bild der Kampagnenvisualisierung heruntergeladen. Die heruntergeladene Version spiegelt alle Verzweigungen wider, die Sie erweitert haben
 

@@ -4,9 +4,9 @@ description: Best Practices für intelligente Listen - Marketo-Dokumente - Produ
 title: Best Practices für Smart-Listen
 exl-id: 466de198-1012-4ac3-906c-d41943fe5bc0
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b6628cee17799801815f5b84c424399538eaf5ee
 workflow-type: tm+mt
-source-wordcount: '566'
+source-wordcount: '570'
 ht-degree: 0%
 
 ---
@@ -36,4 +36,4 @@ Um die Arbeit mit ihnen zu erleichtern und die Leistung zu optimieren, haben wir
 
 >[!TIP]
 >
->Marketo kann auf vielerlei Weise eingesetzt werden und bestimmte Techniken sind für Sie und Ihr Unternehmen besser. Überlegen [Marketo Professional Services](https://pages2.marketo.com/72-hour-survival-guide.html){target="_blank"} um Ihre Investition glänzen zu lassen.
+>Marketo Engage kann auf vielerlei Weise eingesetzt werden und bestimmte Techniken sind besser für Sie und Ihr Unternehmen. Wenden Sie sich an Ihren Adobe Professional Services Sales Rep , wenn Sie Hilfe beim bestmöglichen Nutzen Ihrer Investition benötigen.

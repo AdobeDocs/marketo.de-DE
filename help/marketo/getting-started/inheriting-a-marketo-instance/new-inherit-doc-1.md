@@ -3,10 +3,10 @@ description: Vererben von Dokument 1 - Marketo-Dokumente - Produktdokumentation
 title: Erben von Doc 1
 hide: true
 hidefromtoc: true
-source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
+source-git-commit: b6628cee17799801815f5b84c424399538eaf5ee
 workflow-type: tm+mt
-source-wordcount: '443'
-ht-degree: 21%
+source-wordcount: '804'
+ht-degree: 10%
 
 ---
 
@@ -119,8 +119,8 @@ Haben Sie eine vorhandene Marketo Engage-Instanz von einem anderen Administrator
   </tr> 
   <tr> 
    <td>Einstellungen für intelligente Kampagne</td> 
-   <td><li>Gibt es Beschränkungen? Verfügt Ihr Unternehmen über Richtlinien, bei denen Kommunikationsbeschränkungen erforderlich sein könnten?</li>
-<li>Adobe empfiehlt, Ihre Kommunikation auf 1 pro Tag und 3 pro 7 Tage zu begrenzen, wenn nicht operative E-Mails blockiert werden.</li></td>
+   <td><li>Haben Sie eine Einschränkung der Größe von Smart-Kampagnen?</li>
+<li>Ist dies nicht der Fall, können Sie eine hinzufügen. Es wird empfohlen, die für intelligente Kampagnen geltenden Grenzwerte auf 25 % Ihrer Datenbank zu begrenzen, um eine Überkommunikation oder Verarbeitung Ihrer gesamten Datenbank in Workflows zu vermeiden. Dies schützt nicht nur Ihre Marke, sondern schützt auch die Leistung Ihrer Instanz.</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -136,18 +136,9 @@ Haben Sie eine vorhandene Marketo Engage-Instanz von einem anderen Administrator
    <th>Spalte 3</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Kommunikationsbeschränkungen</td> 
+   <td><li>Gibt es Beschränkungen? Verfügt Ihr Unternehmen über Richtlinien, bei denen Kommunikationsbeschränkungen erforderlich sein könnten?</li>
+<li>Adobe empfiehlt, Ihre Kommunikation auf 1 pro Tag und 3 pro 7 Tage zu begrenzen, wobei nicht operative E-Mails blockiert werden.</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -163,18 +154,24 @@ Haben Sie eine vorhandene Marketo Engage-Instanz von einem anderen Administrator
    <th>Spalte 3</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Tags</td> 
+   <td><li>Wie viele Tags gibt es? Wie viele Tags werden verwendet? Müssen noch weitere hinzugefügt werden?</li>
+<li>Sind Tags in Ihren Programmen erforderlich?</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Kanäle</td> 
+   <td><li>Wie viele Kanäle gibt es? Wie viele werden verwendet?</li>
+<li>Sind alle Status des Kanalprogramms angemessen? Zeigen sie Fortschritte im Rahmen des Programms?</li>
+<li>Sind Ihre Kanäle mit bestimmten Programmtypen verbunden?</li>
+<li>Welche Status werden für jeden Kanal als erfolgreich betrachtet? Stimmen diese mit Ihren Marketing-Zielen überein?</li>
+<li>Wird der operationelle Kanal ordnungsgemäß verwendet?</li>
+<li>Ist für "Erweiterter Report Builder"(Umsatz-Cycle Explorer\RCE) Ihr Kanalanalyseverhalten so eingestellt, dass es an Ihren Programmpraktiken ausgerichtet ist und die Zeitraumkosten enthält?</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Marketing-Kalender (falls zutreffend)</td> 
+   <td><li>Wie viele Kalendereintragstypen gibt es? Sind sie alle noch relevant?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -190,18 +187,27 @@ Haben Sie eine vorhandene Marketo Engage-Instanz von einem anderen Administrator
    <th>Spalte 3</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Feldverwaltung</td> 
+   <td><li>Wie viele Felder gibt es? Klicken Sie auf "Feldnamen exportieren", um eine Liste Ihrer Felder, benutzerdefinierten Felder und deren API-Namen anzuzeigen.</li>
+<li>Wie viele benutzerdefinierte Felder gibt es?</li>
+<li>Wie viele Felder werden verwendet? Wählen Sie im Dropdown-Menü Feldaktionen die Option "Verwendet von exportieren"aus, um zugehörige Assets eines Felds zu überprüfen.</li>
+<li>Wie viele werden zwischen Marketo Engage und Ihrem CRM synchronisiert?</li>
+<li>Werden CRM-Felder mit den entsprechenden Objekten synchronisiert?</li>
+<li>Gibt es eine benutzerdefinierte Ansicht für Personendetails? Sollte es denn geben?</li>
+<li>Verfügen Sie über eine auf der Quelle basierende Namenskonvention für Ihre Felder? Wenn nicht, sollten Sie die Implementierung in Erwägung ziehen.</li>
+<li>Sind Felder blockiert? Verstehen Sie unbedingt, warum sie sind.</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Eigene Aktivitäten</td> 
+   <td><li>Gibt es benutzerdefinierte Aktivitäten?</li>
+<li>Wenn ja, durchklicken Sie sie, um zu verstehen, welche Aktivitäten nicht mit einem Marketo-Formular, einer E-Mail oder einer Landingpage verbunden sind.</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>benutzerdefinierte -Objekte</td> 
+   <td><li>Wie viele benutzerdefinierte Objekte gibt es? Wie werden sie mit Ihrem CRM synchronisiert?</li>
+<li>Wie werden diese benutzerdefinierten Objekte von Ihren Programmen und Listenabfragen verwendet?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -229,6 +235,19 @@ Haben Sie eine vorhandene Marketo Engage-Instanz von einem anderen Administrator
   <tr> 
    <td>1</td> 
    <td>2</td>
+   <td>3</td>
+  </tr>
+  <tr> 
+   <td>1</td> 
+   <td>2</td>
+   <td>3</td>
+  </tr>
+  <tr> 
+   <td>Marketo Sales Insight (falls zutreffend)</td> 
+   <td><li>Wurde das MSI-Paket installiert?</li>
+<li>Haben Sie auf die neueste Version von Sales Insight aktualisiert?</li>
+<li>Haben Sie die Konfiguration von Sales Insight abgeschlossen?</li>
+<li>Haben Sie Ihren Benutzern Zugriff auf die von Ihnen erworbenen Plätze gewährt?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
