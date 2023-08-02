@@ -3,18 +3,20 @@ description: Vererben von Dokument 1 - Marketo-Dokumente - Produktdokumentation
 title: Erben von Doc 1
 hide: true
 hidefromtoc: true
-source-git-commit: 93be928e540fd50d92bef4ead3ea23519de18cce
+source-git-commit: f3ec0872e94d9e12219945f92040b7dbc67e5bed
 workflow-type: tm+mt
-source-wordcount: '851'
-ht-degree: 10%
+source-wordcount: '1140'
+ht-degree: 7%
 
 ---
 
 # Erben von Doc 1 {#inherit-doc-1}
 
-Die Prüfung einer geerbten Instanz kann wie eine
+Die Prüfung einer geerbten Instanz kann wie eine ...
 
-Haben Sie eine vorhandene Marketo Engage-Instanz von einem anderen Administrator übernommen? Wenn ja, ist dieser Artikel für Sie.
+Haben Sie eine vorhandene Marketo Engage-Instanz von einem anderen Administrator übernommen? Wenn ja, ist dieser Artikel für Sie...
+
+Die folgende Checkliste wurde mit Eingaben von Marketo Champions zusammengestellt, um Ihnen dabei zu helfen, schnell in Ihrer geerbten Instanz zu arbeiten...
 
 >[!TIP]
 >
@@ -37,7 +39,7 @@ Haben Sie eine vorhandene Marketo Engage-Instanz von einem anderen Administrator
 <li>Wie viele Benutzer haben Administratorberechtigungen?</li>
 <li>Sollte einer dieser Benutzer in andere Rollen geändert werden?</li> 
 <li>Wer sind die API-Benutzer in dieser Instanz?</li></td>
-   <td>3,1</td>
+   <td>3</td>
   </tr>
   <tr> 
    <td>Rollen</td> 
@@ -47,19 +49,19 @@ Haben Sie eine vorhandene Marketo Engage-Instanz von einem anderen Administrator
 <li>Wie oft melden sich Benutzer an?</li>
 <li>Verfügt jeder API-Benutzer über eine eigene Benutzerrolle? Falls nicht, sollten Sie dies implementieren, um die Fehlerbehebung zu vereinfachen.</li> 
 <li>Stimmen Ihre Benutzerrollen und Berechtigungen mit Ihren Datenschutzrichtlinien für Unternehmensdaten überein?</li></td>
-   <td>3,2</td>
+   <td>3</td>
   </tr>
   <tr> 
    <td>Interne Dokumentation</td> 
    <td><li>Sind Benutzer und Rollen in Ihrer Organisation klar definiert?</li>
 <li>Wie wird ein neuer Benutzer/Administrator hinzugefügt?</li></td>
-   <td>3.3</td>
+   <td>3</td>
   </tr>
   <tr> 
    <td>Sandbox (falls zutreffend)</td> 
    <td><li>Haben Sie eine Sandbox-Instanz? Wenn ja, überprüfen Sie die oben genannten Kategorien für Ihre Sandbox.</li>
 <li>Ist der Programm-Import mit Ihrer Sandbox verknüpft?</li></td>
-   <td>3,4</td>
+   <td>3</td>
   </tr>
  </tbody> 
 </table>
@@ -76,7 +78,7 @@ Haben Sie eine vorhandene Marketo Engage-Instanz von einem anderen Administrator
   <tr> 
    <td>Audit-Trail</td> 
    <td><li>Wer arbeitet in der Instanz?</li></td>
-   <td>3.1</td>
+   <td>3</td>
   </tr>
  </tbody> 
 </table>
@@ -225,23 +227,34 @@ Haben Sie eine vorhandene Marketo Engage-Instanz von einem anderen Administrator
   <tr> 
    <td>CRM</td> 
    <td><li>Mit welchem CRM synchronisieren Sie? Salesforce? MS Dynamics? Veeva?</li>
-<li>Ist die benutzerdefinierte Synchronisierung oder bidirektional? (KG: Korrektur der Grammatik und der Wichtigkeit der Prüfung)</li>
+<li>Ist die benutzerdefinierte Synchronisierung oder bidirektional? (KG: KORREKTUR UND BEDEUTUNG DER PRÜFUNG)</li>
 <li>[Nur Salesforce] Ist für Ihre Instanz benutzerdefinierte Synchronisierungsfilter implementiert? Wenden Sie sich an den Marketo-Support, um benutzerdefinierte Synchronisierungsfilter zu ermitteln oder die Implementierung einer benutzerspezifischen Synchronisierungsregel anzufordern.</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Landing Pages</td> 
+   <td><li>Wie lautet die Domäne?</li>
+<li>Wie lautet der Fallback?</li>
+<li>Wie ist die Homepage eingestellt?</li>
+<li>Ist das Vorausfüllen des Formulars aktiviert?</li>
+<li>Sind personalisierte URLs aktiviert?</li>
+<li>Gibt es Regeln für Umleitungen?</li>
+<li>Haben Sie Domain-Aliase? Verfolgen Sie in der Dokumentation, wie Sie Ihre Domain-Aliase verwenden?</li>
+<li>Ist "Sichere Domänen"für Landingpages aktiviert? Bestätigen Sie, ob Ihre Landingpage-Assets eine "http"-URL enthalten.</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Munchkin</td> 
+   <td><li>Ist Ihr Munchkin-Trackingcode auf Ihrer Website (nicht in Marketo)?</li>
+<li>Ist eine Browseranforderung "Nicht verfolgen"aktiviert?</li>
+<li>Ist Ihre Munchkin-API konfiguriert? Wenn Ihnen die Dokumentation fehlt, in der sich der Munchkin-Code auf Ihrer Website befindet, beginnen Sie mit einer Schnellansicht. Verwenden Sie dazu den "Web Analytics-Bericht"in "Analytics", um zu verstehen, wo der Munchkin-Code auf Ihrer Website platziert wird.</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Web-Services</td> 
+   <td><li>Sind IP-Einschränkungen aktiviert? Sollen sie das sein?</li>
+<li>Welche Benutzer/Apps führen API-Aufrufe in Ihrer Instanz durch?</li>
+<li>Haben Sie Ihr API-Limit erreicht oder stehen Sie kurz davor? Falls ja, sollten Sie sie erhöhen oder Ihre Instanz überprüfen, um diese API-Aufrufe zu reduzieren.</li></td>
    <td>3</td>
   </tr>
   <tr> 
@@ -265,18 +278,15 @@ Haben Sie eine vorhandene Marketo Engage-Instanz von einem anderen Administrator
    <th>Spalte 3</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Schatzkiste</td> 
+   <td><li>Was ist in der Schatzkiste eingeschaltet?</li>
+<li>Gibt es Funktionen, die aktiviert oder deaktiviert werden sollten?</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Kampagnenprüfung</td> 
+   <td><li>Ist der Campaign Inspector aktiviert?</li>
+<li>Ist dies nicht der Fall, sollten Sie es aktivieren, um einfach festzustellen, welche Kampagnen aktiv sind, mit Ihrem CRM-System zu synchronisieren und/oder Datensätze zu löschen.</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -292,18 +302,24 @@ Haben Sie eine vorhandene Marketo Engage-Instanz von einem anderen Administrator
    <th>Spalte 3</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Marketo Engage-Statusaktualisierungen</td> 
+   <td><li>Ist Ihre Instanz für Marketo Engage-Statusaktualisierungen angemeldet?</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Zugelassene Kontakte</td> 
+   <td><li>Haben Sie die entsprechenden autorisierten Kontakte im Support-Portal eingerichtet?</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Warnungen</td> 
+   <td><li>Gibt es aktive Warnungen, die von Marketo Engage an interne Teams gesendet werden?</li>
+<li>Wenn ja, funktionieren diese Ausschreibungen ordnungsgemäß?</li></td>
+   <td>3</td>
+  </tr>
+  <tr> 
+   <td>Benachrichtigungen</td> 
+   <td><li>Haben Sie entsprechende Administratorbenachrichtigungen abonniert?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
