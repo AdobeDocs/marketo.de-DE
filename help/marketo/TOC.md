@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: f3ec0872e94d9e12219945f92040b7dbc67e5bed
+source-git-commit: 0fba31b4ec5d400a3efabaf9e27a291b95140b9e
 workflow-type: tm+mt
-source-wordcount: '9003'
+source-wordcount: '9004'
 ht-degree: 5%
 
 ---
@@ -42,7 +42,7 @@ ht-degree: 5%
       + [Elemente zum Deaktivieren](getting-started/inheriting-a-marketo-instance/items-to-check-off.md)
       + [Was überprüft werden muss: Kernkompetenzen](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
       + [Hilfen](getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
-      + [Erben von Doc 1](getting-started/inheriting-a-marketo-instance/inherit-doc-1.md)
+      + [Neuer Abschnitt &quot;Vererbung&quot;](getting-started/inheriting-a-marketo-instance/new-inherit-doc-1.md)
 + Produktdokumentationen {#product-docs}
    + Zusätzliche Apps {#additional-apps}
       + SEO {#seo}
