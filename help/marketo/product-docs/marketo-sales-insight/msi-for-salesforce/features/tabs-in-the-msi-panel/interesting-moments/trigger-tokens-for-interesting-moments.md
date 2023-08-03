@@ -4,10 +4,10 @@ description: Trigger-Token für interessante Momente - Marketo-Dokumente - Produ
 title: Trigger-Token für interessante Momente
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 96ba23e53e395f3e07b6f636f6acf7e6b94e1392
 workflow-type: tm+mt
-source-wordcount: '436'
-ht-degree: 30%
+source-wordcount: '480'
+ht-degree: 27%
 
 ---
 
@@ -25,11 +25,11 @@ Checkout [Token-Übersicht](/help/marketo/product-docs/demand-generation/landing
 
 Basierend auf dem in einer Smart-Kampagne verwendeten Trigger werden zusätzliche Trigger-Token bereitgestellt.
 
-* `{{trigger.Trigger Name}}` ist immer der eigentliche Trigger selbst. Beispiel: Klicks Link in E-Mail.
+* `{{trigger.Trigger Name}}` ist immer der eigentliche Trigger selbst. Beispiel: Klicks auf Link in E-Mail.
 * `{{trigger.Name}}` ist der Name des Assets, das die Kampagne ausgelöst hat. Beispiel: Klicks Link auf der Webseite ist die URL selbst, Betreff für Salesforce-Trigger usw.
 * Zusätzliche Trigger sind basierend auf Einschränkungen verfügbar, die unten aufgeführt sind.
 
-**E-Mail-Trigger**
+### Email Trigger {#email-triggers}
 
 <table style="table-layout:auto"> 
  <colgroup> 
@@ -205,7 +205,7 @@ Basierend auf dem in einer Smart-Kampagne verwendeten Trigger werden zusätzlich
  </tbody> 
 </table>
 
-**Salesforce-Trigger**
+### Salesforce-Trigger {#salesforce-triggers}
 
 <table style="table-layout:auto"> 
  <colgroup> 
@@ -534,7 +534,7 @@ Basierend auf dem in einer Smart-Kampagne verwendeten Trigger werden zusätzlich
  </tbody> 
 </table>
 
-**Sales Connect-Trigger**
+### Sales Connect-Trigger {#sales-connect-triggers}
 
 <table style="table-layout:auto"> 
  <colgroup> 
@@ -711,7 +711,113 @@ Basierend auf dem in einer Smart-Kampagne verwendeten Trigger werden zusätzlich
  </tbody> 
 </table>
 
-**Verschiedenes**
+### Dynamic Chat-Trigger-Token {#dynamic-chat-trigger-tokens}
+
+<table style="table-layout:auto"> 
+ <colgroup> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col>
+  <col>
+  <col>
+  <col> 
+ </colgroup> 
+ <tbody> 
+  <tr> 
+   <th><br></th> 
+   <th><code>{{trigger.Trigger Name}}</code></th> 
+   <th><code>{{trigger.Name}}</code></th> 
+   <th><code>{{trigger.Page URL}}</code></th> 
+   <th><code>{{Trigger.Conversation Transcript}}</code></th> 
+   <th><code>{{trigger.Conversation Status}}</code></th> 
+   <th><code>{{trigger.Agent Name}}</code></th> 
+   <th><code>{{trigger.Agent Email}}</code></th> 
+   <th><code>{{trigger.Scheduled For}}</code></th> 
+   <th><code>{{trigger.Goal name}}</code></th> 
+   <th><code>{{trigger.Document Name}}</code></th> 
+   <th><code>{{trigger.Document URL}}</code></th>
+   <th><code>{{trigger.Document Opened}}</code></th>
+   <th><code>{{trigger.Document Downloaded}}</code></th>
+  </tr> 
+  <tr> 
+   <td>Mit einem Dialogfeld interagieren</td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Geplantes Meeting in einem Dialogfeld</td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Dialogfeld-Ziel erreicht</td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr>
+  <tr> 
+   <td>Interagiert mit Dokument im Dialogfeld</td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+  </tr> 
+ </tbody> 
+</table>
+
+### Verschiedenes {#miscellaneous}
 
 <table style="table-layout:auto"> 
  <colgroup> 
