@@ -3,10 +3,10 @@ description: Vererben von Dokument 1 - Marketo-Dokumente - Produktdokumentation
 title: Erben von Doc 1
 hide: true
 hidefromtoc: true
-source-git-commit: 0f34b8ac4283e78027c81bf654d090c5ee78b9ee
+source-git-commit: b06d1d0f8101895ebefeb821150090aac3044870
 workflow-type: tm+mt
-source-wordcount: '1149'
-ht-degree: 7%
+source-wordcount: '1220'
+ht-degree: 6%
 
 ---
 
@@ -24,7 +24,7 @@ Die folgende Checkliste wurde mit Eingaben von Marketo Champions zusammengestell
 
 ## Benutzer und Rollen {#users-and-roles}
 
-<table style="table-layout:auto"> 
+<table> 
  <tbody> 
   <tr> 
    <th>Bereich</th> 
@@ -33,22 +33,22 @@ Die folgende Checkliste wurde mit Eingaben von Marketo Champions zusammengestell
   </tr> 
   <tr> 
    <td>Benutzer</td> 
-   <td><li>Wie viele Benutzer gibt es?</li>
+   <td><li><a href="/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md" target="_blank">Anzahl der Benutzer</a> Gibt es sie?</li>
 <li>Gibt es Benutzer, die abgelaufen sein sollten?</li>
 <li>Verfügt Ihr Unternehmen über Richtlinien zum Löschen von Benutzern?</li> 
-<li>Wie viele Benutzer haben Administratorberechtigungen?</li>
-<li>Sollte einer dieser Benutzer in andere Rollen geändert werden?</li> 
+<li>Wie viele Benutzer haben <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">Administratorberechtigungen</a>?</li>
+<li>Sollte einer dieser Benutzer in <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">andere Rollen?</a></li> 
 <li>Wer sind die API-Benutzer in dieser Instanz?</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>Rollen</td> 
    <td><li>Wie viele Rollen gibt es?</li>  
-<li>Welche Berechtigungen/Zugriffsberechtigungen hat jede Rolle? Sollte eine Anpassung vorgenommen werden?</li>
+<li>Was <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">permissions/access</a> Hat jede Rolle eine Rolle? Sollte eine Anpassung vorgenommen werden?</li>
 <li>Wie viele Benutzer gibt es pro Rolle?</li>
-<li>Wie oft melden sich Benutzer an?</li>
-<li>Verfügt jeder API-Benutzer über eine eigene Benutzerrolle? Falls nicht, sollten Sie dies implementieren, um die Fehlerbehebung zu vereinfachen.</li> 
-<li>Stimmen Ihre Benutzerrollen und Berechtigungen mit Ihren Datenschutzrichtlinien für Unternehmensdaten überein?</li></td>
+<li>Wie oft sind Benutzer <a href="/help/marketo/product-docs/administration/audit-trail/user-login-history.md" target="_blank">Anmelden</a>?</li>
+<li>Gibt es für jeden API-Benutzer <a href="/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md" target="_blank">eigene Benutzerrolle</a>? Falls nicht, sollten Sie dies implementieren, um die Fehlerbehebung zu vereinfachen.</li> 
+<li>Stimmen Sie Ihre Benutzerrollen und Berechtigungen mit Ihren Unternehmensdaten überein <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md" target="_blank">Datenschutzrichtlinien</a>?</li></td>
    <td>3</td>
   </tr>
   <tr> 
@@ -59,8 +59,8 @@ Die folgende Checkliste wurde mit Eingaben von Marketo Champions zusammengestell
   </tr>
   <tr> 
    <td>Sandbox (falls zutreffend)</td> 
-   <td><li>Haben Sie eine Sandbox-Instanz? Wenn ja, überprüfen Sie die oben genannten Kategorien für Ihre Sandbox.</li>
-<li>Ist der Programm-Import mit Ihrer Sandbox verknüpft?</li></td>
+   <td><li>Haben Sie eine <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md" target="_blank">Sandbox-Instanz</a>? Wenn ja, überprüfen Sie die oben genannten Kategorien für Ihre Sandbox.</li>
+<li>Is <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md" target="_blank">Programmimport</a> mit Ihrer Sandbox verknüpft ist?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -77,7 +77,7 @@ Die folgende Checkliste wurde mit Eingaben von Marketo Champions zusammengestell
   </tr> 
   <tr> 
    <td>Audit-Trail</td> 
-   <td><li>Wer arbeitet in der Instanz?</li></td>
+   <td><li><a href="/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md" target="_blank">Wer arbeitet</a> in der Instanz?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -263,6 +263,25 @@ Die folgende Checkliste wurde mit Eingaben von Marketo Champions zusammengestell
 <li>Habt ihr <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md" target="_blank">auf die neueste Version von Sales Insight aktualisiert</a>?</li>
 <li>Haben Sie die Konfiguration von Sales Insight abgeschlossen? Enterprise/Unlimited-Benutzer <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md" target="_blank">Klicken Sie hier</a>, Professional Users <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md" target="_blank">Klicken Sie hier</a>.</li>
 <li>Habt ihr <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md" target="_blank">Zugriff auf Ihre Benutzer</a> basierend auf der Anzahl der von Ihnen erworbenen Plätze?</li></td>
+   <td>3</td>
+  </tr>
+  <tr> 
+   <td>Startpunkt (falls zutreffend)</td> 
+   <td><li>Welche Dienste haben Sie konfiguriert (Webinar, Werbung usw.)? Sind sie kurz vor ihrem Ablauf?</li>
+<li>Wie viele API-Aufrufe verwenden Ihre Integrationen?</li>
+<li>Verfügen Sie über die richtigen Integrationen für Ihre Anwendungsfälle?</li></td>
+   <td>3</td>
+  </tr>
+  <tr> 
+   <td>Webhooks (falls zutreffend)</td> 
+   <td><li>Welche Verbindungen haben Sie eingerichtet?</li>
+<li>Wird es nicht mehr verwendet?</li></td>
+   <td>3</td>
+  </tr>
+  <tr> 
+   <td>Mobile Apps (falls zutreffend)</td> 
+   <td><li>Welche mobilen Apps haben Sie?</li>
+<li>Welche Prüfgeräte wurden hinzugefügt?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
