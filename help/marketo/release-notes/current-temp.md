@@ -4,9 +4,9 @@ title: Aktuelle Versionshinweise - Temp
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 518c6a84dafd0882f1112caa0356f04a772832a1
+source-git-commit: 1dbe820e126f92ce5820e38414925605372a4b09
 workflow-type: tm+mt
-source-wordcount: '927'
+source-wordcount: '929'
 ht-degree: 11%
 
 ---
@@ -313,7 +313,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
   </tbody>
 </table>
 
-* **Trigger-Token für neue Aktivitäten**: Neue Trigger-Token zur Unterstützung der neuen Aktivitäten für Dynamic Chat.
+* **Trigger-Token für neue Aktivitäten**: Es stehen neue Trigger-Token zur Unterstützung der neuen Aktivitäten für Dynamic Chat zur Verfügung.
 
 <table> 
   <tr> 
