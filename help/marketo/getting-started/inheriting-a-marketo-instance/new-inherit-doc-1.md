@@ -3,9 +3,9 @@ description: Vererben von Dokument 1 - Marketo-Dokumente - Produktdokumentation
 title: Erben von Doc 1
 hide: true
 hidefromtoc: true
-source-git-commit: b06d1d0f8101895ebefeb821150090aac3044870
+source-git-commit: 518c6a84dafd0882f1112caa0356f04a772832a1
 workflow-type: tm+mt
-source-wordcount: '1220'
+source-wordcount: '1225'
 ht-degree: 6%
 
 ---
@@ -94,11 +94,11 @@ Die folgende Checkliste wurde mit Eingaben von Marketo Champions zusammengestell
   </tr> 
   <tr> 
    <td>Arbeitsbereiche und Partitionen</td> 
-   <td><li>Wie viele Arbeitsbereiche und/oder Partitionen haben Sie?</li>
+   <td><li>Wie viele <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" target="_blank">Arbeitsbereiche und/oder Partitionen</a> Hast du etwas?</li>
 <li>Welchen Hauptzweck haben die einzelnen Arbeitsbereiche und Partition?</li>
-<li>Müssen sie überprüft oder geändert werden?</li>
+<li>Entweder <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/edit-a-workspace.md" target="_blank">Arbeitsbereiche</a> oder <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/edit-an-existing-person-partition.md" target="_blank">Partitionen</a> müssen geprüft/geändert werden?</li>
 <li>Welche Beziehung besteht zwischen Ihren Arbeitsbereichen und Partitionen?</li>
-<li>Wie viele Benutzer haben Zugriff auf die einzelnen Arbeitsbereiche?</li></td>
+<li>Anzahl der Benutzer <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md" target="_blank">Zugriff</a> zu jedem Arbeitsbereich?</li></td>
    <td>3</td>
   </tr>
   <tr> 
@@ -121,7 +121,7 @@ Die folgende Checkliste wurde mit Eingaben von Marketo Champions zusammengestell
   </tr> 
   <tr> 
    <td>Einstellungen für intelligente Kampagne</td> 
-   <td><li>Haben Sie eine Einschränkung der Größe von Smart-Kampagnen?</li>
+   <td><li><a href="/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md" target="_blank">Haben Sie Einschränkungen?</a> zur Größe von Smart-Kampagnen?</li>
 <li>Ist dies nicht der Fall, können Sie eine hinzufügen. Es wird empfohlen, die für intelligente Kampagnen geltenden Grenzwerte auf 25 % Ihrer Datenbank zu begrenzen, um eine Überkommunikation oder Verarbeitung Ihrer gesamten Datenbank in Workflows zu vermeiden. Dies schützt nicht nur Ihre Marke, sondern schützt auch die Leistung Ihrer Instanz.</li></td>
    <td>3</td>
   </tr>
@@ -139,8 +139,8 @@ Die folgende Checkliste wurde mit Eingaben von Marketo Champions zusammengestell
   </tr> 
   <tr> 
    <td>Kommunikationsbeschränkungen</td> 
-   <td><li>Gibt es Beschränkungen? Verfügt Ihr Unternehmen über Richtlinien, bei denen Kommunikationsbeschränkungen erforderlich sein könnten?</li>
-<li>Adobe empfiehlt, Ihre Kommunikation auf 1 pro Tag und 3 pro 7 Tage zu begrenzen, wobei nicht operative E-Mails blockiert werden.</li></td>
+   <td><li>Gibt es <a href="/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md" target="_blank">Kommunikationsbeschränkungen</a> vorhanden? Verfügt Ihr Unternehmen über Richtlinien, bei denen Kommunikationsbeschränkungen erforderlich sein könnten?</li>
+<li>Adobe empfiehlt, Ihre Kommunikation auf 1 pro Tag und 3 pro 7 Tage zu begrenzen, mit <b>non</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">operativ</a> blockierte E-Mails.</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -163,8 +163,8 @@ Die folgende Checkliste wurde mit Eingaben von Marketo Champions zusammengestell
   </tr>
   <tr> 
    <td>Kanäle</td> 
-   <td><li>Wie viele Kanäle gibt es? Wie viele werden verwendet?</li>
-<li>Sind alle Status des Kanalprogramms angemessen? Zeigen sie Fortschritte im Rahmen des Programms?</li>
+   <td><li>Wie viele <a href="/help/marketo/product-docs/administration/tags/create-a-program-channel.md" target="_blank">channels</a> Gibt es sie? Wie viele werden verwendet?</li>
+<li>sind alle <a href="/help/marketo/product-docs/administration/tags/hide-unhide-a-program-channel.md" target="_blank">Kanalprogrammstatus, angemessen</a>? Zeigen sie Fortschritte im Rahmen des Programms?</li>
 <li>Sind Ihre Kanäle mit bestimmten Programmtypen verbunden?</li>
 <li>Welche Status werden für jeden Kanal als erfolgreich betrachtet? Stimmen diese mit Ihren Marketing-Zielen überein?</li>
 <li>Wird der operationelle Kanal ordnungsgemäß verwendet?</li>
