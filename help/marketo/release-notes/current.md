@@ -3,7 +3,7 @@ description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokument
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 00b5fbef3ba91a84afa9da261cd73b875446e3e0
+source-git-commit: e912b9112fc9fc3d72428e23b16de058874e8c21
 workflow-type: tm+mt
 source-wordcount: '931'
 ht-degree: 12%
@@ -26,7 +26,7 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
 
 * **Marketo-Referenzbibliothek**: Mit der Marketo Engage-Programmreferenz-Bibliothek können Benutzer Beispielprogramme und andere Assets importieren, die von Adobe empfohlene Best Practices darstellen. Unser Produktmanagement-Team hat die -Bibliothek vollständig aktualisiert und bietet wertvollere Tools für diejenigen, die ihr Programm schnell starten möchten.
 
-<table> 
+<table width="400"> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Aktualisierungen der Dokumentation</b></td>
@@ -40,7 +40,7 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
 
 * **Wird von der Spalte &quot;Zählung&quot;für Design Studio-Assets verwendet**: In der Spalte Verwendet nach Anzahl für Listenansichten in Design Studio wird die Anzahl/Anzahl der Assets hervorgehoben, die das betreffende Asset verwenden. Dies gilt für Snippets, E-Mail-Vorlagen, Forms und Landingpage-Vorlagen.
 
-<table> 
+<table width="400"> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Aktualisierungen der Dokumentation</b></td>
@@ -54,7 +54,7 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
 
 * **Von Registerkartenverbesserungen für Design Studio Assets verwendet**: Die Registerkarte &quot;Von Erweiterung verwendet&quot;bietet eine detailliertere Ansicht des Typs und des Namens eines Assets sowie dessen Verwendungsort. Dies gilt für E-Mail-Details und Details zu Bildern und Dateien.
 
-<table> 
+<table width="400"> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Aktualisierungen der Dokumentation</b></td>
@@ -68,7 +68,7 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
 
 * **Schrittdienst für die Berechnung des Formelflusses**: Compute Formula ist ein auf der IO Runtime-Plattform von Adobe aufbauender Flussschritt-Dienst zur Verwendung mit Marketo Engage-Smart-Kampagnen. Adobe-Clients mit IO-Laufzeitumgebung können den Dienst bereitstellen und in ihren Marketo Engage-Abonnements installieren, sodass sie Excel-ähnliche Formeln in Marketo Smart Campaigns berechnen können.
 
-<table> 
+<table width="400"> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Aktualisierungen der Dokumentation</b></td>
@@ -86,7 +86,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
 
 * **Integration von Marketo und Workfront**: Für diejenigen, die über Marketo und Workfront verfügen, können Sie jetzt Workfront-Fusion-Vorlagen verwenden, um die beiden Produkte zu integrieren und neue Automatisierungs-Workflows zu erschließen, um die Ausführung von Kampagnen zu optimieren.
 
-<table> 
+<table width="400"> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Aktualisierungen der Dokumentation</b></td>
@@ -104,7 +104,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
 
 * **Aktionskarte in Stream-Designer**: Marketingexperten können Aktionskarten im Dialog-Stream verwenden, um verborgene Werte an den Marketo Engage-Personendatensatz zu übergeben, wenn Besucher mit einem Dialogfeld interagieren.
 
-<table> 
+<table width="400"> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Aktualisierungen der Dokumentation</b></td>
@@ -118,7 +118,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
 
 * **Seite &quot;Konversationsfluss - Asset&quot;**: Auf der Seite &quot;Design Studio-Asset&quot;werden jetzt Dynamic Chat-Konvertierungsflüsse aufgelistet. Ermitteln Sie, welche Flüsse in Marketo Engage-Assets integriert werden können und den Deeplink direkt zu ihrem Editor durchführen.
 
-<table> 
+<table width="400">
   <tr> 
    <td><b>Status</b></td>
    <td><b>Aktualisierungen der Dokumentation</b></td>
@@ -132,7 +132,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
 
 * **Konversative Forms mit Marketo Engage Forms**: Machen Sie Marketo Engage Forms kommunikativ, indem Sie sie in Dynamic Chat Conversational Flows integrieren. Qualifizieren Sie Leads sofort mit Formulardaten oder Smart List-Mitgliedschaft für Meetingbuchungen, Whitepaper-Links oder benutzerdefinierte Ziele.
 
-<table> 
+<table width="400"> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Aktualisierungen der Dokumentation</b></td>
@@ -146,7 +146,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
 
 * **Konversations-SDK**: Wandeln Sie alle Formulare, Landingpages oder fast jede Webseite in ansprechende Meetingbuchungen um.
 
-<table> 
+<table width="400"> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Aktualisierungen der Dokumentation</b></td>
@@ -160,7 +160,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
 
 * **Benutzerdefinierte Einstellungen für die Sitzungserstellung**: Support-Mitarbeiter können benutzerdefinierte Sitzungsbuchungseinstellungen wie Verfügbarkeit, Sitzungslänge und &quot;Pufferzeit&quot;zwischen Sitzungen festlegen.
 
-<table> 
+<table width="400"> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Aktualisierungen der Dokumentation</b></td>
@@ -174,7 +174,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
 
 * **Fallback-Einstellungen**: Administratoren können benutzerdefinierte Fallback-Einstellungen festlegen, um festzulegen, welche Besucher sehen, wenn keine Agenten für den Chat verfügbar sind.
 
-<table> 
+<table width="400"> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Aktualisierungen der Dokumentation</b></td>
@@ -188,7 +188,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
 
 * **Dashboard zur globalen Leistung**: Erfahren Sie, wie gut Ihre Dialogfelder funktionieren, einschließlich Interaktions- und Leistungsmetriken (Gesamtwert und über einen bestimmten Zeitraum), Seiten mit der besten Leistung und Dialogfelder mit der besten Leistung.
 
-<table> 
+<table width="400"> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Aktualisierungen der Dokumentation</b></td>
@@ -202,7 +202,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
 
 * **Live-Chat**: Webbesucher können in Echtzeit mit Vertriebsmitarbeitern chatten, um ihre Fragen beantworten zu können.
 
-<table> 
+<table width="400"> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Aktualisierungen der Dokumentation</b></td>
@@ -216,7 +216,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
 
 * **Dashboard zur Live-Chat-Leistung**: Zeigen Sie an, wie viele Konversationen Ihre Live-Verkaufsmitarbeiter hatten und welche Teams die beste Leistung erzielen.
 
-<table> 
+<table width="400"> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Aktualisierungen der Dokumentation</b></td>
@@ -230,7 +230,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
 
 * **Targeting von Smart-List-Marketo Engage**: Marketingexperten können Mitglieder von Marketo Engage Smart Lists in Zielgruppenkriterien für Dialogfelder ansprechen.
 
-<table> 
+<table width="400"> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Aktualisierungen der Dokumentation</b></td>
@@ -244,7 +244,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
 
 * **Dashboard zur Konferenzleistung**: Sehen Sie, wie viele Meetings gebucht werden und bei wem sie gebucht werden.
 
-<table> 
+<table width="400"> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Aktualisierungen der Dokumentation</b></td>
@@ -258,7 +258,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
 
 * **Neue Dynamic Chat-Aktivitäten**: Neue Aktivitäten zur Unterstützung von Konversationsflüssen, Live-Chat und anderen neuen Funktionen.
 
-<table> 
+<table width="400"> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Aktualisierungen der Dokumentation</b></td>
@@ -272,7 +272,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
 
 * **Benachrichtigungen zum Echtzeit-Live-Chat**: Wenn Besucher einen Live-Chat anfordern, erhalten Agenten Echtzeit-In-App- und Browser-Benachrichtigungen.
 
-<table> 
+<table width="400"> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Aktualisierungen der Dokumentation</b></td>
@@ -286,7 +286,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
 
 * **Benachrichtigungen zu Insight-Verkaufsaktionen**: Support-Mitarbeiter mit Sales Insight-Aktionen erhalten im Bereich Sales Insight-Aktionen Benachrichtigungen zu Live-Chat-Anfragen in Echtzeit.
 
-<table>
+<table width="400">
   <tr> 
    <td><b>Status</b></td>
    <td><b>Aktualisierungen der Dokumentation</b></td>
@@ -300,7 +300,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
 
 * **Teams**: Erstellen Sie Teams von Agenten, an die Besucher für Live-Chat- oder Meetingbuchungen weitergeleitet werden können.
 
-<table> 
+<table width="400"> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Aktualisierungen der Dokumentation</b></td>
@@ -314,7 +314,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
 
 * **Trigger-Token für neue Aktivitäten**: Es stehen neue Trigger-Token zur Unterstützung der neuen Aktivitäten für Dynamic Chat zur Verfügung.
 
-<table> 
+<table width="400"> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Aktualisierungen der Dokumentation</b></td>

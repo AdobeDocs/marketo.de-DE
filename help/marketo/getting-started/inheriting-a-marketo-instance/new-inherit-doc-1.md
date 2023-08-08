@@ -3,7 +3,7 @@ description: Vererben von Dokument 1 - Marketo-Dokumente - Produktdokumentation
 title: Erben von Doc 1
 hide: true
 hidefromtoc: true
-source-git-commit: 518c6a84dafd0882f1112caa0356f04a772832a1
+source-git-commit: e912b9112fc9fc3d72428e23b16de058874e8c21
 workflow-type: tm+mt
 source-wordcount: '1225'
 ht-degree: 6%
@@ -157,13 +157,13 @@ Die folgende Checkliste wurde mit Eingaben von Marketo Champions zusammengestell
   </tr> 
   <tr> 
    <td>Tags</td> 
-   <td><li>Wie viele Tags gibt es? Wie viele Tags werden verwendet? Müssen noch weitere hinzugefügt werden?</li>
+   <td><li><a href="/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md" target="_blank">Wie viele Tags</a> Gibt es sie? Wie viele Tags werden verwendet? Müssen noch weitere hinzugefügt werden?</li>
 <li>Sind Tags in Ihren Programmen erforderlich?</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>Kanäle</td> 
-   <td><li>Wie viele <a href="/help/marketo/product-docs/administration/tags/create-a-program-channel.md" target="_blank">channels</a> Gibt es sie? Wie viele werden verwendet?</li>
+   <td><li><a href="/help/marketo/product-docs/administration/tags/create-a-program-channel.md" target="_blank">Anzahl Kanäle</a> Gibt es sie? Wie viele werden verwendet?</li>
 <li>sind alle <a href="/help/marketo/product-docs/administration/tags/hide-unhide-a-program-channel.md" target="_blank">Kanalprogrammstatus, angemessen</a>? Zeigen sie Fortschritte im Rahmen des Programms?</li>
 <li>Sind Ihre Kanäle mit bestimmten Programmtypen verbunden?</li>
 <li>Welche Status werden für jeden Kanal als erfolgreich betrachtet? Stimmen diese mit Ihren Marketing-Zielen überein?</li>
@@ -173,7 +173,7 @@ Die folgende Checkliste wurde mit Eingaben von Marketo Champions zusammengestell
   </tr>
   <tr> 
    <td>Marketing-Kalender (falls zutreffend)</td> 
-   <td><li>Wie viele Kalendereintragstypen gibt es? Sind sie alle noch relevant?</li></td>
+   <td><li>Wie viele <a href="/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md" target="_blank">Kalendereintragsarten</a> Gibt es sie? Sind sie alle noch relevant?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -190,25 +190,25 @@ Die folgende Checkliste wurde mit Eingaben von Marketo Champions zusammengestell
   </tr> 
   <tr> 
    <td>Feldverwaltung</td> 
-   <td><li>Wie viele Felder gibt es? Klicken Sie auf "Feldnamen exportieren", um eine Liste Ihrer Felder, benutzerdefinierten Felder und deren API-Namen anzuzeigen.</li>
-<li>Wie viele benutzerdefinierte Felder gibt es?</li>
-<li>Wie viele Felder werden verwendet? Wählen Sie im Dropdown-Menü Feldaktionen die Option "Verwendet von exportieren"aus, um zugehörige Assets eines Felds zu überprüfen.</li>
+   <td><li>Wie viele Felder gibt es? Klicks <a href="/help/marketo/product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.md" target="_blank">Feldnamen exportieren</a> , um eine Liste Ihrer Felder, benutzerdefinierten Felder und deren API-Namen zu überprüfen.</li>
+<li>Wie viele <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">benutzerdefinierte Felder</a> Gibt es sie?</li>
+<li>Wie viele Felder werden verwendet? Auswählen <a href="/help/marketo/product-docs/administration/field-management/export-used-by-data-for-a-field.md" target="_blank">Von</a> in der Dropdown-Liste Feldaktionen , um zugehörige Assets eines Felds zu überprüfen.</li>
 <li>Wie viele werden zwischen Marketo Engage und Ihrem CRM synchronisiert?</li>
 <li>Werden CRM-Felder mit den entsprechenden Objekten synchronisiert?</li>
-<li>Gibt es eine benutzerdefinierte Ansicht für Personendetails? Sollte es denn geben?</li>
+<li>Gibt es eine <a href="/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md" target="_blank">benutzerdefinierter Ansichtssatz</a> für Personendetails? Sollte es denn geben?</li>
 <li>Verfügen Sie über eine auf der Quelle basierende Namenskonvention für Ihre Felder? Wenn nicht, sollten Sie die Implementierung in Erwägung ziehen.</li>
-<li>Sind Felder blockiert? Verstehen Sie unbedingt, warum sie sind.</li></td>
+<li>Gibt es Felder? <a href="/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md" target="_blank">blockiert</a>? Verstehen Sie unbedingt, warum sie sind.</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>Eigene Aktivitäten</td> 
-   <td><li>Gibt es benutzerdefinierte Aktivitäten?</li>
+   <td><li>Gibt es <a href="/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md" target="_blank">benutzerdefinierte Aktivitäten</a>?</li>
 <li>Wenn ja, durchklicken Sie sie, um zu verstehen, welche Aktivitäten nicht mit einem Marketo-Formular, einer E-Mail oder einer Landingpage verbunden sind.</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>benutzerdefinierte -Objekte</td> 
-   <td><li>Wie viele benutzerdefinierte Objekte gibt es? Wie werden sie mit Ihrem CRM synchronisiert?</li>
+   <td><li>Wie viele <a href="/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md" target="_blank">Benutzerdefinierte Objekte</a> Gibt es sie? Wie werden sie mit Ihrem CRM synchronisiert?</li>
 <li>Wie werden diese benutzerdefinierten Objekte von Ihren Programmen und Listenabfragen verwendet?</li></td>
    <td>3</td>
   </tr>
