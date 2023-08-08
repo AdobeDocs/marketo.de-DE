@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 518c6a84dafd0882f1112caa0356f04a772832a1
+source-git-commit: 00b5fbef3ba91a84afa9da261cd73b875446e3e0
 workflow-type: tm+mt
 source-wordcount: '9007'
 ht-degree: 5%
@@ -241,7 +241,7 @@ ht-degree: 5%
       + [Einrichten der Adobe-Organisationszuordnung](product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md)
       + [Zielgruppe aus Adobe Experience Cloud synchronisieren](product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md)
       + [Importieren von Assets mit Adobe Experience Manager](product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md)
-      + [Übersicht über die Adobe Experience Cloud-Benutzeroberfläche](product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md)
+      + [Adobe Experience Cloud-Benutzeroberfläche – Übersicht](product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md)
    + Grundlegende Marketo-Konzepte {#core-marketo-concepts}
       + Intelligente Kampagnen {#smart-campaigns}
          + [Smart-Kampagnen](product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
@@ -1910,12 +1910,12 @@ ht-degree: 5%
 + Versionshinweise {#release-notes}
    + [Veröffentlichungszeitplan](release-notes/release-schedule.md)
    + [Aktuelle Version](release-notes/current.md)
-   + [Aktuelle Versionsvorlage](release-notes/current-temp.md)
    + Frühere Versionen {#previous-releases}
       + 2023 {#2023}
          + [Versionshinweise: Januar &#39;23](release-notes/previous-releases/2023/release-notes-jan-23.md)
          + [Versionshinweise: März &#39;23](release-notes/previous-releases/2023/release-notes-mar-23.md)
          + [Versionshinweise: 23. Mai](release-notes/previous-releases/2023/release-notes-may-23.md)
+         + [Versionshinweise: Juli &#39;23](release-notes/previous-releases/2023/release-notes-july-23.md)
       + 2022 {#2022}
          + [Versionshinweise: Januar &#39;22](release-notes/previous-releases/2022/release-notes-jan-22.md)
          + [Versionshinweise: März &#39;22](release-notes/previous-releases/2022/release-notes-mar-22.md)

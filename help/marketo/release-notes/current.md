@@ -3,16 +3,16 @@ description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokument
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: e07204bc9a0edbd99f4059c6e859f33c75c1f02a
+source-git-commit: 00b5fbef3ba91a84afa9da261cd73b875446e3e0
 workflow-type: tm+mt
-source-wordcount: '666'
-ht-degree: 7%
+source-wordcount: '931'
+ht-degree: 12%
 
 ---
 
-# Juli 2023 - Versionshinweise {#release-notes-july-23}
+# September 2023 - Versionshinweise {#release-notes-sep-23}
 
-Unten finden Sie alle Funktionen der Version vom 23. Juli. Überprüfen Sie Ihre Adobe Marketo Engage-Edition auf Funktionsverfügbarkeit.
+Unten finden Sie alle Funktionen der Version vom 23. September. Überprüfen Sie Ihre Adobe Marketo Engage-Edition auf Funktionsverfügbarkeit.
 
 >[!AVAILABILITY]
 >
@@ -20,11 +20,11 @@ Unten finden Sie alle Funktionen der Version vom 23. Juli. Überprüfen Sie Ihre
 
 ## Standardfunktionen des Versionszyklus {#standard-release-cycle-features}
 
-Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab der Veröffentlichung auf **21. Juli 2023**, mit einer stufenweisen Einführung der verbleibenden Funktionen in den darauffolgenden Wochen. Die Veröffentlichungsfunktionen und -daten können sich ändern. Bitte prüfen Sie unten jedes Feature nach seinem Status.
+Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab der Veröffentlichung auf **8. September 2023**, mit einer stufenweisen Einführung der verbleibenden Funktionen in den darauffolgenden Wochen. Die Veröffentlichungsfunktionen und -daten können sich ändern. Bitte prüfen Sie unten jedes Feature nach seinem Status.
 
 </br>
 
-* **Interaktionskarte**: Die Interaktionskarte ist ein visuelles Tool, mit dem Sie wiederverwendbare Kampagnen erstellen und organisieren können. Es ist vollständig abwärtskompatibel, sodass alle bestehenden Kampagnen in dieser neuen Struktur mit einem Klick auf eine Schaltfläche angezeigt werden können. Karten können heruntergeladen und freigegeben werden.
+* **Marketo-Referenzbibliothek**: Mit der Marketo Engage-Programmreferenz-Bibliothek können Benutzer Beispielprogramme und andere Assets importieren, die von Adobe empfohlene Best Practices darstellen. Unser Produktmanagement-Team hat die -Bibliothek vollständig aktualisiert und bietet wertvollere Tools für diejenigen, die ihr Programm schnell starten möchten.
 
 <table> 
   <tr> 
@@ -32,13 +32,13 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
    <td><b>Aktualisierungen der Dokumentation</b></td>
   </tr>
   <tr> 
-   <td>Versendet</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-overview.md" target="_blank">Interaktionsübersicht</a></td>
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
   </tr>
   </tbody>
 </table>
 
-* **Benachrichtigungen - Web-Services-Fehler**: Die Webdienst-Fehlerbenachrichtigung enthält jetzt den Abonnementnamen, was die Verwaltung mehrerer Marketo Engage-Instanzen erleichtert. Außerdem wurde der Tabelle eine Spalte &quot;Benutzer&quot;hinzugefügt, die Fehlercodes und -zählungen enthält. So können Sie einfach feststellen, welcher API-Benutzer beim Aufrufen der Marketo REST-API für die Generierung eines bestimmten Fehlers verantwortlich war.
+* **Wird von der Spalte &quot;Zählung&quot;für Design Studio-Assets verwendet**: In der Spalte Verwendet nach Anzahl für Listenansichten in Design Studio wird die Anzahl/Anzahl der Assets hervorgehoben, die das betreffende Asset verwenden. Dies gilt für Snippets, E-Mail-Vorlagen, Forms und Landingpage-Vorlagen.
 
 <table> 
   <tr> 
@@ -46,8 +46,36 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
    <td><b>Aktualisierungen der Dokumentation</b></td>
   </tr>
   <tr> 
-   <td>Versendet</td>
-   <td>Nicht zutreffend</td>
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Von Registerkartenverbesserungen für Design Studio Assets verwendet**: Die Registerkarte &quot;Von Erweiterung verwendet&quot;bietet eine detailliertere Ansicht des Typs und des Namens eines Assets sowie dessen Verwendungsort. Dies gilt für E-Mail-Details und Details zu Bildern und Dateien.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Aktualisierungen der Dokumentation</b></td>
+  </tr>
+  <tr> 
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Schrittdienst für die Berechnung des Formelflusses**: Compute Formula ist ein auf der IO Runtime-Plattform von Adobe aufbauender Flussschritt-Dienst zur Verwendung mit Marketo Engage-Smart-Kampagnen. Adobe-Clients mit IO-Laufzeitumgebung können den Dienst bereitstellen und in ihren Marketo Engage-Abonnements installieren, sodass sie Excel-ähnliche Formeln in Marketo Smart Campaigns berechnen können.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Aktualisierungen der Dokumentation</b></td>
+  </tr>
+  <tr> 
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
   </tr>
   </tbody>
 </table>
@@ -56,11 +84,25 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
 
 Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiedenen Daten vor oder nach dem standardmäßigen Veröffentlichungsdatum veröffentlicht. Bitte prüfen Sie unten jedes Feature nach seinem Status.
 
+* **Integration von Marketo und Workfront**: Für diejenigen, die über Marketo und Workfront verfügen, können Sie jetzt Workfront-Fusion-Vorlagen verwenden, um die beiden Produkte zu integrieren und neue Automatisierungs-Workflows zu erschließen, um die Ausführung von Kampagnen zu optimieren.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Aktualisierungen der Dokumentation</b></td>
+  </tr>
+  <tr> 
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
+  </tr>
+  </tbody>
+</table>
+
 ### Dynamic Chat {#dynamic-chat}
 
 </br>
 
-* **Chat-Quelle für Dynamic Chat**: &quot;Chat&quot; wird nun als Quelle für neue Personeneinträge und -aktivitäten angeboten. Diese Quelle kann verwendet werden, um Benutzern beim Filtern von Aktivitäten in Smart-Listen/Kampagnen zu helfen. Die Quelle kann auch von Aktualisierungen der Felder blockiert werden.
+* **Aktionskarte in Stream-Designer**: Marketingexperten können Aktionskarten im Dialog-Stream verwenden, um verborgene Werte an den Marketo Engage-Personendatensatz zu übergeben, wenn Besucher mit einem Dialogfeld interagieren.
 
 <table> 
   <tr> 
@@ -74,7 +116,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
   </tbody>
 </table>
 
-* **Verbesserte Dynamic Chat-Aktivitäten**: Dynamic Chat-Aktivitäten, -Filter und -Trigger wurden durch zusätzliche Attribute und standardisierte Benennungskonventionen verbessert.
+* **Seite &quot;Konversationsfluss - Asset&quot;**: Auf der Seite &quot;Design Studio-Asset&quot;werden jetzt Dynamic Chat-Konvertierungsflüsse aufgelistet. Ermitteln Sie, welche Flüsse in Marketo Engage-Assets integriert werden können und den Deeplink direkt zu ihrem Editor durchführen.
 
 <table> 
   <tr> 
@@ -88,11 +130,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
   </tbody>
 </table>
 
-### Marketo Sales Insight {#marketo-sales-insight}
-
-</br>
-
-* **Append-Einstellungen abmelden**: Sie haben jetzt mehr Kontrolle über Ihre Abmelde-Nachrichten mit neuen Konfigurationsoptionen zum Abmelden von Anhängen. Neue Funktionen geben Administratoren die Kontrolle darüber, wann, wo und welche Abmelde-Nachrichten in Ihren Verkaufs-E-Mails angezeigt werden.
+* **Konversative Forms mit Marketo Engage Forms**: Machen Sie Marketo Engage Forms kommunikativ, indem Sie sie in Dynamic Chat Conversational Flows integrieren. Qualifizieren Sie Leads sofort mit Formulardaten oder Smart List-Mitgliedschaft für Meetingbuchungen, Whitepaper-Links oder benutzerdefinierte Ziele.
 
 <table> 
   <tr> 
@@ -106,35 +144,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
   </tbody>
 </table>
 
-* **Dynamische Feldaufforderungen**: Sie können jetzt Ihr Sales-Team auffordern, bestimmte Teile einer E-Mail noch weiter zu personalisieren. Dazu stehen neue Feldaufforderungen zur Verfügung, die in Sales Insight-Aktionen zu E-Mail-Vorlagen hinzugefügt werden können.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Aktualisierungen der Dokumentation</b></td>
-  </tr>
-  <tr> 
-   <td>Versendet</td>
-   <td><a href="/help/marketo/product-docs/marketo-sales-insight/actions/templates/field-prompts.md" target="_blank">Feldaufforderungen</a></td>
-  </tr>
-  </tbody>
-</table>
-
-* **Dynamische Standardfelder**: Mit dynamischen Standardfeldern können Sie einen Fallback-Wert konfigurieren, in den ein dynamisches Feld aufgelöst werden kann, wenn kein Wert zum Ausfüllen verfügbar ist. Dadurch wird sichergestellt, dass E-Mails mit der gesamten Personalisierung gesendet werden.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Aktualisierungen der Dokumentation</b></td>
-  </tr>
-  <tr> 
-   <td>Versendet</td>
-   <td><a href="/help/marketo/product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md" target="_blank">Dynamische Felder</a></td>
-  </tr>
-  </tbody>
-</table>
-
-* **Dynamic Chat-Unterstützung für Sales Insight**: Es wurden Aktualisierungen vorgenommen, um die in dieser Version eingeführten neuen Dynamic Chat-Attribute für alle Dynamic Chat zu unterstützen.
+* **Konversations-SDK**: Wandeln Sie alle Formulare, Landingpages oder fast jede Webseite in ansprechende Meetingbuchungen um.
 
 <table> 
   <tr> 
@@ -148,7 +158,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
   </tbody>
 </table>
 
-* **Dynamic Chat-Unterstützung für Sales Insight-Aktionen**: Wir unterstützen jetzt Dynamic Chat-Aktivitäten im Lead-Feed sowie Benachrichtigungen, wenn ein Live-Chat an einen Agenten weitergeleitet wird.
+* **Benutzerdefinierte Einstellungen für die Sitzungserstellung**: Support-Mitarbeiter können benutzerdefinierte Sitzungsbuchungseinstellungen wie Verfügbarkeit, Sitzungslänge und &quot;Pufferzeit&quot;zwischen Sitzungen festlegen.
 
 <table> 
   <tr> 
@@ -162,7 +172,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
   </tbody>
 </table>
 
-* **Dynamic Chat-Trigger-Token**: Einführung neuer Trigger-Token für Dynamic Chat-Aktivitäten, die in interessanten Momenten verwendet werden sollen.
+* **Fallback-Einstellungen**: Administratoren können benutzerdefinierte Fallback-Einstellungen festlegen, um festzulegen, welche Besucher sehen, wenn keine Agenten für den Chat verfügbar sind.
 
 <table> 
   <tr> 
@@ -170,14 +180,154 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
    <td><b>Aktualisierungen der Dokumentation</b></td>
   </tr>
   <tr> 
-   <td>Versendet</td>
-   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md" target="_blank">Dynamic Chat-Trigger-Token</a></td>
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Dashboard zur globalen Leistung**: Erfahren Sie, wie gut Ihre Dialogfelder funktionieren, einschließlich Interaktions- und Leistungsmetriken (Gesamtwert und über einen bestimmten Zeitraum), Seiten mit der besten Leistung und Dialogfelder mit der besten Leistung.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Aktualisierungen der Dokumentation</b></td>
+  </tr>
+  <tr> 
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Live-Chat**: Webbesucher können in Echtzeit mit Vertriebsmitarbeitern chatten, um ihre Fragen beantworten zu können.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Aktualisierungen der Dokumentation</b></td>
+  </tr>
+  <tr> 
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Dashboard zur Live-Chat-Leistung**: Zeigen Sie an, wie viele Konversationen Ihre Live-Verkaufsmitarbeiter hatten und welche Teams die beste Leistung erzielen.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Aktualisierungen der Dokumentation</b></td>
+  </tr>
+  <tr> 
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Targeting von Smart-List-Marketo Engage**: Marketingexperten können Mitglieder von Marketo Engage Smart Lists in Zielgruppenkriterien für Dialogfelder ansprechen.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Aktualisierungen der Dokumentation</b></td>
+  </tr>
+  <tr> 
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Dashboard zur Konferenzleistung**: Sehen Sie, wie viele Meetings gebucht werden und bei wem sie gebucht werden.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Aktualisierungen der Dokumentation</b></td>
+  </tr>
+  <tr> 
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Neue Dynamic Chat-Aktivitäten**: Neue Aktivitäten zur Unterstützung von Konversationsflüssen, Live-Chat und anderen neuen Funktionen.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Aktualisierungen der Dokumentation</b></td>
+  </tr>
+  <tr> 
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Benachrichtigungen zum Echtzeit-Live-Chat**: Wenn Besucher einen Live-Chat anfordern, erhalten Agenten Echtzeit-In-App- und Browser-Benachrichtigungen.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Aktualisierungen der Dokumentation</b></td>
+  </tr>
+  <tr> 
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Benachrichtigungen zu Insight-Verkaufsaktionen**: Support-Mitarbeiter mit Sales Insight-Aktionen erhalten im Bereich Sales Insight-Aktionen Benachrichtigungen zu Live-Chat-Anfragen in Echtzeit.
+
+<table>
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Aktualisierungen der Dokumentation</b></td>
+  </tr>
+  <tr> 
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Teams**: Erstellen Sie Teams von Agenten, an die Besucher für Live-Chat- oder Meetingbuchungen weitergeleitet werden können.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Aktualisierungen der Dokumentation</b></td>
+  </tr>
+  <tr> 
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Trigger-Token für neue Aktivitäten**: Es stehen neue Trigger-Token zur Unterstützung der neuen Aktivitäten für Dynamic Chat zur Verfügung.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Aktualisierungen der Dokumentation</b></td>
+  </tr>
+  <tr> 
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
   </tr>
   </tbody>
 </table>
 
 ## Ankündigungen {#announcements}
 
-* **Upgrade auf Google Analytics 4**: Marketo hat zuvor Universal Analytics unterstützt, das die Aufzeichnung von Daten bis zum 1. Juli 2023 stoppt. RTP-Benutzer müssen den Migrationsprozess in ihrem Google Analytics-Dashboard ausführen, um die Google Analytics 4-Integration in RTP abzuschließen. Künftig verfügen Benutzer über ein eindeutiges alphanumerisches Tag (innerhalb der Variablen `<head>` -Abschnitt des HTML-Codes) auf ihren Landingpages, über die Marketo Daten an Google Analytics senden kann.
+* **Umschalten der Einstellung für Design Studio Assets**: Der Umschalter, mit dem Benutzer zwischen der klassischen Benutzeroberfläche und dem modernen UX-Erlebnis für Design Studio wechseln können, wird zusammen mit der alten Version des Design Studio-Erlebnisses nicht mehr unterstützt, sodass Benutzer vollständig zur modernen UX-Umgebung migrieren können.
 
 * **_Webinar zur Produktversion_**: Treten Sie uns am 6. September 2023 um 9:00 Uhr PT / 12:00 Uhr ET für eine [Live-Webinar](https://engage.marketo.com/2023_July_September_Release_Webinar_RegistrationPage.html){target="_blank"} von unserem Produktteam gehostet, wo Sie erfahren, wie Sie alle neuesten Produktinnovationen nutzen können.
