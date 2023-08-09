@@ -3,10 +3,10 @@ description: Vererben von Dokument 2 - Marketo-Dokumente - Produktdokumentation
 title: Erben von Doc 2
 hide: true
 hidefromtoc: true
-source-git-commit: fe18bd1c759bd7442723a1a6326b786203c62fd0
+source-git-commit: 5892d119745772a9d4e7869e7c4be7318c65fd19
 workflow-type: tm+mt
-source-wordcount: '188'
-ht-degree: 55%
+source-wordcount: '295'
+ht-degree: 15%
 
 ---
 
@@ -18,272 +18,116 @@ Haben Sie eine vorhandene Marketo Engage-Instanz von einem anderen Administrator
 >
 >Wenn Sie ein neuer Benutzer des Marketo Engages sind und nicht mit vielen der Begriffe vertraut sind, lesen Sie bitte den Abschnitt [Marketo-Glossar](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
 
-## Benutzer und Rollen {#users-and-roles}
+## Smart Lists für System {#system-smart-lists}
 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Spalte 1</th> 
-   <th>Spalte 2</th>
-   <th>Spalte 3</th>
+   <th>Bereich</th> 
+   <th>Fokus überprüfen</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
+   <td>Alle Personen</td> 
+   <td><li>Wie viele Personen sind in der Datenbank?</li>
+<li>Wenn Ihre Datenbank nahezu vollständig ist, empfiehlt Ihre Unternehmensrichtlinie, die Datenbankgröße zu erweitern oder historische Daten zu bereinigen?</li>
+<li>Ist Ihre Datenbank zu mindestens 85 % vermarktbar? Wenn Ihre unter diesen Schwellenwert fällt, sehen Sie sich die anderen System-Smart-Listen (Blockierungsliste, Marketing ausgesetzt, Duplikate, Abmeldung) mit größerer Sorgfalt an.</li></td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
+   <td>Abgemeldete Person</td> 
+   <td><li>Nach welchen Kriterien sind Sie für Abonnenten zuständig? Gibt es zu viele abgemeldete Personen?</li>
+<li>Stimmen Ihre Abmeldemethoden mit Ihren Datenschutzanforderungen überein?</li>
+<li>Ist Ihre Voreinstellung zur Abmeldung aktuell? Wie lange sind Datensätze in Ihrer Datenbank noch nicht vermarktbar?</li></td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
+   <td>Marketing eingestellt</td> 
+   <td><li>Nach welchen Kriterien richten Sie Marketing aussetzen? Gibt es zu viele Personen, die Marketing aussetzen?</li>
+<li>Wie lange sind die Unterlagen im Status der ausgesetzten Vermarktung erhalten geblieben?</li>
+<p>Anwendungsbeispiel für ausgesetzten Marketing: Datensätze, die aktiv am Vertrieb beteiligt sind, in verspäteten Gelegenheiten, für die Sie Marketingnachrichten unterdrücken möchten.</td>
+  </tr>
+   <tr> 
+   <td>Blockierungsliste</td> 
+   <td><li>Welche Kriterien erfüllen Sie für die Blockierungsliste? Gibt es zu viele auf die Blockierungsliste gesetzt?</li></td>
+  </tr>
+  <tr> 
+   <td>Unzustellbare E-Mail-Adressen</td> 
+   <td><li>Text</li></td>
+  </tr>
+  <tr> 
+   <td>Mögliche Duplikate</td> 
+   <td><li>Wie viele potenziell duplizierte Datensätze gibt es? Ziehen Sie das Löschen oder Zusammenführen in Erwägung.</li></td>
+  </tr>
+   <tr> 
+   <td>Kein Akquisitionsprogramm</td> 
+   <td><li>Wie viele Leute haben kein Akquiseprogramm? Wenn es viel gibt, überlegen Sie, warum.</li></td>
   </tr>
  </tbody> 
 </table>
 
-## Audit-Trail {#audit-trail}
+## Smart Lists für Gruppen {#group-smart-lists}
 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Spalte 1</th> 
-   <th>Spalte 2</th>
-   <th>Spalte 3</th>
+   <th>Bereich</th> 
+   <th>Fokus überprüfen</th>
   </tr> 
   <tr> 
    <td>1</td> 
    <td>2</td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>1</td> 
    <td>2</td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>1</td> 
    <td>2</td>
-   <td>3</td>
   </tr>
  </tbody> 
 </table>
 
-## Arbeitsbereiche und Partitionen {#workspaces-and-partitions}
+## Gruppenlisten {#group-lists}
 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Spalte 1</th> 
-   <th>Spalte 2</th>
-   <th>Spalte 3</th>
+   <th>Bereich</th> 
+   <th>Fokus überprüfen</th>
   </tr> 
   <tr> 
    <td>1</td> 
    <td>2</td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>1</td> 
    <td>2</td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>1</td> 
    <td>2</td>
-   <td>3</td>
   </tr>
  </tbody> 
 </table>
 
-## Intelligente Kampagnen {#smart-campaigns}
+## Segmentierungen {#segmentations}
 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Spalte 1</th> 
-   <th>Spalte 2</th>
-   <th>Spalte 3</th>
+   <th>Bereich</th> 
+   <th>Fokus überprüfen</th>
   </tr> 
   <tr> 
    <td>1</td> 
    <td>2</td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>1</td> 
    <td>2</td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>1</td> 
    <td>2</td>
-   <td>3</td>
-  </tr>
- </tbody> 
-</table>
-
-## Kommunikationsbeschränkungen {#communication-limits}
-
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Spalte 1</th> 
-   <th>Spalte 2</th>
-   <th>Spalte 3</th>
-  </tr> 
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
- </tbody> 
-</table>
-
-## Tags {#tags}
-
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Spalte 1</th> 
-   <th>Spalte 2</th>
-   <th>Spalte 3</th>
-  </tr> 
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
- </tbody> 
-</table>
-
-## Datenbankverwaltung {#database-management}
-
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Spalte 1</th> 
-   <th>Spalte 2</th>
-   <th>Spalte 3</th>
-  </tr> 
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
- </tbody> 
-</table>
-
-## Integrationen {#integrations}
-
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Spalte 1</th> 
-   <th>Spalte 2</th>
-   <th>Spalte 3</th>
-  </tr> 
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
- </tbody> 
-</table>
-
-## Schatzkiste {#treasure-chest}
-
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Spalte 1</th> 
-   <th>Spalte 2</th>
-   <th>Spalte 3</th>
-  </tr> 
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
- </tbody> 
-</table>
-
-## Verschiedenes {#miscellaneous}
-
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Spalte 1</th> 
-   <th>Spalte 2</th>
-   <th>Spalte 3</th>
-  </tr> 
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
   </tr>
  </tbody> 
 </table>

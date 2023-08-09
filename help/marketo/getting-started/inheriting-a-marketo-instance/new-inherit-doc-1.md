@@ -3,9 +3,9 @@ description: Vererben von Dokument 1 - Marketo-Dokumente - Produktdokumentation
 title: Erben von Doc 1
 hide: true
 hidefromtoc: true
-source-git-commit: e912b9112fc9fc3d72428e23b16de058874e8c21
+source-git-commit: 5892d119745772a9d4e7869e7c4be7318c65fd19
 workflow-type: tm+mt
-source-wordcount: '1225'
+source-wordcount: '1240'
 ht-degree: 6%
 
 ---
@@ -233,26 +233,26 @@ Die folgende Checkliste wurde mit Eingaben von Marketo Champions zusammengestell
   </tr>
   <tr> 
    <td>Landing Pages</td> 
-   <td><li>Wie lautet die Domäne?</li>
-<li>Wie lautet der Fallback?</li>
-<li>Wie ist die Homepage eingestellt?</li>
+   <td><li>Was ist das <a href="/help/marketo/product-docs/administration/settings/edit-landing-page-settings.md" target="_blank">Domain festgelegt als</a>?</li>
+   <li>Wie ist die Homepage eingestellt?</li>
+<li>Was ist das <a href="/help/marketo/product-docs/administration/settings/set-a-fallback-page.md" target="_blank">Fallback festgelegt als</a>?</li>
 <li>Ist das Vorausfüllen des Formulars aktiviert?</li>
-<li>Sind personalisierte URLs aktiviert?</li>
-<li>Gibt es Regeln für Umleitungen?</li>
+<li>sind <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md" target="_blank">personalisierte URLs</a> aktiviert?</li>
+<li>Gibt es Regeln für <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md" target="_blank">redirects</a>?</li>
 <li>Haben Sie Domain-Aliase? Verfolgen Sie in der Dokumentation, wie Sie Ihre Domain-Aliase verwenden?</li>
-<li>Ist "Sichere Domänen"für Landingpages aktiviert? Bestätigen Sie, ob Ihre Landingpage-Assets eine "http"-URL enthalten.</li></td>
+<li>Is <a href="https://nation.marketo.com/t5/knowledgebase/setting-up-secured-domains-for-marketo-landing-pages-first-time/ta-p/250370" target="_blank">Sichere Domänen für Einstiegsseiten</a> aktiviert? Bestätigen Sie, ob Ihre Landingpage-Assets eine "http"-URL enthalten.</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>Munchkin</td> 
-   <td><li>Ist Ihr Munchkin-Trackingcode auf Ihrer Website (nicht in Marketo)?</li>
-<li>Ist eine Browseranforderung "Nicht verfolgen"aktiviert?</li>
-<li>Ist Ihre Munchkin-API konfiguriert? Wenn Ihnen die Dokumentation fehlt, in der sich der Munchkin-Code auf Ihrer Website befindet, beginnen Sie mit einer Schnellansicht. Verwenden Sie dazu den "Web Analytics-Bericht"in "Analytics", um zu verstehen, wo der Munchkin-Code auf Ihrer Website platziert wird.</li></td>
+   <td><li>Ist Ihre <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Munchkin-Trackingcode</a> auf Ihrer Website (nicht in Marketo)?</li>
+<li>Ist eine <a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank">Nicht verfolgen</a> Browseranforderung aktiviert?</li>
+<li>Ist Ihre <a href="https://developers.marketo.com/javascript-api/lead-tracking/" target="_blank">Munchkin-API</a> konfiguriert? Wenn Ihnen die Dokumentation fehlt, in der sich der Munchkin-Code auf Ihrer Website befindet, beginnen Sie mit einer Schnellansicht. Verwenden Sie dazu den "Web Analytics-Bericht"in "Analytics", um zu verstehen, wo der Munchkin-Code auf Ihrer Website platziert wird.</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>Web-Services</td> 
-   <td><li>Sind IP-Einschränkungen aktiviert? Sollen sie das sein?</li>
+   <td><li>sind <a href="/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md" target="_blank">IP-Einschränkungen</a> aktiviert? Sollen sie das sein?</li>
 <li>Welche Benutzer/Apps führen API-Aufrufe in Ihrer Instanz durch?</li>
 <li>Haben Sie Ihr API-Limit erreicht oder stehen Sie kurz davor? Falls ja, sollten Sie sie erhöhen oder Ihre Instanz überprüfen, um diese API-Aufrufe zu reduzieren.</li></td>
    <td>3</td>
@@ -267,21 +267,21 @@ Die folgende Checkliste wurde mit Eingaben von Marketo Champions zusammengestell
   </tr>
   <tr> 
    <td>Startpunkt (falls zutreffend)</td> 
-   <td><li>Welche Dienste haben Sie konfiguriert (Webinar, Werbung usw.)? Sind sie kurz vor ihrem Ablauf?</li>
-<li>Wie viele API-Aufrufe verwenden Ihre Integrationen?</li>
+   <td><li>Welche Dienste haben Sie konfiguriert (z. B. <a href="/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md" target="_blank">Adobe Connect</a>, <a href="/help/marketo/product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md" target="_blank">Zoom</a>usw.)? Sind sie kurz vor ihrem Ablauf?</li>
+<li><a href="https://nation.marketo.com/t5/knowledgebase/viewing-your-number-of-api-calls-to-marketo/ta-p/254256" target="_blank">Wie viele API-Aufrufe</a> Verwenden Ihre Integrationen?</li>
 <li>Verfügen Sie über die richtigen Integrationen für Ihre Anwendungsfälle?</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>Webhooks (falls zutreffend)</td> 
-   <td><li>Welche Verbindungen haben Sie eingerichtet?</li>
+   <td><li><a href="/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md" target="_blank">Welche Verbindungen</a> Hast du dich eingerichtet?</li>
 <li>Wird es nicht mehr verwendet?</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>Mobile Apps (falls zutreffend)</td> 
-   <td><li>Welche mobilen Apps haben Sie?</li>
-<li>Welche Prüfgeräte wurden hinzugefügt?</li></td>
+   <td><li>Welcher <a href="/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md" target="_blank">mobile Apps</a> Hast du etwas?</li>
+<li>Haben Sie <a href="/help/marketo/product-docs/mobile-marketing/push-notifications/adding-a-new-test-device.md" target="_blank">Testgeräte</a>  wurde hinzugefügt?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -298,13 +298,13 @@ Die folgende Checkliste wurde mit Eingaben von Marketo Champions zusammengestell
   </tr> 
   <tr> 
    <td>Schatzkiste</td> 
-   <td><li>Was ist in der Schatzkiste eingeschaltet?</li>
+   <td><li>Was ist im <a href="/help/marketo/product-docs/administration/settings/enable-or-disable-treasure-chest-features.md" target="_blank">Schatztruhe</a>?</li>
 <li>Gibt es Funktionen, die aktiviert oder deaktiviert werden sollten?</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>Kampagnenprüfung</td> 
-   <td><li>Ist der Campaign Inspector aktiviert?</li>
+   <td><li>Is <a href="/help/marketo/product-docs/administration/settings/campaign-inspector.md" target="_blank">Kampagneninspektor</a> eingeschaltet?</li>
 <li>Ist dies nicht der Fall, sollten Sie es aktivieren, um einfach festzustellen, welche Kampagnen aktiv sind, mit Ihrem CRM-System zu synchronisieren und/oder Datensätze zu löschen.</li></td>
    <td>3</td>
   </tr>
@@ -318,28 +318,23 @@ Die folgende Checkliste wurde mit Eingaben von Marketo Champions zusammengestell
   <tr> 
    <th>Bereich</th> 
    <th>Fokus überprüfen</th>
-   <th>Spalte 3</th>
   </tr> 
   <tr> 
    <td>Marketo Engage-Statusaktualisierungen</td> 
-   <td><li>Ist Ihre Instanz für Marketo Engage-Statusaktualisierungen angemeldet?</li></td>
-   <td>3</td>
+   <td><li>Ist Ihre Instanz für <a href="https://status.adobe.com/" target="_blank">Marketo Engage-Statusaktualisierungen</a>?</li></td>
   </tr>
   <tr> 
    <td>Zugelassene Kontakte</td> 
-   <td><li>Haben Sie die entsprechenden autorisierten Kontakte im Support-Portal eingerichtet?</li></td>
-   <td>3</td>
+   <td><li>Sie müssen die entsprechenden <a href="/help/marketo/getting-started/setup/setup-steps.md#set-up-your-authorized-support-contacts" target="_blank">autorisierte Kontakte</a> im Support-Portal?</li></td>
   </tr>
   <tr> 
    <td>Warnungen</td> 
-   <td><li>Gibt es aktive Warnungen, die von Marketo Engage an interne Teams gesendet werden?</li>
+   <td><li>Gibt es <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md" target="_blank">Aktive Warnhinweise</a> Wird aus Marketo Engage an interne Teams gesendet?</li>
 <li>Wenn ja, funktionieren diese Ausschreibungen ordnungsgemäß?</li></td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>Benachrichtigungen</td> 
-   <td><li>Haben Sie entsprechende Administratorbenachrichtigungen abonniert?</li></td>
-   <td>3</td>
+   <td><li>Sind Sie Abonnent des entsprechenden Administrators? <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md" target="_blank">Benachrichtigungen</a>?</li></td>
   </tr>
  </tbody> 
 </table>
