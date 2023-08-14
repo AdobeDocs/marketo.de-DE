@@ -3,10 +3,10 @@ description: Vererben von Dokument 2 - Marketo-Dokumente - Produktdokumentation
 title: Erben von Doc 2
 hide: true
 hidefromtoc: true
-source-git-commit: 5892d119745772a9d4e7869e7c4be7318c65fd19
+source-git-commit: cc87ecb8d3245734ec0ce984eeccf742833a85d2
 workflow-type: tm+mt
-source-wordcount: '295'
-ht-degree: 15%
+source-wordcount: '383'
+ht-degree: 9%
 
 ---
 
@@ -16,7 +16,7 @@ Haben Sie eine vorhandene Marketo Engage-Instanz von einem anderen Administrator
 
 >[!TIP]
 >
->Wenn Sie ein neuer Benutzer des Marketo Engages sind und nicht mit vielen der Begriffe vertraut sind, lesen Sie bitte den Abschnitt [Marketo-Glossar](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
+>Wenn Sie ein neuer Marketo Engage-Benutzer sind und nicht mit vielen der Begriffe vertraut sind, sehen Sie sich bitte die [Marketo-Glossar](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
 
 ## Smart Lists für System {#system-smart-lists}
 
@@ -28,13 +28,13 @@ Haben Sie eine vorhandene Marketo Engage-Instanz von einem anderen Administrator
   </tr> 
   <tr> 
    <td>Alle Personen</td> 
-   <td><li>Wie viele Personen sind in der Datenbank?</li>
+   <td><li>Wie viele Personen gibt es in der <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md" target="_blank">Datenbank</a>?</li>
 <li>Wenn Ihre Datenbank nahezu vollständig ist, empfiehlt Ihre Unternehmensrichtlinie, die Datenbankgröße zu erweitern oder historische Daten zu bereinigen?</li>
 <li>Ist Ihre Datenbank zu mindestens 85 % vermarktbar? Wenn Ihre unter diesen Schwellenwert fällt, sehen Sie sich die anderen System-Smart-Listen (Blockierungsliste, Marketing ausgesetzt, Duplikate, Abmeldung) mit größerer Sorgfalt an.</li></td>
   </tr>
   <tr> 
    <td>Abgemeldete Person</td> 
-   <td><li>Nach welchen Kriterien sind Sie für Abonnenten zuständig? Gibt es zu viele abgemeldete Personen?</li>
+   <td><li>Nach welchen Kriterien sind Sie für <a href="/help/marketo/product-docs/email-marketing/deliverability/durable-unsubscribe.md" target="_blank">abgemeldete Personen</a>? Gibt es zu viele abgemeldete Personen?</li>
 <li>Stimmen Ihre Abmeldemethoden mit Ihren Datenschutzanforderungen überein?</li>
 <li>Ist Ihre Voreinstellung zur Abmeldung aktuell? Wie lange sind Datensätze in Ihrer Datenbank noch nicht vermarktbar?</li></td>
   </tr>
@@ -72,16 +72,10 @@ Haben Sie eine vorhandene Marketo Engage-Instanz von einem anderen Administrator
    <th>Fokus überprüfen</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Smart Lists für Gruppen</td> 
+   <td><li>Welche Gruppen-Smart-Listen gibt es? Wie werden sie in dieser Instanz verwendet?</li>
+<li>Sind die Listen in einer zusammenhängenden Ordnerstruktur organisiert? Wenn Sie verwaiste Listen haben, sollten Sie Ihren Baum so organisieren, dass Assets einfach zu finden sind.</li>
+<p>Tipp: Archivieren Sie Gruppen-Smart-Listen, die nicht mehr für Abfragen, Berichte oder Verweise benötigt werden, um die Organisation und Leistung zu unterstützen.</td>
   </tr>
  </tbody> 
 </table>
@@ -95,16 +89,9 @@ Haben Sie eine vorhandene Marketo Engage-Instanz von einem anderen Administrator
    <th>Fokus überprüfen</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Gruppenlisten</td> 
+   <td><li>Welche Gruppenlisten gibt es?</li>
+<li>Wie werden sie in dieser Instanz verwendet?</li></td>
   </tr>
  </tbody> 
 </table>
@@ -118,16 +105,10 @@ Haben Sie eine vorhandene Marketo Engage-Instanz von einem anderen Administrator
    <th>Fokus überprüfen</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Segmentierungen</td> 
+   <td><li>Welcher <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md" target="_blank">Segmentierungen</a> Gibt es sie? Wie werden sie verwendet?</li>
+<li>Sind zu viele Personen in <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md" target="_blank">Standardsegmente</a>?</li>
+<li>Gibt es eine Segmentierung für die vermarktbare Zielgruppe? Ist dies nicht der Fall, können Sie eine erstellen.</li></td>
   </tr>
  </tbody> 
 </table>
