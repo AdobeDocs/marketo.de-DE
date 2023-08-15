@@ -4,10 +4,10 @@ description: Bearbeiten von Einstellungen für Landingpages - Marketo-Dokumente 
 title: Einstellungen der Landingpage bearbeiten
 exl-id: 019b4651-3a66-46f9-8722-66af30194380
 feature: Administration, Landing Pages
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 43565104a7f6512d2f99eae6bc47e1ae048b2231
 workflow-type: tm+mt
-source-wordcount: '259'
-ht-degree: 5%
+source-wordcount: '231'
+ht-degree: 6%
 
 ---
 
@@ -45,10 +45,6 @@ Sie können Ihren Domänennamen und Ihre Fallback-Seite bearbeiten, das Vorausf�
 
    ![](assets/edit-landing-page-settings-5.png)
 
-1. Wenn Sie verhindern möchten, dass eine böswillige Site Ihren Inhalt anscheinend hostet, überprüfen Sie die **[!UICONTROL Marketo-Seiten dürfen nicht in externe Webseiten eingebettet werden]** aktivieren.
-
-   ![](assets/edit-landing-page-settings-6.png)
-
    >[!NOTE]
    >
    >Wenn Sie die Vorbefüllung vornehmen möchten `<script>` -Tag, das am Ende der `<head>` -Tag im Code, überprüfen Sie die **[!UICONTROL Skript zum Vorfüllen am Ende des Kopfes einfügen]** ankreuzen. Lassen Sie die Option deaktiviert, wenn sie am Anfang angezeigt werden soll.
@@ -57,6 +53,6 @@ Sie können Ihren Domänennamen und Ihre Fallback-Seite bearbeiten, das Vorausf�
 
 1. Klicken Sie nach der Auswahl auf **[!UICONTROL Speichern]**.
 
-   ![](assets/edit-landing-page-settings-7.png)
+   ![](assets/edit-landing-page-settings-6.png)
 
-   Großartig gemacht! Ihre Landingpages verfügen jetzt über die richtigen Informationen und sollten sofort mit der Arbeit beginnen.
+   Gut gemacht! Ihre Landingpages verfügen jetzt über die richtigen Informationen und sollten sofort mit der Arbeit beginnen.
