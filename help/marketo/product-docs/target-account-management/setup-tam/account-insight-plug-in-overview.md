@@ -4,20 +4,22 @@ description: Übersicht über das Konto-Insight-Plug-in - Marketo-Dokumente - Pr
 title: Übersicht über das Konto-Insight-Plug-in
 exl-id: 0306f82d-43c8-44eb-943f-f7f01279b844
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e5fe19bd17e3da7991b09dfa17beb05d4efd58f6
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '317'
 ht-degree: 0%
 
 ---
 
 # Übersicht über das Konto-Insight-Plug-in {#account-insight-plug-in-overview}
 
-Account Insight ist ein Chrome-Plug-in, das umsetzbare TAM-Daten und Kontoeinblicke für Ihre Verkaufsteams anzeigt, sodass diese Kunden effektiver mit Konten interagieren können.
+Account Insight ist ein Chrome-Plug-in, das umsetzbare TAM-Daten und Kontoeinblicke für Ihre Verkaufsteams anzeigt, sodass diese Konten effektiver ansprechen können.
 
 >[!AVAILABILITY]
 >
->Account Insight ist für alle Kunden mit TAM und Marketo Sales Insight enthalten. Für Kunden, die nur über TAM verfügen, ist Account Insight als erworbenes Add-on verfügbar. Jeder Kunde ist auf 250 Konto Insight-Plätze beschränkt. Wenden Sie sich für weitere Informationen an Ihren Vertriebsmitarbeiter. Es ist nicht für Kunden verfügbar, die nicht über TAM verfügen.
+>* Account Insight ist für alle Kunden mit TAM und Marketo Sales Insight enthalten. Für Kunden, die nur über TAM verfügen, ist Account Insight als erworbenes Add-on verfügbar. Jeder Kunde ist auf 250 Konto Insight-Plätze beschränkt. Wenden Sie sich für weitere Informationen an Ihren Vertriebsmitarbeiter. Es ist nicht für Kunden verfügbar, die nicht über TAM verfügen.
+>
+>* Dieses Plug-in ist nicht mit [Adobe-Identitätsauthentifizierung](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} zu diesem Zeitpunkt.
 
 >[!CAUTION]
 >
@@ -29,7 +31,7 @@ Account Insight ist ein Chrome-Plug-in, das umsetzbare TAM-Daten und Kontoeinbli
 
 ## Bekannte Kunden {#named-accounts}
 
-Sehen Sie die benannten Konten in der Reihenfolge ihres Rangs untereinander. Diese Liste steht nur Kontoinhabern zur Verfügung. Der Support für das Account-Team wird in Kürze verfügbar sein.
+Sehen Sie die benannten Konten in der Reihenfolge ihres Rangs untereinander. Diese Liste steht nur Kontoinhabern zur Verfügung. Der Kundenbetreuer wird in Kürze unterstützt.
 
 ![](assets/na1.png)
 
@@ -37,7 +39,7 @@ Um Details zu einem benannten Konto anzuzeigen, klicken Sie auf seinen Namen ...
 
 ![](assets/na3.png)
 
-...und die Übersicht angezeigt wird.
+... und die Übersicht wird angezeigt.
 
 ![](assets/na4.png)
 
@@ -53,7 +55,7 @@ Klicken Sie auf den Namen einer Person ...
 
 ![](assets/na7.png)
 
-...und deren Aktivität anzeigen.
+...und sehen Sie ihre Aktivitäten.
 
 ![](assets/na8.png)
 

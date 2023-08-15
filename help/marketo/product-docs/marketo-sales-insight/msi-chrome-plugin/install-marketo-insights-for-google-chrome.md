@@ -4,9 +4,9 @@ description: Installieren von Marketo Insights für Google Chrome - Marketo Docs
 title: Installieren Sie Marketo Insights für Google Chrome
 exl-id: 358b2737-52de-4d3b-a6e8-3254a8123359
 feature: Marketo Sales Insights
-source-git-commit: 762b8206b1e4c748daae063a80e76cc028904d10
+source-git-commit: e5fe19bd17e3da7991b09dfa17beb05d4efd58f6
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '207'
 ht-degree: 5%
 
 ---
@@ -18,10 +18,6 @@ Führen Sie diese Schritte aus, um mit der Verwendung des leistungsstarken Chrom
 >[!NOTE]
 >
 >Die Funktionen von Sales Insight-Aktionen, einschließlich &quot;E-Mail an Vertrieb senden&quot;, &quot;Zu Vertriebskampagne hinzufügen&quot;und &quot;Aufgaben&quot;, sind nicht in den Sales Insight-E-Mail-Plugins für Gmail und Outlook verfügbar. Derzeit können Benutzer von ihrem E-Mail-Client aus nur trackbare E-Mails mit oder ohne Marketo-E-Mail-Vorlage senden, wenn sie die Sales Insight-E-Mail-Plugins verwenden.
-
->[!AVAILABILITY]
->
->Diese Erweiterung ist nicht kompatibel mit [Identitätsauthentifizierung der Adobe](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} zu diesem Zeitpunkt.
 
 1. Installieren Sie die [Marketo Insights für Google Chrome Add in Extension](https://chrome.google.com/webstore/detail/marketo-for-google-mail/jjkfbhajlmoeegbjgjipliamplidmbjb){target="_blank"} aus dem Chrome Web Store.
 
