@@ -3,10 +3,10 @@ description: Übersicht - Marketo-Dokumente - Produktdokumentation
 title: Überblick
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
 feature: Modern UX
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4f833625421d7977d5aa8f59e13221a1946163f2
 workflow-type: tm+mt
-source-wordcount: '479'
-ht-degree: 7%
+source-wordcount: '434'
+ht-degree: 8%
 
 ---
 
@@ -22,14 +22,6 @@ Willkommen bei der Adobe Marketo Engage Modern UX (Benutzererfahrung), einer akt
 >* *.marketodesigner.com
 >* *.mktoweb.com
 
-## Nehmen Sie die Tour {#take-the-tour}
-
-Bei der ersten Anmeldung erscheint ein Pop-up, mit dem Sie das neue Erlebnis herunterladen können. Wenn Sie es überspringen, werden Sie **not** später verfügbar sein.
-
-![](assets/overview-1.png)
-
-Die Tour führt Sie durch alles, was Sie wissen müssen!
-
 ## Neue Funktionen {#whats-new}
 
 In der modernen Benutzeroberfläche gibt es viele neue Funktionen, die alle darauf ausgelegt sind, Ihr Marketing-Erlebnis deutlich zu verbessern.
@@ -42,7 +34,7 @@ Die neue Benutzeroberfläche verfügt über eine verbesserte und erweiterte Ikon
 
 **Globale Navigation**
 
-Auf Wiedersehen Superball. Sie haben jetzt schnellen Zugriff auf alle Hauptabschnitte des Marketo Engages.
+Auf Wiedersehen Superball. Sie haben jetzt schnellen Zugriff auf alle wichtigen Marketo Engage-Bereiche.
 
 ![](assets/overview-5.png)
 

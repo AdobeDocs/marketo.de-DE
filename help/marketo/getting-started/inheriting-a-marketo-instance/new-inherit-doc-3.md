@@ -3,7 +3,7 @@ description: Vererben Sie Doc 3 - Marketo Docs - Produktdokumentation
 title: Erben von Doc 3
 hide: true
 hidefromtoc: true
-source-git-commit: e5fe19bd17e3da7991b09dfa17beb05d4efd58f6
+source-git-commit: 4f833625421d7977d5aa8f59e13221a1946163f2
 workflow-type: tm+mt
 source-wordcount: '777'
 ht-degree: 2%
@@ -28,19 +28,19 @@ Haben Sie eine vorhandene Marketo Engage-Instanz von einem anderen Administrator
   </tr> 
   <tr> 
    <td>Benennungskonventionen</td> 
-   <td><li>Verfügen Ihre Programme über eine konsistente Namenskonvention?</li></td>
+   <td><li>Verfügen Ihre Programme über eine einheitliche <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md#naming-schemes" target="_blank">Namenskonvention</a>?</li></td>
   </tr>
   <tr> 
    <td>Ordnerstruktur</td> 
-   <td><li>Verfügen Sie über eine konsistente und leicht zu navigierende Ordnerstruktur?</li></td>
+   <td><li>Verfügen Sie über eine konsistente und leicht zu navigierende <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md#folders" target="_blank">Ordnerstruktur</a>?</li></td>
   </tr>
   <tr> 
    <td>Programme</td> 
    <td><li>Gibt es ein Exzellenzzentrum mit Programmvorlagen? Wenn ja, sind die Programmvorlagen für die Anwendungsfälle der Teams sinnvoll?</li>
-<li>Sind ähnliche Programmtypen konsistent strukturiert?</li>
-<li>Werden Zeitraumkosten anfallen?</li>
-<li>Werden alle Programme mit SFDC-Kampagnen synchronisiert (falls zutreffend)?</li>
-<li>Haben Sie Durchsatzschritte, die Personen ein Akquiseprogramm zuweisen?</li></td>
+<li>Sind ähnliche Programmtypen <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md" target="_blank">einheitlich strukturiert</a>?</li>
+<li>sind <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md" target="_blank">Zeitkosten</a> eingeführt?</li>
+<li>Sind alle Programme <a href="/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md" target="_blank">mit SFDC-Kampagnen synchronisiert</a> (falls zutreffend)?</li>
+<li>Verfügen Sie über Flussschritte, mit denen Sie einem <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">Akquiseprogramm</a> für Menschen?</li></td>
   </tr>
   <tr> 
    <td>Archivieren</td> 
