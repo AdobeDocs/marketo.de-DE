@@ -3,9 +3,9 @@ description: Vererben Sie Doc 3 - Marketo Docs - Produktdokumentation
 title: Erben von Doc 3
 hide: true
 hidefromtoc: true
-source-git-commit: 75aa1f6c5f7d0c193787978a18900441aa9a8b82
+source-git-commit: 6ced5418f33086cb5607a3b91c21dd5de3e14be8
 workflow-type: tm+mt
-source-wordcount: '835'
+source-wordcount: '833'
 ht-degree: 2%
 
 ---
@@ -71,7 +71,7 @@ Haben Sie eine vorhandene Marketo Engage-Instanz von einem anderen Administrator
   </tr> 
   <tr> 
    <td>Token</td> 
-   <td><li>Werden Token in regelmäßig verwendeten Programmtypen verwendet? KG - DOPPELPRÜFUNG BEDEUTEN Falls nicht, sollten Sie sie zur Effizienzsteigerung in Erwägung ziehen.</li>
+   <td><li>Werden Token in Ihren am häufigsten verwendeten Programmtypen verwendet? Wenn nicht, sollten Sie sie zur Effizienzsteigerung in Erwägung ziehen.</li>
 <li>Wenn Token implementiert sind, gibt es globale Ordner-Token? Wie werden sie verwendet?</li></td>
   </tr>
   <tr> 

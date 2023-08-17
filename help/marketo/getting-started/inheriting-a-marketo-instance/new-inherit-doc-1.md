@@ -3,10 +3,10 @@ description: Vererben von Dokument 1 - Marketo-Dokumente - Produktdokumentation
 title: Erben von Doc 1
 hide: true
 hidefromtoc: true
-source-git-commit: 5892d119745772a9d4e7869e7c4be7318c65fd19
+source-git-commit: 6ced5418f33086cb5607a3b91c21dd5de3e14be8
 workflow-type: tm+mt
-source-wordcount: '1240'
-ht-degree: 6%
+source-wordcount: '1206'
+ht-degree: 4%
 
 ---
 
@@ -20,7 +20,7 @@ Die folgende Checkliste wurde mit Eingaben von Marketo Champions zusammengestell
 
 >[!TIP]
 >
->Wenn Sie ein neuer Benutzer des Marketo Engages sind und nicht mit vielen der Begriffe vertraut sind, lesen Sie bitte den Abschnitt [Marketo-Glossar](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
+>Wenn Sie ein neuer Marketo Engage-Benutzer sind und nicht mit vielen der Begriffe vertraut sind, sehen Sie sich bitte die [Marketo-Glossar](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
 
 ## Benutzer und Rollen {#users-and-roles}
 
@@ -29,7 +29,6 @@ Die folgende Checkliste wurde mit Eingaben von Marketo Champions zusammengestell
   <tr> 
    <th>Bereich</th> 
    <th>Fokus überprüfen</th>
-   <th>Spalte 3</th>
   </tr> 
   <tr> 
    <td>Benutzer</td> 
@@ -39,7 +38,6 @@ Die folgende Checkliste wurde mit Eingaben von Marketo Champions zusammengestell
 <li>Wie viele Benutzer haben <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">Administratorberechtigungen</a>?</li>
 <li>Sollte einer dieser Benutzer in <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">andere Rollen?</a></li> 
 <li>Wer sind die API-Benutzer in dieser Instanz?</li></td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>Rollen</td> 
@@ -49,19 +47,16 @@ Die folgende Checkliste wurde mit Eingaben von Marketo Champions zusammengestell
 <li>Wie oft sind Benutzer <a href="/help/marketo/product-docs/administration/audit-trail/user-login-history.md" target="_blank">Anmelden</a>?</li>
 <li>Gibt es für jeden API-Benutzer <a href="/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md" target="_blank">eigene Benutzerrolle</a>? Falls nicht, sollten Sie dies implementieren, um die Fehlerbehebung zu vereinfachen.</li> 
 <li>Stimmen Sie Ihre Benutzerrollen und Berechtigungen mit Ihren Unternehmensdaten überein <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md" target="_blank">Datenschutzrichtlinien</a>?</li></td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>Interne Dokumentation</td> 
    <td><li>Sind Benutzer und Rollen in Ihrer Organisation klar definiert?</li>
 <li>Wie wird ein neuer Benutzer/Administrator hinzugefügt?</li></td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>Sandbox (falls zutreffend)</td> 
    <td><li>Haben Sie eine <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md" target="_blank">Sandbox-Instanz</a>? Wenn ja, überprüfen Sie die oben genannten Kategorien für Ihre Sandbox.</li>
 <li>Is <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md" target="_blank">Programmimport</a> mit Ihrer Sandbox verknüpft ist?</li></td>
-   <td>3</td>
   </tr>
  </tbody> 
 </table>
@@ -73,12 +68,10 @@ Die folgende Checkliste wurde mit Eingaben von Marketo Champions zusammengestell
   <tr> 
    <th>Bereich</th> 
    <th>Fokus überprüfen</th>
-   <th>Spalte 3</th>
   </tr> 
   <tr> 
    <td>Audit-Trail</td> 
    <td><li><a href="/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md" target="_blank">Wer arbeitet</a> in der Instanz?</li></td>
-   <td>3</td>
   </tr>
  </tbody> 
 </table>
@@ -90,7 +83,6 @@ Die folgende Checkliste wurde mit Eingaben von Marketo Champions zusammengestell
   <tr> 
    <th>Bereich</th> 
    <th>Fokus überprüfen</th>
-   <th>Spalte 3</th>
   </tr> 
   <tr> 
    <td>Arbeitsbereiche und Partitionen</td> 
@@ -99,13 +91,11 @@ Die folgende Checkliste wurde mit Eingaben von Marketo Champions zusammengestell
 <li>Entweder <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/edit-a-workspace.md" target="_blank">Arbeitsbereiche</a> oder <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/edit-an-existing-person-partition.md" target="_blank">Partitionen</a> müssen geprüft/geändert werden?</li>
 <li>Welche Beziehung besteht zwischen Ihren Arbeitsbereichen und Partitionen?</li>
 <li>Anzahl der Benutzer <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md" target="_blank">Zugriff</a> zu jedem Arbeitsbereich?</li></td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>Interne Dokumentation</td> 
    <td><li>Wie werden Arbeitsbereiche und Partitionen definiert?</li>
 <li>Wie verläuft Ihr Prozess, um Ihrer Instanz Arbeitsbereiche hinzuzufügen oder Benutzer zu einem Arbeitsbereich hinzuzufügen?</li></td>
-   <td>3</td>
   </tr>
  </tbody> 
 </table>
@@ -117,13 +107,11 @@ Die folgende Checkliste wurde mit Eingaben von Marketo Champions zusammengestell
   <tr> 
    <th>Bereich</th> 
    <th>Fokus überprüfen</th>
-   <th>Spalte 3</th>
   </tr> 
   <tr> 
    <td>Einstellungen für intelligente Kampagne</td> 
    <td><li><a href="/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md" target="_blank">Haben Sie Einschränkungen?</a> zur Größe von Smart-Kampagnen?</li>
 <li>Ist dies nicht der Fall, können Sie eine hinzufügen. Es wird empfohlen, die für intelligente Kampagnen geltenden Grenzwerte auf 25 % Ihrer Datenbank zu begrenzen, um eine Überkommunikation oder Verarbeitung Ihrer gesamten Datenbank in Workflows zu vermeiden. Dies schützt nicht nur Ihre Marke, sondern schützt auch die Leistung Ihrer Instanz.</li></td>
-   <td>3</td>
   </tr>
  </tbody> 
 </table>
@@ -135,13 +123,11 @@ Die folgende Checkliste wurde mit Eingaben von Marketo Champions zusammengestell
   <tr> 
    <th>Bereich</th> 
    <th>Fokus überprüfen</th>
-   <th>Spalte 3</th>
   </tr> 
   <tr> 
    <td>Kommunikationsbeschränkungen</td> 
    <td><li>Gibt es <a href="/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md" target="_blank">Kommunikationsbeschränkungen</a> vorhanden? Verfügt Ihr Unternehmen über Richtlinien, bei denen Kommunikationsbeschränkungen erforderlich sein könnten?</li>
 <li>Adobe empfiehlt, Ihre Kommunikation auf 1 pro Tag und 3 pro 7 Tage zu begrenzen, mit <b>non</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">operativ</a> blockierte E-Mails.</li></td>
-   <td>3</td>
   </tr>
  </tbody> 
 </table>
@@ -153,13 +139,11 @@ Die folgende Checkliste wurde mit Eingaben von Marketo Champions zusammengestell
   <tr> 
    <th>Bereich</th> 
    <th>Fokus überprüfen</th>
-   <th>Spalte 3</th>
   </tr> 
   <tr> 
    <td>Tags</td> 
    <td><li><a href="/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md" target="_blank">Wie viele Tags</a> Gibt es sie? Wie viele Tags werden verwendet? Müssen noch weitere hinzugefügt werden?</li>
 <li>Sind Tags in Ihren Programmen erforderlich?</li></td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>Kanäle</td> 
@@ -168,13 +152,11 @@ Die folgende Checkliste wurde mit Eingaben von Marketo Champions zusammengestell
 <li>Sind Ihre Kanäle mit bestimmten Programmtypen verbunden?</li>
 <li>Welche Status werden für jeden Kanal als erfolgreich betrachtet? Stimmen diese mit Ihren Marketing-Zielen überein?</li>
 <li>Wird der operationelle Kanal ordnungsgemäß verwendet?</li>
-<li>Ist für "Erweiterter Report Builder"(Umsatz-Cycle Explorer\RCE) Ihr Kanalanalyseverhalten so eingestellt, dass es an Ihren Programmpraktiken ausgerichtet ist und die Zeitraumkosten enthält?</li></td>
-   <td>3</td>
+<li>Ist für Advanced Report Builder (Umsatz-Cycle Explorer/RCE) Ihr Kanalanalyseverhalten so eingestellt, dass es an Ihre Programmpraktiken angepasst wird, einschließlich der Zeitraumkosten?</li></td>
   </tr>
   <tr> 
    <td>Marketing-Kalender (falls zutreffend)</td> 
    <td><li>Wie viele <a href="/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md" target="_blank">Kalendereintragsarten</a> Gibt es sie? Sind sie alle noch relevant?</li></td>
-   <td>3</td>
   </tr>
  </tbody> 
 </table>
@@ -186,7 +168,6 @@ Die folgende Checkliste wurde mit Eingaben von Marketo Champions zusammengestell
   <tr> 
    <th>Bereich</th> 
    <th>Fokus überprüfen</th>
-   <th>Spalte 3</th>
   </tr> 
   <tr> 
    <td>Feldverwaltung</td> 
@@ -198,19 +179,16 @@ Die folgende Checkliste wurde mit Eingaben von Marketo Champions zusammengestell
 <li>Gibt es eine <a href="/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md" target="_blank">benutzerdefinierter Ansichtssatz</a> für Personendetails? Sollte es denn geben?</li>
 <li>Verfügen Sie über eine auf der Quelle basierende Namenskonvention für Ihre Felder? Wenn nicht, sollten Sie die Implementierung in Erwägung ziehen.</li>
 <li>Gibt es Felder? <a href="/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md" target="_blank">blockiert</a>? Verstehen Sie unbedingt, warum sie sind.</li></td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>Eigene Aktivitäten</td> 
    <td><li>Gibt es <a href="/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md" target="_blank">benutzerdefinierte Aktivitäten</a>?</li>
 <li>Wenn ja, durchklicken Sie sie, um zu verstehen, welche Aktivitäten nicht mit einem Marketo-Formular, einer E-Mail oder einer Landingpage verbunden sind.</li></td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>benutzerdefinierte -Objekte</td> 
    <td><li>Wie viele <a href="/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md" target="_blank">Benutzerdefinierte Objekte</a> Gibt es sie? Wie werden sie mit Ihrem CRM synchronisiert?</li>
 <li>Wie werden diese benutzerdefinierten Objekte von Ihren Programmen und Listenabfragen verwendet?</li></td>
-   <td>3</td>
   </tr>
  </tbody> 
 </table>
@@ -222,14 +200,12 @@ Die folgende Checkliste wurde mit Eingaben von Marketo Champions zusammengestell
   <tr> 
    <th>Bereich</th> 
    <th>Fokus überprüfen</th>
-   <th>Spalte 3</th>
   </tr> 
   <tr> 
    <td>CRM</td> 
    <td><li>Mit welchem CRM synchronisieren Sie? Salesforce? MS Dynamics? Veeva?</li>
 <li>Ist die benutzerdefinierte Synchronisierung oder bidirektional? (KG: KORREKTUR UND BEDEUTUNG DER PRÜFUNG)</li>
 <li>[Nur Salesforce] Ist für Ihre Instanz benutzerdefinierte Synchronisierungsfilter implementiert? Wenden Sie sich an den Marketo-Support, um benutzerdefinierte Synchronisierungsfilter zu ermitteln oder die Implementierung einer benutzerspezifischen Synchronisierungsregel anzufordern.</li></td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>Landing Pages</td> 
@@ -241,21 +217,18 @@ Die folgende Checkliste wurde mit Eingaben von Marketo Champions zusammengestell
 <li>Gibt es Regeln für <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md" target="_blank">redirects</a>?</li>
 <li>Haben Sie Domain-Aliase? Verfolgen Sie in der Dokumentation, wie Sie Ihre Domain-Aliase verwenden?</li>
 <li>Is <a href="https://nation.marketo.com/t5/knowledgebase/setting-up-secured-domains-for-marketo-landing-pages-first-time/ta-p/250370" target="_blank">Sichere Domänen für Einstiegsseiten</a> aktiviert? Bestätigen Sie, ob Ihre Landingpage-Assets eine "http"-URL enthalten.</li></td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>Munchkin</td> 
    <td><li>Ist Ihre <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Munchkin-Trackingcode</a> auf Ihrer Website (nicht in Marketo)?</li>
 <li>Ist eine <a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank">Nicht verfolgen</a> Browseranforderung aktiviert?</li>
 <li>Ist Ihre <a href="https://developers.marketo.com/javascript-api/lead-tracking/" target="_blank">Munchkin-API</a> konfiguriert? Wenn Ihnen die Dokumentation fehlt, in der sich der Munchkin-Code auf Ihrer Website befindet, beginnen Sie mit einer Schnellansicht. Verwenden Sie dazu den "Web Analytics-Bericht"in "Analytics", um zu verstehen, wo der Munchkin-Code auf Ihrer Website platziert wird.</li></td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>Web-Services</td> 
    <td><li>sind <a href="/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md" target="_blank">IP-Einschränkungen</a> aktiviert? Sollen sie das sein?</li>
 <li>Welche Benutzer/Apps führen API-Aufrufe in Ihrer Instanz durch?</li>
 <li>Haben Sie Ihr API-Limit erreicht oder stehen Sie kurz davor? Falls ja, sollten Sie sie erhöhen oder Ihre Instanz überprüfen, um diese API-Aufrufe zu reduzieren.</li></td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>Marketo Sales Insight (falls zutreffend)</td> 
@@ -263,26 +236,22 @@ Die folgende Checkliste wurde mit Eingaben von Marketo Champions zusammengestell
 <li>Habt ihr <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md" target="_blank">auf die neueste Version von Sales Insight aktualisiert</a>?</li>
 <li>Haben Sie die Konfiguration von Sales Insight abgeschlossen? Enterprise/Unlimited-Benutzer <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md" target="_blank">Klicken Sie hier</a>, Professional Users <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md" target="_blank">Klicken Sie hier</a>.</li>
 <li>Habt ihr <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md" target="_blank">Zugriff auf Ihre Benutzer</a> basierend auf der Anzahl der von Ihnen erworbenen Plätze?</li></td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>Startpunkt (falls zutreffend)</td> 
    <td><li>Welche Dienste haben Sie konfiguriert (z. B. <a href="/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md" target="_blank">Adobe Connect</a>, <a href="/help/marketo/product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md" target="_blank">Zoom</a>usw.)? Sind sie kurz vor ihrem Ablauf?</li>
 <li><a href="https://nation.marketo.com/t5/knowledgebase/viewing-your-number-of-api-calls-to-marketo/ta-p/254256" target="_blank">Wie viele API-Aufrufe</a> Verwenden Ihre Integrationen?</li>
 <li>Verfügen Sie über die richtigen Integrationen für Ihre Anwendungsfälle?</li></td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>Webhooks (falls zutreffend)</td> 
    <td><li><a href="/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md" target="_blank">Welche Verbindungen</a> Hast du dich eingerichtet?</li>
 <li>Wird es nicht mehr verwendet?</li></td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>Mobile Apps (falls zutreffend)</td> 
    <td><li>Welcher <a href="/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md" target="_blank">mobile Apps</a> Hast du etwas?</li>
 <li>Haben Sie <a href="/help/marketo/product-docs/mobile-marketing/push-notifications/adding-a-new-test-device.md" target="_blank">Testgeräte</a>  wurde hinzugefügt?</li></td>
-   <td>3</td>
   </tr>
  </tbody> 
 </table>
@@ -294,19 +263,16 @@ Die folgende Checkliste wurde mit Eingaben von Marketo Champions zusammengestell
   <tr> 
    <th>Bereich</th> 
    <th>Fokus überprüfen</th>
-   <th>Spalte 3</th>
   </tr> 
   <tr> 
    <td>Schatzkiste</td> 
    <td><li>Was ist im <a href="/help/marketo/product-docs/administration/settings/enable-or-disable-treasure-chest-features.md" target="_blank">Schatztruhe</a>?</li>
 <li>Gibt es Funktionen, die aktiviert oder deaktiviert werden sollten?</li></td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>Kampagnenprüfung</td> 
    <td><li>Is <a href="/help/marketo/product-docs/administration/settings/campaign-inspector.md" target="_blank">Kampagneninspektor</a> eingeschaltet?</li>
 <li>Ist dies nicht der Fall, sollten Sie es aktivieren, um einfach festzustellen, welche Kampagnen aktiv sind, mit Ihrem CRM-System zu synchronisieren und/oder Datensätze zu löschen.</li></td>
-   <td>3</td>
   </tr>
  </tbody> 
 </table>
@@ -329,7 +295,7 @@ Die folgende Checkliste wurde mit Eingaben von Marketo Champions zusammengestell
   </tr>
   <tr> 
    <td>Warnungen</td> 
-   <td><li>Gibt es <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md" target="_blank">Aktive Warnhinweise</a> Wird aus Marketo Engage an interne Teams gesendet?</li>
+   <td><li>Gibt es <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md" target="_blank">Aktive Warnhinweise</a> von Marketo Engage an interne Teams gesendet werden?</li>
 <li>Wenn ja, funktionieren diese Ausschreibungen ordnungsgemäß?</li></td>
   </tr>
   <tr> 

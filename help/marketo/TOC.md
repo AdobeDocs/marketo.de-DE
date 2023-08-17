@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: cb45578229c50300840660fc2a5629341ecfa98e
+source-git-commit: 6ced5418f33086cb5607a3b91c21dd5de3e14be8
 workflow-type: tm+mt
 source-wordcount: '9012'
 ht-degree: 5%
@@ -173,7 +173,7 @@ ht-degree: 5%
          + [Export benutzerdefinierter Objektmetadaten](product-docs/administration/marketo-custom-objects/custom-object-metadata-export.md)
       + Marketo mit Adobe Identity {#marketo-with-adobe-identity}
          + [Schnellanleitung](product-docs/administration/marketo-with-adobe-identity/quick-guide.md)
-         + [Übersicht über Adobe Identity Management](product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md)
+         + [Adobe Identity Management - Überblick](product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md)
          + [Admin-Einrichtung](product-docs/administration/marketo-with-adobe-identity/admin-setup.md)
          + [Produkt-Admin-Einrichtung](product-docs/administration/marketo-with-adobe-identity/product-admin-setup.md)
          + [Hinzufügen eines reinen API-Benutzers für Adobe IMS-aktivierte Abonnements](product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md)
@@ -403,7 +403,7 @@ ht-degree: 5%
             + [Verwenden von Zeitraumkosten in einem Programm](product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
          + Programmbibliothek {#program-library}
             + [Übersicht über den Programmimport](product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md)
-            + [Anwendungsbeispiel für Content Management](product-docs/core-marketo-concepts/programs/program-library/content-management-program-example.md)
+            + [Beispiel für ein Programm zur Einverständnisverwaltung](product-docs/core-marketo-concepts/programs/program-library/consent-management-program-example.md)
          + Bericht zur Programmleistung {#program-performance-report}
             + [Erstellen eines Berichts zur Programmleistung](product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
             + [Hinzufügen von Programmstatusspalten zu einem Programmbericht](product-docs/core-marketo-concepts/programs/program-performance-report/add-program-status-columns-to-a-program-report.md)
@@ -606,8 +606,8 @@ ht-degree: 5%
          + [Grundlagen zur VEC CRM-Synchronisierung](product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md)
          + Setup {#setup}
             + [Schritt 1 von 3: Hinzufügen von Marketo-Feldern zum VEC CRM](product-docs/crm-sync/veeva-crm-sync/setup/step-1-of-3-add-marketo-fields-to-veeva-crm.md)
-            + [Schritt 2 von 3: Erstellen eines VEC CRM-Benutzers zum Marketo Engage](product-docs/crm-sync/veeva-crm-sync/setup/step-2-of-3-create-a-veeva-crm-user-for-marketo-engage.md)
-            + [3. Schritt: Verbinden von Marketo Engage und VEC CRM](product-docs/crm-sync/veeva-crm-sync/setup/step-3-of-3-connect-marketo-engage-and-veeva-crm.md)
+            + [Schritt 2 von 3: Erstellen eines Veeva CRM-Benutzers für Marketo Engage](product-docs/crm-sync/veeva-crm-sync/setup/step-2-of-3-create-a-veeva-crm-user-for-marketo-engage.md)
+            + [3. Schritt: Marketo Engage und Veeva CRM verbinden](product-docs/crm-sync/veeva-crm-sync/setup/step-3-of-3-connect-marketo-engage-and-veeva-crm.md)
          + Synchronisierungsdetails {#sync-details}
             + [Benutzerdefiniertes Objektfeld als Smart-List-/Trigger-Einschränkungen hinzufügen/entfernen](product-docs/crm-sync/veeva-crm-sync/sync-details/add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
             + [Benutzerdefinierte Objektsynchronisierung](product-docs/crm-sync/veeva-crm-sync/sync-details/custom-object-sync.md)
@@ -625,7 +625,7 @@ ht-degree: 5%
          + [Hinzufügen von LinkedIn Matched Audiences als LaunchPoint-Dienst](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
          + [Senden einer Liste an ein Werbenetzwerk](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
       + Dynamic Chat {#dynamic-chat}
-         + [Übersicht über Dynamic Chat](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
+         + [Dynamic Chat-Übersicht](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
          + [Ersteinrichtung](product-docs/demand-generation/dynamic-chat/initial-setup.md)
          + [Hinzufügen oder Entfernen von Chat-Benutzern](product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md)
          + [Browser-Benachrichtigungen](product-docs/demand-generation/dynamic-chat/browser-notifications.md)
@@ -1863,7 +1863,7 @@ ht-degree: 5%
          + Web Analytics-Integrationen {#web-analytics-integrations}
             + [Benutzerdefinierte RTP-Dashboards in Google Universal Analytics](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-dashboards-in-google-universal-analytics.md)
             + [Benutzerdefinierte RTP-Berichte in Google Universal Analytics](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-reports-in-google-universal-analytics.md)
-            + [RTP mit Google Analytics integrieren](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-analytics.md)
+            + [RTP in Google Analytics integrieren](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-analytics.md)
             + [RTP in Google Universal Analytics integrieren](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
             + [Integration mit Adobe Analytics](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-with-adobe-analytics.md)
       + Erläuterungen zur Web-Personalisierung {#understanding-web-personalization}
