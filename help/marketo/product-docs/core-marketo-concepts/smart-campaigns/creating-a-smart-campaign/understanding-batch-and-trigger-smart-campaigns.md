@@ -4,10 +4,10 @@ description: Smart-Kampagnen für Batch und Trigger - Marketo-Dokumente - Produk
 title: Smart-Kampagnen für Batch und Trigger
 exl-id: 84a7b38c-b79c-4360-bd0b-3beb8ca35ac7
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 75aa1f6c5f7d0c193787978a18900441aa9a8b82
 workflow-type: tm+mt
-source-wordcount: '272'
-ht-degree: 0%
+source-wordcount: '266'
+ht-degree: 3%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Es gibt zwei Arten von Smart-Kampagnen: Batch und Trigger.
 
-## Smart-Batch-Kampagne {#batch-smart-campaign}
+## Stapel-Kampagne {#batch-campaign}
 
 >[!NOTE]
 >
@@ -23,38 +23,38 @@ Es gibt zwei Arten von Smart-Kampagnen: Batch und Trigger.
 >
 >Eine Batch-Kampagne wird zu einem bestimmten Zeitpunkt gestartet und betrifft eine bestimmte Gruppe von Personen auf einmal. Ein Beispiel wäre das Senden einer E-Mail an alle Menschen in Kalifornien.
 
-Batch-Smart-Kampagnen verfügen nur über Filter im Bereich der intelligenten Liste (d. h. keine Trigger).
+Batch-Kampagnen enthalten nur Filter im Bereich der intelligenten Liste (d. h. keine Trigger).
 
 ![](assets/understanding-batch-and-trigger-smart-campaigns-1.png)
 
-Klicken Sie auf die **Zeitplan** bestätigt, dass die Smart-Kampagne auf &quot;Batch&quot;eingestellt ist.
+Klicken Sie auf **Zeitplan** bestätigt, dass die Smart-Kampagne auf &quot;Batch&quot;eingestellt ist.
 
 ![](assets/understanding-batch-and-trigger-smart-campaigns-2.png)
 
 **Smart-Kampagnen stapeln**
 
 * Kann für Wiederholungen, z. B. täglich, wöchentlich und monatlich, geplant werden. Sie können sie auch nur einmal ausführen lassen.
-* sind auf der [Programmplanungsansicht](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md). Alles, was nach einem &quot;Warten&quot;-Schritt innerhalb der intelligenten Kampagne erfolgt, wird nicht in die Ansicht aufgenommen.
+* sind auf der [Programmplanungsansicht](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md). Alles, was nach einem &quot;Warten&quot;-Schritt innerhalb der Smart-Kampagne erfolgt, wird nicht in die Ansicht aufgenommen.
 
 <br> 
 
-## Smart Campaign für Trigger {#trigger-smart-campaign}
+## Auslöser-Kampagne {#trigger-campaign}
 
 >[!NOTE]
 >
 >**Definition**
 >
->Eine Trigger-Smart-Kampagne wirkt sich auf Basis eines ausgelösten Ereignisses immer nur auf eine Person aus. Ein Trigger könnte beispielsweise auf einen Link in einer E-Mail klicken.
+>Eine Trigger-Kampagne betrifft eine Person auf der Grundlage eines ausgelösten Ereignisses. Ein Trigger könnte beispielsweise auf einen Link in einer E-Mail klicken.
 
-Wenn eine Smart-Kampagne mindestens einen Trigger im Bereich &quot;Smart-Liste&quot;verwendet, wird der Modus automatisch auf &quot;Ausgelöst&quot;eingestellt.
+Wenn eine Smart-Kampagne mindestens einen Trigger im Bereich Smart-Liste verwendet, wird der Modus automatisch auf &quot;Ausgelöst&quot;eingestellt.
 
 ![](assets/understanding-batch-and-trigger-smart-campaigns-3.png)
 
-Klicken Sie auf **Zeitplan** bestätigt, dass die Smart-Kampagne auf &quot;Ausgelöst&quot;gesetzt ist.
+Klicken Sie auf **Zeitplan** bestätigt, dass die Smart-Kampagne auf &quot;ausgelöst&quot;gesetzt ist.
 
 ![](assets/understanding-batch-and-trigger-smart-campaigns-4.png)
 
-**Smart-Kampagnen für Trigger**
+**Auslöserkampagnen**
 
 * Kann nicht für Wiederholungen geplant werden. Sie können nur auf &quot;aktiv&quot;oder &quot;inaktiv&quot;eingestellt werden.
 * Sie können mehr als einen Trigger festlegen. Wenn jedoch ein Trigger ausgelöst wird, werden die Kampagnenaktionen ausgeführt.
