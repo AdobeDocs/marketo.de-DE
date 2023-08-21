@@ -3,9 +3,9 @@ description: Vererben von Dokument 1 - Marketo-Dokumente - Produktdokumentation
 title: Erben von Doc 1
 hide: true
 hidefromtoc: true
-source-git-commit: 6ced5418f33086cb5607a3b91c21dd5de3e14be8
+source-git-commit: 5602a0a771127a341a4c269739aca6e2a4e78d40
 workflow-type: tm+mt
-source-wordcount: '1206'
+source-wordcount: '1223'
 ht-degree: 4%
 
 ---
@@ -55,7 +55,8 @@ Die folgende Checkliste wurde mit Eingaben von Marketo Champions zusammengestell
   </tr>
   <tr> 
    <td>Sandbox (falls zutreffend)</td> 
-   <td><li>Haben Sie eine <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md" target="_blank">Sandbox-Instanz</a>? Wenn ja, überprüfen Sie die oben genannten Kategorien für Ihre Sandbox.</li>
+   <td><li>Haben Sie eine <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md" target="_blank">Sandbox-Instanz</a>? 
+   <br/>Wenn ja, überprüfen Sie die oben genannten Kategorien für Ihre Sandbox.</li>
 <li>Is <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md" target="_blank">Programmimport</a> mit Ihrer Sandbox verknüpft ist?</li></td>
   </tr>
  </tbody> 
@@ -110,8 +111,8 @@ Die folgende Checkliste wurde mit Eingaben von Marketo Champions zusammengestell
   </tr> 
   <tr> 
    <td>Einstellungen für intelligente Kampagne</td> 
-   <td><li><a href="/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md" target="_blank">Haben Sie Einschränkungen?</a> zur Größe von Smart-Kampagnen?</li>
-<li>Ist dies nicht der Fall, können Sie eine hinzufügen. Es wird empfohlen, die für intelligente Kampagnen geltenden Grenzwerte auf 25 % Ihrer Datenbank zu begrenzen, um eine Überkommunikation oder Verarbeitung Ihrer gesamten Datenbank in Workflows zu vermeiden. Dies schützt nicht nur Ihre Marke, sondern schützt auch die Leistung Ihrer Instanz.</li></td>
+   <td><li><a href="/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md" target="_blank">Haben Sie Einschränkungen?</a> zur Größe von Smart-Kampagnen? 
+   <br/>Ist dies nicht der Fall, können Sie eine hinzufügen. Es wird empfohlen, die Grenze für intelligente Kampagnen auf 25 % Ihrer Datenbank zu begrenzen, um eine Überkommunikation oder Verarbeitung Ihrer gesamten Datenbank in Workflows zu vermeiden. Dies schützt nicht nur Ihre Marke, sondern schützt auch die Leistung Ihrer Instanz. KG - IST DAS GENAU?</li></td>
   </tr>
  </tbody> 
 </table>
@@ -127,7 +128,7 @@ Die folgende Checkliste wurde mit Eingaben von Marketo Champions zusammengestell
   <tr> 
    <td>Kommunikationsbeschränkungen</td> 
    <td><li>Gibt es <a href="/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md" target="_blank">Kommunikationsbeschränkungen</a> vorhanden? Verfügt Ihr Unternehmen über Richtlinien, bei denen Kommunikationsbeschränkungen erforderlich sein könnten?</li>
-<li>Adobe empfiehlt, Ihre Kommunikation auf 1 pro Tag und 3 pro 7 Tage zu begrenzen, mit <b>non</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">operativ</a> blockierte E-Mails.</li></td>
+<p>Hinweis: Adobe empfiehlt, Ihre Kommunikation auf 1 pro Tag und 3 pro 7 Tage zu begrenzen, mit <b>non</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">operativ</a> blockierte E-Mails. KG - IST DAS GENAU?</td>
   </tr>
  </tbody> 
 </table>
@@ -171,19 +172,23 @@ Die folgende Checkliste wurde mit Eingaben von Marketo Champions zusammengestell
   </tr> 
   <tr> 
    <td>Feldverwaltung</td> 
-   <td><li>Wie viele Felder gibt es? Klicks <a href="/help/marketo/product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.md" target="_blank">Feldnamen exportieren</a> , um eine Liste Ihrer Felder, benutzerdefinierten Felder und deren API-Namen zu überprüfen.</li>
+   <td><li>Wie viele Felder gibt es? 
+   <br/>Klicks <a href="/help/marketo/product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.md" target="_blank">Feldnamen exportieren</a> , um eine Liste Ihrer Felder, benutzerdefinierten Felder und deren API-Namen zu überprüfen.</li>
 <li>Wie viele <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">benutzerdefinierte Felder</a> Gibt es sie?</li>
-<li>Wie viele Felder werden verwendet? Auswählen <a href="/help/marketo/product-docs/administration/field-management/export-used-by-data-for-a-field.md" target="_blank">Von</a> in der Dropdown-Liste Feldaktionen , um zugehörige Assets eines Felds zu überprüfen.</li>
+<li>Wie viele Felder werden verwendet? 
+<br/>Auswählen <a href="/help/marketo/product-docs/administration/field-management/export-used-by-data-for-a-field.md" target="_blank">Von</a> in der Dropdown-Liste Feldaktionen , um zugehörige Assets eines Felds zu überprüfen.</li>
 <li>Wie viele werden zwischen Marketo Engage und Ihrem CRM synchronisiert?</li>
 <li>Werden CRM-Felder mit den entsprechenden Objekten synchronisiert?</li>
 <li>Gibt es eine <a href="/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md" target="_blank">benutzerdefinierter Ansichtssatz</a> für Personendetails? Sollte es denn geben?</li>
-<li>Verfügen Sie über eine auf der Quelle basierende Namenskonvention für Ihre Felder? Wenn nicht, sollten Sie die Implementierung in Erwägung ziehen.</li>
-<li>Gibt es Felder? <a href="/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md" target="_blank">blockiert</a>? Verstehen Sie unbedingt, warum sie sind.</li></td>
+<li>Verfügen Sie über eine auf der Quelle basierende Namenskonvention für Ihre Felder? 
+<br/>Wenn nicht, sollten Sie die Implementierung in Erwägung ziehen.</li>
+<li>Gibt es Felder? <a href="/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md" target="_blank">blockiert</a>? 
+<br/>Verstehen Sie unbedingt, warum sie sind.</li></td>
   </tr>
   <tr> 
    <td>Eigene Aktivitäten</td> 
    <td><li>Gibt es <a href="/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md" target="_blank">benutzerdefinierte Aktivitäten</a>?</li>
-<li>Wenn ja, durchklicken Sie sie, um zu verstehen, welche Aktivitäten nicht mit einem Marketo-Formular, einer E-Mail oder einer Landingpage verbunden sind.</li></td>
+<br/>Wenn ja, durchklicken Sie sie, um zu verstehen, welche Aktivitäten nicht mit einem Marketo-Formular, einer E-Mail oder einer Landingpage verbunden sind.</td>
   </tr>
   <tr> 
    <td>benutzerdefinierte -Objekte</td> 
@@ -205,7 +210,8 @@ Die folgende Checkliste wurde mit Eingaben von Marketo Champions zusammengestell
    <td>CRM</td> 
    <td><li>Mit welchem CRM synchronisieren Sie? Salesforce? MS Dynamics? Veeva?</li>
 <li>Ist die benutzerdefinierte Synchronisierung oder bidirektional? (KG: KORREKTUR UND BEDEUTUNG DER PRÜFUNG)</li>
-<li>[Nur Salesforce] Ist für Ihre Instanz benutzerdefinierte Synchronisierungsfilter implementiert? Wenden Sie sich an den Marketo-Support, um benutzerdefinierte Synchronisierungsfilter zu ermitteln oder die Implementierung einer benutzerspezifischen Synchronisierungsregel anzufordern.</li></td>
+<li>[Nur Salesforce] Ist für Ihre Instanz benutzerdefinierte Synchronisierungsfilter implementiert? 
+<p>Hinweis: Wenden Sie sich an den Marketo-Support, um benutzerdefinierte Synchronisierungsfilter zu ermitteln oder die Implementierung einer benutzerspezifischen Synchronisierungsregel anzufordern.</li></td>
   </tr>
   <tr> 
    <td>Landing Pages</td> 
@@ -216,25 +222,28 @@ Die folgende Checkliste wurde mit Eingaben von Marketo Champions zusammengestell
 <li>sind <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md" target="_blank">personalisierte URLs</a> aktiviert?</li>
 <li>Gibt es Regeln für <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md" target="_blank">redirects</a>?</li>
 <li>Haben Sie Domain-Aliase? Verfolgen Sie in der Dokumentation, wie Sie Ihre Domain-Aliase verwenden?</li>
-<li>Is <a href="https://nation.marketo.com/t5/knowledgebase/setting-up-secured-domains-for-marketo-landing-pages-first-time/ta-p/250370" target="_blank">Sichere Domänen für Einstiegsseiten</a> aktiviert? Bestätigen Sie, ob Ihre Landingpage-Assets eine "http"-URL enthalten.</li></td>
+<li>Is <a href="https://nation.marketo.com/t5/knowledgebase/setting-up-secured-domains-for-marketo-landing-pages-first-time/ta-p/250370" target="_blank">Sichere Domänen für Einstiegsseiten</a> aktiviert? 
+<br/>Bestätigen Sie, ob Ihre Landingpage-Assets eine "http"-URL enthalten.</li></td>
   </tr>
   <tr> 
    <td>Munchkin</td> 
    <td><li>Ist Ihre <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Munchkin-Trackingcode</a> auf Ihrer Website (nicht in Marketo)?</li>
 <li>Ist eine <a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank">Nicht verfolgen</a> Browseranforderung aktiviert?</li>
-<li>Ist Ihre <a href="https://developers.marketo.com/javascript-api/lead-tracking/" target="_blank">Munchkin-API</a> konfiguriert? Wenn Ihnen die Dokumentation fehlt, in der sich der Munchkin-Code auf Ihrer Website befindet, beginnen Sie mit einer Schnellansicht. Verwenden Sie dazu den "Web Analytics-Bericht"in "Analytics", um zu verstehen, wo der Munchkin-Code auf Ihrer Website platziert wird.</li></td>
+<li>Ist Ihre <a href="https://developers.marketo.com/javascript-api/lead-tracking/" target="_blank">Munchkin-API</a> konfiguriert? 
+<p>Tipp: Wenn Ihnen die Dokumentation fehlt, in der sich der Munchkin-Code auf Ihrer Website befindet, beginnen Sie mit einer Schnellansicht. Verwenden Sie dazu den "Web Analytics-Bericht"in "Analytics", um zu verstehen, wo der Munchkin-Code auf Ihrer Website platziert wird. KG - IST DIES EINE GUTE TIPP</li></td>
   </tr>
   <tr> 
    <td>Web-Services</td> 
    <td><li>sind <a href="/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md" target="_blank">IP-Einschränkungen</a> aktiviert? Sollen sie das sein?</li>
 <li>Welche Benutzer/Apps führen API-Aufrufe in Ihrer Instanz durch?</li>
-<li>Haben Sie Ihr API-Limit erreicht oder stehen Sie kurz davor? Falls ja, sollten Sie sie erhöhen oder Ihre Instanz überprüfen, um diese API-Aufrufe zu reduzieren.</li></td>
+<li>Haben Sie Ihr API-Limit erreicht oder stehen Sie kurz davor? 
+<br/>Falls ja, sollten Sie sie erhöhen oder Ihre Instanz überprüfen, um diese API-Aufrufe zu reduzieren.</li></td>
   </tr>
   <tr> 
    <td>Marketo Sales Insight (falls zutreffend)</td> 
    <td><li>Hat die <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md" target="_blank">MSI-Paket installiert</a>?</li>
 <li>Habt ihr <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md" target="_blank">auf die neueste Version von Sales Insight aktualisiert</a>?</li>
-<li>Haben Sie die Konfiguration von Sales Insight abgeschlossen? Enterprise/Unlimited-Benutzer <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md" target="_blank">Klicken Sie hier</a>, Professional Users <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md" target="_blank">Klicken Sie hier</a>.</li>
+<li>Haben Sie die Konfiguration von Sales Insight abgeschlossen? <br/>Enterprise/Unlimited-Benutzer <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md" target="_blank">Klicken Sie hier</a>, Professional Users <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md" target="_blank">Klicken Sie hier</a>.</li>
 <li>Habt ihr <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md" target="_blank">Zugriff auf Ihre Benutzer</a> basierend auf der Anzahl der von Ihnen erworbenen Plätze?</li></td>
   </tr>
   <tr> 
@@ -272,7 +281,7 @@ Die folgende Checkliste wurde mit Eingaben von Marketo Champions zusammengestell
   <tr> 
    <td>Kampagnenprüfung</td> 
    <td><li>Is <a href="/help/marketo/product-docs/administration/settings/campaign-inspector.md" target="_blank">Kampagneninspektor</a> eingeschaltet?</li>
-<li>Ist dies nicht der Fall, sollten Sie es aktivieren, um einfach festzustellen, welche Kampagnen aktiv sind, mit Ihrem CRM-System zu synchronisieren und/oder Datensätze zu löschen.</li></td>
+<br/>Ist dies nicht der Fall, können Sie die Aktivierung in Erwägung ziehen, um einfach festzustellen, welche Kampagnen aktiv sind: aktive Kampagnen, Synchronisierung mit Ihrem CRM-System und/oder Löschen von Datensätzen.</td>
   </tr>
  </tbody> 
 </table>
