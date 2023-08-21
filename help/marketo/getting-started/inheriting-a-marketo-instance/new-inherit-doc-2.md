@@ -3,7 +3,7 @@ description: Vererben von Dokument 2 - Marketo-Dokumente - Produktdokumentation
 title: Erben von Doc 2
 hide: true
 hidefromtoc: true
-source-git-commit: e5fe19bd17e3da7991b09dfa17beb05d4efd58f6
+source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
 workflow-type: tm+mt
 source-wordcount: '384'
 ht-degree: 9%
@@ -30,7 +30,8 @@ Haben Sie eine vorhandene Marketo Engage-Instanz von einem anderen Administrator
    <td>Alle Personen</td> 
    <td><li>Wie viele Personen gibt es in der <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md" target="_blank">Datenbank</a>?</li>
 <li>Wenn Ihre Datenbank nahezu vollständig ist, empfiehlt Ihre Unternehmensrichtlinie, die Datenbankgröße zu erweitern oder historische Daten zu bereinigen?</li>
-<li>Ist Ihre Datenbank zu mindestens 85 % vermarktbar? Wenn Ihre unter diesen Schwellenwert fällt, sehen Sie sich die anderen System-Smart-Listen (Blockierungsliste, Marketing ausgesetzt, Duplikate, Abmeldung) mit größerer Sorgfalt an.</li></td>
+<li>Ist Ihre Datenbank zu mindestens 85 % vermarktbar? 
+<br/>Wenn Ihre Site unter diesen Schwellenwert fällt, sollten Sie sich die anderen System-Smart-Listen (Blockierungsliste, Marketing ausgesetzt, Duplikate, Abmeldung) mit größerer Sorgfalt ansehen.</li></td>
   </tr>
   <tr> 
    <td>Abgemeldete Person</td> 
@@ -40,9 +41,9 @@ Haben Sie eine vorhandene Marketo Engage-Instanz von einem anderen Administrator
   </tr>
   <tr> 
    <td>Marketing eingestellt</td> 
-   <td><li>Nach welchen Kriterien sind Sie für <a href="/help/marketo/product-docs/email-marketing/deliverability/durable-unsubscribe.md#marketing-suspended" target="_blank">Marketing ausgesetzt</a>? Gibt es zu viele Personen, die Marketing aussetzen?</li>
-<li>Wie lange sind die Unterlagen im Status der ausgesetzten Vermarktung erhalten geblieben?</li>
-<p>Anwendungsbeispiel für ausgesetzten Marketing: Datensätze, die aktiv am Vertrieb beteiligt sind, in verspäteten Gelegenheiten, für die Sie Marketingnachrichten unterdrücken möchten.</td>
+   <td><li>Nach welchen Kriterien sind Sie für <a href="/help/marketo/product-docs/email-marketing/deliverability/durable-unsubscribe.md#marketing-suspended" target="_blank">Marketing ausgesetzt</a>? Gibt es zu viele Personen, die Marketing ausgesetzt haben?</li>
+<li>Wie lange sind Datensätze im Status Ausgesetzt des Marketing erhalten geblieben?</li>
+<p>Anwendungsbeispiel für Marketing ausgesetzt: Datensätze, die aktiv am Vertrieb beteiligt sind, in verspäteten Gelegenheiten, für die Sie Marketing-Kommunikation unterdrücken möchten.</td>
   </tr>
    <tr> 
    <td>Blockierungsliste</td> 
@@ -54,11 +55,13 @@ Haben Sie eine vorhandene Marketo Engage-Instanz von einem anderen Administrator
   </tr>
   <tr> 
    <td>Mögliche Duplikate</td> 
-   <td><li>Wie viele <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md" target="_blank">potenziell doppelte Datensätze</a> Gibt es sie? Ziehen Sie das Löschen oder Zusammenführen in Erwägung.</li></td>
+   <td><li>Wie viele <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md" target="_blank">potenziell doppelte Datensätze</a> Gibt es sie?
+   <br/>Ziehen Sie das Löschen oder Zusammenführen in Erwägung.</li></td>
   </tr>
    <tr> 
    <td>Kein Akquisitionsprogramm</td> 
-   <td><li>Wie viele Menschen haben keine <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">Akquiseprogramm</a>? Wenn es viel gibt, überlegen Sie, warum.</li></td>
+   <td><li>Wie viele Menschen haben keine <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">Akquiseprogramm</a>?
+   <br/>Wenn es viel gibt, überlegen Sie, warum.</li></td>
   </tr>
  </tbody> 
 </table>
@@ -73,9 +76,9 @@ Haben Sie eine vorhandene Marketo Engage-Instanz von einem anderen Administrator
   </tr> 
   <tr> 
    <td>Smart Lists für Gruppen</td> 
-   <td><li>Welche Gruppen-Smart-Listen gibt es? Wie werden sie in dieser Instanz verwendet?</li>
-<li>Sind die Listen in einer zusammenhängenden Ordnerstruktur organisiert? Wenn Sie verwaiste Listen haben, sollten Sie Ihren Baum so organisieren, dass Assets einfach zu finden sind.</li>
-<p>Tipp: <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">Archivieren</a> Gruppenintelligente Listen, die nicht mehr für Abfragen, Berichte oder Verweise benötigt werden, um die Organisation und Leistung zu unterstützen.</td>
+   <td><li>Welche Smart-Listen gibt es? Wie werden sie in dieser Instanz verwendet?</li>
+<li>Sind die Listen in einer zusammenhängenden Ordnerstruktur organisiert? <br/>Wenn Sie verwaiste Listen haben, sollten Sie Ihren Baum so organisieren, dass Assets einfach zu finden sind.</li>
+<p>Tipp: <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">Archivieren</a> Smart-Listen gruppieren, die nicht mehr zum Abfragen, Reporting oder Verweisen benötigt werden, um die Organisation und Leistung zu unterstützen.</td>
   </tr>
  </tbody> 
 </table>
@@ -108,7 +111,8 @@ Haben Sie eine vorhandene Marketo Engage-Instanz von einem anderen Administrator
    <td>Segmentierungen</td> 
    <td><li>Welcher <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md" target="_blank">Segmentierungen</a> Gibt es sie? Wie werden sie verwendet?</li>
 <li>Sind zu viele Personen in <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md" target="_blank">Standardsegmente</a>?</li>
-<li>Gibt es eine Segmentierung für die vermarktbare Zielgruppe? Ist dies nicht der Fall, können Sie eine erstellen.</li></td>
+<li>Gibt es eine Segmentierung für die vermarktbare Zielgruppe? 
+<br/>Ist dies nicht der Fall, können Sie eine erstellen.</li></td>
   </tr>
  </tbody> 
 </table>

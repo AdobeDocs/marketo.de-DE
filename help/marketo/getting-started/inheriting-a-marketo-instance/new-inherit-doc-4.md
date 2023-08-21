@@ -3,7 +3,7 @@ description: Vererben Sie Doc 4 - Marketo Docs - Produktdokumentation
 title: Erben von Doc 4
 hide: true
 hidefromtoc: true
-source-git-commit: 75aa1f6c5f7d0c193787978a18900441aa9a8b82
+source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
 workflow-type: tm+mt
 source-wordcount: '419'
 ht-degree: 5%
@@ -64,7 +64,8 @@ Haben Sie eine vorhandene Marketo Engage-Instanz von einem anderen Administrator
   </tr>
   <tr> 
    <td>Datenschutz und Compliance</td> 
-   <td><li>Entspricht Ihre Formularstrategie Ihren Anforderungen an den Datenschutz und die Anmeldung von Unternehmensdaten? Überlegen <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">Die Datenschutz-Grundverordnung (DSGVO)</a>, CASL (kanadisches Anti-Spam-Gesetz), das Controlling the Assault of Non-Solicited Pornography and Marketing Act von 2003 (CAN-SPAM), California Consumer Privacy Act (CCPA) usw. zur Einhaltung der Vorschriften.</li>
+   <td><li>Entspricht Ihre Formularstrategie Ihren Anforderungen an den Datenschutz und die Anmeldung von Unternehmensdaten? 
+   <br/>Überlegen <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">Die Datenschutz-Grundverordnung (DSGVO)</a>, CASL (kanadisches Anti-Spam-Gesetz), das Controlling the Assault of Non-Solicited Pornography and Marketing Act von 2003 (CAN-SPAM), California Consumer Privacy Act (CCPA) usw. zur Einhaltung von Vorschriften.</li>
 <p>Tipp: Denken Sie daran, sich immer an Ihr Rechtsabteilung zu diesen Fragen zu wenden. Fragen Sie Ihr Team nach früheren Initiativen, um die Einhaltung zu gewährleisten, bevor Sie Änderungen vornehmen.</td>
   </tr>
  </tbody> 
@@ -104,7 +105,8 @@ Haben Sie eine vorhandene Marketo Engage-Instanz von einem anderen Administrator
   </tr> 
   <tr> 
    <td>Ausschnitte</td> 
-   <td><li>Wie viele <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md" target="_blank">Snippets</a> Gibt es sie? Werden sie verwendet? Wenn nicht, sollten Sie sie für <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md" target="_blank">email</a> und <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md" target="_blank">Landingpage</a> Fußzeileninhalt, Logos und mehr.</li></td>
+   <td><li>Wie viele <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md" target="_blank">Snippets</a> Gibt es sie? Werden sie verwendet? 
+   <br/>Wenn nicht, sollten Sie sie für <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md" target="_blank">email</a> und <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md" target="_blank">Landingpage</a> Fußzeileninhalt, Logos und mehr.</li></td>
   </tr>
  </tbody> 
 </table>
