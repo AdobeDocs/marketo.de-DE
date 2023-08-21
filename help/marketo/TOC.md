@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 5602a0a771127a341a4c269739aca6e2a4e78d40
+source-git-commit: b5cd0192eefab83bca047094de42eede479c755a
 workflow-type: tm+mt
-source-wordcount: '9021'
+source-wordcount: '9027'
 ht-degree: 5%
 
 ---
@@ -38,6 +38,7 @@ ht-degree: 5%
       + [Landing Page umleiten](getting-started/quick-wins/redirect-a-landing-page.md)
       + [Automatisieren eines Warnhinweises für mögliche doppelte Personen](getting-started/quick-wins/advanced-solutions/automate-an-alert-for-possible-duplicate-people.md)
    + Vererben einer Marketo-Instanz {#inheriting-a-marketo-instance}
+      + [Neue Übersicht über die Vererbung](getting-started/inheriting-a-marketo-instance/new-inherit-overview.md)
       + [Hilfe! Ich habe eine vorhandene Marketo-Instanz übernommen.](getting-started/inheriting-a-marketo-instance/help-ive-inherited-an-existing-marketo-instance.md)
       + [Elemente zum Deaktivieren](getting-started/inheriting-a-marketo-instance/items-to-check-off.md)
       + [Was überprüft werden muss: Kernkompetenzen](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
@@ -46,6 +47,7 @@ ht-degree: 5%
       + [Neuer Abschnitt &quot;Vererbung&quot;](getting-started/inheriting-a-marketo-instance/new-inherit-doc-2.md)
       + [Neuer Abschnitt &quot;Vererbung&quot;](getting-started/inheriting-a-marketo-instance/new-inherit-doc-3.md)
       + [Neuer Abschnitt &quot;Vererbung&quot; 4](getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)
+      + [New Inherit Doc 5](getting-started/inheriting-a-marketo-instance/new-inherit-doc-5.md)
 + Produktdokumentationen {#product-docs}
    + Zusätzliche Apps {#additional-apps}
       + SEO {#seo}
