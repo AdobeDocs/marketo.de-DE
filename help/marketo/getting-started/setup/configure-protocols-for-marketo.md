@@ -4,10 +4,10 @@ description: Konfigurieren von Protokollen für Marketo - Marketo Docs - Produkt
 title: Protokolle für Marketo konfigurieren
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 9d1b18b2aebde00ae715a072580a8f128d07923e
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1024'
+ht-degree: 4%
 
 ---
 
@@ -27,6 +27,7 @@ Wenn Ihr IT-Team den Webzugriff mithilfe einer Zulassungsliste einschränkt, bit
 * `*.marketodesigner.com`
 * `*.mktoweb.com`
 * `*.experience.adobe.com`
+* `*.adobe.net`
 
 ## Schritt 1: DNS-Einträge für Landingpages und E-Mails erstellen {#step-create-dns-records-for-landing-pages-and-email}
 
@@ -121,7 +122,7 @@ Ein MX-Datensatz ermöglicht es Ihnen, E-Mails an die Domain zu erhalten, von de
 
 ## Ausgehende IP-Adressen {#outbound-ip-addresses}
 
-Eine ausgehende Verbindung erfolgt per Marketo Engage an einen Server im Internet in Ihrem Namen. Einige Partner/Anbieter, mit denen Sie zusammenarbeiten, oder Ihre eigene IT-Organisation können Zulassungslisten verwenden, um den Zugriff auf Server zu beschränken. In diesem Fall müssen Sie ihnen ausgehende IP-Adressblöcke aus dem Marketo Engage bereitstellen, um sie ihren auf die Zulassungsliste setz hinzuzufügen.
+Eine ausgehende Verbindung wird durch Marketo Engage an einen Server im Internet in Ihrem Namen hergestellt. Einige Partner/Anbieter, mit denen Sie zusammenarbeiten, oder Ihre eigene IT-Organisation können Zulassungslisten verwenden, um den Zugriff auf Server zu beschränken. In diesem Fall müssen Sie ihnen ausgehende IP-Adressblöcke mit Marketo Engage zur Verfügung stellen, um sie zu ihren auf die Zulassungsliste setz hinzuzufügen.
 
 **Webhooks**
 
@@ -131,9 +132,9 @@ Marketo Engage [Webhooks](/help/marketo/product-docs/administration/additional-i
 
 Marketo Engage [Salesforce CRM Sync](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target="_blank"} and [Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target="_blank"} sind Integrationsmechanismen, die ausgehende HTTP-Anfragen an APIs senden, die von Ihrem CRM-Anbieter veröffentlicht werden. Sie müssen sicherstellen, dass Ihre IT-Organisation den Zugriff auf Ihre CRM-Anbieter-APIs nicht durch einen der unten stehenden IP-Adressblöcke blockiert.
 
-**Ausgehende IP-Adressblöcke aus Marketo Engage**
+**Marketo Engage Ausgehende IP-Adressblöcke**
 
-Die folgenden Tabellen enthalten alle Marketo Engage-Server, die ausgehende Aufrufe durchführen. Verwenden Sie die folgenden Listen, wenn Sie IP-Zulassungslisten, Server, Firewall, Zugriffssteuerungsliste, Sicherheitsgruppe oder Dienste von Drittanbietern konfigurieren, um ausgehende Verbindungen von Marketo Engage zu erhalten.
+Die folgenden Tabellen decken alle Marketo Engage-Server ab, die ausgehende Aufrufe durchführen. Verwenden Sie die folgenden Listen, wenn Sie IP-Zulassungslisten, Server, Firewall, Zugriffssteuerungsliste, Sicherheitsgruppe oder Dienste von Drittanbietern konfigurieren, um ausgehende Verbindungen von Marketo Engage zu empfangen.
 
 <table>
  <tbody>
