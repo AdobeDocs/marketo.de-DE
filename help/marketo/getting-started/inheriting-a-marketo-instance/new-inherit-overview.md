@@ -3,22 +3,38 @@ description: Erfahren Sie, wie Sie eine von Ihnen geerbte Marketo Engage-Instanz
 title: Starten einer geerbten Marketo Engage-Instanz
 hide: true
 hidefromtoc: true
-source-git-commit: b5cd0192eefab83bca047094de42eede479c755a
+source-git-commit: b449dd568bd382dc9abd1c4f023e09962ac52081
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '353'
 ht-degree: 2%
 
 ---
 
 # Starten einer geerbten Marketo Engage-Instanz {#jumpstart-an-inherited-marketo-engage-instance}
 
-Starten eines neuen Auftrags oder Übernehmen einer vorhandenen Instanz von einem anderen Administrator? Die Übernahme einer Live-Instanz, die schon seit einiger Zeit läuft, kann ein wenig beängstigend erscheinen, aber dieser Leitfaden wird Ihnen helfen.
+Starten eines neuen Auftrags oder Übernehmen einer vorhandenen Instanz von einem anderen Administrator? Die Übernahme einer Live-Instanz, die schon seit einiger Zeit läuft, kann ein wenig beängstigend erscheinen, aber dieser Leitfaden hilft Ihnen, in kürzester Zeit aufzustehen und zu laufen.
 
-Verwenden Sie die Checkliste &quot;Auditverwaltung der Marketo Engage-Instanz&quot;, um Ihre Instanz zu überprüfen und zu testen, Fehler zu beheben und rote Flags zu untersuchen, bevor sie zu einem Problem werden.
+## Elemente zum Deaktivieren {#items-to-check-off}
+
+Stellen Sie sicher, dass Sie über die richtigen Arten von Zugriff und Informationen verfügen.
+
+* Einen kurzen Überblick über **Funktionsweise von Marketo** - KG - ENTWEDER BESSERES VIDEO ODER DELETE FINDEN
+
+* **Profil einrichten** im [**Marketing-Nation**](https://nation.marketo.com/){target="_blank"} Community (Benutzername und Kennwort erforderlich).
+
+* Lesen Sie im Abschnitt [**Marketing Community-Richtlinien**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
+
+* Klicks **[!UICONTROL Ihre Orte]** in Ihrem Marketo Nation-Community-Profil , um die Kontoseite Ihres Unternehmens anzuzeigen.
+
+* Erfahren Sie, wie [**Support-Fall einreichen**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"} (and confirm you're [**set up as an authorized support contact**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}).
+
+* [**Benutzer verwalten**](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md){target="_blank"} und löschen Sie diejenigen, die Ihr Unternehmen verlassen haben.
 
 ## Übernommene Audit-Handbücher für Instanzen {#inherited-instance-audit-guides}
 
-Die folgenden Online-Handbücher helfen Ihnen dabei, in den verschiedenen Bereichen des Marketo Engage zu navigieren und die verschiedenen für eine Prüfung erforderlichen Aufgaben zu behandeln. Sie enthalten Links zur empfohlenen Hilfedokumentation. Sie können die Checkliste auch als Tabellenformular herunterladen.
+Die folgenden Checklisten wurden mit Eingaben von Marketo Champions zusammengestellt, damit Sie sich schnell auf den Weg machen können. Erfahren Sie, wie Sie in den verschiedenen Bereichen des Marketo Engage navigieren und die verschiedenen für eine Prüfung erforderlichen Aufgaben ausführen können. Links zur empfohlenen Hilfedokumentation sind enthalten.
+
+Sie können die Checklisten auch in Tabellenform herunterladen.
 
 * [Admin-Bereich](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-1.md)
 
@@ -30,19 +46,14 @@ Die folgenden Online-Handbücher helfen Ihnen dabei, in den verschiedenen Bereic
 
 * [Dokumentieren Sie die Einrichtung Ihrer geerbten Instanz.](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-5.md)
 
+## Hilfen {#ways-to-get-help}
 
-H2: Bist du neu zum Marketo Engage? Hier sind die Voraussetzungen:
+Benötigen Sie weitere Hilfe? Stellen Sie über die unten stehenden Links eine Verbindung zu uns oder anderen Marketo Engage-Benutzern her.
 
-Elemente zum Deaktivieren
+* Für technische Hilfe bei Problemen, die nicht ordnungsgemäß funktionieren, wenden Sie sich an **[Marketo Engage-Kundenunterstützung](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}**.
 
-Was überprüft werden muss: Kernkompetenzen
+* Stellen Sie eine Verbindung zu anderen Marketo Engage-Benutzern her und lernen Sie von ihnen aus **[Marketing-Nation](https://nation.marketo.com/){target="_blank"}**.
 
-Hilfen
+* Wenden Sie sich für praktische Unterstützung beim Optimum aus Ihrer Marketo Engage-Instanz an **[Adobe Professional Services](https://business.adobe.com/products/marketo/services-support.html)**.
 
-
-
-H2: Lassen Sie sich inspirieren und verbinden Sie sich mit Kollegen
-
-
-
-Besuchen Sie die Community von Marketing Nation , um zu erfahren, wie andere Administratoren eine geerbte Instanz effizienter prüfen können.
+* Um Ihre Marketo Engage-Fähigkeiten zu verbessern, durchsuchen Sie die **[Marketo Engage-Kurskatalog](https://learning.adobe.com/catalog.html?products=Marketo%20Engage){target="_blank"}**.
