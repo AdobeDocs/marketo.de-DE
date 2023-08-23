@@ -3,20 +3,16 @@ description: Vererben Sie Doc 4 - Marketo Docs - Produktdokumentation
 title: Erben von Doc 4
 hide: true
 hidefromtoc: true
-source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
+source-git-commit: d7334acc31456b640a128c699d07a6b4af330469
 workflow-type: tm+mt
-source-wordcount: '419'
+source-wordcount: '506'
 ht-degree: 5%
 
 ---
 
 # Erben von Doc 4 {#inherit-doc-4}
 
-Haben Sie eine vorhandene Marketo Engage-Instanz von einem anderen Administrator übernommen? Wenn ja, ist dieser Artikel für Sie.
-
->[!TIP]
->
->Wenn Sie ein neuer Marketo Engage-Benutzer sind und nicht mit vielen der Begriffe vertraut sind, sehen Sie sich bitte die [Marketo-Glossar](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
+Die Strukturierung von Vorlagen und das Erstellen globaler Formulare, Snippets sowie Bilder und Dateien tragen dazu bei, Datenfehler zu minimieren und den Arbeitsablauf für Ihren Programmaufbau zu optimieren.
 
 ## Landing Pages {#landing-pages}
 
@@ -35,6 +31,10 @@ Haben Sie eine vorhandene Marketo Engage-Instanz von einem anderen Administrator
    <td><li>Wie viele <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-free-form-landing-page-template.md" target="_blank">Landingpage-Vorlagen</a> Gibt es sie? Werden sie genutzt?</li></td>
   </tr>
   <tr> 
+   <td>Testgruppen</td> 
+   <td><li>Wie viele <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md" target="_blank">Einstiegsseiten-Testgruppen</a> Sind sie das? Sind sie alle noch relevant?</li></td>
+  </tr>
+   <tr> 
    <td>Datenschutz und Compliance</td> 
    <td><li>Haben alle Ihre Landingpages die entsprechenden Fußzeilen?</li></td>
   </tr>
@@ -88,6 +88,10 @@ Haben Sie eine vorhandene Marketo Engage-Instanz von einem anderen Administrator
    <td><li>Wie viele <a href="/help/marketo/product-docs/email-marketing/general/email-editor-2/create-an-email-template.md" target="_blank">E-Mail-Vorlagen</a> Gibt es sie? Werden sie genutzt?</li></td>
   </tr>
   <tr> 
+   <td>E-Mail-Tests</td> 
+   <td><li>Verwendung <a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/understanding-email-testing-options.md" target="_blank">E-Mail-Tests</a>? Ist Ihre Methode noch effektiv?</li></td>
+  </tr>
+  <tr> 
    <td>Datenschutz und Compliance</td> 
    <td><li>Haben alle Ihre E-Mails die entsprechenden Fußzeilen? Betrachten Sie DSGVO, CASL, CAN-SPAM, CCPA usw. für die Einhaltung der Vorschriften.</li>
 <p>Tipp: Denken Sie daran, sich immer an Ihr Rechtsabteilung zu diesen Compliance-Fragen zu wenden. Fragen Sie Ihr Team nach früheren Initiativen, um die Einhaltung zu gewährleisten, bevor Sie Änderungen vornehmen.</td>
@@ -135,3 +139,30 @@ Haben Sie eine vorhandene Marketo Engage-Instanz von einem anderen Administrator
   </tr>
  </tbody> 
 </table>
+
+## Alle Assets {#all-assets}
+
+<table style="table-layout:auto"> 
+ <tbody> 
+  <tr> 
+   <th>Bereich</th> 
+   <th>Fokus überprüfen</th>
+  </tr> 
+  <tr> 
+   <td>Asset-Status</td> 
+   <td><li>Anzahl der Assets in <i>Entwurf</i> und <i>Genehmigt mit Entwurf</i> status?
+   <br/>Wenn es viele gibt, sollten Sie sie löschen oder genehmigen.</li></td>
+  </tr>
+  <tr> 
+   <td>Asset-Freigabe</td> 
+   <td><li>Welche Assets sind <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md#sharing-across-workspaces" target="_blank">über Arbeitsbereiche hinweg freigegeben</a>?</li>
+   <p>Hinweis: Es ist wichtig, dies zu wissen, da in einem Arbeitsbereich durchgeführte Aktionen dazu führen können, dass ein Asset in einem anderen Arbeitsbereich für einen anderen Benutzer nicht zugänglich ist.</td>
+  </tr>
+ </tbody> 
+</table>
+
+<br> 
+
+[Audit und geerbte Marketingaktivitäten](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-3.md)
+
+[Prüfen einer geerbten Instanz: Dokumentieren Sie die Einrichtung Ihrer geerbten Instanz ►](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-5.md)
