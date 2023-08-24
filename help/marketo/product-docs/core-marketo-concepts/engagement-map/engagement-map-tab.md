@@ -2,9 +2,9 @@
 description: Registerkarte "Interaktionszuordnung"- Marketo-Dokumente - Produktdokumentation
 title: Registerkarte "Interaktionskarte"
 exl-id: f54b9258-451b-4607-b5a9-f8627c6f420a
-source-git-commit: d41324dbde32ee731b3ce9c3416888e8088a2daa
+source-git-commit: 4ada58abaed493e548573e9c48c3ee544b6f4476
 workflow-type: tm+mt
-source-wordcount: '902'
+source-wordcount: '949'
 ht-degree: 0%
 
 ---
@@ -122,9 +122,17 @@ Im Folgenden finden Sie ein Beispiel für eine Anforderungskampagne mit Auswahlm
 
 ## Umgang mit Fehlern {#error-handling}
 
-Fehler in Smart-Listen und Fluss-Schritten werden über ein Fehlersymbol auf der Karte hervorgehoben. Darüber hinaus wird eine entsprechende Fehlermeldung im Dia-out-Bedienfeld angezeigt.
+Fehler in Smart-Listen und Fluss-Schritten werden über ein rotes Symbol auf der Karte markiert. Darüber hinaus wird eine entsprechende Fehlermeldung im Dia-out-Bedienfeld angezeigt.
 
-Unten finden Sie ein Beispiel für einen Fehler in einem Trigger, der auf der Übersichtskarte &quot;Trigger&quot;, im Slide-out-Bedienfeld und auf der Detailkarte des Triggers angezeigt wird.
+Warnungen in Smart-Listen und Flussschritten werden über ein orangefarbenes Symbol auf der Karte hervorgehoben. Darüber hinaus wird eine entsprechende Warnmeldung im Dias-out-Bedienfeld angezeigt.
+
+Unten finden Sie ein Beispiel für eine Warnung in einer Auswahlkarte, die auf der Schrittkarte &quot;Kampagnenfluss ausführen&quot;, im Dia-out-Bedienfeld und der Standardauswahl angezeigt wird.
+
+![](assets/engagement-map-tab-18.png)
+
+>[!NOTE]
+>
+>Warnungen sind Empfehlungen, die überprüft werden sollten, zeigen aber nicht auf Fehler in der Smart-Kampagne an.
 
 **Fehler in Filterkarten können Folgendes enthalten:**
 
