@@ -3,20 +3,16 @@ description: Vererben von Dokument 2 - Marketo-Dokumente - Produktdokumentation
 title: Erben von Doc 2
 hide: true
 hidefromtoc: true
-source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
+source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
 workflow-type: tm+mt
-source-wordcount: '384'
+source-wordcount: '369'
 ht-degree: 9%
 
 ---
 
 # Erben von Doc 2 {#inherit-doc-2}
 
-Haben Sie eine vorhandene Marketo Engage-Instanz von einem anderen Administrator übernommen? Wenn ja, ist dieser Artikel für Sie.
-
->[!TIP]
->
->Wenn Sie ein neuer Marketo Engage-Benutzer sind und nicht mit vielen der Begriffe vertraut sind, sehen Sie sich bitte die [Marketo-Glossar](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
+Verstehen Sie die Gesamtzahl der Personen, vermarktbaren Personen und der Personen, die in Ihrem Abonnement die meisten Personen erwerben.
 
 ## Smart Lists für System {#system-smart-lists}
 
@@ -116,3 +112,9 @@ Haben Sie eine vorhandene Marketo Engage-Instanz von einem anderen Administrator
   </tr>
  </tbody> 
 </table>
+
+<br> 
+
+[Audit und geerbte Instanz: Admin](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-1.md)
+
+[Prüfen einer vererbten Instanz: Marketingaktivitäten ►](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-3.md)

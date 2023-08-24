@@ -3,20 +3,16 @@ description: Vererben Sie Doc 3 - Marketo Docs - Produktdokumentation
 title: Erben von Doc 3
 hide: true
 hidefromtoc: true
-source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
+source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
 workflow-type: tm+mt
-source-wordcount: '843'
+source-wordcount: '801'
 ht-degree: 2%
 
 ---
 
 # Erben von Doc 3 {#inherit-doc-3}
 
-Haben Sie eine vorhandene Marketo Engage-Instanz von einem anderen Administrator übernommen? Wenn ja, ist dieser Artikel für Sie.
-
->[!TIP]
->
->Wenn Sie ein neuer Marketo Engage-Benutzer sind und nicht mit vielen der Begriffe vertraut sind, sehen Sie sich bitte die [Marketo-Glossar](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
+Bei Marketingaktivitäten kann Ihr Marketing-Team Smart-Kampagnen erstellen, Kreativ-Assets erstellen (z. B. E-Mails und Landingpages) und die Asset-Leistung anzeigen.
 
 ## Organisation {#organization}
 
@@ -45,9 +41,9 @@ Haben Sie eine vorhandene Marketo Engage-Instanz von einem anderen Administrator
   </tr>
   <tr> 
    <td>Archivieren</td> 
-   <td><li>Ältere Programme <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">archiviert</a>? 
-   <br/>Die Best Practice ist, jedes Jahr zu überprüfen. KG - IST DAS WAHR?</li>
-<li>Wie oft überprüft und archiviert Ihr Unternehmen alte Programme?</li></td>
+   <td><li>Ältere Programme <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">archiviert</a>?</li>
+<li>Wie oft überprüft und archiviert Ihr Unternehmen alte Programme?</li>
+<p>Tipp: Es ist gut, jedes Jahr eine Überprüfung durchzuführen.</td>
   </tr>
   <tr> 
    <td>Benachrichtigungen</td> 
@@ -83,8 +79,7 @@ Haben Sie eine vorhandene Marketo Engage-Instanz von einem anderen Administrator
 <li>Wie viele <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md" target="_blank">Menschen sind erschöpft</a>? 
 <br/>Wenn es viele erschöpfte Personen gibt, sollten Sie Inhalt hinzufügen.</li>
 <li>Sind Menschen mit dem Inhalt beschäftigt? 
-<br/>Falls nicht, sollten Sie sie aktualisieren und/oder A/B-Tests durchführen.</li>
-<li><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/see-members-of-an-engagement-program.md" target="_blank">Wie viele Personen</a> KG - GIBT ES EINE MÖGLICHKEIT, ALLE PROGRAMME AUF EINMAL ZU SEHEN? DENKEN SIE NICHT SO, STELLEN SIE JEDOCH SICHER, DASS es sich bei mehr als einem Interaktionsprogramm handelt? Sollen sie mehrere sein?</li></td>
+<br/>Falls nicht, sollten Sie sie aktualisieren und/oder A/B-Tests durchführen.</li></td>
   </tr>
   <tr> 
    <td>Stapelkampagnen</td> 
@@ -169,3 +164,9 @@ Haben Sie eine vorhandene Marketo Engage-Instanz von einem anderen Administrator
   </tr>
  </tbody> 
 </table>
+
+<br> 
+
+[Datenbank bearbeiten](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-2.md)
+
+[Prüfen einer geerbten Instanz: Design Studio ►](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)

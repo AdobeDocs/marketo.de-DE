@@ -3,16 +3,16 @@ description: Vererben Sie Doc 5 - Marketo Docs - Produktdokumentation
 title: Erben von Doc 5
 hide: true
 hidefromtoc: true
-source-git-commit: dcfbd50df5ef642c3c94b96be938a43f30e8288b
+source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
 workflow-type: tm+mt
-source-wordcount: '174'
-ht-degree: 4%
+source-wordcount: '228'
+ht-degree: 2%
 
 ---
 
 # Erben von Doc 5 {#inherit-doc-5}
 
-Text
+Nachdem Sie nun die wichtigsten Produktbereiche kennen gelernt haben, die bei der Vererbung einer etablierten Instanz geprüft werden müssen, besteht der nächste Schritt darin, die Dokumentation zu Ihrer Instanzkonfiguration und dem technischen Stack zu erstellen/zu aktualisieren. Egal ob Sie eine Vorlage über eine Tabellenkalkulation oder eine Anwendung für das Projektmanagement erstellen - Ihre Dokumentation ist eine großartige Ressource, um den Fortschritt zu verfolgen und Details aufzuzeichnen.
 
 ## Daten {#data}
 
@@ -51,7 +51,7 @@ Text
   <tr> 
    <td>Organisation</td> 
     <td><li>Verfügen Sie über eine zuverlässige Dokumentation darüber, wie Ihre Marketo Engage-Instanz organisiert ist und warum?</li>
-   <p>Aktionselement: Erstellen Sie eine Dokumentation mit Ordnerstruktur, Namenskonvention und Kanälen/Status KG - STATUTES? in Ihrer -Instanz verwendet.</td>
+   <p>Aktionselement: Erstellen Sie eine Dokumentation, die die Ordnerstruktur, die Namenskonvention und die in Ihrer Instanz verwendeten Kanäle enthält.</td>
   </tr>
   <tr> 
    <td>Changelog</td> 
@@ -69,3 +69,5 @@ Text
   </tr>
  </tbody> 
 </table>
+
+[Audit und geerbte Instanz](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)

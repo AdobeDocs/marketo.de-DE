@@ -3,20 +3,18 @@ description: Vererben von Dokument 1 - Marketo-Dokumente - Produktdokumentation
 title: Erben von Doc 1
 hide: true
 hidefromtoc: true
-source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
+source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
 workflow-type: tm+mt
-source-wordcount: '1223'
+source-wordcount: '1229'
 ht-degree: 4%
 
 ---
 
 # Erben von Doc 1 {#inherit-doc-1}
 
-Die Prüfung einer geerbten Instanz kann wie eine ...
+Als neuer Adobe Marketo Engage-Administrator müssen Sie verschiedene Aufgaben ausführen, um den Zustand und die Lebensfähigkeit Ihrer geerbten Instanz zu überprüfen.
 
-Haben Sie eine vorhandene Marketo Engage-Instanz von einem anderen Administrator übernommen? Wenn ja, ist dieser Artikel für Sie...
-
-Die folgende Checkliste wurde mit Eingaben von Marketo Champions zusammengestellt, um Ihnen dabei zu helfen, schnell in Ihrer geerbten Instanz zu arbeiten...
+Die folgenden Checklisten (nachfolgende Checklisten, die am Ende jedes Artikels mit verknüpft sind) wurden mit Eingaben von Marketo Champions zusammengestellt, damit Sie schnell auf den neuesten Stand kommen können. Dokumentieren Sie den Fortschritt in der Checkliste für die geerbte Instanz von Marketo Engage.
 
 >[!TIP]
 >
@@ -112,12 +110,12 @@ Die folgende Checkliste wurde mit Eingaben von Marketo Champions zusammengestell
   <tr> 
    <td>Einstellungen für intelligente Kampagne</td> 
    <td><li><a href="/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md" target="_blank">Haben Sie Einschränkungen?</a> zur Größe von Smart-Kampagnen? 
-   <br/>Ist dies nicht der Fall, können Sie eine hinzufügen. Es wird empfohlen, die Grenze für intelligente Kampagnen auf 25 % Ihrer Datenbank zu begrenzen, um eine Überkommunikation oder Verarbeitung Ihrer gesamten Datenbank in Workflows zu vermeiden. Dies schützt nicht nur Ihre Marke, sondern schützt auch die Leistung Ihrer Instanz. KG - IST DAS GENAU?</li></td>
+   <br/>Ist dies nicht der Fall, können Sie eine hinzufügen. Es wird empfohlen, die Beschränkung der intelligenten Kampagne auf 25 % Ihrer Datenbank zu begrenzen, um eine Überkommunikation oder Verarbeitung Ihrer gesamten Datenbank in Workflows zu vermeiden. Dies schützt nicht nur Ihre Marke, sondern schützt auch die Leistung Ihrer Instanz.</li></td>
   </tr>
  </tbody> 
 </table>
 
-## Kommunikationsbeschränkungen {#communication-limits}
+## Kommunikationsbeschr {#communication-limits}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -126,9 +124,9 @@ Die folgende Checkliste wurde mit Eingaben von Marketo Champions zusammengestell
    <th>Fokus überprüfen</th>
   </tr> 
   <tr> 
-   <td>Kommunikationsbeschränkungen</td> 
+   <td>Kommunikationsbeschr</td> 
    <td><li>Gibt es <a href="/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md" target="_blank">Kommunikationsbeschränkungen</a> vorhanden? Verfügt Ihr Unternehmen über Richtlinien, bei denen Kommunikationsbeschränkungen erforderlich sein könnten?</li>
-<p>Hinweis: Adobe empfiehlt, Ihre Kommunikation auf 1 pro Tag und 3 pro 7 Tage zu begrenzen, mit <b>non</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">operativ</a> blockierte E-Mails. KG - IST DAS GENAU?</td>
+<p>Hinweis: Adobe empfiehlt, Ihre Kommunikation auf 1 pro Tag und 3 pro 7 Tage zu begrenzen, mit <b>non</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">operativ</a> blockierte E-Mails.</td>
   </tr>
  </tbody> 
 </table>
@@ -209,7 +207,7 @@ Die folgende Checkliste wurde mit Eingaben von Marketo Champions zusammengestell
   <tr> 
    <td>CRM</td> 
    <td><li>Mit welchem CRM synchronisieren Sie? Salesforce? MS Dynamics? Veeva?</li>
-<li>Ist die benutzerdefinierte Synchronisierung oder bidirektional? (KG: KORREKTUR UND BEDEUTUNG DER PRÜFUNG)</li>
+<li>Verwenden Sie eine benutzerdefinierte Synchronisierung?</li>
 <li>[Nur Salesforce] Ist für Ihre Instanz benutzerdefinierte Synchronisierungsfilter implementiert? 
 <p>Hinweis: Wenden Sie sich an den Marketo-Support, um benutzerdefinierte Synchronisierungsfilter zu ermitteln oder die Implementierung einer benutzerspezifischen Synchronisierungsregel anzufordern.</li></td>
   </tr>
@@ -313,3 +311,7 @@ Die folgende Checkliste wurde mit Eingaben von Marketo Champions zusammengestell
   </tr>
  </tbody> 
 </table>
+
+<br> 
+
+[Prüfen einer geerbten Instanz: Datenbank ►](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-2.md)

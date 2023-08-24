@@ -3,9 +3,9 @@ description: Ausführen von Campaign - Marketo Docs - Produktdokumentation
 title: Kampagne ausführen
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
 workflow-type: tm+mt
-source-wordcount: '708'
+source-wordcount: '709'
 ht-degree: 1%
 
 ---
@@ -103,7 +103,7 @@ Die Ergebnisse: Die Punktzahl wurde um +10 geändert.
 
 **Beispiel 2: False**
 
-Im Filter Kampagne ausführen der zweiten übergeordneten Kampagne ist &quot;Kontext des übergeordneten Kampagnen-Tokens verwenden&quot;auf **False**.
+Im Schritt Kampagnenfluss ausführen der zweiten übergeordneten Kampagne ist &quot;Kontext des übergeordneten Kampagnen-Tokens verwenden&quot;auf **False**.
 
 ![](assets/execute-campaign-8.png)
 

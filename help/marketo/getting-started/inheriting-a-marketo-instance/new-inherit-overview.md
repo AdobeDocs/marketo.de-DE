@@ -3,9 +3,9 @@ description: Erfahren Sie, wie Sie eine von Ihnen geerbte Marketo Engage-Instanz
 title: Starten einer geerbten Marketo Engage-Instanz
 hide: true
 hidefromtoc: true
-source-git-commit: b449dd568bd382dc9abd1c4f023e09962ac52081
+source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
 workflow-type: tm+mt
-source-wordcount: '353'
+source-wordcount: '335'
 ht-degree: 2%
 
 ---
@@ -55,5 +55,3 @@ Benötigen Sie weitere Hilfe? Stellen Sie über die unten stehenden Links eine V
 * Stellen Sie eine Verbindung zu anderen Marketo Engage-Benutzern her und lernen Sie von ihnen aus **[Marketing-Nation](https://nation.marketo.com/){target="_blank"}**.
 
 * Wenden Sie sich für praktische Unterstützung beim Optimum aus Ihrer Marketo Engage-Instanz an **[Adobe Professional Services](https://business.adobe.com/products/marketo/services-support.html)**.
-
-* Um Ihre Marketo Engage-Fähigkeiten zu verbessern, durchsuchen Sie die **[Marketo Engage-Kurskatalog](https://learning.adobe.com/catalog.html?products=Marketo%20Engage){target="_blank"}**.
