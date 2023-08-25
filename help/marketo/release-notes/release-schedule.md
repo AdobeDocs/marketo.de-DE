@@ -1,21 +1,21 @@
 ---
 unique-page-id: 5472490
 description: Versionsplanung – Marketo-Dokumente – Produktdokumentation
-title: Versionsplanung
+title: Veröffentlichungszeitplan
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 69d3dad7837ae4b5a65889c10c0fcb23c46591c1
 workflow-type: tm+mt
 source-wordcount: '135'
-ht-degree: 8%
+ht-degree: 10%
 
 ---
 
-# Versionsplanung {#release-schedule}
+# Veröffentlichungszeitplan {#release-schedule}
 
-**Version**: Monat/Jahr jeder Veröffentlichung. Sobald die Versionshinweise verfügbar sind, werden sie in der folgenden Tabelle verlinkt.
+**Version**: Der Monat/das Jahr jeder Version. Sobald die Versionshinweise verfügbar sind, werden sie in der folgenden Tabelle verlinkt.
 
-**Veröffentlichungsdatum**: Der Rollout beginnt normalerweise am Dienstag der Release-Woche, wobei der Großteil der Aktualisierung Freitagabend stattfindet. Eine E-Mail mit bestimmten Daten und Versionsinformationen wird gesendet. Das angegebene Datum ist für das Freitagsupdate.
+**Veröffentlichungsdatum**: Die Rollout beginnt normalerweise am Dienstag der Release-Woche, wobei der Großteil der Aktualisierung Freitagabend stattfindet. Eine E-Mail mit bestimmten Daten und Versionsinformationen wird gesendet. Das angegebene Datum ist für das Freitagsupdate.
 
 **Status**:
 
@@ -60,7 +60,7 @@ _Die Veröffentlichungsdaten können sich ändern_
   <tr> 
    <td><a href="/help/marketo/release-notes/current.md">Juli 23</a></td>
    <td>21. Juli 2023</td>
-   <td>Zeitplan</td>
+   <td>in progress</td>
   </tr>
   <tr>
    <td>September 23</td>
@@ -69,7 +69,7 @@ _Die Veröffentlichungsdaten können sich ändern_
   </tr>
   <tr>
    <td>Oktober 23</td>
-   <td>20. Oktober 2023</td>
+   <td>13. Oktober 2023</td>
    <td>Zeitplan</td>
   </tr>
  </tbody>
