@@ -4,22 +4,22 @@ description: Elemente zum Deaktivieren - Marketo-Dokumente - Produktdokumentatio
 title: Elemente zum Deaktivieren
 exl-id: fd20fbcf-3690-41da-94fa-b40f32a0b251
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 639409b6322aae0cb74943bc286e30ea36f19131
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '115'
 ht-degree: 1%
 
 ---
 
 # Elemente zum Deaktivieren {#items-to-check-off}
 
-Stellen Sie sicher, dass Sie über die richtigen Arten von Zugriff und Informationen verfügen. Führen Sie diese einfachen Schritte aus, damit Sie einige Dinge von Ihrer Aufgabenliste sofort überprüfen können!
+Stellen Sie sicher, dass Sie über die richtigen Arten von Zugriff und Informationen verfügen.
 
 * Einen kurzen Überblick über [**Funktionsweise von Marketo**](https://pages2.marketo.com/demoFull.html){target="_blank"}.
 
 * **Profil einrichten** im [**Marketing-Nation**](https://nation.marketo.com/){target="_blank"} Community (Benutzername und Kennwort erforderlich).
 
-* Erfahren Sie, wie Sie mit dem [**Marketing-Nation**](https://nation.marketo.com/t5/About-Community/ct-p/about-community){target="_blank"} Community , um Antworten auf Ihre Fragen zu erhalten.
+* Lesen Sie im Abschnitt [**Marketing Community-Richtlinien**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
 
 * Klicks **[!UICONTROL Ihre Orte]** in Ihrem Marketo Nation-Community-Profil , um die Kontoseite Ihres Unternehmens anzuzeigen.
 

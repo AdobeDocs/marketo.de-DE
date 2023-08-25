@@ -2,9 +2,9 @@
 description: Versionshinweise - Juli 2023 - Marketo-Dokumente - Produktdokumentation
 title: Juli 2023 - Versionshinweise
 feature: Release Information
-source-git-commit: 00b5fbef3ba91a84afa9da261cd73b875446e3e0
+source-git-commit: 45e092f7b7e7beeef9712869b62ba4e022c2bf3d
 workflow-type: tm+mt
-source-wordcount: '666'
+source-wordcount: '664'
 ht-degree: 6%
 
 ---
@@ -15,7 +15,7 @@ Unten finden Sie alle Funktionen der Version vom 23. Juli. Überprüfen Sie Ihre
 
 >[!AVAILABILITY]
 >
->Mit einem Stern (![star](assets/yellow-star.png)) sind kostenpflichtige Add-ons. Weitere Informationen erhalten Sie von Ihrem Marketo Engage-Support-Mitarbeiter.
+>Mit einem Stern (![star](assets/yellow-star.png)) sind kostenpflichtige Add-ons. Wenden Sie sich an Ihren Marketo Engage-Support-Mitarbeiter, um mehr zu erfahren.
 
 ## Standardfunktionen des Versionszyklus {#standard-release-cycle-features}
 
@@ -67,13 +67,13 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
    <td><b>Aktualisierungen der Dokumentation</b></td>
   </tr>
   <tr> 
-   <td><i>Demnächst verfügbar</i></td>
-   <td><i>Demnächst verfügbar</i></td>
+   <td>Versendet</td>
+   <td>Nicht zutreffend</td>
   </tr>
   </tbody>
 </table>
 
-* **Verbesserte Dynamic Chat-Aktivitäten**: Dynamic Chat-Aktivitäten, -Filter und -Trigger wurden durch zusätzliche Attribute und standardisierte Benennungskonventionen verbessert.
+* **Erweiterte Dynamic Chat-Aktivitäten**: Dynamic Chat-Aktivitäten, Filter und Trigger wurden um zusätzliche Attribute und standardisierte Benennungskonventionen erweitert.
 
 <table> 
   <tr> 
@@ -81,8 +81,8 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
    <td><b>Aktualisierungen der Dokumentation</b></td>
   </tr>
   <tr> 
-   <td><i>Demnächst verfügbar</i></td>
-   <td><i>Demnächst verfügbar</i></td>
+   <td>Versendet</td>
+   <td>Nicht zutreffend</td>
   </tr>
   </tbody>
 </table>
@@ -133,7 +133,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
   </tbody>
 </table>
 
-* **Dynamic Chat-Unterstützung für Sales Insight**: Es wurden Aktualisierungen vorgenommen, um die in dieser Version eingeführten neuen Dynamic Chat-Attribute für alle Dynamic Chat zu unterstützen.
+* **Dynamic Chat-Unterstützung für Sales Insight**: Es wurden Aktualisierungen vorgenommen, um neue Dynamic Chat-Attribute zu unterstützen, die in dieser Version für alle Dynamic Chat-Benutzer eingeführt wurden.
 
 <table> 
   <tr> 
@@ -161,7 +161,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
   </tbody>
 </table>
 
-* **Dynamic Chat-Trigger-Token**: Einführung neuer Trigger-Token für Dynamic Chat-Aktivitäten, die in interessanten Momenten verwendet werden sollen.
+* **Dynamic Chat Trigger-Token**: Einführung neuer Trigger-Token für Dynamic Chat-Aktivitäten, die in interessanten Momenten verwendet werden.
 
 <table> 
   <tr> 
@@ -170,7 +170,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
   </tr>
   <tr> 
    <td>Versendet</td>
-   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md" target="_blank">Dynamic Chat-Trigger-Token</a></td>
+   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md" target="_blank">Dynamic Chat Trigger-Token</a></td>
   </tr>
   </tbody>
 </table>
