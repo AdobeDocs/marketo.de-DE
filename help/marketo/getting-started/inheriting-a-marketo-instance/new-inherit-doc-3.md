@@ -3,9 +3,9 @@ description: Vererben Sie Doc 3 - Marketo Docs - Produktdokumentation
 title: Erben von Doc 3
 hide: true
 hidefromtoc: true
-source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
+source-git-commit: 9b2d2ffd93f2c8b209e4ea25bbe7ef41c9f0e5fc
 workflow-type: tm+mt
-source-wordcount: '801'
+source-wordcount: '788'
 ht-degree: 2%
 
 ---
@@ -96,7 +96,7 @@ Bei Marketingaktivitäten kann Ihr Marketing-Team Smart-Kampagnen erstellen, Kre
    <td>Lokaler Forms</td> 
    <td><li>Wie viele Programme haben lokale <a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md" target="_blank">forms</a>? Sollen diese Formulare in globale Formulare umgewandelt werden?</li>
 <li>Erfassen sie geeignete Daten für Ihre Marketing- und Verkaufsteams?</li>
-<p>Tipp: Begrenzen Sie die Anzahl lokaler Formulare, um die Aktualisierung und Anpassung an Änderungen mit Datenschutz- und Opt-in-/Opt-out-Richtlinien zu vereinfachen. Welche Fragen müssen bei der Erstellung eines Formulars gestellt werden? Wenn sich die erfassten Informationen nicht ändern und sich die erweiterte Formularfunktionalität nicht ändert, sollten Sie ein globales Formular anstelle eines lokalen Formulars in Betracht ziehen. KG - DIES ÜBERPRÜFEN</td>
+<p>Tipp: Begrenzen Sie die Anzahl lokaler Formulare, um die Aktualisierung und Anpassung an Änderungen mit Datenschutz- und Opt-in-/Opt-out-Richtlinien zu vereinfachen. Welche Fragen müssen bei der Erstellung eines Formulars gestellt werden? Wenn sich die erfassten Informationen nicht ändern und sich die erweiterte Formularfunktionalität nicht ändert, sollten Sie ein globales Formular anstelle eines lokalen Formulars in Betracht ziehen.</td>
   </tr>
   <tr> 
    <td>Globale Formulare</td> 
@@ -131,11 +131,11 @@ Bei Marketingaktivitäten kann Ihr Marketing-Team Smart-Kampagnen erstellen, Kre
   </tr>
   <tr> 
    <td>Datenstandardisierung</td> 
-   <td><li>Verfügen Sie über ein zentralisiertes Programm zur Standardisierung der eingehenden Daten? KG - DOUBLECHECK DIES</li></td>
+   <td><li>Verfügen Sie über ein zentralisiertes Programm zur Standardisierung der eingehenden Daten?</li></td>
   </tr>
   <tr> 
    <td>Bounce Management</td> 
-   <td><li>Verfügen Sie über ein zentralisiertes Programm, mit dem <a href="https://nation.marketo.com/t5/product-blogs/data-management-best-practices-resources-for-managing-bounces/ba-p/243512" target="_blank">Bounce-Personen</a>? KG - IST DIESER ARTIKEL VON 2017 NOCH RELEVANT?</li></td>
+   <td><li>Verfügen Sie über ein zentralisiertes Programm, mit dem <a href="https://nation.marketo.com/t5/product-blogs/data-management-best-practices-resources-for-managing-bounces/ba-p/243512" target="_blank">Bounce-Personen</a>?</li></td>
   </tr>
   <tr> 
    <td>Datenschutz und Compliance</td> 
