@@ -4,10 +4,10 @@ description: Konfigurieren von Marketo Sales Insight in Salesforce Professional 
 title: Konfigurieren von Marketo Sales Insight in Salesforce Professional Edition
 exl-id: fae63560-0bb3-46a9-94a3-cc27c1aa363e
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: c85f544f2c06a2f5bb92d6e7cad5f801e73fdaed
 workflow-type: tm+mt
-source-wordcount: '872'
-ht-degree: 5%
+source-wordcount: '962'
+ht-degree: 4%
 
 ---
 
@@ -121,6 +121,20 @@ Im Folgenden finden Sie die Schritte, die Sie zur Konfiguration von Marketo Sale
    >[!NOTE]
    >
    >Sie wählen Ihre **Remote Site Name** (MarketoAPI wird hier verwendet). Die **Remote Site URL** finden Sie im Feld Marketo-Host im Dialogfeld API-Konfiguration bearbeiten in Schritt 4.
+
+## Gewähren von Sales Insight-Benutzerprofilzugriff auf Standard-Salesforce-Objekte {#grant-sales-insight-users-profile-access}
+
+Aufgrund der Verbesserungen der Saleforce-Sicherheit können App Exchange-Pakete keine Berechtigung mehr für Standardobjekte erteilen. Der Zugriff muss den relevanten Salesforce-Objekten aus dem Profil des Salesforce-Benutzers gewährt werden. Gehen Sie wie folgt vor, um die erforderlichen Berechtigungen zu gewähren.
+
+1. Klicks **Einrichtung**.
+
+1. Suchen Sie &quot;Profile&quot; in Schnellsuche.
+
+1. Klicks **Bearbeiten** neben dem Profil, das Ihre Salesforce-Benutzer verwenden.
+
+1. Aktivieren Sie im Bereich &quot;Standardobjektberechtigungen&quot;Lesezugriff für die folgenden Objekte: Lead, Kontakt, Konto und Chancen.
+
+1. Klicks **Speichern**.
 
 ## Seitenlayouts anpassen {#customize-page-layouts}
 
