@@ -4,14 +4,18 @@ description: Aktualisieren Ihres MSI-Pakets - Marketo-Dokumente - Produktdokumen
 title: Upgrade Ihres MSI-Pakets
 exl-id: 45004990-8452-4824-a9b2-89cd8302fe43
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ddc9242bdf1b3ec34bb2672821b6b054647d94b5
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
 
 # Upgrade Ihres MSI-Pakets {#upgrading-your-msi-package}
+
+>[!IMPORTANT]
+>
+>Aufgrund der von Salesforce vorgenommenen Sicherheitsverbesserungen kann das Sales Insight-Paket keine Berechtigung mehr für Standardobjekte erteilen. Zukünftig muss das Salesforce-Profil von Sales Insight-Benutzern Lesezugriff auf die folgenden Standardobjekte haben: Lead, Kontakt, Konto und Opportunity. [Hier erfahren Sie, wie Sie das konfigurieren](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#grant-sales-insight-users-profile-access){target="_blank"}.
 
 1. Navigieren Sie zu [diese Seite im Appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO){target="_blank"}.
 

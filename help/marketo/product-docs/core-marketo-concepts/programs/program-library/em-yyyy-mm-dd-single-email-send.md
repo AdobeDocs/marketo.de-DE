@@ -1,19 +1,19 @@
 ---
-description: CT-YYY-MM-Content auf der Marketo-Landingpage - Marketo Docs - Produktdokumentation
-title: CT-YYY-MM-Content auf der Marketo-Landingpage
+description: EM-JJJJ-MM-TT-Einzelversand einer E-Mail - Marketo-Dokumente - Produktdokumentation
+title: EM-JJJJ-MM-TT-Einzelner E-Mail-Versand
 hide: true
 hidefromtoc: true
 feature: Programs
 source-git-commit: ddc9242bdf1b3ec34bb2672821b6b054647d94b5
 workflow-type: tm+mt
-source-wordcount: '471'
-ht-degree: 17%
+source-wordcount: '290'
+ht-degree: 23%
 
 ---
 
-# CT-YYY-MM-Content auf der Marketo-Landingpage {#ct-yyyy-mm-content-on-marketo-landing-page}
+# EM-JJJJ-MM-TT-Einzelner E-Mail-Versand {#em-yyyy-mm-dd-single-email-send}
 
-Dieses Beispiel ist als Inhaltsprogramm konzipiert, das eine Marketo Engage-Landingpage mit einem Marketo Engage-Formular nutzt, das ein Marketo Engage-Standardprogramm verwendet. Das Formular dient dem Zugriff auf den Inhalt/das Angebot. Der Link zum Angebot kann auf der Dankeseite angezeigt, in einer Dankesemail oder in beiden.
+In diesem Beispiel wird eine E-Mail mit einem Marketo-E-Mail-Programm gesendet. Die E-Mail kann einen A/B-Test enthalten oder nicht.
 
 Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalten Sie vom Adobe-Account-Team oder unter [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} Seite.
 
@@ -28,11 +28,11 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
    <th>Programmtyp</th>
   </tr> 
   <tr> 
-   <td>Webinhalt</td> 
+   <td>E-Mail</td> 
    <td>01-Mitglied 
 <br/>02-Engaged-Success</td>
    <td>Inklusiv</td>
-   <td>Standard</td>
+   <td>E-Mail</td>
   </tr>
  </tbody> 
 </table>
@@ -52,21 +52,6 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
    <td>01-Email-Vielen Dank</td>
   </tr>
   <tr> 
-   <td>Landing Page</td> 
-   <td>Schnellstart-LP-Vorlage</td>
-   <td>01 - LP - Registrierung</td>
-  </tr>
-  <tr> 
-   <td>Landing Page</td> 
-   <td>Schnellstart-LP-Vorlage</td>
-   <td>02 - LP - Vielen Dank</td>
-  </tr>
-  <tr> 
-   <td>Formular</td> 
-   <td> </td>
-   <td>Formular zur Inhaltsregistrierung</td>
-  </tr>
-  <tr> 
    <td>Lokaler Bericht</td> 
    <td> </td>
    <td>E-Mail-Leistung</td>
@@ -74,28 +59,24 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
   <tr> 
    <td>Lokaler Bericht</td> 
    <td> </td>
-   <td>Landing Page-Leistung</td>
+   <td>E-Mail-Link-Leistung</td>
   </tr>
+  <tr>
   <tr> 
    <td>Intelligente Kampagne</td> 
    <td> </td>
-   <td>01 Ausgefülltes Formular</td>
-  </tr>
-  <tr> 
-   <td>Intelligente Kampagne</td> 
-   <td> </td>
-   <td>02-Engagiert (Programmerfolg)</td>
+   <td>01-Engagiert (Programmerfolg)</td>
   </tr>
   <tr> 
    <td>Ordner</td> 
    <td> </td>
-   <td>Assets - Häusert alle Kreativ-Assets 
+   <td>Assets - Host alle Kreativ-Assets 
 <br/>(Unterordner für E-Mail und Landingpages)  </td>
   </tr>
   <tr> 
    <td>Ordner</td> 
    <td> </td>
-   <td>Kampagnen - Alle Smart-Kampagnen werden beherbergt</td>
+   <td>Kampagnen - Houses all Smart Campaigns</td>
   </tr>
   <tr> 
    <td>Ordner</td> 
@@ -115,32 +96,6 @@ BILDSCHIRM DES PROGRAMMS
    <th>Token-Typ</th> 
    <th>Token-Name</th>
    <th>Wert </th>
-  </tr> 
-  <tr> 
-   <td>RTF</td> 
-   <td><code>{{my.Content-Description}}</code></td>
-   <td>Doppelklicken für Details  
-<br/><code><--My Content Description Here--></code> 
-<br/>Bearbeiten Sie diese Inhaltsbeschreibung auf Programmebene auf der Registerkarte My Tokens . 
-<br/>Sie werden Folgendes erfahren: 
-<li>Aufzählungszeichen 1</li>
-<li>Aufzählungszeichen 2</li>
-<li>Aufzählungszeichen 3</li></td>
-  </tr>
-  <tr> 
-   <td>Text</td> 
-   <td><code>{{my.Content-Title}}</code></td>
-   <td><code><--My Content Title Here--></code></td>
-  </tr>
-  <tr> 
-   <td>Text</td> 
-   <td><code>{{my.Content-Type}}</code></td>
-   <td><code><--My Content Type Here--></code></td>
-  </tr>
-  <tr> 
-   <td>Text</td> 
-   <td><code>{{my.Content-URL}}</code></td>
-   <td>my.ContentURL?without=http://</td>
   </tr>
   <tr> 
    <td>Text</td> 
@@ -156,11 +111,6 @@ BILDSCHIRM DES PROGRAMMS
    <td>Text</td> 
    <td><code>{{my.Email-ReplyToAddress}}</code></td>
    <td>reply-to.email@mydomain.com</td>
-  </tr>
-  <tr> 
-   <td>Text</td> 
-   <td><code>{{my.PageURL-ThankYou}}</code></td>
-   <td>My.Vielen DankYouPageURL?ohne http://</td>
   </tr>
  </tbody> 
 </table>
@@ -187,9 +137,6 @@ BILDSCHIRM DES PROGRAMMS
 
 ## Bewährte Methoden {#best-practices}
 
-* Verschieben Sie das Formular nach dem Import des Inhaltsprogramms von einem lokalen Asset in ein globales Asset in Design Studio.
-   * Die Verringerung der Anzahl von Formularen und die Verwendung von mehr globalen Assets aus Design Studio ermöglichen eine größere Skalierbarkeit in der Programmentwicklung und Verwaltungsführung. Es bietet außerdem Flexibilität bei regelmäßigen Aktualisierungen der Kompatibilität für Felder, Opt-in-Sprache usw.
-
 * Aktualisieren Sie die Vorlagen in Ihrem importierten Programm, um die derzeit verwendeten Vorlagen zu verwenden, oder aktualisieren Sie die neu importierte Vorlage entsprechend Ihrer Marke, indem Sie einen Ausschnitt oder Ihre entsprechenden Logos-/Fußzeileninformationen hinzufügen.
 
 * Erwägen Sie, die Benennungsregel dieses Programmbeispiels zu aktualisieren, um sie an Ihre Benennungsregel anzupassen.
@@ -200,8 +147,4 @@ BILDSCHIRM DES PROGRAMMS
 
 >[!TIP]
 >
->Vergessen Sie nicht, die Kampagne &quot;02-engagiert&quot;zu aktivieren, um den Erfolg zu verfolgen! Verwenden Sie dies _before_ Ihr Formular ist live und E-Mails werden gesendet.
-
->[!IMPORTANT]
->
->Meine Token, die auf eine URL verweisen, können http:// oder https:// nicht enthalten. Andernfalls funktioniert der Link im Asset nicht ordnungsgemäß.
+>Vergessen Sie nicht, die Kampagne &quot;01-engagiert&quot;zu aktivieren, um den Erfolg zu verfolgen! Verwenden Sie dies _before_ Ihr Formular ist live und E-Mails werden gesendet.
