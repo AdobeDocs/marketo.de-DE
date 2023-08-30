@@ -5,51 +5,55 @@ hide: true
 hidefromtoc: true
 feature: Programs
 exl-id: 1271c60b-1bcd-458a-bfdc-af0d5535743c
-source-git-commit: 790c5b6fdba2c63d262099a996449a190c8a9be3
+source-git-commit: 632f34fa3ab69537703b1f82678955047476d0d3
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
 
 # Übersicht über den Programmimport {#program-import-library-overview}
 
-Text einfügen.
+Die Marketo Engage Reference Library enthält mehrere Startprogramme, die Sie direkt in Ihre Marketo-Instanz importieren können, um Programme zu starten, die Ihr Team unterstützen.
 
-—Marketo Engage Program Import Library info here—
+Die Bibliothek umfasst Programme wie E-Mail, Interaktion, Ereignis, Scoring, Zustellbarkeit und Betrieb. Alle Programme wurden vom Adobe Product Team entwickelt und von unserem weltweiten Professional Services Team geprüft, um Qualität und Effektivität zu maximieren.
 
-* [OP-Content-Management](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/consent-management-program-example.md){target="_blank"}
+## Verfügbare Programmbeispiele {#available-program-examples}
 
-* Verwaltung der OP-Zustellbarkeit
+* [Einstiegsseite für CT-YYY-MM-Content (Nicht-Marketo-Inhalt)](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/ct-yyyy-mm-content-non-marketo-landing-page.md){target="_blank"}
 
-* OP-Data Management
+* [CT-YYY-MM-Content auf der Marketo-Landingpage](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/ct-yyyy-mm-content-on-marketo-landing-page.md){target="_blank"}
 
-* OP-Akquise-API
+* [EM-JJJJ-MM-TT-Einzelner E-Mail-Versand](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/em-yyyy-mm-dd-single-email-send.md){target="_blank"}
 
-* OP-Scoring-Demographie
+* [EV-JJJJ-MM-TT-Veranstaltungsprogramm](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/ev-yyyy-mm-dd-event-program.md){target="_blank"}
 
-* OP-Scoring-Verhalten
+* [NL-YYY-MM-Newsletter](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/nl-yyyy-mm-newsletter.md){target="_blank"}
 
-* OP-Lead-Management
+* [NUR-YYYY-MM-Advanced Nurture](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/nur-yyyy-mm-advanced-nurture.md){target="_blank"}
 
-* WR-YYYY-MM-Demo-Anfrage mit progressiver Profilerstellung
+* [NUR-YYYY-MM-Simple Nurture](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/nur-yyyy-mm-simple-nurture.md){target="_blank"}
 
-* EM-YYY-MM-DD-Email Send
+* [OA-YYY-MM-Online Advertising Marketo-Landingpage](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/oa-yyyy-mm-online-advertising-marketo-landing-page.md){target="_blank"}
 
-* NL-YYY-MM-Newsletter
+* [OP-Akquise-API](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-acquisition-api.md){target="_blank"}
 
-* EV-JJJJ-MM-TT-Ereignis
+* [OP-Data Management](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-data-management.md){target="_blank"}
 
-* TS-YYYY-MM-DD-Tradeshow
+* [Verwaltung der OP-Zustellbarkeit](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-deliverability-management.md){target="_blank"}
 
-* WBN-JJJJ-MM-TT-Webinar
+* [OP-Lead-Management](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-lead-management.md){target="_blank"}
 
-* OA-YYY-MM-Online-Werbung mit Marketo-Landingpage
+* [OP-Scoring-Verhalten](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-scoring-behavior.md){target="_blank"}
 
-* NUR-YYYY-MM-Simple Nurture
+* [OP-Scoring-Demographie](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-scoring-demographic.md){target="_blank"}
 
-* NUR-YYYY-MM-Advanced Drip Nurture
+* [TS-YYYY-MM-DD-Tradeshow-Programm](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/ts-yyyy-mm-dd-tradeshow-program.md){target="_blank"}
 
-* CT-YYY-MM-Content auf der Marketo-Landingpage
+* [WBN-JJJJ-MM-TT-Webinar-Programm](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/wbn-yyyy-mm-dd-webinar-program.md){target="_blank"}
 
-* Einstiegsseite für CT-YYY-MM-Content (Nicht-Marketo-Inhalt)
+* [WR-YYYY-MM-Web Request Program](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/wr-yyyy-mm-web-request-program.md){target="_blank"}
+
+>[!MORELIKETHIS]
+>
+>[Programm importieren](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md){target="_blank"}
