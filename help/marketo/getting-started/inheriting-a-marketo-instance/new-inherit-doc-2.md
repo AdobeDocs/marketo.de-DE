@@ -3,9 +3,9 @@ description: Vererben von Dokument 2 - Marketo-Dokumente - Produktdokumentation
 title: Erben von Doc 2
 hide: true
 hidefromtoc: true
-source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
+source-git-commit: 699b213157a8a621a1f2f8544c6f4995fad930cd
 workflow-type: tm+mt
-source-wordcount: '369'
+source-wordcount: '362'
 ht-degree: 9%
 
 ---
@@ -19,7 +19,7 @@ Verstehen Sie die Gesamtzahl der Personen, vermarktbaren Personen und der Person
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Bereich</th> 
+   <th style="width:25%">Bereich</th> 
    <th>Fokus überprüfen</th>
   </tr> 
   <tr> 
@@ -31,7 +31,7 @@ Verstehen Sie die Gesamtzahl der Personen, vermarktbaren Personen und der Person
   </tr>
   <tr> 
    <td>Abgemeldete Person</td> 
-   <td><li>Nach welchen Kriterien sind Sie für <a href="/help/marketo/product-docs/email-marketing/deliverability/durable-unsubscribe.md" target="_blank">abgemeldete Personen</a>? Gibt es zu viele abgemeldete Personen?</li>
+   <td><li>Nach welchen Kriterien sind Sie für <a href="/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md#marketing-suspended" target="_blank">abgemeldete Personen</a>? Gibt es zu viele abgemeldete Personen?</li>
 <li>Stimmen Ihre Abmeldemethoden mit Ihren Datenschutzanforderungen überein?</li>
 <li>Ist Ihre Voreinstellung zur Abmeldung aktuell? Wie lange sind Datensätze in Ihrer Datenbank noch nicht vermarktbar?</li></td>
   </tr>
@@ -39,7 +39,7 @@ Verstehen Sie die Gesamtzahl der Personen, vermarktbaren Personen und der Person
    <td>Marketing eingestellt</td> 
    <td><li>Nach welchen Kriterien sind Sie für <a href="/help/marketo/product-docs/email-marketing/deliverability/durable-unsubscribe.md#marketing-suspended" target="_blank">Marketing ausgesetzt</a>? Gibt es zu viele Personen, die Marketing ausgesetzt haben?</li>
 <li>Wie lange sind Datensätze im Status Ausgesetzt des Marketing erhalten geblieben?</li>
-<p>Anwendungsbeispiel für Marketing ausgesetzt: Datensätze, die aktiv am Vertrieb beteiligt sind, in verspäteten Gelegenheiten, für die Sie Marketing-Kommunikation unterdrücken möchten.</td>
+<p>Anwendungsbeispiel für Marketing ausgesetzt : Personen erfassen aktiv mit Verkäufen in verspäteten Gelegenheiten, für die Sie Marketing-Nachrichten unterdrücken möchten.</td>
   </tr>
    <tr> 
    <td>Blockierungsliste</td> 
@@ -62,35 +62,34 @@ Verstehen Sie die Gesamtzahl der Personen, vermarktbaren Personen und der Person
  </tbody> 
 </table>
 
-## Smart Lists für Gruppen {#group-smart-lists}
+## Smart Lists {#smart-lists}
 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Bereich</th> 
+   <th style="width:25%">Bereich</th> 
    <th>Fokus überprüfen</th>
   </tr> 
   <tr> 
-   <td>Smart Lists für Gruppen</td> 
-   <td><li>Welche Smart-Listen gibt es? Wie werden sie in dieser Instanz verwendet?</li>
+   <td>Smart Lists</td> 
+   <td><li>Wie viele <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" target="_blank">Smart-Listen</a> Gibt es sie? Wie werden sie in dieser Instanz verwendet?</li>
 <li>Sind die Listen in einer zusammenhängenden Ordnerstruktur organisiert? <br/>Wenn Sie verwaiste Listen haben, sollten Sie Ihren Baum so organisieren, dass Assets einfach zu finden sind.</li>
-<p>Tipp: <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">Archivieren</a> Smart-Listen gruppieren, die nicht mehr zum Abfragen, Reporting oder Verweisen benötigt werden, um die Organisation und Leistung zu unterstützen.</td>
+<p>Tipp: <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">Archivierung</a> Intelligente Listen, die nicht mehr benötigt werden, helfen bei der Organisation und Leistung.</td>
   </tr>
  </tbody> 
 </table>
 
-## Gruppenlisten {#group-lists}
+## Statische Listen {#static-lists}
 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Bereich</th> 
+   <th style="width:25%">Bereich</th> 
    <th>Fokus überprüfen</th>
   </tr> 
   <tr> 
-   <td>Gruppenlisten</td> 
-   <td><li>Welche Gruppenlisten gibt es?</li>
-<li>Wie werden sie in dieser Instanz verwendet?</li></td>
+   <td>Statische Listen</td> 
+   <td><li>Wie viele <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" target="_blank">Statische Listen</a> Gibt es sie? Wie werden sie in dieser Instanz verwendet?</li></td>
   </tr>
  </tbody> 
 </table>
@@ -100,7 +99,7 @@ Verstehen Sie die Gesamtzahl der Personen, vermarktbaren Personen und der Person
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Bereich</th> 
+   <th style="width:25%">Bereich</th> 
    <th>Fokus überprüfen</th>
   </tr> 
   <tr> 
