@@ -1,19 +1,19 @@
 ---
-description: EV-JJJJ-MM-TT-Event-Programm - Marketo Docs - Produktdokumentation
-title: EV-JJJJ-MM-TT-Veranstaltungsprogramm
+description: WBN-JJJJ-MM-TT-Webinar-Programm - Marketo Docs - Produktdokumentation
+title: WBN-JJJJ-MM-TT-Webinar-Programm
 hide: true
 hidefromtoc: true
 feature: Programs
 source-git-commit: ea276734b6d277f4a3548a9a697e1c7ed4c30e2d
 workflow-type: tm+mt
-source-wordcount: '566'
-ht-degree: 21%
+source-wordcount: '591'
+ht-degree: 20%
 
 ---
 
-# EV-JJJJ-MM-TT-Veranstaltungsprogramm {#ev-yyyy-mm-dd-event-program}
+# WBN-JJJJ-MM-TT-Webinar-Programm {#wbn-yyyy-mm-dd-webinar-program}
 
-Dies ist ein Beispiel für ein Veranstaltungsprogramm mit einer Registrierungsseite, drei Einladungs-E-Mails und Follow-up-E-Mails, die ein Marketo Engage Event Program verwenden. Geeignet für alle Veranstaltungen, bei denen Sie sich registrieren lassen müssen, einschließlich Roadshows, Mittagessen, Abendessen oder Präsentationen bei Messen.
+Dies ist ein Beispiel für ein Webinar-Programm mit Registrierungs-Management, drei Einladungs-E-Mails, Erinnerungen an die Teilnahme und Follow-up-E-Mails, die ein Marketo Engage Event-Programm verwenden.
 
 Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalten Sie vom Adobe-Account-Team oder unter [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} Seite.
 
@@ -30,12 +30,14 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
   <tr> 
    <td>Veranstaltung</td> 
    <td>01 - Eingeladen 
-<br/>02-Waitlisted
-<br/>03-Registered
-<br/>04-Keine Sendung
-<br/>05-Teilnehmer-Erfolg</td>
+   <br/>02 - Warteliste
+   <br/>03 - Registriert
+   <br/>04 - Keine Sendung
+   <br/>05 - AnGEMESSEN - Erfolg
+   <br/>06 - Angenommene On-Demand - Erfolg</td>
    <td>Inklusiv</td>
-   <td>Veranstaltung</td>
+   <td>Veranstaltung
+   <p>(Integriert: Veranstaltung mit Webinar)</td>
   </tr>
  </tbody> 
 </table>
@@ -52,59 +54,65 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
   <tr> 
    <td>E-Mail</td> 
    <td>Schnellstart-E-Mail-Vorlage</td>
-   <td>01-Email-Vielen Dank</td>
+   <td>01 - E-Mail - Einladung</td>
   </tr>
    <tr> 
    <td>E-Mail</td> 
    <td>Schnellstart-E-Mail-Vorlage</td>
-   <td>02a- E-Mail - Einladung</td>
+   <td>02 - E-Mail - Erinnerung zur Einladung</td>
+  </tr>
+   <tr> 
+   <td>E-Mail</td> 
+   <td>Schnellstart-E-Mail-Vorlage</td>
+   <td>03 - E-Mail - Erinnerung an Einladung - Letzte Chance</td>
   </tr>
   <tr> 
    <td>E-Mail</td> 
    <td>Schnellstart-E-Mail-Vorlage</td>
-   <td>02b - E-Mail - Erinnerung an Einladung</td>
+   <td>04 - E-Mail - Anmeldebestätigung</td>
   </tr>
   <tr> 
    <td>E-Mail</td> 
    <td>Schnellstart-E-Mail-Vorlage</td>
-   <td>02c- E-Mail - Einladungs-Erinnerung letzte Chance</td>
+   <td>05 - E-Mail - Erinnerung an die Teilnahme</td>
   </tr>
   <tr> 
    <td>E-Mail</td> 
    <td>Schnellstart-E-Mail-Vorlage</td>
-   <td>03 - E-Mail - An Erinnerung teilnehmen</td>
+   <td>06 - E-Mail - Follow-up - teilgenommen</td>
   </tr>
   <tr> 
    <td>E-Mail</td> 
    <td>Schnellstart-E-Mail-Vorlage</td>
-   <td>04a - E-Mail - Follow-up - teilgenommen</td>
+   <td>07 - E-Mail - Follow-up - No Show </td>
   </tr>
-  <tr> 
-   <td>E-Mail</td> 
-   <td>Schnellstart-E-Mail-Vorlage</td>
-   <td>04b - E-Mail - Follow-up - NoShow</td>
-  </tr>
-  <tr> 
-   <td>Landing Page</td> 
-   <td>Schnellstart-LP-Vorlage</td>
-   <td>01a - LP - Registrierung</td>
-  </tr>
-  <tr> 
-   <td>Landing Page</td> 
-   <td>Schnellstart-LP-Vorlage</td>
-   <td>01b - LP - Vielen Dank</td>
-  </tr>
+  <tr>
   <tr> 
    <td>Formular</td> 
    <td> </td>
    <td>FM-Ereignisregistrierung</td>
   </tr>
   <tr> 
+   <td>Landing Page</td> 
+   <td>Schnellstart-LP-Vorlage</td>
+   <td>01 - LP - Registrierung</td>
+  </tr>
+  <tr> 
+   <td>Landing Page</td> 
+   <td>Schnellstart-LP-Vorlage</td>
+   <td>02 - LP - Vielen Dank</td>
+  </tr>
+  <tr> 
+   <td>Landing Page</td> 
+   <td>Schnellstart-LP-Vorlage</td>
+   <td>03 - LP - On-Demand</td>
+  </tr>
+  <tr> 
    <td>Lokaler Bericht</td> 
    <td> </td>
    <td>E-Mail-Leistung</td>
   </tr>
-  <tr> 
+   <tr> 
    <td>Lokaler Bericht</td> 
    <td> </td>
    <td>Landing Page-Leistung</td>
@@ -117,7 +125,7 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
   <tr> 
    <td>Intelligente Kampagne</td> 
    <td> </td>
-   <td>01 - Prozessregistrierung</td>
+   <td>01 - Prozessregistrierungen</td>
   </tr>
    <tr> 
    <td>Intelligente Kampagne</td> 
@@ -132,28 +140,33 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
    <tr> 
    <td>Intelligente Kampagne</td> 
    <td> </td>
-   <td>02c - Einladung letzten Zufall senden</td>
+   <td>02c - Einladungs-Erinnerung letzten Zufall senden</td>
   </tr>
-   <tr> 
+  <tr> 
    <td>Intelligente Kampagne</td> 
    <td> </td>
    <td>03 - Erinnerung zum Senden senden</td>
   </tr>
-   <tr> 
+  <tr> 
    <td>Intelligente Kampagne</td> 
    <td> </td>
    <td>04 - Eingestiegen (Programmerfolg)</td>
   </tr>
-   <tr> 
+  <tr> 
    <td>Intelligente Kampagne</td> 
    <td> </td>
    <td>05 - Folgenachrichten senden</td>
   </tr>
   <tr> 
+   <td>Intelligente Kampagne</td> 
+   <td> </td>
+   <td>06 - Teilnehmer On-Demand (Programmerfolg)</td>
+  </tr>
+  <tr> 
    <td>Ordner</td> 
    <td> </td>
    <td>Assets - Host alle Kreativ-Assets 
-<br/>(Unterordner für E-Mail und Landingpages)</td>
+<br/>(Unterordner für E-Mail, Landingpages und Forms)</td>
   </tr>
   <tr> 
    <td>Ordner</td> 
@@ -184,6 +197,11 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
   </tr>
   <tr> 
    <td>Text</td> 
+   <td><code>{{my.DownloadURL-PresentationSlides}}</code></td>
+   <td>my.DownloadURL?without=http:// </td>
+  </tr>
+  <tr> 
+   <td>Text</td> 
    <td><code>{{my.Email-FromAddress}}</code></td>
    <td>PlaceholderFrom.email@mydomain.com</td>
   </tr>
@@ -204,34 +222,14 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
   </tr>
    <tr> 
    <td>RTF</td> 
-   <td><code>{{my.Content-Description}}</code></td>
+   <td><code>{{my.Event-Description}}</code></td>
    <td>Doppelklicken für Details  
-<br/><code><--My Content Description Here--></code> 
-<br/>Bearbeiten Sie diese Inhaltsbeschreibung auf Programmebene auf der Registerkarte My Tokens . 
+<br/><code><--My Event Description Here--></code> 
+<br/>Bearbeiten Sie diese Ereignisbeschreibung auf Programmebene auf der Registerkarte My Tokens . 
 <br/>Sie werden Folgendes erfahren: 
 <li>Aufzählungszeichen 1</li>
 <li>Aufzählungszeichen 2</li>
 <li>Aufzählungszeichen 3</li></td>
-  </tr>
-  <tr> 
-   <td>Text</td> 
-   <td><code>{{my.Event-Location-Line1}}</code></td>
-   <td><code><--XYZ Hotel--></code></td>
-  </tr>
-   <tr> 
-   <td>Text</td> 
-   <td><code>{{my.Event-Location-Line2}}</code></td>
-   <td><code><--ABC Room--></code></td>
-  </tr>
-   <tr> 
-   <td>Text</td> 
-   <td><code>{{my.Event-Location-Line3}}</code></td>
-   <td><code><--1234 Anystreet--></code></td>
-  </tr>
-  <tr> 
-   <td>Text</td> 
-   <td><code>{{my.Event-Location-Line4}}</code></td>
-   <td><code><--Anytown, ZZ 99999--></code></td>
   </tr>
   <tr> 
    <td>Text</td> 
@@ -246,7 +244,7 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
   <tr> 
    <td>Text</td> 
    <td><code>{{my.Event-Type}}</code></td>
-   <td>Live-Veranstaltung</td>
+   <td>Webinar</td>
   </tr>
   <tr> 
    <td>Text</td> 
@@ -258,7 +256,7 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
    <td><code>{{my.PageURL-Registration}}</code></td>
    <td>my.RegistrationPageURL?without=http://</td>
   </tr>
-  <tr> 
+   <tr> 
    <td>Text</td> 
    <td><code>{{my.PageURL-ThankYou}}</code></td>
    <td>my.ThankYouPageURL?without=http://</td>
@@ -320,6 +318,8 @@ BILDSCHIRM DES PROGRAMMS
 
 ## Bewährte Methoden {#best-practices}
 
+* Wenn Sie einen integrierten Webinar-Anbieter verwenden, vergessen Sie nicht, das Marketo Engage-Programm mit Ihrem Webinar im Hosting-System zu verbinden.
+
 * Verschieben Sie das Formular nach dem Import des Webinarprogramms von einem lokalen Asset in ein globales Asset in Design Studio.
    * Die Verringerung der Anzahl von Formularen und die Verwendung von mehr globalen Assets aus Design Studio ermöglichen eine größere Skalierbarkeit in der Programmentwicklung und Verwaltungsführung. Es bietet außerdem Flexibilität bei regelmäßigen Aktualisierungen der Kompatibilität für Felder, Opt-in-Sprache usw.
 
@@ -333,7 +333,7 @@ BILDSCHIRM DES PROGRAMMS
 
 >[!TIP]
 >
->Vergessen Sie nicht, die Kampagne &quot;06-Teilnehmer (Programmerfolg)&quot; zu aktivieren, um den Erfolg zu verfolgen! Verwenden Sie dies _before_ Ihr Formular ist live und E-Mails werden gesendet.
+>Vergessen Sie nicht, die Kampagnen &quot;04-Teilnehmer (Programmerfolg)&quot;und &quot;06-Teilnehmer On-Demand (Programmerfolg)&quot;zu aktivieren, um den Erfolg zu verfolgen! Verwenden Sie dies _before_ Ihre E-Mails werden gesendet.
 
 >[!IMPORTANT]
 >

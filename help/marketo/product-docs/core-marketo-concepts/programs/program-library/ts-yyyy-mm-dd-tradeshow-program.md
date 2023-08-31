@@ -1,19 +1,19 @@
 ---
-description: EV-JJJJ-MM-TT-Event-Programm - Marketo Docs - Produktdokumentation
-title: EV-JJJJ-MM-TT-Veranstaltungsprogramm
+description: TS-YYYY-MM-DD-Tradeshow-Programm - Marketo Docs - Produktdokumentation
+title: TS-YYYY-MM-DD-Tradeshow-Programm
 hide: true
 hidefromtoc: true
 feature: Programs
 source-git-commit: ea276734b6d277f4a3548a9a697e1c7ed4c30e2d
 workflow-type: tm+mt
-source-wordcount: '566'
-ht-degree: 21%
+source-wordcount: '428'
+ht-degree: 20%
 
 ---
 
-# EV-JJJJ-MM-TT-Veranstaltungsprogramm {#ev-yyyy-mm-dd-event-program}
+# TS-YYYY-MM-DD-Tradeshow-Programm {#ts-yyyy-mm-dd-tradeshow-program}
 
-Dies ist ein Beispiel für ein Veranstaltungsprogramm mit einer Registrierungsseite, drei Einladungs-E-Mails und Follow-up-E-Mails, die ein Marketo Engage Event Program verwenden. Geeignet für alle Veranstaltungen, bei denen Sie sich registrieren lassen müssen, einschließlich Roadshows, Mittagessen, Abendessen oder Präsentationen bei Messen.
+Dies ist ein Beispiel für ein Messeprogramm mit Einladungs- und Follow-up-E-Mails unter Verwendung eines Marketo Engage Event Program.
 
 Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalten Sie vom Adobe-Account-Team oder unter [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} Seite.
 
@@ -30,10 +30,11 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
   <tr> 
    <td>Veranstaltung</td> 
    <td>01 - Eingeladen 
-<br/>02-Waitlisted
-<br/>03-Registered
-<br/>04-Keine Sendung
-<br/>05-Teilnehmer-Erfolg</td>
+   <br/>02-Waitlisted
+   <br/>03-Registered
+   <br/>04-besuchter Stand
+   <br/>05-interagiert bei Show - Erfolg
+   <br/>60-Grad-Teilnahme an Beitragsshow - Erfolg</td>
    <td>Inklusiv</td>
    <td>Veranstaltung</td>
   </tr>
@@ -59,46 +60,7 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
    <td>Schnellstart-E-Mail-Vorlage</td>
    <td>02a- E-Mail - Einladung</td>
   </tr>
-  <tr> 
-   <td>E-Mail</td> 
-   <td>Schnellstart-E-Mail-Vorlage</td>
-   <td>02b - E-Mail - Erinnerung an Einladung</td>
-  </tr>
-  <tr> 
-   <td>E-Mail</td> 
-   <td>Schnellstart-E-Mail-Vorlage</td>
-   <td>02c- E-Mail - Einladungs-Erinnerung letzte Chance</td>
-  </tr>
-  <tr> 
-   <td>E-Mail</td> 
-   <td>Schnellstart-E-Mail-Vorlage</td>
-   <td>03 - E-Mail - An Erinnerung teilnehmen</td>
-  </tr>
-  <tr> 
-   <td>E-Mail</td> 
-   <td>Schnellstart-E-Mail-Vorlage</td>
-   <td>04a - E-Mail - Follow-up - teilgenommen</td>
-  </tr>
-  <tr> 
-   <td>E-Mail</td> 
-   <td>Schnellstart-E-Mail-Vorlage</td>
-   <td>04b - E-Mail - Follow-up - NoShow</td>
-  </tr>
-  <tr> 
-   <td>Landing Page</td> 
-   <td>Schnellstart-LP-Vorlage</td>
-   <td>01a - LP - Registrierung</td>
-  </tr>
-  <tr> 
-   <td>Landing Page</td> 
-   <td>Schnellstart-LP-Vorlage</td>
-   <td>01b - LP - Vielen Dank</td>
-  </tr>
-  <tr> 
-   <td>Formular</td> 
-   <td> </td>
-   <td>FM-Ereignisregistrierung</td>
-  </tr>
+  <tr>
   <tr> 
    <td>Lokaler Bericht</td> 
    <td> </td>
@@ -107,7 +69,7 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
   <tr> 
    <td>Lokaler Bericht</td> 
    <td> </td>
-   <td>Landing Page-Leistung</td>
+   <td>Programmleistung</td>
   </tr>
   <tr> 
    <td>Intelligente Kampagne</td> 
@@ -117,37 +79,22 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
   <tr> 
    <td>Intelligente Kampagne</td> 
    <td> </td>
-   <td>01 - Prozessregistrierung</td>
+   <td>01 - Einladung senden</td>
   </tr>
    <tr> 
    <td>Intelligente Kampagne</td> 
    <td> </td>
-   <td>02a - Einladung senden</td>
+   <td>02 - Bei Sendung interagiert (Erfolg)</td>
   </tr>
    <tr> 
    <td>Intelligente Kampagne</td> 
    <td> </td>
-   <td>02b - Erinnerung senden</td>
+   <td>03 - Folgenachrichten senden</td>
   </tr>
    <tr> 
    <td>Intelligente Kampagne</td> 
    <td> </td>
-   <td>02c - Einladung letzten Zufall senden</td>
-  </tr>
-   <tr> 
-   <td>Intelligente Kampagne</td> 
-   <td> </td>
-   <td>03 - Erinnerung zum Senden senden</td>
-  </tr>
-   <tr> 
-   <td>Intelligente Kampagne</td> 
-   <td> </td>
-   <td>04 - Eingestiegen (Programmerfolg)</td>
-  </tr>
-   <tr> 
-   <td>Intelligente Kampagne</td> 
-   <td> </td>
-   <td>05 - Folgenachrichten senden</td>
+   <td>04 - Interagiert durch Follow-up-E-Mail (Erfolg)</td>
   </tr>
   <tr> 
    <td>Ordner</td> 
@@ -204,34 +151,18 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
   </tr>
    <tr> 
    <td>RTF</td> 
-   <td><code>{{my.Content-Description}}</code></td>
-   <td>Doppelklicken für Details  
-<br/><code><--My Content Description Here--></code> 
-<br/>Bearbeiten Sie diese Inhaltsbeschreibung auf Programmebene auf der Registerkarte My Tokens . 
-<br/>Sie werden Folgendes erfahren: 
-<li>Aufzählungszeichen 1</li>
-<li>Aufzählungszeichen 2</li>
-<li>Aufzählungszeichen 3</li></td>
-  </tr>
-  <tr> 
-   <td>Text</td> 
-   <td><code>{{my.Event-Location-Line1}}</code></td>
-   <td><code><--XYZ Hotel--></code></td>
+   <td><code>{{my.Event-Booth#}}</code></td>
+   <td><code><--My Booth Number--></code></td>
   </tr>
    <tr> 
    <td>Text</td> 
-   <td><code>{{my.Event-Location-Line2}}</code></td>
-   <td><code><--ABC Room--></code></td>
-  </tr>
-   <tr> 
-   <td>Text</td> 
-   <td><code>{{my.Event-Location-Line3}}</code></td>
-   <td><code><--1234 Anystreet--></code></td>
+   <td><code>{{my.Event-City}}</code></td>
+   <td><code><--My Event City Here--></code></td>
   </tr>
   <tr> 
    <td>Text</td> 
-   <td><code>{{my.Event-Location-Line4}}</code></td>
-   <td><code><--Anytown, ZZ 99999--></code></td>
+   <td><code>{{my.Event-Date}}</code></td>
+   <td><code><--My Event Date--></code></td>
   </tr>
   <tr> 
    <td>Text</td> 
@@ -246,52 +177,7 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
   <tr> 
    <td>Text</td> 
    <td><code>{{my.Event-Type}}</code></td>
-   <td>Live-Veranstaltung</td>
-  </tr>
-  <tr> 
-   <td>Text</td> 
-   <td><code>{{my.PageURL-Download}}</code></td>
-   <td>my.DownloadURL?without=http://</td>
-  </tr>
-  <tr> 
-   <td>Text</td> 
-   <td><code>{{my.PageURL-Registration}}</code></td>
-   <td>my.RegistrationPageURL?without=http://</td>
-  </tr>
-  <tr> 
-   <td>Text</td> 
-   <td><code>{{my.PageURL-ThankYou}}</code></td>
-   <td>my.ThankYouPageURL?without=http://</td>
-  </tr>
-  <tr> 
-   <td>Text</td> 
-   <td><code>{{my.Speaker1-Name}}</code></td>
-   <td><code><--Speaker Name Here--></code></td>
-  </tr>
-  <tr> 
-   <td>Text</td> 
-   <td><code>{{my.Speaker1-Title}}</code></td>
-   <td><code><--Speaker Title Here--></code></td>
-  </tr>
-  <tr> 
-   <td>Text</td> 
-   <td><code>{{my.Speaker2-Name}}</code></td>
-   <td><code><--Speaker Name Here--></code></td>
-  </tr>
-  <tr> 
-   <td>Text</td> 
-   <td><code>{{my.Speaker2-Title}}</code></td>
-   <td><code><--Speaker Title Here--></code></td>
-  </tr>
-  <tr> 
-   <td>Text</td> 
-   <td><code>{{my.Speaker3-Name}}</code></td>
-   <td><code><--Speaker Name Here--></code></td>
-  </tr>
- <tr> 
-   <td>Text</td> 
-   <td><code>{{my.Speaker3-Title}}</code></td>
-   <td><code><--Speaker Title Here--></code></td>
+   <td>Fachmesse</td>
   </tr>
  </tbody> 
 </table>
@@ -333,7 +219,7 @@ BILDSCHIRM DES PROGRAMMS
 
 >[!TIP]
 >
->Vergessen Sie nicht, die Kampagne &quot;06-Teilnehmer (Programmerfolg)&quot; zu aktivieren, um den Erfolg zu verfolgen! Verwenden Sie dies _before_ Ihr Formular ist live und E-Mails werden gesendet.
+>Vergessen Sie nicht, die Kampagnen &quot;02-Interagiert bei Show (Programmerfolg)&quot;und &quot;04-Engaged by Follow-up E-Mail (Programmerfolg)&quot;zu aktivieren, um den Erfolg zu verfolgen! Verwenden Sie dies _before_ Ihre E-Mails werden gesendet.
 
 >[!IMPORTANT]
 >
