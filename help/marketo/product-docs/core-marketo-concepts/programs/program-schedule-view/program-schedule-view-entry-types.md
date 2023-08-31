@@ -4,16 +4,20 @@ description: Programmplanungsansicht Einstiegstypen - Marketo-Dokumente - Produk
 title: Programmplanungsansicht Einstiegstypen
 exl-id: 0b53d6d3-b813-45c6-9101-191c777610bb
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: afdf59729f16d27a548fa60a8156c941be54a8a7
 workflow-type: tm+mt
-source-wordcount: '143'
-ht-degree: 16%
+source-wordcount: '152'
+ht-degree: 15%
 
 ---
 
 # Programmplanungsansicht Einstiegstypen {#program-schedule-view-entry-types}
 
 Es gibt acht verschiedene integrierte Eintragstypen, die in Ihrer Programmplanungsansicht angezeigt und zur Verfügung stehen. Sie können auch [Erstellen benutzerdefinierter Eintragstypen](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md) im Abschnitt &quot;Admin&quot;.
+
+>[!NOTE]
+>
+>Wiederkehrende Smart-Kampagnen sind **not** wird in der Planungsansicht unterstützt.
 
 <table> 
  <thead> 
@@ -29,7 +33,7 @@ Es gibt acht verschiedene integrierte Eintragstypen, die in Ihrer Programmplanun
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">Intelligente Kampagne <img alt="--" src="assets/image2014-9-24-10-3a5-3a2.png" data-linked-resource-id="3082716" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></td> 
-   <td colspan="1" rowspan="1">Geplante Smart-Kampagne ohne Schritt E-Mail-Ablauf senden .</td> 
+   <td colspan="1" rowspan="1">Geplante Smart-Kampagne ohne Workflow-Schritt "E-Mail senden".</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">Intelligente Kampagne mit E-Mail <img alt="--" src="assets/image2014-9-24-10-3a5-3a14.png" data-linked-resource-id="3082717" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></td> 

@@ -4,20 +4,24 @@ description: Navigieren im Marketing-Kalender - Marketo-Dokumente - Produktdokum
 title: Navigieren im Marketingkalender
 exl-id: 0a70def5-d98e-4efd-ac3a-36c52c1cbc45
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: afdf59729f16d27a548fa60a8156c941be54a8a7
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '172'
 ht-degree: 1%
 
 ---
 
 # Navigieren im Marketingkalender {#navigating-the-marketing-calendar}
 
-Der Marketingkalender ist einfach zu navigieren: Eins, Zwei, Drei!
+Der Marketingkalender bietet sich an, einfach zu navigieren. So geht es.
 
 >[!PREREQUISITES]
 >
 >Stellen Sie sicher, dass Sie [Lizenz für Marketing-Kalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"} - Andernfalls wird die Kachel Marketing-Kalender nicht in My Marketo angezeigt.
+
+>[!NOTE]
+>
+>Wiederkehrende Smart-Kampagnen werden im Marketingkalender nicht unterstützt.
 
 1. Navigieren Sie zu **Marketingkalender**.
 
@@ -37,7 +41,7 @@ Der Marketingkalender ist einfach zu navigieren: Eins, Zwei, Drei!
 
 In der Agenda-Ansicht werden alle Einträge als Liste angezeigt.
 
-1. Klicken Sie auf **[!UICONTROL Filter]** Dropdown-Liste.
+1. Klicken Sie auf **[!UICONTROL Filter]** angezeigt.
 
    ![](assets/image2014-9-26-10-3a29-3a6.png)
 
@@ -45,7 +49,7 @@ In der Agenda-Ansicht werden alle Einträge als Liste angezeigt.
 
    ![](assets/image2014-9-26-10-3a29-3a36.png)
 
-   Fantastisch Das ist ein toller Ausblick, um alles zu sehen, was geplant ist.
+   Fantastisch! Das ist ein toller Ausblick, um alles zu sehen, was geplant ist.
 
    ![](assets/image2014-9-26-10-3a30-3a9.png)
 
@@ -59,11 +63,11 @@ Sie können auch diese Tastaturbefehle verwenden.
 
 | Aktion | Tastaturbefehl |
 |---|---|
-| Zurück zur Zeit | alt/opt + up |
+| Zurück zur Zeit | Alt/Opt+Up |
 | Zeitnah weiterleiten | Alt/Opt-out + Herunterfahren |
-| Wechseln Sie zu &quot;heute&quot;. | alt/opt + t |
+| Wechseln Sie zu &quot;heute&quot; | alt/opt + t |
 
-Fantastisch Das sind die Grundlagen. Sie können Ihre Ansicht auch mithilfe von Filtern anpassen.
+Fantastisch! Das sind die Grundlagen. Sie können Ihre Ansicht auch mithilfe von Filtern anpassen.
 
 >[!MORELIKETHIS]
 >
