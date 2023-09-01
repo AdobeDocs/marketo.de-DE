@@ -3,14 +3,14 @@ description: Vererben von Dokument 2 - Marketo-Dokumente - Produktdokumentation
 title: Erben von Doc 2
 hide: true
 hidefromtoc: true
-source-git-commit: 1b97a8a2a491c2091eb722a16ab10f901e77a912
+source-git-commit: f41cb94d96d475e7ea063fb6fbbab3b2363f6346
 workflow-type: tm+mt
-source-wordcount: '365'
+source-wordcount: '366'
 ht-degree: 8%
 
 ---
 
-# Erben von Doc 2 {#inherit-doc-2}
+# Prüfliste für die Datenbank {#inherit-doc-2}
 
 Verstehen Sie die Gesamtzahl der Personen, vermarktbaren Personen und der Personen, die in Ihrem Abonnement die meisten Personen erwerben.
 
