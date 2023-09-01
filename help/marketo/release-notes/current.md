@@ -3,9 +3,9 @@ description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokument
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 5892d119745772a9d4e7869e7c4be7318c65fd19
+source-git-commit: d87c05212afbc916bd11cf681a4375e31f46550c
 workflow-type: tm+mt
-source-wordcount: '931'
+source-wordcount: '941'
 ht-degree: 12%
 
 ---
@@ -16,7 +16,7 @@ Unten finden Sie alle Funktionen der Version vom 23. September. Überprüfen Sie
 
 >[!AVAILABILITY]
 >
->Mit einem Stern (![star](assets/yellow-star.png)) sind kostenpflichtige Add-ons. Weitere Informationen erhalten Sie von Ihrem Marketo Engage-Support-Mitarbeiter.
+>Mit einem Stern (![star](assets/yellow-star.png)) sind kostenpflichtige Add-ons. Wenden Sie sich an Ihren Marketo Engage-Support-Mitarbeiter, um mehr zu erfahren.
 
 ## Standardfunktionen des Versionszyklus {#standard-release-cycle-features}
 
@@ -24,7 +24,7 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
 
 </br>
 
-* **Marketo-Referenzbibliothek**: Mit der Marketo Engage-Programmreferenz-Bibliothek können Benutzer Beispielprogramme und andere Assets importieren, die von Adobe empfohlene Best Practices darstellen. Unser Produktmanagement-Team hat die -Bibliothek vollständig aktualisiert und bietet wertvollere Tools für diejenigen, die ihr Programm schnell starten möchten.
+* **Marketo-Referenzbibliothek**: Die Marketo Engage-Programm-Referenzbibliothek ermöglicht Benutzern den Import von Beispielprogrammen und anderen Assets, die von Adobe empfohlene Best Practices darstellen. Unser Produktmanagement-Team hat die -Bibliothek vollständig aktualisiert und bietet wertvollere Tools für diejenigen, die ihr Programm schnell starten möchten.
 
 <table>
   <tr> 
@@ -66,7 +66,7 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
   </tbody>
 </table>
 
-* **Schrittdienst für die Berechnung des Formelflusses**: Compute Formula ist ein auf der IO Runtime-Plattform von Adobe aufbauender Flussschritt-Dienst zur Verwendung mit Marketo Engage-Smart-Kampagnen. Adobe-Clients mit IO-Laufzeitumgebung können den Dienst bereitstellen und in ihren Marketo Engage-Abonnements installieren, sodass sie Excel-ähnliche Formeln in Marketo Smart Campaigns berechnen können.
+* **Schrittdienst für die Berechnung des Formelflusses**: Compute Formula ist ein auf einer Adobe IO Runtime-Plattform aufbauender Flow Step Service für die Verwendung mit Marketo Engage Smart Campaigns. Adobe-Clients mit IO Runtime können den Dienst bereitstellen und in ihren Marketo Engage-Abonnements installieren, sodass sie Excel-ähnliche Formeln in Marketo Smart Campaigns berechnen können.
 
 <table> 
   <tr> 
@@ -92,8 +92,8 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
    <td><b>Aktualisierungen der Dokumentation</b></td>
   </tr>
   <tr> 
-   <td><i>Demnächst verfügbar</i></td>
-   <td><i>Demnächst verfügbar</i></td>
+   <td>Versendet</td>
+   <td><a href="https://experienceleague.adobe.com/docs/blueprints-learn/architecture/b2b-activation/marketo-engage-and-workfront-integration-blueprint/review-and-approve-blueprint.html" target="_blank">Blueprint überprüfen und genehmigen</a></td>
   </tr>
   </tbody>
 </table>
@@ -116,7 +116,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
   </tbody>
 </table>
 
-* **Seite &quot;Konversationsfluss - Asset&quot;**: Auf der Seite &quot;Design Studio-Asset&quot;werden jetzt Dynamic Chat-Konvertierungsflüsse aufgelistet. Ermitteln Sie, welche Flüsse in Marketo Engage-Assets integriert werden können und den Deeplink direkt zu ihrem Editor durchführen.
+* **Seite &quot;Konversationsfluss - Asset&quot;**: Auf der Seite &quot;Design Studio Asset&quot;werden jetzt Dynamic Chat-Konversationsflüsse aufgelistet. Ermitteln Sie, welche Flüsse direkt in Marketo Engage-Assets integriert werden können und Deeplink zum Editor.
 
 <table>
   <tr> 
@@ -130,7 +130,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
   </tbody>
 </table>
 
-* **Konversative Forms mit Marketo Engage Forms**: Machen Sie Marketo Engage Forms kommunikativ, indem Sie sie in Dynamic Chat Conversational Flows integrieren. Qualifizieren Sie Leads sofort mit Formulardaten oder Smart List-Mitgliedschaft für Meetingbuchungen, Whitepaper-Links oder benutzerdefinierte Ziele.
+* **Konversative Forms mit Marketo Engage Forms**: Machen Sie Marketo Engage Forms-Gespräche, indem Sie sie in Dynamic Chat-Konversationsflüsse integrieren. Qualifizieren Sie Leads sofort mit Formulardaten oder Smart List-Mitgliedschaft für Meetingbuchungen, Whitepaper-Links oder benutzerdefinierte Ziele.
 
 <table> 
   <tr> 
@@ -228,7 +228,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
   </tbody>
 </table>
 
-* **Targeting von Smart-List-Marketo Engage**: Marketingexperten können Mitglieder von Marketo Engage Smart Lists in Zielgruppenkriterien für Dialogfelder ansprechen.
+* **Marketo Engage Smart List Targeting**: Marketingexperten können Mitglieder von Marketo Engage Smart Lists in Zielgruppenkriterien für Dialogfelder ansprechen.
 
 <table> 
   <tr> 
@@ -312,7 +312,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
   </tbody>
 </table>
 
-* **Trigger-Token für neue Aktivitäten**: Es stehen neue Trigger-Token zur Unterstützung der neuen Aktivitäten für Dynamic Chat zur Verfügung.
+* **Trigger-Token für neue Aktivitäten**: Neue Trigger-Token stehen zur Unterstützung der neuen Aktivitäten für Dynamic Chat zur Verfügung.
 
 <table> 
   <tr> 
