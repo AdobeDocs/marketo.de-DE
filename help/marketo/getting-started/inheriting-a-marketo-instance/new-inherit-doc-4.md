@@ -3,9 +3,9 @@ description: Vererben Sie Doc 4 - Marketo Docs - Produktdokumentation
 title: Erben von Doc 4
 hide: true
 hidefromtoc: true
-source-git-commit: d7334acc31456b640a128c699d07a6b4af330469
+source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
 workflow-type: tm+mt
-source-wordcount: '506'
+source-wordcount: '513'
 ht-degree: 5%
 
 ---
@@ -19,7 +19,7 @@ Die Strukturierung von Vorlagen und das Erstellen globaler Formulare, Snippets s
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Bereich</th> 
+   <th style="width:20%">Bereich</th> 
    <th>Fokus überprüfen</th>
   </tr> 
   <tr> 
@@ -46,7 +46,7 @@ Die Strukturierung von Vorlagen und das Erstellen globaler Formulare, Snippets s
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Bereich</th> 
+   <th style="width:20%">Bereich</th> 
    <th>Fokus überprüfen</th>
   </tr> 
   <tr> 
@@ -65,7 +65,7 @@ Die Strukturierung von Vorlagen und das Erstellen globaler Formulare, Snippets s
   <tr> 
    <td>Datenschutz und Compliance</td> 
    <td><li>Entspricht Ihre Formularstrategie Ihren Anforderungen an den Datenschutz und die Anmeldung von Unternehmensdaten? 
-   <br/>Überlegen <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">Die Datenschutz-Grundverordnung (DSGVO)</a>, CASL (kanadisches Anti-Spam-Gesetz), das Controlling the Assault of Non-Solicited Pornography and Marketing Act von 2003 (CAN-SPAM), California Consumer Privacy Act (CCPA) usw. zur Einhaltung von Vorschriften.</li>
+   <br/>     Überlegen <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">Die Datenschutz-Grundverordnung (DSGVO)</a>, Kanadas Anti-Spam-Gesetz (CASL), das Controlling the Assault of Non-Solicited Pornografy and Marketing Act von 2003 (CAN-SPAM), California Consumer Privacy Act (CCPA) usw. zur Einhaltung von Vorschriften.</li>
 <p>Tipp: Denken Sie daran, sich immer an Ihr Rechtsabteilung zu diesen Fragen zu wenden. Fragen Sie Ihr Team nach früheren Initiativen, um die Einhaltung zu gewährleisten, bevor Sie Änderungen vornehmen.</td>
   </tr>
  </tbody> 
@@ -76,7 +76,7 @@ Die Strukturierung von Vorlagen und das Erstellen globaler Formulare, Snippets s
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Bereich</th> 
+   <th style="width:20%">Bereich</th> 
    <th>Fokus überprüfen</th>
   </tr> 
   <tr> 
@@ -104,13 +104,13 @@ Die Strukturierung von Vorlagen und das Erstellen globaler Formulare, Snippets s
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Bereich</th> 
+   <th style="width:20%">Bereich</th> 
    <th>Fokus überprüfen</th>
   </tr> 
   <tr> 
    <td>Ausschnitte</td> 
    <td><li>Wie viele <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md" target="_blank">Snippets</a> Gibt es sie? Werden sie verwendet? 
-   <br/>Wenn nicht, sollten Sie sie für <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md" target="_blank">email</a> und <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md" target="_blank">Landingpage</a> Fußzeileninhalt, Logos und mehr.</li></td>
+   <br/>     Wenn nicht, sollten Sie sie für <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md" target="_blank">email</a> und <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md" target="_blank">Landingpage</a> Fußzeileninhalt, Logos und mehr.</li></td>
   </tr>
  </tbody> 
 </table>
@@ -120,7 +120,7 @@ Die Strukturierung von Vorlagen und das Erstellen globaler Formulare, Snippets s
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Bereich</th> 
+   <th style="width:20%">Bereich</th> 
    <th>Fokus überprüfen</th>
   </tr> 
   <tr> 
@@ -134,7 +134,7 @@ Die Strukturierung von Vorlagen und das Erstellen globaler Formulare, Snippets s
   <tr> 
    <td>Bilder und Dateien</td> 
    <td><li>Alle Bilder oder Dateien <a href="/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md" target="_blank">referenziert auf Webseiten</a> müssen aktualisiert werden? 
-   <p>Beispiel: Die hartcodierte URL-Struktur muss möglicherweise aktualisiert werden, z. B. <code>http://na-sj01.marketo.com/rs/123-ABC-456/images/puppy.png</code>. 
+   <p>Beispiel: Die hartcodierte URL-Struktur <a href="https://nation.marketo.com/t5/product-documents/upcoming-changes-to-design-studio-urls/ta-p/306632#_Toc54870361" target="_blank">möglicherweise aktualisiert werden</a>, beispielsweise <code>http://na-sj01.marketo.com/rs/123-ABC-456/images/puppy.png</code>. 
    <p>Arbeiten Sie mit Ihrem Web-Entwickler zusammen, um festzustellen, wo Sie möglicherweise Updates vornehmen müssen.</li></td>
   </tr>
  </tbody> 
@@ -145,13 +145,13 @@ Die Strukturierung von Vorlagen und das Erstellen globaler Formulare, Snippets s
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Bereich</th> 
+   <th style="width:20%">Bereich</th> 
    <th>Fokus überprüfen</th>
   </tr> 
   <tr> 
    <td>Asset-Status</td> 
    <td><li>Anzahl der Assets in <i>Entwurf</i> und <i>Genehmigt mit Entwurf</i> status?
-   <br/>Wenn es viele gibt, sollten Sie sie löschen oder genehmigen.</li></td>
+   <br/>     Wenn es viele gibt, sollten Sie sie löschen oder genehmigen.</li></td>
   </tr>
   <tr> 
    <td>Asset-Freigabe</td> 

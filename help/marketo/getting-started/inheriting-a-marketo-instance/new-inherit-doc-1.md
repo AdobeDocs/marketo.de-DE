@@ -3,7 +3,7 @@ description: Vererben von Dokument 1 - Marketo-Dokumente - Produktdokumentation
 title: Erben von Doc 1
 hide: true
 hidefromtoc: true
-source-git-commit: 8d9ea20f04ec6320b31c2d6000240b72a45be959
+source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
 workflow-type: tm+mt
 source-wordcount: '1428'
 ht-degree: 4%
@@ -18,20 +18,19 @@ Die folgenden Checklisten (nachfolgende Checklisten, die am Ende jedes Artikels 
 >
 >Wenn Sie ein neuer Marketo Engage-Benutzer sind und nicht mit vielen der Begriffe vertraut sind, sehen Sie sich bitte die [Marketo-Glossar](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
 
-## Adobe Admin Console {#adobe-admin-console}
+## Adobe Identity Management {#adobe-identity-management}
 
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Bereich</th> 
+   <th style="width:20%">Bereich</th> 
    <th>Fokus überprüfen</th>
   </tr> 
   <tr> 
    <td>Abonnement</td> 
    <td><li>Ist Ihr Marketo Engage-Abonnement auf <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank">Adobe Identity Management System</a> (Adobe IMS) Noch? 
-<br/>
-Wenn ja, wurde Ihnen von Ihrem Adobe Admin Console-Systemadministrator die Rolle "Adobe Admin Console-Produktadministrator"zugewiesen? Wenn Sie sich nicht sicher sind, wer in Ihrem Unternehmen über Administratorrechte in der Konsole verfügt, wenden Sie sich an <a href="https://helpx.adobe.com/contact.html" target="_blank">Adobe-Kundenunterstützung</a>.  
-<br/>Wenn nicht, fahren Sie mit dem <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">Erlebnis älterer Benutzerrollen und Berechtigungen</a> unter Marketo Engage &gt; Admin &gt; Benutzer und Rollen , bis Ihr Abonnement erneuert wird.</li></td>
+<br/>     Wenn ja, wurde Ihnen von Ihrem Adobe Admin Console-Systemadministrator die Rolle "Adobe Admin Console-Produktadministrator"zugewiesen? Wenn Sie sich nicht sicher sind, wer in Ihrem Unternehmen über Administratorrechte in der Konsole verfügt, wenden Sie sich an <a href="https://helpx.adobe.com/contact.html" target="_blank">Adobe-Kundenunterstützung</a>.  
+<br/>     Wenn nicht, fahren Sie mit dem <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">Erlebnis älterer Benutzerrollen und Berechtigungen</a> unter Marketo Engage &gt; Admin &gt; Benutzer und Rollen , bis Ihr Abonnement erneuert wird.</li></td>
   </tr>
   <tr> 
    <td>Produktprofil</td> 
@@ -39,13 +38,13 @@ Wenn ja, wurde Ihnen von Ihrem Adobe Admin Console-Systemadministrator die Rolle
 <p>
 <li>Wurde Ihnen in Marketo Engage/Admin/Users &amp; Roles die Rolle "Marketo Engage Product Admin"zugewiesen?</li> 
 <li>Haben Sie allen Produktprofilen der entsprechenden Benutzer in der Adobe Admin Console Marketo Engage zugewiesen?
-<br/>Ist dies nicht der Fall, weisen Sie dem Adobe IMS-Produktprofil eine Marketo Engage zu, bevor Sie die Rollen in Marketo Engage/Admin/Users &amp; Roles zuweisen.</li>
+<br/>     Ist dies nicht der Fall, weisen Sie dem Adobe IMS-Produktprofil eine Marketo Engage zu, bevor Sie die Rollen in Marketo Engage/Admin/Users &amp; Roles zuweisen.</li>
 <p>Hinweis: Wenn Ihr Abonnement mehr als 75 Benutzer umfasst und gerade zu Adobe IMS migriert wurde, können Sie Benutzer auswählen, die in Batches migriert werden sollen, und deren Adobe Identifizieren in Gruppen oder alle gleichzeitig verwalten. Mehr darüber, was erwartet wird <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md#prepare-users-for-migration-day" target="_blank">Adobe IMS-Migrationstag</a>.</td>
   </tr>
   <tr> 
    <td>User Management-API</td> 
    <td><li>Hat Ihr Abonnement irgendwelche Marketo User Management-APIs verwendet?
-<br/>Wenn ja, müssen Sie <a href="https://www.adobe.io/apis/experienceplatform/umapi-new.html" target="_blank">Adobe IMS-APIs</a> , um Benutzer einzuladen, zu aktualisieren und zu löschen, die in Zukunft arbeiten.</li></td>
+<br/>     Wenn ja, müssen Sie <a href="https://www.adobe.io/apis/experienceplatform/umapi-new.html" target="_blank">Adobe IMS-APIs</a> , um Benutzer einzuladen, zu aktualisieren und zu löschen, die in Zukunft arbeiten.</li></td>
   </tr>
  </tbody> 
 </table>
@@ -55,7 +54,7 @@ Wenn ja, wurde Ihnen von Ihrem Adobe Admin Console-Systemadministrator die Rolle
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Bereich</th>
+   <th style="width:20%">Bereich</th>
    <th>Fokus überprüfen</th>
   </tr> 
   <tr> 
@@ -65,7 +64,7 @@ Wenn ja, wurde Ihnen von Ihrem Adobe Admin Console-Systemadministrator die Rolle
 <li>Verfügt Ihr Unternehmen über Richtlinien zum Löschen von Benutzern?</li> 
 <li>Wie viele Benutzer haben <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">Administratorberechtigungen</a>?</li>
 <li>Sollte einer dieser Benutzer in <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">andere Rollen?</a></li> 
-<li>Wer sind die API-Benutzer in dieser Instanz?</li></td>
+<li>Wer ist der <a href="/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md" target="_blank">API-Benutzer</a> in dieser Instanz?</li></td>
   </tr>
   <tr> 
    <td>Rollen</td> 
@@ -88,7 +87,7 @@ Wenn ja, wurde Ihnen von Ihrem Adobe Admin Console-Systemadministrator die Rolle
   <tr> 
    <td>Sandbox (falls zutreffend)</td> 
    <td><li>Haben Sie eine <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md" target="_blank">Sandbox-Instanz</a>?
-   <br/>  Wenn ja, überprüfen Sie die oben genannten Kategorien für Ihre Sandbox.</li>
+   <br/>     Wenn ja, überprüfen Sie die oben genannten Kategorien für Ihre Sandbox.</li>
 <li>Is <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md" target="_blank">Programmimport</a> mit Ihrer Sandbox verknüpft ist?</li></td>
   </tr>
  </tbody> 
@@ -99,7 +98,7 @@ Wenn ja, wurde Ihnen von Ihrem Adobe Admin Console-Systemadministrator die Rolle
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Bereich</th>
+   <th style="width:20%">Bereich</th>
    <th>Fokus überprüfen</th>
   </tr> 
   <tr> 
@@ -114,7 +113,7 @@ Wenn ja, wurde Ihnen von Ihrem Adobe Admin Console-Systemadministrator die Rolle
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Bereich</th>
+   <th style="width:20%">Bereich</th>
    <th>Fokus überprüfen</th>
   </tr> 
   <tr> 
@@ -138,13 +137,13 @@ Wenn ja, wurde Ihnen von Ihrem Adobe Admin Console-Systemadministrator die Rolle
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Bereich</th>
+   <th style="width:20%">Bereich</th>
    <th>Fokus überprüfen</th>
   </tr> 
   <tr> 
    <td>Einstellungen für intelligente Kampagne</td> 
    <td><li><a href="/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md" target="_blank">Haben Sie Einschränkungen?</a> zur Größe von Smart-Kampagnen? 
-   <br/>Ist dies nicht der Fall, können Sie eine hinzufügen. Es wird empfohlen, die Beschränkung der intelligenten Kampagne auf 25 % Ihrer Datenbank zu begrenzen, um eine Überkommunikation oder Verarbeitung Ihrer gesamten Datenbank in Workflows zu vermeiden. Dies schützt nicht nur Ihre Marke, sondern schützt auch die Leistung Ihrer Instanz.</li></td>
+   <br/>     Ist dies nicht der Fall, können Sie eine hinzufügen. Es wird empfohlen, die Beschränkung der intelligenten Kampagne auf 25 % Ihrer Datenbank zu begrenzen, um eine Überkommunikation oder Verarbeitung Ihrer gesamten Datenbank in Workflows zu vermeiden. Dies schützt nicht nur Ihre Marke, sondern schützt auch die Leistung Ihrer Instanz.</li></td>
   </tr>
  </tbody> 
 </table>
@@ -154,7 +153,7 @@ Wenn ja, wurde Ihnen von Ihrem Adobe Admin Console-Systemadministrator die Rolle
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Bereich</th>
+   <th style="width:20%">Bereich</th>
    <th>Fokus überprüfen</th>
   </tr> 
   <tr> 
@@ -170,12 +169,12 @@ Wenn ja, wurde Ihnen von Ihrem Adobe Admin Console-Systemadministrator die Rolle
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Bereich</th>
+   <th style="width:20%">Bereich</th>
    <th>Fokus überprüfen</th>
   </tr> 
   <tr> 
    <td>Tags</td> 
-   <td><li><a href="/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md" target="_blank">Wie viele Tags</a> Gibt es sie? Wie viele Tags werden verwendet? Müssen noch weitere hinzugefügt werden?</li>
+   <td><li><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md" target="_blank">Wie viele Tags</a> Gibt es sie? Wie viele Tags werden verwendet? Müssen noch weitere hinzugefügt werden?</li>
 <li>Sind Tags in Ihren Programmen erforderlich?</li></td>
   </tr>
   <tr> 
@@ -199,28 +198,28 @@ Wenn ja, wurde Ihnen von Ihrem Adobe Admin Console-Systemadministrator die Rolle
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Bereich</th>
+   <th style="width:20%">Bereich</th>
    <th>Fokus überprüfen</th>
   </tr> 
   <tr> 
    <td>Feldverwaltung</td> 
    <td><li>Wie viele Felder gibt es? 
-   <br/>Klicks <a href="/help/marketo/product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.md" target="_blank">Feldnamen exportieren</a> , um eine Liste Ihrer Felder, benutzerdefinierten Felder und deren API-Namen zu überprüfen.</li>
+   <br/>     Klicks <a href="/help/marketo/product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.md" target="_blank">Feldnamen exportieren</a> , um eine Liste Ihrer Felder, benutzerdefinierten Felder und deren API-Namen zu überprüfen.</li>
 <li>Wie viele <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">benutzerdefinierte Felder</a> Gibt es sie?</li>
 <li>Wie viele Felder werden verwendet? 
-<br/>Auswählen <a href="/help/marketo/product-docs/administration/field-management/export-used-by-data-for-a-field.md" target="_blank">Von</a> in der Dropdown-Liste Feldaktionen , um zugehörige Assets eines Felds zu überprüfen.</li>
+<br/>     Auswählen <a href="/help/marketo/product-docs/administration/field-management/export-used-by-data-for-a-field.md" target="_blank">Von</a> in der Dropdown-Liste Feldaktionen , um zugehörige Assets eines Felds zu überprüfen.</li>
 <li>Wie viele Felder werden zwischen Marketo Engage und Ihrem CRM synchronisiert?</li>
 <li>Werden CRM-Felder mit den entsprechenden Objekten synchronisiert?</li>
 <li>Gibt es eine <a href="/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md" target="_blank">benutzerdefinierter Ansichtssatz</a> für Personendetails? Sollte es denn geben?</li>
 <li>Verfügen Sie über eine auf der Quelle basierende Namenskonvention für Ihre Felder? 
-<br/>Wenn nicht, sollten Sie die Implementierung in Erwägung ziehen.</li>
+<br/>     Wenn nicht, sollten Sie die Implementierung in Erwägung ziehen.</li>
 <li>Gibt es Felder? <a href="/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md" target="_blank">blockiert</a>? 
-<br/>Wenn ja, sollten Sie wissen, warum sie das sind.</li></td>
+<br/>     Wenn ja, sollten Sie wissen, warum sie das sind.</li></td>
   </tr>
   <tr> 
    <td>Eigene Aktivitäten</td> 
    <td><li>Gibt es <a href="/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md" target="_blank">benutzerdefinierte Aktivitäten</a>?
-<br/>Wenn ja, durchklicken Sie sie, um zu verstehen, welche Aktivitäten nicht mit einem Marketo-Formular, einer E-Mail oder einer Landingpage verbunden sind.</li></td>
+<br/>     Wenn ja, durchklicken Sie sie, um zu verstehen, welche Aktivitäten nicht mit einem Marketo-Formular, einer E-Mail oder einer Landingpage verbunden sind.</li></td>
   </tr>
   <tr> 
    <td>benutzerdefinierte -Objekte</td> 
@@ -235,7 +234,7 @@ Wenn ja, wurde Ihnen von Ihrem Adobe Admin Console-Systemadministrator die Rolle
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Bereich</th>
+   <th style="width:20%">Bereich</th>
    <th>Fokus überprüfen</th>
   </tr> 
   <tr> 
@@ -255,7 +254,7 @@ Wenn ja, wurde Ihnen von Ihrem Adobe Admin Console-Systemadministrator die Rolle
 <li>Gibt es Regeln für <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md" target="_blank">redirects</a>?</li>
 <li>Haben Sie Domain-Aliase? Verfolgen Sie, wie Sie Ihre Domain-Aliase verwenden?</li>
 <li>Is <a href="https://nation.marketo.com/t5/knowledgebase/setting-up-secured-domains-for-marketo-landing-pages-first-time/ta-p/250370" target="_blank">Sichere Domänen für Einstiegsseiten</a> aktiviert? 
-<br/>Bestätigen Sie, ob Ihre Landingpage-Assets eine "http"-URL enthalten.</li></td>
+<br/>     Bestätigen Sie, ob Ihre Landingpage-Assets eine "http"-URL enthalten.</li></td>
   </tr>
   <tr> 
    <td>Munchkin</td> 
@@ -269,13 +268,13 @@ Wenn ja, wurde Ihnen von Ihrem Adobe Admin Console-Systemadministrator die Rolle
    <td><li>sind <a href="/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md" target="_blank">IP-Einschränkungen</a> aktiviert? Sollen sie das sein?</li>
 <li>Welche Benutzer/Apps führen API-Aufrufe in Ihrer Instanz durch?</li>
 <li>Haben Sie Ihr API-Limit erreicht oder stehen Sie kurz davor? 
-<br/>Falls ja, sollten Sie sie erhöhen oder Ihre Instanz überprüfen, um diese API-Aufrufe zu reduzieren.</li></td>
+<br/>     Falls ja, sollten Sie sie erhöhen oder Ihre Instanz überprüfen, um diese API-Aufrufe zu reduzieren.</li></td>
   </tr>
   <tr> 
    <td>Marketo Sales Insight (falls zutreffend)</td> 
    <td><li>Hat die <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md" target="_blank">MSI-Paket installiert</a>?</li>
 <li>Habt ihr <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md" target="_blank">auf die neueste Version von Sales Insight aktualisiert</a>?</li>
-<li>Haben Sie die Konfiguration von Sales Insight abgeschlossen? <br/>Enterprise/Unlimited-Benutzer <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md" target="_blank">Klicken Sie hier</a>, Professional Users <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md" target="_blank">Klicken Sie hier</a>.</li>
+<li>Haben Sie die Konfiguration von Sales Insight abgeschlossen? <br/>     Enterprise/Unlimited-Benutzer <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md" target="_blank">Klicken Sie hier</a>, Professional Users <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md" target="_blank">Klicken Sie hier</a>.</li>
 <li>Habt ihr <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md" target="_blank">Zugriff auf Ihre Benutzer</a> basierend auf der Anzahl der von Ihnen erworbenen Plätze?</li>
 <li>sind <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md" target="_blank">Sterne und Flammen</a> angepasst?</li></td>
   </tr>
@@ -303,7 +302,7 @@ Wenn ja, wurde Ihnen von Ihrem Adobe Admin Console-Systemadministrator die Rolle
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Bereich</th>
+   <th style="width:20%">Bereich</th>
    <th>Fokus überprüfen</th>
   </tr> 
   <tr> 
@@ -324,7 +323,7 @@ Wenn ja, wurde Ihnen von Ihrem Adobe Admin Console-Systemadministrator die Rolle
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Bereich</th>
+   <th style="width:20%">Bereich</th>
    <th>Fokus überprüfen</th>
   </tr> 
   <tr> 

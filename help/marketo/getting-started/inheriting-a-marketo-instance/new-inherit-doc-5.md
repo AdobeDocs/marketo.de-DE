@@ -3,7 +3,7 @@ description: Vererben Sie Doc 5 - Marketo Docs - Produktdokumentation
 title: Erben von Doc 5
 hide: true
 hidefromtoc: true
-source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
+source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 2%
@@ -19,7 +19,7 @@ Nachdem Sie nun die wichtigsten Produktbereiche kennen gelernt haben, die bei de
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Bereich</th> 
+   <th style="width:20%">Bereich</th> 
    <th>Fokus überprüfen</th>
   </tr> 
   <tr> 
@@ -40,13 +40,13 @@ Nachdem Sie nun die wichtigsten Produktbereiche kennen gelernt haben, die bei de
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Bereich</th> 
+   <th style="width:20%">Bereich</th> 
    <th>Fokus überprüfen</th>
   </tr> 
   <tr> 
    <td>Datenwörterbuch</td> 
    <td><li>Gibt es ein separates Datenwörterbuch, das die verfügbaren Felder erklärt?
-   <br/>Ist dies nicht der Fall, können Sie eine erstellen.</li></td>
+   <br/>     Ist dies nicht der Fall, können Sie eine erstellen.</li></td>
   </tr>
   <tr> 
    <td>Organisation</td> 
@@ -60,7 +60,7 @@ Nachdem Sie nun die wichtigsten Produktbereiche kennen gelernt haben, die bei de
   <tr> 
    <td>Playbooks</td> 
     <td><li>Verfügt Ihr Unternehmen über einen Benutzer oder ein Admin Playbook? 
-    <br/>Wenn ja, aktualisieren Sie diese entsprechend.</li></td>
+    <br/>     Wenn ja, aktualisieren Sie diese entsprechend.</li></td>
   </tr>
   <tr> 
    <td>Gespräche mit internen Interessengruppen</td> 

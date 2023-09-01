@@ -3,23 +3,23 @@ description: Vererben Sie Doc 3 - Marketo Docs - Produktdokumentation
 title: Erben von Doc 3
 hide: true
 hidefromtoc: true
-source-git-commit: 9b2d2ffd93f2c8b209e4ea25bbe7ef41c9f0e5fc
+source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
 workflow-type: tm+mt
-source-wordcount: '788'
+source-wordcount: '796'
 ht-degree: 2%
 
 ---
 
 # Erben von Doc 3 {#inherit-doc-3}
 
-Bei Marketingaktivitäten kann Ihr Marketing-Team Smart-Kampagnen erstellen, Kreativ-Assets erstellen (z. B. E-Mails und Landingpages) und die Asset-Leistung anzeigen.
+Organisieren Sie Ihren Bereich Marketingaktivitäten ordnungsgemäß, um andere bei der Suche und Verwaltung verschiedener Programme in Ihrer Marketo Engage-Instanz zu unterstützen und sicherzustellen, dass Personen verarbeitet werden, die vom Marketing zum Vertrieb weitergeleitet werden.
 
 ## Organisation {#organization}
 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Bereich</th> 
+   <th style="width:20%">Bereich</th> 
    <th>Fokus überprüfen</th>
   </tr> 
   <tr> 
@@ -33,7 +33,7 @@ Bei Marketingaktivitäten kann Ihr Marketing-Team Smart-Kampagnen erstellen, Kre
   <tr> 
    <td>Programme</td> 
    <td><li>KG - IST DAS NOCH RELEVANT Gibt es eine <a href="https://business.adobe.com/blog/perspectives/center-of-excellence-top-10-questions-to-ask-yourself" target="_blank">Exzellenzzentrum</a> mit Programmvorlagen? 
-   <br/>Wenn ja, sind die Programmvorlagen für die Anwendungsfälle der Teams sinnvoll?</li>
+   <br/>     Wenn ja, sind die Programmvorlagen für die Anwendungsfälle der Teams sinnvoll?</li>
 <li>Sind ähnliche Programmtypen <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md" target="_blank">einheitlich strukturiert</a>?</li>
 <li>sind <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md" target="_blank">Zeitkosten</a> eingeführt?</li>
 <li>Sind alle Programme <a href="/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md" target="_blank">mit SFDC-Kampagnen synchronisiert</a> (falls zutreffend)?</li>
@@ -64,22 +64,22 @@ Bei Marketingaktivitäten kann Ihr Marketing-Team Smart-Kampagnen erstellen, Kre
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Bereich</th> 
+   <th style="width:20%">Bereich</th> 
    <th>Fokus überprüfen</th>
   </tr> 
   <tr> 
    <td>Token</td> 
-   <td><li>Werden Token in Ihren am häufigsten verwendeten Programmtypen verwendet? 
-   <br/>Wenn nicht, sollten Sie sie zur Effizienzsteigerung in Erwägung ziehen.</li>
+   <td><li>sind <a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md" target="_blank">Token</a> in Ihren am häufigsten verwendeten Programmtypen verwendet werden? 
+   <br/>     Wenn nicht, sollten Sie sie zur Effizienzsteigerung in Erwägung ziehen.</li>
 <li>Wenn Token implementiert sind, gibt es globale Ordner-Token? Wie werden sie verwendet?</li></td>
   </tr>
   <tr> 
    <td>Engagementprogramme</td> 
    <td><li>Gibt es Live <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md" target="_blank">Interaktionsmaßnahmen</a> laufen?</li>
 <li>Wie viele <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md" target="_blank">Menschen sind erschöpft</a>? 
-<br/>Wenn es viele erschöpfte Personen gibt, sollten Sie Inhalt hinzufügen.</li>
-<li>Sind Menschen mit dem Inhalt beschäftigt? 
-<br/>Falls nicht, sollten Sie sie aktualisieren und/oder A/B-Tests durchführen.</li></td>
+<br/>     Wenn es viele erschöpfte Menschen gibt, denken Sie an <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md" target="_blank">Inhalt hinzufügen</a>.</li>
+<li>sind Personen <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md" target="_blank">Interaktion mit dem Inhalt</a>? 
+<br/>     Falls nicht, sollten Sie sie aktualisieren und/oder A/B-Tests durchführen.</li></td>
   </tr>
   <tr> 
    <td>Stapelkampagnen</td> 
@@ -116,7 +116,7 @@ Bei Marketingaktivitäten kann Ihr Marketing-Team Smart-Kampagnen erstellen, Kre
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Bereich</th> 
+   <th style="width:20%">Bereich</th> 
    <th>Fokus überprüfen</th>
   </tr> 
   <tr> 
@@ -140,7 +140,7 @@ Bei Marketingaktivitäten kann Ihr Marketing-Team Smart-Kampagnen erstellen, Kre
   <tr> 
    <td>Datenschutz und Compliance</td> 
    <td><li>Verfügen Sie über Programme, um sicherzustellen, dass Sie die Datenschutzgesetze und Spam-Gesetze einhalten? 
-   <br/>Überlegen <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">DSGVO</a>, CASL, CAN-SPAM, CCPA usw.</li>
+   <br/>     Überlegen <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">DSGVO</a>, CASL, CAN-SPAM, CCPA usw.</li>
 <p>Tipp: Denken Sie daran, sich immer an Ihr Rechtsabteilung zu diesen Fragen zu wenden. Fragen Sie Ihr Team nach früheren Initiativen, um die Einhaltung zu gewährleisten, bevor Sie Änderungen vornehmen.</td>
   </tr>
   <tr> 
