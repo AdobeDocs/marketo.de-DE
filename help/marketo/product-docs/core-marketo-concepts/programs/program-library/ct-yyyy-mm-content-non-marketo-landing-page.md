@@ -4,10 +4,10 @@ title: Einstiegsseite für CT-YYY-MM-Content (Nicht-Marketo-Inhalt)
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 0f71600b18315feb3ef32e95dfb108b09c4cb79f
+source-git-commit: 17b86ff816a447315dda5e1cbac67536472e777d
 workflow-type: tm+mt
-source-wordcount: '410'
-ht-degree: 17%
+source-wordcount: '407'
+ht-degree: 18%
 
 ---
 
@@ -95,9 +95,7 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
  </tbody> 
 </table>
 
-BILDSCHIRM DES PROGRAMMS
-
-## My Tokens Include {#my-tokens-included}
+## Meine Token Enthalten {#my-tokens-included}
 
 <table style="table-layout:auto"> 
  <tbody> 

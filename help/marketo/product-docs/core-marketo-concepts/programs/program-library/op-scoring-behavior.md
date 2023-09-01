@@ -4,7 +4,7 @@ title: OP-Scoring-Verhalten
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 0f71600b18315feb3ef32e95dfb108b09c4cb79f
+source-git-commit: 17b86ff816a447315dda5e1cbac67536472e777d
 workflow-type: tm+mt
 source-wordcount: '357'
 ht-degree: 32%
@@ -155,8 +155,6 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
  </tbody> 
 </table>
 
-BILDSCHIRM DES PROGRAMMS
-
 ## My Tokens Include {#my-tokens-included}
 
 <table style="table-layout:auto"> 
@@ -243,6 +241,8 @@ BILDSCHIRM DES PROGRAMMS
   </tr>
  </tbody> 
 </table>
+
+BILDSCHIRM DES PROGRAMMS
 
 ## Konfliktregeln {#conflict-rules}
 

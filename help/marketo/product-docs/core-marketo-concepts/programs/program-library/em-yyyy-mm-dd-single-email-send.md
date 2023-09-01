@@ -4,7 +4,7 @@ title: EM-JJJJ-MM-TT-Einzelner E-Mail-Versand
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: ea276734b6d277f4a3548a9a697e1c7ed4c30e2d
+source-git-commit: 17b86ff816a447315dda5e1cbac67536472e777d
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 23%
@@ -86,9 +86,7 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
  </tbody> 
 </table>
 
-BILDSCHIRM DES PROGRAMMS
-
-## My Tokens Include {#my-tokens-included}
+## Meine Token Enthalten {#my-tokens-included}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -114,6 +112,8 @@ BILDSCHIRM DES PROGRAMMS
   </tr>
  </tbody> 
 </table>
+
+BILDSCHIRM DES PROGRAMMS
 
 ## Konfliktregeln {#conflict-rules}
 
