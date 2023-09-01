@@ -3,9 +3,9 @@ description: Vererben Sie Doc 5 - Marketo Docs - Produktdokumentation
 title: Erben von Doc 5
 hide: true
 hidefromtoc: true
-source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
+source-git-commit: 1b97a8a2a491c2091eb722a16ab10f901e77a912
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '237'
 ht-degree: 2%
 
 ---
@@ -46,7 +46,7 @@ Nachdem Sie nun die wichtigsten Produktbereiche kennen gelernt haben, die bei de
   <tr> 
    <td>Datenwörterbuch</td> 
    <td><li>Gibt es ein separates Datenwörterbuch, das die verfügbaren Felder erklärt?
-   <br/>     Ist dies nicht der Fall, können Sie eine erstellen.</li></td>
+   <br/>     Ist dies nicht der Fall, sollten Sie in Erwägung ziehen, einen Ordner zu erstellen, auf den Ihr Marketing Operations-Team zugreifen kann.</li></td>
   </tr>
   <tr> 
    <td>Organisation</td> 
