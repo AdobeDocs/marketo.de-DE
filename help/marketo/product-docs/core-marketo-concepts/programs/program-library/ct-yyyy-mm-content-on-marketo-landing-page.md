@@ -4,9 +4,9 @@ title: CT-YYY-MM-Content auf der Marketo-Landingpage
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 17b86ff816a447315dda5e1cbac67536472e777d
+source-git-commit: 569f61f15a9bdeb31b3a60b237f0c19aad68800a
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '479'
 ht-degree: 18%
 
 ---
@@ -48,23 +48,23 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
   </tr> 
   <tr> 
    <td>E-Mail</td> 
-   <td>Schnellstart-E-Mail-Vorlage</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Schnellstart-E-Mail-Vorlage</a></td>
    <td>01-Email-Vielen Dank</td>
   </tr>
   <tr> 
    <td>Landing Page</td> 
-   <td>Schnellstart-LP-Vorlage</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Schnellstart-LP-Vorlage</a></td>
    <td>01 - LP - Registrierung</td>
   </tr>
   <tr> 
    <td>Landing Page</td> 
-   <td>Schnellstart-LP-Vorlage</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Schnellstart-LP-Vorlage</a></td>
    <td>02 - LP - Vielen Dank</td>
   </tr>
   <tr> 
    <td>Formular</td> 
    <td> </td>
-   <td>Formular zur Inhaltsregistrierung</td>
+   <td>FM - Formular zur Inhaltsregistrierung</td>
   </tr>
   <tr> 
    <td>Lokaler Bericht</td> 
@@ -76,21 +76,26 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
    <td> </td>
    <td>Landing Page-Leistung</td>
   </tr>
-  <tr> 
+   <tr> 
    <td>Intelligente Kampagne</td> 
    <td> </td>
-   <td>01 Ausgefülltes Formular</td>
+   <td>00 - Akquiseprogramm erfassen</td>
   </tr>
   <tr> 
    <td>Intelligente Kampagne</td> 
    <td> </td>
-   <td>02-Engagiert (Programmerfolg)</td>
+   <td>01 - Ausgefülltes Formular</td>
+  </tr>
+  <tr> 
+   <td>Intelligente Kampagne</td> 
+   <td> </td>
+   <td>02 - Interagiert (Programmerfolg)</td>
   </tr>
   <tr> 
    <td>Ordner</td> 
    <td> </td>
    <td>Assets - Häusert alle Kreativ-Assets 
-<br/>(Unterordner für E-Mail und Landingpages)  </td>
+<br/>(Unterordner für E-Mails, Landingpages und Forms)  </td>
   </tr>
   <tr> 
    <td>Ordner</td> 

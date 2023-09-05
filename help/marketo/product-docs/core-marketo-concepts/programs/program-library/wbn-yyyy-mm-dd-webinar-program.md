@@ -4,9 +4,9 @@ title: WBN-JJJJ-MM-TT-Webinar-Programm
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: ea276734b6d277f4a3548a9a697e1c7ed4c30e2d
+source-git-commit: 569f61f15a9bdeb31b3a60b237f0c19aad68800a
 workflow-type: tm+mt
-source-wordcount: '591'
+source-wordcount: '581'
 ht-degree: 20%
 
 ---
@@ -53,37 +53,37 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
   </tr> 
   <tr> 
    <td>E-Mail</td> 
-   <td>Schnellstart-E-Mail-Vorlage</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Schnellstart-E-Mail-Vorlage</a></td>
    <td>01 - E-Mail - Einladung</td>
   </tr>
    <tr> 
    <td>E-Mail</td> 
-   <td>Schnellstart-E-Mail-Vorlage</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Schnellstart-E-Mail-Vorlage</a></td>
    <td>02 - E-Mail - Erinnerung zur Einladung</td>
   </tr>
    <tr> 
    <td>E-Mail</td> 
-   <td>Schnellstart-E-Mail-Vorlage</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Schnellstart-E-Mail-Vorlage</a></td>
    <td>03 - E-Mail - Erinnerung an Einladung - Letzte Chance</td>
   </tr>
   <tr> 
    <td>E-Mail</td> 
-   <td>Schnellstart-E-Mail-Vorlage</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Schnellstart-E-Mail-Vorlage</a></td>
    <td>04 - E-Mail - Anmeldebestätigung</td>
   </tr>
   <tr> 
    <td>E-Mail</td> 
-   <td>Schnellstart-E-Mail-Vorlage</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Schnellstart-E-Mail-Vorlage</a></td>
    <td>05 - E-Mail - Erinnerung an die Teilnahme</td>
   </tr>
   <tr> 
    <td>E-Mail</td> 
-   <td>Schnellstart-E-Mail-Vorlage</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Schnellstart-E-Mail-Vorlage</a></td>
    <td>06 - E-Mail - Follow-up - teilgenommen</td>
   </tr>
   <tr> 
    <td>E-Mail</td> 
-   <td>Schnellstart-E-Mail-Vorlage</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Schnellstart-E-Mail-Vorlage</a></td>
    <td>07 - E-Mail - Follow-up - No Show </td>
   </tr>
   <tr>
@@ -94,17 +94,17 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
   </tr>
   <tr> 
    <td>Landing Page</td> 
-   <td>Schnellstart-LP-Vorlage</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Schnellstart-LP-Vorlage</a></td>
    <td>01 - LP - Registrierung</td>
   </tr>
   <tr> 
    <td>Landing Page</td> 
-   <td>Schnellstart-LP-Vorlage</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Schnellstart-LP-Vorlage</a></td>
    <td>02 - LP - Vielen Dank</td>
   </tr>
   <tr> 
    <td>Landing Page</td> 
-   <td>Schnellstart-LP-Vorlage</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Schnellstart-LP-Vorlage</a></td>
    <td>03 - LP - On-Demand</td>
   </tr>
   <tr> 
@@ -150,17 +150,12 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
   <tr> 
    <td>Intelligente Kampagne</td> 
    <td> </td>
-   <td>04 - Eingestiegen (Programmerfolg)</td>
+   <td>04 - Folgenachrichten senden</td>
   </tr>
   <tr> 
    <td>Intelligente Kampagne</td> 
    <td> </td>
-   <td>05 - Folgenachrichten senden</td>
-  </tr>
-  <tr> 
-   <td>Intelligente Kampagne</td> 
-   <td> </td>
-   <td>06 - Teilnehmer On-Demand (Programmerfolg)</td>
+   <td>05 - Teilnehmer On-Demand (Programmerfolg)</td>
   </tr>
   <tr> 
    <td>Ordner</td> 
@@ -333,7 +328,7 @@ BILDSCHIRM DES PROGRAMMS
 
 >[!TIP]
 >
->Vergessen Sie nicht, die Kampagnen &quot;04-Teilnehmer (Programmerfolg)&quot;und &quot;06-Teilnehmer On-Demand (Programmerfolg)&quot;zu aktivieren, um den Erfolg zu verfolgen! Verwenden Sie dies _before_ Ihre E-Mails werden gesendet.
+>Vergessen Sie nicht, die Kampagne &quot;05 - Teilnahme (Programmerfolg)&quot;zu aktivieren, um den Erfolg zu verfolgen! Verwenden Sie dies _before_ Ihre E-Mails werden gesendet.
 
 >[!IMPORTANT]
 >

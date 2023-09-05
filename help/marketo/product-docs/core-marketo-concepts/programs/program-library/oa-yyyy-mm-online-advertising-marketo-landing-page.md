@@ -4,9 +4,9 @@ title: OA-YYY-MM-Online Advertising Marketo-Landingpage
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 17b86ff816a447315dda5e1cbac67536472e777d
+source-git-commit: 569f61f15a9bdeb31b3a60b237f0c19aad68800a
 workflow-type: tm+mt
-source-wordcount: '477'
+source-wordcount: '480'
 ht-degree: 18%
 
 ---
@@ -29,8 +29,8 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
   </tr> 
   <tr> 
    <td>Online-Werbung</td> 
-   <td>01-Mitglied 
-<br/>02-Engaged-Success</td>
+   <td>01 - Mitglied 
+<br/>02 - Interagiert - Erfolg</td>
    <td>Inklusiv</td>
    <td>Standard</td>
   </tr>
@@ -53,17 +53,17 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
   </tr>
   <tr> 
    <td>E-Mail</td> 
-   <td>Schnellstart-E-Mail-Vorlage</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Schnellstart-E-Mail-Vorlage</a></td>
    <td>01-Email-Vielen Dank</td>
   </tr>
   <tr> 
    <td>Landing Page</td> 
-   <td>Schnellstart-LP-Vorlage</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Schnellstart-LP-Vorlage</a></td>
    <td>01 - LP - Registrierung</td>
   </tr>
    <tr> 
    <td>Landing Page</td> 
-   <td>Schnellstart-LP-Vorlage</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Schnellstart-LP-Vorlage</a></td>
    <td>02 - LP - Vielen Dank</td>
   </tr>
    <tr> 
@@ -79,17 +79,17 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
   <tr> 
    <td>Intelligente Kampagne</td> 
    <td> </td>
-   <td>00-Capture Acquisition Program</td>
+   <td>00 - Akquiseprogramm erfassen</td>
   </tr>
   <tr> 
    <td>Intelligente Kampagne</td> 
    <td> </td>
-   <td>01 Ausgefülltes Formular</td>
+   <td>01 - Ausgefülltes Formular</td>
   </tr>
   <tr> 
    <td>Intelligente Kampagne</td> 
    <td> </td>
-   <td>02-Engagiert (Programmerfolg)</td>
+   <td>02 - Interagiert (Programmerfolg)</td>
   </tr>
   <tr> 
    <td>Ordner</td> 
@@ -207,7 +207,7 @@ BILDSCHIRM DES PROGRAMMS
 
 >[!TIP]
 >
->Vergessen Sie nicht, die Kampagne &quot;02-engagiert&quot;zu aktivieren, um den Erfolg zu verfolgen! Verwenden Sie dies _before_ Ihr Formular ist live und E-Mails werden gesendet.
+>Vergessen Sie nicht, die Kampagne &quot;02 - Interagiert (Programmerfolg)&quot;zu aktivieren, um den Erfolg zu verfolgen! Verwenden Sie dies _before_ Ihr Formular ist live und E-Mails werden gesendet.
 
 >[!IMPORTANT]
 >
