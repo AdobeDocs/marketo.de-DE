@@ -3,20 +3,24 @@ description: Interaktive Webinare - Überblick - Marketo-Dokumente - Produktdoku
 title: Interaktive Webinare - Überblick
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: c38f2361edcf8ed04aff28b25ea5f5fb757fb5ab
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '348'
 ht-degree: 0%
 
 ---
 
 # Interaktive Webinare - Überblick {#interactive-webinars-overview}
 
-Die Funktion &quot;Interaktive Webinare&quot;ist unsere integrierte Webinar-Plattform in Marketo Engage. Keine zusätzlichen Tools oder Integrationen erforderlich.
+Die interaktive Webinarfunktion ist unsere integrierte Webinar-Plattform innerhalb von Marketo Engage. Keine zusätzlichen Tools oder Integrationen erforderlich.
+
+>[!IMPORTANT]
+>
+>Interaktive Webinare mit Adobe Connect sind eine Funktion mit integrierter Integration in Adobe Connect. Ihre Nutzung von interaktiven Webinaren unterliegt zusätzlichen Nutzungsbedingungen.  Bitte überprüfen Sie Ihren Vertrag oder kontaktieren Sie Adobe, um sich über die zusätzlichen Geschäftsbedingungen zu informieren.
 
 ## Was sind interaktive Webinare? {#what-is-interactive-webinars}
 
-Interaktive Webinare erweitern das bestehende Events- und Webinarerlebnis, indem sie ein natives und nahtloses Erlebnis bieten, mit dem Sie Ereignisse in Marketo Engage erstellen, verwalten und bereitstellen können. Wenn Sie [Erstellen eines interaktiven Webinars](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}, stehen mehrere vordefinierte Meetingvorlagen zur Auswahl, die alle angepasst werden können (Sie können auch benutzerdefinierte Vorlagen erstellen und verwenden). Teilnehmer können Computerbildschirme/Dateien freigeben, miteinander chatten, Audio- und Videoübertragungen durchführen und an interaktiven Online-Aktivitäten teilnehmen.
+Interaktive Webinare erweitern das bestehende Events- und Webinarerlebnis, indem sie ein natives und nahtloses Erlebnis bieten, mit dem Sie Ereignisse innerhalb von Marketo Engage erstellen, verwalten und bereitstellen können. Wenn Sie [Erstellen eines interaktiven Webinars](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}, stehen mehrere vordefinierte Meetingvorlagen zur Auswahl, die alle angepasst werden können (Sie können auch benutzerdefinierte Vorlagen erstellen und verwenden). Teilnehmer können Computerbildschirme/Dateien freigeben, miteinander chatten, Audio- und Videoübertragungen durchführen und an interaktiven Online-Aktivitäten teilnehmen.
 
 Angebote für interaktive Webinare [drei verschiedene Lizenzen](/help/marketo/product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md){target="_blank"}, mit jeweils unterschiedlichen Funktionen und Kapazitäten.
 
