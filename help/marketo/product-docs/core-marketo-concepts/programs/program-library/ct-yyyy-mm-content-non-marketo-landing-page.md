@@ -4,7 +4,7 @@ title: Einstiegsseite für CT-YYY-MM-Content (Nicht-Marketo-Inhalt)
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 17b86ff816a447315dda5e1cbac67536472e777d
+source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
 workflow-type: tm+mt
 source-wordcount: '407'
 ht-degree: 18%
@@ -48,7 +48,7 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
   </tr> 
   <tr> 
    <td>E-Mail</td> 
-   <td>Schnellstart-E-Mail-Vorlage</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Schnellstart-E-Mail-Vorlage</a></td>
    <td>01-Email-Vielen Dank</td>
   </tr>
   <tr> 

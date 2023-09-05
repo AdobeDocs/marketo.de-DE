@@ -4,7 +4,7 @@ title: EV-JJJJ-MM-TT-Veranstaltungsprogramm
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: ea276734b6d277f4a3548a9a697e1c7ed4c30e2d
+source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
 workflow-type: tm+mt
 source-wordcount: '566'
 ht-degree: 21%
@@ -51,47 +51,47 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
   </tr> 
   <tr> 
    <td>E-Mail</td> 
-   <td>Schnellstart-E-Mail-Vorlage</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Schnellstart-E-Mail-Vorlage</a></td>
    <td>01-Email-Vielen Dank</td>
   </tr>
    <tr> 
    <td>E-Mail</td> 
-   <td>Schnellstart-E-Mail-Vorlage</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Schnellstart-E-Mail-Vorlage</a></td>
    <td>02a- E-Mail - Einladung</td>
   </tr>
   <tr> 
    <td>E-Mail</td> 
-   <td>Schnellstart-E-Mail-Vorlage</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Schnellstart-E-Mail-Vorlage</a></td>
    <td>02b - E-Mail - Erinnerung an Einladung</td>
   </tr>
   <tr> 
    <td>E-Mail</td> 
-   <td>Schnellstart-E-Mail-Vorlage</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Schnellstart-E-Mail-Vorlage</a></td>
    <td>02c- E-Mail - Einladungs-Erinnerung letzte Chance</td>
   </tr>
   <tr> 
    <td>E-Mail</td> 
-   <td>Schnellstart-E-Mail-Vorlage</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Schnellstart-E-Mail-Vorlage</a></td>
    <td>03 - E-Mail - An Erinnerung teilnehmen</td>
   </tr>
   <tr> 
    <td>E-Mail</td> 
-   <td>Schnellstart-E-Mail-Vorlage</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Schnellstart-E-Mail-Vorlage</a></td>
    <td>04a - E-Mail - Follow-up - teilgenommen</td>
   </tr>
   <tr> 
    <td>E-Mail</td> 
-   <td>Schnellstart-E-Mail-Vorlage</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Schnellstart-E-Mail-Vorlage</a></td>
    <td>04b - E-Mail - Follow-up - NoShow</td>
   </tr>
   <tr> 
    <td>Landing Page</td> 
-   <td>Schnellstart-LP-Vorlage</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Schnellstart-LP-Vorlage</a></td>
    <td>01a - LP - Registrierung</td>
   </tr>
   <tr> 
    <td>Landing Page</td> 
-   <td>Schnellstart-LP-Vorlage</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Schnellstart-LP-Vorlage</a></td>
    <td>01b - LP - Vielen Dank</td>
   </tr>
   <tr> 

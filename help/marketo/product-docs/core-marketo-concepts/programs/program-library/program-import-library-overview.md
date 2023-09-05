@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Programs
 exl-id: 1271c60b-1bcd-458a-bfdc-af0d5535743c
-source-git-commit: d7f3ccbbef3afb8e2f51a0a5515c5a5054c72696
+source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Die Marketo Engage Reference Library enthält mehrere Startprogramme, die Sie direkt in Ihre Marketo-Instanz importieren können, um Programme zu starten, die Ihr Team unterstützen.
 
-Die Bibliothek umfasst Programme wie E-Mail, Interaktion, Ereignis, Scoring, Zustellbarkeit und Betrieb. Alle Programme wurden vom Adobe Product Team entwickelt und von unserem weltweiten Professional Services Team geprüft, um Qualität und Effektivität zu maximieren.
+Die Bibliothek umfasst Programme wie E-Mail, Interaktion, Ereignis, Scoring, Zustellbarkeit und Betrieb. Alle Programme wurden vom Adobe Product Team entwickelt und von unserem [globale Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} -Team zusammenarbeiten, um die Qualität und Effektivität zu maximieren.
 
 ## Verfügbare Programmbeispiele {#available-program-examples}
 

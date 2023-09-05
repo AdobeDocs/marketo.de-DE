@@ -3,9 +3,9 @@ description: Prädiktive Filter - Marketo-Dokumente - Produktdokumentation
 title: Vorhersagefilter
 exl-id: 27736b80-cd8b-455d-9d73-c17d492d0906
 feature: Predictive Audiences
-source-git-commit: 9019cb4b81fb3acd744e644d51059644af454e5e
+source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
 workflow-type: tm+mt
-source-wordcount: '408'
+source-wordcount: '406'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Im Rahmen von Predictive Audiences bietet Marketo eine Gruppe von KI/ML-basierte
 
 >[!NOTE]
 >
->Die Filter &quot;Wahrscheinlich teilnehmen&quot; und &quot;Wahrscheinlich registrieren&quot; können nur in Event- oder E-Mail-Programmen verwendet werden. &quot;Wahrscheinlichkeit der Abmeldung&quot;, &quot;Look-alike der Programmmitglieder&quot;und &quot;Lookalike der Smart List Members&quot;können in allen Programmtypen verwendet werden.
+>Die Filter &quot;Wahrscheinlich teilnehmen&quot; und &quot;Wahrscheinlich registrieren&quot; können nur in Veranstaltungsprogrammen verwendet werden. &quot;Wahrscheinlichkeit der Abmeldung&quot;, &quot;Look-alike der Programmmitglieder&quot;und &quot;Lookalike der Smart List Members&quot;können in allen Programmtypen verwendet werden.
 
 ## Wahrscheinlichkeit der Teilnahme {#likelihood-to-attend}
 
