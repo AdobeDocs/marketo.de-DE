@@ -3,10 +3,10 @@ description: Interaktive Webinare - Überblick - Marketo-Dokumente - Produktdoku
 title: Interaktive Webinare - Überblick
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-source-git-commit: c38f2361edcf8ed04aff28b25ea5f5fb757fb5ab
+source-git-commit: 2aa7c1cb3d41ef9fa4eb5906d2ac8f631ce8e209
 workflow-type: tm+mt
-source-wordcount: '348'
-ht-degree: 0%
+source-wordcount: '354'
+ht-degree: 2%
 
 ---
 
@@ -16,7 +16,7 @@ Die interaktive Webinarfunktion ist unsere integrierte Webinar-Plattform innerha
 
 >[!IMPORTANT]
 >
->Interaktive Webinare mit Adobe Connect sind eine Funktion mit integrierter Integration in Adobe Connect. Ihre Nutzung von interaktiven Webinaren unterliegt zusätzlichen Nutzungsbedingungen.  Bitte überprüfen Sie Ihren Vertrag oder kontaktieren Sie Adobe, um sich über die zusätzlichen Geschäftsbedingungen zu informieren.
+>Interaktive Webinare mit Adobe Connect sind eine Funktion mit integrierter Integration in Adobe Connect. Ihre Nutzung von interaktiven Webinaren unterliegt zusätzlichen Nutzungsbedingungen.  Bitte überprüfen Sie Ihren Vertrag oder [Adobe kontaktieren](https://nation.marketo.com/t5/support/ct-p/Support) um sich über die zusätzlichen Geschäftsbedingungen zu informieren.
 
 ## Was sind interaktive Webinare? {#what-is-interactive-webinars}
 
