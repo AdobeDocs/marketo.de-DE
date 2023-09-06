@@ -4,9 +4,9 @@ title: Schnellstart-Landingpage-Vorlage
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
+source-git-commit: 77314760bfd188725440311f3dc9da2005488ee5
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '465'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
    * Bereich ein- oder ausblenden
    * Auffüllung oben im Abschnitt
    * Unterer Abstand des Abschnitts
-* PICC
+* ![](assets/quick-start-landing-page-template-1.png)
 
 ### Bildabschnitt {#image-section}
 
@@ -42,7 +42,7 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
    * Link zum Bannerbild
    * Die Bannerbreite - eine der Schalter unten rechts ermöglicht es Ihnen, das Bild entweder auf die Breite des Inhalts-Containers oder auf die Breite des gesamten Browsers auszurichten
    * Bereich ein- oder ausblenden
-* PICC
+* ![](assets/quick-start-landing-page-template-2.png)
 
 ### 2-Spalten-Text links, Formular rechts {#two-col-left-form-right}
 
@@ -56,7 +56,7 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
    * Anzeigen oder Ausblenden des gesamten Abschnitts
    * Ein- oder Ausblenden des Formulars (Ausblenden des Formulars) bewirkt, dass der Text in der linken Spalte die Breite der Seite ausfüllt. Dies kann für eine Dankeseite oder Bestätigungsseite verwendet werden, auf der kein Formular vorhanden ist.)
    * Datenschutz-Richtlinientext ein- oder ausblenden
-* PICC
+* ![](assets/quick-start-landing-page-template-3.png)
 
 ### Videoabschnitt {#video-section}
 
@@ -66,7 +66,7 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
    * Einbettungscode für Video
    * Videoüberschrift einblenden/ausblenden
    * Video ein-/ausblenden
-* PICC
+* ![](assets/quick-start-landing-page-template-4.png)
 
 ### Fußzeilenbereich {#footer-section}
 
@@ -76,7 +76,7 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
    * Hintergrundfarbe für Abschnitt
    * Farbe für Social-Symbole
    * Bereich einblenden/ausblenden
-* PICC
+* ![](assets/quick-start-landing-page-template-5.png)
 
 ### Zusätzliche Variablen {#additional-variables}
 

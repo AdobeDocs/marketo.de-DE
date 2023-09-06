@@ -3,9 +3,9 @@ description: Vererben von Dokument 2 - Marketo-Dokumente - Produktdokumentation
 title: Erben von Doc 2
 hide: true
 hidefromtoc: true
-source-git-commit: f41cb94d96d475e7ea063fb6fbbab3b2363f6346
+source-git-commit: 77314760bfd188725440311f3dc9da2005488ee5
 workflow-type: tm+mt
-source-wordcount: '366'
+source-wordcount: '368'
 ht-degree: 8%
 
 ---
@@ -75,7 +75,7 @@ Verstehen Sie die Gesamtzahl der Personen, vermarktbaren Personen und der Person
    <td><li>Wie viele <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" target="_blank">Smart-Listen</a> Gibt es sie? Wie werden sie in dieser Instanz verwendet?</li>
 <li>Sind die Listen in einer zusammenhängenden Ordnerstruktur organisiert? 
 <br/>     Wenn Sie verwaiste Listen haben, sollten Sie Ihren Baum so organisieren, dass Assets einfach zu finden sind.</li>
-<p>Tipp: <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">Archivierung</a> Intelligente Listen, die nicht mehr benötigt werden, helfen bei der Organisation und Leistung.</td>
+<p><img src="assets/tip-icon.png" alt="Tippsymbol">TIPP: <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">Archivierung</a> Intelligente Listen, die nicht mehr benötigt werden, helfen bei der Organisation und Leistung.</td>
   </tr>
  </tbody> 
 </table>

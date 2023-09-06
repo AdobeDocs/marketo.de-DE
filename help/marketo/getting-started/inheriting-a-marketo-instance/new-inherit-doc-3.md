@@ -3,9 +3,9 @@ description: Vererben Sie Doc 3 - Marketo Docs - Produktdokumentation
 title: Erben von Doc 3
 hide: true
 hidefromtoc: true
-source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
+source-git-commit: 77314760bfd188725440311f3dc9da2005488ee5
 workflow-type: tm+mt
-source-wordcount: '796'
+source-wordcount: '806'
 ht-degree: 2%
 
 ---
@@ -43,7 +43,7 @@ Organisieren Sie Ihren Bereich Marketingaktivitäten ordnungsgemäß, um andere 
    <td>Archivieren</td> 
    <td><li>Ältere Programme <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">archiviert</a>?</li>
 <li>Wie oft überprüft und archiviert Ihr Unternehmen alte Programme?</li>
-<p>Tipp: Es ist gut, jedes Jahr eine Überprüfung durchzuführen.</td>
+<p><img src="assets/tip-icon.png" alt="Tippsymbol">TIPP: Es ist gut, jedes Jahr eine Überprüfung durchzuführen.</td>
   </tr>
   <tr> 
    <td>Benachrichtigungen</td> 
@@ -54,7 +54,7 @@ Organisieren Sie Ihren Bereich Marketingaktivitäten ordnungsgemäß, um andere 
    <td>Abonnements mit intelligenter Liste 
    <br/>(Registerkarte Marketingaktivitäten/Abonnements )</td> 
    <td><li>Gibt es noch <a href="/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md" target="_blank">Abonnements für intelligente Listen</a> in Ihrer Instanz? Wenn ja, wer wird sie dann tun?</li>
-<p>Tipp: Ziehen Sie die Einrichtung von Smart List-Abonnements in Erwägung, um zu einem Team-Alias und nicht zu einem Kontakt zu wechseln. Dies betrifft Sie für den Fall, dass Einzelpersonen nicht im Büro sind.</td>
+<p><img src="assets/tip-icon.png" alt="Tippsymbol">TIPP: Ziehen Sie die Einrichtung von Smart List-Abonnements in Erwägung, um zu einem Team-Alias und nicht zu einem Kontakt zu wechseln. Dies betrifft Sie für den Fall, dass Einzelpersonen nicht im Büro sind.</td>
   </tr>
  </tbody> 
 </table>
@@ -96,7 +96,7 @@ Organisieren Sie Ihren Bereich Marketingaktivitäten ordnungsgemäß, um andere 
    <td>Lokaler Forms</td> 
    <td><li>Wie viele Programme haben lokale <a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md" target="_blank">forms</a>? Sollen diese Formulare in globale Formulare umgewandelt werden?</li>
 <li>Erfassen sie geeignete Daten für Ihre Marketing- und Verkaufsteams?</li>
-<p>Tipp: Begrenzen Sie die Anzahl lokaler Formulare, um die Aktualisierung und Anpassung an Änderungen mit Datenschutz- und Opt-in-/Opt-out-Richtlinien zu vereinfachen. Welche Fragen müssen bei der Erstellung eines Formulars gestellt werden? Wenn sich die erfassten Informationen nicht ändern und sich die erweiterte Formularfunktionalität nicht ändert, sollten Sie ein globales Formular anstelle eines lokalen Formulars in Betracht ziehen.</td>
+<p><img src="assets/tip-icon.png" alt="Tippsymbol">TIPP: Begrenzen Sie die Anzahl lokaler Formulare, um die Aktualisierung und Anpassung an Änderungen an den Datenschutz- und Opt-in-/Opt-out-Richtlinien zu vereinfachen. Welche Fragen müssen bei der Erstellung eines Formulars gestellt werden? Wenn sich die erfassten Informationen nicht ändern und sich die erweiterte Formularfunktionalität nicht ändert, sollten Sie ein globales Formular anstelle eines lokalen Formulars in Betracht ziehen.</td>
   </tr>
   <tr> 
    <td>Globale Formulare</td> 
@@ -127,7 +127,7 @@ Organisieren Sie Ihren Bereich Marketingaktivitäten ordnungsgemäß, um andere 
   <tr> 
    <td>Personen-Quelle</td> 
    <td><li>Verfügen Sie über ein zentralisiertes Programm, das den Feldern der Personenquelle Werte zuordnet?</li>
-<p>Hinweis: Marketo Engage erfasst automatisch Daten in einem Quellfeld, unabhängig von den operationellen Programmen.</td>
+<p><img src="assets/note-icon.png" alt="Notizsymbol"> HINWEIS: Marketo Engage erfasst automatisch Daten in einem Quellfeld, unabhängig von den operationellen Programmen.</td>
   </tr>
   <tr> 
    <td>Datenstandardisierung</td> 
@@ -141,7 +141,7 @@ Organisieren Sie Ihren Bereich Marketingaktivitäten ordnungsgemäß, um andere 
    <td>Datenschutz und Compliance</td> 
    <td><li>Verfügen Sie über Programme, um sicherzustellen, dass Sie die Datenschutzgesetze und Spam-Gesetze einhalten? 
    <br/>     Überlegen <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">DSGVO</a>, CASL, CAN-SPAM, CCPA usw.</li>
-<p>Tipp: Denken Sie daran, sich immer an Ihr Rechtsabteilung zu diesen Fragen zu wenden. Fragen Sie Ihr Team nach früheren Initiativen, um die Einhaltung zu gewährleisten, bevor Sie Änderungen vornehmen.</td>
+<p><img src="assets/tip-icon.png" alt="Tippsymbol">Tipp: Denken Sie daran, sich zu diesen Fragen immer an Ihr Rechtsabteilung zu wenden. Fragen Sie Ihr Team nach früheren Initiativen, um die Einhaltung zu gewährleisten, bevor Sie Änderungen vornehmen.</td>
   </tr>
   <tr> 
    <td>Lebensdauer</td> 

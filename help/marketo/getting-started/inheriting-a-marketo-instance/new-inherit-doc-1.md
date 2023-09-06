@@ -3,9 +3,9 @@ description: Vererben von Dokument 1 - Marketo-Dokumente - Produktdokumentation
 title: Erben von Doc 1
 hide: true
 hidefromtoc: true
-source-git-commit: 088f51a5aa6be65f5f2e4f8ae5df946f6bdf2866
+source-git-commit: 77314760bfd188725440311f3dc9da2005488ee5
 workflow-type: tm+mt
-source-wordcount: '1433'
+source-wordcount: '1437'
 ht-degree: 4%
 
 ---
@@ -39,7 +39,7 @@ Die folgenden Checklisten (nachfolgende Checklisten, die am Ende jedes Artikels 
 <li>Wurde Ihnen in Marketo Engage/Admin/Users &amp; Roles die Rolle "Marketo Engage Product Admin"zugewiesen?</li> 
 <li>Haben Sie allen Produktprofilen der entsprechenden Benutzer in der Adobe Admin Console Marketo Engage zugewiesen?
 <br/>     Ist dies nicht der Fall, weisen Sie dem Adobe IMS-Produktprofil eine Marketo Engage zu, bevor Sie die Rollen in Marketo Engage/Admin/Users &amp; Roles zuweisen.</li>
-<p><img src="assets/note-icon-25.png" alt="Notizsymbol">HINWEIS: Wenn Ihr Abonnement mehr als 75 Benutzer umfasst und gerade zu Adobe IMS migriert wurde, können Sie Benutzer auswählen, die in Batches migriert werden sollen, und deren Adobe Identifizieren in Gruppen oder alle gleichzeitig verwalten. Mehr darüber, was erwartet wird <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md#prepare-users-for-migration-day" target="_blank">Adobe IMS-Migrationstag</a>.</td>
+<p><img src="assets/note-icon.png" alt="Notizsymbol"> HINWEIS: Wenn Ihr Abonnement mehr als 75 Benutzer umfasst und gerade zu Adobe IMS migriert wurde, können Sie Benutzer auswählen, die in Batches migriert werden sollen, und deren Adobe Identifizieren in Gruppen oder alle gleichzeitig verwalten. Mehr darüber, was erwartet wird <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md#prepare-users-for-migration-day" target="_blank">Adobe IMS-Migrationstag</a>.</td>
   </tr>
   <tr> 
    <td>User Management-API</td> 
@@ -159,7 +159,7 @@ Die folgenden Checklisten (nachfolgende Checklisten, die am Ende jedes Artikels 
   <tr> 
    <td>Kommunikationsbeschr</td> 
    <td><li>Gibt es <a href="/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md" target="_blank">Kommunikationsbeschränkungen</a> vorhanden? Verfügt Ihr Unternehmen über Richtlinien, bei denen Kommunikationsbeschränkungen erforderlich sein könnten?</li>
-<p>Hinweis: Wir empfehlen, Ihre Kommunikation auf 1 pro Tag und 3 pro 7 Tage zu begrenzen, mit <b>non</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">operativ</a> blockierte E-Mails.</td>
+<p><img src="assets/note-icon.png" alt="Notizsymbol"> HINWEIS: Es wird empfohlen, Ihre Kommunikation auf 1 pro Tag und 3 pro 7 Tage zu begrenzen, mit <b>non</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">operativ</a> blockierte E-Mails.</td>
   </tr>
  </tbody> 
 </table>
@@ -242,7 +242,7 @@ Die folgenden Checklisten (nachfolgende Checklisten, die am Ende jedes Artikels 
    <td><li>Mit welchem CRM synchronisieren Sie? Salesforce? MS Dynamics? Veeva?</li>
 <li>Verwenden Sie eine <a href="https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758" target="_blank">benutzerdefinierte Synchronisierung</a>?</li>
 <li>[Nur Salesforce] Ist für Ihre Instanz benutzerdefinierte Synchronisierungsfilter implementiert? 
-<p>Hinweis: Wenden Sie sich an den Marketo-Support, um benutzerdefinierte Synchronisierungsfilter zu ermitteln oder die Implementierung einer benutzerspezifischen Synchronisierungsregel anzufordern.</li></td>
+<p><img src="assets/note-icon.png" alt="Notizsymbol"> HINWEIS: Wenden Sie sich an den Marketo-Support, um benutzerdefinierte Synchronisierungsfilter zu ermitteln oder die Implementierung einer benutzerspezifischen Synchronisierungsregel anzufordern.</li></td>
   </tr>
   <tr> 
    <td>Landing Pages</td> 
@@ -261,7 +261,7 @@ Die folgenden Checklisten (nachfolgende Checklisten, die am Ende jedes Artikels 
    <td><li>Ist Ihre <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Munchkin-Trackingcode</a> auf Ihrer Website (nicht in Marketo)?</li>
 <li>Ist eine <a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank">Nicht verfolgen</a> Browseranforderung aktiviert?</li>
 <li>Ist Ihre <a href="https://developers.marketo.com/javascript-api/lead-tracking/" target="_blank">Munchkin-API</a> konfiguriert? 
-<p><img src="assets/tip-icon-25.png" alt="Notizsymbol">TIPP: Wenn Ihnen die Dokumentation fehlt, in der sich der Munchkin-Code auf Ihrer Website befindet, können Sie alle URLs anzeigen, indem Sie eine <a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">Webseitenaktivitätsbericht</a>.</li></td>
+<p><img src="assets/tip-icon.png" alt="Tippsymbol">TIPP: Wenn Ihnen die Dokumentation fehlt, in der sich der Munchkin-Code auf Ihrer Website befindet, können Sie alle URLs anzeigen, indem Sie eine <a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">Webseitenaktivitätsbericht</a>.</li></td>
   </tr>
   <tr> 
    <td>Web-Services</td> 

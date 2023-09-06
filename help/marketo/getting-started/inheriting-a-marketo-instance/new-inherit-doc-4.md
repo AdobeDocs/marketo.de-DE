@@ -3,9 +3,9 @@ description: Vererben Sie Doc 4 - Marketo Docs - Produktdokumentation
 title: Erben von Doc 4
 hide: true
 hidefromtoc: true
-source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
+source-git-commit: 77314760bfd188725440311f3dc9da2005488ee5
 workflow-type: tm+mt
-source-wordcount: '513'
+source-wordcount: '521'
 ht-degree: 5%
 
 ---
@@ -60,13 +60,13 @@ Die Strukturierung von Vorlagen und das Erstellen globaler Formulare, Snippets s
   <tr> 
    <td>Datenstandardisierung</td> 
    <td><li>Sind Sie <a href="/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md" target="_blank">Formularfelder</a> primär Auswahllisten oder geöffnete Textfelder?</li>
-<p>Tipp: Wenn es sich um offene Textfelder handelt, sollten Sie sie zu Auswahllisten wechseln, um unrichtige Daten zu vermeiden.</td>
+<p><img src="assets/tip-icon.png" alt="Tippsymbol">TIPP: Wenn es sich um offene Textfelder handelt, sollten Sie sie zu Auswahllisten wechseln, um unsaubere Daten zu verhindern.</td>
   </tr>
   <tr> 
    <td>Datenschutz und Compliance</td> 
    <td><li>Entspricht Ihre Formularstrategie Ihren Anforderungen an den Datenschutz und die Anmeldung von Unternehmensdaten? 
    <br/>     Überlegen <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">Die Datenschutz-Grundverordnung (DSGVO)</a>, Kanadas Anti-Spam-Gesetz (CASL), das Controlling the Assault of Non-Solicited Pornografy and Marketing Act von 2003 (CAN-SPAM), California Consumer Privacy Act (CCPA) usw. zur Einhaltung von Vorschriften.</li>
-<p>Tipp: Denken Sie daran, sich immer an Ihr Rechtsabteilung zu diesen Fragen zu wenden. Fragen Sie Ihr Team nach früheren Initiativen, um die Einhaltung zu gewährleisten, bevor Sie Änderungen vornehmen.</td>
+<p><img src="assets/tip-icon.png" alt="Tippsymbol">Tipp: Denken Sie daran, sich zu diesen Fragen immer an Ihr Rechtsabteilung zu wenden. Fragen Sie Ihr Team nach früheren Initiativen, um die Einhaltung zu gewährleisten, bevor Sie Änderungen vornehmen.</td>
   </tr>
  </tbody> 
 </table>
@@ -94,7 +94,7 @@ Die Strukturierung von Vorlagen und das Erstellen globaler Formulare, Snippets s
   <tr> 
    <td>Datenschutz und Compliance</td> 
    <td><li>Haben alle Ihre E-Mails die entsprechenden Fußzeilen? Betrachten Sie DSGVO, CASL, CAN-SPAM, CCPA usw. für die Einhaltung der Vorschriften.</li>
-<p>Tipp: Denken Sie daran, sich immer an Ihr Rechtsabteilung zu diesen Compliance-Fragen zu wenden. Fragen Sie Ihr Team nach früheren Initiativen, um die Einhaltung zu gewährleisten, bevor Sie Änderungen vornehmen.</td>
+<p><img src="assets/tip-icon.png" alt="Tippsymbol">Tipp: Denken Sie daran, sich immer an Ihr Rechtsabteilung zu diesen Compliance-Fragen zu wenden. Fragen Sie Ihr Team nach früheren Initiativen, um die Einhaltung zu gewährleisten, bevor Sie Änderungen vornehmen.</td>
   </tr>
  </tbody> 
 </table>
@@ -156,7 +156,7 @@ Die Strukturierung von Vorlagen und das Erstellen globaler Formulare, Snippets s
   <tr> 
    <td>Asset-Freigabe</td> 
    <td><li>Welche Assets sind <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md#sharing-across-workspaces" target="_blank">über Arbeitsbereiche hinweg freigegeben</a>?</li>
-   <p>Hinweis: Es ist wichtig, dies zu wissen, da in einem Arbeitsbereich durchgeführte Aktionen dazu führen können, dass ein Asset in einem anderen Arbeitsbereich für einen anderen Benutzer nicht zugänglich ist.</td>
+   <p><img src="assets/note-icon.png" alt="Notizsymbol"> HINWEIS: Es ist wichtig, dies zu wissen, da in einem Arbeitsbereich durchgeführte Aktionen dazu führen können, dass ein Asset in einem anderen Arbeitsbereich für einen anderen Benutzer nicht zugänglich ist.</td>
   </tr>
  </tbody> 
 </table>

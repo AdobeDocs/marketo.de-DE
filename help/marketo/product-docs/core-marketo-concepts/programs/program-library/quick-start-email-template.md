@@ -4,9 +4,9 @@ title: Schnellstart-E-Mail-Vorlage
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
+source-git-commit: 77314760bfd188725440311f3dc9da2005488ee5
 workflow-type: tm+mt
-source-wordcount: '577'
+source-wordcount: '569'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
    * Unterer Abstand des Moduls
    * Hintergrundfarbe des Moduls
    * Ausrichtung des Logos
-* PICC
+* ![](assets/quick-start-email-template-1.png)
 
 ### Bildmodul {#image-module}
 
@@ -46,7 +46,7 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
    * Oberer Abstand des Moduls
    * Unterer Abstand des Moduls
    * Hintergrundfarbe des Moduls
-* PICC
+* ![](assets/quick-start-email-template-2.png)
 
 ### Überschriftenmodul {#headline-module}
 
@@ -58,7 +58,7 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
    * Schriftgröße der Überschrift (kann auch im Rich-Text-Editor bearbeitet werden)
    * Schriftfarbe der Überschrift (diese kann auch im Rich-Text-Editor bearbeitet werden)
    * Ausrichtung des Überschriftentextes (kann auch im Rich-Text-Editor bearbeitet werden)
-* PICC
+* ![](assets/quick-start-email-template-3.png)
 
 ### Subheadline-Modul {#subheadline-module}
 
@@ -70,7 +70,7 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
    * Schriftgröße der Unterüberschrift (kann auch im Rich-Text-Editor bearbeitet werden)
    * Schriftfarbe der Unterüberschrift (kann auch im Rich-Text-Editor bearbeitet werden)
    * Ausrichtung des Unterüberschriftentextes (kann auch im Rich-Text-Editor bearbeitet werden)
-* PICC
+* ![](assets/quick-start-email-template-4.png)
 
 ### Kostenloses Textmodul {#free-text-module}
 
@@ -82,7 +82,7 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
    * Schriftgröße des Textes (kann auch im Rich-Text-Editor bearbeitet werden)
    * Schriftfarbe des Textes (kann auch im Rich-Text-Editor bearbeitet werden)
    * Ausrichtung des Texts (kann auch im Rich-Text-Editor bearbeitet werden)
-* PICC
+* ![](assets/quick-start-email-template-5.png)
 
 ### CTA-Modul {#cta-module}
 
@@ -97,7 +97,7 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
    * CTA-URL
    * CTA-Text
    * CTA-Ausrichtung
-* PICC
+* ![](assets/quick-start-email-template-6.png)
 
 ### Divider Module {#divider-module}
 
@@ -108,7 +108,7 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
    * Trennfarbe
    * Trennhöhe (in Pixel)
    * Trennbreite (in %)
-* PICC
+* ![](assets/quick-start-email-template-7.png)
 
 ### Fußzeilenmodul {#footer-module}
 
@@ -120,4 +120,4 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
    * Hintergrundfarbe des Moduls
    * Textfarbe
    * Inhaltsausrichtung
-* PICC
+* ![](assets/quick-start-email-template-8.png)
