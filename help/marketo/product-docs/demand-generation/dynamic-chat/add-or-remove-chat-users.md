@@ -3,7 +3,7 @@ description: Chat-Benutzer hinzufügen oder entfernen - Marketo-Dokumente - Prod
 title: Hinzufügen oder Entfernen von Chat-Benutzern
 exl-id: b616030c-a9fe-48d7-902c-40621307bfec
 feature: Dynamic Chat
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
@@ -50,7 +50,7 @@ Gehen Sie wie folgt vor, um Chat-Benutzer hinzuzufügen oder zu entfernen.
 
 ## Dynamic Chat-Zugriff auf Marketo-Rolle hinzufügen {#add-dynamic-chat-access-to-marketo-role}
 
-Wenn die neu hinzugefügte Benutzerrolle &quot;Chat&quot;nicht bereits über Dynamic Chat-Berechtigungen verfügt, können Sie sie wie folgt hinzufügen.
+Wenn die neu hinzugefügte Benutzerrolle &quot;Chat&quot;nicht bereits über Dynamic Chat-Berechtigungen verfügt, können Sie sie hier hinzufügen.
 
 1. Klicken Sie in Marketo auf **Admin** und wählen **Benutzer und Rollen**.
 
@@ -64,7 +64,7 @@ Wenn die neu hinzugefügte Benutzerrolle &quot;Chat&quot;nicht bereits über Dyn
 
    ![](assets/add-or-remove-chat-users-10.png)
 
-1. Auswählen **Access Dynamic Chat** und klicken **Speichern**.
+1. Auswählen **Zugriff auf Dynamic Chat** und klicken **Speichern**.
 
    ![](assets/add-or-remove-chat-users-11.png)
 
@@ -80,7 +80,7 @@ Wenn die neu hinzugefügte Benutzerrolle &quot;Chat&quot;nicht bereits über Dyn
 
    >[!NOTE]
    >
-   >Wenn Sie mehr als ein Marketo-Abonnement haben, wählen Sie das gewünschte vor dem nächsten Schritt aus.)
+   >Wenn Sie mehr als ein Marketo-Abonnement haben, wählen Sie das gewünschte vor dem nächsten Schritt aus.
 
 1. Klicken Sie auf **Benutzer** Registerkarte.
 
