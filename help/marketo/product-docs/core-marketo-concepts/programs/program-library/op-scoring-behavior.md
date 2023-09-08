@@ -4,10 +4,10 @@ title: OP-Scoring-Verhalten
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 17b86ff816a447315dda5e1cbac67536472e777d
+source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
 workflow-type: tm+mt
-source-wordcount: '357'
-ht-degree: 32%
+source-wordcount: '350'
+ht-degree: 33%
 
 ---
 
@@ -155,6 +155,8 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
  </tbody> 
 </table>
 
+![](assets/op-scoring-behavior-1.png)
+
 ## My Tokens Include {#my-tokens-included}
 
 <table style="table-layout:auto"> 
@@ -242,8 +244,6 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
  </tbody> 
 </table>
 
-BILDSCHIRM DES PROGRAMMS
-
 ## Konfliktregeln {#conflict-rules}
 
 * **Programm-Tags**
@@ -261,8 +261,6 @@ BILDSCHIRM DES PROGRAMMS
 * **E-Mail-Vorlagen mit demselben Namen**
    * Beides beibehalten - _Empfohlen_
    * Vorhandene Vorlage ersetzen
-
-ÜBERSICHT ÜBER KONFLIKTREGELN
 
 ## Bewährte Methoden {#best-practices}
 

@@ -4,31 +4,16 @@ title: Ersteinrichtung
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 62af6c2379746e776b6b76d9f1fbb8ad9bb47305
+source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
 workflow-type: tm+mt
-source-wordcount: '270'
-ht-degree: 1%
+source-wordcount: '301'
+ht-degree: 0%
 
 ---
 
 # Release Inserts {#release-inserts}
 
 Release Zeug unten...
-
-STEVEN
-
-## Marketo Engage Smart List Targeting {#marketo-engage-smart-list-targeting}
-
-Marketingexperten können Mitglieder von Marketo Engage Smart Lists in Dialogzielgruppen-Kriterien ansprechen.
-
-## Neue Dynamic Chat-Aktivitäten {#new-dynamic-chat-activities}
-
-Neue Aktivitäten zur Unterstützung von Konversationsflüssen, Live-Chat und anderen neuen Funktionen.
-
-## Trigger-Token für neue Aktivitäten {#trigger-tokens-for-new-activities}
-
-Es stehen neue Trigger-Token zur Unterstützung der neuen Aktivitäten für Dynamic Chat zur Verfügung.
-
 
 JOHN
 
@@ -74,3 +59,122 @@ Sehen Sie sich an, wie viele Konversationen Ihre Live-Verkaufsmitarbeiter hatten
 ## Aktionskarte in Stream-Designer {#action-card-in-stream-designer}
 
 Marketingexperten können Aktionskarten im Dialog-Stream verwenden, um verborgene Werte an den Marketo Engage-Personendatensatz zu übergeben, wenn Besucher mit einem Dialogfeld interagieren.
+
+
+STEVEN
+
+## Marketo Engage Smart List Targeting {#marketo-engage-smart-list-targeting}
+
+Marketingexperten können Mitglieder von Marketo Engage Smart Lists in Dialogzielgruppen-Kriterien ansprechen.
+
+## Neue Dynamic Chat-Aktivitäten {#new-dynamic-chat-activities}
+
+Neue Aktivitäten zur Unterstützung von Konversationsflüssen, Live-Chat und anderen neuen Funktionen.
+
+## Trigger-Token für neue Aktivitäten {#trigger-tokens-for-new-activities}
+
+### Dynamic Chat Trigger-Token {#dynamic-chat-trigger-tokens}
+
+<table style="table-layout:auto"> 
+ <colgroup> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col>
+  <col>
+  <col>
+  <col> 
+ </colgroup> 
+ <tbody> 
+  <tr> 
+   <th><br></th> 
+   <th><code>{{trigger.Trigger Name}}</code></th> 
+   <th><code>{{trigger.Name}}</code></th> 
+   <th><code>{{trigger.Page URL}}</code></th> 
+   <th><code>{{Trigger.Conversation Transcript}}</code></th> 
+   <th><code>{{trigger.Conversation Status}}</code></th> 
+   <th><code>{{trigger.Agent Name}}</code></th> 
+   <th><code>{{trigger.Agent Email}}</code></th> 
+   <th><code>{{trigger.Scheduled For}}</code></th> 
+   <th><code>{{trigger.Goal name}}</code></th> 
+   <th><code>{{trigger.Document Name}}</code></th> 
+   <th><code>{{trigger.Document URL}}</code></th>
+   <th><code>{{trigger.Document Opened}}</code></th>
+   <th><code>{{trigger.Document Downloaded}}</code></th>
+  </tr> 
+  <tr> 
+   <td>Mit einem Dialogfeld interagieren</td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Geplantes Meeting in einem Dialogfeld</td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Dialogfeld-Ziel erreicht</td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr>
+  <tr> 
+   <td>Interagiert mit Dokument im Dialogfeld</td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+  </tr> 
+ </tbody> 
+</table>

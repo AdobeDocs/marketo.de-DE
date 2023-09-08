@@ -4,9 +4,9 @@ title: OP-Lead-Management
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
+source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '266'
 ht-degree: 19%
 
 ---
@@ -77,7 +77,7 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
  </tbody> 
 </table>
 
-BILDSCHIRM DES PROGRAMMS
+![](assets/op-lead-management-1.png)
 
 ## Konfliktregeln {#conflict-rules}
 
@@ -96,8 +96,6 @@ BILDSCHIRM DES PROGRAMMS
 * **E-Mail-Vorlagen mit demselben Namen**
    * Beides beibehalten - _Empfohlen_
    * Vorhandene Vorlage ersetzen
-
-ÜBERSICHT ÜBER KONFLIKTREGELN
 
 ## Bewährte Methoden {#best-practices}
 

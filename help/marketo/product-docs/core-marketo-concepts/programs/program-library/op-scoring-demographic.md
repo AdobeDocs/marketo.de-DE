@@ -4,10 +4,10 @@ title: OP-Scoring-Demographie
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: eb68ae803f2e313a7ac35747aacca5eed7089b0f
+source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
 workflow-type: tm+mt
-source-wordcount: '320'
-ht-degree: 37%
+source-wordcount: '313'
+ht-degree: 38%
 
 ---
 
@@ -130,6 +130,8 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
  </tbody> 
 </table>
 
+![](assets/op-scoring-demographic-1.png)
+
 ## My Tokens Include {#my-tokens-included}
 
 <table style="table-layout:auto"> 
@@ -232,8 +234,6 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
  </tbody> 
 </table>
 
-BILDSCHIRM DES PROGRAMMS
-
 ## Konfliktregeln {#conflict-rules}
 
 * **Programm-Tags**
@@ -251,8 +251,6 @@ BILDSCHIRM DES PROGRAMMS
 * **E-Mail-Vorlagen mit demselben Namen**
    * Beides beibehalten - _Empfohlen_
    * Vorhandene Vorlage ersetzen
-
-ÜBERSICHT ÜBER KONFLIKTREGELN
 
 ## Bewährte Methoden {#best-practices}
 

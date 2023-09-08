@@ -4,10 +4,10 @@ title: TS-YYYY-MM-DD-Tradeshow-Programm
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 569f61f15a9bdeb31b3a60b237f0c19aad68800a
+source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
 workflow-type: tm+mt
-source-wordcount: '416'
-ht-degree: 20%
+source-wordcount: '409'
+ht-degree: 21%
 
 ---
 
@@ -110,6 +110,8 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
  </tbody> 
 </table>
 
+![](assets/ts-yyyy-mm-dd-tradeshow-program-1.png)
+
 ## Meine Token Enthalten {#my-tokens-included}
 
 <table style="table-layout:auto"> 
@@ -177,8 +179,6 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
  </tbody> 
 </table>
 
-BILDSCHIRM DES PROGRAMMS
-
 ## Konfliktregeln {#conflict-rules}
 
 * **Programm-Tags**
@@ -196,8 +196,6 @@ BILDSCHIRM DES PROGRAMMS
 * **E-Mail-Vorlagen mit demselben Namen**
    * Beide Vorlagen beibehalten
    * Vorhandene Vorlage ersetzen - _Empfohlen_
-
-ÜBERSICHT ÜBER KONFLIKTREGELN
 
 ## Bewährte Methoden {#best-practices}
 

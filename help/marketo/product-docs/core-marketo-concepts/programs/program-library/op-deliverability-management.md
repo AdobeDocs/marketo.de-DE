@@ -4,9 +4,9 @@ title: Verwaltung der OP-Zustellbarkeit
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 5aa0c2e3be16219613f0c72235428a962f8d58b3
+source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '261'
 ht-degree: 23%
 
 ---
@@ -100,7 +100,7 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
  </tbody> 
 </table>
 
-BILDSCHIRM DES PROGRAMMS
+![](assets/op-deliverability-management-1.png)
 
 ## Konfliktregeln {#conflict-rules}
 
@@ -119,8 +119,6 @@ BILDSCHIRM DES PROGRAMMS
 * **E-Mail-Vorlagen mit demselben Namen**
    * Beides beibehalten - _Empfohlen_
    * Vorhandene Vorlage ersetzen
-
-ÜBERSICHT ÜBER KONFLIKTREGELN
 
 ## Bewährte Methoden {#best-practices}
 

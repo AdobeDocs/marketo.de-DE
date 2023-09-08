@@ -4,10 +4,10 @@ title: OP-Akquise-API
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 0f71600b18315feb3ef32e95dfb108b09c4cb79f
+source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 26%
+source-wordcount: '171'
+ht-degree: 27%
 
 ---
 
@@ -61,7 +61,7 @@ Dieses Beispielprogramm dient zur Verfolgung der Akquise von Datensätzen aus AP
  </tbody> 
 </table>
 
-BILDSCHIRM DES PROGRAMMS
+![](assets/op-acquisition-api-1.png)
 
 ## Konfliktregeln {#conflict-rules}
 
@@ -80,8 +80,6 @@ BILDSCHIRM DES PROGRAMMS
 * **E-Mail-Vorlagen mit demselben Namen**
    * Beides beibehalten - _Empfohlen_
    * Vorhandene Vorlage ersetzen
-
-ÜBERSICHT ÜBER KONFLIKTREGELN
 
 ## Bewährte Methoden {#best-practices}
 
