@@ -4,9 +4,9 @@ title: Entwerferin bzw. Entwerfer des Streams
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: b4ba55769034e8fb8a7878f52e21bd08e073fa8c
 workflow-type: tm+mt
-source-wordcount: '852'
+source-wordcount: '980'
 ht-degree: 2%
 
 ---
@@ -48,6 +48,16 @@ Der Stream-Designer enthält mehrere Karten, die Sie hinzufügen können, um die
  <tr>
   <td><strong>Ziel</strong></td>
   <td>Dies ist die einzige Karte, die die Besucher nicht sehen werden. Es liegt an Ihnen zu bestimmen, an welchem Punkt ein Ziel innerhalb des bestimmten Chat erreicht wird (z. B.: Wenn das Sammeln der E-Mail des Besuchers Ihr Ziel ist, platzieren Sie die Zielkarte unmittelbar nach der Informationserfassung im Stream).</td>
+ </tr>
+ <tr>
+  <td><strong>Aktion</strong></td>
+  <td>Ähnlich wie ausgeblendete Felder in einem Formular können Sie mit der Aktionskarte jedes Lead- oder Firmenattribut mit impliziten Werten füllen, die Sie mit einem Lead-Datensatz erfassen möchten. Sie können die Aktionskarte jederzeit in der Konversation hinzufügen und die entsprechenden Attribute mit einem Wert oder nativen Token aktualisieren, die den entsprechenden Wert automatisch ausfüllen.</td>
+ </tr>
+ <tr>
+  <td><strong>Live-Chat</strong></td>
+  <td>Verwenden Sie die Live-Chat-Karte, wenn Sie möchten, dass Besucher mit einem Live-Agenten chatten.
+  <li>Die Live-Chat-Karte muss die letzte Karte im Zweig sein</li>
+  <li>Die Besucher werden an einen Agenten weitergeleitet, sobald sie diese Karte im Stream erreichen. Daher wird empfohlen, dieser Karte eine Fragenkarte mit der Frage vorzustellen, ob sie mit einem Live-Agenten chatten möchten</li></td>
  </tr>
 </table>
 
