@@ -3,10 +3,10 @@ description: Benutzer- und Lizenzverwaltung - Marketo-Dokumente - Produktdokumen
 title: Benutzer- und Lizenzverwaltung
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
 feature: Interactive Webinars
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 4eb28480b3863650a128a56393a8ef375f268982
 workflow-type: tm+mt
-source-wordcount: '414'
-ht-degree: 4%
+source-wordcount: '703'
+ht-degree: 3%
 
 ---
 
@@ -107,3 +107,15 @@ Interaktive Webinare bieten spezifische Lizenzen für die Erstellung von Veranst
 * Jedes Mal, wenn ein Ereignis erstellt wird, zählt es von seiner jeweiligen Lizenz aus als &quot;konsumiert&quot;(es sei denn, es handelt sich um eine Shared Room-Lizenz). Die &quot;Lizenz für freigegebene Ereignisse&quot;erhält Vorrang, wenn sowohl &quot;Lizenz für freigegebene Ereignisse&quot;als auch &quot;Lizenz für freigegebene Ereignisse&quot;mit derselben Kapazität vorhanden sind. Wenn das Ereignis nicht bereitgestellt wurde und das Ereignisprogramm vor der geplanten Zeit gelöscht wird, wird die Ereignisanzahl erneut aufgefüllt, indem ein Ereignis von &quot;Entnommen&quot;abgezogen wird.
 
 * Sobald eine Lizenz erschöpft ist, bleibt ihre Kachel auf dem Bildschirm der interaktiven Webinare im Admin-Bereich mit dem Wert &quot;Gesamtereignisse&quot;und &quot;Entsuchte Ereignisse&quot;erhalten. Erst wenn die Lizenz abläuft, wird sie vom Bildschirm entfernt.
+
+## Benutzerzugang {#user-access}
+
+Interaktive Webinare bieten die Möglichkeit, die Nutzung zu regulieren, indem sie Marketo Engage-Benutzern Berechtigungen zum Erstellen und Bereitstellen interaktiver Webinare erteilen. Ein Benutzer mit interaktiven Webinaren (oder Benutzer ohne diese Funktion) kann jedoch weiterhin Lese-/Bearbeitungsrechte für von anderen Benutzern erstellte interaktive Webinare-Ereignisprogramme haben.
+
+Marketo-Benutzer, denen interaktive Webinare zugewiesen wurden und die Inhaber eines bestimmten Interaktiven Webinar-Veranstaltungsprogramms sind, können alle mit diesem Programm verbundenen interaktiven Webinar-Funktionen ausführen. Dazu gehören das Erstellen, Zugreifen auf, Ändern, Klonen, Verschieben und Löschen dieses Programms. Sobald dieser Benutzer jedoch kein interaktiver Webinar-Benutzer mehr ist, kann der Programmeigentümer auf das Programm zugreifen und es verschieben, jedoch keine anderen Funktionen ausführen.
+
+Marketo-Benutzer, denen interaktive Webinare Berechtigungen erteilt wurden und die _not_ Inhaber eines bestimmten Interaktiven Webinars Event Program können begrenzte Funktionen für diese Programme ausführen. Nicht-Admin-Benutzer von Marketo können auf das Programm zugreifen und es klonen, können jedoch keine anderen Funktionen ausführen, wenn sie über Berechtigungen für interaktive Webinare verfügen. Marketo Admin-Benutzer _will_ Sie können alle Funktionen ausführen, z. B. auf das Programm zugreifen, es ändern, klonen, verschieben und löschen (sofern sie über Berechtigungen für interaktive Webinare verfügen). Wenn diese Berechtigung für Marketo-Administratoren und Benutzer ohne Administratorrechte widerrufen wird, können sie nur auf das interaktive Webinar-Veranstaltungsprogramm zugreifen und keine anderen Funktionen ausführen.
+
+Die Einschränkung von umsetzbaren Funktionen wird durch eine ausgegraute Aktionsschaltfläche und eine Hover-Meldung angezeigt. Einige Beispiele für die ausgegrauten Aktionsschaltflächen sind &quot;Webinar entwerfen&quot;oder &quot;Webinar eingeben&quot;. Bei nicht ausführbaren Funktionen wird eine Meldung mit den Einschränkungen angezeigt. Siehe Beispiel unten:
+
+![](assets/user-and-license-management-12.png)

@@ -3,9 +3,9 @@ description: Interaktive Webinare - Überblick - Marketo-Dokumente - Produktdoku
 title: Interaktive Webinare - Überblick
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-source-git-commit: 7e1f289cb074e016308b75b913a3faeafe149404
+source-git-commit: 4eb28480b3863650a128a56393a8ef375f268982
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '394'
 ht-degree: 2%
 
 ---
@@ -31,6 +31,10 @@ Nach dem Webinar können Sie auf [Ereignisleistungsanalyse](/help/marketo/produc
 **Benötige ich für die Verwendung interaktiver Webinare ein separates Abonnement?**
 
 Anz. Für die Verwendung interaktiver Webinare ist nur ein aktives Marketo Engage-Abonnement erforderlich.
+
+**Welche Sprachen gibt es für interaktive Webinare?**
+
+Interaktive Webinare sind in allen sechs von Marketo unterstützten Sprachen verfügbar: Englisch, Französisch, Deutsch, Japanisch, Portugiesisch und Spanisch. Dieselben Sprachen werden auch von Adobe Connect während der Bereitstellung eines Webinars über interaktive Webinare unterstützt.
 
 **Ich habe meine enthaltene Anzahl interaktiver Webinare ausgeschöpft. Wie erhalte ich mehr Sitzungen oder mehr Kapazität?**
 
