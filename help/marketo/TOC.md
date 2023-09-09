@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 5084013638c4131ebf4c5812e3e4d485ca94419c
+source-git-commit: 4848676d423ff96c2e880819bc760b2f8dbbd094
 workflow-type: tm+mt
-source-wordcount: '9086'
+source-wordcount: '9095'
 ht-degree: 5%
 
 ---
@@ -43,11 +43,11 @@ ht-degree: 5%
       + [Elemente zum Deaktivieren](getting-started/inheriting-a-marketo-instance/items-to-check-off.md)
       + [Was überprüft werden muss: Kernkompetenzen](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
       + [Hilfen](getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
-      + [Neuer Abschnitt &quot;Vererbung&quot;](getting-started/inheriting-a-marketo-instance/new-inherit-doc-1.md)
-      + [Neuer Abschnitt &quot;Vererbung&quot;](getting-started/inheriting-a-marketo-instance/new-inherit-doc-2.md)
-      + [Neuer Abschnitt &quot;Vererbung&quot;](getting-started/inheriting-a-marketo-instance/new-inherit-doc-3.md)
-      + [Neuer Abschnitt &quot;Vererbung&quot; 4](getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)
-      + [New Inherit Doc 5](getting-started/inheriting-a-marketo-instance/new-inherit-doc-5.md)
+      + [Vererbte Instanz: Checkliste für den Administratorbereich](getting-started/inheriting-a-marketo-instance/admin-section-checklist.md)
+      + [Vererbte Instanz: Datenbank-Checkliste](getting-started/inheriting-a-marketo-instance/database-checklist.md)
+      + [Vererbte Instanz: Checkliste für Marketingaktivitäten](getting-started/inheriting-a-marketo-instance/marketing-activities-checklist.md)
+      + [Vererbte Instanz: Design Studio Checkliste](getting-started/inheriting-a-marketo-instance/design-studio-checklist.md)
+      + [Vererbte Instanz: Dokument Ihres Setups](getting-started/inheriting-a-marketo-instance/document-your-setup.md)
 + Produktdokumentationen {#product-docs}
    + Zusätzliche Apps {#additional-apps}
       + SEO {#seo}
