@@ -3,9 +3,9 @@ description: Vererbtes Instanzdokument Ihre Einrichtung - Marketo-Dokumente - Pr
 title: Vererbtes Instanzdokument Ihr Setup
 hide: true
 hidefromtoc: true
-source-git-commit: 8660e8a7afa239c51cfed9e6e90e35aeedf6884f
+source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '252'
 ht-degree: 2%
 
 ---
@@ -26,7 +26,7 @@ Nachdem Sie nun die wichtigsten Produktbereiche kennen gelernt haben, die bei de
    <td>Eingabe</td> 
    <td><li>Welche Systeme leiten Daten an Marketo Engage weiter?</li>
    <li>Werden Daten in Programme oder die Datenbank geladen? Wenn Programme, welche?</li>
-   <p>Aktionselement: Erstellen Sie eine Tabelle mit Datenwörterbüchern/Feldern für die Zuordnung zwischen Systemen.</td>
+   <p><img src="assets/action-item-icon.png" alt="Aktionselement-Symbol">Aktionselement: Erstellen Sie eine Tabelle mit Datenwörterbüchern/Feldern für die Zuordnung zwischen Systemen.</td>
   </tr>
   <tr> 
    <td>Ausgabe</td> 
@@ -51,7 +51,7 @@ Nachdem Sie nun die wichtigsten Produktbereiche kennen gelernt haben, die bei de
   <tr> 
    <td>Organisation</td> 
     <td><li>Verfügen Sie über eine zuverlässige Dokumentation darüber, wie Ihre Marketo Engage-Instanz organisiert ist und warum?</li>
-   <p>Aktionselement: Erstellen Sie eine Dokumentation, die die Ordnerstruktur, die Namenskonvention und die in Ihrer Instanz verwendeten Kanäle enthält.</td>
+   <p><p><img src="assets/action-item-icon.png" alt="Aktionselement-Symbol">Aktionselement: Erstellen Sie eine Dokumentation, die die Ordnerstruktur, die Namenskonvention und die in Ihrer Instanz verwendeten Kanäle enthält.</td>
   </tr>
   <tr> 
    <td>Changelog</td> 
@@ -70,4 +70,4 @@ Nachdem Sie nun die wichtigsten Produktbereiche kennen gelernt haben, die bei de
  </tbody> 
 </table>
 
-[Audit und geerbte Instanz](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)
+[Audit und geerbte Instanz](/help/marketo/getting-started/inheriting-a-marketo-instance/design-studio-checklist.md)

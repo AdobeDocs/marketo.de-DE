@@ -3,7 +3,7 @@ description: Checkliste für die geerbte Instanzdatenbank - Marketo-Dokumente - 
 title: Checkliste für die geerbte Instanzdatenbank
 hide: true
 hidefromtoc: true
-source-git-commit: 8660e8a7afa239c51cfed9e6e90e35aeedf6884f
+source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
 workflow-type: tm+mt
 source-wordcount: '386'
 ht-degree: 8%
@@ -116,6 +116,6 @@ Verstehen Sie die Gesamtzahl der Personen, vermarktbaren Personen und der Person
 
 <br> 
 
-[Audit und geerbte Instanz: Admin](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-1.md)
+[Audit und geerbte Instanz: Admin](/help/marketo/getting-started/inheriting-a-marketo-instance/admin-section-checklist.md)
 
-[Prüfen einer vererbten Instanz: Marketingaktivitäten ►](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-3.md)
+[Prüfen einer vererbten Instanz: Marketingaktivitäten ►](/help/marketo/getting-started/inheriting-a-marketo-instance/marketing-activities-checklist.md)
