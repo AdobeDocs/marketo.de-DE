@@ -4,16 +4,18 @@ title: Agenteneinstellungen
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: 801c9935cacf79971ce42a9517647e310a1ed25a
 workflow-type: tm+mt
-source-wordcount: '231'
-ht-degree: 2%
+source-wordcount: '249'
+ht-degree: 3%
 
 ---
 
 # Agenteneinstellungen {#agent-settings}
 
 Verbinden Sie im Tab Kalender Ihren Outlook- oder Gmail-Kalender mit der Terminplanung im Chat.
+
+## Verbindungskalender {#connect-calendar}
 
 ![](assets/agent-settings-1.png)
 
@@ -31,7 +33,7 @@ Benutzer können auch den Text der Einladung anpassen, die dem Besucher gesendet
 >
 >Verwenden Sie das Token-Symbol (geschweifte Klammern), um Ihre Bestätigungs-E-Mails für die Buchung von Meetings anhand von Personen- oder Firmenattributen zu personalisieren.
 
-## Berechtigungen {#permissions}
+### Berechtigungen {#permissions}
 
 Durch die Konfiguration mit Outlook erhalten Sie die folgenden Berechtigungen zum Dynamic Chat:
 
@@ -47,3 +49,15 @@ Die Konfiguration mit Google gewährt die folgenden Berechtigungen für Dynamic 
 * Ändern Sie Ihre Einstellungen, einschließlich der Benutzer, die Ihre Ereignisse sehen können.
 * Ändern der Zielgruppe des Kalenders
 * Zugriff auf Ihren Namen, Ihre E-Mail-Adresse, Ihre Spracheinstellung und Ihr Profilbild
+
+## Verfügbarkeitseinstellungen für Live-Chat {#live-chat-availability-settings}
+
+Text
+
+## Verfügbarkeitseinstellungen für Meetings {#meeting-booking-availability-settings}
+
+Text
+
+## Sitzungslänge und Pufferzeit {#meeting-length-and-buffer-time}
+
+Text

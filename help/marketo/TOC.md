@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: a2830942e6e51e754d313bd79a00f87713c2db8c
+source-git-commit: 801c9935cacf79971ce42a9517647e310a1ed25a
 workflow-type: tm+mt
 source-wordcount: '9153'
 ht-degree: 5%
@@ -651,14 +651,14 @@ ht-degree: 5%
          + [Dynamic Chat-Übersicht](product-docs/demand-generation/dynamic-chat-two/dynamic-chat-overview.md)
          + [Chatbot-Verhalten](product-docs/demand-generation/dynamic-chat-two/chatbot-behavior.md)
          + [Sitzungsliste](product-docs/demand-generation/dynamic-chat-two/meeting-list.md)
-         + [Dynamic Chat-Aktivitäten](product-docs/demand-generation/dynamic-chat-two/dynamic-chat-activites.md)
+         + [Dynamic Chat-Aktivitäten](product-docs/demand-generation/dynamic-chat-two/dynamic-chat-activities.md)
          + [Analytics](product-docs/demand-generation/dynamic-chat-two/analytics.md)
          + Automatisierter Chat {#automated-chat}
             + [Übersicht über Konversationsflüsse](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flows-overview.md)
             + [Konversationsfluss erstellen](product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-conversational-flow.md)
             + [Konversionsflusseinstellungen](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-settings.md)
             + [Konversations-SDK](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversations-sdk.md)
-            + [Dialogübersicht](product-docs/demand-generation/dynamic-chat-two/automated-chat/doc.md)
+            + [Dialogübersicht](product-docs/demand-generation/dynamic-chat-two/automated-chat/dialogue-overview.md)
             + [Erstellen eines Dialogfelds](product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-dialogue.md)
             + [Zielgruppenkriterien](product-docs/demand-generation/dynamic-chat-two/automated-chat/audience-criteria.md)
             + [Entwerferin bzw. Entwerfer des Streams](product-docs/demand-generation/dynamic-chat-two/automated-chat/stream-designer.md)
