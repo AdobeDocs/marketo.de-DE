@@ -4,9 +4,9 @@ title: Dynamic Chat-Übersicht
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: b4ba55769034e8fb8a7878f52e21bd08e073fa8c
+source-git-commit: 3fc84a0e679b0b27aaf4ee251668a3ba0a62f9ef
 workflow-type: tm+mt
-source-wordcount: '876'
+source-wordcount: '873'
 ht-degree: 3%
 
 ---
@@ -55,7 +55,7 @@ Hier sehen Sie eine Liste aller Agenten, die ihre Kalender verbunden haben, die 
 
 ## Live-Chat {#live-chat}
 
-Bieten Sie Ihren qualifizierten Webbesuchern über Live-Chat die Verbindung mit Ihren Vertriebsmitarbeitern an. LINK ZU DOC
+Bieten Sie Ihren qualifizierten Webbesuchern über [Live-Chat](/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md){target="_blank"}.
 
 ## FAQs {#faq}
 

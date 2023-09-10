@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 4848676d423ff96c2e880819bc760b2f8dbbd094
+source-git-commit: 3fc84a0e679b0b27aaf4ee251668a3ba0a62f9ef
 workflow-type: tm+mt
-source-wordcount: '9095'
+source-wordcount: '9153'
 ht-degree: 5%
 
 ---
@@ -648,9 +648,35 @@ ht-degree: 5%
          + [Hinzufügen von LinkedIn Matched Audiences als LaunchPoint-Dienst](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
          + [Senden einer Liste an ein Werbenetzwerk](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
       + DYNAMIC CHAT 2 {#dynamic-chat-two}
+         + [Dynamic Chat-Übersicht](product-docs/demand-generation/dynamic-chat-two/automated-chat/dynamic-chat-overview.md)
+         + [Chatbot-Verhalten](product-docs/demand-generation/dynamic-chat-two/automated-chat/chatbot-behavior.md)
+         + [Sitzungsliste](product-docs/demand-generation/dynamic-chat-two/automated-chat/meeting-list.md)
+         + [Dynamic Chat-Aktivitäten](product-docs/demand-generation/dynamic-chat-two/automated-chat/dynamic-chat-activites.md)
+         + [Analytics](product-docs/demand-generation/dynamic-chat-two/automated-chat/analytics.md)
          + Automatisierter Chat {#automated-chat}
-            + [Konversionsflusseinstellungen](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-settings.md)
             + [Übersicht über Konversationsflüsse](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flows-overview.md)
+            + [Konversationsfluss erstellen](product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-conversational-flow.md)
+            + [Konversionsflusseinstellungen](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-settings.md)
+            + [Konversations-SDK](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversations-sdk.md)
+            + [Dialogübersicht](product-docs/demand-generation/dynamic-chat-two/automated-chat/doc.md)
+            + [Erstellen eines Dialogfelds](product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-dialogue.md)
+            + [Zielgruppenkriterien](product-docs/demand-generation/dynamic-chat-two/automated-chat/audience-criteria.md)
+            + [Entwerferin bzw. Entwerfer des Streams](product-docs/demand-generation/dynamic-chat-two/automated-chat/stream-designer.md)
+            + [Berichte](product-docs/demand-generation/dynamic-chat-two/automated-chat/reports.md)
+         + Integrationen {#integrations}
+            + [Adobe Marketo Engage](product-docs/demand-generation/dynamic-chat-two/integrations/adobe-marketo-engage.md)
+            + [Adobe PDF Embed-API](product-docs/demand-generation/dynamic-chat-two/integrations/adobe-pdf-embed-api.md)
+         + Live-Chat {#live-chat}
+            + [Agenten-Posteingang](product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md)
+            + [Benachrichtigungen](product-docs/demand-generation/dynamic-chat-two/live-chat/notifications.md)
+         + Einrichtung und Konfiguration {#setup-and-configuration}
+            + [Ersteinrichtung](product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/initial-setup.md)
+            + [Hinzufügen oder Entfernen von Chat-Benutzern](product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/add-or-remove-chat-users.md)
+            + [Konfiguration](product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/configuration.md)
+            + [Agenteneinstellungen](product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-settings.md)
+            + [Agentenverwaltung](product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-management.md)
+            + [Sicherheitseinstellungen](product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/security-settings.md)
+            + [Routing](product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/routing.md)
       + Dynamic Chat {#dynamic-chat}
          + [Release Inserts](product-docs/demand-generation/dynamic-chat/release-inserts.md)
          + [Dynamic Chat-Übersicht](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
