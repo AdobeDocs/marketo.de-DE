@@ -4,9 +4,9 @@ title: Agentenverwaltung
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
+source-git-commit: c39d30c40f6e067af6a2a6434a26eb8e2bee8a87
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '184'
 ht-degree: 2%
 
 ---
@@ -21,7 +21,7 @@ Zeigen Sie in der Agentenverwaltung eine Liste der Agenten in Ihrer Dynamic Chat
 
 Auf diesem Tab werden alle Agenten in Ihrer Dynamic Chat-Instanz aufgelistet und Informationen wie Name, E-Mail-Adresse, Status des Live-Chat und mehr enthalten.
 
-PICC2 - BENÖTIGUNG EINES SCREENSHOTS VON GUYS
+![](assets/agent-management-2.png)
 
 ## Teams {#teams}
 

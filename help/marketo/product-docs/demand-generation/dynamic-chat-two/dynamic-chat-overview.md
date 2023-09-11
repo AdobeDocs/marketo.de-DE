@@ -4,10 +4,10 @@ title: Dynamic Chat-Übersicht
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 3fc84a0e679b0b27aaf4ee251668a3ba0a62f9ef
+source-git-commit: c39d30c40f6e067af6a2a6434a26eb8e2bee8a87
 workflow-type: tm+mt
-source-wordcount: '873'
-ht-degree: 3%
+source-wordcount: '665'
+ht-degree: 2%
 
 ---
 
@@ -109,90 +109,29 @@ Führen Sie diese Schritte aus, um Ihre Dynamic Chat-Sprache zu ändern.
 
 Wenn Sie die Sprache aktualisieren, ändert sich alles in der App selbst, mit Ausnahme der Wörter, die Sie persönlich ausgefüllt haben (z. B. Stream-Antworten).
 
-## Einschränkungen bei Dynamic Chat {#limits-in-dynamic-chat}
+## Dynamic Chat-Datenaufbewahrungsgrenzen {#dynamic-chat-data-retention-limits}
 
 <table>
-  <th>Parameter</th>
-  <th>Beschreibung</th>
-  <th>Beschränkung</th>
+  <th>Datentyp</th>
+  <th>Bindungszeitraum</th>
  <tr>
-  <td>Dialogfelder insgesamt</td>
-  <td>Anzahl der Dialogfelder (veröffentlicht und Entwurf)</td>
-  <td>500</td>
- </tr>
- <tr>
-  <td>Kalender insgesamt</td>
-  <td>Anzahl der verbundenen Kalender</td>
-  <td>25</td>
- </tr>
- <tr>
-  <td>Benutzer insgesamt (Administratoren und Marketing-Benutzer)</td>
-  <td>Anzahl der zulässigen kombinierten Benutzer pro Dynamic Chat-Instanz</td>
-  <td>50</td>
- </tr>
- <tr>
-  <td>Veröffentlichte Dialogfelder</td>
-  <td>Anzahl der gespeicherten veröffentlichten Dialogfelder</td>
-  <td>100</td>
- </tr>
- <tr>
-  <td>Target-URLs pro Dialogfeld</td>
-  <td>Anzahl der Ziel-URLs, die einem einzelnen Dialogfeld hinzugefügt werden können</td>
-  <td>20</td>
- </tr>
- <tr>
-  <td>Attribute pro Dialogfeld</td>
-  <td>Anzahl der Attribute, die zu Zielgruppenkriterien für ein einzelnes Dialogfeld hinzugefügt werden können</td>
-  <td>100</td>
- </tr>
- <tr>
-  <td>Gruppen</td>
-  <td>Anzahl der Gruppen, die einem einzelnen Dialogfeld hinzugefügt werden können</td>
-  <td>10</td>
- </tr>
- <tr>
-  <td>Attribute pro Gruppe</td>
-  <td>Anzahl der Attribute, die zu einer Gruppe hinzugefügt werden können</td>
-  <td>10</td>
- </tr>
- <tr>
-  <td>Karten</td>
-  <td>Anzahl der Karten, die pro Dialogfeld zur Arbeitsfläche hinzugefügt werden können</td>
-  <td>500</td>
- </tr>
- <tr>
-  <td>Anonymer Aufbewahrungszeitraum für Lead-Daten</td>
-  <td>Dauer der Aufbewahrung von Informationen zu einem anonymen Lead ohne Interaktion</td>
+  <td>Anonymer Lead ohne Interaktion</td>
   <td>90 Tage</td>
  </tr>
  <tr>
-  <td>Bindungszeitraum der Zielaktivität</td>
-  <td>Die Zeitdauer, in der Aktivitätsdaten beibehalten werden</td>
+  <td>Zielaktivität</td>
   <td>24 Monate</td>
  </tr>
  <tr>
-  <td>Document Activity Retention Period</td>
-  <td>Dauer der Aufbewahrung von Dokumentaktivitätsdaten</td>
+  <td>Dokumentaktivität</td>
   <td>24 Monate</td>
  </tr>
  <tr>
-  <td>Interagiert mit dem Dialogfeld "Aktivitätsdauer"</td>
-  <td>Dauer der Interaktion mit Dialogfeldaktivitätsdaten wird beibehalten</td>
+  <td>Interagiert mit der Dialogfeldaktivität</td>
   <td>90 Tage</td>
  </tr>
  <tr>
-  <td>Treuezeitraum der Sitzungsbuchungsaktivität</td>
-  <td>Die Zeitdauer der Sitzungsbuchung wird im Dynamic Chat gespeichert</td>
+  <td>Konferenzbuchungsaktivität</td>
   <td>24 Monate</td>
- </tr>
- <tr>
-  <td>Unterhaltungen</td>
-  <td>Anzahl der Chat-Unterhaltungen, mit denen Webbesucher pro Monat interagieren können</td>
-  <td>250</td>
- </tr>
- <tr>
-  <td>Ausgelöste Gespräche</td>
-  <td>Anzahl der Chat-Konversationen, die Webbesuchern pro Monat angezeigt werden können</td>
-  <td>25.000</td>
  </tr>
 </table>

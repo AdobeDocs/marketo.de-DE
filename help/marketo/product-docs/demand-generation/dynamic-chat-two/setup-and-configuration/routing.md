@@ -4,9 +4,9 @@ title: Routing
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: c39d30c40f6e067af6a2a6434a26eb8e2bee8a87
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '188'
 ht-degree: 1%
 
 ---
@@ -23,7 +23,7 @@ Benutzerdefinierte Regel: Sie können bestimmte Agenten auswählen, um Sitzungen
 
 In diesem Beispiel senden wir alle Sitzungen aus den angeblichen Bundesstaaten CA, OR und WA an John.
 
-1. Wählen Sie unter Dynamic Chat die Option **Routing**.
+1. Klicken Sie unter &quot;Konfiguration&quot;auf **Routing-Regeln**.
 
    ![](assets/routing-1.png)
 
@@ -35,7 +35,7 @@ In diesem Beispiel senden wir alle Sitzungen aus den angeblichen Bundesstaaten C
 
    ![](assets/routing-3.png)
 
-1. Benennen Sie die Regel und klicken Sie auf **Nächste**.
+1. Benennen Sie Ihre Regel. Optional können Sie eine Beschreibung hinzufügen und ihre Prioritätsstufe festlegen. Klicks **Nächste**.
 
    ![](assets/routing-4.png)
 
@@ -54,3 +54,14 @@ In diesem Beispiel senden wir alle Sitzungen aus den angeblichen Bundesstaaten C
 1. Klicken Sie bei Auswahl aller gewünschten Werte auf **Speichern**.
 
    ![](assets/routing-8.png)
+
+
+## Konto-Routing {#account-routing}
+
+Identifizieren und laden Sie Ihr Zielkonto und die entsprechenden Vertriebseigentümer hoch und leiten Sie Besucher, die von diesen Konten kommen, direkt zum entsprechenden Kontoinhaber weiter.
+
+![](assets/routing-9.png)
+
+Teamrouting
+
+Mitglied des Smart List Routing
