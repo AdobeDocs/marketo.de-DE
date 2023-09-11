@@ -4,9 +4,9 @@ title: Zielgruppenkriterien
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
 workflow-type: tm+mt
-source-wordcount: '540'
+source-wordcount: '569'
 ht-degree: 2%
 
 ---
@@ -23,8 +23,6 @@ Die Priorität bestimmt, welches Dialogfeld ein Lead erhält, falls er für mehr
 
 ## Ereignisse {#events}
 
-![](assets/audience-criteria-2.png)
-
 Mit Ereignissen können Sie Besucher auf Basis des Bildlaufs oder der Dauer des Bildlaufs auf Ihrer Seite/Site als Ziel auswählen. Im folgenden Beispiel werden Besucher angesprochen, die sich seit mehr als 20 Sekunden auf einer bestimmten Seite befinden.
 
 1. Grab die **Besuchszeit pro Seite** -Ereignis ein und ziehen Sie es nach rechts.
@@ -40,8 +38,6 @@ Mit Ereignissen können Sie Besucher auf Basis des Bildlaufs oder der Dauer des 
    ![](assets/audience-criteria-5.png)
 
 ## Attribute {#attributes}
-
-![](assets/audience-criteria-6.png)
 
 **Bekannte Personen**
 
@@ -96,6 +92,18 @@ Es gibt eine einfache Möglichkeit, Personen gezielt anzusprechen, die noch nich
 1. _Is_ ist standardmäßig festgelegt. Geben Sie im Feld Werte auswählen NY ein (Sie können auch auf die Dropdown-Liste klicken und aus der Liste auswählen).
 
    ![](assets/audience-criteria-15.png)
+
+## Mitgliedschaft {#membership}
+
+Verwenden Sie Marketo Engage Smart Lists für die Ziel-Audience Ihres Dialogfelds.
+
+1. Nehmen Sie unter Mitgliedschaft **Mitglied der Smart List** und legen Sie es auf die Arbeitsfläche.
+
+   ![](assets/audience-criteria-15a.png)
+
+1. Wählen Sie die gewünschte Smart-Liste aus.
+
+   ![](assets/audience-criteria-15b.png)
 
 ## Gruppen hinzufügen {#add-groups}
 

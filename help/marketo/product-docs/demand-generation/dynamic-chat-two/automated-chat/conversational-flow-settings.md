@@ -4,9 +4,9 @@ title: Konversionsflusseinstellungen für Marketo Engage Forms
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 59a1dfe1a6ca638cdbc18a7163e64dc2bac25bb5
+source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,10 @@ Machen Sie Marketo Engage Forms kommunikativ, indem Sie sie mit Dynamic Chat-Kon
 >[!PREREQUISITES]
 >
 >PREREQ HIER HINZUFÜGEN
+
+>[!AVAILABILITY]
+>
+>Mitglied der Smart List oder Mitglied der List-Kriterien erfordert Dynamic Chat Prime.
 
 1. Suchen und wählen Sie das Formular aus (oder erstellen Sie ein neues).
 

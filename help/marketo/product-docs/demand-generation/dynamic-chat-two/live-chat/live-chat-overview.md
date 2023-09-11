@@ -4,7 +4,7 @@ title: Live-Chat-Übersicht
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
+source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 3%
@@ -26,7 +26,7 @@ Verwenden Sie die Live-Chat-Karte im [Stream-Designer](/help/marketo/product-doc
 **Bewährte Methoden**
 
 * Verwenden Sie eine Fragenkarte vor der Live-Chat-Karte und fragen Sie den Besucher, ob er eine Verbindung herstellen möchte.
-* Nachdem der Besucher einer Verbindung zugestimmt hat, verwenden Sie die Datenerfassungskarte, um einige seiner Informationen zu erhalten, wie Vor-/Nachname, E-Mail-Adresse, Titel usw. (Es wird empfohlen, mindestens Vorname und E-Mail-Adresse anzufordern)
+* Nachdem der Besucher einer Verbindung zugestimmt hat, verwenden Sie die Datenerfassungskarte, um einige seiner Informationen zu sammeln, z. B. Vor-/Nachname, E-Mail-Adresse, Berufsbezeichnung usw. (Es wird empfohlen, mindestens Vorname und E-Mail-Adresse anzufordern).
 
 ## Optionen für Live-Chat-Karten {#live-chat-card-options}
 

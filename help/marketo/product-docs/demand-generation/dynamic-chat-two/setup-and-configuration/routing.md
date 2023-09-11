@@ -4,7 +4,7 @@ title: Routing
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: c39d30c40f6e067af6a2a6434a26eb8e2bee8a87
+source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 1%
@@ -54,7 +54,6 @@ In diesem Beispiel senden wir alle Sitzungen aus den angeblichen Bundesstaaten C
 1. Klicken Sie bei Auswahl aller gewünschten Werte auf **Speichern**.
 
    ![](assets/routing-8.png)
-
 
 ## Konto-Routing {#account-routing}
 

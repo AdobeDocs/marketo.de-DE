@@ -4,9 +4,9 @@ title: Entwerferin bzw. Entwerfer des Streams
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
+source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
 workflow-type: tm+mt
-source-wordcount: '980'
+source-wordcount: '1024'
 ht-degree: 2%
 
 ---
@@ -43,7 +43,11 @@ Der Stream-Designer enthält mehrere Karten, die Sie hinzufügen können, um die
  </tr>
  <tr>
   <td><strong>Terminplaner</strong></td>
-  <td>Bietet dem Besucher einen Kalender der verfügbaren Daten, um eine Weiterverfolgung zu planen. Die Verfügbarkeit eines Kalenders spiegelt <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">der nächste Agent in Zeilen</a>.</td>
+  <td>Bietet dem Besucher einen Kalender der verfügbaren Daten, um eine Weiterverfolgung zu planen. Die Verfügbarkeit eines Kalenders spiegelt <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">der nächste Agent in Zeilen</a>. Es gibt auch eine Option, um Attribute wie den Namen des Agenten oder die E-Mail-Adresse weiterzugeben.</td>
+ </tr>
+ <tr>
+  <td><strong>Konferenzbuchung</strong></td>
+  <td>Bietet dem Besucher einen Kalender der verfügbaren Daten, um ein Meeting zu planen. Wählen Sie die Kalenderverfügbarkeit über Round Robin, einen bestimmten Agenten oder mithilfe benutzerdefinierter Regeln.</td>
  </tr>
  <tr>
   <td><strong>Ziel</strong></td>
@@ -68,19 +72,19 @@ In der rechten oberen Ecke des Stream-Designers sehen Sie eine Handvoll Symbole.
 <table>
  <tr>
   <td><img src="assets/stream-designer-1.png"></td>
-  <td>Fügt ein Raster zum Hintergrund für diejenigen hinzu, die diese Ansicht bevorzugen</td>
- </tr>
- <tr>
-  <td><img src="assets/stream-designer-2.png"></td>
   <td>Vergrößert die Ansicht und erstellt größere Karten</td>
  </tr>
  <tr>
-  <td><img src="assets/stream-designer-3.png"></td>
+  <td><img src="assets/stream-designer-2.png"></td>
   <td>Verkleinert die Ansicht und erstellt kleinere Karten</td>
  </tr>
  <tr>
-  <td><img src="assets/stream-designer-4.png"></td>
+  <td><img src="assets/stream-designer-3.png"></td>
   <td>Öffnet ein Fenster, in dem Sie Ihren Chat testen können (drücken Sie zum Schließen denselben Knopf)</td>
+ </tr>
+ <tr>
+  <td><img src="assets/stream-designer-4.png"></td>
+  <td>Ermöglicht die Suche nach Karten- oder Inhaltsarten in Ihrem Stream</td>
  </tr>
  <tr>
   <td><img src="assets/stream-designer-5.png"></td>
@@ -211,4 +215,3 @@ In der rechten oberen Ecke des Stream-Designers sehen Sie eine Handvoll Symbole.
 >* [Zielgruppenkriterien](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target="_blank"}
 >* [Berichte](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target="_blank"}
 >* [Verwenden der Dokumentkarte](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md){target="_blank"}
-
