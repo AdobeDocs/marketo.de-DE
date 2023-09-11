@@ -4,9 +4,9 @@ title: Agentenverwaltung
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
+source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '189'
 ht-degree: 2%
 
 ---
@@ -19,7 +19,7 @@ Zeigen Sie in der Agentenverwaltung eine Liste der Agenten in Ihrer Dynamic Chat
 
 ## Agentinnen bzw. Agenten {#agents}
 
-Auf diesem Tab werden alle Agenten in Ihrer Dynamic Chat-Instanz aufgelistet und Informationen wie ihr Name, ihre E-Mail-Adresse, ihren Live-Chat-Status und mehr aufgeführt.
+Auf diesem Tab werden alle Agenten in Ihrer Dynamic Chat-Instanz aufgelistet und Informationen wie Name, E-Mail-Adresse, Status des Live-Chat und mehr enthalten.
 
 PICC2 - BENÖTIGUNG EINES SCREENSHOTS VON GUYS
 
@@ -63,7 +63,7 @@ Wählen Sie eine Standardnachricht (System) aus oder schreiben Sie eine benutzer
 
 >[!NOTE]
 >
->Auswählen der **Option &quot;Sitzungsbuchung einschließen&quot;** -Kontrollkästchen generiert ein Meetingbuchungs-Widget für den Chat-Besucher.
+>Auswählen der **Option &quot;Sitzungsbuchung einschließen&quot;** aktivieren, können die Chat-Besucher ein Meeting buchen, wenn keine Agenten für Live-Chat verfügbar sind.
 
 >[!TIP]
 >

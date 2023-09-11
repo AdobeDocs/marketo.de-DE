@@ -4,10 +4,10 @@ title: Agenten-Posteingang
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 4d5f0c1c2fa050d4da38daaff1a1be3725bda1d7
+source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
 workflow-type: tm+mt
-source-wordcount: '250'
-ht-degree: 3%
+source-wordcount: '319'
+ht-degree: 2%
 
 ---
 
@@ -27,6 +27,10 @@ Oben rechts im Bildschirm &quot;Agent-Posteingang&quot;haben Sie die Möglichkei
 >
 >**Dadurch wird** die [Live-Chat-Verfügbarkeit](/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-settings.md#live-chat-availability) die Sie in den Agenteneinstellungen festgelegt haben. Der Status bleibt erhalten, bis Sie ihn entweder zurückwechseln oder zum nächsten Zeitblock in Ihrer Verfügbarkeit wechseln.
 
+>[!NOTE]
+>
+>Wenn Sie Ihren Status auf &quot;Nicht verfügbar&quot;setzen, wirkt sich dies nicht auf aktive Chats aus.
+
 ## Akzeptieren eines Live-Chat {#accepting-a-live-chat}
 
 Wenn ein Live-Chat an den Agenten weitergeleitet wird, wird ihm oben auf dem Bildschirm ein blaues Banner angezeigt, in dem er gebeten wird, ihn zu akzeptieren.
@@ -36,7 +40,6 @@ Wenn ein Live-Chat an den Agenten weitergeleitet wird, wird ihm oben auf dem Bil
 ### Zu beachten {#things-to-note}
 
 * Agenten haben 45 Sekunden Zeit, um zu antworten, bevor die &quot;Chat akzeptieren&quot;-Nachricht eine Zeitüberschreitung aufweist.
-* BROWSER TIDBIT
 * Derzeit sind zehn Live-Chats pro Agent zulässig
 
 ## Konversationen {#conversations}
@@ -44,6 +47,10 @@ Wenn ein Live-Chat an den Agenten weitergeleitet wird, wird ihm oben auf dem Bil
 Auf der linken Seite des Bildschirms &quot;Agent Inbox&quot;können Sie festlegen, dass nur die aktiven Konversationen oder alle davon angezeigt werden sollen.
 
 ![](assets/agent-inbox-4.png)
+
+>[!NOTE]
+>
+>Während Sie vergangene (inaktive) Gespräche von sich selbst und anderen Agenten sehen können, können Sie nur Ihre eigenen aktiven Unterhaltungen sehen.
 
 ## Besucherinformationen {#visitor-information}
 
@@ -61,4 +68,18 @@ Unter den Besucherinformationen befindet sich der Aktivitätsverlauf. Zeigen Sie
 >
 >Informationen werden nur für die letzten 90 Tage angezeigt.
 
-Aktive Konversationen - Alle Konversationen - Kalender, in dem Besucherinformationen geteilt werden - Aktuelle Dynamic Chat-Aktivitäten
+## Kalenderfreigabe {#calendar-sharing}
+
+Am unteren Rand des Live-Chat-Fensters befindet sich ein Symbol, mit dem Sie den Kalender Ihres oder eines anderen Agenten für den Chat-Besucher freigeben können.
+
+1. Klicken Sie auf das Kalendersymbol.
+
+   ![](assets/agent-inbox-7.png)
+
+1. Wählen Sie den gewünschten Agentenkalender aus und klicken Sie auf **Senden**.
+
+   ![](assets/agent-inbox-8.png)
+
+1. Der Chatbesucher kann ein Meeting buchen.
+
+   ![](assets/agent-inbox-9.png)
