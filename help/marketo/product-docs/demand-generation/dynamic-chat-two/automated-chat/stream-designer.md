@@ -4,7 +4,7 @@ title: Entwerferin bzw. Entwerfer des Streams
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: b4ba55769034e8fb8a7878f52e21bd08e073fa8c
+source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
 workflow-type: tm+mt
 source-wordcount: '980'
 ht-degree: 2%
@@ -56,8 +56,8 @@ Der Stream-Designer enthält mehrere Karten, die Sie hinzufügen können, um die
  <tr>
   <td><strong>Live-Chat</strong></td>
   <td>Verwenden Sie die Live-Chat-Karte, wenn Sie möchten, dass Besucher mit einem Live-Agenten chatten.
-  <li>Die Live-Chat-Karte muss die letzte Karte im Zweig sein</li>
-  <li>Die Besucher werden an einen Agenten weitergeleitet, sobald sie diese Karte im Stream erreichen. Daher wird empfohlen, dieser Karte eine Fragenkarte mit der Frage vorzustellen, ob sie mit einem Live-Agenten chatten möchten</li></td>
+  <li>Die Live-Chat-Karte muss die letzte Karte im Zweig sein.</li>
+  <li>Die Besucher werden an einen Agenten weitergeleitet, sobald sie diese Karte im Stream erreichen. Daher wird empfohlen, dieser Karte eine Fragenkarte mit der Frage vorzustellen, ob sie mit einem Live-Agenten chatten möchten.</li></td>
  </tr>
 </table>
 
