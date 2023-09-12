@@ -4,10 +4,10 @@ title: Sicherheitseinstellungen
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
+source-git-commit: 720215ea958206931413f2d273a4a058bc051579
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 5%
+source-wordcount: '63'
+ht-degree: 6%
 
 ---
 
@@ -22,10 +22,6 @@ In den Sicherheitseinstellungen können Sie einer blockierten oder blockierten Z
 1. Wählen Sie die **Validierung aktivieren** aktivieren, um Ihre Blockierungsliste zu aktivieren. Geben Sie bis zu 50 Domänen ein und klicken Sie auf **Speichern**.
 
    ![](assets/security-settings-2.png)
-
->[!CAUTION]
->
->Stellen Sie sicher **NOT** hinzugefügt werden `adobeeventlab.com` in die Blockierungsliste oder wird es? CHAT DEAKTIVIEREN?
 
 ## Zulässige Domänen {#allowed-domains}
 
