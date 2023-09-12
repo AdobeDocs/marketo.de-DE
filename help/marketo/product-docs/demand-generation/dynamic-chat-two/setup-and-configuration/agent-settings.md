@@ -4,9 +4,9 @@ title: Agenteneinstellungen
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
+source-git-commit: 5c99dd3394ad09a48b5adbb022a9c4e63b619c81
 workflow-type: tm+mt
-source-wordcount: '482'
+source-wordcount: '486'
 ht-degree: 2%
 
 ---
@@ -64,7 +64,7 @@ Legen Sie Ihre Zeitzone und die Zeit/den Wochentag fest, um Sitzungsbuchungen zu
  <tbody> 
   <tr> 
    <td><b>Meeting-Dauer</b></td>
-   <td>Maximale Sitzungslänge. - WAS PASSIERT? AUTOSTOPFE WIE ZOOM?</td>
+   <td>Bestimmt, wie lange Besucher in den verfügbaren Sitzungsplätzen sehen.</td>
   </tr> 
   <tr> 
    <td><b>Pufferzeit zwischen Meetings</b></td>
