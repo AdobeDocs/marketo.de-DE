@@ -3,10 +3,10 @@ description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokument
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 515821580741449f71df31dbd0652498fd744783
+source-git-commit: 61aa38883d62523449aed77d1dbd2e30f1d31038
 workflow-type: tm+mt
-source-wordcount: '941'
-ht-degree: 12%
+source-wordcount: '942'
+ht-degree: 11%
 
 ---
 
@@ -32,8 +32,8 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
    <td><b>Aktualisierungen der Dokumentation</b></td>
   </tr>
   <tr> 
-   <td><i>Demnächst verfügbar</i></td>
-   <td><i>Demnächst verfügbar</i></td>
+   <td>Versendet</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md" target="_blank">Übersicht über den Programmimport</a></td>
   </tr>
   </tbody>
 </table>
