@@ -4,30 +4,28 @@ title: Konversationsfluss erstellen
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
+source-git-commit: 720215ea958206931413f2d273a4a058bc051579
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
 
 # Konversationsfluss erstellen {#create-a-conversational-flow}
 
-Gestalten Sie einen Konversationsfluss und weisen Sie ihn jedem Trigger basierend auf einer bestimmten Aktion zu (z. B. Klicken auf eine Aktionsaufruf-Schaltfläche, beim Laden der Seite, Besuchszeit pro Seite usw.).
-
-Nennen Sie den Unterschied zwischen Dialogen??????????
+So erstellen Sie einen neuen Konversationsfluss.
 
 1. Klicken Sie unter Automatisierter Chat auf **Konversationsflüsse**.
 
-PICC
+   ![](assets/create-a-conversational-flow-1.png)
 
 1. Klicks **Konversationsfluss erstellen**.
 
-PICC
+   ![](assets/create-a-conversational-flow-2.png)
 
 1. Wählen Sie einen leeren Konversationsfluss oder eine der vorausgefüllten Vorlagen aus. Geben Sie einen Namen ein (Beschreibung ist optional), ändern Sie die Sprache (optional) und klicken Sie auf **Erstellen**.
 
-PICC
+   ![](assets/create-a-conversational-flow-3.png)
 
 >[!NOTE]
 >
