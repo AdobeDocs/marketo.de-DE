@@ -4,9 +4,9 @@ title: Aktuelle Versionshinweise - Test
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 83f9cc2c59815a3df171d703d7069973de325909
+source-git-commit: d84a1183938238a79c5aba61005ae07f7fd902a1
 workflow-type: tm+mt
-source-wordcount: '1209'
+source-wordcount: '1212'
 ht-degree: 10%
 
 ---
@@ -117,11 +117,9 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
 
 * mehr Platz
 
-* Ende des Tests... FÜR NOCH
-
 * **Wird von der Spalte &quot;Zählung&quot;für Design Studio-Assets verwendet**:
 
-<table> 
+<table width="400">
   <tr> 
    <td><b>Status</b></td>
    <td><b>Aktualisierungen der Dokumentation</b></td>
@@ -135,7 +133,7 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
 
 * **Von Registerkartenverbesserungen für Design Studio Assets verwendet**: Die Registerkarte &quot;Von Erweiterung verwendet&quot;bietet eine detailliertere Ansicht des Typs und des Namens eines Assets sowie dessen Verwendungsort. Dies gilt für E-Mail-Details und Details zu Bildern und Dateien.
 
-<table> 
+<table width="400px">
   <tr> 
    <td><b>Status</b></td>
    <td><b>Aktualisierungen der Dokumentation</b></td>
@@ -146,6 +144,12 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
   </tr>
   </tbody>
 </table>
+
+* space
+
+* mehr Platz
+
+* Ende des Tests... FÜR NOCH
 
 * **Schrittdienst für die Berechnung des Formelflusses**: Compute Formula ist ein auf einer Adobe IO Runtime-Plattform aufbauender Flow Step Service für die Verwendung mit Marketo Engage Smart Campaigns. Adobe-Clients mit IO Runtime können den Dienst bereitstellen und in ihren Marketo Engage-Abonnements installieren, sodass sie Excel-ähnliche Formeln in Marketo Smart Campaigns berechnen können.
 

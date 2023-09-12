@@ -3,9 +3,9 @@ description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokument
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 61aa38883d62523449aed77d1dbd2e30f1d31038
+source-git-commit: d84a1183938238a79c5aba61005ae07f7fd902a1
 workflow-type: tm+mt
-source-wordcount: '942'
+source-wordcount: '951'
 ht-degree: 11%
 
 ---
@@ -328,6 +328,6 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
 
 ## Ankündigungen {#announcements}
 
-* **Umschalten der Einstellung für Design Studio Assets**: Der Umschalter, mit dem Benutzer zwischen der klassischen Benutzeroberfläche und dem modernen UX-Erlebnis für Design Studio wechseln können, wird zusammen mit der alten Version des Design Studio-Erlebnisses nicht mehr unterstützt, sodass Benutzer vollständig zur modernen UX-Umgebung migrieren können.
+* **Umschalten der Einstellung für Design Studio Assets**: Der Umschalter, mit dem Benutzer zwischen der klassischen Benutzeroberfläche und dem modernen UX-Erlebnis für Design Studio wechseln können, wird zusammen mit der alten Version des Design Studio-Erlebnisses nicht mehr unterstützt, sodass Benutzer vollständig zur modernen UX-Umgebung migrieren können. [Weitere Informationen hier](https://nation.marketo.com/t5/the-next-generation-experience/adobe-marketo-engage-switch-to-modern-experience-for-all-design/ba-p/339411){target="_blank"}.
 
 * **_Webinar zur Produktversion_**: Treten Sie uns am 6. September 2023 um 9:00 Uhr PT / 12:00 Uhr ET für eine [Live-Webinar](https://engage.marketo.com/2023_July_September_Release_Webinar_RegistrationPage.html){target="_blank"} von unserem Produktteam gehostet, wo Sie erfahren, wie Sie alle neuesten Produktinnovationen nutzen können.
