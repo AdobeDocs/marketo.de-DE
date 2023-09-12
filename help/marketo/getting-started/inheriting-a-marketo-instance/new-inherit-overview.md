@@ -3,10 +3,10 @@ description: Erfahren Sie, wie Sie eine von Ihnen geerbte Marketo Engage-Instanz
 title: Starten einer geerbten Marketo Engage-Instanz
 hide: true
 hidefromtoc: true
-source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
+source-git-commit: 67cfa02b558236bb9e963c2949a70185cc531ef0
 workflow-type: tm+mt
-source-wordcount: '335'
-ht-degree: 2%
+source-wordcount: '318'
+ht-degree: 4%
 
 ---
 
@@ -14,21 +14,23 @@ ht-degree: 2%
 
 Starten eines neuen Auftrags oder Übernehmen einer vorhandenen Instanz von einem anderen Administrator? Die Übernahme einer Live-Instanz, die schon seit einiger Zeit läuft, kann ein wenig beängstigend erscheinen, aber dieser Leitfaden hilft Ihnen, in kürzester Zeit aufzustehen und zu laufen.
 
-## Elemente zum Deaktivieren {#items-to-check-off}
+## Einrichtung in der Marketing-Nation {#get-set-up-in-the-marketing-nation}
 
-Stellen Sie sicher, dass Sie über die richtigen Arten von Zugriff und Informationen verfügen.
+Stellen Sie sicher, dass Sie in der Marketo-Community ordnungsgemäß eingerichtet sind.
 
-* Einen kurzen Überblick über **Funktionsweise von Marketo** - KG - ENTWEDER BESSERES VIDEO ODER DELETE FINDEN
+* **[Profil einrichten]**(https://nation.marketo.com/){target="_blank"}.
 
-* **Profil einrichten** im [**Marketing-Nation**](https://nation.marketo.com/){target="_blank"} Community (Benutzername und Kennwort erforderlich).
+* [**Profil einrichten**](https://nation.marketo.com/){target="_blank"}.
+
+* **[Profil einrichten](https://nation.marketo.com/)**{target="_blank"}.
+
+* **[Profil einrichten](https://nation.marketo.com/){target="_blank"}**.
 
 * Lesen Sie im Abschnitt [**Marketing Community-Richtlinien**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
 
 * Klicks **[!UICONTROL Ihre Orte]** in Ihrem Marketo Nation-Community-Profil , um die Kontoseite Ihres Unternehmens anzuzeigen.
 
 * Erfahren Sie, wie [**Support-Fall einreichen**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"} (and confirm you're [**set up as an authorized support contact**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}).
-
-* [**Benutzer verwalten**](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md){target="_blank"} und löschen Sie diejenigen, die Ihr Unternehmen verlassen haben.
 
 ## Übernommene Audit-Handbücher für Instanzen {#inherited-instance-audit-guides}
 

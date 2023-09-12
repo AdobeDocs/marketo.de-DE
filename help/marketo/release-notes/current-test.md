@@ -4,7 +4,7 @@ title: Aktuelle Versionshinweise - Test
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 8c0a62806d6ef24e75d1e6e2eafe2640a3ebb6e5
+source-git-commit: 67cfa02b558236bb9e963c2949a70185cc531ef0
 workflow-type: tm+mt
 source-wordcount: '897'
 ht-degree: 5%
@@ -254,6 +254,7 @@ Alle unten aufgeführten Funktionen entsprechen dem Agile-Format und werden an v
   </tr>
  </tbody> 
 </table>
+<br/>
 
 ## Ankündigungen {#announcements}
 
