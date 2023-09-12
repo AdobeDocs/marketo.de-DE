@@ -4,7 +4,7 @@ title: Aktuelle Versionshinweise - Test
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 2f5b79e9fb0340dd1ed65b00f2ec3ac487b7b7ca
+source-git-commit: 5a46493d1d9f1a56d574f62ce1d316a6238ee870
 workflow-type: tm+mt
 source-wordcount: '901'
 ht-degree: 9%
@@ -22,7 +22,6 @@ Unten finden Sie alle Funktionen der Version vom 23. September. Überprüfen Sie
 ## Standardfunktionen des Versionszyklus {#standard-release-cycle-features}
 
 Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab der Veröffentlichung auf **8. September 2023**, mit einer stufenweisen Einführung der verbleibenden Funktionen in den darauffolgenden Wochen. Die Veröffentlichungsfunktionen und -daten können sich ändern. Bitte überprüfen Sie neben den einzelnen Funktionen nach ihrem Status.
-</br>
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
@@ -72,7 +71,7 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
 
 Alle unten aufgeführten Funktionen entsprechen dem Agile-Format und werden an verschiedenen Daten vor oder nach dem standardmäßigen Veröffentlichungsdatum veröffentlicht. Bitte überprüfen Sie neben den einzelnen Funktionen nach ihrem Status.
 </br>
-<table style="table-layout:auto"> 
+<table style="border: none">
  <tbody> 
   <tr> 
    <th style="width:65%">Funktion</th> 
@@ -89,7 +88,7 @@ Alle unten aufgeführten Funktionen entsprechen dem Agile-Format und werden an v
 
 ### Dynamic Chat {#dynamic-chat}
 
-<table style="table-layout:auto"> 
+<table style="border: 0px">
  <tbody> 
   <tr> 
    <th style="width:65%">Funktion</th> 
