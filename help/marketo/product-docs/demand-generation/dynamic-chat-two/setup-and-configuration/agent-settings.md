@@ -4,9 +4,9 @@ title: Agenteneinstellungen
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
+source-git-commit: 49421ecf7f8cec6fb94bc138969c0a43b8832537
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '476'
 ht-degree: 2%
 
 ---
@@ -83,7 +83,7 @@ Legen Sie Ihre Zeitzone und Zeit/Tag der Woche fest, um Live-Chats zu empfangen.
 
 ![](assets/agent-settings-5.png)
 
-Wenn Sie bei der App angemeldet sind, erhalten Sie eine In-App-Benachrichtigung über einen eingehenden Chat. Wenn Sie nicht angemeldet sind, erhalten Sie eine Browserbenachrichtigung (in Google Chrome).
+Wenn Sie bei der App angemeldet sind, erhalten Sie eine In-App-Benachrichtigung über einen eingehenden Chat. Wenn Sie nicht angemeldet sind, erhalten Sie eine Browserbenachrichtigung.
 
 >[!IMPORTANT]
 >

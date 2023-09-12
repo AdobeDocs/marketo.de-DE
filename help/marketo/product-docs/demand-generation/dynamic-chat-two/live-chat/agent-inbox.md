@@ -4,9 +4,9 @@ title: Agenten-Posteingang
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
+source-git-commit: 49421ecf7f8cec6fb94bc138969c0a43b8832537
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '367'
 ht-degree: 2%
 
 ---
@@ -25,17 +25,24 @@ Oben rechts im Bildschirm &quot;Agent-Posteingang&quot;haben Sie die Möglichkei
 
 >[!IMPORTANT]
 >
->**Dadurch wird** die [Live-Chat-Verfügbarkeit](/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-settings.md#live-chat-availability) die Sie in den Agenteneinstellungen festgelegt haben. Der Status bleibt erhalten, bis Sie ihn entweder zurückwechseln oder zum nächsten Zeitblock in Ihrer Verfügbarkeit wechseln.
+>**Dadurch wird** die [Live-Chat-Verfügbarkeit](/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-settings.md#live-chat-availability){target="_blank"} die Sie in den Agenteneinstellungen festgelegt haben. Der Status bleibt erhalten, bis Sie ihn entweder zurückwechseln oder zum nächsten Zeitblock in Ihrer Verfügbarkeit wechseln.
 
 >[!NOTE]
 >
 >Wenn Sie Ihren Status auf &quot;Nicht verfügbar&quot;setzen, wirkt sich dies nicht auf aktive Chats aus.
 
-## Akzeptieren eines Live-Chat {#accepting-a-live-chat}
+## Live-Chat-Benachrichtigungen {#live-chat-notifications}
 
-Wenn ein Live-Chat an den Agenten weitergeleitet wird, wird ihm oben auf dem Bildschirm ein blaues Banner angezeigt, in dem er gebeten wird, ihn zu akzeptieren.
+Wenn ein Live-Chat an einen Agenten weitergeleitet wird, wird ihm oben auf dem Bildschirm ein blaues Banner angezeigt, in dem er aufgefordert wird, ihn zu akzeptieren.
 
 ![](assets/agent-inbox-3.png)
+
+>[!TIP]
+>
+>Sie können auch Browser-Benachrichtigungen einrichten, die Sie benachrichtigen, falls Sie nicht bei Dynamic Chat angemeldet sind.
+>
+>* Browserbenachrichtigungen aktivieren in [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop){target="_blank"}
+>* Browserbenachrichtigungen aktivieren in [Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}
 
 ### Zu beachten {#things-to-note}
 

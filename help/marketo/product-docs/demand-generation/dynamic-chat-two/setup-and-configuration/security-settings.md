@@ -4,10 +4,10 @@ title: Sicherheitseinstellungen
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 720215ea958206931413f2d273a4a058bc051579
+source-git-commit: 49421ecf7f8cec6fb94bc138969c0a43b8832537
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 6%
+source-wordcount: '109'
+ht-degree: 3%
 
 ---
 
@@ -19,11 +19,15 @@ In den Sicherheitseinstellungen können Sie einer blockierten oder blockierten Z
 
 ## Blockierte E-Mail-Domänen {#blocked-email-domains}
 
+Wenn es Besucher mit E-Mail-Domänen gibt, mit denen Ihre Agenten nicht interagieren sollen (z. B. Konkurrenten), fügen Sie ihre E-Mail-Domäne zur Blockierungsliste hinzu.
+
 1. Wählen Sie die **Validierung aktivieren** aktivieren, um Ihre Blockierungsliste zu aktivieren. Geben Sie bis zu 50 Domänen ein und klicken Sie auf **Speichern**.
 
    ![](assets/security-settings-2.png)
 
 ## Zulässige Domänen {#allowed-domains}
+
+Durch das Hinzufügen zulässiger Domänen wird sichergestellt, dass Drittanbieter das JavaScript nicht von Ihrer Site löschen und zu ihrer eigenen hinzufügen können.
 
 1. Wählen Sie die **Validierung aktivieren** aktivieren, um Ihre Zulassungsliste zu aktivieren. Geben Sie die zulässigen Domänen ein und klicken Sie auf **Speichern**.
 
