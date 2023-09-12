@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
+source-git-commit: 49421ecf7f8cec6fb94bc138969c0a43b8832537
 workflow-type: tm+mt
-source-wordcount: '9156'
+source-wordcount: '9162'
 ht-degree: 5%
 
 ---
@@ -656,7 +656,7 @@ ht-degree: 5%
          + Automatisierter Chat {#automated-chat}
             + [Übersicht über Konversationsflüsse](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flows-overview.md)
             + [Konversationsfluss erstellen](product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-conversational-flow.md)
-            + [Konversionsflusseinstellungen](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-settings.md)
+            + [Konversionsflusseinstellungen für Marketo Engage Forms](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md)
             + [Konversations-SDK](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversations-sdk.md)
             + [Dialogübersicht](product-docs/demand-generation/dynamic-chat-two/automated-chat/dialogue-overview.md)
             + [Erstellen eines Dialogfelds](product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-dialogue.md)
@@ -1967,6 +1967,7 @@ ht-degree: 5%
 + Versionshinweise {#release-notes}
    + [Veröffentlichungszeitplan](release-notes/release-schedule.md)
    + [Aktuelle Version](release-notes/current.md)
+   + [Aktuelle Version](release-notes/current-test.md)
    + Frühere Versionen {#previous-releases}
       + 2023 {#2023}
          + [Versionshinweise: Januar &#39;23](release-notes/previous-releases/2023/release-notes-jan-23.md)
