@@ -4,9 +4,9 @@ title: Aktuelle Versionshinweise - Test
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 49421ecf7f8cec6fb94bc138969c0a43b8832537
+source-git-commit: 83f9cc2c59815a3df171d703d7069973de325909
 workflow-type: tm+mt
-source-wordcount: '1083'
+source-wordcount: '1209'
 ht-degree: 10%
 
 ---
@@ -41,8 +41,8 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
 
 <table>
   <tr> 
-   <td><b>Funktion</b></td>
-   <td><strong>Wird von der Spalte "Zählung"für Design Studio-Assets verwendet</strong>: Die Marketo Engage-Programm-Referenzbibliothek ermöglicht Benutzern den Import von Beispielprogrammen und anderen Assets, die von Adobe empfohlene Best Practices darstellen. Unser Produktmanagement-Team hat die -Bibliothek vollständig aktualisiert und bietet wertvollere Tools für diejenigen, die ihr Programm schnell starten möchten.</td>
+   <td style="width:20%"><b>Funktion</b></td>
+   <td style="width:80%"><strong>Wird von der Spalte "Zählung"für Design Studio-Assets verwendet</strong>: Die Marketo Engage-Programm-Referenzbibliothek ermöglicht Benutzern den Import von Beispielprogrammen und anderen Assets, die von Adobe empfohlene Best Practices darstellen. Unser Produktmanagement-Team hat die -Bibliothek vollständig aktualisiert und bietet wertvollere Tools für diejenigen, die ihr Programm schnell starten möchten.</td>
   </tr>
   <tr> 
    <td><b>Status</b></td>
@@ -58,9 +58,9 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Funktion</th> 
-   <th>Status</th>
-   <th>Dokumentation</th>
+   <th style="width:70%">Funktion</th> 
+   <th style="width:15%">Status</th>
+   <th style="width:15%">Dokumentation</th>
   </tr> 
   <tr> 
    <td><strong>Marketo-Referenzbibliothek</strong>: Die Marketo Engage-Programm-Referenzbibliothek ermöglicht Benutzern den Import von Beispielprogrammen und anderen Assets, die von Adobe empfohlene Best Practices darstellen. Unser Produktmanagement-Team hat die -Bibliothek vollständig aktualisiert und bietet wertvollere Tools für diejenigen, die ihr Programm schnell starten möchten.</td> 
@@ -80,9 +80,44 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
  </tbody> 
 </table>
 
+* space
 
+* space
 
+* mehr Platz
 
+<table style="table-layout:auto"> 
+ <tbody> 
+  <tr> 
+   <th style="width:65%">Funktion</th> 
+   <th style="width:15%">Status</th>
+   <th style="width:20%">Dokumentation</th>
+  </tr> 
+  <tr> 
+   <td><strong>Marketo-Referenzbibliothek</strong>: Die Marketo Engage-Programm-Referenzbibliothek ermöglicht Benutzern den Import von Beispielprogrammen und anderen Assets, die von Adobe empfohlene Best Practices darstellen. Unser Produktmanagement-Team hat die -Bibliothek vollständig aktualisiert und bietet wertvollere Tools für diejenigen, die ihr Programm schnell starten möchten.</td> 
+   <td>Versendet</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md" target="_blank">Übersicht über den Programmimport</a></td>
+  </tr>
+   <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>Wird von der Spalte "Zählung"für Design Studio-Assets verwendet</strong>: Die Marketo Engage-Programm-Referenzbibliothek ermöglicht Benutzern den Import von Beispielprogrammen und anderen Assets, die von Adobe empfohlene Best Practices darstellen. Unser Produktmanagement-Team hat die -Bibliothek vollständig aktualisiert und bietet wertvollere Tools für diejenigen, die ihr Programm schnell starten möchten.</td> 
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
+  </tr>
+ </tbody> 
+</table>
+
+* space
+
+* space
+
+* mehr Platz
+
+* Ende des Tests... FÜR NOCH
 
 * **Wird von der Spalte &quot;Zählung&quot;für Design Studio-Assets verwendet**:
 
