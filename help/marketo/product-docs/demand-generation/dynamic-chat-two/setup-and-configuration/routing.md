@@ -4,9 +4,9 @@ title: Routing
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
+source-git-commit: df719d0db50009180e707b88b53115d4a62f35bf
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,10 @@ In Dynamic Chat gebuchte Meetings können auf zwei Arten durchgeführt werden. R
 Round robin: Sitzungen werden den Agenten nacheinander zugewiesen. Wenn Sie also fünf Agenten und Agenten haben, die drei das letzte Meeting hatten, wird Agent vier das nächste bekommen, gefolgt von Agent fünf, dann zurück zum Agenten eins.
 
 Benutzerdefinierte Regel: Sie können bestimmte Agenten auswählen, um Sitzungen basierend auf von Ihnen ausgewählten Attributen zu erhalten.
+
+>[!NOTE]
+>
+>Die Kontoweiterleitung hat die höchste Priorität. Wenn ein Besucher den Punkt im Gespräch erreicht, um entweder ein Meeting zu buchen oder einen Live-Chat zu starten, [Konto-Routing](#account-routing) wird zuerst überprüft, bevor andere Routing-Optionen in Betracht gezogen werden.
 
 ## Erstellen einer benutzerspezifischen Regel {#create-a-custom-rule}
 
