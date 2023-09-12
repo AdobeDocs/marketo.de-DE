@@ -4,9 +4,9 @@ title: Live-Chat-Übersicht
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
+source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '240'
 ht-degree: 3%
 
 ---
@@ -23,7 +23,7 @@ Verwenden Sie die Live-Chat-Karte im [Stream-Designer](/help/marketo/product-doc
 >
 >Die Live-Chat-Karte muss immer die letzte Karte im Zweig sein. Wenn die Karte an einem zufälligen Punkt im Zweig platziert wird, kann dies den Besucher überraschen, indem er sie plötzlich mit einem Agenten verbindet.
 
-**Bewährte Methoden**
+### Bewährte Methoden {#best-practices}
 
 * Verwenden Sie eine Fragenkarte vor der Live-Chat-Karte und fragen Sie den Besucher, ob er eine Verbindung herstellen möchte.
 * Nachdem der Besucher einer Verbindung zugestimmt hat, verwenden Sie die Datenerfassungskarte, um einige seiner Informationen zu sammeln, z. B. Vor-/Nachname, E-Mail-Adresse, Berufsbezeichnung usw. (Es wird empfohlen, mindestens Vorname und E-Mail-Adresse anzufordern).
@@ -46,7 +46,7 @@ Durch Klicken auf die Live-Chat-Karte im Stream können Sie festlegen, wie der B
   </tr>
     <tr> 
    <td><b>Benutzerspezifische Regeln</b></td>
-   <td>Alle benutzerspezifischen Regeln werden durchlaufen, wenn überlegt wird, wohin der Besucher weitergeleitet werden soll. Wenn der Besucher keines der Kriterien erfüllt, wird er die FALLBACK-REGEL erfüllen?</td>
+   <td>Alle benutzerspezifischen Regeln werden durchlaufen, wenn überlegt wird, wohin der Besucher weitergeleitet werden soll. Wenn der Besucher sich nicht für eine benutzerspezifische Regel qualifiziert, erhält er die Variable <a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-management.md#live-chat-fallback" target="_blank">Fallback-Meldung zum Live-Chat</a>.</td>
   </tr> 
   <tr> 
    <td><b>Team</b></td>

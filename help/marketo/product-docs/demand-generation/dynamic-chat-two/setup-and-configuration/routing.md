@@ -4,10 +4,10 @@ title: Routing
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 720215ea958206931413f2d273a4a058bc051579
+source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 1%
+source-wordcount: '231'
+ht-degree: 0%
 
 ---
 
@@ -61,6 +61,18 @@ Identifizieren und laden Sie Ihr Zielkonto und die entsprechenden Vertriebseigen
 
 ![](assets/routing-9.png)
 
-Team-Routing - DELETE DIESER REFERENZEN FÜR JETZT
+### Hinzufügen eines Kontos {#add-an-account}
 
-Mitglied des Smart List Routing - MÖGLICHERWEISE VERZÖGERT
+In diesem Beispiel leiten wir alle Mitarbeiter von Lego direkt zum Agenten Steven weiter.
+
+1. Klicken Sie auf der Registerkarte Konto-Routing auf **+ Konto hinzufügen**.
+
+   ![](assets/routing-10.png)
+
+   >[!TIP]
+   >
+   >Sie können mehrere Konten gleichzeitig erstellen, indem Sie auf **Kontoliste hochladen** und das Hochladen einer CSV-Datei.
+
+1. Geben Sie den Namen und die Domäne des Unternehmens ein und wählen Sie den gewünschten Agenten aus.
+
+   ![](assets/routing-11.png)

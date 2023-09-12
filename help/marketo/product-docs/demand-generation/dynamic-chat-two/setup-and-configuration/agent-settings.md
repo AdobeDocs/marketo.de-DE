@@ -4,9 +4,9 @@ title: Agenteneinstellungen
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 49421ecf7f8cec6fb94bc138969c0a43b8832537
+source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
 workflow-type: tm+mt
-source-wordcount: '476'
+source-wordcount: '482'
 ht-degree: 2%
 
 ---
@@ -64,11 +64,11 @@ Legen Sie Ihre Zeitzone und die Zeit/den Wochentag fest, um Sitzungsbuchungen zu
  <tbody> 
   <tr> 
    <td><b>Meeting-Dauer</b></td>
-   <td>Maximale Sitzungslänge. - WAS PASSIERT? AUTOMATISCHES ENDE?</td>
+   <td>Maximale Sitzungslänge. - WAS PASSIERT? AUTOSTOPFE WIE ZOOM?</td>
   </tr> 
   <tr> 
    <td><b>Pufferzeit zwischen Meetings</b></td>
-   <td>Zeit, die Sie als Puffer für nach dem Meeting eingestellt haben. Wenn Sie es für 30 Minuten festlegen, kann niemand ein Meeting mit Ihnen bis 31 Minuten nach dem geplanten Ende eines Treffens in Ihrem Kalender buchen. - 31 oder 30???????</td>
+   <td>Zeit, die Sie als Puffer für nach dem Meeting eingestellt haben. Wenn Sie es für 30 Minuten festlegen, kann niemand ein Meeting mit Ihnen bis 30 Minuten nach dem geplanten Ende eines Meetings in Ihrem Kalender buchen.</td>
   </tr>
  </tbody> 
 </table>
@@ -83,11 +83,11 @@ Legen Sie Ihre Zeitzone und Zeit/Tag der Woche fest, um Live-Chats zu empfangen.
 
 ![](assets/agent-settings-5.png)
 
-Wenn Sie bei der App angemeldet sind, erhalten Sie eine In-App-Benachrichtigung über einen eingehenden Chat. Wenn Sie nicht angemeldet sind, erhalten Sie eine Browserbenachrichtigung.
+Wenn Sie bei der App angemeldet sind, erhalten Sie eine In-App-Benachrichtigung über einen eingehenden Chat. Wenn Sie nicht angemeldet sind, erhalten Sie eine Browserbenachrichtigung (falls Sie [einrichten,](/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}).
 
 >[!IMPORTANT]
 >
->Die [Verfügbarkeitswechsel](/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md#availability-toggle){target="_blank"} im Posteingang des Agenten **wird überschreiben** was Sie auf der Registerkarte &quot;Live-Chat-Verfügbarkeit&quot;eingeben. Wenn Sie also von 1p bis 5p geplant sind, aber eine kurze Pause um 3p machen müssen, müssen Sie Ihre Agenteneinstellungen nicht ändern. Der Umschalter &quot;Verfügbarkeit&quot;bleibt so lange erhalten, bis Sie ihn manuell wechseln oder der nächste Zeitblock in Ihrer Verfügbarkeit erreicht ist.
+>Die [Verfügbarkeitswechsel](/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md#availability-toggle){target="_blank"} im Posteingang des Agenten **wird überschreiben** was Sie auf der Registerkarte &quot;Live-Chat-Verfügbarkeit&quot;eingeben. Wenn Sie also von 1p bis 5p geplant sind, aber eine kurze Pause um 3p machen müssen, müssen Sie Ihre Agenteneinstellungen nicht ändern. Der Umschalter &quot;Verfügbarkeit&quot;behält den Status, bis Sie ihn manuell ändern oder der nächste Zeitblock in Ihrer Verfügbarkeit erreicht ist.
 
 >[!TIP]
 >
