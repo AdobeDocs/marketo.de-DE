@@ -4,7 +4,7 @@ title: Hinzufügen oder Entfernen von Chat-Benutzern
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: 2f5b79e9fb0340dd1ed65b00f2ec3ac487b7b7ca
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Gehen Sie wie folgt vor, um Chat-Benutzer hinzuzufügen oder zu entfernen.
 
 ## Hinzufügen eines Chat-Benutzers {#add-a-chat-user}
 
-1. Melden Sie sich bei [Adobe Admin Console](https://adminconsole.adobe.com/).
+1. Melden Sie sich bei [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
 
    ![](assets/add-or-remove-chat-users-1.png)
 
@@ -71,7 +71,7 @@ Wenn die neu hinzugefügte Benutzerrolle &quot;Chat&quot;nicht bereits über Dyn
 
 ## Entfernen von Chat-Benutzern {#remove-a-chat-user}
 
-1. Melden Sie sich bei [Adobe Admin Console](https://adminconsole.adobe.com/).
+1. Melden Sie sich bei [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
 
    ![](assets/add-or-remove-chat-users-12.png)
 
@@ -101,5 +101,5 @@ Wenn die neu hinzugefügte Benutzerrolle &quot;Chat&quot;nicht bereits über Dyn
 
 >[!MORELIKETHIS]
 >
->* [Adobe Admin Console-Benutzer](https://helpx.adobe.com/enterprise/using/users.html)
->* [Benutzer einzeln verwalten](https://helpx.adobe.com/enterprise/using/manage-users-individually.html)
+>* [Adobe Admin Console-Benutzer](https://helpx.adobe.com/enterprise/using/users.html){target="_blank"}
+>* [Benutzer einzeln verwalten](https://helpx.adobe.com/enterprise/using/manage-users-individually.html){target="_blank"}
