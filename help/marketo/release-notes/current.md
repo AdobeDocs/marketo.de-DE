@@ -3,9 +3,9 @@ description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokument
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: f0a38ddec7e42a52f31f22aa114a3f6f0c20baae
+source-git-commit: 0dce393742df841af88b71614b55c4946c081814
 workflow-type: tm+mt
-source-wordcount: '904'
+source-wordcount: '902'
 ht-degree: 6%
 
 ---
@@ -41,8 +41,8 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
   </tr>
   <tr> 
    <td><strong>Wird von der Spalte "Zählung"für Design Studio-Assets verwendet</strong>: Die Marketo Engage-Programm-Referenzbibliothek ermöglicht Benutzern den Import von Beispielprogrammen und anderen Assets, die von Adobe empfohlene Best Practices darstellen. Unser Produktmanagement-Team hat die -Bibliothek vollständig aktualisiert und bietet wertvollere Tools für diejenigen, die ihr Programm schnell starten möchten.</td> 
-   <td><i>Demnächst verfügbar</i></td>
-   <td><i>Demnächst verfügbar</i></td>
+   <td>Versendet</td>
+   <td>Nicht zutreffend</td>
   </tr>
    <tr> 
    <td> </td> 
@@ -51,8 +51,8 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
   </tr>
    <tr> 
    <td><strong>Von Registerkartenverbesserungen für Design Studio Assets verwendet</strong>: Die Registerkarte "Von Erweiterung verwendet"bietet eine detailliertere Ansicht des Typs und des Namens eines Assets sowie dessen Verwendungsort. Dies gilt für E-Mail-Details und Details zu Bildern und Dateien.</td> 
-   <td><i>Demnächst verfügbar</i></td>
-   <td><i>Demnächst verfügbar</i></td>
+   <td>Versendet</td>
+   <td>Nicht zutreffend</td>
   </tr>
    <tr> 
    <td> </td> 
