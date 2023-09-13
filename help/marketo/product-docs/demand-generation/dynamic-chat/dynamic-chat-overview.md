@@ -2,9 +2,9 @@
 description: Dynamic Chat Übersicht - Marketo Docs - Produktdokumentation
 title: Dynamic Chat-Übersicht
 feature: Dynamic Chat
-source-git-commit: 9a8f6fe57b585ba0eac6a577bf99e0419d8818a1
+source-git-commit: 78ca35c105be2fd437da2f783388d5bfaced8c70
 workflow-type: tm+mt
-source-wordcount: '627'
+source-wordcount: '654'
 ht-degree: 2%
 
 ---
@@ -50,6 +50,10 @@ Hier sehen Sie eine Liste aller Agenten, die ihre Kalender verbunden haben, die 
 ## Live-Chat {#live-chat}
 
 Bieten Sie Ihren qualifizierten Webbesuchern über [Live-Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md){target="_blank"}.
+
+## Konversationsfluss {#conversational-flow}
+
+[Konversation gestalten](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"} die von einem Besucher basierend auf einer von Ihnen festgelegten Aktion ausgelöst werden können (z. B. Ausfüllen eines Formulars, Klicken auf einen Link usw.).
 
 ## FAQs {#faq}
 
