@@ -3,7 +3,7 @@ description: Januar 2023 - Versionshinweise - Marketo-Dokumente - Produktdokumen
 title: Januar 2023 - Versionshinweise
 exl-id: 584f74e5-ed0a-4f2f-9a1e-93cb8804dec8
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: a977597ccf15520bae32a4b65538a55c3930f36a
 workflow-type: tm+mt
 source-wordcount: '637'
 ht-degree: 5%
@@ -16,7 +16,7 @@ Unten finden Sie alle Funktionen der Version vom 23. Januar. Überprüfen Sie Ih
 
 >[!AVAILABILITY]
 >
->Mit einem Stern (![star](assets/yellow-star.png)) sind kostenpflichtige Add-ons. Weitere Informationen erhalten Sie von Ihrem Marketo Engage-Support-Mitarbeiter.
+>Mit einem Stern (![star](assets/yellow-star.png)) sind kostenpflichtige Add-ons. Wenden Sie sich an Ihren Marketo Engage-Support-Mitarbeiter, um mehr zu erfahren.
 
 ## Standardfunktionen des Versionszyklus {#standard-release-cycle-features}
 
@@ -79,7 +79,7 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
 
 </br>
 
-* **Marketo Measure Ultimate**: Ermöglicht die vollständige B2B-Zuordnung für Unternehmen mit mehreren CRM- und/oder Marketo Engage-Instanzen und unterschiedlichen Quelldatenanforderungen. Es bietet außerdem eine B2B-Attributionslösung für die Adobe RT-CDP über freigegebene AEP-Daten.
+* **Marketo Measure Ultimate**: Ermöglicht die vollständige B2B-Zuordnung für Unternehmen mit mehreren CRM- und/oder Marketo Engage-Instanzen und vielfältigen Quelldatenanforderungen. Es bietet außerdem eine B2B-Attributionslösung für Adobe RT-CDP über freigegebene AEP-Daten.
 
 <table> 
   <tr> 
@@ -133,7 +133,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
   </tbody>
 </table>
 
-* **Personalisierung in Konferenzbestätigung für Dynamic Chat**: Kundendienstmitarbeiter können per E-Mail Bestätigungen für die Buchung von Meetings personalisieren, indem sie Marketo Engage- und Firmenfelder verwenden, um die Interaktion mit Besuchern zu verbessern (z. B.: Besucher mit Vornamen in der E-Mail zur automatisierten Anmeldung von Meetings begrüßen).
+* **Personalisierung in Konferenzbestätigung für Dynamic Chat**: Kundendienstmitarbeiter können per Marketo Engage-Person- und Firmenfeld Bestätigungs-E-Mails zur Sitzungsbuchung personalisieren, um die Interaktion mit Besuchern zu verbessern (z. B.: Besucher mit Vornamen in der E-Mail zur automatisierten Sitzungsbuchung begrüßen).
 
 <table> 
   <tr> 
@@ -142,7 +142,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
   </tr>
   <tr> 
    <td>Versendet</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md">Kalender</a></td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md">Kalender</a></td>
   </tr>
   </tbody>
 </table>
@@ -175,7 +175,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
   </tbody>
 </table>
 
-* **E-Mail-Benachrichtigungen für geplante Meetings für Dynamic Chat**: Wenn eine Besprechung im Kalender eines Agenten gebucht wird, erhält der Agent eine E-Mail-Benachrichtigung über die Buchung, einschließlich detaillierter Informationen zur Interaktion des Dynamic Chats des Besuchers.
+* **E-Mail-Benachrichtigungen für geplante Meetings für Dynamic Chat**: Wenn eine Besprechung im Kalender eines Agenten gebucht wird, erhält der Agent eine E-Mail-Benachrichtigung über die Buchung, einschließlich detaillierter Informationen zur Dynamic Chat-Interaktion des Besuchers.
 
 <table> 
   <tr> 
@@ -184,7 +184,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
   </tr>
   <tr> 
    <td>Versendet</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md">Meetings</a></td>
+   <td><a href="/help/marketo/product-docs/demand-generation/demand-generation/dynamic-chat/meeting-list.md">Meetings</a></td>
   </tr>
   </tbody>
 </table>
@@ -193,4 +193,4 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
 
 * **Marketo REST API-Änderung**: Mit der Version vom Oktober 2022 haben wir eine geringfügige Änderung an der Antwortmeldung der Marketo REST API vorgenommen. Siehe hierzu [Marketo-Benachrichtigungsbeitrag](https://nation.marketo.com/t5/product-documents/upcoming-change-to-marketo-rest-api/ta-p/331698){target="_blank"} für weitere Details.
 
-* **_Webinar zur Produktversion_**: [Webinar zur Marketo Engage-Version vom Oktober 2022 und Januar 2023](https://engage.marketo.com/2023_January_Release_Webinar_OnDemandPage.html){target="_blank"}
+* **_Webinar zur Produktversion_**: [Webinar zur Marketo Engage-Version Oktober 2022 und Januar 2023](https://engage.marketo.com/2023_January_Release_Webinar_OnDemandPage.html){target="_blank"}
