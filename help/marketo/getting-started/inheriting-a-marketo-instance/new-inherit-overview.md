@@ -3,10 +3,10 @@ description: Erfahren Sie, wie Sie eine von Ihnen geerbte Marketo Engage-Instanz
 title: Starten einer geerbten Marketo Engage-Instanz
 hide: true
 hidefromtoc: true
-source-git-commit: 67cfa02b558236bb9e963c2949a70185cc531ef0
+source-git-commit: d3a35d669eb54d020228ffdbdd7606a86abd18af
 workflow-type: tm+mt
-source-wordcount: '318'
-ht-degree: 4%
+source-wordcount: '307'
+ht-degree: 2%
 
 ---
 
@@ -16,15 +16,9 @@ Starten eines neuen Auftrags oder Übernehmen einer vorhandenen Instanz von eine
 
 ## Einrichtung in der Marketing-Nation {#get-set-up-in-the-marketing-nation}
 
-Stellen Sie sicher, dass Sie in der Marketo-Community ordnungsgemäß eingerichtet sind.
-
-* **[Profil einrichten]**(https://nation.marketo.com/){target="_blank"}.
+Stellen Sie sicher, dass Sie in der Community von Marketing Nation ordnungsgemäß eingerichtet sind.
 
 * [**Profil einrichten**](https://nation.marketo.com/){target="_blank"}.
-
-* **[Profil einrichten](https://nation.marketo.com/)**{target="_blank"}.
-
-* **[Profil einrichten](https://nation.marketo.com/){target="_blank"}**.
 
 * Lesen Sie im Abschnitt [**Marketing Community-Richtlinien**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
 
@@ -32,9 +26,9 @@ Stellen Sie sicher, dass Sie in der Marketo-Community ordnungsgemäß eingericht
 
 * Erfahren Sie, wie [**Support-Fall einreichen**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"} (and confirm you're [**set up as an authorized support contact**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}).
 
-## Übernommene Audit-Handbücher für Instanzen {#inherited-instance-audit-guides}
+## Überprüfen der geerbten Instanz  {#audit-your-inherited-instance}
 
-Die folgenden Checklisten wurden mit Eingaben von Marketo Champions zusammengestellt, damit Sie sich schnell auf den Weg machen können. Erfahren Sie, wie Sie in den verschiedenen Bereichen des Marketo Engage navigieren und die verschiedenen für eine Prüfung erforderlichen Aufgaben ausführen können. Links zur empfohlenen Hilfedokumentation sind enthalten.
+Adobe Professional Services (mit Eingabe von Marketo Champions) hat mehrere Checklisten für die Überprüfung von Marketo Engage-geerbten Instanzen zusammengestellt, damit Sie schnell auf den neuesten Stand kommen. Erfahren Sie, wie Sie in den verschiedenen Bereichen des Marketo Engage navigieren und die verschiedenen für eine Prüfung erforderlichen Aufgaben ausführen können. Links zur empfohlenen Hilfedokumentation sind enthalten.
 
 Sie können die Checklisten auch in Tabellenform herunterladen.
 
