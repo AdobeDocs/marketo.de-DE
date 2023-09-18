@@ -4,7 +4,7 @@ description: Versionsplanung – Marketo-Dokumente – Produktdokumentation
 title: Veröffentlichungszeitplan
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 52ef77889e307ecba514bcfd22066c45b1812306
+source-git-commit: 9f6781bce4d279ae65b2aa9011c9ca709725953f
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 11%
@@ -63,12 +63,12 @@ _Die Veröffentlichungsdaten können sich ändern_
    <td>Versendet</td>
   </tr>
   <tr>
-   <td><a href="/help/marketo/release-notes/current.md">September 23</a></td>
+   <td><a href="/help/marketo/release-notes/previous-releases/2023/release-notes-sep-23.md">September 23</a></td>
    <td>8. September 2023</td>
-   <td>in progress</td>
+   <td>In Bearbeitung</td>
   </tr>
   <tr>
-   <td>Oktober 23</td>
+   <td><a href="/help/marketo/release-notes/current.md">Oktober 23</a></td>
    <td>13. Oktober 2023</td>
    <td>Zeitplan</td>
   </tr>
