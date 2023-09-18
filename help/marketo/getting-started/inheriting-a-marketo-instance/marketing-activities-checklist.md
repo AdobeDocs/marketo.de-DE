@@ -3,9 +3,9 @@ description: Checkliste für geerbte Marketingaktivitäten der Instanz - Marketo
 title: Checkliste für geerbte Marketingaktivitäten der Instanz
 hide: true
 hidefromtoc: true
-source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
+source-git-commit: 711e8c7ba0249e9c88d146113b1cfae298d35aa3
 workflow-type: tm+mt
-source-wordcount: '815'
+source-wordcount: '826'
 ht-degree: 2%
 
 ---
@@ -20,7 +20,7 @@ Organisieren Sie Ihren Bereich Marketingaktivitäten ordnungsgemäß, um andere 
  <tbody> 
   <tr> 
    <th style="width:20%">Bereich</th> 
-   <th>Fokus überprüfen</th>
+   <th style="width:80%">Fokus überprüfen</th>
   </tr> 
   <tr> 
    <td>Benennungskonventionen</td> 
@@ -32,12 +32,12 @@ Organisieren Sie Ihren Bereich Marketingaktivitäten ordnungsgemäß, um andere 
   </tr>
   <tr> 
    <td>Programme</td> 
-   <td><li>KG - IST DAS NOCH RELEVANT Gibt es eine <a href="https://business.adobe.com/blog/perspectives/center-of-excellence-top-10-questions-to-ask-yourself" target="_blank">Exzellenzzentrum</a> mit Programmvorlagen? 
-   <br/>     Wenn ja, sind die Programmvorlagen für die Anwendungsfälle der Teams sinnvoll?</li>
-<li>Sind ähnliche Programmtypen <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md" target="_blank">einheitlich strukturiert</a>?</li>
+   <td><li>Sind ähnliche Programmtypen <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md" target="_blank">einheitlich strukturiert</a>?</li>
 <li>sind <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md" target="_blank">Zeitkosten</a> eingeführt?</li>
 <li>Sind alle Programme <a href="/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md" target="_blank">mit SFDC-Kampagnen synchronisiert</a> (falls zutreffend)?</li>
-<li>Verfügen Sie über Flussschritte, mit denen Sie einem <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">Akquiseprogramm</a> für Menschen?</li></td>
+<li>Verfügen Sie über Flussschritte, mit denen Sie einem <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">Akquiseprogramm</a> für Menschen?</li>
+<li>Gibt es einen zentralen Ort für Programmvorlagen? 
+   <br/>     Wenn nicht, wählen Sie aus mehreren vordefinierten Programmbeispielen aus dem <a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md" target="_blank">Marketo Engage-Programmbibliothek</a>.</li></td>
   </tr>
   <tr> 
    <td>Archivieren</td> 
@@ -45,14 +45,14 @@ Organisieren Sie Ihren Bereich Marketingaktivitäten ordnungsgemäß, um andere 
 <li>Wie oft überprüft und archiviert Ihr Unternehmen alte Programme?</li>
 <p><img src="assets/tip-icon.png" alt="Tippsymbol">TIPP: Es ist gut, jedes Jahr eine Überprüfung durchzuführen.</td>
   </tr>
-  <tr> 
+  <tr>
    <td>Benachrichtigungen</td> 
    <td><li>Gibt es Kampagnenfehler in der <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md" target="_blank">Registerkarte "Benachrichtigungen"</a> oben in Ihrer Instanz?</li>
 <li>Sind Sie <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md#subscribe-to-notifications" target="_blank">Abonnierte Benachrichtigungen</a> auf Fehler zu achten, die in Zukunft auftreten könnten?</li></td>
   </tr>
   <tr> 
    <td>Abonnements mit intelligenter Liste 
-   <br/>(Registerkarte Marketingaktivitäten/Abonnements )</td> 
+   <br/>(Marketingaktivitäten/Abonnements)</td> 
    <td><li>Gibt es noch <a href="/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md" target="_blank">Abonnements für intelligente Listen</a> in Ihrer Instanz? Wenn ja, wer wird sie dann tun?</li>
 <p><img src="assets/tip-icon.png" alt="Tippsymbol">TIPP: Ziehen Sie die Einrichtung von Smart List-Abonnements in Erwägung, um zu einem Team-Alias und nicht zu einem Kontakt zu wechseln. Dies betrifft Sie für den Fall, dass Einzelpersonen nicht im Büro sind.</td>
   </tr>
@@ -65,7 +65,7 @@ Organisieren Sie Ihren Bereich Marketingaktivitäten ordnungsgemäß, um andere 
  <tbody> 
   <tr> 
    <th style="width:20%">Bereich</th> 
-   <th>Fokus überprüfen</th>
+   <th style="width:80%">Fokus überprüfen</th>
   </tr> 
   <tr> 
    <td>Token</td> 
@@ -79,7 +79,8 @@ Organisieren Sie Ihren Bereich Marketingaktivitäten ordnungsgemäß, um andere 
 <li>Wie viele <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md" target="_blank">Menschen sind erschöpft</a>? 
 <br/>     Wenn es viele erschöpfte Menschen gibt, denken Sie an <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md" target="_blank">Inhalt hinzufügen</a>.</li>
 <li>sind Personen <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md" target="_blank">Interaktion mit dem Inhalt</a>? 
-<br/>     Falls nicht, sollten Sie sie aktualisieren und/oder A/B-Tests durchführen.</li></td>
+<br/>     Falls nicht, sollten Sie sie aktualisieren und/oder A/B-Tests durchführen.</li>
+<li>Haben Sie Personen in mehreren Interaktionsprogrammen kennengelernt? Sollen sie in mehr als einer sein?</li></td>
   </tr>
   <tr> 
    <td>Stapelkampagnen</td> 
@@ -117,7 +118,7 @@ Organisieren Sie Ihren Bereich Marketingaktivitäten ordnungsgemäß, um andere 
  <tbody> 
   <tr> 
    <th style="width:20%">Bereich</th> 
-   <th>Fokus überprüfen</th>
+   <th style="width:80%">Fokus überprüfen</th>
   </tr> 
   <tr> 
    <td>Personenbewertung</td> 
@@ -151,7 +152,7 @@ Organisieren Sie Ihren Bereich Marketingaktivitäten ordnungsgemäß, um andere 
   <tr> 
    <td>E-Mail-Zustellbarkeit</td> 
    <td><li>Ziehen Sie eine <a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md" target="_blank">E-Mail-Leistungsbericht</a> für die Sendungen in den letzten Monaten. Wie sieht die Zustellbarkeit von E-Mails aus?</li>
-<li>Wenn die Zustellbarkeit von E-Mails schlecht ist, sollten Sie Best Practices für die Zustellbarkeit von E-Mails untersuchen und implementieren, z. B. <a href="/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md" target="_blank">SPF und DKIM</a>.</li>
+<li>Wenn Ihre E-Mail-Zustellbarkeit nicht so stark ist, wie Sie möchten, sollten Sie Best Practices für die E-Mail-Zustellbarkeit prüfen und implementieren, z. B. <a href="/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md" target="_blank">SPF und DKIM</a>.</li>
 <li>Stehen Sie in Kontakt mit Ihrem kompletten marktfähigen Publikum?</li></td>
   </tr>
   <tr> 

@@ -3,9 +3,9 @@ description: Übernommene Checkliste für Instanzadministratoren - Marketo-Dokum
 title: Checkliste für geerbte Instanzadministratoren
 hide: true
 hidefromtoc: true
-source-git-commit: ab7173fe39c80d3123dc9bf488d24571661c58b4
+source-git-commit: 711e8c7ba0249e9c88d146113b1cfae298d35aa3
 workflow-type: tm+mt
-source-wordcount: '1564'
+source-wordcount: '1566'
 ht-degree: 3%
 
 ---
@@ -147,7 +147,7 @@ Die folgenden Checklisten (nachfolgende Checklisten, die am Ende jedes Artikels 
    <th>Fokus überprüfen</th>
   </tr> 
   <tr> 
-   <td>Einstellungen für intelligente Kampagne</td> 
+   <td>Intelligente Kampagnen</td> 
    <td><li><a href="/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md" target="_blank">Haben Sie Einschränkungen?</a> zur Größe von Smart-Kampagnen? 
    <br/>     Ist dies nicht der Fall, können Sie eine hinzufügen. Es wird empfohlen, die Beschränkung der intelligenten Kampagne auf 25 % Ihrer Datenbank zu begrenzen, um eine Überkommunikation oder Verarbeitung Ihrer gesamten Datenbank in Workflows zu vermeiden. Dies schützt nicht nur Ihre Marke, sondern schützt auch die Leistung Ihrer Instanz.</li></td>
   </tr>
@@ -264,7 +264,7 @@ Die folgenden Checklisten (nachfolgende Checklisten, die am Ende jedes Artikels 
   </tr>
   <tr> 
    <td>Munchkin</td> 
-   <td><li>Ist Ihre <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Munchkin-Trackingcode</a> auf Ihrer Website (nicht in Marketo)?</li>
+   <td><li>Ist Ihre <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Munchkin-Trackingcode</a> auf Ihrer Website (keine Marketo Engage-Landingpage)?</li>
 <li>Ist eine <a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank">Nicht verfolgen</a> Browseranforderung aktiviert?</li>
 <li>Ist Ihre <a href="https://developers.marketo.com/javascript-api/lead-tracking/" target="_blank">Munchkin-API</a> konfiguriert? 
 <p><img src="assets/tip-icon.png" alt="Tippsymbol">TIPP: Wenn Ihnen die Dokumentation fehlt, in der sich der Munchkin-Code auf Ihrer Website befindet, können Sie alle URLs anzeigen, indem Sie eine <a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">Webseitenaktivitätsbericht</a>.</li></td>
