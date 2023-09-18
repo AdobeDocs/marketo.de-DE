@@ -1,10 +1,12 @@
 ---
 description: Weiterleiten eines interaktiven Webinars - Marketo-Dokumente - Produktdokumentation
 title: Weiterleiten eines interaktiven Webinars
+hide: true
+hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: ab7173fe39c80d3123dc9bf488d24571661c58b4
+source-git-commit: d747305b4571cfbf8e40c46824d1e4bc148fca7e
 workflow-type: tm+mt
-source-wordcount: '491'
+source-wordcount: '489'
 ht-degree: 0%
 
 ---
@@ -31,4 +33,4 @@ Innerhalb weniger Minuten nach der Registrierung wird die Webinar-URL für das M
 
 Sie können Token verwenden, um die Webinar-URL für einzelne Mitglieder einer E-Mail-Kampagne einzubeziehen, um mitzuteilen, dass sie bei der Veranstaltung registriert wurden, und um über die Join-URL zum geplanten Zeitpunkt in das Webinar zu gelangen. Kalendertoken können in derselben E-Mail-Kampagne verwendet werden, um sicherzustellen, dass der Webinarplan den Kalender der Mitglieder hinzugefügt werden kann.
 
-Besondere Links wurden im Abschnitt [Übersichtsseite](/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md) um eine Landingpage sowie eine E-Mail-Kampagne zu erstellen. Die übrigen Promotions, die sich auf eine Veranstaltung beziehen, bleiben dieselben wie für Partner-Webinare, die die Launchpoint-Integration verwenden.
+Links wurden im Abschnitt [Übersichtsseite](/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md) um eine Landingpage sowie eine E-Mail-Kampagne zu erstellen. Die übrigen Promotions, die sich auf eine Veranstaltung beziehen, bleiben mit den Partner-Webinaren identisch, die die Launchpoint-Integration verwenden.
