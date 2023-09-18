@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: f0a38ddec7e42a52f31f22aa114a3f6f0c20baae
+source-git-commit: ab7173fe39c80d3123dc9bf488d24571661c58b4
 workflow-type: tm+mt
-source-wordcount: '9107'
+source-wordcount: '9111'
 ht-degree: 5%
 
 ---
@@ -707,6 +707,7 @@ ht-degree: 5%
             + [Benutzer- und Lizenzverwaltung](product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md)
             + [Erstellen eines interaktiven Webinars](product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
             + [Interaktive Webinare erstellen](product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md)
+            + [Weiterleiten eines interaktiven Webinars](product-docs/demand-generation/events/interactive-webinars/promoting-an-interactive-webinar.md)
             + [Ändern oder Löschen eines interaktiven Webinars](product-docs/demand-generation/events/interactive-webinars/modify-or-delete-an-interactive-webinar.md)
             + [Ereignis-Workflows](product-docs/demand-generation/events/interactive-webinars/event-workflows.md)
       + Facebook {#facebook}
@@ -1280,7 +1281,7 @@ ht-degree: 5%
          + [Sichtbarkeit einer Kampagne für Benutzer von Sales Connect](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
          + [Glossar zur Verkaufsaktivität](product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md)
          + [Trigger und Filter für Verkaufsaktivitäten](product-docs/marketo-sales-connect/marketo/sales-activity-triggers-and-filters.md)
-      + Personal {#people}
+      + Personen {#people}
          + [Personendetailansicht](product-docs/marketo-sales-connect/people/person-detail-view.md)
          + [Sales Connect und Einhaltung der DSGVO](product-docs/marketo-sales-connect/people/sales-connect-and-gdpr-compliance.md)
          + Verwalten von Kontakten {#managing-contacts}
@@ -1450,7 +1451,7 @@ ht-degree: 5%
             + [Trigger und Filter für Verkaufsaktivitäten](product-docs/marketo-sales-insight/actions/marketo/sales-activity-triggers-and-filters.md)
             + [Glossar zur Aktivität &quot;Sales Insight-Aktionen&quot;](product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md)
             + [Einrichten der Marketo-Verbindung](product-docs/marketo-sales-insight/actions/marketo/set-up-your-marketo-connection.md)
-         + Personal {#people}
+         + Personen {#people}
             + [Personendetailansicht](product-docs/marketo-sales-insight/actions/people/person-detail-view.md)
             + [Sales Insight-Aktionen und Einhaltung der DSGVO](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)
             + Verwalten von Kontakten {#managing-contacts}
@@ -1832,7 +1833,7 @@ ht-degree: 5%
          + [Kontoeinblick einrichten](product-docs/target-account-management/setup-tam/set-up-account-insight.md)
          + [Übersicht über das Konto-Insight-Plug-in](product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)
          + [Einladen von Benutzern zum Zugriff auf Kontoeinblicke](product-docs/target-account-management/setup-tam/invite-users-to-access-account-insight.md)
-      + Zielgruppe {#target}
+      + Ziel {#target}
          + Bekannte Kunden {#named-accounts}
             + [Übersicht über benanntes Konto](product-docs/target-account-management/target/named-accounts/named-account-overview.md)
             + [Benannte Konten importieren](product-docs/target-account-management/target/named-accounts/import-named-accounts.md)
