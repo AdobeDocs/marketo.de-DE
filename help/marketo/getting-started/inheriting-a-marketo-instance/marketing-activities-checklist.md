@@ -3,7 +3,7 @@ description: Checkliste für geerbte Marketingaktivitäten der Instanz - Marketo
 title: Checkliste für geerbte Marketingaktivitäten der Instanz
 hide: true
 hidefromtoc: true
-source-git-commit: 711e8c7ba0249e9c88d146113b1cfae298d35aa3
+source-git-commit: 18749bdff222980177b46969b105216d7b720db9
 workflow-type: tm+mt
 source-wordcount: '826'
 ht-degree: 2%
@@ -16,11 +16,11 @@ Organisieren Sie Ihren Bereich Marketingaktivitäten ordnungsgemäß, um andere 
 
 ## Organisation {#organization}
 
-<table style="table-layout:auto"> 
+<table> 
  <tbody> 
   <tr> 
-   <th style="width:20%">Bereich</th> 
-   <th style="width:80%">Fokus überprüfen</th>
+   <th style="width:30%">Bereich</th> 
+   <th style="width:70%">Fokus überprüfen</th>
   </tr> 
   <tr> 
    <td>Benennungskonventionen</td> 
@@ -61,12 +61,12 @@ Organisieren Sie Ihren Bereich Marketingaktivitäten ordnungsgemäß, um andere 
 
 ## Assets {#assets}
 
-<table style="table-layout:auto"> 
+<table> 
  <tbody> 
-  <tr> 
-   <th style="width:20%">Bereich</th> 
-   <th style="width:80%">Fokus überprüfen</th>
-  </tr> 
+  <tr>
+   <th style="width:30%">Bereich</th>
+   <th style="width:70%">Fokus überprüfen</th>
+  </tr>
   <tr> 
    <td>Token</td> 
    <td><li>sind <a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md" target="_blank">Token</a> in Ihren am häufigsten verwendeten Programmtypen verwendet werden? 
@@ -114,12 +114,12 @@ Organisieren Sie Ihren Bereich Marketingaktivitäten ordnungsgemäß, um andere 
 
 ## Operationelle Programme {#operational-programs}
 
-<table style="table-layout:auto"> 
+<table> 
  <tbody> 
   <tr> 
-   <th style="width:20%">Bereich</th> 
-   <th style="width:80%">Fokus überprüfen</th>
-  </tr> 
+   <th style="width:30%">Bereich</th> 
+   <th style="width:70%">Fokus überprüfen</th>
+  </tr>
   <tr> 
    <td>Personenbewertung</td> 
    <td><li>Haben Sie eine zentralisierte <a href="/help/marketo/getting-started/quick-wins/simple-scoring.md" target="_blank">Personenbewertung</a> ein Programm?</li>

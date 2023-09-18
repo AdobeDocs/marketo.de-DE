@@ -3,10 +3,10 @@ description: Checkliste für geerbtes Instanzdesign Studio - Marketo Docs - Prod
 title: Checkliste für geerbtes Instanzdesign Studio
 hide: true
 hidefromtoc: true
-source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
+source-git-commit: 18749bdff222980177b46969b105216d7b720db9
 workflow-type: tm+mt
-source-wordcount: '530'
-ht-degree: 5%
+source-wordcount: '553'
+ht-degree: 4%
 
 ---
 
@@ -55,7 +55,11 @@ Die Strukturierung von Vorlagen und das Erstellen globaler Formulare, Snippets s
 <li>Verwenden die meisten Programme globale oder lokale Formulare?</li>
 <li>Sammeln alle Formulare die richtigen Daten für Marketing und Vertrieb?</li>
 <li>Werden versteckte Werte entsprechend genutzt?</li>
-<li>Werden auf Ihrer Website Marketo Engage-Formulare verwendet (nicht Marketo Engage-Landingpages)?</li></td>
+<li>Werden Marketo Engage-Formulare auf Nicht-Marketo Engage-Landingpages verwendet? Wie werden sie referenziert?</li>
+<p><img src="assets/tip-icon.png" alt="Tippsymbol">TIPP: Aktualisieren Sie Seiten, auf denen Sie Marketo Engage-Formulare einbetten, mit dem neuen Einbettungscode (gesicherte Landingpages sind erforderlich).
+<br/><script src="//example.marketo.com/js/forms2/js/forms2.min.js"></script>
+<br/><form id="mktoForm_1"><script>MktoForms2.loadForm("//example.marketo.com", "123-ABC-456", 1);</script>
+</td>
   </tr>
   <tr> 
    <td>Datenstandardisierung</td> 

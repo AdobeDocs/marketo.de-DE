@@ -2,7 +2,7 @@
 description: Weiterleiten eines interaktiven Webinars - Marketo-Dokumente - Produktdokumentation
 title: Weiterleiten eines interaktiven Webinars
 feature: Interactive Webinars
-source-git-commit: 346e159bdc2bb8e28cbf87764f4f71577177b636
+source-git-commit: 18749bdff222980177b46969b105216d7b720db9
 workflow-type: tm+mt
 source-wordcount: '496'
 ht-degree: 0%

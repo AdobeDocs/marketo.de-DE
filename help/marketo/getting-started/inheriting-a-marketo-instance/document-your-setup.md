@@ -3,16 +3,16 @@ description: Vererbtes Instanzdokument Ihre Einrichtung - Marketo-Dokumente - Pr
 title: Vererbtes Instanzdokument Ihr Setup
 hide: true
 hidefromtoc: true
-source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
+source-git-commit: 18749bdff222980177b46969b105216d7b720db9
 workflow-type: tm+mt
-source-wordcount: '252'
-ht-degree: 2%
+source-wordcount: '310'
+ht-degree: 1%
 
 ---
 
 # Vererbte Instanz: Dokument Ihres Setups {#inherited-instance-document-your-setup}
 
-Nachdem Sie nun die wichtigsten Produktbereiche kennen gelernt haben, die bei der Vererbung einer etablierten Instanz geprüft werden müssen, besteht der nächste Schritt darin, die Dokumentation zu Ihrer Instanzkonfiguration und dem technischen Stack zu erstellen/zu aktualisieren. Egal ob Sie eine Vorlage über eine Tabellenkalkulation oder eine Anwendung für das Projektmanagement erstellen - Ihre Dokumentation ist eine großartige Ressource, um den Fortschritt zu verfolgen und Details aufzuzeichnen.
+Nachdem Sie nun die wichtigsten Produktbereiche kennen gelernt haben, die bei der Vererbung einer etablierten Instanz geprüft werden müssen, besteht der nächste Schritt darin, die Dokumentation zu Ihrer Instanzkonfiguration und dem technischen Stack zu erstellen/zu aktualisieren. Egal, ob Sie sie über eine Tabellenkalkulation oder eine Anwendung für das Projektmanagement erstellen - Ihre Dokumentation ist eine großartige Ressource, um den Fortschritt zu verfolgen und Details aufzuzeichnen sowie Ihre Instanz strukturiert und nachhaltig zu halten.
 
 ## Daten {#data}
 
@@ -51,11 +51,12 @@ Nachdem Sie nun die wichtigsten Produktbereiche kennen gelernt haben, die bei de
   <tr> 
    <td>Organisation</td> 
     <td><li>Verfügen Sie über eine zuverlässige Dokumentation darüber, wie Ihre Marketo Engage-Instanz organisiert ist und warum?</li>
-   <p><p><img src="assets/action-item-icon.png" alt="Aktionselement-Symbol">Aktionselement: Erstellen Sie eine Dokumentation, die die Ordnerstruktur, die Namenskonvention und die in Ihrer Instanz verwendeten Kanäle enthält.</td>
+   <p><img src="assets/action-item-icon.png" alt="Aktionselement-Symbol">Aktionselement: Erstellen Sie eine Dokumentation, die die Ordnerstruktur, die Namenskonvention und die in Ihrer Instanz verwendeten Kanäle enthält.</td>
   </tr>
   <tr> 
    <td>Changelog</td> 
-    <td><li>Verfügen Sie über einen "changelog", in dem Sie dokumentieren können, was sich in Ihrer Instanz ändert und warum?</li></td>
+    <td><li>Verfügen Sie über einen "changelog", in dem Sie dokumentieren können, was sich in Ihrer Instanz ändert und warum?</li>
+    <p><img src="assets/action-item-icon.png" alt="Aktionselement-Symbol">Aktionselement: Laden Sie dieses Beispiel herunter, um ein Änderungsprotokoll und Dokumentänderungen an Ihrer Instanzeinrichtung zu erstellen.</td>
   </tr>
   <tr> 
    <td>Playbooks</td> 
@@ -65,7 +66,8 @@ Nachdem Sie nun die wichtigsten Produktbereiche kennen gelernt haben, die bei de
   <tr> 
    <td>Gespräche mit internen Interessengruppen</td> 
     <td><li>Was sind die internen Erwartungen des Marketing-Teams Ihres Unternehmens? Stimmen sie mit dem überein, was Marketo Engage liefert?</li>
-   <li>Welche Teams sind Stakeholder in Ihrer Marketo Engage-Instanz?</li></td>
+   <li>Welche Teams sind Stakeholder in Ihrer Marketo Engage-Instanz?</li>
+   <p><img src="assets/action-item-icon.png" alt="Aktionselement-Symbol">Aktionselement: Herunterladen <a href="https://nation.marketo.com/t5/product-blogs/planning-and-communicating-about-your-marketo-onboarding/ba-p/243555?attachment-id=1705" target="_blank">Vorlage für den internen Kommunikationsleitfaden für Interessengruppen</a> , um die Ziele und Erwartungen Ihrer wichtigsten Interessengruppen zu dokumentieren.</td>
   </tr>
  </tbody> 
 </table>
