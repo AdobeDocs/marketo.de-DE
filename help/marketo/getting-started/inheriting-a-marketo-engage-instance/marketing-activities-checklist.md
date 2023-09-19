@@ -2,7 +2,7 @@
 description: Checkliste für geerbte Marketingaktivitäten der Instanz - Marketo-Dokumente - Produktdokumentation
 title: Checkliste für geerbte Marketingaktivitäten der Instanz
 feature: Getting Started
-source-git-commit: 092b66fe4170d571d373291f84971e2beda6d7d7
+source-git-commit: 2120b700fde80f470b5e221c0212c8d29e3920ae
 workflow-type: tm+mt
 source-wordcount: '835'
 ht-degree: 2%
@@ -11,7 +11,7 @@ ht-degree: 2%
 
 # Vererbte Instanz: Checkliste für Marketingaktivitäten {#inherited-instance-marketing-activities-checklist}
 
-Organisieren Sie Ihren Bereich Marketingaktivitäten ordnungsgemäß, um andere bei der Suche und Verwaltung verschiedener Programme in Ihrer Marketo Engage-Instanz zu unterstützen und sicherzustellen, dass Personen verarbeitet werden, die vom Marketing zum Vertrieb weitergeleitet werden. Denken Sie daran, [Checklisten herunterladen](/help/marketo/getting-started/inheriting-a-marketo-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) und verfolgen Sie Ihren Fortschritt.
+Organisieren Sie Ihren Bereich Marketingaktivitäten ordnungsgemäß, um andere bei der Suche und Verwaltung verschiedener Programme in Ihrer Marketo Engage-Instanz zu unterstützen und sicherzustellen, dass Personen verarbeitet werden, die vom Marketing zum Vertrieb weitergeleitet werden. Denken Sie daran, [Checklisten herunterladen](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) und verfolgen Sie Ihren Fortschritt.
 
 ## Organisation {#organization}
 
@@ -167,6 +167,6 @@ Organisieren Sie Ihren Bereich Marketingaktivitäten ordnungsgemäß, um andere 
 
 <br> 
 
-[Datenbank bearbeiten](/help/marketo/getting-started/inheriting-a-marketo-instance/database-checklist.md)
+[Datenbank bearbeiten](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)
 
-[Prüfen einer geerbten Instanz: Design Studio ►](/help/marketo/getting-started/inheriting-a-marketo-instance/design-studio-checklist.md)
+[Prüfen einer geerbten Instanz: Design Studio ►](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)

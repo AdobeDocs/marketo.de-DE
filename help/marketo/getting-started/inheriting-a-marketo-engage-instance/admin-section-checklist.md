@@ -2,7 +2,7 @@
 description: Übernommene Checkliste für Instanzadministratoren - Marketo-Dokumente - Produktdokumentation
 title: Checkliste für geerbte Instanzadministratoren
 feature: Getting Started
-source-git-commit: 092b66fe4170d571d373291f84971e2beda6d7d7
+source-git-commit: 2120b700fde80f470b5e221c0212c8d29e3920ae
 workflow-type: tm+mt
 source-wordcount: '1592'
 ht-degree: 3%
@@ -11,7 +11,7 @@ ht-degree: 3%
 
 # Vererbte Instanz: Checkliste für den Administratorbereich {#inherited-instance-admin-section-checklist}
 
-Die folgenden Checklisten (nachfolgende Checklisten, die am Ende jedes Artikels mit verknüpft sind) wurden von Adobe Professional Services mit Eingaben von Marketo Champions zusammengestellt, damit Sie schnell auf den neuesten Stand kommen können. Sie können auch [Checklisten herunterladen](/help/marketo/getting-started/inheriting-a-marketo-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) und verfolgen Sie Ihren Fortschritt.
+Die folgenden Checklisten (nachfolgende Checklisten, die am Ende jedes Artikels mit verknüpft sind) wurden von Adobe Professional Services mit Eingaben von Marketo Champions zusammengestellt, damit Sie schnell auf den neuesten Stand kommen können. Sie können auch [Checklisten herunterladen](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) und verfolgen Sie Ihren Fortschritt.
 
 >[!TIP]
 >
@@ -364,4 +364,4 @@ Die folgenden Checklisten (nachfolgende Checklisten, die am Ende jedes Artikels 
 
 <br> 
 
-[Prüfen einer geerbten Instanz: Datenbank ►](/help/marketo/getting-started/inheriting-a-marketo-instance/database-checklist.md)
+[Prüfen einer geerbten Instanz: Datenbank ►](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)

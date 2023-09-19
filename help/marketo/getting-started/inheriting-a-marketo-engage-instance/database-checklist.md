@@ -2,7 +2,7 @@
 description: Checkliste für die geerbte Instanzdatenbank - Marketo-Dokumente - Produktdokumentation
 title: Checkliste für die geerbte Instanzdatenbank
 feature: Getting Started
-source-git-commit: 092b66fe4170d571d373291f84971e2beda6d7d7
+source-git-commit: 2120b700fde80f470b5e221c0212c8d29e3920ae
 workflow-type: tm+mt
 source-wordcount: '430'
 ht-degree: 7%
@@ -11,7 +11,7 @@ ht-degree: 7%
 
 # Vererbte Instanz: Datenbank-Checkliste {#inherited-instance-database-checklist}
 
-Verstehen Sie die Gesamtzahl der Personen, vermarktbaren Personen und der Personen, die in Ihrem Abonnement die meisten Personen erwerben. Denken Sie daran, [Checklisten herunterladen](/help/marketo/getting-started/inheriting-a-marketo-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) und verfolgen Sie Ihren Fortschritt.
+Verstehen Sie die Gesamtzahl der Personen, vermarktbaren Personen und der Personen, die in Ihrem Abonnement die meisten Personen erwerben. Denken Sie daran, [Checklisten herunterladen](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) und verfolgen Sie Ihren Fortschritt.
 
 ## Smart Lists für System {#system-smart-lists}
 
@@ -117,6 +117,6 @@ Verstehen Sie die Gesamtzahl der Personen, vermarktbaren Personen und der Person
 
 <br> 
 
-[Audit und geerbte Instanz: Admin](/help/marketo/getting-started/inheriting-a-marketo-instance/admin-section-checklist.md)
+[Audit und geerbte Instanz: Admin](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md)
 
-[Prüfen einer vererbten Instanz: Marketingaktivitäten ►](/help/marketo/getting-started/inheriting-a-marketo-instance/marketing-activities-checklist.md)
+[Prüfen einer vererbten Instanz: Marketingaktivitäten ►](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)

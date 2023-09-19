@@ -2,7 +2,7 @@
 description: Erfahren Sie, wie Sie eine von Ihnen geerbte Marketo Engage-Instanz optimieren und skalieren können. Befolgen Sie die Checkliste, um die Admin-Einstellungen zu überprüfen und die Hygiene in der Datenbank zu gewährleisten.
 title: Startpunkt
 feature: Getting Started
-source-git-commit: 25ed17585865d8232a4cc19cbf67b9842342b020
+source-git-commit: 2120b700fde80f470b5e221c0212c8d29e3920ae
 workflow-type: tm+mt
 source-wordcount: '468'
 ht-degree: 2%
@@ -43,17 +43,17 @@ Unser Community-Team führt Ihre Community-Profile innerhalb von 4 bis 6 Werktag
 
 Adobe hat mit der Eingabe von Marketo Champions mehrere Checklisten für die Prüfung von geerbten Marketo Engage-Instanzen zusammengestellt, um Ihnen zu helfen, den Boden zu erobern. Erfahren Sie, wie Sie in den verschiedenen Bereichen des Marketo Engage navigieren und die verschiedenen für eine Prüfung erforderlichen Aufgaben ausführen können. Links zur empfohlenen Hilfedokumentation sind enthalten.
 
-Sie können auch [Checklisten herunterladen](/help/marketo/getting-started/inheriting-a-marketo-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) in Tabellenform.
+Sie können auch [Checklisten herunterladen](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) in Tabellenform.
 
-* [Admin-Bereich](/help/marketo/getting-started/inheriting-a-marketo-instance/admin-section-checklist.md)
+* [Admin-Bereich](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md)
 
-* [Datenbank](/help/marketo/getting-started/inheriting-a-marketo-instance/database-checklist.md)
+* [Datenbank](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)
 
-* [Marketingaktivitäten](/help/marketo/getting-started/inheriting-a-marketo-instance/marketing-activities-checklist.md)
+* [Marketingaktivitäten](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)
 
-* [Design-Studio](/help/marketo/getting-started/inheriting-a-marketo-instance/design-studio-checklist.md)
+* [Design-Studio](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)
 
-* [Dokumentieren Sie die Einrichtung Ihrer geerbten Instanz.](/help/marketo/getting-started/inheriting-a-marketo-instance/document-your-setup.md)
+* [Dokumentieren Sie die Einrichtung Ihrer geerbten Instanz.](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)
 
 ## Hilfen {#ways-to-get-help}
 

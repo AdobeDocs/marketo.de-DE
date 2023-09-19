@@ -2,7 +2,7 @@
 description: Checkliste für geerbtes Instanzdesign Studio - Marketo Docs - Produktdokumentation
 title: Checkliste für geerbtes Instanzdesign Studio
 feature: Getting Started
-source-git-commit: 092b66fe4170d571d373291f84971e2beda6d7d7
+source-git-commit: 2120b700fde80f470b5e221c0212c8d29e3920ae
 workflow-type: tm+mt
 source-wordcount: '591'
 ht-degree: 4%
@@ -11,7 +11,7 @@ ht-degree: 4%
 
 # Vererbte Instanz: Design Studio Checkliste {#inherited-instance-design-studio-checklist}
 
-Die Strukturierung von Vorlagen und das Erstellen globaler Formulare, Snippets sowie Bilder und Dateien tragen dazu bei, Datenfehler zu minimieren und den Arbeitsablauf für Ihren Programmaufbau zu optimieren. Denken Sie daran, [Checklisten herunterladen](/help/marketo/getting-started/inheriting-a-marketo-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) und verfolgen Sie Ihren Fortschritt.
+Die Strukturierung von Vorlagen und das Erstellen globaler Formulare, Snippets sowie Bilder und Dateien tragen dazu bei, Datenfehler zu minimieren und den Arbeitsablauf für Ihren Programmaufbau zu optimieren. Denken Sie daran, [Checklisten herunterladen](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) und verfolgen Sie Ihren Fortschritt.
 
 ## Landing Pages {#landing-pages}
 
@@ -83,7 +83,7 @@ Die Strukturierung von Vorlagen und das Erstellen globaler Formulare, Snippets s
 <li>Werden versteckte Werte entsprechend genutzt?</li>
 <li>Werden Marketo Engage-Formulare auf Nicht-Marketo Engage-Landingpages verwendet? Wie werden sie referenziert?</li>
 <p><img src="assets/tip-icon.png" alt="Tippsymbol">TIPP: Aktualisieren Sie Seiten, auf denen Sie Marketo Engage-Formulare einbetten, mit dem neuen Einbettungscode (gesicherte Landingpages sind erforderlich).
-<p><a href="/help/marketo/getting-started/inheriting-a-marketo-instance/assets/design-studio-checklist-2.png" target="_blank"><img src="assets/design-studio-checklist-1.png" alt="Code-Miniatur"></a>
+<p><a href="/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/design-studio-checklist-2.png" target="_blank"><img src="assets/design-studio-checklist-1.png" alt="Code-Miniatur"></a>
 </td>
   </tr>
   <tr> 
@@ -168,6 +168,6 @@ Die Strukturierung von Vorlagen und das Erstellen globaler Formulare, Snippets s
 
 <br> 
 
-[Audit und geerbte Marketingaktivitäten](/help/marketo/getting-started/inheriting-a-marketo-instance/marketing-activities-checklist.md)
+[Audit und geerbte Marketingaktivitäten](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)
 
-[Prüfen einer geerbten Instanz: Dokumentieren Sie die Einrichtung Ihrer geerbten Instanz ►](/help/marketo/getting-started/inheriting-a-marketo-instance/document-your-setup.md)
+[Prüfen einer geerbten Instanz: Dokumentieren Sie die Einrichtung Ihrer geerbten Instanz ►](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)
