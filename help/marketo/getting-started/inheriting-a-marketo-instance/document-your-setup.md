@@ -3,9 +3,9 @@ description: Vererbtes Instanzdokument Ihre Einrichtung - Marketo-Dokumente - Pr
 title: Vererbtes Instanzdokument Ihr Setup
 hide: true
 hidefromtoc: true
-source-git-commit: 18749bdff222980177b46969b105216d7b720db9
+source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '305'
 ht-degree: 1%
 
 ---
@@ -56,7 +56,7 @@ Nachdem Sie nun die wichtigsten Produktbereiche kennen gelernt haben, die bei de
   <tr> 
    <td>Changelog</td> 
     <td><li>Verfügen Sie über einen "changelog", in dem Sie dokumentieren können, was sich in Ihrer Instanz ändert und warum?</li>
-    <p><img src="assets/action-item-icon.png" alt="Aktionselement-Symbol">Aktionselement: Laden Sie dieses Beispiel herunter, um ein Änderungsprotokoll und Dokumentänderungen an Ihrer Instanzeinrichtung zu erstellen.</td>
+    <p><img src="assets/action-item-icon.png" alt="Aktionselement-Symbol">Aktionselement: Erstellen Sie ein Änderungsprotokoll und Dokumentänderungen, die an Ihrer Instanzkonfiguration vorgenommen wurden.</td>
   </tr>
   <tr> 
    <td>Playbooks</td> 
@@ -67,7 +67,7 @@ Nachdem Sie nun die wichtigsten Produktbereiche kennen gelernt haben, die bei de
    <td>Gespräche mit internen Interessengruppen</td> 
     <td><li>Was sind die internen Erwartungen des Marketing-Teams Ihres Unternehmens? Stimmen sie mit dem überein, was Marketo Engage liefert?</li>
    <li>Welche Teams sind Stakeholder in Ihrer Marketo Engage-Instanz?</li>
-   <p><img src="assets/action-item-icon.png" alt="Aktionselement-Symbol">Aktionselement: Herunterladen <a href="https://nation.marketo.com/t5/product-blogs/planning-and-communicating-about-your-marketo-onboarding/ba-p/243555?attachment-id=1705" target="_blank">Vorlage für den internen Kommunikationsleitfaden für Interessengruppen</a> , um die Ziele und Erwartungen Ihrer wichtigsten Interessengruppen zu dokumentieren.</td>
+   <p><img src="assets/action-item-icon.png" alt="Aktionselement-Symbol">Aktionselement: Dokumentieren Sie die Ziele und Erwartungen Ihrer wichtigsten Stakeholder und aktualisieren Sie sie beim Einchecken mit Ihren Kollegen im Laufe des Jahres.</td>
   </tr>
  </tbody> 
 </table>

@@ -3,7 +3,7 @@ description: Checkliste für geerbtes Instanzdesign Studio - Marketo Docs - Prod
 title: Checkliste für geerbtes Instanzdesign Studio
 hide: true
 hidefromtoc: true
-source-git-commit: 18749bdff222980177b46969b105216d7b720db9
+source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
 workflow-type: tm+mt
 source-wordcount: '553'
 ht-degree: 4%
@@ -94,6 +94,7 @@ Die Strukturierung von Vorlagen und das Erstellen globaler Formulare, Snippets s
   <tr> 
    <td>E-Mail-Tests</td> 
    <td><li>Verwendung <a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/understanding-email-testing-options.md" target="_blank">E-Mail-Tests</a>? Ist Ihre Methode noch effektiv?</li></td>
+  </tr>
   </tr>
   <tr> 
    <td>Datenschutz und Compliance</td> 

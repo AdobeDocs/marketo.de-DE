@@ -3,10 +3,10 @@ description: Checkliste für die geerbte Instanzdatenbank - Marketo-Dokumente - 
 title: Checkliste für die geerbte Instanzdatenbank
 hide: true
 hidefromtoc: true
-source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
+source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
 workflow-type: tm+mt
-source-wordcount: '386'
-ht-degree: 8%
+source-wordcount: '421'
+ht-degree: 7%
 
 ---
 
@@ -74,6 +74,7 @@ Verstehen Sie die Gesamtzahl der Personen, vermarktbaren Personen und der Person
   <tr> 
    <td>Smart Lists</td> 
    <td><li>Wie viele <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" target="_blank">Smart-Listen</a> Gibt es sie? Wie werden sie in dieser Instanz verwendet?</li>
+   <p><img src="assets/note-icon.png" alt="Notizsymbol"> HINWEIS: Im Abschnitt "Datenbank"werden Smart-Listen für Gruppen vom Benutzer generiert und intelligente Systemlisten werden von Marketo Engage erstellt.
 <li>Sind die Listen in einer zusammenhängenden Ordnerstruktur organisiert? 
 <br/>     Wenn Sie verwaiste Listen haben, sollten Sie Ihren Baum so organisieren, dass Assets einfach zu finden sind.</li>
 <p><img src="assets/tip-icon.png" alt="Tippsymbol">TIPP: <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">Archivierung</a> Intelligente Listen, die nicht mehr benötigt werden, helfen bei der Organisation und Leistung.</td>
@@ -91,7 +92,8 @@ Verstehen Sie die Gesamtzahl der Personen, vermarktbaren Personen und der Person
   </tr> 
   <tr> 
    <td>Statische Listen</td> 
-   <td><li>Wie viele <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" target="_blank">Statische Listen</a> Gibt es sie? Wie werden sie in dieser Instanz verwendet?</li></td>
+   <td><li>Wie viele <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" target="_blank">Statische Listen</a> Gibt es sie? Wie werden sie in dieser Instanz verwendet?</li>
+   <p><img src="assets/note-icon.png" alt="Notizsymbol"> HINWEIS: Im Abschnitt "Datenbank"sind Gruppenlisten statische Listen.</td>
   </tr>
  </tbody> 
 </table>
