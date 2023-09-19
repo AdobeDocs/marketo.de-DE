@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 092b66fe4170d571d373291f84971e2beda6d7d7
+source-git-commit: c6bafe84ce856705b233818dddb49e4770c60d86
 workflow-type: tm+mt
 source-wordcount: '9098'
 ht-degree: 5%
@@ -38,7 +38,7 @@ ht-degree: 5%
       + [Landing Page umleiten](getting-started/quick-wins/redirect-a-landing-page.md)
       + [Automatisieren eines Warnhinweises für mögliche doppelte Personen](getting-started/quick-wins/advanced-solutions/automate-an-alert-for-possible-duplicate-people.md)
    + Vererben einer Marketo Engage-Instanz {#inheriting-a-marketo-engage-instance}
-      + [Startpunkt](getting-started/inheriting-a-marketo-engage-instance/new-inherit-overview.md)
+      + [Startpunkt](getting-started/inheriting-a-marketo-engage-instance/where-to-start.md)
       + [Vererbte Instanz: Checkliste für den Administratorbereich](getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md)
       + [Vererbte Instanz: Datenbank-Checkliste](getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)
       + [Vererbte Instanz: Checkliste für Marketingaktivitäten](getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)
