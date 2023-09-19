@@ -3,9 +3,9 @@ description: Checkliste für geerbtes Instanzdesign Studio - Marketo Docs - Prod
 title: Checkliste für geerbtes Instanzdesign Studio
 hide: true
 hidefromtoc: true
-source-git-commit: e859c6b7c968f93b11bbd8dc281661824236fbaf
+source-git-commit: a3f99e113e862010c64568e51f37e55d6c25106c
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '582'
 ht-degree: 4%
 
 ---
@@ -84,9 +84,7 @@ Die Strukturierung von Vorlagen und das Erstellen globaler Formulare, Snippets s
 <li>Werden versteckte Werte entsprechend genutzt?</li>
 <li>Werden Marketo Engage-Formulare auf Nicht-Marketo Engage-Landingpages verwendet? Wie werden sie referenziert?</li>
 <p><img src="assets/tip-icon.png" alt="Tippsymbol">TIPP: Aktualisieren Sie Seiten, auf denen Sie Marketo Engage-Formulare einbetten, mit dem neuen Einbettungscode (gesicherte Landingpages sind erforderlich).
-<br/><textarea style="width: 100%; max-width: 100%; height: 80px;"><script src="//example.marketo.com/js/forms2/js/forms2.min.js"></script>
-<form id="mktoForm_1"></form>
-<script>MktoForms2.loadForm("//example.marketo.com", "123-ABC-456", 1);</script></textarea>
+<p><a href="/help/marketo/getting-started/inheriting-a-marketo-instance/assets/design-studio-checklist-2.png"><img src="assets/design-studio-checklist-1.png" alt="Code-Miniatur"></a>
 </td>
   </tr>
   <tr> 
