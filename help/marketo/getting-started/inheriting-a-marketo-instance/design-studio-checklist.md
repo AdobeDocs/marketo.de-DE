@@ -3,9 +3,9 @@ description: Checkliste für geerbtes Instanzdesign Studio - Marketo Docs - Prod
 title: Checkliste für geerbtes Instanzdesign Studio
 hide: true
 hidefromtoc: true
-source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
+source-git-commit: 30a7b16e20b6abdfe4f7c10000e64d556ba94116
 workflow-type: tm+mt
-source-wordcount: '553'
+source-wordcount: '560'
 ht-degree: 4%
 
 ---
@@ -41,6 +41,31 @@ Die Strukturierung von Vorlagen und das Erstellen globaler Formulare, Snippets s
  </tbody> 
 </table>
 
+## Bilder und Dateien {#images-and-files}
+
+<table style="table-layout:auto"> 
+ <tbody> 
+  <tr> 
+   <th style="width:20%">Bereich</th> 
+   <th>Fokus überprüfen</th>
+  </tr> 
+  <tr> 
+   <td>Benennungskonventionen</td> 
+   <td><li>Do <a href="/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md" target="_blank">Bilder und Dateien</a> über konsistente Namenskonventionen verfügen?</li></td>
+  </tr>
+  <tr> 
+   <td>Ordnerstruktur</td> 
+   <td><li>sind Bilder und Dateien <a href="/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md" target="_blank">angemessen organisiert</a> und einfach zu suchen?</li></td>
+  </tr>
+  <tr> 
+   <td>Bilder und Dateien</td> 
+   <td><li>Alle Bilder oder Dateien <a href="/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md" target="_blank">referenziert auf Webseiten</a> müssen aktualisiert werden? 
+   <p>Beispiel: Die hartcodierte URL-Struktur <a href="https://nation.marketo.com/t5/product-documents/upcoming-changes-to-design-studio-urls/ta-p/306632#_Toc54870361" target="_blank">möglicherweise aktualisiert werden</a>, beispielsweise <code>http://na-sj01.marketo.com/rs/123-ABC-456/images/puppy.png</code>. 
+   <p>Arbeiten Sie mit Ihrem Web-Entwickler zusammen, um festzustellen, wo Sie möglicherweise Updates vornehmen müssen.</li></td>
+  </tr>
+ </tbody> 
+</table>
+
 ## Formulare {#forms}
 
 <table style="table-layout:auto"> 
@@ -57,8 +82,8 @@ Die Strukturierung von Vorlagen und das Erstellen globaler Formulare, Snippets s
 <li>Werden versteckte Werte entsprechend genutzt?</li>
 <li>Werden Marketo Engage-Formulare auf Nicht-Marketo Engage-Landingpages verwendet? Wie werden sie referenziert?</li>
 <p><img src="assets/tip-icon.png" alt="Tippsymbol">TIPP: Aktualisieren Sie Seiten, auf denen Sie Marketo Engage-Formulare einbetten, mit dem neuen Einbettungscode (gesicherte Landingpages sind erforderlich).
-<br/><script src="//example.marketo.com/js/forms2/js/forms2.min.js"></script>
-<br/><form id="mktoForm_1"><script>MktoForms2.loadForm("//example.marketo.com", "123-ABC-456", 1);</script>
+<br/><pre><script src="//example.marketo.com/js/forms2/js/forms2.min.js"></script></pre>
+<br/><pre><form id="mktoForm_1"></form><script>MktoForms2.loadForm("//example.marketo.com", "123-ABC-456", 1);</script></pre>
 </td>
   </tr>
   <tr> 
@@ -120,31 +145,6 @@ Die Strukturierung von Vorlagen und das Erstellen globaler Formulare, Snippets s
  </tbody> 
 </table>
 
-## Bilder und Dateien {#images-and-files}
-
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th style="width:20%">Bereich</th> 
-   <th>Fokus überprüfen</th>
-  </tr> 
-  <tr> 
-   <td>Benennungskonventionen</td> 
-   <td><li>Do <a href="/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md" target="_blank">Bilder und Dateien</a> über konsistente Namenskonventionen verfügen?</li></td>
-  </tr>
-  <tr> 
-   <td>Ordnerstruktur</td> 
-   <td><li>sind Bilder und Dateien <a href="/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md" target="_blank">angemessen organisiert</a> und einfach zu suchen?</li></td>
-  </tr>
-  <tr> 
-   <td>Bilder und Dateien</td> 
-   <td><li>Alle Bilder oder Dateien <a href="/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md" target="_blank">referenziert auf Webseiten</a> müssen aktualisiert werden? 
-   <p>Beispiel: Die hartcodierte URL-Struktur <a href="https://nation.marketo.com/t5/product-documents/upcoming-changes-to-design-studio-urls/ta-p/306632#_Toc54870361" target="_blank">möglicherweise aktualisiert werden</a>, beispielsweise <code>http://na-sj01.marketo.com/rs/123-ABC-456/images/puppy.png</code>. 
-   <p>Arbeiten Sie mit Ihrem Web-Entwickler zusammen, um festzustellen, wo Sie möglicherweise Updates vornehmen müssen.</li></td>
-  </tr>
- </tbody> 
-</table>
-
 ## Alle Assets {#all-assets}
 
 <table style="table-layout:auto"> 
@@ -155,7 +155,7 @@ Die Strukturierung von Vorlagen und das Erstellen globaler Formulare, Snippets s
   </tr> 
   <tr> 
    <td>Asset-Status</td> 
-   <td><li>Anzahl der Assets in <i>Entwurf</i> und <i>Genehmigt mit Entwurf</i> status?
+   <td><li>Anzahl der Assets in <i>Entwurf</i> und <i>Genehmigt mit Entwurf</i> Status (z. B. <a href="/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md" target="_blank">E-Mail</a>, <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md#approve-a-landing-page" target="_blank">Landing Pages</a>, <a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/approve-a-form.md" target="_blank">forms</a>, <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet.md" target="_blank">Snippets</a>)?
    <br/>     Wenn es viele gibt, sollten Sie sie löschen oder genehmigen.</li></td>
   </tr>
   <tr> 
