@@ -3,9 +3,9 @@ description: Erfahren Sie, wie Sie eine von Ihnen geerbte Marketo Engage-Instanz
 title: Starten einer geerbten Marketo Engage-Instanz
 hide: true
 hidefromtoc: true
-source-git-commit: 2f0f92fdd439d5119d577096c5bf6c034bcd2be5
+source-git-commit: 46a981c45d3fd7b78e97815193243b4f0d172f30
 workflow-type: tm+mt
-source-wordcount: '475'
+source-wordcount: '459'
 ht-degree: 2%
 
 ---
@@ -21,8 +21,6 @@ Stellen Sie sicher, dass Sie in der Community von Marketing Nation ordnungsgemä
 * [**Profil einrichten**](https://nation.marketo.com/){target="_blank"}.
 
 * Lesen Sie im Abschnitt [**Marketing Community-Richtlinien**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
-
-* Klicks **[!UICONTROL Ihre Orte]** in Ihrem Marketo Nation-Community-Profil , um die Kontoseite Ihres Unternehmens anzuzeigen.
 
 * Erfahren Sie, wie [**Support-Fall einreichen**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"} (and confirm you're [**set up as an authorized support contact**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}).
 
@@ -46,7 +44,7 @@ Unser Community-Team führt Ihre Community-Profile in 4-6 Werktagen zusammen. Na
 
 Adobe hat mit der Eingabe von Marketo Champions mehrere Checklisten für die Prüfung von geerbten Marketo Engage-Instanzen zusammengestellt, um Ihnen den schnellen Einstieg zu erleichtern. Erfahren Sie, wie Sie in den verschiedenen Bereichen des Marketo Engage navigieren und die verschiedenen für eine Prüfung erforderlichen Aufgaben ausführen können. Links zur empfohlenen Hilfedokumentation sind enthalten.
 
-Sie können die Checklisten auch in Tabellenform herunterladen.
+Sie können auch [Checklisten herunterladen](/help/marketo/getting-started/inheriting-a-marketo-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist-09.2023.xlsx) in Tabellenform.
 
 * [Admin-Bereich](/help/marketo/getting-started/inheriting-a-marketo-instance/admin-section-checklist.md)
 

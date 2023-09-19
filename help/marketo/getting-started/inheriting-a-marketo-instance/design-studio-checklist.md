@@ -3,7 +3,7 @@ description: Checkliste für geerbtes Instanzdesign Studio - Marketo Docs - Prod
 title: Checkliste für geerbtes Instanzdesign Studio
 hide: true
 hidefromtoc: true
-source-git-commit: a3f99e113e862010c64568e51f37e55d6c25106c
+source-git-commit: 46a981c45d3fd7b78e97815193243b4f0d172f30
 workflow-type: tm+mt
 source-wordcount: '582'
 ht-degree: 4%
@@ -30,7 +30,7 @@ Die Strukturierung von Vorlagen und das Erstellen globaler Formulare, Snippets s
   </tr>
   <tr> 
    <td>Vorlagen</td> 
-   <td><li>Wie viele <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-free-form-landing-page-template.md" target="_blank">Landingpage-Vorlagen</a> Gibt es sie? Werden sie genutzt?</li></td>
+   <td><li>Wie viele <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/edit-a-marketo-landing-page-template.md" target="_blank">Landingpage-Vorlagen</a> Gibt es sie? Werden sie genutzt?</li></td>
   </tr>
   <tr> 
    <td>Testgruppen</td> 
@@ -84,7 +84,7 @@ Die Strukturierung von Vorlagen und das Erstellen globaler Formulare, Snippets s
 <li>Werden versteckte Werte entsprechend genutzt?</li>
 <li>Werden Marketo Engage-Formulare auf Nicht-Marketo Engage-Landingpages verwendet? Wie werden sie referenziert?</li>
 <p><img src="assets/tip-icon.png" alt="Tippsymbol">TIPP: Aktualisieren Sie Seiten, auf denen Sie Marketo Engage-Formulare einbetten, mit dem neuen Einbettungscode (gesicherte Landingpages sind erforderlich).
-<p><a href="/help/marketo/getting-started/inheriting-a-marketo-instance/assets/design-studio-checklist-2.png"><img src="assets/design-studio-checklist-1.png" alt="Code-Miniatur"></a>
+<p><a href="/help/marketo/getting-started/inheriting-a-marketo-instance/assets/design-studio-checklist-2.png" target="_blank"><img src="assets/design-studio-checklist-1.png" alt="Code-Miniatur"></a>
 </td>
   </tr>
   <tr> 

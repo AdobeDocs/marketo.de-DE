@@ -3,7 +3,7 @@ description: Übernommene Checkliste für Instanzadministratoren - Marketo-Dokum
 title: Checkliste für geerbte Instanzadministratoren
 hide: true
 hidefromtoc: true
-source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
+source-git-commit: 46a981c45d3fd7b78e97815193243b4f0d172f30
 workflow-type: tm+mt
 source-wordcount: '1592'
 ht-degree: 3%
@@ -12,7 +12,7 @@ ht-degree: 3%
 
 # Vererbte Instanz: Checkliste für den Administratorbereich {#inherited-instance-admin-section-checklist}
 
-Die folgenden Checklisten (nachfolgende Checklisten, die am Ende jedes Artikels mit verknüpft sind) wurden von Adobe Professional Services mit Eingaben von Marketo Champions zusammengestellt, damit Sie schnell auf den neuesten Stand kommen können. Sie können auch die Checklisten herunterladen und den Fortschritt verfolgen.
+Die folgenden Checklisten (nachfolgende Checklisten, die am Ende jedes Artikels mit verknüpft sind) wurden von Adobe Professional Services mit Eingaben von Marketo Champions zusammengestellt, damit Sie schnell auf den neuesten Stand kommen können. Sie können auch [Checklisten herunterladen](/help/marketo/getting-started/inheriting-a-marketo-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist-09.2023.xlsx) und verfolgen Sie Ihren Fortschritt.
 
 >[!TIP]
 >
