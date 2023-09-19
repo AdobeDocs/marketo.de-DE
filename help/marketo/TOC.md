@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: df16b75e0b2fafbd8b671c9e43845937c37e8dd9
+source-git-commit: 092b66fe4170d571d373291f84971e2beda6d7d7
 workflow-type: tm+mt
-source-wordcount: '9114'
+source-wordcount: '9098'
 ht-degree: 5%
 
 ---
@@ -37,17 +37,14 @@ ht-degree: 5%
       + [Personendaten aktualisieren](getting-started/quick-wins/update-person-data.md)
       + [Landing Page umleiten](getting-started/quick-wins/redirect-a-landing-page.md)
       + [Automatisieren eines Warnhinweises für mögliche doppelte Personen](getting-started/quick-wins/advanced-solutions/automate-an-alert-for-possible-duplicate-people.md)
-   + Vererben einer Marketo-Instanz {#inheriting-a-marketo-instance}
-      + [Neue Übersicht über die Vererbung](getting-started/inheriting-a-marketo-instance/new-inherit-overview.md)
-      + [Hilfe! Ich habe eine vorhandene Marketo-Instanz übernommen.](getting-started/inheriting-a-marketo-instance/help-ive-inherited-an-existing-marketo-instance.md)
-      + [Elemente zum Deaktivieren](getting-started/inheriting-a-marketo-instance/items-to-check-off.md)
-      + [Was überprüft werden muss: Kernkompetenzen](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
-      + [Hilfen](getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
-      + [Vererbte Instanz: Checkliste für den Administratorbereich](getting-started/inheriting-a-marketo-instance/admin-section-checklist.md)
-      + [Vererbte Instanz: Datenbank-Checkliste](getting-started/inheriting-a-marketo-instance/database-checklist.md)
-      + [Vererbte Instanz: Checkliste für Marketingaktivitäten](getting-started/inheriting-a-marketo-instance/marketing-activities-checklist.md)
-      + [Vererbte Instanz: Design Studio Checkliste](getting-started/inheriting-a-marketo-instance/design-studio-checklist.md)
-      + [Vererbte Instanz: Dokument Ihres Setups](getting-started/inheriting-a-marketo-instance/document-your-setup.md)
+   + Vererben einer Marketo Engage-Instanz {#inheriting-a-marketo-engage-instance}
+      + [Startpunkt](getting-started/inheriting-a-marketo-engage-instance/new-inherit-overview.md)
+      + [Vererbte Instanz: Checkliste für den Administratorbereich](getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md)
+      + [Vererbte Instanz: Datenbank-Checkliste](getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)
+      + [Vererbte Instanz: Checkliste für Marketingaktivitäten](getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)
+      + [Vererbte Instanz: Design Studio Checkliste](getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)
+      + [Vererbte Instanz: Dokument Ihres Setups](getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)
+      + [Grundfertigkeiten überprüfen](getting-started/inheriting-a-marketo-engage-instance/reviewing-core-skills.md)
 + Produktdokumentationen {#product-docs}
    + Zusätzliche Apps {#additional-apps}
       + SEO {#seo}
@@ -520,7 +517,7 @@ ht-degree: 5%
          + [Modelle und Insights](product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md)
          + [Vorhersagefilter](product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md)
          + [Verstehen der Zielverfolgung und der geplanten Registrierungen](product-docs/core-marketo-concepts/predictive-audiences/understanding-goal-tracking-and-projected-registrations.md)
-   + CRM-Synch.{#crm-sync}
+   + CRM-Synch {#crm-sync}
       + Microsoft Dynamics Sync {#microsoft-dynamics}
          + [Grundlagen zur Synchronisierung von Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
          + [Marketo-Plug-in-Versionen für Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)
