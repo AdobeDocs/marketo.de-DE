@@ -4,10 +4,10 @@ description: Glossar zu dynamischen Feldern - Marketo-Dokumente - Produktdokumen
 title: Glossar zu dynamischen Feldern
 exl-id: 28351ba9-53da-4408-9526-918200d9bd29
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: d6a3d95ed42d1c08d69014e1aa013e7436bd06c2
 workflow-type: tm+mt
 source-wordcount: '176'
-ht-degree: 3%
+ht-degree: 2%
 
 ---
 
@@ -19,14 +19,14 @@ Mit diesem Tool wird `auto-personalize your email` und sparen Ihnen unzählige Z
 
 | Dynamisches Feld | Anwendungsbeispiel für E-Mails |
 |---|---|
-| `{{company}}` | Marketo |
-| `{{company_friendly}}` | Marketo |
+| `{{company}}` | Adobe |
+| `{{company_friendly}}` | Adobe |
 | `{{first_name}}` | Keith |
 | `{{friendly_unsubscribe}}` | Wenn du nicht noch einmal von mir hören willst, gib mir bitte hier Bescheid |
-| `{{my_name}}` | Alan Bradley |
+| `{{my_name}}` | Keith Flynn |
 | `{{personal_email}}` | keith@pickyouremail.com |
 | `{{title}}` | Senior Technical Writer |
-| `{{work_website}}` | https://www.marketo.com |
+| `{{work_website}}` | https://www.adobe.com |
 
 **Was zu beachten ist**:
 
