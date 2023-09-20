@@ -2,9 +2,9 @@
 description: September 2023 - Versionshinweise - Marketo-Dokumente - Produktdokumentation
 title: September 2023 - Versionshinweise
 feature: Release Information
-source-git-commit: df16b75e0b2fafbd8b671c9e43845937c37e8dd9
+source-git-commit: 93aae6830eba6de393c428e59a1d95da2bb8d413
 workflow-type: tm+mt
-source-wordcount: '862'
+source-wordcount: '849'
 ht-degree: 5%
 
 ---
@@ -39,7 +39,7 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>Wird von der Spalte "Zählung"für Design Studio-Assets verwendet</strong>: Die Marketo Engage-Programm-Referenzbibliothek ermöglicht Benutzern den Import von Beispielprogrammen und anderen Assets, die von Adobe empfohlene Best Practices darstellen. Unser Produktmanagement-Team hat die -Bibliothek vollständig aktualisiert und bietet wertvollere Tools für diejenigen, die ihr Programm schnell starten möchten.</td> 
+   <td><strong>Wird von der Spalte "Zählung"für Design Studio-Assets verwendet</strong>: In der Spalte Verwendet nach Anzahl für Listenansichten in Design Studio wird die Anzahl der verwendeten Assets hervorgehoben. Dies gilt für Snippets, E-Mail-Vorlagen, Forms und Landingpage-Vorlagen.</td> 
    <td>Versendet</td>
    <td>Nicht zutreffend</td>
   </tr>
