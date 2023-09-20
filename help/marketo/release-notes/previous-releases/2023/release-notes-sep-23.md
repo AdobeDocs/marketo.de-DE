@@ -2,9 +2,9 @@
 description: September 2023 - Versionshinweise - Marketo-Dokumente - Produktdokumentation
 title: September 2023 - Versionshinweise
 feature: Release Information
-source-git-commit: 93aae6830eba6de393c428e59a1d95da2bb8d413
+source-git-commit: f11e455196cdfb7a6c1054df40344cab5b06772b
 workflow-type: tm+mt
-source-wordcount: '849'
+source-wordcount: '793'
 ht-degree: 5%
 
 ---
@@ -52,16 +52,6 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
    <td><strong>Von Registerkartenverbesserungen für Design Studio Assets verwendet</strong>: Die Registerkarte "Von Erweiterung verwendet"bietet eine detailliertere Ansicht des Typs und des Namens eines Assets sowie dessen Verwendungsort. Dies gilt für E-Mail-Details und Details zu Bildern und Dateien.</td> 
    <td>Versendet</td>
    <td>Nicht zutreffend</td>
-  </tr>
-   <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-   <tr> 
-   <td><strong>Schrittdienst für die Berechnung des Formelflusses</strong>: Compute Formula ist ein auf einer Adobe IO Runtime-Plattform aufbauender Flow Step Service für die Verwendung mit Marketo Engage Smart Campaigns. Adobe-Clients mit IO Runtime können den Dienst bereitstellen und in ihren Marketo Engage-Abonnements installieren, sodass sie Excel-ähnliche Formeln in Marketo Smart Campaigns berechnen können.</td> 
-   <td><i>Demnächst verfügbar</i></td>
-   <td><i>Demnächst verfügbar</i></td>
   </tr>
  </tbody> 
 </table>
