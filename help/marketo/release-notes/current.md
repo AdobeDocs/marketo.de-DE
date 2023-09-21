@@ -3,7 +3,7 @@ description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokument
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 362aba77e372ff5ae09878c6a57d6ce97b019421
+source-git-commit: 00038ada6a3712ccc06cb638125f2f6fb185a1c6
 workflow-type: tm+mt
 source-wordcount: '241'
 ht-degree: 8%
@@ -20,7 +20,7 @@ Unten finden Sie alle Funktionen der Version vom 23. Oktober. Überprüfen Sie I
 
 ## Standardfunktionen des Versionszyklus {#standard-release-cycle-features}
 
-Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab der Veröffentlichung auf **13. Oktober 2023**, mit einer stufenweisen Einführung der verbleibenden Funktionen in den darauffolgenden Wochen. Die Veröffentlichungsfunktionen und -daten können sich ändern. Bitte überprüfen Sie neben den einzelnen Funktionen nach ihrem Status.
+Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab der Veröffentlichung auf **6. Oktober 2023**, mit einer stufenweisen Einführung der verbleibenden Funktionen in den darauffolgenden Wochen. Die Veröffentlichungsfunktionen und -daten können sich ändern. Bitte überprüfen Sie neben den einzelnen Funktionen nach ihrem Status.
 
 <table style="table-layout:auto"> 
  <tbody> 
