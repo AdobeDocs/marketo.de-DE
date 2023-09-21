@@ -2,9 +2,9 @@
 description: September 2023 - Versionshinweise - Marketo-Dokumente - Produktdokumentation
 title: September 2023 - Versionshinweise
 feature: Release Information
-source-git-commit: f11e455196cdfb7a6c1054df40344cab5b06772b
+source-git-commit: c83fcb184c12677c85f34e899907ccb2a8ff9473
 workflow-type: tm+mt
-source-wordcount: '793'
+source-wordcount: '872'
 ht-degree: 5%
 
 ---
@@ -52,6 +52,26 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
    <td><strong>Von Registerkartenverbesserungen für Design Studio Assets verwendet</strong>: Die Registerkarte "Von Erweiterung verwendet"bietet eine detailliertere Ansicht des Typs und des Namens eines Assets sowie dessen Verwendungsort. Dies gilt für E-Mail-Details und Details zu Bildern und Dateien.</td> 
    <td>Versendet</td>
    <td>Nicht zutreffend</td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+   <tr> 
+   <td><strong>Lokalisierung für interaktive Webinare</strong>: Hier können Sie die Details des Marketo-Programms für interaktive Webinare-Ereignisse in der gewünschten Sprache anzeigen und die Versandsprache auswählen, damit sie sich von der Sprache des Marketo-Benutzers unterscheiden kann, der das Veranstaltungsprogramm erstellt hat.</td> 
+   <td>Versendet</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md" target="_blank">Häufig gestellte Fragen zu interaktiven Webinaren</a></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+   <tr> 
+   <td><strong>Benutzerzugriffsverwaltung für interaktive Webinare</strong>: User Access Management ermöglicht es Benutzern interaktiver Webinare, nur auf die Veranstaltungsprogramme zuzugreifen, für die sie autorisiert sind. So können Sie unberechtigten Zugriff verhindern.</td> 
+   <td>Versendet</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md#user-access" target="_blank">Benutzerzugang</a></td>
   </tr>
  </tbody> 
 </table>
