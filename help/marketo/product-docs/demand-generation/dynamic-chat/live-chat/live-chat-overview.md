@@ -2,18 +2,20 @@
 description: Live-Chat-Übersicht - Marketo-Dokumente - Produktdokumentation
 title: Live-Chat-Übersicht
 feature: Dynamic Chat
-source-git-commit: 9a8f6fe57b585ba0eac6a577bf99e0419d8818a1
+source-git-commit: 34545817fd35719290a848384e4bc9feba521305
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '254'
 ht-degree: 3%
 
 ---
 
 # Live-Chat-Übersicht {#live-chat-overview}
 
-Verwenden Sie die Live-Chat-Karte im [Stream-Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} wenn Sie möchten, dass Besucher mit einem Live-Agenten chatten.
+Der Live-Chat ermöglicht es Website-Besuchern, mit Ihren Vertriebsmitarbeitern in Echtzeit Chat-Gespräche zu führen.
 
 ## Verwenden der Live-Chat-Karte {#using-the-live-chat-card}
+
+Verwenden Sie die Live-Chat-Karte im [Stream-Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} wenn Sie möchten, dass Besucher mit einem Live-Agenten chatten.
 
 ![](assets/live-chat-overview-1.png)
 

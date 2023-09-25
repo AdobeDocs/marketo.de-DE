@@ -2,16 +2,16 @@
 description: Interaktionsübersicht - Marketo-Dokumente - Produktdokumentation
 title: Interaktionsübersicht
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: b6628cee17799801815f5b84c424399538eaf5ee
+source-git-commit: 34545817fd35719290a848384e4bc9feba521305
 workflow-type: tm+mt
-source-wordcount: '796'
+source-wordcount: '748'
 ht-degree: 0%
 
 ---
 
 # Interaktionsübersicht {#engagement-map-overview}
 
-Mit der Interaktionskarte können Sie mithilfe intuitiver Visualisierungen wiederverwendbare Smart-Kampagnen erstellen. Es bietet vollständige Abwärtskompatibilität mit allen bestehenden Marketo Engage-Smart-Kampagnen, ohne dass aktuelle Funktionen verloren gehen.
+Mit der Interaktionskarte können Sie Ihre Smart-Kampagnen intuitiv visualisieren. Es bietet vollständige Abwärtskompatibilität mit allen bestehenden Marketo Engage-Smart-Kampagnen, ohne dass aktuelle Funktionen verloren gehen.
 
 >[!NOTE]
 >
@@ -75,21 +75,17 @@ Die obere Navigationsleiste enthält die folgenden Funktionen:
 
 Anz. Interaktionszuordnung ist vollständig abwärtskompatibel. Mit einem Klick auf eine Schaltfläche können Sie jede Ihrer vorhandenen Kampagnen auf der visuellen Interaktionszuordnungsoberfläche anzeigen.
 
-**Bedeutet die Verwendung von Interaktionskarten in Marketo Engage, dass ich den Zugriff auf die Ordnerstruktur verlieren werde und neu lernen muss, wie eine Smart-Kampagne erstellt wird?**
+**Bedeutet die Verwendung von Interaktionskarten auf Marketo Engage, dass ich den Zugriff auf die Ordnerstruktur verlieren werde und neu lernen muss, wie eine Smart-Kampagne erstellt wird?**
 
-Anz. Das Tolle an Interaktionskarten ist, dass sie Ihnen das Beste aus beiden Welten bieten. Sie ergänzen die aktuelle Art und Weise, wie Sie Kampagnen erstellen. Sie können auswählen, ob Sie die vorhandene Benutzeroberfläche verwenden oder die neue Benutzeroberfläche erstellen/visualisieren möchten. Alle Benutzer erhalten weiterhin die leistungsstarken Funktionen von Marketo Engage, die jetzt durch ein visuelles Erstellungswerkzeug ergänzt werden.
+Anz. Das Tolle an Interaktionskarten ist, dass sie Ihnen das Beste aus beiden Welten bieten. Sie ergänzen die aktuelle Art und Weise, wie Sie Kampagnen erstellen. Alle Benutzer erhalten weiterhin ein leistungsstarkes Marketo Engage-Feature Set, das jetzt durch klare Visualisierungen ergänzt wird.
 
 **Ist Interaktionszuordnung ein kostenpflichtiges Add-on?**
 
-Anz. Alle bestehenden und neuen Marketo Engage-Benutzer, die über alle Abonnements verfügen, haben Zugriff auf diese ergänzende Funktion.
+Anz. Alle bestehenden und neuen Marketo Engage-Benutzer unter allen Abonnements haben Zugriff auf diese ergänzende Funktion.
 
 **Bin ich als Marketo Engage-Administrator dafür verantwortlich, die Interaktionszuordnung ein-/auszuschalten?**
 
 Anz. Interaktionszuordnung steht allen Benutzern in ihren Instanzen zur Verfügung. Für bestimmte Benutzer, Arbeitsbereiche usw. können Sie sie nicht aktivieren/deaktivieren.
-
-**Ist derzeit alles in Smart-Kampagnen auch in der Interaktionszuordnung verfügbar?**
-
-Ja. Die Interaktionszuordnung weist die volle Funktionsparität mit Smart-Kampagnen auf.
 
 **Inwiefern unterscheidet sich dies von anderen visuellen Buildern?**
 
@@ -99,7 +95,7 @@ Es gibt drei wichtige Dinge, die Interaktionskarten auseinander setzen:
 
 * Funktionalität: Alle Visualisierungen sind vorkonfiguriert, was die Bedienung erleichtert. Die verschachtelte Struktur ermöglicht es Ihnen, einzutauchen und das ganze Bild zu erhalten.
 
-* Leistung: Sie behalten die gesamte bestehende Komplexität des Marketo Engages bei, jetzt in einem visuellen Format.
+* Macht: Sie behalten die gesamte bestehende Komplexität von Marketo Engage, jetzt in einem visuellen Format.
 
 >[!MORELIKETHIS]
 >

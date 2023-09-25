@@ -2,7 +2,7 @@
 description: Ersteinrichtung - Marketo Docs - Produktdokumentation
 title: Ersteinrichtung
 feature: Dynamic Chat
-source-git-commit: 9a8f6fe57b585ba0eac6a577bf99e0419d8818a1
+source-git-commit: 34545817fd35719290a848384e4bc9feba521305
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
@@ -11,9 +11,9 @@ ht-degree: 0%
 
 # Ersteinrichtung {#initial-setup}
 
-## Admin Console aufrufen {#access-admin-console}
-
 Gehen Sie wie folgt vor, um Dynamic Chat einzurichten.
+
+## Admin Console aufrufen {#access-admin-console}
 
 >[!NOTE]
 >
