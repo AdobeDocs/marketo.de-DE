@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: f11e455196cdfb7a6c1054df40344cab5b06772b
+source-git-commit: 45bd5bac341e08cdb14c7ae2a08c97a5ebcba73c
 workflow-type: tm+mt
-source-wordcount: '9106'
+source-wordcount: '9107'
 ht-degree: 5%
 
 ---
@@ -667,6 +667,7 @@ ht-degree: 5%
          + Einrichtung und Konfiguration {#setup-and-configuration}
             + [Ersteinrichtung](product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md)
             + [Hinzufügen oder Entfernen von Chat-Benutzern](product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md)
+            + [Berechtigungen](product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md)
             + [Konfiguration](product-docs/demand-generation/dynamic-chat/setup-and-configuration/configuration.md)
             + [Agenteneinstellungen](product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md)
             + [Agentenverwaltung](product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md)
@@ -980,7 +981,7 @@ ht-degree: 5%
             + [Preisausschreiben veröffentlichen](product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md)
             + [Gewinnspiele auswählen](product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md)
    + E-Mail-Marketing {#email-marketing}
-      + Zustellbarkeit {#deliverability}
+      + Zustellbarkeit.{#deliverability}
          + [Dauerhafte Abmeldung](product-docs/email-marketing/deliverability/durable-unsubscribe.md)
          + [Email Deliverability Power Pack: Importieren einer Testliste](product-docs/email-marketing/deliverability/email-deliverability-power-pack-how-to-import-a-seed-list.md)
          + [Hard- und Softbounces in E-Mails](product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.md)
@@ -1811,7 +1812,7 @@ ht-degree: 5%
             + [Definieren von Zeitkosten](product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md)
             + [Aktivieren der benutzerdefinierten Feldsynchronisierung für die Umsatzzyklusanalyse](product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md)
             + [Bericht &quot;Personen nach Umsatzstatus&quot;](product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md)
-            + Zuweisung {#attribution}
+            + Attribution {#attribution}
                + [Grundlagen zur Attribution](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)
                + [Attributionsbeispiel 1](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
                + [Attributionsbeispiel 2](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
@@ -1832,7 +1833,7 @@ ht-degree: 5%
          + [Kontoeinblick einrichten](product-docs/target-account-management/setup-tam/set-up-account-insight.md)
          + [Übersicht über das Konto-Insight-Plug-in](product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)
          + [Einladen von Benutzern zum Zugriff auf Kontoeinblicke](product-docs/target-account-management/setup-tam/invite-users-to-access-account-insight.md)
-      + Ziel {#target}
+      + Target {#target}
          + Bekannte Kunden {#named-accounts}
             + [Übersicht über benanntes Konto](product-docs/target-account-management/target/named-accounts/named-account-overview.md)
             + [Benannte Konten importieren](product-docs/target-account-management/target/named-accounts/import-named-accounts.md)
@@ -1851,7 +1852,7 @@ ht-degree: 5%
       + Interagieren {#engage}
          + [Kontofilter](product-docs/target-account-management/engage/account-filters.md)
          + [Account-Trigger](product-docs/target-account-management/engage/account-triggers.md)
-      + Maßnahme {#measure}
+      + Messung {#measure}
          + [TAM-Haupt-Dashboard](product-docs/target-account-management/measure/tam-main-dashboard.md)
          + [TAM-Berichteinstellungen](product-docs/target-account-management/measure/tam-report-setup.md)
          + [TAM-Verkaufsbericht](product-docs/target-account-management/measure/tam-sales-report.md)
