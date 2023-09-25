@@ -4,9 +4,9 @@ title: Berechtigungen
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 45bd5bac341e08cdb14c7ae2a08c97a5ebcba73c
+source-git-commit: ca158295a492edfa74c97f98196021767364f692
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '301'
 ht-degree: 5%
 
 ---
@@ -14,6 +14,8 @@ ht-degree: 5%
 # Berechtigungen {#permissions}
 
 Verwalten Sie den Benutzerzugriff auf die verschiedenen Bereiche im Dynamic Chat.
+
+## Berechtigungen anpassen {#customize-permissions}
 
 1. Im [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}klicken **Dynamic Chat**.
 
@@ -49,7 +51,7 @@ Sie können diesen Vorgang jetzt für alle anderen Dynamic Chat-Bereiche wiederh
 
 ## Liste der Berechtigungen {#list-of-permissions}
 
-Unten finden Sie eine Liste aller verfügbaren Berechtigungen, sortiert nach Bereich.
+Unten finden Sie eine Liste aller verfügbaren Berechtigungen für jeden Bereich.
 
 <table>
 <thead>
@@ -73,8 +75,8 @@ Unten finden Sie eine Liste aller verfügbaren Berechtigungen, sortiert nach Ber
     <td><li>Agenten-Posteingang</li>
     <li>Meine Unterhaltungen anzeigen</li>
     <li>Alle Unterhaltungen anzeigen</li>
-    <li>Zusammenfassung der Unterhaltung anzeigen<b>*</b></li>
-    <li>Anzeigen unterstützter Antworten<b>*</b></li></td>
+    <li>Zusammenfassung der Unterhaltung anzeigen <b>*</b></li>
+    <li>Anzeigen unterstützter Antworten <b>*</b></li></td>
   </tr>
   <tr>
     <td>Meetings</td>
@@ -96,21 +98,21 @@ Unten finden Sie eine Liste aller verfügbaren Berechtigungen, sortiert nach Ber
   </tr>
   <tr>
     <td>Admin-Einstellungen</td>
-    <td><li>Anzeigen von Arbeitsbereichen<b>*</b></li>
-    <li>Verwalten von Arbeitsbereichen (Erstellen, Bearbeiten, Löschen)<b>*</b></li>
+    <td><li>Anzeigen von Arbeitsbereichen <b>*</b></li>
+    <li>Verwalten von Arbeitsbereichen (Erstellen, Bearbeiten, Löschen) <b>*</b></li>
     <li>Round-Robin anzeigen</li>
     <li>Anzeigen benutzerdefinierter Regeln</li>
     <li>Verwalten benutzerdefinierter Regeln (hinzufügen, bearbeiten, löschen)</li>
-    <li>Kontoliste anzeigen<b>*</b></li>
-    <li>Konten verwalten (hinzufügen, bearbeiten, löschen)<b>*</b></li>
+    <li>Kontoliste anzeigen <b>*</b></li>
+    <li>Konten verwalten (hinzufügen, bearbeiten, löschen) <b>*</b></li>
     <li>Verwalten von Chatbot-Einstellungen</li>
     <li>Einstellungen für Konversationsflüsse verwalten</li>
     <li>Datenschutz und Sicherheit verwalten</li>
     <li>Integrationen verwalten</li>
-    <li>Sprachen verwalten<b>*</b></li>
+    <li>Sprachen verwalten <b>*</b></li>
     <li>Verwalten von Agenten</li>
-    <li>Anzeigen von Agententeams<b>*</b></li>
-    <li>Verwalten von Agententeams (hinzufügen, bearbeiten, löschen)<b>*</b></li>
+    <li>Anzeigen von Agententeams <b>*</b></li>
+    <li>Verwalten von Agententeams (hinzufügen, bearbeiten, löschen) <b>*</b></li>
     <li>Nutzungsbeschränkungen anzeigen</li></td>
   </tr>
 </tbody>
