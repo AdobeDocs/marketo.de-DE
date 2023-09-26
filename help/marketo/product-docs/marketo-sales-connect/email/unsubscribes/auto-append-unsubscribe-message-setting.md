@@ -4,7 +4,7 @@ title: Einstellung zum automatischen Anhängen von Abmelde-Nachrichten
 hide: true
 hidefromtoc: true
 feature: Marketo Sales Connect
-source-git-commit: b0f62abfe04efd8e72ed8e92442d4a46ea118f33
+source-git-commit: 8b2eed5e28c46ea9c467fd25dd732c1654a09bed
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%
@@ -37,4 +37,4 @@ Stellen Sie sicher, dass jede gesendete E-Mail eine Abmelde-Nachricht enthält, 
 
 >[!TIP]
 >
->Wenn Sie die Einstellung zum Abmelden von Nachrichten anhängen deaktivieren, empfehlen wir, Ihren Vorlagen eine Abmelde-Fußzeile hinzuzufügen, um sicherzustellen, dass Ihre Kommunikation über eine Abmeldeoption verfügt. Sie können dazu Ihre eigene benutzerdefinierte Nachricht zu jeder Vorlage hinzufügen oder die `{{team_unsubscribe}}` dynamisches Feld.
+>Wenn Sie die Einstellung zum Abmelden von Nachrichten anhängen deaktivieren, empfehlen wir, Ihren Vorlagen eine Abmelde-Fußzeile hinzuzufügen, um sicherzustellen, dass Ihre Kommunikation über eine Abmeldeoption verfügt. Sie können dazu Ihre eigene benutzerdefinierte Nachricht zu jeder Vorlage hinzufügen oder die `{{team_unsubscribe}}` [dynamisches Feld](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/dynamic-fields-glossary.md){target="_blank"}.
