@@ -2,9 +2,9 @@
 description: Versionshinweise - Juli 2023 - Marketo-Dokumente - Produktdokumentation
 title: Juli 2023 - Versionshinweise
 feature: Release Information
-source-git-commit: 45e092f7b7e7beeef9712869b62ba4e022c2bf3d
+source-git-commit: 3d9985127db3a420aca8bed13c9e3241d24b149f
 workflow-type: tm+mt
-source-wordcount: '664'
+source-wordcount: '641'
 ht-degree: 6%
 
 ---
@@ -179,4 +179,4 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
 
 * **Upgrade auf Google Analytics 4**: Marketo hat zuvor Universal Analytics unterstützt, das die Aufzeichnung von Daten bis zum 1. Juli 2023 stoppt. RTP-Benutzer müssen den Migrationsprozess in ihrem Google Analytics-Dashboard ausführen, um die Google Analytics 4-Integration in RTP abzuschließen. Künftig verfügen Benutzer über ein eindeutiges alphanumerisches Tag (innerhalb der Variablen `<head>` -Abschnitt des HTML-Codes) auf ihren Landingpages, über die Marketo Daten an Google Analytics senden kann.
 
-* **_Webinar zur Produktversion_**: Treten Sie uns am 6. September 2023 um 9:00 Uhr PT / 12:00 Uhr ET für eine [Live-Webinar](https://engage.marketo.com/2023_July_September_Release_Webinar_RegistrationPage.html){target="_blank"} von unserem Produktteam gehostet, wo Sie erfahren, wie Sie alle neuesten Produktinnovationen nutzen können.
+* **_Webinar zur Produktversion_**: [Webinar zur Marketo Engage-Version vom Juli und September 2023](https://engage.marketo.com/2023_July_September_Release_Webinar_OnDemandPage.html){target="_blank"}

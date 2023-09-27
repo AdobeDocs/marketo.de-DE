@@ -2,9 +2,9 @@
 description: September 2023 - Versionshinweise - Marketo-Dokumente - Produktdokumentation
 title: September 2023 - Versionshinweise
 feature: Release Information
-source-git-commit: 1075444e8c23d6d925c3b427ba8835ddeeead5ea
+source-git-commit: 3d9985127db3a420aca8bed13c9e3241d24b149f
 workflow-type: tm+mt
-source-wordcount: '872'
+source-wordcount: '889'
 ht-degree: 5%
 
 ---
@@ -267,3 +267,5 @@ Alle unten aufgeführten Funktionen entsprechen dem Agile-Format und werden an v
 ## Ankündigungen {#announcements}
 
 * **Umschalten der Einstellung für Design Studio Assets**: Der Umschalter, mit dem Benutzer zwischen der klassischen Benutzeroberfläche und dem modernen UX-Erlebnis für Design Studio wechseln können, wird zusammen mit der alten Version des Design Studio-Erlebnisses nicht mehr unterstützt, sodass Benutzer vollständig zur modernen UX-Umgebung migrieren können. [Weitere Informationen hier](https://nation.marketo.com/t5/the-next-generation-experience/adobe-marketo-engage-switch-to-modern-experience-for-all-design/ba-p/339411){target="_blank"}.
+
+* **_Webinar zur Produktversion_**: [Webinar zur Marketo Engage-Version vom Juli und September 2023](https://engage.marketo.com/2023_July_September_Release_Webinar_OnDemandPage.html){target="_blank"}
