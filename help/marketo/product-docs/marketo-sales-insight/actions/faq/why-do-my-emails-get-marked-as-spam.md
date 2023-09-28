@@ -1,7 +1,8 @@
 ---
 description: Warum werden meine E-Mails als Spam gekennzeichnet? - Marketo-Dokumente - Produktdokumentation
 title: Warum werden meine E-Mails als Spam gekennzeichnet?
-source-git-commit: 3de5fccd516fdaee6c3dc5168df3d2b0767eb2c3
+exl-id: 09fbfd78-fd06-4350-ad22-c0ff5e08394d
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
@@ -14,7 +15,7 @@ Als Unternehmen arbeiten wir hart daran, sicherzustellen, dass unsere Zustellbar
 
 **Überprüfen der Einstellungen**
 
-* Benutzerdefinierte Domänenverfolgung: Auf diese Weise können Sie sicherstellen, dass alle Tracking-Links sofort angezeigt werden.&quot;yourdomain&quot;anstelle von go.toutapp. Einige E-Mail-Sicherheitseinstellungen sehen, dass die E-Mail von &quot;Ihrer Domäne&quot;stammt, der Link jedoch in &quot;go.toutapp&quot;umgeleitet wird. Durch die Implementierung des Linktrackings von benutzerdefinierten Domains sehen Ihre E-Mails legitim aus und haben eine höhere Wahrscheinlichkeit, den Posteingang des Empfängers zu erreichen.
+* Benutzerdefiniertes Domain-Tracking: Damit können Sie alle Tracking-Links sofort anzeigen lassen.&quot;yourdomain&quot;anstelle von go.toutapp. Einige E-Mail-Sicherheitseinstellungen sehen, dass die E-Mail von &quot;Ihrer Domäne&quot;stammt, der Link jedoch in &quot;go.toutapp&quot;umgeleitet wird. Durch die Implementierung des Linktrackings von benutzerdefinierten Domains sehen Ihre E-Mails legitim aus und haben eine höhere Wahrscheinlichkeit, den Posteingang des Empfängers zu erreichen.
 
 **Prüfen des E-Mail-Verhaltens**
 

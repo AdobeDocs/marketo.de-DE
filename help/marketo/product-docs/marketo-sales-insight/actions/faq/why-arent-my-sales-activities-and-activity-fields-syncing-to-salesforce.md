@@ -1,7 +1,8 @@
 ---
 description: Warum werden meine Verkaufsaktivitäten und Aktivitätsfelder nicht mit Salesforce synchronisiert? - Marketo-Dokumente - Produktdokumentation
 title: Warum werden meine Verkaufsaktivitäten und Aktivitätsfelder nicht mit Salesforce synchronisiert?
-source-git-commit: c50f0f08914076a440026fb368bf38763b282bbf
+exl-id: 0836876d-1b89-4464-a841-81320a6e45fd
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '335'
 ht-degree: 0%

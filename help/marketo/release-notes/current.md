@@ -3,10 +3,10 @@ description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokument
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 00038ada6a3712ccc06cb638125f2f6fb185a1c6
+source-git-commit: 6440f43ab77e32038964bf8272f350bd28474eec
 workflow-type: tm+mt
-source-wordcount: '241'
-ht-degree: 8%
+source-wordcount: '329'
+ht-degree: 7%
 
 ---
 
@@ -45,6 +45,17 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
    <td><i>Demnächst verfügbar</i></td>
    <td><i>Demnächst verfügbar</i></td>
   </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  </tr>
+   <tr> 
+   <td><strong>Aufzeichnung herunterladen und Co-Host in interaktiven Webinaren zuweisen</strong>: Sie können jetzt einen externen Co-Host für Ihr Webinar hinzufügen, falls der ursprüngliche Host nicht verfügbar ist. Sie können jetzt auch die Webinar-Aufzeichnung herunterladen.</td> 
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
+  </tr>
  </tbody> 
 </table>
 <br/>
@@ -52,3 +63,5 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
 ## Ankündigungen {#announcements}
 
 * **Marketo Engage Forms jQuery 1.x**: In unserer Version vom Januar 2024 werden wir jQuery für Marketo Engage Forms auf jQuery 3.x aktualisieren. Dies kann sich auf die Implementierung benutzerdefinierter Formulare auswirken, die auf älteren jQuery-Versionen basieren.
+
+* **Veraltete Marketo-Ereignisse und Marketo-Momente**: Adobe entfernt ab dem 2. Oktober 2023 Marketo Events und Marketo Moments aus allen Appstores. Vorhandene Benutzer: Sie können diese Apps weiter verwenden, bis Sie Ihre Marketo Engage-Instanz zu Adobe Identity migrieren. Diese Apps unterstützen die Anmeldung mit Adobe ID nicht.

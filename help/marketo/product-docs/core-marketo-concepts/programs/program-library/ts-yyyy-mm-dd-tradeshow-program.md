@@ -2,7 +2,8 @@
 description: TS-YYYY-MM-DD-Tradeshow-Programm - Marketo Docs - Produktdokumentation
 title: TS-YYYY-MM-DD-Tradeshow-Programm
 feature: Programs
-source-git-commit: 720215ea958206931413f2d273a4a058bc051579
+exl-id: 32e4d07e-e9fd-4906-acc4-5f97c09f3c44
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '409'
 ht-degree: 21%
@@ -117,7 +118,7 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
   <tr> 
    <th>Token-Typ</th> 
    <th>Token-Name</th>
-   <th>Wert </th>
+   <th>Wert</th>
   </tr>
   <tr> 
    <td>Kalenderdatei</td> 

@@ -2,7 +2,8 @@
 description: WBN-JJJJ-MM-TT-Webinar-Programm - Marketo Docs - Produktdokumentation
 title: WBN-JJJJ-MM-TT-Webinar-Programm
 feature: Programs
-source-git-commit: 720215ea958206931413f2d273a4a058bc051579
+exl-id: af2febb3-1773-4507-a694-c6c0f3d65a22
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '574'
 ht-degree: 20%
@@ -183,7 +184,7 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
   <tr> 
    <th>Token-Typ</th> 
    <th>Token-Name</th>
-   <th>Wert </th>
+   <th>Wert</th>
   </tr>
   <tr> 
    <td>Kalenderdatei</td> 

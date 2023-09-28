@@ -2,7 +2,8 @@
 description: Übernommene Checkliste für Instanzadministratoren - Marketo-Dokumente - Produktdokumentation
 title: Checkliste für geerbte Instanzadministratoren
 feature: Getting Started
-source-git-commit: 2120b700fde80f470b5e221c0212c8d29e3920ae
+exl-id: 4840d1a8-306b-4b53-917d-2262ae903a42
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '1592'
 ht-degree: 3%
@@ -351,7 +352,7 @@ Die folgenden Checklisten (nachfolgende Checklisten, die am Ende jedes Artikels 
    <td><li>Hat Ihre Instanz angemeldet? <a href="https://nation.marketo.com/t5/knowledgebase/how-to-subscribe-to-status-page-notifications/ta-p/296749" target="_blank">Marketo Engage-Statusaktualisierungen</a>?</li></td>
   </tr>
   <tr> 
-   <td>Warnungen</td> 
+   <td>Warnhinweise</td> 
    <td><li>Gibt es <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md" target="_blank">Aktive Warnhinweise</a> von Marketo Engage an interne Teams gesendet werden?</li>
 <li>Wenn ja, funktionieren diese Ausschreibungen ordnungsgemäß?</li></td>
   </tr>

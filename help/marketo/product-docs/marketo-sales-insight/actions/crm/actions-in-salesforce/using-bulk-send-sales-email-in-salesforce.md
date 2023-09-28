@@ -1,7 +1,8 @@
 ---
 description: Verwenden der Massen-E-Mail zum Senden von Verkäufen in Salesforce - Marketo Docs - Produktdokumentation
 title: Verwenden der Massen-Sende-Verkaufs-E-Mail in Salesforce
-source-git-commit: b7d80630e55d30364912e472d126a994c5eeca19
+exl-id: eac77a64-7eaa-48eb-820c-c8e188a234dd
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '585'
 ht-degree: 0%
@@ -44,7 +45,7 @@ Erfahren Sie, wie Sie Massen-E-Mails in Salesforce senden können, um Ihre ausge
    >
    >Verwendung [Eingegebene Kategorien](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md#pinning-template-categories-in-the-compose-window){target="_blank"} um den Zugriff auf Ihre bevorzugten E-Mail-Vorlagen zu erleichtern.
 
-   **OPTIONALER SCHRITT**: Personalisierung dynamischer Felder in der Vorschau anzeigen, indem Sie auf **Vorschau dynamischer Felder** Schaltfläche.
+   **OPTIONALER SCHRITT**: Zeigen Sie eine Vorschau der Personalisierung dynamischer Felder an, indem Sie auf die Schaltfläche **Vorschau dynamischer Felder** Schaltfläche.
 
    >[!TIP]
    >
@@ -58,7 +59,7 @@ Erfahren Sie, wie Sie Massen-E-Mails in Salesforce senden können, um Ihre ausge
 
 1. Klicken Sie in Salesforce auf die **Leads/Kontakte** Registerkarte.
 
-1. Wählen Sie in der Dropdown-Liste Ansicht die gewünschte Ansicht der Leads/Kontakte aus, die Sie per E-Mail versenden möchten, und klicken Sie auf **Los**.
+1. Wählen Sie in der Dropdownliste Ansicht die gewünschte Ansicht der Leads/Kontakte aus, die Sie per E-Mail versenden möchten, und klicken Sie auf **Los**.
 
    ![](assets/using-bulk-send-sales-email-in-salesforce-4.png)
 
@@ -80,7 +81,7 @@ Erfahren Sie, wie Sie Massen-E-Mails in Salesforce senden können, um Ihre ausge
    >
    >Verwendung [Eingegebene Kategorien](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md#pinning-template-categories-in-the-compose-window){target="_blank"} um den Zugriff auf Ihre bevorzugten E-Mail-Vorlagen zu erleichtern.
 
-   **OPTIONALER SCHRITT**: Personalisierung dynamischer Felder in der Vorschau anzeigen, indem Sie auf **Vorschau dynamischer Felder** Schaltfläche.
+   **OPTIONALER SCHRITT**: Zeigen Sie eine Vorschau der Personalisierung dynamischer Felder an, indem Sie auf die Schaltfläche **Vorschau dynamischer Felder** Schaltfläche.
 
    >[!TIP]
    >

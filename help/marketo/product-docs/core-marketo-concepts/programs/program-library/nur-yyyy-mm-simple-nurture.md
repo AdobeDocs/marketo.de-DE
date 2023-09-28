@@ -2,7 +2,8 @@
 description: NUR-YYYY-MM-Simple Nurture - Marketo Docs - Produktdokumentation
 title: NUR-YYYY-MM-Simple Nurture
 feature: Programs
-source-git-commit: 720215ea958206931413f2d273a4a058bc051579
+exl-id: 3e09ee4f-be65-4f2b-bdf5-ddd98bb49c1c
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '341'
 ht-degree: 22%
@@ -26,11 +27,11 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
    <th>Programmtyp</th>
   </tr> 
   <tr> 
-   <td>Nurture</td> 
+   <td>Nurture-Kampagne</td> 
    <td>01 - Mitglied 
 <br/>02 - Interagiert - Erfolg</td>
    <td>Inklusiv</td>
-   <td>Interaktion</td>
+   <td>Engagement</td>
   </tr>
  </tbody> 
 </table>
@@ -118,7 +119,7 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
   <tr> 
    <th>Token-Typ</th> 
    <th>Token-Name</th>
-   <th>Wert </th>
+   <th>Wert</th>
   </tr>
   <tr> 
    <td>Text</td> 

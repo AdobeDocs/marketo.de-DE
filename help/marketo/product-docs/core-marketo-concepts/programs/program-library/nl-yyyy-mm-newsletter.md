@@ -2,7 +2,8 @@
 description: NL-YYYY-MM-Newsletter - Marketo Docs - Produktdokumentation
 title: NL-YYY-MM-Newsletter
 feature: Programs
-source-git-commit: 720215ea958206931413f2d273a4a058bc051579
+exl-id: 97078562-6c1f-4f76-a456-9bff8ed6cd21
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '275'
 ht-degree: 25%
@@ -93,7 +94,7 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
   <tr> 
    <th>Token-Typ</th> 
    <th>Token-Name</th>
-   <th>Wert </th>
+   <th>Wert</th>
   </tr>
   <tr> 
    <td>Text</td> 

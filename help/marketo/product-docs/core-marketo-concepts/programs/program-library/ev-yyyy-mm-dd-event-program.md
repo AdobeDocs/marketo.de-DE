@@ -2,7 +2,8 @@
 description: EV-JJJJ-MM-TT-Event-Programm - Marketo Docs - Produktdokumentation
 title: EV-JJJJ-MM-TT-Veranstaltungsprogramm
 feature: Programs
-source-git-commit: 720215ea958206931413f2d273a4a058bc051579
+exl-id: 3688317f-228c-4fc2-accd-3e1d541525d2
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '559'
 ht-degree: 21%
@@ -175,7 +176,7 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
   <tr> 
    <th>Token-Typ</th> 
    <th>Token-Name</th>
-   <th>Wert </th>
+   <th>Wert</th>
   </tr>
   <tr> 
    <td>Kalenderdatei</td> 

@@ -1,7 +1,8 @@
 ---
 description: Einrichten einer Sandbox für Einblicke in Verkaufsaktionen - Marketo-Dokumente - Produktdokumentation
 title: Einrichten einer Sandbox für Einblicke in Verkaufsaktionen
-source-git-commit: 15c3124a53ce55810b598c43e29e21321534c81f
+exl-id: 58af77ef-93ea-4149-be91-f86cdc8f7476
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '626'
 ht-degree: 0%
@@ -72,7 +73,7 @@ Für Aktionen müssen Sie zuerst eine neue Instanz mit einem Salesforce-Produkti
 
 ## Anfordern der Konvertierung Ihrer Aktionsinstanz in die Kompatibilität mit Ihrer Salesforce-Sandbox {#request-your-actions-instance-be-converted}
 
-1. Kontakt [Marketo Engage-Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} , um Ihre neue Instanz von Sales Insight Actions anzufordern, damit sie mit der Salesforce-Sandbox kompatibel ist.
+1. Kontakt [Marketo Engage-Unterstützung](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} , um Ihre neue Instanz von Sales Insight Actions anzufordern, damit sie mit der Salesforce-Sandbox kompatibel ist.
 
 1. Testen Sie alles ordnungsgemäß, indem Sie versuchen, sich über die Schaltfläche &quot;Mit Salesforce anmelden&quot;auf der Seite toutapp.com/login anzumelden.
 

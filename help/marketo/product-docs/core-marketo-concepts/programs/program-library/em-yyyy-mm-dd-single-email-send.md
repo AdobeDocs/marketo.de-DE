@@ -2,7 +2,8 @@
 description: EM-JJJJ-MM-TT-Einzelversand einer E-Mail - Marketo-Dokumente - Produktdokumentation
 title: EM-JJJJ-MM-TT-Einzelner E-Mail-Versand
 feature: Programs
-source-git-commit: 720215ea958206931413f2d273a4a058bc051579
+exl-id: 4dbf3234-a95e-420a-8975-cf86585fb3fc
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '284'
 ht-degree: 24%
@@ -93,7 +94,7 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
   <tr> 
    <th>Token-Typ</th> 
    <th>Token-Name</th>
-   <th>Wert </th>
+   <th>Wert</th>
   </tr>
   <tr> 
    <td>Text</td> 

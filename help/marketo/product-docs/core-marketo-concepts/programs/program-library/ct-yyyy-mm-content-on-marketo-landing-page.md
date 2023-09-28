@@ -2,7 +2,8 @@
 description: CT-YYY-MM-Content auf der Marketo-Landingpage - Marketo Docs - Produktdokumentation
 title: CT-YYY-MM-Content auf der Marketo-Landingpage
 feature: Programs
-source-git-commit: 720215ea958206931413f2d273a4a058bc051579
+exl-id: 11745023-a0c1-45ef-9547-6426f24e3fee
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '472'
 ht-degree: 18%
@@ -117,7 +118,7 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
   <tr> 
    <th>Token-Typ</th> 
    <th>Token-Name</th>
-   <th>Wert </th>
+   <th>Wert</th>
   </tr> 
   <tr> 
    <td>RTF</td> 

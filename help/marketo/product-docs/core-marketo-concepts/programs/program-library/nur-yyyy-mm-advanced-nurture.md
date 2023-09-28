@@ -2,7 +2,8 @@
 description: NUR-YYYY-MM-Erweiterte Krankenversicherung - Marketo Docs - Produktdokumentation
 title: NUR-YYYY-MM-Advanced Nurture
 feature: Programs
-source-git-commit: 720215ea958206931413f2d273a4a058bc051579
+exl-id: cd266cad-843b-4329-ad40-2f3d0acd4948
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '475'
 ht-degree: 18%
@@ -26,11 +27,11 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
    <th>Programmtyp</th>
   </tr> 
   <tr> 
-   <td>Nurture</td> 
+   <td>Nurture-Kampagne</td> 
    <td>01 - Mitglied 
 <br/>02 - Interagiert - Erfolg</td>
    <td>Inklusiv</td>
-   <td>Interaktion</td>
+   <td>Engagement</td>
   </tr>
   <tr> 
    <td>E-Mail-Nurturing</td> 
@@ -160,7 +161,7 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
   <tr> 
    <th>Token-Typ</th> 
    <th>Token-Name</th>
-   <th>Wert </th>
+   <th>Wert</th>
   </tr>
   <tr> 
    <td>Text</td> 
