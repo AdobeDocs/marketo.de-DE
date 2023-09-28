@@ -3,7 +3,7 @@ description: Berechtigungen - Marketo-Dokumente - Produktdokumentation
 title: Berechtigungen
 feature: Dynamic Chat
 exl-id: e05308fe-b8b7-40a3-8099-cec937e1961c
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+source-git-commit: 09c70bb891f5cc93553c1f8dd0fb58dfd407fa81
 workflow-type: tm+mt
 source-wordcount: '397'
 ht-degree: 4%
@@ -67,7 +67,6 @@ Sie können diesen Vorgang jetzt für alle/alle anderen Dynamic Chat-Bereiche wi
    ![](assets/permissions-11.png)
 
 1. Führen Sie nun die Schritte 3 bis 6 aus der [Abschnitt oben](#edit-existing-permissions) für jeden gewünschten Bereich.
-
 
 ## Liste der Berechtigungen {#list-of-permissions}
 

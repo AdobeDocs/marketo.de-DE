@@ -3,7 +3,7 @@ description: Standardmäßige Dynamics-Feldzuordnung - Marketo-Dokumente - Produ
 title: Standardmäßige Dynamics-Feldzuordnung
 exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09c70bb891f5cc93553c1f8dd0fb58dfd407fa81
 workflow-type: tm+mt
 source-wordcount: '829'
 ht-degree: 42%
@@ -200,7 +200,7 @@ Wenn Sie Ihr Marketo-Konto zum ersten Mal mit Microsoft synchronisieren, führt 
     </tr>
     <tr>
       <td>Unternehmen</td>
-      <td>Firmenname</td>
+      <td>Unternehmensname</td>
       <td>companyname</td>
     </tr>
     <tr>
@@ -244,7 +244,7 @@ Die folgenden Lead-Felder werden für die interne Verwendung synchronisiert.
       <th>MS Dynamics API-Name</th>
     </tr>
     <tr>
-      <td>Eigentümerin oder Eigentümer </td>
+      <td>Eigentümer </td>
       <td>ownerid</td>
     </tr>
     <tr>
@@ -459,7 +459,7 @@ Die folgenden Kontaktfelder werden für die interne Verwendung synchronisiert.
       <th>MS Dynamics API-Name</th>
     </tr>
     <tr>
-      <td>Eigentümerin oder Eigentümer </td>
+      <td>Eigentümer </td>
       <td>ownerid</td>
     </tr>
     <tr>
@@ -468,7 +468,7 @@ Die folgenden Kontaktfelder werden für die interne Verwendung synchronisiert.
     </tr>
     <tr>
       <td>parentcustomerid</td>
-      <td>Firmenname</td>
+      <td>Unternehmensname</td>
     </tr>
   </tbody>
 </table>
@@ -579,8 +579,8 @@ Die folgenden Kontaktfelder werden für die interne Verwendung synchronisiert.
     </tr>
     <tr>
       <td>Unternehmen</td>
-      <td>name</td>
       <td>Kontoname</td>
+      <td>name</td>
     </tr>
     <tr>
       <td>Anzahl Mitarbeiter</td>
@@ -603,7 +603,7 @@ Die folgenden Kontofelder werden für die interne Verwendung synchronisiert.
       <th>MS Dynamics API-Name</th>
     </tr>
     <tr>
-      <td>Eigentümerin oder Eigentümer </td>
+      <td>Eigentümer </td>
       <td>ownerid</td>
     </tr>
     <tr>
@@ -613,7 +613,7 @@ Die folgenden Kontofelder werden für die interne Verwendung synchronisiert.
   </tbody>
 </table>
 
-## Chancenfelder {#opportunity-fields}
+## Opportunity-Felder {#opportunity-fields}
 
 <table>
   <colgroup>
@@ -673,7 +673,7 @@ Die folgenden Kontofelder werden für die interne Verwendung synchronisiert.
       <th>MS Dynamics API-Name</th>
     </tr>
     <tr>
-      <td>Eigentümerin oder Eigentümer </td>
+      <td>Eigentümer </td>
       <td>ownerid</td>
     </tr>
     <tr>
