@@ -3,10 +3,10 @@ description: Berechtigungen - Marketo-Dokumente - Produktdokumentation
 title: Berechtigungen
 feature: Dynamic Chat
 exl-id: e05308fe-b8b7-40a3-8099-cec937e1961c
-source-git-commit: feb7c04d056455c00cfe63a1ada17f7c34b509d3
+source-git-commit: 57e5bd8a9968c26c5431484fe06964f696299856
 workflow-type: tm+mt
 source-wordcount: '724'
-ht-degree: 11%
+ht-degree: 10%
 
 ---
 
@@ -75,7 +75,7 @@ Unten finden Sie eine Liste aller verfügbaren Berechtigungen für jeden Bereich
 <table>
 <thead>
   <tr>
-    <th style="width:30%">Dynamic Chat-Bereich</th>
+    <th style="width:25%">Dynamic Chat-Bereich</th>
     <th>Berechtigungen</th>
   </tr>
 </thead>
@@ -140,7 +140,7 @@ Im Folgenden finden Sie die fünf Standardprofile und die Berechtigungen, die st
 <table>
 <thead>
   <tr>
-    <th style="width:30%">Profil</th>
+    <th style="width:25%">Profil</th>
     <th>Standardberechtigungen</th>
   </tr>
 </thead>
@@ -154,22 +154,22 @@ Im Folgenden finden Sie die fünf Standardprofile und die Berechtigungen, die st
     <li>Anzeigen von Konversationsflüssen</li>
     <li>Konversationsflüsse verwalten (erstellen, löschen)</li>
     <li>Veröffentlichen von Konversionsflüssen</li>
-    <p>
+    <br/>
+    <br/>
     <i>Live-Chat</i>
     <li>Nicht zutreffend</li>
-    <p>
-    <br/><i>Meetings</i>
+    <br>
+    <br/><i>Sitzungen</i>
     <li>Nicht zutreffend</li>
-    <p>
-    <br/><i>Analytics</i>
+    <br>
+    <br><i>Analytics</i>
     <li>Globale Leistungsberichte anzeigen</li>
     <li>Live-Chat-Berichte anzeigen</li>
     <li>Anzeigen von Sitzungsberichten</li>
-    <p>
-    <br/><i>Agenteneinstellungen</i>
+    <br>
+    <br><i>Agenteneinstellungen</i>
     <li>Nicht zutreffend</li>
-    <p>
-    <br/><i>Admin-Einstellungen</i>
+    <br><i>Admin-Einstellungen</i>
     <li>Round-Robin anzeigen</li>
     <li>Anzeigen benutzerdefinierter Regeln</li>
     <li>Kontoliste anzeigen <b>*</b></li>
