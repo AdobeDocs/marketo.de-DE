@@ -3,10 +3,10 @@ description: Berechtigungen - Marketo-Dokumente - Produktdokumentation
 title: Berechtigungen
 feature: Dynamic Chat
 exl-id: e05308fe-b8b7-40a3-8099-cec937e1961c
-source-git-commit: 09c70bb891f5cc93553c1f8dd0fb58dfd407fa81
+source-git-commit: 2dab494bd897bf1030b8c2253831e7626dfe6e67
 workflow-type: tm+mt
-source-wordcount: '397'
-ht-degree: 4%
+source-wordcount: '724'
+ht-degree: 11%
 
 ---
 
@@ -91,16 +91,12 @@ Unten finden Sie eine Liste aller verfügbaren Berechtigungen für jeden Bereich
   </tr>
   <tr>
     <td>Live-Chat</td>
-    <td><li>Agenten-Posteingang</li>
-    <li>Meine Unterhaltungen anzeigen</li>
+    <td><li>Meine Unterhaltungen anzeigen</li>
     <li>Alle Unterhaltungen anzeigen</li>
-    <li>Zusammenfassung der Unterhaltung anzeigen <b>*</b></li>
-    <li>Anzeigen unterstützter Antworten <b>*</b></li></td>
   </tr>
   <tr>
     <td>Meetings</td>
     <td><li>Alle Sitzungen verwalten</li>
-    <li>Meine Meetings verwalten</li></td>
   </tr>
   <tr>
     <td>Analytics</td>
@@ -117,8 +113,156 @@ Unten finden Sie eine Liste aller verfügbaren Berechtigungen für jeden Bereich
   </tr>
   <tr>
     <td>Admin-Einstellungen</td>
-    <td><li>Anzeigen von Arbeitsbereichen <b>*</b></li>
-    <li>Verwalten von Arbeitsbereichen (Erstellen, Bearbeiten, Löschen) <b>*</b></li>
+    <td><li>Round-Robin anzeigen</li>
+    <li>Anzeigen benutzerdefinierter Regeln</li>
+    <li>Verwalten benutzerdefinierter Regeln (hinzufügen, bearbeiten, löschen)</li>
+    <li>Kontoliste anzeigen <b>*</b></li>
+    <li>Konten verwalten (hinzufügen, bearbeiten, löschen) <b>*</b></li>
+    <li>Verwalten von Chatbot-Einstellungen</li>
+    <li>Einstellungen für Konversationsflüsse verwalten</li>
+    <li>Datenschutz und Sicherheit verwalten</li>
+    <li>Integrationen verwalten</li>
+    <li>Verwalten von Agenten</li>
+    <li>Anzeigen von Agententeams <b>*</b></li>
+    <li>Verwalten von Agententeams (hinzufügen, bearbeiten, löschen) <b>*</b></li></td>
+  </tr>
+</tbody>
+</table>
+
+**&#42;** Aktuell nur für Dynamic Prime-Benutzer verfügbar
+
+<p>
+
+## Standardprofilberechtigungen {#default-profile-permissions}
+
+Im Folgenden finden Sie die fünf Standardprofile und die Berechtigungen, die standardmäßig aktiviert sind.
+
+<table>
+<thead>
+  <tr>
+    <th style="width:30%">Profil</th>
+    <th>Standardberechtigungen</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Marketingbenutzer</td>
+    <td><i>Konferenzverwaltung</i>
+    <p>
+    <li>Dialogfelder anzeigen</li>
+    <li>Dialogfelder verwalten (erstellen, löschen)</li>
+    <li>Veröffentlichungsdialogfelder</li>
+    <li>Anzeigen von Konversationsflüssen</li>
+    <li>Konversationsflüsse verwalten (erstellen, löschen)</li>
+    <li>Veröffentlichen von Konversionsflüssen</li>
+    <p>
+    <p><i>Live-Chat</i></p>
+    <li>Nicht zutreffend</li>
+    <p>
+    <p><i>Meetings</i></p>
+    <li>Nicht zutreffend</li>
+    <p>
+    <p><i>Analytics</i></p>
+    <li>Globale Leistungsberichte anzeigen</li>
+    <li>Live-Chat-Berichte anzeigen</li>
+    <li>Anzeigen von Sitzungsberichten</li>
+    <p>
+    <p><i>Agenteneinstellungen</i></p>
+    <li>Nicht zutreffend</li>
+    <p>
+    <p><i>Admin-Einstellungen</i></p>
+    <li>Round-Robin anzeigen</li>
+    <li>Anzeigen benutzerdefinierter Regeln</li>
+    <li>Kontoliste anzeigen <b>*</b></li>
+    <li>Anzeigen von Agententeams <b>*</b></li>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Live Agent</b></td>
+    <td><i>Konferenzverwaltung</i>
+    <p>
+    <li>Dialogfelder anzeigen</li>
+    <li>Anzeigen von Konversationsflüssen</li>
+    <p>
+    <p><i>Live-Chat</i></p>
+    <li>Meine Unterhaltungen anzeigen</li>
+    <p>
+    <p><i>Meetings</i></p>
+    <li>Nicht zutreffend</li>
+    <p>
+    <p><i>Analytics</i></p>
+    <li>Globale Leistungsberichte anzeigen</li>
+    <li>Live-Chat-Berichte anzeigen</li>
+    <li>Anzeigen von Sitzungsberichten</li>
+    <p>
+    <p><i>Agenteneinstellungen</i></p>
+    <li>Verfügbarkeit von Live Chat verwalten</li>
+    <li>Kalender verbinden</li>
+    <li>Kalenderverfügbarkeit verwalten</li>
+    <p>
+    <p><i>Admin-Einstellungen</i></p>
+    <li>Round-Robin anzeigen</li>
+    <li>Anzeigen benutzerdefinierter Regeln</li>
+    <li>Kontoliste anzeigen <b>*</b></li>
+    <li>Anzeigen von Agententeams <b>*</b></li>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Kalenderagent</b></td>
+    <td><i>Konferenzverwaltung</i>
+    <p>
+    <li>Dialogfelder anzeigen</li>
+    <li>Anzeigen von Konversationsflüssen</li>
+    <p>
+    <p><i>Live-Chat</i></p>
+    <li>Nicht zutreffend</li>
+    <p>
+    <p><i>Meetings</i></p>
+    <li>Nicht zutreffend</li>
+    <p>
+    <p><i>Analytics</i></p>
+    <li>Globale Leistungsberichte anzeigen</li>
+    <li>Live-Chat-Berichte anzeigen</li>
+    <li>Anzeigen von Sitzungsberichten</li>
+    <p>
+    <p><i>Agenteneinstellungen</i></p>
+    <li>Kalender verbinden</li>
+    <li>Kalenderverfügbarkeit verwalten</li>
+    <p>
+    <p><i>Admin-Einstellungen</i></p>
+    <li>Round-Robin anzeigen</li>
+    <li>Anzeigen benutzerdefinierter Regeln</li>
+    <li>Kontoliste anzeigen <b>*</b></li>
+    <li>Anzeigen von Agententeams <b>*</b></li>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Marketing-Admin</b></td>
+    <td><i>Konferenzverwaltung</i>
+    <p>
+    <li>Dialogfelder anzeigen</li>
+    <li>Dialogfelder verwalten (erstellen, löschen)</li>
+    <li>Veröffentlichungsdialogfelder</li>
+    <li>Anzeigen von Konversationsflüssen</li>
+    <li>Konversationsflüsse verwalten (erstellen, löschen)</li>
+    <li>Veröffentlichen von Konversionsflüssen</li>
+    <p>
+    <p><i>Live-Chat</i></p>
+    <li>Nicht zutreffend</li>
+    <p>
+    <p><i>Meetings</i></p>
+    <li>Nicht zutreffend</li>
+    <p>
+    <p><i>Analytics</i></p>
+    <li>Globale Leistungsberichte anzeigen</li>
+    <li>Live-Chat-Berichte anzeigen</li>
+    <li>Anzeigen von Sitzungsberichten</li>
+    <li>Berichte exportieren</li>
+    <p>
+    <p><i>Agenteneinstellungen</i></p>
+    <li>Nicht zutreffend</li>
+    <p>
+    <p><i>Admin-Einstellungen</i></p>
     <li>Round-Robin anzeigen</li>
     <li>Anzeigen benutzerdefinierter Regeln</li>
     <li>Verwalten benutzerdefinierter Regeln (hinzufügen, bearbeiten, löschen)</li>
@@ -128,11 +272,44 @@ Unten finden Sie eine Liste aller verfügbaren Berechtigungen für jeden Bereich
     <li>Einstellungen für Konversationsflüsse verwalten</li>
     <li>Datenschutz und Sicherheit verwalten</li>
     <li>Integrationen verwalten</li>
-    <li>Sprachen verwalten <b>*</b></li>
+    <li>Anzeigen von Agententeams <b>*</b></li>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Vertriebsadministrator</b></td>
+    <td><i>Konferenzverwaltung</i>
+    <p>
+    <li>Dialogfelder anzeigen</li>
+    <li>Anzeigen von Konversationsflüssen</li>
+    <p>
+    <p><i>Live-Chat</i></p>
+    <li>Meine Unterhaltungen anzeigen</li>
+    <li>Alle Unterhaltungen anzeigen</li>
+    <p>
+    <p><i>Meetings</i></p>
+    <li>Alle Sitzungen verwalten</li>
+    <p>
+    <p><i>Analytics</i></p>
+    <li>Globale Leistungsberichte anzeigen</li>
+    <li>Live-Chat-Berichte anzeigen</li>
+    <li>Anzeigen von Sitzungsberichten</li>
+    <li>Berichte exportieren</li>
+    <p>
+    <p><i>Agenteneinstellungen</i></p>
+    <li>Verfügbarkeit von Live Chat verwalten</li>
+    <li>Kalender verbinden</li>
+    <li>Kalenderverfügbarkeit verwalten</li>
+    <p>
+    <p><i>Admin-Einstellungen</i></p>
+    <li>Round-Robin anzeigen</li>
+    <li>Anzeigen benutzerdefinierter Regeln</li>
+    <li>Verwalten benutzerdefinierter Regeln (hinzufügen, bearbeiten, löschen)</li>
+    <li>Kontoliste anzeigen <b>*</b></li>
+    <li>Konten verwalten (hinzufügen, bearbeiten, löschen) <b>*</b></li>
     <li>Verwalten von Agenten</li>
     <li>Anzeigen von Agententeams <b>*</b></li>
-    <li>Verwalten von Agententeams (hinzufügen, bearbeiten, löschen) <b>*</b></li>
-    <li>Nutzungsbeschränkungen anzeigen</li></td>
+    <li>Verwalten von Agententeams <b>*</b></li>
+    </td>
   </tr>
 </tbody>
 </table>
