@@ -3,7 +3,7 @@ description: Berechtigungen - Marketo-Dokumente - Produktdokumentation
 title: Berechtigungen
 feature: Dynamic Chat
 exl-id: e05308fe-b8b7-40a3-8099-cec937e1961c
-source-git-commit: 2dab494bd897bf1030b8c2253831e7626dfe6e67
+source-git-commit: feb7c04d056455c00cfe63a1ada17f7c34b509d3
 workflow-type: tm+mt
 source-wordcount: '724'
 ht-degree: 11%
@@ -148,7 +148,6 @@ Im Folgenden finden Sie die fünf Standardprofile und die Berechtigungen, die st
   <tr>
     <td>Marketingbenutzer</td>
     <td><i>Konferenzverwaltung</i>
-    <p>
     <li>Dialogfelder anzeigen</li>
     <li>Dialogfelder verwalten (erstellen, löschen)</li>
     <li>Veröffentlichungsdialogfelder</li>
@@ -156,21 +155,21 @@ Im Folgenden finden Sie die fünf Standardprofile und die Berechtigungen, die st
     <li>Konversationsflüsse verwalten (erstellen, löschen)</li>
     <li>Veröffentlichen von Konversionsflüssen</li>
     <p>
-    <p><i>Live-Chat</i></p>
+    <i>Live-Chat</i>
     <li>Nicht zutreffend</li>
     <p>
-    <p><i>Meetings</i></p>
+    <br/><i>Meetings</i>
     <li>Nicht zutreffend</li>
     <p>
-    <p><i>Analytics</i></p>
+    <br/><i>Analytics</i>
     <li>Globale Leistungsberichte anzeigen</li>
     <li>Live-Chat-Berichte anzeigen</li>
     <li>Anzeigen von Sitzungsberichten</li>
     <p>
-    <p><i>Agenteneinstellungen</i></p>
+    <br/><i>Agenteneinstellungen</i>
     <li>Nicht zutreffend</li>
     <p>
-    <p><i>Admin-Einstellungen</i></p>
+    <br/><i>Admin-Einstellungen</i>
     <li>Round-Robin anzeigen</li>
     <li>Anzeigen benutzerdefinierter Regeln</li>
     <li>Kontoliste anzeigen <b>*</b></li>
