@@ -3,7 +3,7 @@ description: Berechtigungen - Marketo-Dokumente - Produktdokumentation
 title: Berechtigungen
 feature: Dynamic Chat
 exl-id: e05308fe-b8b7-40a3-8099-cec937e1961c
-source-git-commit: 57e5bd8a9968c26c5431484fe06964f696299856
+source-git-commit: cf082705f68c459e5b46cf7c968df75241102f60
 workflow-type: tm+mt
 source-wordcount: '724'
 ht-degree: 10%
@@ -154,22 +154,22 @@ Im Folgenden finden Sie die fünf Standardprofile und die Berechtigungen, die st
     <li>Anzeigen von Konversationsflüssen</li>
     <li>Konversationsflüsse verwalten (erstellen, löschen)</li>
     <li>Veröffentlichen von Konversionsflüssen</li>
-    <br/>
-    <br/>
+    <br>
     <i>Live-Chat</i>
     <li>Nicht zutreffend</li>
     <br>
-    <br/><i>Sitzungen</i>
+    <i>Sitzungen</i>
     <li>Nicht zutreffend</li>
     <br>
-    <br><i>Analytics</i>
+    <i>Analytics</i>
     <li>Globale Leistungsberichte anzeigen</li>
     <li>Live-Chat-Berichte anzeigen</li>
     <li>Anzeigen von Sitzungsberichten</li>
     <br>
-    <br><i>Agenteneinstellungen</i>
+    <i>Agenteneinstellungen</i>
     <li>Nicht zutreffend</li>
-    <br><i>Admin-Einstellungen</i>
+    <br>
+    <i>Admin-Einstellungen</i>
     <li>Round-Robin anzeigen</li>
     <li>Anzeigen benutzerdefinierter Regeln</li>
     <li>Kontoliste anzeigen <b>*</b></li>
@@ -179,27 +179,26 @@ Im Folgenden finden Sie die fünf Standardprofile und die Berechtigungen, die st
   <tr>
     <td><b>Live Agent</b></td>
     <td><i>Konferenzverwaltung</i>
-    <p>
     <li>Dialogfelder anzeigen</li>
     <li>Anzeigen von Konversationsflüssen</li>
-    <p>
-    <p><i>Live-Chat</i></p>
+    <br>
+    <i>Live-Chat</i>
     <li>Meine Unterhaltungen anzeigen</li>
-    <p>
-    <p><i>Meetings</i></p>
+    <br>
+    <i>Sitzungen</i>
     <li>Nicht zutreffend</li>
-    <p>
-    <p><i>Analytics</i></p>
+    <br>
+    <i>Analytics</i>
     <li>Globale Leistungsberichte anzeigen</li>
     <li>Live-Chat-Berichte anzeigen</li>
     <li>Anzeigen von Sitzungsberichten</li>
-    <p>
-    <p><i>Agenteneinstellungen</i></p>
+    <br>
+    <i>Agenteneinstellungen</i>
     <li>Verfügbarkeit von Live Chat verwalten</li>
     <li>Kalender verbinden</li>
     <li>Kalenderverfügbarkeit verwalten</li>
-    <p>
-    <p><i>Admin-Einstellungen</i></p>
+    <br>
+    <i>Admin-Einstellungen</i>
     <li>Round-Robin anzeigen</li>
     <li>Anzeigen benutzerdefinierter Regeln</li>
     <li>Kontoliste anzeigen <b>*</b></li>
@@ -209,26 +208,25 @@ Im Folgenden finden Sie die fünf Standardprofile und die Berechtigungen, die st
   <tr>
     <td><b>Kalenderagent</b></td>
     <td><i>Konferenzverwaltung</i>
-    <p>
     <li>Dialogfelder anzeigen</li>
     <li>Anzeigen von Konversationsflüssen</li>
-    <p>
-    <p><i>Live-Chat</i></p>
+    <br>
+    <i>Live-Chat</i>
     <li>Nicht zutreffend</li>
-    <p>
-    <p><i>Meetings</i></p>
+    <br>
+    <i>Sitzungen</i>
     <li>Nicht zutreffend</li>
-    <p>
-    <p><i>Analytics</i></p>
+    <br>
+    <i>Analytics</i>
     <li>Globale Leistungsberichte anzeigen</li>
     <li>Live-Chat-Berichte anzeigen</li>
     <li>Anzeigen von Sitzungsberichten</li>
-    <p>
-    <p><i>Agenteneinstellungen</i></p>
+    <br>
+    <i>Agenteneinstellungen</i>
     <li>Kalender verbinden</li>
     <li>Kalenderverfügbarkeit verwalten</li>
-    <p>
-    <p><i>Admin-Einstellungen</i></p>
+    <br>
+    <i>Admin-Einstellungen</i>
     <li>Round-Robin anzeigen</li>
     <li>Anzeigen benutzerdefinierter Regeln</li>
     <li>Kontoliste anzeigen <b>*</b></li>
@@ -238,30 +236,29 @@ Im Folgenden finden Sie die fünf Standardprofile und die Berechtigungen, die st
   <tr>
     <td><b>Marketing-Admin</b></td>
     <td><i>Konferenzverwaltung</i>
-    <p>
     <li>Dialogfelder anzeigen</li>
     <li>Dialogfelder verwalten (erstellen, löschen)</li>
     <li>Veröffentlichungsdialogfelder</li>
     <li>Anzeigen von Konversationsflüssen</li>
     <li>Konversationsflüsse verwalten (erstellen, löschen)</li>
     <li>Veröffentlichen von Konversionsflüssen</li>
-    <p>
-    <p><i>Live-Chat</i></p>
+    <br>
+    <i>Live-Chat</i>
     <li>Nicht zutreffend</li>
-    <p>
-    <p><i>Meetings</i></p>
+    <br>
+    <i>Sitzungen</i>
     <li>Nicht zutreffend</li>
-    <p>
-    <p><i>Analytics</i></p>
+    <br>
+    <i>Analytics</i>
     <li>Globale Leistungsberichte anzeigen</li>
     <li>Live-Chat-Berichte anzeigen</li>
     <li>Anzeigen von Sitzungsberichten</li>
     <li>Berichte exportieren</li>
-    <p>
-    <p><i>Agenteneinstellungen</i></p>
+    <br>
+    <i>Agenteneinstellungen</i>
     <li>Nicht zutreffend</li>
-    <p>
-    <p><i>Admin-Einstellungen</i></p>
+    <br>
+    <i>Admin-Einstellungen</i>
     <li>Round-Robin anzeigen</li>
     <li>Anzeigen benutzerdefinierter Regeln</li>
     <li>Verwalten benutzerdefinierter Regeln (hinzufügen, bearbeiten, löschen)</li>
@@ -277,29 +274,28 @@ Im Folgenden finden Sie die fünf Standardprofile und die Berechtigungen, die st
   <tr>
     <td><b>Vertriebsadministrator</b></td>
     <td><i>Konferenzverwaltung</i>
-    <p>
     <li>Dialogfelder anzeigen</li>
     <li>Anzeigen von Konversationsflüssen</li>
-    <p>
-    <p><i>Live-Chat</i></p>
+    <br>
+    <i>Live-Chat</i>
     <li>Meine Unterhaltungen anzeigen</li>
     <li>Alle Unterhaltungen anzeigen</li>
-    <p>
-    <p><i>Meetings</i></p>
+    <br>
+    <i>Sitzungen</i>
     <li>Alle Sitzungen verwalten</li>
-    <p>
-    <p><i>Analytics</i></p>
+    <br>
+    <i>Analytics</i>
     <li>Globale Leistungsberichte anzeigen</li>
     <li>Live-Chat-Berichte anzeigen</li>
     <li>Anzeigen von Sitzungsberichten</li>
     <li>Berichte exportieren</li>
-    <p>
-    <p><i>Agenteneinstellungen</i></p>
+    <br>
+    <i>Agenteneinstellungen</i>
     <li>Verfügbarkeit von Live Chat verwalten</li>
     <li>Kalender verbinden</li>
     <li>Kalenderverfügbarkeit verwalten</li>
-    <p>
-    <p><i>Admin-Einstellungen</i></p>
+    <br>
+    <i>Admin-Einstellungen</i>
     <li>Round-Robin anzeigen</li>
     <li>Anzeigen benutzerdefinierter Regeln</li>
     <li>Verwalten benutzerdefinierter Regeln (hinzufügen, bearbeiten, löschen)</li>
