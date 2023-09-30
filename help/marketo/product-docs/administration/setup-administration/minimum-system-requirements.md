@@ -4,16 +4,16 @@ description: Systemanforderungen - Marketo-Dokumente - Produktdokumentation
 title: Mindestsystemanforderungen
 exl-id: 0fa8369f-18d6-45f2-80d0-d95fb2631a01
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: c0375ae1a08fa2bc77f4128abfe5017db69e6ca8
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
 
 # Mindestsystemanforderungen {#minimum-system-requirements}
 
-Wenn Sie sich fragen, was Sie für die Anmeldung und Verwendung von Marketo benötigen, hier die Informationen, die Sie suchen.
+Wenn Sie sich fragen, was Sie brauchen, um sich anzumelden und Marketo Engage zu verwenden, hier die Informationen, die Sie suchen.
 
 >[!NOTE]
 >
@@ -27,4 +27,4 @@ Wenn Sie sich fragen, was Sie für die Anmeldung und Verwendung von Marketo ben�
 
 >[!NOTE]
 >
->Wenn Ihr IT-Team den Webzugriff mithilfe einer Zulassungsliste einschränkt, bitten Sie sie, den `*.marketo.com` um alle Marketo-Ressourcen und -Websockets zuzulassen.
+>Wenn Ihr IT-Team den Webzugriff mithilfe einer Zulassungsliste einschränkt, bitten Sie sie, den `*.marketo.com`, `*.adobe.com`, und `*.adobe.net` um alle Marketo Engage-Ressourcen und Websockets zuzulassen.
