@@ -4,9 +4,9 @@ description: Gewähren Sie Benutzern Zugriff auf die Eincheckanwendung - Marketo
 title: Benutzern Zugriff auf die Check-in-App gewähren
 exl-id: 898ac49f-a708-4cdf-b341-58582740a45b
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '270'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Benutzern Zugriff auf die Check-in-App gewähren {#grant-users-access-to-the-check-in-app}
 
 Marketo hat eine besondere Benutzerrolle für die Check-in-App für Ereignisse. Hier erfahren Sie, wie Sie eine neue Rolle mit der Berechtigung zur Verwendung der App erstellen.
+
+>[!IMPORTANT]
+>
+>Am 2. Oktober 2023 hat Adobe die Marketo Events App aus allen App Stores entfernt. Wenn Sie die App bereits auf Ihrem Tablet/Mobilgerät installiert haben, können Sie sie vorerst weiter verwenden. Sobald Ihre Marketo Engage-Instanz zur Authentifizierung von Marketo zu Adobe Identity migriert wurde, können Sie nicht mehr auf die App zugreifen. [Weitere Informationen](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 ## Neue Benutzerrolle für Mobilgeräte erstellen {#create-a-new-user-role-for-mobile}
 

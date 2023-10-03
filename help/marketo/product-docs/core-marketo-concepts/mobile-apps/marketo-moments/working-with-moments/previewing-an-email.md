@@ -4,16 +4,20 @@ description: Vorschau einer E-Mail - Marketo-Dokumente - Produktdokumentation
 title: E-Mail-Vorschau
 exl-id: 10bcedbd-553f-4ba1-b1bd-1aad2890dbd4
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 0%
+source-wordcount: '135'
+ht-degree: 1%
 
 ---
 
 # E-Mail-Vorschau {#previewing-an-email}
 
 Klicken Sie mit der rechten Maustaste auf eine E-Mail-Karte, um sie in der Vorschau anzuzeigen, bevor Sie den Trigger abrufen.
+
+>[!IMPORTANT]
+>
+>Am 2. Oktober 2023 hat Adobe die Marketo Moments-App aus allen App Stores entfernt. Wenn Sie die App bereits auf Ihrem Tablet/Mobilgerät installiert haben, können Sie sie vorerst weiter verwenden. Sobald Ihre Marketo Engage-Instanz zur Authentifizierung von Marketo zu Adobe Identity migriert wurde, können Sie nicht mehr auf die App zugreifen. [Weitere Informationen](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 1. Tippen Sie auf einer E-Mail-Karte auf das Menü mit den drei Punkten.
 

@@ -4,16 +4,20 @@ description: Markieren abgeschlossen - Marketo Docs - Produktdokumentation
 title: Markieren abgeschlossen
 exl-id: 0abac320-da3b-4ab8-a1ce-28e5e17f4d15
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 0%
+source-wordcount: '146'
+ht-degree: 1%
 
 ---
 
 # Markieren abgeschlossen {#marking-it-done}
 
 Markieren Sie eine E-Mail-Programm-, Ereignis- oder Analysekarte mit Fertig , um sie aus Ihrem Stream zu entfernen. Es gibt zwei Möglichkeiten, das zu tun.
+
+>[!IMPORTANT]
+>
+>Am 2. Oktober 2023 hat Adobe die Marketo Moments-App aus allen App Stores entfernt. Wenn Sie die App bereits auf Ihrem Tablet/Mobilgerät installiert haben, können Sie sie vorerst weiter verwenden. Sobald Ihre Marketo Engage-Instanz zur Authentifizierung von Marketo zu Adobe Identity migriert wurde, können Sie nicht mehr auf die App zugreifen. [Weitere Informationen](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 1. Tippen Sie auf das Aktionsmenü.
 

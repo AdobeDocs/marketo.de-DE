@@ -4,10 +4,10 @@ description: Überprüfen Sie Personen in Ihr Ereignis auf Ihrem Tablet - Market
 title: Personen in Ihr Ereignis einchecken über Ihr Tablet
 exl-id: b48f5f95-8e36-441f-a785-1651f42f9f60
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '815'
-ht-degree: 0%
+source-wordcount: '859'
+ht-degree: 1%
 
 ---
 
@@ -15,12 +15,15 @@ ht-degree: 0%
 
 Wenn Personen bei Ihrer Veranstaltung angezeigt werden, finden Sie deren Informationen in der App. Nach dem Einchecken werden sie bei der Synchronisierung mit Marketo zum Status &quot;Beendet&quot;beworben.
 
-Das Programm funktioniert sowohl auf iPad als auch auf Android gleich, mit Ausnahme kleiner Unterschiede bei Layout und Design.
+>[!IMPORTANT]
+>
+>Am 2. Oktober 2023 hat Adobe die Marketo Events App aus allen App Stores entfernt. Wenn Sie die App bereits auf Ihrem Tablet/Mobilgerät installiert haben, können Sie sie vorerst weiter verwenden. Sobald Ihre Marketo Engage-Instanz zur Authentifizierung von Marketo zu Adobe Identity migriert wurde, können Sie nicht mehr auf die App zugreifen. [Weitere Informationen](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+
+Das Programm funktioniert sowohl auf iPad als auch auf Android gleich, mit Ausnahme von geringfügigen Layout- und Designunterschieden.
 
 >[!PREREQUISITES]
 >
 >* Erstellen Sie ein Ereignis in Marketo und fügen Sie es mit eingeladenen und registrierten Personen ein.
->* Herunterladen der Tablet-App für [Android](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en) oder [iOS](https://itunes.apple.com/us/app/marketo-events/id522766637?mt=8)
 
 ## Einchecken registrierter Gäste {#check-in-registered-guests}
 
@@ -84,7 +87,7 @@ Der Gast hat jetzt den Status &quot;Geplant&quot;und erhält ein Häkchen. Der P
 
 Sie können in Ihrer Marketo-Datenbank nicht vorhandene Gäste manuell hinzufügen. Sie werden automatisch eingecheckt und Ihrer Datenbank hinzugefügt, wenn Sie mit Marketo synchronisieren.
 
-1. Klicken **Hinzufügen**.
+1. Klicks **Hinzufügen**.
 
    **iPad**
 
@@ -110,7 +113,7 @@ Die neue Person wird als bei Ihrem Ereignis eingecheckt und bei der Synchronisie
 
 ## Ein Einchecken umkehren {#reverse-a-check-in}
 
-Wenn Sie versehentlich bei einer Person eingecheckt haben, _vor der Synchronisierung mit Marketo_ können Sie den Status &quot;Geplant&quot;umkehren.
+Wenn Sie versehentlich bei einer Person eingecheckt haben _vor der Synchronisierung mit Marketo_ können Sie den Status &quot;Geplant&quot;umkehren.
 
 1. Tippen Sie auf den Namen in der Liste und im Personendatensatz auf **Rückgängig**.
 
@@ -158,7 +161,7 @@ Einige Veranstaltungsorte haben einen lausigen Internetzugang. Sie benötigen ei
 
 * Herunterladen und Installieren des Programms
 * Anmeldung
-* Auswählen eines Ereignisses
+* Ereignis auswählen
 * Synchronisieren der App mit Marketo
 
 Wenn Sie sich wegen des Internetzugangs am Veranstaltungsort Sorgen machen, können Sie sich bei der Marketo Events-App anmelden und Ihre Veranstaltung vorab an einem Ort mit starkem Internetzugang auswählen. Auf diese Weise können Sie die App weiterhin offline verwenden. Wenn Sie dann wieder eine Internetverbindung herstellen, synchronisieren Sie sofort mit der Marketo-Datenbank.

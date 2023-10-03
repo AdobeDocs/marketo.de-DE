@@ -4,9 +4,9 @@ description: Verstehen der E-Mail-Programmkarten - Marketo-Dokumente - Produktdo
 title: Grundlagen zu E-Mail-Programmkarten
 exl-id: c9de8334-4c42-44e4-aa73-9e82f25e5f00
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '378'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Grundlagen zu E-Mail-Programmkarten {#understanding-email-program-cards}
 
 Verwenden Sie Marketo Moments , um Ihre E-Mail-Programme von Ihrem Telefon oder iPad aus anzuzeigen.
+
+>[!IMPORTANT]
+>
+>Am 2. Oktober 2023 hat Adobe die Marketo Moments-App aus allen App Stores entfernt. Wenn Sie die App bereits auf Ihrem Tablet/Mobilgerät installiert haben, können Sie sie vorerst weiter verwenden. Sobald Ihre Marketo Engage-Instanz zur Authentifizierung von Marketo zu Adobe Identity migriert wurde, können Sie nicht mehr auf die App zugreifen. [Weitere Informationen](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 ## E-Mail-Programmkarten {#email-program-cards}
 

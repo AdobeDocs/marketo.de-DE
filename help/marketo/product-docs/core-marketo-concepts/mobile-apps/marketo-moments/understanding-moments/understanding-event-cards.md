@@ -4,16 +4,20 @@ description: Grundlagen zu Ereigniskarten - Marketo-Dokumente - Produktdokumenta
 title: Grundlagen zu Ereigniskarten
 exl-id: 21e14ede-7b94-4580-8a4c-1b18a3734eef
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 0%
+source-wordcount: '162'
+ht-degree: 1%
 
 ---
 
 # Grundlagen zu Ereigniskarten {#understanding-event-cards}
 
 Verwenden Sie Marketo Moments , um Ihre Veranstaltungsprogramme auf Ihrem Telefon oder iPad anzuzeigen.
+
+>[!IMPORTANT]
+>
+>Am 2. Oktober 2023 hat Adobe die Marketo Moments-App aus allen App Stores entfernt. Wenn Sie die App bereits auf Ihrem Tablet/Mobilgerät installiert haben, können Sie sie vorerst weiter verwenden. Sobald Ihre Marketo Engage-Instanz zur Authentifizierung von Marketo zu Adobe Identity migriert wurde, können Sie nicht mehr auf die App zugreifen. [Weitere Informationen](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 Wenn Sie auf eine E-Mail-Programmkarte tippen, haben Sie folgende Möglichkeiten:
 

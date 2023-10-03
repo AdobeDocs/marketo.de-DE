@@ -4,9 +4,9 @@ description: Verstehen von Marketo-Momenten - Marketo-Dokumente - Produktdokumen
 title: Grundlagen zu Marketo-Momenten
 exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
 feature: Mobile Marketing
-source-git-commit: 762b8206b1e4c748daae063a80e76cc028904d10
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '556'
+source-wordcount: '612'
 ht-degree: 5%
 
 ---
@@ -15,13 +15,13 @@ ht-degree: 5%
 
 Sie haben jetzt die leistungsstarken Funktionen von Marketo in der Hand – in jeder Hinsicht! Vorschau und Neuplanen von E-Mail direkt über Telefon oder iPad.
 
+>[!IMPORTANT]
+>
+>Am 2. Oktober 2023 hat Adobe die Marketo Moments-App aus allen App Stores entfernt. Wenn Sie die App bereits auf Ihrem Tablet/Mobilgerät installiert haben, können Sie sie vorerst weiter verwenden. Sobald Ihre Marketo Engage-Instanz zur Authentifizierung von Marketo zu Adobe Identity migriert wurde, können Sie nicht mehr auf die App zugreifen. [Weitere Informationen](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+
 >[!NOTE]
 >
->Die Zugriffsberechtigung für Mobile Apps ist erforderlich. Wenden Sie sich an Ihren Marketo-Administrator an [Rolle aktualisieren](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
-
->[!AVAILABILITY]
->
->Diese App ist nicht kompatibel mit [Identitätsauthentifizierung der Adobe](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} zu diesem Zeitpunkt.
+>_Zugriff auf mobile Apps_ -Berechtigung erforderlich ist. Wenden Sie sich an Ihren Marketo-Administrator an [Rolle aktualisieren](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
 ## Streams {#streams}
 

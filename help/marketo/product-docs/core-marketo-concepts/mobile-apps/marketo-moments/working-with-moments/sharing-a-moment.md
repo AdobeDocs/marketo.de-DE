@@ -4,16 +4,20 @@ description: Freigeben eines Augenblicks - Marketo-Dokumente - Produktdokumentat
 title: Teilen eines Augenblicks
 exl-id: e149f8d8-1405-43d2-aa0b-900796328a92
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '157'
 ht-degree: 2%
 
 ---
 
 # Teilen eines Augenblicks {#sharing-a-moment}
 
-Möchten Sie Ihr Team aktualisieren? Sie haben zwei Möglichkeiten, die Freigabe auszuwählen:
+Möchten Sie Ihr Team aktualisieren? Sie haben zwei Möglichkeiten, die Freigabe zu wählen.
+
+>[!IMPORTANT]
+>
+>Am 2. Oktober 2023 hat Adobe die Marketo Moments-App aus allen App Stores entfernt. Wenn Sie die App bereits auf Ihrem Tablet/Mobilgerät installiert haben, können Sie sie vorerst weiter verwenden. Sobald Ihre Marketo Engage-Instanz zur Authentifizierung von Marketo zu Adobe Identity migriert wurde, können Sie nicht mehr auf die App zugreifen. [Weitere Informationen](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 1. Tippen Sie auf **Freigeben** auf der Karte.
 
@@ -37,4 +41,4 @@ Möchten Sie Ihr Team aktualisieren? Sie haben zwei Möglichkeiten, die Freigabe
 
    ![](assets/image2015-7-14-16-3a18-3a16.png)
 
-   Großartig gemacht!
+   Gut gemacht!

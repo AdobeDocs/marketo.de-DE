@@ -4,16 +4,20 @@ description: Analytics-Karten - Marketo-Dokumente - Produktdokumentation
 title: Grundlagen zu Analytics-Karten
 exl-id: fc314ab8-4d29-44f5-bc45-71e6727ecc06
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '220'
-ht-degree: 0%
+source-wordcount: '288'
+ht-degree: 1%
 
 ---
 
 # Grundlagen zu Analytics-Karten {#understanding-analytics-cards}
 
 Zu Beginn eines jeden Monats bietet Marketo Moments drei verschiedene Berichtskarten: &quot;Akquirierte Leads&quot;, &quot;Neue Leads&quot;und &quot;Abmeldungen&quot;. Jedes zeigt Ihnen die monatliche Performance und den Trend über einen Zeitraum von sechs Monaten.
+
+>[!IMPORTANT]
+>
+>Am 2. Oktober 2023 hat Adobe die Marketo Moments-App aus allen App Stores entfernt. Wenn Sie die App bereits auf Ihrem Tablet/Mobilgerät installiert haben, können Sie sie vorerst weiter verwenden. Sobald Ihre Marketo Engage-Instanz zur Authentifizierung von Marketo zu Adobe Identity migriert wurde, können Sie nicht mehr auf die App zugreifen. [Weitere Informationen](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 ## Analytics-Karten {#analytics-cards}
 

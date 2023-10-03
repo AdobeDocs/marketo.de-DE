@@ -4,18 +4,22 @@ description: Smart Campaign-Karten - Marketo-Dokumente - Produktdokumentation
 title: Smart-Campaign-Karten
 exl-id: 2d7476aa-d33d-4c82-aef8-b340766b9526
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '514'
+source-wordcount: '582'
 ht-degree: 0%
 
 ---
 
 # Smart-Campaign-Karten {#understanding-smart-campaign-cards}
 
-Verwenden Sie Marketo Moments , um die einzelnen Ausführungen Ihrer Smart-Kampagnen über Ihr Smartphone oder iPad anzuzeigen. Die Smart-Kampagnenkarte &quot;Marketo Moments&quot;stellt einen einmaligen Ablauf einer Kampagne dar. Bei jeder Ausführung der Smart-Kampagne wird eine neue Karte angezeigt. Smart-Kampagnenkarten sind oben links mit einer Glühbirne markiert.
+Verwenden Sie Marketo-Momente , um die einzelnen Ausführungen Ihrer Smart-Kampagnen von Ihrem Smartphone oder iPad aus anzuzeigen. Die Karte Marketo Moments Smart Campaign stellt einen einmaligen Kampagnenstart dar. Bei jeder Ausführung der Smart-Kampagne wird eine neue Karte angezeigt. Smart-Campaign-Karten werden links oben mit einer Glühbirne markiert.
 
-Für zukünftige Smart-Kampagnen, die geplant, aber noch nicht ausgeführt werden, zeigt die Karte Marketo-Momente noch keine Kampagnenstatistiken an. Sie werden in einer zukünftigen Version erscheinen.
+>[!IMPORTANT]
+>
+>Am 2. Oktober 2023 hat Adobe die Marketo Moments-App aus allen App Stores entfernt. Wenn Sie die App bereits auf Ihrem Tablet/Mobilgerät installiert haben, können Sie sie vorerst weiter verwenden. Sobald Ihre Marketo Engage-Instanz zur Authentifizierung von Marketo zu Adobe Identity migriert wurde, können Sie nicht mehr auf die App zugreifen. [Weitere Informationen](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+
+Für zukünftige Smart-Kampagnen, die geplant, aber noch nicht ausgeführt werden, zeigt die Marketo-Karte Momente noch keine Kampagnenstatistiken an. Sie werden in einer zukünftigen Version erscheinen.
 
 ![](assets/image2015-9-23-10-3a1-3a5.png)
 
@@ -51,7 +55,7 @@ Für zukünftige Smart-Kampagnen, die geplant, aber noch nicht ausgeführt werde
 
    ![](assets/image2015-9-21-13-3a59-3a29.png)
 
-1. Sehen Sie diese beiden Punkte unten? Sie weisen darauf hin, dass mit dieser intelligenten Kampagne zwei E-Mails verbunden sind. Um Ergebnisse für die andere E-Mail anzuzeigen, wischen Sie den Bildschirm nach links. Hier finden Sie die Ergebnisse für die zweite E-Mail.
+1. Sehen Sie diese beiden Punkte unten? Sie weisen darauf hin, dass mit dieser Smart-Kampagne zwei E-Mails verbunden sind. Um Ergebnisse für die andere E-Mail anzuzeigen, wischen Sie den Bildschirm nach links. Hier finden Sie die Ergebnisse für die zweite E-Mail.
 
    ![](assets/image2015-9-21-14-3a4-3a51.png)
 
@@ -75,7 +79,7 @@ Es ist eine gute Idee, sich eine E-Mail anzusehen, bevor sie ausgeht. Oder sende
 
 Karten für nicht bestätigte Smart-Kampagnen sind grau, bis Sie sie bestätigen. Dann werden sie orange.
 
-1. Um eine nicht bestätigte Smart-Kampagnenkarte zu bestätigen, tippen Sie auf das Menü mit den drei Punkten für die Aktion .
+1. Um eine nicht bestätigte Smart-Campaign-Karte zu bestätigen, tippen Sie auf das Menü mit den drei Punkten für die Aktion .
 
    ![](assets/image2015-9-23-10-3a43-3a23.png)
 
@@ -93,7 +97,7 @@ Karten für nicht bestätigte Smart-Kampagnen sind grau, bis Sie sie bestätigen
 
 ## Abbrechen eines Smart-Campaign-Laufs {#canceling-a-smart-campaign-run}
 
-Sie können einen bestätigten, geplanten Smart-Kampagnenlauf abbrechen.
+Sie können einen bestätigten, geplanten Smart-Campaign-Lauf abbrechen.
 
 1. Tippen Sie auf das Menü mit den drei Punkten.
 
@@ -103,7 +107,7 @@ Sie können einen bestätigten, geplanten Smart-Kampagnenlauf abbrechen.
 
    ![](assets/image2015-9-22-14-3a35-3a33.png)
 
-1. Tippen **Ausführen abbrechen**. Wenn Sie sich in letzter Minute entscheiden, den Lauf nicht abzubrechen, tippen Sie auf **Niemals Mind** und die Smart-Kampagne wie geplant ausgeführt wird.
+1. Tippen **Ausführen abbrechen**. Wenn Sie sich in letzter Minute entscheiden, den Lauf nicht abzubrechen, tippen Sie auf **Niemals Mind** und die Smart-Kampagne wie geplant ausgeführt werden.
 
    ![](assets/image2015-9-22-14-3a41-3a26.png)
 
