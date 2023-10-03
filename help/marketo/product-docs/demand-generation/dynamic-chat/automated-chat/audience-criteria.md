@@ -2,10 +2,10 @@
 description: Zielgruppenkriterien - Marketo-Dokumente - Produktdokumentation
 title: Zielgruppenkriterien
 feature: Dynamic Chat
-exl-id: ffe62cb7-707d-4b6d-8a66-9240d111191a
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 95c4558e-0c0c-4623-bb7d-b6ac2f455c01
+source-git-commit: 46507c0caab93778e3afe6a39ff5a8e70d492233
 workflow-type: tm+mt
-source-wordcount: '569'
+source-wordcount: '593'
 ht-degree: 2%
 
 ---
@@ -95,6 +95,10 @@ Es gibt eine einfache Möglichkeit, Personen gezielt anzusprechen, die noch nich
 ## Mitgliedschaft {#membership}
 
 Verwenden Sie Marketo Engage Smart Lists für die Ziel-Audience Ihres Dialogfelds.
+
+>[!AVAILABILITY]
+>
+>Mitglied der Smart List oder Mitglied der List-Kriterien erfordert Dynamic Chat Prime. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).
 
 1. Nehmen Sie unter Mitgliedschaft **Mitglied der Smart List** und legen Sie es auf die Arbeitsfläche.
 
