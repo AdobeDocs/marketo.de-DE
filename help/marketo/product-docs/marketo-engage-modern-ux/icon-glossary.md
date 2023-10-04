@@ -3,10 +3,10 @@ description: Symbol Glossar - Marketo Docs - Produktdokumentation
 title: Symbol Glossar
 exl-id: 443dc653-4ecb-4daa-9a6d-e124a6be0329
 feature: Modern UX
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b635cecbdca47944dd92127b668a956fdc8c9509
 workflow-type: tm+mt
-source-wordcount: '237'
-ht-degree: 53%
+source-wordcount: '239'
+ht-degree: 52%
 
 ---
 
@@ -26,7 +26,7 @@ Nachstehend finden Sie die Symbole für die neue Adobe Marketo Engage-Benutzerob
   <tr>
    <td><strong>Nicht zutreffend</strong></td> 
    <td><img src="assets/account-smart-list.png"></td> 
-   <td>Konto-Smart-List</td> 
+   <td>Smart List-Konto</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-active.png"></td> 
@@ -99,6 +99,11 @@ Nachstehend finden Sie die Symbole für die neue Adobe Marketo Engage-Benutzerob
    <td>Ordner - archiviert</td> 
   </tr>
   <tr>
+   <td><img src="assets/classic-folder-shared.png"></td> 
+   <td><img src="assets/folder-shared.png"></td> 
+   <td>Ordner - freigegeben</td> 
+  </tr>
+  <tr>
    <td><img src="assets/classic-locked-folder.jpg"></td> 
    <td><img src="assets/folder-locked.png"></td> 
    <td>Ordner - gesperrt</td> 
@@ -126,7 +131,7 @@ Nachstehend finden Sie die Symbole für die neue Adobe Marketo Engage-Benutzerob
   <tr>
    <td><img src="assets/classic-landing-page.png"></td> 
    <td><img src="assets/landing-page.png"></td> 
-   <td>Landing Page</td> 
+   <td>Landingpage</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-landing-page-template.png"></td> 
@@ -171,7 +176,7 @@ Nachstehend finden Sie die Symbole für die neue Adobe Marketo Engage-Benutzerob
   <tr>
    <td><img src="assets/classic-smart-list.png"></td> 
    <td><img src="assets/smart-list.png"></td> 
-   <td>Intelligente Liste</td> 
+   <td>Smart List</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-smart-list-cached.png"></td> 
