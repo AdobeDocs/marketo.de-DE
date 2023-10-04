@@ -2,10 +2,10 @@
 description: Live-Chat-Übersicht - Marketo-Dokumente - Produktdokumentation
 title: Live-Chat-Übersicht
 feature: Dynamic Chat
-exl-id: f6563e73-4b6e-437d-bf8b-ec72a9b8bcb3
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 44e8b249-b534-4cec-a612-daa184acd266
+source-git-commit: 870dd6df82c605fffa6681d68867354084988bcd
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '348'
 ht-degree: 2%
 
 ---
@@ -19,6 +19,10 @@ Der Live-Chat ermöglicht es Website-Besuchern, mit Ihren Vertriebsmitarbeitern 
 Um mit dem Live-Chat zu beginnen, müssen Sie Ihre Live-Chat-Agenten als [Benutzer in Adobe Admin Console](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"} and give them the [Live Chat permission](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"}. Danach können Sie eine [Live-Chat-Karte](#using-the-live-chat-card) in ein neues oder vorhandenes Dialogfeld.
 
 Wenn Besucher über Ihr Dialogfeld einen Chat mit einem Agenten anfordern, haben Agenten mehrere [Benachrichtigungsoptionen](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}. When they click on the notification, they'll be taken to their [Agent Inbox](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md){target="_blank"} wo sie beginnen können, mit dem Besucher zu chatten.
+
+>[!NOTE]
+>
+>Der Live-Agent-Avatar verwendet das Profilbild aus dem Adobe-Kontoprofil des Agenten. Gehen Sie wie folgt vor, um das Bild zu aktualisieren [diese Schritte](https://helpx.adobe.com/manage-account/using/edit-adobe-account-personal-profile.html){target="_blank"}.
 
 ## Verwenden der Live-Chat-Karte {#using-the-live-chat-card}
 
