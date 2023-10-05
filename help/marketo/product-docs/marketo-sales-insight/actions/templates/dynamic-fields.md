@@ -3,16 +3,16 @@ description: Dynamische Felder - Marketo-Dokumente - Produktdokumentation
 title: Dynamische Felder
 exl-id: d9e52eae-d5bb-462f-8b7b-c28a560f6ea4
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 7c8703059d7d28afbf57f4f285ac972fb9d8fbef
 workflow-type: tm+mt
-source-wordcount: '487'
-ht-degree: 1%
+source-wordcount: '519'
+ht-degree: 0%
 
 ---
 
 # Dynamische Felder {#dynamic-fields}
 
-Wir ermöglichen es Ihnen, Ihre E-Mail-Vorlagen mit vordefinierten Attributen wie `{{first_name}}` oder `{{company}}`. Mithilfe dieser Felder können Sie mehrere Kontakte per E-Mail versenden und diese Felder automatisch ausfüllen lassen, ohne sie für jeden Kontakt einzeln eingeben zu müssen.
+Mit vordefinierten Attributen wie können Sie Ihre E-Mail-Vorlagen personalisieren `{{first_name}}` oder `{{company}}`. Mithilfe dieser Felder können Sie mehrere Kontakte per E-Mail versenden und diese Felder automatisch ausfüllen lassen, ohne sie für jeden Kontakt einzeln eingeben zu müssen.
 
 >[!TIP]
 >
@@ -20,13 +20,13 @@ Wir ermöglichen es Ihnen, Ihre E-Mail-Vorlagen mit vordefinierten Attributen wi
 
 ## Dynamisches Feld in eine Vorlage einfügen {#insert-a-dynamic-field-into-a-template}
 
-1. In **Vorlagen und Kampagnen**, suchen Sie die Vorlage, die Sie bearbeiten möchten, und klicken Sie auf **Vorlage bearbeiten**.
+1. In **Vorlagen und Kampagnen**, suchen Sie die zu bearbeitende Vorlage und klicken Sie auf **Vorlage bearbeiten**.
 
-1. Klicken **Dynamisches Feld einfügen**.
+1. Klicks **Dynamisches Feld einfügen**.
 
    >[!NOTE]
    >
-   >Wenn Sie Kontakte per E-Mail senden, die in Sales Insight-Aktionen vorhanden sind, können Sie die grundlegenden dynamischen Felder verwenden. Diese werden direkt vom Kontakt abgerufen.
+   >Wenn Sie Kontakte per E-Mail versenden, die in Sales Insight-Aktionen vorhanden sind, können Sie die grundlegenden dynamischen Felder verwenden. Diese werden direkt vom Kontakt abgerufen.
 
 Wenn Sie Kontakte per E-Mail versenden, die in Salesforce vorhanden sind, können Sie die dynamischen Felder von Salesforce nutzen. Diese beginnen alle mit &quot;sfdc&quot;. Solange Sie eine Verbindung zu Salesforce haben, rufen diese Felder direkt an den Lead/Kontakt in Salesforce auf, um Informationen in der Vorlage auszufüllen.
 
@@ -50,25 +50,28 @@ Fügen Sie dazu &quot;|&quot;hinter der dynamischen Feldbeschriftung hinzu und f
 
 Wenn Sie eine Vorlage in Sales Insight-Aktionen erstellen, empfehlen wir immer, dynamische Felder mithilfe der Variablen **Dynamisches Feld einfügen** Schaltfläche.
 
-Dieses Tool wird verwendet, um `auto-personalize your email` und sparen Ihnen unzählige Zeit `pulling information from the People page`.
+Mit diesem Tool wird `auto-personalize your email` und sparen Ihnen unzählige Zeit `pulling information from the People page`.
 
 | Dynamisches Feld | Anwendungsbeispiel für E-Mails |
 |---|---|
-| `{{company}}` | Marketo |
-| `{{company_friendly}}` | Marketo |
+| `{{company}}` | Adobe |
+| `{{company_friendly}}` | Adobe |
 | `{{first_name}}` | Keith |
-| `{{friendly_unsubscribe}}` | Wenn du nicht noch einmal von mir hören willst, gib mir bitte hier Bescheid |
-| `{{my_name}}` | Alan Bradley |
+| `{{team_unsubscribe}}` | Wenn Sie keine E-Mails mehr von uns erhalten möchten, klicken Sie hier . |
+| `{{friendly_unsubscribe}}` | Müde von allen E-Mails? Bitte lassen Sie es hier wissen |
+| `{{my_name}}` | Keith Flynn |
+| `{{my_signature}}` | Keith Flynn, Senior Technical Writer - Adobe |
 | `{{personal_email}}` | keith@pickyouremail.com |
 | `{{title}}` | Senior Technical Writer |
-| `{{work_website}}` | https://www.marketo.com |
+| `{{work_website}}` | https://www.adobe.com |
 
 **Was zu beachten ist**:
 
 * Wenn die Informationen eines Kontakts falsch eingegeben wurden oder auf der Seite &quot;Personen&quot;fehlen, werden sie nicht korrekt in Ihre Vorlage übernommen.
 * Der Unterschied zwischen `{{company}}` und `{{company_friendly}}` dass `{{company_friendly}}` wird jeden formalen Titel, wie z.B. Inc., LLC. etc., aus dem Namen Ihres Kontakts entfernen.
 * Bei Verwendung von `{{company_friendly}}`, stellen Sie sicher, dass Sie Inc. oder Co. mit einem Komma in den Kontaktdaten trennen. So wissen Sales Insight-Aktionen, was beim Einziehen des Werts entfernt werden muss.
-* Wir ermöglichen es Ihnen, Ihre E-Mail-Vorlagen mit vordefinierten Attributen wie `{{my_name}}` oder `{{my_title}}`. Diese Felder ermöglichen es Ihnen, sich schnell in Ihren E-Mail-Vorlagen zu referenzieren.
+* Mit vordefinierten Attributen wie können Sie Ihre E-Mail-Vorlagen personalisieren `{{my_name}}` oder `{{my_title}}`. Diese Felder ermöglichen es Ihnen, sich schnell in Ihren E-Mail-Vorlagen zu referenzieren.
+* Wenn Sie die `{{my_signature}}` dynamisches Feld, hängt das System die Signatur des Benutzers nicht automatisch an, um Duplikate zu vermeiden.
 
 >[!TIP]
 >
