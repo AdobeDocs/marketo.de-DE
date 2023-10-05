@@ -4,9 +4,9 @@ description: Glossar zu dynamischen Feldern - Marketo-Dokumente - Produktdokumen
 title: Glossar zu dynamischen Feldern
 exl-id: 28351ba9-53da-4408-9526-918200d9bd29
 feature: Marketo Sales Connect
-source-git-commit: 7c8703059d7d28afbf57f4f285ac972fb9d8fbef
+source-git-commit: cffe7a8734f79f887f3aad017a16fad4f04cda74
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '248'
 ht-degree: 1%
 
 ---
@@ -35,7 +35,7 @@ Mit diesem Tool wird `auto-personalize your email` und sparen Ihnen unzählige Z
 * Wenn die Informationen eines Kontakts falsch eingegeben wurden oder auf der Seite &quot;Personen&quot;fehlen, werden sie nicht korrekt in Ihre Vorlage übernommen.
 * Der Unterschied zwischen `{{company}}` und `{{company_friendly}}` dass `{{company_friendly}}` wird jeden formalen Titel, wie z.B. Inc., LLC. etc., aus dem Namen Ihres Kontakts entfernen.
 * Bei Verwendung von `{{company_friendly}}`, stellen Sie sicher, dass Sie Inc. oder Co. mit einem Komma in den Kontaktdaten trennen. So weiß Sales Connect, was beim Einziehen des Werts entfernt werden muss.
-* Wenn Sie die `{{my_signature}}` dynamisches Feld, hängt das System die Signatur des Benutzers nicht automatisch an, um Duplikate zu vermeiden.
+* Das System hängt die Signatur des Benutzers automatisch an jede gesendete E-Mail an. Wenn der Benutzer eine Vorlage mit der Variablen `{{my_signature}}` dynamisches Feld, füllt das System die Signatur, in der die `{{my_signature}}` das dynamische Feld platziert wurde. Es wird dort nur hinzugefügt, um Dopplungen zu vermeiden. Das System verarbeitet `{{team_unsubscribe}}` auf die gleiche Weise wie bei Aktivierung der globalen Einstellung zum Abmelden von Anhängen .
 
 >[!TIP]
 >

@@ -3,9 +3,9 @@ description: Dynamische Felder - Marketo-Dokumente - Produktdokumentation
 title: Dynamische Felder
 exl-id: d9e52eae-d5bb-462f-8b7b-c28a560f6ea4
 feature: Sales Insight Actions
-source-git-commit: 7c8703059d7d28afbf57f4f285ac972fb9d8fbef
+source-git-commit: cffe7a8734f79f887f3aad017a16fad4f04cda74
 workflow-type: tm+mt
-source-wordcount: '519'
+source-wordcount: '559'
 ht-degree: 0%
 
 ---
@@ -71,7 +71,7 @@ Mit diesem Tool wird `auto-personalize your email` und sparen Ihnen unzählige Z
 * Der Unterschied zwischen `{{company}}` und `{{company_friendly}}` dass `{{company_friendly}}` wird jeden formalen Titel, wie z.B. Inc., LLC. etc., aus dem Namen Ihres Kontakts entfernen.
 * Bei Verwendung von `{{company_friendly}}`, stellen Sie sicher, dass Sie Inc. oder Co. mit einem Komma in den Kontaktdaten trennen. So wissen Sales Insight-Aktionen, was beim Einziehen des Werts entfernt werden muss.
 * Mit vordefinierten Attributen wie können Sie Ihre E-Mail-Vorlagen personalisieren `{{my_name}}` oder `{{my_title}}`. Diese Felder ermöglichen es Ihnen, sich schnell in Ihren E-Mail-Vorlagen zu referenzieren.
-* Wenn Sie die `{{my_signature}}` dynamisches Feld, hängt das System die Signatur des Benutzers nicht automatisch an, um Duplikate zu vermeiden.
+* Das System hängt die Signatur des Benutzers automatisch an jede gesendete E-Mail an. Wenn der Benutzer eine Vorlage mit der Variablen `{{my_signature}}` dynamisches Feld, füllt das System die Signatur, in der die `{{my_signature}}` das dynamische Feld platziert wurde. Es wird dort nur hinzugefügt, um Dopplungen zu vermeiden. Das System verarbeitet `{{team_unsubscribe}}` auf die gleiche Weise wie bei Aktivierung der globalen Einstellung zum Abmelden von Anhängen .
 
 >[!TIP]
 >
