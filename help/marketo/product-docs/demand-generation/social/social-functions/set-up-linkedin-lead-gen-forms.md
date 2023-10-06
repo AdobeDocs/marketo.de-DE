@@ -4,9 +4,9 @@ description: Einrichten von LinkedIn Lead Gen Forms - Marketo Docs - Produktdoku
 title: Einrichten von LinkedIn Lead Gen Forms
 exl-id: 554a546c-adeb-4132-830d-ff15ba5cf9a1
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e1254c8156557b27d066a4482076becbd03fc774
 workflow-type: tm+mt
-source-wordcount: '433'
+source-wordcount: '471'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,19 @@ Verwenden Sie LinkedIn Lead Gen Forms, um Werbekampagnen in LinkedIn auszuführe
 >
 >**Erforderliche Administratorberechtigungen**
 
+>[!NOTE]
+>
+>Ein LinkedIn-Lead kommt nicht in die Marketo Engage, wenn er mit einem in Marketo vorhandenen Personendatensatz übereinstimmt, der mit einem mithilfe von Unternehmens-APIs erstellten Firmendatensatz verknüpft ist, und das Marketo-Abonnement nicht mit einem CRM verbunden ist.
+
 1. Navigieren zu Marketo **Admin**.
 
    ![](assets/image2016-11-29-10-3a50-3a29.png)
 
-1. Navigieren Sie zu **LaunchPoint** klicken Sie auf **Neu** und wählen Sie **Neuer Dienst**.
+1. Navigieren Sie zu **LaunchPoint**, klicken Sie auf **Neu** und wählen **Neuer Dienst**.
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
-1. Geben Sie einen **Anzeigename** Wählen Sie für Ihren Dienst die **linkedIn Lead Gen.** Dienst aus der Dropdown-Liste aus und klicken Sie auf **Nächste**.
+1. Geben Sie einen **Anzeigename** Wählen Sie für Ihren Dienst die **LinkedIn Lead Gen.** Dienst aus der Dropdown-Liste aus und klicken Sie auf **Nächste**.
 
    ![](assets/linkedin-lead-gen.png)
 
@@ -43,11 +47,11 @@ Verwenden Sie LinkedIn Lead Gen Forms, um Werbekampagnen in LinkedIn auszuführe
 
    ![](assets/linkedin-lead-gen-authorize.png)
 
-1. Wenn Sie dazu aufgefordert werden, klicken Sie auf **Zulassen** , um die Installation der Marketo-App in LinkedIn zu akzeptieren.
+1. Klicken Sie bei Aufforderung auf **Zulassen** , um die Installation der Marketo-App in LinkedIn zu akzeptieren.
 
    ![](assets/linkedin-marketo-allow.png)
 
-1. Du wirst feststellen, dass du jetzt autorisiert bist. Klicken **Nächste**.
+1. Du wirst feststellen, dass du jetzt autorisiert bist. Klicken Sie auf **Weiter**.
 
    ![](assets/image2017-9-28-7-3a55-3a14.png)
 
@@ -77,7 +81,7 @@ Verwenden Sie LinkedIn Lead Gen Forms, um Werbekampagnen in LinkedIn auszuführe
 
    ![](assets/linkedin-installed-services.png)
 
-Gut gemacht! Personen, die LinkedIn Lead Gen-Formulare senden, fließen beim Ausführen erfolgreicher Kampagnen auf LinkedIn-Seite in Marketo weiter.
+Schön gemacht! Personen, die LinkedIn Lead Gen-Formulare senden, fließen beim Ausführen erfolgreicher Kampagnen auf LinkedIn-Seite in Marketo weiter.
 
 >[!NOTE]
 >
