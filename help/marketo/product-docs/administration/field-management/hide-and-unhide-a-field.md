@@ -4,16 +4,16 @@ description: Ein Feld ausblenden und ausblenden - Marketo-Dokumente - Produktdok
 title: Ein Feld ausblenden und ausblenden
 exl-id: 14395c31-d0f4-4aec-8592-a60a764a7263
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 7663965cd18d52a7ad452be3076759c4be95bf98
 workflow-type: tm+mt
-source-wordcount: '183'
-ht-degree: 7%
+source-wordcount: '171'
+ht-degree: 8%
 
 ---
 
 # Ein Feld ausblenden und ausblenden {#hide-and-unhide-a-field}
 
-Wenn Sie ein Feld in Marketo nicht mehr verwenden, können Sie es über die Benutzeroberfläche ausblenden, damit es nicht mehr in der Anwendung angezeigt wird.
+Wenn Sie kein Feld mehr im Marketo Engage verwenden, können Sie es über die Benutzeroberfläche ausblenden, damit es nicht mehr in der Anwendung angezeigt wird.
 
 ## Feld ausblenden {#hide-a-field}
 
@@ -25,7 +25,7 @@ Wenn Sie ein Feld in Marketo nicht mehr verwenden, können Sie es über die Benu
 
    ![](assets/hide-and-unhide-a-field-1.png)
 
-1. Klicken **[!UICONTROL Feldverwaltung]**.
+1. Klicks **[!UICONTROL Feldverwaltung]**.
 
    ![](assets/hide-and-unhide-a-field-2.png)
 
@@ -35,9 +35,10 @@ Wenn Sie ein Feld in Marketo nicht mehr verwenden, können Sie es über die Benu
 
    >[!NOTE]
    >
-   >Um ein Feld auszublenden, darf es nicht mit anderen Assets (einschließlich archivierter) verknüpft werden. Achten Sie darauf, das Feld aus allen Smart-Listen, Flussschritt-Optionen, Formularen, E-Mails usw. zu entfernen, bevor Sie es ausblenden.
+   >* Um ein Feld auszublenden, darf es nicht mit anderen Assets (einschließlich archivierter Assets) verknüpft werden. Achten Sie darauf, das Feld aus allen Smart-Listen, Flussschrittoptionen, Formularen, E-Mails usw. zu entfernen, bevor Sie es ausblenden.
+   >* Standardfelder (System) können nicht ausgeblendet werden.
 
-1. Klicken **[!UICONTROL Ausblenden]** zur Bestätigung.
+1. Klicks **[!UICONTROL Ausblenden]** zur Bestätigung.
 
    ![](assets/hide-and-unhide-a-field-4.png)
 
@@ -51,16 +52,13 @@ Wenn Sie ein Feld in Marketo nicht mehr verwenden, können Sie es über die Benu
 
    ![](assets/hide-and-unhide-a-field-6.png)
 
-1. Klicken **[!UICONTROL Feldverwaltung]**.
+1. Klicks **[!UICONTROL Feldverwaltung]**.
 
    ![](assets/hide-and-unhide-a-field-7.png)
 
-1. Suchen und wählen Sie das Feld aus. Im [!UICONTROL Feldaktionen] Dropdown, klicken Sie auf **[!UICONTROL Feld einblenden]**.
+1. Wählen Sie das Feld aus. Im [!UICONTROL Feldaktionen] Dropdown, klicken Sie auf **[!UICONTROL Feld einblenden]**.
 
    ![](assets/hide-and-unhide-a-field-8.png)
 
-   Tolle Arbeit! Jetzt wissen Sie, wie Sie Felder wieder einblenden und wieder in der Benutzeroberfläche von Marketo sichtbar machen können.
+   Tolle Arbeit! Jetzt wissen Sie, wie Sie Felder wieder einblenden und wieder einblenden können.
 
-   >[!TIP]
-   >
-   >Muss eine Massenversteckung durchgeführt werden? Wenden Sie sich an Marketo Professional Services: services@marketo.com
