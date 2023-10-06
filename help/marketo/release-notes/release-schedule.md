@@ -4,10 +4,10 @@ description: Versionsplanung – Marketo-Dokumente – Produktdokumentation
 title: Veröffentlichungszeitplan
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 00038ada6a3712ccc06cb638125f2f6fb185a1c6
+source-git-commit: 72845f270a3490f273cd833c05ad9aec0549c84c
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 11%
+source-wordcount: '142'
+ht-degree: 7%
 
 ---
 
@@ -37,39 +37,45 @@ _Die Veröffentlichungsdaten können sich ändern_
    <th width="250px">Veröffentlichungsdatum</th>
    <th width="250px">Status</th>
   </tr>
-  <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2022/release-notes-oct-22.md">Oktober 22</a></td>
-   <td>14. Oktober 2022</td>
-   <td>Versendet</td>
-  </tr>
-  <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2023/release-notes-jan-23.md">Januar 23</a></td>
-   <td>20. Januar 2023</td>
-   <td>Versendet</td>
-  </tr>
-  <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2023/release-notes-mar-23.md">März '23</a></td>
-   <td>31. März 2023</td>
-   <td>Versendet</td>
-  </tr>
-  <tr>
-   <td><a href="/help/marketo/release-notes/previous-releases/2023/release-notes-may-23.md">Mai 23</a></td>
-   <td>12. Mai 2023</td>
-   <td>Versendet</td>
-  </tr>
-  <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2023/release-notes-july-23.md">Juli 23</a></td>
-   <td>21. Juli 2023</td>
-   <td>Versendet</td>
-  </tr>
-  <tr>
+
+<tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2023/release-notes-sep-23.md">September 23</a></td>
    <td>8. September 2023</td>
-   <td>In Arbeit</td>
+   <td>Versendet</td>
   </tr>
   <tr>
    <td><a href="/help/marketo/release-notes/current.md">Oktober 23</a></td>
    <td>6. Oktober 2023</td>
+   <td>In Arbeit</td>
+  </tr>
+  <tr> 
+   <td>Januar 24</td>
+   <td>12. Januar 2024</td>
+   <td>Zeitplan</td>
+  </tr>
+  <tr> 
+   <td>März '24</td>
+   <td>8. März 2024</td>
+   <td>Zeitplan</td>
+  </tr>
+  <tr> 
+   <td>April '24</td>
+   <td>26. April 2024</td>
+   <td>Zeitplan</td>
+  </tr>
+  <tr>
+   <td>Juni 24</td>
+   <td>7. Juni 2024</td>
+   <td>Zeitplan</td>
+  </tr>
+  <tr> 
+   <td>August '24</td>
+   <td>9. August 2024</td>
+   <td>Zeitplan</td>
+  </tr>
+  <tr> 
+   <td>Oktober 24</td>
+   <td>4. Oktober 2024</td>
    <td>Zeitplan</td>
   </tr>
  </tbody>
