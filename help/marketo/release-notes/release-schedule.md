@@ -4,10 +4,10 @@ description: Versionsplanung – Marketo-Dokumente – Produktdokumentation
 title: Veröffentlichungszeitplan
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 72845f270a3490f273cd833c05ad9aec0549c84c
+source-git-commit: aa7008300a32e3e6e311224ece73200add708e65
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 7%
+source-wordcount: '131'
+ht-degree: 8%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 7%
 
 **Version**: Der Monat/das Jahr jeder Version. Sobald die Versionshinweise verfügbar sind, werden sie in der folgenden Tabelle verlinkt.
 
-**Veröffentlichungsdatum**: Die Rollout beginnt normalerweise am Dienstag der Release-Woche, wobei der Großteil der Aktualisierung Freitagabend stattfindet. Eine E-Mail mit bestimmten Daten und Versionsinformationen wird gesendet. Das angegebene Datum ist für das Freitagsupdate.
+**Veröffentlichungsdatum**: Rollout beginnt normalerweise am Dienstag der Release-Woche, wobei mehr der Aktualisierung Freitagabend stattfindet. Das angegebene Datum ist für das Freitagsupdate.
 
 **Status**:
 
@@ -23,7 +23,7 @@ ht-degree: 7%
 * In Bearbeitung - Die Funktionen der Version werden derzeit eingeführt.
 * Versand - Die Version ist abgeschlossen.
 
-_Die Veröffentlichungsdaten können sich ändern_
+_Veröffentlichungstermine/-funktionen können sich ändern_
 
 <table> 
  <colgroup> 
