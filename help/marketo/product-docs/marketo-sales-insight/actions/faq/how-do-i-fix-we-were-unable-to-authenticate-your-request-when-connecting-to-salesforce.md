@@ -3,9 +3,9 @@ description: Wie behebe ich die Fehlermeldung "Wir konnten Ihre Anfrage nicht au
 title: Wie behebe ich bei der Verbindung mit Salesforce die Fehlermeldung "Wir konnten Ihre Anfrage nicht authentifizieren"?
 exl-id: ef876f0f-bd76-4ba5-bf48-885ee048ceae
 feature: Sales Insight Actions
-source-git-commit: b09bff5fe72e5cce86ab4664e264edb181fa3e5c
+source-git-commit: e6d939eca9731dc9df8ea506090a049e8741fa07
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '350'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Dieser Fehler zeigt normalerweise an, dass Sie über eine benutzerdefinierte Dom
 
 Wenn es sich bei der Instanz, mit der Sie eine Verbindung herstellen möchten, um eine Salesforce-Sandbox-Domäne handelt und Sie einen Fehler erhalten, müssen Sie zusätzliche Schritte ausführen, um Ihre Instanz so zu aktualisieren, dass sie mit Salesforce Sandbox kompatibel ist. [Weitere Informationen](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/set-up-a-sales-insight-actions-sandbox.md){target="_blank"}.
 
-## Beheben von blockierten OAuth-Apps und anderen Fehlertypen {#resolve-oauth-app-blocked-and-other-error-types}
+## Oauth App Blockierung auflösen {#resolve-oauth-app-blocked}
 
 Wenn Sie die Fehlermeldung &quot;Wir konnten Ihre Anfrage nicht authentifizieren&quot;mit dem Fehlertyp Oauth App Blocked oder einem anderen Typ in der URL erhalten, besteht möglicherweise eine Einschränkung Ihres Zugriffs auf die Salesforce-API. Wenden Sie sich an Ihren Salesforce-Administrator, um sicherzustellen, dass die folgenden Elemente vorhanden sind.
 
