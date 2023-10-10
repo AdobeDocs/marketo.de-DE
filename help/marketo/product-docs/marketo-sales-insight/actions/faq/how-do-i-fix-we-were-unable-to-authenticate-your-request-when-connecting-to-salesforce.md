@@ -3,7 +3,7 @@ description: Wie behebe ich die Fehlermeldung "Wir konnten Ihre Anfrage nicht au
 title: Wie behebe ich bei der Verbindung mit Salesforce die Fehlermeldung "Wir konnten Ihre Anfrage nicht authentifizieren"?
 exl-id: ef876f0f-bd76-4ba5-bf48-885ee048ceae
 feature: Sales Insight Actions
-source-git-commit: e6d939eca9731dc9df8ea506090a049e8741fa07
+source-git-commit: 0899b8cf9c97953d7212e79164d26d2f42dfeb23
 workflow-type: tm+mt
 source-wordcount: '350'
 ht-degree: 0%
@@ -33,7 +33,7 @@ Wenn es sich bei der Instanz, mit der Sie eine Verbindung herstellen möchten, u
 
 ## Oauth App Blockierung auflösen {#resolve-oauth-app-blocked}
 
-Wenn Sie die Fehlermeldung &quot;Wir konnten Ihre Anfrage nicht authentifizieren&quot;mit dem Fehlertyp Oauth App Blocked oder einem anderen Typ in der URL erhalten, besteht möglicherweise eine Einschränkung Ihres Zugriffs auf die Salesforce-API. Wenden Sie sich an Ihren Salesforce-Administrator, um sicherzustellen, dass die folgenden Elemente vorhanden sind.
+Wenn Sie die Fehlermeldung &quot;Wir konnten Ihre Anfrage nicht authentifizieren&quot;mit dem Fehlertyp Oauth App Blocked (oder einem anderen Typ) in der URL erhalten haben, kann es eine Einschränkung Ihres Zugriffs auf die Salesforce-API geben. Wenden Sie sich an Ihren Salesforce-Administrator, um sicherzustellen, dass die folgenden Elemente vorhanden sind.
 
 ### Aktivieren der API in Benutzerberechtigungen {#enable-api-in-user-permissions}
 
