@@ -4,9 +4,9 @@ description: Einrichten einer Trigger-Smart-Kampagne für den Vertrieb mit "Camp
 title: Einrichten einer Trigger-Smart-Kampagne für den Vertrieb mit "Campaign is Require"
 exl-id: ed6d7c27-d54b-48e3-af67-19503da4ef56
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 3916413a90e52a3423a8d7f78ad1c9eb45c2a219
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---
@@ -19,18 +19,18 @@ Eines der coolsten Merkmale von Marketo ist die Möglichkeit, Vertriebsmitarbeit
 >
 >Beispiele für anzufordernde Smart-Kampagnen:
 >
->1. **Langzeitpflege** - wenn sie in diesem Jahr kein Budget haben und Sie einfach nur auf dem Radar bleiben wollen
+>1. **Langfristige Pflege** - wenn sie in diesem Jahr kein Budget haben und Sie einfach nur auf dem Radar bleiben wollen
 >1. **Aktiver Verkaufszyklus** - wenn der Verkäufer keine Nachrichten an die Person mit Ausnahme ihrer eigenen wünscht. (verwenden Sie die Markierung für ausgesetzte Marketing, um sie vorübergehend abzumelden)
 >
->Sei kreativ! Was möchte der Verkäufer automatisieren? Fragen Sie sie einfach und verbinden Sie es!
+>Seien Sie kreativ! Was möchte der Verkäufer automatisieren? Fragen Sie sie einfach und verbinden Sie es!
 
 1. Erstellen Sie eine **Smart Campaign.**
 
-   ![](assets/image2015-5-20-16-3a3-3a25.png)
+   ![](assets/setting-up-a-trigger-smart-campaign-for-sales-1.png)
 
-1. Suchen und Ziehen **Kampagne wird angefordert** auf die Arbeitsfläche.
+1. Suchen und Ziehen **Kampagne wird angefordert** Trigger zur Arbeitsfläche.
 
-   ![](assets/campaignfilterdrag.png)
+   ![](assets/setting-up-a-trigger-smart-campaign-for-sales-2.png)
 
 1. Die Quellauswahl gibt an, welche Art von Anforderung berücksichtigt wird. Wählen Sie für die Salesforce-Funktion **Vertrieb** **Insight**.
 
@@ -40,10 +40,10 @@ Eines der coolsten Merkmale von Marketo ist die Möglichkeit, Vertriebsmitarbeit
    >
    >**Angaben**, indem Sie Sales Insight auswählen, wird es auf magische Weise in der Box für den Verkauf angezeigt. Übertreib es nicht! Zu viele werden von ihnen ignoriert.
 
-   ![](assets/image2015-5-20-17-3a56-3a56.png)
+   ![](assets/setting-up-a-trigger-smart-campaign-for-sales-3.png)
 
 So können Sie Ihre Marketing-Reichweite auf andere Abteilungen ausdehnen. Richten Sie zur Automatisierung alle Arten von Kampagnen ein.
 
 >[!TIP]
 >
->Vergessen Sie nicht, Ihre Smart-Kampagnen klar zu benennen. Sie werden in Sales Insight genau so angezeigt, wie Sie sie benennen.
+>Vergessen Sie nicht, Ihre Smart-Kampagnen klar zu benennen. Sie werden in Sales Insight genau so angezeigt, wie Sie sie nennen.
