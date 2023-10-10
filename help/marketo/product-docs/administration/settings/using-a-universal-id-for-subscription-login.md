@@ -4,9 +4,9 @@ description: Verwenden einer universellen ID für die Anmeldung von Abonnements 
 title: Verwendung einer universellen ID zur Anmeldung von Abonnements
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
 feature: Administration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 6ef584a5f405fd5b62c561b99924b8f169a22118
 workflow-type: tm+mt
-source-wordcount: '586'
+source-wordcount: '581'
 ht-degree: 1%
 
 ---
@@ -61,10 +61,10 @@ Wenn Sie mehrere Abonnements haben, können Sie über mehrere Community-Profile 
 
 ## Mobile Platform {#mobile-platform}
 
-Benutzer mit einer universellen ID können ihre Daten zu Marketo Moments und der iPad-Ereignisanmeldeanwendung aus dem Abonnement sehen, bei dem sie sich zuletzt angemeldet haben. An der Mobile-Plattform selbst können Sie keine Abonnements ändern.
+Benutzer mit universeller ID können ihre Daten in [Marketo-Momente](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md){target="_blank"} and the [event check-in application](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/event-check-in-overview.md){target="_blank"} aus dem Abonnement, bei dem sie sich zuletzt angemeldet haben. An der Mobile-Plattform selbst können Sie keine Abonnements ändern.
 
 >[!MORELIKETHIS]
 >
->* [Single Sign-On zu einem Portal hinzufügen](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
->* [Benutzeranmeldung auf SSO beschränken](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)
->* [Einladen von Marketo-Benutzern zu zwei Instanzen mit universeller ID](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
+>* [Single Sign-On zu einem Portal hinzufügen](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md){target="_blank"}
+>* [Benutzeranmeldung auf SSO beschränken](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md){target="_blank"}
+>* [Einladen von Marketo-Benutzern zu zwei Instanzen mit universeller ID](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122){target="_blank"}
