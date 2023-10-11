@@ -1,11 +1,11 @@
 ---
-description: Dynamic Chat-Integration - Marketo-Dokumente - Produktdokumentation
+description: Dynamic Chat-Integration - Marketo Docs - Produktdokumentation
 title: Dynamic Chat-Integration
 exl-id: b2e3b4da-9ca7-4299-9c50-f52e0de91e36
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 6e81a8891f7d6e5916549d453a694b42e08cd496
 workflow-type: tm+mt
-source-wordcount: '388'
+source-wordcount: '396'
 ht-degree: 5%
 
 ---
@@ -16,9 +16,11 @@ Erfahren Sie mehr über die Dynamic Chat-Integration mit Sales Insight.
 
 >[!PREREQUISITES]
 >
->* Ihr Sales Insight SFDC-Paket muss version sein. [1.9 oder höher](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}
+>* Ihr Sales Insight SFDC-Paket muss version sein [2.4.0 oder höher](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}
 >
 >* Sie müssen über die [Dynamic Chat-Integration](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} einrichten
+>
+>* Stellen Sie sicher, dass Ihr Sales Insight [Betriebseinstellungen](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md#operational-settings){target="_blank"}, you have the "API Secret Key" field populated. If you don't, learn how to retrieve it [here](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-sales-insight-in-marketo){target="_blank"}.
 
 ## Registerkarte &quot;Marketo Sales Insight-Konfiguration&quot; {#marketo-sales-insight-configuration-tab}
 
@@ -30,7 +32,7 @@ Gehen Sie wie folgt vor, um die Dynamic Chat-Integration zu aktivieren.
 
    ![](assets/dynamic-chat-integration-1.png)
 
-1. Wählen Sie die **Dynamic Chat-Daten aktivieren** aktivieren.
+1. Wählen Sie die **Dynamic Chat Data aktivieren** aktivieren.
 
    ![](assets/dynamic-chat-integration-2.png)
 
@@ -82,7 +84,7 @@ Die Bedienfelder &quot;Konto&quot;und &quot;Chancen&quot;umfassen ebenfalls die 
 
 Der Tab Chat ist auch in Ihrer Registerkarte Global Marketo enthalten. Es umfasst drei Aktivitätstypen (Dialog interagieren, Terminplanung, Ziel erreicht) sowie die folgenden Spalten:
 
-* Person
+* -Person
 * Konto
 * Aktivitätstyp (Dialogfeld &quot;Interagiert&quot;, Terminplanung, Ziel erreicht)
 * Dialogname
