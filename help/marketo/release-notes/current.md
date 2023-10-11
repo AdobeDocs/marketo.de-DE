@@ -3,7 +3,7 @@ description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokument
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: aead0cbadac353df1364ccc094dabfcbafcdac05
+source-git-commit: 60f9c584b0f73b74a1a1db2c0c6b2a030e01412c
 workflow-type: tm+mt
 source-wordcount: '340'
 ht-degree: 7%
@@ -26,8 +26,8 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
  <tbody> 
   <tr> 
    <th style="width:65%">Funktion</th> 
-   <th style="width:15%">Status</th>
-   <th style="width:20%">Dokumentation</th>
+   <th style="width:10%">Status</th>
+   <th style="width:25%">Dokumentation</th>
   </tr> 
   <tr> 
    <td><strong>Neues Design für die Berichtskonfiguration in moderner Benutzeroberfläche</strong>: Beim Einrichten eines Berichts-Assets verfügen Sie über eine <a href="https://nation.marketo.com/t5/product-blogs/analytic-modal-updates/ba-p/340321" target="_blank">neue Asset-Struktur</a> im Konfigurationsmenü sowie die Möglichkeit, nach dem erstellten und geänderten Datum zu filtern.</td> 
