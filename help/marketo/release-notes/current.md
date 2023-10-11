@@ -3,9 +3,9 @@ description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokument
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 215f32a43715b0e2d3794890e245675265748f09
+source-git-commit: aead0cbadac353df1364ccc094dabfcbafcdac05
 workflow-type: tm+mt
-source-wordcount: '337'
+source-wordcount: '340'
 ht-degree: 7%
 
 ---
@@ -53,8 +53,9 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
   </tr>
    <tr> 
    <td><strong>Aufzeichnung herunterladen und Co-Host in interaktiven Webinaren zuweisen</strong>: Sie können jetzt einen externen Co-Host für Ihr Webinar hinzufügen, falls der ursprüngliche Host nicht verfügbar ist. Sie können jetzt auch die Webinar-Aufzeichnung herunterladen.</td> 
-   <td><i>Demnächst verfügbar</i></td>
-   <td><i>Demnächst verfügbar</i></td>
+   <td>Versendet</td>
+   <td><li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md#webinar-recording" target="_blank">Aufnahme herunterladen</a></li>
+   <li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md" target="_blank">Erstellen eines interaktiven Webinars</a></li></td>
   </tr>
  </tbody> 
 </table>

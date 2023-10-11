@@ -3,9 +3,9 @@ description: Ereignis-Workflows - Marketo-Dokumente - Produktdokumentation
 title: Ereignis-Workflows
 exl-id: c9f44d9f-9210-4303-a9b5-22be1376efc4
 feature: Interactive Webinars
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: aead0cbadac353df1364ccc094dabfcbafcdac05
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '309'
 ht-degree: 0%
 
 ---
@@ -28,34 +28,45 @@ Das Dashboard besteht aus vier Widgets.
 
 **Teilnahme**: Zeigt die Dauer der Teilnahme verschiedener Mitglieder des Webinars im Vergleich zur Gesamtdauer des Webinars in Prozent an.
 
-**Umfrageleistung**: Zeigt die verschiedenen Umfragen an, die im Rahmen des von Adobe Connect unterstützten Webinars durchgeführt wurden, sowie die Verteilung der Teilnehmer, die an der Umfrage teilgenommen haben und auf die sie reagiert haben.
+**Umfrageleistung**: Zeigt die verschiedenen Umfragen an, die im Rahmen des von Adobe Connect unterstützten Webinars durchgeführt wurden, sowie die Verteilung der Teilnehmer, die an der Umfrage teilgenommen haben und auf die einzelnen Antworten reagiert haben.
 
-**Klick- und Dateidownload-Aktivität**: Stellt die Download-Anzahl der Dateien und Weblinks bereit, die im Webinar von Adobe Connect von verschiedenen Mitgliedern angeklickt wurden, die am Webinar teilgenommen haben und diese Aktion ausgeführt haben.
+**Klick- und Dateidownload-Aktivität**: Stellt die Download-Anzahl der Dateien und Weblinks bereit, die im Webinar mit Adobe Connect von verschiedenen Mitgliedern angeklickt wurden, die am Webinar teilgenommen haben und diese Aktion ausgeführt haben.
+
+## Webinar-Aufzeichnung {#webinar-recording}
+
+Gehen Sie zur Registerkarte Übersicht , um das aufgezeichnete Webinar anzuzeigen, den Link zum Freigeben zu erhalten und sogar eine Kopie herunterzuladen.
+
+![](assets/event-workflows-2.png)
+
+>[!NOTE]
+>
+>* Die Aufzeichnung wird im MP4-Format heruntergeladen.
+>* Wenn Sie die Aufzeichnung freigeben, kann sie von jedem Benutzer mit dem Link angezeigt werden. Stellen Sie daher sicher, dass sie für die gewünschte Zielgruppe freigegeben ist.
 
 ## Trigger und Filter {#triggers-and-filters}
 
 Verwenden Sie interaktive Webinar-bezogene Trigger und Filter, um bestimmte Personengruppen innerhalb Ihres Veranstaltungsprogramms zu finden.
 
-![](assets/event-workflows-2.png)
+![](assets/event-workflows-3.png)
 
 Jeder Trigger/Filter enthält zusätzliche Einschränkungen, mit denen Sie eine fokussierte Untergruppe dieser Gruppe erfassen können.
 
 **Fragen während des Ereignisses stellen** (Filterversion: Hat während des Ereignisses Fragen gestellt)
 
-![](assets/event-workflows-3.png)
-
-**Attends-Ereignis** (Filterversion: Hat an dem Ereignis teilgenommen)
-
 ![](assets/event-workflows-4.png)
 
-**Klicks auf einen Link** (Filterversion: Auf einen Link geklickt)
+**Attends-Ereignis** (Filterversion: Ereignis wurde hinzugefügt)
 
 ![](assets/event-workflows-5.png)
 
-**Herunterladen eines Assets** (Filterversion: Herunterladen eines Assets)
+**Klicks auf einen Link** (Filterversion: Auf einen Link geklickt)
 
 ![](assets/event-workflows-6.png)
 
-**Antworten auf eine Umfrage** (Filterversion: Antwort auf eine Umfrage)
+**Herunterladen eines Assets** (Filterversion: Asset heruntergeladen)
 
 ![](assets/event-workflows-7.png)
+
+**Antworten auf eine Umfrage** (Filterversion: Antwort auf eine Umfrage)
+
+![](assets/event-workflows-8.png)

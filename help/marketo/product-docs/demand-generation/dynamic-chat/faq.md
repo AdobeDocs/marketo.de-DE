@@ -2,9 +2,10 @@
 description: Dynamic Chat FAQ - Marketo Docs - Produktdokumentation
 title: Dynamic Chat-FAQs
 feature: Dynamic Chat
-source-git-commit: c4a02e1c365da6c56c94b119650e2c366cdc6641
+exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
+source-git-commit: aead0cbadac353df1364ccc094dabfcbafcdac05
 workflow-type: tm+mt
-source-wordcount: '756'
+source-wordcount: '780'
 ht-degree: 0%
 
 ---
@@ -23,7 +24,7 @@ Das Dynamic Chat JavaScript-Snippet kann auf jeder Website sowie auf Marketo-Lan
 
 **Unterstützt Dynamic Chat neben Englisch auch andere Sprachen?**
 
-Ja. Dynamic Chat unterstützt folgende Sprachen: Französisch, Deutsch, Japanisch, Spanisch, Italienisch, Portugiesisch (Brasilien), Koreanisch, Chinesisch (vereinfacht) und Chinesisch (traditionell). Weitere Informationen finden Sie unter [Ändern der Sprache](#changing-the-language).
+Ja. Dynamic Chat unterstützt folgende Sprachen: Französisch, Deutsch, Japanisch, Spanisch, Italienisch, Portugiesisch (Brasilien), Koreanisch, Chinesisch (vereinfacht) und Chinesisch (traditionell). Weitere Informationen finden Sie unter [Ändern der Sprache](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#changing-the-language){target="_blank"}.
 
 **Unterstützen Sie KI/NLP-Funktionen?**
 
@@ -80,6 +81,10 @@ Dies weist höchstwahrscheinlich darauf hin, dass Ihre Kalenderverbindung erneut
 **Was ist der Unterschied zwischen einem Dialog und einem Konversationsfluss?**
 
 Ein Dialogfeld ist eine Konversation, die Webbesuchern automatisch angezeigt wird, die einen bestimmten Satz von Targeting-Kriterien erfüllen. Ein Konversationsfluss wird nur Besuchern angezeigt, die eine bestimmte Aktion im Internet ausführen, z. B. durch Drücken einer Schaltfläche.
+
+**Gibt es eine Möglichkeit, mit Dynamic Chat Meetings direkt über eine E-Mail zu buchen?**
+
+Ja! [Informieren](https://nation.marketo.com/t5/product-blogs/using-dynamic-chat-conversational-flows-for-meeting-booking/ba-p/340936){target="_blank"}.
 
 **Kann ich Dynamic Chat ohne Marketo Engage verwenden?**
 
