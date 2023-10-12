@@ -3,10 +3,10 @@ description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokument
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 60f9c584b0f73b74a1a1db2c0c6b2a030e01412c
+source-git-commit: a69c6955f0390f791d8e45056967e8f0eb4699d7
 workflow-type: tm+mt
-source-wordcount: '340'
-ht-degree: 7%
+source-wordcount: '347'
+ht-degree: 6%
 
 ---
 
@@ -42,8 +42,8 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
   </tr>
    <tr> 
    <td><strong>Schrittdienst für die Berechnung des Formelflusses</strong>: Compute Formula Step Service, der auf einer Adobe IO Runtime-Plattform für die Verwendung mit Marketo Engage-Smart-Kampagnen erstellt wurde. Diejenigen mit IO-Laufzeit können den Dienst bereitstellen und in ihren Marketo Engage-Abonnements installieren, sodass sie Excel-ähnliche Formeln in Marketo Engage-Smart-Kampagnen berechnen können.</td> 
-   <td><i>Demnächst verfügbar</i></td>
-   <td><i>Demnächst verfügbar</i></td>
+   <td>Versendet</td>
+   <td><a href="https://nation.marketo.com/t5/product-documents/compute-formula-user-guide/ta-p/340633" target="_blank">Benutzerhandbuch zur Berechnung der Formel</a></td>
   </tr>
   <tr> 
    <td> </td> 
