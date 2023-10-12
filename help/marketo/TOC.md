@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: c4a02e1c365da6c56c94b119650e2c366cdc6641
+source-git-commit: 639bb1404117607af116122b410479d37ae32fad
 workflow-type: tm+mt
-source-wordcount: '9102'
+source-wordcount: '9094'
 ht-degree: 5%
 
 ---
@@ -192,7 +192,6 @@ ht-degree: 5%
          + [Marketo-Kennwort ändern](product-docs/administration/settings/change-your-marketo-password.md)
          + [Kennwortsicherheitseinstellungen ändern](product-docs/administration/settings/change-your-password-security-settings.md)
          + [Erstellen einer benutzerdefinierten Registerkarte für die Seite &quot;Personendetails&quot;](product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
-         + [Landingpage-URLs mit einem CNAME anpassen](product-docs/administration/settings/customize-your-landing-page-urls-with-a-cname.md)
          + [Kontoeinstellungen bearbeiten](product-docs/administration/settings/edit-account-settings.md)
          + [Browserunterstützungseinstellungen für &quot;Nicht verfolgen&quot; bearbeiten](product-docs/administration/settings/edit-do-not-track-browser-support-settings.md)
          + [Einstellungen der Landingpage bearbeiten](product-docs/administration/settings/edit-landing-page-settings.md)
@@ -672,7 +671,7 @@ ht-degree: 5%
             + [Agentenverwaltung](product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md)
             + [Sicherheitseinstellungen](product-docs/demand-generation/dynamic-chat/setup-and-configuration/security-settings.md)
             + [Routing](product-docs/demand-generation/dynamic-chat/setup-and-configuration/routing.md)
-      + Ereignisse {#events}
+      + -Ereignisse{#events}
          + Verstehen von Ereignissen {#understanding-events}
             + [Hinzufügen von Mitgliedern zu einem Veranstaltungsprogramm](product-docs/demand-generation/events/understanding-events/adding-members-to-an-event-program.md)
             + [Neues Ereignisprogramm erstellen](product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
