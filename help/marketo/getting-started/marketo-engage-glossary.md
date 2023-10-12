@@ -4,7 +4,7 @@ description: Marketo Engage-Glossar - Marketo Docs - Produktdokumentation
 title: Marketo Engage-Glossar
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
 feature: Getting Started
-source-git-commit: f41cb94d96d475e7ea063fb6fbbab3b2363f6346
+source-git-commit: 096936c8bc94bbbfc5213a6b45913b300f547b90
 workflow-type: tm+mt
 source-wordcount: '4176'
 ht-degree: 4%
@@ -24,7 +24,7 @@ Im Folgenden finden Sie Definitionen für viele der Begriffe, auf die Sie bei de
  </colgroup> 
  <tbody> 
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md" target="_blank">A/B-Tests</a></strong></td>
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md" target="_blank">-A/B-Tests</a></strong></td>
    <td colspan="1">Dient der Änderung von Komponenten Ihrer E-Mail (z. B. Betreffzeile, Adresszeile etc.) und legen Testkriterien fest, um festzustellen, welche Inhaltspakete besser sind.</td> 
   </tr> 
   <tr> 
@@ -172,7 +172,7 @@ Im Folgenden finden Sie Definitionen für viele der Begriffe, auf die Sie bei de
    <td colspan="1">In Marketo können Sie Duplikate verschiedener Entitätstypen innerhalb Ihrer Instanz erstellen. Sie können klonen <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md" rel="nofollow">Programme</a>, und <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md" rel="nofollow">Asset innerhalb eines Programms</a>, a <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md" rel="nofollow">stream</a>und mehr.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/administration/settings/customize-your-landing-page-urls-with-a-cname.md" rel="nofollow"><strong>CNAME</strong></a></td> 
+   <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md" rel="nofollow"><strong>CNAME</strong></a></td> 
    <td colspan="1">Der erste Teil Ihrer URL. Das eine Wort (plus YourCompany.com) wird als CNAME bezeichnet (z. B. <em>Info</em>.YourCompany.com/).</td> 
   </tr> 
   <tr> 
@@ -252,7 +252,7 @@ Im Folgenden finden Sie Definitionen für viele der Begriffe, auf die Sie bei de
    <td colspan="1">Ein Programmtyp in Marketo. Ein generisches Programm, das Sie verwenden, wenn ein E-Mail-, Ereignis- oder Interaktionsprogramm nicht relevant ist. <br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Zustellbarkeit</strong></td> 
+   <td colspan="1"><strong>Zustellbarkeit.</strong></td> 
    <td colspan="1">Die Fähigkeit einer E-Mail-Nachricht, den Posteingang des Empfängers zu erreichen, was sich auf Folgendes auswirken kann: <strong>Spam</strong> und clientseitige Filter. Im Unterschied zu "Zugestellt", der nur angibt, dass die E-Mail an den Empfänger-Server gesendet wurde.</td> 
   </tr> 
   <tr> 
@@ -468,7 +468,7 @@ Im Folgenden finden Sie Definitionen für viele der Begriffe, auf die Sie bei de
   <tr> 
    <td> 
     <div> 
-     <p><strong>Landing Page</strong></p> 
+     <p><strong>Landingpage</strong></p> 
     </div></td> 
    <td>Eine von Marketo gehostete Seite, auf der Sie <strong>content</strong> und Besucher verfolgen. Es gibt zwei verschiedene Typen: Freiform und Guided. <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md#free-form-pages" rel="nofollow">Landingpages mit Freiform</a> können Sie beliebige Inhalte an die gewünschte Position ziehen. <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md#guided-pages" rel="nofollow">Geführte Landingpages</a> sind strenger, wobei ein vordefiniertes Layout/eine vordefinierte Struktur durch die <strong>template</strong>.</td> 
   </tr> 
@@ -593,7 +593,7 @@ Im Folgenden finden Sie Definitionen für viele der Begriffe, auf die Sie bei de
    <td colspan="1"> Eine E-Mail, die ignoriert <strong>Abgemeldet</strong> und <strong>Marketing ausgesetzt</strong> -Status. Dient zur Verwendung für kritische oder automatische Antwort-E-Mails. Nicht für das Marketing bestimmt. Operative E-Mails werden nicht an Personen gesendet, die <strong>Auf die Blockierungsliste gesetzt</strong> oder <strong>Email Invalid</strong> -Status. <br></td> 
   </tr> 
   <tr> 
-   <td><strong>Opportunies</strong></td> 
+   <td><strong>Opportunitys</strong></td> 
    <td>Eine Chance kann mit einer <strong>person</strong> oder <strong>account</strong> als potenziellen künftigen Verkauf. Normalerweise gelangen sie über einen <strong>CRM</strong>oder über <strong>API</strong>.</td> 
   </tr> 
   <tr> 
@@ -631,7 +631,7 @@ Im Folgenden finden Sie Definitionen für viele der Begriffe, auf die Sie bei de
    <td colspan="1">Zuvor als Marketo Performance Insights (MPI) bezeichnet. Eine zusätzliche Analysefunktion, mit der Sie Trends erkennen und konsistente Gewinnstrategien ermitteln können.</td> 
   </tr> 
   <tr> 
-   <td><strong>Person</strong></td> 
+   <td><strong>-Person</strong></td> 
    <td>Eine Person in Ihrer Marketo <strong>Datenbank</strong> mit denen Sie über Marketingkampagnen interagieren.</td> 
   </tr> 
   <tr> 
@@ -847,7 +847,7 @@ Im Folgenden finden Sie Definitionen für viele der Begriffe, auf die Sie bei de
    <td colspan="1">Wenn eine <strong>person</strong> entscheidet sich dafür, keine Marketing-E-Mails mehr zu erhalten, ein weiterer Begriff für den Opt-out-Prozess.</td> 
   </tr> 
   <tr> 
-   <td><strong><a href="/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md#unsubscribed" rel="nofollow">Abgemeldet</a></strong></td> 
+   <td><strong><a href="/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md#unsubscribed" rel="nofollow">Hat abbestellt</a></strong></td> 
    <td>Ein Status, der anzeigt, dass der Empfänger ausgewählt hat, keine Marketing-E-Mails mehr zu empfangen. Personen, die als abgemeldet gekennzeichnet sind, erhalten möglicherweise weiterhin <strong>operative E-Mails</strong>.</td> 
   </tr> 
   <tr> 
