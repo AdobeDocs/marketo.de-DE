@@ -4,10 +4,10 @@ description: Überprüfen Sie Personen in Ihr Ereignis auf Ihrem Tablet - Market
 title: Personen in Ihr Ereignis einchecken über Ihr Tablet
 exl-id: b48f5f95-8e36-441f-a785-1651f42f9f60
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '859'
-ht-degree: 1%
+source-wordcount: '842'
+ht-degree: 0%
 
 ---
 
@@ -19,7 +19,7 @@ Wenn Personen bei Ihrer Veranstaltung angezeigt werden, finden Sie deren Informa
 >
 >Am 2. Oktober 2023 hat Adobe die Marketo Events App aus allen App Stores entfernt. Wenn Sie die App bereits auf Ihrem Tablet/Mobilgerät installiert haben, können Sie sie vorerst weiter verwenden. Sobald Ihre Marketo Engage-Instanz zur Authentifizierung von Marketo zu Adobe Identity migriert wurde, können Sie nicht mehr auf die App zugreifen. [Weitere Informationen](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
-Das Programm funktioniert sowohl auf iPad als auch auf Android gleich, mit Ausnahme von geringfügigen Layout- und Designunterschieden.
+Die App funktioniert auf beiden [!DNL iPad] und [!DNL Android], mit Ausnahme kleiner Unterschiede bei Layout und Design.
 
 >[!PREREQUISITES]
 >
@@ -27,19 +27,19 @@ Das Programm funktioniert sowohl auf iPad als auch auf Android gleich, mit Ausna
 
 ## Einchecken registrierter Gäste {#check-in-registered-guests}
 
-1. Tippen Sie auf das App-Symbol auf Ihrem iPad- oder Android-Tablet.
+1. Tippen Sie auf das App-Symbol auf Ihrem [!DNL iPad] oder [!DNL Android] Tablette.
 
-1. Tippen **Anmelden** , um die Marketo Event-App zu starten.
+1. Tippen **[!UICONTROL Anmelden]** , um die Marketo Event-App zu starten.
 
    ![](assets/1.jpg)
 
-1. Geben Sie Ihren Marketo-Benutzernamen und Ihr Kennwort ein und klicken Sie auf **Anmelden**.
+1. Geben Sie Ihren Marketo-Benutzernamen und Ihr Kennwort ein und klicken Sie auf **[!UICONTROL Anmelden]**.
 
    >[!NOTE]
    >
    >Sie müssen über eine Rolle mit Zugriff auf die Datenbank verfügen, um Personen in der App anzuzeigen.
 
-1. Wählen Sie eine **Ereignis**.
+1. Wählen Sie eine **[!UICONTROL Ereignis]**.
 
    ![](assets/2.jpg)
 
@@ -55,49 +55,49 @@ Das Programm funktioniert sowohl auf iPad als auch auf Android gleich, mit Ausna
 
    >[!NOTE]
    >
-   >Der Prozess ist in iPad und Android identisch, die Bildschirme unterscheiden sich jedoch, und die Elemente können sich an verschiedenen Orten befinden. In diesem Artikel wird die Benutzeroberfläche von iPad beschrieben. Vergleichen Sie den Android-Bildschirm in diesem Abschnitt zur Referenz.
+   >Der Prozess ist derselbe auf [!DNL iPad] und [!DNL Android], aber die Bildschirme unterscheiden sich, und die Elemente können sich an verschiedenen Positionen befinden. Dieser Artikel enthält die [!DNL iPad] -Schnittstelle. Vergleichen Sie die [!DNL Android] in diesem Abschnitt als Referenz.
 
-   **iPad**
+   **[!DNL iPad]**
 
    ![](assets/image2016-4-15-11-3a55-3a11.png)
 
-   **Android**
+   **[!DNL Android]**
 
    ![](assets/image2016-4-15-14-3a50-3a19.png)
 
-1. Tippen Sie auf den ausgewählten Namen und tippen Sie im Personendatensatz auf **Einchecken**.
+1. Tippen Sie auf den ausgewählten Namen und tippen Sie im Personendatensatz auf **[!UICONTROL Einchecken]**.
 
    ![](assets/img-0068-35-hands.png)
 
-Der Gast hat jetzt den Status &quot;Geplant&quot;und erhält ein Häkchen. Der Personendatensatz wird bei der Synchronisierung mit Marketo aktualisiert. Der rote Zähler auf der Schaltfläche Synchronisieren wird erhöht und zeigt die Anzahl der Check-ins seit der letzten Synchronisation mit Marketo an. Die Schaltfläche &quot;Synchronisieren&quot;sieht anders aus und befindet sich an einem anderen Speicherort für iPad und Android:
+Der Gast hat jetzt den Status &quot;Geplant&quot;und erhält ein Häkchen. Der Personendatensatz wird bei der Synchronisierung mit Marketo aktualisiert. Der rote Zähler auf der Schaltfläche Synchronisieren wird erhöht und zeigt die Anzahl der Check-ins seit der letzten Synchronisation mit Marketo an. Die Schaltfläche &quot;Synchronisieren&quot;sieht anders aus und befindet sich an einem anderen Speicherort für [!DNL iPad] und [!DNL Android]:
 
-**iPad**
+**[!DNL iPad]**
 
 ![](assets/image2016-4-12-14-3a25-3a13.png)
 
-**Android**
+**[!DNL Android]**
 
 ![](assets/image2016-4-15-14-3a58-3a6.png)
 
 >[!TIP]
 >
->Wenn eine Person eingeladen, sich aber nicht registriert hat, können Sie nach dem Namen suchen, indem Sie auf **Suche auf dem Server**, direkt unter dem Suchfeld. Der Status Eingeladen ändert sich in **Angemeldet** für das Ereignis.
+>Wenn eine Person eingeladen, sich aber nicht registriert hat, können Sie nach dem Namen suchen, indem Sie auf **[!UICONTROL Suche auf dem Server]**, direkt unter dem Suchfeld. Der Status Eingeladen ändert sich in **[!UICONTROL Angemeldet]** für das Ereignis.
 
 ## Erstellen einer neuen Person auf der Registerkarte {#create-a-new-person-on-the-tablet}
 
 Sie können in Ihrer Marketo-Datenbank nicht vorhandene Gäste manuell hinzufügen. Sie werden automatisch eingecheckt und Ihrer Datenbank hinzugefügt, wenn Sie mit Marketo synchronisieren.
 
-1. Klicks **Hinzufügen**.
+1. Klicks **[!UICONTROL Hinzufügen]**.
 
-   **iPad**
+   **[!DNL iPad]**
 
    ![](assets/image2016-4-15-11-3a58-3a51.png)
 
-   **Android**
+   **[!DNL Android]**
 
    ![](assets/image2016-4-15-15-3a2-3a38.png)
 
-1. Füllen Sie so viele grundlegende Informationsfelder wie möglich aus und tippen Sie auf **Fertig**.
+1. Füllen Sie so viele grundlegende Informationsfelder wie möglich aus und tippen Sie auf **[!UICONTROL Fertig]**.
 
    ![](assets/image2016-4-15-11-3a33-3a59.png)
 
@@ -115,7 +115,7 @@ Die neue Person wird als bei Ihrem Ereignis eingecheckt und bei der Synchronisie
 
 Wenn Sie versehentlich bei einer Person eingecheckt haben _vor der Synchronisierung mit Marketo_ können Sie den Status &quot;Geplant&quot;umkehren.
 
-1. Tippen Sie auf den Namen in der Liste und im Personendatensatz auf **Rückgängig**.
+1. Tippen Sie auf den Namen in der Liste und im Personendatensatz auf **[!UICONTROL Rückgängig]**.
 
    ![](assets/image2016-4-15-11-3a38-3a31.png)
 
@@ -125,17 +125,17 @@ Wenn Sie versehentlich bei einer Person eingecheckt haben _vor der Synchronisier
 
 Sie können Gastinformationen direkt bei der Veranstaltung hinzufügen und ändern!
 
-1. Tippen Sie auf den Namen in der Personenliste und dann auf **Bearbeiten**.
+1. Tippen Sie auf den Namen in der Personenliste und dann auf **[!UICONTROL Bearbeiten]**.
 
    ![](assets/image2016-4-15-11-3a43-3a46.png)
 
-1. Bearbeiten Sie die Felder und fügen Sie Informationen hinzu. Tippen Sie dann auf **Fertig**.
+1. Bearbeiten Sie die Felder und fügen Sie Informationen hinzu. Tippen Sie dann auf **[!UICONTROL Fertig]**.
 
    ![](assets/image2016-4-15-11-3a50-3a18.png)
 
    >[!NOTE]
    >
-   >Unter Android wird die **Fertig** -Schaltfläche ausgeblendet sein. Scrollen Sie nach unten, um ihn zu finden.
+   >In [!DNL Android], die **[!UICONTROL Fertig]** -Schaltfläche ausgeblendet sein. Scrollen Sie nach unten, um ihn zu finden.
 
 Die Informationen werden aktualisiert, wenn Sie die App mit Marketo synchronisieren.
 
@@ -149,7 +149,7 @@ Die Marketo Events-App funktioniert unabhängig, bis Sie Ihre Aktivität wieder 
 
 1. Öffnen Sie auf Ihrem Tablet die App und navigieren Sie zu Ihrem Ereignis.
 
-1. Tippen **Synchronisieren**.
+1. Tippen **[!UICONTROL Synchronisieren]**.
 
    Ihr Ereignis wird mit neuen Check-ins in der Marketo-Datenbank aktualisiert. Der rote Zähler auf der Synchronisierungsschaltfläche wird gelöscht, bis Sie einen anderen Benutzer einchecken.
 

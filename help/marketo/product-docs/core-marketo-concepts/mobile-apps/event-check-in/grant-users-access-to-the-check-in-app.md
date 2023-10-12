@@ -4,16 +4,16 @@ description: Gewähren Sie Benutzern Zugriff auf die Eincheckanwendung - Marketo
 title: Benutzern Zugriff auf die Check-in-App gewähren
 exl-id: 898ac49f-a708-4cdf-b341-58582740a45b
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
 
 # Benutzern Zugriff auf die Check-in-App gewähren {#grant-users-access-to-the-check-in-app}
 
-Marketo hat eine besondere Benutzerrolle für die Check-in-App für Ereignisse. Hier erfahren Sie, wie Sie eine neue Rolle mit der Berechtigung zur Verwendung der App erstellen.
+Marketo Engage hat eine besondere Benutzerrolle für die Check-in-App für Ereignisse. Hier erfahren Sie, wie Sie eine neue Rolle mit der Berechtigung zur Verwendung der App erstellen.
 
 >[!IMPORTANT]
 >
@@ -21,19 +21,19 @@ Marketo hat eine besondere Benutzerrolle für die Check-in-App für Ereignisse. 
 
 ## Neue Benutzerrolle für Mobilgeräte erstellen {#create-a-new-user-role-for-mobile}
 
-1. Klicks **Admin**.
+1. Klicks **[!UICONTROL Admin]**.
 
    ![](assets/image2015-6-2-10-3a39-3a31.png)
 
-1. Klicks **Benutzer und Rollen**.
+1. Klicks **[!UICONTROL Benutzer und Rollen]**.
 
    ![](assets/image2015-6-2-10-3a56-3a0.png)
 
-1. Klicken Sie auf **Rollen** Registerkarte und klicken Sie dann auf **Neue Rolle**.
+1. Klicken Sie auf **[!UICONTROL Rollen]** Registerkarte und klicken Sie dann auf **[!UICONTROL Neue Rolle]**.
 
    ![](assets/image2015-6-2-11-3a3-3a23.png)
 
-1. Geben Sie einen Namen für die neue Rolle und eine optionale Beschreibung ein. Überprüfen Sie die **Auf Mobile App zugreifen** und klicken Sie auf **Erstellen**.
+1. Geben Sie einen Namen für die neue Rolle und eine optionale Beschreibung ein. Überprüfen Sie die **[!UICONTROL Auf Mobile App zugreifen]** und klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/image2015-6-2-11-3a4-3a58.png)
 
@@ -41,15 +41,15 @@ Marketo hat eine besondere Benutzerrolle für die Check-in-App für Ereignisse. 
 
 ## Einladen neuer Benutzer zum Einchecken der App {#invite-new-users-for-the-check-in-app}
 
-1. Klicken Sie auf **Benutzer** Registerkarte.
+1. Klicken Sie auf **[!UICONTROL Benutzer]** Registerkarte.
 
    ![](assets/image2015-6-2-11-3a10-3a42.png)
 
-1. Klicks **Neuen Benutzer einladen**.
+1. Klicks **[!UICONTROL Neuen Benutzer einladen]**.
 
    ![](assets/image2015-6-2-11-3a11-3a32.png)
 
-1. Geben Sie die Informationen des neuen Benutzers ein. Aktivieren Sie die Kontrollkästchen für alle entsprechenden Rollen und die neue Rolle mit der Berechtigung zum Zugriff auf die Mobile App. Klicks **Einladen** wenn Sie fertig sind.
+1. Geben Sie die Informationen des neuen Benutzers ein. Aktivieren Sie die Kontrollkästchen für alle entsprechenden Rollen und die neue Rolle mit der Berechtigung zum Zugriff auf die Mobile App. Klicks **[!UICONTROL Einladen]** wenn Sie fertig sind.
 
    ![](assets/image2015-6-2-11-3a16-3a26.png)
 

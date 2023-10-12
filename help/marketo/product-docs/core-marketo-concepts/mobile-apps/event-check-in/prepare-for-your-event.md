@@ -4,9 +4,9 @@ description: Vorbereitung auf Ihr Ereignis - Marketo-Dokumente - Produktdokument
 title: Vorbereitung auf Ihr Ereignis
 exl-id: 30754c2e-dad0-4275-b5b3-f31680a62c42
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '408'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Es gibt mehrere Dinge, die Sie tun müssen, um sich auf die Veranstaltung vorzub
 
 ## Neue Marketo-Rolle erstellen {#create-a-new-marketo-role}
 
-Marketo hat eine besondere Benutzerrolle für die Check-in-App für Ereignisse. [Neue Marketo-Rolle erstellen](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) für Benutzer von iPad oder Android mit Zugriffsberechtigung auf die Mobile App.
+Marketo hat eine besondere Benutzerrolle für die Check-in-App für Ereignisse. [Neue Marketo-Rolle erstellen](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) für [!DNL iPad] oder [!DNL Android] Benutzer mit Zugriffsberechtigung auf die Mobile App.
 
 ## Einladen neuer Tablet-Benutzer zum Ereignis {#invite-new-tablet-users-to-the-event}
 
@@ -39,7 +39,7 @@ Es ist ein Kinderspiel, Ihre Ereignisdaten festzulegen.
 
    ![](assets/image2016-4-6-15-3a27-3a35.png)
 
-1. Zur Änderung verschieben **Tentativ** nach **Bestätigt**.
+1. Zur Änderung verschieben **[!UICONTROL Tentativ]** nach **[!UICONTROL Bestätigt]**.
 
    ![](assets/image2016-4-6-15-3a30-3a57.png)
 
@@ -49,29 +49,29 @@ Es ist ein Kinderspiel, Ihre Ereignisdaten festzulegen.
 
 ## Hinzufügen von Personen zu einem Ereignis {#add-people-to-your-event}
 
-Jetzt, da Sie wissen, *when*, ist es an der Zeit, die *who*.
+Jetzt, da Sie wissen, _when_, ist es an der Zeit, die *who*.
 
-1. Wenn Sie bereits über eine Personenliste verfügen, klicken Sie in My Marketo auf die **Datenbank** Kachel.
+1. Wenn Sie bereits über eine Personenliste verfügen, klicken Sie in My Marketo auf die **[!UICONTROL Datenbank]** Kachel.
 
    ![](assets/db.png)
 
-1. Wählen Sie eine Liste mit Personen aus und klicken Sie auf die **Personen** Registerkarte.
+1. Wählen Sie eine Liste mit Personen aus und klicken Sie auf die **[!UICONTROL Personen]** Registerkarte.
 
    ![](assets/four.png)
 
-1. Wählen Sie die Personen für Ihr Ereignis aus der Liste aus. Verwendung **Strg** (oder **Befehl** auf einer Mac), um auf mehrere Personen zu klicken, oder **Alle auswählen** um sie alle zu markieren.
+1. Wählen Sie die Personen für Ihr Ereignis aus der Liste aus. Verwendung **[!UICONTROL Strg]** (oder **[!UICONTROL Befehl]** auf einer Mac), um auf mehrere Personen zu klicken, oder **[!UICONTROL Alle auswählen]** um sie alle zu markieren.
 
    ![](assets/five.png)
 
-1. Klicks **Personenaktionen**, bewegen Sie den Mauszeiger über **Programme** und wählen **Ändern des Programmstatus**.
+1. Klicks **[!UICONTROL Personenaktionen]**, bewegen Sie den Mauszeiger über **[!UICONTROL Programme]** und wählen **[!UICONTROL Ändern des Programmstatus]**.
 
    ![](assets/six.png)
 
-1. Klicken Sie auf **Programm** und wählen Sie Ihr Ereignis aus.
+1. Klicken Sie auf **[!UICONTROL Programm]** und wählen Sie Ihr Ereignis aus.
 
    ![](assets/seven.png)
 
-1. Klicken Sie auf **Neuer Status** und wählen Sie **Roadshow > Registriert**. Klicks **Jetzt ausführen**.
+1. Klicken Sie auf **[!UICONTROL Neuer Status]** und wählen Sie **[!UICONTROL Roadshow] > [!UICONTROL Angemeldet]**. Klicks **[!UICONTROL Jetzt ausführen]**.
 
    ![](assets/eight.png)
 

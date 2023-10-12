@@ -4,9 +4,9 @@ description: Analytics-Karten - Marketo-Dokumente - Produktdokumentation
 title: Grundlagen zu Analytics-Karten
 exl-id: fc314ab8-4d29-44f5-bc45-71e6727ecc06
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '285'
 ht-degree: 1%
 
 ---
@@ -51,17 +51,15 @@ Die **Erworbene Leads** -Karte zeigt Ihnen einen Trend-Monatsbericht zur Anzahl 
 
 ## Neue Leads {#new-leads}
 
-Die **Neue Leads** zeigt Ihnen einen Trend-Monatsbericht zur Gesamtanzahl neuer Leads in Ihrer Instanz in den letzten sechs Monaten.
+Die **[!UICONTROL Neue Leads]** zeigt Ihnen einen Trend-Monatsbericht zur Gesamtanzahl neuer Leads in Ihrer Instanz in den letzten sechs Monaten.
 
 ![](assets/image2015-6-30-14-3a33-3a23.png)
 
 ## Abbestellungen {#unsubscribes}
 
-Die **Abmeldungen** zeigt Ihnen einen monatlichen Trendbericht über Ihre Abmelderate in den letzten sechs Monaten.
+Die **[!UICONTROL Abmeldungen]** zeigt Ihnen einen monatlichen Trendbericht über Ihre Abmelderate in den letzten sechs Monaten.
 
 ![](assets/image2015-6-30-14-3a29-3a3.png)
-
-Jetzt weißt du es.
 
 >[!MORELIKETHIS]
 >

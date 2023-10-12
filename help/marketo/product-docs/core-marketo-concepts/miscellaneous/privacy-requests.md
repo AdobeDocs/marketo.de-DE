@@ -2,10 +2,10 @@
 description: Datenschutzanfragen - Marketo-Dokumente - Produktdokumentation
 title: Datenschutzanfragen
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
-source-git-commit: 5aa75cc35ef8d39983563ab34b075ae580f9a97b
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '367'
-ht-degree: 1%
+source-wordcount: '354'
+ht-degree: 3%
 
 ---
 
@@ -17,32 +17,31 @@ Dieses Dokument bietet einen Überblick über die Verwaltung individueller Daten
 >
 >Datenschutzanfragen, die über die Privacy Service-Benutzeroberfläche oder -API zum Marketo Engage gesendet werden, gelten nur für Folgendes:
 >
->* Marketo Engage-Benutzer, die mit Adobe Identity Management System integriert sind
+>* Marketo Engage-Benutzer, die an Adobe Identity Management System angeschlossen sind
 >
 >**-oder-**
 >
->* Marketo Engage-Anwender, die ein anderes Experience Cloud-Produkt verwenden, das bereits im Adobe Identity Management-System installiert ist (z. B. RT-CDP, B2B- und B2P-Editionen, Audience Manager).
+>* Marketo Engage-Anwender, die ein anderes Experience Cloud-Produkt verwenden, das bereits auf dem Adobe-Identity Management-System installiert ist (z. B. RT-CDP, B2B und B2P Editions, Audience Manager).
 
+Sie können individuelle Anfragen zum Zugriff auf und zum Löschen von Verbraucherdaten aus dem Marketo Engage auf zwei Arten senden:
 
-Sie können individuelle Anfragen zum Zugriff auf und zum Löschen von Verbraucherdaten aus Marketo Engage auf zwei Arten senden:
+* Durch die [Privacy Service-Benutzeroberfläche](https://privacyui.cloud.adobe.io/). Siehe die Dokumentation . [here](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html?lang=de){target="_blank"}.
+* Über die Privacy Service-API. Siehe die Dokumentation . [here](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target="_blank"} and API information [here](https://developer.adobe.com/experience-platform-apis/){target="_blank"}.
 
-* Durch die [Privacy Service-Benutzeroberfläche](https://privacyui.cloud.adobe.io/). Weitere Informationen finden Sie in der Dokumentation [here](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html){target=&quot;_blank&quot;}.
-* Über die Privacy Service-API. Weitere Informationen finden Sie in der Dokumentation [here](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target=&quot;_blank&quot;} und API-Informationen [here](https://developer.adobe.com/experience-platform-apis/){target=&quot;_blank&quot;}.
+Die [Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html){target="_blank"} unterstützt zwei Arten von Anfragen: Datenzugriff und Datenlöschung.
 
-Die [Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html){target=&quot;_blank&quot;} unterstützt zwei Anforderungstypen: Datenzugriff und Datenlöschung.
+Im Folgenden wird beschrieben, wie Sie Zugriffs- und Löschanfragen erstellen können.
 
-Sehen wir uns an, wie Sie Zugriffs- und Löschanfragen erstellen können.
+## Erforderliche Einrichtung zum Senden von Anfragen für Marketo Engage {#required-setup-to-send-requests-for-marketo-engage}
 
-## Erforderliche Einrichtung zum Senden von Anforderungen an Marketo Engage {#required-setup-to-send-requests-for-marketo-engage}
-
-Um Anforderungen an Zugriffs- und Löschdaten für Marketo Engage zu stellen, müssen Sie:
+Um Anfragen zum Zugreifen auf und Löschen von Daten für Marketo Engage zu stellen, müssen Sie:
 
 1. Identifizieren Sie Folgendes:
 
    a. Kennung der IMS-Organisation<br/>
 b. E-Mail-Adresse der Person, auf die Sie reagieren möchten
 
-   Eine IMS-Organisations-ID ist eine 24-stellige alphanumerische Zeichenfolge, die an @AdobeOrg angehängt wird. Wenn Ihr Marketing-Team oder Ihr Systemadministrator des internen Adobe die IMS-Organisations-ID Ihres Unternehmens nicht kennen, wenden Sie sich an die Kundenunterstützung von Adobe unter gdprsupport@adobe.com. Sie benötigen die IMS-Organisations-ID, um Anfragen an die Datenschutz-API zu senden.
+   Eine IMS-Organisations-ID ist eine 24-stellige alphanumerische Zeichenfolge, die an @AdobeOrg angehängt wird. Wenn Ihr Marketingteam oder Ihr Adobe-Systemadministrator die IMS-Organisations-ID Ihres Unternehmens nicht kennen, wenden Sie sich an die Adobe-Kundenunterstützung unter `gdprsupport@adobe.com`. Sie benötigen die IMS-Organisations-ID, um Anfragen an die Datenschutz-API zu senden.
 
 1. In Privacy Service können Sie Zugriffs- und Löschanfragen an Marketo Engage senden und den Status vorhandener Anfragen überprüfen.
 
@@ -51,15 +50,15 @@ b. E-Mail-Adresse der Person, auf die Sie reagieren möchten
 &quot;companyContexts&quot;:
 
 * &quot;namespace&quot;: **imsOrgID**
-* “Wert”: `<Your IMS Org ID Value>`
+* &quot;Wert&quot;: `<Your IMS Org ID Value>`
 
-“Benutzer”:
+&quot;Benutzer&quot;:
 
-* &quot;action&quot;: entweder **access** oder **delete**
+* &quot;action&quot;: Entweder **access** oder **delete**
 * &quot;userIDs&quot;:
    * &quot;namespace&quot;: **email**
    * &quot;type&quot;: **standard**
-   * “Wert”: `<Data Subject’s Email Address>`
+   * &quot;Wert&quot;: `<Data Subject's Email Address>`
 
 &quot;include&quot;:
 

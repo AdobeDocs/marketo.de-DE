@@ -3,9 +3,9 @@ unique-page-id: 4720779
 description: Verstehen von Ordnern - Marketo-Dokumente - Produktdokumentation
 title: Ordner verstehen
 exl-id: 2ea914f6-ca64-4e87-806c-93beba075ab2
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '267'
 ht-degree: 0%
 
 ---
@@ -16,15 +16,15 @@ Mit Ordnern innerhalb eines Programms können Sie Ihre Smart-Kampagnen und -Asse
 
 ## Erstellen eines Ordners {#create-a-folder}
 
-1. Navigieren Sie zu **Marketingaktivitäten** Bereich.
+1. Navigieren Sie zu **[!UICONTROL Marketingaktivitäten]** Bereich.
 
    ![](assets/ma.png)
 
-1. Klicken Sie mit der rechten Maustaste auf ein Programm und wählen Sie **Neuer Ordner**.
+1. Klicken Sie mit der rechten Maustaste auf ein Programm und wählen Sie **[!UICONTROL Ordner]**.
 
    ![](assets/image2015-4-20-18-3a45-3a14.png)
 
-1. Benennen Sie den neuen Ordner und drücken Sie die Eingabetaste. **Eingabe**.
+1. Benennen Sie den neuen Ordner und drücken Sie **[!UICONTROL Eingabe]**.
 
    ![](assets/image2015-4-20-18-3a46-3a57.png)
 
@@ -34,15 +34,13 @@ Sehr gut! Jetzt haben Sie einen neuen Ordner, in dem Sie Ihre lokalen Assets spe
 
 Es ist in Ordnung, deine Meinung zu ändern.
 
-1. Klicken Sie mit der rechten Maustaste auf den Ordner und wählen Sie **Ordner umbenennen**.
+1. Klicken Sie mit der rechten Maustaste auf den Ordner und wählen Sie **[!UICONTROL Ordner umbenennen]**.
 
    ![](assets/image2015-4-20-18-3a49-3a10.png)
 
-1. Geben Sie einen neuen Namen ein und drücken Sie die Eingabetaste. **Eingabe**.
+1. Geben Sie einen neuen Namen ein und drücken Sie die Eingabetaste. **[!UICONTROL Eingabe]**.
 
    ![](assets/image2015-4-20-18-3a52-3a30.png)
-
-   Et Volia! Der Ordner hat einen neuen Namen.
 
 ## Ordner löschen {#delete-a-folder}
 
@@ -50,11 +48,9 @@ Es ist in Ordnung, deine Meinung zu ändern.
 >
 >Stellen Sie sicher, dass der Ordner leer ist, bevor Sie ihn löschen.
 
-1. Klicken Sie mit der rechten Maustaste auf den Ordner und wählen Sie **Ordner löschen**.
+1. Klicken Sie mit der rechten Maustaste auf den Ordner und wählen Sie **[!UICONTROL Ordner löschen]**.
 
    ![](assets/image2015-4-20-18-3a55-3a51.png)
-
-   Ordner Adios!
 
 ## Ordner archivieren {#archive-a-folder}
 
@@ -74,4 +70,4 @@ Funktionalität, die **not** Änderung bei der Archivierung:
 * Die globale Suche findet weiterhin Ergebnisse in archivierten Ordnern
 * Ein Asset, das verwendet wird, funktioniert auch nach der Archivierung weiterhin
 * Sie können einen Filter verwenden, um archivierte Assets zur Verwendung in Berichten auszuwählen.
-* Archivierte Assets werden nicht deaktiviert. Sie müssen auch deaktiviert werden, wenn Sie möchten, dass sie nicht mehr ausgeführt werden
+* Archivierte Assets werden nicht deaktiviert. Sie müssen auch deaktiviert werden, wenn Sie möchten, dass sie nicht mehr ausgeführt werden.

@@ -4,9 +4,9 @@ description: Verstehen der E-Mail-Programmkarten - Marketo-Dokumente - Produktdo
 title: Grundlagen zu E-Mail-Programmkarten
 exl-id: c9de8334-4c42-44e4-aa73-9e82f25e5f00
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '364'
 ht-degree: 0%
 
 ---
@@ -41,11 +41,11 @@ Nach dem Versand der E-Mail zeigt die Karte weitere wertvolle Informationen an, 
 
    ![](assets/image2015-7-16-17-3a6-3a16.png)
 
-1. Tippen **Bestätigen**.
+1. Tippen **[!UICONTROL Bestätigen]**.
 
    ![](assets/image2015-7-16-17-3a8-3a34.png)
 
-1. Tippen **Bestätigen** , um den Auftrag abzuschließen, oder **Niemals Mind** wenn du noch nachdenklich bist.
+1. Tippen **[!UICONTROL Bestätigen]** , um den Auftrag abzuschließen, oder **[!UICONTROL Niemals Mind]** wenn du noch nachdenklich bist.
 
    ![](assets/image2015-7-16-17-3a12-3a18.png)
 
@@ -59,7 +59,7 @@ Nach dem Versand der E-Mail zeigt die Karte weitere wertvolle Informationen an, 
 
    ![](assets/image2015-7-17-9-3a50-3a49.png)
 
-1. Tippen **Abbrechen von Senden**.
+1. Tippen **[!UICONTROL Abbrechen von Senden]**.
 
    ![](assets/image2015-7-17-9-3a52-3a54.png)
 
@@ -75,11 +75,11 @@ Sie können bestätigte oder nicht bestätigte E-Mail-Karten neu planen.
 
    ![](assets/image2015-7-17-9-3a58-3a44.png)
 
-1. Tippen **Zeitplan**.
+1. Tippen **[!UICONTROL Zeitplan]**.
 
    ![](assets/image2015-7-17-10-3a0-3a32.png)
 
-1. Datum im Kalender auswählen und tippen **Zeitplan**.
+1. Datum im Kalender auswählen und tippen **[!UICONTROL Zeitplan]**.
 
    ![](assets/image2015-7-17-10-3a5-3a55.png)
 
@@ -93,11 +93,11 @@ Sie können ein Beispiel für einen E-Mail-Moment direkt mit jemandem teilen.
 
    ![](assets/image2015-7-14-16-3a44-3a7.png)
 
-1. Tippen **Beispiel senden**.
+1. Tippen **[!UICONTROL Beispiel senden]**.
 
    ![](assets/image2015-7-14-16-3a40-3a54.png)
 
-1. Geben Sie eine E-Mail-Adresse ein und klicken Sie auf **Beispiel senden**.
+1. Geben Sie eine E-Mail-Adresse ein und klicken Sie auf **[!UICONTROL Beispiel senden]**.
 
    ![](assets/image2015-7-14-17-3a2-3a32.png)
 
@@ -105,17 +105,13 @@ Sie können ein Beispiel für einen E-Mail-Moment direkt mit jemandem teilen.
 
 Klicken Sie mit der rechten Maustaste auf eine E-Mail-Karte, um sie in der Vorschau anzuzeigen.
 
-1. Tippen **Vorschau von E-Mail**.
+1. Tippen **[!UICONTROL Vorschau von E-Mail]**.
 
    ![](assets/image2015-7-14-16-3a42-3a21.png)
 
    Auf diese Weise wissen Sie, dass Ihre E-Mail perfekt ist, bevor Sie den Trigger ziehen!
 
    ![](assets/image2015-6-30-11-3a15-3a22.png)
-
-   Ausgezeichnet!
-
-Und das ist die Spur bei der Anzeige Ihrer E-Mail-Kampagnen. Jetzt bist du ein Profi!
 
 >[!MORELIKETHIS]
 >

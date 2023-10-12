@@ -4,16 +4,16 @@ description: Markieren abgeschlossen - Marketo Docs - Produktdokumentation
 title: Markieren abgeschlossen
 exl-id: 0abac320-da3b-4ab8-a1ce-28e5e17f4d15
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '143'
 ht-degree: 1%
 
 ---
 
 # Markieren abgeschlossen {#marking-it-done}
 
-Markieren Sie eine E-Mail-Programm-, Ereignis- oder Analysekarte mit Fertig , um sie aus Ihrem Stream zu entfernen. Es gibt zwei Möglichkeiten, das zu tun.
+Kennzeichnen einer E-Mail-Programm-, Ereignis- oder Analysekarte als [!UICONTROL Fertig] , um es aus Ihrem Stream zu entfernen. Es gibt zwei Möglichkeiten, das zu tun.
 
 >[!IMPORTANT]
 >
@@ -23,7 +23,7 @@ Markieren Sie eine E-Mail-Programm-, Ereignis- oder Analysekarte mit Fertig , um
 
    ![](assets/image2015-7-14-17-3a32-3a35.png)
 
-1. Tippen **Fertig**.
+1. Tippen **[!UICONTROL Fertig]**.
 
    ![](assets/image2015-7-14-17-3a36-3a31.png)
 
@@ -34,5 +34,3 @@ Markieren Sie eine E-Mail-Programm-, Ereignis- oder Analysekarte mit Fertig , um
    >[!NOTE]
    >
    >Durch das Markieren einer Karte als Fertig wird die E-Mail, das Ereignis oder die Smart-Kampagne nicht gelöscht. Er verschiebt ihn nur vom Stream &quot;Momente/Später&quot;in den Stream &quot;Fertig&quot;.
-
-Kuchen!

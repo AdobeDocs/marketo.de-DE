@@ -4,9 +4,9 @@ description: Verstehen von Marketo-Momenten - Marketo-Dokumente - Produktdokumen
 title: Grundlagen zu Marketo-Momenten
 exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '612'
+source-wordcount: '610'
 ht-degree: 5%
 
 ---
@@ -33,10 +33,10 @@ Hier sind die verschiedenen Ströme in Moments.
 >
 >**Definition**
 >
->* Momente: Alles, was gerade lief oder gerade laufen wird, geht hierher.
->* Favoriten: Alles, was du am liebsten machst, geht hier rein.
->* Später: Alles, was später als dieser Moment stattfindet, geht hier rein.
->* Fertig: Alles, was fertig ausgeführt wurde oder Sie als fertig markiert haben, geht hier.
+>* [!UICONTROL Momente]: Alles, was gerade ausgeführt wurde oder gerade ausgeführt werden wird, ist hier.
+>* [!UICONTROL Favoriten]: Alles, was Sie zu einem Favoriten machen, geht hier rein.
+>* [!UICONTROL Später]: Alles, was später als dieser Moment stattfindet, geht hier rein.
+>* [!UICONTROL Fertig]: Alles, was fertig ausgeführt wurde oder Sie als fertig markiert haben, geht hierher.
 
 Ok, jetzt, da wir das im Weg stehen, lassen Sie uns einen Blick auf Marketo Moments werfen!
 
@@ -44,21 +44,21 @@ Ok, jetzt, da wir das im Weg stehen, lassen Sie uns einen Blick auf Marketo Mome
 
 Marketo Moments bietet Ihnen drei verschiedene Karten, die dem Fortschritt Ihrer E-Mail folgen:
 
-**On-Deck** - Diese E-Mail wird gerade gesendet. Es ist Ihre letzte Chance, eine Vorschau anzuzeigen, ein Muster zu senden oder es sogar abzubrechen, wenn Sie müssen.
+**[!UICONTROL On-Deck]** - Diese E-Mail wird gerade gesendet. Es ist Ihre letzte Chance, eine Vorschau anzuzeigen, ein Muster zu senden oder es sogar abzubrechen, wenn Sie müssen.
 
 ![](assets/image2015-7-17-11-3a25-3a48.png)
 
-**Herzschlag** - He - diese E-Mail wird jetzt zugestellt! Und hier sind auch Statistiken. Machen Sie weiter und teilen Sie es.
+**[!UICONTROL Herzschlag]** - He - diese E-Mail wird jetzt zugestellt! Und hier sind auch Statistiken. Machen Sie weiter und teilen Sie es.
 
 ![](assets/image2015-7-17-11-3a27-3a22.png)
 
-**Ergebnisse** - So hat die E-Mail funktioniert. Nach Abschluss der E-Mail-Ausführung zeigt die Karte Ergebnisse den Interaktionswert und andere Statistiken an.
+**[!UICONTROL Ergebnisse]** - So hat die E-Mail funktioniert. Nach Abschluss der E-Mail-Ausführung zeigt die Karte Ergebnisse den Interaktionswert und andere Statistiken an.
 
 ![](assets/image2015-7-17-11-3a43-3a28.png)
 
 ## Moments Stream {#moments-stream}
 
-Wenn Sie die App zum ersten Mal öffnen oder tippen **Momente** im Menü werden die entsprechenden Karten zuerst angezeigt. Jede enthält Informationen zu dieser spezifischen Marketing-Initiative und ihrer Gesamtleistung.
+Wenn Sie die App zum ersten Mal öffnen oder tippen **[!UICONTROL Momente]** im Menü werden die entsprechenden Karten zuerst angezeigt. Jede enthält Informationen zu dieser spezifischen Marketing-Initiative und ihrer Gesamtleistung.
 
 ![](assets/image2015-7-15-10-3a46-3a19.png)
 
@@ -82,11 +82,11 @@ Sehr gut! Sie können etwas geschehen lassen, indem Sie auf Folgendes tippen:
 >
 >**Definition**
 >
->* Favorit: Es ist einfach, auf die Dinge zu achten, die am aktuellsten und am wichtigsten sind, wenn Sie sie zu Favoriten machen.
->* Fertig: Fertig löst sie aus der Marketo-Ansicht &quot;Moments&quot;(bleibt aber in Marketo, sicher und gesund).
->* Freigeben: Senden Sie ein Bild, um Ihr Team zu motivieren oder zu beglückwünschen.
->* Beispiel senden (nur E-Mail): Mithilfe dieser Funktion können andere überprüfen, wie Ihre E-Mails aussehen, bevor Sie sie senden.
->* Vorschau von E-Mails (nur E-Mails): Es ist immer empfehlenswert, Ihre E-Mails im Voraus zu überprüfen.
+>* [!UICONTROL Favorit]: Es ist einfach, auf die Dinge zu achten, die am aktuellsten und am wichtigsten sind, wenn Sie sie zu Favoriten machen.
+>* [!UICONTROL Fertig]: Fertig löst sie aus der Marketo Moments-Ansicht aus (lässt sie jedoch in Marketo, sicher und Ton stehen).
+>* [!UICONTROL Freigeben]: Senden Sie ein Bild, um Ihr Team zu motivieren oder zu beglückwünschen.
+>* [!UICONTROL Beispiel senden] (Nur E-Mail): Mithilfe dieser Funktion können andere überprüfen, wie Ihre E-Mails aussehen, bevor Sie sie versenden.
+>* [!UICONTROL Vorschau von E-Mail] (nur E-Mails): Es ist immer empfehlenswert, Ihre E-Mails im Voraus zu überprüfen.
 
 ## Spätere Momente {#later-moments}
 
@@ -96,7 +96,7 @@ Im Abschnitt Später werden die bevorstehenden Aktivitäten angezeigt.
 
    ![](assets/image2015-7-15-10-3a52-3a5.png)
 
-1. Tippen **Später**.
+1. Tippen **[!UICONTROL Später]**.
 
    ![](assets/image2015-7-15-10-3a54-3a47.png)
 
@@ -134,16 +134,16 @@ Smart-Kampagnenkarten stellen einen einzelnen Ablauf einer Kampagne dar. Bei jed
 
 ## Aktion bestätigen oder abbrechen {#confirm-or-cancel-an-action}
 
-In jedem Schritt des Verfahrens können Sie eine Aktion bestätigen oder abbrechen. Wenn Sie Ihre Meinung ändern, tippen Sie einfach auf **Niemals Mind**.
+In jedem Schritt des Verfahrens können Sie eine Aktion bestätigen oder abbrechen. Wenn Sie Ihre Meinung ändern, tippen Sie einfach auf **[!UICONTROL Niemals Mind]**.
 
 ![](assets/image2015-7-14-17-3a11-3a29.png)
 
-## Unterstützte Versionen  {#supported-versions}
+## Unterstützte Versionen {#supported-versions}
 
 Marketo Moments unterstützt diese Betriebssystemversionen:
 
-* Apple iOS 8.0 und höher.
-* Android-Version 4.1 und höher (im Grunde Jellybean und höher).
+* [!DNL Apple] iOS 8.0 und höher.
+* [!DNL Android] ab Version 4.1 (im Grunde Jellybean und höher).
 
 Sind Sie bereit für mehr?
 

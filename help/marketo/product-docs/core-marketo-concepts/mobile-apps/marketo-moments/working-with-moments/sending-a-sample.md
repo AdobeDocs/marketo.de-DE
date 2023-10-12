@@ -4,9 +4,9 @@ description: Senden eines Beispiels - Marketo Docs - Produktdokumentation
 title: Senden eines Beispiels
 exl-id: 9b4cdb6b-9969-4427-9ae3-f6d08430f10f
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '139'
 ht-degree: 1%
 
 ---
@@ -25,11 +25,11 @@ Sie können ein Beispiel für einen E-Mail-Moment direkt mit jemandem teilen. Es
 
    ![](assets/image2015-7-14-16-3a44-3a7.png)
 
-1. Tippen **Beispiel senden**.
+1. Tippen **[!UICONTROL Beispiel senden]**.
 
    ![](assets/image2015-7-14-16-3a40-3a54.png)
 
-1. Geben Sie eine E-Mail-Adresse ein und klicken Sie auf **Beispiel senden**.
+1. Geben Sie eine E-Mail-Adresse ein und klicken Sie auf **[!UICONTROL Beispiel senden]**.
 
    ![](assets/image2015-7-14-17-3a2-3a32.png)
 
@@ -38,5 +38,3 @@ Sie können ein Beispiel für einen E-Mail-Moment direkt mit jemandem teilen. Es
 1. Tippen Sie auf das Papierfliegersymbol im Bildschirm &quot;E-Mail-Vorschau&quot;, um ein Muster direkt aus der Vorschau zu senden.
 
    ![](assets/image2015-9-25-10-3a28-3a47.png)
-
-Mission abgeschlossen!

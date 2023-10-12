@@ -3,10 +3,10 @@ unique-page-id: 2952484
 description: Umbenennen eines Marketo-Assets - Marketo-Dokumente - Produktdokumentation
 title: Umbenennen eines Marketo-Assets
 exl-id: 2c8a64fc-663d-4953-b66c-4055e07f1404
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -18,7 +18,7 @@ Ordner, Programme und lokale Assets können einfach umbenannt werden.
 
    ![](assets/image2015-4-10-17-19-48.png)
 
-1. Geben Sie einen neuen Namen in das Textfeld ein. Klicken **Speichern**.
+1. Geben Sie einen neuen Namen in das Textfeld ein. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/image2015-4-10-17-3a19-3a33.png)
 
