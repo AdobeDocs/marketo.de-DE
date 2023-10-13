@@ -4,10 +4,10 @@ description: Benutzerdefinierte Feld-Token für Programmteilnehmer - Marketo-Dok
 title: Benutzerdefinierte Feld-Token für Programmteilnehmer
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '435'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
@@ -33,7 +33,7 @@ Sie können Token für benutzerdefinierte Felder des Programmmitglieds in E-Mail
 
 **E-Mails**
 
-1. Wählen Sie die gewünschte E-Mail aus und klicken Sie auf **Entwurf bearbeiten**.
+1. Wählen Sie die gewünschte E-Mail aus und klicken Sie auf **[!UICONTROL Entwurf bearbeiten]**.
 
    ![](assets/program-member-custom-field-tokens-1.png)
 
@@ -41,21 +41,21 @@ Sie können Token für benutzerdefinierte Felder des Programmmitglieds in E-Mail
 
    ![](assets/program-member-custom-field-tokens-2.png)
 
-1. Suchen Sie nach dem gewünschten benutzerdefinierten Feld-Token für Programmteilnehmer und wählen Sie es aus, geben Sie einen Standardwert ein und klicken Sie auf **Einfügen**.
+1. Suchen Sie nach dem gewünschten benutzerdefinierten Feld-Token für Programmteilnehmer und wählen Sie es aus, geben Sie einen Standardwert ein und klicken Sie auf **[!UICONTROL Einfügen]**.
 
    ![](assets/program-member-custom-field-tokens-3.png)
 
-1. Klicks **Speichern**.
+1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/program-member-custom-field-tokens-4.png)
 
 >[!NOTE]
 >
->Vergessen Sie nicht, Ihre E-Mail zu validieren.
+>Vergessen Sie nicht, Ihre E-Mail zu genehmigen.
 
 **Landing Pages**
 
-1. Wählen Sie Ihre Landingpage aus und klicken Sie auf **Entwurf bearbeiten**.
+1. Wählen Sie Ihre Landingpage aus und klicken Sie auf **[!UICONTROL Entwurf bearbeiten]**.
 
    ![](assets/program-member-custom-field-tokens-5.png)
 
@@ -75,17 +75,17 @@ Sie können Token für benutzerdefinierte Felder des Programmmitglieds in E-Mail
 
    ![](assets/program-member-custom-field-tokens-8.png)
 
-1. Geben Sie einen Standardwert ein und klicken Sie auf **Einfügen**.
+1. Geben Sie einen Standardwert ein und klicken Sie auf **[!UICONTROL Einfügen]**.
 
    ![](assets/program-member-custom-field-tokens-9.png)
 
-1. Klicks **Speichern**.
+1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/program-member-custom-field-tokens-10.png)
 
 **SMS**
 
-1. Wählen Sie die gewünschte SMS aus und klicken Sie auf **Entwurf bearbeiten**.
+1. Wählen Sie die gewünschte SMS aus und klicken Sie auf **[!UICONTROL Entwurf bearbeiten]**.
 
    ![](assets/program-member-custom-field-tokens-11.png)
 
@@ -97,17 +97,17 @@ Sie können Token für benutzerdefinierte Felder des Programmmitglieds in E-Mail
 
    ![](assets/program-member-custom-field-tokens-13.png)
 
-1. Klicken Sie auf das Dropdown-Menü SMS-Aktionen und wählen Sie **Genehmigen und schließen**.
+1. Klicken Sie auf das Dropdown-Menü SMS-Aktionen und wählen Sie **[!UICONTROL Genehmigen und schließen]**.
 
    ![](assets/program-member-custom-field-tokens-14.png)
 
 **Push-Benachrichtigungen**
 
-1. Wählen Sie die gewünschte Push-Benachrichtigung aus und klicken Sie auf **Entwurf bearbeiten**.
+1. Wählen Sie die gewünschte Push-Benachrichtigung aus und klicken Sie auf **[!UICONTROL Entwurf bearbeiten]**.
 
    ![](assets/program-member-custom-field-tokens-15.png)
 
-1. Klicks **Push-Benachrichtigung**.
+1. Klicks **[!UICONTROL Push-Benachrichtigung]**.
 
    ![](assets/program-member-custom-field-tokens-16.png)
 
@@ -115,11 +115,11 @@ Sie können Token für benutzerdefinierte Felder des Programmmitglieds in E-Mail
 
    ![](assets/program-member-custom-field-tokens-17.png)
 
-1. Suchen und wählen Sie das gewünschte benutzerdefinierte Feld-Token für Programmteilnehmer aus. Geben Sie einen Standardwert ein und klicken Sie auf **Einfügen**.
+1. Suchen und wählen Sie das gewünschte benutzerdefinierte Feld-Token für Programmteilnehmer aus. Geben Sie einen Standardwert ein und klicken Sie auf **[!UICONTROL Einfügen]**.
 
    ![](assets/program-member-custom-field-tokens-18.png)
 
-1. Klicks **Beenden** Speichern und beenden (oder **Nächste** zunächst zu überprüfen).
+1. Klicks **[!UICONTROL Beenden]** Speichern und beenden (oder **[!UICONTROL Nächste]** zunächst zu überprüfen).
 
    ![](assets/program-member-custom-field-tokens-19.png)
 

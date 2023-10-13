@@ -4,10 +4,10 @@ description: Bearbeiten von Einträgen in der Programmplanansicht - Marketo-Doku
 title: Bearbeiten von Einträgen in der Programmplanansicht
 exl-id: f04cfb84-ff96-4f4e-ab0d-d4b0b95a9f9c
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '147'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -21,7 +21,7 @@ Sie können die verschiedenen Elemente Ihres Programms in der Planungsansicht be
 
    ![](assets/image2014-9-18-18-3a1-3a36.png)
 
-1. Geben Sie einen neuen Namen ein und drücken Sie die Eingabetaste. **Eingabe/Rückgabe** auf der Tastatur, um die Änderung zu bestätigen.
+1. Geben Sie einen neuen Namen ein und drücken Sie die Eingabetaste. **[!UICONTROL Eingabe/Rückgabe]** auf der Tastatur, um die Änderung zu bestätigen.
 
    ![](assets/image2014-9-18-18-3a1-3a53.png)
 
@@ -35,7 +35,7 @@ Sie können die verschiedenen Elemente Ihres Programms in der Planungsansicht be
 
    ![](assets/image2014-9-18-18-3a3-3a7.png)
 
-1. Bearbeiten Sie Ihre Beschreibung. Klicks **Speichern**.
+1. Bearbeiten Sie Ihre Beschreibung. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/image2014-9-18-18-3a3-3a22.png)
 
@@ -53,4 +53,4 @@ Du rock! Jetzt wurde das Datum Ihres Eintrags in ein neues Datum verschoben.
 
 >[!NOTE]
 >
-> Bereits ausgeführte Smart-Kampagnen- und E-Mail-Programmeinträge können nicht in die Vergangenheit verschoben werden.
+> Smart-Campaign- und E-Mail-Programmeinträge, die bereits ausgeführt wurden, können nicht in die Vergangenheit verschoben werden.

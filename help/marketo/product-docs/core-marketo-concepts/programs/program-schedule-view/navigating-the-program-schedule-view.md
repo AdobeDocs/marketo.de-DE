@@ -4,7 +4,7 @@ description: Navigieren in der Programmplanansicht - Marketo-Dokumente - Produkt
 title: Navigieren in der Programmplanansicht
 exl-id: 31623f95-f956-44f6-9b6e-5595fb6e62d5
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
@@ -17,11 +17,11 @@ Im Folgenden finden Sie die Grundlagen für die Navigation in der Programmplanan
 
 ## Suchen Sie die Planansicht . {#find-the-schedule-view}
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Navigieren Sie zu **[!UICONTROL Marketingaktivitäten]**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Wählen Sie Ihr Programm aus. Klicken Sie auf **Ansicht** angezeigt. Auswählen **Zeitplan**.
+1. Wählen Sie Ihr Programm aus. Klicken Sie auf **[!UICONTROL Ansicht]** angezeigt. Auswählen **[!UICONTROL Zeitplan]**.
 
    ![](assets/image2014-9-17-11-3a38-3a3.png)
 
@@ -51,7 +51,7 @@ Im Folgenden finden Sie die Grundlagen für die Navigation in der Programmplanan
 
 ## Ändern zwischen Modi {#changing-between-modes}
 
-1. Klicken auf **3 Wochen** oder **Monat** ändert die sichtbaren Daten in Ihrer Anzeige.
+1. Klicken auf **[!UICONTROL 3 Wochen]** oder **[!UICONTROL Monat]** ändert die sichtbaren Daten in Ihrer Anzeige.
 
    ![](assets/image2014-9-17-11-3a40-3a19.png)
 
@@ -65,4 +65,4 @@ Sehr gut! Nachdem Sie nun wissen, wie Sie Ihr Programm sehen können, lernen wir
 
 >[!MORELIKETHIS]
 >
->[Erstellen eines Eintrags in der Programmplanansicht](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-an-entry-in-the-program-schedule-view.md)
+>[Erstellen eines Eintrags in der Programmplanansicht](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-an-entry-in-the-program-schedule-view.md){target="_blank"}

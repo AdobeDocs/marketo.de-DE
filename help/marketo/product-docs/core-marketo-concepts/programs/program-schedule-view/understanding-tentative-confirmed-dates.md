@@ -4,7 +4,7 @@ description: Grundlegendes zu entativen/bestätigten Daten - Marketo Docs - Prod
 title: Grundlegendes zu entativen/bestätigten Daten
 exl-id: af6b907f-e4d8-432f-b1da-dd7c04376ba8
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 1%
@@ -13,7 +13,7 @@ ht-degree: 1%
 
 # Grundlegendes zu entativen/bestätigten Daten {#understanding-tentative-confirmed-dates}
 
-Smart-Kampagnen und E-Mail-Programme verfügen über eine leistungsstarke Funktion, die als **Tentativ** oder **Bestätigt**. So funktionieren sie.
+Smart-Kampagnen und E-Mail-Programme verfügen über eine leistungsstarke Funktion, die als **[!UICONTROL Tentativ]** oder **[!UICONTROL Bestätigt]**. So funktionieren sie.
 
 ## Vorläufig {#tentative}
 
@@ -47,7 +47,7 @@ Bestätigte Einträge werden definitiv ausgeführt. Sie verfügen über Regeln, 
 
 ## Beendet  {#finished}
 
-Abgeschlossene Einträge wurden bereits ausgeführt. Sie können nur in der Vergangenheit sein (offensichtlich). Sobald ein Eintrag ausgeführt wurde und **Abgeschlossen**, können Sie es nicht verschieben oder vorsichtig machen. (Keine Änderung der Realität und Störung des Zeitstrom-Kontinuums.)
+Abgeschlossene Einträge wurden bereits ausgeführt. Sie können nur in der Vergangenheit sein (offensichtlich). Sobald ein Eintrag ausgeführt wurde und **[!UICONTROL Abgeschlossen]**, können Sie es nicht verschieben oder vorsichtig machen. (Keine Änderung der Realität und Störung des Zeitstrom-Kontinuums.)
 
 ![](assets/image2014-9-23-15-3a25-3a53.png)
 

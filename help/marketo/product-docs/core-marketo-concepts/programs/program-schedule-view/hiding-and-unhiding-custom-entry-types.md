@@ -4,7 +4,7 @@ description: Ausblenden und Aufheben der Ausblendung benutzerdefinierter Einstie
 title: Ausblenden und Aufheben der Ausblendung benutzerdefinierter Einstiegstypen
 exl-id: 3e41b47d-86dd-4fb3-ab87-0be0b534fc0a
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
@@ -17,11 +17,11 @@ Benutzerdefinierte Eintragstypen können im Admin-Abschnitt ausgeblendet werden.
 
 ## Ausblenden eines benutzerdefinierten Einstiegstyps {#hide-a-custom-entry-type}
 
-1. Navigieren Sie zu **Admin** und klicken Sie auf **Kalendereintrag** **Typen**.
+1. Navigieren Sie zu **[!UICONTROL Admin]** und klicken Sie auf **[!UICONTROL Kalendereintrittstypen]**.
 
    ![](assets/image2014-9-24-10-3a11-3a49.png)
 
-1. Klicken Sie mit der rechten Maustaste auf Ihren benutzerdefinierten Eintrag und klicken Sie auf **Ausblenden**.
+1. Klicken Sie mit der rechten Maustaste auf Ihren benutzerdefinierten Eintrag und klicken Sie auf **[!UICONTROL Ausblenden]**.
 
    ![](assets/image2014-9-24-10-3a11-3a54.png)
 
@@ -31,7 +31,7 @@ Benutzerdefinierte Eintragstypen können im Admin-Abschnitt ausgeblendet werden.
 
 Wenn Sie einen benutzerdefinierten Eingabetyp wieder einblenden möchten, ist dies ebenfalls einfach.
 
-1. Klicken Sie mit der rechten Maustaste auf Ihren Eintrag und wählen Sie **Einblenden**.
+1. Klicken Sie mit der rechten Maustaste auf Ihren Eintrag und wählen Sie **[!UICONTROL Einblenden]**.
 
    ![](assets/image2014-9-24-10-3a12-3a14.png)
 

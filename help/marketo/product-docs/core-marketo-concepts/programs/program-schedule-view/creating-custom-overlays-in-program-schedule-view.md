@@ -4,10 +4,10 @@ description: Erstellen benutzerdefinierter Überlagerungen in der Programmplanun
 title: Erstellen benutzerdefinierter Überlagerungen in der Programmplanungsansicht
 exl-id: 066e7b4d-ff2c-4968-be1e-6d95d680a59a
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '73'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Sie können benutzerdefinierte Überlagerungen erstellen, um für Ihre Anforderungen relevante Einträge anzuzeigen.
 
-1. Klicken Sie auf **Agenda** angezeigt.
+1. Klicken Sie auf **[!UICONTROL Agenda]** angezeigt.
 
    ![](assets/image2014-9-24-10-3a20-3a11.png)
 
-1. Auswählen **Überlagerungen**.
+1. Auswählen **[!UICONTROL Überlagerungen]**.
 
    ![](assets/image2014-9-24-10-3a20-3a17.png)
 
@@ -27,7 +27,7 @@ Sie können benutzerdefinierte Überlagerungen erstellen, um für Ihre Anforderu
 
    ![](assets/image2014-9-24-10-3a20-3a26.png)
 
-1. Sie können auch nach [Programmtags](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md).
+1. Sie können auch nach [Programmtags](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md){target="_blank"}.
 
    ![](assets/image2014-9-24-10-3a20-3a32.png)
 

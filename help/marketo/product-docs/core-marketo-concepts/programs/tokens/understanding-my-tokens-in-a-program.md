@@ -1,25 +1,25 @@
 ---
 unique-page-id: 1147114
 description: Grundlegendes zu meinen Token in einem Programm - Marketo-Dokumente - Produktdokumentation
-title: Grundlegendes zu meinen Token in einem Programm
+title: Grundlagen zu meinen Token in einem Programm
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '416'
 ht-degree: 3%
 
 ---
 
-# Grundlegendes zu meinen Token in einem Programm {#understanding-my-tokens-in-a-program}
+# Grundlagen zu meinen Token in einem Programm {#understanding-my-tokens-in-a-program}
 
 Ein Token ist eine Variable, die Sie in E-Mails, Landingpages und Smart-Kampagnen verwenden können, um Ihr Leben zu vereinfachen.
 
-Neben My Tokens können Sie auch beliebige der integrierten Token in Ihren Programmen verwenden. Sehen Sie sich die [Token-Übersicht](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md).
+Neben My Tokens können Sie auch beliebige der integrierten Token in Ihren Programmen verwenden. Sehen Sie sich die [Token-Übersicht](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
 
 ## Meine Token  {#my-tokens}
 
-Meine Token sind benutzerdefinierte Variablen, die jeder erstellen kann. Sie sind [created](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md) in Kampagnenordnern oder -programmen.
+Meine Token sind benutzerdefinierte Variablen, die jeder erstellen kann. Sie sind [created](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"} in Kampagnenordnern oder -programmen.
 
 Meine Token werden wie folgt angezeigt: `{{my.Name Of Token}}`
 
@@ -50,7 +50,7 @@ Beispiele:
   </tr> 
   <tr> 
    <td>Zahl<span> <img alt="--" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td> 
-   <td>Jede Ganzzahl. Es kann sogar negativ sein.</td> 
+   <td>Beliebige Ganzzahlen. Es kann sogar negativ sein.</td> 
   </tr> 
   <tr> 
    <td>RTF <img alt="--" src="assets/image2014-9-25-16-3a46-3a22.png" data-linked-resource-id="3083234" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
@@ -73,7 +73,7 @@ Beispiele:
 
 >[!CAUTION]
 >
->Meine Token werden beim Senden einer E-Mail aus Sales Insight auf Microsoft Dynamics oder Salesforce nicht aufgelöst. Nur Standard-Token (Lead, Unternehmen usw.) werden ausgefüllt. Standardwerte für Token _will_ funktioniert.
+>Meine Token werden beim Senden einer E-Mail aus Sales Insight auf Microsoft Dynamics oder Salesforce nicht aufgelöst. Es werden nur Standard-Token (Lead, Unternehmen usw.) ausgefüllt. Standardwerte für Token _will_ funktioniert.
 
 ## Verschachtelungstoken {#nesting-tokens}
 
@@ -93,5 +93,5 @@ Das Verschieben von Programmen und Ordnern wirkt sich auch auf Token aus. Vergew
 
 >[!MORELIKETHIS]
 >
->* [Token-Übersicht](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)
->* [Verwalten von My Tokens](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md)
+>* [Token-Übersicht](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}
+>* [Verwalten von My Tokens](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"}

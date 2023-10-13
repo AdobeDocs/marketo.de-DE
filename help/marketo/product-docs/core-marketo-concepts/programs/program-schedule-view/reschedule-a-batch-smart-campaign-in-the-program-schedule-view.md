@@ -4,16 +4,16 @@ description: Planen Sie eine Smart-Batch-Kampagne in der Programmplanansicht neu
 title: Planen einer Smart-Batch-Kampagne in der Programmplanansicht
 exl-id: accae56e-36c5-4093-a72e-0882ce8e50b2
 feature: Programs, Smart Campaigns
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
 
 # Planen einer Smart-Batch-Kampagne in der Programmplanansicht {#reschedule-a-batch-smart-campaign-in-the-program-schedule-view}
 
-Möchten Sie die Ausführung einer Batch-Smart-Kampagne neu planen? Ziehen Sie sie per Drag-and-Drop in die Zukunft in der Programmplanungsansicht.
+Möchten Sie einen Batch-Kampagnenablauf neu planen? Ziehen Sie sie in die Zukunft in der Programmplanungsansicht.
 
 1. Wählen Sie die Smart-Kampagne aus, die Sie umplanen möchten.
 
@@ -23,10 +23,10 @@ Möchten Sie die Ausführung einer Batch-Smart-Kampagne neu planen? Ziehen Sie s
 
 ![](assets/image2015-5-19-12-3a12-3a1.png)
 
-1. Sehr gut! Die intelligente Kampagne wurde neu geplant. Die Zeit kann auch von der **Datum** in den Eingabedetails.
+1. Sehr gut! Die Smart-Kampagne wurde neu geplant. Die Zeit kann auch von der **[!UICONTROL Datum]** in den Eingabedetails.
 
    ![](assets/image2015-5-19-12-3a15-3a38.png)
 
 >[!MORELIKETHIS]
 >
->[Planen eines gesamten Programms aus der Planansicht](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rescheduling-an-entire-program-from-the-schedule-view.md)
+>[Planen eines gesamten Programms aus der Planansicht](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rescheduling-an-entire-program-from-the-schedule-view.md){target="_blank"}
