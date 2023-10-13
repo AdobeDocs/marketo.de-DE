@@ -3,7 +3,7 @@ description: Verstehen des Zieltrackings und der geplanten Registrierungen - Mar
 title: Verstehen der Zielverfolgung und der geplanten Registrierungen
 exl-id: 110768f4-46ed-4951-96b2-a97813d7b257
 feature: Predictive Audiences
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
 workflow-type: tm+mt
 source-wordcount: '986'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Verstehen der Zielverfolgung und der geplanten Registrierungen {#understanding-goal-tracking-and-projected-registrations}
 
-Hier erfahren Sie, wie Sie den Zielfortschritt verfolgen und die Prognosen von Marketo verstehen können.
+Hier erfahren Sie, wie Sie Ihren Zielfortschritt verfolgen und die Prognosen von Marketo verstehen können.
 
 >[!PREREQUISITES]
 >
@@ -44,17 +44,17 @@ Wenn Sie den Umschalter nicht aktiviert haben, wird dieser in der Marketo Class-
 
    ![](assets/understanding-goal-tracking-and-projected-registrations-4.png)
 
-Alle (registrierten und noch nicht registrierten) Mitglieder werden nach ihrer Registrierungswahrscheinlichkeit kategorisiert. Bewegen Sie den Mauszeiger über das Infosymbol, um zu sehen, wie diese Wahrscheinlichkeitskategorien definiert sind.
+Alle (registrierten und noch nicht registrierten) Mitglieder werden nach ihrer Registrierungswahrscheinlichkeit kategorisiert. Bewegen Sie den Mauszeiger über das Infosymbol, um zu sehen, wie diese Wahrscheinlichkeitskategorien definiert sind.
 
 ![](assets/understanding-goal-tracking-and-projected-registrations-5.png)
 
 >[!NOTE]
 >
->Prognosen werden alle 24 Stunden bis zum Tag des Ereignisses aktualisiert. Alle Mitglieder, die als _Verarbeitung_ werden in den nächsten Berechnungszyklus einbezogen.
+>Prognosen werden alle 24 Stunden bis zum Tag des Ereignisses aktualisiert. Alle Mitglieder, die als _Verarbeitung_ werden in den nächsten Berechnungszyklus einbezogen.
 
 ## Ähnliche Programme
 
-Sie können Einblicke in Ihr aktuelles Ereignis erhalten, indem Sie sich ansehen, wie ähnliche Programme in der Vergangenheit funktioniert haben. Dieser Abschnitt zeigt Ihnen bis zu 5 ähnliche Programme aus den letzten 6 Monaten mit der Anzahl/dem Prozentsatz der Mitglieder, die _Angemeldet_ oder höher.
+Sie können Einblicke in Ihr aktuelles Ereignis erhalten, indem Sie sich ansehen, wie ähnliche Programme in der Vergangenheit funktioniert haben. Dieser Abschnitt zeigt Ihnen bis zu 5 ähnliche Programme aus den letzten 6 Monaten mit der Anzahl/dem Prozentsatz der Mitglieder, die _Angemeldet_ oder höher.
 
 Bei der Berechnung ähnlicher Programme werden unter anderem folgende Faktoren berücksichtigt:
 
@@ -69,13 +69,13 @@ Bei der Berechnung ähnlicher Programme werden unter anderem folgende Faktoren b
 
 ## Empfehlungen
 
-Oben auf der Seite Berichte finden Sie KI/ML-basierte Empfehlungen, die auf Ihrem Fortschritt basieren. Besuchen Sie regelmäßig die Seiten, um nützliche Tipps und Einblicke zu erhalten!
+Oben im [!UICONTROL Berichte] -Seite finden Sie KI-/ML-basierte Empfehlungen, die auf Ihrem Fortschritt basieren. Besuchen Sie regelmäßig die Seiten, um nützliche Tipps und Einblicke zu erhalten!
 
 ![](assets/understanding-goal-tracking-and-projected-registrations-7.png)
 
 ## Vorhersagen auf Benutzerebene
 
-Klicken Sie auf **[!UICONTROL Mitglieder]** -Tab, um alle Programmmitglieder anzuzeigen. Bewegen Sie den Mauszeiger über die **[!UICONTROL Registrierungswahrscheinlichkeit]** oder **[!UICONTROL Wahrscheinlichkeit der Teilnahme]** Balken, um genaue Prozentsätze und Kategorisierungen anzuzeigen. Sie können dann Maßnahmen für Mitglieder einer bestimmten Kategorie ergreifen (z. B. für alle in der Kategorie &quot;Weniger wahrscheinlich&quot;, um sich zu registrieren) und sie gezielt ansprechen, um Ihre Registrierungsnummern potenziell zu erhöhen.
+Klicken Sie auf **[!UICONTROL Mitglieder]** -Tab, um alle Programmmitglieder anzuzeigen. Bewegen Sie den Mauszeiger über die **[!UICONTROL Registrierungswahrscheinlichkeit]** oder **[!UICONTROL Wahrscheinlichkeit der Teilnahme]** Balken, um genaue Prozentsätze und Kategorisierungen anzuzeigen. Sie können dann Maßnahmen für Mitglieder einer bestimmten Kategorie ergreifen (z. B. für alle in der Kategorie &quot;Weniger wahrscheinlich&quot;, um sich zu registrieren) und sie gezielt ansprechen, um Ihre Registrierungsnummern potenziell zu erhöhen.
 
 ![](assets/understanding-goal-tracking-and-projected-registrations-8.png)
 
@@ -129,7 +129,7 @@ A: Drei Balken, von denen jeder ein Segment darstellt (sehr wahrscheinlich, wahr
 
 ![](assets/understanding-goal-tracking-and-projected-registrations-10.png)
 
-Nehmen wir beispielsweise an, 100 Personen haben eine Wahrscheinlichkeit, sich bei > 50 % und 60 von 100 registrierten Personen zu registrieren. Eine Konversion von 60 % ist höchstwahrscheinlich. So erhalten alle zum Programm hinzugefügten Mitglieder die Wahrscheinlichkeit, Werte zu registrieren, dann werden sie in Segmente eingefügt und entsprechend der Anzahl der in den einzelnen Segmentkonversionsraten registrierten Personen berechnet.
+Nehmen wir beispielsweise an, 100 Personen haben eine Wahrscheinlichkeit, sich über 50 % und 60 der 100 registrierten Personen zu registrieren. Eine Konversion von 60 % ist höchstwahrscheinlich. So erhalten alle zum Programm hinzugefügten Mitglieder die Wahrscheinlichkeit, Werte zu registrieren, dann werden sie in Segmente eingefügt und entsprechend der Anzahl der in den einzelnen Segmentkonversionsraten registrierten Personen berechnet.
 
 **F: Was bedeutet &quot;Registered and Higher&quot;?**
 

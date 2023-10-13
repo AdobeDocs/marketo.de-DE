@@ -4,7 +4,7 @@ description: Grundlegendes zur Programmmitgliedschaft - Marketo-Dokumente - Prod
 title: Grundlegendes zur Programmmitgliedschaft
 exl-id: 02480a93-b499-4e0f-8a1c-a22f7d3b7178
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
 workflow-type: tm+mt
 source-wordcount: '309'
 ht-degree: 1%
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->Marketo standardisiert jetzt die Sprache für alle Abonnements, sodass Sie Leads/Leads in Ihrem Abonnement und Personen in unseren Dokumenten sehen können. Diese Begriffe bedeuten das Gleiche; sie wirken sich nicht auf Artikelanweisungen aus. Es gibt auch einige andere Änderungen. [Weitere Informationen](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md).
+>Marketo standardisiert jetzt die Sprache für alle Abonnements, sodass Sie Leads/Leads in Ihrem Abonnement und Personen in unseren Dokumenten sehen können. Diese Begriffe bedeuten das Gleiche; sie wirken sich nicht auf Artikelanweisungen aus. Es gibt auch einige andere Änderungen. [Weitere Informationen](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md){target="_blank"}.
 
 >[!NOTE]
 >
@@ -23,18 +23,18 @@ ht-degree: 1%
 
 ## Wie Menschen Mitglieder eines Programms werden {#how-people-become-members-of-a-program}
 
-1. Eine Person füllt eine [Formular auf einer Landingpage](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) im Programm.
+1. Eine Person füllt eine [Formular auf einer Landingpage](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} im Programm.
 
    1. Der erste Status des Fortschritts wird automatisch von Person übernommen.
 
-1. You [Mitglieder in das Programm importieren](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-members-from-a-spreadsheet-into-a-program.md) aus einer CSV-Datei.
+1. You [Mitglieder in das Programm importieren](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-members-from-a-spreadsheet-into-a-program.md){target="_blank"} aus einer CSV-Datei.
 
    1. Der erste Status des Fortschritts wird automatisch von Person übernommen.
 
-1. Sie verwenden die [Ändern des Programmstatus](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) Flussschritt.
-1. Eine Person registriert oder besucht eine [Webinar mit einem Veranstaltungsprogramm synchronisiert](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md).
-1. Eine Person ist [mit der Marketo iPad-Eincheckanwendung erstellt wurde](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
-1. Eine Person wird zu einer SFDC-Kampagne hinzugefügt, die [mit dem Programm synchronisiert](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md).
+1. Sie verwenden die [Ändern des Programmstatus](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md){target="_blank"} Flussschritt.
+1. Eine Person registriert oder besucht eine [Webinar mit einem Veranstaltungsprogramm synchronisiert](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md){target="_blank"}.
+1. Eine Person ist [mit der Marketo iPad-Eincheckanwendung erstellt wurde](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md){target="_blank"}.
+1. Eine Person wird zu einer SFDC-Kampagne hinzugefügt, die [mit dem Programm synchronisiert](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target="_blank"}.
 
 >[!NOTE]
 >
@@ -42,7 +42,7 @@ ht-degree: 1%
 
 ## Programmstatus {#program-statuses}
 
-Programmstatus sind die Schritte, die Benutzer in einem Programm durchlaufen (z. B. Eingeladene, RSVP&#39;d, Teilnehmer, Keine Sendung). Diese Schritte werden durch die Variable [channel](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
+Programmstatus sind die Schritte, die Benutzer in einem Programm durchlaufen (z. B. Eingeladene, RSVP&#39;d, Teilnehmer, Keine Sendung). Diese Schritte werden durch die Variable [channel](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.
 
 ![](assets/image2015-2-5-15-3a14-3a48.png)
 
@@ -58,11 +58,11 @@ Ziel eines Programms ist es, eine sinnvolle Interaktion mit der Person oder dem 
 >
 >Für ein Webinar ist die Registrierung keine sinnvolle Interaktion, wenn sie sich das Webinar nicht ansehen. In diesem Fall ist die Teilnahme ein Erfolg.
 
-## Akquirierungsprogramm  {#acquisition-program}
+## Akquirierungsprogramm {#acquisition-program}
 
-Wenn ein neuer Name in das System als Programmmitglied aufgenommen wird, setzt Marketo dieses Programm automatisch als &quot;Akquise&quot;. Dadurch wird die Gutschrift für [Erstkontakt-Attribution](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+Wenn ein neuer Name in das System als Programmmitglied aufgenommen wird, setzt Marketo dieses Programm automatisch als &quot;Akquise&quot;. Dadurch wird die Gutschrift für [Erstkontakt-Attribution](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->* [Verwenden von Tags in einem Programm](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md)
->* [Erstellen eines Berichts zur Programmleistung](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
+>* [Verwenden von Tags in einem Programm](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md){target="_blank"}
+>* [Erstellen eines Berichts zur Programmleistung](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"}

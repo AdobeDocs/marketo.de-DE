@@ -4,7 +4,7 @@ description: Filtern eines Programmberichts nach Programm - Marketo-Dokumente - 
 title: Filtern eines Programmberichts nach Programm
 exl-id: 8be2ac9e-7331-4a0d-80d6-ea2e82215919
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Filtern eines Programmberichts nach Programm {#filter-a-program-report-by-program}
 
-Fokus [Programmvollzugsbericht](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md) über spezifische Programme, um ihre Leistung zu vergleichen.
+Fokus [Programmvollzugsbericht](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"} über spezifische Programme, um ihre Leistung zu vergleichen.
 
-1. Navigieren Sie zu **Marketing** **Tätigkeiten** (oder **Analytics**).
+1. Navigieren Sie zu **[!UICONTROL Marketingaktivitäten]** (oder **[!UICONTROL Analytics]**).
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -23,7 +23,7 @@ Fokus [Programmvollzugsbericht](/help/marketo/product-docs/core-marketo-concepts
 
    ![](assets/image2014-9-23-16-3a4-3a4.png)
 
-1. Klicken Sie auf **Einrichtung** Registerkarte und ziehen Sie darüber **Programme**.
+1. Klicken Sie auf **[!UICONTROL Einrichtung]** Registerkarte und ziehen Sie darüber **[!UICONTROL Programme]**.
 
    ![](assets/prospect3.jpg)
 
@@ -35,10 +35,10 @@ Fokus [Programmvollzugsbericht](/help/marketo/product-docs/core-marketo-concepts
    >
    >Wenn Sie einen Ordner auswählen, enthält der Bericht alle Elemente, die der Ordner zum Zeitpunkt der Ausführung des Berichts enthält.
 
-1. Das ist alles! Klicken Sie auf **Bericht** Registerkarte anzuzeigen _just_ die in Ihrem Bericht ausgewählten Programme.
+1. Das ist alles! Klicken Sie auf **[!UICONTROL Bericht]** Registerkarte anzuzeigen _just_ die in Ihrem Bericht ausgewählten Programme.
 
    ![](assets/image2014-9-23-16-3a5-3a41.png)
 
-   >[!NOTE]
-   >
-   >[Filtern eines Programmberichts nach Tag](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-tag.md)
+>[!NOTE]
+>
+>[Filtern eines Programmberichts nach Tag](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-tag.md){target="_blank"}
