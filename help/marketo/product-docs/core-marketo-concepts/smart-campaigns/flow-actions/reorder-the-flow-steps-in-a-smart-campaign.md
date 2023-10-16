@@ -4,7 +4,7 @@ description: Ordnen Sie die Flussschritte in einer Smart-Kampagne neu an - Marke
 title: Ordnen Sie die Flussschritte in einer Smart-Kampagne neu an.
 exl-id: 5cf4dac1-d21a-44ff-a485-c24a91e83fc9
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 17662d6c45ced21053fe18506ee79bb4b8f10c10
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Die Flussschritte werden von oben nach unten ausgeführt. So können Sie die Flu
 
 1. Ziehen Sie in der Registerkarte Fluss Ihrer intelligenten Kampagne den Schritt Fluss an die gewünschte Position.
 
-![](assets/image2014-9-22-13-3a49-3a11.png)
+![](assets/reorder-the-flow-steps-in-a-smart-campaign-1.png)
 
 >[!NOTE]
 >
