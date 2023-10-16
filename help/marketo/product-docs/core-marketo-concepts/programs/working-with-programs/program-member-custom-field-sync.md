@@ -1,16 +1,16 @@
 ---
 description: Benutzerdefinierte Feldsynchronisierung für Programmteilnehmer - Marketo-Dokumente - Produktdokumentation
-title: Benutzerdefinierte Feldsynchronisierung für Programmteilnehmer
+title: Benutzerdefinierte Feldsynchronisierung zwischen Programmteilnehmern
 exl-id: 7facfc79-a411-4ad9-b847-2002763af5bb
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '353'
 ht-degree: 7%
 
 ---
 
-# Benutzerdefinierte Feldsynchronisierung für Programmteilnehmer {#program-member-custom-field-sync}
+# Benutzerdefinierte Feldsynchronisierung zwischen Programmteilnehmern {#program-member-custom-field-sync}
 
 >[!PREREQUISITES]
 >
@@ -23,11 +23,11 @@ ht-degree: 7%
 
 ## Salesforce-Felder benutzerdefinierten Feldern des Programmmitglieds zuordnen {#map-salesforce-fields-to-program-member-custom-fields}
 
-1. Klicken Sie in Marketo auf **Admin**.
+1. Klicken Sie in Marketo auf **[!UICONTROL Admin]**.
 
    ![](assets/program-member-custom-field-sync-1.png)
 
-1. Klicken **Salesforce** Klicken Sie auf **Bearbeiten** neben Benutzerdefinierte Feldsynchronisierung für Programmmitglieder.
+1. Klicks **[!DNL Salesforce]** Klicken Sie auf **[!UICONTROL Bearbeiten]** neben Benutzerdefinierte Feldsynchronisierung für Programmmitglieder.
 
    ![](assets/program-member-custom-field-sync-2.png)
 
@@ -49,7 +49,7 @@ ht-degree: 7%
 
 1. Für weitere Feldzuordnungen deaktivieren Sie das Suchfeld und wiederholen Sie die Schritte 3 bis 5.
 
-1. Klicken **Speichern** wann geschehen.
+1. Klicks **[!UICONTROL Speichern]** wann geschehen.
 
    ![](assets/program-member-custom-field-sync-6.png)
 
@@ -65,11 +65,11 @@ ht-degree: 7%
 
 Wenn Sie ein Feld freigeben möchten, um es zu ersetzen, oder einfach eine allgemeine Änderung vornehmen möchten, müssen Sie zuerst eine Aufhebung der Zuordnung durchführen. So geht es.
 
-1. Klicken Sie in Marketo auf **Admin**.
+1. Klicken Sie in Marketo auf **[!UICONTROL Admin]**.
 
    ![](assets/program-member-custom-field-sync-7.png)
 
-1. Klicken **Salesforce** Klicken Sie auf **Bearbeiten** neben Benutzerdefinierte Feldsynchronisierung für Programmmitglieder.
+1. Klicks **[!DNL Salesforce]** Klicken Sie auf **[!UICONTROL Bearbeiten]** neben Benutzerdefinierte Feldsynchronisierung für Programmmitglieder.
 
    ![](assets/program-member-custom-field-sync-8.png)
 
@@ -79,13 +79,13 @@ Wenn Sie ein Feld freigeben möchten, um es zu ersetzen, oder einfach eine allge
 
    >[!TIP]
    >
-   >Sie können die **Zugeordnet** aktivieren, um nur zugeordnete Felder anzuzeigen.
+   >Sie können die **[!UICONTROL Zugeordnet]** aktivieren, um nur zugeordnete Felder anzuzeigen.
 
 1. Aufheben der Zuordnung durch Klicken auf **X** neben dem Feld.
 
    ![](assets/program-member-custom-field-sync-10.png)
 
-1. Die Zuordnung wurde entfernt. Klicken **Speichern**.
+1. Die Zuordnung wurde entfernt. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/program-member-custom-field-sync-11.png)
 

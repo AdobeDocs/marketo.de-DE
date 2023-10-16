@@ -4,7 +4,7 @@ description: Kontobewertung - Marketo-Dokumente - Produktdokumentation
 title: Kontobewertung
 exl-id: 68fb5f41-f715-4a4d-b4da-9db4dc38d67d
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 1%
@@ -31,7 +31,7 @@ In der komplexen Welt von B2B-Kaufprozessen ist es selten, dass eine Einzelperso
   </tr>
   <tr>
    <td><strong>Bewertung der Kundenproduktinteressen</strong></td>
-   <td>Personen aus Zielkonten, die von einem bestimmten Produkt aus Interesse an dem Inhalt zeigen (z. B. Herunterladen eines Whitepaper).</td> 
+   <td>Personen aus Zielkonten, die von einem bestimmten Produkt aus Interesse an dem Inhalt zeigen (z. B. das Herunterladen eines Whitepaper).</td> 
   </tr>
   <tr>
    <td><strong>Bewertung der Web-Interaktion des Kontos</strong></td>
@@ -57,11 +57,11 @@ In der komplexen Welt von B2B-Kaufprozessen ist es selten, dass eine Einzelperso
 
 Nachdem Sie die Lead-Punktzahl konfiguriert haben, fahren Sie mit den folgenden Schritten fort.
 
-1. Klicken **Admin**.
+1. Klicks **Admin**.
 
-   ![](assets/one-1.png)
+   ![](assets/account-score-1.png)
 
-1. Klicken **Verwaltung von Target-Konten**.
+1. Klicks **Verwaltung von Target-Konten**.
 
    ![](assets/account-score-2.png)
 
@@ -73,14 +73,14 @@ Nachdem Sie die Lead-Punktzahl konfiguriert haben, fahren Sie mit den folgenden 
    >
    >Sie können bis zu **fünf** -Felder zur Berechnung der Kontobewertung.
 
-1. Geben Sie den Namen der Kontobewertung ein und klicken Sie auf **Personenbewertung auswählen** und wählen Sie die entsprechende Punktzahl aus.
+1. Geben Sie den Namen der Kontobewertung ein und klicken Sie auf **Personenbewertung auswählen** und wählen Sie den entsprechenden Wert aus.
 
-   ![](assets/four.png)
+   ![](assets/account-score-4.png)
 
-1. Klicken **+Hinzufügen** , um weitere Bewertungen hinzuzufügen.
+1. Klicks **+Hinzufügen** , um weitere Bewertungen hinzuzufügen.
 
-   ![](assets/five.png)
+   ![](assets/account-score-5.png)
 
-1. Fügen Sie alle gewünschten Bewertungen hinzu. Klicken **Speichern** wann geschehen.
+1. Fügen Sie alle gewünschten Bewertungen hinzu. Klicks **Speichern** wann geschehen.
 
-   ![](assets/six.png)
+   ![](assets/account-score-6.png)

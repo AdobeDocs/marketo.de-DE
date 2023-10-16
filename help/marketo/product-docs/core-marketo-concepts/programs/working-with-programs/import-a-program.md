@@ -4,7 +4,7 @@ description: Programm importieren - Marketo-Dokumente - Produktdokumentation
 title: Programm importieren
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
 feature: Programs
-source-git-commit: 797ae74a76674a0ad2b05ff22cd1c084068299fd
+source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
 source-wordcount: '520'
 ht-degree: 0%
@@ -17,11 +17,11 @@ Ein Programm kann aus einem Marketo-Abonnement in ein anderes importiert werden.
 
 ## Programm importieren {#importing-a-program}
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Navigieren Sie zu **[!UICONTROL Marketingaktivitäten]**.
 
    ![](assets/import-a-program-1.png)
 
-1. Klicken Sie auf **Neu** und wählen Sie **Importprogramm**.
+1. Klicken Sie auf **[!UICONTROL Neu]** und wählen Sie **[!UICONTROL Importprogramm]**.
 
    ![](assets/import-a-program-2.png)
 
@@ -31,19 +31,19 @@ Ein Programm kann aus einem Marketo-Abonnement in ein anderes importiert werden.
    >
    >Um ein Sandbox-Konto mit Ihrem Live-Abonnement zu verbinden, wenden Sie sich an [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 
-1. Marketo auswählen **Abonnement** und ein Importprogramm. Klicken Sie auf **Weiter**.
+1. Marketo auswählen **[!UICONTROL Abonnement]** und ein Importprogramm. Klicken Sie auf **[!UICONTROL Weiter]**.
 
    ![](assets/import-a-program-3.png)
 
-1. Geben Sie eine **Kampagnenordner** für das importierte Programm. Klicken Sie auf **Weiter.**
+1. Geben Sie eine **[!UICONTROL Kampagnenordner]** für das importierte Programm. Klicken Sie auf **[!UICONTROL Weiter]**.
 
    ![](assets/import-a-program-4.png)
 
    >[!NOTE]
    >
-   >Stellen Sie sicher **Standardkonflikt verwenden** -Regeln ausgewählt ist. Konfliktregeln sind erforderlich, wenn Sie Programme in eine Instanz importieren, die Assets mit demselben Namen enthält.
+   >Stellen Sie sicher **[!UICONTROL Standardkonflikt verwenden]** -Regeln ausgewählt ist. Konfliktregeln sind erforderlich, wenn Sie Programme in eine Instanz importieren, die Assets mit demselben Namen enthält.
 
-1. Wählen Sie die gewünschten Konfliktdetails aus und klicken Sie auf **Nächste**.
+1. Wählen Sie die gewünschten Konfliktdetails aus und klicken Sie auf **[!UICONTROL Nächste]**.
 
    ![](assets/import-a-program-5.png)
 
@@ -51,7 +51,7 @@ Ein Programm kann aus einem Marketo-Abonnement in ein anderes importiert werden.
    >
    >Beim Importieren eines Programms, das Custom Flow-Schritte oder Smart List-Regeln verwendet, die von einem Flow Step Service in eine Zielinstanz abgeleitet werden, in der mehr als ein kompatibler Service Provider vorhanden ist, wird der importierende Benutzer aufgefordert, dem richtigen Service Provider in der Zielinstanz Schritte oder Regeln zuzuweisen.
 
-1. Details in der Vorschau anzeigen und **Import** das Programm.
+1. Details in der Vorschau anzeigen und **[!UICONTROL Import]** das Programm.
 
    ![](assets/import-a-program-6.png)
 
@@ -75,7 +75,7 @@ Programme verwenden externe Assets wie E-Mail-Vorlagen, Landingpage-Vorlagen, Bi
 
 >[!CAUTION]
 >
->Bildtyp Meine Token werden für Programmimporte nicht unterstützt. Wenn ein Programm mit Bildtyp meine Token importiert wird, **no** Token werden durchkommen.
+>Bildtyp Meine Token werden für Programmimporte nicht unterstützt. Wenn ein Programm mit Bildtyp meine Token importiert wird, _no_ Token werden durchkommen.
 
 **Programm-Tags:** Sie können Konfliktregeln verwenden, um zu steuern, wie Programm-Tags behandelt werden, die im Zielkonto nicht vorhanden sind. Durch die Verwendung der Standardregel werden die Programm-Tags erstellt, oder Sie können die Tags ignorieren.
 

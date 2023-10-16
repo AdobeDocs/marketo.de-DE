@@ -4,9 +4,9 @@ description: Programm klonen - Marketo-Dokumente - Produktdokumentation
 title: Klonen eines Programms
 exl-id: 5597007c-8f58-4306-ab78-3e65d6369fbf
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Klonen Sie schnell und einfach ein ganzes Programm und alle zugehörigen Assets, anstatt alles manuell neu zu erstellen.
 
-1. Suchen und wählen Sie das Programm aus, das Sie klonen möchten, und klicken Sie dann unter **Programmaktionen** click **Klonen**.
+1. Suchen und wählen Sie das Programm aus, das Sie klonen möchten. Im **[!UICONTROL Programmaktionen]** Dropdown, klicken Sie auf **[!UICONTROL Klonen]**.
 
    ![](assets/image2014-9-5-14-3a31-3a49.png)
 
@@ -31,7 +31,7 @@ Klonen Sie schnell und einfach ein ganzes Programm und alle zugehörigen Assets,
    >
    >Sehen Sie diesen HINWEIS im obigen Screenshot? Das bedeutet, wenn Sie ein Programm mit 1000 oder mehr Personen in einer Liste klonen, wird die Liste selbst geklont, aber es ist leer. Wenn Sie ein Programm mit einer Liste klonen, die 999 Personen oder weniger enthält, wird diese Liste zusammen mit allen Mitgliedern im geklonten Programm angezeigt.
 
-1. Geben Sie einen Namen ein.
+1. Geben Sie einen [!UICONTROL Name].
 
    ![](assets/cloneprogramname.png)
 
@@ -39,7 +39,7 @@ Klonen Sie schnell und einfach ein ganzes Programm und alle zugehörigen Assets,
 
    ![](assets/choosefolderclone.png)
 
-1. Fügen Sie eine optionale Beschreibung hinzu und klicken Sie auf **Erstellen**. Schauen Sie, wie schnell Sie ein neues Programm erstellen konnten, in dem alle Assets bereit sind zu starten!
+1. Fügen Sie eine optionale Beschreibung hinzu und klicken Sie auf **[!UICONTROL Erstellen]**. Schauen Sie, wie schnell Sie ein neues Programm erstellen konnten, in dem alle Assets bereit sind zu starten!
 
    ![](assets/createclone.png)
 

@@ -4,9 +4,9 @@ description: Programm löschen - Marketo-Dokumente - Produktdokumentation
 title: Programm löschen
 exl-id: c13dbb4a-36ea-49ee-aee2-a4af28750b0f
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,15 @@ Sie können ein Programm archivieren, aber manchmal wollen Sie es einfach dauerh
 
 ![](assets/image2014-9-23-15-3a40-3a57.png)
 
-1. Klicken **Programmaktionen**. Klicken **Löschen**.
+1. Klicken Sie auf **[!UICONTROL Programmaktionen]** und wählen Sie **[!UICONTROL Löschen]**.
 
    ![](assets/image2014-9-23-15-3a41-3a11.png)
 
-1. Wählen Sie die Option Alle löschen aus. Überprüfen Sie die Nebenwirkungen der Streichung des Programms und klicken Sie auf **Löschen** zur Bestätigung.
+1. Wählen Sie das Optionsfeld &quot;Alle löschen..&quot;. Überprüfen Sie die Auswirkungen der Streichung des Programms und klicken Sie auf **[!UICONTROL Löschen]** zur Bestätigung.
 
 >[!TIP]
 >
->**Archivierungsprogramme** behält die Programmdaten bei, macht das Programm jedoch aus dem Weg. Wählen Sie diese Option aus und klicken Sie auf **Nächste** , um weitere Details zur Archivierung anzuzeigen.
+>Archivierungsprogramme behalten die Programmdaten bei, versetzen das Programm jedoch aus dem Weg. Wählen Sie diese Option aus und klicken Sie auf **[!UICONTROL Nächste]** , um weitere Details zur Archivierung anzuzeigen.
 
 ![](assets/2017-05-05-15-04-15.png)
 
@@ -43,7 +43,7 @@ Um das Problem zu beheben, müssen Sie möglicherweise einen Drilldown durchfüh
 
    ![](assets/image2014-9-23-15-3a42-3a10.png)
 
-1. Klicken **Verwendet von** , um zu sehen, wo das Asset verwendet wird.
+1. Klicks **[!UICONTROL Verwendet von]** , um zu sehen, wo das Asset verwendet wird.
 
    ![](assets/image2014-9-23-15-3a42-3a57.png)
 

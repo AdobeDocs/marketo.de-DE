@@ -4,7 +4,7 @@ description: Importieren von Mitgliedern aus einer Tabelle in ein Programm - Mar
 title: Importieren von Mitgliedern aus einer Tabelle in ein Programm
 exl-id: 09c597bb-d28a-463b-8340-ff22d2e0fa02
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
@@ -23,35 +23,35 @@ Sie können eine Liste von Personen importieren, die automatisch Mitglied eines 
 
    >[!CAUTION]
    >
-   >Verwenden Sie beim Import eines Datums in ein Datumsfeld folgendes Format: 29.09.13 (Monat/Tag/Jahr).
+   >Verwenden Sie beim Import eines Datums in ein Datumsfeld folgendes Format: 29.9.24 (Monat/Tag/Jahr).
 
 ## CSV in Marketo importieren {#import-your-csv-into-marketo}
 
-1. Navigieren Sie in Ihrem Programm zum **Mitglieder** Abschnitt.
+1. Navigieren Sie in Ihrem Programm zum **[!UICONTROL Mitglieder]** Abschnitt.
 
    ![](assets/image2014-9-18-15-3a3-3a57.png)
 
-1. Klicks **Importieren von Mitgliedern**.
+1. Klicks **[!UICONTROL Importieren von Mitgliedern]**.
 
    ![](assets/image2014-9-18-15-3a38-3a14.png)
 
-1. Wählen Sie die CSV aus und klicken Sie auf **Nächste**.
+1. Wählen Sie die CSV aus und klicken Sie auf **[!UICONTROL Nächste]**.
 
    ![](assets/importlist1.png)
 
-1. Ordnen Sie die Datenwerte aus der Liste den entsprechenden Marketo-Feldern zu und klicken Sie auf **Nächste**.
+1. Ordnen Sie die Datenwerte aus der Liste den entsprechenden Marketo-Feldern zu und klicken Sie auf **[!UICONTROL Nächste]**.
 
    ![](assets/importlist12.png)
 
    >[!NOTE]
    >
-   >Wenn es Felder gibt, die Sie nicht importieren möchten, wählen Sie **IGNORE** im Dropdown-Menü Marketo-Feld.
+   >Wenn es Felder gibt, die Sie nicht importieren möchten, wählen Sie **[!UICONTROL IGNORE]** im Dropdown-Menü Marketo-Feld.
 
-1. Wählen Sie die **Mitgliederstatus** für Ihre Liste.
+1. Wählen Sie die **[!UICONTROL Mitgliederstatus]** für Ihre Liste.
 
    ![](assets/image2014-9-18-15-3a41-3a32.png)
 
-1. Klicks **Import**.
+1. Klicks **[!UICONTROL Import]**.
 
    ![](assets/image2014-9-18-15-3a44-3a19.png)
 
@@ -65,4 +65,4 @@ Sie können eine Liste von Personen importieren, die automatisch Mitglied eines 
 
 >[!MORELIKETHIS]
 >
->[Mitglieder verwalten und anzeigen](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md)
+>[Mitglieder verwalten und anzeigen](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md){target="_blank"}
