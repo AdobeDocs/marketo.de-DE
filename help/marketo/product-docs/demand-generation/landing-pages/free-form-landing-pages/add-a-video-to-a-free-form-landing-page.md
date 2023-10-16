@@ -4,10 +4,10 @@ description: Hinzufügen eines Videos zu einer Freiform-Landingpage - Marketo-Do
 title: Hinzufügen eines Videos zu einer Freiform-Landingpage
 exl-id: 3a3bbb56-1fd9-48dd-84e8-8750032bd984
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 2%
+source-wordcount: '240'
+ht-degree: 0%
 
 ---
 
@@ -17,7 +17,7 @@ Fügen Sie Videos mit Social-Sharing-Optionen auf Ihren Landingpages ein.
 
 >[!AVAILABILITY]
 >
->Nicht alle Kunden haben diese Funktion erworben. Detaillierte Informationen erhalten Sie vom zuständigen Vertriebsmitarbeiter.
+>Nicht alle Marketo Engage-Benutzer haben diese Funktion erworben. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).
 
 1. Navigieren Sie zu Ihrer Landingpage ohne Konfiguration und klicken Sie auf **Entwurf bearbeiten**.
 
@@ -33,7 +33,7 @@ Fügen Sie Videos mit Social-Sharing-Optionen auf Ihren Landingpages ein.
 
    >[!NOTE]
    >
-   >Die **Neu erstellen** -Funktion nur in Marketingaktivitäten angezeigt wird; ist es in Design Studio nicht verfügbar. In Design Studio sind nur bereits erstellte Videos verfügbar. Sie können jedoch eine Videofreigabe erstellen _innerhalb eines Programms_ durch Auswahl **Neu** > **Neues lokales Asset**. Sie können sie dann aus der Dropdown-Liste auswählen, wie hier dargestellt.
+   >Die **Neu erstellen** wird nur in Marketingaktivitäten angezeigt, nicht aber in Design Studio. In Design Studio sind nur bereits erstellte Videos verfügbar. Sie können jedoch eine Videofreigabe erstellen _innerhalb eines Programms_ durch Auswahl **Neu** > **Neues lokales Asset**. Sie können sie dann aus der Dropdown-Liste auswählen, wie hier dargestellt.
 
 1. Geben Sie die URL des YouTube-Videos ein und geben Sie Ihrem Video einen Namen. Wählen Sie unter der Dropdown-Liste Klonen aus die Option **Keines** Klicken Sie auf **Einfügen**.
 

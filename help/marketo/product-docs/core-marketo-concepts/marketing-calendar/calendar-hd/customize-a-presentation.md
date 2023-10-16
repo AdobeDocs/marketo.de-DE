@@ -4,10 +4,10 @@ description: Präsentation anpassen - Marketo-Dokumente - Produktdokumentation
 title: Anpassen einer Präsentation
 exl-id: c871afb9-9762-498d-b168-cfce4ef05736
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '277'
-ht-degree: 2%
+source-wordcount: '283'
+ht-degree: 1%
 
 ---
 
@@ -18,7 +18,7 @@ Richten Sie Ihre Kalenderpräsentation ein, um die Ziele und Aktivitäten widerz
 >[!AVAILABILITY]
 >
 >
->Nicht alle Kunden haben diese Funktion erworben. Detaillierte Informationen erhalten Sie vom zuständigen Vertriebsmitarbeiter.
+>Nicht alle Marketo Engage-Benutzer haben diese Funktion erworben. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).
 
 >[!PREREQUISITES]
 >
@@ -46,11 +46,11 @@ Presentations ist die großartigste, wenn sie Ihre Teamziele anzeigen. Ziehen Si
 
 Nachdem Sie die Ansichten abgerufen haben, die Sie in der Präsentation wünschen, legen Sie fest, in welcher Häufigkeit sie zwischen den verschiedenen Ansichten wechseln.
 
-1. Klicken **[!UICONTROL 5 Minuten]** (dies ist die Standardpriorität).
+1. Klicks **[!UICONTROL 5 Minuten]** (dies ist die Standardpriorität).
 
    ![](assets/image2015-3-18-13-3a17-3a29.png)
 
-1. Geben Sie einen Zeitpunkt mithilfe von Minuten ein. Klicken **[!UICONTROL Speichern]**.
+1. Geben Sie einen Zeitpunkt mithilfe von Minuten ein. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    >[!NOTE]
    >
@@ -62,11 +62,11 @@ Nachdem Sie die Ansichten abgerufen haben, die Sie in der Präsentation wünsche
 
 Die Kalenderanzeige kann in eine 3-wöchige oder monatliche Ansicht geändert werden.
 
-1. Wählen Sie die **[!UICONTROL Kalenderanzeige]** und wählen Sie zwischen **[!UICONTROL 3 Wochen]** oder **[!UICONTROL Monat]**.
+1. Wählen Sie die **[!UICONTROL Kalenderanzeige]** und wählen Sie zwischen **[!UICONTROL 3 Wochen]** oder einer **[!UICONTROL Monat]**.
 
    ![](assets/image2015-3-18-13-3a27-3a37.png)
 
-   Fantastisch Sind Sie bereit, Ihre Präsentation zu sehen?
+   Fantastisch! Sind Sie bereit, Ihre Präsentation zu sehen?
 
 >[!TIP]
 >

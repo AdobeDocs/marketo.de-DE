@@ -4,10 +4,10 @@ description: Erstellen einer Präsentation - Marketo-Dokumente - Produktdokument
 title: Erstellen einer Präsentation
 exl-id: 3a591c03-2604-44be-b335-2258151beaeb
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 9%
+source-wordcount: '87'
+ht-degree: 2%
 
 ---
 
@@ -18,21 +18,21 @@ Erstellen Sie eine Präsentation, um die Kalenderansichten und -ziele Ihres Team
 >[!AVAILABILITY]
 >
 >
->Nicht alle Kunden haben diese Funktion erworben. Detaillierte Informationen erhalten Sie vom zuständigen Vertriebsmitarbeiter.
+>Nicht alle Marketo Engage-Benutzer haben diese Funktion erworben. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).
 
 1. Navigieren Sie zu **[!UICONTROL Kalender]**.
 
    ![](assets/2017-05-10-15-30-47.png)
 
-1. Klicken **[!UICONTROL Presentations]** in der unteren rechten Ecke.
+1. Klicks **[!UICONTROL Presentations]** in der unteren rechten Ecke.
 
    ![](assets/image2015-3-18-12-3a29-3a26.png)
 
-1. Klicken **[!UICONTROL Präsentationsaktionen]** und wählen Sie **[!UICONTROL Neue Präsentation]**.
+1. Klicks **[!UICONTROL Präsentationsaktionen]** und wählen **[!UICONTROL Neue Präsentation]**.
 
    ![](assets/image2015-3-26-12-3a38-3a6.png)
 
-1. Wählen Sie einen Namen für die Präsentation aus. Klicken Sie auf **[!UICONTROL Erstellen]**.
+1. Wählen Sie einen Namen für die Präsentation. Klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/image2015-3-18-12-3a32-3a30.png)
 

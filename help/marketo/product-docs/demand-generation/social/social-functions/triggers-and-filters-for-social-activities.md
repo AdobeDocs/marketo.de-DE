@@ -4,10 +4,10 @@ description: Trigger und Filter für Social-Aktivitäten - Marketo-Dokumente - P
 title: Trigger und Filter für Social-Aktivitäten
 exl-id: 97b28a89-21d2-4179-9257-f50efbb3c228
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '158'
-ht-degree: 28%
+source-wordcount: '164'
+ht-degree: 23%
 
 ---
 
@@ -17,9 +17,9 @@ Social-Apps in Marketo verfügen über eigene spezielle Trigger und Filter.
 
 >[!AVAILABILITY]
 >
->Nicht alle Kunden haben diese Funktion erworben. Detaillierte Informationen erhalten Sie vom zuständigen Vertriebsmitarbeiter.
+>Nicht alle Marketo Engage-Benutzer haben diese Funktion erworben. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).
 
-1. Verwendung von Social _Trigger_, wählen Sie Ihre Smart-Kampagne aus und klicken Sie auf **Smart List** Registerkarte. Klicken Sie auf der rechten Seite auf das Pluszeichen (+), um es zu erweitern. **Trigger**, dann **Social**.
+1. Verwendung von Social _Trigger_, wählen Sie Ihre Smart-Kampagne aus und klicken Sie auf **Smart List** Registerkarte. Klicken Sie auf der rechten Seite auf das Pluszeichen (+), um die **Trigger**, dann **Social**.
 
    ![](assets/image2015-4-23-11-22-39.png)
 

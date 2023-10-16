@@ -3,10 +3,10 @@ unique-page-id: 2359807
 description: Preisausschreiben anpassen - Marketo Docs - Produktdokumentation
 title: Gewinnspielstile anpassen
 exl-id: 2b1437d9-a424-4d05-b614-7502c12e6ba2
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 3%
+source-wordcount: '160'
+ht-degree: 0%
 
 ---
 
@@ -16,7 +16,7 @@ Wenn Sie [Preisausschreiben erstellen](/help/marketo/product-docs/demand-generat
 
 >[!AVAILABILITY]
 >
->Nicht alle Kunden haben diese Funktion erworben. Detaillierte Informationen erhalten Sie vom zuständigen Vertriebsmitarbeiter.
+>Nicht alle Marketo Engage-Benutzer haben diese Funktion erworben. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).
 
 1. Navigieren Sie zu **Marketingaktivitäten**.
 
@@ -48,7 +48,7 @@ Wenn Sie [Preisausschreiben erstellen](/help/marketo/product-docs/demand-generat
    >
    >Wenn Sie ein Bild mit Text darin verwenden, denken Sie daran, den Text aus dem **Schaltfläche &quot;Enter&quot;** Feld unter Text oben.
 
-1. Bei jeder Änderung wird das Ergebnis in der Vorschau Ansicht und Bearbeiten angezeigt.
+1. Bei jeder Änderung wird das Ergebnis in der Vorschau &quot;Ansicht und Bearbeiten&quot;angezeigt.
 
    ![](assets/image2014-9-25-17-3a55-3a3.png)
 

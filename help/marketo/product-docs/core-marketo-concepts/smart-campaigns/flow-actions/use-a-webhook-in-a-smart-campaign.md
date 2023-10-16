@@ -4,10 +4,10 @@ description: Verwenden eines Webhooks in einer Smart-Kampagne - Marketo-Dokument
 title: Verwenden eines Webhooks in einer Smart-Kampagne
 exl-id: 19dcc469-288d-4bfb-92e1-3e8db75588a6
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 5%
+source-wordcount: '111'
+ht-degree: 0%
 
 ---
 
@@ -17,7 +17,7 @@ So verwenden Sie [Webhook](https://developers.marketo.com/documentation/webhooks
 
 >[!AVAILABILITY]
 >
->Nicht alle Kunden haben diese Funktion erworben. Detaillierte Informationen erhalten Sie vom zuständigen Vertriebsmitarbeiter.
+>Nicht alle Marketo Engage-Benutzer haben diese Funktion erworben. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).
 
 1. [Erstellen einer Smart-Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md).
 

@@ -4,22 +4,22 @@ description: "Hinzufügen [!DNL Google AdWords] as a [!DNL LaunchPoint] Service 
 title: "Hinzufügen [!DNL Google AdWords] as a [!DNL LaunchPoint] Dienst"
 exl-id: 993a057a-3f98-4a9f-a770-c9c80dedfd81
 feature: Administration, Integrations
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '287'
 ht-degree: 4%
 
 ---
 
-# Hinzufügen [!DNL Google AdWords] as a [!DNL LaunchPoint] Diensleistung {#add-google-adwords-as-a-launchpoint-service}
+# Hinzufügen [!DNL Google AdWords] as a [!DNL LaunchPoint] Dienst {#add-google-adwords-as-a-launchpoint-service}
 
-Verknüpfen Sie Ihre [!DNL Google AdWords] Konto zu Marketo zum automatischen Hochladen von Offline-Konversionsdaten von Marketo in [!DNL Google AdWords]. Dann aus dem [!DNL AdWords] -Benutzeroberfläche können Sie einfach erkennen, welche Klicks zu qualifizierten Leads, Chancen und neuen Kunden (oder welchen Umsatzstufen Sie verfolgen möchten) geführt haben, nachdem Sie [Benutzerdefinierte Spalten hinzufügen](https://support.google.com/adwords/answer/3073556){target="_blank"} in [!DNL AdWords]. Diese Informationen werden nicht in der Benutzeroberfläche von Marketo angezeigt.
+Verknüpfen [!DNL Google AdWords] Konto zu Marketo zum automatischen Hochladen von Offline-Konversionsdaten von Marketo in [!DNL Google AdWords]. Dann aus dem [!DNL AdWords] -Benutzeroberfläche können Sie einfach erkennen, welche Klicks zu qualifizierten Leads, Chancen und neuen Kunden (oder welchen Umsatzstufen Sie verfolgen möchten) geführt haben, nachdem Sie [Benutzerdefinierte Spalten hinzufügen](https://support.google.com/adwords/answer/3073556){target="_blank"} in [!DNL AdWords]. Diese Informationen werden nicht in der Benutzeroberfläche von Marketo angezeigt.
 
 Weitere Informationen [Google-Funktion für den Offline-Konversionsimport](https://support.google.com/adwords/answer/2998031?hl=en){target="_blank"}.
 
 >[!AVAILABILITY]
 >
->Nicht alle Kunden haben diese Funktion erworben. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).
+>Nicht alle Marketo Engage-Benutzer haben diese Funktion erworben. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ Weitere Informationen [Google-Funktion für den Offline-Konversionsimport](https
 
 >[!NOTE]
 >
->Sie können auch eine [[!DNL Google AdWords] as a [!DNL Launchpoint] Dienst mit einem Managerkonto](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md){target="_blank"}.
+>Sie können auch eine [[!DNL Google AdWords] as a [!DNL Launchpoint] -Dienst mit einem Managerkonto](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md){target="_blank"}.
 
 1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
 
@@ -41,7 +41,7 @@ Weitere Informationen [Google-Funktion für den Offline-Konversionsimport](https
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-3.png)
 
-1. Geben Sie einen [!UICONTROL Anzeigename] und wählen Sie **[!UICONTROL Google AdWords]**.
+1. Geben Sie einen [!UICONTROL Anzeigename] und wählen **[!UICONTROL Google AdWords]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-4.png)
 
@@ -61,7 +61,7 @@ Weitere Informationen [Google-Funktion für den Offline-Konversionsimport](https
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-7.png)
 
-1. Status wird als **[!UICONTROL Erfolg]**. Auswählen **[!UICONTROL Nächste]**.
+1. Der Status wird als **[!UICONTROL Erfolg]**. Auswählen **[!UICONTROL Nächste]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-8.png)
 
@@ -80,7 +80,7 @@ Weitere Informationen [Google-Funktion für den Offline-Konversionsimport](https
 
    >[!NOTE]
    >
-   >Verwenden eines konsistenten Attributionsmodells in Marketo und [!DNL AdWords] stellt die genauesten Daten bereit.
+   >Verwenden eines einheitlichen Attributionsmodells in Marketo und [!DNL AdWords] stellt die präzisesten Daten bereit.
 
 1. Klicken Sie auf **[!UICONTROL Erstellen]**.
 

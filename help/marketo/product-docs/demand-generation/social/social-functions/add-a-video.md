@@ -4,10 +4,10 @@ description: Video hinzufügen - Marketo Docs - Produktdokumentation
 title: Hinzufügen eines Videos
 exl-id: e704ec2c-07d7-430f-9514-3ee2a4ab66d9
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '194'
-ht-degree: 3%
+source-wordcount: '200'
+ht-degree: 0%
 
 ---
 
@@ -17,7 +17,7 @@ Fügen Sie Videos mit Social-Sharing-Optionen auf Ihren Landingpages ein.
 
 >[!AVAILABILITY]
 >
->Nicht alle Kunden haben diese Funktion erworben. Detaillierte Informationen erhalten Sie vom zuständigen Vertriebsmitarbeiter.
+>Nicht alle Marketo Engage-Benutzer haben diese Funktion erworben. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).
 
 1. Navigieren Sie zu Ihrer Landingpage und klicken Sie auf **Entwurf bearbeiten**.
 

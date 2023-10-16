@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 639bb1404117607af116122b410479d37ae32fad
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
 source-wordcount: '9094'
 ht-degree: 5%
@@ -276,7 +276,7 @@ ht-degree: 5%
             + [Verwenden der standardmäßigen Smart-List-Regellogik](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/using-standard-smart-list-rule-logic.md)
          + Flow-Aktionen {#flow-actions}
             + [Hinzufügen eines Flussschritts zu einer Smart-Kampagne](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
-            + [Ordnen Sie die Flussschritte in einer Smart-Kampagne neu an.](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md)
+            + [Ordnen Sie die Flussschritte in einer Smart-Kampagne neu an.](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-the-flow-steps-in-a-smart-campaign.md)
             + [Zu Liste hinzufügen](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md)
             + [Daten an ein Feld anhängen](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/append-data-to-a-field.md)
             + [Webhook aufrufen](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md)

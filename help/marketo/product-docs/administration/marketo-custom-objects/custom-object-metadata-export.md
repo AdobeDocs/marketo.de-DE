@@ -3,9 +3,9 @@ description: Export benutzerdefinierter Objektmetadaten - Marketo-Dokumente - Pr
 title: Export benutzerdefinierter Objektmetadaten
 exl-id: 4c23f07e-3491-43c5-8ea8-2e54c9a4b9af
 feature: Custom Objects
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '110'
 ht-degree: 4%
 
 ---
@@ -16,13 +16,13 @@ Wenn Sie unsere SOAP-API oder Munchkin-API verwenden, kann das benutzerdefiniert
 
 >[!AVAILABILITY]
 >
->Nicht alle Kunden haben diese Funktion erworben. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).
+>Nicht alle Marketo Engage-Benutzer haben diese Funktion erworben. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).
 
 1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
 
    ![](assets/custom-object-metadata-export-1.png)
 
-1. Klicken **[!UICONTROL Benutzerdefinierte Marketo-Objekte]**.
+1. Klicks **[!UICONTROL Benutzerdefinierte Marketo-Objekte]**.
 
    ![](assets/custom-object-metadata-export-2.png)
 

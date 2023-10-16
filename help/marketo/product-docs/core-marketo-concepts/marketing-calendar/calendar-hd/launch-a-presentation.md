@@ -4,10 +4,10 @@ description: Präsentation starten - Marketo-Dokumente - Produktdokumentation
 title: Präsentation starten
 exl-id: 2726e185-c28a-44bb-b7a6-46698efcd1b4
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 5%
+source-wordcount: '107'
+ht-degree: 0%
 
 ---
 
@@ -18,7 +18,7 @@ Sobald Sie die Ansichten und die Drehfrequenz für Ihre Präsentation festgelegt
 >[!AVAILABILITY]
 >
 >
->Nicht alle Kunden haben diese Funktion erworben. Detaillierte Informationen erhalten Sie vom zuständigen Vertriebsmitarbeiter.
+>Nicht alle Marketo Engage-Benutzer haben diese Funktion erworben. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).
 
 >[!PREREQUISITES]
 >
@@ -29,11 +29,11 @@ Sobald Sie die Ansichten und die Drehfrequenz für Ihre Präsentation festgelegt
 >
 >Stellen Sie sicher, dass _Vorschau einer Präsentation_ vor dem Start.
 
-1. Klicken **[!UICONTROL Launch]**.
+1. Klicks **[!UICONTROL Launch]**.
 
    ![](assets/image2015-3-20-14-3a4-3a18.png)
 
-1. Klicken **[!UICONTROL Launch]** einmalig. Dadurch werden Sie von Marketo abgemeldet, damit die Präsentation sicher angezeigt werden kann.
+1. Klicks **[!UICONTROL Launch]** einmalig. Dadurch werden Sie von Marketo abgemeldet, damit die Präsentation sicher angezeigt werden kann.
 
    ![](assets/image2015-3-20-14-3a5-3a34.png)
 

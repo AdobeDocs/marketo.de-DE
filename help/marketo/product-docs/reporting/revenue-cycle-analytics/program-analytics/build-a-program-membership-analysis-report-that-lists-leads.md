@@ -4,10 +4,10 @@ description: Erstellen eines Berichts zur Analyse der Programmmitgliedschaft, in
 title: Erstellen eines Berichts zur Analyse der Programmmitgliedschaft, der Leads auflistet
 exl-id: 52fa9808-a3d6-48b9-9a6a-93d262591c2b
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 4%
+source-wordcount: '153'
+ht-degree: 0%
 
 ---
 
@@ -17,7 +17,7 @@ Führen Sie diese Schritte aus, um einen Bericht zur Programmteilnahmeanalyse zu
 
 >[!AVAILABILITY]
 >
->Nicht alle Kunden haben diese Funktion erworben. Detaillierte Informationen erhalten Sie vom zuständigen Vertriebsmitarbeiter.
+>Nicht alle Marketo Engage-Benutzer haben diese Funktion erworben. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).
 
 1. Launch Umsatz Explorer.
 

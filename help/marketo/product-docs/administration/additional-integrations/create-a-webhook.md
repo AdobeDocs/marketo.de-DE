@@ -4,10 +4,10 @@ description: Erstellen Sie eine [!DNL Webhook] - Marketo-Dokumente - Produktdoku
 title: Erstellen Sie eine [!DNL Webhook]
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
 feature: Administration, Webhooks
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '215'
-ht-degree: 6%
+source-wordcount: '221'
+ht-degree: 3%
 
 ---
 
@@ -17,17 +17,17 @@ Verwendung [!DNL Webhooks] , um Webdienste von Drittanbietern zu nutzen, um Text
 
 >[!AVAILABILITY]
 >
->Nicht alle Kunden haben diese Funktion erworben. Detaillierte Informationen erhalten Sie vom zuständigen Vertriebsmitarbeiter.
+>Nicht alle Marketo Engage-Benutzer haben diese Funktion erworben. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).
 
 1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
 
    ![](assets/create-a-webhook-1.png)
 
-1. Klicken **[!UICONTROL Webhooks]**.
+1. Klicks **[!UICONTROL Webhooks]**.
 
    ![](assets/create-a-webhook-2.png)
 
-1. Klicken **[!UICONTROL Neuer Webhook]**.
+1. Klicks **[!UICONTROL Neuer Webhook]**.
 
    ![](assets/create-a-webhook-3.png)
 
@@ -39,7 +39,7 @@ Verwendung [!DNL Webhooks] , um Webdienste von Drittanbietern zu nutzen, um Text
    >
    >Dazu gehört häufig die Eingabe Ihrer Anmeldedaten für den Drittanbieterdienst als URL-Parameter oder in die POST-Vorlage.
 
-   * **[!UICONTROL URL]**: Geben Sie die URL ein, die Sie in Ihrer Anfrage an den Webdienst verwenden. So fügen Sie ein Token ein, z. B. die E-Mail-Adresse der Person (**`{{lead.Email Address}}`**), klicken Sie in Ihrer Anfrage auf **[!UICONTROL Token einfügen]**.
+   * **[!UICONTROL URL]**: Geben Sie die URL ein, die Sie in Ihrer Anforderung für den Webdienst verwenden. So fügen Sie ein Token ein, z. B. die E-Mail-Adresse der Person (**`{{lead.Email Address}}`**), klicken Sie in Ihrer Anfrage auf **[!UICONTROL Token einfügen]**.
 
    * **[!UICONTROL Vorlage]**: Wenn Sie Informationen im Hauptteil der Anfrage übermitteln möchten, geben Sie dies über die Payload-Vorlage ein. Für die folgenden Anforderungstypen zulässige Vorlagen: POST, DELETE, PATCH oder PUT. Sie können Datenformate wie JSON oder XML verwenden. Um ein Token in Ihre Vorlage einzufügen, klicken Sie auf **[!UICONTROL Token einfügen]**.
 

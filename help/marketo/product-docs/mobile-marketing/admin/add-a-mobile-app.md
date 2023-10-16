@@ -4,10 +4,10 @@ description: Mobile App hinzufügen - Marketo Docs - Produktdokumentation
 title: Mobile App hinzufügen
 exl-id: 79edf8cb-4d8b-440a-aa8a-6ead1a93b95a
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 4%
+source-wordcount: '198'
+ht-degree: 2%
 
 ---
 
@@ -20,21 +20,21 @@ Apps beginnen normalerweise in einer Sandbox-Umgebung, in der die erste Entwickl
 >[!AVAILABILITY]
 >
 >
->Nicht alle Kunden haben diese Funktion erworben. Detaillierte Informationen erhalten Sie vom zuständigen Vertriebsmitarbeiter.
+>Nicht alle Marketo Engage-Benutzer haben diese Funktion erworben. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).
 
-1. Klicken **Admin**.
+1. Klicks **Admin**.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. Klicken **Mobile Apps und Geräte**.
+1. Klicks **Mobile Apps und Geräte**.
 
    ![](assets/image2016-1-12-15-3a42-3a30.png)
 
-1. Klicken **Neue mobile App**.
+1. Klicks **Neue mobile App**.
 
    ![](assets/image2015-4-22-16-3a17-3a15.png)
 
-1. Namen eingeben. Im **Typ** wählen Sie in der Dropdown-Liste den Umgebungstyp aus, den Sie verwenden: Sandbox oder Produktion. Klicken **Speichern**.
+1. Namen eingeben. Im **Typ** wählen Sie in der Dropdown-Liste den Umgebungstyp aus, den Sie verwenden: Sandbox oder Produktion. Klicken Sie auf **Speichern**.
 
    ![](assets/image2015-11-18-15-3a52-3a15.png)
 

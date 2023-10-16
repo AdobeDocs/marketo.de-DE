@@ -4,9 +4,9 @@ description: Email Deliverability Power Pack - Importieren einer Testliste - Mar
 title: Email Deliverability Power Pack - Importieren einer Testliste
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
 feature: Deliverability
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '323'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Eine Testliste ist eine Liste von E-Mail-Konten mehrerer Postfachanbieter, einsc
 
 >[!AVAILABILITY]
 >
->Nicht alle Kunden haben diese Funktion erworben. Weitere Informationen erhalten Sie von Ihrem Vertriebsmitarbeiter.
+>Nicht alle Marketo Engage-Benutzer haben diese Funktion erworben. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).
 
 ## Testliste importieren {#import-a-seed-list}
 

@@ -4,10 +4,10 @@ description: Erstellen eines Verweisangebots - Marketo Docs - Produktdokumentati
 title: Erstellen eines Verweisangebots
 exl-id: c295943e-b9e5-4922-a3a4-800ed60cd513
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '264'
-ht-degree: 2%
+source-wordcount: '270'
+ht-degree: 0%
 
 ---
 
@@ -17,7 +17,7 @@ Verweisangebote geben den Menschen einen Anreiz, ihre Freunde zu verweisen. Erst
 
 >[!AVAILABILITY]
 >
->Nicht alle Kunden haben diese Funktion erworben. Detaillierte Informationen erhalten Sie vom zuständigen Vertriebsmitarbeiter.
+>Nicht alle Marketo Engage-Benutzer haben diese Funktion erworben. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).
 
 1. Wählen Sie im Programm die Option **Neu** > **Neues lokales Asset**.
 

@@ -4,10 +4,10 @@ description: Grundlegendes zu benutzerdefinierten Marketo-Objekten - Marketo-Dok
 title: Grundlegendes zu benutzerdefinierten Marketo-Objekten
 exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
 feature: Custom Objects
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '672'
-ht-degree: 2%
+source-wordcount: '678'
+ht-degree: 1%
 
 ---
 
@@ -17,17 +17,17 @@ Verwenden Sie benutzerdefinierte Objekte, um Metriken zu verfolgen, die für Ihr
 
 >[!AVAILABILITY]
 >
->Nicht alle Kunden haben diese Funktion erworben. Detaillierte Informationen erhalten Sie vom zuständigen Vertriebsmitarbeiter.
+>Nicht alle Marketo Engage-Benutzer haben diese Funktion erworben. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).
 
 Verwenden Sie benutzerdefinierte Objekte als Filter und Trigger in Ihren Smart-Kampagnen. Beispiel:
 
 * **Filter**: E-Mails nur an Inhaber einer bestimmten Fahrzeugmarke senden
-* **Trigger**: Senden Sie eine E-Mail, wenn ein benutzerdefiniertes Objekt zu einer Person oder einem Unternehmen hinzugefügt wird.
+* **Trigger**: Senden Sie eine E-Mail, wenn einer Person oder einem Unternehmen ein benutzerdefiniertes Objekt hinzugefügt wird.
 
 Sie können benutzerdefinierte Objekte in einer Eins-zu-viele- oder einer n-zu-n-Beziehung einrichten. Beispiel:
 
 * **Eins-zu-viele**: Eine Person besitzt mehrere Autos
-* **Viele-zu-viele**: Mehrere Schüler/innen sind an mehreren Kursen aus einem Kurskatalog eingeschrieben
+* **Viele-zu-viele**: Mehrere Schüler/innen sind an mehreren Kursen aus einem Kurskatalog eingeschrieben.
 
 Eine Eins-zu-viele-Struktur verwendet ein einzelnes Verknüpfungsfeld, um das benutzerdefinierte Objekt mit einer Person oder einem Unternehmen zu verbinden.
 
@@ -47,7 +47,7 @@ Viele zu viele benutzerdefinierte Objekte verwenden zwei Verknüpfungsfelder, di
 
    ![](assets/understanding-marketo-custom-objects-1.png)
 
-1. Klicken **[!UICONTROL Benutzerdefinierte Marketo-Objekte]**.
+1. Klicks **[!UICONTROL Benutzerdefinierte Marketo-Objekte]**.
 
    ![](assets/understanding-marketo-custom-objects-2.png)
 
@@ -79,7 +79,7 @@ Nachdem Sie die benutzerdefinierte Objektstruktur erstellt haben, werden die ben
 
    ![](assets/understanding-marketo-custom-objects-6.png)
 
-1. Klicken Sie auf der Personendetailseite auf die **[!UICONTROL Benutzerdefinierte Objekte]** Registerkarte. Wählen Sie das Objekt aus der Dropdown-Liste aus.
+1. Klicken Sie auf der Personendetailseite auf die **[!UICONTROL Benutzerdefinierte Objekte]** Registerkarte. Wählen Sie das Objekt aus der Dropdownliste aus.
 
    ![](assets/understanding-marketo-custom-objects-7.png)
 

@@ -3,10 +3,10 @@ unique-page-id: 2359799
 description: Preisausschreiben veröffentlichen - Marketo-Dokumente - Produktdokumentation
 title: Preisausschreiben veröffentlichen
 exl-id: c02d213c-a965-4737-817a-ce8bd7491853
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 3%
+source-wordcount: '183'
+ht-degree: 0%
 
 ---
 
@@ -16,7 +16,7 @@ Nach [Preisausschreiben erstellen](/help/marketo/product-docs/demand-generation/
 
 >[!AVAILABILITY]
 >
->Nicht alle Kunden haben diese Funktion erworben. Detaillierte Informationen erhalten Sie vom zuständigen Vertriebsmitarbeiter.
+>Nicht alle Marketo Engage-Benutzer haben diese Funktion erworben. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).
 
 >[!NOTE]
 >
@@ -38,11 +38,11 @@ Nach [Preisausschreiben erstellen](/help/marketo/product-docs/demand-generation/
    >
    >Sie müssen Ihr Gewinnspiel genehmigen, um es hier verfügbar zu machen.
 
-   Herzlichen Glückwunsch!  Validieren Sie die Landingpage und Ihr Gewinnspiel ist live. Sie können auch [Landingpage in Facebook veröffentlichen](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) oder [stellen Sie den Preisausschreiben auf Ihre Website](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
+   Herzlichen Glückwunsch! Validieren Sie die Landingpage und Ihr Gewinnspiel ist live. Sie können auch [Landingpage in Facebook veröffentlichen](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) oder [stellen Sie den Preisausschreiben auf Ihre Website](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
 
    >[!TIP]
    >
-   >Testen und verfeinern Sie Ihr Gewinnspiel. Gehen Sie zu den Gewinnspielen auf Ihrer Webseite und melden Sie sich mit Testinformationen an. Notieren Sie sich alles, was Sie über das Benutzererlebnis ändern möchten.
+   >Testen und verfeinern Sie Ihr Gewinnspiel. Gehen Sie zu den Preisausschreiben auf Ihrer Webseite und melden Sie sich mit Testinformationen an. Notieren Sie sich alles, was Sie über das Benutzererlebnis ändern möchten.
 
    >[!NOTE]
    >

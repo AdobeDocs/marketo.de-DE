@@ -3,10 +3,10 @@ unique-page-id: 2359795
 description: Preisausschreiben erstellen - Marketo-Dokumente - Produktdokumentation
 title: Gewinnspiele erstellen
 exl-id: c16c03df-86d0-40ee-ad95-3c2653fa2a07
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '293'
-ht-degree: 3%
+source-wordcount: '299'
+ht-degree: 1%
 
 ---
 
@@ -16,7 +16,7 @@ Ein Preisausschreiben gibt den Leuten die Möglichkeit, einen Preis zu gewinnen,
 
 >[!AVAILABILITY]
 >
->Nicht alle Kunden haben diese Funktion erworben. Detaillierte Informationen erhalten Sie vom zuständigen Vertriebsmitarbeiter.
+>Nicht alle Marketo Engage-Benutzer haben diese Funktion erworben. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).
 
 1. Wählen Sie im Programm die Option **Neu** > **Neues lokales Asset**.
 
@@ -36,7 +36,7 @@ Ein Preisausschreiben gibt den Leuten die Möglichkeit, einen Preis zu gewinnen,
 
    Der Gewinnspiel-Editor wird in einem neuen Fenster geöffnet. Die Standardeinstellungen sind alle gut, aber Sie müssen dennoch einige Details konfigurieren. Wir zeigen Ihnen wie in den nächsten Schritten.
 
-1. Klicken **Details zu Preisausschreiben**.
+1. Klicks **Details zu Preisausschreiben**.
 
    ![](assets/image2014-9-25-17-3a32-3a37.png)
 
@@ -48,7 +48,7 @@ Ein Preisausschreiben gibt den Leuten die Möglichkeit, einen Preis zu gewinnen,
    >
    >Für tägliche und wöchentliche Zeichnungen sind die Start- und Endzeiten jeweils um 12 Uhr bzw. 23:59 Uhr festgelegt. Für eine einmalige Zeichnung können Sie Ihre eigenen Start- und Endzeiten wählen.
 
-1. Klicken **Erweiterte Optionen**.
+1. Klicks **Erweiterte Optionen**.
 
    ![](assets/image2014-9-25-17-3a33-3a19.png)
 
@@ -62,11 +62,11 @@ Ein Preisausschreiben gibt den Leuten die Möglichkeit, einen Preis zu gewinnen,
    >
    >Auf diesem Bildschirm können Sie auch einen Link zu Datenschutzrichtlinien hinzufügen. Siehe [Hinzufügen Ihrer Datenschutzrichtlinie zu einer Social App](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md).
 
-1. Klicken **Beenden**.
+1. Klicks **Beenden**.
 
    ![](assets/image2014-9-25-17-3a34-3a2.png)
 
-1. Klicken **Genehmigen und schließen**.
+1. Klicks **Genehmigen und schließen**.
 
    ![](assets/image2014-9-25-17-3a34-3a15.png)
 
@@ -76,7 +76,7 @@ Ein Preisausschreiben gibt den Leuten die Möglichkeit, einen Preis zu gewinnen,
 
 Wenn Probleme beim Gewinnspiel auftreten, werden Sie aufgefordert, diese zu beheben, bevor der Gewinnspiel genehmigt wird.
 
-Herzlichen Glückwunsch!  Sie haben ein Preisausschreiben erstellt.
+Herzlichen Glückwunsch! Sie haben ein Preisausschreiben erstellt.
 
 >[!MORELIKETHIS]
 >
