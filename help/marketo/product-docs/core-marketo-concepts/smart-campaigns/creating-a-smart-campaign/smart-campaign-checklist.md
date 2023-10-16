@@ -4,7 +4,7 @@ description: Checkliste für intelligente Kampagnen - Marketo-Dokumente - Produk
 title: Checkliste für intelligente Kampagnen
 exl-id: 3c0d08c9-66ae-4083-ab0a-fa5a95149aba
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 1%
@@ -17,7 +17,7 @@ Führen Sie die folgenden Schritte aus, um einen reibungslosen Ablauf der Smart-
 
 ## Abrufen der Fehlerrate der Smart-Liste {#get-rid-of-smart-list-errors}
 
-Klicken Sie in Ihrer Smart-Kampagne auf **Smart List**. Entfernen Sie alle roten, knackigen Linien, die Sie sehen, indem Sie die Fehler beheben.
+Klicken Sie in Ihrer Smart-Kampagne auf **[!UICONTROL Smart List]**. Entfernen Sie alle roten, knackigen Linien, die Sie sehen, indem Sie die Fehler beheben.
 
 ![](assets/smart-campaign-checklist-1.png)
 
@@ -25,15 +25,15 @@ Klicken Sie in Ihrer Smart-Kampagne auf **Smart List**. Entfernen Sie alle roten
 >
 >Rote eckige Linien zeigen Fehler oder fehlende Informationen an. Wenn die Kampagne nicht korrigiert wird, ist sie ungültig und wird nicht ausgeführt.
 >
->Außerdem **Einfache Bearbeitung**. Wenn Sie über Dutzende oder Hunderte von Filtern verfügen, ist es schwierig, diese zu verwalten und zu verfolgen. Weniger Filter sind auch schneller zu laden.
+>Außerdem sollten Sie die Dinge einfach halten. Wenn Sie über Dutzende oder Hunderte von Filtern verfügen, ist es schwierig, diese zu verwalten und zu verfolgen. Weniger Filter sind auch schneller zu laden.
 
 >[!NOTE]
 >
->Verwenden **Mitglied der Smart List** kann in der anderen Liste Fehler enthalten. Schau auch da hin.
+>Verwenden **[!UICONTROL Mitglied der Smart List]** kann in der anderen Liste Fehler enthalten. Schau auch da hin.
 
 ## Abrufen von Flussfehlern {#get-rid-of-flow-errors}
 
-Klicken Sie in Ihrer Smart-Kampagne auf **Fluss**. Entfernen Sie alle roten, knackigen Linien, die Sie sehen, indem Sie die Fehler beheben.
+Klicken Sie in Ihrer Smart-Kampagne auf **[!UICONTROL Fluss]**. Entfernen Sie alle roten, knackigen Linien, die Sie sehen, indem Sie die Fehler beheben.
 
 ![](assets/smart-campaign-checklist-2.png)
 
@@ -43,13 +43,13 @@ Klicken Sie in Ihrer Smart-Kampagne auf **Fluss**. Entfernen Sie alle roten, kna
 
 ## Überprüfen Sie die Registerkarte &quot;Zeitplan&quot;. {#review-the-schedule-tab}
 
-Im **Zeitplan** Registerkarte, aktivieren **Smart** **Liste** **Status** für Fehler in der Smart-Kampagne, die behoben werden müssen.
+Im **[!UICONTROL Zeitplan]** Registerkarte, aktivieren **[!UICONTROL Status intelligenter Listen]** für Fehler in der Smart-Kampagne, die behoben werden müssen.
 
 ![](assets/smart-campaign-checklist-3.png)
 
 ## Personenbeschränkung überprüfen {#check-person-restrictions-limit}
 
-Im **Zeitplan** -Tab, stellen Sie sicher, dass die Anzahl qualifizierter Personen die Personenbeschränkung nicht überschreitet.
+Im **[!UICONTROL Zeitplan]** -Tab, stellen Sie sicher, dass die Anzahl qualifizierter Personen die Personenbeschränkung nicht überschreitet.
 
 ![](assets/smart-campaign-checklist-4.png)
 
@@ -63,4 +63,4 @@ Im **Zeitplan** -Tab, stellen Sie sicher, dass die Anzahl qualifizierter Persone
 >
 >Wenn Ihre Smart-Kampagne weiterhin fehlschlägt, erfahren Sie, wie Sie [Benachrichtigungen verstehen](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) um herauszufinden, was schiefgelaufen ist und wie es zu beheben ist.
 
-Großartig gemacht! Halten Sie diese Checkliste bereit, bevor Sie eine Smart-Kampagne ausführen.
+Gut gemacht! Halten Sie diese Checkliste bereit, bevor Sie eine Smart-Kampagne ausführen.

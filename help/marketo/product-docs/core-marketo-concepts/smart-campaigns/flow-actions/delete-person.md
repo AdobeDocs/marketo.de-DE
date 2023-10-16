@@ -4,20 +4,20 @@ description: Person löschen - Marketo Docs - Produktdokumentation
 title: Person löschen
 exl-id: 40039444-9b2a-4b80-93bc-7da3d6e9475c
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '123'
 ht-degree: 4%
 
 ---
 
 # Person löschen {#delete-person}
 
-Fehlerhafte Personen werden manchmal in Ihre Datenbank aufgenommen. Der Schritt zum Löschen von Personen kann sie entfernen.
+Fehlerhafte Personen gelangen manchmal in Ihre Datenbank. Der Schritt zum Löschen von Personen kann sie entfernen.
 
 ## Überblick {#overview}
 
-Verwenden Sie den Flussschritt in einer intelligenten Kampagne.
+Verwenden Sie den Flussschritt in einer Smart-Kampagne.
 
 ![](assets/one-4.png)
 
@@ -31,10 +31,10 @@ Wenn Sie in den Flussschritt ziehen, wird automatisch auch der Löschvorgang aus
 
 ![](assets/two-4.png)
 
-Sie können aus Marketo und nicht aus Ihrem CRM-System löschen, z. B.:
+Sie können aus der Marketo Engage löschen und nicht aus Ihrem CRM-System wie folgt:
 
 ![](assets/three-3.png)
 
 >[!NOTE]
 >
->Person aus Ihrem CRM entfernen **funktioniert nur mit Salesforce**. Wenn Sie eine Person aus Marketo löschen und sie in Salesforce behalten möchten, werden sie in Marketo neu erstellt, wenn ihr Salesforce-Datensatz jemals aktualisiert wird.
+>Person aus Ihrem CRM entfernen _funktioniert nur mit[!DNL Salesforce]_. Wenn Sie eine Person aus Marketo löschen und sie beibehalten [!DNL Salesforce], werden sie in Marketo neu erstellt, wenn ihre [!DNL Salesforce] wird immer aktualisiert.

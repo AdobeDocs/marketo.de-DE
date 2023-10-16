@@ -4,7 +4,7 @@ description: Ändern der Personenpartition - Marketo Docs - Produktdokumentation
 title: Personen-Partition ändern
 exl-id: 7b2e0de0-2b49-4f7c-b4d5-47e1a16eb98d
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 16%
@@ -15,7 +15,7 @@ ht-degree: 16%
 
 ## Überblick {#overview}
 
-Wenn Sie [Arbeitsbereiche und Partitionen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md), möchten Sie Smart-Kampagnen erstellen, um Personen von einer Partition zur nächsten zu verschieben.
+Wenn Sie [Arbeitsbereiche und Partitionen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}, möchten Sie Smart-Kampagnen erstellen, um Personen von einer Partition zur nächsten zu verschieben.
 
 ![](assets/one-3.png)
 

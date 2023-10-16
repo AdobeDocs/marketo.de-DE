@@ -4,7 +4,7 @@ description: Definieren einer Smart-Liste für eine intelligente Kampagne | Trig
 title: Definieren einer Smart-Liste für eine intelligente Kampagne | TRIGGER
 exl-id: 14d9b15e-864a-47ef-8f39-3d65e6036a82
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Erstellen Sie basierend auf Live-Ereignissen eine Smart-Kampagne für eine Person, indem Sie Trigger hinzufügen.
 
-1. Klicken Sie in Ihrer Smart-Kampagne auf die **Smart List** Registerkarte.
+1. Klicken Sie in Ihrer Smart-Kampagne auf die **[!UICONTROL Smart List]** Registerkarte.
 
    ![](assets/define-smart-list-for-smart-campaign-trigger-1.png)
 
@@ -25,11 +25,11 @@ Erstellen Sie basierend auf Live-Ereignissen eine Smart-Kampagne für eine Perso
 
    >[!NOTE]
    >
-   >Eine Smart-Kampagne mit Triggern wird in **Trigger** -Modus. Er wird basierend auf ausgelösten Ereignissen und beliebigen zusätzlichen Filtern jeweils für eine Person ausgeführt.
+   >Eine Smart-Kampagne mit Triggern wird in _Trigger_ -Modus. Er wird basierend auf ausgelösten Ereignissen und beliebigen zusätzlichen Filtern jeweils für eine Person ausgeführt.
 
    >[!IMPORTANT]
    >
-   >Wenn Sie ein boolesches Feld in einer Trigger-Kampagnen-Smart-Liste verwenden, müssen Sie es explizit auf &quot;false&quot;setzen, damit das Feld während der Ausführung der Kampagne korrekt ausgewertet wird.
+   >Bei Verwendung eines booleschen Felds in einer Smart-List einer Trigger-Kampagne müssen Sie es explizit auf &quot;false&quot;setzen, damit das Feld während der Ausführung der Kampagne korrekt ausgewertet wird.
 
 1. Klicken Sie auf die Dropdown-Liste und wählen Sie einen Operator aus.
 
@@ -49,10 +49,10 @@ Erstellen Sie basierend auf Live-Ereignissen eine Smart-Kampagne für eine Perso
 
    >[!NOTE]
    >
-   >Bei mehreren Triggern durchläuft eine Person den Fluss, wenn **ANDERE** einer der Trigger aktiviert wird.
+   >Bei mehreren Triggern durchläuft eine Person den Fluss, wenn _ANDERE_ einer der Trigger aktiviert wird.
 
-Um die Kampagne für eine Reihe von Personen gleichzeitig auszuführen, erfahren Sie, wie Sie [Definieren einer Smart-Liste für eine intelligente Kampagne | Charge](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
+Um die Kampagne für eine Reihe von Personen gleichzeitig auszuführen, erfahren Sie, wie Sie [Definieren einer Smart-Liste für eine intelligente Kampagne | Charge](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->[Hinzufügen eines Flussschritts zu einer Smart-Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
+>[Hinzufügen eines Flussschritts zu einer Smart-Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}

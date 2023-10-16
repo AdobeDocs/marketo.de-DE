@@ -4,26 +4,26 @@ description: Erstellen einer neuen Smart-Kampagne - Marketo-Dokumente - Produktd
 title: Erstellen einer neuen Smart-Kampagne
 exl-id: c24ef00a-1f5c-4d0f-a7ff-131dcb593119
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
 
 # Erstellen einer neuen Smart-Kampagne {#create-a-new-smart-campaign}
 
-Smart-Kampagnen sind das wichtigste Tool in Marketo Engage. Sie können auf eine Person Trigger werden und Aktionen durchführen oder Millionen von Personen zusammenführen und eine Reihe von Durchsatzschritten ausführen.
+Smart-Kampagnen sind das wichtigste Tool im Marketo Engage. Sie können auf eine Person Trigger werden und Aktionen durchführen oder Millionen von Personen zusammenführen und eine Reihe von Durchsatzschritten ausführen.
 
 >[!TIP]
 >
 >Weitere Informationen [Smart-Kampagnen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"}.
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Navigieren Sie zu **[!UICONTROL Marketingaktivitäten]**.
 
    ![](assets/create-a-new-smart-campaign-1.png)
 
-1. Klicken Sie mit der rechten Maustaste auf das gewünschte Programm und wählen Sie **Neue intelligente Kampagne**.
+1. Klicken Sie mit der rechten Maustaste auf das gewünschte Programm und wählen Sie **[!UICONTROL Neue intelligente Kampagne]**.
 
    ![](assets/create-a-new-smart-campaign-2.png)
 
@@ -31,7 +31,7 @@ Smart-Kampagnen sind das wichtigste Tool in Marketo Engage. Sie können auf eine
    >
    >Sie können Smart-Kampagnen als lokale Assets eines beliebigen Programms erstellen.
 
-1. Geben Sie den Namen der Smart-Kampagne ein und klicken Sie auf **Erstellen**.
+1. Geben Sie den Namen der Smart-Kampagne ein und klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/create-a-new-smart-campaign-3.png)
 

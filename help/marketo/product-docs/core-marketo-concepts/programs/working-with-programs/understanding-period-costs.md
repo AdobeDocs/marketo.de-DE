@@ -4,9 +4,9 @@ description: Zeitraumkosten - Marketo-Dokumente - Produktdokumentation
 title: Zeitkosten verstehen
 exl-id: 99f50eaf-28cf-4a8b-8ebd-89a4beef986a
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Die Periodenkosten beziehen sich auf das Geld, das Sie in einem bestimmten Monat
 >
 >Wenn Sie 1000 $ ausgeben, um einen Illustrator für ein eBook zu mieten, das im Juli startet, würde das eBook-Programm im Juli einen Zeitraum von 1000 $ kosten.
 >
->Wenn Sie monatlich 200 USD für Google Adwords ausgeben, würde das Google Adwords-Programm einen Zeitraum von 200 USD kosten **jeden Monat**.
+>Wenn Sie 200 USD pro Monat ausgeben [!DNL Google Adwords] - die [!DNL Google Adwords] Das Programm hätte Kosten in Höhe von 200 USD _jeden Monat_.
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ Die Periodenkosten beziehen sich auf das Geld, das Sie in einem bestimmten Monat
 >
 >[Grundlegendes zur Programmmitgliedschaft](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
 
-## Berechnung der Zeitkosten {#how-period-costs-are-calculated}
+## Berechnung der Zeitraumkosten {#how-period-costs-are-calculated}
 
 Stellen Sie sich ein Ereignis vor, wie ein Webinar, das im März stattfindet. Im Vorfeld werden im Januar und Februar neue Menschen durch Werbung angeworben. Nach der Veranstaltung, wenn die Teilnehmer das Webinar in den Monaten April und Mai herunterladen, werden auch neue Kontakte aufgenommen.
 
@@ -39,7 +39,7 @@ Stellen Sie sich ein Ereignis vor, wie ein Webinar, das im März stattfindet. Im
 
    ![](assets/graph1.png)
 
-   ...Kontakte, die in den Monaten davor und danach hinzugefügt wurden *only* bis März.
+   ...in den Monaten vor und nach hinzugefügten Kontakten *only* bis März.
 
    ![](assets/graph2.png)
 
@@ -47,7 +47,7 @@ Stellen Sie sich ein Ereignis vor, wie ein Webinar, das im März stattfindet. Im
 
    ![](assets/graph3.png)
 
-   ...Kontakte, die nur in den Monaten nach März hinzugefügt werden, werden bis März gezählt.
+   ...werden Kontakte, die nur in den Monaten nach März hinzugefügt werden, auf März angerechnet.
 
    ![](assets/graph4.png)
 
@@ -55,7 +55,7 @@ Stellen Sie sich ein Ereignis vor, wie ein Webinar, das im März stattfindet. Im
 
    ![](assets/graph5.png)
 
-   ...Die in den Monaten Januar bis März hinzugefügten Kontakte werden auf Januar angerechnet. In den Monaten April und Mai hinzugefügte Kontakte werden bis April zählen.
+   ... werden die in den Monaten Januar bis März hinzugefügten Kontakte auf Januar angerechnet. In den Monaten April und Mai hinzugefügte Kontakte werden bis April zählen.
 
    ![](assets/graph6.png)
 

@@ -3,7 +3,7 @@ description: Kurzanleitung - Marketo-Dokumente - Produktdokumentation
 title: Schnellanleitung
 exl-id: eb854ec8-fabb-477d-977b-9dc7e7d9f24f
 feature: Marketo with Adobe Identity
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 2%
@@ -12,7 +12,7 @@ ht-degree: 2%
 
 # Schnellanleitung {#quick-guide}
 
-Die unten aufgeführten Artikel helfen Ihnen bei der Einrichtung von Marketo Engage mit Adobe Identity Management und informieren Sie sich darüber.
+Die unten aufgeführten Artikel helfen Ihnen bei der Einrichtung von Marketo Engage mit Adobe Identity Management.
 
 ## System-Admin-Einrichtung {#system-admin-setup}
 
@@ -32,7 +32,7 @@ Benutzer hinzufügen und entfernen Abgeschlossen von Produkt-Admin (oder Systema
 
 ## Nur API-Benutzer in Marketo Engage {#api-only-user-in-marketo-engage}
 
-Nur Marketo Engage-API-Benutzer müssen in Marketo Engage erstellt und verwaltet werden.
+Nur Marketo Engage-API-Benutzer müssen unter Marketo Engage erstellt und verwaltet werden.
 
 [Hinzufügen eines reinen API-Benutzers für Adobe IMS-aktivierte Abonnements](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}
 
@@ -46,4 +46,4 @@ Nur Marketo Engage-API-Benutzer müssen in Marketo Engage erstellt und verwaltet
 
 ## FAQs {#faq}
 
-[Häufig gestellte Fragen](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md#faq){target="_blank"}
+[Häufig gestellte Fragen](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}

@@ -4,16 +4,16 @@ description: Grundlegendes zu Tags - Marketo-Dokumente - Produktdokumentation
 title: Grundlegendes zu Tags
 exl-id: af74aec2-096f-489f-adf8-388da3867fae
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '168'
 ht-degree: 3%
 
 ---
 
 # Grundlegendes zu Tags {#understanding-tags}
 
-Wahrscheinlich wissen Sie inzwischen, dass Programme wie Bausteine in Marketo sind. Die Verwendung von Tags und Kanälen hilft Ihnen beim Filtern von Daten zu Berichtszwecken.
+Sie wissen inzwischen wahrscheinlich, dass Programme wie Bausteine im Marketo Engage sind. Die Verwendung von Tags und Kanälen hilft Ihnen beim Filtern von Daten zu Berichtszwecken.
 
 Tags dienen zur Beschreibung von Programmen. Sie können so viele erstellen, wie Sie benötigen, mit jeweils eindeutigen Werten. Kanäle identifizieren den Bereitstellungsmechanismus in einem Programm, z. B. Webinar, Sponsoring oder Online-Anzeige.
 
@@ -23,7 +23,7 @@ Tag-Typen identifizieren die Art von Informationen, nach denen Sie sortieren mö
 
 >[!TIP]
 >
->Sprechen Sie mit Ihrem [Marketo Admin](/help/marketo/product-docs/administration/tags/create-custom-tags.md) , wenn Sie benutzerdefinierte Tags erstellen möchten.
+>Wenden Sie sich an Ihren Marketo-Administrator, wenn Sie [benutzerdefinierte Tags](/help/marketo/product-docs/administration/tags/create-custom-tags.md){target="_blank"}.
 
 >[!NOTE]
 >
@@ -47,7 +47,7 @@ Jeder Tag-Typ verfügt über Werte, aus denen Sie auswählen können.
 
 ## Kanal {#channel}
 
-Kanäle werden verwendet, um Berichte zur [members](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md) durch Ihr Programm verschoben. Jeder Kanal verfügt über eine Reihe von Fortschrittsstatus und einen Status, der auf &quot;gleicher Erfolg&quot;festgelegt ist.
+Kanäle werden verwendet, um Berichte zur [members](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"} durch Ihr Programm verschoben. Jeder Kanal verfügt über eine Reihe von Fortschrittsstatus und einen Status, der auf &quot;gleicher Erfolg&quot;festgelegt ist.
 
 >[!NOTE]
 >
@@ -61,5 +61,5 @@ Kanäle werden verwendet, um Berichte zur [members](/help/marketo/product-docs/c
 
 >[!MORELIKETHIS]
 >
->* [Benutzerdefinierte Tags erstellen](/help/marketo/product-docs/administration/tags/create-custom-tags.md)
->* [Erstellen eines Programmkanals](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)
+>* [Erstellen benutzerdefinierter Tags](/help/marketo/product-docs/administration/tags/create-custom-tags.md){target="_blank"}
+>* [Erstellen eines Programmkanals](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}

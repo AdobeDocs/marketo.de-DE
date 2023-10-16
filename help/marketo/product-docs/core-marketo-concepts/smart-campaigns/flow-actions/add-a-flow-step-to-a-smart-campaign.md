@@ -4,22 +4,22 @@ description: Hinzufügen eines Flussschritts zu einer Smart-Kampagne - Marketo-D
 title: Hinzufügen eines Flussschritts zu einer Smart-Kampagne
 exl-id: bd842551-b981-4cd9-a742-321b1ceab872
 feature: Smart Campaigns
-source-git-commit: 5c146729757bc5f6b503ecde611c25dcdb0ad5b5
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
 
 # Hinzufügen eines Flussschritts zu einer Smart-Kampagne {#add-a-flow-step-to-a-smart-campaign}
 
-Flussschritte teilen Marketo mit, was einer Gruppe von Personen, die sich qualifizieren, passieren soll. Das sind Ihre Anweisungen, und die intelligente Kampagne wird Ihr Angebot ausführen!
+Flussschritte zeigen Marketo Engage, was Sie einer Gruppe von Personen, die sich qualifizieren, vorstellen möchten.
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Navigieren Sie zu **[!UICONTROL Marketingaktivitäten]**.
 
    ![](assets/add-a-flow-step-to-a-smart-campaign-1.png)
 
-1. Wählen Sie Ihre Smart-Kampagne aus und klicken Sie auf **Fluss**.
+1. Wählen Sie Ihre Smart-Kampagne aus und klicken Sie auf **[!UICONTROL Fluss]**.
 
    ![](assets/add-a-flow-step-to-a-smart-campaign-2.png)
 
@@ -33,15 +33,15 @@ Flussschritte teilen Marketo mit, was einer Gruppe von Personen, die sich qualif
 
 >[!NOTE]
 >
->Flussschritte werden in der Reihenfolge ausgeführt, in der sie aufgeführt sind.  [Flussschritte neu anordnen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md) um sicherzustellen, dass sie in der richtigen Reihenfolge sind.
+>Flussschritte werden in der Reihenfolge ausgeführt, in der sie aufgeführt sind. [Flussschritte neu anordnen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md){target="_blank"} um sicherzustellen, dass sie in der richtigen Reihenfolge sind.
 
 >[!TIP]
 >
 >Im Falle eines ungültigen Eintrags wird eine rote geräuschvolle Linie angezeigt. Bewegen Sie den Mauszeiger über die Zeile, um zu sehen, wie sie korrigiert werden kann.
 
-Fantastisch! Stellen Sie sicher, [Überprüfen und Validieren der Smart-Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md) bevor Sie sie planen oder aktivieren.
+Fantastisch! Stellen Sie sicher, [Überprüfen und Validieren der Smart-Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md){target="_blank"} bevor Sie sie planen oder aktivieren.
 
 >[!MORELIKETHIS]
 >
->* [Auswahl in einem Flussschritt hinzufügen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md)
->* [Ordnen Sie die Flussschritte in einer Smart-Kampagne neu an.](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md)
+>* [Auswahl in einem Flussschritt hinzufügen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md){target="_blank"}
+>* [Ordnen Sie die Flussschritte in einer Smart-Kampagne neu an.](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md){target="_blank"}
