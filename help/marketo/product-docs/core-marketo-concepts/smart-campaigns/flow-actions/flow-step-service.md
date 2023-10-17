@@ -3,9 +3,9 @@ description: Flow Step Service - Marketo Docs - Produktdokumentation
 title: Flussschritt-Dienst
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
-source-wordcount: '1220'
+source-wordcount: '1207'
 ht-degree: 0%
 
 ---
@@ -16,13 +16,13 @@ Die Fluss-Schritte für Self-Service sind ein Framework und eine Reihe von Funkt
 
 ## Onboarding und Verwalten von Diensten {#onboarding-and-managing-services}
 
-Für die Installation eines benutzerdefinierten Flussschritts sind Administratorberechtigungen in Marketo erforderlich (**Webhooks verwalten** in der Version vom 21. Januar, Änderung in der Version vom 11. März). Abgesehen von der Installations-URL können alle anderen Aspekte eines Dienstes nach dem ersten Onboarding bearbeitet werden, indem Sie über das Raster &quot;Service Provider&quot;in den Detailbildschirm des Dienstes navigieren.
+Für die Installation eines benutzerdefinierten Flussschritts sind Administratorberechtigungen in Marketo erforderlich. Abgesehen von der Installations-URL können alle anderen Aspekte eines Dienstes nach dem ersten Onboarding bearbeitet werden, indem Sie über das Raster &quot;Service Provider&quot;in den Detailbildschirm des Dienstes navigieren.
 
-## Installations-URL {#installation-url}
+## Installation URL {#installation-url}
 
-Um mit der Installation zu beginnen, müssen Sie zunächst die URL des OpenAPI-Dokuments abrufen, das Ihren Dienst definiert. Ihr Dienstleister sollte in der Lage sein, dies Ihnen bereitzustellen, und wird normalerweise über eine URL verfügen, die auf `/openapi.json`. Vollständige URLs sehen in etwa wie folgt aus: `https://www.example.com/OpenAPI.json`. Sobald Sie über diese URL verfügen, wechseln Sie zum Menü &quot;Dienstanbieter&quot;in Ihrem Admin-Bereich.
+Um mit der Installation zu beginnen, müssen Sie zunächst die URL des OpenAPI-Dokuments abrufen, das Ihren Dienst definiert. Ihr Dienstleister sollte in der Lage sein, dies Ihnen bereitzustellen, und wird normalerweise über eine URL verfügen, die auf `/openapi.json`. Vollständige URLs sehen ungefähr so aus: `https://www.example.com/OpenAPI.json`. Sobald Sie über diese URL verfügen, wechseln Sie zum Menü &quot;Dienstanbieter&quot;in Ihrem Admin-Bereich.
 
-Klicken **Nächste** , um zum Abschnitt Dienstanmeldeinformationen eingeben zu wechseln.
+Klicks **[!UICONTROL Nächste]** , um zum Abschnitt Dienstanmeldeinformationen eingeben zu wechseln.
 
 ![](assets/flow-step-service-1.png)
 
@@ -38,7 +38,7 @@ Einige Dienstleister werden einen optionalen Schritt zur Onboarding-Anleitung en
 
 ## Feldzuordnung {#field-mapping}
 
-Um Daten von einem bestimmten Lead-Feld zu empfangen oder zurückzugeben, muss dieses Feld zugeordnet werden. Während die Zuordnung ein erforderlicher Schritt beim Onboarding ist, können Sie jederzeit zurückkehren, um die Zuordnungen später zu ändern. Es gibt zwei Arten von Zuordnungen, die in separaten Bildschirmen konfiguriert sind: **Ausgehende Felder**, die an den Dienst gesendet werden, wenn Marketo den Flussschritt aufruft, und **Eingehende Felder** Hierbei handelt es sich um Felder, die Daten vom Dienst empfangen können, wenn er Daten an Marketo zurückgibt.
+Um Daten von einem bestimmten Lead-Feld zu empfangen oder zurückzugeben, muss dieses Feld zugeordnet werden. Während die Zuordnung ein erforderlicher Schritt beim Onboarding ist, können Sie die Zuordnungen später ändern. Es gibt zwei Arten von Zuordnungen, die in separaten Bildschirmen konfiguriert sind: **Ausgehende Felder**, die an den Dienst gesendet werden, wenn Marketo den Flussschritt aufruft, und **Eingehende Felder** Hierbei handelt es sich um Felder, die Daten vom Dienst empfangen können, wenn er Daten an Marketo zurückgibt.
 
 >[!NOTE]
 >
@@ -48,7 +48,7 @@ Optionale Feldzuordnungen können ohne Unterbrechung Ihres Dienstes deaktiviert 
 
 ## Service-gesteuerte Zuordnungen {#service-driven-mappings}
 
-Dienste mit einem festen Satz von Ein- und Ausgabe, wie z. B. ein Schritt zum Registrieren von Ereignissen, verwenden **Service-gesteuerte Zuordnungen**. Für diese Art der Zuordnung stellt der Dienstleister sowohl einen Datentyp als auch einen Hinweis in Form eines API-Namens bereit. Wenn der Tipp mit dem API-Namen eines vorhandenen Lead-Felds übereinstimmt, wird dieses Feld automatisch im Zuordnungsabschnitt ausgefüllt. Bei Feldern ohne entsprechenden Hinweis müssen Sie die Zuordnung manuell aus der Liste der Felder mit dem entsprechenden Datentyp ausfüllen. Zuordnungen, die erforderlich sind, müssen ausgefüllt werden, um das Onboarding abzuschließen.
+Dienste mit einem festen Satz von Ein- und Ausgabe, wie z. B. ein Schritt zum Registrieren von Ereignissen, verwenden **Service-gesteuerte Zuordnungen**. Für diese Art der Zuordnung stellt der Dienstleister sowohl einen Datentyp als auch einen Hinweis in Form eines API-Namens bereit. Wenn der Tipp mit dem API-Namen eines vorhandenen Lead-Felds übereinstimmt, wird dieses Feld automatisch im Zuordnungsabschnitt ausgefüllt. Bei Feldern ohne entsprechenden Hinweis müssen Sie die Zuordnung manuell aus der Liste der Felder mit dem entsprechenden Datentyp ausfüllen. Zuordnungen, die erforderlich sind, müssen zum Abschluss des Onboarding ausgefüllt werden.
 
 ![](assets/flow-step-service-2.png)
 

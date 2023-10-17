@@ -4,9 +4,9 @@ description: Verweisender Stellen - Marketo-Dokumente - Produktdokumentation
 title: Dem Empfehlenden eine Gutschrift erteilen
 exl-id: d8cd9a54-53fd-4edd-8262-c63ec45a89a9
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '134'
 ht-degree: 14%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 14%
 
 ## Überblick {#overview}
 
-Beim Ausführen einer [Referenzangebot](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) oder [Preisausschreiben](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), können Sie dem Referrer mithilfe verschiedener Methoden Gutschriften erteilen:
+Beim Ausführen einer [Verweisangebot](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md){target="_blank"} or a [sweepstakes](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md){target="_blank"}können Sie dem Referrer mithilfe verschiedener Methoden Gutschriften erteilen:
 
 * Bezeichnete Besuche
 * Bezeichnete Registrierungen
@@ -34,6 +34,6 @@ Wenn Sie die Option **Smart List Trigger** -Option, um ein Ziel anzugeben, müss
 
    >[!NOTE]
    >
-   >Stellen Sie sicher, dass Ihre Social-App für die Verwendung von Smart List Trigger konfiguriert ist. Siehe  [Ziel für Verweisangebot angeben](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md) für Details.
+   >Stellen Sie sicher, dass Ihre Social-App für die Verwendung von Smart List Trigger konfiguriert ist. Siehe [Ziel für Verweisangebot angeben](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md){target="_blank"} für Details.
 
 Ausgezeichnet! Jegliche Person, die von diesem Flussschritt verarbeitet wird, erhält nun die verweisende Stelle.

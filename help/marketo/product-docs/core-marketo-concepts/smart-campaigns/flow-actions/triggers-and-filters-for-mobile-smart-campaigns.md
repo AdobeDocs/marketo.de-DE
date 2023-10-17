@@ -4,9 +4,9 @@ description: Trigger und Filter für mobile Smart-Kampagnen - Marketo-Dokumente 
 title: Trigger und Filter für mobile Smart-Kampagnen
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
-source-wordcount: '823'
+source-wordcount: '820'
 ht-degree: 1%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Sie können Trigger und Filter für eine App-Smart-Kampagne einrichten.
 
-Bei den meisten Aktivitäten gibt es einen Trigger, einen Filter und einen Inaktivitätsfilter. Verwenden Sie Inaktivitätsfilter, um eine Aktion zu verfolgen, z. B. Tippen auf eine Push-Benachrichtigung, dass *did&#39;t* geschehen.
+Bei den meisten Aktivitäten gibt es einen Trigger, einen Filter und einen Inaktivitätsfilter. Verwenden Sie Inaktivitätsfilter, um eine Aktion zu verfolgen, z. B. Tippen auf eine Push-Benachrichtigung, dass _did&#39;t_ geschehen.
 
 * Die mobile App ist/wurde installiert
 * Mobile App ist/wurde geöffnet
@@ -27,7 +27,7 @@ Es gibt nur Filter für diese Aktivität:
 
 * Wurde gesendet Push-Benachrichtigung - Filter und Inaktivitätsfilter
 
-Suchen Sie nach **mobile App** im rechten Bereich, um alle Mobile App-Trigger und -Filter aufzulisten.
+Suchen Sie im rechten Bereich nach &quot;mobile app&quot;, um alle Mobile App-Trigger und -Filter aufzulisten.
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-1.png)
 
@@ -103,7 +103,7 @@ Mobile App ist/wurde geöffnet
 
 Mobile App-Aktivität enthält/anzeigen
 
-Diese bieten eine leistungsstarke Möglichkeit, benutzerdefinierte mobile Aktivitäten zu verfolgen. Sie müssen mit Ihrem Entwickler zusammenarbeiten, um Tracking einzurichten. [für Android](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android) und [für iOS](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios).
+Diese bieten eine leistungsstarke Möglichkeit, benutzerdefinierte mobile Aktivitäten zu verfolgen. Sie müssen mit Ihrem Entwickler zusammenarbeiten, um Tracking einzurichten. [für Android](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android){target="_blank"} and [for iOS](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios){target="_blank"}.
 
 * Mobile App-Aktivität - Trigger
 
@@ -192,5 +192,5 @@ Tippen/Tippen-Push-Benachrichtigung
 
 >[!MORELIKETHIS]
 >
->* [Eine Beschränkung zu einem Smart-Listenfilter hinzufügen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)
->* [Verwenden von Inaktivitätsfiltern in einer Smart-Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md)
+>* [Eine Beschränkung zu einem Smart-Listenfilter hinzufügen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}
+>* [Verwenden von Inaktivitätsfiltern in einer Smart-Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md){target="_blank"}

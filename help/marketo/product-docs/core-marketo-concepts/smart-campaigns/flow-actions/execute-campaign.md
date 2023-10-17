@@ -3,7 +3,7 @@ description: Ausführen von Campaign - Marketo Docs - Produktdokumentation
 title: Kampagne ausführen
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
 feature: Smart Campaigns
-source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
 source-wordcount: '709'
 ht-degree: 1%
@@ -32,17 +32,17 @@ Die Ausführung von Campaign ist eine Verbesserung von [Anforderungskampagne](/h
 
 ## Erstellen einer ausführbaren Kampagne {#how-to-create-an-executable-campaign}
 
-1. Klicken Sie mit der rechten Maustaste auf das gewünschte Programm und wählen Sie **Neue intelligente Kampagne**.
+1. Klicken Sie mit der rechten Maustaste auf das gewünschte Programm und wählen Sie **[!UICONTROL Neue intelligente Kampagne]**.
 
    ![](assets/execute-campaign-1.png)
 
-1. Geben Sie ihm einen Namen, wählen Sie die **Ausführbar** und klicken Sie auf **Erstellen**.
+1. Geben Sie ihm einen Namen, wählen Sie die **[!UICONTROL Ausführbar]** und klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/execute-campaign-2.png)
 
 1. Definieren Sie die Smart-Liste und den Fluss wie jede andere Smart-Kampagne.
 
-Sie können auch eine bestehende Smart-Kampagne klonen. Wenn Sie eine vorhandene ausführbare Kampagne klonen, müssen Sie weiterhin die **Ausführbar** nach der Benennung.
+Sie können auch eine bestehende Smart-Kampagne klonen. Wenn Sie eine vorhandene ausführbare Kampagne klonen, müssen Sie weiterhin die **[!UICONTROL Ausführbar]** nach der Benennung.
 
 >[!NOTE]
 >
@@ -73,11 +73,11 @@ Bei Verwendung von Plan oder Anforderungskampagne [in der API](https://developer
 
 >[!CAUTION]
 >
->Lassen Sie Ihre Smart-Listen für ausführbare Kampagnen nie ungültig, andernfalls **keine** qualifiziert. Es empfiehlt sich, separate Smart-List-Assets zu erstellen, sie vollständig zu definieren und sicherzustellen, dass sie gültig sind. Verwenden Sie dann den Filter &quot;Mitglied der Smart-Liste&quot;in der ausführbaren Kampagne, um die Definition der Smart-Liste zu tauschen.
+>Lassen Sie Ihre Smart-Listen für ausführbare Kampagnen nie ungültig, andernfalls _keine_ qualifiziert. Es empfiehlt sich, separate Smart-List-Assets zu erstellen, sie vollständig zu definieren und sicherzustellen, dass sie gültig sind. Verwenden Sie dann den Filter &quot;Mitglied der Smart-Liste&quot;in der ausführbaren Kampagne, um die Definition der Smart-Liste zu tauschen.
 
 ## Beispiel einer Token-Vererbung {#token-inheritance-example}
 
-Nachstehend finden Sie ein visuelles Beispiel für die Token-Vererbung in einer ausführbaren Kampagne und in zwei übergeordneten Kampagnen: eine mit Token-Kontext, der auf **True**, der andere **False**.
+Nachstehend finden Sie ein visuelles Beispiel für die Token-Vererbung in einer ausführbaren Kampagne und in zwei übergeordneten Kampagnen: eine mit Token-Kontext, der auf **[!UICONTROL True]**, der andere **[!UICONTROL False]**.
 
 Untergeordnete Kampagne mit einer Tokenisierten Änderungsbewertung.
 
@@ -87,7 +87,7 @@ Die Token der Kinderkampagne.
 
 ![](assets/execute-campaign-4.png)
 
-**Beispiel 1: true**
+### Beispiel 1: true {#example-one-true}
 
 Im Schritt Kampagnenfluss ausführen der ersten übergeordneten Kampagne ist &quot;Übergeordneten Kampagnen-Token-Kontext verwenden&quot;auf **True**.
 
@@ -101,7 +101,7 @@ Die Ergebnisse: Die Punktzahl wurde um +10 geändert.
 
 ![](assets/execute-campaign-7.png)
 
-**Beispiel 2: False**
+### Beispiel 2: False {#example-two-false}
 
 Im Schritt Kampagnenfluss ausführen der zweiten übergeordneten Kampagne ist &quot;Kontext des übergeordneten Kampagnen-Tokens verwenden&quot;auf **False**.
 

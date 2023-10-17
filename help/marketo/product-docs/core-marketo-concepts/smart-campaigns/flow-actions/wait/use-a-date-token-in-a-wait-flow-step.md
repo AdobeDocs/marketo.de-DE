@@ -4,30 +4,30 @@ description: Verwenden eines Datums-Tokens in einem Warteflussschritt - Marketo 
 title: Verwenden eines Datums-Tokens in einem Warteflussschritt
 exl-id: d161922b-ce90-4e65-9282-d3bb866c1d94
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
 
 # Verwenden eines Datums-Tokens in einem Warteflussschritt {#use-a-date-token-in-a-wait-flow-step}
 
-Mit dem Schritt Wartefluss können Sie das Journey einer Person durch eine intelligente Kampagne anhalten, bis zu einem bestimmten Datum, an dem ein Datums-Token verwendet wird. Sie können das Enddatum auch um einige Tage ändern.
+Mit dem Schritt Wartefluss können Sie das Journey einer Person durch eine Smart-Kampagne anhalten, bis zu einem bestimmten Datum, an dem ein Datums-Token verwendet wird. Sie können das Enddatum auch um einige Tage ändern.
 
 >[!NOTE]
 >
 >Dies gilt nur für Trigger-Kampagnen. Sie können diese Funktion nicht in Batch-Kampagnen verwenden.
 
-1. In Ihrer intelligenten Kampagne **Fluss** Registerkarte, ziehen Sie über die **Warten** Flussschritt.
+1. In Ihrer Smart-Kampagne **[!UICONTROL Fluss]** Registerkarte, ziehen Sie über die **[!UICONTROL Warten]** Flussschritt.
 
    ![](assets/image2014-9-22-14-3a8-3a22.png)
 
-1. Klicken Sie auf das Zahnradsymbol rechts.
+1. Klicken Sie auf das Zahnradsymbol.
 
    ![](assets/image2014-9-22-14-3a8-3a37.png)
 
-1. Aus dem **Typ** Dropdown-Liste auswählen **Date Token**.
+1. Aus dem **[!UICONTROL Typ]** Dropdown-Liste auswählen **[!UICONTROL Date Token]**.
 
    ![](assets/image2014-9-22-14-3a8-3a41.png)
 
@@ -56,11 +56,11 @@ Mit dem Schritt Wartefluss können Sie das Journey einer Person durch eine intel
    >
    >Sie können die Anzahl der Tage auch mithilfe einer `{{lead.` oder `{{company.` Token, das ein ganzzahliges Feld oder ein `{{my.` Token des Zahlentyps.
 
-1. Klicks **Speichern**.
+1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/image2014-9-22-14-3a11-3a3.png)
 
    >[!MORELIKETHIS]
    >
-   >* [Verwenden einer Dauer in einem Warteflussschritt](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-duration-in-a-wait-flow-step.md)
-   >* [Verwenden eines bestimmten Datums in einem Warteflussschritt](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.md)
+   >* [Verwenden einer Dauer in einem Warteflussschritt](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-duration-in-a-wait-flow-step.md){target="_blank"}
+   >* [Verwenden eines bestimmten Datums in einem Warteflussschritt](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.md){target="_blank"}

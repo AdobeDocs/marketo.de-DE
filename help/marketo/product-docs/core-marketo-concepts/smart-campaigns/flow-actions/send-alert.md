@@ -4,9 +4,9 @@ description: Warnhinweis senden - Marketo-Dokumente - Produktdokumentation
 title: Alarm senden
 exl-id: 2016e2e7-0361-4bb2-8740-819e21fbd15b
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '154'
 ht-degree: 3%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 3%
 
 ## Überblick {#overview}
 
-Marketo kann einen E-Mail-Warnhinweis mit Personeninformationen an jede Person senden - den Vertriebsmitarbeiter, einen Partner oder eine andere Person. Verwenden Sie die **Warnhinweis senden** Flussschritt.
+Marketo kann einen E-Mail-Warnhinweis mit Personeninformationen an jede Person senden - den Vertriebsmitarbeiter, einen Partner oder eine andere Person. Verwenden Sie die[!UICONTROL Warnhinweis senden]&quot;Flussschritt.
 
 ![](assets/one-1.png)
 
@@ -27,7 +27,7 @@ Marketo kann einen E-Mail-Warnhinweis mit Personeninformationen an jede Person s
 
    >[!NOTE]
    >
-   >Ihr E-Mail-Warnhinweis muss alle Kopfzeileninformationen enthalten und sich im **Genehmigt** state.
+   >Ihr E-Mail-Warnhinweis muss alle Kopfzeileninformationen enthalten und sich im **[!UICONTROL Genehmigt]** state.
 
 1. Sie können auf das Vorschausymbol klicken, um sicherzustellen, dass Sie die richtige E-Mail ausgewählt haben.
 
@@ -35,9 +35,9 @@ Marketo kann einen E-Mail-Warnhinweis mit Personeninformationen an jede Person s
 
    >[!NOTE]
    >
-   >Verwenden Sie unbedingt die **Warnhinweisinformationen senden** Token in Ihrer E-Mail.
+   >Verwenden Sie unbedingt die[!UICONTROL Warnhinweisinformationen senden]&quot; Token in Ihrer E-Mail.
 
-1. Wählen Sie den Empfänger der Warnung aus. Sie können &quot;Vertriebsmitarbeiter&quot;oder &quot;Kontoinhaber&quot;auswählen.
+1. Wählen Sie den Empfänger der Warnung aus. Sie können [!UICONTROL Sales Owner] oder [!UICONTROL Kontoinhaber].
 
    ![](assets/four-2.png)
 
@@ -47,10 +47,8 @@ Marketo kann einen E-Mail-Warnhinweis mit Personeninformationen an jede Person s
 
    >[!TIP]
    >
-   >In Trigger-Kampagnen können Sie Token in **zu anderen E-Mails** wie `{{lead.Territory Owner}}` oder `{{my.Alert Recipient}}` solange die Werte gültige E-Mail-Adressen sind. Token in **zu anderen E-Mails** funktioniert nicht in einer Batch-Kampagne.
-
-Das ist es! Jetzt wissen Sie, wie Sie die **Warnhinweis senden** Flussschritt.
+   >In Trigger-Kampagnen können Sie Token in **[!UICONTROL zu anderen E-Mails]** wie `{{lead.Territory Owner}}` oder `{{my.Alert Recipient}}` solange die Werte gültige E-Mail-Adressen sind. Token in **[!UICONTROL zu anderen E-Mails]** funktioniert nicht in einer Batch-Kampagne.
 
 >[!MORELIKETHIS]
 >
->[E-Mail erstellen](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)
+>[E-Mail erstellen](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md){target="_blank"}

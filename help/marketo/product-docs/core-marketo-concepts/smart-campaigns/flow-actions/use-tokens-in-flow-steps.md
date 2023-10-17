@@ -4,7 +4,7 @@ description: Verwenden von Token in Flussschritten - Marketo Docs - Produktdokum
 title: Verwenden von Token in Flussschritten
 exl-id: 9b4c3d57-5906-4d7c-8215-4ba2271be3f8
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 6%
@@ -15,9 +15,9 @@ ht-degree: 6%
 
 >[!PREREQUISITES]
 >
->[Hinzufügen eines Flussschritts zu einer Smart-Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
+>[Hinzufügen eines Flussschritts zu einer Smart-Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}
 
-Ein Token ist eine Variable. Sie können sie in E-Mails, Landingpages und intelligenten Kampagnen verwenden, um Ihr Leben zu vereinfachen. Sie können [Meine Token](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) (benutzerdefinierte Token) in Flussprofilen, Webhooks, E-Mails und Landingpages. Sie können Token verwenden, um Variableninhalte in diese Flussschritte einzuschließen:
+Ein Token ist eine Variable. Sie können sie in E-Mails, Landingpages und Smart-Kampagnen verwenden, um Ihr Leben zu vereinfachen. Sie können [Meine Token](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"} (benutzerdefinierte Token) in Flussprofilen, Webhooks, E-Mails und Landingpages. Sie können Token verwenden, um Variableninhalte in diese Flussschritte einzuschließen:
 
 * Datenwert ändern
 * Programmmitgliedsdaten ändern
@@ -32,7 +32,7 @@ Ein Token ist eine Variable. Sie können sie in E-Mails, Landingpages und intell
 
    >[!NOTE]
    >
-   >Checkout [Token-Übersicht](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) für eine Liste verschiedener verfügbarer Token.
+   >Checkout [Token-Übersicht](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"} für eine Liste verschiedener verfügbarer Token.
 
 1. Fahren Sie mit der Eingabe fort, bis Sie das gewünschte Token finden und klicken Sie zur Auswahl.
 
@@ -50,5 +50,5 @@ Ein Token ist eine Variable. Sie können sie in E-Mails, Landingpages und intell
 
    >[!MORELIKETHIS]
    >
-   >* [Verwalten von My Tokens](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md)
-   >* [Grundlagen zu meinen Token in einem Programm](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)
+   >* [Verwalten von My Tokens](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"}
+   >* [Grundlagen zu meinen Token in einem Programm](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"}

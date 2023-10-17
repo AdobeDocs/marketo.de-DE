@@ -4,10 +4,10 @@ description: Inhaber in Microsoft wechseln - Marketo-Dokumente - Produktdokument
 title: Inhaber in Microsoft ändern
 exl-id: d17cfb70-1d78-48e9-8e53-99a7abd5a647
 feature: Smart Campaigns, Microsoft Dynamics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '91'
+ht-degree: 1%
 
 ---
 
@@ -17,7 +17,7 @@ Wenn Sie bereits vorhandene Personen haben, die bereits einem Eigentümer zugewi
 
 >[!NOTE]
 >
->Dieser Flussschritt **funktioniert nur bei Verwendung mit Triggern**, nicht Filter, in Ihrer Smart-Kampagne verwenden.
+>Dieser Flussschritt _funktioniert nur bei Verwendung mit Triggern_ in Ihrer Smart-Kampagne, nicht Filter.
 
 ![](assets/one-1.png)
 
