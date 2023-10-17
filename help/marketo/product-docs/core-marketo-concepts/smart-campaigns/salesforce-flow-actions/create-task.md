@@ -4,7 +4,7 @@ description: Aufgabe erstellen - Marketo-Dokumente - Produktdokumentation
 title: Aufgabe erstellen
 exl-id: c484d913-1fd8-4716-8caa-0bf318218ca1
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 3%
@@ -19,7 +19,7 @@ Als Marketing-Experte verfügen Sie über Informationen, die dem Vertrieb beim A
 
 >[!NOTE]
 >
->Wenn der Marketo Sync User Aufgaben erstellt, **aufgrund von** ist ein erforderliches Feld für die Aufgabe, die in Salesforce erstellt werden soll. Marketo gibt standardmäßig fünf Tage ein, wenn kein Wert vorhanden ist.
+>Wenn der Marketo Sync User Aufgaben erstellt, **[!UICONTROL aufgrund von]** ist ein erforderliches Feld für die Aufgabe, die in Salesforce erstellt werden soll. Marketo gibt standardmäßig fünf Tage ein, wenn kein Wert vorhanden ist.
 
 Standardmäßig sieht der Flussschritt wie folgt aus:
 
@@ -31,4 +31,4 @@ Passen Sie alle Felder an, um die Aufgabe wie gewünscht zu erstellen.
 
 >[!TIP]
 >
->Sie können `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` und `{{system.tokens}}` im **Betreff** und **Beschreibung**. Siehe [Token für Flussschritte](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md) für weitere Details.
+>Sie können `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` und `{{system.tokens}}` im **[!UICONTROL Betreff]** und **[!UICONTROL Beschreibung]**. Siehe [Token für Flussschritte](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"} für weitere Details.

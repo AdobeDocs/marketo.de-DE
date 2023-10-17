@@ -4,20 +4,16 @@ description: Verwenden integrierter/systemintelligenter Listen - Marketo-Dokumen
 title: Verwenden von integrierten/System-Smart-Listen
 exl-id: f4db0e02-2250-4c56-ba74-f9fa8a5b9c11
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
-source-wordcount: '242'
-ht-degree: 6%
+source-wordcount: '194'
+ht-degree: 7%
 
 ---
 
 # Verwenden von integrierten/System-Smart-Listen {#use-built-in-system-smart-lists}
 
 Marketo verfügt über einige sehr nützliche integrierte Smart-Listen. Lass uns sie auschecken!
-
->[!NOTE]
->
->Marketo ist dabei, Begriffe wie Blacklist und Whitelist zu Blockierungsliste und Zulassungsliste in unserem Produkt zu ändern. Während dieser Aktualisierung werden möglicherweise die alten Begriffe in unseren Screenshots der Benutzeroberfläche und Dokumentation sowie die neuen Begriffe in unserem Dokumentationstext angezeigt. Wir entschuldigen uns für jede Verwirrung.
 
 1. Navigieren Sie zu **Datenbank**.
 
@@ -27,7 +23,7 @@ Marketo verfügt über einige sehr nützliche integrierte Smart-Listen. Lass uns
 
    ![](assets/two.png)
 
-1. Beispiel: Auswählen **Alle Personen** und klicken Sie dann auf **Personen** Registerkarte.
+1. Beispiel: Wählen Sie **Alle Personen** und klicken Sie dann auf **Personen** Registerkarte.
 
    ![](assets/three.png)
 
@@ -40,9 +36,9 @@ Im Folgenden finden Sie eine Zusammenfassung der Funktionen der integrierten Sma
 | Listenname | Beschreibung |
 |---|---|
 | Alle Personen | Alle Personen in Ihrer Marketo-Datenbank |
-| Abgemeldete Personen | Diese Personen können nur betriebliche E-Mails erhalten. wird in der Regel von der Person selbst kontrolliert. |
-| Marketing ausgesetzt | Diese Personen können nur betriebliche E-Mails erhalten. Dies wird normalerweise von Ihnen, dem Marketingspezialisten, kontrolliert. |
-| Sperrliste | Diese Leute erhalten überhaupt keine E-Mail. |
+| Abgemeldete Person | Diese Personen können nur operative E-Mails erhalten, die normalerweise von der Person selbst kontrolliert werden. |
+| Marketing eingestellt | Diese Personen können nur operative E-Mails erhalten. Diese werden normalerweise von Ihnen, dem Marketingspezialisten, kontrolliert. |
+| Blockierungsliste | Diese Leute erhalten überhaupt keine E-Mail. |
 | Unzustellbare E-Mail-Adressen | Personen mit einer nicht zustellbaren E-Mail-Adresse oder die Ihre E-Mail ablehnen. |
 | Mögliche Duplikate | Personen, die in der Marketo-Datenbank dupliziert werden können. |
 

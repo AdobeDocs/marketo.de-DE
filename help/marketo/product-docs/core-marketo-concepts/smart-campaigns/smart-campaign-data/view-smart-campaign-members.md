@@ -4,7 +4,7 @@ description: Mitglieder von Smart Campaign anzeigen - Marketo-Dokumente - Produk
 title: Mitglieder von Smart Campaign anzeigen
 exl-id: 027d93a9-f838-4f96-80d6-7bf6ee1cc03d
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
@@ -13,28 +13,28 @@ ht-degree: 0%
 
 # Mitglieder von Smart Campaign anzeigen {#view-smart-campaign-members}
 
-Sehen Sie sich Personen an, die bereits durch den Fluss intelligenter Kampagnen geführt haben, d. h. Mitglieder intelligenter Kampagnen.
+Sehen Sie sich Personen an, die bereits den Fluss der intelligenten Kampagne durchlaufen haben, d. h. Smart-Campaign-Mitglieder.
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Navigieren Sie zu **[!UICONTROL Marketingaktivitäten]**.
 
 ![](assets/login-marketing-activities.png)
 
-1. Klicken Sie in Ihrer Smart-Kampagne auf **Anzeigen von Campaign-Mitgliedern**.
+1. Klicken Sie in Ihrer Smart-Kampagne auf **[!UICONTROL Anzeigen von Campaign-Mitgliedern]**.
 
    ![](assets/changescore-hands.png)
 
 >[!TIP]
 >
->Sie können Kampagnenmitglieder von überall aus in einer intelligenten Kampagne anzeigen.
+>Sie können Kampagnenmitglieder von überall aus in einer Smart-Kampagne anzeigen.
 
-1. Die **Campaign-Mitglieder** zeigt Personen an, die bereits den Fluss der intelligenten Kampagne durchlaufen haben.
+1. Die **[!UICONTROL Campaign-Mitglieder]** zeigt Personen an, die bereits den Fluss Smart Campaign durchlaufen haben.
 
    ![](assets/smartcampaignheader-complete.jpg)
 
    >[!NOTE]
    >
-   >Die Liste der Campaign-Mitglieder wird zunächst leer sein, wenn die Smart-Kampagne nicht von Personen ausgeführt wurde.
+   >Die Liste der Campaign-Mitglieder ist zunächst leer, wenn die Smart-Kampagne nicht von Personen ausgeführt wurde.
 
    >[!MORELIKETHIS]
    >
-   >[Anzeigen blockierter Personen in einer Smart-Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-blocked-people-in-a-smart-campaign.md)
+   >[Anzeigen blockierter Personen in einer Smart-Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-blocked-people-in-a-smart-campaign.md){target="_blank"}

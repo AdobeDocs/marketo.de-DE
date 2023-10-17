@@ -4,7 +4,7 @@ description: Ändern des Programmerfolgs - Marketo-Dokumente - Produktdokumentat
 title: Programmerfolg ändern
 exl-id: 5b45b6d0-0c3d-4677-8b9a-8bbf03b1209e
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 6%
@@ -29,7 +29,7 @@ Wenn Sie jemals eine Gruppe von Personen haben, die versehentlich mit dem Progra
 
    ![](assets/image2014-9-22-14-3a45-3a35.png)
 
-1. Auswählen **Erfolg** oder **Erfolgsdatum** als Attribut.
+1. Auswählen **[!UICONTROL Erfolg]** oder **[!UICONTROL Erfolgsdatum]** als Attribut.
 
    ![](assets/image2014-9-22-14-3a45-3a39.png)
 
@@ -37,7 +37,7 @@ Wenn Sie jemals eine Gruppe von Personen haben, die versehentlich mit dem Progra
    >
    >Wenn Sie das Erfolgsdatum auf etwas festlegen, wird &quot;Erfolg&quot;automatisch auf &quot;true&quot;gesetzt. Wenn Sie Erfolgsdatum auf &quot;true&quot;setzen, wird das Erfolgsdatum automatisch auf das aktuelle Datum gesetzt.
 
-1. Legen Sie die **Neuer Wert** nach **True** oder **False**.
+1. Legen Sie die **[!UICONTROL Neuer Wert]** nach **[!UICONTROL True]** oder **[!UICONTROL False]**.
 
    ![](assets/image2014-9-22-14-3a45-3a55.png)
 
