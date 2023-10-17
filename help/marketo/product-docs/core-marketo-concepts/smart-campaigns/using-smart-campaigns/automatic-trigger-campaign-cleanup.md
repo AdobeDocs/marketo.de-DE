@@ -4,7 +4,7 @@ description: Automatische Trigger-Kampagnenbereinigung - Marketo-Dokumente - Pro
 title: Automatische Auslöser-Kampagnenbereinigung
 exl-id: 08012b55-e241-4524-a387-9644f5a2b17e
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
 workflow-type: tm+mt
 source-wordcount: '247'
 ht-degree: 3%
@@ -13,21 +13,21 @@ ht-degree: 3%
 
 # Automatische Auslöser-Kampagnenbereinigung {#automatic-trigger-campaign-cleanup}
 
-Marketo bietet einen netten/kostenlosen Dienst zum Deaktivieren von ausgelösten Smart-Kampagnen, die keine Aktivität mehr erhalten. Dies beschleunigt die Gesamtleistung des Systems und spart Ihnen Zeit.
+Marketo verfügt über einen netten/kostenlosen Dienst zum Deaktivieren von ausgelösten Smart-Kampagnen, die keine Aktivität mehr erhalten. Dies beschleunigt die Gesamtleistung des Systems und spart Ihnen Zeit.
 
 ## Was passiert? {#what-happens}
 
-Einmal im Quartal wird Marketo intelligente Kampagnen finden, die seit mindestens sechs Monaten ruhen (keine Personen), und diese deaktivieren.
+Einmal im Quartal wird Marketo Smart-Kampagnen finden, die mindestens 6 Monate lang ruhten (keine Personen) und diese deaktivieren.
 
 ## Wirst du mich zuerst benachrichtigen? {#will-you-notify-me-first}
 
 Natürlich! Einmal im Quartal erhalten Sie eine Woche im Voraus eine Benachrichtigung, die alle Kampagnen anzeigt, die wir zur Deaktivierung planen.
 
-1. Klicken Sie auf **Benachrichtigungen** Symbol.
+1. Klicken Sie auf **[!UICONTROL Benachrichtigungen]** Symbol.
 
    ![](assets/automatic-trigger-campaign-cleanup-1.png)
 
-1. Klicken **Ungenutzte Trigger-Kampagnenbereinigung geplant**. Klicken Sie anschließend auf **Diese Idle Trigger-Kampagnen werden deaktiviert** Link.
+1. Klicks **[!UICONTROL Ungenutzte Trigger-Kampagnenbereinigung geplant]**. Klicken Sie anschließend auf **[!UICONTROL Diese Idle Trigger-Kampagnen werden deaktiviert]** -Link.
 
    ![](assets/automatic-trigger-campaign-cleanup-2.png)
 
@@ -52,7 +52,7 @@ Beide setzen den 6-Monats-Zähler zurück.
 
 Absolut - Eine Woche nach der ursprünglichen Benachrichtigung werden wir die aufgelisteten Kampagnen deaktivieren (abzüglich aller Kampagnen, die mindestens eine Person qualifiziert oder deaktiviert/reaktiviert wurden) und eine Bestätigungsbenachrichtigung versenden.
 
-1. Wählen Sie die **Ungenutzte Trigger-Kampagnenbereinigung geplant** Benachrichtigung. Klicken Sie auf **Diese inaktiven Trigger-Kampagnen** Link.
+1. Wählen Sie die **[!UICONTROL Ungenutzte Trigger-Kampagnenbereinigung geplant]** Benachrichtigung. Klicken Sie auf **[!UICONTROL Diese inaktiven Trigger-Kampagnen]** -Link.
 
    ![](assets/automatic-trigger-campaign-cleanup-4.png)
 

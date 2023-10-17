@@ -4,9 +4,9 @@ description: Anwenden von Kommunikationsbeschränkungen auf Smart Campaign - Mar
 title: Anwenden von Kommunikationsbeschränkungen auf Smart-Campaign
 exl-id: b33885ba-6811-47ab-9db9-099d35ca49df
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -15,19 +15,19 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Kommunikationsbeschränkungen aktivieren](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)
+>[Kommunikationsbeschränkungen aktivieren](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"}
 
-Es ist keine gute Idee, jemanden mehrmals am Tag oder zu oft in einer Woche per E-Mail zu schicken, nicht wahr? Glücklicherweise hat Marketo Engage Kommunikationsbeschränkungen, um zu helfen. So funktionieren sie.
+Es ist keine gute Idee, jemanden mehrmals am Tag oder zu oft in einer Woche per E-Mail zu schicken, nicht wahr? Zum Glück hat Marketo Engage Kommunikationsbeschränkungen, um zu helfen.
 
 >[!NOTE]
 >
 >Wenn eine Person die festgelegten Kommunikationsbeschränkungen überschreitet, blockiert Marketo nicht operative E-Mails (betriebliche E-Mails werden immer gesendet).
 
-1. Klicken Sie in Ihrer Smart-Kampagne auf die **Zeitplan** Registerkarte und dann **Einstellungen bearbeiten**.
+1. Klicken Sie in Ihrer Smart-Kampagne auf die **[!UICONTROL Zeitplan]** Registerkarte und dann **[!UICONTROL Einstellungen bearbeiten]**.
 
    ![](assets/apply-communication-limits-to-smart-campaign-1.png)
 
-1. Überprüfen Sie die **Nicht operative E-Mails blockieren** und klicken Sie auf **Speichern**.
+1. Überprüfen Sie die **[!UICONTROL Nicht operative E-Mails blockieren]** und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/apply-communication-limits-to-smart-campaign-2.png)
 
@@ -37,6 +37,6 @@ Es ist keine gute Idee, jemanden mehrmals am Tag oder zu oft in einer Woche per 
 
 >[!TIP]
 >
->Um dies zur Standardeinstellung zu machen, bearbeiten Sie Ihre  [Kommunikationsbeschränkungen](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md) im Abschnitt &quot;Admin&quot;.
+>Um dies zur Standardeinstellung zu machen, bearbeiten Sie Ihre [Kommunikationsbeschränkungen](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"} im Abschnitt &quot;Admin&quot;.
 
 Jetzt können Sie sicher sein, dass Sie nicht versehentlich zu viele E-Mails an Ihre Audience senden.

@@ -4,7 +4,7 @@ description: Abbrechen eines geplanten wiederkehrenden Batch-Kampagnenausführen
 title: Abbrechen eines geplanten wiederkehrenden Batch-Kampagnenausführens
 exl-id: 7a659d4e-e546-4630-a36f-38ed80dd2a6e
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
@@ -19,24 +19,24 @@ Wenn Sie eine wiederkehrende Batch-Kampagne haben, die Sie nicht mehr benötigen
 
    ![](assets/cancel-a-scheduled-recurring-batch-campaign-run-1.png)
 
-1. Klicken **Intervall planen**.
+1. Klicks **Intervall planen**.
 
    ![](assets/cancel-a-scheduled-recurring-batch-campaign-run-2.png)
 
    >[!TIP]
    >
-   >Sie können einen einzelnen Lauf abbrechen, indem Sie auf die ![red x](assets/cancel-a-scheduled-recurring-batch-campaign-run-3.png) daneben. Erfahren Sie, wie Sie [Abbrechen einer geplanten Batch-Kampagnenausführung](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md).
+   >Sie können einen einzelnen Lauf abbrechen, indem Sie auf die ![red x](assets/cancel-a-scheduled-recurring-batch-campaign-run-3.png) daneben. Erfahren Sie, wie [Abbrechen einer geplanten Batch-Kampagnenausführung](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md){target="_blank"}.
 
-1. Setzen Sie den Zeitplan auf **Keines** und klicken Sie auf **Speichern**.
+1. Zeitplan auf **[!UICONTROL Keines]** und klicken **[!UICONTROL Speichern]**.
 
    ![](assets/cancel-a-scheduled-recurring-batch-campaign-run-4.png)
 
-   Voila! Ihre intelligente Kampagne läuft nicht mehr.
+   Voila! Ihre Smart-Kampagne wird nicht mehr ausgeführt.
 
    >[!CAUTION]
    >
-   >Dadurch werden zukünftige Ausführungen abgebrochen, aber wenn eine intelligente Kampagne läuft, können Sie sie nicht abbrechen.
+   >Dadurch werden zukünftige Ausführungen abgebrochen, aber wenn eine Smart-Kampagne läuft, können Sie sie nicht abbrechen.
 
    >[!MORELIKETHIS]
    >
-   >[Abbrechen eines geplanten Batch-Kampagnenausführens](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md)
+   >[Abbrechen eines geplanten Batch-Kampagnenausführens](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md){target="_blank"}

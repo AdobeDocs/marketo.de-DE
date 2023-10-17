@@ -4,7 +4,7 @@ description: Verschieben einer Smart-Kampagne - Marketo-Dokumente - Produktdokum
 title: Verschieben einer Smart-Kampagne
 exl-id: e5988fba-584f-47c5-8b26-7ce6ba312c9d
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # Verschieben einer Smart-Kampagne {#move-a-smart-campaign}
 
-Verschieben Sie eine intelligente Kampagne zwischen verschiedenen Programmen oder Ordnern durch Drag &amp; Drop oder die Verschieben-Funktion im Baum. Die Regeln Ihrer Smart-Kampagne werden sich nicht ändern, sie werden einfach an einem anderen Ort verschachtelt.
+Verschieben Sie eine Smart-Kampagne zwischen verschiedenen Programmen oder Ordnern, indem Sie Drag &amp; Drop oder die Verschieben-Funktion im Baum verwenden. Die Regeln Ihrer Smart-Kampagne werden nicht geändert, sondern nur an einem anderen Ort verschachtelt.
 
 >[!CAUTION]
 >
->Da sich die Regeln nicht ändern, müssen Sie diese Informationen, wenn die Smart List- oder Flow-Schritte der Kampagne auf das ursprüngliche Programm verweisen, manuell aktualisieren, um das neue Programm widerzuspiegeln. **not** automatische Aktualisierung.
+>Da sich die Regeln nicht ändern, müssen Sie diese Informationen, wenn die Smart List- oder Flow-Schritte der Kampagne auf das ursprüngliche Programm verweisen, manuell aktualisieren, um das neue Programm widerzuspiegeln. _not_ automatische Aktualisierung.
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Navigieren Sie zu **[!UICONTROL Marketingaktivitäten]**.
 
    ![](assets/move-a-smart-campaign-1.png)
 
-1. Suchen Sie die zu verschiebende Smart-Kampagne, klicken Sie mit der rechten Maustaste darauf und wählen Sie **Verschieben**.
+1. Suchen Sie die zu verschiebende Smart-Kampagne, klicken Sie mit der rechten Maustaste darauf und wählen Sie **[!UICONTROL Verschieben]**.
 
    ![](assets/move-a-smart-campaign-2.png)
 
-1. Wählen Sie die **nach** (Bestimmungsort), **Programm**, und optional **Ordner**. Auswählen **Verschieben**.
+1. Wählen Sie die **[!UICONTROL nach]** (Bestimmungsort), **[!UICONTROL Programm]**, und optional **[!UICONTROL Ordner]**. Auswählen **[!UICONTROL Verschieben]**.
 
    ![](assets/move-a-smart-campaign-3.png)
 
