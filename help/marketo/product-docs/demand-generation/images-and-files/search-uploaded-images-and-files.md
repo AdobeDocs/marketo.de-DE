@@ -4,22 +4,22 @@ description: Suchen nach hochgeladenen Bildern und Dateien - Marketo Docs - Prod
 title: Hochgeladene Bilder und Dateien durchsuchen
 exl-id: c8eb7493-768a-4580-a76e-5b59ca9c14b1
 feature: Image Editor
-source-git-commit: 929d2eff975c491b29b93cef96a5c59a1f833474
+source-git-commit: fbfbc22477b5e1596a2491cb34cf2bd63601bc63
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
 # Hochgeladene Bilder und Dateien durchsuchen {#search-uploaded-images-and-files}
 
-In Marketo ist das Suchen von Bildern und Dateien ein Kinderspiel.
+Erfahren Sie, wie Sie nach einem Bild oder einer Datei suchen.
 
-1. Navigieren Sie zu **Design Studio**.
+1. Navigieren Sie zu **[!UICONTROL Design Studio]**.
 
    ![](assets/search-uploaded-images-and-files-1.png)
 
-1. Klicks **Bilder und Dateien** für die vollständige Liste aller hochgeladenen Dateien.
+1. Klicks **[!UICONTROL Bilder und Dateien]** für die vollständige Liste aller hochgeladenen Dateien.
 
    ![](assets/search-uploaded-images-and-files-2.png)
 

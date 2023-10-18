@@ -4,31 +4,33 @@ description: Suchen Sie die URL eines hochgeladenen Bildes oder einer hochgelade
 title: Suchen der URL eines hochgeladenen Bildes oder einer hochgeladenen Datei
 exl-id: 7aa137cc-7398-40a1-9994-97ca53c88837
 feature: Image Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: fbfbc22477b5e1596a2491cb34cf2bd63601bc63
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
 
 # Suchen der URL eines hochgeladenen Bildes oder einer hochgeladenen Datei {#find-the-url-of-an-uploaded-image-or-file}
 
-Suchen Sie die Webadresse (URL) eines hochgeladenen Bildes oder einer hochgeladenen Datei? Marketo hat dich bedeckt.
+Suchen Sie die Webadresse (URL) eines hochgeladenen Bildes oder einer hochgeladenen Datei?
 
-1. Navigieren Sie zu **Design Studio**.
+1. Navigieren Sie zu **[!UICONTROL Design Studio]**.
 
-   ![](assets/designstudio-4.png)
+   ![](assets/find-the-url-of-an-uploaded-image-or-file-1.png)
 
-1. Klicks **Bilder und Dateien** im linken Menü und wählen Sie dann die Datei aus, für die Sie die URL verwenden möchten.
+1. Klicks **[!UICONTROL Bilder und Dateien]**.
 
-   ![](assets/image2014-9-25-14-3a47-3a53.png)
+   ![](assets/find-the-url-of-an-uploaded-image-or-file-2.png)
 
-1. Die **URL** wird auf der Detailseite angezeigt. Rechtsklicken Sie auf die **URL** und klicken **Kopieren** im angezeigten Menü.
+1. Wählen Sie das gewünschte Asset aus.
 
-   ![](assets/image2014-9-25-14-3a48-3a16.png)
+   ![](assets/find-the-url-of-an-uploaded-image-or-file-3.png)
 
-Gönnen Sie sich einen Rücken für eine gute Arbeit!
+1. Die **[!UICONTROL URL]** wird auf der Detailseite angezeigt.
+
+   ![](assets/find-the-url-of-an-uploaded-image-or-file-4.png)
 
 >[!MORELIKETHIS]
 >
->[Ersetzen eines hochgeladenen Bildes oder einer Datei](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)
+>[Ersetzen eines hochgeladenen Bildes oder einer Datei](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md){target="_blank"}

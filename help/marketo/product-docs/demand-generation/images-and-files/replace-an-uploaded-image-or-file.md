@@ -1,53 +1,49 @@
 ---
 unique-page-id: 2359876
-description: Ersetzen eines hochgeladenen Bildes oder einer hochgeladenen Datei - Marketo Docs - Produktdokumentation
-title: Ersetzen eines hochgeladenen Bildes oder einer hochgeladenen Datei
+description: Ersetzen eines hochgeladenen Bildes oder einer Datei - Marketo Docs - Produktdokumentation
+title: Ersetzen eines hochgeladenen Bildes oder einer Datei
 exl-id: 2bd936bc-2103-49b0-98b5-55f45674a257
 feature: Image Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: fbfbc22477b5e1596a2491cb34cf2bd63601bc63
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
 
-# Ersetzen eines hochgeladenen Bildes oder einer hochgeladenen Datei {#replace-an-uploaded-image-or-file}
+# Ersetzen eines hochgeladenen Bildes oder einer Datei {#replace-an-uploaded-image-or-file}
 
-1. Navigieren Sie zu **Design Studio**.
+1. Navigieren Sie zu **[!UICONTROL Design Studio]**.
 
-   ![](assets/designstudio-6.png)
+   ![](assets/replace-an-uploaded-image-or-file-1.png)
 
-1. Klicken **Bilder und Dateien** und wählen Sie dann die Datei aus, die Sie ersetzen möchten.
+1. Klicks **[!UICONTROL Bilder und Dateien]**.
 
-   ![](assets/image2014-9-16-11-3a21-3a48.png)
+   ![](assets/replace-an-uploaded-image-or-file-2.png)
 
-   >[!TIP]
-   >
-   >Sie können auch [Suchen nach hochgeladenen Bildern oder Dateien](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md).
+1. Wählen Sie das Asset aus, das Sie ersetzen möchten. Klicken Sie auf **[!UICONTROL Bild- und Dateiaktionen]** und wählen Sie **[!UICONTROL Bild oder Datei ersetzen]**.
 
-1. Klicken **Dateiaktionen** und wählen Sie **Bild oder Datei ersetzen**.
+   ![](assets/replace-an-uploaded-image-or-file-3.png)
 
-   ![](assets/image2014-9-16-11-3a21-3a55.png)
+1. Ziehen Sie den Computer per Drag-and-Drop oder durchsuchen Sie ihn nach der Ersatzdatei.
 
-1. Navigieren Sie zu der Datei auf Ihrem Computer, die die aktuelle Datei ersetzen soll, und wählen Sie sie aus.
-
-   ![](assets/image2014-9-16-11-3a22-3a2.png)
+   ![](assets/replace-an-uploaded-image-or-file-4.png)
 
    >[!NOTE]
    >
-   >Wenn Sie keine Datei aus einem freigegebenen Ordner auswählen können, speichern Sie diese Datei auf Ihrer Festplatte und wählen Sie sie dort aus.
+   >Der Ersetzungsdateityp muss mit dem ursprünglichen Dateityp (z. B. .jpg) übereinstimmen.
 
-1. Überprüfen Sie, ob die Datei neben **Datei auswählen** korrekt ist, klicken Sie auf **Ersetzen**.
+1. Klicken Sie nach Auswahl der Ersatzdatei auf **[!UICONTROL Ersetzen]**.
 
-   ![](assets/image2014-9-16-11-3a22-3a12.png)
+   ![](assets/replace-an-uploaded-image-or-file-5.png)
 
->[!NOTE]
->
->Der Name der Ersatzdatei ändert sich entsprechend dem vorherigen Dateinamen.
+   >[!NOTE]
+   >
+   >Der Name der Ersatzdatei ändert sich entsprechend dem Namen der vorherigen Datei.
 
-Du hast es getan!
+Gute Arbeit!
 
 >[!MORELIKETHIS]
 >
->* [Hochgeladene Bilder und Dateien durchsuchen](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md)
->* [Suchen der URL eines hochgeladenen Bildes oder einer hochgeladenen Datei](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
+>* [Hochgeladene Bilder und Dateien durchsuchen](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md){target="_blank"}
+>* [Suchen der URL eines hochgeladenen Bildes oder einer hochgeladenen Datei](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md){target="_blank"}

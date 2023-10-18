@@ -4,7 +4,7 @@ description: Organisieren von Bildern und Dateien mithilfe von Ordnern - Marketo
 title: Organisieren von Bildern und Dateien mithilfe von Ordnern
 exl-id: b2961d6b-8bc0-4376-b438-03d9fd26be72
 feature: Image Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: fbfbc22477b5e1596a2491cb34cf2bd63601bc63
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
@@ -15,24 +15,30 @@ ht-degree: 0%
 
 Durch das Erstellen von Ordnern können Sie Bilder und Dateien verschieben, nur die gewünschten Bilder anzeigen und direkt in einen bestimmten Ordner hochladen.
 
-1. Navigieren Sie zu **Design Studio**.
+1. Navigieren Sie zu **[!UICONTROL Design Studio]**.
 
-   ![](assets/designstudio-7.png)
+   ![](assets/organize-your-images-and-files-using-folders-1.png)
 
-1. Rechtsklick auf **Bilder und Dateien** Wählen Sie im linken Menü die Option **Ordner**.
+1. Rechtsklick auf **[!UICONTROL Bilder und Dateien]** und wählen **[!UICONTROL Ordner]**.
 
-   ![](assets/image2014-9-16-11-3a25-3a45.png)
+   ![](assets/organize-your-images-and-files-using-folders-2.png)
 
-1. Nachdem der neue Ordner angezeigt wird, geben Sie ihm einen Namen.
+1. Benennen Sie den Ordner und klicken Sie auf **[!UICONTROL Erstellen]**.
 
-   ![](assets/image2014-9-16-11-3a25-3a53.png)
+   ![](assets/organize-your-images-and-files-using-folders-3.png)
 
-1. Navigieren Sie zu **Bilder und Dateien**, können Sie nun per Drag-and-Drop in den gewünschten Ordner ziehen.
+1. Gehen Sie zurück zu **[!UICONTROL Bilder und Dateien]** und wählen Sie das Asset aus, das Sie verschieben möchten. Klicken Sie auf **[!UICONTROL Bild- und Dateiaktionen]** und wählen Sie **[!UICONTROL Verschieben]**.
 
-   ![](assets/image2014-9-16-11-3a26-3a0.png)
+   ![](assets/organize-your-images-and-files-using-folders-4.png)
 
-Hoch fünf! Sie sind alle für Ordner-Utopia eingestellt.
+1. Wählen Sie den gewünschten Ordner aus.
+
+   ![](assets/organize-your-images-and-files-using-folders-5.png)
+
+1. Klicks **Move**.
+
+   ![](assets/organize-your-images-and-files-using-folders-6.png)
 
 >[!MORELIKETHIS]
 >
->[Hochgeladene Bilder und Dateien durchsuchen](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md)
+>[Hochgeladene Bilder und Dateien durchsuchen](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md){target="_blank"}

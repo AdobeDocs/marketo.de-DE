@@ -1,46 +1,46 @@
 ---
 unique-page-id: 2359873
-description: Löschen eines hochgeladenen Bildes oder einer hochgeladenen Datei - Marketo Docs - Produktdokumentation
+description: Löschen eines hochgeladenen Bildes oder einer Datei - Marketo Docs - Produktdokumentation
 title: Löschen eines hochgeladenen Bildes oder einer hochgeladenen Datei
 exl-id: 291ea4f3-a317-4696-b26e-0d69bf4581e3
 feature: Image Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: fbfbc22477b5e1596a2491cb34cf2bd63601bc63
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
 
 # Löschen eines hochgeladenen Bildes oder einer hochgeladenen Datei {#delete-an-uploaded-image-or-file}
 
-1. Navigieren Sie zu **Design** **Studio**.
+Das Löschen von Bildern oder Dateien ist schnell und einfach.
 
-   ![](assets/designstudio-5.png)
+>[!CAUTION]
+>
+>Nach dem Löschen werden die Bilder/Dateien vollständig aus dem Marketo Engage entfernt und können nicht wiederhergestellt werden.
 
-1. Auswählen **Bilder und Dateien** Klicken Sie im linken Menü neben dem Namen der Datei, die Sie löschen möchten.
+1. Navigieren Sie zu **[!UICONTROL Design Studio]**.
 
-   ![](assets/image2014-9-16-11-3a18-3a15.png)
+   ![](assets/delete-an-uploaded-image-or-file-1.png)
 
-1. Klicken Sie auf **Dateiaktionen** und wählen Sie **Löschen**.
+1. Auswählen **[!UICONTROL Bilder und Dateien]**
 
-   ![](assets/image2014-9-16-11-3a18-3a22.png)
+   ![](assets/delete-an-uploaded-image-or-file-2.png)
 
-1. Überprüfen Sie, ob Sie die richtige Datei ausgewählt haben, und klicken Sie auf **Löschen**.
+1. Suchen und wählen Sie das gewünschte Bild/die gewünschte Datei aus. Klicken Sie auf **[!UICONTROL Bild- und Dateiaktionen]** und wählen Sie **[!UICONTROL Löschen]**.
 
-   ![](assets/image2014-9-16-11-3a18-3a30.png)
+   ![](assets/delete-an-uploaded-image-or-file-3.png)
 
-   >[!CAUTION]
+1. Überprüfen Sie, ob Sie die richtige Datei ausgewählt haben, und klicken Sie auf **[!UICONTROL Löschen]**.
+
+   ![](assets/delete-an-uploaded-image-or-file-4.png)
+
+   >[!NOTE]
    >
-   >Gelöschte Bilder und Dateien werden vollständig aus Marketo entfernt und können nicht wiederhergestellt werden.  Sie werden nicht mehr auf Landingpages oder E-Mails angezeigt, auf denen sie verwendet wurden.
-
-1. Sie werden zum **Bilder** und **Dateien** -Seite, auf der Sie sehen, dass Ihre Datei gelöscht wurde.
-
-   ![](assets/image2014-9-16-11-3a19-3a0.png)
-
-Gut gemacht!
+   >Assets werden nicht gelöscht, wenn sie derzeit verwendet werden.
 
 >[!MORELIKETHIS]
 >
->* [Ersetzen eines hochgeladenen Bildes oder einer hochgeladenen Datei](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)
->* [Hochgeladene Bilder und Dateien durchsuchen](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md)
->* [Suchen der URL eines hochgeladenen Bildes oder einer hochgeladenen Datei](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
+>* [Ersetzen eines hochgeladenen Bildes oder einer Datei](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md){target="_blank"}
+>* [Hochgeladene Bilder und Dateien durchsuchen](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md){target="_blank"}
+>* [Suchen der URL eines hochgeladenen Bildes oder einer hochgeladenen Datei](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md){target="_blank"}
