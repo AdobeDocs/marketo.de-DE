@@ -4,9 +4,9 @@ description: Ersetzen eines hochgeladenen Bildes oder einer Datei - Marketo Docs
 title: Ersetzen eines hochgeladenen Bildes oder einer Datei
 exl-id: 2bd936bc-2103-49b0-98b5-55f45674a257
 feature: Image Editor
-source-git-commit: fbfbc22477b5e1596a2491cb34cf2bd63601bc63
+source-git-commit: 74266763ab61379d50560f18fa65bbb35c37feb0
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/replace-an-uploaded-image-or-file-3.png)
 
-1. Ziehen Sie den Computer per Drag-and-Drop oder durchsuchen Sie ihn nach der Ersatzdatei.
+1. Ziehen Sie den Computer per Drag-and-Drop oder durchsuchen Sie ihn nach dem Ersatzbild/der Ersatzdatei.
 
    ![](assets/replace-an-uploaded-image-or-file-4.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
    >
    >Der Ersetzungsdateityp muss mit dem ursprünglichen Dateityp (z. B. .jpg) übereinstimmen.
 
-1. Klicken Sie nach Auswahl der Ersatzdatei auf **[!UICONTROL Ersetzen]**.
+1. Nachdem Sie das Ersatzbild/-datei ausgewählt haben, klicken Sie auf **[!UICONTROL Ersetzen]**.
 
    ![](assets/replace-an-uploaded-image-or-file-5.png)
 
