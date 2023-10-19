@@ -3,7 +3,7 @@ description: Benutzer- und Lizenzverwaltung - Marketo-Dokumente - Produktdokumen
 title: Benutzer- und Lizenzverwaltung
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
 feature: Interactive Webinars
-source-git-commit: 4eb28480b3863650a128a56393a8ef375f268982
+source-git-commit: b5fb106126e52a8d759e560d21e525e21154a4d6
 workflow-type: tm+mt
 source-wordcount: '703'
 ht-degree: 3%
@@ -50,7 +50,7 @@ Erfahren Sie, wie Sie Benutzer hinzufügen und entfernen sowie Ihre aktuellen Li
 
    ![](assets/user-and-license-management-8.png)
 
-## Lizenzverwendung {#license-usage}
+## Lizenznutzung {#license-usage}
 
 Interaktive Webinare bieten spezifische Lizenzen für die Erstellung von Veranstaltungen auf Basis von Adobe Connect. Jedes Mal, wenn eine Lizenz hinzugefügt wird, wird ein neues Feld zur Lizenzverwendung angezeigt. Marketo-Administratoren können die Lizenzen anzeigen (nicht bearbeiten), indem sie die folgenden Schritte ausführen. Wenden Sie sich an das Adobe Account Team (Ihren Kundenbetreuer), um zusätzliche Lizenzen zu erhalten.
 
@@ -67,32 +67,32 @@ Interaktive Webinare bieten spezifische Lizenzen für die Erstellung von Veranst
    ![](assets/user-and-license-management-11.png)
 
 <table> 
-  <tr> 
-   <td><b>Startdatum</b></td>
+  <tr>
+   <td width="20%"><b>Startdatum</b></td>
    <td>Datum, an dem die Lizenz beginnt</td>
   </tr>
   <tr> 
-   <td><b>Ablaufdatum</b></td>
+   <td width="20%"><b>Ablaufdatum</b></td>
    <td>Datum, an dem die Lizenz abläuft.</td>
   </tr>
   <tr> 
-   <td><b>Typ</b></td>
+   <td width="20%"><b>Typ</b></td>
    <td>Die Art der erworbenen Lizenz. Es stehen drei Typen zur Verfügung: Shared Events License, Shared Rooms License, Additional Storage License.</td>
   </tr>
   <tr> 
-   <td><b>Ereigniskapazität</b></td>
+   <td width="20%"><b>Ereigniskapazität</b></td>
    <td>Die maximale Anzahl der Teilnehmer, die für eine Veranstaltung geeignet sind.</td>
   </tr>
   <tr> 
-   <td><b>Gesamtereignisse</b></td>
+   <td width="20%"><b>Gesamtereignisse</b></td>
    <td>Die Gesamtzahl der Ereignisse, die mit dieser Lizenz bereitgestellt wurden.</td>
   </tr>
   <tr> 
-   <td><b>Konsumierte Ereignisse</b></td>
+   <td width="20%"><b>Konsumierte Ereignisse</b></td>
    <td>Die Gesamtzahl der abgeschlossenen Ereignisse.</td>
   </tr>
   <tr> 
-   <td><b>Speicherkapazität</b></td>
+   <td width="20%"><b>Speicherkapazität</b></td>
    <td>Speichermenge, die zum Speichern von Aufzeichnungen, Collaterals, hero images, Dokumentationen und anderen Assets verfügbar ist.</td>
   </tr>
   </tbody>

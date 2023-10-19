@@ -4,14 +4,93 @@ description: Hinzufügen von Bildern und Dateien zu Marketo - Marketo Docs - Pro
 title: Hinzufügen von Bildern und Dateien zu Marketo
 exl-id: 31462189-55fd-458e-8b28-85e525dad5b5
 feature: Image Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b5fb106126e52a8d759e560d21e525e21154a4d6
 workflow-type: tm+mt
-source-wordcount: '188'
-ht-degree: 0%
+source-wordcount: '348'
+ht-degree: 5%
 
 ---
 
 # Hinzufügen von Bildern und Dateien zu Marketo {#add-images-and-files-to-marketo}
+
+Sie haben mehrere Optionen zum Hinzufügen neuer Dateien/Bilder zu Ihrem Images and Files Repository.
+
+## Bild oder Datei hochladen {#upload-image-or-file}
+
+1. Navigieren Sie zu **Design Studio**.
+
+   ![](assets/add-images-and-files-to-marketo-1.png)
+
+1. Auswählen **[!UICONTROL Bilder und Dateien]**
+
+   ![](assets/add-images-and-files-to-marketo-2.png)
+
+1. Klicken Sie auf **[!UICONTROL Bild- und Dateiaktionen]** und wählen Sie **[!UICONTROL Bild oder Datei hochladen]**.
+
+   ![](assets/add-images-and-files-to-marketo-3.png)
+
+1. Ziehen Sie das gewünschte Bild/die gewünschte Datei per Drag-and-Drop oder suchen Sie auf Ihrem Computer danach.
+
+   ![](assets/add-images-and-files-to-marketo-4.png)
+
+1. Nachdem das Asset ausgewählt wurde, klicken Sie auf **Hochladen**.
+
+   ![](assets/add-images-and-files-to-marketo-5.png)
+
+## Bild oder Datei importieren {#import-image-or-file}
+
+Sie haben drei Optionen zum Importieren eines Bildes. Lass uns über jeden von ihnen gehen.
+
+### Import aus dem Internet {#import-from-the-web}
+
+Text
+
+1. Befolgen Sie die Schritte 1 und 2 [von oben](#upload-image-or-file).
+
+1. Klicken Sie auf **[!UICONTROL Bild- und Dateiaktionen]** und wählen Sie **[!UICONTROL Bild oder Datei importieren]**.
+
+   ![](assets/add-images-and-files-to-marketo-6.png)
+
+1. Wählen Sie die **Web** -Option.
+
+   ![](assets/add-images-and-files-to-marketo-7.png)
+
+1. 
+
+PICC
+
+### Aus Feld importieren {#import-from-box}
+
+Text
+
+1. Befolgen Sie die Schritte 1 und 2 [von oben](#upload-image-or-file).
+
+1. Klicken Sie auf **[!UICONTROL Bild- und Dateiaktionen]** und wählen Sie **[!UICONTROL Bild oder Datei importieren]**.
+
+PICC
+
+1. Text
+
+### Importieren von Adobe Experience Manager {#import-from-adobe-experience-manager}
+
+Text
+
+1. Befolgen Sie die Schritte 1 und 2 [von oben](#upload-image-or-file).
+
+1. Klicken Sie auf **[!UICONTROL Bild- und Dateiaktionen]** und wählen Sie **[!UICONTROL Bild oder Datei importieren]**.
+
+PICC
+
+1. Text
+
+
+
+
+
+
+
+
+ALD DOC....
 
 Es ist einfach, mehrere Bilder und Dateien gleichzeitig hinzuzufügen.
 

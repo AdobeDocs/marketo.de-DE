@@ -3,10 +3,10 @@ description: Interaktive Webinare - Überblick - Marketo-Dokumente - Produktdoku
 title: Interaktive Webinare - Überblick
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-source-git-commit: 4eb28480b3863650a128a56393a8ef375f268982
+source-git-commit: b5fb106126e52a8d759e560d21e525e21154a4d6
 workflow-type: tm+mt
-source-wordcount: '394'
-ht-degree: 2%
+source-wordcount: '421'
+ht-degree: 1%
 
 ---
 
@@ -47,3 +47,7 @@ Ja, Sie können steuern, welche Marketo-Benutzer die Berechtigung zum Erstellen 
 **Muss ich das von Adobe Connect unterstützte Webinar wieder mit dem interaktiven Webinar-Veranstaltungsprogramm verknüpfen, wie es bei Startpunkten-Veranstaltungsprogrammen der Fall ist?**
 
 Nein, interaktive Webinar Event-Programme bilden die Zuordnung für Sie.
+
+**Werden meine interaktiven Webinare automatisch aufgezeichnet?**
+
+Sie sind es nicht. Klicken Sie nach Beginn Ihres Webinars auf das Dropdown-Menü neben dem Namen des Webinars und wählen Sie **Sitzung aufzeichnen**.
