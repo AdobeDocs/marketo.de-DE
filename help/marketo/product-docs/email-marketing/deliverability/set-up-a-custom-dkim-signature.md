@@ -4,10 +4,10 @@ description: Einrichten einer benutzerdefinierten DKIM-Signatur - Marketo Docs -
 title: Einrichten einer benutzerdefinierten DKIM-Signatur
 exl-id: a7c6429e-14ee-439e-9f47-1b25b98d41e7
 feature: Deliverability
-source-git-commit: 9e731fa02cd20b34f48c7f85241b97f4c507d4a9
+source-git-commit: aed161086948aa2cec0199771ba5b3b1491600f9
 workflow-type: tm+mt
-source-wordcount: '290'
-ht-degree: 1%
+source-wordcount: '345'
+ht-degree: 0%
 
 ---
 
@@ -33,9 +33,9 @@ Sie können die DKIM-Signatur personalisieren, um die Domäne(n) Ihrer Wahl wide
 
    ![](assets/set-up-a-custom-dkim-signature-2.png)
 
-1. Klicken Sie auf die **SPF/DKIM** tab, dann **Domäne hinzufügen**.
+1. Klicken Sie auf **SPF/DKIM** tab, dann **Domäne hinzufügen**.
 
-![](assets/set-up-a-custom-dkim-signature-3.png)
+   ![](assets/set-up-a-custom-dkim-signature-3.png)
 
 1. Geben Sie die Domäne ein, die Sie in Marketo-E-Mails als Absenderadresse verwenden werden. Wählen Sie einen Selektor und eine Schlüsselgröße. Klicks **Hinzufügen** wann geschehen.
 
@@ -45,6 +45,18 @@ Sie können die DKIM-Signatur personalisieren, um die Domäne(n) Ihrer Wahl wide
    >
    >* Wir empfehlen eine Schlüsselgröße von 2048.
    >* Wenn Sie eine andere Domäne in Ihrer Absenderadresse verwenden, verwenden wir die von Marketo freigegebene DKIM-Signatur.
+
+   <table> 
+   <tr>
+   <td width="20%"><b>Selektor</b></td>
+   <td>Eine eindeutige Zeichenfolge/Kennung, die zum Suchen des öffentlichen Schlüsselteils des DKIM-Datensatzes verwendet wird. Es kann sich um eine beliebige Zeichenfolge oder eine eindeutige Kennung handeln, um den Zweck dieses DKIM-Schlüssels/Datensatzes zu trennen und ihn zu identifizieren.</td>
+   </tr>
+   <tr> 
+   <td width="20%"><b>Schlüsselgröße</b></td>
+   <td>Die Sicherheitsstufe, mit der Ihre DKIM-Signatur verschlüsselt werden soll.</td>
+   </tr>
+   </tbody>
+   </table>
 
 1. Senden Sie die **Hostdatensatz** und **TXT-Wert** zu Ihrer IT hinzufügen. Bitten Sie sie, den Datensatz für Sie zu erstellen und sicherzustellen, dass er an alle Nameserver propagiert wird, die mit der von -Domäne verknüpft sind. Die DKIM-Verifizierung von Marketo erfordert, dass der DKIM-Schlüssel an alle Nameserver weitergegeben wird, die mit der Domäne verknüpft sind, die von DKIM signiert wurde.
 
