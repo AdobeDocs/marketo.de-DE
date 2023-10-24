@@ -4,7 +4,7 @@ description: Best Practices für intelligente Listen - Marketo-Dokumente - Produ
 title: Best Practices für Smart-Listen
 exl-id: 466de198-1012-4ac3-906c-d41943fe5bc0
 feature: Smart Lists
-source-git-commit: 0e68da238100f3816c2e64e1fbe4a5a2892bb3e1
+source-git-commit: 198d7d7fd4c1c312aeb30fa922fd89863ac87f81
 workflow-type: tm+mt
 source-wordcount: '573'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Smart-Listen sind das leistungsfähigste Abfragetool in der Marketing-Rubrik. Sie finden die Menschen, die Sie suchen, mit magischer Geschwindigkeit und Leichtigkeit.
 
-Um die Arbeit mit ihnen zu erleichtern und die Leistung zu optimieren, haben wir eine Liste bewährter Verfahren erstellt. Viel Spaß!
+Um die Arbeit mit ihnen zu vereinfachen und die Leistung zu optimieren, haben wir eine Liste mit Best Practices erstellt. Viel Spaß!
 
 >[!NOTE]
 >

@@ -3,9 +3,9 @@ description: Anmelden mit OAuth 2.0 - Marketo Docs - Produktdokumentation
 title: Anmelden mit OAuth 2.0
 exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 198d7d7fd4c1c312aeb30fa922fd89863ac87f81
 workflow-type: tm+mt
-source-wordcount: '493'
+source-wordcount: '520'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ Salesforce verwendet das OAuth-Protokoll, um Anwendern von Anwendungen den siche
 
    ![](assets/setting-up-oauth-2-3.png)
 
-1. Klicks **Speichern**.
+1. Klicken Sie auf **Speichern**.
 
    ![](assets/setting-up-oauth-2-4.png)
 
@@ -40,27 +40,27 @@ Salesforce verwendet das OAuth-Protokoll, um Anwendern von Anwendungen den siche
 
    ![](assets/setting-up-oauth-2-5.png)
 
-1. Kopieren Sie den Consumer Key und das Consumer Secret.
+1. Kopieren Sie den Consumer Key und das Consumer Secret (Sie werden sie später zum Marketo Engage benötigen).
 
    ![](assets/setting-up-oauth-2-6.png)
 
->[!NOTE]
+>[!CAUTION]
 >
->Speichern Sie den Consumer Key und die Informationen zum Consumer Secret zur späteren Verwendung in Marketo.
+>Scrollen Sie auf der Seite Neue verbundene App nach unten und stellen Sie sicher, dass das Kontrollkästchen &quot;Anfordern des Testversands für Code Exchange (PKCE)&quot;aktiviert ist. _NOT_ aktiviert, da dies die Einrichtung beeinträchtigen würde.
 
 ## Einrichten von Marketo {#set-up-marketo}
 
 >[!PREREQUISITES]
 >
->* Der API-Zugriff muss für den Salesforce Sync User aktiviert sein. (Wenn Sie Salesforce Professional Edition-Benutzer sind, ist dieser Zugriff standardmäßig nicht verfügbar. Wenden Sie sich an Ihren Salesforce-Kundenbetreuer.)
->* Der Marketo Sync-Benutzer muss in Salesforce erstellt werden.
->* Für Bestandskunden ist die Funktion &quot;OAuth für SFDC-Synchronisation aktivieren&quot;im Abonnement des Kunden aktiviert.
->* Popup-Blocker sind deaktiviert.
->* Es wurde eine vernetzte App erstellt, und es stehen der Consumer Key und das Consumer Secret zur Verfügung.
+>* Der API-Zugriff muss für den Salesforce Sync User aktiviert sein (wenn Sie Salesforce Professional Edition-Benutzer sind, ist dieser Zugriff standardmäßig nicht verfügbar - wenden Sie sich an Ihren Salesforce-Kundenbetreuer).
+* Der Marketo Sync-Benutzer muss in Salesforce erstellt werden.
+* Für Bestandskunden ist die Funktion &quot;OAuth für SFDC-Synchronisation aktivieren&quot;im Abonnement des Kunden aktiviert.
+* Popup-Blocker sind deaktiviert.
+* Es wurde eine vernetzte App erstellt, und es stehen der Consumer Key und das Consumer Secret zur Verfügung.
 
 >[!CAUTION]
 >
->Stellen Sie sicher, dass alle nicht benötigten Felder in Marketo vor dem Synchronisierungsbenutzer ausgeblendet werden, bevor Sie auf **Synchronisierungsfelder**. Nachdem Sie auf &quot;Synchronisierungsfelder&quot;geklickt haben, werden alle Felder, die der Benutzer im SFDC sehen kann, dauerhaft in Marketo erstellt und können nicht gelöscht werden.
+Stellen Sie sicher, dass alle nicht benötigten Felder in Marketo vor dem Synchronisierungsbenutzer ausgeblendet werden, bevor Sie auf **Synchronisierungsfelder**. Nachdem Sie auf &quot;Synchronisierungsfelder&quot;geklickt haben, werden alle Felder, die der Benutzer im SFDC sehen kann, dauerhaft in Marketo erstellt und können nicht gelöscht werden.
 
 1. Klicken Sie im Marketo Admin-Bereich auf **CRM**, dann **Mit Salesforce synchronisieren**.
 
@@ -76,7 +76,7 @@ Salesforce verwendet das OAuth-Protokoll, um Anwendern von Anwendungen den siche
 
    >[!CAUTION]
    >
-   >Wenn die Felder &quot;Benutzername/Kennwort/Token&quot;und nicht die Schaltfläche &quot;Mit Salesforce anmelden&quot;angezeigt werden, ist Ihr Marketo-Abonnement für die Standardauthentifizierung aktiviert. Siehe [Einrichten von Marketo mit Standardauthentifizierung](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md). Sobald die Synchronisierung mit einer Reihe von Anmeldeinformationen beginnt, erfolgt kein Wechsel von Salesforce-Anmeldeinformationen oder -Abonnements. Wenn Sie Oauth 2.0 verwenden möchten, wenden Sie sich an das Adobe Account Team (Ihren Kundenbetreuer).
+   Wenn die Felder &quot;Benutzername/Kennwort/Token&quot;und nicht die Schaltfläche &quot;Mit Salesforce anmelden&quot;angezeigt werden, ist Ihr Marketo-Abonnement für die Standardauthentifizierung aktiviert. Siehe [Einrichten von Marketo mit Standardauthentifizierung](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md). Sobald die Synchronisierung mit einer Reihe von Anmeldeinformationen beginnt, erfolgt kein Wechsel von Salesforce-Anmeldeinformationen oder -Abonnements. Wenn Sie Oauth 2.0 verwenden möchten, wenden Sie sich an das Adobe Account Team (Ihren Kundenbetreuer).
 
 1. Ein Popup mit der Salesforce-Anmeldeseite wird angezeigt. Geben Sie die Anmeldedaten für Ihren Marketo Sync User ein und melden Sie sich an.
 
@@ -108,7 +108,7 @@ Ihre Synchronisation zwischen Marketo und Salesforce wird jetzt ausgeführt.
 
 >[!MORELIKETHIS]
 >
->* [Schritt 1 von 3: Hinzufügen von Marketo-Feldern zu Salesforce (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
->* [Schritt 2 von 3: Erstellen eines Salesforce-Benutzers für Marketo (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
->* [Installieren des Marketo Sales Insight-Pakets in Salesforce AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
->* [Konfigurieren von Marketo Sales Insight in Salesforce Enterprise/Unlimited](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
+* [Schritt 1 von 3: Hinzufügen von Marketo-Feldern zu Salesforce (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
+* [Schritt 2 von 3: Erstellen eines Salesforce-Benutzers für Marketo (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
+* [Installieren des Marketo Sales Insight-Pakets in Salesforce AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
+* [Konfigurieren von Marketo Sales Insight in Salesforce Enterprise/Unlimited](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)

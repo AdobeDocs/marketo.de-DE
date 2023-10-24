@@ -4,7 +4,7 @@ description: Glossar zu Operatoren für intelligente Listenfilter - Marketo-Doku
 title: Glossar zu Operatoren für intelligente Listenfilter
 exl-id: 5a370482-f214-4909-bb49-801c1a36b153
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 198d7d7fd4c1c312aeb30fa922fd89863ac87f81
 workflow-type: tm+mt
 source-wordcount: '605'
 ht-degree: 12%
@@ -13,7 +13,7 @@ ht-degree: 12%
 
 # Glossar zu Operatoren für intelligente Listenfilter {#smart-list-filter-operators-glossary}
 
-Ein Operator ist Teil der Smart-Liste, mit der Sie bestimmte Kriterien erfüllen können. Damit können Sie Ihren Trigger oder Filter in einfacher Sprache beschreiben. Die verfügbaren Operatoren unterscheiden sich je nach Feldtyp.
+Ein Operator ist Teil der Smart-Liste, die Ihnen hilft, bestimmte Kriterien zu erfüllen. Damit können Sie Ihren Trigger oder Filter in einfacher Sprache beschreiben. Die verfügbaren Operatoren unterscheiden sich je nach Feldtyp.
 
 Im Folgenden finden Sie ein Glossar, in dem die einzelnen Operatoren beschrieben werden.
 
@@ -52,11 +52,11 @@ Geben Sie einfach die Nummer und Einheit zusammen und es wird funktionieren!
 
 >[!NOTE]
 >
->&quot;In der Vergangenheit&quot; **does** den Tag (bis zur Uhrzeit, nicht nach), an dem Sie Ihre Smart-Liste erstellen.
+>&quot;In der Vergangenheit&quot; _does_ den Tag einschließen (bis zur Zeit, nicht nach), an dem Sie Ihre Smart-Liste erstellen.
 
 >[!CAUTION]
 >
->Wenn Sie eine intelligente Liste mit einem Datumsfeldfilter erstellen (z. B. Geburtsdatum, SFDC-Erstellungsdatum) und die Begrenzungen verwenden **before**, **auf oder vor** oder **früher**, werden in die intelligente Liste auch Personen aufgenommen, die in dem Datumsfeld keinen Wert haben.
+>Wenn Sie eine Smart-Liste mit einem Datumsfeldfilter erstellen (z. B. Geburtsdatum, SFDC-Erstellungsdatum) und die Begrenzungen verwenden **[!UICONTROL before]**, **[!UICONTROL auf oder vor]** oder **[!UICONTROL früher]** enthält die Smart-Liste auch Personen, die in diesem Datumsfeld keinen Wert haben.
 
 Verwenden Sie das folgende Diagramm, um die Unterschiede zwischen den Datumsoperatoren zu verstehen.
 
@@ -68,11 +68,11 @@ Verwenden Sie das folgende Diagramm, um die Unterschiede zwischen den Datumsoper
 >
 >Datumsfelder können schwierig werden, wenn Sie mit vergangenen und zukünftigen Ereignissen arbeiten. Hier sind einige Beispiele.
 >
->**In der Vergangenheit**
+>**[!UICONTROL In der Vergangenheit]**
 >
 >Verwenden Sie diesen Operator, um für Ihre neue Werbeaktion E-Mails nur an Personen zu senden, die Ihren Dienst nicht innerhalb eines Jahres abonniert oder erneuert haben oder noch nie Abonnenten waren.
 >
->**In Zukunft nach**
+>**[!UICONTROL In Zukunft nach]**
 >
 >Nehmen Sie an, Sie möchten Kunden sehen, die in 90 Tagen eine Verlängerung beantragen. Sie würden zwei separate Filter verwenden. Verwenden Sie zunächst &quot;In der Zukunft nach 90 Tagen&quot;und dann &quot;In den kommenden 91 Tagen&quot;. Dadurch würde erfasst, wer in 90 Tagen ein Datum hat.
 
