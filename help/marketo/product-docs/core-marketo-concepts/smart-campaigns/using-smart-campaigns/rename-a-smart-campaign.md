@@ -4,9 +4,9 @@ description: Umbenennen einer Smart-Kampagne - Marketo-Dokumente - Produktdokume
 title: Umbenennen einer Smart-Kampagne
 exl-id: 116dff4a-56ca-451a-bbab-f277e4f3daf9
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Sie können den Namen einer vorhandenen Smart-Kampagne ändern. So geht es.
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Navigieren Sie zu **[!UICONTROL Marketingaktivitäten]**.
 
    ![](assets/rename-a-smart-campaign-1.png)
 
-1. Wählen Sie Ihre Smart-Kampagne aus und klicken Sie auf den Namen der Kampagne.
+1. Wählen Sie Ihre Smart-Kampagne aus und klicken Sie dann rechts auf ihren Namen.
 
    ![](assets/rename-a-smart-campaign-2.png)
 
@@ -27,7 +27,7 @@ Sie können den Namen einer vorhandenen Smart-Kampagne ändern. So geht es.
    >
    >Smart-Campaign-Namen innerhalb von Programmen werden immer in das Format &#39;ProgramName.CampaignName&#39; übersetzt.
 
-1. Geben Sie den neuen Namen der Smart-Kampagne ein und klicken Sie auf **Speichern**.
+1. Geben Sie den neuen Namen der Smart-Kampagne ein und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/rename-a-smart-campaign-3.png)
 

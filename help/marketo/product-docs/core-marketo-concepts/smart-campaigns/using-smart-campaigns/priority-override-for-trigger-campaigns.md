@@ -3,16 +3,16 @@ description: Prioritätsüberschreibungen für Trigger-Kampagnen - Marketo-Dokum
 title: Prioritätsüberschreibungen für Trigger-Kampagnen
 exl-id: cf9b4d27-0e4c-40cf-accd-4f4a102160cc
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
 workflow-type: tm+mt
-source-wordcount: '245'
-ht-degree: 8%
+source-wordcount: '247'
+ht-degree: 1%
 
 ---
 
 # Prioritätsüberschreibungen für Trigger-Kampagnen {#priority-override-for-trigger-campaigns}
 
-AdministratorInnen können die von Marketo festgelegte Priorität für Trigger-Kampagnen außer Kraft setzen, um Prioritäten festzulegen, die besser mit den Geschäftszielen übereinstimmen.
+Administratoren können die von der Marketo Engage festgelegte Priorität für Trigger-Kampagnen außer Kraft setzen, um Prioritäten zu setzen, die besser auf Geschäftsziele ausgerichtet sind.
 
 >[!NOTE]
 >
@@ -36,13 +36,13 @@ AdministratorInnen können die von Marketo festgelegte Priorität für Trigger-K
 
    ![](assets/priority-override-for-trigger-campaigns-2.png)
 
-1. under [!UICONTROL Auf Marketing-Aktivitäten zugreifen]auswählen **[!UICONTROL Trigger-Kampagnenpriorität bearbeiten]**. Klicks **[!UICONTROL Speichern]**.
+1. under [!UICONTROL Auf Marketing-Aktivitäten zugreifen]auswählen **[!UICONTROL Trigger-Kampagnenpriorität bearbeiten]**. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/priority-override-for-trigger-campaigns-3.png)
 
 ## Priorität aufheben {#override-priority}
 
-1. Suchen Sie die Trigger-Kampagne. Klicken Sie mit der rechten Maustaste darauf und wählen Sie **[!UICONTROL Kampagnenpriorität überschreiben]**.
+1. Suchen Sie Ihre Trigger-Kampagne. Klicken Sie mit der rechten Maustaste darauf und wählen Sie **[!UICONTROL Kampagnenpriorität überschreiben]**.
 
    ![](assets/priority-override-for-trigger-campaigns-4.png)
 
@@ -58,4 +58,4 @@ AdministratorInnen können die von Marketo festgelegte Priorität für Trigger-K
 >
 >* Die Standardpriorität Ihrer Kampagne können Sie im [!UICONTROL Kampagnenwarteschlange] under [!UICONTROL Marketingaktivitäten]. Um die Ausführungsrate zu steigern, empfehlen wir, die Kampagnenpriorität auf eine Ebene zu setzen, die über der Standardeinstellung liegt.
 >* Die Priorität des Benutzersatzes gilt nur für neue Personen, die sich für die Kampagne qualifizieren. Personen, die sich bereits in der Warteschlange befinden, sind davon nicht betroffen.
->* Prioritätsüberschreibungen werden in [Audit-Protokoll](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md).
+>* Prioritätsüberschreibungen werden in [Audit-Protokoll](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md){target="_blank"}.

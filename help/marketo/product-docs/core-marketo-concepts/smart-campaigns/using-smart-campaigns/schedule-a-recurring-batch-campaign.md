@@ -4,7 +4,7 @@ description: Wiederkehrende Batch-Kampagne planen - Marketo Docs - Produktdokume
 title: Wiederkehrende Batch-Kampagne planen
 exl-id: b7a931b0-5061-4c4f-8084-4938254a4d9c
 feature: Smart Campaigns
-source-git-commit: 3916413a90e52a3423a8d7f78ad1c9eb45c2a219
+source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Mit der Wiederholung können Sie eine Batch-Kampagne regelmäßig ausführen. Zum Beispiel - einmal pro Woche, Dienstag um 10:00 Uhr.
 
-1. Wählen Sie die Smart-Kampagne aus und navigieren Sie zum **Zeitplan** und klicken Sie auf **Intervall planen**.
+1. Wählen Sie die Smart-Kampagne aus und navigieren Sie zum **[!UICONTROL Zeitplan]** und klicken Sie auf **[!UICONTROL Intervall planen]**.
 
    ![](assets/schedule-a-recurring-batch-campaign-1.png)
 
-1. Klicken Sie auf **Zeitplan** und wählen Sie **Wöchentlich**.
+1. Klicken Sie auf **[!UICONTROL Zeitplan]** und wählen Sie **[!UICONTROL Wöchentlich]**.
 
    ![](assets/schedule-a-recurring-batch-campaign-2.png)
 
@@ -31,13 +31,13 @@ Mit der Wiederholung können Sie eine Batch-Kampagne regelmäßig ausführen. Zu
 
    ![](assets/schedule-a-recurring-batch-campaign-4.png)
 
-1. Belassen Sie Wiederholen alle als 1, wählen Sie Dienstag und klicken Sie auf **Speichern**.
+1. Leave &quot;[!UICONTROL Wiederholen alle]&quot; als 1, wählen Sie Dienstag aus und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/schedule-a-recurring-batch-campaign-5.png)
 
    >[!NOTE]
    >
-   >Für eine bestimmte Lauflänge können Sie auf das Kalendersymbol neben **Beenden auf** und wählen Sie das Enddatum aus.
+   >Für eine bestimmte Lauflänge können Sie auf das Kalendersymbol neben **[!UICONTROL Beenden auf]** und wählen Sie das Enddatum aus.
 
 Die geplanten Wiederholungen werden unten auf der Registerkarte Plan angezeigt.
 

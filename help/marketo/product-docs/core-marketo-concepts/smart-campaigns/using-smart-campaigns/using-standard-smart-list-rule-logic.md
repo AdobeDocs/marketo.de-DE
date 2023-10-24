@@ -4,7 +4,7 @@ description: Verwenden der standardmäßigen Smart-List-Regellogik - Marketo-Dok
 title: Verwenden der standardmäßigen Smart-List-Regellogik
 exl-id: 9befaa81-e50c-47d3-9edf-220cfadd00f6
 feature: Smart Campaigns
-source-git-commit: 3916413a90e52a3423a8d7f78ad1c9eb45c2a219
+source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Möglicherweise haben Sie beim Erstellen von Smart-Listen für Kampagnen die Opt
 
 >[!NOTE]
 >
->Das Ändern der Logik von Smart-List-Regeln gilt nur für Filter. **not** Trigger.
+>Das Ändern der Logik von Smart-List-Regeln gilt nur für Filter. _not_ Trigger.
 
 Trigger werden immer als ODER ausgewertet, selbst wenn die obige Einstellung auf ALLE gesetzt ist. Im Folgenden finden Sie ein Beispiel:
 
@@ -38,8 +38,8 @@ Country is US
 THEN follow the campaign's flow step(s)
 ```
 
-Wenn also eine Person das Formular ausfüllt **oder** besucht die Seite und die Kampagne bewertet diese Person anhand der **all** oder **any** der nachfolgenden Filter, je nach verwendeter Einstellung.
+Wenn also eine Person das Formular ausfüllt _oder_ besucht die Seite und die Kampagne bewertet diese Person anhand der _all_ oder _any_ der nachfolgenden Filter, je nach verwendeter Einstellung.
 
 >[!MORELIKETHIS]
 >
->[Verwenden der erweiterten Smart-List-Regellogik](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md)
+>[Verwenden der erweiterten Smart-List-Regellogik](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md){target="_blank"}

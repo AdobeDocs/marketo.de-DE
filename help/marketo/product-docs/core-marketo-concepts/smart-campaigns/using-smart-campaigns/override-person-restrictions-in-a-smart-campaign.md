@@ -4,9 +4,9 @@ description: Überschreiben von Personenbeschränkungen in einer Smart-Kampagne 
 title: Überschreiben von Personenbeschränkungen in einer Smart-Kampagne
 exl-id: 45ff3e36-01fd-42ea-ba74-efd98867a58a
 feature: Smart Campaigns
-source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
+source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Mit Marketo Engage können Sie die maximale Anzahl von Personen festlegen, die s
 >
 >Stellen Sie sicher, [Personenbeschränkungen für Smart-Kampagnen aktivieren](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md){target="_blank"} in Marketo Admin.
 
-1. Gehen Sie in Marketingaktivitäten zu Ihrer Smart-Kampagne und klicken Sie auf **Zeitplan**.
+1. In **[!UICONTROL Marketingaktivitäten]**, navigieren Sie zu Ihrer Smart-Kampagne und klicken Sie auf **[!UICONTROL Zeitplan]**.
 
    ![](assets/override-person-restrictions-in-a-smart-campaign-1.png)
 
