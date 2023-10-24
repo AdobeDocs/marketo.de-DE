@@ -4,9 +4,9 @@ description: Person zu Blockierungsliste hinzufügen - Marketo Docs - Produktdok
 title: Person zu Blockierungsliste hinzufügen
 exl-id: e4543bf9-11e9-42df-a31e-e2cebe24ad4a
 feature: Smart Lists
-source-git-commit: cc87ecb8d3245734ec0ce984eeccf742833a85d2
+source-git-commit: de8eb7dd1b7f1da5d219ec8c182a02eb998a2a22
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '183'
 ht-degree: 3%
 
 ---
@@ -15,21 +15,21 @@ ht-degree: 3%
 
 Wenn Sie Personen zu Ihrer Blockierungsliste hinzufügen, wird verhindert, dass sie Ihre Korrespondenz erhalten.
 
-1. [Neues Standardprogramm erstellen](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md) und benennen Sie sie **Zu Blockierungsliste hinzufügen**.
+1. Erstellen Sie eine neue [Standardprogramm](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md){target="_blank"} und benennen Sie sie &quot;Zu Blockierungsliste hinzufügen&quot;.
 
-1. Klicks **Neu** und wählen **Neues lokales Asset**.
+1. Klicks **[!UICONTROL Neu]** und wählen **[!UICONTROL Neues lokales Asset]**.
 
    ![](assets/add-person-to-blocklist-1.png)
 
-1. Auswählen **Smart List**.
+1. Auswählen **[!UICONTROL Smart List]**.
 
    ![](assets/add-person-to-blocklist-2.png)
 
-1. Benennen Sie Ihre Liste und klicken Sie auf **Erstellen**.
+1. Benennen Sie Ihre Liste und klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/add-person-to-blocklist-3.png)
 
-1. Fügen Sie alle Personen zu Ihren **Smart List** Sie möchten zu Ihrer Blockierungsliste hinzugefügt werden.
+1. Fügen Sie alle Personen zu Ihrer Smart-Liste hinzu, die Sie Ihrer Blockierungsliste hinzufügen möchten.
 
    ![](assets/add-person-to-blocklist-4.png)
 
@@ -41,15 +41,15 @@ Wenn Sie Personen zu Ihrer Blockierungsliste hinzufügen, wird verhindert, dass 
 
    ![](assets/add-person-to-blocklist-5.png)
 
-1. Klicks **Neu** und wählen **Neue intelligente Kampagne**.
+1. Klicks **[!UICONTROL Neu]** und wählen **[!UICONTROL Neue intelligente Kampagne]**.
 
    ![](assets/add-person-to-blocklist-6.png)
 
-1. Benennen Sie die **Neue intelligente Kampagne**. Klicken Sie auf **Erstellen**.
+1. Benennen Sie die neue Smart-Kampagne. Klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/add-person-to-blocklist-7.png)
 
-1. Drag &amp; Drop **Mitglied der Smart List**.
+1. Drag &amp; Drop **[!UICONTROL Mitglied der Smart List]**.
 
    ![](assets/add-person-to-blocklist-8.png)
 
@@ -57,23 +57,23 @@ Wenn Sie Personen zu Ihrer Blockierungsliste hinzufügen, wird verhindert, dass 
 
    ![](assets/add-person-to-blocklist-9.png)
 
-1. Klicken Sie auf die Registerkarte **“Flow“**. Ziehen Sie die **Datenwert ändern** Flussaktion.
+1. Klicken Sie auf die Registerkarte **[!UICONTROL “Flow“]**. Ziehen Sie die **[!UICONTROL Datenwert ändern]** Flussaktion.
 
    ![](assets/add-person-to-blocklist-10.png)
 
-1. Im **Attribut** Dropdown-Auswahl **Block Listed** und **Neuer Wert** nach **true**.
+1. Im **[!UICONTROL Attribut]** Dropdown-Auswahl **[!UICONTROL Block Listed]** und **[!UICONTROL Neuer Wert]** nach **[!UICONTROL true]**.
 
    ![](assets/add-person-to-blocklist-11.png)
 
-1. Klicken Sie auf **Zeitplan** Registerkarte und wählen Sie **Einmal ausführen**.
+1. Klicken Sie auf **[!UICONTROL Zeitplan]** Registerkarte und wählen Sie **[!UICONTROL Einmal ausführen]**.
 
    ![](assets/add-person-to-blocklist-12.png)
 
-1. Auswählen **Jetzt ausführen** und klicken **Ausführen**.
+1. Auswählen **[!UICONTROL Jetzt ausführen]** und klicken **[!UICONTROL Ausführen]**.
 
    ![](assets/add-person-to-blocklist-13.png)
 
-1. Klicks **Ausführen** erneut.
+1. Klicks **[!UICONTROL Ausführen]** erneut.
 
    ![](assets/add-person-to-blocklist-14.png)
 
@@ -81,4 +81,4 @@ Diese Personen erhalten keine E-Mails mehr.
 
 >[!TIP]
 >
->Erstellen Sie eine [Smart-Kampagne für Trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md) using **Datenwert ändern** mit **Block Listed is true** für alle zukünftigen Personen mit Attributen, die über Blockierungsliste verfügen.
+>Erstellen Sie eine [Trigger Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"} using **Datenwert ändern** mit **Block Listed is true** für alle zukünftigen Personen mit Attributen, die über Blockierungsliste verfügen.
