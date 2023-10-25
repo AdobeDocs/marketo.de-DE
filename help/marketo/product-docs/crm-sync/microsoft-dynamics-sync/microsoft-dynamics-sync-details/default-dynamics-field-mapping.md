@@ -3,16 +3,16 @@ description: Standardmäßige Dynamics-Feldzuordnung - Marketo-Dokumente - Produ
 title: Standardmäßige Dynamics-Feldzuordnung
 exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 feature: Microsoft Dynamics
-source-git-commit: 09c70bb891f5cc93553c1f8dd0fb58dfd407fa81
+source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '829'
+source-wordcount: '830'
 ht-degree: 42%
 
 ---
 
 # Standardmäßige Dynamics-Feldzuordnung {#default-dynamics-field-mapping}
 
-Wenn Sie Ihr Marketo-Konto zum ersten Mal mit Microsoft synchronisieren, führt Marketo diese Verknüpfungen automatisch zwischen Ihren integrierten Dynamics- und Marketo-Feldern durch.  Marketo synchronisiert auch Ihre benutzerdefinierten Felder mit Ihren Leads, Konten, Chancen und Kontakten.
+Wenn Sie Ihr Marketo Engage-Konto zum ersten Mal mit Microsoft synchronisieren, führt Marketo diese Verknüpfungen automatisch zwischen Ihren integrierten Dynamics- und Marketo-Feldern durch.  Marketo synchronisiert auch Ihre benutzerdefinierten Felder mit Ihren Leads, Konten, Chancen und Kontakten.
 
 ## Lead-Felder {#lead-fields}
 
@@ -129,7 +129,7 @@ Wenn Sie Ihr Marketo-Konto zum ersten Mal mit Microsoft synchronisieren, führt 
       <td>donotphone</td>
     </tr>
     <tr>
-      <td>Abgemeldet</td>
+      <td>Hat abbestellt</td>
       <td>Massen-E-Mail nicht</td>
       <td>donotbulkemail</td>
     </tr>
@@ -244,7 +244,7 @@ Die folgenden Lead-Felder werden für die interne Verwendung synchronisiert.
       <th>MS Dynamics API-Name</th>
     </tr>
     <tr>
-      <td>Eigentümer </td>
+      <td>Eigentümerin oder Eigentümer</td>
       <td>ownerid</td>
     </tr>
     <tr>
@@ -354,7 +354,7 @@ Die folgenden Lead-Felder werden für die interne Verwendung synchronisiert.
       <td>donotphone</td>
     </tr>
     <tr>
-      <td>Abgemeldet</td>
+      <td>Hat abbestellt</td>
       <td>Massen-E-Mail nicht</td>
       <td>donotbulkemail</td>
     </tr>
@@ -431,7 +431,7 @@ Die folgenden Lead-Felder werden für die interne Verwendung synchronisiert.
     <tr>
       <td>Personenhinweise</td>
       <td>Beschreibung</td>
-      <td>Beschreibung </td>
+      <td>Beschreibung</td>
     </tr>
     <tr>
       <td>Personen-Punktzahl</td>
@@ -441,7 +441,7 @@ Die folgenden Lead-Felder werden für die interne Verwendung synchronisiert.
     <tr>
       <td>Personenhinweise</td>
       <td>Beschreibung</td>
-      <td>Beschreibung </td>
+      <td>Beschreibung</td>
     </tr>
   </tbody>
 </table>
@@ -459,7 +459,7 @@ Die folgenden Kontaktfelder werden für die interne Verwendung synchronisiert.
       <th>MS Dynamics API-Name</th>
     </tr>
     <tr>
-      <td>Eigentümer </td>
+      <td>Eigentümerin oder Eigentümer</td>
       <td>ownerid</td>
     </tr>
     <tr>
@@ -603,7 +603,7 @@ Die folgenden Kontofelder werden für die interne Verwendung synchronisiert.
       <th>MS Dynamics API-Name</th>
     </tr>
     <tr>
-      <td>Eigentümer </td>
+      <td>Eigentümerin oder Eigentümer</td>
       <td>ownerid</td>
     </tr>
     <tr>
@@ -673,7 +673,7 @@ Die folgenden Kontofelder werden für die interne Verwendung synchronisiert.
       <th>MS Dynamics API-Name</th>
     </tr>
     <tr>
-      <td>Eigentümer </td>
+      <td>Eigentümerin oder Eigentümer</td>
       <td>ownerid</td>
     </tr>
     <tr>

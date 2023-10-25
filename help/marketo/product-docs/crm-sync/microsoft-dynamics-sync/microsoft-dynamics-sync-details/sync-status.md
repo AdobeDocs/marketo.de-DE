@@ -4,7 +4,7 @@ description: Synchronisierungsstatus - Marketo-Dokumente - Produktdokumentation
 title: Synchronisierungsstatus
 exl-id: cab1cb1d-2bc7-4466-bab8-c9e03ab269f7
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 2%
@@ -17,11 +17,11 @@ Auf den Registerkarten Synchronisierungsstatus und Synchronisierungsfehler könn
 
 ## Registerkarte &quot;Synchronisierungsstatus&quot; {#sync-status-tab}
 
-1. Klicks **Admin** und **Microsoft Dynamics**.
+1. Klicks **[!UICONTROL Admin]**, dann **[!UICONTROL Microsoft Dynamics]**.
 
    ![](assets/image2016-1-20-11-3a34-3a14.png)
 
-1. Klicken Sie auf **Synchronisierungsstatus** Registerkarte.
+1. Klicken Sie auf **[!UICONTROL Synchronisierungsstatus]** Registerkarte.
 
    ![](assets/image2016-5-19-10-3a1-3a11.png)
 
@@ -35,7 +35,7 @@ Auf den Registerkarten Synchronisierungsstatus und Synchronisierungsfehler könn
 
    ![](assets/image2016-1-22-10-3a51-3a10.png)
 
-1. Klicken Sie auf **Ansicht:** und wählen Sie **Letzte Stunde** , um Durchsatzinformationen anzuzeigen.
+1. Klicken Sie auf **[!UICONTROL Ansicht]** und wählen Sie **[!UICONTROL Letzte Stunde]** , um Durchsatzinformationen anzuzeigen.
 
    ![](assets/image2016-5-19-10-3a20-3a7.png)
 
@@ -55,4 +55,4 @@ Durchsuchen, Suchen oder Exportieren von Leads (und anderen Objekten), die nicht
 
 >[!MORELIKETHIS]
 >
->[Benachrichtigungstypen](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
+>[Benachrichtigungstypen](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md){target="_blank"}

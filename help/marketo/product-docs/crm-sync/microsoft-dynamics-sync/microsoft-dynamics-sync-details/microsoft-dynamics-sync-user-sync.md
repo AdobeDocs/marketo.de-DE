@@ -4,16 +4,16 @@ description: Microsoft Dynamics Sync - Benutzersynchronisierung - Marketo Docs -
 title: Microsoft Dynamics Sync - Benutzersynchronisierung
 exl-id: d642d4d2-2beb-42c6-a6b2-3da5df1cd9c8
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
 
 # Microsoft Dynamics Sync: Benutzersynchronisierung {#microsoft-dynamics-sync-user-sync}
 
-Wussten Sie, dass Marketo Ihre gesamte Datenbank mit Dynamics synchronisiert? Es wird synchronisiert, dann 5 Minuten wartet und dann wieder synchronisiert, den ganzen Tag, jeden Tag. Im Folgenden finden Sie einige Details dazu, wie Marketo Dynamics-Konten spezifisch behandelt.
+Wussten Sie, dass Marketo Engage Ihre gesamte Datenbank mit Dynamics synchronisiert? Es wird synchronisiert, dann 5 Minuten wartet und dann wieder synchronisiert, den ganzen Tag, jeden Tag. Im Folgenden finden Sie einige Details dazu, wie Marketo Dynamics-Konten spezifisch behandelt.
 
 Für die Integration benötigen Sie einen dedizierten Microsoft Dynamics CRM-Benutzer. Wir nennen diesen Benutzer &quot;Sync User&quot;.
 
@@ -23,8 +23,8 @@ Die Benutzersynchronisierung ist eine Möglichkeit - Dynamics zu Marketo. Wenn S
 
 ## Kann ich einen Benutzer mit Marketo erstellen? {#can-i-create-an-user-using-marketo}
 
-Anz. Marketo kann keine Benutzer in Dynamics erstellen.
+Nein. Marketo kann keine Benutzer in Dynamics erstellen.
 
 ## Welche Felder werden mit Marketo synchronisiert? {#which-fields-will-sync-to-marketo}
 
-Sie können [Auswahl der zu synchronisierenden Felder](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync) während der Einrichtung. Marketo synchronisiert jedoch nur die Felder, auf die der Benutzer für die Synchronisierung mit Dynamics Zugriff hat.
+Sie können [Auswahl der zu synchronisierenden Felder](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync){target="_blank"} während der Einrichtung. Marketo synchronisiert jedoch nur die Felder, auf die der Benutzer für die Synchronisierung mit Dynamics Zugriff hat.

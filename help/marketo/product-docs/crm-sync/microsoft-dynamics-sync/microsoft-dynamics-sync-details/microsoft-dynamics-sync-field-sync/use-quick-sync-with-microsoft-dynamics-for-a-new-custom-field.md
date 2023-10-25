@@ -4,10 +4,10 @@ description: Verwenden Sie die Schnellsynchronisierung mit Microsoft Dynamics f�
 title: Verwenden der Schnellsynchronisierung mit Microsoft Dynamics für ein neues benutzerdefiniertes Feld
 exl-id: c98f1443-c0dd-40e1-919b-f8110088b38a
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '355'
-ht-degree: 0%
+source-wordcount: '354'
+ht-degree: 1%
 
 ---
 
@@ -23,19 +23,19 @@ Die Schnellsynchronisierung kann Null-Werte synchronisieren. Wenn Sie beispielsw
 
 Hier erfahren Sie, wie Sie die Schnellsynchronisierung verwenden, um für neue Felder neu zu synchronisieren.
 
-1. Klicken Sie in Marketo auf **Admin**.
+1. Klicken Sie unter Marketo Engage auf **[!UICONTROL Admin]**.
 
    ![](assets/image2016-8-19-11-3a14-3a5.png)
 
-1. Klicken **Microsoft Dynamics**.
+1. Klicks **[!UICONTROL Microsoft Dynamics]**.
 
    ![](assets/image2016-8-19-11-3a15-3a8.png)
 
-1. Klicken Sie in den Details zur Feldsynchronisierung auf **Bearbeiten**.
+1. Klicken Sie in den Details zur Feldsynchronisierung auf **[!UICONTROL Bearbeiten]**.
 
    ![](assets/image2016-8-19-11-3a16-3a22.png)
 
-1. Wählen Sie die Felder aus, die schnell synchronisiert werden sollen, und klicken Sie auf **Speichern**.
+1. Wählen Sie die zu synchronisierenden Felder aus und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/image2016-8-25-15-3a26-3a11.png)
 
@@ -55,7 +55,7 @@ Hier erfahren Sie, wie Sie die Schnellsynchronisierung verwenden, um für neue F
 
 Was passiert, wenn Sie ein vorhandenes Feld synchronisieren möchten, dies aber nur für einen begrenzten Datensatz tun? So geht es.
 
-1. Deaktivieren Sie das Kontrollkästchen für ein vorhandenes Feld. Klicken **Speichern**.
+1. Deaktivieren Sie das Kontrollkästchen für ein vorhandenes Feld. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/image2016-8-25-16-3a16-3a32.png)
 
@@ -63,11 +63,11 @@ Was passiert, wenn Sie ein vorhandenes Feld synchronisieren möchten, dies aber 
 
    ![](assets/select-field-reselect-hand.png)
 
-1. Klicken **Erweiterte Synchronisierung**.
+1. Klicks **[!UICONTROL Erweiterte Synchronisierung]**.
 
    ![](assets/image2016-8-25-15-3a52-3a9.png)
 
-1. Auswählen **Aktualisiert** und wählen Sie mithilfe der Datumsauswahl einen Datumsbereich aus. Klicken **Speichern**.
+1. Auswählen **[!UICONTROL Aktualisiert]** und wählen Sie mithilfe der Datumsauswahl einen Datumsbereich aus. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/image2016-8-25-16-3a0-3a3.png)
 
@@ -77,11 +77,11 @@ Was passiert, wenn Sie ein vorhandenes Feld synchronisieren möchten, dies aber 
 
 In seltenen Fällen, in denen ein Dynamics- und Marketo-Feld nicht synchron ist, gibt es eine schnelle und einfache Möglichkeit, sie neu zu synchronisieren.
 
-1. Heben Sie die Auswahl des Felds auf und klicken Sie auf **Speichern**.
+1. Heben Sie die Auswahl des Felds auf und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/image2016-8-25-16-3a16-3a32-1.png)
 
-1. Wählen Sie das Feld erneut aus und klicken Sie auf **Speichern**. Das ist alles!
+1. Wählen Sie das Feld erneut aus und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/image2016-8-25-16-3a20-3a45.png)
 
