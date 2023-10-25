@@ -4,9 +4,9 @@ description: Erläuterungen zum SEO-Dashboard - SEO-Schnappschuss - Marketo-Doku
 title: Erläuterungen zum SEO-Dashboard - SEO-Schnappschuss
 exl-id: 59ff940f-368c-4e71-9e1f-a6f959811841
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: d9ea30742b6ef3b6299284a1f446a69f15105379
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '253'
 ht-degree: 1%
 
 ---
@@ -35,7 +35,9 @@ In diesem Abschnitt erfahren Sie, wie Ihre Site nach der [Targeting-Suchbegriffe
 >
 >Sie können auch sehen, wie eine [spezifische Liste](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md) der Suchbegriffe. Klicken Sie auf das Dropdown-Menü und wählen Sie aus, welches Sie interessiert.
 
-Fick dich an! Lass uns weitermachen.
+>[!NOTE]
+>
+>Daten werden nur für Suchbegriffe angezeigt, die den Rang 1 bis 100 aufweisen.
 
 ## [!UICONTROL Durchschnittliche Bewertung der Seitenoptimierung] {#average-page-optimization-score}
 

@@ -4,16 +4,16 @@ description: SEO - Suchbegriffe hinzufügen - Marketo-Dokumente - Produktdokumen
 title: SEO - Suchbegriffe hinzufügen
 exl-id: 95e7907a-62f7-40c7-85a9-97728fbe40eb
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: d9ea30742b6ef3b6299284a1f446a69f15105379
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
 
 # SEO - Suchbegriffe hinzufügen {#seo-add-keywords}
 
-Suchbegriffe sind Ausdrücke, die in Suchmaschinen eingegeben werden. Fügen Sie die Suchbegriffe hinzu, die für Ihr Unternehmen am relevantesten sind.
+Suchbegriffe sind Ausdrücke, die von Personen in Suchmaschinen eingegeben werden. Fügen Sie die Suchbegriffe hinzu, die für Ihr Unternehmen am relevantesten sind.
 
 >[!NOTE]
 >
@@ -33,8 +33,12 @@ Suchbegriffe sind Ausdrücke, die in Suchmaschinen eingegeben werden. Fügen Sie
 
    ![](assets/image2014-9-18-11-3a29-3a12.png)
 
-   >[!MORELIKETHIS]
-   >
-   >[Suchbegriffe verstehen (Zusammenfassungsansicht)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
-
 Gute Arbeit! Jetzt sollten Ihre neuen Ergänzungen zur Suchbegriffliste angezeigt werden.
+
+>[!NOTE]
+>
+>Daten werden nur für Suchbegriffe angezeigt, die den Rang 1 bis 100 aufweisen.
+
+>[!MORELIKETHIS]
+>
+>[Grundlegendes zu Suchbegriffen (Zusammenfassungsansicht)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
