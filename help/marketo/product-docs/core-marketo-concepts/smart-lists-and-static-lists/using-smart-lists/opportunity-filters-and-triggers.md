@@ -4,7 +4,7 @@ description: Opportunity Filters and Trigger - Marketo Docs - Produktdokumentati
 title: Opportunity Filters and Trigger
 exl-id: 5b372c00-1553-4ac3-a495-53e208371d8d
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 5%
@@ -37,19 +37,19 @@ Mit diesen Filtern können Sie Leads auf Grundlage der Gesamtzahl, des Betrags o
 
 **Hat Gelegenheit, wurde der Gelegenheit hinzugefügt, wurde aus der Gelegenheit entfernt**
 
-Wenn Sie nach Leads suchen, die Möglichkeiten basierend auf einer Kombination von Kriterien haben, verwenden Sie die **Hat Chancen**, **wurde zu Opportunity hinzugefügt** oder **Aus Opportunity entfernt** Filter. Sie sagen Ihnen:
+Wenn Sie nach Leads suchen, die Möglichkeiten basierend auf einer Kombination von Kriterien haben, verwenden Sie die **Hat Chancen**, **wurde der Gelegenheit hinzugefügt** oder **Aus Opportunity entfernt** Filter. Sie sagen Ihnen:
 
-* **Hat Chancen**: Wenn dieser Lead derzeit eine passende Chance hat
-* **wurde zu Opportunity hinzugefügt**: Wenn dieser Lead jemals zu einer passenden Gelegenheit hinzugefügt wurde
-* **Aus Opportunity entfernt**: Wenn dieser Lead jemals aus einer passenden Gelegenheit entfernt wurde
+* **Hat Chancen**: Wenn dieser Lead derzeit eine übereinstimmende Chance hat
+* **wurde der Gelegenheit hinzugefügt**: Wenn dieser Lead jemals zu einer übereinstimmenden Gelegenheit hinzugefügt wurde
+* **Aus Opportunity entfernt**: Wenn dieser Lead jemals aus einer übereinstimmenden Gelegenheit entfernt wurde
 
-Fügen Sie die Suchkriterien als **Einschränkungen** im Filter. Zu den Einschränkungen gehören Ihr Opportunity-Standard und Ihre benutzerdefinierten Felder:
+Fügen Sie die Suchkriterien als **Einschränkungen** auf den Filter. Zu den Einschränkungen gehören Ihr Opportunity-Standard und Ihre benutzerdefinierten Felder:
 
 ![](assets/image2015-6-11-12-3a31-3a0.png)
 
 ![](assets/image2015-6-11-12-3a31-3a46.png)
 
-Angenommen, Sie möchten Leads finden, die Öffnungsmöglichkeiten von mindestens 5.000 $ haben. Ziehen Sie die **Hat Chancen** und verwenden Sie **Ist geschlossen** und **Betrag** Einschränkungen:
+Angenommen, Sie möchten Leads finden, die Öffnungsmöglichkeiten von mindestens 5.000 $ haben. Ziehen Sie in die **Hat Chancen** und verwenden Sie **Ist geschlossen** und **Betrag** Einschränkungen:
 
 ![](assets/image2015-6-11-12-3a32-3a0.png)
 

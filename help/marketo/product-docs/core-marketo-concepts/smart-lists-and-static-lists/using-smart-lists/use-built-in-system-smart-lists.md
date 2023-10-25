@@ -4,26 +4,26 @@ description: Verwenden integrierter/systemintelligenter Listen - Marketo-Dokumen
 title: Verwenden von integrierten/System-Smart-Listen
 exl-id: f4db0e02-2250-4c56-ba74-f9fa8a5b9c11
 feature: Smart Lists
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '195'
 ht-degree: 7%
 
 ---
 
 # Verwenden von integrierten/System-Smart-Listen {#use-built-in-system-smart-lists}
 
-Marketo verfügt über einige sehr nützliche integrierte Smart-Listen. Lass uns sie auschecken!
+Marketo Engage verfügt über einige nützliche integrierte Smart-Listen. Lass uns sie auschecken!
 
-1. Navigieren Sie zu **Datenbank**.
+1. Navigieren Sie zu **[!UICONTROL Datenbank]**.
 
    ![](assets/db.png)
 
-1. Öffnen Sie die **System Smart Lists** Ordner, um die Sammlung anzuzeigen.
+1. Öffnen Sie die **[!UICONTROL System Smart Lists]** Ordner, um die Sammlung anzuzeigen.
 
    ![](assets/two.png)
 
-1. Beispiel: Wählen Sie **Alle Personen** und klicken Sie dann auf **Personen** Registerkarte.
+1. Beispiel: Wählen Sie **[!UICONTROL Alle Personen]** und klicken Sie dann auf **[!UICONTROL Personen]** Registerkarte.
 
    ![](assets/three.png)
 
@@ -44,8 +44,8 @@ Im Folgenden finden Sie eine Zusammenfassung der Funktionen der integrierten Sma
 
 >[!NOTE]
 >
->Systemintelligente Listen können nicht gelöscht werden. Mit Ausnahme der Liste &quot;Mögliche Duplikate&quot;können sie auch nicht bearbeitet werden.
+>Intelligente Systemlisten können nicht gelöscht werden. Mit Ausnahme der Liste &quot;Mögliche Duplikate&quot;können sie auch nicht bearbeitet werden.
 
 >[!MORELIKETHIS]
 >
->[Erstellen einer Smart-Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>[Erstellen einer Smart-Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}

@@ -4,7 +4,7 @@ description: Klonen einer Liste oder Smart-Liste - Marketo-Dokumente - Produktdo
 title: Klonen von Listen oder Smart-Listen
 exl-id: e802fa74-5884-4201-9b55-d6cd7e2a7d9f
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Klonen von Listen oder Smart-Listen {#clone-a-list-or-smart-list}
 
-Statt eine neue Smart-Liste zu erstellen, sparen Sie etwas Zeit, indem Sie eine ähnliche Liste klonen und Änderungen vornehmen. So geht es.
+Statt eine Smart-Liste von Grund auf neu zu erstellen, sparen Sie etwas Zeit, indem Sie eine ähnliche Liste klonen und Änderungen vornehmen. So geht es.
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Navigieren Sie zu **[!UICONTROL Marketingaktivitäten]**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -23,11 +23,11 @@ Statt eine neue Smart-Liste zu erstellen, sparen Sie etwas Zeit, indem Sie eine 
 
    ![](assets/smartlist-find.png)
 
-1. under **Aktionen auflisten** klicken **Klonen von Smart-Listen**.
+1. under **[!UICONTROL Aktionen auflisten]** klicken **[!UICONTROL Klonen von Smart-Listen]**.
 
    ![](assets/clonesmartlist-hands.png)
 
-1. Geben Sie einen **Name** und klicken **Klonen**.
+1. Geben Sie einen **[!UICONTROL Name]** und klicken **[!UICONTROL Klonen]**.
 
    ![](assets/supersmartlist-clonewindow.png)
 

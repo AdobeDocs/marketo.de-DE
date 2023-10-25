@@ -4,7 +4,7 @@ description: Referenzieren einer Liste oder Smart-Liste über Arbeitsbereiche hi
 title: Referenzieren einer Liste oder Smart-Liste über Arbeitsbereiche hinweg
 exl-id: c390685c-e51d-4298-ba3b-8e4dd27eb85c
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -13,19 +13,19 @@ ht-degree: 0%
 
 # Referenzieren einer Liste oder Smart-Liste über Arbeitsbereiche hinweg {#reference-a-list-or-smart-list-across-workspaces}
 
-Listen und Smart-Listen können über Arbeitsbereiche hinweg freigegeben und referenziert werden, um eine einfache Wiederverwendung über die Datenbank zu ermöglichen.
+Listen und Smart-Listen können in allen Arbeitsbereichen freigegeben und referenziert werden, um eine einfache Wiederverwendung über die Datenbank zu ermöglichen.
 
 >[!NOTE]
 >
->Es gelten Benutzerpartitionsregeln (Smart-Listen und statische Listen in einem Arbeitsbereich zeigen nur Personen an, die beide Mitglieder der Liste sind. *und* -Elemente des aktuellen Arbeitsbereichs).
+>Es gelten Benutzerpartitionsregeln (Smart-Listen und statische Listen in einem Arbeitsbereich zeigen nur Personen an, die beide Mitglieder der Liste sind. _und_ -Elemente des aktuellen Arbeitsbereichs).
 
-## Liste oder Smart-Liste freigeben  {#share-a-list-or-smart-list}
+## Liste oder Smart-Liste freigeben {#share-a-list-or-smart-list}
 
-1. Navigieren Sie zu **Datenbank**.
+1. Navigieren Sie zu **[!UICONTROL Datenbank]**.
 
    ![](assets/db-1.png)
 
-1. Klicken Sie mit der rechten Maustaste auf einen Kampagnenordner. Auswählen **Neuer Ordner**.
+1. Klicken Sie mit der rechten Maustaste auf einen Kampagnenordner. Auswählen **Ordner**.
 
    >[!NOTE]
    >
@@ -33,19 +33,19 @@ Listen und Smart-Listen können über Arbeitsbereiche hinweg freigegeben und ref
 
    ![](assets/two-4.png)
 
-1. Ziehen Sie eine Liste oder Smart-Liste, die Sie freigeben möchten, per Drag-and-Drop in den neuen Ordner.
+1. Ziehen Sie eine Liste oder Smart-Liste, die Sie freigeben möchten, in den neuen Ordner.
 
    ![](assets/three-4.png)
 
-1. Rechtsklick **Neuer Ordner** und wählen Sie **Ordner freigeben**.
+1. Rechtsklick **[!UICONTROL Ordner]** und wählen **[!UICONTROL Ordner freigeben]**.
 
    ![](assets/four-3.png)
 
-1. Wählen Sie eine **Arbeitsbereich** für freigeben. Auswählen **Speichern**.
+1. Wählen Sie eine **[!UICONTROL Arbeitsbereich]** für freigeben. Auswählen **[!UICONTROL Speichern]**.
 
    ![](assets/image2014-12-9-15-3a37-3a25.png)
 
-   Fantastisch Diese Liste ist jetzt in beiden Arbeitsbereichen verfügbar.
+   Fantastisch! Diese Liste ist jetzt in beiden Arbeitsbereichen verfügbar.
 
    >[!NOTE]
    >
