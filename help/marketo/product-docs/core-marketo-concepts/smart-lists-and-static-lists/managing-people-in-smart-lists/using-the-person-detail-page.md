@@ -4,7 +4,7 @@ description: Verwenden der Personendetailseite - Marketo-Dokumente - Produktdoku
 title: Verwenden der Seite "Personendetails"
 exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
 source-wordcount: '550'
 ht-degree: 50%
@@ -20,7 +20,7 @@ Die Personendetailseite enthält alle Informationen, die Marketo über eine Pers
 Es gibt viele Möglichkeiten, bestimmte Personen zu öffnen. Beispiele:
 
 * Aus dem **Datenbank**, können Sie in der Schnellsuche suchen.
-* Alle intelligenten **Liste** oder Liste
+* Alle **Smart List** oder Liste
 * **Mitglieder** Programmregisterkarte
 * **Anzeigen von Campaign-Mitgliedern** in einer Smart-Kampagne
 * Einige **Berichte**
@@ -73,7 +73,7 @@ Viele Felder können bearbeitet werden. Um die Informationen einer Person zu akt
 |   |  |  |  |  |
 |---|---|---|---|---|
 | Adresse | Jahresumsatz | Anonyme IP | Rechnungsadresse | Abrechnungsort |
-| Rechnungsland | Postleitzahl für Rechnung | Bundesland für Rechnung | Ort | Firmenname |
+| Rechnungsland | Postleitzahl für Rechnung | Bundesland für Rechnung | Ort | Unternehmensname |
 | Land | Erstellt am | Geburtsdatum | Abteilung | Nicht aufrufen |
 | Nicht aufrufen – Grund | Nicht aufrufen – Ursache | E-Mail-Adresse | E-Mail-Adresse ungültig | Grund für ungültige E-Mail |
 | Externe Unternehmens-ID | Externe Vertriebsmitarbeiter-ID | Faxnummer | Vorname | Vollständiger Name |
@@ -100,8 +100,8 @@ Viele Felder können bearbeitet werden. Um die Informationen einer Person zu akt
 >* Möglichkeiten für SFDC-Kontakte
 >* Bestimmte Marketo-spezifische Felder, z. B. Erstellungsdatum und Ursprünglicher Quelltyp.
 >
->Weitere Informationen [Systemverwaltete Felder](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md).
+>Weitere Informationen [Systemverwaltete Felder](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->[Erstellen einer benutzerdefinierten Registerkarte für die Seite &quot;Personendetails&quot;](/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
+>[Erstellen einer benutzerdefinierten Registerkarte für die Seite &quot;Personendetails&quot;](/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md){target="_blank"}

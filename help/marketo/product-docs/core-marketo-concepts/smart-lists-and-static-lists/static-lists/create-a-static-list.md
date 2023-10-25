@@ -4,7 +4,7 @@ description: Erstellen einer statischen Liste - Marketo Docs - Produktdokumentat
 title: Erstellen einer statischen Liste
 exl-id: 93560d2a-6b36-4660-99b3-dd6209032fb0
 feature: Static Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
@@ -15,19 +15,19 @@ ht-degree: 0%
 
 Statische Listen sind eine Gruppe von Personen, die sich bereits in Ihrer Datenbank befinden. Hier ist, wie man eine erstellt.
 
-1. Navigieren Sie zu **Datenbank**.
+1. Navigieren Sie zu **[!UICONTROL Datenbank]**.
 
    ![](assets/db.png)
 
-1. Klicken Sie auf **Neu** und wählen Sie **Neue Liste**.
+1. Klicken Sie auf **[!UICONTROL Neu]** und wählen Sie **[!UICONTROL Neue Liste]**.
 
    ![](assets/two.png)
 
-1. Wählen Sie einen Zielordner aus, geben Sie der neuen Liste einen Namen und klicken Sie auf **Erstellen**.
+1. Wählen Sie einen Zielordner aus, geben Sie der neuen Liste einen Namen und klicken Sie dann auf **[!UICONTROL Erstellen]**.
 
    ![](assets/three.png)
 
-   Sie können jetzt eine leere Liste ausfüllen lassen. Erfahren Sie, wie Sie Personen hinzufügen [here](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md#ways-to-add-remove-people-from-a-list).
+   Sie können jetzt eine leere Liste ausfüllen lassen. Erfahren Sie, wie Sie Personen hinzufügen [here](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md#ways-to-add-remove-people-from-a-list){target="_blank"}.
 
    >[!NOTE]
    >

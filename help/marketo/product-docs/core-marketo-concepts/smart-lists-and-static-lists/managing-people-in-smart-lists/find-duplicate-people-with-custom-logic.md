@@ -4,30 +4,30 @@ description: Suchen doppelter Personen mit benutzerdefinierter Logik - Marketo-D
 title: Duplizierte Personen mit benutzerdefinierter Logik suchen
 exl-id: e268ca34-03a3-403a-8869-4e2b60bba05c
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '138'
 ht-degree: 6%
 
 ---
 
 # Duplizierte Personen mit benutzerdefinierter Logik suchen {#find-duplicate-people-with-custom-logic}
 
-Marketo verfügt über eine System-Smart-Liste, die anhand der E-Mail-Adressen doppelte Personen findet. Wenn Sie ein anderes Feld verwenden möchten, um Duplikate mit zu finden, können Sie dies folgendermaßen tun:
+Marketo Engage verfügt über eine System-Smart-Liste, die anhand der E-Mail-Adressen doppelte Personen findet. Wenn Sie ein anderes Feld verwenden möchten, um Duplikate mit zu finden, können Sie dies folgendermaßen tun:
 
 >[!PREREQUISITES]
 >
->[Erstellen einer Smart-Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>[Erstellen einer Smart-Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
 
-1. Navigieren Sie zu **Marketingaktivitäten** Bereich.
+1. Navigieren Sie zu **[!UICONTROL Marketingaktivitäten]** Bereich.
 
 ![](assets/ma-2.png)
 
-1. Wählen Sie Ihre Smart-Liste aus und klicken Sie auf die **Smart List** Registerkarte.
+1. Wählen Sie Ihre Smart-Liste aus und klicken Sie auf die **[!UICONTROL Smart List]** Registerkarte.
 
    ![](assets/two-4.png)
 
-1. Suchen und Ziehen **Felder duplizieren** auf die Arbeitsfläche.
+1. Suchen und Ziehen **[!UICONTROL Felder duplizieren]** auf die Arbeitsfläche.
 
    ![](assets/three-4.png)
 
@@ -44,4 +44,4 @@ Marketo verfügt über eine System-Smart-Liste, die anhand der E-Mail-Adressen d
 
    ![](assets/four-2.png)
 
-   Abgeschlossen! Führen Sie die Smart-Liste aus, um Personen mit demselben Wert im zuvor ausgewählten Feld zu finden.
+   Abgeschlossen! Führen Sie die Smart-Liste aus, um Personen mit demselben Wert im zuvor ausgewählten Feld zu suchen.

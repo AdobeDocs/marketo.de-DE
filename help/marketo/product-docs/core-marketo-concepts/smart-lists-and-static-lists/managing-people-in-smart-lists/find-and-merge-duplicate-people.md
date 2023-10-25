@@ -4,7 +4,7 @@ description: Suchen und Zusammenführen doppelter Personen - Marketo-Dokumente -
 title: Duplizierte Personen suchen und zusammenführen
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
 feature: Smart Lists
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
 source-wordcount: '423'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Duplizierte Personen suchen und zusammenführen {#find-and-merge-duplicate-people}
 
-Marketo dedupliziert automatisch, wenn neue Personen in das System eintreten. Ihr CRM-System hat jedoch möglicherweise zunächst Duplikate an Marketo gesendet. So werden sie zusammengeführt.
+Marketo Engage dedupliziert automatisch, wenn neue Benutzer in das System eintreten. Ihr CRM-System kann jedoch anfangs über Duplikate gesendet worden sein. So werden sie zusammengeführt.
 
 >[!CAUTION]
 >
@@ -29,7 +29,7 @@ Marketo dedupliziert automatisch, wenn neue Personen in das System eintreten. Ih
 
 ## Duplikate suchen {#find-duplicates}
 
-1. Navigieren Sie zu **Datenbank** Bereich.
+1. Navigieren Sie zu **[!UICONTROL Datenbank]** Bereich.
 
    ![](assets/find-and-merge-duplicate-people-1.png)
 
@@ -37,7 +37,7 @@ Marketo dedupliziert automatisch, wenn neue Personen in das System eintreten. Ih
    >
    >Die Zusammenführung von Personen in Marketo funktioniert möglicherweise nicht, wenn Sie ein Salesforce-Personenkonto verwenden. Führen Sie die Datensätze nach Möglichkeit in Salesforce zusammen.
 
-1. Wählen Sie die **Mögliche Duplikate** Smart-Liste des Systems und klicken Sie auf **Personen** Registerkarte.
+1. Wählen Sie die **[!UICONTROL Mögliche Duplikate]** System Smart List und klicken Sie auf **[!UICONTROL Personen]** Registerkarte.
 
    ![](assets/find-and-merge-duplicate-people-2.png)
 
@@ -49,9 +49,9 @@ Marketo dedupliziert automatisch, wenn neue Personen in das System eintreten. Ih
 
 >[!CAUTION]
 >
->Wenn beim Zusammenführen von Personen die untergeordnete Person über ein benutzerdefiniertes Marketo-Objekt verfügt, wird **not** erneut mit der Gewinnerperson in Verbindung gebracht werden. Überlagern Sie das benutzerdefinierte Objekt erneut, bevor Sie die Zusammenführung durchführen.
+>Wenn beim Zusammenführen von Personen die untergeordnete Person über ein benutzerdefiniertes Marketo-Objekt verfügt, wird _not_ erneut mit der Gewinnerperson in Verbindung gebracht werden. Überlagern Sie das benutzerdefinierte Objekt erneut, bevor Sie die Zusammenführung durchführen.
 
-1. Wählen Sie die Duplikate aus, indem Sie die Strg-/Befehlstaste gedrückt halten und auf klicken. Klicken Sie dann auf **Personen zusammenführen**.
+1. Wählen Sie die Duplikate aus, indem Sie die Strg-/Befehlstaste gedrückt halten und auf klicken. Klicken Sie dann auf **[!UICONTROL Personen zusammenführen]**.
 
    ![](assets/find-and-merge-duplicate-people-3.png)
 
@@ -59,7 +59,7 @@ Marketo dedupliziert automatisch, wenn neue Personen in das System eintreten. Ih
    >
    >Es können zwei oder mehr Duplikate für dieselbe Person vorhanden sein. Wählen Sie diese alle gleichzeitig aus.
 
-1. Sie sehen die Werte zwischen den Datensätzen, die _don&#39;t_ übereinstimmen. Wählen Sie für jedes Feld den Wert aus, den Sie beibehalten möchten. Klicks **Zusammenführen** wann geschehen. Wenn Sie keinen der Werte wünschen, können Sie **Benutzerdefiniert** und geben Sie einen Wert Ihrer Wahl ein.
+1. Sie sehen die Werte zwischen den Datensätzen, die _don&#39;t_ übereinstimmen. Wählen Sie für jedes Feld den Wert aus, den Sie beibehalten möchten. Klicks **[!UICONTROL Zusammenführen]** wann geschehen. Wenn Sie keinen der Werte wünschen, können Sie **[!UICONTROL Benutzerdefiniert]** und geben Sie einen Wert Ihrer Wahl ein.
 
    ![](assets/find-and-merge-duplicate-people-4.png)
 
