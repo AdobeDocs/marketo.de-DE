@@ -4,9 +4,9 @@ description: Konfigurieren von Protokollen für Marketo - Marketo Docs - Produkt
 title: Protokolle für Marketo konfigurieren
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
+source-git-commit: f95721d5007fc686a8de7d11233cfe08ccce7237
 workflow-type: tm+mt
-source-wordcount: '1028'
+source-wordcount: '968'
 ht-degree: 4%
 
 ---
@@ -15,13 +15,7 @@ ht-degree: 4%
 
 Wenn Sie oder Ihr Unternehmen restriktive Firewall- oder Proxy-Server-Einstellungen verwenden, müssen Sie oder Ihr Netzwerkadministrator möglicherweise bestimmte Domänen und IP-Adressbereiche in Zulassungslisten eintragen, um sicherzustellen, dass Adobe Marketo Engage erwartungsgemäß funktioniert.
 
-## Einstiegsseiten und E-Mails für Markenkampagnen {#branded-campaign-landing-pages-and-emails}
-
-Ihre Marketing-Gruppe verwendet Marketo, um Landingpages und E-Mails für Markenkampagnen zu erstellen. Um sicherzustellen, dass diese Landingpages und E-Mails funktionieren, benötigen sie ein wenig Hilfe von der IT. Bitte richten Sie die folgenden Protokolle ein, mit den Informationen, die Ihre Marketing-Gruppe Ihnen per E-Mail geschickt haben sollte.
-
-Dieser Artikel sollte an die IT-Abteilung des Unternehmens weitergegeben werden, das diese Protokolle implementieren möchte.
-
-Wenn Ihr IT-Team den Webzugriff mithilfe einer Zulassungsliste einschränkt, bitten Sie sie, die folgenden Domänen hinzuzufügen (einschließlich des Sternchens), um alle Marketo-Ressourcen und -Websockets zuzulassen:
+Wenn Sie Hilfe bei der Implementierung der folgenden Protokolle benötigen, teilen Sie diesen Artikel mit Ihrer IT-Abteilung. Wenn der Webzugriff über eine Zulassungsliste eingeschränkt wird, stellen Sie sicher, dass die folgenden Domänen (einschließlich des Sternchens) hinzugefügt werden, um alle Marketo-Ressourcen und -Websockets zuzulassen:
 
 * `*.marketo.com`
 * `*.marketodesigner.com`
@@ -128,7 +122,7 @@ Eine ausgehende Verbindung wird durch Marketo Engage an einen Server im Internet
 
 Marketo Engage [Webhooks](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md){target="_blank"} are an outbound integration mechanism. When a [Call Webhook](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md){target="_blank"} die Flow-Aktion im Rahmen einer Smart-Kampagne ausgeführt wird, wird eine HTTP-Anfrage an einen externen Webdienst gesendet. Wenn der Webdienst-Herausgeber eine Zulassungsliste in der Firewall des Netzwerks verwendet, in dem sich der externe Webdienst befindet, muss der Herausgeber die unten aufgeführten IP-Adressblöcke zu seiner Zulassungsliste hinzufügen.
 
-**CRM-Synch.**
+**CRM-Synch**
 
 Marketo Engage [Salesforce CRM Sync](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target="_blank"} and [Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target="_blank"} sind Integrationsmechanismen, die ausgehende HTTP-Anfragen an APIs senden, die von Ihrem CRM-Anbieter veröffentlicht werden. Sie müssen sicherstellen, dass Ihre IT-Organisation den Zugriff auf Ihre CRM-Anbieter-APIs nicht durch einen der unten stehenden IP-Adressblöcke blockiert.
 
