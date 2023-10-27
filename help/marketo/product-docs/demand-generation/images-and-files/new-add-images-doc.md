@@ -4,10 +4,10 @@ title: Neues Dokument Bilder hinzufügen
 hide: true
 hidefromtoc: true
 feature: Image Editor
-source-git-commit: 100a12a2d9cafe73b6ce62cecee177da604332d3
+source-git-commit: 2154c444be9654474fcc2d1b8e9983983f44846f
 workflow-type: tm+mt
-source-wordcount: '262'
-ht-degree: 7%
+source-wordcount: '285'
+ht-degree: 6%
 
 ---
 
@@ -103,9 +103,13 @@ Text
 
    ![](assets/add-images-and-files-to-marketo-15.png)
 
-1. Text
+1. Wählen Sie die **[!UICONTROL Adobe Experience Manager]** und klicken Sie auf **[!UICONTROL Nächste]**.
 
-PICC
+   ![](assets/add-images-and-files-to-marketo-16.png)
+
+   >[!NOTE]
+   >
+   >Wenn Sie dies noch nicht getan haben, werden Sie aufgefordert, sich bei Ihrem AEM-Konto anzumelden.
 
 1. Text
 
