@@ -4,10 +4,10 @@ title: Neues Dokument Bilder hinzufügen
 hide: true
 hidefromtoc: true
 feature: Image Editor
-source-git-commit: 52dec416ab853c729e1b119845085ffb06193203
+source-git-commit: 100a12a2d9cafe73b6ce62cecee177da604332d3
 workflow-type: tm+mt
-source-wordcount: '175'
-ht-degree: 10%
+source-wordcount: '262'
+ht-degree: 7%
 
 ---
 
@@ -51,11 +51,15 @@ Text
 
    ![](assets/add-images-and-files-to-marketo-6.png)
 
-1. Wählen Sie die **Web** -Option.
+1. Wählen Sie die **[!UICONTROL Web]** und klicken Sie auf **[!UICONTROL Nächste]**.
 
    ![](assets/add-images-and-files-to-marketo-7.png)
 
-1. Text
+1. Geben oder fügen Sie die URL zum gewünschten Bild ein und klicken Sie auf **Nächste**.
+
+PICC
+
+1. Klicken Sie auf LEER.
 
 PICC
 
@@ -67,9 +71,27 @@ Text
 
 1. Klicken Sie auf **[!UICONTROL Bild- und Dateiaktionen]** und wählen Sie **[!UICONTROL Bild oder Datei importieren]**.
 
-PICC
+   ![](assets/add-images-and-files-to-marketo-10.png)
 
-1. Text
+1. Wählen Sie die **[!UICONTROL Feld]** und klicken Sie auf **[!UICONTROL Nächste]**.
+
+   ![](assets/add-images-and-files-to-marketo-11.png)
+
+   >[!NOTE]
+   >
+   >Wenn Sie dies noch nicht getan haben, werden Sie aufgefordert, sich bei Ihrem Box-Konto anzumelden, um Zugriff zu gewähren.
+
+1. Wählen Sie den gewünschten Ordner Box aus und klicken Sie auf **[!UICONTROL Nächste]**.
+
+   ![](assets/add-images-and-files-to-marketo-12.png)
+
+1. Wählen Sie die gewünschten Bilder aus und klicken Sie auf **[!UICONTROL Nächste]**.
+
+   ![](assets/add-images-and-files-to-marketo-13.png)
+
+1. Wählen Sie den Ordner Marketo Engage aus, in dem das Bild gespeichert werden soll. In diesem Beispiel belassen wir es als Bilder und Dateien (Standard). Klicks **Import**.
+
+   ![](assets/add-images-and-files-to-marketo-14.png)
 
 ### Importieren von Adobe Experience Manager {#import-from-adobe-experience-manager}
 
@@ -78,6 +100,18 @@ Text
 1. Befolgen Sie die Schritte 1 und 2 [von oben](#upload-image-or-file).
 
 1. Klicken Sie auf **[!UICONTROL Bild- und Dateiaktionen]** und wählen Sie **[!UICONTROL Bild oder Datei importieren]**.
+
+   ![](assets/add-images-and-files-to-marketo-15.png)
+
+1. Text
+
+PICC
+
+1. Text
+
+PICC
+
+1. Text
 
 PICC
 
