@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 51a4374cb2ce1995ec8f33eddd4b3470e7ad409e
+source-git-commit: dbfbf2bfe78e88e494d15b8d81e78e16e8c92edb
 workflow-type: tm+mt
-source-wordcount: '9099'
+source-wordcount: '9104'
 ht-degree: 5%
 
 ---
@@ -104,7 +104,7 @@ ht-degree: 5%
          + [Hinzufügen des Munchkin-Trackingcodes zu Ihrer Website](product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
          + [Häufig gestellte Fragen zur Munchkin-Verfolgung der nächsten Generation](product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md)
          + [Single Sign-On zu einem Portal hinzufügen](product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
-         + [Hinzufügen von WebEx als LaunchPoint-Dienst](product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
+         + [Webex als LaunchPoint-Dienst hinzufügen](product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
          + [Hinzufügen von Workplace by Facebook as a LaunchPoint Service](product-docs/administration/additional-integrations/add-workplace-by-facebook-as-a-launchpoint-service.md)
          + [Hinzufügen von Zoom als LaunchPoint-Dienst](product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
          + [Konfigurieren der SOAP-API-Einstellungen](product-docs/administration/additional-integrations/configuring-your-soap-api-settings.md)
@@ -684,7 +684,8 @@ ht-degree: 5%
             + [Erstellen eines Ereignisses mit Adobe Connect](product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md)
             + [Erstellen eines Ereignisses mit GotoWebinar](product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)
             + [Erstellen einer Veranstaltung mit Level 3-Webtreffen](product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md)
-            + [Erstellen eines Ereignisses mit WebEx](product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
+            + [Erstellen eines Ereignisses mit Webex](product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
+              [Erstellen eines Ereignisses mit Webex 2](product-docs/demand-generation/events/create-an-event/create-an-event-with-webex-2.md)
             + [Erstellen eines Ereignisses mit Zoom](product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md)
             + Erstellen eines Ereignisses mit dem Marketo ON24-Adapter {#create-an-event-with-the-marketo-on24-adapter}
                + [ON24-Integration mit Marketo einrichten](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/set-up-the-on24-integration-with-marketo.md)
