@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: dbfbf2bfe78e88e494d15b8d81e78e16e8c92edb
+source-git-commit: 7edce24c2199a6a2eaa119d3ef77543bbd97999c
 workflow-type: tm+mt
-source-wordcount: '9104'
+source-wordcount: '9099'
 ht-degree: 5%
 
 ---
@@ -685,7 +685,6 @@ ht-degree: 5%
             + [Erstellen eines Ereignisses mit GotoWebinar](product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)
             + [Erstellen einer Veranstaltung mit Level 3-Webtreffen](product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md)
             + [Erstellen eines Ereignisses mit Webex](product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
-              [Erstellen eines Ereignisses mit Webex 2](product-docs/demand-generation/events/create-an-event/create-an-event-with-webex-2.md)
             + [Erstellen eines Ereignisses mit Zoom](product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md)
             + Erstellen eines Ereignisses mit dem Marketo ON24-Adapter {#create-an-event-with-the-marketo-on24-adapter}
                + [ON24-Integration mit Marketo einrichten](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/set-up-the-on24-integration-with-marketo.md)

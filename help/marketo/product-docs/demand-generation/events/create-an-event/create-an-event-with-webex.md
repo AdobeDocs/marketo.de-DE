@@ -4,150 +4,101 @@ description: Erstellen eines Ereignisses mit Webex - Marketo Docs - Produktdokum
 title: Erstellen eines Ereignisses mit Webex
 exl-id: 25266a6b-3951-46d1-8700-b36d7086ad2c
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 7edce24c2199a6a2eaa119d3ef77543bbd97999c
 workflow-type: tm+mt
-source-wordcount: '957'
-ht-degree: 0%
+source-wordcount: '602'
+ht-degree: 1%
 
 ---
 
 # Erstellen eines Ereignisses mit Webex {#create-an-event-with-webex}
+
+Nachdem Sie ein Webinar in Webex erstellt haben, müssen Sie Ihr Ereignis mit Marketo Engage synchronisieren.
 
 >[!PREREQUISITES]
 >
 >* [Webex als LaunchPoint-Dienst hinzufügen](/help/marketo/product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
 >* [Neues Ereignisprogramm erstellen](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >* Legen Sie die entsprechende [Flussaktionen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) Interaktion verfolgen
->* Stellen Sie sicher, dass Sie Webex-Ereignisse (klassisch) verwenden
 
-Erstellen Sie zunächst ein Webex-Ereignis im Webex Event Center. Marketo verwendet nur bestimmte Einstellungen und Felder für Ihre Integration, die wir in Kürze durchgehen werden. Andere Felder, die Sie möglicherweise für WebBex konfigurieren möchten, werden im Abschnitt [Webex Event Center-Benutzerhandbuch](https://www.cisco.com/c/dam/en/us/td/docs/collaboration/meeting_center/wbs298/wx_ec_host_ug.pdf).
+## Webinar planen {#schedule-your-webinar}
 
->[!IMPORTANT]
->
->Marketo Engage unterstützt nur Ereignisse, die in Webex-Ereignissen (klassisch) erstellt wurden. Marketo unterstützt derzeit keine in Webex-Ereignissen (neu) erstellten Ereignisse.
+Sie planen Ihr Ereignis und wählen Ihre bevorzugten Einstellungen in [Webex](https://www.webex.com/){target="_blank"}. Only the following information is viewable in Marketo: webinar name, start/end date & time, time zone, and description. Additional information about Webex Webinars [can be found here](https://help.webex.com/en-us/landing/ld-7srxjs-WebexWebinars/Webex-Webinars){target="_blank"}.
 
-## Grundlegende Informationen {#basic-information}
+### Grundlegende Informationen {#basic-information}
 
-* **Ereignisname -** Dieser Name ist in Marketo sichtbar.
-* **Kontrollkästchen &quot;Nicht aufgeführt&quot;**
+![](assets/create-an-event-with-webex-1.png)
 
-   * Es wird empfohlen, **not** auflisten. Dadurch wird sichergestellt, dass sich alle Personen über Ihre Marketo-Landingpage registrieren. Personen, die sich über einen anderen Mechanismus als Marketo registrieren, werden in Marketo angezeigt, nachdem das Ereignis abgeschlossen wurde UND nur, wenn sie an dem Ereignis teilgenommen haben.
-   * Wenn Sie das Ereignis auflisten, wird es auf der Seite &quot;Ereignisliste&quot;für jeden angezeigt, der Ihre Website im Ereigniszentrum besucht.
+* **Thema**: Dies ist Ihr Ereignisname und kann in Marketo angezeigt werden.
+* **Datum und Uhrzeit**: Start-/Enddatum, Start-/Endzeit, Dauer und Zeitzone sind alle in Marketo sichtbar.
+* **Maximale Anzahl Teilnehmer**: Die maximale Teilnehmerzahl bestimmt, welche Webfunktionen unterstützt werden.
+* **Webcast-Ansicht für Teilnehmer**: Aktivieren Sie diese Option, damit Ihr Webinar für alle Teilnehmer live gestreamt wird.
+* **Bedienfelder**: Laden Sie bestimmte Personen zu Panelisten in Ihr Webinar ein.
+* **Webinar-Agenda**: Füllen Sie dies aus, wenn Sie Kontext in der E-Mail-Einladung bereitstellen möchten, die an Panelisten gesendet wird.
 
-* **Registrierung -** Aktivieren Sie dieses Kontrollkästchen, um &quot;erforderlich&quot;festzulegen. Sie verwenden ein Marketo-Formular/eine Landingpage, um Registrierungsinformationen zu erfassen, die an Webex gesendet werden.
-* **Ereigniskennwort**- (optional) Wenn Sie dieses Feld verwenden, stellen Sie sicher, dass Sie es in Ihre Bestätigungs-E-Mail aufnehmen!
+### Sicherheit {#security}
 
-![](assets/image2015-5-28-13-3a30-3a55.png)
+![](assets/create-an-event-with-webex-2.png)
 
-## Datum &amp; Uhrzeit {#date-time}
+* **Webinar-Kennwort**: (optional) Wenn Sie dieses Feld verwenden, stellen Sie sicher, dass Sie es in Ihre Bestätigungs-E-Mail aufnehmen.
+* **Bedienfeldkennwort**: (optional) Wenn Sie dieses Feld verwenden, stellen Sie sicher, dass Sie es in Ihre Webinar-Agenda aufnehmen.
+* **Konto anfordern**: Beschränkt die Teilnehmer auf diejenigen, die über Web-Konten verfügen.
 
-* **Startdatum** - Geben Sie Ihr Startdatum ein. Dies ist in Marketo sichtbar.
+### Optionen zur Audioverbindung {#audio-connection-options}
 
-* **Startzeit** - Geben Sie Ihre Startzeit ein. Dies ist in Marketo sichtbar.
+![](assets/create-an-event-with-webex-3.png)
 
-* **Geschätzte Dauer** - Geben Sie die Dauer des Ereignisses an. Dies ist in Marketo sichtbar.
+* **Audioverbindungstyp**: Wählen Sie aus, wie Webinarteilnehmer am Audio-Teil Ihres Webinars teilnehmen.
+* **Einstiegs- und Ausstiegston**: Wählen Sie den Ton aus, den Sie für Benutzer verwenden möchten, wenn ein Benutzer das Webinar betritt oder verlässt (Telefonaudioverbindung erforderlich).
+* **Stummschaltfläche**: Wählen Sie die gewünschten Einstellungen für die Stummschaltung der Bedienfeldliste aus.
 
-* **Zeitzonen** - Geben Sie die entsprechenden Zeitzonen an. Sie werden in Marketo sichtbar sein.
+### Erweiterte Optionen {#advanced-options}
 
-![](assets/image2015-5-28-13-3a37-3a39.png)
+![](assets/create-an-event-with-webex-4.png)
 
-## Einstellungen für Audiokonferenzen {#audio-conference-settings}
-
-Diese Einstellungen befinden sich nur in Webex. Sie werden nicht von Marketo verwendet oder können in angezeigt werden, aber sie können für Ihr Webinar wichtig sein. Überprüfen Sie sie also!
-
-## Ereignisbeschreibung und -optionen  {#event-description-options}
-
-Die folgenden Optionen werden von Marketo verwendet oder können in angezeigt werden. Andere Felder befinden sich nur in Webex.
-
-* **Beschreibung** - Geben Sie eine Beschreibung ein. Dies ist in Marketo sichtbar, kann aber nicht geändert werden.
-* **Umfrage nach Ereignissen** - Marketo kann die Informationen zu einer Webex-Post-Event-Umfrage derzeit nicht erfassen.
-* **Ziel-URL** - (optional) Sie können die URL einer Marketo-Landingpage eingeben, die als Ziel-URL dienen soll, die nach dem Ende der Sitzung angezeigt wird.
-
-![](assets/image2015-5-28-13-3a48-3a49.png)
-
-## Teilnehmer und Registrierung {#attendees-registration}
-
-Mit einem Marketo-Ereignis steuern Sie die Einladungsliste, das Registrierungsformular und andere E-Mails. Andere Funktionen werden von Marketo nicht unterstützt, darunter:
-
-* **Höchstzahl der Registranten** - Derzeit **not** wird von der Marketo-Webex-Integration unterstützt.  Die manuelle Validierung von Registrierungspflichtigen ist über den Fortschrittsstatus Ausstehende Genehmigung in Marketo verfügbar.
-
-* **Registrierungs-ID erforderlich** - Wird derzeit mit der Marketo-Webex-Integration unterstützt. Sie können Marketo verwenden, um die Bestätigungs-E-Mail für Ihr Ereignis zu senden. Wenn sich die Person registriert, erhält sie eine eindeutige URL, mit der sie das Ereignis aufruft.
-
-  >[!TIP]
-  >
-  >Um Ihre Bestätigungs-E-Mail mit dieser eindeutigen URL zu füllen, verwenden Sie das folgende Token in Ihrer E-Mail: `{{member.webinar url}}`. Wenn die Bestätigungs-URL gesendet wird, wird dieses Token automatisch in die eindeutige Bestätigungs-URL der Person aufgelöst.
-  >
-  >Setzen Sie Ihre Bestätigungs-E-Mail auf **Betrieb** sicherzustellen, dass Personen, die sich registrieren und abgemeldet werden können, weiterhin ihre Bestätigungsinformationen erhalten.
-
-* **Registrierungskennwort** - (Optional) Derzeit nicht unterstützt, wenn die Marketo-Webex-Integration verwendet wird.
-* **Validierungsregeln** - Derzeit nicht unterstützt durch die Marketo-Webex-Integration. Sie können jedoch Smart-Kampagnen in Marketo verwenden, um Genehmigungen zu steuern.
-
-![](assets/image2015-5-28-14-3a4-3a41.png)
-
-### Moderatoren und Panelisten {#presenters-panelists}
-
-Die in diesem Abschnitt konfigurierten Informationen werden nicht an Marketo übergeben.
-
-### E-Mail-Nachrichten {#email-messages}
-
-Sie verwenden Marketo, um E-Mails an Ihre Registrierungspflichtigen, Bestätigungs-E-Mails usw. zu senden. In diesem Abschnitt müssen Sie nichts konfigurieren. Deaktivieren Sie die E-Mail-Nachrichtenoptionen in Webex.
-
-![](assets/image2015-5-28-14-3a9-3a14.png)
+* **Automatische Aufzeichnung**: Aktivieren Sie diese Option, damit Ihr Webinar automatisch aufgezeichnet wird.
+* **Praktische Sitzung**: Aktivieren Sie diese Option, um eine praktische Sitzung zu starten, wenn das Webinar beginnt.
+* **Aufschlüsselungssitzungen**: Mithilfe von Aufschlüsselungssitzungen können Sie Panelisten und Teilnehmer vor dem Beginn des Webinars vorab zuweisen oder ihnen die Teilnahme am Webinar ermöglichen.
+* **Webinar-Reihe**: Durch Hinzufügen zu einer Webinarreihe können Benutzer sehen, ob Ihr Webinar öffentlich ist oder nicht.
+* **Registrierung**: Erfordert, dass sich Teilnehmer registrieren und die Genehmigung des Gastgebers erhalten, bevor sie teilnehmen.
+* **Email-Erinnerung**: Wählen Sie eine E-Mail-Erinnerung aus, die zwischen 15 Minuten dauert, bevor das Webinar beginnt, und zwei Tagen.
+* **Webinar-Optionen**: Bestimmen Sie, welche Funktionen den Teilnehmern des Webinars zur Verfügung stehen.
+* **Teilnehmerberechtigungen**: Die Teilnehmerberechtigungen bestimmen die Aktionen, die Webinarteilnehmern zur Verfügung stehen.
 
 >[!NOTE]
 >
->Die Marketo-Webbex-Integration kann das Senden von Bestätigungs-E-Mails von Webex nicht unterstützen. Die Bestätigung muss über Marketo erfolgen. Nachdem Sie das Ereignis geplant haben, kopieren Sie die Ereignisinformationen in die Marketo-Bestätigungs-E-Mail und stellen Sie die E-Mail auf **Betrieb**.
+>Die Marketo-Webbex-Integration kann das Senden von Bestätigungs-E-Mails von Webex nicht unterstützen. Die Bestätigung muss über Marketo erfolgen. Nachdem Sie das Ereignis geplant haben, kopieren Sie die Ereignisinformationen in die Marketo-Bestätigungs-E-Mail und stellen Sie die E-Mail auf _Betrieb_.
 
-Jetzt sind wir bereit, in Marketo zu springen!
+## Ereignis synchronisieren mit Marketo Engage {#sync-your-event-with-marketo-engage}
 
-1. Wählen Sie das von Ihnen erstellte Ereignis aus. Öffnen Sie die **Ereignisaktionen** Dropdown-Liste. Auswählen **Ereigniseinstellungen.**
+1. Suchen und wählen Sie in Marketo das gewünschte Veranstaltungsprogramm aus. Im **Ereignisaktionen** Dropdown-Liste auswählen **Ereigniseinstellungen**.
 
-   ![](assets/image2015-5-14-16-3a7-3a31.png)
+   ![](assets/create-an-event-with-webex-5.png)
 
    >[!NOTE]
    >
    >Der Kanaltyp des ausgewählten Ereignisses muss **Webinar**.
 
-1. under **Veranstaltungspartner** auswählen **Webex**.
+1. Im **Veranstaltungspartner** Dropdown-Liste auswählen **Webex-Webinare**.
 
-   ![](assets/image2015-1-30-13-3a58-3a2.png)
+   ![](assets/create-an-event-with-webex-6.png)
 
-1. under **Anmelden**, wählen Sie Ihre WebBex-Anmeldung aus.
+1. Im **Anmelden** wählen Sie Ihre Webex-Anmeldung.
 
-   ![](assets/image2015-5-18-12-3a2-3a26.png)
+   ![](assets/create-an-event-with-webex-7.png)
 
-1. under **Ereignis**, wählen Sie das neu erstellte Webex-Ereignis aus. Wählen Sie dann eine optionale Sicherungsseite aus und klicken Sie auf **Speichern**.
+1. Im **Ereignis** wählen Sie Ihr Webex-Ereignis aus.
 
-   ![](assets/image2015-5-14-16-3a15-3a55.png)
+   ![](assets/create-an-event-with-webex-8.png)
 
-1. Wählen Sie eine optionale Sicherungsseite für Ihr Webex-Ereignis aus. Wählen Sie aus der Dropdown-Liste der genehmigten Marketo-Landingpages aus oder geben Sie die URL einer Nicht-Marketo-Landingpage ein.
+1. Ihre Webinardetails werden ausgefüllt. Klicken Sie auf **Speichern**.
 
-   >[!TIP]
-   >
-   >Legen Sie eine Sicherungsseite fest, um ein Mitglied auf eine bestimmte Seite weiterzuleiten, wenn es vor der Startzeit des Ereignisses auf seine benutzerdefinierte Ereignis-URL klickt.
+   ![](assets/create-an-event-with-webex-9.png)
 
-   >[!NOTE]
-   >
-   >Die von Marketo gesendeten Felder sind: Vorname, Nachname, E-Mail-Adresse.
+Ihr Webex-Ereignis wird jetzt mit Ihrem Marketo-Ereignisprogramm synchronisiert. Personen, die sich für Ihr Webinar anmelden, werden über die _Ändern des Programmstatus_ Flussschritt, wenn der neue Status auf &quot;Registered&quot;gesetzt ist. Kein anderer Status wird die Person überstürzen. Stellen Sie sicher, dass _Ändern des Programmstatus_ Flussschritt 1 und _E-Mail senden_ Flussschritt 2.
 
-   ![](assets/webex.png)
+## Zu beachten {#things-to-note}
 
-   >[!CAUTION]
-   >
-   >Vermeiden Sie den Versand von Bestätigungs-E-Mails durch verschachtelte E-Mail-Programme. Verwenden Sie stattdessen die Smart-Kampagne des Ereignisprogramms, wie oben dargestellt.
+* Vermeiden Sie den Versand von Bestätigungs-E-Mails durch verschachtelte E-Mail-Programme. Verwenden Sie stattdessen die Smart-Kampagne Ihres Ereignisprogramms.
 
-   >[!TIP]
-   >
-   >Es kann bis zu 48 Stunden dauern, bis die Daten in Marketo angezeigt werden. Wenn Sie nach so langer Wartezeit immer noch nichts sehen, wählen Sie **Von Webinar-Anbieter aktualisieren** über das Menü &quot;Ereignisaktionen&quot;im **Zusammenfassung** Registerkarte Ihres Ereignisses.
-
-Süß! Ihr Webex-Ereignis wird jetzt mit Ihrem Marketo-Ereignis synchronisiert. Personen, die sich für Ihr Webinar anmelden, werden über den Schritt Programmstatus ändern zu Ihrem Webinar-Anbieter gepusht, wenn für Neuen Status &quot;Registriert&quot;festgelegt ist. Kein anderer Status wird die Person überstürzen. Stellen Sie außerdem sicher, dass Sie Schritt 1 zum Ändern des Programmstatus und Schritt 2 zum Senden eines E-Mail-Flusses durchführen.
-
-## Anzeigen des Zeitplans  {#viewing-the-schedule}
-
-Klicken Sie in der Programmplanungsansicht auf den Kalendereintrag für Ihr Ereignis. Sie können den Zeitplan auf der rechten Seite des Bildschirms sehen!
-
-![](assets/image2015-5-14-16-3a21-3a41.png)
-
->[!NOTE]
->
->Um Ihren Ereigniszeitplan zu ändern, müssen Sie das Webinar in Webex bearbeiten.
+* Es kann bis zu 48 Stunden dauern, bis Daten in Marketo angezeigt werden. Wenn Sie nach so langer Wartezeit immer noch nichts sehen, klicken Sie auf **Von Webinar-Anbieter aktualisieren** im **Ereignisaktionen** in der **Zusammenfassung** Registerkarte Ihres Veranstaltungsprogramms angezeigt.
