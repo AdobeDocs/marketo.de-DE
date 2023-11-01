@@ -4,9 +4,9 @@ description: Filtern von Assets in einem Campaign-E-Mail-Bericht - Marketo-Dokum
 title: Filtern von Assets in E-Mail-Berichten einer Kampagne
 exl-id: 8e5e9ddc-b456-4802-a2a1-24d53d23117f
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e396542eb13e54306b0b7620d0092716a5be182f
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '159'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Filtern von Assets in E-Mail-Berichten einer Kampagne {#filter-assets-in-a-campaign-email-reports}
 
 Fokus [Leistung von Campaign-E-Mails](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) Bericht über spezifische [Smart-Kampagnen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md) in Ihren Programmen (&quot;lokale Assets&quot;) oder archivierten Programmen angezeigt werden.
+
+>[!NOTE]
+>
+>Das Filtern von Assets in Berichten wird im Satellitenmodus nicht unterstützt (das Symbol &quot;In einem neuen Fenster öffnen&quot;rechts auf der Asset-Detailseite).
 
 1. Navigieren Sie zu **Analytics** (oder **Marketingaktivitäten**).
 

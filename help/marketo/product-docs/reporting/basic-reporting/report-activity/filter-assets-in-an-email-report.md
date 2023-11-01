@@ -4,16 +4,20 @@ description: Filtern von Assets in einem E-Mail-Bericht - Marketo-Dokumente - Pr
 title: Filtern von Assets in einem E-Mail-Bericht
 exl-id: c242e566-94d0-4e20-ba81-13a8f8f0b8a9
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e396542eb13e54306b0b7620d0092716a5be182f
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
 
 # Filtern von Assets in einem E-Mail-Bericht {#filter-assets-in-an-email-report}
 
-Fokussieren Sie Ihre [E-Mail-Leistung](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) oder [Leistung von E-Mail-Links](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) Berichte zu E-Mails in Ihren Programmen (&#39;lokale Assets&#39;), Assets in Design Studio (&#39;globale Assets&#39;) oder archivierten Programmen erstellen.
+Fokus [E-Mail-Leistung](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) oder [Leistung von E-Mail-Links](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) Berichte zu E-Mails in Ihren Programmen (&#39;lokale Assets&#39;), Assets in Design Studio (&#39;globale Assets&#39;) oder archivierten Programmen erstellen.
+
+>[!NOTE]
+>
+>Das Filtern von Assets in Berichten wird im Satellitenmodus nicht unterstützt (das Symbol &quot;In einem neuen Fenster öffnen&quot;rechts auf der Asset-Detailseite).
 
 1. Navigieren Sie zu **Analytics** (oder **Marketingaktivitäten**).
 
