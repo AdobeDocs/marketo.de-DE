@@ -3,9 +3,9 @@ description: Grundlegendes zu Marketo-Abonnements und Benutzermigration zur Adob
 title: Grundlegendes zu Marketo-Abonnements und Benutzermigration zur Adobe Admin Console
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: c871be92ce61c37e9a8d198c1b3bae6588f6a94f
+source-git-commit: cc7f5880dba926349ddf763e5b28fc4a922aa26d
 workflow-type: tm+mt
-source-wordcount: '1172'
+source-wordcount: '1169'
 ht-degree: 0%
 
 ---
@@ -57,7 +57,7 @@ Marketo-Produktadministratoren:
 
 >[!NOTE]
 >
->Aufgrund der Komplexität der Migration sind Datumsänderungen auf maximal 30 Tage nach dem geplanten Datum beschränkt. Senden Sie eine E-Mail an marketocares@marketo.com , wenn Sie ein späteres Datum benötigen.
+>Aufgrund der Komplexität der Migration sind Datumsänderungen auf maximal 30 Tage nach dem geplanten Datum beschränkt. E-Mail an senden `marketocares@marketo.com` , wenn Sie ein späteres Datum benötigen.
 
 * Zeigen Sie in My Marketo ein Banner mit einem Countdown zum Startdatum der Benutzermigration an.
 
@@ -81,7 +81,7 @@ Als Marketo-Produktadministrator sollten Sie sicherstellen, dass alle Benutzer a
 
 ### Was erwartet man am Migrationstag? {#what-to-expect-on-migration-day}
 
-Die Benutzermigration beginnt um Mitternacht der im Marketo-Abonnement festgelegten Zeitzone.
+Die Benutzermigration beginnt um Mitternacht Pacific Standard Time of the migration Start Date.
 
 **Adobe migriert Marketo-Administratoren zuerst automatisch.**. Wenn Marketo-Administratoren zu Adobe Identity migriert werden, erhalten sie in der Marketo-Anwendung die Adobe Product Admin-Rolle sowie alle anderen Rollen, die sie zuvor hatten.
 
@@ -101,4 +101,4 @@ Adobe benachrichtigt alle Systemadministratoren und Produktadministratoren per E
 
 ## Support erhalten {#get-support}
 
-Weitere Unterstützung zur Abonnement- oder Benutzermigration erhalten Sie per E-Mail marketocares@marketo.com.
+Zusätzliche Unterstützung bezüglich Ihrer An- oder Benutzermigration per E-Mail `marketocares@marketo.com`.
