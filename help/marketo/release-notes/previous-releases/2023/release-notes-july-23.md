@@ -2,11 +2,11 @@
 description: Versionshinweise - Juli 2023 - Marketo-Dokumente - Produktdokumentation
 title: Juli 2023 - Versionshinweise
 feature: Release Information
-exl-id: bda861e3-24a1-4325-9b4c-f65a046d7696
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 4056353c-4125-4849-8350-59c58afb9e66
+source-git-commit: 87bc9acec7f998edaf06ecb1880da91513f32214
 workflow-type: tm+mt
-source-wordcount: '641'
-ht-degree: 6%
+source-wordcount: '654'
+ht-degree: 5%
 
 ---
 
@@ -92,7 +92,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
 
 </br>
 
-* **Append-Einstellungen abmelden**: Sie haben jetzt mehr Kontrolle über Ihre Abmelde-Nachrichten mit neuen Konfigurationsoptionen zum Abmelden von Anhängen. Neue Funktionen geben Administratoren die Kontrolle darüber, wann, wo und welche Abmelde-Nachrichten in Ihren Verkaufs-E-Mails angezeigt werden.
+* **Abmelden von Anlageneinstellungen für Sales Insight-Aktionen**: Sie haben jetzt mehr Kontrolle über Ihre Abmelde-Nachrichten mit neuen Konfigurationsoptionen zum Abmelden von Anhängen. Neue Funktionen geben Administratoren die Kontrolle darüber, wann, wo und welche Abmelde-Nachrichten in Ihren Verkaufs-E-Mails angezeigt werden.
 
 <table> 
   <tr> 
@@ -100,13 +100,13 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
    <td><b>Aktualisierungen der Dokumentation</b></td>
   </tr>
   <tr> 
-   <td><i>Demnächst verfügbar</i></td>
-   <td><i>Demnächst verfügbar</i></td>
+   <td>Versendet</td>
+   <td><a href="help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md" target="_blank">Einstellung zum automatischen Anhängen von Abmelde-Nachrichten</a></td>
   </tr>
   </tbody>
 </table>
 
-* **Dynamische Feldaufforderungen**: Sie können jetzt Ihr Sales-Team auffordern, bestimmte Teile einer E-Mail noch weiter zu personalisieren. Dazu stehen neue Feldaufforderungen zur Verfügung, die in Sales Insight-Aktionen zu E-Mail-Vorlagen hinzugefügt werden können.
+* **Dynamische Feldaufforderungen für Sales Insight-Aktionen**: Sie können jetzt Ihr Sales-Team auffordern, bestimmte Teile einer E-Mail noch weiter zu personalisieren. Dazu stehen neue Feldaufforderungen zur Verfügung, die in Sales Insight-Aktionen zu E-Mail-Vorlagen hinzugefügt werden können.
 
 <table> 
   <tr> 
@@ -120,7 +120,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
   </tbody>
 </table>
 
-* **Dynamische Standardfelder**: Mit dynamischen Standardfeldern können Sie einen Fallback-Wert konfigurieren, in den ein dynamisches Feld aufgelöst werden kann, wenn kein Wert zum Ausfüllen verfügbar ist. Dadurch wird sichergestellt, dass E-Mails mit der gesamten Personalisierung gesendet werden.
+* **Dynamische Standardfelder für Sales Insight-Aktionen**: Mit dynamischen Standardfeldern können Sie einen Fallback-Wert konfigurieren, in den ein dynamisches Feld aufgelöst werden kann, wenn kein Wert zum Ausfüllen verfügbar ist. Dadurch wird sichergestellt, dass E-Mails mit der gesamten Personalisierung gesendet werden.
 
 <table> 
   <tr> 
