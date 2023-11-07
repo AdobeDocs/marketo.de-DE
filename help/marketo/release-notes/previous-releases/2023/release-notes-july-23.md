@@ -3,7 +3,7 @@ description: Versionshinweise - Juli 2023 - Marketo-Dokumente - Produktdokumenta
 title: Juli 2023 - Versionshinweise
 feature: Release Information
 exl-id: 4056353c-4125-4849-8350-59c58afb9e66
-source-git-commit: 87bc9acec7f998edaf06ecb1880da91513f32214
+source-git-commit: dc13ffb4232b39d702ba835814f272256c153f6a
 workflow-type: tm+mt
 source-wordcount: '654'
 ht-degree: 5%
@@ -101,7 +101,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
   </tr>
   <tr> 
    <td>Versendet</td>
-   <td><a href="help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md" target="_blank">Einstellung zum automatischen Anhängen von Abmelde-Nachrichten</a></td>
+   <td><a href="/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md" target="_blank">Einstellung zum automatischen Anhängen von Abmelde-Nachrichten</a></td>
   </tr>
   </tbody>
 </table>
