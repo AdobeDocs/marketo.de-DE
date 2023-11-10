@@ -3,14 +3,16 @@ description: Erteilen der Zustimmung für die Client-ID und App-Registrierung - 
 title: Erteilen der Zustimmung für die Kunden-ID und App-Registrierung
 exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
 
 # Erteilen der Zustimmung für die Kunden-ID und App-Registrierung {#grant-consent-for-client-id-and-app-registration}
+
+Gehen Sie wie folgt vor, um zu erfahren, wie Sie die erforderliche Zustimmung/Berechtigung erteilen.
 
 ## Delegierte Benutzerberechtigungen für den Synchronisierungsbenutzer gewähren {#grant-delegated-user-permissions-for-the-sync-user}
 
@@ -63,7 +65,7 @@ ht-degree: 0%
    >
    >Wenn Sie bereits auf einer anderen Registerkarte bei Azure als Administrator angemeldet sind, müssen Sie einen anderen Browser oder Inkognito-Modus verwenden, um sich als Synchronisierungsbenutzer anzumelden.
 
-1. Klicks **Accept**.
+1. Klicks **[!UICONTROL Accept]**.
 
    ![](assets/grant-consent-for-client-id-app-registration-3.png)
 
@@ -73,15 +75,14 @@ Als Administrator können Sie auch die delegierten Berechtigungen einer Anwendun
 
 1. Navigieren Sie in Ihrem Azure-Portal zur Startseite der Anwendung.
 
-1. Klicken Sie unter Verwalten auf **API-Berechtigungen**.
+1. Klicken Sie unter Verwalten auf **[!UICONTROL API-Berechtigungen]**.
 
    ![](assets/grant-consent-for-client-id-app-registration-4.png)
 
-1. Klicken Sie auf **Erteilen der Admin-Zustimmung** (für Mandanten).
+1. Klicken Sie auf **[!UICONTROL Erteilen der Admin-Zustimmung]** (für Mandanten).
 
    ![](assets/grant-consent-for-client-id-app-registration-5.png)
 
-1. Klicks **Ja** zur Bestätigung.
+1. Klicks **[!UICONTROL Ja]** zur Bestätigung.
 
    ![](assets/grant-consent-for-client-id-app-registration-6.png)
-

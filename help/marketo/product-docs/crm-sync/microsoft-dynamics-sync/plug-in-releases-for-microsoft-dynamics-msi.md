@@ -4,16 +4,16 @@ description: Plug-in-Versionen für Microsoft Dynamics MSI - Marketo Docs - Prod
 title: Plug-in-Versionen für Microsoft Dynamics MSI
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
 workflow-type: tm+mt
-source-wordcount: '316'
-ht-degree: 6%
+source-wordcount: '318'
+ht-degree: 8%
 
 ---
 
 # Plug-in-Versionen für Microsoft Dynamics MSI {#plug-in-releases-for-microsoft-dynamics-msi}
 
-Bei der ersten Synchronisierung mit Microsoft Dynamics laden Sie die neueste Version der Plug-ins für Marketo Sales Insight (MSI) herunter und installieren sie. Marketo aktualisiert diese Plug-ins regelmäßig, sodass Sie zum selben Speicherort zurückkehren und die neue Version herunterladen können.
+Bei der ersten Synchronisierung mit Microsoft Dynamics laden Sie die neueste Version der Plug-ins für Marketo Sales Insight (MSI) herunter und installieren sie. Marketo Engage aktualisiert diese Plug-ins regelmäßig, sodass Sie zum selben Ort zurückkehren können, um die neue Version herunterzuladen.
 
 Wenn Sie die native CRM-Synchronisierungslösung von Marketo mit Dynamics verwenden, [das neueste Plug-in herunterladen](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md){target="_blank"} corresponding to your Dynamics release. For those who have a custom sync and have purchased Marketo Sales Insight, the [package is here](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
 
@@ -23,7 +23,7 @@ Wenn Sie die native CRM-Synchronisierungslösung von Marketo mit Dynamics verwen
 
 ## Upgrade Ihrer MSI-Lösung {#upgrading-your-msi-solution}
 
-1. Importieren Sie die neueste Version der Lösung. _über die vorhandene Version_ Ihres Dynamics CRM durch Drücken der **Import** in Dynamics.
+1. Importieren Sie die neueste Version der Lösung _über die vorhandene Version_ Ihres Dynamics CRM durch Drücken der **[!UICONTROL Import]** in Dynamics.
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-1.png)
 
@@ -31,19 +31,19 @@ Wenn Sie die native CRM-Synchronisierungslösung von Marketo mit Dynamics verwen
 >
 >Beispiel: Wenn Ihr Dynamics CRM-System über Version 2.0.0.20 verfügt und die neueste Version 2.0.0.21 ist, würden Sie importieren _over_ Version 2.0.0.20.
 
-1. Klicken **Nächste**.
+1. Klicken Sie auf **[!UICONTROL Weiter]**.
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-2.png)
 
-1. Auswählen **Upgrade-Phase** und **Verwalten von Anpassungen** Klicken Sie auf **Import**.
+1. Auswählen **[!UICONTROL Upgrade-Phase]** und **[!UICONTROL Verwalten von Anpassungen]** Klicken Sie auf **[!UICONTROL Import]**.
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-3.png)
 
-1. Klicken **Nächste**.
+1. Klicken Sie auf **[!UICONTROL Weiter]**.
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-4.png)
 
-1. Nach einem erfolgreichen Import werden Ihnen zwei MSI-Lösungen angezeigt: MarketoSalesInsight und MarketoSalesInsight_Upgrade. Wählen Sie die ältere Lösung aus und klicken Sie auf Lösungsaktualisierung anwenden.
+1. Nach einem erfolgreichen Import sehen Sie zwei MSI-Lösungen: MarketoSalesInsight und MarketoSalesInsight_Upgrade. Wählen Sie die ältere Lösung aus und klicken Sie auf Lösungsaktualisierung anwenden.
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-5.png)
 
@@ -66,7 +66,7 @@ Und das ist es! Nach dem Upgrade wird nur eine MSI-Lösung angezeigt.
   <tr> 
    <td colspan="1">02/03/22</td> 
    <td colspan="1">2.0.0.27</td> 
-   <td colspan="1">Kontolayout für Insights: Interessante Momente, Bewertungsänderungen, Web-Aktivitäten, E-Mail-Aktivitäten</td> 
+   <td colspan="1">Kontolayout für Einblicke: Interessante Momente, Bewertungsänderungen, Webaktivitäten, E-Mail-Aktivitäten</td> 
   </tr>
   <tr> 
    <td colspan="1">01/05/22</td> 
@@ -81,7 +81,7 @@ Und das ist es! Nach dem Upgrade wird nur eine MSI-Lösung angezeigt.
   <tr> 
    <td colspan="1">02/10/21</td> 
    <td colspan="1">2.0.0.22</td> 
-   <td colspan="1">Entfernen Sie die automatische Prüfung aktiviert und Dokumentationsänderungen an der MSI-Lösung</td> 
+   <td colspan="1">Automatische Prüfung und Dokumentationsänderungen der MSI-Lösung entfernen</td> 
   </tr>
   <tr> 
    <td colspan="1">10/01/20</td> 
@@ -91,27 +91,27 @@ Und das ist es! Nach dem Upgrade wird nur eine MSI-Lösung angezeigt.
   <tr> 
    <td colspan="1">07/20/20</td> 
    <td colspan="1">2.0.0.20</td> 
-   <td colspan="1">Fehlerbehebung: Überprüfungsmeldung für nicht synchronisierte Datensätze hinzufügen</td> 
+   <td colspan="1">Fehlerbehebung: Hinzufügen einer Validierungsmeldung für nicht synchronisierte Datensätze</td> 
   </tr> 
   <tr> 
    <td colspan="1">06/12/20</td> 
    <td colspan="1">2.0.0.19</td> 
-   <td colspan="1">Fehlerbehebung: So blenden Sie das geheime MSI-Kennwort bei der MSD-API-Konfiguration aus</td> 
+   <td colspan="1">Fehlerbehebung: Zum Ausblenden des geheimen MSI-Kennworts bei der MSD-API-Konfiguration</td> 
   </tr> 
   <tr> 
    <td colspan="1">05/26/20</td> 
    <td colspan="1">2.0.0.18</td> 
-   <td colspan="1">Fehlerbehebung: So ändern Sie die Validierung der MSI-Rollen-ID für die Anzeige von MSI-Schaltflächen</td> 
+   <td colspan="1">Fehlerbehebung: So ändern Sie die MSI-Rollen-ID-Validierung für die Anzeige von MSI-Schaltflächen</td> 
   </tr> 
   <tr> 
    <td colspan="1">05/21/20</td> 
    <td colspan="1">2.0.0.17</td> 
-   <td colspan="1">Fehlerbehebung: Einblenden des Eigentümerfelds und Nicht-Pflichtfelder</td> 
+   <td colspan="1">Fehlerkorrektur: Das Feld "Inhaber ausblenden"wird wieder eingeblendet und Felder sind nicht mehr obligatorisch.</td> 
   </tr> 
   <tr> 
    <td colspan="1">04/28/20</td> 
    <td colspan="1">2.0.0.16</td> 
-   <td colspan="1">Fehlerbehebung: Entfernung der MSD CRM-Sitemap-Einstellung der Link-Abhängigkeit</td> 
+   <td colspan="1">Fehlerbehebung: Entfernen der MSD CRM-Sitemap-Einstellung der Link-Abhängigkeit</td> 
   </tr> 
  </tbody> 
 </table>

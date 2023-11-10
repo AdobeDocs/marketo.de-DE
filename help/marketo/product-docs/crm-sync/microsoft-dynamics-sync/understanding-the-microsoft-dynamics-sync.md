@@ -4,16 +4,16 @@ description: Grundlegendes zur Microsoft Dynamics-Synchronisierung - Marketo-Dok
 title: Grundlagen zur Synchronisierung von Microsoft Dynamics
 exl-id: bc87f744-7f1c-421b-8507-1a6e23d27fa2
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '246'
 ht-degree: 8%
 
 ---
 
 # Grundlagen zur Synchronisierung von Microsoft Dynamics {#understanding-the-microsoft-dynamics-sync}
 
-Marketo und Microsoft Dynamics gehen Hand in Hand. Wir halten Ihre Verkaufs- und Marketingdaten synchron.
+Marketo Engage und Microsoft Dynamics gehen Hand in Hand. Wir halten Ihre Verkaufs- und Marketingdaten synchron.
 
 >[!NOTE]
 >
