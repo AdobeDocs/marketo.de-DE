@@ -4,9 +4,9 @@ description: Einrichtungsschritte - Marketo-Dokumente - Produktdokumentation
 title: Einrichtungsschritte
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: a5cda002c4b8805d3ecd0adb0a08128ce7c91629
 workflow-type: tm+mt
-source-wordcount: '2043'
+source-wordcount: '2062'
 ht-degree: 0%
 
 ---
@@ -36,6 +36,10 @@ Einige Schritte erfordern Hilfe von Ihrem IT-Team.
 
 ## Anmelden und Erstellen zusätzlicher Marketo-Benutzer {#log-in-and-create-additional-marketo-users}
 
+>[!IMPORTANT]
+>
+>Wenn Ihr Marketo-Abonnement am/nach dem 31. Juli 2023 erstellt wurde oder bereits in migriert wurde [Adobe Identity Management](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}, the steps for adding a user outlined below will not apply to you. Please see [this article](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"} anstatt.
+
 Bei Marketo anmelden [here](https://app.marketo.com/){target="_blank"} die Anmeldedaten verwenden, die Sie per E-Mail erhalten haben.
 
 ![](assets/setup-steps-1.png)
@@ -62,7 +66,7 @@ Klicks **[!UICONTROL Neuen Benutzer einladen]**.
 
 ![](assets/setup-steps-4.png)
 
-Füllen Sie die E-Mail-Adresse, den Vor- und Nachnamen Ihres Kollegen aus. _Das Festlegen des Ablaufdatums für den Zugriff ist optional._. Klicks **[!UICONTROL Nächste]**.
+Füllen Sie die E-Mail-Adresse, den Vor- und Nachnamen Ihres Kollegen aus. _Das Festlegen des Ablaufdatums für den Zugriff ist optional._. Klicken Sie auf **[!UICONTROL Weiter]**.
 
 ![](assets/setup-steps-5.png)
 
@@ -148,7 +152,7 @@ Konfigurieren Sie Ihre Domäneneinstellungen so, dass Landingpages die Domäne I
 >
 >Sind Sie Launch Pack-Kunde? Sie können diesen Schritt überspringen. Ihr Berater wird Ihnen während Ihres Startaufrufs ein Dokument mit IT-Setup-Anweisungen zur Verfügung stellen.
 
-Es gibt verschiedene Maßnahmen, mit denen Sie sicherstellen können, dass die E-Mails möglichst viele Ihrer Personen erreichen.
+Es gibt verschiedene Maßnahmen, die Sie ergreifen können, um sicherzustellen, dass die E-Mails möglichst viele Ihrer Personen erreichen.
 
 * **Markieren von Tracking-Links**. Sie können einen CNAME auswählen, um Ihre eigene Domäne (anstelle von Marketo) in den Links zu verwenden, die Sie in E-Mails von Marketo einfügen. Dies stärkt das Domain-Branding und erhöht das Vertrauen und die Zustellbarkeit für Ihre Empfänger.
 * **Fügen Sie Marketo zu Ihrer E-Mail-Zulassungsliste Ihres Unternehmens hinzu.** Es ist eine gängige Best Practice, vor dem Versand von E-Mails an Personen Testversand an Testkonten durchzuführen. Durch die Zulassungsauflistung von Marketo können Sie verhindern, dass diese Test-E-Mails blockiert oder als Spam gekennzeichnet werden.
@@ -313,7 +317,7 @@ Nach unten scrollen zu [!UICONTROL Branding-Domänen]. Wählen Sie Ihre Domäne 
 
 Geben Sie im Feld Domäne Ihre E-Mail-Tracking-Domäne ein. Dies sollte folgende Form aufweisen:
 
-`[EmailTrackingCNAME].[CompanyDomain].com`. Klicks **[!UICONTROL Speichern]**.
+`[EmailTrackingCNAME].[CompanyDomain].com`. Klicken Sie auf **[!UICONTROL Speichern]**.
 
 ![](assets/setup-steps-21.png)
 
@@ -344,6 +348,6 @@ Marketo verfügt über benutzerdefiniertes Tracking-JavaScript (namens [!DNL Mun
 
 ## Leistungserwartungen {#performance-expectations}
 
-Was ist mit der Leistung von Marketo zu erwarten? Diese kann je nach Größe und Komplexität Ihrer Marketing-Kampagnen variieren. Sie können jedoch Leistungsstufen erwarten, die dem entsprechen, was in der Spalte &quot;Standard&quot;in mehreren Tabellen im Abschnitt [Marketo Engage-Produktbeschreibung](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. The "Performance" and "Performance Plus" columns refer to performance tier packages that provide [higher performance levels](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
+Was ist mit der Leistung von Marketo zu erwarten? Diese kann je nach Größe und Komplexität Ihrer Marketing-Kampagnen variieren. Sie können jedoch Leistungsstufen erwarten, die dem entsprechen, was in der Spalte &quot;Standard&quot;in mehreren Tabellen im Abschnitt [Marketo Engage Produktbeschreibung](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. The "Performance" and "Performance Plus" columns refer to performance tier packages that provide [higher performance levels](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
 
 Alle Einrichtungsschritte sind vorbei. Das Einzige, was noch übrig ist, ist in Marketo zu tauchen und zu benutzen!
