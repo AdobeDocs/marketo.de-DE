@@ -3,22 +3,16 @@ description: Adobe Identity Management-Übersicht - Marketo-Dokumente - Produktd
 title: Adobe Identity Management - Überblick
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
 feature: Marketo with Adobe Identity
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 094a11f9544e0dba75167de229d78e8ff50cf6e8
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
 
 # Adobe Identity Management - Überblick {#adobe-identity-management-overview}
 
-Wenn Sie ab dem 15. Februar 2022 über ein neues Konto bei Adobe Marketo Engage (kein neues Konto, sondern nur eine neue Instanz für ein bestehendes Konto) verfügen, kann es je nach erworbenem Produktpaket in das Adobe Identity Management-System integriert werden. Wenden Sie sich an das Adobe Account Team (Ihren Kundenbetreuer), um herauszufinden, ob Sie bereits über ein Konto verfügen.
-
-Bestehende Marketo-Abonnements werden im zweiten Halbjahr 2023 in das Adobe Identity Management-System migriert.
-
-Wenn Sie [neues Konto](/help/marketo/product-docs/administration/marketo-with-adobe-identity/quick-guide.md){target="_blank"} (nicht nur eine neue Instanz für ein bestehendes Konto) ab dem 15. Februar 2022 in Adobe Marketo Engage integriert, kann es je nach erworbenem Produktpaket in das Adobe Identity Management-System (IMS) integriert werden. Wenden Sie sich an das Adobe Account Team (Ihren Kundenbetreuer), um herauszufinden, ob Sie bereits über ein Konto verfügen.
-
-Bestehende Marketo-Abonnements werden Ende 2023 auf das Adobe Identity Management-System migriert. Diese Migrationen können zunächst erst nach einer erneuten Kontraktion Ihres Marketo-Abonnements durchgeführt werden. Adobe plant, um Mitte 2024 mit der Migration von Marketo-Nutzern außerhalb von Neuvergabeereignissen zu beginnen.
+Alle neuen Adobe Marketo Engage-Abonnements (31. Juli 2023 oder höher) sind in das Adobe Identity Management-System integriert. Bestehende Marketo-Abonnements werden derzeit bei Verlängerungs- und/oder Wiedervergabeereignissen in das Adobe Identity Management-System migriert. Migrationen außerhalb eines Erneuerungs- oder Neuvertragsereignisses werden derzeit nicht unterstützt.
 
 >[!NOTE]
 >
