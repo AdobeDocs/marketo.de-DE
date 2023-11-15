@@ -4,7 +4,7 @@ title: Aktualisiertes Dokument zum Konfigurieren von Protokollen
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 1152e81462fb77dd23ff57e26ded7f9b3c02c258
+source-git-commit: 10458ed8bc6553e11686d00dacc1ba36d683ab56
 workflow-type: tm+mt
 source-wordcount: '2104'
 ht-degree: 3%
@@ -257,7 +257,7 @@ Es gibt zwei Arten der Ausrichtung für DMARC: DKIM-Ausrichtung und SPF-Ausricht
 
 * DKIM-angepasstes DMARC: Um DKIM-angepasstes DMARC einzurichten, müssen Sie:
 
-   * Richten Sie DKIM für die Domäne &quot;FROM: Domain&quot;Ihrer Nachricht ein. Anleitung verwenden [in diesem Artikel](help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}.
+   * Richten Sie DKIM für die Domäne &quot;FROM: Domain&quot;Ihrer Nachricht ein. Anleitung verwenden [in diesem Artikel](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}.
    * Konfigurieren Sie DMARC für die zuvor konfigurierte Domäne &quot;FROM:/DKIM&quot;
 
 * DMARC-angepasste SPF: Um DMARC-angepasste SPF über einen gebrandeten Rückkehrpfad einzurichten, müssen Sie:
