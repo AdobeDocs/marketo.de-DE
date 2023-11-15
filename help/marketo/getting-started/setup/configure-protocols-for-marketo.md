@@ -4,7 +4,7 @@ description: Konfigurieren von Protokollen für Marketo - Marketo Docs - Produkt
 title: Protokolle für Marketo konfigurieren
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: f95721d5007fc686a8de7d11233cfe08ccce7237
+source-git-commit: 1152e81462fb77dd23ff57e26ded7f9b3c02c258
 workflow-type: tm+mt
 source-wordcount: '968'
 ht-degree: 4%
@@ -217,4 +217,3 @@ Die folgenden Tabellen decken alle Marketo Engage-Server ab, die ausgehende Aufr
 
 </tbody>
 </table>
-
