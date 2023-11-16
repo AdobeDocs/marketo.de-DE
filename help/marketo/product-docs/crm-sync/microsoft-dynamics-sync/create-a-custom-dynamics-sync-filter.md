@@ -4,9 +4,9 @@ description: Erstellen eines benutzerdefinierten Synchronisierungsfilters für D
 title: Erstellen eines benutzerdefinierten Synchronisierungsfilters für Dynamics
 exl-id: 6b0d878a-9c55-4e73-9923-11140e83bb37
 feature: Microsoft Dynamics
-source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
+source-git-commit: a9aa55184a7971d3c82d106481f1f83593a7dd99
 workflow-type: tm+mt
-source-wordcount: '785'
+source-wordcount: '799'
 ht-degree: 0%
 
 ---
@@ -20,11 +20,13 @@ Möchten Sie nicht alles in Ihrem Dynamics CRM mit Marketo synchronisieren? Mach
 So richten Sie einen Dynamics-Synchronisierungsfilter ein:
 
 1. Erstellen Sie in Ihrem Dynamics CRM ein benutzerdefiniertes Feld mit dem Namen new_synctomkto (zwei Optionen (boolesch) für ein beliebiges Objekt (Lead, Kontakt, Konto, Gelegenheit und andere benutzerdefinierte Entitäten).
-1. Weisen Sie diesem Feld den Wert Ja/Nein zu oder lassen Sie es leer.
+1. Weisen Sie diesem Feld einen Ja/Nein -Wert zu.
 
->[!NOTE]
+Sie müssen diese Änderungen in Dynamics CRM vornehmen, nicht in Ihrer Datenbank oder in Marketo.
+
+>[!CAUTION]
 >
->Sie müssen diese Änderungen in Dynamics CRM vornehmen, nicht in Ihrer Datenbank oder in Marketo.
+>Wenn Sie das Feld nicht zuweisen und leer/NULL lassen, wird es zwar heruntersynchronisiert, aber nicht aktualisiert.
 
 Marketo sucht bei der automatischen Hintergrundsynchronisierung nach diesem Feld und bestimmt anhand dieser Logik, über welche Datensätze synchronisiert werden sollen:
 
