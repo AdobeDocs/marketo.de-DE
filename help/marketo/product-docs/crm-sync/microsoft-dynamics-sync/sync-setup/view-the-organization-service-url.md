@@ -4,7 +4,7 @@ description: Anzeigen der Organisationsdienst-URL - Marketo-Dokumente - Produktd
 title: Anzeigen der Organisationsdienst-URL
 exl-id: 37c6afa3-ae82-4134-8a00-b4dc08064f5d
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # Anzeigen der Organisationsdienst-URL {#view-the-organization-service-url}
 
-Marketo benötigt die Organisationsdienst-URL, um mit Dynamics-Instanzen zu synchronisieren. Hier erfahren Sie, wie Sie ihn in Dynamics finden.
+Marketo Engage benötigt die Organisationsdienst-URL, um mit MD-Instanzen zu synchronisieren. Hier erfahren Sie, wie Sie ihn in Dynamics finden.
 
-1. Melden Sie sich bei Dynamics an. Klicken Sie auf das Symbol Einstellungen und wählen Sie **Erweiterte Einstellungen**.
+1. Anmelden bei [!DNL Dynamics]. Klicken Sie auf das Symbol Einstellungen und wählen Sie **[!UICONTROL Erweiterte Einstellungen]**.
 
    ![](assets/one.png)
 
-1. Klicken **Einstellungen** und wählen Sie **Anpassungen**.
+1. Klicks **[!UICONTROL Einstellungen]** und wählen **[!UICONTROL Anpassungen]**.
 
    ![](assets/two.png)
 
-1. Klicken **Entwicklungsressourcen**.
+1. Klicks **[!UICONTROL Entwicklungsressourcen]**.
 
    ![](assets/three.png)
 
-1. Die Organisationsdienst-URL finden Sie unter **Dienstendpunkte**.
+1. Die Organisationsdienst-URL finden Sie unter **[!UICONTROL Dienstendpunkte]**.
 
    ![](assets/four.png)
 

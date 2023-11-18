@@ -4,9 +4,9 @@ description: Hinzufügen/Entfernen von Picklist-Werten - Marketo Docs - Produktd
 title: Hinzufügen/Entfernen von Picklist-Werten
 exl-id: f1230c43-10cb-47ff-89d7-9f835b034db0
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ Im Folgenden finden Sie einige Informationen zum Hinzufügen und Entfernen von P
 
 ## Hinzufügen von Picklist-Werten {#adding-picklist-values}
 
-1. Wenn ein zusätzlicher Wert in Salesforce zu einem Picklist-Feldtyp hinzugefügt wird, erhalten Sie eine [Benachrichtigung](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) Angabe der Formulare, auf die sich dies auswirken wird.
+1. Wenn ein zusätzlicher Wert in Salesforce zu einem Picklist-Feldtyp hinzugefügt wird, erhalten Sie eine [Benachrichtigung](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md){target="_blank"} Angabe der Formulare, auf die sich dies auswirken wird.
 
    ![](assets/image2015-1-21-14-3a4-3a7.png)
 
-1. Wechseln Sie zum Formular-Editor und [den zusätzlichen Wert hinzufügen](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md) zu Ihrer Liste mit Vorschlägen.
+1. Wechseln Sie zum Formular-Editor und [den zusätzlichen Wert hinzufügen](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md){target="_blank"} zu Ihrer Liste mit Vorschlägen.
 
 ## Entfernen von Picklist-Werten {#remove-picklist-values}
 
@@ -29,7 +29,7 @@ Wenn ein Auswahllistenwert aus einem Feld in Salesforce entfernt wird, müssen S
 
 >[!NOTE]
 >
->Wenn ein Lead- und ein Kontaktfeld in Salesforce unterschiedliche Werte aufweisen, stehen die gemeinsamen Werte in Marketo zur Verfügung.
+>Wenn ein Lead- und ein Kontaktfeld in Salesforce unterschiedliche Werte aufweisen, sind die gemeinsamen Werte für Marketo Engage verfügbar.
 
 Wenn ein Lead- und ein Kontaktfeld in Salesforce unterschiedliche Werte aufweisen:
 

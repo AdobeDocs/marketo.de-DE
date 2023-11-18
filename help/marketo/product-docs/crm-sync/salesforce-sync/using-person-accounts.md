@@ -4,16 +4,16 @@ description: Verwenden von Personenkonten - Marketo Docs - Produktdokumentation
 title: Verwenden von Personenkonten
 exl-id: 3cc67ff2-f689-4dfb-8b67-2b5b8d389aaf
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
 
 # Verwenden von Personenkonten {#using-person-accounts}
 
-Personenkonten können in Salesforce entsprechend den Anforderungen Ihrer Organisation eingerichtet werden. So behandelt Marketo Personenkonten.
+Personenkonten können in Salesforce entsprechend den Anforderungen Ihrer Organisation eingerichtet werden. So behandelt Marketo Engage Personenkonten.
 
 >[!NOTE]
 >
@@ -33,15 +33,15 @@ Ein Personenkonto wird als Unternehmen und als Person mit Marketo synchronisiert
 
 ## Wie kann ich Geschäftskonten und Personenkonten unterscheiden? {#how-do-i-differentiate-business-accounts-and-person-accounts}
 
-Verwenden Sie die **Ist Personenkonto** in Ihrer intelligenten Liste zu filtern, um Personenkonten von standardmäßigen Geschäftskonten zu trennen.
+Verwenden Sie den Filter &quot;Is Person Account&quot;in Ihrer Smart List, um Personenkonten von standardmäßigen Geschäftskonten zu trennen.
 
 ## Wo werden die Informationen zu meinen Personenkonten in Marketo Sales Insight angezeigt? {#where-is-my-person-accounts-information-displayed-in-marketo-sales-insight}
 
-Aktivitäten im Zusammenhang mit Personenkonten werden im **Konto** Bedienfeld.
+Aktivitäten im Zusammenhang mit Personenkonten werden im **[!UICONTROL Konto]** Bedienfeld.
 
 >[!NOTE]
 >
->Marketo Sales Insight **Zu Marketo Campaign hinzufügen** und **E-Mail senden** -Optionen sind derzeit nicht für Personenkonten verfügbar.
+>Marketo Sales Insight **[!UICONTROL Zu Marketo Campaign hinzufügen]** und **[!UICONTROL E-Mail senden]** -Optionen sind derzeit nicht für Personenkonten verfügbar.
 
 ## Wie ordne ich einem Personenkonto Chancen zu? {#how-do-i-associate-opportunities-to-a-person-account}
 

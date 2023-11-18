@@ -4,7 +4,7 @@ description: Salesforce-Synchronisation aktivieren/deaktivieren - Marketo-Dokume
 title: Salesforce-Synchronisierung aktivieren/deaktivieren
 exl-id: 3238f149-6aa3-4207-aae9-e404cf519414
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Wenn Sie umfangreiche Änderungen an Ihren Synchronisations- oder Feldeinstellungen vornehmen, sollten Sie die Synchronisierung während der Konfiguration deaktivieren. Gehen Sie wie folgt vor:
 
-1. Navigieren Sie zu **Admin** Abschnitt.
+1. Navigieren Sie zu **[!UICONTROL Admin]** Abschnitt.
 
    ![](assets/image2014-12-10-13-3a24-3a35.png)
 
-1. under **Salesforce** klicken **Synchronisierung deaktivieren**.
+1. under **[!UICONTROL Salesforce]** klicken **[!UICONTROL Synchronisierung deaktivieren]**.
 
    ![](assets/image2014-12-10-13-3a24-3a47.png)
 

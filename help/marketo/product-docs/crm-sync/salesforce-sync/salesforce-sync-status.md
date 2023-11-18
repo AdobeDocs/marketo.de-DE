@@ -3,10 +3,10 @@ description: Salesforce-Synchronisierungsstatus - Marketo-Dokumente - Produktdok
 title: Salesforce-Synchronisierungsstatus
 exl-id: 61197808-7812-4e0a-8ac6-4a60af0f7979
 feature: Salesforce Integration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '554'
+ht-degree: 14%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Verwenden Sie das Synchronisierungsstatus-Dashboard, um die Synchronisierungsstatistiken als Teil der Synchronisierungsschritte und des Erfolgsstatus anzuzeigen.
 
-Die Synchronisierungsschritte spiegeln die Push- oder Pull-Vorgänge jedes Objekttyps für das Objektschema und die Daten selbst wider. Statistiken decken neue Datensätze, Aktualisierungen, Löschvorgänge und fehlgeschlagene Zählungen während der Synchronisierung ab. Benutzer können nach Datum, Vorgangstyp oder Objekttyp filtern. Das Synchronisierungsstatus-Dashboard zeigt den Status der Synchronisierungszyklen für die letzten fünf Tage an.
+Die Synchronisierungsschritte spiegeln die Push- oder Pull-Vorgänge jedes Objekttyps für das Objektschema und die Daten selbst wider. Statistiken decken neue Datensätze, Aktualisierungen, Löschvorgänge und fehlgeschlagene Zählungen während der Synchronisierung ab. Benutzer können nach Datum, Vorgangstyp oder Objekttyp filtern. Das Synchronisierungsstatus-Dashboard zeigt den Status der Synchronisierungszyklen für die letzten fünf Tage an.
 
 >[!NOTE]
 >
@@ -22,15 +22,15 @@ Die Synchronisierungsschritte spiegeln die Push- oder Pull-Vorgänge jedes Objek
 
 ## Synchronisierungsstatus anzeigen {#view-sync-status}
 
-1. Klicks **Admin**.
+1. Klicks **[!UICONTROL Admin]**.
 
    ![](assets/salesforce-sync-status-1.png)
 
-1. Klicken Sie unter &quot;Integration&quot;auf Salesforce und dann auf die Registerkarte Synchronisierungsstatus .
+1. under [!UICONTROL Integration]klicken **Salesforce**, dann die **[!UICONTROL Synchronisierungsstatus]** Registerkarte.
 
    ![](assets/salesforce-sync-status-2.png)
 
-Standardmäßig werden die Statistiken nach den letzten Startvorgängen sortiert. Sie können die Sortierung nach &quot;Gestartet am&quot;oder &quot;Beendet am&quot;- vom letzten zum ältesten - vornehmen, indem Sie auf das Sortiersymbol klicken.
+Standardmäßig werden die Statistiken nach den letzten Startvorgängen sortiert. Sie können die Sortierung nach &quot;Gestartet am&quot;oder &quot;Beendet am&quot;(vom letzten zum ältesten) vornehmen, indem Sie auf das Sortiersymbol klicken.
 
 ![](assets/salesforce-sync-status-3.png)
 
@@ -40,15 +40,15 @@ Standardmäßig werden die Statistiken nach den letzten Startvorgängen sortiert
 
    ![](assets/salesforce-sync-status-4.png)
 
-1. Wählen Sie Datum und Zeitraum aus und klicken Sie dann auf die Dropdown-Liste(n), um nach Objekttyp, Aktionstyp und/oder Statustyp zu filtern.
+1. Wählen Sie Datum und Zeitraum aus und klicken Sie dann auf die Dropdown-Liste, nach denen Sie filtern möchten [!UICONTROL Objekttyp], [!UICONTROL Aktionstyp], und/oder [!UICONTROL Statustyp].
 
    ![](assets/salesforce-sync-status-5.png)
 
-1. Klicks **Anwenden**.
+1. Klicks **[!UICONTROL Anwenden]**.
 
    ![](assets/salesforce-sync-status-6.png)
 
-**OPTIONALER SCHRITT**: Um Synchronisierungsfehler zu exportieren, klicken Sie auf **Export**. Die Daten werden als CSV exportiert.
+**OPTIONALER SCHRITT**: Um Synchronisierungsfehler zu exportieren, klicken Sie auf **[!UICONTROL Export]**. Die Daten werden als CSV exportiert.
 
 ![](assets/salesforce-sync-status-7.png)
 
@@ -141,7 +141,7 @@ Standardmäßig werden die Statistiken nach den letzten Startvorgängen sortiert
    <td colspan="1">Kampagne</td> 
   </tr>  
   <tr> 
-   <td colspan="1">Status des Kampagnenmitgliedes</td> 
+   <td colspan="1">Kampagnenmitglied Status</td> 
   </tr>
   <tr> 
    <td colspan="1">Kontakt</td> 
@@ -159,7 +159,7 @@ Standardmäßig werden die Statistiken nach den letzten Startvorgängen sortiert
    <td colspan="1">Opportunity</td> 
   </tr>  
   <tr> 
-   <td colspan="1">Gelegenheit Kontaktrolle</td> 
+   <td colspan="1">Rolle des Opportunity-Kontakts</td> 
   </tr>  
   <tr> 
    <td colspan="1">Aufgabe</td> 
@@ -190,7 +190,7 @@ Standardmäßig werden die Statistiken nach den letzten Startvorgängen sortiert
    <td colspan="1">Initlink mit Programm</td> 
    <td colspan="1">Kampagne</td> 
    <td colspan="1">Verknüpfen von Kampagnen mit Programmen</td> 
-   <td colspan="1">Aktualisieren</td>
+   <td colspan="1">Aktualisierung</td>
   </tr>  
   <tr> 
    <td colspan="1">Gespräche abrufen</td> 
@@ -244,7 +244,7 @@ Standardmäßig werden die Statistiken nach den letzten Startvorgängen sortiert
    <td colspan="1">FKS aktualisieren</td> 
    <td colspan="1">Alle</td> 
    <td colspan="1">Fremdschlüssel aller Objekte aktualisieren</td> 
-   <td colspan="1">n.z</td>
+   <td colspan="1">Nicht zutreffend</td>
   </tr>  
  </tbody> 
 </table>

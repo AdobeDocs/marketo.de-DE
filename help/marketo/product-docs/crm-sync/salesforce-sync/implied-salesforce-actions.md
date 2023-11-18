@@ -4,7 +4,7 @@ description: Implementierte Salesforce-Aktionen - Marketo-Dokumente - Produktdok
 title: Implizite Salesforce-Aktionen
 exl-id: 88533588-77f2-465e-9644-a4f95b87f99d
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 21%
@@ -15,7 +15,7 @@ ht-degree: 21%
 
 Wenn ein Salesforce-spezifischer Flussschritt ausgeführt wird, werden manchmal automatisch zusätzliche Schritte ausgeführt. Im Folgenden finden Sie die Regeln, damit Sie Folgendes wissen:
 
-Diese Regeln gelten _, wenn sich die Person derzeit nicht in [Salesforce.com](https://Salesforce.com)_ als Kontakt oder Lead.
+Diese Regeln gelten, wenn sich die Person derzeit nicht in [Salesforce.com](https://Salesforce.com){target="_blank"} als Kontakt oder Lead.
 
 <table> 
  <thead> 
@@ -48,6 +48,6 @@ Diese Regeln gelten _, wenn sich die Person derzeit nicht in [Salesforce.com](ht
  </tbody> 
 </table>
 
-Sie können SFDC-Datensätze in einer Smart-Liste mithilfe der **SFDC-Typ** Filtern Sie mit dem Operator, der auf &quot;ist nicht leer&quot;gesetzt ist. Alle SFDC-Datensätze haben in diesem Feld einen Wert.
+Sie können SFDC-Datensätze in einer Smart-Liste mithilfe der **[!UICONTROL SFDC-Typ]** Filtern Sie mit dem Operator, der auf &quot;ist nicht leer&quot;gesetzt ist. Alle SFDC-Datensätze haben in diesem Feld einen Wert.
 
-Denken Sie daran, dass diese automatischen Aktionen nur stattfinden, wenn der Lead derzeit nicht in [Salesforce.com](https://salesforce.com)
+Denken Sie daran, dass diese automatischen Aktionen nur stattfinden, wenn der Lead derzeit nicht in [Salesforce.com](https://salesforce.com){target="_blank"}

@@ -4,10 +4,10 @@ description: 'Schritt 1 von 3: Hinzufügen von Marketo-Feldern zu Salesforce (En
 title: 'Schritt 1 von 3: Hinzufügen von Marketo-Feldern zu Salesforce (Enterprise/Unlimited)'
 exl-id: bcfba281-0d4b-42c3-b52a-ce1c3da884ba
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '784'
-ht-degree: 8%
+source-wordcount: '781'
+ht-degree: 9%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 8%
 
 >[!PREREQUISITES]
 >
->Sie müssen Zugriff auf Salesforce-APIs haben, um zwischen Marketo und Salesforce zu synchronisieren.
+>Sie müssen Zugriff auf Salesforce-APIs haben, um zwischen Marketo Engage und Salesforce zu synchronisieren.
 
 Marketo verwendet eine Reihe von Feldern, um bestimmte Arten von Marketing-bezogenen Informationen zu erfassen. Wenn Sie diese Daten in Salesforce wünschen, folgen Sie bitte den unten stehenden Anweisungen.
 
@@ -31,15 +31,15 @@ Fügen Sie drei benutzerdefinierte Felder zu den oben aufgeführten Lead- und Ko
 
 Führen Sie die folgenden Schritte für jedes der drei benutzerdefinierten Felder aus, um sie hinzuzufügen. Beginnen Sie mit Score.
 
-1. Melden Sie sich bei Salesforce an und klicken Sie auf **Einrichtung**.
+1. Melden Sie sich bei Salesforce an und klicken Sie auf **[!UICONTROL Einrichtung]**.
 
    ![](assets/image2016-5-23-13-3a15-3a21.png)
 
-1. Klicken Sie im Menü Erstellen auf der linken Seite auf **Anpassen** und wählen **Leads**. Klicks **Felder**.
+1. Im [!UICONTROL Build] Menü links, klicken Sie auf **[!UICONTROL Anpassen]** und wählen **[!UICONTROL Leads]**. Klicks **[!UICONTROL Felder]**.
 
    ![](assets/image2016-5-23-13-3a20-3a5.png)
 
-1. Klicks **Neu** im Abschnitt Benutzerdefinierte Felder und Beziehungen unten auf der Seite.
+1. Klicks **[!UICONTROL Neu]** im Abschnitt Benutzerdefinierte Felder und Beziehungen unten auf der Seite.
 
    ![](assets/image2016-5-26-14-3a41-3a40.png)
 
@@ -47,11 +47,11 @@ Führen Sie die folgenden Schritte für jedes der drei benutzerdefinierten Felde
 
    ![](assets/choose-field-type-2-hand.png)
 
-1. Klicks **Nächste**.
+1. Klicken Sie auf **[!UICONTROL Weiter]**.
 
    ![](assets/image2016-5-26-14-3a51-3a14.png)
 
-1. Geben Sie den Feldtitel, die Länge und den Feldnamen für das Feld ein, wie in der folgenden Tabelle dargestellt.
+1. Geben Sie die [!UICONTROL Feldbezeichnung], [!UICONTROL Länge], und [!UICONTROL Feldname] für das Feld, wie in der folgenden Tabelle dargestellt.
 
 <table> 
  <thead> 
@@ -106,18 +106,18 @@ Führen Sie die folgenden Schritte für jedes der drei benutzerdefinierten Felde
 >
 >Text- und Zahlenfelder erfordern eine Länge, Datums-/Uhrzeitfelder jedoch nicht. Eine Beschreibung ist optional.
 
-1. Klicks **Nächste**.
+1. Klicken Sie auf **[!UICONTROL Weiter]**.
 
    ![](assets/image2016-5-23-14-3a50-3a5.png)
 
-1. Geben Sie die Zugriffseinstellungen an und klicken Sie auf **Nächste**:
+1. Geben Sie die Zugriffseinstellungen an und klicken Sie auf **[!UICONTROL Nächste]**:
 
-   * Legen Sie alle Rollen auf **Sichtbar** und **Schreibgeschützt**
+   * Legen Sie alle Rollen auf **[!UICONTROL Sichtbar]** und **[!UICONTROL Schreibgeschützt]**
 
-   * Löschen Sie die **Schreibgeschützt** Kontrollkästchen für das Profil Ihres Synchronisierungsbenutzers:
+   * Löschen Sie die **[!UICONTROL Schreibgeschützt]** Kontrollkästchen für das Profil Ihres Synchronisierungsbenutzers:
 
-      * Wenn Sie einen Benutzer mit dem Profil eines _Systemadministrator_ als Synchronisierungsbenutzer verwenden, löschen Sie die **Schreibgeschützt** Kontrollkästchen für das Profil &quot;Systemadministrator&quot;(wie unten dargestellt)
-      * Wenn Sie eine _Benutzerdefiniertes Profil_ Löschen Sie für den Synchronisierungsbenutzer die **Schreibgeschützt** Kontrollkästchen für dieses benutzerdefinierte Profil
+      * Wenn Sie einen Benutzer mit dem Profil eines _Systemadministrator_ als Synchronisierungsbenutzer verwenden, löschen Sie die **[!UICONTROL Schreibgeschützt]** Kontrollkästchen für das Profil &quot;Systemadministrator&quot;(wie unten dargestellt)
+      * Wenn Sie eine _Benutzerdefiniertes Profil_ Löschen Sie für den Synchronisierungsbenutzer die **[!UICONTROL Schreibgeschützt]** Kontrollkästchen für dieses benutzerdefinierte Profil
 
    ![](assets/image2016-6-30-9-3a25-3a4.png)
 
@@ -125,11 +125,11 @@ Führen Sie die folgenden Schritte für jedes der drei benutzerdefinierten Felde
 
    ![](assets/image2016-5-26-15-3a14-3a45.png)
 
-1. Klicks **Speichern und Neu** , um die beiden anderen benutzerdefinierten Felder zu erstellen. Klicks **Speichern** mit Ihnen sind mit allen drei fertig.
+1. Klicks **[!UICONTROL Speichern und Neu]** , um die beiden anderen benutzerdefinierten Felder zu erstellen. Klicks **[!UICONTROL Speichern]** mit Ihnen sind mit allen drei fertig.
 
    ![](assets/image2016-5-23-15-3a8-3a43.png)
 
-1. Klicken Sie im Menü Erstellen auf der linken Seite auf **Anpassen** und wählen Sie Kontakte aus. Klicken Sie auf Felder.
+1. Klicken Sie im Menü Erstellen auf der linken Seite auf **[!UICONTROL Anpassen]** und wählen Sie Kontakte aus. Klicken Sie auf Felder.
 1. Führen Sie die Schritte 3 bis 10 für die Felder Score, Akquise-Datum und Akquise-Programm für das Kontaktobjekt aus, genau wie für das Lead-Objekt.
 1. Optional können Sie das obige Verfahren für alle zusätzlichen benutzerdefinierten Felder aus dieser Tabelle verwenden.
 
@@ -244,15 +244,15 @@ Führen Sie die folgenden Schritte für jedes der drei benutzerdefinierten Felde
 
 Ein benutzerdefiniertes Feld für das Lead-Objekt in Salesforce sollte einem Kontaktfeld auf dem Kontaktobjekt zugeordnet werden, damit Daten bei einer Konvertierung übertragen werden.
 
-1. Klicken Sie oben rechts auf **Einrichtung**.
+1. Klicken Sie oben rechts auf **[!UICONTROL Einrichtung]**.
 
    ![](assets/image2016-5-26-16-3a34-3a0.png)
 
-1. Geben Sie &quot;Felder&quot;in die Nav-Suche ein, ohne die Eingabetaste zu drücken. Felder werden unter verschiedenen Objekten angezeigt. Klicken Sie auf **Felder** unter &quot;Leads&quot;.
+1. Geben Sie &quot;Felder&quot;in die Nav-Suche ein, ohne die Eingabetaste zu drücken. Felder werden unter verschiedenen Objekten angezeigt. Klicken Sie auf **[!UICONTROL Felder]** unter &quot;Leads&quot;.
 
    ![](assets/image2016-5-26-16-3a36-3a32.png)
 
-1. Wechseln Sie zum Abschnitt Lead-benutzerdefinierte Felder und Beziehungen und klicken Sie auf **Lead-Felder zuordnen**.
+1. Wechseln Sie zum Abschnitt Lead-benutzerdefinierte Felder und Beziehungen und klicken Sie auf **[!UICONTROL Lead-Felder zuordnen]**.
 
    ![](assets/image2016-5-26-16-3a39-3a29.png)
 
@@ -266,10 +266,8 @@ Ein benutzerdefiniertes Feld für das Lead-Objekt in Salesforce sollte einem Kon
 
 1. Wiederholen Sie die obigen Schritte für alle anderen Felder, die Sie erstellt haben.
 
-1. Klicks **Speichern** wenn Sie fertig sind.
-
-   Einfach genug, nicht wahr?
+1. Klicks **[!UICONTROL Speichern]** wann geschehen.
 
 >[!MORELIKETHIS]
 >
->[Schritt 2 von 3: Erstellen eines Salesforce-Benutzers für Marketo (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
+>[Schritt 2 von 3: Erstellen eines Salesforce-Benutzers für Marketo (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"}
