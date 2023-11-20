@@ -4,7 +4,7 @@ description: Aktivitätensynchronisierung anpassen - Marketo-Dokumente - Produkt
 title: Aktivitätensynchronisierung anpassen
 exl-id: 938d83dc-b9b1-41d8-bf98-04548b074ec4
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
 workflow-type: tm+mt
 source-wordcount: '272'
 ht-degree: 12%
@@ -13,17 +13,17 @@ ht-degree: 12%
 
 # Aktivitätensynchronisierung anpassen {#customize-activities-sync}
 
-Wenn Sie Marketo Sales Insight nicht verwenden, kann Marketo für bestimmte Ereignisse Salesforce-Aktivitätsverlaufsdatensätze erstellen. So aktivieren Sie sie.
+Wenn Sie Marketo Sales Insight nicht verwenden, kann Marketo Engage für bestimmte Ereignisse Salesforce Activity History Records erstellen. So können sie aktiviert werden.
 
-1. Navigieren Sie zu **Admin**.
+1. Navigieren Sie zu **[!UICONTROL Admin]**.
 
    ![](assets/admin.png)
 
-1. Klicken **Salesforce** Klicken Sie auf **Synchronisierungsoptionen bearbeiten**.
+1. Klicks **[!DNL Salesforce]** Klicken Sie auf **[!UICONTROL Synchronisierungsoptionen bearbeiten]**.
 
    ![](assets/two-1.png)
 
-1. Aktivieren Sie die Kontrollkästchen neben den Aktivitäten, die Marketo an Salesforce senden soll, und klicken Sie auf **Speichern**.
+1. Aktivieren Sie die Kontrollkästchen neben den Aktivitäten, die Marketo an Salesforce senden soll, und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/three-1.png)
 
@@ -44,12 +44,12 @@ Wenn Sie Marketo Sales Insight nicht verwenden, kann Marketo für bestimmte Erei
  </thead> 
  <tbody> 
   <tr> 
-   <td>Ausgefülltes Formular</td> 
+   <td>Hat Formular ausgefüllt</td> 
    <td>Marketo-Formular ausfüllen</td> 
   </tr> 
   <tr> 
    <td>Der Liste hinzugefügt</td> 
-   <td><p>Flussschritt: wurde zu einer statischen Liste hinzugefügt</p></td> 
+   <td><p>Flussschritt: Wurde einer statischen Liste hinzugefügt</p></td> 
   </tr> 
   <tr> 
    <td>E-Mail gesendet</td> 
@@ -72,7 +72,7 @@ Wenn Sie Marketo Sales Insight nicht verwenden, kann Marketo für bestimmte Erei
    <td>Flussschritt: wurde aus einer statischen Liste entfernt</td> 
   </tr> 
   <tr> 
-   <td>Aus Flow entfernen</td> 
+   <td>Aus Fluss entfernen</td> 
    <td>Flussschritt: Aus Fluss entfernen</td> 
   </tr> 
   <tr> 
@@ -84,7 +84,7 @@ Wenn Sie Marketo Sales Insight nicht verwenden, kann Marketo für bestimmte Erei
    <td>Öffnen einer E-Mail, die über Marketo Sales Insight gesendet wurde</td> 
   </tr> 
   <tr> 
-   <td>Klick-Link in Verkaufs-E-Mail</td> 
+   <td>Link in Verkaufs-E-Mail</td> 
    <td>Auf einen Link in einer E-Mail geklickt, die über Marketo Sales Insight gesendet wurde</td> 
   </tr> 
   <tr> 
@@ -96,8 +96,8 @@ Wenn Sie Marketo Sales Insight nicht verwenden, kann Marketo für bestimmte Erei
 
 >[!NOTE]
 >
->&quot;E-Mail-Empfang für Vertrieb&quot; **not** Mittelwert bereitgestellt. Der Status Zugestellt wird nicht für E-Mails erfasst, die über Sales Insight gesendet werden.
+>&quot;E-Mail-Empfang für Vertrieb&quot; _not_ Mittelwert bereitgestellt. Der Status Zugestellt wird nicht für E-Mails erfasst, die über Sales Insight gesendet werden.
 
 >[!TIP]
 >
->Wenn Sie mehr Marketo-Informationen in Salesforce erhalten möchten, besuchen Sie unsere [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) Produkt.
+>Wenn Sie mehr Marketo-Informationen in Salesforce erhalten möchten, besuchen Sie unsere [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} Produkt.

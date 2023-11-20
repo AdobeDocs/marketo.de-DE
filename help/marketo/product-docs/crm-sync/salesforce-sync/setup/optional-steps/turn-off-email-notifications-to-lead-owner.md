@@ -4,10 +4,10 @@ description: E-Mail-Benachrichtigungen für Lead-Eigentümer deaktivieren - Mark
 title: E-Mail-Benachrichtigungen für Lead-Inhaber deaktivieren
 exl-id: e079ed85-5fdd-49c9-a89c-aaf854a5db63
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '69'
+ht-degree: 4%
 
 ---
 
@@ -15,18 +15,18 @@ ht-degree: 0%
 
 Sie können die automatischen E-Mail-Benachrichtigungen deaktivieren, die bei Lead-Zuweisung an Lead-Eigentümer in Salesforce gesendet werden. So geht es.
 
-1. Navigieren Sie zu **Admin**.
+1. Navigieren Sie zu **[!UICONTROL Admin]**.
 
    ![](assets/admin-1.png)
 
-1. Klicks **Salesforce**.
+1. Klicken **[!DNL Salesforce]**.
 
    ![](assets/adminsalesforce.png)
 
-1. under **Synchronisierungsoptionen** klicken **Bearbeiten**.
+1. under **[!UICONTROL Synchronisierungsoptionen]** klicken **[!UICONTROL Bearbeiten]**.
 
    ![](assets/salesforcesummary2.jpg)
 
-1. Deaktivieren Sie die **E-Mail-Benachrichtigung an den Eigentümer bei Lead-Zuweisung in Salesforce senden** ankreuzen. Klicks **Speichern**.
+1. Deaktivieren Sie die **[!UICONTROL E-Mail-Benachrichtigung an den Eigentümer bei Lead-Zuweisung in Salesforce senden]** ankreuzen. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/new-screen.png)
