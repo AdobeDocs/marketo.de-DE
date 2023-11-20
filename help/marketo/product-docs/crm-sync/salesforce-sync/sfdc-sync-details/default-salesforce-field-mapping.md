@@ -4,16 +4,16 @@ description: Standardmäßige Salesforce-Feldzuordnung - Marketo-Dokumente - Pro
 title: Standardmäßige Zuordnung von Salesforce-Feldern
 exl-id: d6639733-f85d-4f4c-ac41-5d2a68a9c6b2
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '362'
-ht-degree: 58%
+source-wordcount: '363'
+ht-degree: 57%
 
 ---
 
 # Standardmäßige Zuordnung von Salesforce-Feldern {#default-salesforce-field-mapping}
 
-Wenn Sie Ihr Marketo-Konto zum ersten Mal mit Salesforce synchronisieren, führt Marketo diese Verknüpfungen automatisch zwischen Ihren integrierten Salesforce- und Marketo-Feldern durch. Marketo synchronisiert auch Ihre benutzerdefinierten Felder mit Ihren Leads, Konten, Chancen und Kontakten.
+Wenn Sie Ihr Marketo Engage-Konto zum ersten Mal mit Salesforce synchronisieren, stellt Marketo diese Verknüpfungen automatisch zwischen Ihren integrierten Salesforce- und Marketo-Feldern her. Marketo synchronisiert auch Ihre benutzerdefinierten Felder mit Ihren Leads, Konten, Chancen und Kontakten.
 
 ## Lead-Felder {#lead-fields}
 
@@ -21,7 +21,7 @@ Wenn Sie Ihr Marketo-Konto zum ersten Mal mit Salesforce synchronisieren, führt
 |---|---|
 | Jahresumsatz | Jahresumsatz |
 | Ort | Ort |
-| Unternehmen | Firmenname |
+| Unternehmen | Unternehmensname |
 | Konvertiertes Datum | SFDC – Konvertiertes Datum |
 | Land | Land |
 | Erstellungsdatum | SFDC-Erstellungsdatum |
@@ -29,7 +29,7 @@ Wenn Sie Ihr Marketo-Konto zum ersten Mal mit Salesforce synchronisieren, führt
 | E-Mail | E-Mail-Adresse |
 | Fax | Faxnummer |
 | Vorname | Vorname |
-| E-Mail-Abmeldung | Abgemeldet |
+| E-Mail-Abmeldung | Hat abbestellt |
 | Branche | Branche |
 | Konvertiert | SFDC wird konvertiert |
 | Gelöscht | SFDC wurde gelöscht |
@@ -58,7 +58,7 @@ Wenn Sie Ihr Marketo-Konto zum ersten Mal mit Salesforce synchronisieren, führt
 | E-Mail | E-Mail-Adresse |
 | Business Fax | Faxnummer |
 | Vorname | Vorname |
-| E-Mail-Abmeldung | Abgemeldet |
+| E-Mail-Abmeldung | Hat abbestellt |
 | Gelöscht | SFDC wurde gelöscht |
 | Nachname | Nachname |
 | Lead-Quelle | Quelle |
@@ -86,7 +86,7 @@ Wenn Sie Ihr Marketo-Konto zum ersten Mal mit Salesforce synchronisieren, führt
 | Kontobeschreibung | Unternehmenshinweise |
 | Branche | Branche |
 | Gelöscht | SFDC wurde gelöscht |
-| Kontoname | Firmenname |
+| Kontoname | Unternehmensname |
 | Mitarbeiter | Anzahl Mitarbeiter |
 | Konto-Telefon | Haupttelefonnummer |
 | SIC-Code | SIC-Code |

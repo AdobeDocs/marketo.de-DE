@@ -4,20 +4,20 @@ description: SFDC Sync - Kontosynchronisierung - Marketo-Dokumente - Produktdoku
 title: SFDC Sync - Kontosynchronisierung
 exl-id: 94f7a9e5-86ea-4bb4-9d78-96a09c61321d
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '226'
 ht-degree: 0%
 
 ---
 
 # SFDC Sync: Kontosynchronisierung {#sfdc-sync-account-sync}
 
-Marketo synchronisiert Ihre Kontoinformationen auch mit Salesforce. Hier sind einige spezielle Dinge, die Sie wissen sollten!
+Marketo Engage synchronisiert Ihre Kontoinformationen auch mit Salesforce. Hier sind einige spezielle Dinge, die Sie wissen sollten!
 
 ## Wie werden die Informationen synchronisiert? {#which-way-does-the-information-sync}
 
-Nur eine Methode: von SFDC nach Marketo.
+Nur eine Möglichkeit: von SFDC nach Marketo.
 
 ## Wie funktionieren die Aktualisierungen? {#how-do-the-updates-work}
 
@@ -25,11 +25,11 @@ Wenn Sie ein Feld &quot;Konto&quot;für einen Kontakt in Marketo aktualisieren, 
 
 ## Kann ein Kontakt mehreren Konten angehören?  {#can-a-contact-belong-to-multiple-accounts}
 
-Anz. Ein Konto kann viele Kontakte haben, ein Kontakt kann nur ein Konto haben.
+Nein. Ein Konto kann viele Kontakte haben, ein Kontakt kann nur ein Konto haben.
 
 ## Kann ich Konten aus Marketo erstellen? {#can-i-create-accounts-from-marketo}
 
-Meistens nein. Wenn Sie jedoch die [Person konvertieren](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md) einen Schritt auf eine Person zu verschieben, wird ein neuer Kontakt, ein neues Konto und eine neue Chance erstellt.
+Meistens nein. Wenn Sie jedoch die [Person konvertieren](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md){target="_blank"} einen Schritt auf eine Person zu verschieben, wird ein neuer Kontakt, ein neues Konto und eine neue Chance erstellt.
 
 >[!CAUTION]
 >

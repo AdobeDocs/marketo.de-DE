@@ -3,10 +3,10 @@ description: 'Schritt 1 von 3: Hinzufügen von Marketo-Feldern zum VEC CRM - Mar
 title: 'Schritt 1 von 3: Hinzufügen von Marketo-Feldern zum VEC CRM'
 exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
 feature: Veeva CRM
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
 source-wordcount: '533'
-ht-degree: 7%
+ht-degree: 8%
 
 ---
 
@@ -14,9 +14,9 @@ ht-degree: 7%
 
 >[!PREREQUISITES]
 >
->Ihre VEE CRM-Instanz muss Zugriff auf Salesforce-APIs haben, um Daten zwischen Marketo Engage und VEE CRM zu synchronisieren.
+>Ihre VEE-CRM-Instanz muss Zugriff auf Salesforce-APIs haben, um Daten zwischen Marketo Engage und VEeva CRM zu synchronisieren.
 
-Marketo Engage verwendet eine Reihe von Feldern, um bestimmte Arten von Marketing-bezogenen Informationen zu erfassen. Wenn Sie diese Daten im Vevar CRM wünschen, folgen Sie bitte den unten stehenden Anweisungen.
+Marketo Engage verwendet eine Reihe von Feldern, um bestimmte Arten von Marketinginformationen zu erfassen. Wenn Sie diese Daten im Vevar CRM wünschen, folgen Sie bitte den unten stehenden Anweisungen.
 
 `1.` Erstellen Sie ein benutzerdefiniertes Feld im VEE-CRM für die Kontaktobjekte: Punktzahl
 
@@ -30,35 +30,35 @@ Fügen Sie ein benutzerdefiniertes Feld zu den Lead- und Kontaktobjekten im oben
 
 Führen Sie die folgenden Schritte aus, um das Feld Punktzahl hinzuzufügen.
 
-1. Melden Sie sich im Vevar CRM an und klicken Sie auf **Einrichtung**.
+1. Melden Sie sich im Vevar CRM an und klicken Sie auf **[!UICONTROL Einrichtung]**.
 
    ![](assets/step-1-of-3-add-marketo-fields-1.png)
 
-1. Klicken Sie auf &quot;Objekte und Felder&quot;und wählen Sie &quot;Objekt-Manager&quot;.
+1. Klicks **[!UICONTROL Objekte und Felder]** und wählen **[!UICONTROL Object Manager]**.
 
    ![](assets/step-1-of-3-add-marketo-fields-2.png)
 
-1. Suchen Sie in der Suchleiste nach Kontakt .
+1. Suchen Sie in der Suchleiste nach &quot;Kontakt&quot;.
 
    ![](assets/step-1-of-3-add-marketo-fields-3.png)
 
-1. Klicken Sie auf das Objekt Kontakt .
+1. Klicken Sie auf **[!UICONTROL Kontakt]** -Objekt.
 
-1. Wählen Sie Felder und Beziehungen aus.
+1. Auswählen **[!UICONTROL Felder und Beziehungen]**.
 
-1. Klicks **Neu**.
+1. Klicks **[!UICONTROL Neu]**.
 
    ![](assets/step-1-of-3-add-marketo-fields-4.png)
 
-1. Wählen Sie den entsprechenden Feldtyp aus (für Punktzahl — Zahl).
+1. Wählen Sie den entsprechenden Feldtyp aus (für Punktzahl - Zahl).
 
    ![](assets/step-1-of-3-add-marketo-fields-5.png)
 
-1. Klicks **Nächste**.
+1. Klicken Sie auf **[!UICONTROL Weiter]**.
 
    ![](assets/step-1-of-3-add-marketo-fields-6.png)
 
-1. Geben Sie den Feldtitel, die Länge und den Feldnamen für das Feld ein, wie in der folgenden Tabelle dargestellt.
+1. Geben Sie die **[!UICONTROL Feldbezeichnung]**, **[!UICONTROL Länge]**, und **[!UICONTROL Feldname]** für das Feld, wie in der folgenden Tabelle dargestellt.
 
 <table>
  <tbody>
@@ -88,11 +88,11 @@ Dezimalstellen 0</td>
 >
 >Text- und Zahlenfelder erfordern eine Länge, Datums-/Uhrzeitfelder jedoch nicht. Eine Beschreibung ist optional.
 
-1. Klicks **Nächste**.
+1. Klicken Sie auf **[!UICONTROL Weiter]**.
 
    ![](assets/step-1-of-3-add-marketo-fields-8.png)
 
-1. Geben Sie die Zugriffseinstellungen an und klicken Sie auf **Nächste**.
+1. Geben Sie die Zugriffseinstellungen an und klicken Sie auf **[!UICONTROL Nächste]**.
 
 1. Setzen Sie alle Rollen auf &quot;Sichtbar&quot;und &quot;Schreibgeschützt&quot;.
 
@@ -105,9 +105,9 @@ Dezimalstellen 0</td>
 
 1. Wählen Sie die Seitenlayouts aus, die das Feld anzeigen sollen.
 
-1. Klicks **Speichern und Neu** , um die beiden anderen benutzerdefinierten Felder zu erstellen.
+1. Klicks **[!UICONTROL Speichern und Neu]** , um die beiden anderen benutzerdefinierten Felder zu erstellen.
 
-1. Klicks **Speichern** wenn Sie mit allen drei fertig sind.
+1. Klicks **[!UICONTROL Speichern]** wenn du mit allen drei fertig bist.
 
    ![](assets/step-1-of-3-add-marketo-fields-10.png)
 
