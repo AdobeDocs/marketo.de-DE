@@ -4,10 +4,10 @@ description: Flussschritt für SMS hinzufügen - Marketo-Dokumente - Produktdoku
 title: Flussschritt für SMS hinzufügen
 exl-id: 8e96f6ad-43c9-4d64-8cb6-241664956d72
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: cd09ad43c08855af63131aa385c4fd406c963926
 workflow-type: tm+mt
 source-wordcount: '283'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -32,9 +32,9 @@ Hier finden Sie die Grundlagen zur Verwendung von SMS.
 
 1. Klicken Sie in My Marketo auf **Marketingaktivitäten**.
 
-   ![](assets/image2016-7-28-11-3a41-3a17.png)
+   ![](assets/add-a-flow-step-for-sms-1.png)
 
-1. Suchen Sie die Smart-Kampagne, der Sie den SMS-Fluss hinzufügen möchten. Klicken Sie auf die Registerkarte **“Flow“**.
+1. Suchen Sie die Smart-Kampagne, der Sie den SMS-Fluss hinzufügen möchten. Klicken Sie auf **Fluss** Registerkarte.
 
    ![](assets/image2016-7-28-11-3a43-3a41.png)
 

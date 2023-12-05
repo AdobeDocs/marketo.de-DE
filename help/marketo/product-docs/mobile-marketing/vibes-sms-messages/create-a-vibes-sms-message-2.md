@@ -4,9 +4,9 @@ title: Erstellen einer Video-SMS
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 2dc19295bcea7efc38b7bf50ee802335bff8b12c
+source-git-commit: cd09ad43c08855af63131aa385c4fd406c963926
 workflow-type: tm+mt
-source-wordcount: '372'
+source-wordcount: '441'
 ht-degree: 3%
 
 ---
@@ -53,7 +53,7 @@ So erstellen Sie eine Vibes-SMS-Nachricht:
 
    >[!NOTE]
    >
-   >Die Beschränkungen für die USA und Kanada unterscheiden sich bei 160 bzw. 130 Zeichen. Wenn Sie diese Zeichenbeschränkungen überschreiten, kann Ihre Nachricht aufgeteilt werden. Während wir anzeigen, wenn Sie die kanadische Grenze überschreiten, ist der Editor für die USA optimiert und teilt die Nachricht auf der Grundlage der US-Grenze auf.
+   >Die Zeichenbeschränkung für eine SMS-Nachricht beträgt 160 Zeichen, die dem standardmäßigen ASCII-Zeichensatz entsprechen. Bei mehr als 160 Zeichen wird die Nachricht auf der Grundlage der Gesamtzahl der Zeichen aufgeteilt.
 
 1. Klicks **Token** im Menü Einfügen , um Ihrer Nachricht ein Token hinzuzufügen.
 
@@ -61,7 +61,13 @@ So erstellen Sie eine Vibes-SMS-Nachricht:
 
    >[!NOTE]
    >
-   >Durch das Hinzufügen eines Tokens kann die Nachricht u. U. die erlaubte Zeichenanzahl überschreiten. Die Nachricht wird dann aufgeteilt, was zu zusätzlichen Gebühren führt.
+   >Durch das Hinzufügen eines Tokens kann die Nachricht u. U. die erlaubte Zeichenanzahl überschreiten. Die Nachricht wird dann aufgeteilt, was zu zusätzlichen Nachrichten führt.
+
+   >[!IMPORTANT]
+   >
+   >SMS-Kompatibilität: Alle ausgehenden SMS-Nachrichten müssen den Namen der Marke oder die Beschreibung des Programms enthalten. HILFE- und STOP-Anweisungen sollten mindestens einmal monatlich pro Abonnent für wiederkehrende Nachrichtenprogramme bereitgestellt werden.
+
+   ??????? Wenn Sie den Marketo URL Shortener verwenden, werden in Ihrer Nachricht X Zeichen verwendet??????
 
 1. Klicks **Link** im Menü Einfügen , um Ihrer Nachricht einen Link hinzuzufügen.
 
@@ -73,11 +79,16 @@ So erstellen Sie eine Vibes-SMS-Nachricht:
 
    >[!NOTE]
    >
-   >Die beiden Tracking-Links sind standardmäßig ausgewählt.
+   >* Die beiden Tracking-Links sind standardmäßig ausgewählt.
+   >* Die Verwendung des Marketo URL Shortener führt dazu, dass in Ihrer Nachricht X Zeichen verwendet werden.????????????????????
 
 1. Wenn Sie stattdessen eine externe URL verwenden möchten, klicken Sie auf die **Externe URL** und geben Sie die URL in das Feld URL ein. Klicken Sie auf **Einfügen**.
 
    ![](assets/insert-link-url-hands.jpg)
+
+   >[!CAUTION]
+   >
+   >Es wird empfohlen, _not_ Verwenden Sie URL-Shorteners (z. B. Bitly), da die Provider Ihre Nachricht als Spam kennzeichnen können.
 
 1. Der Link wird in der Nachricht angezeigt.
 
@@ -94,3 +105,5 @@ So erstellen Sie eine Vibes-SMS-Nachricht:
    >Die Zeichenzahl spiegelt nur die Zeichen wider, die in der niedrigsten Nachricht enthalten sind.
 
 Wenn Sie mehr als die US-Grenze einfügen, unterteilt der Editor Ihre Nachricht in Abschnitte. Es gibt eine absolute Gesamtbeschränkung von 900 Zeichen. Nach Erreichen dieses Grenzwerts wird die Nachricht beim Versand an die Audience automatisch abgeschnitten.
+
+IST??????

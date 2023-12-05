@@ -4,16 +4,16 @@ description: Erstellen eines benutzerdefinierten Synchronisierungsfilters für D
 title: Erstellen eines benutzerdefinierten Synchronisierungsfilters für Dynamics
 exl-id: 6b0d878a-9c55-4e73-9923-11140e83bb37
 feature: Microsoft Dynamics
-source-git-commit: a9aa55184a7971d3c82d106481f1f83593a7dd99
+source-git-commit: cd09ad43c08855af63131aa385c4fd406c963926
 workflow-type: tm+mt
-source-wordcount: '799'
+source-wordcount: '818'
 ht-degree: 0%
 
 ---
 
 # Erstellen eines benutzerdefinierten Synchronisierungsfilters für Dynamics {#create-a-custom-dynamics-sync-filter}
 
-Möchten Sie nicht alles in Ihrem Dynamics CRM mit Marketo synchronisieren? Mach dir keine Sorgen! Mit Marketo können Sie einen Synchronisierungsfilter einrichten und nur einen Teil Ihrer Datensätze synchronisieren.
+Möchten Sie nicht alles in Ihrem Dynamics CRM mit Marketo Engage synchronisieren? Mach dir keine Sorgen! Mit Marketo können Sie einen Synchronisierungsfilter einrichten und nur einen Teil Ihrer Datensätze synchronisieren.
 
 ## Überblick {#overview}
 
@@ -26,7 +26,7 @@ Sie müssen diese Änderungen in Dynamics CRM vornehmen, nicht in Ihrer Datenban
 
 >[!CAUTION]
 >
->Wenn Sie das Feld nicht zuweisen und leer/NULL lassen, wird es zwar heruntersynchronisiert, aber nicht aktualisiert.
+>Wenn Sie das Feld nicht zuweisen und leer/NULL lassen, wird es zwar heruntersynchronisiert, aber nicht aktualisiert. Datensätze mit einem Feldwert leer/NULL in Dynamics CRM zeigen diesen Feldwert in Marketo als &quot;false&quot;.
 
 Marketo sucht bei der automatischen Hintergrundsynchronisierung nach diesem Feld und bestimmt anhand dieser Logik, über welche Datensätze synchronisiert werden sollen:
 

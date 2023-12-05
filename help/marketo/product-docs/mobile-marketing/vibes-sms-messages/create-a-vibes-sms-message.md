@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11378869
 description: Erstellen einer Video-SMS-Nachricht - Marketo Docs - Produktdokumentation
-title: Erstellen einer Video-SMS-Nachricht
+title: Erstellen einer Video-SMS
 exl-id: 9ec0da97-7a80-4c40-be79-be08d7d1d9c1
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: cd09ad43c08855af63131aa385c4fd406c963926
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '377'
 ht-degree: 3%
 
 ---
 
-# Erstellen einer Video-SMS-Nachricht {#create-a-vibes-sms-message}
+# Erstellen einer Video-SMS {#create-a-vibes-sms-message}
 
 So erstellen Sie eine Vibes-SMS-Nachricht:
 
@@ -27,15 +27,15 @@ So erstellen Sie eine Vibes-SMS-Nachricht:
 
    ![](assets/mobile-right-click-hand.jpg)
 
-1. Klicken **Neues lokales Asset**.
+1. Klicks **Neues lokales Asset**.
 
    ![](assets/new-local-asset-hand.jpg)
 
    >[!TIP]
    >
-   >Alternativ können Sie auf die **Neu** Dropdown-Liste.
+   >Alternativ können Sie auf die **Neu** angezeigt.
 
-1. Klicken **SMS-Nachricht**.
+1. Klicks **SMS-Nachricht**.
 
    ![](assets/new-local-asset-selection-hand.jpg)
 
@@ -43,7 +43,7 @@ So erstellen Sie eine Vibes-SMS-Nachricht:
 
    ![](assets/new-sms-message-offer-ends-soon-hands.jpg)
 
-1. Klicken **Entwurf bearbeiten**.
+1. Klicks **Entwurf bearbeiten**.
 
    ![](assets/edit-draft-hand.jpg)
 
@@ -55,7 +55,7 @@ So erstellen Sie eine Vibes-SMS-Nachricht:
    >
    >Die Beschränkungen für die USA und Kanada unterscheiden sich bei 160 bzw. 130 Zeichen. Wenn Sie diese Zeichenbeschränkungen überschreiten, kann Ihre Nachricht aufgeteilt werden. Während wir anzeigen, wenn Sie die kanadische Grenze überschreiten, ist der Editor für die USA optimiert und teilt die Nachricht auf der Grundlage der US-Grenze auf.
 
-1. Klicken **Token** im Menü Einfügen , um Ihrer Nachricht ein Token hinzuzufügen.
+1. Klicks **Token** im Menü Einfügen , um Ihrer Nachricht ein Token hinzuzufügen.
 
    ![](assets/add-token-real-hand.jpg)
 
@@ -63,7 +63,7 @@ So erstellen Sie eine Vibes-SMS-Nachricht:
    >
    >Durch das Hinzufügen eines Tokens kann die Nachricht u. U. die erlaubte Zeichenanzahl überschreiten. Die Nachricht wird dann aufgeteilt, was zu zusätzlichen Gebühren führt.
 
-1. Klicken **Link** im Menü Einfügen , um Ihrer Nachricht einen Link hinzuzufügen.
+1. Klicks **Link** im Menü Einfügen , um Ihrer Nachricht einen Link hinzuzufügen.
 
    ![](assets/full-message-link-hand.jpg)
 

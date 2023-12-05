@@ -4,7 +4,7 @@ description: Verwenden von Video-SMS-Nachrichten in Triggern und Filtern mit int
 title: Verwenden von Screens-SMS-Nachrichten in Triggern und Filtern mit Smart-Liste
 exl-id: 9a629a39-fddc-4ec5-b1c5-d5053d676594
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: cd09ad43c08855af63131aa385c4fd406c963926
 workflow-type: tm+mt
 source-wordcount: '281'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Nach [Erstellen einer Vibes-SMS-Nachricht](/help/marketo/product-docs/mobile-mar
 
 1. Klicken Sie in My Marketo auf **Marketingaktivitäten**.
 
-   ![](assets/image2016-7-28-9-3a48-3a32.png)
+   ![](assets/use-vibes-sms-messages-in-smart-list-triggers-and-filters-1.png)
 
 1. Wählen Sie eine Smart-Kampagne aus, in der Sie Ihr SMS-Asset verwenden möchten. Ziehen Sie über einen Trigger, z. B. die beliebte **Formular ausfüllen**.
 
