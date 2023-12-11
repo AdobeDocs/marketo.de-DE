@@ -4,20 +4,34 @@ title: Flussschritt für SMS hinzufügen
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: cd09ad43c08855af63131aa385c4fd406c963926
+source-git-commit: cf4dcb6a316eba631ccb73a991c09e83c80b82ca
 workflow-type: tm+mt
-source-wordcount: '373'
-ht-degree: 0%
+source-wordcount: '377'
+ht-degree: 2%
 
 ---
 
 # Flussschritt für SMS hinzufügen {#add-a-flow-step-for-sms}
 
-Marketo Engage verfügt über drei Flussprotokolle, die Sie in Ihren SMS-Smart-Kampagnen verwenden können:
+Marketo Engage verfügt über drei Flussschritte, die Sie in Ihren SMS-Smart-Kampagnen verwenden können:
 
-* **SMS-Nachricht senden** - Diese FlusAktion sendet Nachrichten an Personen aus der Marketo-Smart-Liste, die sich für eine angemeldete Vibes-Abonnementliste eines Benutzers angemeldet haben. Der Abonnementprozess wird nicht initiiert.
-* **Abonnieren der Vibes-Liste** - Mit dieser Flussaktion wird der SMS-Abonnementprozess über eine benutzerdefinierte Vibes Acquisition Campaign gestartet. Vibes sendet dann eine Bestätigungsnachricht. Der Empfänger muss &quot;Y&quot;an ihn senden, um die Anmeldung innerhalb von 24 Stunden zu bestätigen. Nachdem sich der Benutzer angemeldet hat, wird er Mitglied Ihrer zugehörigen Vibes-Abonnementliste.
-* **Abmeldung von der Vibes-Liste** - Mit dieser Flussaktion wird die Anmeldung jeder Person von einer angemeldeten Benutzer-Abonnementliste für Vibes aufgehoben. Wenn ein Benutzer &quot;stop&quot;in Ihren Code schreibt, wird sein Personendatensatz aktualisiert, um anzuzeigen, dass er nicht mehr Mitglied der Vibes-Abonnementliste ist.
+<table>
+<tbody>
+  <tr>
+    <td style="width:25%">SMS-Nachricht senden</td>
+    <td>Mit dieser Flussaktion werden Nachrichten an Personen aus der Smart-Liste von Marketo gesendet, die sich für eine angemeldete Abonnementliste von Vibes angemeldet haben. Der Abonnementprozess wird nicht initiiert. <a href="/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-a-vibes-sms-message.md">Weitere Infos</a>.</td>
+  </tr>
+
+<tr>
+    <td style="width:25%">Vibes-Liste abonnieren</td>
+    <td>Mit dieser Flussaktion wird der SMS-Abonnementprozess über eine vom Benutzer ausgewählte Vibes-Akquise-Kampagne initiiert. Vibes sendet dann eine Bestätigungsnachricht und der Empfänger muss innerhalb von 24 Stunden mit "Y"antworten, um die Anmeldung zu bestätigen. Nachdem sich der Benutzer angemeldet hat, wird er Mitglied Ihrer zugehörigen Vibes-Abonnementliste.</td>
+  </tr>
+  <tr>
+    <td style="width:25%">Von Vibes-Liste abmelden</td>
+    <td>Mit dieser Flussaktion wird die Anmeldung jeder Person von einer angemeldeten Benutzer-Abonnementliste für Vibes aufgehoben. Wenn ein Benutzer "STOP"in Ihren Code schreibt, wird sein Personendatensatz aktualisiert, um anzuzeigen, dass er nicht mehr Mitglied der Vibes-Abonnementliste ist.</td>
+  </tr>
+  </tbody>
+</table>
 
 >[!NOTE]
 >

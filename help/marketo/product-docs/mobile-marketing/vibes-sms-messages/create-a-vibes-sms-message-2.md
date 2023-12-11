@@ -4,10 +4,10 @@ title: Erstellen einer Video-SMS
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: cd09ad43c08855af63131aa385c4fd406c963926
+source-git-commit: cf4dcb6a316eba631ccb73a991c09e83c80b82ca
 workflow-type: tm+mt
-source-wordcount: '441'
-ht-degree: 3%
+source-wordcount: '451'
+ht-degree: 2%
 
 ---
 
@@ -19,72 +19,65 @@ So erstellen Sie eine Vibes-SMS-Nachricht:
 >
 >Diese Funktion ist als Add-on für Ihr Adobe Marketo Engage-Konto verfügbar. Damit sie ordnungsgemäß bereitgestellt werden kann, muss sie über Adobe erworben werden. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Navigieren Sie zu **[!UICONTROL Marketingaktivitäten]**.
 
-   ![](assets/mobile-right-click-hand.jpg)
+   ![](assets/create-a-vibes-sms-message-1.png)
 
-1. Klicken Sie mit der rechten Maustaste auf ein Programm und wählen Sie **Neues lokales Asset**.
+1. Klicken Sie mit der rechten Maustaste auf das gewünschte Programm und wählen Sie **[!UICONTROL Neues lokales Asset]**.
 
-   ![](assets/mobile-right-click-hand.jpg)
+   ![](assets/create-a-vibes-sms-message-2.png)
 
-1. Klicks **Neues lokales Asset**.
+1. Auswählen **SMS-Nachricht**.
 
-   ![](assets/new-local-asset-hand.jpg)
-
-   >[!TIP]
-   >
-   >Alternativ können Sie auf die **Neu** angezeigt.
-
-1. Klicks **SMS-Nachricht**.
-
-   ![](assets/new-local-asset-selection-hand.jpg)
+   ![](assets/create-a-vibes-sms-message-3.png)
 
 1. Geben Sie einen Namen und eine optionale Beschreibung für die neue SMS-Nachricht ein und klicken Sie auf **Erstellen**.
 
-   ![](assets/new-sms-message-offer-ends-soon-hands.jpg)
+   ![](assets/create-a-vibes-sms-message-4.png)
 
-1. Klicks **Entwurf bearbeiten**.
+1. Klicken Sie im Editor in die blaue Blase und beginnen Sie mit der Texteingabe.
 
-   ![](assets/edit-draft-hand.jpg)
-
-1. Klicken Sie im Nachrichteneditor in die blaue Blase und beginnen Sie mit der Texteingabe.
-
-   ![](assets/message-text-pencil.jpg)
+   ![](assets/create-a-vibes-sms-message-5.png)
 
    >[!NOTE]
    >
    >Die Zeichenbeschränkung für eine SMS-Nachricht beträgt 160 Zeichen, die dem standardmäßigen ASCII-Zeichensatz entsprechen. Bei mehr als 160 Zeichen wird die Nachricht auf der Grundlage der Gesamtzahl der Zeichen aufgeteilt.
 
-1. Klicks **Token** im Menü Einfügen , um Ihrer Nachricht ein Token hinzuzufügen.
+1. Um Ihrer Nachricht ein Token hinzuzufügen, schreiben Sie eine schnelle Begrüßung und klicken Sie auf **Token**.
 
-   ![](assets/add-token-real-hand.jpg)
+   ![](assets/create-a-vibes-sms-message-6.png)
 
    >[!NOTE]
    >
-   >Durch das Hinzufügen eines Tokens kann die Nachricht u. U. die erlaubte Zeichenanzahl überschreiten. Die Nachricht wird dann aufgeteilt, was zu zusätzlichen Nachrichten führt.
+   >Durch das Hinzufügen eines Tokens kann die Nachricht u. U. die erlaubte Zeichenanzahl überschreiten. Die Nachricht wurde dann aufgeteilt und eine zusätzliche Nachricht erstellt.
 
    >[!IMPORTANT]
    >
    >SMS-Kompatibilität: Alle ausgehenden SMS-Nachrichten müssen den Namen der Marke oder die Beschreibung des Programms enthalten. HILFE- und STOP-Anweisungen sollten mindestens einmal monatlich pro Abonnent für wiederkehrende Nachrichtenprogramme bereitgestellt werden.
 
-   ??????? Wenn Sie den Marketo URL Shortener verwenden, werden in Ihrer Nachricht X Zeichen verwendet??????
+1. Wählen Sie die gewünschte **Token**, geben Sie einen optionalen **Standardwert** und klicken Sie auf **Erstellen**.
 
-1. Klicks **Link** im Menü Einfügen , um Ihrer Nachricht einen Link hinzuzufügen.
+   ![](assets/create-a-vibes-sms-message-7.png)
 
-   ![](assets/full-message-link-hand.jpg)
+1. Um einen Link hinzuzufügen, wählen Sie aus, wo in der Nachricht der Link angezeigt werden soll, und klicken Sie auf **Link**.
 
-1. Wählen Sie einen Link-Typ aus. Marketo-Landingpage ist die Standardeinstellung. Wenn Sie damit fertig sind, müssen Sie die Landingpage aus der Dropdown-Liste auswählen und auf **Einfügen**.
+   ![](assets/create-a-vibes-sms-message-8.png)
 
-   ![](assets/insert-link-real-hands.jpg)
+1. Wählen Sie einen Link-Typ aus. Marketo-Landingpage ist die Standardeinstellung. Wenn Sie damit fertig sind, klicken Sie auf das Dropdown-Menü Landingpage und wählen Sie die gewünschte Seite aus. Klicks **Einfügen** wann geschehen.
+
+   ![](assets/create-a-vibes-sms-message-9.png)
 
    >[!NOTE]
    >
-   >* Die beiden Tracking-Links sind standardmäßig ausgewählt.
-   >* Die Verwendung des Marketo URL Shortener führt dazu, dass in Ihrer Nachricht X Zeichen verwendet werden.????????????????????
+   >Die beiden Tracking-Links sind standardmäßig ausgewählt. Wenn Sie die Option Nur mkt_tok einschließen deaktivieren, kann der Link weiterhin verfolgt werden. Nach der Umleitung enthält die Ziel-URL jedoch nicht den Abfragezeichenfolgenparameter mkt_tok. Dieser Parameter wird von Marketo-Einstiegsseiten und Munchkin verwendet, um eine ordnungsgemäße Verfolgung der Personenaktivitäten sicherzustellen (z. B. wenn sich eine Person abmeldet).
 
-1. Wenn Sie stattdessen eine externe URL verwenden möchten, klicken Sie auf die **Externe URL** und geben Sie die URL in das Feld URL ein. Klicken Sie auf **Einfügen**.
+1. Wenn Sie stattdessen eine externe URL verwenden möchten, wählen Sie **Externe URL**, geben Sie die URL ein/fügen Sie sie ein und klicken Sie auf **Einfügen**.
 
-   ![](assets/insert-link-url-hands.jpg)
+   ![](assets/create-a-vibes-sms-message-10.png)
+
+   >[!NOTE]
+   >
+   >Wenn Sie die Option &quot;Link verfolgen&quot;beibehalten, ändert Marketo die URL automatisch zu Tracking-Zwecken. Wenn Sie die Verfolgung deaktivieren, wird die URL unverändert in der Nachricht angezeigt (z. B. `www.adobe.com`).
 
    >[!CAUTION]
    >
@@ -92,18 +85,10 @@ So erstellen Sie eine Vibes-SMS-Nachricht:
 
 1. Der Link wird in der Nachricht angezeigt.
 
-   ![](assets/link-added.jpg)
+   ![](assets/create-a-vibes-sms-message-11.png)
 
    >[!NOTE]
    >
-   >Marketo zeigt eine Link-Vorschau der Marken-Tracking-Domäne an. Wenn Sie das Kontrollkästchen &quot;mkt_tok&quot;-Link deaktivieren, wird der Link geändert. Deaktivieren Sie auch das Kontrollkästchen Link verfolgen , und die URL wird auf die Standardlänge gekürzt (z. B. www.mygooglepage.com).
+   >Marketo zeigt eine Link-Vorschau der Marken-Tracking-Domäne an. Wenn Sie das Kontrollkästchen &quot;mkt_tok&quot;-Link deaktivieren, wird der Link geändert.
 
-   ![](assets/image2016-7-27-16-3a20-3a16.png)
-
-   >[!NOTE]
-   >
-   >Die Zeichenzahl spiegelt nur die Zeichen wider, die in der niedrigsten Nachricht enthalten sind.
-
-Wenn Sie mehr als die US-Grenze einfügen, unterteilt der Editor Ihre Nachricht in Abschnitte. Es gibt eine absolute Gesamtbeschränkung von 900 Zeichen. Nach Erreichen dieses Grenzwerts wird die Nachricht beim Versand an die Audience automatisch abgeschnitten.
-
-IST??????
+Wenn Sie mehr als 160 Zeichen einfügen, unterteilt der Editor Ihre SMS in Abschnitte. Es gibt eine Gesamtbeschränkung von 900 Zeichen pro Nachricht. Wenn Sie diese Anzahl überschreiten, wird die Nachricht beim Versand abgeschnitten.
