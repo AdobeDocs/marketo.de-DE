@@ -1,9 +1,9 @@
 ---
 description: Versionshinweise - März 2023 - Marketo-Dokumente - Produktdokumentation
 title: März 2023 - Versionshinweise
-exl-id: 3074beee-e223-4794-8714-7d78e9d2d4eb
+exl-id: f07abfef-5740-4380-9ca9-069a323486eb
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: d4bd94b22b4f9da993150a94d2757014cbf87d80
 workflow-type: tm+mt
 source-wordcount: '582'
 ht-degree: 7%
@@ -16,7 +16,7 @@ Unten finden Sie alle Funktionen der Version vom 23. März. Überprüfen Sie Ihr
 
 >[!AVAILABILITY]
 >
->Mit einem Stern (![star](assets/yellow-star.png)) sind kostenpflichtige Add-ons. Weitere Informationen erhalten Sie von Ihrem Marketo Engage-Support-Mitarbeiter.
+>Mit einem Stern (![star](assets/yellow-star.png)) sind kostenpflichtige Add-ons. Wenden Sie sich an Ihren Marketo Engage-Support-Mitarbeiter, um mehr zu erfahren.
 
 ## Standardfunktionen des Versionszyklus {#standard-release-cycle-features}
 
@@ -94,7 +94,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
 
 </br>
 
-* **Dialog Interaktionsbericht für Dynamic Chat**: Bietet einen Überblick über die Interaktion des Dialogfelds im Zeitverlauf, einschließlich der Möglichkeit, nach Besuchertyp und Interaktionstyp zu filtern, um eine bessere Sichtbarkeit für Benutzer zu gewährleisten.
+* **Dialoginteraktionsbericht für Dynamic Chat**: Bietet einen Überblick über die Interaktion des Dialogfelds im Zeitverlauf, einschließlich der Möglichkeit, nach Besuchertyp und Interaktionstyp zu filtern, um eine bessere Sichtbarkeit für Benutzer zu gewährleisten.
 
 <table> 
   <tr> 
@@ -108,7 +108,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
   </tbody>
 </table>
 
-* **Rollen und Berechtigungen für Dynamic Chat**: Führt Rollen und Berechtigungen für Dynamic Chat ein, sodass Administratoren die Sichtbarkeit und Nutzung verschiedener Bereiche der App auf ausgewählte Benutzertypen beschränken können.
+* **Rollen und Berechtigungen für Dynamic Chat**: Führt Rollen und Berechtigungen zum Dynamic Chat ein, sodass Administratoren die Sichtbarkeit und Nutzung verschiedener Bereiche der App auf ausgewählte Benutzertypen beschränken können.
 
 <table> 
   <tr> 
@@ -122,7 +122,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
   </tbody>
 </table>
 
-* **Chat als Programmkanal für Dynamic Chat**: Erstellt einen neuen &quot;Chat&quot;-Programmkanal, um den Programmfortschritt für die durch Dynamic Chat erworbenen Personen zu verfolgen. Beispielsweise verfügt ein Marketingspezialist über ein Programm, das mit einem Dynamic Chat-Dialogfeld verknüpft ist, um neue Leads zu erfassen. Sie können dieses Programm nun dem Chat-Kanal zuweisen, damit sie verfolgen können, wann Leads Mitglieder des Programms sind und wann sie erfolgreich waren.
+* **Chat als Programmkanal für Dynamic Chat**: Erstellt einen neuen &quot;Chat&quot;-Programmkanal zur Verfolgung des Programmfortschritts für durch Dynamic Chat erworbene Personen. Beispielsweise verfügt ein Marketingspezialist über ein Programm, das mit einem Dynamic Chat-Dialog verknüpft ist, um neue Leads zu erfassen. Sie können dieses Programm nun dem Chat-Kanal zuweisen, damit sie verfolgen können, wann Leads Mitglieder des Programms sind und wann sie erfolgreich waren.
 
 <table> 
   <tr> 
@@ -136,7 +136,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
   </tbody>
 </table>
 
-* **Abgeleitete Attribute für Dynamic Chat**: Stellt sicher, dass die verwiesenen IP-Daten (Stadt, Bundesland, Land usw.) wird in den Personendatensatz für neue Personen geschrieben, die durch Dynamic Chat erworben wurden.
+* **Abgeleitete Attribute für Dynamic Chat**: Stellt sicher, dass die verwiesenen IP-Daten (Stadt, Bundesland, Land usw.) ist in den Personendatensatz für neue Personen geschrieben, die durch Dynamic Chat erworben wurden.
 
 <table> 
   <tr> 
@@ -180,4 +180,4 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
 
 ## Ankündigungen {#announcements}
 
-* **_Webinar zur Produktversion_**: [Webinar zur Marketo Engage-Version vom März und Mai 2023](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}
+* **_Webinar zur Produktversion_**: [Webinar zur Marketo Engage-Version März und Mai 2023](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}
