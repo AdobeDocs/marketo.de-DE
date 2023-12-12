@@ -2,11 +2,11 @@
 description: September 2023 - Versionshinweise - Marketo-Dokumente - Produktdokumentation
 title: September 2023 - Versionshinweise
 feature: Release Information
-exl-id: fe00a1cf-c4bd-4513-bd39-ed81ea02c23d
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 5a3a5b9f-73d8-4227-9e75-62852833619b
+source-git-commit: 40fe81d465d04be97ae5e216250b7e06e6d3791e
 workflow-type: tm+mt
-source-wordcount: '937'
-ht-degree: 5%
+source-wordcount: '922'
+ht-degree: 4%
 
 ---
 
@@ -248,8 +248,8 @@ Alle unten aufgeführten Funktionen entsprechen dem Agile-Format und werden an v
   </tr>
     <tr> 
    <td><strong>Seite "Konversationsfluss - Asset"</strong>: Auf der Seite "Design Studio Asset"werden jetzt Dynamic Chat-Konversationsflüsse aufgelistet. Ermitteln Sie, welche Flüsse direkt in Marketo Engage-Assets integriert werden können und Deeplink zum Editor.</td> 
-   <td><i>Demnächst verfügbar</i></td>
-   <td><i>Demnächst verfügbar</i></td>
+   <td>Versendet</td>
+   <td>Nicht zutreffend</td>
   </tr>
   <tr> 
    <td> </td> 

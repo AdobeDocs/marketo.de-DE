@@ -4,10 +4,10 @@ description: Installieren des Marketo-E-Mail-Add-ins für Outlook mit einem Regi
 title: Installieren des Marketo-E-Mail-Add-ins für Outlook mit einem Registrierungs-Code
 exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
 feature: Marketo Sales Insights
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 40fe81d465d04be97ae5e216250b7e06e6d3791e
 workflow-type: tm+mt
-source-wordcount: '516'
-ht-degree: 5%
+source-wordcount: '491'
+ht-degree: 4%
 
 ---
 
@@ -41,18 +41,22 @@ Wenn Sie keine Einladungs-E-Mail erhalten haben, bitten Sie Ihren Marketo-Admini
 
    | Outlook-Version | 32-Bit-Outlook | 64-Bit-Outlook |
    |---|---|---|
-   | Outlook 2000 | Nicht unterstützt | n.z |
-   | Outlook 2003 | [Download](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | n.z |
-   | Outlook 2007 | [Download](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | n.z |
-   | Outlook 2010 | [Download](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Download](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook 2013 | [Download](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Download](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook 2016 | [Download](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Download](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook 2019 | [Download](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Download](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
+   | Outlook 2000 | Nicht unterstützt | Nicht zutreffend |
+   | Outlook 2003 | [Herunterladen](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | Nicht zutreffend |
+   | Outlook 2007 | [Herunterladen](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | Nicht zutreffend |
+   | Outlook 2010 | [Herunterladen](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Herunterladen](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
+   | Outlook 2013 | [Herunterladen](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Herunterladen](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
+   | Outlook 2016 | [Herunterladen](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Herunterladen](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
+   | Outlook 2019 | [Herunterladen](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Herunterladen](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
    | Outlook für Mac | Nicht unterstützt | Nicht unterstützt |
    | Outlook Web App | Nicht unterstützt | Nicht unterstützt |
-   | Office 365* | [Download](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Download](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
+   | Office 365* | [Herunterladen](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Herunterladen](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
 
    *Office 365-Version: Nur Windows-Client (unter Windows 10, Enterprise oder Pro).
+
+   >[!IMPORTANT]
+   >
+   >Microsoft hat eine [neue Outlook-Version für Windows](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"}. This new version does not support the existing MSI Outlook plugin. The MSI Outlook plugin will continue to work for Windows desktops running the classic version of Outlook. To learn more about the new Outlook for Windows for organizations, [click here](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}.
 
 ## Registrierungscode kopieren {#copy-your-registration-code}
 

@@ -4,9 +4,9 @@ description: Installieren Sie das Marketo-Add-in für Outlook mit einem Unterneh
 title: Installieren des Marketo-Add-ins für Outlook mit einem Unternehmensschlüssel
 exl-id: a44780d6-a360-4536-8913-31429cc32f65
 feature: Marketo Sales Insights
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 40fe81d465d04be97ae5e216250b7e06e6d3791e
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,11 @@ In vielen Fällen verfügen Vertriebsmitarbeiter nicht über Administratorrechte
 
 >[!NOTE]
 >
->Die Funktionen von Sales Insight-Aktionen, einschließlich &quot;E-Mail an Vertrieb senden&quot;, &quot;Zu Vertriebskampagne hinzufügen&quot;und &quot;Aufgaben&quot;, sind nicht in den E-Mail-Plugins für Sales Insight für Gmail und Outlook verfügbar. Derzeit können Benutzer von ihrem E-Mail-Client aus nur trackbare E-Mails mit oder ohne Marketo-E-Mail-Vorlage senden, wenn sie die Sales Insight-E-Mail-Plugins verwenden.
+>Die Funktionen von Sales Insight-Aktionen, einschließlich &quot;E-Mail an Vertrieb senden&quot;, &quot;Zu Vertriebskampagne hinzufügen&quot;und &quot;Aufgaben&quot;, sind nicht in den Sales Insight-E-Mail-Plugins für Gmail und Outlook verfügbar. Derzeit können Benutzer von ihrem E-Mail-Client aus nur trackbare E-Mails mit oder ohne Marketo-E-Mail-Vorlage senden, wenn sie die Sales Insight-E-Mail-Plugins verwenden.
+
+>[!IMPORTANT]
+>
+>Microsoft hat eine [neue Outlook-Version für Windows](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"}. This new version does not support the existing MSI Outlook plugin. The MSI Outlook plugin will continue to work for Windows desktops running the classic version of Outlook. To learn more about the new Outlook for Windows for organizations, [click here](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}.
 
 1. Klicken Sie in My Marketo auf **Admin** und dann **Sales Insight**.
 
@@ -31,7 +35,7 @@ In vielen Fällen verfügen Vertriebsmitarbeiter nicht über Administratorrechte
 
    ![](assets/image2016-7-25-14-3a23-3a57.png)
 
-1. Klicken **Unternehmensschlüssel anzeigen**.
+1. Klicks **Unternehmensschlüssel anzeigen**.
 
    ![](assets/image2016-7-25-14-3a35-3a38.png)
 
