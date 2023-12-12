@@ -3,16 +3,16 @@ description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokument
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 16c3e72e7b58c81d80f55f1f92ce89da49470035
+source-git-commit: b51f12d1f2526c5fa8ec9fc97621f3f55330a808
 workflow-type: tm+mt
-source-wordcount: '357'
-ht-degree: 5%
+source-wordcount: '565'
+ht-degree: 10%
 
 ---
 
-# Oktober 2023 - Versionshinweise {#release-notes-oct-23}
+# Januar 2024 - Versionshinweise {#release-notes-jan-24}
 
-Unten finden Sie alle Funktionen der Version vom 23. Oktober. Überprüfen Sie Ihre Adobe Marketo Engage-Edition auf Funktionsverfügbarkeit.
+Unten finden Sie alle Funktionen der Version vom 24. Januar. Überprüfen Sie Ihre Adobe Marketo Engage-Edition auf Funktionsverfügbarkeit.
 
 >[!AVAILABILITY]
 >
@@ -20,7 +20,7 @@ Unten finden Sie alle Funktionen der Version vom 23. Oktober. Überprüfen Sie I
 
 ## Standardfunktionen des Versionszyklus {#standard-release-cycle-features}
 
-Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab der Veröffentlichung auf **6. Oktober 2023**, mit einer stufenweisen Einführung der verbleibenden Funktionen in den darauffolgenden Wochen. Die Veröffentlichungsfunktionen und -daten können sich ändern. Bitte überprüfen Sie neben den einzelnen Funktionen nach ihrem Status.
+Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab der Veröffentlichung auf **12. Januar 2024**, mit einer stufenweisen Einführung der verbleibenden Funktionen in den darauffolgenden Wochen. Die Veröffentlichungsfunktionen und -daten können sich ändern. Bitte überprüfen Sie neben den einzelnen Funktionen nach ihrem Status.
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -29,10 +29,11 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
    <th style="width:10%">Status</th>
    <th style="width:25%">Dokumentation</th>
   </tr> 
-  <tr> 
-   <td><strong>Neues Design für die Berichtskonfiguration in moderner Benutzeroberfläche</strong>: Beim Einrichten eines Berichts-Assets verfügen Sie über eine <a href="https://nation.marketo.com/t5/product-blogs/analytic-modal-updates/ba-p/340321" target="_blank">neue Asset-Struktur</a> im Konfigurationsmenü sowie die Möglichkeit, nach dem erstellten und geänderten Datum zu filtern.</td> 
-   <td>Versendet</td>
-   <td>Nicht zutreffend</td>
+  </tr>
+    <tr> 
+   <td><strong>On-Demand-Webinare für interaktive Webinare</strong>: Mit On-Demand-Webinaren können Sie die Webinaraufzeichnung veröffentlichen und ihre Besuche/Uhren verfolgen. Dies hilft Ihnen, mehr Leads durch Registrierungspflichtige zu erhalten, die nicht am Webinar teilgenommen haben (keine Sendung), aber trotzdem daran interessiert sind, mehr Details zu erhalten und die Aufzeichnung anzuzeigen.</td> 
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -40,10 +41,11 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
    <td> </td>
   </tr>
   </tr>
-   <tr> 
-   <td><strong>Schrittdienst für die Berechnung des Formelflusses</strong>: Compute Formula Step Service, der auf einer Adobe IO Runtime-Plattform für die Verwendung mit Marketo Engage-Smart-Kampagnen erstellt wurde. Diejenigen mit IO-Laufzeit können den Dienst bereitstellen und in ihren Marketo Engage-Abonnements installieren, sodass sie Excel-ähnliche Formeln in Marketo Engage-Smart-Kampagnen berechnen können.</td> 
-   <td>Versendet</td>
-   <td><a href="https://nation.marketo.com/t5/product-documents/compute-formula-user-guide/ta-p/340633" target="_blank">Benutzerhandbuch zur Berechnung der Formel</a></td>
+  </tr>
+    <tr> 
+   <td><strong>Konversative Einstiegsseiten</strong>: Betten Sie einen Dynamic Chat-Konversationsfluss direkt in eine Marketo Engage-Landingpage ein, damit Besucher ein Treffen über Dynamic Chat planen können, ohne ein Formular ausfüllen oder mit einem Chat-Bot interagieren zu müssen.</td> 
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -51,11 +53,108 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
    <td> </td>
   </tr>
   </tr>
+   </tr>
+    <tr> 
+   <td><strong>Filterung der E-Mail-Bot-Aktivität</strong>: Verbessert die Erfassung von Bot-Aktivitäten für E-Mail-Interaktionen, indem Sie auswählen können, wie aggressiv die Filterung der Bot-Aktivitätserkennung sein soll.</td> 
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
+  </tr>
+ </tbody> 
+</table>
+<br/>
+
+## Agile Release-Funktionen {#agile-release-features}
+
+Alle unten aufgeführten Funktionen entsprechen dem Agile-Format und werden an verschiedenen Daten vor oder nach dem standardmäßigen Veröffentlichungsdatum veröffentlicht. Bitte überprüfen Sie neben den einzelnen Funktionen nach ihrem Status.
+
+### Sales Insight-Aktionen {#sales-insight-actions}
+
+![(Stern)](assets/yellow-star.png)
+
+<table style="border: 0px">
+ <tbody> 
+  <tr> 
+   <th style="width:65%">Funktion</th> 
+   <th style="width:15%">Status</th>
+   <th style="width:20%">Dokumentation</th>
+  </tr> 
+  </tr>
+    <tr> 
+   <td><strong>Fenster "Erstellen"erweitern</strong>: Das Fenster E-Mail erstellen komprimiert jetzt automatisch nicht verwendeten Speicherplatz, sodass mehr Platz im Editor verfügbar ist. Darüber hinaus kann das Fenster geöffnet und erweitert werden, sodass Benutzer so viel Platz haben, wie sie benötigen, um ihre E-Mails zu bearbeiten.</td> 
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
+  </tr>
+  </tbody> 
+</table>
+
+### Dynamic Chat {#dynamic-chat}
+
+<table style="border: 0px">
+ <tbody> 
+  <tr> 
+   <th style="width:65%">Funktion</th> 
+   <th style="width:15%">Status</th>
+   <th style="width:20%">Dokumentation</th>
+  </tr> 
+  </tr>
+    <tr> 
+   <td><strong>Chatbot-Benutzeroberfläche für Conversation Forms</strong>: Website-Besucher können jetzt einen Live-Chat im Rahmen eines Konversationsablaufs anfordern.</td> 
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
+  </tr>
    <tr> 
-   <td><strong>Aufzeichnung herunterladen und Co-Host in interaktiven Webinaren zuweisen</strong>: Sie können jetzt einen externen Co-Host für Ihr Webinar hinzufügen, falls der ursprüngliche Host nicht verfügbar ist. Sie können jetzt auch die Webinar-Aufzeichnung herunterladen.</td> 
-   <td>Versendet</td>
-   <td><li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md#webinar-recording" target="_blank">Aufnahme herunterladen</a></li>
-   <li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md" target="_blank">Erstellen eines interaktiven Webinars</a></li></td>
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+   </tr>
+    <tr> 
+   <td><strong>Chatbot-Schriftfarboptionen</strong>: Passen Sie die Schriftfarben in einer Chatbot-Konfiguration an.</td> 
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+   </tr>
+    <tr> 
+   <td><strong>Option zum Wiederholen des Dialogfelds</strong>: Sie können jetzt einen Dialog-Neustart am Anfang vornehmen, nachdem ein Besucher das Ende erreicht hat.</td> 
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+    </tr>
+    <tr> 
+   <td><strong>Manuelles Beenden des Live-Chat</strong>: Sowohl Besucher als auch Agenten können jetzt eine Live-Chat-Sitzung manuell beenden.</td> 
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+    </tr>
+    <tr> 
+   <td><strong>Letzte Marketo Engage-Aktivitäten im Agenten-Posteingang</strong>: Letzte Marketo Engage-Aktivitäten wie "Geöffnete E-Mail"und "Ausgefülltes Formular"werden für Leads im Agenten-Posteingang angezeigt.</td> 
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+    <tr> 
+   <td><strong>Bedingte Verzweigung</strong>: Sie können Besuchern nun unterschiedliche Konversationsinhalte anzeigen, die auf vordefinierten Bedingungen basieren, z. B. dem Standort des Besuchers oder der Verfügbarkeit von Live-Agenten.</td> 
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
   </tr>
  </tbody> 
 </table>
@@ -63,6 +162,6 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
 
 ## Ankündigungen {#announcements}
 
-* **Marketo Engage Forms jQuery 1.x**: In unserer Version vom Januar 2024 werden wir jQuery für Marketo Engage Forms auf jQuery 3.x aktualisieren. Dies kann sich auf die Implementierung benutzerdefinierter Formulare auswirken, die auf älteren jQuery-Versionen basieren. [Weitere Informationen hier](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705#M2597){target="_blank"}.
+* **Marketo Engage Forms jQuery 1.x**: In unserer Version vom Januar 2024 aktualisieren wir jQuery für Marketo Engage Forms auf jQuery 3.x. Dies kann sich auf die Implementierung benutzerdefinierter Formulare auswirken, die auf älteren jQuery-Versionen basieren. [Weitere Informationen hier](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705){target="_blank"}.
 
-* **Veraltete Marketo-Ereignisse und Marketo-Momente**: Adobe ist [Entfernen von Marketo-Ereignissen und Marketo-Ereignissen](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"} von allen Appstores ab dem 2. Oktober 2023. Vorhandene Benutzer: Sie können diese Apps weiter verwenden, bis Sie Ihre Marketo Engage-Instanz zu Adobe Identity migrieren. Diese Apps unterstützen die Anmeldung mit Adobe ID nicht.
+* **E-Mail-Überprüfung für Benutzer, die nur SSO verwenden**: SSO Nur Benutzer, die früher automatisch verifiziert wurden, sodass sie ein nicht zugängliches E-Mail-Konto verwenden konnten. Ab Mitte Januar werden alle bestehenden Benutzer von SSO Only nicht mehr überprüft und aufgefordert, ihre E-Mail über einen Link, den wir an das E-Mail-Konto senden, zu überprüfen. Alle neuen Benutzer von SSO Nur Benutzer müssen ihre E-Mail-Adressen in Zukunft überprüfen.
