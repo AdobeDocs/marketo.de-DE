@@ -4,16 +4,16 @@ title: SMS-Reporting
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 96bc28212ef275920fb106d69293958522cb4eb0
+source-git-commit: b9973d8bc5bf7d9e6944d05e6cf084966a31fcdb
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '134'
 ht-degree: 4%
 
 ---
 
 # SMS-Reporting {#sms-reporting}
 
-Das Dashboard für SMS-Nachrichten bietet nützliche Berichtsanalysen zu Ihren Nachrichten.
+Das Dashboard für SMS-Nachrichten bietet nützliche Analysen Ihrer Nachrichten.
 
 ## Zugriff auf das Dashboard {#access-the-dashboard}
 
