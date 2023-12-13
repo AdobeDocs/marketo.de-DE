@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 164fcc02570e421b10d52a2be002ddbab70843bd
+source-git-commit: 8895c2db94263659f3f9e3e3b5ebfeedcf8cbbd3
 workflow-type: tm+mt
-source-wordcount: '9267'
+source-wordcount: '9298'
 ht-degree: 3%
 
 ---
@@ -1591,6 +1591,7 @@ ht-degree: 3%
       + Admin {#admin}
          + [Mobile App hinzufügen](product-docs/mobile-marketing/admin/add-a-mobile-app.md)
          + [Hinzufügen von Assets als LaunchPoint-Dienst](product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md)
+         + [TEMP Hinzufügen von Videos als LaunchPoint-Dienst](product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service-2.md)
          + [Authentifizieren der Sicherheit des mobilen Zugriffs](product-docs/mobile-marketing/admin/authenticate-mobile-access-security.md)
          + [Vor der Erstellung von Push-Benachrichtigungen und In-App-Nachrichten](product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md)
          + [Konfigurieren des Push-Zugriffs für die mobile App Android](product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md)
@@ -1630,6 +1631,11 @@ ht-degree: 3%
          + [Flussschritt für SMS hinzufügen](product-docs/mobile-marketing/vibes-sms-messages/add-a-flow-step-for-sms.md)
          + [Das Dashboard für SMS-Nachrichten](product-docs/mobile-marketing/vibes-sms-messages/the-sms-message-dashboard.md)
          + [Verwenden von Screens-SMS-Nachrichten in Triggern und Filtern mit Smart-Liste](product-docs/mobile-marketing/vibes-sms-messages/use-vibes-sms-messages-in-smart-list-triggers-and-filters.md)
+         + [TEMP SMS erstellen](product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message-2.md)
+         + [TEMP SMS-Nachricht senden](product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md)
+         + [TEMP Verwenden von SMS-Optionen in einer Smart-Kampagne](product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md)
+         + [TEMP-SMS-Glossar](product-docs/mobile-marketing/vibes-sms-messages/sms-glossary.md)
+         + [TEMP SMS Reporting](product-docs/mobile-marketing/vibes-sms-messages/sms-reporting-2.md)
    + Personalisierung {#personalization}
       + Segmentierung und Snippets {#segmentation-and-snippets}
          + Segmentierung {#segmentation}
