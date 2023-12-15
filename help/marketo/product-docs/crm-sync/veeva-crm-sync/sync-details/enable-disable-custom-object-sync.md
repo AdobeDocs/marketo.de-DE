@@ -3,7 +3,7 @@ description: Benutzerdefinierte Objektsynchronisierung aktivieren/deaktivieren -
 title: Benutzerdefinierte Objektsynchronisierung aktivieren/deaktivieren
 exl-id: 01417fb6-70f5-449b-ad56-42e1c0b2ff68
 feature: Veeva CRM
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
 workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 0%
@@ -20,15 +20,15 @@ Benutzerdefinierte Objekte, die in Ihrer VEE CRM-Instanz erstellt wurden, könne
 >
 >**Administratorberechtigungen erforderlich**
 
-1. Klicken Sie in Marketo auf **Admin**, dann **VEC-Objektsynchronisierung**.
+1. Klicken Sie in Marketo auf **[!UICONTROL Admin]**, dann **[!UICONTROL VEC-Objektsynchronisierung]**.
 
    ![](assets/enable-disable-custom-object-sync-1.png)
 
-1. Wenn es Ihr erstes benutzerdefiniertes Objekt ist, klicken Sie auf Schema synchronisieren . Wenn nicht, klicken Sie auf **Schema aktualisieren** , um sicherzustellen, dass Sie über die neueste Version verfügen.
+1. Wenn es Ihr erstes benutzerdefiniertes Objekt ist, klicken Sie auf Schema synchronisieren . Wenn nicht, klicken Sie auf **[!UICONTROL Schema aktualisieren]** , um sicherzustellen, dass Sie über die neueste Version verfügen.
 
    ![](assets/enable-disable-custom-object-sync-2.png)
 
-1. Wenn Ihre globale Synchronisierung ausgeführt wird, deaktivieren Sie sie, indem Sie auf **Globale Synchronisierung deaktivieren**.
+1. Wenn Ihre globale Synchronisierung ausgeführt wird, deaktivieren Sie sie, indem Sie auf **[!UICONTROL Globale Synchronisierung deaktivieren]**.
 
    ![](assets/enable-disable-custom-object-sync-3.png)
 
@@ -36,7 +36,7 @@ Benutzerdefinierte Objekte, die in Ihrer VEE CRM-Instanz erstellt wurden, könne
    >
    >Die Synchronisierung des benutzerdefinierten Objektschemas von Veeva kann einige Minuten dauern.
 
-1. Klicks **Schema aktualisieren**.
+1. Klicks **[!UICONTROL Schema aktualisieren]**.
 
    ![](assets/enable-disable-custom-object-sync-4.png)
 
@@ -48,11 +48,11 @@ Wählen Sie das zu synchronisierende Objekt aus und klicken Sie auf Synchronisie
 >
 >Marketo kann ein benutzerdefiniertes Objekt nur dann synchronisieren, wenn es eine direkte Beziehung zum Kontakt- oder Kontoobjekt in Veeva CRM hat.
 
-1. Klicks **Synchronisierung aktivieren** erneut.
+1. Klicks **[!UICONTROL Synchronisierung aktivieren]** erneut.
 
    ![](assets/enable-disable-custom-object-sync-6.png)
 
-1. Gehen Sie zurück zur Registerkarte Veeva und klicken Sie auf **Synchronisierung aktivieren**.
+1. Gehen Sie zurück zur Registerkarte Veeva und klicken Sie auf **[!UICONTROL Synchronisierung aktivieren]**.
 
    ![](assets/enable-disable-custom-object-sync-7.png)
 
@@ -62,7 +62,7 @@ Wählen Sie das zu synchronisierende Objekt aus und klicken Sie auf Synchronisie
 >
 >Sie können keine benutzerdefinierten Objekte in Smart-Kampagnen mit Triggern verwenden.
 
-1. Ziehen Sie in Ihre Smart-Liste den Filter &quot;Hat Chancen&quot;und legen Sie **True**.
+1. Ziehen Sie in Ihre Smart-Liste den Filter &quot;Hat Chancen&quot;und legen Sie **[!UICONTROL True]**.
 
    ![](assets/enable-disable-custom-object-sync-8.png)
 

@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 exl-id: 68bc14e7-dfc9-4dce-b159-24d734ee3c6f
 feature: Veeva CRM
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 0%
@@ -26,15 +26,15 @@ Benutzerdefinierte Objekte, die in Ihrer VEE CRM-Instanz erstellt wurden, könne
 
 ## Benutzerdefiniertes Objekt aktivieren {#enable-custom-object}
 
-1. Klicken Sie in Marketo auf **Admin**, dann **VEC-Objektsynchronisierung**.
+1. Klicken Sie in Marketo auf **[!UICONTROL Admin]**, dann **[!UICONTROL VEC-Objektsynchronisierung]**.
 
    ![](assets/custom-object-sync-1.png)
 
-1. Wenn dies Ihr erstes benutzerdefiniertes Objekt ist, klicken Sie auf **Schema synchronisieren**.
+1. Wenn dies Ihr erstes benutzerdefiniertes Objekt ist, klicken Sie auf **[!UICONTROL Schema synchronisieren]**.
 
    ![](assets/custom-object-sync-2.png)
 
-1. Klicks **Globale Synchronisierung deaktivieren**.
+1. Klicks **[!UICONTROL Globale Synchronisierung deaktivieren]**.
 
    ![](assets/custom-object-sync-3.png)
 
@@ -50,23 +50,23 @@ Benutzerdefinierte Objekte, die in Ihrer VEE CRM-Instanz erstellt wurden, könne
    >
    >Benutzerdefinierte Objekte müssen eindeutige Namen haben. Marketo unterstützt zwei verschiedene benutzerdefinierte Objekte mit demselben Namen nicht.
 
-1. Klicks **Synchronisierung aktivieren**.
+1. Klicks **[!UICONTROL Synchronisierung aktivieren]**.
 
    ![](assets/custom-object-sync-5.png)
 
-1. Klicks **Synchronisierung aktivieren** erneut.
+1. Klicks **[!UICONTROL Synchronisierung aktivieren]** erneut.
 
    ![](assets/custom-object-sync-6.png)
 
-1. Gehen Sie zurück zu **Veeva** Registerkarte.
+1. Gehen Sie zurück zu **[!UICONTROL Veeva]** Registerkarte.
 
    ![](assets/custom-object-sync-7.png)
 
-1. Klicks **Synchronisierung aktivieren**.
+1. Klicks **[!UICONTROL Synchronisierung aktivieren]**.
 
    ![](assets/custom-object-sync-8.png)
 
-1. Um alle benutzerdefinierten Objekte von Veeva anzuzeigen, klicken Sie auf Admin- und Veeva-Objektsynchronisierung.
+1. Klicken Sie auf , um alle benutzerdefinierten Objekte von Veeva anzuzeigen. **[!UICONTROL Admin]** und **[!UICONTROL VEC-Objektsynchronisierung]**.
 
    ![](assets/custom-object-sync-9.png)
 

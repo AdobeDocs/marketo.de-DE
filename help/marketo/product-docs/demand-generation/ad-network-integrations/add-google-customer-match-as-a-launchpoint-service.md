@@ -4,38 +4,38 @@ description: Google-Kundenabgleich als LaunchPoint-Dienst hinzufügen - Marketo 
 title: Google-Kundenabgleich als LaunchPoint-Dienst hinzufügen
 exl-id: c780bde0-3044-4c89-a2ac-88398cbc3425
 feature: Integrations
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '196'
 ht-degree: 2%
 
 ---
 
 # Google-Kundenabgleich als LaunchPoint-Dienst hinzufügen {#add-google-customer-match-as-a-launchpoint-service}
 
-Mit dieser Integration können Sie eine Marketo-Zielgruppe an Google senden, um mithilfe von Google AdWords Targeting durchzuführen und Zielgruppen in YouTube, Search und Gmail erneut anzusprechen.
+Mit dieser Integration können Sie eine Marketo Engage-Zielgruppe an Google senden, um sie mit Google AdWords anzusprechen und Zielgruppen in YouTube, Search und Gmail erneut anzusprechen.
 
 >[!NOTE]
 >
 >**Erforderliche Administratorberechtigungen**
 
-1. Navigieren Sie zu **Admin**.
+1. Navigieren Sie zu **[!UICONTROL Admin]**.
 
    ![](assets/admin.png)
 
-1. Klicken **LaunchPoint**.
+1. Klicks **[!UICONTROL LaunchPoint]**.
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. Auswählen **Neu** then **Neuer Dienst**.
+1. Auswählen **[!UICONTROL Neu]** then **[!UICONTROL Neuer Dienst]**.
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. Geben Sie einen **Anzeigename** und wählen Sie **Google-Kundenabgleich** von **Diensleistung** Dropdown-Liste. Klicken Sie auf **Erstellen**.
+1. Geben Sie einen **[!UICONTROL Anzeigename]** und wählen **[!UICONTROL Google-Kundenabgleich]** aus dem **[!UICONTROL Dienst]** angezeigt. Klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/chooseservice.png)
 
-1. Um ein Google AdWords-Konto zu verbinden, klicken Sie auf **Autorisieren**.
+1. Um ein Google AdWords-Konto zu verbinden, klicken Sie auf **[!UICONTROL Autorisieren]**.
 
    ![](assets/authorizeaccount-1.png)
 
@@ -47,15 +47,15 @@ Mit dieser Integration können Sie eine Marketo-Zielgruppe an Google senden, um 
 
    ![](assets/chooseaccount.png)
 
-1. Überprüfen Sie die angeforderten Berechtigungen und klicken Sie dann auf **Zulassen**.
+1. Überprüfen Sie die angeforderten Berechtigungen und klicken Sie dann auf **[!UICONTROL Zulassen]**.
 
    ![](assets/reviewpermissions.png)
 
-1. Ihr Google AdWords-Konto ist jetzt mit Marketo verbunden. Klicken Sie auf **Erstellen**.
+1. Ihr Google AdWords-Konto ist jetzt mit Marketo verbunden. Klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/authorizesuccess.png)
 
-   Fantastisch Google Matched Audiences werden jetzt auf der Registerkarte Installierte Dienste als LaunchPoint-Dienst aufgelistet.
+   Fantastisch! Google Matched Audiences werden jetzt auf der Registerkarte Installierte Dienste als LaunchPoint-Dienst aufgelistet.
 
 >[!NOTE]
 >

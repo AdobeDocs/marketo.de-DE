@@ -3,10 +3,10 @@ description: Verstehen der VEC CRM-Synchronisierung - Marketo-Dokumente - Produk
 title: Grundlagen zur VEC CRM-Synchronisierung
 exl-id: 99ade106-7f32-40e8-8b9a-2b1d0e769b9c
 feature: Veeva CRM
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
 workflow-type: tm+mt
-source-wordcount: '248'
-ht-degree: 1%
+source-wordcount: '249'
+ht-degree: 0%
 
 ---
 
@@ -16,7 +16,7 @@ In wenigen Schritten ist es einfach, eine Synchronisation zwischen Adobe Marketo
 
 ## Funktionsweise der Synchronisierung {#how-the-sync-works}
 
-Marketo Engage synchronisiert täglich mit Veeva CRM. Jede Synchronisation dauert einige Zeit, hält 5 Minuten an und beginnt dann erneut.
+Marketo Engage synchronisiert jeden Tag mit Veva CRM. Jede Synchronisation dauert einige Zeit, hält 5 Minuten an und beginnt dann erneut.
 
 >[!NOTE]
 >
@@ -24,7 +24,7 @@ Marketo Engage synchronisiert täglich mit Veeva CRM. Jede Synchronisation dauer
 
 ![](assets/understanding-the-veeva-sync-1.png)
 
-Die Synchronisation zwischen VEE und Marketo Engage erfolgt nur für Kontaktfelder im Benutzerkontoobjekt. In diesen Fällen spiegeln sich Ihre Aktualisierungen in beiden Systemen wider, sobald Sie Änderungen in Veeva oder Marketo Engage vornehmen. Alle anderen Synchronisationen sind nur von Veeva nach Marketo Engage. Klicken Sie auf die folgenden Links, um Details zu den einzelnen Links zu erhalten.
+Die Synchronisation zwischen Veeva und Marketo Engage erfolgt bidirektional nur für Kontaktfelder im Benutzerkontoobjekt. In diesen Fällen, wenn Sie Änderungen in Veeva oder Marketo Engage vornehmen, werden Ihre Updates in beiden Systemen angezeigt. Alle anderen Synchronisationen sind nur von Veeva zu Marketo Engage. Klicken Sie auf die folgenden Links, um Details zu den einzelnen Links zu erhalten.
 
 ## Was wird zwischen Marketo Engage und Veeva synchronisiert? {#what-is-synced-between-marketo-engage-and-veeva}
 
@@ -35,8 +35,8 @@ Die Synchronisation zwischen VEE und Marketo Engage erfolgt nur für Kontaktfeld
 
 ## Was zu wissen ist {#things-to-know}
 
-* Die [Anmeldedaten, die Sie im Marketo Engage für Veeva eingeben](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} werden zum Synchronisieren von Daten verwendet. Es werden nur Daten einbezogen, auf die diese Anmeldeinformationen Zugriff haben.
+* Die [Anmeldedaten, die Sie auf Marketo Engage für Veeva eingeben](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} werden zum Synchronisieren von Daten verwendet. Es werden nur Daten einbezogen, auf die diese Anmeldeinformationen Zugriff haben.
 
 * Veeva CRM basiert auf force.com und das Rich-Experience-Marketo Engage mit der Plattform wird in diese Synchronisation übernommen.
 
-* Das VEE-CRM zeigt Lead, Kontakt, Konten (Geschäftskonten, Chancen, Kampagne und Aktivität. Sie werden jedoch nicht in der Synchronisierung mit Marketo Engage unterstützt.
+* Das VEE-CRM zeigt Lead, Kontakt, Konten, Geschäftskonten, Chancen, Kampagne und Aktivität. Sie werden jedoch bei der Synchronisierung mit Marketo Engage nicht unterstützt.
