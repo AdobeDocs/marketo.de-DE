@@ -2,10 +2,10 @@
 description: Konfiguration - Marketo-Dokumente - Produktdokumentation
 title: Konfiguration
 feature: Dynamic Chat
-exl-id: 824cd1de-a407-4250-8777-33eec0777361
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 01ca6a38-4918-46b0-b0f6-1baffbb0bbaf
+source-git-commit: 99798a8d333be43ec8d7e12571a96184fa11c0f0
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '316'
 ht-degree: 1%
 
 ---
@@ -64,7 +64,7 @@ Damit der Chat-Bot auf Ihrer Website erscheint, müssen Sie zunächst das Dynami
 
 >[!TIP]
 >
->Wenn Ihre Site eine Content Security Policy verwendet, müssen Sie möglicherweise die folgenden URLs auf die Whitelist setzen, damit der Chat-Bot erwartungsgemäß funktioniert:
+>Wenn Ihre Site eine Content Security Policy nutzt, müssen Sie möglicherweise die folgenden URLs in Zulassungsliste setzen, damit der Chat-Bot erwartungsgemäß funktioniert:
 >
 >* `*.adoberesources.net`
 >* `*.adobe.io`
