@@ -3,10 +3,10 @@ description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokument
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: b51f12d1f2526c5fa8ec9fc97621f3f55330a808
+source-git-commit: e33b6f995ca8535d69505cf38e9b03f2aff09149
 workflow-type: tm+mt
-source-wordcount: '565'
-ht-degree: 10%
+source-wordcount: '649'
+ht-degree: 9%
 
 ---
 
@@ -84,6 +84,21 @@ Alle unten aufgeführten Funktionen entsprechen dem Agile-Format und werden an v
    <td><i>Demnächst verfügbar</i></td>
    <td><i>Demnächst verfügbar</i></td>
   </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  </tr>
+   </tr>
+    <tr> 
+   <td><strong>Massen-Lead-Import-API-Update</strong>: Das Verhalten der Bulk-Lead-Import-API wurde geringfügig angepasst, wenn <b>id</b> wird als <b>lookupField</b> während der Schaffung von Arbeitsplätzen. Wenn ein Personendatensatz mit der angegebenen <b>id</b> nicht in der Marketo Engage-Datenbank gefunden wird, wird kein Datensatz aktualisiert, da der Datensatz nicht gefunden werden kann. Das aktualisierte Verhalten umfasst nun die Erhöhung der Anzahl im <b>numOfRowsFailed</b> -Eigenschaft in der Antwort ein, was angibt, dass der Vorgang in solchen Fällen fehlgeschlagen ist.</td> 
+   <td><i>Demnächst verfügbar</i></td>
+   <td>Nicht zutreffend</td>
+  </tr>
+ </tbody> 
+</table>
+<br/>
   </tbody> 
 </table>
 
