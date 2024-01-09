@@ -2,11 +2,11 @@
 description: Agent-Posteingang - Marketo-Dokumente - Produktdokumentation
 title: Agenten-Posteingang
 feature: Dynamic Chat
-exl-id: 656f8716-d982-4c02-8311-17add0fcd924
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 65f13879-36d2-4a23-a029-271f5aea1229
+source-git-commit: 49a75b6aef25787a68554dff3a847279ef8ba12a
 workflow-type: tm+mt
-source-wordcount: '367'
-ht-degree: 2%
+source-wordcount: '277'
+ht-degree: 3%
 
 ---
 
@@ -32,21 +32,7 @@ Oben rechts im Bildschirm &quot;Agent-Posteingang&quot;haben Sie die Möglichkei
 
 ## Live-Chat-Benachrichtigungen {#live-chat-notifications}
 
-Wenn ein Live-Chat an einen Agenten weitergeleitet wird, wird ihm oben auf dem Bildschirm ein blaues Banner angezeigt, in dem er aufgefordert wird, ihn zu akzeptieren.
-
-![](assets/agent-inbox-3.png)
-
->[!TIP]
->
->Sie können auch Browser-Benachrichtigungen einrichten, die Sie benachrichtigen, falls Sie nicht bei Dynamic Chat angemeldet sind.
->
->* Browserbenachrichtigungen aktivieren in [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop){target="_blank"}
->* Browserbenachrichtigungen aktivieren in [Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}
-
-### Zu beachten {#things-to-note}
-
-* Agenten haben 45 Sekunden Zeit, um zu antworten, bevor die &quot;Chat akzeptieren&quot;-Nachricht eine Zeitüberschreitung aufweist.
-* Derzeit sind zehn Live-Chats pro Agent zulässig
+Weitere Informationen zu Benachrichtigungen finden Sie im Abschnitt [Live-Chat-Übersicht](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#live-chat-notifications){target="_blank"}.
 
 ## Konversationen {#conversations}
 
