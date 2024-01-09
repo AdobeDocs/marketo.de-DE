@@ -3,10 +3,10 @@ description: Live-Chat-Übersicht - Marketo-Dokumente - Produktdokumentation
 title: Live-Chat-Übersicht
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 870dd6df82c605fffa6681d68867354084988bcd
+source-git-commit: 82ff48a227f7f05d49d0189cc48df48c34190622
 workflow-type: tm+mt
-source-wordcount: '348'
-ht-degree: 2%
+source-wordcount: '550'
+ht-degree: 1%
 
 ---
 
@@ -66,6 +66,44 @@ Durch Klicken auf die Live-Chat-Karte im Stream können Sie festlegen, wie der B
  </tbody> 
 </table>
 
+## Live-Chat-Benachrichtigungen {#live-chat-notifications}
+
+Um Browser-Benachrichtigungen für Live-Chat zu erhalten, müssen alle Live-Chat-Agenten Browserbenachrichtigungen für Dynamic Chat aktivieren, wenn sie dazu aufgefordert werden.
+
+### Aktivieren von Benachrichtigungen {#enabling-notifications}
+
+Live-Chat-Agenten sehen oben auf dem Bildschirm ein Banner, in dem sie sich anmelden: &quot;Bitte aktivieren Sie Browser-Benachrichtigungen, um Live-Chat-Benachrichtigungen zu erhalten&quot;. Klicks **Aktivieren**.
+
+![](assets/live-chat-overview-4.png)
+
+Die Live-Chat-Agenten werden dann vom Browser aufgefordert, Benachrichtigungen anzuzeigen. Klicks **Zulassen**.
+
+![](assets/live-chat-overview-5.png)
+
+Wenn Agenten keine Browser-Benachrichtigungen erhalten, auch wenn sie dies im Browser zulassen, müssen sie möglicherweise Benachrichtigungen für den Browser in den Benachrichtigungseinstellungen des Betriebssystems aktivieren:
+
+[Schritte für Mac](https://support.apple.com/guide/mac-help/change-notifications-settings-mh40583/mac){target="_blank"}
+
+[Schritte für Windows](https://support.microsoft.com/en-us/windows/change-notification-settings-in-windows-8942c744-6198-fe56-4639-34320cf9444e){target="_blank"}
+
+### Wenn ein Live-Chat zu einem Agenten weitergeleitet wird {#when-a-live-chat-is-routed-to-an-agent}
+
+Wenn ein Live-Chat an einen Agenten weitergeleitet wird, wird ihm oben auf dem Bildschirm ein blaues Banner angezeigt, in dem er aufgefordert wird, ihn zu akzeptieren.
+
+![](assets/live-chat-overview-3.png)
+
+>[!TIP]
+>
+>Sie können auch Browser-Benachrichtigungen einrichten, die Sie benachrichtigen, falls Sie nicht bei Dynamic Chat angemeldet sind.
+>
+>* Browserbenachrichtigungen aktivieren in [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop){target="_blank"}
+>* Browserbenachrichtigungen aktivieren in [Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}
+
+### Zu beachten {#things-to-note}
+
+* Support-Mitarbeiter haben 45 Sekunden Zeit, um zu antworten, bevor die &quot;Chat akzeptieren&quot;-Nachricht überfällig wird.
+* Derzeit sind zehn Live-Chats pro Agent zulässig
+
 >[!MORELIKETHIS]
 >
->[Agenten-Posteingang](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md){target="_blank"}
+>[Agent-Posteingang](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md){target="_blank"}
