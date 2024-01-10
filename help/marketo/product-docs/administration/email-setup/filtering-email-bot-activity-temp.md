@@ -4,9 +4,9 @@ title: Filtern der E-Mail-Bot-Aktivität
 hide: true
 hidefromtoc: true
 feature: Email Setup
-source-git-commit: d635fbd4807890266429d4a257cf7d6588736bb5
+source-git-commit: 0e0db640e8a54773adc0c643af7aedd9e34e8be0
 workflow-type: tm+mt
-source-wordcount: '511'
+source-wordcount: '536'
 ht-degree: 0%
 
 ---
@@ -44,19 +44,23 @@ Bei der Aktivität E-Mail-Link-Klick und E-Mail-Öffnung werden neue Attribute m
 
    ![](assets/filtering-email-bot-activity-3.png)
 
-1. Wählen Sie **[!UICONTROL Übereinstimmung mit IAB-Liste]**, **[!UICONTROL Übereinstimmung mit Näherungsmuster]** oder beides. Festlegen, ob [!UICONTROL Logbot-Aktivität] _oder_ [!UICONTROL Bot-Aktivität filtern]. Legen Sie die Dauer von Sekunden fest für **Aktivitätsdauer** von 0 bis 3 Sekunden (der Standardwert ist 0).
+1. Es gibt zwei Regler, aus denen Sie wählen können. Sie können nur eine oder beide aktivieren. Wenn Sie **[!UICONTROL Übereinstimmung mit IAB-Liste]** auswählen, ob [!UICONTROL Logbot-Aktivität] _oder_ [!UICONTROL Bot-Aktivität filtern].
 
    ![](assets/filtering-email-bot-activity-temp-4.png)
+
+1. Wenn Sie **[!UICONTROL Übereinstimmung mit Näherungsmuster]** auswählen, ob [!UICONTROL Logbot-Aktivität] _oder_ [!UICONTROL Bot-Aktivität filtern]. Sie können auch die Dauer von Sekunden für **Aktivitätsdauer** (Standard ist 0, max. 3).
+
+   ![](assets/filtering-email-bot-activity-temp-5.png)
 
 >[!NOTE]
 >
 >Mit **Aktivitätsdauer** auf 0 Sekunden eingestellt ist, identifizieren wir E-Mail-Aktivitäten, die genau zur gleichen Sekunde stattfinden. Wenn innerhalb der festgelegten Dauer mehrere E-Mail-Aktivitäten stattfinden, wird dies als Bot-Aktivität identifiziert.
 
->[!NOTE]
+>[!IMPORTANT]
 >
 >* Wenn Sie [!UICONTROL Bot-Aktivität filtern]kann es zu einem Rückgang bei E-Mail-Öffnungen und Klicks kommen, da falsche Aktivitäten ausgeschaltet werden.
 
-**OPTIONALER SCHRITT**: Um diese Funktion zu deaktivieren, deaktivieren Sie einfach die Schieberegler. Wenn Sie deaktivieren, werden die Daten nicht zurückgesetzt.
+**OPTIONALER SCHRITT**: Um eine der Funktionen zu deaktivieren, deaktivieren Sie einfach den entsprechenden Schieberegler. Wenn Sie dies tun, werden die Daten nicht zurückgesetzt.
 
 >[!TIP]
 >
