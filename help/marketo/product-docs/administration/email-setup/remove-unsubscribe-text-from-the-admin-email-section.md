@@ -4,18 +4,18 @@ description: Entfernen Sie den Abmeldungstext aus dem Abschnitt "Admin-E-Mail"- 
 title: Entfernen Sie den Abmelde-Text aus dem Abschnitt "Admin-E-Mail".
 exl-id: 2961a9b6-8b35-4227-bf8a-a07b2664a6c4
 feature: Email Setup
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: d635fbd4807890266429d4a257cf7d6588736bb5
 workflow-type: tm+mt
 source-wordcount: '165'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
 
-# Entfernen Sie den Abmelde-Text aus dem Abschnitt &quot;Admin-E-Mail&quot;. {#remove-unsubscribe-text-from-the-admin-email-section}
+# Entfernen Sie den Abmelde-Text aus dem Abschnitt Admin > E-Mail . {#remove-unsubscribe-text-from-the-admin-email-section}
 
 Der einzige Grund, warum Sie den Inhalt der Abmeldung jemals vollständig aus der **[!UICONTROL Admin]** > **[!UICONTROL Email]** ist, wenn Sie den Abmelde-Link in die E-Mail-Vorlagen selbst erstellen möchten. Das Textfeld verfügt über eine Validierung, die das Speichern ohne Inhalt nicht erlaubt. Sie können dies umgehen, indem Sie einen kleinen HTML-Kommentar hinzufügen. Der HTML-Kommentar wird nicht im E-Mail-Client angezeigt, da er die E-Mail in HTML rendert und die Kommentare weggelassen werden. Hier ist, wie man das macht.
 
-1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
+1. Navigieren Sie zu **[!UICONTROL Admin]** Bereich.
 
    ![](assets/remove-unsubscribe-text-from-the-admin-email-section-1.png)
 
