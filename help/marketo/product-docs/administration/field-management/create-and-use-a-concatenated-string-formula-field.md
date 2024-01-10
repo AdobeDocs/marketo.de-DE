@@ -4,30 +4,30 @@ description: Erstellen und Verwenden eines verketteten Zeichenfolgenfelds (Forme
 title: Erstellen und Verwenden eines Felds mit verketteten Zeichenfolgen (Formel)
 exl-id: 779fbc56-a913-422a-a778-d86cc3ed7d48
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 9181a599ae715e9ffcfd84d8316dfa1c094329a6
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 2%
+source-wordcount: '170'
+ht-degree: 0%
 
 ---
 
 # Erstellen und Verwenden eines Felds mit verketteten Zeichenfolgen (Formel) {#create-and-use-a-concatenated-string-formula-field}
 
-Sie können Werte aus mehreren Feldern kombinieren oder mithilfe eines Marketo-Formelfelds einen bedingten Wert erstellen.
+Sie können Werte aus mehreren Feldern kombinieren oder mithilfe eines Marketo Engage-Formelfelds einen bedingten Wert erstellen.
 
-1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
+1. Navigieren Sie zu **[!UICONTROL Admin]** Bereich.
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-1.png)
 
-1. Klicken **[!UICONTROL Feldverwaltung]**.
+1. Klicks **[!UICONTROL Feldverwaltung]**.
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-2.png)
 
-1. Klicken **[!UICONTROL Neues benutzerdefiniertes Feld]**.
+1. Klicks **[!UICONTROL Neues benutzerdefiniertes Feld]**.
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-3.png)
 
-1. Auswählen **[!UICONTROL Formel]** für **[!UICONTROL Typ]**.
+1. Auswählen **[!UICONTROL Formel]** für die **[!UICONTROL Typ]**.
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-4.png)
 
@@ -53,6 +53,6 @@ Sie können Werte aus mehreren Feldern kombinieren oder mithilfe eines Marketo-F
 
 >[!NOTE]
 >
->Formelfelder können in Landingpages, E-Mails und Spalten mit der intelligenten Liste verwendet werden (sie werden nicht exportiert). E-Mails mit Formelfeldern können _not_ mit einer Batch-Kampagne gesendet werden. Bitte verwenden Sie [E-Mail-Skript-Token](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md) in diesem Szenario.
+>Formelfelder können in den Spalten Landingpages, E-Mails und Smart-Listen verwendet werden. E-Mails mit Formelfeldern können _not_ mit einer Batch-Kampagne gesendet werden. Bitte verwenden Sie [email script token](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md) in diesem Szenario.
 
 Gute Arbeit! Jetzt haben Sie ein intelligentes Feld, das weiß, welche Anrede auf Grundlage des Geschlechts aufgenommen werden soll. Viel Spaß damit und kreativ.
