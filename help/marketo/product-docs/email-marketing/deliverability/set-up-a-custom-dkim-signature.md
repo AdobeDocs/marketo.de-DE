@@ -4,9 +4,9 @@ description: Einrichten einer benutzerdefinierten DKIM-Signatur - Marketo Docs -
 title: Einrichten einer benutzerdefinierten DKIM-Signatur
 exl-id: a7c6429e-14ee-439e-9f47-1b25b98d41e7
 feature: Deliverability
-source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
+source-git-commit: b72c69b0e96fa3e504242425abd3954f5a49bebd
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '426'
 ht-degree: 0%
 
 ---
@@ -41,11 +41,6 @@ Sie können die DKIM-Signatur personalisieren, um die Domäne(n) Ihrer Wahl wide
 
    ![](assets/set-up-a-custom-dkim-signature-4.png)
 
-   >[!TIP]
-   >
-   >* Wir empfehlen eine Schlüsselgröße von 2048.
-   >* Wenn Sie eine andere Domäne in Ihrer Absenderadresse verwenden, verwenden wir die von Marketo freigegebene DKIM-Signatur.
-
    <table> 
    <tr>
    <td width="20%"><b>Selektor</b></td>
@@ -59,6 +54,17 @@ Sie können die DKIM-Signatur personalisieren, um die Domäne(n) Ihrer Wahl wide
    </table>
 
    <p>
+
+   >[!TIP]
+   >
+   >* Wir empfehlen eine Schlüsselgröße von 2048.
+   >* Wenn Sie eine andere Domäne in Ihrer Absenderadresse verwenden, verwenden wir die von Marketo freigegebene DKIM-Signatur.
+
+   >[!IMPORTANT]
+   >
+   >Wenn Sie entweder den DKIM-Selektor oder die DKIM-Verschlüsselungsgröße für Ihre Domäne aktualisieren müssen, müssen Sie Ihren vorhandenen Datensatz löschen und den neu generierten Datensatz mit den neuen Werten erneut veröffentlichen.
+   >
+   >Bitte beachten Sie, dass DKIM nicht für Ihre Domain signiert wird, bis Ihr neuer Datensatz von unserem System veröffentlicht und validiert wird. Planen Sie Ihre Änderung entsprechend, da es 24 bis 48 Stunden dauern kann, bis der neue DKIM-Datensatz vollständig über das Internet übertragen wird.
 
 1. Senden Sie die **Hostdatensatz** und **TXT-Wert** zu Ihrer IT hinzufügen. Bitten Sie sie, den Datensatz für Sie zu erstellen und sicherzustellen, dass er an alle Nameserver propagiert wird, die mit der von -Domäne verknüpft sind. Die DKIM-Verifizierung von Marketo erfordert, dass der DKIM-Schlüssel an alle Nameserver weitergegeben wird, die mit der Domäne verknüpft sind, die von DKIM signiert wurde.
 
