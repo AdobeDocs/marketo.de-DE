@@ -3,10 +3,10 @@ description: Konfiguration - Marketo-Dokumente - Produktdokumentation
 title: Konfiguration
 feature: Dynamic Chat
 exl-id: 01ca6a38-4918-46b0-b0f6-1baffbb0bbaf
-source-git-commit: 99798a8d333be43ec8d7e12571a96184fa11c0f0
+source-git-commit: 4dccf70f42153045f630bf646a6a193e27dbf637
 workflow-type: tm+mt
-source-wordcount: '316'
-ht-degree: 1%
+source-wordcount: '310'
+ht-degree: 0%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 Erfahren Sie, wie Sie das Erscheinungsbild Ihres Chatbot-Dialogfensters anpassen können.
 
-Klicken Sie zunächst auf **Konfiguration**.
+Klicken Sie zunächst auf **Chatbot-Einstellungen** under **Konfiguration**.
 
 ![](assets/configuration-1.png)
 
@@ -36,9 +36,9 @@ Der Anker ermöglicht es Ihrem Site-Besucher, die Chatbox zu öffnen/zu schließ
 
 ![](assets/configuration-4.png)
 
-### Agenteneinstellungen {#agent-settings}
+### Bot-Einstellungen {#agent-settings}
 
-In den Agenteneinstellungen können Sie Ihrer Chatbox einen Titel hinzufügen (z. B. &quot;Adobe Bot&quot;), der oben angezeigt wird. Sie können auch die Antwortzeit (in Sekunden) bestimmen und Ihren Chat-Avatar ändern. Um Ihr eigenes Avatarbild hochzuladen, klicken Sie auf das **+** Schaltfläche.
+In den Bot-Einstellungen können Sie Ihrer Chatbox einen Titel hinzufügen (z. B. &quot;Adobe-Assistent&quot;), der oben angezeigt wird. Sie können auch die Antwortzeit (in Sekunden) bestimmen und Ihren Chat-Avatar ändern. Um Ihr eigenes Avatarbild hochzuladen, klicken Sie auf das **+** Schaltfläche.
 
 ![](assets/configuration-5.png)
 
@@ -64,11 +64,7 @@ Damit der Chat-Bot auf Ihrer Website erscheint, müssen Sie zunächst das Dynami
 
 >[!TIP]
 >
->Wenn Ihre Site eine Content Security Policy nutzt, müssen Sie möglicherweise die folgenden URLs in Zulassungsliste setzen, damit der Chat-Bot erwartungsgemäß funktioniert:
->
->* `*.adoberesources.net`
->* `*.adobe.io`
->* `*.typekit.net`
+>Suchen Sie unter dem Code nach dem hinzuzufügenden Code, wenn Ihre Site Content-Security-Policy (CSP) verwendet.
 
 >[!NOTE]
 >

@@ -4,9 +4,9 @@ title: On-Demand-Webinare
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: 41298677e9bef49624220dac463388f0cab0ebf6
+source-git-commit: 4dccf70f42153045f630bf646a6a193e27dbf637
 workflow-type: tm+mt
-source-wordcount: '436'
+source-wordcount: '440'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Adobe Connect, die Technologie für interaktive Webinare, verfolgt den Besuch so
 
 Marketo stellt mithilfe der folgenden Widgets die Überwachungsstatistiken für On-Demand-Webinare auf der Registerkarte &quot;Dashboard&quot;bereit:
 
-* On-Demand-Zusammenfassung: Diese Übersicht zeigt die Anzahl der Besucher (keine Aufnahmen), die die Aufzeichnung nach dem Ereignis ansehen.
+* On-Demand-Zusammenfassung: Diese Übersicht zeigt die Anzahl der Besucher (keine Aufnahmen), die die Aufzeichnung an einem oder mehreren Tagen nach dem Ereignis ansehen.
 
 * On-Demand-Statistiken: Dieses Widget enthält Informationen zu:
    * Tage, an denen die On-Demand-Aufzeichnung angezeigt werden kann - Hilft Marketingexperten, Aktionen durchzuführen, z. B. E-Mail-Kampagnen auszuführen, die dem Ende der Verfügbarkeitsdauer der Aufzeichnung von 30 Tagen nahe kommen.
