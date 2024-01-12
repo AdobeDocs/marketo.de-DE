@@ -3,10 +3,10 @@ description: Agent-Posteingang - Marketo-Dokumente - Produktdokumentation
 title: Agenten-Posteingang
 feature: Dynamic Chat
 exl-id: 65f13879-36d2-4a23-a029-271f5aea1229
-source-git-commit: 49a75b6aef25787a68554dff3a847279ef8ba12a
+source-git-commit: c3819373fbd49f7ea67f6eb6661d63ad5ba86d57
 workflow-type: tm+mt
-source-wordcount: '277'
-ht-degree: 3%
+source-wordcount: '301'
+ht-degree: 2%
 
 ---
 
@@ -50,11 +50,17 @@ Auf der rechten Seite des Bildschirms &quot;Agent Inbox&quot;können Sie (von ob
 
 ![](assets/agent-inbox-5.png)
 
+## Sitzung beenden {#end-a-session}
+
+Support-Mitarbeiter können eine Sitzung manuell beenden, indem sie einfach auf **Sitzung beenden** neben den Besucherinformationen.
+
+![](assets/agent-inbox-6.png)
+
 ## Aktivitätsverlauf {#activity-history}
 
 Unter den Besucherinformationen befindet sich der Aktivitätsverlauf. Zeigen Sie Aktivitätstypen und -daten an und sehen Sie sich sogar Chat-Transkripte an.
 
-![](assets/agent-inbox-6.png)
+![](assets/agent-inbox-7.png)
 
 >[!NOTE]
 >
@@ -66,12 +72,12 @@ Am unteren Rand des Live-Chat-Fensters befindet sich ein Symbol, mit dem Sie den
 
 1. Klicken Sie auf das Kalendersymbol.
 
-   ![](assets/agent-inbox-7.png)
+   ![](assets/agent-inbox-8.png)
 
 1. Wählen Sie den gewünschten Agentenkalender aus und klicken Sie auf **Senden**.
 
-   ![](assets/agent-inbox-8.png)
+   ![](assets/agent-inbox-9.png)
 
 1. Der Chatbesucher kann ein Meeting buchen.
 
-   ![](assets/agent-inbox-9.png)
+   ![](assets/agent-inbox-10.png)
