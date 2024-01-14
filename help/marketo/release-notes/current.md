@@ -3,10 +3,10 @@ description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokument
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 0180723fdbe8dbf4855666b5c465ce17709afda4
+source-git-commit: 5f44192438ace61e234925a756def6ca88004cff
 workflow-type: tm+mt
-source-wordcount: '646'
-ht-degree: 8%
+source-wordcount: '650'
+ht-degree: 7%
 
 ---
 
@@ -32,7 +32,7 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
   </tr>
     <tr> 
    <td><strong>On-Demand-Webinare für interaktive Webinare</strong>: Mit On-Demand-Webinaren können Sie die Webinaraufzeichnung veröffentlichen und ihre Besuche/Uhren verfolgen. Dies hilft Ihnen, mehr Leads durch Registrierungspflichtige zu erhalten, die nicht am Webinar teilgenommen haben (keine Sendung), aber trotzdem daran interessiert sind, mehr Details zu erhalten und die Aufzeichnung anzuzeigen.</td> 
-   <td>Versendet</td>
+   <td>Schifffahrt heute</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/on-demand-webinars.md" target="_blank">On-Demand-Webinare</a></td>
   </tr>
    <tr> 
@@ -56,7 +56,7 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
    </tr>
     <tr> 
    <td><strong>Filtern der E-Mail-Bot-Aktivität</strong>: Verbessert die Erfassung von Bot-Aktivitäten für E-Mail-Interaktionen, indem Sie auswählen können, wie aggressiv die Filterung der Bot-Aktivitätserkennung sein soll.</td> 
-   <td>Versendet</td>
+   <td>Schifffahrt heute</td>
    <td><a href="/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md" target="_blank">Filtern der E-Mail-Bot-Aktivität</a></td>
   </tr>
   <tr> 
@@ -125,7 +125,7 @@ Alle unten aufgeführten Funktionen entsprechen dem Agile-Format und werden an v
    </tr>
     <tr> 
    <td><strong>Chatbot-Schriftfarboptionen</strong>: Passen Sie die Schriftfarben in einer Chatbot-Konfiguration an.</td> 
-   <td>Versendet</td>
+   <td>Schifffahrt heute</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/configuration.md#style" target="_blank">Konfiguration</a></td>
   </tr>
   <tr> 
@@ -147,7 +147,7 @@ Alle unten aufgeführten Funktionen entsprechen dem Agile-Format und werden an v
     </tr>
     <tr> 
    <td><strong>Manuelles Beenden des Live-Chat</strong>: Sowohl Besucher als auch Agenten können jetzt eine Live-Chat-Sitzung manuell beenden.</td> 
-   <td>Versendet</td>
+   <td>Schifffahrt heute</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#end-a-session" target="_blank">Agenten-Posteingang</a></td>
   </tr>
   <tr> 
