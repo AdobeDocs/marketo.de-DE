@@ -2,10 +2,10 @@
 description: Übernommene Checkliste für Instanzadministratoren - Marketo-Dokumente - Produktdokumentation
 title: Checkliste für geerbte Instanzadministratoren
 feature: Getting Started
-exl-id: 4840d1a8-306b-4b53-917d-2262ae903a42
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
+source-git-commit: 6c2f3550f3e95bbfc14730d74bb2fbaa966255db
 workflow-type: tm+mt
-source-wordcount: '1592'
+source-wordcount: '1832'
 ht-degree: 3%
 
 ---
@@ -22,7 +22,7 @@ Die folgenden Checklisten (nachfolgende Checklisten, die am Ende jedes Artikels 
 
 >[!NOTE]
 >
->Dies gilt nur für Anmeldungen, die an [Adobe Identity Management System (IMS)](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. If your Marketo Engage subscription has not onboarded Adobe IMS yet, proceed with the [legacy user roles and permissions experience](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"} unter Marketo Engage > Admin > Benutzer und Rollen.
+>Dies gilt nur für Marketo Engage-Abonnements, die an [Adobe Identity Management System (IMS)](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. If your subscription has not onboarded Adobe IMS yet, proceed with the [legacy user roles and permissions experience](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"} unter Marketo Engage > Admin > Benutzer und Rollen.
 
 <table> 
  <tbody> 
@@ -99,7 +99,7 @@ Die folgenden Checklisten (nachfolgende Checklisten, die am Ende jedes Artikels 
  </tbody> 
 </table>
 
-## Audit-Trail {#audit-trail}
+## Audit-Protokoll {#audit-trail}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -108,7 +108,7 @@ Die folgenden Checklisten (nachfolgende Checklisten, die am Ende jedes Artikels 
    <th>Fokus überprüfen</th>
   </tr> 
   <tr> 
-   <td>Audit-Trail</td> 
+   <td>Audit-Protokoll</td> 
    <td><li><a href="/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md" target="_blank">Wer arbeitet</a> in der Instanz?</li></td>
   </tr>
  </tbody> 
@@ -228,7 +228,7 @@ Die folgenden Checklisten (nachfolgende Checklisten, die am Ende jedes Artikels 
 <br/>     Wenn ja, durchklicken Sie sie, um zu verstehen, welche Aktivitäten nicht mit einem Marketo-Formular, einer E-Mail oder einer Landingpage verbunden sind.</li></td>
   </tr>
   <tr> 
-   <td>benutzerdefinierte -Objekte</td> 
+   <td>Benutzerdefinierte Objekte</td> 
    <td><li>Wie viele <a href="/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md" target="_blank">Benutzerdefinierte Objekte</a> Gibt es sie? Wie werden sie mit Ihrem CRM synchronisiert?</li>
 <li>Wie werden diese benutzerdefinierten Objekte von Ihren Programmen und Listenabfragen verwendet?</li></td>
   </tr>
@@ -288,11 +288,31 @@ Die folgenden Checklisten (nachfolgende Checklisten, die am Ende jedes Artikels 
    <td>Web-Services</td> 
    <td><li>sind <a href="/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md" target="_blank">IP-Einschränkungen</a> aktiviert? Sollen sie das sein?</li>
 <li>Welche Benutzer/Apps führen API-Aufrufe in Ihrer Instanz durch?</li>
-<li>Haben Sie Ihr API-Limit erreicht oder stehen Sie kurz davor? 
+<li>Haben Sie Ihr API-Limit erreicht oder stehen Sie kurz davor?
 <br/>     Falls ja, sollten Sie sie erhöhen oder Ihre Instanz überprüfen, um diese API-Aufrufe zu reduzieren.</li></td>
   </tr>
   <tr> 
-   <td>Marketo Sales Insight (falls zutreffend)</td> 
+   <td>Adobe Dynamic Chat (falls zutreffend)</td> 
+<td><li>Haben Sie die <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md" target="_blank">Dynamic Chat Product Admin</a> einladen? Die E-Mail wird gesendet, wenn Dynamic Chat in Ihrer Marketo Engage-Instanz aktiviert ist und Sie als Systemadministrator benannt sind.
+<br/>     Wenn nicht, suchen Sie nach der Begrüßungs-E-Mail in Ihrem Posteingang und nehmen Sie die Einladung zur Einrichtung Ihrer Adobe ID an.</li>   
+<li>Haben Sie die <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user" target="_blank">gewünschte Benutzer</a> zum Dynamic Chat-Produktprofil in Adobe Admin Console?
+<ul>
+<li>Stellen Sie sicher, dass Ihren berechtigten Benutzern das Dynamic Chat-Produktprofil zu ihrer Adobe-Identität hinzugefügt wird. Sie können unter Marketo Engage &gt; Admin &gt; Dynamic Chat keine Rollen zuweisen, wenn diese einem Produktprofil hinzugefügt werden.</li>
+<li>Stimmen die Standardprofilberechtigungen auf der Registerkarte "Produktprofile"mit den Anforderungen Ihres Unternehmens überein?<br/> 
+Wenn nicht, bearbeiten Sie die Berechtigungen für das spezifische Profil. </li>
+<li>Wenn Sie mehr als ein Abonnement haben, werden Ihre Benutzer zu den richtigen Abonnements hinzugefügt?</li>
+</ul>
+</li>
+Sobald Sie die Prüfung der Benutzer- und Benutzereinstellungen abgeschlossen haben, melden Sie sich bei Dynamic Chat an, um Ihre Prüfung fortzusetzen.  
+<li>Ist Ihre Marketo Engage- und Dynamic Chat-Synchronisation auf der Registerkarte "Integrationen"noch aktiviert?</li>
+<li>Gelten die fünf Standardprofile mit vordefinierten Berechtigungen für Ihre Organisation?<br/> 
+     Wenn nicht, können Sie <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md#edit-existing-permissions" target="_blank">sie im Dynamic Chat bearbeiten</a>. Sie können auch <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md#create-a-profile" target="_blank">Benutzerdefiniertes Profil erstellen</a> mit benutzerdefinierten Berechtigungen.</li>
+<li>Haben Sie die Option "Zugriff auf Dynamic Chat" auf die entsprechende Marketo Engage-Rolle unter Admin &gt; Benutzer und Rollen &gt; Rollen aktiviert, um Ihren Benutzern Zugriff auf Dynamic Chat zu ermöglichen?
+<br/><img src="assets/note-icon.png" alt="Notizsymbol"> HINWEIS: Die Rollen "Admin"und "Marketing-Benutzer"sollten Zugriff auf Dynamic Chat haben.</li>
+<li>Habt ihr <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md" target="_blank">Marketo Engage-Instanz verbunden haben</a> auf Dynamic Chat?</li>
+</td>
+  </tr>
+  <td>Marketo Sales Insight (falls zutreffend)</td> 
    <td><li>Hat die <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md" target="_blank">MSI-Paket installiert</a>?</li>
 <li>Habt ihr <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md" target="_blank">auf die neueste Version von Sales Insight aktualisiert</a>?</li>
 <li>Haben Sie die Konfiguration von Sales Insight abgeschlossen? <br/>     Enterprise/Unlimited-Benutzer <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md" target="_blank">Klicken Sie hier</a>, Professional Users <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md" target="_blank">Klicken Sie hier</a>.</li>

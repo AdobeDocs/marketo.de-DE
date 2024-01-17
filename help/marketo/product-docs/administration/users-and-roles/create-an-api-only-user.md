@@ -4,16 +4,20 @@ description: Erstellen eines reinen API-Benutzers - Marketo-Dokumente - Produktd
 title: Erstellen eines reinen API-Benutzers
 exl-id: 23c92255-07a8-41c2-b7b8-8e495d135671
 feature: Users and Roles
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 6c2f3550f3e95bbfc14730d74bb2fbaa966255db
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 2%
+source-wordcount: '185'
+ht-degree: 0%
 
 ---
 
 # Erstellen eines reinen API-Benutzers {#create-an-api-only-user}
 
 Wenn Sie die Integration mit Marketo über die [REST-API](https://developers.marketo.com/documentation/rest/){target="_blank"}, müssen Sie nur einen API-Benutzer erstellen. So geht es.
+
+>[!NOTE]
+>
+>Wenn Sie nur API-Benutzer in einem Abonnement erstellen, das mit Adobe Identity integriert wurde, gehen Sie wie folgt vor: [finden Sie hier .](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}.
 
 >[!PREREQUISITES]
 >
@@ -23,7 +27,7 @@ Wenn Sie die Integration mit Marketo über die [REST-API](https://developers.mar
 >
 >**Erforderliche Administratorberechtigungen**
 
-1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
+1. Navigieren Sie zu **[!UICONTROL Admin]** Bereich.
 
    ![](assets/create-an-api-only-user-1.png)
 
@@ -59,4 +63,4 @@ Dann ja! Erstellen wir nun den benutzerdefinierten Dienst.
 
 >[!MORELIKETHIS]
 >
->[Erstellen eines benutzerdefinierten Dienstes zur Verwendung mit der ReST-API](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md){target="_blank"}
+>[Erstellen eines benutzerdefinierten Dienstes zur Verwendung mit der REST-API](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md){target="_blank"}
