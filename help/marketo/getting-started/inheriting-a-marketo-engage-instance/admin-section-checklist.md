@@ -3,9 +3,9 @@ description: Übernommene Checkliste für Instanzadministratoren - Marketo-Dokum
 title: Checkliste für geerbte Instanzadministratoren
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-source-git-commit: 6c2f3550f3e95bbfc14730d74bb2fbaa966255db
+source-git-commit: 492a43045bdf77243e4600eeb2223e750a35859b
 workflow-type: tm+mt
-source-wordcount: '1832'
+source-wordcount: '1817'
 ht-degree: 3%
 
 ---
@@ -298,18 +298,17 @@ Die folgenden Checklisten (nachfolgende Checklisten, die am Ende jedes Artikels 
 <li>Haben Sie die <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user" target="_blank">gewünschte Benutzer</a> zum Dynamic Chat-Produktprofil in Adobe Admin Console?
 <ul>
 <li>Stellen Sie sicher, dass Ihren berechtigten Benutzern das Dynamic Chat-Produktprofil zu ihrer Adobe-Identität hinzugefügt wird. Sie können unter Marketo Engage &gt; Admin &gt; Dynamic Chat keine Rollen zuweisen, wenn diese einem Produktprofil hinzugefügt werden.</li>
-<li>Stimmen die Standardprofilberechtigungen auf der Registerkarte "Produktprofile"mit den Anforderungen Ihres Unternehmens überein?<br/> 
+<li>Entsprechen die Standardprofilberechtigungen auf der Registerkarte "Produktprofile"den Anforderungen Ihres Unternehmens?<br/> 
 Wenn nicht, bearbeiten Sie die Berechtigungen für das spezifische Profil. </li>
 <li>Wenn Sie mehr als ein Abonnement haben, werden Ihre Benutzer zu den richtigen Abonnements hinzugefügt?</li>
 </ul>
 </li>
 Sobald Sie die Prüfung der Benutzer- und Benutzereinstellungen abgeschlossen haben, melden Sie sich bei Dynamic Chat an, um Ihre Prüfung fortzusetzen.  
-<li>Ist Ihre Marketo Engage- und Dynamic Chat-Synchronisation auf der Registerkarte "Integrationen"noch aktiviert?</li>
+<li>Habt ihr <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md" target="_blank">Marketo Engage-Instanz verbunden haben</a> auf Dynamic Chat?</li>
 <li>Gelten die fünf Standardprofile mit vordefinierten Berechtigungen für Ihre Organisation?<br/> 
      Wenn nicht, können Sie <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md#edit-existing-permissions" target="_blank">sie im Dynamic Chat bearbeiten</a>. Sie können auch <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md#create-a-profile" target="_blank">Benutzerdefiniertes Profil erstellen</a> mit benutzerdefinierten Berechtigungen.</li>
 <li>Haben Sie die Option "Zugriff auf Dynamic Chat" auf die entsprechende Marketo Engage-Rolle unter Admin &gt; Benutzer und Rollen &gt; Rollen aktiviert, um Ihren Benutzern Zugriff auf Dynamic Chat zu ermöglichen?
 <br/><img src="assets/note-icon.png" alt="Notizsymbol"> HINWEIS: Die Rollen "Admin"und "Marketing-Benutzer"sollten Zugriff auf Dynamic Chat haben.</li>
-<li>Habt ihr <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md" target="_blank">Marketo Engage-Instanz verbunden haben</a> auf Dynamic Chat?</li>
 </td>
   </tr>
   <td>Marketo Sales Insight (falls zutreffend)</td> 

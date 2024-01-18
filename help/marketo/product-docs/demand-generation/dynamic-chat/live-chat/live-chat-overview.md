@@ -3,16 +3,20 @@ description: Live-Chat-Übersicht - Marketo-Dokumente - Produktdokumentation
 title: Live-Chat-Übersicht
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 82ff48a227f7f05d49d0189cc48df48c34190622
+source-git-commit: 492a43045bdf77243e4600eeb2223e750a35859b
 workflow-type: tm+mt
-source-wordcount: '550'
-ht-degree: 1%
+source-wordcount: '618'
+ht-degree: 0%
 
 ---
 
 # Live-Chat-Übersicht {#live-chat-overview}
 
 Der Live-Chat ermöglicht es Website-Besuchern, mit Ihren Vertriebsmitarbeitern in Echtzeit Chat-Gespräche zu führen.
+
+>[!NOTE]
+>
+>Konversationsflüsse und Live-Chat sind gemeinsam genutzte Testfunktionen, die eine kombinierte Lebenszeitbegrenzung von 100 Interaktionen für diejenigen auf dem Dynamic Chat Select Package haben. Wenn diese Grenze erreicht ist, werden alle veröffentlichten Konversationsflüsse nicht mehr ausgelöst. Besucher, die einen Chat mit einem Live-Agenten anfordern, erhalten die globale Ausweichmeldung. Wenden Sie sich zur Erhöhung dieses Limits an Ihren Kundenbetreuer, um die Upgrade-Optionen für Pakete zu besprechen.
 
 ## Hinzufügen von Live-Chat-Agenten {#add-live-chat-agents}
 
