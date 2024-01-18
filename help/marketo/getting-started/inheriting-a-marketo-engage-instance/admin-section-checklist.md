@@ -3,9 +3,9 @@ description: Übernommene Checkliste für Instanzadministratoren - Marketo-Dokum
 title: Checkliste für geerbte Instanzadministratoren
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-source-git-commit: 492a43045bdf77243e4600eeb2223e750a35859b
+source-git-commit: 0ca63c52cb255cc41cbb53b2c481e589d08004b3
 workflow-type: tm+mt
-source-wordcount: '1817'
+source-wordcount: '1846'
 ht-degree: 3%
 
 ---
@@ -293,16 +293,16 @@ Die folgenden Checklisten (nachfolgende Checklisten, die am Ende jedes Artikels 
   </tr>
   <tr> 
    <td>Adobe Dynamic Chat (falls zutreffend)</td> 
-<td><li>Haben Sie die <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md" target="_blank">Dynamic Chat Product Admin</a> einladen? Die E-Mail wird gesendet, wenn Dynamic Chat in Ihrer Marketo Engage-Instanz aktiviert ist und Sie als Systemadministrator benannt sind.
+<td>Die folgenden Schritte erfordern den Zugriff auf die <a href="https://adminconsole.adobe.com/" target="_blank">Adobe Admin Console</a>. Wenn Sie noch keine Adobe ID eingerichtet haben, <a href="https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html" target="_blank">Hier erfahren Sie, wie Sie das machen.</a>.
+<br/>
+<li>Haben Sie die <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md" target="_blank">Dynamic Chat Product Admin</a> einladen? Die E-Mail wird gesendet, wenn Dynamic Chat in Ihrer Marketo Engage-Instanz aktiviert ist und Sie als Systemadministrator benannt sind.
 <br/>     Wenn nicht, suchen Sie nach der Begrüßungs-E-Mail in Ihrem Posteingang und nehmen Sie die Einladung zur Einrichtung Ihrer Adobe ID an.</li>   
 <li>Haben Sie die <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user" target="_blank">gewünschte Benutzer</a> zum Dynamic Chat-Produktprofil in Adobe Admin Console?
-<ul>
 <li>Stellen Sie sicher, dass Ihren berechtigten Benutzern das Dynamic Chat-Produktprofil zu ihrer Adobe-Identität hinzugefügt wird. Sie können unter Marketo Engage &gt; Admin &gt; Dynamic Chat keine Rollen zuweisen, wenn diese einem Produktprofil hinzugefügt werden.</li>
 <li>Entsprechen die Standardprofilberechtigungen auf der Registerkarte "Produktprofile"den Anforderungen Ihres Unternehmens?<br/> 
 Wenn nicht, bearbeiten Sie die Berechtigungen für das spezifische Profil. </li>
 <li>Wenn Sie mehr als ein Abonnement haben, werden Ihre Benutzer zu den richtigen Abonnements hinzugefügt?</li>
-</ul>
-</li>
+<br>
 Sobald Sie die Prüfung der Benutzer- und Benutzereinstellungen abgeschlossen haben, melden Sie sich bei Dynamic Chat an, um Ihre Prüfung fortzusetzen.  
 <li>Habt ihr <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md" target="_blank">Marketo Engage-Instanz verbunden haben</a> auf Dynamic Chat?</li>
 <li>Gelten die fünf Standardprofile mit vordefinierten Berechtigungen für Ihre Organisation?<br/> 
