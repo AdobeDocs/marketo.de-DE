@@ -4,9 +4,9 @@ description: Marketo Plugin Releases für Microsoft Dynamics - Marketo Docs - Pr
 title: Marketo-Plug-in-Versionen für Microsoft Dynamics
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 feature: Microsoft Dynamics
-source-git-commit: 44bbd12ec5c5c213a977b9d99f455eefb99bf275
+source-git-commit: f1fd9564abe4702c3a124442ee26027d4d22f23d
 workflow-type: tm+mt
-source-wordcount: '464'
+source-wordcount: '474'
 ht-degree: 0%
 
 ---
@@ -42,7 +42,7 @@ Bei der ersten Synchronisierung mit Microsoft Dynamics laden Sie die neueste Ver
   </tr>
   <tr> 
    <td>5,0,2,1</td> 
-   <td>13.10.23</td> 
+   <td>19.01.24</td> 
    <td>Fehlerbehebung: Es wurden Fehler im Zusammenhang mit der Synchronisierung benutzerdefinierter Entitäten behoben.</td> 
   </tr> 
   <tr> 
@@ -53,7 +53,9 @@ Bei der ersten Synchronisierung mit Microsoft Dynamics laden Sie die neueste Ver
   <tr> 
    <td>5,0,1,8</td> 
    <td>27.03.23</td> 
-   <td>Fehlerbehebung: Verhindert, dass das Plug-in andere Anpassungen an den UI-Elementen in MS Dynamics überschrieben hat.</td> 
+   <td>Fehlerbehebung: Verhindert, dass das Plug-in andere Anpassungen an den UI-Elementen in MS Dynamics überschrieben hat.
+   <p>
+   Fehlerbehebung: Die in 5.0.1.1 fehlenden Navigationsbausteine wurden neu definiert.</td> 
   </tr> 
   <tr> 
    <td>5,0,1,1</td> 
