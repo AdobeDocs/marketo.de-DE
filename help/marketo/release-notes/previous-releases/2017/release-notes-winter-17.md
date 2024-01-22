@@ -4,10 +4,10 @@ description: Versionshinweise - Winter 17 - Marketo-Dokumente - Produktdokumenta
 title: Versionshinweise - Winter '17
 exl-id: b76dab24-43be-4d13-b4dc-b199e3e8f9a2
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: d1187418ecc5fa0dc47e17471baf86955667c647
 workflow-type: tm+mt
-source-wordcount: '387'
-ht-degree: 8%
+source-wordcount: '381'
+ht-degree: 7%
 
 ---
 
@@ -45,7 +45,7 @@ Die Apps Web Personalization, Predictive Content und Email Insights sind jetzt a
 
 ## Kontobasierte Marketing-Verbesserungen {#account-based-marketing-enhancements}
 
-**[Benannte Konten importieren](/help/marketo/product-docs/target-account-management/target/named-accounts/import-named-accounts.md)**
+**[Spezifische Konten importieren](/help/marketo/product-docs/target-account-management/target/named-accounts/import-named-accounts.md)**
 
 Erstellen oder aktualisieren Sie mit der Option Import benannter Konten mehrere Datensätze gleichzeitig per CSV-Upload.
 
@@ -67,7 +67,7 @@ Filtern Sie prädiktive Inhalte, die für E-Mail, Rich Media oder die Empfehlung
 
 **[Analytics nach Quelle filtern](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
 
-Filtern Sie prädiktive Inhaltsanalysen nach bestimmten Quellen - E-Mail, Rich Media oder Empfehlungsleiste.
+Filtern Sie prädiktive Inhaltsanalysen nach bestimmten Quellen - E-Mail, Rich-Media oder Empfehlungsleiste.
 
 ![](assets/predictive-content-analytics-by-source.png)
 
@@ -85,7 +85,7 @@ Bild-URL und Metadaten werden jetzt im Prozess der automatischen Inhaltserkennun
 
 Entwickler haben jetzt zusätzliche Möglichkeiten, die Bereitstellung von Push-Benachrichtigungen zu steuern. Dazu wurde ein neuer SDK-API-Aufruf hinzugefügt, mit dem Entwickler Push-Token entfernen können.
 
-## [Integration von Vibes SMS LaunchPoint](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/use-vibes-sms-messages-in-smart-list-triggers-and-filters.md) {#vibes-sms-launchpoint-integration}
+## [Integration von Vibes SMS LaunchPoint](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md) {#vibes-sms-launchpoint-integration}
 
 Verbessern Sie Ihre Zielgruppenbestimmung mit der neuen Filteroption &quot;Mitglied der Vibes-Liste&quot;.
 
