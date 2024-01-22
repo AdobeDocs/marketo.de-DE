@@ -1,19 +1,17 @@
 ---
 description: SMS senden - Marketo Docs - Produktdokumentation
 title: SMS-Nachricht senden
-hide: true
-hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 6731d6fca4b6547f1f709e45f32f766e0e0e30b4
+source-git-commit: efaf34e8113fc6364655ff01aa788aa62bdd31af
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
 
 # SMS-Nachricht senden {#send-a-vibes-sms-message}
 
-Du hast [SMS erstellt haben](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message-2.md), jetzt ist es Zeit, es zu senden. Sie können sie über Batch oder Trigger Campaign versenden.
+Du hast [SMS erstellt haben](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}, jetzt ist es Zeit, es zu senden. Sie können sie über Batch oder Trigger Campaign versenden.
 
 >[!NOTE]
 >
@@ -77,6 +75,5 @@ Du hast [SMS erstellt haben](/help/marketo/product-docs/mobile-marketing/vibes-s
 
 >[!MORELIKETHIS]
 >
->* [Erstellen einer Vibes-Nachricht](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md)
->* Schritte zum Ablauf von Videos
-
+>* [Erstellen einer Vibes-Nachricht](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md){target="_blank"}
+>* [Verwenden von SMS-Optionen in einer Smart-Kampagne](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md){target="_blank"}
