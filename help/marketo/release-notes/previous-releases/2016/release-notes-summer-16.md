@@ -1,21 +1,21 @@
 ---
 unique-page-id: 11380218
 description: Versionshinweise - sommer '16 - Marketo-Dokumente - Produktdokumentation
-title: Versionshinweise - Sommer 16
+title: Versionshinweise - sommer '16
 exl-id: 3843668e-c729-42aa-b05c-55c33ee0d783
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 5e2d1979abcafd8e4a37e55b843be932125c954e
 workflow-type: tm+mt
 source-wordcount: '783'
-ht-degree: 4%
+ht-degree: 3%
 
 ---
 
-# Versionshinweise: Sommer 16 {#release-notes-summer}
+# Versionshinweise: Sommer &#39;16 {#release-notes-summer}
 
 Die folgenden Funktionen sind in der Sommerversion 16 enthalten. Überprüfen Sie Ihre Marketo-Edition auf Funktionsverfügbarkeit. Klicken Sie auf die Titel-Links, um detaillierte Artikel zu den einzelnen Funktionen anzuzeigen.
 
-## [Kontobasiertes Marketing](https://docs.marketo.com/display/docs/account+based+marketing) {#account-based-marketing}
+## [Account-based Marketing](https://docs.marketo.com/display/docs/account+based+marketing) {#account-based-marketing}
 
 Marketo Account-basiertes Marketing bietet alle wesentlichen Funktionen einer einheitlichen Plattform:
 
@@ -39,9 +39,9 @@ Das Audit-Protokoll bietet einen umfassenden Verlauf der Änderungen, die innerh
 
 ![](assets/audit-trail.png)
 
-## [Integration von Marketo mit Vibes SMS LaunchPoint](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md) {#marketo-vibes-sms-launchpoint-integration}
+## [Integration von Marketo mit Vibes SMS LaunchPoint](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md) {#marketo-vibes-sms-launchpoint-integration}
 
-Einfaches Erstellen von SMS-Nachrichten direkt in Marketo. Personalisieren und zielen Sie Ihre Nachricht mit Ihren umfangreichen Marketo-Daten ab und überwachen Sie sie einfach über das Dashboard für SMS-Nachrichten.
+Erstellen Sie einfach SMS-Nachrichten direkt in Marketo. Personalisieren und zielen Sie Ihre Nachricht mit Ihren umfangreichen Marketo-Daten ab und überwachen Sie sie einfach über das Dashboard für SMS-Nachrichten.
 
 >[!NOTE]
 >
@@ -70,7 +70,7 @@ Verwenden Sie neue Suchfunktionen, um effizient Inhalte im Code Ihrer E-Mail zu 
 
 **Token-Unterstützung in Bildelementen**
 
-Token können jetzt im Bereich &quot;Externe URL&quot;des Einfügebild-Erlebnisses verwendet werden! Wenn Sie Bilder mit `{{my.tokens}}`können Sie diese Token jetzt im E-Mail-Editor 2.0 referenzieren. Beachten Sie, dass das Bild weiterhin auf der Arbeitsfläche von Email Editor 2.0 fehlerhaft angezeigt wird. Sie werden jedoch vor dem Versand Ihrer E-Mail in der Vorschau und im Beispiel gerendert.
+Token können jetzt im Bereich &quot;Externe URL&quot;des Einfügebild-Erlebnisses verwendet werden! Wenn Sie Bilder mit `{{my.tokens}}`können Sie diese Token jetzt in Email Editor 2.0 referenzieren. Beachten Sie, dass das Bild auf der Arbeitsfläche des E-Mail-Editors 2.0 weiterhin fehlerhaft angezeigt wird. Sie werden jedoch vor dem Versand Ihrer E-Mail in der Vorschau und im Beispiel gerendert.
 
 ## Mehrmarken-Domainen {#multiple-branding-domains}
 
@@ -98,7 +98,7 @@ Geben Sie eine Zeitverzögerung für Webkampagnen an, die auf Ihrer Website reag
 
 ## [Export von Content Analytics und Recommendations](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) {#content-analytics-and-recommendations-export}
 
-Inhaltsanalysen und Empfehlungsdaten offline ansehen.
+Inhaltsanalysen und Empfehlungsdaten offline anzeigen.
 
 ## [API-Support für Email Editor 2.0](https://developers.marketo.com/documentation/asset-api/) {#api-support-for-email-editor}
 
@@ -110,6 +110,6 @@ Neu und noch besser!
 
 ## [Datenschutzeinstellungen](/help/marketo/product-docs/administration/settings/understanding-privacy-settings.md) {#privacy-settings}
 
-Marketingexperten können Datenschutzeinstellungen verwenden, um zu entscheiden, ob Besucher mit Munchkin- und Web-Personalisierungsfunktionen verfolgt werden sollen oder nicht. Die Tracking-Ebene wird mithilfe der Einstellung Nicht verfolgen des Browsers, eines Opt-out-Cookies oder einer nicht spezifischen IP-Adresse gesteuert. Diese Methoden können sich auf den Wert und die Funktionalität von Marketo in bestimmten Bereichen auswirken. Wenn der Marketing-Experte jedoch nichts ändert, bleiben die Marketo-Funktionen unverändert.
+Marketingexperten können Datenschutzeinstellungen verwenden, um zu entscheiden, ob Besucher mit Munchkin- und Web-Personalisierungsfunktionen verfolgt werden. Die Tracking-Ebene wird mithilfe der Einstellung Nicht verfolgen des Browsers, eines Opt-out-Cookies oder einer nicht spezifischen IP-Adresse gesteuert. Diese Methoden können sich auf den Wert und die Funktionalität von Marketo in bestimmten Bereichen auswirken. Wenn der Marketing-Experte jedoch nichts ändert, bleiben die Marketo-Funktionen unverändert.
 
 Diese Funktion wird Kunden über einen Zeitraum von sechs Wochen schrittweise zur Verfügung gestellt. Wenn Sie es sofort benötigen, wenden Sie sich an den Marketo-Support.
