@@ -3,9 +3,9 @@ description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokument
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 06cfbcb6eb8b9f0370f5bc29e0787dedac7267bf
+source-git-commit: 13720f1a79ddfb7e26b09c2f9a24b5206401280a
 workflow-type: tm+mt
-source-wordcount: '683'
+source-wordcount: '690'
 ht-degree: 8%
 
 ---
@@ -176,6 +176,8 @@ Alle unten aufgeführten Funktionen entsprechen dem Agile-Format und werden an v
 <br/>
 
 ## Ankündigungen {#announcements}
+
+* [Webinar zur Marketo Engage-Version Januar 2024](https://engage.marketo.com/2024_January_Release_Webinar_OnDemandPage.html){target="_blank"}
 
 * **Aktualisierung der Lead-API synchronisieren**: Die [Lead-API synchronisieren](https://developers.marketo.com/rest-api/lead-database/leads/#create_and_update){target="_blank"}Das Verhalten von wurde in Bezug auf Aktualisierungen der `unsubscribed` -Feld. Jetzt, wenn Sie `null` als Wert ist, ist er gleich der Übergabe eines Werts von `false`.
 
