@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
-source-git-commit: 4cde82d9c9af243db698e11c2f91e9969062921e
+source-git-commit: 368e857c276e4dc19599b5169e82f578ce9becb0
 workflow-type: tm+mt
-source-wordcount: '2269'
+source-wordcount: '2270'
 ht-degree: 0%
 
 ---
@@ -81,7 +81,7 @@ Im Abschnitt &quot;Verifizierung von E-Mails durch Benutzer&quot;kann ein Admini
 
 Ein Administrator kann den E-Mail-Überprüfungsstatus des Abonnements, den Prozentsatz der Benutzer im Abonnement, die die E-Mail-Verifizierung abgeschlossen haben, und die Anzahl der Benutzer anzeigen, die als übersprungen gekennzeichnet wurden. Der Status wird über den Status der E-Mail-Verifizierung aller Benutzer im Abonnement berichtet. Der Administrator kann auf die Anzahl der übersprungenen Benutzer klicken und wird zur Registerkarte Benutzermigration navigiert, um die übersprungenen Benutzer anzuzeigen.
 
-Die Bestätigungs-E-Mail kann von einem Administrator auf der Registerkarte Benutzermigration der Migrationskonsole und der Registerkarte Benutzer und Rollen im Marketo Admin-Bereich oder vom Benutzer in den Kontoeinstellungen erneut gesendet werden. Wie Einladungs-E-Mails läuft der Link in der Verifizierungs-E-Mail nach 3 Tagen ab. Weitere Informationen zur E-Mail-Verifizierung finden Sie im [Community](nation.marketo.com) und im [Dokumentation zur E-Mail-Verifizierung](/help/marketo/product-docs/administration/users-and-roles/email-verification.md).
+Die Bestätigungs-E-Mail kann von einem Administrator auf der Registerkarte Benutzermigration der Migrationskonsole und der Registerkarte Benutzer und Rollen im Marketo Admin-Bereich oder vom Benutzer in den Kontoeinstellungen erneut gesendet werden. Wie Einladungs-E-Mails läuft der Link in der Verifizierungs-E-Mail nach 3 Tagen ab. Weitere Informationen zur E-Mail-Verifizierung finden Sie im [Community](https://nation.marketo.com/) und im [Dokumentation zur E-Mail-Verifizierung](/help/marketo/product-docs/administration/users-and-roles/email-verification.md).
 
 >[!IMPORTANT]
 >
