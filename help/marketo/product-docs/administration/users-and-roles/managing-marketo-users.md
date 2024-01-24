@@ -4,10 +4,10 @@ description: Verwalten von Marketo-Benutzern - Marketo-Dokumente - Produktdokume
 title: Verwalten von Marketo-Benutzern
 exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
 feature: Users and Roles
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: ab1ea483998d6cb37277b18adf2c1d3371bb40e6
 workflow-type: tm+mt
-source-wordcount: '346'
-ht-degree: 6%
+source-wordcount: '378'
+ht-degree: 1%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 6%
 
 ## Benutzer erstellen {#create-users}
 
-1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
+1. Navigieren Sie zu **[!UICONTROL Admin]** Bereich.
 
    ![](assets/managing-marketo-users-1.png)
 
@@ -69,7 +69,11 @@ Der neue Benutzer wird jetzt im Tab Benutzer aufgelistet und erhält eine E-Mail
 
 ## Benutzer löschen {#delete-users}
 
-1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
+>[!NOTE]
+>
+>Wenn der Benutzer, den Sie löschen möchten, auch Dynamic Chat-Benutzer ist, müssen Sie [sie aus dem Dynamic Chat entfernen](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#remove-a-chat-user) in der Admin Console ein, bevor Sie sie im Marketo Engage löschen können.
+
+1. Navigieren Sie zu **[!UICONTROL Admin]** Bereich.
 
    ![](assets/managing-marketo-users-10.png)
 
@@ -87,7 +91,7 @@ Der neue Benutzer wird jetzt im Tab Benutzer aufgelistet und erhält eine E-Mail
 
 ## Zurücksetzen von Benutzerkennwörtern {#reset-user-passwords}
 
-1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
+1. Navigieren Sie zu **[!UICONTROL Admin]** Bereich.
 
    ![](assets/managing-marketo-users-14.png)
 
@@ -111,7 +115,7 @@ Der Benutzer erhält eine E-Mail mit Anweisungen zum Zurücksetzen des Kennworts
 
 ## Berechtigungen ändern und Benutzerinformationen bearbeiten {#change-permissions-and-edit-user-information}
 
-1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
+1. Navigieren Sie zu **[!UICONTROL Admin]** Bereich.
 
    ![](assets/managing-marketo-users-18.png)
 
@@ -123,7 +127,7 @@ Der Benutzer erhält eine E-Mail mit Anweisungen zum Zurücksetzen des Kennworts
 
    ![](assets/managing-marketo-users-20.png)
 
-1. Sie können Benutzerinformationen bearbeiten und die zugehörige Rolle ändern. Klicks **[!UICONTROL Speichern]**.
+1. Sie können Benutzerinformationen bearbeiten und die zugehörige Rolle ändern. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/managing-marketo-users-21.png)
 
