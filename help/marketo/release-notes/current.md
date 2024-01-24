@@ -3,7 +3,7 @@ description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokument
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 8921f2e7608dd1ec1240d39cfeae845f79ae5db2
+source-git-commit: af5e6b567c074507e20a8b8d312f3abaa5ab60b0
 workflow-type: tm+mt
 source-wordcount: '691'
 ht-degree: 7%
@@ -183,4 +183,4 @@ Alle unten aufgeführten Funktionen entsprechen dem Agile-Format und werden an v
 
 * **E-Mail-Überprüfung für Benutzer, die nur SSO verwenden**: SSO Nur Benutzer, die früher automatisch verifiziert wurden, sodass sie ein nicht zugängliches E-Mail-Konto verwenden konnten. Ab Mitte Januar werden alle bestehenden Benutzer von SSO Only nicht mehr überprüft und aufgefordert, ihre E-Mail über einen Link, den wir an das E-Mail-Konto senden, zu überprüfen. Alle neuen Benutzer von SSO Nur Benutzer müssen ihre E-Mail-Adressen in Zukunft überprüfen.
 
-* Beobachten Sie die [Webinar zur Marketo Engage-Version Januar 2024](https://engage.marketo.com/2024_January_Release_Webinar_OnDemandPage.html){target="_blank"}
+* Beobachten Sie die [Webinar zur Marketo Engage-Version Januar 2024](https://engage.marketo.com/2024_January_Release_Webinar_OnDemandPage.html){target="_blank"}.
