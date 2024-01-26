@@ -3,9 +3,9 @@ description: Dynamic Chat FAQ - Marketo Docs - Produktdokumentation
 title: Dynamic Chat-FAQs
 feature: Dynamic Chat
 exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
-source-git-commit: a7404dc5c3f2014f53d49fd033f7e4002b9b2203
+source-git-commit: b1101617ec670d42aed8c35044b656ba5fa0f9f5
 workflow-type: tm+mt
-source-wordcount: '781'
+source-wordcount: '837'
 ht-degree: 0%
 
 ---
@@ -84,8 +84,15 @@ Ein Dialogfeld ist eine Konversation, die Webbesuchern automatisch angezeigt wir
 
 **Gibt es eine Möglichkeit, mit Dynamic Chat Meetings direkt über eine E-Mail zu buchen?**
 
-Ja! [Informieren](https://nation.marketo.com/t5/product-blogs/using-dynamic-chat-conversational-flows-for-meeting-booking/ba-p/340936){target="_blank"}.
+Ja! [Erfahren Sie mehr](https://nation.marketo.com/t5/product-blogs/using-dynamic-chat-conversational-flows-for-meeting-booking/ba-p/340936){target="_blank"}.
+
+**Was genau bedeuten Begriffe wie &quot;Verlobt&quot;oder &quot;Erwerbslose&quot;?**
+
+Es werden mehrere Begriffe im Dynamic Chat verwendet. Definitionen für viele von ihnen finden Sie in den Hilfeartikeln ihrer jeweiligen Bereiche.
+* Analytics-Begriffe wie &quot;Personen erworben&quot; [finden Sie hier .](/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#definitions).
+* Definitionen für Smart List-Trigger/Filter [finden Sie hier .](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md#definitions).
+* Beschreibungen der verschiedenen Stream Designer-Karten [finden Sie hier .](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards).
 
 **Kann ich Dynamic Chat ohne Marketo Engage verwenden?**
 
-Nein. Während Dynamic Chat eine separate Anwendung von Marketo Engage ist, sind die beiden untrennbar miteinander verbunden.
+Anz. Während Dynamic Chat eine separate Anwendung von Marketo Engage ist, sind die beiden untrennbar miteinander verbunden.

@@ -3,10 +3,10 @@ description: Stream Designer - Marketo-Dokumente - Produktdokumentation
 title: Entwerferin bzw. Entwerfer des Streams
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: 40daf5e09aaf66502b1e7e8754b9a374ff0a9fa9
+source-git-commit: b1101617ec670d42aed8c35044b656ba5fa0f9f5
 workflow-type: tm+mt
-source-wordcount: '1107'
-ht-degree: 2%
+source-wordcount: '1108'
+ht-degree: 1%
 
 ---
 
@@ -24,36 +24,36 @@ Der Stream-Designer enthält mehrere Karten, die Sie hinzufügen können, um die
 
 <table>
  <tr>
-  <td><strong>Nachricht</strong></td>
+  <td style="width:25%"><strong>Nachricht</strong></td>
   <td>Verwenden Sie, wenn Sie eine Aussage ohne Antwort erforderlich machen möchten (z. B.: "Hi! Mit dem Code SAVE25" sind alle Artikel heute um 25 % billiger.
 </td>
  </tr>
  <tr>
-  <td><strong>Frage</strong></td>
+  <td style="width:25%"><strong>Frage</strong></td>
   <td>Verwenden Sie diese Option, wenn Sie eine Multiple-Choice-Frage stellen möchten, von der Sie die verfügbaren Antworten erhalten (z. B.: Wofür sind Sie interessiert? Antworten = SUV, Compact, Truck usw.).</td>
  </tr>
  <tr>
-  <td><strong>Dokument</strong></td>
+  <td style="width:25%"><strong>Dokument</strong></td>
   <td>Ermöglicht das Einbetten von PDF-Dokumenten in Dialogfelder und das Verfolgen der Aktivität von Besuchern zur Dokumenteninteraktion (Anzahl der angezeigten-Seiten, Download des Dokuments und/oder verwendete Suchbegriffe).</td>
  </tr>
  <tr>
-  <td><strong>Informationserfassung</strong></td>
+  <td style="width:25%"><strong>Informationserfassung</strong></td>
   <td>Verwenden Sie diese Option, wenn Sie Informationen erfassen möchten (z. B. Name, E-Mail-Adresse, Berufsbezeichnung usw.). Nachdem Sie ausgewählt haben, welchem Feld die Antwort zugeordnet werden soll, können Sie den Besuchertyp in der Antwort angeben oder Optionen aus einer von Ihnen festgelegten Auswahlliste auswählen (Tipp: Letzteres kann bei der Bereinigung der Datenbank helfen). Sie können auch festlegen, welche Daten Sie derzeit für die Antwort aufgelistet haben, oder die Frage vollständig überspringen, wenn Sie bereits über einen Wert für sie verfügen.</td>
  </tr>
  <tr>
-  <td><strong>Konferenzbuchung</strong></td>
+  <td style="width:25%"><strong>Konferenzbuchung</strong></td>
   <td>Bietet dem Besucher einen Kalender der verfügbaren Daten, um ein Meeting zu planen. Wählen Sie die Kalenderverfügbarkeit über Round Robin, einen bestimmten Agenten oder mithilfe benutzerdefinierter Regeln. Klicks <b>Attribut hinzufügen</b> wenn Sie den Namen oder die E-Mail-Adresse des Agenten erfassen und ihn zum Personendatensatz des Chat-Besuchers für zukünftige Abfragen zuweisen möchten (Tipp: Erstellen Sie eine <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">Benutzerdefiniertes Feld</a> , um die Agenteninformationen so zuzuordnen, dass ein standardmäßiges Marketo Engage-Feld nicht überschrieben wird).</td>
  </tr>
  <tr>
-  <td><strong>Ziel</strong></td>
+  <td style="width:25%"><strong>Ziel</strong></td>
   <td>Dies ist die einzige Karte, die die Besucher nicht sehen werden. Es liegt an Ihnen zu bestimmen, an welchem Punkt ein Ziel innerhalb des bestimmten Chat erreicht wird (z. B.: Wenn das Sammeln der E-Mail des Besuchers Ihr Ziel ist, platzieren Sie die Zielkarte unmittelbar nach der Informationserfassung im Stream).</td>
  </tr>
  <tr>
-  <td><strong>Aktion</strong></td>
+  <td style="width:25%"><strong>Aktion</strong></td>
   <td>Ähnlich wie ausgeblendete Felder in einem Formular können Sie mit der Aktionskarte jedes Lead- oder Firmenattribut (mit einer <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">Zeichenfolgen-Datentyp</a>) mit impliziten Werten, die Sie mit einem Lead-Datensatz erfassen möchten. Sie können die Aktionskarte jederzeit in der Konversation hinzufügen und die entsprechenden Attribute mit einem Wert oder nativen Token aktualisieren, die den entsprechenden Wert automatisch ausfüllen.</td>
  </tr>
  <tr>
-  <td><strong>Live-Chat</strong></td>
+  <td style="width:25%"><strong>Live-Chat</strong></td>
   <td>Verwenden Sie die Live-Chat-Karte, wenn Sie möchten, dass Besucher mit einem Live-Agenten chatten.
   <li>Die Live-Chat-Karte muss die letzte Karte im Zweig sein.</li>
   <li>Die Besucher werden an einen Agenten weitergeleitet, sobald sie diese Karte im Stream erreichen. Daher wird empfohlen, dieser Karte eine Fragenkarte mit der Frage vorzustellen, ob sie mit einem Live-Agenten chatten möchten.</li></td>
@@ -66,23 +66,23 @@ In der rechten oberen Ecke des Stream-Designers sehen Sie eine Handvoll Symbole.
 
 <table>
  <tr>
-  <td><img src="assets/stream-designer-1.png"></td>
+  <td style="width:10%"><img src="assets/stream-designer-1.png"></td>
   <td>Vergrößert die Ansicht und erstellt größere Karten</td>
  </tr>
  <tr>
-  <td><img src="assets/stream-designer-2.png"></td>
+  <td style="width:10%"><img src="assets/stream-designer-2.png"></td>
   <td>Verkleinert die Ansicht und erstellt kleinere Karten</td>
  </tr>
  <tr>
-  <td><img src="assets/stream-designer-3.png"></td>
+  <td style="width:10%"><img src="assets/stream-designer-3.png"></td>
   <td>Öffnet ein Fenster, in dem Sie Ihren Chat testen können (drücken Sie zum Schließen denselben Knopf)</td>
  </tr>
  <tr>
-  <td><img src="assets/stream-designer-4.png"></td>
+  <td style="width:10%"><img src="assets/stream-designer-4.png"></td>
   <td>Ermöglicht die Suche nach Karten- oder Inhaltsarten in Ihrem Stream</td>
  </tr>
  <tr>
-  <td><img src="assets/stream-designer-5.png"></td>
+  <td style="width:10%"><img src="assets/stream-designer-5.png"></td>
   <td>Ordnet alle Karten in Ihrem Stream an</td>
  </tr>
 </table>
@@ -161,19 +161,19 @@ Sie können Streams für Dialogfelder erstellen oder [Conversation Forms](/help/
 
    <table>
     <tr>
-     <td><strong>Typ</strong></td>
+     <td style="width:30%"><strong>Typ</strong></td>
      <td>Der Informationstyp, den Sie erfassen möchten: Telefon, Text, E-Mail.</td>
     </tr>
     <tr>
-     <td><strong>Chatbot-Nachricht</strong></td>
+     <td style="width:30%"><strong>Chatbot-Nachricht</strong></td>
      <td>Die Meldung, die der Besucher sieht und ihn auffordert, die Informationen anzugeben.</td>
     </tr>
     <tr>
-     <td><strong>Platzhalter</strong></td>
+     <td style="width:30%"><strong>Platzhalter</strong></td>
      <td>Beispieltext, der dem Besucher dabei hilft, zu sehen, was er eingeben soll.</td>
     </tr>
     <tr>
-     <td><strong>Antwort einem Attribut zuordnen</strong></td>
+     <td style="width:30%"><strong>Antwort einem Attribut zuordnen</strong></td>
      <td>Hiermit können Sie die Antwort des Besuchers mit dem entsprechenden Feld in seinem Personendatensatz in Ihrem Marketo-Abonnement synchronisieren.</td>
     </tr>
    </table>
@@ -210,4 +210,4 @@ Sie können Streams für Dialogfelder erstellen oder [Conversation Forms](/help/
 >
 >* [Erstellen eines Dialogfelds](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}
 >* [Zielgruppenkriterien](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md){target="_blank"}
->* [Adobe PDF Embed-API](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md){target="_blank"}
+>* [Adobe PDF Embed API](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md){target="_blank"}
