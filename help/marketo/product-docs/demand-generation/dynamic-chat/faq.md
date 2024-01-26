@@ -3,7 +3,7 @@ description: Dynamic Chat FAQ - Marketo Docs - Produktdokumentation
 title: Dynamic Chat-FAQs
 feature: Dynamic Chat
 exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
-source-git-commit: b1101617ec670d42aed8c35044b656ba5fa0f9f5
+source-git-commit: 79b439a9bb3d3cd130eb5a7b52cea13988e7b88e
 workflow-type: tm+mt
 source-wordcount: '837'
 ht-degree: 0%
@@ -89,9 +89,10 @@ Ja! [Erfahren Sie mehr](https://nation.marketo.com/t5/product-blogs/using-dynami
 **Was genau bedeuten Begriffe wie &quot;Verlobt&quot;oder &quot;Erwerbslose&quot;?**
 
 Es werden mehrere Begriffe im Dynamic Chat verwendet. Definitionen für viele von ihnen finden Sie in den Hilfeartikeln ihrer jeweiligen Bereiche.
-* Analytics-Begriffe wie &quot;Personen erworben&quot; [finden Sie hier .](/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#definitions).
-* Definitionen für Smart List-Trigger/Filter [finden Sie hier .](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md#definitions).
-* Beschreibungen der verschiedenen Stream Designer-Karten [finden Sie hier .](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards).
+
+* Analytics-Begriffe wie &quot;Personen erworben&quot; [finden Sie hier .](/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#definitions){target="_blank"}.
+* Definitionen für Smart List-Trigger/Filter [finden Sie hier .](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md#definitions){target="_blank"}.
+* Beschreibungen der verschiedenen Stream Designer-Karten [finden Sie hier .](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards){target="_blank"}.
 
 **Kann ich Dynamic Chat ohne Marketo Engage verwenden?**
 

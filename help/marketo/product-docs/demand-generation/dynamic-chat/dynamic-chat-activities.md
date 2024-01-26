@@ -3,7 +3,7 @@ description: Dynamic Chat-Aktivitäten - Marketo Docs - Produktdokumentation
 title: Dynamic Chat-Aktivitäten
 feature: Dynamic Chat
 exl-id: ef3bb1a3-6758-4798-92eb-fef28a5ff9c7
-source-git-commit: b1101617ec670d42aed8c35044b656ba5fa0f9f5
+source-git-commit: 79b439a9bb3d3cd130eb5a7b52cea13988e7b88e
 workflow-type: tm+mt
 source-wordcount: '254'
 ht-degree: 0%
@@ -22,31 +22,31 @@ Dynamic Chat bietet mehrere Filter und Trigger zur Verwendung in Ihren Smart-Lis
 <thead>
 <tbody>
   <tr>
-    <td><b>Ausgelöst</b></td>
+    <td style="width:25%"><b>Ausgelöst</b></td>
     <td>Ein Trigger-Ereignis tritt auf, wenn ein Besucher die Targeting-Kriterien für ein Dialogfeld oder einen Konversationsfluss erfüllt und das Dialogfeld angezeigt wird.
     <br>Ein Trigger pro Besucher, pro Sitzung.</td>
   </tr>
   <tr>
-    <td><b>Eingebunden in einen Konversationsfluss/-dialog</b></td>
+    <td style="width:25%"><b>Eingebunden in einen Konversationsfluss/-dialog</b></td>
     <td>Eine Interaktion tritt auf, wenn ein Webbesucher zum ersten Mal in einem Dialogfeld oder einem Konversationsfluss auf eine Eingabeaufforderung klickt (Klicken auf eine Multiple-Choice-Option, Senden von Informationen, Buchung eines Meetings, Öffnen eines Dokuments usw.). Wenn ein Besucher ein Dialogfeld oder einen Konversationsfluss öffnet, aber nicht auf eine Eingabeaufforderung klickt, wird eine Interaktion durchgeführt <b>not</b> protokolliert. 
     <br>Ein Interaktionsereignis pro Besucher, pro Sitzung.</td>
   </tr>
    <tr>
-    <td><b>Interagiert mit einem Agenten</b></td>
+    <td style="width:25%"><b>Interagiert mit einem Agenten</b></td>
     <td>Tritt auf, wenn ein Besucher erfolgreich mit einem Live-Chat-Agenten verbunden ist.
     <br>Pro Besucher und Sitzung mit dem Agentenereignis interagiert.</td>
   </tr>
   <tr>
-    <td><b>Interagiert mit Dokument</b></td>
+    <td style="width:25%"><b>Interagiert mit Dokument</b></td>
     <td>Wird ausgelöst, wenn ein Besucher auf ein Dokument in einer Dokumentkarte klickt.
     <br>Es kann mehrere Dokumentinteraktionen pro Besucher und Sitzung geben.</td>
   </tr>
   <tr>
-    <td><b>Erreichte Ziele</b></td>
+    <td style="width:25%"><b>Erreichte Ziele</b></td>
     <td>Tritt auf, wenn ein Besucher ein Ziel erreicht. <br>Es kann mehrere zielerreichte Ereignisse pro Besucher und Sitzung geben.</td>
   </tr>
   <tr>
-    <td><b>Geplantes Meeting</b></td>
+    <td style="width:25%"><b>Geplantes Meeting</b></td>
     <td>Tritt auf, wenn ein Besucher ein Treffen mit einem Dynamic Chat-Agenten bucht.
     <br>Pro Besucher und Sitzung können mehrere durch Besprechungen gebuchte Ereignisse auftreten.</td>
   </tr>

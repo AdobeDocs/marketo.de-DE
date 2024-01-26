@@ -3,7 +3,7 @@ description: Analytics - Marketo Docs - Produktdokumentation
 title: Analytics
 feature: Dynamic Chat
 exl-id: 8130a970-4cf1-4bf6-9403-998460269843
-source-git-commit: b1101617ec670d42aed8c35044b656ba5fa0f9f5
+source-git-commit: 79b439a9bb3d3cd130eb5a7b52cea13988e7b88e
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 2%
@@ -54,12 +54,12 @@ Dialogfelder, Konversationsflüsse oder alles. Wählen Sie einen vordefinierten 
 <thead>
 <tbody>
   <tr>
-    <td><b>Abgeschlossen</b></td>
+    <td style="width:25%"><b>Abgeschlossen</b></td>
     <td>Ein abgeschlossenes Ereignis tritt auf, wenn ein Besucher die letzte Aufforderung in einer Konversation erreicht <i>oder</i> wenn ein Besucher den gesamten Inhalt einer Konversation erschöpft.
     <br>Ein abgeschlossenes Ereignis pro Besucher und Sitzung.</td>
   </tr>
   <tr>
-    <td><b>Gewonnene Personen</b></td>
+    <td style="width:25%"><b>Gewonnene Personen</b></td>
     <td>Tritt auf, wenn ein Besucher seine E-Mail-Adresse sendet.
     <br>Eine Akquise pro Besucher, pro Sitzung.</td>
   </tr>
