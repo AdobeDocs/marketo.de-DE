@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
-source-git-commit: 9e77e49507fb14a6eee555850540cf12ae2dab8c
+source-git-commit: b5e10b2820c3091a648510e131e16c03ffe9c564
 workflow-type: tm+mt
 source-wordcount: '2249'
 ht-degree: 0%
@@ -75,7 +75,7 @@ Als Nächstes werden dem Administrator drei Abschnitte des Status angezeigt.
 * **Benutzermigration und -aktivierung**: Benutzermigration und Aktivierung (Migration und Berechtigung zum Marketo Engage-Produkt) des Benutzerstatus innerhalb des Abonnements.
 * **Migrationsbestätigung**: Migrationsstatus des Abonnements.
 
-**E-Mail-Verifizierung für Benutzer**
+#### E-Mail-Verifizierung für Benutzer {#user-email-verification}
 
 Im Abschnitt &quot;Verifizierung von E-Mails durch Benutzer&quot;kann ein Administrator den aktuellen Status der E-Mail-Verifizierung für die Benutzer im Abonnement vor der Migration zu Adobe Identity ermitteln.
 
@@ -87,13 +87,13 @@ Die Bestätigungs-E-Mail kann von einem Administrator auf der Registerkarte Benu
 >
 >Wenn ein Marketo Engage-Benutzer seine E-Mail-Adresse nicht verifiziert, kann er nicht zu einer Adobe ID migriert werden und verliert nach Abschluss der Migration den Zugriff auf das Marketo-Abonnement. Um wieder Zugriff zu erhalten, muss ein Marketo-Produktadministrator sie als neuen Benutzer hinzufügen.
 
-**Benutzermigration und -aktivierung**
+#### Benutzermigration und -aktivierung {#user-migration-and-activation}
 
 Im Abschnitt Benutzermigration und -aktivierung kann ein Administrator den aktuellen Status der Gesamtbenutzermigration und -berechtigungen für das Adobe Identity Management-System ermitteln.
 
 Ein Administrator kann den Prozentsatz der Benutzer in seinem Abonnement anzeigen, die zu einer Adobe ID migriert oder als übersprungen markiert wurden. Der Status wird über den Status des Migrationsstatus aller Benutzer in eine Adobe ID im Abonnement gemeldet oder als Übersprungen markiert und nicht migriert. Wenn Benutzer migriert und berechtigt sind, Marketo Engage oder übersprungen zu werden, wird dieser Status aktualisiert.
 
-**Migrationsbestätigung**
+#### Migrationsbestätigung {#migration-confirmation}
 
 Im Abschnitt Migrationsbestätigung muss ein Administrator bestätigen, dass die Benutzermigration für das Abonnement abgeschlossen ist.
 
