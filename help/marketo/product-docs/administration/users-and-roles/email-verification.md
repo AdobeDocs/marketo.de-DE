@@ -3,9 +3,9 @@ description: E-Mail-Überprüfung - Marketo-Dokumente - Produktdokumentation
 title: E-Mail-Überprüfung
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
 feature: Users and Roles
-source-git-commit: f4d2e7acaaf1ad59d716c831c7b1a2ed340a5a24
+source-git-commit: 5ef17e8c3988706a4d95332312ffb035f35bb269
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '417'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,10 @@ Marketo Engage setzt die Einführung der E-Mail-Verifizierung zur Vorbereitung d
 ## Einladung für Benutzer {#user-invite}
 
 Wenn ein Administrator einen Benutzer einlädt, wird dieser automatisch überprüft, sobald er auf den Link zum Einladen klickt.
+
+>[!IMPORTANT]
+>
+>Eine Ausnahme von oben besteht darin, dass Administratoren in einem reinen SSO-Abonnement eine neue Benutzereinladung erhalten, Administratoren, die keine Administratoren sind, dies jedoch nicht. Nicht-Administratoren müssen den E-Mail-Verifizierungsprozess durchlaufen, um die Migration ihrer Benutzerdatensätze sicherzustellen. Ein Administrator kann den E-Mail-Verifizierungslink senden, indem er auf die **E-Mail-Überprüfung erneut senden** neben ihrem Benutzernamen.
 
 ## Verification Email {#verification-email}
 
