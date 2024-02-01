@@ -4,24 +4,28 @@ description: Ändern der Landingpage-URL - Marketo Docs - Produktdokumentation
 title: Ändern der Landingpage-URL
 exl-id: 4ce9ad93-f90e-4bbb-a90c-5d0c1e764fd1
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2c8c5bbbfef63f146111e31032fc70b7650239a4
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
 
 # Ändern der Landingpage-URL {#change-the-landing-page-url}
 
-Sie können die URL einer Landingpage ändern. Dies kann dazu beitragen, die URL leichter zu merken und SEO zu verbessern.
+Sie können die URL einer Landingpage ändern. Dies kann dazu beitragen, die URL einfacher zu speichern und SEO zu verbessern.
 
-1. Wählen Sie Ihre Landingpage aus. Klicken Sie auf **Landingpage-Aktionen** Dropdown, scrollen Sie zu **URL-Tools** und wählen **URL-Einstellungen bearbeiten**.
+1. Wählen Sie die gewünschte Landingpage aus.
 
-   ![](assets/one.png)
+   ![](assets/change-the-landing-page-url-1.png)
+
+1. Klicken Sie auf **Landingpage-Aktionen** Dropdown, scrollen Sie zu **URL-Tools** und wählen **URL-Einstellungen**.
+
+   ![](assets/change-the-landing-page-url-2.png)
 
 1. Geben Sie die **Neue URL**, wählen Sie aus, dass die alte URL verworfen oder umgeleitet werden soll, und klicken Sie auf **Speichern**.
 
-   ![](assets/two.png)
+   ![](assets/change-the-landing-page-url-3.png)
 
    >[!NOTE]
    >
