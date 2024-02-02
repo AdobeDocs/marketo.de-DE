@@ -5,9 +5,9 @@ exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: 0d3a6b025e2e0205a309eaa376ae5a265dce0455
+source-git-commit: b981134dd5fbf70db2e350a5c5b5cf8128bf013c
 workflow-type: tm+mt
-source-wordcount: '1674'
+source-wordcount: '1644'
 ht-degree: 0%
 
 ---
@@ -69,54 +69,54 @@ Um Ihnen dabei zu helfen, haben wir eine Liste mit Best Practices zusammengestel
 * Aktivieren Sie die Aufzeichnung in den Zimmereinstellungen , wenn Sie die Sitzung aufzeichnen möchten. Die Erinnerung wird 5 Minuten in der Besprechung angezeigt, wenn die Aufzeichnung nicht gestartet wurde.
 
 * Aktivieren Sie den Host- und Presenter-Bereich und richten Sie ihn mit relevanten Pods ein. Dieser Bereich ist nur für Hosts und Moderatoren sichtbar und kann für die Zusammenarbeit im Hintergrund verwendet werden. Einige Pods, die hier eingeschlossen werden sollen, wären:
-   * Interaktions-Dashboard zur Überwachung der Interaktion der Teilnehmer in Echtzeit. [Hier klicken](https://www.youtube.com/watch?v=gf5fu0JK9Hk) für ein kurzes Video zur Verwendung des Interaktions-Dashboards.
+   * Interaktions-Dashboard zur Überwachung der Interaktion der Teilnehmer in Echtzeit. [Hier klicken](https://www.youtube.com/watch?v=gf5fu0JK9Hk){target="_blank"} um sich ein kurzes Video über die Verwendung des Interaktions-Dashboards anzusehen.
    * Chat-Pod, um private Gespräche zwischen den Mitgliedern des Präsentationsteams zu ermöglichen.
    * Hinweis Pod zum Veröffentlichen von Erinnerungsnachrichten, Fragen für den Moderator oder standardmäßigen Frageantworten, die Sie kopieren und einfügen können, um schnelle Antworten auf häufig gestellte Abfragen zu erhalten.
 
-BEARBEITUNG HIER ABGESCHLOSSEN
+* Benutzerdefinierte Pods sind Drittanbieter-Apps, mit denen die Funktionalität eines Adobe Connect-Raums erweitert werden kann. Benutzerdefinierte Pods können heruntergeladen werden von `apps.adobeconnect.com` als .pod- oder .zip-Dateien, die dann im Freigabe-Pod freigegeben werden können.
+   * Einige beliebte benutzerdefinierte Pods sind Countdown Timer, Clock, Rock Paper Scissors, Word Cloud, Titler.
+   * Hier finden Sie ein kurzes Video zur Verwendung benutzerdefinierter Pods.
 
-* Benutzerdefinierte Pods sind Drittanbieter-Apps, mit denen die Funktionalität eines Adobe Connect-Raums erweitert werden kann. Benutzerdefinierte Pods können von apps.adobeconnect.com als .pod- oder .zip-Dateien heruntergeladen werden, die dann im Freigabe-Pod freigegeben werden können.
+**Datenschutz: Um die Teilnehmerinformationen vertraulich zu behandeln, überprüfen Sie die folgenden Einstellungen:**
 
-Einige beliebte benutzerdefinierte Pods sind Countdown Timer, Clock, Rock Paper Scissors, Word Cloud, Titler. o Hier finden Sie ein kurzes Video zur Verwendung benutzerdefinierter Pods.
+* **Aktivitätsticker**: Activity Ticker zeigt Informationen darüber an, wer gerade spricht, und zeigt Warnungen an, wenn Teilnehmer dem Raum beitreten/ihn verlassen. Der Aktivitätsticker kann entfernt werden, indem Sie unter &quot;Menüleiste&quot;in den Zimmereinstellungen die Option &quot;Aktivitätsticker anzeigen&quot;deaktivieren.
 
-* Datenschutz: Um die Teilnehmerinformationen vertraulich zu behandeln, überprüfen Sie die folgenden Einstellungen:
+* **Fragen und Antworten**: Der Name des Teilnehmers, der die Frage gesendet hat, und der Name des Gastgebers/Moderators, der die Frage beantwortet hat, können beide ausgeblendet werden. Dies kann erreicht werden, indem Sie die Datenschutzoptionen im Abschnitt &quot;Fragen und Antworten&quot;unter &quot;Zimmereinstellungen&quot;deaktivieren.
 
-o Aktivitätsticker: Activity Ticker zeigt Informationen darüber an, wer gerade spricht, und warnt davor, dass Teilnehmer den Raum betreten oder verlassen. Der Aktivitätsticker kann entfernt werden, indem Sie unter &quot;Menüleiste&quot;in den Zimmereinstellungen die Option &quot;Aktivitätsticker anzeigen&quot;deaktivieren.
+* **Chat-Bedienfeld**: Chat Panel ist ein Chat-Bereich, der nicht Teil von Sitzungsaufzeichnungen ist. Wenn Sie also nicht möchten, dass in Aufzeichnungen Chats angezeigt werden, verwenden Sie das Chat-Bedienfeld anstelle des Chat-Pod. [Hier klicken](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} , um mehr über die Verwendung des Chat-Bedienfelds zu erfahren.
 
-o Fragen und Antworten: Der Name des Teilnehmers, der die Frage eingereicht hat, und der Name des Gastgebers/Moderators, der die Frage beantwortet hat, können beide ausgeblendet werden. Dies kann erreicht werden, indem Sie die Datenschutzoptionen im Abschnitt &quot;Frage und Antwort-Pod&quot;in den Zimmereinstellungen deaktivieren.
+* **Privater Chat**: Schalten Sie den privaten Chat aus, um zu verhindern, dass Teilnehmer einen anderen Teilnehmer pingen können. Dies lässt sich erreichen, indem Sie unter &quot;Chat&quot; in den Zimmereinstellungen die Option &quot;Privaten Chat durch die Unterschrift zulassen&quot; deaktivieren.
 
-o Chat Panel: Chat Panel ist ein Chat-Bereich, der nicht Teil von Sitzungsaufzeichnungen ist. Wenn Sie also nicht möchten, dass in Aufzeichnungen Chats angezeigt werden, verwenden Sie das Chat-Bedienfeld anstelle des Chat-Pod. Klicken Sie hier , um mehr über die Verwendung des Chat-Bedienfelds zu erfahren.
+* **Teilnehmer-Werbeunterbrechung**: Verschieben Sie den Teilnehmer-Pod in den Bereich Host und Moderator .
 
-o Privater Chat: Deaktivieren Sie den privaten Chat, um zu verhindern, dass Teilnehmer einen anderen Teilnehmer pingen können. Dies lässt sich erreichen, indem Sie unter &quot;Chat&quot;in den Zimmereinstellungen die Option &quot;Privaten Chat für Teilnehmer erlauben&quot; deaktivieren.
+## Versand {#delivery}
 
-o Teilnehmer-Pod: Verschieben Sie den Teilnehmer-Pod in den Host- und Presenter-Bereich.
+* Führen Sie einige Probeläufe durch, um Ihre Audio-/Video-Einrichtung zu testen und sich mit Adobe Connect vertraut zu machen, falls Sie sie noch nicht verwendet haben. Vergessen Sie nicht, auch Ihre Moderatoren und Mitwirte bei der Probe einzubeziehen.
 
-B. Versand
+* Bitten Sie Hosts und Moderatoren, mindestens 30 Minuten vor der Startzeit anzukommen und sicherzustellen, dass alles ordnungsgemäß funktioniert.
+   * Entscheiden Sie, wer die Fragen-und-Antworten-Pods moderieren wird.
+   * Füllen Sie die Q&amp;A- und Chat-Pods mit allen Seed-Fragen/Chat.
 
-* Führen Sie einige Probeläufe aus, um Ihr Audio-Video-Setup zu testen und sich mit Adobe Connect vertraut zu machen, falls Sie es noch nie verwendet haben. Vergessen Sie nicht, auch Ihre Moderatoren und Mitwirte bei der Probe einzubeziehen.
+* Sie können Programme, die Sie auf dem Bildschirm freigeben, für das entsprechende Fenster öffnen und vorführen. Vermeiden Sie das Starten und Anmelden bei Programmen während der Bildschirmfreigabe.
 
-* Bitten Sie Gastgeber und Moderatoren, mindestens 30 Minuten vor der Startzeit anzukommen und sicherzustellen, dass alles ordnungsgemäß funktioniert und dass jede endgültige Koordinierung erfolgt.
+* Teilnehmer können den Raum 15 Minuten vor dem geplanten Start betreten. Wechseln Sie 15 Min. vor dem geplanten Start in die Lobby für die Teilnehmer, die frühzeitig ankommen.
 
-o Entscheiden Sie, wer die Q &amp; A- und Chat-Pods moderieren wird.
+* Verwenden Sie den Host- und den Presenter-Bereich als Backstage-Bereich, um sich privat zu koordinieren. [Hier klicken](https://www.youtube.com/watch?v=11GkcvIUttY){target="_blank"} um sich ein kurzes Video über den Host- und Presenter-Bereich anzusehen.
 
-o Füllen Sie die Q &amp; A und Chat Pods mit allen Seed-Fragen/Chat.
-
-* Sie können Programme, die Sie auf dem Bildschirm freigeben, für das entsprechende Fenster öffnen und demonstrieren - vermeiden Sie den Start und die Anmeldung bei Programmen während der Bildschirmfreigabe.
-
-* Teilnehmer können den Raum 15 Minuten vor dem geplanten Start betreten. Wechseln Sie 15 Min. vor dem geplanten Start in die Lobby für die Teilnehmer, die frühzeitig ankommen. ・ Verwenden Sie den Host- und den Presenter-Bereich als Backstage-Bereich, um eine private Koordinierung vorzunehmen. Klicken Sie hier , um ein kurzes Video über den Host- und Presenter-Bereich zu sehen. ・ Verwenden Sie den Vorbereitungsmodus , um alle kurzfristigen Änderungen privat vorzunehmen. Klicken Sie hier für ein kurzes Video zum Vorbereiten des Modus.
+* Verwenden Sie den Vorbereitungsmodus , um alle kurzfristigen Änderungen privat vorzunehmen. [Hier klicken](https://www.youtube.com/watch?v=kUya84sx-E4){target="_blank"} um ein kurzes Video über den Vorbereiten-Modus anzuzeigen.
 
 * Verwenden Sie das Interaktions-Dashboard, um einen Tab zu den Interessensstufen der Teilnehmer beizubehalten. Springen Sie zu einer Umfrage, stellen Sie eine Frage zu einer Übereinstimmung/Nicht-Übereinstimmung, fügen Sie eine Frage in den Chat-Pod ein oder verwenden Sie den benutzerdefinierten Pod von Word Cloud, um Antworten von Teilnehmern zu erhalten und die Interaktionsraten zu erhöhen.
 
-* Behalten Sie einen Tab im Presenter-Chat (Chat-Pod im Host- und Presenter-Bereich), um sich kontinuierlich mit Ihrem Team zu koordinieren.
+* Behalten Sie einen Tab im Premiserechat (Chat-Pod im Host- und Presenter-Bereich), um sich kontinuierlich mit Ihrem Team zu koordinieren.
 
-C. Post Delivery - Nilesh
+## Nach der Bereitstellung {#post-delivery}
 
-* Sobald das Webinar bereitgestellt wurde, werden die Interaktionsdaten zusammen mit der Aufzeichnung in der Regel innerhalb von 1 bis 2 Stunden in Marketo bereitgestellt. Validieren Sie die Aufzeichnung und überprüfen Sie, ob die gesamte Webinar-Videoausgabe ordnungsgemäß erfasst wurde, sodass dieselbe für die Freigabe für die Zielgruppe und die Verfolgung von On-Demand-Webinardaten verwendet werden kann.
+* Sobald das Webinar bereitgestellt wurde, werden die Interaktionsdaten zusammen mit der Aufzeichnung in der Regel innerhalb von 1 bis 2 Stunden in der Marketo Engage verfügbar gemacht. Validieren Sie die Aufzeichnung und überprüfen Sie, ob die gesamte Webinar-Videoausgabe ordnungsgemäß erfasst wurde, sodass dieselbe für die Freigabe für die Zielgruppe und die Verfolgung von On-Demand-Webinardaten verwendet werden kann.
 
-* Erstellen Sie Pflegekampagnen, um die Interessenten-Leads anhand ihrer Interaktion mithilfe der interaktiven Webinarfilter und -Trigger weiter zu qualifizieren und haben Sie Danksagungskampagnen , um mehr Informationen über die Veranstaltung zu erhalten, den Link zur Aufzeichnung, Ereignisstatistiken und zukünftige Veranstaltungen aufzuzeichnen und die No-Shows dazu anzuhalten, sich wieder mit der Organisation zu verbinden. Aktivitäten, bei denen die Aufzeichnung nicht angezeigt wird, können im Rahmen von On-Demand-Webinaren nachverfolgt werden. Zusätzlich können mithilfe von On-Demand-Webinar-Filtern und -Triggern weitere Pflegekampagnen für Nicht-Shows erstellt werden.
+* Erstellen Sie Kampagnen für die Kuratierung, um die Teilnehmer anhand ihrer Interaktion weiter zu qualifizieren, indem Sie interaktive Webinare-Filter/-Trigger verwenden und Danksagungskampagnen durchführen, um weitere Informationen aus dem Ereignis, dem Aufzeichnungslink, Ereignisstatistiken und künftigen Ereignissen bereitzustellen und die No-Shows dazu anzuhalten, sich wieder mit der Organisation zu verbinden. Aktivitäten, bei denen die Aufzeichnung nicht angezeigt wird, können im Rahmen von On-Demand-Webinaren nachverfolgt werden. Zusätzlich können mithilfe von On-Demand-Webinarfiltern/-Triggern für No-Shows weitere Aufklärungskampagnen erstellt werden.
 
 * Verwenden Sie die Aktivitätsprotokolldaten für jedes Mitglied auf der Registerkarte &quot;Mitglieder&quot;, um sich die Interaktionsaktivitäten anzusehen, die von verschiedenen Teilnehmern im Webinar durchgeführt werden.
 
-* Laden Sie die Aufzeichnung herunter und veröffentlichen Sie sie auf verschiedenen Landingpages, Microsites oder Portalen für eine breitere Zielgruppenreichweite.
+* Laden Sie die Aufzeichnung herunter und veröffentlichen Sie sie auf verschiedenen Landingpages, Microsites oder Portalen für eine größere Zielgruppenreichweite.
 
-* Über das Dashboard erhalten Sie einen aggregierten Überblick über die Leistung des Webinars in Bezug auf Programmstatus, Teilnehmerverteilung, Umfrageantworten sowie Dateidownloads und Link-Klicks. Ermitteln Sie die positiven und verbesserten Bereiche im Webinar und stellen Sie sicher, dass die Lektionen im nächsten Webinar verwendet werden können, das durchgeführt werden soll.
+* Verwenden Sie das Dashboard, um eine aggregierte Ansicht der Leistung des Webinars in Bezug auf Programmstatus, Teilnehmerverteilung, Umfrageantworten, Dateidownloads und Link-Klicks zu erhalten. Ermitteln Sie die positiven und verbesserten Bereiche im Webinar und stellen Sie sicher, dass die Lektionen im nächsten Webinar verwendet werden können.
