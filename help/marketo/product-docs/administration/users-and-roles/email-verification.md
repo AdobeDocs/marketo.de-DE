@@ -3,9 +3,9 @@ description: E-Mail-Überprüfung - Marketo-Dokumente - Produktdokumentation
 title: E-Mail-Überprüfung
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
 feature: Users and Roles
-source-git-commit: 5ef17e8c3988706a4d95332312ffb035f35bb269
+source-git-commit: c5d5fd490fe2800dc7a34d02c73d728e115646a0
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '466'
 ht-degree: 0%
 
 ---
@@ -24,15 +24,19 @@ Wenn ein Administrator einen Benutzer einlädt, wird dieser automatisch überpr�
 
 >[!IMPORTANT]
 >
->Eine Ausnahme von oben besteht darin, dass Administratoren in einem reinen SSO-Abonnement eine neue Benutzereinladung erhalten, Administratoren, die keine Administratoren sind, dies jedoch nicht. Nicht-Administratoren müssen den E-Mail-Verifizierungsprozess durchlaufen, um die Migration ihrer Benutzerdatensätze sicherzustellen. Ein Administrator kann den E-Mail-Verifizierungslink senden, indem er auf die **E-Mail-Überprüfung erneut senden** neben ihrem Benutzernamen.
-
-## Verification Email {#verification-email}
-
-Benutzer erhalten die folgende E-Mail, wenn die E-Mail-Verifizierung für ein Abonnement aktiviert ist oder von einem Administrator/Benutzer ausgelöst wird:
+>Die Ausnahme von oben ist: _in einem SSO-Abonnement_, erhalten Administratoren eine neue Benutzereinladung, Benutzer ohne Administratorrechte jedoch nicht. Benutzer, die keine Administratoren sind, müssen weiterhin den E-Mail-Verifizierungsprozess durchlaufen, um die Migration ihrer Datensätze sicherzustellen. Benutzer können sich den E-Mail-Verifizierungslink senden, indem sie **Admin** > **Mein Konto** > **Kontoeinstellungen** und klicken **Überprüfung erneut durchführen**.
 
 ![](assets/email-verification-1.png)
 
->[!NOTE]
+## Verification Email {#verification-email}
+
+Benutzer erhalten die E-Mail unten, wenn die E-Mail-Verifizierung für ein Abonnement aktiviert ist oder von einem Administrator/Benutzer ausgelöst wird.
+
+Für eine erfolgreiche E-Mail-Überprüfung ist eine aktive Benutzersitzung erforderlich. Der Benutzer muss sich zunächst mit seiner Identity Provider (IdP)-URL bei seinem Marketo-Abonnement anmelden. Sobald eine Sitzung eingerichtet ist, _then_ klicken Sie auf **E-Mail-Adresse überprüfen** in der E-Mail.
+
+![](assets/email-verification-2.png)
+
+>[!TIP]
 >
 >Um eine Verifizierungs-E-Mail erneut an einen nicht verifizierten Benutzer zu senden, wählen Sie einfach dessen Datensatz aus und klicken Sie auf die **[!UICONTROL Email überprüfen]** Schaltfläche.
 
@@ -40,15 +44,15 @@ Benutzer erhalten die folgende E-Mail, wenn die E-Mail-Verifizierung für ein Ab
 
 Wenn die E-Mail-Adresse eines Benutzers geändert wird, wird sie nicht überprüft. Sie erhalten eine E-Mail, in der sie eine erneute Überprüfung durchführen können. Benutzer können diese E-Mail manuell erneut senden, indem sie auf **[!UICONTROL Überprüfung erneut durchführen]**.
 
-![](assets/email-verification-2.png)
-
 ![](assets/email-verification-3.png)
+
+![](assets/email-verification-4.png)
 
 ## Benutzer und Rollen {#users-and-roles}
 
 In **[!UICONTROL Admin]** > **[!UICONTROL Benutzer und Rollen]**, zeigt die Spalte E-Mail-Status den Überprüfungsstatus jedes Benutzers an.
 
-![](assets/email-verification-4.png)
+![](assets/email-verification-5.png)
 
 ## Mehrere Benutzer-Anmelde-IDs {#multiple-user-login-ids}
 
@@ -58,7 +62,7 @@ Nur ein Benutzerkonto kann einer einzelnen E-Mail-Adresse zugeordnet werden. Wen
 * Verwenden einer neuen E-Mail für die aktuelle Benutzer-Anmelde-ID
 * Entscheidung bis zur nächsten Anmeldung verzögern
 
-  ![](assets/email-verification-5.png)
+  ![](assets/email-verification-6.png)
 
 >[!NOTE]
 >

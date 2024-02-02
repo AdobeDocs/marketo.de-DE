@@ -4,9 +4,9 @@ title: Best Practices für interaktive Webinare
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: d65eb1814cbc5fa15b49a0ccd14a9016301d8bcb
+source-git-commit: c5d5fd490fe2800dc7a34d02c73d728e115646a0
 workflow-type: tm+mt
-source-wordcount: '1648'
+source-wordcount: '1650'
 ht-degree: 0%
 
 ---
@@ -74,7 +74,7 @@ Um Ihnen dabei zu helfen, haben wir eine Liste mit Best Practices zusammengestel
 
 * Benutzerdefinierte Pods sind Drittanbieter-Apps, mit denen die Funktionalität eines Adobe Connect-Raums erweitert werden kann. Benutzerdefinierte Pods können heruntergeladen werden von `apps.adobeconnect.com` als .pod- oder .zip-Dateien, die dann im Freigabe-Pod freigegeben werden können.
    * Einige beliebte benutzerdefinierte Pods sind Countdown Timer, Clock, Rock Paper Scissors, Word Cloud, Titler.
-   * Hier finden Sie ein kurzes Video zur Verwendung benutzerdefinierter Pods.
+   * [Hier klicken](https://www.youtube.com/watch?v=1w5nqJqEHQw){target="_blank"} , um sich ein kurzes Video über die Verwendung benutzerdefinierter Pods anzusehen.
 
 **Datenschutz: Um die Teilnehmerinformationen vertraulich zu behandeln, überprüfen Sie die folgenden Einstellungen:**
 
