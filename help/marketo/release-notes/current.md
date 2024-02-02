@@ -3,9 +3,9 @@ description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokument
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: af5e6b567c074507e20a8b8d312f3abaa5ab60b0
+source-git-commit: 60da79f1d2a9baffddc407e448b7b5da3cf52526
 workflow-type: tm+mt
-source-wordcount: '691'
+source-wordcount: '718'
 ht-degree: 7%
 
 ---
@@ -176,6 +176,8 @@ Alle unten aufgeführten Funktionen entsprechen dem Agile-Format und werden an v
 <br/>
 
 ## Ankündigungen {#announcements}
+
+* **One-Click List-Unsubscribe Update**: Gmail und Yahoo haben mehrere neue Absenderanforderungen implementiert, die am 1. Februar 2024 in Kraft traten. Lernen [was sie sind und wie sie sich auf Sie auswirken](https://nation.marketo.com/t5/employee-blogs/update-support-for-one-click-list-unsubscribe-for-marketo/ba-p/344514#M352){target="_blank"}.
 
 * **Aktualisierung der Lead-API synchronisieren**: Die [Lead-API synchronisieren](https://developers.marketo.com/rest-api/lead-database/leads/#create_and_update){target="_blank"}Das Verhalten von wurde in Bezug auf Aktualisierungen der `unsubscribed` -Feld. Jetzt, wenn Sie `null` als Wert ist, ist er gleich der Übergabe eines Werts von `false`.
 
