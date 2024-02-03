@@ -3,9 +3,9 @@ description: Migration zu Adobe Identity - Marketo Docs - Produktdokumentation
 title: Migration zur Adobe Identity
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
-source-git-commit: 1663f2e5fab9c5d5157d0e50d20fe527bd57d31a
+source-git-commit: 404d2720dec6b4932c99a1f390a88dc0835c7491
 workflow-type: tm+mt
-source-wordcount: '2253'
+source-wordcount: '2230'
 ht-degree: 0%
 
 ---
@@ -167,7 +167,7 @@ Um das Überspringen eines Benutzers aufzuheben, kann der Administrator den gew�
 
 ### Migrieren von Marketo-Benutzern zu Adobe-IDs {#migrating-marketo-users-to-adobe-ids}
 
-Diejenigen, die während des Benutzermigrationsprozesses mehr Kontrolle benötigen, unterstützt Marketo einen Self-Service-Ansatz für Abonnements mit 75 oder mehr Benutzern. Marketo-Produktadministratoren können Benutzer auswählen, die in Batches migriert werden sollen, oder alle berechtigten Benutzer gleichzeitig auswählen. Sobald Benutzer ausgewählt sind, haben Administratoren die Möglichkeit, &quot;Jetzt migrieren&quot;oder &quot;Migration planen&quot;für einen späteren Zeitpunkt festzulegen, wodurch Administratoren flexibel sind und steuern können, welche Benutzer wann migriert werden. Administratoren erhalten außerdem die Option &quot;Alle Benutzer migrieren&quot;in einem Abonnement.
+Marketo-Produktadministratoren können Benutzer auswählen, die in Batches migriert werden sollen, oder alle berechtigten Benutzer gleichzeitig auswählen. Sobald Benutzer ausgewählt sind, haben Administratoren die Möglichkeit, &quot;Jetzt migrieren&quot;oder &quot;Migration planen&quot;für einen späteren Zeitpunkt festzulegen, wodurch Administratoren flexibel sind und steuern können, welche Benutzer wann migriert werden. Administratoren erhalten außerdem die Option &quot;Alle Benutzer migrieren&quot;in einem Abonnement.
 
 Beispielsweise kann ein Administrator eine Gruppe von &quot;Power Users&quot;auswählen, die er zuerst migrieren möchte. Sobald diese Benutzermigrationen erfolgreich abgeschlossen sind, können sie basierend auf Variablen wie Arbeitsbereich/Unternehmen oder Funktion/Rolle verschiedene Benutzergruppen auswählen, um weitere Batch-Benutzermigrationen durch durchzuführen. Oder sie können die übrigen Benutzer in den Abonnements nach dem Erfolg des ersten Batches migrieren. Das Ziel besteht darin, die Adobe-IDs so flexibel wie möglich für Benutzer bereitzustellen.
 
