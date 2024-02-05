@@ -3,9 +3,9 @@ description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokument
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 60da79f1d2a9baffddc407e448b7b5da3cf52526
+source-git-commit: 33c67217b57c4dced059488edec9f78d0759e72b
 workflow-type: tm+mt
-source-wordcount: '718'
+source-wordcount: '780'
 ht-degree: 7%
 
 ---
@@ -28,7 +28,6 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
    <th style="width:65%">Funktion</th> 
    <th style="width:10%">Status</th>
    <th style="width:25%">Dokumentation</th>
-  </tr> 
   </tr>
     <tr> 
    <td><strong>On-Demand-Webinare für interaktive Webinare</strong>: Mit On-Demand-Webinaren können Sie die Webinaraufzeichnung veröffentlichen und ihre Besuche/Uhren verfolgen. Dies hilft Ihnen, mehr Leads durch Registrierungspflichtige zu erhalten, die nicht am Webinar teilgenommen haben (keine Sendung), aber trotzdem daran interessiert sind, mehr Details zu erhalten und die Aufzeichnung anzuzeigen.</td> 
@@ -40,8 +39,6 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
    <td> </td>
    <td> </td>
   </tr>
-  </tr>
-  </tr>
     <tr> 
    <td><strong>Konversative Einstiegsseiten</strong>: Betten Sie einen Dynamic Chat-Konversationsfluss direkt in eine Marketo Engage-Landingpage ein, damit Besucher ein Treffen über Dynamic Chat planen können, ohne ein Formular ausfüllen oder mit einem Chat-Bot interagieren zu müssen.</td> 
    <td><i>Demnächst verfügbar</i></td>
@@ -52,8 +49,6 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
    <td> </td>
    <td> </td>
   </tr>
-  </tr>
-   </tr>
     <tr> 
    <td><strong>Filtern der E-Mail-Bot-Aktivität</strong>: Verbessert die Erfassung von Bot-Aktivitäten für E-Mail-Interaktionen, indem Sie auswählen können, wie aggressiv die Filterung der Bot-Aktivitätserkennung sein soll.</td> 
    <td>Versendet</td>
@@ -63,11 +58,29 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
    <td> </td> 
    <td> </td>
    <td> </td>
-  </tr>
-  </tr>
    </tr>
     <tr> 
    <td><strong>Massen-Lead-Import-API-Update</strong>: Das Verhalten der Bulk-Lead-Import-API wurde geringfügig angepasst, wenn <b>id</b> wird als <b>lookupField</b> während der Schaffung von Arbeitsplätzen. Wenn ein Personendatensatz mit der angegebenen <b>id</b> nicht in der Marketo Engage-Datenbank gefunden wird, wird kein Datensatz aktualisiert, da der Datensatz nicht gefunden werden kann. Das aktualisierte Verhalten umfasst nun die Erhöhung der Anzahl im <b>numOfRowsFailed</b> -Eigenschaft in der Antwort ein, was angibt, dass der Vorgang in solchen Fällen fehlgeschlagen ist.</td> 
+   <td>Versendet</td>
+   <td>Nicht zutreffend</td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+   </tr>
+  <tr> 
+   <td><strong>Co-Hosts für interaktive Webinare</strong>: Mithilfe von Hosts im Bereich Webinar-Team der interaktiven Webinare kann der Ersteller von Ereignissen interne oder externe Benutzer zum Programm der interaktiven Webinare hinzufügen, um Verwaltungs- und Bereitstellungsaufgaben zu teilen.</td> 
+   <td>Versendet</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md#adding-a-webinar-team" target="_blank">Webinar-Team hinzufügen</a></td>
+  </tr>
+  <tr>
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+    <tr> 
+   <td><strong>Entfernen eines Benutzers in interaktiven Webinaren</strong>: Ein Marketo Engage-Administrator kann jetzt bestimmte Benutzer in interaktiven Webinaren entfernen.</td> 
    <td>Versendet</td>
    <td>Nicht zutreffend</td>
   </tr>

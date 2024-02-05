@@ -3,9 +3,9 @@ description: Erstellen eines interaktiven Webinars - Marketo-Dokumente - Produkt
 title: Erstellen eines interaktiven Webinars
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: 9eb715104155f063da049b25b2a28661df65f25f
+source-git-commit: 33c67217b57c4dced059488edec9f78d0759e72b
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '526'
 ht-degree: 0%
 
 ---
@@ -50,13 +50,29 @@ Erstellen Sie ein interaktives Webinar in wenigen einfachen Schritten.
 
    ![](assets/create-an-interactive-webinar-7.png)
 
-Ihr interaktives Webinar wird erstellt. Sie können Moderatoren und/oder Co-Hosts hinzufügen.
+Ihr interaktives Webinar wird erstellt. Jetzt haben Sie die Möglichkeit, ein Webinar-Team hinzuzufügen.
 
-![](assets/create-an-interactive-webinar-8.png)
+## Webinar-Team {#webinar-team}
+
+Ein Webinar-Team in interaktiven Webinaren besteht aus allen Rollen, die zur erfolgreichen Bereitstellung des Webinars in Adobe Connect beitragen. Dies umfasst sowohl Moderatoren als auch Co-Hosts.
 
 >[!NOTE]
 >
->Co-Hosts und Moderatoren können externe Benutzer sein und benötigen keinen Zugriff auf Marketo Engage. Sie müssen ihnen lediglich die Webinar-URL angeben.
+>Moderatoren und Co-Hosts in Marketo entsprechen während der Bereitstellung des Webinars in Adobe Connect exakt den Rollen von Moderatoren und Mitveranstaltern.
+
+Der Moderator ist eine externe Rolle, die an der Bereitstellung des Webinar-Erlebnisses beteiligt ist, während Ko-Hosts als Moderator fungieren und administrative Aspekte des Webinar-Versands handhaben können. Co-Hosts können sowohl intern als auch extern sein. Externe Hosts haben keinen Zugriff auf die interaktiven Webinar-Ereignisprogramme in Marketo, haben aber Co-Hosting-Berechtigungen während der Bereitstellung in Adobe Connect. Interne Hosts haben während der Bereitstellung Zugriff auf das Programm für interaktive Webinar-Ereignisse in Marketo sowie auf Co-Hosting-Berechtigungen. Dadurch wird sichergestellt, dass die internen Hosts die Züge des Interaktiven Webinar-Veranstaltungsprogramms übernehmen können, wenn der ursprüngliche Ersteller des interaktiven Webinar-Programms entweder nicht mehr Teil des Benutzersets der interaktiven Webinare ist oder nicht einmal ein Marketo-Benutzer.
+
+### Webinar-Team hinzufügen {#adding-a-webinar-team}
+
+Um einen Mitwirt oder Moderator hinzuzufügen, klicken Sie auf **Hinzufügen von Hosts** oder **Hinzufügen von Moderatoren** auf dem Bildschirm Übersicht angezeigt.
+
+![](assets/create-an-interactive-webinar-8.png)
+
+Beim Klicken **Hinzufügen von Moderatoren** eingeben, werden Sie aufgefordert, ihren Vornamen, Nachnamen und ihre E-Mail-Adresse einzugeben. Diese Informationen werden Adobe Connect während des Webinar-Versands zur Verfügung gestellt, sodass die entsprechenden Details automatisch ausgefüllt werden können, ohne dass der Benutzer sie während des Webinar-Versands eingeben muss. Eine Join-URL wird für alle Moderatoren ausgefüllt und kann vom Ersteller freigegeben werden.
+
+Beim Klicken **Hinzufügen von Hosts**, werden Sie aufgefordert, einen internen oder externen Benutzer hinzuzufügen. Wenn Sie &quot;Intern&quot;auswählen, können Sie den gewünschten Benutzer aus der Liste aller Benutzer auswählen, die als Benutzer mit interaktiven Webinaren in Marketo Engage hinzugefügt wurden. Wenn Sie &quot;extern&quot;auswählen, werden Sie aufgefordert, ihren Vornamen, Nachnamen und ihre E-Mail-ID hinzuzufügen (ähnlich wie beim Hinzufügen eines Moderators). Sie können auch die Join-URLs für interne und externe Benutzer abrufen, die für sie freigegeben werden sollen.
+
+Nachdem Sie ein Webinar-Team hinzugefügt haben, können Sie auf das Kopiersymbol neben jedem Benutzer klicken, um dessen Join-URLs zu kopieren (und dann freizugeben).
 
 <br>
 
