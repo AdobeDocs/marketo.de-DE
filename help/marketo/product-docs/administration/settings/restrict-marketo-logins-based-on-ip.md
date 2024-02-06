@@ -4,10 +4,10 @@ description: Marketo-Anmeldungen auf Basis von IP einschränken - Marketo-Dokume
 title: Marketo-Anmeldungen auf IP-Basis beschränken
 exl-id: 5d9d0b88-b4bc-4e1b-b70c-2c2e7b4269f5
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: b4bd06d3e5ee205744478e0f5556f490f9f5abe4
 workflow-type: tm+mt
-source-wordcount: '183'
-ht-degree: 3%
+source-wordcount: '196'
+ht-degree: 0%
 
 ---
 
@@ -19,11 +19,11 @@ Sie können Benutzer anhand ihrer IP-Adressen am Zugriff auf Marketo hindern bzw
 >
 >**Erforderliche Administratorberechtigungen**
 
->[!NOTE]
+>[!IMPORTANT]
 >
->Die Informationen in diesem Artikel gelten nur für direkte Anmeldungen unter login.marketo.com. Es ist derzeit nicht möglich, IP-Einschränkungen für Single Sign-on (SSO)-Anmeldungen zu erzwingen.
+>Die Informationen in diesem Artikel richten sich an Benutzer, die sich direkt unter login.marketo.com anmelden, und gelten nicht für Benutzer, die sich bei Adobe ID authentifizieren. Derzeit ist es nicht möglich, IP-Einschränkungen für Single Sign-on (SSO)-Anmeldungen zu erzwingen.
 
-1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
+1. Navigieren Sie zu **[!UICONTROL Admin]** Bereich.
 
    ![](assets/restrict-marketo-logins-based-on-ip-1.png)
 
