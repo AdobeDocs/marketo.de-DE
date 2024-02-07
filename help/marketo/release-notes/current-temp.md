@@ -4,9 +4,9 @@ title: Aktuelle Versionshinweise
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: a5b711284ffb3c5e41bca5135cd28da4c65f6d80
+source-git-commit: 35c73cf04563cc2cd7b3124ed2ba0bc00b720993
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '296'
 ht-degree: 11%
 
 ---
@@ -41,7 +41,7 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
    <td> </td>
   </tr>
     <tr> 
-   <td><strong>API-Aktivitätsmetadaten</strong>: Metadaten wie Benutzeragent, Plattform, Browser und Gerät sind jetzt in <i>all</i> browserbasierte Aktivitäten, die über die Marketo REST-API zu konsistenten Einblicken in browserbasierte Aktivitäten beitragen.</td> 
+   <td><strong>API-Aktivitätsmetadaten</strong>: Metadaten wie Benutzeragent, Plattform und Gerät sind jetzt in Web- und E-Mail-Aktivitäten enthalten, was dazu beiträgt, über die Marketo REST-API konsistente Einblicke in diese Aktivitäten zu erhalten.</td> 
    <td><i>Demnächst verfügbar</i></td>
    <td><i>Demnächst verfügbar</i></td>
   </tr>
