@@ -3,9 +3,9 @@ description: Entwerfen interaktiver Webinare - Marketo-Dokumente - Produktdokume
 title: Interaktive Webinare erstellen
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars
-source-git-commit: 4eb28480b3863650a128a56393a8ef375f268982
+source-git-commit: 815fd7a67d65588c4a0a56ba1f478bd1844d7ee3
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '453'
 ht-degree: 0%
 
 ---
@@ -33,6 +33,10 @@ Erfahren Sie, wie Sie Ihr Webinar entsprechend Ihren Anforderungen entwerfen.
 1. Ihre Webinar-Vorschau wird angezeigt.
 
    ![](assets/designing-interactive-webinars-4.png)
+
+   >[!NOTE]
+   >
+   >Standardmäßig entspricht der Name des Raums, der im Feld &quot;Name des interaktiven Webinar-Saals&quot;angegeben ist, dem Namen Ihres interaktiven Webinar-Veranstaltungsprogramms. Sie können ihn ändern, um den Titel des Webinars selbst widerzuspiegeln, da dieser Name für Ihre Zielgruppe sichtbar ist.
 
    >[!TIP]
    >
