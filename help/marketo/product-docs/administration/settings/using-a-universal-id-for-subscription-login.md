@@ -4,9 +4,9 @@ description: Verwenden einer universellen ID für die Anmeldung von Abonnements 
 title: Verwendung einer universellen ID zur Anmeldung von Abonnements
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
 feature: Administration
-source-git-commit: 2bd8a7c2a1fe467cc73460807faee42e39faea5d
+source-git-commit: c0f0134972138eb4fa3498028a4acf5233dbe2fe
 workflow-type: tm+mt
-source-wordcount: '576'
+source-wordcount: '544'
 ht-degree: 0%
 
 ---
@@ -58,10 +58,6 @@ Wenn Sie sich abmelden und wieder anmelden, meldet sich Marketo automatisch bei 
 ## Community-Profile {#community-profiles}
 
 Wenn Sie mehrere Abonnements haben, können Sie über mehrere Community-Profile verfügen. Es wird empfohlen, die Anmeldung auszuwählen, die mit Ihrem aktivsten Community-Profil verknüpft ist.
-
-## Mobile Platform {#mobile-platform}
-
-Benutzer mit universeller ID können ihre Daten in [Marketo-Momente](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md){target="_blank"} and the [event check-in application](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/event-check-in-overview.md){target="_blank"} aus dem Abonnement, bei dem sie sich zuletzt angemeldet haben. An der Mobile-Plattform selbst können Sie keine Abonnements ändern.
 
 >[!MORELIKETHIS]
 >
