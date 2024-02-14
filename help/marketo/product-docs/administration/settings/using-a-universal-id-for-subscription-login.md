@@ -4,10 +4,10 @@ description: Verwenden einer universellen ID für die Anmeldung von Abonnements 
 title: Verwendung einer universellen ID zur Anmeldung von Abonnements
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
 feature: Administration
-source-git-commit: 6ef584a5f405fd5b62c561b99924b8f169a22118
+source-git-commit: 2bd8a7c2a1fe467cc73460807faee42e39faea5d
 workflow-type: tm+mt
-source-wordcount: '581'
-ht-degree: 1%
+source-wordcount: '576'
+ht-degree: 0%
 
 ---
 
@@ -31,7 +31,7 @@ Alle Marketo-Abonnements verfügen über die optionale Funktion Universal ID . I
 
 Wenn Sie sich anmelden, um eine Einladung zu einem zweiten Abonnement mit einer universellen ID anzunehmen, wird die Anmeldeseite für Opt-in angezeigt. Hier müssen Sie ein Kontrollkästchen aktivieren, um die Geschäftsbedingungen zu akzeptieren. Nachdem Sie akzeptiert haben, sehen Sie die normale Zurücksetzseite, nicht diese für alle nachfolgenden Anmeldungen. Durch die Annahme der Nutzungsbedingungen gestatten Sie Marketo, Ihre grundlegenden Profildaten (wie Vorname, Nachname und E-Mail-Adresse) an die Rechenzentren an verschiedenen Standorten zu verteilen, an denen Ihr Abonnement gehostet wird.
 
-![](assets/new-login-reduced-hands-name.png)
+![](assets/using-a-universal-id-for-subscription-login-1.png)
 
 >[!TIP]
 >
@@ -51,7 +51,7 @@ Bei einer universellen ID für mehrere Abonnements können Sie nur das Kennwort 
 
 Mit einer universellen ID können Sie das Abonnement sehen, bei dem Sie angemeldet sind, und andere Abonnements auswählen, auf die Sie Zugriff haben. In den meisten Fällen können Sie zwischen ihnen wechseln, ohne sich abmelden und wieder anmelden zu müssen.
 
-![](assets/image2016-11-3-15-3a10-3a16.png)
+![](assets/using-a-universal-id-for-subscription-login-2.png)
 
 Wenn Sie sich abmelden und wieder anmelden, meldet sich Marketo automatisch bei dem Abonnement an, bei dem Sie zuletzt angemeldet waren. Sie können dann bei Bedarf zu einem anderen Abonnement wechseln.
 
@@ -66,5 +66,5 @@ Benutzer mit universeller ID können ihre Daten in [Marketo-Momente](/help/marke
 >[!MORELIKETHIS]
 >
 >* [Single Sign-On zu einem Portal hinzufügen](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md){target="_blank"}
->* [Benutzeranmeldung auf SSO beschränken](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md){target="_blank"}
+>* [Benutzeranmeldung auf &quot;Nur SSO&quot;beschränken](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md){target="_blank"}
 >* [Einladen von Marketo-Benutzern zu zwei Instanzen mit universeller ID](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122){target="_blank"}
