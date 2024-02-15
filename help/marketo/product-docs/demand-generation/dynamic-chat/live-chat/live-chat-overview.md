@@ -3,9 +3,9 @@ description: Live-Chat-Übersicht - Marketo-Dokumente - Produktdokumentation
 title: Live-Chat-Übersicht
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: b05ae6f1b5a63cdf5a0d5da1cb1a6a3641d973c1
+source-git-commit: a1341ab39690190fa203bf320543e9b5f5e20e66
 workflow-type: tm+mt
-source-wordcount: '649'
+source-wordcount: '650'
 ht-degree: 0%
 
 ---
@@ -105,7 +105,7 @@ Wenn ein Live-Chat an einen Agenten weitergeleitet wird, wird ihm oben auf dem B
 
 ### Zu beachten {#things-to-note}
 
-* Agenten haben 45 Sekunden Zeit, um zu antworten, bevor die &quot;Chat akzeptieren&quot;-Nachricht eine Zeitüberschreitung aufweist. Danach erhalten Besucher die [Fallback-Nachricht](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback){target="_blank"}. Für dynamische Prime-Abonnenten mit der Routing-Option auf **Team**, wird ein weiterer Agent versucht, bevor die Ausweichmeldung angezeigt wird.
+* Agenten haben 45 Sekunden Zeit, um zu antworten, bevor die &quot;Chat akzeptieren&quot;-Nachricht eine Zeitüberschreitung aufweist. Danach erhalten Besucher die [Fallback-Nachricht](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback){target="_blank"}. Für Dynamic Chat Prime-Abonnenten, für die die Routing-Option auf **Team**, wird ein weiterer Agent versucht, bevor die Ausweichmeldung angezeigt wird.
 * Derzeit sind 10 Live-Chats pro Agent erlaubt.
 
 >[!MORELIKETHIS]
