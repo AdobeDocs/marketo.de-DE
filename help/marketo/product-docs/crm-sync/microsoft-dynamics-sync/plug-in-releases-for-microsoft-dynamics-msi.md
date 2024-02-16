@@ -4,10 +4,10 @@ description: Plug-in-Versionen für Microsoft Dynamics MSI - Marketo Docs - Prod
 title: Plug-in-Versionen für Microsoft Dynamics MSI
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 feature: Microsoft Dynamics
-source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
+source-git-commit: 6dcda9b86555c17b3492a02f3985db7d2acd8a32
 workflow-type: tm+mt
-source-wordcount: '318'
-ht-degree: 8%
+source-wordcount: '400'
+ht-degree: 0%
 
 ---
 
@@ -31,7 +31,7 @@ Wenn Sie die native CRM-Synchronisierungslösung von Marketo mit Dynamics verwen
 >
 >Beispiel: Wenn Ihr Dynamics CRM-System über Version 2.0.0.20 verfügt und die neueste Version 2.0.0.21 ist, würden Sie importieren _over_ Version 2.0.0.20.
 
-1. Klicken Sie auf **[!UICONTROL Weiter]**.
+1. Klicks **[!UICONTROL Nächste]**.
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-2.png)
 
@@ -39,7 +39,7 @@ Wenn Sie die native CRM-Synchronisierungslösung von Marketo mit Dynamics verwen
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-3.png)
 
-1. Klicken Sie auf **[!UICONTROL Weiter]**.
+1. Klicks **[!UICONTROL Nächste]**.
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-4.png)
 
@@ -52,66 +52,83 @@ Und das ist es! Nach dem Upgrade wird nur eine MSI-Lösung angezeigt.
 ## Versionsaktualisierungen {#version-updates}
 
 <table> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
- </colgroup> 
  <tbody> 
   <tr> 
-   <th colspan="1">Veröffentlichungsdatum</th> 
-   <th colspan="1">Version</th> 
-   <th colspan="1">Hinweise</th> 
-  </tr> 
-  <tr> 
-   <td colspan="1">02/03/22</td> 
-   <td colspan="1">2.0.0.27</td> 
-   <td colspan="1">Kontolayout für Einblicke: Interessante Momente, Bewertungsänderungen, Webaktivitäten, E-Mail-Aktivitäten</td> 
+   <th>Veröffentlichungsdatum</th> 
+   <th>Version</th> 
+   <th>Hinweise</th> 
   </tr>
   <tr> 
-   <td colspan="1">01/05/22</td> 
-   <td colspan="1">2.0.0.26</td> 
-   <td colspan="1">Programm-Adoptionsbewertung für E-Mail senden</td> 
+   <td>14.02.24</td> 
+   <td>2,00,31</td> 
+   <td>Änderungen an der Paginierung in der anonymen Web-Aktivität.
+   <p>
+   Verschlüsseln Sie geheime Schlüsselinformationen aus der Benutzeransicht. Das Kennwort muss nach dem Import des neuen Pakets geändert werden, damit eine Verschlüsselung erfolgt.</td> 
   </tr>
   <tr> 
-   <td colspan="1">10/28/21</td> 
-   <td colspan="1">2.0.0.25</td> 
-   <td colspan="1">Metriken zur Produktakzeptanz, neues globales Dashboard (Web-Aktivität, E-Mail, Best-Bets)</td> 
+   <td>18.10.23</td> 
+   <td>2 00 30</td> 
+   <td>Konsolidierung des MSI-Fehlerprotokolls und Entfernen von Info-Benachrichtigungen aus der Anzeige auf der Marketo-Fehlerentität.</td> 
   </tr>
   <tr> 
-   <td colspan="1">02/10/21</td> 
-   <td colspan="1">2.0.0.22</td> 
-   <td colspan="1">Automatische Prüfung und Dokumentationsänderungen der MSI-Lösung entfernen</td> 
+   <td>19.05.23</td> 
+   <td>2,00,29</td> 
+   <td>Es wurden Paginierungsprobleme bei Webaktivität und interessanten Momenten im globalen Dashboard behoben.</td> 
   </tr>
   <tr> 
-   <td colspan="1">10/01/20</td> 
-   <td colspan="1">2.0.0.21</td> 
-   <td colspan="1">Fehlerbehebung: Zuweisen des Zugriffs auf MSI API-Konfigurationsfelder für Benutzer mit der Rolle "Sales Insight"</td> 
+   <td>23.03.23</td> 
+   <td>2,00,28</td> 
+   <td>Erstellt eine <a href="https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip">neues Paket</a> für MSI für nicht native Verbindungen mit dem CRM.</td> 
+  </tr>
+  <tr> 
+   <td>03.02.22</td> 
+   <td>2.0.0.27</td> 
+   <td>Kontolayout für Einblicke: Interessante Momente, Bewertungsänderungen, Web-Aktivitäten, E-Mail-Aktivitäten.</td> 
+  </tr>
+  <tr> 
+   <td>05.01.22</td> 
+   <td>2.0.0.26</td> 
+   <td>Programmakzeptanzwert für E-Mail-Versand.</td> 
+  </tr>
+  <tr> 
+   <td>28.10.21</td> 
+   <td>2.0.0.25</td> 
+   <td>Metriken zur Produktakzeptanz, neues globales Dashboard (Web-Aktivität, E-Mail, Best-Bets).</td> 
+  </tr>
+  <tr> 
+   <td>10.02.21</td> 
+   <td>2.0.0.22</td> 
+   <td>Entfernen Sie die automatische Prüfung aktiviert und Dokumentationsänderungen an der MSI-Lösung.</td> 
+  </tr>
+  <tr> 
+   <td>10.1.20</td> 
+   <td>2.0.0.21</td> 
+   <td>Fehlerbehebung: Zuweisen des Zugriffs auf MSI-API-Konfigurationsfelder für Benutzer mit der Rolle "Sales Insight".</td> 
   </tr> 
   <tr> 
-   <td colspan="1">07/20/20</td> 
-   <td colspan="1">2.0.0.20</td> 
-   <td colspan="1">Fehlerbehebung: Hinzufügen einer Validierungsmeldung für nicht synchronisierte Datensätze</td> 
+   <td>20.07.20</td> 
+   <td>2.0.0.20</td> 
+   <td>Fehlerbehebung: Fügen Sie eine Validierungsmeldung für nicht synchronisierte Datensätze hinzu.</td> 
   </tr> 
   <tr> 
-   <td colspan="1">06/12/20</td> 
-   <td colspan="1">2.0.0.19</td> 
-   <td colspan="1">Fehlerbehebung: Zum Ausblenden des geheimen MSI-Kennworts bei der MSD-API-Konfiguration</td> 
+   <td>12.06.20</td> 
+   <td>2.0.0.19</td> 
+   <td>Fehlerbehebung: Zum Ausblenden des geheimen MSI-Kennworts in der MSD-API-Konfiguration.</td> 
   </tr> 
   <tr> 
-   <td colspan="1">05/26/20</td> 
-   <td colspan="1">2.0.0.18</td> 
-   <td colspan="1">Fehlerbehebung: So ändern Sie die MSI-Rollen-ID-Validierung für die Anzeige von MSI-Schaltflächen</td> 
+   <td>26.05.20</td> 
+   <td>2.0.0.18</td> 
+   <td>Fehlerbehebung: Zum Ändern der MSI-Rolle-ID-Überprüfung für die Anzeige von MSI-Schaltflächen.</td> 
   </tr> 
   <tr> 
-   <td colspan="1">05/21/20</td> 
-   <td colspan="1">2.0.0.17</td> 
-   <td colspan="1">Fehlerkorrektur: Das Feld "Inhaber ausblenden"wird wieder eingeblendet und Felder sind nicht mehr obligatorisch.</td> 
+   <td>21.05.20</td> 
+   <td>2.0.0.17</td> 
+   <td>Fehlerbehebung: Machen Sie das Feld "Inhaber ausblenden"und machen Sie Felder nicht obligatorisch.</td> 
   </tr> 
   <tr> 
-   <td colspan="1">04/28/20</td> 
-   <td colspan="1">2.0.0.16</td> 
-   <td colspan="1">Fehlerbehebung: Entfernen der MSD CRM-Sitemap-Einstellung der Link-Abhängigkeit</td> 
+   <td>28.04.20</td> 
+   <td>2.0.0.16</td> 
+   <td>Fehlerbehebung: Entfernen der Link-Abhängigkeit von MSD CRM-Sitemap-Einstellungen.</td> 
   </tr> 
  </tbody> 
 </table>
