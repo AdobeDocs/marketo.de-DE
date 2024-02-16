@@ -2,9 +2,9 @@
 description: SMS erstellen - Marketo Docs - Produktdokumentation
 title: SMS erstellen
 feature: Mobile Marketing
-source-git-commit: efaf34e8113fc6364655ff01aa788aa62bdd31af
+source-git-commit: c0e2c460559860a22a649e67624db0ad717ae327
 workflow-type: tm+mt
-source-wordcount: '453'
+source-wordcount: '481'
 ht-degree: 2%
 
 ---
@@ -15,7 +15,7 @@ So erstellen Sie eine SMS-Nachricht:
 
 >[!AVAILABILITY]
 >
->Diese Funktion ist als Add-on für Ihr Adobe Marketo Engage-Konto verfügbar. Damit sie ordnungsgemäß bereitgestellt werden kann, muss sie über Adobe erworben werden. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).
+>Diese Funktion ist als Add-on für Ihr Adobe Marketo Engage-Konto verfügbar. Damit sie ordnungsgemäß bereitgestellt werden kann, muss sie über Adobe erworben werden. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer). Die native Integration von Marketo Vibes SMS ist in den USA und Kanada verfügbar. Für andere Länder kann eine Verbindung über Marketo Webhooks von [direkten Kontakt mit Besuchern](https://www.vibes.com/talk-to-sales){target="_blank"}.
 
 >[!PREREQUISITES]
 >

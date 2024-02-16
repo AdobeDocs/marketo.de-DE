@@ -4,9 +4,9 @@ description: Hinzufügen von Marketo als LaunchPoint-Dienst - Docs - Produktdoku
 title: Hinzufügen von Assets als LaunchPoint-Dienst
 exl-id: 13f153c1-609e-4bee-a588-eb4665755acc
 feature: Mobile Marketing
-source-git-commit: efaf34e8113fc6364655ff01aa788aa62bdd31af
+source-git-commit: c0e2c460559860a22a649e67624db0ad717ae327
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '168'
 ht-degree: 1%
 
 ---
@@ -19,9 +19,9 @@ Sie können SMS-Nachrichten an die Personen senden, die sich für Ihre Vibes-SMS
 >
 >**Erforderliche Administratorberechtigungen**
 
->[!PREREQUISITES]
+>[!AVAILABILITY]
 >
->Sie müssen über ein aktives Vibes-Konto und eine Adobe-Lizenz für Vibes SMS verfügen.
+>Sie müssen über ein aktives Vibes-Konto und eine Adobe-Lizenz für Vibes SMS verfügen. Die native Integration von Marketo Vibes SMS ist in den USA und Kanada verfügbar. Für andere Länder kann eine Verbindung über Marketo Webhooks von [direkten Kontakt mit Besuchern](https://www.vibes.com/talk-to-sales){target="_blank"}.
 
 1. Wechseln Sie in My Marketo zum **[!UICONTROL Admin]** Bereich.
 
@@ -49,4 +49,4 @@ Sie können SMS-Nachrichten an die Personen senden, die sich für Ihre Vibes-SMS
 
 >[!MORELIKETHIS]
 >
->[Video-Demo zu Vibes](https://vimeo.com/215233767/1ed136adbc)
+>[Video-Demo zu Vibes](https://vimeo.com/215233767/1ed136adbc){target="_blank"}
