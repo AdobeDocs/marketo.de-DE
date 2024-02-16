@@ -3,10 +3,10 @@ description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokument
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 1e5e5a64e2524a65e0f7c75cd87ac2765a5e69e3
+source-git-commit: acaf2b421ed65f74bedf18b121ce54e30c19c721
 workflow-type: tm+mt
-source-wordcount: '236'
-ht-degree: 10%
+source-wordcount: '208'
+ht-degree: 12%
 
 ---
 
@@ -61,4 +61,4 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
 
 ## Ankündigungen {#announcements}
 
-* **Einstellung des Kontoinsight-Browser-Plug-ins**: Adobe entfernt die Target-Kontoverwaltung [Account Insight-Browser-Plugin](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md){target="_blank"} vom Chrome Web Store am 18. März 2024. Vorhandene Benutzer: Sie können das Plug-in weiter verwenden, bis Sie Ihre Marketo Engage-Instanz zu Adobe Identity und Admin Console migrieren.
+* **Einstellung des Kontoinsight-Browser-Plug-ins**: Adobe entfernt die Target-Kontoverwaltung [Account Insight-Browser-Plugin](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md){target="_blank"} from the Chrome Web Store on March 18, 2024. Existing users: you can continue to use the plug-in until you migrate your Marketo Engage instance to Adobe Identity and Admin Console. This change **will not impact** any other TAM features/data within Marketo Engage or the Chrome and Outlook email plug-ins that work with Sales Insight. [Learn more](https://nation.marketo.com/t5/product-blogs/marketo-engage-account-insights-browser-plug-in-end-of-life/ba-p/344834){target="_blank"}.

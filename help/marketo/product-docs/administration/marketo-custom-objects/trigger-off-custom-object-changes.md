@@ -4,9 +4,9 @@ description: Trigger von benutzerdefinierten Objektänderungen - Marketo Docs - 
 title: Trigger von benutzerdefinierten Objektänderungen
 exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
 feature: Custom Objects
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: acaf2b421ed65f74bedf18b121ce54e30c19c721
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -17,19 +17,18 @@ ht-degree: 0%
 >
 >Diese Funktion ist nur verfügbar:
 >
->* Für Kunden auf der [!DNL Orion] Infrastruktur
 >* Nur für die Verwendung mit benutzerdefinierten Marketo-Objekten, nicht für benutzerdefinierte Objekte, die über die nativen [!DNL Salesforce] oder [!DNL Microsoft Dynamics] Integration
 >* Trigger, kein Filter
 >
->Bitte kontaktieren Sie uns [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support) , damit die Trigger für die benutzerdefinierte Objektänderung aktiviert sind.
+>Bitte kontaktieren Sie [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support) , damit die Trigger für die benutzerdefinierte Objektänderung aktiviert sind.
 
-In der Smart-Liste einer Smart-Kampagne können Sie eine Flow-Aktion Trigger haben, wenn ein benutzerdefiniertes Objekt zu einer Person oder einem Unternehmen hinzugefügt wird. Sie können auch eine Smart-Liste erstellen, die eine *change* in einem benutzerdefinierten Objekt als Trigger. Beispielsweise können Sie damit eine E-Mail senden, wenn ein Kursname aktualisiert wird.
+In der Smart-Liste einer Smart-Kampagne können Sie eine Flow-Aktion Trigger haben, wenn ein benutzerdefiniertes Objekt zu einer Person oder einem Unternehmen hinzugefügt wird. Sie können auch eine Smart-Liste erstellen, die eine _change_ in einem benutzerdefinierten Objekt als Trigger. Beispielsweise können Sie damit eine E-Mail senden, wenn ein Kursname aktualisiert wird.
 
 >[!NOTE]
 >
 >Ein Aktivitätsprotokolleintrag wird nicht erstellt, wenn ein benutzerdefinierter Objektdatensatz geändert wird.
 
-1. Gehen Sie im Marketo Engage zu **[!UICONTROL Marketingaktivitäten]**.
+1. Gehen Sie unter Marketo Engage zu **[!UICONTROL Marketingaktivitäten]**.
 
    ![](assets/trigger-off-custom-object-changes-1.png)
 
