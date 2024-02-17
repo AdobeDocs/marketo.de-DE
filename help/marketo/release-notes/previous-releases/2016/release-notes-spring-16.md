@@ -4,20 +4,20 @@ description: Versionshinweise - Frühling 16 - Marketo-Dokumente - Produktdokume
 title: Versionshinweise - Frühjahr 16
 exl-id: 0ca26acf-2ac2-418e-bc4e-9820f483fa71
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: c20ea4d17f6bf2d6f14a8fe71527dd9fa0c446a2
 workflow-type: tm+mt
-source-wordcount: '799'
+source-wordcount: '797'
 ht-degree: 0%
 
 ---
 
-# Versionshinweise: Frühjahr 16 {#release-notes-spring}
+# Versionshinweise: Frühling &#39;16 {#release-notes-spring}
 
 Die folgenden Funktionen sind in der Version Frühjahr 16 enthalten. Klicken Sie auf die Titel-Links, um detaillierte Artikel zu den einzelnen Funktionen anzuzeigen.
 
 ## [E-Mail-Insights](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md) {#email-insights}
 
-Email Insights ist ein brandneues historisches Erlebnis für die E-Mail-Analyse aggregierter Daten, das im Rahmen von Project Orion durchgehend neu gestaltet wurde, um eine blitzschnelle Leistung zu erzielen. Es verfügt über ein völlig neues Benutzeroberflächendesign, das auf die Anforderungen und den Workflow von E-Mail-Marketingexperten abgestimmt ist.
+Email Insights ist ein brandneues historisches Erlebnis für die E-Mail-Analyse aggregierter Daten - durchdacht neu gestaltet, um eine blitzschnelle Leistung zu erzielen. Es verfügt über ein völlig neues Benutzeroberflächendesign, das auf die Anforderungen und den Workflow von E-Mail-Marketingexperten abgestimmt ist.
 
 >[!NOTE]
 >
@@ -35,7 +35,7 @@ Erstellen Sie schöne E-Mails mit unseren neuen Starter-Vorlagen! Suchen Sie au�
 
 ![](assets/5-29-home-starter-templates.png)
 
-## [E-Mail-Bearbeitung - Erstellung neu](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md) {#email-editing-re-imagined}
+## [Bearbeiten von E-Mails - Erstellt](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md) {#email-editing-re-imagined}
 
 Das ist richtig, ein brandneuer E-Mail-Editor! Verwenden Sie einfache Drag &amp; Drop-Funktionen, um Inhalte hinzuzufügen und neu anzuordnen. Neue Elemente, einschließlich Bildern, Videos, Variablen und Modulen, werden Ihre Bearbeitungserfahrung verbessern. Sehen Sie sich auch die aktualisierte Unterstützung für Code-Editor, Vorschau und Preheader an.
 
@@ -49,7 +49,7 @@ Erstellen Sie atemberaubende In-App-Nachrichten für Ihre App direkt in Marketo.
 
 ## [Keine Entwurfs-Snippets](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md) {#no-draft-snippets}
 
-Jetzt sind die Tage, an denen Sie alles bei jeder Aktualisierung eines Snippets erneut genehmigen müssen! Bei &quot;Kein Entwurf&quot;erhalten alle E-Mails und Landingpages, die einen Snippet verwenden, die aktualisierten Snippets und behalten ihren vorherigen Status bei. Jedes Mal, wenn Sie einen Snippet genehmigen, können Sie &quot;No-Draft&quot;ausführen und alle Elemente aktualisieren oder Entwürfe erstellen. Es liegt an dir! &quot;No-Draft&quot;steht allen Kunden zur Verfügung und wird durch eine neue Berechtigung in Admin gesteuert.
+Die Tage, an denen Sie alles bei jeder Aktualisierung eines Snippets erneut genehmigen müssen, sind vorbei! Bei &quot;Kein Entwurf&quot;erhalten alle E-Mails und Landingpages, die einen Snippet verwenden, die aktualisierten Snippets und behalten ihren vorherigen Status bei. Jedes Mal, wenn Sie einen Snippet genehmigen, können Sie &quot;No-Draft&quot;ausführen und alle Elemente aktualisieren oder Entwürfe erstellen. Es liegt an dir! &quot;No-Draft&quot;steht allen Kunden zur Verfügung und wird durch eine neue Berechtigung in Admin gesteuert.
 
 ![](assets/image2016-5-16-15-3a41-3a17.png)
 
@@ -57,13 +57,13 @@ Jetzt sind die Tage, an denen Sie alles bei jeder Aktualisierung eines Snippets 
 
 Die Marketo REST APIs unterstützen jetzt die Steuerung von Landingpages, Landingpage-Vorlagen und Formularen in Marketo. Benutzer können diese Assets jetzt direkt über die Marketo REST-API erstellen, aktualisieren, genehmigen und löschen.
 
-## [IP-Auf die Zulassungsliste setz für API-Zugriff](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md) {#ip-allowlisting-for-api-access}
+## [IP-Auf die Zulassungsliste setz für den API-Zugriff](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md) {#ip-allowlisting-for-api-access}
 
 Ähnlich wie bei der Funktion zur IP-auf die Zulassungsliste setz-Funktion für Marketo-Benutzeranmeldungen können Marketo-Administratoren jetzt eine IP-Zulassungsliste von IP-Adressen einrichten, die auf die SOAP- und REST-APIs von Marketo zugreifen können, wodurch der Zugriff von nicht autorisierten IP-Adressen blockiert wird. Dies bietet eine zusätzliche Sicherheitsstufe für Ihre Marketo-Instanz und stellt sicher, dass der API-Zugriff nur über das Netzwerk Ihres Unternehmens erfolgen kann. Einzelheiten zur Einrichtung finden Sie im [Marketo-Dokumentationswebsite](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md).
 
 ## [Neuer Microsoft Dynamics Sync Connector mit hoher Geschwindigkeit](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
 
-Der neue, auf der Op-Orion-Architektur aufbauende dynamische Hochgeschwindigkeits-Connector bietet Geschwindigkeiten von bis zu 20-mal schneller für die Erstsynchronisierung und bis zu 5-mal schneller für die inkrementelle Synchronisation. Alle neuen Kunden werden am Releasedatum an diesen Connector angeschlossen und werden ihn im Zeitraum der Sommerveröffentlichung schrittweise an bestehende Kunden weiterleiten.
+Der neue, schnelle Dynamics-Connector bietet Geschwindigkeiten von bis zu 20-mal schneller für die Erstsynchronisierung und bis zu 5-mal schneller für die inkrementelle Synchronisation. Alle neuen Kunden werden am Releasedatum an diesen Connector angeschlossen und werden ihn im Zeitraum der Sommerveröffentlichung schrittweise an bestehende Kunden weiterleiten.
 
 **Daten für neue Felder aktualisieren**: Jetzt können Sie jederzeit neue Synchronisierungsfelder aktivieren und alle Datenwerte für dieses Feld werden von Dynamics CRM in Marketo aktualisiert. Es gibt keine weiteren Bedenken, dass bei der Ersteinrichtung alle Felder ausgewählt werden müssen. Wenn Sie ein vorhandenes Synchronisierungsfeld deaktivieren und es später erneut aktivieren, werden alle Datenwerte für dieses Feld von Dynamics CRM in Marketo aktualisiert.
 
@@ -71,7 +71,7 @@ Der neue, auf der Op-Orion-Architektur aufbauende dynamische Hochgeschwindigkeit
 
 ![](assets/image2016-5-19-8-3a59-3a9.png)
 
-**Registerkarte &quot;Administrator von Synchronisierungsfehlern&quot;**: Durchsuchen, Suchen oder Exportieren von Leads (und anderen Objekten), die nicht mit Details wie Vorgang, Richtung, Fehlercode und Fehlermeldung synchronisiert werden konnten.
+**Registerkarte &quot;Administrator von Synchronisierungsfehlern&quot;**: Leads durchsuchen, durchsuchen oder exportieren (und andere Objekte), die nicht mit Details wie Vorgang, Richtung, Fehlercode und Fehlermeldung synchronisiert werden konnten.
 
 ![](assets/sync-errors.png)
 
