@@ -4,16 +4,20 @@ description: Programm importieren - Marketo-Dokumente - Produktdokumentation
 title: Programm importieren
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 0adb780ea1622d12b8daafc502fd6a9151757ad3
 workflow-type: tm+mt
-source-wordcount: '520'
+source-wordcount: '551'
 ht-degree: 0%
 
 ---
 
 # Programm importieren {#import-a-program}
 
-Ein Programm kann aus einem Marketo-Abonnement in ein anderes importiert werden. Sie können beispielsweise ein Programm in einer Sandbox erstellen und es dann in Ihr Live-Abonnement importieren. Außerdem können Sie ein vordefiniertes Programm aus dem [Marketo-Programmbibliothek](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md){target="_blank"}.
+Ein Programm kann von einem Marketo Engage-Abonnement in ein anderes importiert werden. Sie können beispielsweise ein Programm in einer Sandbox erstellen und es dann in Ihr Live-Abonnement importieren. Außerdem können Sie ein vordefiniertes Programm aus dem [Marketo-Programmbibliothek](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md){target="_blank"}.
+
+>[!CAUTION]
+>
+>Bei Programmen mit Smart-Listen, die den Trigger &quot;Benutzerdefiniertes Objekt wird aktualisiert&quot;enthalten, schlägt der Import fehl. Entfernen Sie diesen Trigger aus allen Smart-Listen, bevor Sie die unten beschriebenen Schritte ausführen.
 
 ## Programm importieren {#importing-a-program}
 
@@ -27,15 +31,15 @@ Ein Programm kann aus einem Marketo-Abonnement in ein anderes importiert werden.
 
    >[!NOTE]
    >
-   >Der Programm-Import ist nur für Benutzer verfügbar, deren Rollen mit der Berechtigung Programm importieren aktiviert sind. Weitere Informationen [Verwalten von Benutzerrollen und Berechtigungen](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
+   >* Der Programm-Import ist nur für Benutzer verfügbar, deren Rollen mit der Berechtigung Programm importieren aktiviert sind. Weitere Informationen [Verwalten von Benutzerrollen und Berechtigungen](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
    >
-   >Um ein Sandbox-Konto mit Ihrem Live-Abonnement zu verbinden, wenden Sie sich an [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
+   >* Um ein Sandbox-Konto mit Ihrem Live-Abonnement zu verbinden, wenden Sie sich an [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 
-1. Marketo auswählen **[!UICONTROL Abonnement]** und ein Importprogramm. Klicken Sie auf **[!UICONTROL Weiter]**.
+1. Marketo auswählen **[!UICONTROL Abonnement]** und ein Importprogramm. Klicks **[!UICONTROL Nächste]**.
 
    ![](assets/import-a-program-3.png)
 
-1. Geben Sie eine **[!UICONTROL Kampagnenordner]** für das importierte Programm. Klicken Sie auf **[!UICONTROL Weiter]**.
+1. Geben Sie eine **[!UICONTROL Kampagnenordner]** für das importierte Programm. Klicks **[!UICONTROL Nächste]**.
 
    ![](assets/import-a-program-4.png)
 
