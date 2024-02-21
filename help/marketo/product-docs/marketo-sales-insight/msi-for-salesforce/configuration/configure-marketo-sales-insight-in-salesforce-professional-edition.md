@@ -4,16 +4,16 @@ description: Konfigurieren von Marketo Sales Insight in Salesforce Professional 
 title: Konfigurieren von Marketo Sales Insight in Salesforce Professional Edition
 exl-id: fae63560-0bb3-46a9-94a3-cc27c1aa363e
 feature: Marketo Sales Insights
-source-git-commit: c85f544f2c06a2f5bb92d6e7cad5f801e73fdaed
+source-git-commit: 1ce807ce99e3551ffc29e59ed356423633dc2276
 workflow-type: tm+mt
-source-wordcount: '962'
-ht-degree: 4%
+source-wordcount: '850'
+ht-degree: 5%
 
 ---
 
 # Konfigurieren von Marketo Sales Insight in Salesforce Professional Edition {#configure-marketo-sales-insight-in-salesforce-professional-edition}
 
-Im Folgenden finden Sie die Schritte, die Sie zur Konfiguration von Marketo Sales Insight in Salesforce Professional Edition durchführen müssen. Los geht’s.
+Im Folgenden finden Sie die Schritte, die Sie zur Konfiguration von Marketo Sales Insight in Salesforce Professional Edition durchführen müssen. Fangen wir an!
 
 >[!PREREQUISITES]
 >
@@ -28,7 +28,8 @@ Im Folgenden finden Sie die Schritte, die Sie zur Konfiguration von Marketo Sale
 ## Konfigurieren von Sales Insight in Marketo {#configure-sales-insight-in-marketo}
 
 1. Öffnen Sie ein neues Browserfenster, um die Marketo Sales Insight-Anmeldedaten von Ihrem Marketo-Konto abzurufen.
-1. Navigieren Sie zum Admin-Bereich und wählen Sie **Sales Insight**.
+
+1. Navigieren Sie zu **Admin** Bereich und wählen Sie **Sales Insight**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-1-1.png)
 
@@ -66,7 +67,7 @@ Im Folgenden finden Sie die Schritte, die Sie zur Konfiguration von Marketo Sale
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-8-1.png)
 
-1. Geben Sie den Remote-Site-Namen ein (z. B. &quot;MarketoSoapAPI&quot;). Geben Sie die Remote-Site-URL ein, die Ihre Marketo-Host-URL im Bedienfeld Soap-API-Konfiguration in Marketo ist. Klicks **Speichern**. Sie haben jetzt Remote-Site-Einstellungen für die Soap-API erstellt.
+1. Geben Sie den Remote-Site-Namen ein (z. B. &quot;MarketoSoapAPI&quot;). Geben Sie die Remote-Site-URL ein, die Ihre Marketo-Host-URL im Bedienfeld Soap-API-Konfiguration in Marketo ist. Klicken Sie auf **Speichern**. Sie haben jetzt Remote-Site-Einstellungen für die Soap-API erstellt.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-9-1.png)
 
@@ -74,53 +75,7 @@ Im Folgenden finden Sie die Schritte, die Sie zur Konfiguration von Marketo Sale
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-10-1.png)
 
-1. Geben Sie den Remote-Site-Namen ein (z. B. &quot;MarketoRestAPI&quot;). Geben Sie die Remote-Site-URL ein, die Ihre API-URL aus dem Bedienfeld REST-API-Konfiguration in Marketo ist. Klicks **Speichern**. Sie haben jetzt Remote-Site-Einstellungen für die Rest-API erstellt.
-
-## Einrichten von Marketo Sales Insight {#set-up-marketo-sales-insight}
-
-1. Melden Sie sich bei Ihrer Marketo-Instanz an und klicken Sie auf **Admin**.
-
-   ![](assets/login-admin-1.png)
-
-1. Klicks **Sales Insight**.
-
-   ![](assets/image2015-5-22-15-3a12-3a33-1.png)
-
-1. Klicks **API-Konfiguration bearbeiten**.
-
-   ![](assets/image2015-5-22-15-3a15-3a0-1.png)
-
-1. Geben Sie eine **API-Geheimschlüssel** und klicken **Speichern**.
-
-   >[!CAUTION]
-   >
-   >Verwenden Sie kein kaufmännisches Und-Zeichen (&amp;) in Ihrem API-geheimen Schlüssel.
-
-   ![](assets/image2015-5-27-16-3a36-3a56-1.png)
-
-   >[!TIP]
-   >
-   >Lassen Sie dieses Fenster geöffnet. Sie werden diese Informationen später in Salesforce benötigen.
-
-1. Gehen Sie zurück zu Salesforce , klicken Sie auf **Einrichtung**.
-
-   ![](assets/image2015-5-22-14-3a40-3a39-1.png)
-
-1. Suchen Sie nach &quot;Remote-Site&quot;und klicken Sie auf **Remote Site-Einstellung** under **Sicherheitskontrollen**.
-
-   ![](assets/image2014-9-24-17-3a25-3a52.png)
-
-1. Klicks **Neue Remote-Site**.
-
-   ![](assets/image2014-9-24-17-3a26-3a6.png)
-
-1. Eingabe **Remote Site Name** und **Remote Site URL** Klicken Sie auf **Speichern**.
-
-   ![](assets/remote-site-1.png)
-
-   >[!NOTE]
-   >
-   >Sie wählen Ihre **Remote Site Name** (MarketoAPI wird hier verwendet). Die **Remote Site URL** finden Sie im Feld Marketo-Host im Dialogfeld API-Konfiguration bearbeiten in Schritt 4.
+1. Geben Sie den Remote-Site-Namen ein (z. B. &quot;MarketoRestAPI&quot;). Geben Sie die Remote-Site-URL ein, die Ihre API-URL aus dem Bedienfeld REST-API-Konfiguration in Marketo ist. Klicken Sie auf **Speichern**. Sie haben jetzt Remote-Site-Einstellungen für die Rest-API erstellt.
 
 ## Gewähren von Sales Insight-Benutzerprofilzugriff auf Standard-Salesforce-Objekte {#grant-sales-insight-users-profile-access}
 
@@ -134,7 +89,7 @@ Aufgrund der Verbesserungen der Saleforce-Sicherheit können App Exchange-Pakete
 
 1. Aktivieren Sie im Bereich &quot;Standardobjektberechtigungen&quot;Lesezugriff für die folgenden Objekte: Lead, Kontakt, Konto und Chancen.
 
-1. Klicks **Speichern**.
+1. Klicken Sie auf **Speichern**.
 
 ## Seitenlayouts anpassen {#customize-page-layouts}
 
