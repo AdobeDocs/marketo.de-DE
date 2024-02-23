@@ -3,10 +3,10 @@ description: Best Bets - Marketo Docs - Produktdokumentation
 title: Vielversprechende Kontakte
 exl-id: 39dc8442-0773-43ec-b788-72a43d68dcf3
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
 workflow-type: tm+mt
-source-wordcount: '285'
-ht-degree: 7%
+source-wordcount: '314'
+ht-degree: 6%
 
 ---
 
@@ -14,13 +14,17 @@ ht-degree: 7%
 
 Der Tab Beste Einsätze enthält eine Liste aller Hot Leads basierend auf ihrer Priorität, berechnet anhand der Dringlichkeit und des relativen Punktes.
 
+>[!CAUTION]
+>
+>Achten Sie darauf, nicht mehr als 1.000 beste Einsätze zu überschreiten, da andernfalls das Laden der Seite gestoppt werden könnte. In diesem Fall können Sie mit den Filtern die Gesamtanzahl der besten Einsätze einschränken.
+
 **Filteroptionen**
 
 Sie können auf jede der folgenden Schaltflächen klicken, um die besten Einsätze anzuzeigen:
 
 * Leads: Sie können die besten Betas für alle Leads sehen, die Ihnen im CRM zugewiesen sind.
 * Kontakte: Es werden die besten Betas für alle Kontakte angezeigt, die Ihnen im CRM-System zugewiesen sind
-* Kontokontakte: Sie können die besten Einsätze für alle Kontakte sehen, die zu Konten gehören, die Ihnen im CRM zugewiesen sind, selbst wenn Ihnen der Kontakt selbst nicht zugewiesen ist.
+* Kontokontakte: Sie können die besten Betas für alle Kontakte sehen, die zu Konten gehören, die Ihnen im CRM zugewiesen sind, selbst wenn Ihnen der Kontakt selbst nicht zugewiesen ist.
 * Gelegenheitskontakte: Für alle Kontakte, die Ihnen im CRM-System zugewiesene Chancen bieten, können Sie die besten Wetten sehen, selbst wenn Ihnen der Kontakt selbst nicht zugewiesen ist.
 
 **Zu beachten**

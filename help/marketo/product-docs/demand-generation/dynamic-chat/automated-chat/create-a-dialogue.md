@@ -2,11 +2,11 @@
 description: Dialogfeld erstellen - Marketo-Dokumente - Produktdokumentation
 title: Erstellen eines Dialogfelds
 feature: Dynamic Chat
-exl-id: 337fbb0b-9cc9-41ef-be13-b7aa68ede4be
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 7de6ba05-39d5-41b9-921b-50bf5b2c5581
+source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
 workflow-type: tm+mt
 source-wordcount: '79'
-ht-degree: 5%
+ht-degree: 0%
 
 ---
 
@@ -14,15 +14,15 @@ ht-degree: 5%
 
 So erstellen Sie ein neues Dialogfeld.
 
-1. Klicks **Dialogfelder**.
+1. Klicks **[!UICONTROL Dialogfelder]**.
 
    ![](assets/create-a-dialogue-1.png)
 
-1. Klicken Sie auf **Neu erstellen** Schaltfläche.
+1. Klicken Sie auf **[!UICONTROL Neu erstellen]** Schaltfläche.
 
    ![](assets/create-a-dialogue-2.png)
 
-1. Wählen Sie ein leeres Dialogfeld oder eine der vorausgefüllten Vorlagen aus. Geben Sie einen Namen ein (Beschreibung ist optional), ändern Sie die Prioritätsstufe (optional) und klicken Sie auf **Erstellen**.
+1. Wählen Sie ein leeres Dialogfeld oder eine der vorausgefüllten Vorlagen aus. Geben Sie einen Namen ein (Beschreibung ist optional), ändern Sie die Prioritätsstufe (optional) und klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/create-a-dialogue-3.png)
 
@@ -35,4 +35,4 @@ Als Nächstes erfahren Sie, wie Sie [Stream erstellen](/help/marketo/product-doc
 >[!MORELIKETHIS]
 >
 >* [Zielgruppenkriterien](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md){target="_blank"}
->* [Entwerferin bzw. Entwerfer des Streams](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}
+>* [Stream-Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}

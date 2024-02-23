@@ -3,9 +3,9 @@ description: Adobe Marketo Engage - Marketo Docs - Produktdokumentation
 title: Adobe Marketo Engage
 feature: Dynamic Chat
 exl-id: 9ce43de3-0503-4894-89f2-ee24e7df9a73
-source-git-commit: a8369dc36d5d2baae1091b2417615d1e642e364f
+source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '273'
 ht-degree: 2%
 
 ---
@@ -20,7 +20,7 @@ Nachdem Sie die [Ersteinrichtung](/help/marketo/product-docs/demand-generation/d
 >
 >Dynamic Chat unterstützt die Synchronisierung [Marketo nativ](https://developers.marketo.com/rest-api/lead-database/fields/list-of-standard-fields/){target="_blank"} sowie benutzerdefinierte Personenkategorien und Unternehmensfelder.
 
-1. Klicken Sie in My Marketo auf die **Dynamic Chat** Kachel.
+1. Klicken Sie in My Marketo auf die **[!UICONTROL Dynamic Chat]** Kachel.
 
    ![](assets/adobe-marketo-engage-1.png)
 
@@ -30,19 +30,19 @@ Nachdem Sie die [Ersteinrichtung](/help/marketo/product-docs/demand-generation/d
 
 1. Wenn Sie bereits auf eine Anwendung mit einem Adobe ID zugegriffen haben, gelangen Sie direkt zum Dynamic Chat. Wenn nicht, [Adobe ID einrichten](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}.
 
-1. Um Ihre Marketo-Instanz zu verbinden, wählen Sie **Integrationen**.
+1. Um Ihre Marketo-Instanz zu verbinden, wählen Sie **[!UICONTROL Integrationen]**.
 
    ![](assets/adobe-marketo-engage-2.png)
 
-1. Klicken Sie auf der Marketo-Karte auf **Initiieren der Synchronisierung**.
+1. Klicken Sie auf der Marketo-Karte auf **[!UICONTROL Initiieren der Synchronisierung]**.
 
    ![](assets/adobe-marketo-engage-3.png)
 
-1. Wählen Sie bis zu 50 Attribute (Standard- oder benutzerdefinierte Felder) aus Ihrer Marketo-Instanz aus, um sie mit Dynamic Chat zu synchronisieren und sie für Zielgruppen-Targeting, Daten-Mapping und Personalisierung zu verwenden. Klicks **Nächste** wann geschehen.
+1. Wählen Sie bis zu 50 Attribute (Standard- oder benutzerdefinierte Felder) aus Ihrer Marketo-Instanz aus, um sie mit Dynamic Chat zu synchronisieren und sie für Zielgruppen-Targeting, Daten-Mapping und Personalisierung zu verwenden. Klicks **[!UICONTROL Nächste]** wann geschehen.
 
    ![](assets/adobe-marketo-engage-4.png)
 
-1. Überprüfen Sie Ihre Auswahl. Klicks **Bestätigen** , um die Synchronisierung zu starten.
+1. Überprüfen Sie Ihre Auswahl. Klicks **[!UICONTROL Bestätigen]** , um die Synchronisierung zu starten.
 
    ![](assets/adobe-marketo-engage-5.png)
 
@@ -54,15 +54,15 @@ Nachdem Sie die [Ersteinrichtung](/help/marketo/product-docs/demand-generation/d
 
 Nach der ersten Synchronisierung finden Sie hier, wie Sie zusätzliche Attribute hinzufügen können.
 
-1. In **Integrationen**, stellen Sie sicher, dass die **Adobe Marketo Engage** ausgewählt ist und auf **Attribut hinzufügen**.
+1. In **[!UICONTROL Integrationen]**, stellen Sie sicher, dass die **[!UICONTROL Adobe Marketo Engage]** ausgewählt ist und auf **[!UICONTROL Attribut hinzufügen]**.
 
    ![](assets/adobe-marketo-engage-6.png)
 
-1. Wählen Sie die hinzuzufügenden Attribute aus und klicken Sie auf **Nächste**.
+1. Wählen Sie die hinzuzufügenden Attribute aus und klicken Sie auf **[!UICONTROL Nächste]**.
 
    ![](assets/adobe-marketo-engage-7.png)
 
-1. Überprüfen Sie Ihre Auswahl und klicken Sie auf **Bestätigen**.
+1. Überprüfen Sie Ihre Auswahl und klicken Sie auf **[!UICONTROL Bestätigen]**.
 
    ![](assets/adobe-marketo-engage-8.png)
 
@@ -74,11 +74,11 @@ Nach der ersten Synchronisierung finden Sie hier, wie Sie ein Attribut entfernen
 >
 >Sie sehen nur dann die Option zum Entfernen eines Attributs, wenn es aktuell noch nicht von Dialogfeldern verwendet wird.
 
-1. In **Integrationen**, stellen Sie sicher, dass die **Adobe Marketo Engage** ausgewählt ist, und klicken Sie auf das Attribut, das Sie entfernen möchten.
+1. In **[!UICONTROL Integrationen]**, stellen Sie sicher, dass die **[!UICONTROL Adobe Marketo Engage]** ausgewählt ist, und klicken Sie auf das Attribut, das Sie entfernen möchten.
 
    ![](assets/adobe-marketo-engage-9.png)
 
-1. Klicks **Attribut entfernen**.
+1. Klicks **[!UICONTROL Attribut entfernen]**.
 
    ![](assets/adobe-marketo-engage-10.png)
 

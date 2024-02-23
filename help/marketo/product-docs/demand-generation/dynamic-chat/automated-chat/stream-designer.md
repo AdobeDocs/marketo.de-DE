@@ -3,7 +3,7 @@ description: Stream Designer - Marketo-Dokumente - Produktdokumentation
 title: Entwerferin bzw. Entwerfer des Streams
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: 5ef17e8c3988706a4d95332312ffb035f35bb269
+source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
 workflow-type: tm+mt
 source-wordcount: '1108'
 ht-degree: 1%
@@ -91,15 +91,15 @@ In der rechten oberen Ecke des Stream-Designers sehen Sie eine Handvoll Symbole.
 
 Sie können Streams für Dialogfelder erstellen oder [Conversation Forms](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}. In diesem Beispiel erstellen wir einen für einen Dialog.
 
-1. Nachdem Sie [Dialogfeld erstellt](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}, klicken Sie auf die **Stream-Designer** Registerkarte.
+1. Nachdem Sie [Dialogfeld erstellt](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}, klicken Sie auf die **[!UICONTROL Stream-Designer]** Registerkarte.
 
    ![](assets/stream-designer-6.png)
 
-1. Ziehen Sie die Fragenkarte per Drag-and-Drop.
+1. Ziehen Sie die [!UICONTROL Frage] Karte.
 
    ![](assets/stream-designer-7.png)
 
-1. Geben Sie unter &quot;Chatbot-Antwort&quot;Ihre Frage an, wie Sie möchten.
+1. under [!UICONTROL Chatbot-Antwort], schreiben Sie Ihre Frage, wie Sie möchten.
 
    ![](assets/stream-designer-8.png)
 
@@ -111,51 +111,51 @@ Sie können Streams für Dialogfelder erstellen oder [Conversation Forms](/help/
    >
    >Poke ist standardmäßig auf ein gesetzt, wodurch die öffnende Frage neben dem Chat-Symbol angezeigt wird, ohne dass der Besucher darauf klicken muss, um sie zu sehen. Poke ist nur auf der ersten Karte in der Konversation verfügbar.
 
-1. Geben Sie Ihre Benutzerantworten ein und klicken Sie auf **Speichern**.
+1. Geben Sie Ihre Benutzerantworten ein und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/stream-designer-9.png)
 
    >[!NOTE]
    >
-   >**Gespeicherte Werte bearbeiten** ist ein optionaler Schritt für diejenigen, die einen anderen Wert in der Datenbank speichern möchten als das, was Besuchern im Chat-Bot für zugeordnete Attribute in der Fragekarte angezeigt wird (z. B.: Besucher sieht &quot;Suchmaschinenoptimierung&quot;, speichern Sie diesen Wert als &quot;SEO&quot;).
+   >**[!UICONTROL Gespeicherte Werte bearbeiten]** ist ein optionaler Schritt für diejenigen, die einen anderen Wert in der Datenbank speichern möchten als das, was Besuchern im Chat-Bot für zugeordnete Attribute in der Fragekarte angezeigt wird (z. B.: Besucher sieht &quot;Suchmaschinenoptimierung&quot;, speichern Sie diesen Wert als &quot;SEO&quot;).
 
 1. Für &quot;Ja&quot; möchten wir einen Termin planen. Ziehen Sie daher unterhalb dieser Option über die Karte Terminplaner .
 
    ![](assets/stream-designer-10.png)
 
-1. Klicken Sie in der Spalte rechts auf **Speichern**.
+1. Klicken Sie in der Spalte rechts auf **[!UICONTROL Speichern]**.
 
    ![](assets/stream-designer-11.png)
 
-1. Da dies ein Ziel ist, ziehen Sie die Zielkarte unter die Terminplaner.
+1. Da dies ein Ziel ist, ziehen Sie die [!UICONTROL Ziel] unter dem Terminplaner.
 
    ![](assets/stream-designer-12.png)
 
-1. Benennen Sie Ihr Ziel (oder wählen Sie ein vorhandenes aus) und klicken Sie auf **Speichern**.
+1. Benennen Sie Ihr Ziel (oder wählen Sie ein vorhandenes aus) und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/stream-designer-13.png)
 
-1. Für &quot;Nein&quot; möchten wir sehen, ob sie der Mailingliste beitreten, also unterhalb dieser Option ziehen Sie über eine andere Fragekarte.
+1. Für &quot;Nein&quot; möchten wir sehen, ob sie der Mailingliste beitreten, also unterhalb dieser Option ziehen Sie über eine andere [!UICONTROL Frage] Karte.
 
    ![](assets/stream-designer-14.png)
 
-1. Geben Sie Ihre Antwort ein und fügen Sie Antwortoptionen für den Besucher hinzu. Klicks **Speichern** wann geschehen.
+1. Geben Sie Ihre Antwort ein und fügen Sie Antwortoptionen für den Besucher hinzu. Klicks **[!UICONTROL Speichern]** wann geschehen.
 
    ![](assets/stream-designer-15.png)
 
    >[!NOTE]
    >
-   >Sie können weitere Antworten hinzufügen, indem Sie **Antwort hinzufügen**.
+   >Sie können weitere Antworten hinzufügen, indem Sie **[!UICONTROL Antwort hinzufügen]**.
 
 1. Ziehen Sie unter der Antwort &quot;Ja&quot;über die Karte &quot;Informationserfassung&quot;, damit Sie die E-Mail des Besuchers erfassen können.
 
    ![](assets/stream-designer-16.png)
 
-1. Klicken Sie auf **Typ** und wählen Sie **Email**.
+1. Klicken Sie auf **[!UICONTROL Typ]** und wählen Sie **[!UICONTROL Email]**.
 
    ![](assets/stream-designer-17.png)
 
-1. Geben Sie eine Chat-Bot-Nachricht und einen Platzhalter ein. Stellen Sie sicher, dass das Attribut dem entsprechenden Feld in Marketo zugeordnet ist, und klicken Sie auf **Speichern**.
+1. Geben Sie eine Chat-Bot-Nachricht und einen Platzhalter ein. Stellen Sie sicher, dass das Attribut dem entsprechenden Feld in Marketo zugeordnet ist, und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/stream-designer-18.png)
 
@@ -178,11 +178,11 @@ Sie können Streams für Dialogfelder erstellen oder [Conversation Forms](/help/
     </tr>
    </table>
 
-1. Da das Sammeln ihrer E-Mail ein Ziel ist, ziehen Sie die Zielkarte unter &quot;Informationserfassung&quot;.
+1. Da die Erfassung ihrer E-Mail ein Ziel ist, ziehen Sie die [!UICONTROL Ziel] Karte unter &quot;Info Capture&quot;angezeigt.
 
    ![](assets/stream-designer-19.png)
 
-1. Benennen Sie Ihr Ziel (oder wählen Sie ein vorhandenes aus) und klicken Sie auf **Speichern**.
+1. Benennen Sie Ihr Ziel (oder wählen Sie ein vorhandenes aus) und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/stream-designer-20.png)
 
@@ -190,21 +190,21 @@ Sie können Streams für Dialogfelder erstellen oder [Conversation Forms](/help/
 
    ![](assets/stream-designer-21.png)
 
-1. In diesem Beispiel erstellen wir ein neues Dokument. Geben Sie einen Namen ein, geben Sie die URL für die PDF ein, die Sie bereits gehostet haben, und klicken Sie auf **Speichern**.
+1. In diesem Beispiel erstellen wir ein neues Dokument. Geben Sie einen Namen ein, geben Sie die URL für die PDF ein, die Sie bereits gehostet haben, und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/stream-designer-22.png)
 
-1. Wählen Sie die **Vorschau** Umschalten auf Vorschau des Dialogfelds.
+1. Wählen Sie die **[!UICONTROL Vorschau]** Umschalten auf Vorschau des Dialogfelds.
 
    ![](assets/stream-designer-23.png)
 
-1. Wenn Sie bereit sind, Ihr Dialogfeld zu aktivieren, klicken Sie auf **Veröffentlichen**.
+1. Wenn Sie bereit sind, Ihr Dialogfeld zu aktivieren, klicken Sie auf **[!UICONTROL Veröffentlichen]**.
 
    ![](assets/stream-designer-24.png)
 
 >[!NOTE]
 >
->Stellen Sie vor dem Klicken auf Veröffentlichen sicher, dass Sie [Ihre Ziel-URL(s) eingegeben haben](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"}.
+>Vor dem Klicken [!UICONTROL Veröffentlichen], denken Sie daran, sicherzustellen, dass Sie [Ihre Ziel-URL(s) eingegeben haben](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
