@@ -4,9 +4,9 @@ description: Single Sign-On zu einem Portal hinzufügen - Marketo Docs - Produkt
 title: Single Sign-On zu einem Portal hinzufügen
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: ab1ea483998d6cb37277b18adf2c1d3371bb40e6
+source-git-commit: f8fa8781d2b1e96ffda038f2f2e28cd242dcfead
 workflow-type: tm+mt
-source-wordcount: '546'
+source-wordcount: '560'
 ht-degree: 0%
 
 ---
@@ -30,6 +30,7 @@ Sobald die einmalige Anmeldung aktiviert ist, kann der IdP die Anmeldeinformatio
 >[!NOTE]
 >
 >Bist du ein [!DNL Microsoft Azure] Benutzer? Sehen Sie sich die [Integrations-Tutorial](https://azure.microsoft.com/en-us/documentation/articles/active-directory-saas-marketo-tutorial/){target="_blank"}.
+FYI, es gibt einen Tippfehler in Schritt 5c ihres Tutorials. Verwenden Sie `https://<munchkinid>.mktoweb.com`, _not_ `https://<munchkinid>.marketo.com`.
 
 ## Senden der Anforderung {#how-to-send-the-request}
 
