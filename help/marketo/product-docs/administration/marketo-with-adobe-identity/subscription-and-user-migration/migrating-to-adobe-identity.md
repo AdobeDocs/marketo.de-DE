@@ -3,9 +3,9 @@ description: Migration zu Adobe Identity - Marketo Docs - Produktdokumentation
 title: Migration zur Adobe Identity
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
-source-git-commit: 404d2720dec6b4932c99a1f390a88dc0835c7491
+source-git-commit: 179fe78c35c04617df47b61d88322f82feab746a
 workflow-type: tm+mt
-source-wordcount: '2230'
+source-wordcount: '2252'
 ht-degree: 0%
 
 ---
@@ -44,9 +44,9 @@ Adobe migriert automatisch alle Marketo-Administratoren mit verifizierten E-Mail
 
 ![](assets/migrating-to-adobe-identity-5.png)
 
-**Wenn Ihr Marketo-Abonnement weniger als 75 Benutzer hat**, migriert Adobe automatisch den Rest Ihrer Benutzer. Dieser Workflow soll ein Höchstmaß an Automatisierung liefern, und es ist keine Aktion erforderlich, um die Migration auszuführen. Nach Abschluss der Migration wird die Marketo Migration Console nicht mehr im Marketo Admin-Navigationsbereich angezeigt und alle Benutzer greifen über eine Adobe ID auf Marketo zu.
+**Wenn Ihr Marketo-Abonnement weniger als 75 Benutzer hat und keine SSO in Marketo und/oder Ihrer Adobe-Org enthält**, migriert Adobe automatisch den Rest Ihrer Benutzer. Dieser Workflow soll ein Höchstmaß an Automatisierung liefern, und es ist keine Aktion erforderlich, um die Migration auszuführen. Nach Abschluss der Migration wird die Marketo Migration Console nicht mehr im Marketo Admin-Navigationsbereich angezeigt und alle Benutzer greifen über eine Adobe ID auf Marketo zu.
 
-**Wenn Ihr Marketo-Abonnement 75 oder mehr Benutzer hat**, erhalten Marketo-Produktadministratoren beim Beginn der Benutzermigration Zugriff auf das Self-Service-Benutzermigrationstool der Migrationskonsole und werden bei der Anmeldung auf der Seite My Marketo über ein Banner benachrichtigt. Der Administrator ist für den Abschluss der Benutzermigration mithilfe des Self-Service-Tools für die Benutzermigration verantwortlich.
+**Wenn Ihr Marketo-Abonnement 75 oder mehr Benutzer hat oder SSO in Marketo und/oder Ihrer Adobe-Org enthält**, erhalten Marketo-Produktadministratoren beim Beginn der Benutzermigration Zugriff auf das Self-Service-Benutzermigrationstool der Migrationskonsole und werden bei der Anmeldung auf der Seite My Marketo über ein Banner benachrichtigt. Der Administrator ist für den Abschluss der Benutzermigration mithilfe des Self-Service-Tools für die Benutzermigration verantwortlich.
 
 ![](assets/migrating-to-adobe-identity-6.png)
 
