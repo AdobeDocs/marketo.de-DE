@@ -3,7 +3,7 @@ description: Live-Chat-Übersicht - Marketo-Dokumente - Produktdokumentation
 title: Live-Chat-Übersicht
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: a1341ab39690190fa203bf320543e9b5f5e20e66
+source-git-commit: 56070990d8bcea61fbbf3b382e5abae786b2488e
 workflow-type: tm+mt
 source-wordcount: '650'
 ht-degree: 0%
@@ -72,7 +72,9 @@ Durch Klicken auf die Live-Chat-Karte im Stream können Sie festlegen, wie der B
 
 ## Live-Chat-Benachrichtigungen {#live-chat-notifications}
 
-Um Browser-Benachrichtigungen für Live-Chat zu erhalten, müssen alle Live-Chat-Agenten Browserbenachrichtigungen für Dynamic Chat aktivieren, wenn sie dazu aufgefordert werden.
+>[!IMPORTANT]
+>
+>Um Browser-Benachrichtigungen für Live-Chat zu erhalten, müssen alle Live-Chat-Agenten Browserbenachrichtigungen für Dynamic Chat aktivieren, wenn sie dazu aufgefordert werden.
 
 ### Aktivieren von Benachrichtigungen {#enabling-notifications}
 
