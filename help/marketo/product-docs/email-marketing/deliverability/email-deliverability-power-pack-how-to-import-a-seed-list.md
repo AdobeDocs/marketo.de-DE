@@ -4,9 +4,9 @@ description: Email Deliverability Power Pack - Importieren einer Testliste - Mar
 title: Email Deliverability Power Pack - Importieren einer Testliste
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
 feature: Deliverability
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 3cb7e5ddef8ec05a7cf8d65dd9f3bafa5dcb7da1
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '332'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Eine Testliste ist eine Liste von E-Mail-Konten mehrerer Postfachanbieter, einschließlich Google-Apps, Hotmail, Yahoo! usw., die verwendet werden, um die Zustellrate von Postfächern im Vergleich zu Spam-Ordnern zu schätzen. So erhalten Sie diese Liste in Ihre Marketo-Instanz.
 
->[!AVAILABILITY]
+>[!IMPORTANT]
 >
->Nicht alle Marketo Engage-Benutzer haben diese Funktion erworben. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).
+>Dieser Artikel ist für diejenigen mit einem aktiven Everest-Abonnement zu diesem Zeitpunkt. Wenn Sie den Posteingang-Tracker by Bird (früher MessageBird) verwenden, werden Ihre Tutorials [finden Sie hier .](/help/marketo/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.md){target="_blank"}.
 
 ## Testliste importieren {#import-a-seed-list}
 
@@ -57,4 +57,4 @@ Eine Testliste ist eine Liste von E-Mail-Konten mehrerer Postfachanbieter, einsc
 
 Ihre Testliste kann sich so oft wie jeden Monat ändern. Es ist wichtig, sich regelmäßig beim Email Delivery Power Pack anzumelden und den Status Ihrer Testliste zu überprüfen. Wenn neue Adressen hinzugefügt werden oder eine Aktualisierung erforderlich ist, werden Sie über das Benachrichtigungssymbol auf der linken unteren Seite der Anwendung benachrichtigt.
 
-Nachdem Sie Ihre statische Liste in Marketo erstellt haben, können Sie mit dem Versand beginnen, um die Platzierung des Posteingangs Ihrer E-Mail zu testen.
+Nachdem Ihre statische Liste in Marketo erstellt wurde, können Sie mit dem Versand beginnen, um die Platzierung des Posteingangs Ihrer E-Mail zu testen.
