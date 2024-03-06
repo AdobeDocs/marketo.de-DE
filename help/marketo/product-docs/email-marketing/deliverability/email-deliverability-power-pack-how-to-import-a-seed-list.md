@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10099077
-description: Email Deliverability Power Pack - Importieren einer Testliste - Marketo Docs - Produktdokumentation
+description: Erfahren Sie, wie Sie eine Seed-Liste in Ihre Marketo Engage-Instanz importieren.
 title: Email Deliverability Power Pack - Importieren einer Testliste
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
 feature: Deliverability
-source-git-commit: 3cb7e5ddef8ec05a7cf8d65dd9f3bafa5dcb7da1
+source-git-commit: 136707304350be59918716233f5d6e2a6438be4e
 workflow-type: tm+mt
-source-wordcount: '332'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
 
 # Email Deliverability Power Pack: Importieren einer Testliste {#email-deliverability-power-pack-how-to-import-a-seed-list}
 
-Eine Testliste ist eine Liste von E-Mail-Konten mehrerer Postfachanbieter, einschließlich Google-Apps, Hotmail, Yahoo! usw., die verwendet werden, um die Zustellrate von Postfächern im Vergleich zu Spam-Ordnern zu schätzen. So erhalten Sie diese Liste in Ihre Marketo-Instanz.
+Eine Testliste ist eine Liste von E-Mail-Konten mehrerer Postfachanbieter, einschließlich Google-Apps, Hotmail, Yahoo! usw., die verwendet werden, um die Zustellrate von Postfächern im Vergleich zu Spam-Ordnern zu schätzen. Im Folgenden finden Sie die Schritte, um diese Liste in Ihre Marketo Engage-Instanz zu laden.
 
 >[!IMPORTANT]
 >
