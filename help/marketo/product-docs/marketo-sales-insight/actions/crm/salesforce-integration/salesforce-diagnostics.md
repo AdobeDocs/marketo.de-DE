@@ -3,9 +3,9 @@ description: Salesforce Diagnostics - Marketo Docs - Produktdokumentation
 title: Salesforce-Diagnose
 exl-id: c449f938-9615-47cb-b232-613ec29068a3
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 9384d72b335a4b975b190816ea999ad067fddeda
 workflow-type: tm+mt
-source-wordcount: '1445'
+source-wordcount: '1374'
 ht-degree: 1%
 
 ---
@@ -143,7 +143,7 @@ Teil unserer Salesforce-Integration ist eine Salesforce-Diagnoseseite innerhalb 
 
 **Fehler:** INVALID_TYPE\
 **Kategorie:** Zugriff/Validierung\
-**Nachricht:** CreatedDate, (SELECT ID FROM Tasks) FROM Lead WHERE Email=&#39;emailid&#39;^ERROR at Row:1:Column:53sObject type &#39;Lead&#39; wird nicht unterstützt. Wenn Sie versuchen, ein benutzerdefiniertes Objekt zu verwenden, stellen Sie sicher, dass hinter dem Namen der Entität das Zeichen &#39;__c&#39; angehängt wird. Bitte verweisen Sie auf Ihre WSDL oder auf den Aufruf zur Beschreibung der entsprechenden Namen
+**Nachricht:** CreatedDate, (SELECT ID FROM Tasks) FROM Lead WHERE Email=&#39;emailid&#39;^ERROR at `Row:1:Column:53sObject` Der Typ &quot;Lead&quot;wird nicht unterstützt. Wenn Sie versuchen, ein benutzerdefiniertes Objekt zu verwenden, stellen Sie sicher, dass hinter dem Namen der Entität das Zeichen &#39;__c&#39; angehängt wird. Bitte verweisen Sie auf Ihre WSDL oder auf den Aufruf zur Beschreibung der entsprechenden Namen
 **Was geschieht:** Wir versuchen, einen Objekttyp aus Salesforce abzufragen, auf den der Benutzer keinen Zugriff hat. Dies hängt höchstwahrscheinlich damit zusammen, dass der Benutzer keinen Zugriff auf das Lead-Objekt hat.\
 **Schritte zur Fehlerbehebung:** Gewähren Sie entweder Lese- und Aktualisierungszugriff auf das Lead-Objekt in Salesforce oder deaktivieren Sie die E-Mail-Protokollierung und die Protokollierung der letzten Aktivität, um Lead-Datensätze zu speichern.
 
@@ -180,7 +180,7 @@ Teil unserer Salesforce-Integration ist eine Salesforce-Diagnoseseite innerhalb 
 
 **Fehler:** TXN_SECURITY_NO_ACCESS\
 **Kategorie:** Zugriff/Validierung\
-**Nachricht:** Der von Ihnen angeforderte Vorgang ist aufgrund einer Sicherheitsrichtlinie in Ihrem Unternehmen nicht zulässig. Kontaktieren Sie diesbezüglich Ihre oder Ihren Admin.
+**Nachricht:** Der von Ihnen angeforderte Vorgang ist aufgrund einer Sicherheitsrichtlinie in Ihrem Unternehmen nicht zulässig. Wenden Sie sich an Ihren Administrator.
 **Was geschieht:** Es wurde eine Art Sicherheitsbeschränkung eingerichtet - siehe https://developer.salesforce.com/forums/?id=&quot;Datensatz-ID&quot;\
 **Schritte zur Fehlerbehebung:** Sprechen Sie mit Ihrem Salesforce-Administrator und sehen Sie, welche spezifische Einschränkung auftreten kann.
 

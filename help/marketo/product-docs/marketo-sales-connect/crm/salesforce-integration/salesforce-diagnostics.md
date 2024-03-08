@@ -4,9 +4,9 @@ description: Salesforce Diagnostics - Marketo Docs - Produktdokumentation
 title: Salesforce-Diagnose
 exl-id: a2b5bd10-bc92-4fd4-bc1b-4e02b48c9d83
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9384d72b335a4b975b190816ea999ad067fddeda
 workflow-type: tm+mt
-source-wordcount: '1427'
+source-wordcount: '1354'
 ht-degree: 1%
 
 ---
@@ -154,7 +154,7 @@ Teil unserer Salesforce-Integration ist eine Salesforce-Diagnoseseite innerhalb 
 
 **Fehler:** INVALID_TYPE\
 **Kategorie:** Zugriff/Validierung\
-**Nachricht:** CreatedDate, (SELECT ID FROM Tasks) FROM Lead WHERE Email=&#39;emailid&#39;^ERROR at Row:1:Column:53sObject type &#39;Lead&#39; wird nicht unterstützt. Wenn Sie versuchen, ein benutzerdefiniertes Objekt zu verwenden, stellen Sie sicher, dass hinter dem Namen der Entität das Zeichen &#39;__c&#39; angehängt wird. Bitte verweisen Sie auf Ihre WSDL oder auf den Aufruf zur Beschreibung der entsprechenden Namen
+**Nachricht:** CreatedDate, (SELECT ID FROM Tasks) FROM Lead WHERE Email=&#39;emailid&#39;^ERROR at `Row:1:Column:53sObject` Der Typ &quot;Lead&quot;wird nicht unterstützt. Wenn Sie versuchen, ein benutzerdefiniertes Objekt zu verwenden, stellen Sie sicher, dass hinter dem Namen der Entität das Zeichen &#39;__c&#39; angehängt wird. Bitte verweisen Sie auf Ihre WSDL oder auf den Aufruf zur Beschreibung der entsprechenden Namen
 **Was geschieht:** Wir versuchen, einen Objekttyp aus Salesforce abzufragen, auf den der Benutzer keinen Zugriff hat. Dies hängt höchstwahrscheinlich damit zusammen, dass der Benutzer keinen Zugriff auf das Lead-Objekt hat.\
 **Schritte zur Fehlerbehebung:** Gewähren Sie entweder Lese- und Aktualisierungszugriff auf das Lead-Objekt in Salesforce oder deaktivieren Sie die E-Mail-Protokollierung und die Protokollierung der letzten Aktivität, um Lead-Datensätze zu speichern.
 
