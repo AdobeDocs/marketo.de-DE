@@ -3,10 +3,10 @@ description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokument
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: acaf2b421ed65f74bedf18b121ce54e30c19c721
+source-git-commit: d65903d64d068a6f919df78258654414f3b76426
 workflow-type: tm+mt
-source-wordcount: '208'
-ht-degree: 12%
+source-wordcount: '216'
+ht-degree: 8%
 
 ---
 
@@ -31,8 +31,8 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
   </tr>
   <tr> 
    <td><strong>Erweiterte Konversationsflusslogik</strong>: Fügen Sie zusätzliche Felder zur Auswertung in einer einzigen Auswahl für die Weiterverfolgung von Konversationsströmen hinzu.</td> 
-   <td><i>Demnächst verfügbar</i></td>
-   <td><i>Demnächst verfügbar</i></td>
+   <td>Versendet</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Konversionsflusseinstellungen für Marketo Engage Forms</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -42,8 +42,8 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
    </tr>
     <tr> 
    <td><strong>Konversionsflusslogik neu anordnen</strong>: In Marketo Engage Forms können Sie jetzt die Optionen für den Konversionsfluss neu anordnen, anstatt sie löschen und wieder hinzufügen zu müssen.</td> 
-   <td><i>Demnächst verfügbar</i></td>
-   <td><i>Demnächst verfügbar</i></td>
+   <td>Versendet</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Konversionsflusseinstellungen für Marketo Engage Forms</a></td>
    </tr>
   <tr> 
    <td> </td> 

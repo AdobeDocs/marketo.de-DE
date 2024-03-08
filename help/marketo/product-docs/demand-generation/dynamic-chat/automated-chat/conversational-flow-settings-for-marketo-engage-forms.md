@@ -3,9 +3,9 @@ description: Konversationsflusseinstellungen für Marketo Engage Forms - Marketo
 title: Konversionsflusseinstellungen für Marketo Engage Forms
 feature: Dynamic Chat
 exl-id: 36d00862-4bb9-46fd-a5f8-69df7bf22ecf
-source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
+source-git-commit: d65903d64d068a6f919df78258654414f3b76426
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '285'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,7 @@ Machen Sie Marketo Engage Forms kommunikativ, indem Sie sie mit Dynamic Chat-Kon
 
    ![](assets/conversational-flow-settings-5.png)
 
-1. Wählen Sie den gewünschten Konversationsfluss und Versandtyp aus.
+1. Wählen Sie die gewünschte **[!UICONTROL Konversationsfluss]** und **[!UICONTROL Versandtyp]**.
 
    ![](assets/conversational-flow-settings-6.png)
 
@@ -46,14 +46,26 @@ Machen Sie Marketo Engage Forms kommunikativ, indem Sie sie mit Dynamic Chat-Kon
    >
    >[Erfahren Sie mehr über konversale Flüsse](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}
 
-   **OPTIONALER SCHRITT**: Sie können auf Auswahl hinzufügen klicken, um Chat-Besucher anzusprechen, die bestimmte Kriterien erfüllen.
+   **OPTIONALER SCHRITT**: Klicken Sie auf **[!UICONTROL Auswahl hinzufügen]** , um Besucher anzusprechen, die bestimmte Kriterien erfüllen. Sie können bis zu neun Auswahlmöglichkeiten für insgesamt zehn Optionen hinzufügen.
 
    ![](assets/conversational-flow-settings-7.png)
 
-   >[!IMPORTANT]
+   >[!NOTE]
    >
    >Der Browser des Besuchers muss Cookie&#39;d as a known person vor der Formularübermittlung sein, um für die Mitgliedschaft in der statischen/intelligenten Liste qualifiziert zu sein.
 
-1. Klicks **[!UICONTROL Beenden]** wann geschehen.
+   **OPTIONALER SCHRITT**: Klicken Sie auf die **+** in jedem Schritt signieren, um weitere Attribute hinzuzufügen, sodass Sie Ihre Zielgruppe eingrenzen können (die verfügbaren Attribute sind die Felder, die Sie für das Formular ausgewählt haben). In diesem Beispiel zielen wir auf Adobe Technical Writer in Kalifornien ab.
 
    ![](assets/conversational-flow-settings-8.png)
+
+   >[!NOTE]
+   >
+   >Die auf &quot;all&quot;festgelegte Kriterienlogik bedeutet, dass jedes Attribut erfüllt sein muss, um qualifiziert zu werden. Die auf &quot;any&quot;festgelegte Kriterienlogik bedeutet, dass eines der Attribute ausreicht.
+
+   **OPTIONALER SCHRITT**: Wenn Sie zwei oder mehr Auswahlmöglichkeiten hinzufügen, können Sie sie durch Klicken auf ihre Nach-oben-/Nach-unten-Pfeile neu anordnen.
+
+   ![](assets/conversational-flow-settings-9.png)
+
+1. Klicks **[!UICONTROL Beenden]** wann geschehen.
+
+   ![](assets/conversational-flow-settings-10.png)

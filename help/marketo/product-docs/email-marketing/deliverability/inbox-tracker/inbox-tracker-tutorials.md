@@ -1,18 +1,18 @@
 ---
-description: Testen, überwachen und verstehen Sie Zustellbarkeitsprobleme mit dem Marketo Engage Email Deliverability Powerpack.
+description: Testen, überwachen und verstehen Sie Zustellbarkeitsprobleme mit dem Posteingangsverfolgung.
 title: Tutorials für Posteingangsverfolgung
 feature: Deliverability
 exl-id: 23e2875d-e0ee-45a7-a79a-caa0b7310e55
-source-git-commit: 3cb7e5ddef8ec05a7cf8d65dd9f3bafa5dcb7da1
+source-git-commit: d65903d64d068a6f919df78258654414f3b76426
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
 
 # Tutorials für Posteingangsverfolgung {#inbox-tracker-tutorials}
 
-Testen, überwachen und verstehen Sie Zustellbarkeitsprobleme mit dem Marketo Engage Email Deliverability Powerpack, powered by Bird&#39;s (früher MessageBird) Inbox Tracker Platform. Inbox Tracker ist eine Einzelanwendung, die die Intelligenz Ihres Programms und die Vorhersage von E-Mail-Rendering/Inbox-Tests kombiniert, um die Leistung Ihrer E-Mails zu maximieren.
+Testen, überwachen und verstehen Sie Zustellbarkeitsprobleme mit E-Mail-Zustellbarkeits-Tools, die von der Bird-Plattform (früher MessageBird) Inbox Tracker unterstützt werden. Inbox Tracker ist eine Einzelanwendung, die die Intelligenz Ihres Programms und die Vorhersage von E-Mail-Rendering/Inbox-Tests kombiniert, um die Leistung Ihrer E-Mails zu maximieren.
 
 >[!AVAILABILITY]
 >
