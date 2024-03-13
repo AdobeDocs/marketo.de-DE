@@ -4,14 +4,14 @@ description: Versionshinweise - Frühling 18 - Marketo-Dokumente - Produktdokume
 title: Versionshinweise - Frühjahr 18
 exl-id: 59bab3a9-12b3-4c87-b035-a7cde63ada1e
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9725758f46fcabb96572d7ae14cedabc29b2ce60
 workflow-type: tm+mt
-source-wordcount: '480'
-ht-degree: 9%
+source-wordcount: '466'
+ht-degree: 5%
 
 ---
 
-# Versionshinweise: Frühjahr 18 {#release-notes-spring}
+# Versionshinweise: Frühling &#39;18 {#release-notes-spring}
 
 Die folgenden Funktionen sind in der Version vom Frühling 18 enthalten. Überprüfen Sie Ihre Marketo-Edition auf Funktionsverfügbarkeit.
 
@@ -31,7 +31,7 @@ Steigern Sie die Pipeline und den Umsatz, indem Sie mit intelligenten Funktionen
 
 **ToutApp**
 
-* **Compliance Card**: Sicherstellung der Einhaltung der DSGVO durch Erfassung der Quelle der Verkaufskontakte und der Details der Kundenzustimmung für den Erhalt von Nachrichten.
+* **Compliance Card**: Stellen Sie die Einhaltung der DSGVO sicher, indem Sie die Quelle der Verkaufskontakte und Details der Kundenzustimmung für den Erhalt von Nachrichten erfassen.
 * **Aktualisierung der Kennwortrichtlinie**: Halten Sie Ihre Daten mit strengeren Anforderungen an die Erstellung, das Zurücksetzen und den Ablauf von Passwörtern sicherer (erfüllt die Anforderungen an die Konformität mit SOC II - Typ 1).
 * **Optimiertes Erlebnis bei der Kontoeinrichtung**: Richten Sie Ihr Konto schneller ein und verbinden Sie es mit Gmail, Outlook und anderen Systemen.
 
@@ -49,23 +49,23 @@ Nutzen Sie die Marketo Sky-Open-Beta-Version, um Zugriff auf mehr als 100 neue p
 
 [Performance-Insights](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)
 
-**Periodenvergleich über das Jahr hinweg**
+**Vergleich des Jahreszeitraums**
 
 Erhalten Sie relevantere Einblicke, indem Sie die Ergebnisse mit dem gleichen Zeitraum des Vorjahres vergleichen.
 
-**Trend für mehrere Kanäle**
+**Trends für mehrere Kanäle**
 
 Vergleichen Sie die Leistung mehrerer Kanäle im Lauf der Zeit.
 
-**Synchronisierung und Filterung der benutzerdefinierten Gelegenheitsfelder**
+**Chancen für benutzerdefinierte Feldsynchronisierung und -filterung**
 
 Filtern Sie die Ergebnisse nach Möglichkeit, benutzerdefinierten Feldern, wie z. B. einer bestimmten Verkaufsregion. Legen Sie für numerische oder Währungsfelder Mindest- und Höchstwerte fest, z. B. einen minimalen Opportunity-Betrag, und generieren Sie Einblicke für bestimmte Datenbereiche.
 
-**Gemeinsame Schnelldiagramme**
+**Freigegebene Schnelldiagramme**
 
 Geben Sie Ihre Schnelldiagramme einfach für andere Benutzer von Performance Insights frei.
 
-**Verbesserungen der Nutzbarkeit**
+**Verbesserungen der Benutzerfreundlichkeit**
 
 Optimierte Navigation und verbesserte Workflows ermöglichen einen Überblick über die Erfolgskriterien des Programms und den Zugriff auf Details des Programms.
 
@@ -76,10 +76,6 @@ Optimierte Navigation und verbesserte Workflows ermöglichen einen Überblick ü
 Legen Sie das Ziel des ContentAI-Optimierungsalgorithmus fest, um mehr Ansichten, Klicks oder Konversionen zu fördern.
 
 ## Integration und APIs {#integration-and-apis}
-
-[Facebook Workplace-Integration](/help/marketo/product-docs/administration/additional-integrations/add-workplace-by-facebook-as-a-launchpoint-service.md)
-
-Senden Sie Systembenachrichtigungen und interessante Momente an Facebook Workplace.
 
 [Statische Listen-APIs](https://developers.marketo.com/rest-api/assets/static-lists/)
 
