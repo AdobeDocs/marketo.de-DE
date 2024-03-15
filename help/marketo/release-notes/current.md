@@ -3,10 +3,10 @@ description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokument
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: d65903d64d068a6f919df78258654414f3b76426
+source-git-commit: 99c38fd24631e94a9554bf09de11e8eb607150d6
 workflow-type: tm+mt
-source-wordcount: '216'
-ht-degree: 8%
+source-wordcount: '296'
+ht-degree: 6%
 
 ---
 
@@ -60,5 +60,7 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
 <br/>
 
 ## Ankündigungen {#announcements}
+
+* **API-Fehlerbehebung für Programmteilnehmer abrufen**: Kürzlich wurde eine Änderung vorgenommen, um das Verhalten der [Abrufen von Programmmitgliedern](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Program_Members/getProgramMembersUsingGET){target="_blank"} -Endpunkt. Bei der Verwendung des Filtertyps &quot;updatedAt&quot;zur Angabe eines Datumsbereichs bestand bisher die Möglichkeit, dass in der Antwort keine in diesem Bereich aktualisierten Einträge für Programmmitgliedschaften enthalten waren. Darüber hinaus bestand die Möglichkeit, dass außerhalb des angegebenen Datumsbereichs aktualisierte Programmmitgliedschaftsdatensätze fälschlicherweise in die Antwort aufgenommen wurden. Beide Probleme wurden behoben.
 
 * **Einstellung des Kontoinsight-Browser-Plug-ins**: Adobe entfernt die Target-Kontoverwaltung [Account Insight-Browser-Plugin](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md){target="_blank"} from the Chrome Web Store on March 18, 2024. Existing users: you can continue to use the plug-in until you migrate your Marketo Engage instance to Adobe Identity and Admin Console. This change **will not impact** any other TAM features/data within Marketo Engage or the Chrome and Outlook email plug-ins that work with Sales Insight. [Learn more](https://nation.marketo.com/t5/product-blogs/marketo-engage-account-insights-browser-plug-in-end-of-life/ba-p/344834){target="_blank"}.
