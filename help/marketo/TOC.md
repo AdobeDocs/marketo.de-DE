@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: abfdda5b42df9d01e1ad723c58fe6128048d4023
+source-git-commit: c7359cc95a3e90f228353dc3d21c92712f9d5684
 workflow-type: tm+mt
-source-wordcount: '9282'
+source-wordcount: '9286'
 ht-degree: 3%
 
 ---
@@ -190,7 +190,7 @@ ht-degree: 3%
             + [Migration zur Adobe Identity](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md)
             + [Grundlegendes zu Marketo-Abonnements und Benutzermigration zur Adobe Admin Console](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md)
       + Einstellungen {#settings}
-         + [Massenexport-API-Informationen](product-docs/administration/settings/bulk-export-api-information.md)
+         + [Informationen zur Massenexport-API](product-docs/administration/settings/bulk-export-api-information.md)
          + [Kampagnenprüfung](product-docs/administration/settings/campaign-inspector.md)
          + [Ändern der Attributionseinstellungen für Analytics](product-docs/administration/settings/change-attribution-settings-for-analytics.md)
          + [Marketo-Kennwort ändern](product-docs/administration/settings/change-your-marketo-password.md)
@@ -293,7 +293,7 @@ ht-degree: 3%
             + [Flussschritt löschen](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/delete-a-flow-step.md)
             + [Person löschen](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/delete-person.md)
             + [Kampagne ausführen](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign.md)
-            + [Flussschritt-Dienst](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/flow-step-service.md)
+            + [Flow-Schritt-Service](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/flow-step-service.md)
             + [Dem Empfehlenden eine Gutschrift erteilen](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/give-credit-to-referrer.md)
             + [Interessanter Moment](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)
             + [Aus Flow entfernen](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md)
@@ -321,7 +321,7 @@ ht-degree: 3%
             + [Programmmitgliedsdaten ändern](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md)
          + Microsoft Dynamics-Flussaktionen {#microsoft-dynamics-flow-actions}
             + [Hinzufügen oder Entfernen von Personen aus Ihrer Dynamics-Kampagne](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md)
-            + [Inhaber in Microsoft ändern](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/change-owner-in-microsoft.md)
+            + [Eigentümer in Microsoft ändern](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/change-owner-in-microsoft.md)
             + [Aufgabe in Microsoft erstellen](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/create-task-in-microsoft.md)
             + [Personen mit Microsoft synchronisieren](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md)
          + Salesforce-Flussaktionen {#salesforce-flow-actions}
@@ -400,7 +400,7 @@ ht-degree: 3%
             + [Lokaler Asset-Ablauf](product-docs/core-marketo-concepts/programs/working-with-programs/local-asset-expiration.md)
             + [Mitglieder verwalten und anzeigen](product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md)
             + [Benutzerdefinierte Felder für Programmmitglieder](product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md)
-            + [Benutzerdefinierte Feldsynchronisierung zwischen Programmteilnehmern](product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md)
+            + [Synchronisierung benutzerdefinierter Felder für Programmmitglieder](product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md)
             + [Synchronisieren einer SFDC-Kampagne mit einem Programm](product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md)
             + [Zeitkosten verstehen](product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md)
             + [Grundlegendes zu Tags](product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md)
@@ -515,7 +515,7 @@ ht-degree: 3%
          + [Registerkarte &quot;Einstellungen&quot;](product-docs/core-marketo-concepts/engagement-map/settings-tab.md)
       + Vorhersagekräftige Zielgruppen {#predictive-audiences}
          + [Erste Schritte mit vorausschauenden Zielgruppen](product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences.md)
-         + [Modelle und Insights](product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md)
+         + [Modelle und Erkenntnisse](product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md)
          + [Vorhersagefilter](product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md)
          + [Verstehen der Zielverfolgung und der geplanten Registrierungen](product-docs/core-marketo-concepts/predictive-audiences/understanding-goal-tracking-and-projected-registrations.md)
    + CRM-Synchronisierung {#crm-sync}
@@ -649,7 +649,7 @@ ht-degree: 3%
          + [Dynamic Chat-Übersicht](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
          + [Chatbot-Verhalten](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
          + [Sitzungsliste](product-docs/demand-generation/dynamic-chat/meeting-list.md)
-         + [Dynamic Chat-Aktivitäten](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
+         + [Dynamische Chat-Aktivitäten](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
          + [Analytics](product-docs/demand-generation/dynamic-chat/analytics.md)
          + [FAQs](product-docs/demand-generation/dynamic-chat/faq.md)
          + Automatisierter Chat {#automated-chat}
@@ -1223,7 +1223,7 @@ ht-degree: 3%
             + Office 365 Add-In {#office-365-add-in}
                + [E-Mail zu Salesforce hinzufügen (Office 365)](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/add-email-to-salesforce-office-365.md)
                + [Installieren von Sales Connect für Office365 Mac OS, Windows und Online](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/installing-sales-connect-for-office365-mac-os-windows-and-online.md)
-      + Email {#email}
+      + E-Mail {#email}
          + Command Center {#command-center}
             + [Übersicht über das Command Center](product-docs/marketo-sales-connect/email/command-center/command-center-overview.md)
             + [Erweiterte Suchübersicht](product-docs/marketo-sales-connect/email/command-center/advanced-search-overview.md)
@@ -1400,7 +1400,7 @@ ht-degree: 3%
             + Aktionen in Salesforce {#actions-in-salesforce}
                + [Verwenden der Massen-Sende-Verkaufs-E-Mail in Salesforce](product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-send-sales-email-in-salesforce.md)
                + [Verwenden von Massen-Add zu Verkaufskampagnen in Salesforce](product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-add-to-sales-campaign-in-salesforce.md)
-         + Email {#email}
+         + E-Mail {#email}
             + Command Center {#command-center}
                + [Erweiterte Suchübersicht](product-docs/marketo-sales-insight/actions/email/command-center/advanced-search-overview.md)
                + [Zuweisen von Aufgaben zu Team-Mitgliedern](product-docs/marketo-sales-insight/actions/email/command-center/assigning-tasks-to-team-members.md)
@@ -1540,7 +1540,7 @@ ht-degree: 3%
          + Funktionen {#features}
             + [Übersicht über MSI-Funktionen](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md)
             + [Übersicht über die Funktionen des Insight Dashboard](product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
-            + [Dynamic Chat-Integration](product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md)
+            + [Integration von Dynamic Chat](product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md)
             + [E-Mail an mehrere Datensätze in Marketo Sales Insight senden](product-docs/marketo-sales-insight/msi-for-salesforce/features/send-an-email-to-multiple-records-in-marketo-sales-insight.md)
             + Aktionen im MSI-Panel {#actions-in-the-msi-panel}
                + [Auswählen einer Aktion in Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/choose-an-action-in-sales-insight.md)
@@ -1857,7 +1857,7 @@ ht-degree: 3%
             + [Ein benanntes Konto löschen](product-docs/target-account-management/target/named-accounts/delete-a-named-account.md)
             + [TAM-Hierarchien](product-docs/target-account-management/target/named-accounts/tam-hierarchies.md)
             + [Erstellen einer Hierarchie](product-docs/target-account-management/target/named-accounts/create-a-hierarchy.md)
-         + [Kontolisten](product-docs/target-account-management/target/account-lists.md)
+         + [Kontenlisten](product-docs/target-account-management/target/account-lists.md)
          + [Intelligente Kontolisten](product-docs/target-account-management/target/account-smart-lists.md)
          + [Erstellen einer mit einem Konto übereinstimmenden Zielgruppe in LinkedIn](product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md)
       + Engage {#engage}
@@ -1957,6 +1957,7 @@ ht-degree: 3%
    + Frühere Versionen {#previous-releases}
       + 2024 {#2024}
          + [Versionshinweise: Januar &#39;24](release-notes/previous-releases/2024/release-notes-jan-24.md)
+         + [Versionshinweise: März &#39;24](release-notes/previous-releases/2024/release-notes-mar-24.md)
       + 2023 {#2023}
          + [Versionshinweise: Januar &#39;23](release-notes/previous-releases/2023/release-notes-jan-23.md)
          + [Versionshinweise: März &#39;23](release-notes/previous-releases/2023/release-notes-mar-23.md)
