@@ -4,9 +4,9 @@ description: Champion/Challenger - Gesamte E-Mails - Marketo Docs - Produktdokum
 title: Champion/Challenger - Gesamte E-Mails
 exl-id: fb95b412-5766-44a8-b250-aa5103a604bc
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: c17bd1a623c46786f14c21c8fad718cdfeeec3cd
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---
@@ -43,11 +43,9 @@ Testen Sie ganze E-Mails gegeneinander. Wenn der Test vorüber ist, senden Sie d
    >
    >**Beispiel**
    >
-   >In der oben gezeigten Verteilung erhalten 15 % der in der intelligenten Liste angegebenen Zielgruppe eine der E-Mails, die den Herausforderer auslöst, und 85 % erhalten die Champion-E-Mail. Mehrere herausfordernde E-Mails teilen die 15 % gleich. Wenn der Test beendet ist, können Sie einen Gewinner manuell feststellen. Von diesem Zeitpunkt an erhalten alle zukünftigen Menschen die leistungsfähigeren Inhalte.
+   >In der oben gezeigten Verteilung erhalten 15 % der in der Smart-Liste angegebenen Zielgruppe eine der E-Mails, die den Herausforderer auslöst, und 85 % erhalten die Champion-E-Mail. Mehrere herausfordernde E-Mails teilen die 15 % gleich. Wenn der Test beendet ist, können Sie einen Gewinner manuell feststellen. Von diesem Zeitpunkt an erhalten alle zukünftigen Menschen die leistungsfähigeren Inhalte. In Trigger-Kampagnen kann der realisierte Prozentsatz vom gewählten Prozentsatz abweichen, da die Verteilung möglicherweise nicht genau an den ausgewählten Prozentsätzen ausgerichtet ist. Dies kann vorkommen, wenn eine Variante eine erhebliche Anzahl von Abonnenten verarbeitet oder wenn eine Variante eine operative E-Mail ist, die anderen nicht.
 
    Um statistische Genauigkeit zu erhalten, stellen Sie sicher, dass der Prozentsatz, den Sie Herausforderern zuweisen, genügend Personen enthält, damit Ihr Test gültig ist. Lassen Sie sich nicht von unschlüssigen Ergebnissen täuschen.
-
-   [Mehr Informationen als jemals zuvor über das statistische Vertrauen](https://en.wikipedia.org/wiki/Confidence_interval).
 
 1. Klicks **Nächste**.
 

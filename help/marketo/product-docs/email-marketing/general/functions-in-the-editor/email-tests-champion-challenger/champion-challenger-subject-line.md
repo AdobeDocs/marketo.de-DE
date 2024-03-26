@@ -4,9 +4,9 @@ description: Champion/Challenger - Subject Line - Marketo Docs - Produktdokument
 title: Champion/Challenger - Betreffzeile
 exl-id: c1c75979-d1a9-459d-a0da-b4bb769372d5
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: c17bd1a623c46786f14c21c8fad718cdfeeec3cd
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -43,9 +43,9 @@ Sie können mühelos mehrere Betreffzeilen testen. Wenn der Test beendet ist, se
    >
    >**Beispiel**
    >
-   >In der oben gezeigten Verteilung erhalten 10 % der in der Smart-Liste angegebenen Zielgruppe eine E-Mail mit der Betreffzeile des Herausforderers und 90 % erhalten E-Mails mit der Betreffzeile des Meisters. E-Mails mit mehreren herausfordernden Betreffzeilen verwenden die gleichen 10 %. Wenn der Test beendet ist, können Sie einen Gewinner manuell feststellen. Von diesem Zeitpunkt an erhalten alle zukünftigen Menschen die leistungsfähigeren Inhalte.
+   >In der oben gezeigten Verteilung erhalten 10 % der in der Smart-Liste angegebenen Zielgruppe eine E-Mail mit der Betreffzeile des Herausforderers und 90 % erhalten E-Mails mit der Betreffzeile des Meisters. E-Mails mit mehreren herausfordernden Betreffzeilen verwenden die gleichen 10 %. Wenn der Test beendet ist, können Sie einen Gewinner manuell feststellen. Von diesem Zeitpunkt an erhalten alle zukünftigen Menschen die leistungsfähigeren Inhalte. In Trigger-Kampagnen kann der realisierte Prozentsatz vom gewählten Prozentsatz abweichen, da die Verteilung möglicherweise nicht genau an den ausgewählten Prozentsätzen ausgerichtet ist. Dies kann vorkommen, wenn eine Variante eine erhebliche Anzahl von Abonnenten verarbeitet oder wenn eine Variante eine operative E-Mail ist, die anderen nicht.
 
-   Um statistische Genauigkeit zu erhalten, stellen Sie sicher, dass der gewählte Prozentsatz genügend Personen enthält, damit Ihr Test gültig ist. Lassen Sie sich nicht von unschlüssigen Ergebnissen täuschen. [Mehr Informationen als jemals zuvor über das statistische Vertrauen](https://en.wikipedia.org/wiki/Confidence_interval).
+   Um statistische Genauigkeit zu erhalten, stellen Sie sicher, dass der gewählte Prozentsatz genügend Personen enthält, damit Ihr Test gültig ist. Lassen Sie sich nicht von unschlüssigen Ergebnissen täuschen.
 
 1. Klicks **Nächste**.
 

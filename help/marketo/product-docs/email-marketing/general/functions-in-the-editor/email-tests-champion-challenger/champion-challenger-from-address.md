@@ -4,9 +4,9 @@ description: Champion/Challenger - Von Adresse - Marketo Docs - Produktdokumenta
 title: Champion/Challenger - From Address
 exl-id: 0debb7d3-358b-4054-989f-526d5c434c14
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: c17bd1a623c46786f14c21c8fad718cdfeeec3cd
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '275'
 ht-degree: 0%
 
 ---
@@ -43,9 +43,9 @@ Möchten Sie ohne Aufhebens eine andere Adresse ausprobieren? So geht es.
    >
    >**Beispiel**
    >
-   >In der oben gezeigten Verteilung erhalten 15 % der in der Smart-Liste angegebenen Gesamtzielgruppe eine E-Mail mit einer herausfordernden Person aus Adresse und 85 % erhalten die E-Mail mit dem Champion From Address. E-Mails für mehrere Herausforderer von Adressen teilen die 15 % gleich. Wenn der Test beendet ist, können Sie einen Gewinner manuell feststellen. Von diesem Zeitpunkt an erhalten alle zukünftigen Menschen die leistungsfähigeren Inhalte.
+   >In der oben gezeigten Verteilung erhalten 15 % der in der Smart List angegebenen Zielgruppe eine E-Mail mit einem Herausforderer von Adresse und 85 % erhalten die E-Mail mit dem Meister von Adresse. E-Mails für mehrere Herausforderer von Adressen teilen die 15 % gleich. Wenn der Test beendet ist, können Sie einen Gewinner manuell feststellen. Von diesem Zeitpunkt an erhalten alle zukünftigen Menschen die leistungsfähigeren Inhalte. In Trigger-Kampagnen kann der realisierte Prozentsatz vom gewählten Prozentsatz abweichen, da die Verteilung möglicherweise nicht genau an den ausgewählten Prozentsätzen ausgerichtet ist. Dies kann vorkommen, wenn eine Variante eine erhebliche Anzahl von Abonnenten verarbeitet oder wenn eine Variante eine operative E-Mail ist, die anderen nicht.
 
-   Stellen Sie sicher, dass Sie einen Prozentsatz auswählen, der genügend Personen enthält, damit Ihr Test gültig ist. Lassen Sie sich nicht von unschlüssigen Ergebnissen täuschen. [Mehr Informationen als jemals zuvor über das statistische Vertrauen](https://en.wikipedia.org/wiki/Confidence_interval).
+   Stellen Sie sicher, dass Sie einen Prozentsatz auswählen, der genügend Personen enthält, damit Ihr Test gültig ist. Lassen Sie sich nicht von unschlüssigen Ergebnissen täuschen.
 
 1. Klicks **Nächste**.
 
