@@ -4,7 +4,7 @@ title: STUDIO ZUM NEUEN GEBIET-DESIGN
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: d32189021024da48dd8a333f80398cf0d92a4f66
+source-git-commit: 433aae54a012e6bbf04c90056d8815a88e76498c
 workflow-type: tm+mt
 source-wordcount: '306'
 ht-degree: 11%
@@ -141,7 +141,7 @@ TABELLE
 <tbody>
   <tr>
     <td>Ordnerstruktur</td>
-    <td><li>Erstellen Sie Unterordner für jeden Asset-Typ und <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank" rel="noopener noreferrer">globale Assets organisieren</a>(d. h. E-Mail-Vorlagen, E-Mails, Formulare, Bilder und Dateien, Landingpages und Landingpage-Vorlagen) angemessen und einfach durchsuchbar.</li></td>
+    <td><li>Erstellen Sie Unterordner für jeden Asset-Typ und <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank" rel="noopener noreferrer">globale Assets organisieren</a> (d. h. E-Mail-Vorlagen, E-Mails, Formulare, Bilder und Dateien, Landingpages und Landingpage-Vorlagen) angemessen und einfach durchsuchbar.</li></td>
     <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank" rel="noopener noreferrer">Organisieren von Bildern und Dateien mithilfe von Ordnern</a></td>
   </tr>
 </tbody>

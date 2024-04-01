@@ -3,10 +3,10 @@ description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokument
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: c7359cc95a3e90f228353dc3d21c92712f9d5684
+source-git-commit: 433aae54a012e6bbf04c90056d8815a88e76498c
 workflow-type: tm+mt
-source-wordcount: '271'
-ht-degree: 10%
+source-wordcount: '380'
+ht-degree: 14%
 
 ---
 
@@ -68,3 +68,70 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
  </tbody> 
 </table>
 <br/>
+
+## Ankündigungen {#announcements}
+
+* **API-Update für Aktivitäten**: Am 26. April fügen wir Web- und E-Mail-basierten Aktivitäten mehrere neue Attribute hinzu, die zurückgegeben werden, wenn Sie Aktivitäten mit der [MARKETO REST API](https://developers.marketo.com/rest-api/lead-database/activities/){target="_blank"}. The activities listed below will now include Browser, Platform, Device, and User Agent attributes. Call the [Get Activity Types](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Activities/getAllActivityTypesUsingGET){target="_blank"} -Endpunkt, um die Attributdetails für jede Aktivität zu überprüfen.
+
+**Internetbasierte Aktivitäten**
+
+<table style="table-layout:auto"> 
+ <tbody> 
+  <tr> 
+   <th style="width:30%">Aktivität</th> 
+   <th style="width:70%">Neu hinzugefügte Attribute</th>
+   </tr>
+  <tr> 
+   <td>Visit Webpage</td> 
+   <td>Browser, Plattform, Gerät</td>
+  </tr>
+   <tr> 
+   <td>Formular ausfüllen</td> 
+   <td>Browser, Plattform, Gerät</td>
+  </tr>
+  <tr> 
+   <td>Auf Link klicken</td> 
+   <td>Browser, Plattform, Gerät</td>
+  </tr>
+ </tbody> 
+</table>
+
+**E-Mail-basierte Aktivitäten**
+
+<table style="table-layout:auto"> 
+ <tbody> 
+  <tr> 
+   <th style="width:30%">Aktivität</th> 
+   <th style="width:70%">Neu hinzugefügte Attribute</th>
+  </tr>
+   <tr> 
+   <td>E-Mail senden</td> 
+   <td>Browser, Plattform, Gerät, Benutzeragent</td>
+  </tr>
+   </tr>
+  <tr> 
+   <td>E-Mail übermittelt</td> 
+   <td>Browser, Plattform, Gerät, Benutzeragent</td>
+  </tr>
+   <tr> 
+   <td>E-Mail war aufgrund eines Bounce-Ereignisses unzustellbar</td> 
+   <td>Browser, Plattform, Gerät, Benutzeragent</td>
+  </tr>
+  <tr> 
+   <td>E-Mail abbestellen</td> 
+   <td>Browser, Plattform, Gerät</td>
+  </tr>
+  <tr> 
+   <td>E-Mail öffnen</td> 
+   <td>Browser</td>
+  </tr>
+   <tr> 
+   <td>Klicken auf E-Mail</td> 
+   <td>Browser</td>
+  </tr>
+  <tr> 
+   <td>E-Mail war aufgrund eines Soft Bounce-Ereignisses unzustellbar</td> 
+   <td>Browser, Plattform, Gerät, Benutzeragent</td>
+  </tr>
+ </tbody> 
+</table>
