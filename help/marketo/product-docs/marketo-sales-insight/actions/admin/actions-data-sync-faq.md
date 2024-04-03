@@ -1,11 +1,11 @@
 ---
-description: Häufig gestellte Fragen zur Datensynchronisation von Aktionen - Marketo-Dokumente - Produktdokumentation
+description: Häufig gestellte Fragen zur Datensynchronisierung - Marketo-Dokumente - Produktdokumentation
 title: Häufig gestellte Fragen zur Datensynchronisation von Aktionen
 feature: Sales Insight Actions
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 7ee5e8e3a32de5d4ff4022361f0d23d1d828ef74
+source-git-commit: 26173379c89393596b3ece18c7f7e945a79588d9
 workflow-type: tm+mt
-source-wordcount: '1050'
+source-wordcount: '1054'
 ht-degree: 3%
 
 ---
@@ -22,9 +22,9 @@ Diese Synchronisierung kann über die Registerkarte Konfiguration von Sales Insi
 
 Das obige Diagramm zeigt, wie Personen-Aktivitäten und Aufgabendaten zwischen Systemen synchronisiert werden können. Beachten Sie Folgendes:
 
-* Personendatensätze werden mit Sales Insight-Aktionen aus Marketo Engage synchronisiert, wodurch Marketo Engage zur &quot;Source of Truth&quot; für Sales Insight-Aktionen und Personendaten wird
+* Personendatensätze werden mit Sales Insight-Aktionen von Marketo Engage synchronisiert, wodurch Marketo Engage zur &quot;Source of Truth&quot; für Sales Insight-Aktionen und Personendaten wird
 * Marketo Engage- und Sales Insight-Aktionen [über einen Mechanismus verfügen](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md) zur Erfassung und Synchronisierung des Abmeldestatus für Salesforce
-* Der Status Abmelden wird nicht von Verkaufsaktionen mit Marketo Engage synchronisiert, aber Sales Insight-Aktionen können konfiguriert werden, um den Marketo-Abmeldestatus von Personen zu überprüfen, bevor Verkäufern gestattet wird, eine E-Mail mit zu senden [Prüfung der Marketo-Abmeldung](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md).
+* Der Status Abmelden wird nicht von Verkaufsaktionen mit Marketo Engage synchronisiert, aber Sales Insight-Aktionen können so konfiguriert werden, dass der Marketo-Abmeldestatus von Personen überprüft wird, bevor Verkäufern gestattet wird, eine E-Mail mit [Prüfung der Marketo-Abmeldung](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md).
 
 Im Folgenden finden Sie einige häufig gestellte Fragen zur Funktionsweise der Synchronisierung von Daten.
 
@@ -42,13 +42,13 @@ Der Vertriebsinhaber muss nicht der Marketo-Synchronisierungsbenutzer oder ein b
 
 ![](assets/actions-data-sync-faq-3.png)
 
-Die Aktivitätsdaten wie E-Mail, Anruf, interessanter Moment und Web stammen alle aus der Marketo Engage-Datenbank. Das Smart-Raster &quot;Sales Insight&quot;sendet eine Anfrage an die Marketo Engage-Instanz, diese jedes Mal abzurufen, wenn ein Vertriebsbenutzer das Bedienfeld &quot;Sales Insight&quot;lädt.
+Die Aktivitätsdaten wie E-Mail, Anruf, interessanter Moment und Web werden alle aus der Marketo Engage-Datenbank abgerufen. Das Smart Grid für Sales Insight stellt eine Anfrage an die Marketo Engage-Instanz, diese jedes Mal abzurufen, wenn ein Vertriebsbenutzer das Bedienfeld Sales Insight lädt.
 
 ![](assets/actions-data-sync-faq-4.png)
 
-Um sicherzustellen, dass alle Aktivitätsdaten aus Marketo Engage bezogen werden können, synchronisiert Sales Insight Actions alle Aktivitätsdaten mit Marketo Engage.
+Um sicherzustellen, dass alle Aktivitätsdaten von Marketo Engage bezogen werden können, synchronisiert Sales Insight Actions alle Aktivitätsdaten mit Marketo Engage.
 
-## Welche Felder beziehen sich auf Personendatensätze, die von Marketo Engage mit Sales Insight-Aktionen synchronisiert werden? {#what-fields-sync}
+## Welche Felder beziehen sich auf Personendatensätze, die von Marketo Engage zu Sales Insight-Aktionen synchronisiert werden? {#what-fields-sync}
 
 Es gibt 11 Felder, die von Marketo Engage mit Sales Insight-Aktionen synchronisiert werden:
 
@@ -57,7 +57,7 @@ Es gibt 11 Felder, die von Marketo Engage mit Sales Insight-Aktionen synchronisi
 * Salesforce-Kontakt-ID
 * Salesforce-Lead-ID
 * Salesforce-Konto-ID
-* Salesforce-Opportunity-ID
+* Salesforce Opportunity ID
 * Marketo-ID
 * Unternehmen
 * Titel
@@ -66,13 +66,13 @@ Es gibt 11 Felder, die von Marketo Engage mit Sales Insight-Aktionen synchronisi
 * LinkedIn-URL
 * Quelle
 
-## Können die Felder, die zwischen Marketo Engage- und Sales Insight-Aktionen synchronisiert werden, konfiguriert werden? {#are-the-fields-that-sync-configurable}
+## Sind die Felder, die zwischen Marketo Engage und Sales Insight-Aktionen synchronisiert werden, konfigurierbar? {#are-the-fields-that-sync-configurable}
 
-Es ist nicht möglich zu konfigurieren, welche Marketo Engage-Felder mit Sales Insight-Aktionen synchronisiert werden, und auch nicht, Felder zuzuordnen. Die Synchronisierung von Marketo ordnet Marketo-Standardfelder automatisch den Standardfeldern in Ihrer Verkaufsaktionsinstanz zu.
+Es ist nicht möglich, zu konfigurieren, welche Marketo Engage-Felder mit Sales Insight-Aktionen synchronisiert werden, und auch keine Felder zuzuordnen. Die Synchronisierung von Marketo ordnet Marketo-Standardfelder automatisch den Standardfeldern in Ihrer Verkaufsaktionsinstanz zu.
 
 ## Warum verfügen Sales Insight-Aktionen über eine eigene Datenbank? {#why-does-actions-have-its-own-database}
 
-Sales Insight Actions verfügt über eine eigene Webanwendung mit einer dedizierten Personen- und Aktivitätsdatenbank, um einen optimierten Arbeitsbereich bereitzustellen, der für Verkaufsteams erstellt und entwickelt wurde. Dies ermöglicht es Vertriebsmanagern und Verkäufern, einen Raum zum Aufbau und zur Verwaltung ihrer Interaktionsstrategie zu schaffen, ohne Zugriff oder Berechtigungen auf den primären Marketo Engage-Arbeitsbereich zu gewähren, der für Spezialisten für Marketingoperationen optimiert ist.
+Sales Insight Actions verfügt über eine eigene Webanwendung mit einer dedizierten Personen- und Aktivitätsdatenbank, um einen optimierten Arbeitsbereich bereitzustellen, der für Verkaufsteams erstellt und entwickelt wurde. Dies ermöglicht es Vertriebsmitarbeitern und Verkäufern, ihre Interaktionsstrategie zu entwickeln und zu verwalten, ohne Zugriff oder Berechtigungen auf den primären Marketo Engage Workspace zu gewähren, der für Marketingoperationsspezialisten optimiert ist.
 
 ## Wie werden Duplikate behandelt? {#how-are-duplicates-handled}
 
@@ -86,7 +86,7 @@ Sobald die erste Synchronisierung stattgefunden hat und alle Ihre Verkaufs-Leads
 
 ## Können Benutzer von Sales Insight-Aktionen Personendaten aus der Web-App &quot;Aktionen&quot;bearbeiten? {#can-actions-users-edit-people-data}
 
-Nein, die Möglichkeit, Personendatensätze in Aktionen zu erstellen und zu bearbeiten, ist für Benutzer und Administratoren der Web-App &quot;Aktionen&quot;nicht verfügbar. Das Erstellen und Bearbeiten von Personen muss entweder in Salesforce oder in Marketo Engage erfolgen. Sales Insight Actions verwendet Marketo als &quot;Source of Truth&quot; für Personendaten, indem sie kontinuierlich neue Daten synchronisieren. Wenn eine Person also entweder über einen Workflow in Marketo aktualisiert oder in Marketo erstellt oder über Salesforce synchronisiert wird, werden diese Aktualisierungen an die Web-App-Datenbank für Sales Insight-Aktionen weitergeleitet.
+Nein, die Möglichkeit, Personendatensätze in Aktionen zu erstellen und zu bearbeiten, ist für Benutzer und Administratoren der Web-App &quot;Aktionen&quot;nicht verfügbar. Das Erstellen und Bearbeiten von Personen muss entweder in Salesforce oder im Marketo Engage erfolgen. Sales Insight Actions verwendet Marketo als &quot;Source of Truth&quot; für Personendaten, indem sie kontinuierlich neue Daten synchronisieren. Wenn eine Person also entweder über einen Workflow in Marketo aktualisiert oder in Marketo erstellt oder über Salesforce synchronisiert wird, werden diese Aktualisierungen an die Web-App-Datenbank für Sales Insight-Aktionen weitergeleitet.
 
 ## Protokollieren Verkaufsaktivitäten Marketo? {#do-sales-activities-log-to-marketo}
 
@@ -99,7 +99,7 @@ Nachstehend finden Sie eine Liste der Aktivitäten, die sich bei Marketo anmelde
 * Verkaufs-E-Mail senden
 * Verkaufs-E-Mail öffnen
 * Auf Verkaufs-E-Mail klicken
-* Antwort auf E-Mail zum Vertrieb
+* Hat auf Vertriebsemail geantwortet
 * Verkaufs-E-Mail war aufgrund eines Bounce-Ereignisses unzustellbar
 * Verkaufsaufruf empfangen
 * Zur Verkaufskampagne hinzufügen
@@ -118,7 +118,8 @@ Das obige Diagramm zeigt, welche Informationen bei Salesforce protokolliert werd
 >[!MORELIKETHIS]
 >
 >* [Synchronisieren von Abmeldungen mit Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
->* [Überprüfung von „Marketo abbestellen“](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
->* [Salesforce-Synchronisationseinstellungen](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
+>* [Prüfung der Marketo-Abmeldung](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
+>* [Salesforce-Synchronisierungseinstellungen](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
 >* [Erinnern von Aufgabensynchronisierung mit Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
 >* [Datensynchronisation starten](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md#initiate-data-sync)
+
