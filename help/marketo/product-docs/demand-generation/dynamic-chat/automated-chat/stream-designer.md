@@ -3,7 +3,7 @@ description: Stream Designer - Marketo-Dokumente - Produktdokumentation
 title: Entwerferin bzw. Entwerfer des Streams
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: b31ea2f84b2ac5eb0b6fd0122d8ebadfc451b3a0
+source-git-commit: e2914b37e4557ad20007884f0a17ca88ef85491b
 workflow-type: tm+mt
 source-wordcount: '1128'
 ht-degree: 1%
@@ -49,9 +49,9 @@ Der Stream-Designer enthält mehrere Karten, die Sie hinzufügen können, um die
   <td>Dies ist die einzige Karte, die die Besucher nicht sehen werden. Es liegt an Ihnen zu bestimmen, an welchem Punkt ein Ziel innerhalb des bestimmten Chat erreicht wird (z. B.: Wenn das Sammeln der E-Mail des Besuchers Ihr Ziel ist, platzieren Sie die Zielkarte unmittelbar nach der Informationserfassung im Stream).</td>
  </tr>
  <tr>
-  <td style="width:25%"><strong>Aktion</strong></td>
+  <td style="width:25%"><strong>Aktion*</strong></td>
   <td>Ähnlich wie ausgeblendete Felder in einem Formular können Sie mit der Aktionskarte jedes Lead- oder Firmenattribut (mit einer <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">Zeichenfolgen-Datentyp</a>) mit impliziten Werten, die Sie mit einem Lead-Datensatz erfassen möchten. Sie können die Aktionskarte jederzeit in der Konversation hinzufügen und die entsprechenden Attribute mit einem Wert oder nativen Token aktualisieren, die den entsprechenden Wert automatisch ausfüllen.
-  <p><i>Für die Aktionskarte ist Dynamic Chat Prime erforderlich. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).</i></td>
+  <p>* <i>Für die Aktionskarte ist Dynamic Chat Prime erforderlich. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).</i></td>
  </tr>
  <tr>
   <td style="width:25%"><strong>Live-Chat</strong></td>
