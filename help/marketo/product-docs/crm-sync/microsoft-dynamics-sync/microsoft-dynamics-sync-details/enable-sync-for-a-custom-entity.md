@@ -4,9 +4,9 @@ description: Aktivieren der Synchronisierung für eine benutzerdefinierte Entit�
 title: Aktivieren der Synchronisierung für eine benutzerdefinierte Entität
 exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
 feature: Microsoft Dynamics
-source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
+source-git-commit: 28d8dc35b3f265728c31516e3082fd55a83a045f
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -40,11 +40,11 @@ Wenn Sie benutzerdefinierte Entitätsdaten aus Dynamics benötigen, um auf Marke
    >
    >Sie müssen die globale Synchronisierung vorübergehend deaktivieren, um eine benutzerdefinierte Entität zu aktivieren oder zu deaktivieren.
 
-1. Klicken Sie unter &quot;Datenbankverwaltung&quot;auf die **[!UICONTROL Synchronisation von Dynamics-Entitäten]** -Link.
+1. Klicken Sie unter Datenbankverwaltung auf **[!UICONTROL Synchronisation von Dynamics-Entitäten]**.
 
    ![](assets/enable-sync-for-a-custom-entity-3.png)
 
-1. Klicken Sie auf **[!UICONTROL Schema synchronisieren]** -Link.
+1. Klicks **[!UICONTROL Schema synchronisieren]**.
 
    ![](assets/enable-sync-for-a-custom-entity-4.png)
 
@@ -52,7 +52,7 @@ Wenn Sie benutzerdefinierte Entitätsdaten aus Dynamics benötigen, um auf Marke
 
    ![](assets/enable-sync-for-a-custom-entity-5.png)
 
-1. Wählen Sie die Felder aus, die Sie synchronisieren oder als [Einschränkungen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"} und/oder Trigger in Smart-Listen. Klicken Sie abschließend auf **[!UICONTROL Synchronisierung aktivieren]**.
+1. Wählen Sie die Felder aus, die Sie synchronisieren oder als [Einschränkungen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) und/oder Trigger (für hinzugefügte Datensätze), _not_ aktualisiert) in Smart-Listen. Klicken Sie abschließend auf **[!UICONTROL Synchronisierung aktivieren]**.
 
    ![](assets/enable-sync-for-a-custom-entity-6.png)
 
@@ -60,7 +60,7 @@ Wenn Sie benutzerdefinierte Entitätsdaten aus Dynamics benötigen, um auf Marke
    >
    >Während des Synchronisierungsprozesses wird möglicherweise Folgendes angezeigt:[!UICONTROL Synchronisierung dynamischer Entitäten]&quot; aus der Navigationsstruktur verschwindet. Dies ist das erwartete Verhalten und wird nach Abschluss der Synchronisierung wieder angezeigt.
 
-1. Die Entität enthält jetzt ein grünes Häkchen.
+1. Die Entität verfügt jetzt über ein grünes Häkchen.
 
    ![](assets/enable-sync-for-a-custom-entity-7.png)
 
