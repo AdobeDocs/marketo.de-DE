@@ -1,16 +1,16 @@
 ---
-description: Übersicht - Marketo-Dokumente - Produktdokumentation
-title: Überblick
+description: Marketo Engage Modern UX Overview - Marketo Docs - Produktdokumentation
+title: Marketo Engage Modern UX - Überblick
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
 feature: Modern UX
-source-git-commit: 4f833625421d7977d5aa8f59e13221a1946163f2
+source-git-commit: d522950af40c5e3e702a6522101ebe9550432be5
 workflow-type: tm+mt
-source-wordcount: '434'
-ht-degree: 8%
+source-wordcount: '447'
+ht-degree: 1%
 
 ---
 
-# Überblick {#overview}
+# Marketo Engage Modern UX - Überblick {#overview}
 
 Willkommen bei der Adobe Marketo Engage Modern UX (Benutzererfahrung), einer aktualisierten Benutzeroberfläche, die eine verbesserte Benutzerfreundlichkeit sowie ein neues Erscheinungsbild auf der gesamten Marketo Engage-Plattform bietet.
 
@@ -18,7 +18,7 @@ Willkommen bei der Adobe Marketo Engage Modern UX (Benutzererfahrung), einer akt
 >
 >Wenn Ihr IT-Team den Webzugriff mithilfe einer Zulassungsliste einschränkt, bitten Sie sie, die folgenden Domänen hinzuzufügen (einschließlich des Sternchens), um alle Marketo-Ressourcen und -Websockets zuzulassen:
 >
->* *.marketo.de
+>* *.marketo.com
 >* *.marketodesigner.com
 >* *.mktoweb.com
 
