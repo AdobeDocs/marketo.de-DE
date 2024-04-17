@@ -3,10 +3,10 @@ description: Interaktive Webinare - Überblick - Marketo-Dokumente - Produktdoku
 title: Interaktive Webinare - Überblick
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-source-git-commit: b5fb106126e52a8d759e560d21e525e21154a4d6
+source-git-commit: 60532106a220ff249c0fdbe52387e8f81bda12cb
 workflow-type: tm+mt
-source-wordcount: '421'
-ht-degree: 1%
+source-wordcount: '454'
+ht-degree: 0%
 
 ---
 
@@ -47,6 +47,10 @@ Ja, Sie können steuern, welche Marketo-Benutzer die Berechtigung zum Erstellen 
 **Muss ich das von Adobe Connect unterstützte Webinar wieder mit dem interaktiven Webinar-Veranstaltungsprogramm verknüpfen, wie es bei Startpunkten-Veranstaltungsprogrammen der Fall ist?**
 
 Nein, interaktive Webinar Event-Programme bilden die Zuordnung für Sie.
+
+**Warum haben einige meiner Leads den Status &quot;Registrierungsfehler&quot;anstelle von &quot;Registered&quot;?**
+
+Wenn das Feld &quot;Vorname&quot;des Leads leer ist, kann er sich nicht für das Webinar registrieren. Sie können dies beheben, indem Sie einen gültigen Vornamen eingeben.
 
 **Werden meine interaktiven Webinare automatisch aufgezeichnet?**
 
