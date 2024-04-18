@@ -3,9 +3,9 @@ description: Übersicht über den Verlauf von Konversationen - Marketo-Dokumente
 title: Übersicht über den Konversationsfluss
 feature: Dynamic Chat
 exl-id: c741886d-d672-471f-8902-208d25898afa
-source-git-commit: 492a43045bdf77243e4600eeb2223e750a35859b
+source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
 workflow-type: tm+mt
-source-wordcount: '407'
+source-wordcount: '339'
 ht-degree: 0%
 
 ---
@@ -15,10 +15,6 @@ ht-degree: 0%
 Gestalten Sie einen Konversationsfluss und weisen Sie ihn jedem Trigger basierend auf einer bestimmten Aktion zu (z. B. Klicken auf eine Aktionsaufruf-Schaltfläche, beim Laden der Seite, Besuchszeit pro Seite usw.).
 
 ![](assets/conversational-flow-overview-1.png)
-
->[!NOTE]
->
->Konversationsflüsse und Live-Chat sind gemeinsam genutzte Testfunktionen, die eine kombinierte Lebenszeitbegrenzung von 100 Interaktionen für diejenigen auf dem Dynamic Chat Select Package haben. Wenn diese Grenze erreicht ist, werden alle veröffentlichten Konversationsflüsse nicht mehr ausgelöst. Besucher, die einen Chat mit einem Live-Agenten anfordern, erhalten die globale Ausweichmeldung. Wenden Sie sich zur Erhöhung dieses Limits an Ihren Kundenbetreuer, um die Upgrade-Optionen für Pakete zu besprechen.
 
 ## Dialoge im Vergleich zu konversativen Flüssen {#dialogues-vs-conversational-flows}
 

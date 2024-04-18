@@ -3,9 +3,9 @@ description: Live-Chat-Übersicht - Marketo-Dokumente - Produktdokumentation
 title: Live-Chat-Übersicht
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 56070990d8bcea61fbbf3b382e5abae786b2488e
+source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
 workflow-type: tm+mt
-source-wordcount: '650'
+source-wordcount: '645'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Der Live-Chat ermöglicht es Website-Besuchern, mit Ihren Vertriebsmitarbeitern 
 
 >[!NOTE]
 >
->Konversationsflüsse und Live-Chat sind gemeinsam genutzte Testfunktionen, die eine kombinierte Lebenszeitbegrenzung von 100 Interaktionen für diejenigen auf dem Dynamic Chat Select Package haben. Wenn diese Grenze erreicht ist, werden alle veröffentlichten Konversationsflüsse nicht mehr ausgelöst. Besucher, die einen Chat mit einem Live-Agenten anfordern, erhalten die globale Ausweichmeldung. Wenden Sie sich zur Erhöhung dieses Limits an Ihren Kundenbetreuer, um die Upgrade-Optionen für Pakete zu besprechen.
+>Für diejenigen auf dem Dynamic Chat Select-Paket ist der Live-Chat eine Testfunktion mit einer Lebensdauer von 100 Interaktionen. Wenn diese Grenze erreicht ist, werden alle Besucher, die einen Chat mit einem Live-Agenten anfordern, nicht verbunden und erhalten stattdessen die globale Ausweichmeldung. Wenden Sie sich an Ihren Adobe-Kundenbetreuer, um die Optionen für ein Package-Upgrade zu besprechen.
 
 ## Hinzufügen von Live-Chat-Agenten {#add-live-chat-agents}
 
@@ -56,7 +56,7 @@ Durch Klicken auf die Live-Chat-Karte im Stream können Sie festlegen, wie der B
    <td>Chats werden Agenten in sequenzieller Reihenfolge zugewiesen.</td>
   </tr> 
   <tr> 
-   <td><b>Agentin oder Agent</b></td>
+   <td><b>Agent</b></td>
    <td>Wählen Sie einen bestimmten Agenten, um den Chat zu erhalten.</td>
   </tr>
     <tr> 
