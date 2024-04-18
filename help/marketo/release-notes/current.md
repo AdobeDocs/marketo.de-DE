@@ -3,9 +3,9 @@ description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokument
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 433aae54a012e6bbf04c90056d8815a88e76498c
+source-git-commit: 9f442b64f2e6d012207f79d06298583655db86b7
 workflow-type: tm+mt
-source-wordcount: '380'
+source-wordcount: '356'
 ht-degree: 14%
 
 ---
@@ -29,17 +29,6 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
    <th style="width:10%">Status</th>
    <th style="width:25%">Dokumentation</th>
   </tr>
-   <tr> 
-   <td><strong>Vorlagen für interaktive Webinare</strong>: Sparen Sie Zeit, indem Sie benutzerdefinierte Vorlagen für Raumlayouts erstellen, die mit Spezifikationen versehen sind, die zu Ihrem Unternehmen passen.</td> 
-   <td><i>Demnächst verfügbar</i></td>
-   <td><i>Demnächst verfügbar</i></td>
-  </tr>
-   <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-   </tr>
      <tr> 
    <td><strong>Verbesserungen bei interaktiven Webinaren</strong>: Hosts und Moderatoren können jetzt einen Webinartitel hinzufügen, einen Raum umbenennen und Interaktionsdaten nach der Ereignisbereitstellung manuell synchronisieren.</td> 
    <td><i>Demnächst verfügbar</i></td>

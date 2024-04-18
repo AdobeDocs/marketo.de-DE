@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: c9bde944-1724-4521-a57a-e8cef4adb5c8
-source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
+source-git-commit: 9f442b64f2e6d012207f79d06298583655db86b7
 workflow-type: tm+mt
 source-wordcount: '725'
 ht-degree: 3%
@@ -135,7 +135,7 @@ Marketingaktivitäten beinhalten alle Assets und Inhalte Ihrer automatisierten M
   <tr>
     <td>Datenschutz und Compliance</td>
     <td><li>Erstellen Sie Programme, um sicherzustellen, dass Sie die Datenschutz- und Spam-Gesetze wie <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html">DSGVO, CASL, CAN-SPAM, CCPA usw.</a></li>
-    <br>Hinweis: Denken Sie immer daran, Ihr Rechtsteam zu diesen Fragen zu konsultieren. Fragen Sie Ihr Team nach früheren Initiativen, um die Einhaltung zu gewährleisten, bevor Sie Änderungen vornehmen. </td>
+    <br>Hinweis: Denken Sie immer daran, Ihr Rechtsteam zu diesen Fragen zu konsultieren. Fragen Sie Ihr Team nach früheren Initiativen, um die Einhaltung zu gewährleisten, bevor Sie Änderungen vornehmen.</td>
   </tr>
   <tr>
     <td>Lebensdauer</td>
