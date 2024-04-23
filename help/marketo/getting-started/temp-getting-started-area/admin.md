@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
-source-git-commit: 9f442b64f2e6d012207f79d06298583655db86b7
+source-git-commit: a9d902bf40e6193838a931ecb96a080bae098d68
 workflow-type: tm+mt
-source-wordcount: '1103'
+source-wordcount: '1050'
 ht-degree: 5%
 
 ---
@@ -29,9 +29,10 @@ Text einfügen.
   <tr>
     <td>Rollen</td>
     <td><li>Überprüfen Sie die vordefinierten Rollen und bestätigen Sie, welche Berechtigungen/Zugriffsberechtigungen die einzelnen Rollen haben.</li>
-    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html#create-a-new-role" target="_blank">Neue Rolle erstellen</a> oder <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html#edit-a-role" target="_blank">Rollen bearbeiten</a> basierend auf den Anforderungen Ihrer Organisation und wie oft sich Benutzer anmelden.</li>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html#create-a-new-role" target="_blank">Neue Rolle erstellen</a> oder <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html#edit-a-role" target="_blank">Rollen bearbeiten</a> basierend auf den Anforderungen Ihrer Organisation.</li>
     <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html%22%20/l%20%22assign-roles-to-a-user" target="_blank">Weisen Sie den entsprechenden Rollen Benutzer zu</a>. Die Benutzer müssen zum Abonnement in Adobe Admin Console hinzugefügt werden, bevor sie ihre Rollen in Rollen zuweisen können. Siehe Abschnitt "Benutzer"in der Checkliste "Ersteinrichtung"[LINK].</li>
-    <li>Nachdem Sie die Rollen für Benutzer zugewiesen haben, überprüfen Sie die Anzahl der Benutzer pro Rolle.<br>Implementieren Sie für jeden API-Benutzer eine eindeutige Rolle für die einfache Fehlerbehebung.</td>
+    <li>Nachdem Sie die Rollen für Benutzer zugewiesen haben, überprüfen Sie die Anzahl der Benutzer pro Rolle.</li>
+    <li>Implementieren Sie für jeden API-Benutzer eine eindeutige Rolle für die einfache Fehlerbehebung.</li></td>
   </tr>
   <tr>
     <td>Dokumentation</td>
@@ -40,7 +41,7 @@ Text einfügen.
   </tr>
   <tr>
     <td>Sandbox (falls zutreffend)</td>
-    <td><li>Überprüfen Sie die oben genannten Kategorien für Ihre Sandbox, falls Sie eine haben.</li></td>
+    <td><li>Überprüfen Sie die oben genannten Kategorien für Ihre <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md">Sandbox</a>.</li></td>
   </tr>
 </tbody>
 </table>
@@ -58,13 +59,14 @@ Text einfügen.
   <tr>
     <td>Arbeitsbereiche und Partitionen (falls zutreffend)</td>
     <td><li>Bestimmen Sie die Anzahl der<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html" target="_blank"> Arbeitsbereiche</a> und/oder Partitionen, die Ihre Organisation benötigen und <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.html" target="_blank">wie viele Benutzer Zugriff auf die einzelnen Arbeitsbereiche haben.</a></li>
-    <li>Definieren Sie den Hauptzweck jedes Arbeitsbereichs und jeder Partition.<br>Definieren Sie die Beziehung zwischen Ihren Arbeitsbereichen und Partitionen.</li></td>
+    <li>Definieren Sie den Hauptzweck jedes Arbeitsbereichs und jeder Partition.</li>
+    <li>Definieren Sie die Beziehung zwischen Ihren Arbeitsbereichen und Partitionen.</li></td>
   </tr>
   <tr>
     <td>Dokumentation</td>
-    <td><li>Dokumentieren Sie, wie Arbeitsbereiche definiert werden und wie sich dies auf Datenbankpartitionen bezieht (d. h. einen globalen Arbeitsbereich, der alle anzeigt, im Vergleich zu Unternehmenssektoren).</li>
+    <td><li>Dokumentieren Sie, wie Arbeitsbereiche definiert werden und wie sich dies auf Datenbankpartitionen bezieht (z. B. einen globalen Arbeitsbereich, der alle Arbeitsbereiche im Vergleich zu Unternehmenssektoren anzeigt).</li>
     <li>Importieren Sie neue Datensätze in die entsprechende Partition.</li>
-    <li>Definieren Sie den Wert in CRM, der Benutzer in die entsprechende Partition setzt.</li></td>
+    <li>Definieren Sie den Wert in Ihrem CRM-System, der Benutzer in die entsprechende Partition setzt.</li></td>
   </tr>
 </tbody>
 </table>
@@ -82,12 +84,6 @@ Text einfügen.
   <tr>
     <td>Einstellungen für intelligente Kampagne</td>
     <td><li>Hinzufügen einer <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.html" target="_blank">Größenbeschränkung für Smart-Campaign</a>verhindert, dass versehentlich die gesamte Datenbank per E-Mail versendet wird.</li></td>
-  </tr>
-  <tr>
-    <td>Dokumentation</td>
-    <td><li>Dokumentieren Sie, wie Arbeitsbereiche definiert werden und wie sich dies auf Datenbankpartitionen bezieht (d. h. einen globalen Arbeitsbereich, der alle anzeigt, im Vergleich zu Unternehmenssektoren).</li>
-    <li>Importieren Sie neue Datensätze in die entsprechende Partition.</li>
-    <li>Definieren Sie den Wert in CRM, der Benutzer in die entsprechende Partition setzt.</li></td>
   </tr>
 </tbody>
 </table>
@@ -111,10 +107,6 @@ Text einfügen.
     <td>SPF/DKIM</td>
     <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.html" target="_blank">Einrichten von SPF und DKIM</a> für die Zustellbarkeit von E-Mails.</li></td>
   </tr>
-  <tr>
-  </tr>
-  <tr>
-  </tr>
 </tbody>
 </table>
 
@@ -130,7 +122,7 @@ Text einfügen.
 <tbody>
   <tr>
     <td>Kommunikationsbeschränkungen</td>
-    <td><li>Ort <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/email-setup/enable-communication-limits.html" target="_blank" rel="noopener noreferrer">Kommunikationsgrenzen</a>.</li>
+    <td><li>Initiieren <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/email-setup/enable-communication-limits.html" target="_blank">Kommunikationsbeschränkungen</a>.</li>
     <li>Bestimmen Sie, ob Ihr Unternehmen eine Richtlinie zu Kommunikationsbeschränkungen benötigt.</li></td>
   </tr>
 </tbody>
@@ -148,15 +140,16 @@ Text einfügen.
 <tbody>
   <tr>
     <td>Kanäle</td>
-    <td><li>Definieren der Verwendung <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/tags/create-a-program-channel.html" target="_blank" rel="noopener noreferrer">channels</a>.</li></td>
+    <td><li>Definieren der Verwendung <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/tags/create-a-program-channel.html" target="_blank">channels</a>.</li></td>
   </tr>
   <tr>
     <td>Tags</td>
-    <td><li>Definieren der Verwendung <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/tags/managing-tag-values.html" target="_blank" rel="noopener noreferrer">tags</a>.</li></td>
+    <td><li>Definieren der Verwendung <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/tags/managing-tag-values.html" target="_blank">tags</a>.</li></td>
   </tr>
   <tr>
     <td>Kalender (falls zutreffend)</td>
-    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.html" target="_blank" rel="noopener noreferrer">Sitzplätze im Marketing-Kalender ausgeben</a> für Personen, die Zugriff benötigen. <br>Einrichten <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.html" target="_blank" rel="noopener noreferrer">Kalender.</a></li></td>
+    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.html" target="_blank">Sitzplätze im Marketing-Kalender ausgeben</a> für Personen, die Zugriff benötigen.</li>
+    <li>Richten Sie die <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.html" target="_blank">Kalender</a>.</li></td>
   </tr>
 </tbody>
 </table>
@@ -173,11 +166,9 @@ Text einfügen.
 <tbody>
   <tr>
     <td>Feldverwaltung</td>
-    <td><li>Implementieren der Benennungskonvention für <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/create-a-custom-field-in-marketo.html" target="_blank" rel="noopener noreferrer">benutzerdefinierte Felder.</a> Beginnen Sie beispielsweise mit "MKTO".</li>
+    <td><li>Implementieren einer Benennungskonvention für <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/create-a-custom-field-in-marketo.html" target="_blank">benutzerdefinierte Felder</a> (z. B. mit "MKTO").</li>
     <li>Seien Sie bezüglich der zu synchronisierenden Felder selektiv. Je mehr Felder Sie synchronisieren, desto langsamer wird der Synchronisierungszyklus sein.</li>
-    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/block-updates-to-a-field.html" target="_blank" rel="noopener noreferrer">Blockieren von Aktualisierungen in Feldern</a> Sie möchten nur einmal geschrieben werden (d. h. ursprüngliche Lead-Quelle, ursprüngliche Lead-Quelldetails, UTM-Felder für Erstkontakt usw.).</li></td>
-  </tr>
-  <tr>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/block-updates-to-a-field.html" target="_blank">Blockieren von Aktualisierungen in Feldern</a> Sie möchten ein einziges Mal schreiben (z. B. ursprüngliche Lead-Quelle, ursprüngliche Lead-Quelldetails, UTM-Felder für Erstkontakt usw.).</li></td>
   </tr>
   <tr>
     <td>Eigene Aktivitäten</td>
@@ -213,16 +204,17 @@ Text einfügen.
   </tr>
   <tr>
     <td>Munchkin</td>
-    <td>HINWEIS: Wenn Sie Launch Pack-Kunde sind, überspringen Sie diesen Schritt. Ihr Berater stellt Ihnen im Dokument mit IT-Setup-Anweisungen Munchkin-Code zur Verfügung. <br><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.html">Munchkin-Trackingcode hinzufügen</a> auf Ihrer Website. Munchkin-Code kann <a href="https://developers.marketo.com/javascript-api/lead-tracking/">hartcodiert</a> oder über Google Tag Manager bereitgestellt werden.  </td>
+    <td>HINWEIS: Wenn Sie Launch Pack-Kunde sind, überspringen Sie diesen Schritt. Ihr Berater stellt Ihnen im Dokument mit IT-Setup-Anweisungen Munchkin-Code zur Verfügung.
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.html">Munchkin-Trackingcode hinzufügen</a> auf Ihrer Website. Munchkin-Code kann <a href="https://developers.marketo.com/javascript-api/lead-tracking/">hartcodiert</a> oder über Google Tag Manager bereitgestellt werden.</li></td>
   </tr>
   <tr>
     <td>Webdienste</td>
     <td><li>Bestimmen Sie die Benutzer/Apps, die <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user.html">API-Aufrufe</a> in Ihrer Instanz.</li>
-    <li>Überprüfen Sie alle Apps, die API-Aufrufe durchführen, und ermitteln Sie, ob eine Erhöhung oder Kürzung für die API-Aufrufe erforderlich ist.</li></td>
+    <li>Überprüfen Sie alle Apps, die API-Aufrufe durchführen, und ermitteln Sie, ob eine Erhöhung oder Verringerung der API-Aufrufe erforderlich ist.</li></td>
   </tr>
   <tr>
     <td>LaunchPoint</td>
-    <td><li>Erforderliche Einrichtung <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.html">LaunchPoint</a> Dienstleistungen für Ihr Unternehmen. Jeder LaunchPoint sollte mit einem eindeutigen API-Benutzer gepaart werden, um die Fehlerbehebung zu unterstützen.</li></td>
+    <td><li>Einrichten <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.html">LaunchPoint</a> Dienstleistungen für Ihr Unternehmen. Jeder LaunchPoint sollte mit einem eindeutigen API-Benutzer gepaart werden, um die Fehlerbehebung zu unterstützen.</li></td>
   </tr>
   <tr>
     <td>Interaktive Webinare (falls zutreffend)</td>
@@ -236,9 +228,9 @@ Text einfügen.
   <tr>
     <td>Sales Insight (falls zutreffend)</td>
     <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide#set-up-marketo-sales-account">Einrichten der Aktion "Sales Insight"</a> unter Sales Insight &gt; Aktionskonfiguration.</li>
-    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.html#invite-individual-users-to-msi-actions">Stellen Sie den entsprechenden Benutzern Sitze aus.</a></li>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.html#invite-individual-users-to-msi-actions">Stellen Sie den entsprechenden Benutzern Sitze aus.</a>.</li>
     <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.html">API konfigurieren</a>.</li>
-    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.html">Passen Sie die Lead-Bewertungen an.</a></li></td>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.html">Lead-Bewertungen anpassen</a>.</li></td>
   </tr>
   <tr>
     <td>Sales Connect (falls zutreffend)</td>

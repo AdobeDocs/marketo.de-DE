@@ -1,19 +1,23 @@
 ---
 unique-page-id: 1146942
 description: Definieren einer Smart-Liste für eine intelligente Kampagne | Trigger - Marketo Docs - Produktdokumentation
-title: Definieren einer Smart-Liste für eine intelligente Kampagne | TRIGGER
+title: Definieren einer Smart-Liste für eine intelligente Kampagne | Trigger
 exl-id: 14d9b15e-864a-47ef-8f39-3d65e6036a82
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: a9d902bf40e6193838a931ecb96a080bae098d68
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
 
-# Definieren einer Smart-Liste für eine intelligente Kampagne | TRIGGER {#define-smart-list-for-smart-campaign-trigger}
+# Definieren einer Smart-Liste für eine intelligente Kampagne | Trigger {#define-smart-list-for-smart-campaign-trigger}
 
 Erstellen Sie basierend auf Live-Ereignissen eine Smart-Kampagne für eine Person, indem Sie Trigger hinzufügen.
+
+>[!CAUTION]
+>
+>Die Bearbeitung von Smart-Listen- oder Flussschritt-Bearbeitungen an einer aktiven Kampagne kann möglicherweise deren Funktionalität beeinträchtigen. Gehen Sie dabei mit Vorsicht vor.
 
 1. Klicken Sie in Ihrer Smart-Kampagne auf die **[!UICONTROL Smart List]** Registerkarte.
 
@@ -51,7 +55,7 @@ Erstellen Sie basierend auf Live-Ereignissen eine Smart-Kampagne für eine Perso
    >
    >Bei mehreren Triggern durchläuft eine Person den Fluss, wenn _ANDERE_ einer der Trigger aktiviert wird.
 
-Um die Kampagne für eine Reihe von Personen gleichzeitig auszuführen, erfahren Sie, wie Sie [Definieren einer Smart-Liste für eine intelligente Kampagne | Charge](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}.
+Um die Kampagne für eine Reihe von Personen gleichzeitig auszuführen, erfahren Sie, wie Sie [Definieren einer Smart-Liste für eine intelligente Kampagne | Batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

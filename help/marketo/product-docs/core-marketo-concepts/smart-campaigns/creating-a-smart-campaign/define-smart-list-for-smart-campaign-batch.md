@@ -1,19 +1,23 @@
 ---
 unique-page-id: 1146940
 description: Definieren einer Smart-Liste für eine intelligente Kampagne | Batch - Marketo-Dokumente - Produktdokumentation
-title: Definieren einer Smart-Liste für eine intelligente Kampagne | Charge
+title: Definieren einer Smart-Liste für eine intelligente Kampagne | Batch
 exl-id: 0e0061a9-df24-4cf6-8f1e-09ff0ee62efa
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: a9d902bf40e6193838a931ecb96a080bae098d68
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '275'
 ht-degree: 0%
 
 ---
 
-# Definieren einer Smart-Liste für eine intelligente Kampagne | Charge {#define-smart-list-for-smart-campaign-batch}
+# Definieren einer Smart-Liste für eine intelligente Kampagne | Batch {#define-smart-list-for-smart-campaign-batch}
 
 Smart-Listen sind der Mechanismus, mit dem während der gesamten Marketo Engage definiert wird, wer (welche Personen) einbezogen werden soll, sei es als Bericht, Liste oder Smart-Kampagne. So definieren Sie eine Smart-Liste für eine Batch-Kampagne:
+
+>[!CAUTION]
+>
+>Die Bearbeitung von Smart-Listen- oder Flussschritt-Bearbeitungen an einer aktiven Kampagne kann möglicherweise deren Funktionalität beeinträchtigen. Gehen Sie dabei mit Vorsicht vor.
 
 1. Wählen Sie eine Smart-Kampagne aus und klicken Sie auf **[!UICONTROL Smart List]**.
 
@@ -47,9 +51,9 @@ Smart-Listen sind der Mechanismus, mit dem während der gesamten Marketo Engage 
    >
    >Standardmäßig werden Personen qualifiziert, die ALLE Regeln der intelligenten Liste erfüllen. Dieser kann Ihren Kampagnenanforderungen entsprechend angepasst werden. Checkout  [Smart List Rules for Complex Logic](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md){target="_blank"} , um mehr zu erfahren.
 
-   Lernen Sie, wie Sie Live-Events einzeln Trigger haben [Definieren einer Smart-Liste für eine intelligente Kampagne | TRIGGER](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}.
+   Lernen Sie, wie Sie Live-Events einzeln Trigger haben [Definieren einer Smart-Liste für eine intelligente Kampagne | Trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}.
 
    >[!MORELIKETHIS]
    >
-   >* [Definieren einer Smart-Liste für eine intelligente Kampagne | TRIGGER](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}
+   >* [Definieren einer Smart-Liste für eine intelligente Kampagne | Trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}
    >* [Hinzufügen eines Flussschritts zu einer Smart-Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}

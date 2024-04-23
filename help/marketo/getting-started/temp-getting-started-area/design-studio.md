@@ -4,7 +4,7 @@ title: STUDIO ZUM NEUEN GEBIET-DESIGN
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
+source-git-commit: a9d902bf40e6193838a931ecb96a080bae098d68
 workflow-type: tm+mt
 source-wordcount: '326'
 ht-degree: 7%
@@ -20,8 +20,8 @@ Text...
 <table>
 <thead>
   <tr>
-    <th>Bereich</th>
-    <th>Aktionselemente</th>
+    <th style="width:20%">Bereich</th>
+    <th style="width:80%">Aktionselemente</th>
   </tr>
 </thead>
 <tbody>
@@ -47,8 +47,8 @@ Text...
 <table>
 <thead>
   <tr>
-    <th>Bereich</th>
-    <th>Aktionselemente</th>
+    <th style="width:20%">Bereich</th>
+    <th style="width:80%">Aktionselemente</th>
   </tr>
 </thead>
 <tbody>
@@ -72,8 +72,8 @@ Text...
 <table>
 <thead>
   <tr>
-    <th>Bereich</th>
-    <th>Aktionselement</th>
+    <th style="width:20%">Bereich</th>
+    <th style="width:80%">Aktionselemente</th>
   </tr>
 </thead>
 <tbody>
@@ -98,8 +98,8 @@ Text...
 <table>
 <thead>
   <tr>
-    <th>Bereich</th>
-    <th>Aktionselement</th>
+    <th style="width:20%">Bereich</th>
+    <th style="width:80%">Aktionselemente</th>
   </tr>
 </thead>
 <tbody>
@@ -115,8 +115,8 @@ Text...
 <table>
 <thead>
   <tr>
-    <th>Bereich</th>
-    <th>Aktionselemente</th>
+    <th style="width:20%">Bereich</th>
+    <th style="width:80%">Aktionselemente</th>
   </tr>
 </thead>
 <tbody>
@@ -135,8 +135,8 @@ Text...
 <table>
 <thead>
   <tr>
-    <th>Bereich</th>
-    <th>Aktionselemente</th>
+    <th style="width:20%">Bereich</th>
+    <th style="width:80%">Aktionselemente</th>
   </tr>
 </thead>
 <tbody>
