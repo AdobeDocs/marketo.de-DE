@@ -4,10 +4,10 @@ description: Beschreibungen der Rollenberechtigungen - Marketo-Dokumente - Produ
 title: Beschreibung der Rollenberechtigungen
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: b3ada10feed3ee2a8adc31f8c5207c4bc4f01e5d
 workflow-type: tm+mt
-source-wordcount: '1137'
-ht-degree: 19%
+source-wordcount: '1421'
+ht-degree: 16%
 
 ---
 
@@ -31,12 +31,18 @@ Wenn Sie [Rollen erstellen oder bearbeiten](/help/marketo/product-docs/administr
 
 Zeigen Sie die Einstellungen an und nehmen Sie sie im Abschnitt Mein Konto unter Admin vor.
 
+* Zugriff auf Adobe Connect - Ermöglicht Benutzern den Zugriff auf den Bildschirm &quot;Adobe Connect&quot;
+* Zugriff auf Adobe Experience Manager&#42; - Gewährt Benutzern Zugriff auf den Adobe Experience Manager-Bildschirm
+* Adobe-Organisationszuordnung aufrufen&#42; - Gewährt Benutzern Zugriff auf den Bildschirm &quot;Adobe-Organisationszuordnung&quot;
+* Auf Admin Audit-Protokoll zugreifen&#42; - Ermöglicht Benutzern Zugriff auf den Bildschirm &quot;Admin Audit-Protokoll&quot;
+* Zugriffsprüfungsprotokoll&#42; - Gewährt Benutzern Zugriff auf das Audit-Protokoll
 * Zugreifen auf das Audit-Protokoll - Ermöglicht Benutzern den Zugriff auf das Asset-Audit-Protokoll und das Admin Audit-Protokoll
-* Auf Kanäle zugreifen - Ermöglicht Benutzern den Zugriff nur zum Ändern des Kanal-Tags, nicht aber anderer benutzerdefinierter Tags
+* Zugriff auf CAPTCHA - Zugriff auf den CAPTCHA-Bildschirm
+* Auf Kanäle zugreifen - Ermöglicht Benutzern Zugriff nur auf die Änderung des Kanal-Tags, nicht auf andere benutzerdefinierte Tags
 * Kommunikationsbeschränkung für Zugriff - Ermöglicht Benutzern Zugriff auf die Aktivierung einer Kommunikationsbeschränkung in Admin
-* Zugriff auf CRM - Ermöglicht Benutzern Zugriff auf das CRM-System, z. B. [!DNL Salesforce] oder [!DNL Microsoft Dynamics]in Admin
-* Zugriff [[!DNL Data.com]](https://Data.com) - Ermöglicht Benutzern Zugriff auf die Flussaktion &quot;Data.com&quot;
-* Zugriff auf E-Mail-Admin - Ermöglicht Benutzern, E-Mail-Admin zu ändern, um Standardeinstellungen wie Abmeldung und Branding-Domänen zu ändern.
+* Zugriff auf CRM - Ermöglicht Benutzern Zugriff auf das CRM-System, z. B. [!DNL Salesforce] oder [!DNL Microsoft Dynamics], in Admin
+* Zugriff [[!DNL Data.com]](https://data.com) - Ermöglicht Benutzern Zugriff auf die Data.com Flow-Aktion
+* Zugriff auf E-Mail-Admin - Ermöglicht Benutzern Zugriff auf E-Mail-Admin, um Standardeinstellungen wie Abmeldung und Branding-Domänen zu ändern.
 * Zugriff auf Ereignispartner - Ermöglicht Benutzern den Zugriff auf LaunchPoint in Admin
 * Zugriff auf Feldverwaltung - Ermöglicht Benutzern Zugriff auf die Feldverwaltung in der Admin-Konsole
 * Zugriff auf Datei-Upload - Ermöglicht Benutzern das Hochladen von Bildern und Dateien in Design Studio
@@ -44,9 +50,11 @@ Zeigen Sie die Einstellungen an und nehmen Sie sie im Abschnitt Mein Konto unter
 * Zugriffsposition - Ermöglicht Benutzern den Zugriff auf den Standort in Admin zum Festlegen von Standardsprache, Gebietsschema, Zeitzone und Währung
 * Anmeldeverlauf aufrufen - Ermöglicht Benutzern Zugriff auf den Verlauf der Benutzeranmeldung im Audit-Protokoll
 * Zugriffsprotokolleinstellungen - Ermöglicht Benutzern Zugriff auf die Anmeldeeinstellungen in Admin für Sicherheit, IP-Einschränkungen und Einstellungen für Smart-List-Berichte
+* Auf neues Erlebnis zugreifen&#42; - Ermöglicht Benutzern Zugriff auf den Bildschirm &quot;Neues Erlebnis&quot;
 * Zugriff auf benutzerdefinierte Marketo-Aktivitäten - Ermöglicht Benutzern den Zugriff auf benutzerdefinierte Marketo-Aktivitäten in Admin
 * Zugriff auf das benutzerdefinierte Marketo-Objekt - Ermöglicht Benutzern den Zugriff auf benutzerdefinierte Marketo-Objekte in Admin
 * Zugriff [!DNL Munchkin] - GIves-Benutzer Zugriff auf [!DNL Munchkin] in Admin zum Festlegen von Trackingcode, Personen-Tracking und zur Aktivierung der API-Konfiguration
+* Zugriff auf vorausschauende Zielgruppen&#42; - Gewährt Benutzern Zugriff auf den Bildschirm &quot;Vorhersagekräftige Zielgruppen&quot;
 * Zugriff auf die Umsatzzyklusanalyse - Ermöglicht Benutzern den Zugriff auf die Umsatzzyklusanalyse in Admin zum Festlegen der Synchronisierungszusammenfassung und -zuordnung
 * Zugriffsrollen - Ermöglicht Benutzern Zugriff auf die Verwaltung und Bearbeitung von Rollen, nicht jedoch von Benutzern
 * Auf Sales Insight zugreifen - Ermöglicht Benutzern Zugriff auf die Verwaltung von Sales Insight in Admin, um Status, API-Konfiguration, Personensortierung und andere Einstellungen festzulegen.
@@ -58,6 +66,8 @@ Zeigen Sie die Einstellungen an und nehmen Sie sie im Abschnitt Mein Konto unter
 * Zugriff auf Benutzer - Ermöglicht Benutzern den Zugriff auf die Bearbeitung und Verwaltung von Benutzern (aber keine Rollen) in Admin
 * Zugriff auf Webhooks - Ermöglicht Benutzern, Webhooks in Admin zu verwenden, um Details und Antwortzuordnungen festzulegen.
 * Zugriff auf Arbeitsbereiche und Partitionen - Ermöglicht Benutzern den Zugriff auf das Erstellen, Bearbeiten und Löschen von Arbeitsbereichen und Partitionen in Admin
+
+_&#42;Diese Berechtigung wird im passiven Modus eingeführt und ist derzeit nicht verfügbar, um Störungen für bestehende Benutzer zu vermeiden. Wir werden mitteilen, wie sie umgesetzt werden kann, wenn sie Mitte 2024 aktiv wird._
 
 ## Auf API zugreifen  {#access-api}
 
@@ -91,12 +101,15 @@ Bietet Benutzern die **Nur API** **Rolle** Zugriff auf die einzelnen unten aufge
 Ermöglicht Benutzern Zugriff auf die Analytics-Registerkarten, E-Mail-Einblicke, Berichte und die drei unten aufgeführten Elemente, es sei denn, sie sind deaktiviert.
 
 * Zugriff auf Umsatz Explorer - Durch Deaktivieren der Option wird der Zugriff des Benutzers auf Umsatz-Explorer entfernt
+* Bericht erstellen&#42; - Ermöglicht Benutzern Zugriff auf das Erstellen, Klonen, Lesen, Aktualisieren und Verschieben von Report-Assets in Analytics- und Marketing-Aktivitäten sowie auf die Assets des Umsatzzyklusmodells.
 * Bericht löschen - Deaktivieren entfernt die Möglichkeit zum Löschen von Berichten
 * Analytics-Daten exportieren - Deaktivieren entfernt die Möglichkeit des Benutzers, Analytics-Daten zu exportieren
 
+_&#42;Diese Berechtigung wird im passiven Modus eingeführt und ist derzeit nicht verfügbar, um Störungen für bestehende Benutzer zu vermeiden. Wir werden mitteilen, wie sie umgesetzt werden kann, wenn sie Mitte 2024 aktiv wird._
+
 ## Auf Kalenderpräsentationen zugreifen {#access-calendar-presentations}
 
-Gewährt Benutzern Zugriff auf Kalenderpräsentationen - ermöglicht die Anzeige der Presentations-Schaltfläche am unteren Rand.
+Gewährt Benutzern Zugriff auf Kalenderpräsentationen - ermöglicht die Anzeige der Presentations-Schaltfläche unten.
 
 * Kalender bearbeiten Presentations - Ermöglicht Benutzern das Bearbeiten von Präsentationen im Kalender
 
@@ -164,6 +177,9 @@ Zeigen Sie die Datenbank an sowie Smart-/statische Listen an und bearbeiten Sie 
    * Segmentierung bearbeiten
 
 * Person löschen
+* Liste erstellen&#42;
+   * Zugriff auf das Erstellen eines Listen-Assets in Datenbank- und Marketingaktivitäten
+   * Zugriff auf das Erstellen eines Smart-List-Assets in Datenbank- und Marketingaktivitäten
 * Liste löschen
 * Person bearbeiten - Verhindert die manuelle Bearbeitung und Ausführung von Einzeldurchsatzschritten. Sie können Personen dennoch bearbeiten, indem Sie Kampagnen für sie ausführen
 * Person exportieren - Exportieren Sie Tabellen mit aus Ihren Datenbanklisten
@@ -174,9 +190,11 @@ Zeigen Sie die Datenbank an sowie Smart-/statische Listen an und bearbeiten Sie 
 
 * Opportunity Data anzeigen - Blendet die Opportunity-Informationen auf der Personendetailseite aus.
 
+_&#42;Diese Berechtigung wird im passiven Modus eingeführt und ist derzeit nicht verfügbar, um Störungen für bestehende Benutzer zu vermeiden. Wir werden mitteilen, wie sie umgesetzt werden kann, wenn sie Mitte 2024 aktiv wird._
+
 ## Auf Marketingaktivitäten zugreifen {#access-marketing-activities}
 
-Zeigen Sie die Registerkarte Marketingaktivitäten , Kampagnen und Kampagnenordner an.
+Anzeigen der Registerkarte Marketingaktivitäten , Kampagnen und Kampagnenordner.
 
 * Auf SMS-Nachricht zugreifen
 
@@ -195,8 +213,9 @@ Zeigen Sie die Registerkarte Marketingaktivitäten , Kampagnen und Kampagnenordn
 * E-Mail-Programm genehmigen
 * Marketing-Asset klonen
 * Marketing-Asset löschen
-* Kampagne-Einschränkungen bearbeiten
+* Kampagnen-Einschränkungen bearbeiten
 * Marketing-Asset bearbeiten
+* Kampagnenaktivität exportieren&#42;
 * Programm importieren
 * Listenimport
 * Stapel-Kampagne planen
@@ -205,6 +224,8 @@ Auf SEO zugreifen
 
 * SEO verwalten
 * SEO-Standard
+
+_&#42;Diese Berechtigung wird im passiven Modus eingeführt und ist derzeit nicht verfügbar, um Störungen für bestehende Benutzer zu vermeiden. Wir werden mitteilen, wie sie umgesetzt werden kann, wenn sie Mitte 2024 aktiv wird._
 
 ## Zielgruppe und Personalisierung {#targeting-and-personalization}
 
