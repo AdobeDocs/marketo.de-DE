@@ -2,10 +2,10 @@
 description: Weiterleiten eines interaktiven Webinars - Marketo-Dokumente - Produktdokumentation
 title: Weiterleiten eines interaktiven Webinars
 feature: Interactive Webinars
-exl-id: 1f0777fe-fded-4629-b074-9a1ec94ba996
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
+source-git-commit: 7f90ff09fbab7bc1559ce75b213cb86bd3cd25f4
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '563'
 ht-degree: 0%
 
 ---
@@ -35,3 +35,5 @@ Sie können Token verwenden, um die Webinar-URL für einzelne Mitglieder einer E
 Links zum Erstellen einer Landingpage und einer E-Mail-Kampagne finden Sie auf der rechten Seite des Tabs Übersicht Ihres Veranstaltungsprogramms. Die übrigen Promotions, die sich auf eine Veranstaltung beziehen, bleiben mit den Partner-Webinaren identisch, die die Launchpoint-Integration verwenden.
 
 ![](assets/promoting-an-interactive-webinar-2.png)
+
+Mit interaktiven Webinaren können Sie eine Registrierung vor, während oder nach einem Webinar anfordern. In allen Fällen müssen Sie einfach die Webinar-URL für den Lead freigeben. Wenn Sie auf den Link klicken, bevor das Webinar beginnt, werden diese an eine Pre-Webinar-Landingpage gesendet. Wenn Sie im Webinar darauf klicken, gelangen die Benutzer zum laufenden Webinar. Wenn Sie darauf klicken, nachdem das Webinar das Video aufgenommen hat, gelangen Sie zu einer Aufzeichnung des Webinars.

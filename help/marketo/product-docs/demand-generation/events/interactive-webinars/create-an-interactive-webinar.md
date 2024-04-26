@@ -3,9 +3,9 @@ description: Erstellen eines interaktiven Webinars - Marketo-Dokumente - Produkt
 title: Erstellen eines interaktiven Webinars
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: 1e5e5a64e2524a65e0f7c75cd87ac2765a5e69e3
+source-git-commit: 7f90ff09fbab7bc1559ce75b213cb86bd3cd25f4
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '223'
 ht-degree: 0%
 
 ---
@@ -42,16 +42,26 @@ Erstellen Sie ein interaktives Webinar in wenigen einfachen Schritten.
    >
    >Informationen zu Partner-Webinaren finden Sie hier.
 
-1. Legen Sie die maximale Zielgruppengröße für Ihr Webinar fest und wie lange es dauern wird.
+1. Geben Sie Ihrem Webinar einen Titel. Legen Sie die maximale Zielgruppengröße und die Dauer fest.
 
    ![](assets/create-an-interactive-webinar-6.png)
+
+   >[!NOTE]
+   >
+   >* Der Titel des Webinars ist für Teilnehmer sichtbar, wenn sie Mitglied werden. Es ist wichtig, dass der Titel sich von dem Namen des Interaktiven Webinar-Veranstaltungsprogramms in Ihrer Marketo Engage-Instanz sowie vom Namen des Webinarraums unterscheidet.
+   >
+   >* Sie können einen Webinartitel nicht wiederverwenden. Jede Instanz muss in Ihrer Marketo-Instanz eindeutig sein.
+   >
+   >* Sie können den Webinartitel bei Bedarf zu einem späteren Zeitpunkt ändern.
 
 1. Planen Sie Datum/Uhrzeit Ihres Webinars und klicken Sie auf **Erstellen**.
 
    ![](assets/create-an-interactive-webinar-7.png)
 
-Ihr interaktives Webinar wird erstellt. [Erfahren Sie, wie Sie Moderatoren und Co-Hosts hinzufügen.](/help/marketo/product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md){target="_blank"}.
-
-<br>
+<p>
 
 Jetzt ist es an der Zeit [Webinar erstellen](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}.
+
+>[!MORELIKETHIS]
+>
+>[Erfahren Sie, wie Sie Moderatoren und/oder Co-Hosts hinzufügen](/help/marketo/product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md){target="_blank"}

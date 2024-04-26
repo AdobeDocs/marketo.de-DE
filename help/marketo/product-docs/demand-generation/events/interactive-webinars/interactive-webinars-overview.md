@@ -3,7 +3,7 @@ description: Interaktive Webinare - Überblick - Marketo-Dokumente - Produktdoku
 title: Interaktive Webinare - Überblick
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-source-git-commit: a92ad77514a827e7a227d0548ab75a6a65831220
+source-git-commit: 7f90ff09fbab7bc1559ce75b213cb86bd3cd25f4
 workflow-type: tm+mt
 source-wordcount: '517'
 ht-degree: 0%
@@ -52,7 +52,7 @@ Nein, interaktive Webinar Event-Programme bilden die Zuordnung für Sie.
 
 Wenn das Feld &quot;Vorname&quot;des Leads leer ist, kann er sich nicht für das Webinar registrieren. Sie können dies beheben, indem Sie einen gültigen Vornamen eingeben.
 
-**Beim Vorstellen eines Webinars während des Zugriffs auf das VPN meines Unternehmens treten Audio-/Videoprobleme auf. Was mache ich?**
+**Ich habe Audio-/Videoprobleme, wenn ich ein Webinar vorstelle, während ich auf das VPN meines Unternehmens zugegriffen habe. Was mache ich?**
 
 Adobe Connect, die Bereitstellungsplattform der interaktiven Webinare, verwendet WebRTC für Audio-/Video-/Bildschirmfreigabe. Die Netzwerk-Firewall Ihres Unternehmens blockiert wahrscheinlich die IP-Adressen/Ports, die wir für WebRTC-basierte Kommunikation verwenden. Ihr IT-Team muss diese Ports für WebRTC zulassen. [Weitere Infos](https://helpx.adobe.com/in/adobe-connect/firewall-proxy-server-configuration-adobe-connect.html){target="_blank"}.
 

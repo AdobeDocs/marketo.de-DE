@@ -3,9 +3,9 @@ description: Ereignis-Workflows - Marketo-Dokumente - Produktdokumentation
 title: Ereignis-Workflows
 exl-id: c9f44d9f-9210-4303-a9b5-22be1376efc4
 feature: Interactive Webinars
-source-git-commit: b5fb106126e52a8d759e560d21e525e21154a4d6
+source-git-commit: 7f90ff09fbab7bc1559ce75b213cb86bd3cd25f4
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '401'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,10 @@ Gehen Sie nach Abschluss Ihres Webinars zum Tab Dashboard , um die aggregierte L
 >[!NOTE]
 >
 >Wenn das Webinar noch nicht abgeschlossen ist oder die Daten aus irgendeinem Grund nicht empfangen wurden, ist der Tab Dashboard noch nicht verfügbar.
+
+## Manuelle Synchronisierung {#manual-sync}
+
+Mit interaktiven Webinaren können Sie die Interaktionsdaten Ihres Webinars aus Adobe Connect abrufen, wenn Sie sie nicht automatisch innerhalb von zwei Stunden nach Abschluss des Webinars erhalten haben. Auf der Übersichtsseite wird die Schaltfläche &quot;Jetzt synchronisieren&quot;angezeigt. Klicken **Jetzt synchronisieren** Trigger erhalten einen Abruf von Adobe Connect zum Ausfüllen der Daten in Marketo Engage. Nachdem die Synchronisierung abgeschlossen ist, verschwindet die Schaltfläche und die Registerkarte Dashboard wird ausgefüllt.
 
 ## Dashboard-Widgets {#dashboard-widgets}
 
