@@ -4,9 +4,9 @@ description: Beschreibungen der Rollenberechtigungen - Marketo-Dokumente - Produ
 title: Beschreibung der Rollenberechtigungen
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles
-source-git-commit: b3ada10feed3ee2a8adc31f8c5207c4bc4f01e5d
+source-git-commit: 548f3f84bf6a7d39dadbf1eb5069618c4f4d44b5
 workflow-type: tm+mt
-source-wordcount: '1421'
+source-wordcount: '1429'
 ht-degree: 16%
 
 ---
@@ -67,7 +67,7 @@ Zeigen Sie die Einstellungen an und nehmen Sie sie im Abschnitt Mein Konto unter
 * Zugriff auf Webhooks - Ermöglicht Benutzern, Webhooks in Admin zu verwenden, um Details und Antwortzuordnungen festzulegen.
 * Zugriff auf Arbeitsbereiche und Partitionen - Ermöglicht Benutzern den Zugriff auf das Erstellen, Bearbeiten und Löschen von Arbeitsbereichen und Partitionen in Admin
 
-_&#42;Diese Berechtigung wird im passiven Modus eingeführt und ist derzeit nicht verfügbar, um Störungen für bestehende Benutzer zu vermeiden. Wir werden mitteilen, wie sie umgesetzt werden kann, wenn sie Mitte 2024 aktiv wird._
+_&#42;Um Störungen für bestehende Benutzer zu vermeiden, wird diese Berechtigung im passiven Modus eingeführt und ist sichtbar, aber derzeit nicht zugänglich. Wir werden mitteilen, wie sie umgesetzt werden kann, wenn sie Mitte 2024 aktiv wird._
 
 ## Auf API zugreifen  {#access-api}
 
@@ -105,7 +105,7 @@ Ermöglicht Benutzern Zugriff auf die Analytics-Registerkarten, E-Mail-Einblicke
 * Bericht löschen - Deaktivieren entfernt die Möglichkeit zum Löschen von Berichten
 * Analytics-Daten exportieren - Deaktivieren entfernt die Möglichkeit des Benutzers, Analytics-Daten zu exportieren
 
-_&#42;Diese Berechtigung wird im passiven Modus eingeführt und ist derzeit nicht verfügbar, um Störungen für bestehende Benutzer zu vermeiden. Wir werden mitteilen, wie sie umgesetzt werden kann, wenn sie Mitte 2024 aktiv wird._
+_&#42;Um Störungen für bestehende Benutzer zu vermeiden, wird diese Berechtigung im passiven Modus eingeführt und ist sichtbar, aber derzeit nicht zugänglich. Wir werden mitteilen, wie sie umgesetzt werden kann, wenn sie Mitte 2024 aktiv wird._
 
 ## Auf Kalenderpräsentationen zugreifen {#access-calendar-presentations}
 
@@ -190,7 +190,7 @@ Zeigen Sie die Datenbank an sowie Smart-/statische Listen an und bearbeiten Sie 
 
 * Opportunity Data anzeigen - Blendet die Opportunity-Informationen auf der Personendetailseite aus.
 
-_&#42;Diese Berechtigung wird im passiven Modus eingeführt und ist derzeit nicht verfügbar, um Störungen für bestehende Benutzer zu vermeiden. Wir werden mitteilen, wie sie umgesetzt werden kann, wenn sie Mitte 2024 aktiv wird._
+_&#42;Um Störungen für bestehende Benutzer zu vermeiden, wird diese Berechtigung im passiven Modus eingeführt und ist sichtbar, aber derzeit nicht zugänglich. Wir werden mitteilen, wie sie umgesetzt werden kann, wenn sie Mitte 2024 aktiv wird._
 
 ## Auf Marketingaktivitäten zugreifen {#access-marketing-activities}
 
@@ -225,7 +225,7 @@ Auf SEO zugreifen
 * SEO verwalten
 * SEO-Standard
 
-_&#42;Diese Berechtigung wird im passiven Modus eingeführt und ist derzeit nicht verfügbar, um Störungen für bestehende Benutzer zu vermeiden. Wir werden mitteilen, wie sie umgesetzt werden kann, wenn sie Mitte 2024 aktiv wird._
+_&#42;Um Störungen für bestehende Benutzer zu vermeiden, wird diese Berechtigung im passiven Modus eingeführt und ist sichtbar, aber derzeit nicht zugänglich. Wir werden mitteilen, wie sie umgesetzt werden kann, wenn sie Mitte 2024 aktiv wird._
 
 ## Zielgruppe und Personalisierung {#targeting-and-personalization}
 
