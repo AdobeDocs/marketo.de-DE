@@ -4,7 +4,7 @@ title: Symbol Glossar
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
+source-git-commit: 2edeac3d6111208e454e61a3dccad45e5fd53916
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 52%
@@ -13,7 +13,7 @@ ht-degree: 52%
 
 # Marketo Engage-Symbol Glossar {#icon-glossary}
 
-Unten finden Sie die Symbole für die aktuelle Adobe Marketo Engage-Benutzeroberfläche. Wenn Sie auf die Marketo Classic-Symbole verweisen müssen, können diese [hier finden](/help/marketo/getting-started-2/classic-icon-glossary.md).
+Unten finden Sie die Symbole für die aktuelle Adobe Marketo Engage-Benutzeroberfläche. Wenn Sie auf die Marketo Classic-Symbole verweisen müssen, können diese [hier finden](/help/marketo/getting-started-2/things-to-know/classic-icon-glossary.md).
 
 ## Allgemeine Symbole {#general-icons}
 
