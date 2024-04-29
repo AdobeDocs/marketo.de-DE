@@ -1,17 +1,17 @@
 ---
 description: Dokumentieren Sie die Einrichtung Ihrer neuen Marketo Engage-Instanz.
-title: Neue Instanz - Document Your Setup
+title: Best Practices für neue Instanzen - Dokument zur Einrichtung
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '379'
 ht-degree: 2%
 
 ---
 
-# Neue Instanz: Document Your Setup {#new-instancei-document-your-setup}
+# Best Practices für neue Instanzen: Dokument zur Einrichtung {#new-instance-best-practices-document-your-setup}
 
 Nachdem Sie nun gelernt haben, die wichtigsten Produktbereiche für eine neue Marketo Engage-Instanz einzurichten, erstellen Sie als Nächstes eine Dokumentation für Ihre Instanzkonfiguration und Ihren technischen Stack. Egal, ob Sie sie über eine Tabellenkalkulation oder eine Anwendung für das Projektmanagement erstellen - Ihre Dokumentation ist eine großartige Ressource, um Fortschritte zu verfolgen und Details aufzuzeichnen sowie Ihre Instanz für zukünftige Marketing-Experten in Ihrem Unternehmen strukturiert und nachhaltig zu halten.
 

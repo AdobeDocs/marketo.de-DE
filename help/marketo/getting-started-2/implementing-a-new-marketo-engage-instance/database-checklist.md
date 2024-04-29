@@ -1,17 +1,17 @@
 ---
 description: Richten Sie den Abschnitt Datenbank für Ihre neue Marketo Engage-Instanz ein.
-title: Neue Instanz - Datenbank-Checkliste
+title: Best Practices für neue Instanzen - Checkliste für Datenbanken
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 2910b81de3eabb0793b9a339eb4fc934d620d525
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '302'
 ht-degree: 9%
 
 ---
 
-# Neue Instanz: Datenbank-Checkliste {#new-instance-database-checklist}
+# Best Practices für neue Instanzen: Datenbank-Checkliste {#new-instance-best-practices-database-checklist}
 
 Im Abschnitt Datenbank finden Sie eine Momentaufnahme der Schlüsselattribute zu den Personen in Ihrer Instanz. Erfahren Sie mehr über die erforderlichen Schritte, um durch verschiedene Listen und Segmentierungen in Ihrer Datenbank zu navigieren und Benutzerdatensätze zu verwalten.
 

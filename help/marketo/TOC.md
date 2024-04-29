@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '9346'
+source-wordcount: '9356'
 ht-degree: 3%
 
 ---
@@ -53,11 +53,11 @@ ht-degree: 3%
       + [Benutzereinstellungen](getting-started-2/initial-setup/user-setup.md)
    + Implementieren einer neuen Marketo Engage-Instanz {#implementing-a-new-marketo-engage-instance}
       + [Startpunkt](getting-started-2/implementing-a-new-marketo-engage-instance/where-to-start.md)
-      + [Neue Instanz: Checkliste für Admin-Abschnitte](getting-started-2/implementing-a-new-marketo-engage-instance/admin-section-checklist.md)
-      + [Neue Instanz: Datenbank-Checkliste](getting-started-2/implementing-a-new-marketo-engage-instance/database-checklist.md)
-      + [Neue Instanz: Checkliste für Marketingaktivitäten](getting-started-2/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
-      + [Neue Instanz: Checkliste für Design Studio](getting-started-2/implementing-a-new-marketo-engage-instance/design-studio-checklist.md)
-      + [Neue Instanz: Document Your Setup](getting-started-2/implementing-a-new-marketo-engage-instance/document-your-setup.md)
+      + [Best Practices für neue Instanzen: Checkliste für Admin-Abschnitte](getting-started-2/implementing-a-new-marketo-engage-instance/admin-section-checklist.md)
+      + [Best Practices für neue Instanzen: Datenbank-Checkliste](getting-started-2/implementing-a-new-marketo-engage-instance/database-checklist.md)
+      + [Best Practices für neue Instanzen: Checkliste für Marketingaktivitäten](getting-started-2/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
+      + [Best Practices für neue Instanzen: Checkliste für Design Studio](getting-started-2/implementing-a-new-marketo-engage-instance/design-studio-checklist.md)
+      + [Best Practices für neue Instanzen: Dokument zur Einrichtung](getting-started-2/implementing-a-new-marketo-engage-instance/document-your-setup.md)
    + Was zu wissen ist {#things-to-know}
       + [Marketo Engage-Glossar](getting-started-2/things-to-know/marketo-engage-glossary.md)
       + [Symbol Glossar](getting-started-2/things-to-know/icon-glossary.md)

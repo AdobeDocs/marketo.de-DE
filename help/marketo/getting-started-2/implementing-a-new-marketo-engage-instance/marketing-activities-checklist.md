@@ -1,17 +1,17 @@
 ---
 description: Richten Sie den Abschnitt Marketingaktivitäten für Ihre neue Marketo Engage-Instanz ein.
-title: Neue Instanz - Checkliste für Marketingaktivitäten
+title: Best Practices für neue Instanzen - Checkliste für Marketingaktivitäten
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 2910b81de3eabb0793b9a339eb4fc934d620d525
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '720'
+source-wordcount: '724'
 ht-degree: 3%
 
 ---
 
-# Neue Instanz: Checkliste für Marketingaktivitäten {#new-instance-marketing-activities-checklist}
+# Best Practices für neue Instanzen: Checkliste für Marketingaktivitäten {#new-instance-best-practices-marketing-activities-checklist}
 
 Marketingaktivitäten beinhalten alle Assets und Inhalte Ihrer automatisierten Marketingprogramme. Wenn Sie eine neue Marketo Engage-Instanz einrichten, stellt eine saubere und klare Organisation sicher, dass alle Benutzer mühelos verschiedene Programme finden und verwalten können.
 

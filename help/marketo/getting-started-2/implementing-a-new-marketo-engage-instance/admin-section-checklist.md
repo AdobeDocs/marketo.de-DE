@@ -1,17 +1,17 @@
 ---
 description: Richten Sie den Admin-Abschnitt für Ihre neue Marketo Engage-Instanz ein.
-title: Neue Instanz - Checkliste für den Admin-Bereich
+title: Neue Best Practices für Instanzen - Checkliste für Admin-Abschnitte
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 2910b81de3eabb0793b9a339eb4fc934d620d525
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '1095'
+source-wordcount: '1099'
 ht-degree: 5%
 
 ---
 
-# Neue Instanz: Checkliste für Admin-Abschnitte {#new-instance-admin-section-checklist}
+# Best Practices für neue Instanzen: Checkliste für Admin-Abschnitte {#new-instance-best-practices-admin-section-checklist}
 
 Wenden Sie als neuer Administrator, der in einer neuen Marketo Engage-Instanz navigiert, die Checkliste unten an, um Sie durch den Implementierungsprozess zu führen. Wie bei allen Handbüchern können Sie die Checklisten herunterladen [LINK] und verfolgen Sie Ihren Fortschritt.
 
