@@ -1,11 +1,12 @@
 ---
-description: Help Center - Marketo Docs - Produktdokumentation
+description: Help Center - Marketo Engage Docs - Produktdokumentation
 title: Hilfezentrum
+hide: true
+hidefromtoc: true
 feature: Getting Started
-exl-id: 5acb6ae5-73f5-417b-8fbc-e5bbfa37a623
 source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '160'
 ht-degree: 5%
 
 ---
@@ -18,39 +19,39 @@ Das Help Center in Adobe Marketo Engage dient als zentralisierter Ort, um Hilfe 
 
 Nachdem Sie sich bei Marketo Engage angemeldet haben, klicken Sie auf das Hilfesymbol.
 
-![](assets/help-center-1.png)
+SCREENSHOT
 
 ### Anleitungen {#guides}
 
 Handbücher dienen als schnelle Anleitungen für beliebte Funktionen.
 
-![](assets/help-center-2.png)
+SCREENSHOT
 
 1. Klicken Sie auf das gewünschte Handbuch, um es anzuzeigen.
 
-   ![](assets/help-center-3.png)
+SCREENSHOT
 
 1. Klicks **Erste Schritte**.
 
-   ![](assets/help-center-4.png)
+SCREENSHOT
 
 1. Klicks **Nächste** , um fortzufahren.
 
-   ![](assets/help-center-5.png)
+SCREENSHOT
 
 1. Klicks **Fertig** , um die exemplarische Vorgehensweise zu beenden.
 
-   ![](assets/help-center-6.png)
+SCREENSHOT
 
-   >[!TIP]
-   >
-   >Beenden Sie das Handbuch jederzeit durch Klicken auf **Verwerfen**.
+>[!TIP]
+>
+>Beenden Sie das Handbuch jederzeit durch Klicken auf **Verwerfen**.
 
 ### Neue Funktionen {#whats-new}
 
 Der Tab Neue Funktionen enthält alle Details der neuesten Version von Marketo Engage.
 
-![](assets/help-center-7.png)
+SCREENSHOT
 
 >[!TIP]
 >
@@ -60,4 +61,4 @@ Der Tab Neue Funktionen enthält alle Details der neuesten Version von Marketo E
 
 Im Tab Ressourcen haben Sie schnellen und direkten Zugriff auf verschiedene Möglichkeiten, zusätzliche Hilfe bei Ihrer Marketo Engage-Instanz zu erhalten.
 
-![](assets/help-center-8.png)
+SCREENSHOT
