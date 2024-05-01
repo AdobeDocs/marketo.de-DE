@@ -1,12 +1,11 @@
 ---
 description: Callback-Funktionen - Marketo-Dokumente - Produktdokumentation
 title: Callback-Funktionen
-hide: true
-hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 30deeb59cd70b42af38cd1e047833394f9341a5c
+exl-id: 5ae7f6cb-5c57-4257-8a1a-992c9602cfaa
+source-git-commit: 1641d3f7ea96c8898f902d52271fd2bb2116e966
 workflow-type: tm+mt
-source-wordcount: '623'
+source-wordcount: '615'
 ht-degree: 7%
 
 ---
@@ -78,7 +77,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 });
 ```
 
-Das &quot;event&quot;-Argument im Ereignis ist ein Objekt mit Metadaten, die sich auf die Konversation beziehen. Sie können auf die Metadaten nach event.data zugreifen
+Die `event` -Parameter ist ein Objekt mit Metadaten, die sich auf die Konversation beziehen. Sie können auf diese Metadaten zugreifen, indem Sie `event.data`.
 
 Im Folgenden finden Sie einige wichtige Metadatenwerte, auf die Sie zugreifen können:
 
@@ -141,7 +140,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 });
 ```
 
-Das &quot;event&quot;-Argument im Ereignis ist ein Objekt mit Metadaten, die sich auf die Konversation beziehen. Sie können auf die Metadaten nach event.data zugreifen
+Die `event` -Parameter ist ein Objekt mit Metadaten, die sich auf die Konversation beziehen. Sie können auf diese Metadaten zugreifen, indem Sie `event.data`.
 
 Im Folgenden finden Sie einige wichtige Metadatenwerte, auf die Sie zugreifen können.
 
@@ -194,7 +193,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 });
 ```
 
-Das &quot;event&quot;-Argument im Ereignis ist ein Objekt mit Metadaten, die sich auf die Konversation beziehen. Sie können auf die Metadaten nach event.data zugreifen
+Die `event` -Parameter ist ein Objekt mit Metadaten, die sich auf die Konversation beziehen. Sie können auf diese Metadaten zugreifen, indem Sie `event.data`.
 
 Im Folgenden finden Sie einige wichtige Metadatenwerte, auf die Sie zugreifen können.
 
@@ -295,7 +294,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 });
 ```
 
-Das &quot;event&quot;-Argument im Ereignis ist ein Objekt mit Metadaten, die sich auf die Konversation beziehen. Sie können auf die Metadaten nach event.data zugreifen
+Die `event` -Parameter ist ein Objekt mit Metadaten, die sich auf die Konversation beziehen. Sie können auf diese Metadaten zugreifen, indem Sie `event.data`.
 
 Im Folgenden finden Sie einige wichtige Metadatenwerte, auf die Sie zugreifen können.
 
@@ -338,7 +337,7 @@ Im Folgenden finden Sie einige wichtige Metadatenwerte, auf die Sie zugreifen k�
 </tbody>
 </table>
 
-Wenn Sie eines dieser Ereignisse an eine Drittanbieterplattform wie Adobe Analytics oder Google Analytics senden möchten, müssen Sie deren jeweiligen Tracking-Aufruf in diesen Dynamic Chat-Ereignissen hinzufügen. Es würde ungefähr wie im folgenden Beispiel aussehen.
+Wenn Sie eines dieser Ereignisse an eine Analytics-Plattform wie Adobe Analytics oder Google Analytics senden möchten, müssen Sie deren jeweiligen Tracking-Aufruf in diesen Dynamic Chat-Ereignissen hinzufügen. Es würde ungefähr wie im folgenden Beispiel aussehen.
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
