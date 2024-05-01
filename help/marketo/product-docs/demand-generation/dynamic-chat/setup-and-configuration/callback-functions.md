@@ -3,9 +3,9 @@ description: Callback-Funktionen - Marketo-Dokumente - Produktdokumentation
 title: Callback-Funktionen
 feature: Dynamic Chat
 exl-id: 5ae7f6cb-5c57-4257-8a1a-992c9602cfaa
-source-git-commit: 1641d3f7ea96c8898f902d52271fd2bb2116e966
+source-git-commit: fd070322b6741268595d460318246abd3768dd3d
 workflow-type: tm+mt
-source-wordcount: '615'
+source-wordcount: '616'
 ht-degree: 7%
 
 ---
@@ -284,7 +284,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 
 ### Live-Chat-Timeout {#live-chat-timeout}
 
-Dieses Ereignis wird ausgelöst, wenn bei einer Live-Chat-Konversation eine Zeitüberschreitung auftritt, da der Besucher aufhört zu antworten oder abgelegt hat.
+Dieses Ereignis wird ausgelöst, wenn bei einer Live-Chat-Konversation eine Zeitüberschreitung auftritt, da der Besucher nicht mehr antwortet oder sie fallen gelassen wurden.
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
