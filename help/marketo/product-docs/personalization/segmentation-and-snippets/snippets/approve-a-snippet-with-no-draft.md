@@ -4,7 +4,7 @@ description: Snippet mit No-Draft genehmigen - Marketo Docs - Produktdokumentati
 title: Snippet ohne Entwurf genehmigen
 exl-id: a06aa77a-68f1-41a4-b2bd-bf1882b81578
 feature: Snippets
-source-git-commit: 154e8390916869d79ee6fc96f09bac22b1395220
+source-git-commit: 7ea15136c4557b3e651f5ae8a5cda6fcd6b80d1c
 workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 &quot;Kein Entwurf&quot;wird jedes Mal ausgelöst, wenn ein Snippet genehmigt wird. Dazu gehört ein Snippet, das von Assets in anderen Arbeitsbereichen freigegeben oder referenziert wird.
 
-1. Navigieren Sie zu **Design Studio**.
+1. Navigieren Sie zu **[!UICONTROL Design Studio]**.
 
    ![](assets/approve-the-snippet-1.png)
 
@@ -25,14 +25,14 @@ ht-degree: 0%
 
    ![](assets/approve-the-snippet-2.png)
 
-1. Im **Snippet-Aktionen** Dropdown, wählen Sie **Entwurf genehmigen**.
+1. Im **[!UICONTROL Snippet-Aktionen]** Dropdown, wählen Sie **[!UICONTROL Entwurf genehmigen]**.
 
    ![](assets/approve-the-snippet-3.png)
 
-1. Wählen Sie eine Option im Dialogfeld Snippet genehmigen aus und klicken Sie auf **Genehmigen**:
+1. Wählen Sie eine Option im Dialogfeld Snippet genehmigen aus und klicken Sie auf **[!UICONTROL Genehmigen]**:
 
-   * **Alle aktualisieren**: Mit dieser Option werden keine Entwürfe der genehmigten Assets mit dem Snippet erstellt. Alle Assets erhalten die Aktualisierungen und behalten ihren vorherigen Status bei. Ein Fortschrittsmodul wird oben rechts im Bildschirm angezeigt. Es kann jederzeit geschlossen werden. Um es wiederherzustellen, klicken Sie mit der rechten Maustaste auf den Namen des Ausschnitts und wählen Sie &quot;Genehmigungsstatus anzeigen&quot;.
-   * **Entwürfe erstellen**: Mit dieser Option werden Entwürfe der genehmigten Assets mithilfe des Snippets erstellt. Wählen Sie diese Option aus, wenn Änderungen an Snippets zuerst überprüft werden müssen. Alle Entwürfe müssen manuell genehmigt werden.
+   * **[!UICONTROL Alle aktualisieren]**: Mit dieser Option werden keine Entwürfe der genehmigten Assets mit dem Snippet erstellt. Alle Assets erhalten die Aktualisierungen und behalten ihren vorherigen Status bei. Ein Fortschrittsmodul wird oben rechts im Bildschirm angezeigt. Es kann jederzeit geschlossen werden. Um es wiederherzustellen, klicken Sie mit der rechten Maustaste auf den Namen des Ausschnitts und wählen Sie &quot;Genehmigungsstatus anzeigen&quot;.
+   * **[!UICONTROL Entwürfe erstellen]**: Mit dieser Option werden Entwürfe der genehmigten Assets mithilfe des Snippets erstellt. Wählen Sie diese Option aus, wenn Änderungen an Snippets zuerst überprüft werden müssen. Alle Entwürfe müssen manuell genehmigt werden.
 
    ![](assets/approve-the-snippet-4.png)
 
