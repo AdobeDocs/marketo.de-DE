@@ -4,9 +4,9 @@ description: Snippet mit No-Draft genehmigen - Marketo Docs - Produktdokumentati
 title: Snippet ohne Entwurf genehmigen
 exl-id: a06aa77a-68f1-41a4-b2bd-bf1882b81578
 feature: Snippets
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 154e8390916869d79ee6fc96f09bac22b1395220
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '223'
 ht-degree: 0%
 
 ---
@@ -19,18 +19,22 @@ ht-degree: 0%
 
 1. Navigieren Sie zu **Design Studio**.
 
-   ![](assets/go-to-design-studio.png)
+   ![](assets/approve-the-snippet-1.png)
 
-1. Wählen Sie ein Snippet aus und im **Snippet-Aktionen** Dropdown, wählen Sie **Genehmigen**.
+1. Suchen und wählen Sie das gewünschte Snippet aus.
 
-   ![](assets/approve-snippet.png)
+   ![](assets/approve-the-snippet-2.png)
 
-1. Wählen Sie eine Option im Dialogfeld &quot;Snippet genehmigen&quot;aus und klicken Sie auf **Genehmigen**:
+1. Im **Snippet-Aktionen** Dropdown, wählen Sie **Entwurf genehmigen**.
 
-   * **Alle aktualisieren**: Mit dieser Option werden keine Entwürfe der genehmigten Assets mit dem Snippet erstellt. Alle Assets erhalten die Aktualisierungen und behalten ihren vorherigen Status bei. Oben rechts im Bildschirm wird ein Fortschrittsmodul angezeigt. sie kann jederzeit geschlossen werden. Um es wiederherzustellen, klicken Sie mit der rechten Maustaste auf den Namen des Ausschnitts und wählen Sie &quot;Genehmigungsstatus anzeigen&quot;.
+   ![](assets/approve-the-snippet-3.png)
+
+1. Wählen Sie eine Option im Dialogfeld Snippet genehmigen aus und klicken Sie auf **Genehmigen**:
+
+   * **Alle aktualisieren**: Mit dieser Option werden keine Entwürfe der genehmigten Assets mit dem Snippet erstellt. Alle Assets erhalten die Aktualisierungen und behalten ihren vorherigen Status bei. Ein Fortschrittsmodul wird oben rechts im Bildschirm angezeigt. Es kann jederzeit geschlossen werden. Um es wiederherzustellen, klicken Sie mit der rechten Maustaste auf den Namen des Ausschnitts und wählen Sie &quot;Genehmigungsstatus anzeigen&quot;.
    * **Entwürfe erstellen**: Mit dieser Option werden Entwürfe der genehmigten Assets mithilfe des Snippets erstellt. Wählen Sie diese Option aus, wenn Änderungen an Snippets zuerst überprüft werden müssen. Alle Entwürfe müssen manuell genehmigt werden.
 
-   ![](assets/snippet-dialog-box.png)
+   ![](assets/approve-the-snippet-4.png)
 
    >[!NOTE]
    >
@@ -38,8 +42,8 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->Mit dieser Funktion sparen Sie Zeit mit dem Arbeitsablauf für die Segmentvalidierung. Es gibt jedoch einige Einschränkungen, die Sie beachten müssen. Siehe [dieses Dokuments](https://nation.marketo.com/docs/DOC-4415) für Details. Das Dokument enthält auch Informationen zur Fehlerbehebung und -behandlung.
+>Mit dieser Funktion sparen Sie Zeit mit dem Arbeitsablauf für die Segmentvalidierung. Es gibt jedoch einige Einschränkungen, die Sie beachten müssen. Siehe [diesem Artikel](https://nation.marketo.com/t5/knowledgebase/no-draft-snippet-limitations-and-troubleshooting/ta-p/300799){target="_blank"} für Details.
 
 >[!MORELIKETHIS]
 >
->[No-Draft für Snippets aktivieren](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md)
+>[No-Draft für Snippets aktivieren](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md){target="_blank"}
