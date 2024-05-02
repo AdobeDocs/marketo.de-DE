@@ -4,9 +4,10 @@ title: Best Practices für neue Instanzen - Checkliste für Design Studio
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
+exl-id: 070ee235-dad0-4627-bac0-14bf0174bb03
+source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '364'
 ht-degree: 6%
 
 ---
@@ -29,8 +30,8 @@ Checklisten herunterladen [LINK] und verfolgen Sie Ihren Fortschritt.
 <tbody>
   <tr>
     <td>Globale Landing Pages</td>
-    <td><li>Erstellen Sie globale Landingpages (frei/geführt).</li>
-    <li>Erstellen Sie eine Testseite, um die Gewinnervorlage für die Einstiegsseite zu A/B-Test zu erstellen (falls zutreffend).</li></td>
+    <td><li>Erstellen <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages#product-docs">globale Landingpages (frei/geführt)</a>.</li>
+    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups">Erstellen einer Testseite</a> zum A/B-Test der Gewinnervorlage für die Einstiegsseite (falls zutreffend).</li></td>
   </tr>
   <tr>
     <td>Vorlagen</td>
@@ -38,7 +39,7 @@ Checklisten herunterladen [LINK] und verfolgen Sie Ihren Fortschritt.
   </tr>
   <tr>
     <td>Datenschutz und Compliance</td>
-    <td><li>Fußzeile erstellen mit <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page">Snippets</a> oder Token auf Ihren Landingpages zur Einhaltung der Datenschutzbestimmungen.</li></td>
+    <td><li>Fußzeile erstellen mit <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page">Snippets</a> oder <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-text-and-tokens-to-a-landing-page#add-a-token-to-your-landing-page">Token</a> auf Ihren Landingpages verwenden, um die Datenschutzbestimmungen einzuhalten.</li></td>
   </tr>
 </tbody>
 </table>
@@ -125,8 +126,8 @@ Checklisten herunterladen [LINK] und verfolgen Sie Ihren Fortschritt.
     <td>Benennungskonventionen</td>
     <td><li>Verwenden Sie konsistente Namenskonventionen für Bilder und Dateien.</li>  
     <br>Beispiele:  
-    <br>Dateibenennungsregel: Asset-Typ-Asset-Name (z. B.: White-Paper-Evaluating-Cloud-Computing-Get-Your-Board-on-Board) 
-    <p>Bildbenennungsregel: Bildtyp-Asset-Typ-Asset-Name (z. B.: thumbnail-White-Paper-Evaluating-Cloud-Computing-Get-Your-Board-on-Board)</td>
+    <br><ul><li>Dateibenennungsregel: Asset-Typ-Asset-Name (z. B.: White-Paper-Evaluating-Cloud-Computing-Get-Your-Board-on-Board)</li>
+    <p><li>Bildbenennungsregel: Bildtyp-Asset-Typ-Asset-Name (z. B.: thumbnail-White-Paper-Evaluating-Cloud-Computing-Get-Your-Board-on-Board)</li></td>
   </tr>
 </tbody>
 </table>

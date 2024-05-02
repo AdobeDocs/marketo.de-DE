@@ -4,16 +4,17 @@ title: Best Practices für neue Instanzen - Checkliste für Datenbanken
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
+exl-id: 996ea2db-a00c-48e5-97a8-00f869c261b1
+source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '300'
 ht-degree: 9%
 
 ---
 
 # Best Practices für neue Instanzen: Datenbank-Checkliste {#new-instance-best-practices-database-checklist}
 
-Im Abschnitt Datenbank finden Sie eine Momentaufnahme der Schlüsselattribute zu den Personen in Ihrer Instanz. Erfahren Sie mehr über die erforderlichen Schritte, um durch verschiedene Listen und Segmentierungen in Ihrer Datenbank zu navigieren und Benutzerdatensätze zu verwalten.
+Im Abschnitt Datenbank finden Sie die Schlüsselattribute der Personen in Ihrer Instanz. Erfahren Sie mehr über die erforderlichen Schritte, um durch verschiedene Listen und Segmentierungen in Ihrer Datenbank zu navigieren und Benutzerdatensätze zu verwalten.
 
 Checklisten herunterladen [LINK] und verfolgen Sie Ihren Fortschritt.
 
@@ -38,7 +39,7 @@ Checklisten herunterladen [LINK] und verfolgen Sie Ihren Fortschritt.
   </tr>
   <tr>
     <td>Marketing eingestellt</td>
-    <td><li>Definieren <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe.html#marketing-suspended" target="_blank">Marketing ausgesetzt</a> Kriterien.</li></td>
+    <td><li>Definieren <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe#marketing-suspended" target="_blank">Marketing ausgesetzt</a> Kriterien.</li></td>
   </tr>
   <tr>
     <td>Adressen für aufgrund von Bounce-Ereignissen unzustellbare E-Mails </td>
@@ -49,7 +50,7 @@ Checklisten herunterladen [LINK] und verfolgen Sie Ihren Fortschritt.
     <td>Mögliche Duplikate</td>
     <td><li>Überprüfen Sie Personen in der Liste Mögliche Duplikate .</li> 
     <li>Definieren Sie Ihre Strategie zur Duplikatverwaltung, um festzustellen, ob Sie <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.html" target="_blank">Personen manuell zusammenführen</a>.</li>  
-    <li>Wenn Sie über eine CRM-Integration verfügen, definieren Sie einen Prozess und ein Konto für <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.html#effect-in-salesforce" target="_blank">Auswirkungen der Zusammenführung von Leads in Ihrem CRM</a>.</li></td>
+    <li>Wenn Sie über eine CRM-Integration verfügen, definieren Sie einen Prozess und ein Konto für <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people#effect-in-salesforce" target="_blank">Auswirkungen der Zusammenführung von Leads in Ihrem CRM</a>.</li></td>
   </tr>
   <tr>
     <td>Kein Akquisitionsprogramm</td>

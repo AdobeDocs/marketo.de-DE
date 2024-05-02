@@ -4,9 +4,10 @@ title: Best Practices für neue Instanzen - Dokument zur Einrichtung
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
+exl-id: c64d25e8-564b-487d-824e-7fcbfbf5d8bb
+source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '388'
 ht-degree: 2%
 
 ---
@@ -55,7 +56,7 @@ Nachdem Sie nun gelernt haben, die wichtigsten Produktbereiche für eine neue Ma
     <br>ID-Typ
     <br>Produktprofil(e)
     <p>
-    <li>Entwickeln Sie als Marketo Engage Product Admin einen internen Prozess, um die Marketo Engage-Benutzerliste regelmäßig zu überprüfen und zu aktualisieren. Um Änderungen an der Benutzerliste in Adobe Admin Console vorzunehmen, beachten Sie <a href="https://helpx.adobe.com/de/enterprise/using/users.html" target="_blank">Hochladen der .csv-Datei</a> in großen Mengen.</li></td>
+    <li>Entwickeln Sie als Marketo Engage Product Admin einen internen Prozess, um die Marketo Engage-Benutzerliste regelmäßig zu überprüfen und zu aktualisieren. Um Änderungen an der Benutzerliste in Adobe Admin Console vorzunehmen, beachten Sie <a href="https://helpx.adobe.com/de/enterprise/using/users.html" target="_blank">Massenaktionen</a>, z. B. das Hochladen einer .CSV-Datei, die Verwendung der User Management-REST-API usw.</li></td>
   </tr>
   <tr>
     <td>Organization</td>
