@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: df536423-7ac8-437a-86c1-3692e68cd9fa
-source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
+source-git-commit: 67b9d79482c16b0b513f81b02fe8f237961ac30f
 workflow-type: tm+mt
-source-wordcount: '758'
+source-wordcount: '757'
 ht-degree: 3%
 
 ---
@@ -54,9 +54,9 @@ Checklisten herunterladen [LINK] und verfolgen Sie Ihren Fortschritt.
 
 ## Assets {#assets}
 
->[!TIP]
+>[!NOTE]
 >
->Informationen zum Speichern von Marketing-Assets wie Programmen, Landingpages und E-Mails in separaten Bereichen finden Sie in der Checkliste &quot;Admin-Bereich&quot; [LINK] , um zu erfahren, wie Sie Arbeitsbereiche einrichten.
+>Informationen zum Speichern von Marketing-Assets wie Programmen, Landingpages und E-Mails in separaten Bereichen finden Sie im Abschnitt [Checkliste für Admin-Abschnitte](/help/marketo/getting-started-2/implementing-a-new-marketo-engage-instance/admin-section-checklist.md#workspaces-partitions) , um zu erfahren, wie Sie Arbeitsbereiche einrichten.
 
 <table>
 <thead>

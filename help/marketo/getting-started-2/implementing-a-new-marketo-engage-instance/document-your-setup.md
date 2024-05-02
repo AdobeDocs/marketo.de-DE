@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: c64d25e8-564b-487d-824e-7fcbfbf5d8bb
-source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
+source-git-commit: 67b9d79482c16b0b513f81b02fe8f237961ac30f
 workflow-type: tm+mt
-source-wordcount: '388'
+source-wordcount: '409'
 ht-degree: 2%
 
 ---
@@ -53,11 +53,16 @@ Nachdem Sie nun gelernt haben, die wichtigsten Produktbereiche für eine neue Ma
     <td><li>Dokumentieren Sie <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user#add-a-user" target="_blank">aktuelle Benutzer</a> in Ihrer Instanz aus Sicherheitsgründen. Die folgenden Details sollten mindestens enthalten sein (und sind alle sichtbar, indem Sie zu Adobe Admin Console &gt; Benutzer navigieren):</li>
     <br>Name
     <br>Email
-    <br>ID-Typ
-    <br>Produktprofil(e)
-    <p>
-    <li>Entwickeln Sie als Marketo Engage Product Admin einen internen Prozess, um die Marketo Engage-Benutzerliste regelmäßig zu überprüfen und zu aktualisieren. Um Änderungen an der Benutzerliste in Adobe Admin Console vorzunehmen, beachten Sie <a href="https://helpx.adobe.com/de/enterprise/using/users.html" target="_blank">Massenaktionen</a>, z. B. das Hochladen einer .CSV-Datei, die Verwendung der User Management-REST-API usw.</li></td>
-  </tr>
+    <br>Anmelden
+    <br>Rolle
+    <br>Ablaufdatum des Zugriffs
+    <br>Benutzererstelltes Datum
+    <br>Letztes Anmeldungsdatum
+
+HINWEIS: Kunden können dies auch erweitern und eine Dokumentation zu Rollen/Berechtigungen hinzufügen.
+<p>
+<li>Entwickeln Sie als Marketo Engage Product Admin einen internen Prozess, um die Marketo Engage-Benutzerliste regelmäßig zu überprüfen und zu aktualisieren. Um Änderungen an der Benutzerliste in Adobe Admin Console vorzunehmen, beachten Sie <a href="https://helpx.adobe.com/de/enterprise/using/users.html" target="_blank">Massenaktionen</a>, z. B. das Hochladen einer .CSV-Datei, die Verwendung der User Management-REST-API usw.</li></td>
+</tr>
   <tr>
     <td>Organization</td>
     <td><li>Dokumentieren Sie die vereinbarte Ordnerstruktur, die standardmäßigen Benennungskonventionen für Programme, Assets usw. und den Grund für die getroffenen Entscheidungen. <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/best-practices-to-organize-a-new-instance" target="_blank">Weitere Informationen zu Best Practices finden Sie hier .</a></li></td>
