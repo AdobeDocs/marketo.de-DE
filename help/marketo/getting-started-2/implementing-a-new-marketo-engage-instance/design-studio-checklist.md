@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: 070ee235-dad0-4627-bac0-14bf0174bb03
-source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
+source-git-commit: 97480487268af59aac90ef64bc1ef35ee81db310
 workflow-type: tm+mt
 source-wordcount: '364'
 ht-degree: 6%
@@ -30,8 +30,8 @@ Checklisten herunterladen [LINK] und verfolgen Sie Ihren Fortschritt.
 <tbody>
   <tr>
     <td>Globale Landing Pages</td>
-    <td><li>Erstellen <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages#product-docs">globale Landingpages (frei/geführt)</a>.</li>
-    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups">Erstellen einer Testseite</a> zum A/B-Test der Gewinnervorlage für die Einstiegsseite (falls zutreffend).</li></td>
+    <td><li>Erstellen <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages#product-docs" target="_blank">globale Landingpages (frei/geführt)</a>.</li>
+    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups" target="_blank">Erstellen einer Testseite</a> zum A/B-Test der Gewinnervorlage für die Einstiegsseite (falls zutreffend).</li></td>
   </tr>
   <tr>
     <td>Vorlagen</td>
@@ -39,7 +39,7 @@ Checklisten herunterladen [LINK] und verfolgen Sie Ihren Fortschritt.
   </tr>
   <tr>
     <td>Datenschutz und Compliance</td>
-    <td><li>Fußzeile erstellen mit <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page">Snippets</a> oder <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-text-and-tokens-to-a-landing-page#add-a-token-to-your-landing-page">Token</a> auf Ihren Landingpages verwenden, um die Datenschutzbestimmungen einzuhalten.</li></td>
+    <td><li>Fußzeile erstellen mit <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page" target="_blank">Snippets</a> oder <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-text-and-tokens-to-a-landing-page#add-a-token-to-your-landing-page" target="_blank">Token</a> auf Ihren Landingpages verwenden, um die Datenschutzbestimmungen einzuhalten.</li></td>
   </tr>
 </tbody>
 </table>
@@ -144,7 +144,7 @@ Checklisten herunterladen [LINK] und verfolgen Sie Ihren Fortschritt.
 <tbody>
   <tr>
     <td>Ordnerstruktur </td>
-    <td><li>Erstellen Sie Unterordner für jeden Asset-Typ und <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders">globale Assets organisieren</a> (z. B. Dialogflüsse, E-Mail-Vorlagen, E-Mails, Formulare, Bilder und Dateien, Landingpages, Landingpage-Vorlagen, Snippets usw.) angemessen sein.</li></td>
+    <td><li>Erstellen Sie Unterordner für jeden Asset-Typ und <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank">globale Assets organisieren</a> (z. B. Dialogflüsse, E-Mail-Vorlagen, E-Mails, Formulare, Bilder und Dateien, Landingpages, Landingpage-Vorlagen, Snippets usw.) angemessen sein.</li></td>
   </tr>
 </tbody>
 </table>

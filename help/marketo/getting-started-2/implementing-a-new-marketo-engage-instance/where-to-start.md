@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: 91b751ab-88c5-4575-96f8-166f62f007e2
-source-git-commit: 67b9d79482c16b0b513f81b02fe8f237961ac30f
+source-git-commit: 97480487268af59aac90ef64bc1ef35ee81db310
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '274'
 ht-degree: 0%
 
 ---
@@ -18,9 +18,13 @@ Willkommen bei Ihrer neuen Adobe Marketo Engage-Instanz! Machen Sie sich bereit,
 
 In diesem Handbuch &quot;Implementieren einer neuen Marketo Engage-Instanz&quot;erfahren Sie Best Practices für die nahtlose Implementierung Ihrer Instanz, um eine langfristige Hygiene und betriebliche Effizienz sicherzustellen. Jede Checkliste bietet wertvolle Schritte, um den Konfigurationsfortschritt zu verfolgen. Verwenden Sie die herunterladbaren Checklisten, um Ihre Arbeit für zukünftige Instanz-Audits und das Onboarding von Benutzern zu dokumentieren.
 
-## Erforderliche Schritte
+## Ersteinrichtung {#initial-setup}
 
-IN DIESEM ABSCHNITT EINGEBEN UND UMBENENNEN
+Bevor Sie sich in die unten stehenden Checklisten für Best Practice eintauchen, stellen Sie sicher, dass Sie die Schritte im Bereich Ersteinrichtung befolgt haben.
+
+* [Aufgaben bei der Ersteinrichtung](/help/marketo/getting-started-2/initial-setup/initial-setup-tasks.md)
+
+* [Benutzersicherheit](/help/marketo/getting-started-2/initial-setup/user-setup.md)
 
 ## Checklisten mit Best Practices für Ihre neue Marketo Engage-Instanz {#best-practice-checklists-new-instance}
 

@@ -3,9 +3,9 @@ description: Entwerfen interaktiver Webinare - Marketo-Dokumente - Produktdokume
 title: Interaktive Webinare erstellen
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars
-source-git-commit: 7f90ff09fbab7bc1559ce75b213cb86bd3cd25f4
+source-git-commit: 97480487268af59aac90ef64bc1ef35ee81db310
 workflow-type: tm+mt
-source-wordcount: '475'
+source-wordcount: '488'
 ht-degree: 0%
 
 ---
@@ -27,6 +27,8 @@ Erfahren Sie, wie Sie Ihr Webinar entsprechend Ihren Anforderungen entwerfen.
    >* Ein Raum ist ein Online-Raum, der für Meetings genutzt wird.
    >
    >* Wenn Sie einen vorhandenen Webinar-Raum auswählen und ihn umbenennen möchten, klicken Sie einfach auf **Webinar-Raum umbenennen** rechts.
+   >
+   >* In der Dropdown-Liste werden nur die zuvor von Ihnen erstellten Räume und nicht die von anderen Hosts angezeigt.
 
 1. Wählen Sie eine Vorlage aus.
 
