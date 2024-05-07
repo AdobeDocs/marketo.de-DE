@@ -4,9 +4,9 @@ description: Senden einer Marketo Sales-E-Mail von Microsoft Dynamics - Marketo 
 title: Senden einer Marketo Sales-E-Mail aus Microsoft Dynamics
 exl-id: 9ee53a3e-8bbe-458a-9905-a1e1503f9553
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 22385fc545378f8835c36564b1029bedbdbb3848
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,13 @@ Ihr Verkaufsteam kann E-Mails senden und sie auf Öffnungen und Klicks direkt in
 
    ![](assets/image2014-10-20-11-3a57-3a8.png)
 
-   Sie können auf **Test-E-Mail senden** und die E-Mail an Sie gesendet wird (primäre E-Mail-Adresse in Microsoft Dynamics), bevor die E-Mail gesendet wird.
+   >[!TIP]
+   >
+   >Sie können auf **Test-E-Mail senden** und die E-Mail an Sie gesendet wird (primäre E-Mail-Adresse in Microsoft Dynamics), bevor die E-Mail gesendet wird.
+
+   >[!NOTE]
+   >
+   >Sie können bis zu 2000 Marketo-E-Mails gleichzeitig versenden.
 
 Schön gemacht! Jetzt wissen Sie, wie Sie getrackte E-Mails von Marketo direkt aus Microsoft Dynamics senden können.
 
