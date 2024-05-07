@@ -3,9 +3,9 @@ description: Weiterleiten eines interaktiven Webinars - Marketo-Dokumente - Prod
 title: Weiterleiten eines interaktiven Webinars
 feature: Interactive Webinars
 exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
-source-git-commit: 7f90ff09fbab7bc1559ce75b213cb86bd3cd25f4
+source-git-commit: 4d7732582dccb00c90bb61d2db1d7553027e92a9
 workflow-type: tm+mt
-source-wordcount: '563'
+source-wordcount: '601'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,11 @@ Die Weiterleitung eines interaktiven Webinars ähnelt der Weiterleitung eines Pa
 
 Nachdem die Mitglieder hinzugefügt oder in das Programm importiert wurden, können Sie innerhalb des Interaktiven Webinar-Veranstaltungsprogramms eine E-Mail-Kampagne erstellen, um eine Einladung an alle Programmmitglieder zu senden und deren Status nach dem Versand der E-Mail als &quot;eingeladen&quot;zu ändern.
 
-Die E-Mail kann spezifische Programmdetails enthalten sowie eine Landingpage-URL enthalten, über die der Empfänger zu einer bestimmten Seite weitergeleitet wird, auf der weitere Informationen zum Webinar verfügbar sind (z. B. Inhalt, Moderatorinformationen usw.) hinzugefügt werden. Diese Landingpage kann als lokales Asset im interaktiven Webinar-Veranstaltungsprogramm erstellt werden.
+>[!NOTE]
+>
+>Wenn Sie dem interaktiven Webinar-Veranstaltungsprogramm einen Mitwirt oder einen Moderator als Zielgruppenmitglied hinzufügen möchten, müssen Sie für diese eine andere E-Mail-ID verwenden. Andernfalls wird ihnen der Fehler &quot;Diese E-Mail ist bereits registriert&quot;angezeigt.
+
+Die E-Mail kann spezifische Programmdetails enthalten sowie eine Landingpage-URL enthalten, über die der Empfänger zu einer bestimmten Seite weitergeleitet wird, auf der weitere Informationen zum Webinar verfügbar sind (z. B. Inhalt, Moderatorinformationen usw.). hinzugefügt werden. Diese Landingpage kann als lokales Asset im interaktiven Webinar-Veranstaltungsprogramm erstellt werden.
 
 Sie können eine Registrierung für dieses Webinar anfordern, indem Sie ein Formular auf der Landingpage aktivieren und die Formularklicks mit der aktivierten Registrierung im interaktiven Webinar Event Program verknüpfen. Anschließend kann eine Kampagne erstellt werden, die Formularübermittlungen als Trigger verwendet und den Programmstatus von &quot;eingeladen&quot;in &quot;registriert&quot;ändert.
 
