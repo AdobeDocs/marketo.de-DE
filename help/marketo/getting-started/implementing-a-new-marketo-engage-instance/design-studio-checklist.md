@@ -3,7 +3,7 @@ description: Richten Sie den Abschnitt "Design Studio"für Ihre neue Marketo Eng
 title: Best Practices für neue Instanzen - Checkliste für Design Studio
 feature: Getting Started
 exl-id: 070ee235-dad0-4627-bac0-14bf0174bb03
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 7805983cdaff0b99a38aefc2c2467b53f3386da3
 workflow-type: tm+mt
 source-wordcount: '369'
 ht-degree: 6%
@@ -14,7 +14,7 @@ ht-degree: 6%
 
 Im Abschnitt &quot;Design Studio&quot;sollten sich die wiederverwendbaren &quot;globalen Assets&quot;befinden. Erstellen Sie die globalen Assets, die Ihr Unternehmen in Programmen verwenden möchte, verwenden Sie eine konsistente Namenskonvention und organisieren Sie sie in den Unterordnern, um die Suche zu erleichtern.
 
-Denken Sie daran, [Checklisten herunterladen](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) und verfolgen Sie Ihren Fortschritt.
+Denken Sie daran, [Checklisten herunterladen](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) und verfolgen Sie Ihren Fortschritt.
 
 ## Landing Page {#landing-pages}
 

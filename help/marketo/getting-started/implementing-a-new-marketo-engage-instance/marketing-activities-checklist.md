@@ -3,7 +3,7 @@ description: Richten Sie den Abschnitt Marketingaktivitäten für Ihre neue Mark
 title: Best Practices für neue Instanzen - Checkliste für Marketingaktivitäten
 feature: Getting Started
 exl-id: df536423-7ac8-437a-86c1-3692e68cd9fa
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 7805983cdaff0b99a38aefc2c2467b53f3386da3
 workflow-type: tm+mt
 source-wordcount: '794'
 ht-degree: 3%
@@ -14,7 +14,7 @@ ht-degree: 3%
 
 Marketingaktivitäten beinhalten alle Assets und Inhalte Ihrer automatisierten Marketingprogramme. Wenn Sie eine neue Marketo Engage-Instanz einrichten, stellt eine saubere und klare Organisation sicher, dass alle Benutzer mühelos verschiedene Programme finden und verwalten können.
 
-Denken Sie daran, [Checklisten herunterladen](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) und verfolgen Sie Ihren Fortschritt.
+Denken Sie daran, [Checklisten herunterladen](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) und verfolgen Sie Ihren Fortschritt.
 
 ## Organization {#organization}
 

@@ -3,7 +3,7 @@ description: Richten Sie den Admin-Abschnitt für Ihre neue Marketo Engage-Insta
 title: Neue Best Practices für Instanzen - Checkliste für Admin-Abschnitte
 feature: Getting Started
 exl-id: 4fa90a32-7e97-404c-90b1-90d05c2561d0
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 7805983cdaff0b99a38aefc2c2467b53f3386da3
 workflow-type: tm+mt
 source-wordcount: '634'
 ht-degree: 6%
@@ -12,7 +12,7 @@ ht-degree: 6%
 
 # Best Practices für neue Instanzen: Checkliste für Admin-Abschnitte {#new-instance-best-practices-admin-section-checklist}
 
-Wenden Sie als neuer Administrator, der in einer neuen Marketo Engage-Instanz navigiert, die Checkliste unten an, um Sie durch den Implementierungsprozess zu führen. Wie bei all diesen Handbüchern können Sie auch [Checklisten herunterladen](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) und verfolgen Sie Ihren Fortschritt.
+Wenden Sie als neuer Administrator, der in einer neuen Marketo Engage-Instanz navigiert, die Checkliste unten an, um Sie durch den Implementierungsprozess zu führen. Wie bei all diesen Handbüchern können Sie auch [Checklisten herunterladen](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) und verfolgen Sie Ihren Fortschritt.
 
 ## Rollen {#roles}
 
