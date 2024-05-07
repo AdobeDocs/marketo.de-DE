@@ -3,9 +3,9 @@ description: Bevor Sie in Ihre neue Marketo Engage-Instanz eintauchen, müssen S
 title: Checkliste zur Benutzereinrichtung
 feature: Getting Started
 exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
-source-git-commit: a3d9fcfa0381933e1a7e62f19b414bc380f325b5
+source-git-commit: 1d153012aa151ddc787cbcfd03a2f420a7d65e48
 workflow-type: tm+mt
-source-wordcount: '799'
+source-wordcount: '794'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Ihre neuen Marketo Engage-Abonnements sind bei [Adobe Identity Management System
     <td>Produkt-Admin für Marketo Engage und Abonnement</td>
     <td><li>Vergewissern Sie sich, dass Ihr Adobe Org-Systemadministrator Ihnen eine Adobe Product Admin-Rolle zugewiesen hat.</li>  
     <ul>
-    <li>Wenden Sie sich an das Adobe Account-Team (Ihren Kundenbetreuer) oder senden Sie eine E-Mail an <code>customercare@marketo.com</code> oder senden Sie eine E-Mail an customercare@marketo.comto , um herauszufinden, wer in Ihrem Unternehmen <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Adobe Admin Console-Systemadministrator</a> -Berechtigungen.</li></ul>
+    <li>Wenden Sie sich an das Adobe Account-Team (Ihren Kundenbetreuer) oder senden Sie eine E-Mail an <code>customercare@marketo.com</code> herauszufinden, wer in Ihrer Organisation <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Adobe Admin Console-Systemadministrator</a> -Berechtigungen.</li></ul>
     <li>Akzeptieren Sie die Einladung "Marketo Engage Product Admin", um Ihre Adobe ID zu aktivieren. Die <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/admin-setup.html?lang=en#create-a-product-profile">Willkommens-E-Mail</a> wird gesendet, wenn die Rolle in der Adobe Admin Console zugewiesen wird.</li></td>
   </tr>
   <tr>
