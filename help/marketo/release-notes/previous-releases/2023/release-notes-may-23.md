@@ -1,11 +1,11 @@
 ---
 description: Versionshinweise - Mai 2023 - Marketo-Dokumente - Produktdokumentation
 title: Mai 2023 - Versionshinweise
-exl-id: e647fefc-e4f1-46e5-b688-887989f5feea
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: beefd8ad-b0d2-4a6f-9f2e-74f03fc3abe7
+source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
 workflow-type: tm+mt
-source-wordcount: '368'
-ht-degree: 3%
+source-wordcount: '345'
+ht-degree: 2%
 
 ---
 
@@ -34,7 +34,7 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
   </tr>
   <tr> 
    <td>Versendet</td>
-   <td><a href="/help/marketo/product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md">Experience Cloud-Benutzeroberfläche – Übersicht</a></td>
+   <td><a href="/help/marketo/product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md">Übersicht über die Experience Cloud-Benutzeroberfläche</a></td>
   </tr>
   </tbody>
 </table>
@@ -48,7 +48,7 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
   </tr>
   <tr> 
    <td>Versendet</td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/help-center.html">Hilfezentrum</a></td>
+   <td><a href="/help/marketo/getting-started/things-to-know/help-center.md">Hilfezentrum</a></td>
   </tr>
   </tbody>
 </table>
@@ -57,7 +57,7 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
 
 Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiedenen Daten vor oder nach dem standardmäßigen Veröffentlichungsdatum veröffentlicht. Bitte prüfen Sie unten jedes Feature nach seinem Status.
 
-### Cross-Channel-Orchestrierung {#cross-channel-orchestration}
+### Kanalübergreifende Orchestrierung {#cross-channel-orchestration}
 
 </br>
 

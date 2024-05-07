@@ -2,12 +2,14 @@
 unique-page-id: 1147226
 description: Erste Schritte - Marketo-Dokumente - Produktdokumentation
 title: Erste Schritte
+hide: true
+hidefromtoc: true
 exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
 workflow-type: tm+mt
 source-wordcount: '133'
-ht-degree: 31%
+ht-degree: 13%
 
 ---
 
@@ -17,13 +19,13 @@ ht-degree: 31%
 
 Was ist Marketo Engage, fragen Sie? Große Frage!
 
-[Marketo Engage](/help/marketo/getting-started/what-is-adobe-marketo-engage.md){target="_blank"}
+[Marketo Engage lernen](/help/marketo/getting-started/what-is-adobe-marketo-engage.md){target="_blank"}
 
 ## Einrichten {#get-set-up}
 
 Mit ein wenig Hilfe von Ihrem IT-Team können Sie es in kürzester Zeit erledigen.
 
-[Einrichtung starten](/help/marketo/getting-started/setup/setup-steps.md){target="_blank"}
+[Einrichtung starten](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}
 
 ## Gewinnen Sie Quick Wins {#get-some-quick-wins}
 
@@ -42,7 +44,7 @@ Führen Sie diese Aufgaben aus, um die Kernfunktionen von Marketo Engage kennenz
   </td>
   <td>
       <a href="getting-started/quick-wins/send-an-email.md">
-       <img alt="Importieren" src="getting-started/assets/getting-started-2.png" />
+       <img alt="Importieren" src="getting-started/assets/getting-started.png" />
        </a>
     <div><a href="getting-started/quick-wins/send-an-email.md">2. E-Mail senden</a>
     </div>
@@ -53,7 +55,7 @@ Führen Sie diese Aufgaben aus, um die Kernfunktionen von Marketo Engage kennenz
       <img alt="E-Mail" src="getting-started/assets/getting-started-3.png" />
     </a>
     <div>
-    <a href="getting-started/quick-wins/landing-page-with-a-form.md">3. Landing Page mit Formular</a>
+    <a href="getting-started/quick-wins/landing-page-with-a-form.md">3. Landingpage mit einem Formular</a>
     </div>
     <br>
   </td>
@@ -70,7 +72,7 @@ Führen Sie diese Aufgaben aus, um die Kernfunktionen von Marketo Engage kennenz
       <a href="getting-started/quick-wins/email-auto-response.md">
        <img alt="Importieren" src="getting-started/assets/getting-started-5.png" />
        </a>
-    <div><a href="getting-started/quick-wins/email-auto-response.md">5. Automatische Antwort-E-Mail</a>
+    <div><a href="getting-started/quick-wins/email-auto-response.md">5. Automatische E-Mail-Antwort</a>
     </div>
     <br>
   </td>
@@ -107,7 +109,7 @@ Führen Sie diese Aufgaben aus, um die Kernfunktionen von Marketo Engage kennenz
       <img alt="E-Mail" src="getting-started/assets/getting-started-9.png" />
     </a>
     <div>
-    <a href="getting-started/quick-wins/alert-the-sales-rep.md">9. Vertriebsmitarbeiter benachrichtigen</a>
+    <a href="getting-started/quick-wins/alert-the-sales-rep.md">9. Warnhinweis für den Vertriebsmitarbeiter</a>
     </div>
     <br>
   </td>

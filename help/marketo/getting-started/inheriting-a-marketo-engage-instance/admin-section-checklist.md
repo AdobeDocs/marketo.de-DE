@@ -3,7 +3,7 @@ description: Übernommene Checkliste für Instanzadministratoren - Marketo-Dokum
 title: Checkliste für geerbte Instanzadministratoren
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-source-git-commit: 0ca63c52cb255cc41cbb53b2c481e589d08004b3
+source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
 workflow-type: tm+mt
 source-wordcount: '1846'
 ht-degree: 3%
@@ -16,7 +16,7 @@ Die folgenden Checklisten (nachfolgende Checklisten, die am Ende jedes Artikels 
 
 >[!TIP]
 >
->Wenn Sie ein neuer Marketo Engage-Benutzer sind und nicht mit vielen der Begriffe vertraut sind, sehen Sie sich bitte die [Marketo Engage-Glossar](/help/marketo/getting-started/marketo-engage-glossary.md){target="_blank"}.
+>Wenn Sie ein neuer Marketo Engage-Benutzer sind und nicht mit vielen der Begriffe vertraut sind, sehen Sie sich bitte die [Marketo Engage-Glossar](/help/marketo/getting-started/things-to-know/marketo-engage-glossary.md){target="_blank"}.
 
 ## Adobe Identity Management {#adobe-identity-management}
 
@@ -83,7 +83,7 @@ Die folgenden Checklisten (nachfolgende Checklisten, die am Ende jedes Artikels 
   </tr>
   <tr> 
    <td>Support-Benutzer</td> 
-   <td><li>Sie müssen die entsprechenden <a href="/help/marketo/getting-started/setup/setup-steps.md#set-up-your-authorized-support-contacts" target="_blank">autorisierte Kontakte</a> im Support-Portal?</li></td>
+   <td><li>Sie müssen die entsprechenden <a href="/help/marketo/getting-started/initial-setup/setup-steps.md#set-up-your-authorized-support-contacts" target="_blank">autorisierte Kontakte</a> im Support-Portal?</li></td>
   </tr>
   <tr> 
    <td>Interne Dokumentation</td> 
@@ -99,7 +99,7 @@ Die folgenden Checklisten (nachfolgende Checklisten, die am Ende jedes Artikels 
  </tbody> 
 </table>
 
-## Audit-Protokoll {#audit-trail}
+## Audit-Trail {#audit-trail}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -108,13 +108,13 @@ Die folgenden Checklisten (nachfolgende Checklisten, die am Ende jedes Artikels 
    <th>Fokus überprüfen</th>
   </tr> 
   <tr> 
-   <td>Audit-Protokoll</td> 
+   <td>Audit-Trail</td> 
    <td><li><a href="/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md" target="_blank">Wer arbeitet</a> in der Instanz?</li></td>
   </tr>
  </tbody> 
 </table>
 
-## Arbeitsbereiche und Partitionen {#workspaces-and-partitions}
+## Arbeitsb. &amp; Partitionen {#workspaces-and-partitions}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -123,7 +123,7 @@ Die folgenden Checklisten (nachfolgende Checklisten, die am Ende jedes Artikels 
    <th>Fokus überprüfen</th>
   </tr> 
   <tr> 
-   <td>Arbeitsbereiche und Partitionen</td> 
+   <td>Arbeitsb. &amp; Partitionen</td> 
    <td><li>Wie viele <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" target="_blank">Arbeitsbereiche und/oder Partitionen</a> Hast du etwas?</li>
 <li>Was ist der primäre Zweck jeder Workspace- und Partition?</li>
 <li>Entweder <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/edit-a-workspace.md" target="_blank">Arbeitsbereiche</a> oder <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/edit-an-existing-person-partition.md" target="_blank">Partitionen</a> müssen geprüft/geändert werden?</li>
@@ -154,7 +154,7 @@ Die folgenden Checklisten (nachfolgende Checklisten, die am Ende jedes Artikels 
  </tbody> 
 </table>
 
-## Kommunikationsbeschr {#communication-limits}
+## Kommunikationsbeschränkungen {#communication-limits}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -163,7 +163,7 @@ Die folgenden Checklisten (nachfolgende Checklisten, die am Ende jedes Artikels 
    <th>Fokus überprüfen</th>
   </tr> 
   <tr> 
-   <td>Kommunikationsbeschr</td> 
+   <td>Kommunikationsbeschränkungen</td> 
    <td><li>Gibt es <a href="/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md" target="_blank">Kommunikationsbeschränkungen</a> vorhanden? Verfügt Ihr Unternehmen über Richtlinien, bei denen Kommunikationsbeschränkungen erforderlich sein könnten?</li>
 <p><img src="assets/note-icon.png" alt="Notizsymbol"> HINWEIS: Es wird empfohlen, Ihre Kommunikation auf 1 pro Tag und 3 pro 7 Tage zu begrenzen, mit <b>non</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">operativ</a> blockierte E-Mails.</td>
   </tr>
@@ -266,7 +266,7 @@ Die folgenden Checklisten (nachfolgende Checklisten, die am Ende jedes Artikels 
 <p><img src="assets/note-icon.png" alt="Notizsymbol"> HINWEIS: Wenden Sie sich an den Marketo-Support, um benutzerdefinierte Synchronisierungsfilter zu ermitteln oder die Implementierung einer benutzerspezifischen Synchronisierungsregel anzufordern.</li></td>
   </tr>
   <tr> 
-   <td>Landing Pages</td> 
+   <td>Landing Page</td> 
    <td><li>Was ist das <a href="/help/marketo/product-docs/administration/settings/edit-landing-page-settings.md" target="_blank">Domain festgelegt als</a>?</li>
    <li>Wie ist die Homepage eingestellt?</li>
 <li>Was ist das <a href="/help/marketo/product-docs/administration/settings/set-a-fallback-page.md" target="_blank">Fallback festgelegt als</a>?</li>
@@ -285,7 +285,7 @@ Die folgenden Checklisten (nachfolgende Checklisten, die am Ende jedes Artikels 
 <p><img src="assets/tip-icon.png" alt="Tippsymbol">TIPP: Wenn Ihnen die Dokumentation fehlt, in der sich der Munchkin-Code auf Ihrer Website befindet, können Sie alle URLs anzeigen, indem Sie eine <a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">Webseitenaktivitätsbericht</a>.</li></td>
   </tr>
   <tr> 
-   <td>Web-Services</td> 
+   <td>Webdienste</td> 
    <td><li>sind <a href="/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md" target="_blank">IP-Einschränkungen</a> aktiviert? Sollen sie das sein?</li>
 <li>Welche Benutzer/Apps führen API-Aufrufe in Ihrer Instanz durch?</li>
 <li>Haben Sie Ihr API-Limit erreicht oder stehen Sie kurz davor?

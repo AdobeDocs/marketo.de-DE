@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 30deeb59cd70b42af38cd1e047833394f9341a5c
+source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
 workflow-type: tm+mt
-source-wordcount: '9358'
+source-wordcount: '9327'
 ht-degree: 3%
 
 ---
@@ -14,16 +14,24 @@ ht-degree: 3%
 # Marketo-Handbuch {#using}
 
 + [Startseite](home.md)
-+ Erste Schritte mit Marketo {#getting-started-with-marketo}
-   + [Erste Schritte](getting-started.md)
++ Erste Schritte mit Marketo Engage {#getting-started}
    + [Was ist Adobe Marketo Engage?](getting-started/what-is-adobe-marketo-engage.md)
-   + [Hilfezentrum](getting-started/help-center.md)
-   + [Marketo Engage-Glossar](getting-started/marketo-engage-glossary.md)
-   + [Glossar zu klassischen Symbolen](getting-started/classic-icon-glossary.md)
-   + Einrichtung {#setup}
-      + [Einrichtungsschritte](getting-started/setup/setup-steps.md)
-      + [Checkliste einrichten](getting-started/setup/setup-checklist.md)
-      + [Protokolle für Marketo konfigurieren](getting-started/setup/configure-protocols-for-marketo.md)
+   + Ersteinrichtung {#initial-setup}
+      + [Einrichtungsschritte](getting-started/initial-setup/setup-steps.md)
+      + [Protokolle konfigurieren](getting-started/initial-setup/configure-protocols-for-marketo.md)
+      + [Benutzereinstellungen](getting-started/initial-setup/user-setup.md)
+   + Implementieren einer neuen Marketo Engage-Instanz {#implementing-a-new-marketo-engage-instance}
+      + [Startpunkt](getting-started/implementing-a-new-marketo-engage-instance/where-to-start.md)
+      + [Best Practices für neue Instanzen: Checkliste für Admin-Abschnitte](getting-started/implementing-a-new-marketo-engage-instance/admin-section-checklist.md)
+      + [Best Practices für neue Instanzen: Datenbank-Checkliste](getting-started/implementing-a-new-marketo-engage-instance/database-checklist.md)
+      + [Best Practices für neue Instanzen: Checkliste für Marketingaktivitäten](getting-started/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
+      + [Best Practices für neue Instanzen: Checkliste für Design Studio](getting-started/implementing-a-new-marketo-engage-instance/design-studio-checklist.md)
+      + [Best Practices für neue Instanzen: Dokument zur Einrichtung](getting-started/implementing-a-new-marketo-engage-instance/document-your-setup.md)
+   + Was zu wissen ist {#things-to-know}
+      + [Marketo Engage-Glossar](getting-started/things-to-know/marketo-engage-glossary.md)
+      + [Symbol Glossar](getting-started/things-to-know/icon-glossary.md)
+      + [Glossar zu klassischen Symbolen](getting-started/things-to-know/classic-icon-glossary.md)
+      + [Hilfezentrum](getting-started/things-to-know/help-center.md)
    + Quick Wins {#quick-wins}
       + [Einrichten und Hinzufügen einer Person](getting-started/quick-wins/get-set-up-and-add-a-person.md)
       + [E-Mail senden](getting-started/quick-wins/send-an-email.md)
@@ -45,24 +53,6 @@ ht-degree: 3%
       + [Vererbte Instanz: Design Studio Checkliste](getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)
       + [Vererbte Instanz: Dokument Ihres Setups](getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)
       + [Grundfertigkeiten überprüfen](getting-started/inheriting-a-marketo-engage-instance/reviewing-core-skills.md)
-+ Erste Schritte mit Marketo 2 {#getting-started-with-marketo-2}
-   + [Was ist Adobe Marketo Engage?](getting-started-2/what-is-adobe-marketo-engage.md)
-   + Ersteinrichtung {#initial-setup}
-      + [Aufgaben bei der Ersteinrichtung](getting-started-2/initial-setup/initial-setup-tasks.md)
-      + [Einrichtungsschritte](getting-started-2/initial-setup/setup-steps.md)
-      + [Benutzereinstellungen](getting-started-2/initial-setup/user-setup.md)
-   + Implementieren einer neuen Marketo Engage-Instanz {#implementing-a-new-marketo-engage-instance}
-      + [Startpunkt](getting-started-2/implementing-a-new-marketo-engage-instance/where-to-start.md)
-      + [Best Practices für neue Instanzen: Checkliste für Admin-Abschnitte](getting-started-2/implementing-a-new-marketo-engage-instance/admin-section-checklist.md)
-      + [Best Practices für neue Instanzen: Datenbank-Checkliste](getting-started-2/implementing-a-new-marketo-engage-instance/database-checklist.md)
-      + [Best Practices für neue Instanzen: Checkliste für Marketingaktivitäten](getting-started-2/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
-      + [Best Practices für neue Instanzen: Checkliste für Design Studio](getting-started-2/implementing-a-new-marketo-engage-instance/design-studio-checklist.md)
-      + [Best Practices für neue Instanzen: Dokument zur Einrichtung](getting-started-2/implementing-a-new-marketo-engage-instance/document-your-setup.md)
-   + Was zu wissen ist {#things-to-know}
-      + [Marketo Engage-Glossar](getting-started-2/things-to-know/marketo-engage-glossary.md)
-      + [Symbol Glossar](getting-started-2/things-to-know/icon-glossary.md)
-      + [Glossar zu klassischen Symbolen](getting-started-2/things-to-know/classic-icon-glossary.md)
-      + [Hilfe-Center](getting-started-2/things-to-know/help-center.md)
 + Produktdokumente {#product-docs}
    + Zusätzliche Apps {#additional-apps}
       + SEO {#seo}
@@ -1143,7 +1133,6 @@ ht-degree: 3%
          + [Email CC](product-docs/email-marketing/general/email-cc.md)
    + Marketo Engage Modern UX {#marketo-engage-modern-ux}
       + [Überblick](product-docs/marketo-engage-modern-ux/overview.md)
-      + [Symbol Glossar](product-docs/marketo-engage-modern-ux/icon-glossary.md)
       + [Verwenden der globalen Suche](product-docs/marketo-engage-modern-ux/using-the-global-search.md)
       + [Umschalten](product-docs/marketo-engage-modern-ux/toggle-switch.md)
    + Marketo-Benachrichtigungen {#marketo-notifications}

@@ -1,11 +1,13 @@
 ---
 unique-page-id: 11387674
 description: Aktualisierungen der Marketo-Terminologie - Marketo-Dokumente - Produktdokumentation
+hide: true
+hidefromtoc: true
 title: Aktualisierungen der Marketo-Terminologie
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
 workflow-type: tm+mt
-source-wordcount: '368'
-ht-degree: 1%
+source-wordcount: '328'
+ht-degree: 2%
 
 ---
 
@@ -73,7 +75,7 @@ Lead und Person **das gleiche**.
 
 ## Token {#tokens}
 
-Token mit dem Wort Lead **nicht ändern**. Wir entschuldigen uns für jede Verwirrung. Wenn Sie jedoch alle Token so ändern, dass sie der neuen Terminologie entsprechen, würde dies viele der derzeit verwendeten Token beschädigen. Daher werden weiterhin Token wie &quot;`{{lead.First Name}}`.&quot; Es gibt keine personenspezifischen Token.
+Token mit dem Wort &quot;Lead&quot; **sich nicht ändern**. Wir entschuldigen uns für jede Verwirrung. Eine Änderung aller Token an die neue Terminologie würde jedoch viele der derzeit verwendeten Token beschädigen. Daher werden weiterhin Token wie &quot;`{{lead.First Name}}`.&quot; Es gibt keine personenspezifischen Token.
 
 >[!NOTE]
 >
@@ -108,7 +110,7 @@ Felder, die den Begriff &quot;Lead&quot;enthielten, wurden entweder durch &quot;
 
 >[!NOTE]
 >
->Eine vollständige Liste der betroffenen Feldnamen finden Sie in diesem [Support-Artikel](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens){target=&quot;_blank&quot;}.
+>Eine vollständige Liste der betroffenen Feldnamen finden Sie in diesem [Support-Artikel](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens){target="_blank"}.
 
 ## Echtzeit-Personalisierung (RTP) ist jetzt Web-Personalisierung {#real-time-personalization-rtp-is-now-web-personalization}
 
@@ -137,11 +139,11 @@ Felder, die den Begriff &quot;Lead&quot;enthielten, wurden entweder durch &quot;
 
 Zusätzlich zur Namensänderung besteht sie jetzt aus vier separaten Apps:
 
-| **[Web-Personalisierung](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP){target=&quot;_blank&quot;}** | Hat eine eigene Kachel auf dem Startbildschirm |
+| **[Web-Personalisierung](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP){target="_blank"}** | Hat eine eigene Kachel auf dem Startbildschirm |
 |---|---|
-| **[Kontobasiertes Webmarketing](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing){target=&quot;_blank&quot;}** | Zugriff über die Kachel Web-Personalisierung |
-| **[Personalisiertes Retargeting](https://docs.marketo.com/display/DOCS/Website+Retargeting){target=&quot;_blank&quot;}** | Zugriff über die Kachel Web-Personalisierung |
-| **[Prädiktive Inhalte](https://docs.marketo.com/display/DOCS/Predictive+Content){target=&quot;_blank&quot;}** | Hat eine eigene Kachel auf dem Startbildschirm |
+| **[Kontobasiertes Webmarketing](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing){target="_blank"}** | Zugriff über die Kachel Web-Personalisierung |
+| **[Personalisiertes Retargeting](https://docs.marketo.com/display/DOCS/Website+Retargeting){target="_blank"}** | Zugriff über die Kachel Web-Personalisierung |
+| **[Prädiktive Inhalte](https://docs.marketo.com/display/DOCS/Predictive+Content){target="_blank"}** | Hat eine eigene Kachel auf dem Startbildschirm |
 
 >[!NOTE]
 >
