@@ -3,16 +3,16 @@ description: Bevor Sie in Ihre neue Marketo Engage-Instanz eintauchen, müssen S
 title: Checkliste zur Benutzereinrichtung
 feature: Getting Started
 exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
-source-git-commit: 7805983cdaff0b99a38aefc2c2467b53f3386da3
+source-git-commit: a3d9fcfa0381933e1a7e62f19b414bc380f325b5
 workflow-type: tm+mt
-source-wordcount: '776'
+source-wordcount: '799'
 ht-degree: 0%
 
 ---
 
 # Checkliste zur Benutzereinrichtung {#user-setup-checklist}
 
-Jetzt, da Sie alle [Schritte bei der Ersteinrichtung](/help/marketo/getting-started/initial-setup/setup-steps.md), ist es Zeit, einige grundlegende Elemente zu etablieren, um eine reibungslose fortlaufende Nutzung zu gewährleisten. Dies wird die Grundlage für Ihr Journey mit Marketo Engage bilden und Ihnen dabei helfen, seine Funktionen optimal zu nutzen. Fangen wir an!
+Jetzt, da Sie alle [Schritte bei der Ersteinrichtung](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}, ist es Zeit, einige grundlegende Elemente zu etablieren, um eine reibungslose fortlaufende Nutzung zu gewährleisten. Dies wird die Grundlage für Ihr Journey mit Marketo Engage bilden und Ihnen dabei helfen, seine Funktionen optimal zu nutzen. Fangen wir an!
 
 >[!NOTE]
 >
@@ -34,7 +34,7 @@ Ihre neuen Marketo Engage-Abonnements sind bei [Adobe Identity Management System
     <td>Produkt-Admin für Marketo Engage und Abonnement</td>
     <td><li>Vergewissern Sie sich, dass Ihr Adobe Org-Systemadministrator Ihnen eine Adobe Product Admin-Rolle zugewiesen hat.</li>  
     <ul>
-    <li>Kontakt <a href="https://helpx.adobe.com/contact.html">Adobe-Kundenunterstützung</a> herauszufinden, wer in Ihrer Organisation <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Adobe Admin Console-Systemadministrator</a> -Berechtigungen.</li></ul>
+    <li>Wenden Sie sich an das Adobe Account-Team (Ihren Kundenbetreuer) oder senden Sie eine E-Mail an <code>customercare@marketo.com</code> oder senden Sie eine E-Mail an customercare@marketo.comto , um herauszufinden, wer in Ihrem Unternehmen <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Adobe Admin Console-Systemadministrator</a> -Berechtigungen.</li></ul>
     <li>Akzeptieren Sie die Einladung "Marketo Engage Product Admin", um Ihre Adobe ID zu aktivieren. Die <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/admin-setup.html?lang=en#create-a-product-profile">Willkommens-E-Mail</a> wird gesendet, wenn die Rolle in der Adobe Admin Console zugewiesen wird.</li></td>
   </tr>
   <tr>
@@ -67,7 +67,7 @@ Ihre neuen Marketo Engage-Abonnements sind bei [Adobe Identity Management System
 
 ## Dynamic Chat bei der Adobe Identity Management-Einrichtung {#dynamic-chat-on-adobe-identity-management}
 
-Verwendung [Dynamic Chat](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.html), dem nativen Kanal zur Automatisierung von Konversationen in Marketo Engage, fahren Sie mit der Einrichtung der Benutzerberechtigungen fort, wie unten in der [Adobe Admin Console](https://adminconsole.adobe.com/).
+Verwendung [Dynamic Chat](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.html), dem nativen Kanal zur Automatisierung von Konversationen in Marketo Engage, fahren Sie mit der Einrichtung der Benutzerberechtigungen fort, wie unten in der [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
 
 <table>
 <thead>
@@ -79,7 +79,8 @@ Verwendung [Dynamic Chat](https://experienceleague.adobe.com/docs/marketo/using/
 <tbody>
   <tr>
     <td>Dynamic Chat Product Admin (falls zutreffend)</td>
-    <td><li>Vergewissern Sie sich, dass Ihr Adobe Org-Systemadministrator Ihnen eine Adobe Product Admin-Rolle zugewiesen hat. Kontakt <a href="https://helpx.adobe.com/contact.html">Adobe-Kundenunterstützung</a> , um herauszufinden, wer in Ihrem Unternehmen über Administratorrechte in der Konsole verfügt.</li>
+    <td><li>Vergewissern Sie sich, dass Ihr Adobe Org-Systemadministrator Ihnen eine Adobe Product Admin-Rolle zugewiesen hat.</li> 
+    <ul><li>Wenden Sie sich an das Adobe Account-Team (Ihren Kundenbetreuer) oder senden Sie eine E-Mail an <code>customercare@marketo.com</code> herauszufinden, wer in Ihrer Organisation <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Adobe Admin Console-Systemadministrator</a> -Berechtigungen.</li></ul>
     <li>Akzeptieren Sie die <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html">"Dynamic Chat Product Admin"</a> einladen. Die <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html">Willkommens-E-Mail</a> wird gesendet, wenn Dynamic Chat in Ihrer Marketo Engage-Instanz aktiviert ist und Sie als Systemadministrator benannt sind.</li></td>
   </tr>
   <tr>
@@ -121,4 +122,4 @@ Verwendung [Dynamic Chat](https://experienceleague.adobe.com/docs/marketo/using/
 
 <p>
 
-Nachdem Ihr Marketo Engage-Konto bereit ist, gehen Sie bitte in unsere [Best Practices für eine neue Marketo Engage-Instanz](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/where-to-start.md) , um Ihre Investition optimal zu nutzen und sich für langfristigen Erfolg zu etablieren.
+Nachdem Ihr Marketo Engage-Konto bereit ist, gehen Sie bitte in unsere [Best Practices für eine neue Marketo Engage-Instanz](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/where-to-start.md){target="_blank"} , um Ihre Investition optimal zu nutzen und sich für langfristigen Erfolg zu etablieren.
