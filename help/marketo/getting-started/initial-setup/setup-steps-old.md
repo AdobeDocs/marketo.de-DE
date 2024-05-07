@@ -6,7 +6,7 @@ hide: true
 hidefromtoc: true
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
 feature: Getting Started
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: d41a43d7579775c0c866e867f778962ff61ff044
 workflow-type: tm+mt
 source-wordcount: '2071'
 ht-degree: 0%
@@ -206,7 +206,7 @@ Sie haben jetzt alle Informationen, die Sie benötigen, um Ihre Anfrage an IT zu
 
 Sobald Sie alle erforderlichen Informationen gesammelt haben, können Sie eine Anfrage an die IT senden. Sie können den unten stehenden Text als Vorlage verwenden und den fett gedruckten Text durch Ihre eigenen Informationen ersetzen.
 
-[Link zu diesem Artikel einschließen](/help/marketo/getting-started/setup/configure-protocols-for-marketo.md).
+[Link zu diesem Artikel einschließen](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md).
 
 Fügen Sie diesen Text in die E-Mail ein und ersetzen Sie die fett hervorgehobenen Platzhalter:
 

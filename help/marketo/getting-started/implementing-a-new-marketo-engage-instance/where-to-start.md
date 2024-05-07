@@ -3,7 +3,7 @@ description: Lernen Sie die Best Practices bei der Implementierung einer neuen M
 title: Startpunkt
 feature: Getting Started
 exl-id: 91b751ab-88c5-4575-96f8-166f62f007e2
-source-git-commit: 7805983cdaff0b99a38aefc2c2467b53f3386da3
+source-git-commit: d41a43d7579775c0c866e867f778962ff61ff044
 workflow-type: tm+mt
 source-wordcount: '274'
 ht-degree: 0%
@@ -20,9 +20,9 @@ In diesem Handbuch &quot;Implementieren einer neuen Marketo Engage-Instanz&quot;
 
 Bevor Sie sich in die unten stehenden Checklisten für Best Practice eintauchen, stellen Sie sicher, dass Sie die Schritte im Bereich Ersteinrichtung befolgt haben.
 
-* [Einrichtungsschritte](/help/marketo/getting-started/initial-setup/initial-setup-tasks.md){target="_blank"}
+* [Einrichtungsschritte](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}
 
-* [Protokolle konfigurieren](/help/marketo/getting-started/initial-setup/initial-setup-tasks.md){target="_blank"}
+* [Protokolle konfigurieren](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"}
 
 * [Checkliste zur Benutzereinrichtung](/help/marketo/getting-started/initial-setup/user-setup.md){target="_blank"}
 
