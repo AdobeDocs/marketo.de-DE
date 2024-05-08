@@ -4,18 +4,18 @@ description: Dauerhafte Abmeldung - Marketo-Dokumente - Produktdokumentation
 title: Dauerhafte Abmeldung
 exl-id: e03a5a01-7395-45b3-8351-7931ec413236
 feature: Deliverability
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 35f5b33b01462b1cd00e29360daee465c7f18cf0
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
 
 # Dauerhafte Abmeldung {#durable-unsubscribe}
 
-Marketo hat das Verhalten der Abmeldefunktion verbessert, um sie &quot;dauerhaft&quot;zu machen. Wir haben einen Übergeordneten E-Mail-Status hinzugefügt, der sich von der Abmelde-Markierung unterscheidet, die auf dem Personendetaildatensatz angezeigt wird.
+Marketo hat das Verhalten der Abmeldefunktion verbessert, um sie &quot;dauerhaft&quot;zu machen. Wir haben einen Master-E-Mail-Status hinzugefügt, der sich von der Abmelde-Markierung unterscheidet, die auf dem Personendetaildatensatz angezeigt wird.
 
-Wenn die Markierung zum Abmelden von &quot;false&quot;auf &quot;true&quot;gesetzt ist, wird der Übergeordnete E-Mail-Status aktualisiert und die Änderung wird an andere Personen mit derselben E-Mail-Adresse weitergeleitet. Wenn eine Person entfernt und neu erstellt wird oder wenn ein neuer Datensatz mit derselben E-Mail-Adresse erstellt wird, wird das Abmelde-Flag **not** überschrieben werden.
+Wenn das Abmelde-Flag von false auf true gesetzt ist, wird der Master-E-Mail-Status aktualisiert und die Änderung wird an andere Personen mit derselben E-Mail-Adresse weitergeleitet. Wenn eine Person entfernt und neu erstellt wird oder wenn ein neuer Datensatz mit derselben E-Mail-Adresse erstellt wird, wird das Abmelde-Flag **not** überschrieben werden.
 
 >[!NOTE]
 >
@@ -41,21 +41,17 @@ Aktualisieren einer vorhandenen Person über die SOAP-API.
 
 ## Erstellen einer neuen Person {#creating-a-new-person}
 
-Wenn eine neue Person erstellt wird, prüft Marketo sie anhand der Übergeordneten E-Mail-Statustabelle. Wenn die Person zuvor abgemeldet wurde, werden wir den Datensatz aktualisieren, der abgemeldet werden soll.
+Wenn eine neue Person erstellt wird, prüft Marketo sie anhand der Master-E-Mail-Statustabelle. Wenn die Person zuvor abgemeldet wurde, werden wir den Datensatz aktualisieren, der abgemeldet werden soll.
 
 ## E-Mail-Adresse ändern {#changing-an-email-address}
 
 Wenn Sie die E-Mail-Adresse einer Person in eine abgemeldete E-Mail-Adresse ändern, wird diese Person abgemeldet. Diese Änderung kann entweder in Marketo oder in Salesforce vorgenommen werden.
 
-Wenn Sie eine abgemeldete E-Mail-Adresse in eine abonnierte Adresse ändern, wird diese Person angemeldet.
+Wenn Sie eine abgemeldete E-Mail-Adresse in eine abonnierte Adresse ändern, wird diese Person abonniert.
 
 ## Erneute Anmeldung {#re-subscribing}
 
 So wie eine Abmeldung dazu führen würde, dass sich alle Personen mit derselben E-Mail-Adresse abmelden, würde eine erneute Anmeldung tatsächlich jede Person mit derselben E-Mail-Adresse erneut abonnieren.
-
-## Aktivitätsprotokoll {#activity-log}
-
-Definitionen zur Datenwertänderung für _updateLeadEmailStatus_ und _resetLeadEmailStatus_ finden Sie unter [dieser Community-Artikel](https://nation.marketo.com/t5/Knowledgebase/Durable-Unsubscribe-Activity-Log/ta-p/252688).
 
 >[!MORELIKETHIS]
 >
