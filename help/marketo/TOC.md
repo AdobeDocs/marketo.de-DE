@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 1679d8fa3d4d58685471c7869a6d73689c9b4a51
+source-git-commit: c7069488ccb0444179cd995bec523ac4dd92da73
 workflow-type: tm+mt
-source-wordcount: '9329'
+source-wordcount: '9332'
 ht-degree: 3%
 
 ---
@@ -1736,6 +1736,7 @@ ht-degree: 3%
             + [Abonnieren eines einfachen Berichts](product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
             + [Smart-Liste abonnieren](product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md)
          + Berichtstypen {#report-types}
+            + [Bericht zur Kampagnenaktivität](product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
             + [Bericht zur E-Mail-Leistung von Campaign](product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
             + [Bericht zur Web-Aktivität des Unternehmens](product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
             + [Personen nach Status-Bericht](product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)

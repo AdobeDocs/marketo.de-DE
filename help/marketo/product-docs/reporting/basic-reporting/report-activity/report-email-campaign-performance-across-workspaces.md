@@ -4,16 +4,16 @@ description: Bericht-E-Mail, Leistung von Campaign über Arbeitsbereiche hinweg 
 title: Bericht-E-Mail, Leistung von Kampagnen über Arbeitsbereiche hinweg
 exl-id: e5b94f77-b6f6-4b9b-aef7-88a471929869
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: c7069488ccb0444179cd995bec523ac4dd92da73
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
 
 # Bericht-E-Mail, Leistung von Kampagnen über Arbeitsbereiche hinweg {#report-email-campaign-performance-across-workspaces}
 
-Aktivieren Sie die globale Berichterstellung , um Daten aus Ihrem gesamten Marketo einzubeziehen. [Arbeitsbereiche](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) in [E-Mail-Leistung](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md), [Leistung von E-Mail-Links](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md), und [Kampagnenaktivität](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md) Berichte.
+Aktivieren Sie die globale Berichterstellung , um Daten aus Ihrem gesamten Marketo einzubeziehen. [Arbeitsbereiche](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) in [E-Mail-Leistung](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) und [Leistung von E-Mail-Links](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) Berichte.
 
 1. Navigieren Sie zu **Analytics** (oder **Marketingaktivitäten**).
 

@@ -3,9 +3,9 @@ description: Marketo Engage-Glossar - Marketo Docs - Produktdokumentation
 title: Marketo Engage-Glossar
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: c7069488ccb0444179cd995bec523ac4dd92da73
 workflow-type: tm+mt
-source-wordcount: '4097'
+source-wordcount: '4085'
 ht-degree: 4%
 
 ---
@@ -129,11 +129,7 @@ Im Folgenden finden Sie Definitionen für viele der Begriffe, auf die Sie bei de
   <tr> 
    <td colspan="1"><strong>Kampagne</strong></td> 
    <td colspan="1">"Kampagne"könnte in Marketo einige Dinge bedeuten. A <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md" rel="nofollow">Kampagne</a> ist ein kürzerer Begriff für intelligente Kampagnen. In <strong>Marketo Sales Connect</strong>, <a href="/help/marketo/product-docs/marketo-sales-connect/campaigns/create-a-campaign.md" rel="nofollow">Kampagnen</a> sind eine Reihe von Schritten zur kanalübergreifenden Korrespondenz. In <strong>Web-Personalisierung</strong>, Web <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow">Kampagnen</a> sind benutzerspezifische Reaktionen, die mit einem bestimmten Segment verknüpft sind.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md" rel="nofollow">Bericht zur Kampagnenaktivität</a></strong></td> 
-   <td colspan="1">Berichtstyp, der anzeigt, wie <strong>Smart-Kampagnen</strong> die Leistung steigern.</td> 
-  </tr> 
+  </tr>
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md" rel="nofollow">Bericht zur E-Mail-Leistung von Campaign</a></strong></td> 
    <td colspan="1">Berichtstyp, der Metriken zur E-Mail-Leistung anzeigt, gruppiert nach <strong>Smart-Kampagne</strong>.</td> 

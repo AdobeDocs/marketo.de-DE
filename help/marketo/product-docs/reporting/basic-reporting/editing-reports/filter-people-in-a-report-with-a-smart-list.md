@@ -4,10 +4,10 @@ description: Personen in einem Bericht mit einer intelligenten Liste filtern - M
 title: Personen in einem Bericht mit einer intelligenten Liste filtern
 exl-id: f3cc38d1-35fd-424a-a024-949852edd6a7
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: c7069488ccb0444179cd995bec523ac4dd92da73
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 21%
+source-wordcount: '132'
+ht-degree: 20%
 
 ---
 
@@ -22,8 +22,7 @@ Sie können Smart-Listen mit diesen Berichtstypen verwenden:
 * [Personen nach Umsatzstadium](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md)
 * [E-Mail-Leistung](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
 * [E-Mail-Link-Leistung](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
-* [Engagement Stream Performance](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)
-* [Kampagnenaktivität](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
+* [Engagement-Stream Performance](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)
 * [Kampagnen-E-Mail-Leistung](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
 * [Unternehmens-Web-Aktivität](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
 * [Webseitenaktivität](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
@@ -32,7 +31,7 @@ Sie können Smart-Listen mit diesen Berichtstypen verwenden:
 
    ![](assets/image2017-3-27-11-3a31-3a2.png)
 
-1. Wählen Sie Ihren Bericht in der Navigationsstruktur aus und klicken Sie auf das **Smart List** Registerkarte.
+1. Wählen Sie Ihren Bericht in der Navigationsstruktur aus und klicken Sie auf die Schaltfläche **Smart List** Registerkarte.
 
    ![](assets/image2017-3-27-14-3a12-3a53.png)
 
