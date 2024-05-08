@@ -4,7 +4,7 @@ description: Kampagnenaktivitätsbericht filtern - Marketo-Dokumente - Produktdo
 title: Kampagnenaktivitätsbericht filtern
 exl-id: c34d6dfa-c635-4ca8-ad4f-bfa5cadaef2d
 feature: Reporting
-source-git-commit: e396542eb13e54306b0b7620d0092716a5be182f
+source-git-commit: 0a4c889d22232f7da8f4dda2f077bba1873cd1b2
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
@@ -21,15 +21,15 @@ Fokus [Bericht zur Kampagnenaktivität](/help/marketo/product-docs/reporting/bas
 
 1. Navigieren Sie zu **Marketingaktivitäten** (oder **Analytics**) und wählen Sie den Bericht zur Kampagnenaktivität aus.
 
-   ![](assets/image2014-9-16-16-3a13-3a56.png)
+   ![](assets/filter-a-campaign-activity-report-1.png)
 
 1. Klicken Sie auf **Einrichtung** Registerkarte und Doppelklick **Kampagnen**.
 
-   ![](assets/image2014-9-16-16-3a14-3a1.png)
+   ![](assets/filter-a-campaign-activity-report-2.png)
 
 1. Wählen Sie die Ordner und spezifischen Smart-Kampagnen aus, die in Ihren Bericht aufgenommen werden sollen. Klicks **Anwenden**.
 
-   ![](assets/image2014-9-16-16-3a14-3a11.png)
+   ![](assets/filter-a-campaign-activity-report-3.png)
 
    >[!TIP]
    >
@@ -37,7 +37,7 @@ Fokus [Bericht zur Kampagnenaktivität](/help/marketo/product-docs/reporting/bas
 
 1. Du bist fertig! Klicken Sie auf **Bericht** Registerkarte anzuzeigen _just_ die in Ihrem Bericht ausgewählten Smart-Kampagnen.
 
-   ![](assets/image2014-9-16-16-3a14-3a32.png)
+   ![](assets/filter-a-campaign-activity-report-4.png)
 
 >[!MORELIKETHIS]
 >
