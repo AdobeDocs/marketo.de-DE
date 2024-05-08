@@ -4,9 +4,9 @@ description: Einrichten von LinkedIn Lead Gen Forms - Marketo Docs - Produktdoku
 title: Einrichten von LinkedIn Lead Gen Forms
 exl-id: 554a546c-adeb-4132-830d-ff15ba5cf9a1
 feature: Social
-source-git-commit: e1254c8156557b27d066a4482076becbd03fc774
+source-git-commit: 94ca714d038863ad801551960c66086ea47e6b10
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '511'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Einrichten von LinkedIn Lead Gen Forms {#set-up-linkedin-lead-gen-forms}
 
 Verwenden Sie LinkedIn Lead Gen Forms, um Werbekampagnen in LinkedIn auszuführen und Leads für Marketo zu generieren.
+
+>[!IMPORTANT]
+>
+>LinkedIn aktualisiert ihre Marketing-APIs, die von Marketo Engage LinkedIn-Integrationen verwendet werden. Diese Änderungen erfordern eine erneute Authentifizierung aller LinkedIn LaunchPoint-Dienste in Ihren **Admin** > **LaunchPoint** zwischen dem 7. Juni und dem 15. Dezember 2024, um Dienstunterbrechungen zu vermeiden. Weitere Informationen finden Sie im [Häufig gestellte Fragen zur Migration](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
 
 >[!NOTE]
 >
@@ -51,7 +55,7 @@ Verwenden Sie LinkedIn Lead Gen Forms, um Werbekampagnen in LinkedIn auszuführe
 
    ![](assets/linkedin-marketo-allow.png)
 
-1. Du wirst feststellen, dass du jetzt autorisiert bist. Klicken Sie auf **Weiter**.
+1. Du wirst feststellen, dass du jetzt autorisiert bist. Klicks **Nächste**.
 
    ![](assets/image2017-9-28-7-3a55-3a14.png)
 

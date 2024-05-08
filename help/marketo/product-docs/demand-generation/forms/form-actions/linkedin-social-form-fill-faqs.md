@@ -2,11 +2,13 @@
 unique-page-id: 10098238
 description: Häufig gestellte Fragen zu linkedIn Social-Formulardateien - Marketo-Dokumente - Produktdokumentation
 title: Häufig gestellte Fragen zur linkedIn Social-Formularbearbeitung
+hide: true
+hidefromtoc: true
 exl-id: ce87b918-5b45-418f-9b42-8e8275f2e60a
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 94ca714d038863ad801551960c66086ea47e6b10
 workflow-type: tm+mt
-source-wordcount: '558'
+source-wordcount: '545'
 ht-degree: 0%
 
 ---
@@ -37,9 +39,9 @@ Bevor wir diese Änderung vorgenommen haben, haben wir wöchentliche Benachricht
 
 Ja. Die Änderung wirkt sich nur auf die LinkedIn Social-Funktion zum Ausfüllen von Formularen aus.
 
-## Funktionieren Facebook und Twitter Social-Formulare weiterhin? {#do-facebook-and-twitter-social-form-fill-still-work}
+## Funktionieren Facebook und Twitter Social-Formularelemente weiterhin? {#do-facebook-and-twitter-social-form-fill-still-work}
 
-Ja. Die Formularfelder für facebook und Twitter Social wurden nicht geändert.
+Ja. Die facebook- und Twitter Social-Formularelemente wurden nicht geändert.
 
 ## Ist etwas mit den Daten passiert, die wir bereits über LinkedIn Social Form Fill erfasst haben? {#did-anything-happen-to-the-data-we-already-captured-via-linkedin-social-form-fill}
 
@@ -61,11 +63,11 @@ Nein, Ihre Formulare, aus denen diese Funktion entfernt wurde, blieben veröffen
 
 Nein, wir entfernen nur die LinkedIn-Schaltfläche aus Ihrem Formular. Jedes Mal, wenn die Social-Formularfüllung auf ein Formular angewendet wird, wird darüber ein Container erstellt, der die Schaltflächen zum Ausfüllen von Social-Formularen enthält. Wenn vor dem 28. April 2016 LinkedIn die einzige Option war, ähnelte das Erscheinungsbild des Containers diesem Bild:
 
-![--](assets/one.png)
+![—](assets/one.png)
 
 Nach dem 28. April 2016 ist jetzt oben in allen Formularen ein leerer Container übrig, in dem die LinkedIn Social-Formularelemente entfernt wurden:
 
-![--](assets/two.png)
+![—](assets/two.png)
 
 >[!NOTE]
 >

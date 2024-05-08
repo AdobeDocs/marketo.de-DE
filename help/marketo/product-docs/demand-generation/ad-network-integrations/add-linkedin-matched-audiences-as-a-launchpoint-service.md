@@ -4,14 +4,18 @@ description: Hinzufügen von LinkedIn Matched Audiences als LaunchPoint-Dienst -
 title: Hinzufügen von LinkedIn Matched Audiences als LaunchPoint-Dienst
 exl-id: 82096b19-aae9-4086-8fb4-defc5481d382
 feature: Integrations
-source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
+source-git-commit: 94ca714d038863ad801551960c66086ea47e6b10
 workflow-type: tm+mt
-source-wordcount: '179'
-ht-degree: 2%
+source-wordcount: '224'
+ht-degree: 1%
 
 ---
 
 # Hinzufügen von LinkedIn Matched Audiences als LaunchPoint-Dienst {#add-linkedin-matched-audiences-as-a-launchpoint-service}
+
+>[!IMPORTANT]
+>
+>LinkedIn aktualisiert ihre Marketing-APIs, die von Marketo Engage LinkedIn-Integrationen verwendet werden. Diese Änderungen erfordern eine erneute Authentifizierung aller LinkedIn LaunchPoint-Dienste in Ihren **Admin** > **LaunchPoint** zwischen dem 7. Juni und dem 15. Dezember 2024, um Dienstunterbrechungen zu vermeiden. Weitere Informationen finden Sie im [Häufig gestellte Fragen zur Migration](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
 
 >[!NOTE]
 >
