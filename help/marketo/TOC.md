@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 94ca714d038863ad801551960c66086ea47e6b10
+source-git-commit: a6745e4a5321000bc1c91ef99c5f265b4c6c5760
 workflow-type: tm+mt
-source-wordcount: '9336'
+source-wordcount: '9349'
 ht-degree: 3%
 
 ---
@@ -657,6 +657,16 @@ ht-degree: 3%
          + [Dynamische Chat-Aktivitäten](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
          + [Analytics](product-docs/demand-generation/dynamic-chat/analytics.md)
          + [FAQs](product-docs/demand-generation/dynamic-chat/faq.md)
+         + Einrichtung und Konfiguration {#setup-and-configuration}
+            + [Ersteinrichtung](product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md)
+            + [Hinzufügen oder Entfernen von Chat-Benutzern](product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md)
+            + [Berechtigungen](product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md)
+            + [Konfiguration](product-docs/demand-generation/dynamic-chat/setup-and-configuration/configuration.md)
+            + [Agenteneinstellungen](product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md)
+            + [Agentenverwaltung](product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md)
+            + [Sicherheitseinstellungen](product-docs/demand-generation/dynamic-chat/setup-and-configuration/security-settings.md)
+            + [Routing](product-docs/demand-generation/dynamic-chat/setup-and-configuration/routing.md)
+            + [Callback-Funktionen](product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md)
          + Automatisierter Chat {#automated-chat}
             + [Übersicht über den Konversationsfluss](product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md)
             + [Konversationsfluss erstellen](product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md)
@@ -672,16 +682,12 @@ ht-degree: 3%
             + [Live-Chat-Übersicht](product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md)
             + [Agenten-Posteingang](product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md)
             + [Benachrichtigungen](product-docs/demand-generation/dynamic-chat/live-chat/notifications.md)
-         + Einrichtung und Konfiguration {#setup-and-configuration}
-            + [Ersteinrichtung](product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md)
-            + [Hinzufügen oder Entfernen von Chat-Benutzern](product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md)
-            + [Berechtigungen](product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md)
-            + [Konfiguration](product-docs/demand-generation/dynamic-chat/setup-and-configuration/configuration.md)
-            + [Agenteneinstellungen](product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md)
-            + [Agentenverwaltung](product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md)
-            + [Sicherheitseinstellungen](product-docs/demand-generation/dynamic-chat/setup-and-configuration/security-settings.md)
-            + [Routing](product-docs/demand-generation/dynamic-chat/setup-and-configuration/routing.md)
-            + [Callback-Funktionen](product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md)
+         + Generative KI {#generative-ai}
+            + [Übersicht über generative KI](product-docs/demand-generation/dynamic-chat/generative-ai/overview.md)
+            + [Fragengenerierung](product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md)
+            + [Reaktionsbibliothek](product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md)
+            + [Aktivitätsprotokoll](product-docs/demand-generation/dynamic-chat/generative-ai/activity-log.md)
+            + [Nicht beantwortete Fragen](product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md)
       + Veranstaltungen {#events}
          + Verstehen von Ereignissen {#understanding-events}
             + [Hinzufügen von Mitgliedern zu einem Veranstaltungsprogramm](product-docs/demand-generation/events/understanding-events/adding-members-to-an-event-program.md)
