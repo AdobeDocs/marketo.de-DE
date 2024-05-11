@@ -4,9 +4,9 @@ title: Fragengenerierung
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: a6745e4a5321000bc1c91ef99c5f265b4c6c5760
+source-git-commit: 9ba9e80e9dcfb2ac835d172635489cc65307270c
 workflow-type: tm+mt
-source-wordcount: '409'
+source-wordcount: '411'
 ht-degree: 0%
 
 ---
@@ -37,11 +37,11 @@ Sehen Sie sich all Ihre Aufgaben und ihre relevanten Details an, z. B. wann sie 
 
    ![](assets/question-generation-4.png)
 
->[!TIP]
->
->Der Status auf der Seite wird nicht in Echtzeit aktualisiert. Drücken Sie die Aktualisierung, um zu sehen, wann der Vorgang von &quot;Verarbeitung&quot;zu &quot;Abgeschlossen&quot;geht.
+   >[!TIP]
+   >
+   >Der Status auf der Seite wird nicht in Echtzeit aktualisiert. Drücken Sie die Aktualisierung, um zu sehen, wann der Vorgang von &quot;Verarbeitung&quot;zu &quot;Abgeschlossen&quot;geht.
 
-![](assets/question-generation-5.png)
+   ![](assets/question-generation-5.png)
 
 ## Herunterladen von Fragen und Antworten {#download-questions-and-responses}
 
@@ -53,7 +53,7 @@ Sehen Sie sich all Ihre Aufgaben und ihre relevanten Details an, z. B. wann sie 
 
    ![](assets/question-generation-6.png)
 
-1. Suchen Sie den Ordner Downloads in Ihrem Browser und wählen Sie die Datei aus. Dies kann je nach Browser unterschiedlich aussehen.
+1. Suchen Sie den Ordner Downloads in Ihrem Browser und wählen Sie die Datei aus. Dies kann je nach verwendetem Browser anders aussehen.
 
    ![](assets/question-generation-7.png)
 

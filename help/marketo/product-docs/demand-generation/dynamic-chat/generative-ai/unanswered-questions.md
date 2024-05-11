@@ -4,16 +4,16 @@ title: Nicht beantwortete Fragen
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: a6745e4a5321000bc1c91ef99c5f265b4c6c5760
+source-git-commit: 9ba9e80e9dcfb2ac835d172635489cc65307270c
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '103'
 ht-degree: 3%
 
 ---
 
 # Nicht beantwortete Fragen {#unanswered-questions}
 
-Sehen Sie sich alle Fragen an, die der Chatbot nicht beantworten konnte oder die Besucher, die als &quot;nicht hilfreich&quot;gekennzeichnet waren, und verwenden Sie diese wertvollen Informationen, um zusätzliche vorab genehmigte Antworten zu erstellen.
+Sehen Sie sich alle Fragen an, die der Chatbot nicht beantworten konnte und/oder die Besucher, die als &quot;nicht hilfreich&quot;gekennzeichnet waren, und verwenden Sie diese wertvollen Informationen, um zusätzliche vorab genehmigte Antworten zu erstellen.
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ Sehen Sie sich alle Fragen an, die der Chatbot nicht beantworten konnte oder die
 
    ![](assets/unanswered-questions-2.png)
 
-1. Wählen Sie die unbeantwortete Frage aus, für die Sie eine Antwort generieren möchten.
+1. Wählen Sie die unbeantwortete Frage aus, für die Sie eine Antwort erstellen möchten.
 
    ![](assets/unanswered-questions-3.png)
 
