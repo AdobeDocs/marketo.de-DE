@@ -4,10 +4,10 @@ title: Übersicht über generative KI
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: a6745e4a5321000bc1c91ef99c5f265b4c6c5760
+source-git-commit: d76230bb5feeaa4c75964a69eba070aca1bf8c6a
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 5%
+source-wordcount: '130'
+ht-degree: 6%
 
 ---
 
@@ -17,24 +17,24 @@ Generative KI in Adobe Dynamic Chat ermöglicht es Ihnen, die Erstellung von Mar
 
 ## Generierung von Fragen {#question-generation}
 
-Erhöhen Sie eingehende Erlebnisse mit KI-gestützten Unterhaltungen für Besucher, indem Sie eine mit Vertrieb, Marketing und Produktwissen trainierte Benutzeroberfläche verwenden.
+[Erhöhen eingehender Erlebnisse](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md) mit KI-gestützten Konversationen für Besucher, die eine mit Vertrieb, Marketing und Produktwissen trainierte Benutzeroberfläche verwenden.
 
-SCREENSHOT
+![](assets/generative-ai-overview-1.png)
 
 ## Antwortbibliothek {#response-library}
 
-Erstellen Sie eine benutzerdefinierte Sammlung von Fragen und Antworten, die alle von Ihnen vorab genehmigt wurden und innerhalb von Generative AI-Chat-Kampagnen verwendet werden können.
+[Erstellen einer benutzerdefinierten Sammlung](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) Fragen und Antworten, die alle von Ihnen vorab genehmigt wurden, zur Verwendung in generativen KI-Chat-Kampagnen.
 
-SCREENSHOT
+![](assets/generative-ai-overview-2.png)
 
 ## Aktivitätsprotokoll {#activity-log}
 
-Sehen Sie sich eine Liste aller Aufgaben und der zugehörigen Details an, einschließlich Name, Eigentümer, Typ und Zeitpunkt der Bearbeitung.
+[Liste aller Aufgaben anzeigen](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/activity-log.md) und die zugehörigen Details, einschließlich Name, Eigentümer, Typ und wer sie bearbeitet hat und wann.
 
-SCREENSHOT
+![](assets/generative-ai-overview-3.png)
 
 ## Unbeantwortete Fragen {#unanswered-questions}
 
-Erstellen Sie mithilfe von KI zusätzliche vorab genehmigte Antworten für Ihre Antwortbibliothek, die auf einem Repository mit unbeantworteten Fragen aus früheren Konversationen basieren.
+[Zusätzliche vorab genehmigte Antworten erstellen](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md) für Ihre Antwortbibliothek mit AI auf Grundlage eines Repositorys mit unbeantworteten Fragen aus früheren Konversationen.
 
-SCREENSHOT
+![](assets/generative-ai-overview-4.png)

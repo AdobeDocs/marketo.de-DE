@@ -4,10 +4,10 @@ title: Reaktionsbibliothek
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: a6745e4a5321000bc1c91ef99c5f265b4c6c5760
+source-git-commit: d76230bb5feeaa4c75964a69eba070aca1bf8c6a
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 4%
+source-wordcount: '366'
+ht-degree: 2%
 
 ---
 
@@ -57,24 +57,49 @@ Zeigen Sie an einer zentralen Stelle alle Ihre Fragen, ihren Genehmigungsstatus 
 
 ## Massenbearbeitung und Hochladen von Fragen/Antworten {#bulk-edit-and-upload-questions-responses}
 
-1. Text
+Anweisungen zum Durchführen von Massenbearbeitungen in der heruntergeladenen Excel-Datei finden Sie unten. Sie werden auch auf der Registerkarte Aufgabendetails der Datei angezeigt.
 
-SCREENSHOT
+<table>
+<thead>
+  <tr>
+    <th>Aktion</th>
+    <th>Anleitung</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Frage bearbeiten</td>
+    <td>Geben Sie die neue Frage in die Spalte "bearbeitete Frage"(Spalte H) ein.</td>
+  </tr>
+  <tr>
+    <td>Antworten bearbeiten</td>
+    <td>Geben Sie die neue Antwort in die Spalte "editingResponse"(Spalte I) ein.</td>
+  </tr>
+  <tr>
+    <td>Neue Frage hinzufügen</td>
+    <td>Geben Sie die neue Frage in die Spalte "bearbeitete Frage"(Spalte H) ein und lassen Sie "Fragebeantwortet"leer. Sie müssen auch ein passendes Thema in die Spalte "topics"(Spalte C) und eine Quell-URL in die Spalte "sourceUr!" eingeben.</td>
+  </tr>
+  <tr>
+    <td>Frage und Antwort hinzufügen</td>
+    <td>Geben Sie die neue Frage in die Spalte "bearbeitete Frage"(Spalte H), die neue Antwort in Spalte "bearbeitete Antwort"(Spalte I) ein und lassen Sie "Fragebeantwortet"leer. Sie müssen auch ein entsprechendes Thema in die Spalte "Themen"(Spalte C) eingeben</td>
+  </tr>
+</tbody>
+</table>
 
-1. Text
+1. Nachdem Sie die Änderungen in Ihrer Datei vorgenommen haben, kehren Sie zur Registerkarte &quot;Response Library&quot;zurück und klicken Sie auf &quot;Upload responses&quot;.
 
-SCREENSHOT
+   ![](assets/response-library-9.png)
 
-1. Text
+1. Geben Sie den entsprechenden Aufgabennamen ein. Ziehen Sie die Datei per Drag-and-Drop in den Arbeitsbereich, suchen Sie sie auf Ihrem Gerät und wählen Sie sie aus. Klicken Sie auf **Speichern**, wenn Sie fertig sind.
 
-SCREENSHOT
+   ![](assets/response-library-10.png)
 
-1. Text
+1. Die Bestätigung wird angezeigt und Sie sind alle festgelegt.
 
-SCREENSHOT
+   ![](assets/response-library-11.png)
 
 ## Fragen filtern {#filter-your-questions}
 
 Standardmäßig werden Fragen in der Reihenfolge nach Erstellungszeitpunkt/Erstellungsdatum aufgelistet, wobei die neuesten zuerst angezeigt werden. Wenn Sie nach einer bestimmten Frage suchen, wenden Sie Filter an, um Ihre Suche einzuschränken. Filtern Sie nach Themen, Aufgabennamen und/oder Genehmigungsstatus.
 
-SCREENSHOT
+![](assets/response-library-12.png)
