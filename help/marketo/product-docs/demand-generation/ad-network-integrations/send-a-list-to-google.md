@@ -4,16 +4,17 @@ title: Senden einer Liste an Google
 hide: true
 hidefromtoc: true
 feature: Integrations
-source-git-commit: 90ccae3e7390db36e45e2a391482df4ec34447d3
+exl-id: d28d828c-3d83-44ca-85de-1207c55ec911
+source-git-commit: d0430078eaec5686ebded1e59e0eb4560b35ab44
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '208'
 ht-degree: 0%
 
 ---
 
 # Senden einer Liste an Google {#send-a-list-to-google}
 
-Gehen Sie wie folgt vor, um eine statische Liste an Ihr Google-Konto zu senden.
+Für diejenigen, die Google-Kundenabgleich verwenden, führen Sie die folgenden Schritte aus, um eine statische Marketo Engage-Liste an Ihr Google-Konto zu senden.
 
 1. Suchen und wählen Sie unter Marketo Engage die gewünschte Liste aus.
 
@@ -39,7 +40,7 @@ Gehen Sie wie folgt vor, um eine statische Liste an Ihr Google-Konto zu senden.
    >
    >* Auswählen **Zielgruppenmitgliedschaft synchronisieren** hält die Liste bei Änderungen in Ihrer Instanz auf dem neuesten Stand. Wir fügen Personen zur Zielgruppe hinzu/entfernen sie aus der statischen Liste.
    >
-   >* Wenn Sie das Kontrollkästchen unten aktivieren, wird der Zustimmungsstatus für Benutzerdaten, die zu Werbe- und Anzeigenpersonalisierungszwecken an Google Ads gesendet werden, als GRANTED gesendet. Wenn die Option deaktiviert bleibt, wird der Status der Zustimmung als UNSPEZIFIED gesendet.
+   >* Wenn Sie das Kontrollkästchen unten aktivieren, wird der Zustimmungsstatus für Benutzerdaten, die zu Werbe- und Anzeigenpersonalisierungszwecken an Google Ads gesendet werden, als GRANTED gesendet. Wenn die Option deaktiviert bleibt, wird der Status der Zustimmung als UNSPEZIFIED gesendet. Für diejenigen, die Daten für Nutzer im Europäischen Wirtschaftsraum (EWR) hochladen möchten, hat Google eine Liste von [FAQs](https://support.google.com/google-ads/answer/14310715)sowie zusätzliche Details, die die [EU-Zustimmungspolitik für Benutzer](https://www.google.com/about/company/user-consent-policy/).
 
 1. Klicks **Aktualisieren**.
 
