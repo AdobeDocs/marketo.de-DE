@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Dynamic Chat
 exl-id: 2ec6409b-f2c8-42a4-94e0-5d2cd331a0a6
-source-git-commit: cc16ec5dd5c6671ba9265042e108d0ff76b0e16d
+source-git-commit: ed8f0f5543e66ab6e6df5a97ac9a6cf55931daba
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '359'
 ht-degree: 3%
 
 ---
@@ -16,41 +16,47 @@ ht-degree: 3%
 
 Generative KI in Adobe Dynamic Chat verarbeitet Intent-Signale, Benutzereinstellungen und vergangenes Verhalten in Echtzeit, um relevante, personalisierte Nachrichten für Chat-Besucher zu generieren.
 
+## Berechtigungen {#permissions}
+
+Um generative KI verwenden zu können, müssen Sie den gewünschten Benutzern die entsprechenden [Berechtigungen](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md).
+
+![](assets/generative-ai-overview-1.png)
+
 ## Generierungsreaktionskarte {#generation-response-card}
 
 Erstellen Sie eine Nachricht für den Besucher, wenn er einen bestimmten Punkt in der Konversation erreicht. Stellen Sie eine Reihe von Fragen, die sie auf einmal stellen können, um Ihren gewünschten wichtigen Leistungsindikator zu erreichen. Fügen Sie bis zu 5 Folgenachfragen hinzu und fügen Sie eine Fallback-Nachricht hinzu, wenn für die Frage eines Besuchers keine Antwort verfügbar ist.
 
-(assets/generative-ai-overview-1.png
+![](assets/generative-ai-overview-2.png)
 
 ## Zusammenfassung des Gesprächs {#conversation-summary}
 
 Um den vollständigen Kontext einer Besucherkonversation zu erhalten, müssen Sie in der Regel durch das gesamte Chat-Transkript blättern. Die Zusammenfassung der Unterhaltungen generiert eine Zusammenfassung für Sie in Echtzeit und enthält sogar Themen, an denen der Besucher Interesse gezeigt hat. Dies ist besonders nützlich für Chat-Agenten, die einen schnellen Kontext für eine Konversation benötigen, wenn sie zwischen Chats mit mehreren Besuchern wechseln.
 
-(assets/generative-ai-overview-2.png
+![](assets/generative-ai-overview-3.png)
 
 ## Generierung von Fragen {#question-generation}
 
 [Erhöhen eingehender Erlebnisse](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md) mit KI-gestützten Konversationen für Besucher, die eine mit Vertrieb, Marketing und Produktwissen trainierte Benutzeroberfläche verwenden.
 
-![](assets/generative-ai-overview-1.png)
+![](assets/generative-ai-overview-4.png)
 
 ## Antwortbibliothek {#response-library}
 
 [Erstellen einer benutzerdefinierten Sammlung](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) Fragen und Antworten, die alle von Ihnen vorab genehmigt wurden, zur Verwendung in generativen KI-Chat-Kampagnen.
 
-![](assets/generative-ai-overview-2.png)
+![](assets/generative-ai-overview-5.png)
 
 ## Aktivitätsprotokoll {#activity-log}
 
 [Liste aller Aufgaben anzeigen](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/activity-log.md) und die zugehörigen Details, einschließlich Name, Eigentümer, Typ und wer sie bearbeitet hat und wann.
 
-![](assets/generative-ai-overview-3.png)
+![](assets/generative-ai-overview-6.png)
 
 ## Unbeantwortete Fragen {#unanswered-questions}
 
 [Zusätzliche vorab genehmigte Antworten erstellen](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md) für Ihre Antwortbibliothek mit KI, die auf einem Repository basiert, VERWENDEN SIE UNTERSCHIEDLICHE WORD unbeantworteter Fragen aus früheren Konversationen.
 
-![](assets/generative-ai-overview-4.png)
+![](assets/generative-ai-overview-7.png)
 
 >[!IMPORTANT]
 >
@@ -69,12 +75,3 @@ Ja. Derzeit ist die Lebensdauer auf 1000 begrenzt.
 **Welche Sprachen gibt es in der generativen KI?**
 
 Derzeit wird in generativen KI nur Englisch unterstützt.
-
-
-
-FÜR KG UNTEN...
-
-VIDEO - 13:09 - SHORTCUTS
-
-
-
