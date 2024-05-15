@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Integrations
 exl-id: d28d828c-3d83-44ca-85de-1207c55ec911
-source-git-commit: d0430078eaec5686ebded1e59e0eb4560b35ab44
+source-git-commit: cc16ec5dd5c6671ba9265042e108d0ff76b0e16d
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ Für diejenigen, die Google-Kundenabgleich verwenden, führen Sie die folgenden 
    >
    >* Auswählen **Zielgruppenmitgliedschaft synchronisieren** hält die Liste bei Änderungen in Ihrer Instanz auf dem neuesten Stand. Wir fügen Personen zur Zielgruppe hinzu/entfernen sie aus der statischen Liste.
    >
-   >* Wenn Sie das Kontrollkästchen unten aktivieren, wird der Zustimmungsstatus für Benutzerdaten, die zu Werbe- und Anzeigenpersonalisierungszwecken an Google Ads gesendet werden, als GRANTED gesendet. Wenn die Option deaktiviert bleibt, wird der Status der Zustimmung als UNSPEZIFIED gesendet. Für diejenigen, die Daten für Nutzer im Europäischen Wirtschaftsraum (EWR) hochladen möchten, hat Google eine Liste von [FAQs](https://support.google.com/google-ads/answer/14310715)sowie zusätzliche Details, die die [EU-Zustimmungspolitik für Benutzer](https://www.google.com/about/company/user-consent-policy/).
+   >* Wenn Sie das Kontrollkästchen unten aktivieren, wird der Zustimmungsstatus für Benutzerdaten, die zu Werbe- und Anzeigenpersonalisierungszwecken an Google Ads gesendet werden, als GRANTED gesendet. Wenn die Option deaktiviert bleibt, wird der Status der Zustimmung als UNSPEZIFIED gesendet. Für diejenigen, die Daten für Nutzer im Europäischen Wirtschaftsraum (EWR) hochladen möchten, hat Google eine Liste von [FAQs](https://support.google.com/google-ads/answer/14310715){target="_blank"}, as well as additional details outlining the [EU user consent policy](https://www.google.com/about/company/user-consent-policy/){target="_blank"}.
 
 1. Klicks **Aktualisieren**.
 

@@ -4,9 +4,10 @@ title: Reaktionsbibliothek
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: d76230bb5feeaa4c75964a69eba070aca1bf8c6a
+exl-id: 774346fa-f633-48e8-a489-999404b6070b
+source-git-commit: cc16ec5dd5c6671ba9265042e108d0ff76b0e16d
 workflow-type: tm+mt
-source-wordcount: '366'
+source-wordcount: '365'
 ht-degree: 2%
 
 ---
@@ -17,27 +18,27 @@ Zeigen Sie an einer zentralen Stelle alle Ihre Fragen, ihren Genehmigungsstatus 
 
 ## Manuelles Hinzufügen einer Frage {#manually-add-a-question}
 
-1. Klicken Sie unter Generative KI auf **Unterstützte Antworten**.
+1. Klicken Sie unter Generative KI auf **[!UICONTROL Unterstützte Antworten]**.
 
    ![](assets/response-library-1.png)
 
-1. Klicken Sie auf **Reaktionsbibliothek** Registerkarte.
+1. Klicken Sie auf **[!UICONTROL Reaktionsbibliothek]** Registerkarte.
 
    ![](assets/response-library-2.png)
 
-1. Klicks **Frage hinzufügen**.
+1. Klicks **[!UICONTROL Frage hinzufügen]**.
 
    ![](assets/response-library-3.png)
 
-1. Geben Sie Ihre Frage und Antwort ein. Weisen Sie ein Thema zu und fügen Sie eine optionale URL hinzu, die Benutzer für Besucher freigeben können. Klicken Sie auf **Speichern**, wenn Sie fertig sind.
+1. Geben Sie Ihre Frage und Antwort ein. Weisen Sie ein Thema zu und fügen Sie eine optionale URL hinzu, die Benutzer für Besucher freigeben können. Klicken Sie auf **[!UICONTROL Speichern]**, wenn Sie fertig sind.
 
    ![](assets/response-library-4.png)
 
-1. Klicken Sie auf &quot;Aktualisieren&quot;. Ihre neue Frage wird oben mit dem Status &quot;Verarbeitung&quot;angezeigt.
+1. Klicken Sie auf &quot;Aktualisieren&quot;, und Ihre neue Frage wird oben mit dem Status &quot;[!UICONTROL Verarbeitung].&quot;
 
    ![](assets/response-library-5.png)
 
-1. Klicken Sie nach einigen Minuten erneut auf und der Status ändert sich in &quot;Genehmigt&quot;.
+1. Nach einigen Minuten aktualisieren Sie erneut und der Status ändert sich in &quot;Genehmigt&quot;.
 
    ![](assets/response-library-6.png)
 
@@ -45,13 +46,13 @@ Zeigen Sie an einer zentralen Stelle alle Ihre Fragen, ihren Genehmigungsstatus 
 
 >[!NOTE]
 >
->Allen generierten Fragen und Antworten wird standardmäßig der Status &quot;Überprüfung erforderlich&quot;zugewiesen. Chat-Besuchern stehen nur &quot;genehmigte&quot;Fragen und Antworten zur Verfügung.
+>Allen generierten Fragen und Antworten wird die &quot;[!UICONTROL Bedarfsprüfung]Der Status ist standardmäßig verfügbar. Nur &quot;[!UICONTROL genehmigt]&quot;Fragen und Antworten werden den Chatbesuchern zur Verfügung gestellt.
 
-1. Im **Reaktionsbibliothek** klicken Sie auf die gewünschte Frage.
+1. Im **[!UICONTROL Reaktionsbibliothek]** klicken Sie auf die gewünschte Frage.
 
    ![](assets/response-library-7.png)
 
-1. Nehmen Sie die gewünschten Änderungen vor und klicken Sie auf **Speichern**.
+1. Nehmen Sie Ihre Änderungen vor und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/response-library-8.png)
 
@@ -77,7 +78,7 @@ Anweisungen zum Durchführen von Massenbearbeitungen in der heruntergeladenen Ex
   </tr>
   <tr>
     <td>Neue Frage hinzufügen</td>
-    <td>Geben Sie die neue Frage in die Spalte "bearbeitete Frage"(Spalte H) ein und lassen Sie "Fragebeantwortet"leer. Sie müssen auch ein passendes Thema in die Spalte "topics"(Spalte C) und eine Quell-URL in die Spalte "sourceUr!" eingeben.</td>
+    <td>Geben Sie die neue Frage in die Spalte "bearbeitete Frage"(Spalte H) ein und lassen Sie "Fragebeantwortet"leer. Sie müssen auch ein entsprechendes Thema in die Spalte "Themen"(Spalte C) und eine Quell-URL in die Spalte "sourceUr!" eingeben.</td>
   </tr>
   <tr>
     <td>Frage und Antwort hinzufügen</td>
@@ -86,11 +87,11 @@ Anweisungen zum Durchführen von Massenbearbeitungen in der heruntergeladenen Ex
 </tbody>
 </table>
 
-1. Nachdem Sie die Änderungen in Ihrer Datei vorgenommen haben, kehren Sie zur Registerkarte &quot;Response Library&quot;zurück und klicken Sie auf &quot;Upload responses&quot;.
+1. Nachdem Sie die Änderungen in Ihrer Datei vorgenommen haben, kehren Sie zum **[!UICONTROL Reaktionsbibliothek]** Registerkarte und klicken Sie auf **[!UICONTROL Antworten hochladen]**.
 
    ![](assets/response-library-9.png)
 
-1. Geben Sie den entsprechenden Aufgabennamen ein. Ziehen Sie die Datei per Drag-and-Drop in den Arbeitsbereich, suchen Sie sie auf Ihrem Gerät und wählen Sie sie aus. Klicken Sie auf **Speichern**, wenn Sie fertig sind.
+1. Geben Sie den entsprechenden Aufgabennamen ein. Ziehen Sie die Datei per Drag-and-Drop in den Arbeitsbereich, suchen Sie sie auf Ihrem Gerät und wählen Sie sie aus. Klicken Sie auf **[!UICONTROL Speichern]**, wenn Sie fertig sind.
 
    ![](assets/response-library-10.png)
 

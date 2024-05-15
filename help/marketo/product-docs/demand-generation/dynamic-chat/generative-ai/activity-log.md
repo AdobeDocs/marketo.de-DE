@@ -4,7 +4,8 @@ title: Aktivitätsprotokoll
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: a6745e4a5321000bc1c91ef99c5f265b4c6c5760
+exl-id: cddeccc3-3093-48b4-9b8a-13269b5b51e5
+source-git-commit: cc16ec5dd5c6671ba9265042e108d0ff76b0e16d
 workflow-type: tm+mt
 source-wordcount: '51'
 ht-degree: 7%
@@ -15,11 +16,11 @@ ht-degree: 7%
 
 Sehen Sie sich eine Liste aller Aufgaben und der zugehörigen Details an, einschließlich Name, Eigentümer, Typ und Zeitpunkt der Bearbeitung.
 
-1. Klicken Sie unter Generative KI auf **Unterstützte Antworten**.
+1. Klicken Sie unter Generative KI auf **[!UICONTROL Unterstützte Antworten]**.
 
    ![](assets/activity-log-1.png)
 
-1. Klicken Sie auf **Aktivitätsprotokoll** Registerkarte.
+1. Klicken Sie auf **[!UICONTROL Aktivitätsprotokoll]** Registerkarte.
 
    ![](assets/activity-log-2.png)
 

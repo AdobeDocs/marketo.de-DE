@@ -4,9 +4,10 @@ title: Nicht beantwortete Fragen
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 9ba9e80e9dcfb2ac835d172635489cc65307270c
+exl-id: 2f0f61a5-8c82-437c-af78-4c2ccc74d135
+source-git-commit: cc16ec5dd5c6671ba9265042e108d0ff76b0e16d
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '106'
 ht-degree: 3%
 
 ---
@@ -17,13 +18,13 @@ Sehen Sie sich alle Fragen an, die der Chatbot nicht beantworten konnte und/oder
 
 >[!NOTE]
 >
->Die Liste der unbeantworteten Fragen wird automatisch alle 24 Stunden aktualisiert.
+>Die Liste der unbeantworteten Fragen wird automatisch alle 24 Stunden um Mitternacht (PST) aktualisiert.
 
-1. Klicken Sie unter Generative KI auf **Unterstützte Antworten**.
+1. Klicken Sie unter Generative KI auf **[!UICONTROL Unterstützte Antworten]**.
 
    ![](assets/unanswered-questions-1.png)
 
-1. Klicken Sie auf **Unbeantwortete Fragen** Registerkarte.
+1. Klicken Sie auf **[!UICONTROL Unbeantwortete Fragen]** Registerkarte.
 
    ![](assets/unanswered-questions-2.png)
 
@@ -31,7 +32,7 @@ Sehen Sie sich alle Fragen an, die der Chatbot nicht beantworten konnte und/oder
 
    ![](assets/unanswered-questions-3.png)
 
-1. Geben Sie Ihre Antwort ein. Weisen Sie ein Thema zu und fügen Sie eine optionale URL hinzu, die Benutzer für Besucher freigeben können. Klicken Sie auf **Speichern**, wenn Sie fertig sind.
+1. Geben Sie Ihre Antwort ein. Weisen Sie ein Thema zu und fügen Sie eine optionale URL hinzu, die Benutzer für Besucher freigeben können. Klicken Sie auf **[!UICONTROL Speichern]**, wenn Sie fertig sind.
 
    ![](assets/unanswered-questions-4.png)
 
