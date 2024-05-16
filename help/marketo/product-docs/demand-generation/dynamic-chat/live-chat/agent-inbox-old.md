@@ -1,11 +1,12 @@
 ---
 description: Agent-Posteingang - Marketo-Dokumente - Produktdokumentation
 title: Agenten-Posteingang
+hide: true
+hidefromtoc: true
 feature: Dynamic Chat
-exl-id: 65f13879-36d2-4a23-a029-271f5aea1229
 source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
 workflow-type: tm+mt
-source-wordcount: '550'
+source-wordcount: '301'
 ht-degree: 2%
 
 ---
@@ -56,45 +57,11 @@ Support-Mitarbeiter können eine Sitzung manuell beenden, indem sie einfach auf 
 
 ![](assets/agent-inbox-6.png)
 
-## Tastaturbefehle {#shortcuts}
-
->[!NOTE]
->
->Diese Funktion ist Teil der generativen KI, die über das Dynamic Chat Prime-Abonnement verfügbar ist. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).
-
-Verknüpfungen, basierend auf der generativen KI [Reaktionsbibliothek](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md), ist eine großartige Möglichkeit, beim Chatten mit einem Besucher Hilfe zu erhalten. Geben Sie einfach einen Schrägstrich (`/`) in das Textfeld ein und wählen Sie `ask` oder `search`.
-
-![](assets/agent-inbox-7.png)
-
-**Fragen** ist Hilfe bei der Beantwortung einer Frage.
-
-1. Typ oder Auswahl `/ask` im Textfeld. Geben Sie Ihre Frage ein und drücken Sie die Eingabetaste auf der Tastatur.
-
-   ![](assets/agent-inbox-8.png)
-
-1. Eine Antwort wird angezeigt. Klicken Sie auf das Kopiersymbol, damit es in das Textfeld eingefügt wird. Sie können den Text bearbeiten, bevor Sie ihn an den Besucher senden.
-
-   ![](assets/agent-inbox-9.png)
-
-**Suche** dient der Suche nach Seiten, die sich auf bestimmten Text beziehen.
-
-1. Typ oder Auswahl `/search` im Textfeld.
-
-   ![](assets/agent-inbox-10.png)
-
-1. Geben Sie ein, wonach Sie suchen möchten, und drücken Sie die Eingabetaste auf der Tastatur.
-
-   ![](assets/agent-inbox-11.png)
-
-1. Anwendbare Links werden angezeigt. Klicken Sie auf das Kopiersymbol, damit sie in das Textfeld eingefügt werden. Sie können Änderungen vornehmen, bevor Sie die Informationen an den Besucher senden.
-
-   ![](assets/agent-inbox-12.png)
-
 ## Aktivitätsverlauf {#activity-history}
 
 Unter den Besucherinformationen befindet sich der Aktivitätsverlauf. Zeigen Sie Aktivitätstypen und -daten an und sehen Sie sich sogar Chat-Transkripte an.
 
-![](assets/agent-inbox-13.png)
+![](assets/agent-inbox-7.png)
 
 >[!NOTE]
 >
@@ -106,26 +73,13 @@ Am unteren Rand des Live-Chat-Fensters befindet sich ein Symbol, mit dem Sie den
 
 1. Klicken Sie auf das Kalendersymbol.
 
-   ![](assets/agent-inbox-14.png)
+   ![](assets/agent-inbox-8.png)
 
 1. Wählen Sie den gewünschten Agentenkalender aus und klicken Sie auf **Senden**.
 
-   ![](assets/agent-inbox-15.png)
+   ![](assets/agent-inbox-9.png)
 
 1. Der Chatbesucher kann ein Meeting buchen.
 
-   ![](assets/agent-inbox-16.png)
+   ![](assets/agent-inbox-10.png)
 
-## Zusammenfassung des Gesprächs {#conversation-summary}
-
->[!NOTE]
->
->Diese Funktion ist Teil der generativen KI, die über das Dynamic Chat Prime-Abonnement verfügbar ist. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).
-
-Die Zusammenfassung der Unterhaltungen generiert eine schnelle Zusammenfassung für Sie in Echtzeit, einschließlich Themen, an denen der Besucher Interesse gezeigt hat. Er ist unten rechts auf jedem Chat-Bildschirm verfügbar.
-
-![](assets/agent-inbox-17.png)
-
->[!NOTE]
->
->Eine abgeschlossene Konversationszusammenfassung finden Sie auch im Aktivitätsprotokoll des Benutzerdatensatzes in Ihrer Marketo Engage-Datenbank.

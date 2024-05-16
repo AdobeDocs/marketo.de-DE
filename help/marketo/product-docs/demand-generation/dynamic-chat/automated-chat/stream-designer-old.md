@@ -1,11 +1,12 @@
 ---
 description: Stream Designer - Marketo-Dokumente - Produktdokumentation
 title: Entwerferin bzw. Entwerfer des Streams
+hide: true
+hidefromtoc: true
 feature: Dynamic Chat
-exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
 source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
 workflow-type: tm+mt
-source-wordcount: '1212'
+source-wordcount: '1128'
 ht-degree: 2%
 
 ---
@@ -41,7 +42,7 @@ Der Stream-Designer enthält mehrere Karten, die Sie hinzufügen können, um die
   <td>Verwenden Sie diese Option, wenn Sie Informationen erfassen möchten (z. B. Name, E-Mail-Adresse, Berufsbezeichnung usw.). Nachdem Sie ausgewählt haben, welchem Feld die Antwort zugeordnet werden soll, können Sie den Besuchertyp in der Antwort angeben oder Optionen aus einer von Ihnen festgelegten Auswahlliste auswählen (Tipp: Letzteres kann bei der Bereinigung der Datenbank helfen). Sie können auch festlegen, welche Daten Sie derzeit für die Antwort aufgelistet haben, oder die Frage vollständig überspringen, wenn Sie bereits über einen Wert für sie verfügen.</td>
  </tr>
  <tr>
-  <td style="width:25%"><strong>Buchung eines Meetings</strong></td>
+  <td style="width:25%"><strong>Konferenzbuchung</strong></td>
   <td>Bietet dem Besucher einen Kalender der verfügbaren Daten, um ein Meeting zu planen. Wählen Sie die Kalenderverfügbarkeit über Round Robin, einen bestimmten Agenten oder mithilfe benutzerdefinierter Regeln. Klicks <b>Attribut hinzufügen</b> wenn Sie den Namen oder die E-Mail-Adresse des Agenten erfassen und ihn zum Personendatensatz des Chat-Besuchers für zukünftige Abfragen zuweisen möchten (Tipp: Erstellen Sie eine <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">Benutzerdefiniertes Feld</a> , um die Agenteninformationen so zuzuordnen, dass ein standardmäßiges Marketo Engage-Feld nicht überschrieben wird).</td>
  </tr>
  <tr>
@@ -51,22 +52,13 @@ Der Stream-Designer enthält mehrere Karten, die Sie hinzufügen können, um die
  <tr>
   <td style="width:25%"><strong>Aktion*</strong></td>
   <td>Ähnlich wie ausgeblendete Felder in einem Formular können Sie mit der Aktionskarte jedes Lead- oder Firmenattribut (mit einer <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">Zeichenfolgen-Datentyp</a>) mit impliziten Werten, die Sie mit einem Lead-Datensatz erfassen möchten. Sie können die Aktionskarte jederzeit in der Konversation hinzufügen und die entsprechenden Attribute mit einem Wert oder nativen Token aktualisieren, die den entsprechenden Wert automatisch ausfüllen.
-  <p><i>* Diese Karte erfordert Dynamic Chat Prime. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).</i></td>
+  <p><i>* Die Aktionskarte erfordert Dynamic Chat Prime. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).</i></td>
  </tr>
  <tr>
   <td style="width:25%"><strong>Live-Chat</strong></td>
   <td>Verwenden Sie die Live-Chat-Karte, wenn Sie möchten, dass Besucher mit einem Live-Agenten chatten.
   <li>Die Live-Chat-Karte muss die letzte Karte im Zweig sein.</li>
   <li>Die Besucher werden an einen Agenten weitergeleitet, sobald sie diese Karte im Stream erreichen. Daher wird empfohlen, dieser Karte eine Fragenkarte mit der Frage vorzustellen, ob sie mit einem Live-Agenten chatten möchten.</li></td>
- </tr>
- <tr>
-  <td style="width:25%"><strong>Generierte Antworten*</strong></td>
-  <td>Erstellen Sie eine Nachricht für den Besucher, wenn er einen bestimmten Punkt in der Konversation erreicht. Stellen Sie eine Reihe von Fragen, die sie auf einmal stellen können, um Ihren gewünschten wichtigen Leistungsindikator zu erreichen.
-  <p><i>* Diese Karte erfordert Dynamic Chat Prime. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).</i></td>
- </tr>
- <tr>
-  <td style="width:25%"><strong>Bedingte Verzweigung</strong></td>
-  <td>Erstellen Sie Verzweigungen in Ihrem Dialogfeld basierend auf unterschiedlichen Bedingungen. Unterschiedliche Inhalte für verschiedene Personen im selben Dialogfeld basierend auf Lead- und Firmenattributen in Marketo Engage präsentieren.</td>
  </tr>
 </table>
 

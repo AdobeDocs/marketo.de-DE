@@ -1,13 +1,11 @@
 ---
 description: Übersicht über generative KI - Marketo-Dokumente - Produktdokumentation
 title: Übersicht über generative KI
-hide: true
-hidefromtoc: true
 feature: Dynamic Chat
 exl-id: 2ec6409b-f2c8-42a4-94e0-5d2cd331a0a6
-source-git-commit: ed8f0f5543e66ab6e6df5a97ac9a6cf55931daba
+source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '429'
 ht-degree: 3%
 
 ---
@@ -30,33 +28,45 @@ Erstellen Sie eine Nachricht für den Besucher, wenn er einen bestimmten Punkt i
 
 ## Zusammenfassung des Gesprächs {#conversation-summary}
 
-Um den vollständigen Kontext einer Besucherkonversation zu erhalten, müssen Sie in der Regel durch das gesamte Chat-Transkript blättern. Die Zusammenfassung der Unterhaltungen generiert eine Zusammenfassung für Sie in Echtzeit und enthält sogar Themen, an denen der Besucher Interesse gezeigt hat. Dies ist besonders nützlich für Chat-Agenten, die einen schnellen Kontext für eine Konversation benötigen, wenn sie zwischen Chats mit mehreren Besuchern wechseln.
+Um den vollständigen Kontext einer Besucherkonversation zu erhalten, müssen Sie in der Regel durch das gesamte Chat-Transkript blättern. Die Zusammenfassung der Unterhaltungen generiert eine Zusammenfassung für Sie in Echtzeit und enthält sogar Themen, an denen der Besucher Interesse gezeigt hat. Dies ist besonders nützlich für Chat-Agenten, die einen schnellen Kontext für eine Konversation benötigen, wenn sie zwischen Chats mit mehreren Besuchern wechseln. Abgeschlossene Konversationszusammenfassungen sind nicht nur im Chat-Bildschirm des Agenten-Posteingangs sichtbar, sondern können auch im Aktivitätsprotokoll des Benutzerdatensatzes in Ihrer Marketo Engage-Datenbank gefunden werden.
 
 ![](assets/generative-ai-overview-3.png)
+
+![](assets/generative-ai-overview-4.png)
+
+>[!NOTE]
+>
+>Eine Konversationszusammenfassung wird sowohl für Live- als auch für automatisierte Chats generiert.
 
 ## Generierung von Fragen {#question-generation}
 
 [Erhöhen eingehender Erlebnisse](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md) mit KI-gestützten Konversationen für Besucher, die eine mit Vertrieb, Marketing und Produktwissen trainierte Benutzeroberfläche verwenden.
 
-![](assets/generative-ai-overview-4.png)
+![](assets/generative-ai-overview-5.png)
 
 ## Antwortbibliothek {#response-library}
 
 [Erstellen einer benutzerdefinierten Sammlung](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) Fragen und Antworten, die alle von Ihnen vorab genehmigt wurden, zur Verwendung in generativen KI-Chat-Kampagnen.
 
-![](assets/generative-ai-overview-5.png)
+![](assets/generative-ai-overview-6.png)
 
 ## Aktivitätsprotokoll {#activity-log}
 
 [Liste aller Aufgaben anzeigen](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/activity-log.md) und die zugehörigen Details, einschließlich Name, Eigentümer, Typ und wer sie bearbeitet hat und wann.
 
-![](assets/generative-ai-overview-6.png)
+![](assets/generative-ai-overview-7.png)
 
 ## Unbeantwortete Fragen {#unanswered-questions}
 
 [Zusätzliche vorab genehmigte Antworten erstellen](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md) für Ihre Antwortbibliothek mit KI, die auf einem Repository basiert, VERWENDEN SIE UNTERSCHIEDLICHE WORD unbeantworteter Fragen aus früheren Konversationen.
 
-![](assets/generative-ai-overview-7.png)
+![](assets/generative-ai-overview-8.png)
+
+## Diskutierte Themen {#discussed-topics}
+
+Erörterte Themen sind in Smart List-Triggern und -Filtern als Einschränkung verfügbar, sodass Sie noch weiter in Ihre Dynamic Chat-Einblicke vordringen können.
+
+![](assets/generative-ai-overview-9.png)
 
 >[!IMPORTANT]
 >
