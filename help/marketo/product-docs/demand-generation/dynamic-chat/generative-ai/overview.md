@@ -3,9 +3,9 @@ description: Übersicht über generative KI - Marketo-Dokumente - Produktdokumen
 title: Übersicht über generative KI
 feature: Dynamic Chat
 exl-id: 2ec6409b-f2c8-42a4-94e0-5d2cd331a0a6
-source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
+source-git-commit: 091e4cb2d9909b86a9e1a78fff812b8421fb970d
 workflow-type: tm+mt
-source-wordcount: '429'
+source-wordcount: '426'
 ht-degree: 3%
 
 ---
@@ -58,7 +58,7 @@ Um den vollständigen Kontext einer Besucherkonversation zu erhalten, müssen Si
 
 ## Unbeantwortete Fragen {#unanswered-questions}
 
-[Zusätzliche vorab genehmigte Antworten erstellen](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md) für Ihre Antwortbibliothek mit KI, die auf einem Repository basiert, VERWENDEN SIE UNTERSCHIEDLICHE WORD unbeantworteter Fragen aus früheren Konversationen.
+[Zusätzliche vorab genehmigte Antworten erstellen](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md) für Ihre Antwortbibliothek mit AI auf Grundlage eines Repositorys mit unbeantworteten Fragen aus früheren Konversationen.
 
 ![](assets/generative-ai-overview-8.png)
 
