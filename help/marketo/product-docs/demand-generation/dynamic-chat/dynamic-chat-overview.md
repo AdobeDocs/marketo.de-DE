@@ -3,10 +3,10 @@ description: Dynamic Chat Übersicht - Marketo Docs - Produktdokumentation
 title: Dynamic Chat-Übersicht
 feature: Dynamic Chat
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: c4a02e1c365da6c56c94b119650e2c366cdc6641
+source-git-commit: be1ca409642fd5d81d341fbadaff38c268fe198f
 workflow-type: tm+mt
-source-wordcount: '571'
-ht-degree: 2%
+source-wordcount: '595'
+ht-degree: 4%
 
 ---
 
@@ -52,13 +52,17 @@ Hier sehen Sie eine Liste aller Agenten, die ihre Kalender verbunden haben, die 
 
 Bieten Sie Ihren qualifizierten Webbesuchern über [Live-Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md){target="_blank"}.
 
-## Konversationsfluss {#conversational-flow}
+## Konversationsschema {#conversational-flow}
 
 [Konversation gestalten](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"} die von einem Besucher basierend auf einer von Ihnen festgelegten Aktion ausgelöst werden können (z. B. Ausfüllen eines Formulars, Klicken auf einen Link usw.).
 
+## Generative KI {#generative-ai}
+
+[Generative KI](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/overview.md){target="_blank"} in Adobe Dynamic Chat verarbeitet Intent-Signale, Benutzereinstellungen und vergangenes Verhalten in Echtzeit, um relevante, personalisierte Nachrichten für Chat-Besucher zu generieren.
+
 ## Ändern der Sprache {#changing-the-language}
 
-Führen Sie diese Schritte aus, um Ihre Dynamic Chat-Sprache zu ändern.
+Gehen Sie wie folgt vor, um Ihre Dynamic Chat-Sprache zu ändern.
 
 >[!IMPORTANT]
 >
