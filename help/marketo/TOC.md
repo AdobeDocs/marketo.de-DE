@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
+source-git-commit: c7b46fe06e9bdd2cf3437ee6be741a72c69830b8
 workflow-type: tm+mt
-source-wordcount: '9349'
+source-wordcount: '9341'
 ht-degree: 3%
 
 ---
@@ -1728,7 +1728,6 @@ ht-degree: 3%
             + [Personen oder anonyme Besucher in Webberichten anzeigen](product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
             + [Drilldown in einem Personen-Leistungsbericht](product-docs/reporting/basic-reporting/report-activity/drill-down-in-a-people-performance-report.md)
             + [Einen Bericht in Excel exportieren](product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md)
-            + [Kampagnenaktivitätsbericht filtern](product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report.md)
             + [Filtern von Assets in E-Mail-Berichten einer Kampagne](product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
             + [Filtern von Assets in einem E-Mail-Bericht](product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
             + [Gruppenberichte nach Attribut](product-docs/reporting/basic-reporting/report-activity/group-person-reports-by-attribute.md)
@@ -1742,7 +1741,6 @@ ht-degree: 3%
             + [Abonnieren eines einfachen Berichts](product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
             + [Smart-Liste abonnieren](product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md)
          + Berichtstypen {#report-types}
-            + [Bericht zur Kampagnenaktivität](product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
             + [Bericht zur E-Mail-Leistung von Campaign](product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
             + [Bericht zur Web-Aktivität des Unternehmens](product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
             + [Personen nach Status-Bericht](product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
