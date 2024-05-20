@@ -4,16 +4,20 @@ description: Sprache, Gebietsschema und Zeitzone auswählen - Marketo Docs - Pro
 title: Sprache, Gebietsschema und Zeitzone auswählen
 exl-id: d11f376f-618c-4fa8-a6b5-e11d29e8d728
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: ab4358ac1d3e1aa1d3733fa5191c5d59022bdf9f
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 8%
+source-wordcount: '156'
+ht-degree: 5%
 
 ---
 
 # Sprache, Gebietsschema und Zeitzone auswählen {#select-your-language-locale-and-time-zone}
 
-Englisch ist nicht deine Muttersprache? Keine Sorge! Wir haben dich bedeckt. Hier erfahren Sie, wie Sie Ihre eigene Sprache, Ihr Gebietsschema und Ihre Zeitzone ändern.
+Englisch nicht deine Muttersprache? Keine Sorge! Wir haben dich bedeckt. Hier erfahren Sie, wie Sie die Sprache, das Gebietsschema und die Zeitzone Ihrer Marketo Engage-Instanz ändern.
+
+>[!IMPORTANT]
+>
+>Dieser Artikel richtet sich nur an diejenigen, die _not_ use [Marketo mit Adobe Identity](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md). Wenn Sie dies tun, können Sie auf die unten beschriebenen Einstellungen in Ihrem [Adobe-Kontoprofil](https://account.adobe.com/profile).
 
 ## Unterstützte Sprachen {#supported-languages}
 
@@ -26,7 +30,7 @@ Englisch ist nicht deine Muttersprache? Keine Sorge! Wir haben dich bedeckt. Hie
 
 ## Ändern der Benutzersprache, des Gebietsschemas und der Zeitzone {#change-user-language-locale-and-time-zone}
 
-1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
+1. Navigieren Sie zu **[!UICONTROL Admin]** Bereich.
 
    ![](assets/select-your-language-locale-and-time-zone-1.png)
 
@@ -34,7 +38,7 @@ Englisch ist nicht deine Muttersprache? Keine Sorge! Wir haben dich bedeckt. Hie
 
    ![](assets/select-your-language-locale-and-time-zone-2.png)
 
-1. Klicken Sie unter &quot;Mein Konto&quot;auf **[!UICONTROL Standorteinstellungen bearbeiten]**.
+1. Klicken Sie unter Mein Konto auf **[!UICONTROL Standorteinstellungen bearbeiten]**.
 
    ![](assets/select-your-language-locale-and-time-zone-3.png)
 
@@ -54,7 +58,7 @@ Englisch ist nicht deine Muttersprache? Keine Sorge! Wir haben dich bedeckt. Hie
 
    ![](assets/select-your-language-locale-and-time-zone-6.png)
 
-1. Klicken **[!UICONTROL Speichern]**.
+1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/select-your-language-locale-and-time-zone-7.png)
 
