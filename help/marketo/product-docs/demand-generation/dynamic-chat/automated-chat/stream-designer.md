@@ -3,7 +3,7 @@ description: Stream Designer - Marketo-Dokumente - Produktdokumentation
 title: Entwerferin bzw. Entwerfer des Streams
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
+source-git-commit: cb27e3ffb471358bc8a5c8d90582c6996c75bf61
 workflow-type: tm+mt
 source-wordcount: '1212'
 ht-degree: 2%
@@ -115,7 +115,7 @@ Sie können Streams für Dialogfelder erstellen oder [Conversation Forms](/help/
 
    >[!TIP]
    >
-   >Sie können das Erlebnis für bekannte Chat-Besucher mit Token personalisieren (z. B.: Hallo `{{lead.leadFirstName:""}}`). Klicken Sie einfach auf das Symbol mit geschweiften Klammern rechts und wählen Sie Ihre Auswahl aus. Fügen Sie einen Standardwert zwischen den Anführungszeichen hinzu, wenn anonyme Besucher etwas Allgemeines sehen sollen (z. B.: Hallo `{{lead.leadFirstName:"there"}}`).
+   >Sie können das Erlebnis für bekannte Chat-Besucher mit Token personalisieren (z. B.: Hallo `{{lead.leadFirstName:""}}`). Klicken Sie einfach auf das Symbol mit geschweiften Klammern rechts und wählen Sie Ihre Auswahl aus. Fügen Sie einen Standardwert zwischen den Anführungszeichen hinzu, wenn anonyme Besucher etwas Gängiges sehen sollen (z. B.: Hallo `{{lead.leadFirstName:"there"}}`).
 
    >[!NOTE]
    >
