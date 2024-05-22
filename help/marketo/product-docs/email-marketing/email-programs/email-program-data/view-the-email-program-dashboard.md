@@ -4,9 +4,9 @@ description: Anzeigen des Dashboards "E-Mail-Programm"- Marketo-Dokumente - Prod
 title: Anzeigen des Dashboards "E-Mail-Programm"
 exl-id: dd05d7f6-8979-4ef1-a7d2-adaf086dd903
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 77aa62c45572bcd92710ee4a80529109aba45120
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Anzeigen des Dashboards &quot;E-Mail-Programm&quot; {#view-the-email-program-dashboard}
 
 Informieren Sie sich über die Leistung Ihres E-Mail-Programms (mit oder ohne A/B-Test) mit diesem Dashboard.
+
+>[!CAUTION]
+>
+>Um eine korrekte Berichterstellung zu gewährleisten, sollten Sie vermeiden, eine E-Mail, die zuvor in einem E-Mail-Programm über eine Smart-Kampagne verwendet wurde, wiederzuverwenden oder das Asset aus dem gestarteten E-Mail-Programm in ein neues zu verschieben. Auf diese Weise werden die Berichtsnummern im Dashboard des ursprünglichen E-Mail-Programms hinzugefügt. Wenn Sie dieselbe E-Mail wiederverwenden müssen, [Klonen](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} anstatt.
 
 ## E-Mail-Programm auswählen {#select-your-email-program}
 
@@ -35,7 +39,7 @@ Wenn Sie Ihrem E-Mail-Programm einen A/B-Test hinzugefügt haben und der Test de
 
 ![](assets/image2014-9-12-14-3a2-3a25.png)
 
-## Email Program View {#email-program-view}
+## E-Mail-Programmansicht {#email-program-view}
 
 Wenn Sie keinen A/B-Test hinzugefügt haben, können Sie auch *oder* Wenn der Test beendet ist, sollte Folgendes angezeigt werden:
 
@@ -48,4 +52,4 @@ Wenn Sie keinen A/B-Test hinzugefügt haben, können Sie auch *oder* Wenn der Te
 >[!MORELIKETHIS]
 >
 >* [Verwenden des Dashboards &quot;E-Mail-Programm&quot;- A/B-Testansicht](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
->* [Verwenden des Dashboards &quot;E-Mail-Programm&quot;](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)
+>* [Verwenden des Dashboards E-Mail-Programm](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)

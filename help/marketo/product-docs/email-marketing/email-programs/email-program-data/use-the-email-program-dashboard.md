@@ -1,23 +1,27 @@
 ---
 unique-page-id: 2359476
 description: Verwenden des Dashboards "E-Mail-Programm"- Marketo-Dokumente - Produktdokumentation
-title: Verwenden des Dashboards "E-Mail-Programm"
+title: Verwenden des Dashboards E-Mail-Programm
 exl-id: 47c1925a-144b-4277-a08d-1af660ed3d50
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 77aa62c45572bcd92710ee4a80529109aba45120
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '382'
 ht-degree: 0%
 
 ---
 
-# Verwenden des Dashboards &quot;E-Mail-Programm&quot; {#use-the-email-program-dashboard}
+# Verwenden des Dashboards E-Mail-Programm {#use-the-email-program-dashboard}
 
 In dieser Dashboard-Ansicht erfahren Sie, wie Ihre E-Mail-Programme funktionieren.
 
+>[!CAUTION]
+>
+>Um eine korrekte Berichterstellung zu gewährleisten, sollten Sie vermeiden, eine E-Mail, die zuvor in einem E-Mail-Programm über eine Smart-Kampagne verwendet wurde, wiederzuverwenden oder das Asset aus dem gestarteten E-Mail-Programm in ein neues zu verschieben. Auf diese Weise werden die Berichtsnummern im Dashboard des ursprünglichen E-Mail-Programms hinzugefügt. Wenn Sie dieselbe E-Mail wiederverwenden müssen, [Klonen](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} anstatt.
+
 >[!NOTE]
 >
->Wenn Ihr Programm über einen A/B-Test verfügt, überprüfen Sie die [E-Mail-Programm-Dashboard - A/B-Testansicht](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md).
+>Wenn Ihr Programm über einen A/B-Test verfügt, überprüfen Sie die [E-Mail-Programm-Dashboard - A/B-Testansicht](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md){target="_blank"}.
 
 ![](assets/image2014-9-12-14-3a12-3a56.png)
 
@@ -47,7 +51,7 @@ Diese Grafik zeigt die Anzahl der geöffneten/angeklickten E-Mails während eine
 
 ## Zusammenfassung - Interaktion {#summary-engagement}
 
-Dies zeigt Ihnen die Gesamtübersicht [Interaktionswert](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
+Dies zeigt Ihnen die Gesamtübersicht [Interaktionswert](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md){target="_blank"}.
 
 ![](assets/image2014-9-12-14-3a13-3a11.png)
 
@@ -77,4 +81,4 @@ Um die aktuellsten Daten anzuzeigen, klicken Sie einfach auf das Aktualisierungs
 
 >[!MORELIKETHIS]
 >
->[Verwenden des Dashboards &quot;E-Mail-Programm&quot;- A/B-Testansicht](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
+>[Verwenden des Dashboards &quot;E-Mail-Programm&quot;- A/B-Testansicht](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md){target="_blank"}

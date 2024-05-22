@@ -4,10 +4,10 @@ description: Verstehen von E-Mail-Programmen - Marketo-Dokumente - Produktdokume
 title: Grundlagen zu E-Mail-Programmen
 exl-id: 3ec1a4f0-90fb-4a4b-94bf-ce5ee7d8bdd4
 feature: Email Programs
-source-git-commit: 40d1191fb5bab275e83322dd1fea89888d818820
+source-git-commit: 77aa62c45572bcd92710ee4a80529109aba45120
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 2%
+source-wordcount: '303'
+ht-degree: 1%
 
 ---
 
@@ -36,15 +36,19 @@ Erfahren Sie mehr über die folgenden A/B-Tests:
 
 ## Dashboards {#dashboards}
 
->[!TIP]
+>[!CAUTION]
 >
->Einige bevorzugen die Verwendung von E-Mail-Programmen anstelle des Versands einer E-Mail über eine intelligente Kampagne, da das detaillierte Berichts-Dashboard des Programms angezeigt wird.
+>Um eine korrekte Berichterstellung zu gewährleisten, sollten Sie vermeiden, eine E-Mail, die zuvor in einem E-Mail-Programm über eine Smart-Kampagne verwendet wurde, wiederzuverwenden oder das Asset aus dem gestarteten E-Mail-Programm in ein neues zu verschieben. Auf diese Weise werden die Berichtsnummern im Dashboard des ursprünglichen E-Mail-Programms hinzugefügt. Wenn Sie dieselbe E-Mail wiederverwenden müssen, [Klonen](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} anstatt.
 
 Genießen Sie die Früchte Ihrer Arbeit. Dashboards zeigen Ihnen E-Mail-Programm- und A/B-Test-Performance auf einen Blick.
 
 ![](assets/image2015-4-27-11-3a38-3a41.png)
 
 ![](assets/image2015-4-27-11-3a38-3a27.png)
+
+>[!TIP]
+>
+>Einige bevorzugen die Verwendung von E-Mail-Programmen anstelle des Versands einer E-Mail über eine Smart-Kampagne, da das detaillierte Berichts-Dashboard des Programms angezeigt wird.
 
 ## Verschachtelung {#nesting}
 

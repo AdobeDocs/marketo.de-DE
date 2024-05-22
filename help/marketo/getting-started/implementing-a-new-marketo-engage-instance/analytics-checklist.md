@@ -4,7 +4,7 @@ title: Best Practices für neue Instanzen - Checkliste für Analytics
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: a7b1ede27b8286f13fcb850ee49757e86e23dbd5
+source-git-commit: 77aa62c45572bcd92710ee4a80529109aba45120
 workflow-type: tm+mt
 source-wordcount: '1424'
 ht-degree: 1%
@@ -109,7 +109,7 @@ Ermitteln Sie Berichte, die für verschiedene Benutzergruppen in Ihrer Organisat
     <td>HINWEIS: Für diesen Bericht müssen Ihre Kanäle, Progressionsstatus und Erfolgsschritte im <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/tags/create-a-program-channel">Admin &gt; Tags-Bereich</a>. <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report">Messen Sie die Effektivität Ihrer Marketingtaktiken.</a> innerhalb selektiver Programme.</li>
     <li>Verwalten Sie die Programmmitgliedschaft (mithilfe von Smart-Kampagnen, um das Akquiseprogramm, den Status, den Erfolgsstatus zu aktualisieren) gemäß den Best Practices in Marketing-Aktivitäten.</li>
     <li>Maßnahme auf der Grundlage der Kosten für das laufende Jahr und die laufenden 12 Monate.
-    <ul><li>Beachten Sie, dass <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program">Periodenkosten</a> ist von entscheidender Bedeutung für die Nutzung des Programmleistungsberichts.</li>
+    <ul><li>Beachten Sie, dass <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program">Periodenkosten</a> ist von entscheidender Bedeutung für die Nutzung des Programmleistungsberichts.</li></ul>
     <br>TIPP: Aggregieren und Anzeigen von <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people">importierte Listen</a> Stellen Sie in den Programmleistungsberichten sicher, dass Ihre Teams das entsprechende Akquiseprogramm für das Tagging auswählen. Überlegen <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/create-and-measure-default-programs">Erstellen eines Standardprogramms</a> als Akquiseprogramm auszuwählen, wenn die importierten Listen für keinen Kanal gelten. Dadurch wird sichergestellt, dass jede importierte Person über ein gültiges Akquiseprogramm für ihre Quelle, Geschäftseinheit, ihren Kanal usw. verfügt. anstatt eines leeren Werts.</td>
   </tr>
   <tr>

@@ -4,9 +4,9 @@ description: Vorhandene E-Mail auswählen - Marketo Docs - Produktdokumentation
 title: Vorhandene E-Mail auswählen
 exl-id: c59200fd-808a-4b99-8c44-d7c1aaf53f98
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 77aa62c45572bcd92710ee4a80529109aba45120
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 >
 >* [E-Mail-Programm erstellen](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 >* [Definieren einer Zielgruppe mit einer Smart-Liste](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) oder [Definieren einer Zielgruppe durch Importieren einer Liste](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+
+>[!CAUTION]
+>
+>Um eine korrekte Berichterstellung zu gewährleisten, sollten Sie vermeiden, eine E-Mail, die zuvor in einem E-Mail-Programm über eine Smart-Kampagne verwendet wurde, wiederzuverwenden oder das Asset aus dem gestarteten E-Mail-Programm in ein neues zu verschieben. Auf diese Weise werden die Berichtsnummern im Dashboard des ursprünglichen E-Mail-Programms hinzugefügt. Wenn Sie dieselbe E-Mail wiederverwenden müssen, [Klonen](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} anstatt.
 
 Sobald du [E-Mail-Programm erstellt](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) und Ihre Audience definiert haben, möchten Sie entscheiden, welche E-Mail Sie senden. Sie können [E-Mail für ein E-Mail-Programm erstellen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) von Grund auf neu oder wählen Sie eine bereits existierende aus. So wählen Sie eine bereits existierende aus.
 
