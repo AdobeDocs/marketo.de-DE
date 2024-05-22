@@ -4,40 +4,68 @@ title: Marketo Engage Community
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 40d1191fb5bab275e83322dd1fea89888d818820
+source-git-commit: c40726e04b4b661e70cc9ba62f6b10aefab2cd58
 workflow-type: tm+mt
-source-wordcount: '489'
+source-wordcount: '514'
 ht-degree: 0%
 
 ---
 
 # Marketo Engage Community {#marketo-engage-community}
 
-Die [Marketing Nation Community](https://nation.marketo.com/){target="_blank"} ist der Ort, um mehr über Ihre Marketo Engage-Instanz von Marketo Engage-Mitarbeitern und anderen Benutzern zu erfahren.
+Die [Marketing Nation Community](https://nation.marketo.com/){target="_blank"} ist der Ort, um mehr über Ihre Marketo Engage-Instanz von anderen Benutzern sowie von Marketo-Mitarbeitern zu erfahren. Bevor Sie einspringen, sollten Sie sich einen Moment Zeit nehmen, um sich mit dem [Gemeinschaftsrichtlinien](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
+
+## Benutzernamen registrieren {#register-your-username}
+
+-Registrierung eines Benutzernamens
+
+SCREENSHOT
 
 ## Profil einrichten {#set-up-your-profile}
 
--Registrierung eines Benutzernamens -Hinzufügen eines Fotos
+Wenn Sie sich bei der Marketing Nation angemeldet haben, klicken Sie auf Ihr Standardavatar-Symbol und wählen Sie Meine Einstellungen , um Ihre Voreinstellungen zu aktualisieren, Ihr Avatar-Foto zu ändern, Tagging zu steuern und mehr.
 
-## Frage senden {#submit-a-question}
-
-Text
-
-## Blogbeiträge lesen {#read-blog-posts}
-
--Champions -marketo PMs
-
-## Idee einreichen {#submit-an-idea}
-
-Text
+SCREENSHOT
 
 ## Verwenden der Suche {#using-the-search}
 
--filtering
+Bevor Sie eine Frage einreichen, verwenden Sie die robuste Suchfunktion, um zu sehen, ob die Frage bereits gestellt/beantwortet wurde. Verwenden Sie die Filteroptionen, um die Suchergebnisse einzugrenzen.
+
+SCREENSHOT
+
+>[!TIP]
+>
+>Verwenden Sie für breitere Ergebnisse eine fokussierte Keyword-Suche anstelle einer Long-Tail-Suche (z. B. suchen Sie &quot;Dynamic Chat&quot;anstelle von &quot;How do I add an agent in Dynamic Chat&quot;).
+
+## Frage senden {#submit-a-question}
+
+Hier wirst du normalerweise Hilfe holen. Starten Sie einen Diskussionsthread (oder suchen Sie nach einem vorhandenen), wenn Sie nach Feedback zu einem bestimmten Problem suchen, oder springen Sie in den Thread einer anderen Person, um diese bei einem Problem zu unterstützen, über das Sie Bescheid wissen.
+
+SCREENSHOT
+
+## Blogbeiträge lesen {#read-blog-posts}
+
+In diesem Abschnitt finden Sie nützliche Informationen sowohl von Marketo Engage-Anwendern (darunter mehrere Champions) als auch von Marketo-Mitarbeitern. Lassen Sie die Kommentare am unteren Rand, wenn Sie zusätzliche Informationen benötigen.
+
+SCREENSHOT
+
+## Idee einreichen {#submit-an-idea}
+
+Wenn Sie jemals eine Vorstellung haben, dass Sie denken, dass das Marketo Engage verbessern würde, dann schicken Sie sie in diesem Abschnitt ein. Sie können auch über bestehende Ideen abstimmen.
+
+SCREENSHOT
+
+## Marketo Benutzergruppen {#marketo-user-groups}
+
+Marketo-Benutzergruppen (MUGs) sind Treffen, die in verschiedenen Regionen der Welt stattfinden. Sie bieten Ihnen die Möglichkeit, sich zu vernetzen, aktuelle Trends zu besprechen, neue Funktionen kennenzulernen und vieles mehr. Überprüfen Sie, ob sich in Ihrer Gegend eine befindet. Wenn nicht, nehmen Sie an einer virtuellen Benutzergruppe teil!
+
+SCREENSHOT
 
 ## Abonnieren der wöchentlichen Zusammenfassung {#subscribe-to-the-weekly-digest}
 
 Text
+
+SCREENSHOT
 
 ## Zusammenführen von Marketo Engage-Abonnements {#merging-marketo-engage-subscriptions}
 
@@ -57,22 +85,6 @@ Bitte geben Sie in Ihrer Anfrage die folgenden Details an:
 
 Unser Community-Team führt Ihre Community-Profile innerhalb von 4 bis 6 Werktagen zusammen. Nach dem Abschluss wird Ihr Interaktionsverlauf bei der Anmeldung im Hauptprofil der Community angezeigt. Wenn nicht, melden Sie sich bitte von Ihrem Konto ab und melden Sie sich erneut an, um dies zu bestätigen.
 
+<p>
 
-
-Jonathan-Beitrag:
-
-Willkommen in der Marketing Nation Community!
-
-Wenn Sie hier neu sind, vergessen Sie bitte nicht unsere Richtlinien zu beachten, um sicherzustellen, dass Sie unsere Community optimal nutzen.
-
-Neu bei der Verwendung von Marketo? Stellen Sie auf unserer Seite Produktdiskussionen eine Frage oder besuchen Sie unsere Support-Seite, um mit unserem Support-Team zu sprechen. Sie können auch unsere Marketo Engage-Dokumentation oder Marketo Measure-Dokumentationsseiten besuchen, um zu beginnen. Vergessen Sie nicht, unsere Suchleiste zu verwenden, um zu sehen, ob andere zuvor eine ähnliche Frage hatten!
-
-Unsere Marketo-Benutzergruppen (MUGs) sind lokale Treffen, die von leidenschaftlichen MUG-Verantwortlichen organisiert werden, um jedem die Möglichkeit zu bieten, sich zu vernetzen, aktuelle Trends zu diskutieren, neue Funktionen kennenzulernen, lokale Chancen zu posten und mehr. Sehen Sie sich die über 70 Marketo-Benutzergruppen-Kapitel an, die verfügbar sind, und sehen Sie, ob es in Ihrer Gegend ein MUG-Treffen gibt!
-
-Haben Sie eine brennende Idee, die unser Produkt verbessern könnte? Senden Sie Ihre Idee auf unserer Ideenseite; Sie können auch Ideen durchsuchen und abstimmen, die von Ihren Kollegen eingereicht wurden.
-
-Schließlich bietet Marketo eine Vielzahl von Schulungen und Zertifizierungen an, um Ihr Know-how mit unserem Produkt zu erweitern. Weitere Informationen finden Sie auf der Marketo Engage-Experience League-Seite .
-
-
-
--Einrichten eines Profils/Registrieren eines Benutzernamens -Hinzufügen eines Fotos -Senden einer Frage (Diskussions-Threads) -Lesen von Champion-Blogs -Senden einer Idee -Verwenden der Suche (Filterung) -Abonnieren des wöchentlichen Digest (müssen angemeldet werden)
+Willkommen bei der Marketo Engage und genießen Sie die Marketing Nation!
