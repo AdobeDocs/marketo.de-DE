@@ -3,10 +3,10 @@ description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokument
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 29c730246188740d004a45f34923bb83f0322ec5
+source-git-commit: 40d1191fb5bab275e83322dd1fea89888d818820
 workflow-type: tm+mt
-source-wordcount: '257'
-ht-degree: 6%
+source-wordcount: '280'
+ht-degree: 7%
 
 ---
 
@@ -30,6 +30,17 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
    <th style="width:65%">Funktion</th> 
    <th style="width:10%">Status</th>
    <th style="width:25%">Dokumentation</th>
+  </tr>
+     <tr> 
+   <td><strong>Vorlagen für interaktive Webinare</strong>: Marketingexperten können jetzt in interaktiven Webinaren benutzerdefinierte Vorlagen für Raumlayouts erstellen.</td> 
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
   </tr>
      <tr> 
    <td><strong>Abgeleitete Felder in Forms</strong>: Die Datenquelle, die zum Ausfüllen von abgerufenen Feldern verwendet wird, wenn eine Person über das Ausfüllen von Formularen ohne vorherige Web-Aktivität erstellt wird, wurde aktualisiert und verwendet nun dieselbe Datenquelle wie bei anderen Methoden zur Personenerfassung. Abgeleitete Felddaten sind jetzt über alle Erfassungspunkte hinweg konsistent.</td> 

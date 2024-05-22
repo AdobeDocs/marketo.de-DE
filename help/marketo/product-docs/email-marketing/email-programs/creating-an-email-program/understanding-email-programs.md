@@ -4,20 +4,20 @@ description: Verstehen von E-Mail-Programmen - Marketo-Dokumente - Produktdokume
 title: Grundlagen zu E-Mail-Programmen
 exl-id: 3ec1a4f0-90fb-4a4b-94bf-ce5ee7d8bdd4
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 40d1191fb5bab275e83322dd1fea89888d818820
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '243'
 ht-degree: 2%
 
 ---
 
 # Grundlagen zu E-Mail-Programmen {#understanding-email-programs}
 
-Grüßen Sie Ihren neuen Marketo-Freund, das E-Mail-Programm. Senden Sie E-Mails, erstellen Sie A/B-Tests und verfolgen Sie Ihre Ergebnisse an einem Ort.
+Senden Sie E-Mails, erstellen Sie A/B-Tests und verfolgen Sie Ihre Ergebnisse an einem Ort.
 
 ## Systemsteuerung {#control-panel}
 
-Vier Kisten halten Sie im Fokus. **Zielgruppe** definiert das &quot;wer&quot;, **Email** liefert das &quot;Was&quot;, **Zeitplan** definiert &quot;Wann&quot;, und **Genehmigung** macht es bereit zu gehen.
+Vier Kisten halten Sie im Fokus. **Zielgruppe** definiert das &quot;wer&quot;, **Email** liefert das &quot;Was&quot;, **Zeitplan** definiert &quot;Wann&quot;, und **Validierung** macht es bereit zu gehen.
 
 ![](assets/emailprogram.png)
 
