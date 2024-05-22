@@ -4,9 +4,9 @@ title: Marketo Engage Community
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: c40726e04b4b661e70cc9ba62f6b10aefab2cd58
+source-git-commit: a7b1ede27b8286f13fcb850ee49757e86e23dbd5
 workflow-type: tm+mt
-source-wordcount: '514'
+source-wordcount: '516'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ SCREENSHOT
 
 ## Profil einrichten {#set-up-your-profile}
 
-Wenn Sie sich bei der Marketing Nation angemeldet haben, klicken Sie auf Ihr Standardavatar-Symbol und wählen Sie Meine Einstellungen , um Ihre Voreinstellungen zu aktualisieren, Ihr Avatar-Foto zu ändern, Tagging zu steuern und mehr.
+Wenn Sie sich bei der Marketing Nation angemeldet haben, klicken Sie auf Ihr Standardavatar-Symbol und wählen Sie **[!UICONTROL Meine Einstellungen]** um Ihre Voreinstellungen zu aktualisieren, ändern Sie Ihr Avatar-Foto, steuern Sie Tagging und vieles mehr.
 
 SCREENSHOT
 
@@ -57,7 +57,7 @@ SCREENSHOT
 
 ## Marketo Benutzergruppen {#marketo-user-groups}
 
-Marketo-Benutzergruppen (MUGs) sind Treffen, die in verschiedenen Regionen der Welt stattfinden. Sie bieten Ihnen die Möglichkeit, sich zu vernetzen, aktuelle Trends zu besprechen, neue Funktionen kennenzulernen und vieles mehr. Überprüfen Sie, ob sich in Ihrer Gegend eine befindet. Wenn nicht, nehmen Sie an einer virtuellen Benutzergruppe teil!
+Marketo-Benutzergruppen (MUGs) sind Treffen, die in verschiedenen Regionen der Welt stattfinden. Sie bieten Ihnen die Möglichkeit, sich zu vernetzen, aktuelle Trends zu besprechen, neue Funktionen kennenzulernen und vieles mehr. Überprüfen Sie, ob sich in Ihrer Gegend eine befindet. Ist dies nicht der Fall, können Sie einer virtuellen Benutzergruppe beitreten!
 
 SCREENSHOT
 
@@ -85,6 +85,6 @@ Bitte geben Sie in Ihrer Anfrage die folgenden Details an:
 
 Unser Community-Team führt Ihre Community-Profile innerhalb von 4 bis 6 Werktagen zusammen. Nach dem Abschluss wird Ihr Interaktionsverlauf bei der Anmeldung im Hauptprofil der Community angezeigt. Wenn nicht, melden Sie sich bitte von Ihrem Konto ab und melden Sie sich erneut an, um dies zu bestätigen.
 
-<p>
+<br>
 
 Willkommen bei der Marketo Engage und genießen Sie die Marketing Nation!
