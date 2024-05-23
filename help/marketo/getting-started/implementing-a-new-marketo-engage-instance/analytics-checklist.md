@@ -4,9 +4,9 @@ title: Best Practices für neue Instanzen - Checkliste für Analytics
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 77aa62c45572bcd92710ee4a80529109aba45120
+source-git-commit: 46485fb692c0ad9734cbe9cad9df24736002587a
 workflow-type: tm+mt
-source-wordcount: '1424'
+source-wordcount: '1435'
 ht-degree: 1%
 
 ---
@@ -31,8 +31,13 @@ Denken Sie daran, [Checklisten herunterladen](/help/marketo/getting-started/impl
   <tr>
     <td>Organisation: Benennung, Ordner und Archivierung</td>
     <td><li>Unterscheiden Sie Berichte auf der Registerkarte Globale Berichte anhand einer Namenskonvention für Berichte.</li>
-    <ul><li>Ein Beispiel für eine gute Namensgebungskonvention ist [Berichtstyp] [Global vs. BU-spezifisches Tag] [Berichtsbeschreibung] wie [E-Mail-Leistung]-[Global]-[180 Tage E-Mail-Interaktion].</li></ul> <li>Identifizieren Sie Berichte, die für verschiedene Benutzergruppen in Ihrer Organisation freigegeben werden sollen (z. B. Verkaufsteam, Marketingleitung), und organisieren Sie die Berichte nach Ordner im Ordner Gruppenberichte in Analytics für globale Berichte.</li> 
-    <li>Die Archivierung sollte auf den Ordner Globale Berichte beschränkt werden, da es sich hierbei immer um Berichte handelt.   <ul><li>Beschränken Sie die Archivierung auf organisatorische Änderungen, z. B. die Reduzierung oder das Hinzufügen relevanter Geschäftseinheiten, wenn Sie Berichte auf der Grundlage einer Geschäftsbereichsstruktur erstellen.</li></ul></td>
+    <ul>
+    <li>Ein Beispiel für eine gute Namensgebungskonvention ist [Berichtstyp] [Global vs. BU-spezifisches Tag] [Berichtsbeschreibung] wie [E-Mail-Leistung]-[Global]-[180 Tage E-Mail-Interaktion].</li>
+    </ul> 
+    <li>Identifizieren Sie Berichte, die für verschiedene Benutzergruppen in Ihrer Organisation freigegeben werden sollen (z. B. Verkaufsteam, Marketingleitung), und organisieren Sie die Berichte nach Ordner im Ordner Gruppenberichte in Analytics für globale Berichte.</li> 
+    <li>Die Archivierung sollte auf den Ordner Globale Berichte beschränkt werden, da es sich hierbei immer um Berichte handelt.   <ul>
+    <li>Beschränken Sie die Archivierung auf organisatorische Änderungen, z. B. die Reduzierung oder das Hinzufügen relevanter Geschäftseinheiten, wenn Sie Berichte auf der Grundlage einer Geschäftsbereichsstruktur erstellen.</li>
+    </ul></td>
   </tr>
   <tr>
     <td>Arbeitsbereiche (falls zutreffend)</td>
@@ -46,12 +51,12 @@ Denken Sie daran, [Checklisten herunterladen](/help/marketo/getting-started/impl
   <tr>
     <td>Berichte gruppieren</td>
     <td><li>Gruppenberichte sind die globalen Berichte Ihres Unternehmens und sollten einen Bericht über die Gesamtaktivität für Ihre Marketo Engage-Organisation erstellen.</li>
-    <li>Erwägen Sie die Erstellung <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports" target="_blank">Klonbare Kernberichte</a> erwarten Sie, dass jede Geschäftseinheit die meiste Zeit verwendet, um den Bericht abzurufen und die Datenkorrektur sicherzustellen. Weitere Informationen finden Sie in der Tabelle "Grundlegende Berichterstellung - Globale Berichte"[ABSCHNITT LINK ZUR LESEZEICHEN EINFÜGEN].
+    <li>Erwägen Sie die Erstellung <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports" target="_blank">Klonbare Kernberichte</a> erwarten Sie, dass jede Geschäftseinheit die meiste Zeit verwendet, um den Bericht abzurufen und die Datenkorrektur sicherzustellen. Weitere Informationen finden Sie unter <a href="#global-reports">Tabelle "Globale Berichte"</a>.
     <ul><li>Personen-Leistungsbericht (alle- und zeitbasiert) - nach Quelle, Monat</li>
     <li>Bericht zur Programmleistung (nach Kostenmonat, zeitbasiert)</li>
     <li>E-Mail-Leistungsbericht (zeitbasiert)</li></ul>
     <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-activity/report-email-campaign-performance-across-workspaces" target="_blank">Aktivieren Sie die Option "Globale Berichterstellung"</a> im Tab Einrichtung des Berichts die Daten aus allen Ihren Arbeitsbereichen in die Berichte E-Mail-Leistung und E-Mail-Link-Leistung aufnehmen. Wenn Sie mehr als einen Arbeitsbereich haben, müssen Sie diesen nur im Standardarbeitsbereich aktivieren.</li>
-    <br>TIPP: Erstellen Sie die <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists" target="_blank">Smart List</a> mit den Filtern, die Sie in die meisten Ihrer Berichte im Abschnitt "Datenbank"aufnehmen möchten. Wenn Sie die Kriterien der intelligenten Liste aktualisieren müssen, können Sie sie an einem Ort aktualisieren, anstatt sie in allen globalen Berichten zu aktualisieren.</td>
+    <p><img src="assets/tip-icon.png" alt="Notizsymbol"> TIPP: Erstellen Sie die <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists" target="_blank">Smart List</a> mit den Filtern, die Sie in die meisten Ihrer Berichte im Abschnitt "Datenbank"aufnehmen möchten. Wenn Sie die Kriterien der intelligenten Liste aktualisieren müssen, können Sie sie an einem Ort aktualisieren, anstatt sie in allen globalen Berichten zu aktualisieren.</td>
   </tr>
 </tbody>
 </table>
@@ -69,7 +74,8 @@ Denken Sie daran, [Checklisten herunterladen](/help/marketo/getting-started/impl
   <tr>
     <td>Abonnements</td>
     <td><li>Fragen Sie bei Ihrem Marketing-Verantwortlichen nach Personen, die die Berichtsergebnisse und deren Kadenz während der Implementierung überprüfen sollten.</li> <li>Verwenden Sie Abonnements, um Daten an Personen zu verteilen, die in Ihrem Unternehmen Kenntnisse benötigen, ohne eine spezifische Benutzerlizenz zu erschöpfen.</li>
-    <br>TIPP: Die Abonnement-E-Mails werden normalerweise nächtlich gesendet. Wenn Sie möchten, dass Benutzer auf die Echtzeitberichtsdaten zugreifen können, müssen Sie Personen als Benutzer hinzufügen, damit sie den Bericht direkt überprüfen können.
+    <p><img src="assets/tip-icon.png" alt="Notizsymbol"> TIPP: Die Abonnement-E-Mails werden normalerweise nächtlich gesendet. Wenn Sie möchten, dass Benutzer auf die Echtzeitberichtsdaten zugreifen können, müssen Sie Personen als Benutzer hinzufügen, damit sie den Bericht direkt überprüfen können.
+    <p>
     <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report">Abonnements einrichten</a> entsprechend der wünschenswerten Cadence (täglich/wöchentlich/monatlich) für die laufende Überwachung jedes Teams. Sie können auch <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions">Alle Abonnements anzeigen</a> an einer Stelle auf der Registerkarte Abonnements in Analytics.</li></td>
   </tr>
 </tbody>
@@ -92,35 +98,38 @@ Ermitteln Sie Berichte, die für verschiedene Benutzergruppen in Ihrer Organisat
     <td><li>Erstellen Sie globale Berichte für Workspace/Geschäftseinheiten mit den richtigen E-Mails.</li>
     <li>Erstellen Sie in allen klonbaren Programmvorlagen einen lokalen E-Mail-Leistungsbericht.</li>
     <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame">Relevanten Zeitrahmen verwenden</a> (z. B. YTD, letzte 90 Tage usw.) für den Bericht, um Ihnen eine genaue Ansicht der standardmäßigen E-Mail-Interaktionsmetriken und Zustellbarkeitsmetriken zu liefern.</li>
-    <br>TIPP: <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/email-setup/filtering-email-bot-activity">Aktivieren Sie die Filterung "Bot Activity"in "Admin&gt;E-Mail"</a> um die Protokollierung zu vermeiden oder festzustellen, ob die Protokollierung für die Bot-Aktivitäten aktiviert ist. <a href="https://nation.marketo.com/t5/product-documents/filtering-email-bot-activity-feature-latest-release/ta-p/324860">Schließen Sie den Filter so ein, dass nur geöffnete/angeklickte Aktivitäten mit der Beschränkung "Is Bot Activity"auf "False"zugelassen werden.</a> in der intelligenten Liste Ihrer klonierbaren globalen Berichte.</td>
+    <p><img src="assets/tip-icon.png" alt="Notizsymbol"> TIPP: <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/email-setup/filtering-email-bot-activity">Aktivieren Sie die Filterung "Bot Activity"in "Admin&gt;E-Mail"</a> um die Protokollierung zu vermeiden oder festzustellen, ob die Protokollierung für die Bot-Aktivitäten aktiviert ist. <a href="https://nation.marketo.com/t5/product-documents/filtering-email-bot-activity-feature-latest-release/ta-p/324860">Schließen Sie den Filter so ein, dass nur geöffnete/angeklickte Aktivitäten mit der Beschränkung "Is Bot Activity"auf "False"zugelassen werden.</a> in der intelligenten Liste Ihrer klonierbaren globalen Berichte.</td>
   </tr>
   <tr>
     <td>Personenleistungsbericht</td>
-    <td>HINWEIS: Es wird empfohlen, über eine <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags">Kanal- und Tag-Strategie</a> für jede Marketo Engage-Implementierung, bevor Sie die durch die einzelnen Benutzer erworbenen Personen und den ROI Ihrer Marketinginvestitionen nach Kanal verfolgen können.
-    <br>
-    <li>Legen Sie die Kriterien fest, anhand derer Sie die Leistung Ihrer Lead-Akquiseprogramme messen, und erstellen Sie anhand dieser Metriken zeitbasierte (aktuelle, letzte rollierende 12-Monats-Ansicht oder 180-Tage-Berichte) Standardberichte:</li> <ul><li>Akquiseprogramm: Marketo Engage-Programm, das für die Übernahme des Leads in Betracht gezogen wird.</li>
-    <li>Personenquelle: Die Quellkategorie, aus der hervorgeht, wie der Datensatz Ihrer Datenbank bekannt wurde (basierend auf der Liste der Quellwerte in Ihrem CRM)</li></ul>
+    <td><img src="assets/note-icon.png" alt="Notizsymbol"> HINWEIS: Es wird empfohlen, über eine <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags">Kanal- und Tag-Strategie</a> für jede Marketo Engage-Implementierung, bevor Sie die durch die einzelnen Benutzer erworbenen Personen und den ROI Ihrer Marketinginvestitionen nach Kanal verfolgen können.
+    <p>
+    <li>Legen Sie die Kriterien fest, anhand derer Sie die Leistung Ihrer Lead-Akquiseprogramme messen, und erstellen Sie anhand dieser Metriken zeitbasierte (aktuelle, letzte rollierende 12-Monats-Ansicht oder 180-Tage-Berichte) Standardberichte:</li> <ul><li>Akquiseprogramm: Marketo Engage-Programm, das für die Übernahme des Leads in Betracht gezogen wird.
+    <li>Personenquelle: Die Quellkategorie, aus der hervorgeht, wie der Datensatz Ihrer Datenbank bekannt wurde (basierend auf der Liste der Quellwerte in Ihrem CRM)
+    </li></ul>
     <li>Messen Sie nach Woche oder Monat erstellte Personen. Dieser Bericht zeigt Ihnen, wie hoch die Datenbankwachstumsrate ist und ob Sie sich Ihrer Datenbankgrößenbeschränkung nähern oder diese in Kürze überschreiten werden.</li>
     <li>Filtern Sie die Metriken in "People Performance Reports" nach <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report">Verwenden Ihrer Smart-Listen als benutzerdefinierte Spalten.</a></li>
-    <br>TIPP: Erstellen Sie die Smart-Listen für die benutzerdefinierten Spalten, die Sie dem Bericht zur Leistung von Personen hinzufügen möchten, in "Datenbank"anstelle von "Marketingaktivitäten", damit Sie den Namen der Smart-Liste richtig und deutlich sehen können, wenn er im Bericht ausgewählt wird.</td>
+    <p><img src="assets/tip-icon.png" alt="Notizsymbol"> TIPP: Erstellen Sie die Smart-Listen für die benutzerdefinierten Spalten, die Sie dem Bericht zur Leistung von Personen hinzufügen möchten, in "Datenbank"anstelle von "Marketingaktivitäten", damit Sie den Namen der Smart-Liste richtig und deutlich sehen können, wenn er im Bericht ausgewählt wird.</td>
   </tr>
   <tr>
     <td>Bericht zur Programmleistung</td>
-    <td>HINWEIS: Für diesen Bericht müssen Ihre Kanäle, Progressionsstatus und Erfolgsschritte im <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/tags/create-a-program-channel">Admin &gt; Tags-Bereich</a>. <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report">Messen Sie die Effektivität Ihrer Marketingtaktiken.</a> innerhalb selektiver Programme.</li>
+    <td><p><img src="assets/note-icon.png" alt="Notizsymbol"> HINWEIS: Für diesen Bericht müssen Ihre Kanäle, Progressionsstatus und Erfolgsschritte im <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/tags/create-a-program-channel">Admin &gt; Tags-Bereich</a>.
+    <p>
+    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report">Messen Sie die Effektivität Ihrer Marketingtaktiken.</a> innerhalb selektiver Programme.</li>
     <li>Verwalten Sie die Programmmitgliedschaft (mithilfe von Smart-Kampagnen, um das Akquiseprogramm, den Status, den Erfolgsstatus zu aktualisieren) gemäß den Best Practices in Marketing-Aktivitäten.</li>
     <li>Maßnahme auf der Grundlage der Kosten für das laufende Jahr und die laufenden 12 Monate.
     <ul><li>Beachten Sie, dass <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program">Periodenkosten</a> ist von entscheidender Bedeutung für die Nutzung des Programmleistungsberichts.</li></ul>
-    <br>TIPP: Aggregieren und Anzeigen von <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people">importierte Listen</a> Stellen Sie in den Programmleistungsberichten sicher, dass Ihre Teams das entsprechende Akquiseprogramm für das Tagging auswählen. Überlegen <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/create-and-measure-default-programs">Erstellen eines Standardprogramms</a> als Akquiseprogramm auszuwählen, wenn die importierten Listen für keinen Kanal gelten. Dadurch wird sichergestellt, dass jede importierte Person über ein gültiges Akquiseprogramm für ihre Quelle, Geschäftseinheit, ihren Kanal usw. verfügt. anstatt eines leeren Werts.</td>
+    <p><img src="assets/tip-icon.png" alt="Notizsymbol"> TIPP: Aggregieren und Anzeigen von <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people">importierte Listen</a> Stellen Sie in den Programmleistungsberichten sicher, dass Ihre Teams das entsprechende Akquiseprogramm für das Tagging auswählen. Überlegen <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/create-and-measure-default-programs">Erstellen eines Standardprogramms</a> als Akquiseprogramm auszuwählen, wenn die importierten Listen für keinen Kanal gelten. Dadurch wird sichergestellt, dass jede importierte Person über ein gültiges Akquiseprogramm für ihre Quelle, Geschäftseinheit, ihren Kanal usw. verfügt. anstatt eines leeren Werts.</td>
   </tr>
   <tr>
     <td>Landingpage-Leistungsbericht</td>
     <td><li>Erstellen Sie die <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report">Landingpage-Leistungsbericht</a> als globalen Bericht, damit Sie <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/landing-page-actions/filter-a-landing-page-performance-report">Zahlen filtern und überprüfen</a> von allen Landingpages von Design Studio oder Marketingaktivitäten an einem Ort.</li>
-    <li>Bei Programmen mit Landingpage(s) sollten Sie Folgendes beachten: <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report">Erstellung eines dedizierten lokalen Berichts in der Programmvorlage</a> damit Sie die Leistung auf Programmebene überprüfen können.</li></td>
+    <li>Für Programme mit Landingpage(s) sollten Sie <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report">Erstellung eines dedizierten lokalen Berichts in der Programmvorlage</a> damit Sie die Leistung auf Programmebene überprüfen können.</li></td>
   </tr>
   <tr>
     <td>Webseitenaktivitätsbericht</td>
-    <td>HINWEIS: Nur Webseiten (externe und Marketo-Landingpages) mit <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website">das Munchkin-JavaScript</a> aktiviert wird, wird in diesem Bericht nachverfolgt. Erwägen Sie die Platzierung des JavaScript-Codes in der Tag Management-Plattform, z. B. <a href="https://developers.marketo.com/blog/integrating-munchkin-with-google-tag-manager/">Google Tag Manager</a>, um eine Hartkodierung des Codes auf jeder Webseite zu vermeiden.
-    <br>
+    <td><img src="assets/note-icon.png" alt="Notizsymbol"> HINWEIS: Nur Webseiten (externe und Marketo-Landingpages) mit <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website">das Munchkin-JavaScript</a> aktiviert wird, wird in diesem Bericht nachverfolgt. Erwägen Sie die Platzierung des JavaScript-Codes in der Tag Management-Plattform, z. B. <a href="https://developers.marketo.com/blog/integrating-munchkin-with-google-tag-manager/">Google Tag Manager</a>, um eine Hartkodierung des Codes auf jeder Webseite zu vermeiden.
+    <p>
     <li>Erstellen Sie die <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/web-page-activity-report">Webseitenaktivitätsbericht</a> als globalen Bericht zu nutzen, damit Sie die Anzahl aller Webseiten an einem Ort überprüfen können. Beachten Sie, dass Ihre externen Webseiten-Aktivitäten nur in den Berichten zur Web-Seitenaktivität angezeigt werden.</li></td>
   </tr>
 </tbody>
