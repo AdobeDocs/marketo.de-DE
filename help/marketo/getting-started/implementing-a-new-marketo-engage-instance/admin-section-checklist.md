@@ -3,7 +3,7 @@ description: Richten Sie den Admin-Abschnitt für Ihre neue Marketo Engage-Insta
 title: Neue Best Practices für Instanzen - Checkliste für Admin-Abschnitte
 feature: Getting Started
 exl-id: 4fa90a32-7e97-404c-90b1-90d05c2561d0
-source-git-commit: 7805983cdaff0b99a38aefc2c2467b53f3386da3
+source-git-commit: df8087dbaf2b621d0d877eba1c16f160ee9bf460
 workflow-type: tm+mt
 source-wordcount: '634'
 ht-degree: 6%
@@ -112,7 +112,8 @@ Wenden Sie als neuer Administrator, der in einer neuen Marketo Engage-Instanz na
     <td><li>Definieren der Verwendung <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/tags/managing-tag-values.html" target="_blank">tags</a>.</li></td>
   </tr>
   <tr>
-    <td>Kalender (falls zutreffend)</td>
+    <td>Kalender<br> 
+    (falls zutreffend)</td>
     <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.html" target="_blank">Sitzplätze im Marketing-Kalender ausgeben</a> für Personen, die Zugriff benötigen.</li>
     <li>Richten Sie die <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.html" target="_blank">Kalender</a>.</li></td>
   </tr>

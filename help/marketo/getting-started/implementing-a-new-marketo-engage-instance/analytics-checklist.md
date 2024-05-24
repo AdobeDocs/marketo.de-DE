@@ -4,7 +4,7 @@ title: Best Practices für neue Instanzen - Checkliste für Analytics
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: ece7af20c10f646bfc66708c45c3a4e612f0a823
+source-git-commit: df8087dbaf2b621d0d877eba1c16f160ee9bf460
 workflow-type: tm+mt
 source-wordcount: '1393'
 ht-degree: 1%
@@ -31,9 +31,7 @@ Denken Sie daran, [Checklisten herunterladen](/help/marketo/getting-started/impl
   <tr>
     <td>Organisation: Benennung, Ordner und Archivierung</td>
     <td><li>Unterscheiden Sie Berichte auf der Registerkarte Globale Berichte anhand einer Namenskonvention für Berichte.</li>
-    <ul>
-    <li>Ein Beispiel für eine gute Namensgebungskonvention ist [Berichtstyp] [Global vs. BU-spezifisches Tag] [Berichtsbeschreibung] wie [E-Mail-Leistung]-[Global]-[180 Tage E-Mail-Interaktion].</li>
-    </ul> 
+    <ul><li>Ein Beispiel für eine gute Namensgebungskonvention ist [Berichtstyp] [Global vs. BU-spezifisches Tag] [Berichtsbeschreibung] wie [E-Mail-Leistung]-[Global]-[180 Tage E-Mail-Interaktion].</li></ul><br>
     <li>Identifizieren Sie Berichte, die für verschiedene Benutzergruppen in Ihrer Organisation freigegeben werden sollen (z. B. Verkaufsteam, Marketingleitung), und organisieren Sie die Berichte nach Ordner im Ordner Gruppenberichte in Analytics für globale Berichte.</li> 
     <li>Die Archivierung sollte auf den Ordner Globale Berichte beschränkt werden, da es sich hierbei immer um Berichte handelt.   <ul>
     <li>Beschränken Sie die Archivierung auf organisatorische Änderungen, z. B. die Reduzierung oder das Hinzufügen relevanter Geschäftseinheiten, wenn Sie Berichte auf der Grundlage einer Geschäftsbereichsstruktur erstellen.</li>
@@ -104,7 +102,7 @@ Ermitteln Sie Berichte, die für verschiedene Benutzergruppen in Ihrer Organisat
     <td>Personenleistungsbericht</td>
     <td><img src="assets/note-icon.png" alt="Notizsymbol"> HINWEIS: Es wird empfohlen, über eine <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags">Kanal- und Tag-Strategie</a> für jede Marketo Engage-Implementierung, bevor Sie die erworbenen Personen und den ROI Ihrer Marketinginvestitionen nach Kanal verfolgen können.
     <p>
-    <li>Legen Sie die Kriterien fest, anhand derer Sie die Leistung Ihrer Lead-Akquiseprogramme messen, und erstellen Sie anhand dieser Metriken zeitbasierte (aktuelle, letzte rollierende 12-Monats-Ansicht oder 180-Tage-Berichte) Standardberichte:</li> <ul><li>Akquise-Programm: Marketo Engage-Programm, das für die Akquise der Person gutgeschrieben wird.
+    <li>Legen Sie die Kriterien fest, anhand derer Sie die Leistung Ihrer Lead-Akquiseprogramme messen, und erstellen Sie anhand dieser Metriken zeitbasierte (aktuelle, letzte rollierende 12-Monats-Ansicht oder 180-Tage-Berichte) Standardberichte:</li> <ul><li>Akquise-Programm: Marketo Engage-Programm, das für die Akquise der Person gutgeschrieben wird.</li>
     <li>Personenquelle: Die Quellkategorie, aus der hervorgeht, wie der Datensatz Ihrer Datenbank bekannt wurde (basierend auf der Quellliste der Werte in Ihrem CRM)
     </li></ul>
     <li>Messen Sie nach Woche oder Monat erstellte Personen. Dieser Bericht liefert Ihnen einen Messwert zur Wachstumsrate Ihrer Datenbank und darüber, ob Sie sich Ihrer Datenbankgrößenbegrenzung nähern.</li>

@@ -3,7 +3,7 @@ description: Richten Sie den Abschnitt Datenbank für Ihre neue Marketo Engage-I
 title: Best Practices für neue Instanzen - Checkliste für Datenbanken
 feature: Getting Started
 exl-id: 996ea2db-a00c-48e5-97a8-00f869c261b1
-source-git-commit: 7805983cdaff0b99a38aefc2c2467b53f3386da3
+source-git-commit: df8087dbaf2b621d0d877eba1c16f160ee9bf460
 workflow-type: tm+mt
 source-wordcount: '301'
 ht-degree: 9%
@@ -84,8 +84,8 @@ Denken Sie daran, [Checklisten herunterladen](/help/marketo/getting-started/impl
 <table>
 <thead>
   <tr>
-    <th style="width:20%">Bereich</th>
-    <th style="width:80%">Aktionselemente</th>
+    <th style="width:21%">Bereich</th>
+    <th style="width:79%">Aktionselemente</th>
   </tr>
 </thead>
 <tbody>
