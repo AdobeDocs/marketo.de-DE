@@ -4,16 +4,20 @@ description: Übersicht über MSI-Funktionen - Marketo-Dokumente - Produktdokume
 title: Übersicht über MSI-Funktionen
 exl-id: e6cd988c-afba-44e3-b240-68258236f344
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: bda95da160c5a27a0a460d26c102e6166c1ddea0
 workflow-type: tm+mt
-source-wordcount: '937'
-ht-degree: 12%
+source-wordcount: '965'
+ht-degree: 11%
 
 ---
 
 # Übersicht über MSI-Funktionen {#msi-feature-overview}
 
 MSI bietet die folgenden Funktionen in Salesforce Lightning und Classic.
+
+>[!NOTE]
+>
+>Um alle verfügbaren Daten anzuzeigen, stellen Sie sicher, dass der Browser-Zoom bei Verwendung von Windows auf maximal 125 % und unter Mac OS auf 150 % eingestellt ist.
 
 ## Visualforce-Bereich {#visualforce-panel}
 
