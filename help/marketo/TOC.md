@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: b8abf0d697ff2df4a6b7234fbe33a40ca801187d
+source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
 workflow-type: tm+mt
 source-wordcount: '9358'
 ht-degree: 3%
@@ -24,8 +24,8 @@ ht-degree: 3%
       + [Startpunkt](getting-started/implementing-a-new-marketo-engage-instance/where-to-start.md)
       + [Best Practices für neue Instanzen: Checkliste für Admin-Abschnitte](getting-started/implementing-a-new-marketo-engage-instance/admin-section-checklist.md)
       + [Best Practices für neue Instanzen: Datenbank-Checkliste](getting-started/implementing-a-new-marketo-engage-instance/database-checklist.md)
-      + [Best Practices für neue Instanzen: Checkliste für Marketingaktivitäten](getting-started/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
       + [Best Practices für neue Instanzen: Checkliste für Design Studio](getting-started/implementing-a-new-marketo-engage-instance/design-studio-checklist.md)
+      + [Best Practices für neue Instanzen: Checkliste für Marketingaktivitäten](getting-started/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
       + [Best Practices für neue Instanzen: Analytics-Checkliste](getting-started/implementing-a-new-marketo-engage-instance/analytics-checklist.md)
       + [Best Practices für neue Instanzen: Dokument zur Einrichtung](getting-started/implementing-a-new-marketo-engage-instance/document-your-setup.md)
    + Was zu wissen ist {#things-to-know}
@@ -51,8 +51,8 @@ ht-degree: 3%
       + [Startpunkt](getting-started/inheriting-a-marketo-engage-instance/where-to-start.md)
       + [Vererbte Instanz: Checkliste für den Administratorbereich](getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md)
       + [Vererbte Instanz: Datenbank-Checkliste](getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)
-      + [Vererbte Instanz: Checkliste für Marketingaktivitäten](getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)
       + [Vererbte Instanz: Design Studio Checkliste](getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)
+      + [Vererbte Instanz: Checkliste für Marketingaktivitäten](getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)
       + [Vererbte Instanz: Dokument Ihres Setups](getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)
       + [Grundfertigkeiten überprüfen](getting-started/inheriting-a-marketo-engage-instance/reviewing-core-skills.md)
 + Produktdokumente {#product-docs}

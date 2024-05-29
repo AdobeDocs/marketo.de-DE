@@ -2,10 +2,10 @@
 description: Vererbtes Instanzdokument Ihre Einrichtung - Marketo-Dokumente - Produktdokumentation
 title: Vererbtes Instanzdokument Ihr Setup
 feature: Getting Started
-exl-id: 5a3fc755-0d1d-450a-bde6-9e27ea0cae8e
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 57057a05-b05a-4451-a13f-05729d5410dc
+source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '299'
 ht-degree: 1%
 
 ---
@@ -49,7 +49,7 @@ Nachdem Sie nun die wichtigsten Produktbereiche kennen gelernt haben, die bei de
    <br/>     Ist dies nicht der Fall, sollten Sie in Erwägung ziehen, einen Ordner zu erstellen, auf den Ihr Marketing Operations-Team zugreifen kann.</li></td>
   </tr>
   <tr> 
-   <td>Organisation</td> 
+   <td>Organization</td> 
     <td><li>Verfügen Sie über eine zuverlässige Dokumentation darüber, wie Ihre Marketo Engage-Instanz organisiert ist und warum?</li>
    <p><img src="assets/action-item-icon.png" alt="Aktionselement-Symbol">Aktionselement: Erstellen Sie eine Dokumentation, die die Ordnerstruktur, die Namenskonvention und die in Ihrer Instanz verwendeten Kanäle enthält.</td>
   </tr>
@@ -71,5 +71,3 @@ Nachdem Sie nun die wichtigsten Produktbereiche kennen gelernt haben, die bei de
   </tr>
  </tbody> 
 </table>
-
-[Audit und geerbte Instanz](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)

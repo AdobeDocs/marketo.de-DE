@@ -3,9 +3,9 @@ description: Lernen Sie die Best Practices bei der Implementierung einer neuen M
 title: Startpunkt
 feature: Getting Started
 exl-id: 91b751ab-88c5-4575-96f8-166f62f007e2
-source-git-commit: d41a43d7579775c0c866e867f778962ff61ff044
+source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
@@ -34,17 +34,19 @@ Marketo Engage-Instanz herunterladen [Neue Checklisten für Implementierungsadmi
 
 * [Datenbank](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/database-checklist.md){target="_blank"}
 
+* [Design Studio](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/design-studio-checklist.md){target="_blank"}
+
 * [Marketingaktivitäten](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md){target="_blank"}
 
-* [Design Studio](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/design-studio-checklist.md){target="_blank"}
+* [Analytics](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/analytics-checklist.md){target="_blank"}
 
 * [Dokumentieren der Einrichtung der neuen Instanz](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/document-your-setup.md){target="_blank"}
 
 ## Verbinden mit Ihren Peers {#connect-with-your-peers}
 
-Besuchen Sie die [Marketing Nation Community](https://nation.marketo.com/){target="_blank"} um mehr über Ihre Marketo Engage-Instanz von Marketo Engage-Mitarbeitern und anderen Benutzern zu erfahren.
+Besuchen Sie die [Adobe Marketo Engage Community](https://nation.marketo.com/){target="_blank"} (auch als Marketing Nation bezeichnet), um mehr über Ihre Marketo Engage-Instanz von Marketo Engage-Mitarbeitern und anderen Benutzern zu erfahren.
 
-Erste Schritte in der Marketing Nation-Community:
+Erste Schritte in der Community:
 
 1. Klicks **Mit Adobe ID fortfahren** und wählen Sie Ihr primäres Abonnement auf der Anmeldeseite aus.
 1. Füllen Sie nach der Anmeldung Ihr Community-Profil aus.

@@ -2,11 +2,11 @@
 description: Erfahren Sie, wie Sie eine von Ihnen geerbte Marketo Engage-Instanz optimieren und skalieren können. Befolgen Sie die Checkliste, um die Admin-Einstellungen zu überprüfen und die Hygiene in der Datenbank zu gewährleisten.
 title: Startpunkt
 feature: Getting Started
-exl-id: a7abbfe3-c2ac-489f-bc4b-9e8d3412b419
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 819bddc4-0a92-4ff0-86c6-a93fc61dffac
+source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
 workflow-type: tm+mt
-source-wordcount: '468'
-ht-degree: 2%
+source-wordcount: '450'
+ht-degree: 0%
 
 ---
 
@@ -22,7 +22,7 @@ Stellen Sie sicher, dass Sie in der Community von Marketing Nation ordnungsgemä
 
 * Lesen Sie im Abschnitt [**Marketing Community-Richtlinien**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
 
-* Erfahren Sie, wie [**Support-Fall einreichen**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"} (and confirm you're [**set up as an authorized support contact**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}).
+* Erfahren Sie, wie [**Support-Fall einreichen**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"} (und bestätigen Sie Ihre [**als autorisierter Support-Ansprechpartner**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}).
 
 ## Zusammenführen Ihres Marketing Nation-Profils {#merge-your-marketing-nation-profile}
 
@@ -46,15 +46,15 @@ Adobe hat mit der Eingabe von Marketo Champions mehrere Checklisten für die Pr�
 
 Sie können auch [Checklisten herunterladen](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) in Tabellenform.
 
-* [Admin-Bereich](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md)
+* [Admin-Bereich](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md){target="_blank"}
 
-* [Datenbank](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)
+* [Datenbank](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md){target="_blank"}
 
-* [Marketingaktivitäten](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)
+* [Design Studio](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md){target="_blank"}
 
-* [Design-Studio](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)
+* [Marketingaktivitäten](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md){target="_blank"}
 
-* [Dokumentieren Sie die Einrichtung Ihrer geerbten Instanz.](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)
+* [Dokumentieren Sie die Einrichtung Ihrer geerbten Instanz.](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md){target="_blank"}
 
 ## Hilfen {#ways-to-get-help}
 
@@ -62,7 +62,7 @@ Benötigen Sie weitere Hilfe? Stellen Sie über die unten stehenden Links eine V
 
 * Für technische Hilfe bei Problemen, die nicht ordnungsgemäß funktionieren, wenden Sie sich an **[Marketo Engage-Kundenunterstützung](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}**.
 
-* Stellen Sie eine Verbindung zu anderen Marketo Engage-Benutzern her und lernen Sie von ihnen aus **[Marketing-Nation](https://nation.marketo.com/){target="_blank"}**.
+* Stellen Sie eine Verbindung zu anderen Marketo Engage-Benutzern her und lernen Sie von ihnen aus **[Adobe Marketo Engage Community](https://nation.marketo.com/){target="_blank"}**.
 
 * Wenden Sie sich für praktische Unterstützung beim Optimum aus Ihrer Marketo Engage-Instanz an **[Adobe Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}**.
 

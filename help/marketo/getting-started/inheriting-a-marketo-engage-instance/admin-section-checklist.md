@@ -3,9 +3,9 @@ description: Übernommene Checkliste für Instanzadministratoren - Marketo-Dokum
 title: Checkliste für geerbte Instanzadministratoren
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-source-git-commit: a3d9fcfa0381933e1a7e62f19b414bc380f325b5
+source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
 workflow-type: tm+mt
-source-wordcount: '1846'
+source-wordcount: '1858'
 ht-degree: 3%
 
 ---
@@ -22,7 +22,7 @@ Die folgenden Checklisten (nachfolgende Checklisten, die am Ende jedes Artikels 
 
 >[!NOTE]
 >
->Dies gilt nur für Marketo Engage-Abonnements, die an [Adobe Identity Management System (IMS)](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. If your subscription has not onboarded Adobe IMS yet, proceed with the [legacy user roles and permissions experience](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"} unter Marketo Engage > Admin > Benutzer und Rollen.
+>Dies gilt nur für Marketo Engage-Abonnements, die an [Adobe Identity Management System (IMS)](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. Wenn Ihr Abonnement noch nicht mit Adobe IMS integriert wurde, fahren Sie mit dem [Erlebnis älterer Benutzerrollen und Berechtigungen](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"} unter Marketo Engage > Admin > Benutzer und Rollen.
 
 <table> 
  <tbody> 
@@ -381,7 +381,3 @@ Sobald Sie die Prüfung der Benutzer- und Benutzereinstellungen abgeschlossen ha
   </tr>
  </tbody> 
 </table>
-
-<br> 
-
-[Prüfen einer geerbten Instanz: Datenbank ►](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)

@@ -2,10 +2,10 @@
 description: Checkliste für die geerbte Instanzdatenbank - Marketo-Dokumente - Produktdokumentation
 title: Checkliste für die geerbte Instanzdatenbank
 feature: Getting Started
-exl-id: efb126af-770c-4ce1-a131-0f3f66dfeafb
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 278a6a2f-7b68-4003-8727-129e0dc96c12
+source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '420'
 ht-degree: 7%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 7%
 
 Verstehen Sie die Gesamtzahl der Personen, vermarktbaren Personen und der Personen, die in Ihrem Abonnement die meisten Personen erwerben. Denken Sie daran, [Checklisten herunterladen](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) und verfolgen Sie Ihren Fortschritt.
 
-## Smart Lists für System {#system-smart-lists}
+## Intelligente Listen für System {#system-smart-lists}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -30,7 +30,7 @@ Verstehen Sie die Gesamtzahl der Personen, vermarktbaren Personen und der Person
 <br/>     Wenn Ihre Site unter diesen Schwellenwert fällt, sollten Sie sich die anderen System-Smart-Listen (Blockierungsliste, Marketing ausgesetzt, Duplikate, Abmeldung) mit größerer Sorgfalt ansehen.</li></td>
   </tr>
   <tr> 
-   <td>Abgemeldete Person</td> 
+   <td>Abbestellte Personen</td> 
    <td><li>Nach welchen Kriterien sind Sie für <a href="/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md#marketing-suspended" target="_blank">abgemeldete Personen</a>? Gibt es zu viele abgemeldete Personen?</li>
 <li>Stimmen Ihre Abmeldemethoden mit Ihren Datenschutzanforderungen überein?</li>
 <li>Ist Ihre Voreinstellung zur Abmeldung aktuell? Wie lange sind Datensätze in Ihrer Datenbank noch nicht vermarktbar?</li></td>
@@ -42,11 +42,11 @@ Verstehen Sie die Gesamtzahl der Personen, vermarktbaren Personen und der Person
 <p>Anwendungsbeispiel für Marketing ausgesetzt : Personen erfassen aktiv mit Verkäufen in verspäteten Gelegenheiten, für die Sie Marketing-Nachrichten unterdrücken möchten.</td>
   </tr>
    <tr> 
-   <td>Blockierungsliste</td> 
+   <td>Sperrliste</td> 
    <td><li>Nach welchen Kriterien sind Sie für <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md" target="_blank">auf die Blockierungsliste setzend Datensätze</a>? Gibt es zu viele auf die Blockierungsliste gesetzt?</li></td>
   </tr>
   <tr> 
-   <td>Unzustellbare E-Mail-Adressen</td> 
+   <td>Adressen für aufgrund von Bounce-Ereignissen unzustellbare E-Mails</td> 
    <td><li>Hast du viel? <a href="/help/marketo/product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.md" target="_blank">Bounce-Personen</a> in Ihrer Datenbank?
    <br/>     Wenn ja, prüfen Sie, warum.</li></td></li></td>
   </tr>
@@ -63,7 +63,7 @@ Verstehen Sie die Gesamtzahl der Personen, vermarktbaren Personen und der Person
  </tbody> 
 </table>
 
-## Smart Lists {#smart-lists}
+## Intelligente Listen {#smart-lists}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -72,7 +72,7 @@ Verstehen Sie die Gesamtzahl der Personen, vermarktbaren Personen und der Person
    <th>Fokus überprüfen</th>
   </tr> 
   <tr> 
-   <td>Smart Lists</td> 
+   <td>Intelligente Listen</td> 
    <td><li>Wie viele <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" target="_blank">Smart-Listen</a> Gibt es sie? Wie werden sie in dieser Instanz verwendet?</li>
    <p><img src="assets/note-icon.png" alt="Notizsymbol"> HINWEIS: Im Abschnitt "Datenbank"werden Smart-Listen für Gruppen vom Benutzer generiert und intelligente Systemlisten werden von Marketo Engage erstellt.
 <li>Sind die Listen in einer zusammenhängenden Ordnerstruktur organisiert? 
@@ -115,9 +115,3 @@ Verstehen Sie die Gesamtzahl der Personen, vermarktbaren Personen und der Person
   </tr>
  </tbody> 
 </table>
-
-<br> 
-
-[Audit und geerbte Instanz: Admin](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md)
-
-[Prüfen einer vererbten Instanz: Marketingaktivitäten ►](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)

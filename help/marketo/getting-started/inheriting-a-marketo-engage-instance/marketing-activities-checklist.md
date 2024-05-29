@@ -2,10 +2,10 @@
 description: Checkliste für geerbte Marketingaktivitäten der Instanz - Marketo-Dokumente - Produktdokumentation
 title: Checkliste für geerbte Marketingaktivitäten der Instanz
 feature: Getting Started
-exl-id: 3a23d7ae-aae9-4138-afcc-1d7830a5aeed
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 653e8081-25cd-411c-a6b4-bba269e0dac3
+source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
 workflow-type: tm+mt
-source-wordcount: '835'
+source-wordcount: '809'
 ht-degree: 2%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 2%
 
 Organisieren Sie Ihren Bereich Marketingaktivitäten ordnungsgemäß, um andere bei der Suche und Verwaltung verschiedener Programme in Ihrer Marketo Engage-Instanz zu unterstützen und sicherzustellen, dass Personen verarbeitet werden, die vom Marketing zum Vertrieb weitergeleitet werden. Denken Sie daran, [Checklisten herunterladen](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) und verfolgen Sie Ihren Fortschritt.
 
-## Organisation {#organization}
+## Organization {#organization}
 
 <table> 
  <tbody> 
@@ -126,7 +126,7 @@ Organisieren Sie Ihren Bereich Marketingaktivitäten ordnungsgemäß, um andere 
 <li>Erhöht oder verringert Ihre Personenermittlung die Punktzahl?</li></td>
   </tr>
   <tr> 
-   <td>Personen-Quelle</td> 
+   <td>Person – Quelle</td> 
    <td><li>Verfügen Sie über ein zentralisiertes Programm, das den Feldern der Personenquelle Werte zuordnet?</li>
 <p><img src="assets/note-icon.png" alt="Notizsymbol"> HINWEIS: Marketo Engage erfasst automatisch Daten in einem Quellfeld, unabhängig von den operationellen Programmen.</td>
   </tr>
@@ -165,9 +165,3 @@ Organisieren Sie Ihren Bereich Marketingaktivitäten ordnungsgemäß, um andere 
   </tr>
  </tbody> 
 </table>
-
-<br> 
-
-[Datenbank bearbeiten](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)
-
-[Prüfen einer geerbten Instanz: Design Studio ►](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)
