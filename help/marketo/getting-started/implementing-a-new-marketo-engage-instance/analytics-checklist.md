@@ -4,9 +4,9 @@ title: Best Practices für neue Instanzen - Checkliste für Analytics
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: df8087dbaf2b621d0d877eba1c16f160ee9bf460
+source-git-commit: 6aeb894e6a36064825a25474c67f53a291f548ab
 workflow-type: tm+mt
-source-wordcount: '1393'
+source-wordcount: '1615'
 ht-degree: 1%
 
 ---
@@ -117,7 +117,8 @@ Ermitteln Sie Berichte, die für verschiedene Benutzergruppen in Ihrer Organisat
     <li>Verwalten Sie die Programmmitgliedschaft (mithilfe von Smart-Kampagnen, um das Akquiseprogramm, den Status, den Erfolgsstatus zu aktualisieren) gemäß den Best Practices in Marketing-Aktivitäten.</li>
     <li>Maßnahme auf der Grundlage der Kosten für das laufende Jahr und für die laufenden 12 Monate.
     <ul><li>Beachten Sie, dass <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program">Periodenkosten</a> ist von entscheidender Bedeutung für die Nutzung des Programmleistungsberichts.</li></ul>
-    <p><img src="assets/tip-icon.png" alt="Notizsymbol"> TIPP: Aggregieren und Anzeigen von <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people">importierte Listen</a> Stellen Sie in den Programmleistungsberichten sicher, dass Ihre Teams das entsprechende Akquiseprogramm für das Tagging auswählen. Überlegen <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/create-and-measure-default-programs">Erstellen eines Standardprogramms</a> als Akquiseprogramm auszuwählen, wenn die importierten Listen für keinen Kanal gelten. Dadurch wird sichergestellt, dass jede importierte Person über ein gültiges Akquiseprogramm, das sich auf Quelle, Geschäftseinheit, Kanal usw. bezieht, anstatt über einen leeren Wert verfügt.</td>
+    <br>
+    <br><img src="assets/tip-icon.png" alt="Notizsymbol"> TIPP: Aggregieren und Anzeigen von <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people">importierte Listen</a> Stellen Sie in den Programmleistungsberichten sicher, dass Ihre Teams das entsprechende Akquiseprogramm für das Tagging auswählen. Überlegen <a href="https://experienceleague.adobe.com/de/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/create-and-measure-default-programs">Erstellen eines Standardprogramms</a> als Akquiseprogramm auszuwählen, wenn die importierten Listen für keinen Kanal gelten. Dadurch wird sichergestellt, dass jede importierte Person über ein gültiges Akquiseprogramm, das sich auf Quelle, Geschäftseinheit, Kanal usw. bezieht, anstatt über einen leeren Wert verfügt.</td>
   </tr>
   <tr>
     <td>Landingpage-Leistungsbericht</td>
@@ -152,7 +153,7 @@ Einige Marketo Engage-Berichte eignen sich am besten als lokale Assets innerhalb
   <tr>
     <td>Bericht zur Kampagnenaktivität</td>
     <td><li>Erstellen Sie die <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/campaign-activity-report" target="_blank">Bericht zur Kampagnenaktivität</a> und wählen Sie einen Zeitraum innerhalb Ihres Ordners in Marketing-Aktivitäten aus.</li>
-    <li>Richten Sie Berichte ein, um die Trigger für jeden Anwendungsfall zu überwachen, und <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/campaign-activity-report" target="_blank">Kampagnenfilter anwenden</a> (z. B. Trigger zur Verhaltensscoring, Trigger zur Lebenszyklusqualifizierung, Trigger zu interessanten Momenten).</li></td>
+    <li>Richten Sie Berichte ein, um die Trigger für jeden Anwendungsfall zu überwachen, und <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report" target="_blank">Kampagnenfilter anwenden</a> (z. B. Trigger zur Verhaltensscoring, Trigger zur Lebenszyklusqualifizierung, Trigger zu interessanten Momenten).</li></td>
   </tr>
   <tr>
     <td>Interaktions-Stream-Leistungsbericht (falls zutreffend)</td>
@@ -160,4 +161,41 @@ Einige Marketo Engage-Berichte eignen sich am besten als lokale Assets innerhalb
     <li>Erwägen Sie die Verwendung der <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/group-email-reports-by-segmentations" target="_blank">Filter "Segmentierung"im Tab Einrichtung des Berichts</a> und die Berichtsdaten nach der <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation" target="_blank">Segment</a> (z. B. Personenquelle, Branche), die in Ihrem Interaktionsprogramm verwendet wird. Auf diese Weise erhalten Sie tiefere Einblicke in die Interaktionsmuster der einzelnen Segmente und können so strategische Änderungen vornehmen, um Ihr Interaktionsprogramm zu verbessern (Inhalt, Stream, Stream-Kadenz usw.).</li></td>
   </tr>
 </tbody>
+</table>
+
+TABELLE MIT ARBEITSBLÖCKEN
+
+<table>
+<tbody>
+<tr>
+    <td>Berichte gruppieren</td>
+    <td><img src="assets/note-icon.png" alt="Notizsymbol"> HINWEIS: TEXT.
+    <p>
+    <li>TEXT.</li>
+    <li>TEXT.
+    <ul><li>TEXT</li>
+    <li>TEXT</li></ul>
+    <li>TEXT.</li>
+    <li>TEXT.</li>
+    <p><img src="assets/tip-icon.png" alt="Notizsymbol"> TIPP: TEXT.</td>
+  </tr>
+  </tbody>
+</table>
+
+PRÜFFIX 1
+
+<table>
+<tbody>
+<tr>
+    <td>Personenleistungsbericht</td>
+    <td><img src="assets/note-icon.png" alt="Notizsymbol"> HINWEIS: Es wird empfohlen, über eine <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags">Kanal- und Tag-Strategie</a> für jede Marketo Engage-Implementierung, bevor Sie die erworbenen Personen und den ROI Ihrer Marketinginvestitionen nach Kanal verfolgen können.
+    <p>
+    <li>Legen Sie die Kriterien fest, anhand derer Sie die Leistung Ihrer Lead-Akquiseprogramme messen, und erstellen Sie anhand dieser Metriken zeitbasierte (aktuelle, letzte rollierende 12-Monats-Ansicht oder 180-Tage-Berichte) Standardberichte:</li>
+    <ul><li>Akquiseprogramm: Marketo Engage-Programm, das für die Akquise der Person gutgeschrieben wird</li>
+    <li>Personenquelle: Die Quellkategorie, aus der hervorgeht, wie der Datensatz Ihrer Datenbank bekannt wurde (basierend auf der Quellliste der Werte in Ihrem CRM)</li></ul>
+    <li>Messen Sie nach Woche oder Monat erstellte Personen. Dieser Bericht liefert Ihnen einen Messwert zur Wachstumsrate Ihrer Datenbank und darüber, ob Sie sich Ihrer Datenbankgrößenbegrenzung nähern.</li>
+    <li>Filtern Sie die Metriken in "People Performance Reports" nach <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report">Verwenden Ihrer Smart-Listen als benutzerdefinierte Spalten.</a></li>
+    <p><img src="assets/tip-icon.png" alt="Notizsymbol"> TIPP: Erstellen Sie Smart-Listen für die benutzerdefinierten Spalten, die Sie zum Bericht zur Leistung von Personen in der Datenbank hinzufügen möchten, anstelle von Marketing-Aktivitäten, damit Sie den Namen der Smart-Liste richtig und deutlich sehen können, wenn er im Bericht ausgewählt wird.</td>
+  </tr>
+  </tbody>
 </table>
