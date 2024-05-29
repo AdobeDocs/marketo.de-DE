@@ -3,7 +3,7 @@ description: Lernen Sie die Best Practices bei der Implementierung einer neuen M
 title: Startpunkt
 feature: Getting Started
 exl-id: 91b751ab-88c5-4575-96f8-166f62f007e2
-source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
+source-git-commit: abd80b3370f7fd107a6ae55edfeb17c3eeb358ec
 workflow-type: tm+mt
 source-wordcount: '281'
 ht-degree: 0%
@@ -51,3 +51,4 @@ Erste Schritte in der Community:
 1. Klicks **Mit Adobe ID fortfahren** und wählen Sie Ihr primäres Abonnement auf der Anmeldeseite aus.
 1. Füllen Sie nach der Anmeldung Ihr Community-Profil aus.
 1. Nachdem Sie die Informationen abgeschickt haben, landen Sie auf der Community-Homepage und sind bereit zu gehen!
+
