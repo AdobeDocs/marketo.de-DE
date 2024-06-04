@@ -4,10 +4,10 @@ description: Grundlegendes zur Programmmitgliedschaft - Marketo-Dokumente - Prod
 title: Grundlegendes zur Programmmitgliedschaft
 exl-id: 02480a93-b499-4e0f-8a1c-a22f7d3b7178
 feature: Programs
-source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
+source-git-commit: eb6d834c1f430beebf0666d7694203a268be93f2
 workflow-type: tm+mt
 source-wordcount: '309'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->Marketo standardisiert jetzt die Sprache für alle Abonnements, sodass Sie Leads/Leads in Ihrem Abonnement und Personen in unseren Dokumenten sehen können. Diese Begriffe bedeuten das Gleiche; sie wirken sich nicht auf Artikelanweisungen aus. Es gibt auch einige andere Änderungen. [Weitere Informationen](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md){target="_blank"}.
+>Marketo standardisiert jetzt die Sprache für alle Abonnements, sodass Sie Leads/Leads in Ihrem Abonnement und Personen in unseren Dokumenten sehen können. Diese Begriffe bedeuten das Gleiche; sie wirken sich nicht auf Artikelanweisungen aus. Es gibt auch einige andere Änderungen. [Weitere Infos](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md){target="_blank"}.
 
 >[!NOTE]
 >
@@ -64,5 +64,5 @@ Wenn ein neuer Name in das System als Programmmitglied aufgenommen wird, setzt M
 
 >[!MORELIKETHIS]
 >
->* [Verwenden von Tags in einem Programm](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md){target="_blank"}
+>* [Verwenden von Tags in einem Programm](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/use-tags-in-a-program.md){target="_blank"}
 >* [Erstellen eines Berichts zur Programmleistung](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"}

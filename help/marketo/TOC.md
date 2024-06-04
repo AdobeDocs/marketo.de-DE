@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
+source-git-commit: eb6d834c1f430beebf0666d7694203a268be93f2
 workflow-type: tm+mt
 source-wordcount: '9358'
 ht-degree: 3%
@@ -410,7 +410,7 @@ ht-degree: 3%
             + [Synchronisieren einer SFDC-Kampagne mit einem Programm](product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md)
             + [Zeitkosten verstehen](product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md)
             + [Grundlegendes zu Tags](product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md)
-            + [Verwenden von Tags in einem Programm](product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md)
+            + [Verwenden von Tags in einem Programm](product-docs/core-marketo-concepts/programs/working-with-programs/use-tags-in-a-program.md)
             + [Verwenden von Zeitraumkosten in einem Programm](product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
          + Programmbibliothek {#program-library}
             + [Übersicht über den Programmimport](product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md)
