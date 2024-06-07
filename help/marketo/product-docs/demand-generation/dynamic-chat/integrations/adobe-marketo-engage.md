@@ -3,7 +3,7 @@ description: Adobe Marketo Engage - Marketo Docs - Produktdokumentation
 title: Adobe Marketo Engage
 feature: Dynamic Chat
 exl-id: 9ce43de3-0503-4894-89f2-ee24e7df9a73
-source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 2%
@@ -18,7 +18,7 @@ Nachdem Sie die [Ersteinrichtung](/help/marketo/product-docs/demand-generation/d
 
 >[!NOTE]
 >
->Dynamic Chat unterstützt die Synchronisierung [Marketo nativ](https://developers.marketo.com/rest-api/lead-database/fields/list-of-standard-fields/){target="_blank"} sowie benutzerdefinierte Personenkategorien und Unternehmensfelder.
+>Dynamic Chat unterstützt die Synchronisierung [Marketo nativ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/field-types){target="_blank"} sowie benutzerdefinierte Personenkategorien und Unternehmensfelder.
 
 1. Klicken Sie in My Marketo auf die **[!UICONTROL Dynamic Chat]** Kachel.
 

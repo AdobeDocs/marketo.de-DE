@@ -4,9 +4,9 @@ description: Benutzerdefinierte Felder für Programmmitglieder - Marketo-Dokumen
 title: Benutzerdefinierte Felder für Programmmitglieder
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '416'
 ht-degree: 1%
 
 ---
@@ -51,12 +51,12 @@ Benutzerdefinierte Felder für Programmmitglieder ermöglichen die Erfassung pro
 |---|---|
 | Unternehmen | Der Name des mit der Person verknüpften Unternehmens. |
 | Opportunity | Eine Möglichkeit kann mit einer Person oder einem Konto als potenzieller künftiger Verkauf verbunden werden. Normalerweise gelangen sie über ein CRM-System oder eine API in Marketo. |
-| -Person | Eine Person in Ihrer Marketo-Datenbank, mit der Sie über Marketingkampagnen interagieren. |
+| Person | Eine Person in Ihrer Marketo-Datenbank, mit der Sie über Marketingkampagnen interagieren. |
 | Programmmitglied | Person, die auch Mitglied eines Programms ist |
 
 ## Trigger und Filter {#triggers-and-filters}
 
-Sie können diese programmspezifischen Daten in Smart-Listen über [Trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"} and/or [filters](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}.
+Sie können diese programmspezifischen Daten in Smart-Listen über [Trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"} und/oder [Filter](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}.
 
 ![](assets/six.png)
 
@@ -68,7 +68,7 @@ Sie können diese programmspezifischen Daten in Smart-Listen über [Trigger](/he
 * Das Programmteilobjekt kann über bis zu 20 benutzerdefinierte Felder verfügen. Diese Felder stehen jedem Programm zur Verfügung.
 * Wenn Sie ein Mitglied eines Programms entfernen und im benutzerdefinierten Feld Programmteilnehmer Daten enthalten, werden die Daten aus diesem Feld gescrollt.
 * Um die Daten anzuzeigen, klicken Sie im Programm auf den Tab Mitglieder und erstellen Sie eine benutzerdefinierte Ansicht, die diese Felder enthält.
-* Import und Export über [Liste](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} and [API](https://developers.marketo.com/){target="_blank"} werden unterstützt. Exporte funktionieren nur auf Programmteilslisten, nicht auf statischen Listen.
+* Import und Export über [Liste](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} und [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home){target="_blank"} werden unterstützt. Exporte funktionieren nur auf Programmteilslisten, nicht auf statischen Listen.
 * Wenn Sie zwei Personen zusammenführen, werden die benutzerdefinierten Felddaten des Gewinners für das Programmmitglied verwendet. Aber wenn der Gewinner keinen hat, wird der Wert des Verlierers verwendet.
 * Der Änderungstyp ist in den Feldern &quot;Programmteilnehmer-Info&quot;nicht zulässig.
 * Die Beschränkung &quot;enthält&quot;der intelligenten Liste wird für benutzerdefinierte Felder des Programmmitglieds nicht unterstützt.

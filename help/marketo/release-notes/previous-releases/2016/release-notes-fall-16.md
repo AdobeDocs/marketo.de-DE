@@ -4,10 +4,10 @@ description: Versionshinweise - Herbst 16 - Marketo-Dokumente - Produktdokumenta
 title: Versionshinweise - Herbst 16
 exl-id: da935951-162e-426c-acf2-12c55ff706b4
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '682'
-ht-degree: 2%
+source-wordcount: '661'
+ht-degree: 1%
 
 ---
 
@@ -53,7 +53,7 @@ Jetzt können Sie im Account Based Marketing (ABM) Kontoteams benannten Konten z
 
 **REST-API**
 
-Mit dieser Version können Sie auch benannte Kontoattribute und Kontobewertungen in ABM mithilfe der Marketo REST API verwalten. Weitere Informationen zu den API-Vorgängen finden Sie im [Marketo Developer-Website](https://developers.marketo.com/rest-api/lead-database/named-accounts).
+Mit dieser Version können Sie auch benannte Kontoattribute und Kontobewertungen in ABM mithilfe der Marketo REST API verwalten. Weitere Informationen zu den API-Vorgängen finden Sie im [Marketo Developer-Website](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-accounts).
 
 ## [Verbesserungen am Audit-Protokoll](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
 
@@ -61,13 +61,13 @@ Das Audit-Protokoll bietet einen umfassenden Verlauf der Änderungen, die innerh
 
 ## [Neuzulassungen](/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md) {#new-permissions}
 
-**E-Mails einsatzbereit machen**
+**E-Mail-Betrieb**
 
 Vorbei sind die Tage, an denen Sie sich Sorgen machen mussten, dass Benutzer Transaktions-E-Mails an Personen in Ihrer Datenbank senden, die sich abgemeldet haben. Sie können jetzt festlegen, welche Benutzer eine E-Mail in Betrieb nehmen oder betriebliche E-Mails bearbeiten können.
 
-**Kampagne-Einschränkungen bearbeiten**
+**Kampagnenbeschränkungen bearbeiten**
 
-Warum [Kampagnenbeschränkungen](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md) wenn Sie sie nicht durchsetzen können? Wenn Sie die Kampagnenbegrenzungseinstellungen so festlegen, dass die Anzahl der Personen in Ihrer Datenbank, die für eine einzelne Kampagne infrage kommen, begrenzt wird, können Sie jetzt einschränken, welche Benutzer diese Einstellungen bei der Planung einer Kampagne überschreiben können.
+Warum [Kampagnenbeschränkungen](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md) wenn Sie sie nicht durchsetzen können? Wenn Sie die Kampagnenbegrenzungseinstellungen so festlegen, dass die Anzahl der Personen in Ihrer Datenbank, die für eine einzelne Kampagne infrage kommen, begrenzt wird, können Sie jetzt einschränken, welche Benutzer diese Einstellungen bei der Planung einer Kampagne außer Kraft setzen können.
 
 ## [Ton für Push-Benachrichtigungen auf Mobilgeräten](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) {#sound-for-mobile-push-notifications}
 
@@ -84,14 +84,14 @@ Lassen Sie Ihre Push-Benachrichtigung in iOS durch die Aktivierung von Ton unzä
 
 Market Sales Insight ist jetzt mit der Salesforce Shield-Verschlüsselung kompatibel. Alle Sales Insight-Kunden sollten ein Upgrade auf dieses neueste verwaltete Paket durchführen (Version 1.4359.2). [auf der Appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO).
 
-## [APIs für benannte Konten](https://developers.marketo.com/rest-api/lead-database/named-accounts/) {#named-accounts-apis}
+## [APIs für benannte Konten](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-accounts) {#named-accounts-apis}
 
 Mit dieser Version können ABM-Benutzer von Marketo benannte Konten über die API &quot;Spezifische Konten&quot;verwalten. Benutzer können benannte Konten erstellen, aktualisieren und löschen sowie von ABM benannte Kontobewertungen lesen und aktualisieren.
 
-## [API-Unterstützung für Email Editor v2.0](https://developers.marketo.com/rest-api/assets/emails/) {#email-editor-v-api-support}
+## [API-Unterstützung für Email Editor v2.0](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting) {#email-editor-v-api-support}
 
 Verwalten Sie Variablen und Module für E-Mails im v2.0-Format mithilfe der Marketo REST-API.
 
-## [Änderungen an der Marketo Salesforce-Synchronisierung](https://nation.marketo.com/docs/DOC-3840) {#changes-to-marketo-salesforce-sync}
+## [Änderungen an der Salesforce-Synchronisierung in Marketo](https://nation.marketo.com/docs/DOC-3840) {#changes-to-marketo-salesforce-sync}
 
 Die Salesforce-Integration von Marketo entwickelt sich weiter, um die Synchronisierung von Marketo-Feldern mit Salesforce zu verbessern. Anstatt eine große Gruppe von Feldern zu synchronisieren, die Sie möglicherweise benötigen oder nicht, können Sie jetzt auswählen, welche Felder Sie einbeziehen möchten. Weitere Informationen finden Sie in unserer Dokumentation: [https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840).

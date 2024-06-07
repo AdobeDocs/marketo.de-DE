@@ -4,10 +4,10 @@ description: Web-Segmente - Marketo-Dokumente - Produktdokumentation
 title: Websegmente
 exl-id: ec62c1ae-579a-4753-9b2d-18c7c2fa1ff5
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '2031'
-ht-degree: 6%
+source-wordcount: '2051'
+ht-degree: 5%
 
 ---
 
@@ -101,7 +101,7 @@ Definieren Sie allgemeine Parameter für Ihr Segment:
 
 >[!TIP]
 >
->**Logik der Segmentregel**
+>**Segment Rule Logic**
 >
 >Es gibt drei Filteroptionen:
 >
@@ -170,7 +170,7 @@ Unter dem **Profilsegmentierung** -Abschnitt, aktivieren Sie das Kontrollkästch
    * Unternehmen - Umfasst Organisationen mit mehr als 1.000 Mitarbeitern und einem Umsatz von mehr als 250 Mio. USD
    * KMU - Schließt nur kleine und mittlere Unternehmen in dieses Segment ein
 
-**-Bekannte Kunden-**
+**-Named Accounts-**
 
 **Organisationen**
 
@@ -179,7 +179,7 @@ Unter dem **Profilsegmentierung** -Abschnitt, aktivieren Sie das Kontrollkästch
    * Wählen Sie aus der Dropdown-Liste &quot;Unternehmen zum Hinzufügen auswählen&quot;das Unternehmen aus, das als Ziel ausgewählt werden soll.
    * Sie können den genauen Organisationsnamen eingeben, den Sie als Ziel auswählen möchten. *Es ist _always_ Es wird empfohlen, Named Account Lists zu verwenden, anstatt die Namen manuell für bessere Übereinstimmungen einzugeben (siehe unten).
 
-**Liste von benannten Konten**
+**Liste benannter Konten**
 
 Wählen Sie aus einer [Liste benannter Konten](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md) , um wichtige Zielgruppenkonten zu segmentieren.
 
@@ -187,7 +187,7 @@ Wählen Sie aus einer [Liste benannter Konten](/help/marketo/product-docs/web-pe
 
 >[!NOTE]
 >
->Die Zahl in den Klammern neben dem Namen der Liste &quot;Spezifisches Konto&quot;wird als Indexreferenz für die Liste für die Web-Personalisierung verwendet [API lesen](https://developers.marketo.com/documentation/websites/rtp-js-api/).
+>Die Zahl in den Klammern neben dem Namen der Liste &quot;Spezifisches Konto&quot;wird als Indexreferenz für die Liste für die Web-Personalisierung verwendet [API lesen](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization).
 
 **ISP ausschließen**
 
@@ -211,7 +211,7 @@ Sie können Personendatenfelder über Kontoeinstellungen > Datenbank hinzufügen
 >
 >Z. B. &quot;Job Title equals CMO&quot;und &quot;Score ist kleiner oder gleich 50&quot;
 
-**Marketo Email Campaign** Segmentieren und personalisieren Sie Kampagnen per E-Mail-Verweis von einem Besucher, der auf eine Marketo-E-Mail klickt und auf die Site gelangt. Segmentieren Sie nach Marketo-Programmname oder Kampagnenname und setzen Sie die Konvertierung von E-Mail ins Internet fort. Wählen Sie + aus, um Felder aus der Dropdown-Liste hinzuzufügen.
+**Marketo Email Campaign** Segmentieren und personalisieren Sie Kampagnen per E-Mail-Verweis von einem Besucher, der auf eine Marketo-E-Mail klickt und auf die Site gelangt. Segmentieren Sie nach Marketo-Programmname oder Kampagnenname und fahren Sie mit der Konversation von E-Mail zu Web fort. Wählen Sie + aus, um Felder aus der Dropdown-Liste hinzuzufügen.
 
 ![](assets/image2015-5-27-17-3a20-3a34.png)
 
@@ -256,7 +256,7 @@ Definieren Sie Ihr Segment entsprechend dem Status eines Interessenten: bekannt 
 
 ### Gerät / Browser {#device-browser}
 
-**Mobiles OS:**
+**Mobilbetriebssystem**
 
 Ziehen Sie das mobile Betriebssystem in den Segmenteditor.
 
@@ -286,7 +286,7 @@ Fügen Sie den Ereigniswert hinzu, den Sie als Ziel auswählen möchten. z. B. a
 
 **Benutzerkontext-API**
 
-Web Personalization-API-Aufruf  [Weitere Informationen dazu finden Sie hier .](https://developers.marketo.com/documentation/websites/rtp-user-context-api/)
+Web Personalization-API-Aufruf  [Weitere Informationen dazu finden Sie hier .](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)
 
 >[!TIP]
 >
@@ -302,7 +302,7 @@ Sie können ein Segment bearbeiten, das erstellt wurde.
 
 1. Im **Segmente** auf das Bearbeitungssymbol ( ![](assets/segment-edit.png)) des Segments, das Sie bearbeiten möchten. Die **Segment festlegen** Seite mit dem ausgewählten Segment geöffnet.
 1. Wenden Sie alle Änderungen an, die Sie am Segment vornehmen möchten.
-1. Klicks **Speichern**.
+1. Klicken Sie auf **Speichern**.
 
 ## Segmente löschen {#delete-segments}
 
@@ -314,13 +314,13 @@ Sie können von Ihnen erstellte Segmente löschen.
 
 >[!NOTE]
 >
->Ein Segment, das einer Kampagne zugeordnet ist, kann nicht gelöscht werden. Löschen Sie zunächst die Kampagne und dann das Segment.
+Ein Segment, das einer Kampagne zugeordnet ist, kann nicht gelöscht werden. Löschen Sie zunächst die Kampagne und dann das Segment.
 
 Sehr gut! Nachdem Sie nun den Abschnitt Segmente verstanden haben, sollten wir uns mit Kampagnen vertraut machen.
 
 >[!MORELIKETHIS]
 >
->* [Erstellen eines einfachen Websegments](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)
->* [Erstellen einer neuen Web-Kampagne für Dialogfelder](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
->* [Erstellen einer neuen Web-Kampagne in Zone](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
->* [Erstellen einer neuen Widget-Webkampagne](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+* [Erstellen eines einfachen Websegments](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)
+* [Erstellen einer neuen Web-Kampagne für Dialogfelder](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+* [Erstellen einer neuen Web-Kampagne in Zone](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+* [Erstellen einer neuen Widget-Webkampagne](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)

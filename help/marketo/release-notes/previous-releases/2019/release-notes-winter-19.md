@@ -4,9 +4,9 @@ description: Versionshinweise - Winter 19 - Marketo Docs - Produktdokumentation
 title: Versionshinweise - Winter '19
 exl-id: 0cb3b3a1-472e-41d4-84f4-47f06e65017c
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '1109'
+source-wordcount: '1079'
 ht-degree: 3%
 
 ---
@@ -40,7 +40,7 @@ Fügen Sie E-Mails, die über Marketo gesendet werden, bis zu fünf CC-Adressen 
 * **Unterstützung für mehrere Branding-Domänen für die Asset-API:** Das Genehmigen und Klonen von Assets führt innerhalb der API und Benutzeroberfläche zu denselben Ergebnissen.
 * **E-Mail-CC-Unterstützung für Asset-API**: Benutzer, die E-Mails über die API klonen, genehmigen und verarbeiten, stimmen mit den Benutzeroberflächeneinstellungen überein.
 
-**[Munchkin v155 (Beta)](https://developers.marketo.com/javascript-api/lead-tracking/configuration/)**
+**[Munchkin v155 (Beta)](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking)**
 
 * **Nur-API-Modus**: Benutzer können jetzt bestimmen, wann und wie Mitglieder ihrer Datenbank verfolgt werden, indem sie zulassen, dass einseitige Webanwendungen explizit aufrufen, wenn sie einen Webseitenbesuch aufzeichnen möchten, anstatt sich auf die automatische Verfolgung von Marketo zu verlassen.
 * **Opt-out-Verwaltung**: Einfaches Verwalten von Opt-outs durch Abgleichen der Opt-out-Cookie-Domäne mit der Munchkin-Tracking-Cookie-Domäne.
@@ -93,7 +93,7 @@ Personalisieren Sie Ihre ABM-Kampagnen für bestimmte Personas in benannten Kont
 
 * **Zertifizierung nach SOC II Typ II**: Die neue Sicherheits- und Datenschutzzertifizierung baut auf der Typakkreditierung I von Anfang dieses Jahres auf.
 
-## Webpersonalisierung {#web-personalization}
+## Web-Personalisierung {#web-personalization}
 
 **[In den Kontoeinstellungen Subdomänen hinzufügen](/help/marketo/product-docs/web-personalization/getting-started/workspaces-in-web-personalization.md)**
 
@@ -103,10 +103,9 @@ Um Domänen und Subdomänen effizienter zu verwalten, können Benutzer nun Subdo
 
 **Aktualisiertes MME Software Development Kit (SDK) für Android**
 
-Wir haben unser SDK für Android auf ein moderneres, stabileres und skalierbareres Framework aktualisiert, das mehr Flexibilität und neue technische Funktionen enthält. Entwickler von Android-Apps können jetzt die Google [Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging/) (FCM) mit diesem neuen SDK.
+Wir haben unser SDK für Android auf ein moderneres, stabileres und skalierbareres Framework aktualisiert, das mehr Flexibilität und neue technische Funktionen enthält. Entwickler von Android-Apps können jetzt Google direkt verwenden [Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging/) (FCM) mit diesem neuen SDK.
 
-* [Entwicklerhandbücher](https://developers.marketo.com/mobile/installation/#android_adding_fcm_to_your_application)
-* [Häufig gestellte Fragen für Entwickler](https://developers.marketo.com/mobile/installation/#android_fcm_faq)
+* [Entwicklerhandbücher]https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)
 
 >[!NOTE]
 >

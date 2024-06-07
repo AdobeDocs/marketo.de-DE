@@ -4,10 +4,10 @@ description: Dynamisches Umschalten der Sichtbarkeit eines Formularfelds - Marke
 title: Dynamisches Umschalten der Sichtbarkeit eines Formularfelds
 exl-id: 51b9283d-bfa1-4535-89ba-96c0ae2ea909
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 0%
+source-wordcount: '242'
+ht-degree: 1%
 
 ---
 
@@ -49,7 +49,7 @@ Eine wirklich coole Funktion von Marketo forms ist, dass Sie Formularfelder dyna
 
    ![](assets/image2014-9-15-15-3a16-3a50.png)
 
-1. Wählen Sie die zu suchenden Werte aus und klicken Sie dann außerhalb der Dropdown-Liste auf .
+1. Wählen Sie die Werte aus, nach denen gesucht werden soll, und klicken Sie dann außerhalb der Dropdown-Liste auf .
 
    ![](assets/image2014-9-15-15-3a17-3a4.png)
 
@@ -61,7 +61,7 @@ Eine wirklich coole Funktion von Marketo forms ist, dass Sie Formularfelder dyna
    >
    >Zuvor haben wir Land in einen Feldtyp vom Typ &quot;Auswahlliste&quot;konvertiert und [Alle Länder als Werte hinzugefügt](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md).
 
-1. Klicks **Speichern**.
+1. Klicken Sie auf **Speichern**.
 
    ![](assets/image2014-9-15-15-3a18-3a15.png)
 
@@ -69,6 +69,6 @@ Und das ist es! Wenn Sie nun dieses Formular ausfüllen und &quot;USA für Land&
 
 >[!IMPORTANT]
 >
->Das Verhalten von Formularfeldern funktioniert nahtlos, wenn Feldwerte über ein benutzerdefiniertes Skript mithilfe von [API-Funktionen](https://developers.marketo.com/javascript-api/forms/){target="_blank"} in Forms 2.0.
+>Das Verhalten von Formularfeldern funktioniert nahtlos, wenn Feldwerte über ein benutzerdefiniertes Skript mithilfe von [API-Funktionen](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"} in Forms 2.0.
 >
 >Bedingte Felder funktionieren möglicherweise nicht wie erwartet, wenn Feldwerte von anderen externen Skripten als der Forms 2.0 JavaScript-API geändert werden.

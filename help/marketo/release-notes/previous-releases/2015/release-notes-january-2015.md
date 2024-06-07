@@ -4,9 +4,9 @@ description: Versionshinweise - Januar 2015 - Marketo-Dokumente - Produktdokumen
 title: Januar 2015 - Versionshinweise
 exl-id: f312ff87-6ac1-4167-be98-76600bb4b3cd
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '356'
 ht-degree: 4%
 
 ---
@@ -31,7 +31,7 @@ Drei neue Aufrufe für die Lead- und Aktivitäts-ReST-API:
 * Abrufen von Leads nach Programm-ID
 * Gelöschte Leads abrufen
 
-Außerdem gibt es eine neue Option für &quot;Lead synchronisieren&quot;, um die Lead-Änderung asynchron zu schreiben, um einen schnelleren API-Aufruf zu ermöglichen. Vollständige Details werden nach der Veröffentlichung unter [developers.marketo.com](https://developers.marketo.com)
+Außerdem gibt es eine neue Option für &quot;Lead synchronisieren&quot;, um die Lead-Änderung asynchron zu schreiben, um einen schnelleren API-Aufruf zu ermöglichen. Vollständige Details werden nach der Veröffentlichung unter [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home)
 
 **E-Mail-Skriptfunktionen: Support für benutzerdefinierte Objekte**
 
@@ -62,6 +62,6 @@ Die RTP-Tag-Optionen unter &quot;Kontoeinstellungen&quot;wurden aktualisiert und
 1. Asynchrones Tag ohne CDN
 1. Synchrone Tags ohne CDN
 
-Für eine optimale Leistung wird empfohlen, das Tag oben in der Kopfzeile auf Ihrer Web-Seite zu platzieren, nachdem `<head>`. Alle Tags ermöglichen die Verwendung der [RTP-API](https://developers.marketo.com/documentation/websites/rtp-js-api/). Informationen zur Bereitstellung des RTP-Tags finden Sie unter [here](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
+Für eine optimale Leistung wird empfohlen, das Tag oben in der Kopfzeile auf Ihrer Web-Seite zu platzieren, nachdem `<head>`. Alle Tags ermöglichen die Verwendung der [RTP-API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation). Informationen zur Bereitstellung des RTP-Tags finden Sie unter [here](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
 
 ![](assets/image2015-1-15-13-3a30-3a45.png)

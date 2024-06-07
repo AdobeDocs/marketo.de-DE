@@ -3,10 +3,10 @@ unique-page-id: 2953243
 description: Benachrichtigungstypen - Marketo-Dokumente - Produktdokumentation
 title: Benachrichtigungstypen
 exl-id: 384cea0a-6252-4600-9211-aa5d6a7e875c
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 4%
+source-wordcount: '237'
+ht-degree: 5%
 
 ---
 
@@ -54,10 +54,10 @@ Wenn Marketo nach drei Versuchen nicht in der Lage ist, eine neue Zielgruppe zu 
 
 ![](assets/linkedin.png)
 
-## Web-Services {#web-services}
+## Webdienste {#web-services}
 
 Sie werden benachrichtigt, wenn Sie Ihr tägliches Kontingent erreichen. Die Quote wird jede Nacht um Mitternacht, Central Time, zurückgesetzt.
 
 >[!NOTE]
 >
->Einige der Fehlercodes, die Sie möglicherweise erhalten, sind in unserer [Entwicklerdokumentation](https://developers.marketo.com/rest-api/error-codes/#response_level_error_codes).
+>Einige der Fehlercodes, die Sie möglicherweise erhalten, sind in unserer [Entwicklerdokumentation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/error-codes).

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7514956
-description: Aktivieren von prädiktiven Inhalten für Web Rich Media - Marketo Docs - Produktdokumentation
+description: Aktivieren prädiktiver Inhalte für Web Rich Media - Marketo Docs - Produktdokumentation
 title: Aktivieren prädiktiver Inhalte für Web Rich Media
 exl-id: 030f1dd7-8fe7-4c82-be5e-052f0a259e3c
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -47,14 +47,14 @@ Nachdem Sie den Inhaltstitel, die Beschreibung und das Bild für Rich Media vorb
 
 ## Anpassen des JavaScript-Codes und Einbetten in Ihre Website  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-Weitere Informationen finden Sie in der Dokumentation zur Rich-Media-Empfehlungsvorlage . [auf der Entwickler-Website von Marketo](https://developers.marketo.com/documentation/websites/rtp-rich-media-recommendations-api){target="_blank"}. In diesem Abschnitt wird beschrieben, wie Sie die Vorlage für Ihre Website anpassen.
+Weitere Informationen finden Sie in der Dokumentation zur Rich-Media-Empfehlungsvorlage . [auf der Entwickler-Website von Marketo](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. In diesem Abschnitt wird beschrieben, wie Sie die Vorlage für Ihre Website anpassen.
 
 Fügen Sie den JavaScript-Code an der Stelle auf Ihrer Website ein, an der die Vorlage angezeigt werden soll.
 
 **Vorlagenbeispiele**
 
-* Template1: Drei horizontale Inhaltselemente mit Bildern, Kopfzeilen und Beschreibungen
-* Template2: Drei vertikale Inhaltselemente mit Bildern, Kopfzeilen und Beschreibungen
+* Vorlage1: Drei horizontale Inhaltselemente mit Bildern, Kopfzeilen und Beschreibungen
+* Vorlage 2: Drei vertikale Inhaltselemente mit Bildern, Kopfzeilen und Beschreibungen
 
 Hier ist ein Beispiel für die Rich-Media-Empfehlungsvorlage1:
 

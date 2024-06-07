@@ -4,10 +4,10 @@ description: Versionshinweise - Winter 16 - Marketo-Dokumente - Produktdokumenta
 title: Versionshinweise - Winter '16
 exl-id: 1e3b9207-27fe-47b1-b709-1306ac57b93b
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '505'
-ht-degree: 6%
+source-wordcount: '497'
+ht-degree: 4%
 
 ---
 
@@ -49,15 +49,15 @@ Um diese Funktion nutzen zu können, muss das E-Mail-Programm mindestens 12 Stun
 
 ## [Mobile-Marketing-Erweiterungen](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md) {#mobile-marketing-enhancements}
 
-**PhoneGap-Unterstützung:** Wir bieten jetzt PhoneGap-Unterstützung für Ihre Mobile App. [Weitere Informationen](https://developers.marketo.com/documentation/mobile/phonegap-plugin/).
+**PhoneGap-Unterstützung:** Wir bieten jetzt PhoneGap-Unterstützung für Ihre Mobile App. [Weitere Infos](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/phonegap).
 
 **Unterstützung für Sandbox-Apps**:
 
 ![](assets/image2016-1-12-10-3a47-3a13.png)
 
-## [Programm-API](https://developers.marketo.com/documentation/programs/) {#program-api}
+## [Programm-API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/programs) {#program-api}
 
-Über REST API Programme erstellen, aktualisieren und klonen. Dies umfasst nicht die Erstellung oder Aktualisierung von Smart-Listen und Smart-Kampagnen innerhalb eines Programms.
+Erstellen, aktualisieren und klonen Sie Programme über die REST-API. Dies umfasst nicht die Erstellung oder Aktualisierung von Smart-Listen und Smart-Kampagnen innerhalb eines Programms.
 
 ## [Erweiterung von Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#microsoft-dynamics-enhancements}
 

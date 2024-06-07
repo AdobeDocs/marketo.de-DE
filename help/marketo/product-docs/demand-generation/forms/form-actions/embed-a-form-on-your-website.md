@@ -4,9 +4,9 @@ description: Einbetten eines Formulars auf Ihrer Website - Marketo Docs - Produk
 title: Einbetten eines Formulars auf Ihrer Website
 exl-id: ead46100-7af8-48fe-a37f-74e5bdc4328c
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
@@ -47,6 +47,6 @@ Geben Sie nun einfach den Einbettungscode an Ihren Web-Entwickler weiter und las
 
 >[!NOTE]
 >
->Wenn Ihr Entwickler das Erscheinungsbild anpassen oder auf erweiterte API-Funktionen zugreifen möchte, zeigen Sie ihnen die [Forms 2.0-Entwicklerseite](https://developers.marketo.com/documentation/websites/forms-2-0/).
+>Wenn Ihr Entwickler das Erscheinungsbild anpassen oder auf erweiterte API-Funktionen zugreifen möchte, zeigen Sie ihnen die [Forms 2.0-Entwicklerseite](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference).
 
-Großartig gemacht! Willst du, dass [Einbettungscode zum Einschließen von Lightbox-Code](/help/marketo/product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md)? Das ist auch einfach!
+Gut gemacht! Willst du, dass [Einbettungscode zum Einschließen von Lightbox-Code](/help/marketo/product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md)? Das ist auch einfach!

@@ -4,7 +4,7 @@ description: Versionshinweise - sommer '16 - Marketo-Dokumente - Produktdokument
 title: Versionshinweise - sommer '16
 exl-id: 3843668e-c729-42aa-b05c-55c33ee0d783
 feature: Release Information
-source-git-commit: 5e2d1979abcafd8e4a37e55b843be932125c954e
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '783'
 ht-degree: 3%
@@ -74,7 +74,7 @@ Token können jetzt im Bereich &quot;Externe URL&quot;des Einfügebild-Erlebniss
 
 ## Mehrmarken-Domainen {#multiple-branding-domains}
 
-Vorbei sind die Tage, an denen E-Mail-Tracking-Links nur mit einer einzigen Branding-Domäne versehen werden konnten. Sie können jetzt mehrere Branding-Domänen hinzufügen, um das Vertrauen der Verbraucher zu wecken, ein optimiertes Erscheinungsbild zu schaffen, das sich auf die Marke konzentriert, die Zustellbarkeit von E-Mails zu verbessern und anhand von E-Mails zu entscheiden, welche Branding-Domäne für die Tracking-Links jeder E-Mail verwendet werden soll.
+Vorbei sind die Tage, an denen E-Mail-Tracking-Links nur mit einer einzigen Branding-Domäne versehen werden konnten. Sie können jetzt mehrere Branding-Domänen hinzufügen, um das Vertrauen der Verbraucher zu steigern, ein optimiertes Erscheinungsbild zu schaffen, das sich auf die Marke konzentriert, die Zustellbarkeit von E-Mails zu verbessern und auf E-Mail-Basis zu wählen, welche Branding-Domäne für die Tracking-Links jeder E-Mail verwendet werden soll.
 
 ![](assets/multiple-branding-domains.png)
 
@@ -100,16 +100,16 @@ Geben Sie eine Zeitverzögerung für Webkampagnen an, die auf Ihrer Website reag
 
 Inhaltsanalysen und Empfehlungsdaten offline anzeigen.
 
-## [API-Support für Email Editor 2.0](https://developers.marketo.com/documentation/asset-api/) {#api-support-for-email-editor}
+## [API-Support für Email Editor 2.0](https://developer.adobe.com/marketo-apis/api/asset/) {#api-support-for-email-editor}
 
 Vorhandene Asset-APIs, die zuvor nur mit E-Mails und Vorlagen der Version 1.0 kompatibel waren, sind jetzt für E-Mail-Assets der Version 2.0 aktiviert.
 
-## [Marketo-Entwicklersite](https://developers.marketo.com/) {#marketo-developers-site}
+## [Marketo-Entwicklersite](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home) {#marketo-developers-site}
 
 Neu und noch besser!
 
 ## [Datenschutzeinstellungen](/help/marketo/product-docs/administration/settings/understanding-privacy-settings.md) {#privacy-settings}
 
-Marketingexperten können Datenschutzeinstellungen verwenden, um zu entscheiden, ob Besucher mit Munchkin- und Web-Personalisierungsfunktionen verfolgt werden. Die Tracking-Ebene wird mithilfe der Einstellung Nicht verfolgen des Browsers, eines Opt-out-Cookies oder einer nicht spezifischen IP-Adresse gesteuert. Diese Methoden können sich auf den Wert und die Funktionalität von Marketo in bestimmten Bereichen auswirken. Wenn der Marketing-Experte jedoch nichts ändert, bleiben die Marketo-Funktionen unverändert.
+Marketingexperten können Datenschutzeinstellungen verwenden, um zu entscheiden, ob Besucher mit Munchkin- und Web-Personalisierungsfunktionen verfolgt werden. Die Tracking-Ebene wird mithilfe der Einstellung Nicht verfolgen des Browsers, eines Opt-out-Cookies oder einer unspezifischen IP-Adresse gesteuert. Diese Methoden können sich auf den Wert und die Funktionalität von Marketo in bestimmten Bereichen auswirken. Wenn der Marketing-Experte jedoch nichts ändert, bleiben die Marketo-Funktionen unverändert.
 
 Diese Funktion wird Kunden über einen Zeitraum von sechs Wochen schrittweise zur Verfügung gestellt. Wenn Sie es sofort benötigen, wenden Sie sich an den Marketo-Support.

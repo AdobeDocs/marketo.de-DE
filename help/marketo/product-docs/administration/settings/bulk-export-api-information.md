@@ -1,28 +1,28 @@
 ---
 description: Massenexport-API-Informationen - Marketo-Dokumente - Produktdokumentation
-title: Massenexport-API-Informationen
+title: Informationen zur Massenexport-API
 exl-id: 527c446b-d5d1-458a-bc4d-d4eb53339ed6
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 5%
+source-wordcount: '97'
+ht-degree: 8%
 
 ---
 
-# Massenexport-API-Informationen {#bulk-export-api-information}
+# Informationen zur Massenexport-API {#bulk-export-api-information}
 
-Erfahren Sie, wie Sie überprüfen können, wie viel [Bulk Extract API](https://developers.marketo.com/rest-api/bulk-extract/){target="_blank"} Ihre Marketo Engage-Instanz hat in den letzten sieben Tagen die nötige Kapazität ausgeschöpft.
+Erfahren Sie, wie Sie überprüfen können, wie viel [Massenextraktions-API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"} Die Kapazität wurde von Ihrer Marketo Engage-Instanz in den letzten sieben Tagen genutzt.
 
 >[!NOTE]
 >
 >Wenn Sie zusätzliche Kapazitäten benötigen, wenden Sie sich an Ihren Kundenbetreuer.
 
-1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
+1. Navigieren Sie zu **[!UICONTROL Admin]** Bereich.
 
    ![](assets/bulk-export-api-information-1.png)
 
-1. Klicken **[!UICONTROL Web-Services]**.
+1. Klicks **[!UICONTROL Web-Services]**.
 
    ![](assets/bulk-export-api-information-2.png)
 

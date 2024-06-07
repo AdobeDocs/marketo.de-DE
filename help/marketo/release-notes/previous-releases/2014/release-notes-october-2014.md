@@ -4,14 +4,14 @@ description: Versionshinweise - Oktober 2014 - Marketo-Dokumente - Produktdokume
 title: Oktober 2014 - Versionshinweise
 exl-id: 698b4efd-ee14-459e-83a9-d06652099040
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '271'
 ht-degree: 1%
 
 ---
 
-# Versionshinweise: Oktober 2014 {#release-notes-october}
+# Oktober 2014 - Versionshinweise {#release-notes-october}
 
 Überprüfen Sie Ihre Marketo-Edition auf Funktionsverfügbarkeit. Die Dokumentation wird zum Zeitpunkt der Veröffentlichung veröffentlicht.
 
@@ -30,7 +30,7 @@ Verwenden Sie die API, um neue Aktivitäten oder Änderungen an Leads abzurufen:
 * Abrufen von Aktivitätstypen
 * Paging-Token abrufen
 
-Vollständige Details werden nach der Veröffentlichung unter [developers.marketo.com](https://developers.marketo.com/documentation/rest/).
+Vollständige Details werden nach der Veröffentlichung unter [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
 
 ## MSI - Senden von Marketo-E-Mail an Microsoft Dynamics {#msi-send-marketo-email-for-microsoft-dynamics}
 
@@ -40,7 +40,7 @@ Vollständige Details werden nach der Veröffentlichung unter [developers.market
 
 ## MSI - Zu Marketo-Kampagnen für Microsoft Dynamics hinzufügen {#msi-add-to-marketo-campaigns-for-microsoft-dynamics}
 
-[Hinzufügen von Leads und Kontakten zu Marketo-Smart-Kampagnen](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md) direkt in Microsoft Dynamics. Marketing kann auswählen, welche Marketo-Kampagnen für den Vertrieb verfügbar sind.
+[Hinzufügen von Leads und Kontakten zu Marketo-Smart-Kampagnen](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md) direkt aus Microsoft Dynamics heraus. Marketing kann auswählen, welche Marketo-Kampagnen für den Vertrieb verfügbar sind.
 
 ## Unterstützung benutzerdefinierter Entitäten für die Synchronisierung von Microsoft Dynamics {#custom-entity-support-for-microsoft-dynamics-sync}
 
@@ -52,7 +52,7 @@ Synchronisieren Sie Opportunity shareholder Data von Dynamics. Unterstützt werd
 
 ## RTP - Dashboard-Verbesserungen {#rtp-dashboard-enhancements}
 
-Das Dashboard wurde um weitere Daten erweitert:
+Das Dashboard wurde um weitere Daten auf einen Blick erweitert:
 
 * Gesamte Organisationsbesuche
 * Top 5 der führenden Branchen
@@ -64,10 +64,10 @@ Schnell und einfach [Erstellen mobiler Kampagnen](/help/marketo/product-docs/web
 
 ## RTP - User Context API {#rtp-user-context-api}
 
-Verwenden Sie einen neuen Aufruf, der den Verlauf des Besuchs des letzten Besuchers verfolgt. Personalisieren von Kampagnen basierend auf dem Besucher:
+Verwenden Sie einen neuen Aufruf, der den Verlauf des Besuchs des letzten Besuchers verfolgt. Personalisieren von Kampagnen basierend auf den Besuchern:
 
 * Zuletzt angezeigte Seiten
 * Interessante Produkte
 * Welche RTP-Kampagnen sie gesehen haben
 
-Besuch [developers.marketo.com](https://developers.marketo.com/documentation/websites/rtp-js-api/) für ausführliche Informationen.
+Besuch [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) für ausführliche Informationen.

@@ -4,10 +4,10 @@ description: Erstellen benutzerdefinierter Marketo-Objekte - Marketo-Dokumente -
 title: Erstellen benutzerdefinierter Marketo-Objekte
 exl-id: d68b41e1-a12b-436f-aad7-42c7264cd901
 feature: Custom Objects
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '704'
-ht-degree: 2%
+source-wordcount: '698'
+ht-degree: 0%
 
 ---
 
@@ -27,7 +27,7 @@ Verwenden Sie benutzerdefinierte Objekte in Marketo, um geschäftsspezifische Me
 
 In diesem Beispiel wird ein benutzerdefiniertes Objekt vom Typ Auto zur Verwendung in einer 1:n-Struktur gezeigt. Später erstellen Sie ein benutzerdefiniertes Kursobjekt und ein zwischengeschaltetes Objekt, das in einer n:n-Struktur verwendet werden kann.
 
-1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
+1. Navigieren Sie zu **[!UICONTROL Admin]** Bereich.
 
    ![](assets/create-marketo-custom-objects-1.png)
 
@@ -51,7 +51,7 @@ In diesem Beispiel wird ein benutzerdefiniertes Objekt vom Typ Auto zur Verwendu
    >
    >Sie können diese Felder bearbeiten, wenn Sie sie erstellen, aber nachdem sie gespeichert wurden, können Sie nur die [!UICONTROL Plural Name] und **[!UICONTROL In Lead-Detail anzeigen]** festlegen.
 
-1. Ziehen Sie die **[!UICONTROL In Lead-Detail anzeigen]** Anzeige-Regler **[!UICONTROL Anzeigen]** , wenn Sie benutzerdefinierte Objektdaten auf der Seite &quot;Datenbank&quot;anzeigen möchten. Klicks **[!UICONTROL Speichern]**.
+1. Ziehen Sie die **[!UICONTROL In Lead-Detail anzeigen]** Anzeige-Regler **[!UICONTROL Anzeigen]** , wenn Sie benutzerdefinierte Objektdaten auf der Seite &quot;Datenbank&quot;anzeigen möchten. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/create-marketo-custom-objects-5.png)
 
@@ -63,7 +63,7 @@ In diesem Beispiel wird ein benutzerdefiniertes Objekt vom Typ Auto zur Verwendu
 
    >[!NOTE]
    >
-   >Sie können benutzerdefinierte Marketo-Objekte nur über einen Listenimport oder die [API](https://developers.marketo.com/documentation/rest/).
+   >Sie können benutzerdefinierte Marketo-Objekte nur über einen Listenimport oder die [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
 
 ## Erstellen eines benutzerdefinierten Objekts für eine Viele-zu-viele-Struktur {#create-a-custom-object-for-a-many-to-many-structure}
 
@@ -73,7 +73,7 @@ Dieses Beispiel zeigt ein benutzerdefiniertes Kursobjekt, mit dem Sie eine n:n-B
 >
 >Für eine n:n-Beziehung müssen Sie keine Verknüpfung im benutzerdefinierten Objekt erstellen. Stattdessen fügen Sie dem zwischengeschalteten Objekt zwei Links hinzu (siehe unten).
 
-1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
+1. Navigieren Sie zu **[!UICONTROL Admin]** Bereich.
 
    ![](assets/create-marketo-custom-objects-7.png)
 
@@ -93,7 +93,7 @@ Dieses Beispiel zeigt ein benutzerdefiniertes Kursobjekt, mit dem Sie eine n:n-B
    >
    >Sie können diese Felder bearbeiten, wenn Sie sie erstellen, aber nachdem sie gespeichert wurden, können Sie nur die [!UICONTROL Plural Name] und **[!UICONTROL In Lead-Detail anzeigen]** festlegen.
 
-1. Ziehen Sie die **[!UICONTROL In Lead-Detail anzeigen]** Anzeige-Regler **[!UICONTROL Anzeigen]** , wenn Sie benutzerdefinierte Objektdaten auf der Seite &quot;Datenbank&quot;anzeigen möchten. Klicks **[!UICONTROL Speichern]**.
+1. Ziehen Sie die **[!UICONTROL In Lead-Detail anzeigen]** Anzeige-Regler **[!UICONTROL Anzeigen]** , wenn Sie benutzerdefinierte Objektdaten auf der Seite &quot;Datenbank&quot;anzeigen möchten. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/create-marketo-custom-objects-11.png)
 
@@ -103,7 +103,7 @@ Dieses Beispiel zeigt ein benutzerdefiniertes Kursobjekt, mit dem Sie eine n:n-B
 
    >[!NOTE]
    >
-   >Sie können benutzerdefinierte Marketo-Objekte nur über einen Listenimport oder die [API](https://developers.marketo.com/documentation/rest/).
+   >Sie können benutzerdefinierte Marketo-Objekte nur über einen Listenimport oder die [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
 
 Der nächste Schritt besteht darin, Ihr Zwischenobjekt zu erstellen (siehe unten). Zuvor müssen Sie jedoch ein Feld erstellen, zu dem eine Verknüpfung hergestellt werden soll.
 
@@ -115,7 +115,7 @@ Verwenden Sie ein zwischengeschaltetes Objekt, um ein benutzerdefiniertes Objekt
 >
 >Es ist nicht erforderlich, ein Zwischenobjekt für eine 1:n-benutzerdefinierte Objektstruktur zu erstellen.
 
-1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
+1. Navigieren Sie zu **[!UICONTROL Admin]** Bereich.
 
    ![](assets/create-marketo-custom-objects-13.png)
 
@@ -135,7 +135,7 @@ Verwenden Sie ein zwischengeschaltetes Objekt, um ein benutzerdefiniertes Objekt
    >
    >Sie können diese Felder bearbeiten, wenn Sie sie erstellen, aber nachdem sie gespeichert wurden, können Sie nur die [!UICONTROL Plural Name] und [!UICONTROL In Lead-Detail anzeigen] festlegen.
 
-1. Ziehen Sie die **[!UICONTROL In Lead-Detail anzeigen]** Anzeige-Regler **Anzeigen** , wenn Sie benutzerdefinierte Objektdaten auf der Seite &quot;Datenbank&quot;anzeigen möchten. Klicks **Speichern**.
+1. Ziehen Sie die **[!UICONTROL In Lead-Detail anzeigen]** Anzeige-Regler **Anzeigen** , wenn Sie benutzerdefinierte Objektdaten auf der Seite &quot;Datenbank&quot;anzeigen möchten. Klicken Sie auf **Speichern**.
 
    ![](assets/create-marketo-custom-objects-17.png)
 

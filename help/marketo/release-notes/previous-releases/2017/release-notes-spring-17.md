@@ -4,9 +4,9 @@ description: Versionshinweise - Frühling 17 - Marketo-Dokumente - Produktdokume
 title: Versionshinweise - Frühjahr 17
 exl-id: 61873d1f-41dd-4f5c-94d0-65f0bcacff75
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '671'
+source-wordcount: '659'
 ht-degree: 4%
 
 ---
@@ -19,7 +19,7 @@ Klicken Sie auf die Titel-Links, um detaillierte Artikel zu den einzelnen Funkti
 
 ## [LinkedIn Lead Gen Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
 
-[LinkedIn Lead Gen Forms](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) sind eine direktere Möglichkeit für ein Unternehmen, Lead-Generierungskampagnen in LinkedIn durchzuführen. Personen können Formulare ausfüllen, um ihr Interesse an einem Produkt oder Dienst zum Ausdruck zu bringen, sodass das Unternehmen die Details der Person erfassen und mit Marketo synchronisieren kann, wo automatisierte Folgeprozesse und Lead-Routing-Aktivitäten stattfinden können.
+[LinkedIn Lead Gen Forms](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) sind eine direktere Möglichkeit für ein Unternehmen, Lead-Generierungskampagnen in LinkedIn durchzuführen. Personen können Formulare ausfüllen, um ihr Interesse an einem Produkt oder Dienst zum Ausdruck zu bringen, sodass das Unternehmen die Details des Kontakts erfassen und mit Marketo synchronisieren kann, wo automatisierte Folgeprozesse und Lead-Routing-Aktivitäten stattfinden können.
 
 Die Marketo-Integration mit LinkedIn Lead Gen Forms erfasst automatisch die Informationen, die ein Lead im Lead Gen-Formular bereitstellt. Folgenachrichten und Benachrichtigungen können dann mit der neuen automatisiert werden **Ausfüllen des LinkedIn Lead Gen-Formulars** Trigger und Filter.
 
@@ -35,7 +35,7 @@ Die Tage der Bereinigung veralteter Vorlagen in Sales Insight sind vorbei. Legen
 
 ![](assets/four-281-29.png)
 
-## [Massenextraktions-APIs für Personen und Aktivitäten](https://developers.marketo.com/rest-api/bulk-extract/) {#bulk-extract-apis-for-people-and-activities}
+## [Massenextraktions-APIs für Personen und Aktivitäten](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract) {#bulk-extract-apis-for-people-and-activities}
 
 Einfache Übertragung großer Mengen von Personen- und Aktivitätsdaten von Marketo an Ihre externen Systeme.
 
@@ -49,7 +49,7 @@ Mit Marketo ABM können Sie jetzt bis zu 10 benutzerdefinierte Felder in Ihren s
 
 Die Punktzahl für benannte Konten kann stark variieren. Marketo ABM berechnet nun automatisch ein Perzentil für jeden Ihrer Punktzahlen, sodass Sie auf einen Blick sehen können, wo jedes benannte Konto unter Ihren anderen benannten Konten rangiert.
 
-**[ABM-Kontolisten-APIs](https://developers.marketo.com/rest-api/lead-database/named-account-lists/)**
+**[ABM-Kontolisten-APIs](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-account-lists)**
 
 Nutzen Sie die umfassenden und robusten ABM-Partnerintegrationen mit verbesserter API-Unterstützung für Named Account Lists.
 

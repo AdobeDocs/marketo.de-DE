@@ -4,7 +4,7 @@ description: Grundlegendes zu meinen Token in einem Programm - Marketo-Dokumente
 title: Grundlagen zu meinen Token in einem Programm
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '416'
 ht-degree: 3%
@@ -46,7 +46,7 @@ Beispiele:
   </tr> 
   <tr> 
    <td>E-Mail-Script <img alt="--" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>Verwenden Sie dieses Token, um ein Velocity-Skript in Ihren E-Mails auszuführen. Weitere Infos <a href="https://developers.marketo.com/documentation/email-scripting/" title="Link folgen" rel="nofollow">here</a>. </td> 
+   <td>Verwenden Sie dieses Token, um ein Velocity-Skript in Ihren E-Mails auszuführen. Weitere Infos <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting" title="Link folgen" rel="nofollow">here</a>. </td> 
   </tr> 
   <tr> 
    <td>Zahl<span> <img alt="--" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td> 

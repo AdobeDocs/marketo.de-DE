@@ -4,10 +4,10 @@ description: Versionshinweise - Winter 18 - Marketo-Dokumente - Produktdokumenta
 title: Versionshinweise - Winter '18
 exl-id: f08bdc91-86d3-4ea2-a74a-1398ed525bbb
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '598'
-ht-degree: 9%
+ht-degree: 6%
 
 ---
 
@@ -19,7 +19,7 @@ Klicken Sie auf die Titel-Links, um detaillierte Artikel zu den einzelnen Funkti
 
 ## Verbesserungen der Kampagnenleistung und des Durchsatzes {#campaign-performance-and-throughput-enhancements}
 
-Marketo nutzt unsere Big-Data-Architektur, um den Durchsatz von Trigger-Kampagnen zu erhöhen und die Verarbeitung von Web-Aktivitäten zu verbessern, sodass Sie schneller auf die Aktionen Ihrer Zielgruppe reagieren können.
+Marketo nutzt unsere Big-Data-Architektur, um den Durchsatz von Trigger-Kampagnen zu steigern und die Verarbeitung von Web-Aktivitäten zu verbessern, sodass Sie schneller auf die Aktionen Ihrer Zielgruppe reagieren können.
 
 ## Verbesserungen in der Salesforce CRM-Integration von Marketo {#enhancements-to-marketo-s-salesforce-crm-integration}
 
@@ -51,7 +51,7 @@ Für ABM-Kunden mit Salesforce oder Microsoft Dynamics übernimmt ABM jetzt auto
 
 **[Dynamisches E-Mail-Skript](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)**
 
-Velocity-Scripting wird nun auch bei E-Mails mit dynamischem Inhalt unterstützt. Kombinieren Sie Geschwindigkeit und segmentierungsbasierten dynamischen Inhalt, um hochpersonalisierte E-Mails zu erstellen.
+Velocity-Skripterstellung wird jetzt in E-Mails mit dynamischen Inhalten unterstützt. Kombinieren Sie Geschwindigkeit und segmentierungsbasierten dynamischen Inhalt, um hochpersonalisierte E-Mails zu erstellen.
 
 **Zeitzone des Empfängers**
 
@@ -69,7 +69,7 @@ Mit dieser Integration können Sie eine Marketo-Zielgruppe an Google senden, um 
 
 Mit der neuen LinkedIn-API können Sie jetzt Personen in Ihrer Marketo-Datenbank über mehrere LinkedIn Campaign Manager-Konten hinweg erneut ansprechen.
 
-## Webpersonalisierung {#web-personalization}
+## Web-Personalisierung {#web-personalization}
 
 **Japanische Datenquelle für die Web-Personalisierung**
 
@@ -85,9 +85,9 @@ Mit der Web-Personalisierung können Inhalte nun für bekannte Webbesucher perso
 
 Inhalte, die über die optimierten ContentAI-Algorithmen von Marketo empfohlen werden, generieren bis zu doppelt so viele Klicks wie zufällige Inhalte.
 
-## -Integration {#integration}
+## Integration {#integration}
 
-**[Kampagnen-API aktivieren/deaktivieren](https://developers.marketo.com/rest-api/assets/smart-campaigns/)**
+**[Campaign-API aktivieren/deaktivieren](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**
 
 Mit dieser neuen API können Sie Trigger-Kampagnen remote aktivieren und deaktivieren, sodass Sie jetzt vollständig automatisierte Programmvorlagen erstellen können. Erstellen Sie einmal eine Programmvorlage und automatisieren Sie dann das Klonen, Marketingmaterial-Updates und jetzt die Aktivierung/Planung intelligenter Kampagnen.
 
@@ -103,4 +103,4 @@ Das Erscheinungsbild der Registerkarten &quot;Interaktion&quot;und &quot;Aufgabe
 
 **People Detail View aktualisieren**
 
-Die verbesserte Personendetailansicht (PDV) bietet einen umfassenden Überblick über Ihre Kontakte, indem Sie Ihre Kontaktdaten für Tout- und Salesforce CRM-Kontakte zusammenführen.
+Die verbesserte Personen-Detailansicht (PDV) bietet einen umfassenden Überblick über Ihre Kontakte, indem Sie Ihre Tout- und Salesforce CRM-Kontaktdaten zusammenführen.

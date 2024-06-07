@@ -4,10 +4,10 @@ description: Versionshinweise - Herbst 17 - Marketo-Dokumente - Produktdokumenta
 title: Versionshinweise - Herbst 17
 exl-id: 329022e6-f388-4ff9-9724-62aeed76c0b9
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '597'
-ht-degree: 11%
+source-wordcount: '588'
+ht-degree: 5%
 
 ---
 
@@ -39,19 +39,19 @@ Mit dieser neuen Funktion können Sie jetzt E-Mails entsprechend den lokalen Zei
 >
 >Wenn Sie die Zeitzone der Empfänger noch nicht in Ihren E-Mail- und Interaktionsprogrammen aktivieren können, sollten Sie nicht in Panik geraten! Diese Funktion wird schrittweise allen Kunden ermöglicht.
 
-## [Überprüfung von Beispiel-E-Mails je Segment](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md) {#review-sample-emails-by-segment}
+## [Beispiel-E-Mails nach Segment überprüfen](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md) {#review-sample-emails-by-segment}
 
 Marketo bietet eine neue Option, um beim Senden von Beispiel-E-Mails zur Überprüfung ein Segment auszuwählen. Sie müssen nicht mehr manuell festlegen, zu welchem Segment ein Lead gehört, wodurch es einfacher wird, E-Mails mit dynamischen Inhalten an verschiedene Segmente zu senden.
 
-## [Kundenspezifische Fragen zur LinkedIn Lead-Generierung](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-custom-questions}
+## [LinkedIn Lead Gen Custom Questions](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-custom-questions}
 
-Passen Sie Ihre Formulare zur LinkedIn Lead-Generierung an, um so benutzerdefinierte Lead-Attribute zu sammeln. Sie können jetzt bis zu drei benutzerdefinierte Fragen pro Formular stellen, aus einer einzeiligen Texteingabe oder Multiple-Choice-Fragen wählen und zu Marketo-Lead-Feldern zurückordnen.
+Passen Sie Ihre LinkedIn Lead Gen-Formulare an, um benutzerdefinierte Lead-Attribute zu erfassen. Sie können jetzt bis zu drei benutzerdefinierte Fragen pro Formular stellen, aus einer einzeiligen Texteingabe oder Multiple-Choice-Fragen wählen und zu Marketo-Lead-Feldern zurückordnen.
 
 ## Slack-Integration {#slack-integration}
 
 Im Rahmen der neuen Slack-Integration wurden zwei Funktionen veröffentlicht:
 
-* Systembenachrichtigungen: Erhalten Sie Benachrichtigungen von Slacken zu wichtigen Ereignissen in Ihrer Marketo-Instanz, z. B. Warnungen zum aktuellen Kampagnenstatus und zu Problemen, die sofortige Aufmerksamkeit erfordern.
+* Systembenachrichtigungen: Hier erhalten Sie Slack-Benachrichtigungen zu wichtigen Ereignissen in Ihrer Marketo-Instanz, z. B. Warnungen zum aktuellen Kampagnenstatus und zu Problemen, die sofortige Aufmerksamkeit erfordern.
 * Interessante Momente: Wenn ein Marketo Insight von einer bekannten Person aus einem Verkaufskonto ausgelöst wurde, können Lead-Inhaber über Slack benachrichtigt werden. Benachrichtigungen enthalten Lead-Informationen sowie Details zum Verkaufskonto.
 
 ## ABM-Verbesserungen {#abm-enhancements}
@@ -62,7 +62,7 @@ Marketo ABM synchronisiert und zeigt CRM-Konten nun ohne Kontakte an. Fügen Sie
 
 ## ContentAI Analyse {#contentai-analytics}
 
-**[Neuer ABM-Kontenlistenfilter](https://docs.marketo.com/x/1BPG)**
+**[Neuer ABM-Kontolistenfilter](https://docs.marketo.com/x/1BPG)**
 
 Zeigen Sie die Inhaltsleistung in den ABM-Kontolisten an und vergleichen Sie sie, um vorhandene Inhalte zu optimieren. ContentAI zeigt Ihnen:
 
@@ -84,12 +84,12 @@ Sparen Sie Zeit, indem Sie Kreativ-Assets und -Bilder in Marketo kanalübergreif
 
 ![](assets/image2017-11-16-11-3a26-3a10.png)
 
-## -Integration  {#integration}
+## Integration  {#integration}
 
-**[E-Mail-Vorschau API](https://developers.marketo.com/rest-api/assets/emails/)**
+**[Email Preview API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
 Sie können jetzt eine Remote-Vorschau von E-Mails außerhalb von Marketo anzeigen, wodurch die Lokalisierung von E-Mail-Inhalten vereinfacht und Fehler reduziert werden.
 
-**[HTML API ersetzen](https://developers.marketo.com/rest-api/assets/emails/)**
+**[HTML-API ersetzen](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
 Entwickler können den HTML-Inhalt von E-Mail-Assets remote aktualisieren, sodass sie in einem einzigen System arbeiten können, um Assets zu verwalten.

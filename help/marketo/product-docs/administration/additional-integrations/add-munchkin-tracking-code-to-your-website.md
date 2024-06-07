@@ -4,7 +4,7 @@ description: "Hinzufügen [!DNL Munchkin] Tracking-Code auf Ihrer Website - Mark
 title: "Hinzufügen [!DNL Munchkin] Trackingcode auf Ihrer Website"
 exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
 feature: Administration, Munchkin Tracking Code
-source-git-commit: bb9593ab500d57127f22b14757688d7521661e38
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '666'
 ht-degree: 0%
@@ -59,7 +59,7 @@ Marketos benutzerdefinierter JavaScript-Trackingcode namens [!DNL Munchkin]verfo
 
    >[!TIP]
    >
-   >Bei Sites mit hohem Traffic-Aufkommen (d. h. Hunderttausende Besuche pro Monat) empfehlen wir, keine anonymen Personen zu verfolgen. [Weitere Infos](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/){target="_blank"}.
+   >Bei Sites mit hohem Traffic-Aufkommen (d. h. Hunderttausende Besuche pro Monat) empfehlen wir, keine anonymen Personen zu verfolgen. [Weitere Infos](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking/){target="_blank"}.
 
 ## Hinzufügen von Trackingcode bei Verwendung mehrerer Arbeitsbereiche {#add-tracking-code-when-using-multiple-workspaces}
 

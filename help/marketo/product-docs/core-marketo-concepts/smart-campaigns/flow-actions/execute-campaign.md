@@ -3,9 +3,9 @@ description: Ausführen von Campaign - Marketo Docs - Produktdokumentation
 title: Kampagne ausführen
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
 feature: Smart Campaigns
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '709'
+source-wordcount: '706'
 ht-degree: 1%
 
 ---
@@ -60,7 +60,7 @@ Wenn der Wert auf &quot;true&quot;gesetzt ist, werden die folgenden Token-Kontex
 
 **API-Interaktion**
 
-Bei Verwendung von Plan oder Anforderungskampagne [in der API](https://developers.marketo.com/rest-api/assets/smart-campaigns/#batch)können Sie beide Werte für My Tokens übergeben, wodurch die für diese Token in der von Ihnen aufgerufenen Kampagne festgelegten Werte außer Kraft gesetzt werden. Wenn diese Kampagne dann eine andere Kampagne ausführt und &quot;Übergeordneten Kontext verwenden&quot;auf &quot;True&quot;setzt, verwendet sie die über die API übergebenen Werte und nicht die in der Anwendung festgelegten Werte.
+Bei Verwendung von Plan oder Anforderungskampagne [in der API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch)können Sie beide Werte für My Tokens übergeben, wodurch die für diese Token in der von Ihnen aufgerufenen Kampagne festgelegten Werte außer Kraft gesetzt werden. Wenn diese Kampagne dann eine andere Kampagne ausführt und &quot;Übergeordneten Kontext verwenden&quot;auf &quot;True&quot;setzt, verwendet sie die über die API übergebenen Werte und nicht die in der Anwendung festgelegten Werte.
 
 ## Zu beachten {#things-to-note}
 

@@ -4,7 +4,7 @@ description: Versionshinweise - Frühling 18 - Marketo-Dokumente - Produktdokume
 title: Versionshinweise - Frühjahr 18
 exl-id: 59bab3a9-12b3-4c87-b035-a7cde63ada1e
 feature: Release Information
-source-git-commit: 9725758f46fcabb96572d7ae14cedabc29b2ce60
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '466'
 ht-degree: 5%
@@ -45,9 +45,9 @@ Nutzen Sie die Marketo Sky-Open-Beta-Version, um Zugriff auf mehr als 100 neue p
 * In-App-Handbücher und Kontexthilfe
 * Asset-Beschriftungen und flexiblere Kalenderansichten
 
-## Performance-Insights {#performance-insights}
+## Leistungs-Insights {#performance-insights}
 
-[Performance-Insights](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)
+[Leistungs-Insights](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)
 
 **Vergleich des Jahreszeitraums**
 
@@ -77,12 +77,12 @@ Legen Sie das Ziel des ContentAI-Optimierungsalgorithmus fest, um mehr Ansichten
 
 ## Integration und APIs {#integration-and-apis}
 
-[Statische Listen-APIs](https://developers.marketo.com/rest-api/assets/static-lists/)
+[Statische Listen-APIs](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Static-Lists)
 
 Mit neuen bidirektionalen APIs zum Erstellen, Lesen, Aktualisieren und Löschen von statischen Listen können Sie Listen zwischen Marketo und anderen Systemen einfacher verwalten, ohne in der Marketo-Benutzeroberfläche Maßnahmen zu ergreifen.
 
 ## Verbesserungen beim Datenschutz {#privacy-enhancements}
 
-[Web-Tracking-Datenschutz](https://developers.marketo.com/javascript-api/lead-tracking/)
+[Web-Tracking-Datenschutz](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking)
 
 Das erweiterte Munchkin-Tracking entspricht den lokalen und internationalen Datenschutzbestimmungen, indem die IP-Adressen von Webbesuchern anonymisiert und ihnen ermöglicht wird, das Web-Tracking dauerhaft abzuwählen.

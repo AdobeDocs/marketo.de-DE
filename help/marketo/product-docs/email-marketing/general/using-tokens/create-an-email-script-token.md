@@ -4,9 +4,9 @@ description: Erstellen eines E-Mail-Skript-Tokens - Marketo-Dokumente - Produktd
 title: E-Mail-Skript-Token erstellen
 exl-id: c7f8c3e0-6d64-4115-b9b6-261576360ba1
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
@@ -49,7 +49,7 @@ Für fortgeschrittene Entwickler können Sie [Velocity-Skripte](https://velocity
 
 1. Schreiben Sie Ihr Skript in Velocity. Im Folgenden finden Sie einige nützliche Ressourcen:
 
-   * [Dokumentation zu Marketo Developers Email Scripting](https://developers.marketo.com/email-scripting/)
+   * [Dokumentation zu Marketo Developers Email Scripting](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)
    * [Velocity-Benutzerhandbuch](https://velocity.apache.org/engine/devel/user-guide.html)
    * [Velocity-Referenzhandbuch](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
    * [Velocity Tools Javadoc](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)

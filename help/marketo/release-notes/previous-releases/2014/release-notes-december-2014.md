@@ -4,9 +4,9 @@ description: Versionshinweise - Dezember 2014 - Marketo-Dokumente - Produktdokum
 title: Dezember 2014 - Versionshinweise
 exl-id: b4dd365d-a2a2-416e-a226-5515203a41f8
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '477'
 ht-degree: 2%
 
 ---
@@ -53,7 +53,7 @@ Links innerhalb von E-Mail-Skripten werden jetzt verfolgt und stehen im Bericht 
 
 ## Token-Kodierungseinstellung {#token-encoding-setting}
 
-Wir haben eine neue Sicherheitsfunktion eingeführt, mit der Token automatisch HTML werden können, die standardmäßig im März 2015 aktiviert sein werden. Bis dahin können Sie diese Funktion in der Feldverwaltung aktivieren, um das Verhalten vorab zu testen. Alle Lead- und Unternehmens-Token werden kodiert, wenn sie in E-Mails oder Landingpages eingefügt werden. Optionen stehen auch für einzelne Felder zur Verfügung.
+Wir haben eine neue Sicherheitsfunktion eingeführt, um Token automatisch HTML, die standardmäßig im März 2015 aktiviert sein werden. Bis dahin können Sie diese Funktion in der Feldverwaltung aktivieren, um das Verhalten vorab zu testen. Alle Lead- und Unternehmens-Token werden kodiert, wenn sie in E-Mails oder Landingpages eingefügt werden. Optionen stehen auch für einzelne Felder zur Verfügung.
 
 ## Neue ReST API-Aufrufe {#new-rest-api-calls}
 
@@ -61,11 +61,11 @@ Drei neue Aufrufe für die Lead- und Aktivitäts-ReST-API:
 
 ・ Lead-Partitionen abrufen
 
-· Lead zuordnen
+・ Associate Lead
 
 ・ Lead zusammenführen
 
-Vollständige Details werden nach der Veröffentlichung unter [developers.marketo.com](https://developers.marketo.com/)
+Vollständige Details werden nach der Veröffentlichung unter [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home)
 
 ## Verbesserungen der Javascript-Kompatibilität von Munchkin {#munchkin-javascript-compatibility-enhancements}
 
@@ -83,7 +83,7 @@ Der Rollout wird Mitte Dezember beginnen und für die nächsten Monate fortgeset
 
 ## RTP: Namenskontenlisten-Modul {#rtp-named-account-list-module}
 
-Verwalten und überwachen Sie Ihre wichtigsten ertragsstarken Konten auf der neuen Seite &quot;Spezifische Konten&quot;. Laden Sie neue Listen mit benannten Konten hoch, um diese Organisationen zu identifizieren und gezielt anzusprechen. Wir haben den Prozess automatisiert und bieten Ihnen mehr Kontrolle und Flexibilität bei der Implementierung Ihrer kontobasierten Marketingpläne und der Zielgruppenbestimmung Ihrer wichtigsten Konten über verschiedene Kanäle (Web und Werbung).
+Verwalten und überwachen Sie Ihre wichtigsten ertragsstarken Konten auf der neuen Seite &quot;Spezifische Konten&quot;. Laden Sie neue Listen mit benannten Konten hoch, um diese Organisationen zu identifizieren und gezielt anzusprechen. Wir haben den Prozess automatisiert und bieten Ihnen mehr Kontrolle und Flexibilität bei der Implementierung Ihrer kontobasierten Marketing-Pläne und der Zielgruppenbestimmung Ihrer wichtigsten Konten über verschiedene Kanäle (Web und Werbung).
 
 ![](assets/image2014-12-5-11-3a8-3a56.png)
 
@@ -91,6 +91,6 @@ Verwalten und überwachen Sie Ihre wichtigsten ertragsstarken Konten auf der neu
 
 ## RTP: Reglereffekt für In-Zone-Kampagnen {#rtp-sliding-effect-for-in-zone-campaigns}
 
-Für In-Zone-Kampagnen wurde ein neuer Reglereffekt hinzugefügt, damit Ihre personalisierten Inhalte beim Laden der Seite eingeblendet werden können.
+Für In-Zone-Kampagnen wurde ein neuer Regler-Effekt hinzugefügt, damit Ihre personalisierten Inhalte beim Laden der Seite eingeblendet werden können.
 
 ![](assets/image2014-12-5-11-3a9-3a34.png)

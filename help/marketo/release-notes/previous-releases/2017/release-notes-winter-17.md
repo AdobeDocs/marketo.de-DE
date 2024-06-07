@@ -4,7 +4,7 @@ description: Versionshinweise - Winter 17 - Marketo-Dokumente - Produktdokumenta
 title: Versionshinweise - Winter '17
 exl-id: b76dab24-43be-4d13-b4dc-b199e3e8f9a2
 feature: Release Information
-source-git-commit: d1187418ecc5fa0dc47e17471baf86955667c647
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '381'
 ht-degree: 7%
@@ -27,7 +27,7 @@ Die grundlegende Übereinstimmung verwendet nur E-Mail-Adressen, aber die neue e
 
 ![](assets/fb-custom-audiences-schebsches.png)
 
-## [API für den Import benutzerdefinierter Objekte](https://developers.marketo.com/rest-api/lead-database/custom-objects/) {#custom-object-import-api}
+## [API für den Import benutzerdefinierter Objekte](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Custom-Objects) {#custom-object-import-api}
 
 Diese API bietet eine schnellere Schnittstelle zur Synchronisierung benutzerdefinierter Objekte mit Marketo. Sie können CSV-, TSV- oder SSV-Tabellenkalkulationsdateien als benutzerdefinierte Objekte in Marketo importieren.
 
@@ -81,7 +81,7 @@ Es gibt ein verbessertes Bearbeitungserlebnis und -layout, das die Inhaltsvorber
 
 Bild-URL und Metadaten werden jetzt im Prozess der automatischen Inhaltserkennung verwendet.
 
-## [SDK-Verbesserungen](https://developers.marketo.com/mobile/) {#sdk-enhancements}
+## [SDK-Verbesserungen](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/mobile) {#sdk-enhancements}
 
 Entwickler haben jetzt zusätzliche Möglichkeiten, die Bereitstellung von Push-Benachrichtigungen zu steuern. Dazu wurde ein neuer SDK-API-Aufruf hinzugefügt, mit dem Entwickler Push-Token entfernen können.
 
