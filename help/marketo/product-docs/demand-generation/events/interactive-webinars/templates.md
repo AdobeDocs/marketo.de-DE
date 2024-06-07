@@ -4,16 +4,16 @@ title: Vorlagen für interaktive Webinare
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: 1defe6e8c7b4e458203169150ec77df4f615e5d2
+source-git-commit: 51ba08f4f38ddbf0f382dbc99b76b4ffd2d60a37
 workflow-type: tm+mt
-source-wordcount: '45'
-ht-degree: 2%
+source-wordcount: '67'
+ht-degree: 0%
 
 ---
 
 # Vorlagen für interaktive Webinare {#templates-for-interactive-webinars}
 
-Text
+Erstellen Sie einfach zu verwendende Vorlagen in interaktiven Webinaren, um Inhalte schneller zu erstellen und/oder bei der Arbeit an einem Team die Markenrichtlinien einzuhalten.
 
 ## Erstellen einer Vorlage {#create-a-template}
 
@@ -25,7 +25,7 @@ SCREENSHOT
 
 SCREENSHOT
 
-1. Klicks [!UICONTROL Vorlagen verwalten].
+1. Klicks **[!UICONTROL Vorlagen verwalten]**.
 
 SCREENSHOT
 
