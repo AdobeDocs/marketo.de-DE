@@ -4,20 +4,16 @@ description: Google-Kundenabgleich als LaunchPoint-Dienst hinzufügen - Marketo 
 title: Google-Kundenabgleich als LaunchPoint-Dienst hinzufügen
 exl-id: c780bde0-3044-4c89-a2ac-88398cbc3425
 feature: Integrations
-source-git-commit: 136707304350be59918716233f5d6e2a6438be4e
+source-git-commit: 583e08fdc2e7d3fa743faf35e96c6d10f38a6ea0
 workflow-type: tm+mt
-source-wordcount: '226'
-ht-degree: 1%
+source-wordcount: '196'
+ht-degree: 2%
 
 ---
 
 # Google-Kundenabgleich als LaunchPoint-Dienst hinzufügen {#add-google-customer-match-as-a-launchpoint-service}
 
 Mit dieser Integration können Sie eine Marketo Engage-Zielgruppe an Google senden, um sie mit Google AdWords anzusprechen und Zielgruppen in YouTube, Search und Gmail erneut anzusprechen.
-
->[!IMPORTANT]
->
->Aufgrund der kürzlich erfolgten Aktualisierung der Google Ads-API ist die Synchronisierungsfunktion zwischen Adobe und Google vorübergehend deaktiviert. Adobe überprüft derzeit die Anforderungen von Google bezüglich der Aktualisierung.
 
 >[!NOTE]
 >
