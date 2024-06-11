@@ -4,14 +4,14 @@ description: Übersicht über Email Editor v2.0 - Marketo-Dokumente - Produktdok
 title: Übersicht über Email Editor v2.0
 exl-id: 082570d5-3d26-48f5-83f4-76ad9efc9c9d
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 1c40ab5912772c2a26dccde111a468daff16c3bc
 workflow-type: tm+mt
-source-wordcount: '429'
-ht-degree: 2%
+source-wordcount: '426'
+ht-degree: 0%
 
 ---
 
-# Übersicht über Email Editor v2.0 {#email-editor-v-overview}
+# Übersicht über Email Editor v2.0 {#email-editor-v2-overview}
 
 Wenn Sie den E-Mail-Editor v2.0 aktivieren, werden Ihnen einige neue Funktionen angezeigt.
 
@@ -19,63 +19,63 @@ Wenn Sie den E-Mail-Editor v2.0 aktivieren, werden Ihnen einige neue Funktionen 
 
 Wenn Sie eine neue E-Mail erstellen, gelangen Sie zum [E-Mail-Vorlagenauswahl](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md).
 
-![](assets/starter-templates-1.png)
+![](assets/email-editor-v2-overview-1.png)
 
-**E-Mail-Editor**
+**Email Editor**
 
 Wenn Sie mit der Bearbeitung Ihrer E-Mail beginnen, werden Sie feststellen, dass der Editor einen völlig neuen Look hat.
 
-![](assets/two-4.png)
+![](assets/email-editor-v2-overview-2.png)
 
 **Module**
 
-Diese Elemente auf der rechten Seite des Editors werden als Module bezeichnet. Erfahren Sie, wie Sie [Hinzufügen von Modulen zu Ihrer E-Mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md).
+Diese Elemente auf der rechten Seite des Editors werden als Module bezeichnet. Erfahren Sie, wie [Module zur E-Mail hinzufügen](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md).
 
-![](assets/three-4.png)
+![](assets/email-editor-v2-overview-3.png)
 
 **Textversion**
 
-Der Wechsel zwischen der HTML-Version und der Textversion Ihrer E-Mail ist jetzt in einem praktischen Tab am unteren Rand möglich. Erfahren Sie, wie Sie [Bearbeiten der Textversion einer E-Mail](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md).
+Der Wechsel zwischen der HTML-Version und der Textversion Ihrer E-Mail ist jetzt in einem praktischen Tab am unteren Rand möglich. Erfahren Sie, wie [Bearbeiten der Textversion einer E-Mail](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md).
 
-![](assets/four-3.png)
+![](assets/email-editor-v2-overview-4.png)
 
 **Email Header**
 
-Möchten Sie mehr Design-Raum? Der E-Mail-Header kann ausgeblendet werden, nachdem Sie fertig sind [Bearbeiten](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md). Klicken Sie einfach auf dieses Symbol...
+Möchten Sie mehr Design-Raum? Der E-Mail-Header kann nach Abschluss ausgeblendet werden [Bearbeiten](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md). Klicken Sie einfach auf dieses Symbol...
 
-![](assets/five-4.png)
+![](assets/email-editor-v2-overview-5.png)
 
-...und die Kopfzeile wird ausgeblendet.
+... und die Kopfzeile wird reduziert.
 
-![](assets/six-3.png)
+![](assets/email-editor-v2-overview-6.png)
 
 **Vorschau Ihrer E-Mail anzeigen**
 
 Standardmäßig zeigt die E-Mail an, wie sie auf einem Desktop aussehen würde, wie durch das hervorgehobene blaue Symbol angegeben. Wenn Sie auf das Symbol rechts klicken...
 
-![](assets/seven-3.png)
+![](assets/email-editor-v2-overview-7.png)
 
-...sehen Sie, wie Ihre E-Mail auf einem Mobilgerät dargestellt wird.
+... sehen Sie, wie Ihre E-Mail auf einem Mobilgerät dargestellt wird.
 
-![](assets/eight-3.png)
+![](assets/email-editor-v2-overview-8.png)
 
 Für eine größere Vorschau klicken Sie auf **Vorschau** rechts oben in der E-Mail.
 
-![](assets/preview1.png)
+![](assets/email-editor-v2-overview-9.png)
 
 Die Standardansicht dort ist Desktop...
 
-![](assets/preview2.png)
+![](assets/email-editor-v2-overview-10.png)
 
 ...aber Sie können auch sehen, wie es auf einem Mobilgerät aussehen wird. Sie können auch eine Vorschau der Textversion anzeigen! Einfaches Klicken **Entwurf bearbeiten** oben rechts, um die Bearbeitung fortzusetzen.
 
-![](assets/preview3.png)
+![](assets/email-editor-v2-overview-11.png)
 
 **E-Mail-Aktionen**
 
-under **E-Mail-Aktionen**, werden Sie einige neue Funktionen bemerken. **Hochladen eines Bildes oder einer Datei** und **Grab-Bilder aus Web**. Sie können die E-Mail selbst auch als neue E-Mail-Vorlage speichern. Du musst nichts weiter tun, als ihm einen Namen und ein Ziel zu geben.
+under **E-Mail-Aktionen**, werden Sie einige neue Funktionen bemerken. **Bild oder Datei hochladen**, und **Grab-Bilder aus dem Web**. Sie können die E-Mail selbst auch als neue E-Mail-Vorlage speichern. Du musst nichts weiter tun, als ihm einen Namen und ein Ziel zu geben.
 
-![](assets/nine-3.png)
+![](assets/email-editor-v2-overview-12.png)
 
 >[!CAUTION]
 >
@@ -83,17 +83,17 @@ under **E-Mail-Aktionen**, werden Sie einige neue Funktionen bemerken. **Hochlad
 
 >[!NOTE]
 >
->**[Grab-Bilder aus Web](/help/marketo/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)** Funktioniert genauso wie im Design Studio.
+>**[Grab-Bilder aus dem Web](/help/marketo/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)** Funktioniert genauso wie im Design Studio.
 
 **Öffnungs-Tracking deaktivieren** under **E-Mail-Einstellungen** können Sie bei Bedarf das Öffnungs-Tracking deaktivieren.
 
-![](assets/thirteen-1.png)
+![](assets/email-editor-v2-overview-13.png)
 
 **E-Mail-Einstellungen**
 
 Sie haben die Möglichkeit, einen Preheader hinzuzufügen. Ein Preheader ist der kurze Zusammenfassungstext nach der Betreffzeile, wenn E-Mails in Ihrem Posteingang angezeigt werden.
 
-![](assets/edit-settings-preheader-2.png)
+![](assets/email-editor-v2-overview-14.png)
 
 >[!CAUTION]
 >
@@ -103,7 +103,7 @@ Viele tolle neue Features! Viel Spaß!
 
 >[!NOTE]
 >
->Wenn Sie noch tiefer gehen möchten, sehen Sie sich dies an. [hilfreiches Video](https://nation.marketo.com/videos/1463).
+>Wenn Sie noch tiefer gehen möchten, sehen Sie sich dies an. [Video](https://nation.marketo.com/videos/1463).
 
 >[!MORELIKETHIS]
 >

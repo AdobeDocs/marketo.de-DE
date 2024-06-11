@@ -4,7 +4,7 @@ description: Übersicht über die E-Mail-Vorlagenauswahl - Marketo-Dokumente - P
 title: Übersicht über die E-Mail-Vorlagenauswahl
 exl-id: 6bfedd73-8b77-469d-9055-f925e2c2a7f1
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 1c40ab5912772c2a26dccde111a468daff16c3bc
 workflow-type: tm+mt
 source-wordcount: '276'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Wenn Sie [E-Mail erstellen](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md), haben Sie mehrere freie Vorlagen zur Auswahl. Sie können auch eine eigene Vorlage erstellen und für die zukünftige Verwendung speichern.
 
-![](assets/starter-templates.png)
+![](assets/email-template-picker-overview-1.png)
 
 **Name** wird der Name der E-Mail sein, die Sie basierend auf der Vorlage erstellen, nicht die Vorlage selbst. **Beschreibung** gilt auch für die E-Mail und ist optional.
 
@@ -27,7 +27,7 @@ Wenn Ihre E-Mail kritisch ist und Sie die Kommunikationsbeschränkungen umgehen 
 
 **Startervorlagen** enthält eine Sammlung vordefinierter responsiver E-Mail-Vorlagen. Sie können sie unverändert verwenden oder nach Ihren Wünschen anpassen.
 
-![](assets/starter-templates.png)
+![](assets/email-template-picker-overview-4.png)
 
 **Meine Vorlagen** besteht aus allen Vorlagen, die Sie erstellt haben. Sie können auch Ordner haben.
 
@@ -45,11 +45,11 @@ Die Vorschau zeigt, wie die Vorlage auf einem Desktop-Computer dargestellt wird.
 
 ![](assets/eight-1.png)
 
-...und ein Mobilgerät.
+... und ein Mobilgerät.
 
 ![](assets/nine-1.png)
 
-Wenn Ihnen diese Vorlage gefällt, wählen Sie sie aus, indem Sie auf **Auswählen** unten rechts. Willst du weiter suchen? Klicken Sie auf **X** oben rechts. Verwenden Sie die Links- und Rechtspfeile, um durch Vorlagen zu blättern.
+Wenn Ihnen diese Vorlage gefällt, wählen Sie sie durch Klicken auf **Auswählen** unten rechts. Willst du weiter suchen? Klicken Sie auf **X** oben rechts. Verwenden Sie die Links- und Rechtspfeile, um durch Vorlagen zu blättern.
 
 ![](assets/ten-1.png)
 
