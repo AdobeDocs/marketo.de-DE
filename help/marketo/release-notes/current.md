@@ -3,10 +3,10 @@ description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokument
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 40d1191fb5bab275e83322dd1fea89888d818820
+source-git-commit: af56f809a05ea6aa8dd52b60c5c540f373b40338
 workflow-type: tm+mt
-source-wordcount: '280'
-ht-degree: 7%
+source-wordcount: '277'
+ht-degree: 6%
 
 ---
 
@@ -33,8 +33,8 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
   </tr>
      <tr> 
    <td><strong>Vorlagen für interaktive Webinare</strong>: Marketingexperten können jetzt in interaktiven Webinaren benutzerdefinierte Vorlagen für Raumlayouts erstellen.</td> 
-   <td><i>Demnächst verfügbar</i></td>
-   <td><i>Demnächst verfügbar</i></td>
+   <td>Versendet</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/templates.md">Vorlagen</a></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -44,8 +44,8 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
   </tr>
      <tr> 
    <td><strong>Abgeleitete Felder in Forms</strong>: Die Datenquelle, die zum Ausfüllen von abgerufenen Feldern verwendet wird, wenn eine Person über das Ausfüllen von Formularen ohne vorherige Web-Aktivität erstellt wird, wurde aktualisiert und verwendet nun dieselbe Datenquelle wie bei anderen Methoden zur Personenerfassung. Abgeleitete Felddaten sind jetzt über alle Erfassungspunkte hinweg konsistent.</td> 
-   <td><i>Demnächst verfügbar</i></td>
-   <td><i>Demnächst verfügbar</i></td>
+   <td>Versendet</td>
+   <td>Nicht zutreffend</td>
   </tr>
  </tbody> 
 </table>
