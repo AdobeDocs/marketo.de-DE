@@ -3,9 +3,9 @@ description: Stream Designer - Marketo-Dokumente - Produktdokumentation
 title: Entwerferin bzw. Entwerfer des Streams
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: cb27e3ffb471358bc8a5c8d90582c6996c75bf61
+source-git-commit: 0015db05477cbb46a34e8abd4800d00c6522496f
 workflow-type: tm+mt
-source-wordcount: '1212'
+source-wordcount: '1229'
 ht-degree: 2%
 
 ---
@@ -67,6 +67,10 @@ Der Stream-Designer enthält mehrere Karten, die Sie hinzufügen können, um die
  <tr>
   <td style="width:25%"><strong>Bedingte Verzweigung</strong></td>
   <td>Erstellen Sie Verzweigungen in Ihrem Dialogfeld basierend auf unterschiedlichen Bedingungen. Unterschiedliche Inhalte für verschiedene Personen im selben Dialogfeld basierend auf Lead- und Firmenattributen in Marketo Engage präsentieren.</td>
+ </tr>
+ <tr>
+  <td style="width:25%"><strong>Konversationsfluss</strong></td>
+  <td>Mithilfe der Karte Konversionsfluss können Sie mehrere Schritte in einem Fluss innerhalb Ihrer Dialoge optimieren.</td>
  </tr>
 </table>
 

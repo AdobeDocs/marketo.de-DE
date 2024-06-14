@@ -3,9 +3,9 @@ description: Dynamic Chat - Versionshinweise - Marketo-Dokumente - Produktdokume
 title: Dynamic Chat-Versionshinweise
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: cbf60ee8756996c554370604f95be7a2ffb1b959
+source-git-commit: 0015db05477cbb46a34e8abd4800d00c6522496f
 workflow-type: tm+mt
-source-wordcount: '1343'
+source-wordcount: '1472'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,26 @@ ht-degree: 0%
 Adobe Dynamic Chat-Releases basieren auf einem kontinuierlichen Bereitstellungsmodell, das einen skalierbareren Ansatz für die Implementierung von Funktionen ermöglicht. Manchmal gibt es mehrere Versionen in einem Monat. Schauen Sie daher regelmäßig nach, um aktuelle Informationen zu erhalten.
 
 Die standardmäßige Seite mit Versionshinweisen für Marketo Engage [finden Sie hier .](/help/marketo/release-notes/current.md){target="_blank"}.
+
+## Version Juni 2024 {#june-release}
+
+**Veröffentlichungsdatum: 6. Juni 2024**
+
+### Konversionsflusskarte {#conversational-flow-card}
+
+Straffen Sie mehrere Schritte in einem Fluss innerhalb Ihrer Dialoge, indem Sie die Karte Konversionsfluss nutzen.
+
+Beispiel: Wenn Sie die Registrierung für Ihr Webinar über mehrere Dialoge durchführen möchten, müssen Sie denselben Fluss über alle Dialoge mit diesem Ziel neu erstellen. Und wenn Sie jedes Detail aktualisieren müssen, müssen Sie jedes einzelne Dialogfeld einzeln bearbeiten. Das ist nicht mehr der Fall, dank der Karte &quot;Conversational Flow&quot;.
+
+Sie können nicht nur die Weiterverwendung von Flüssen über mehrere Dialogfelder hinweg ermöglichen, sondern auch denselben Übergangsprozess zum Trigger über andere Kanäle wie Formulare und Landingpages verwenden.
+
+![](assets/dynamic-chat-june-2024-release-1.png)
+
+### Nutzungsbeschränkungen {#usage-limits}
+
+Auf der Seite Nutzungsbeschränkungen werden wichtige Informationen angezeigt, wie Paketdetails und Ihr Nutzungsbegrenzungsstatus.
+
+![](assets/dynamic-chat-june-2024-release-2.png)
 
 ## Version Mai 2024 {#may-release}
 
