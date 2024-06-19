@@ -4,9 +4,9 @@ description: Erstellen eines Berichts über den Umsatz-Explorer - Marketo-Dokume
 title: Erstellen eines Berichts "Umsatz-Explorer"
 exl-id: dc7b705d-00cc-4b9f-aae1-83a5127036f4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: d270a06fb47fd3ed81845a0914439d6378c74046
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '139'
 ht-degree: 1%
 
 ---
@@ -18,6 +18,10 @@ Mit dem Bericht &quot;Umsatz Explorer&quot;können Sie den ROI Ihrer Marketingin
 >[!AVAILABILITY]
 >
 >Nicht alle Marketo Engage-Benutzer haben diese Funktion erworben. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).
+
+>[!IMPORTANT]
+>
+>Der Ordner &quot;Papierkorb&quot;im Umsatz-Cycle-Explorer wurde aufgrund eines Fehlers vorübergehend ausgeblendet. Wir arbeiten derzeit an einer Fehlerbehebung und Ihre Dateien sind sicher. Bitte kontaktieren Sie [Adobe-Unterstützung](https://nation.marketo.com/t5/support/ct-p/Support) wenn Dateien vorhanden sind, die Sie wiederherstellen müssen.
 
 1. Navigieren Sie zu **Umsatz-Explorer** Bereich.
 
