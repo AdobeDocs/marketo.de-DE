@@ -3,9 +3,9 @@ description: Einschränken der E-Mail-Verbindung - Marketo-Dokumente - Produktdo
 title: Einschränken der E-Mail-Verbindung
 exl-id: 02450a1e-5b30-4057-b204-19fab1a7d6c9
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 19f60f58ae4de26536b304eb8ae9677ecc221993
 workflow-type: tm+mt
-source-wordcount: '435'
+source-wordcount: '419'
 ht-degree: 0%
 
 ---
@@ -15,10 +15,6 @@ ht-degree: 0%
 Die Integration Ihres Sales Connect-Kontos für den Versand über Exchange oder Gmail-E-Mail-Anbieter bietet eine optimierte Einrichtung und Optimierung der E-Mail-Zustellbarkeit für die 1:1-Verkaufskommunikation. Um jedoch gesunde Systeme und sichere Konten zu gewährleisten, setzen Gmail und Exchange die Versandbeschränkungen von E-Mails um. Diese Beschränkungen können nach Ermessen der Anbieter erhöht oder verringert werden.
 
 ## Einschränken der E-Mail-Verbindung (Beta) {#email-connection-throttling-beta}
-
->[!AVAILABILITY]
->
->Diese Funktion ist derzeit als Betaversion verfügbar. Wenden Sie sich an das Adobe Account Team (Ihren Kundenbetreuer), um Mitglied zu werden.
 
 Durch die Einschränkung der E-Mail-Verbindung können Sales Connect-Administratoren die Senderate von E-Mails bei Verwendung von Gmail oder Exchange als Versandkanal konfigurieren, sodass die Rate, mit der E-Mails an den Versandkanalanbieter weitergeleitet werden, die erzwungenen Beschränkungen nicht überschreitet.
 
@@ -53,7 +49,7 @@ Wenn die Grenzwerte durchgängig überschritten werden, kann dies manchmal als v
 
    ![](assets/email-connection-throttling-5.png)
 
-1. Klicks **Speichern**.
+1. Klicken Sie auf **Speichern**.
 
    ![](assets/email-connection-throttling-6.png)
 
