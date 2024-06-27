@@ -2,9 +2,10 @@
 description: On-Demand-Webinare - Marketo-Dokumente - Produktdokumentation
 title: On-Demand-Webinare
 feature: Interactive Webinars
-source-git-commit: c3819373fbd49f7ea67f6eb6661d63ad5ba86d57
+exl-id: 65bfc1d2-6382-4cfa-9560-69cbb0c37c42
+source-git-commit: 0bbe8110b7912cfbe04fdfc9b73c90fa9606a6b8
 workflow-type: tm+mt
-source-wordcount: '440'
+source-wordcount: '438'
 ht-degree: 0%
 
 ---
@@ -15,9 +16,9 @@ On-Demand-Webinare erfassen und verfeinern die Leads, die sich für Ihre Veranst
 
 Über die Webinar-Verbindungs-URL, die vor dem Ereignis für die Registrierungspflichtigen freigegeben wurde, können Sie sich die On-Demand-Aufzeichnung ansehen. Sobald ein Registrant, der nicht an der Live-Veranstaltung teilgenommen hat (z. B. ein Lead mit dem Programmstatus &quot;Keine Sendung&quot;), auf die Webinar-Joining-URL klickt, ändert sich der Programmstatus dieses Leads von &quot;Keine Sendung&quot; zu &quot;Teilnehmer On-Demand&quot;. Der Programmstatus der Leads, die das Ereignis live angesehen haben und den Status &quot;Teilnehmer&quot;haben, wird nicht beeinträchtigt, wenn sie die Joining-URL aufrufen und die On-Demand-Aufzeichnung ansehen.
 
-Adobe Connect, die Technologie für interaktive Webinare, verfolgt den Besuch sowie die Überwachungsdauer in Bezug auf die Leads, die die Aufzeichnung ansehen, und meldet die Informationen täglich an Marketo. Die Aufzeichnung ist 30 Tage nach dem Ereignis unter der Verbindungs-URL verfügbar. Die Dauer kann nicht geändert werden.
+Adobe Connect, die Technologie für interaktive Webinare, verfolgt den Besuch und die Überwachungsdauer in Bezug auf die Leads, die die Aufzeichnung ansehen, und meldet die Informationen täglich an Marketo Engage. Das Tracking von On-Demand-Webinaren endet 30 Tage nach dem Ereignis. Die Dauer kann nicht geändert werden.
 
-Marketo stellt mithilfe der folgenden Widgets die Überwachungsstatistiken für On-Demand-Webinare auf der Registerkarte &quot;Dashboard&quot;bereit:
+Marketo Engage stellt mithilfe der folgenden Widgets die Überwachungsstatistiken für On-Demand-Webinare auf der Registerkarte Dashboard bereit:
 
 * On-Demand-Zusammenfassung: Diese Übersicht zeigt die Anzahl der Besucher (keine Aufnahmen), die die Aufzeichnung an einem oder mehreren Tagen nach dem Ereignis ansehen.
 
