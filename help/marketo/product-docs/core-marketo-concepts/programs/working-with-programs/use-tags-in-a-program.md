@@ -4,16 +4,20 @@ description: Verwenden von Tags in einem Programm - Marketo-Dokumente - Produktd
 title: Verwenden von Tags in einem Programm
 exl-id: f1bae623-a710-472a-a30f-9044ce1001f5
 feature: Programs
-source-git-commit: aca03bfe0626abd18b8d797d0ad85bbeb7280f55
+source-git-commit: 271b3f9a6c526e343f04d4d05d4c03f2ae32d146
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 5%
+source-wordcount: '164'
+ht-degree: 4%
 
 ---
 
 # Verwenden von Tags in einem Programm {#use-tags-in-a-program}
 
 Tags sind Attribute, die Ihre Programme beschreiben und zur Gruppierung von Programmtypen in Berichten verwendet werden.
+
+>[!NOTE]
+>
+>Wenn Sie den Umsatz-Cycle-Explorer verwenden, müssen die Kosten eines Zeitraums definiert werden (auch wenn es 0 ist), damit die Berichterstellung für das Programm verfügbar ist.
 
 ## Verwenden eines Tags in einem Programm {#use-a-tag-in-a-program}
 
