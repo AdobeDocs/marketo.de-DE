@@ -3,10 +3,10 @@ description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokument
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: ea9bf2a002415936cdfb5bfb723ce80723003da5
+source-git-commit: 10a77a09f5ca9ce57e7a357fe1b6736b7bdb95e3
 workflow-type: tm+mt
-source-wordcount: '341'
-ht-degree: 4%
+source-wordcount: '465'
+ht-degree: 6%
 
 ---
 
@@ -30,6 +30,39 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
    <th style="width:65%">Funktion</th> 
    <th style="width:10%">Status</th>
    <th style="width:25%">Dokumentation</th>
+  </tr>
+     <tr> 
+   <td><strong>Interaktions-Dashboard für interaktive Webinare</strong>: Rufen Sie eine aggregierte Webinar-Leistungsansicht sowie einen umfassenden Überblick über die Interaktion für jeden Teilnehmer während des Webinars ab, damit Sie mithilfe von Marketo Engage-Orchestrierungs-Tools entscheiden können, welche Zielgruppe angesprochen werden soll.</td> 
+    <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  </tr>
+     <tr> 
+   <td><strong>Raumverwaltung für interaktive Webinare</strong>: Greifen Sie auf einzelne erstellte Räume zu (und nehmen Sie bei Bedarf Änderungen vor) sowie auf den Inhalt und die Aufzeichnung zu (und löschen Sie sie bei Bedarf, um die Speicherung zu optimieren).</td> 
+    <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  </tr>
+     <tr> 
+   <td><strong>Webinar-Anpassung für interaktive Webinare</strong>: Bieten Sie durch die Verwendung einer gemeinsamen Raumschnittstelle, von Zwischenbildschirmen (z. B. Hintergründe für Teilnehmereintritte) und benutzerdefinierten Video-Hintergründen ein einheitliches, von der Organisation genehmigtes Markenerlebnis, sodass die Webinar-Strategie einfacher an die Markenstrategie angepasst werden kann.</td> 
+    <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
   </tr>
      <tr> 
    <td><strong>Marketo REST API-Änderung</strong>: Wir führen eine geringfügige Änderung an der <a href="https://developers.marketo.com/rest-api/user-management/">User Management-API</a>. Beide <a href="https://developers.marketo.com/rest-api/user-management/#browse_users">Benutzer durchsuchen</a> und <a href="https://developers.marketo.com/rest-api/user-management/#delete_user">Benutzer löschen</a> Endpunkte unterstützen jetzt <a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md">Verwaltung von Target-Konten</a> Benutzer.</td> 
