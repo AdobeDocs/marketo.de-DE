@@ -3,7 +3,7 @@ description: Bevor Sie in Ihre neue Marketo Engage-Instanz eintauchen, müssen S
 title: Checkliste zur Benutzereinrichtung
 feature: Getting Started
 exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
-source-git-commit: 1d153012aa151ddc787cbcfd03a2f420a7d65e48
+source-git-commit: 889071c38fdf1fc99c27cf14064a5463a162916e
 workflow-type: tm+mt
 source-wordcount: '794'
 ht-degree: 0%
@@ -32,9 +32,9 @@ Ihre neuen Marketo Engage-Abonnements sind bei [Adobe Identity Management System
 <tbody>
   <tr>
     <td>Produkt-Admin für Marketo Engage und Abonnement</td>
-    <td><li>Vergewissern Sie sich, dass Ihr Adobe Org-Systemadministrator Ihnen eine Adobe Product Admin-Rolle zugewiesen hat.</li>  
+    <td><li>Vergewissern Sie sich, dass Ihr Adobe Org-Systemadministrator Ihnen eine Adobe Product Admin-Rolle zugewiesen hat.</li> 
     <ul>
-    <li>Wenden Sie sich an das Adobe Account-Team (Ihren Kundenbetreuer) oder senden Sie eine E-Mail an <code>customercare@marketo.com</code> herauszufinden, wer in Ihrer Organisation <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Adobe Admin Console-Systemadministrator</a> -Berechtigungen.</li></ul>
+    <li>Wenden Sie sich an das Adobe Account-Team (Ihren Kundenbetreuer) oder senden Sie eine E-Mail an <code>marketocares@marketo.com</code> herauszufinden, wer in Ihrer Organisation <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Adobe Admin Console-Systemadministrator</a> -Berechtigungen.</li></ul>
     <li>Akzeptieren Sie die Einladung "Marketo Engage Product Admin", um Ihre Adobe ID zu aktivieren. Die <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/admin-setup.html?lang=en#create-a-product-profile">Willkommens-E-Mail</a> wird gesendet, wenn die Rolle in der Adobe Admin Console zugewiesen wird.</li></td>
   </tr>
   <tr>
@@ -80,7 +80,7 @@ Verwendung [Dynamic Chat](https://experienceleague.adobe.com/docs/marketo/using/
   <tr>
     <td>Dynamic Chat Product Admin (falls zutreffend)</td>
     <td><li>Vergewissern Sie sich, dass Ihr Adobe Org-Systemadministrator Ihnen eine Adobe Product Admin-Rolle zugewiesen hat.</li> 
-    <ul><li>Wenden Sie sich an das Adobe Account-Team (Ihren Kundenbetreuer) oder senden Sie eine E-Mail an <code>customercare@marketo.com</code> herauszufinden, wer in Ihrer Organisation <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Adobe Admin Console-Systemadministrator</a> -Berechtigungen.</li></ul>
+    <ul><li>Wenden Sie sich an das Adobe Account-Team (Ihren Kundenbetreuer) oder senden Sie eine E-Mail an <code>marketocares@marketo.com</code> herauszufinden, wer in Ihrer Organisation <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Adobe Admin Console-Systemadministrator</a> -Berechtigungen.</li></ul>
     <li>Akzeptieren Sie die <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html">"Dynamic Chat Product Admin"</a> einladen. Die <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html">Willkommens-E-Mail</a> wird gesendet, wenn Dynamic Chat in Ihrer Marketo Engage-Instanz aktiviert ist und Sie als Systemadministrator benannt sind.</li></td>
   </tr>
   <tr>
