@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: ea9bf2a002415936cdfb5bfb723ce80723003da5
+source-git-commit: 748a04573806c14784e3fac6fd884d25d5cc5e1c
 workflow-type: tm+mt
-source-wordcount: '9335'
+source-wordcount: '9339'
 ht-degree: 3%
 
 ---
@@ -195,6 +195,7 @@ ht-degree: 3%
          + Abonnement- und Benutzermigration {#subscription-and-user-migration}
             + [Migration zur Adobe Identity](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md)
             + [Grundlegendes zu Marketo-Abonnements und Benutzermigration zur Adobe Admin Console](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md)
+            + [Migration von Marketo Engage-Support](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/marketo-engage-support-migration.md)
       + Einstellungen {#settings}
          + [Informationen zur Massenexport-API](product-docs/administration/settings/bulk-export-api-information.md)
          + [Kampagnenprüfung](product-docs/administration/settings/campaign-inspector.md)
