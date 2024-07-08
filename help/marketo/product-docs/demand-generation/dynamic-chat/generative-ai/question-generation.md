@@ -3,9 +3,9 @@ description: Fragengenerierung - Marketo-Dokumente - Produktdokumentation
 title: Fragengenerierung
 feature: Dynamic Chat
 exl-id: 05e0fd4c-b8e0-47de-8ca8-d4ba07d6a06a
-source-git-commit: 6bdac72f0b9831ba830d842cabffbd0f114325fb
+source-git-commit: a711da0fe04e967bfc525be4f3df59d978021592
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -31,6 +31,10 @@ Sehen Sie sich all Ihre Aufgaben und ihre relevanten Details an, z. B. wann sie 
    >[!IMPORTANT]
    >
    >Um sicherzustellen, dass Marketo Engage Inhalte aus den bereitgestellten URLs löschen kann, müssen Sie zunächst mehrere IP-Adressen auf die Zulassungsliste gesetzt haben. [Weitere Informationen finden Sie unten](#ip-addresses-to-allowlist).
+
+   >[!NOTE]
+   >
+   >Sites/Seiten müssen öffentlich sein (d. h. nicht hinter einem Login verborgen sein), damit ihre Informationen durchsucht werden können.
 
 1. Je nach Inhalt kann die Erstellung von Fragen und Antworten bis zu 30 Minuten dauern. Klicks **[!UICONTROL OK]**.
 
