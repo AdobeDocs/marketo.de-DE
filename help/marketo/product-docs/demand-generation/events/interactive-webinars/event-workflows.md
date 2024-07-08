@@ -3,9 +3,9 @@ description: Ereignis-Workflows - Marketo-Dokumente - Produktdokumentation
 title: Ereignis-Workflows
 exl-id: c9f44d9f-9210-4303-a9b5-22be1376efc4
 feature: Interactive Webinars
-source-git-commit: 7f90ff09fbab7bc1559ce75b213cb86bd3cd25f4
+source-git-commit: 8222d5d8d5600ffac72b3aac69137ba395169932
 workflow-type: tm+mt
-source-wordcount: '401'
+source-wordcount: '439'
 ht-degree: 0%
 
 ---
@@ -45,6 +45,7 @@ Gehen Sie zur Registerkarte Übersicht , um das aufgezeichnete Webinar anzuzeige
 >[!NOTE]
 >
 >* Interaktive Webinare werden nicht automatisch aufgezeichnet. Klicken Sie nach Beginn Ihres Webinars auf das Dropdown-Menü neben dem Namen des Webinars und wählen Sie **Sitzung aufzeichnen**.
+>* Wenn die Sitzung aufgezeichnet wird, muss der Host die Aufzeichnung manuell beenden oder &quot;Sitzung für alle beenden&quot;auswählen, um die Aufzeichnung zu stoppen. Andernfalls wird die Aufzeichnung automatisch innerhalb von 10 Minuten nach dem letzten Teilnehmer, der den Raum verlässt, beendet.
 >* Die Aufzeichnung wird im MP4-Format heruntergeladen.
 >* Wenn Sie die Aufzeichnung freigeben, kann sie von jedem Benutzer mit dem Link angezeigt werden. Stellen Sie daher sicher, dass sie für die gewünschte Zielgruppe freigegeben ist.
 
