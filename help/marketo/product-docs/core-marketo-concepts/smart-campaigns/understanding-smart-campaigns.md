@@ -4,20 +4,20 @@ description: Smart-Kampagnen - Marketo-Dokumente - Produktdokumentation
 title: Smart-Kampagnen
 exl-id: 94675059-cc04-4dc2-989f-aaf81e1260d3
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 6dd6ce30dd90684ca685ae709cd9ab95e1c7d7e8
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '249'
 ht-degree: 4%
 
 ---
 
 # Smart-Kampagnen {#understanding-smart-campaigns}
 
-Wenn Marketo ein leistungsstarkes Auto ist, ist die intelligente Kampagne wirklich der Motor. Es ist einfach, zu beginnen, aber kann fast alles tun, was man davon verlangt.
+Wenn Marketo Engage ein Auto ist, ist die intelligente Kampagne der Motor. Smart-Kampagnen können mehr tun, als Sie sich vorstellen können, und es ist einfach, mit ihnen zu beginnen.
 
-Die intelligente Kampagne hat drei Hauptbereiche: Die [Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md){target="_blank"}, [Flow](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} and [Schedule](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"} Registerkarten.
+Die intelligente Kampagne umfasst drei Hauptbereiche: die [Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md){target="_blank"}, [Fluss](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} und [Zeitplan](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"} Registerkarten.
 
-## Intelligente Liste {#smart-list}
+## Smart List {#smart-list}
 
 Die Smart-Liste beschreibt, wie Sie _who_ Sie möchten Ihr Targeting mit Ihrer Smart-Kampagne durchführen. Es verfügt über Filter und Trigger.
 
@@ -45,13 +45,13 @@ Sie können Filter auf verschiedene Arten kombinieren und sie gemeinsam mit Trig
 
 ## Flow {#flow}
 
-Der Ablauf umfasst die Schritte, die die intelligente Kampagne ausführen soll, einschließlich Warteschritte und Aufspaltungsoptionen.
+Der Ablauf umfasst die Schritte, die die Smart-Kampagne ausführen soll, einschließlich Warteschritte und Aufspaltungsoptionen.
 
 ## Zeitplan {#schedule}
 
 Schließlich wird dadurch gesteuert, wann Sie Ihre Smart-Kampagne ausführen. Sie können die Wiederholung sogar so einrichten, dass sie wiederholt ausgeführt wird.
 
-Die intelligente Kampagne kann eine enorme Menge von Dingen erledigen. Verstehen Sie es, und Sie werden alles in Marketo viel einfacher zu verstehen finden.
+Die intelligente Kampagne kann vieles tun. Verstehen Sie es, und Sie werden alles in Marketo viel einfacher zu verstehen finden.
 
 >[!CAUTION]
 >
