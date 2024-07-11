@@ -1,11 +1,12 @@
 ---
 description: Marketo Engage-Glossar - Marketo Docs - Produktdokumentation
+short-description: Lernen Sie Marketo Engage-Begriffe und ihre Definitionen kennen, um schnell auf den neuesten Stand zu kommen.
 title: Marketo Engage-Glossar
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 384740fdfc1f6950369116bd77ee49f9e745bdf1
 workflow-type: tm+mt
-source-wordcount: '4083'
+source-wordcount: '4098'
 ht-degree: 4%
 
 ---
@@ -52,7 +53,7 @@ Im Folgenden finden Sie Definitionen für viele der Begriffe, auf die Sie bei de
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md" rel="nofollow"><strong>Anzeigennetzwerkintegrationen </strong></a></td> 
-   <td colspan="1">(ehemals Ad Bridge) Eine Möglichkeit, die eindeutigen Zielgruppendaten von Marketo mit Ihren gebührenpflichtigen Mediensystemen zu verbinden, sodass Sie zielgerichtetere, personalisierte digitale Anzeigenkampagnen durchführen können.</td> 
+   <td colspan="1">(ehemals Ad Bridge) Eine Möglichkeit, die eindeutigen Zielgruppendaten von Marketo mit Ihren Paid-Media-Systemen zu verbinden, damit Sie zielgerichtetere, personalisierte Digital-Advertising-Kampagnen durchführen können.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Adobe Marketo Engage</strong></td> 
@@ -72,7 +73,7 @@ Im Folgenden finden Sie Definitionen für viele der Begriffe, auf die Sie bei de
   </tr> 
   <tr> 
    <td colspan="1"><strong>Genehmigt</strong></td> 
-   <td colspan="1">Wird verwendet, um zu bestätigen, dass ein <strong>Asset</strong> ist konsumbereit. Assets können erst dann öffentlich angezeigt werden, wenn sie genehmigt wurden.</td> 
+   <td colspan="1">Wird verwendet, um zu bestätigen, dass ein <strong>Asset</strong> ist konsumbereit. Assets kann erst dann öffentlich angezeigt werden, wenn sie genehmigt wurden.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Asset</strong></td> 
@@ -128,7 +129,7 @@ Im Folgenden finden Sie Definitionen für viele der Begriffe, auf die Sie bei de
  <tbody> 
   <tr> 
    <td colspan="1"><strong>Kampagne</strong></td> 
-   <td colspan="1">"Kampagne"könnte in Marketo einige Dinge bedeuten. A <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md" rel="nofollow">Kampagne</a> ist ein kürzerer Begriff für intelligente Kampagnen. In <strong>Marketo Sales Connect</strong>, <a href="/help/marketo/product-docs/marketo-sales-connect/campaigns/create-a-campaign.md" rel="nofollow">Kampagnen</a> sind eine Reihe von Schritten zur kanalübergreifenden Korrespondenz. In <strong>Web-Personalisierung</strong>, Web <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow">Kampagnen</a> sind benutzerspezifische Reaktionen, die mit einem bestimmten Segment verknüpft sind.</td> 
+   <td colspan="1">"Kampagne"könnte in Marketo einige Dinge bedeuten. A <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md" rel="nofollow">Kampagne</a> ist ein kürzerer Begriff für intelligente Kampagnen. In <strong>Marketo Sales Connect</strong>, <a href="/help/marketo/product-docs/marketo-sales-connect/campaigns/create-a-campaign.md" rel="nofollow">Kampagnen</a> sind eine Reihe von Schritten zur kanalübergreifenden Korrespondenz. In <strong>Web Personalization</strong>, Web <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow">Kampagnen</a> sind benutzerspezifische Reaktionen, die mit einem bestimmten Segment verknüpft sind.</td> 
   </tr>
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md" rel="nofollow">Bericht zur E-Mail-Leistung von Campaign</a></strong></td> 
@@ -184,7 +185,7 @@ Im Folgenden finden Sie Definitionen für viele der Begriffe, auf die Sie bei de
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md" rel="nofollow"><strong>Inhaltsanalyse</strong></a></td> 
-   <td colspan="1">Ein Gebiet von <strong>Web-Personalisierung</strong> , der erkannte vorhandene Inhalte von Ihrer Website sowie die Inhaltsleistung anzeigt.</td> 
+   <td colspan="1">Ein Gebiet von <strong>Web Personalization</strong> , der erkannte vorhandene Inhalte von Ihrer Website sowie die Inhaltsleistung anzeigt.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Interaktionsstufe</strong></td> 
@@ -394,7 +395,7 @@ Im Folgenden finden Sie Definitionen für viele der Begriffe, auf die Sie bei de
   </tr> 
   <tr> 
    <td><strong>Globale Assets</strong></td> 
-   <td>In der <strong>Design Studio</strong> zur Verwendung in <strong>Programme</strong> in Ihrer Marketo-Instanz. </td> 
+   <td>Assets, die in der <strong>Design Studio</strong> zur Verwendung in <strong>Programme</strong> in Ihrer Marketo-Instanz. </td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Geführte Landingpage</strong></td> 
@@ -483,7 +484,7 @@ Im Folgenden finden Sie Definitionen für viele der Begriffe, auf die Sie bei de
    <td colspan="1">Eine Sammlung von Personen. In Marketo gibt es Smart-Listen und statische Listen. A <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" rel="nofollow">Smart-Liste</a> ist eine dynamische Liste von Personen, die sich ständig ändern können, da sie auf Filtern basieren, die Sie definieren (z. B. jeder in Ihrer Datenbank, der in Kalifornien lebt). Wenn neue Personen die Kriterien erfüllen (oder bestehende Personen die Kriterien nicht mehr erfüllen), ändert sich die Liste. A <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" rel="nofollow">statische Liste</a> ist statisch. Es ändert sich nur, wenn Sie manuell jemanden hinzufügen/löschen.</td> 
   </tr> 
   <tr> 
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md" rel="nofollow"><strong>Lokale Assets</strong></a></td> 
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md" rel="nofollow"><strong>Lokaler Assets</strong></a></td> 
    <td><strong>Assets</strong> innerhalb eines bestimmten <strong>program</strong>.</td> 
   </tr> 
  </tbody> 
@@ -561,7 +562,7 @@ Im Folgenden finden Sie Definitionen für viele der Begriffe, auf die Sie bei de
    <td><p>In <strong>TAM</strong>, ein Konto, das der Benutzer als Zielkonto festgelegt hat, das er verfolgen möchte.</p></td> 
   </tr> 
   <tr> 
-   <td><strong>Programm-Nurturing</strong></td> 
+   <td><strong>Nurturing-Programm</strong></td> 
    <td>Siehe (<a href="#e" rel="nofollow">Interaktionsprogramm</a>)</td> 
   </tr> 
  </tbody> 
@@ -861,7 +862,7 @@ Im Folgenden finden Sie Definitionen für viele der Begriffe, auf die Sie bei de
     <div> 
      <p><strong> Webkampagne</strong></p> 
     </div></td> 
-   <td colspan="1">Eine benutzerspezifische Reaktion, die mit einem bestimmten Segment verknüpft ist. In <strong>Web-Personalisierung</strong>, enthalten Webkampagnen <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow">Dialogfelder</a>, <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md" rel="nofollow">In Zonen</a>, und <strong><a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md" rel="nofollow">Widgets</a></strong>.</td> 
+   <td colspan="1">Eine benutzerspezifische Reaktion, die mit einem bestimmten Segment verknüpft ist. In <strong>Web Personalization</strong>, enthalten Webkampagnen <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow">Dialogfelder</a>, <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md" rel="nofollow">In Zonen</a>, und <strong><a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md" rel="nofollow">Widgets</a></strong>.</td> 
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" rel="nofollow">Webseitenaktivitätsbericht</a></strong></td> 
@@ -889,7 +890,7 @@ Im Folgenden finden Sie Definitionen für viele der Begriffe, auf die Sie bei de
   </tr> 
   <tr> 
    <td><strong>Platzhalter</strong></td> 
-   <td>Ein Zeichen (*) wird in <strong>Web-Personalisierung</strong>), das vor oder nach einer Zeichenfolge verwendet wird, um andere Zeichen in einer Zeichenfolge zu ersetzen.</td> 
+   <td>Ein Zeichen (*) wird in <strong>Web Personalization</strong>), das vor oder nach einer Zeichenfolge verwendet wird, um andere Zeichen in einer Zeichenfolge zu ersetzen.</td> 
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" rel="nofollow">Arbeitsbereich</a></strong></td> 
