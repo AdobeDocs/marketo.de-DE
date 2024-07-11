@@ -3,16 +3,16 @@ description: Übersicht über generative KI - Marketo-Dokumente - Produktdokumen
 title: Übersicht über generative KI
 feature: Dynamic Chat
 exl-id: 2ec6409b-f2c8-42a4-94e0-5d2cd331a0a6
-source-git-commit: 5aaf7081bbe96ff49753a7e142b0f3b38a70ea10
+source-git-commit: 338f7ab16b3eea1a5d9777ca5283a1b1629376e6
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '445'
 ht-degree: 3%
 
 ---
 
 # Übersicht über generative KI {#generative-ai-overview}
 
-Generative KI in Adobe Dynamic Chat verarbeitet Intent-Signale, Benutzereinstellungen und vergangenes Verhalten in Echtzeit, um relevante, personalisierte Nachrichten für Chat-Besucher zu generieren.
+Mit generativen KI-gestützten Funktionen im Adobe Dynamic Chat können Sie die Produktivität Ihrer Vertriebsmitarbeiter optimieren, Einblicke in die Absicht Ihrer Website-Besucher erhalten und auf Besucherfragen auf sichere Weise reagieren.
 
 ## Berechtigungen {#permissions}
 
