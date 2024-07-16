@@ -2,9 +2,10 @@
 description: Webinar-Team hinzufügen - Marketo-Dokumente - Produktdokumentation
 title: Webinar-Team hinzufügen
 feature: Interactive Webinars
-source-git-commit: 1e5e5a64e2524a65e0f7c75cd87ac2765a5e69e3
+exl-id: eff0b69a-0ffe-45b4-8170-cd57894ab926
+source-git-commit: 7de0aed6be29a304276f2b3f96dd60974b4c4eb6
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '379'
 ht-degree: 0%
 
 ---
@@ -15,7 +16,7 @@ Ein Webinar-Team in interaktiven Webinaren besteht aus allen Rollen, die zur erf
 
 >[!NOTE]
 >
->Moderatoren und Hosts in Marketo entsprechen während der Bereitstellung des Webinars in Adobe Connect exakt den Rollen des Moderators und Hosts.
+>Moderatoren und Co-Hosts in Marketo Engage ordnen während des Webinar-Versands in Adobe Connect exakt den Rollen von Moderator und Host zu. Mitwirkende können Layouts und Pods ändern, Moderatoren dagegen nicht.
 
 Der Moderator ist eine externe Rolle, die an der Bereitstellung des Webinar-Erlebnisses beteiligt ist, während Ko-Hosts als Moderator fungieren und administrative Aspekte des Webinar-Versands handhaben können. Co-Hosts können sowohl intern als auch extern sein. Externe Hosts haben keinen Zugriff auf die interaktiven Webinar-Ereignisprogramme in Marketo, sondern während der Bereitstellung in Adobe Connect über Hostberechtigungen. Interne Hosts haben während der Bereitstellung Zugriff auf das Programm für interaktive Webinar-Ereignisse in Marketo sowie auf Hostberechtigungen. Dadurch wird sichergestellt, dass die internen Hosts die Züge des Interaktiven Webinar-Veranstaltungsprogramms übernehmen können, wenn der ursprüngliche Ersteller des interaktiven Webinar-Programms entweder nicht mehr Teil des Benutzersets der interaktiven Webinare ist oder nicht einmal ein Marketo-Benutzer.
 
@@ -25,7 +26,7 @@ Der Moderator ist eine externe Rolle, die an der Bereitstellung des Webinar-Erle
 
 ## Hinzufügen eines Co-Hosts {#add-a-co-host}
 
-1. Klicken Sie auf der Übersichtsseite des interaktiven Webinars auf **Hinzufügen von Hosts**.
+1. Klicken Sie auf der Übersichtsseite des interaktiven Webinars auf **Co-Hosts hinzufügen**.
 
    ![](assets/add-a-webinar-team-1.png)
 
@@ -35,9 +36,9 @@ Der Moderator ist eine externe Rolle, die an der Bereitstellung des Webinar-Erle
 
    >[!NOTE]
    >
-   >Wenn Sie **Interner interaktiver Webinar-Benutzer**, müssen Sie einfach auf die **Verfügbare Hosts** und wählen Sie aus der Liste der Personen aus, die als Benutzer von interaktiven Webinaren im Marketo Engage hinzugefügt wurden.
+   >Wenn Sie den Benutzer **Interner interaktiver Webinar-Benutzer** auswählen, müssen Sie einfach auf das Dropdown-Menü **Verfügbare Hosts** klicken und aus der Liste der Personen auswählen, die als interaktive Webinare-Benutzer im Marketo Engage hinzugefügt wurden.
 
-1. Geben Sie den Vornamen, Nachnamen und die E-Mail-Adresse des gewünschten Co-Hosts ein. Klicks **Hinzufügen**.
+1. Geben Sie den Vornamen, Nachnamen und die E-Mail-Adresse des gewünschten Co-Hosts ein. Klicken Sie auf **Hinzufügen**.
 
    ![](assets/add-a-webinar-team-3.png)
 
@@ -47,11 +48,11 @@ Der Moderator ist eine externe Rolle, die an der Bereitstellung des Webinar-Erle
 
 ## Hinzufügen eines Moderators {#add-a-presenter}
 
-1. Klicken Sie auf der Übersichtsseite des interaktiven Webinars auf **Hinzufügen von Moderatoren**.
+1. Klicken Sie auf der Übersichtsseite des interaktiven Webinars auf **Moderatoren hinzufügen**.
 
    ![](assets/add-a-webinar-team-5.png)
 
-1. Geben Sie den Vornamen, Nachnamen und die E-Mail-Adresse des gewünschten Moderators ein. Klicks **Hinzufügen**.
+1. Geben Sie den Vornamen, Nachnamen und die E-Mail-Adresse des gewünschten Moderators ein. Klicken Sie auf **Hinzufügen**.
 
    ![](assets/add-a-webinar-team-6.png)
 

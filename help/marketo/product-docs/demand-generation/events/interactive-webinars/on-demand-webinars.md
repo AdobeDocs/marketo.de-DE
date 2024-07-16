@@ -3,9 +3,9 @@ description: On-Demand-Webinare - Marketo-Dokumente - Produktdokumentation
 title: On-Demand-Webinare
 feature: Interactive Webinars
 exl-id: 65bfc1d2-6382-4cfa-9560-69cbb0c37c42
-source-git-commit: 0bbe8110b7912cfbe04fdfc9b73c90fa9606a6b8
+source-git-commit: 7de0aed6be29a304276f2b3f96dd60974b4c4eb6
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '449'
 ht-degree: 0%
 
 ---
@@ -28,5 +28,9 @@ Marketo Engage stellt mithilfe der folgenden Widgets die Überwachungsstatistike
    * Durchschnittliche Überwachungsdauer in Minuten für alle Besucher - gibt Marketing-Experten einen Überblick darüber, wie viel der Aufzeichnung angezeigt wird und welche Smart-Kampagnen verwendet werden können, um Leads über eine bestimmte Überwachungsdauer hinweg als Ziel festzulegen.
 
 ![](assets/on-demand-webinars-1.png)
+
+>[!NOTE]
+>
+>Ansichten werden nur gezählt, wenn die Überwachungsdauer eine Minute überschreitet.
 
 Die Filter und Trigger für interaktive Webinare wurden entsprechend den On-Demand-Webinaren geändert. Der Trigger &quot;Teilnehmer-Ereignis&quot;und der Filter &quot;Hat das Ereignis besucht&quot;werden mit einer zusätzlichen Einschränkung (&quot;Ereignismodus&quot;) hinzugefügt, durch die ein Marketing-Experte auswählen kann, ob es sich um eine Live-Zielgruppe oder eine On-Demand-Zielgruppe handelt. Wenn die Beschränkung &quot;Ereignismodus&quot;nicht ausgewählt ist, werden sowohl die Live- als auch die On-Demand-Zielgruppen angesprochen. Andere Einschränkungen wie &quot;Überwachungsdatum&quot;und &quot;Überwachungsdauer&quot;können mit dem Ereignismodus &quot;On-Demand&quot;verwendet werden. Der Inaktivitätsfilter &quot;Hat kein Ereignis teilgenommen&quot;kann auch für On-Demand-Webinare mit dem Ereignismodus &quot;On-Demand&quot;verwendet werden.
