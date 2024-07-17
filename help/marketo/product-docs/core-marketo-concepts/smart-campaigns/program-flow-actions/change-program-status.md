@@ -4,32 +4,28 @@ description: Ändern des Programmstatus - Marketo-Dokumente - Produktdokumentati
 title: Programmstatus ändern
 exl-id: ca6076a6-10f4-4687-8486-1bbcb6ea9255
 feature: Smart Campaigns
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 6%
+source-wordcount: '129'
+ht-degree: 4%
 
 ---
 
 # Programmstatus ändern {#change-program-status}
 
-## Überblick {#overview}
-
-Mit den Programmstatus können Sie verfolgen, wie Personen durch ein Programm oder eine Veranstaltung vorankommen. Weitere Informationen finden Sie unter [Kanäle anpassen, erstellen und verwalten](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.
+Mit den Programmstatus können Sie verfolgen, wie Personen durch ein Programm oder eine Veranstaltung vorankommen. Weitere Informationen finden Sie unter [Anpassen, Erstellen und Verwalten von Kanälen](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.
 
 >[!CAUTION]
 >
 >Wenn Sie den Programmstatus in einem Interaktionsprogramm ändern, werden diese automatisch zum ersten Stream hinzugefügt. Sie erhalten Inhalte.
 
-## Nutzung {#usage}
+1. Ziehen Sie in den Flussschritt **[!UICONTROL Programmstatus ändern]** .
 
-1. Ziehen Sie in die **[!UICONTROL Ändern des Programmstatus]** Flussschritt.
+   ![](assets/change-program-status-1.png)
 
-   ![](assets/image2014-9-22-14-3a43-3a34.png)
+1. Wählen Sie den festzulegenden **[!UICONTROL neuen Status]** aus. Die Person wird auch Teil des Programms, wenn sie nicht bereits Teil des Programms war.
 
-1. Wählen Sie die **[!UICONTROL Neuer Status]** Sie festlegen möchten. Die Person wird auch Teil des Programms, wenn sie nicht bereits Teil des Programms war.
-
-   ![](assets/image2014-9-22-14-3a43-3a45.png)
+   ![](assets/change-program-status-2.png)
 
 Die Auswahlmöglichkeiten sind auf gültige Status für dieses Programm beschränkt.
 

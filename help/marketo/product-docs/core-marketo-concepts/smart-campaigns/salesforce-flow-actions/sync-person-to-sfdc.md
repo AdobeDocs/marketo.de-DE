@@ -4,7 +4,7 @@ description: Person mit SFDC synchronisieren - Marketo Docs - Produktdokumentati
 title: Person mit SFDC synchronisieren
 exl-id: 4284ec35-6ac5-4084-beb7-976eb6fd7e3c
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 6%
@@ -15,15 +15,13 @@ ht-degree: 6%
 
 In diesem Flussschritt werden von Marketo erstellte Personen als Leads in Ihr Salesforce-CRM eingefügt.
 
-![](assets/sync-person-to-sfdc.png)
-
 >[!NOTE]
 >
 >Nur verfügbar bei Integration mit Salesforce.
 
 1. Standardmäßig wird dieser Flussschritt den Lead-Eigentümern basierend auf den Salesforce-Regeln für die automatische Zuweisung zugewiesen.
 
-   ![](assets/sync-person-to-sfdc.png)
+   ![](assets/sync-person-to-sfdc-1.png)
 
    >[!TIP]
    >

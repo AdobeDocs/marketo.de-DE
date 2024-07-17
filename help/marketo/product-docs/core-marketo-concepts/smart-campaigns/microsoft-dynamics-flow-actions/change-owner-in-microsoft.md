@@ -1,31 +1,31 @@
 ---
 unique-page-id: 37356426
 description: Inhaber in Microsoft wechseln - Marketo-Dokumente - Produktdokumentation
-title: Inhaber in Microsoft ändern
+title: Eigentümer in Microsoft ändern
 exl-id: d17cfb70-1d78-48e9-8e53-99a7abd5a647
 feature: Smart Campaigns, Microsoft Dynamics
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
 workflow-type: tm+mt
 source-wordcount: '91'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
-# Inhaber in Microsoft ändern {#change-owner-in-microsoft}
+# Eigentümer in Microsoft ändern {#change-owner-in-microsoft}
 
 Wenn Sie bereits vorhandene Personen haben, die bereits einem Eigentümer zugewiesen sind, können Sie diesen Flussschritt verwenden, um sie einem anderen Eigentümer erneut zuzuweisen.
 
 >[!NOTE]
 >
->Dieser Flussschritt _funktioniert nur bei Verwendung mit Triggern_ in Ihrer Smart-Kampagne, nicht Filter.
+>Dieser Flussschritt funktioniert _nur bei Verwendung mit Triggern_, nicht mit Filtern in Ihrer Smart-Kampagne.
 
-![](assets/one-1.png)
+![](assets/change-owner-in-microsoft-1.png)
 
 **Nutzung**
 
 1. Wählen Sie einfach den Besitzer aus, zu dem Sie wechseln und gehen möchten!
 
-   ![](assets/two-1.png)
+   ![](assets/change-owner-in-microsoft-2.png)
 
    >[!NOTE]
    >

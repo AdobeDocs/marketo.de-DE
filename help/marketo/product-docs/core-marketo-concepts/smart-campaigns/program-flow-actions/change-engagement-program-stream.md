@@ -1,25 +1,21 @@
 ---
 unique-page-id: 1147015
 description: Ändern des Interaktionsprogramm-Streams - Marketo-Dokumente - Produktdokumentation
-title: Engagement Program Stream ändern
+title: Engagement-Programm-Stream ändern
 exl-id: 1b8dd04b-3af8-4733-b630-b06c4b06bb75
 feature: Smart Campaigns
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 10%
+source-wordcount: '93'
+ht-degree: 8%
 
 ---
 
-# Engagement Program Stream ändern {#change-engagement-program-stream}
+# Engagement-Programm-Stream ändern {#change-engagement-program-stream}
 
-## Überblick {#overview}
+Normalerweise würden Sie [Stream-Übergangsregeln](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) verwenden, um dies zu erreichen. Wenn Sie Personen jedoch manuell von einem Stream in einen anderen verschieben möchten, ist dies der zu verwendende Flussschritt.
 
-Normalerweise würden Sie [Stream-Übergangsregeln](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) um dies zu erreichen. Wenn Sie Personen jedoch manuell von einem Stream in einen anderen verschieben möchten, ist dies der zu verwendende Flussschritt.
-
-![](assets/image2014-9-22-14-3a52-3a14.png)
-
-## Nutzung {#usage}
+![](assets/change-engagement-program-stream-1.png)
 
 1. Wählen Sie das Interaktionsprogramm aus, in das die Person verschoben werden soll.
 
@@ -27,10 +23,10 @@ Normalerweise würden Sie [Stream-Übergangsregeln](/help/marketo/product-docs/e
    >
    >Wenn Sie ein anderes Programm auswählen, bleibt die Person in ihrem aktuellen Stream und fügt sie zum neuen hinzu.
 
-   ![](assets/image2014-9-22-14-3a52-3a50.png)
+   ![](assets/change-engagement-program-stream-2.png)
 
 1. Wählen Sie den Stream aus, dem Sie Ihre Personen hinzufügen möchten.
 
-   ![](assets/image2014-9-22-14-3a52-3a59.png)
+   ![](assets/change-engagement-program-stream-3.png)
 
 Und das ist es!

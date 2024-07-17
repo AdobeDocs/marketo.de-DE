@@ -4,22 +4,18 @@ description: Ändern des Programmerfolgs - Marketo-Dokumente - Produktdokumentat
 title: Programmerfolg ändern
 exl-id: 5b45b6d0-0c3d-4677-8b9a-8bbf03b1209e
 feature: Smart Campaigns
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
 workflow-type: tm+mt
-source-wordcount: '141'
-ht-degree: 6%
+source-wordcount: '139'
+ht-degree: 5%
 
 ---
 
 # Programmerfolg ändern {#change-program-success}
 
-## Überblick {#overview}
+Wenn Sie jemals eine Gruppe von Personen haben, die fälschlicherweise mit dem Programmerfolg gekennzeichnet sind, können Sie diesen Flussschritt verwenden, um den Erfolg auf &quot;true&quot;oder &quot;false&quot;festzulegen.
 
-Wenn Sie jemals eine Gruppe von Personen haben, die versehentlich mit dem Programmerfolg markiert sind, können Sie diesen Flussschritt verwenden, um den Erfolg auf &quot;true&quot;oder &quot;false&quot;festzulegen.
-
-![](assets/image2014-9-22-14-3a45-3a8.png)
-
-## Nutzung {#usage}
+![](assets/change-program-success-1.png)
 
 1. Wenn Sie in diesen Flussschritt ziehen, wird das Programm automatisch auf das Programm eingestellt, das die bearbeitete Smart-Kampagne enthält.
 
@@ -27,19 +23,19 @@ Wenn Sie jemals eine Gruppe von Personen haben, die versehentlich mit dem Progra
    >
    >Nur Mitglieder des Programms sind betroffen.
 
-   ![](assets/image2014-9-22-14-3a45-3a35.png)
+   ![](assets/change-program-success-2.png)
 
-1. Auswählen **[!UICONTROL Erfolg]** oder **[!UICONTROL Erfolgsdatum]** als Attribut.
+1. Wählen Sie **[!UICONTROL Erfolg]** oder **[!UICONTROL Erfolgsdatum]** als Attribut aus.
 
-   ![](assets/image2014-9-22-14-3a45-3a39.png)
+   ![](assets/change-program-success-3.png)
 
    >[!NOTE]
    >
    >Wenn Sie das Erfolgsdatum auf etwas festlegen, wird &quot;Erfolg&quot;automatisch auf &quot;true&quot;gesetzt. Wenn Sie Erfolgsdatum auf &quot;true&quot;setzen, wird das Erfolgsdatum automatisch auf das aktuelle Datum gesetzt.
 
-1. Legen Sie die **[!UICONTROL Neuer Wert]** nach **[!UICONTROL True]** oder **[!UICONTROL False]**.
+1. Setzen Sie den **[!UICONTROL neuen Wert]** auf **[!UICONTROL True]** oder **[!UICONTROL False]**.
 
-   ![](assets/image2014-9-22-14-3a45-3a55.png)
+   ![](assets/change-program-success-4.png)
 
    >[!TIP]
    >

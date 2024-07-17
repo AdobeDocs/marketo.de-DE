@@ -4,9 +4,9 @@ description: Inhaber ändern - Marketo Docs - Produktdokumentation
 title: Eigentümer ändern
 exl-id: b22c5cd8-1b53-4802-8b49-7f607c8a601b
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '169'
 ht-degree: 2%
 
 ---
@@ -15,21 +15,19 @@ ht-degree: 2%
 
 Wenn Sie bereits vorhandene Personen haben, die bereits einem Eigentümer zugewiesen sind, können Sie diesen Flussschritt verwenden, um sie einem anderen Eigentümer erneut zuzuweisen.
 
-![](assets/image2014-9-22-15-3a1-3a3.png)
-
-**Nutzung**
+![](assets/change-owner-1.png)
 
 1. Wählen Sie einfach den Eigentümer oder die Lead-Warteschlange aus, in die Sie wechseln möchten.
 
-   ![](assets/image2014-9-22-15-3a1-3a6.png)
+   ![](assets/change-owner-2.png)
 
    >[!CAUTION]
    >
    >Salesforce lässt die Zuweisung von Kontakten zu Lead-Warteschlangen nicht zu. Für einen Datensatz, der ein SFDC-Kontakt ist:
    >
-   >1. Marketo erstellt ein doppeltes Lead **only** wenn der Kontakt mit Salesforce synchronisiert wird. Mit anderen Worten, wenn Sie die **[Person mit SFDC synchronisieren](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)** Flussschritt mit `AssignTo=<a lead queue>`, erstellt Marketo einen doppelten Lead in Salesforce und weist ihn der Lead-Warteschlange zu.
+   >* Marketo erstellt einen doppelten Lead **nur** , wenn der Kontakt mit Salesforce synchronisiert wird. Wenn Sie also den Flussschritt **[Person mit SFDC synchronisieren](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)** mit `AssignTo=<a lead queue>` verwenden, erstellt Marketo einen doppelten Lead in Salesforce und weist ihn der Lead-Warteschlange zu.
    >
-   >1. Wenn Sie die **[!UICONTROL Inhaber ändern]** Flussschritt bei einem Kontakt erstellt Marketo in Salesforce ein doppeltes Lead. Um dies zu vermeiden, verwenden Sie einen Filter für das Feld &quot;SFDC-Typ&quot;, der die Aktion auf Leads beschränkt.
+   >* Wenn Sie den Flussschritt **[!UICONTROL Inhaber wechseln]** für einen Kontakt verwenden, erstellt Marketo einen doppelten Lead in Salesforce. Um dies zu vermeiden, verwenden Sie einen Filter für das Feld &quot;SFDC-Typ&quot;, der die Aktion auf Leads beschränkt.
 
    >[!NOTE]
    >
