@@ -4,7 +4,7 @@ description: Verwenden eines bestimmten Datums in einem Warteflussschritt - Mark
 title: Verwenden eines bestimmten Datums in einem Warteflussschritt
 exl-id: d6ef26a4-8c9a-4f40-9e80-dcb3921a427f
 feature: Smart Campaigns
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
@@ -13,27 +13,27 @@ ht-degree: 0%
 
 # Verwenden eines bestimmten Datums in einem Warteflussschritt {#use-a-specific-date-in-a-wait-flow-step}
 
-Sie können die[!UICONTROL Warten]&quot; Flussschritt, um das Journey einer Person durch eine Smart-Kampagne bis zu einem bestimmten Datum anzuhalten.
+Mit dem Flussschritt &quot;[!UICONTROL Warten]&quot; können Sie das Journey einer Person durch eine Smart-Kampagne bis zu einem bestimmten Datum anhalten.
 
-1. In Ihrer Smart-Kampagne **[!UICONTROL Fluss]** Registerkarte, ziehen Sie über die **[!UICONTROL Warten]** Flussschritt.
+1. Ziehen Sie in der Registerkarte **[!UICONTROL Fluss]** Ihrer Smart-Kampagne über den Flussschritt **[!UICONTROL Warten]**.
 
-   ![](assets/image2014-9-22-11-3a50-3a55.png)
+   ![](assets/use-a-specific-date-in-a-wait-flow-step-1.png)
 
 1. Klicken Sie auf das Zahnradsymbol.
 
-   ![](assets/image2014-9-22-11-3a50-3a59.png)
+   ![](assets/use-a-specific-date-in-a-wait-flow-step-2.png)
 
-1. Aus dem **[!UICONTROL Typ]** Dropdown-Liste auswählen **[!UICONTROL Datum]**.
+1. Wählen Sie aus der Dropdownliste **[!UICONTROL Typ]** die Option **[!UICONTROL Datum]** aus.
 
-   ![](assets/image2014-9-22-11-3a51-3a27.png)
+   ![](assets/use-a-specific-date-in-a-wait-flow-step-3.png)
 
 1. Wählen Sie das Datum aus, an dem Sie fortfahren möchten.
 
-   ![](assets/image2014-9-22-11-3a51-3a20.png)
+   ![](assets/use-a-specific-date-in-a-wait-flow-step-4.png)
 
 1. Geben Sie die Zeit an (optional) und klicken Sie auf **[!UICONTROL Speichern]**.
 
-   ![](assets/image2014-9-22-11-3a51-3a13.png)
+   ![](assets/use-a-specific-date-in-a-wait-flow-step-5.png)
 
 >[!MORELIKETHIS]
 >

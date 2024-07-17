@@ -4,41 +4,35 @@ description: Person konvertieren - Marketo Docs - Produktdokumentation
 title: Person konvertieren
 exl-id: b0ff0b63-a6a3-48c5-92ef-7ece5c182d28
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 5%
+source-wordcount: '103'
+ht-degree: 3%
 
 ---
 
 # Person konvertieren {#convert-person}
 
+Verwenden Sie diesen Flussschritt, um eine Person in [!DNL Salesforce] in einen Kontakt zu konvertieren. Sie können entscheiden, wem Sie den Kontakt zuweisen, eine Benachrichtigung an den Eigentümer senden und einen konvertierten Status festlegen möchten.
+
 >[!NOTE]
 >
->Nur verfügbar, wenn in integriert [!DNL Salesforce].
+>Dies ist nur verfügbar, wenn es mit [!DNL Salesforce] integriert ist.
 
-## Überblick {#overview}
-
-Verwenden Sie diesen Flussschritt, um eine Person in einen Kontakt zu konvertieren. [!DNL Salesforce]. Sie können entscheiden, wem Sie den Kontakt zuweisen, eine Benachrichtigung an den Eigentümer senden und einen konvertierten Status festlegen möchten.
-
-![](assets/one-2.png)
-
-## Nutzung {#usage}
+![](assets/convert-person-1.png)
 
 1. Wählen Sie aus, wem Sie den resultierenden Kontakt, Konto und Gelegenheit zuweisen möchten.
 
-   ![](assets/two-2.png)
+   ![](assets/convert-person-2.png)
 
    >[!CAUTION]
    >
-   >Das Konvertieren einer Person in Marketo führt zu einem neuen Konto und einer neuen Möglichkeit in [!DNL Salesforce]. Wenn Sie keine doppelten Konten haben möchten, verwenden Sie [!DNL Salesforce] zum Konvertieren.
+   >Das Konvertieren einer Person in Marketo führt zu einem neuen Konto und einer neuen Möglichkeit in [!DNL Salesforce]. Wenn Sie keine doppelten Konten haben möchten, verwenden Sie [!DNL Salesforce], um die Konversion vorzunehmen.
 
-1. Entscheiden Sie, ob Sie eine **[!UICONTROL Benachrichtigung]** an den Eigentümer gesendet werden oder nicht.
+1. Wählen Sie aus, ob eine **[!UICONTROL Benachrichtigung]** an den Eigentümer gesendet werden soll oder nicht.
 
-   ![](assets/three-2.png)
+   ![](assets/convert-person-3.png)
 
-1. Wählen Sie die **[!UICONTROL konvertierter Status]**.
+1. Wählen Sie den **[!UICONTROL konvertierten Status]** aus.
 
-   ![](assets/four-3.png)
-
-Und da geht&#39;s!
+   ![](assets/convert-person-4.png)

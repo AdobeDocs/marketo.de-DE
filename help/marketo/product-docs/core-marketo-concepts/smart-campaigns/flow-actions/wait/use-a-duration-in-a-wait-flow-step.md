@@ -4,9 +4,9 @@ description: Verwenden einer Dauer in einem Warteflussschritt - Marketo Docs - P
 title: Verwenden einer Dauer in einem Warteflussschritt
 exl-id: 7b13d225-78ba-4ef1-9ff5-0f6acde6e5ff
 feature: Smart Campaigns
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '205'
 ht-degree: 1%
 
 ---
@@ -15,25 +15,25 @@ ht-degree: 1%
 
 Mit dem Schritt Wartefluss können Sie das Journey einer Person über eine Smart-Kampagne für eine bestimmte Dauer anhalten. Sie können auch Kriterien für den Wochentag und die Uhrzeit des Endes festlegen.
 
-1. In Ihrer Smart-Kampagne **[!UICONTROL Fluss]** Registerkarte, ziehen Sie über die **[!UICONTROL Warten]** Flussschritt.
+1. Ziehen Sie in der Registerkarte **[!UICONTROL Fluss]** Ihrer Smart-Kampagne über den Flussschritt **[!UICONTROL Warten]**.
 
-   ![](assets/image2014-9-22-11-3a53-3a57.png)
+   ![](assets/use-a-duration-in-a-wait-flow-step-1.png)
 
 1. Geben Sie an, wie lange Sie anhalten möchten.
 
-   ![](assets/image2014-9-22-11-3a54-3a0.png)
+   ![](assets/use-a-duration-in-a-wait-flow-step-2.png)
 
 1. Das ist es! Der Fluss wird für die angegebene Dauer angehalten. Für erweiterte Optionen klicken Sie auf das Zahnradsymbol rechts.
 
-   ![](assets/image2014-9-22-11-3a54-3a7.png)
+   ![](assets/use-a-duration-in-a-wait-flow-step-3.png)
 
 1. Geben Sie den Wochentag an, an dem der Warteschritt enden soll.
 
-   ![](assets/image2014-9-22-11-3a54-3a10.png)
+   ![](assets/use-a-duration-in-a-wait-flow-step-4.png)
 
 1. Geben Sie optional die Zeit an. Klicken Sie auf **[!UICONTROL Speichern]**.
 
-   ![](assets/image2014-9-22-11-3a54-3a35.png)
+   ![](assets/use-a-duration-in-a-wait-flow-step-5.png)
 
    >[!NOTE]
    >
@@ -41,7 +41,7 @@ Mit dem Schritt Wartefluss können Sie das Journey einer Person über eine Smart
    >
    >Eine Person Trigger am Freitag um 17 Uhr eine Smart-Kampagne. Der Warteschritt ist fortgeschritten: 48 Stunden und muss am Montag um 9 Uhr enden.
    >
-   >Das Ergebnis wäre, dass die Person im Fluss fortfahren würde **Montag, 9 Uhr**. Dies ist das erste M-F-Datum nach 48 Stunden.
+   >Das Ergebnis wäre, dass die Person am **Montag, 9.00 Uhr** im Fluss bleiben würde. Dies ist das erste M-F-Datum nach 48 Stunden.
 
    >[!NOTE]
    >

@@ -4,7 +4,7 @@ description: Verwenden eines Datums-Tokens in einem Warteflussschritt - Marketo 
 title: Verwenden eines Datums-Tokens in einem Warteflussschritt
 exl-id: d161922b-ce90-4e65-9282-d3bb866c1d94
 feature: Smart Campaigns
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -19,17 +19,17 @@ Mit dem Schritt Wartefluss können Sie das Journey einer Person durch eine Smart
 >
 >Dies gilt nur für Trigger-Kampagnen. Sie können diese Funktion nicht in Batch-Kampagnen verwenden.
 
-1. In Ihrer Smart-Kampagne **[!UICONTROL Fluss]** Registerkarte, ziehen Sie über die **[!UICONTROL Warten]** Flussschritt.
+1. Ziehen Sie in der Registerkarte **[!UICONTROL Fluss]** Ihrer Smart-Kampagne über den Flussschritt **[!UICONTROL Warten]**.
 
-   ![](assets/image2014-9-22-14-3a8-3a22.png)
+   ![](assets/use-a-date-token-in-a-wait-flow-step-1.png)
 
 1. Klicken Sie auf das Zahnradsymbol.
 
-   ![](assets/image2014-9-22-14-3a8-3a37.png)
+   ![](assets/use-a-date-token-in-a-wait-flow-step-2.png)
 
-1. Aus dem **[!UICONTROL Typ]** Dropdown-Liste auswählen **[!UICONTROL Date Token]**.
+1. Wählen Sie aus der Dropdownliste **[!UICONTROL Typ]** die Option **[!UICONTROL Datum-Token]** aus.
 
-   ![](assets/image2014-9-22-14-3a8-3a41.png)
+   ![](assets/use-a-date-token-in-a-wait-flow-step-3.png)
 
 1. Wählen Sie ein Datum-Token aus, um anzugeben, wann der Warten-Schritt beendet werden soll:
 
@@ -38,11 +38,11 @@ Mit dem Schritt Wartefluss können Sie das Journey einer Person durch eine Smart
    * `{{company.______}}`
    * `{{system._______}}`
 
-   ![](assets/image2014-9-22-14-3a9-3a33.png)
+   ![](assets/use-a-date-token-in-a-wait-flow-step-4.png)
 
 1. Um bis zum nächsten Jahrestag des Datums zu warten, das im aktuellen oder nächsten Kalenderjahr stattfindet, aktivieren Sie das Kontrollkästchen.
 
-   ![](assets/image2014-9-22-14-3a9-3a37.png)
+   ![](assets/use-a-date-token-in-a-wait-flow-step-5.png)
 
    >[!TIP]
    >
@@ -50,15 +50,15 @@ Mit dem Schritt Wartefluss können Sie das Journey einer Person durch eine Smart
 
 1. Optional können Sie das Enddatum um eine angegebene Anzahl von Tagen ändern.
 
-   ![](assets/image2014-9-22-14-3a9-3a57.png)
+   ![](assets/use-a-date-token-in-a-wait-flow-step-6.png)
 
    >[!NOTE]
    >
-   >Sie können die Anzahl der Tage auch mithilfe einer `{{lead.` oder `{{company.` Token, das ein ganzzahliges Feld oder ein `{{my.` Token des Zahlentyps.
+   >Sie können die Anzahl der Tage auch mithilfe eines `{{lead.` - oder `{{company.` -Tokens angeben, das ein ganzzahliges Feld oder ein `{{my.` -Token des Zahlentyps darstellt.
 
 1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
-   ![](assets/image2014-9-22-14-3a11-3a3.png)
+   ![](assets/use-a-date-token-in-a-wait-flow-step-7.png)
 
    >[!MORELIKETHIS]
    >

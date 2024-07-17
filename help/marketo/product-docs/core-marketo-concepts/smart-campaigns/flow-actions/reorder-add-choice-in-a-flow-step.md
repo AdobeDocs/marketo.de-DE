@@ -4,9 +4,9 @@ description: Neuanordnen der Auswahlmöglichkeit in einem Flussschritt - Marketo
 title: Neuanordnen von Auswahlmöglichkeiten in einem Flussschritt
 exl-id: e76af93a-24df-48ba-b5f2-ea6e697e2f3a
 feature: Smart Campaigns
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
@@ -17,22 +17,22 @@ Da nur die erste passende Auswahl für eine Person gilt, ist die Bestellung wich
 
 1. Suchen Sie den Flussschritt, für den Sie die Reihenfolge einer Auswahl ändern möchten.
 
-   ![](assets/one.png)
+   ![](assets/reorder-add-choice-in-a-flow-step-1.png)
 
-1. In diesem Beispiel verschieben wir Auswahl 3 über Auswahl 2. Klicken Sie auf **[!UICONTROL Wahl 3]** Klicken Sie dann auf **[!UICONTROL Nach oben]**.
+1. In diesem Beispiel verschieben wir Auswahl 3 über Auswahl 2. Klicken Sie auf **[!UICONTROL Auswahl 3]** und dann auf **[!UICONTROL Nach oben verschieben]**.
 
-   ![](assets/two.png)
+   ![](assets/reorder-add-choice-in-a-flow-step-2.png)
 
    >[!NOTE]
    >
-   >Bei der Neuanordnung können Sie **[!UICONTROL Nach oben]**, **[!UICONTROL Nach unten]** oder **[!UICONTROL Verschieben nach]**.
+   >Bei der Neuanordnung können Sie **[!UICONTROL nach oben verschieben]**, **[!UICONTROL nach unten verschieben]** oder **[!UICONTROL nach oben verschieben]**.
 
    Gut gemacht! Jetzt wissen Sie, wie Sie eine Auswahl in einzelnen Schritten nach oben/unten verschieben können.
 
-   ![](assets/three.png)
+   ![](assets/reorder-add-choice-in-a-flow-step-3.png)
 
-**OPTIONALER SCHRITT**: Wenn Sie viele Möglichkeiten haben und eine oder mehrere Ebenen nach oben oder unten verschieben müssen, können Sie diese alternative Methode verwenden, um etwas Zeit zu sparen. Klicken Sie auf die Auswahl, die Sie verschieben möchten, und dann unter **[!UICONTROL Verschieben nach]**, ziehen Sie den Regler an die Position, an die Sie die Auswahl verschieben möchten.
+**OPTIONALER SCHRITT**: Wenn Sie viele Optionen haben und mehrere Ebenen nach oben oder unten verschieben müssen, können Sie diese alternative Methode verwenden, um etwas Zeit zu sparen. Klicken Sie auf die Auswahl, die Sie verschieben möchten, und ziehen Sie dann unter **[!UICONTROL Verschieben nach]** den Regler an die Position, an die Sie die Auswahl verschieben möchten.
 
-![](assets/four.png)
+![](assets/reorder-add-choice-in-a-flow-step-4.png)
 
 Es ist so einfach, die Reihenfolge Ihrer Flussschritt-Entscheidungen neu zu organisieren.
