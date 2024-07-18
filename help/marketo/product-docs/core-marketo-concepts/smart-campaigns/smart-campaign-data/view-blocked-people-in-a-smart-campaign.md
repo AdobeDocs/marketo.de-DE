@@ -4,10 +4,10 @@ description: Anzeigen blockierter Personen in einer Smart-Kampagne - Marketo-Dok
 title: Anzeigen blockierter Personen in einer Smart-Kampagne
 exl-id: 7adf00fe-4893-42ea-8077-b7a1bed1866f
 feature: Smart Campaigns
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 2%
+source-wordcount: '124'
+ht-degree: 0%
 
 ---
 
@@ -15,17 +15,17 @@ ht-degree: 2%
 
 Blockierte Personen in der Marketo Engage-Datenbank werden als auf die Blockierungsliste gesetzt, abbestellt, Marketing ausgesetzt und/oder als ungültige oder leere E-Mail gekennzeichnet.
 
-1. Klicken Sie in Ihrer Smart-Kampagne auf **[!UICONTROL Zeitplan]**. under **[!UICONTROL Status intelligenter Listen]** klicken Sie auf den zweiten Link.
+1. Klicken Sie in Ihrer Smart-Kampagne auf **[!UICONTROL Plan]**. Klicken Sie unter **[!UICONTROL Smart List Status]** auf den zweiten Link.
 
-   ![](assets/image2014-9-22-16-3a47-3a38.png)
+   ![](assets/view-blocked-people-in-a-smart-campaign-1.png)
 
    >[!NOTE]
    >
-   >Personen, die ihre Kommunikationsbeschränkungen erreicht haben, können auch vom Empfang von E-Mails ausgeschlossen werden. Erfahren Sie, wie [Kommunikationsbeschränkungen bearbeiten](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"} im Abschnitt &quot;Admin&quot;.
+   >Personen, die ihre Kommunikationsbeschränkungen erreicht haben, können auch vom Empfang von E-Mails ausgeschlossen werden. Erfahren Sie im Admin-Abschnitt, wie Sie [Kommunikationsbeschränkungen bearbeiten](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"}.
 
    Auf der Registerkarte Blockierte Personen werden Personen angezeigt, die möglicherweise keine Mailings erhalten.
 
-   ![](assets/image2014-9-22-16-3a48-3a11.png)
+   ![](assets/view-blocked-people-in-a-smart-campaign-2.png)
 
    >[!NOTE]
    >
@@ -33,9 +33,7 @@ Blockierte Personen in der Marketo Engage-Datenbank werden als auf die Blockieru
 
    >[!MORELIKETHIS]
    >
-   >* [Qualifizierungsregeln bearbeiten](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md){target="_blank"}
+   >* [Qualifikationsregeln bearbeiten](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md){target="_blank"}
    >* [Kommunikationsbeschränkungen aktivieren](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"}
-   >* [Mitglieder von Smart Campaign anzeigen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md){target="_blank"}
+   >* [Smart-Campaign-Mitglieder anzeigen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md){target="_blank"}
    >* [Qualifizierte Personen in einer Smart-Kampagne anzeigen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-qualified-people-in-a-smart-campaign.md){target="_blank"}
-
-Los geht&#39;s! Jetzt können Sie wissen, wer die Mailings möglicherweise nicht erhält.

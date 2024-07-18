@@ -4,10 +4,10 @@ description: Glossar zu Operatoren für intelligente Listenfilter - Marketo-Doku
 title: Glossar zu Operatoren für intelligente Listenfilter
 exl-id: 5a370482-f214-4909-bb49-801c1a36b153
 feature: Smart Lists
-source-git-commit: 198d7d7fd4c1c312aeb30fa922fd89863ac87f81
+source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
 workflow-type: tm+mt
-source-wordcount: '605'
-ht-degree: 12%
+source-wordcount: '616'
+ht-degree: 13%
 
 ---
 
@@ -19,28 +19,90 @@ Im Folgenden finden Sie ein Glossar, in dem die einzelnen Operatoren beschrieben
 
 ## Datumsfelder {#date-fields}
 
-![](assets/image2014-9-10-17-3a15-3a47.png)
+![](assets/smart-list-filter-operators-glossary-1.png)
 
 Wenn Sie einen Operator auswählen, ändert sich die rechte Seite dynamisch.
 
-| Benutzerin oder Benutzer | Rechts Seite | Beschreibung |
-|---|---|---|
-| ist | Einzeldatum | genaue Datumsübereinstimmung |
-| ist nicht | Einzeldatum | Jedes Datum außer dem angegebenen |
-| zwischen | Zwei Datumsfelder | Jedes Datum einschließlich und zwischen zwei angegebenen Daten |
-| in der Vergangenheit | Natürliche Spracheingabe&#42; | Siehe Diagramm unten |
-| in der Vergangenheit vor | Natürliche Spracheingabe&#42; | Siehe Diagramm unten |
-| in der Zukunft | Natürliche Spracheingabe&#42; | Siehe Diagramm unten |
-| in der Zukunft nach | Natürliche Spracheingabe&#42; | Siehe Diagramm unten |
-| in Zeitrahmen | Vorgaben (letztes Quartal, gestern usw.) | Definiert in picklist |
-| nach | Einzeldatum | Alle Datensätze nach dem angegebenen Datum |
-| vor | Einzeldatum | Alle Datensätze vor dem angegebenen |
-| am oder nach | Einzeldatum | siehe &quot;after&quot;, aber inklusive |
-| am oder vor | Einzeldatum | siehe &quot;before&quot;, aber inklusiv |
-| ist leer | Keine | Alle Datensätze ohne Datum |
-| ist nicht leer | Keine | Alle Datensätze mit beliebigem Datum |
+<table><thead>
+  <tr>
+    <th>Benutzerin oder Benutzer</th>
+    <th>Rechts Seite</th>
+    <th>Beschreibung</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>ist</td>
+    <td>Einzeldatum</td>
+    <td>genaue Datumsübereinstimmung</td>
+  </tr>
+  <tr>
+    <td>ist nicht</td>
+    <td>Einzeldatum</td>
+    <td>Jedes Datum außer dem angegebenen</td>
+  </tr>
+  <tr>
+    <td>zwischen</td>
+    <td>Zwei Datumsfelder</td>
+    <td>Jedes Datum einschließlich und zwischen zwei angegebenen Daten</td>
+  </tr>
+  <tr>
+    <td>in Vergangenheit</td>
+    <td>Natürliche Spracheingabe*</td>
+    <td>Siehe Diagramm unten</td>
+  </tr>
+  <tr>
+    <td>in der Vergangenheit vor</td>
+    <td>Natürliche Spracheingabe*</td>
+    <td>Siehe Diagramm unten</td>
+  </tr>
+  <tr>
+    <td>in der Zukunft</td>
+    <td>Natürliche Spracheingabe*</td>
+    <td>Siehe Diagramm unten</td>
+  </tr>
+  <tr>
+    <td>in der Zukunft nach</td>
+    <td>Natürliche Spracheingabe*</td>
+    <td>Siehe Diagramm unten</td>
+  </tr>
+  <tr>
+    <td>in Zeitrahmen</td>
+    <td>Vorgaben (letztes Quartal, gestern usw.)</td>
+    <td>Definiert in picklist</td>
+  </tr>
+  <tr>
+    <td>nach</td>
+    <td>Einzeldatum</td>
+    <td>Alle Datensätze nach dem angegebenen Datum</td>
+  </tr>
+  <tr>
+    <td>vor</td>
+    <td>Einzeldatum</td>
+    <td>Alle Datensätze vor dem angegebenen</td>
+  </tr>
+  <tr>
+    <td>am oder nach</td>
+    <td>Einzeldatum</td>
+    <td>siehe "after", aber inklusive</td>
+  </tr>
+  <tr>
+    <td>Am oder vor</td>
+    <td>Einzeldatum</td>
+    <td>siehe "before", aber inklusiv</td>
+  </tr>
+  <tr>
+    <td>ist leer</td>
+    <td>Keine</td>
+    <td>Alle Datensätze ohne Datum</td>
+  </tr>
+  <tr>
+    <td>ist nicht leer</td>
+    <td>Keine</td>
+    <td>Alle Datensätze mit beliebigem Datum</td>
+  </tr>
+</tbody></table>
 
-&#42; Die natürliche Spracheingabe ist cool. Im Folgenden finden Sie einige der Muster, die Sie eingeben können:
+**&#42;** Die natürliche Spracheingabe ist cool. Im Folgenden finden Sie einige der Muster, die Sie eingeben können:
 
 * 1 Stunde
 * 82 Tage
@@ -52,15 +114,15 @@ Geben Sie einfach die Nummer und Einheit zusammen und es wird funktionieren!
 
 >[!NOTE]
 >
->&quot;In der Vergangenheit&quot; _does_ den Tag einschließen (bis zur Zeit, nicht nach), an dem Sie Ihre Smart-Liste erstellen.
+>&quot;In der Vergangenheit&quot; _enthält_ den Tag (bis zur Zeit, nicht nach), an dem Sie Ihre Smart-Liste erstellen.
 
 >[!CAUTION]
 >
->Wenn Sie eine Smart-Liste mit einem Datumsfeldfilter erstellen (z. B. Geburtsdatum, SFDC-Erstellungsdatum) und die Begrenzungen verwenden **[!UICONTROL before]**, **[!UICONTROL auf oder vor]** oder **[!UICONTROL früher]** enthält die Smart-Liste auch Personen, die in diesem Datumsfeld keinen Wert haben.
+>Wenn Sie eine Smart-Liste mit einem Datumsfeldfilter erstellen (z. B. Geburtsdatum, SFDC-Erstellungsdatum) und die Begrenzungen **[!UICONTROL vor]**, **[!UICONTROL vor oder vor]** oder **[!UICONTROL in der Vergangenheit vor]** verwenden, enthält die Smart-Liste auch Personen, die in diesem Datumsfeld keinen Wert haben.
 
 Verwenden Sie das folgende Diagramm, um die Unterschiede zwischen den Datumsoperatoren zu verstehen.
 
-![](assets/image2014-9-10-17-3a15-3a58.png)
+![](assets/smart-list-filter-operators-glossary-2.png)
 
 >[!NOTE]
 >
@@ -68,7 +130,7 @@ Verwenden Sie das folgende Diagramm, um die Unterschiede zwischen den Datumsoper
 >
 >Datumsfelder können schwierig werden, wenn Sie mit vergangenen und zukünftigen Ereignissen arbeiten. Hier sind einige Beispiele.
 >
->**[!UICONTROL In der Vergangenheit]**
+>**[!UICONTROL In vergangener Zeit vor]**
 >
 >Verwenden Sie diesen Operator, um für Ihre neue Werbeaktion E-Mails nur an Personen zu senden, die Ihren Dienst nicht innerhalb eines Jahres abonniert oder erneuert haben oder noch nie Abonnenten waren.
 >
@@ -78,18 +140,48 @@ Verwenden Sie das folgende Diagramm, um die Unterschiede zwischen den Datumsoper
 
 ## Zeichenfolgenfelder {#string-fields}
 
-![](assets/image2014-9-10-17-3a16-3a6.png)
+![](assets/smart-list-filter-operators-glossary-3.png)
 
-| Benutzerin oder Benutzer | Beschreibung |
-|---|---|
-| ist | Exakte Übereinstimmung (nicht zwischen Groß- und Kleinschreibung unterscheiden) |
-| ist nicht | Alles außer exakter Übereinstimmung |
-| beginnt mit | Erste Buchstaben der Zeichenfolge stimmen überein |
-| beginnt nicht mit | Erste Buchstaben der Zeichenfolge stimmen NICHT überein |
-| enthält | Alle Buchstaben zusammen in der Zeichenfolgenübereinstimmung (Beispiel: california, vermögen, also) |
-| enthält nicht | Keine Buchstaben zusammen in der Zeichenfolge stimmen überein. (Umkehrung von &quot;enthält&quot;) |
-| ist leer | Datensätze ohne Wert (NULL) |
-| ist nicht leer | Datensätze mit ANY-Wert |
+<table><thead>
+  <tr>
+    <th>Benutzerin oder Benutzer</th>
+    <th>Beschreibung</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>ist</td>
+    <td>Exakte Übereinstimmung (nicht zwischen Groß- und Kleinschreibung unterscheiden)</td>
+  </tr>
+  <tr>
+    <td>ist nicht</td>
+    <td>Alles außer exakter Übereinstimmung</td>
+  </tr>
+  <tr>
+    <td>beginnt mit</td>
+    <td>Erste Buchstaben der Zeichenfolge stimmen überein</td>
+  </tr>
+  <tr>
+    <td>beginnt nicht mit</td>
+    <td>Erste Buchstaben der Zeichenfolge stimmen NICHT überein</td>
+  </tr>
+  <tr>
+    <td>enthält</td>
+    <td>Alle Buchstaben zusammen in der Zeichenfolgenübereinstimmung (Beispiel: california, vermögen, also)</td>
+  </tr>
+  <tr>
+    <td>enthält nicht</td>
+    <td>Keine Buchstaben zusammen in der Zeichenfolge stimmen überein. (Umkehrung von "enthält")</td>
+  </tr>
+  <tr>
+    <td>ist leer</td>
+    <td>Datensätze ohne Wert (NULL)</td>
+  </tr>
+  <tr>
+    <td>ist nicht leer</td>
+    <td>Datensätze mit ANY-Wert</td>
+  </tr>
+</tbody>
+</table>
 
 >[!TIP]
 >
@@ -97,53 +189,51 @@ Verwenden Sie das folgende Diagramm, um die Unterschiede zwischen den Datumsoper
 
 ## Ganzzahlfelder {#integer-fields}
 
-![](assets/image2014-9-10-17-3a16-3a14.png)
+![](assets/smart-list-filter-operators-glossary-4.png)
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">Benutzerin oder Benutzer</th> 
-   <th colspan="1" rowspan="1">Beschreibung</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1">ist</td> 
-   <td colspan="1" rowspan="1">Exakte Zahlenübereinstimmung ( = 0 gibt beide Leads mit 0 zurück <em>und</em> NULL)</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">ist nicht</td> 
-   <td colspan="1" rowspan="1">Alles außer exakter Zahlenübereinstimmung</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">zwischen</td> 
-   <td colspan="1" rowspan="1">Definieren Sie zwei Werte, um alle zwischen (einschließlich) zu finden.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">größer als</td> 
-   <td colspan="1" rowspan="1">Oberhalb der angegebenen</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">kleiner als</td> 
-   <td colspan="1" rowspan="1">Kleiner als angegeben</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">mindestens</td> 
-   <td colspan="1" rowspan="1">Oberhalb des angegebenen (einschließlich)</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">höchstens</td> 
-   <td colspan="1" rowspan="1">Niedriger als der angegebene (einschließlich)</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">ist leer</td> 
-   <td colspan="1" rowspan="1">Datensätze ohne Wert (NULL) - null ist eine Zahl, es ist <em>not</em> NULL</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">ist nicht leer</td> 
-   <td colspan="1" rowspan="1">Datensätze mit ANY-Wert (einschließlich Null)</td> 
-  </tr> 
- </tbody> 
+<table><thead>
+  <tr>
+    <th>Benutzerin oder Benutzer</th>
+    <th>Beschreibung</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>ist</td>
+    <td>Genaue Zahlenübereinstimmung ( = 0 gibt beide Leads mit 0 und NULL zurück.</td>
+  </tr>
+  <tr>
+    <td>ist nicht</td>
+    <td>Alles außer exakter Zahlenübereinstimmung</td>
+  </tr>
+  <tr>
+    <td>zwischen</td>
+    <td>Definieren Sie zwei Werte, um alle zwischen (einschließlich) zu finden.</td>
+  </tr>
+  <tr>
+    <td>größer als</td>
+    <td>Oberhalb der angegebenen</td>
+  </tr>
+  <tr>
+    <td>kleiner als</td>
+    <td>Kleiner als angegeben</td>
+  </tr>
+  <tr>
+    <td>mindestens</td>
+    <td>Oberhalb des angegebenen (einschließlich)</td>
+  </tr>
+  <tr>
+    <td>höchstens</td>
+    <td>Niedriger als der angegebene (einschließlich)</td>
+  </tr>
+  <tr>
+    <td>ist leer</td>
+    <td>Datensätze ohne Wert (NULL) - null ist eine Zahl, nicht NULL</td>
+  </tr>
+  <tr>
+    <td>ist nicht leer</td>
+    <td>Datensätze mit ANY-Wert (einschließlich Null)</td>
+  </tr>
+</tbody>
 </table>
 
 Wie Sie sehen können, machen diese Operatoren es einfach, Marketo-ese mit Flut zu sprechen!

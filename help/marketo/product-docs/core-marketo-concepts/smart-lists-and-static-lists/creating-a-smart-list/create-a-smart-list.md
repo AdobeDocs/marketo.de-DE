@@ -4,7 +4,7 @@ description: Erstellen einer Smart-Liste - Marketo-Dokumente - Produktdokumentat
 title: Erstellen einer Smart-Liste
 exl-id: 3acab0f8-44c9-4346-add7-8b317aa82471
 feature: Smart Lists
-source-git-commit: 198d7d7fd4c1c312aeb30fa922fd89863ac87f81
+source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
@@ -15,28 +15,28 @@ ht-degree: 0%
 
 Mit intelligenten Listen können Sie mithilfe einfacher Filter bestimmte Personengruppen suchen. Hier ist, wie man eine erstellt.
 
-1. Navigieren Sie zu **[!UICONTROL Marketingaktivitäten]**.
+1. Wechseln Sie zu **[!UICONTROL Marketingaktivitäten]**.
 
-   ![](assets/login-marketing-activities.png)
+   ![](assets/create-a-smart-list-1.png)
 
 1. Wählen Sie das Programm aus, in dem Sie die Smart-Liste erstellen möchten.
 
-   ![](assets/image2014-8-11-10-3a17-3a8.png)
+   ![](assets/create-a-smart-list-2.png)
 
-1. under **[!UICONTROL Neu]** klicken **[!UICONTROL Neues lokales Asset]**.
+1. Klicken Sie unter &quot;**[!UICONTROL Neu]**&quot;auf &quot;**[!UICONTROL Neues lokales Asset]**&quot;.
 
-   ![](assets/image2014-9-9-16-3a26-3a28.png)
+   ![](assets/create-a-smart-list-3.png)
 
-1. Auswählen **[!UICONTROL Smart List]**.
+1. Wählen Sie **[!UICONTROL Smart List]** aus.
 
-   ![](assets/image2014-9-9-16-3a27-3a18.png)
+   ![](assets/create-a-smart-list-4.png)
 
-1. Geben Sie einen **[!UICONTROL Name]** und klicken **[!UICONTROL Erstellen]**.
+1. Geben Sie einen **[!UICONTROL Namen]** ein und klicken Sie auf **[!UICONTROL Erstellen]**.
 
-   ![](assets/image2014-9-9-16-3a27-3a39.png)
+   ![](assets/create-a-smart-list-5.png)
 
    Ta-da, tolle Arbeit! Nun lassen Sie uns einige Filter hinzufügen und definieren.
 
    >[!MORELIKETHIS]
    >
-   >[Suchen und Hinzufügen von Filtern zu einer Smart-Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}
+   >[Filter suchen und zu einer Smart-Liste hinzufügen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}

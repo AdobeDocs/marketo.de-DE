@@ -4,9 +4,9 @@ description: Definieren von Smart-List-Filtern - Marketo-Dokumente - Produktdoku
 title: Definieren von Smart-List-Filtern
 exl-id: ab08c5be-0afa-46d5-9f29-99e1f6b99dea
 feature: Smart Lists
-source-git-commit: 198d7d7fd4c1c312aeb30fa922fd89863ac87f81
+source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
@@ -16,31 +16,31 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [Erstellen einer Smart-Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
->* [Suchen und Hinzufügen von Filtern zu Smart-Listen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}
+>* [Filter zu Smart-Listen suchen und hinzufügen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}
 
-Jetzt, da du [Smart List erstellt](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"} and [added filters](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"} definieren wir die Filter. So geht es.
+Nachdem Sie [eine Smart-Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"} erstellt und [Filter](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"} hinzugefügt haben, legen wir die Filter fest. So geht es.
 
 Lassen Sie uns in unserem Beispiel diese Filter definieren, um alle Menschen in Kalifornien mit einer Punktzahl über 50 zu finden.
 
-1. Navigieren Sie zu **[!UICONTROL Marketingaktivitäten]**.
+1. Wechseln Sie zu **[!UICONTROL Marketingaktivitäten]**.
 
-   ![](assets/login-marketing-activities-1.png)
+   ![](assets/define-smart-list-filters-1.png)
 
-1. Wählen Sie die Smart-Liste aus und klicken Sie auf **[!UICONTROL Smart List]** Registerkarte.
+1. Wählen Sie die gewünschte Smart-Liste aus und klicken Sie auf die Registerkarte **[!UICONTROL Smart-Liste]** .
 
-   ![](assets/smarlist-choosefilters.png)
+   ![](assets/define-smart-list-filters-2.png)
 
-1. Suchen und wählen Sie &quot;CA&quot;für die **[!UICONTROL Bundesland]** Filter.
+1. Suchen und wählen Sie &quot;CA&quot;für den Filter **[!UICONTROL Status]** aus.
 
-   ![](assets/smartlistdefinefilters.png)
+   ![](assets/define-smart-list-filters-3.png)
 
    >[!NOTE]
    >
-   >Möglicherweise speichern Sie sowohl &quot;Kalifornien&quot;als auch &quot;CA&quot;. Um sowohl nach Werten als auch nach _all_ Menschen aus Kalifornien, lernen, wie  [mehrere Werte zu einem Filter mit intelligenter Liste hinzufügen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-multiple-values-to-a-smart-list-filter.md){target="_blank"}.
+   >Möglicherweise speichern Sie sowohl &quot;Kalifornien&quot;als auch &quot;CA&quot;. Um nach beiden Werten zu filtern und _alle_ Personen aus Kalifornien einzubeziehen, erfahren Sie, wie Sie [mehrere Werte zu einem Smart-List-Filter hinzufügen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-multiple-values-to-a-smart-list-filter.md){target="_blank"}.
 
-1. Wählen Sie die **[!UICONTROL größer als]** und geben Sie &quot;50&quot;ein.
+1. Wählen Sie den Operator **[!UICONTROL größer als]** aus und geben Sie &quot;50&quot;ein.
 
-   ![](assets/smartlistfilter-personscore.png)
+   ![](assets/define-smart-list-filters-4.png)
 
 >[!TIP]
 >

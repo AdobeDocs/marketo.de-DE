@@ -4,7 +4,7 @@ description: Filtern von Ergebnissen intelligenter Kampagnen - Marketo-Dokumente
 title: Filtern von Ergebnissen intelligenter Kampagnen
 exl-id: 76c1b143-313b-4ef2-860f-f8b127fdfc6b
 feature: Smart Campaigns
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
@@ -21,9 +21,9 @@ Filtern Sie die Ergebnisse von Smart Campaign, um spezifische Aktivitäten anzuz
 
 ## Nach gespeicherten Filtern filtern {#filter-by-saved-filters}
 
-1. In Ihrer Smart-Kampagne **[!UICONTROL Ergebnisse]** Registerkarte, klicken **[!UICONTROL Filter]** und wählen Sie einen gespeicherten Filter aus.
+1. Klicken Sie auf der Registerkarte **[!UICONTROL Ergebnisse]** der Smart-Kampagne auf **[!UICONTROL Filter]** und wählen Sie einen gespeicherten Filter aus.
 
-   ![](assets/resultsfilter-hands.png)
+   ![](assets/filter-smart-campaign-results-1.png)
 
    >[!NOTE]
    >
@@ -31,22 +31,22 @@ Filtern Sie die Ergebnisse von Smart Campaign, um spezifische Aktivitäten anzuz
 
 ## Benutzerdefinierten Filter erstellen {#create-a-custom-filter}
 
-1. Klicks **[!UICONTROL Filter]**, dann **[!UICONTROL Benutzerdefiniert]**.
+1. Klicken Sie auf **[!UICONTROL Filter]** und dann auf **[!UICONTROL Benutzerdefiniert]**.
 
-   ![](assets/filterscustom-hands.png)
+   ![](assets/filter-smart-campaign-results-2.png)
 
 1. Wählen Sie die Aktivitätstypen aus, die Sie sehen möchten, und klicken Sie auf **[!UICONTROL Speichern unter]**.
 
-   ![](assets/activityfiltersettings-hands.png)
+   ![](assets/filter-smart-campaign-results-3.png)
 
    >[!TIP]
    >
-   >Klicks **[!UICONTROL Anwenden]** , um einen benutzerdefinierten Filter direkt auf Ihre Ergebnisse anzuwenden, ohne sie zu speichern.
+   >Klicken Sie auf **[!UICONTROL Anwenden]** , um einen benutzerdefinierten Filter direkt auf Ihre Ergebnisse anzuwenden, ohne sie zu speichern.
 
 1. Geben Sie einen Filternamen ein und klicken Sie auf **[!UICONTROL Speichern]**.
 
-   ![](assets/saveasfilter-hands.png)
+   ![](assets/filter-smart-campaign-results-4.png)
 
 1. Der benutzerdefinierte Filter wird auf Ihre Ergebnisse angewendet und ist jetzt in der Dropdown-Liste verfügbar (Sie müssen die Seite möglicherweise aktualisieren, um sie in der Dropdown-Liste anzuzeigen).
 
-   ![](assets/customfilter-hands.png)
+   ![](assets/filter-smart-campaign-results-5.png)
