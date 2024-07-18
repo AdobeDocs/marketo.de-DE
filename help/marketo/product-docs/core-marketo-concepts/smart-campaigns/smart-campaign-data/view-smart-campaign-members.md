@@ -4,32 +4,32 @@ description: Mitglieder von Smart Campaign anzeigen - Marketo-Dokumente - Produk
 title: Mitglieder von Smart Campaign anzeigen
 exl-id: 027d93a9-f838-4f96-80d6-7bf6ee1cc03d
 feature: Smart Campaigns
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 4fbc339a7aeb9d8a34ca3935d45f19538d362751
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
 
 # Mitglieder von Smart Campaign anzeigen {#view-smart-campaign-members}
 
-Sehen Sie sich Personen an, die bereits den Fluss der intelligenten Kampagne durchlaufen haben, d. h. Smart-Campaign-Mitglieder.
+Personen anzeigen, die bereits den Fluss Smart Campaign durchlaufen haben.
 
-1. Navigieren Sie zu **[!UICONTROL Marketingaktivitäten]**.
+1. Wechseln Sie zu **[!UICONTROL Marketingaktivitäten]**.
 
-![](assets/login-marketing-activities.png)
+   ![](assets/view-smart-campaign-members-1.png)
 
-1. Klicken Sie in Ihrer Smart-Kampagne auf **[!UICONTROL Anzeigen von Campaign-Mitgliedern]**.
+1. Klicken Sie in Ihrer Smart-Kampagne auf **[!UICONTROL Kampagnenmitglieder anzeigen]**.
 
-   ![](assets/changescore-hands.png)
+   ![](assets/view-smart-campaign-members-2.png)
 
->[!TIP]
->
->Sie können Kampagnenmitglieder von überall aus in einer Smart-Kampagne anzeigen.
+   >[!TIP]
+   >
+   >Sie können Kampagnenmitglieder von überall aus in einer Smart-Kampagne anzeigen.
 
-1. Die **[!UICONTROL Campaign-Mitglieder]** zeigt Personen an, die bereits den Fluss Smart Campaign durchlaufen haben.
+1. Der Tab **[!UICONTROL Kampagnenmitglieder]** zeigt Personen an, die bereits den Fluss Smart Campaign durchlaufen haben.
 
-   ![](assets/smartcampaignheader-complete.jpg)
+   ![](assets/view-smart-campaign-members-3.png)
 
    >[!NOTE]
    >
