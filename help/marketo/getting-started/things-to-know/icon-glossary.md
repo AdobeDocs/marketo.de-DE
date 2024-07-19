@@ -2,10 +2,8 @@
 description: Symbol Glossar - Marketo Engage Docs - Produktdokumentation
 title: Symbol Glossar
 feature: Getting Started
-hide: true
-hidefromtoc: true
 exl-id: bc700abd-cb89-475a-bcaf-3eac46c3ffab
-source-git-commit: ee6944a02a4535f9d763453fa16c95623eed6378
+source-git-commit: 87cf178f82103025ff0132c4a6a40166237805c9
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 52%
@@ -14,16 +12,16 @@ ht-degree: 52%
 
 # Marketo Engage-Symbol Glossar {#icon-glossary}
 
-Unten finden Sie die Symbole für die aktuelle Adobe Marketo Engage-Benutzeroberfläche. Wenn Sie auf die Marketo Classic-Symbole verweisen müssen, können diese [hier finden](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md).
+Unten finden Sie die Symbole für die aktuelle Adobe Marketo Engage-Benutzeroberfläche. Wenn Sie auf die Marketo Classic-Symbole verweisen müssen, können diese [hier gefunden](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md) werden.
 
 ## Allgemeine Symbole {#general-icons}
 
 <table> 
  <tbody>
   <tr>
-   <th>Altes Symbol</th> 
-   <th> Neues Symbol</th> 
-   <th>Beschreibung</th> 
+   <th style="width:25%">Altes Symbol</th>
+   <th style="width:25%">Neues Symbol</th> 
+   <th style="width:50%">Beschreibung</th> 
   </tr>
   <tr>
    <td><strong>Nicht zutreffend</strong></td> 
@@ -243,9 +241,9 @@ Unten finden Sie die Symbole für die aktuelle Adobe Marketo Engage-Benutzerober
 <table> 
  <tbody>
   <tr>
-   <th>Altes Symbol</th> 
-   <th> Neues Symbol</th> 
-   <th>Beschreibung</th> 
+   <th style="width:25%">Altes Symbol</th> 
+   <th style="width:25%"> Neues Symbol</th> 
+   <th style="width:50%">Beschreibung</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-executed.png"></td> 
@@ -290,9 +288,9 @@ Unten finden Sie die Symbole für die aktuelle Adobe Marketo Engage-Benutzerober
 <table> 
  <tbody>
   <tr>
-   <th>Altes Symbol</th> 
-   <th> Neues Symbol</th> 
-   <th>Beschreibung</th> 
+   <th style="width:25%">Altes Symbol</th> 
+   <th style="width:25%"> Neues Symbol</th> 
+   <th style="width:50%">Beschreibung</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-trigger.png"></td> 
@@ -322,9 +320,9 @@ Unten finden Sie die Symbole für die aktuelle Adobe Marketo Engage-Benutzerober
 <table> 
  <tbody>
   <tr>
-   <th>Altes Symbol</th> 
-   <th> Neues Symbol</th> 
-   <th>Beschreibung</th> 
+   <th style="width:25%">Altes Symbol</th> 
+   <th style="width:25%"> Neues Symbol</th> 
+   <th style="width:50%">Beschreibung</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-email-program-aborted.png"></td> 
@@ -354,9 +352,9 @@ Unten finden Sie die Symbole für die aktuelle Adobe Marketo Engage-Benutzerober
 <table> 
  <tbody>
   <tr>
-   <th>Altes Symbol</th> 
-   <th> Neues Symbol</th> 
-   <th>Beschreibung</th> 
+   <th style="width:25%">Altes Symbol</th> 
+   <th style="width:25%"> Neues Symbol</th> 
+   <th style="width:50%">Beschreibung</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-engagement-program-off.png"></td> 
@@ -376,9 +374,9 @@ Unten finden Sie die Symbole für die aktuelle Adobe Marketo Engage-Benutzerober
 <table> 
  <tbody>
   <tr>
-   <th>Altes Symbol</th> 
-   <th> Neues Symbol</th> 
-   <th>Beschreibung</th> 
+   <th style="width:25%">Altes Symbol</th> 
+   <th style="width:25%"> Neues Symbol</th> 
+   <th style="width:50%">Beschreibung</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-in-app-program-approved.png"></td> 
@@ -413,9 +411,9 @@ Unten finden Sie die Symbole für die aktuelle Adobe Marketo Engage-Benutzerober
 <table> 
  <tbody>
   <tr>
-   <th>Altes Symbol</th> 
-   <th> Neues Symbol</th> 
-   <th>Beschreibung</th> 
+   <th style="width:25%">Altes Symbol</th> 
+   <th style="width:25%"> Neues Symbol</th> 
+   <th style="width:50%">Beschreibung</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-email-approved.png"></td> 
@@ -440,9 +438,9 @@ Unten finden Sie die Symbole für die aktuelle Adobe Marketo Engage-Benutzerober
 <table> 
  <tbody>
   <tr>
-   <th>Altes Symbol</th> 
-   <th> Neues Symbol</th> 
-   <th>Beschreibung</th> 
+   <th style="width:25%">Altes Symbol</th> 
+   <th style="width:25%"> Neues Symbol</th> 
+   <th style="width:50%">Beschreibung</th> 
   </tr>
   <tr>
    <td><strong>Nicht zutreffend</strong></td> 

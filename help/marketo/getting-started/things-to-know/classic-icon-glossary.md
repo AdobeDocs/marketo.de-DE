@@ -2,10 +2,8 @@
 description: Klassisches Symbol-Glossar - Marketo Docs - Produktdokumentation
 title: Glossar zu klassischen Symbolen
 feature: Getting Started
-hide: true
-hidefromtoc: true
 exl-id: 05706dc2-9e8b-4f10-89cf-996a69bc4816
-source-git-commit: ee6944a02a4535f9d763453fa16c95623eed6378
+source-git-commit: 87cf178f82103025ff0132c4a6a40166237805c9
 workflow-type: tm+mt
 source-wordcount: '563'
 ht-degree: 34%
@@ -14,15 +12,15 @@ ht-degree: 34%
 
 # Glossar zu klassischen Symbolen {#classic-icon-glossary}
 
-Nachstehend finden Sie die alten Symbole der Benutzeroberfläche von Marketo Classic. Das aktuelle Symbolglossar kann [hier finden](/help/marketo/getting-started/things-to-know/icon-glossary.md){target="_blank"}.
+Nachstehend finden Sie die alten Symbole der Benutzeroberfläche von Marketo Classic. Das aktuelle Symbolglossar kann [hier gefunden](/help/marketo/getting-started/things-to-know/icon-glossary.md){target="_blank"} sein.
 
 **Allgemeine Symbole**
 
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">Symbol</th>
-   <th style="width:90%">Name</th>
+   <th style="width:15%">Symbol</th>
+   <th style="width:85%">Name</th>
   </tr> 
   <tr> 
    <td><img src="assets/image2016-2-24-11-3a16-3a17.png"></td> 
@@ -51,7 +49,7 @@ Nachstehend finden Sie die alten Symbole der Benutzeroberfläche von Marketo Cla
   <tr> 
    <td><img width="25" src="assets/share-from.png"> 
     </td> 
-   <td>Zielordner, der in einem anderen Arbeitsbereich freigegeben wurde <br>(Vorhängeschloss bedeutet, dass keine Änderungen vorgenommen werden können)</td> 
+   <td>Zielordner, der über einen anderen Arbeitsbereich freigegeben wurde <br> (Vorhängeschloss gibt an, dass keine Änderungen vorgenommen werden können)</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-9-9-3a23-3a11.png"> 
@@ -111,8 +109,8 @@ Nachstehend finden Sie die alten Symbole der Benutzeroberfläche von Marketo Cla
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">Symbol</th>
-   <th style="width:90%">Name</th>
+   <th style="width:15%">Symbol</th>
+   <th style="width:85%">Name</th>
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-8-15-3a58-3a8.png"> 
@@ -237,8 +235,8 @@ Nachstehend finden Sie die alten Symbole der Benutzeroberfläche von Marketo Cla
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">Symbol</th>
-   <th style="width:90%">Name</th> 
+   <th style="width:15%">Symbol</th>
+   <th style="width:85%">Name</th> 
   </tr> 
   <tr> 
    <td><img src="assets/image2014-12-18-16-3a45-3a45.png"> 
@@ -303,7 +301,7 @@ Nachstehend finden Sie die alten Symbole der Benutzeroberfläche von Marketo Cla
   <tr> 
    <td><img src="assets/image2015-1-5-11-3a45-3a39.png"> 
     </td> 
-   <td>Email Program <br>(Rotes Flag nach unten = E-Mail wurde noch nicht gesendet)</td> 
+   <td>E-Mail-Programm <br>(Rote Markierung = E-Mail wurde noch nicht gesendet)</td> 
   </tr> 
   <tr> 
    <td><img src="assets/hs-icon.png"> 
@@ -503,8 +501,8 @@ Nachstehend finden Sie die alten Symbole der Benutzeroberfläche von Marketo Cla
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">Symbol</th>
-   <th style="width:90%">Name</th> 
+   <th style="width:15%">Symbol</th>
+   <th style="width:85%">Name</th> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-12-3a31-3a47.png"> 
@@ -639,8 +637,8 @@ Nachstehend finden Sie die alten Symbole der Benutzeroberfläche von Marketo Cla
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">Symbol</th>
-   <th style="width:90%">Name</th>
+   <th style="width:15%">Symbol</th>
+   <th style="width:85%">Name</th>
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-9-9-3a50-3a24.png"> 
@@ -720,8 +718,8 @@ Nachstehend finden Sie die alten Symbole der Benutzeroberfläche von Marketo Cla
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">Symbol</th>
-   <th style="width:90%">Name</th> 
+   <th style="width:15%">Symbol</th>
+   <th style="width:85%">Name</th> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-13-3a53-3a27.png"> 
@@ -771,8 +769,8 @@ Nachstehend finden Sie die alten Symbole der Benutzeroberfläche von Marketo Cla
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">Symbol</th>
-   <th style="width:90%">Name</th>
+   <th style="width:15%">Symbol</th>
+   <th style="width:85%">Name</th>
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-15-3a18-3a8.png"> 
@@ -827,8 +825,8 @@ Nachstehend finden Sie die alten Symbole der Benutzeroberfläche von Marketo Cla
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">Symbol</th>
-   <th style="width:90%">Name</th> 
+   <th style="width:15%">Symbol</th>
+   <th style="width:85%">Name</th> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-16-3a26-3a11.png"> 
