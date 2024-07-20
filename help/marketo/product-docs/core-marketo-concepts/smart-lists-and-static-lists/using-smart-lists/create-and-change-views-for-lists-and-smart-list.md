@@ -4,7 +4,7 @@ description: Erstellen und Ändern von Ansichten für Listen und Smart-Liste - M
 title: Erstellen und Ändern von Ansichten für Listen und Smart-Listen
 exl-id: a1661990-ae10-4f8e-9eed-ada6564136d9
 feature: Smart Lists
-source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
+source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 0%
@@ -17,27 +17,27 @@ Eine intelligente Liste zeigt einen Standardsatz von Spalten an. Wusstest du, da
 
 ## Erstellen einer Ansicht {#create-a-view}
 
-1. Navigieren Sie zu einer Liste oder Smart-Liste, klicken Sie auf die Schaltfläche **[!UICONTROL Personen]** und klicken Sie auf **[!UICONTROL Ansicht erstellen]** unter **[!UICONTROL Ansicht]** angezeigt.
+1. Wechseln Sie zu einer Liste oder Smart-Liste, klicken Sie auf die Registerkarte **[!UICONTROL Personen]** und klicken Sie unter der Dropdownliste **[!UICONTROL Ansicht]** auf **[!UICONTROL Ansicht erstellen]** .
 
-   ![](assets/smartlist-createview.png)
+   ![](assets/create-and-change-views-for-lists-and-smart-list-1.png)
 
 1. Benennen Sie die Ansicht und suchen Sie die Spalte, die Sie hinzufügen oder entfernen möchten.
 
-   ![](assets/image2014-9-12-11-3a23-3a53.png)
+   ![](assets/create-and-change-views-for-lists-and-smart-list-2.png)
 
-1. Fügen Sie die gewünschten Spalten hinzu/entfernen Sie sie und klicken Sie auf **[!UICONTROL Erstellen]**.
+1. Fügen Sie die gewünschten Spalten hinzu/entfernen Sie sie und klicken Sie dann auf **[!UICONTROL Erstellen]**.
 
-   ![](assets/image2014-9-12-11-3a24-3a7.png)
+   ![](assets/create-and-change-views-for-lists-and-smart-list-3.png)
 
 >[!TIP]
 >
->Um schnell zu suchen, verwenden Sie die **Suchen** ankreuzen.
+>Um schnell zu suchen, verwenden Sie das Feld **Find** .
 
 ## Ansichten wechseln {#switch-views}
 
-1. Klicken Sie auf **[!UICONTROL Ansicht]** und wählen Sie die gewünschte Ansicht aus. Wechseln Sie nach Bedarf zwischen Ansichten.
+1. Klicken Sie auf die Dropdownliste **[!UICONTROL Ansicht]** und wählen Sie dann die gewünschte Ansicht aus. Wechseln Sie nach Bedarf zwischen Ansichten.
 
-   ![](assets/smartlist-customviewchoose.png)
+   ![](assets/create-and-change-views-for-lists-and-smart-list-4.png)
 
 >[!NOTE]
 >
@@ -45,31 +45,31 @@ Eine intelligente Liste zeigt einen Standardsatz von Spalten an. Wusstest du, da
 
 ## Bearbeiten einer Ansicht {#edit-a-view}
 
-1. Stellen Sie sicher, dass die gewünschte Ansicht im **[!UICONTROL Ansicht]** angezeigt.
+1. Stellen Sie sicher, dass die Ansicht, die Sie bearbeiten möchten, in der Dropdown-Liste **[!UICONTROL Ansicht]** ausgewählt ist.
 
-   ![](assets/smartlist-customviewchoose.png)
+   ![](assets/create-and-change-views-for-lists-and-smart-list-5.png)
 
-1. Klicken Sie auf **[!UICONTROL Bearbeiten]** -Option.
+1. Klicken Sie auf die Option **[!UICONTROL Bearbeiten]** .
 
-   ![](assets/smartlist-editcustomview.png)
+   ![](assets/create-and-change-views-for-lists-and-smart-list-6.png)
 
 1. Nehmen Sie die gewünschten Änderungen vor und klicken Sie auf **[!UICONTROL Speichern]**.
 
-   ![](assets/image2014-9-12-11-3a27-3a19.png)
+   ![](assets/create-and-change-views-for-lists-and-smart-list-7.png)
 
 ## Ansicht löschen {#delete-a-view}
 
-1. Wählen Sie die **[!UICONTROL Bearbeiten]** -Option für die Ansicht, die Sie aus der **[!UICONTROL Ansicht]** angezeigt.
+1. Wählen Sie die Option **[!UICONTROL Bearbeiten]** für die Ansicht aus, die Sie aus der Dropdown-Liste **[!UICONTROL Ansicht]** löschen möchten.
 
-   ![](assets/smartlist-editcustomview.png)
+   ![](assets/create-and-change-views-for-lists-and-smart-list-8.png)
 
-1. Klicks **[!UICONTROL Löschen]**.
+1. Klicken Sie auf **[!UICONTROL Löschen]**.
 
-   ![](assets/image2014-9-12-11-3a27-3a39.png)
+   ![](assets/create-and-change-views-for-lists-and-smart-list-9.png)
 
 Nur Sie können die benutzerdefinierten Ansichten, die Sie in der Dropdown-Liste Ansicht erstellen, sehen. Informieren Sie daher Ihre Freunde, dass sie eigene Ansichten erstellen müssen!
 
 >[!MORELIKETHIS]
 >
->* [Verwenden von integrierten/System-Smart-Listen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}
+>* [Verwenden integrierter/systemintelligenter Listen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}
 >* [Erstellen einer Smart-Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
