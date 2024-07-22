@@ -6,7 +6,7 @@ exl-id: a97bf35c-6cc2-49d1-b8ab-7a434c4482b6
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -19,8 +19,8 @@ Der Grund? Sales Connect ist intelligent, und unsere aktiven Benutzer würden un
 
 So gelangen wir zum einzigen Ort, an dem wir die Selbstverfolgung zeigen.
 
-1. Navigieren Sie zu [Command Center](https://toutapp.com/).
+1. Wechseln Sie zur [Befehlszeile](https://toutapp.com/).
 
 1. Suchen Sie die von Ihnen selbst gesendete E-Mail im Ordner Gesendet und wählen Sie sie aus.
 
-1. Klicken Sie auf **Details** Schaltfläche. Sie sollten sehen, dass Ihre eigenen Ansichten dort oben erscheinen.
+1. Klicken Sie auf die Schaltfläche **Details** . Sie sollten sehen, dass Ihre eigenen Ansichten dort oben erscheinen.

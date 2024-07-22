@@ -5,8 +5,8 @@ exl-id: 5f5c7f66-2220-49d9-89c9-ba3cb6979b85
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '248'
-ht-degree: 2%
+source-wordcount: '243'
+ht-degree: 4%
 
 ---
 
@@ -18,7 +18,7 @@ Auf Ihrer Seite &quot;Mein Profil&quot;können Sie Ihren Namen, die Sprache/das 
 
 Hier können Sie Ihren Namen und/oder Ihr Passwort aktualisieren.
 
-1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen**.
+1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
 
    ![](assets/manage-your-profile-1.png)
 
@@ -28,7 +28,7 @@ Hier können Sie Ihren Namen und/oder Ihr Passwort aktualisieren.
 
 >[!NOTE]
 >
->Ihre E-Mail-Adresse ist so eingestellt, dass sie nur angezeigt wird. Wenn Sie auch eine Änderung benötigen, wenden Sie sich bitte an [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support).
+>Ihre E-Mail-Adresse ist so eingestellt, dass sie nur angezeigt wird. Wenden Sie sich bei Bedarf auch an den [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 Sie können Ihr Kennwort auch in diesem Abschnitt ändern. Die Schritte sind in diesem Dokument beschrieben.
 
@@ -44,29 +44,29 @@ Rechts auf der Seite zeigt der Abschnitt Ihre Integrationen den Status aller Ver
 
 ## Zeitzone {#time-zone}
 
-Hier erfahren Sie, wie Sie die Sprache, das Gebietsschema und/oder die Zeitzone Ihres Kontos ändern können.
+Hier erfahren Sie, wie Sie die Sprache, das Gebietsschema und/oder die Zeitzone Ihres Kontos ändern.
 
 >[!NOTE]
 >
 >Unterstützte Sprachen: Englisch, Französisch, Deutsch, Japanisch, Portugiesisch, Spanisch.
 
-1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen**.
+1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
 
    ![](assets/manage-your-profile-4.png)
 
-1. Um Ihre Sprache zu ändern, klicken Sie auf die Schaltfläche **Sprache** und wählen Sie aus.
+1. Um Ihre Sprache zu ändern, klicken Sie auf das Dropdown-Menü **Sprache** und wählen Sie aus.
 
    ![](assets/manage-your-profile-5.png)
 
-1. Gebietsschema hier bezieht sich auf die Region, in der diese Sprache gesprochen wird. Klicken Sie auf **Gebietsschema** und wählen Sie aus.
+1. Gebietsschema hier bezieht sich auf die Region, in der diese Sprache gesprochen wird. Klicken Sie auf das Dropdown-Menü **Gebietsschema** und wählen Sie aus.
 
    ![](assets/manage-your-profile-6.png)
 
-1. Klicken Sie auf **Ihre Zeitzone** und wählen Sie aus.
+1. Klicken Sie auf das Dropdown-Menü **Ihre Zeitzone** und wählen Sie aus.
 
    ![](assets/manage-your-profile-7.png)
 
-1. Klicken **Speichern** wann geschehen.
+1. Klicken Sie auf **Speichern**, wenn Sie fertig sind.
 
    ![](assets/manage-your-profile-8.png)
 

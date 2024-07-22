@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Manchmal können Sie ein falsches Feld in den Bericht ziehen. So entfernen Sie sie:
 
-1. Ziehen Sie das zu entfernende Feld in den **Papierkorb** rechts unten im Bericht angezeigt.
+1. Ziehen Sie das Feld, das Sie entfernen möchten, auf das Symbol **Papierkorb** unten rechts im Bericht.
 
    ![](assets/image2015-3-24-16-3a40-3a13.png)
 
@@ -25,4 +25,4 @@ Manchmal können Sie ein falsches Feld in den Bericht ziehen. So entfernen Sie s
 
 >[!MORELIKETHIS]
 >
->[Speichern eines Umsatz-Explorer-Berichts](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/saving-a-revenue-explorer-report.md)
+>[Speichern eines Berichts zum Umsatz-Explorer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/saving-a-revenue-explorer-report.md)

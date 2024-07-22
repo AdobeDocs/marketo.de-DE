@@ -19,7 +19,7 @@ Wenn Sie ein Programm oder Ereignis mit Daten klonen, sollten Sie wahrscheinlich
 
    ![](assets/image2014-9-23-15-3a15-3a18.png)
 
-1. Wählen Sie die Dropdown-Liste Ereignisaktion aus. Auswählen **[!UICONTROL Einsendungen neu planen]**.
+1. Wählen Sie die Dropdown-Liste Ereignisaktion aus. Wählen Sie **[!UICONTROL Einstiege neu planen]** aus.
 
    ![](assets/image2014-9-23-15-3a15-3a53.png)
 
@@ -31,7 +31,7 @@ Wenn Sie ein Programm oder Ereignis mit Daten klonen, sollten Sie wahrscheinlich
 
    ![](assets/image2014-9-23-15-3a18-3a37.png)
 
-1. Klicks **[!UICONTROL Zeitplan]**.
+1. Klicken Sie auf **[!UICONTROL Neu planen]**.
 
    ![](assets/image2014-9-23-15-3a18-3a54.png)
 

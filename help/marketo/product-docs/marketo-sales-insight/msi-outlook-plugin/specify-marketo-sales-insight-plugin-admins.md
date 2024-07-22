@@ -7,7 +7,7 @@ feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '92'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -15,15 +15,15 @@ ht-degree: 1%
 
 Sie können festlegen, welche Kontakte in der E-Mail-Benachrichtigung angezeigt werden sollen, die Sie an Benutzer senden, wenn Sie sie zur Einrichtung von MSI in Outlook einladen.
 
-1. Klicken Sie in My Marketo auf **Admin** und dann **Sales Insight**.
+1. Klicken Sie in My Marketo auf **Admin** und dann auf **Sales Insight**.
 
    ![](assets/image2016-7-25-14-3a12-3a59.png)
 
-1. Klicken Sie auf **E-Mail-Add-In** Registerkarte.
+1. Klicken Sie auf die Registerkarte **E-Mail-Add-In** .
 
    ![](assets/image2016-7-25-14-3a2-3a53.png)
 
-1. Klicks **Plugin-Kontakt angeben**.
+1. Klicken Sie auf **Plugin-Kontakt angeben**.
 
    ![](assets/image2016-7-25-14-3a7-3a27.png)
 
@@ -31,7 +31,7 @@ Sie können festlegen, welche Kontakte in der E-Mail-Benachrichtigung angezeigt 
 
    ![](assets/image2016-8-25-11-3a21-3a38.png)
 
-1. Klicks **Speichern**.
+1. Klicken Sie auf **Speichern**.
 
    ![](assets/image2016-8-25-11-3a17-3a7.png)
 

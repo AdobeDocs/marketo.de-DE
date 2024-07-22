@@ -19,7 +19,7 @@ Mit dem Opportunity Influence Analyzer können Sie die gesamte Geschichte sehen.
 
 ![](assets/image2015-6-23-14-3a43-3a35-1.png)
 
-**Beachten Sie die grünen Prüfungen.**. Sie zeigen den Programmerfolg für einen der auf der rechten Seite aktivierten Namen an. Der grüne Bereich gibt den Anfang und das Ende der Gelegenheit an.
+**Beachten Sie die grünen Prüfungen**. Sie zeigen den Programmerfolg für einen der auf der rechten Seite aktivierten Namen an. Der grüne Bereich gibt den Anfang und das Ende der Gelegenheit an.
 
 >[!NOTE]
 >
@@ -41,5 +41,5 @@ Wenn Sie dieses Verhalten beibehalten möchten, sollten Sie die Deduplizierung I
 
 >[!MORELIKETHIS]
 >
->* [Erzählen Sie die Marketing Story mit einem Opportunity Influenza Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
+>* [Erzählen Sie der Marketing Story mit einer Chance, Einfluss auf Analyzer auszuüben](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
 >* [Erstellen eines Opportunity Influenza Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)

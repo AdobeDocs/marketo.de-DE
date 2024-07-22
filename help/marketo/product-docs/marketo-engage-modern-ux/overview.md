@@ -26,7 +26,7 @@ Willkommen bei der Adobe Marketo Engage Modern UX (Benutzererfahrung), einer akt
 
 In der modernen Benutzeroberfläche gibt es viele neue Funktionen, die alle darauf ausgelegt sind, Ihr Marketing-Erlebnis deutlich zu verbessern.
 
-**Symbole**
+**Icons**
 
 Die neue Benutzeroberfläche verfügt über eine verbesserte und erweiterte Ikonographie.
 
@@ -50,9 +50,9 @@ Es gibt eine Menge neuer Baumfunktionen.
 
 >[!NOTE]
 >
->Wenn Sie eine Suche im Baum durchführen, werden nur die ersten 250 Ergebnisse angezeigt. Wenn Sie nach einer Suche Ihr Asset nicht finden können, verwenden Sie die [Globale Suche](/help/marketo/product-docs/marketo-engage-modern-ux/using-the-global-search.md) -Funktion.
+>Wenn Sie eine Suche im Baum durchführen, werden nur die ersten 250 Ergebnisse angezeigt. Wenn Sie nach einer Suche Ihr Asset nicht finden können, verwenden Sie die Funktion [Globale Suche](/help/marketo/product-docs/marketo-engage-modern-ux/using-the-global-search.md) .
 
-**Marketo Classic und die neue Marketo**
+**Marketo Classic im Vergleich zur neuen Marketo**
 
 <table> 
  <tbody>

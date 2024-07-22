@@ -6,8 +6,8 @@ exl-id: 054bf725-7a80-4114-8360-2d86e2e33dd7
 feature: Microsoft Dynamics
 source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
 workflow-type: tm+mt
-source-wordcount: '365'
-ht-degree: 2%
+source-wordcount: '395'
+ht-degree: 3%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 2%
 >[!PREREQUISITES]
 >
 >* [Installieren von Marketo für Microsoft Dynamics 2015 On-Premises Schritt 1 von 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2015.md){target="_blank"}
->* [Installieren von Marketo für Microsoft Dynamics 2015 On-Premises Schritt 2 von 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2015.md){target="_blank"}
+>* [Installieren von Marketo für Microsoft Dynamics 2015 On-Premises Schritt 2 vom 3.1}](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2015.md){target="_blank"}
 
 >[!NOTE]
 >
@@ -28,15 +28,15 @@ ht-degree: 2%
 
    ![](assets/login-admin.png)
 
-1. Klicks **[!UICONTROL CRM]**.
+1. Klicken Sie auf **[!UICONTROL CRM]**.
 
    ![](assets/image2015-3-16-9-47-34.png)
 
-1. Auswählen **[!UICONTROL Microsoft]**.
+1. Wählen Sie **[!UICONTROL Microsoft]** aus.
 
    ![](assets/image2015-3-16-9-50-6.png)
 
-1. Klicks **[!UICONTROL Bearbeiten]** in **[!UICONTROL Anmeldedaten eingeben]**.
+1. Klicken Sie auf **[!UICONTROL Bearbeiten]** in **[!UICONTROL Anmeldedaten eingeben]**.
 
    ![](assets/image2015-3-16-9-48-43.png)
 
@@ -44,23 +44,23 @@ ht-degree: 2%
    >
    >Stellen Sie sicher, dass Ihre Anmeldedaten korrekt sind, da wir die nachfolgenden Schemaänderungen nach der Übermittlung nicht rückgängig machen können. Wenn falsche Anmeldeinformationen gespeichert werden, müssen Sie ein neues Marketo-Abonnement erhalten.
 
-1. Geben Sie die **[!UICONTROL Benutzername]**, **[!UICONTROL Passwort]** Microsoft Dynamics **[!UICONTROL URL]** und ein **Client-ID/Geheimnis**. Klicks **[!UICONTROL Speichern]** wann geschehen.
+1. Geben Sie den **[!UICONTROL Benutzernamen]**, das **[!UICONTROL Kennwort]**, eine Microsoft Dynamics **[!UICONTROL URL]** und eine **Client-ID/Geheimnis** ein. Klicken Sie auf **[!UICONTROL Speichern]**, wenn Sie fertig sind.
 
    ![](assets/step-3-of-3-5.png)
 
    >[!NOTE]
    >
    >* Wenn Ihre Marketo vor Oktober 2020 bereitgestellt wurde, sind Client-ID und Geheimnis optionale Felder. Andernfalls sind sie obligatorisch. Das Abrufen dieser Informationen hängt von der verwendeten MSD-Version ab.
-   >* Der Benutzername in Marketo muss mit dem Benutzernamen für den Synchronisierungsbenutzer im CRM übereinstimmen. Das Format kann `user@domain.com` oder DOMAIN\user.
-   >* Wenn Sie die URL nicht kennen, [Hier erfahren Sie, wie Sie ihn finden](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"}.
+   >* Der Benutzername in Marketo muss mit dem Benutzernamen für den Synchronisierungsbenutzer im CRM übereinstimmen. Das Format kann &quot;`user@domain.com`&quot; oder &quot;DOMAIN\user&quot; lauten.
+   >* Wenn Sie die URL nicht kennen, erfahren Sie [, wie Sie sie hier finden](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"}.
 
    >[!TIP]
    >
-   >Kennt die URL nicht? Wir zeigen Ihnen, wie Sie Ihre [URL des Dynamics-Organisationsdienstes](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"} hier.
+   >Kennt die URL nicht? Hier erfahren Sie, wie Sie Ihre [Dynamics-Organisationsdienst-URL](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"} finden.
 
 ## Felder für Synchronisierung auswählen {#select-fields-to-sync}
 
-1. Klicks **[!UICONTROL Bearbeiten]** in **[!UICONTROL Zu synchronisierende Felder auswählen]**.
+1. Klicken Sie auf **[!UICONTROL Bearbeiten]** in **[!UICONTROL Zu synchronisierende Felder auswählen]**.
 
    ![](assets/image2015-3-16-9-51-28.png)
 
@@ -70,17 +70,17 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->Marketo speichert einen Verweis auf die zu synchronisierenden Felder. Wenn Sie ein Feld in Dynamics löschen, wird empfohlen, dies mit der [Synchronisieren deaktiviert](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md){target="_blank"}. Then refresh the schema in Marketo by editing and saving the [Select Fields to Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md){target="_blank"}.
+>Marketo speichert einen Verweis auf die zu synchronisierenden Felder. Wenn Sie ein Feld in Dynamics löschen, wird empfohlen, dies mit der deaktivierten [Synchronisierung](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md){target="_blank"} durchzuführen. Aktualisieren Sie dann das Schema in Marketo, indem Sie die [Zu synchronisierenden Felder auswählen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md){target="_blank"} bearbeiten und speichern.
 
 ## Synchronisieren von Feldern für einen benutzerdefinierten Filter {#sync-fields-for-a-custom-filter}
 
 Wenn Sie einen benutzerdefinierten Filter erstellt haben, gehen Sie in und wählen Sie die neuen Felder aus, die mit Marketo synchronisiert werden sollen.
 
-1. Navigieren Sie zu Admin und wählen Sie **[!UICONTROL Microsoft Dynamics]**.
+1. Wechseln Sie zu Admin und wählen Sie **[!UICONTROL Microsoft Dynamics]** aus.
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. Klicks **[!UICONTROL Bearbeiten]** in den Details zur Feldsynchronisierung.
+1. Klicken Sie in den Details zur Feldsynchronisierung auf **[!UICONTROL Bearbeiten]** .
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
@@ -90,7 +90,7 @@ Wenn Sie einen benutzerdefinierten Filter erstellt haben, gehen Sie in und wähl
 
 ## Synchronisierung aktivieren {#enable-sync}
 
-1. Klicks **[!UICONTROL Bearbeiten]** in **[!UICONTROL Synchronisierung aktivieren]**.
+1. Klicken Sie in **[!UICONTROL Synchronisation aktivieren]** auf **[!UICONTROL Bearbeiten]** .
 
    ![](assets/image2015-3-16-9-52-2.png)
 
@@ -98,7 +98,7 @@ Wenn Sie einen benutzerdefinierten Filter erstellt haben, gehen Sie in und wähl
    >
    >Marketo deaktiviert die Duplizierung nicht automatisch für eine Microsoft Dynamics-Synchronisation oder wenn Sie Personen manuell eingeben.
 
-1. Alles im Popup lesen, Ihre E-Mail eingeben und auf klicken **[!UICONTROL Synchronisierung starten]**.
+1. Lesen Sie alles im Popup-Fenster, geben Sie Ihre E-Mail ein und klicken Sie auf **[!UICONTROL Synchronisierung starten]**.
 
    ![](assets/image2015-3-30-14-3a23-3a13.png)
 

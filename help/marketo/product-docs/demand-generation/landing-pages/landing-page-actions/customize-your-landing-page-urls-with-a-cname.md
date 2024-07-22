@@ -7,7 +7,7 @@ feature: Landing Pages
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '237'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
 
@@ -33,11 +33,11 @@ Das eine Wort (plus YourCompany.com) wird als CNAME bezeichnet. Sie werden dies 
 
 ## Munchkin-ID suchen {#find-your-munchkin-id}
 
-1. Navigieren Sie zum **Admin**-Bereich.
+1. Wechseln Sie zum Bereich **Admin** .
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-1.png)
 
-1. Klicks **Mein Konto**.
+1. Klicken Sie auf **Mein Konto**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-2.png)
 
@@ -51,25 +51,25 @@ Das eine Wort (plus YourCompany.com) wird als CNAME bezeichnet. Sie werden dies 
 
 ## Anfrage an IT senden {#send-request-to-it}
 
-Bitten Sie Ihre IT-Mitarbeiter, den folgenden CNAME einzurichten: (Ersetzen Sie das Wort: [CNAME] und [Munchkin-ID] mit dem Text aus dem vorherigen Schritt.)
+Bitten Sie Ihre IT-Mitarbeiter, den folgenden CNAME einzurichten: (Ersetzen Sie das Wort [CNAME] und [Munchkin ID] durch den Text aus dem vorherigen Schritt.)
 
-[CNAME].YourCompany.com > [Munchkin-ID].mktoweb.com
+[CNAME].YourCompany.com > [Munchkin ID].mktoweb.com
 
 ## Vollständige CNAME-Einrichtung {#complete-cname-setup}
 
-1. Nachdem Ihre IT den CNAME erstellt hat, wechseln Sie zum **Admin** Bereich.
+1. Nachdem Ihr IT-Mitarbeiter den CNAME erstellt hat, wechseln Sie zum Bereich **Admin** .
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-4.png)
 
-1. Klicken Sie auf **Landing Pages**.
+1. Klicken Sie auf **Landingpages**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-5.png)
 
-1. Unter dem **Einstellungen** Abschnitt, klicken Sie auf **Bearbeiten**.
+1. Klicken Sie unter dem Abschnitt **Einstellungen** auf **Bearbeiten**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-6.png)
 
-1. Geben Sie Ihren CNAME in ein. **Domänenname für Einstiegsseiten** eingeben **Fallback-Seite** eingeben **Homepage** und klicken **Speichern**.
+1. Geben Sie Ihren CNAME in **Domänennamen für Einstiegsseiten** ein, geben Sie Ihre **Fallback-Seite** ein, geben Sie Ihre **Homepage** ein und klicken Sie auf **Speichern**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-7.png)
 

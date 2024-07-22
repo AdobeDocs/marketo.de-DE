@@ -6,8 +6,8 @@ exl-id: 7d097162-d862-4d09-9440-aba1628450c2
 feature: Landing Pages
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '1254'
-ht-degree: 2%
+source-wordcount: '1265'
+ht-degree: 1%
 
 ---
 
@@ -30,7 +30,7 @@ Elemente werden deklariert, indem ein normales DOM-Element zur Vorlage hinzugef�
 
 ## Text {#text}
 
-Wenn Sie eine Region als Rich-Text definieren, können Benutzer den Inhalt bearbeiten [Verwenden des Rich-Text-Editors von Marketo](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
+Wenn Sie einen Bereich als Rich-Text definieren, können Benutzer den Inhalt [mit dem Rich-Text-Editor von Marketo](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md) bearbeiten.
 
 Erforderliche Attribute:\
 **class**: &quot;mktoText&quot;\
@@ -46,9 +46,9 @@ Beispiel:
 
 ## Bild {#image}
 
-Sie haben zwei Optionen zum Definieren bearbeitbarer Bildelemente. Sie können entweder eine `<div>`, der einen Container angibt, in den das Bild eingefügt wird, oder einen `<img>` -Tag.
+Sie haben zwei Optionen zum Definieren bearbeitbarer Bildelemente. Sie können entweder einen `<div>` verwenden, der einen Container angibt, in den das Bild eingefügt wird, oder einen `<img>` -Tag.
 
-## Option 1: Verwenden eines `<div>` {#option-use-a-div}
+## Option 1 - Verwenden eines `<div>` {#option-use-a-div}
 
 Erforderliche Attribute:
 
@@ -57,13 +57,13 @@ id: ID-Zeichenfolge. Enthält nur Buchstaben, Zahlen, Bindestriche &quot;-&quot;
 mktoName : String. Dies ist der Anzeigename, der im Landingpage-Editor angezeigt wird. Es empfiehlt sich, einen beschreibenden Namen zu verwenden.
 
 Optional:\
-mktoImgClass: String. Der Wert hier wird dem class -Attribut der `<img>` -Element innerhalb des div.
+mktoImgClass: String. Der Wert hier wird dem Klassenattribut des Elements `<img>` innerhalb des div hinzugefügt.
 
 Beispiel:
 
 `<div class="mktoImg" id="exampleImg" mktoName="Example Image"></div>`
 
-## Option 2: Verwenden Sie eine `<img>` {#option-use-a-img}
+## Option 2 - Verwenden eines `<img>` {#option-use-a-img}
 
 Erforderliche Attribute:\
 class: &quot;mktoImg&quot;\
@@ -79,7 +79,7 @@ Beispiel:
 
 >[!NOTE]
 >
->Bei Verwendung von `<img>` -Version enthält die gerenderte HTML einen generierten Div-Wrapper um die `<img>` -Tag. Sie wird auf class festgelegt.&quot;mktoImg.mktoGen&quot; und werden angezeigt:inline-block.
+>Bei Verwendung der `<img>` -Version enthält die gerenderte HTML einen generierten Div-Wrapper um das `<img>` -Tag. Sie wird auf class festgelegt.&quot;mktoImg.mktoGen&quot; und werden angezeigt:inline-block.
 
 ## Formular {#form}
 
@@ -101,7 +101,7 @@ Beispiel:
 
 `<div class="mktoSnippet" id="exampleSnippet" mktoName="Example Snippet"></div>`
 
-## Schaltfläche &quot;Freigeben&quot; {#share-button}
+## Schaltfläche Freigeben {#share-button}
 
 Erforderliche Attribute:\
 **class**: &quot;mktoShareButton&quot;\
@@ -168,9 +168,9 @@ Beispiel:
 
 `${var1}`
 
-**Erklärung:**
+**Deklaration:**
 
-Variablen werden als Meta-Tags innerhalb der `<head>` -Element der Vorlage. Es stehen drei Variablentypen zur Verfügung: Zeichenfolge, Farbe und Boolesch.
+Variablen werden als Meta-Tags innerhalb des Elements `<head>` der Vorlage deklariert. Es stehen drei Variablentypen zur Verfügung: Zeichenfolge, Farbe und Boolesch.
 
 ## Zeichenfolge {#string}
 

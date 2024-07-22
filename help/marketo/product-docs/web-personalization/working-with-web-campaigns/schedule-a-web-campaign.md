@@ -23,7 +23,7 @@ Sie können die Webkampagne auf der Grundlage der Zeit des Webbesuchers oder ein
 >
 >Die Planung von Start- und Stoppdaten eignet sich hervorragend für ein geplantes Ereignis, z. B. ein Webinar, das für einen bestimmten Zeitraum ausgeführt wird. Wiederholungen eignen sich ideal für ein spezielles Angebot, das wöchentlich nur an einem bestimmten Tag ausgeführt wird.
 
-1. Navigieren Sie zu **Web-Kampagnen**.
+1. Wechseln Sie zu **Web-Kampagnen**.
 
    ![](assets/image2016-8-18-16-3a38-3a47.png)
 
@@ -31,7 +31,7 @@ Sie können die Webkampagne auf der Grundlage der Zeit des Webbesuchers oder ein
    >
    >Um die gewünschte Kampagne leichter zu finden, verwenden Sie die [Filterfunktion](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
-1. Öffnen Sie das Menü Kampagnenstatus und wählen Sie **Zeitplan**.
+1. Öffnen Sie das Menü Kampagnenstatus und wählen Sie **Plan** aus.
 
    ![](assets/image2016-8-18-16-3a41-3a45.png)
 
@@ -51,18 +51,18 @@ Sie können die Webkampagne auf der Grundlage der Zeit des Webbesuchers oder ein
    >
    >Sie können Datum und Uhrzeit aus dem Dropdown-Menü und Kalender auswählen oder manuell eingeben. Die Zeiten sind um 12 Uhr nachmittags.
 
-1. Standardmäßig wird die Kampagne täglich zwischen dem Start- und dem Enddatum ausgeführt. Wenn Sie die Kampagne nur an bestimmten Tagen oder zu bestimmten Zeiten ausführen möchten, verwenden Sie die Variable **Wiederholen** -Einstellungen. Wählen Sie den Tag sowie die Start- und Endzeit aus, um die Kampagne anzuzeigen. Verwenden Sie das Pluszeichen + , um weitere Tage hinzuzufügen.
+1. Standardmäßig wird die Kampagne täglich zwischen dem Start- und dem Enddatum ausgeführt. Wenn Sie die Kampagne nur an bestimmten Tagen oder zu bestimmten Zeiten ausführen möchten, verwenden Sie die Einstellungen für **Wiederholen** . Wählen Sie den Tag sowie die Start- und Endzeit aus, um die Kampagne anzuzeigen. Verwenden Sie das Pluszeichen + , um weitere Tage hinzuzufügen.
 
    ![](assets/image2016-1-14-8-3a19-3a37.png)
 
-1. Klicks **Zeitplan**.
+1. Klicken Sie auf **Zeitplan**.
 
    ![](assets/image2016-1-14-8-3a27-3a55.png)
 
-1. Der Status der Kampagne auf der Kampagnenseite ändert sich in **Geplant** und das Uhren-/Kalendersymbol angezeigt wird. Klicken Sie auf dieses Symbol, um den Kampagnenkalender zu bearbeiten.
+1. Der Status der Kampagne auf der Seite &quot;Kampagnen&quot;ändert sich in &quot;**Geplant**&quot;, und das Uhren-/Kalendersymbol wird angezeigt. Klicken Sie auf dieses Symbol, um den Kampagnenkalender zu bearbeiten.
 
    ![](assets/image2016-1-14-8-3a27-3a32.png)
 
    >[!NOTE]
    >
-   >Der Kampagnenstatus bleibt unverändert als **Geplant** auch dann, wenn die Kampagne während der ausgewählten geplanten Zeit ausgeführt wird. Wenn ein geplantes Enddatum überschritten wurde, ändert sich der Kampagnenstatus in **Angehalten**.
+   >Der Kampagnenstatus bleibt als **Geplant** erhalten, selbst wenn die Kampagne während der ausgewählten geplanten Zeiten ausgeführt wird. Wenn ein geplantes Enddatum überschritten wurde, ändert sich der Kampagnenstatus in **Ausgesetzt**.

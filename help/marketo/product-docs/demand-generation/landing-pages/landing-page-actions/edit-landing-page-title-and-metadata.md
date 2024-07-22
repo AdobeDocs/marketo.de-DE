@@ -6,14 +6,14 @@ exl-id: dc31eeee-fd96-4721-b346-c3cde0383fea
 feature: Landing Pages
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 0%
+source-wordcount: '130'
+ht-degree: 1%
 
 ---
 
 # Bearbeiten von Landingpage-Titel und -Metadaten {#edit-landing-page-title-and-metadata}
 
-Mit Marketo können Sie Ihre Landingpage bearbeiten [Meta-Tags für SEO-Zwecke](https://www.w3schools.com/tags/tag_meta.asp) und passen Sie die `<head>` Teil der HTML.
+Mit Marketo können Sie Ihre Landingpage [meta-Tags für SEO-Zwecke](https://www.w3schools.com/tags/tag_meta.asp) bearbeiten und den `<head>` -Teil der HTML anpassen.
 
 1. Wählen Sie eine Landingpage aus und klicken Sie auf **Entwurf bearbeiten**.
 
@@ -23,18 +23,18 @@ Mit Marketo können Sie Ihre Landingpage bearbeiten [Meta-Tags für SEO-Zwecke](
    >
    >Der Landingpage-Designer wird in einem neuen Fenster geöffnet.
 
-1. under **Landingpage-Aktionen** klicken **Bearbeiten von Seiten-Meta-Tags**.
+1. Klicken Sie unter &quot;**Landingpage-Aktionen**&quot;auf &quot;**Meta-Tags der Seite bearbeiten**&quot;.
 
    ![](assets/image2014-9-17-11-3a39-3a32.png)
 
-1. Geben Sie die **Titel**, **Schlüsselwörter** und **Beschreibung** für Ihre Seite. Wählen Sie die gewünschte **Roboter** und geben Sie den gewünschten benutzerdefinierten Inhalt für die HTML ein. `<head>` Abschnitt. Klicken **Speichern**.
+1. Geben Sie den **Titel**, **Suchbegriffe** und **Beschreibung** für Ihre Seite ein. Wählen Sie die gewünschte Option **Robots** aus und geben Sie den gewünschten benutzerdefinierten Inhalt für den Bereich HTML `<head>` ein. Klicken Sie auf **Speichern**.
 
    ![](assets/image2014-9-17-11-3a39-3a50.png)
 
    >[!TIP]
    >
-   >**Funktion [Roboter](https://www.robotstxt.org/meta.html) gemein?**
+   >**Was bedeutet [Roboter](https://www.robotstxt.org/meta.html)?**
    >
-   >**index**: -Seite im Web durchsuchbar ist. **folgen**: Suchmaschinen können Links auf indizierten Seiten folgen.
+   >**index**: Die Seite kann im Web durchsucht werden. **Follow**: Suchmaschinen können Links auf indizierten Seiten folgen.
 
 1. Bearbeiten Sie die Tags jederzeit und validieren Sie die Landingpage.

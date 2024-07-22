@@ -23,4 +23,4 @@ Führen Sie die folgenden einfachen Schritte aus, um eine Vorlage zu löschen.
 
 1. Klicken Sie oben rechts auf das Dropdown-Menü und dann auf **Löschen**.
 
-1. Klicken **Löschen** zur Bestätigung.
+1. Klicken Sie zur Bestätigung auf **Löschen** .

@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Kommunikationsbeschränkungen in einem E-Mail-Programm aktivieren/deaktivieren {#enable-disable-communication-limits-in-an-email-program}
 
-Bei der Ausführung eines E-Mail-Programms können Sie die [Kommunikationsbeschränkungen auf Administratorebene](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md). Hier ist, wie man das macht.
+Beim Ausführen eines E-Mail-Programms können Sie die Kommunikationsbeschränkungen auf [Administratorebene](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md) ignorieren oder beachten. Hier ist, wie man das macht.
 
 >[!NOTE]
 >
->Kommunikationsbeschränkungen [im Abschnitt &quot;Admin&quot;festgelegt wurde](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md) und helfen Ihnen dabei, zu viele E-Mails von einer Person zu vermeiden.
+>Kommunikationsbeschränkungen werden im Admin-Abschnitt ](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md) mit [festgelegt und helfen Ihnen, zu viele E-Mails nicht an eine Person zu senden.
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Wechseln Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -27,12 +27,12 @@ Bei der Ausführung eines E-Mail-Programms können Sie die [Kommunikationsbeschr
 
    ![](assets/selectemailprogram-3.jpg)
 
-1. Unter dem **Einrichtung** auf den Zeileneintrag Kommunikationslimit doppelklicken.
+1. Doppelklicken Sie auf der Registerkarte **Setup** auf das Zeilenelement &quot;Kommunikationslimit&quot;.
 
    ![](assets/blockoperational.png)
 
-1. Nicht operative E-Mails werden standardmäßig blockiert, wenn Kommunikationsbeschränkungen erreicht werden, aber wenn Sie sie umgehen möchten, deaktivieren Sie das Kontrollkästchen und klicken Sie auf **Speichern**.
+1. Standardmäßig werden nicht operative E-Mails blockiert, wenn Kommunikationsbeschränkungen erreicht werden, aber wenn Sie sie umgehen möchten, deaktivieren Sie das Kontrollkästchen und klicken Sie auf **Speichern**.
 
    ![](assets/ifaperson.jpg)
 
-   Verlassen **Nicht operative E-Mails blockieren** aktiviert verhindert, dass die E-Mail an alle gesendet wird, die mehr E-Mails erhalten haben, als Ihre Admin-Einstellungen zulassen.
+   Wenn Sie **Nicht operative E-Mails blockieren** aktivieren lassen, wird verhindert, dass die E-Mail an alle gesendet wird, die mehr E-Mails erhalten haben, als Ihre Admin-Einstellungen zulassen.

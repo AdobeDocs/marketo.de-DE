@@ -6,7 +6,7 @@ feature: Administration, Landing Pages
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '131'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -18,15 +18,15 @@ Gehen Sie wie folgt vor, um einige der HTTP-Header auf Ihren Landingpage-Domäne
 
    ![](assets/landing-page-headers-1.png)
 
-1. Klicken Sie auf **[!UICONTROL Landing Pages]**.
+1. Klicken Sie auf **[!UICONTROL Landingpages]**.
 
    ![](assets/landing-page-headers-2.png)
 
-1. Klicken **[!UICONTROL Bearbeiten]** neben Landingpage-HTTP-Kopfzeilen.
+1. Klicken Sie neben den Landingpage-HTTP-Headern auf **[!UICONTROL Bearbeiten]** .
 
    ![](assets/landing-page-headers-3.png)
 
-1. Wählen Sie Ihre gewünschten Einstellungen aus und klicken Sie auf **[!UICONTROL Speichern]** wann geschehen.
+1. Wählen Sie die gewünschten Einstellungen aus und klicken Sie danach auf **[!UICONTROL Speichern]** .
 
    ![](assets/landing-page-headers-4.png)
 

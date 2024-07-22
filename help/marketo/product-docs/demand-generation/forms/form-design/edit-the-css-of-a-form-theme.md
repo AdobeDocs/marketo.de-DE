@@ -13,13 +13,13 @@ ht-degree: 1%
 
 # CSS eines Formulardesigns bearbeiten {#edit-the-css-of-a-form-theme}
 
-Sie haben einige vordefinierte [Themen, aus denen Sie einfach wählen können](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md). Wenn Sie CSS jedoch gerne bearbeiten, können Sie beliebige Änderungen vornehmen. So geht es.
+Sie haben einige vorgefertigte [Designs, die Sie einfach aus ](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md) auswählen können. Wenn Sie CSS jedoch gerne bearbeiten, können Sie beliebige Änderungen vornehmen. So geht es.
 
 >[!NOTE]
 >
 >Vergewissern Sie sich, dass Sie CSS kennen, wenn Sie dies versuchen möchten, da die Marketo-Unterstützung nicht für die benutzerdefinierte Codierung eingerichtet ist. Außerdem gelten alle vorgenommenen Änderungen nur für das Formular, das Sie gerade bearbeiten.
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Wechseln Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities-5.png)
 
@@ -27,7 +27,7 @@ Sie haben einige vordefinierte [Themen, aus denen Sie einfach wählen können](/
 
    ![](assets/image2014-9-15-14-3a37-3a7.png)
 
-1. Navigieren Sie zu **Formulareinstellungen**.
+1. Wechseln Sie zu **Formulareigenschaften**.
 
    ![](assets/image2014-9-15-14-3a37-3a42.png)
 
@@ -47,7 +47,7 @@ Sie haben einige vordefinierte [Themen, aus denen Sie einfach wählen können](/
 
    ![](assets/image2014-9-15-14-3a38-3a46.png)
 
-1. Klicken Sie unter dem Zahnradsymbol auf **Benutzerdefinierte CSS bearbeiten**.
+1. Klicken Sie unter dem Zahnradsymbol auf **Benutzerdefiniertes CSS bearbeiten**.
 
    ![](assets/image2014-9-15-14-3a39-3a5.png)
 
@@ -59,7 +59,7 @@ Sie haben einige vordefinierte [Themen, aus denen Sie einfach wählen können](/
 
    ![](assets/image2014-9-15-14-3a39-3a30.png)
 
-1. Um Ihr benutzerdefiniertes Formular anzuzeigen, klicken Sie auf **Vorschau des Entwurfs**.
+1. Um Ihr angepasstes Formular anzuzeigen, klicken Sie auf **Vorschau des Entwurfs anzeigen**.
 
    ![](assets/image2014-9-15-14-3a39-3a50.png)
 

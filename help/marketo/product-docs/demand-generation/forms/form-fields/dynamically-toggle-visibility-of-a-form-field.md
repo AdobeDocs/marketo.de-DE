@@ -15,17 +15,17 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->* [Länderauswahl zu Ihrem Formular hinzufügen](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)
+>* [Fügen Sie Ihrem Formular eine Länderauswahlliste hinzu](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)
 
-Eine wirklich coole Funktion von Marketo forms ist, dass Sie Formularfelder dynamisch ausblenden/anzeigen können. [fieldsets](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md).
+Eine wirklich coole Funktion von Marketo forms ist, dass Sie Formularfelder oder [Feldsätze](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md) dynamisch ein-/ausblenden können.
 
 >[!NOTE]
 >
 >**Beispiel**
 >
->In diesem Beispiel wird die **Bundesland** Feld, wenn **Land** als &quot;Vereinigte Staaten&quot;ausgewählt ist.
+>In diesem Beispiel wird das Feld **Bundesland** ausgeblendet, es sei denn, **Land** ist als &quot;USA&quot;ausgewählt.
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Wechseln Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities-8.png)
 
@@ -59,7 +59,7 @@ Eine wirklich coole Funktion von Marketo forms ist, dass Sie Formularfelder dyna
 
    >[!NOTE]
    >
-   >Zuvor haben wir Land in einen Feldtyp vom Typ &quot;Auswahlliste&quot;konvertiert und [Alle Länder als Werte hinzugefügt](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md).
+   >Zuvor haben wir Land in einen Feldtyp vom Typ &quot;Auswahlliste&quot;konvertiert und [alle Länder als Werte hinzugefügt](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md).
 
 1. Klicken Sie auf **Speichern**.
 
@@ -69,6 +69,6 @@ Und das ist es! Wenn Sie nun dieses Formular ausfüllen und &quot;USA für Land&
 
 >[!IMPORTANT]
 >
->Das Verhalten von Formularfeldern funktioniert nahtlos, wenn Feldwerte über ein benutzerdefiniertes Skript mithilfe von [API-Funktionen](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"} in Forms 2.0.
+>Das Verhalten von Formularfeldern funktioniert nahtlos, wenn Feldwerte über ein benutzerdefiniertes Skript mithilfe von [API-Funktionen](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"} in Forms 2.0 festgelegt/aktualisiert werden.
 >
->Bedingte Felder funktionieren möglicherweise nicht wie erwartet, wenn Feldwerte von anderen externen Skripten als der Forms 2.0 JavaScript-API geändert werden.
+>Bedingte Felder funktionieren möglicherweise nicht wie erwartet, wenn Feldwerte von anderen externen Skripten als der Forms 2.0 JavaScript API geändert werden.

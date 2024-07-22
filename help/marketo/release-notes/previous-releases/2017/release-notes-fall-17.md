@@ -39,7 +39,7 @@ Mit dieser neuen Funktion können Sie jetzt E-Mails entsprechend den lokalen Zei
 >
 >Wenn Sie die Zeitzone der Empfänger noch nicht in Ihren E-Mail- und Interaktionsprogrammen aktivieren können, sollten Sie nicht in Panik geraten! Diese Funktion wird schrittweise allen Kunden ermöglicht.
 
-## [Beispiel-E-Mails nach Segment überprüfen](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md) {#review-sample-emails-by-segment}
+## [Prüfen von Beispiel-E-Mails nach Segment](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md) {#review-sample-emails-by-segment}
 
 Marketo bietet eine neue Option, um beim Senden von Beispiel-E-Mails zur Überprüfung ein Segment auszuwählen. Sie müssen nicht mehr manuell festlegen, zu welchem Segment ein Lead gehört, wodurch es einfacher wird, E-Mails mit dynamischen Inhalten an verschiedene Segmente zu senden.
 
@@ -86,10 +86,10 @@ Sparen Sie Zeit, indem Sie Kreativ-Assets und -Bilder in Marketo kanalübergreif
 
 ## Integration  {#integration}
 
-**[Email Preview API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
+**[E-Mail-Vorschau-API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
 Sie können jetzt eine Remote-Vorschau von E-Mails außerhalb von Marketo anzeigen, wodurch die Lokalisierung von E-Mail-Inhalten vereinfacht und Fehler reduziert werden.
 
-**[HTML-API ersetzen](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
+**[Ersetzen der HTML-API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
 Entwickler können den HTML-Inhalt von E-Mail-Assets remote aktualisieren, sodass sie in einem einzigen System arbeiten können, um Assets zu verwalten.

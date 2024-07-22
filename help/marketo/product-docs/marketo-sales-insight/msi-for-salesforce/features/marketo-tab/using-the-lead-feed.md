@@ -13,7 +13,7 @@ ht-degree: 2%
 
 # Verwenden des Lead-Feeds {#using-the-lead-feed}
 
-Der Lead-Feed ist eine aktuelle Liste interessanter Ereignisse, die von Ihren Leads durchgeführt werden. Sie finden sie auf der rechten Seite, wenn Sie auf die Registerkarte Marketo klicken. Es handelt sich um einen RSS- oder Twitter-Feed - die neuesten Updates stehen ganz oben auf der Liste. Verwenden Sie dies, um auf Leads zu springen, solange Sie noch frisch in ihrem Kopf sind.
+Der Lead-Feed ist eine aktuelle Liste interessanter Ereignisse, die von Ihren Leads durchgeführt werden. Sie finden sie auf der rechten Seite, wenn Sie auf die Registerkarte Marketo klicken. Es ist wie ein RSS- oder Twitter-Feed - die neuesten Updates stehen ganz oben auf der Liste. Verwenden Sie dies, um auf Leads zu springen, solange Sie noch frisch in ihrem Kopf sind.
 
 >[!NOTE]
 >
@@ -60,12 +60,12 @@ Bei der Anzeige in Salesforce hat jedes Element Folgendes:
    <td><p>Grund für diesen interessanten Moment</p></td> 
   </tr> 
   <tr> 
-   <td><p>F. Abonnieren</p></td> 
+   <td><p>F. Anmeldung</p></td> 
    <td><p>E-Mail-Benachrichtigung für Ereignisse wie diesen erhalten</p></td> 
   </tr> 
   <tr> 
    <td><p>G. Star</p></td> 
-   <td><p>Diese Person ist eine Best-Wette (hohe Priorität)</p></td> 
+   <td><p>Diese Person ist eine Best-Wette (hohe Priorität).</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -83,7 +83,7 @@ Sie können auch Lead-Feed-Updates vom RSS-Feed erhalten.  Mit einem RSS-Feed k�
 
 >[!NOTE]
 >
->Der Marketo-Administrator Ihres Unternehmens muss [RSS-Dienste aktivieren](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md) damit das funktioniert.
+>Der Marketo-Administrator Ihres Unternehmens muss [RSS-Feeds aktivieren](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md) , damit dies funktioniert.
 
 Um RSS-Updates zu erhalten, benötigen Sie zwei Dinge: den RSS-Link und einen RSS-Feed-Reader. Sie können den RSS-Link abrufen, indem Sie auf das RSS-Symbol im Lead-Feed klicken:
 

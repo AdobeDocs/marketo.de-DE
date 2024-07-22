@@ -19,8 +19,8 @@ Die Funktion &quot;Inhaltserkennung&quot;erkennt und markiert automatisch Ihre b
 
    ![](assets/settings-dropdown-hand.png)
 
-1. Inhaltserkennung auf **on**.
+1. Stellen Sie die Inhaltserkennung auf **auf**.
 
    ![](assets/content-discovery-on-hand.png)
 
-Wenn Sie die Inhaltserkennung auf Ein setzen, wird automatisch ein PDF- oder Videoinhalt erkannt, wenn ein Webbesucher auf die Datei klickt oder das Video ansieht. Dieses Inhaltselement (URL, Inhaltsname und Bild-URL) wird hinzugefügt und dann unter der Seite &quot;Alle Inhalte&quot;verfolgt. Bei der automatischen Videoerkennung entdecken wir ein Video, wenn ein Webbesucher auf ein eingebettetes Video aus YouTube, Vimeo oder Wistia klickt und es anschaut. Für die automatische Erkennung anderer Inhalte müssen Sie [Erstellen von Inhaltsmustern](/help/marketo/product-docs/predictive-content/getting-started/create-content-patterns.md).
+Wenn Sie die Inhaltserkennung auf Ein setzen, wird automatisch ein PDF- oder Videoinhalt erkannt, wenn ein Webbesucher auf die Datei klickt oder das Video ansieht. Dieses Inhaltselement (URL, Inhaltsname und Bild-URL) wird hinzugefügt und dann unter der Seite &quot;Alle Inhalte&quot;verfolgt. Bei der automatischen Videoerkennung entdecken wir ein Video, wenn ein Webbesucher auf ein eingebettetes Video aus YouTube, Vimeo oder Wistia klickt und es anschaut. Für die automatische Erkennung anderer Inhalte müssen Sie [Inhaltsmuster erstellen](/help/marketo/product-docs/predictive-content/getting-started/create-content-patterns.md).

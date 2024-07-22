@@ -18,19 +18,19 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->* Zusätzlich zur Einrichtung Ihres SMTP-Servers muss Ihr [E-Mail-Identität muss überprüft werden](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md) bevor Sie E-Mails versenden können.
->* Wir empfehlen, mit Ihrem IT-Team oder SMTP-Serveranbieter zusammenzuarbeiten, um die richtigen Serverberechtigungen für Ihren SMTP-Server zu erhalten.
->* Sie können Ihren Gmail- und Exchange-Server nicht mit den SMTP-Server-Anmeldedaten verbinden. Bitte nutzen Sie unseren Email Connection-Dienst, um sich mit diesen Anbietern zu integrieren.
+>* Zusätzlich zur Einrichtung Ihres SMTP-Servers muss Ihre [E-Mail-Identität geprüft](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md) werden, bevor Sie E-Mails versenden können.
+>* Es wird empfohlen, mit Ihrem IT-Team oder SMTP-Serveranbieter zusammenzuarbeiten, um die richtigen Serverberechtigungen für Ihren SMTP-Server zu erhalten.
+>* Sie können Ihren Gmail- und Exchange-Server nicht mit den SMTP-Server-Anmeldedaten verbinden. Bitte nutzen Sie unseren Email Connection-Dienst, um diese Anbieter zu integrieren.
 
 1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen**.
 
    ![](assets/set-up-a-custom-delivery-channel-for-your-team-1.png)
 
-1. Klicken Sie unter &quot;Admin Settings&quot;auf **Allgemein**.
+1. Klicken Sie unter &quot;Admin Settings&quot;auf **General**.
 
    ![](assets/set-up-a-custom-delivery-channel-for-your-team-2.png)
 
-1. Klicken Sie auf **Team Delivery Channel** Registerkarte.
+1. Klicken Sie auf den Tab **Team Delivery Channel** .
 
    ![](assets/set-up-a-custom-delivery-channel-for-your-team-3.png)
 

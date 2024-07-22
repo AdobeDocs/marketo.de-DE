@@ -7,7 +7,7 @@ feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '378'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
 
@@ -23,7 +23,7 @@ Wählen Sie die Metrik aus, nach der Sie die Leistung anzeigen möchten. In dies
 
 >[!NOTE]
 >
->Informationen zu [Erstkontakt und Multi-Touch](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+>Erfahren Sie mehr über [Erstkontakt und Multi-Touch](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 Wählen Sie aus, für welchen Zeitraum Metriken angezeigt werden sollen. In diesem Beispiel betrachten wir das aktuelle Jahr (Jahr bis heute).
 
@@ -47,7 +47,7 @@ Das Balkendiagramm zeigt die Programmleistung über alle Kanäle (zehn Programme
 
 >[!TIP]
 >
->Wenn die Balken im Diagramm beim Scrollen durch die Gruppen vergrößert werden sollen, wählen Sie die **Anpassbare Y-Achse skalieren** aktivieren.
+>Wenn die Balken im Diagramm beim Scrollen durch die Gruppen vergrößert werden sollen, aktivieren Sie das Kontrollkästchen **Y-Achse passend skalieren** .
 
 Bewegen Sie den Mauszeiger über eine Leiste, um weitere Details anzuzeigen.
 
@@ -61,12 +61,12 @@ Das unten stehende Datenraster funktioniert wie eine Tabelle und zeigt alle verf
 
 ![](assets/9.png)
 
-| **Gewonnene Chancen** | Der Teil der Gutschrift (in numerischem Wert), den das Programm zur Beeinflussung der gewann Gelegenheit erhalten hat |
+| **Opportunities Won** | Der Teil der Gutschrift (in numerischem Wert), den das Programm zur Beeinflussung der gewann Gelegenheit erhalten hat |
 |---|---|
-| **Gewonnener Ertrag** | Der Teil des Kredits (in Geldwert), den das Programm zur Beeinflussung der gewann Chance erhalten hat |
+| **Umsatz erzielt** | Der Teil des Kredits (in Geldwert), den das Programm zur Beeinflussung der gewann Chance erhalten hat |
 | **Kosten** | Gesamtkosten des Programms |
-| **Kosten je gewonnener Chance** | Verhältnis der Programmkosten und des (numerischen) Kreditbetrags, den das Programm erhalten hat, um die Schaffung neuer Möglichkeiten zu beeinflussen |
-| **Umsatz in % Kostenverhältnis** | Verhältnis des Kreditanteils (in Geldwert) des Programms zur Beeinflussung der eigenen Chancen und der Kosten des Programms |
+| **Kosten pro Opportunity Won** | Verhältnis der Programmkosten und des (numerischen) Kreditbetrags, den das Programm erhalten hat, um die Schaffung neuer Möglichkeiten zu beeinflussen |
+| **Umsatz in Kostenverhältnis** | Verhältnis des Kreditanteils (in Geldwert) des Programms zur Beeinflussung der eigenen Chancen und der Kosten des Programms |
 
 Erweitern Sie einen Kanal, um die zehn wichtigsten Programme zu sehen, wobei die restlichen Programme kombiniert werden.
 

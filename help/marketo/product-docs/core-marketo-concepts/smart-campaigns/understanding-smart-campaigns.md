@@ -15,11 +15,11 @@ ht-degree: 4%
 
 Wenn Marketo Engage ein Auto ist, ist die intelligente Kampagne der Motor. Smart-Kampagnen können mehr tun, als Sie sich vorstellen können, und es ist einfach, mit ihnen zu beginnen.
 
-Die intelligente Kampagne umfasst drei Hauptbereiche: die [Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md){target="_blank"}, [Fluss](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} und [Zeitplan](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"} Registerkarten.
+Die Smart-Kampagne hat drei Hauptbereiche: die Registerkarten [Smart-Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md){target="_blank"}, [Fluss](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} und [Zeitplan](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"} .
 
 ## Smart List {#smart-list}
 
-Die Smart-Liste beschreibt, wie Sie _who_ Sie möchten Ihr Targeting mit Ihrer Smart-Kampagne durchführen. Es verfügt über Filter und Trigger.
+Mit der Smart-Liste definieren Sie _wer_, die Sie mit Ihrer Smart-Kampagne auswählen möchten. Es verfügt über Filter und Trigger.
 
 <table> 
  <tbody> 
@@ -55,7 +55,7 @@ Die intelligente Kampagne kann vieles tun. Verstehen Sie es, und Sie werden alle
 
 >[!CAUTION]
 >
->Wenn Sie eine Smart-Kampagne von einem Programm in ein anderes verschieben und die Smart-List- oder Fluss-Schritte der Kampagne auf das ursprüngliche Programm verweisen, müssen Sie die Informationen manuell entsprechend dem neuen Programm aktualisieren. **not** automatische Aktualisierung.
+>Wenn Sie eine Smart-Kampagne von einem Programm in ein anderes verschieben und die Smart-List- oder Fluss-Schritte der Kampagne auf das ursprüngliche Programm verweisen, müssen Sie die Informationen manuell aktualisieren, um das neue Programm widerzuspiegeln, da die automatische Aktualisierung **nicht** erfolgt.
 
 >[!MORELIKETHIS]
 >

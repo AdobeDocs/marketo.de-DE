@@ -2,11 +2,11 @@
 description: NUR-YYYY-MM-Simple Nurture - Marketo Docs - Produktdokumentation
 title: NUR-YYYY-MM-Simple Nurture
 feature: Programs
-exl-id: 3e09ee4f-be65-4f2b-bdf5-ddd98bb49c1c
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: aed11d75-3190-46ea-8b0b-c1494645901d
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '341'
-ht-degree: 22%
+source-wordcount: '347'
+ht-degree: 15%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 22%
 
 Dies ist ein Beispiel für einfache Nurture-Programme, bei denen das Marketo Engage Engagement-Programm verwendet wird, bei dem mithilfe von Kadhierinhalten im Laufe der Zeit auf Ihre Datenbank tropft und gleichzeitig Streams genutzt werden, um Datensätze anhand von Verhaltensweisen durch Journey zu führen.
 
-Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalten Sie vom Adobe-Account-Team oder unter [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} Seite.
+Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Programms an das Adobe-Account-Team oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} .
 
 ## Kanal-Zusammenfassung {#channel-summary}
 
@@ -23,20 +23,20 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
   <tr> 
    <th>Kanal</th> 
    <th>Status der Mitgliedschaft</th>
-   <th>Analyseverhalten</th>
+   <th>Analytics Behavior</th>
    <th>Programmtyp</th>
   </tr> 
   <tr> 
    <td>Nurture-Kampagne</td> 
    <td>01 - Mitglied 
 <br/>02 - Interagiert - Erfolg</td>
-   <td>Inklusiv</td>
-   <td>Engagement</td>
+   <td>Einschließlich</td>
+   <td>Interaktion</td>
   </tr>
  </tbody> 
 </table>
 
-## Das Programm enthält die folgenden Assets {#program-contains-the-following-assets}
+## Das Programm enthält die folgende Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -68,7 +68,7 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
   <tr> 
    <td>Lokaler Bericht</td> 
    <td> </td>
-   <td>Engagement Stream Performance</td>
+   <td>Engagement-Stream Performance</td>
   </tr>
   <tr>
   <tr> 
@@ -112,7 +112,7 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
 
 ![](assets/nur-yyyy-mm-simple-nurture-1.png)
 
-## Meine Token Enthalten {#my-tokens-included}
+## My Tokens Include {#my-tokens-included}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -145,13 +145,13 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
    * Erstellen von Tags in diesem Abonnement - _Empfohlen_
    * Ignorieren
 
-* **Landingpage-Vorlage mit demselben Namen**
+* **Vorlage für Einstiegsseiten mit demselben Namen**
    * Originalvorlage kopieren
-   * Zielvorlage verwenden - _Empfohlen_
+   * Verwenden Sie die Zielvorlage - _Empfohlen_
 
 * **Bilder mit demselben Namen**
    * Beide Dateien beibehalten
-   * Element in diesem Abonnement ersetzen - _Empfohlen_
+   * Ersetzen des Elements in diesem Abonnement - _Empfohlen_
 
 * **E-Mail-Vorlagen mit demselben Namen**
    * Beide Vorlagen beibehalten
@@ -171,4 +171,4 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
 
 >[!TIP]
 >
->Vergessen Sie nicht, die Kampagne &quot;04 - Interagiert (Programmerfolg)&quot; zu aktivieren, um den Erfolg zu verfolgen! Verwenden Sie dies _before_ Ihre E-Mails werden gesendet.
+>Vergessen Sie nicht, die Kampagne &quot;04 - Interagiert (Programmerfolg)&quot; zu aktivieren, um den Erfolg zu verfolgen! Führen Sie dies _vor_ aus, wenn Ihre E-Mails gesendet werden.

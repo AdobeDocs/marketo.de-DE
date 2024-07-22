@@ -17,13 +17,13 @@ Detaillierte Programm- und Kanalstatistiken finden Sie im Programm-Analyzer. Sie
 
 >[!PREREQUISITES]
 >
->[Programm-Analyzer erstellen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
+>[Erstellen eines Programm-Analyzers](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
 >[!AVAILABILITY]
 >
 >Diese Funktion ist nicht in allen Marketo-Editionen enthalten. Weitere Informationen erhalten Sie von Ihrem Kundenbetreuer.
 
-1. Klicks **Analytics**.
+1. Klicken Sie auf **Analytics**.
 
    ![](assets/image2015-4-28-12-3a54-3a47.png)
 
@@ -31,13 +31,13 @@ Detaillierte Programm- und Kanalstatistiken finden Sie im Programm-Analyzer. Sie
 
    ![](assets/image2015-4-28-12-3a56-3a46.png)
 
-1. So zeigen Sie die spezifischen Statistiken für einen Kanal oder ein Programm an (je nach **Ansicht** auswählen), klicken Sie auf die entsprechende Blase.
+1. Um die spezifischen Statistiken für einen Kanal oder ein Programm anzuzeigen (je nach ausgewählter **Ansicht** ), klicken Sie auf die entsprechende Blase.
 
    ![](assets/image2015-4-28-12-3a57-3a14.png)
 
    >[!NOTE]
    >
-   >Viele der Metriken, die Sie im Programm-Analyzer auswählen können, stehen bei Erstkontakt- (FT-) und Multi-Touch-(MT-)Berechnungen zur Verfügung. Es ist wichtig, die [Differenz zwischen FT- und MT-Attribution](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+   >Viele der Metriken, die Sie im Programm-Analyzer auswählen können, stehen bei Erstkontakt- (FT-) und Multi-Touch-(MT-)Berechnungen zur Verfügung. Es ist wichtig, den [Unterschied zwischen FT- und MT-Attribution](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md) zu verstehen.
 
 1. Um alle Programme innerhalb eines Kanals zu vergleichen, klicken Sie im Popup-Dialogfeld auf den Kanalnamen.
 
@@ -49,7 +49,7 @@ Detaillierte Programm- und Kanalstatistiken finden Sie im Programm-Analyzer. Sie
 
    >[!NOTE]
    >
-   >Wenn Sie auf einen einzelnen Kanal klicken, wechselt Ihre Ansicht zu Nach Programm, gefiltert nach nur diesem Kanal. Um zu allen Kanälen zurückzukehren, wählen Sie **Ansicht** > **Nach Kanal**.
+   >Wenn Sie auf einen einzelnen Kanal klicken, wechselt Ihre Ansicht zu Nach Programm, gefiltert nach nur diesem Kanal. Um zu allen Kanälen zurückzukehren, wählen Sie **Ansicht** > **Nach Kanal** aus.
 
 1. Um den Explorer für den Umsatz zu öffnen und eine Statistik noch tiefer zu untersuchen, klicken Sie im Popup-Dialogfeld auf diese Zahl.
 

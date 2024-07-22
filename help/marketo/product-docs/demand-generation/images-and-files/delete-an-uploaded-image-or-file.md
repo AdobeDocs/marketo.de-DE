@@ -19,28 +19,28 @@ Das Löschen von Bildern oder Dateien ist schnell und einfach.
 >
 >Nach dem Löschen werden die Bilder/Dateien vollständig aus dem Marketo Engage entfernt und können nicht wiederhergestellt werden.
 
-1. Navigieren Sie zu **[!UICONTROL Design Studio]**.
+1. Wechseln Sie zu **[!UICONTROL Design Studio]**.
 
    ![](assets/delete-an-uploaded-image-or-file-1.png)
 
-1. Auswählen **[!UICONTROL Bilder und Dateien]**
+1. Wählen Sie **[!UICONTROL Bilder und Dateien]** aus
 
    ![](assets/delete-an-uploaded-image-or-file-2.png)
 
-1. Suchen und wählen Sie das gewünschte Bild/die gewünschte Datei aus. Klicken Sie auf **[!UICONTROL Bild- und Dateiaktionen]** und wählen Sie **[!UICONTROL Löschen]**.
+1. Suchen und wählen Sie das gewünschte Bild/die gewünschte Datei aus. Klicken Sie auf das Dropdown-Menü **[!UICONTROL Bild- und Dateiaktionen]** und wählen Sie **[!UICONTROL Löschen]** aus.
 
    ![](assets/delete-an-uploaded-image-or-file-3.png)
 
-1. Überprüfen Sie, ob Sie die richtige Datei ausgewählt haben, und klicken Sie auf **[!UICONTROL Löschen]**.
+1. Vergewissern Sie sich, dass Sie die richtige Datei ausgewählt haben, und klicken Sie auf **[!UICONTROL Löschen]**.
 
    ![](assets/delete-an-uploaded-image-or-file-4.png)
 
    >[!NOTE]
    >
-   >Assets werden nicht gelöscht, wenn sie derzeit verwendet werden.
+   >Assets wird nicht gelöscht, wenn sie derzeit verwendet werden.
 
 >[!MORELIKETHIS]
 >
->* [Ersetzen eines hochgeladenen Bildes oder einer Datei](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md){target="_blank"}
+>* [Ersetzen eines hochgeladenen Bildes oder einer hochgeladenen Datei](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md){target="_blank"}
 >* [Hochgeladene Bilder und Dateien durchsuchen](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md){target="_blank"}
->* [Suchen der URL eines hochgeladenen Bildes oder einer hochgeladenen Datei](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md){target="_blank"}
+>* [URL eines hochgeladenen Bildes oder einer hochgeladenen Datei suchen](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md){target="_blank"}

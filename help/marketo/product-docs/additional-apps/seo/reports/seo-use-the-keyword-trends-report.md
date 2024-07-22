@@ -6,8 +6,8 @@ exl-id: 6c3e3c8e-f7ed-47d6-9de7-1680d23e5dd3
 feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 5%
+source-wordcount: '179'
+ht-degree: 3%
 
 ---
 
@@ -17,11 +17,11 @@ In diesem Bericht können Sie sehen, wie Sie im Zeitverlauf nach Suchbegriffen g
 
 ## Bericht laden {#load-report}
 
-1. Navigieren Sie zu **[!UICONTROL Berichte]**.
+1. Wechseln Sie zu **[!UICONTROL Berichte]**.
 
    ![](assets/image2014-9-18-14-3a12-3a18.png)
 
-1. Klicken Sie auf **[!UICONTROL Suchbegriffsrang-Trends]**.
+1. Klicken Sie auf **[!UICONTROL Suchbegriff-Rangtrends]**.
 
    ![](assets/image2014-9-18-14-3a13-3a14.png)
 
@@ -33,10 +33,10 @@ In diesem Bericht können Sie sehen, wie Sie im Zeitverlauf nach Suchbegriffen g
 
    | Element | Beschreibung |
    |---|---|
-   | [!UICONTROL Schlüsselwörter] | Die Anzahl der Suchbegriffe, die Sie verfolgen. |
-   | [!UICONTROL Rangierungs-URLs] | Die Anzahl der URLs auf Ihrer Site-Rangfolge in dem von Ihnen festgelegten Bereich. |
-   | [!UICONTROL Durchschnitt rank] | Der durchschnittliche Rang der Suchbegriffe in dem von Ihnen festgelegten Bereich. |
-   | [!UICONTROL Durchschnitt Suchvorgänge] | Durchschnittliche Anzahl der Suchvorgänge nach Suchbegriffen, die während des festgelegten Zeitraums (in den letzten 30 Tagen) bei der Google US-Suche aufgetreten sind. |
+   | [!UICONTROL Suchbegriffe] | Die Anzahl der Suchbegriffe, die Sie verfolgen. |
+   | [!UICONTROL  Rangierungs-URLs] | Die Anzahl der URLs auf Ihrer Site-Rangfolge in dem von Ihnen festgelegten Bereich. |
+   | [!UICONTROL Durchschnittl. rank] | Der durchschnittliche Rang der Suchbegriffe in dem von Ihnen festgelegten Bereich. |
+   | [!UICONTROL Durchschnittl. searches] | Durchschnittliche Anzahl der Suchvorgänge nach Suchbegriffen, die während des festgelegten Zeitraums (in den letzten 30 Tagen) bei der Google US-Suche aufgetreten sind. |
 
 ## Filtern von Daten {#filtering-data}
 
@@ -54,12 +54,12 @@ In diesem Bericht können Sie sehen, wie Sie im Zeitverlauf nach Suchbegriffen g
 >
 >Sie können diesen Bericht auf Ihren Desktop exportieren.
 
-1. Klicks **[!UICONTROL CSV exportieren]** oder **[!UICONTROL Export PDF]**.
+1. Klicken Sie auf **[!UICONTROL CSV exportieren]** oder **[!UICONTROL Export PDF]**.
 
    ![](assets/image2014-9-18-14-3a14-3a46.png)
 
-   Großartig gemacht! Sie können auch sehen, wie Sie im Keyword-Ranking mit Ihren Konkurrenten vergleichen.
+   Gut gemacht! Sie können auch sehen, wie Sie im Keyword-Ranking mit Ihren Konkurrenten vergleichen.
 
    >[!NOTE]
    >
-   >[Verwenden des Berichts &quot;KW-Rang-Trends&quot;](/help/marketo/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)
+   >[Verwenden des Berichts &quot;Konkurrenzfähige KW-Rangtrends&quot;](/help/marketo/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)

@@ -7,7 +7,7 @@ feature: Tags
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 4%
+ht-degree: 0%
 
 ---
 
@@ -15,19 +15,19 @@ ht-degree: 4%
 
 Programmstatus sind die Checkpoints über einen Programmpfad (Kanal). Wenn Sie einen Status versehentlich erstellen oder ihn nicht mehr benötigen, können Sie ihn auch löschen.
 
-1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
+1. Wechseln Sie zum Bereich **[!UICONTROL Admin]** .
 
    ![](assets/delete-a-program-status-from-a-program-channel-1.png)
 
-1. Klicks **[!UICONTROL Tags]**.
+1. Klicken Sie auf **[!UICONTROL Tags]**.
 
    ![](assets/delete-a-program-status-from-a-program-channel-2.png)
 
-1. Wählen Sie den Kanal aus, aus dem Sie einen Status entfernen möchten, und klicken Sie dann unter **[!UICONTROL Tag-Aktionen]** klicken **[!UICONTROL Bearbeiten]**.
+1. Wählen Sie den Kanal aus, aus dem Sie einen Status entfernen möchten, und klicken Sie dann unter **[!UICONTROL Tag-Aktionen]** auf **[!UICONTROL Bearbeiten]**.
 
    ![](assets/delete-a-program-status-from-a-program-channel-3.png)
 
-1. Klicken Sie auf Rot **X** um den Status zu entfernen, klicken Sie auf **[!UICONTROL Speichern]**.
+1. Klicken Sie auf den roten **X**, um den Status zu entfernen, und klicken Sie dann auf **[!UICONTROL Speichern]**.
 
    ![](assets/delete-a-program-status-from-a-program-channel-4.png)
 
@@ -35,4 +35,4 @@ Programmstatus sind die Checkpoints über einen Programmpfad (Kanal). Wenn Sie e
    >
    >Wenn dem betreffenden Status derzeit eine Person zugewiesen ist, können Sie ihn jedoch nicht löschen.
 
-Schön gemacht! Sie können auch [Löschen eines gesamten Kanals](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md) wenn Sie müssen.
+Schön gemacht! Sie können auch [einen gesamten Kanal löschen](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md), wenn Sie dies benötigen.

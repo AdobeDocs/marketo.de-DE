@@ -15,22 +15,22 @@ ht-degree: 0%
 
 Als Administrator können Sie die Aufrufaufzeichnung für Ihre Sales Connect -Aufrufe aktivieren. Das Aufzeichnen der Anrufe Ihres Teams kann eine gute Möglichkeit sein, Ihre Vertriebsmitarbeiter bei den Best-Call-Verfahren zu unterstützen.
 
-1. Klicken Sie auf das Symbol Einstellungen und wählen Sie **Einstellungen**.
+1. Klicken Sie auf das Symbol Einstellungen und wählen Sie **Einstellungen** aus.
 
    ![](assets/one.png)
 
-1. Klicken Sie unter &quot;Admin Settings&quot;auf **Allgemein**.
+1. Klicken Sie unter &quot;Admin Settings&quot;auf **General**.
 
    ![](assets/two.png)
 
-1. Scrollen Sie nach unten zu den Einstellungen für Sales Connect Phone und wählen Sie die **Aufrufaufzeichnung aktivieren** umschalten.
+1. Scrollen Sie nach unten zu den Einstellungen für Sales Connect Phone und wählen Sie den Umschalter **Aufrufaufzeichnung aktivieren** aus.
 
    ![](assets/three.png)
 
-1. Wenn Sie Ihren Verkäufern die Möglichkeit geben möchten, die Aufrufaufzeichnung selbst zu aktivieren oder zu deaktivieren, klicken Sie auf **Optionale Aufzeichnung für alle Teammitglieder**. Wenn alle Aufrufe automatisch aufgezeichnet werden sollen, klicken Sie auf **Aufzeichnen aller Aufrufe**.
+1. Wenn Sie Ihren Verkäufern die Möglichkeit geben möchten, die Aufrufaufzeichnung für sich selbst zu aktivieren oder zu deaktivieren, klicken Sie auf **Optionale Aufzeichnung für alle Teammitglieder**. Wenn alle Aufrufe automatisch aufgezeichnet werden sollen, klicken Sie auf **Alle Aufrufe aufzeichnen**.
 
    ![](assets/four.png)
 
 >[!MORELIKETHIS]
 >
->[Einverständniseinstellungen für zwei Parteien](/help/marketo/product-docs/marketo-sales-connect/phone/two-party-consent-settings.md)
+>[Einstellungen für die Zustimmung von zwei Parteien](/help/marketo/product-docs/marketo-sales-connect/phone/two-party-consent-settings.md)

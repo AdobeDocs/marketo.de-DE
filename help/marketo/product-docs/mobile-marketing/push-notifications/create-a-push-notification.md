@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Push-Benachrichtigung erstellen {#create-a-push-notification}
 
-Es ist einfach, eine Push-Benachrichtigung zu erstellen. Bevor Sie jedoch beginnen, müssen Sie Ihren Marketo-Administrator und Ihren Mobile Apps-Entwickler einige Dinge einrichten lassen, die Sie während der Arbeit benötigen. Siehe [Grundlegendes zu Push-Benachrichtigungen](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md) für Details.
+Es ist einfach, eine Push-Benachrichtigung zu erstellen. Bevor Sie jedoch beginnen, müssen Sie Ihren Marketo-Administrator und Ihren Mobile Apps-Entwickler einige Dinge einrichten lassen, die Sie während der Arbeit benötigen. Weitere Informationen finden Sie unter [Grundlegendes zu Push-Benachrichtigungen](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md) .
 
-1. Navigieren Sie zu **Marketingaktivitäten** Bereich.
+1. Wechseln Sie zum Bereich **Marketingaktivitäten** .
 
    ![](assets/image2015-4-22-18-3a46-3a14.png)
 
@@ -23,16 +23,16 @@ Es ist einfach, eine Push-Benachrichtigung zu erstellen. Bevor Sie jedoch beginn
 
    ![](assets/image2015-4-23-13-3a31-3a43.png)
 
-1. under **Neu** klicken **Neues lokales Asset**.
+1. Klicken Sie unter &quot;**Neu**&quot;auf &quot;**Neues lokales Asset**&quot;.
 
    ![](assets/image2015-4-23-13-3a33-3a20.png)
 
-1. Auswählen **Push-Benachrichtigung**.
+1. Wählen Sie **Push-Benachrichtigung** aus.
 
    ![](assets/image2015-4-23-13-3a35-3a6.png)
 
-1. Geben Sie einen **Name der Push-Benachrichtigung** und klicken **Erstellen**.
+1. Geben Sie einen **Push-Benachrichtigungsnamen** ein und klicken Sie auf **Erstellen**.
 
    ![](assets/image2015-4-23-13-3a36-3a56.png)
 
-   Süß! Nachdem die Push-Benachrichtigung erstellt wurde, gehen wir weiter und [Dress it up](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md).
+   Süß! Nachdem die Push-Benachrichtigung erstellt wurde, ziehen wir sie in den Arbeitsbereich und ziehen sie mit [1 an.](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)

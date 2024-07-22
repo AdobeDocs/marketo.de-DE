@@ -17,9 +17,9 @@ Marketo verfolgt die Anzahl der Seitenansichten und Formularabschlüsse auf jede
 
 >[!PREREQUISITES]
 >
->[Erstellen von zwei oder mehr Landingpages](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md), vorzugsweise mit einem Formular.
+>[Erstellen Sie zwei oder mehr Landingpages](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md), vorzugsweise mit einem Formular.
 
-1. Klicken Sie in Design Studio auf **Neu**. Wählen Sie im Dropdown-Menü **Neue Testgruppe**.
+1. Klicken Sie in Design Studio auf **Neu**. Wählen Sie im Dropdown-Menü **Neue Testgruppe** aus.
 
    ![](assets/image2015-8-5-13-3a32-3a50.png)
 
@@ -27,8 +27,8 @@ Marketo verfolgt die Anzahl der Seitenansichten und Formularabschlüsse auf jede
    >
    >Die anderen Möglichkeiten zum Erstellen einer Testgruppe sind:
    >
-   >* Klicken Sie mit der rechten Maustaste auf eine Landingpage im Baum und wählen Sie **In Testgruppe konvertieren**
-   >* Erstellen Sie in einem Programm eine Einstiegsseitentestgruppe durch Auswahl von **AB-Testgruppe** im **Neues lokales Asset** Menü
+   >* Klicken Sie mit der rechten Maustaste auf eine Landingpage im Baum und wählen Sie **In Testgruppe konvertieren** aus.
+   >* Erstellen Sie eine Einstiegsseitentestgruppe in einem Programm, indem Sie im Menü **Neues lokales Asset** die Option **AB-Testgruppe** auswählen.
 
 1. Geben Sie einen Namen und eine optionale Beschreibung ein. Wählen Sie die Einstiegsseiten aus, die Sie testen möchten, und klicken Sie auf **Erstellen**.
 
@@ -38,11 +38,11 @@ Marketo verfolgt die Anzahl der Seitenansichten und Formularabschlüsse auf jede
    >
    >Es stehen nur nicht genehmigte Einstiegsseiten zur Auswahl.
 
-1. Klicken Sie mit der rechten Maustaste auf jede Landingpage und wählen Sie **Genehmigen**.
+1. Klicken Sie mit der rechten Maustaste auf jede Landingpage und wählen Sie **Genehmigen** aus.
 
    ![](assets/three-1.png)
 
-1. Klicken Sie auf **Gruppenoptionen testen** Dropdown-Liste und **Genehmigen einer Testgruppe**.
+1. Klicken Sie auf das Dropdown-Menü **Gruppenoptionen testen** und wählen Sie **Testgruppe genehmigen** aus.
 
    ![](assets/four-1.png)
 
@@ -52,4 +52,4 @@ Marketo verfolgt die Anzahl der Seitenansichten und Formularabschlüsse auf jede
 
    >[!TIP]
    >
-   >Wenn Sie die Testgruppe löschen möchten, klicken Sie einfach auf **Testgruppenaktionen** und wählen **Testgruppe löschen**.
+   >Wenn Sie die Testgruppe jemals löschen möchten, klicken Sie einfach auf **Gruppenaktionen testen** und wählen Sie **Testgruppe löschen** aus.

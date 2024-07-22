@@ -7,7 +7,7 @@ feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '283'
-ht-degree: 6%
+ht-degree: 0%
 
 ---
 
@@ -17,7 +17,7 @@ Die Personendetailansicht bietet ein detailliertes Profil jeder Person in Ihrem 
 
 ## Zugriff {#how-to-access}
 
-1. Um auf die Personendetailansicht zuzugreifen, klicken Sie auf das **Personen** Registerkarte.
+1. Um auf die Personendetailansicht zuzugreifen, klicken Sie auf die Registerkarte **Personen** .
 
    ![](assets/person-detail-view-1.png)
 
@@ -48,7 +48,7 @@ Umfasst alle Kontaktinformationen der Person.
 * Kann eine Person zu Salesforce hinzufügen
 * Pull-Konto- und Lead-/Kontaktinformationen von Salesforce
 
-**Benutzerdefinierte -Felder**
+**Benutzerdefinierte Felder**
 
 * Fügen Sie benutzerdefinierte Felder hinzu oder entfernen Sie sie, die in Ihren Vorlagen und Kampagnen als dynamische Felder verwendet werden können
 
@@ -62,11 +62,11 @@ Erfahren Sie, wie diese Person mit Ihrer Kontaktaufnahme interagiert.
 
 ![](assets/person-detail-view-4.png)
 
-**Sales Connect-Aktivität**
+**Aktivität &quot;Sales Connect&quot;**
 
 * Anzeigen von Interaktionsaktivitäten aus Ihren Verkaufs-E-Mails und Kampagnen
 
-**Marketing-Aktivität**
+**Marketingaktivität**
 
 * Erfahren Sie, wie Ihre Person mit Marketing-Kampagnen interagiert
 
@@ -76,7 +76,7 @@ Zeigt Ihren Kontaktverlauf an. Umfasst E-Mails, Kampagnen und Aufrufe.
 
 ![](assets/person-detail-view-5.png)
 
-**Vertriebskampagnen**
+**Verkaufskampagnen**
 
 * Alle aktiven oder abgeschlossenen Kampagnen anzeigen, zu denen diese Person gehört
 
@@ -84,11 +84,11 @@ Zeigt Ihren Kontaktverlauf an. Umfasst E-Mails, Kampagnen und Aufrufe.
 
 * Alle Marketing-Kampagnen anzeigen, denen diese Person angehört
 
-**Verkaufs-E-Mails**
+**E-Mails zum Verkauf**
 
 * Alle E-Mails anzeigen, die Sie an diese Person gesendet haben, sowie die Interaktionsmetriken
 
-**Verkaufsanrufe**
+**Verkaufsaufrufe**
 
 * Alle Anrufe anzeigen, die Sie an diese Person getätigt haben
 

@@ -13,31 +13,31 @@ ht-degree: 0%
 
 # Übersicht über die E-Mail-Vorlagenauswahl {#email-template-picker-overview}
 
-Wenn Sie [E-Mail erstellen](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md), haben Sie mehrere freie Vorlagen zur Auswahl. Sie können auch eine eigene Vorlage erstellen und für die zukünftige Verwendung speichern.
+Wenn Sie [eine E-Mail erstellen](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md), haben Sie mehrere freie Vorlagen zur Auswahl. Sie können auch eine eigene Vorlage erstellen und für die zukünftige Verwendung speichern.
 
 ![](assets/email-template-picker-overview-1.png)
 
-**Name** wird der Name der E-Mail sein, die Sie basierend auf der Vorlage erstellen, nicht die Vorlage selbst. **Beschreibung** gilt auch für die E-Mail und ist optional.
+**Name** ist der Name der E-Mail, die Sie basierend auf der Vorlage erstellen, nicht die Vorlage selbst. **Beschreibung** gilt auch für die E-Mail und ist optional.
 
 ![](assets/two-2.png)
 
-Wenn Ihre E-Mail kritisch ist und Sie die Kommunikationsbeschränkungen umgehen möchten, [Betrieb](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) durch Ankreuzen des Kästchens. **Im Editor öffnen** ist standardmäßig ausgewählt und bedeutet einfach, dass Sie sofort mit der Bearbeitung Ihrer neuen E-Mail beginnen möchten. **Erstellen** bedeutet, erstellen!
+Wenn Ihre E-Mail wichtig ist und Sie möchten, dass Kommunikationsbeschränkungen umgangen werden, aktivieren Sie das Kontrollkästchen, indem Sie [sie betriebsbereit machen](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md). **Im Editor öffnen** ist standardmäßig ausgewählt, was bedeutet, dass Sie sofort mit der Bearbeitung Ihrer neuen E-Mail beginnen möchten. **Erstellen** bedeutet, erstellen!
 
 ![](assets/three-2.png)
 
-**Startervorlagen** enthält eine Sammlung vordefinierter responsiver E-Mail-Vorlagen. Sie können sie unverändert verwenden oder nach Ihren Wünschen anpassen.
+**Startvorlagen** enthält eine Sammlung vordefinierter responsiver E-Mail-Vorlagen. Sie können sie unverändert verwenden oder nach Ihren Wünschen anpassen.
 
 ![](assets/email-template-picker-overview-4.png)
 
-**Meine Vorlagen** besteht aus allen Vorlagen, die Sie erstellt haben. Sie können auch Ordner haben.
+**Meine Vorlagen** bestehen aus allen von Ihnen erstellten Vorlagen. Sie können auch Ordner haben.
 
 ![](assets/five-2.png)
 
-Alle Ordner, die unter E-Mails > Vorlagen in Ihrer Design Studio-Struktur angezeigt werden, sind in **Meine Vorlagen**.
+Alle Ordner, die unter E-Mails > Vorlagen in Ihrer Design Studio-Struktur angezeigt werden, sind in **Meine Vorlagen** verfügbar.
 
 ![](assets/six-1.png)
 
-Um eine Vorlage in der Vorschau anzuzeigen, bewegen Sie den Mauszeiger über die Miniaturansicht und klicken Sie auf **Vorschau**. Sie können auch einfach darauf doppelklicken.
+Um eine Vorlage in der Vorschau anzuzeigen, bewegen Sie den Mauszeiger über die Miniaturansicht und klicken Sie auf **Vorschau** . Sie können auch einfach darauf doppelklicken.
 
 ![](assets/seven-1.png)
 
@@ -49,7 +49,7 @@ Die Vorschau zeigt, wie die Vorlage auf einem Desktop-Computer dargestellt wird.
 
 ![](assets/nine-1.png)
 
-Wenn Ihnen diese Vorlage gefällt, wählen Sie sie durch Klicken auf **Auswählen** unten rechts. Willst du weiter suchen? Klicken Sie auf **X** oben rechts. Verwenden Sie die Links- und Rechtspfeile, um durch Vorlagen zu blättern.
+Wenn Ihnen diese Vorlage gefällt, wählen Sie sie aus, indem Sie unten rechts auf **Auswählen** klicken. Willst du weiter suchen? Klicken Sie oben rechts auf den **X**. Verwenden Sie die Links- und Rechtspfeile, um durch Vorlagen zu blättern.
 
 ![](assets/ten-1.png)
 

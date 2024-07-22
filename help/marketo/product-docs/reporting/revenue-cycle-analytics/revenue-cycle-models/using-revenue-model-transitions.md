@@ -21,7 +21,7 @@ Wenn Sie Ihr Modell erstellen und Ihre Inventarphasen auswählen und organisiere
 
 ![](assets/one-2.png)
 
-1. Klicken Sie mit der rechten Maustaste (Sie können auch auf einen der Pfeile doppelklicken), um zu beginnen, und wählen Sie **Transition bearbeiten**.
+1. Klicken Sie mit der rechten Maustaste (Sie können auch doppelklicken) auf einen der Pfeile, um zu beginnen, und wählen Sie **Transition bearbeiten**.
 
    ![](assets/two-2.png)
 
@@ -53,7 +53,7 @@ Wenn Sie Ihr Modell erstellen und Ihre Inventarphasen auswählen und organisiere
 
    ![](assets/seven.png)
 
-1. Nachdem Sie die Regeln für alle Transitionen konfiguriert haben, klicken Sie auf **Bestätigen** zu überprüfen.
+1. Nachdem Sie die Regeln für alle Ihre Transitionen konfiguriert haben, klicken Sie zur Überprüfung auf **Validieren** .
 
    ![](assets/eight.png)
 

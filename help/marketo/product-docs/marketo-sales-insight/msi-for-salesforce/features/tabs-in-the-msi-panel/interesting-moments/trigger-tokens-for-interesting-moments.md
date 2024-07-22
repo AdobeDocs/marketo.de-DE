@@ -7,7 +7,7 @@ feature: Marketo Sales Insights
 source-git-commit: a9aa55184a7971d3c82d106481f1f83593a7dd99
 workflow-type: tm+mt
 source-wordcount: '546'
-ht-degree: 23%
+ht-degree: 33%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 23%
 
 >[!PREREQUISITES]
 >
->Erfahren Sie, wie Sie die [Interessanter Moment Flow-Schritt](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
+>Erfahren Sie, wie Sie den Schritt [Interessanter Ablauf des Moments](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) verwenden.
 
 ## Verfügbare Token {#available-tokens}
 
-Checkout [Token-Übersicht](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) um alle Token zu sehen, die Sie in einen interessanten Moment setzen können.
+Sehen Sie sich die [Token-Übersicht](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) an, um alle Token zu sehen, die Sie in einen interessanten Moment stecken können.
 
 ## Trigger-Token {#trigger-tokens}
 
@@ -67,7 +67,7 @@ Basierend auf dem in einer Smart-Kampagne verwendeten Trigger werden zusätzlich
    <th><code>{{trigger.Browser}}</code></th>
   </tr> 
   <tr> 
-   <td>Link in E-Mail angeklickt</td> 
+   <td>Klickt auf Link in E-Mail</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
@@ -243,7 +243,7 @@ Basierend auf dem in einer Smart-Kampagne verwendeten Trigger werden zusätzlich
    <th><code>{{trigger.Browser}}</code></th>
   </tr> 
   <tr> 
-   <td>Link in Verkaufs-E-Mail angeklickt</td> 
+   <td>Klickt auf Link in Verkaufs-E-Mail</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
@@ -572,7 +572,7 @@ Basierend auf dem in einer Smart-Kampagne verwendeten Trigger werden zusätzlich
    <th><code>{{trigger.Browser}}</code></th>
   </tr> 
   <tr> 
-   <td>Link in Verkaufs-E-Mail angeklickt</td> 
+   <td>Klickt auf Link in Verkaufs-E-Mail</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
@@ -711,7 +711,7 @@ Basierend auf dem in einer Smart-Kampagne verwendeten Trigger werden zusätzlich
  </tbody> 
 </table>
 
-### Dynamic Chat Trigger-Token {#dynamic-chat-trigger-tokens}
+### Dynamic Chat-Auslöser-Token {#dynamic-chat-trigger-tokens}
 
 <table>
 <thead>
@@ -740,7 +740,7 @@ Basierend auf dem in einer Smart-Kampagne verwendeten Trigger werden zusätzlich
 </thead>
 <tbody>
   <tr>
-    <td>Mit einem Dialogfeld interagieren</td>
+    <td>Hatte eine Interaktion mit einem Dialog</td>
     <td></td>
     <td></td>
     <td><img src="assets/check.png" alt="check"></td>
@@ -762,7 +762,7 @@ Basierend auf dem in einer Smart-Kampagne verwendeten Trigger werden zusätzlich
     <td></td>
   </tr>
   <tr>
-    <td>Mit einem Konversationsformular interagieren</td>
+    <td>Hatte eine Interaktion mit einem Konversationsformular</td>
     <td></td>
     <td></td>
     <td><img src="assets/check.png" alt="check"></td>
@@ -784,7 +784,7 @@ Basierend auf dem in einer Smart-Kampagne verwendeten Trigger werden zusätzlich
     <td><img src="assets/check.png" alt="check"></td>
   </tr>
   <tr>
-    <td>Interagiert mit einem Agenten im Dialogfeld</td>
+    <td>Hatte eine Interaktion mit einem Support-Mitarbeitenden per Dialog</td>
     <td><img src="assets/check.png" alt="check"></td>
     <td><img src="assets/check.png" alt="check"></td>
     <td></td>
@@ -806,7 +806,7 @@ Basierend auf dem in einer Smart-Kampagne verwendeten Trigger werden zusätzlich
     <td></td>
   </tr>
   <tr>
-    <td>Kontakt mit einem Agenten im Konversationsformular</td>
+    <td>Hatte eine Interaktion mit einem Support-Mitarbeitenden per Konversationsformular</td>
     <td><img src="assets/check.png" alt="check"></td>
     <td><img src="assets/check.png" alt="check"></td>
     <td></td>
@@ -828,7 +828,7 @@ Basierend auf dem in einer Smart-Kampagne verwendeten Trigger werden zusätzlich
     <td></td>
   </tr>
   <tr>
-    <td>Geplantes Meeting im Dialogfeld</td>
+    <td>Arrangierte ein Meeting in Dialog</td>
     <td><img src="assets/check.png" alt="check"></td>
     <td><img src="assets/check.png" alt="check"></td>
     <td></td>
@@ -850,7 +850,7 @@ Basierend auf dem in einer Smart-Kampagne verwendeten Trigger werden zusätzlich
     <td></td>
   </tr>
   <tr>
-    <td>Geplantes Treffen in Form von Gesprächen</td>
+    <td>Arrangierte ein Meeting in Konversationsformular</td>
     <td><img src="assets/check.png" alt="check"></td>
     <td><img src="assets/check.png" alt="check"></td>
     <td></td>
@@ -872,7 +872,7 @@ Basierend auf dem in einer Smart-Kampagne verwendeten Trigger werden zusätzlich
     <td></td>
   </tr>
   <tr>
-    <td>Dialogfeld-Ziel erreicht</td>
+    <td>Dialogziel erreicht</td>
     <td></td>
     <td></td>
     <td></td>
@@ -894,7 +894,7 @@ Basierend auf dem in einer Smart-Kampagne verwendeten Trigger werden zusätzlich
     <td></td>
   </tr>
   <tr>
-    <td>Erreichtes Konversationsformziel</td>
+    <td>Ziel des Konversationsformulars erreicht</td>
     <td></td>
     <td></td>
     <td></td>
@@ -916,7 +916,7 @@ Basierend auf dem in einer Smart-Kampagne verwendeten Trigger werden zusätzlich
     <td></td>
   </tr>
   <tr>
-    <td>Interagiert mit Dokument im Dialogfeld</td>
+    <td>Hatte eine Interaktion mit Dokument in Dialog</td>
     <td></td>
     <td></td>
     <td></td>
@@ -938,7 +938,7 @@ Basierend auf dem in einer Smart-Kampagne verwendeten Trigger werden zusätzlich
     <td></td>
   </tr>
   <tr>
-    <td>Interagiert mit Dokument im Konversationsformular</td>
+    <td>Hatte eine Interaktion mit Dokument in Konversationsformular</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1055,9 +1055,9 @@ Basierend auf dem in einer Smart-Kampagne verwendeten Trigger werden zusätzlich
 
 >[!NOTE]
 >
->Wenn keine Prüfung vorhanden ist ![(Häkchen)](assets/check.png) dann würde es eine leere Zeichenfolge (nichts) im interessanten Moment zurückgeben.
+>Wenn kein Häkchen ![(Häkchen)](assets/check.png) vorhanden ist, wird im interessanten Moment eine leere Zeichenfolge (nichts) zurückgegeben.
 
-&#42;Der Trigger **Besuche-Webseite** verfügt über einige zusätzliche Token:
+&#42;Der Trigger **Besuche der Webseite** verfügt über einige zusätzliche Token:
 
 * `{{trigger.Referrer}}`
 * `{{trigger.Search Engine}}`

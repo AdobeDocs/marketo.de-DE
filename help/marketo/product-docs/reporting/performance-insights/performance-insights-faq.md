@@ -6,7 +6,7 @@ exl-id: cee791c3-1845-4fca-b803-c0dc1c644549
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '1357'
+source-wordcount: '1346'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Der Erfolg ist ein Maß für die sinnvolle Interaktion in Marketo. Ziel eines Pr
 
 ## Funktioniert MPI mit jedem CRM-System? {#will-mpi-work-with-any-crm}
 
-Ja. Technisch betrachtet interagiert MPI nicht direkt mit dem CRM für die Datensynchronisation. MPI verwendet Daten, die in der Marketo Analytics-Data Warehouse gespeichert sind. Da die CRM-Synchronisation in der Lead-Management-Anwendung erfolgt, werden in allen von Marketo unterstützten CRM-Systemen, die in die Lead-Management-Anwendung integriert sind, die Daten korrekt angezeigt. Die CRM-Opportunitätsfelder müssen jedoch den Marketo-Opportunities-Feldern korrekt zugeordnet werden.
+Ja. Technisch betrachtet interagiert MPI nicht direkt mit dem CRM für die Datensynchronisation. MPI verwendet Daten, die auf der Marketo Analytics-Data Warehouse gespeichert sind. Da die CRM-Synchronisation in der Lead-Management-Anwendung erfolgt, werden in allen von Marketo unterstützten CRM-Systemen, die in die Lead-Management-Anwendung integriert sind, die Daten korrekt angezeigt. Die CRM-Opportunitätsfelder müssen jedoch den Marketo-Opportunities-Feldern korrekt zugeordnet werden.
 
 ## Ich habe keine anderen Marketing Analytics-Produkte (ARB, RCE, RCA, Programmanalyse). Wird MPI für mich arbeiten? {#i-do-not-have-any-other-marketing-analytics-products-arb-rce-rca-program-analysis-will-mpi-work-for-me}
 
@@ -39,7 +39,7 @@ Sie können die Sichtbarkeit Ihrer Programme steuern, indem Sie das Analytics-Ve
 
 >[!NOTE]
 >
->Erfahren Sie mehr über das Festlegen des Analyseverhaltens [here](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/edit-analytics-behavior-settings.md).
+>Erfahren Sie mehr über das Festlegen des Analytics-Verhaltens [hier](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/edit-analytics-behavior-settings.md).
 
 ## Ich führe eine kanalübergreifende Kampagne für einen neuen Produktstart durch. Wie kann ich die Leistung dieser Kampagne über alle Kanäle hinweg an einem Ort anzeigen? {#i-am-running-a-multi-channel-campaign-for-a-new-product-launch-how-can-i-view-the-performance-for-this-campaign-across-all-the-different-channels-in-one-place}
 
@@ -59,11 +59,11 @@ Möglicherweise fehlen Ihnen auch Chancen aufgrund der fehlenden Programmkosten 
 
 1. Einschließlich - Mit dieser Option wird sichergestellt, dass das Programm in MPI verfügbar ist, unabhängig davon, ob Sie Zeitraumkosten angegeben haben oder nicht.
 
-1. [Betrieb](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md#operational-programs) - Diese Option führt dazu, dass das Programm nicht in MPI angezeigt wird.
+1. [Operativ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md#operational-programs) - Diese Option führt dazu, dass das Programm nicht in MPI angezeigt wird.
 
 >[!NOTE]
 >
->Periodenkosten **has** für die Berichterstellung für Erfolg und neue Namen im Interaktions-Dashboard eingerichtet. In diesem Dashboard werden Daten zu den Period-Kosten verwendet, um Erfolge und neue Namen zu aggregieren. Wenn die Zeitkosten nicht eingerichtet sind, wird das Interaktions-Dashboard unabhängig von den oben genannten Analytics-Verhaltenseinstellungen nicht korrekt berichtet.
+>Period Cost **has** werden für die Berichterstellung &quot;Success&quot;und &quot;New Names&quot;im Interaktions-Dashboard eingerichtet. In diesem Dashboard werden Daten zu den Period-Kosten verwendet, um Erfolge und neue Namen zu aggregieren. Wenn die Zeitkosten nicht eingerichtet sind, wird das Interaktions-Dashboard unabhängig von den oben genannten Analytics-Verhaltenseinstellungen nicht korrekt berichtet.
 
 ## Warum vermisse ich einige Möglichkeiten in MPI? {#why-am-i-missing-some-opportunities-in-mpi}
 
@@ -78,11 +78,11 @@ Möglicherweise fehlen Ihnen auch Chancen aufgrund der fehlenden Programmkosten 
 
 ## Warum werden im Interaktions-Dashboard keine benutzerdefinierten Felder, Opportunity Type und ABM-Filter angezeigt? {#why-do-i-not-see-custom-fields-opportunity-type-and-abm-filters-on-the-engagement-dashboard}
 
-Benutzerdefinierte Felder, Opportunity-Typ und ABM-Filter sind alle Attribute, die sich auf eine Chance beziehen. Mit dem Interaktions-Dashboard können Sie Ihre Interaktion messen und Akquise leiten, unabhängig davon, ob sie einer Gelegenheit zugeordnet sind oder nicht. Da das Interaktions-Dashboard die Möglichkeiten nicht berücksichtigt, gelten benutzerdefinierte Felder, Opportunity Type und ABM Filters nicht.
+Benutzerdefinierte Felder, Opportunity-Typ und ABM-Filter sind alle Attribute, die sich auf eine Chance beziehen. Mit dem Interaktions-Dashboard können Sie Ihre Interaktion messen und Akquise leiten, unabhängig davon, ob sie mit einer Gelegenheit verbunden sind oder nicht. Da das Interaktions-Dashboard die Möglichkeiten nicht berücksichtigt, gelten benutzerdefinierte Felder, Opportunity Type und ABM Filters nicht.
 
 ## Ich möchte ein benutzerdefiniertes Feld für Salesforce-Chancen für Umsatzberichte anstelle des standardmäßigen Felds Salesforce Opportunity Amount verwenden. Ermöglicht mir MPI das? {#i-want-to-use-a-custom-salesforce-opportunity-field-for-revenue-reporting-instead-of-the-standard-salesforce-opportunity-amount-field-will-mpi-allow-me-to-do-that}
 
-Ja. [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support) kann das Feld &quot;Opportunity Amount&quot;von Marketo in ein benutzerdefiniertes Salesforce Opportunity -Feld umordnen, sofern der Feldtyp eine Währung ist. Da MPI auf das Feld Marketo Opportunity amount verweist, kann MPI die Daten aus dem neu zugeordneten benutzerdefinierten Salesforce-Feld verwenden.
+Ja. Der [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support) kann das Marketo-Feld &quot;Opportunity Amount&quot;in ein benutzerdefiniertes Salesforce Opportunity-Feld umwandeln, sofern der Feldtyp eine Währung ist. Da MPI auf das Feld Marketo Opportunity amount verweist, kann MPI die Daten aus dem neu zugeordneten benutzerdefinierten Salesforce-Feld verwenden.
 
 >[!NOTE]
 >
@@ -100,11 +100,11 @@ Mit MPI können Sie die Programmleistung von oben im Trichter bis hin zu den Aus
 
 ## Kann ich den Erfolg von kontobasierten Strategien in MPI messen? {#can-i-measure-the-success-of-account-based-strategies-in-mpi}
 
-Ja. MPI-Integration mit [MARKETO TAM](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview) um ABM-Kontolisten nahtlos in MPI abzurufen. Sie können den Filter ABM-Kontoliste verwenden, um die gewünschte ABM-Liste auszuwählen, nach der die Daten gefiltert werden sollen.
+Ja. MPI kann mit [Marketo TAM](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview) integriert werden, um ABM-Kontolisten nahtlos in MPI abzurufen. Sie können den Filter ABM-Kontoliste verwenden, um die gewünschte ABM-Liste auszuwählen, nach der die Daten gefiltert werden sollen.
 
 ## Ist die Attribution sofort verfügbar, wenn ich MPI kaufe? {#is-attribution-instantly-available-when-i-purchase-mpi}
 
-Die Marketo-Attributionsfunktionen stehen unseren Kunden beim Kauf von MPI zur Verfügung. Allerdings [ordnungsgemäße Einrichtung](/help/marketo/product-docs/reporting/performance-insights/setting-up-performance-insights.md) ist erforderlich, um sicherzustellen, dass Chancen und Programmdaten korrekt in MPI fließen.
+Die Marketo-Attributionsfunktionen stehen unseren Kunden beim Kauf von MPI zur Verfügung. Allerdings ist [ordnungsgemäßes Setup](/help/marketo/product-docs/reporting/performance-insights/setting-up-performance-insights.md) erforderlich, um sicherzustellen, dass die Chancen- und Programmdaten korrekt in MPI fließen.
 
 ## Was muss ich tun, um eine Attribution einzurichten? {#what-do-i-have-to-do-to-set-up-attribution}
 
@@ -125,7 +125,7 @@ Die Marketo-Attributionsfunktionen stehen unseren Kunden beim Kauf von MPI zur V
 
 >[!TIP]
 >
->Alle erforderlichen Einrichtungsschritte werden im Abschnitt [diesem Artikel](/help/marketo/product-docs/reporting/performance-insights/setting-up-performance-insights.md).
+>Alle erforderlichen Einrichtungsschritte werden in [diesem Artikel](/help/marketo/product-docs/reporting/performance-insights/setting-up-performance-insights.md) beschrieben.
 
 ## Was ist der Unterschied zwischen MPI und dem Programm Analyzer? {#whats-the-difference-between-mpi-and-the-program-analyzer}
 

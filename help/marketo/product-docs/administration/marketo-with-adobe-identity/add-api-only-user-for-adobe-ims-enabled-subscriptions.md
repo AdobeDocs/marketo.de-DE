@@ -12,19 +12,19 @@ ht-degree: 0%
 
 # Hinzufügen eines reinen API-Benutzers für Adobe IMS-aktivierte Abonnements {#add-api-only-user-for-adobe-ims-enabled-subscriptions}
 
-Während Marketo Engage Marketing-Benutzer und -Administratoren in Adobe Admin Console verwaltet werden, müssen in Marketo Engage nur Marketo Engage-API-Benutzer erstellt und verwaltet werden.
+Während Marketo Engage Marketing-Benutzer und -Administratoren in Adobe Admin Console verwaltet werden, müssen Marketo Engage-API-Nur-Benutzer unter Marketo Engage erstellt und verwaltet werden.
 
-In den folgenden Schritten wird beschrieben, wie Sie in Marketo Engage einen Nur-API-Benutzer hinzufügen. Bevor Sie dies tun, müssen Sie [hat nur eine API-Rolle erstellt](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md).
+In den folgenden Schritten wird beschrieben, wie Sie einen Nur-API-Benutzer in Marketo Engage hinzufügen. Dazu müssen Sie zunächst [eine Nur-API-Rolle ](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md) eingerichtet haben.
 
-1. Klicken Sie in Marketo auf **[!UICONTROL Admin]** und wählen **[!UICONTROL Benutzer und Rollen]**.
+1. Klicken Sie in Marketo auf **[!UICONTROL Admin]** und wählen Sie **[!UICONTROL Benutzer und Rollen]** aus.
 
    ![](assets/add-api-only-user-for-adobe-ims-1.png)
 
-1. Klicks **[!UICONTROL Nur API-Benutzer erstellen]**.
+1. Klicken Sie auf **[!UICONTROL Nur API-Benutzer erstellen]**.
 
    ![](assets/add-api-only-user-for-adobe-ims-2.png)
 
-1. Geben Sie eine [!UICONTROL Email], [!UICONTROL Vorname], und [!UICONTROL Nachname] nur für den API-Benutzer. Wählen Sie die [!UICONTROL Nur API] Rolle, die Sie dem Benutzer zuweisen möchten. Klicks **[!UICONTROL Nur API-Benutzer erstellen]** wann geschehen.
+1. Geben Sie eine [!UICONTROL E-Mail], einen [!UICONTROL Vornamen] und einen [!UICONTROL Nachnamen] für den reinen API-Benutzer ein. Wählen Sie die Rolle [!UICONTROL Nur API] aus, die Sie dem Benutzer zuweisen möchten. Klicken Sie abschließend auf **[!UICONTROL Nur API-Benutzer erstellen]** .
 
    ![](assets/add-api-only-user-for-adobe-ims-3.png)
 

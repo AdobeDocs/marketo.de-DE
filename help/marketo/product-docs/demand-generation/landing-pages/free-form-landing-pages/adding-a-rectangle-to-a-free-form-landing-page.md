@@ -23,15 +23,15 @@ Rechtecke auf Landingpages eignen sich hervorragend zum Hervorheben eines Textbe
    >
    >Der Landingpage-Designer für Formulare wird in einem neuen Fenster geöffnet.
 
-1. Ziehen Sie über die **Rechteck** -Element.
+1. Ziehen Sie über das Element **Rechteck**.
 
    ![](assets/image2015-5-21-14-3a48-3a45.png)
 
-1. Wählen Sie Ihr Rechteck aus und verwenden Sie die **Eigenschaftenblatt** , um alle erforderlichen Änderungen vorzunehmen.
+1. Wählen Sie Ihr Rechteck aus und verwenden Sie das **Eigenschaftenblatt**, um erforderliche Änderungen vorzunehmen.
 
    >[!TIP]
    >
-   >Sie können das Rechteck durch Ziehen und Ablegen verschieben und seine Größe ändern. Versuchen Sie auch die Pfeile auf der Tastatur! Hinweis: Drücken Sie die Umschalt-Taste, um das Rechteck jeweils um 10 Pixel zu verschieben.
+   >Sie können das Rechteck durch Ziehen und Ablegen verschieben und seine Größe ändern. Versuchen Sie auch die Pfeile auf der Tastatur! Tipp: Drücken Sie die Umschalt-Taste, um das Rechteck 10px gleichzeitig zu verschieben.
 
    ![](assets/image2015-5-21-14-3a50-3a24.png)
 

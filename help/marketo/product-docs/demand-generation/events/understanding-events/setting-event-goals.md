@@ -24,21 +24,21 @@ Geben Sie Ihren Ereignissen spezifische Ziele und sehen Sie, wie sie funktionier
 
    ![](assets/setting-event-goals-1.png)
 
-1. Wählen Sie die [!UICONTROL Kampagnenordner], geben Sie Ihrem Ereignis eine [!UICONTROL Name], wählen Sie die [!UICONTROL Programmtyp] und [!UICONTROL Kanal]. Klicks **[!UICONTROL Erstellen]** wann geschehen.
+1. Wählen Sie den Ordner [!UICONTROL Kampagne] aus, geben Sie Ihrem Ereignis den Namen [!UICONTROL 3}, wählen Sie den [!UICONTROL Programmtyp] und den Kanal [!UICONTROL  aus. ]] Klicken Sie abschließend auf **[!UICONTROL Erstellen]** .
 
    ![](assets/setting-event-goals-2.png)
 
-1. Klicken Sie in Ihrem Ereignis auf die **[!UICONTROL Berichte]** Registerkarte.
+1. Klicken Sie in Ihrem Ereignis auf die Registerkarte **[!UICONTROL Berichte]** .
 
    ![](assets/setting-event-goals-3.png)
 
-1. Geben Sie das Ziel für [!UICONTROL Angemeldet] durch Klicken auf **[!UICONTROL Festlegen eines Ziels]**. Geben Sie die Zahl in ein und drücken Sie die Eingabetaste.
+1. Geben Sie das Ziel für [!UICONTROL Registriert] ein, indem Sie auf **[!UICONTROL Ziel festlegen]** klicken. Geben Sie die Zahl in ein und drücken Sie die Eingabetaste.
 
    ![](assets/setting-event-goals-4.png)
 
    ![](assets/setting-event-goals-5.png)
 
-1. Wiederholen Sie dieselben Schritte für [!UICONTROL Angemeldet].
+1. Wiederholen Sie die gleichen Schritte für [!UICONTROL Geteilt].
 
    ![](assets/setting-event-goals-6.png)
 
@@ -46,4 +46,4 @@ Geben Sie Ihren Ereignissen spezifische Ziele und sehen Sie, wie sie funktionier
 >
 >Sie können für ein Ereignis nach dem Start keine Ziele festlegen.
 
-Und das ist es! Überprüfen Sie den Status Ihres Ereignisziels, indem Sie auf [!UICONTROL Berichte] Registerkarte.
+Und das ist es! Überprüfen Sie den Status Ihres Ereignisziels durch Klicken auf die Registerkarte [!UICONTROL Berichte] .

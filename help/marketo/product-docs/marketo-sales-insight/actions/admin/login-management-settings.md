@@ -16,25 +16,25 @@ Mit den Anmeldeverwaltungseinstellungen können Administratoren die Authentifizi
 
 >[!NOTE]
 >
->Standardmäßig ist die Option Nur Salesforce für Instanzen von Sales Insight-Aktionen ausgewählt. Wir empfehlen diese Einstellung, damit Benutzer [automatische Anmeldung](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md) von Salesforce.
+>Standardmäßig ist die Option Nur Salesforce für Instanzen von Sales Insight-Aktionen ausgewählt. Wir empfehlen diese Einstellung, damit Benutzer sich [automatisch anmelden](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md) von Salesforce aus anmelden können.
 
 ## Aktualisieren der Anmeldeverwaltungseinstellungen {#update-login-management-settings}
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Erforderliche Administratorberechtigungen**
 
 Gehen Sie wie folgt vor, um Ihre Anmeldeverwaltungseinstellungen zu aktualisieren.
 
-1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen**.
+1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
 
    ![](assets/login-management-settings-1.png)
 
-1. Klicken Sie unter &quot;Admin Settings&quot;auf **Allgemein**.
+1. Klicken Sie unter &quot;Admin Settings&quot;auf **General**.
 
    ![](assets/login-management-settings-2.png)
 
-1. Scrollen Sie nach unten zur Karte Anmeldeverwaltung und wählen Sie die gewünschte Einstellung aus (in diesem Beispiel wählen wir nur Salesforce aus). Klicks **Speichern** wann geschehen.
+1. Scrollen Sie nach unten zur Karte Anmeldeverwaltung und wählen Sie die gewünschte Einstellung aus (in diesem Beispiel wählen wir nur Salesforce aus). Klicken Sie auf **Speichern**, wenn Sie fertig sind.
 
    ![](assets/login-management-settings-3.png)
 
@@ -44,7 +44,7 @@ Salesforce bedeutet nur, dass Benutzer sich nur für die Verwendung von Sales In
 
 ### Wie aktiviert ein neuer Benutzer in meiner Instanz sein Konto, wenn &quot;Nur Salesforce&quot;ausgewählt ist? {#activate-when-salesforce-only-is-selected}
 
-Beim Klicken auf **Erste Schritte** in der Einladungs-E-Mail werden neue Benutzer an einen Bildschirm zur Kontoaktivierung gesendet, auf dem sie ihre Salesforce-Instanz verbinden müssen, um ihr Konto für Einblicke in Verkaufsaktionen zu aktivieren.
+Wenn Sie in der Einladungs-E-Mail auf die Schaltfläche **Erste Schritte** klicken, werden neue Benutzer an einen Bildschirm zur Kontoaktivierung gesendet, auf dem sie ihre Salesforce-Instanz verbinden müssen, um ihr Konto für Einblicke in Verkäufe zu aktivieren.
 
 ![](assets/login-management-settings-4.png)
 
@@ -54,13 +54,13 @@ Beim Navigieren zu unserem Anmeldebildschirm geben Benutzer zunächst ihre E-Mai
 
 >[!NOTE]
 >
->Dies gilt nur für Benutzer, die direkt zum Anmeldebildschirm navigieren. Benutzer, die über Salesforce auf Aktionen zugreifen, werden bei [Automatische Anmeldung](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md).
+>Dies gilt nur für Benutzer, die direkt zum Anmeldebildschirm navigieren. Benutzer, die über Salesforce auf Aktionen zugreifen, werden mit [automatischer Anmeldung](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md) angemeldet.
 
 ![](assets/login-management-settings-5.png)
 
 ### Wie wird die Benutzerauthentifizierung für Aktionen gehandhabt, wenn ein Benutzer über Salesforce auf eine Aktionsfunktion zugreift und &quot;Nur Salesforce&quot;ausgewählt ist? {#how-is-user-authentication-handled}
 
-Wenn ein Benutzer auf eine der Aktionen klickt (Aufruf, E-Mail, Kampagne, Aufgaben, Kampagnenliste usw.), verwenden wir seine SFDC-Authentifizierung, um ihn automatisch bei seinem Konto für Einblicke in Verkaufsaktionen zu melden. Wir nennen diese Authentifizierung [Automatische Anmeldung](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md).
+Wenn ein Benutzer auf eine der Aktionen klickt (Aufruf, E-Mail, Kampagne, Aufgaben, Kampagnenliste usw.), verwenden wir seine SFDC-Authentifizierung, um ihn automatisch bei seinem Konto für Einblicke in Verkaufsaktionen zu melden. Diese Authentifizierung wird als [automatische Anmeldung](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md) bezeichnet.
 
 ## Häufig gestellte Fragen zu allen Anmeldemethoden {#all-login-methods-faq}
 

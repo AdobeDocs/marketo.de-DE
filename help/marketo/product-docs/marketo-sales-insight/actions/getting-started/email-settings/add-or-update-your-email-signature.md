@@ -14,15 +14,15 @@ ht-degree: 0%
 
 Wir möchten, dass E-Mails von Marketo Sales per E-Mail versendet werden, damit sie sich beim Versand von Ihrem eigenen E-Mail-Kunden als nahtlos fühlen. Eine großartige Möglichkeit ist es, Ihre E-Mail-Signatur hinzuzufügen.
 
-1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen**.
+1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
 
    ![](assets/add-or-update-your-email-signature-1.png)
 
-1. Wählen Sie unter Mein Konto die Option **E-Mail-Einstellungen**.
+1. Wählen Sie unter Mein Konto die Option **E-Mail-Einstellungen** aus.
 
    ![](assets/add-or-update-your-email-signature-2.png)
 
-1. Im **Adresse und Unterschrift** wählen Sie die E-Mail-Identität aus, für die Sie eine Signatur erstellen möchten.
+1. Wählen Sie auf der Registerkarte **Adresse und Signatur** die E-Mail-Identität aus, für die Sie eine Signatur erstellen möchten.
 
    ![](assets/add-or-update-your-email-signature-3.png)
 

@@ -7,7 +7,7 @@ feature: Forms
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '189'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Befolgen Sie diese Anweisungen, um das Feld &quot;Land&quot;in eine Dropdown-Liste mit einer Liste aller Länder zu konvertieren.
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Wechseln Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities-9.png)
 
@@ -23,23 +23,23 @@ Befolgen Sie diese Anweisungen, um das Feld &quot;Land&quot;in eine Dropdown-Lis
 
    ![](assets/editform-1.png)
 
-1. Klicken Sie auf **+** signieren.
+1. Klicken Sie auf das Zeichen **+**.
 
    ![](assets/image2014-9-15-15-3a33-3a7.png)
 
-1. Suchen und Auswählen **Land**.
+1. Suchen und wählen Sie **Land** aus.
 
    ![](assets/image2014-9-15-15-3a33-3a15.png)
 
-1. Mit dem **Land** das ausgewählte Feld ändern **Feldtyp** nach **Auswählen**.
+1. Ändern Sie bei ausgewähltem Feld **Land** den Feldtyp **3} in** Auswählen **.**
 
    ![](assets/image2014-9-15-15-3a33-3a21.png)
 
-1. **Bearbeiten** die **Werte** , um die Liste der Länder hinzuzufügen, aus denen Benutzer auswählen können.
+1. **Bearbeiten** Sie die **Werte**, um die Liste der Länder hinzuzufügen, aus denen Benutzer wählen können.
 
    ![](assets/image2014-9-15-15-3a33-3a40.png)
 
-1. Klicken **Erweitert** **Editor**.
+1. Klicken Sie auf **Erweitert** **Bearbeiter**.
 
    ![](assets/image2014-9-15-15-3a34-3a1.png)
 
@@ -57,19 +57,19 @@ Befolgen Sie diese Anweisungen, um das Feld &quot;Land&quot;in eine Dropdown-Lis
    >
    >Sie können die Liste bearbeiten oder eine andere Liste verwenden.
 
-1. Klicken **Speichern**.
+1. Klicken Sie auf **Speichern**.
 
    ![](assets/image2014-9-15-15-3a35-3a3.png)
 
-1. Klicken **Beenden**.
+1. Klicken Sie auf **Beenden**.
 
    ![](assets/image2014-9-15-15-3a35-3a20.png)
 
-1. Klicken **Genehmigen und schließen**.
+1. Klicken Sie auf **Genehmigen und schließen**.
 
    ![](assets/image2014-9-15-15-3a35-3a36.png)
 
-   Gut gemacht! Wenn nun eine Person Ihr Formular ausfüllt, kann sie aus der Liste der von Ihnen angegebenen Länder auswählen.
+   Schön gemacht! Wenn nun eine Person Ihr Formular ausfüllt, kann sie aus der Liste der von Ihnen angegebenen Länder auswählen.
 
    ![](assets/image2014-9-15-15-3a35-3a43.png)
 
@@ -77,4 +77,4 @@ Da das so einfach war, warum nicht mehr tun? Wie wäre es, wenn das Feld &quot;B
 
 >[!MORELIKETHIS]
 >
->[Dynamisches Umschalten der Sichtbarkeit eines Formularfelds](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md)
+>[ Dynamisches Umschalten der Sichtbarkeit eines Formularfelds](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md)

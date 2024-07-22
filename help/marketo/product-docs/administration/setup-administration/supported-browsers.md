@@ -6,8 +6,8 @@ exl-id: 58c35407-ddc5-4932-9853-aeb4d47bab7f
 feature: Administration, Getting Started
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '50'
-ht-degree: 2%
+source-wordcount: '35'
+ht-degree: 8%
 
 ---
 
@@ -22,4 +22,4 @@ Marketo unterstützt derzeit die folgenden Browser:
 | [[!DNL Apple Safari]](https://www.apple.com/safari/){target="_blank"} | latest |
 | [[!DNL Microsoft Edge]](https://www.microsoft.com/en-us/windows/microsoft-edge){target="_blank"} | latest |
 
-Für das beste Erlebnis: **Browser aktualisieren**!
+Um das beste Erlebnis zu erzielen, halten Sie Ihren Browser auf dem neuesten Stand **!**

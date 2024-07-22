@@ -15,19 +15,19 @@ ht-degree: 0%
 
 Marketo Engage benötigt die Organisationsdienst-URL, um mit MD-Instanzen zu synchronisieren. Hier erfahren Sie, wie Sie ihn in Dynamics finden.
 
-1. Anmelden bei [!DNL Dynamics]. Klicken Sie auf das Symbol Einstellungen und wählen Sie **[!UICONTROL Erweiterte Einstellungen]**.
+1. Melden Sie sich bei [!DNL Dynamics] an. Klicken Sie auf das Symbol Einstellungen und wählen Sie **[!UICONTROL Erweiterte Einstellungen]** aus.
 
    ![](assets/one.png)
 
-1. Klicks **[!UICONTROL Einstellungen]** und wählen **[!UICONTROL Anpassungen]**.
+1. Klicken Sie auf **[!UICONTROL Einstellungen]** und wählen Sie **[!UICONTROL Anpassungen]** aus.
 
    ![](assets/two.png)
 
-1. Klicks **[!UICONTROL Entwicklungsressourcen]**.
+1. Klicken Sie auf **[!UICONTROL Entwicklungsressourcen]**.
 
    ![](assets/three.png)
 
-1. Die Organisationsdienst-URL finden Sie unter **[!UICONTROL Dienstendpunkte]**.
+1. Die Organisationsdienst-URL befindet sich unter **[!UICONTROL Dienstendpunkte]**.
 
    ![](assets/four.png)
 

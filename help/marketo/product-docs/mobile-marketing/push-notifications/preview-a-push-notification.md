@@ -23,11 +23,11 @@ Klicken Sie in der Navigationsstruktur mit der rechten Maustaste auf die Datei f
 
 ![](assets/image2015-9-4-9-3a52-3a27.png)
 
-Oder klicken Sie auf der Seite mit der Ansicht &quot;Push Notification&quot;auf **Push-Benachrichtigungsaktionen** und dann **Vorschau**. Oder klicken Sie auf **Vorschau** ganz rechts.
+Oder klicken Sie auf der Seite mit der Ansicht &quot;Push Notification&quot;auf **Push Notifications Actions** und dann auf **Preview**. Oder klicken Sie ganz rechts auf **Vorschau** .
 
 ![](assets/image2015-9-4-10-3a53-3a28.png)
 
-Schließlich können Sie im Editor auf die **Vorschau des Entwurfs** in der oberen rechten Ecke der Benachrichtigung angezeigt.
+Schließlich können Sie im Editor auf die Registerkarte **Vorschau des Entwurfs anzeigen** oben rechts klicken, während Sie an der Benachrichtigung arbeiten.
 
 ![](assets/image2015-9-14-15-3a55-3a26.png)
 
@@ -45,7 +45,7 @@ Auf dem Bildschirm &quot;Sperren&quot;wird es unter der Zeit teilweise nach oben
 
 >[!NOTE]
 >
->In Android gibt es keine Ansicht des Benachrichtigungszentrums.
+>Es gibt keine Ansicht des Benachrichtigungszentrums in Android.
 
 ## iOS-Vorschau {#ios-previews}
 

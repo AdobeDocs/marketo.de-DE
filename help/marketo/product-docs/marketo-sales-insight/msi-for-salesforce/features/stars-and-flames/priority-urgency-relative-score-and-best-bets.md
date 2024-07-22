@@ -6,14 +6,14 @@ exl-id: 391aae00-e4f5-4fb1-8728-f5224276dfc2
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '452'
-ht-degree: 3%
+source-wordcount: '454'
+ht-degree: 1%
 
 ---
 
 # Priorität, Dringlichkeit, relatives Ergebnis und beste Beta {#priority-urgency-relative-score-and-best-bets}
 
-Marketo Sales Insight wählt für Sie die besten Leads und Kontakte entsprechend der Priorität aus. Die Priorität eines Leads oder Kontakts besteht aus zwei Komponenten: Dringlichkeit und relatives Ergebnis.
+Marketo Sales Insight wählt Ihre besten Leads und Kontakte nach Priorität aus. Die Priorität eines Leads oder Kontakts besteht aus zwei Komponenten: Dringlichkeit und relatives Ergebnis.
 
 ![](assets/priority-urgency-relative-score-and-best-bets-1.png)
 
@@ -43,7 +43,7 @@ Ihre besten Wetten sind Ihre Leads und Kontakte mit höchster Dringlichkeit und 
 
 >[!NOTE]
 >
->Wenn Ihre besten Wetten nicht mit den besten Leads und Kontakten übereinstimmen, die Sie besitzen, sprechen Sie mit einer Person in Ihrem Unternehmen, die Zugriff auf Marketo hat, über die Aktualisierung Ihrer [Bewertungsregeln](/help/marketo/getting-started/quick-wins/simple-scoring.md).
+>Wenn Ihre besten Wetten nicht mit den besten Leads und Kontakten übereinstimmen, die Sie besitzen, sprechen Sie mit einer Person in Ihrem Unternehmen, die Zugriff auf Marketo hat, über die Aktualisierung Ihrer [Scoring-Regeln](/help/marketo/getting-started/quick-wins/simple-scoring.md).
 
 ### Berechnung von Dringlichkeit und relativer Punktzahl
 

@@ -15,19 +15,19 @@ ht-degree: 0%
 
 Das Aktivitätsprotokoll ist die ultimative Quelle der Wahrheit. Das ist die komplette Geschichte des Journey einer Person im Marketo Engage.
 
-1. Navigieren Sie zu **[!UICONTROL Datenbank]**.
+1. Wechseln Sie zur **[!UICONTROL Datenbank]**.
 
    ![](assets/locate-the-activity-log-for-a-person-1.png)
 
-1. Auswählen **[!UICONTROL Alle Personen]**.
+1. Wählen Sie **[!UICONTROL Alle Personen]** aus.
 
    ![](assets/locate-the-activity-log-for-a-person-2.png)
 
-1. Klicken Sie auf **[!UICONTROL Personen]** Registerkarte. Person auswählen **[!UICONTROL ID]** Zahl.
+1. Klicken Sie auf die Registerkarte **[!UICONTROL Personen]**. Wählen Sie eine Personennummer **[!UICONTROL ID]** aus.
 
    ![](assets/locate-the-activity-log-for-a-person-3.png)
 
-1. Klicks **[!UICONTROL Aktivitätsprotokoll]**.
+1. Klicken Sie auf **[!UICONTROL Aktivitätsprotokoll]**.
 
    ![](assets/locate-the-activity-log-for-a-person-4.png)
 
@@ -49,4 +49,4 @@ Sie müssen das Aktivitätsprotokoll einer Person in Excel exportieren?
 
    >[!MORELIKETHIS]
    >
-   >Weitere Informationen [Filtern des Aktivitätsprotokolls](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md){target="_blank"} , um bestimmte Personenaktivitäten anzuzeigen.
+   >Erfahren Sie mehr über das Filtern des Aktivitätsprotokolls ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md){target="_blank"}, um bestimmte Personaktivitäten anzuzeigen.[

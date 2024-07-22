@@ -1,5 +1,5 @@
 ---
-description: Stream Designer - Marketo-Dokumente - Produktdokumentation
+description: Stream Designer - Marketo Docs - Produktdokumentation
 title: Entwerferin bzw. Entwerfer des Streams
 hide: true
 hidefromtoc: true
@@ -13,15 +13,15 @@ ht-degree: 2%
 
 # Entwerferin bzw. Entwerfer des Streams {#stream-designer}
 
-Es gibt _many_ Stream-Kombinationen möglich. Dieser Artikel enthält ein Beispiel, in dem der Marketing-Experte den Site-Besucher fragt, ob er Produktfragen hat. Falls ja, kann der Besucher einen Termin planen. Ist dies nicht der Fall, erhält der Besucher die Möglichkeit, sich einer Mailingliste für die künftige Korrespondenz anzuschließen. Ihnen wird auch eine kostenlose PDF angeboten. Das ultimative Ziel besteht darin, entweder einen Termin zu planen oder die E-Mail-Adresse des Besuchers zu erfassen.
+Es sind _viele_ Stream-Kombinationen möglich. Dieser Artikel enthält ein Beispiel, in dem der Marketing-Experte den Site-Besucher fragt, ob er Produktfragen hat. Falls ja, kann der Besucher einen Termin planen. Ist dies nicht der Fall, erhält der Besucher die Möglichkeit, sich einer Mailingliste für die künftige Korrespondenz anzuschließen. Ihnen wird auch eine kostenlose PDF angeboten. Das ultimative Ziel besteht darin, entweder einen Termin zu planen oder die E-Mail-Adresse des Besuchers zu erfassen.
 
 >[!PREREQUISITES]
 >
->Bevor Sie die Dokumentkarte verwenden können, müssen Sie zunächst [einrichten](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md){target="_blank"} in Ihrem Adobe-Konto.
+>Bevor Sie die Dokumentkarte verwenden können, müssen Sie sie zunächst [in Ihrem Adobe-Konto einrichten](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md){target="_blank"}.
 
 ## Designer-Karten streamen {#stream-designer-cards}
 
-Der Stream-Designer enthält mehrere Karten, die Sie hinzufügen können, um die Chat-Konversation zu gestalten.
+Der Stream Designer enthält mehrere Karten, die Sie hinzufügen können, um die Chat-Konversation zu gestalten.
 
 <table>
  <tr>
@@ -43,7 +43,7 @@ Der Stream-Designer enthält mehrere Karten, die Sie hinzufügen können, um die
  </tr>
  <tr>
   <td style="width:25%"><strong>Konferenzbuchung</strong></td>
-  <td>Bietet dem Besucher einen Kalender der verfügbaren Daten, um ein Meeting zu planen. Wählen Sie die Kalenderverfügbarkeit über Round Robin, einen bestimmten Agenten oder mithilfe benutzerdefinierter Regeln. Klicks <b>Attribut hinzufügen</b> wenn Sie den Namen oder die E-Mail-Adresse des Agenten erfassen und ihn zum Personendatensatz des Chat-Besuchers für zukünftige Abfragen zuweisen möchten (Tipp: Erstellen Sie eine <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">Benutzerdefiniertes Feld</a> , um die Agenteninformationen so zuzuordnen, dass ein standardmäßiges Marketo Engage-Feld nicht überschrieben wird).</td>
+  <td>Bietet dem Besucher einen Kalender der verfügbaren Daten, um ein Meeting zu planen. Wählen Sie die Kalenderverfügbarkeit über Round Robin, einen bestimmten Agenten oder mithilfe benutzerdefinierter Regeln. Klicken Sie auf <b>Attribut hinzufügen</b> , wenn Sie den Namen oder die E-Mail-Adresse des Agenten erfassen und ihn dem personenbezogenen Datensatz des Chat-Besuchers für die zukünftige Abfrage zuweisen möchten (Tipp: Erstellen Sie ein <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">benutzerdefiniertes Feld</a>, um die Informationen des Agenten so zuzuordnen, dass kein standardmäßiges Marketo Engage-Feld überschrieben wird).</td>
  </tr>
  <tr>
   <td style="width:25%"><strong>Ziel</strong></td>
@@ -51,7 +51,7 @@ Der Stream-Designer enthält mehrere Karten, die Sie hinzufügen können, um die
  </tr>
  <tr>
   <td style="width:25%"><strong>Aktion*</strong></td>
-  <td>Ähnlich wie ausgeblendete Felder in einem Formular können Sie mit der Aktionskarte jedes Lead- oder Firmenattribut (mit einer <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">Zeichenfolgen-Datentyp</a>) mit impliziten Werten, die Sie mit einem Lead-Datensatz erfassen möchten. Sie können die Aktionskarte jederzeit in der Konversation hinzufügen und die entsprechenden Attribute mit einem Wert oder nativen Token aktualisieren, die den entsprechenden Wert automatisch ausfüllen.
+  <td>Ähnlich wie ausgeblendete Felder in einem Formular können Sie mit der Aktionskarte jedes Lead- oder Firmenattribut (das einen <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">String-Datentyp</a> aufweist) mit impliziten Werten füllen, die Sie mit einem Lead-Datensatz erfassen möchten. Sie können die Aktionskarte jederzeit in der Konversation hinzufügen und die entsprechenden Attribute mit einem Wert oder nativen Token aktualisieren, die den entsprechenden Wert automatisch ausfüllen.
   <p><i>* Die Aktionskarte erfordert Dynamic Chat Prime. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).</i></td>
  </tr>
  <tr>
@@ -62,9 +62,9 @@ Der Stream-Designer enthält mehrere Karten, die Sie hinzufügen können, um die
  </tr>
 </table>
 
-## Stream-Designer-Symbole {#stream-designer-icons}
+## Designer-Symbole streamen {#stream-designer-icons}
 
-In der rechten oberen Ecke des Stream-Designers sehen Sie eine Handvoll Symbole. Hier ist, was sie tun.
+In der rechten oberen Ecke des Stream-Designer sehen Sie eine Handvoll Symbole. Hier ist, was sie tun.
 
 <table>
  <tr>
@@ -91,17 +91,17 @@ In der rechten oberen Ecke des Stream-Designers sehen Sie eine Handvoll Symbole.
 
 ## Erstellen eines Streams {#create-a-stream}
 
-Sie können Streams für Dialogfelder erstellen oder [Conversation Forms](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}. In diesem Beispiel erstellen wir einen für einen Dialog.
+Sie können Streams für Dialoge oder [Konversations-Forms](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"} erstellen. In diesem Beispiel erstellen wir einen für einen Dialog.
 
-1. Nachdem Sie [Dialogfeld erstellt](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}, klicken Sie auf die **[!UICONTROL Stream-Designer]** Registerkarte.
+1. Nachdem Sie [Ihr Dialogfeld](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"} erstellt haben, klicken Sie auf die Registerkarte **[!UICONTROL Stream-Designer]** .
 
    ![](assets/stream-designer-6.png)
 
-1. Ziehen Sie die [!UICONTROL Frage] Karte.
+1. Ziehen Sie die Karte [!UICONTROL Frage] in den Arbeitsbereich.
 
    ![](assets/stream-designer-7.png)
 
-1. under [!UICONTROL Chatbot-Antwort], schreiben Sie Ihre Frage, wie Sie möchten.
+1. Schreiben Sie unter [!UICONTROL Chatbot-Antwort] Ihre Frage, wie Sie möchten.
 
    ![](assets/stream-designer-8.png)
 
@@ -119,7 +119,7 @@ Sie können Streams für Dialogfelder erstellen oder [Conversation Forms](/help/
 
    >[!NOTE]
    >
-   >**[!UICONTROL Gespeicherte Werte bearbeiten]** ist ein optionaler Schritt für diejenigen, die einen anderen Wert in der Datenbank speichern möchten als das, was Besuchern im Chat-Bot für zugeordnete Attribute in der Fragekarte angezeigt wird (z. B.: Besucher sieht &quot;Suchmaschinenoptimierung&quot;, speichern Sie diesen Wert als &quot;SEO&quot;).
+   >**[!UICONTROL Gespeicherte Werte bearbeiten]** ist ein optionaler Schritt für diejenigen, die einen anderen Wert in der Datenbank speichern möchten als der, der Besuchern im Chat-Bot für zugeordnete Attribute in der Fragenkarte angezeigt wird (z. B.: Besucher sehen &quot;Suchmaschinenoptimierung&quot;, Sie speichern diesen Wert als &quot;SEO&quot;).
 
 1. Für &quot;Ja&quot; möchten wir einen Termin planen. Ziehen Sie daher unterhalb dieser Option über die Karte Terminplaner .
 
@@ -129,15 +129,15 @@ Sie können Streams für Dialogfelder erstellen oder [Conversation Forms](/help/
 
    ![](assets/stream-designer-11.png)
 
-1. Da dies ein Ziel ist, ziehen Sie die [!UICONTROL Ziel] unter dem Terminplaner.
+1. Da dies ein Ziel ist, ziehen Sie die Karte [!UICONTROL Ziel] unter die Terminplaner.
 
    ![](assets/stream-designer-12.png)
 
-1. Benennen Sie Ihr Ziel (oder wählen Sie ein vorhandenes aus) und klicken Sie auf **[!UICONTROL Speichern]**.
+1. Benennen Sie Ihr Ziel (oder wählen Sie ein vorhandenes Ziel aus) und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/stream-designer-13.png)
 
-1. Für &quot;Nein&quot; möchten wir sehen, ob sie der Mailingliste beitreten, also unterhalb dieser Option ziehen Sie über eine andere [!UICONTROL Frage] Karte.
+1. Für &quot;Nein&quot; möchten wir sehen, ob sie der Mailingliste beitreten, also ziehen Sie unterhalb dieser Option eine weitere [!UICONTROL Frage] -Karte.
 
    ![](assets/stream-designer-14.png)
 
@@ -147,17 +147,17 @@ Sie können Streams für Dialogfelder erstellen oder [Conversation Forms](/help/
 
    >[!NOTE]
    >
-   >Sie können weitere Antworten hinzufügen, indem Sie **[!UICONTROL Antwort hinzufügen]**.
+   >Sie können weitere Antworten hinzufügen, indem Sie auf **[!UICONTROL Antwort hinzufügen]** klicken.
 
 1. Ziehen Sie unter der Antwort &quot;Ja&quot;über die Karte &quot;Informationserfassung&quot;, damit Sie die E-Mail des Besuchers erfassen können.
 
    ![](assets/stream-designer-16.png)
 
-1. Klicken Sie auf **[!UICONTROL Typ]** und wählen Sie **[!UICONTROL Email]**.
+1. Klicken Sie auf das Dropdown-Menü **[!UICONTROL Typ]** und wählen Sie **[!UICONTROL E-Mail]** aus.
 
    ![](assets/stream-designer-17.png)
 
-1. Geben Sie eine Chat-Bot-Nachricht und einen Platzhalter ein. Stellen Sie sicher, dass das Attribut dem entsprechenden Feld in der Marketo Engage zugeordnet ist, und klicken Sie auf **[!UICONTROL Speichern]**.
+1. Geben Sie eine Chat-Bot-Nachricht und einen Platzhalter ein. Stellen Sie sicher, dass das Attribut dem entsprechenden Feld in Marketo Engage zugeordnet ist, und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/stream-designer-18.png)
 
@@ -180,11 +180,11 @@ Sie können Streams für Dialogfelder erstellen oder [Conversation Forms](/help/
     </tr>
    </table>
 
-1. Da die Erfassung ihrer E-Mail ein Ziel ist, ziehen Sie die [!UICONTROL Ziel] Karte unter &quot;Info Capture&quot;angezeigt.
+1. Da das Sammeln ihrer E-Mail ein Ziel ist, ziehen Sie die Karte [!UICONTROL Ziel] unter &quot;Informationserfassung&quot;.
 
    ![](assets/stream-designer-19.png)
 
-1. Benennen Sie Ihr Ziel (oder wählen Sie ein vorhandenes aus) und klicken Sie auf **[!UICONTROL Speichern]**.
+1. Benennen Sie Ihr Ziel (oder wählen Sie ein vorhandenes Ziel aus) und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/stream-designer-20.png)
 
@@ -196,17 +196,17 @@ Sie können Streams für Dialogfelder erstellen oder [Conversation Forms](/help/
 
    ![](assets/stream-designer-22.png)
 
-1. Wählen Sie die **[!UICONTROL Vorschau]** Umschalten auf Vorschau des Dialogfelds.
+1. Wählen Sie den Umschalter **[!UICONTROL Vorschau]** aus, um das Dialogfeld in der Vorschau anzuzeigen.
 
    ![](assets/stream-designer-23.png)
 
-1. Wenn Sie bereit sind, Ihr Dialogfeld zu aktivieren, klicken Sie auf **[!UICONTROL Veröffentlichen]**.
+1. Wenn Sie bereit sind, Ihr Dialogfeld zu aktivieren, klicken Sie auf **[!UICONTROL Publish]**.
 
    ![](assets/stream-designer-24.png)
 
 >[!NOTE]
 >
->Vor dem Klicken [!UICONTROL Veröffentlichen], denken Sie daran, sicherzustellen, dass Sie [Ihre Ziel-URL(s) eingegeben haben](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"}.
+>Bevor Sie auf [!UICONTROL Publish] klicken, stellen Sie sicher, dass Sie [Ihre Ziel-URL(s)](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"} eingegeben haben.
 
 >[!MORELIKETHIS]
 >

@@ -27,14 +27,14 @@ Mit benutzerdefinierten Aktivitäten können Sie Aktivitäten verfolgen, die nic
 >
 >Benutzerdefinierte Aktivitäten unterscheiden sich von benutzerdefinierten Objekten. Verwenden Sie benutzerdefinierte Objekte, wenn sich der Wert ändern kann (d. h., die Farbe des Fahrzeugs ändert sich von blau in rot). Verwenden Sie benutzerdefinierte Aktivitäten, wenn Sie Ereignisse verfolgen und deren Details sich nicht ändern können (d. h. &quot;gekaufter Wagen&quot;).
 
-**Felder** Sie können [Zusätzliche Felder](/help/marketo/product-docs/administration/marketo-custom-activities/add-edit-delete-marketo-custom-activity-fields.md) die Sie mit Ihrer Aktivität verbinden möchten. Wie das primäre Feld können sie als Filterkriterien in einer intelligenten Liste verwendet werden.
+**Felder** Sie können [zusätzliche Felder](/help/marketo/product-docs/administration/marketo-custom-activities/add-edit-delete-marketo-custom-activity-fields.md) hinzufügen, die Sie mit Ihrer Aktivität verknüpfen möchten. Wie das primäre Feld können sie als Filterkriterien in einer intelligenten Liste verwendet werden.
 
 **Erste Schritte**
 
 Benutzerdefinierte Aktivitäten funktionieren genau wie Standardaktivitäten. Das Einrichten ist jedoch ein zweiteiliger Prozess.
 
-Schritt 1: [Benutzerdefinierte Aktivität erstellen](/help/marketo/product-docs/administration/marketo-custom-activities/create-a-custom-activity.md) in Ihrem Marketo-Konto
+Schritt 1: [Erstellen einer benutzerdefinierten Aktivität](/help/marketo/product-docs/administration/marketo-custom-activities/create-a-custom-activity.md) in Ihrem Marketo-Konto
 
-Schritt 2: Der Mitarbeiter in Ihrem Unternehmen, der mit unserer API arbeitet, kann dann mit der Implementierung beginnen. Weitere Informationen finden Sie hier: [Benutzerspezifische Aktivitäts-API](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities/operation/addCustomActivityUsingPOST)
+Schritt 2: Der Mitarbeiter in Ihrem Unternehmen, der mit unserer API arbeitet, kann dann mit der Implementierung beginnen. Weitere Informationen finden Sie hier: [Benutzerdefinierte Aktivitäts-API](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities/operation/addCustomActivityUsingPOST)
 
 Viel Spaß!

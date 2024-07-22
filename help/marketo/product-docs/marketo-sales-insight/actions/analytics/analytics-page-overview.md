@@ -34,16 +34,16 @@ Auf den Registerkarten Me und Team finden Sie Informationen zu geschlossenen Ang
 
 ## Registerkarte &quot;Me&quot; {#me-tab}
 
-Die [Registerkarte &quot;Me&quot;](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md){target="_blank"} ist ein idealer Ort, um die Interaktion Ihrer E-Mails, Vorlagen und Links zu überprüfen. Wenn Sie Administrator in Sales Insight-Aktionen sind, können Sie nach jedem Benutzer in Ihrem Team filtern, um dessen Statistiken anzuzeigen.
+Die Registerkarte [Me](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md){target="_blank"} eignet sich hervorragend, um die Interaktion Ihrer E-Mails, Vorlagen und Links zu überprüfen. Wenn Sie Administrator in Sales Insight-Aktionen sind, können Sie nach jedem Benutzer in Ihrem Team filtern, um dessen Statistiken anzuzeigen.
 
 ## Registerkarte &quot;Team&quot; {#team-tab}
 
-Im [Team-Tab](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-team-tab.md){target="_blank"}, siehe Statistiken und Bewertungen für Ihr gesamtes Team. Sie können auch nach von Ihnen erstellten Untergruppen filtern.
+Auf der Registerkarte [Team](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-team-tab.md){target="_blank"} finden Sie Statistiken und Bewertungen für Ihr gesamtes Team. Sie können auch nach von Ihnen erstellten Untergruppen filtern.
 
 ## Registerkarte &quot;Inhalt&quot; {#content-tab}
 
-Die [Registerkarte &quot;Inhalt&quot;](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md){target="_blank"} enthält Statistiken zu Vorlagen, Inhalten und Links. Sie können entweder nach jedem oder nach Teams filtern, die Ihre Administratoren erstellt haben.
+Die Registerkarte [Inhalt](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md){target="_blank"} enthält Statistiken zu Vorlagen, Inhalten und Links. Sie können entweder nach jedem oder nach Teams filtern, die Ihre Administratoren erstellt haben.
 
-Wenn unter der Betreffspalte blauer Text angezeigt wird, bedeutet dies, dass die Vorlage freigegeben ist. Sie können auf den blauen Text klicken, um zu dieser Vorlage zu gelangen. Anzeigen der Nutzung durch Klicken auf **Vorlagenanalyse**.
+Wenn unter der Betreffspalte blauer Text angezeigt wird, bedeutet dies, dass die Vorlage freigegeben ist. Sie können auf den blauen Text klicken, um zu dieser Vorlage zu gelangen. Zeigen Sie die Verwendung an, indem Sie auf **Vorlagenanalyse** klicken.
 
 &quot;Inhaltsklicks&quot;werden gezählt, wenn ein Empfänger auf einen Link in Ihrer E-Mail klickt.

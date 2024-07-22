@@ -17,13 +17,13 @@ So richten Sie Ihren prädiktiven Inhalt für E-Mails ein.
 
 >[!PREREQUISITES]
 >
->Inhalt muss [für prädiktive Inhalte genehmigt](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) auf der Seite &quot;Alle Inhalte&quot;.
+>Der Inhalt muss für prädiktive Inhalte ](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) auf der Seite &quot;Alle Inhalte&quot;genehmigt werden.[
 
 1. Klicken Sie auf der Seite Predictive Content auf einen Titel, um den Editor zu öffnen.
 
    ![](assets/image2017-10-3-9-3a30-3a25.png)
 
-1. Die Bearbeitungsseite wird geöffnet. **Email** wird standardmäßig angezeigt.
+1. Die Bearbeitungsseite wird geöffnet. **E-Mail** wird standardmäßig angezeigt.
 
    ![](assets/image2017-10-3-9-3a31-3a18.png)
 
@@ -51,7 +51,7 @@ So richten Sie Ihren prädiktiven Inhalt für E-Mails ein.
 
    ![](assets/five.png)
 
-1. Klicken Sie auf den Regler und ziehen Sie ihn, um die Bildgröße zu ändern. Klicken Sie dann auf das Zuschnittsfeld und ziehen Sie es, um den gewünschten Bildbereich zu isolieren. Klicken **Vorschau** wann geschehen.
+1. Klicken Sie auf den Regler und ziehen Sie ihn, um die Bildgröße zu ändern. Klicken Sie dann auf das Zuschnittsfeld und ziehen Sie es, um den gewünschten Bildbereich zu isolieren. Klicken Sie abschließend auf **Vorschau** .
 
    ![](assets/six.png)
 
@@ -60,7 +60,7 @@ So richten Sie Ihren prädiktiven Inhalt für E-Mails ein.
    | ![](assets/sevena.png) | ![](assets/sevenb.png) |
    |---|---|
 
-1. Optional können Sie auf das **Kategorien** und fügen Sie dem Inhalt Kategorien hinzu. Die Optionen finden Sie unter [Kategorien, die Sie bereits eingerichtet haben](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md).
+1. Klicken Sie optional auf das Feld **Kategorien** und fügen Sie dem Inhalt Kategorien hinzu. Die Optionen stammen aus den [Kategorien, die Sie bereits eingerichtet haben](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md).
 
    ![](assets/eight.png)
 
@@ -68,10 +68,10 @@ So richten Sie Ihren prädiktiven Inhalt für E-Mails ein.
 
    ![](assets/nine.png)
 
-1. Klicken **Speichern**.
+1. Klicken Sie auf **Speichern**.
 
    ![](assets/save.png)
 
    >[!NOTE]
    >
-   >In Marketo Email Editor v2.0 können Sie auch [Layout-Vorlagen anzeigen](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md) verwenden, während Sie den Inhalt aktivieren.
+   >In Marketo Email Editor v2.0 können Sie auch [die Layoutvorlagen anzeigen](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md), die Sie beim Aktivieren des Inhalts verwenden.

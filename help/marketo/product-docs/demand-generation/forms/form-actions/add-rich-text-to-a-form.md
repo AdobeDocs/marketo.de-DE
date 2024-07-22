@@ -7,7 +7,7 @@ feature: Forms
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '103'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Verwenden Sie Rich Text in einem Formular, um Anweisungen oder andere Informationen zwischen Feldern hinzuzufügen. Schau es dir an.
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Wechseln Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -23,11 +23,11 @@ Verwenden Sie Rich Text in einem Formular, um Anweisungen oder andere Informatio
 
    ![](assets/image2014-9-15-16-3a46-3a7.png)
 
-1. Klicken Sie auf **+** signieren.
+1. Klicken Sie auf das Zeichen **+**.
 
    ![](assets/image2014-9-15-16-3a46-3a43.png)
 
-1. Auswählen **Rich-Text**.
+1. Wählen Sie **Rich Text** aus.
 
    ![](assets/image2014-9-15-16-3a47-3a9.png)
 
@@ -39,22 +39,22 @@ Verwenden Sie Rich Text in einem Formular, um Anweisungen oder andere Informatio
    >
    >Verwenden Sie die Schaltfläche &quot;Horizontale Linie&quot;, wenn das Formular ein Zeilentrennzeichen enthalten muss.
 
-1. Klicken **Speichern**.
+1. Klicken Sie auf **Speichern**.
 
    ![](assets/image2014-9-15-16-3a48-3a18.png)
 
-1. Klicken **Beenden**.
+1. Klicken Sie auf **Beenden**.
 
    ![](assets/image2014-9-15-16-3a48-3a36.png)
 
-1. Klicken **Genehmigen und schließen**.
+1. Klicken Sie auf **Genehmigen und schließen**.
 
    ![](assets/image2014-9-15-16-3a48-3a51.png)
 
-   Gut gemacht! Schau es dir an.
+   Schön gemacht! Schau es dir an.
 
    ![](assets/image2014-9-15-16-3a48-3a58.png)
 
 >[!TIP]
 >
->Wussten Sie, dass Sie auch [Sichtbarkeitsregeln hinzufügen](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md) zu einem Rich-Text-Block?
+>Wussten Sie, dass Sie einem Rich-Text-Block auch [Sichtbarkeitsregeln](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md) hinzufügen können?

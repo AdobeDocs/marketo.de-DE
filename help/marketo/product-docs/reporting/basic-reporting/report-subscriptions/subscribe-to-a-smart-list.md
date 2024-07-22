@@ -6,7 +6,7 @@ exl-id: 4ea1664b-8178-41ae-a184-a8ebe090ef96
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '428'
 ht-degree: 1%
 
 ---
@@ -26,7 +26,7 @@ Abonnements wohnen an der Stelle, an der sich Ihre Smart-Liste befindet, in Mark
 
 Sie können mehrere Abonnements aus derselben Smart-Liste erstellen.
 
-Abonnements sind Workspace-spezifisch. Beispielsweise befindet sich diese Abonnementliste in einem anderen Arbeitsbereich als im Rest dieses Artikels:
+Abonnements sind arbeitsbereichsspezifisch. Beispielsweise befindet sich diese Abonnementliste in einem anderen Arbeitsbereich als im Rest dieses Artikels:
 
 ![](assets/one.png)
 
@@ -36,27 +36,27 @@ Abonnements sind Workspace-spezifisch. Beispielsweise befindet sich diese Abonne
 
 ## Abonnement mit intelligenter Liste erstellen {#create-a-smart-list-subscription}
 
-1. Navigieren Sie zu **Datenbank** oder **Marketingaktivitäten**.
+1. Rufen Sie die **Datenbank** oder die **Marketingaktivitäten** auf.
 
    ![](assets/db.png)
 
-1. Wählen Sie die Smart-Liste aus, für die Sie ein Abonnement erstellen möchten. Klicken **Aktionen auflisten** und wählen Sie **Neues Abonnement der Smart-Liste**.
+1. Wählen Sie die Smart-Liste aus, für die Sie ein Abonnement erstellen möchten. Klicken Sie auf **Aktionen auflisten** und wählen Sie **Neues Abonnement für intelligente Listen** aus.
 
    ![](assets/three.png)
 
-1. Geben Sie Ihrem Abonnement eine **Name** und wählen Sie dann die E-Mail-Adressen der **Empfänger**.
+1. Geben Sie Ihrem Abonnement einen **Namen** und wählen Sie dann die E-Mail-Adressen der **Empfänger** aus oder geben Sie sie ein.
 
    ![](assets/image2015-9-14-13-3a18-3a38.png)
 
-1. Klicken Sie auf **Häufigkeit** und wählen Sie eine Häufigkeit aus.
+1. Klicken Sie auf die Liste **Häufigkeit** und wählen Sie eine Häufigkeit aus.
 
    ![](assets/image2015-9-14-13-3a21-3a21.png)
 
-1. Legen Sie die **Endversand** Datum. Sie können **Nie** oder ein Kalenderdatum.
+1. Legen Sie das Datum **Versand beenden** fest. Sie können **Nie** oder ein Kalenderdatum auswählen.
 
    ![](assets/image2015-9-14-13-3a23-3a37.png)
 
-1. Klicken **Format** und wählen Sie aus der Liste aus.
+1. Klicken Sie auf **Format** und wählen Sie aus der Liste aus.
 
    ![](assets/image2015-9-14-13-3a25-3a25.png)
 
@@ -64,7 +64,7 @@ Abonnements sind Workspace-spezifisch. Beispielsweise befindet sich diese Abonne
 
    ![](assets/image2015-9-11-15-3a58-3a4.png)
 
-1. Ihr neues Smart-List-Abonnement wird oben in der Liste auf der Registerkarte Abonnements angezeigt. Klicken **Senden** , wenn Sie jetzt senden möchten, und nicht bis zum geplanten E-Mail-Versand warten.
+1. Ihr neues Smart-List-Abonnement wird oben in der Liste auf der Registerkarte Abonnements angezeigt. Klicken Sie auf **Senden** , wenn Sie jetzt senden möchten, und warten Sie nicht bis zum geplanten E-Mail-Versand.
 
    ![](assets/eight.png)
 
@@ -74,13 +74,13 @@ Abonnements sind Workspace-spezifisch. Beispielsweise befindet sich diese Abonne
 
    Das war einfach, oder?
 
-## E-Mail-Nachricht {#email-message}
+## Email Message {#email-message}
 
 Die Empfänger erhalten eine E-Mail mit einer Option zum Herunterladen des Berichts sowie einen Link direkt zur Liste innerhalb der Marketo-Instanz. Der Download-Link läuft in vier Tagen ab.
 
 >[!NOTE]
 >
->Wenn die Variable [Sicherer Abonnementadministrator](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md) festgelegt ist auf **Ja**, können nur Benutzer mit Zugriff auf die Marketo-Instanz den Bericht herunterladen.
+>Wenn die Einstellung [Sicherer Abonnementadministrator](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md) auf **Ja** gesetzt ist, können nur Personen mit Zugriff auf die Marketo-Instanz den Bericht herunterladen.
 
 ![](assets/image2015-4-17-15-3a46-3a47.png)
 
@@ -102,5 +102,5 @@ Um ein Abonnement zu löschen, wählen Sie es im Tab Abonnements aus und klicken
 
 >[!MORELIKETHIS]
 >
->* [Abonnement einer Smart-Liste bearbeiten](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/edit-a-smart-list-subscription.md)
->* [Sichern der Abonnement-Admin-Einstellung](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md)
+>* [Bearbeiten eines Smart-List-Abonnements](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/edit-a-smart-list-subscription.md)
+>* [Sichern Sie die Abonnement-Administratoreinstellung](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md)

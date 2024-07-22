@@ -5,7 +5,7 @@ exl-id: 82533d6b-a373-49c7-9cee-271e36916111
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
@@ -16,19 +16,19 @@ Lassen Sie zu, dass Ihre Verkaufsteams bei Aufrufen die Anrufgründe auswählen,
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Erforderliche Administratorberechtigungen**
 
 ## Gründe für Anrufe aktivieren {#enable-call-reasons}
 
-1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen**.
+1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
 
    ![](assets/call-reasons-1.png)
 
-1. Wählen Sie unter &quot;Admin Settings&quot;die Option **Dialer**.
+1. Wählen Sie unter &quot;Admin Settings&quot;**Dialer** aus.
 
    ![](assets/call-reasons-2.png)
 
-1. Auswählen **Gründe für Anrufe aktivieren**.
+1. Wählen Sie **Gründe für Aufrufe aktivieren** aus.
 
    ![](assets/call-reasons-3.png)
 
@@ -42,15 +42,15 @@ Lassen Sie zu, dass Ihre Verkaufsteams bei Aufrufen die Anrufgründe auswählen,
 >
 >Sie können maximal 15 Gründe für Aufrufe erstellen.
 
-1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen**.
+1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
 
    ![](assets/call-reasons-5.png)
 
-1. Wählen Sie unter &quot;Admin Settings&quot;die Option **Dialer**.
+1. Wählen Sie unter &quot;Admin Settings&quot;**Dialer** aus.
 
    ![](assets/call-reasons-6.png)
 
-1. Klicks **Gründe für Aufrufe verwalten**.
+1. Klicken Sie auf **Gründe für Aufrufe verwalten**.
 
    ![](assets/call-reasons-7.png)
 
@@ -66,7 +66,7 @@ Nachdem die Anrufgründe aktiviert wurden. Benutzer können beim Aufruf eine aus
 
    ![](assets/call-reasons-9.png)
 
-1. Geben Sie die Anrufinformationen in den Dialer ein und klicken Sie auf **Aufruf**.
+1. Geben Sie die Aufrufinformationen in den Dialer ein und klicken Sie auf **Aufruf**.
 
    ![](assets/call-reasons-10.png)
 
@@ -84,5 +84,5 @@ Nachdem die Anrufgründe aktiviert wurden. Benutzer können beim Aufruf eine aus
 
 >[!MORELIKETHIS]
 >
->* [Gründe für Protokollaufrufe und Ergebnisse von Aufrufen an Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
+>* [Gründe für Aufrufe protokollieren und Ergebnisse an Salesforce aufrufen](/help/marketo/product-docs/marketo-sales-insight/actions/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
 >* [Ergebnisse der Aufrufe](/help/marketo/product-docs/marketo-sales-insight/actions/phone/call-outcomes.md)

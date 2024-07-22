@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Sehen Sie sich Ihre E-Mail in der Vorschau an, nachdem Sie dynamischen Inhalt hinzugefügt haben, um ihn zu überprüfen.
 
-1. E-Mail auswählen und auf **Vorschau von E-Mail**.
+1. Wählen Sie Ihre E-Mail aus und klicken Sie auf **E-Mail-Vorschau anzeigen**.
 
    ![](assets/one-3.png)
 
@@ -33,7 +33,7 @@ Sehen Sie sich Ihre E-Mail in der Vorschau an, nachdem Sie dynamischen Inhalt hi
 
 Dynamische Inhalte können auch direkt im E-Mail-Editor in der Vorschau angezeigt werden.
 
-1. under **Inhalt**, klicken Sie auf die **Dynamik** Registerkarte.
+1. Klicken Sie unter **Inhalt** auf die Registerkarte **Dynamisch**.
 
    ![](assets/five-1.png)
 

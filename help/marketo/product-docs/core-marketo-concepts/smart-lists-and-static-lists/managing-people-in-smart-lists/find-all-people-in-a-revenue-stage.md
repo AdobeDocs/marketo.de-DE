@@ -19,23 +19,23 @@ ht-degree: 0%
 
 ## Alle Mitglieder einer bestimmten Umsatzstufe suchen {#find-all-members-of-a-specific-revenue-stage}
 
-1. Klicken Sie in einer Smart-Liste auf die **[!UICONTROL Smart List]** Registerkarte, suchen Sie die **[!UICONTROL Umsatzstufe]** und ziehen Sie sie in die Arbeitsfläche.
+1. Klicken Sie in einer Smart-Liste auf die Registerkarte **[!UICONTROL Smart-Liste]**, suchen Sie den Filter **[!UICONTROL Umsatzstufe]** und ziehen Sie ihn auf die Arbeitsfläche.
 
    ![](assets/draginrevenuefilter.png)
 
-1. Wählen Sie eine **[!UICONTROL Umsatzstufe]**.
+1. Wählen Sie eine **[!UICONTROL Umsatzstufe]** aus.
 
    ![](assets/two.jpg)
 
-1. Navigieren Sie zu **[!UICONTROL Personen]** um die Ergebnisse anzuzeigen.
+1. Rufen Sie die Registerkarte **[!UICONTROL Personen]** auf, um die Ergebnisse anzuzeigen.
 
    ![](assets/peopleresults.jpg)
 
 ## Führen Sie einen Flussschritt für die Mitglieder einer Umsatzstufe aus. {#run-a-flow-step-on-the-members-of-a-revenue-stage}
 
-Jetzt, da Sie wissen, welche Personen in welchen Umsatzstufen sind, können Sie sie direkt vermarkten. Auswahl **[!UICONTROL Umsatzstufe]** als Filter für intelligente Listen können Sie ihn auch als &quot;If&quot;-Filter im Fluss auswählen.
+Jetzt, da Sie wissen, welche Personen in welchen Umsatzstufen sind, können Sie sie direkt vermarkten. Neben der Auswahl von **[!UICONTROL Umsatzstufe]** als Filter für intelligente Listen können Sie diese auch als &quot;Wenn&quot;-Filter im Fluss auswählen.
 
-1. Klicken Sie im gewünschten Flussschritt auf **[!UICONTROL Auswahl hinzufügen]** und wählen **[!UICONTROL Umsatzstufe]** aus der Dropdown-Liste aus.
+1. Klicken Sie im gewünschten Flussschritt auf **[!UICONTROL Auswahl hinzufügen]** und wählen Sie **[!UICONTROL Umsatzstufe]** aus der Dropdownliste aus.
 
    ![](assets/six.png)
 

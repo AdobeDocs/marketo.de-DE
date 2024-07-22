@@ -17,11 +17,11 @@ Sie dürfen zu jedem Zeitpunkt nur ein genehmigtes Modell haben.
 
 >[!CAUTION]
 >
->[Einzelphasen müssen genehmigt werden](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approving-stages-and-assigning-leads-to-a-revenue-model.md) und Personen hinzugefügt wurden, bevor Sie ein ganzes Modell genehmigen.
+>[Einzelne Phasen müssen genehmigt werden](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approving-stages-and-assigning-leads-to-a-revenue-model.md) und Personen müssen hinzugefügt werden, bevor Sie ein ganzes Modell genehmigen.
 
 ## Genehmigen {#approve}
 
-1. Navigieren Sie zu **Analytics** Bereich.
+1. Wechseln Sie zum Bereich **Analytics** .
 
    ![](assets/image2017-3-28-8-3a9-3a16.png)
 
@@ -29,11 +29,11 @@ Sie dürfen zu jedem Zeitpunkt nur ein genehmigtes Modell haben.
 
    ![](assets/image2015-4-28-13-3a25-3a17.png)
 
-1. Aus dem **Modellaktionen** Menü, wählen **Modell genehmigen**.
+1. Wählen Sie im Menü **Modellaktionen** die Option **Modell genehmigen**.
 
    ![](assets/image2015-4-28-14-3a6-3a3.png)
 
-1. Es wird ein Dialogfeld angezeigt, in dem Sie Ihre Auswahl bestätigen können. Klicks **Genehmigen**.
+1. Es wird ein Dialogfeld angezeigt, in dem Sie Ihre Auswahl bestätigen können. Klicken Sie auf **Genehmigen**.
 
    ![](assets/image2015-4-28-14-3a6-3a49.png)
 
@@ -45,7 +45,7 @@ Ihr Modell ist jetzt live!
 >
 >Wenn Sie Ihr Modell nicht genehmigen, werden alle Ihre Personen aus dem Modell entfernt und ihr Verlauf im Modell wird gelöscht!
 
-1. Navigieren Sie zu **Analytics** Bereich.
+1. Wechseln Sie zum Bereich **Analytics** .
 
    ![](assets/image2017-3-28-8-3a9-3a30.png)
 
@@ -53,7 +53,7 @@ Ihr Modell ist jetzt live!
 
    ![](assets/image2015-4-28-13-3a25-3a17.png)
 
-1. Klicken Sie auf **Modellaktionen** Menü und wählen **Modell nicht genehmigen**.
+1. Klicken Sie auf das Menü **Modellaktionen** und wählen Sie **Modell nicht genehmigen**.
 
    ![](assets/image2015-4-28-13-3a28-3a0.png)
 

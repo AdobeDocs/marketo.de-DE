@@ -16,7 +16,7 @@ Führen Sie diese einfachen Schritte aus, um das Konto &quot;Sales Insight Actio
 
 ## Anleitung zum Verbinden als Administrator {#how-to-connect-as-an-admin}
 
-1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen**.
+1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-1.png)
 
@@ -24,11 +24,11 @@ Führen Sie diese einfachen Schritte aus, um das Konto &quot;Sales Insight Actio
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-2.png)
 
-1. Klicken Sie auf der Registerkarte Verbindungen und Anpassungen auf **Salesforce** then **Verbinden**.
+1. Klicken Sie auf der Registerkarte Verbindungen und Anpassungen auf **Salesforce** und dann auf **Verbinden**.
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-3.png)
 
-1. Klicks **OK**.
+1. Klicken Sie auf **OK**.
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-4.png)
 
@@ -36,17 +36,17 @@ Führen Sie diese einfachen Schritte aus, um das Konto &quot;Sales Insight Actio
 
 ## Anleitung zum Verbinden als Nicht-Administrator {#how-to-connect-as-a-non-admin}
 
-1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen**.
+1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-5.png)
 
-1. Wählen Sie unter Mein Konto die Option **Salesforce**.
+1. Wählen Sie unter Mein Konto die Option **Salesforce** aus.
 
-1. Klicken Sie auf der Registerkarte Verbindungen und Anpassungen auf **Salesforce** then **Verbinden**.
+1. Klicken Sie auf der Registerkarte Verbindungen und Anpassungen auf **Salesforce** und dann auf **Verbinden**.
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-7.png)
 
-1. Klicks **OK**.
+1. Klicken Sie auf **OK**.
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-8.png)
 

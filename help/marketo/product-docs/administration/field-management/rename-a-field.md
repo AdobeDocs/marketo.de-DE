@@ -7,7 +7,7 @@ feature: Field Management
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '125'
-ht-degree: 4%
+ht-degree: 0%
 
 ---
 
@@ -15,17 +15,17 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->Sie können ein benutzerdefiniertes Feld in Marketo umbenennen, es gibt jedoch einen Haken: Sie müssen die gesamte Verwendung im System entfernen, bevor Sie dies tun. Dazu gehören Formulare, Smart-Listen und Smart-Kampagnen.
+>Sie können ein benutzerdefiniertes Feld in Marketo umbenennen, es gibt jedoch einen einzigen Catch: Sie müssen die gesamte Verwendung im System entfernen, bevor Sie dies tun. Dazu gehören Formulare, Smart-Listen und Smart-Kampagnen.
 
 >[!NOTE]
 >
 >**Erforderliche Administratorberechtigungen**
 
-1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
+1. Wechseln Sie zum Bereich **[!UICONTROL Admin]** .
 
    ![](assets/rename-a-field-1.png)
 
-1. Klicken **[!UICONTROL Feldverwaltung]**.
+1. Klicken Sie auf **[!UICONTROL Feldverwaltung]**.
 
    ![](assets/rename-a-field-2.png)
 
@@ -35,7 +35,7 @@ ht-degree: 4%
 
    >[!TIP]
    >
-   >Klicken Sie auf **[!UICONTROL Verwendet von]** -Link, um Assets zu suchen, die dieses Feld referenzieren.
+   >Klicken Sie auf den Link **[!UICONTROL Verwendet von]** , um nach Assets zu suchen, die auf dieses Feld verweisen.
 
 1. Benennen Sie das Feld um und klicken Sie auf **[!UICONTROL Speichern]**.
 

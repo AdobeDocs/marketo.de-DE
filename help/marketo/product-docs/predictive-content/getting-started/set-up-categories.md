@@ -17,7 +17,7 @@ Erstellen Sie Kategorien im prädiktiven Inhalt, um Ihre prognostizierten Ergebn
 
 ![](assets/image2017-10-3-9-3a3-3a44.png)
 
-Wenn Sie erkannten Inhalt bearbeiten, fügen Sie auf dem Bearbeitungsbildschirm Kategorien hinzu. Klicken Sie auf **Kategorien** und wählen Sie sie aus der Dropdown-Liste aus.
+Wenn Sie erkannten Inhalt bearbeiten, fügen Sie auf dem Bearbeitungsbildschirm Kategorien hinzu. Klicken Sie auf das Feld **Kategorien** und wählen Sie sie aus der Dropdown-Liste aus.
 
 ![](assets/two.png)
 
@@ -33,7 +33,7 @@ So erstellen Sie Kategorie-Tags:
 
    ![](assets/settings-dropdown-hand-1.png)
 
-1. Klicks **Kategorien**.
+1. Klicken Sie auf **Kategorien**.
 
    ![](assets/content-discovery-categories-hand.png)
 
@@ -41,11 +41,11 @@ So erstellen Sie Kategorie-Tags:
 
    ![](assets/content-settings-create-cat-tags-hand.png)
 
-1. Sie können ein Kategorie-Tag entfernen, indem Sie auf **x** daneben.
+1. Sie können ein Kategorie-Tag entfernen, indem Sie neben dem Tag auf **x** klicken.
 
    ![](assets/remove-category-tag-updated.png)
 
-1. Klicks **Speichern** wenn Sie fertig sind.
+1. Klicken Sie auf **Speichern** , wenn Sie fertig sind.
 
    ![](assets/save-new.png)
 

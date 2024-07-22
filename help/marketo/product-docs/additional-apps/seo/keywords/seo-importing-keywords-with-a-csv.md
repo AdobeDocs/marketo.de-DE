@@ -7,19 +7,19 @@ feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '116'
-ht-degree: 6%
+ht-degree: 0%
 
 ---
 
 # SEO - Importieren von Keywords mit einer CSV-Datei {#seo-importing-keywords-with-a-csv}
 
-1. Sie können [Suchbegriffe hinzufügen](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md) manuell, [Suchbegriffvorschläge erhalten](/help/marketo/product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md) und importieren Sie sogar Suchbegriffe aus einer CSV-Datei. So wird der Import durchgeführt.
+1. Sie können [Keywords](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md) manuell hinzufügen, [ Suchbegriffvorschläge abrufen](/help/marketo/product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md) und sogar Suchbegriffe aus einer CSV-Datei importieren. Im Folgenden erfahren Sie, wie Sie den Import durchführen.
 
-1. Navigieren Sie zu **[!UICONTROL Schlüsselwörter]** Abschnitt.
+1. Wechseln Sie zum Abschnitt **[!UICONTROL Suchbegriffe]** .
 
    ![](assets/image2014-9-18-11-3a44-3a25.png)
 
-1. Klicken **[!UICONTROL Import]**.
+1. Klicken Sie auf **[!UICONTROL Importieren]**.
 
    ![](assets/image2014-9-18-11-3a44-3a36.png)
 
@@ -27,15 +27,15 @@ ht-degree: 6%
 
    ![](assets/image2014-9-18-11-3a44-3a42.png)
 
-1. Klicken **[!UICONTROL Datei auswählen]**.
+1. Klicken Sie auf **[!UICONTROL Datei auswählen]**.
 
    ![](assets/image2014-9-18-11-3a44-3a46.png)
 
    >[!NOTE]
    >
-   >Die Importbeschränkungen variieren je nach Abonnement. Wenden Sie sich wegen weiterer Informationen an Ihren Verkaufsrepräsentanten.
+   >Die Importbeschränkungen variieren je nach Abonnement. Wenden Sie sich für weitere Informationen an Ihren Vertriebsmitarbeiter.
 
-1. Klicken **[!UICONTROL Import]**.
+1. Klicken Sie auf **[!UICONTROL Importieren]**.
 
    ![](assets/image2014-9-18-11-3a45-3a25.png)
 
@@ -49,5 +49,5 @@ ht-degree: 6%
 
    >[!MORELIKETHIS]
    >
-   >* [Suchbegriffe verstehen (Zusammenfassungsansicht)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
-   >* [Hinzufügen/Entfernen von Suchbegriffen aus einer Liste](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
+   >* [Grundlegendes zu Suchbegriffen (Zusammenfassungsansicht)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
+   >* [Suchbegriffe aus einer Liste hinzufügen/entfernen](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)

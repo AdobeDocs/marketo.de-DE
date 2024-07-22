@@ -17,11 +17,11 @@ Sie können alle Ihre Suchbegriffe mithilfe von Listen organisieren. Dadurch wir
 
 ## Einer Liste hinzufügen {#add-to-a-list}
 
-1. Navigieren Sie zu **[!UICONTROL Schlüsselwörter]** Abschnitt.
+1. Wechseln Sie zum Abschnitt **[!UICONTROL Suchbegriffe]** .
 
    ![](assets/image2014-9-18-11-3a48-3a36.png)
 
-1. Bewegen Sie den Mauszeiger über den Suchbegriff, den Sie einer Liste hinzufügen möchten. Klicks **[!UICONTROL Aus Liste hinzufügen/entfernen]**.
+1. Bewegen Sie den Mauszeiger über den Suchbegriff, den Sie einer Liste hinzufügen möchten. Klicken Sie auf **[!UICONTROL Aus Liste hinzufügen/entfernen]**.
 
    ![](assets/image2014-9-18-11-3a48-3a42.png)
 
@@ -31,7 +31,7 @@ Sie können alle Ihre Suchbegriffe mithilfe von Listen organisieren. Dadurch wir
 
    >[!TIP]
    >
-   >Sie können auch eine neue Liste für Ihre Suchbegriffe erstellen. Geben Sie einfach den Namen in **[!UICONTROL Neue Liste erstellen]**.
+   >Sie können auch eine neue Liste für Ihre Suchbegriffe erstellen. Geben Sie einfach den Namen in **[!UICONTROL Neue Liste erstellen]** ein.
 
    ![](assets/image2014-9-18-11-3a49-3a16.png)
 
@@ -41,11 +41,11 @@ Woo hoo! Wählen Sie Ihre Liste aus, um die neuen Suchbegriffe anzuzeigen.
 
 Sie können auch Suchbegriffe aus einer Liste entfernen.
 
-1. Navigieren Sie zu **[!UICONTROL Schlüsselwörter]** Abschnitt.
+1. Wechseln Sie zum Abschnitt **[!UICONTROL Suchbegriffe]** .
 
    ![](assets/image2014-9-18-11-3a49-3a55.png)
 
-1. Bewegen Sie den Mauszeiger über den Suchbegriff, den Sie aus einer Liste entfernen möchten. Klicks **[!UICONTROL Aus Liste hinzufügen/entfernen]**.
+1. Bewegen Sie den Mauszeiger über den Suchbegriff, den Sie aus einer Liste entfernen möchten. Klicken Sie auf **[!UICONTROL Aus Liste hinzufügen/entfernen]**.
 
    ![](assets/image2014-9-18-11-3a50-3a4.png)
 

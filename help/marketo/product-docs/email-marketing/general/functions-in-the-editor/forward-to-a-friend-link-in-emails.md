@@ -19,11 +19,11 @@ Angenommen, Keith verwendet den Link &quot;Weiterleiten an Freunde&quot;, um die
 
 ## Link zu einer E-Mail-Vorlage hinzufügen {#add-the-link-to-an-email-template}
 
-1. Navigieren Sie zu **Design Studio**.
+1. Wechseln Sie zu **Design Studio**.
 
    ![](assets/one-8.png)
 
-1. Wählen Sie die E-Mail-Vorlage aus, zu der Sie den Link hinzufügen möchten. Klicken **Entwurf bearbeiten**.
+1. Wählen Sie die E-Mail-Vorlage aus, zu der Sie den Link hinzufügen möchten. Klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/two-7.png)
 
@@ -42,9 +42,9 @@ Angenommen, Keith verwendet den Link &quot;Weiterleiten an Freunde&quot;, um die
 
    >[!CAUTION]
    >
-   >Es wird nicht empfohlen, die Formatierung zu verwenden **position:relative** in Ihrer E-Mail-Vorlage. Es kann zu Problemen mit der Position und Anzeige der Box &quot;Weiterleiten an Freunde&quot;führen.
+   >Es wird nicht empfohlen, den Stil **position:relative** in Ihrer E-Mail-Vorlage zu verwenden. Es kann zu Problemen mit der Position und Anzeige der Box &quot;Weiterleiten an Freunde&quot;führen.
 
-1. Klicken **Vorschau des Entwurfs** , um sicherzustellen, dass die Vorlage wie gewünscht aussieht.
+1. Klicken Sie auf **Vorschau des Entwurfs anzeigen** , um sicherzustellen, dass die Vorlage wie gewünscht aussieht.
 
    ![](assets/four-5.png)
 
@@ -64,11 +64,11 @@ Sie können den Link &quot;Weiterleiten an Freunde&quot;auch direkt in eine E-Ma
 
    ![](assets/five-4.png)
 
-1. Platzieren Sie den Cursor an die Stelle, an der der Link angezeigt werden soll, und klicken Sie auf **Token einfügen** Schaltfläche.
+1. Platzieren Sie den Cursor an die Stelle, an der der Link erscheinen soll, und klicken Sie auf die Schaltfläche **Token einfügen** .
 
    ![](assets/six-2.png)
 
-1. Wählen Sie die **`{{system.forwardToFriendLink}}`** Token.
+1. Wählen Sie das **`{{system.forwardToFriendLink}}`** -Token aus.
 
    ![](assets/seven-1.png)
 
@@ -80,11 +80,11 @@ Sie können den Link &quot;Weiterleiten an Freunde&quot;auch direkt in eine E-Ma
 
    ![](assets/seven-1.png)
 
-1. Ausschneiden der **`{{system.forwardToFriendLink}}`** Token mit Strg+X (Windows) oder Befehl+X (Mac). Markieren Sie &quot;Weiterleiten an einen Freund&quot;und klicken Sie auf die **Link einfügen/bearbeiten** Schaltfläche.
+1. Ausschneiden des **`{{system.forwardToFriendLink}}`**-Tokens mit Strg+X (Windows) oder Befehl+X (Mac). Markieren Sie &quot;Weiterleiten an einen Freund&quot;und klicken Sie auf die Schaltfläche **Link einfügen/bearbeiten** .
 
    ![](assets/eight-1.png)
 
-1. Fügen Sie die **`{{system.forwardToFriendLink}}`** Token in **URL** Feld mit Strg/Befehl+V und klicken Sie dann auf **Einfügen**.
+1. Fügen Sie das Token **`{{system.forwardToFriendLink}}`** mithilfe von Strg/Befehl+V in das Feld **URL** ein und klicken Sie dann auf **Einfügen**.
 
    ![](assets/nine.png)
 
@@ -100,7 +100,7 @@ Sie können den Link &quot;Weiterleiten an Freunde&quot;auch direkt in eine E-Ma
 
 Sie können im Aktivitätsprotokoll der Person sehen, wer die E-Mails weitergeleitet und empfangen hat.
 
-1. Navigieren Sie zu **`Database`**.
+1. Wechseln Sie zu &quot;**`Database`**&quot;.
 
    ![](assets/db.png)
 
@@ -108,7 +108,7 @@ Sie können im Aktivitätsprotokoll der Person sehen, wer die E-Mails weitergele
 
    ![](assets/fourteen.png)
 
-1. Navigieren Sie zu **Aktivitätsprotokoll** Registerkarte. Doppelklicken **Weiterleiten an Freunde-E-Mail erhalten** oder **Weiterleiten an Freunde-E-Mail** um Details anzuzeigen.
+1. Gehen Sie zur Registerkarte **Aktivitätsprotokoll** . Doppelklicken Sie auf **Weitergeleitet an Freunde-E-Mail** oder auf **Weitergeleitet an Freunde-E-Mail** , um Details anzuzeigen.
 
    ![](assets/fifteen.png)
 
@@ -122,20 +122,20 @@ Sie können im Aktivitätsprotokoll der Person sehen, wer die E-Mails weitergele
 
    ![](assets/sixteen.png)
 
-1. Um eine Person nach ID anzuzeigen, kopieren Sie die **Personen-ID** an das Ende der URL (der Anfang dieser URL hängt von Ihrer Marketo-Instanz ab):
+1. Um eine Person nach ID anzuzeigen, kopieren Sie die **Personen-ID** und fügen Sie sie am Ende der URL ein (der Anfang dieser URL hängt von Ihrer Marketo-Instanz ab):
 
    `<pre data-theme="Confluence">...marketo.com/Database/loadPersonDetail?personId=</pre>`
 
    >[!NOTE]
    >
-   >Wir werden **Personen-ID** anklickbar und verlinken Sie direkt mit der Person in einem anstehenden Patch.
+   >Wir machen die **Personen-ID** anklickbar und verknüpfen sie direkt mit der Person in einem kommenden Patch.
 
    ![](assets/seventeen.png)
 
    >[!NOTE]
    >
-   >Wenn der Freund, der den Weiterleiten erhält, eine unbekannte Person ist, wird eine neue Person mit der Bezeichnung &quot;Weiterleiten an Freunde&quot;als **Quelle**.
-   >Wenn die E-Mail ein lokales Asset eines Programms ist, wird das Programm als **Akquiseprogramm**.
+   >Wenn der Freund, der den Weiterleiten erhält, eine unbekannte Person ist, wird eine neue Person mit &quot;Weiterleiten an Freunde&quot;erstellt, die als **Source** der Person markiert ist.
+   >Wenn die E-Mail ein lokales Asset eines Programms ist, wird das Programm als **Akquiseprogramm** der Person markiert.
 
 ## Trigger oder Filter mit der Aktivität &quot;Weiterleitung&quot; {#trigger-or-filter-using-forwarding-activity}
 
@@ -147,4 +147,4 @@ Wenn Sie in der Smart-Liste einer Smart-Kampagne nach &quot;forward&quot;suchen,
 
 ## Weiterleiten an Freunde testen {#test-forward-to-friend}
 
-Um &quot;Weiterleiten an Freunde&quot;zu testen, senden Sie sich eine E-Mail mit dem Weiterleitungslink. Vergewissern Sie sich, dass der Versand über die **E-Mail senden** Flussschritt, *not* bis **Test-E-Mail senden**.
+Um &quot;Weiterleiten an Freunde&quot;zu testen, senden Sie sich eine E-Mail mit dem Weiterleitungslink. Vergewissern Sie sich, dass Sie es über den Fluss **E-Mail senden** senden, *nicht* bis **Test-E-Mail senden**.

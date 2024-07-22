@@ -6,7 +6,7 @@ exl-id: a84fe53b-0ec8-400c-8747-be496c68a8e3
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '325'
 ht-degree: 0%
 
 ---
@@ -23,20 +23,20 @@ Sales Connect kann über eine im Chrome-Browser installierte Erweiterung mit Gma
 
 Als anderer Chrome-Benutzer anmelden (empfohlen)
 
-Klicken [dieser Link](https://support.google.com/chrome/answer/2364824?hl=en) , um zu erfahren, wie Sie ein anderes Chrome-Profil erstellen.
+Klicken Sie auf [diesen Link](https://support.google.com/chrome/answer/2364824?hl=en) , um zu erfahren, wie Sie ein weiteres Chrome-Profil erstellen.
 
-**Vorteile**: Wenn Sie sich als anderer Benutzer anmelden, wird eine neue Instanz von Chrome geöffnet. Diese Instanz ist ein brandneues Fenster von Chrome, und in dieser wird keine Ihrer alten Erweiterungen vorhanden sein. Außerdem werden Cookies gespeichert, sodass Sie sich nicht jedes Mal bei Ihrer Gmail anmelden müssen.
+**Vorteile**: Wenn Sie sich als ein anderer Benutzer anmelden, wird eine neue Instanz von Chrome geöffnet. Diese Instanz ist ein ganz neues Fenster von Chrome, und in dieser wird keine Ihrer alten Erweiterungen vorhanden sein. Außerdem werden Cookies gespeichert, sodass Sie sich nicht jedes Mal bei Ihrer Gmail anmelden müssen.
 
-**Nachteile**: Muss zwei Chrome-Fenster geöffnet haben.
+**Nachteile**: Muss zwei offene Fenster von Chrome haben.
 
-Verwenden eines anderen Browsers
+Andere Browser verwenden
 
-**Vorteile:** Die Verwendung eines anderen Internet-Browsers (IE oder Firefox), in dem die Erweiterung nicht installiert ist, verhindert dies.
+**Vorteile:** Die Verwendung eines anderen Internetbrowsers (IE oder Firefox), in dem die Erweiterung nicht installiert ist, verhindert dies.
 
 **Nachteile**: Die Verwendung mehrerer Browser kann störend sein.
 
 Inkognito-Fenster verwenden
 
-**Vorteile:** Ein Inkognito-Fenster ist wie das Öffnen einer nackten Version von Chrome. Das bedeutet, dass keine Ihrer Erweiterungen installiert ist und Sales Connect nicht zum Verbinden verfügbar ist.
+**Vorteile:** Ein Inkognito-Fenster gleicht dem Öffnen einer nackten Version von Chrome. Das bedeutet, dass keine Ihrer Erweiterungen installiert ist und Sales Connect nicht zum Verbinden verfügbar ist.
 
 **Nachteile**: Sie müssen sich jedes Mal, wenn Sie Ihren Tag beginnen, bei Gmail anmelden und erneut, wenn Sie das Fenster versehentlich schließen.

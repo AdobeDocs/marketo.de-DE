@@ -5,14 +5,14 @@ exl-id: a8df5b77-e594-4e06-8194-1758a3582cda
 feature: Veeva CRM
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '503'
-ht-degree: 5%
+source-wordcount: '478'
+ht-degree: 9%
 
 ---
 
 # Synchronisieren von Aufrufen und Aufrufen von Schlüsselmeldungen {#syncing-call-and-call-key-messages}
 
-Call and Call Key Message Objects in Veeva CRM werden standardmäßig in Marketo Engage synchronisiert. Marketo synchronisiert Daten, die bis zu 6 Monate alt sind, basierend auf dem Erstellungsdatum des Aufrufs.
+Call und Call Key Message Objects in VEE CRM werden standardmäßig in Marketo Engage synchronisiert. Marketo synchronisiert Daten, die bis zu 6 Monate alt sind, basierend auf dem Erstellungsdatum des Aufrufs.
 
 >[!NOTE]
 >
@@ -114,42 +114,42 @@ Die folgenden Felder in den Meldungen &quot;Aufruf&quot;und &quot;Schlüssel auf
       <td>Record Type</td>
     </tr>
     <tr>
-      <td>Schlüsselmeldung aufrufen</td>
+      <td>Schlüsselnachricht aufrufen</td>
       <td>Anruf</td>
       <td>Suche nach dem -Aufruf. Jede Schlüsselmeldung ist mit einem -Aufruf verknüpft.</td>
       <td>Call2_vod_c</td>
-      <td>Übergeordnet-Detail(call)</td>
+      <td>Master-Detail(Aufruf)</td>
     </tr>
     <tr>
-      <td>Schlüsselmeldung aufrufen</td>
+      <td>Schlüsselnachricht aufrufen</td>
       <td>Kategorie</td>
       <td>Zeichnet die Nachrichtenkategorie der Nachricht auf. Wird hauptsächlich für die Berichterstellung verwendet.</td>
       <td>Category_vod_c</td>
       <td>Auswahlliste</td>
     </tr>
     <tr>
-      <td>Schlüsselmeldung aufrufen</td>
+      <td>Schlüsselnachricht aufrufen</td>
       <td>CLM-Präsentationsname</td>
       <td>Stempelname der CLM-Präsentation</td>
       <td>clm_Presentation_Name_vod_c</td>
       <td>Text (80)</td>
     </tr>
     <tr>
-      <td>Schlüsselmeldung aufrufen</td>
+      <td>Schlüsselnachricht aufrufen</td>
       <td>Schlüsselnachrichtenname</td>
       <td>Name der mit Stempel versehenen Schlüsselmeldung</td>
       <td>key_message_name_vod_c</td>
       <td>Text (80)</td>
     </tr>
     <tr>
-      <td>Schlüsselmeldung aufrufen</td>
+      <td>Schlüsselnachricht aufrufen</td>
       <td>Produktbezeichnung</td>
       <td> </td>
       <td>Product_Name_c</td>
       <td>Formel (Text)</td>
     </tr>
     <tr>
-      <td>Schlüsselmeldung aufrufen</td>
+      <td>Schlüsselnachricht aufrufen</td>
       <td>Reaktion</a>
       </td>
       <td>Liste der Reaktionen auf die Nachricht. Bearbeiten Sie die Auswahlliste, um die Reaktionswerte zu ändern.</td>

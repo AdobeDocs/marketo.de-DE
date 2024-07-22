@@ -24,7 +24,7 @@ Auf diesem Tab werden alle Agenten in Ihrer Dynamic Chat-Instanz aufgelistet und
 
 >[!NOTE]
 >
->Erkennen Sie keinen Agenten _just_ hinzugefügt? Es kann bis zu zwei Stunden dauern, bis sie hier angezeigt werden, nachdem sie in der Adobe Admin Console hinzugefügt wurden.
+>Siehst du keinen Agenten, den du _gerade_ hinzugefügt hast? Es kann bis zu zwei Stunden dauern, bis sie hier angezeigt werden, nachdem sie in der Adobe Admin Console hinzugefügt wurden.
 
 ## Teams {#teams}
 
@@ -38,7 +38,7 @@ Administratoren können Teams von Agenten erstellen, um das Routing zu bestimmte
 
 ### Team erstellen {#create-a-team}
 
-1. Klicks **+ Team erstellen**.
+1. Klicken Sie auf **+ Team erstellen**.
 
    ![](assets/agent-management-4.png)
 
@@ -46,7 +46,7 @@ Administratoren können Teams von Agenten erstellen, um das Routing zu bestimmte
 
    ![](assets/agent-management-5.png)
 
-1. Klicken Sie auf **Agenten hinzufügen** und wählen Sie die gewünschten Agenten aus.
+1. Klicken Sie auf die Dropdownliste **Agenten hinzufügen** und wählen Sie die gewünschten Agenten aus.
 
    ![](assets/agent-management-6.png)
 
@@ -70,7 +70,7 @@ Wählen Sie eine Standardnachricht (System) aus oder schreiben Sie eine benutzer
 
 >[!NOTE]
 >
->Auswählen der **Option &quot;Sitzungsbuchung einschließen&quot;** aktivieren, können die Chat-Besucher ein Meeting buchen, wenn keine Agenten für Live-Chat verfügbar sind.
+>Wenn Sie das Kontrollkästchen **Sitzungsbuchungsoption einschließen** aktivieren, können Sie dem Chatbesucher die Möglichkeit geben, ein Meeting zu buchen, wenn keine Agenten für den Live-Chat verfügbar sind.
 
 >[!TIP]
 >

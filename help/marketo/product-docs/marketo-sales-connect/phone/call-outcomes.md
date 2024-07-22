@@ -5,7 +5,7 @@ exl-id: 55ac4d04-8853-46e7-9027-26f0c4897a2a
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -16,19 +16,19 @@ Ermöglichen Sie es Ihren Verkaufsteams, bei Anrufen die Ergebnisse der Anrufe a
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich.**
+>**Erforderliche Administratorberechtigungen.**
 
 ## Aktivieren der Anrufergebnisse {#enable-call-outcomes}
 
-1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen**.
+1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
 
    ![](assets/call-outcomes-1.png)
 
-1. Wählen Sie unter &quot;Admin Settings&quot;die Option **Dialer**.
+1. Wählen Sie unter &quot;Admin Settings&quot;**Dialer** aus.
 
    ![](assets/call-outcomes-2.png)
 
-1. Auswählen **Aktivieren der Anrufergebnisse**.
+1. Wählen Sie **Ergebnisse der Aufrufe aktivieren** aus.
 
    ![](assets/call-outcomes-3.png)
 
@@ -42,15 +42,15 @@ Ermöglichen Sie es Ihren Verkaufsteams, bei Anrufen die Ergebnisse der Anrufe a
 >
 >Sie können maximal 15 Aufrufergebnisse erstellen.
 
-1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen**.
+1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
 
    ![](assets/call-outcomes-5.png)
 
-1. Wählen Sie unter &quot;Admin Settings&quot;die Option **Dialer**.
+1. Wählen Sie unter &quot;Admin Settings&quot;**Dialer** aus.
 
    ![](assets/call-outcomes-6.png)
 
-1. Klicken **Ergebnisse von Aufrufen verwalten**.
+1. Klicken Sie auf **Ergebnisse der Aufrufe verwalten**.
 
    ![](assets/call-outcomes-7.png)
 
@@ -58,7 +58,7 @@ Ermöglichen Sie es Ihren Verkaufsteams, bei Anrufen die Ergebnisse der Anrufe a
 
    ![](assets/call-outcomes-8.png)
 
-1. Klicken Sie auf die Dropdown-Liste Antworten und wählen Sie den Ergebnistyp aus (in diesem Beispiel wählen wir Beantwortet aus). Klicken Sie anschließend auf **Hinzufügen**.
+1. Klicken Sie auf die Dropdown-Liste Antworten und wählen Sie den Ergebnistyp aus (in diesem Beispiel wählen wir Beantwortet aus). Klicken Sie dann auf **Hinzufügen**.
 
    ![](assets/call-outcomes-9.png)
 
@@ -70,7 +70,7 @@ Sobald die Ergebnisse der Aufrufe aktiviert wurden. Benutzer können beim Aufruf
 
    ![](assets/call-outcomes-10.png)
 
-1. Geben Sie die Anrufinformationen in den Dialer ein und klicken Sie auf **Aufruf**.
+1. Geben Sie die Aufrufinformationen in den Dialer ein und klicken Sie auf **Aufruf**.
 
    ![](assets/call-outcomes-11.png)
 
@@ -88,5 +88,5 @@ Sobald die Ergebnisse der Aufrufe aktiviert wurden. Benutzer können beim Aufruf
 
 >[!MORELIKETHIS]
 >
->* [Gründe für Protokollaufrufe und Ergebnisse von Aufrufen an Salesforce](/help/marketo/product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
->* [Gründe für Aufrufe](/help/marketo/product-docs/marketo-sales-connect/phone/call-reasons.md)
+>* [Gründe für Aufrufe protokollieren und Ergebnisse an Salesforce aufrufen](/help/marketo/product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
+>* [Aufrufgründe](/help/marketo/product-docs/marketo-sales-connect/phone/call-reasons.md)

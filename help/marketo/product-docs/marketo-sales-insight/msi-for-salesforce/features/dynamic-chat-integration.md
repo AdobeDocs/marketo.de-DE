@@ -1,38 +1,38 @@
 ---
 description: Dynamic Chat-Integration - Marketo Docs - Produktdokumentation
-title: Dynamic Chat-Integration
+title: Integration von Dynamic Chat
 exl-id: b2e3b4da-9ca7-4299-9c50-f52e0de91e36
 feature: Marketo Sales Insights
 source-git-commit: 6e81a8891f7d6e5916549d453a694b42e08cd496
 workflow-type: tm+mt
-source-wordcount: '396'
-ht-degree: 5%
+source-wordcount: '415'
+ht-degree: 6%
 
 ---
 
-# Dynamic Chat-Integration {#dynamic-chat-integration}
+# Integration von Dynamic Chat {#dynamic-chat-integration}
 
 Erfahren Sie mehr über die Dynamic Chat-Integration mit Sales Insight.
 
 >[!PREREQUISITES]
 >
->* Ihr Sales Insight SFDC-Paket muss version sein [2.4.0 oder höher](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}
+>* Ihr Sales Insight SFDC-Paket muss Version [2.4.0 oder höher](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} sein.
 >
->* Sie müssen über die [Dynamic Chat-Integration](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} einrichten
+>* Sie müssen die [Dynamic Chat-Integration](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} einrichten.
 >
->* Stellen Sie sicher, dass Ihr Sales Insight [Betriebseinstellungen](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md#operational-settings){target="_blank"}, you have the "API Secret Key" field populated. If you don't, learn how to retrieve it [here](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-sales-insight-in-marketo){target="_blank"}.
+>* Stellen Sie sicher, dass in Ihren Sales Insight [Betriebseinstellungen](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md#operational-settings){target="_blank"} das Feld &quot;API-Geheimschlüssel&quot;ausgefüllt ist. Wenn nicht, erfahren Sie, wie Sie es abrufen können [hier](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-sales-insight-in-marketo){target="_blank"}.
 
 ## Registerkarte &quot;Marketo Sales Insight-Konfiguration&quot; {#marketo-sales-insight-configuration-tab}
 
 Gehen Sie wie folgt vor, um die Dynamic Chat-Integration zu aktivieren.
 
-1. Melden Sie sich bei Ihrem Salesforce-Konto an, klicken Sie auf das Pluszeichen am Ende der Registerkartenleiste und klicken Sie auf **Marketo Sales Insight-Konfiguration**.
+1. Melden Sie sich bei Ihrem Salesforce-Konto an, klicken Sie auf das Pluszeichen (+) am Ende der Registerkartenleiste und klicken Sie auf **Marketo Sales Insight Config**.
 
 1. Klicken Sie auf , um den Bereich &quot;Visualforce&quot;zu entfernen.
 
    ![](assets/dynamic-chat-integration-1.png)
 
-1. Wählen Sie die **Dynamic Chat Data aktivieren** aktivieren.
+1. Aktivieren Sie das Kontrollkästchen **Dynamic Chat-Daten aktivieren** .
 
    ![](assets/dynamic-chat-integration-2.png)
 
@@ -49,7 +49,7 @@ Interagiertes Dialogfeld: Angemeldet und in Sales Insight ausgefüllt, wenn ein 
 Geplante Ernennung: Wird in Marketo angemeldet und in Sales Insight ausgefüllt, wenn ein Besucher einen Termin erfolgreich über den Chatbot festlegt.
 
 * Dialogname
-* Agentin oder Agent
+* Agent
 * Seiten-URL
 * Geplant am (Datum und Zeitstempel einfügen)
 * Status (Geplant, Neu geplant, Abgebrochen)
@@ -84,7 +84,7 @@ Die Bedienfelder &quot;Konto&quot;und &quot;Chancen&quot;umfassen ebenfalls die 
 
 Der Tab Chat ist auch in Ihrer Registerkarte Global Marketo enthalten. Es umfasst drei Aktivitätstypen (Dialog interagieren, Terminplanung, Ziel erreicht) sowie die folgenden Spalten:
 
-* -Person
+* Person
 * Konto
 * Aktivitätstyp (Dialogfeld &quot;Interagiert&quot;, Terminplanung, Ziel erreicht)
 * Dialogname

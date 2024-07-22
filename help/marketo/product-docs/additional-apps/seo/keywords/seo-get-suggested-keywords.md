@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2949202
-description: SEO - Vorgeschlagene Suchbegriffe abrufen - Marketo-Dokumente - Produktdokumentation
+description: SEO - Vorgeschlagene Keywords - Marketo-Dokumente - Produktdokumentation
 title: SEO - Vorgeschlagene Suchbegriffe abrufen
 exl-id: 6631b389-039a-40f1-8445-3971576e9f65
 feature: SEO
@@ -17,23 +17,23 @@ Marketo SEO kann vorschlagen, welche Suchbegriffe Sie verfolgen sollten. Wir kö
 
 ## Suchbegriffvorschläge mit einem Suchbegriff abrufen {#get-keyword-suggestions-using-a-keyword}
 
-1. Navigieren Sie zu **[!UICONTROL Schlüsselwörter]** Abschnitt.
+1. Wechseln Sie zum Abschnitt **[!UICONTROL Suchbegriffe]** .
 
    ![](assets/image2014-9-18-10-3a51-3a41.png)
 
-1. Klicken **[!UICONTROL Empfehlungen abrufen]**.
+1. Klicken Sie auf **[!UICONTROL Empfehlungen abrufen]**.
 
    ![](assets/image2014-9-18-10-3a52-3a42.png)
 
-1. Geben Sie einen **[!UICONTROL Schlüsselwort]**. Klicken **[!UICONTROL Suchbegriffe vorschlagen]**.
+1. Geben Sie einen **[!UICONTROL Suchbegriff]** ein. Klicken Sie auf **[!UICONTROL Suchbegriffe vorschlagen]**.
 
    ![](assets/image2014-9-18-10-3a53-3a14.png)
 
    >[!TIP]
    >
-   >Wussten Sie, dass Sie  [Suchbegriff zu einer neuen oder vorhandenen Liste hinzufügen](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) genau hier?
+   >Wussten Sie, dass Sie Ihren Suchbegriff [hier in eine neue oder vorhandene Liste einfügen können](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)?
 
-1. Wählen Sie vorgeschlagene Suchbegriffe aus. Klicken **[!UICONTROL Auswahl hinzufügen]**.
+1. Wählen Sie vorgeschlagene Suchbegriffe aus. Klicken Sie auf **[!UICONTROL Ausgewählte hinzufügen]**.
 
    ![](assets/image2014-9-18-10-3a54-3a12.png)
 
@@ -45,27 +45,27 @@ Marketo SEO kann vorschlagen, welche Suchbegriffe Sie verfolgen sollten. Wir kö
 
 ## Suchbegriffvorschläge von einer URL abrufen  {#get-keyword-suggestions-from-a-url}
 
-1. Navigieren Sie zu **[!UICONTROL Schlüsselwörter]** Abschnitt.
+1. Wechseln Sie zum Abschnitt **[!UICONTROL Suchbegriffe]** .
 
    ![](assets/image2014-9-18-10-3a54-3a26.png)
 
-1. Klicken **[!UICONTROL Empfehlungen abrufen]**.
+1. Klicken Sie auf **[!UICONTROL Empfehlungen abrufen]**.
 
    ![](assets/image2014-9-18-11-3a4-3a43.png)
 
-1. Satz **[!UICONTROL Vorschlagen nach]** nach **[!UICONTROL URL]**.
+1. Setzen Sie **[!UICONTROL Suggest by]** auf **[!UICONTROL URL]**.
 
    ![](assets/image2014-9-18-11-3a4-3a52.png)
 
-1. Geben Sie einen **[!UICONTROL URL]** und klicken Sie auf **[!UICONTROL Suchbegriffe vorschlagen]**.
+1. Geben Sie eine **[!UICONTROL URL]** ein und klicken Sie auf **[!UICONTROL Suchbegriffe vorschlagen]**.
 
    ![](assets/image2014-9-18-11-3a5-3a7.png)
 
    >[!TIP]
    >
-   >Wussten Sie, dass Sie [Suchbegriff zu einer neuen oder vorhandenen Liste hinzufügen](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) genau hier?
+   >Wussten Sie, dass Sie Ihren Suchbegriff [hier in eine neue oder vorhandene Liste einfügen können](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)?
 
-1. Wählen Sie vorgeschlagene Suchbegriffe aus. Klicken **[!UICONTROL Auswahl hinzufügen]**.
+1. Wählen Sie vorgeschlagene Suchbegriffe aus. Klicken Sie auf **[!UICONTROL Ausgewählte hinzufügen]**.
 
    ![](assets/image2014-9-18-11-3a8-3a3.png)
 
@@ -75,5 +75,5 @@ Sehr gut! Ihr Suchbegriff wurde hinzugefügt.
 
 >[!MORELIKETHIS]
 >
->* [Suchbegriffe verstehen (Zusammenfassungsansicht)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
->* [Hinzufügen/Entfernen von Suchbegriffen aus einer Liste](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
+>* [Grundlegendes zu Suchbegriffen (Zusammenfassungsansicht)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
+>* [Suchbegriffe aus einer Liste hinzufügen/entfernen](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)

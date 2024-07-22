@@ -1,24 +1,24 @@
 ---
 description: Übersicht über die Adobe Experience Cloud-Benutzeroberfläche - Marketo-Dokumente - Produktdokumentation
-title: Übersicht über die Adobe Experience Cloud-Benutzeroberfläche
+title: Adobe Experience Cloud-Benutzeroberfläche – Übersicht
 exl-id: 7aaf6926-c921-4182-a8ef-d594643a5c1c
 feature: Integrations
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '282'
-ht-degree: 0%
+source-wordcount: '273'
+ht-degree: 4%
 
 ---
 
-# Übersicht über die Adobe Experience Cloud-Benutzeroberfläche {#adobe-experience-cloud-interface-overview}
+# Adobe Experience Cloud-Benutzeroberfläche – Übersicht {#adobe-experience-cloud-interface-overview}
 
 Die Adobe Experience Cloud-Benutzeroberfläche passt das Erscheinungsbild der Adobe Experience Cloud-Anwendungen und -Dienste an. Aber es ist mehr als nur ein neues Design. Es handelt sich dabei um eine Einzelseitenanwendung, die das Benutzererlebnis in einer einzigen Instanz ermöglicht.
 
 ## Benutzerfluss {#user-flow}
 
-Wenn Sie noch nicht bei einem Adobe Experience Cloud-Produkt angemeldet sind, melden Sie sich direkt bei [!DNL Marketo Engage] hier: [https://experience.adobe.com/marketo-engage](https://experience.adobe.com/marketo-engage).
+Wenn Sie noch nicht bei einem Adobe Experience Cloud-Produkt angemeldet sind, melden Sie sich hier direkt bei [!DNL Marketo Engage] an: [https://experience.adobe.com/marketo-engage](https://experience.adobe.com/marketo-engage).
 
-Wenn Sie _are_ bereits bei einem Adobe Experience Cloud-Produkt angemeldet sind, klicken Sie einfach auf das Menüsymbol und wählen Sie **[!DNL Marketo Engage]**.
+Wenn Sie _bereits bei einem Adobe Experience Cloud-Produkt angemeldet sind, klicken Sie einfach auf das Menüsymbol und wählen Sie **[!DNL Marketo Engage]**aus._
 
 ![](assets/unified-shell-overview-1.png)
 
@@ -32,7 +32,7 @@ Neben dem aktualisierten Erscheinungsbild werden Sie die folgenden Funktionen be
 
 **Integriertes Hilfezentrum**
 
-Greifen Sie über die [!DNL Marketo Engage] Anwendung.
+Greifen Sie über die Anwendung [!DNL Marketo Engage] auf eine Vielzahl verfügbarer Hilferessourcen zu.
 
 ![](assets/unified-shell-overview-2.png)
 
@@ -44,23 +44,23 @@ Diejenigen mit Zugriff auf mehrere Adobe-Produkte können einfach zwischen ihnen
 
 **Benachrichtigungen und Mitteilungen**
 
-Produktspezifische Benachrichtigungen und allgemeine Produktankündigungen direkt in der Adobe anzeigen und damit interagieren.
+Zeigen Sie Produktspezifische Benachrichtigungen und allgemeine Produktankündigungen direkt in der Anwendung an und interagieren Sie damit.
 
 ![](assets/unified-shell-overview-4.png)
 
 **Adobe Settings**
 
-Klicken Sie auf Ihr Profilsymbol, um Ihre Spracheinstellungen oder andere Voreinstellungen für die gesamte Adobe zu ändern.
+Klicken Sie auf Ihr Profilsymbol, um Ihre Spracheinstellungen oder andere Adobe-weite Voreinstellungen zu ändern.
 
 ![](assets/unified-shell-overview-5.png)
 
 ## FAQs {#faq}
 
-**Ich kann mich nicht bei [!DNL Marketo Engage] über die Experience Cloud-Oberfläche. Was könnte das Problem sein?**
+**Ich kann mich nicht über die Experience Cloud-Oberfläche bei [!DNL Marketo Engage] anmelden. Was könnte das Problem sein?**
 
-Wenn Sie sich bei Adobe Experience Cloud anmelden können, dann jedoch den Fehler &quot;Seite konnte nicht geladen werden&quot;angezeigt wird, liegt das Problem möglicherweise im [!DNL Marketo Engage] Seite. Bitte kontaktieren Sie [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support) Hilfe.
+Wenn Sie sich bei Adobe Experience Cloud anmelden können, dann jedoch den Fehler &quot;Seite konnte nicht geladen werden&quot;angezeigt wird, liegt das Problem möglicherweise auf der Seite &quot;[!DNL Marketo Engage]&quot;. Wenden Sie sich für Unterstützung an den [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support).
 
-**Wo sind Benutzerverlauf, globale Suche, Marketo-Benachrichtigungen und der Aufgabenbereich hin?**
+**Wo sind der Benutzerverlauf, die globale Suche, Marketo-Benachrichtigungen und der Aufgabenbereich hin?**
 
 Diese Funktionen wurden von der oberen Navigationsleiste in eine neue Leiste auf der linken Seite der Experience Cloud-Oberfläche verschoben.
 

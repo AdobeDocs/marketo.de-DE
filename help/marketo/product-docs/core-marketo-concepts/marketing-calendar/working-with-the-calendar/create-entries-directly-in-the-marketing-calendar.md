@@ -20,7 +20,7 @@ Marketo ermöglicht es Ihnen, Einträge direkt in Ihrem Marketingkalender mithil
 * E-Mail-Programme
 * Intelligente Kampagnen
 
-1. Klicken Sie auf **[!UICONTROL Kalender]** Kachel.
+1. Klicken Sie auf die Kachel **[!UICONTROL Kalender]**.
 
    ![](assets/2017-05-10-15-30-47-2.png)
 
@@ -38,7 +38,7 @@ Marketo ermöglicht es Ihnen, Einträge direkt in Ihrem Marketingkalender mithil
 
    >[!TIP]
    >
-   >Beachten Sie, dass Sie auch **Smart-Kampagnen**, **E-Mail-Programme** und **Einfache Einträge** auf die gleiche Weise.
+   >Beachten Sie, dass Sie auf dieselbe Weise auch **Smart-Kampagnen**, **E-Mail-Programme** und **einfache Einträge** erstellen können.
 
 1. Schließen Sie nach Abschluss der Bearbeitung den Fokusmodus des Programms.
 

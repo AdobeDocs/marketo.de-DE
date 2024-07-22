@@ -15,21 +15,21 @@ ht-degree: 0%
 
 Du hast Seiten! Marketo SEO durchsucht Ihre Site automatisch und verfolgt sie. Falls wir ein paar verpasst haben, rufen Sie sie in die SEO-App wie folgt ab:
 
-1. Navigieren Sie zu **[!UICONTROL Seiten]** Abschnitt.
+1. Wechseln Sie zum Abschnitt **[!UICONTROL Seiten]** .
 
    ![](assets/image2014-9-18-12-3a55-3a19.png)
 
-1. Klicks **[!UICONTROL Seiten hinzufügen]**.
+1. Klicken Sie auf **[!UICONTROL Seiten hinzufügen]**.
 
    ![](assets/image2014-9-18-12-3a55-3a53.png)
 
-1. Geben Sie die URLs ein, die Sie hinzufügen möchten. Klicks **[!UICONTROL Hinzufügen]**.
+1. Geben Sie die URLs ein, die Sie hinzufügen möchten. Klicken Sie auf **[!UICONTROL Hinzufügen]**.
 
    ![](assets/image2014-9-18-12-3a56-3a15.png)
 
    >[!TIP]
    >
-   >Wussten Sie, dass Sie [Seite einer neuen oder vorhandenen Liste hinzufügen](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)? Schau es dir an!
+   >Wusstest du, dass du [deine Seite zu einer neuen oder vorhandenen Liste hinzufügen kannst](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)? Schau es dir an!
 
    Es kann einen Moment dauern, bis Ihre Seitendaten geladen werden. Warten Sie auf die grüne Warnmeldung und aktualisieren Sie Ihre Seite, um die Anzeige zu aktualisieren.
 

@@ -7,7 +7,7 @@ feature: Engagement Programs
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '84'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 3%
 
 Sie können Interaktionsprogramme in Marketo verwenden, um E-Mail-Pflege zu erleichtern.
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Wechseln Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -23,7 +23,7 @@ Sie können Interaktionsprogramme in Marketo verwenden, um E-Mail-Pflege zu erle
 
    ![](assets/newprogramlifecycle.jpg)
 
-1. Geben Sie einen **Name** auswählen **Interaktion** für **Programmtyp** und klicken **Erstellen**.
+1. Geben Sie einen **Namen** ein, wählen Sie **Interaktion** für **Programmtyp** aus und klicken Sie auf **Erstellen**.
 
    ![](assets/image2014-9-15-15-3a35-3a32.png)
 

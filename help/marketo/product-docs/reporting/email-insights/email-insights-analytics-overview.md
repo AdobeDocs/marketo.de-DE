@@ -17,7 +17,7 @@ Erkunden Sie in Analytics die aggregierten Daten für E-Mail-Versand und Interak
 
 ![](assets/emailanalytics-1.jpg)
 
-[Filter](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) steht Ihnen zur Verfügung, mit deren Hilfe Sie einen Drilldown für bestimmte Metriken durchführen können.
+[Filterung](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) ist verfügbar, um Sie bei der Suche nach bestimmten Metriken zu unterstützen.
 
 ![](assets/filter-field.png)
 
@@ -45,7 +45,7 @@ Das Diagramm zeigt Ihre gefilterten Kriterien an. Um einen Filter auszublenden, 
 
 ![](assets/chart2.png)
 
-Wenn Sie ein Diagramm erstellen, das Sie erneut verwenden möchten, sollten Sie es zu einem [Schnelldiagramm](/help/marketo/product-docs/reporting/email-insights/email-insights-quick-charts.md).
+Wenn Sie ein Diagramm erstellen, das Sie erneut verwenden möchten, machen Sie es zu einem [Schnelldiagramm](/help/marketo/product-docs/reporting/email-insights/email-insights-quick-charts.md).
 
 ![](assets/quick-chart.png)
 
@@ -63,4 +63,4 @@ Sie können auch angeben, was Sie sehen (von links nach rechts): &quot;Alle&quot
 
 >[!MORELIKETHIS]
 >
->[Übersicht über die gesendeten E-Mail-Insights](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)
+>[Übersicht über die gesendeten E-Mail-Insights-Nachrichten](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)

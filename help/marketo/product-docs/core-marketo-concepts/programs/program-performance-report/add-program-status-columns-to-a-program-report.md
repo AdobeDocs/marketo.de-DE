@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Hinzufügen von Programmstatusspalten zu einem Programmbericht {#add-program-status-columns-to-a-program-report}
 
-Fügen Sie Statistiken zum Programmstatus zu Ihrem [Programmvollzugsbericht](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"}.
+Fügen Sie Ihrem [Programmleistungsbericht](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"} Statistiken zum Programmstatus hinzu.
 
-1. Navigieren Sie zu **[!UICONTROL Marketingaktivitäten]** (oder **[!UICONTROL Analytics]**).
+1. Wechseln Sie zu **[!UICONTROL Marketingaktivitäten]** (oder **[!UICONTROL Analytics]**).
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -23,7 +23,7 @@ Fügen Sie Statistiken zum Programmstatus zu Ihrem [Programmvollzugsbericht](/he
 
    ![](assets/emailperformance.jpg)
 
-1. Klicken Sie auf **[!UICONTROL Einrichtung]** und ziehen Sie über die **[!UICONTROL Kanal]** -Tag.
+1. Klicken Sie auf die Registerkarte **[!UICONTROL Einrichtung]** und ziehen Sie über das Tag **[!UICONTROL Kanal]**.
 
    ![](assets/image2014-9-23-16-3a26-3a38.png)
 
@@ -33,19 +33,19 @@ Fügen Sie Statistiken zum Programmstatus zu Ihrem [Programmvollzugsbericht](/he
 
    >[!TIP]
    >
-   >Um Spalten mit dem Programmstatus anzuzeigen, muss Ihr Bericht nach _Nur eins_ -Kanal.
+   >Um Spalten mit dem Programmstatus anzuzeigen, muss Ihr Bericht nach _nur einem_ -Kanal gefiltert werden.
 
-1. Aktivieren Sie die Option Spalten mit Programmstatus anzeigen . Klicks **[!UICONTROL Anwenden]**.
+1. Aktivieren Sie die Option Spalten mit Programmstatus anzeigen . Klicken Sie auf **[!UICONTROL Anwenden]**.
 
    ![](assets/image2014-9-23-16-3a26-3a53.png)
 
-1. Du hast es getan! Klicken Sie auf [!UICONTROL Bericht] um Ihren Bericht mit den Spalten zum Programmstatus anzuzeigen.
+1. Du hast es getan! Klicken Sie auf die Registerkarte [!UICONTROL Bericht] , um Ihren Bericht mit den Spalten zum Programmstatus anzuzeigen.
 
    ![](assets/programreport.jpg)
 
 >[!NOTE]
 >
->Wenn für jeden Status im Programm keine Spalte angezeigt wird, stellen Sie sicher, dass Sie [die anzuzeigenden Spalten ausgewählt haben](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md){target="_blank"} in den Bericht ein.
+>Wenn nicht für jeden Status im Programm eine Spalte angezeigt wird, vergewissern Sie sich, dass Sie die Spalten mit [ausgewählt haben, um ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md){target="_blank"} im Bericht anzuzeigen.
 
 >[!MORELIKETHIS]
 >

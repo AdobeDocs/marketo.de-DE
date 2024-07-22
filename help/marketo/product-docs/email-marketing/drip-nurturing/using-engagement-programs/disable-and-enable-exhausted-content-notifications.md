@@ -15,19 +15,19 @@ ht-degree: 0%
 
 Wenn Benutzer alle Inhalte in einem Stream ausfüllen, kann Marketo Ihnen eine Benachrichtigung senden. Sie können die Benachrichtigungen je nach Bedarf deaktivieren/aktivieren. So geht es.
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Wechseln Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Wählen Sie ein Interaktionsprogramm aus und klicken Sie auf die Schaltfläche **Einrichtung** Registerkarte.
+1. Wählen Sie ein Interaktionsprogramm aus und klicken Sie auf die Registerkarte **Einrichtung** .
 
    ![](assets/setuptab.jpg)
 
-1. Doppelklicken **Abgelaufene Inhaltsbenachrichtigungen**.
+1. Doppelklicken Sie auf **Benachrichtigungen zu abgelaufenen Inhalten**.
 
    ![](assets/image2014-9-15-17-3a28-3a11.png)
 
-1. Auswählen **Aus** (oder **on**) und klicken Sie auf **Speichern**.
+1. Wählen Sie **Aus** (oder **Ein**) und klicken Sie auf **Speichern**.
 
    ![](assets/image2014-9-15-17-3a28-3a15.png)
 

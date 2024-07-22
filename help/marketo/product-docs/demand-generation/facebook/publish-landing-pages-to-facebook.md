@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359823
-description: Veröffentlichen von Landingpages in Facebook - Marketo Docs - Produktdokumentation
-title: Veröffentlichen von Landingpages in Facebook
+description: Publish-Einstiegsseiten in Facebook - Marketo-Dokumente - Produktdokumentation
+title: Publish-Einstiegsseiten in Facebook
 exl-id: 42ba4136-3538-4eef-b794-3fce7e9fb8e5
 feature: Integrations
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '302'
 ht-degree: 0%
 
 ---
 
-# Veröffentlichen von Landingpages in Facebook {#publish-landing-pages-to-facebook}
+# Publish-Einstiegsseiten in Facebook {#publish-landing-pages-to-facebook}
 
 Sie können Ihre Landingpages in Facebook veröffentlichen, Ihre Audience dort treffen, wo sie bereits hängen, und mehr Traffic für Ihre Programme generieren.
 
@@ -29,7 +29,7 @@ Angenommen, Sie führen ein neues Buch auf, Sie können einige Ihrer Zielgruppen
 
    ![](assets/image2015-4-22-16-3a53-3a46.png)
 
-1. Auswählen **In Facebook veröffentlichen** von Landingpage-Aktionen.
+1. Wählen Sie **Publish zu Facebook** aus den Landingpage-Aktionen aus.
 
    ![](assets/image2015-4-22-16-3a54-3a55.png)
 
@@ -49,13 +49,13 @@ Angenommen, Sie führen ein neues Buch auf, Sie können einige Ihrer Zielgruppen
    >
    >Sie müssen ein Konto mit Administratorberechtigungen für die Facebook-Seite verwenden, auf der Sie Ihre Marketo-Landingpage veröffentlichen möchten.
 
-1. Wählen Sie die **Facebook-Seite** wo Sie die Landingpage veröffentlichen möchten, und geben Sie den Namen ein, unter dem Ihre Marketo-Landingpage dort erscheinen soll.
+1. Wählen Sie die **Facebook-Seite** aus, auf der Sie die Landingpage veröffentlichen möchten, und geben Sie den Namen ein, unter dem Ihre Marketo-Landingpage dort angezeigt werden soll.
 
    ![](assets/image2015-4-22-18-3a31-3a39.png)
 
    >[!NOTE]
    >
-   >Um Marketo-Landingpages zu ersetzen, die Sie bereits in Facebook veröffentlicht haben, wählen Sie **Vorhandene Registerkarte ersetzen** und wählen Sie die zu ersetzende Registerkarte aus der Dropdownliste aus. Beachten Sie, dass Nicht-Marketo-Registerkarten dadurch nicht ersetzt werden.
+   >Um Marketo-Landingpages zu ersetzen, die Sie bereits in Facebook veröffentlicht haben, wählen Sie **Vorhandene Registerkarte ersetzen** und wählen Sie die Registerkarte aus der Dropdownliste aus, die ersetzt werden soll. Beachten Sie, dass Nicht-Marketo-Registerkarten dadurch nicht ersetzt werden.
 
 1. Leads können Ihre Landingpage jetzt direkt auf Ihrer Facebook-Seite aufrufen. Klicken Sie einfach auf den Namen der Registerkarte unter Ihrem Titelbild.
 

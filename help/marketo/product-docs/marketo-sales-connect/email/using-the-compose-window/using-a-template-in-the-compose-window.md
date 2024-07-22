@@ -6,7 +6,7 @@ exl-id: 585254fc-54f6-4902-a3aa-6e415195c96d
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
@@ -41,21 +41,21 @@ ht-degree: 0%
 
 ## Veröffentlichen von Vorlagenkategorien im Fenster &quot;Erstellen&quot; {#pinning-template-categories-in-the-compose-window}
 
-Favorit **bis zu fünf** spezifische Vorlagenkategorien , um schnell auf Ihre am häufigsten verwendeten Vorlagen zugreifen zu können.
+Favoriten Sie **bis zu fünf** spezifische Vorlagenkategorien, um schnell auf Ihre am häufigsten verwendeten Vorlagen zugreifen zu können.
 
 1. Erstellen Sie Ihren E-Mail-Entwurf (dazu gibt es mehrere Möglichkeiten, in diesem Beispiel wählen wir **Erstellen** in der Kopfzeile).
 
    ![](assets/one-6.png)
 
-1. Klicken Sie auf **+** neben Favoriten.
+1. Klicken Sie auf das Symbol **+** neben Favoriten.
 
    ![](assets/pinning-two.png)
 
-1. Klicken Sie auf **Kategorie veröffentlichen** und wählen Sie die gewünschte Kategorie aus.
+1. Klicken Sie auf das Dropdown-Menü **Kategorie veröffentlichen** und wählen Sie die gewünschte Kategorie aus.
 
    ![](assets/pinning-three.png)
 
-1. Klicken **Änderungen speichern** when done (optional): Schritt 3 wiederholen, um weitere hinzuzufügen).
+1. Klicken Sie abschließend auf **Änderungen speichern** (optional: Wiederholen Sie Schritt 3, um weitere Änderungen hinzuzufügen).
 
    ![](assets/pinning-four.png)
 

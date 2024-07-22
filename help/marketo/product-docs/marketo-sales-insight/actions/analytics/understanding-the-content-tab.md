@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Die Registerkarte &quot;Inhalt&quot; {#understanding-the-content-tab}
 
-Auf der Registerkarte Inhalt wird die E-Mail-Interaktion Ihres Teams bei der Verwendung einer Vorlage beschrieben. Wir tauchen automatisch drei Metriken auf, die wir für wichtig halten.
+Auf der Registerkarte &quot;Inhalt&quot;wird die E-Mail-Interaktion Ihres Teams bei der Verwendung einer Vorlage beschrieben. Wir tauchen automatisch drei Metriken auf, die wir für wichtig halten.
 
 ## Geheime Waffe {#secret-weapon}
 

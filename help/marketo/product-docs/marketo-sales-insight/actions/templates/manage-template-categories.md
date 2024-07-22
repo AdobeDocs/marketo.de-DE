@@ -16,25 +16,25 @@ ht-degree: 0%
 
 ## Erstellen einer Kategorie {#create-a-category}
 
-1. Klicken Sie auf **Vorlagen** Registerkarte.
+1. Klicken Sie auf die Registerkarte **Vorlagen**.
 
    ![](assets/manage-template-categories-1.png)
 
-1. Klicken Sie auf **+** Symbol neben **Kategorien**.
+1. Klicken Sie auf das Symbol **+** neben **Kategorien**.
 
    ![](assets/manage-template-categories-2.png)
 
-1. Geben Sie einen Namen für die neue Kategorie ein und klicken Sie auf **Erstellen**.
+1. Geben Sie einen Namen für die neue Kategorie ein und klicken Sie dann auf **Erstellen**.
 
    ![](assets/manage-template-categories-3.png)
 
 ## Umbenennen einer Vorlagenkategorie {#rename-a-template-category}
 
-1. Klicken Sie auf **Vorlagen** Registerkarte.
+1. Klicken Sie auf die Registerkarte **Vorlagen**.
 
    ![](assets/manage-template-categories-4.png)
 
-1. Bewegen Sie den Mauszeiger über die Vorlage, die Sie umbenennen möchten, und klicken Sie auf die Daten (drei Punkte). Auswählen **Umbenennen**.
+1. Bewegen Sie den Mauszeiger über die Vorlage, die Sie umbenennen möchten, und klicken Sie auf die Daten (drei Punkte). Wählen Sie **Umbenennen** aus.
 
    ![](assets/manage-template-categories-5.png)
 
@@ -44,15 +44,15 @@ ht-degree: 0%
 
 ## Löschen von Vorlagenkategorien {#delete-a-template-category}
 
-1. Klicken Sie auf **Vorlagen** Registerkarte.
+1. Klicken Sie auf die Registerkarte **Vorlagen**.
 
    ![](assets/manage-template-categories-7.png)
 
-1. Bewegen Sie den Mauszeiger über die Vorlage, die Sie umbenennen möchten, und klicken Sie auf die Daten (drei Punkte). Auswählen **Löschen**.
+1. Bewegen Sie den Mauszeiger über die Vorlage, die Sie umbenennen möchten, und klicken Sie auf die Daten (drei Punkte). Wählen Sie **Löschen** aus.
 
    ![](assets/manage-template-categories-8.png)
 
-1. Klicks **Löschen** zur Bestätigung.
+1. Klicken Sie zur Bestätigung auf **Löschen** .
 
    ![](assets/manage-template-categories-9.png)
 

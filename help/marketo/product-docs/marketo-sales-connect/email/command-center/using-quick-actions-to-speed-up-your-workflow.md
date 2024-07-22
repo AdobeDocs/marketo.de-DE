@@ -19,14 +19,14 @@ Im E-Mail-Raster gibt es zwei Arten von Schnellaktionsspalten. E-Mail-Aktionen, 
 
 Schnellaktionen für E-Mails sind dynamisch und werden je nach den für den Status der E-Mail, die Sie betrachten, am relevantesten Aktionen aktualisiert. Für jeden E-Mail-Status sind maximal zwei Schnellaktionen sichtbar. Unten sehen Sie, welche E-Mail-Schnellaktionen für jeden Status verfügbar sein werden.
 
-**Übermittelt**
+**Zugestellt**
 
 | Status | Beschreibung |
 |---|---|
 | Archivieren | Fügt die E-Mail zum archivierten Ordner hinzu und stoppt alle deaktivierten Ansichten und Klick-Tracking für diese E-Mail. |
 | Erfolg | Kennzeichnet die E-Mail als erfolgreich, um in der Vorlagenanalyse berichtet zu werden. |
 
-**Archiviert**
+**Archived**
 
 <table> 
  <colgroup> 
@@ -40,7 +40,7 @@ Schnellaktionen für E-Mails sind dynamisch und werden je nach den für den Stat
   </tr> 
   <tr> 
    <td>Löschen</td> 
-   <td><p>löscht die E-Mail.<br><strong>Hinweis:</strong> E-Mails, die im Rahmen einer Kampagne gesendet wurden, können nicht gelöscht werden.</p></td> 
+   <td><p>löscht die E-Mail.<br><strong>Hinweis:</strong> E-Mails, die als Teil einer Kampagne gesendet wurden, können nicht gelöscht werden.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -59,7 +59,7 @@ Schnellaktionen für E-Mails sind dynamisch und werden je nach den für den Stat
   </tr> 
   <tr> 
    <td>Löschen</td> 
-   <td><p>löscht die E-Mail.<br><strong>Hinweis:</strong> E-Mails, die im Rahmen einer Kampagne gesendet wurden, können nicht gelöscht werden.</p></td> 
+   <td><p>löscht die E-Mail.<br><strong>Hinweis:</strong> E-Mails, die als Teil einer Kampagne gesendet wurden, können nicht gelöscht werden.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -78,12 +78,12 @@ Schnellaktionen für E-Mails sind dynamisch und werden je nach den für den Stat
   </tr> 
   <tr> 
    <td>Löschen</td> 
-   <td><p>löscht die E-Mail.<br><strong>Hinweis:</strong> E-Mails, die im Rahmen einer Kampagne gesendet wurden, können nicht gelöscht werden.</p></td> 
+   <td><p>löscht die E-Mail.<br><strong>Hinweis:</strong> E-Mails, die als Teil einer Kampagne gesendet wurden, können nicht gelöscht werden.</p></td> 
   </tr> 
  </tbody> 
 </table>
 
-**Folgemaßnahmen**
+**Follow-up-Aktionen**
 
 ![](assets/using-quick-actions-to-speed-up-your-workflow-1.png)
 

@@ -6,7 +6,7 @@ exl-id: f7f06779-8abe-4c8c-9197-9d0c6bcfed49
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
@@ -17,25 +17,25 @@ Befolgen Sie zur Implementierung Ihres RTP-Tags die unten stehenden Installation
 
 1. Melden Sie sich bei Ihrem Google Tag Manager-Konto an.
 
-1. Fügen Sie ein neues Tag > Tag-Konfigurationen > Benutzerdefiniertes HTML-Tag** hinzu.** Aufruf **RTP**.
+1. Fügen Sie ein neues Tag > Tag-Konfigurationen > Benutzerdefiniertes HTML-Tag** hinzu.** Rufen Sie es auf **RTP**.
 
 1. Melden Sie sich bei Ihrem RTP-Konto an**.**
 
-1. Navigieren Sie zu **Kontoeinstellungen**.
+1. Wechseln Sie zu **Kontoeinstellungen**.
 
    a. Wenn Sie Ihr JavaScript-Tag bereits vom Support erhalten haben, fahren Sie mit Schritt 6 fort.
 
    ![](assets/image2014-11-30-15-3a19-3a21.png)
 
-1. Suchen Sie unter Domäne die entsprechende Domäne und klicken Sie auf **Tag generieren**.
+1. Suchen Sie unter &quot;Domäne&quot;die entsprechende Domäne und klicken Sie auf **Tag generieren**.
 
    ![](assets/image2014-11-30-15-3a20-3a17.png)
 
-1. Kopieren Sie das RTP-JavaScript-Tag und fügen Sie es in das neue **Benutzerdefiniertes HTML-Tag** haben Sie erstellt (Schritt 1).
+1. Kopieren Sie das RTP JavaScript-Tag und fügen Sie es in das neue **benutzerdefinierte HTML-Tag** ein, das Sie erstellt haben (Schritt 1).
 
-1. Klicks **+Regel zum Auslösen eines Tags hinzufügen**. Auswählen **Alle Seiten**.
+1. Klicken Sie auf **+Regel zum Auslösen des Tags hinzufügen**. Wählen Sie **Alle Seiten** aus.
 
-1. Klicks **Speichern** und [die neue Version veröffentlichen](https://support.google.com/tagmanager/answer/2699097?hl=en).
+1. Klicken Sie auf **Speichern** und [veröffentlichen Sie die neue Version](https://support.google.com/tagmanager/answer/2699097?hl=en).
 
 1. Vergewissern Sie sich, dass sie auf allen Seiten angezeigt wird, einschließlich Landingpages und Sub-Domains.
 

@@ -7,7 +7,7 @@ feature: Marketing Calendar
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '85'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -27,7 +27,7 @@ Durch das Speichern eines Filters können Sie zwischen verschiedenen Filterdefin
 
    ![](assets/image2014-9-24-10-3a50-3a57.png)
 
-1. Benennen Sie den Filter. Klicken **[!UICONTROL Speichern]**.
+1. Benennen Sie den Filter. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/image2014-9-24-10-3a51-3a3.png)
 
@@ -35,7 +35,7 @@ Durch das Speichern eines Filters können Sie zwischen verschiedenen Filterdefin
 
    ![](assets/image2014-9-24-10-3a51-3a12.png)
 
-   Wenn du willst, kannst du [Kopie senden](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md){target="_blank"} der Definition für andere Marketo-Benutzer.
+   Sie können bei Bedarf [eine Kopie](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md){target="_blank"} der Definition an andere Marketo-Benutzer senden.
 
    >[!NOTE]
    >

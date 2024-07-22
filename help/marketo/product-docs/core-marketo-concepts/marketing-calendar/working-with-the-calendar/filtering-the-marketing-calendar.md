@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Verwenden Sie Eingabetypen, Programm-Tags oder Arbeitsbereiche, um die im Kalender angezeigten Informationen zu filtern.
 
-1. Klicken Sie auf **[!UICONTROL Kalender]** Kachel.
+1. Klicken Sie auf die Kachel **[!UICONTROL Kalender]**.
 
 ![](assets/2017-05-10-15-30-47.png)
 
-1. Klicken Sie auf **[!UICONTROL Einstiegstyp]** angezeigt.
+1. Klicken Sie auf die Dropdown-Liste **[!UICONTROL Einstiegstyp]** .
 
    >[!NOTE]
    >
-   >Die standardmäßigen Eintragstypen sind **[!UICONTROL Email]** **[!UICONTROL Programme]** und **[!UICONTROL Smart-Kampagnen mit E-Mail]**.
+   >Die Standardeingabetypen sind **[!UICONTROL E-Mail]** **[!UICONTROL Programme]** und **[!UICONTROL Smart-Kampagnen mit E-Mail]**.
 
    ![](assets/image2014-9-24-10-3a46-3a54.png)
 
@@ -33,7 +33,7 @@ Verwenden Sie Eingabetypen, Programm-Tags oder Arbeitsbereiche, um die im Kalend
 
    >[!TIP]
    >
-   >Beschreibung der Standardeingabetypen finden Sie unter [Programmplanungsansicht Einstiegstypen](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md){target="_blank"}.
+   >Beschreibungen der standardmäßigen Eintragstypen finden Sie unter [Programmplanungsansicht für Eintrittstypen](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md){target="_blank"}.
 
 1. Wählen Sie die für Sie interessanten Programm-Tags aus.
 
@@ -43,7 +43,7 @@ Verwenden Sie Eingabetypen, Programm-Tags oder Arbeitsbereiche, um die im Kalend
 
    ![](assets/image2014-9-24-10-3a47-3a9.png)
 
-   Fantastisch Es werden jetzt nur Einträge angezeigt, die für den soeben definierten Filter gelten.
+   Fantastisch! Es werden jetzt nur Einträge angezeigt, die für den soeben definierten Filter gelten.
 
    >[!NOTE]
    >

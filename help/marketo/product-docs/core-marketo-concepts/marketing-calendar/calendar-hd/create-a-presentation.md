@@ -20,15 +20,15 @@ Erstellen Sie eine Präsentation, um die Kalenderansichten und -ziele Ihres Team
 >
 >Nicht alle Marketo Engage-Benutzer haben diese Funktion erworben. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).
 
-1. Navigieren Sie zu **[!UICONTROL Kalender]**.
+1. Wechseln Sie zum **[!UICONTROL Kalender]**.
 
    ![](assets/2017-05-10-15-30-47.png)
 
-1. Klicks **[!UICONTROL Presentations]** in der unteren rechten Ecke.
+1. Klicken Sie unten rechts auf **[!UICONTROL Presentations]** .
 
    ![](assets/image2015-3-18-12-3a29-3a26.png)
 
-1. Klicks **[!UICONTROL Präsentationsaktionen]** und wählen **[!UICONTROL Neue Präsentation]**.
+1. Klicken Sie auf **[!UICONTROL Darstellungsaktionen]** und wählen Sie **[!UICONTROL Neue Präsentation]** aus.
 
    ![](assets/image2015-3-26-12-3a38-3a6.png)
 

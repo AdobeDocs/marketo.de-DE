@@ -23,11 +23,11 @@ Wenn Sie über eine nicht verifizierte E-Mail-Identität verfügen, führen Sie 
 
    ![](assets/verify-your-email-2.png)
 
-1. Suchen Sie unter &quot;Adresse und Signatur&quot;die E-Mail-Identität, die Sie überprüfen möchten, und klicken Sie auf **E-Mail erneut überprüfen**. Eine neue Verifizierungs-E-Mail wird gesendet.
+1. Suchen Sie unter &quot;Adresse und Signatur&quot;die E-Mail-Identität, die Sie überprüfen möchten, und klicken Sie auf **E-Mail erneut senden**. Eine neue Verifizierungs-E-Mail wird gesendet.
 
    ![](assets/verify-your-email-3.png)
 
-1. Klicken **Erneut senden**.
+1. Klicken Sie auf **Erneut senden**.
 
    ![](assets/verify-your-email-4.png)
 

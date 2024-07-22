@@ -83,7 +83,7 @@ Führen Sie diese Aufgaben aus, um die Kernfunktionen von Marketo Engage kennenz
       <img alt="E-Mail" src="getting-started/assets/getting-started-6.png" />
     </a>
     <div>
-    <a href="getting-started/quick-wins/import-a-list-of-people.md">6. Eine Personenliste importieren</a>
+    <a href="getting-started/quick-wins/import-a-list-of-people.md">6. Import a List of People</a>
     </div>
     <br>
   </td>
@@ -118,7 +118,7 @@ Führen Sie diese Aufgaben aus, um die Kernfunktionen von Marketo Engage kennenz
       <img alt="Verbinden" src="getting-started/assets/getting-started-10.png"/>
     </a>
     <div>
-    <a href="getting-started/quick-wins/update-person-data.md">10. Personendaten aktualisieren</a>
+    <a href="getting-started/quick-wins/update-person-data.md">10. Aktualisieren von Personendaten</a>
     </div>
     <br>
   </td>
@@ -127,4 +127,4 @@ Führen Sie diese Aufgaben aus, um die Kernfunktionen von Marketo Engage kennenz
 
 ## SCHRITT 4 Congrats! Du bist bereit für die Nation  {#congrats-youre-ready-for-the-nation}
 
-Sehen Sie sich die [Marketing-Nation](https://nation.marketo.com){target="_blank"}!
+Sehen Sie sich die [Marketing Nation](https://nation.marketo.com){target="_blank"} an!

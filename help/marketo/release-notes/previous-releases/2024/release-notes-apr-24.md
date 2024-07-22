@@ -14,15 +14,15 @@ ht-degree: 8%
 
 Unten finden Sie alle Funktionen der Version vom 24. April. Überprüfen Sie Ihre Adobe Marketo Engage-Edition auf Funktionsverfügbarkeit.
 
-Die Versionshinweise speziell für Adobe Dynamic Chat [finden Sie hier .](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
+Die Versionshinweise speziell für Adobe Dynamic Chat [finden Sie hier](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 >[!AVAILABILITY]
 >
->Mit einem Stern (![star](assets/yellow-star.png)) sind kostenpflichtige Add-ons. Wenden Sie sich an Ihren Marketo Engage-Support-Mitarbeiter, um mehr zu erfahren.
+>Mit einem Stern (![Stern](assets/yellow-star.png)) gekennzeichnete Funktionen sind kostenpflichtige Add-ons. Wenden Sie sich an Ihren Marketo Engage-Support-Mitarbeiter, um mehr zu erfahren.
 
 ## Standardfunktionen des Versionszyklus {#standard-release-cycle-features}
 
-Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab der Veröffentlichung auf **26. April 2024**, mit einer stufenweisen Einführung der verbleibenden Funktionen in den darauffolgenden Wochen. Die Veröffentlichungsfunktionen und -daten können sich ändern. Bitte überprüfen Sie neben den einzelnen Funktionen nach ihrem Status.
+Die folgenden Funktionen fallen unter den standardmäßigen Versionszyklus und werden am 26. April 2024 veröffentlicht. Am 26. April 2024 wird eine schrittweise Einführung der verbleibenden Funktionen in den darauffolgenden Wochen erfolgen. **** Die Veröffentlichungsfunktionen und -daten können sich ändern. Bitte überprüfen Sie neben den einzelnen Funktionen nach ihrem Status.
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -32,7 +32,7 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
    <th style="width:25%">Dokumentation</th>
   </tr>
      <tr> 
-   <td><strong>Verbesserungen bei interaktiven Webinaren</strong>: Hosts und Moderatoren können jetzt einen Webinartitel hinzufügen, einen Raum umbenennen und Interaktionsdaten nach der Ereignisbereitstellung manuell synchronisieren.</td> 
+   <td><strong>Verbesserungen an interaktiven Webinaren</strong>: Sie können Hosts und Moderatoren jetzt die Möglichkeit geben, einen Webinartitel hinzuzufügen, einen Raum umzubenennen und Interaktionsdaten nach der Ereignisbereitstellung manuell zu synchronisieren.</td> 
    <td>Versendet</td>
    <td><li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md">Erstellen eines interaktiven Webinars</a></li>
    <li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md#manual-sync">Manuelle Synchronisierung</a></li></td>
@@ -43,7 +43,8 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
    <td> </td>
   </tr>
     <tr> 
-   <td><strong>Verbesserungen am Audit-Protokoll</strong>: Im Audit-Protokoll können jetzt neue Aktionstypen für Änderungen im Feldmanagement, Änderungen an Benutzern und Rollen sowie die Anzahl der aus Listen und Smart-Listen exportierten Personen erfasst werden.</td> 
+   <td><strong>Verbesserungen am Audit-Protokoll</strong>: 
+   Im Audit-Protokoll können jetzt neue Aktionstypen erfasst werden, um Änderungen an der Feldverwaltung, Änderungen an Benutzern und Rollen sowie die Anzahl der aus Listen und Smart-Listen exportierten Personen zu erhalten.</td> 
    <td><i>Demnächst verfügbar</i></td>
    <td><i>Demnächst verfügbar</i></td>
   </tr>
@@ -53,7 +54,7 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
    <td> </td>
   </tr>
     <tr> 
-   <td><strong>Neue Berechtigungen für Benutzer und Rollen</strong>: Es sind neue Berechtigungen verfügbar, die Benutzern detaillierteren Zugriff auf Marketo Engage bieten. Kontrollteile von Admin, die noch nicht erfasst wurden, wie z. B. neue Erlebnisse und vorausschauende Zielgruppen, teilen Berechtigungen auf, um Zugriff auf das Asset-Audit-Protokoll und das Admin Audit-Protokoll separat zu gewähren, und verwenden neue Berechtigungen zum Erstellen und Verschieben für Assets und Ordner, um schreibgeschützte Benutzer daran zu hindern, Änderungen vorzunehmen. 
+   <td><strong>Neue Benutzer- und Benutzerberechtigungen</strong>: Es sind neue Berechtigungen verfügbar, die Benutzern detaillierteren Zugriff auf Marketo Engage bieten. Kontrollteile von Admin, die noch nicht erfasst wurden, wie z. B. neue Erlebnisse und vorausschauende Zielgruppen, teilen Berechtigungen auf, um Zugriff auf das Asset-Audit-Protokoll und das Admin Audit-Protokoll separat zu gewähren, und verwenden neue Berechtigungen zum Erstellen und Verschieben für Assets und Ordner, um schreibgeschützte Benutzer daran zu hindern, Änderungen vorzunehmen. 
    <p>Während die neuen Berechtigungen ab dem 26. April in Ihrer Marketo Engage-Instanz erscheinen, sind sie zunächst passiv und werden später in diesem Quartal verfügbar sein.
    <li>Zugriff auf Adobe Experience Manager</li>
    <li>Adobe-Organisationszuordnung aufrufen</li>
@@ -74,9 +75,9 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
 
 ## Ankündigungen {#announcements}
 
-* **API-Update für Aktivitäten**: Am 26. April fügen wir Web- und E-Mail-basierten Aktivitäten mehrere neue Attribute hinzu, die zurückgegeben werden, wenn Sie Aktivitäten mit der [MARKETO REST API](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities){target="_blank"}. Die unten aufgeführten Aktivitäten umfassen jetzt Attribute zu Browser, Plattform, Gerät und Benutzeragenten. Rufen Sie die [Abrufen von Aktivitätstypen](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities/operation/getAllActivityTypesUsingGET){target="_blank"} -Endpunkt, um die Attributdetails für jede Aktivität zu überprüfen.
+* **Aktualisierung der Aktivitäts-API**: Am 26. April fügen wir webbasierten und E-Mail-basierten Aktivitäten mehrere neue Attribute hinzu, die zurückgegeben werden, wenn Sie Aktivitäten mit der [Marketo REST API](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities){target="_blank"} abrufen. Die unten aufgeführten Aktivitäten umfassen jetzt Attribute zu Browser, Plattform, Gerät und Benutzeragenten. Rufen Sie den Endpunkt [Aktivitätstypen abrufen](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities/operation/getAllActivityTypesUsingGET){target="_blank"} auf, um die Attributdetails für jede Aktivität zu überprüfen.
 
-**Internetbasierte Aktivitäten**
+**Web-basierte Aktivitäten**
 
 <table style="table-layout:auto"> 
  <tbody> 

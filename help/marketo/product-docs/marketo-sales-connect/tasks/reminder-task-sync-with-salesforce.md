@@ -14,7 +14,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->So erfahren Sie, wie Sie das Auschecken von Aufgaben aktivieren [Synchronisieren von Sales Connect-Aufgaben/Erinnerungen mit Salesforce-Aufgaben](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md#sync-sales-connect-tasks-reminders-to-salesforce-tasks).
+>Um zu erfahren, wie Sie die Aufgabensynchronisierung aktivieren, sehen Sie sich die Informationen unter [Aufgaben/Erinnerungen für die Vertriebsverbindung mit Salesforce-Aufgaben synchronisieren](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md#sync-sales-connect-tasks-reminders-to-salesforce-tasks) an.
 
 Sobald die Einstellungen für die Aufgabensynchronisierung aktiviert sind, sehen die Benutzer ihre Erinnerungsaufgaben bidirektional mit Salesforce synchronisiert. Dies bedeutet, dass Benutzer Aufgaben entweder über Salesforce oder Sales Connect verwalten können und sicher sind, dass die Systeme aufeinander abgestimmt bleiben.
 
@@ -63,7 +63,7 @@ Im Folgenden finden Sie eine Liste der Erinnerungsaufgaben-Felder in Sales Conne
 
 ## Synchronisieren von Sales Connect-Aufgaben mit Salesforce zum ersten Mal {#syncing-sales-connect-tasks-with-salesforce-for-the-first-time}
 
-Wenn Sie die Synchronisierung zwischen Sales Connect- und Salesforce-Aufgaben zum ersten Mal aktivieren, importieren wir Ihre Salesforce-Aufgaben. Wir werden **not** Übertragen Sie alle aktuellen Aufgaben, die Sie in Sales Connect haben, in Salesforce. Um Übersichtlichkeit und Duplikate zu reduzieren, werden nur Aufgaben erstellt, die von Sales Connect mit Salesforce synchronisiert werden *after* Sie synchronisieren Sales Connect mit SFDC.
+Wenn Sie die Synchronisierung zwischen Sales Connect- und Salesforce-Aufgaben zum ersten Mal aktivieren, importieren wir Ihre Salesforce-Aufgaben. Wir übernehmen **nicht** alle aktuellen Aufgaben, die Sie in Sales Connect haben, mit Salesforce. Um Übersichtlichkeit und Duplikate zu reduzieren, sind die einzigen Aufgaben, die von Sales Connect mit Salesforce synchronisiert werden, Aufgaben, die *nach* der Synchronisierung von Sales Connect mit SFDC erstellt wurden.
 
 Folgendes geschieht, wenn Sie Sales Connect- und SFDC-Aufgaben synchronisieren:
 
@@ -77,8 +77,8 @@ Folgendes geschieht, wenn Sie Sales Connect- und SFDC-Aufgaben synchronisieren:
 
 Nach der ersten Synchronisierung werden alle Aufgaben, die Sie in Sales Connect erstellen, bearbeiten, abschließen oder löschen, mit Ihrer Aufgabenliste in Salesforce synchronisiert. Und alles, was in Salesforce erstellt, bearbeitet, abgeschlossen oder gelöscht wurde, aktualisiert Ihre Aufgabenliste in Sales Connect.
 
-Um diese Synchronisierung zu aktivieren, aktivieren Sie einfach das Synchronisierungsfeld in Ihrem [Einstellungsseite](https://toutapp.com/login) in der Webanwendung.
+Um diese Synchronisierung zu aktivieren, aktivieren Sie einfach das Kontrollkästchen &quot;Synchronisieren&quot;auf Ihrer [Einstellungsseite](https://toutapp.com/login) in der Webanwendung.
 
 >[!NOTE]
 >
->Das Betrefffeld einer Aufgabe kann in Sales Connect aktualisiert werden. Dieses Update wird im Betrefffeld Salesforce für die entsprechende synchronisierte Aufgabe synchronisiert, wenn Sie die `{{activity_subject}}` dynamisches Feld in [Anpassung der Aktivitätsdetails](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md) -Einstellungen. Umgekehrt werden alle Aktualisierungen am Betrefffeld in Salesforce _not_ Synchronisieren Sie mit dem Betreff der Erinnerungsaufgabe von Sales Connect.
+>Das Betrefffeld einer Aufgabe kann in Sales Connect aktualisiert werden. Dieses Update wird im Betrefffeld Salesforce für die entsprechende synchronisierte Aufgabe synchronisiert, wenn Sie das dynamische Feld `{{activity_subject}}` in Ihren Einstellungen für die [Anpassung der Aktivitätsdetails](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md) verwenden. Umgekehrt werden alle Aktualisierungen am Betrefffeld in Salesforce _nicht_ mit dem Betrefffeld der Erinnerungsaufgabe für Sales Connect synchronisiert.

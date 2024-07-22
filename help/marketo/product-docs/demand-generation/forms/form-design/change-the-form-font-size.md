@@ -19,7 +19,7 @@ Marketo erleichtert es Ihnen, das Erscheinungsbild Ihrer Formulare anzupassen. E
 >
 >Diese Einstellung wirkt sich auf die Formularbeschriftung, den Eingabetext und den Text der Senden-Schaltfläche aus.
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Wechseln Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -27,19 +27,19 @@ Marketo erleichtert es Ihnen, das Erscheinungsbild Ihrer Formulare anzupassen. E
 
    ![](assets/image2014-9-15-16-3a9-3a41.png)
 
-1. under **Formulareinstellungen**, Auswahl **Einstellungen**.
+1. Wählen Sie unter **Formulaeinstellungen** die Option **Einstellungen**.
 
    ![](assets/image2014-9-15-16-3a9-3a56.png)
 
-1. Wählen Sie die **Schriftgröße** Sie wollen.
+1. Wählen Sie die gewünschte **Schriftgröße** aus.
 
    ![](assets/image2014-9-15-16-3a10-3a8.png)
 
-1. Klicks **Beenden**.
+1. Klicken Sie auf **Beenden**.
 
    ![](assets/image2014-9-15-16-3a10-3a50.png)
 
-1. Klicks **Genehmigen und schließen**.
+1. Klicken Sie auf **Genehmigen und schließen**.
 
    >[!NOTE]
    >

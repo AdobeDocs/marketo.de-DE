@@ -7,7 +7,7 @@ feature: Social
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '276'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -17,11 +17,11 @@ Sie definieren das Erfüllungsziel beim Erstellen eines Verweisangebots. Wenn di
 
 ## Konvertierungsskript abrufen {#retrieve-the-conversion-script}
 
-1. Klicken Sie im Referenzwebenerditor auf **Angebotsdetails** und wählen Sie **JavaScript-Ereignis des Kunden** aus der Dropdown-Liste &quot;Erfüllungsziel&quot;.
+1. Klicken Sie im Angebotseditor auf **Angebotsdetails** und wählen Sie dann **JavaScript-Kundenereignis** aus der Dropdown-Liste für das Erfüllungsziel aus.
 
    ![](assets/image2015-4-20-17-3a22-3a15.png)
 
-1. Kopieren Sie das obere Skript in die graue Kachel und platzieren Sie es auf Ihrer Webseite in der `<body>` Tags. Das untere Skript wird im `<header>` Tags.
+1. Kopieren Sie das obere Skript in das graue Feld und platzieren Sie es auf Ihrer Webseite innerhalb der `<body>` -Tags. Das untere Skript wird innerhalb der `<header>` -Tags platziert.
 
    ![](assets/image2015-4-20-17-3a29-3a7.png)
 
@@ -31,11 +31,11 @@ Sie definieren das Erfüllungsziel beim Erstellen eines Verweisangebots. Wenn di
 
 ## Loader-Skript abrufen {#retrieve-the-loader-script}
 
-1. Wählen Sie das Verweisangebot aus dem Baum aus und klicken Sie auf **Verweisangebotsaktionen** und **Einbettungscode**.
+1. Wählen Sie das Verweisangebot aus dem Baum aus und klicken Sie dann auf **Verweisangebotsaktionen** und **Einbettungscode**.
 
    ![](assets/image2015-4-20-17-3a34-3a46.png)
 
-1. Rechtsklicken Sie auf die **Kopfzeilencode** und fügen Sie sie in Ihren Webseitenkopf ein. Führen Sie dann dasselbe für die **Textkörper**.
+1. Klicken Sie mit der rechten Maustaste auf den **Kopfzeilencode** und fügen Sie ihn in den Webseitenkopf ein. Führen Sie dann dasselbe für den **Textkörpercode** aus.
 
    ![](assets/image2015-4-20-20-3a49-3a19.png)
 
@@ -47,13 +47,13 @@ Fügen Sie die Konvertierungsskripte in die HTML für den Hauptteil und die Kopf
 
 ## Verbinden des Konvertierungsskripts {#connecting-the-conversion-script}
 
-Hier schreiben Sie eine JavaScript-Funktion, die die spezifische HTML-ID des Seitenelements verwendet, für das Sie das Trigger-Ziel abschließen möchten. Beispiel:
+Hier schreiben Sie eine JavaScript-Funktion, die die spezifische HTML-ID des Seitenelements verwendet, für das das Trigger-Ziel abgeschlossen werden soll. Beispiel:
 
 `<pre><em><!-- Referral offer conversion script --></em> <script> cf_scripts.afterload(function (){ jQuery("#myButtonId").click(function (){ CF.insight.conversion(); }); }); </script></pre>` `<pre>`
 
 In diesem Beispiel gibt es eine Schaltfläche auf der Webseite mit der ID &quot;#myButtonId&quot;. Wenn auf diese Schaltfläche geklickt wird, wird die Person registriert, als habe sie das Ziel erreicht.
 
-Fantastisch Ihre Website erfasst jetzt benutzerdefinierte Ziele für die Social-Media-Werbung mit Marketo.
+Fantastisch! Ihre Website erfasst jetzt benutzerdefinierte Ziele für die Social-Media-Werbung mit Marketo.
 
 >[!MORELIKETHIS]
 >

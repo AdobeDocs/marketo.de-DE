@@ -5,8 +5,8 @@ exl-id: a6ef6f28-865b-42e7-94e5-32874eb9ecb4
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '339'
-ht-degree: 17%
+source-wordcount: '395'
+ht-degree: 12%
 
 ---
 
@@ -32,7 +32,7 @@ Sales Dialer erleichtert Ihnen die internationale Kommunikation. Für Kunden, di
   </tr> 
   <tr> 
    <td colspan="1">Österreich</td> 
-   <td colspan="1">43, 431, 4312288, 43438, 4350, 4357, 4359, 436555, 43677, 4369988, 4369989, 43720, 43780, 439</td> 
+   <td colspan="1">43, 431, 4312288, 43438, 4350, 4357, 4359, 43655, 43677, 4369988, 4368 9989, 43720, 43780, 439</td> 
   </tr> 
   <tr> 
    <td colspan="1">Bahamas</td> 
@@ -60,15 +60,15 @@ Sales Dialer erleichtert Ihnen die internationale Kommunikation. Für Kunden, di
   </tr> 
   <tr> 
    <td>Griechenland </td> 
-   <td>30, 3021</td> 
+   <td>30.3.21</td> 
   </tr> 
   <tr> 
    <td>Ungarn</td> 
-   <td>36, 361</td> 
+   <td>36.361</td> 
   </tr> 
   <tr> 
    <td colspan="1">Irland </td> 
-   <td colspan="1">353, 3531</td> 
+   <td colspan="1">353.3531</td> 
   </tr> 
   <tr> 
    <td>Israel</td> 
@@ -80,7 +80,7 @@ Sales Dialer erleichtert Ihnen die internationale Kommunikation. Für Kunden, di
   </tr> 
   <tr> 
    <td colspan="1">Kasachstan </td> 
-   <td colspan="1">76, 77</td> 
+   <td colspan="1">76.77</td> 
   </tr> 
   <tr> 
    <td colspan="1">Korea</td> 
@@ -112,7 +112,7 @@ Sales Dialer erleichtert Ihnen die internationale Kommunikation. Für Kunden, di
   </tr> 
   <tr> 
    <td colspan="1">Polen </td> 
-   <td colspan="1">48, 4832</td> 
+   <td colspan="1">48.4832</td> 
   </tr> 
   <tr> 
    <td colspan="1">Portugal </td> 
@@ -136,25 +136,25 @@ Sales Dialer erleichtert Ihnen die internationale Kommunikation. Für Kunden, di
   </tr> 
   <tr> 
    <td>Vereinigte Staaten</td> 
-   <td>1, 1800,1808, 1844, 1855, 1866, 1867, 1877, 1888</td> 
+   <td>1, 1800, 1808, 1844, 1855, 1866, 1867, 1877, 1888</td> 
   </tr> 
  </tbody> 
 </table>
 
 ## Häufig gestellte Fragen zu internationalen Aufrufen {#international-calling-faq}
 
-**Warum unterstützt Sales Insight Actions nicht internationale Aufrufe für alle Länder?**
+**Warum unterstützen Sales Insight-Aktionen nicht internationale Aufrufe für alle Länder?**
 
 Heute bieten wir mit Sales Dialer internationale Anrufe ohne zusätzliche Kosten an. Wir möchten Ihnen die Kommunikation mit Ihren eigenen Interessenten und Kunden erleichtern, deshalb haben wir Unterstützung für internationale Standardtarife-Anrufe ins Leben gerufen. Wir bieten 34 Länder außerhalb der USA und Kanadas für Regionen in Europa, Asien und anderen wichtigen Zielen an. Wir werden auf der Basis des Feedbacks unserer Kunden weiter expandieren.
 
-**Wenn ich außerhalb der USA bin, welche Länder kann ich von und zu anrufen?**
+**Wenn ich außerhalb der USA bin, von welchen Ländern kann ich dann anrufen?**
 
 Im Folgenden finden Sie die Liste der Länder, die wir derzeit keine Aufrufe von und nach unterstützen. Wenn das Land, von dem Sie anrufen, unterstützt wird, können Sie jedes andere von uns unterstützte internationale Land anrufen.
 
-**Gibt es bestimmte Zahlentypen, die ich nicht mit dem Sales Dialer anrufen kann?**
+**Gibt es bestimmte Arten von Zahlen, die ich nicht mit dem Vertriebsmitarbeiter aufrufen kann?**
 
 Ja. Wir unterstützen keine Anrufe zu Premium-Tarif-Service-Telefonnummern (wie 900 Nummern in den USA und +449 Nummern in Großbritannien). Im Allgemeinen unterstützen wir nicht das Anrufen von Telefonnummern mit gemeinsamen Kosten sowie einer kleinen Anzahl anderer Premium-Routen.
 
-**Kann ich bei internationalen Anrufen die lokale Präsenz nutzen?**
+**Kann ich die lokale Präsenz beim Aufrufen von &quot;international&quot;verwenden?**
 
 Anz. [Lokale Präsenz](/help/marketo/product-docs/marketo-sales-insight/actions/phone/local-presence.md) ist nur für US-Nummern verfügbar.

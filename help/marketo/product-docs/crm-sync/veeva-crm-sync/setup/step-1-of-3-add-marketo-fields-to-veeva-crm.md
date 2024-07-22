@@ -5,8 +5,8 @@ exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
 feature: Veeva CRM
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '533'
-ht-degree: 8%
+source-wordcount: '527'
+ht-degree: 7%
 
 ---
 
@@ -18,9 +18,9 @@ ht-degree: 8%
 
 Marketo Engage verwendet eine Reihe von Feldern, um bestimmte Arten von Marketinginformationen zu erfassen. Wenn Sie diese Daten im Vevar CRM wünschen, folgen Sie bitte den unten stehenden Anweisungen.
 
-`1.` Erstellen Sie ein benutzerdefiniertes Feld im VEE-CRM für die Kontaktobjekte: Punktzahl
+`1.` Erstellen Sie ein benutzerdefiniertes Feld in VEE CRM für die Kontaktobjekte: Punktzahl
 
-`2.` Sie können bei Bedarf weitere Felder erstellen (siehe Tabelle unten).
+`2.` Sie können bei Bedarf zusätzliche Felder erstellen (siehe Tabelle unten).
 
 Alle diese benutzerdefinierten Felder sind optional und müssen nicht mit Marketo Engage und VEE CRM synchronisiert werden.
 
@@ -30,11 +30,11 @@ Fügen Sie ein benutzerdefiniertes Feld zu den Lead- und Kontaktobjekten im oben
 
 Führen Sie die folgenden Schritte aus, um das Feld Punktzahl hinzuzufügen.
 
-1. Melden Sie sich im Vevar CRM an und klicken Sie auf **[!UICONTROL Einrichtung]**.
+1. Melden Sie sich beim VEA-CRM an und klicken Sie auf **[!UICONTROL Einrichten]**.
 
    ![](assets/step-1-of-3-add-marketo-fields-1.png)
 
-1. Klicks **[!UICONTROL Objekte und Felder]** und wählen **[!UICONTROL Object Manager]**.
+1. Klicken Sie auf **[!UICONTROL Objekte und Felder]** und wählen Sie **[!UICONTROL Objektmanager]** aus.
 
    ![](assets/step-1-of-3-add-marketo-fields-2.png)
 
@@ -42,11 +42,11 @@ Führen Sie die folgenden Schritte aus, um das Feld Punktzahl hinzuzufügen.
 
    ![](assets/step-1-of-3-add-marketo-fields-3.png)
 
-1. Klicken Sie auf **[!UICONTROL Kontakt]** -Objekt.
+1. Klicken Sie auf das Objekt **[!UICONTROL Kontakt]** .
 
-1. Auswählen **[!UICONTROL Felder und Beziehungen]**.
+1. Wählen Sie **[!UICONTROL Felder und Beziehungen]** aus.
 
-1. Klicks **[!UICONTROL Neu]**.
+1. Klicken Sie auf **[!UICONTROL Neu]**.
 
    ![](assets/step-1-of-3-add-marketo-fields-4.png)
 
@@ -58,7 +58,7 @@ Führen Sie die folgenden Schritte aus, um das Feld Punktzahl hinzuzufügen.
 
    ![](assets/step-1-of-3-add-marketo-fields-6.png)
 
-1. Geben Sie die **[!UICONTROL Feldbezeichnung]**, **[!UICONTROL Länge]**, und **[!UICONTROL Feldname]** für das Feld, wie in der folgenden Tabelle dargestellt.
+1. Geben Sie die **[!UICONTROL Feldbezeichnung]**, die **[!UICONTROL Länge]** und den **[!UICONTROL Feldnamen]** für das Feld ein, wie in der folgenden Tabelle dargestellt.
 
 <table>
  <tbody>
@@ -92,7 +92,7 @@ Dezimalstellen 0</td>
 
    ![](assets/step-1-of-3-add-marketo-fields-8.png)
 
-1. Geben Sie die Zugriffseinstellungen an und klicken Sie auf **[!UICONTROL Nächste]**.
+1. Geben Sie die Zugriffseinstellungen an und klicken Sie auf **[!UICONTROL Weiter]**.
 
 1. Setzen Sie alle Rollen auf &quot;Sichtbar&quot;und &quot;Schreibgeschützt&quot;.
 
@@ -105,9 +105,9 @@ Dezimalstellen 0</td>
 
 1. Wählen Sie die Seitenlayouts aus, die das Feld anzeigen sollen.
 
-1. Klicks **[!UICONTROL Speichern und Neu]** , um die beiden anderen benutzerdefinierten Felder zu erstellen.
+1. Klicken Sie auf **[!UICONTROL Speichern und Neu]** , um zurück zu gehen und die beiden anderen benutzerdefinierten Felder zu erstellen.
 
-1. Klicks **[!UICONTROL Speichern]** wenn du mit allen drei fertig bist.
+1. Klicken Sie auf **[!UICONTROL Speichern]** , wenn Sie mit allen drei Schritten fertig sind.
 
    ![](assets/step-1-of-3-add-marketo-fields-10.png)
 
@@ -150,7 +150,7 @@ OPTIONAL: Verwenden Sie das obige Verfahren für alle zusätzlichen benutzerdefi
    <td>Länge 255</td>
   </tr>
   <tr>
-   <td>Abgeleitete Vorwahl</td>
+   <td>Abgleitete Vorwahl</td>
    <td>mkto71_inferred_Phone_Area_Code</td>
    <td>Text</td>
    <td>Länge 255</td>

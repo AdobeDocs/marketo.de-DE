@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Um Bilder von einer Webseite hinzuzufügen, kopieren Sie die Webadresse (URL) der Seite, die die gewünschten Bilder enthält, und führen Sie dann die folgenden einfachen Schritte aus.
 
-1. Navigieren Sie zu **Design Studio**.
+1. Wechseln Sie zu **Design Studio**.
 
    ![](assets/designstudio-2.png)
 
-1. Klicken Sie auf **Neu** und **Grab-Bilder aus Web**.
+1. Klicken Sie auf **Neu** und **Bilder aus Web abrufen**.
 
    ![](assets/image2014-9-16-11-3a37-3a46.png)
 
-1. Wählen Sie die **Bilder und Dateien** Ordner, fügen Sie die Webadresse (URL) in das Textfeld &quot;URL&quot;ein und klicken Sie auf **Nächste**.
+1. Wählen Sie den Ordner **Bilder und Dateien** aus, fügen Sie die Webadresse (URL) in das Textfeld &quot;URL&quot;ein und klicken Sie auf **Weiter**.
 
    ![](assets/image2014-9-16-11-3a37-3a55.png)
 
@@ -31,7 +31,7 @@ Um Bilder von einer Webseite hinzuzufügen, kopieren Sie die Webadresse (URL) de
    >
    >Diese Funktion funktioniert nicht mit URLs, die direkt auf ein Bild verweisen. Verwenden Sie die URL der Web-Seite, die die Bilder enthält.
 
-1. Wählen Sie die Bilder aus, die Sie hinzufügen möchten, und klicken Sie auf **Import**.
+1. Wählen Sie die Bilder aus, die Sie hinzufügen möchten, und klicken Sie auf **Importieren**.
 
    ![](assets/image2014-9-16-11-3a38-3a3.png)
 
@@ -39,15 +39,15 @@ Um Bilder von einer Webseite hinzuzufügen, kopieren Sie die Webadresse (URL) de
 
    ![](assets/image2014-9-16-11-3a38-3a9.png)
 
-1. Alle verfügbaren Bilder finden Sie in **Bilder und Dateien**.
+1. Sie können alle verfügbaren Bilder in **Bildern und Dateien** sehen.
 
    ![](assets/image2014-9-16-11-3a38-3a18.png)
 
-Schöne Arbeit, Bild Übergeordnet!
+Schöne Arbeit, Bildmeister!
 
 >[!MORELIKETHIS]
 >
->* [Hinzufügen von Bildern und Dateien zu Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
+>* [Bilder und Dateien zu Marketo hinzufügen](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
 >* [Organisieren von Bildern und Dateien mithilfe von Ordnern](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md)
->* [Suchen der URL eines hochgeladenen Bildes oder einer hochgeladenen Datei](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
->* [Hochladen von Bildern und Dateien aus dem Feld](/help/marketo/product-docs/demand-generation/images-and-files/upload-images-and-files-from-box.md)
+>* [URL eines hochgeladenen Bildes oder einer hochgeladenen Datei suchen](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
+>* [Bilder und Dateien aus Feld hochladen](/help/marketo/product-docs/demand-generation/images-and-files/upload-images-and-files-from-box.md)

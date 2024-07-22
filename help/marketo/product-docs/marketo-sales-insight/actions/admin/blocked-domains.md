@@ -18,15 +18,15 @@ Helfen Sie Ihrem Vertriebsteam, Erfolg zu erzielen, indem Sie verhindern, dass K
 >
 >**Erforderliche Administratorberechtigungen**
 
-1. Klicken Sie in der Webanwendung auf das Zahnradsymbol und wählen Sie **Einstellungen**.
+1. Klicken Sie in der Webanwendung auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
 
    ![](assets/blocked-domains-1.png)
 
-1. Klicken Sie unter &quot;Admin Settings&quot;auf **Allgemein**.
+1. Klicken Sie unter &quot;Admin Settings&quot;auf **General**.
 
    ![](assets/blocked-domains-2.png)
 
-1. Geben Sie die Domäne ein, die blockiert werden soll, und klicken Sie auf **Blockdomäne**.
+1. Geben Sie die Domäne ein, die blockiert werden soll, und klicken Sie auf **Domäne blockieren**.
 
    ![](assets/blocked-domains-3.png)
 

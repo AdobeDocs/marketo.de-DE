@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359953
-description: Personen mit abgelaufenem Inhalt - Marketo Docs - Produktdokumentation
+description: Personen mit abgelaufenen Inhalten - Marketo Docs - Produktdokumentation
 title: Personen mit abgelaufenem Inhalt
 exl-id: d32dfbc0-cac9-4df9-a8f6-45ebdd4a9f79
 feature: Engagement Programs
@@ -17,7 +17,7 @@ Wenn eine Person alle Inhalte in einem Stream erhalten hat, hat sie alle Möglic
 
 ## Filter &quot;Mitglied des Interaktionsprogramms&quot; {#member-of-engagement-program-filter}
 
-1. Erstellen Sie eine neue Smart-Liste und ziehen Sie sie dann in die **Mitglied des Interaktionsprogramms** Filter.
+1. Erstellen Sie eine neue intelligente Liste und ziehen Sie dann den Filter **Mitglied des Interaktionsprogramms** .
 
    ![](assets/image2014-9-15-18-20-0.png)
 
@@ -25,11 +25,11 @@ Wenn eine Person alle Inhalte in einem Stream erhalten hat, hat sie alle Möglic
 
    ![](assets/image2014-9-15-18-3a20-3a11.png)
 
-1. under **Beschränkung hinzufügen** auswählen **Abgelaufener Inhalt**.
+1. Wählen Sie unter **Beschränkung hinzufügen** die Option **Abgelaufener Inhalt** aus.
 
    ![](assets/image2014-9-15-18-3a20-3a17.png)
 
-1. Satz **Abgelaufener Inhalt** nach **true**.
+1. Setzen Sie **abgelaufener Inhalt** auf **true**.
 
    ![](assets/image2014-9-15-18-3a20-3a21.png)
 
@@ -37,15 +37,15 @@ Wenn eine Person alle Inhalte in einem Stream erhalten hat, hat sie alle Möglic
 
 ## Registerkarte &quot;Mitglieder&quot; {#members-tab}
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Wechseln Sie zu **Marketingaktivitäten**.
 
    ![](assets/ma.png)
 
-1. Wählen Sie Ihr Interaktionsprogramm aus und navigieren Sie zu **Mitglieder** Registerkarte.
+1. Wählen Sie Ihr Interaktionsprogramm aus und gehen Sie zur Registerkarte **Mitglieder** .
 
    ![](assets/memberstab.jpg)
 
-1. Beachten Sie, dass die Spalte **Abgelaufener Inhalt**.
+1. Beachten Sie die Spalte **Abgelaufener Inhalt**.
 
    ![](assets/image2014-9-15-18-3a21-3a7.png)
 

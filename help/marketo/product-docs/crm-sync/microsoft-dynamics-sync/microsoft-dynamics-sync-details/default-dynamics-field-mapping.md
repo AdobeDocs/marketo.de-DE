@@ -5,8 +5,8 @@ exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 feature: Microsoft Dynamics
 source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '830'
-ht-degree: 42%
+source-wordcount: '823'
+ht-degree: 45%
 
 ---
 
@@ -39,17 +39,17 @@ Wenn Sie Ihr Marketo Engage-Konto zum ersten Mal mit Microsoft synchronisieren, 
       <td>salutation</td>
     </tr>
     <tr>
-      <td>Vorname</td>
+      <td>Zuerst</td>
       <td>Vorname</td>
       <td>firstname</td>
     </tr>
     <tr>
-      <td>Mitte</td>
+      <td>Zweiter Vorname</td>
       <td>Zweiter Vorname</td>
       <td>middlename</td>
     </tr>
     <tr>
-      <td>Nachname</td>
+      <td>Zuletzt</td>
       <td>Nachname</td>
       <td>lastname</td>
     </tr>
@@ -59,7 +59,7 @@ Wenn Sie Ihr Marketo Engage-Konto zum ersten Mal mit Microsoft synchronisieren, 
       <td>emailaddress1</td>
     </tr>
     <tr>
-      <td>Job-Titel</td>
+      <td>Jobtitel</td>
       <td>Stellenbezeichnung</td>
       <td>jobtitle</td>
     </tr>
@@ -89,7 +89,7 @@ Wenn Sie Ihr Marketo Engage-Konto zum ersten Mal mit Microsoft synchronisieren, 
       <td>address1_city</td>
     </tr>
     <tr>
-      <td>Status</td>
+      <td>Bundesland</td>
       <td>Bundesland/Kanton</td>
       <td>address1_stateorprovinz</td>
     </tr>
@@ -104,7 +104,7 @@ Wenn Sie Ihr Marketo Engage-Konto zum ersten Mal mit Microsoft synchronisieren, 
       <td>address1_postalcode</td>
     </tr>
     <tr>
-      <td>Personen-Quelle</td>
+      <td>Person – Quelle</td>
       <td>Lead-Quelle</td>
       <td>leadsourcecode</td>
     </tr>
@@ -124,17 +124,17 @@ Wenn Sie Ihr Marketo Engage-Konto zum ersten Mal mit Microsoft synchronisieren, 
       <td>Beschreibung</td>
     </tr>
     <tr>
-      <td>Nicht anrufen</td>
+      <td>Nicht aufrufen</td>
       <td>Telefonaufrufe nicht zulassen</td>
       <td>donotphone</td>
     </tr>
     <tr>
-      <td>Hat abbestellt</td>
+      <td>Abbestellt</td>
       <td>Massen-E-Mail nicht</td>
       <td>donotbulkemail</td>
     </tr>
     <tr>
-      <td>Personen-Bewertung</td>
+      <td>Personenbewertung</td>
       <td>Bewertung</td>
       <td>Leadqualitätscode</td>
     </tr>
@@ -165,7 +165,7 @@ Wenn Sie Ihr Marketo Engage-Konto zum ersten Mal mit Microsoft synchronisieren, 
     </tr>
     <tr>
       <td>Microsoft – Telefon privat</td>
-      <td>Festnetztelefon</td>
+      <td>Telefonnummer (privat)</td>
       <td>telephone2</td>
     </tr>
     <tr>
@@ -244,7 +244,7 @@ Die folgenden Lead-Felder werden für die interne Verwendung synchronisiert.
       <th>MS Dynamics API-Name</th>
     </tr>
     <tr>
-      <td>Eigentümerin oder Eigentümer</td>
+      <td>Eigentümer</td>
       <td>ownerid</td>
     </tr>
     <tr>
@@ -279,17 +279,17 @@ Die folgenden Lead-Felder werden für die interne Verwendung synchronisiert.
       <td>salutation</td>
     </tr>
     <tr>
-      <td>Vorname</td>
+      <td>Zuerst</td>
       <td>Vorname</td>
       <td>firstname</td>
     </tr>
     <tr>
-      <td>Mitte</td>
+      <td>Zweiter Vorname</td>
       <td>Zweiter Vorname</td>
       <td>middlename</td>
     </tr>
     <tr>
-      <td>Nachname</td>
+      <td>Zuletzt</td>
       <td>Nachname</td>
       <td>lastname</td>
     </tr>
@@ -299,8 +299,8 @@ Die folgenden Lead-Felder werden für die interne Verwendung synchronisiert.
       <td>emailaddress1</td>
     </tr>
     <tr>
-      <td>Job-Titel</td>
-      <td>Job-Titel</td>
+      <td>Jobtitel</td>
+      <td>Jobtitel</td>
       <td>jobtitle</td>
     </tr>
     <tr>
@@ -324,7 +324,7 @@ Die folgenden Lead-Felder werden für die interne Verwendung synchronisiert.
       <td>address1_city</td>
     </tr>
     <tr>
-      <td>Status</td>
+      <td>Bundesland</td>
       <td>Adresse 1: Bundesland/Kanton</td>
       <td>address1_stateorprovinz</td>
     </tr>
@@ -349,12 +349,12 @@ Die folgenden Lead-Felder werden für die interne Verwendung synchronisiert.
       <td>statuscode</td>
     </tr>
     <tr>
-      <td>Nicht anrufen</td>
+      <td>Nicht aufrufen</td>
       <td>Telefonaufrufe nicht zulassen</td>
       <td>donotphone</td>
     </tr>
     <tr>
-      <td>Hat abbestellt</td>
+      <td>Abbestellt</td>
       <td>Massen-E-Mail nicht</td>
       <td>donotbulkemail</td>
     </tr>
@@ -375,7 +375,7 @@ Die folgenden Lead-Felder werden für die interne Verwendung synchronisiert.
     </tr>
     <tr>
       <td>Microsoft – Telefon privat</td>
-      <td>Festnetztelefon</td>
+      <td>Telefonnummer (privat)</td>
       <td>telephone2</td>
     </tr>
     <tr>
@@ -459,7 +459,7 @@ Die folgenden Kontaktfelder werden für die interne Verwendung synchronisiert.
       <th>MS Dynamics API-Name</th>
     </tr>
     <tr>
-      <td>Eigentümerin oder Eigentümer</td>
+      <td>Eigentümer</td>
       <td>ownerid</td>
     </tr>
     <tr>
@@ -498,17 +498,17 @@ Die folgenden Kontaktfelder werden für die interne Verwendung synchronisiert.
       <td>address1_line1</td>
     </tr>
     <tr>
-      <td>Rechnungsort</td>
+      <td>Abrechnungsort</td>
       <td>Adresse 1: Ort</td>
       <td>address1_city</td>
     </tr>
     <tr>
-      <td>Rechnungsland</td>
+      <td>Abrechnungsland</td>
       <td>Adresse 1: Land/Region</td>
       <td>address1_country</td>
     </tr>
     <tr>
-      <td>Postleitzahl für Rechnung</td>
+      <td>Postleitzahl für Abrechnung</td>
       <td>Adresse 1: Postleitzahl</td>
       <td>address1_postalcode</td>
     </tr>
@@ -603,7 +603,7 @@ Die folgenden Kontofelder werden für die interne Verwendung synchronisiert.
       <th>MS Dynamics API-Name</th>
     </tr>
     <tr>
-      <td>Eigentümerin oder Eigentümer</td>
+      <td>Eigentümer</td>
       <td>ownerid</td>
     </tr>
     <tr>
@@ -673,7 +673,7 @@ Die folgenden Kontofelder werden für die interne Verwendung synchronisiert.
       <th>MS Dynamics API-Name</th>
     </tr>
     <tr>
-      <td>Eigentümerin oder Eigentümer</td>
+      <td>Eigentümer</td>
       <td>ownerid</td>
     </tr>
     <tr>
@@ -702,7 +702,7 @@ Die folgenden Felder werden in Marketo erstellt, können jedoch nicht von Benutz
       <th>Beschreibung</th>
     </tr>
     <tr>
-      <td>Microsoft-Typ</td>
+      <td>Microsoft – Typ</td>
       <td>Lead oder Kontakt. Wenn leer, ist der Lead nur als Person in Marketo vorhanden</td>
     </tr>
     <tr>

@@ -7,13 +7,13 @@ feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '88'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
 # Interessante Momente in Salesforce1 {#interesting-moments-in-salesforce}
 
-[Verwenden interessanter Momente](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) ist der Schlüssel zur Kommunikation mit Ihrem Verkaufsteam über die Marketo Sales Insight-App. Mit Marketo Sales Insight für Salesforce1 können Sie dasselbe mit Ihrem Smartphone tun!
+[Die Verwendung interessanter Momente](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) ist der Schlüssel zur Kommunikation mit Ihrem Verkaufsteam über die Marketo Sales Insight-App. Mit Marketo Sales Insight für Salesforce1 können Sie dasselbe mit Ihrem Smartphone tun!
 
 >[!AVAILABILITY]
 >
@@ -25,7 +25,7 @@ ht-degree: 2%
 
    ![](assets/one.png)
 
-1. Klicken Sie auf **Verwandte** um interessante Momente, Web-Aktivität, E-Mail und Punktzahl anzuzeigen.
+1. Klicken Sie auf die Registerkarte **Related** , um interessante Momente, Web-Aktivität, E-Mail und Punktzahl anzuzeigen.
 
    ![](assets/two.png)
 

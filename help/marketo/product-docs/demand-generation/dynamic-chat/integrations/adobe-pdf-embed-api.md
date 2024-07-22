@@ -16,7 +16,7 @@ Mit der Dokumentkarte können Sie PDF-Dokumente in Dialogfelder einbetten und di
 
 1. Navigieren Sie zu [Adobe PDF Embed API](https://udp.adobe.io/document-services/apis/pdf-embed/){target="_blank"}.
 
-1. Klicks **[!UICONTROL Anmeldeinformationen abrufen]**.
+1. Klicken Sie auf **[!UICONTROL Anmeldeinformationen abrufen]**.
 
    ![](assets/adobe-pdf-embed-api-1.png)
 
@@ -24,7 +24,7 @@ Mit der Dokumentkarte können Sie PDF-Dokumente in Dialogfelder einbetten und di
 
    ![](assets/adobe-pdf-embed-api-2.png)
 
-1. Geben Sie Ihre Anmeldedaten ein, akzeptieren Sie die Bedingungen und klicken Sie auf **[!UICONTROL Erstellen von Anmeldeinformationen]**.
+1. Geben Sie Ihre Anmeldedaten ein, akzeptieren Sie die Bedingungen und klicken Sie auf **[!UICONTROL Anmeldedaten erstellen]**.
 
    ![](assets/adobe-pdf-embed-api-3.png)
 
@@ -32,16 +32,16 @@ Mit der Dokumentkarte können Sie PDF-Dokumente in Dialogfelder einbetten und di
    >
    >Sie müssen die Domäne verwenden, in der Sie den Chat-Bot hosten (z. B. wenn Sie den Chat auf mycompany.com hosten, stellen Sie sicher, dass Sie dies in Schritt 4 eingeben).
 
-1. Klicks **[!UICONTROL Kopieren]** zum Kopieren Ihrer Client-ID.
+1. Klicken Sie auf **[!UICONTROL Kopieren]** , um Ihre Client-ID zu kopieren.
 
    ![](assets/adobe-pdf-embed-api-4.png)
 
-1. Zurück unter Dynamic Chat klicken Sie auf **[!UICONTROL Integrationen]**. Klicken Sie auf der Adobe PDF Embed API-Karte auf **[!UICONTROL Aktivieren]**.
+1. Klicken Sie in der Dynamic Chat auf **[!UICONTROL Integrationen]**. Klicken Sie auf der Adobe PDF Embed API-Karte auf **[!UICONTROL Activate]**.
 
    ![](assets/adobe-pdf-embed-api-5.png)
 
-1. Fügen Sie Ihre [!UICONTROL Client-ID] und klicken **[!UICONTROL Speichern]**.
+1. Fügen Sie Ihre [!UICONTROL Client-ID] ein und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/adobe-pdf-embed-api-6.png)
 
-Sie können jetzt die Dokumentkarte in Ihren Dialogfeldern verwenden.&quot; [Stream-Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}!
+Sie können jetzt die Dokumentkarte im [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} Ihrer Dialoge verwenden!

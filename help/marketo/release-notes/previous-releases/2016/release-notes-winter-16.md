@@ -17,7 +17,7 @@ Die folgenden Funktionen sind in der Version Winter 16 enthalten. Klicken Sie au
 
 ## [Ist anonymer Filter](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) {#is-anonymous-filter}
 
-Der Filter Ist anonym wurde für Smart-Listen entfernt. Siehe [Häufig gestellte Fragen zur Munchkin-Verfolgung der nächsten Generation](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) -Dokument. Diese Änderung betrifft nicht die Web-Personalisierung (RTP), die anonyme und bekannte Webbesucher weiterhin identifiziert und Inhalte für diese Besucher in Echtzeit personalisiert.
+Der Filter Ist anonym wurde für Smart-Listen entfernt. Weitere Informationen finden Sie im Dokument [Häufig gestellte Fragen zur Munchkin-Verfolgung der nächsten Generation](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) . Diese Änderung betrifft nicht Web Personalization (RTP), das anonyme und bekannte Webbesucher weiterhin identifiziert und Inhalte für diese Besucher in Echtzeit personalisiert.
 
 ## [Datenbank-Dashboard](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md) {#database-dashboard}
 
@@ -27,7 +27,7 @@ Die Lead-Datenbank verfügt über ein aktualisiertes Zusammenfassungs-Dashboard,
 
 ## [Microsoft Edge Browser](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md) {#microsoft-edge-browser}
 
-Wir haben Microsoft Edge zum [Liste der Browser](https://docs.marketo.com/display/public/DOCS/Supported+Browsers) unterstützt von Marketo.
+Microsoft Edge wurde zur Liste der von Marketo unterstützten Browser [ hinzugefügt.](https://docs.marketo.com/display/public/DOCS/Supported+Browsers)
 
 ## [Microsoft Outlook 2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) {#microsoft-outlook}
 
@@ -49,7 +49,7 @@ Um diese Funktion nutzen zu können, muss das E-Mail-Programm mindestens 12 Stun
 
 ## [Mobile-Marketing-Erweiterungen](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md) {#mobile-marketing-enhancements}
 
-**PhoneGap-Unterstützung:** Wir bieten jetzt PhoneGap-Unterstützung für Ihre Mobile App. [Weitere Infos](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/phonegap).
+**PhoneGap-Unterstützung:** Wir bieten jetzt PhoneGap-Unterstützung für Ihre Mobile App an. [Weitere Infos](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/phonegap).
 
 **Unterstützung für Sandbox-Apps**:
 
@@ -81,7 +81,7 @@ Sie können jetzt eine n:n-Beziehung zwischen Leads/Konten und einem benutzerdef
 
 ![](assets/image2016-1-11-10-3a20-3a39.png)
 
-## [Webkampagnenplanung (Echtzeit-Personalisierung)](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/schedule-a-web-campaign.md) {#web-real-time-personalization-campaign-scheduler}
+## [Web-(Echtzeit-Personalization-)Kampagnenplaner](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/schedule-a-web-campaign.md) {#web-real-time-personalization-campaign-scheduler}
 
 Planen Sie Ihre Kampagne im Voraus. Richten Sie ein Start- und Enddatum für personalisierte Webinhalte ein und wiederholen Sie Kampagnen an bestimmten Tagen und Uhrzeiten. Personalisieren Sie den Zeitplan, um die Kampagne entsprechend der Zeit oder der ausgewählten Zeitzone des Webbesuchers anzuzeigen.
 

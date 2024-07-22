@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Bei der Automatisierung einer Kampagne möchten Sie wahrscheinlich nicht, dass Ihre E-Mails an einem Samstag oder Sonntag gesendet werden. Wenn nicht, können Sie die Wochenenden überspringen.
 
-1. Klicken Sie in Sales Connect auf die **Kampagnen** Registerkarte.
+1. Klicken Sie in Sales Connect auf die Registerkarte **Kampagnen** .
 
    ![](assets/one-2.png)
 
@@ -23,11 +23,11 @@ Bei der Automatisierung einer Kampagne möchten Sie wahrscheinlich nicht, dass I
 
    ![](assets/two-2.png)
 
-1. Klicks **Einstellungen**.
+1. Klicken Sie auf **Einstellungen**.
 
    ![](assets/three-2.png)
 
-1. Wählen Sie die **Wochenenden überspringen** aktivieren.
+1. Aktivieren Sie das Kontrollkästchen **Wochenenden überspringen** .
 
    ![](assets/four-2.png)
 

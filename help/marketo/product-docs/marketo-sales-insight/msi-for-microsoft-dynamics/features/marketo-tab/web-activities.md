@@ -19,4 +19,4 @@ Der Tab Web-Aktivitäten zeigt die Web-Aktivitäten Ihrer Leads/Kontakte an.
 
 ## Anonyme Webaktivitäten {#anonymous-web-activities}
 
-Auf der Registerkarte Anonyme Webaktivitäten werden alle **anonymous** Webaktivitäten der Webseitenbesucher. Überprüfen Sie die neuesten Web-Aktivitäten, in denen die Anzahl der Seitenbesuche angegeben wird.
+Auf der Registerkarte &quot;Anonyme Web-Aktivitäten&quot;werden alle Web-Aktivitäten der Besucher der Webseite **anonymous** angezeigt. Überprüfen Sie die neuesten Web-Aktivitäten, in denen die Anzahl der Seitenbesuche angegeben wird.

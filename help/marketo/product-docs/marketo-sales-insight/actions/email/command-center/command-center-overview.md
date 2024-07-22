@@ -5,7 +5,7 @@ exl-id: d7441f28-a432-4443-8eb8-ca6a685524ae
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '488'
+source-wordcount: '489'
 ht-degree: 3%
 
 ---
@@ -30,7 +30,7 @@ Im E-Mail-Bereich erhalten Sie einen Überblick über alle E-Mails und können I
  </tr>
  <tr>
   <th rowspan="2">Gesendet</th>
-  <td>Übermittelt</td>
+  <td>Zugestellt</td>
   <td>An den Empfänger gesendete E-Mails.</td>
  </tr>
  <tr>
@@ -44,11 +44,11 @@ Im E-Mail-Bereich erhalten Sie einen Überblick über alle E-Mails und können I
  </tr>
  <tr>
   <td>Entwurf</td>
-  <td>E-Mails, die als Entwurf gespeichert wurden.<br/>
+  <td>Als Entwurf gespeicherte E-Mails<br/>
   <strong>Hinweis</strong>: Nur einzelne E-Mails können als Entwürfe gespeichert werden. Massen-E-Mails (E-Mails auswählen und senden und Gruppen-E-Mails) werden nicht als Entwürfe gespeichert.</td>
  </tr>
  <tr>
-  <td>in progress</td>
+  <td>Im Gange</td>
   <td>Dies ist ein Zwischenstatus, in den E-Mails gesendet werden, wenn sie sich in der Versandaktion befinden. E-Mails dürfen nur für einen Moment in Bearbeitung sein.</td>
  </tr>
  <tr>
@@ -58,7 +58,7 @@ Im E-Mail-Bereich erhalten Sie einen Überblick über alle E-Mails und können I
 </td>
  </tr>
  <tr>
-  <td>Unzustellbar</td>
+  <td>Hardbounce aufgetreten</td>
   <td>Vom E-Mail-Server der Empfänger zurückgewiesene E-Mails.<br/>
   <strong>Hinweis</strong>: Dies wird nur erkannt, wenn Sie ein veralteter ToutApp-Benutzer sind und Zugriff auf MSC-Server als Bereitstellungskanal haben.</td>
  </tr>
@@ -81,7 +81,7 @@ Sobald Sie über das Komprimierungsfenster oder die Kampagnen mit Ihren Interess
 
 Wenn Sie beispielsweise 100 Personen zu einer Kampagne in MSC hinzufügen, möchten Sie möglicherweise die Personen, die Ihre E-Mail angesehen und angeklickt haben, aber nicht darauf geantwortet haben, erneut ansprechen. Dazu können Sie den Kampagnenfilter sowie die Filter Status-Aktivität anzeigen und klicken verwenden, um eine Liste der Personen zu identifizieren, die erneut als Ziel ausgewählt werden sollen.
 
-Bonus: Wenn Sie Ihre erweiterte Suche speichern, funktioniert sie als dynamische Liste und fügt E-Mails hinzu, die die Interaktionskriterien erfüllen, sobald der Empfänger Ihre E-Mail anzeigt oder klickt.
+Bonus: Wenn Sie Ihre erweiterte Suche speichern, funktioniert diese als dynamische Liste und fügt E-Mails hinzu, die die Interaktionskriterien erfüllen, sobald der Empfänger Ihre E-Mail anzeigt oder klickt.
 
 >[!MORELIKETHIS]
 >

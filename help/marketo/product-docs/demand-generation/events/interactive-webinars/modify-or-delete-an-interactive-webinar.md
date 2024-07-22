@@ -16,11 +16,11 @@ Erfahren Sie, wie Sie Änderungen an Ihrem interaktiven Webinar vornehmen könne
 
 ## Ändern eines interaktiven Webinars {#modify-an-interactive-webinar}
 
-1. Wählen Sie das gewünschte Veranstaltungsprogramm aus und klicken Sie auf **Raum/Vorlage ändern**.
+1. Wählen Sie das gewünschte Ereignisprogramm aus und klicken Sie auf **Raum/Vorlage ändern**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-1.png)
 
-1. Das Zimmer wird sich laden. Wenn Sie das Zimmer wechseln möchten, wählen Sie eines aus der Dropdown-Liste Zimmer aus. Klicken Sie auf die Schaltfläche **Use Room**.
+1. Das Zimmer wird sich laden. Wenn Sie das Zimmer wechseln möchten, wählen Sie eines aus der Dropdown-Liste Zimmer aus. Um Ihre Vorlage einfach zu aktualisieren, klicken Sie auf **Use Room**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-2.png)
 
@@ -28,15 +28,15 @@ Erfahren Sie, wie Sie Änderungen an Ihrem interaktiven Webinar vornehmen könne
 >
 >Eine Zimmeränderung ist optional und nicht erforderlich, um Ihre Vorlage zu aktualisieren.
 
-1. Klicks **Webinar jetzt verfeinern**.
+1. Klicken Sie auf **Ihr Webinar jetzt verfeinern**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-3.png)
 
-1. Wählen Sie Ihre Audio-/Videoeinstellungen aus und klicken Sie auf **Eingabefeld**.
+1. Wählen Sie Ihre Audio-/Videovoreinstellungen aus und klicken Sie auf **Raum betreten**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-4.png)
 
-1. Wenn Sie die Änderungen vorgenommen haben, klicken Sie auf **Ausstiegsraum**.
+1. Wenn Sie Ihre Änderungen vorgenommen haben, klicken Sie auf **Ausstiegsraum**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-5.png)
 
@@ -46,7 +46,7 @@ Erfahren Sie, wie Sie Änderungen an Ihrem interaktiven Webinar vornehmen könne
 
    ![](assets/modify-or-delete-an-interactive-webinar-6.png)
 
-1. Klicken Sie auf das Kalendersymbol, wählen Sie das neue Datum/die neue Uhrzeit aus und klicken Sie auf **Speichern**.
+1. Klicken Sie auf das Kalendersymbol, wählen Sie das neue Datum/die neue Uhrzeit und klicken Sie auf **Speichern**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-7.png)
 
@@ -56,19 +56,19 @@ Erfahren Sie, wie Sie Änderungen an Ihrem interaktiven Webinar vornehmen könne
 
    ![](assets/modify-or-delete-an-interactive-webinar-8.png)
 
-1. Klicken Sie auf das Dropdown-Menü Programmaktionen und wählen Sie **Klonen**.
+1. Klicken Sie auf das Dropdown-Menü Programmaktionen und wählen Sie **Klonen** aus.
 
    ![](assets/modify-or-delete-an-interactive-webinar-9.png)
 
    >[!TIP]
    >
-   >Sie können auch mit der rechten Maustaste auf das Ereignisprogramm im Baum klicken und **Klonen** von dort.
+   >Sie können auch mit der rechten Maustaste auf das Ereignisprogramm im Baum klicken und dort **Klonen** auswählen.
 
-1. Geben Sie dem geklonten Programm einen Namen, legen Sie die Workspace und das Ziel fest (wenn das Programm woanders live sein soll) und klicken Sie auf **Speichern**.
+1. Geben Sie dem geklonten Programm einen Namen, legen Sie die Workspace und das Ziel fest (wenn das Programm an einer anderen Stelle live sein soll) und klicken Sie auf **Speichern**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-10.png)
 
-1. Klicks **Nächste**.
+1. Klicken Sie auf **Weiter**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-11.png)
 
@@ -86,15 +86,15 @@ Erfahren Sie, wie Sie Änderungen an Ihrem interaktiven Webinar vornehmen könne
 
    ![](assets/modify-or-delete-an-interactive-webinar-13.png)
 
-1. Klicken Sie auf das Dropdown-Menü Programmaktionen und wählen Sie **Löschen**.
+1. Klicken Sie auf das Dropdown-Menü Programmaktionen und wählen Sie **Löschen** aus.
 
    ![](assets/modify-or-delete-an-interactive-webinar-14.png)
 
    >[!TIP]
    >
-   >Sie können auch mit der rechten Maustaste auf das Ereignisprogramm im Baum klicken und **Löschen** von dort.
+   >Sie können auch mit der rechten Maustaste auf das Ereignisprogramm im Baum klicken und dort **Löschen** auswählen.
 
-1. Klicks **Löschen**.
+1. Klicken Sie auf **Löschen**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-15.png)
 

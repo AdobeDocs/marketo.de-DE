@@ -6,8 +6,8 @@ exl-id: 00f3537e-358d-4540-b569-085674c360a4
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 8%
+source-wordcount: '99'
+ht-degree: 10%
 
 ---
 
@@ -71,4 +71,4 @@ Nachfolgend finden Sie die neuesten Versionen für alle E-Mail-Clients von Sales
  </tbody> 
 </table>
 
-Für das beste Erlebnis: **Browser und E-Mail-Client aktualisieren**!
+Um das beste Erlebnis zu erzielen, halten Sie Ihren Browser und E-Mail-Client auf dem neuesten Stand **!**

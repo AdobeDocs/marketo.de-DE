@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Personenleistungsbericht {#people-performance-report}
 
-Verwenden Sie einen Personen-Leistungsbericht, um das Datenbankwachstum im Zeitverlauf zu messen. Sie können sehen, wie viele Personen Sie hinzugefügt haben und wann. Erfahren Sie mehr über die Menschen und beurteilen Sie Ihre Programme. Gruppieren Sie die Ergebnisse nach einem beliebigen Personen- oder Unternehmensattribut oder nach [Segmentierung](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
+Verwenden Sie einen Personen-Leistungsbericht, um das Datenbankwachstum im Zeitverlauf zu messen. Sie können sehen, wie viele Personen Sie hinzugefügt haben und wann. Erfahren Sie mehr über die Menschen und beurteilen Sie Ihre Programme. Gruppieren Sie die Ergebnisse nach einem beliebigen Personen- oder Firmenattribut oder nach [Segmentierung](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
 
-1. [Bericht erstellen](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) und wählen Sie die **Personenleistung** [Berichtstyp](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [Erstellen Sie einen Bericht](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) und wählen Sie den Berichtstyp **Leistung von Personen** [](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md) aus.
 
-1. [Den Zeitrahmen Ihres Berichts festlegen](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) und klicken Sie auf **Bericht** Registerkarte.
+1. [Legen Sie den Zeitrahmen für Ihren Bericht fest](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) und klicken Sie auf die Registerkarte **Bericht** .
 
 1. Sehr gut! Jetzt können Sie Ihren Bericht zur Leistung von Personen durchsuchen. In der folgenden Liste erfahren Sie, wie Sie noch mehr davon erhalten.
 
    >[!NOTE]
    >
-   >In der Standardeinstellung werden die Berichte zur Leistung von Personen nach *Erstellt bei* Monat.
+   >Standardmäßig werden Berichte zur Personenleistung nach *Erstellt am* Monat gruppiert.
 
    ![](assets/one.png)
 
@@ -33,7 +33,7 @@ People Performance-Berichte sind sehr leistungsstark. Durch weitere Gruppierung,
 
 Sie können:
 
-* [GruppenLeads nach Lead- oder Firmenattribut](/help/marketo/product-docs/reporting/basic-reporting/report-activity/group-person-reports-by-attribute.md).
+* [Gruppenführer nach Lead- oder Firmenattribut](/help/marketo/product-docs/reporting/basic-reporting/report-activity/group-person-reports-by-attribute.md).
 * [GruppenLeads nach Segment](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/group-person-reports-by-segment.md).
 * [Verwenden Sie Smart-Listen als benutzerdefinierte Berichtsspalten.](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report.md)
 * [Fügen Sie Opportunitätsmetriken als Berichtsspalten hinzu.](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-opportunity-columns-to-a-lead-report.md)
@@ -44,4 +44,4 @@ Sie können:
 
   >[!TIP]
   >
-  >Beachten Sie, dass Berichte einfach zu [erstellen](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), konfigurieren und [delete](/help/marketo/product-docs/reporting/basic-reporting/report-activity/delete-a-report.md). Machen Sie sich damit vertraut, wie Sie sie auf vielfältige Weise bearbeiten können, um die besten Möglichkeiten zu erfahren, sich auf wichtige Daten zu konzentrieren.
+  >Beachten Sie, dass Berichte einfach zu [erstellen](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), zu konfigurieren und [zu löschen](/help/marketo/product-docs/reporting/basic-reporting/report-activity/delete-a-report.md) sind. Machen Sie sich damit vertraut, wie Sie sie auf vielfältige Weise bearbeiten können, um die besten Möglichkeiten zu erfahren, sich auf wichtige Daten zu konzentrieren.

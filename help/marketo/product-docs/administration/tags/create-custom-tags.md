@@ -17,7 +17,7 @@ Tags helfen Ihnen bei der Organisation Ihrer Programme, während Kanäle bei der
 
 >[!NOTE]
 >
->Checkout [Grundlegendes zu Tags](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) für weitere Informationen.
+>Weitere Informationen finden Sie unter [Grundlegendes zu Tags](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) .
 
 >[!NOTE]
 >
@@ -27,15 +27,15 @@ Tags helfen Ihnen bei der Organisation Ihrer Programme, während Kanäle bei der
 
 So erstellen Sie einen neuen Tag-Typ:
 
-1. Navigieren Sie zu **[!UICONTROL Admin]** Abschnitt.
+1. Wechseln Sie zum Abschnitt **[!UICONTROL Admin]** .
 
    ![](assets/create-custom-tags-1.png)
 
-1. Klicks **[!UICONTROL Tags]**.
+1. Klicken Sie auf **[!UICONTROL Tags]**.
 
    ![](assets/create-custom-tags-2.png)
 
-1. Klicks **[!UICONTROL Neu]** und wählen **[!UICONTROL Neuer Tag-Typ]**.
+1. Klicken Sie auf **[!UICONTROL Neu]** und wählen Sie **[!UICONTROL Neuer Tag-Typ]** aus.
 
    ![](assets/create-custom-tags-3.png)
 
@@ -43,7 +43,7 @@ So erstellen Sie einen neuen Tag-Typ:
 
    ![](assets/create-custom-tags-4.png)
 
-1. Geben Sie den gewünschten Wert für den Tag-Typ ein. Klicks **[!UICONTROL Weitere hinzufügen]** um zusätzliche Werte einzugeben.
+1. Geben Sie den gewünschten Wert für den Tag-Typ ein. Klicken Sie auf **[!UICONTROL Weitere hinzufügen]** , um weitere Werte einzugeben.
 
    ![](assets/create-custom-tags-5.png)
 
@@ -57,12 +57,12 @@ So erstellen Sie einen neuen Tag-Typ:
 
    >[!NOTE]
    >
-   >* Wählen Sie &quot;[!UICONTROL Erforderlich]&quot;, wenn Sie möchten, dass dieses Tag jedes Mal hinzugefügt wird, wenn ein neues Programm erstellt wird.
-   >* Entfernen eines Programmtyps aus dem[!UICONTROL Gilt für]&#39; list löscht das Tag und seine Werte aus allen vorhandenen Programmen dieses Typs. Wenn Sie vorhandene Tag-Werte beibehalten und dieses Tag für _all_ Programmtypen aufgelistet sind, lassen Sie das Kontrollkästchen &quot;Erforderlich&quot;deaktiviert.
+   >* Wählen Sie &quot;[!UICONTROL Erforderlich]&quot;, wenn dieses Tag jedes Mal hinzugefügt werden soll, wenn ein neues Programm erstellt wird.
+   >* Wenn Sie einen Programmtyp aus der Liste &quot;[!UICONTROL Gilt für]&quot; entfernen, werden das Tag und seine Werte aus allen vorhandenen Programmen dieses Typs gelöscht. Wenn Sie vorhandene Tag-Werte beibehalten und dieses Tag für _alle_ aufgelisteten Programmtypen optional machen möchten, lassen Sie das Kontrollkästchen &quot;Erforderlich&quot;deaktiviert.
 
    >[!TIP]
    >
-   >Wenn Sie möchten, dass ein ähnliches Tag für einige Programmtypen erforderlich, für andere jedoch optional ist, müssen Sie zwei separate Tags einrichten, die jeweils für verschiedene Programmtypen mit einem mit &quot;[!UICONTROL Erforderlich]&quot;ausgewählt ist, und der andere mit &quot;[!UICONTROL Erforderlich]&quot;nicht ausgewählt.
+   >Wenn Sie möchten, dass ein ähnliches Tag für einige Programmtypen erforderlich, für andere jedoch optional ist, müssen Sie zwei separate Tags einrichten, die jeweils für verschiedene Programmtypen gelten, wobei eines mit &quot;[!UICONTROL Erforderlich]&quot;und das andere mit &quot;[!UICONTROL Erforderlich]&quot;nicht ausgewählt ist.
 
 1. Klicken Sie auf **[!UICONTROL Erstellen]**.
 

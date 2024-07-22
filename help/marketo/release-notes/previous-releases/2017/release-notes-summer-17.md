@@ -6,8 +6,8 @@ exl-id: 81b18ecb-5870-4d16-8b7c-24ce362be62f
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '398'
-ht-degree: 12%
+source-wordcount: '401'
+ht-degree: 8%
 
 ---
 
@@ -17,13 +17,13 @@ Die folgenden Funktionen sind in der Sommerversion 17 enthalten. Überprüfen Si
 
 Klicken Sie auf die Titel-Links, um detaillierte Artikel zu den einzelnen Funktionen anzuzeigen. Hinweis: Einige der in dieser Version enthaltenen Funktionen verfügen nicht über zugehörige Artikel. Wenn ein Thema mehrere Unterüberschriften enthält, werden die Links dort platziert.
 
-## [Zusätzliche Facebook Offline-Konversionsstufen](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) {#additional-facebook-offline-conversion-stages}
+## [Zusätzliche Offline-Konversionsphasen in Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) {#additional-facebook-offline-conversion-stages}
 
 Wählen Sie bis zu 7 zusätzliche Offline-Konversionsphasen aus, um sie Ihren Marketo-Lebenszyklusphasen zuzuordnen (über die derzeit verfügbaren 3 hinaus). Optimieren Sie Ihre Facebook-Werbeausgaben auf der Grundlage von Konversionen in Ihrer gesamten Journey, um einen besseren ROI zu erzielen.
 
 ![](assets/image2017-8-24-15-3a23-3a31.png)
 
-## [Sales Insight-Vorlage sperren](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/lock-sales-template.md) {#lock-sales-insight-template}
+## [Vorlage für Sales Insight sperren](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/lock-sales-template.md) {#lock-sales-insight-template}
 
 Stellen Sie die Konsistenz von Nachricht und Inhalt sicher, indem Sie Änderungen an Ihren Verkaufsvorlagen verhindern. Dies hilft, Vorlagen zu standardisieren und professionelle Kommunikation zu pflegen.
 
@@ -43,7 +43,7 @@ Die LeanData-Integration ermöglicht jetzt die Zuordnung von Interessenten zu Ko
 
 **[Verbesserte Kampagnenvorschau](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md)**
 
-Marketing-Experten können jetzt sicherstellen, dass ihre Web-Kampagnen geräteübergreifend optimal aussehen *before* sie zu starten. Mit diesen Verbesserungen können Sie sehen, wie Ihre Web-Kampagnen auf Desktop-, Mobilgeräten und Tablets dargestellt werden. Das neue Plug-in für Chrome bietet außerdem konsistentere und präzisere Vorschauen.
+Marketing-Experten können nun sicherstellen, dass ihre Web-Kampagnen auf allen Geräten gut aussehen, *bevor* sie startet. Mit diesen Verbesserungen können Sie sehen, wie Ihre Web-Kampagnen auf Desktop-, Mobilgeräten und Tablets dargestellt werden. Das neue Plug-in für Chrome bietet außerdem konsistentere und genauere Vorschauen.
 
 **[Verbesserte Widget-Kampagnen](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)**
 

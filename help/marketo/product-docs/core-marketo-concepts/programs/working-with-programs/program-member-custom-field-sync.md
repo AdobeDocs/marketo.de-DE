@@ -1,21 +1,21 @@
 ---
 description: Benutzerdefinierte Feldsynchronisierung für Programmteilnehmer - Marketo-Dokumente - Produktdokumentation
-title: Benutzerdefinierte Feldsynchronisierung zwischen Programmteilnehmern
+title: Synchronisierung benutzerdefinierter Felder für Programmmitglieder
 exl-id: 7facfc79-a411-4ad9-b847-2002763af5bb
 feature: Programs
 source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '353'
-ht-degree: 7%
+source-wordcount: '355'
+ht-degree: 11%
 
 ---
 
-# Benutzerdefinierte Feldsynchronisierung zwischen Programmteilnehmern {#program-member-custom-field-sync}
+# Synchronisierung benutzerdefinierter Felder für Programmmitglieder {#program-member-custom-field-sync}
 
 >[!PREREQUISITES]
 >
->* Erstellung [Benutzerdefinierte Felder für Programmmitglieder](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md){target="_blank"}
->* [Salesforce-Kampagne mit einem Programm synchronisieren](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md){target="_blank"}
+>* Erstellung benutzerdefinierter Felder für Programmmitglieder ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md){target="_blank"}[
+>* [Synchronisieren einer Salesforce-Kampagne mit einem Programm](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md){target="_blank"}
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ ht-degree: 7%
 
    ![](assets/program-member-custom-field-sync-1.png)
 
-1. Klicks **[!DNL Salesforce]** Klicken Sie auf **[!UICONTROL Bearbeiten]** neben Benutzerdefinierte Feldsynchronisierung für Programmmitglieder.
+1. Klicken Sie auf **[!DNL Salesforce]** und dann neben der Synchronisierung benutzerdefinierter Felder für Programmmitglieder auf **[!UICONTROL Bearbeiten]** .
 
    ![](assets/program-member-custom-field-sync-2.png)
 
@@ -49,7 +49,7 @@ ht-degree: 7%
 
 1. Für weitere Feldzuordnungen deaktivieren Sie das Suchfeld und wiederholen Sie die Schritte 3 bis 5.
 
-1. Klicks **[!UICONTROL Speichern]** wann geschehen.
+1. Klicken Sie auf **[!UICONTROL Speichern]**, wenn Sie fertig sind.
 
    ![](assets/program-member-custom-field-sync-6.png)
 
@@ -69,7 +69,7 @@ Wenn Sie ein Feld freigeben möchten, um es zu ersetzen, oder einfach eine allge
 
    ![](assets/program-member-custom-field-sync-7.png)
 
-1. Klicks **[!DNL Salesforce]** Klicken Sie auf **[!UICONTROL Bearbeiten]** neben Benutzerdefinierte Feldsynchronisierung für Programmmitglieder.
+1. Klicken Sie auf **[!DNL Salesforce]** und dann neben der Synchronisierung benutzerdefinierter Felder für Programmmitglieder auf **[!UICONTROL Bearbeiten]** .
 
    ![](assets/program-member-custom-field-sync-8.png)
 
@@ -79,9 +79,9 @@ Wenn Sie ein Feld freigeben möchten, um es zu ersetzen, oder einfach eine allge
 
    >[!TIP]
    >
-   >Sie können die **[!UICONTROL Zugeordnet]** aktivieren, um nur zugeordnete Felder anzuzeigen.
+   >Sie können das Kontrollkästchen **[!UICONTROL Zugeordnet]** aktivieren, um nur zugeordnete Felder anzuzeigen.
 
-1. Aufheben der Zuordnung durch Klicken auf **X** neben dem Feld.
+1. Entfernen Sie die Zuordnung, indem Sie auf das **X** neben dem Feld klicken.
 
    ![](assets/program-member-custom-field-sync-10.png)
 
@@ -123,11 +123,11 @@ Wenn Sie ein Feld freigeben möchten, um es zu ersetzen, oder einfach eine allge
     </tr>
     <tr>
       <td>Anzahl(m)</td>
-      <td>Ganzzahl</td>
+      <td>Ganze Zahl</td>
     </tr>
     <tr>
       <td>Number(m,n)</td>
-      <td>Fließkommazahl</td>
+      <td>Gleitkomma</td>
     </tr>
     <tr>
       <td>Kontrollkästchen</td>
@@ -158,6 +158,6 @@ Wenn Sie ein Feld freigeben möchten, um es zu ersetzen, oder einfach eine allge
 
 >[!MORELIKETHIS]
 >
->* [Programmmitgliedsdaten ändern](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md){target="_blank"}
->* [Daten im Programmteilernetz anzeigen](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md){target="_blank"}
->* [SFDC Sync - Kampagnensynchronisierung](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target="_blank"}
+>* [Ändern der Daten der Programmteilnehmer](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md){target="_blank"}
+>* [Daten im Programmteilerraster anzeigen](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md){target="_blank"}
+>* [SFDC-Synchronisation - Kampagnensynchronisierung](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target="_blank"}

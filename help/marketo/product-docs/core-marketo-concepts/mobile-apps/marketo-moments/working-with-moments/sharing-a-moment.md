@@ -6,8 +6,8 @@ exl-id: e149f8d8-1405-43d2-aa0b-900796328a92
 feature: Mobile Marketing
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '155'
-ht-degree: 1%
+source-wordcount: '147'
+ht-degree: 0%
 
 ---
 
@@ -17,13 +17,13 @@ Möchten Sie Ihr Team aktualisieren? Sie haben zwei Möglichkeiten, die Freigabe
 
 >[!IMPORTANT]
 >
->Am 2. Oktober 2023 hat Adobe die Marketo Moments-App aus allen App Stores entfernt. Wenn Sie die App bereits auf Ihrem Tablet/Mobilgerät installiert haben, können Sie sie vorerst weiter verwenden. Sobald Ihre Marketo Engage-Instanz zur Authentifizierung von Marketo zu Adobe Identity migriert wurde, können Sie nicht mehr auf die App zugreifen. [Weitere Informationen](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+>Am 2. Oktober 2023 hat Adobe die Marketo Moments-App aus allen App Stores entfernt. Wenn Sie die App bereits auf Ihrem Tablet/Mobilgerät installiert haben, können Sie sie vorerst weiter verwenden. Sobald Ihre Marketo Engage-Instanz zur Authentifizierung von Marketo zu Adobe Identity migriert wurde, können Sie nicht mehr auf die App zugreifen. [Weitere Infos](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
-1. Tippen Sie auf **[!UICONTROL Freigeben]** auf der Karte.
+1. Tippen Sie auf das Symbol **[!UICONTROL Freigabe]** auf der Karte.
 
    ![](assets/image2015-6-30-15-3a13-3a13.png)
 
-1. Tippen Sie auf das Kartenmenü und dann auf **[!UICONTROL Freigeben]** auf dem Detailbildschirm.
+1. Tippen Sie auf das Kartenmenü und dann im Detailbildschirm auf **[!UICONTROL Freigabe]** .
 
    ![](assets/image2015-7-15-9-3a0-3a35.png)
 
@@ -37,6 +37,6 @@ Möchten Sie Ihr Team aktualisieren? Sie haben zwei Möglichkeiten, die Freigabe
 
    ![](assets/image2015-7-14-16-3a11-3a42.png)
 
-1. Geben Sie die Adresse und den Betreff des Empfängers ein und tippen Sie auf **[!UICONTROL Senden]**.
+1. Geben Sie die Adresse Ihres Empfängers und einen Betreff ein und tippen Sie auf **[!UICONTROL Senden]**.
 
    ![](assets/image2015-7-14-16-3a18-3a16.png)

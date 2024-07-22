@@ -7,7 +7,7 @@ feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '106'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -19,15 +19,15 @@ ht-degree: 0%
 
 Die Links in den E-Mails zum Abonnement Ihres Berichts laufen nach drei Tagen ab. Gehen Sie wie folgt vor, um die Ablaufzeit für diese Links zu ändern.
 
-1. under **Admin**, klicken Sie auf **Anmeldeeinstellungen**.
+1. Klicken Sie unter **Admin** auf **Anmeldeeinstellungen**.
 
    ![](assets/image2014-9-16-14-3a44-3a57.png)
 
-1. Klicken Sie auf **URL-Ablauf bearbeiten** Schaltfläche.
+1. Klicken Sie auf die Schaltfläche **URL-Ablauf bearbeiten** .
 
    ![](assets/image2014-9-16-14-3a45-3a1.png)
 
-1. Wählen Sie aus dem Dropdown-Menü aus, wie viele Tage vor Ablauf des Links vergangen sind. Klicks **Speichern**.
+1. Wählen Sie aus dem Dropdown-Menü aus, wie viele Tage vor Ablauf des Links vergangen sind. Klicken Sie auf **Speichern**.
 
    ![](assets/image2014-9-16-14-3a45-3a5.png)
 

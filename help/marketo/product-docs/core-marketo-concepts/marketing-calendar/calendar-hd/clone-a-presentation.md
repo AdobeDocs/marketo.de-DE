@@ -19,7 +19,7 @@ Klonen Sie eine Präsentation zur Wiederverwendung an verschiedenen Orten.
 
    ![](assets/image2015-3-26-12-3a22-3a6.png)
 
-1. Rechtsklicken Sie auf die Präsentation und wählen Sie **[!UICONTROL Klonen]**.
+1. Klicken Sie mit der rechten Maustaste auf die Präsentation und wählen Sie **[!UICONTROL Klonen]** aus.
 
    ![](assets/image2015-3-26-12-3a22-3a47.png)
 

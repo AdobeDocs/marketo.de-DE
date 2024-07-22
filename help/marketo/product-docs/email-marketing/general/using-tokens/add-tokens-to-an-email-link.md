@@ -7,7 +7,7 @@ feature: Tokens
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '87'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Um zusätzliche und personenspezifische Parameter in Ihre Links einzufügen, können Sie Token verwenden. So geht es.
 
-1. Wählen Sie Ihre E-Mail aus und klicken Sie auf **Entwurf bearbeiten** Registerkarte.
+1. Wählen Sie Ihre E-Mail aus und klicken Sie auf die Registerkarte **Entwurf bearbeiten** .
 
    ![](assets/one.png)
 
@@ -23,15 +23,15 @@ Um zusätzliche und personenspezifische Parameter in Ihre Links einzufügen, kö
 
    ![](assets/two.png)
 
-1. Suchen oder schreiben Sie den Text für den Link. Markieren Sie sie und klicken Sie auf das **Link einfügen/bearbeiten** Symbol.
+1. Suchen oder schreiben Sie den Text für den Link. Markieren Sie sie und klicken Sie auf das Symbol **Link einfügen/bearbeiten** .
 
    ![](assets/three.png)
 
-1. Geben Sie die gewünschten Token in **URL** und klicken Sie auf **Einfügen**.
+1. Geben Sie die gewünschten Token in **URL** ein und klicken Sie auf **Einfügen**.
 
    ![](assets/four.png)
 
-1. Klicken **Speichern**.
+1. Klicken Sie auf **Speichern**.
 
    ![](assets/five.png)
 
@@ -39,4 +39,4 @@ Um zusätzliche und personenspezifische Parameter in Ihre Links einzufügen, kö
 
 >[!MORELIKETHIS]
 >
->[Verwenden von URLs in My Tokens](/help/marketo/product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
+>[Verwenden von URLs in meinen Token](/help/marketo/product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)

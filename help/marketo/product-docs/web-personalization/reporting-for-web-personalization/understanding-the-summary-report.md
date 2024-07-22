@@ -6,7 +6,7 @@ exl-id: 972fb518-bb0d-4c7e-b190-0fe12b2367a7
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '415'
+source-wordcount: '418'
 ht-degree: 0%
 
 ---
@@ -21,36 +21,36 @@ Der Zusammenfassungsbericht bietet einen monatlichen Überblick über alle Kampa
 >
 >Direkte Konversion: Ein Webbesucher, der auf eine personalisierte Kampagne oder ein Asset mit empfohlenen Inhalten klickt und im selben Besuchssitzung fortfährt, füllt jedes Formular auf der Website mit seiner E-Mail-Adresse aus.
 >
->Assisted Conversion: Ein Webbesucher, der ein Formular auf der Website ausfüllt und seine E-Mail-Adresse verlässt, der bei einem vorherigen Besuch (innerhalb der letzten 6 Monate) auf eine personalisierte Kampagne oder ein Asset mit empfohlenen Inhalten geklickt hat.
+>Unterstützte Konversion: Ein Webbesucher, der ein Formular auf der Website ausfüllt und seine E-Mail-Adresse verlässt, der bei einem vorherigen Besuch (innerhalb der letzten 6 Monate) auf eine personalisierte Kampagne oder ein empfohlenes Inhalts-Asset geklickt hat.
 
-Gehen Sie in Web-Personalisierung zu **Analytics** und **Zusammenfassungsbericht**.
+Gehen Sie in Web Personalization zu **Analytics** und **Zusammenfassungsbericht**.
 
 ![](assets/image2016-4-6-10-3a15-3a58.png)
 
-Auswählen **Monat** und klicken Sie auf **Bericht anzeigen**.
+Wählen Sie **Monat** und klicken Sie auf **Bericht anzeigen**.
 
 ![](assets/2.png)
 
-Der erste Teil des Berichts bezieht sich auf Personalisierte Web-Personalisierungskampagnen und zeigt Folgendes an:
+Der erste Teil des Berichts bezieht sich auf personalisierte Web Personalization-Kampagnen und zeigt Folgendes an:
 
-* **Klicks** - alle Klicks auf Web-Personalisierungskampagnen
-* **Direktkonversionen** - alle Besucher, die während des Besuchs auf eine Web-Personalisierungskampagne geklickt und ein Formular ausgefüllt haben
-* **Direkte Konversionsrate** - der Prozentsatz der Besucher, die nach dem Klicken auf eine Web-Personalisierungskampagne zu einem direkten Lead wurden. Direkte Leads dividiert durch Klicks
-* **Unterstützte Konversionen** - alle Besucher, die ein Formular ausgefüllt und bei einem vorherigen Besuch auf eine Web-Personalisierungskampagne geklickt haben (in den letzten 6 Monaten)
-* **Tipps** - Tipps zur Optimierung der Leistung Ihrer Web-Personalisierungskampagnen
-* **Topkampagnen** - die Kampagnen mit der besten Leistung im ausgewählten Zeitraum, geordnet nach Anzahl der Klicks
+* **Klicks** - alle Klicks auf Web-Personalization-Kampagnen
+* **Direktkonversionen** - alle Besucher, die während des Besuchs auf eine Web-Personalization-Kampagne geklickt und ein Formular ausgefüllt haben
+* **Direkte Konversionsrate** - der Prozentsatz der Besucher, die nach dem Klicken auf eine Web-Personalization-Kampagne zu einem direkten Lead wurden. Direkte Leads dividiert durch Klicks
+* **Unterstützte Konversionen** - alle Besucher, die ein Formular ausgefüllt und bei einem vorherigen Besuch (in den letzten 6 Monaten) auf eine Web-Personalization-Kampagne geklickt haben
+* **Tipps** - Tipps zur Optimierung der Web Personalization-Kampagnenleistung
+* **Top-Kampagnen** - die Kampagnen mit der besten Leistung im ausgewählten Zeitraum, sortiert nach Anzahl der Klicks
 
 ![](assets/3.png)
 
-Der zweite Teil des Berichts bezieht sich auf den empfohlenen Inhalt aus der Inhaltsempfehlungs-Engine der Web-Personalisierung. Es wird angezeigt:
+Der zweite Teil des Berichts bezieht sich auf empfohlene Inhalte aus der Inhaltsempfehlungs-Engine von Web Personalization. Es wird angezeigt:
 
 * **Klicks** - alle Klicks auf den von Web Personalization empfohlenen Inhalt
-* **Direktkonversionen** - alle Besucher, die während ihres Besuchs auf den empfohlenen Inhalt geklickt und ein Formular ausgefüllt haben
+* **Direktkonversionen** - alle Besucher, die während ihres Besuchs auf empfohlene Inhalte geklickt und ein Formular ausgefüllt haben
 * **Direkte Konversionsrate** - der Prozentsatz der Besucher, die nach dem Klicken auf empfohlene Inhalte zu einem direkten Lead wurden. Direkte Leads dividiert durch Klicks
-* **Unterstützte Konversionen** - alle Besucher, die ein Formular ausgefüllt und bei einem vorherigen Besuch auf empfohlene Inhalte geklickt haben (in den letzten 6 Monaten)
-* **Tipps** - Tipps zur Optimierung mit der Content-Recommendations-Engine
-* **Top-Recommendations** - der am besten geeignete Inhalt während des ausgewählten Zeitraums, geordnet nach Anzahl der Klicks
+* **Unterstützte Konversionen** - alle Besucher, die ein Formular ausgefüllt und bei einem vorherigen Besuch (in den letzten 6 Monaten) auf empfohlene Inhalte geklickt haben
+* **Tipps** - Tipps zur Optimierung mit der Content Recommendation Engine
+* **Top Recommendations** - der am besten geeignete Inhalt im ausgewählten Zeitraum, geordnet nach Anzahl an Klicks
 
 >[!NOTE]
 >
->Marketo Web Personalization erfasst die E-Mail-Adresse des Webbesuchers für jedes auf der Website ausgefüllte Formular. Dies wird auf der Seite Web Personalization Leads angezeigt und ist der Lead, der im Zusammenfassungsbericht verwendet wird.
+>Marketo Web Personalization erfasst die E-Mail-Adresse des Webbesuchers für jedes auf der Website ausgefüllte Formular. Dies wird auf der Web Personalization Leads -Seite angezeigt und ist der Lead, der im Zusammenfassungsbericht verwendet wird.

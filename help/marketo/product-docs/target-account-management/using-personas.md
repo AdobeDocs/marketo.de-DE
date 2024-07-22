@@ -7,7 +7,7 @@ feature: Target Account Management
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '190'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -21,11 +21,11 @@ Personas eignen sich hervorragend, um Ihre ABM-Zielgruppe zu segmentieren und zu
 
    ![](assets/one.png)
 
-1. Wählen Sie im Baum **Verwaltung von Target-Konten**.
+1. Wählen Sie im Baum **Target Account Management** aus.
 
    ![](assets/using-personas-2.png)
 
-1. Klicken **Bearbeiten**.
+1. Klicken Sie auf **Bearbeiten**.
 
    ![](assets/three.png)
 
@@ -33,11 +33,11 @@ Personas eignen sich hervorragend, um Ihre ABM-Zielgruppe zu segmentieren und zu
    >
    >Die Rolle &quot;Auftragstitel&quot;ist standardmäßig enthalten. Sie kann nicht geändert oder gelöscht werden.
 
-1. Um weitere Personas hinzuzufügen, klicken Sie auf **+Hinzufügen**.
+1. Um weitere Personas hinzuzufügen, klicken Sie auf **+Add**.
 
    ![](assets/four.png)
 
-1. Benennen Sie die Person und wählen Sie das entsprechende Feld in der Dropdown-Liste aus. Sie können bis zu zwei weitere Personas hinzufügen. Klicken **Speichern** wann geschehen.
+1. Benennen Sie die Person und wählen Sie das entsprechende Feld in der Dropdown-Liste aus. Sie können bis zu zwei weitere Personas hinzufügen. Klicken Sie auf **Speichern**, wenn Sie fertig sind.
 
    ![](assets/five.png)
 
@@ -53,7 +53,7 @@ Zeigen Sie Ihre Rollen an, indem Sie ein bestimmtes benanntes Konto aufrufen.
 
    ![](assets/one-a.png)
 
-1. Klicken Sie auf **Personas** Registerkarte.
+1. Klicken Sie auf die Registerkarte **Personas**.
 
    ![](assets/two-a.png)
 

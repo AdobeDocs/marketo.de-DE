@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2953136
 description: Grundlegendes zur Attribution - Marketo Docs - Produktdokumentation
-title: Grundlegendes zur Attribution
+title: Grundlagen zur Attribution
 exl-id: bf5f3d0f-809a-4fb1-835a-d87b733bd6c6
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
 
-# Grundlegendes zur Attribution {#understanding-attribution}
+# Grundlagen zur Attribution {#understanding-attribution}
 
 ## Was ist Attribution? {#what-is-attribution}
 
@@ -23,11 +23,11 @@ Mithilfe von Attribution können Sie den Erfolg des Programms messen. Einige Pro
 
 ## Erstkontakt (FT)-Zuordnung {#first-touch-ft-attribution}
 
-Erstkontakt (FT)-Attributionsantworten a **einfache Geschäftsfrage**, &quot;Welche Programme sind gut darin, gewinnbringende neue Namen zu gewinnen?&quot;
+Die Erstkontakt-Attribution (FT) beantwortet eine **einfache Geschäftsfrage**: &quot;Welche Programme eignen sich gut, um rentable neue Namen zu gewinnen?&quot;
 
 ## Zuschreibung nach mehreren Kontakten {#multi-touch-attribution}
 
-Multi-Touch-Antworten a **komplizierte Geschäftsfragen**, &quot;Welche Programme sind am einflussreichsten, wenn es darum geht, die Menschen im Laufe der Zeit in den Verkaufszyklus zu versetzen?&quot;
+Multi-Touch beantwortet eine **komplizierte geschäftliche Frage**: &quot;Welche Programme sind am einflussreichsten, wenn es darum geht, Personen im Laufe der Zeit in den Verkaufszyklus zu versetzen?&quot;
 
 ## Zuordnungsregeln {#rules-of-attribution}
 

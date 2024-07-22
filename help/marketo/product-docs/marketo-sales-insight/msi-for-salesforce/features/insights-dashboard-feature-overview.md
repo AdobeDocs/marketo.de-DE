@@ -6,7 +6,7 @@ exl-id: a32f8694-faf2-4183-a485-82fd859b77d2
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '1503'
+source-wordcount: '1525'
 ht-degree: 0%
 
 ---
@@ -17,20 +17,20 @@ Erfahren Sie mehr über die Funktionen, die in Ihrem Sales Insights-Dashboard ve
 
 >[!PREREQUISITES]
 >
->Sie benötigen das neueste MSI SFDC-Paket und [Konfiguration](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md).
+>Sie müssen über das neueste MSI SFDC-Paket und die [Konfiguration](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md) verfügen.
 
 ![](assets/insights-dashboard-feature-overview-1.png)
 
 ## Kontaktlayout {#contact-layout}
 
-**Interaktions-Velocity-Raster**
+**InteraktionsVelocity-Raster**
 
 * Dieses intelligente Raster enthält interessante Momente, E-Mail- und Web-Aktivitäten der letzten 90 Tage
 * Der Benutzer kann die Aktivität &quot;Konto anzeigen&quot;auswählen. Dadurch werden alle auf Kontoebene interessanten Momente, E-Mail und Web-Aktivität in der Kontaktansicht eingebettet.
 * Benutzer können bestimmte Wochen hervorheben, um Aktivitäten innerhalb dieser Woche anzuzeigen
 * Standardansicht: Aktuelle Woche ist ausgewählt
 
-**Interaktionsanalyse und Zusammenfassung**
+**Interaktionsdarstellung und Zusammenfassung**
 
 * Drilldown von Aktivitätskarten für interessante Momente, E-Mail- und Web-Aktivität
 * Interessante Momente Aktivitätskarte - Enthält die Option Abonnieren
@@ -64,14 +64,14 @@ Registerkarte Ereignis :
 
 ## Lead-Layout {#lead-layout}
 
-**Interaktions-Velocity-Raster**
+**InteraktionsVelocity-Raster**
 
 * Dieses intelligente Raster enthält interessante Momente, E-Mail- und Web-Aktivitäten der letzten 90 Tage
 * Benutzer können bestimmte Wochen hervorheben, um Aktivitäten innerhalb dieser Woche anzuzeigen
 * Standardansicht: Aktuelle Woche ist ausgewählt
 * Die Funktion &quot;Kontoaktivität anzeigen&quot;ist nicht für Leads verfügbar, da sie in Salesforce erst dann Teil eines Kontos ist, wenn sie in einen Kontakt konvertiert wird
 
-**Interaktionsanalyse und Zusammenfassung**
+**Interaktionsdarstellung und Zusammenfassung**
 
 * Drilldown-Aktivitätskarten für interessante Momente, E-Mail- und Web-Aktivität
 * Interessante Momente Aktivitätskarte - Enthält die Option Abonnieren
@@ -105,13 +105,13 @@ Registerkarte Ereignis :
 
 ## Kontolayout {#account-layout}
 
-**Interaktions-Velocity-Raster**
+**InteraktionsVelocity-Raster**
 
 * Dieses intelligente Raster enthält interessante Momente, E-Mail- und Web-Aktivitäten in den letzten 90 Tagen für alle Kontakte in dem Konto
 * Benutzer können bestimmte Wochen hervorheben, um Aktivitäten innerhalb dieser Woche anzuzeigen
 * Standardansicht: Aktuelle Woche ist ausgewählt
 
-**Interaktionsdiagramm und Zusammenfassung**
+**Drilldown und Zusammenfassung der Interaktion**
 
 * Drilldown-Aktivitätskarten für interessante Momente, E-Mail- und Web-Aktivität, einschließlich Kontaktname
 * Interessante Momente Aktivitätskarte - Enthält die Option Abonnieren
@@ -141,13 +141,13 @@ Registerkarte Ereignis :
 
 ## Opportunity Layout {#opportunity-layout}
 
-**Interaktions-Velocity-Raster**
+**InteraktionsVelocity-Raster**
 
 * Dieses intelligente Raster enthält interessante Momente, E-Mail- und Web-Aktivitäten in den letzten 90 Tagen für alle Kontakte in der Gelegenheit
 * Benutzer können bestimmte Wochen hervorheben, um Aktivitäten innerhalb dieser Woche anzuzeigen
 * Standardansicht: Aktuelle Woche ist ausgewählt
 
-**Interaktionsdiagramm und Zusammenfassung**
+**Drilldown und Zusammenfassung der Interaktion**
 
 * Drilldown-Aktivitätskarten für interessante Momente, E-Mail- und Web-Aktivität, einschließlich Kontaktname
 * Interessante Momente Aktivitätskarte - Enthält die Option Abonnieren
@@ -156,7 +156,7 @@ Registerkarte Ereignis :
 * In der wöchentlichen Zusammenfassungsleiste werden interessante Momente, E-Mail- und Web-Aktivitäten für diese Woche angezeigt. Jedes Symbol kann angeklickt werden und als Filter verwendet werden, um bestimmte Aktivitäten anzuzeigen
 * Standardansicht: Dies ist eine Liste der Aktivitäten der aktuellen Ansicht
 
-**Bevorstehende E-Mail-Kampagnen und -Ereignisse** Registerkarte &quot;E-Mail-Kampagnen&quot;:
+**Bevorstehende E-Mail-Kampagnen und -Ereignisse** Registerkarte E-Mail-Kampagnen :
 
 * Umfasst Kampagnen, die Teil von E-Mail-Programmen oder Standardprogrammen sind, die für die nächsten 90 Tage geplant sind
 * Nicht spezifisch für Kontakt/Lead (d. h. die Kampagnenliste ist eine allgemeine Liste aller E-Mail-Kampagnen, die in der Marketo-Instanz geplant sind). Die Liste der Kampagnen in allen Lead-, Kontakt-, Konto- und Opportunity-Bereichen ist identisch.

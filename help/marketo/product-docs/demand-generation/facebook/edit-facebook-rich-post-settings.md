@@ -19,13 +19,13 @@ Passen Sie Beiträge an, wenn Benutzer Sie in Facebook freigeben.
 >
 >Nicht alle Marketo Engage-Benutzer haben diese Funktion erworben. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).
 
-Marketo [Social Apps](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-social-button-on-a-landing-page.md) ermöglichen es Leads, Ihre Landingpages mit ihren Verbindungen in sozialen Netzwerken wie Facebook, Twitter usw. zu teilen. Mit facebook OpenGraph-Tags (OG-Tags) können Sie angeben, welche Informationen von Ihrer Landingpage in Facebook-Beiträgen enthalten sind.
+Mit Marketo [Social Apps](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-social-button-on-a-landing-page.md) können Ihre Leads Ihre Landingpages für ihre Verbindungen in sozialen Netzwerken wie Facebook, Twitter usw. freigeben. Mit facebook OpenGraph-Tags (OG-Tags) können Sie angeben, welche Informationen von Ihrer Landingpage in Facebook-Beiträgen enthalten sind.
 
 ## Rich-Post-Optionen auswählen {#select-rich-post-options}
 
 Sie können die Arten von Seiteninformationen angeben, die in den Rich-Posts von Facebook verwendet werden sollen, die von Teilen aus Ihrer Landingpage generiert wurden.
 
-1. Auswählen **Facebook-Nachricht** im Editor für **YouTube** Video- oder Social-Schaltfläche.
+1. Wählen Sie **Facebook Message** im Editor für Ihre **YouTube**-Video- oder Social-Schaltfläche aus.
 
    ![](assets/image2014-9-22-16-3a47-3a21.png)
 
@@ -35,7 +35,7 @@ Sie können die Arten von Seiteninformationen angeben, die in den Rich-Posts von
 
    ![](assets/image2014-9-22-16-3a48-3a0.png)
 
-   * Dynamischen Inhalt hinzufügen: Ihre Social-App kann die `<TITLE>`, `<CAPTION>`, und `<DESCRIPTION>` Tags zum Ausfüllen Ihres Rich-Posts.
+   * Dynamischen Inhalt hinzufügen: Ihre Social-App kann die Tags `<TITLE>`, `<CAPTION>` und `<DESCRIPTION>` Ihrer Landingpage verwenden, um Ihren Rich-Post zu füllen.
 
    ![](assets/image2014-9-22-16-3a48-3a9.png)
 
@@ -51,13 +51,13 @@ Sie können die Arten von Seiteninformationen angeben, die in den Rich-Posts von
 
 Um die Seitenelemente zu steuern, die in den Facebook-Freigaben von Ihrer Landingpage enthalten sein werden, können Sie Ihrer Landingpage Facebook OG (Open Graph)-Tags für Titel, Beschriftung und Beschreibung hinzufügen.
 
-1. Öffnen Sie die Landingpage, die Ihre **YouTube-Video** oder &quot;Social&quot;.
+1. Öffnen Sie die Landingpage, die Ihr **YouTube-Video** oder Ihre Social-Schaltfläche enthält.
 
    ![](assets/image2014-9-22-16-3a51-3a28.png)
 
-   Die **Landingpage-Designer** in einem neuen Fenster geöffnet.
+   Der Designer für die Einstiegsseite **wird in einem neuen Fenster geöffnet.**
 
-1. Auswählen **Landingpage-Aktionen** > **Bearbeiten von Seiten-Meta-Tags**.
+1. Wählen Sie **Aktionen auf der Einstiegsseite** > **Meta-Tags der Seite bearbeiten** aus.
 
    ![](assets/image2014-9-22-16-3a51-3a36.png)
 

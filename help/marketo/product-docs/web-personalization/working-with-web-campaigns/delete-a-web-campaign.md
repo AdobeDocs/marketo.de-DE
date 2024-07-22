@@ -13,19 +13,19 @@ ht-degree: 0%
 
 # Eine Webkampagne löschen {#delete-a-web-campaign}
 
-1. Navigieren Sie zu **Web-Kampagnen**.
+1. Wechseln Sie zu **Web-Kampagnen**.
 
    ![](assets/web-campaigns-hand-3.jpg)
 
    >[!NOTE]
    >
-   >Um die gewünschte Web-Kampagne leichter zu finden, verwenden Sie die [Filterfunktion](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+   >Um die gewünschte Webkampagne leichter zu finden, verwenden Sie die [Filterfunktion](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
-1. Klicken Sie auf der Seite Web-Kampagnen auf **Löschen** auf der Kampagne, die Sie löschen möchten.
+1. Klicken Sie auf der Seite Web-Kampagnen auf **Löschen** der Kampagne, die Sie löschen möchten.
 
    ![](assets/web-campaigns-1-delete-hand-1.png)
 
-1. Eine Bestätigungsmeldung wird angezeigt, um zu bestätigen, ob Sie die Webkampagne löschen möchten.
+1. Eine Bestätigungsmeldung wird angezeigt, um zu bestätigen, dass Sie die Webkampagne löschen möchten.
 
 >[!MORELIKETHIS]
 >

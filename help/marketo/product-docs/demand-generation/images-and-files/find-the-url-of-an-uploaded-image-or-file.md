@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Suchen Sie die Webadresse (URL) eines hochgeladenen Bildes oder einer hochgeladenen Datei?
 
-1. Navigieren Sie zu **[!UICONTROL Design Studio]**.
+1. Wechseln Sie zu **[!UICONTROL Design Studio]**.
 
    ![](assets/find-the-url-of-an-uploaded-image-or-file-1.png)
 
-1. Klicks **[!UICONTROL Bilder und Dateien]**.
+1. Klicken Sie auf **[!UICONTROL Bilder und Dateien]**.
 
    ![](assets/find-the-url-of-an-uploaded-image-or-file-2.png)
 
@@ -33,4 +33,4 @@ Suchen Sie die Webadresse (URL) eines hochgeladenen Bildes oder einer hochgelade
 
 >[!MORELIKETHIS]
 >
->[Ersetzen eines hochgeladenen Bildes oder einer Datei](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md){target="_blank"}
+>[Ersetzen eines hochgeladenen Bildes oder einer hochgeladenen Datei](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md){target="_blank"}

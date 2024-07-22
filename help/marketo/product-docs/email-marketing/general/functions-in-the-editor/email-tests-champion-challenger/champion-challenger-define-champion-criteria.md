@@ -21,7 +21,7 @@ Nachdem Sie Ihren Testtyp eingerichtet haben, müssen Sie die Kriterien für den
 
 ## Standard-Champion-Kriterien {#standard-champion-criteria}
 
-1. Wählen Sie einen der verfügbaren **Champion-Kriterien**.
+1. Wählen Sie eines der verfügbaren **Champion-Kriterien** aus.
 
    ![](assets/image2014-9-15-13-3a1-3a15.png)
 
@@ -29,11 +29,11 @@ Nachdem Sie Ihren Testtyp eingerichtet haben, müssen Sie die Kriterien für den
    >
    >Wir verfolgen diese Metrik und senden Ihnen einen Bericht mit den Daten per E-Mail.
 
-1. Wenn Sie einen der Standardwerte ausgewählt haben **Champion-Kriterien**, fahren Sie fort mit [Champion/Challenger: Berichtwarnungen konfigurieren](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)!
+1. Wenn Sie eines der standardmäßigen **Champion-Kriterien** ausgewählt haben, fahren Sie fort und wechseln Sie zu [Champion/Challenger: Berichtwarnungen konfigurieren](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)!
 
 ## Benutzerdefinierte Champion-Kriterien {#custom-champion-criteria}
 
-1. Wenn Sie eine Vorstellung haben möchten, können Sie die benutzerdefinierte Einstellung ändern, indem Sie **Benutzerspezifische Konversion** und klicken **Bearbeiten**.
+1. Wenn Sie sich etwas vorstellen möchten, können Sie eine benutzerspezifische Einstellung vornehmen, indem Sie **Benutzerspezifische Konversion** auswählen und auf **Bearbeiten** klicken.
 
    ![](assets/image2014-9-15-13-3a2-3a52.png)
 

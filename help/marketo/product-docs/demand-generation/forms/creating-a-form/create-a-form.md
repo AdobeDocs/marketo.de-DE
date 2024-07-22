@@ -6,7 +6,7 @@ exl-id: ab0f2700-99e5-4ceb-b9df-80016f30fc85
 feature: Forms
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
@@ -17,25 +17,25 @@ Erstellen und verwenden Sie ein Formular auf einer Landingpage, um neue Namen zu
 
 >[!NOTE]
 >
->Erfahren Sie, was Marketo tut, um [Sichern der Formulare](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038).
+>Erfahren Sie, was Marketo mit [sicherstellt, dass Ihre Formulare sicher sind](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038).
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Wechseln Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Suchen und Auswählen Ihrer **program**.
+1. Suchen und wählen Sie Ihr **Programm** aus.
 
    ![](assets/programseelct.png)
 
-1. under **Neu** klicken **Neu** **Lokal** **Asset**.
+1. Klicken Sie unter **Neu** auf **Neu** **Lokal** **Asset**.
 
    ![](assets/newlocalasset.png)
 
-1. Auswählen **Formular**.
+1. Wählen Sie **Formular** aus.
 
    ![](assets/image2014-9-15-17-3a1-3a20.png)
 
-1. Formular eingeben **Name** und klicken **Erstellen**.
+1. Geben Sie ein Formular **Name** ein und klicken Sie auf **Erstellen**.
 
    ![](assets/newformwithhands.png)
 
@@ -47,5 +47,5 @@ Süß! Nachdem das Formular erstellt wurde, ziehen wir es an.
 
 >[!MORELIKETHIS]
 >
->* [Formulardesign auswählen](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md)
+>* [Wählen Sie ein Formulardesign aus](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md)
 >* [Hinzufügen eines Feldsatzes zu einem Formular](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md)

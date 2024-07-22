@@ -29,7 +29,7 @@ Sie können ermitteln, welchen Typ Sie erhalten, indem Sie die URL überprüfen.
 
 Dieser Fehler zeigt normalerweise an, dass Sie über eine benutzerdefinierte Domäne verfügen, zu der wir keine Weiterleitung durchführen können. Um diesen Fehler zu beheben, versuchen Sie, sich bei der Salesforce-Instanz anzumelden, mit der Sie zuerst eine Verbindung herstellen möchten. Gehen Sie dann die Schritte durch, um eine Verbindung mit Salesforce herzustellen.
 
-Wenn es sich bei der Instanz, mit der Sie eine Verbindung herstellen möchten, um eine Salesforce-Sandbox-Domäne handelt und Sie einen Fehler erhalten, müssen Sie zusätzliche Schritte ausführen, um Ihre Instanz so zu aktualisieren, dass sie mit Salesforce Sandbox kompatibel ist. [Weitere Informationen](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/set-up-a-sales-insight-actions-sandbox.md){target="_blank"}.
+Wenn es sich bei der Instanz, mit der Sie eine Verbindung herstellen möchten, um eine Salesforce-Sandbox-Domäne handelt und Sie einen Fehler erhalten, müssen Sie zusätzliche Schritte ausführen, um Ihre Instanz so zu aktualisieren, dass sie mit Salesforce Sandbox kompatibel ist. [Weitere Infos](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/set-up-a-sales-insight-actions-sandbox.md){target="_blank"}.
 
 ## Oauth App Blockierung auflösen {#resolve-oauth-app-blocked}
 
@@ -38,16 +38,16 @@ Wenn Sie die Fehlermeldung &quot;Wir konnten Ihre Anfrage nicht authentifizieren
 ### Aktivieren der API in Benutzerberechtigungen {#enable-api-in-user-permissions}
 
 1. Bitten Sie einen Salesforce-Administrator, sich bei Salesforce anzumelden.
-1. Auswählen **Einrichtung**.
-1. Auswählen **Benutzer verwalten**.
-1. Auswählen **Profile**.
+1. Wählen Sie **Einrichten** aus.
+1. Wählen Sie **Benutzer verwalten** aus.
+1. Wählen Sie **Profile** aus.
 1. Suchen Sie das Profil, unter dem sich die ToutApp-Benutzer befinden, und klicken Sie auf **Bearbeiten**.
-1. Nach unten scrollen zu **Administratorberechtigungen** und stellen Sie sicher, **API aktiviert** aktiviert ist.
+1. Scrollen Sie nach unten zu **Administratorberechtigungen** und stellen Sie sicher, dass die Option **API aktiviert** aktiviert ist.
 
 ### Überprüfen Sie, ob Salesforce Sales Insight-Aktionen von der Verbindung blockiert {#check-if-salesforce-is-blocking-sales-insight-actions-from-connecting}
 
 1. Bitten Sie einen Salesforce-Administrator, sich bei Salesforce anzumelden.
-1. Auswählen **Einrichtung**.
-1. Auswählen **Apps verwalten**.
-1. Auswählen **Connected Apps OAuth-Nutzung**.
+1. Wählen Sie **Einrichten** aus.
+1. Wählen Sie **Apps verwalten** aus.
+1. Wählen Sie **Connected Apps OAuth Usage** aus.
 1. Stellen Sie sicher, dass Sales Insight-Aktionen daneben &quot;Block&quot;anzeigen. Wenn &quot;Block aufheben&quot;angezeigt wird, klicken Sie auf die Schaltfläche , um den Zugriff von Sales Insight-Aktionen auf Salesforce zu entsperren.

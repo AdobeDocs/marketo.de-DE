@@ -6,7 +6,7 @@ exl-id: 565754ce-644c-4ba7-bb67-cd0b4dc0f7e1
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,11 @@ Wir haben es Teams immer ermöglicht, ihre Abmelde-Link-Nachrichten anzupassen, 
 
 ## Anpassen von Nachrichten für Sie {#customize-messaging-for-yourself}
 
-1. Melden Sie sich bei der [Webanwendung](https://toutapp.com/login), klicken Sie auf das Zahnradsymbol oben rechts und wählen Sie **Einstellungen**.
+1. Melden Sie sich bei der [Webanwendung](https://toutapp.com/login) an, klicken Sie auf das Zahnradsymbol oben rechts und wählen Sie **Einstellungen**.
 
    ![](assets/one.png)
 
-1. Wählen Sie unter Mein Konto die Option **Abmeldungen**.
+1. Wählen Sie unter Mein Konto die Option **Abonnements kündigen** aus.
 
    ![](assets/two-1.png)
 
@@ -41,24 +41,24 @@ Wir haben es Teams immer ermöglicht, ihre Abmelde-Link-Nachrichten anzupassen, 
    >
    >Es spielt keine Rolle, welche URL verlinkt wird. Wenn die E-Mail gesendet wird, wird dieser Hyperlink in unseren Abmelde-Link konvertiert.
 
-1. Klicken **OK**.
+1. Klicken Sie auf **OK**.
 
    ![](assets/five.png)
 
 ## Abmelde-Nachrichten für Ihr Team festlegen {#set-unsubscribe-messaging-for-your-team}
 
-1. Melden Sie sich bei der [Webanwendung](https://toutapp.com/login), klicken Sie auf das Zahnradsymbol oben rechts und wählen Sie **Einstellungen**.
+1. Melden Sie sich bei der [Webanwendung](https://toutapp.com/login) an, klicken Sie auf das Zahnradsymbol oben rechts und wählen Sie **Einstellungen**.
 
    ![](assets/six.png)
 
-1. Wählen Sie unter &quot;Admin Settings&quot;die Option **Abmeldungen**.
+1. Wählen Sie unter &quot;Admin Settings&quot;die Option **Unsubscribes**.
 
    ![](assets/eight.png)
 
-1. Passen Sie Ihre Nachricht an und klicken Sie auf **Speichern** wann geschehen.
+1. Passen Sie Ihre Nachricht an und klicken Sie danach auf **Speichern** .
 
    ![](assets/seven.png)
 
-1. Auswählen **Ich stelle die Standardnachricht für mein Team ein** , damit die Nachrichten für alle Benutzer gelten.
+1. Wählen Sie **Ich setze die Standardnachricht für mein Team** aus, damit die Nachricht für alle Benutzer gilt.
 
    ![](assets/eleven.png)

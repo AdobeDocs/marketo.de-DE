@@ -6,14 +6,14 @@ exl-id: be8a0887-70f4-4667-93a6-d982a16cdfdb
 feature: Email Programs, A/B Testing
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '412'
+source-wordcount: '422'
 ht-degree: 3%
 
 ---
 
 # Definieren der A/B-Test-Gewinnerkriterien {#define-the-a-b-test-winner-criteria}
 
-Wann [Hinzufügen eines A/B-Tests](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target="_blank"} to your email program, you will need to pick a test type, [schedule the A/B test](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target="_blank"}und legen Sie dann die Gewinnerkriterien fest. Hier erfahren Sie, wie Sie entscheiden, welche E-Mail gewinnt.
+Wenn Sie [A/B-Test hinzufügen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target="_blank"}, müssen Sie einen Testtyp auswählen, den A/B-Test planen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target="_blank"} und dann die Gewinnerkriterien definieren. [ Hier erfahren Sie, wie Sie entscheiden, welche E-Mail gewinnt.
 
 >[!PREREQUISITES]
 >
@@ -21,13 +21,13 @@ Wann [Hinzufügen eines A/B-Tests](/help/marketo/product-docs/email-marketing/em
 
 ## Gewinnerkriterien {#winner-criteria}
 
-1. Die Standardeinstellung **Gewinnkriterien** werden zuerst aufgeführt.
+1. Die standardmäßigen Optionen für **Gewinnerkriterien** werden zuerst aufgelistet.
 
    ![](assets/image2014-9-12-15-3a51-3a3.png)
 
    <table>
    <tr>
-   <td><b>Öffnet</b></td>
+   <td><b>Geöffnet</b></td>
    <td>Ein offenes Feld registriert sich, wenn Bilder in eine E-Mail heruntergeladen werden. Auch wenn Sie kein Bild angeben, fügt Marketo standardmäßig ein einzelnes Tracking-Pixel in alle HTML-E-Mails ein.</td>
    </tr>
    <tr>
@@ -36,17 +36,17 @@ Wann [Hinzufügen eines A/B-Tests](/help/marketo/product-docs/email-marketing/em
    </tr>
    <tr>
    <td><b>Zum Öffnen klicken %</b></td>
-   <td>Prozentsatz der E-Mails, die geöffnet wurden und auf die ein Link in der E-Mail geklickt wurde. Auf diese Weise wird die Relevanz und der Kontext einer E-Mail gemessen, indem die Anzahl der Einzelklicks dividiert durch die Anzahl der Einzelöffnungen und anschließend durch 100 multipliziert wird, um den Prozentsatz anzuzeigen.</td>
+   <td>Prozentsatz der E-Mails, die geöffnet wurden und auf die ein Link in der E-Mail geklickt wurde Auf diese Weise wird die Relevanz und der Kontext einer E-Mail gemessen, indem die Anzahl der Einzelklicks dividiert durch die Anzahl der Einzelöffnungen und anschließend durch 100 multipliziert wird, um den Prozentsatz anzuzeigen.</td>
    </tr>
    <tr>
    <td><b>Engagement-Bewertung</b></td>
-   <td>Die <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html" target="_blank">Interaktionswert</a> hilft Ihnen bei der Bestimmung der Effektivität Ihres Inhalts.</td>
+   <td>Mit dem <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html" target="_blank">Interaktionswert</a> können Sie die Effektivität Ihres Inhalts ermitteln.</td>
    </tr>
    </table>
 
    >[!TIP]
    >
-   >Wenn Sie Interaktionsbewertung auswählen, muss der Test mindestens 24 Stunden lang ausgeführt werden. Weitere Informationen [Interaktionsbewertung verstehen](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md){target="_blank"}.
+   >Wenn Sie Interaktionsbewertung auswählen, muss der Test mindestens 24 Stunden lang ausgeführt werden. Erfahren Sie mehr über [Verständnis des Interaktionswerts](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md){target="_blank"}.
 
 1. Sie können Ihre Kriterien auch anpassen, indem Sie Benutzerspezifische Konversion auswählen und auf Bearbeiten klicken.
 
@@ -82,16 +82,16 @@ Wann [Hinzufügen eines A/B-Tests](/help/marketo/product-docs/email-marketing/em
 
    >[!NOTE]
    >
-   >Wenn Sie eine **Datum/Uhrzeit** A/B-Test können Sie nur **Manuell**.
+   >Wenn Sie einen A/B-Test vom Typ **Datum/Uhrzeit** durchführen, können Sie nur **Manuell** auswählen.
 
    Sobald der A/B-Test beendet ist, kann Marketo die erfolgreichste E-Mail automatisch zum geplanten Zeitpunkt senden oder Sie können die Ergebnisse überprüfen und entscheiden, welche E-Mail gesendet wird.
 
-1. Automatisch ist großartig und ist die Standardoption. Klicken Sie einfach auf **Nächste**.
+1. Automatisch ist großartig und ist die Standardoption. Klicken Sie einfach auf **Weiter**.
 
    ![](assets/image2014-9-12-15-3a54-3a35.png)
 
    >[!TIP]
    >
-   >Auswahl **Manuell** sendet den Test und wartet, bis Sie einen Gewinner feststellen. Sie erhalten einen Ergebnisbericht.
+   >Wenn Sie **Manuell** auswählen, wird der Test gesendet und gewartet, bis Sie einen Gewinner feststellen. Sie erhalten einen Bericht über die Ergebnisse.
 
-Perfekt! Jetzt lass uns [A/B-Test planen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target="_blank"}.
+Perfekt! Nun lassen Sie uns [den A/B-Test planen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target="_blank"}.

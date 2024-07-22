@@ -15,7 +15,7 @@ ht-degree: 0%
 
 In Social-Schaltflächen-, Video- und Umfrage-Apps können Sie wählen, was passiert, wenn eine Person Ihre Inhalte in ihrem sozialen Netzwerk teilt.
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Wechseln Sie zu **Marketingaktivitäten**.
 
    ![](assets/ma.png)
 
@@ -23,22 +23,22 @@ In Social-Schaltflächen-, Video- und Umfrage-Apps können Sie wählen, was pass
 
    ![](assets/image2015-4-21-12-3a1-3a11.png)
 
-1. Navigieren Sie im Social-App-Editor zu **App-Einstellungen** und dann **Erweiterte Optionen**.
+1. Wechseln Sie im Social-App-Editor zu **App-Einstellungen** und dann zu **Erweiterte Optionen**.
 
    ![](assets/image2015-4-21-12-3a10-3a54.png)
 
-1. Für **Nach Freigabe** wählen Sie das gewünschte Verhalten aus.
+1. Wählen Sie für **Nach Freigabe** das gewünschte Verhalten aus.
 
    ![](assets/image2015-4-21-12-3a18-3a32.png)
 
-   * **Bestätigungsnachricht:** Nachdem die Person freigegeben wurde, zeigen Sie eine Bestätigung an.
-   * **E-Mail-Erfassung:** Nachdem die Person freigegeben wurde, fordern Sie ihre E-Mail-Adresse an.
+   * **Bestätigungsnachricht:** Zeigen Sie nach der Freigabe der Person eine Bestätigung an.
+   * **E-Mail-Erfassung:** Nachdem die Person freigegeben hat, fordern Sie ihre E-Mail-Adresse an.
 
    >[!NOTE]
    >
-   >Wenn Sie **E-Mail-Erfassung**, wird die Anfrage nur angezeigt, wenn die Person ihre Informationen noch nicht bereitgestellt hat.
+   >Wenn Sie **E-Mail-Erfassung** auswählen, wird die Anfrage nur angezeigt, wenn die Person ihre Informationen noch nicht bereitgestellt hat.
 
-1. Wenn Sie **Bestätigungsnachricht:** Navigieren Sie zu **Fluss freigeben** und dann **Bestätigungsnachricht**.
+1. Wenn Sie **Bestätigungsnachricht:** auswählen, gehen Sie zu **Fluss freigeben** und dann zu **Bestätigungsnachricht**.
 
    ![](assets/image2015-4-21-12-3a26-3a10.png)
 
@@ -46,7 +46,7 @@ In Social-Schaltflächen-, Video- und Umfrage-Apps können Sie wählen, was pass
 
    ![](assets/image2015-4-21-12-3a31-3a41.png)
 
-1. Wenn Sie **E-Mail-Erfassung** (anstelle einer Bestätigung): Navigieren Sie zu **Fluss freigeben** und dann **E-Mail-Erfassung**.
+1. Wenn Sie &quot;**E-Mail-Erfassung**&quot;(anstelle der Bestätigung) auswählen: Wechseln Sie zu &quot;**Fluss freigeben**&quot;und dann zu &quot;**E-Mail-Erfassung**&quot;.
 
    ![](assets/image2015-4-21-12-3a46-3a15.png)
 

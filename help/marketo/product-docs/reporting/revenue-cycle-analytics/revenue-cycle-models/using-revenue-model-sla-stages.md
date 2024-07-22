@@ -21,39 +21,39 @@ SLA steht für &quot;Service Level Agreement&quot;. Diese Phasen werden verwende
 
 ## SLA-Bühne hinzufügen {#add-an-sla-stage}
 
-1. Um eine neue SLA-Phase für das Umsatzzyklusmodell hinzuzufügen, klicken Sie auf das **Analytics** auf der Startseite von My Marketo.
+1. Um eine neue SLA-Bühne für das Umsatzzyklusmodell hinzuzufügen, klicken Sie auf die Schaltfläche **Analytics** auf dem Startbildschirm My Marketo .
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 
-1. Wählen Sie im Abschnitt Analytics Ihr vorhandenes Modell aus oder [Erstellen eines neuen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
+1. Wählen Sie im Abschnitt &quot;Analytics&quot;das vorhandene Modell aus oder erstellen Sie [ein neues Modell](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
 
    ![](assets/image2015-4-27-15-3a6-3a30.png)
 
-1. Klicks **Entwurf bearbeiten**.
+1. Klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/image2015-4-27-12-3a10-3a49.png)
 
-1. Um eine neue SLA-Bühne hinzuzufügen, klicken Sie auf das **SLA** und ziehen Sie die Maustaste und lassen Sie sie an eine beliebige Stelle auf der Arbeitsfläche los.
+1. Um eine neue SLA-Bühne hinzuzufügen, klicken Sie auf die Schaltfläche **SLA** und ziehen Sie sie an eine beliebige Stelle auf der Arbeitsfläche.
 
    ![](assets/image2015-4-27-15-3a32-3a10.png)
 
-1. Sie können die **Name**, fügen Sie eine **Beschreibung** und passen Sie die **Typ** nach dem Hinzufügen einer Bühne. Sie können auch **[Tracking nach Konto starten](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)** zu diesem Zeitpunkt.
+1. Sie können den **Namen** bearbeiten, eine **Beschreibung** hinzufügen und den **Typ** nach dem Hinzufügen einer Bühne anpassen. Sie können derzeit auch **[Tracking nach Konto starten](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)** auswählen.
 
    ![](assets/image2015-4-27-17-3a0-3a39.png)
 
 ## SLA-Bühne bearbeiten {#edit-an-sla-stage}
 
-Wenn Sie ein SLA-Bühnensymbol auswählen, können Sie den Namen bearbeiten, eine Beschreibung hinzufügen und den Typ anpassen. Sie können auch [Tracking nach Konto starten](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md).
+Wenn Sie ein SLA-Bühnensymbol auswählen, können Sie den Namen bearbeiten, eine Beschreibung hinzufügen und den Typ anpassen. Sie können auch [Tracking nach Konto starten](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md) auswählen.
 
 1. Klicken Sie auf ein SLA-Bühnensymbol.
 
    ![](assets/image2015-4-27-15-3a45-3a25.png)
 
-1. Klicken Sie in der **Name** und **Beschreibung** -Felder, um ihren Inhalt zu bearbeiten.
+1. Klicken Sie in die Felder **Name** und **Beschreibung**, um ihren Inhalt zu bearbeiten.
 
    ![](assets/image2015-4-27-15-3a48-3a37.png)
 
-1. Wählen Sie die **Typ** Pulldown zur Bearbeitung.
+1. Wählen Sie das Pulldown-Feld **Typ** aus, um es zu bearbeiten.
 
    ![](assets/image2015-4-27-15-3a51-3a27.png)
 

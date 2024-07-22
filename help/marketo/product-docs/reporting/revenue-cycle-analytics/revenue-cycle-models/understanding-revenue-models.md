@@ -6,7 +6,7 @@ exl-id: e8d1e7e9-caea-43a0-b87a-428a649e95d2
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '563'
+source-wordcount: '564'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ Umsatzzyklusmodelle bringen das Marketing auf die nächste Stufe. Sie modelliere
 
 ## Psychisches Modell (Wie man darüber nachdenkt) {#mental-model-how-to-think-about-this-thing}
 
-Der Modeler ist wie eine Reihe von Eimern mit Wasser in ihnen. Es sind Löcher am Boden der Eimer.
+Die Modeler ist wie eine Reihe von Eimern mit Wasser in ihnen. Es sind Löcher am Boden der Eimer.
 
 ![](assets/image2015-6-12-10-3a14-3a4.png)
 
 Der Modeler misst, wie viel Wasser (Leads) pro Tag in den Eimer gelangt und wie viel aus den Löchern herausgeht. (Es kann mehr als ein Loch geben.)
 
-Der Modellierer misst die Anzahl der Leads im Behälter zu einem bestimmten Zeitpunkt. Dies wird als Bühnenbilanz bezeichnet.
+Der Modellierer misst die Anzahl der Leads im Behälter zu einem bestimmten Zeitpunkt. Das nennt man das Bühnengleichgewicht.
 
 >[!TIP]
 >
@@ -37,11 +37,11 @@ Standardmäßig startet ein neues Modell mit sechs Umsatzstufen. Dieses Modell i
 
 ![](assets/image2015-6-12-9-3a43-3a11.png)
 
-Beachten Sie, dass alle auf grünem Hintergrund sind. Dies wird als **Erfolgspfad**. Weitere Informationen zum Erfolgspfad [here](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-success-path.md).
+Beachten Sie, dass alle auf grünem Hintergrund sind. Dies wird als **Erfolgspfad** bezeichnet. Erfahren Sie mehr über den Erfolgspfad [hier](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-success-path.md).
 
-**Phasen** sind die Meilensteine auf dem Weg zu ihren Zielen.
+**Phasen** sind die Meilensteine auf einem Lead, der Fortschritte in Richtung seiner Ziele macht.
 
-**Transitionen** werden als Pfeile angezeigt und steuern, wie sich Leads zwischen Bühnen bewegen.
+**Transitionen** werden als Pfeile angezeigt und steuern, wie Leads zwischen Bühnen bewegt werden.
 
 >[!NOTE]
 >
@@ -55,11 +55,11 @@ Jedes Unternehmen ist anders. Sie können Elemente zum Modell hinzufügen, indem
 
 ## Lagerbestandsstatus {#inventory-stage}
 
-Dies sieht wie eine Box aus und ist die einfachste von Bühnen. Analytics verfolgt den Zufluss, den Abfluss und das Gleichgewicht in dieser Phase.
+Das sieht wie eine Kiste aus und ist die einfachste von Bühnen. Analytics verfolgt den Zufluss, den Abfluss und das Gleichgewicht in dieser Phase.
 
 ## SLA-Bühne {#sla-stage}
 
-Dies ist die Abkürzung für **Service Level Agreement** Bühne. Hier geht es darum, dass Sie in einigen Phasen eine Zeitbegrenzung durchsetzen möchten.
+Dies ist die Abkürzung für die Stufe **Service Level Agreement** . Hier geht es darum, dass Sie in einigen Phasen eine Zeitbegrenzung durchsetzen möchten.
 
 >[!NOTE]
 >
@@ -75,7 +75,7 @@ Eine Gate-Phase ist für Situationen vorgesehen, in denen Sie Leads in eine von 
 >
 >**Beispiel**
 >
->Ein Gate kann für Leads verwendet werden, die Teil eines **spezifische Kontoliste** , um dies vom normalen Prozess zu trennen.
+>Ein Gate kann für Leads verwendet werden, die Teil einer **benannten Kontoliste** sind, um dies vom normalen Prozess zu trennen.
 
 ## Transitionen {#transitions}
 
@@ -97,11 +97,11 @@ Verloren ist eine gute, die hinzugefügt werden kann, aber beachten Sie, dass si
 >
 >* [Neues Umsatzmodell erstellen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
 >
->* [Verwenden der Lagerbestandsstadien des Umsatzmodells](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
+>* [Verwenden der Lagerbestandsstatus des Umsatzmodells](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
 >
->* [Verwenden von Gate-Phasen für Umsatzmodelle](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-gate-stages.md)
+>* [Verwenden der Gate-Phasen des Umsatzmodells](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-gate-stages.md)
 >
->* [Verwenden von SLA-Phasen für Umsatzmodelle](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
+>* [Verwenden von SLA-Phasen des Umsatzmodells](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
 >
 >* [Bericht zu Ihrem Umsatzmodell](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/report-on-your-revenue-model.md)
 >

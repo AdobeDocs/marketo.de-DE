@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Salesforce benötigt (mindestens) Nachname und Firmenname für Leads und Kontakte. Unvollständige Datensätze werden nicht mit Salesforce synchronisiert. Wenn Sie partielle Datensätze synchronisieren möchten, müssen Sie Standardwerte für die Verwendung von Marketo mit Salesforce festlegen.
 
-1. Navigieren Sie zu **[!UICONTROL Admin]** und klicken **[!DNL Salesforce]**.
+1. Wechseln Sie zu **[!UICONTROL Admin]** und klicken Sie auf **[!DNL Salesforce]**.
 
    ![](assets/image2014-12-9-13-3a41-3a58.png)
 
-1. Klicks **[!UICONTROL Synchronisierungsoptionen bearbeiten]**.
+1. Klicken Sie auf **[!UICONTROL Synchronisierungsoptionen bearbeiten]**.
 
    ![](assets/image2014-12-9-13-3a42-3a6.png)
 
-1. Geben Sie einen **[!UICONTROL Standardname des Nachnamens der Person]** und **[!UICONTROL Standard-Personenunternehmen]** Klicken Sie auf **[!UICONTROL Speichern]**.
+1. Geben Sie einen **[!UICONTROL Standardnamen der Person]** und ein **[!UICONTROL Standardperson, Firma]** ein und klicken Sie dann auf **[!UICONTROL Speichern]**.
 
    ![](assets/sync-options-hands.png)
 

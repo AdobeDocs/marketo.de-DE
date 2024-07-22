@@ -32,7 +32,7 @@ Erfahren Sie, wie Sie Ihre Gruppen in Sales Insight-Aktionen verwalten.
   </tr> 
   <tr> 
    <td>Dynamische Gruppen</td> 
-   <td>Meine Ansprechpartner: Alle Kontakte, die du besitzt.<br>Abmeldungen: Kontakte, die sich vom Erhalt des Schriftstücks abgemeldet haben.</td> 
+   <td>Meine Kontakte: Alle Kontakte, die Sie besitzen.<br>Abmeldungen: Kontakte, die sich vom Erhalt der Korrespondenz abgemeldet haben.</td> 
   </tr> 
   <tr> 
    <td>Meine Gruppen</td> 
@@ -47,7 +47,7 @@ Erfahren Sie, wie Sie Ihre Gruppen in Sales Insight-Aktionen verwalten.
 
 ## Erstellen einer Gruppe {#create-a-group}
 
-1. Klicken Sie auf der Seite &quot;Personen&quot;auf die **+** neben Gruppen.
+1. Klicken Sie auf der Seite &quot;Personen&quot;auf das Pluszeichen &quot;**+**&quot;neben Gruppen.
 
    ![](assets/manage-groups-1.png)
 
@@ -57,21 +57,21 @@ Erfahren Sie, wie Sie Ihre Gruppen in Sales Insight-Aktionen verwalten.
 
    Das ist es!
 
-## Hinzufügen von Kontakten zu einer Gruppe {#add-contacts-to-a-group}
+## Kontakte zu einer Gruppe hinzufügen {#add-contacts-to-a-group}
 
 1. Suchen und wählen Sie auf der Seite Personen die Gruppe aus, der Sie Personen hinzufügen möchten.
 
    ![](assets/manage-groups-3.png)
 
-1. Klicken **Gruppenaktionen** und wählen Sie **Kontakt erstellen und zu Gruppe hinzufügen**.
+1. Klicken Sie auf **Gruppenaktionen** und wählen Sie **Kontakt erstellen und zu Gruppe hinzufügen**.
 
    ![](assets/manage-groups-4.png)
 
    >[!NOTE]
    >
-   >Dadurch wird jeweils ein Kontakt hinzugefügt. Gehen Sie wie folgt vor, um mehrere Kontakte gleichzeitig hinzuzufügen: [diese Schritte](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md).
+   >Dadurch wird jeweils ein Kontakt hinzugefügt. Um mehrere Kontakte gleichzeitig hinzuzufügen, führen Sie [diese Schritte](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md) aus.
 
-1. Füllen Sie die Kontaktdaten aus und klicken Sie auf **Erstellen** (oder **Erstellen und Hinzufügen neuer** , um einen weiteren hinzuzufügen).
+1. Füllen Sie die Kontaktinformationen aus und klicken Sie auf **Erstellen** (oder auf **Erstellen und Hinzufügen von Neu** , um einen weiteren hinzuzufügen).
 
    ![](assets/manage-groups-5.png)
 
@@ -87,7 +87,7 @@ Erfahren Sie, wie Sie Ihre Gruppen in Sales Insight-Aktionen verwalten.
 
    ![](assets/manage-groups-6.png)
 
-1. Klicken Sie auf das Feld (drei vertikale Punkte) und wählen Sie **Freigeben**.
+1. Klicken Sie auf das Feld (drei vertikale Punkte) und wählen Sie **Freigabe** aus.
 
    ![](assets/manage-groups-7.png)
 
@@ -95,7 +95,7 @@ Erfahren Sie, wie Sie Ihre Gruppen in Sales Insight-Aktionen verwalten.
 
    ![](assets/manage-groups-8.png)
 
-   Sie besitzen weiterhin die Gruppe, aber sie wird jetzt unter _Team-Gruppen_.
+   Sie sind weiterhin Eigentümer der Gruppe, aber sie wird jetzt unter _Team Groups_ angezeigt.
 
 ## Aufheben der Freigabe einer Gruppe {#unshare-a-group}
 
@@ -103,11 +103,11 @@ Erfahren Sie, wie Sie Ihre Gruppen in Sales Insight-Aktionen verwalten.
 
    ![](assets/manage-groups-9.png)
 
-1. Klicken Sie auf das Feld (drei vertikale Punkte) und wählen Sie **Freigeben**.
+1. Klicken Sie auf das Feld (drei vertikale Punkte) und wählen Sie **Freigabe** aus.
 
    ![](assets/manage-groups-10.png)
 
-1. Klicken Sie auf **X** neben dem Team, für das Sie die Gruppe freigegeben haben, klicken Sie dann aus dem Modal.
+1. Klicken Sie auf das **X** neben dem Team, für das Sie die Gruppe freigegeben haben, und klicken Sie dann aus dem Modal heraus.
 
    ![](assets/manage-groups-11.png)
 
@@ -119,7 +119,7 @@ Erfahren Sie, wie Sie Ihre Gruppen in Sales Insight-Aktionen verwalten.
 
    ![](assets/manage-groups-12.png)
 
-1. Klicken Sie auf das Feld (drei vertikale Punkte) und wählen Sie **Bearbeiten**.
+1. Klicken Sie auf das Feld (drei vertikale Punkte) und wählen Sie **Bearbeiten** aus.
 
    ![](assets/manage-groups-13.png)
 
@@ -133,10 +133,10 @@ Erfahren Sie, wie Sie Ihre Gruppen in Sales Insight-Aktionen verwalten.
 
    ![](assets/manage-groups-15.png)
 
-1. Klicken Sie auf das Feld (drei vertikale Punkte) und wählen Sie **Löschen**.
+1. Klicken Sie auf das Feld (drei vertikale Punkte) und wählen Sie **Löschen** aus.
 
    ![](assets/manage-groups-16.png)
 
-1. Klicken **Löschen** zur Bestätigung.
+1. Klicken Sie zur Bestätigung auf **Löschen** .
 
    ![](assets/manage-groups-17.png)

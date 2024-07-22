@@ -14,27 +14,27 @@ ht-degree: 0%
 
 Erstellen Sie ein interaktives Webinar in wenigen einfachen Schritten.
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Wechseln Sie zu **Marketingaktivitäten**.
 
    ![](assets/create-an-interactive-webinar-1.png)
 
-1. Klicken Sie mit der rechten Maustaste auf den gewünschten Ordner und wählen Sie **Neues Programm**.
+1. Klicken Sie mit der rechten Maustaste auf den gewünschten Ordner und wählen Sie **Neues Programm** aus.
 
    ![](assets/create-an-interactive-webinar-2.png)
 
-1. Nennen Sie das Programm. Wählen Sie unter &quot;Programmtyp&quot;die Option **Ereignis**.
+1. Nennen Sie das Programm. Wählen Sie unter &quot;Programmtyp&quot;die Option **Ereignis** aus.
 
    ![](assets/create-an-interactive-webinar-3.png)
 
-1. Klicken Sie auf die Dropdown-Liste Kanal und wählen Sie einen beliebigen Kanal aus, der _Veranstaltung mit Webinar_ in der Spalte &quot;Gilt für&quot;. In diesem Beispiel wählen wir **Webinar**.
+1. Klicken Sie auf die Dropdown-Liste Kanal und wählen Sie einen Kanal aus, der über _Ereignis mit Webinar_ in der Spalte &quot;Gilt für&quot;verfügt. In diesem Beispiel wählen wir **Webinar**.
 
    ![](assets/create-an-interactive-webinar-4.png)
 
    >[!NOTE]
    >
-   >So sehen Sie, auf welche Kanäle zutrifft _Veranstaltung mit Webinar_, gehen Sie zu **Admin** > **Tags**. &quot;Wendet auf&quot;sollte die mittlere Spalte sein. Weitere Informationen zu &quot;Gilt für&quot;finden Sie in Schritt 5 von [diesem Artikel](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.
+   >Um zu sehen, welche Kanäle auf _Ereignis mit Webinar_ zutreffen, gehen Sie zu **Admin** > **Tags**. &quot;Wendet auf&quot;sollte die mittlere Spalte sein. Weitere Informationen zu &quot;Gilt für&quot;finden Sie in Schritt 5 von [diesem Artikel](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.
 
-1. Auswählen **Interaktive Webinare** und klicken **Nächste**.
+1. Wählen Sie **Interaktive Webinare** und klicken Sie auf **Weiter**.
 
    ![](assets/create-an-interactive-webinar-5.png)
 
@@ -54,13 +54,13 @@ Erstellen Sie ein interaktives Webinar in wenigen einfachen Schritten.
    >
    >* Sie können den Webinartitel bei Bedarf zu einem späteren Zeitpunkt ändern.
 
-1. Planen Sie Datum/Uhrzeit Ihres Webinars und klicken Sie auf **Erstellen**.
+1. Planen Sie das Datum/die Uhrzeit Ihres Webinars und klicken Sie auf **Erstellen**.
 
    ![](assets/create-an-interactive-webinar-7.png)
 
 <p>
 
-Jetzt ist es an der Zeit [Webinar erstellen](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}.
+Jetzt ist es an der Zeit, [Ihr Webinar zu entwerfen](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

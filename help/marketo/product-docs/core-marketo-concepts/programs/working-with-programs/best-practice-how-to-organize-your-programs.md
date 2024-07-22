@@ -6,7 +6,7 @@ exl-id: 018a3fbd-b741-4005-9695-56958063d71a
 feature: Programs
 source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '844'
+source-wordcount: '847'
 ht-degree: 4%
 
 ---
@@ -29,15 +29,15 @@ In Marketingaktivitäten sollten Sie Ordner verwenden, um Ihre Programme zu orga
 >
 >* Aktive Marketingprogramme
 >   * E-Mails
->   * -Ereignisse
+>   * Veranstaltungen
 >      * Live-Events/Roadshows
 >      * Messen
 >      * Webinare
 >   * Newsletter
 >   * Nurture-Kampagne
->   * Webinhalt
+>   * Web-Inhalt
 >   * Web-Formulare
->* Lernen
+>* Lernvorgang läuft
 >* Betrieblich
 >   * Lebensdauer
 >   * Bewertung
@@ -46,7 +46,7 @@ In Marketingaktivitäten sollten Sie Ordner verwenden, um Ihre Programme zu orga
 >   * Interessante Momente
 >   * Verkaufs-E-Mails
 >   * Vom Verkauf angeforderte Kampagnen
->* **Archivieren**
+>* **Archiv**
 >   * Ereignisse archivieren
 >      * Archiv 2012
 >      * Archiv 2013
@@ -55,15 +55,15 @@ Jedes der im Beispiel erwähnten Elemente ist ein Ordner. Beachten Sie, wie sie 
 
 >[!TIP]
 >
->Der Ordner &quot;Archiv&quot;ist eine spezielle Ordnerart, mit der Elemente aus ausgewählten Listen sowie aus Berichten entfernt werden können. Dies hilft Ihrem System, schneller zu laufen. Lernen [mehr über Ordner](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md){target="_blank"}.
+>Der Ordner &quot;Archiv&quot;ist eine spezielle Ordnerart, mit der Elemente aus ausgewählten Listen sowie aus Berichten entfernt werden können. Dies hilft Ihrem System, schneller zu laufen. Weitere Informationen zu Ordnern finden Sie unter [ .](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md){target="_blank"}
 
 Sie können sicherlich weitere Ordner hinzufügen, wenn Sie es für richtig halten. Denken Sie daran, dass zukünftige Generationen von Marketing-Experten in Ihrem Unternehmen mit Ihren Entscheidungen darüber leben, wie Sie Dinge benennen/organisieren.
 
 ## Benennungsschemata {#naming-schemes}
 
-Die Benennung ist wichtig, da die Funktionen von Marketo alle eine gemeinsame Sprache für die Kommunikation verwenden. Bei Programmen sollten Sie ihnen etwas Einzigartiges nennen. **Es dürfen keine zwei Programme denselben Namen haben**. Es empfiehlt sich, das folgende Format zu verwenden:
+Die Benennung ist wichtig, da die Funktionen von Marketo alle eine gemeinsame Sprache für die Kommunikation verwenden. Bei Programmen sollten Sie ihnen etwas Einzigartiges nennen. **Zwei Programme dürfen nicht denselben Namen haben**. Es empfiehlt sich, das folgende Format zu verwenden:
 
-[Abkürzung des Programmtyps] [YYYY]-[MM]-[Optionales DD] [Kurzbeschreibung]
+[Abkürzung des Programmtyps] [YYYY]-[MM]-[Optionales DD] [Kurze Beschreibung]
 
 >[!NOTE]
 >
@@ -75,7 +75,7 @@ Die Benennung ist wichtig, da die Funktionen von Marketo alle eine gemeinsame Sp
 >1. NL Newsletter 2015-06
 >1. Webinarthema WBN 2015-12-01 hier
 
-Programmnamen müssen in Ihrem Abonnement eindeutig sein, auch in verschiedenen [Arbeitsbereiche](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.  Für lokale Assets innerhalb von Programmen gilt folgende Regel: **einfachen Namen beibehalten**. Benennen Sie einfach eine Einladung mit &quot;Einladung&quot;, anstatt mit &quot;Einladung im Webinar vom Juni 2015&quot;. Da sich diese in einem Programm befinden, ist das übergeordnete Programm automatisch Teil des Namens, wenn es an einer anderen Stelle ausgewählt wird. Anders ausgedrückt: Lokale Assets müssen nur innerhalb des Programms eindeutig sein. Sie können Hunderte von Assets mit dem Namen &quot;Einladen&quot;haben, die jeweils in einem anderen Programm gespeichert sind, sodass Sie sich nicht daran stören.
+Programmnamen müssen in Ihrem Abonnement eindeutig sein, auch in verschiedenen [Arbeitsbereichen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.  Für die lokalen Assets innerhalb von Programmen lautet die Regel &quot;**Beibehalten des Namens einfach**&quot;. Benennen Sie einfach eine Einladung mit &quot;Einladung&quot;, anstatt mit &quot;Einladung im Webinar vom Juni 2015&quot;. Da sich diese in einem Programm befinden, ist das übergeordnete Programm automatisch Teil des Namens, wenn es an einer anderen Stelle ausgewählt wird. Anders ausgedrückt: Lokale Assets müssen nur innerhalb des Programms eindeutig sein. Sie können Hunderte von Assets mit dem Namen &quot;Einladen&quot;haben, die jeweils in einem anderen Programm gespeichert sind, sodass Sie sich nicht daran stören.
 
 ## Token {#tokens}
 
@@ -87,9 +87,9 @@ Die oben erwähnte Organisation ermöglicht es Ihnen, Token in den Ordner &quot;
 >
 >**Beispiel**
 >
->**Ihre Firmenadresse**. Verwenden Sie ein Token, anstatt es jedes Mal zu schreiben. Auf diese Weise können Sie es an einem Ort aktualisieren, ohne dass Sie viele Entwürfe erstellen müssen. Überschreiben Sie dann das Token nach Bedarf in einem Ordner der unteren Ebene.
+>**Ihre Unternehmensadresse**. Verwenden Sie ein Token, anstatt es jedes Mal zu schreiben. Auf diese Weise können Sie es an einem Ort aktualisieren, ohne dass Sie viele Entwürfe erstellen müssen. Überschreiben Sie dann das Token nach Bedarf in einem Ordner der unteren Ebene.
 
-## -Ereignisse {#events}
+## Veranstaltungen {#events}
 
 Ein Ereignis enthält in der Regel viele bewegte Teile, darunter Einladungen, Landingpages, Formulare, Social-Widgets und Smart-Kampagnen. Die Best Practice, sie zur einfachen Verwendung zu organisieren, ist die Phase des Ereignisses. Im Folgenden finden Sie ein Beispiel dafür, wie Ihr Ordnerbaum nach einem Ereignis suchen sollte.
 
@@ -97,7 +97,7 @@ Ein Ereignis enthält in der Regel viele bewegte Teile, darunter Einladungen, La
 
 ## Engagementprogramme {#engagement-programs}
 
-Lernen [Interaktionsprogramme](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md){target="_blank"}. Die beste Möglichkeit, Ihr Interaktionsprogramm zu organisieren, besteht in Ordnern. Erstellen Sie einen Ordner für jeden Stream und legen Sie dann die E-Mails oder Programme in diesen Ordner. Fügen Sie in jedem Stream einen Archivordner ein, wenn der Inhalt veraltet ist und Sie ihn entfernen möchten.
+Erfahren Sie [alles über Interaktionsprogramme](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md){target="_blank"}. Die beste Möglichkeit, Ihr Interaktionsprogramm zu organisieren, besteht in Ordnern. Erstellen Sie einen Ordner für jeden Stream und legen Sie dann die E-Mails oder Programme in diesen Ordner. Fügen Sie in jedem Stream einen Archivordner ein, wenn der Inhalt veraltet ist und Sie ihn entfernen möchten.
 
 ## Operationelle Programme {#operational-programs}
 
@@ -119,6 +119,6 @@ Eine der coolsten Funktionen in Marketo ist die Möglichkeit, Programme zu klone
 
 Manche Personen haben sogar den Großteil des Textes in E-Mails und Landingpages in Token abstrahiert. Auf diese Weise können Sie die Token klonen und dann bearbeiten. Gehen Sie schließlich zur Programmplanungsansicht und passen Sie die Daten an und Sie sind fertig. Voila!
 
-## Zusammenfassung {#summary}
+## Zusammenfassung  {#summary}
 
-Wie Sie sehen können, gibt es in Marketo eine Menge Macht. Wir haben die Grundlagen hier behandelt, aber zusätzliche Services von [Marketo Engage-Experten](https://business.adobe.com/products/marketo/services-support.html){target="_blank"} , um sich für Erfolg zu rüsten.
+Wie Sie sehen können, gibt es in Marketo eine Menge Macht. Wir haben die Grundlagen hier behandelt, aber denken Sie an zusätzliche Dienste von [Marketo Engage-Experten](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}, um eine Feinabstimmung vorzunehmen und sich für einen erfolgreichen Test einzurichten.

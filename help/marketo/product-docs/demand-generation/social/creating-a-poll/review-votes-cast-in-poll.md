@@ -15,11 +15,11 @@ ht-degree: 2%
 
 Wer hat in Ihrer Umfrage für was gestimmt? Finden wir es heraus!
 
-1. In **Marketingaktivitäten**, wählen Sie die Umfrage aus und klicken Sie auf **Teilnehmer** Registerkarte.
+1. Wählen Sie in **Marketingaktivitäten** die Umfrage aus und klicken Sie auf die Registerkarte **Teilnehmer** .
 
    ![](assets/image2015-5-12-14-3a35-3a10.png)
 
-1. Klicken Sie auf die Zahl im **Stimmen** Spalte.
+1. Klicken Sie auf die Zahl in der Spalte **Stimmen** .
 
    ![](assets/image2015-5-12-14-3a36-3a36.png)
 
@@ -29,4 +29,4 @@ Wer hat in Ihrer Umfrage für was gestimmt? Finden wir es heraus!
 
    >[!MORELIKETHIS]
    >
-   >Weitere Informationen zur sozialen Reichweite und Auswirkung Ihrer Apps finden Sie in [Soziale Leistung anzeigen](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md).
+   >Erfahren Sie mehr über die soziale Reichweite und die Auswirkungen Ihrer Apps in [Social-Leistung anzeigen](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md).

@@ -19,11 +19,11 @@ ht-degree: 0%
 
 Snippets sind Blöcke von dynamischen Inhalten, die sich basierend auf Segmentierungsregeln ändern.
 
-1. Navigieren Sie zu **Design Studio**.
+1. Wechseln Sie zu **Design Studio**.
 
    ![](assets/designstudio-3.png)
 
-1. Klicken Sie auf Ihr Snippet und dann **Snippet-Vorschau**.
+1. Klicken Sie auf Ihr Snippet und dann auf **Snippet in der Vorschau anzeigen**.
 
    ![](assets/image2014-9-16-9-3a48-3a32.png)
 
@@ -31,4 +31,4 @@ Die Vorschau eignet sich hervorragend, um sicherzustellen, dass Ihr Inhalt für 
 
 >[!MORELIKETHIS]
 >
->[Snippet genehmigen](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet.md)
+>[Einen Snippet genehmigen](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet.md)

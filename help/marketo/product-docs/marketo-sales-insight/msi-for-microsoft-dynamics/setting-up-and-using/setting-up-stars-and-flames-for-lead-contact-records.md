@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Sterne und Flammen auf Lead-/Kontaktdatensätzen hängen von den Feldern Lead-Punktzahl, Relativer Punktzahl, Dringlichkeit und Priorität ab. Diese Felder sind standardmäßig verfügbar, nachdem Sie die MSI-Lösung installiert und konfiguriert haben. Wenn Sie keine Sterne und Flammen haben, hätte eine vorherige Einrichtung/Anpassung dazu führen können, dass sie entfernt wurden. Gehen Sie wie folgt vor, um sie hinzuzufügen.
 
-1. Klicken Sie in Microsoft Dynamics auf das Dropdown-Menü Verkauf und wählen Sie **Einstellungen**. Klicks **Anpassungen**, dann **System anpassen**.
+1. Klicken Sie in Microsoft Dynamics auf das Dropdown-Menü Verkauf und wählen Sie **Einstellungen** aus. Klicken Sie auf **Anpassungen** und dann auf **Anpassen des Systems**.
 
 1. Klicken Sie im linken Bereich auf **Entitäten**.
 
-1. Suchen und Klicken **Lead**, dann **Forms** und wählen Sie dann das Formular aus, das Sie bearbeiten möchten.
+1. Klicken Sie auf **Lead**, dann auf **Forms** und wählen Sie dann das Formular aus, das Sie bearbeiten möchten.
 
    ![](assets/setting-up-stars-and-flames-for-lead-contact-records-1.png)
 
-1. Klicks **Marketo Sales Insight** im linken Bereich. Klicken Sie im rechten Bereich auf das Dropdown-Menü Filter und wählen Sie **Benutzerdefinierte Felder**.
+1. Klicken Sie im linken Bereich auf **Marketo Sales Insight** . Klicken Sie im rechten Bereich auf das Dropdown-Menü Filter und wählen Sie **Benutzerdefinierte Felder** aus.
 
    ![](assets/setting-up-stars-and-flames-for-lead-contact-records-2.png)
 

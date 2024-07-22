@@ -16,11 +16,11 @@ Mit Dynamic Chat können Sie eine benutzerfreundliche Oberfläche nutzen, um sow
 
 >[!TIP]
 >
->Besuch [diese Seite](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html){target="_blank"} , um Anleitungsvideos zum Dynamic Chat anzuzeigen.
+>Besuchen Sie [diese Seite](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html){target="_blank"} , um Anleitungsvideos zum Dynamic Chat anzuzeigen.
 
 ## Integrationen {#integrations}
 
-Eine wichtige Komponente von Dynamic Chat ist die Möglichkeit, nativ mit Ihrem Marketo-Abonnement zu arbeiten. Um die volle Funktionalität dieser Integration nutzen zu können, müssen Sie zunächst die Datensynchronisation starten. Je nach Größe Ihrer Marketo-Datenbank kann es bis zu 24 Stunden dauern, bis Daten für die erste [einmalige Synchronisierung](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md){target="_blank"} zu beenden.
+Eine wichtige Komponente von Dynamic Chat ist die Möglichkeit, nativ mit Ihrem Marketo-Abonnement zu arbeiten. Um die volle Funktionalität dieser Integration nutzen zu können, müssen Sie zunächst die Datensynchronisation starten. Je nach Größe Ihrer Marketo-Datenbank kann es bis zu 24 Stunden dauern, bis die erste, [einmalige Synchronisation](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md){target="_blank"} abgeschlossen ist.
 
 Folgendes wird synchronisiert:
 
@@ -34,7 +34,7 @@ Dialogfelder stellen eine einzige Chatinteraktion dar. Stellen Sie sich dies als
 
 ## Konfiguration {#configuration}
 
-Passen Sie auf der Registerkarte Konfiguration das Erscheinungsbild Ihrer verschiedenen Dialogfelder an. Ändern Sie Schriftart, Farben, Antwortzeit und mehr! [Weitere Informationen zur Konfiguration](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/configuration.md){target="_blank"}.
+Passen Sie auf der Registerkarte Konfiguration das Erscheinungsbild Ihrer verschiedenen Dialogfelder an. Ändern Sie Schriftart, Farben, Antwortzeit und mehr! [Erfahren Sie mehr über Konfiguration](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/configuration.md){target="_blank"}.
 
 ## Kalender {#calendar}
 
@@ -50,15 +50,15 @@ Hier sehen Sie eine Liste aller Agenten, die ihre Kalender verbunden haben, die 
 
 ## Live-Chat {#live-chat}
 
-Bieten Sie Ihren qualifizierten Webbesuchern über [Live-Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md){target="_blank"}.
+Bieten Sie Ihren qualifizierten Webbesuchern über [Live-Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md){target="_blank"} eine Verbindung mit Ihren Vertriebsmitarbeitern an.
 
-## Konversationsschema {#conversational-flow}
+## Konversationsfluss {#conversational-flow}
 
-[Konversation gestalten](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"} die von einem Besucher basierend auf einer von Ihnen festgelegten Aktion ausgelöst werden können (z. B. Ausfüllen eines Formulars, Klicken auf einen Link usw.).
+[Gestalten Sie eine Konversation](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}, die von einem Besucher basierend auf einer von Ihnen festgelegten Aktion ausgelöst werden kann (z. B. Ausfüllen eines Formulars, Klicken auf einen Link usw.).
 
 ## Generative KI {#generative-ai}
 
-[Generative KI](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/overview.md){target="_blank"} in Adobe Dynamic Chat verarbeitet Intent-Signale, Benutzereinstellungen und vergangenes Verhalten in Echtzeit, um relevante, personalisierte Nachrichten für Chat-Besucher zu generieren.
+[Generative KI](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/overview.md){target="_blank"} in Adobe Dynamic Chat verarbeitet Intent-Signale, Benutzerpräferenzen und vergangenes Verhalten in Echtzeit, um relevante, personalisierte Nachrichten für Chat-Besucher zu generieren.
 
 ## Ändern der Sprache {#changing-the-language}
 
@@ -66,9 +66,9 @@ Gehen Sie wie folgt vor, um Ihre Dynamic Chat-Sprache zu ändern.
 
 >[!IMPORTANT]
 >
->Durch das Ändern Ihrer Sprache auf der Profilebene wird die Sprache für _all_ Experience Cloud-Applikationen, nicht nur Dynamic Chat.
+>Wenn Sie Ihre Sprache auf Profilebene ändern, wird die Sprache für _alle_ Experience Cloud-Anwendungen geändert, nicht nur für Dynamic Chat.
 
-1. Klicken Sie in Ihrem Experience Cloud-Konto auf das Einstellungssymbol und wählen Sie **Voreinstellungen**.
+1. Klicken Sie in Ihrem Experience Cloud-Konto auf das Einstellungssymbol und wählen Sie **Voreinstellungen** aus.
 
    ![](assets/dynamic-chat-overview-1.png)
 
@@ -76,7 +76,7 @@ Gehen Sie wie folgt vor, um Ihre Dynamic Chat-Sprache zu ändern.
 
    ![](assets/dynamic-chat-overview-2.png)
 
-1. Wählen Sie Ihre neue Sprache aus (die zweite Sprache ist optional) und klicken Sie auf **Speichern**.
+1. Wählen Sie Ihre neue Sprache (die zweite Sprache ist optional) und klicken Sie auf **Speichern**.
 
    ![](assets/dynamic-chat-overview-3.png)
 
@@ -88,7 +88,7 @@ Wenn Sie die Sprache aktualisieren, ändert sich alles in der App selbst, mit Au
 
 ## Dynamic Chat-Datenaufbewahrungsgrenzen {#dynamic-chat-data-retention-limits}
 
-Im Folgenden finden Sie nur einige der Einschränkungen/Parameter innerhalb von Dynamic Chat. Eine vollständige Liste finden Sie im Marketo Engage [Seite &quot;Produktbeschreibung&quot;](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}.
+Im Folgenden finden Sie nur einige der Einschränkungen/Parameter innerhalb von Dynamic Chat. Eine vollständige Liste finden Sie auf der Marketo Engage [Produktbeschreibungsseite](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}.
 
 <table>
   <th>Datentyp</th>
@@ -117,4 +117,4 @@ Im Folgenden finden Sie nur einige der Einschränkungen/Parameter innerhalb von 
 
 ## FAQs {#faq}
 
-Lesen Sie hierzu die [Dynamic Chat-FAQs](/help/marketo/product-docs/demand-generation/dynamic-chat/faq.md){target="_blank"}.
+Lesen Sie die [Dynamic Chat-FAQ](/help/marketo/product-docs/demand-generation/dynamic-chat/faq.md){target="_blank"}.

@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Fieldsets sind cool. Sie gruppieren eine Reihe von Feldern. Du kannst auch einen ganzen Block gleichzeitig kontrollieren!
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Wechseln Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -23,11 +23,11 @@ Fieldsets sind cool. Sie gruppieren eine Reihe von Feldern. Du kannst auch einen
 
    ![](assets/image2014-9-15-15-3a1-3a22.png)
 
-1. Klicken Sie auf **+** signieren und auswählen **Fieldset**.
+1. Klicken Sie auf das Symbol **+** und wählen Sie **Feldset** aus.
 
    ![](assets/image2014-9-15-15-3a1-3a43.png)
 
-1. Wählen Sie die **fieldset** und geben Sie einen **Titel**.
+1. Wählen Sie das Feld **fieldset** aus und geben Sie einen **Titel** ein.
 
    ![](assets/image2014-9-15-15-3a2-3a0.png)
 
@@ -43,4 +43,4 @@ Da hast du es!
 
 >[!TIP]
 >
->Sie können das gesamte Feldset je nach anderen Feldern dynamisch ein-/ausblenden. Informationen zu [Sichtbarkeitsregeln](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md).
+>Sie können das gesamte Feldset je nach anderen Feldern dynamisch ein-/ausblenden. Erfahren Sie mehr über [Sichtbarkeitsregeln](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md).

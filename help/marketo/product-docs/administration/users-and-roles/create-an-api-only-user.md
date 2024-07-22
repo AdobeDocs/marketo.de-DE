@@ -13,33 +13,33 @@ ht-degree: 0%
 
 # Erstellen eines reinen API-Benutzers {#create-an-api-only-user}
 
-Wenn Sie die Integration mit Marketo über die [REST-API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}, müssen Sie nur einen API-Benutzer erstellen. So geht es.
+Wenn Sie die Integration mit Marketo über die [REST-API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} durchführen möchten, müssen Sie nur einen API-Benutzer erstellen. So geht es.
 
 >[!IMPORTANT]
 >
->Wenn Sie nur API-Benutzer in einem Abonnement erstellen, das mit Adobe Identity integriert wurde, sind Ihre Schritte anders und [finden Sie hier .](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}.
+>Wenn Sie &quot;Nur API-Benutzer&quot;in einem Abonnement erstellen, das mit Adobe Identity integriert wurde, sind Ihre Schritte anders und [finden Sie hier](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}.
 
 >[!PREREQUISITES]
 >
->[Erstellen einer Benutzerrolle &quot;Nur API&quot;](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md){target="_blank"}
+>[Erstellen einer reinen API-Benutzerrolle](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md){target="_blank"}
 
 >[!NOTE]
 >
 >**Erforderliche Administratorberechtigungen**
 
-1. Navigieren Sie zu **[!UICONTROL Admin]** Bereich.
+1. Wechseln Sie zum Bereich **[!UICONTROL Admin]** .
 
    ![](assets/create-an-api-only-user-1.png)
 
-1. Klicks **[!UICONTROL Benutzer und Rollen]**.
+1. Klicken Sie auf **[!UICONTROL Benutzer und Rollen]**.
 
    ![](assets/create-an-api-only-user-2.png)
 
-1. Klicks **[!UICONTROL Neuen Benutzer einladen]**.
+1. Klicken Sie auf **[!UICONTROL Neuen Benutzer einladen]**.
 
    ![](assets/create-an-api-only-user-3.png)
 
-1. Geben Sie eine E-Mail, einen Vornamen und einen Nachnamen für den Benutzer &quot;Nur API&quot;ein. Klicks **[!UICONTROL Nächste]**.
+1. Geben Sie eine E-Mail, einen Vornamen und einen Nachnamen für den Benutzer &quot;Nur API&quot;ein. Klicken Sie auf **[!UICONTROL Weiter]**.
 
    ![](assets/create-an-api-only-user-4.png)
 
@@ -47,11 +47,11 @@ Wenn Sie die Integration mit Marketo über die [REST-API](https://experienceleag
    >
    >Fügen Sie einen optionalen Grund oder ein Ablaufdatum für den Zugriff hinzu. Für kurzfristige Mitarbeiter eignen sich die Zugriffs-Ablaufdaten.
 
-1. Wählen Sie die **[!UICONTROL Nur API]** Rolle und überprüfen Sie die **[!UICONTROL Nur API]** aktivieren. Klicks **[!UICONTROL Nächste]**.
+1. Wählen Sie die Rolle **[!UICONTROL Nur API]** aus und aktivieren Sie das Kontrollkästchen **[!UICONTROL Nur API]** . Klicken Sie auf **[!UICONTROL Weiter]**.
 
    ![](assets/create-an-api-only-user-5.png)
 
-1. Klicks **[!UICONTROL Senden]**.
+1. Klicken Sie auf **[!UICONTROL Senden]**.
 
    ![](assets/create-an-api-only-user-6.png)
 

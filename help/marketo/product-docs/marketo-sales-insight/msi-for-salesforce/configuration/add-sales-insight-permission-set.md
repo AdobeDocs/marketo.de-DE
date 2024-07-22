@@ -5,7 +5,7 @@ exl-id: b93ddf2e-0f7b-41e0-ba88-7363f5e34970
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '374'
 ht-degree: 3%
 
 ---
@@ -16,11 +16,11 @@ Führen Sie die folgenden Schritte aus, um Zugriff auf Sales Insight-Funktionen 
 
 >[!PREREQUISITES]
 >
->[Sales Insight Salesforce-Paket aktualisieren](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} auf Version 1.8000 oder höher, um diese Funktion zu verwenden.
+>[Aktualisieren Sie Ihr Sales Insight Salesforce-Paket](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} auf Version 1.8000 oder höher, um diese Funktion zu verwenden.
 
 >[!IMPORTANT]
 >
->Wenn Sie bereits Sales Insight Zugriff auf alle Profile gewährt und/oder Sales Insight für alle Ihre Benutzer implementiert haben, müssen Sie [Zugriff auf Profilebene entfernen](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"} , um diesen Berechtigungssatz zu verwenden.
+>Wenn Sie Sales Insight bisher Zugriff auf alle Profile gewährt und/oder Sales Insight für alle Ihre Benutzer implementiert haben, müssen Sie [den Zugriff auf Profilebene entfernen](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"}, um diesen Berechtigungssatz zu verwenden.
 
 ## Überblick {#overview}
 
@@ -85,23 +85,23 @@ Die Berechtigung &quot;Marketo App&quot;ist Teil des Sales Insight Salesforce -P
 
 1. Melden Sie sich bei Ihrem Salesforce-Konto an.
 
-1. Klicks **Einrichtung**.
+1. Klicken Sie auf **Einrichten**.
 
    ![](assets/add-sales-insight-permission-set-1.png)
 
-1. Klicken Sie unter &quot;Administrator&quot;auf , um den Vorgang zu entfernen. **Benutzer verwalten**, dann **Benutzer**.
+1. Klicken Sie unter &quot;Administrator&quot;auf &quot;**Benutzer verwalten**&quot;und dann auf &quot;**Benutzer**&quot;.
 
    ![](assets/add-sales-insight-permission-set-2.png)
 
-1. Wählen Sie unter &quot;Alle Benutzer&quot;den Benutzer aus, auf den Sie Zugriff gewähren möchten, und klicken Sie dann auf **Zuweisung von Berechtigungen**.
+1. Wählen Sie unter &quot;Alle Benutzer&quot;den Benutzer aus, auf den Sie Zugriff gewähren möchten, und klicken Sie dann auf **Zuweisungen von Berechtigungssätzen**.
 
    ![](assets/add-sales-insight-permission-set-3.png)
 
-1. Klicks **Zuweisungen bearbeiten**.
+1. Klicken Sie auf **Zuweisungen bearbeiten**.
 
    ![](assets/add-sales-insight-permission-set-4.png)
 
-1. Auswählen **Zugriff auf Marketo-Apps** aus den verfügbaren Berechtigungssätzen und **Hinzufügen**. Klicks **Speichern**.
+1. Wählen Sie **Marketo App Access** aus den verfügbaren Berechtigungssätzen und dann **Add**. Klicken Sie auf **Speichern**.
 
    ![](assets/add-sales-insight-permission-set-5.png)
 

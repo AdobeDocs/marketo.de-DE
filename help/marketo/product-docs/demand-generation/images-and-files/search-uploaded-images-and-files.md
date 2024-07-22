@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie nach einem Bild oder einer Datei suchen.
 
-1. Navigieren Sie zu **[!UICONTROL Design Studio]**.
+1. Wechseln Sie zu **[!UICONTROL Design Studio]**.
 
    ![](assets/search-uploaded-images-and-files-1.png)
 
-1. Klicks **[!UICONTROL Bilder und Dateien]** für die vollständige Liste aller hochgeladenen Dateien.
+1. Klicken Sie auf **[!UICONTROL Bilder und Dateien]** , um die vollständige Liste aller hochgeladenen Dateien anzuzeigen.
 
    ![](assets/search-uploaded-images-and-files-2.png)
 
-1. Geben Sie in das Suchfeld das Wort ein, mit dem die Datei beginnt, und drücken Sie **Eingabe**.
+1. Geben Sie in das Suchfeld das Wort ein, mit dem die Datei beginnt, und drücken Sie auf **Enter**.
 
    ![](assets/search-uploaded-images-and-files-3.png)
 
@@ -33,5 +33,5 @@ Erfahren Sie, wie Sie nach einem Bild oder einer Datei suchen.
 
 >[!MORELIKETHIS]
 >
->* [Ersetzen eines hochgeladenen Bildes oder einer Datei](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md){target="_blank"}
+>* [Ersetzen eines hochgeladenen Bildes oder einer hochgeladenen Datei](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md){target="_blank"}
 >* [Organisieren von Bildern und Dateien mithilfe von Ordnern](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md){target="_blank"}

@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Wir möchten, dass E-Mails von Sales Connect als nahtloses Erlebnis beim Versand von Nachrichten von Ihrem eigenen E-Mail-Client angesehen werden. Eine großartige Möglichkeit ist es, Ihre E-Mail-Signatur hinzuzufügen.
 
-1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen**.
+1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
 
    ![](assets/add-your-email-signature-1.png)
 
-1. Wählen Sie unter Mein Konto die Option **E-Mail-Einstellungen**.
+1. Wählen Sie unter Mein Konto die Option **E-Mail-Einstellungen** aus.
 
    ![](assets/add-your-email-signature-2.png)
 
-1. Klicken **Adresse und Unterschrift** und wählen Sie die E-Mail-Identität aus, für die Sie eine Signatur erstellen möchten.
+1. Klicken Sie auf **Adresse und Signatur** und wählen Sie die E-Mail-Identität aus, für die Sie eine Signatur erstellen möchten.
 
    ![](assets/add-your-email-signature-3.png)
 

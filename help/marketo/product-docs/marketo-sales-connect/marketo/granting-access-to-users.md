@@ -14,13 +14,13 @@ ht-degree: 0%
 
 Führen Sie die Schritte in diesem Artikel aus, um Ihren Sales Connect-Benutzern Zugriff auf die Marketo-Verbindung zu gewähren. Dadurch werden Funktionen wie interessante Momente im Live-Feed und der Zugriff auf Marketing-Kampagnen freigeschaltet.
 
-Sie müssen Benutzer zu Sales Connect einladen. [here](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md), bevor sie auf der Seite Marketo > Team Access (in Sales Connect) angezeigt werden, auf der Zugriff auf die Marketo-Verbindung gewährt wird.
+Sie müssen Benutzer zu Sales Connect [hier](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md) einladen, bevor sie auf der Seite Marketo > Teamzugriff (in Sales Connect) angezeigt werden, über die Zugriff auf die Marketo-Verbindung gewährt wird.
 
 >[!CAUTION]
 >
 >Warten Sie zehn Minuten, nachdem Sie die Verbindung von Sales Connect mit Marketo hergestellt haben, bevor Sie diese Schritte ausführen.
 
-1. Wählen Sie einen oder mehrere Benutzer aus und klicken Sie auf **Verbinden**.
+1. Wählen Sie einen oder mehrere Benutzer aus und klicken Sie dann auf **Verbinden**.
 
    >[!NOTE]
    >
@@ -32,7 +32,7 @@ Sie müssen Benutzer zu Sales Connect einladen. [here](/help/marketo/product-doc
 
    ![](assets/granting-access-to-users-2.jpg)
 
-1. Klicken Sie auf die Dropdown-Liste Arbeitsbereich , wählen Sie die gewünschten Arbeitsbereiche aus und klicken Sie auf **Verbinden**.
+1. Klicken Sie auf das Dropdown-Menü &quot;Workspace&quot;, wählen Sie die gewünschten Arbeitsbereiche aus und klicken Sie auf **Verbinden**.
 
    ![](assets/granting-access-to-users-3.png)
 

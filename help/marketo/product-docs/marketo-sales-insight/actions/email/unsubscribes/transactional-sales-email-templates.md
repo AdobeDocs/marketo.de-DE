@@ -5,7 +5,7 @@ feature: Sales Insight Actions
 exl-id: 0178155e-f01c-449f-b510-40adf718e177
 source-git-commit: 7c8703059d7d28afbf57f4f285ac972fb9d8fbef
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
@@ -16,9 +16,9 @@ Wenn Ihr Team Transaktions- oder nicht kommerzielle E-Mails versendet, können S
 
 ## Zu beachten {#things-to-note}
 
-* Nicht-kommerzielle E-Mails umgehen die Abmeldungen von Verkäufen und [Marketo Engage unsubscribe check](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md){target="_blank"}, but will not bypass [blocked domains](/help/marketo/product-docs/marketo-sales-insight/actions/admin/blocked-domains.md){target="_blank"}.
+* Nicht kommerzielle E-Mails umgehen die Abmeldungen von Verkäufen und die Prüfung der [Marketo Engage-Abmeldung](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md){target="_blank"}, umgehen jedoch nicht die [blockierten Domänen](/help/marketo/product-docs/marketo-sales-insight/actions/admin/blocked-domains.md){target="_blank"}.
 
-* Abmelde-Nachrichten werden nicht automatisch an nicht kommerzielle E-Mails angehängt, auch wenn die [An die Admin-Einstellung für Abmelde-Nachrichten anhängen](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md){target="_blank"} is enabled. However, the `{{team_unsubscribe}}` [dynamic field](/help/marketo/product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md){target="_blank"} wird weiterhin Ihre Team-Abmelde-Nachricht ausfüllen.
+* Abmelde-Nachrichten werden nicht automatisch an nicht kommerzielle E-Mails angehängt, selbst wenn die Einstellung [Anfügen eines Abmelde-Benachrichtigungs-Admins anhängen](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md){target="_blank"} aktiviert ist. Das dynamische Feld `{{team_unsubscribe}}` [2} füllt jedoch weiterhin die Abmelde-Nachricht für Ihr Team.](/help/marketo/product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md){target="_blank"}
 
 ## E-Mail-Vorlage für nicht kommerzielle Verwendung konfigurieren {#configure-an-email-template-for-non-commercial-use}
 
@@ -48,7 +48,7 @@ Wenn Ihr Team Transaktions- oder nicht kommerzielle E-Mails versendet, können S
 
    ![](assets/transactional-sales-email-templates-5.png)
 
-1. Klicks **Senden**.
+1. Klicken Sie auf **Senden**.
 
    ![](assets/transactional-sales-email-templates-6.png)
 

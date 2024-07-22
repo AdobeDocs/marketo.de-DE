@@ -17,6 +17,6 @@ Sales Connect verwendet die Kontakt- oder Lead-ID (auch Salesforce-ID genannt), 
 
 [Push to Sales Connect](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md): Durch die Verwendung von Push to Sales Connect wird ein Kontakt in Sales Connect mit allen wichtigen Kontaktinformationen erstellt, einschließlich der Salesforce-ID des Leads/Kontakts.
 
-[Senden der Marketo Sales Email, Hinzufügen zu Campaign und Klicken zum Aufrufen von Schaltflächen in SFDC](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-sales-connect-buttons-in-salesforce.md): Wenn Sie eine dieser drei Schaltflächen in Salesforce verwenden, senden wir den Kontakt mit der Salesforce-ID an Sales Connect.
+[Senden Sie Marketo Sales E-Mail, Hinzufügen zu Campaign und Klicken zum Aufrufen von Schaltflächen in SFDC](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-sales-connect-buttons-in-salesforce.md): Wenn Sie eine dieser drei Schaltflächen in Salesforce verwenden, senden wir den Kontakt mit der Salesforce-ID an Sales Connect.
 
-[CSV importieren](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md): Wenn Sie eine Liste von Leads/Kontakten aus Salesforce exportieren und eine Spalte mit der Salesforce-ID einschließen, können Sie das Feld beim Import Sales Connect zuordnen.
+[CSV importieren](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md): Wenn Sie eine Liste von Leads/Kontakten aus Salesforce exportieren und eine Spalte mit der Salesforce-ID einschließen, können Sie das Feld beim Import der Sales Connect zuordnen.

@@ -15,7 +15,7 @@ ht-degree: 6%
 
 Sie können Inhalte einfach manuell zur Seite &quot;Alle Inhalte&quot;hinzufügen.
 
-1. Klicken Sie auf **Inhalt hinzufügen** und wählen Sie **Inhalt hinzufügen**.
+1. Klicken Sie auf die Dropdownliste **Inhalt hinzufügen** und wählen Sie **Inhalt hinzufügen** aus.
 
    ![](assets/image2017-10-3-8-3a54-3a9.png)
 
@@ -27,12 +27,12 @@ Sie können Inhalte einfach manuell zur Seite &quot;Alle Inhalte&quot;hinzufüge
 
    ![](assets/add-new-content-categories-updated-hands.png)
 
-1. Klicks **Hinzufügen**.
+1. Klicken Sie auf **Hinzufügen**.
 
    ![](assets/all-content-add-hand.png)
 
-1. Der neue Titel wird jetzt auf der **Alle Inhalte** Seite. Beachten Sie, dass sie noch nicht für prädiktive Inhalte genehmigt ist.
+1. Der neue Titel wird jetzt auf der Seite **Alle Inhalte** angezeigt. Beachten Sie, dass sie noch nicht für prädiktive Inhalte genehmigt ist.
 
    ![](assets/image2017-10-3-8-3a55-3a21.png)
 
-1. Hier erfahren Sie, wie Sie es zu [Prädiktive Inhalte](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md).
+1. So fügen Sie ihn [Prädiktiven Inhalt](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) hinzu.

@@ -4,8 +4,8 @@ title: Datenschutzanfragen
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '354'
-ht-degree: 3%
+source-wordcount: '336'
+ht-degree: 0%
 
 ---
 
@@ -19,16 +19,16 @@ Dieses Dokument bietet einen Überblick über die Verwaltung individueller Daten
 >
 >* Marketo Engage-Benutzer, die an Adobe Identity Management System angeschlossen sind
 >
->**-oder-**
+>**– oder –**
 >
 >* Marketo Engage-Anwender, die ein anderes Experience Cloud-Produkt verwenden, das bereits auf dem Adobe-Identity Management-System installiert ist (z. B. RT-CDP, B2B und B2P Editions, Audience Manager).
 
 Sie können individuelle Anfragen zum Zugriff auf und zum Löschen von Verbraucherdaten aus dem Marketo Engage auf zwei Arten senden:
 
-* Durch die [Privacy Service-Benutzeroberfläche](https://privacyui.cloud.adobe.io/). Siehe die Dokumentation . [here](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html?lang=de){target="_blank"}.
-* Über die Privacy Service-API. Siehe die Dokumentation . [here](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target="_blank"} and API information [here](https://developer.adobe.com/experience-platform-apis/){target="_blank"}.
+* Über die [Privacy Service-Benutzeroberfläche](https://privacyui.cloud.adobe.io/). Weitere Informationen finden Sie in der Dokumentation [hier](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html?lang=de){target="_blank"} .
+* Über die Privacy Service-API. Die Dokumentation [hier](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target="_blank"} und API-Informationen [hier](https://developer.adobe.com/experience-platform-apis/){target="_blank"} finden Sie in der Dokumentation.
 
-Die [Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html){target="_blank"} unterstützt zwei Arten von Anfragen: Datenzugriff und Datenlöschung.
+Der [Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html){target="_blank"} unterstützt zwei Arten von Anforderungen: Datenzugriff und Datenlöschung.
 
 Im Folgenden wird beschrieben, wie Sie Zugriffs- und Löschanfragen erstellen können.
 
@@ -38,10 +38,10 @@ Um Anfragen zum Zugreifen auf und Löschen von Daten für Marketo Engage zu stel
 
 1. Identifizieren Sie Folgendes:
 
-   a. Kennung der IMS-Organisation<br/>
+   a. IMS-Organisations-ID<br/>
 b. E-Mail-Adresse der Person, auf die Sie reagieren möchten
 
-   Eine IMS-Organisations-ID ist eine 24-stellige alphanumerische Zeichenfolge, die an @AdobeOrg angehängt wird. Wenn Ihr Marketingteam oder Ihr Adobe-Systemadministrator die IMS-Organisations-ID Ihres Unternehmens nicht kennen, wenden Sie sich an die Adobe-Kundenunterstützung unter `gdprsupport@adobe.com`. Sie benötigen die IMS-Organisations-ID, um Anfragen an die Datenschutz-API zu senden.
+   Eine IMS-Organisations-ID ist eine 24-stellige alphanumerische Zeichenfolge, die an @AdobeOrg angehängt wird. Wenn Ihr Marketing-Team oder der interne Adobe-Systemadministrator die IMS-Organisations-ID Ihres Unternehmens nicht kennen, wenden Sie sich unter `gdprsupport@adobe.com` an die Adobe-Kundenunterstützung. Sie benötigen die IMS-Organisations-ID, um Anfragen an die Datenschutz-API zu senden.
 
 1. In Privacy Service können Sie Zugriffs- und Löschanfragen an Marketo Engage senden und den Status vorhandener Anfragen überprüfen.
 
@@ -50,23 +50,23 @@ b. E-Mail-Adresse der Person, auf die Sie reagieren möchten
 &quot;companyContexts&quot;:
 
 * &quot;namespace&quot;: **imsOrgID**
-* &quot;Wert&quot;: `<Your IMS Org ID Value>`
+* &quot;value&quot;: `<Your IMS Org ID Value>`
 
-&quot;Benutzer&quot;:
+&quot;users&quot;:
 
-* &quot;action&quot;: Entweder **access** oder **delete**
+* &quot;action&quot;: entweder **access** oder **delete**
 * &quot;userIDs&quot;:
    * &quot;namespace&quot;: **email**
    * &quot;type&quot;: **standard**
-   * &quot;Wert&quot;: `<Data Subject's Email Address>`
+   * &quot;value&quot;: `<Data Subject's Email Address>`
 
 &quot;include&quot;:
 
-* **marketo** (das Adobe-Produkt, das für die Anfrage gilt)
+* **marketo** (das Adobe-Produkt, das für die Anforderung gilt)
 
 &quot;Verordnung&quot;:
 
-* **gdpr**, **ccpa**, **pdpa**, **lgpd_bra** oder **nzpa_nzl**  (die Datenschutzverordnung, die für die Anfrage gilt)
+* **gdpr**, **ccpa**, **pdpa**, **lgpd_bra** oder **nzpa_nzl** (die Datenschutzverordnung, die für die Anfrage gilt)
 
 ## Beispiel 1: DSGVO-Löschanfrage {#gdpr-delete-request}
 

@@ -17,11 +17,11 @@ ht-degree: 5%
 
 ![](assets/image2014-11-11-20-3a24-3a5.png)
 
-Auf der Registerkarte Segmente werden alle benutzerdefinierten definierten Segmente angezeigt, die Sie basierend auf verschiedenen Attributen einrichten.  **Ein Segment ist eine Sammlung von Besuchern, die die auf der Seite &quot;Segment festlegen&quot;definierten Kriterien erfüllen.**  Ein Segment kann Besucher aus einer bestimmten Branche, einem bestimmten Ort oder basierend auf der Onsite-Aktivität des Besuchers sein.
+Auf der Registerkarte Segmente werden alle benutzerdefinierten definierten Segmente angezeigt, die Sie basierend auf verschiedenen Attributen einrichten.  **Ein Segment ist eine Sammlung von Besuchern, die die auf der Seite &quot;Segment festlegen&quot;definierten Kriterien erfüllen.** Ein Segment kann Besucher aus einer bestimmten Branche, einem bestimmten Ort oder basierend auf der Onsite-Aktivität des Besuchers sein.
 
-Bei der Web-Personalisierung kann ein Besucher mehr als einem Segment zuordnen. Wenn es beispielsweise ein Segment für Besucher aus den USA und ein Segment für Finanzunternehmen gibt, würde ein Webbesucher aus der Bank of America **both** das Segment für US-Besucher und das Segment für Finanzunternehmen.
+In Web Personalization kann ein Besucher mehreren Segmenten zugeordnet werden. Wenn es beispielsweise ein Segment für Besucher aus den USA und ein Segment für Finanzunternehmen gibt, würde ein Webbesucher von Bank of America **beide** mit dem Segment für Besucher aus den USA und dem Segment für Finanzunternehmen übereinstimmen.
 
-**GRAPH:**  Auf der Seite Segmente wird ein Balkendiagramm der ausgewählten Segmente angezeigt, das der Anzahl der Besucher aus dem Segment (Y-Achse) und dem Segmentnamen (X-Achse) entspricht.
+**DIAGRAMM:** Auf der Seite &quot;Segmente&quot;wird ein Balkendiagramm der ausgewählten Segmente angezeigt, das der Anzahl der Besucher aus dem Segment (Y-Achse) und dem Segmentnamen (X-Achse) entspricht.
 
 <table> 
  <thead> 
@@ -56,7 +56,7 @@ Bei der Web-Personalisierung kann ein Besucher mehr als einem Segment zuordnen. 
 
 Siehe [Erstellen und Anzeigen von Segmentbeschriftungen](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)
 
-**Segmente - Rechtses Bedienfeld**
+**Segmente - Rechtes Bedienfeld**
 
 ![](assets/image2014-11-12-10-3a46-3a32.png)
 
@@ -80,28 +80,28 @@ Um ein Segment zu aktivieren oder zu deaktivieren, aktivieren Sie das Kontrollk�
 
 ## Segmente erstellen {#create-segments}
 
-Das erstellte Segment erfüllt alle spezifischen Kriterien, die Sie im **Segment festlegen** Seite. Sie können Ihre Segmente auch basierend auf einer Kombination von Kriterien anpassen und eine bestimmte Zielgruppe in Ihrer Kampagne auswählen.
+Das von Ihnen erstellte Segment erfüllt alle spezifischen Kriterien, die Sie auf der Seite **Segment festlegen** definieren. Sie können Ihre Segmente auch basierend auf einer Kombination von Kriterien anpassen und eine bestimmte Zielgruppe in Ihrer Kampagne auswählen.
 
 So erstellen Sie ein neues Segment
 
-Aus dem **Segmente** Seite, klicken **Neu erstellen** unter dem Diagramm. Der folgende Bildschirm wird angezeigt.
+Klicken Sie auf der Seite **Segmente** unter dem Diagramm auf **Neu erstellen** . Der folgende Bildschirm wird angezeigt.
 
 ![](assets/four.png)
 
 Definieren Sie allgemeine Parameter für Ihr Segment:
 
-* **Name:**  Benennen Sie Ihr Segment.
-* **Beschreibung:**  Stellen Sie eine detailliertere Erläuterung der Segmentkriterien bereit.
-* **Domänen:**  Wählen Sie die Domänen aus, die Sie in das Segment einbeziehen möchten.
-* **Segmentregellogik:**  Wählen Sie eine UND/ODER-Logik aus, um jedes Segmentierungsattribut zu erstellen.
-* **Zeit:** Definieren Sie den Grad der Besucherinteraktion, den Sie in Ihrer Kampagne wünschen.
+* **Name:** Benennen Sie Ihr Segment.
+* **Beschreibung:** Geben Sie eine detailliertere Erläuterung der Segmentkriterien ein.
+* **Domänen:** Wählen Sie die Domäne(n) aus, die Sie in das Segment einbeziehen möchten.
+* **Segmentregellogik:** Wählen Sie eine UND/ODER-Logik aus, um jedes Segmentierungsattribut zu erstellen.
+* **Timing:** Definieren Sie den Grad der Besucherinteraktion, den Sie in Ihrer Kampagne wünschen.
 
-   * **Bei Eintritt**: Interagieren Sie vom Besucher auf die Website.
-   * **Nach dem 1. bis 9. Klick**: Besucherinteraktion nach einer bestimmten Anzahl von Klicks auf die Website
+   * **Bei Einstieg**: Die Interaktion des Besuchers erfolgt auf der Website.
+   * **Nach dem 1. - 9. Klick**: Besucherinteraktion nach einer bestimmten Anzahl von Klicks auf die Website
 
 >[!TIP]
 >
->**Segment Rule Logic**
+>**Segmentregellogik**
 >
 >Es gibt drei Filteroptionen:
 >
@@ -132,35 +132,35 @@ Ziehen Sie Segmentattribute aus der rechten Spalte in den Segmenteditor auf der 
 
 ### Firmenbezogene Daten {#firmographics}
 
-**Standort**
+**Position**
 
-Drag &amp; Drop **Standort** in den Segmenteditor.
+Ziehen Sie **Position** in den Segmenteditor.
 
 * Wählen Sie aus den folgenden Parametern aus:
 
    * **Einschließen** - Wählen Sie aus, ob die Kampagne einen Ort einschließen oder ausschließen soll.
-   * **Land auswählen zum Hinzufügen** - Wählen Sie aus der Dropdown-Liste das Land aus, das Sie in das Segment aufnehmen möchten. Der Ländername wird rechts angezeigt. Sie können mehrere Länder auswählen.
+   * **Land zum Hinzufügen auswählen** - Wählen Sie aus dem Dropdown-Feld das Land aus, das Sie in das Segment aufnehmen möchten. Der Ländername wird rechts angezeigt. Sie können mehrere Länder auswählen.
 
 Nachdem das Land hinzugefügt wurde, können Sie auch das Bundesland, die Stadt und die Postleitzahl des Segments angeben.
 
-* **Bundesland oder Provinz zum Hinzufügen auswählen** - Wählen Sie aus der Dropdown-Liste den US-Bundesstaat oder die kanadische Provinz aus, die Sie einbeziehen möchten. Sie können mehrere Auswahlen vornehmen.
+* **Wählen Sie Bundesland oder Bundesland zum Hinzufügen von** aus: Wählen Sie aus dem Dropdown-Feld den US-Bundesstaat oder die kanadische Provinz aus, die Sie einbeziehen möchten. Sie können mehrere Auswahlen vornehmen.
 * **Postleitzahl** - Geben Sie die Postleitzahl ein, die Sie in Ihr Segment aufnehmen möchten.
 * **Städte** - Geben Sie die Stadt(en) ein, die Sie einbeziehen möchten. Verwenden Sie ein Semikolon zwischen Städten.
 
 >[!TIP]
 >
->**Welche Segmentbedingungen wähle ich aus? &quot;AND&quot;oder &quot;OR&quot;?** OR fungiert in jedem Feld als zusätzliche Option. Die Aussichten müssen nur ein Kriterium aus mehreren Kriterien erfüllen, die in jedem Feld ausgewählt wurden, um für das Segment qualifiziert zu sein. (Zum Beispiel können potenzielle Kunden aus den USA kommen. *oder* von der Verteidigungsindustrie). UND fungiert als zusätzlicher obligatorischer Parameter, der für dieses Segment erfüllt werden muss. (Zum Beispiel müssen die Aussichten sowohl aus den USA als auch aus der Verteidigungsindustrie stammen.) In jedem Segmentierungsprofil kann jedes separate Feld je nach ausgewählter Segmentbedingung entweder als &quot;AND&quot;oder als &quot;OR&quot;funktionieren.
+>**Welche Segmentbedingungen wähle ich aus? &quot;AND&quot;oder &quot;OR&quot;?** ODER fungiert in jedem Feld als zusätzliche Option. Die Aussichten müssen nur ein Kriterium aus mehreren Kriterien erfüllen, die in jedem Feld ausgewählt wurden, um für das Segment qualifiziert zu sein. (Die potenziellen Kunden können beispielsweise entweder aus den USA, *oder* aus der Verteidigungsindustrie kommen.) UND fungiert als zusätzlicher obligatorischer Parameter, der für dieses Segment erfüllt werden muss. (Zum Beispiel müssen die Aussichten sowohl aus den USA als auch aus der Verteidigungsindustrie stammen.) In jedem Segmentierungsprofil kann jedes separate Feld je nach ausgewählter Segmentbedingung entweder als &quot;AND&quot;oder als &quot;OR&quot;funktionieren.
 
-**Branchen** Unter dem **Profilsegmentierung** -Abschnitt, aktivieren Sie das Kontrollkästchen neben **Branche**.
+**Industries** Aktivieren Sie im Abschnitt **Profilsegmentierung** das Kontrollkästchen neben **Branche**.
 
 * Wählen Sie aus den folgenden Parametern aus:
 
    * **Enthält** - Wählen Sie aus, ob das Segment eine Branche einschließen oder ausschließen soll.
-   * **Zu hinzugefügte Branchen auswählen** - Wählen Sie die Branche aus, die Sie in das Segment aufnehmen möchten. Die Branche wird unter dem Dropdown-Feld angezeigt. Sie können mehrere Branchen auswählen.
+   * **Wählen Sie Branchen aus, die hinzugefügt werden sollen** - Wählen Sie die Branche aus, die Sie in das Segment aufnehmen möchten. Die Branche wird unter dem Dropdown-Feld angezeigt. Sie können mehrere Branchen auswählen.
 
 **Organisationsgruppe**
 
-Unter dem **Profilsegmentierung** -Abschnitt, aktivieren Sie das Kontrollkästchen neben **Organisationsgruppe.**
+Aktivieren Sie unter dem Abschnitt **Profilsegmentierung** das Kontrollkästchen neben **Organisationsgruppe** .
 
 * Wählen Sie aus der Dropdown-Liste eine der folgenden Optionen aus:
 
@@ -170,24 +170,24 @@ Unter dem **Profilsegmentierung** -Abschnitt, aktivieren Sie das Kontrollkästch
    * Unternehmen - Umfasst Organisationen mit mehr als 1.000 Mitarbeitern und einem Umsatz von mehr als 250 Mio. USD
    * KMU - Schließt nur kleine und mittlere Unternehmen in dieses Segment ein
 
-**-Named Accounts-**
+**-benannte Konten -**
 
 **Organisationen**
 
-* **stammt von diesen Unternehmen (spezifische Namen)**
+* **Entstammt diesen Unternehmen (spezifische Namen)**
 
    * Wählen Sie aus der Dropdown-Liste &quot;Unternehmen zum Hinzufügen auswählen&quot;das Unternehmen aus, das als Ziel ausgewählt werden soll.
-   * Sie können den genauen Organisationsnamen eingeben, den Sie als Ziel auswählen möchten. *Es ist _always_ Es wird empfohlen, Named Account Lists zu verwenden, anstatt die Namen manuell für bessere Übereinstimmungen einzugeben (siehe unten).
+   * Sie können den genauen Organisationsnamen eingeben, den Sie als Ziel auswählen möchten. *Es wird _always_ empfohlen, Namenskontenlisten zu verwenden, anstatt die Namen manuell für bessere Übereinstimmungen einzugeben (siehe unten).
 
-**Liste benannter Konten**
+**Liste mit benannten Konten**
 
-Wählen Sie aus einer [Liste benannter Konten](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md) , um wichtige Zielgruppenkonten zu segmentieren.
+Wählen Sie aus der Liste [Spezifisches Konto](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md) aus, um wichtige Zielkonten zu segmentieren.
 
 ![](assets/image2015-5-27-17-3a14-3a8.png)
 
 >[!NOTE]
 >
->Die Zahl in den Klammern neben dem Namen der Liste &quot;Spezifisches Konto&quot;wird als Indexreferenz für die Liste für die Web-Personalisierung verwendet [API lesen](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization).
+>Die Zahl in den Klammern neben dem Namen der Liste &quot;Spezifisches Konto&quot;wird als Indexreferenz für die Liste für Web Personalization [Read API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization) verwendet.
 
 **ISP ausschließen**
 
@@ -195,11 +195,11 @@ Schließt Internet Service Provider (ISPs) aus dem Segment aus.
 
 ### Bekannte Personen {#known-people}
 
-**Datenbank**
+**Database**
 
-Die Web-Personalisierung wird in Ihre Marketo-Datenbank integriert, sodass Sie Kampagnen nach bekannten Personalattributen und Daten segmentieren und personalisieren können.
+Web Personalization kann in Ihre Marketo-Datenbank integriert werden, sodass Sie Kampagnen nach bekannten Personenattributen und Daten segmentieren und personalisieren können.
 
-Wählen Sie Datenbank und danach ein Personendatenfeld aus der Dropdown-Liste aus. Wählen Sie die **+** , um Felder aus der Dropdown-Liste hinzuzufügen.
+Wählen Sie Datenbank und danach ein Personendatenfeld aus der Dropdown-Liste aus. Wählen Sie **+** aus, um Felder aus der Dropdownliste hinzuzufügen.
 
 ![](assets/seven.png)
 
@@ -211,7 +211,7 @@ Sie können Personendatenfelder über Kontoeinstellungen > Datenbank hinzufügen
 >
 >Z. B. &quot;Job Title equals CMO&quot;und &quot;Score ist kleiner oder gleich 50&quot;
 
-**Marketo Email Campaign** Segmentieren und personalisieren Sie Kampagnen per E-Mail-Verweis von einem Besucher, der auf eine Marketo-E-Mail klickt und auf die Site gelangt. Segmentieren Sie nach Marketo-Programmname oder Kampagnenname und fahren Sie mit der Konversation von E-Mail zu Web fort. Wählen Sie + aus, um Felder aus der Dropdown-Liste hinzuzufügen.
+**Marketo-E-Mail-Kampagne** Segmentieren und personalisieren Sie Kampagnen per E-Mail-Verweis von einem Besucher, der auf eine Marketo-E-Mail klickt und auf die Site gelangt. Segmentieren Sie nach Marketo-Programmname oder Kampagnenname und fahren Sie mit der Konversation von E-Mail zu Web fort. Wählen Sie + aus, um Felder aus der Dropdown-Liste hinzuzufügen.
 
 ![](assets/image2015-5-27-17-3a20-3a34.png)
 
@@ -234,21 +234,21 @@ Definieren Sie Ihr Segment entsprechend dem Status eines Interessenten: bekannt 
 
 * Spezifische Besuche - Wählen Sie diese Option aus dem Dropdownfeld aus, um einen bestimmten Besucher anzugeben.
 
-   * Geben Sie im Textfeld auf der rechten Seite die Besuchernummer ein, die Sie verfolgen möchten. Die eindeutige Web-Personalisierung-Besucher-Identifikationsnummer finden Sie beim Klicken auf einen Besucher (auf der Besucherseite) und die Set Campaign -Funktion auf der rechten Seite. Die Besucher-ID befindet sich im Abschnitt Erweiterte Einstellungen . Die Besucher-ID finden Sie auch in der URL (z. B. VISITOR=JZZJIFJNUI60PZ8Y97BHTY9BL8PKWS).
+   * Geben Sie im Textfeld auf der rechten Seite die Besuchernummer ein, die Sie verfolgen möchten. Die eindeutige Web-Personalization-Besucheridentifikationsnummer finden Sie beim Klicken auf einen Besucher (auf der Besucherseite) und die Option Kampagne auf der rechten Seite festlegen . Die Besucher-ID befindet sich im Abschnitt Erweiterte Einstellungen . Die Besucher-ID finden Sie auch in der URL (z. B. VISITOR=JZZJIFJNUI60PZ8Y97BHTY9BL8PKWS).
 
 **Suchbegriffe** - Definieren Sie ein Segment entsprechend den Suchbegriffen eines Interessenten.
 
-* Der gesuchte Besucher - Wählen Sie aus der Dropdownliste die Begriffe, die Sie verfolgen möchten, aus der Suche Ihrer Besucher aus oder fügen Sie Ihre eigenen Suchbegriffe hinzu. (Die &#42; Platzhalter für Suchbegriffe, da er als Standard festgelegt ist, um Suchbegriffe einzubeziehen, die den Suchbegriff enthalten).
+* Der gesuchte Besucher - Wählen Sie aus der Dropdownliste die Begriffe, die Sie verfolgen möchten, aus der Suche Ihrer Besucher aus oder fügen Sie Ihre eigenen Suchbegriffe hinzu. (Der Platzhalter &#42; für Suchbegriffe ist nicht erforderlich, da er standardmäßig so eingestellt ist, dass er Suchbegriffe einbezieht.)
 
 **Verweise** - Fügen Sie URLs hinzu, auf die der Besucher verwiesen wurde.
 
-* Verweise auswählen, die hinzugefügt werden sollen - Wählen Sie aus der Dropdownliste die Verweisseiten aus, die Sie verfolgen möchten, oder fügen Sie Ihre eigenen Verweise hinzu. Nach der Auswahl werden die Verweise im Feld unten angezeigt. (Verwendung &#42; als Platzhalter erlaubt ist)
+* Verweise auswählen, die hinzugefügt werden sollen - Wählen Sie aus der Dropdownliste die Verweisseiten aus, die Sie verfolgen möchten, oder fügen Sie Ihre eigenen Verweise hinzu. Nach der Auswahl werden die Verweise im Feld unten angezeigt. (Die Verwendung von &#42; als Platzhalter ist zulässig.)
 
-**Seiten einschließen** - Verfolgen Sie spezifische Seitenaussichten, die auf Ihrer Website besucht werden.
+**Seiten einschließen** - Verfolgen Sie spezifische Seiten, die auf Ihrer Website besucht werden.
 
-* URL-Übereinstimmungen - Fügen Sie die URL bestimmter Webseiten hinzu, die Sie verfolgen möchten. Sie können mehrere URLs hinzufügen, indem Sie sie durch Semikolon trennen. (Verwendung &#42; als Platzhalter erlaubt ist).
+* URL-Übereinstimmungen - Fügen Sie die URL bestimmter Webseiten hinzu, die Sie verfolgen möchten. Sie können mehrere URLs hinzufügen, indem Sie sie durch Semikolon trennen. (Die Verwendung von &#42; als Platzhalter ist zulässig).
 
-**Ausschließen von Seiten** - Schließen Sie bestimmte Seiten aus, die Sie im Segment nicht abgleichen möchten. (Verwendung &#42; als Platzhalter erlaubt ist).
+**Seiten ausschließen** - Schließen Sie bestimmte Seiten aus, die im Segment nicht übereinstimmen sollen. (Die Verwendung von &#42; als Platzhalter ist zulässig).
 
 * URL stimmt nicht überein - Fügen Sie die URL bestimmter Webseiten hinzu, die vom Tracking ausgeschlossen werden sollen. Sie können mehrere URLs hinzufügen, indem Sie sie durch ein Semikolon trennen
 
@@ -263,20 +263,20 @@ Ziehen Sie das mobile Betriebssystem in den Segmenteditor.
 ![](assets/image2015-5-27-17-3a45-3a3.png)
 
 * **Besuchertyp**<br />
-  **Mobilbetriebssystem** - Wählen Sie aus dem Dropdownfeld ein oder mehrere aufgelistete mobile Betriebssysteme aus. Das ausgewählte mobile Betriebssystem wird unten angezeigt.
+  **Mobilbetriebssystem** - Wählen Sie aus dem Dropdown-Feld ein oder mehrere aufgelistete mobile Betriebssysteme aus. Das ausgewählte mobile Betriebssystem wird unten angezeigt.
 
    * Der Besucher verwendet ein beliebiges Mobilgerät
    * Der Besucher verwendet dieses spezifische Gerät/Betriebssystem.
    * Der Besucher verwendet kein Mobilgerät
 
-* **Gerät**  - Wählen Sie aus der Dropdownliste ein oder mehrere Geräte (Apple, Samsung, LG, HTC, Nexus, Blackberry usw.) aus. Die ausgewählten Geräte werden unten angezeigt.
+* **Gerät** - Wählen Sie aus der Dropdownliste mindestens ein Gerät aus (Apple, Samsung, LG, HTC, Nexus, Blackberry usw.). Die ausgewählten Geräte werden unten angezeigt.
 
 **Browser**
 
 Targeting von Besuchern, die bestimmte Browsertypen und/oder Versionen verwenden.
 
 * Browsertyp - Wählen Sie aus dem Dropdownfeld einen oder mehrere Internet-Browser aus. Die ausgewählten Browser werden unten angezeigt.
-* Browserversion - Geben Sie die Browser-Version ein, die Sie zum Segment hinzufügen möchten. Sie können mehrere Versionen auswählen, indem Sie jede durch ein Komma trennen. (Verwendung &#42; als Platzhalter erlaubt ist).
+* Browserversion - Geben Sie die Browser-Version ein, die Sie zum Segment hinzufügen möchten. Sie können mehrere Versionen auswählen, indem Sie jede durch ein Komma trennen. (Die Verwendung von &#42; als Platzhalter ist zulässig).
 
 ### API {#api}
 
@@ -286,21 +286,21 @@ Fügen Sie den Ereigniswert hinzu, den Sie als Ziel auswählen möchten. z. B. a
 
 **Benutzerkontext-API**
 
-Web Personalization-API-Aufruf  [Weitere Informationen dazu finden Sie hier .](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)
+Web Personalization API-Aufruf [lesen Sie hier mehr darüber.](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)
 
 >[!TIP]
 >
->**Verwenden von Platzhaltern:** Wenn Sie Suchbegriffe oder URLs einbeziehen möchten, die etwas darin enthalten, d. h. &quot;[google.com](https://google.com)&quot; oder &quot;Suchbegriff Produkt&quot;, nennen wir dies einen Platzhalter und es sollte mit einem Sternchen eingegeben werden - dieser kleine Kerl&#42; - auf jeder Seite. Also alles, was aus [google.com](https://google.com) sollte als &#42; [google.com](https://google.com)&#42;
+>**Verwenden von Platzhaltern -** Wenn Sie Suchbegriffe oder URLs einbeziehen möchten, die etwas darin enthalten, d. h. &quot;[google.com](https://google.com)&quot;oder &quot;Suchbegriff-Produkt&quot;, nennen wir dies einen Platzhalter und er sollte mit einem Sternchen - diesem kleinen Typ&#42; - auf jeder Seite eingegeben werden. Daher sollte alles, was von [google.com](https://google.com) stammt, als &#42; [google.com](https://google.com)&#42; eingegeben werden
 
 ## Segmente bearbeiten {#edit-segments}
 
 Sie können ein Segment bearbeiten, das erstellt wurde.
 
-1. Um ein Segment zu bearbeiten, navigieren Sie zu **Segmente**.
+1. Um ein Segment zu bearbeiten, gehen Sie zu **Segmente**.
 
    ![](assets/image2014-11-12-11-3a38-3a22.png)
 
-1. Im **Segmente** auf das Bearbeitungssymbol ( ![](assets/segment-edit.png)) des Segments, das Sie bearbeiten möchten. Die **Segment festlegen** Seite mit dem ausgewählten Segment geöffnet.
+1. Klicken Sie in der Tabelle **Segmente** auf das Bearbeitungssymbol ( ![](assets/segment-edit.png)) des Segments, das Sie bearbeiten möchten. Die Seite **Segment festlegen** wird mit dem ausgewählten Segment geöffnet.
 1. Wenden Sie alle Änderungen an, die Sie am Segment vornehmen möchten.
 1. Klicken Sie auf **Speichern**.
 
@@ -308,9 +308,9 @@ Sie können ein Segment bearbeiten, das erstellt wurde.
 
 Sie können von Ihnen erstellte Segmente löschen.
 
-1. Aus dem **Segmente** -Seite ein Segment auswählen.
+1. Wählen Sie auf der obigen Seite **Segmente** ein Segment aus.
 1. Klicken Sie auf das Löschsymbol ( ![](assets/segment-delete.png) ) des Segments, das Sie löschen möchten.
-1. Eine Bestätigungsmeldung wird angezeigt, die bestätigt, dass Sie im Begriff sind, die **Segment**.
+1. Es wird eine Bestätigungsmeldung angezeigt, die bestätigt, dass Sie im Begriff sind, das **Segment** zu löschen.
 
 >[!NOTE]
 >
@@ -321,6 +321,6 @@ Sehr gut! Nachdem Sie nun den Abschnitt Segmente verstanden haben, sollten wir u
 >[!MORELIKETHIS]
 >
 * [Erstellen eines einfachen Websegments](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)
-* [Erstellen einer neuen Web-Kampagne für Dialogfelder](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
-* [Erstellen einer neuen Web-Kampagne in Zone](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
-* [Erstellen einer neuen Widget-Webkampagne](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+* [Erstellen einer neuen Webkampagne für ein Dialogfeld](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+* [Erstellen einer neuen Web-Kampagne für die Zone ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+* [Erstellen einer neuen Widget-Web-Kampagne](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)

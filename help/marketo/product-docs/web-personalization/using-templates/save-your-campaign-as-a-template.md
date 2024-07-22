@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Haben Sie schon einmal Zeit damit verbracht, die perfekte Web-Kampagne zu erstellen? Jetzt können Sie sie als Vorlage speichern, um sie in Zukunft einfach wiederzuverwenden.
 
-1. Navigieren Sie zu **Web-Kampagnen**.
+1. Wechseln Sie zu **Web-Kampagnen**.
 
    ![](assets/web-campaigns-hand-1.jpg)
 
@@ -27,7 +27,7 @@ Haben Sie schon einmal Zeit damit verbracht, die perfekte Web-Kampagne zu erstel
 
    ![](assets/my-campaign-edit.jpg)
 
-1. Aktivieren Sie Als Vorlage verwenden und klicken Sie auf **Speichern**.
+1. Aktivieren Sie die Option Als Vorlage verwenden und klicken Sie auf **Speichern**.
 
    ![](assets/image2015-2-25-19-3a56-3a58.png)   ![](assets/image2015-2-25-19-3a56-3a37.png)
 

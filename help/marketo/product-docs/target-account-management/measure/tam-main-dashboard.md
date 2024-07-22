@@ -21,22 +21,22 @@ Um nach Kontoliste zu filtern, klicken Sie auf das Dropdown-Menü Ansicht ...
 
 ![](assets/two.png)
 
-...und eine Auswahl treffen. In diesem Beispiel wählen wir unsere &quot;High-Tech&quot;-Kontoliste.
+...und wählen Sie aus. In diesem Beispiel wählen wir unsere &quot;High-Tech&quot;-Kontoliste.
 
 ![](assets/three.png)
 
-So zeigen Sie die [Dashboard &quot;Kontoliste&quot;](/help/marketo/product-docs/target-account-management/measure/account-list-insights.md#account-list-dashboard)klicken Sie auf den Namen der von Ihnen ausgewählten Kontoliste..
+Um das Dashboard der [Kontoliste](/help/marketo/product-docs/target-account-management/measure/account-list-insights.md#account-list-dashboard) anzuzeigen, klicken Sie auf den Namen der von Ihnen ausgewählten Kontoliste..
 
 ![](assets/four.png)
 
-...und das Dashboard wird geladen.
+... und das Dashboard wird geladen.
 
 ![](assets/five.png)
 
-Wenn Sie sich nicht das Dashboard der Kontoliste ansehen möchten, sondern einen Drilldown in ein benanntes Konto durchführen möchten, klicken Sie auf **Weitere Details** unter seinem Namen...
+Wenn Sie das Dashboard &quot;Kontoliste&quot;nicht anzeigen, sondern einen Drilldown in ein benanntes Konto durchführen möchten, klicken Sie unter dessen Namen auf **Mehr Details** ...
 
 ![](assets/six.png)
 
-...und zeigen Sie die [Einblicke des benannten Kontos](/help/marketo/product-docs/target-account-management/measure/named-account-insights.md).
+... und sehen Sie sich die Einblicke des [benannten Kontos](/help/marketo/product-docs/target-account-management/measure/named-account-insights.md) an.
 
 ![](assets/seven.png)

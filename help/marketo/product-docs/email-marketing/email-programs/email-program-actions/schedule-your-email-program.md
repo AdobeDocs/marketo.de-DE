@@ -18,11 +18,11 @@ ht-degree: 0%
 >* [E-Mail-Programm erstellen](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 >* [Definieren einer Zielgruppe mit einer Smart-Liste](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) oder [Definieren einer Zielgruppe durch Importieren einer Liste](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 >
->* [Vorhandene E-Mail auswählen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) oder [E-Mail für ein E-Mail-Programm erstellen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>* [Wählen Sie eine vorhandene E-Mail aus](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) oder [Erstellen einer E-Mail für ein E-Mail-Programm](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
-Wenn Sie Ihr E-Mail-Programm erstellt, die Audience definiert und die E-Mail ausgewählt haben, möchten Sie Ihrem Programm mitteilen *when* , um die E-Mail zu senden. So geht es.
+Wenn Sie Ihr E-Mail-Programm erstellt, die Audience definiert und die E-Mail ausgewählt haben, möchten Sie Ihrem Programm mitteilen, dass *wann* die E-Mail senden soll. So geht es.
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Wechseln Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -30,7 +30,7 @@ Wenn Sie Ihr E-Mail-Programm erstellt, die Audience definiert und die E-Mail aus
 
    ![](assets/selectemailprogram-1.jpg)
 
-1. Unter dem **Zeitplan** -Kachel, legen Sie das Datum fest.
+1. Legen Sie unter der Kachel **Zeitplan** das Datum fest.
 
    ![](assets/image2017-12-5-14-3a4-3a28.png)
 
@@ -38,13 +38,13 @@ Wenn Sie Ihr E-Mail-Programm erstellt, die Audience definiert und die E-Mail aus
 
    ![](assets/image2017-12-5-14-3a3-3a58.png)
 
-1. Sie können auch die [Zeitzone des Empfängers](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) und/oder [Head Start](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) Funktionen.
+1. Sie können auch die Funktionen [Recipient Time Zone](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) und/oder [Head Start](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) verwenden.
 
    ![](assets/image2017-12-5-14-3a3-3a12.png)
 
-   Wie einfach war das? Es bleibt nur [E-Mail-Programm genehmigen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md) und du kannst gut gehen.
+   Wie einfach war das? Das Einzige, was noch übrig ist, ist [ein E-Mail-Programm genehmigen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md) und Sie können loslegen.
 
 >[!MORELIKETHIS]
 >
->* [E-Mail-Programme mit der Zeitzone der Empfänger planen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
->* [Abteilungsstart für E-Mail-Programme](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
+>* [E-Mail-Programme mit der Zeitzone des Empfängers planen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
+>* [Head Start für E-Mail-Programme](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)

@@ -6,7 +6,7 @@ exl-id: ed221b1c-d6f0-4ee1-b9d3-41112490e070
 feature: Forms
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '360'
+source-wordcount: '361'
 ht-degree: 2%
 
 ---
@@ -17,7 +17,7 @@ Was passiert, wenn jemand ein Formular ausfüllt? Wo werden sie weitergeleitet? 
 
 ## Formular bearbeiten {#edit-form}
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Wechseln Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities-5.png)
 
@@ -25,17 +25,17 @@ Was passiert, wenn jemand ein Formular ausfüllt? Wo werden sie weitergeleitet? 
 
    ![](assets/image2014-9-15-17-3a34-3a14.png)
 
-1. under **Formulareinstellungen** click **Einstellungen**.
+1. Klicken Sie unter **Formulaeinstellungen** auf **Einstellungen**.
 
    ![](assets/image2014-9-15-17-3a34-3a21.png)
 
-1. Scrollen Sie nach unten zum **Danksagungsseite** Abschnitt.
+1. Scrollen Sie nach unten zum Abschnitt **Dankeseite** .
 
 ## Auf Seite bleiben {#stay-on-page}
 
 Mit der Option &quot;Auf Seite bleiben&quot;bleibt der Besucher auf derselben Seite, auf der das Formular gesendet wurde.
 
-1. Auswählen **Auf Seite bleiben** für **Folgemaßnahmen zu**.
+1. Wählen Sie **Auf Seite bleiben** für **Follow-up zu**.
 
    ![](assets/image2014-9-15-17-3a34-3a35.png)
 
@@ -43,7 +43,7 @@ Mit der Option &quot;Auf Seite bleiben&quot;bleibt der Besucher auf derselben Se
 
 Mit der Einstellung Externe URL können Sie eine beliebige URL als Nachverfolgungsseite definieren. Nachdem der Benutzer das Formular übermittelt hat, wird er an die angegebene URL weitergeleitet.
 
-1. Auswählen **Externe URL** für **Folgemaßnahmen zu**.
+1. Wählen Sie **Externe URL** für **Follow-up mit** aus.
 
    ![](assets/image2014-9-15-17-3a34-3a45.png)
 
@@ -55,11 +55,11 @@ Mit der Einstellung Externe URL können Sie eine beliebige URL als Nachverfolgun
 >
 >Die URL kann die einer Datei sein, die irgendwo gehostet wird. Wenn Sie dies tun, verhält sich die Schaltfläche &quot;Senden&quot;wie eine Schaltfläche &quot;Herunterladen&quot;.
 
-## Landing Page {#landing-page}
+## Landingpage {#landing-page}
 
 Sie können eine beliebige genehmigte Marketo-Landingpage als Folgeseite auswählen.
 
-1. Satz **Folgemaßnahmen zu** nach **Landingpage**.
+1. Setzen Sie **Follow-up mit** auf **Landingpage**.
 
    ![](assets/image2014-9-15-17-3a37-3a52.png)
 
@@ -71,7 +71,7 @@ Sie können eine beliebige genehmigte Marketo-Landingpage als Folgeseite auswäh
 
 Sie können mehrere Optionen hinzufügen und in Optionen integrieren, um Benutzern je nach Antwort unterschiedliche Folgenachrichten anzuzeigen.
 
-1. Klicken **Auswahl hinzufügen**.
+1. Klicken Sie auf **Auswahl hinzufügen**.
 
    ![](assets/image2014-9-15-17-3a38-3a6.png)
 
@@ -91,7 +91,7 @@ Sie können mehrere Optionen hinzufügen und in Optionen integrieren, um Benutze
 
    ![](assets/image2014-9-15-17-3a38-3a40.png)
 
-1. Wählen Sie die entsprechende Seite für **Folgemaßnahmen zu** Typ.
+1. Wählen Sie die entsprechende Seite für den Typ **Follow-up mit** aus.
 
    ![](assets/image2014-9-15-17-3a38-3a51.png)
 
@@ -103,7 +103,7 @@ Sie können mehrere Optionen hinzufügen und in Optionen integrieren, um Benutze
    >
    >Sie müssen diese Landingpages zuvor erstellt/genehmigt haben.
 
-1. Klicken Sie auf **+** -Zeichen, um eine andere Auswahl hinzuzufügen.
+1. Klicken Sie auf das Symbol **+** , um eine weitere Auswahl hinzuzufügen.
 
    ![](assets/image2014-9-15-17-3a39-3a25.png)
 
@@ -111,7 +111,7 @@ Sie können mehrere Optionen hinzufügen und in Optionen integrieren, um Benutze
    >
    >Sie können mehrere Auswahlmöglichkeiten hinzufügen. Wenn Sie jedoch zu viele hinzufügen, kann sich dies auf die Ladegeschwindigkeit des Formulars auswirken, sodass nur das hinzugefügt wird, was Sie benötigen.
 
-1. Gehen Sie durch und richten Sie **Wahl 2**.
+1. Gehen Sie durch und richten Sie **Auswahl 2** ein.
 
    ![](assets/image2014-9-15-17-3a39-3a44.png)
 
@@ -131,11 +131,11 @@ Sie können mehrere Optionen hinzufügen und in Optionen integrieren, um Benutze
 
    ![](assets/image2014-9-15-17-3a40-3a34.png)
 
-1. Klicken **Beenden**.
+1. Klicken Sie auf **Beenden**.
 
    ![](assets/image2014-9-15-17-3a40-3a42.png)
 
-1. Klicken **Genehmigen und schließen**.
+1. Klicken Sie auf **Genehmigen und schließen**.
 
    ![](assets/image2014-9-15-17-3a41-3a0.png)
 

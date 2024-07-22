@@ -16,19 +16,19 @@ Bevor Sie eine E-Mail versenden, können Sie das E-Mail-Format und die Token tes
 
 1. Navigieren Sie zum Bereich Sales Insight in Salesforce eines Leads oder Kontakts.
 
-1. Klicken **Marketo-E-Mail senden**.
+1. Klicken Sie auf **Marketo-E-Mail senden**.
 
-1. Klicken **Testempfänger bearbeiten**.
+1. Klicken Sie auf **Testempfänger bearbeiten**.
 
-1. Sie können einen oder mehrere Leads aus der Liste auswählen, um zu sehen, wie sie an sie dargestellt werden. Klicken **Änderungen anwenden** wann geschehen.
+1. Sie können einen oder mehrere Leads aus der Liste auswählen, um zu sehen, wie sie an sie dargestellt werden. Klicken Sie nach Abschluss auf **Änderungen anwenden** .
 
    ![](assets/send-a-test-email-1.png)
 
    >[!NOTE]
    >
-   >Zur Erinnerung: Auswählen dieser Leads **nicht** den E-Mail-Test zu senden, wird angezeigt, _wie die E-Mail aussehen wird_. Wenn Sie vier Leads auswählen, erhalten Sie vier verschiedene Test-E-Mails.
+   >Zur Erinnerung: Wenn Sie diese Leads **nicht** auswählen, wird ihnen der E-Mail-Test gesendet. Es zeigt Ihnen _wie die E-Mail für sie aussehen wird_. Wenn Sie vier Leads auswählen, erhalten Sie vier verschiedene Test-E-Mails.
 
-1. Klicken **Versandtest**.
+1. Klicken Sie auf **Test senden**.
 
 Sie erhalten eine E-Mail mit Token-Werten für die ausgewählten Leads.
 

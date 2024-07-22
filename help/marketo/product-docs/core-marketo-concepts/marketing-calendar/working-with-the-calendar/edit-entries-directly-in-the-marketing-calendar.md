@@ -17,11 +17,11 @@ Im Programmfokus-Modus können Sie schnell Änderungen an Kalendereinträgen vor
 
 ## Programmfokus aktivieren {#enable-program-focus}
 
-1. Klicken Sie auf **[!UICONTROL Kalender]** Kachel.
+1. Klicken Sie auf die Kachel **[!UICONTROL Kalender]**.
 
    ![](assets/2017-05-10-15-30-47-3.png)
 
-1. Wählen Sie einen Eintrag aus, der zum Programm gehört, auf das Sie sich konzentrieren möchten, und klicken Sie auf **[!UICONTROL Programmfokus anzeigen]**.
+1. Wählen Sie einen Eintrag aus, der zu dem Programm gehört, auf das Sie sich konzentrieren möchten, und klicken Sie auf **[!UICONTROL Programmfokus anzeigen]**.
 
    ![](assets/image2014-10-20-13-3a16-3a7.png)
 

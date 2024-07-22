@@ -22,7 +22,7 @@ ht-degree: 0%
 
    ![](assets/using-html-2.png)
 
-1. Klicken Sie auf **Quelle** in Ihrem Vorlageneditor.
+1. Klicken Sie in Ihrem Vorlageneditor auf die Schaltfläche **Source** .
 
    ![](assets/using-html-3.png)
 
@@ -32,4 +32,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Wenn der Fehler &quot;Fehler - Entfernen der Stil-/Java-/HTML-Tags&quot;angezeigt wird, bedeutet dies, dass Sie einige Stile haben, die wir nicht unterstützen. Sie sollten den Quellcode nach dem Wortstil durchsuchen und alles aus `<style>` bis `</style>`.
+>Wenn der Fehler &quot;Fehler - Entfernen der Stil-/Java-/HTML-Tags&quot;angezeigt wird, bedeutet dies, dass Sie einige Stile haben, die wir nicht unterstützen. Sie sollten den Source-Code nach dem Wortstil durchsuchen und alles von `<style>` bis `</style>` löschen.

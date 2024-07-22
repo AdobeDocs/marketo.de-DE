@@ -6,8 +6,8 @@ exl-id: 2568911a-071f-42b3-a4be-e951c9fc2ac5
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '376'
-ht-degree: 0%
+source-wordcount: '378'
+ht-degree: 1%
 
 ---
 
@@ -40,7 +40,7 @@ Hinweis: Diese Funktion wird derzeit in Internet Explorer aufgrund von Browserbe
 
 ![](assets/image2014-9-23-10-3a4-3a46.png)
 
-## Verschieben von Text in eine E-Mail {#move-text-in-an-email}
+## Text in eine E-Mail verschieben {#move-text-in-an-email}
 
 Sie können Textbausteine in einer E-Mail neu anordnen. Wählen Sie im Texteditor einen Textblock aus. Wenn Sie auf das Bearbeitungssymbol klicken, sehen Sie die Option, den Baustein nach oben oder unten zu verschieben.
 
@@ -52,7 +52,7 @@ Wenn Sie Ihr Abonnement nicht mit Salesforce synchronisieren, werden Sie festste
 
 ## Marketo-Umsatzzyklusanalysen {#marketo-revenue-cycle-analytics}
 
-**Verbesserte Gate-Phasen im Modell für Umsatzzyklen**
+**Verbesserte Gate-Phasen im Umsatzzyklus Modeler**
 
 Ermöglicht es Benutzern, eine Reihenfolge für ihre Übergangsregeln festzulegen.
 

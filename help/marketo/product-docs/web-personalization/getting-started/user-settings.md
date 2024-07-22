@@ -6,8 +6,8 @@ exl-id: 2d7d66fd-6240-4275-a14b-083b30802727
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '204'
-ht-degree: 2%
+source-wordcount: '205'
+ht-degree: 1%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 2%
 
 ## Benutzerprofil/Passwörter/Zeitzonen {#user-profile-passwords-time-zones}
 
-1. Klicken Sie auf Ihren Namen und wählen Sie **Benutzereinstellungen**.
+1. Klicken Sie auf Ihren Namen und wählen Sie **Benutzereinstellungen** aus.
 
    ![](assets/one.png)
 
@@ -31,11 +31,11 @@ ht-degree: 2%
    * Persönliche Daten hinzufügen (Vor- und Nachname, Mobiltelefonnummer und Zeitzone)
    * Wählen Sie die Anzahl der Zeilen aus, die beim Exportieren von Tabellen in die Plattform exportiert werden sollen. Siehe Feld: &quot;Maximale Anzahl von Zeilen im Excel-Export (auf 10.000 begrenzt)&quot;
    * Wählen Sie Ihre Mobile-Benachrichtigungen für eine neue Person oder Überwachungsliste im Zusammenhang mit der Mobile App aus.
-   * Passen Sie die Einstellungen für die persönliche Region an, indem Sie auf **Regionen bearbeiten**.
+   * Passen Sie die Einstellungen für die persönliche Region an, indem Sie auf **Regionen bearbeiten** klicken.
    * Passwort ändern
    * Wählen Sie Ihre Einstellungen für E-Mail-Berichtsbenachrichtigungen für E-Mail-Berichte zu Organisationen, Personen, Kampagnen und Asset-Leistung aus.
 
-   Klicks **Speichern** , nachdem Sie Änderungen vorgenommen haben.
+   Klicken Sie auf **Speichern** , nachdem Sie Änderungen vorgenommen haben.
 
    >[!NOTE]
    >
@@ -43,13 +43,13 @@ ht-degree: 2%
 
 ## E-Mail-Berichte auswählen {#select-email-reports}
 
-Auswählen [E-Mail-Bericht](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) dem Benutzer und der Häufigkeit (täglich, wöchentlich oder vierteljährlich) des Versands des Berichts zugeordnet werden.
+Wählen Sie aus, welcher [E-Mail-Bericht](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) Ihrem Benutzer zugeordnet werden soll, und geben Sie die Häufigkeit (täglich, wöchentlich oder vierteljährlich) an, zu der der Bericht gesendet wird.
 
 ![](assets/three.png)
 
 >[!NOTE]
 >
->Klicken **Speichern** Sie werden nicht aus den Benutzereinstellungen ausgeschlossen. Klicken Sie zum Beenden auf das Marketo -Logo oben links und wählen Sie Ihr Ziel aus.
+>Wenn Sie auf **Speichern** klicken, werden Sie nicht aus den Benutzereinstellungen ausgeschlossen. Klicken Sie zum Beenden auf das Marketo -Logo oben links und wählen Sie Ihr Ziel aus.
 
 >[!MORELIKETHIS]
 >

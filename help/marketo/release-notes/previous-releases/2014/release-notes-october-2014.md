@@ -17,7 +17,7 @@ ht-degree: 1%
 
 ## Programmschwerpunkt im Marketing-Kalender {#program-focus-in-marketing-calendar}
 
-[Erstellen und Bearbeiten von Einträgen](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md) direkt vom Marketingkalender aus.
+[Erstellen und bearbeiten Sie Einträge](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md) direkt im Marketingkalender.
 
 ![](assets/image2014-10-20-11-3a48-3a51.png)
 
@@ -30,21 +30,21 @@ Verwenden Sie die API, um neue Aktivitäten oder Änderungen an Leads abzurufen:
 * Abrufen von Aktivitätstypen
 * Paging-Token abrufen
 
-Vollständige Details werden nach der Veröffentlichung unter [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
+Vollständige Details sind nach der Veröffentlichung unter [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api) verfügbar.
 
 ## MSI - Senden von Marketo-E-Mail an Microsoft Dynamics {#msi-send-marketo-email-for-microsoft-dynamics}
 
-[Verkaufs-E-Mails versenden und verfolgen](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md) zu Leads und Kontakten von Microsoft Dynamics.
+[Senden und Verfolgen von Verkaufs-E-Mails](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md) an Leads und Kontakte aus Microsoft Dynamics.
 
 ![](assets/image2014-10-20-11-3a49-3a25.png)
 
 ## MSI - Zu Marketo-Kampagnen für Microsoft Dynamics hinzufügen {#msi-add-to-marketo-campaigns-for-microsoft-dynamics}
 
-[Hinzufügen von Leads und Kontakten zu Marketo-Smart-Kampagnen](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md) direkt aus Microsoft Dynamics heraus. Marketing kann auswählen, welche Marketo-Kampagnen für den Vertrieb verfügbar sind.
+[Fügen Sie Leads und Kontakte zu Marketo-Smart-Kampagnen hinzu](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md), direkt aus Microsoft Dynamics heraus. Marketing kann auswählen, welche Marketo-Kampagnen für den Vertrieb verfügbar sind.
 
 ## Unterstützung benutzerdefinierter Entitäten für die Synchronisierung von Microsoft Dynamics {#custom-entity-support-for-microsoft-dynamics-sync}
 
-[Verwenden benutzerdefinierter Objektdaten](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity.md) von Microsoft Dynamics zum Filtern und Auslösen in Smart-Listen, Smart-Kampagnen, Programmen ...
+[Verwenden Sie benutzerdefinierte Objektdaten](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity.md) aus Microsoft Dynamics zum Filtern und Auslösen in Smart-Listen, Smart-Kampagnen, Programmen ...
 
 ## Unterstützung von Aktionären für die Synchronisierung von Microsoft Dynamics {#shareholder-support-for-microsoft-dynamics-sync}
 
@@ -60,7 +60,7 @@ Das Dashboard wurde um weitere Daten auf einen Blick erweitert:
 
 ## RTP - Neue mobile Vorlagen für Kampagnen {#rtp-new-mobile-templates-for-campaigns}
 
-Schnell und einfach [Erstellen mobiler Kampagnen](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) mit diesen neuen Vorlagen.
+Erstellen Sie mit diesen neuen Vorlagen schnell und einfach [mobile Kampagnen](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) .
 
 ## RTP - User Context API {#rtp-user-context-api}
 
@@ -70,4 +70,4 @@ Verwenden Sie einen neuen Aufruf, der den Verlauf des Besuchs des letzten Besuch
 * Interessante Produkte
 * Welche RTP-Kampagnen sie gesehen haben
 
-Besuch [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) für ausführliche Informationen.
+Weitere Informationen finden Sie unter [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) .

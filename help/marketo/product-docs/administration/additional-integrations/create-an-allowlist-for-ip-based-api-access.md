@@ -7,7 +7,7 @@ feature: Administration
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '133'
-ht-degree: 3%
+ht-degree: 1%
 
 ---
 
@@ -19,19 +19,19 @@ Manchmal möchten Sie API-Zugriff nur auf eine bestimmte IP-Adresse oder eine Re
 >
 >**Erforderliche Administratorberechtigungen**
 
-1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
+1. Wechseln Sie zum Bereich **[!UICONTROL Admin]** .
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-1.png)
 
-1. Klicken **[!UICONTROL Web-Services]**.
+1. Klicken Sie auf **[!UICONTROL Webdienste]**.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-2.png)
 
-1. Im **[!UICONTROL IP-Einschränkungen]** Bereich, klicken Sie **[!UICONTROL Bearbeiten],** oder klicken Sie auf **[!UICONTROL IP-Einschränkungen bearbeiten]** oben links.
+1. Klicken Sie im Bereich **[!UICONTROL IP-Einschränkungen]** auf **[!UICONTROL Bearbeiten],** oder klicken Sie oben links auf **[!UICONTROL IP-Einschränkungen bearbeiten]** .
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-3.png)
 
-1. Überprüfen Sie die **[!UICONTROL IP-Einschränkungen aktivieren]** und geben Sie die IP-Adressen ein, die Sie in das Zulassungsliste eintragen möchten.
+1. Aktivieren Sie das Feld **[!UICONTROL IP-Einschränkungen aktivieren]** und geben Sie die IP-Adressen ein, die Sie in das Zulassungsliste aufnehmen möchten.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-4.png)
 
@@ -39,10 +39,10 @@ Manchmal möchten Sie API-Zugriff nur auf eine bestimmte IP-Adresse oder eine Re
    >
    >Sie können eine einzelne IP-Adresse oder einen Bereich davon eingeben oder einen Platzhalter verwenden.
 
-1. Klicken **[!UICONTROL Hinzufügen]** um zusätzliche Felder zur Eingabe weiterer IP-Adressen zu öffnen.
+1. Klicken Sie auf **[!UICONTROL Hinzufügen]** , um weitere Felder zur Eingabe weiterer IP-Adressen zu öffnen.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-5.png)
 
-1. Klicken **[!UICONTROL Speichern]**.
+1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-6.png)

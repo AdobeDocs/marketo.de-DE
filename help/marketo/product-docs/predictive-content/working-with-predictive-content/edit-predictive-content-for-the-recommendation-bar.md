@@ -7,7 +7,7 @@ feature: Predictive Content
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '76'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -17,13 +17,13 @@ Hier erfahren Sie, wie Sie Ihren prädiktiven Inhalt für die Empfehlungsleiste 
 
 >[!PREREQUISITES]
 >
->Inhalt muss [für prädiktive Inhalte genehmigt](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) auf der Seite &quot;Alle Inhalte&quot;.
+>Der Inhalt muss für prädiktive Inhalte ](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) auf der Seite &quot;Alle Inhalte&quot;genehmigt werden.[
 
-1. Im **Prädiktive Inhalte** auf einen Titel klicken, um den Editor zu öffnen.
+1. Klicken Sie auf der Seite **Prädiktiver Inhalt** auf einen Titel, um den Editor zu öffnen.
 
    ![](assets/image2017-10-3-9-3a45-3a13.png)
 
-1. Klicken **Balken**.
+1. Klicken Sie auf **Balken**.
 
    ![](assets/image2017-10-3-9-3a45-3a48.png)
 
@@ -31,6 +31,6 @@ Hier erfahren Sie, wie Sie Ihren prädiktiven Inhalt für die Empfehlungsleiste 
 
    ![](assets/image2017-10-3-9-3a46-3a18.png)
 
-1. Klicken **Speichern**.
+1. Klicken Sie auf **Speichern**.
 
    ![](assets/save.png)

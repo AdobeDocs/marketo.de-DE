@@ -1,16 +1,16 @@
 ---
-description: Welche Browser werden von Sales Insight-Aktionen unterstützt? - Marketo-Dokumente - Produktdokumentation
-title: Welche Browser werden von Sales Insight-Aktionen unterstützt?
+description: Welche Browser unterstützt Sales Insight-Aktionen? - Marketo-Dokumente - Produktdokumentation
+title: Welche Browser unterstützt Sales Insight-Aktionen?
 exl-id: 44610377-e3c3-435e-beb0-85e39c83f6fc
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 6%
+source-wordcount: '61'
+ht-degree: 8%
 
 ---
 
-# Welche Browser werden von Sales Insight-Aktionen unterstützt? {#which-browsers-does-sales-insight-actions-support}
+# Welche Browser unterstützt Sales Insight-Aktionen? {#which-browsers-does-sales-insight-actions-support}
 
 Marketo Sales Insight-Aktionen unterstützen derzeit die folgenden Browser.
 
@@ -39,4 +39,4 @@ Marketo Sales Insight-Aktionen unterstützen derzeit die folgenden Browser.
  </tbody> 
 </table>
 
-Für das beste Erlebnis: **Browser aktualisieren**!
+Um das beste Erlebnis zu erzielen, halten Sie Ihren Browser auf dem neuesten Stand **!**

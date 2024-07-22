@@ -17,23 +17,23 @@ Nachdem Sie Ihre Lead-Anzeige erstellt haben, sollten Sie sie testen!
 
 >[!PREREQUISITES]
 >
->Sie müssen [Einrichten der Facebook Lead Ads-Integration](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
+>Sie müssen [die Facebook-Integration für Lead-Anzeigen einrichten](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
 
-1. Wählen Sie im Power Editor von Facebook eine Kampagne, eine Anzeige aus und klicken Sie auf **Bearbeiten**.
+1. Wählen Sie im Power Editor von Facebook eine Kampagne und eine Anzeige aus und klicken Sie auf **Bearbeiten**.
 
-1. under **Links**, klicken Sie auf die **Anzeigen in mobilen Apps** -Link.
+1. Klicken Sie unter **Links** auf den Link **In Mobile App anzeigen** .
 
    ![](assets/image2016-5-13-15-3a2-3a38.png)
 
-1. Eine neue Benachrichtigung wird an das Facebook-Konto gesendet, auf das Sie mit dem autorisierten Konto auf dem Mobilgerät zugreifen können. Klicks **OK**.
+1. Eine neue Benachrichtigung wird an das Facebook-Konto gesendet, auf das Sie mit dem autorisierten Konto auf dem Mobilgerät zugreifen können. Klicken Sie auf **OK**.
 
    ![](assets/image2016-3-11-8-3a35-3a7.png)
 
-1. Tippen Sie auf Ihrem Mobilgerät auf **Benachrichtigungen** in der mobilen Facebook-App.
+1. Tippen Sie auf Ihrem Mobilgerät in der mobilen Facebook-App auf **Benachrichtigungen** .
 
    ![](assets/image2016-3-11-8-3a38-3a35.png)
 
-1. Tippen Sie in den Benachrichtigungen auf **Ihre Anzeige ist bereit zur Vorschau**.
+1. Tippen Sie in Benachrichtigungen auf **Ihre Anzeige ist bereit für die Vorschau von**.
 
    ![](assets/image2016-3-11-8-3a41-3a59.png)
 
@@ -45,7 +45,7 @@ Nachdem Sie Ihre Lead-Anzeige erstellt haben, sollten Sie sie testen!
    >
    >Dies ist nur ein Beispiel, das einen &quot;Weitere Informationen&quot;-Aktionsaufruf verwendet. Ihr Aktionsaufruf für Lead-Anzeigeneinheiten kann anders ausfallen.
 
-1. Hier geschieht die Magie! Sobald Sie Ihr Formular übermittelt haben, [Erstellen einer Smart-Liste in Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) als Teil eines Programms oder in der Lead-Datenbank, die die **Ausfüllen des Facebook Lead Ads-Formulars** Filter. Fügen Sie den Namen des Lead-Anzeigenformulars des soeben gesendeten Formulars ein.
+1. Hier geschieht die Magie! Nachdem Sie Ihr Formular gesendet haben, erstellen Sie [eine Smart-Liste in Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) als Teil eines Programms oder in der Lead-Datenbank, die den Filter **Ausgefülltes Facebook-Lead-Anzeigenformular** verwendet. Fügen Sie den Namen des Lead-Anzeigenformulars des soeben gesendeten Formulars ein.
 
    ![](assets/image2016-3-11-8-3a59-3a34.png)
 
@@ -57,4 +57,4 @@ Ist das cool oder was?
 
 >[!NOTE]
 >
->[Facebook Lead-Anzeigen aktivieren/deaktivieren](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
+>[Facebook-Lead-Anzeigen aktivieren/deaktivieren](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)

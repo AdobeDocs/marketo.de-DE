@@ -22,7 +22,7 @@ Verbinden Sie Marketo mit einem Ereignispartner , um Ihre Online-Ereignisse zu a
 
 Weitere Informationen finden Sie in den Anweisungen zur Integration Ihrer Online-Marketo-Ereignisse in Ihren -Veranstaltungspartner:
 
-* [WebEx](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
+* [Webex](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
 * [Adobe Connect](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md)
 * [ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md)
 * [GoToWebinar](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)

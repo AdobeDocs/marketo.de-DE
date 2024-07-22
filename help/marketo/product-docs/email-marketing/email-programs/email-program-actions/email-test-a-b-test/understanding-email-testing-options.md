@@ -17,10 +17,10 @@ Testen Sie Ihre E-Mails, um ihre Interaktionsbewertung zu verbessern. In Marketo
 
 ## A/B-Tests {#a-b-testing}
 
-Dies gilt für einmalige E-Mails, die E-Mail-Programme verwenden. Hinzufügen [A/B-Tests](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) und eine kleine Gruppe erhält den Test und der Rest wird den Gewinner gewinnen.
+Dies gilt für einmalige E-Mails, die E-Mail-Programme verwenden. Fügen Sie [A/B-Test](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) hinzu, und eine kleine Gruppe erhält den Test und der Rest erhält den Gewinner.
 
 ## Email Champion/Challenger {#email-champion-challenger}
 
-Für fortlaufende E-Mails, die in Trigger-Smart-Kampagnen oder -Interaktionsprogrammen verwendet werden, können Sie [E-Mail-Meister/Herausforderer](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md) Testen. Dies führt zu Variationen eines fortlaufenden Prozentsatzes der Empfänger.
+Für fortlaufende E-Mails, die in Trigger-Smart-Kampagnen oder -Interaktionsprogrammen verwendet werden, können Sie den Test [E-Mail-Champion/Challenger](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md) hinzufügen. Dies führt zu Variationen eines fortlaufenden Prozentsatzes der Empfänger.
 
 Gute Tests!

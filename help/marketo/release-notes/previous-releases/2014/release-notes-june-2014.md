@@ -21,7 +21,7 @@ Ein neues Erscheinungsbild, einschließlich der Navigation für das Marketo Lead
 
 ## Sales Insight-Plug-in für Outlook 2013 {#sales-insight-plugin-for-outlook}
 
-Dies erfordert einen Download des neuen Plug-ins. Sie können es hier herunterladen: [here](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
+Dies erfordert einen Download des neuen Plug-ins. Sie können es von [hier](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) herunterladen.
 
 ## Token-Auflösung {#token-resolution}
 
@@ -29,17 +29,17 @@ Wenn Sie eine Test-E-Mail aus Sales Insight senden, werden Token in der E-Mail m
 
 ## Prozentsatz für Sterne und Flammen anpassen {#customize-percentages-for-stars-and-flames}
 
-[Einstellen des Prozentsatzes](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md) von Leads, die 1, 2 oder 3 Sterne und Flammen bekommen.
+[Legen Sie den Prozentsatz](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md) der Leads fest, die 1, 2 oder 3 Sterne und Flammen erhalten.
 
 ![](assets/image2014-9-22-13-3a50-3a31.png)
 
 ## Lead ReST API {#lead-rest-api}
 
-Erstellen, lesen und aktualisieren Sie Leads programmatisch mithilfe unserer neuen ReST API. Für die ersten Schritte mit ReST müssen Sie [Erstellen eines benutzerdefinierten Dienstes](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) in Marketo. Dann fahren Sie weiter zum [Entwickler-Site](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api/) für Details zur Verwendung dieser API.
+Erstellen, lesen und aktualisieren Sie Leads programmatisch mithilfe unserer neuen ReST API. Um mit ReST zu beginnen, müssen Sie [einen benutzerdefinierten Dienst](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) in Marketo erstellen. Gehen Sie dann zur [Entwickler-Site](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api/), um mehr über die Verwendung dieser API zu erfahren.
 
 ## Real-Time Personalization (RTP, Echtzeit-Personalisierung) – Aktualisierung der Kampagnenseite {#marketo-real-time-personalization-rtp-campaigns-page-update}
 
-RTP-Kampagnen enthalten jetzt ein neues Design mit Miniaturansichten und Kampagnenleistung. Darüber hinaus können Sie [Kampagnen organisieren](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/sort-web-campaigns-by-latest-or-top-performing.md) nach Datum oder Höchstleistung.
+RTP-Kampagnen enthalten jetzt ein neues Design mit Miniaturansichten und Kampagnenleistung. Darüber hinaus können Sie Ihre Kampagnen ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/sort-web-campaigns-by-latest-or-top-performing.md) nach Datum oder Leistung organisieren.[
 
 ![](assets/image2014-9-22-13-3a50-3a57.png)
 
@@ -47,6 +47,6 @@ RTP-Kampagnen enthalten jetzt ein neues Design mit Miniaturansichten und Kampagn
 
 Hängen Sie alle RTP-Daten innerhalb Ihrer Web-Analytics-Plattform an.
 
-Die Integration mit [Google Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-analytics.md) (GA) ist jetzt standardmäßig aktiviert. Aktivieren Sie daher unter &quot;Kontoeinstellungen&quot;den Schalter, für den Daten gesendet werden sollen, an benutzerdefinierte Variablen und Ereignisse der allgemeinen Verfügbarkeit.
+Die Integration mit [Google Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-analytics.md) (GA) ist jetzt standardmäßig aktiviert. Aktivieren Sie daher unter &quot;Kontoeinstellungen&quot;den Schalter, über den Daten an benutzerdefinierte Variablen und Ereignisse der allgemeinen Verfügbarkeit gesendet werden sollen.
 
-Wir haben auch die Integration mit [Adobe SiteCatalyst](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-with-adobe-analytics.md).
+Wir haben die Integration auch mit [Adobe SiteCatalyst](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-with-adobe-analytics.md) abgeschlossen.

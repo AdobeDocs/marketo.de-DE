@@ -7,17 +7,17 @@ feature: Programs
 source-git-commit: afdf59729f16d27a548fa60a8156c941be54a8a7
 workflow-type: tm+mt
 source-wordcount: '152'
-ht-degree: 15%
+ht-degree: 12%
 
 ---
 
 # Programmplanungsansicht Einstiegstypen {#program-schedule-view-entry-types}
 
-Es gibt acht verschiedene integrierte Eintragstypen, die in Ihrer Programmplanungsansicht angezeigt und zur Verfügung stehen. Sie können auch [Erstellen benutzerdefinierter Eintragstypen](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md) im Abschnitt &quot;Admin&quot;.
+Es gibt acht verschiedene integrierte Eintragstypen, die in Ihrer Programmplanungsansicht angezeigt und zur Verfügung stehen. Sie können auch [benutzerdefinierte Eintragstypen erstellen](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md) im Admin-Abschnitt.
 
 >[!NOTE]
 >
->Wiederkehrende Smart-Kampagnen sind **not** wird in der Planungsansicht unterstützt.
+>Wiederkehrende Smart-Kampagnen werden in der Zeitplanansicht **nicht** unterstützt.
 
 <table> 
  <thead> 
@@ -28,7 +28,7 @@ Es gibt acht verschiedene integrierte Eintragstypen, die in Ihrer Programmplanun
  </thead> 
  <tbody> 
   <tr> 
-   <td colspan="1" rowspan="1">Grundeingabe<span> <img alt="—" src="assets/image2014-9-24-10-3a4-3a47.png" data-linked-resource-id="3082715" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></span></td> 
+   <td colspan="1" rowspan="1">Einstieg <span> <img alt="—" src="assets/image2014-9-24-10-3a4-3a47.png" data-linked-resource-id="3082715" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></span></td> 
    <td colspan="1" rowspan="1">Standardeingabetyp. Verwenden Sie als Platzhalter oder Notiz. </td> 
   </tr> 
   <tr> 

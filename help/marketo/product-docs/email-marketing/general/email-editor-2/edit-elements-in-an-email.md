@@ -7,7 +7,7 @@ feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '502'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -17,11 +17,11 @@ E-Mails können vier verschiedene Elemente enthalten: Rich-Text, Bilder, Snippet
 
 ## Bearbeiten des Rich-Text-Elements {#how-to-edit-the-rich-text-element}
 
-1. E-Mail suchen, auswählen und klicken **Entwurf bearbeiten**.
+1. Suchen Sie Ihre E-Mail, wählen Sie sie aus und klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/one-edited.png)
 
-1. Der E-Mail-Editor wird geöffnet. Wählen Sie den Text Rich aus, klicken Sie auf das Zahnradsymbol und wählen Sie **Bearbeiten**.
+1. Der E-Mail-Editor wird geöffnet. Wählen Sie den Text Rich aus, klicken Sie auf das Zahnradsymbol und wählen Sie **Bearbeiten** aus.
 
    ![](assets/two.png)
 
@@ -29,13 +29,13 @@ E-Mails können vier verschiedene Elemente enthalten: Rich-Text, Bilder, Snippet
 
    ![](assets/three.png)
 
-1. Text hinzufügen/bearbeiten und drücken **Speichern**.
+1. Fügen Sie Ihren Text hinzu/bearbeiten Sie ihn und drücken Sie **Speichern**.
 
    ![](assets/four.png)
 
    >[!NOTE]
    >
-   >Sie können auch Bilder, Token, Tabellen und andere Elemente hinzufügen. Siehe [Rich-Text-Editor verwenden](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
+   >Sie können auch Bilder, Token, Tabellen und andere Elemente hinzufügen. Siehe [Verwenden des Rich-Text-Editors](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
 
    >[!CAUTION]
    >
@@ -47,7 +47,7 @@ E-Mails können vier verschiedene Elemente enthalten: Rich-Text, Bilder, Snippet
 
    ![](assets/five.png)
 
-1. Klicken Sie auf das Bildelement, das Sie bearbeiten möchten, klicken Sie auf das Zahnradsymbol und wählen Sie **Bearbeiten**.
+1. Klicken Sie auf das Bildelement, das Sie bearbeiten möchten, klicken Sie auf das Zahnradsymbol und wählen Sie **Bearbeiten** aus.
 
    ![](assets/six.png)
 
@@ -67,11 +67,11 @@ E-Mails können vier verschiedene Elemente enthalten: Rich-Text, Bilder, Snippet
    >
    >Wenn Sie ein Marketo-Token verwenden möchten, verwenden Sie diese Option. Beachten Sie, dass bei Verwendung eines Tokens das Bild im Editor beschädigt erscheint, aber im Vorschaumodus und in der E-Mail zum Senden eines Beispiels gerendert wird.
 
-   Um eine externe URL zu verwenden, fügen Sie zuerst die URL des Bildes ein. Ändern Sie die Dimensionen entsprechend Ihren Anforderungen und fügen Sie einen Alternativtext hinzu (optional). Dann drücken Sie **Tauschen**.
+   Um eine externe URL zu verwenden, fügen Sie zuerst die URL des Bildes ein. Ändern Sie die Dimensionen entsprechend Ihren Anforderungen und fügen Sie einen Alternativtext hinzu (optional). Drücken Sie dann **Swap**.
 
    ![](assets/eight.png)
 
-   **Mein Computer**
+   **Arbeitsplatz**
 
    Um ein Bild von Ihrem Computer hochzuladen, klicken Sie auf **Durchsuchen**.
 
@@ -81,21 +81,21 @@ E-Mails können vier verschiedene Elemente enthalten: Rich-Text, Bilder, Snippet
 
    ![](assets/ten.png)
 
-   Ändern Sie die Dimensionen entsprechend Ihren Anforderungen, ändern Sie den ALT-Text (optional) und drücken Sie dann die Eingabetaste. **Tauschen**.
+   Ändern Sie die Dimensionen entsprechend Ihren Anforderungen, ändern Sie den ALT-Text (optional) und drücken Sie dann **Swap** .
 
    ![](assets/eleven.png)
 
    >[!NOTE]
    >
-   >Wenn Sie ein Bild ersetzen, müssen Sie die **Vorhandenes Bild überschreiben** , das unter der Bild-URL/-Namen angezeigt wird.
+   >Wenn Sie ein Bild ersetzen, müssen Sie das Feld **Vorhandenes Bild überschreiben** aktivieren, das unter der Bild-URL/-Namen angezeigt wird.
 
-   **Design-Studio**
+   **Design Studio**
 
    Wenn Sie ein Bild aus der Design Studio-Anwendung einfügen möchten, suchen Sie es einfach..
 
    ![](assets/twelve.png)
 
-   ... und fügen Sie es ein. Ändern Sie die Dimensionen entsprechend Ihren Anforderungen, ändern Sie den ALT-Text (optional) und drücken Sie dann die Eingabetaste. **Tauschen**.
+   ... und fügen Sie es ein. Ändern Sie die Dimensionen entsprechend Ihren Anforderungen, ändern Sie den ALT-Text (optional) und drücken Sie dann **Swap** .
 
    ![](assets/thirteen.png)
 
@@ -105,11 +105,11 @@ E-Mails können vier verschiedene Elemente enthalten: Rich-Text, Bilder, Snippet
 
    ![](assets/fourteen.png)
 
-1. Klicken Sie auf das Element &quot;Snippet&quot;, dann auf das Zahnradsymbol und wählen Sie **Bearbeiten**.
+1. Klicken Sie auf das Element &quot;Ausschnitt&quot;, dann auf das Zahnradsymbol und wählen Sie **Bearbeiten** aus.
 
    ![](assets/fifteen.png)
 
-1. Suchen Sie das Snippet, wählen Sie es aus und klicken Sie auf **Speichern**.
+1. Suchen Sie Ihr Snippet, wählen Sie es aus und klicken Sie auf **Speichern**.
 
    ![](assets/sixteen.png)
 
@@ -123,11 +123,11 @@ E-Mails können vier verschiedene Elemente enthalten: Rich-Text, Bilder, Snippet
 
    ![](assets/nineteen.png)
 
-1. Klicken Sie auf das Element Video , dann auf das Zahnradsymbol und wählen Sie **Bearbeiten**.
+1. Klicken Sie auf das Element Video , dann auf das Zahnradsymbol und wählen Sie **Bearbeiten** aus.
 
    ![](assets/twenty.png)
 
-1. Fügen Sie die Video-URL aus Vimeo oder YouTube ein. Klicken Sie dann in das URL-Feld, damit die Vorschau geladen werden kann. Ändern Sie die Dimensionen entsprechend Ihren Anforderungen, fügen Sie Alternativtext hinzu (optional) und drücken Sie dann die Eingabetaste. **Einfügen**.
+1. Fügen Sie die Video-URL aus Vimeo oder YouTube ein. Klicken Sie dann in das URL-Feld, damit die Vorschau geladen werden kann. Ändern Sie die Dimensionen entsprechend Ihren Anforderungen, fügen Sie ALT-Text hinzu (optional) und drücken Sie dann **Einfügen**.
 
    ![](assets/twentyone.png)
 

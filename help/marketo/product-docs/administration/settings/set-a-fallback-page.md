@@ -7,7 +7,7 @@ feature: Administration
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '67'
-ht-degree: 11%
+ht-degree: 0%
 
 ---
 
@@ -19,19 +19,19 @@ Fallback-Seiten sind die letzte Verteidigungslinie, wenn Ihre Landingpage offlin
 >
 >**Erforderliche Administratorberechtigungen**
 
-1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
+1. Wechseln Sie zum Bereich **[!UICONTROL Admin]** .
 
    ![](assets/set-a-fallback-page-1.png)
 
-1. Klicken Sie auf **[!UICONTROL Landing Pages]**.
+1. Klicken Sie auf **[!UICONTROL Landingpages]**.
 
    ![](assets/set-a-fallback-page-2.png)
 
-1. Unter dem **[!UICONTROL Landing Pages]** Registerkarte, klicken Sie auf **[!UICONTROL Bearbeiten]**.
+1. Klicken Sie auf der Registerkarte **[!UICONTROL Landingpages]** auf **[!UICONTROL Bearbeiten]**.
 
    ![](assets/set-a-fallback-page-3.png)
 
-1. Geben Sie einen **[!UICONTROL Fallback-Seite]** im Dialogfeld und klicken Sie auf **[!UICONTROL Speichern]**.
+1. Geben Sie eine **[!UICONTROL Fallback-Seite]** in das Dialogfeld ein und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/set-a-fallback-page-4.png)
 

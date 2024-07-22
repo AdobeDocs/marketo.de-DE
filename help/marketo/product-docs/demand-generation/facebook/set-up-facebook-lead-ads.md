@@ -6,14 +6,14 @@ exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
 feature: Integrations
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '316'
 ht-degree: 0%
 
 ---
 
 # Einrichten von Facebook-Lead-Anzeigen {#set-up-facebook-lead-ads}
 
-Verwendung [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) , um Anzeigenkampagnen in Facebook auszuführen und Leads für Marketo zu generieren.
+Verwenden Sie [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) , um Anzeigenkampagnen in Facebook auszuführen und Leads für Marketo zu generieren.
 
 >[!NOTE]
 >
@@ -23,15 +23,15 @@ Verwendung [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) , u
 >
 >Wenden Sie sich an das Adobe Account Team (Ihren Kundenbetreuer), um Facebook Lead Ads zu Ihrer Instanz hinzuzufügen.
 
-1. Navigieren zu Marketo **Admin**.
+1. Navigieren Sie zu Marketo **Admin**.
 
    ![](assets/image2016-11-29-10-3a50-3a29.png)
 
-1. Navigieren Sie zu **LaunchPoint**, klicken Sie auf **Neu,** und wählen **Neuer Dienst**.
+1. Wechseln Sie zu **LaunchPoint**, klicken Sie auf **Neu,** und wählen Sie **Neuer Dienst** aus.
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
-1. Geben Sie einen **Anzeigename** Wählen Sie für Ihren Dienst die **Facebook Lead Ads** Dienst aus der Dropdown-Liste aus und klicken Sie auf **Erstellen**.
+1. Geben Sie einen **Anzeigenamen** für Ihren Dienst ein, wählen Sie den Dienst **Facebook Lead Ads** aus der Dropdown-Liste aus und klicken Sie auf **Erstellen**.
 
    ![](assets/image2016-11-29-10-3a51-3a47.png)
 
@@ -43,19 +43,19 @@ Verwendung [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) , u
 
    ![](assets/image2016-11-29-10-3a52-3a29.png)
 
-1. Nachdem Sie sich bei Facebook angemeldet haben, kehren Sie zu Marketo zurück und klicken Sie auf **Autorisieren**.
+1. Nachdem Sie bei Facebook angemeldet sind, kehren Sie zu Marketo zurück und klicken Sie auf **Autorisieren**.
 
    ![](assets/image2016-11-29-10-3a52-3a51.png)
 
-1. Klicken Sie bei entsprechender Aufforderung auf **OK** , um die Installation der Marketo-App in Facebook zu akzeptieren.
+1. Klicken Sie bei Aufforderung auf **OK** , um die Installation der Marketo-App in Facebook zu akzeptieren.
 
    ![](assets/image2016-11-29-10-3a56-3a3.png)
 
-1. Du wirst feststellen, dass du jetzt autorisiert bist. Klicks **Nächste**.
+1. Du wirst feststellen, dass du jetzt autorisiert bist. Klicken Sie auf **Weiter**.
 
    ![](assets/image2016-11-29-10-3a56-3a28.png)
 
-1. Wählen Sie die Seiten aus, von denen Marketo Lead-Anzeigen von Facebook abrufen soll, und klicken Sie auf **Nächste**.
+1. Wählen Sie die Seiten aus, von denen Marketo Lead-Anzeigen von Facebook abrufen soll, und klicken Sie auf **Weiter**.
 
    >[!TIP]
    >
@@ -81,6 +81,6 @@ Verwendung [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) , u
 
 >[!MORELIKETHIS]
 >
->* [Berechtigungen in Leads Access Manager (Facebook) zuweisen/entfernen](https://www.facebook.com/business/help/540596413257598?id=735435806665862)
+>* [Zuweisen/Entfernen von Berechtigungen im Leads Access Manager (Facebook)](https://www.facebook.com/business/help/540596413257598?id=735435806665862)
 >* [Verwenden von Lead-Anzeigenfiltern und -Triggern in einer Smart-Kampagne](/help/marketo/product-docs/demand-generation/facebook/use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
 >* [Benutzerdefinierte Felder Marketo zuordnen](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)

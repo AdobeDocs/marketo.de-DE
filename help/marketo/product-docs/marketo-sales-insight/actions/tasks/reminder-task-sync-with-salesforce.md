@@ -14,7 +14,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->So erfahren Sie, wie Sie das Auschecken von Aufgaben aktivieren [Synchronisieren von Sales Insight-Aktionsaufgaben/-Erinnerungen mit Salesforce-Aufgaben](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md#sync-sales-insight-actions-tasks-reminders-to-salesforce-tasks).
+>Informationen zum Aktivieren der Aufgabensynchronisierung finden Sie unter [Aufgaben/Erinnerungen von Sales Insight-Aktionen mit Salesforce-Aufgaben synchronisieren](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md#sync-sales-insight-actions-tasks-reminders-to-salesforce-tasks).
 
 Sobald die Einstellungen für die Aufgabensynchronisierung aktiviert sind, sehen die Benutzer ihre Erinnerungsaufgaben bidirektional mit Salesforce synchronisiert. Dies bedeutet, dass Benutzer Aufgaben entweder über Salesforce- oder Sales Insight-Aktionen verwalten können und zuversichtlich sind, dass die Systeme aufeinander abgestimmt bleiben.
 
@@ -38,7 +38,7 @@ Nachstehend finden Sie eine Liste der Erinnerungsaufgaben-Felder in Sales Insigh
  <tr>
   <td>Status</td>
   <td>Aufgabenstatus</td>
-  <td><p>Zeigt den Status der Aufgabe an. Sales Insight-Aktionsaufgaben verfügen über zwei Status, die zwei der Werte in der Liste für den Status der Salesforce-Aufgaben zuordnen.</p>
+  <td><p>Zeigt den Status der Aufgabe an. Sales Insight-Aktionen haben zwei Status, die zwei der Werte in der Liste für den Aufgabenstatus der Salesforce zuordnen.</p>
   <p>Öffnen Sie in Sales Insight Actions = Not Started in Salesforce.</p>
   <p>Abgeschlossen in Sales Insight-Aktionen = Abgeschlossen in Salesforce.</p>
   <p>Die anderen Statuswerte in Salesforce werden nicht mit Sales Insight-Aktionen synchronisiert.</p></td>
@@ -63,7 +63,7 @@ Nachstehend finden Sie eine Liste der Erinnerungsaufgaben-Felder in Sales Insigh
 
 ## Synchronisieren von Sales Insight-Aktionsaufgaben mit Salesforce zum ersten Mal {#syncing-sales-insight-actions-tasks-with-salesforce-for-the-first-time}
 
-Wenn Sie die Synchronisierung zwischen Sales Insight-Aktionen und Salesforce-Aufgaben zum ersten Mal aktivieren, importieren wir Ihre Salesforce-Aufgaben. Wir werden **not** Übertragen Sie alle aktuellen Aufgaben, die Sie in Sales Insight-Aktionen haben, in Salesforce. Um Übersichtlichkeit und Duplikate zu reduzieren, werden nur Aufgaben erstellt, die aus Sales Insight-Aktionen in Salesforce synchronisiert werden *after* Sie synchronisieren Sales Insight-Aktionen mit SFDC.
+Wenn Sie die Synchronisierung zwischen Sales Insight-Aktionen und Salesforce-Aufgaben zum ersten Mal aktivieren, importieren wir Ihre Salesforce-Aufgaben. Wir übergeben alle aktuellen Aufgaben, die Sie in Sales Insight-Aktionen haben, **nicht** an Salesforce. Um Übersichtlichkeit und Duplikate zu reduzieren, sind die einzigen Aufgaben, die aus Sales Insight-Aktionen in Salesforce synchronisiert werden, Aufgaben, die *nach* Sie Sales Insight-Aktionen mit SFDC synchronisieren.
 
 Folgendes passiert, wenn Sie Sales Insight-Aktionen und SFDC-Aufgaben synchronisieren:
 
@@ -77,8 +77,8 @@ Folgendes passiert, wenn Sie Sales Insight-Aktionen und SFDC-Aufgaben synchronis
 
 Nach der ersten Synchronisierung werden alle Aufgaben, die Sie in Sales Insight-Aktionen erstellen, bearbeiten, abschließen oder löschen, mit Ihrer Aufgabenliste in Salesforce synchronisiert. Und alles, was in Salesforce erstellt, bearbeitet, abgeschlossen oder gelöscht wurde, aktualisiert Ihre Aufgabenliste in Sales Insight-Aktionen.
 
-Um diese Synchronisierung zu aktivieren, aktivieren Sie einfach das Synchronisierungsfeld in Ihrem [Einstellungsseite](https://toutapp.com/login) in der Webanwendung.
+Um diese Synchronisierung zu aktivieren, aktivieren Sie einfach das Kontrollkästchen &quot;Synchronisieren&quot;auf Ihrer [Einstellungsseite](https://toutapp.com/login) in der Webanwendung.
 
 >[!NOTE]
 >
->Das Betrefffeld einer Aufgabe kann in Sales Insight-Aktionen aktualisiert werden. Diese Aktualisierung wird im Salesforce-Betrefffeld für die entsprechende synchronisierte Aufgabe synchronisiert, wenn Sie die `{{activity_subject}}` dynamisches Feld in [Anpassung der Aktivitätsdetails](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md) -Einstellungen. Umgekehrt werden alle Aktualisierungen am Betrefffeld in Salesforce _not_ Synchronisieren Sie mit dem Erinnerungsbetreff der Aufgabe &quot;Sales Insight-Aktionen&quot;.
+>Das Betrefffeld einer Aufgabe kann in Sales Insight-Aktionen aktualisiert werden. Dieses Update wird für die entsprechende synchronisierte Aufgabe im Salesforce-Betrefffeld synchronisiert, wenn Sie das dynamische Feld `{{activity_subject}}` in Ihren Einstellungen für die [Anpassung der Aktivitätsdetails](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md) verwenden. Umgekehrt werden alle Aktualisierungen am Betrefffeld in Salesforce _nicht_ mit dem Erinnerungsbetreff für Sales Insight-Aktionen synchronisiert.

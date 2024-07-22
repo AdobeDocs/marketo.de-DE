@@ -6,8 +6,8 @@ exl-id: 79edf8cb-4d8b-440a-aa8a-6ead1a93b95a
 feature: Mobile Marketing
 source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '198'
-ht-degree: 2%
+source-wordcount: '199'
+ht-degree: 1%
 
 ---
 
@@ -22,19 +22,19 @@ Apps beginnen normalerweise in einer Sandbox-Umgebung, in der die erste Entwickl
 >
 >Nicht alle Marketo Engage-Benutzer haben diese Funktion erworben. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).
 
-1. Klicks **Admin**.
+1. Klicken Sie auf **Admin**.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. Klicks **Mobile Apps und Geräte**.
+1. Klicken Sie auf **Mobile Apps &amp; Geräte**.
 
    ![](assets/image2016-1-12-15-3a42-3a30.png)
 
-1. Klicks **Neue mobile App**.
+1. Klicken Sie auf **Neue mobile App**.
 
    ![](assets/image2015-4-22-16-3a17-3a15.png)
 
-1. Namen eingeben. Im **Typ** wählen Sie in der Dropdown-Liste den Umgebungstyp aus, den Sie verwenden: Sandbox oder Produktion. Klicken Sie auf **Speichern**.
+1. Geben Sie einen Namen ein. Wählen Sie in der Dropdown-Liste **Typ** den Umgebungstyp aus, den Sie verwenden: Sandbox oder Produktion. Klicken Sie auf **Speichern**.
 
    ![](assets/image2015-11-18-15-3a52-3a15.png)
 
@@ -46,5 +46,5 @@ Apps beginnen normalerweise in einer Sandbox-Umgebung, in der die erste Entwickl
 
 >[!MORELIKETHIS]
 >
->* [Konfigurieren des Push-Zugriffs für die mobile App Android](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md)
->* [Konfigurieren des Push-Zugriffs auf die Mobile App iOS](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md)
+>* [Konfigurieren des Push-Zugriffs auf die Mobile App Android für mobile Apps](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md)
+>* [Konfigurieren des Push-Zugriffs auf die Mobile App iOS für mobile Apps](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md)

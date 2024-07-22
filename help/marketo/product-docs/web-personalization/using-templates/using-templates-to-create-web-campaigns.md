@@ -7,23 +7,23 @@ feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '142'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 # Verwenden von Vorlagen zum Erstellen von Webkampagnen {#using-templates-to-create-web-campaigns}
 
-Beschleunigen und vereinfachen Sie den Erstellungsprozess von Webkampagnen mithilfe unserer integrierten Vorlagen oder durch [Speichern eigener](save-your-campaign-as-a-template.md).
+Beschleunigen und vereinfachen Sie den Erstellungsprozess Ihrer Web-Kampagne, indem Sie unsere integrierten Vorlagen verwenden oder [Ihre eigenen speichern](save-your-campaign-as-a-template.md).
 
 >[!NOTE]
 >
 >Vorlagen sind für alle Geräte und Browsing-Erlebnisse sowohl für Desktop- als auch für Mobilgeräte optimiert.
 
-1. Navigieren Sie zu **Web-Kampagnen**.
+1. Wechseln Sie zu **Web-Kampagnen**.
 
    ![](assets/web-campaigns-hand.jpg)
 
-1. Klicks **Neue Web-Kampagne erstellen**.
+1. Klicken Sie auf **Neue Webkampagne erstellen**.
 
    ![](assets/create-new-web-campaign-create-hand.jpg)
 
@@ -35,7 +35,7 @@ Beschleunigen und vereinfachen Sie den Erstellungsprozess von Webkampagnen mithi
 
    ![](assets/set-web-campaign-education.jpg)
 
-1. Klicks **Vorlagen**.
+1. Klicken Sie auf **Vorlagen**.
 
    ![](assets/templates.png)
 
@@ -49,13 +49,13 @@ Beschleunigen und vereinfachen Sie den Erstellungsprozess von Webkampagnen mithi
 
    >[!TIP]
    >
-   >Wählen Sie für mobile Kampagnen eine Vorlage aus dem **mobile** Abschnitt.
+   >Wählen Sie für mobile Kampagnen eine Vorlage aus dem Abschnitt **mobile** aus.
 
 1. Anpassen der Vorlage.
 
    ![](assets/customize-template.jpg)
 
-1. Klicks **Speichern**.
+1. Klicken Sie auf **Speichern**.
 
    ![](assets/click-save-hand.jpg)
 

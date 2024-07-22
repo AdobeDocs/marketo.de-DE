@@ -7,7 +7,7 @@ feature: Field Management
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '91'
-ht-degree: 5%
+ht-degree: 0%
 
 ---
 
@@ -17,18 +17,18 @@ ht-degree: 5%
 >
 >**Erforderliche Administratorberechtigungen**
 
-Sie können ein zuvor erstelltes Feld entfernen, wenn Sie es nicht mehr verwenden. Leider können Sie Felder in Marketo nicht löschen, aber Sie _can_ sie in der Benutzeroberfläche ausblenden.
+Sie können ein zuvor erstelltes Feld entfernen, wenn Sie es nicht mehr verwenden. Leider ist es nicht möglich, Felder in Marketo zu löschen, aber Sie können sie _in_ in der Benutzeroberfläche ausblenden.
 
-1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
+1. Wechseln Sie zum Bereich **[!UICONTROL Admin]** .
 
    ![](assets/delete-a-custom-field-in-marketo-1.png)
 
-1. Klicks **[!UICONTROL Feldverwaltung]**.
+1. Klicken Sie auf **[!UICONTROL Feldverwaltung]**.
 
    ![](assets/delete-a-custom-field-in-marketo-2.png)
 
-1. Klicken Sie auf **[!UICONTROL Feldaktionen]** und wählen Sie **[!UICONTROL Feld ausblenden]**.
+1. Klicken Sie auf die Dropdownliste **[!UICONTROL Feldaktionen]** und wählen Sie **[!UICONTROL Feld ausblenden]** aus.
 
    ![](assets/delete-a-custom-field-in-marketo-3.png)
 
-   Detaillierte Anweisungen finden Sie unter [Ein- und Ausblenden eines Felds](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md).
+   Detaillierte schrittweise Anweisungen finden Sie unter [Ein Feld ein- und ausblenden](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md).

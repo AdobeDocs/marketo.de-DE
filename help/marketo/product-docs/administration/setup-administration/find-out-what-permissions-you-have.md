@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Wenn Sie sich fragen, welche Berechtigungen Sie in Marketo haben oder nicht, können Sie es einfach herausfinden.
 
-1. Navigieren Sie zu **[!UICONTROL Marketingaktivitäten]**.
+1. Wechseln Sie zu **[!UICONTROL Marketingaktivitäten]**.
 
    ![](assets/find-out-what-permissions-you-have-1.png)
 
-1. Klicks **[!UICONTROL Vollständiger Zugriff]** um die Berechtigungen anzuzeigen, die Sie haben.
+1. Klicken Sie auf **[!UICONTROL Vollständiger Zugriff]** , um die Berechtigungen anzuzeigen, die Sie haben.
 
    ![](assets/find-out-what-permissions-you-have-2.png)
 

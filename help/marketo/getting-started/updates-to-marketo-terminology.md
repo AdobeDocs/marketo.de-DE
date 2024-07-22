@@ -71,15 +71,15 @@ In einigen Fällen wird das Wort &quot;Lead&quot;einfach entfernt.
  </tbody> 
 </table>
 
-Lead und Person **das gleiche**.
+Lead und Person **sind dasselbe**.
 
 ## Token {#tokens}
 
-Token mit dem Wort &quot;Lead&quot; **sich nicht ändern**. Wir entschuldigen uns für jede Verwirrung. Eine Änderung aller Token an die neue Terminologie würde jedoch viele der derzeit verwendeten Token beschädigen. Daher werden weiterhin Token wie &quot;`{{lead.First Name}}`.&quot; Es gibt keine personenspezifischen Token.
+Token mit dem Wort Lead in ihnen **ändern sich nicht**. Wir entschuldigen uns für jede Verwirrung. Eine Änderung aller Token an die neue Terminologie würde jedoch viele der derzeit verwendeten Token beschädigen. Sie sehen also weiterhin Token wie &quot;`{{lead.First Name}}`&quot;. Es gibt keine personenspezifischen Token.
 
 >[!NOTE]
 >
->Dort *is* Ein Token namens &quot;Personnotes&quot;, aber dieses Token war immer vorhanden. Sie wird normalerweise für ein Beschreibungsfeld in Ihrem CRM-System verwendet, wenn überhaupt.
+>Es gibt *s* ein Token mit dem Namen &quot;Personennotizen&quot;, dieses Token war jedoch immer vorhanden. Sie wird normalerweise für ein Beschreibungsfeld in Ihrem CRM-System verwendet, wenn überhaupt.
 
 ## Feldverwaltung {#field-management}
 
@@ -112,7 +112,7 @@ Felder, die den Begriff &quot;Lead&quot;enthielten, wurden entweder durch &quot;
 >
 >Eine vollständige Liste der betroffenen Feldnamen finden Sie in diesem [Support-Artikel](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens){target="_blank"}.
 
-## Echtzeit-Personalisierung (RTP) ist jetzt Web-Personalisierung {#real-time-personalization-rtp-is-now-web-personalization}
+## Echtzeit-Personalization (RTP) ist jetzt Web Personalization {#real-time-personalization-rtp-is-now-web-personalization}
 
 <table> 
  <colgroup> 
@@ -139,11 +139,11 @@ Felder, die den Begriff &quot;Lead&quot;enthielten, wurden entweder durch &quot;
 
 Zusätzlich zur Namensänderung besteht sie jetzt aus vier separaten Apps:
 
-| **[Web-Personalisierung](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP){target="_blank"}** | Hat eine eigene Kachel auf dem Startbildschirm |
+| **[Web Personalization](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP){target="_blank"}** | Hat eine eigene Kachel auf dem Startbildschirm |
 |---|---|
-| **[Kontobasiertes Webmarketing](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing){target="_blank"}** | Zugriff über die Kachel Web-Personalisierung |
-| **[Personalisiertes Retargeting](https://docs.marketo.com/display/DOCS/Website+Retargeting){target="_blank"}** | Zugriff über die Kachel Web-Personalisierung |
-| **[Prädiktive Inhalte](https://docs.marketo.com/display/DOCS/Predictive+Content){target="_blank"}** | Hat eine eigene Kachel auf dem Startbildschirm |
+| **[Kontobasiertes Webmarketing](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing){target="_blank"}** | Zugriff über Web Personalization-Kachel |
+| **[Personalisiertes Retargeting](https://docs.marketo.com/display/DOCS/Website+Retargeting){target="_blank"}** | Zugriff über Web Personalization-Kachel |
+| **[Prädiktiver Inhalt](https://docs.marketo.com/display/DOCS/Predictive+Content){target="_blank"}** | Hat eine eigene Kachel auf dem Startbildschirm |
 
 >[!NOTE]
 >

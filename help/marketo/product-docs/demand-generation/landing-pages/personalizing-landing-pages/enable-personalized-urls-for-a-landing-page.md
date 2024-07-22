@@ -17,13 +17,13 @@ Personalisierte URLs eignen sich hervorragend für Druckpost-Kampagnen.
 
 >[!PREREQUISITES]
 >
->[Personalisierte URLs für Ihr Konto aktivieren](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
+>[Aktivieren Sie personalisierte URLs für Ihr Konto](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
 
 1. Wählen Sie eine Landingpage aus und klicken Sie auf Einstellungen für **Personalisierte URL**.
 
    ![](assets/image2014-9-18-13-3a24-3a3.png)
 
-1. Jetzt können Sie **Personalisierte URLs aktivieren** und klicken **Speichern**.
+1. Jetzt können Sie **Personalisierte URLs aktivieren** aktivieren und auf **Speichern** klicken.
 
    ![](assets/image2014-9-18-13-3a23-3a53.png)
 

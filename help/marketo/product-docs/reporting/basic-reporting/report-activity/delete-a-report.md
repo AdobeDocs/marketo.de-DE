@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Einen Bericht löschen {#delete-a-report}
 
-Sobald Sie beginnen [Erstellen von Berichten](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), können Sie schnell viele davon bekommen. Denken Sie daran, nicht mehr benötigte Berichte zu löschen.
+Sobald Sie [ Berichte erstellen](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), können Sie viele davon schnell finden. Denken Sie daran, nicht mehr benötigte Berichte zu löschen.
 
-1. Klicken Sie mit der rechten Maustaste auf den nicht benötigten Bericht in der Baumstruktur und wählen Sie **Bericht löschen**.
+1. Klicken Sie mit der rechten Maustaste auf den nicht benötigten Bericht im Baum und wählen Sie **Bericht löschen** aus.
 
    ![](assets/image2014-9-16-14-3a26-3a48.png)
 

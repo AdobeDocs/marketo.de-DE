@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Anhalten von Personen im Rahmen eines Interaktionsprogramms {#pause-people-in-an-engagement-program}
 
-Wenn eine Person Mitglied eines Interaktionsprogramms ist, erhält sie Inhalte, bis sie [erschöpft alle Inhalte](people-who-have-exhausted-content.md). Sie können die [Ändern der Interaktionsprogrammkadenz](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md) Fluss -Schritt, um zu verhindern, dass Personen Inhalte empfangen, selbst wenn diese noch nicht alle Inhalte enthalten.
+Wenn eine Person Mitglied eines Interaktionsprogramms ist, erhält sie Inhalte, bis sie [alle Inhalte ausgeschöpft hat](people-who-have-exhausted-content.md). Sie können den Flussschritt [Interaktionsprogramm ändern - Kadenz](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md) verwenden, um zu verhindern, dass Personen Inhalte empfangen, selbst wenn diese noch nicht alle Inhalte erhalten haben.
 
 1. Wählen Sie das Interaktionsprogramm aus.
 
    ![](assets/image2014-9-22-14-3a49-3a27.png)
 
-1. Auswählen **Angehalten** als **Neuer Wert** um die Person daran zu hindern, Inhalte zu empfangen.
+1. Wählen Sie **Ausgesetzt** als den **neuen Wert** aus, um zu verhindern, dass die Person Inhalte erhält.
 
    ![](assets/image2014-9-22-14-3a49-3a31.png)
 
-   Sie können die Person auf **Normal** , wenn Sie möchten, dass sie Inhalte erneut erhalten. Sie werden dort wieder aufgenommen, wo sie aufgehört haben.
+   Sie können die Person wieder auf **Normal** setzen, wenn Sie möchten, dass sie Inhalte erneut erhält. Sie werden dort wieder aufgenommen, wo sie aufgehört haben.
 
    >[!NOTE]
    >

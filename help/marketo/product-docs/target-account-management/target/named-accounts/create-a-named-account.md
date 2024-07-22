@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Führen Sie diese Schritte aus, um manuell ein benanntes Konto zu erstellen.
 
-1. Klicken Sie in &quot;Spezifische Konten&quot;auf die **Neu** und wählen Sie **Spezifisches Konto erstellen**.
+1. Klicken Sie in &quot;Spezifische Konten&quot;auf die Dropdownliste **Neu** und wählen Sie **Spezifisches Konto erstellen** aus.
 
    ![](assets/two-1.png)
 

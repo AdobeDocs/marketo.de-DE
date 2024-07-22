@@ -15,31 +15,31 @@ ht-degree: 0%
 
 Was ist, wenn Sie im Namen des Lead-Eigentümers eine E-Mail an einen Lead senden möchten?  So geht es.
 
-1. E-Mail suchen, auswählen und klicken **Entwurf bearbeiten**.
+1. Suchen Sie Ihre E-Mail, wählen Sie sie aus und klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/one.png)
 
-1. Klicken Sie in der **Von** ein (löschen Sie einen vorhandenen Namen) und klicken Sie auf die Schaltfläche **Token einfügen** Schaltfläche.
+1. Klicken Sie in das Feld **Von** (löschen Sie einen vorhandenen Namen) und klicken Sie auf die Schaltfläche **Token einfügen** .
 
    ![](assets/two.png)
 
-1. Eingabe beginnen`{{lead.Lead Owner`&quot; und wählen Sie die **`{{lead.Lead Owner First Name}}`** Token.
+1. Geben Sie &quot;`{{lead.Lead Owner`&quot; ein und wählen Sie das **`{{lead.Lead Owner First Name}}`** -Token aus.
 
    ![](assets/image2014-9-11-13-3a7-3a43.png)
 
-1. Geben Sie einen Standardwert ein, falls der Lead noch keinen Lead-Eigentümer hat, und klicken Sie auf **Einfügen**.
+1. Geben Sie einen Standardwert ein, falls der Lead noch keinen Lead-Besitzer hat, und klicken Sie auf **Einfügen**.
 
    ![](assets/image2014-9-11-13-3a7-3a58.png)
 
-1. Klicken Sie nach dem ersten Token auf , fügen Sie ein Leerzeichen hinzu und klicken Sie dann auf das **Token einfügen** Schaltfläche.
+1. Klicken Sie nach dem ersten Token auf , fügen Sie ein Leerzeichen hinzu und klicken Sie dann auf die Schaltfläche **Token einfügen** .
 
    ![](assets/five.png)
 
-1. Eingabe beginnen`{{lead.Lead Owner`&quot; und wählen Sie die **`{{lead.Lead Owner Last Name}}`** Token.
+1. Geben Sie &quot;`{{lead.Lead Owner`&quot; ein und wählen Sie das **`{{lead.Lead Owner Last Name}}`** -Token aus.
 
    ![](assets/image2014-9-11-13-3a8-3a24.png)
 
-1. Geben Sie einen Standardwert ein, falls der Lead noch keinen Lead-Eigentümer hat, und klicken Sie auf **Einfügen**.
+1. Geben Sie einen Standardwert ein, falls der Lead noch keinen Lead-Besitzer hat, und klicken Sie auf **Einfügen**.
 
    ![](assets/image2014-9-11-13-3a8-3a39.png)
 
@@ -51,14 +51,14 @@ Was ist, wenn Sie im Namen des Lead-Eigentümers eine E-Mail an einen Lead sende
 
    ![](assets/eight.png)
 
-1. Eingabe beginnen`{{lead.Lead Owner`&quot; und wählen Sie die **`{{lead.Lead Owner Email Address}}`** Token.
+1. Geben Sie &quot;`{{lead.Lead Owner`&quot; ein und wählen Sie das **`{{lead.Lead Owner Email Address}}`** -Token aus.
 
    ![](assets/image2014-9-11-13-3a9-3a33.png)
 
-1. Geben Sie einen Standardwert ein, falls der Lead noch keinen Lead-Eigentümer hat, und klicken Sie auf **Einfügen**.
+1. Geben Sie einen Standardwert ein, falls der Lead noch keinen Lead-Besitzer hat, und klicken Sie auf **Einfügen**.
 
    ![](assets/ten.png)
 
-1. Stellen Sie sicher, dass **Antwort** und **Betreff** -Felder werden ausgefüllt und Sie sind fertig!
+1. Stellen Sie sicher, dass die Felder **Antwort auf** und **Betreff** ausgefüllt sind und Sie fertig sind!
 
    ![](assets/eleven.png)

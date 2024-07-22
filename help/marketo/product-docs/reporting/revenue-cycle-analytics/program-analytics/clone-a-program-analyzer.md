@@ -15,19 +15,19 @@ ht-degree: 0%
 
 Nachdem Sie einen Analyzer gespeichert haben, ist es einfach, ihn zu klonen, um einen neuen zu erstellen. Öffnen Sie dann das neue und bearbeiten Sie es, wenn es Änderungen erfordert.
 
-1. Klicken Sie auf **Analytics** Kachel.
+1. Klicken Sie auf die Kachel **Analytics** .
 
    ![](assets/2017-05-01-08-20-37.png)
 
-1. Klicken Sie auf **Programm-Analyzer** Kachel.
+1. Klicken Sie auf die Kachel **Programm-Analyzer** .
 
    ![](assets/program-analyzer-icon-hand.png)
 
-1. Öffnen Sie bei geöffnetem gespeicherten Analyzer das Dropdown-Menü Analyzer-Aktionen und wählen Sie **Clone Analyzer**.
+1. Wenn der gespeicherte Analyzer geöffnet ist, öffnen Sie das Dropdown-Menü Analyzer-Aktionen und wählen Sie **Analyzer klonen** aus.
 
    ![](assets/image2016-10-31-16-3a12-3a6.png)
 
-1. Wählen Sie den Speicherort für den geklonten Analyzer aus dem **Klonen zu** und **Ordner** Dropdown-Liste.
+1. Wählen Sie den Speicherort für den geklonten Analyzer aus den Dropdown-Listen **Klon bis** und **Ordner** aus.
 
    ![](assets/image2016-10-31-16-3a13-3a42.png)
 
@@ -41,4 +41,4 @@ Nachdem Sie einen Analyzer gespeichert haben, ist es einfach, ihn zu klonen, um 
 
    >[!MORELIKETHIS]
    >
-   >[Programm-Analyzer erstellen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
+   >[Erstellen eines Programm-Analyzers](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)

@@ -15,15 +15,15 @@ ht-degree: 0%
 
 ## Erstellen eines Unterteams {#create-a-sub-team-1}
 
-1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen**.
+1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
 
    ![](assets/one-1.png)
 
-1. Wählen Sie unter Admin Settings die Option **Team-Management**.
+1. Wählen Sie unter &quot;Admin Settings&quot;die Option **Team Management**.
 
    ![](assets/two-1.png)
 
-1. Klicken Sie neben Alle Teams auf die Schaltfläche **+**.
+1. Klicken Sie neben &quot;Alle Teams&quot;auf &quot;**+**&quot;.
 
    ![](assets/three-1.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 ## Personen zu Ihrem Unterteam hinzufügen {#add-people-to-your-sub-team}
 
-1. Wählen Sie im Team Management weiterhin die Option **Alle** hinzugefügt.
+1. Wählen Sie im Team Management weiterhin die Gruppe **Alle** aus.
 
    ![](assets/five-1.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    ![](assets/six.png)
 
-1. Klicks **Auswahl zu Teams hinzufügen**.
+1. Klicken Sie auf **Ausgewählte Teams hinzufügen**.
 
    ![](assets/seven.png)
 
@@ -53,6 +53,6 @@ ht-degree: 0%
 
    ![](assets/eight.png)
 
-1. Klicks **Hinzufügen zu Teams** wann geschehen.
+1. Klicken Sie abschließend auf **Zu Teams hinzufügen** .
 
    ![](assets/nine.png)

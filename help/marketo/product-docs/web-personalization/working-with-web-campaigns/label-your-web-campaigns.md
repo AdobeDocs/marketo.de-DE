@@ -17,7 +17,7 @@ Haben Sie so viele Kampagnen, dass das Scrollen umständlich wird? Verwenden Sie
 
 ## Einen Titel zu einer Webkampagne hinzufügen {#add-a-label-to-a-web-campaign}
 
-1. Melden Sie sich bei Web-Personalisierung an und wechseln Sie zum Bereich Web-Kampagnen .
+1. Melden Sie sich bei Web Personalization an und wechseln Sie zum Bereich Web-Kampagnen .
 
    ![](assets/web-campaigns-hand.jpg)
 
@@ -51,4 +51,4 @@ Cool! Jetzt wissen Sie, wie Sie Titel erstellen und Kampagnen zuweisen können.
 
 >[!MORELIKETHIS]
 >
->[Segment beschriften](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)
+>[Ein Segment beschriften](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)

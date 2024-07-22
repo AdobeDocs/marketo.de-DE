@@ -5,7 +5,7 @@ title: Marketo-Sandbox
 exl-id: c040fac6-2290-4de5-b27d-2c7cb28f6e30
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '316'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,9 @@ Eine Marketo-Sandbox kann nicht mit Ihrem regulären CRM-System synchronisiert w
 ## Wissenswertes über Sandboxes {#things-to-know-about-sandboxes}
 
 * Nachdem das Adobe Account Team Ihre Sandbox eingerichtet hat und Ihnen die Einladung übermittelt hat, müssen Sie sich mit einer anderen E-Mail-Adresse anmelden als mit Ihrer Marketo-Produktionsinstanz.
-* Wenn Sie Benutzer hinzufügen möchten, ist der Prozess identisch mit [Hinzufügen von Benutzern in der Produktion](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md#create-users). Auch hier müssen sie eine andere E-Mail-Adresse verwenden, wenn sie bereits über eine Marketo-Anmeldung verfügen.
+* Wenn Sie Benutzer hinzufügen möchten, ist der Prozess identisch mit dem Hinzufügen von [Benutzern in der Produktion](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md#create-users). Auch hier müssen sie eine andere E-Mail-Adresse verwenden, wenn sie bereits über eine Marketo-Anmeldung verfügen.
 * Ihre Marketo-Sandbox beginnt leer, verfügt jedoch über dieselben Funktionen wie Ihre Produktionsinstanz.
-* Wenn Sie ein Programm in Ihrer Sandbox erstellen und in die Produktion verschieben möchten, können Sie eine [Programmimport](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md).
+* Wenn Sie ein Programm in Ihrer Sandbox erstellen und in die Produktion verschieben möchten, können Sie einen [Programmimport](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md) durchführen.
 * Sandboxes werden gedrosselt, sodass Produktionsinstanzen von Testumgebungen nicht beeinträchtigt werden. Pro Kampagnenablauf können bis zu 20 E-Mails gesendet werden.
 
 >[!CAUTION]
@@ -34,7 +34,7 @@ Eine Marketo-Sandbox kann nicht mit Ihrem regulären CRM-System synchronisiert w
 
 ## Instanz kopieren {#instance-copy}
 
-Sie können einen Support-Fall senden, der eine einmalige Instanzkopie anfordert, um Ihre Sandbox zu füllen. Die Instanzkopie wird nicht übertragen _alles_, jedoch. Lesen Sie [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support) für Details.
+Sie können einen Support-Fall senden, der eine einmalige Instanzkopie anfordert, um Ihre Sandbox zu füllen. Die Instanzkopie überträgt jedoch nicht _alles_. Weitere Informationen finden Sie unter [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support) .
 
 >[!NOTE]
 >

@@ -17,17 +17,17 @@ Das Hinzufügen eines benannten Kontos zu einer Kontoliste ist einfach.
 
 >[!NOTE]
 >
->Dies gilt nur für Kontolisten, **not** Dynamische Kontolisten
+>Dies gilt nur für Kontolisten, nicht für dynamische Kontolisten **.**
 
 1. Wählen Sie die Zeile des benannten Kontos aus, dem Sie hinzufügen möchten.
 
    ![](assets/four-1.png)
 
-1. Klicken Sie auf **Spezifische Kontoaktionen** und wählen Sie **Hinzufügen zur Kontoliste**.
+1. Klicken Sie auf das Dropdown-Menü **Aktionen für benannte Konten** und wählen Sie **Zu Kontoliste hinzufügen** aus.
 
    ![](assets/five-1.png)
 
-1. Klicken Sie auf **Kontoliste** in der Dropdown-Liste, wählen Sie die gewünschte Kontoliste aus und klicken Sie auf **Hinzufügen**.
+1. Klicken Sie auf das Dropdown-Menü **Kontoliste**, wählen Sie die gewünschte Kontoliste aus und klicken Sie auf **Hinzufügen**.
 
    ![](assets/six-1.png)
 

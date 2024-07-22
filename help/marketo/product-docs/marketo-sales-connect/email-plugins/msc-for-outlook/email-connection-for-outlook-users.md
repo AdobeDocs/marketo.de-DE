@@ -6,7 +6,7 @@ exl-id: e694915c-39a6-4476-a643-080acb758de7
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '356'
 ht-degree: 1%
 
 ---
@@ -23,27 +23,27 @@ Erfahren Sie, wie Sie Ihr Sales Connect-Konto mit Outlook verbinden.
 
 Die Verbindung mit Outlook bedeutet, dass Sie Antwort-Tracking, Zugriff auf den Kanal Outlook-Versand, die Möglichkeit, E-Mails in Outlook zu planen und die Einhaltung von Vorschriften zu senden, erhalten.
 
-1. Klicken Sie in Sales Connect auf das Zahnradsymbol und wählen Sie **Einstellungen**.
+1. Klicken Sie in Sales Connect auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
 
    ![](assets/one.png)
 
-1. Wählen Sie unter Mein Konto die Option **E-Mail-Einstellungen**.
+1. Wählen Sie unter Mein Konto die Option **E-Mail-Einstellungen** aus.
 
    ![](assets/two.png)
 
-1. Klicken Sie auf **Email Connection** Registerkarte.
+1. Klicken Sie auf den Tab **E-Mail-Verbindung** .
 
    ![](assets/three.png)
 
-1. Klicks **Erste Schritte**.
+1. Klicken Sie auf **Erste Schritte**.
 
    ![](assets/four.png)
 
-1. Auswählen **Ich verwende Outlook zum Senden von E-Mails** und klicken **Nächste**.
+1. Wählen Sie **Ich verwende Outlook zum Senden von E-Mails** und klicken Sie auf **Weiter**.
 
    ![](assets/five-a.png)
 
-1. Wählen Sie die Version von Outlook aus, die Sie verwenden, und klicken Sie auf **Nächste**. In diesem Beispiel wählen wir Outlook Online.
+1. Wählen Sie die Version von Outlook aus, die Sie verwenden, und klicken Sie auf **Weiter**. In diesem Beispiel wählen wir Outlook Online.
 
    ![](assets/six-a.png)
 
@@ -64,15 +64,15 @@ Die Verbindung mit Outlook bedeutet, dass Sie Antwort-Tracking, Zugriff auf den 
    >
    >Marketo unterstützt derzeit keine Exchange Hybrid-Konten.
 
-1. Klicks **OK**.
+1. Klicken Sie auf **OK**.
 
    ![](assets/seven-a.png)
 
-1. Wenn Sie nicht bei Outlook angemeldet sind, geben Sie Ihre Anmeldedaten ein und klicken Sie auf **Nächste**. Wählen Sie das Konto, mit dem Sie eine Verbindung herstellen möchten, und klicken Sie auf **Nächste**. In diesem Beispiel sind wir bereits angemeldet.
+1. Wenn Sie nicht bei Outlook angemeldet sind, geben Sie Ihre Anmeldeinformationen ein und klicken Sie auf **Weiter**. Wenn Sie dies tun, wählen Sie das Konto aus, mit dem Sie eine Verbindung herstellen möchten, und klicken Sie auf **Weiter**. In diesem Beispiel sind wir bereits angemeldet.
 
    ![](assets/eight-a.png)
 
-1. Klicks **Accept**.
+1. Klicken Sie auf **Accept**.
 
    ![](assets/nine-a.png)
 
@@ -80,33 +80,33 @@ Die Verbindung mit Outlook bedeutet, dass Sie Antwort-Tracking, Zugriff auf den 
 
    >[!NOTE]
    >
-   >Outlook Online (Office365) erzwingt eigene Versandbeschränkungen. [Weitere Informationen hier](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits).
+   >Outlook Online (Office365) erzwingt eigene Versandbeschränkungen. [Weitere Informationen finden Sie hier](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits).
 
 ## Verbindung zu Exchange On-Premise herstellen {#connecting-to-exchange-on-premise}
 
 Eine Verbindung zu Exchange On-Premise bedeutet, dass Sie Antwort-Tracking, Zugriff auf den Kanal Outlook-Versand, die Möglichkeit zur Planung von E-Mails in Outlook und die Einhaltung von Richtlinien erhalten.
 
-1. Klicken Sie in Sales Connect auf das Zahnradsymbol und wählen Sie **Einstellungen**.
+1. Klicken Sie in Sales Connect auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
 
    ![](assets/one.png)
 
-1. Wählen Sie unter Mein Konto die Option **E-Mail-Einstellungen**.
+1. Wählen Sie unter Mein Konto die Option **E-Mail-Einstellungen** aus.
 
    ![](assets/two.png)
 
-1. Klicken Sie auf **Email Connection** Registerkarte.
+1. Klicken Sie auf den Tab **E-Mail-Verbindung** .
 
    ![](assets/three.png)
 
-1. Klicks **Erste Schritte**.
+1. Klicken Sie auf **Erste Schritte**.
 
    ![](assets/four.png)
 
-1. Auswählen **Ich verwende Outlook zum Senden von E-Mails** und klicken **Nächste**.
+1. Wählen Sie **Ich verwende Outlook zum Senden von E-Mails** und klicken Sie auf **Weiter**.
 
    ![](assets/five-a.png)
 
-1. Wählen Sie die Version von Outlook aus, die Sie verwenden, und klicken Sie auf **Nächste**. In diesem Beispiel wählen wir Exchange On-Premise.
+1. Wählen Sie die Version von Outlook aus, die Sie verwenden, und klicken Sie auf **Weiter**. In diesem Beispiel wählen wir Exchange On-Premise.
 
    ![](assets/six-b.png)
 

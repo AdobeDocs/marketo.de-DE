@@ -6,7 +6,7 @@ exl-id: de3aca5a-08b4-4af8-ab92-675cb46dcbb2
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '600'
+source-wordcount: '602'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Für viele Anwendungsfälle ist die Erweiterung der standardmäßigen Systemdime
 
 ## Warum kann ich benutzerdefinierte Dimension-Slots nicht erneut verwenden, nachdem sie zugewiesen wurden? {#why-cant-i-re-use-custom-dimensions-slots-after-theyve-been-assigned}
 
-Nachdem ein bestimmter Benutzerdefinierter Dimension-Slot zugewiesen wurde, führt eine Neukodifizierung dazu, dass frühere Daten einen Fehler auslösen, wenn sie mit einer neuen Bedeutung gemischt werden. Aus diesem Grund können benutzerdefinierte Dimension-Slots möglicherweise nicht wiederverwendet werden. Dieses Verhalten entspricht dem anderer Metrikanalysetools wie Google Analytics.
+Nachdem ein bestimmter Benutzerdefinierter Dimension-Slot zugewiesen wurde, führt eine Neukodifizierung dazu, dass frühere Daten einen Fehler auslösen, wenn sie mit einer neuen Bedeutung gemischt werden. Aus diesem Grund können benutzerdefinierte Dimension-Slots möglicherweise nicht wiederverwendet werden. Dieses Verhalten entspricht dem anderer Metrikanalysetools, z. B. Google Analytics.
 
 ## Unterstützt Email Insights Marketo Sales Insight-E-Mails? {#does-email-insights-support-marketo-sales-insight-emails}
 

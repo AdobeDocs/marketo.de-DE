@@ -6,8 +6,8 @@ exl-id: c0fa5408-4b4f-4981-b4ba-20f40c475244
 feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '278'
-ht-degree: 2%
+source-wordcount: '289'
+ht-degree: 0%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 2%
 
 ![](assets/image2014-9-17-21-3a52-3a3.png)
 
-Die Seite [!UICONTROL Optimierungsbewertung] ist ein allgemeines Ranking, wie gut Ihre Seite für die Suche optimiert ist, mit einer Skala von 1 bis 100. Es basiert auf Dutzenden von Best Practices in SEO.
+Die Seite [!UICONTROL Optimierungsbewertung] ist ein allgemeines Ranking der Optimierung Ihrer Seite für die Suche im Maßstab 1 bis 100. Es basiert auf Dutzenden von Best Practices in SEO.
 
 * 0 - 35 = Nicht gut optimiert
 * 35 - 70 = Auf dem richtigen Weg
@@ -25,11 +25,11 @@ Die Seite [!UICONTROL Optimierungsbewertung] ist ein allgemeines Ranking, wie gu
 
 >[!TIP]
 >
->Klicken Sie auf [!UICONTROL Hohe Auswirkung] -Link in [!UICONTROL Aufgaben] -Feld, werden Sie zum [!UICONTROL Registerkarte &quot;Probleme&quot;] und zeigen Ihnen, welche Probleme mit hoher Priorität gelöst werden müssen.
+>Klicken Sie auf den Link [!UICONTROL Hohe Auswirkung] im Feld [!UICONTROL Zu tun]. Dadurch werden Sie zur Registerkarte [!UICONTROL Probleme] weitergeleitet und Ihnen werden Probleme mit hoher Priorität angezeigt, die gelöst werden müssen.
 
-## [!UICONTROL Seiten] Registerkarte {#pages-tab}
+## Registerkarte [!UICONTROL Seiten] {#pages-tab}
 
-Die **[!UICONTROL Seiten] tab** zeigt an, wie gut einzelne Seiten auf Ihrer Site für die Suche optimiert sind.
+Die Registerkarte **[!UICONTROL Seiten]** zeigt an, wie gut einzelne Seiten auf Ihrer Site für die Suche optimiert sind.
 
 ![](assets/image2014-9-17-21-3a52-3a41.png)
 
@@ -38,11 +38,11 @@ Die **[!UICONTROL Seiten] tab** zeigt an, wie gut einzelne Seiten auf Ihrer Site
 | [!UICONTROL Titel] | Titel und URL aller Seiten in Ihrer Domäne. Überprüfen Sie Ihre Domäne. |
 | [!UICONTROL Optimierungsbewertung] | Die geheime Soße, die Ihnen zeigt, wie gut Ihre Seite für die Suche auf einer Skala von 1 bis 100 optimiert ist. |
 | [!UICONTROL Links] | Anzahl der verschiedenen Domänen mit mindestens einem eingehenden Link zu Ihrer Site. |
-| [!UICONTROL Target-Suchbegriffe] | Die Suchbegriffe, für die Sie die einzelnen Seiten optimieren möchten. [Dies erfordert Ihre Eingabe](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md). |
+| [!UICONTROL Target-Keywords] | Die Suchbegriffe, für die Sie die einzelnen Seiten optimieren möchten. [Dies erfordert Ihre Eingabe](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md). |
 
-## [!UICONTROL Probleme] Registerkarte {#issues-tab}
+## Registerkarte [!UICONTROL Probleme] {#issues-tab}
 
-Die **[!UICONTROL Probleme] tab** ermittelt, welche Verbesserungen Sie vornehmen können, um Ihren Optimierungswert und -rang zu erhöhen.
+Auf der Registerkarte **[!UICONTROL Probleme]** erfahren Sie, welche Verbesserungen Sie vornehmen können, um Ihren Optimierungswert und -rang zu erhöhen.
 
 ![](assets/image2014-9-17-21-3a53-3a15.png)
 
@@ -53,4 +53,4 @@ Die **[!UICONTROL Probleme] tab** ermittelt, welche Verbesserungen Sie vornehmen
 | [!UICONTROL Kategorie] | Die Art des gemeldeten Problems. |
 | [!UICONTROL Status] | Ist die Aufgabe abgeschlossen oder ist noch geöffnet. Sobald Sie und Ihr Webmaster das Problem auf Ihrer Site beheben, sollte sich der Status in behoben ändern (grüne Prüfung). |
 
-Genial, jetzt, da Sie die Grundlagen der Seiten kennen, sehen Sie sich die [Artikel zum Drilldown von Seitendetails](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md) um mehr coole Dinge zu lernen, die Sie tun können.
+Genial, jetzt, da Sie die Grundlagen von Seiten kennen, sehen Sie sich den Artikel [Seitendetails-Drilldown](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md) an, um mehr coole Dinge zu erfahren, die Sie tun können.

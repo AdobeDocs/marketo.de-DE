@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # E-Mail-Skript-Token erstellen {#create-an-email-script-token}
 
-Für fortgeschrittene Entwickler können Sie [Velocity-Skripte](https://velocity.apache.org/engine/1.7/user-guide.html) in Ihren E-Mails. Hier ist, wie man das macht.
+Für fortgeschrittene Entwickler können Sie [Velocity-Skripte](https://velocity.apache.org/engine/1.7/user-guide.html) in Ihren E-Mails verwenden. Hier ist, wie man das macht.
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Wechseln Sie zu **Marketingaktivitäten**.
 
    ![](assets/ma.png)
 
@@ -23,15 +23,15 @@ Für fortgeschrittene Entwickler können Sie [Velocity-Skripte](https://velocity
 
    ![](assets/image2014-9-17-22-3a21-3a24.png)
 
-1. Unter dem **Meine Token** Registerkarte, ziehen Sie eine **Email Script** Token.
+1. Ziehen Sie auf der Registerkarte **My Tokens** ein Token vom Typ **E-Mail-Skript** .
 
    ![](assets/image2014-9-17-22-3a21-3a29.png)
 
-1. Benennen Sie Ihr E-Mail-Skript-Token und **Klicken Sie zum Bearbeiten** Inhalt.
+1. Benennen Sie Ihr E-Mail-Skript-Token und **klicken Sie darauf, um den Inhalt von** zu bearbeiten.
 
    ![](assets/image2014-9-17-22-3a21-3a46.png)
 
-1. Verwenden Sie die Baumstruktur auf der rechten Seite, um einzuziehen. **Person, Chancen** oder **Benutzerdefiniertes Objekt** Token.
+1. Verwenden Sie die Baumstruktur auf der rechten Seite, um die Token **Person, Opportunity** oder **Benutzerdefiniertes Objekt** einzuziehen.
 
    ![](assets/five-2.png)
 
@@ -49,7 +49,7 @@ Für fortgeschrittene Entwickler können Sie [Velocity-Skripte](https://velocity
 
 1. Schreiben Sie Ihr Skript in Velocity. Im Folgenden finden Sie einige nützliche Ressourcen:
 
-   * [Dokumentation zu Marketo Developers Email Scripting](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)
+   * [Dokumentation für E-Mail-Skripterstellung für Marketo-Entwickler](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)
    * [Velocity-Benutzerhandbuch](https://velocity.apache.org/engine/devel/user-guide.html)
    * [Velocity-Referenzhandbuch](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
    * [Velocity Tools Javadoc](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
@@ -58,7 +58,7 @@ Für fortgeschrittene Entwickler können Sie [Velocity-Skripte](https://velocity
 
    ![](assets/image2014-9-17-22-3a23-3a1.png)
 
-1. Klicks **Speichern** einmalig.
+1. Klicken Sie noch einmal auf **Speichern** .
 
    ![](assets/image2014-9-17-22-3a23-3a13.png)
 
@@ -66,4 +66,4 @@ Jetzt können Sie dieses Token in Ihren E-Mails verwenden. Das Skript wird jedes
 
 >[!MORELIKETHIS]
 >
->[E-Mail-Skript-Token hinzufügen](/help/marketo/product-docs/email-marketing/general/using-tokens/add-an-email-script-token-to-your-email.md)
+>[Hinzufügen eines E-Mail-Skript-Tokens zu Ihrer E-Mail](/help/marketo/product-docs/email-marketing/general/using-tokens/add-an-email-script-token-to-your-email.md)

@@ -6,28 +6,28 @@ exl-id: c1b9d208-bdc0-4718-b3e5-e9e915b8ae0f
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '174'
-ht-degree: 2%
+source-wordcount: '175'
+ht-degree: 3%
 
 ---
 
 # Erforderliche Felder für die Synchronisierung von Marketo mit Dynamics {#required-fields-for-syncing-marketo-with-dynamics}
 
-Diese Felder *must* mit Marketo synchronisiert werden, damit sowohl Lead als auch Contact for Sales Insight funktionieren:
+Diese Felder *müssen* mit Marketo synchronisiert werden, damit sowohl Lead als auch Contact for Sales Insight funktionieren:
 
 * Priorität
 * Dringlichkeit
 * Relative Bewertung
 
-Wenn eines dieser Felder fehlt, wird in Marketo eine Fehlermeldung mit dem Namen der fehlenden Felder angezeigt. Um dies zu beheben, überprüfen Sie in Ihrer Instanz, ob die Felder für beide synchronisiert sind. **Lead** und **Kontakt**. Wenn nicht, fügen Sie sie hinzu.
+Wenn eines dieser Felder fehlt, wird in Marketo eine Fehlermeldung mit dem Namen der fehlenden Felder angezeigt. Um dies zu beheben, überprüfen Sie in Ihrer Instanz, ob die Felder sowohl für **Lead** als auch für **Kontakt** synchronisiert sind. Wenn nicht, fügen Sie sie hinzu.
 
 So können Sie Synchronisierungsfelder überprüfen und hinzufügen.
 
-1. Navigieren Sie zu Admin und klicken Sie auf **Microsoft Dynamics**.
+1. Wechseln Sie zu &quot;Admin&quot;und klicken Sie auf **Microsoft Dynamics**.
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. Klicks **Bearbeiten** in den Details zur Feldsynchronisierung.
+1. Klicken Sie in den Details zur Feldsynchronisierung auf **Bearbeiten** .
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
@@ -47,7 +47,7 @@ So können Sie Synchronisierungsfelder überprüfen und hinzufügen.
 
    ![](assets/image2016-6-8-13-3a36-3a36.png)
 
-1. Klicks **Speichern**.
+1. Klicken Sie auf **Speichern**.
 
    ![](assets/image2016-6-8-13-3a41-3a27.png)
 

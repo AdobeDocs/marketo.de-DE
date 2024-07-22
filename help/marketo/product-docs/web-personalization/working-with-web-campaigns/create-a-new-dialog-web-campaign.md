@@ -6,7 +6,7 @@ exl-id: 389b0d2d-f39e-4825-b419-373322b6811b
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '748'
+source-wordcount: '749'
 ht-degree: 2%
 
 ---
@@ -17,17 +17,17 @@ ht-degree: 2%
 
 Erstellen Sie eine Webkampagne, um Ihren Webinhalt in Echtzeit zu personalisieren und dem richtigen Benutzer die richtige Nachricht zur richtigen Zeit bereitzustellen.
 
-Eine Webkampagne ist eine benutzerdefinierte Reaktion, die mit einem bestimmten Segment verknüpft ist. Die Reaktion kann ein Dialogfeld auf Ihrer Website sein, eine [in Bereichsersetzung](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md), [Widget-Funktion](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md) oder einen E-Mail-Warnhinweis.
+Eine Webkampagne ist eine benutzerdefinierte Reaktion, die mit einem bestimmten Segment verknüpft ist. Die Reaktion kann ein Dialogfeld auf Ihrer Website, ein [In-Zone-Ersatz](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md), eine [Widget-Funktion](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md) oder ein E-Mail-Warnhinweis sein.
 
-1. Navigieren Sie zu **Web-Kampagnen**.
+1. Wechseln Sie zu **Web-Kampagnen**.
 
    ![](assets/image2016-8-18-15-3a48-3a45.png)
 
-1. Auswählen **Neue Web-Kampagne erstellen**.
+1. Wählen Sie **Neue Webkampagne erstellen** aus.
 
    ![](assets/image2016-11-4-10-3a58-3a32.png)
 
-1. Wählen Sie die **Dialogfeld** Webkampagnentyp. Gestalten Sie Ihre Kreativinhalte und fügen Sie sie im Editor hinzu. Klicken **Vorschau** um zu sehen, wie die Web-Kampagne auf Ihrer Site reagieren wird.
+1. Wählen Sie den Webkampagnentyp **Dialog** aus. Gestalten Sie Ihre Kreativinhalte und fügen Sie sie im Editor hinzu. Klicken Sie auf **Vorschau** , um zu sehen, wie die Webkampagne auf Ihrer Site reagieren wird.
 
    ![](assets/new-3.png)
 
@@ -40,17 +40,17 @@ Eine Webkampagne ist eine benutzerdefinierte Reaktion, die mit einem bestimmten 
  </thead> 
  <tbody> 
   <tr> 
-   <td colspan="1"><strong>Anzeige auf</strong></td> 
-   <td colspan="1">Ermöglicht Ihnen Folgendes: <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md" rel="nofollow">Anpassen, wann und wie</a> Ihre Webkampagne angezeigt.</td> 
+   <td colspan="1"><strong>Anzeige ein</strong></td> 
+   <td colspan="1">Ermöglicht Ihnen, <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md" rel="nofollow">anzupassen, wann und wie</a> Ihre Webkampagne angezeigt wird.</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><strong>Stil des Dialogfelds</strong></td> 
+   <td colspan="1" rowspan="1"><strong>Dialogfeldstil</strong></td> 
    <td colspan="1" rowspan="1"> 
     <ul> 
      <li>Modern Trim - Ein stilvolles und unverwechselbares Dialogfeld mit halbtransparentem schwarzen Schnitt und abgerundeten Ecken</li> 
      <li>Modern Trim II - Ein stilvolles und unverwechselbares Dialogfeld mit einem hellen Schattentrimm und abgerundeten Ecken und einem Schließen-Knopf</li> 
      <li>Transparent - Ein vollständig transparentes Dialogfeld, ideal für transparente (png) Bilder für Ihren Aktionsaufruf. </li> 
-     <li>Einfach - Ein einfaches Stildialogfeld mit dichterem Kopfzeilenraum für Titel, der Ihre grundlegenden Dialogfeldanforderungen erfüllt.</li> 
+     <li>Einfach - Ein einfaches Stildialogfeld mit dichterem Kopfzeilenraum für Titel, das Ihre grundlegenden Dialogfeldanforderungen erfüllt.</li> 
     </ul></td> 
   </tr> 
   <tr> 
@@ -78,7 +78,7 @@ Eine Webkampagne ist eine benutzerdefinierte Reaktion, die mit einem bestimmten 
    <td colspan="1">Stellt den Fokus auf das Dialogfeld mehr her und startet es mit einem dunklen Hintergrund hinter dem Dialogfeld, wodurch das Benutzerbewusstsein für das Dialogfeld erhöht wird.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Popup-Farbe</strong></td> 
+   <td colspan="1"><strong>Modal-Farbe</strong></td> 
    <td colspan="1">Passen Sie die Farbe des Modals sowie die Deckkraft an.</td> 
   </tr> 
   <tr> 
@@ -115,11 +115,11 @@ Eine Webkampagne ist eine benutzerdefinierte Reaktion, die mit einem bestimmten 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Vorschau auf Website</strong></td> 
-   <td colspan="1">Anzeigen einer Vorschau von Kampagnen vor dem Start<br> 
+   <td colspan="1">Vorschau der Kampagnen vor dem Start anzeigen.<br> 
     <ul> 
      <li>URL - Geben Sie eine Beispiel-URL ein, unter der die Kampagne laufen würde, um ein Vorschaubeispiel dafür zu erhalten, wie die Kampagne live aussehen würde.</li> 
-     <li>Gerät - Sehen Sie sich die Darstellung Ihrer Kampagne auf dem Gerät in der Vorschau an: Desktop, Mobiles Hochformat, Mobiles Querformat, Tablet-Hochformat, Hochformat.<br></li> 
-     <li>Vorschau - Klicken <strong>Vorschau </strong>um ein neues Fenster der Beispiel-URL zu öffnen, um zu sehen, wie die Kampagne reagiert. </li> 
+     <li>Gerät - Sehen Sie sich an, wie Ihre Kampagne auf dem Gerät dargestellt wird: Desktop, Mobiles Hochformat, Mobilgerät - Querformat, Tablet - Hochformat, Hochformat.<br></li> 
+     <li>Vorschau - Klicken Sie auf <strong>Vorschau </strong> , um ein neues Fenster der Beispiel-URL zu öffnen und zu sehen, wie die Kampagne reagiert. </li> 
      <li>Freigabe - Verwenden Sie die Schaltfläche Freigeben , um eine E-Mail an einen Kollegen mit einem Link zu senden, um die Proxy-Kampagne anzuzeigen.</li> 
     </ul></td> 
   </tr> 
@@ -128,21 +128,21 @@ Eine Webkampagne ist eine benutzerdefinierte Reaktion, die mit einem bestimmten 
 
 >[!TIP]
 >
->Beschleunigen und vereinfachen Sie Ihren Kampagnenerstellungsprozess mithilfe des [integrierte Vorlagen](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) oder [Speichern vorhandener Kampagnen](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) als Vorlage zur Wiederverwendung.
+>Beschleunigen und vereinfachen Sie den Kampagnenerstellungsprozess, indem Sie unsere [integrierten Vorlagen](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) oder Ihre vorhandene Kampagne](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) als Vorlage zur Wiederverwendung speichern.[
 
 ## Eine Webkampagne bearbeiten {#edit-a-web-campaign}
 
-1. Aus dem **Web-Kampagnen** Seite, klicken Sie auf **Bearbeiten** in der Webkampagne.
+1. Klicken Sie auf der Seite **Web-Kampagnen** in der Webkampagne auf **Bearbeiten** .
 
 ![](assets/image2016-11-4-11-3a6-3a19.png)
 
 >[!NOTE]
 >
->Um die gewünschte Web-Kampagne leichter zu finden, verwenden Sie die [Filterfunktion](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+>Um die gewünschte Webkampagne leichter zu finden, verwenden Sie die [Filterfunktion](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 ## Vorschau einer Webkampagne {#preview-a-web-campaign}
 
-1. Aus dem **Web-Kampagnen** Seite, klicken Sie auf **Vorschau** in der Webkampagne, die Sie anzeigen möchten.
+1. Klicken Sie auf der Seite **Web-Kampagnen** auf **Vorschau** der Webkampagne, die Sie anzeigen möchten.
 
 ![](assets/image2016-11-4-11-3a8-3a58.png)
 
@@ -152,13 +152,13 @@ Siehe [Eine Webkampagne klonen](/help/marketo/product-docs/web-personalization/w
 
 ## Eine Webkampagne löschen {#delete-a-web-campaign}
 
-1. Aus dem **Web-Kampagnen** Seite, klicken Sie auf **Löschen** in der Webkampagne, die Sie löschen möchten.
+1. Klicken Sie auf der Seite **Web-Kampagnen** in der Webkampagne, die Sie löschen möchten, auf **Löschen** .
 
    ![](assets/web-campaigns-1-delete-hand.png)
 
-1. Eine Bestätigungsmeldung wird angezeigt, um zu bestätigen, ob Sie die Webkampagne löschen möchten.
+1. Eine Bestätigungsmeldung wird angezeigt, um zu bestätigen, dass Sie die Webkampagne löschen möchten.
 
 >[!MORELIKETHIS]
 >
->* [Erstellen einer RTP-In-Zone-Kampagne](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
->* [Erstellen einer RTP Widget-Kampagne](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+>* [Erstellen eines RTP in einer Bereichskampagne](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [Erstellen einer RTP-Widget-Kampagne](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)

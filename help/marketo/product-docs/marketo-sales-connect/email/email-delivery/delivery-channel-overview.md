@@ -6,7 +6,7 @@ exl-id: 432bad1e-4eaf-4be8-b856-be364c44816e
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '582'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Marketo Sales Connect bietet Ihnen mehrere Optionen zum Versand von E-Mails. In 
 
 ## Empfohlen: Gmail oder Exchange über E-Mail-Verbindung {#recommended-gmail-or-exchange-via-email-connection}
 
-Sales Connect ermöglicht eine optimierte Einrichtung und die verbesserte Zustellbarkeit über unseren E-Mail-Verbindungsdienst. Die E-Mail-Verbindung ermöglicht jedem Benutzer die Verbindung zu seiner [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md) oder [Exchange](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) Konto bei Sales Connect , um als bevorzugten Versandkanal für alle Sales Connect-E-Mails verwendet zu werden.
+Sales Connect ermöglicht eine optimierte Einrichtung und die verbesserte Zustellbarkeit über unseren E-Mail-Verbindungsdienst. Die E-Mail-Verbindung ermöglicht es jedem Benutzer, eine Verbindung zu seinem [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md) - oder [Exchange](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) -Konto zu Sales Connect herzustellen, damit er als bevorzugter Versandkanal für alle Sales Connect-E-Mails verwendet werden kann.
 
 Die Verwendung von Gmail oder Exchange bietet einige deutliche Vorteile gegenüber anderen Optionen für Versandkanäle:
 
@@ -25,13 +25,13 @@ Die Verwendung von Gmail oder Exchange bietet einige deutliche Vorteile gegenüb
 * Authentifizierungsmethoden wie SPF und DKIM werden bereits von Ihrem IT-Team konfiguriert und verwaltet, sodass es keine zusätzliche Einrichtung gibt.
 * Der Versand von E-Mails innerhalb eines bestimmten E-Mail-Netzwerks (d. h. das Senden einer E-Mail als Exchange-Benutzer an ein Unternehmen, das E-Mails über Exchange erhält) kann die Zustellbarkeit weiter verbessern.
 
-Beachten Sie, dass diese Versandkanäle über eigene Versandbeschränkungen verfügen, die von Microsoft und Google erzwungen werden. Um dies zu bekämpfen, verwenden wir einen Drosselungsmechanismus, der Benutzern dabei hilft, diese Beschränkungen einzuhalten. Weitere Informationen [E-Mail-Einschränkungen hier](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md).
+Beachten Sie, dass diese Versandkanäle über eigene Versandbeschränkungen verfügen, die von Microsoft und Google erzwungen werden. Um dies zu bekämpfen, verwenden wir einen Drosselungsmechanismus, der Benutzern dabei hilft, diese Beschränkungen einzuhalten. Weitere Informationen zu [E-Mail-Einschränkungen finden Sie hier](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md).
 
 >[!NOTE]
 >
 >Standardmäßig verwendet das O365-Plug-in immer Ihren Exchange-Versandkanal und das Gmail-Plug-in nutzt immer Ihren Gmail-Versandkanal, um E-Mails von den Plug-ins zu versenden.
 
-**Bounce-Tracking**: MSC kann Bounces für Exchange Online- oder Gmail-Benutzer erkennen, indem er die Bounce-Nachricht erkennt, die an den Posteingang des Absenders gesendet wird. Diese Bounce-Benachrichtigungen werden für Benutzer in Vorlagenanalysen, Campaign-Analysen und Live-Feed-Benachrichtigungen zusammengefasst. Das Bounce-Tracking wird für Exchange On-Prem-Kunden nicht unterstützt.
+**Bounce Tracking**: MSC kann Bounces für Exchange Online- oder Gmail-Benutzer erkennen, indem er die Bounce-Nachricht erkennt, die an den Posteingang des Absenders gesendet wird. Diese Bounce-Benachrichtigungen werden für Benutzer in Vorlagenanalysen, Campaign-Analysen und Live-Feed-Benachrichtigungen zusammengefasst. Das Bounce-Tracking wird für Exchange On-Prem-Kunden nicht unterstützt.
 
 ## Benutzerspezifischer Bereitstellungskanal über SMTP {#custom-delivery-channel-via-smtp}
 

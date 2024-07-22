@@ -7,7 +7,7 @@ feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '126'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -17,21 +17,21 @@ Um automatische Aktualisierungen eines Basisberichts zu erhalten oder diese frei
 
 >[!NOTE]
 >
->Informationen zu den Abonnements für den Umsatz in Cycle Explorer finden Sie unter [Abonnieren eines Umsatz-Explorer-Berichts](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md).
+>Informationen zu den Abonnements für den Umsatz-Explorer-Bericht finden Sie unter [Abonnieren eines Umsatz-Explorer-Berichts](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md).
 
-1. Navigieren Sie zu **Marketingaktivitäten** Bereich.
+1. Wechseln Sie zum Bereich **Marketingaktivitäten** .
 
    ![](assets/image2014-9-16-10-3a31-3a54.png)
 
-1. Wählen Sie Ihren Bericht in der Navigationsstruktur aus und klicken Sie auf das **Abonnements** Registerkarte.
+1. Wählen Sie Ihren Bericht in der Navigationsstruktur aus und klicken Sie auf die Registerkarte **Abonnements** .
 
    ![](assets/image2014-9-16-10-3a32-3a1.png)
 
    >[!NOTE]
    >
-   >Sie können Berichte auch über die **Analytics** Registerkarte.
+   >Sie können Berichte auch über die Registerkarte **Analytics** abonnieren.
 
-1. Klicken **Neue Berichtanmeldung**.
+1. Klicken Sie auf **Neue Berichtanmeldung**.
 
    ![](assets/image2014-9-16-10-3a32-3a24.png)
 
@@ -43,10 +43,10 @@ Um automatische Aktualisierungen eines Basisberichts zu erhalten oder diese frei
    >
    >Jeder kann sich von dem Bericht in der E-Mail abmelden, die er erhält.
 
-   Das ist es! Überprüfen Sie Ihren Posteingang!
+   Das ist es! Markieren Sie Ihren Posteingang!
 
    ![](assets/image2014-9-16-10-3a32-3a49.png)
 
    >[!MORELIKETHIS]
    >
-   >Erfahren Sie, wie Sie [alle Berichtanmeldungen verwalten](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) an einem Ort.
+   >Erfahren Sie, wie Sie [alle Ihre Berichtanmeldungen verwalten](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) an einem Ort.

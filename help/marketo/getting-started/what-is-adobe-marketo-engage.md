@@ -47,7 +47,7 @@ Das ist nicht der Fall. Es ist einfach, in Marketo Engage zu beginnen, und es wi
 
 ## Muss ich irgendwelche Einstellungen vornehmen? {#do-i-need-to-do-any-setup}
 
-Ja, es gibt eine Reihe von Schritten, die Sie tun müssen (oder wir empfehlen Ihnen dringend), und [sie finden Sie hier](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}.
+Ja, es gibt eine Handvoll von Schritten, die Sie tun müssen (oder wir empfehlen Ihnen dringend), und [sie finden Sie hier](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}.
 
 ## Muss ich warten, bis die Einrichtung abgeschlossen ist, um zu lernen? {#do-i-have-to-wait-until-setup-is-finished-to-learn}
 
@@ -55,11 +55,11 @@ Nein! Wir haben ein paar einfache Tutorials gemacht. [Erste Schritte hier](/help
 
 ## Gibt es eine Liste von Dingen, die Einschränkungen abdecken, z. B. wie viele E-Mails ich in einer Woche versenden kann? {#list-of-limits}
 
-Da ist es. Statische Beschränkungen (und andere Parameter) werden beschrieben. [in diesem Artikel](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html#performance-guardrails){target="_blank"}.
+Da ist es. Statische Beschränkungen (und andere Parameter) werden in diesem Artikel ](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html#performance-guardrails){target="_blank"} [beschrieben.
 
 ## Wie lange bewahrt Marketo meine Daten auf? {#data-retention-policy}
 
-Bitte überprüfen Sie [Dieser Blogpost für Marketingnationen](https://nation.marketo.com/t5/knowledgebase/marketo-activities-data-retention-policy-overview-amp-faq/ta-p/250750){target="_blank"} für Details.
+Weitere Informationen finden Sie in [diesem Blog-Beitrag der Marketing-Nation](https://nation.marketo.com/t5/knowledgebase/marketo-activities-data-retention-policy-overview-amp-faq/ta-p/250750){target="_blank"} .
 
 <br>
 

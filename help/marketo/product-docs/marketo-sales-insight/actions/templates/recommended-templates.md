@@ -5,7 +5,7 @@ exl-id: 079068c3-65e5-45c7-aa8e-63fadd1c5d02
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Die empfohlenen Vorlagen von Sales Insight Action helfen Ihnen dabei, die richti
 
    ![](assets/recommended-templates-3.png)
 
-1. Wählen Sie die **Eine empfohlene Vorlage erstellen** aktivieren und auf **Speichern**.
+1. Aktivieren Sie das Kontrollkästchen **Als empfohlene Vorlage erstellen** und klicken Sie auf **Speichern**.
 
    ![](assets/recommended-templates-4.png)
 
@@ -36,7 +36,7 @@ Die empfohlenen Vorlagen von Sales Insight Action helfen Ihnen dabei, die richti
 
 ## Alle vs. Beliebige {#all-vs-any}
 
-Auswählen **Alle** , wenn Sie möchten, dass Ihre Vorlage empfohlen wird, wenn alle Kriterien erfüllt sind. Auswählen **Alle** , wenn Sie möchten, dass Ihre Vorlage empfohlen wird, wenn eines der Kriterien erfüllt ist.
+Wählen Sie **Alle** aus, wenn Sie möchten, dass Ihre Vorlage empfohlen wird, wenn alle Kriterien erfüllt sind. Wählen Sie **Beliebig** aus, wenn Sie möchten, dass Ihre Vorlage empfohlen wird, wenn eines der Kriterien erfüllt ist.
 
 ## Festlegen von Kriterien {#setting-criteria}
 
@@ -46,11 +46,11 @@ Ihre Kriterien werden die Bedingungen festlegen, für die Vorlagen empfohlen wer
 
 Wählen Sie nun Ihre Bedingung aus. Wenn Ihre Bedingungen für Ihr dynamisches Feld erfüllt sind, wird die Vorlage empfohlen. Wählen Sie aus 4 verschiedenen Bedingungen.
 
-**Gleich**: Wert muss eine exakte Übereinstimmung sein (z. B. Marketo ist Marketo).
+**Gleich**: Der Wert muss eine exakte Übereinstimmung sein (z. B. Marketo gleich Marketo)
 
-**Does not Equal**: Wert muss alles andere als eine exakte Übereinstimmung sein (z. B. Marketing Nation ist nicht gleich Marketing)
+**Does not equal**: Der Wert muss alles andere als eine exakte Übereinstimmung sein (z. B. Marketing Nation ist nicht gleich Marketing)
 
-**Enthält**: Nur der Wert muss enthalten (z. B. Marketo Rocks! enthält Marketo)
+**Enthält**: Nur den Wert (z. B. Marketo Rocks! enthält Marketo)
 
 **Enthält nicht**: Der Wert darf sich nicht im dynamischen Feld befinden (z. B. Marketo Rocks! enthält nicht Awesome)
 

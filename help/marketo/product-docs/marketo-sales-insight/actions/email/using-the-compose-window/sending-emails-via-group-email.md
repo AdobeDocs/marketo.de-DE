@@ -5,7 +5,7 @@ exl-id: 0099c0ee-dff2-4d7d-91cd-7d619405bac5
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Im Folgenden erfahren Sie, wie Sie E-Mails mit der Option E-Mail gruppieren send
 
 ## Senden einer Gruppenemail {#sending-a-group-email}
 
-1. Klicken Sie auf **Personen** Registerkarte.
+1. Klicken Sie auf die Registerkarte **Personen**.
 
    ![](assets/sending-emails-via-group-email-1.png)
 
@@ -24,7 +24,7 @@ Im Folgenden erfahren Sie, wie Sie E-Mails mit der Option E-Mail gruppieren send
 
    ![](assets/sending-emails-via-group-email-2.png)
 
-1. Klicken Sie auf die Schaltfläche Gruppenaktionen und wählen Sie **E-Mail-Gruppe**.
+1. Klicken Sie auf die Schaltfläche Gruppenaktionen und wählen Sie **E-Mail-Gruppe** aus.
 
    ![](assets/sending-emails-via-group-email-3.png)
 
@@ -34,9 +34,9 @@ Im Folgenden erfahren Sie, wie Sie E-Mails mit der Option E-Mail gruppieren send
 
 ## Bearbeiten einer Gruppen-E-Mail {#editing-a-group-email}
 
-1. Erstellen einer Gruppen-E-Mail mit [Schritte 1-3 oben](#sending-a-group-email).
+1. Erstellen Sie eine Gruppen-E-Mail mit den Schritten 1 bis 3 oben ](#sending-a-group-email).[
 
-1. [Vorlage auswählen](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)oder füllen Sie Ihre E-Mail aus.
+1. [Wählen Sie eine Vorlage aus](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md) oder füllen Sie Ihre E-Mail aus.
 
    ![](assets/sending-emails-via-group-email-5.png)
 
@@ -44,7 +44,7 @@ Im Folgenden erfahren Sie, wie Sie E-Mails mit der Option E-Mail gruppieren send
 
    ![](assets/sending-emails-via-group-email-6.png)
 
-1. Wählen Sie den gewünschten Empfänger aus und klicken Sie auf **Vorschau dynamischer Felder**. Zeigen Sie die Vorschau auf der rechten Seite an.
+1. Wählen Sie den gewünschten Empfänger aus und klicken Sie auf **Vorschau dynamischer Felder anzeigen**. Zeigen Sie die Vorschau auf der rechten Seite an.
 
    ![](assets/sending-emails-via-group-email-7.png)
 
@@ -54,5 +54,5 @@ Im Folgenden erfahren Sie, wie Sie E-Mails mit der Option E-Mail gruppieren send
 
 >[!MORELIKETHIS]
 >
->* [Massensendeoptionen](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/bulk-emailing-options.md)
+>* [Optionen für die Massenübermittlung](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/bulk-emailing-options.md)
 >* [Verwenden einer Vorlage im Fenster &quot;Erstellen&quot;](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)

@@ -16,15 +16,15 @@ Sie können Ihren Salesforce-Layouts Marketo-Schaltflächen hinzufügen. Im Folg
 
 ![](assets/add-bulk-action-buttons-to-salesforce-classic-1.png)
 
-1. Klicken **Einrichtung**. Suchen Sie nach &quot;Suchlayout&quot;und klicken Sie auf die **Suchlayouts** under **Leads**.
+1. Klicken Sie auf **Einrichten**. Suchen Sie nach &quot;Suchlayout&quot;und klicken Sie unter **Leads** auf &quot;**Layouts suchen**&quot;.
 
    ![](assets/add-bulk-action-buttons-to-salesforce-classic-2.png)
 
-1. Klicken **Bearbeiten** im **Lead-Listenansicht** Zeile.
+1. Klicken Sie in der Zeile **Leads - Listenansicht** auf **Bearbeiten** .
 
    ![](assets/add-bulk-action-buttons-to-salesforce-classic-3.png)
 
-1. Hinzufügen **Zu Marketo Campaign hinzufügen**, **Marketo-E-Mail senden** und **Hinzufügen zur Überwachungsliste** Schaltflächen zum **Ausgewählte Schaltflächen** und **Speichern**.
+1. Fügen Sie die Schaltflächen **Zu Marketo-Kampagne hinzufügen**, **Marketo-E-Mail senden** und **Zu Überwachungsliste hinzufügen** zu den Schaltflächen **Ausgewählte Schaltflächen** und **Speichern** hinzu.
 
    ![](assets/add-bulk-action-buttons-to-salesforce-classic-4.png)
 
@@ -32,7 +32,7 @@ Sie können Ihren Salesforce-Layouts Marketo-Schaltflächen hinzufügen. Im Folg
    >
    >Halten Sie die Umschalttaste gedrückt, um alle drei Tasten gleichzeitig auszuwählen.
 
-1. Wiederholen Sie diese Schritte für Ihre Kontakte (alle drei Schaltflächen) und Konten (nur eine Schaltfläche): Zu Überwachungsliste hinzufügen).
+1. Wiederholen Sie diese Schritte für Ihre Kontakte (alle drei Schaltflächen) und Konten (nur eine Schaltfläche: Zu Überwachungsliste hinzufügen).
 
    >[!NOTE]
    >

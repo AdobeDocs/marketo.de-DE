@@ -15,7 +15,7 @@ ht-degree: 5%
 
 In diesem Analysebereich können Sie die Effektivität einzelner Programme analysieren oder die zusammengefassten Ergebnisse nach Kanal anzeigen. Es bietet Einblicke, wie viele der neu generierten Namen bestimmte Erfolgspfade innerhalb Ihres Umsatzzyklusmodells erreicht haben.
 
-**Beispiele für Geschäftsfragen, die Sie mit diesem Analysebereich beantworten können:**:
+**Beispiele für Geschäftsfragen, die Sie mit diesem Analysebereich beantworten können, sind**:
 
 Wie viele neue Namen aus einem Programm haben schon einmal eine bestimmte Stufe in meinem Modell erreicht?
 
@@ -29,9 +29,9 @@ Wie viele Tage dauert es, bis die aktuelle Phase erreicht ist?
 
 ![](assets/three-3.png)
 
-**Dimensionen und Maßnahmen zur Analyse der Programmumsätze**
+**Dimensionen und Kennzahlen der Programmumsatzanalyse**
 
-Dimensionen und Kennzahlen werden nach Funktionalität kategorisiert und durch gelbe oder blaue Punkte im System dargestellt: gelb für Dimensionen und blau für Kennzahlen. Verwenden Sie die Dimensionen und Maßnahmen der Programmumsatzanalyse, um spezifische Fragen in Ihrem Bericht zu beantworten.
+Dimensionen und Kennzahlen werden nach Funktionen kategorisiert und durch gelbe oder blaue Punkte im System dargestellt: gelb für Abmessungen und blau für Kennzahlen. Verwenden Sie die Dimensionen und Maßnahmen der Programmumsatzanalyse, um spezifische Fragen in Ihrem Bericht zu beantworten.
 
 Um verfügbare Dimensionen oder Kennzahlen innerhalb einer Kategorie anzuzeigen, klicken Sie auf den Pfeil neben dem Kategorienamen, um die Kategorienliste zu erweitern. Klicken Sie auf den Abwärtspfeil, um die Kategorienliste zu reduzieren.
 
@@ -64,12 +64,12 @@ Um verfügbare Dimensionen oder Kennzahlen innerhalb einer Kategorie anzuzeigen,
    <td colspan="1" rowspan="1"><p>Modellname</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>Stadium</p></td> 
-   <td colspan="1" rowspan="1"><p>Die Phasen, die in Ihrem Umsatzzyklusmodell vorhanden sind. Wird als Von-Phase bei der Analyse von Maßnahmen zwischen zwei Phasen verwendet</p></td> 
+   <td colspan="1" rowspan="1"><p>Phase</p></td> 
+   <td colspan="1" rowspan="1"><p>Die in Ihrem Umsatzzyklusmodell vorhandenen Phasen. Wird als Von-Phase bei der Analyse von Maßnahmen zwischen zwei Phasen verwendet</p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p>Staging-Typ</p></td> 
-   <td colspan="1" rowspan="1"><p>Beschreibt den Typ; Inventar, SLA oder Gate jeder Phase ist</p></td> 
+   <td colspan="1" rowspan="1"><p>Beschreibt den Typ; Bestand, SLA oder Datum für jede Phase</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -121,7 +121,7 @@ Um verfügbare Dimensionen oder Kennzahlen innerhalb einer Kategorie anzuzeigen,
 <table> 
  <tbody> 
   <tr> 
-   <td colspan="1" rowspan="1"><p><strong>Maßnahme</strong></p></td> 
+   <td colspan="1" rowspan="1"><p><strong>Messung</strong></p></td> 
    <td colspan="1" rowspan="1"><p><strong>Beschreibung</strong></p></td> 
   </tr> 
   <tr> 
@@ -146,11 +146,11 @@ Um verfügbare Dimensionen oder Kennzahlen innerhalb einer Kategorie anzuzeigen,
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p>Neue Namen (ever)</p></td> 
-   <td colspan="1" rowspan="1"><p>Beschreibt den Typ; Inventar, SLA oder Gate jeder Phase ist</p></td> 
+   <td colspan="1" rowspan="1"><p>Beschreibt den Typ; Bestand, SLA oder Datum für jede Phase</p></td> 
   </tr> 
  </tbody> 
 </table>
 
 >[!MORELIKETHIS]
 >
->[Erstellen eines Berichts &quot;Umsatz-Explorer&quot;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
+>[Erstellen eines Berichts zum Umsatz-Explorer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)

@@ -12,17 +12,17 @@ ht-degree: 8%
 
 # Informationen zur Massenexport-API {#bulk-export-api-information}
 
-Erfahren Sie, wie Sie überprüfen können, wie viel [Massenextraktions-API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"} Die Kapazität wurde von Ihrer Marketo Engage-Instanz in den letzten sieben Tagen genutzt.
+Erfahren Sie, wie Sie überprüfen können, wie viel [Massenextraktions-API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"}-Kapazität Ihre Marketo Engage-Instanz in den letzten sieben Tagen genutzt hat.
 
 >[!NOTE]
 >
 >Wenn Sie zusätzliche Kapazitäten benötigen, wenden Sie sich an Ihren Kundenbetreuer.
 
-1. Navigieren Sie zu **[!UICONTROL Admin]** Bereich.
+1. Wechseln Sie zum Bereich **[!UICONTROL Admin]** .
 
    ![](assets/bulk-export-api-information-1.png)
 
-1. Klicks **[!UICONTROL Web-Services]**.
+1. Klicken Sie auf **[!UICONTROL Webdienste]**.
 
    ![](assets/bulk-export-api-information-2.png)
 

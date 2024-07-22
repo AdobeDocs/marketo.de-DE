@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Sie können die Eingabe Ihres Besuchers mithilfe einer Eingabemaske einschränken. Beispielsweise können Sie möchten, dass Besucher Telefonnummern nur in einem bestimmten Format eingeben.
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Wechseln Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities-4.png)
 
@@ -23,7 +23,7 @@ Sie können die Eingabe Ihres Besuchers mithilfe einer Eingabemaske einschränke
 
    ![](assets/image2014-9-15-13-3a40-3a44.png)
 
-1. Wählen Sie Ihr Feld aus und stellen Sie sicher, dass **Feldtyp** auf **Text**.
+1. Wählen Sie Ihr Feld aus und stellen Sie sicher, dass der **Feldtyp** auf **Text** eingestellt ist.
 
    >[!NOTE]
    >
@@ -31,7 +31,7 @@ Sie können die Eingabe Ihres Besuchers mithilfe einer Eingabemaske einschränke
 
    ![](assets/image2014-9-15-13-3a40-3a53.png)
 
-1. Klicken Sie auf **Maskieren der Eingabe** -Link.
+1. Klicken Sie auf den Link **Eingabe maskieren** .
 
    ![](assets/image2014-9-15-13-3a41-3a3.png)
 
@@ -43,11 +43,11 @@ Sie können die Eingabe Ihres Besuchers mithilfe einer Eingabemaske einschränke
    >
    >Achten Sie auf die Maskierungsregeln. Sie können die Eingabe auf Zahlen, Buchstaben, beides und/oder sogar auf die Anzahl der eingegebenen Zeichen beschränken.
 
-1. Klicks **Beenden**.
+1. Klicken Sie auf **Beenden**.
 
    ![](assets/image2014-9-15-13-3a41-3a22.png)
 
-1. Klicks **Genehmigen und schließen**.
+1. Klicken Sie auf **Genehmigen und schließen**.
 
    ![](assets/image2014-9-15-13-3a41-3a28.png)
 

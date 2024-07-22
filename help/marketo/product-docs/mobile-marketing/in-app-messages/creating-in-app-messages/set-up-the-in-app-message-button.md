@@ -19,7 +19,7 @@ Sie können das standardmäßige Schaltflächendesign verwenden, es ändern oder
 
    ![](assets/image2016-5-6-15-3a6-3a55.png)
 
-1. Um die Farbe für die Standardschaltfläche zu ändern, klicken Sie auf die Schaltfläche **Farbe** Schaltfläche.
+1. Um die Farbe für die Standardschaltfläche zu ändern, klicken Sie auf die Schaltfläche **Farbe** .
 
    ![](assets/image2016-5-6-15-3a10-3a38.png)
 
@@ -31,7 +31,7 @@ Sie können das standardmäßige Schaltflächendesign verwenden, es ändern oder
 
    ![](assets/image2016-5-6-15-3a16-3a26.png)
 
-1. Wenn Sie ein eigenes Bild für eine Schaltfläche verwenden möchten, klicken Sie auf die Schaltfläche Bild und dann auf **Bild auswählen**.
+1. Wenn Sie Ihr eigenes Bild für eine Schaltfläche verwenden möchten, klicken Sie auf die Schaltfläche Bild und dann auf **Bild auswählen**.
 
    ![](assets/image2016-5-6-15-3a18-3a18.png)
 
@@ -71,9 +71,9 @@ Sie können das standardmäßige Schaltflächendesign verwenden, es ändern oder
    >
    >Die Schaltfläche verfügt immer über eine Tipp-Aktion. Daher wird das Kontrollkästchen Tippen-Aktion automatisch mit der Standardmeldung &quot;Nachricht schließen&quot;aktiviert.
 
-Fast da. Ihr letzter Schritt besteht darin, [Konfigurieren des Hintergrunds von In-App-Nachrichten und der Schaltfläche zum Beenden](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md).
+Fast da. Der letzte Schritt besteht darin, den Hintergrund Ihrer In-App-Nachricht zu konfigurieren und die Schaltfläche &quot;Beenden&quot;](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md) zu deaktivieren.[
 
 >[!MORELIKETHIS]
 >
->* [In-App-Nachrichten verstehen](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->* [Auswählen eines Layouts für Ihre In-App-Nachricht](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
+>* [Grundlegendes zu In-App-Nachrichten](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+>* [Layout für Ihre In-App-Nachricht auswählen](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)

@@ -21,7 +21,7 @@ Damit Marketo Daten (eingehende Links und Empfehlungen) abrufen kann, die für d
 
 ## [!UICONTROL Hinzufügen einer Site] {#add-a-site}
 
-1. Klicken Sie auf das Dropdown-Menü Admin und wählen Sie **[!UICONTROL Admin]**.
+1. Klicken Sie auf das Dropdown-Menü Admin und wählen Sie **[!UICONTROL Admin]** aus.
 
    >[!NOTE]
    >
@@ -29,15 +29,15 @@ Damit Marketo Daten (eingehende Links und Empfehlungen) abrufen kann, die für d
 
    ![](assets/one.png)
 
-1. Klicks **[!UICONTROL Site hinzufügen]**.
+1. Klicken Sie auf **[!UICONTROL Site hinzufügen]**.
 
    ![](assets/two.png)
 
-1. Geben Sie die **[!UICONTROL Name], [!UICONTROL Website-URL]** und klicken **[!UICONTROL Speichern]**.
+1. Geben Sie den **[!UICONTROL Namen], die [!UICONTROL Website-URL]** ein und klicken Sie auf **[!UICONTROL Speichern]**.
 
    >[!TIP]
    >
-   >Sie können auch eine **[!UICONTROL Blog-URL]** wenn Sie eine haben.
+   >Sie können auch eine **[!UICONTROL Blog-URL]** hinzufügen, wenn Sie eine haben.
 
    ![](assets/image2014-9-17-21-3a19-3a51.png)
 
@@ -49,7 +49,7 @@ Damit Marketo Daten (eingehende Links und Empfehlungen) abrufen kann, die für d
 
 Wenn Sie mehr als eine Site verfolgen, können Sie auch eine Site löschen, die Sie nicht mehr für die Optimierung interessieren.
 
-1. Klicken Sie auf das Dropdown-Menü Admin und wählen Sie **[!UICONTROL Admin]**.
+1. Klicken Sie auf das Dropdown-Menü Admin und wählen Sie **[!UICONTROL Admin]** aus.
 
    ![](assets/one.png)
 
@@ -57,14 +57,14 @@ Wenn Sie mehr als eine Site verfolgen, können Sie auch eine Site löschen, die 
 
    ![](assets/six.png)
 
-1. Klicks **[!UICONTROL Löschen]**.
+1. Klicken Sie auf **[!UICONTROL Löschen]**.
 
    ![](assets/seven.png)
 
-1. Bestätigen, dass Sie **[!UICONTROL Löschen]**.
+1. Bestätigen Sie, dass Sie **[!UICONTROL Löschen]** verwenden möchten.
 
    ![](assets/image2014-9-17-21-3a21-3a22.png)
 
    >[!NOTE]
    >
-   >Sie können eine Site nur löschen, wenn Sie mehr als eine haben. Wenn Sie nur eine haben, können Sie eine Zurücksetzung durchführen, indem Sie die Site auswählen und auf **[!UICONTROL Zurücksetzen]**. Durch das Zurücksetzen einer Site wird _alle Site-Daten löschen_ und erstellen Sie die Site neu.
+   >Sie können eine Site nur löschen, wenn Sie mehr als eine haben. Wenn Sie nur eine haben, können Sie eine Zurücksetzung durchführen, indem Sie die Site auswählen und auf **[!UICONTROL Zurücksetzen]** klicken. Durch das Zurücksetzen einer Site werden _alle Site-Daten gelöscht_ und die Site neu erstellt.

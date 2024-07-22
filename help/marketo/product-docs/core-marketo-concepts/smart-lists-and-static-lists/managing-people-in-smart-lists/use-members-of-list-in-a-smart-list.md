@@ -15,15 +15,15 @@ ht-degree: 0%
 
 >[!TIP]
 >
->Sie können Personen zu einer Liste hinzufügen mithilfe von [Import](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) oder [Schritt &quot;Zu Listenfluss hinzufügen&quot;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md){target="_blank"}.
+>Sie können Personen mit [Import](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) oder dem Schritt [Zur Liste hinzufügen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md){target="_blank"} zu einer Liste hinzufügen.
 
 Mit diesem Filter können Sie Mitglieder aus einer anderen Liste abrufen, indem Sie in Ihren Smart-List-Regeln darauf verweisen. So geht es.
 
-1. Wählen Sie eine Smart-Liste aus und klicken Sie auf **[!UICONTROL Smart List]** Registerkarte.
+1. Wählen Sie eine Smart-Liste aus und klicken Sie auf die Registerkarte **[!UICONTROL Smart-Liste]** .
 
    ![](assets/smartlist-sltab.png)
 
-1. Suchen Sie im rechten Bereich für Filter nach und ziehen Sie die **[!UICONTROL Mitglied der Liste]** auf die Arbeitsfläche.
+1. Suchen Sie im rechten Bereich mit den Filtern nach dem Filter **[!UICONTROL Mitglied der Liste]** und ziehen Sie ihn auf die Arbeitsfläche.
 
    ![](assets/use-members-of-list-in-a-smart-list-2nd.png)
 
@@ -31,4 +31,4 @@ Mit diesem Filter können Sie Mitglieder aus einer anderen Liste abrufen, indem 
 
    ![](assets/memberoflist.png)
 
-   Abgeschlossen! In diesem Beispiel zielt die Smart-Liste jetzt nur auf Mitglieder dieser Liste ab und bewertet sie anhand anderer eingeschlossener Regeln.
+   Fertig! In diesem Beispiel zielt die Smart-Liste jetzt nur auf Mitglieder dieser Liste ab und bewertet sie anhand anderer eingeschlossener Regeln.

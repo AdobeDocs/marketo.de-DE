@@ -6,7 +6,7 @@ exl-id: 41364270-bd85-4ca3-921e-842c0dedc167
 feature: Target Account Management
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Unternehmen können über mehrere Geschäftsbereiche und Tochtergesellschaften v
 
 Mit TAM-Hierarchien können Sie schnell Informationen über eine ganze Hierarchie oder einzelne Konten im Dashboard für benannte Konten abrufen.
 
-**Nicht verwenden von Hierarchie**
+**Nicht mit Hierarchie verwenden**
 
 ![](assets/before.png)
 
@@ -35,6 +35,6 @@ Mit TAM-Hierarchien können Sie schnell Informationen über eine ganze Hierarchi
 >
 >Die Marketo-Benutzeroberfläche zeigt nur bis zu 10 Ebenen nach unten an (untergeordnete und untergeordnete Konten des übergeordneten Kontos). Die Anzahl der untergeordneten Konten, die Sie erstellen können, ist jedoch nicht beschränkt.
 
-Zielgruppe und Berichterstellung für komplette Hierarchien mit [Ein Klick](/help/marketo/product-docs/target-account-management/engage/account-filters.md#member-of-named-account).
+Targeting und Berichterstellung für komplette Hierarchien mit [einem Klick](/help/marketo/product-docs/target-account-management/engage/account-filters.md#member-of-named-account).
 
 ![](assets/member.png)

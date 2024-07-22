@@ -19,18 +19,18 @@ Helfen Sie Ihrem Vertriebsteam, Erfolg zu erzielen, indem Sie verhindern, dass K
 >
 >**Erforderliche Administratorberechtigungen**
 
-1. Klicken Sie in der Webanwendung auf das Zahnradsymbol und wählen Sie **Einstellungen**.
+1. Klicken Sie in der Webanwendung auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
 
    ![](assets/one-3.png)
 
-1. Klicken Sie unter &quot;Admin Settings&quot;auf **Allgemein**.
+1. Klicken Sie unter &quot;Admin Settings&quot;auf **General**.
 
    ![](assets/two-3.png)
 
-1. Geben Sie die Domäne ein, die blockiert werden soll, und klicken Sie auf **Blockdomäne**.
+1. Geben Sie die Domäne ein, die blockiert werden soll, und klicken Sie auf **Domäne blockieren**.
 
    ![](assets/three-3.png)
 
    >[!NOTE]
    >
-   >E-Mails, die Teil eines [Gruppenemail](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md) senden, der fehlschlägt, weil er an eine gesperrte E-Mail-Domain gesendet wird, schlägt still fehl und wird nicht im fehlgeschlagenen E-Mail-Ordner angezeigt.
+   >E-Mails, die Teil eines [Gruppen-E-Mail](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)-Versands sind und die fehlschlagen, weil sie an eine blockierte E-Mail-Domain gesendet werden, schlagen still fehl und werden nicht im fehlgeschlagenen E-Mail-Ordner angezeigt.

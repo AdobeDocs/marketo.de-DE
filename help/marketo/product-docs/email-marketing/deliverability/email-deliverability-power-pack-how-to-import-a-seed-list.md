@@ -17,23 +17,23 @@ Eine Testliste ist eine Liste von E-Mail-Konten mehrerer Postfachanbieter, einsc
 
 >[!IMPORTANT]
 >
->Dieser Artikel ist für diejenigen mit einem aktiven Everest-Abonnement zu diesem Zeitpunkt. Wenn Sie den Posteingang-Tracker by Bird (früher MessageBird) verwenden, werden Ihre Tutorials [finden Sie hier .](/help/marketo/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.md){target="_blank"}.
+>Dieser Artikel ist für diejenigen mit einem aktiven Everest-Abonnement zu diesem Zeitpunkt. Wenn Sie Inbox Tracker by Bird (früher MessageBird) verwenden, finden Sie Ihre Tutorials [hier](/help/marketo/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.md){target="_blank"}.
 
 ## Testliste importieren {#import-a-seed-list}
 
-1. Wählen Sie in Ihrer Marketo die Option **Zustellbarkeits-Tools**.
+1. Wählen Sie in Ihrer Marketo **Zustellbarkeits-Tools** aus.
 
    ![](assets/email-deliverability-power-pack-1.png)
 
-1. Die Everest App wird geöffnet. Klicken Sie im linken Navigationsbereich auf **Flug** und wählen **Posteingangsplatzierung**.
+1. Die Everest App wird geöffnet. Klicken Sie in der linken Navigationsleiste auf **In-Flight** und wählen Sie **Inbox Placement** aus.
 
    ![](assets/email-deliverability-power-pack-2.png)
 
-1. Klicken Sie auf **Testadressenliste verwalten** Registerkarte.
+1. Klicken Sie auf die Registerkarte **Testliste verwalten** .
 
    ![](assets/email-deliverability-power-pack-3.png)
 
-1. Klicken Sie auf das Dropdown-Menü Aktionen und wählen Sie **Pro Zeile herunterladen**.
+1. Klicken Sie auf das Dropdown-Menü Aktionen und wählen Sie **Pro Zeile herunterladen** aus.
 
    ![](assets/email-deliverability-power-pack-4.png)
 
@@ -41,7 +41,7 @@ Eine Testliste ist eine Liste von E-Mail-Konten mehrerer Postfachanbieter, einsc
    >
    >Verwenden Sie den Seed List Optimizer (oben auf der Seite), wenn Sie möchten, dass Everest Ihre Liste für Sie optimiert.
 
-1. Nach dem Export wird die Liste als .txt-Datei im Downloadordner Ihres Browsers angezeigt. Rufen Sie sie ab und [importieren](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) in Ihre Marketo-Instanz als statische Liste.
+1. Nach dem Export wird die Liste als .txt-Datei im Downloadordner Ihres Browsers angezeigt. Rufen Sie sie ab und importieren Sie sie als statische Liste [in Ihre Marketo-Instanz.](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
 
    ![](assets/email-deliverability-power-pack-5.png)
 

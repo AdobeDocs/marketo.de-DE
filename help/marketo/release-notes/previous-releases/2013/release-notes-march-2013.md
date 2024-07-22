@@ -6,22 +6,22 @@ exl-id: 4036380a-c4a1-44be-8bf3-87253181e5c8
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '225'
-ht-degree: 4%
+source-wordcount: '230'
+ht-degree: 3%
 
 ---
 
-# Versionshinweise: März 2013 {#release-notes-march}
+# März 2013 - Versionshinweise {#release-notes-march}
 
 Die folgenden Funktionen sind in der Version vom März enthalten.
 
 ## Marketo-Kalenderdateien {#marketo-calendar-files}
 
-Kalenderdatei als **Mein Token** zur Verwendung in Ihrer Ereignisbestätigungs- und Erinnerungsmail. Diese integrierte Kalenderdatei (z. B. .ics-Datei) rendert alle Token, einschließlich My Tokens und der `{{member.webinar URL}}` Token.
+Erstellen Sie eine Kalenderdatei als **Mein Token**, die in Ihren Ereignisbestätigungs- und Erinnerungsnachrichten verwendet werden soll. Diese integrierte Kalenderdatei (z. B. .ics-Datei) rendert alle Token, einschließlich My Tokens und des `{{member.webinar URL}}`-Tokens.
 
 ![](assets/image2014-9-22-15-3a35-3a24.png)
 
-## Warten bis +/- {#wait-until}
+## Warten bis {#wait-until}
 
 Erstellen Sie Warteschritte , die eine bestimmte Anzahl von Tagen vor oder nach einem Datums-Token ausführen können. Sie können beispielsweise einen Warteschritt erstellen, der 3 Tage vor dem Ereignisdatum wartet und dann eine Erinnerung sendet!
 

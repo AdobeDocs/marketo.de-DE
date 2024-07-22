@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Filtern von Assets in E-Mail-Berichten einer Kampagne {#filter-assets-in-a-campaign-email-reports}
 
-Fokus [Leistung von Campaign-E-Mails](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) Bericht über spezifische [Smart-Kampagnen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md) in Ihren Programmen (&quot;lokale Assets&quot;) oder archivierten Programmen angezeigt werden.
+Konzentrieren Sie Ihren Bericht [E-Mail-Leistung von Campaign](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) auf bestimmte [Smart-Kampagnen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md) in Ihren Programmen (&#39;lokale Assets&#39;) oder auf archivierte Kampagnen.
 
 >[!NOTE]
 >
 >Das Filtern von Assets in Berichten wird im Satellitenmodus nicht unterstützt (das Symbol &quot;In einem neuen Fenster öffnen&quot;rechts auf der Asset-Detailseite).
 
-1. Navigieren Sie zu **Analytics** (oder **Marketingaktivitäten**).
+1. Wechseln Sie zum Bereich **Analytics** (oder **Marketingaktivitäten**).
 
    ![](assets/image2014-9-16-15-3a57-3a27.png)
 
@@ -27,7 +27,7 @@ Fokus [Leistung von Campaign-E-Mails](/help/marketo/product-docs/reporting/basic
 
    ![](assets/image2014-9-16-15-3a57-3a31.png)
 
-1. Klicken Sie auf **Einrichtung** und ziehen Sie über einen Filter.
+1. Klicken Sie auf die Registerkarte **Einrichtung** und ziehen Sie über einen Filter.
 
    ![](assets/image2014-9-16-15-3a57-3a35.png)
 
@@ -42,11 +42,11 @@ Fokus [Leistung von Campaign-E-Mails](/help/marketo/product-docs/reporting/basic
    >
    >Wenn Sie einen Ordner auswählen, enthält der Bericht alle Elemente, die der Ordner zum Zeitpunkt der Ausführung des Berichts enthält.
 
-1. Du bist fertig! Klicken Sie auf **Bericht** um Ihren gefilterten Bericht anzuzeigen.
+1. Du bist fertig! Klicken Sie auf die Registerkarte **Bericht** , um Ihren gefilterten Bericht anzuzeigen.
 
    ![](assets/image2014-9-16-15-3a58-3a10.png)
 
    >[!MORELIKETHIS]
    >
-   >[Bericht zur E-Mail-Leistung von Campaign](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
+   >[Kampagnen-E-Mail-Leistungsbericht](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
    >[Filtern von Assets in einem E-Mail-Bericht](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)

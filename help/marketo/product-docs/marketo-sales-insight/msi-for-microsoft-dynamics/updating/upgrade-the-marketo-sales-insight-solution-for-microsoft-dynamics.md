@@ -6,8 +6,8 @@ exl-id: ddc26dc6-7552-4fac-8102-657ecd8c9445
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '143'
-ht-degree: 4%
+source-wordcount: '146'
+ht-degree: 0%
 
 ---
 
@@ -19,15 +19,15 @@ Wenn eine neue Microsoft Dynamics-Lösung für Sales Insight veröffentlicht wir
 >
 >**Erforderliche Administratorberechtigungen**
 
-1. Navigieren Sie zum **Admin**-Bereich.
+1. Wechseln Sie zum Bereich **Admin** .
 
    ![](assets/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics-1.png)
 
-1. Klicks **Microsoft Dynamics**.
+1. Klicken Sie auf **Microsoft Dynamics**.
 
    ![](assets/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics-2.png)
 
-1. Auswählen **Marketo-Lösung herunterladen**.
+1. Wählen Sie **Marketo-Lösung herunterladen** aus.
 
    ![](assets/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics-3.png)
 
@@ -35,12 +35,12 @@ Wenn eine neue Microsoft Dynamics-Lösung für Sales Insight veröffentlicht wir
 
    ![](assets/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics-4.png)
 
-   Fantastisch Eine ZIP-Datei der Lösung wird jetzt auf Ihr Gerät heruntergeladen.
+   Fantastisch! Eine ZIP-Datei der Lösung wird jetzt auf Ihr Gerät heruntergeladen.
 
 ## Durchführen des Upgrades {#performing-the-upgrade}
 
-1. Importieren Sie die neueste Version der Lösung über die vorhandene Version Ihres Dynamics CRM (z. B. wenn Ihr Dynamics CRM-System über Version 1.4 verfügt und die neueste Version 1.5 ist), importieren Sie _over_ Version 1.4).
+1. Importieren Sie die neueste Version der Lösung über die vorhandene Version Ihres Dynamics CRM (z. B.: Wenn Ihr Dynamics CRM-System über Version 1.4 verfügt und die neueste Version 1.5 ist, importieren Sie _über_ Version 1.4).
 
-2. Das folgende Popup wird angezeigt. Auswählen **Upgrade-Phase** und **Verwalten von Anpassungen** Klicken Sie auf **Import**.
+2. Das folgende Popup wird angezeigt. Wählen Sie **Stage for Upgrade** und **Maintain customizations** aus und klicken Sie dann auf **Import**.
 
 ![](assets/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics-5.png)

@@ -5,7 +5,7 @@ exl-id: 766cf3e6-5afa-4ccc-9093-efd06b1713cf
 feature: Sales Insight Actions
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -40,17 +40,17 @@ ht-degree: 0%
 
 ## Veröffentlichen von Vorlagenkategorien im Fenster &quot;Erstellen&quot; {#pinning-template-categories-in-the-compose-window}
 
-Favorit **bis zu fünf** spezifische Vorlagenkategorien , um schnell auf Ihre am häufigsten verwendeten Vorlagen zugreifen zu können.
+Favoriten Sie **bis zu fünf** spezifische Vorlagenkategorien, um schnell auf Ihre am häufigsten verwendeten Vorlagen zugreifen zu können.
 
 1. Erstellen Sie Ihren E-Mail-Entwurf (dazu gibt es mehrere Möglichkeiten, in diesem Beispiel wählen wir **Erstellen** in der Kopfzeile).
 
    ![](assets/using-a-template-in-the-compose-window-6.png)
 
-1. Klicken Sie auf **+** neben Favoriten.
+1. Klicken Sie auf das Symbol **+** neben Favoriten.
 
    ![](assets/using-a-template-in-the-compose-window-7.png)
 
-1. Klicken Sie auf **Kategorie fixieren** und wählen Sie die gewünschte Kategorie aus.
+1. Klicken Sie auf das Dropdown-Menü **Kategorie veröffentlichen** und wählen Sie die gewünschte Kategorie aus.
 
    ![](assets/using-a-template-in-the-compose-window-8.png)
 
@@ -58,7 +58,7 @@ Favorit **bis zu fünf** spezifische Vorlagenkategorien , um schnell auf Ihre am
    >
    >Es wird empfohlen, die Kategorie &quot;Alle&quot;zu veröffentlichen, damit Sie schnell auf die Suche in Ihrer gesamten Vorlagenbibliothek zugreifen können, da Sie häufig alle Vorlagen durchsuchen müssen, um nach dem zu suchen, wonach Sie suchen. Wenn Sie eine fixierte Kategorie ausgewählt haben und auf das Suchsymbol klicken, wird für die Suche standardmäßig die Suche in der ausgewählten fixierten Kategorie ausgewählt.
 
-1. Klicks **Änderungen speichern** wenn abgeschlossen (optional: Schritt 3 wiederholen, um weitere hinzuzufügen).
+1. Klicken Sie abschließend auf **Änderungen speichern** (optional: Wiederholen Sie Schritt 3, um weitere Änderungen hinzuzufügen).
 
    ![](assets/using-a-template-in-the-compose-window-9.png)
 

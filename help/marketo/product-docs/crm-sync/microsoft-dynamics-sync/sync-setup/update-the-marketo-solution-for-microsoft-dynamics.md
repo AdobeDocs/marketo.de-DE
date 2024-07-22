@@ -6,8 +6,8 @@ exl-id: 76bd722a-f2bf-46df-84e2-827fbbee4ab2
 feature: Microsoft Dynamics
 source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 3%
+source-wordcount: '180'
+ht-degree: 0%
 
 ---
 
@@ -21,17 +21,17 @@ Wenn eine neue Microsoft Dynamics-Lösung veröffentlicht wird, können Sie die 
 
 >[!CAUTION]
 >
->Sie müssen unbedingt die neueste Marketo-Lösung herunterladen _before_ Durchführung von Aktualisierungen.
+>Es ist unbedingt erforderlich, die neueste Marketo-Lösung _herunterzuladen, bevor_ eine Aktualisierung durchführt.
 
-1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
+1. Wechseln Sie zum Bereich **[!UICONTROL Admin]** .
 
    ![](assets/admin.png)
 
-1. Klicken **[!DNL Microsoft Dynamics]**.
+1. Klicken Sie auf **[!DNL Microsoft Dynamics]**.
 
    ![](assets/image2015-3-16-10-3a51-3a25.png)
 
-1. Auswählen **[!UICONTROL Marketo-Lösung herunterladen]**.
+1. Wählen Sie **[!UICONTROL Marketo-Lösung herunterladen]** aus.
 
    ![](assets/image2015-3-16-10-3a52-3a1.png)
 
@@ -43,12 +43,12 @@ Wenn eine neue Microsoft Dynamics-Lösung veröffentlicht wird, können Sie die 
 
 ## Aktualisieren {#performing-the-update}
 
-1. Importieren Sie die neueste Version der Lösung über die vorhandene Version Ihres Dynamics CRM (z. B. wenn Ihr Dynamics CRM-System über Version 1.4 verfügt und die neueste Version 1.5 ist), importieren Sie _over_ Version 1.4).
+1. Importieren Sie die neueste Version der Lösung über die vorhandene Version Ihres Dynamics CRM (z. B.: Wenn Ihr Dynamics CRM-System über Version 1.4 verfügt und die neueste Version 1.5 ist, importieren Sie _über_ Version 1.4).
 
-1. Das folgende Popup wird angezeigt. Auswählen **[!UICONTROL Aktualisieren]** und **[!UICONTROL Verwalten von Anpassungen]** Klicken Sie auf **[!UICONTROL Import]**.
+1. Das folgende Popup wird angezeigt. Wählen Sie **[!UICONTROL Aktualisieren]** und **[!UICONTROL Verwalten von Anpassungen]** aus und klicken Sie dann auf **[!UICONTROL Importieren]**.
 
    ![](assets/update-the-marketo-solution-for-microsoft-dynamics-5.png)
 
 >[!CAUTION]
 >
->Die Auswahl von Aktualisierung anstelle von Aktualisierung könnte zu Datenbeschädigungen in Ihrer Dynamics-Umgebung führen. _Wählen Sie Aktualisieren aus._ unter &quot;Importoptionen&quot;.
+>Die Auswahl von Aktualisierung anstelle von Aktualisierung könnte zu Datenbeschädigungen in Ihrer Dynamics-Umgebung führen. _Achten Sie darauf, unter &quot;Importoptionen&quot;die Option Aktualisieren_ zu wählen.

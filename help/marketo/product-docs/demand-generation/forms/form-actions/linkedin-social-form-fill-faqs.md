@@ -49,7 +49,7 @@ Nein, diese Daten wurden bereits im Personendatensatz in Marketo gespeichert und
 
 ## Wo finde ich weitere Informationen zur API-Richtlinie von LinkedIn? {#where-can-i-find-more-information-about-linkedin-s-api-policy}
 
-Auf diesem Link erfahren Sie mehr über die Änderungen, die LinkedIn an seiner API-Richtlinie vorgenommen hat: [https://developer.linkedin.com/blog/posts/2015/developer-program-changes](https://developer.linkedin.com/blog/posts/2015/developer-program-changes)
+Folgen Sie diesem Link, um mehr über die Änderungen zu erfahren, die LinkedIn an seiner API-Richtlinie vorgenommen hat: [https://developer.linkedin.com/blog/posts/2015/developer-program-changes](https://developer.linkedin.com/blog/posts/2015/developer-program-changes)
 
 ## Wie kann ich LinkedIn bei Fragen kontaktieren? {#how-can-i-contact-linkedin-with-questions}
 

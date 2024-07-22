@@ -6,7 +6,7 @@ exl-id: 09c597bb-d28a-463b-8340-ff22d2e0fa02
 feature: Programs
 source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
@@ -27,31 +27,31 @@ Sie können eine Liste von Personen importieren, die automatisch Mitglied eines 
 
 ## CSV in Marketo importieren {#import-your-csv-into-marketo}
 
-1. Navigieren Sie in Ihrem Programm zum **[!UICONTROL Mitglieder]** Abschnitt.
+1. Navigieren Sie in Ihrem Programm zum Abschnitt **[!UICONTROL Member]** .
 
    ![](assets/image2014-9-18-15-3a3-3a57.png)
 
-1. Klicks **[!UICONTROL Importieren von Mitgliedern]**.
+1. Klicken Sie auf **[!UICONTROL Mitglieder importieren]**.
 
    ![](assets/image2014-9-18-15-3a38-3a14.png)
 
-1. Wählen Sie die CSV aus und klicken Sie auf **[!UICONTROL Nächste]**.
+1. Wählen Sie die CSV-Datei aus und klicken Sie auf **[!UICONTROL Weiter]**.
 
    ![](assets/importlist1.png)
 
-1. Ordnen Sie die Datenwerte aus der Liste den entsprechenden Marketo-Feldern zu und klicken Sie auf **[!UICONTROL Nächste]**.
+1. Ordnen Sie die Datenwerte aus der Liste den entsprechenden Marketo-Feldern zu und klicken Sie auf **[!UICONTROL Weiter]**.
 
    ![](assets/importlist12.png)
 
    >[!NOTE]
    >
-   >Wenn es Felder gibt, die Sie nicht importieren möchten, wählen Sie **[!UICONTROL IGNORE]** im Dropdown-Menü Marketo-Feld.
+   >Wenn es Felder gibt, die Sie nicht importieren möchten, wählen Sie **[!UICONTROL IGNORE]** im Dropdown-Menü &quot;Marketo-Feld&quot;aus.
 
-1. Wählen Sie die **[!UICONTROL Mitgliederstatus]** für Ihre Liste.
+1. Wählen Sie den **[!UICONTROL Mitgliederstatus]** für Ihre Liste aus.
 
    ![](assets/image2014-9-18-15-3a41-3a32.png)
 
-1. Klicks **[!UICONTROL Import]**.
+1. Klicken Sie auf **[!UICONTROL Importieren]**.
 
    ![](assets/image2014-9-18-15-3a44-3a19.png)
 

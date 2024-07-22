@@ -7,7 +7,7 @@ feature: Custom Objects
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '273'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
 
@@ -21,11 +21,11 @@ ht-degree: 3%
 
 Verwenden Sie das Menü &quot;Aktionen für benutzerdefinierte Objekte&quot;, um ein benutzerdefiniertes Objekt zu bearbeiten oder zu löschen.
 
-1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
+1. Wechseln Sie zum Bereich **[!UICONTROL Admin]** .
 
    ![](assets/edit-and-delete-a-marketo-custom-object-1.png)
 
-1. Klicken **[!UICONTROL Benutzerdefinierte Marketo-Objekte]**.
+1. Klicken Sie auf **[!UICONTROL Marketo Custom Objects]**.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-2.png)
 
@@ -33,29 +33,29 @@ Verwenden Sie das Menü &quot;Aktionen für benutzerdefinierte Objekte&quot;, um
 
    ![](assets/edit-and-delete-a-marketo-custom-object-3.png)
 
-1. Klicken Sie auf **[!UICONTROL Benutzerdefinierte Objektaktionen]** Registerkarte und klicken Sie auf **[!UICONTROL Objekt bearbeiten]**.
+1. Klicken Sie auf die Registerkarte **[!UICONTROL Benutzerdefinierte Objektaktionen]** und klicken Sie auf **[!UICONTROL Objekt bearbeiten]**.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-4.png)
 
-1. Nehmen Sie die gewünschten Änderungen vor. Ziehen Sie den Schieberegler darüber, wenn Sie das Objekt auf der Seite &quot;Lead-Detail&quot;anzeigen möchten. Klicken **[!UICONTROL Speichern]**.
+1. Nehmen Sie die gewünschten Änderungen vor. Ziehen Sie den Schieberegler darüber, wenn Sie das Objekt auf der Seite &quot;Lead-Detail&quot;anzeigen möchten. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-5.png)
 
-1. Stellen Sie sicher, dass Sie [das bearbeitete Objekt](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md).
+1. Achten Sie darauf, [das bearbeitete Objekt](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md) zu genehmigen.
 
 ## Löschen eines benutzerdefinierten Objekts {#delete-a-custom-object}
 
-Es ist einfach, ein benutzerdefiniertes Objekt zu löschen, aber Sie müssen vorsichtig sein. Benutzerdefinierte Objekte können mit anderen Objekten oder mit Smart-Listen verbunden werden. Marketo warnt Sie also, bevor Sie auf **[!UICONTROL Löschen]**.
+Es ist einfach, ein benutzerdefiniertes Objekt zu löschen, aber Sie müssen vorsichtig sein. Benutzerdefinierte Objekte können mit anderen Objekten oder mit Smart-Listen verbunden werden. Daher warnt Marketo Sie, bevor Sie auf **[!UICONTROL Löschen]** klicken.
 
 >[!CAUTION]
 >
->Sie können ein benutzerdefiniertes Objekt nicht wiederherstellen, nachdem Sie es gelöscht haben.
+>Sie können ein benutzerdefiniertes Objekt nach dem Löschen nicht wiederherstellen.
 
-1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
+1. Wechseln Sie zum Bereich **[!UICONTROL Admin]** .
 
    ![](assets/edit-and-delete-a-marketo-custom-object-6.png)
 
-1. Klicken **[!UICONTROL Benutzerdefinierte Marketo-Objekte]**.
+1. Klicken Sie auf **[!UICONTROL Marketo Custom Objects]**.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-7.png)
 
@@ -63,19 +63,19 @@ Es ist einfach, ein benutzerdefiniertes Objekt zu löschen, aber Sie müssen vor
 
    ![](assets/edit-and-delete-a-marketo-custom-object-8.png)
 
-1. Klicken **[!UICONTROL Benutzerdefinierte Objektaktionen]** und wählen Sie **[!UICONTROL Objekt löschen]**.
+1. Klicken Sie auf **[!UICONTROL Benutzerdefinierte Objektaktionen]** und wählen Sie **[!UICONTROL Objekt löschen]** aus.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-9.png)
 
    >[!TIP]
    >
-   >Sie können auch mit der rechten Maustaste auf das Objekt klicken und **[!UICONTROL Objekt löschen]**.
+   >Sie können auch mit der rechten Maustaste auf das Objekt klicken und **[!UICONTROL Objekt löschen]** auswählen.
 
-1. Wenn sich das benutzerdefinierte Objekt im Entwurfsformular befindet, das noch nicht genehmigt wurde, erhalten Sie diese Warnung. Wenn Sie sich sicher sind, klicken Sie auf **[!UICONTROL Löschen]**.
+1. Wenn sich das benutzerdefinierte Objekt im Entwurfsformular befindet, das noch nicht genehmigt wurde, erhalten Sie diese Warnung. Wenn Sie sicher sind, klicken Sie auf **[!UICONTROL Löschen]**.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-10.png)
 
-1. Wenn das benutzerdefinierte Objekt bereits genehmigt wurde, besteht beim Löschen ein höheres Risiko. Sie werden also diese stärkere Warnung bekommen. Eingabe **[!UICONTROL Ich verstehe]**, überprüfen Sie die **[!UICONTROL Rückgängig nicht möglich]** und klicken Sie auf **[!UICONTROL Löschen]**.
+1. Wenn das benutzerdefinierte Objekt bereits genehmigt wurde, besteht beim Löschen ein höheres Risiko. Sie werden also diese stärkere Warnung bekommen. Geben Sie **[!UICONTROL I understand]** ein, aktivieren Sie das Kontrollkästchen **[!UICONTROL Cannot Undo]** und klicken Sie auf **[!UICONTROL Delete]**.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-11.png)
 

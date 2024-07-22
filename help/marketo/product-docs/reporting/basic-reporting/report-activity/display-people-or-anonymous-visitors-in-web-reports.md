@@ -17,17 +17,17 @@ ht-degree: 0%
 >
 >[Hinzufügen des Munchkin-Trackingcodes zu Ihrer Website](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
 
-Im [Webseiten-Aktivität](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) und  [Webaktivitätsberichte der Firma](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md) Sie können Folgendes sehen: [Personen oder anonyme Besucher](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md) die Ihre Site besuchen. Den anonymen Besuchern liegen Daten vor, wie z. B. Metrobereich.  So können Sie auswählen, ob der Bericht bekannte oder anonyme Besucher anzeigt.
+In den Berichten [Web-Seitenaktivität](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) und [Firmen-Web-Aktivität](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md) können Sie entweder [Personen oder anonyme Besucher](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md) sehen, die Ihre Site besuchen. Den anonymen Besuchern liegen Daten vor, wie z. B. Metrobereich.  So können Sie auswählen, ob der Bericht bekannte oder anonyme Besucher anzeigt.
 
-1. Klicken Sie im Bericht &quot;Webseiten-Aktivität&quot;auf **Einrichtung**.
+1. Klicken Sie im Bericht &quot;Web Page Activity&quot;auf **Setup**.
 
    ![](assets/image2015-3-10-11-3a43-3a13.png)
 
-1. Doppelklicken **Aktivitätsquelle**.
+1. Doppelklicken Sie auf **Activity Source**.
 
    ![](assets/image2016-2-2-14-3a5-3a59.png)
 
-1. Wählen Sie im Popup-Fenster **Bekannte Leads** (Personen) oder **Anonyme Besucher** aus der Dropdown-Liste aus.
+1. Wählen Sie im Popup **Bekannte Leads** (Personen) oder **Anonyme Besucher** aus der Dropdown-Liste aus.
 
    ![](assets/image2016-2-2-14-3a7-3a8.png)
 
@@ -35,7 +35,7 @@ Im [Webseiten-Aktivität](/help/marketo/product-docs/reporting/basic-reporting/r
    >
    >Wenn Sie ISPs für anonyme Besucher einbeziehen, wird ein längerer Bericht generiert. Wenn Sie diese jedoch ausschließen, erhalten Sie einen klareren Überblick darüber, woher Ihre Besucher neben den Standardquellen wie Google kommen.
 
-1. Das ist es. Klicken Sie auf **Bericht** zurück und zeigen Ihren Bericht mit bekannten oder anonymen Personen an.
+1. Das ist es. Klicken Sie auf die Registerkarte **Bericht** , um zurück zu gehen und Ihren Bericht mit bekannten oder anonymen Personen anzuzeigen.
 
    ![](assets/image2015-3-10-11-3a48-3a36.png)
 

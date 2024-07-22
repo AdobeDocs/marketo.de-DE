@@ -19,19 +19,19 @@ Mit dieser Integration können Sie eine Marketo Engage-Zielgruppe an Google send
 >
 >**Erforderliche Administratorberechtigungen**
 
-1. Navigieren Sie zu **[!UICONTROL Admin]**.
+1. Wechseln Sie zu **[!UICONTROL Admin]**.
 
    ![](assets/admin.png)
 
-1. Klicks **[!UICONTROL LaunchPoint]**.
+1. Klicken Sie auf **[!UICONTROL LaunchPoint]**.
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. Auswählen **[!UICONTROL Neu]** then **[!UICONTROL Neuer Dienst]**.
+1. Wählen Sie **[!UICONTROL Neu]** und dann **[!UICONTROL Neuer Dienst]** aus.
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. Geben Sie einen **[!UICONTROL Anzeigename]** und wählen **[!UICONTROL Google-Kundenabgleich]** aus dem **[!UICONTROL Dienst]** angezeigt. Klicken Sie auf **[!UICONTROL Erstellen]**.
+1. Geben Sie einen **[!UICONTROL Anzeigenamen]** ein und wählen Sie **[!UICONTROL Google-Kundenabgleich]** aus der Dropdownliste **[!UICONTROL Dienst]** aus. Klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/chooseservice.png)
 
@@ -43,7 +43,7 @@ Mit dieser Integration können Sie eine Marketo Engage-Zielgruppe an Google send
 
    >[!CAUTION]
    >
-   >Damit Marketo Zielgruppen über mehrere AdWords-Konten hinweg senden kann, muss der Google-Benutzer, den Sie in den folgenden Schritten autorisieren, Zugriff auf _all_ dieser Konten.
+   >Damit Marketo Zielgruppen über mehrere AdWords-Konten hinweg senden kann, muss der Google-Benutzer, den Sie in den folgenden Schritten autorisieren, Zugriff auf _alle_ dieser Konten haben.
 
    ![](assets/chooseaccount.png)
 

@@ -17,13 +17,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Tauchen Sie tiefer in [Programmmitgliedschaft](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}.
+>Tauchen Sie ein in die [Programmmitgliedschaft](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}.
 
 ## Nach einem Mitglied suchen {#search-for-a-member}
 
 Verwenden Sie unten im Bereich Mitglieder das Suchfeld, um nach Programmmitgliedern nach Name, E-Mail-Adresse, Berufsbezeichnung oder Unternehmen zu suchen.
 
-1. Klicken Sie auf **[!UICONTROL Mitglieder]** -Tab Ihres Programms.
+1. Klicken Sie auf die Registerkarte **[!UICONTROL Mitglieder]** Ihres Programms.
 
    ![](assets/image2014-10-1-16-3a0-3a29.png)
 
@@ -49,11 +49,11 @@ Klicken Sie mit der rechten Maustaste auf die Spaltenüberschrift, um die Sortie
 
 ## Festlegen, welche Spalten im Raster sichtbar sind {#choose-which-columns-are-visible-in-the-grid}
 
-1. Klicken Sie auf **[!UICONTROL Ansicht]** und wählen Sie **[!UICONTROL Ansicht erstellen]**.
+1. Klicken Sie auf die Dropdownliste **[!UICONTROL Ansicht]** und wählen Sie **[!UICONTROL Ansicht erstellen]** aus.
 
    ![](assets/image2014-10-1-16-3a32-3a43.png)
 
-1. Benennen Sie Ihre benutzerdefinierte Ansicht. Wählen Sie Spaltentitel aus. Klicks **[!UICONTROL Hinzufügen]** und **[!UICONTROL Entfernen]** um Spalten zu verschieben und eine Ansicht zu erstellen.
+1. Benennen Sie Ihre benutzerdefinierte Ansicht. Wählen Sie Spaltentitel aus. Klicken Sie auf **[!UICONTROL Hinzufügen]** und **[!UICONTROL Entfernen]** , um Spalten zu verschieben und eine Ansicht zu erstellen.
 
    ![](assets/image2014-10-1-16-3a36-3a52.png)
 
@@ -63,7 +63,7 @@ Klicken Sie mit der rechten Maustaste auf die Spaltenüberschrift, um die Sortie
 
 ## Filtern des Mitgliederrasters  {#filter-the-members-grid}
 
-1. Klicken Sie auf **[!UICONTROL Filter]** und wählen Sie einen Schritt nach dem Fortschritt aus.
+1. Klicken Sie auf das Dropdown-Menü **[!UICONTROL Filter]** und wählen Sie einen Schritt zum Sortieren nach Fortschritt aus.
 
    ![](assets/image2014-10-1-16-3a42-3a4.png)
 
@@ -71,11 +71,11 @@ Klicken Sie mit der rechten Maustaste auf die Spaltenüberschrift, um die Sortie
 
 Sie können den Status Ihrer Personen im Mitgliederraster ändern.
 
-1. Halten Sie die **[!UICONTROL Strg/Befehl]** und wählen Sie die Personen aus.
+1. Halten Sie **[!UICONTROL Strg/Befehl]** gedrückt und wählen Sie die Personen aus.
 
    ![](assets/image2014-10-1-16-3a44-3a27.png)
 
-1. Klicken Sie auf **[!UICONTROL Status ändern]** und wählen Sie einen Status aus.
+1. Klicken Sie auf die Dropdownliste **[!UICONTROL Status ändern]** und wählen Sie einen Status aus.
 
    ![](assets/image2014-10-1-16-3a47-3a45.png)
 

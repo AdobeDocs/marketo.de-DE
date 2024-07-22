@@ -7,7 +7,7 @@ feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '156'
-ht-degree: 7%
+ht-degree: 8%
 
 ---
 
@@ -17,19 +17,19 @@ Zeigen Sie die Leistung von E-Mails an, die über Salesforce, Microsoft Dynamics
 
 ## Einen Bericht erstellen {#generate-a-report}
 
-1. Klicks **Analytics**.
+1. Klicken Sie auf **Analytics**.
 
    ![](assets/mainnav-analyticshand-small.png)
 
-1. Klicks **Sales Insight-E-Mail-Leistung**.
+1. Klicken Sie auf **Sales Insight Email Performance**.
 
    ![](assets/analytics-salesemailreporthand.png)
 
-1. Klicken Sie auf **Einrichtung** und wählen Sie die gewünschten Werte aus.
+1. Klicken Sie auf die Registerkarte **Setup** und wählen Sie die gewünschten Werte aus.
 
    ![](assets/three.png)
 
-1. Klicken Sie auf **Bericht** Registerkarte.
+1. Klicken Sie auf die Registerkarte **Bericht** .
 
    ![](assets/image2014-12-9-12-3a5-3a35.png)
 
@@ -47,19 +47,19 @@ Zeigen Sie die Leistung von E-Mails an, die über Salesforce, Microsoft Dynamics
 
 Sie können diesen Bericht nach Vertriebsmitarbeitern gruppiert anzeigen, indem Sie Ihre Einstellungen ändern.
 
-1. Klicks **Einrichtung**. Doppelklicken **Email**.
+1. Klicken Sie auf **Einrichten**. Doppelklicken Sie auf **E-Mail**.
 
    ![](assets/image2014-12-9-12-3a12-3a19.png)
 
-1. Wählen Sie E-Mails gruppieren nach **Vertriebsmitarbeiter**.
+1. Wählen Sie Gruppe-E-Mails nach **Vertriebsmitarbeiter** aus.
 
    ![](assets/image2014-12-9-12-3a16-3a42.png)
 
-1. Klicks **Speichern**.
+1. Klicken Sie auf **Speichern**.
 
    ![](assets/image2014-12-9-12-3a17-3a39.png)
 
-1. Klicken Sie auf **Bericht** Registerkarte.
+1. Klicken Sie auf die Registerkarte **Bericht** .
 
    ![](assets/image2014-12-9-12-3a19-3a7.png)
 

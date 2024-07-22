@@ -6,7 +6,7 @@ exl-id: 7928dfff-4d3f-42b4-94ad-0147a2fc3433
 feature: Audit Trail
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Filtern Sie nach Zeitrahmen, Asset-Typ, Benutzer, durchgeführte Aktionen und mehr.
 
-1. Klicken **[!UICONTROL Admin]**.
+1. Klicken Sie auf **[!UICONTROL Admin]**.
 
    ![](assets/filtering-in-audit-trail-1.png)
 
-1. under **[!UICONTROL Sicherheit]** auswählen **[!UICONTROL Audit-Protokoll]**.
+1. Wählen Sie unter &quot;**[!UICONTROL Sicherheit]**&quot;den Eintrag &quot;**[!UICONTROL Audit-Protokoll]**&quot;.
 
    ![](assets/filtering-in-audit-trail-2.png)
 
@@ -29,21 +29,21 @@ Filtern Sie nach Zeitrahmen, Asset-Typ, Benutzer, durchgeführte Aktionen und me
 
    >[!NOTE]
    >
-   >Es gibt eine Vielzahl möglicher Suchparameter-Kombinationen. In diesem Beispiel suchen wir: _alle - von jedermann bearbeiteten - E-Mails in den letzten sieben Tagen_.
+   >Es gibt eine Vielzahl möglicher Suchparameter-Kombinationen. In diesem Beispiel finden wir: _alle E-Mails, die von irgendjemandem bearbeitet wurden, in den letzten sieben Tagen_.
 
-1. Klicken Sie auf **[!UICONTROL Zeitraum]** und wählen Sie **[!UICONTROL Letzte 7 Tage]**.
+1. Klicken Sie auf die Dropdownliste **[!UICONTROL Zeitraum]** und wählen Sie **[!UICONTROL Letzte 7 Tage]** aus.
 
    ![](assets/filtering-in-audit-trail-4.png)
 
-1. Klicken Sie auf **[!UICONTROL Asset-Typ]** und wählen Sie **[!UICONTROL Email]**.
+1. Klicken Sie auf das Dropdown-Menü **[!UICONTROL Asset-Typ]** und wählen Sie **[!UICONTROL E-Mail]** aus.
 
    ![](assets/filtering-in-audit-trail-5.png)
 
-1. Klicken Sie auf **Actions** und wählen Sie **[!UICONTROL Bearbeiten]**.
+1. Klicken Sie auf das Dropdown-Menü **AAktionen** und wählen Sie **[!UICONTROL Bearbeiten]** aus.
 
    ![](assets/filtering-in-audit-trail-6.png)
 
-1. Klicken **[!UICONTROL Anwenden]**.
+1. Klicken Sie auf **[!UICONTROL Anwenden]**.
 
    ![](assets/filtering-in-audit-trail-7.png)
 

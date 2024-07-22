@@ -7,19 +7,19 @@ feature: Field Management
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '170'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
 # Benutzerdefiniertes Feld in Marketo erstellen {#create-a-custom-field-in-marketo}
 
-Wenn Sie ein neues benutzerdefiniertes Feld in Marketo Engage zum Speichern/Erfassen von Daten benötigen, können Sie hier eine erstellen.
+Wenn Sie ein neues benutzerdefiniertes Feld im Marketo Engage zum Speichern/Erfassen von Daten benötigen, können Sie hier eine erstellen.
 
-1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
+1. Wechseln Sie zum Bereich **[!UICONTROL Admin]** .
 
    ![](assets/create-a-custom-field-in-marketo-1.png)
 
-1. Klicks **[!UICONTROL Feldverwaltung]**.
+1. Klicken Sie auf **[!UICONTROL Feldverwaltung]**.
 
    ![](assets/create-a-custom-field-in-marketo-2.png)
 
@@ -27,7 +27,7 @@ Wenn Sie ein neues benutzerdefiniertes Feld in Marketo Engage zum Speichern/Erfa
    >
    >Wenn Sie möchten, dass die Felder mit Ihrem CRM-System synchronisiert werden, erstellen Sie sie im CRM-System und sie werden automatisch in Marketo erstellt.
 
-1. Klicks **[!UICONTROL Neues benutzerdefiniertes Feld]**.
+1. Klicken Sie auf **[!UICONTROL Neues benutzerdefiniertes Feld]**.
 
    ![](assets/create-a-custom-field-in-marketo-3.png)
 
@@ -35,11 +35,11 @@ Wenn Sie ein neues benutzerdefiniertes Feld in Marketo Engage zum Speichern/Erfa
 
    >[!TIP]
    >
-   >Sehen Sie sich die [Glossar zu benutzerdefinierten Feldtypen](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
+   >Sehen Sie sich das Glossar [Benutzerdefinierte Feldtypen](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md) an.
 
    ![](assets/create-a-custom-field-in-marketo-4.png)
 
-1. Geben Sie die [!UICONTROL Name] wie Sie möchten, dass sie in Marketo angezeigt wird. Die [!UICONTROL API-Name] wird automatisch generiert. Sie können sie anpassen, sie kann jedoch nicht nach der Festlegung umbenannt werden. Klicks **[!UICONTROL Erstellen]** wann geschehen.
+1. Geben Sie den [!UICONTROL Namen] so ein, wie er in Marketo angezeigt werden soll. Der [!UICONTROL API-Name] wird automatisch generiert. Sie können sie anpassen, sie kann jedoch nicht nach der Festlegung umbenannt werden. Klicken Sie abschließend auf **[!UICONTROL Erstellen]** .
 
 >[!CAUTION]
 >

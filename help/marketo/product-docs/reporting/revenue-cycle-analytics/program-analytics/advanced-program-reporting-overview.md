@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Übersicht über die erweiterten Programmberichte {#advanced-program-reporting-overview}
 
-**Umsatz-Cycle Explorer** umfasst mehrere Bereiche der Analyse und eine breite Palette neuer Metriken, mit denen Sie die Effektivität des Programms messen können.
+**Umsatz-Zyklus-Explorer** enthält mehrere Analysebereiche und eine breite Palette neuer Metriken, mit denen Sie die Effektivität des Programms messen können.
 
 ![](assets/rev.png)
 
@@ -27,19 +27,19 @@ Analysebereiche enthalten jeweils unterschiedliche Datensätze und Metriken in U
 
 ## Bereiche der Programmanalyse {#program-analysis-areas}
 
-* **[Programmkostenanalyse](understanding-the-program-cost-analysis-area.md)** - Sehen Sie den ROI für alle Ihre Programme.
+* **[Analyse der Programmkosten](understanding-the-program-cost-analysis-area.md)** - Sehen Sie sich den ROI für alle Ihre Programme an.
 
-* **[Analyse der Programmmitgliedschaft](understanding-the-program-membership-analysis-area.md)** - Anzeigen der Ergebnisse nach Kanal, Teilnahme, Erfolgskriterien usw.
+* **[Analyse der Programmmitgliedschaft](understanding-the-program-membership-analysis-area.md)** - Zeigt die Ergebnisse nach Kanal, Beitrag, Erfolgskriterien usw. an.
 
-* **[Analyse der Programmchancen](understanding-the-program-opportunity-analysis-area.md)** - Auf Verteilung, Umsatz und ROI basierende Chancen.
+* **[Analyse der Programmangebote](understanding-the-program-opportunity-analysis-area.md)** - basierend auf der Verteilung, dem Umsatz und dem ROI generierte Chancen.
 
-* **[Analyse der Programmumsatzstatistik](understanding-the-program-revenue-stage-analysis-area.md)** - Neue Namen, die innerhalb Ihres Umsatzzyklusmodells bestimmte Erfolgsphasen erreicht haben.
+* **[Analyse der Programmumsatzphase](understanding-the-program-revenue-stage-analysis-area.md)** - Neue Namen, die innerhalb Ihres Umsatzzyklusmodells bestimmte Erfolgsphasen erreicht haben.
 
 ## Programm-Analyzer {#program-analyzers}
 
-* **Programm-Analyzer** - Sie können Programme, die erfolgreich sind oder nicht, schnell identifizieren und Ihre Ressourcen entsprechend fokussieren.
+* **Programm-Analyzer** - Ermitteln Sie schnell erfolgreiche oder nicht erfolgreiche Programme und konzentrieren Sie Ihre Ressourcen entsprechend.
 
-* **Opportunity Influenza Analyzer** - den Beitrag des Marketing durch Messung der Wirkung von Programmen und wichtigen Interaktionen, die zu Chancen geführt haben, beweisen.
+* **Opportunity Influence Analyzer** - Beweisen Sie den Beitrag von Marketing durch die Messung der Auswirkungen von Programmen und wichtigen Interaktionen, die zu Chancen führten.
 
 ## Berichtsoptionen {#report-options}
 

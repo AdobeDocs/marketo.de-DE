@@ -6,18 +6,18 @@ exl-id: 1bdc15f4-eb86-4e29-948a-0823a583ee86
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '321'
 ht-degree: 1%
 
 ---
 
 # Januar 2013 - Versionshinweise {#release-notes-january}
 
-Die Januar-Version erweitert unser Social-Angebot mit **Verweisangebote**. Darüber hinaus können Marketo Lead Management-Benutzer ihre Zeitzone, Sprache und Gebietsschema-Voreinstellungen festlegen. Beachten Sie, dass Funktionen mit einer &#42; sind nur in der Select Edition verfügbar.
+Die Januar-Version erweitert unser Social-Angebot um **Verweisangebote**. Darüber hinaus können Marketo Lead Management-Benutzer ihre Zeitzone, Sprache und Gebietsschema-Voreinstellungen festlegen. Bitte beachten Sie, dass Funktionen, die mit einem &#42; gekennzeichnet sind, nur in der Select Edition verfügbar sind.
 
 ## Empfehlungsangebote {#referral-offers}
 
-A **Verweisangebot** gibt Ihren Leads einen Anreiz, ihre Freunde zu verweisen. Erstellen Sie Ziele und Belohnungen für erfolgreiche Verweise. Sie können sie auf Landingpages, auf Ihrer Website und sogar in Facebook verwenden.
+Ein **Verweisangebot** gibt Ihren Leads einen Anreiz, ihre Freunde zu verweisen. Erstellen Sie Ziele und Belohnungen für erfolgreiche Verweise. Sie können sie auf Landingpages, auf Ihrer Website und sogar in Facebook verwenden.
 
 ![](assets/image2014-9-22-15-3a20-3a13.png)
 

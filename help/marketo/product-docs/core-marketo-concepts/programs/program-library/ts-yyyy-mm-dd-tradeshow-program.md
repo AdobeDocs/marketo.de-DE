@@ -2,11 +2,11 @@
 description: TS-YYYY-MM-DD-Tradeshow-Programm - Marketo Docs - Produktdokumentation
 title: TS-YYYY-MM-DD-Tradeshow-Programm
 feature: Programs
-exl-id: 32e4d07e-e9fd-4906-acc4-5f97c09f3c44
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 39ef8d6e-392b-456e-a925-b1f6c2cb81d8
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '409'
-ht-degree: 21%
+source-wordcount: '410'
+ht-degree: 15%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 21%
 
 Dies ist ein Beispiel für ein Messeprogramm mit Einladungs- und Follow-up-E-Mails unter Verwendung eines Marketo Engage Event Program.
 
-Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalten Sie vom Adobe-Account-Team oder unter [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} Seite.
+Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Programms an das Adobe-Account-Team oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} .
 
 ## Kanal-Zusammenfassung {#channel-summary}
 
@@ -23,7 +23,7 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
   <tr> 
    <th>Kanal</th> 
    <th>Status der Mitgliedschaft</th>
-   <th>Analyseverhalten</th>
+   <th>Analytics Behavior</th>
    <th>Programmtyp</th>
   </tr> 
   <tr> 
@@ -31,16 +31,16 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
    <td>01 - Eingeladen 
    <br/>02-Waitlisted
    <br/>03-Registered
-   <br/>04-besuchter Stand
-   <br/>05-interagiert bei Show - Erfolg
-   <br/>60-Grad-Teilnahme an Beitragsshow - Erfolg</td>
-   <td>Inklusiv</td>
+   <br/>04-Besuchter Stand
+   <br/>05-Interagiert bei Sendung - Erfolg
+   <br/>06-Interagiert bei Beitragsshow - Erfolg</td>
+   <td>Einschließlich</td>
    <td>Veranstaltung</td>
   </tr>
  </tbody> 
 </table>
 
-## Das Programm enthält die folgenden Assets {#program-contains-the-following-assets}
+## Das Programm enthält die folgende Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -111,7 +111,7 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
 
 ![](assets/ts-yyyy-mm-dd-tradeshow-program-1.png)
 
-## Meine Token Enthalten {#my-tokens-included}
+## My Tokens Include {#my-tokens-included}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -184,13 +184,13 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
    * Erstellen von Tags in diesem Abonnement - _Empfohlen_
    * Ignorieren
 
-* **Landingpage-Vorlage mit demselben Namen**
+* **Vorlage für Einstiegsseiten mit demselben Namen**
    * Originalvorlage kopieren
-   * Zielvorlage verwenden - _Empfohlen_
+   * Verwenden Sie die Zielvorlage - _Empfohlen_
 
 * **Bilder mit demselben Namen**
    * Beide Dateien beibehalten
-   * Element in diesem Abonnement ersetzen - _Empfohlen_
+   * Ersetzen des Elements in diesem Abonnement - _Empfohlen_
 
 * **E-Mail-Vorlagen mit demselben Namen**
    * Beide Vorlagen beibehalten
@@ -211,7 +211,7 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
 
 >[!TIP]
 >
->Vergessen Sie nicht, die Kampagne &quot;03 - Interagiert mit Folgenachrichten (Programm-Erfolg)&quot; zu aktivieren, um den Erfolg zu verfolgen! Verwenden Sie dies _before_ Ihre E-Mails werden gesendet.
+>Vergessen Sie nicht, die Kampagne &quot;03 - Interagiert mit Folgenachrichten (Programm-Erfolg)&quot; zu aktivieren, um den Erfolg zu verfolgen! Führen Sie dies _vor_ aus, wenn Ihre E-Mails gesendet werden.
 
 >[!IMPORTANT]
 >

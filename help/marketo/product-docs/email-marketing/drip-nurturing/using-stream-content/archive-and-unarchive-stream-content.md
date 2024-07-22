@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Archivieren und Archivieren von Stream-Inhalten aufheben {#archive-and-unarchive-stream-content}
 
-Wenn Sie ein Inhaltselement nicht mehr in einem Stream verwenden möchten, können Sie [remove](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md) oder archivieren. Hier erfahren Sie, wie Sie Inhalte archivieren.
+Wenn Sie ein Inhaltselement nicht mehr in einem Stream verwenden möchten, können Sie es entweder [entfernen](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md) oder archivieren. Hier erfahren Sie, wie Sie Inhalte archivieren.
 
 >[!TIP]
 >
@@ -21,7 +21,7 @@ Wenn Sie ein Inhaltselement nicht mehr in einem Stream verwenden möchten, könn
 
 ## Archiv-Stream-Inhalt {#archive-stream-content}
 
-1. Wählen Sie Ihr Interaktionsprogramm aus und navigieren Sie zu **Streams** Registerkarte.
+1. Wählen Sie Ihr Interaktionsprogramm aus und wechseln Sie zur Registerkarte **Streams** .
 
    ![](assets/cloneasteam-4.jpg)
 
@@ -33,7 +33,7 @@ Wenn Sie ein Inhaltselement nicht mehr in einem Stream verwenden möchten, könn
 
 ## Archivierung von Stream-Inhalt aufheben {#unarchive-stream-content}
 
-1. Wählen Sie Ihr Interaktionsprogramm aus und navigieren Sie zu **Streams** Registerkarte.
+1. Wählen Sie Ihr Interaktionsprogramm aus und wechseln Sie zur Registerkarte **Streams** .
 
    ![](assets/image2014-9-15-17-3a42-3a11.png)
 

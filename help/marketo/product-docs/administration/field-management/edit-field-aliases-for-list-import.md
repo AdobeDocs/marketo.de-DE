@@ -7,7 +7,7 @@ feature: Field Management
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '131'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
 
@@ -19,11 +19,11 @@ Wenn Sie eine Liste mit unbekannten Headern importieren, können Sie Feldaliasen
 >
 >**Erforderliche Administratorberechtigungen**
 
-1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
+1. Wechseln Sie zum Bereich **[!UICONTROL Admin]** .
 
    ![](assets/edit-field-aliases-for-list-import-1.png)
 
-1. Klicks **[!UICONTROL Feldverwaltung]**.
+1. Klicken Sie auf **[!UICONTROL Feldverwaltung]**.
 
    ![](assets/edit-field-aliases-for-list-import-2.png)
 
@@ -31,7 +31,7 @@ Wenn Sie eine Liste mit unbekannten Headern importieren, können Sie Feldaliasen
 
    ![](assets/edit-field-aliases-for-list-import-3.png)
 
-1. Im **[!UICONTROL Feldaktionen]** Dropdown, klicken Sie auf **[!UICONTROL Importalias bearbeiten]**.
+1. Klicken Sie in der Dropdown-Liste **[!UICONTROL Feldaktionen]** auf **[!UICONTROL Importalias bearbeiten]**.
 
    ![](assets/edit-field-aliases-for-list-import-4.png)
 
@@ -41,7 +41,7 @@ Wenn Sie eine Liste mit unbekannten Headern importieren, können Sie Feldaliasen
 
 >[!TIP]
 >
->Klicks **[!UICONTROL Weitere hinzufügen]** und geben Sie bei Bedarf weitere Alias ein.
+>Klicken Sie auf **[!UICONTROL Weitere hinzufügen]** und geben Sie bei Bedarf weitere Alias ein.
 
 Schau dir das an! Wenn Sie jetzt eine Tabelle mit einer Spalte namens &quot;DOB&quot;importieren, erkennt Marketo sie automatisch als &quot;Geburtsdatum&quot;und importiert die Daten in das richtige Feld.
 

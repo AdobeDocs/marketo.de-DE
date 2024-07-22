@@ -19,29 +19,29 @@ Mithilfe von Smart-Listen können Sie mühelos alle Mitglieder des Umsatzzyklusm
 >
 >[Erstellen einer Smart-Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
-1. Klicken Sie bei ausgewähltem Smart auf die **Smart List** Registerkarte.
+1. Klicken Sie bei ausgewähltem Smart auf die Registerkarte **Smart-Liste** .
 
    ![](assets/image2015-4-29-14-3a6-3a36.png)
 
-1. Suchen Sie die **Mitglied des Umsatzmodells** filtern und in die Arbeitsfläche ziehen.
+1. Suchen Sie den Filter **Mitglied des Umsatzmodells** und ziehen Sie ihn auf die Arbeitsfläche.
 
    ![](assets/image2015-4-29-14-3a12-3a33.png)
 
-1. Wählen Sie eine **Modell**.
+1. Wählen Sie ein **Modell** aus.
 
    ![](assets/image2015-5-13-18-3a2-3a23.png)
 
    Dadurch erhalten Sie alle Leads in diesem Modell, unabhängig von der Phase. Normalerweise möchten Sie eine bestimmte Phase. Verwenden Sie stattdessen den folgenden Filter.
 
-1. Suchen Sie die **Umsatzstufe** filtern und in die Arbeitsfläche ziehen.
+1. Suchen Sie den Filter **Umsatzstufe** und ziehen Sie ihn auf die Arbeitsfläche.
 
    ![](assets/image2015-5-13-17-3a27-3a0.png)
 
-1. Wählen Sie eine **Staging**.
+1. Wählen Sie eine **Bühne** aus.
 
    ![](assets/image2015-5-13-17-3a31-3a9.png)
 
-1. Navigieren Sie zu **Leads** um die Ergebnisse anzuzeigen.
+1. Rufen Sie die Registerkarte **Leads** auf, um die Ergebnisse anzuzeigen.
 
    ![](assets/2.png)
 

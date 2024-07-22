@@ -6,8 +6,8 @@ exl-id: 851cbad3-0f6d-4ea0-857f-8b15337c7540
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '170'
-ht-degree: 5%
+source-wordcount: '181'
+ht-degree: 4%
 
 ---
 
@@ -16,11 +16,11 @@ ht-degree: 5%
 Lesen Sie das folgende Szenario und versuchen Sie, die Zahlen zu ermitteln, die im Raster angezeigt werden sollen.
 
 * 11. April | Fred wird von (Tradeshow) erworben
-* 15. April | Margo attends (Webinar) - success
+* 15. April | Margo-Teilnehmer (Webinar) - Erfolg
 * 22. April | Fred wird (Rolle) mit der Gelegenheit verknüpft
-* 22. April | Die Möglichkeit wird für 3.000 $ geschaffen
+* 22. April | Die Chance wird für 3.000 $ geschaffen
 
-| Programmname | (Fachmesse) | (Webinar) |
+| Programmname | (Gewerbeproben) | (Webinar) |
 |---|---|---|
 | (FT) Option erstellt | `<pre>1</pre>` | `<pre>0</pre>` |
 | (FT) Erstellte Pipeline | `<pre>$3,000</pre>` | `<pre>$0</pre>` |

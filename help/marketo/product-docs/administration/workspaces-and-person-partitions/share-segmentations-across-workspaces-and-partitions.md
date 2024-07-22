@@ -6,7 +6,7 @@ exl-id: b50f4328-fdba-4e39-bc0d-75bade1f9cbc
 feature: Partitions, Workspaces
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '474'
 ht-degree: 0%
 
 ---
@@ -23,25 +23,25 @@ Marketo eignet sich hervorragend, um genau die richtigen Personen für ein Progr
 
 >[!NOTE]
 >
->Lernen [Erstellen von Segmentierungen](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
+>Erfahren Sie [wie Sie Segmentierungen erstellen](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
 
-Nachdem Sie diese Rollen eingerichtet haben (_und_ Sie Arbeitsbereiche verwenden), sollten Sie sie für alle Arbeitsbereiche freigeben. Hier sind einige gute Dinge zu wissen:
+Nachdem Sie diese Rollen eingerichtet haben (_und_, die Sie verwenden, Arbeitsbereiche), sollten Sie sie für alle Arbeitsbereiche freigeben. Hier sind einige gute Dinge zu wissen:
 
 ## Regeln und Tipps {#rules-tips}
 
-* Jedes Marketo-Abonnement kann bis zu 20 Segmente &quot;insgesamt&quot;über mehrere Arbeitsbereiche (**nicht 20 pro Arbeitsbereich**).
+* Jedes Marketo-Abonnement kann bis zu 20 Segmentierungen insgesamt über mehrere Arbeitsbereiche hinweg enthalten (**nicht 20 pro Arbeitsbereich**).
 * Sie können eine Segmentierung nur für Arbeitsbereiche freigeben, auf die Sie Zugriff haben.
-* Stellen Sie sicher, dass Sie eine **Standardarbeitsbereich mit Sichtbarkeit für alle Partitionen**.
+* Stellen Sie sicher, dass Sie einen **Standard-Arbeitsbereich erstellen und verwenden, der Sichtbarkeit für alle Partitionen hat**.
 
 * Die Segmentierungsverarbeitung wird nur für die Personen im Arbeitsbereich ausgeführt, in dem die Segmentierung erstellt wird.
 
-   * Erstellen Sie die Segmentierung, die Sie im Standardarbeitsbereich freigeben möchten.
+   * Erstellen Sie die Segmentierung, die Sie in der Standard-Workspace freigeben möchten.
       * Genehmigen der Segmentierung
       * Der freigegebene Arbeitsbereich sieht einen gesperrten Ordner und die Segmentierung ist schreibgeschützt.
       * Die freigegebene Version kann nicht bearbeitet werden. Sie können nur die ursprüngliche Segmentierung bearbeiten, in der sie erstellt wurde.
 
    * Wenn Sie in einer freigegebenen Segmentierung auf ein Segment (z. B. das Gesundheitswesen) klicken, werden nur Personen in der Partition angezeigt, die dem angezeigten Arbeitsbereich zugeordnet ist.
-      * Wenn Sie eine Segmentierung in Workspace 1 (WS1) erstellen und sie mit WS2 teilen und WS1 keinen Zugriff auf die Partition für WS2 hat, wird die Segmentierung NICHT neu berechnet.
+      * Wenn Sie eine Segmentierung in Workspace 1 (WS1) erstellen und diese mit WS2 teilen und WS1 keinen Zugriff auf die Partition für WS2 hat, wird die Segmentierung NICHT neu berechnet.
       * Wenn Sie eine Segmentierung in einem Arbeitsbereich erstellen, der über eingeschränkte Partitionen verfügt, und diese dann für einen anderen Arbeitsbereich freigeben, werden in diesem Arbeitsbereich, in dem die freigegebene Segmentierung empfangen wurde, nur Personen angezeigt, die sich überschneiden.
 
 >[!NOTE]
@@ -56,15 +56,15 @@ Nachdem Sie diese Rollen eingerichtet haben (_und_ Sie Arbeitsbereiche verwenden
 
 ## Freigeben einer Segmentierung {#share-a-segmentation}
 
-1. Navigieren Sie zu **[!UICONTROL Datenbank]**.
+1. Wechseln Sie zur **[!UICONTROL Datenbank]**.
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-3.png)
 
-1. Rechtsklick **[!UICONTROL Segmentierungen]** und wählen Sie **[!UICONTROL Neuer Ordner]**.
+1. Klicken Sie mit der rechten Maustaste auf **[!UICONTROL Segmentierungen]** und wählen Sie **[!UICONTROL Neuer Ordner]** aus.
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-4.png)
 
-1. Benennen Sie den Ordner, den Sie über Arbeitsbereiche hinweg freigeben möchten (Beispiel: Segmente freigeben) und klicken Sie auf **[!UICONTROL Erstellen]**.
+1. Benennen Sie den Ordner, den Sie über Arbeitsbereiche hinweg freigeben möchten (Beispiel: Segmentierungen freigeben), und klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-5.png)
 
@@ -72,11 +72,11 @@ Nachdem Sie diese Rollen eingerichtet haben (_und_ Sie Arbeitsbereiche verwenden
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-6.png)
 
-1. Klicken Sie mit der rechten Maustaste auf den Ordner und wählen Sie **[!UICONTROL Ordner freigeben]**.
+1. Klicken Sie mit der rechten Maustaste auf den Ordner und wählen Sie **[!UICONTROL Ordner freigeben]** aus.
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-7.png)
 
-1. Wählen Sie die Arbeitsbereiche aus, für die Sie den Ordner freigeben möchten. Klicken **[!UICONTROL Speichern]**.
+1. Wählen Sie die Arbeitsbereiche aus, für die Sie den Ordner freigeben möchten. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-8.png)
 

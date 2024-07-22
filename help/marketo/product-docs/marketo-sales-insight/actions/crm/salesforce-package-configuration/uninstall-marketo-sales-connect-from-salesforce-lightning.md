@@ -4,8 +4,8 @@ title: Deinstallieren von Marketo Sales Connect von Salesforce Lightning
 exl-id: 4af89222-22b1-4c08-8081-3dab89d1985b
 source-git-commit: 544dfc0892016223c1e5976bd8c9d108ade7c984
 workflow-type: tm+mt
-source-wordcount: '1190'
-ht-degree: 8%
+source-wordcount: '1192'
+ht-degree: 9%
 
 ---
 
@@ -15,23 +15,23 @@ Hier erfahren Sie, wie Sie das Marketo Sales Connect-Package aus Ihrem Salesforc
 
 ## Felder für Verkaufsverbindung aus Seitenlayout entfernen {#remove-sales-connect-fields-from-page-layout}
 
-1. Klicken Sie in Salesforce Lightning auf das Zahnradsymbol und wählen Sie **Einrichtung**.
+1. Klicken Sie in Salesforce Lightning auf das Zahnradsymbol und wählen Sie **Setup** aus.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-1.png)
 
-1. Klicken **Object Manager**.
+1. Klicken Sie auf **Objekt-Manager**.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-2.png)
 
-1. Scrollen Sie nach unten zu und wählen Sie **Lead**.
+1. Scrollen Sie nach unten zu und wählen Sie **Lead** aus.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-3.png)
 
-1. Klicken **Seitenlayouts**.
+1. Klicken Sie auf **Seiten-Layouts**.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-4.png)
 
-1. Klicken **Lead-Layout**.
+1. Klicken Sie auf **Lead-Layout**.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-5.png)
 
@@ -39,7 +39,7 @@ Hier erfahren Sie, wie Sie das Marketo Sales Connect-Package aus Ihrem Salesforc
    >
    >Die Layout-Ansicht &quot;Seite bearbeiten&quot;wurde in Salesforce Lightning noch nicht aktualisiert.
 
-1. Wählen Sie in der Konsole **Felder**. Suchen Sie in der Schnellsuche nach &quot;MSC&quot;. Alle ausgegrauten Felder wurden Ihrem Seitenlayout hinzugefügt. Sie werden sie löschen müssen.
+1. Wählen Sie in der Konsole **Felder** aus. Suchen Sie in der Schnellsuche nach &quot;MSC&quot;. Alle ausgegrauten Felder wurden Ihrem Seitenlayout hinzugefügt. Sie werden sie löschen müssen.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-6.png)
 
@@ -53,13 +53,13 @@ Hier erfahren Sie, wie Sie das Marketo Sales Connect-Package aus Ihrem Salesforc
 
 1. Es gibt 10 Typen von MSC-Feldern, die zu diesem Abschnitt hinzugefügt werden können. Entfernen Sie alle hinzugefügten Felder oder löschen Sie einfach den gesamten Abschnitt.
 
-1. Klicken **Quick Save** wann geschehen.
+1. Klicken Sie abschließend auf **Quick Save** .
 
    ![](assets/uninstall-salesforce-lightning-customization-package-8.png)
 
 ## Entfernen von Verkaufsverbindungs-Schaltflächen aus Seitenlayouts {#remove-sales-connect-buttons-from-page-layouts}
 
-1. Wählen Sie in der Konsole (Schritt 4 oben) die Option **Schaltflächen**. Suchen Sie &quot;MSC&quot;. Alle ausgegrauten Schaltflächen wurden Ihrem benutzerdefinierten Schaltflächenabschnitt hinzugefügt. Sie werden sie löschen müssen.
+1. Wählen Sie in der Konsole (Schritt 4 oben) **Schaltflächen** aus. Suchen Sie &quot;MSC&quot;. Alle ausgegrauten Schaltflächen wurden Ihrem benutzerdefinierten Schaltflächenabschnitt hinzugefügt. Sie werden sie löschen müssen.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-9.png)
 
@@ -71,7 +71,7 @@ Hier erfahren Sie, wie Sie das Marketo Sales Connect-Package aus Ihrem Salesforc
 
    ![](assets/uninstall-salesforce-lightning-customization-package-10.png)
 
-1. Klicken **Quick Save** wann geschehen.
+1. Klicken Sie abschließend auf **Quick Save** .
 
    ![](assets/uninstall-salesforce-lightning-customization-package-11.png)
 
@@ -81,39 +81,39 @@ Hier erfahren Sie, wie Sie das Marketo Sales Connect-Package aus Ihrem Salesforc
 
    ![](assets/uninstall-salesforce-lightning-customization-package-12.png)
 
-1. Wählen Sie im Bereich Ausgewählte Felder die Felder Verkaufsverbindung aus und klicken Sie auf den Pfeil Entfernen . Klicken **OK** wann geschehen.
+1. Wählen Sie im Bereich Ausgewählte Felder die Felder Verkaufsverbindung aus und klicken Sie auf den Pfeil Entfernen . Klicken Sie abschließend auf **OK** .
 
    ![](assets/uninstall-salesforce-lightning-customization-package-13.png)
 
    >[!NOTE]
    >
-   >Abkürzung MSE _is_ Sales Connect. Es ist nur der vorherige Name &quot;Marketo Sales Engage&quot;.
+   >Die Abkürzung MSE _ist_ Sales Connect. Es ist nur der vorherige Name &quot;Marketo Sales Engage&quot;.
 
-1. Klicken **Speichern** wenn Sie mit der Lead-Seite fertig sind.
+1. Klicken Sie auf **Speichern** , wenn Sie mit der Lead-Seite fertig sind.
 
 ## Entfernen Sie die Aktionsschaltflächen &quot;Sales Connect&quot;-Massenaktion aus der Lead-Listenansicht. {#remove-sales-connect-bulk-action-buttons-from-lead-list-view}
 
-1. Klicken Sie in Salesforce Lightning auf das Zahnradsymbol und wählen Sie **Einrichtung**.
+1. Klicken Sie in Salesforce Lightning auf das Zahnradsymbol und wählen Sie **Setup** aus.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-14.png)
 
-1. Klicken **Object Manager**.
+1. Klicken Sie auf **Objekt-Manager**.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-15.png)
 
-1. Scrollen Sie nach unten zu und wählen Sie **Lead**.
+1. Scrollen Sie nach unten zu und wählen Sie **Lead** aus.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-16.png)
 
-1. Klicken **Suchlayouts**.
+1. Klicken Sie auf **Layouts durchsuchen**.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-17.png)
 
-1. Klicken Sie auf den Pfeil neben der Listenansicht und wählen Sie **Bearbeiten**.
+1. Klicken Sie auf den Pfeil neben der Listenansicht und wählen Sie **Bearbeiten** aus.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-18.png)
 
-1. Auswählen **Zu MSC Campaign hinzufügen**, **E-Mail mit MSC** und **Push to MSC** und klicken Sie auf den Pfeil &quot;Entfernen&quot;. Klicken Sie anschließend auf **Speichern**.
+1. Wählen Sie **Zu MSC-Kampagne hinzufügen**, **E-Mail mit MSC** und **Push to MSC** aus und klicken Sie auf den Pfeil &quot;Entfernen&quot;. Klicken Sie dann auf **Speichern**.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-19.png)
 
@@ -121,29 +121,29 @@ Die Schaltflächen in der Liste der Leads sollten nicht mehr angezeigt werden.
 
 ## MSC-Konfiguration für Kontakte entfernen {#remove-msc-configuration-for-contacts}
 
-1. Klicken Sie in Salesforce Lightning auf das Zahnradsymbol und wählen Sie **Einrichtung**.
+1. Klicken Sie in Salesforce Lightning auf das Zahnradsymbol und wählen Sie **Setup** aus.
 
-1. Klicken **Object Manager**.
+1. Klicken Sie auf **Objekt-Manager**.
 
-1. Scrollen Sie nach unten zu und wählen Sie **Kontakt**.
+1. Scrollen Sie nach unten zu und wählen Sie **Kontakt** aus.
 
-1. Klicken **Seitenlayouts**.
+1. Klicken Sie auf **Seiten-Layouts**.
 
-1. Klicken **Kontaktlayout**.
+1. Klicken Sie auf **Kontaktlayout**.
 
 1. Wiederholen Sie die Schritte für alle drei Abschnitte.
 
 ## MSC-Konfiguration für Opportunity entfernen {#remove-msc-configuration-for-opportunity}
 
-1. Klicken Sie in Salesforce Lightning auf das Zahnradsymbol und wählen Sie **Einrichtung**.
+1. Klicken Sie in Salesforce Lightning auf das Zahnradsymbol und wählen Sie **Setup** aus.
 
-1. Klicken **Object Manager**.
+1. Klicken Sie auf **Objekt-Manager**.
 
-1. Scrollen Sie nach unten zu und wählen Sie **Chancen**.
+1. Scrollen Sie nach unten zu und wählen Sie **Chancen** aus.
 
-1. Klicken **Seitenlayouts**.
+1. Klicken Sie auf **Seiten-Layouts**.
 
-1. Klicken **Opportunity Layout**.
+1. Klicken Sie auf **Opportunity Layout**.
 
 Die Opportunity-Ansicht hat nur eine Schaltfläche - &quot;MSE-E-Mail senden&quot;- und die folgenden Felder:
 
@@ -151,15 +151,15 @@ Die Opportunity-Ansicht hat nur eine Schaltfläche - &quot;MSE-E-Mail senden&quo
 
 ## MSC-Konfiguration für Konto entfernen {#remove-msc-configuration-for-account}
 
-1. Klicken Sie in Salesforce Lightning auf das Zahnradsymbol und wählen Sie **Einrichtung**.
+1. Klicken Sie in Salesforce Lightning auf das Zahnradsymbol und wählen Sie **Setup** aus.
 
-1. Klicken **Object Manager**.
+1. Klicken Sie auf **Objekt-Manager**.
 
-1. Scrollen Sie nach unten zu und wählen Sie **Konto**.
+1. Scrollen Sie nach unten zu und wählen Sie **Konto** aus.
 
-1. Klicken **Seitenlayouts**.
+1. Klicken Sie auf **Seiten-Layouts**.
 
-1. Klicken **Kontolayout**.
+1. Klicken Sie auf **Kontolayout**.
 
 Die Kontoansicht hat nur eine Schaltfläche - &quot;MSE-E-Mail senden&quot;- und die folgenden Felder:
 
@@ -167,9 +167,9 @@ Die Kontoansicht hat nur eine Schaltfläche - &quot;MSE-E-Mail senden&quot;- und
 
 ## Marketo Sales Outbox entfernen {#remove-marketo-sales-outbox}
 
-1. Klicken Sie in Salesforce auf die **+** oben auf Ihrem Bildschirm.
+1. Klicken Sie in Salesforce oben auf Ihrem Bildschirm auf die Registerkarte **+** .
 
-1. Klicken **Benutzerdefinierte Registerkarten**.
+1. Klicken Sie auf **Meine Registerkarten anpassen**.
 
 1. Wählen Sie rechts die Option Marketo Sales Outbox aus. Klicken Sie auf den Pfeil Entfernen und dann auf **Speichern**.
 
@@ -177,13 +177,13 @@ Die Kontoansicht hat nur eine Schaltfläche - &quot;MSE-E-Mail senden&quot;- und
 
 Nachdem Sie alle Objekte aus Ihrem Salesforce-Konto entfernt haben, führen Sie die folgenden Schritte aus.
 
-1. Klicken Sie in Salesforce Lightning auf das Zahnradsymbol und wählen Sie **Einrichtung**.
+1. Klicken Sie in Salesforce Lightning auf das Zahnradsymbol und wählen Sie **Setup** aus.
 
 1. Geben Sie in das Feld &quot;Schnellsuche&quot;die Option &quot;Apex-Klassen&quot;ein.
 
-1. Klicken **Löschen** neben allen &quot;MarketoSalesConnectionCustomization&quot;- oder &quot;MarketoSalesEngageCustomization&quot;-Einträgen in Ihrer Liste.
+1. Klicken Sie auf **Löschen** neben allen Einträgen &quot;MarketoSalesConnectionCustomization&quot;oder &quot;MarketoSalesEngageCustomization&quot;in Ihrer Liste.
 
-Du bist ganz fertig!
+Das war’s schon!
 
 Im Folgenden finden Sie eine Liste aller Objekte, die aus Ihrer Salesforce-Instanz entfernt werden müssen:
 
@@ -258,7 +258,7 @@ Im Folgenden finden Sie eine Liste aller Objekte, die aus Ihrer Salesforce-Insta
  </tr>
  <tr>
   <td>URL der MSC-E-Mail-Vorlage</td>
-  <td>Protokolliert die URL auf die Vorlage, die in MSC erstellt wurde. Durch Klicken auf diese Option wird die Vorlage in der MSC-Web-App geöffnet</td>
+  <td>Protokolliert die URL auf die Vorlage, die in MSC erstellt wurde. Durch Klicken auf diese Option wird die Vorlage in der MSC-Web-App geöffnet.</td>
   <td>Aktivität</td>
   <td>Text</td>
  </tr>
@@ -290,7 +290,7 @@ Im Folgenden finden Sie eine Liste aller Objekte, die aus Ihrer Salesforce-Insta
   <p>Konto
   <p>Kontakt
   <p>Lead
-  <p>Chance</td>
+  <p>Opportunity</td>
   <td>Daten und Zeit</td>
  </tr>
  <tr>
@@ -300,37 +300,37 @@ Im Folgenden finden Sie eine Liste aller Objekte, die aus Ihrer Salesforce-Insta
   <p>Konto 
   <p>Kontakt 
   <p>Lead 
-  <p>Chance</td>
+  <p>Opportunity</td>
   <td>Daten und Zeit</td>
  </tr>
  <tr>
-  <td>MSC - Letzter Marketing Engagement Desc</td>
+  <td>MSC - Letzte Marketing-Interaktion Desc</td>
   <td>Beschreibung der Interaktion</td>
   <td>
   <p>Konto 
   <p>Kontakt 
   <p>Lead 
-  <p>Chance</td>
+  <p>Opportunity</td>
   <td>Text</td>
  </tr>
  <tr>
-  <td>MSC - Letzte Marketing-Interaktionsquelle</td>
-  <td>Quelle der Marketing-Interaktion</td>
+  <td>MSC - Letzte Marketinginteraktion - Source</td>
+  <td>Source der Marketinginteraktion</td>
   <td>
   <p>Konto 
   <p>Kontakt 
   <p>Lead 
-  <p>Chance</td>
+  <p>Opportunity</td>
   <td>Text</td>
  </tr>
  <tr>
   <td>MSC - Letzter Marketing-Interaktionstyp</td>
-  <td>Art der Interaktion (z. B.: Web-Aktivität)</td>
+  <td>Art der Interaktion (z. B. Web-Aktivität)</td>
   <td>
   <p>Konto 
   <p>Kontakt 
   <p>Lead 
-  <p>Chance</td>
+  <p>Opportunity</td>
   <td>Text</td>
  </tr>
  <tr>
@@ -340,7 +340,7 @@ Im Folgenden finden Sie eine Liste aller Objekte, die aus Ihrer Salesforce-Insta
   <p>Konto 
   <p>Kontakt 
   <p>Lead 
-  <p>Chance</td>
+  <p>Opportunity</td>
   <td>Daten und Zeit</td>
  </tr>
  <tr>
@@ -350,7 +350,7 @@ Im Folgenden finden Sie eine Liste aller Objekte, die aus Ihrer Salesforce-Insta
   <p>Konto 
   <p>Kontakt 
   <p>Lead 
-  <p>Chance</td>
+  <p>Opportunity</td>
   <td>Daten und Zeit</td>
  </tr>
  <tr>
@@ -360,7 +360,7 @@ Im Folgenden finden Sie eine Liste aller Objekte, die aus Ihrer Salesforce-Insta
   <p>Konto 
   <p>Kontakt 
   <p>Lead 
-  <p>Chance</td>
+  <p>Opportunity</td>
   <td>Text</td>
  </tr>
  <tr>
@@ -370,7 +370,7 @@ Im Folgenden finden Sie eine Liste aller Objekte, die aus Ihrer Salesforce-Insta
   <p>Konto
   <p>Kontakt
   <p>Lead
-  <p>Chance</td>
+  <p>Opportunity</td>
   <td>Daten und Zeit</td>
  </tr>
  <tr>
@@ -380,7 +380,7 @@ Im Folgenden finden Sie eine Liste aller Objekte, die aus Ihrer Salesforce-Insta
   <p>Konto 
   <p>Kontakt 
   <p>Lead 
-  <p>Chance</td>
+  <p>Opportunity</td>
   <td>Kontrollkästchen</td>
  </tr>
 </table>
@@ -398,7 +398,7 @@ Im Folgenden finden Sie eine Liste aller Objekte, die aus Ihrer Salesforce-Insta
   <p>Konto 
   <p>Kontakt 
   <p>Lead 
-  <p>Chance</td>
+  <p>Opportunity</td>
  </tr>
  <tr>
   <td>Zu MSC Campaign hinzufügen</td>

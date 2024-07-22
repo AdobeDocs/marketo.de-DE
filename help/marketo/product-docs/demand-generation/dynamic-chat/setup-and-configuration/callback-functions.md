@@ -80,7 +80,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 }); 
 ```
 
-Die `event` -Parameter ist ein Objekt mit Metadaten, die sich auf die Konversation beziehen. Sie können auf diese Metadaten zugreifen, indem Sie `event.data`.
+Der Parameter `event` ist ein Objekt mit Metadaten, die sich auf die Konversation beziehen. Sie können auf diese Metadaten zugreifen, indem Sie auf `event.data` zugreifen.
 
 Im Folgenden finden Sie einige wichtige Metadatenwerte, auf die Sie zugreifen können:
 
@@ -145,7 +145,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 }); 
 ```
 
-Die `event` -Parameter ist ein Objekt mit Metadaten, die sich auf die Konversation beziehen. Sie können auf diese Metadaten zugreifen, indem Sie `event.data`.
+Der Parameter `event` ist ein Objekt mit Metadaten, die sich auf die Konversation beziehen. Sie können auf diese Metadaten zugreifen, indem Sie auf `event.data` zugreifen.
 
 Im Folgenden finden Sie einige wichtige Metadatenwerte, auf die Sie zugreifen können:
 
@@ -199,7 +199,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 }); 
 ```
 
-Die `event` -Parameter ist ein Objekt mit Metadaten, die sich auf die Konversation beziehen. Sie können auf diese Metadaten zugreifen, indem Sie `event.data`.
+Der Parameter `event` ist ein Objekt mit Metadaten, die sich auf die Konversation beziehen. Sie können auf diese Metadaten zugreifen, indem Sie auf `event.data` zugreifen.
 
 Im Folgenden finden Sie einige wichtige Metadatenwerte, auf die Sie zugreifen können:
 
@@ -304,7 +304,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 }); 
 ```
 
-Die `event` -Parameter ist ein Objekt mit Metadaten, die sich auf die Konversation beziehen. Sie können auf diese Metadaten zugreifen, indem Sie `event.data`.
+Der Parameter `event` ist ein Objekt mit Metadaten, die sich auf die Konversation beziehen. Sie können auf diese Metadaten zugreifen, indem Sie auf `event.data` zugreifen.
 
 Im Folgenden finden Sie einige wichtige Metadatenwerte, auf die Sie zugreifen können:
 

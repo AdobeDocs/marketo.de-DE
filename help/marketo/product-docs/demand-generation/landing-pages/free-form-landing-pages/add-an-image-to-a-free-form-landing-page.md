@@ -15,13 +15,13 @@ ht-degree: 5%
 
 >[!PREREQUISITES]
 >
->[Hinzufügen von Bildern und Dateien zu Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
+>[Bilder und Dateien zu Marketo hinzufügen](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
 
 1. Wählen Sie Ihre freie Landingpage aus und klicken Sie auf **Bearbeiten** **Entwurf**.
 
    ![](assets/landingpageeditdraft.jpg)
 
-1. Ziehen Sie im Editor über den **Bild** -Element.
+1. Ziehen Sie im Editor über das Element **Bild** .
 
    ![](assets/image2015-5-21-15-3a38-3a58.png)
 
@@ -33,6 +33,6 @@ ht-degree: 5%
 
    ![](assets/image2014-9-16-15-3a3-3a48.png)
 
-   Großartig gemacht! Sie haben gerade ein Bild zu Ihrer freien Landingpage hinzugefügt.
+   Gut gemacht! Sie haben gerade ein Bild zu Ihrer freien Landingpage hinzugefügt.
 
    ![](assets/image2015-5-21-15-3a40-3a11.png)

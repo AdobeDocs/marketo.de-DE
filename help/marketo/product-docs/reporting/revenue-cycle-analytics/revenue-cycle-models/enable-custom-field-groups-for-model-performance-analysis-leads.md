@@ -35,26 +35,26 @@ ht-degree: 0%
   <tr> 
    <td colspan="1" rowspan="1"><p><strong>Was passiert, wenn Sie eine benutzerdefinierte Feldergruppe aktivieren, die mit einem benutzerdefinierten Personen- oder Firmenfeld verknüpft ist?</strong></p></td> 
    <td colspan="1" rowspan="1"><p>Die benutzerdefinierte Feldergruppe ist für die Berichterstellung im Bereich Modellleistungsanalyse (Leads) aktiviert.</p></td> 
-   <td colspan="1" rowspan="1"><p>Das benutzerdefinierte Feld selbst ist für die Berichterstellung in den Bereichen Lead-Analyse, Kampagnenanalyse und Opportunity Analysis aktiviert.</p><p><strong>HINWEIS:</strong> Benutzerdefinierte Feldergruppen werden in diesen Analysebereichen NICHT unterstützt, sodass die Gruppenzuordnungen nicht im Umsatz-Cycle-Explorer angezeigt werden.—<em>only</em> das benutzerdefinierte Feld.</p></td> 
+   <td colspan="1" rowspan="1"><p>Das benutzerdefinierte Feld selbst ist für die Berichterstellung in den Bereichen Lead-Analyse, Kampagnenanalyse und Opportunity Analysis aktiviert.</p><p><strong>HINWEIS:</strong> Benutzerdefinierte Feldergruppen werden in diesen Analysebereichen NICHT unterstützt, sodass die Gruppenzuordnungen nicht im Umsatz-Zyklus-Explorer angezeigt werden.—<em>Nur</em> im benutzerdefinierten Feld.</p></td> 
   </tr> 
  </tbody> 
 </table>
 
 Führen Sie diese Schritte aus, um eine benutzerdefinierte Feldergruppe für die Berichterstellung im Bereich Modell-Leistungsanalyse (Leads) zu aktivieren.
 
-1. Klicken **Admin**.
+1. Klicken Sie auf **Admin**.
 
    ![](assets/one-1.png)
 
-1. Klicken **Umsatzzyklusanalysen**.
+1. Klicken Sie auf **Umsatzzyklusanalysen**.
 
    ![](assets/two-1.png)
 
-1. Klicken **Keines** neben einer leeren Feldergruppe. Wenn Sie bereits drei Feldergruppen aktiviert haben und eine Bearbeitung vornehmen möchten, klicken Sie auf den Namen der Feldergruppe, die Sie ändern möchten.
+1. Klicken Sie neben einer leeren Feldergruppe auf **None** . Wenn Sie bereits drei Feldergruppen aktiviert haben und eine Bearbeitung vornehmen möchten, klicken Sie auf den Namen der Feldergruppe, die Sie ändern möchten.
 
    ![](assets/three.png)
 
-1. Klicken Sie auf **Feld** und wählen Sie die gewünschte Option aus.
+1. Klicken Sie auf die Dropdownliste **Feld** und wählen Sie das gewünschte Feld aus.
 
    ![](assets/four-1.png)
 
@@ -62,6 +62,6 @@ Führen Sie diese Schritte aus, um eine benutzerdefinierte Feldergruppe für die
    >
    >In diesem Beispiel wurde eine benutzerdefinierte Feldergruppe für ein Standardfeld (Status) aktiviert. Daher wurde nur der Bereich &quot;Modell Performance Analysis (Leads)&quot;betroffen. Wenn eine benutzerdefinierte Feldergruppe für ein benutzerdefiniertes Personen- oder Firmenfeld aktiviert wurde, würde die aktivierte Gruppe im Abschnitt &quot;Modell-Leistungsanalyse (Leads)&quot;der Registerkarte &quot;Zusammenfassung synchronisieren&quot;angezeigt und die Anzahl der benutzerdefinierten Felder für Lead, Kampagne und Opportunity Analysis würde um 1 erhöht.
 
-1. Klicken **Speichern**.
+1. Klicken Sie auf **Speichern**.
 
    ![](assets/five-1.png)

@@ -25,13 +25,13 @@ Operative E-Mails ignorieren den Status Abgemeldet und Ausgesetzt des Marketings
 
 >[!NOTE]
 >
->Sie sollten operative E-Mails nur für kritische E-Mails und Autoreaktoren verwenden. Sie sind nicht für Marketing-E-Mails vorgesehen.
+>Sie sollten nur operative E-Mails für wichtige E-Mails und Benutzer mit automatischer Reaktion verwenden. Sie sind nicht für Marketing-E-Mails vorgesehen.
 
 1. Nachdem der Editor geöffnet wurde, klicken Sie auf **E-Mail-Einstellungen**.
 
    ![](assets/two-1.png)
 
-1. Überprüfen **Operative E-Mail** und klicken Sie auf **Speichern**.
+1. Aktivieren Sie **Operative E-Mail** und klicken Sie auf **Speichern**.
 
    ![](assets/three.png)
 
@@ -39,4 +39,4 @@ Operative E-Mails ignorieren den Status Abgemeldet und Ausgesetzt des Marketings
 >
 >Operative E-Mails wurden nicht für Interaktionsmaßnahmen entwickelt. Daher ignoriert ein Interaktionsprogramm den Betriebsstatus einer E-Mail. Bitte bedenken Sie das bei der Zusammenarbeit mit ihnen.
 
-Vergessen Sie nicht, diese E-Mail zu validieren, damit die Änderungen wirksam werden. Erfahren Sie, wie Sie  [E-Mail validieren](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md).
+Vergessen Sie nicht, diese E-Mail zu validieren, damit die Änderungen wirksam werden. Erfahren Sie, wie Sie [eine E-Mail genehmigen](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md).

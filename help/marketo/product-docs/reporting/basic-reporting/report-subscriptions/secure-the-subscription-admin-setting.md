@@ -19,15 +19,15 @@ ht-degree: 0%
 
 Ein Administrator kann sich entscheiden, eine Anmeldung erforderlich zu machen, um einen Bericht anzuzeigen.
 
-1. Klicks **Admin**, und dann **Anmeldeeinstellungen**.
+1. Klicken Sie auf **Admin** und dann auf **Anmeldeeinstellungen**.
 
    ![](assets/image2015-4-29-12-3a46-3a14.png)
 
-1. Klicks **Bearbeiten** für Smart-List-Berichtseinstellungen.
+1. Klicken Sie für die Berichtseinstellungen für Smart-Liste auf **Bearbeiten** .
 
    ![](assets/image2015-4-29-12-3a50-3a50.png)
 
-1. Auswählen **Ja** , um zum Herunterladen von Berichten einen Login zu benötigen.
+1. Wählen Sie **Ja** aus, um eine Anmeldung zum Herunterladen von Berichten erforderlich zu machen.
 
    ![](assets/image2015-4-29-12-3a53-3a7.png)
 

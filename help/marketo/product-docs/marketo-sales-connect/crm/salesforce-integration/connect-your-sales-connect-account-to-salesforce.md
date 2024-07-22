@@ -17,7 +17,7 @@ Führen Sie diese einfachen Schritte aus, um Sales Connect mit Salesforce zu ver
 
 ## Anleitung zum Verbinden als Administrator {#how-to-connect-as-an-admin}
 
-1. Klicken Sie in Sales Connect auf das Zahnradsymbol oben rechts und wählen Sie **Einstellungen**.
+1. Klicken Sie in Sales Connect auf das Zahnradsymbol oben rechts und wählen Sie **Einstellungen** aus.
 
    ![](assets/one.png)
 
@@ -29,7 +29,7 @@ Führen Sie diese einfachen Schritte aus, um Sales Connect mit Salesforce zu ver
 
    ![](assets/seven.png)
 
-1. Klicken **OK**.
+1. Klicken Sie auf **OK**.
 
    ![](assets/four.png)
 
@@ -37,11 +37,11 @@ Führen Sie diese einfachen Schritte aus, um Sales Connect mit Salesforce zu ver
 
 ## Anleitung zum Verbinden als Nicht-Administrator {#how-to-connect-as-a-non-admin}
 
-1. Klicken Sie in Sales Connect auf das Zahnradsymbol und wählen Sie **Einstellungen**.
+1. Klicken Sie in Sales Connect auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
 
    ![](assets/one.png)
 
-1. Wählen Sie unter Mein Konto die Option **Salesforce**.
+1. Wählen Sie unter Mein Konto die Option **Salesforce** aus.
 
    ![](assets/two.png)
 
@@ -49,7 +49,7 @@ Führen Sie diese einfachen Schritte aus, um Sales Connect mit Salesforce zu ver
 
    ![](assets/three.png)
 
-1. Klicken **OK**.
+1. Klicken Sie auf **OK**.
 
    ![](assets/four.png)
 

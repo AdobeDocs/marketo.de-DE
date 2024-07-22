@@ -22,15 +22,15 @@ Machen Sie Marketo Engage Forms kommunikativ, indem Sie sie mit Dynamic Chat-Kon
 
    ![](assets/conversational-flow-settings-1.png)
 
-1. Klicks **[!UICONTROL Entwurf bearbeiten]**.
+1. Klicken Sie auf **[!UICONTROL Entwurf bearbeiten]**.
 
    ![](assets/conversational-flow-settings-2.png)
 
-1. Klicken Sie auf der Formularbearbeitungsseite auf **[!UICONTROL Formulareinstellungen]**, dann **[!UICONTROL Einstellungen]**.
+1. Klicken Sie auf der Formularbearbeitungsseite auf **[!UICONTROL Formulareinstellungen]** und dann auf **[!UICONTROL Einstellungen]**.
 
    ![](assets/conversational-flow-settings-3.png)
 
-1. Klicken Sie auf **[!UICONTROL Konversionsflusseinstellungen]** zu aktivieren.
+1. Klicken Sie auf den Regler **[!UICONTROL Konversionsflusseinstellungen]** , um die Aktivierung zu ermöglichen.
 
    ![](assets/conversational-flow-settings-4.png)
 
@@ -38,15 +38,15 @@ Machen Sie Marketo Engage Forms kommunikativ, indem Sie sie mit Dynamic Chat-Kon
 
    ![](assets/conversational-flow-settings-5.png)
 
-1. Wählen Sie die gewünschte **[!UICONTROL Konversationsfluss]** und **[!UICONTROL Versandtyp]**.
+1. Wählen Sie den gewünschten **[!UICONTROL Konversionsfluss]** und den **[!UICONTROL Bereitstellungstyp]** aus.
 
    ![](assets/conversational-flow-settings-6.png)
 
    >[!NOTE]
    >
-   >[Erfahren Sie mehr über konversale Flüsse](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}
+   >[Weitere Informationen zu Konversationsflüssen](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}
 
-   **OPTIONALER SCHRITT**: Klicken Sie auf **[!UICONTROL Auswahl hinzufügen]** , um Besucher anzusprechen, die bestimmte Kriterien erfüllen. Sie können bis zu neun Auswahlmöglichkeiten für insgesamt zehn Optionen hinzufügen.
+   **OPTIONALER SCHRITT**: Sie können auf **[!UICONTROL Auswahl hinzufügen]** klicken, um Chat-Besucher als Ziel auszuwählen, die bestimmte Kriterien erfüllen. Sie können bis zu neun Auswahlmöglichkeiten für insgesamt zehn Optionen hinzufügen.
 
    ![](assets/conversational-flow-settings-7.png)
 
@@ -54,7 +54,7 @@ Machen Sie Marketo Engage Forms kommunikativ, indem Sie sie mit Dynamic Chat-Kon
    >
    >Der Browser des Besuchers muss Cookie&#39;d as a known person vor der Formularübermittlung sein, um für die Mitgliedschaft in der statischen/intelligenten Liste qualifiziert zu sein.
 
-   **OPTIONALER SCHRITT**: Klicken Sie auf die **+** in jedem Schritt signieren, um weitere Attribute hinzuzufügen, sodass Sie Ihre Zielgruppe eingrenzen können (die verfügbaren Attribute sind die Felder, die Sie für das Formular ausgewählt haben). In diesem Beispiel zielen wir auf Adobe Technical Writer in Kalifornien ab.
+   **OPTIONALER SCHRITT**: Klicken Sie in jedem Schritt auf das Zeichen **+** , um weitere Attribute hinzuzufügen, sodass Sie Ihre Zielgruppe eingrenzen können (die verfügbaren Attribute sind die Felder, die Sie für das Formular ausgewählt haben). In diesem Beispiel zielen wir auf Adobe Technical Writer in Kalifornien ab.
 
    ![](assets/conversational-flow-settings-8.png)
 
@@ -62,10 +62,10 @@ Machen Sie Marketo Engage Forms kommunikativ, indem Sie sie mit Dynamic Chat-Kon
    >
    >Die auf &quot;all&quot;festgelegte Kriterienlogik bedeutet, dass jedes Attribut erfüllt sein muss, um qualifiziert zu werden. Die auf &quot;any&quot;festgelegte Kriterienlogik bedeutet, dass eines der Attribute ausreicht.
 
-   **OPTIONALER SCHRITT**: Wenn Sie zwei oder mehr Auswahlmöglichkeiten hinzufügen, können Sie sie durch Klicken auf ihre Nach-oben-/Nach-unten-Pfeile neu anordnen.
+   **OPTIONALER SCHRITT**: Wenn Sie zwei oder mehr Optionen hinzufügen, können Sie sie durch Klicken auf ihre Nach-oben-/Nach-unten-Pfeile neu anordnen.
 
    ![](assets/conversational-flow-settings-9.png)
 
-1. Klicks **[!UICONTROL Beenden]** wann geschehen.
+1. Klicken Sie abschließend auf **[!UICONTROL Beenden]** .
 
    ![](assets/conversational-flow-settings-10.png)

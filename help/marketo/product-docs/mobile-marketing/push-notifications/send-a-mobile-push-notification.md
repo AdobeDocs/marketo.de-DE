@@ -7,7 +7,7 @@ feature: Mobile Marketing
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '98'
-ht-degree: 3%
+ht-degree: 5%
 
 ---
 
@@ -20,19 +20,19 @@ Senden Sie eine Push-Benachrichtigung an Personen, die Ihre mobile App verwenden
 >* [Erstellen einer neuen Smart-Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
 >* [Push-Benachrichtigung erstellen](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
 
-1. Navigieren Sie zu **Marketingaktivitäten** Bereich.
+1. Wechseln Sie zum Bereich **Marketingaktivitäten** .
 
    ![](assets/image2015-4-22-18-3a31-3a54.png)
 
-1. Wählen Sie Ihre Smart-Kampagne aus und klicken Sie auf **Smart List**.
+1. Wählen Sie Ihre Smart-Kampagne aus und klicken Sie auf **Smart-Liste**.
 
    ![](assets/image2015-4-23-17-3a57-3a46.png)
 
-1. Definieren Sie Ihre Smart-Liste und klicken Sie auf **Fluss**.
+1. Definieren Sie Ihre Smart-Liste und klicken Sie dann auf **Fluss**.
 
    ![](assets/image2015-4-22-18-3a33-3a13.png)
 
-1. Wählen Sie eine Push-Benachrichtigung. Klicks **Zeitplan**.
+1. Wählen Sie eine Push-Benachrichtigung. Klicken Sie auf **Zeitplan**.
 
    ![](assets/image2015-4-22-18-3a33-3a38.png)
 
@@ -44,7 +44,7 @@ Senden Sie eine Push-Benachrichtigung an Personen, die Ihre mobile App verwenden
 
    ![](assets/image2015-4-23-18-3a0-3a54.png)
 
-1. Wählen Sie ein Datum und eine Uhrzeit. Klicks **Speichern**.
+1. Wählen Sie ein Datum und eine Uhrzeit. Klicken Sie auf **Speichern**.
 
    ![](assets/image2015-4-23-18-3a1-3a33.png)
 

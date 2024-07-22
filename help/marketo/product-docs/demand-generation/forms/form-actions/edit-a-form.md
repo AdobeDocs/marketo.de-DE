@@ -7,7 +7,7 @@ feature: Forms
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '43'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 2%
 
 Wenn Sie Änderungen an einem vorhandenen Formular vornehmen möchten, erfahren Sie hier, wie Sie den Prozess starten.
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Wechseln Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities.png)
 

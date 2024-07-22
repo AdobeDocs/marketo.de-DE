@@ -19,11 +19,11 @@ ht-degree: 0%
 
 Ein Snippet muss vor der Verwendung genehmigt werden.
 
-1. Navigieren Sie zu **Design Studio**.
+1. Wechseln Sie zu **Design Studio**.
 
    ![](assets/image2014-9-16-8-3a55-3a15.png)
 
-1. Klicken Sie auf **Snippet**. under **Snippet-Aktionen** klicken **Genehmigen**.
+1. Klicken Sie auf Ihr **Snippet**. Klicken Sie unter **Snippet-Aktionen** auf **Genehmigen**.
 
    ![](assets/image2014-9-16-8-3a55-3a24.png)
 
@@ -31,4 +31,4 @@ Das ist es! Der Status Ihres Snippets ändert sich von Entwurf in Genehmigt .
 
 >[!MORELIKETHIS]
 >
->[Snippet ohne Entwurf genehmigen](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md)
+>[Einen Snippet ohne Entwurf genehmigen](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md)

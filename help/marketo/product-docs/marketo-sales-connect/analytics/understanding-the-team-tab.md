@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Auf der Registerkarte &quot;Team&quot;werden drei wichtige Metriken hervorgehoben.
 
-## Mit Vorlage gesendete E-Mails {#emails-sent-with-template}
+## E-Mails mit Vorlage {#emails-sent-with-template}
 
 Wie viele der gesendeten E-Mails eine Vorlage verwendet haben.
 

@@ -19,8 +19,8 @@ Eines der coolsten Merkmale von Marketo ist die Möglichkeit, Vertriebsmitarbeit
 >
 >Beispiele für anzufordernde Smart-Kampagnen:
 >
->1. **Langfristige Pflege** - wenn sie in diesem Jahr kein Budget haben und Sie einfach nur auf dem Radar bleiben wollen
->1. **Aktiver Verkaufszyklus** - wenn der Verkäufer keine Nachrichten an die Person mit Ausnahme ihrer eigenen wünscht. (verwenden Sie die Markierung für ausgesetzte Marketing, um sie vorübergehend abzumelden)
+>1. **Langfristige Pflege** - wenn sie dieses Jahr kein Budget haben und Sie einfach nur auf dem Radar bleiben möchten
+>1. **Aktiver Verkaufszyklus** - wenn der Verkäufer außer seiner eigenen keine Nachrichten an die Person erhalten möchte. (verwenden Sie die Markierung für ausgesetzte Marketing, um sie vorübergehend abzumelden)
 >
 >Seien Sie kreativ! Was möchte der Verkäufer automatisieren? Fragen Sie sie einfach und verbinden Sie es!
 
@@ -28,17 +28,17 @@ Eines der coolsten Merkmale von Marketo ist die Möglichkeit, Vertriebsmitarbeit
 
    ![](assets/setting-up-a-trigger-smart-campaign-for-sales-1.png)
 
-1. Suchen und Ziehen **[!UICONTROL Kampagne wird angefordert]** Trigger zur Arbeitsfläche.
+1. Suchen Sie den Trigger **[!UICONTROL Kampagne ist angefordert]** und ziehen Sie ihn auf die Arbeitsfläche.
 
    ![](assets/setting-up-a-trigger-smart-campaign-for-sales-2.png)
 
-1. Die Quellauswahl gibt an, welche Art von Anforderung berücksichtigt wird. Wählen Sie für die Salesforce-Funktion **[!UICONTROL Sales Insight]**.
+1. Die Quellauswahl gibt an, welche Art von Anforderung berücksichtigt wird. Wählen Sie für die Salesforce-Funktion **[!UICONTROL Sales Insight]** aus.
 
    >[!TIP]
    >
-   >Die Quell-Operatoren dienen der Sicherheit. Sie können die Kampagne auf Anforderungen beschränken, die nur von bestimmten Quellen, wie z. B. anderen Smart-Kampagnen oder -Entwicklern, gestellt werden. Auswählen **[!UICONTROL Is Any]** im ersten Feld, wenn Sie Anforderungen aus allen Quellen zulassen möchten.
+   >Die Quell-Operatoren dienen der Sicherheit. Sie können die Kampagne auf Anforderungen beschränken, die nur von bestimmten Quellen, wie z. B. anderen Smart-Kampagnen oder -Entwicklern, gestellt werden. Wählen Sie im ersten Feld **[!UICONTROL Is Any]** aus, wenn Sie Anforderungen aus allen Quellen zulassen möchten.
    >
-   >_Angaben_, indem Sie Sales Insight auswählen, wird es auf magische Weise in der Box für den Verkauf angezeigt. Übertreib es nicht! Zu viele werden von ihnen ignoriert.
+   >_Denken Sie daran_: Durch die Auswahl von Sales Insight wird dieser auf magische Weise im Feld für Verkäufe angezeigt. Übertreib es nicht! Zu viele werden von ihnen ignoriert.
 
    ![](assets/setting-up-a-trigger-smart-campaign-for-sales-3.png)
 

@@ -5,8 +5,8 @@ feature: Release Information
 exl-id: 4056353c-4125-4849-8350-59c58afb9e66
 source-git-commit: dc13ffb4232b39d702ba835814f272256c153f6a
 workflow-type: tm+mt
-source-wordcount: '654'
-ht-degree: 5%
+source-wordcount: '655'
+ht-degree: 6%
 
 ---
 
@@ -16,15 +16,15 @@ Unten finden Sie alle Funktionen der Version vom 23. Juli. Überprüfen Sie Ihre
 
 >[!AVAILABILITY]
 >
->Mit einem Stern (![star](assets/yellow-star.png)) sind kostenpflichtige Add-ons. Wenden Sie sich an Ihren Marketo Engage-Support-Mitarbeiter, um mehr zu erfahren.
+>Mit einem Stern (![Stern](assets/yellow-star.png)) gekennzeichnete Funktionen sind kostenpflichtige Add-ons. Wenden Sie sich an Ihren Marketo Engage-Support-Mitarbeiter, um mehr zu erfahren.
 
 ## Standardfunktionen des Versionszyklus {#standard-release-cycle-features}
 
-Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab der Veröffentlichung auf **21. Juli 2023**, mit einer stufenweisen Einführung der verbleibenden Funktionen in den darauffolgenden Wochen. Die Veröffentlichungsfunktionen und -daten können sich ändern. Bitte prüfen Sie unten jedes Feature nach seinem Status.
+Die folgenden Funktionen fallen unter den standardmäßigen Versionszyklus und werden am 21. Juli 2023 veröffentlicht. Mit einem stufenweisen Rollout der verbleibenden Funktionen in den darauffolgenden Wochen. **** Die Veröffentlichungsfunktionen und -daten können sich ändern. Bitte prüfen Sie unten jedes Feature nach seinem Status.
 
 </br>
 
-* **Interaktionskarte**: Die Interaktionskarte ist ein visuelles Tool, mit dem Sie wiederverwendbare Kampagnen erstellen und organisieren können. Es ist vollständig abwärtskompatibel, sodass alle bestehenden Kampagnen in dieser neuen Struktur mit einem Klick auf eine Schaltfläche angezeigt werden können. Karten können heruntergeladen und freigegeben werden.
+* **Interaktionszuordnung**: Die Interaktionszuordnung ist ein visuelles Tool, mit dem Sie wiederverwendbare Kampagnen erstellen und organisieren können. Es ist vollständig abwärtskompatibel, sodass alle bestehenden Kampagnen in dieser neuen Struktur mit einem Klick auf eine Schaltfläche angezeigt werden können. Karten können heruntergeladen und freigegeben werden.
 
 <table> 
   <tr> 
@@ -38,7 +38,7 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
   </tbody>
 </table>
 
-* **Benachrichtigungen - Web-Services-Fehler**: Die Webdienst-Fehlerbenachrichtigung enthält jetzt den Abonnementnamen, was die Verwaltung mehrerer Marketo Engage-Instanzen erleichtert. Außerdem wurde der Tabelle eine Spalte &quot;Benutzer&quot;hinzugefügt, die Fehlercodes und -zählungen enthält. So können Sie einfach feststellen, welcher API-Benutzer beim Aufrufen der Marketo REST-API für die Generierung eines bestimmten Fehlers verantwortlich war.
+* **Benachrichtigungen - Web-Services-Fehler**: Die Web-Services-Fehlerbenachrichtigung enthält jetzt den Abonnementnamen, was es für Benutzer, die mehrere Marketo Engage-Instanzen verwalten, einfacher macht. Außerdem wurde der Tabelle eine Spalte &quot;Benutzer&quot;hinzugefügt, die Fehlercodes und -zählungen enthält. So können Sie einfach feststellen, welcher API-Benutzer beim Aufrufen der Marketo REST-API für die Generierung eines bestimmten Fehlers verantwortlich war.
 
 <table> 
   <tr> 
@@ -60,7 +60,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
 
 </br>
 
-* **Chat-Quelle für Dynamic Chat**: &quot;Chat&quot; wird nun als Quelle für neue Personeneinträge und -aktivitäten angeboten. Diese Quelle kann verwendet werden, um Benutzern beim Filtern von Aktivitäten in Smart-Listen/Kampagnen zu helfen. Die Quelle kann auch von Aktualisierungen der Felder blockiert werden.
+* **Chat Source für Dynamic Chat**: &quot;Chat&quot;wird jetzt als Quelle für neue Personendatensätze und -aktivitäten angeboten. Diese Quelle kann verwendet werden, um Benutzern beim Filtern von Aktivitäten in Smart-Listen/Kampagnen zu helfen. Die Quelle kann auch von Aktualisierungen der Felder blockiert werden.
 
 <table> 
   <tr> 
@@ -74,7 +74,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
   </tbody>
 </table>
 
-* **Erweiterte Dynamic Chat-Aktivitäten**: Dynamic Chat-Aktivitäten, Filter und Trigger wurden um zusätzliche Attribute und standardisierte Benennungskonventionen erweitert.
+* **Verbesserte Dynamic Chat-Aktivitäten**: Dynamic Chat-Aktivitäten, Filter und Trigger wurden durch zusätzliche Attribute und standardisierte Benennungskonventionen verbessert.
 
 <table> 
   <tr> 
@@ -92,7 +92,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
 
 </br>
 
-* **Abmelden von Anlageneinstellungen für Sales Insight-Aktionen**: Sie haben jetzt mehr Kontrolle über Ihre Abmelde-Nachrichten mit neuen Konfigurationsoptionen zum Abmelden von Anhängen. Neue Funktionen geben Administratoren die Kontrolle darüber, wann, wo und welche Abmelde-Nachrichten in Ihren Verkaufs-E-Mails angezeigt werden.
+* **Abmeldung von Anhängen von Einstellungen für Sales Insight-Aktionen**: Sie haben jetzt mehr Kontrolle über Ihre Abmelde-Nachrichten mit neuen Konfigurationsoptionen zum Abmelden von Anhängen. Neue Funktionen geben Administratoren die Kontrolle darüber, wann, wo und welche Abmelde-Nachrichten in Ihren Verkaufs-E-Mails angezeigt werden.
 
 <table> 
   <tr> 
@@ -106,7 +106,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
   </tbody>
 </table>
 
-* **Dynamische Feldaufforderungen für Sales Insight-Aktionen**: Sie können jetzt Ihr Sales-Team auffordern, bestimmte Teile einer E-Mail noch weiter zu personalisieren. Dazu stehen neue Feldaufforderungen zur Verfügung, die in Sales Insight-Aktionen zu E-Mail-Vorlagen hinzugefügt werden können.
+* **Dynamische Feldaufforderungen für Sales Insight-Aktionen**: Sie können jetzt Ihr Sales-Team auffordern, bestimmte Teile einer E-Mail noch weiter zu personalisieren, indem neue Feldaufforderungen verfügbar sind, die in Sales Insight-Aktionen zu E-Mail-Vorlagen hinzugefügt werden können.
 
 <table> 
   <tr> 
@@ -162,7 +162,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
   </tbody>
 </table>
 
-* **Dynamic Chat Trigger-Token**: Einführung neuer Trigger-Token für Dynamic Chat-Aktivitäten, die in interessanten Momenten verwendet werden.
+* **Dynamic Chat Trigger Tokens**: Einführung neuer Trigger-Token für Dynamic Chat-Aktivitäten, die in interessanten Momenten verwendet werden sollen.
 
 <table> 
   <tr> 
@@ -171,13 +171,13 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
   </tr>
   <tr> 
    <td>Versendet</td>
-   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md" target="_blank">Dynamic Chat Trigger-Token</a></td>
+   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md" target="_blank">Dynamic Chat-Auslöser-Token</a></td>
   </tr>
   </tbody>
 </table>
 
 ## Ankündigungen {#announcements}
 
-* **Upgrade auf Google Analytics 4**: Marketo hat zuvor Universal Analytics unterstützt, das die Aufzeichnung von Daten bis zum 1. Juli 2023 stoppt. RTP-Benutzer müssen den Migrationsprozess in ihrem Google Analytics-Dashboard ausführen, um die Google Analytics 4-Integration in RTP abzuschließen. Künftig verfügen Benutzer über ein eindeutiges alphanumerisches Tag (innerhalb der Variablen `<head>` -Abschnitt des HTML-Codes) auf ihren Landingpages, über die Marketo Daten an Google Analytics senden kann.
+* **Aktualisierung auf Google Analytics 4**: Marketo hat Universal Analytics zuvor unterstützt, das die Aufzeichnung von Daten bis zum 1. Juli 2023 stoppt. RTP-Benutzer müssen den Migrationsprozess in ihrem Google Analytics-Dashboard ausführen, um die Google Analytics 4-Integration in RTP abzuschließen. Künftig verfügen Benutzer über ein eindeutiges alphanumerisches Tag (das sich im Abschnitt `<head>` des HTML-Codes befindet) auf ihren Landingpages, über das Marketo Daten an Google Analytics senden kann.
 
-* **_Webinar zur Produktversion_**: [Webinar zur Marketo Engage-Version vom Juli und September 2023](https://engage.marketo.com/2023_July_September_Release_Webinar_OnDemandPage.html){target="_blank"}
+* **_Webinar zur Produktversion_**: [Marketo Engage Release-Webinar vom Juli und September 2023](https://engage.marketo.com/2023_July_September_Release_Webinar_OnDemandPage.html){target="_blank"}

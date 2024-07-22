@@ -18,11 +18,11 @@ Indem Sie die Sperrung von Inhalten aktivieren, können Benutzer ohne Administra
 >
 >Benutzer können den Inhalt einer E-Mail zum Zeitpunkt des Versands oder des Starts einer Kampagne weiterhin bearbeiten.
 
-1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen**.
+1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
 
    ![](assets/content-lockdown-1.png)
 
-1. Klicken Sie unter &quot;Admin Settings&quot;auf **Allgemein**.
+1. Klicken Sie unter &quot;Admin Settings&quot;auf **General**.
 
    ![](assets/content-lockdown-2.png)
 

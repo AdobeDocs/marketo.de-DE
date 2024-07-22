@@ -17,11 +17,11 @@ Im Folgenden finden Sie einige Informationen zum Hinzufügen und Entfernen von P
 
 ## Hinzufügen von Picklist-Werten {#adding-picklist-values}
 
-1. Wenn ein zusätzlicher Wert in Salesforce zu einem Picklist-Feldtyp hinzugefügt wird, erhalten Sie eine [Benachrichtigung](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md){target="_blank"} Angabe der Formulare, auf die sich dies auswirken wird.
+1. Wenn ein zusätzlicher Wert in Salesforce zu einem Picklist-Feldtyp hinzugefügt wird, erhalten Sie eine [Benachrichtigung](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md){target="_blank"}, die angibt, auf welche Formulare sich dies auswirken wird.
 
    ![](assets/image2015-1-21-14-3a4-3a7.png)
 
-1. Wechseln Sie zum Formular-Editor und [den zusätzlichen Wert hinzufügen](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md){target="_blank"} zu Ihrer Liste mit Vorschlägen.
+1. Wechseln Sie zum Formular-Editor und fügen Sie [den zusätzlichen Wert](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md){target="_blank"} zu Ihrer Liste mit Vorschlägen hinzu.
 
 ## Entfernen von Picklist-Werten {#remove-picklist-values}
 

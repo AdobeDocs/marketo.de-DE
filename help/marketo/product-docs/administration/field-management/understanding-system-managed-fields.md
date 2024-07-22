@@ -7,13 +7,13 @@ feature: Field Management
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '512'
-ht-degree: 16%
+ht-degree: 13%
 
 ---
 
 # Grundlegendes zu systemverwalteten Feldern {#understanding-system-managed-fields}
 
-Vielleicht haben Sie bemerkt, dass die Variable [Personendetailseite](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"} verfügt über eine Reihe von nicht bearbeitbaren Feldern, die von Marketo erstellt wurden. Diese Daten stammen aus verschiedenen Quellen, und es gibt unzählige Werte, die angezeigt werden können.
+Möglicherweise haben Sie bemerkt, dass die [Personen-Detailseite](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"} eine Reihe von nicht bearbeitbaren Feldern enthält, die von Marketo erstellt wurden. Diese Daten stammen aus verschiedenen Quellen, und es gibt unzählige Werte, die angezeigt werden können.
 
 ## Feldtypen {#field-types}
 
@@ -33,37 +33,37 @@ Vielleicht haben Sie bemerkt, dass die Variable [Personendetailseite](/help/mark
 | Abgeleitete Postleitzahl | Die beste Schätzung von Marketo (basierend auf IP) für die Postleitzahl der Person |
 | Abgeleitetes Land | Die beste Schätzung von Marketo (basierend auf IP) für das Land der Person |
 | Abgeleiteter Stadtbereich | Die beste Schätzung (basierend auf IP) der Metropolregion der Person durch Marketo |
-| Abgeleitete Vorwahl | Die beste Schätzung von Marketo (basierend auf IP) des Gebietscodes der Person |
+| Abgleitete Vorwahl | Die beste Schätzung von Marketo (basierend auf IP) des Gebietscodes der Person |
 
-## Mögliche Werte für Ursprünge- und Registrierungsquellentyp {#possible-values-for-original-and-registration-source-type}
+## Mögliche Werte für den Source-Typ Original und Registrierung {#possible-values-for-original-and-registration-source-type}
 
 Im Folgenden finden Sie einige mögliche Werte und deren Bedeutung.
 
-| **Ursprünglicher Quellentyp** | **Definition** |
+| **Ursprünglicher Source-Typ** | **Definition** |
 |---|---|
-| Salesforce.com | Person wurde aus einem [!DNL Webhook] Synchronisieren |
+| Salesforce.com | Person wurde bei einer [!DNL Webhook] -Synchronisierung entdeckt |
 | Webseitenbesuche | Person wurde auf einer Webseite entdeckt |
 | Webformularausfüllung | Person wurde nach dem Ausfüllen eines Formulars entdeckt |
 | Listenimport | Person wurde beim Listenimport entdeckt |
 | Neue Person | Person wurde manuell in die Datenbank eingegeben |
 | Weblink-Klick | Person wurde nach dem Klicken auf einen Link erkannt |
-| Sales Email | Person wurde eine E-Mail gesendet über [!DNL Sales Insight] E-Mail-Add-In |
-| Person | Person wurde synchronisiert von [!DNL Salesforce] als Person |
-| Kontakt | Person wurde synchronisiert von [!DNL Webhook] als Ansprechpartner |
-| [!DNL Munchkin] API | Person wurde vom Marketo Engage entdeckt [!DNL Munchkin] API |
+| Sales Email | Person wurde eine E-Mail über [!DNL Sales Insight] E-Mail-Add-In gesendet |
+| Person | Person wurde von [!DNL Salesforce] als Person synchronisiert |
+| Kontakt | Person wurde von [!DNL Webhook] als Kontakt synchronisiert |
+| [!DNL Munchkin] API | Person wurde von der Marketo Engage [!DNL Munchkin]-API entdeckt |
 | Social App | Person wurde von einem Social-Widget entdeckt |
-| Webservice-API | Person wurde von einer Web-Service-API entdeckt |
+| Webdienst-API | Person wurde von einer Web-Service-API entdeckt |
 | Veranstaltungspartner | Person wurde über einen synchronisierten Webinardienst entdeckt |
 | Lead zuordnen | Person, die über den API-Aufruf &quot;Associate Lead&quot;zusammengeführt wurde |
 
-| **Registrierungsquellentyp** | **Definition** |
+| **Source-Registrierungstyp** | **Definition** |
 |---|---|
 | Listenimport | Person durch Listenimport werden |
-| Salesforce.com | Werden Sie ein Mensch durch eine [!DNL Webhook] Synchronisieren |
+| Salesforce.com | Person durch eine [!DNL Webhook]-Synchronisation werden |
 | Webformularausfüllung | Person werden, nachdem ein Formular ausgefüllt wurde |
-| Sales Email | Person wurde eine E-Mail gesendet über [!DNL Webhook] E-Mail-Add-In |
-| Webservice-API | Person wurde über die SOAP-/REST-API erstellt |
+| Sales Email | Person wurde eine E-Mail über [!DNL Webhook] E-Mail-Add-In gesendet |
+| Webdienst-API | Person wurde über die SOAP/REST-API erstellt |
 | Neue Person | Person wurde manuell in die Datenbank eingegeben |
-| [!DNL Munchkin] API | Werden Sie durch Marketo zu einer Person [!DNL Munchkin] API |
+| [!DNL Munchkin] API | Person durch die [!DNL Munchkin]-API von Marketo werden |
 | Social App | Person über ein Social Widget werden |
 | Veranstaltungspartner | Person über einen verknüpften Webinar-Dienst werden |

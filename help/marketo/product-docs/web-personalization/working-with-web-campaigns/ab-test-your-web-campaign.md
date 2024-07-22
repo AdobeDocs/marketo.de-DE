@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Mit Tests können Sie Ihre Web-Kampagnen optimal für eine bessere Interaktion optimieren. Hier ist der Anfang.
 
-Zum A/B-Test Ihrer personalisierten Kampagnen können Sie zwei oder mehr Kampagnen auswählen und sie mit denselben Kampagnen verknüpfen **Aufspaltungstest** und wählen Sie **Automatische Abstimmung** automatisch mit der Kampagne mit der besten Leistung fortfahren.
+Zum A/B-Test Ihrer personalisierten Kampagnen können Sie zwei oder mehr Kampagnen auswählen, sie derselben Gruppe **Aufspaltungstest** zuordnen und **Auto-Tune** auswählen, um automatisch mit der Kampagne mit der besten Leistung fortzufahren.
 
 >[!TIP]
 >
@@ -31,39 +31,39 @@ Zum A/B-Test Ihrer personalisierten Kampagnen können Sie zwei oder mehr Kampagn
    >
    >Um die gewünschte Kampagne leichter zu finden, verwenden Sie die [Filterfunktion](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
-1. Wählen Sie die erste Kampagne aus, die Sie A/B-Tests durchführen möchten. Klicken **Bearbeiten**.
+1. Wählen Sie die erste Kampagne aus, die Sie A/B-Tests durchführen möchten. Klicken Sie auf **Bearbeiten**.
 
    ![](assets/image2016-11-4-13-3a46-3a37.png)
 
-1. Wählen Sie auf der Kampagnenseite die Option **Aufspaltungstests** und klicken Sie auf **Neu erstellen**.
+1. Wählen Sie auf der Kampagnenseite **Aufspaltungstests** aus und klicken Sie auf **Neu erstellen**.
 
    ![](assets/image2014-11-26-16-3a47-3a18.png)
 
-1. Geben Sie die **Split Testgroup Name** klicken **Erstellen**. Auswählen **Automatische Abstimmung**.
+1. Geben Sie den **Split Testing Group Name** ein und klicken Sie auf **Create**. Wählen Sie **Auto-Tune** aus.
 
    ![](assets/image2014-11-26-16-3a52-3a24.png)
 
-1. **Speichern** oder **Launch** die Kampagne.
+1. **Speichern** oder **Starten** Sie die Kampagne.
 
    >[!TIP]
    >
-   >Auswählen **Automatische Abstimmung** ermöglicht der Web-Personalisierungsplattform die automatische Erkennung der leistungsschwächeren Aufspaltungstestkampagne und setzt die Kampagne mit der höchsten Konversionsrate fort, während die anderen angehalten werden.
+   >Durch die Auswahl von **Auto-Tune** kann die Web Personalization-Plattform die leistungsschwächere Aufspaltungstestkampagne automatisch erkennen und die Kampagne mit der höchsten Konversionsrate fortsetzen, während die anderen angehalten werden.
 
 1. Wiederholen Sie den obigen Vorgang mit der zweiten Kampagne.
 
-1. Wählen Sie die zweite Kampagne aus, die Sie A/B-Tests durchführen möchten. Klicken **Bearbeiten**.
+1. Wählen Sie die zweite Kampagne aus, die Sie A/B-Tests durchführen möchten. Klicken Sie auf **Bearbeiten**.
 
    ![](assets/image2016-11-4-13-3a51-3a39.png)
 
-1. Im **Kampagne festlegen** Seite, wählen Sie **Aufspaltungstests** und wählen Sie die **Gruppe** aus der Dropdown-Liste aus. Auswählen **Automatische Abstimmung**.
+1. Wählen Sie auf der Seite **Kampagne festlegen** die Option **Aufspaltungstests** und wählen Sie die **Gruppe** aus der Dropdown-Liste aus. Wählen Sie **Auto-Tune** aus.
 
    ![](assets/image2014-11-26-17-3a2-3a17.png)
 
-1. **Speichern** oder **Launch** die Kampagne.
+1. **Speichern** oder **Starten** Sie die Kampagne.
 
 1. Wiederholen Sie diesen Vorgang für eine dritte oder vierte Kampagne, um ihn zu testen.
 
-1. In **Web-Kampagnen** Sie können die durch das A/B-Symbol gekennzeichneten Aufspaltungstestkampagnen sehen.
+1. In **Web-Kampagnen** können Sie die aufgeteilten Testkampagnen sehen, die durch das A/B-Symbol gekennzeichnet sind.
 
    ![](assets/image2016-11-4-13-3a55-3a5.png)
 
@@ -76,6 +76,6 @@ Zum A/B-Test Ihrer personalisierten Kampagnen können Sie zwei oder mehr Kampagn
 
 >[!MORELIKETHIS]
 >
->* [Erstellen einer Dialogkampagne](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
->* [Erstellen einer RTP-In-Zone-Kampagne](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
->* [Erstellen einer RTP Widget-Kampagne](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+>* [Erstellen einer Dialogfeldkampagne](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+>* [Erstellen eines RTP in einer Bereichskampagne](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [Erstellen einer RTP-Widget-Kampagne](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)

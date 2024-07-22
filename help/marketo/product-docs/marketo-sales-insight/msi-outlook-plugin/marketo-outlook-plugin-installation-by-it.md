@@ -6,7 +6,7 @@ exl-id: c1ae1fb8-d1ad-4c1b-899b-29629fcb166b
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '172'
 ht-degree: 1%
 
 ---
@@ -17,7 +17,7 @@ Manchmal erfordern Unternehmensrichtlinien, dass das IT-Team alle Software auf d
 
 >[!PREREQUISITES]
 >
->[Einrichten](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md) den Unternehmensschlüssel.
+>[Richten Sie ](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md) den Unternehmensschlüssel ein.
 
 Führen Sie die folgende Befehlszeile als &quot;System&quot;oder als Administrator-Benutzerkonto mit dem /i-Switch aus, um zu installieren.
 
@@ -53,8 +53,8 @@ Um einen Speicherort für die Protokolldateien anzugeben, können Sie den Dateip
 >
 >Der Speicherort der Protokolldatei muss vorhanden sein oder die Installation wird abgebrochen.
 
-Siehe [Vollständige Liste der Switches von Microsoft](https://support.microsoft.com/en-us/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6) , wenn Sie verschiedene Protokollierungsstufen oder Benutzeroberflächen-Ebenen ausprobieren möchten.
+Wenn Sie verschiedene Protokollierungsstufen oder Benutzeroberflächenebenen ausprobieren möchten, lesen Sie bitte die vollständige Liste der Switches von [Microsoft](https://support.microsoft.com/en-us/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6).
 
 >[!MORELIKETHIS]
 >
->[Marketo Outlook-Plug-in-Deinstallation durch IT](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-uninstall-by-it.md)
+>[Marketo Outlook-Plugin deinstallieren von IT](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-uninstall-by-it.md)

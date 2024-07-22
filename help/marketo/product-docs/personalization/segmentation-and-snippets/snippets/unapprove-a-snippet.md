@@ -15,17 +15,17 @@ ht-degree: 0%
 
 Ein nicht genehmigtes Snippet kann nicht in E-Mails oder Landingpages verwendet werden.
 
-1. Navigieren Sie zu **Design Studio**.
+1. Wechseln Sie zu **Design Studio**.
 
    ![](assets/image2014-9-16-10-3a41-3a18.png)
 
-1. Gehen Sie zu Ihrem Snippet und stellen Sie sicher, dass er nicht **Verwendet von** alle Assets.
+1. Wechseln Sie zu Ihrem Snippet und stellen Sie sicher, dass es nicht von **Assets verwendet wird.**
 
    ![](assets/image2014-9-16-10-3a41-3a27.png)
 
    Wenn Ihr Snippet von anderen Assets verwendet wird, entfernen Sie diese Verknüpfungen, bevor Sie fortfahren.
 
-1. In **Snippet-Aktionen** klicken Sie auf **Nicht genehmigen**.
+1. Klicken Sie in **Snippet-Aktionen** auf **Nicht genehmigen**.
 
    ![](assets/image2014-9-16-10-3a41-3a54.png)
 

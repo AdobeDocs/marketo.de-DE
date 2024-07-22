@@ -6,7 +6,7 @@ exl-id: a1178f76-6760-4a4a-9510-f129ee6a9032
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
@@ -21,25 +21,25 @@ Verwenden Sie dynamische Inhalte in E-Mails, um Ihre Interessenten-Targeting-Inf
 
 >[!NOTE]
 >
->Die Verwendung von Variablen in dynamischen Inhalten in einer E-Mail wird nur bei der Verwendung von Trigger-Kampagnen unterstützt. Es ist **not** wird bei der Verwendung von Batch-Kampagnen unterstützt.
+>Die Verwendung von Variablen in dynamischen Inhalten in einer E-Mail wird nur bei der Verwendung von Trigger-Kampagnen unterstützt. Bei der Verwendung von Batch-Kampagnen wird dies **nicht** unterstützt.
 
 ## Segmentierung hinzufügen {#add-segmentation}
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Wechseln Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities.png)
 
-1. E-Mail auswählen und auf **Entwurf bearbeiten**.
+1. Wählen Sie Ihre E-Mail aus und klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/1.2.png)
 
-1. In diesem Beispiel machen wir die Betreffzeile dynamisch. Klicken Sie in das Feld Betreff und dann auf das **Dynamisch machen** Schaltfläche.
+1. In diesem Beispiel machen wir die Betreffzeile dynamisch. Klicken Sie in das Feld Betreff und dann auf die Schaltfläche **Dynamisch machen** .
 
    ![](assets/1.3.png)
 
    >[!NOTE]
    >
-   >Sie können auch ein Element innerhalb der E-Mail dynamisch gestalten. Wählen Sie dazu den Bereich aus, klicken Sie auf das Zahnradsymbol und wählen Sie **Dynamisch machen** (oder [Ersetzen durch Snippet](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md), je nachdem, was Sie tun).
+   >Sie können auch ein Element innerhalb der E-Mail dynamisch gestalten. Wählen Sie dazu den Bereich aus, klicken Sie auf das Zahnradsymbol und wählen Sie **Dynamisch machen** (oder [Mit Snippet ersetzen](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md), je nachdem, was Sie tun).
 
 1. Geben Sie den Segmentierungsnamen ein, wählen Sie ihn aus und klicken Sie auf **Speichern**.
 
@@ -75,5 +75,5 @@ Süß! Jetzt können Sie flexible E-Mails an Ihre Zielgruppe senden.
 
 >[!MORELIKETHIS]
 >
->* [Vorschau einer E-Mail mit dynamischem Inhalt](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md)
->* [Dynamische Inhalte in einer Landingpage verwenden](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/use-dynamic-content-in-a-free-form-landing-page.md)
+>* [Vorschau einer E-Mail mit dynamischem Inhalt anzeigen](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md)
+>* [Dynamischen Inhalt in einer Landingpage verwenden](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/use-dynamic-content-in-a-free-form-landing-page.md)

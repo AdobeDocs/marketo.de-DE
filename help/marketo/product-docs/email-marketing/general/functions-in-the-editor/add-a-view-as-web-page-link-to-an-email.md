@@ -1,7 +1,7 @@
 ---
 unique-page-id: 1900560
 description: Hinzufügen eines Links Als Webseite anzeigen zu einer E-Mail - Marketo-Dokumente - Produktdokumentation
-title: Hinzufügen eines Links "Als Webseite anzeigen"zu einer E-Mail
+title: Hinzufügen einer E-Mail als Webseitenlink anzeigen
 exl-id: 0f420d1b-6c12-4e66-9dfa-3c8f6145dc89
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,9 +11,9 @@ ht-degree: 0%
 
 ---
 
-# Hinzufügen eines Links &quot;Als Webseite anzeigen&quot;zu einer E-Mail {#add-a-view-as-web-page-link-to-an-email}
+# Hinzufügen einer E-Mail als Webseitenlink anzeigen {#add-a-view-as-web-page-link-to-an-email}
 
-E-Mails haben eingeschränkte Funktionen (eingeschränktes CSS und kein JavaScript oder Formulare). Verwenden Sie Als Webseite anzeigen , um einen Link zur Anzeige Ihrer E-Mail in einem Browser bereitzustellen. Dadurch wird der Empfänger mit dem Munchkin Cookie gesetzt.
+E-Mails verfügen über eingeschränkte Funktionen (eingeschränktes CSS und keine JavaScript oder Formulare). Verwenden Sie Als Webseite anzeigen , um einen Link zur Anzeige Ihrer E-Mail in einem Browser bereitzustellen. Dadurch wird der Empfänger mit dem Munchkin Cookie gesetzt.
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ E-Mails haben eingeschränkte Funktionen (eingeschränktes CSS und kein JavaScri
 
    ![](assets/two-5.png)
 
-1. Überprüfen Sie die **Als Webseite anzeigen einschließen** und klicken Sie auf **Speichern**.
+1. Aktivieren Sie das Feld **Ansicht als Webseite einschließen** und klicken Sie auf **Speichern**.
 
    ![](assets/three-4.png)
 
@@ -39,4 +39,4 @@ Hier ist ein Beispiel dafür, wie es aussieht:
 >
 >Der Link Als Webseite anzeigen wird erst angezeigt, wenn Sie die E-Mail gesendet haben. Senden Sie sich einen Test zur Ansicht.
 
-Informationen zum Ändern des Standardtexts finden Sie unter [Bearbeiten Sie die Meldung &quot;Als Webseite anzeigen&quot;.](/help/marketo/product-docs/administration/email-setup/edit-the-view-as-web-page-message.md).
+Informationen zum Ändern des Standardtexts finden Sie unter [Bearbeiten der Meldung &quot;Als Webseite anzeigen&quot;](/help/marketo/product-docs/administration/email-setup/edit-the-view-as-web-page-message.md).

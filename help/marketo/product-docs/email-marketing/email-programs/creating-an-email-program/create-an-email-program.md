@@ -15,21 +15,21 @@ ht-degree: 0%
 
 Verwenden Sie E-Mail-Programme, um schnell und einfach eine E-Mail an eine Personengruppe zu senden.
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Wechseln Sie zu **Marketingaktivitäten**.
 
    ![](assets/one.png)
 
-1. Wählen Sie den Ordner aus, in dem Sie das Programm erstellen möchten, und klicken Sie auf das **Neu** und wählen Sie **Neues Programm**.
+1. Wählen Sie den Ordner aus, in dem Sie das Programm erstellen möchten, klicken Sie auf die Dropdownliste **Neu** und wählen Sie **Neues Programm** aus.
 
    ![](assets/two.png)
 
-1. Geben Sie einen Namen ein, wählen Sie **Email** als Programmtyp angeben, und klicken Sie auf **Erstellen**.
+1. Geben Sie einen Namen ein, wählen Sie **E-Mail** als Programmtyp aus und klicken Sie auf **Erstellen**.
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >Bei Auswahl **Email** als Programmtyp festgelegt ist, wird der Kanal automatisch auf **E-Mail-Versand**. Du kannst es ändern, wenn du willst.
+   >Wenn Sie **E-Mail** als Programmtyp auswählen, wird der Kanal automatisch auf **E-Mail-Versand** eingestellt. Du kannst es ändern, wenn du willst.
 
    ![](assets/four.png)
 

@@ -18,11 +18,11 @@ Für diejenigen, die Google-Kundenabgleich verwenden, führen Sie die folgenden 
 
    ![](assets/send-a-list-to-google-1.png)
 
-1. Klicken Sie auf **Aktionen auflisten** und wählen Sie **An Werbenetzwerk senden**.
+1. Klicken Sie auf das Dropdown-Menü **Listenaktionen** und wählen Sie **An Anzeigennetzwerk senden** aus.
 
    ![](assets/send-a-list-to-google-2.png)
 
-1. Wählen Sie Google und klicken Sie auf **Nächste**.
+1. Wählen Sie Google und klicken Sie auf **Weiter**.
 
    ![](assets/send-a-list-to-google-3.png)
 
@@ -36,14 +36,14 @@ Für diejenigen, die Google-Kundenabgleich verwenden, führen Sie die folgenden 
 
    >[!NOTE]
    >
-   >* Auswählen **Zielgruppenmitgliedschaft synchronisieren** hält die Liste bei Änderungen in Ihrer Instanz auf dem neuesten Stand. Wir fügen Personen zur Zielgruppe hinzu/entfernen sie aus der statischen Liste.
+   >* Durch Auswahl von **Die Zielgruppenzugehörigkeit synchron halten** bleibt die Liste bei Änderungen in Ihrer Instanz auf dem neuesten Stand. Wir fügen Personen zur Zielgruppe hinzu/entfernen sie aus der statischen Liste.
    >
-   >* Wenn Sie das Kontrollkästchen unten aktivieren, wird der Zustimmungsstatus für Benutzerdaten, die zu Werbe- und Anzeigenpersonalisierungszwecken an Google Ads gesendet werden, als GRANTED gesendet. Wenn die Option deaktiviert bleibt, wird der Status der Zustimmung als UNSPEZIFIED gesendet. Für diejenigen, die Daten für Nutzer im Europäischen Wirtschaftsraum (EWR) hochladen möchten, hat Google eine Liste von [FAQs](https://support.google.com/google-ads/answer/14310715){target="_blank"}sowie zusätzliche Details, die die [EU-Zustimmungspolitik für Benutzer](https://www.google.com/about/company/user-consent-policy/){target="_blank"}.
+   >* Wenn Sie das Kontrollkästchen unten aktivieren, wird der Zustimmungsstatus für Benutzerdaten, die zu Werbe- und Anzeigenpersonalisierungszwecken an Google Ads gesendet werden, als GRANTED gesendet. Wenn die Option deaktiviert bleibt, wird der Status der Zustimmung als UNSPEZIFIED gesendet. Für diejenigen, die Daten für Benutzer im Europäischen Wirtschaftsraum (EWR) hochladen möchten, hat Google eine Liste mit [FAQs](https://support.google.com/google-ads/answer/14310715){target="_blank"} sowie weitere Details zur [EU-Richtlinie über die Einwilligung von Benutzern erstellt](https://www.google.com/about/company/user-consent-policy/){target="_blank"}.
 
-1. Klicks **Aktualisieren**.
+1. Klicken Sie auf **Aktualisieren**.
 
    ![](assets/send-a-list-to-google-6.png)
 
-1. Klicks **OK** zu beenden.
+1. Klicken Sie zum Beenden auf **OK** .
 
    ![](assets/send-a-list-to-google-7.png)

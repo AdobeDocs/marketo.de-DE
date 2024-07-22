@@ -25,7 +25,7 @@ Mit dem Interaktionsdashboard können Sie die Effektivität Ihrer Pflegeprogramm
 
 Messen der Zielgruppeninteraktion
 
-Wählen Sie die **Erfolge** Metrik zur Messung der Interaktion der Zielgruppe mit Ihren Pflegeprogrammen. Der Erfolg ist ein Maß für die sinnvolle Interaktion in Marketo.
+Wählen Sie die Metrik **Erfolg** aus, um die Interaktion der Zielgruppe mit Ihren Pflegeprogrammen zu messen. Der Erfolg ist ein Maß für die sinnvolle Interaktion in Marketo.
 
 ![](assets/3-4.png)
 
@@ -37,7 +37,7 @@ Ziel eines Programms ist es, eine sinnvolle Interaktion mit der Person oder dem 
 
 Erfassen neuer Namen messen
 
-Wählen Sie die **Neue Namen** Metrik, um die Effektivität Ihrer neuen Namensakquiseprogramme zu messen.
+Wählen Sie die Metrik **Neue Namen** aus, um die Effektivität Ihrer neuen Namenakquiseprogramme zu messen.
 
 ![](assets/4-3.png)
 

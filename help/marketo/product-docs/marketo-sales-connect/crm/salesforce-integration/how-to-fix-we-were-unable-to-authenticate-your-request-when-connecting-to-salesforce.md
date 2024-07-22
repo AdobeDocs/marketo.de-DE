@@ -18,16 +18,16 @@ Wenn Sie beim Versuch, Sales Connect mit Salesforce zu verbinden, die Fehlermeld
 ## Aktivieren der API in Benutzerberechtigungen {#enable-api-in-user-permissions}
 
 1. Bitten Sie einen Salesforce-Administrator, sich bei SFDC anzumelden.
-1. Auswählen **Einrichtung**.
-1. Auswählen **Benutzer verwalten**.
-1. Auswählen **Profile**.
+1. Wählen Sie **Einrichten** aus.
+1. Wählen Sie **Benutzer verwalten** aus.
+1. Wählen Sie **Profile** aus.
 1. Suchen Sie das Profil, unter dem sich die ToutApp-Benutzer befinden, und klicken Sie auf **Bearbeiten**.
-1. Nach unten scrollen zu **Administratorberechtigungen** und stellen Sie sicher, **API aktiviert** aktiviert ist.
+1. Scrollen Sie nach unten zu **Administratorberechtigungen** und stellen Sie sicher, dass die Option **API aktiviert** aktiviert ist.
 
 ## Überprüfen Sie, ob Salesforce die Verbindung von Sales Connect blockiert. {#check-if-salesforce-is-blocking-sales-connect-from-connecting}
 
 1. Bitten Sie einen Salesforce-Administrator, sich bei SFDC anzumelden.
-1. Auswählen **Einrichtung**.
-1. Auswählen **Apps verwalten**.
-1. Auswählen **Connected Apps OAuth-Nutzung**.
+1. Wählen Sie **Einrichten** aus.
+1. Wählen Sie **Apps verwalten** aus.
+1. Wählen Sie **Connected Apps OAuth Usage** aus.
 1. Stellen Sie sicher, dass neben Sales Connect &quot;Block&quot;angezeigt wird. Wenn &quot;Block aufheben&quot;angezeigt wird, klicken Sie auf die Schaltfläche , um den Zugriff von Sales Connect auf Salesforce zu entsperren.

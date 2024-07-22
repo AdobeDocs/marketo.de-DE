@@ -15,11 +15,11 @@ ht-degree: 1%
 
 Verwenden Sie Spalten, um die Daten in Ihrem Bericht zu sortieren und die wichtigsten Zahlen leichter zu finden.
 
-1. Navigieren Sie zu **Analytics** (oder **Marketingaktivitäten**).
+1. Gehen Sie zu **Analytics** (oder **Marketingaktivitäten**).
 
    ![](assets/login-marketing-activities.png)
 
-1. Wählen Sie Ihren Bericht in der Navigationsstruktur aus und klicken Sie auf das **Bericht** Registerkarte.
+1. Wählen Sie Ihren Bericht in der Navigationsstruktur aus und klicken Sie auf die Registerkarte **Bericht** .
 
    ![](assets/reports2.jpg)
 

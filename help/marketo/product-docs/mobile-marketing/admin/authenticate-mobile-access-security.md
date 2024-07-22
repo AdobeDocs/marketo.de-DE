@@ -7,7 +7,7 @@ feature: Mobile Marketing
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '145'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -21,7 +21,7 @@ Um die IDs zu aktivieren, müssen Sie die Codes abrufen und sie Ihrer IT-Abteilu
 >
 >Wenden Sie sich zur Aktivierung dieser Funktion an den Support und fordern Sie &quot;Vespa Secure Mode&quot;an.
 
-1. Wählen Sie in Marketo **Admin** und klicken **Mobile Apps und Geräte**.
+1. Wählen Sie in Marketo **Admin** und klicken Sie auf **Mobile Apps and Devices**.
 
    ![](assets/image2015-12-1-14-3a36-3a30.png)
 
@@ -33,7 +33,7 @@ Um die IDs zu aktivieren, müssen Sie die Codes abrufen und sie Ihrer IT-Abteilu
 
    ![](assets/image2015-12-1-14-3a41-3a37.png)
 
-1. Überprüfen Sie die **Sicherheit aktivieren** aktivieren. Klicks **Speichern**.
+1. Aktivieren Sie das Kontrollkästchen **Sicherheit aktivieren** . Klicken Sie auf **Speichern**.
 
    ![](assets/image2015-12-1-14-3a54-3a0.png)
 

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360225
-description: Filtern von Assets in einem E-Mail-Bericht - Marketo-Dokumente - Produktdokumentation
+description: Filtern von Assets in einem E-Mail-Bericht - Marketo Docs - Produktdokumentation
 title: Filtern von Assets in einem E-Mail-Bericht
 exl-id: c242e566-94d0-4e20-ba81-13a8f8f0b8a9
 feature: Reporting
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Filtern von Assets in einem E-Mail-Bericht {#filter-assets-in-an-email-report}
 
-Fokus [E-Mail-Leistung](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) oder [Leistung von E-Mail-Links](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) Berichte zu E-Mails in Ihren Programmen (&#39;lokale Assets&#39;), Assets in Design Studio (&#39;globale Assets&#39;) oder archivierten Programmen erstellen.
+Konzentrieren Sie Ihren Bericht zur [E-Mail-Leistung](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) oder zur [E-Mail-Link-Leistung](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) auf E-Mails in Ihren Programmen (&#39;lokale Assets&#39;), auf E-Mails in Design Studio (&#39;globale Assets&#39;) oder auf archivierte E-Mails.
 
 >[!NOTE]
 >
 >Das Filtern von Assets in Berichten wird im Satellitenmodus nicht unterstützt (das Symbol &quot;In einem neuen Fenster öffnen&quot;rechts auf der Asset-Detailseite).
 
-1. Navigieren Sie zu **Analytics** (oder **Marketingaktivitäten**).
+1. Wechseln Sie zum Bereich **Analytics** (oder **Marketingaktivitäten**).
 
    ![](assets/image2014-9-16-15-3a53-3a26.png)
 
@@ -27,7 +27,7 @@ Fokus [E-Mail-Leistung](/help/marketo/product-docs/email-marketing/email-program
 
    ![](assets/image2014-9-16-15-3a53-3a29.png)
 
-1. Klicken Sie auf **Einrichtung** und ziehen Sie über einen Filter.
+1. Klicken Sie auf die Registerkarte **Einrichtung** und ziehen Sie über einen Filter.
 
    ![](assets/image2014-9-16-15-3a53-3a32.png)
 
@@ -43,7 +43,7 @@ Fokus [E-Mail-Leistung](/help/marketo/product-docs/email-marketing/email-program
    >
    >Wenn Sie einen Ordner auswählen, enthält der Bericht alle Elemente, die der Ordner zum Zeitpunkt der Ausführung des Berichts enthält.
 
-1. Du bist fertig! Klicken Sie auf **Bericht** um Ihren gefilterten Bericht anzuzeigen.
+1. Du bist fertig! Klicken Sie auf die Registerkarte **Bericht** , um Ihren gefilterten Bericht anzuzeigen.
 
    ![](assets/image2014-9-16-15-3a53-3a59.png)
 

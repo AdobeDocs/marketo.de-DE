@@ -17,7 +17,7 @@ In diesem Artikel wird beschrieben, wie Sie einen inkompatiblen Statusfehler beh
 
 ## Was tun Sie, wenn Sie eine Fehlermeldung erhalten? {#what-do-you-do-if-you-received-an-error-message}
 
-Wenn Sie versuchen, eine Synchronisation mit einer vorhandenen Salesforce-Kampagne durchzuführen, die Leads enthält und die Kampagne einen oder mehrere inkompatible Status enthält, wird eine Fehlermeldung angezeigt. Ein Marketo-Programm und eine Salesforce-Kampagne *nicht* synchronisieren, wenn die Status nicht exakt übereinstimmen.
+Wenn Sie versuchen, eine Synchronisation mit einer vorhandenen Salesforce-Kampagne durchzuführen, die Leads enthält und die Kampagne einen oder mehrere inkompatible Status enthält, wird eine Fehlermeldung angezeigt. Ein Marketo-Programm und eine Salesforce-Kampagne *werden nicht synchronisiert, wenn die Status nicht exakt übereinstimmen.*
 
 ![](assets/image2015-7-22-9-3a23-3a29.png)
 

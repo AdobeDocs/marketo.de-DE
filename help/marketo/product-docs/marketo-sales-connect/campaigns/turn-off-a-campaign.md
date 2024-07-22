@@ -21,7 +21,7 @@ Muss eine Kampagne automatisch beendet werden, wenn ein Empfänger antwortet? So
 
 ## Deaktivieren einer Kampagne für eine Person {#turn-off-a-campaign-for-one-person}
 
-Nachdem Sie Ihre Kampagne erstellt haben, gehen Sie einfach zum **Einstellungen** und wählen Sie aus, wie sich die Kampagne verhalten soll, wenn jemand antwortet.
+Nachdem Sie Ihre Kampagne erstellt haben, gehen Sie einfach zum Tab **Einstellungen** und wählen Sie aus, wie sich die Kampagne verhalten soll, wenn jemand antwortet.
 
 Beide Optionen beenden die Kampagne und der Empfänger erhält keine E-Mails mehr von Ihnen.
 

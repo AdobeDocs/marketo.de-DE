@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359649
-description: Formularübermittlungs-Schaltflächentext ändern - Marketo-Dokumente - Produktdokumentation
+description: Schaltflächentext "Formular senden"- Marketo-Dokumente - Produktdokumentation
 title: Schaltflächentext "Formular senden"ändern
 exl-id: 6461bbf0-9e77-4187-a7d1-a7ad3abe08d9
 feature: Forms
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Sie können eine Formularschaltfläche schnell und einfach von &quot;Senden&quot;in ein beliebiges anderes Wort ändern. So geht es.
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Wechseln Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities-4.png)
 
@@ -23,7 +23,7 @@ Sie können eine Formularschaltfläche schnell und einfach von &quot;Senden&quot
 
    ![](assets/image2014-9-15-12-3a42-3a14.png)
 
-1. Wählen Sie die Schaltfläche aus und ändern Sie die **Titel**.
+1. Wählen Sie die Schaltfläche aus und ändern Sie den **Titel**.
 
    ![](assets/image2014-9-15-12-3a42-3a41.png)
 
@@ -31,11 +31,11 @@ Sie können eine Formularschaltfläche schnell und einfach von &quot;Senden&quot
    >
    >Beachten Sie, dass Sie auch die Wartebezeichnung ändern können. Dies wird angezeigt, nachdem auf die Schaltfläche geklickt wurde und bevor die Übermittlungsaktion für das Formular abgeschlossen ist.
 
-1. Klicken **Beenden**.
+1. Klicken Sie auf **Beenden**.
 
    ![](assets/image2014-9-15-12-3a43-3a26.png)
 
-1. Klicken **Genehmigen und schließen**.
+1. Klicken Sie auf **Genehmigen und schließen**.
 
    ![](assets/image2014-9-15-12-3a43-3a36.png)
 

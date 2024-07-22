@@ -5,7 +5,7 @@ exl-id: b77bb44f-94d0-40b2-9955-9636421ac468
 feature: Veeva CRM
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '485'
+source-wordcount: '486'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ Ein Personenkonto wird als Unternehmen und als Person mit Marketo synchronisiert
 >
 >Die benutzerdefinierten Felder für ein Personenkonto werden sowohl in das Unternehmen als auch in die Person in Marketo kopiert.
 
-**Wie kann ich Geschäftskonten und Personenkonten unterscheiden?**
+**Wie differenziere ich Geschäftskonten und Personenkonten?**
 
 Verwenden Sie den Filter &quot;Is Person&quot;-Konto in Ihrer Smart-Liste, um Personenkonten von standardmäßigen Geschäftskonten zu trennen.
 
@@ -44,11 +44,11 @@ Es gibt zwei E-Mail-Felder für ein Personenkonto. Verwenden Sie das Feld E-Mail
 
 Die Synchronisation der mit dem Kontakt verbundenen Felder des Personenkontos erfolgt bidirektional. Wenn Sie Änderungen an einem Kontakt in Veeva CRM oder Marketo vornehmen, spiegeln sich Ihre Aktualisierungen in beiden Systemen wider. Die Felder des Kontos werden nur in eine Richtung synchronisiert, von VEeva CRM zu Marketo.
 
-**Was passiert, wenn in beiden Systemen gleichzeitig Änderungen an Kontaktfeldern im Personenkonto vorgenommen werden?**
+**Was passiert, wenn Änderungen in beiden Systemen gleichzeitig in Kontaktfelder für das Personenkonto vorgenommen werden?**
 
 Wir wären nett und ließen Veeva CRM gewinnen. Es ist jedoch selten, dass diese Art von Datenkollision auftritt.
 
-**Werden Lead- oder Kontakttyp von Datensätzen mit Vevar CRM synchronisiert?**
+**Werden Lead- oder Kontakttyp von Datensätzen mit VEeva CRM synchronisiert?**
 
 Veeva CRM behandelt ausschließlich Personen-Account-Objekte und hat auch Geschäftskonten. Die traditionellen CRM-Typen von Lead, Kontakten und Chancen sind in den traditionellen Veeva CRM-Systemen nicht wirklich im Einsatz. Diese können im VEE-CRM erstellt werden, werden jedoch nicht offiziell über diesen Connector unterstützt.
 
@@ -68,11 +68,11 @@ Nein, nicht alle Standardfelder sind nützlich. Alle benutzerdefinierten Felder 
 >
 >Marketo synchronisiert nur die Felder, auf die Ihr Marketo Sync User Zugriff hat.
 
-**Wird Marketo die Validierungsregeln von Veeva einhalten?**
+**Wird Marketo die VEA-Validierungsregeln einhalten?**
 
 Ja, wenn ein Konflikt vorliegt, protokollieren wir das Ergebnis im Aktivitätsprotokoll des Leads.
 
 >[!MORELIKETHIS]
 >
->* [Standardmäßige VEA-Feldzuordnung](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/default-veeva-field-mapping.md){target="_blank"}
->* [Synchronisieren von Aufrufen und Aufrufen von Schlüsselmeldungen](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target="_blank"}
+>* [Standardmäßige Visualisierungsfeldzuordnung](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/default-veeva-field-mapping.md){target="_blank"}
+>* [Synchronisierungsaufruf und -aufruf für Schlüsselmeldungen](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target="_blank"}

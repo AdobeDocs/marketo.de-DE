@@ -17,17 +17,17 @@ So erstellen Sie ein Segment mithilfe einer Kontoliste.
 
 >[!PREREQUISITES]
 >
->[Neue Kontoliste erstellen](/help/marketo/product-docs/target-account-management/target/account-lists.md)
+>[Erstellen einer neuen Kontoliste](/help/marketo/product-docs/target-account-management/target/account-lists.md)
 
 1. Navigieren Sie zu **Segmente**.
 
    ![](assets/new-dropdown-segments-hand-no-account-list.jpg)
 
-1. Klicks **Neu erstellen**.
+1. Klicken Sie auf **Neu erstellen**.
 
    ![](assets/image2014-11-19-19-3a33-3a47.png)
 
-1. Geben Sie einen Namen für das Segment ein. Drag &amp; Drop **Kontolisten** aus dem **Firmographie** Abschnitt.
+1. Geben Sie einen Namen für das Segment ein. Ziehen Sie **Kontolisten** aus dem Bereich **Startgrafiken**.
 
    ![](assets/set-segment-hands.jpg)
 
@@ -37,9 +37,9 @@ So erstellen Sie ein Segment mithilfe einer Kontoliste.
 
    >[!NOTE]
    >
-   >Kontolisten werden von ABM mit Web-Personalisierung synchronisiert, um sie in der Segmentierung zu verwenden. Wählen Sie sie aus der Dropdownliste aus. Die Synchronisation kann bis zu fünf Minuten dauern. Die Synchronisierung erfolgt nur, wenn in der Kontoliste mindestens ein benanntes Konto enthalten ist.
+   >Kontolisten werden von ABM mit Web Personalization synchronisiert, um sie in der Segmentierung zu verwenden. Wählen Sie sie aus der Dropdownliste aus. Die Synchronisation kann bis zu fünf Minuten dauern. Die Synchronisierung erfolgt nur, wenn in der Kontoliste mindestens ein benanntes Konto enthalten ist.
 
-1. Klicks **Speichern** oder klicken Sie auf **Kampagne speichern und definieren** , um zur Seite Kampagnen zu gelangen.
+1. Klicken Sie auf **Speichern** oder auf **Speichern und Definieren der Kampagne** , um zur Seite &quot;Kampagnen&quot;zu gelangen.
 
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 

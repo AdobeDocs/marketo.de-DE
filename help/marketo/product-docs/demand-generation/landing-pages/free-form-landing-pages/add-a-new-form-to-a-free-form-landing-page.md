@@ -7,7 +7,7 @@ feature: Landing Pages
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '144'
-ht-degree: 2%
+ht-degree: 1%
 
 ---
 
@@ -20,7 +20,7 @@ Formular, Landingpage kennenlernen. Landingpage, Formular erfüllen.
 >* [Erstellen eines Formulars](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
 >* [Erstellen einer Freiform-Landingpage](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Wechseln Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -28,7 +28,7 @@ Formular, Landingpage kennenlernen. Landingpage, Formular erfüllen.
 
    ![](assets/image2014-9-16-14-3a44-3a15.png)
 
-1. Ziehen Sie die **Formular** -Element auf der Seite.
+1. Ziehen Sie das Element **Formular** auf die Seite.
 
    ![](assets/image2015-5-21-15-3a43-3a30.png)
 
@@ -38,9 +38,9 @@ Formular, Landingpage kennenlernen. Landingpage, Formular erfüllen.
 
 1. Sie haben bei der Auswahl Ihrer Nachverfolgungsseite drei Optionen:
 
-   * **Landingpage** - zur Auswahl einer Marketo-Landingpage
-   * **Externe URL** - um eine beliebige URL auszuwählen
-   * **Definiertes Formular** - um die auf Formularebene definierten Einstellungen zu verwenden.
+   * **Landingpage** - zum Auswählen einer Marketo-Landingpage
+   * **Externe URL** - zur Auswahl einer beliebigen URL
+   * **Definiertes Formular** - zur Verwendung der auf Formularebene definierten Einstellungen
 
    >[!NOTE]
    >
@@ -52,6 +52,6 @@ Formular, Landingpage kennenlernen. Landingpage, Formular erfüllen.
 
    ![](assets/image2014-9-16-14-3a44-3a38.png)
 
-   Gut gemacht!
+   Schön gemacht!
 
-Schließen Sie einfach den Landingpage-Editor und [Landingpage-Entwurf validieren](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+Schließen Sie einfach den Landingpage-Editor und [genehmigen Sie den Landingpage-Entwurf](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).

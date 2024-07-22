@@ -6,7 +6,7 @@ exl-id: ff81d48f-524e-4425-acb4-b62428f7a375
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -17,31 +17,31 @@ Ein Dashboard ist eine Kombination aus Umsatz-Explorer-Berichten, um einen schne
 
 ## Erstellen eines neuen Dashboards {#creating-a-new-dashboard}
 
-1. Klicken **Umsatz-Explorer**.
+1. Klicken Sie auf **Umsatz-Explorer**.
 
    ![](assets/one.png)
 
-1. Klicken **Neu erstellen**, dann **Dashboard**.
+1. Klicken Sie auf **Neu erstellen** und dann auf **Dashboard**.
 
    ![](assets/two.png)
 
-1. Am unteren Seitenrand werden Vorlagen standardmäßig ausgewählt. Klicken Sie auf das Layout, das Sie verwenden möchten. Hier wird &quot;2 Spalte&quot;verwendet.
+1. Am unteren Seitenrand werden Vorlagen standardmäßig ausgewählt. Klicken Sie auf das Layout, das Sie verwenden möchten. &quot;2 Spalte&quot;wird hier verwendet.
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >Sie können das Erscheinungsbild Ihres Dashboards weiter anpassen, indem Sie auf **Designs** und wählen Sie Ihren Favoriten.
+   >Sie können das Erscheinungsbild Ihres Dashboards weiter anpassen, indem Sie auf **Designs** klicken und Ihren Favoriten auswählen.
 
-1. Klicken Sie im ersten Bereich Ihres Dashboards auf das **Einfügen** Symbol und wählen Sie **Datei**.
+1. Klicken Sie im ersten Abschnitt Ihres Dashboards auf das Symbol **Einfügen** und wählen Sie **Datei** aus.
 
    ![](assets/four.png)
 
-1. Doppelklicken **Umsatz-Explorer**.
+1. Doppelklicken Sie auf **Umsatz-Explorer**.
 
    ![](assets/five.png)
 
-1. Doppelklicken **Alle Berichte und Dashboards**.
+1. Doppelklicken Sie auf **Alle Berichte und Dashboards**.
 
    ![](assets/six.png)
 
@@ -61,34 +61,34 @@ Ein Dashboard ist eine Kombination aus Umsatz-Explorer-Berichten, um einen schne
 
    ![](assets/ten.png)
 
-1. Klicken Sie zum Speichern auf das Symbol Speichern , geben Sie einen Dateinamen ein, doppelklicken Sie auf den Ordner &quot;Umsatz Explorer&quot;, bis Sie zum gewünschten Ordner für Ihr Dashboard gelangen, und klicken Sie auf **Speichern**.
+1. Klicken Sie zum Speichern auf das Symbol &quot;Speichern&quot;, geben Sie einen Dateinamen ein, doppelklicken Sie auf den Ordner &quot;Umsatz Explorer&quot;, bis Sie zum gewünschten Ordner für Ihr Dashboard gelangen, und klicken Sie auf &quot;**Speichern**&quot;.
 
    ![](assets/eleven.png)
 
 ## Bearbeiten eines Dashboards {#editing-a-dashboard}
 
-1. Klicken **Umsatz-Explorer**.
+1. Klicken Sie auf **Umsatz-Explorer**.
 
    ![](assets/one.png)
 
-1. Doppelklicken Sie auf die **Umsatz-Explorer** Ordner. Navigieren Sie zu der Stelle, an der sich Ihr Dashboard befindet.
+1. Doppelklicken Sie auf den Ordner **Umsatz-Explorer** . Navigieren Sie zu der Stelle, an der sich Ihr Dashboard befindet.
 
    ![](assets/thirteen.png)
 
-1. Wählen Sie das Dashboard aus, das Sie bearbeiten möchten, und klicken Sie auf **Bearbeiten**.
+1. Wählen Sie das Dashboard aus, das Sie bearbeiten möchten, und klicken Sie dann auf **Bearbeiten**.
 
    ![](assets/fourteen.png)
 
 ## Löschen eines Dashboards {#deleting-a-dashboard}
 
-1. Klicken **Umsatz-Explorer**.
+1. Klicken Sie auf **Umsatz-Explorer**.
 
    ![](assets/one.png)
 
-1. Doppelklicken Sie auf die **Umsatz-Explorer** Ordner. Navigieren Sie zu der Stelle, an der sich Ihr Dashboard befindet.
+1. Doppelklicken Sie auf den Ordner **Umsatz-Explorer** . Navigieren Sie zu der Stelle, an der sich Ihr Dashboard befindet.
 
    ![](assets/thirteen.png)
 
-1. Wählen Sie das Dashboard aus, das Sie löschen möchten, und klicken Sie auf **In Papierkorb verschieben**.
+1. Wählen Sie das Dashboard aus, das Sie löschen möchten, und klicken Sie dann auf **In den Papierkorb verschieben**.
 
    ![](assets/fifteen.png)

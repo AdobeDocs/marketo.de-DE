@@ -29,9 +29,9 @@ Suchen und wählen Sie in Ihrer Smart-Kampagne die Dynamics-Kampagne aus, der Si
 >Wenn eine Dynamics-Kampagne nicht in der Kampagnenliste angezeigt wird:
 >
 >* Sicherstellen, dass die Kampagnensynchronisierung funktioniert
->* Die Kampagne ist nicht aktiv in [!DNL Microsoft Dynamics]
+>* Die Kampagne ist in [!DNL Microsoft Dynamics] nicht aktiv
 
-Das System erstellt automatisch eine kampagnenspezifische statische Marketing-Liste, die jeweils für Leads und Kontakte verwendet wird, um die Person hinzuzufügen. Es handelt sich um eine einmalige Aktion, bei der für nachfolgende Synchronisierungen mit der Kampagne dieselbe Marketing-Liste verwendet wird. Der für den Namen der statischen Marketingliste verwendete Namensstandard lautet `Mkto-leads-<uniqueID>` für Leads und `Mkto-contacts-<uniqueID>` für Kontakte.
+Das System erstellt automatisch eine kampagnenspezifische statische Marketing-Liste, die jeweils für Leads und Kontakte verwendet wird, um die Person hinzuzufügen. Es handelt sich um eine einmalige Aktion, bei der für nachfolgende Synchronisierungen mit der Kampagne dieselbe Marketing-Liste verwendet wird. Der für den statischen Namen der Marketing-Liste verwendete Namensstandard lautet `Mkto-leads-<uniqueID>` für Leads und `Mkto-contacts-<uniqueID>` für Kontakte.
 
 Die Zuordnung dieser von Marketo generierten Marketinglisten zu anderen Kampagnen könnte zu Verwirrung führen. Beispiel: Wenn Sie eine Kampagne hinzufügen, wird auch die zweite Kampagne hinzugefügt. Ebenso ist es nicht empfehlenswert, die von Marketo generierte Marketingliste von der Kampagne in Dynamics zu trennen.
 
@@ -52,4 +52,4 @@ Suchen und wählen Sie in Ihrer Smart-Kampagne die Dynamics-Kampagne aus, aus de
 >Wenn keine Dynamics-Kampagne in der Kampagnenliste angezeigt wird:
 >
 >* Sicherstellen, dass die Kampagnensynchronisierung funktioniert
->* Die Kampagne ist nicht aktiv in [!DNL Microsoft Dynamics]
+>* Die Kampagne ist in [!DNL Microsoft Dynamics] nicht aktiv

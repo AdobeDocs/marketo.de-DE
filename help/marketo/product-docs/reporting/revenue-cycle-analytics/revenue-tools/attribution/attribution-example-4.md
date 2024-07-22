@@ -6,8 +6,8 @@ exl-id: 98cd7401-3bc7-40a1-b88d-7174a3027d4e
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 5%
+source-wordcount: '204'
+ht-degree: 3%
 
 ---
 
@@ -15,12 +15,12 @@ ht-degree: 5%
 
 Lesen Sie das folgende Szenario und versuchen Sie, die Zahlen zu ermitteln, die im Raster angezeigt werden sollen.
 
-* 11. April | Michelle downloads e-Book (Inhalt) - Erfolg
-* 15. April | John attends (Webinar) - Success
+* 11. April | Michelle downloads e-Book (Content) - Erfolg
+* 15. April | John besucht (Webinar) - Erfolg
 * 22. April | (Chance 1) erstellt für 3.000 $
 * 24. April | (Chancen 2) erstellt für 5.000 $
-* 25. April | John und Michelle sind mit **both** Optys
-* 29. April | [Option 1] is Closed-Won
+* 25. April | John und Michelle sind **beide** Optionen zugeordnet
+* 29. April | [Opty 1] is Closed-Won
 
 | Programmname | (Inhalt) | (Webinar) |
 |---|---|---|

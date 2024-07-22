@@ -15,14 +15,14 @@ ht-degree: 3%
 
 ## Marketo Moments {#marketo-moments}
 
-Mittag essen, aber eine E-Mail neu planen müssen? Die Marketo Moments-App, die über App Store oder Google Play verfügbar ist, bietet Ihnen die Möglichkeit zu sehen, wie Ihre E-Mail- und Ereigniskampagnen in Echtzeit funktionieren und was in Zukunft von Ihrem iPhone-, iPad- oder Android-Telefon aus geschieht.
+Mittag essen, aber eine E-Mail neu planen müssen? Die Marketo Moments-App, die über die App Store oder Google Play verfügbar ist, bietet Ihnen die Möglichkeit zu sehen, wie Ihre E-Mail- und Ereigniskampagnen in Echtzeit funktionieren und was in Zukunft von Ihrem iPhone-, iPad- oder Android-Telefon aus geschieht.
 
 ![](assets/image2015-7-10-9-3a42-3a29.png)
 
 ## Rich-Text-Editor-Update {#rich-text-editor-update}
 
 Der Texteditor wurde mit modernem Erscheinungsbild aktualisiert, einschließlich optimierter Textformatierung, Bildbearbeitung, Link-Einfügung und HTML-Bearbeitung. Der HTML-Editor verfügt jetzt über eine minimale Validierung, was eine weniger restriktive Codebearbeitung ermöglicht.
-`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Diese Aktualisierung wird innerhalb weniger Tage nach der Juli-Version automatisch durchgeführt. Danach können Sie zwischen den neuen und alten Versionen des Editors von **Admin > E-Mail > Editor-Einstellungen bearbeiten**.
+`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Dieses Update wird innerhalb weniger Tage nach der Juli-Version automatisch veröffentlicht. Danach können Sie zwischen den neuen und alten Versionen des Editors über **Admin > E-Mail > Editor-Einstellungen bearbeiten** wechseln.
 
 ![](assets/image2015-7-10-9-3a42-3a44.png)
 
@@ -48,10 +48,10 @@ Haben Sie mehrere personalisierte RTP-Kampagnen eingerichtet und festgestellt, d
 
 ## Firmen-API {#company-api}
 
-**Zugriff auf Unternehmensobjekte über die REST-API**: Die REST-API bietet jetzt Zugriff auf das Marketo-Unternehmensobjekt (auch Konto genannt). Das bedeutet, dass Sie in Marketo erstellte Unternehmensobjekte lesen, aktualisieren und löschen und mit diesen Unternehmen Leads über die aktualisierte Lead-API verknüpfen können.
+**Zugriff auf Unternehmensobjekte über die REST-API**: Die REST-API bietet jetzt Zugriff auf das Marketo Company-Objekt (auch Konto genannt). Das bedeutet, dass Sie in Marketo erstellte Unternehmensobjekte lesen, aktualisieren und löschen und mit diesen Unternehmen Leads über die aktualisierte Lead-API verknüpfen können.
 
-Lernen [more]https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies) in unserem Referenzhandbuch für die Firmen-API.
+Weitere Informationen [mehr]https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies) finden Sie in unserem Referenzhandbuch für die Firmen-API.
 
 ## Email Deliverability aufrufen {#access-email-deliverability}
 
-**Email Deliverability Tool aufrufen**: Diese neue Berechtigung ermöglicht es Administratoren, Benutzern Zugriff auf das Email Deliverability-Tool zu gewähren.
+**Auf Email Deliverability Tool zugreifen**: Diese neue Berechtigung ermöglicht es Administratoren, Benutzern Zugriff auf das Email Deliverability-Tool zu gewähren.

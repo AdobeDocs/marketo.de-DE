@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# Champion/Challenger: E-Mail-Test genehmigen {#champion-challenger-approve-your-email-test}
+# Champion/Challenger: Genehmigen Sie Ihren E-Mail-Test {#champion-challenger-approve-your-email-test}
 
 Der letzte Schritt bei der Einrichtung Ihres E-Mail-Tests zur Validierung. So geht es.
 
@@ -19,25 +19,25 @@ Der letzte Schritt bei der Einrichtung Ihres E-Mail-Tests zur Validierung. So ge
 >
 >[Champion/Challenger: Berichtwarnungen konfigurieren](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Wechseln Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Suchen Sie nach und klicken Sie mit der rechten Maustaste auf die **Email Test** Klicken Sie auf **Test genehmigen**.
+1. Klicken Sie mit der rechten Maustaste auf den **E-Mail-Test** und klicken Sie dann auf **Test genehmigen**.
 
    ![](assets/champion3.jpg)
 
    >[!NOTE]
    >
-   >Bei der Genehmigung einer **Ganze E-Mail** Testen, validieren Sie zuerst die E-Mail des Herausforderers.
+   >Genehmigen Sie bei der Genehmigung eines Tests für **Gesamte E-Mail** zuerst die E-Mail des Herausforderers.
 
    >[!NOTE]
    >
-   >Um den Test auszuführen, wählen Sie die E-Mail aus, zu der Sie den Test in der **E-Mail senden** Flussschritt Ihrer Trigger-Kampagne. Sie haben auch die Möglichkeit, diese E-Mail in einen Stream eines Interaktionsprogramms einzufügen. Champion/Challenger-E-Mails funktionieren nicht in Batch-Kampagnen.
+   >Um den Test auszuführen, wählen Sie die E-Mail aus, zu der Sie den Test im Flussschritt **E-Mail senden** Ihrer Trigger-Kampagne hinzugefügt haben. Sie haben auch die Möglichkeit, diese E-Mail in einen Stream eines Interaktionsprogramms einzufügen. Champion/Challenger-E-Mails funktionieren nicht in Batch-Kampagnen.
 
    War das nicht einfach? Sobald Sie einige Berichte erhalten haben, möchten Sie einen Champion erklären.
 
    >[!MORELIKETHIS]
    >
-   >* [Champion/Challenger: Declare a Champion](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-declare-a-champion.md)
-   >* [Champion/Challenger: Einen E-Mail-Test verwerfen](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-discard-an-email-test.md)
+   >* [Champion/Challenger: Champion erklären](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-declare-a-champion.md)
+   >* [Champion/Challenger: Verwerfen Sie einen E-Mail-Test](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-discard-an-email-test.md)

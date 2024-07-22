@@ -17,11 +17,11 @@ Sie möchten Ihre Seiten verwalten? Erstellen Sie dazu einfach eine Liste. Sie k
 
 ## Seite zu Liste hinzufügen {#add-page-to-a-list}
 
-1. Navigieren Sie zu **[!UICONTROL Seiten]** Abschnitt.
+1. Wechseln Sie zum Abschnitt **[!UICONTROL Seiten]** .
 
    ![](assets/image2014-9-18-13-3a2-3a49.png)
 
-1. Bewegen Sie den Mauszeiger über die Seite, die Sie einer Liste hinzufügen möchten. Klicks **[!UICONTROL Aus Liste hinzufügen/entfernen]**.
+1. Bewegen Sie den Mauszeiger über die Seite, die Sie einer Liste hinzufügen möchten. Klicken Sie auf **[!UICONTROL Aus Liste hinzufügen/entfernen]**.
 
    ![](assets/image2014-9-18-13-3a2-3a53.png)
 
@@ -31,7 +31,7 @@ Sie möchten Ihre Seiten verwalten? Erstellen Sie dazu einfach eine Liste. Sie k
 
    >[!TIP]
    >
-   >Sie können auch eine neue Liste für Ihre Seite erstellen. Geben Sie einfach Ihren gewünschten Namen in [!UICONTROL Neue Liste erstellen].
+   >Sie können auch eine neue Liste für Ihre Seite erstellen. Geben Sie einfach Ihren gewünschten Namen in [!UICONTROL Neue Liste erstellen] ein.
 
 1. Klicken Sie auf die Liste, der Sie Ihre Seite hinzugefügt haben.
 
@@ -41,15 +41,15 @@ Ja! Ihre Seite sollte nun der Liste hinzugefügt werden.
 
 ## Seite aus Liste entfernen {#remove-page-from-a-list}
 
-1. Navigieren Sie zu **[!UICONTROL Seiten]** Abschnitt.
+1. Wechseln Sie zum Abschnitt **[!UICONTROL Seiten]** .
 
    ![](assets/image2014-9-18-13-3a3-3a45.png)
 
-1. Im **[!UICONTROL Seiten]** klicken Sie auf die Liste, die Sie bereinigen möchten.
+1. Klicken Sie auf der Registerkarte **[!UICONTROL Seiten]** auf die Liste, die Sie bereinigen möchten.
 
    ![](assets/image2014-9-18-13-3a3-3a59.png)
 
-1. Bewegen Sie den Mauszeiger über die Seite, die Sie entfernen möchten. Klicks **[!UICONTROL Aus Liste hinzufügen/entfernen]**.
+1. Bewegen Sie den Mauszeiger über die Seite, die Sie entfernen möchten. Klicken Sie auf **[!UICONTROL Aus Liste hinzufügen/entfernen]**.
 
    ![](assets/image2014-9-18-13-3a4-3a3.png)
 
@@ -61,4 +61,4 @@ Ja! Ihre Seite sollte nun der Liste hinzugefügt werden.
 
    ![](assets/image2014-9-18-13-3a5-3a40.png)
 
-Abgeschlossen. Ihre Seite wird aus der Liste entfernt.
+Fertig. Ihre Seite wird aus der Liste entfernt.

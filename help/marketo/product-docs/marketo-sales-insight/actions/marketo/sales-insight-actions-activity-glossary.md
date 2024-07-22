@@ -5,14 +5,14 @@ exl-id: fd0f632c-6f0d-49f9-a805-0730595c81fd
 feature: Sales Insight Actions
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '554'
-ht-degree: 12%
+source-wordcount: '557'
+ht-degree: 34%
 
 ---
 
 # Glossar zur Aktivität &quot;Sales Insight-Aktionen&quot; {#sales-insight-actions-activity-glossary}
 
-In Sales Insight-Aktionen, wenn ein Verkäufer: fügt einen Lead zu einer Verkaufskampagne hinzu, sendet ihnen eine Verkaufs-E-Mail oder führt einen ausgehenden Verkaufsaufruf durch. Er wird im Verlauf der Marketo-Aktivitäten für diesen Lead protokolliert. Wenn der Lead mit E-Mails, Öffnungen, Klicks und Antworten interagiert, wird er auch protokolliert.
+Wenn ein Verkäufer in Sales Insight-Aktionen einen Lead zu einer Verkaufskampagne hinzufügt, ihm eine Verkaufs-E-Mail sendet oder einen ausgehenden Verkaufsaufruf tätigt, wird dieser im Marketo-Aktivitätsverlauf für diesen Lead protokolliert. Wenn der Lead mit E-Mails, Öffnungen, Klicks und Antworten interagiert, wird er auch protokolliert.
 
 Die folgenden Aktivitäten werden über Sales Insight-Aktionen bei Marketo protokolliert.
 
@@ -38,10 +38,10 @@ Die folgenden Aktivitäten werden über Sales Insight-Aktionen bei Marketo proto
   <td>Vorlagen-ID</td>
  </tr>
  <tr>
-  <td>URL der Verkaufsvorlage</td>
+  <td>Verkaufsvorlagen-URL</td>
  </tr>
  <tr>
-  <td>Vertriebskampagnen-URL</td>
+  <td>Verkaufskampagne URL</td>
  </tr>
  <tr>
   <td>Name der Verkaufsvorlage</td>
@@ -50,10 +50,10 @@ Die folgenden Aktivitäten werden über Sales Insight-Aktionen bei Marketo proto
   <td>Email Subject</td>
  </tr>
  <tr>
-  <td>Name der Verkaufskampagne</td>
+  <td>Verkaufskampagne Name</td>
  </tr>
  <tr>
-  <td>Marketo-Vertriebsmitarbeiter-ID</td>
+  <td>Marketo-Verkäufer-ID</td>
  </tr>
  <tr>
   <th rowspan="9">Verkaufs-E-Mail öffnen</th>
@@ -66,10 +66,10 @@ Die folgenden Aktivitäten werden über Sales Insight-Aktionen bei Marketo proto
   <td>Vorlagen-ID</td>
  </tr>
  <tr>
-  <td>URL der Verkaufsvorlage</td>
+  <td>Verkaufsvorlagen-URL</td>
  </tr>
  <tr>
-  <td>Vertriebskampagnen-URL</td>
+  <td>Verkaufskampagne URL</td>
  </tr>
  <tr>
   <td>Name der Verkaufsvorlage</td>
@@ -78,10 +78,10 @@ Die folgenden Aktivitäten werden über Sales Insight-Aktionen bei Marketo proto
   <td>Email Subject</td>
  </tr>
  <tr>
-  <td>Name der Verkaufskampagne</td>
+  <td>Verkaufskampagne Name</td>
  </tr>
  <tr>
-  <td>Marketo-Vertriebsmitarbeiter-ID</td>
+  <td>Marketo-Verkäufer-ID</td>
  </tr>
  <tr>
   <th rowspan="10">angeklickte E-Mail zum Vertrieb</th>
@@ -97,10 +97,10 @@ Die folgenden Aktivitäten werden über Sales Insight-Aktionen bei Marketo proto
   <td>Vorlagen-ID</td>
  </tr>
  <tr>
-  <td>URL der Verkaufsvorlage</td>
+  <td>Verkaufsvorlagen-URL</td>
  </tr>
  <tr>
-  <td>Vertriebskampagnen-URL</td>
+  <td>Verkaufskampagne URL</td>
  </tr>
  <tr>
   <td>Name der Verkaufsvorlage</td>
@@ -109,39 +109,39 @@ Die folgenden Aktivitäten werden über Sales Insight-Aktionen bei Marketo proto
   <td>Email Subject</td>
  </tr>
  <tr>
-  <td>Name der Verkaufskampagne</td>
+  <td>Verkaufskampagne Name</td>
  </tr>
  <tr>
-  <td>Marketo-Vertriebsmitarbeiter-ID</td>
+  <td>Marketo-Verkäufer-ID</td>
  </tr>
 <tr>
-  <th rowspan="3">Antwort auf E-Mail zum Vertrieb</th>
+  <th rowspan="3">Hat auf Vertriebsemail geantwortet</th>
   <td>Erhalten von</td>
  </tr>
  <tr>
   <td>Quelle</td>
  </tr>
  <tr>
-  <td>Marketo-Vertriebsmitarbeiter-ID</td>
+  <td>Marketo-Verkäufer-ID</td>
  </tr>
  <tr>
   <th rowspan="11">Hat Verkaufsanruf empfangen</th>
-  <td>Verkaufsaufruf von</td>
+  <td>Verkaufsanruf getätigt von</td>
  </tr>
  <tr>
-  <td>Status der Verkaufsaufrufe</td>
+  <td>Verkaufsanruf Status</td>
  </tr>
  <tr>
-  <td>Verkaufsgespräch</td>
+  <td>Verkaufsanruf Betreff</td>
  </tr>
  <tr>
-  <td>Name der Verkaufskampagne</td>
+  <td>Verkaufskampagne Name</td>
  </tr>
  <tr>
-  <td>Vertriebskampagnen-URL</td>
+  <td>Verkaufskampagne URL</td>
  </tr>
  <tr>
-  <td>Telefonnummer des Verkäufers aufgerufen</td>
+  <td>Angerufene Telefonnummer des Verkaufs</td>
  </tr>
  <tr>
   <td>Quelle</td>
@@ -156,36 +156,17 @@ Die folgenden Aktivitäten werden über Sales Insight-Aktionen bei Marketo proto
   <td>Verkaufsaufruf beantwortet von</td>
  </tr>
  <tr>
-  <td>Marketo-Vertriebsmitarbeiter-ID</td>
+  <td>Marketo-Verkäufer-ID</td>
  </tr>
  <tr>
   <th rowspan="6">Zur Verkaufskampagne hinzufügen</th>
-  <td>Name der Verkaufskampagne</td>
+  <td>Verkaufskampagne Name</td>
  </tr>
  <tr>
-  <td>Status der Verkaufsaufrufe</td>
+  <td>Verkaufsanruf Status</td>
  </tr>
  <tr>
-  <td>Vertriebskampagnen-URL</td>
- </tr>
- <tr>
-  <td>Gesendet von</td>
- </tr>
- <tr>
-  <td>Quelle</td>
- </tr>
- <tr>
-  <td>Vertriebskampagnen-ID</td>
- </tr>
- <tr>
-  <th rowspan="6">Aus Vertriebskampagne entfernen</th>
-  <td>Name der Verkaufskampagne</td>
- </tr>
- <tr>
-  <td>Status der Verkaufsaufrufe</td>
- </tr>
- <tr>
-  <td>Vertriebskampagnen-URL</td>
+  <td>Verkaufskampagne URL</td>
  </tr>
  <tr>
   <td>Gesendet von</td>
@@ -197,7 +178,26 @@ Die folgenden Aktivitäten werden über Sales Insight-Aktionen bei Marketo proto
   <td>Vertriebskampagnen-ID</td>
  </tr>
  <tr>
-  <th rowspan="5">E-Mail-Bounce für Vertrieb</th>
+  <th rowspan="6">Aus Verkaufskampagne entfernen</th>
+  <td>Verkaufskampagne Name</td>
+ </tr>
+ <tr>
+  <td>Verkaufsanruf Status</td>
+ </tr>
+ <tr>
+  <td>Verkaufskampagne URL</td>
+ </tr>
+ <tr>
+  <td>Gesendet von</td>
+ </tr>
+ <tr>
+  <td>Quelle</td>
+ </tr>
+ <tr>
+  <td>Vertriebskampagnen-ID</td>
+ </tr>
+ <tr>
+  <th rowspan="5">E-Mail-Bounce Vertrieb</th>
   <td>Details</td>
  </tr>
  <tr>
@@ -207,7 +207,7 @@ Die folgenden Aktivitäten werden über Sales Insight-Aktionen bei Marketo proto
   <td>Gesendet von</td>
  </tr>
  <tr>
-  <td>Marketo-Vertriebsmitarbeiter-ID</td>
+  <td>Marketo-Verkäufer-ID</td>
  </tr>
  <tr>
   <td>Vorlagen-ID</td>
@@ -235,7 +235,7 @@ Die folgenden Aktivitäten werden über Sales Insight-Aktionen bei Marketo proto
    <td>URL, auf die geklickt wurde.</td> 
   </tr> 
   <tr> 
-   <td><strong>Marketo-Vertriebsmitarbeiter-ID</strong></td> 
+   <td><strong>Marketo-Verkäufer-ID</strong></td> 
    <td>Eindeutige ID für den Personendatensatz in Sales Insight-Aktionen.</td> 
   </tr> 
   <tr> 
@@ -251,7 +251,7 @@ Die folgenden Aktivitäten werden über Sales Insight-Aktionen bei Marketo proto
    <td>Länge des Aufrufs in Sekunden.</td> 
   </tr>
   <tr> 
-   <td><strong>Verkaufsaufruf von</strong></td> 
+   <td><strong>Verkaufsanruf getätigt von</strong></td> 
    <td>E-Mail-Adresse der Verkaufsperson, die den Anruf getätigt hat.</td> 
   </tr>
   <tr> 
@@ -259,11 +259,11 @@ Die folgenden Aktivitäten werden über Sales Insight-Aktionen bei Marketo proto
    <td>URL der Aufrufaufzeichnung.</td> 
   </tr>
   <tr> 
-   <td><strong>Status der Verkaufsaufrufe</strong></td> 
-   <td>Speichert den endgültigen Aufrufstatus des Aufrufs, der Folgendes enthält: abgeschlossen, keine Antwort, abgebrochen, fehlgeschlagen.</td> 
+   <td><strong>Verkaufsanruf Status</strong></td> 
+   <td>Speichert den letzten Aufrufstatus des Aufrufs, der Folgendes enthält: abgeschlossen, keine Antwort, abgebrochen, fehlgeschlagen.</td> 
   </tr>
   <tr> 
-   <td><strong>Verkaufsgespräch</strong></td> 
+   <td><strong>Verkaufsanruf Betreff</strong></td> 
    <td>Rufen Sie das Ergebnis auf, das von einem Vertriebsbenutzer im Dialer ausgewählt wird.</td> 
   </tr>
   <tr> 
@@ -271,19 +271,19 @@ Die folgenden Aktivitäten werden über Sales Insight-Aktionen bei Marketo proto
    <td>Eindeutige ID für Sales Campaign-Asset in Sales Insight-Aktionen.</td> 
   </tr>
   <tr> 
-   <td><strong>Name der Verkaufskampagne</strong></td> 
+   <td><strong>Verkaufskampagne Name</strong></td> 
    <td>Name der Verkaufskampagne.</td> 
   </tr>
   <tr> 
-   <td><strong>Vertriebskampagnen-URL</strong></td> 
-   <td>Sales Insight-Aktionen-URL für Vertriebskampagnen.</td> 
+   <td><strong>Verkaufskampagne URL</strong></td> 
+   <td>Sales Insight-Aktionen-URL für Sales Campaign.</td> 
   </tr>
   <tr> 
    <td><strong>Sales Email Subject</strong></td> 
-   <td>Betreffzeile der E-Mail, gefolgt von einer eindeutigen ID (z. B.: Mein Betreff (SIA-12345678)</td> 
+   <td>Betreffzeile der E-Mail, gefolgt von einer eindeutigen ID (z. B. My Subject Line (SIA-12345678))</td> 
   </tr>
   <tr> 
-   <td><strong>Telefonnummer des Verkäufers aufgerufen</strong></td> 
+   <td><strong>Angerufene Telefonnummer des Verkaufs</strong></td> 
    <td>Telefonnummer, die von Sales aufgerufen wird.</td> 
   </tr>
   <tr> 
@@ -291,7 +291,7 @@ Die folgenden Aktivitäten werden über Sales Insight-Aktionen bei Marketo proto
    <td>Name der E-Mail-Vorlage in Sales Insight-Aktionen.</td> 
   </tr>
   <tr> 
-   <td><strong>URL der Verkaufsvorlage</strong></td> 
+   <td><strong>Verkaufsvorlagen-URL</strong></td> 
    <td>Sales Insight-Aktionen-URL für E-Mail-Vorlage.</td> 
   </tr>
   <tr> 
@@ -300,7 +300,7 @@ Die folgenden Aktivitäten werden über Sales Insight-Aktionen bei Marketo proto
   </tr> 
   <tr> 
    <td><strong>Quelle</strong></td> 
-   <td>Quelle der Aktivität. Wird vor der Version vom 21. Oktober für Sales Insight-Aktionen-Aktivitäten als "Tout"festgelegt. wird nach der Version vom 21. Oktober die "Sales App"für Sales Insight-Aktionen sein.</td>
+   <td>Source der Aktivität. Wird vor der Version vom 21. Oktober für Sales Insight-Aktionen-Aktivitäten als "Tout"festgelegt. wird nach der Version vom 21. Oktober die "Sales App"für Sales Insight-Aktionen sein.</td>
   </tr> 
   <tr> 
    <td><strong>Vorlagen-ID</strong></td> 

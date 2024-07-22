@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Anfügen eines Inhaltselements {#attaching-a-piece-of-content}
 
-Fügen Sie trackbaren Inhalt hinzu, indem Sie auf die **Inhalt** und laden Sie eine Datei hoch. Alle zuvor verfolgten Inhalte werden im Popup-Fenster angezeigt, ohne dass Sie sie erneut hochladen müssen.
+Fügen Sie trackbare Inhalte hinzu, indem Sie auf die Schaltfläche **Inhalt** klicken und eine Datei hochladen. Alle zuvor verfolgten Inhalte werden im Popup-Fenster angezeigt, ohne dass Sie sie erneut hochladen müssen.
 
 >[!NOTE]
 >

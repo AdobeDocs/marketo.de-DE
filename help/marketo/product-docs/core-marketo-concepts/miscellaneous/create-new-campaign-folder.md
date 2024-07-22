@@ -14,23 +14,23 @@ ht-degree: 0%
 
 Kampagnenordner helfen Ihnen, einen sauberen Arbeitsbereich aufzubewahren. Folgen Sie diesen einfachen Schritten und Sie sind auf dem Weg zur Automatisierungsmagie.
 
-1. Navigieren Sie zu **[!UICONTROL Marketingaktivitäten]**.
+1. Wechseln Sie zu **[!UICONTROL Marketingaktivitäten]**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Auswählen **[!UICONTROL Neu]**.
+1. Wählen Sie **[!UICONTROL Neu]** aus.
 
    ![](assets/image2015-2-25-7-3a57-3a18.png)
 
-1. Auswählen **[!UICONTROL Neuer Kampagnenordner]**.
+1. Wählen Sie **[!UICONTROL Neuer Kampagnenordner]** aus.
 
    ![](assets/image2015-2-25-7-3a58-3a15.png)
 
-1. Geben Sie einen **[!UICONTROL Name]** für den Kampagnenordner.
+1. Geben Sie einen **[!UICONTROL Namen]** für den Kampagnenordner ein.
 
    ![](assets/image2015-2-25-8-3a0-3a20.png)
 
-1. Optional: Geben Sie einen **[!UICONTROL Beschreibung]** und klicken **[!UICONTROL Erstellen]**.
+1. Optional: Geben Sie eine **[!UICONTROL Beschreibung]** ein und klicken Sie auf **[!UICONTROL Erstellen]**.
 
    >[!TIP]
    >
@@ -42,7 +42,7 @@ Kampagnenordner helfen Ihnen, einen sauberen Arbeitsbereich aufzubewahren. Folge
 
    ![](assets/image2015-2-25-8-3a10-3a29.png)
 
-   Jetzt [Erstellen eines neuen Programms](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)angezeigt, wird dieser Kampagnenordner als Option angezeigt.
+   Wenn Sie jetzt [ ein neues Programm erstellen](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md), sehen Sie diesen Kampagnenordner als Option.
 
 >[!MORELIKETHIS]
 >

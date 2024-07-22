@@ -7,7 +7,7 @@ feature: Custom Activities
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '104'
-ht-degree: 4%
+ht-degree: 0%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 4%
 
 Müssen Sie Änderungen an einer bereits erstellten benutzerdefinierten Aktivität vornehmen? So geht es.
 
-1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
+1. Wechseln Sie zum Bereich **[!UICONTROL Admin]** .
 
    ![](assets/edit-a-custom-activity-1.png)
 
-1. Klicks **[!UICONTROL Benutzerdefinierte Marketo-Aktivitäten]**.
+1. Klicken Sie auf **[!UICONTROL Benutzerdefinierte Marketo-Aktivitäten]**.
 
    ![](assets/edit-a-custom-activity-2.png)
 
@@ -27,7 +27,7 @@ Müssen Sie Änderungen an einer bereits erstellten benutzerdefinierten Aktivit�
 
    ![](assets/edit-a-custom-activity-3.png)
 
-1. Klicks **[!UICONTROL Benutzerdefinierte Aktivitätsaktionen]** und wählen **[!UICONTROL Aktivität bearbeiten]**.
+1. Klicken Sie auf **[!UICONTROL Benutzerdefinierte Aktivitätsaktionen]** und wählen Sie **[!UICONTROL Aktivität bearbeiten]** aus.
 
    ![](assets/edit-a-custom-activity-4.png)
 
@@ -35,7 +35,7 @@ Müssen Sie Änderungen an einer bereits erstellten benutzerdefinierten Aktivit�
 
    ![](assets/edit-a-custom-activity-5.png)
 
-1. Geben Sie Ihre neuen Informationen ein und klicken Sie auf **[!UICONTROL Einsenden]**.
+1. Geben Sie Ihre neuen Informationen ein und klicken Sie auf **[!UICONTROL Senden]**.
 
    ![](assets/edit-a-custom-activity-6.png)
 

@@ -734,7 +734,7 @@ ht-degree: 3%
       + Facebook {#facebook}
          + [Hinzufügen von Leads zu einer benutzerdefinierten Zielgruppe in Facebook](product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
          + [Erstellen einer benutzerdefinierten Zielgruppe in Facebook](product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
-         + [Facebook Rich Post-Einstellungen bearbeiten](product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md)
+         + [Bearbeiten von Facebook Rich-Post-Einstellungen](product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md)
          + [Publish-Einstiegsseiten in Facebook](product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
          + [Einrichten von Facebook-Lead-Anzeigen](product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
          + [Benutzerdefinierte Felder Marketo zuordnen](product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)

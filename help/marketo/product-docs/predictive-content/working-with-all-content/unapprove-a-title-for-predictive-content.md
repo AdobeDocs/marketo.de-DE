@@ -21,7 +21,7 @@ Sie können die Genehmigung eines Titels für prädiktiven Inhalt auf der Seite 
 
    ![](assets/image2017-10-3-9-3a18-3a38.png)
 
-1. Klicken Sie auf **Inhaltsaktionen** und wählen Sie **Nicht genehmigen für prädiktiven Inhalt**.
+1. Klicken Sie auf die Dropdownliste **Inhaltsaktionen** und wählen Sie **Nicht genehmigen für prädiktiven Inhalt** aus.
 
    ![](assets/image2017-10-3-9-3a19-3a20.png)
 
@@ -33,7 +33,7 @@ Sie können die Genehmigung eines Titels aufheben, während Sie ihn bearbeiten.
 
    ![](assets/click-icon-hand.png)
 
-1. Deaktivieren Sie die **Für prädiktiven Inhalt genehmigen** und klicken Sie auf **Speichern**.
+1. Deaktivieren Sie das Kontrollkästchen **Für prädiktiven Inhalt genehmigen** und klicken Sie auf **Speichern**.
 
    ![](assets/image2017-10-3-9-3a20-3a17.png)
 

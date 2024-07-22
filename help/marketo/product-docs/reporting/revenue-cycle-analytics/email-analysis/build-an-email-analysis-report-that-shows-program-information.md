@@ -19,19 +19,19 @@ Führen Sie diese Schritte aus, um einen E-Mail-Analysebericht zu erstellen, in 
 >
 >Nicht jeder hat diese Funktion erworben. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).
 
-1. Launch **Umsatz-Explorer**.
+1. Starten Sie den **Umsatz-Explorer**.
 
    ![](assets/report-that-shows-program-information-1.png)
 
-1. Klicks **Neu erstellen** und wählen **Bericht**.
+1. Klicken Sie auf **Neu erstellen** und wählen Sie **Bericht** aus.
 
    ![](assets/report-that-shows-program-information-2.png)
 
-1. Auswählen **E-Mail-Analyse** Bereich und Klicken **OK**.
+1. Wählen Sie den Bereich **E-Mail-Analyse** aus und klicken Sie auf **OK**.
 
    ![](assets/image2014-9-17-19-3a43-3a20.png)
 
-1. Suchen Sie die **Gesendet (Woche)** gelber Punkt und Rechtsklick. Klicks **Filter**.
+1. Suchen Sie den gelben Punkt **Gesendet (Woche)** und klicken Sie mit der rechten Maustaste darauf. Klicken Sie auf **Filter**.
 
    >[!NOTE]
    >
@@ -39,22 +39,22 @@ Führen Sie diese Schritte aus, um einen E-Mail-Analysebericht zu erstellen, in 
 
    ![](assets/image2014-9-17-19-3a43-3a49.png)
 
-1. Überprüfen **Aktuelle gesendete Woche** und klicken **OK**.
+1. Aktivieren Sie die Option **Aktuelle gesendete Woche** und klicken Sie auf **OK**.
 
    ![](assets/image2014-9-17-19-3a43-3a59.png)
 
-1. Doppelklicken Sie auf Suchen und **Programmkanal** gelber Punkt.
+1. Doppelklicken Sie auf den gelben Punkt **Programmkanal**.
 
    ![](assets/image2014-9-17-19-3a44-3a14.png)
 
-1. Doppelklicken Sie auf Suchen und **Email Name** gelber Punkt.
+1. Doppelklicken Sie auf den gelben Punkt **E-Mail-Name**.
 
    ![](assets/image2014-9-17-19-3a44-3a34.png)
 
-1. Doppelklicken Sie auf Suchen und **Gesendet**, **Geöffnet** und **Angeklickt** blaue Punkte.
+1. Doppelklicken Sie auf die blauen Punkte **Gesendet**, **Geöffnet** und **Angeklickt**.
 
    ![](assets/image2014-9-17-19-3a44-3a41.png)
 
-   Großartig gemacht! Sie sollten einen Bericht haben, der in etwa so aussieht:
+   Gut gemacht! Sie sollten einen Bericht haben, der in etwa so aussieht:
 
    ![](assets/image2014-9-17-19-3a45-3a1.png)

@@ -19,11 +19,11 @@ Social-Apps in Marketo verfügen über eigene spezielle Trigger und Filter.
 >
 >Nicht alle Marketo Engage-Benutzer haben diese Funktion erworben. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).
 
-1. Verwendung von Social _Trigger_, wählen Sie Ihre Smart-Kampagne aus und klicken Sie auf **Smart List** Registerkarte. Klicken Sie auf der rechten Seite auf das Pluszeichen (+), um die **Trigger**, dann **Social**.
+1. Um die Social-Media-_Trigger_ zu verwenden, wählen Sie Ihre Smart-Kampagne aus und klicken Sie auf die Registerkarte **Smart-Liste** . Klicken Sie auf der rechten Seite auf + , um **Trigger** und dann **Social** zu erweitern.
 
    ![](assets/image2015-4-23-11-22-39.png)
 
-1. Verwendung von Social _Filter_, klicken Sie auf die **+** , um die **Filter**.
+1. Um soziale _Filter_ zu verwenden, klicken Sie auf die Schaltfläche **+** , um die **Filter** zu erweitern.
 
    ![](assets/two-282-29.png)
 
@@ -31,16 +31,16 @@ Social-Apps in Marketo verfügen über eigene spezielle Trigger und Filter.
 
    | Trigger/Filter | Social-Buttons | Umfragen | Videos | Empfehlungsangebote | Gewinnspiele |
    |---|---|---|---|---|---|
-   | Ziel in Empfehlung erreicht |  |  |  | ![(Häkchen)](assets/check.png) | |
-   | Gibt Inhalt frei | ![(Häkchen)](assets/check.png) | ![(Häkchen)](assets/check.png) | ![(Häkchen)](assets/check.png) | ![(Häkchen)](assets/check.png) | ![(Häkchen)](assets/check.png) |
-   | Freigegebener Link angeklickt | ![(Häkchen)](assets/check.png) | ![(Häkchen)](assets/check.png) | ![(Häkchen)](assets/check.png) | ![(Häkchen)](assets/check.png) | ![(Häkchen)](assets/check.png) |
-   | von Gewinnspielen disqualifiziert |  |  |  |  | ![(Häkchen)](assets/check.png) |
-   | Erhält Einträge in Social App |  |  |  |  | ![(Häkchen)](assets/check.png) |
-   | Gibt Gewinnspiele ein |  |  |  |  | ![(Häkchen)](assets/check.png) |
-   | Verweist auf Social App |  |  |  | ![(Häkchen)](assets/check.png) | ![(Häkchen)](assets/check.png) |
-   | Registriert sich für Empfehlungsangebot |  |  |  | ![(Häkchen)](assets/check.png) |  |
-   | Nimmt an Umfrage teil |  | ![(Häkchen)](assets/check.png) |  |  |  |
-   | Gewinnt Gewinnspiele |  |  |  |  | ![(Häkchen)](assets/check.png) |
+   | Ziel in Empfehlung erreicht |  |  |  | ![(tick)](assets/check.png) | |
+   | Gibt Inhalt frei | ![(tick)](assets/check.png) | ![(tick)](assets/check.png) | ![(tick)](assets/check.png) | ![(tick)](assets/check.png) | ![(tick)](assets/check.png) |
+   | Klickt auf freigegebenen Link | ![(tick)](assets/check.png) | ![(tick)](assets/check.png) | ![(tick)](assets/check.png) | ![(tick)](assets/check.png) | ![(tick)](assets/check.png) |
+   | Disqualifiziert Gewinnspiele |  |  |  |  | ![(tick)](assets/check.png) |
+   | Erhält Einträge in Social App |  |  |  |  | ![(tick)](assets/check.png) |
+   | Gibt Gewinnspiele ein |  |  |  |  | ![(tick)](assets/check.png) |
+   | Verweist auf Social App |  |  |  | ![(tick)](assets/check.png) | ![(tick)](assets/check.png) |
+   | Registriert sich für Empfehlungsangebot |  |  |  | ![(tick)](assets/check.png) |  |
+   | Nimmt an Umfrage teil |  | ![(tick)](assets/check.png) |  |  |  |
+   | Gewinnt Gewinnspiele |  |  |  |  | ![(tick)](assets/check.png) |
 
    >[!MORELIKETHIS]
    >

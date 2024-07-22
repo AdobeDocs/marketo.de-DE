@@ -6,7 +6,7 @@ exl-id: 646a3650-538d-4ea5-b29f-44ad6588e247
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '389'
+source-wordcount: '391'
 ht-degree: 0%
 
 ---
@@ -31,18 +31,18 @@ Personen, die mit einer blauen Zeile markiert sind, repräsentieren die Interakt
 >
 >Insgesamt bestimmen wir Standorte so genau, wie wir auf der IP-Verfolgung basieren können. Leider ist es keine exakte Wissenschaft. Wenn der Standort für einen Ihrer Empfänger falsch ist, gibt es hier einige Möglichkeiten, was möglicherweise passiert ist:
 >
->* Wenn Ihr Empfänger bei einem Unternehmen mit IT-Hauptsitz in einem anderen Stadt- oder Land im Wireless-Netzwerk angemeldet war, protokollieren wir diesen Standort anstelle des aktuellen Gebietsschemas des Empfängers.
+>* Wenn Ihr Empfänger bei einem Unternehmen mit IT-Hauptsitz in einem anderen Ort oder Land im Wireless-Netzwerk angemeldet war, protokollieren wir diesen Standort anstelle des aktuellen Gebietsschemas des Empfängers.
 >* Wenn Ihre E-Mail von einer Person im CC/BCC-Feld weitergeleitet oder geöffnet wurde, versuchen wir, den Standort dieser Personen genau anzuzeigen.
 
 ## Registerkarte &quot;Aufgaben&quot; {#tasks-tab}
 
 ![](assets/task.jpg)
 
-Überprüfen Sie Ihre Aufgabenliste schnell direkt im Live Feed.
+Überprüfen Sie Ihre Aufgabenliste schnell direkt über den Live-Feed.
 
-Erstellen Sie neue oder verwalten Sie offene Aufgaben.
+Erstellen Sie neue Aufgaben oder verwalten Sie offene Aufgaben.
 
-Nach heute, morgen, heute *und* morgen oder in den nächsten sieben Tagen.
+Filtern Sie nach heute, morgen, heute *und* morgen oder den nächsten sieben Tagen.
 
 >[!NOTE]
 >
@@ -54,9 +54,9 @@ Verwenden Sie Schnellaktionsschaltflächen, um schnell einen Aufruf vorzunehmen,
 
 ![](assets/target.jpg)
 
-Sehen Sie sich Ihre Top-Personen (geordnet von der höchsten zur niedrigsten) nach der Lead-Punktzahl an. Die Lead-Punktzahl wird aus Ihrer Marketo-Instanz übernommen.
+Sehen Sie sich Ihre Top-Personen (geordnet von der höchsten zur niedrigsten) nach Lead-Punktzahl an. Die Lead-Punktzahl wird aus Ihrer Marketo-Instanz übernommen.
 
-* Leads werden generiert, wenn der Personenwert in Marketo zunimmt.
+* Leads werden generiert, wenn der Personenwert in Marketo steigt.
 * Wir zeigen die 50 wichtigsten Leads.
 * Sie sehen nur die Personen, die Ihnen in Salesforce zugewiesen wurden.
 
@@ -87,7 +87,7 @@ Sehen Sie sich Ihre Top-Personen (geordnet von der höchsten zur niedrigsten) na
     <div> 
      <p><img alt="--" width="23" src="assets/replied-icon.png" data-linked-resource-id="45417226" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
     </div></td> 
-   <td><p>Jemand hat auf Ihre E-Mail geantwortet</p></td> 
+   <td><p>Jemand hat Ihre E-Mail beantwortet</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"> 

@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Definieren von Werten in einem Optionsfeld oder in einem ausgewählten Feld in einem Formular {#define-values-in-a-radio-or-selected-field-in-a-form}
 
-Sobald du [Feldtyp festlegen](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) um ein Optionsfeld oder einen Auswahltyp zu sein, sollten Sie die Werte definieren, aus denen der Benutzer wählen kann. So geht es.
+Nachdem Sie [ als Feldtyp ](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) ein Optionsfeld oder einen Auswahltyp festgelegt haben, sollten Sie die Werte definieren, aus denen der Benutzer wählen kann. So geht es.
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Wechseln Sie zu **Marketingaktivitäten**.
 
    ![](assets/ma.png)
 
@@ -29,7 +29,7 @@ Sobald du [Feldtyp festlegen](/help/marketo/product-docs/administration/field-ma
 
    >[!NOTE]
    >
-   >Der erste und der Standardwert ist immer &quot;Select..&quot;. Sie können das gerne bearbeiten. Wenn Sie die standardmäßige Optionsschaltfläche in eine andere Zeile ändern, &quot;Auswählen..&quot; wird im Formular nicht als Auswahl angezeigt.
+   >Der erste und der Standardwert ist immer &quot;Select..&quot;. Sie können das gerne bearbeiten. Wenn Sie das Standard-Optionsfeld in eine andere Zeile ändern, wird &quot;Auswählen..&quot;nicht als eine Auswahl im Formular angezeigt.
 
 1. Klicken Sie auf , um Ihren Wert hinzuzufügen.
 
@@ -41,9 +41,9 @@ Sobald du [Feldtyp festlegen](/help/marketo/product-docs/administration/field-ma
    >
    >**Anzeigewert:** Was dem Besucher angezeigt wird.
    >
-   >**Gespeicherter Wert:** Was wird in Marketo aufgezeichnet.
+   >**Gespeicherter Wert:** Was in Marketo aufgezeichnet wird.
 
-1. Fügen Sie beliebig viele Werte hinzu und klicken Sie auf **Speichern**.
+1. Fügen Sie so viele Werte hinzu, wie Sie benötigen, und klicken Sie dann auf **Speichern**.
 
    >[!NOTE]
    >
@@ -53,13 +53,13 @@ Sobald du [Feldtyp festlegen](/help/marketo/product-docs/administration/field-ma
 
    >[!TIP]
    >
-   >Klicken **Erweiterter Editor** , um bei Bedarf eine Werteliste zu kopieren/einzufügen. Das kann in Echtzeit gerettet werden.
+   >Klicken Sie auf **Erweiterter Editor** , um eine Werteliste zu kopieren/einzufügen. Das kann in Echtzeit gerettet werden.
 
-1. Klicken **Beenden**.
+1. Klicken Sie auf **Beenden**.
 
    ![](assets/image2014-9-15-16-3a29-3a43.png)
 
-1. Klicken **Genehmigen und schließen**.
+1. Klicken Sie auf **Genehmigen und schließen**.
 
    ![](assets/image2014-9-15-16-3a29-3a57.png)
 

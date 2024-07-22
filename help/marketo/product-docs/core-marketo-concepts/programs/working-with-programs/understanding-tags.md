@@ -23,7 +23,7 @@ Tag-Typen identifizieren die Art von Informationen, nach denen Sie sortieren mö
 
 >[!TIP]
 >
->Wenden Sie sich an Ihren Marketo-Administrator, wenn Sie [benutzerdefinierte Tags](/help/marketo/product-docs/administration/tags/create-custom-tags.md){target="_blank"}.
+>Wenden Sie sich an Ihren Marketo-Administrator, wenn Sie [benutzerdefinierte Tags](/help/marketo/product-docs/administration/tags/create-custom-tags.md){target="_blank"} erstellen möchten.
 
 >[!NOTE]
 >
@@ -47,7 +47,7 @@ Jeder Tag-Typ verfügt über Werte, aus denen Sie auswählen können.
 
 ## Kanal {#channel}
 
-Kanäle werden verwendet, um Berichte zur [members](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"} durch Ihr Programm verschoben. Jeder Kanal verfügt über eine Reihe von Fortschrittsstatus und einen Status, der auf &quot;gleicher Erfolg&quot;festgelegt ist.
+Kanäle werden verwendet, um Berichte darüber zu erstellen, wie sich Ihre [Mitglieder](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"} durch Ihr Programm bewegt haben. Jeder Kanal verfügt über eine Reihe von Fortschrittsstatus und einen Status, der auf &quot;gleicher Erfolg&quot;festgelegt ist.
 
 >[!NOTE]
 >

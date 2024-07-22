@@ -19,11 +19,11 @@ Durch Verschieben von Einträgen in die Zeitplanansicht werden sie automatisch n
 >
 >Ein bereits ausgeführtes Smart-Kampagne-, Interaktions- oder E-Mail-Hochladeprogramm kann nicht verschoben werden.
 
-1. Wählen Sie Ihren Eintrag aus. Ziehen Sie es an ein anderes Datum.
+1. Wählen Sie Ihren Eintrag aus. Ziehen Sie es per Drag-and-Drop an ein anderes Datum.
 
    ![](assets/image2014-9-18-17-3a47-3a23.png)
 
-1. Unser Datenabruf deaktiviert dann die Genehmigung, ändert das Datum und genehmigt das Asset erneut. Er ist so cool.
+1. Unser Datenabruf verweigert dann die Genehmigung, ändert das Datum und genehmigt das Asset erneut. Er ist so cool.
 
    ![](assets/image2014-9-18-17-3a47-3a35.png)
 

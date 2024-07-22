@@ -7,7 +7,7 @@ feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '85'
-ht-degree: 3%
+ht-degree: 2%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 3%
 
 Sie können jeden Umsatz-Explorer-Bericht exportieren und für andere freigeben.
 
-1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Export** und wählen Sie ein Dateiformat aus.
+1. Klicken Sie auf das Zahnradsymbol, wählen Sie **Export** und wählen Sie ein Dateiformat aus.
 
    ![](assets/image2015-3-26-14-3a2-3a19.png)
 
@@ -27,7 +27,7 @@ Sie können jeden Umsatz-Explorer-Bericht exportieren und für andere freigeben.
    >* Excel
    >* CSV
 
-1. Wählen Sie die gewünschte **Seitenformat** und **Ausrichtung** und klicken Sie auf **Export**.
+1. Wählen Sie das gewünschte **Seitenformat** und **Ausrichtung** aus und klicken Sie auf **Exportieren**.
 
    ![](assets/image2015-3-27-16-3a18-3a34.png)
 
@@ -35,4 +35,4 @@ Sie können jeden Umsatz-Explorer-Bericht exportieren und für andere freigeben.
 
 >[!MORELIKETHIS]
 >
->[Abonnieren eines Umsatz-Explorer-Berichts](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
+>[Abonnieren eines Berichts über den Umsatz-Explorer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)

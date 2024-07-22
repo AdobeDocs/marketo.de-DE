@@ -4,7 +4,8 @@ title: Benachrichtigungen
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 56070990d8bcea61fbbf3b382e5abae786b2488e
+exl-id: b06da576-39a4-41db-8e29-302083baca36
+source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 1%
@@ -15,11 +16,11 @@ ht-degree: 1%
 
 Um Browser-Benachrichtigungen für Live-Chat zu erhalten, müssen alle Live-Chat-Agenten Browserbenachrichtigungen für Dynamic Chat aktivieren, wenn sie dazu aufgefordert werden.
 
-Live-Chat-Agenten sehen oben auf dem Bildschirm ein Banner, in dem sie sich anmelden: &quot;Bitte aktivieren Sie Browser-Benachrichtigungen, um Live-Chat-Benachrichtigungen zu erhalten&quot;. Klicks **Aktivieren**.
+Live-Chat-Agenten sehen oben auf dem Bildschirm ein Banner, in dem sie sich anmelden: &quot;Bitte aktivieren Sie Browser-Benachrichtigungen, um Live-Chat-Benachrichtigungen zu erhalten&quot;. Klicken Sie auf **Aktivieren**.
 
 ![](assets/live-chat-overview-4.png)
 
-Die Live-Chat-Agenten werden dann vom Browser aufgefordert, Benachrichtigungen anzuzeigen. Klicks **Zulassen**.
+Die Live-Chat-Agenten werden dann vom Browser aufgefordert, Benachrichtigungen anzuzeigen. Klicken Sie auf **Allow**.
 
 ![](assets/live-chat-overview-5.png)
 

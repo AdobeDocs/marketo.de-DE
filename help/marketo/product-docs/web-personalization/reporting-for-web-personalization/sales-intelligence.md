@@ -7,7 +7,7 @@ feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '197'
-ht-degree: 3%
+ht-degree: 2%
 
 ---
 
@@ -19,15 +19,15 @@ Greifen Sie darauf zu, indem Sie sich bei der Marketo Web Personalization-Plattf
 
 ## Region des Benutzers definieren {#define-the-users-region}
 
-Um die Organisations- und Besucherdaten zu definieren, die in der Marketo Web-Personalisierung angezeigt werden, gehen Sie zu [Benutzereinstellungen](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md) und wählen Sie die Länder oder Staaten aus.
+Um die in Marketo Web Personalization angezeigten Organisations- und Besucherdaten für Ihre Region, Ihr Land oder Ihren Bundesstaat zu definieren, gehen Sie zu [Benutzereinstellungen](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md) und wählen Sie die Länder oder Bundesländer aus.
 
 ## Tägliche oder wöchentliche E-Mail-Berichte einrichten {#set-up-daily-or-weekly-email-reports}
 
-In [Benutzereinstellungen](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md)können Sie täglich oder wöchentlich Berichte per E-Mail versenden, die am frühen Morgen gesendet werden. Die Hauptberichte, die für einen Vertriebsmitarbeiter von Interesse sind, enthalten die Berichte Organisationen und Interessenten, in denen die am häufigsten besuchten Organisationen sowie die von ihm aus der jeweiligen Region des Benutzers gesendeten Leads einschließlich des Verhaltens aufgeführt werden.
+In den [Benutzereinstellungen](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md) können Sie tägliche oder wöchentliche E-Mail-Berichte einrichten, die am frühen Morgen gesendet werden. Die Hauptberichte, die für einen Vertriebsmitarbeiter von Interesse sind, enthalten die Berichte Organisationen und Interessenten, in denen die am häufigsten besuchten Organisationen sowie die von ihm aus der jeweiligen Region des Benutzers gesendeten Leads einschließlich des Verhaltens aufgeführt werden.
 
 >[!NOTE]
 >
->Wir empfehlen, dass Sie Vertriebsmitarbeiter mit schreibgeschützter Berechtigung in Marketo Web Personalization einrichten. Dies bedeutet, dass sie alle Seiten anzeigen, jedoch keine Funktionen erstellen, bearbeiten oder löschen können.
+>Wir empfehlen Ihnen, Vertriebsmitarbeiter mit schreibgeschützter Berechtigung in Marketo Web Personalization einzurichten. Dies bedeutet, dass sie alle Seiten anzeigen, jedoch keine Funktionen erstellen, bearbeiten oder löschen können.
 
 >[!MORELIKETHIS]
 >

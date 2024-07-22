@@ -18,7 +18,7 @@ Marketo Engage bietet spezifische Kontrolle über die benutzerdefinierte Objekts
 >
 >**Erforderliche Administratorberechtigungen**
 
-1. Klicks **[!UICONTROL Admin]**, dann **[!UICONTROL VEC-Objektsynchronisierung]**.
+1. Klicken Sie auf **[!UICONTROL Admin]** und dann auf **[!UICONTROL Veeva Objects Sync]**.
 
    ![](assets/add-remove-custom-object-field-as-smart-list-trigger-constraints-1.png)
 
@@ -26,7 +26,7 @@ Marketo Engage bietet spezifische Kontrolle über die benutzerdefinierte Objekts
 
    ![](assets/add-remove-custom-object-field-as-smart-list-trigger-constraints-2.png)
 
-1. Klicks **[!UICONTROL Sichtbare Felder bearbeiten]**.
+1. Klicken Sie auf **[!UICONTROL Sichtbare Felder bearbeiten]**.
 
    ![](assets/add-remove-custom-object-field-as-smart-list-trigger-constraints-3.png)
 
@@ -38,7 +38,7 @@ Marketo Engage bietet spezifische Kontrolle über die benutzerdefinierte Objekts
 
    ![](assets/add-remove-custom-object-field-as-smart-list-trigger-constraints-4.png)
 
-1. Aktivieren Sie die Kontrollkästchen neben den gewünschten Filter-/Trigger-Begrenzungen und klicken Sie auf **[!UICONTROL Speichern]**.
+1. Aktivieren Sie die Kontrollkästchen neben den gewünschten Trigger-/Filterbegrenzungen und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/add-remove-custom-object-field-as-smart-list-trigger-constraints-5.png)
 
@@ -46,7 +46,7 @@ Marketo Engage bietet spezifische Kontrolle über die benutzerdefinierte Objekts
    >
    >Alle Felder sind standardmäßig als Filterbegrenzungen ausgewählt.
 
-1. Klicken Sie auf **[!UICONTROL Felder]** um Ihre Änderungen zu bestätigen.
+1. Klicken Sie auf die Registerkarte **[!UICONTROL Felder]** , um Ihre Änderungen zu bestätigen.
 
    ![](assets/add-remove-custom-object-field-as-smart-list-trigger-constraints-6.png)
 

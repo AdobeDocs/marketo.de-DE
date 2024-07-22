@@ -2,11 +2,11 @@
 description: NL-YYYY-MM-Newsletter - Marketo Docs - Produktdokumentation
 title: NL-YYY-MM-Newsletter
 feature: Programs
-exl-id: 97078562-6c1f-4f76-a456-9bff8ed6cd21
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: bce05e0f-e288-4614-9d05-c14844615454
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '275'
-ht-degree: 25%
+source-wordcount: '273'
+ht-degree: 16%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 25%
 
 In diesem Beispiel wird eine Newsletter-E-Mail mit einem Marketo Engage-E-Mail-Programm gesendet. Die E-Mail kann einen A/B-Test enthalten oder nicht.
 
-Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalten Sie vom Adobe-Account-Team oder unter [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} Seite.
+Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Programms an das Adobe-Account-Team oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} .
 
 ## Kanal-Zusammenfassung {#channel-summary}
 
@@ -23,20 +23,20 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
   <tr> 
    <th>Kanal</th> 
    <th>Status der Mitgliedschaft</th>
-   <th>Analyseverhalten</th>
+   <th>Analytics Behavior</th>
    <th>Programmtyp</th>
   </tr> 
   <tr> 
    <td>Newsletter</td> 
    <td>01-Mitglied 
 <br/>02-Engaged-Success</td>
-   <td>Inklusiv</td>
+   <td>Einschließlich</td>
    <td>E-Mail</td>
   </tr>
  </tbody> 
 </table>
 
-## Das Programm enthält die folgenden Assets {#program-contains-the-following-assets}
+## Das Programm enthält die folgende Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -87,7 +87,7 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
 
 ![](assets/nl-yyyy-mm-newsletter-1.png)
 
-## Meine Token Enthalten {#my-tokens-included}
+## My Tokens Include {#my-tokens-included}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -120,13 +120,13 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
    * Erstellen von Tags in diesem Abonnement - _Empfohlen_
    * Ignorieren
 
-* **Landingpage-Vorlage mit demselben Namen**
+* **Vorlage für Einstiegsseiten mit demselben Namen**
    * Originalvorlage kopieren
-   * Zielvorlage verwenden - _Empfohlen_
+   * Verwenden Sie die Zielvorlage - _Empfohlen_
 
 * **Bilder mit demselben Namen**
    * Beide Dateien beibehalten
-   * Element in diesem Abonnement ersetzen - _Empfohlen_
+   * Ersetzen des Elements in diesem Abonnement - _Empfohlen_
 
 * **E-Mail-Vorlagen mit demselben Namen**
    * Beide Vorlagen beibehalten
@@ -144,4 +144,4 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
 
 >[!TIP]
 >
->Vergessen Sie nicht, die Kampagne &quot;01-Engaged&quot; zu aktivieren, um den Erfolg zu verfolgen! Verwenden Sie dies _before_ Ihr Formular ist live und E-Mails werden gesendet.
+>Vergessen Sie nicht, die Kampagne &quot;01-Engaged&quot; zu aktivieren, um den Erfolg zu verfolgen! Führen Sie diesen Schritt _vor_ aus, wenn Ihr Formular live ist und E-Mails gesendet werden.

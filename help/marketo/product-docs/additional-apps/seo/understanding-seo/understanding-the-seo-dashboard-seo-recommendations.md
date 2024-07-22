@@ -15,17 +15,17 @@ ht-degree: 0%
 
 Verwenden Sie das Dashboard, um einen allgemeinen Überblick darüber zu erhalten, wie die Suchbegriffränge Trends darstellen und wie gut Ihre Site für SEO optimiert ist.
 
-Sie können auch herausfinden, wie Sie mithilfe der [!UICONTROL Recommendations] Abschnitt. Tauchen wir ein!
+Sie können auch herausfinden, wie Sie mit dem Abschnitt [!UICONTROL Recommendations] verbessern können. Tauchen wir ein!
 
 ![](assets/image2014-9-17-21-3a39-3a57.png)
 
-## [!UICONTROL Probleme mit der Optimierung der obersten Seite] {#top-page-optimization-issues}
+## [!UICONTROL Optimierungsprobleme der obersten Seite] {#top-page-optimization-issues}
 
-Dies zeigt Ihnen fünf wirkungsvolle Möglichkeiten, sofort mit der Optimierung Ihrer Website zu beginnen! Klicken Sie einfach auf einen der Links, um die vollständige [Drilldown für Seitendetails](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md){target="_blank"}.
+Dies zeigt Ihnen fünf wirkungsvolle Möglichkeiten, sofort mit der Optimierung Ihrer Website zu beginnen! Klicken Sie einfach auf einen der Links, um den vollständigen [Seitendruck](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md){target="_blank"} anzuzeigen.
 
 >[!TIP]
 >
->Sie können auf [!UICONTROL Probleme mit der Optimierung der obersten Seite] um eine vollständige Liste anzuzeigen.
+>Sie können auf [!UICONTROL Top Page Optimization Issues] klicken, um eine vollständige Liste anzuzeigen.
 
 ![](assets/image2014-9-17-21-3a40-3a52.png)
 
@@ -35,7 +35,7 @@ Die Verknüpfung von seriösen Sites mit Ihrem Inhalt kann das Ranking Ihrer Sei
 
 >[!TIP]
 >
->Sie können auf [!UICONTROL Optimierung von Top-Links] um eine vollständige Liste anzuzeigen.
+>Sie können auf [!UICONTROL Optimierung des Top-Links] klicken, um eine vollständige Liste anzuzeigen.
 
 ![](assets/image2014-9-17-21-3a41-3a17.png)
 

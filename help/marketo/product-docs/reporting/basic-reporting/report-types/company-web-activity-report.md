@@ -15,17 +15,17 @@ ht-degree: 6%
 
 Ermitteln Sie, welche Unternehmen Ihre Website besuchen. Sie können bekannte oder anonyme Besucher anzeigen lassen, jedoch nicht beide im selben Bericht.
 
-Erstellen Sie eine [Webseitenaktivitätsbericht](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) um die einzelnen Personen zu sehen, die Ihre Site besuchen.
+Erstellen Sie den Bericht [Web-Seitenaktivität](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) , um die einzelnen Personen anzuzeigen, die Ihre Site besuchen.
 
 >[!PREREQUISITES]
 >
->Um Aktivitäten von Ihrer Website in Marketo aus zu erfassen, müssen Sie zunächst [Munchkin auf Ihrer Site einrichten](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
+>Um Aktivitäten von Ihrer Website in Marketo zu erfassen, müssen Sie zunächst [Munchkin auf Ihrer Site einrichten](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 
-1. [Bericht erstellen](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) und wählen Sie den Web-Aktivitätsbericht der Firma aus. [Berichtstyp](report-type-overview.md).
+1. [Erstellen Sie einen Bericht](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) und wählen Sie den Berichtstyp &quot;Firma Web Activity Report&quot;[ aus.](report-type-overview.md)
 
-1. Wählen Sie [bekannte oder anonyme Personen anzeigen](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md) in den Bericht ein.
+1. Wählen Sie aus, dass [bekannte oder anonyme Personen](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md) im Bericht angezeigt werden.
 
-1. [Den Zeitrahmen Ihres Berichts festlegen](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) und klicken Sie auf **Bericht** Registerkarte.
+1. [Legen Sie den Zeitrahmen für Ihren Bericht fest](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) und klicken Sie auf die Registerkarte **Bericht** .
 
 1. Das ist es! Überprüfen Sie Ihren Bericht, um zu sehen, welche Unternehmen Ihre Site besuchen.
 
@@ -33,9 +33,9 @@ Erstellen Sie eine [Webseitenaktivitätsbericht](/help/marketo/product-docs/repo
 
    >[!TIP]
    >
-   >Um die Unternehmen zu finden, die Ihre Site am häufigsten besuchen, [Bericht sortieren](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) auf _Seitenansichten_ und wählen Sie **Absteigende Sortierung**.
+   >Um die Unternehmen zu finden, die Ihre Site am häufigsten besuchen, sortieren Sie Ihren Bericht ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) in der Spalte _Seitenansichten_ und wählen Sie **Absteigende Sortierung** aus.[
 
-   [Spalten, die Sie auswählen können](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) umfassen für einen Web-Aktivitätsbericht einer Firma folgende Informationen:
+   [Spalten, die Sie für den Bericht &quot;Web-Aktivität für Unternehmen&quot;auf ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) festlegen können, umfassen:
 
 <table> 
  <thead> 
@@ -47,11 +47,11 @@ Erstellen Sie eine [Webseitenaktivitätsbericht](/help/marketo/product-docs/repo
  <tbody> 
   <tr> 
    <td>Unternehmen</td> 
-   <td>Die Firma der Besucher.<br> <strong>Fettgedruckte Namen</strong> von mindestens einer Person als Firmenname bestätigt werden.</td> 
+   <td>Die Firma der Besucher.<br> <strong>Namen in Fettschrift</strong> werden von mindestens einer Person als Unternehmensname bestätigt.</td> 
   </tr> 
   <tr> 
    <td>Abgeleitetes Unternehmen oder abgeleiteter ISP</td> 
-   <td>Das Unternehmen, wie aus der IP-Adresse des Besuchers abgeleitet. <br> <strong>Fettgedruckte Namen</strong> Geben Sie an, dass es sich um das Unternehmen handelt, nicht um den ISP. </td> 
+   <td>Das Unternehmen, wie aus der IP-Adresse des Besuchers abgeleitet. <br> <strong>Namen in Fettschrift</strong> geben an, dass es sich um das Unternehmen handelt, nicht um den ISP. </td> 
   </tr> 
   <tr> 
    <td>Seitenansichten</td> 

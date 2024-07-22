@@ -19,7 +19,7 @@ Erstellen Sie basierend auf Live-Ereignissen eine Smart-Kampagne für eine Perso
 >
 >Die Bearbeitung von Smart-Listen- oder Flussschritt-Bearbeitungen an einer aktiven Kampagne kann möglicherweise deren Funktionalität beeinträchtigen. Gehen Sie dabei mit Vorsicht vor.
 
-1. Klicken Sie in Ihrer Smart-Kampagne auf die **[!UICONTROL Smart List]** Registerkarte.
+1. Klicken Sie in Ihrer Smart-Kampagne auf den Tab **[!UICONTROL Smart-Liste]** .
 
    ![](assets/define-smart-list-for-smart-campaign-trigger-1.png)
 
@@ -29,7 +29,7 @@ Erstellen Sie basierend auf Live-Ereignissen eine Smart-Kampagne für eine Perso
 
    >[!NOTE]
    >
-   >Eine Smart-Kampagne mit Triggern wird in _Trigger_ -Modus. Er wird basierend auf ausgelösten Ereignissen und beliebigen zusätzlichen Filtern jeweils für eine Person ausgeführt.
+   >Eine Smart-Kampagne mit Triggern wird im Modus _Trigger_ ausgeführt. Er wird basierend auf ausgelösten Ereignissen und beliebigen zusätzlichen Filtern jeweils für eine Person ausgeführt.
 
    >[!IMPORTANT]
    >
@@ -53,9 +53,9 @@ Erstellen Sie basierend auf Live-Ereignissen eine Smart-Kampagne für eine Perso
 
    >[!NOTE]
    >
-   >Bei mehreren Triggern durchläuft eine Person den Fluss, wenn _ANDERE_ einer der Trigger aktiviert wird.
+   >Bei mehreren Triggern durchläuft eine Person den Fluss, wenn _ANY_ eines der Trigger aktiviert wird.
 
-Um die Kampagne für eine Reihe von Personen gleichzeitig auszuführen, erfahren Sie, wie Sie [Definieren einer Smart-Liste für eine intelligente Kampagne | Batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}.
+Um die Kampagne für mehrere Personen gleichzeitig auszuführen, erfahren Sie, wie Sie [Smart-Liste für Smart-Campaign definieren | Batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

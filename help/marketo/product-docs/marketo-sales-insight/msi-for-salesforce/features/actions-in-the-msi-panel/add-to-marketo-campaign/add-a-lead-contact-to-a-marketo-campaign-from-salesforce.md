@@ -20,34 +20,35 @@ Die folgenden Aktionen sind in der Dropdown-Liste Sales Insight in Salesforce Cl
 
 Auf jede dieser Funktionen kann wie folgt zugegriffen werden:
 
-**Seitenlayout mit nur einer Aktion**
+**Seitenlayout mit einzelner Aktion**
 
 * Lead-Layout-Bedienfeld: Einzelaktion und kann über ein Benutzerprofil gesteuert werden
-* Bedienfeld &quot;Kontaktlayout&quot;: Einzelaktion und kann über ein Benutzerprofil gesteuert werden
-* Schaltfläche &quot;Lead-Layout&quot;: Einzelaktionen und können nicht über Benutzerprofile gesteuert werden
-* Schaltfläche &quot;Kontaktlayout&quot;: Einzelaktionen und können nicht über Benutzerprofile gesteuert werden
+* Bedienfeld &quot;Kontaktlayout&quot;: Einzelaktion und kann vom Benutzerprofil gesteuert werden
+* Schaltfläche &quot;Lead-Layout&quot;: Einzelaktion, die nicht vom Benutzerprofil gesteuert werden kann
+* Schaltfläche &quot;Kontaktlayout&quot;: Einzelaktion, die nicht vom Benutzerprofil gesteuert werden kann
 
-   ![](assets/-.png)
+  ![](assets/-.png)
 
 **Seitenlayout mit Gruppenaktion**
 
-Bedienfeld &quot;Kontolayout&quot;: Gruppenaktion und können über das Bedienfeld &quot;Layout&quot;für Benutzerprofile gesteuert werden: Gruppenaktion und kann über ein Benutzerprofil gesteuert werden
+Bedienfeld &quot;Kontolayout&quot;: Gruppenaktion und kann vom Benutzerprofil gesteuert werden
+Bedienfeld &quot;Opportunity Layout&quot;: Gruppenaktion und kann vom Benutzerprofil gesteuert werden
 
 ![](assets/-.png)
 
-**Registerkarte &quot;Beste Betten&quot;**
+**Registerkarte &quot;Beste Einsätze&quot;**
 
-* Registerkarte Beste Beta-Massenaktionen : Gruppenaktion und kann über ein Benutzerprofil gesteuert werden
+* Registerkarte &quot;Best Bets-Massenaktionen&quot;: Gruppenaktion und kann vom Benutzerprofil gesteuert werden
 
-   ![](assets/-.png)
+  ![](assets/-.png)
 
-* Registerkarte &quot;Best-Bets-Inline-Aktionen&quot;: Einzelaktion und kann über ein Benutzerprofil gesteuert werden
+* Registerkarte &quot;Best-Bets-Inline-Aktionen&quot;: Einzelaktion und kann vom Benutzerprofil gesteuert werden
 
-   ![](assets/-.png)
+  ![](assets/-.png)
 
 **Listenansicht mit Massenaktion**
 
 * Lead-Listenansicht: Massenaktion und kann nicht über das Benutzerprofil gesteuert werden
-* Kontaktlisten-Ansicht: Massenaktion und kann nicht über das Benutzerprofil gesteuert werden
+* Kontaktlisten-Ansicht: Massenaktion und kann nicht vom Benutzerprofil gesteuert werden
 
-   ![](assets/-.png)
+  ![](assets/-.png)

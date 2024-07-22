@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Eine vorhandene Webkampagne bearbeiten {#edit-an-existing-web-campaign}
 
-1. Navigieren Sie zu **Web-Kampagnen**.
+1. Wechseln Sie zu **Web-Kampagnen**.
 
    ![](assets/image2016-8-18-16-3a15-3a14.png)
 
-1. Im **Web-Kampagnen** Seite, klicken **Bearbeiten** auf der Kampagne, die Sie bearbeiten möchten.
+1. Klicken Sie auf der Seite **Web-Kampagnen** auf **Bearbeiten** der Kampagne, die Sie bearbeiten möchten.
 
    ![](assets/web-campaigns-1-edit-hand.png)
 
    >[!NOTE]
    >
-   >Um die gewünschte Web-Kampagne leichter zu finden, verwenden Sie die [Filterfunktion](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+   >Um die gewünschte Webkampagne leichter zu finden, verwenden Sie die [Filterfunktion](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 >[!MORELIKETHIS]
 >

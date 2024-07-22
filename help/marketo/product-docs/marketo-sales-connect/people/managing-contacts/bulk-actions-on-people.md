@@ -6,7 +6,7 @@ exl-id: 5956444c-8839-4f8f-97d0-20ed35a395aa
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '140'
 ht-degree: 5%
 
 ---
@@ -37,7 +37,7 @@ Jedem Kontakt, der in die Datenbank gelangt, wird automatisch eine Quelle zugewi
 
 ## Autorisierung {#authorization}
 
-In Übereinstimmung mit [DSGVO](https://eugdpr.org/)verwenden, um anzugeben, wie Sie die Berechtigung zur Interaktion mit diesen Kontakten erhalten haben.
+Verwenden Sie in Übereinstimmung mit [DSGVO](https://eugdpr.org/) die Autorisierung, um anzugeben, wie Sie die Berechtigung für die Interaktion mit diesen Kontakten erhalten haben.
 
 ![](assets/authorization.png)
 
@@ -49,6 +49,6 @@ Führen Sie eine Massenabmeldung für Kontakte durch, die keine Korrespondenz me
 
 ## Löschen {#delete}
 
-Massenlöschung von Kontakten. Vollständige Schritte finden Sie [here](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md).
+Massenlöschung von Kontakten. Die vollständigen Schritte finden Sie [hier](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md).
 
 ![](assets/delete.png)

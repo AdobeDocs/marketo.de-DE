@@ -20,11 +20,11 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->Für genaue Berichte vermeiden Sie _Wiederverwendung_ eine E-Mail aus einem E-Mail-Programm, entweder durch Referenzierung in einer Smart-Kampagne oder durch Verschieben des Assets aus dem gestarteten E-Mail-Programm in ein neues. Auf diese Weise werden alle Daten in jedem Bericht-Dashboard, das an diese E-Mail angehängt ist, aggregiert. Wenn Sie eine E-Mail wiederverwenden müssen, wenden Sie sich bitte an [Klonen](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} , da dadurch die E-Mail kopiert, aber eine neue mit einer neuen E-Mail-ID erstellt wird.
+>Vermeiden Sie für eine genaue Berichterstellung die _Wiederverwendung_ einer E-Mail aus einem E-Mail-Programm, indem Sie entweder in einer Smart-Kampagne darauf verweisen oder das Asset aus dem gestarteten E-Mail-Programm in ein neues verschieben. Auf diese Weise werden alle Daten in jedem Bericht-Dashboard, das an diese E-Mail angehängt ist, aggregiert. Wenn Sie eine E-Mail wiederverwenden müssen, klonen Sie sie stattdessen mit [1}, da diese die E-Mail kopiert, aber eine neue E-Mail-Adresse mit einer neuen ID erstellt.](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"}
 
-Sobald du [E-Mail-Programm erstellt](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) und Ihre Audience definiert haben, möchten Sie entscheiden, welche E-Mail Sie senden. Sie können [E-Mail für ein E-Mail-Programm erstellen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) von Grund auf neu oder wählen Sie eine bereits existierende aus. So wählen Sie eine bereits existierende aus.
+Nachdem Sie [ ein E-Mail-Programm erstellt haben](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) und Ihre Audience definiert haben, möchten Sie entscheiden, welche E-Mail Sie senden. Sie können [eine E-Mail für ein E-Mail-Programm erstellen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) von Grund auf oder ein bereits vorhandenes Programm auswählen. So wählen Sie eine bereits existierende aus.
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Wechseln Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -32,13 +32,13 @@ Sobald du [E-Mail-Programm erstellt](/help/marketo/product-docs/email-marketing/
 
    ![](assets/selectemailprogram.jpg)
 
-1. Unter dem **Email** -Kachel wählen Sie die Kachel aus, die Sie senden möchten.
+1. Wählen Sie unter der Kachel **E-Mail** die zu sendende Nachricht aus.
 
    ![](assets/image2014-9-12-11-3a28-3a10.png)
 
    >[!NOTE]
    >
-   >Es können nur lokale E-Mails ausgewählt werden. Sie müssen eine E-Mail von einem Programm in ein anderes verschieben? [Hier erfahren Sie mehr darüber](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/move-an-email.md).
+   >Es können nur lokale E-Mails ausgewählt werden. Sie müssen eine E-Mail von einem Programm in ein anderes verschieben? [Erfahren Sie, wie hier ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/move-an-email.md).
 
    Süß!
 
@@ -49,4 +49,4 @@ Nachdem wir uns entschieden haben, welche E-Mail gesendet werden soll, können w
 >[!MORELIKETHIS]
 >
 >* [Hinzufügen eines A/B-Tests](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
->* [E-Mail-Programm planen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
+>* [Planen Ihres E-Mail-Programms](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)

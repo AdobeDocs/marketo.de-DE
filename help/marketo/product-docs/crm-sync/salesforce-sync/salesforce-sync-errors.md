@@ -6,7 +6,7 @@ feature: Salesforce Integration
 source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 3%
+ht-degree: 4%
 
 ---
 
@@ -20,11 +20,11 @@ Zeigen Sie eine Zusammenfassung der Fehler an, die während des Synchronisierung
 
 ## Synchronisierungsfehler anzeigen {#view-sync-errors}
 
-1. Klicks **[!UICONTROL Admin]**.
+1. Klicken Sie auf **[!UICONTROL Admin]**.
 
    ![](assets/salesforce-sync-errors-1.png)
 
-1. Klicken Sie unter &quot;Integration&quot;auf **Salesforce**, dann die **[!UICONTROL Synchronisierungsfehler]** Registerkarte.
+1. Klicken Sie unter &quot;Integration&quot;auf **Salesforce** und dann auf die Registerkarte **[!UICONTROL Fehler synchronisieren]** .
 
    ![](assets/salesforce-sync-errors-2.png)
 
@@ -34,7 +34,7 @@ Zeigen Sie eine Zusammenfassung der Fehler an, die während des Synchronisierung
 
 | Feld | Beschreibung |
 |---|---|
-| Fehlgeschlagen an | Record Level _oder_ Job Level |
+| Fehlgeschlagen am | Datensatzebene _oder_ Auftragsebene |
 | Datum/Uhrzeit des Fehlschlagens | Fehlerdetails |
 | Fehlertyp | SFDC-Rücksendenachricht |
 
@@ -48,10 +48,10 @@ Zeigen Sie eine Zusammenfassung der Fehler an, die während des Synchronisierung
 
    ![](assets/salesforce-sync-errors-3.png)
 
-1. Wählen Sie Datum und Zeitraum aus und filtern Sie dann nach Fehlertyp (Auftragsebene oder Datensatzebene). Klicks **[!UICONTROL Anwenden]** wann geschehen.
+1. Wählen Sie Datum und Zeitraum aus und filtern Sie dann nach Fehlertyp (Auftragsebene oder Datensatzebene). Klicken Sie abschließend auf **[!UICONTROL Anwenden]** .
 
    ![](assets/salesforce-sync-errors-4.png)
 
-**OPTIONALER SCHRITT**: Um Synchronisierungsfehler zu exportieren, klicken Sie auf **[!UICONTROL Export]**. Die Daten werden als CSV exportiert.
+**OPTIONALER SCHRITT**: Klicken Sie zum Exportieren von Synchronisierungsfehlern auf **[!UICONTROL Exportieren]**. Die Daten werden als CSV exportiert.
 
 ![](assets/salesforce-sync-errors-5.png)

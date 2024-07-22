@@ -7,7 +7,7 @@ exl-id: 6fb6c48a-054b-45e3-ae52-e857485044f4
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
@@ -20,11 +20,11 @@ Auf der Seite &quot;Personen&quot;Kontakte zu haben ist wichtig, da wir von dort
 
    ![](assets/import-contacts-via-csv-1.png)
 
-1. Klicken **Gruppenaktionen** und wählen Sie **CSV importieren**.
+1. Klicken Sie auf **Gruppenaktionen** und wählen Sie **CSV importieren** aus.
 
    ![](assets/import-contacts-via-csv-2.png)
 
-1. Klicken **Durchsuchen**.
+1. Klicken Sie auf **Durchsuchen**.
 
    ![](assets/import-contacts-via-csv-3.png)
 
@@ -34,10 +34,10 @@ Auf der Seite &quot;Personen&quot;Kontakte zu haben ist wichtig, da wir von dort
    >
    >Gruppen sind auf 1000 Kontakte beschränkt.
 
-1. Klicken **Nächste**.
+1. Klicken Sie auf **Weiter**.
 
    ![](assets/import-contacts-via-csv-4.png)
 
-1. Ordnen Sie die Spalten in Ihrer CSV-Datei ihren jeweiligen Feldern in Sales Connect zu. Klicken **Nächste** wann geschehen.
+1. Ordnen Sie die Spalten in Ihrer CSV-Datei ihren jeweiligen Feldern in Sales Connect zu. Klicken Sie abschließend auf **Weiter** .
 
    ![](assets/import-contacts-via-csv-5.png)

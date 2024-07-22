@@ -13,23 +13,23 @@ ht-degree: 0%
 
 # Webkampagnen filtern {#filter-web-campaigns}
 
-Nachdem Sie Hunderte von Web-Personalisierungskampagnen erstellt haben, ist es wirklich hilfreich, Filter zu verwenden, um nur diejenigen anzuzeigen, die Sie interessieren.
+Nachdem Sie Hunderte von Web-Personalization-Kampagnen erstellt haben, ist es wirklich hilfreich, Filter zu verwenden, um nur diejenigen anzuzeigen, die Sie interessieren.
 
-1. Navigieren Sie zu **Web-Kampagnen**.
+1. Wechseln Sie zu **Web-Kampagnen**.
 
    ![](assets/web-campaigns-hand-8.jpg)
 
-1. Klicken Sie auf der Seite Web-Kampagnen auf **Filter**.
+1. Klicken Sie auf der Seite &quot;Web-Kampagnen&quot;auf **Filter**.
 
    ![](assets/web-campaigns-page-filter-hand.jpg)
 
-1. Aktivieren Sie das Kontrollkästchen für den Status und/oder Kampagnentyp, nach dem Sie filtern möchten, z. B. **Angehalten** oder **Dialogfeld**. Klicken **Anwenden**.
+1. Aktivieren Sie das Kontrollkästchen für den Status und/oder Kampagnentyp, nach dem Sie filtern möchten, z. B. &quot;**Angehalten**&quot;oder &quot;**Dialogfeld**&quot;. Klicken Sie auf **Anwenden**.
 
    ![](assets/web-campaigns-filters-hands.jpg)
 
    >[!TIP]
    >
-   >Verwenden Sie die **Alle auswählen** Kontrollkästchen zum Auswählen von &quot;all&quot;oder **Löschen** -Link, um alle Kontrollkästchen zu löschen.
+   >Verwenden Sie das Kontrollkästchen **Alle auswählen** , um alle oder den Link **Löschen** auszuwählen, um alle Kontrollkästchen zu löschen.
 
 1. Jetzt werden nur Kampagnen angezeigt, die Ihrem Filter entsprechen.
 

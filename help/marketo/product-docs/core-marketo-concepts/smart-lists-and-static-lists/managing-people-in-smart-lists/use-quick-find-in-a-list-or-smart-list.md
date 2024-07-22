@@ -15,17 +15,17 @@ ht-degree: 0%
 
 Suchen Sie eine Person aus den Ergebnissen einer Liste oder Smart-Liste mithilfe der Schnellsuche.
 
-1. Navigieren Sie zu **[!UICONTROL Marketingaktivitäten]**.
+1. Wechseln Sie zu **[!UICONTROL Marketingaktivitäten]**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Wählen Sie die Smart-Liste aus, die Sie durchsuchen möchten, und klicken Sie auf die Schaltfläche **[!UICONTROL Personen]** Registerkarte.
+1. Wählen Sie die Smart-Liste aus, die Sie suchen möchten, und klicken Sie dann auf die Registerkarte **[!UICONTROL Personen]** .
 
    ![](assets/smartlistpeople.png)
 
 ## Personen mithilfe persönlicher Informationen suchen {#find-people-using-personal-info}
 
-1. Im **[!UICONTROL Schnellsuche]** unten auf dem Bildschirm ein Schlüsselwort (**persönlicher Name**, **Email-Adresse** oder **Berufsbezeichnung**).
+1. Geben Sie in das Feld **[!UICONTROL Schnellsuche]** unten auf dem Bildschirm ein Schlüsselwort ein (**persönlicher Name**, **E-Mail-Adresse** oder **Berufsbezeichnung**).
 
    ![](assets/searchpeople.png)
 
@@ -33,7 +33,7 @@ Suchen Sie eine Person aus den Ergebnissen einer Liste oder Smart-Liste mithilfe
 
 ## Personen mithilfe eines Unternehmensnamens suchen {#find-people-using-a-company-name}
 
-1. Um ein Unternehmen zu finden, geben Sie `[company]` in das Feld &quot;Schnellsuche&quot;, gefolgt von einem beliebigen Teil des Unternehmensnamens, den Sie suchen.
+1. Um ein Unternehmen zu finden, geben Sie in das Feld &quot;Schnellsuche&quot;den Wert `[company]` ein, gefolgt von einem beliebigen Teil des Unternehmensnamens, den Sie suchen.
 
    ![](assets/supersmartlistsearch.jpg)
 

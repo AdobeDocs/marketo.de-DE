@@ -15,11 +15,11 @@ ht-degree: 1%
 
 Nachdem Sie Ihr Interaktionsprogramm erstellt haben, müssen Sie Inhalt zu den Streams hinzufügen. Sie können einem Stream E-Mails oder Programme hinzufügen.
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Wechseln Sie zu **Marketingaktivitäten**.
 
    ![](assets/add-content-to-a-stream-1.png)
 
-1. Wählen Sie Ihr Interaktionsprogramm aus und navigieren Sie zu **Streams** Registerkarte.
+1. Wählen Sie Ihr Interaktionsprogramm aus und wechseln Sie zur Registerkarte **Streams** .
 
    ![](assets/add-content-to-a-stream-2.png)
 
@@ -27,11 +27,11 @@ Nachdem Sie Ihr Interaktionsprogramm erstellt haben, müssen Sie Inhalt zu den S
 
 **Schaltfläche &quot;Inhalt hinzufügen&quot;**
 
-1. Klicken Sie auf **Inhalt hinzufügen** Schaltfläche.
+1. Klicken Sie auf die Schaltfläche **Inhalt hinzufügen** .
 
    ![](assets/add-content-to-a-stream-3.png)
 
-1. Auswählen **Email** _oder_ **Programm** und wählen Sie dann die E-Mail- oder Programm-/Smart-Kampagne aus, die Sie hinzufügen möchten.
+1. Wählen Sie **E-Mail** _oder_ **Programm** und wählen Sie dann die E-Mail- oder Programm-/Smart-Kampagne aus, die Sie hinzufügen möchten.
 
    ![](assets/add-content-to-a-stream-4.png)
 
@@ -41,15 +41,15 @@ Nachdem Sie Ihr Interaktionsprogramm erstellt haben, müssen Sie Inhalt zu den S
 
 **+ Symbol**
 
-1. Klicken Sie auf **+** Symbol, wählen Sie **Email** _oder_ **Programm** und wählen Sie dann die E-Mail- oder Programm-/Smart-Kampagne aus, die Sie hinzufügen möchten.
+1. Klicken Sie auf das Symbol &quot;**+**&quot;, wählen Sie &quot;**E-Mail** _&quot;oder &quot;_ **Programm**&quot;und wählen Sie dann die E-Mail oder die Programm-/Smart-Kampagne aus, die Sie hinzufügen möchten.
 
    ![](assets/add-content-to-a-stream-5.png)
 
    >[!NOTE]
    >
-   >Eine intelligente Kampagne muss die Variable **Mitglied des Interaktionsprogramms** , damit sie ordnungsgemäß funktioniert.
+   >Eine intelligente Kampagne muss den Filter **Mitglied des Interaktionsprogramms** enthalten, damit er ordnungsgemäß funktioniert.
 
-Großartig gemacht! Jetzt wissen Sie, wie Sie Ihren Programm-Streams Inhalte hinzufügen können. Fügen Sie so viel hinzu, wie Sie für Ihre Pflege benötigen. Weitere Informationen finden Sie im entsprechenden Artikel unten.
+Gut gemacht! Jetzt wissen Sie, wie Sie Ihren Programm-Streams Inhalte hinzufügen können. Fügen Sie so viel hinzu, wie Sie für Ihre Pflege benötigen. Weitere Informationen finden Sie im entsprechenden Artikel unten.
 
 >[!MORELIKETHIS]
 >

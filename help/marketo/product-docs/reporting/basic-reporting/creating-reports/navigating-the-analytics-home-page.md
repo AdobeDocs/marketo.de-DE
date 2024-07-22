@@ -13,15 +13,15 @@ ht-degree: 1%
 
 # Navigieren zur Analytics-Startseite {#navigating-the-analytics-home-page}
 
-1. Navigieren Sie zu **Analytics** Bereich.
+1. Wechseln Sie zum Bereich **Analytics** .
 
 1. ![](assets/image2015-4-27-8-3a38-3a10.png)
 
-1. Wählen Sie eine [Berichtstyp](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. Wählen Sie einen [Berichtstyp](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md) aus.
 
 1. ![](assets/image2015-4-27-8-3a38-3a22.png)
 
-1. Nachdem Sie den Bericht ausgeführt haben, klicken Sie auf den Arbeitsbereich, um zur **Analytics-Homepage**.
+1. Klicken Sie nach Ausführung des Berichts auf den Arbeitsbereich, um zur **Analytics-Startseite** zurückzukehren.
 
    ![](assets/image2015-4-27-8-3a38-3a34.png)
 
@@ -29,4 +29,4 @@ ht-degree: 1%
 
 >[!MORELIKETHIS]
 >
->[Grundlegendes zu meinen Berichten und Gruppenberichten](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/understanding-my-reports-and-group-reports.md)
+>[Verstehen meiner Berichte und Gruppenberichte](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/understanding-my-reports-and-group-reports.md)

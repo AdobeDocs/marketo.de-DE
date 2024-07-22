@@ -17,7 +17,7 @@ Möchten Sie Ihre Kampagnen nach einem bestimmten Titel filtern?
 
 ## Nach vorhandenen Bezeichnungen filtern {#filter-by-existing-labels}
 
-1. Navigieren Sie zu **Web-Kampagnen**.
+1. Wechseln Sie zu **Web-Kampagnen**.
 
    ![](assets/web-campaigns-hand-4.jpg)
 
@@ -31,6 +31,6 @@ Möchten Sie Ihre Kampagnen nach einem bestimmten Titel filtern?
 
 >[!MORELIKETHIS]
 >
->* [Webkampagnen beschriften](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/label-your-web-campaigns.md)
->* [Anzeigen von Segmenten aus einer bestimmten Bezeichnung](/help/marketo/product-docs/web-personalization/using-web-segments/view-segments-from-a-specific-label.md)
->* [Segmente beschriften](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)
+>* [Beschriften Ihrer Web-Kampagnen](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/label-your-web-campaigns.md)
+>* [Anzeigen von Segmenten aus einer bestimmten Beschriftung](/help/marketo/product-docs/web-personalization/using-web-segments/view-segments-from-a-specific-label.md)
+>* [Kennzeichnen Ihrer Segmente](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)

@@ -5,7 +5,7 @@ exl-id: a18e7112-91e8-462c-9d1a-3a0f43c1b1cf
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '525'
 ht-degree: 1%
 
 ---
@@ -14,19 +14,19 @@ ht-degree: 1%
 
 ## Erstellen einer Vorlage {#create-a-new-template}
 
-1. Navigieren Sie zum **Vorlagen** Registerkarte.
+1. Navigieren Sie zur Registerkarte **Vorlagen** .
 
    ![](assets/manage-templates-1.png)
 
-1. Klicken **Vorlage erstellen**.
+1. Klicken Sie auf **Vorlage erstellen**.
 
    ![](assets/manage-templates-2.png)
 
-1. Wählen Sie eine **Name** und **Kategorie** für Ihre E-Mail-Vorlage verwenden, klicken Sie auf **Erstellen**.
+1. Wählen Sie einen **Namen** und eine **Kategorie** für Ihre E-Mail-Vorlage aus und klicken Sie dann auf **Erstellen**.
 
    ![](assets/manage-templates-3.png)
 
-1. Erstellen Sie im Vorlageneditor eine Betreffzeile für Ihre E-Mail und geben Sie die gewünschte Nachricht ein. Verwenden Sie die Bearbeitungswerkzeuge (Schriftart, Textgröße usw.) , um das Erscheinungsbild anzupassen. Klicken **Speichern** um Ihre Änderungen abzuschließen.
+1. Erstellen Sie im Vorlageneditor eine Betreffzeile für Ihre E-Mail und geben Sie die gewünschte Nachricht ein. Verwenden Sie die Bearbeitungswerkzeuge (Schriftart, Textgröße usw.) , um das Erscheinungsbild anzupassen. Klicken Sie auf **Speichern** , um die Änderungen abzuschließen.
 
    ![](assets/manage-templates-4.png)
 
@@ -63,7 +63,7 @@ Der Bereich &quot;Vorlagendetails&quot;enthält mehrere Registerkarten.
 
 Wenn Sie eines unserer Team-Konten verwenden, sind alle Ihre Vorlagen standardmäßig noch privat.
 
-1. Navigieren Sie zum **Vorlagen** Registerkarte.
+1. Navigieren Sie zur Registerkarte **Vorlagen** .
 
    ![](assets/manage-templates-5.png)
 
@@ -71,19 +71,19 @@ Wenn Sie eines unserer Team-Konten verwenden, sind alle Ihre Vorlagen standardm�
 
    ![](assets/manage-templates-6.png)
 
-1. Klicken Sie auf **Freigeben** Schaltfläche.
+1. Klicken Sie auf die Schaltfläche **Freigabe** .
 
    ![](assets/manage-templates-7.png)
 
    >[!NOTE]
    >
-   >Vorlagen, die für Sie freigegeben wurden, werden unter der **Team-Vorlagen** -Kopfzeile auf der linken Seite der Seite &quot;Vorlagen&quot;. Teams sind nur für Premium-Benutzer verfügbar.
+   >Vorlagen, die für Sie freigegeben wurden, werden auf der linken Seite der Seite &quot;Vorlagen&quot;unter der Kopfzeile **Team-Vorlagen** angezeigt. Teams sind nur für Premium-Benutzer verfügbar.
 
 1. Klicken Sie auf das Dropdown-Menü Freigeben mit und wählen Sie die Teams aus, für die Sie freigeben möchten.
 
    ![](assets/manage-templates-8.png)
 
-1. Sie haben die Möglichkeit, die Vorlage in der aktuellen Kategorie zu belassen oder in eine andere Kategorie zu verschieben. In diesem Beispiel behalten wir es im aktuellen. Klicken **Freigeben** wann geschehen.
+1. Sie haben die Möglichkeit, die Vorlage in der aktuellen Kategorie zu belassen oder in eine andere Kategorie zu verschieben. In diesem Beispiel behalten wir es im aktuellen. Klicken Sie abschließend auf **Freigabe** .
 
    ![](assets/manage-templates-9.png)
 
@@ -91,7 +91,7 @@ Wenn Sie eines unserer Team-Konten verwenden, sind alle Ihre Vorlagen standardm�
 
 Sie können Ihrer Favoritenliste Vorlagen jeder Kategorie hinzufügen. Dadurch wird oben in Ihrer Liste automatisch eine neue Kategorie erstellt, damit Sie schnell auf die Vorlagen zugreifen können, die Sie am häufigsten verwenden.
 
-1. Navigieren Sie zum **Vorlagen** Registerkarte.
+1. Navigieren Sie zur Registerkarte **Vorlagen** .
 
    ![](assets/manage-templates-10.png)
 
@@ -105,7 +105,7 @@ Sie können Ihrer Favoritenliste Vorlagen jeder Kategorie hinzufügen. Dadurch w
 
 ## Anpassen der Vorlagenansicht {#customize-template-view}
 
-Aus dem **Ansicht** in der Dropdown-Liste können Sie Folgendes anzeigen: alle Vorlagen, Vorlagen, bevorzugte Vorlagen, freigegebene Vorlagen, nicht freigegebene Vorlagen oder nicht verwendete Vorlagen (Vorlagen, die in den letzten 90 Tagen nicht verwendet wurden).
+In der Dropdownliste **Ansicht** können Sie auswählen, ob alle Vorlagen, Ihre Vorlagen, Favoritenvorlagen, freigegebene Vorlagen, nicht freigegebene Vorlagen oder nicht verwendete Vorlagen (Vorlagen, die in den letzten 90 Tagen nicht verwendet wurden) angezeigt werden sollen.
 
 ![](assets/manage-templates-13.png)
 
@@ -121,11 +121,11 @@ Archivieren Sie Vorlagen, um Ihre Verkaufsinhalte organisiert und fokussiert zu 
 
    ![](assets/manage-templates-14.png)
 
-1. Klicken **Archivieren**.
+1. Klicken Sie auf **Archivieren**.
 
    ![](assets/manage-templates-15.png)
 
-1. Klicken **Archivieren** zur Bestätigung.
+1. Klicken Sie zur Bestätigung auf **Archivieren** .
 
    ![](assets/manage-templates-16.png)
 
@@ -147,10 +147,10 @@ Gehen Sie wie folgt vor, um eine Vorlage zu löschen.
 
    ![](assets/manage-templates-17.png)
 
-1. Klicken **Löschen**.
+1. Klicken Sie auf **Löschen**.
 
    ![](assets/manage-templates-18.png)
 
-1. Klicken **Löschen** zur Bestätigung.
+1. Klicken Sie zur Bestätigung auf **Löschen** .
 
    ![](assets/manage-templates-19.png)

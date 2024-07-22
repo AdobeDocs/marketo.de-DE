@@ -23,19 +23,19 @@ Sie können Benutzer anhand ihrer IP-Adressen am Zugriff auf Marketo hindern bzw
 >
 >Die Informationen in diesem Artikel richten sich an Benutzer, die sich direkt unter login.marketo.com anmelden, und gelten nicht für Benutzer, die sich bei Adobe ID authentifizieren. Derzeit ist es nicht möglich, IP-Einschränkungen für Single Sign-on (SSO)-Anmeldungen zu erzwingen.
 
-1. Navigieren Sie zu **[!UICONTROL Admin]** Bereich.
+1. Wechseln Sie zum Bereich **[!UICONTROL Admin]** .
 
    ![](assets/restrict-marketo-logins-based-on-ip-1.png)
 
-1. Klicks **[!UICONTROL Anmeldeeinstellungen]**.
+1. Klicken Sie auf **[!UICONTROL Anmeldeeinstellungen]**.
 
    ![](assets/restrict-marketo-logins-based-on-ip-2.png)
 
-1. Klicks **[!UICONTROL IP-Einschränkungen bearbeiten]**.
+1. Klicken Sie auf **[!UICONTROL IP-Einschränkungen bearbeiten]**.
 
    ![](assets/restrict-marketo-logins-based-on-ip-3.png)
 
-1. Auswählen, ob Sie **Zulassen** oder **Block** bestimmte Adressen, geben Sie die Adresse(n) ein und klicken Sie auf **[!UICONTROL Speichern]**.
+1. Wählen Sie aus, ob Sie bestimmte Adressen **Zulassen** oder **Blockieren** verwenden möchten, geben Sie die Adressen ein und klicken Sie dann auf **[!UICONTROL Speichern]**.
 
    >[!NOTE]
    >
@@ -43,7 +43,7 @@ Sie können Benutzer anhand ihrer IP-Adressen am Zugriff auf Marketo hindern bzw
    >
    >* **[!UICONTROL Zulässige IP-Adressen]**: Das Hinzufügen erlaubter IP-Adressen ist inklusiv. Sie enthält alle angegebenen IP-Adressen und schließt alle anderen aus.
    >* **[!UICONTROL IP-Adressen blockieren]**: Verhindert, dass bestimmte IPs auf Marketo zugreifen.
-   >* **[!UICONTROL IP-Einschränkungen deaktivieren]**: Wenn Sie dies aktivieren, funktionieren alle/alle Einschränkungsregeln nicht mehr. Verwenden Sie dies zu Testzwecken.
+   >* **[!UICONTROL IP-Einschränkungen deaktivieren]**: Wenn Sie dies überprüfen, funktionieren alle/alle Einschränkungsregeln nicht mehr. Verwenden Sie dies zu Testzwecken.
 
    >[!NOTE]
    >

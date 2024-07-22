@@ -2,11 +2,11 @@
 description: NUR-YYYY-MM-Erweiterte Krankenversicherung - Marketo Docs - Produktdokumentation
 title: NUR-YYYY-MM-Advanced Nurture
 feature: Programs
-exl-id: cd266cad-843b-4329-ad40-2f3d0acd4948
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: bd9c6605-a13f-4c73-aaa8-eca43cfcc950
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '475'
-ht-degree: 18%
+source-wordcount: '490'
+ht-degree: 13%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 18%
 
 Dies ist ein Beispiel für fortschrittliche Nurture-Programme, die das Marketo Engage Engagement-Programm nutzen. Verschachtelte E-Mail-Programme verhindern, dass Benutzer bereits konsumierte Inhalte empfangen, oder steuern, welche Art von Inhalt sie in den einzelnen Streams verwenden sollten. Attributionsberichte können für jedes einzelne verschachtelte E-Mail-Programm ausgeführt werden. Kanäle: &quot;Krankenpflege&quot; und ein spezieller Kanal &quot;E-Mail-Pflege&quot; für die verschachtelten E-Mail-Programme senden eine Newsletter-E-Mail mit einem Marketo Engage-E-Mail-Programm. Die E-Mail kann einen A/B-Test enthalten oder nicht.
 
-Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalten Sie vom Adobe-Account-Team oder unter [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} Seite.
+Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Programms an das Adobe-Account-Team oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} .
 
 ## Kanal-Zusammenfassung {#channel-summary}
 
@@ -23,28 +23,28 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
   <tr> 
    <th>Kanal</th> 
    <th>Status der Mitgliedschaft</th>
-   <th>Analyseverhalten</th>
+   <th>Analytics Behavior</th>
    <th>Programmtyp</th>
   </tr> 
   <tr> 
    <td>Nurture-Kampagne</td> 
    <td>01 - Mitglied 
 <br/>02 - Interagiert - Erfolg</td>
-   <td>Inklusiv</td>
-   <td>Engagement</td>
+   <td>Einschließlich</td>
+   <td>Interaktion</td>
   </tr>
   <tr> 
    <td>E-Mail-Nurturing</td> 
    <td>01 - Überspringen 
 <br/>02 - Gesendet
 <br/>03 - Interagiert - Erfolg</td>
-   <td>Inklusiv</td>
+   <td>Einschließlich</td>
    <td>Standard</td>
   </tr>
  </tbody> 
 </table>
 
-## Das Programm enthält die folgenden Assets {#program-contains-the-following-assets}
+## Das Programm enthält die folgende Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -132,7 +132,7 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
   <tr> 
    <td>Ordner</td> 
    <td> </td>
-   <td>Assets (enthalten verschachtelte Programme und Asset-Ordner, die auch in verschachtelten Programmen gespeichert sind, um E-Mails zu enthalten)</td>
+   <td>Assets (enthält verschachtelte Programme und Asset-Ordner, die auch in verschachtelten Programmen gespeichert sind, um E-Mails zu enthalten)</td>
   </tr>
   <tr> 
    <td>Ordner</td> 
@@ -154,7 +154,7 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
 
 ![](assets/nur-yyyy-mm-advanced-nurture-1.png)
 
-## Meine Token Enthalten {#my-tokens-included}
+## My Tokens Include {#my-tokens-included}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -187,13 +187,13 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
    * Erstellen von Tags in diesem Abonnement - _Empfohlen_
    * Ignorieren
 
-* **Landingpage-Vorlage mit demselben Namen**
+* **Vorlage für Einstiegsseiten mit demselben Namen**
    * Originalvorlage kopieren
-   * Zielvorlage verwenden - _Empfohlen_
+   * Verwenden Sie die Zielvorlage - _Empfohlen_
 
 * **Bilder mit demselben Namen**
    * Beide Dateien beibehalten
-   * Element in diesem Abonnement ersetzen - _Empfohlen_
+   * Ersetzen des Elements in diesem Abonnement - _Empfohlen_
 
 * **E-Mail-Vorlagen mit demselben Namen**
    * Beide Vorlagen beibehalten
@@ -213,4 +213,4 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
 
 >[!TIP]
 >
->Vergessen Sie nicht, die Kampagne &quot;04 - Interagiert (Programmerfolg)&quot; zu aktivieren, um den Erfolg zu verfolgen! Verwenden Sie dies _before_ Ihre E-Mails werden gesendet.
+>Vergessen Sie nicht, die Kampagne &quot;04 - Interagiert (Programmerfolg)&quot; zu aktivieren, um den Erfolg zu verfolgen! Führen Sie dies _vor_ aus, wenn Ihre E-Mails gesendet werden.

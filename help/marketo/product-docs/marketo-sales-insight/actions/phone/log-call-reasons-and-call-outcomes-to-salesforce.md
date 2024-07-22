@@ -5,8 +5,8 @@ exl-id: cfe71388-282b-45e5-a817-45a951f613bc
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '464'
-ht-degree: 0%
+source-wordcount: '461'
+ht-degree: 2%
 
 ---
 
@@ -31,15 +31,15 @@ Um diese Felder zu nutzen, müssen Sie zunächst das Feld als ein benutzerdefini
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-2.png)
 
-1. Klicks **Benutzerdefinierte Aktivitätsfelder**.
+1. Klicken Sie auf **Benutzerdefinierte Aktivitätsfelder**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-3.png)
 
-1. Klicks **Neu**.
+1. Klicken Sie auf **Neu**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-4.png)
 
-1. Wählen Sie den Datentyp &quot;Text&quot;aus und klicken Sie auf **Nächste**.
+1. Wählen Sie den Datentyp &quot;Text&quot;aus und klicken Sie auf **Weiter**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-5.png)
 
@@ -47,19 +47,19 @@ Um diese Felder zu nutzen, müssen Sie zunächst das Feld als ein benutzerdefini
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-6.png)
 
-1. Die übrigen Einstellungen sind optional. Klicken Sie nach Abschluss der Konfiguration auf **Nächste**.
+1. Die übrigen Einstellungen sind optional. Klicken Sie nach Abschluss der Konfiguration auf **Weiter**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-7.png)
 
-1. Wählen Sie die gewünschten Sicherheitseinstellungen auf Feldebene für dieses Feld aus und klicken Sie auf **Nächste** (das folgende Bild ist nur ein Beispiel).
+1. Wählen Sie die gewünschten Sicherheitseinstellungen auf Feldebene für dieses Feld aus und klicken Sie auf **Weiter** (das folgende Bild ist nur ein Beispiel).
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-8.png)
 
    >[!NOTE]
    >
-   >Vergewissern Sie sich, dass das benutzerdefinierte Feld für das Profil, das Ihre Sales Insight-Aktionen-Benutzer verwenden, sowie für alle anderen Elemente sichtbar ist, die Sie für die Anzeige verwenden möchten.
+   >Stellen Sie sicher, dass das benutzerdefinierte Feld für das Profil, das Ihre Sales Insight-Aktionen-Benutzer verwenden, sowie für alle anderen Elemente sichtbar ist, die Sie für die Anzeige interessieren.
 
-1. Wählen Sie die Seitenlayouts aus, denen das Feld hinzugefügt werden soll, und klicken Sie auf **Speichern** (Optional können Sie auf **Speichern und Neu** und wiederholen Sie den Prozess für das Feld Aufrufgrund ).
+1. Wählen Sie die Seitenlayouts aus, denen das Feld hinzugefügt werden soll, und klicken Sie auf &quot;**Speichern**&quot;. (Optional können Sie auf &quot;**Speichern und Neu**&quot;klicken und den Prozess für das Feld &quot;Aufrufgrund&quot;wiederholen.)
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-9.png)
 
@@ -77,11 +77,11 @@ Um diese Felder zu nutzen, müssen Sie zunächst das Feld als ein benutzerdefini
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-11.png)
 
-1. Klicks **Aufgabenseitenlayouts**.
+1. Klicken Sie auf **Aufgabenseitenlayouts**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-12.png)
 
-1. Klicks **Bearbeiten** neben dem Aufgabenseitenlayout, dem Sie dieses Feld hinzufügen möchten.
+1. Klicken Sie neben dem Aufgabenseitenlayout, dem Sie dieses Feld hinzufügen möchten, auf **Bearbeiten** .
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-13.png)
 
@@ -89,7 +89,7 @@ Um diese Felder zu nutzen, müssen Sie zunächst das Feld als ein benutzerdefini
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-14.png)
 
-1. Klicks **Speichern**.
+1. Klicken Sie auf **Speichern**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-15.png)
 
@@ -97,11 +97,11 @@ Um diese Felder zu nutzen, müssen Sie zunächst das Feld als ein benutzerdefini
 
 ### Benutzerdefiniertes Aktivitätsfeld in Salesforce-Blitzen erstellen {#create-custom-activity-field-in-salesforce-lightning}
 
-1. Klicken Sie in Salesforce auf das Zahnradsymbol oben rechts und wählen Sie **Einrichtung**.
+1. Klicken Sie in Salesforce auf das Zahnradsymbol oben rechts und wählen Sie **Einrichtung** aus.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-16.png)
 
-1. Klicks **Object Manager**.
+1. Klicken Sie auf **Objekt-Manager**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-17.png)
 
@@ -109,25 +109,25 @@ Um diese Felder zu nutzen, müssen Sie zunächst das Feld als ein benutzerdefini
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-18.png)
 
-1. Klicken Sie auf **Aktivität** Beschriftung.
+1. Klicken Sie auf die Bezeichnung **Aktivität** .
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-19.png)
 
-1. Klicks **Felder und Beziehungen**.
+1. Klicken Sie auf **Felder und Beziehungen**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-20.png)
 
-1. Klicks **Neu**.
+1. Klicken Sie auf **Neu**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-21.png)
 
 ### Fügen Sie benutzerdefiniertes Aktivitätsfeld zum Aufgabenseitenlayout in Salesforce-Blitzen hinzu {#add-custom-activity-field-to-task-page-layout-in-salesforce-lightning}
 
-1. Klicken Sie in Salesforce auf das Zahnradsymbol oben rechts und wählen Sie **Einrichtung**.
+1. Klicken Sie in Salesforce auf das Zahnradsymbol oben rechts und wählen Sie **Einrichtung** aus.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-22.png)
 
-1. Klicks **Object Manager**.
+1. Klicken Sie auf **Objekt-Manager**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-23.png)
 
@@ -135,11 +135,11 @@ Um diese Felder zu nutzen, müssen Sie zunächst das Feld als ein benutzerdefini
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-24.png)
 
-1. Klicken Sie auf **Aufgabe** Beschriftung.
+1. Klicken Sie auf die Bezeichnung **Aufgabe** .
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-25.png)
 
-1. Klicks **Seitenlayouts**.
+1. Klicken Sie auf **Seiten-Layouts**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-26.png)
 
@@ -151,11 +151,11 @@ Um diese Felder zu nutzen, müssen Sie zunächst das Feld als ein benutzerdefini
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-28.png)
 
-1. Klicks **Speichern**.
+1. Klicken Sie auf **Speichern**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-29.png)
 
 >[!MORELIKETHIS]
 >
 >* [Ergebnisse der Aufrufe](/help/marketo/product-docs/marketo-sales-insight/actions/phone/call-outcomes.md)
->* [Gründe für Aufrufe](/help/marketo/product-docs/marketo-sales-insight/actions/phone/call-reasons.md)
+>* [Aufrufgründe](/help/marketo/product-docs/marketo-sales-insight/actions/phone/call-reasons.md)

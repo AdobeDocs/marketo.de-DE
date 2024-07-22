@@ -6,7 +6,7 @@ exl-id: cc733f43-161d-41e4-afdf-8b5217700810
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '293'
 ht-degree: 0%
 
 ---
@@ -17,20 +17,20 @@ Mit personalisiertem Remarketing können Sie mithilfe von RTP-Daten und der Leis
 
 >[!PREREQUISITES]
 >
->* Führen Sie die [Retargeting mit Web-Personalisierungsdaten](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) Konfiguration
->* Überprüfen [Hilfe zum Remarketing mit Google Analytics](https://support.google.com/analytics/topic/2611283?hl=en&amp;ref_topic=3413645) Dokumentation.
+>* Schließen Sie die Konfiguration [Retargeting mit Web Personalization Data](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) ab
+>* Lesen Sie die Dokumentation zu [Remarketing mit Google Analytics Hilfe](https://support.google.com/analytics/topic/2611283?hl=en&amp;ref_topic=3413645) .
 
 ## Erstellen einer Remarketing-Zielgruppe in Google {#creating-a-remarketing-audience-in-google}
 
-1. Melden Sie sich bei Ihren Google Analytics an. Klicks **Admin**, **Konto**, **Eigenschaft**. Klicken Sie auf **Zielgruppendefinitionen** und **Zielgruppen**.
+1. Melden Sie sich bei Ihren Google Analytics an. Klicken Sie auf **Admin**, **Konto**, **Eigenschaft**. Klicken Sie auf **Zielgruppendefinitionen** und **Zielgruppen**.
 
    ![](assets/remarketing-ga-screenshots.jpg)
 
-1. Klicks **+Neue Zielgruppe**.
+1. Klicken Sie auf **+Neue Zielgruppe**.
 
    ![](assets/image2015-1-15-17-3a26-3a40.png)
 
-1. **Link-Konfiguration**: Link zu Ihrem Google Adwords -Konto. **Zielgruppe definieren**: Klicken **Neu erstellen**.
+1. **Link-Konfiguration**: Link zu Ihrem Google Adwords-Konto. **Zielgruppe definieren**: Klicken Sie auf **Neu erstellen**.
 
    ![](assets/image2015-1-15-17-3a32-3a4.png)
 
@@ -52,38 +52,38 @@ Mit personalisiertem Remarketing können Sie mithilfe von RTP-Daten und der Leis
 >* Ereigniskategorie: RTP-Segment, RTP-Kampagne RTP-Remarketing
 >* Ereignisbezeichnung: Segmentname, Kampagnenname, Segmentierter Zielgruppenname
 
-**Beispiel einer Remarketing-Zielgruppe aus segmentierten RTP-Zielgruppendaten**
+**Beispiel für Remarketing-Zielgruppe aus segmentierten RTP-Zielgruppendaten**
 
-1. Klicks **Sequenzen.**
-1. Auswählen **Ereignisbezeichnung.**
-1. Eingabe **Name der segmentierten Zielgruppe** (wie in RTP angezeigt).
-1. Klicks **Anwenden**.
+1. Klicken Sie auf **Sequenzen.**
+1. Wählen Sie **Ereignisbezeichnung.**
+1. Geben Sie **Name der segmentierten Zielgruppe** ein (wie in RTP angezeigt).
+1. Klicken Sie auf **Anwenden**.
 
 ![](assets/image2015-2-10-14-3a51-3a43.png)
 
-**Beispiel einer Zielgruppe aus RTP-Branchendaten**
+**Beispiel einer Audience von RTP-Branchendaten**
 
 ![](assets/image2015-1-15-17-3a36-3a5.png)
 
-1. Klicks **Sequenzen**.
-1. Auswählen **RTP-Branche**.
-1. Eingabe **Name der Branche** (Beispiel: Finanzdienstleistungen, Bildung...).
-1. Klicks **Anwenden**.
-1. Geben Sie eine **Zielgruppenname**. Klicks **Speichern**.
+1. Klicken Sie auf **Sequenzen**.
+1. Wählen Sie **RTP-Industry** aus.
+1. Geben Sie **Name der Branche** ein (z. B. Finanzdienstleistungen, Bildung...).
+1. Klicken Sie auf **Anwenden**.
+1. Geben Sie einen **Zielgruppennamen** ein. Klicken Sie auf **Speichern**.
 
 ![](assets/image2015-1-15-18-3a29-3a16.png)
 
 ## Erstellen einer Remarketing-Anzeigenkampagne in Google Adwords {#create-a-remarketing-ad-campaign-in-google-adwords}
 
-1. Anmelden bei **Google Adwords**. Klicken Sie auf **Kampagnen** auswählen **Nur Netzwerk anzeigen**.
+1. Melden Sie sich bei **Google Adwords** an. Klicken Sie auf **Kampagnen** und wählen Sie **Nur Netzwerk anzeigen** aus.
 
    ![](assets/image2015-1-15-18-3a31-3a58.png)
 
-1. Eingabe **Kampagnenname**, Auswahl **Typ Remarketing**
+1. Geben Sie **Kampagnenname** ein, wählen Sie **Typ Remarketing.**
 
    ![](assets/image2015-1-15-18-3a35-3a7.png)
 
-1. Eingabe **Anzeigengruppenname,** enter **Verbessertes CPC**, Auswahl **Remarketing-Liste**.
+1. Geben Sie **Anzeigengruppenname,** den Wert **Verbesserter CPC** ein, wählen Sie **Remarketing List** aus.
 
    ![](assets/image2015-1-15-18-3a51-3a57.png)
 
@@ -94,5 +94,5 @@ Mit personalisiertem Remarketing können Sie mithilfe von RTP-Daten und der Leis
 
 >[!MORELIKETHIS]
 >
->* [Retargeting mit Web-Personalisierungsdaten](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+>* [Retargeting mit Web-Personalization-Daten](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
 >* [Personalisiertes Remarketing in Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)

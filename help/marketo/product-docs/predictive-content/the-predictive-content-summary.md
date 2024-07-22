@@ -6,7 +6,7 @@ exl-id: 74663e07-39c6-40e5-bb49-e222c3c16034
 feature: Predictive Content
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '186'
 ht-degree: 1%
 
 ---
@@ -23,7 +23,7 @@ In der oberen Leiste werden die aktuellen Zahlen für Inhalte und Ansichten sowi
 
 ## Leistungstabelle {#performance-table}
 
-Hier sehen Sie Ihre 10 wichtigsten entdeckten Inhalte, einschließlich Ansichten, direkter Leads und Konversionsrate.
+Hier können Sie Ihre 10 wichtigsten entdeckten Inhalte sehen, einschließlich Ansichten, direkter Leads und Konversionsrate.
 
 ![](assets/image2017-10-3-10-3a4-3a40.png)
 
@@ -47,4 +47,4 @@ Welche Inhaltskategorien sind am ansprechendsten? Siehe es in diesem Diagramm.
 
 >[!NOTE]
 >
->Wenn Sie auf einen Kategorienlink klicken (Beispiele im obigen Bild): Lesen, Schreiben, E-Mail usw.) Dadurch wird die Seite Alle Inhalte mit der Kategorie, auf die Sie geklickt haben, zum Filter geöffnet und die Inhaltsanalyse in dieser Kategorie angezeigt.
+>Wenn Sie auf einen Kategorienlink klicken (Beispiele im obigen Bild: Leader, E-Mail usw.) Dadurch wird die Seite Alle Inhalte mit der Kategorie, auf die Sie geklickt haben, zum Filter geöffnet und die Inhaltsanalyse in dieser Kategorie angezeigt.

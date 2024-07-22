@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Stream-Inhalt entfernen {#remove-stream-content}
 
-Sie können Inhalte entfernen oder archivieren. Im Gegensatz zum Entfernen von Stream-Inhalten, [Archivierung](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) behält den gesamten mit dem Inhalt verknüpften Verlauf bei. Wenn es Ihnen nichts ausmacht, die historischen Statistiken von Inhalten zu verlieren und sie zu entfernen, hier ist, wie Sie es machen.
+Sie können Inhalte entfernen oder archivieren. Im Gegensatz zum Entfernen von Stream-Inhalt behält [archiving](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) den gesamten mit dem Inhalt verknüpften Verlauf bei. Wenn es Ihnen nichts ausmacht, die historischen Statistiken von Inhalten zu verlieren und sie zu entfernen, hier ist, wie Sie es machen.
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Wechseln Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Wählen Sie Ihr Interaktionsprogramm aus und klicken Sie auf die Schaltfläche **Streams** Registerkarte.
+1. Wählen Sie Ihr Interaktionsprogramm aus und klicken Sie dann auf die Registerkarte **Streams** .
 
    ![](assets/cloneasteam-3.jpg)
 
@@ -29,6 +29,6 @@ Sie können Inhalte entfernen oder archivieren. Im Gegensatz zum Entfernen von S
 
    >[!CAUTION]
    >
-   >Entfernen Sie Inhalte nur, wenn Sie sich nicht um die Geschichte kümmern. Wenn Sie den Verlauf beibehalten möchten, [archive](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) sondern.
+   >Entfernen Sie Inhalte nur, wenn Sie sich nicht um die Geschichte kümmern. Wenn Sie den Verlauf beibehalten möchten, archivieren Sie ihn stattdessen mit [archivieren](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) .
 
    Das ist es! Jetzt wissen Sie, wie man ein Inhaltselement entfernt.

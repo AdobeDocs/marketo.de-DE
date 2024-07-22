@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Personen nach Status-Bericht {#people-by-status-report}
 
-Überprüfen Sie, wie gut Sie Personen durch den Prozess bewegen, indem Sie überprüfen, wie viele davon in jedem _Personenstatus_ jeden Monat.
+Überprüfen Sie, wie gut Sie Personen durch den Prozess bewegen, indem Sie überprüfen, wie viele davon jeden Monat in jedem _Personenstatus-Wert_ angezeigt werden.
 
-1. [Bericht erstellen](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) und wählen Sie die **Personen nach Status** [Berichtstyp](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [Erstellen Sie einen Bericht](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) und wählen Sie den Berichtstyp **Personen nach Status** [](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md) aus.
 
-1. [Den Zeitrahmen Ihres Berichts festlegen](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) und klicken Sie auf **Bericht** Registerkarte.
+1. [Legen Sie den Zeitrahmen für Ihren Bericht fest](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) und klicken Sie auf die Registerkarte **Bericht** .
 
 1. Sehr gut! Nun können Sie sehen, wie viele Personen von Monat zu Monat in den einzelnen Personenstatus waren.
 
@@ -29,4 +29,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >[Filtern Ihres Berichts mit einer intelligenten Liste](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) für bestimmte Personen.
+   >[Verwenden Sie eine intelligente Liste, um Ihren Bericht zu filtern.](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)

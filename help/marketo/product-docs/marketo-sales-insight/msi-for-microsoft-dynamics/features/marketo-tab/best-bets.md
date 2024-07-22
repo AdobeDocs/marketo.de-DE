@@ -18,6 +18,6 @@ Durch Klicken auf das Punktmenü unter der Spalte Aktionen können Sie Interakti
 * Marketo-E-Mail senden
 * Zu Marketo-Kampagne hinzufügen
 
-Sie können auch mehrere Leads auf Ihrer Registerkarte &quot;Best Betas&quot;auswählen und _Marketo-E-Mail senden_ oder _Zu Marketo Campaign hinzufügen_.
+Sie können auch mehrere Leads auf der Registerkarte &quot;Beste Betten&quot;auswählen und die Optionen _Marketo-E-Mail senden_ oder _Zu Marketo-Kampagne hinzufügen_ auswählen.
 
 ![](assets/best-bets-1.png)

@@ -17,7 +17,7 @@ Im Programm-Startseite-Tab erhalten Sie einen Überblick über die Vorgänge in 
 
 ## Zusammenfassungsansicht {#summary-view}
 
-1. Navigieren Sie zu **[!UICONTROL Marketingaktivitäten]**.
+1. Wechseln Sie zu **[!UICONTROL Marketingaktivitäten]**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -33,17 +33,17 @@ Im Programm-Startseite-Tab erhalten Sie einen Überblick über die Vorgänge in 
 
    ![](assets/image2014-9-18-17-3a2-3a53.png)
 
-1. Klicks **[!UICONTROL Export]** unten in der Zusammenfassung, um den Bericht herunterzuladen.
+1. Klicken Sie unten in der Zusammenfassung auf **[!UICONTROL Exportieren]** , um den Bericht herunterzuladen.
 
    ![](assets/image2014-9-18-17-3a3-3a47.png)
 
 ## Nach Ansicht verwendet {#used-by-view}
 
-1. In **[!UICONTROL Marketingaktivitäten]**, wählen Sie ein Programm.
+1. Wählen Sie in **[!UICONTROL Marketingaktivitäten]** ein Programm aus.
 
    ![](assets/image2014-9-18-17-3a4-3a24.png)
 
-1. Klicken Sie auf **[!UICONTROL Ansicht]** angezeigt. Auswählen **[!UICONTROL Verwendet von]**.
+1. Klicken Sie auf das Dropdown-Menü **[!UICONTROL Ansicht]** . Wählen Sie **[!UICONTROL Verwendet von]** aus.
 
    ![](assets/image2014-9-18-17-3a5-3a2.png)
 
@@ -53,11 +53,11 @@ Im Programm-Startseite-Tab erhalten Sie einen Überblick über die Vorgänge in 
 
 ## Mitgliedschaftsansicht {#membership-view}
 
-1. In **[!UICONTROL Marketingaktivitäten]**, wählen Sie ein Programm.
+1. Wählen Sie in **[!UICONTROL Marketingaktivitäten]** ein Programm aus.
 
    ![](assets/image2014-9-18-17-3a7-3a25.png)
 
-1. Klicken Sie auf **[!UICONTROL Ansicht]** angezeigt. Auswählen **[!UICONTROL Mitgliedschaft]**.
+1. Klicken Sie auf das Dropdown-Menü **[!UICONTROL Ansicht]** . Wählen Sie **[!UICONTROL Mitgliedschaft]** aus.
 
    ![](assets/image2014-9-18-17-3a7-3a49.png)
 
@@ -67,7 +67,7 @@ Im Programm-Startseite-Tab erhalten Sie einen Überblick über die Vorgänge in 
 
    >[!NOTE]
    >
-   >**[!UICONTROL Historisch]** bezeichnet jeden, der das Programm durchlaufen hat, während **[!UICONTROL Aktuell]** umfasst nur Personen, die derzeit am Programm teilnehmen.
+   >**[!UICONTROL Historisch]** bezeichnet jeden, der das Programm durchlaufen hat, während **[!UICONTROL Aktuell]** nur Personen enthält, die sich derzeit im Programm befinden.
 
    >[!MORELIKETHIS]
    >

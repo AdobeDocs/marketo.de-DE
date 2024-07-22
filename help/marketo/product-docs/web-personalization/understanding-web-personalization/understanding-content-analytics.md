@@ -6,7 +6,7 @@ exl-id: 9266fdfe-2a12-43b0-84ad-d12eb8589ed4
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '374'
 ht-degree: 2%
 
 ---
@@ -17,7 +17,7 @@ Auf der Seite &quot;Content Analytics&quot;werden die von Ihnen entdeckten vorha
 
 ## Anzeigen von Content Analytics {#view-content-analytics}
 
-Navigieren Sie zu **Content Analytics**.
+Wechseln Sie zu **Content Analytics**.
 
 ![](assets/one.png)
 
@@ -45,11 +45,11 @@ Die Analytics-Tabelle enthält die folgenden Details:
  <tbody> 
   <tr> 
    <td colspan="1" rowspan="1"><strong>Titel</strong></td> 
-   <td colspan="1" rowspan="1">Name des digitalen Inhalts-Assets Klicks <strong>Titel</strong> um die Inhalts-URL in einer neuen Registerkarte zu öffnen.</td> 
+   <td colspan="1" rowspan="1">Name des digitalen Inhalts-Assets Klicken Sie auf <strong>Titel</strong> , um die Inhalts-URL auf einer neuen Registerkarte zu öffnen.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><p><strong>Empfehlung </strong><strong>Symbol</strong></p><p><strong><img alt="—" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></strong></p></td> 
-   <td colspan="1">Gibt an, ob das Inhaltselement hinzugefügt wurde für <a href="#">Content Recommendations</a>.</td> 
+   <td colspan="1">Gibt an, ob das Inhaltselement für <a href="#">Content Recommendations</a> hinzugefügt wurde.</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p><strong>Ansichten</strong></p></td> 
@@ -90,7 +90,7 @@ Die zusätzliche Inhaltsanalyse umfasst:
 
 **Trends**
 
-* A **Trends** Diagramm mit den letzten 30 Tagen der Ansichten des jeweiligen Inhaltselements. Bewegen Sie den Mauszeiger über das Liniendiagramm, um die Anzahl der Inhaltsansichten eines bestimmten Tages anzuzeigen.
+* Ein **Trends** -Diagramm, das die letzten 30 Tage der Ansicht des jeweiligen Inhaltselements anzeigt. Bewegen Sie den Mauszeiger über das Liniendiagramm, um die Anzahl der Inhaltsansichten eines bestimmten Tages anzuzeigen.
 
 ## Inhalte löschen {#delete-content}
 
@@ -100,5 +100,5 @@ Klicken Sie auf der Seite &quot;Content Analytics&quot;auf das Löschsymbol des 
 
 >[!MORELIKETHIS]
 >
->* [Symbolleiste für Inhaltsempfehlung aktivieren](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)
->* [Aktivieren prädiktiver Inhalte für Web Rich Media](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
+>* [Aktivieren Sie die Symbolleiste für Inhaltsempfehlungen](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)
+>* [Aktivieren von prädiktivem Inhalt für Web-Rich-Media](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)

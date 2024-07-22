@@ -7,7 +7,7 @@ feature: Tags
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 3%
 >
 >**Erforderliche Administratorberechtigungen**
 
-Sie können benutzerdefinierte [tags](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) für Ihre Programme und weisen Sie dem -Tag Werte zu.
+Sie können benutzerdefinierte [Tags](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) für Ihre Programme erstellen und dem Tag Werte zuweisen.
 
 >[!NOTE]
 >
@@ -27,19 +27,19 @@ Sie können benutzerdefinierte [tags](/help/marketo/product-docs/core-marketo-co
 >
 >Programm-Tag-Wert: SMB, Enterprise, Mid-Market
 
-1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
+1. Wechseln Sie zum Bereich **[!UICONTROL Admin]** .
 
    ![](assets/create-a-new-program-tag-and-tag-values-1.png)
 
-1. Klicks **[!UICONTROL Tags]**.
+1. Klicken Sie auf **[!UICONTROL Tags]**.
 
    ![](assets/create-a-new-program-tag-and-tag-values-2.png)
 
-1. Klicks **[!UICONTROL Neu]** und wählen **[!UICONTROL Neuer Tag-Typ]**.
+1. Klicken Sie auf **[!UICONTROL Neu]** und wählen Sie **[!UICONTROL Neuer Tag-Typ]** aus.
 
    ![](assets/create-a-new-program-tag-and-tag-values-3.png)
 
-1. Geben Sie die **[!UICONTROL Tag-Typ]** und ein Tag **[!UICONTROL Wert]**. Klicken Sie anschließend auf **[!UICONTROL Weitere hinzufügen]**.
+1. Geben Sie den **[!UICONTROL Tag-Typ]** und ein Tag **[!UICONTROL Wert]** ein. Klicken Sie dann auf **[!UICONTROL Weitere hinzufügen]**.
 
    ![](assets/create-a-new-program-tag-and-tag-values-4.png)
 
@@ -51,13 +51,13 @@ Sie können benutzerdefinierte [tags](/help/marketo/product-docs/core-marketo-co
    >
    >Sie können mehrere Programmtypen auswählen. Wenn ein neues Programm erstellt wird, ist dieser Tag-Typ verfügbar.
 
-1. Überprüfen **[!UICONTROL Erforderlich]** und klicken **[!UICONTROL Erstellen]**.
+1. Aktivieren Sie **[!UICONTROL Erforderlich]** und klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/create-a-new-program-tag-and-tag-values-6.png)
 
    >[!NOTE]
    >
-   >Wenn der Tag-Typ **[!UICONTROL Erforderlich]** müssen Benutzer beim Erstellen eines neuen Programms einen Wert für das Tag eingeben.
+   >Wenn der Tag-Typ **[!UICONTROL Erforderlich]** ist, müssen Benutzer beim Erstellen eines neuen Programms einen Wert für das Tag eingeben.
 
    ![](assets/create-a-new-program-tag-and-tag-values-7.png)
 

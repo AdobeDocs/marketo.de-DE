@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Lokale Präsenz von Verkaufs-Telefonen {#sales-phone-local-presence}
 
-Wenn Sie aussehen möchten, als ob Sie von jemandem aus den gleichen Bereichscode aufrufen, überprüfen Sie einfach die **Lokale Präsenz** vor dem Aufruf.
+Wenn Sie aus demselben Bereichscode eines Benutzers aufrufen möchten, aktivieren Sie einfach das Kontrollkästchen **Lokale Präsenz** , bevor Sie den Aufruf durchführen.
 
 ## Häufig gestellte Fragen zur lokalen Präsenz {#local-presence-faq}
 
@@ -21,14 +21,14 @@ Wenn Sie aussehen möchten, als ob Sie von jemandem aus den gleichen Bereichscod
 
 Nein, die lokale Präsenz funktioniert nur bei ausgehenden Aufrufen. Der Anrufer kann Sie unter dieser &quot;neuen&quot;Nummer nicht zurückrufen.
 
-**Kann ich mit der lokalen Präsenz überall anrufen?**
+**Kann ich mit der lokalen Präsenz irgendwo aufrufen?**
 
 Wir bieten alle Funktionen für Verkaufs-Telefonanrufe nur in den USA an.
 
-**Ist die lokale Präsenz-Nummer immer gleich, wenn ich einen Gebietscode aufrufe?**
+**Ist die lokale Präsenznummer immer gleich, wenn ich einen Gebietscode aufrufe?**
 
 Die Zahl ist wahrscheinlich immer gleich, wenn Sie in einen Bereichscode aufrufen.
 
-**Ändert sich meine gesamte Zahl oder nur der Gebietscode bei Verwendung der lokalen Präsenz?**
+**Ändert sich meine gesamte Zahl oder nur der Bereichscode bei Verwendung der lokalen Präsenz?**
 
 Ihre ganze Zahl wird sich ändern.

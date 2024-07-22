@@ -25,11 +25,11 @@ Sie können Social-Apps auf Ihrer eigenen Website bereitstellen, um Ihre Zielgru
 
    ![](assets/image2015-5-12-11-3a43-3a24.png)
 
-1. Auswählen **Einbettungscode** aus Social-App-Aktionen.
+1. Wählen Sie **Einbettungscode** aus Social-App-Aktionen aus.
 
    ![](assets/image2015-5-12-12-3a59-3a46.png)
 
-1. Kopieren Sie den Code für den Seitenkopf Ihrer Site (`<head>`) und Hauptteil (`<body>`).
+1. Kopieren Sie den Code für den Seitenkopf (`<head>`) und den Hauptteil (`<body>`) Ihrer Site.
 
    ![](assets/image2015-5-12-13-3a3-3a34.png)
 
@@ -41,7 +41,7 @@ Sie können Social-Apps auf Ihrer eigenen Website bereitstellen, um Ihre Zielgru
 
    ![](assets/socialonsite-embedwidget.png)
 
-1. Wenn Sie die Größe der Social-App auf bestimmte Dimensionen auf Ihrer Seite einstellen müssen, fügen Sie die **outerHeight** und **outerWidth** Optionen zum zweiten Codeausschnitt. Sie können beispielsweise `options='{"outerHeight":400, "outerWidth":600}'`, wie in:
+1. Wenn Sie die Größe der Social-App auf bestimmte Dimensionen auf Ihrer Seite festlegen müssen, fügen Sie die Optionen **outerHeight** und **outerWidth** zum zweiten Codeausschnitt hinzu. Sie können beispielsweise `options='{"outerHeight":400, "outerWidth":600}'` hinzufügen, wie in:
 
    ![](assets/socialonsite-resizewidget2.png)
 
@@ -50,5 +50,5 @@ Sie können Social-Apps auf Ihrer eigenen Website bereitstellen, um Ihre Zielgru
    >[!MORELIKETHIS]
    >
    >* [Schaltfläche &quot;Social-App anpassen&quot;](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)
-   >* [Social Share-Anforderung festlegen](/help/marketo/product-docs/demand-generation/social/social-functions/set-social-share-requirement.md)
-   >* [Veröffentlichen von Landingpages in Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
+   >* [Anforderung zur Freigabe in sozialen Netzwerken festlegen](/help/marketo/product-docs/demand-generation/social/social-functions/set-social-share-requirement.md)
+   >* [Publish-Einstiegsseiten in Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)

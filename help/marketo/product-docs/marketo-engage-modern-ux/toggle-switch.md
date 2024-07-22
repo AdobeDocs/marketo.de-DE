@@ -22,11 +22,11 @@ Mit dem Umschalter können Sie zwischen der klassischen Benutzeroberfläche von 
 
 Aktivieren Sie den Umschalter für einzelne Rollen oder alle Rollen. So geht es.
 
-1. Klicken Sie im Marketo Engage auf **Admin**.
+1. Klicken Sie unter Marketo Engage auf **Admin**.
 
    ![](assets/toggle-switch-1.png)
 
-1. Klicks **Neues Erlebnis**.
+1. Klicken Sie auf **Neues Erlebnis**.
 
    ![](assets/toggle-switch-2.png)
 
@@ -36,7 +36,7 @@ Aktivieren Sie den Umschalter für einzelne Rollen oder alle Rollen. So geht es.
 
 ## Aktivieren für Funktionen {#enable-for-features}
 
-Sie haben die Möglichkeit, das Marketo Engage Modern UX für einzelne Funktionen oder alle verfügbaren Funktionen (aktuell und in Kürze) manuell zu aktivieren.
+Sie haben die Möglichkeit, die Marketo Engage Modern UX für einzelne Funktionen oder alle verfügbaren Funktionen (aktuell und in Kürze) manuell zu aktivieren.
 
 Klicken Sie in einem Bereich mit dem Umschalter (in diesem Beispiel befinden wir uns in der E-Mail-Listenansicht) einfach auf den Umschalter unten rechts auf der Seite.
 
@@ -46,11 +46,11 @@ Das neue Erlebnis wird geladen.
 
 ![](assets/toggle-switch-5.png)
 
-So aktivieren Sie es für _all_ Funktionen verwenden, klicken Sie auf das Zahnradsymbol neben dem Umschalter.
+Um es für _alle_ Funktionen zu aktivieren, klicken Sie auf das Zahnradsymbol neben dem Umschalter.
 
 ![](assets/toggle-switch-6.png)
 
-Auswählen **Aktivieren für alle verfügbaren Funktionen** und klicken **OK**.
+Wählen Sie **Aktivieren für alle verfügbaren Funktionen** und klicken Sie auf **OK**.
 
 ![](assets/toggle-switch-7.png)
 

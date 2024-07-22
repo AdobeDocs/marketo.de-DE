@@ -6,7 +6,7 @@ feature: Users and Roles
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '84'
-ht-degree: 5%
+ht-degree: 0%
 
 ---
 
@@ -18,15 +18,15 @@ So exportieren Sie alle Rollen und ihre Berechtigungen.
 >
 >Erforderliche Administratorberechtigungen
 
-1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
+1. Wechseln Sie zum Bereich **[!UICONTROL Admin]** .
 
    ![](assets/export-roles-and-permissions-1.png)
 
-1. Auswählen **[!UICONTROL Benutzer und Rollen]**.
+1. Wählen Sie **[!UICONTROL Benutzer und Rollen]** aus.
 
    ![](assets/export-roles-and-permissions-2.png)
 
-1. Klicken Sie auf **[!UICONTROL Rollen]** Registerkarte.
+1. Klicken Sie auf die Registerkarte **[!UICONTROL Rollen]**.
 
    ![](assets/export-roles-and-permissions-3.png)
 

@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Hinweistext zu einem Formularfeld hinzufügen {#add-hint-text-to-a-form-field}
 
-Hinweise und [instructions](/help/marketo/product-docs/demand-generation/forms/form-fields/add-tooltip-instructions-to-a-form-field.md) hilft Menschen beim Ausfüllen von Formularen. Hier erfahren Sie, wie Sie einen Hinweis hinzufügen.
+Hinweise und [Anweisungen](/help/marketo/product-docs/demand-generation/forms/form-fields/add-tooltip-instructions-to-a-form-field.md) helfen Benutzern beim Ausfüllen von Formularen. Hier erfahren Sie, wie Sie einen Hinweis hinzufügen.
 
 >[!NOTE]
 >
 >**Definition**
 >
->Formular **Hinweise** ist Text innerhalb des Felds, der verschwindet, wenn der Besucher mit der Eingabe in das Feld beginnt.
+>Form **Hints** ist Text innerhalb des Felds, der ausgeblendet wird, wenn der Besucher mit der Eingabe in das Feld beginnt.
 >
->Formular **Anweisungen** sind kleine QuickInfos, die anzeigen, wann der Besucher den Mauszeiger über das Feld bewegt.
+>Form **Anweisungen** sind kleine QuickInfos, die zeigen, wann der Besucher den Mauszeiger über das Feld bewegt.
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Wechseln Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities-5.png)
 
@@ -31,22 +31,22 @@ Hinweise und [instructions](/help/marketo/product-docs/demand-generation/forms/f
 
    ![](assets/image2014-9-15-13-3a54-3a6.png)
 
-1. Wählen Sie das Feld aus und geben Sie Ihre **Hint-Text**.
+1. Wählen Sie das Feld aus und geben Sie Ihren **Hint Text** ein.
 
    ![](assets/image2014-9-15-13-3a53-3a58.png)
 
-1. Klicks **Beenden**.
+1. Klicken Sie auf **Beenden**.
 
    ![](assets/image2014-9-15-13-3a53-3a36.png)
 
-1. Klicks **Genehmigen und schließen**.
+1. Klicken Sie auf **Genehmigen und schließen**.
 
    ![](assets/image2014-9-15-13-3a53-3a29.png)
 
    >[!NOTE]
    >
-   >Vergiss nicht, [Landingpage-Entwurf validieren](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) erstellt durch die Formularänderungen.
+   >Vergessen Sie nicht, [den Landingpage-Entwurf](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) zu genehmigen, der durch die Formularänderungen erstellt wurde.
 
    ![](assets/image2014-9-15-13-3a53-3a23.png)
 
-Schau es dir an! Lassen Sie uns ein paar hinzufügen. [instructions](add-tooltip-instructions-to-a-form-field.md) jetzt.
+Schau es dir an! Fügen wir nun einige [Anweisungen](add-tooltip-instructions-to-a-form-field.md) hinzu.

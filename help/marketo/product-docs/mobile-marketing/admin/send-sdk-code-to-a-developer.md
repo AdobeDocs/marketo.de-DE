@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Bevor Sie In-App-Nachrichten oder Push-Benachrichtigungen erstellen können, müssen Sie den Entwickler bitten, das Mobile App SDK für die Plattformen Android und iOS einzurichten und zu initialisieren.
 
-* [Anleitung für Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)
+* [Anweisungen für Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)
 * [Anweisungen für iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-ios)
 
 ## SDK-Code an einen Entwickler senden {#send-sdk-code-to-a-developer-1}
@@ -26,11 +26,11 @@ Manchmal muss ein Administrator einen SDK-Code an einen Entwickler senden.
 
 So machst du das.
 
-1. Klicks **Admin**.
+1. Klicken Sie auf **Admin**.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. Auswählen **Mobile Apps**.
+1. Wählen Sie **Mobile Apps** aus.
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
@@ -38,7 +38,7 @@ So machst du das.
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-1. Klicks **Mobile App-Aktionen** und wählen **An Entwickler senden**.
+1. Klicken Sie auf **Mobile-App-Aktionen** und wählen Sie **An Entwickler senden** aus.
 
    ![](assets/image2015-4-22-17-3a13-3a30.png)
 

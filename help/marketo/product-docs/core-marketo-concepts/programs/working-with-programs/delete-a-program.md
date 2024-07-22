@@ -19,19 +19,19 @@ Sie können ein Programm archivieren, aber manchmal wollen Sie es einfach dauerh
 
 ![](assets/image2014-9-23-15-3a40-3a57.png)
 
-1. Klicken Sie auf **[!UICONTROL Programmaktionen]** und wählen Sie **[!UICONTROL Löschen]**.
+1. Klicken Sie auf die Dropdownliste **[!UICONTROL Programmaktionen]** und wählen Sie **[!UICONTROL Löschen]** aus.
 
    ![](assets/image2014-9-23-15-3a41-3a11.png)
 
-1. Wählen Sie das Optionsfeld &quot;Alle löschen..&quot;. Überprüfen Sie die Auswirkungen der Streichung des Programms und klicken Sie auf **[!UICONTROL Löschen]** zur Bestätigung.
+1. Wählen Sie das Optionsfeld &quot;Alle löschen..&quot;. Überprüfen Sie die Auswirkungen des Löschens des Programms und klicken Sie dann zur Bestätigung auf **[!UICONTROL Löschen]** .
 
 >[!TIP]
 >
->Archivierungsprogramme behalten die Programmdaten bei, versetzen das Programm jedoch aus dem Weg. Wählen Sie diese Option aus und klicken Sie auf **[!UICONTROL Nächste]** , um weitere Details zur Archivierung anzuzeigen.
+>Archivierungsprogramme behalten die Programmdaten bei, versetzen das Programm jedoch aus dem Weg. Wählen Sie diese Option aus und klicken Sie auf **[!UICONTROL Weiter]** , um weitere Details zur Archivierung anzuzeigen.
 
 ![](assets/2017-05-05-15-04-15.png)
 
-Abgeschlossen. Es ist, als hätte das Programm nie existiert.
+Fertig. Es ist, als hätte das Programm nie existiert.
 
 ## Warum kann ich mein Programm nicht löschen? {#why-cant-i-delete-my-program}
 
@@ -43,7 +43,7 @@ Um das Problem zu beheben, müssen Sie möglicherweise einen Drilldown durchfüh
 
    ![](assets/image2014-9-23-15-3a42-3a10.png)
 
-1. Klicks **[!UICONTROL Verwendet von]** , um zu sehen, wo das Asset verwendet wird.
+1. Klicken Sie auf **[!UICONTROL Verwendet von]** , um zu sehen, wo das Asset verwendet wird.
 
    ![](assets/image2014-9-23-15-3a42-3a57.png)
 

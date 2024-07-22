@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Möchten Sie eine Seite löschen? Kein Schweiß, so geht es.
 
-1. Navigieren Sie zu **[!UICONTROL Seiten]** Abschnitt.
+1. Wechseln Sie zum Abschnitt **[!UICONTROL Seiten]** .
 
    ![](assets/image2014-9-18-13-3a58-3a33.png)
 
-1. Im [!UICONTROL Seiten] Registerkarte, den Mauszeiger über die Seite halten, die Sie entfernen möchten, klicken Sie auf **[!UICONTROL Löschen]** Klicken Sie auf **[!UICONTROL Entfernen]**.
+1. Bewegen Sie auf der Registerkarte [!UICONTROL Seiten] den Mauszeiger über die Seite, die Sie entfernen möchten, klicken Sie auf **[!UICONTROL Löschen]** und klicken Sie dann auf **[!UICONTROL Entfernen]**.
 
    ![](assets/image2014-9-18-13-3a58-3a39.png)
 

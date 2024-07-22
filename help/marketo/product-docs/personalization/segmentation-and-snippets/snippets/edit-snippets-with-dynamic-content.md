@@ -16,17 +16,17 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [Erstellen einer Segmentierung](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
->* [Snippet erstellen](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
+>* [Erstellen eines Snippets](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
 
 Verwenden Sie die Segmentierung in Snippets, um dynamische Inhalte in E-Mails und Landingpages einfach zu verwalten.
 
 ## Segmentierung hinzufügen {#add-segmentation}
 
-1. Navigieren Sie zu **Design Studio**.
+1. Wechseln Sie zu **Design Studio**.
 
    ![](assets/designstudio-1.png)
 
-1. Klicken Sie auf **Snippet** und dann **Entwurf bearbeiten**.
+1. Klicken Sie auf Ihren **Ausschnitt** und dann auf **Entwurf bearbeiten**.
 
    ![](assets/image2014-9-16-8-3a59-3a14.png)
 
@@ -34,13 +34,13 @@ Verwenden Sie die Segmentierung in Snippets, um dynamische Inhalte in E-Mails un
 
    ![](assets/image2014-9-16-8-3a59-3a27.png)
 
-1. Eingabe **Segmentierung** und auf **Speichern**.
+1. Geben Sie **Segmentierung** ein und klicken Sie auf **Speichern**.
 
    ![](assets/image2014-9-16-8-3a59-3a42.png)
 
 ## Dynamische Inhalte anwenden {#apply-dynamic-content}
 
-1. Klicken Sie auf **Segment** und dann den Inhalt bearbeiten. Wiederholen für jedes Segment
+1. Klicken Sie auf ein **Segment** und bearbeiten Sie dann den Inhalt. Wiederholen für jedes Segment
 
    ![](assets/image2014-9-16-8-3a59-3a59.png)
 

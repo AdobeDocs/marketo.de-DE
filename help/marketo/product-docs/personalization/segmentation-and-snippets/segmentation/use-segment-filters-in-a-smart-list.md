@@ -20,7 +20,7 @@ ht-degree: 1%
 
 Optimieren Sie die Leistung Ihrer Smart-Listen mithilfe von Segmentfiltern.
 
-1. Suchen Sie in der von Ihnen erstellten Smart-Liste nach dem Wort **Segment**, ziehen Sie den Filter per Drag-and-Drop.
+1. Suchen Sie in der von Ihnen erstellten Smart-Liste nach dem Wort **Segment**, ziehen Sie den Filter und legen Sie ihn ab.
 
    ![](assets/image2014-9-16-10-3a30-3a47.png)
 

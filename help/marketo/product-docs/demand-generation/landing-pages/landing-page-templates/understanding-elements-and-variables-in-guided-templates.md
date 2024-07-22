@@ -6,8 +6,8 @@ exl-id: c25c8b2b-d596-46f7-a570-b4a5cb5957a6
 feature: Landing Pages
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '187'
-ht-degree: 4%
+source-wordcount: '189'
+ht-degree: 2%
 
 ---
 
@@ -23,13 +23,13 @@ Elemente sind die verschiedenen Inhaltselemente, aus denen eine Landingpage best
 
 Wenn Sie eine geführte Landingpage bearbeiten, werden Elemente angezeigt, die in der Vorlage als bearbeitbar markiert wurden. Elemente verfügen über die folgenden Symbole:
 
-* ![--](assets/image2015-5-20-12-3a30-3a48.png) Bild
+* ![—](assets/image2015-5-20-12-3a30-3a48.png) Bild
 * ![—](assets/image2015-5-20-12-3a31-3a33.png)Marketo-Formular
-* ![--](assets/image2015-5-20-12-3a41-3a21.png)Text
-* ![--](assets/image2015-5-20-12-3a42-3a47.png)Video
+* ![—](assets/image2015-5-20-12-3a41-3a21.png)Text
+* ![—](assets/image2015-5-20-12-3a42-3a47.png)Video
 * ![—](assets/image2015-5-20-12-3a44-3a17.png)Marketo-Freigabeschaltfläche
 * ![—](assets/image2015-5-20-12-3a43-3a21.png)Marketo-Umfrage
-* ![—](assets/image2015-5-20-12-3a43-3a2.png)Marketo-Referenz
+* ![—](assets/image2015-5-20-12-3a43-3a2.png)Marketo-Verweis
 * ![—](assets/image2015-5-20-12-3a44-3a40.png)Marketo-Preisausschreiben
 * ![—](assets/image2015-5-20-12-3a47-3a45.png)Marketo-Snippet
 
@@ -60,4 +60,4 @@ Es gibt drei Variablentypen: Zeichenfolgenvariablen, Farbvariablen und boolesche
 
 >[!MORELIKETHIS]
 >
->[Erstellen einer Vorlage für eine geführte Landingpage](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)
+>[Erstellen einer geführten Landingpage-Vorlage](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)

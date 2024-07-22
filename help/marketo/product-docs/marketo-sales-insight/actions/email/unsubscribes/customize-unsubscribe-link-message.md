@@ -18,11 +18,11 @@ Wir haben es Teams immer ermöglicht, ihre Abmelde-Link-Nachrichten anzupassen, 
 >
 >Sie können keinen Abmelde-Link eines Drittanbieters mit Marketo Sales verwenden, da diese Informationen nicht wieder in unsere Datenbank aufgenommen werden.
 
-1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen**.
+1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
 
    ![](assets/customize-unsubscribe-link-message-1.png)
 
-1. Klicken Sie unter &quot;Admin Settings&quot;auf **Abmeldungen**.
+1. Klicken Sie unter &quot;Admin Settings&quot;auf **Unsubscribes**.
 
    ![](assets/customize-unsubscribe-link-message-2.png)
 
@@ -42,6 +42,6 @@ Wir haben es Teams immer ermöglicht, ihre Abmelde-Link-Nachrichten anzupassen, 
 
    ![](assets/customize-unsubscribe-link-message-5.png)
 
-1. Klicks **Speichern** unten, um Ihre Änderungen zu speichern.
+1. Klicken Sie unten auf **Speichern** , um Ihre Änderungen zu speichern.
 
    ![](assets/customize-unsubscribe-link-message-6.png)

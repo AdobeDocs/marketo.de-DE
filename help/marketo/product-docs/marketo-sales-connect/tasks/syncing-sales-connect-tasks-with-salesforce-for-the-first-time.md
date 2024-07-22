@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Synchronisieren von Sales Connect-Aufgaben mit Salesforce zum ersten Mal {#syncing-sales-connect-tasks-with-salesforce-for-the-first-time}
 
-Wenn Sie die Synchronisierung zwischen Sales Connect- und Salesforce-Aufgaben zum ersten Mal aktivieren, importieren wir Ihre Salesforce-Aufgaben. Wir werden **not** Übertragen Sie alle aktuellen Aufgaben, die Sie in Sales Connect haben, in Salesforce. Um Übersichtlichkeit und Duplikate zu reduzieren, werden nur Aufgaben erstellt, die von Sales Connect mit Salesforce synchronisiert werden *after* Sie synchronisieren Sales Connect mit SFDC.
+Wenn Sie die Synchronisierung zwischen Sales Connect- und Salesforce-Aufgaben zum ersten Mal aktivieren, importieren wir Ihre Salesforce-Aufgaben. Wir übernehmen **nicht** alle aktuellen Aufgaben, die Sie in Sales Connect haben, mit Salesforce. Um Übersichtlichkeit und Duplikate zu reduzieren, sind die einzigen Aufgaben, die von Sales Connect mit Salesforce synchronisiert werden, Aufgaben, die *nach* der Synchronisierung von Sales Connect mit SFDC erstellt wurden.
 
 Folgendes geschieht, wenn Sie Sales Connect- und SFDC-Aufgaben synchronisieren:
 
@@ -27,4 +27,4 @@ Folgendes geschieht, wenn Sie Sales Connect- und SFDC-Aufgaben synchronisieren:
 
 Nach der ersten Synchronisierung werden alle Aufgaben, die Sie in Sales Connect erstellen, bearbeiten, abschließen oder löschen, mit Ihrer Aufgabenliste in Salesforce synchronisiert. Und alles, was in Salesforce erstellt, bearbeitet, abgeschlossen oder gelöscht wurde, aktualisiert Ihre Aufgabenliste in Sales Connect.
 
-Um diese Synchronisierung zu aktivieren, aktivieren Sie einfach das Synchronisierungsfeld in Ihrem [Einstellungsseite](https://toutapp.com/login) in der Webanwendung.
+Um diese Synchronisierung zu aktivieren, aktivieren Sie einfach das Kontrollkästchen &quot;Synchronisieren&quot;auf Ihrer [Einstellungsseite](https://toutapp.com/login) in der Webanwendung.

@@ -6,26 +6,26 @@ exl-id: 40f4aac8-c6e5-4cf3-9573-cac2fdf9bcad
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 21%
+source-wordcount: '200'
+ht-degree: 23%
 
 ---
 
 # Personendaten verwalten {#manage-person-data}
 
-Nutzen Sie Personendaten für die Web-Personalisierung, indem Sie Personenfelder für Ihre Segmentierung auswählen.
+Nutzen Sie Personendaten für Web Personalization, indem Sie Personenfelder für Ihre Segmentierung auswählen.
 
-1. Navigieren Sie zu **Kontoeinstellungen**.
+1. Wechseln Sie zu **Kontoeinstellungen**.
 
    ![](assets/image2015-5-7-15-3a17-3a23.png)
 
-1. Navigieren Sie zu **Datenbank**.
+1. Wechseln Sie zu **Datenbank**.
 
    ![](assets/account-settings-dropdown-database.jpg)
 
 ## Feld &quot;Neue Person&quot;hinzufügen {#adding-a-new-person-field}
 
-1. Auswählen **Feld zum Hinzufügen** aus der Dropdown-Liste, um ein Personendatenfeld zur Liste hinzuzufügen.
+1. Wählen Sie **Feld zum Hinzufügen von** aus der Dropdown-Liste aus, um ein Personendatenfeld zur Liste hinzuzufügen.
 
    ![](assets/add-a-person-field-hand.jpg)
 
@@ -35,16 +35,16 @@ Nutzen Sie Personendaten für die Web-Personalisierung, indem Sie Personenfelder
 
 ## Löschen eines Personalisierungsfelds {#deleting-a-person-field}
 
-1. Klicken Sie auf das Löschsymbol ( ![—](assets/image2015-3-24-13-3a45-3a56.png)), um ein Feld aus der Liste zu entfernen. Klicken **Ja** , um zu bestätigen, dass Sie das Feld löschen möchten.
+1. Klicken Sie auf das Löschsymbol ( ![—](assets/image2015-3-24-13-3a45-3a56.png)), um ein Feld aus der Liste zu entfernen. Klicken Sie auf **Ja** , um zu bestätigen, dass Sie das Feld löschen möchten.
 
    ![](assets/web-engagement-settings-delete.jpg)
 
    >[!NOTE]
    >
-   >**Verwalten von Personendatenfeldern**
+   >**Verwalten der Personendaten-Felder**
    >
    >* Nur Personendatenfelder können eingeschlossen werden
-   >* Sie können bis zu 30 Personendatenfelder hinzufügen
+   >* Sie können bis zu 30 Personen-Datenfelder hinzufügen
    >* Bis zum Aktivieren hinzugefügter neuer Felder können bis zu 24 Stunden vergehen
    >* Die maximal zulässige Länge der String-Typen ist 255 Zeichen
    >* Ausgeblendete Felder werden automatisch entfernt
@@ -64,7 +64,7 @@ Nutzen Sie Personendaten für die Web-Personalisierung, indem Sie Personenfelder
   <tr> 
    <td><p>Titel</p></td> 
    <td><p>Titel</p></td> 
-   <td><p>Job-Titel</p></td> 
+   <td><p>Jobtitel</p></td> 
   </tr> 
   <tr> 
    <td><p>Bewertung</p></td> 
@@ -89,17 +89,17 @@ Nutzen Sie Personendaten für die Web-Personalisierung, indem Sie Personenfelder
   <tr> 
    <td><p>leadRole</p></td> 
    <td><p>LeadRole</p></td> 
-   <td><p>Rolle</p></td> 
+   <td><p>Role</p></td> 
   </tr> 
   <tr> 
    <td><p>unsubscribed</p></td> 
-   <td><p>Hat abbestellt</p></td> 
-   <td><p>Hat abbestellt</p></td> 
+   <td><p>Abbestellt</p></td> 
+   <td><p>Abbestellt</p></td> 
   </tr> 
  </tbody> 
 </table>
 
-Für neue Web-Personalisierungskonten stehen standardmäßig die folgenden Lead-Felder zur Verfügung:
+Für neue Web Personalization-Konten stehen standardmäßig die folgenden Lead-Felder zur Verfügung:
 
 >[!MORELIKETHIS]
 >

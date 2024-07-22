@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Durch das Erstellen von Ordnern können Sie Bilder und Dateien verschieben, nur die gewünschten Bilder anzeigen und direkt in einen bestimmten Ordner hochladen.
 
-1. Navigieren Sie zu **[!UICONTROL Design Studio]**.
+1. Wechseln Sie zu **[!UICONTROL Design Studio]**.
 
    ![](assets/organize-your-images-and-files-using-folders-1.png)
 
-1. Rechtsklick auf **[!UICONTROL Bilder und Dateien]** und wählen **[!UICONTROL Ordner]**.
+1. Klicken Sie mit der rechten Maustaste auf **[!UICONTROL Bilder und Dateien]** und wählen Sie **[!UICONTROL Neuer Ordner]** aus.
 
    ![](assets/organize-your-images-and-files-using-folders-2.png)
 
@@ -27,7 +27,7 @@ Durch das Erstellen von Ordnern können Sie Bilder und Dateien verschieben, nur 
 
    ![](assets/organize-your-images-and-files-using-folders-3.png)
 
-1. Gehen Sie zurück zu **[!UICONTROL Bilder und Dateien]** und wählen Sie das Asset aus, das Sie verschieben möchten. Klicken Sie auf **[!UICONTROL Bild- und Dateiaktionen]** und wählen Sie **[!UICONTROL Verschieben]**.
+1. Gehen Sie zurück zu **[!UICONTROL Bilder und Dateien]** und wählen Sie das Asset aus, das Sie verschieben möchten. Klicken Sie auf das Dropdown-Menü **[!UICONTROL Bild- und Dateiaktionen]** und wählen Sie **[!UICONTROL Verschieben]** aus.
 
    ![](assets/organize-your-images-and-files-using-folders-4.png)
 
@@ -35,7 +35,7 @@ Durch das Erstellen von Ordnern können Sie Bilder und Dateien verschieben, nur 
 
    ![](assets/organize-your-images-and-files-using-folders-5.png)
 
-1. Klicks **Move**.
+1. Klicken Sie auf **Move**.
 
    ![](assets/organize-your-images-and-files-using-folders-6.png)
 

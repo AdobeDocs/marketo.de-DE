@@ -6,7 +6,7 @@ exl-id: b48f5f95-8e36-441f-a785-1651f42f9f60
 feature: Mobile Marketing
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '842'
+source-wordcount: '834'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ Wenn Personen bei Ihrer Veranstaltung angezeigt werden, finden Sie deren Informa
 
 >[!IMPORTANT]
 >
->Am 2. Oktober 2023 hat Adobe die Marketo Events App aus allen App Stores entfernt. Wenn Sie die App bereits auf Ihrem Tablet/Mobilgerät installiert haben, können Sie sie vorerst weiter verwenden. Sobald Ihre Marketo Engage-Instanz zur Authentifizierung von Marketo zu Adobe Identity migriert wurde, können Sie nicht mehr auf die App zugreifen. [Weitere Informationen](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+>Am 2. Oktober 2023 hat Adobe die Marketo Events App aus allen App Stores entfernt. Wenn Sie die App bereits auf Ihrem Tablet/Mobilgerät installiert haben, können Sie sie vorerst weiter verwenden. Sobald Ihre Marketo Engage-Instanz zur Authentifizierung von Marketo zu Adobe Identity migriert wurde, können Sie nicht mehr auf die App zugreifen. [Weitere Infos](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
-Die App funktioniert auf beiden [!DNL iPad] und [!DNL Android], mit Ausnahme kleiner Unterschiede bei Layout und Design.
+Die App funktioniert sowohl für [!DNL iPad] als auch für [!DNL Android] gleich, mit Ausnahme kleiner Unterschiede bei Layout und Design.
 
 >[!PREREQUISITES]
 >
@@ -27,9 +27,9 @@ Die App funktioniert auf beiden [!DNL iPad] und [!DNL Android], mit Ausnahme kle
 
 ## Einchecken registrierter Gäste {#check-in-registered-guests}
 
-1. Tippen Sie auf das App-Symbol auf Ihrem [!DNL iPad] oder [!DNL Android] Tablette.
+1. Tippen Sie auf das App-Symbol auf Ihrem [!DNL iPad]- oder [!DNL Android]-Tablet.
 
-1. Tippen **[!UICONTROL Anmelden]** , um die Marketo Event-App zu starten.
+1. Tippen Sie auf **[!UICONTROL Anmelden]** , um die Marketo Event-App zu starten.
 
    ![](assets/1.jpg)
 
@@ -39,7 +39,7 @@ Die App funktioniert auf beiden [!DNL iPad] und [!DNL Android], mit Ausnahme kle
    >
    >Sie müssen über eine Rolle mit Zugriff auf die Datenbank verfügen, um Personen in der App anzuzeigen.
 
-1. Wählen Sie eine **[!UICONTROL Ereignis]**.
+1. Wählen Sie ein **[!UICONTROL Ereignis]** aus.
 
    ![](assets/2.jpg)
 
@@ -55,7 +55,7 @@ Die App funktioniert auf beiden [!DNL iPad] und [!DNL Android], mit Ausnahme kle
 
    >[!NOTE]
    >
-   >Der Prozess ist derselbe auf [!DNL iPad] und [!DNL Android], aber die Bildschirme unterscheiden sich, und die Elemente können sich an verschiedenen Positionen befinden. Dieser Artikel enthält die [!DNL iPad] -Schnittstelle. Vergleichen Sie die [!DNL Android] in diesem Abschnitt als Referenz.
+   >Der Prozess ist bei [!DNL iPad] und [!DNL Android] identisch, aber die Bildschirme unterscheiden sich, und die Elemente können sich an verschiedenen Positionen befinden. Dieser Artikel enthält die [!DNL iPad] -Benutzeroberfläche. Vergleichen Sie den Bildschirm [!DNL Android] in diesem Abschnitt zur Referenz.
 
    **[!DNL iPad]**
 
@@ -81,13 +81,13 @@ Der Gast hat jetzt den Status &quot;Geplant&quot;und erhält ein Häkchen. Der P
 
 >[!TIP]
 >
->Wenn eine Person eingeladen, sich aber nicht registriert hat, können Sie nach dem Namen suchen, indem Sie auf **[!UICONTROL Suche auf dem Server]**, direkt unter dem Suchfeld. Der Status Eingeladen ändert sich in **[!UICONTROL Angemeldet]** für das Ereignis.
+>Wenn eine Person eingeladen, sich aber nicht registriert hat, können Sie nach dem Namen suchen, indem Sie auf **[!UICONTROL Auf Server suchen]** klicken, direkt unter dem Suchfeld. Der Status &quot;Eingeladen&quot;ändert sich für das Ereignis in **[!UICONTROL Bewirkt]** .
 
 ## Erstellen einer neuen Person auf der Registerkarte {#create-a-new-person-on-the-tablet}
 
 Sie können in Ihrer Marketo-Datenbank nicht vorhandene Gäste manuell hinzufügen. Sie werden automatisch eingecheckt und Ihrer Datenbank hinzugefügt, wenn Sie mit Marketo synchronisieren.
 
-1. Klicks **[!UICONTROL Hinzufügen]**.
+1. Klicken Sie auf **[!UICONTROL Hinzufügen]**.
 
    **[!DNL iPad]**
 
@@ -113,7 +113,7 @@ Die neue Person wird als bei Ihrem Ereignis eingecheckt und bei der Synchronisie
 
 ## Ein Einchecken umkehren {#reverse-a-check-in}
 
-Wenn Sie versehentlich bei einer Person eingecheckt haben _vor der Synchronisierung mit Marketo_ können Sie den Status &quot;Geplant&quot;umkehren.
+Wenn Sie versehentlich eine Person eingecheckt haben, _bevor Sie die Synchronisation mit Marketo_ durchgeführt haben, können Sie den Status &quot;Beendet&quot;umkehren.
 
 1. Tippen Sie auf den Namen in der Liste und im Personendatensatz auf **[!UICONTROL Rückgängig]**.
 
@@ -129,13 +129,13 @@ Sie können Gastinformationen direkt bei der Veranstaltung hinzufügen und ände
 
    ![](assets/image2016-4-15-11-3a43-3a46.png)
 
-1. Bearbeiten Sie die Felder und fügen Sie Informationen hinzu. Tippen Sie dann auf **[!UICONTROL Fertig]**.
+1. Bearbeiten und fügen Sie Informationen zu den Feldern hinzu und tippen Sie dann auf **[!UICONTROL Fertig]**.
 
    ![](assets/image2016-4-15-11-3a50-3a18.png)
 
    >[!NOTE]
    >
-   >In [!DNL Android], die **[!UICONTROL Fertig]** -Schaltfläche ausgeblendet sein. Scrollen Sie nach unten, um ihn zu finden.
+   >In [!DNL Android] kann die Schaltfläche **[!UICONTROL Fertig]** ausgeblendet sein. Scrollen Sie nach unten, um ihn zu finden.
 
 Die Informationen werden aktualisiert, wenn Sie die App mit Marketo synchronisieren.
 
@@ -149,7 +149,7 @@ Die Marketo Events-App funktioniert unabhängig, bis Sie Ihre Aktivität wieder 
 
 1. Öffnen Sie auf Ihrem Tablet die App und navigieren Sie zu Ihrem Ereignis.
 
-1. Tippen **[!UICONTROL Synchronisieren]**.
+1. Tippen Sie auf **[!UICONTROL Synchronisieren]**.
 
    Ihr Ereignis wird mit neuen Check-ins in der Marketo-Datenbank aktualisiert. Der rote Zähler auf der Synchronisierungsschaltfläche wird gelöscht, bis Sie einen anderen Benutzer einchecken.
 

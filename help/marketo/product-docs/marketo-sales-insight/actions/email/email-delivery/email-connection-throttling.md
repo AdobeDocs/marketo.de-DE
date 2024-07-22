@@ -20,24 +20,24 @@ Durch die Einschränkung der E-Mail-Verbindung können Sales Connect-Administrat
 
 Wenn die Grenzwerte durchgängig überschritten werden, kann dies manchmal als verdächtiges Verhalten des Versandkanalanbieters betrachtet werden, das dazu führt, dass E-Mails fehlschlagen und manchmal sogar ein Konto deaktiviert wird.
 
-**Hinweise/Highlights**
+**Notizen/Highlights**
 
 * Automatisch aktiviert, sobald ein Benutzer eine Verbindung zu Gmail oder Exchange herstellt
 * Können angepasst werden, wenn Sie die Einstellungen der Empfehlung erhöhen oder verringern möchten, um Ihre Anforderungen zu erfüllen
 * Nur E-Mails, die über Gmail oder Exchange gesendet werden, werden beim benutzerdefinierten Versandkanal nicht gedrosselt
 * Die Funktion &quot;Einschränken der E-Mail-Verbindung&quot;stellt für jeden einzelnen Benutzer eine separate E-Mail-Adresse in die Warteschlange, da jeder Benutzer über eine eigene Verbindung mit seinem E-Mail-Anbieter verfügt
 
-**Konfigurieren der Einschränkungseinstellungen für E-Mail-Verbindungen**
+**Konfigurieren der Einstellungen für die Begrenzung der E-Mail-Verbindung**
 
-1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen**.
+1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
 
    ![](assets/email-connection-throttling-1.png)
 
-1. Klicken Sie unter &quot;Admin Settings&quot;auf **Allgemein**.
+1. Klicken Sie unter &quot;Admin Settings&quot;auf **General**.
 
    ![](assets/email-connection-throttling-2.png)
 
-1. Klicken Sie auf der Karte &quot;E-Mail-Verbindungs-Drosselung&quot;auf der rechten Seite auf das **Aktivieren der E-Mail-Einschränkung** festlegen.
+1. Klicken Sie auf der Karte E-Mail-Verbindungsbeschränkung auf der rechten Seite auf den Regler **E-Mail-Drosselung aktivieren** .
 
    ![](assets/email-connection-throttling-3.png)
 
@@ -65,7 +65,7 @@ Business/Enterprise
 * 30 pro Minute
 * 500 Empfänger pro E-Mail
 
-Weitere Informationen [finden Sie hier .](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits?redirectedfrom=MSDN#RecipientLimits).
+Weitere Informationen [finden Sie hier](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits?redirectedfrom=MSDN#RecipientLimits).
 
 **Gmail**
 
@@ -73,7 +73,7 @@ Weitere Informationen [finden Sie hier .](https://docs.microsoft.com/en-us/offic
 * 2 E-Mails pro Sekunde (API-Limit)
 * 2.000 Empfänger pro Nachricht (maximal 500 für externe Empfänger)
 
-Weitere Informationen [finden Sie hier .](https://support.google.com/a/answer/166852?hl=en).
+Weitere Informationen [finden Sie hier](https://support.google.com/a/answer/166852?hl=en).
 
 **Microsoft Exchange Server (2010, 2013)**
 

@@ -2,11 +2,11 @@
 description: OP-Data Management - Marketo-Dokumente - Produktdokumentation
 title: OP-Data Management
 feature: Programs
-exl-id: 21cd86b2-e924-4326-bbf7-32a03a3eb224
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: ac4a522b-37a7-4080-83d6-fbc2203a568b
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '323'
-ht-degree: 30%
+source-wordcount: '319'
+ht-degree: 26%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 30%
 
 Dies ist ein Beispiel für einen einfachen Workflow mit Best Practices für das Betriebsdatenmanagement, der ein Standardprogramm verwendet, um Ihnen bei der Verwaltung der Datenkonsistenz für Datensätze in Ihrer Marketo Engage-Datenbank zu helfen.
 
-Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalten Sie vom Adobe-Account-Team oder unter [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} Seite.
+Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Programms an das Adobe-Account-Team oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} .
 
 ## Kanal-Zusammenfassung {#channel-summary}
 
@@ -23,7 +23,7 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
   <tr> 
    <th>Kanal</th> 
    <th>Status der Mitgliedschaft</th>
-   <th>Analyseverhalten</th>
+   <th>Analytics Behavior</th>
    <th>Programmtyp</th>
   </tr> 
   <tr> 
@@ -35,7 +35,7 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
  </tbody> 
 </table>
 
-## Das Programm enthält die folgenden Assets {#program-contains-the-following-assets}
+## Das Programm enthält die folgende Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -87,7 +87,7 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
   <tr> 
    <td>Intelligente Kampagne</td> 
    <td> </td>
-   <td>Webinhalt</td>
+   <td>Web-Inhalt</td>
   </tr>
   <tr> 
    <td>Intelligente Kampagne</td> 
@@ -112,7 +112,7 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
   <tr> 
    <td>Intelligente Kampagne</td> 
    <td> </td>
-   <td>Neue Person aus der Online-Werbung</td>
+   <td>Neue Person aus Online Advertising</td>
   </tr>
   <tr> 
    <td>Intelligente Kampagne</td> 
@@ -137,17 +137,17 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
   <tr> 
    <td>Ordner</td> 
    <td> </td>
-   <td>Nächste Batch der Personenquelle (für Instanzen mit hohem Traffic)</td>
+   <td>Person Source Nightly Batch (für Instanzen mit hohem Traffic)</td>
   </tr>
   <tr> 
    <td>Ordner</td> 
    <td> </td>
-   <td>Personenquelle ausgelöst (bei Instanzen mit geringem Traffic)</td>
+   <td>Person Source ausgelöst (für Instanzen mit geringem Traffic)</td>
   </tr>
   <tr> 
    <td>Ordner</td> 
    <td> </td>
-   <td>Personenquelle erfassen</td>
+   <td>Person Source erfassen</td>
   </tr>
   <tr> 
    <td>Ordner</td> 
@@ -162,7 +162,7 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
   <tr> 
    <td>Ordner</td> 
    <td> </td>
-   <td>Blockierungsliste</td>
+   <td>Sperrliste</td>
   </tr>
  </tbody> 
 </table>
@@ -175,7 +175,7 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
    * Erstellen von Tags in diesem Abonnement - _Empfohlen_
    * Ignorieren
 
-* **Landingpage-Vorlage mit demselben Namen**
+* **Vorlage für Einstiegsseiten mit demselben Namen**
    * Originalvorlage kopieren - _Empfohlen_
    * Zielvorlage verwenden
 

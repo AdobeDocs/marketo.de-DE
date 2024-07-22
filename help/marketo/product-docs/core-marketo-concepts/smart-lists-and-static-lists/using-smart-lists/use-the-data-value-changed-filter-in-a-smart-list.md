@@ -19,20 +19,20 @@ Die Werte ändern sich ständig und werden in Ihrer Marketo-Datenbank aktualisie
 >
 >[Erstellen einer Smart-Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
 
-1. Navigieren Sie zu **[!UICONTROL Marketingaktivitäten]** Bereich.
+1. Wechseln Sie zum Bereich **[!UICONTROL Marketingaktivitäten]** .
 
    ![](assets/ma.png)
 
-1. Wählen Sie die Smart-Liste aus und klicken Sie auf **[!UICONTROL Smart List]** Registerkarte.
+1. Wählen Sie die Smart-Liste aus und klicken Sie auf die Registerkarte **[!UICONTROL Smart-Liste]** .
 
    ![](assets/two-1.png)
 
-1. Suchen Sie die **[!UICONTROL Datenwert geändert]** filtern und auf die Arbeitsfläche ziehen.
+1. Suchen Sie den Filter **[!UICONTROL Datenwert geändert]** und ziehen Sie ihn auf die Arbeitsfläche.
 
    ![](assets/three-1.png)
 
-1. Satz **[!UICONTROL Attribut]** in das Feld, in dem Sie nach Datenwertänderungen suchen möchten.
+1. Setzen Sie **[!UICONTROL Attribut]** auf das Feld, nach dem Sie nach Datenwertänderungen suchen möchten.
 
    ![](assets/four.png)
 
-Dieser Filter sucht nach allen Personen, die eine Änderung (eine beliebige Änderung) ihres Status vorgenommen haben. Wenn Sie noch fanatischer werden möchten, versuchen Sie es [Hinzufügen einer Einschränkung zu einem Filter für intelligente Listen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}.
+Dieser Filter sucht nach allen Personen, die eine Änderung (eine beliebige Änderung) ihres Status vorgenommen haben. Wenn Sie noch fanser werden möchten, versuchen Sie, [einem Filter mit der intelligenten Liste eine Beschränkung hinzuzufügen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}.

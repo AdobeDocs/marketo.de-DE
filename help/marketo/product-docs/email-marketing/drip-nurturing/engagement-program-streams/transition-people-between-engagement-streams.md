@@ -13,17 +13,17 @@ ht-degree: 1%
 
 # Übergang von Personen zwischen Interaktionsströmen {#transition-people-between-engagement-streams}
 
-Interaktionsprogramme können mehrere Streams aufweisen. Wenn Sie [Stream hinzufügen](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md), möchten Sie eine Möglichkeit definieren, wie Personen von einem Stream zum anderen wechseln können. Diese werden **Übergangsregeln.**
+Interaktionsprogramme können mehrere Streams aufweisen. Wenn Sie [einen Stream hinzufügen](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md), möchten Sie eine Möglichkeit definieren, wie Benutzer von einem Stream zum anderen wechseln können. Diese werden als **Übergangsregeln bezeichnet.**
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Wechseln Sie zu **Marketingaktivitäten**.
 
    ![](assets/ma.png)
 
-1. Wählen Sie Ihr Multi-Streaming-Interaktionsprogramm aus und navigieren Sie zu **Streams**.
+1. Wählen Sie Ihr Multi-Streaming-Interaktionsprogramm aus und gehen Sie zu **Streams**.
 
    ![](assets/multistream.jpg)
 
-1. Klicks **Übergangsregeln** für den Stream, in den Sie aus anderen Streams abrufen möchten, klicken Sie auf **Übergangsregeln bearbeiten**.
+1. Klicken Sie für den Stream, den Sie aus anderen Streams in abrufen möchten, auf **Übergangsregeln** und dann auf **Übergangsregeln bearbeiten**.
 
    ![](assets/image2014-9-15-18-3a10-3a18.png)
 
@@ -35,7 +35,7 @@ Interaktionsprogramme können mehrere Streams aufweisen. Wenn Sie [Stream hinzuf
 
    ![](assets/image2014-9-15-18-3a10-3a46.png)
 
-1. Setzen wir den Operator auf **ist** damit die Menschen für jede zusätzliche Gelegenheit umziehen.
+1. Setzen wir den Operator auf &quot;**ist beliebige**&quot;, damit die Personen bei jeder zusätzlichen Gelegenheit umziehen.
 
    ![](assets/image2014-9-15-18-3a11-3a14.png)
 
@@ -53,4 +53,4 @@ Interaktionsprogramme können mehrere Streams aufweisen. Wenn Sie [Stream hinzuf
 
    >[!NOTE]
    >
-   >Die oben beschriebenen Schritte *do* sich auf Personen beziehen, die [bei Pause](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md) sowie.
+   >Die oben beschriebenen Schritte *do* gelten auch für Personen, die [auf Pause](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md) sind.

@@ -21,7 +21,7 @@ Sie können die verschiedenen Elemente Ihres Programms in der Planungsansicht be
 
    ![](assets/image2014-9-18-18-3a1-3a36.png)
 
-1. Geben Sie einen neuen Namen ein und drücken Sie die Eingabetaste. **[!UICONTROL Eingabe/Rückgabe]** auf der Tastatur, um die Änderung zu bestätigen.
+1. Geben Sie einen neuen Namen ein und drücken Sie **[!UICONTROL Enter/Return]** auf der Tastatur, um die Änderung zu bestätigen.
 
    ![](assets/image2014-9-18-18-3a1-3a53.png)
 

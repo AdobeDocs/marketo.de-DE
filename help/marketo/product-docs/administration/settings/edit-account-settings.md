@@ -7,7 +7,7 @@ feature: Administration
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '48'
-ht-degree: 22%
+ht-degree: 12%
 
 ---
 
@@ -19,15 +19,15 @@ Muss die E-Mail-Adresse, den Namen oder die Telefonnummer des Kontos geändert w
 >
 >**Erforderliche Administratorberechtigungen**
 
-1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
+1. Wechseln Sie zum Bereich **[!UICONTROL Admin]** .
 
    ![](assets/edit-account-settings-1.png)
 
-1. Auswählen **[!UICONTROL Mein Konto]**.
+1. Wählen Sie **[!UICONTROL Mein Konto]** aus.
 
    ![](assets/edit-account-settings-2.png)
 
-1. Auswählen **[!UICONTROL Kontoeinstellungen bearbeiten]**.
+1. Wählen Sie **[!UICONTROL Kontoeinstellungen bearbeiten]** aus.
 
    ![](assets/edit-account-settings-3.png)
 

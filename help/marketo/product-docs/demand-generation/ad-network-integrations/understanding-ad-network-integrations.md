@@ -36,7 +36,7 @@ Zu den Funktionen gehören:
 
    * So sucht beispielsweise eine Person, sieht eine Anzeige, klickt darauf und füllt dann ein Formular online aus. Danach erhält er eine Offline-Demo und wird zu einer CRM-Chance. Hier wendet sich der Werber an ihn
 
-* Retargeting von Website-Besuchern mithilfe von [Web-Personalisierung](/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md){target="_blank"}, um sie zurück zu Ihrer Website zu führen
+* Retargeting von Website-Besuchern mithilfe von [Web Personalization](/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md){target="_blank"}, um sie zurück zu Ihrer Website zu führen
 
    * Personalisieren nach Segment oder Vertikal
 

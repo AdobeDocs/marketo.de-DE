@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Marketo hat das Verhalten der Abmeldefunktion verbessert, um sie &quot;dauerhaft&quot;zu machen. Wir haben einen Master-E-Mail-Status hinzugefügt, der sich von der Abmelde-Markierung unterscheidet, die auf dem Personendetaildatensatz angezeigt wird.
 
-Wenn das Abmelde-Flag von false auf true gesetzt ist, wird der Master-E-Mail-Status aktualisiert und die Änderung wird an andere Personen mit derselben E-Mail-Adresse weitergeleitet. Wenn eine Person entfernt und neu erstellt wird oder wenn ein neuer Datensatz mit derselben E-Mail-Adresse erstellt wird, wird das Abmelde-Flag **not** überschrieben werden.
+Wenn das Abmelde-Flag von false auf true gesetzt ist, wird der Master-E-Mail-Status aktualisiert und die Änderung wird an andere Personen mit derselben E-Mail-Adresse weitergeleitet. Wenn eine Person entfernt und neu erstellt wird oder ein neuer Datensatz mit derselben E-Mail-Adresse erstellt wird, wird das Abmelde-Flag **nicht** überschrieben.
 
 >[!NOTE]
 >
@@ -25,19 +25,19 @@ Wenn das Abmelde-Flag von false auf true gesetzt ist, wird der Master-E-Mail-Sta
 
 Es gibt mehrere Möglichkeiten, eine Person erneut anzumelden.
 
-In Salesforce **clear** das Feld E-Mail-Opt-out auf dem Datensatz des Leads/Kontakts. Dies wird mit Marketo synchronisiert.
+Löschen Sie in Salesforce das Feld &quot;E-Mail-Opt-out&quot;im Datensatz des Leads/Kontakts. **** Dies wird mit Marketo synchronisiert.
 
 ![](assets/one.png)
 
-In Marketo **clear** im Tab Informationen des Datensatzes der Person das Feld für die Abmeldung.
+Löschen Sie in Marketo **die abgemeldete Meldung auf der Registerkarte &quot;Info&quot;des Datensatzes der Person.**
 
 ![](assets/two.png)
 
-Führen Sie einen **Datenwert ändern** Flussschritt wie unten gezeigt für ein oder mehrere Personen.
+Führen Sie einen Flussschritt **Datenwert ändern** aus, wie unten für eine oder mehrere Personen dargestellt.
 
 ![](assets/three.png)
 
-Aktualisieren einer vorhandenen Person über die SOAP-API.
+Aktualisieren einer vorhandenen Person über SOAP API.
 
 ## Erstellen einer neuen Person {#creating-a-new-person}
 

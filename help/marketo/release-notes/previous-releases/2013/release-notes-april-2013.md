@@ -6,8 +6,8 @@ exl-id: 5b202877-b501-4cd2-9fe2-e8663dd5792f
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '208'
-ht-degree: 7%
+source-wordcount: '213'
+ht-degree: 3%
 
 ---
 
@@ -29,7 +29,7 @@ Wenn Sie Marketo Sales Insight sowie Gmail verwenden, können Sie unser neues Gm
 
 ## E-Mail-Analyse {#email-analysis}
 
-Erstellen Sie erweiterte E-Mail-Berichte in Revenue Explorer z. B. den Bericht &quot;Klick-Aktivitäts-Heattraster&quot;. Dieser Bericht gibt Aufschluss über den Tag und die Uhrzeit, zu der Benutzer auf Links in E-Mails klicken.
+Erstellen Sie erweiterte E-Mail-Berichte im Umsatz-Explorer, z. B. den Bericht &quot;Klickaktivität - Kopfzeilenraster&quot;. Dieser Bericht gibt Aufschluss über den Tag und die Uhrzeit, zu der Benutzer auf Links in E-Mails klicken.
 
 Die Funktion E-Mail-Analyse wird im April und Mai bei der Migration Ihrer E-Mail-Daten für 2012 und 2013 stufenweise aktiviert. Anders ausgedrückt: Einige Kunden werden eher auf diese Funktion zugreifen können als andere.
 
@@ -37,7 +37,7 @@ Die Funktion E-Mail-Analyse wird im April und Mai bei der Migration Ihrer E-Mail
 
 ## Programm-APIs {#program-apis}
 
-Unterstützung von Programmen im SOAP-API-Aufruf, einschließlich schreibgeschützter Zugriffsrechte auf Programmdaten wie: Anzahl der Programmmitgliedschaften, erworben von, Erfolg, Einstellungen, Kanäle, Tags, Token und Kosten. Weitere Informationen finden Sie in der Dokumentation zur SOAP-API .
+Unterstützung von Programmen im SOAP API-Aufruf, einschließlich schreibgeschützter Zugriffsrechte auf Programmdaten wie: Anzahl der Programmmitgliedschaften, erworben von, Erfolg, Einstellungen, Kanäle, Tags, Token und Kosten. Weitere Informationen finden Sie in der Dokumentation zur SOAP-API .
 
 ## ON24-Verbesserung {#on-enhancement}
 

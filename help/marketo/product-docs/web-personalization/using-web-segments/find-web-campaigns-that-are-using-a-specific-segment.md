@@ -19,14 +19,14 @@ Suchen Sie nach Web-Kampagnen, die ein bestimmtes Segment verwenden?
 
    ![](assets/new-dropdown-segments-hand-1.jpg)
 
-1. Suchen Sie nach einer **Segment**. Wählen Sie die **Segmentname**. Klicken Sie im rechten Fensterbereich auf **Zugeordnete Kampagnen** um die Kampagnen anzuzeigen, die mit diesem spezifischen Segment verknüpft sind.
+1. Suchen Sie nach einem **Segment**. Wählen Sie den **Segmentnamen** aus. Klicken Sie im rechten Bereich auf **Zugeordnete Kampagnen** , um die Kampagnen anzuzeigen, die diesem bestimmten Segment zugeordnet sind.
 
    ![](assets/image2014-11-26-14-21-59.png)
 
-1. Anzeigen der **Kampagnen** mit dem ausgewählten Segment verknüpft ist.
+1. Zeigen Sie die **Kampagnen** an, die mit dem ausgewählten Segment verknüpft sind.
 
    ![](assets/image2014-11-26-14-3a25-3a30.png)
 
 >[!MORELIKETHIS]
 >
->Weitere Informationen [Segmente](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) und wie [Basissegment erstellen](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md).
+>Erfahren Sie mehr über [Segmente](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) und wie Sie [ein einfaches Segment erstellen](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md).

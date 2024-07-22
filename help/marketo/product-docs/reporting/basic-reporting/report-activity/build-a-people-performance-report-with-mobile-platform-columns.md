@@ -6,7 +6,7 @@ exl-id: 93fb6cb4-a6ca-4b35-b8bf-c6657eb9343b
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -17,19 +17,19 @@ Führen Sie diese Schritte aus, um einen Bericht zur Leistung für Personen mit 
 
 ## Erstellen mobiler Smart-Listen {#create-mobile-smart-lists}
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Wechseln Sie zu **Marketingaktivitäten**.
 
    ![](assets/ma.png)
 
-1. Wählen Sie ein Programm aus.
+1. Wählen Sie ein Programm.
 
    ![](assets/two-1.png)
 
-1. under **Neu** auswählen **Neues lokales Asset**.
+1. Wählen Sie unter &quot;**Neu**&quot;die Option &quot;**Neues lokales Asset**&quot;.
 
    ![](assets/three-1.png)
 
-1. Klicken **Smart List**.
+1. Klicken Sie auf **Smart List**.
 
    ![](assets/four-1.png)
 
@@ -41,11 +41,11 @@ Führen Sie diese Schritte aus, um einen Bericht zur Leistung für Personen mit 
 
    ![](assets/six-1.png)
 
-1. E-Mail festlegen auf **ist**.
+1. Setzen Sie E-Mail auf &quot;**ist beliebig**&quot;.
 
    ![](assets/seven.png)
 
-1. Klicken Sie auf **Beschränkung hinzufügen** und wählen Sie **Plattform**.
+1. Klicken Sie auf **Beschränkung hinzufügen** und wählen Sie **Plattform** aus.
 
    ![](assets/eight.png)
 
@@ -53,7 +53,7 @@ Führen Sie diese Schritte aus, um einen Bericht zur Leistung für Personen mit 
    >
    >In diesem Beispiel haben wir den Filter Geöffnete E-Mail verwendet. Sie können auch den Filter &quot;Angeklickte E-Mail&quot;verwenden, da er die Platform-Beschränkung aufweist.
 
-1. Platform auf **iOS**.
+1. Setzen Sie Platform auf **iOS**.
 
    ![](assets/nine.png)
 
@@ -61,23 +61,23 @@ Führen Sie diese Schritte aus, um einen Bericht zur Leistung für Personen mit 
    >
    >Mindestens eine Person muss eine Ihrer E-Mails auf einem iOS-Gerät geöffnet haben, damit Marketo sie automatisch finden kann. Wenn sie nicht angezeigt wird, können Sie sie manuell eingeben und speichern.
 
-   Erstellen Sie nun eine zweite Smart-Liste für die &quot;Android&quot;-Plattform. Fahren Sie nach Abschluss des Vorgangs mit dem nächsten Abschnitt fort.
+   Erstellen Sie nun eine zweite Smart-Liste für die Plattform &quot;Android&quot;. Fahren Sie nach Abschluss des Vorgangs mit dem nächsten Abschnitt fort.
 
-## Erstellen eines Personenleistungsberichts {#create-a-people-performance-report}
+## Erstellen eines Berichts zur Leistung von Personen {#create-a-people-performance-report}
 
-1. Wählen Sie unter Marketingaktivitäten das Programm aus, in dem Ihre **iOS** und **Android** Smart-Listen.
+1. Wählen Sie unter Marketingaktivitäten das Programm aus, in dem Ihre Smart-Listen **iOS** und **Android** enthalten sind.
 
    ![](assets/ten.png)
 
-1. under **Neu** auswählen **Neues lokales Asset**.
+1. Wählen Sie unter &quot;**Neu**&quot;die Option &quot;**Neues lokales Asset**&quot;.
 
    ![](assets/eleven.png)
 
-1. Klicken **Bericht**.
+1. Klicken Sie auf **Bericht**.
 
    ![](assets/twelve.png)
 
-1. Typ einstellen auf **Personenleistung**.
+1. Setzen Sie den Typ auf **Leistung von Personen**.
 
    ![](assets/thirteen.png)
 
@@ -89,7 +89,7 @@ Führen Sie diese Schritte aus, um einen Bericht zur Leistung für Personen mit 
 
 ## Mobile Smart-Listen als Spalten hinzufügen {#add-mobile-smart-lists-as-columns}
 
-1. Klicken Sie im soeben erstellten Bericht auf **Einrichtung**, dann ziehen **Benutzerdefinierte Spalten** in die Arbeitsfläche.
+1. Klicken Sie im soeben erstellten Bericht auf **Einrichtung** und ziehen Sie dann **Benutzerdefinierte Spalten** auf die Arbeitsfläche.
 
    ![](assets/fifteen.png)
 
@@ -101,8 +101,8 @@ Führen Sie diese Schritte aus, um einen Bericht zur Leistung für Personen mit 
 
    ![](assets/sixteen.png)
 
-1. Klicken **Bericht** um den Bericht auszuführen und Ihre Daten anzuzeigen.
+1. Klicken Sie auf **Bericht** , um den Bericht auszuführen und Ihre Daten anzuzeigen.
 
    ![](assets/seventeen.png)
 
-   Ziemlich cool, nicht wahr? Gut gemacht!
+   Ziemlich cool, nicht wahr? Schön gemacht!

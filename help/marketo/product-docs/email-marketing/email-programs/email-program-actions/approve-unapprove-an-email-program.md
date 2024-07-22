@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359462
-description: Genehmigen/Aufheben der Genehmigung eines E-Mail-Programms - Marketo-Dokumente - Produktdokumentation
+description: E-Mail-Programm genehmigen/nicht genehmigen - Marketo-Dokumente - Produktdokumentation
 title: Genehmigen/Aufheben der Genehmigung eines E-Mail-Programms
 exl-id: 0bfb1306-7a98-4629-9264-63cfd5d6a690
 feature: Email Programs
@@ -18,15 +18,15 @@ ht-degree: 0%
 >* [E-Mail-Programm erstellen](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 >* [Definieren einer Zielgruppe mit einer Smart-Liste](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) oder [Definieren einer Zielgruppe durch Importieren einer Liste](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 >
->* [Vorhandene E-Mail auswählen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) oder [E-Mail für ein E-Mail-Programm erstellen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>* [Wählen Sie eine vorhandene E-Mail aus](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) oder [Erstellen einer E-Mail für ein E-Mail-Programm](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 >
->* [E-Mail-Programm planen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
+>* [Planen Ihres E-Mail-Programms](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
 
 ## E-Mail-Programm genehmigen {#approve-your-email-program}
 
 Jetzt, da Ihr Programm bereit ist zu gehen, besteht der letzte Schritt darin, es zu genehmigen. Gehen Sie wie folgt vor:
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Wechseln Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -37,7 +37,7 @@ Jetzt, da Ihr Programm bereit ist zu gehen, besteht der letzte Schritt darin, es
    >
    >Wenn Sie Ihr E-Mail-Programm nicht validieren, wird die E-Mail nicht gesendet.
 
-1. Unter dem **Genehmigung** Kachel los, klicken Sie auf **Programm genehmigen**.
+1. Klicken Sie unter der Kachel **Genehmigung** auf **Programm genehmigen**.
 
    ![](assets/image2014-9-12-13-3a43-3a36.png)
 
@@ -49,11 +49,11 @@ Jetzt, da Ihr Programm bereit ist zu gehen, besteht der letzte Schritt darin, es
 
    ![](assets/image2014-9-12-13-3a43-3a56.png)
 
-## Aufheben der Genehmigung Ihres E-Mail-Programms {#unapprove-your-email-program}
+## E-Mail-Programm deaktivieren {#unapprove-your-email-program}
 
 Wenn Sie Ihre Meinung ändern und entscheiden, dass Sie nicht wollen, dass es ausgeht, können Sie die Genehmigung des E-Mail-Programms aufheben.
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Wechseln Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -61,7 +61,7 @@ Wenn Sie Ihre Meinung ändern und entscheiden, dass Sie nicht wollen, dass es au
 
    ![](assets/selectemailprogram-2.jpg)
 
-1. Unter dem **Genehmigung** Kachel, klicken Sie einfach auf **Programm nicht genehmigen**.
+1. Klicken Sie unter der Kachel **Genehmigung** einfach auf **Programm nicht genehmigen**.
 
    ![](assets/image2014-9-12-13-3a44-3a28.png)
 

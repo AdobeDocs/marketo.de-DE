@@ -7,7 +7,7 @@ feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '119'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -15,31 +15,31 @@ ht-degree: 0%
 
 So richten Sie Massenaktionen in Salesforce Lightning ein.
 
-1. Klicken Sie in Salesforce auf das Symbol Einrichtung und wählen Sie **Einrichtung**.
+1. Klicken Sie in Salesforce auf das Symbol &quot;Einrichtung&quot;und wählen Sie **Einrichtung** aus.
 
    ![](assets/bulk-actions-in-salesforce-lightning-1.png)
 
-1. Klicken Sie auf **Object Manager** Registerkarte.
+1. Klicken Sie auf die Registerkarte **Objektmanager**.
 
    ![](assets/bulk-actions-in-salesforce-lightning-2.png)
 
-1. Suchen und Auswählen **Lead** Beschriftung.
+1. Suchen und wählen Sie die Bezeichnung **Lead** aus.
 
    ![](assets/bulk-actions-in-salesforce-lightning-3.png)
 
-1. Klicks **Suchlayouts für Salesforce Classic**.
+1. Klicken Sie auf **Layouts für Salesforce Classic durchsuchen**.
 
    ![](assets/bulk-actions-in-salesforce-lightning-4.png)
 
-   Suchen Sie das Layout Listenansicht . Klicken Sie auf das Dropdown-Menü rechts und wählen Sie **Bearbeiten**.
+   Suchen Sie das Layout Listenansicht . Klicken Sie auf das Dropdown-Menü rechts und wählen Sie **Bearbeiten** aus.
 
    ![](assets/bulk-actions-in-salesforce-lightning-5.png)
 
-1. Suchen und wählen Sie unter &quot;Benutzerdefinierte Schaltflächen&quot; **Zu Marketo Campaign hinzufügen (Blitzen)** und **Marketo-E-Mail senden (Blitzen)**. Klicken Sie auf **Hinzufügen** Schaltfläche.
+1. Wählen Sie unter &quot;Benutzerdefinierte Schaltflächen&quot;die Optionen **Zu Marketo Campaign hinzufügen (Blitzen)** und **Marketo-E-Mail senden (Blitzen)** aus. Klicken Sie auf die Schaltfläche **Hinzufügen** .
 
    ![](assets/bulk-actions-in-salesforce-lightning-6.png)
 
-1. Klicks **Speichern**.
+1. Klicken Sie auf **Speichern**.
 
    ![](assets/bulk-actions-in-salesforce-lightning-7.png)
 

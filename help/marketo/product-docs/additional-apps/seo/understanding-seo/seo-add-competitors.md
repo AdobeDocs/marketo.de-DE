@@ -7,7 +7,7 @@ feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '74'
-ht-degree: 6%
+ht-degree: 0%
 
 ---
 
@@ -19,19 +19,19 @@ Durch das Hinzufügen von Konkurrenten können Sie verfolgen, wie sie bei densel
 >
 >**Erforderliche Administratorberechtigungen**
 
-1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
+1. Wechseln Sie zum Bereich **[!UICONTROL Admin]** .
 
    ![](assets/image2014-9-17-21-3a12-3a15.png)
 
-1. Klicken Sie auf **[!UICONTROL Wettbewerber]** Registerkarte.
+1. Klicken Sie auf die Registerkarte **[!UICONTROL Konkurrenten]**.
 
    ![](assets/image2014-9-17-21-3a12-3a31.png)
 
-1. Klicks **[!UICONTROL Konkurrenten hinzufügen]**.
+1. Klicken Sie auf **[!UICONTROL Konkurrenten hinzufügen]**.
 
    ![](assets/image2014-9-17-21-3a12-3a38.png)
 
-1. Geben Sie im Feld **[!UICONTROL Name]** und **[!UICONTROL URL]** Ihres Konkurrenten.
+1. Geben Sie den **[!UICONTROL Namen]** und den **[!UICONTROL URL]** Ihres Konkurrenten ein.
 
    ![](assets/image2014-9-17-21-3a13-3a5.png)
 

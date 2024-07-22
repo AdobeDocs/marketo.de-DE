@@ -6,14 +6,14 @@ exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
 feature: Integrations
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '227'
 ht-degree: 0%
 
 ---
 
 # Importieren von Assets mit Adobe Experience Manager {#importing-assets-with-adobe-experience-manager}
 
-Mit der Asset-Auswahl können Marketo-Kunden auf AEM Assets zugreifen, sie auswählen und in die Marketo importieren [!DNL Design Studio]. **Administratorberechtigungen sind erforderlich**.
+Mit der Asset-Auswahl können Marketo-Kunden auf AEM Assets zugreifen, sie auswählen und in die Marketo importieren. [!DNL Design Studio] **Administratorberechtigungen sind erforderlich**.
 
 >[!AVAILABILITY]
 >
@@ -21,17 +21,17 @@ Mit der Asset-Auswahl können Marketo-Kunden auf AEM Assets zugreifen, sie ausw�
 
 >[!PREREQUISITES]
 >
->Vergewissern Sie sich, dass Sie die [AEM](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md).
+>Stellen Sie sicher, dass Sie die [AEM Konfiguration](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md) bereits ausgeführt haben.
 
 >[!IMPORTANT]
 >
->Diese Funktion wird derzeit nur vollständig unterstützt in [!DNL Firefox]. Es wird nicht unterstützt in [!DNL Safari], und es funktioniert möglicherweise nicht in der neuesten Version von [!DNL Chrome], abhängig von Ihrer [!DNL SameSite] Cookie-Einstellungen.
+>Diese Funktion wird derzeit nur in [!DNL Firefox] vollständig unterstützt. Sie wird in [!DNL Safari] nicht unterstützt und funktioniert möglicherweise nicht in der neuesten Version von [!DNL Chrome], je nach Ihren [!DNL SameSite] -Cookie-Einstellungen.
 
-1. Klicken **[!UICONTROL Design Studio]**.
+1. Klicken Sie auf **[!UICONTROL Design Studio]**.
 
    ![](assets/importing-assets-with-adobe-experience-manager-1.png)
 
-1. Klicken Sie auf die Dropdownliste Neu und wählen Sie **[!UICONTROL Import aus Adobe Experience Manager]**.
+1. Klicken Sie auf die Dropdownliste Neu und wählen Sie **[!UICONTROL Import aus Adobe Experience Manager]** aus.
 
    ![](assets/importing-assets-with-adobe-experience-manager-2.png)
 
@@ -43,7 +43,7 @@ Mit der Asset-Auswahl können Marketo-Kunden auf AEM Assets zugreifen, sie ausw�
 
    ![](assets/importing-assets-with-adobe-experience-manager-4.png)
 
-1. Wählen Sie Ihren Ordner aus. Wählen Sie dann die gewünschten Bilder aus, indem Sie auf die Miniaturansicht klicken (Sie können bis zu 10 wählen). Klicken **[!UICONTROL Auswählen]** wann geschehen.
+1. Wählen Sie Ihren Ordner aus. Wählen Sie dann die gewünschten Bilder aus, indem Sie auf die Miniaturansicht klicken (Sie können bis zu 10 wählen). Klicken Sie abschließend auf **[!UICONTROL Auswählen]** .
 
    ![](assets/importing-assets-with-adobe-experience-manager-5.png)
 
@@ -51,11 +51,11 @@ Mit der Asset-Auswahl können Marketo-Kunden auf AEM Assets zugreifen, sie ausw�
    >
    >Die Größe von Bildern darf 100 MB nicht überschreiten.
 
-1. Klicken **[!UICONTROL Import]** , um den Prozess abzuschließen.
+1. Klicken Sie auf **[!UICONTROL Importieren]** , um den Vorgang abzuschließen.
 
    ![](assets/importing-assets-with-adobe-experience-manager-6.png)
 
-   Und das ist es! Klicken **[!UICONTROL Schließen]** , um zu Design Studio zurückzukehren.
+   Und das ist es! Klicken Sie auf **[!UICONTROL Schließen]** , um zum Design Studio zurückzukehren.
 
    ![](assets/importing-assets-with-adobe-experience-manager-7.png)
 
@@ -65,4 +65,4 @@ Mit der Asset-Auswahl können Marketo-Kunden auf AEM Assets zugreifen, sie ausw�
 
 * Alle Benutzer in Ihrer Instanz können die von Ihnen importierten Bilder anzeigen/aufrufen.
 
-* Bilder werden nicht automatisch aktualisiert. Wenn ein in Marketo importiertes Bild [!DNL Design Studio] in AEM aktualisiert wurde, müssen Sie sie manuell erneut in Marketo importieren.
+* Bilder werden nicht automatisch aktualisiert. Wenn ein in Marketo [!DNL Design Studio] importiertes Bild in AEM aktualisiert wird, müssen Sie es manuell erneut in Marketo importieren.

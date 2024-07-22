@@ -7,19 +7,19 @@ feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '115'
-ht-degree: 7%
+ht-degree: 0%
 
 ---
 
 # Sichtbarkeit einer Kampagne für Benutzer von Sales Connect {#make-a-campaign-visible-to-sales-connect-users}
 
-Kampagnen können nur freigegeben werden, wenn sie sichtbar gemacht werden. Hier ist, wie man das macht.
+Kampagnen können nur freigegeben werden, wenn sie sichtbar gemacht werden. Hier ist, wie das geht.
 
 1. Wählen Sie die Kampagne aus (oder erstellen Sie sie), die Sie freigeben möchten.
 
    ![](assets/one.png)
 
-1. Klicken Sie auf die Registerkarte **“Intelligente Liste“**.
+1. Klicken Sie auf die Registerkarte **Smart List** .
 
    ![](assets/two.png)
 
@@ -27,11 +27,11 @@ Kampagnen können nur freigegeben werden, wenn sie sichtbar gemacht werden. Hier
 
    ![](assets/three.png)
 
-1. Wählen Sie für die Quelle &quot;is&quot; **Web Service-API**.
+1. Wählen Sie als Quelle &quot;is&quot; **Web Service API**.
 
    ![](assets/4.png)
 
-1. Klicken Sie auf die Registerkarte **“Flow“**.
+1. Klicken Sie auf die Registerkarte **Fluss**.
 
    ![](assets/five.png)
 
@@ -39,7 +39,7 @@ Kampagnen können nur freigegeben werden, wenn sie sichtbar gemacht werden. Hier
 
    ![](assets/six.png)
 
-1. Wählen Sie für Typ die Option **Web**.
+1. Wählen Sie als Typ &quot;**Web**&quot;.
 
    ![](assets/seven.png)
 
@@ -47,6 +47,6 @@ Kampagnen können nur freigegeben werden, wenn sie sichtbar gemacht werden. Hier
 
    ![](assets/eight.png)
 
-1. Klicken Sie auf **Zeitplan** Registerkarte und **Aktivieren** die Kampagne.
+1. Klicken Sie auf die Registerkarte **Plan** und aktivieren Sie die Kampagne. **Aktivieren Sie**
 
    ![](assets/nine.png)

@@ -2,7 +2,8 @@
 description: SMS-Glossar - Marketo-Dokumente - Produktdokumentation
 title: SMS-Glossar
 feature: Mobile Marketing
-source-git-commit: efaf34e8113fc6364655ff01aa788aa62bdd31af
+exl-id: 0c23ca9f-f994-42ae-bd72-7d37289b7a94
+source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
 workflow-type: tm+mt
 source-wordcount: '734'
 ht-degree: 1%
@@ -39,7 +40,7 @@ Im Folgenden finden Sie einige häufig verwendete Begriffe, auf die Sie bei der 
   </tr>
   <tr>
     <td>Benutzerdefinierte kurze Domäne</td>
-    <td>Wenn Sie den Link-Shortener "Vibes"verwenden, wird die gekürzte URL standardmäßig unter der kurzen URL "Vibes"angezeigt: https://vbs.cm/xxxxxx. Eine benutzerdefinierte kurze Domäne ist eine Domäne, die für Ihre Marke eindeutig ist. <a href="https://developer-platform.vibes.com/docs/creating-a-custom-short-domain">Weitere Informationen zu benutzerdefinierten kurzen Domänen</a>.<p>
+    <td>Wenn Sie den Link-Shortener "Vibes"verwenden, wird die gekürzte URL standardmäßig unter der kurzen URL "Vibes"angezeigt: https://vbs.cm/xxxxxx. Eine benutzerdefinierte kurze Domäne ist eine Domäne, die für Ihre Marke eindeutig ist. <a href="https://developer-platform.vibes.com/docs/creating-a-custom-short-domain">Erfahren Sie mehr über benutzerdefinierte kurze Domänen</a>.<p>
     Dies gilt nur für Nachrichten, die von der Vibes-Plattform gesendet werden, insbesondere Akquise-Kampagnennachrichten und Standardnachrichten mit Kurzwahlnummern.<p>
     Es wird empfohlen, den Marketo-URL-Shortener zu verwenden, um Klickdaten in Ihrem Marketo-Programm zu haben.</td>
   </tr>
@@ -57,7 +58,7 @@ Im Folgenden finden Sie einige häufig verwendete Begriffe, auf die Sie bei der 
   </tr>
   <tr>
     <td>Veranstaltung</td>
-    <td>Ein Ereignis ist ein definiertes Ereignis, das an die Vibes-Plattform gesendet und zum Trigger API-gesteuerter Aktionen verwendet werden kann, einschließlich Nachrichtensendungen. Jedes Ereignis enthält ereignisspezifische Daten, einschließlich event_type, mit denen bestimmt wird, welcher API-ausgelösten Nachrichtenkampagne es entspricht. Die Ereignis-API kann über Webhook in Marketo Engage ausgelöst werden. Erfahren Sie mehr über unsere <a href="https://developer-platform.vibes.com/reference/event-api">Ereignis-API-Referenz</a>.</td>
+    <td>Ein Ereignis ist ein definiertes Ereignis, das an die Vibes-Plattform gesendet und zum Trigger API-gesteuerter Aktionen verwendet werden kann, einschließlich Nachrichtensendungen. Jedes Ereignis enthält ereignisspezifische Daten, einschließlich event_type, mit denen bestimmt wird, welcher API-ausgelösten Nachrichtenkampagne es entspricht. Die Ereignis-API kann über Webhook in Marketo Engage ausgelöst werden. Weitere Informationen finden Sie in der <a href="https://developer-platform.vibes.com/reference/event-api">Ereignis-API-Referenz</a>.</td>
   </tr>
   <tr>
     <td>Keyword</td>
@@ -81,7 +82,7 @@ Im Folgenden finden Sie einige häufig verwendete Begriffe, auf die Sie bei der 
   </tr>
   <tr>
     <td>Personenaufzeichnung</td>
-    <td>Ein Personendatensatz ist eine Sammlung von Daten für eine bestimmte Mobiltelefonnummer. Jedem Personendatensatz wird auch ein eindeutiger person_key zur Identifizierung zugewiesen. Marketo-IDs werden über das Feld external_person_id mit Vibes verknüpft. Weitere Informationen zu Personendatensätzen finden Sie unter <a href="https://developer-platform.vibes.com/reference/person-api">Dokumentation zur Vibes Person API</a>.</td>
+    <td>Ein Personendatensatz ist eine Sammlung von Daten für eine bestimmte Mobiltelefonnummer. Jedem Personendatensatz wird auch ein eindeutiger person_key zur Identifizierung zugewiesen. Marketo-IDs werden über das Feld external_person_id mit Vibes verknüpft. Weitere Informationen zu Personendatensätzen finden Sie in der Dokumentation zur Personen-API </a> von <a href="https://developer-platform.vibes.com/reference/person-api">Vibes Person.</td>
   </tr>
   <tr>
     <td>Kurzwahlnummer</td>
@@ -101,7 +102,7 @@ Im Folgenden finden Sie einige häufig verwendete Begriffe, auf die Sie bei der 
   </tr>
   <tr>
     <td>Vibes Platform</td>
-    <td>Die Website, bei der Sie sich zur Verwaltung Ihrer Kampagnen anmelden. Navigieren Sie zu <a href="https://nexus.us.vibes.com/">https://nexus.us.vibes.com/</a> , um auf die Vibes-Plattform zuzugreifen.</td>
+    <td>Die Website, bei der Sie sich zur Verwaltung Ihrer Kampagnen anmelden. Rufen Sie <a href="https://nexus.us.vibes.com/">https://nexus.us.vibes.com/</a> auf, um auf die Plattform "Vibes"zuzugreifen.</td>
   </tr>
 </tbody>
 </table>

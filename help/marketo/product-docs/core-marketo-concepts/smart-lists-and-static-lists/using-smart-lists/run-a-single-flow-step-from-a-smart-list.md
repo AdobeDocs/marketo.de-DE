@@ -7,7 +7,7 @@ feature: Smart Lists
 source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
 workflow-type: tm+mt
 source-wordcount: '234'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -19,11 +19,11 @@ Wenn Sie einen einmaligen Flussschritt ausführen möchten, können Sie einen ei
 >
 >[Erstellen einer Smart-Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
 
-1. Navigieren Sie zu **[!UICONTROL Marketingaktivitäten]**.
+1. Wechseln Sie zu **[!UICONTROL Marketingaktivitäten]**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Wählen Sie eine Liste oder Smart-Liste mit Personen darin aus und navigieren Sie dann zum **[!UICONTROL Personen]** Registerkarte.
+1. Wählen Sie eine Liste oder Smart-Liste mit Personen darin aus und gehen Sie dann zur Registerkarte **[!UICONTROL Personen]** .
 
    ![](assets/smartlistpeopletab-hands.png)
 
@@ -31,27 +31,27 @@ Wenn Sie einen einmaligen Flussschritt ausführen möchten, können Sie einen ei
    >
    >Sowohl statische Listen als auch Smart-Listen verfügen über diese Funktion.
 
-1. Klicks **[!UICONTROL Alle auswählen]**. Sie können auch **Strg/Befehl** und klicken Sie auf , um einige Datensätze manuell auszuwählen.
+1. Klicken Sie auf **[!UICONTROL Alle auswählen]**. Sie können auch **Strg/Befehl** verwenden und auf klicken, um einige Datensätze manuell auszuwählen.
 
    ![](assets/smartlist-selectallhand.png)
 
    >[!NOTE]
    >
-   >Wenn sich die Ergebnisse über mehrere Seiten erstrecken, klicken Sie auf **[!UICONTROL Alle auswählen]** werden alle Personen auf allen Seiten ausgewählt.
+   >Wenn sich die Ergebnisse über mehrere Seiten erstrecken, werden durch Klicken auf **[!UICONTROL Alle auswählen]** alle Personen auf allen Seiten ausgewählt.
 
-1. under **[!UICONTROL Personenaktionen]** wählen Sie den gewünschten Flussschritt aus. In diesem Beispiel verwenden wir [Datenwert ändern](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}.
+1. Wählen Sie unter &quot;**[!UICONTROL Personen-Aktionen]**&quot;den Flussschritt Ihrer Wahl aus. In diesem Beispiel verwenden wir [Datenwert ändern](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}.
 
    ![](assets/personactions-hands.png)
 
-1. Suchen und Auswählen einer **[!UICONTROL Attribut]**. In diesem Beispiel nehmen wir alle Personen mit dem Status &quot;Kalifornien&quot;und ändern es in &quot;CA&quot;.
+1. Suchen und wählen Sie ein **[!UICONTROL Attribut]** aus. In diesem Beispiel nehmen wir alle Personen mit dem Status &quot;Kalifornien&quot;und ändern es in &quot;CA&quot;.
 
    ![](assets/runaction-hands.png)
 
-1. Neuen Wert eingeben. Klicks **[!UICONTROL Jetzt ausführen]**.
+1. Geben Sie einen neuen Wert ein. Klicken Sie auf **[!UICONTROL Jetzt ausführen]**.
 
    ![](assets/runactionnewvalue-hands.png)
 
-1. Wenn Sie Datenwerte für eine große Anzahl von Personen ändern, müssen Sie die Änderung möglicherweise bestätigen, indem Sie die Zahl eingeben. Klicks **[!UICONTROL Los]**.
+1. Wenn Sie Datenwerte für eine große Anzahl von Personen ändern, müssen Sie die Änderung möglicherweise bestätigen, indem Sie die Zahl eingeben. Klicken Sie auf &quot;**[!UICONTROL Go for It]**&quot;.
 
    ![](assets/changedatavalue.jpg)
 

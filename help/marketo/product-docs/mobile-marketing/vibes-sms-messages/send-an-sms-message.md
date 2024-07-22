@@ -2,7 +2,8 @@
 description: SMS senden - Marketo Docs - Produktdokumentation
 title: SMS-Nachricht senden
 feature: Mobile Marketing
-source-git-commit: 5e2d1979abcafd8e4a37e55b843be932125c954e
+exl-id: 2c863ded-f441-4217-9541-6dcc442d9831
+source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
 workflow-type: tm+mt
 source-wordcount: '321'
 ht-degree: 0%
@@ -11,7 +12,7 @@ ht-degree: 0%
 
 # SMS-Nachricht senden {#send-a-vibes-sms-message}
 
-Du hast [SMS erstellt haben](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}, jetzt ist es Zeit, es zu senden. Sie können sie über Batch oder Trigger Campaign versenden.
+Sie haben [Ihre SMS-Nachricht erstellt](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}, jetzt ist es an der Zeit, sie zu senden. Sie können sie über Batch oder Trigger Campaign versenden.
 
 >[!NOTE]
 >
@@ -31,11 +32,11 @@ Du hast [SMS erstellt haben](/help/marketo/product-docs/mobile-marketing/vibes-s
 
    ![](assets/send-an-sms-message-2.png)
 
-1. Klicken Sie auf **Smart List** und definieren Sie die Audience für die SMS. In diesem Beispiel senden wir an alle Benutzer in unserer Datenbank, deren Firma &quot;Adobe&quot;ist.
+1. Klicken Sie auf die Registerkarte **Smart List** und definieren Sie die Zielgruppe für die SMS. In diesem Beispiel senden wir an alle Benutzer in unserer Datenbank, deren Firma &quot;Adobe&quot;ist.
 
    ![](assets/send-an-sms-message-3.png)
 
-1. Im **Fluss** Registerkarte, ziehen **SMS-Nachricht senden**. Wählen Sie aus den Dropdown-Listen die gewünschte Liste für SMS-Nachrichten und Besuche aus.
+1. Ziehen Sie auf der Registerkarte **Fluss** den Mauszeiger über **SMS-Nachricht senden**. Wählen Sie aus den Dropdown-Listen die gewünschte Liste für SMS-Nachrichten und Besuche aus.
 
    ![](assets/send-an-sms-message-4.png)
 
@@ -43,7 +44,7 @@ Du hast [SMS erstellt haben](/help/marketo/product-docs/mobile-marketing/vibes-s
    >
    >Der Wähler &quot;Besuchsliste&quot;dient als weiterer Filter für die bereits in der Smart-Liste identifizierte Zielgruppe, sodass nur Personen in die Liste aufgenommen werden, die zu dieser Vibes-Liste gehören.
 
-1. Klicken Sie auf **Zeitplan** und planen Sie Ihre SMS.
+1. Klicken Sie auf den Tab **Planung** und planen Sie Ihre SMS.
 
    ![](assets/send-an-sms-message-5.png)
 
@@ -57,11 +58,11 @@ Du hast [SMS erstellt haben](/help/marketo/product-docs/mobile-marketing/vibes-s
 
    ![](assets/send-an-sms-message-7.png)
 
-1. Klicken Sie auf **Smart List** wählen Sie den gewünschten Trigger aus und legen Sie dessen Wert fest. In diesem Beispiel verwenden wir **Formular ausfüllen**.
+1. Klicken Sie auf die Registerkarte **Smart List** , wählen Sie den gewünschten Trigger aus und definieren Sie dessen Wert. In diesem Beispiel verwenden wir **Formular ausfüllen**.
 
    ![](assets/send-an-sms-message-8.png)
 
-1. Im **Fluss** Registerkarte, ziehen **SMS-Nachricht senden**. Wählen Sie aus den Dropdown-Listen die gewünschte Liste für SMS-Nachrichten und Besuche aus.
+1. Ziehen Sie auf der Registerkarte **Fluss** den Mauszeiger über **SMS-Nachricht senden**. Wählen Sie aus den Dropdown-Listen die gewünschte Liste für SMS-Nachrichten und Besuche aus.
 
    ![](assets/send-an-sms-message-9.png)
 
@@ -69,11 +70,11 @@ Du hast [SMS erstellt haben](/help/marketo/product-docs/mobile-marketing/vibes-s
    >
    >Der Wähler &quot;Besuchsliste&quot;dient als weiterer Filter für die bereits in der Smart-Liste identifizierte Zielgruppe, sodass nur Personen in die Liste aufgenommen werden, die zu dieser Vibes-Liste gehören.
 
-1. Klicken Sie auf **Zeitplan** tab, dann **Aktivieren**.
+1. Klicken Sie auf die Registerkarte **Plan** und dann auf **Aktivieren**.
 
    ![](assets/send-an-sms-message-10.png)
 
 >[!MORELIKETHIS]
 >
->* [Erstellen einer Vibes-Nachricht](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}
+>* [Erstellen einer Videomeldung](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}
 >* [Verwenden von SMS-Optionen in einer Smart-Kampagne](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md){target="_blank"}

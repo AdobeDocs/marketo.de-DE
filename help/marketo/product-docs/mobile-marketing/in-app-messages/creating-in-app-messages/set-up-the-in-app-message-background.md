@@ -6,7 +6,7 @@ exl-id: 0cb10432-5611-4efe-a605-9a5a57f1bc7c
 feature: Mobile Marketing
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '303'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Die Auswahl eines Nachrichtenhintergrunds ist ein wichtiger Schritt beim Fertigs
 
    ![](assets/image2016-5-9-8-3a38-3a1.png)
 
-1. Um eine Farbe festzulegen, klicken Sie auf **Farbe**, dann das Farbauswahlquadrat. Wählen Sie die Farbe aus, indem Sie darauf klicken oder die Hex- oder RGB-Codes in die Farbauswahl eingeben.
+1. Um eine Farbe festzulegen, klicken Sie auf **Farbe** und dann auf das Farbauswahlquadrat. Wählen Sie die Farbe aus, indem Sie darauf klicken oder die Hex- oder RGB-Codes in die Farbauswahl eingeben.
 
    ![](assets/image2016-5-9-8-3a46-3a59.png)
 
@@ -31,11 +31,11 @@ Die Auswahl eines Nachrichtenhintergrunds ist ein wichtiger Schritt beim Fertigs
    >
    >Nur weiß, die Standardeinstellung, ist normalerweise ein Gewinner.
 
-1. Wenn Sie einen Hintergrund verwenden möchten, klicken Sie auf **Bild** und dann **Bild auswählen** -Link.
+1. Wenn Sie einen Hintergrund verwenden möchten, klicken Sie auf **Bild** und dann auf den Link **Bild auswählen** .
 
    ![](assets/image2016-5-9-8-3a52-3a43.png)
 
-1. Wählen Sie aus den in das Design Studio hochgeladenen Dateien aus. Klicks **Auswählen**.
+1. Wählen Sie aus den in das Design Studio hochgeladenen Dateien aus. Klicken Sie auf **Select**.
 
    ![](assets/image2016-5-9-9-3a0-3a2.png)
 
@@ -65,12 +65,12 @@ Die Auswahl eines Nachrichtenhintergrunds ist ein wichtiger Schritt beim Fertigs
 
    >[!NOTE]
    >
-   >Für Tippen-Aktionen für Hintergründe können Sie verschiedene Aktionen für Apple- und Android-Plattformen einrichten. Deep-Links werden beispielsweise für Apple und Android unterschiedlich gehandhabt. Wenn Ihre Nachricht nur eine Plattform besucht, bleibt die andere in der Standardeinstellung oder wählen Sie **Keines**.
+   >Für Tippen-Aktionen für Hintergründe können Sie verschiedene Aktionen für Apple- und Android-Plattformen einrichten. Deep-Links werden beispielsweise für Apple und Android unterschiedlich gehandhabt. Wenn Ihre Nachricht nur auf die eine oder die andere Plattform gesendet wird, lassen Sie die andere Plattform in der Standardeinstellung oder wählen Sie **Keine** aus.
 
-   Um den Auftrag abzuschließen, müssen Sie als letzten Schritt [Einrichten der Schaltfläche &quot;Verwerfen&quot;](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-dismiss-button-and-approve-the-message.md).
+   Um den Auftrag abzuschließen, müssen Sie als letzten Schritt [die Schaltfläche &quot;Beenden&quot;](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-dismiss-button-and-approve-the-message.md) einrichten.
 
    >[!MORELIKETHIS]
    >
-   >* [In-App-Nachrichten verstehen](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+   >* [Grundlegendes zu In-App-Nachrichten](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
    >* [In-App-Nachricht senden](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md)
-   >* [Auswählen eines Layouts für Ihre In-App-Nachricht](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
+   >* [Layout für Ihre In-App-Nachricht auswählen](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)

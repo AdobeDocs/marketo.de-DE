@@ -6,7 +6,7 @@ exl-id: c81da5ef-11ec-4015-a820-691fa314f369
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '309'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Diese Version beinhaltet hoch erwartete, integrierte soziale Funktionen und Lead-Management-Strategien! Hinweis: Social-Funktionen sind als Add-on oder als Teil ausgewählter Bundles verfügbar.
 
-## Veröffentlichen eines YouTube-Videos mit Social Sharing {#publish-a-youtube-video-with-social-sharing}
+## Publish - YouTube-Video mit Social Sharing {#publish-a-youtube-video-with-social-sharing}
 
 Mithilfe der neuen Videofreigabe auf Ihren Landingpages können Sie die Zielgruppe für Ihre Videos erweitern, indem Sie Ihre Besucher dazu anregen, diese in sozialen Netzwerken zu teilen.
 
@@ -33,7 +33,7 @@ Gewinnen Sie Einblicke und verringern Sie Reibungen, indem Sie es Leads ermögli
 
 ![](assets/image2014-9-23-10-3a40-3a2.png)
 
-## Veröffentlichen von Landingpages in Facebook {#publish-landing-pages-to-facebook}
+## Publish-Einstiegsseiten in Facebook {#publish-landing-pages-to-facebook}
 
 Erweitern Sie die Reichweite Ihrer Landingpages, indem Sie sie direkt in Facebook veröffentlichen, einschließlich sozialer Apps, Formularen und der vollständigen Funktionalität der Landingpages von Marketo.
 

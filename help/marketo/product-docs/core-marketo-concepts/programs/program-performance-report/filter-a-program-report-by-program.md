@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Filtern eines Programmberichts nach Programm {#filter-a-program-report-by-program}
 
-Fokus [Programmvollzugsbericht](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"} über spezifische Programme, um ihre Leistung zu vergleichen.
+Konzentrieren Sie Ihren [Leistungsbericht des Programms](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"} auf bestimmte Programme, um ihre Leistung zu vergleichen.
 
-1. Navigieren Sie zu **[!UICONTROL Marketingaktivitäten]** (oder **[!UICONTROL Analytics]**).
+1. Wechseln Sie zu **[!UICONTROL Marketingaktivitäten]** (oder **[!UICONTROL Analytics]**).
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -23,7 +23,7 @@ Fokus [Programmvollzugsbericht](/help/marketo/product-docs/core-marketo-concepts
 
    ![](assets/image2014-9-23-16-3a4-3a4.png)
 
-1. Klicken Sie auf **[!UICONTROL Einrichtung]** Registerkarte und ziehen Sie darüber **[!UICONTROL Programme]**.
+1. Klicken Sie auf die Registerkarte **[!UICONTROL Einrichtung]** und ziehen Sie über **[!UICONTROL Programme]**.
 
    ![](assets/prospect3.jpg)
 
@@ -35,7 +35,7 @@ Fokus [Programmvollzugsbericht](/help/marketo/product-docs/core-marketo-concepts
    >
    >Wenn Sie einen Ordner auswählen, enthält der Bericht alle Elemente, die der Ordner zum Zeitpunkt der Ausführung des Berichts enthält.
 
-1. Das ist alles! Klicken Sie auf **[!UICONTROL Bericht]** Registerkarte anzuzeigen _just_ die in Ihrem Bericht ausgewählten Programme.
+1. Das ist alles! Klicken Sie auf die Registerkarte **[!UICONTROL Bericht]** , um _nur_ die ausgewählten Programme in Ihrem Bericht anzuzeigen.
 
    ![](assets/image2014-9-23-16-3a5-3a41.png)
 

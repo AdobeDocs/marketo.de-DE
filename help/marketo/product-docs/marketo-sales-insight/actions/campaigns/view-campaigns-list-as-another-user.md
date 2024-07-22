@@ -22,7 +22,7 @@ Als Administrator können Sie Kampagnen wie beliebige Benutzer anzeigen.
 
    ![](assets/view-campaigns-list-as-another-user-1.png)
 
-1. Klicken Sie auf **Anzeigen als** und wählen Sie den gewünschten Benutzer aus.
+1. Klicken Sie auf die Dropdownliste **Anzeigen als** und wählen Sie den gewünschten Benutzer aus.
 
    ![](assets/view-campaigns-list-as-another-user-2.png)
 

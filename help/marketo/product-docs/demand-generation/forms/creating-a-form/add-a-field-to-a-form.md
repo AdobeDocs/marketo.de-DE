@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Feld zu einem Formular hinzufügen {#add-a-field-to-a-form}
 
-Sobald du [das Formular erstellt hat](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) und [Design ausgewählt hat](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md)können Sie zusätzliche Felder hinzufügen, die ausgefüllt werden sollen. So geht es.
+Nachdem Sie [Ihr Formular erstellt haben](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) und [ein Design ausgewählt haben](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md), können Sie zusätzliche Felder hinzufügen, die ausgefüllt werden sollen. So geht es.
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Wechseln Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -23,7 +23,7 @@ Sobald du [das Formular erstellt hat](/help/marketo/product-docs/demand-generati
 
    ![](assets/editform-1.png)
 
-1. Klicken Sie auf **+** signieren.
+1. Klicken Sie auf das Zeichen **+**.
 
    ![](assets/image2014-9-15-17-18-17.png)
 
@@ -39,7 +39,7 @@ Sobald du [das Formular erstellt hat](/help/marketo/product-docs/demand-generati
 
    ![](assets/image2014-9-15-17-3a18-3a35.png)
 
-1. Jetzt klicken **Genehmigen und schließen**.
+1. Klicken Sie nun auf **Genehmigen und schließen**.
 
    ![](assets/image2014-9-15-17-3a18-3a43.png)
 
@@ -47,4 +47,4 @@ Sobald du [das Formular erstellt hat](/help/marketo/product-docs/demand-generati
 >
 >Achten Sie darauf, alle Landingpage-Entwürfe zu genehmigen, die aufgrund der Formularänderungen erstellt wurden.
 
-Ganz und gar nicht schlecht. Bleiben Sie bei der guten Arbeit! Erfahren Sie mehr über [Formularfeld erforderlich machen](/help/marketo/product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md) als Nächstes?
+Ganz und gar nicht schlecht. Bleiben Sie bei der guten Arbeit! Wie wäre es, wenn wir als Nächstes [ein Formularfeld als Pflichtfeld ](/help/marketo/product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md) festlegen?

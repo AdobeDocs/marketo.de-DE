@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Wenn Sie eine Social-App erstellen, können Sie einen Link zur Datenschutzrichtlinie Ihres Unternehmens hinzufügen.
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Wechseln Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities-4.png)
 
@@ -39,4 +39,4 @@ Wenn Sie eine Social-App erstellen, können Sie einen Link zur Datenschutzrichtl
 
    ![](assets/image2014-9-22-10-3a52-3a16.png)
 
-Als Nächstes können Sie [Konfigurieren des Social-Anmeldungs- und Freigabeflusses](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-recommend-flow.md) Ihrer App.
+Als Nächstes können Sie [den Social-Anmeldungs- und Freigabefluss](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-recommend-flow.md) Ihrer App konfigurieren.

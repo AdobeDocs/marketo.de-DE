@@ -2,11 +2,11 @@
 description: OP-Akquise-API - Marketo-Dokumente - Produktdokumentation
 title: OP-Akquise-API
 feature: Programs
-exl-id: 1d6ec686-af0b-46a9-b428-1520b671ca24
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: abf7c4a0-c363-4e92-9a1f-197c3953c515
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
 source-wordcount: '171'
-ht-degree: 27%
+ht-degree: 19%
 
 ---
 
@@ -21,7 +21,7 @@ Dieses Beispielprogramm dient zur Verfolgung der Akquise von Datensätzen aus AP
   <tr> 
    <th>Kanal</th> 
    <th>Status der Mitgliedschaft</th>
-   <th>Analyseverhalten</th>
+   <th>Analytics Behavior</th>
    <th>Programmtyp</th>
   </tr> 
   <tr> 
@@ -33,7 +33,7 @@ Dieses Beispielprogramm dient zur Verfolgung der Akquise von Datensätzen aus AP
  </tbody> 
 </table>
 
-## Das Programm enthält die folgenden Assets {#program-contains-the-following-assets}
+## Das Programm enthält die folgende Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -68,7 +68,7 @@ Dieses Beispielprogramm dient zur Verfolgung der Akquise von Datensätzen aus AP
    * Erstellen von Tags in diesem Abonnement - _Empfohlen_
    * Ignorieren
 
-* **Landingpage-Vorlage mit demselben Namen**
+* **Vorlage für Einstiegsseiten mit demselben Namen**
    * Originalvorlage kopieren - _Empfohlen_
    * Zielvorlage verwenden
 

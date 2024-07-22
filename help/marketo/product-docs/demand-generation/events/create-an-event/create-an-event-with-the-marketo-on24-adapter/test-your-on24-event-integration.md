@@ -18,22 +18,22 @@ Stellen Sie sicher, dass Sie Ihre Ereignisintegration gründlich testen.
 ## Empfohlene Testsequenz vor Ausführung der ersten Kampagne {#recommended-test-sequence-before-running-your-first-campaign}
 
 1. Füllen Sie das Registrierungsformular des Ereignisses aus und verwenden Sie eine gültige E-Mail-Adresse zum Testen.
-1. Bestätigen Sie, dass der Testname mit einer **Angemeldet** Status in der Mitgliederliste Ihres Marketo-Ereignisses.
-1. Bestätigen Sie, dass der Testname auch als **Angemeldet** in ON24.
+1. Vergewissern Sie sich, dass der Testname im Mitgliedschaftsraster Ihres Marketo-Ereignisses mit dem Status **Registered** angezeigt wird.
+1. Bestätigen Sie, dass der Testname in ON24 auch als **Registered** angezeigt wird.
 1. Vergewissern Sie sich, dass die gültige E-Mail-Adresse, die Sie zur Registrierung des Testnamens verwendet haben, eine Bestätigungs-E-Mail an das Ereignis erhalten hat und dass die eindeutige URL in der E-Mail aufgelöst wurde.
 
    >[!NOTE]
    >
-   >Sie müssen die `{{member.webinar url}}` Token in Ihrer Bestätigungs-E-Mail, damit die eindeutige URL in der E-Mail jedes Registrierenden angezeigt wird.
+   >Sie müssen das `{{member.webinar url}}` -Token in Ihrer Bestätigungs-E-Mail verwenden, damit die eindeutige URL in der E-Mail jedes Registrierungspflichtigen angezeigt wird.
 
 ## Nach dem Ereignis {#after-the-event}
 
 So werden Daten aktualisiert, nachdem das Ereignis stattgefunden hat:
 
 * Marketo ruft täglich Teilnehmerdaten von ON24 ab.
-* Nachdem die Teilnehmerdaten zwischen Marketo und ON24 synchronisiert wurden, aktualisiert Marketo den Mitgliedschaftsstatus auf &quot;Teilnehmer&quot;, &quot;Abonniert On-Demand&quot;oder &quot;Keine Anzeige&quot;. Im Ereignis **Zusammenfassung** auf, wird der Ereignisstatus auf **Event Complete**.
+* Nachdem die Teilnehmerdaten zwischen Marketo und ON24 synchronisiert wurden, aktualisiert Marketo den Mitgliedschaftsstatus auf &quot;Teilnehmer&quot;, &quot;Abonniert On-Demand&quot;oder &quot;Keine Anzeige&quot;. Auf der Registerkarte **Zusammenfassung** des Ereignisses wird der Ereignisstatus auf **Event Complete** aktualisiert.
 
 >[!MORELIKETHIS]
 >
->* [Beispiel für eine ON24-Ereignisintegration](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md){target="_blank"}
+>* [Beispiel für ON24-Ereignisintegration](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md){target="_blank"}
 >* [Grundlegendes zu Marketo ON24-Adapterereignissen](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}

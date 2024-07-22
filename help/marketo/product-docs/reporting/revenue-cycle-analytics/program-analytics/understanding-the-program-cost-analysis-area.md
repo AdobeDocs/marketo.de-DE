@@ -41,7 +41,7 @@ Wie viel habe ich pro Programm pro Monat ausgegeben?
 
 ## Investition {#investment}
 
-| Maßnahme | Beschreibung |
+| Messung | Beschreibung |
 |---|---|
 | Kosten pro Mitglied | Durchschnittliche Kosten pro Programmteilnehmer |
 | Kosten pro neuem Namen | Durchschnittliche Kosten pro durch das Programm erworbenem Lead |
@@ -54,7 +54,7 @@ Wie viel habe ich pro Programm pro Monat ausgegeben?
 <table> 
  <tbody> 
   <tr> 
-   <th>Maßnahme</th> 
+   <th>Messung</th> 
    <th>Beschreibung</th> 
   </tr> 
   <tr> 
@@ -89,7 +89,7 @@ Wie viel habe ich pro Programm pro Monat ausgegeben?
 
 ## Programm-Tags {#program-tags}
 
-| Maßnahme | Beschreibung |
+| Messung | Beschreibung |
 |---|---|
 | Branche | Programm-Tag |
 | Produktlinie | Programm-Tag |
@@ -98,7 +98,7 @@ Wie viel habe ich pro Programm pro Monat ausgegeben?
 
 ## Erfolg {#success}
 
-| Maßnahme | Beschreibung |
+| Messung | Beschreibung |
 |---|---|
 | Erfolg in % (Neue Namen) | Prozentsatz der Leads, die durch das Programm erworben wurden UND im Fortgang des Programms erfolgreich waren |
 | % Erfolg (Summe) | Prozentsatz der Leads, die im Verlauf eines Programms erfolgreich waren |

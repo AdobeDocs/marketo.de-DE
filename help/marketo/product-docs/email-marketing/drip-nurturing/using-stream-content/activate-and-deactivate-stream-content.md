@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359669
-description: Aktivieren und Deaktivieren von Stream-Inhalten - Marketo-Dokumente - Produktdokumentation
+description: Stream-Inhalte aktivieren und deaktivieren - Marketo-Dokumente - Produktdokumentation
 title: Aktivieren und Deaktivieren von Stream-Inhalten
 exl-id: cd5acec0-13aa-491e-b4ee-1db3d66a5056
 feature: Engagement Programs
@@ -17,15 +17,15 @@ Streaminhalt ist standardmäßig DEAKTIVIERT. Aktivieren Sie Inhalte, um sie wä
 
 ## Stream-Inhalt aktivieren {#activate-stream-content}
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Wechseln Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Wählen Sie Ihr Interaktionsprogramm aus und klicken Sie auf **Streams** Registerkarte.
+1. Wählen Sie Ihr Interaktionsprogramm aus und klicken Sie auf die Registerkarte **Streams** .
 
    ![](assets/cloneasteam.jpg)
 
-1. Bewegen Sie den Mauszeiger über den Inhalt, den Sie aktivieren möchten, klicken Sie auf das Zahnradsymbol und klicken Sie dann auf **Aktivieren**.
+1. Bewegen Sie den Mauszeiger über den Inhalt, den Sie aktivieren möchten, klicken Sie auf das Zahnradsymbol und dann auf **Aktivieren**.
 
    >[!NOTE]
    >
@@ -35,16 +35,16 @@ Streaminhalt ist standardmäßig DEAKTIVIERT. Aktivieren Sie Inhalte, um sie wä
 
    >[!TIP]
    >
-   >Sie können auch alle Inhalte in einem Stream aktivieren, indem Sie auf das Zahnradsymbol auf der obersten Ebene klicken und dann auf **Alle Inhalte aktivieren**.
+   >Sie können auch alle Inhalte in einem Stream aktivieren, indem Sie auf das Zahnradsymbol auf der obersten Ebene klicken und dann auf **Alle Inhalte aktivieren** klicken.
 
    Gut gemacht! Jetzt wissen Sie, wie Sie Inhalte in Ihren Streams aktivieren können.
 
 ## Stream-Inhalte deaktivieren {#deactivate-stream-content}
 
-1. Wählen Sie Ihr Interaktionsprogramm aus und klicken Sie auf **Streams** Registerkarte.
+1. Wählen Sie Ihr Interaktionsprogramm aus und klicken Sie auf die Registerkarte **Streams** .
 
    ![](assets/cloneasteam.jpg)
 
-1. Bewegen Sie den Mauszeiger über den Inhalt, den Sie deaktivieren möchten, klicken Sie auf das Zahnradsymbol und klicken Sie dann auf **Deaktivieren**.
+1. Bewegen Sie den Mauszeiger über den Inhalt, den Sie deaktivieren möchten, klicken Sie auf das Zahnradsymbol und dann auf **Deaktivieren**.
 
    ![](assets/image2014-9-15-16-3a34-3a25.png)

@@ -6,18 +6,18 @@ exl-id: 7f1a22bc-56d8-4ebf-be15-fa1b46e37928
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '135'
 ht-degree: 2%
 
 ---
 
-# Versionshinweise: Mai 2013 {#release-notes-may}
+# Mai 2013 - Versionshinweise {#release-notes-may}
 
 Die folgenden Funktionen sind in der Mai-Version enthalten.
 
 ## Kalenderdateien für Einstiegsseiten {#calendar-files-for-landing-pages}
 
-Erstellen Sie eine Kalenderdatei als My Token , die Sie Ihrer Landingpage hinzufügen können. Diese integrierte Kalenderdatei (z. B. .ics-Datei) werden alle Token gerendert, einschließlich My Tokens auf den Landingpages lokaler Assets.
+Erstellen Sie eine Kalenderdatei als My Token , die Sie Ihrer Landingpage hinzufügen können. Diese integrierte Kalenderdatei (z. B. .ics-Datei) rendert alle Token, einschließlich My Tokens auf Landingpages lokaler Assets.
 
 ![](assets/image2014-9-22-16-3a3-3a18.png)
 

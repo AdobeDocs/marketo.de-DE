@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Formularfeld erforderlich machen {#make-a-form-field-required}
 
-Wann [Felder zu einem Formular hinzufügen](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md) Sie können einige von ihnen erforderlich machen, um die Person, die sie ausfüllt. So geht es.
+Wenn Sie [ Felder zu einem Formular hinzufügen](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md), sollten Sie einige davon für die Person, die sie ausfüllt, erforderlich machen. So geht es.
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Wechseln Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities-4.png)
 
@@ -27,16 +27,16 @@ Wann [Felder zu einem Formular hinzufügen](/help/marketo/product-docs/demand-ge
 
    ![](assets/image2014-9-15-17-3a30-3a44.png)
 
-1. Schön gemacht! Klicks **Beenden**.
+1. Schön gemacht! Klicken Sie auf **Beenden**.
 
    ![](assets/image2014-9-15-17-3a30-3a58.png)
 
-1. Klicks **Genehmigen und schließen**.
+1. Klicken Sie auf **Genehmigen und schließen**.
 
    ![](assets/image2014-9-15-17-3a31-3a11.png)
 
 >[!NOTE]
 >
->Vergiss nicht, [Landingpages validieren](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) Dieses Formular wird verwendet, damit die Änderungen live geschaltet werden.
+>Vergessen Sie nicht, [alle Landingpages zu genehmigen](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md), auf denen dieses Formular gespeichert ist, damit die Änderungen live geschaltet werden.
 
-Müssen Sie [die Felder neu anzuordnen, die Sie dem Formular hinzugefügt haben](/help/marketo/product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md)?
+Müssen Sie die Felder, die Sie Ihrem Formular hinzugefügt haben, um ](/help/marketo/product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md) neu anordnen?[

@@ -6,8 +6,8 @@ exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '490'
-ht-degree: 5%
+source-wordcount: '500'
+ht-degree: 4%
 
 ---
 
@@ -23,13 +23,13 @@ In diesem Tutorial erfahren Sie, wie Sie Personen aus einer Tabellendatei in Mar
 
 ## Schritt 1: Herunterladen und Bearbeiten einer Tabelle {#step-download-and-edit-a-spreadsheet}
 
-1. Laden Sie zunächst unsere Übungs-Tabellendatei ([**tradeshow-attendes.csv**](/help/marketo/getting-started/assets/tradeshow-attendees.csv){target="_blank"}) auf Ihren Computer.
+1. Laden Sie zunächst unsere Übungsdatei ([**tradeshow-attendes.csv**](/help/marketo/getting-started/assets/tradeshow-attendees.csv){target="_blank"}) auf Ihren Computer herunter.
 
    ![](assets/import-a-list-of-people-1.png)
 
    >[!NOTE]
    >
-   >Verwenden Sie beim Import eines Datums folgendes Format: **21.09.20** (Monat/Tag/Jahr).
+   >Verwenden Sie beim Import eines Datums folgendes Format: **9/21/20** (Monat/Tag/Jahr).
 
    >[!NOTE]
    >
@@ -41,45 +41,45 @@ In diesem Tutorial erfahren Sie, wie Sie Personen aus einer Tabellendatei in Mar
 
    >[!CAUTION]
    >
-   >Marketo **not** unterstützen E-Mail-Adressen, die Emojis enthalten.
+   >Marketo unterstützt **nicht** E-Mail-Adressen, die Emojis enthalten.
 
 ## Schritt 2: Programm erstellen {#step-create-a-program}
 
-1. Navigieren Sie zu **[!UICONTROL Marketingaktivitäten]** Bereich.
+1. Wechseln Sie zum Bereich **[!UICONTROL Marketingaktivitäten]** .
 
    ![](assets/import-a-list-of-people-3.png)
 
-1. Wählen Sie **Lernen** Ordner, dann unter **[!UICONTROL Neu]** click **[!UICONTROL Neues Programm]**.
+1. Wählen Sie Ihren Ordner **Lernen** aus und klicken Sie unter **[!UICONTROL Neu]** auf **[!UICONTROL Neues Programm]**.
 
    ![](assets/import-a-list-of-people-4.png)
 
-1. **Name** das Programm &quot;My Tradeshow Program&quot; und wählen Sie &quot;Event&quot; für die **[!UICONTROL Programmtyp]**.
+1. **Name** das Programm &quot;My Tradeshow Program&quot;und wählen Sie &quot;Event&quot;für den **[!UICONTROL Programmtyp]** aus.
 
    ![](assets/import-a-list-of-people-5.png)
 
-1. Auswählen **[!UICONTROL Messen]** für die **[!UICONTROL Kanal]** und klicken **[!UICONTROL Erstellen]**.
+1. Wählen Sie **[!UICONTROL Tradeshow]** für den Kanal **[!UICONTROL 3} aus und klicken Sie auf**[!UICONTROL  Erstellen ]**.]**
 
    ![](assets/import-a-list-of-people-6.png)
 
 >[!NOTE]
 >
->Ereignisprogramme treten an bestimmten Daten auf. Weitere Informationen [**Veranstaltungen**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md){target="_blank"}.
+>Ereignisprogramme treten an bestimmten Daten auf. Erfahren Sie mehr über [**Ereignisse**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md){target="_blank"}.
 
 ## Schritt 3: Importieren Ihrer Tabelle in Marketo {#step-import-your-spreadsheet-into-marketo}
 
-1. In **Eigenes Schulungsprogramm** klicken **[!UICONTROL Neu]** und wählen **[!UICONTROL Neues lokales Asset]**.
+1. Klicken Sie in **My Tradeshow Program** auf **[!UICONTROL New]** und wählen Sie **[!UICONTROL New Local Asset]**.
 
    ![](assets/import-a-list-of-people-7.png)
 
-1. Auswählen **[!UICONTROL Liste]**.
+1. Wählen Sie **[!UICONTROL Liste]** aus.
 
    ![](assets/import-a-list-of-people-8.png)
 
-1. **Name** die Liste &quot;Messen - Teilnehmer&quot;und klicken Sie auf **[!UICONTROL Erstellen]**.
+1. **Name** die Liste &quot;Messen, wie Teilnehmer&quot;und klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/import-a-list-of-people-9.png)
 
-1. In der **[!UICONTROL Messebesucher]** Liste, klicken Sie **[!UICONTROL Aktionen auflisten]** und wählen **[!UICONTROL Importliste]**.
+1. Klicken Sie in der Liste **[!UICONTROL Messebesuche]** auf **[!UICONTROL Listenaktionen]** und wählen Sie **[!UICONTROL Importliste]** aus.
 
    ![](assets/import-a-list-of-people-10.png)
 
@@ -91,31 +91,31 @@ In diesem Tutorial erfahren Sie, wie Sie Personen aus einer Tabellendatei in Mar
    >
    >Die maximale Größe für CSV-Dateien beträgt 100 MB.
 
-1. **[!UICONTROL Durchsuchen]** der **tradeshow-attendes.csv** Tabellendatei auf Ihrem Computer und klicken Sie auf **[!UICONTROL Nächste]**.
+1. **[!UICONTROL Durchsuchen Sie]** die Tabellendatei **tradeshow-attendes.csv** auf Ihrem Computer und klicken Sie auf **[!UICONTROL Weiter]**.
 
    ![](assets/import-a-list-of-people-11.png)
 
    >[!NOTE]
    >
-   >Wählen Sie im Listenimportmodus die Option **[!UICONTROL Neue Personen und Updates überspringen]** bedeutet, dass Sie keine Auswirkungen auf vorhandene Personendatensätze oder Aktivitäten protokollieren. Verwenden Sie diesen Modus, wenn Sie eine schnelle, vorgefilterte statische Liste vorhandener Personen zur Verwendung in Ihren Marketing-Aktivitäten wünschen. Durch Auswahl dieses Modus wird Folgendes ausgeführt:
+   >Wenn Sie im Listenimportmodus die Option **[!UICONTROL Neue Personen und Updates überspringen]** auswählen, haben Sie keine Auswirkungen auf vorhandene Personendatensätze und protokollieren keine Aktivitäten. Verwenden Sie diesen Modus, wenn Sie eine schnelle, vorgefilterte statische Liste vorhandener Personen zur Verwendung in Ihren Marketing-Aktivitäten wünschen. Durch Auswahl dieses Modus wird Folgendes ausgeführt:
    >
    > * Neue Personenerstellung überspringen
    > * Personen-Feldaktualisierungen überspringen
    > * Aktivitätsprotokollierung überspringen
 
-1. Ordnen Sie [!UICONTROL Listenspalte] Felder zum entsprechenden Marketo-Feld hinzu und klicken Sie auf **[!UICONTROL Nächste]**.
+1. Ordnen Sie Ihre Felder für die [!UICONTROL Listenspalte] ihrem jeweiligen Marketo-Feld zu und klicken Sie auf **[!UICONTROL Weiter]**.
 
    ![](assets/import-a-list-of-people-12.png)
 
    >[!TIP]
    >
-   >Spaltenüberschriften sollten immer genau mit dem Feld übereinstimmen (Groß-/Kleinschreibung beachten), um die besten Ergebnisse für die automatische Zuordnung zu erzielen. Wenn Sie benutzerdefinierte Felder verwenden und sie nicht in der Dropdown-Liste sehen, gehen Sie zurück und [erstellen](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"} sodass sie zu Optionen werden können.
+   >Spaltenüberschriften sollten immer genau mit dem Feld übereinstimmen (Groß-/Kleinschreibung beachten), um die besten Ergebnisse für die automatische Zuordnung zu erzielen. Wenn Sie benutzerdefinierte Felder verwenden und sie nicht in der Dropdown-Liste sehen, gehen Sie zurück und [erstellen Sie sie](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"} , damit sie Optionen werden können.
 
    >[!NOTE]
    >
-   >Wenn es Felder gibt, die Sie nicht importieren möchten, wählen Sie **Ignorieren** im Dropdown-Menü Marketo-Feld.
+   >Wenn es Felder gibt, die Sie nicht importieren möchten, wählen Sie im Dropdown-Menü Marketo-Feld die Option **Ignorieren** aus.
 
-1. Auswählen **Eigenes Schulungsprogramm** für die **[!UICONTROL Akquiseprogramm]** Klicken Sie auf **[!UICONTROL Import]**.
+1. Wählen Sie **My Tradeshow Program** für das **[!UICONTROL Akquise-Programm]** und klicken Sie dann auf **[!UICONTROL Import]**.
 
    ![](assets/import-a-list-of-people-13.png)
 
@@ -123,13 +123,13 @@ In diesem Tutorial erfahren Sie, wie Sie Personen aus einer Tabellendatei in Mar
 
    ![](assets/import-a-list-of-people-14.png)
 
-1. Zurück in **Eigenes Schulungsprogramm**, klicken Sie auf die **[!UICONTROL Mitglieder]** Registerkarte. Du wirst alle Leute sehen, die du gerade importiert hast.
+1. Klicken Sie in **My Tradeshow Program** auf die Registerkarte **[!UICONTROL Members]** . Du wirst alle Leute sehen, die du gerade importiert hast.
 
    ![](assets/import-a-list-of-people-15.png)
 
 >[!NOTE]
 >
->Sie können den Erfolg Ihres Programms analysieren, indem Sie die Mitgliedschaft im Programm verfolgen. Weitere Informationen [**Programme**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target="_blank"}.
+>Sie können den Erfolg Ihres Programms analysieren, indem Sie die Mitgliedschaft im Programm verfolgen. Erfahren Sie mehr über [**Programme**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target="_blank"}.
 
 ## Aufgabe abgeschlossen {#mission-complete}
 
@@ -139,4 +139,4 @@ Ihre Messeteilnehmer sind nun Mitglieder Ihres Marketo-Programms!
 
 [Auftrag 4: Automatische E-Mail-Antwort](/help/marketo/getting-started/quick-wins/email-auto-response.md)
 
-[Aufgabe 6: Schrittweises Lead-Nurturing ►](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
+[Mission 6: Drip, Drip, Nurture ►](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)

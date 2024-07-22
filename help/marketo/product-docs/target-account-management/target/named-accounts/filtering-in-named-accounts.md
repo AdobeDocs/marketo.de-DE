@@ -6,7 +6,7 @@ exl-id: 4592ff5e-e2bf-408c-b213-e582110b83e4
 feature: Target Account Management
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
@@ -25,17 +25,17 @@ Das Filtern eignet sich hervorragend, um Daten schnell einzugrenzen.
 
    >[!NOTE]
    >
-   >Es gibt mehrere Suchparameter-Kombinationen. In diesem Beispiel suchen wir: _Branche = Bankwesen, Land = USA, Max. Mitarbeiter = 10000_.
+   >Es gibt mehrere Suchparameter-Kombinationen. In diesem Beispiel finden wir: _Branche = Banking, Land = USA, Max. Mitarbeiter = 10000_.
 
-1. Klicken Sie auf **Branche** und wählen Sie **Bankwesen**.
+1. Klicken Sie auf das Dropdown-Menü **Branche** und wählen Sie **Banking** aus.
 
    ![](assets/filter-2.png)
 
-1. Klicken Sie auf **Land** und wählen Sie **Vereinigte Staaten**.
+1. Klicken Sie auf die Dropdownliste **Land** und wählen Sie **USA** aus.
 
    ![](assets/filter-3.png)
 
-1. under **Arbeitnehmerinnen**, geben Sie &quot;0&quot;in die **Min** -Feld, &quot;10000&quot;im **Max** und klicken Sie auf **Anwenden**.
+1. Geben Sie unter &quot;**Employees**&quot;0 in das Feld **Min** ein, &quot;10000&quot;in das Feld **Max** und klicken Sie dann auf **Apply**.
 
    ![](assets/four-2.png)
 
@@ -43,4 +43,4 @@ Das Filtern eignet sich hervorragend, um Daten schnell einzugrenzen.
 
    >[!NOTE]
    >
-   >Um weitere Filter hinzuzufügen, aus denen Sie auswählen können, klicken Sie auf **Filter hinzufügen** unten links im Formular.
+   >Um weitere Filter hinzuzufügen, aus denen Sie auswählen können, klicken Sie unten links im Formular auf **Filter hinzufügen** .

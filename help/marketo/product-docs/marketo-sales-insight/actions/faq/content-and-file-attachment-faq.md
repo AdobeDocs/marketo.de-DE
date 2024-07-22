@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ## Was ist der Unterschied zwischen Inhalt und Dateianhang? {#what-is-the-difference-between-content-and-a-file-attachment}
 
-A **Dateianlage** ist genau wie ein Dateianhang, den Sie in Ihrem normalen E-Mail-Client verwenden würden.
+Ein **Dateianhang** ähnelt einem Dateianhang, den Sie in Ihrem normalen E-Mail-Client verwenden würden.
 
 **Inhalt** ist das Element, mit dem wir Dateien (PPT, PDF, Word-Dokumente usw.) beschreiben. dass Sie von Sales Insight-Aktionen verfolgt werden möchten.
 
 Nachdem Sie auf diese Schaltfläche geklickt haben, können Sie eine bereits hochgeladene Datei auswählen oder eine neue Datei hochladen, die verfolgt werden soll. Fügen Sie dann einen Link in die E-Mail oder Vorlage ein, die Sie verwenden.
 
-Am Empfänger klickt der Empfänger auf den Link und der Inhalt wird im Browser ausgefüllt. Auf diese Weise können wir jede Seitenansicht verfolgen und sie dem Benutzer &quot;Sales Insight Actions&quot;im Live-Feed melden.
+Am Empfänger klickt der Empfänger auf den Link und der Inhalt wird in den Browser eingefügt. Auf diese Weise können wir jede Seitenansicht verfolgen und sie dem Benutzer &quot;Sales Insight Actions&quot;im Live-Feed melden.
 
 Datei- und Inhaltsoptionen sind verfügbar in: einmalige E-Mails, Vorlagen, Kampagnen, Outlook (sowohl Windows als auch Mac), Gmail und OWA.
 

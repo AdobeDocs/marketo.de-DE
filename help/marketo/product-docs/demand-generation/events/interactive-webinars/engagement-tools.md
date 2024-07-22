@@ -49,7 +49,7 @@ Der Chat-Pod wird verwendet, um mit anderen Teilnehmern im Raum zu kommunizieren
 
 Ein Chat-Pod, der im Host- und Presenter-Bereich hinzugefügt wird, kann privat mit dem Präsentationsteam kommunizieren. Weitere Informationen zum Chat-Pod finden Sie in diesem Adobe-Hilfeartikel und in diesem Video.
 
-HINWEIS: Ein Chat-Pod wird immer aufgezeichnet. Verwenden Sie ein Chat-Bedienfeld, wenn Sie nicht möchten, dass die Chats Teil der Aufzeichnung sind. Weitere Informationen zum Chat-Pod finden Sie in diesem Adobe-Hilfeartikel. [Verknüpfen Sie dies mit dem Abschnitt Chats in Aufzeichnung der neuen Seite Versand eines interaktiven Webinars].
+HINWEIS: Ein Chat-Pod wird immer aufgezeichnet. Verwenden Sie ein Chat-Bedienfeld, wenn Sie nicht möchten, dass die Chats Teil der Aufzeichnung sind. Weitere Informationen zum Chat-Pod finden Sie in diesem Adobe-Hilfeartikel. [Verknüpfen Sie dies mit Chats im Abschnitt &quot;Aufzeichnung&quot;der neuen Seite &quot;Bereitstellen eines interaktiven Webinars&quot;].
 
 SCREENSHOT
 

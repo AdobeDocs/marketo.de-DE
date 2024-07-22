@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Sie müssen eine E-Mail von einem Programm in ein anderes verschieben? So geht es.
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Wechseln Sie zu **Marketingaktivitäten**.
 
    ![](assets/move-an-email-1.png)
 
-1. Suchen Sie die E-Mail, die Sie verschieben möchten, klicken Sie mit der rechten Maustaste darauf und wählen Sie **Verschieben**.
+1. Suchen Sie die E-Mail, die Sie verschieben möchten, klicken Sie mit der rechten Maustaste darauf und wählen Sie **Verschieben** aus.
 
    ![](assets/move-an-email-2.png)
 
-1. Wählen Sie die **Ziel**, **Programm**, und optional **Ordner**. Auswählen **Verschieben**.
+1. Wählen Sie den Ordner **Ziel**, **Programm** und optional **Ordner** aus. Wählen Sie **Verschieben** aus.
 
    ![](assets/move-an-email-3.png)
 

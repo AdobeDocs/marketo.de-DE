@@ -6,7 +6,7 @@ exl-id: c9de8334-4c42-44e4-aa73-9e82f25e5f00
 feature: Mobile Marketing
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '356'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Verwenden Sie Marketo Moments , um Ihre E-Mail-Programme von Ihrem Telefon oder 
 
 >[!IMPORTANT]
 >
->Am 2. Oktober 2023 hat Adobe die Marketo Moments-App aus allen App Stores entfernt. Wenn Sie die App bereits auf Ihrem Tablet/Mobilgerät installiert haben, können Sie sie vorerst weiter verwenden. Sobald Ihre Marketo Engage-Instanz zur Authentifizierung von Marketo zu Adobe Identity migriert wurde, können Sie nicht mehr auf die App zugreifen. [Weitere Informationen](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+>Am 2. Oktober 2023 hat Adobe die Marketo Moments-App aus allen App Stores entfernt. Wenn Sie die App bereits auf Ihrem Tablet/Mobilgerät installiert haben, können Sie sie vorerst weiter verwenden. Sobald Ihre Marketo Engage-Instanz zur Authentifizierung von Marketo zu Adobe Identity migriert wurde, können Sie nicht mehr auf die App zugreifen. [Weitere Infos](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 ## E-Mail-Programmkarten {#email-program-cards}
 
@@ -41,11 +41,11 @@ Nach dem Versand der E-Mail zeigt die Karte weitere wertvolle Informationen an, 
 
    ![](assets/image2015-7-16-17-3a6-3a16.png)
 
-1. Tippen **[!UICONTROL Bestätigen]**.
+1. Tippen Sie auf **[!UICONTROL Bestätigen]**.
 
    ![](assets/image2015-7-16-17-3a8-3a34.png)
 
-1. Tippen **[!UICONTROL Bestätigen]** , um den Auftrag abzuschließen, oder **[!UICONTROL Niemals Mind]** wenn du noch nachdenklich bist.
+1. Tippen Sie auf **[!UICONTROL Bestätigen]** , um den Auftrag abzuschließen, oder auf **[!UICONTROL Nie stören]** , wenn Sie zweierlei Gedanken hatten.
 
    ![](assets/image2015-7-16-17-3a12-3a18.png)
 
@@ -59,7 +59,7 @@ Nach dem Versand der E-Mail zeigt die Karte weitere wertvolle Informationen an, 
 
    ![](assets/image2015-7-17-9-3a50-3a49.png)
 
-1. Tippen **[!UICONTROL Abbrechen von Senden]**.
+1. Tippen Sie auf **[!UICONTROL Senden abbrechen]**.
 
    ![](assets/image2015-7-17-9-3a52-3a54.png)
 
@@ -75,11 +75,11 @@ Sie können bestätigte oder nicht bestätigte E-Mail-Karten neu planen.
 
    ![](assets/image2015-7-17-9-3a58-3a44.png)
 
-1. Tippen **[!UICONTROL Zeitplan]**.
+1. Tippen Sie auf **[!UICONTROL Neu planen]**.
 
    ![](assets/image2015-7-17-10-3a0-3a32.png)
 
-1. Datum im Kalender auswählen und tippen **[!UICONTROL Zeitplan]**.
+1. Wählen Sie ein Datum im Kalender aus und tippen Sie auf **[!UICONTROL Neu planen]**.
 
    ![](assets/image2015-7-17-10-3a5-3a55.png)
 
@@ -93,7 +93,7 @@ Sie können ein Beispiel für einen E-Mail-Moment direkt mit jemandem teilen.
 
    ![](assets/image2015-7-14-16-3a44-3a7.png)
 
-1. Tippen **[!UICONTROL Beispiel senden]**.
+1. Tippen Sie auf **[!UICONTROL Beispiel senden]**.
 
    ![](assets/image2015-7-14-16-3a40-3a54.png)
 
@@ -105,7 +105,7 @@ Sie können ein Beispiel für einen E-Mail-Moment direkt mit jemandem teilen.
 
 Klicken Sie mit der rechten Maustaste auf eine E-Mail-Karte, um sie in der Vorschau anzuzeigen.
 
-1. Tippen **[!UICONTROL Vorschau von E-Mail]**.
+1. Tippen Sie auf **[!UICONTROL E-Mail-Vorschau anzeigen]**.
 
    ![](assets/image2015-7-14-16-3a42-3a21.png)
 
@@ -115,6 +115,6 @@ Klicken Sie mit der rechten Maustaste auf eine E-Mail-Karte, um sie in der Vorsc
 
 >[!MORELIKETHIS]
 >
->* [Grundlagen zu Marketo-Momenten](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
+>* [Erläuterungen zu Marketo-Momenten](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
 >* [Grundlagen zu Ereigniskarten](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
->* [Grundlagen zu Analytics-Karten](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)
+>* [Grundlegendes zu Analytics Cards](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)

@@ -21,7 +21,7 @@ Die Ergebnisse zeigen Ihnen alle bekannten Konten aufgeschlüsselt nach Klassen.
 
 ![](assets/results.png)
 
-Obwohl optional, empfehlen wir, das Kontrollkästchen Automatisch bewerben zu aktivieren, da dadurch eine Tonne Zeit eingespart wird. Wenn Sie jedoch die einzelnen Konten durchlaufen möchten und [manuell hinzufügen](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts), lassen Sie das Kästchen einfach deaktiviert.
+Obwohl optional, empfehlen wir, das Kontrollkästchen Automatisch bewerben zu aktivieren, da dadurch eine Tonne Zeit eingespart wird. Wenn Sie jedoch jedes Konto durchgehen und [manuell hinzufügen](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts) möchten, lassen Sie das Kästchen einfach deaktiviert.
 
 <table> 
  <tbody> 
@@ -106,7 +106,7 @@ Es gibt mehrere Registerkarten, aus denen Sie eine detaillierte Anpassung durchf
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>Intent</strong></td> 
+   <td><strong>Absicht</strong></td> 
    <td> 
     <div>
       Intent-Indikatoren. 
@@ -158,13 +158,13 @@ Klicken Sie auf die Dropdown-Liste ICP-Indikator hinzufügen , um weitere Indika
 
 ![](assets/add-icp.png)
 
-Wenn Sie das Feld Export aktivieren, können Sie die ICP-Anzeige auf der Detailseite &quot;Spezifisches Konto&quot;anzeigen und die ausgewählte ICP-Anzeige als Begrenzungen unter [benannte Kontofilter](/help/marketo/product-docs/target-account-management/engage/account-filters.md).
+Wenn Sie das Feld &quot;Export&quot;aktivieren, wird der ICP-Indikator auf der Detailseite &quot;Named Account&quot;(Spezifisches Konto) angezeigt. Außerdem können Sie den ausgewählten ICP-Indikator als Begrenzungen in [benannten Kontofiltern](/help/marketo/product-docs/target-account-management/engage/account-filters.md) verwenden.
 
 ![](assets/export.png)
 
 >[!NOTE]
 >
->ICP-Indikatoren werden als Begrenzungen in **Mitglied des benannten Kontos** Filter und Trigger.
+>ICP-Indikatoren werden als Begrenzungen in Filtern und Triggern des Typs **Mitglied des benannten Kontos** einbezogen.
 
 Die Indikatorgewichtung steuert die Wichtigkeitsstufe, die jeder Indikator in Ihrem Modell erhält.
 
@@ -174,6 +174,6 @@ Klicken Sie auf Modell aktualisieren , damit diese Änderungen wirksam werden.
 
 ![](assets/refresh-button.png)
 
-Wenn Sie die Modelloptimierung abgeschlossen haben (nach der Aktualisierung), kehren Sie zur Registerkarte Modellergebnisse zurück und klicken Sie auf **Speichern und Anwenden von Bewertungen**.
+Wenn Sie das Anpassen Ihres Modells abgeschlossen haben (nachdem Sie es aktualisiert haben), kehren Sie zur Registerkarte &quot;Modellergebnisse&quot;zurück und klicken Sie auf **Ränge speichern und anwenden**.
 
 ![](assets/ranks.png)

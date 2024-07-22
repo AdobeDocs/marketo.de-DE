@@ -32,13 +32,13 @@ Beim Versand einer E-Mail über Marketo Sales haben Sie die Möglichkeit, eine D
 
    ![](assets/add-an-attachment-or-trackable-content-3.png)
 
-1. Wählen Sie die anzuhängende Datei aus und klicken Sie auf **Einfügen**.
+1. Wählen Sie die Datei aus, die Sie anhängen möchten, und klicken Sie auf **Einfügen**.
 
    ![](assets/add-an-attachment-or-trackable-content-4.png)
 
    >[!NOTE]
    >
-   >Wenn Sie eine Datei hochladen müssen, klicken Sie auf das **Inhalt hochladen** rechts oben im Fenster.
+   >Wenn Sie eine Datei hochladen müssen, klicken Sie oben rechts im Fenster auf die Schaltfläche **Inhalt hochladen** .
 
    Der Anhang wird unten in Ihrer E-Mail angezeigt.
 
@@ -58,13 +58,13 @@ Beim Versand einer E-Mail über Marketo Sales haben Sie die Möglichkeit, eine D
 
    ![](assets/add-an-attachment-or-trackable-content-8.png)
 
-1. Wählen Sie den Inhalt aus, den Sie hinzufügen möchten, und klicken Sie auf die **Inhalt wird verfolgt** und klicken Sie **Einfügen**.
+1. Wählen Sie den Inhalt aus, den Sie hinzufügen möchten, klicken Sie auf den Regler **Inhalt ist verfolgt** und klicken Sie auf **Einfügen**.
 
    ![](assets/add-an-attachment-or-trackable-content-9.png)
 
    >[!NOTE]
    >
-   >Wenn Sie eine Datei hochladen müssen, klicken Sie auf das **Inhalt hochladen** rechts oben im Fenster.
+   >Wenn Sie eine Datei hochladen müssen, klicken Sie oben rechts im Fenster auf die Schaltfläche **Inhalt hochladen** .
 
    Der Inhalt wird als Link in Ihrer E-Mail angezeigt. Der Empfänger kann auf den Link klicken, um den Inhalt herunterzuladen.
 
@@ -76,7 +76,7 @@ Beim Versand einer E-Mail über Marketo Sales haben Sie die Möglichkeit, eine D
 
 ## Verfolgbare Inhaltsaktualisierungen {#trackable-content-updates}
 
-**Tracking Content Viewer**
+**Verfolgbarer Content Viewer**
 
 Wenn ein Lead auf verfolgbaren Inhalt in Ihrer E-Mail klickt, wird ein Content-Viewer geöffnet.
 
@@ -96,7 +96,7 @@ Innerhalb des Inhalts-Viewers können Leads die folgenden Schritte ausführen.
 
 ![](assets/add-an-attachment-or-trackable-content-14.png)
 
-**Verfolgbare Inhaltsereignisse im Live Feed**
+**Verfolgbare Inhaltsereignisse im Live-Feed**
 
 Wenn ein Lead auf den Link unseres Dokuments klickt, wird ein Klickereignis angezeigt. Sie können auf diesen Link klicken, um den Inhalt anzuzeigen. Solange Sie bei Ihrem Aktionskonto im Browser angemeldet sind, zählen wir diese Klicks nicht als Ereignisse.
 

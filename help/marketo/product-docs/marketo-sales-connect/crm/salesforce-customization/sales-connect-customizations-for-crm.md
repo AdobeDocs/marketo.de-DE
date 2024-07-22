@@ -6,14 +6,14 @@ exl-id: c7344ec2-a16b-48a1-8e39-1bbd2818db80
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '735'
-ht-degree: 1%
+source-wordcount: '701'
+ht-degree: 0%
 
 ---
 
 # Sales Connect-Anpassungen für CRM {#sales-connect-customizations-for-crm}
 
-Die Felder und Schaltflächen unten werden von der Metadaten-API in Salesforce CRM erstellt. Nach der Erstellung der Felder müssen Administratoren die Seitenlayouts in ihrem CRM-System konfigurieren, um sie verfügbar zu machen. Anweisungen hierzu finden Sie [here](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf).
+Die Felder und Schaltflächen unten werden von der Metadaten-API in Salesforce CRM erstellt. Nach der Erstellung der Felder müssen Administratoren die Seitenlayouts in ihrem CRM-System konfigurieren, um sie verfügbar zu machen. Anweisungen finden Sie [hier](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf).
 
 >[!NOTE]
 >
@@ -21,19 +21,19 @@ Die Felder und Schaltflächen unten werden von der Metadaten-API in Salesforce C
 
 ## Installieren von Anpassungen in Salesforce {#how-to-install-customizations-in-salesforce}
 
-1. Klicken Sie in Sales Connect auf das Zahnradsymbol und wählen Sie **Einstellungen**.
+1. Klicken Sie in Sales Connect auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
 
    ![](assets/one.png)
 
-1. Wählen Sie unter Admin Settings die Option **Salesforce**.
+1. Wählen Sie unter &quot;Admin Settings&quot;**Salesforce** aus.
 
    ![](assets/two.png)
 
-1. Klicks **Marketo Sales Connect-Anpassungen**.
+1. Klicken Sie auf **Marketo Sales Connect-Anpassungen**.
 
    ![](assets/three.png)
 
-1. Klicks **Mit Salesforce verbinden**.
+1. Klicken Sie auf **Mit Salesforce verbinden**.
 
    ![](assets/four.png)
 
@@ -47,9 +47,9 @@ Aktualisierungen des Salesforce-Anpassungspakets umfassen Verbesserungen und Feh
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich.**
+>**Erforderliche Administratorberechtigungen.**
 
-1. Im [Webanwendung](https://www.toutapp.com), klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen**.
+1. Klicken Sie in der [Webanwendung](https://www.toutapp.com) auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
 
    ![](assets/sales-connect-customizations-for-crm-6.png)
 
@@ -57,11 +57,11 @@ Aktualisierungen des Salesforce-Anpassungspakets umfassen Verbesserungen und Feh
 
    ![](assets/sales-connect-customizations-for-crm-7.png)
 
-1. Auf der Karte zur Anpassung von Sales Connect wird angezeigt, ob Updates verfügbar sind. Klicks **Aktualisieren von Anpassungen**.
+1. Auf der Karte zur Anpassung von Sales Connect wird angezeigt, ob Updates verfügbar sind. Klicken Sie auf **Anpassungen aktualisieren**.
 
    ![](assets/sales-connect-customizations-for-crm-8.png)
 
-1. Klicks **Upgrade**.
+1. Klicken Sie auf **Upgrade**.
 
    ![](assets/sales-connect-customizations-for-crm-9.png)
 
@@ -75,7 +75,7 @@ Nach Abschluss des Vorgangs zeigt Ihre Karte an, dass Ihre Anpassungen an Sales 
 
 ## Benutzerdefinierte Aktivitätsfelder {#custom-activity-fields}
 
-Marketo erkennt die Erstellung der neuen Felder und führt dann eine einmalige Aufstockung der Daten, eine erneute Zuordnung und eine fortlaufende Synchronisierung der Werte mit der **new** nur Felder. Alte Felder werden nicht aktualisiert.
+Marketo erkennt die Erstellung der neuen Felder und führt dann eine einmalige Aufstockung der Daten, eine erneute Zuordnung und eine fortlaufende Synchronisierung der Werte nur in den **neuen** -Feldern durch. Alte Felder werden nicht aktualisiert.
 
 | **Feldname** | **Beschreibung** |
 |---|---|
@@ -118,8 +118,8 @@ Marketo erkennt die Erstellung der neuen Felder und führt dann eine einmalige A
    <td>Beschreibung der Interaktion.</td> 
   </tr> 
   <tr> 
-   <td>MSE - Letzte Marketing-Interaktionsquelle</td> 
-   <td>Quelle der Marketing-Interaktion.</td> 
+   <td>MSE - Letzte Marketinginteraktion - Source</td> 
+   <td>Source der Marketinginteraktion.</td> 
   </tr> 
   <tr> 
    <td colspan="1">MSE - Letzter Marketing-Interaktionstyp</td> 
@@ -166,7 +166,7 @@ Marketo erkennt die Erstellung der neuen Felder und führt dann eine einmalige A
 
 ## Benutzerhandbücher {#user-guides}
 
-[Benutzerdefinierte MSE-Berichte in Salesforce](https://docs.marketo.com/display/docs/assets/mse-custom-reports-in-sf.docx)
+[MSE Benutzerspezifische Berichte in Salesforce](https://docs.marketo.com/display/docs/assets/mse-custom-reports-in-sf.docx)
 
 [MSE für Salesforce](https://docs.marketo.com/display/docs/assets/mse-for-sf-classic.pdf)
 

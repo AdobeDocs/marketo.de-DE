@@ -17,21 +17,21 @@ Wenn Sie nur Text-E-Mails versenden möchten, können Sie hier eine E-Mail erste
 
 >[!NOTE]
 >
->Da Öffnungen vom Empfänger nachverfolgt werden, der die Bilder der E-Mail herunterlädt (einschließlich eines unsichtbaren Tracking-Pixels), werden Öffnungen **not** können für E-Mails vom Typ Nur Text verfolgt werden.
+>Da Öffnungen vom Empfänger nachverfolgt werden, der die Bilder der E-Mail herunterlädt (die ein unsichtbares Tracking-Pixel enthalten), können Öffnungen für E-Mails vom Typ &quot;Nur Text&quot; **nicht** verfolgt werden.
 
-1. Navigieren Sie zu **Marketingaktivitäten** Bereich.
+1. Wechseln Sie zum Bereich **Marketingaktivitäten** .
 
    ![](assets/one-1.png)
 
-1. Wählen Sie Ihr Programm aus, klicken Sie auf das **Neu** und wählen Sie **Neues lokales Asset**.
+1. Wählen Sie Ihr Programm aus, klicken Sie auf die Dropdownliste **Neu** und wählen Sie **Neues lokales Asset** aus.
 
    ![](assets/two-1.png)
 
-1. Auswählen **Email**.
+1. Wählen Sie **E-Mail** aus.
 
    ![](assets/three-1.png)
 
-1. Geben Sie einen **Name**, wählen Sie eine Vorlage aus und klicken Sie auf **Erstellen**.
+1. Geben Sie einen **Namen** ein, wählen Sie eine Vorlage aus und klicken Sie auf **Erstellen**.
 
    ![](assets/four-1.png)
 
@@ -39,7 +39,7 @@ Wenn Sie nur Text-E-Mails versenden möchten, können Sie hier eine E-Mail erste
 
    ![](assets/five.png)
 
-1. Überprüfen **Nur Text** und klicken Sie auf **Speichern**.
+1. Markieren Sie **Nur Text** und klicken Sie auf **Speichern**.
 
    ![](assets/six.png)
 
@@ -51,7 +51,7 @@ Wenn Sie nur Text-E-Mails versenden möchten, können Sie hier eine E-Mail erste
    >
    >Sie können auch eine vorhandene E-Mail bearbeiten und diese Einstellung ändern. Vergiss nicht, den Entwurf zu genehmigen.
 
-1. Deaktivieren Sie die **Automatische Kopie von HTML** aktivieren.
+1. Deaktivieren Sie das Kontrollkästchen **Automatisch von HTML** kopieren .
 
    ![](assets/seven.png)
 

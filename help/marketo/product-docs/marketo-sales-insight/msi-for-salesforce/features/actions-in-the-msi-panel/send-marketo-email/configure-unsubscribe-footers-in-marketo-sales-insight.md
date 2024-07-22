@@ -6,8 +6,8 @@ exl-id: 16c1fcba-6826-400c-ab7c-371d8653d4ad
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '205'
-ht-degree: 2%
+source-wordcount: '207'
+ht-degree: 0%
 
 ---
 
@@ -23,13 +23,13 @@ In E-Mails zum Verkauf wird die Abmelde-Fußzeile automatisch am unteren Rand pl
 >
 >**Definition**
 >
->**Verkaufs-E-Mails** sind diejenigen, die von Sales Insight gesendet werden (nicht enthalten sind diejenigen, die vom Marketo Outlook-Plugin gesendet werden).
+>**Verkaufs-E-Mails** sind E-Mails, die von Sales Insight gesendet werden (sie enthalten nicht die vom Marketo Outlook-Plugin gesendeten E-Mails).
 
-1. Navigieren Sie zum **Admin**-Bereich.
+1. Wechseln Sie zum Bereich **Admin** .
 
    ![](assets/one-1.png)
 
-1. Klicks **Sales Insight**, dann **Einstellungen bearbeiten**.
+1. Klicken Sie auf **Sales Insight** und dann auf **Einstellungen bearbeiten**.
 
    ![](assets/two-1.png)
 
@@ -37,17 +37,17 @@ In E-Mails zum Verkauf wird die Abmelde-Fußzeile automatisch am unteren Rand pl
 
    ![](assets/three-1.png)
 
-   * **Keine Vorlage** - Manuell von einem Vertriebsbenutzer erstellt.
-   * **Standard-Email** - Vorlagen für E-Mails.
-   * **Operative E-Mail** - E-Mails, die Abmeldungen ignorieren, Marketing ausgesetzt und Kommunikationsbeschränkungen (unabhängig davon, was gesendet wird).
+   * **Keine Vorlage** - Wird manuell vom Vertriebsbenutzer erstellt.
+   * **Standard-E-Mail** - E-Mails basierend auf einer Vorlage.
+   * **Operative E-Mail** - E-Mails, die Abmeldungen ignorieren, Marketing ausgesetzt und Kommunikationsbeschränkungen ignorieren (sie senden unabhängig davon, was passiert).
 
    Sie können für jeden Typ ein anderes Verhalten festlegen.
 
    >[!CAUTION]
    >
-   >**Abmeldeeinstellungen respektieren**: abgemeldete Leads erhalten die E-Mail NICHT, selbst wenn die veröffentlichte E-Mail &quot;funktionsfähig&quot;ist.
+   >**Einstellungen für die Abmeldung respektieren**: Abgemeldete Leads erhalten die E-Mail NICHT, selbst wenn die veröffentlichte E-Mail &quot;funktionsfähig&quot;ist
    >
-   >**Ignorieren von Abmeldeeinstellungen**: abgemeldete Leads erhalten die E-Mail
+   >**Einstellungen für Abmeldung ignorieren**: abgemeldete Leads erhalten die E-Mail
 
 1. Nehmen Sie die gewünschten Änderungen vor und klicken Sie dann auf **Speichern**.
 

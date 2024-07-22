@@ -6,7 +6,7 @@ exl-id: 09e17279-c9f5-4a12-ab07-9fce8a0e77ee
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Marketo sendet Ihnen Berichte über den Ablauf des E-Mail-Tests. Hier ist, wie m
 
    ![](assets/image2014-9-15-13-3a13-3a7.png)
 
-1. Klicken **Nächste**.
+1. Klicken Sie auf **Weiter**.
 
    ![](assets/image2014-9-15-13-3a18-3a30.png)
 
@@ -39,8 +39,8 @@ Marketo sendet Ihnen Berichte über den Ablauf des E-Mail-Tests. Hier ist, wie m
 
    ![](assets/image2014-9-15-13-3a18-3a41.png)
 
-   Der Bericht enthält hilfreiche Details, z. B.: Testtyp, Gewinnerkriterien, Anzahl der E-Mail-Öffnungen und mehr. Es gibt auch einen direkten Link zum Test selbst, der es Ihnen ermöglicht, den Gewinner zu bestimmen! Kohles Zeug.
+   Der Bericht enthält hilfreiche Details wie Testtyp, Gewinnerkriterien, Anzahl der E-Mail-Öffnungen und mehr. Es gibt auch einen direkten Link zum Test selbst, der es Ihnen ermöglicht, den Gewinner zu bestimmen! Kohles Zeug.
 
    >[!MORELIKETHIS]
    >
-   >[Champion/Challenger: E-Mail-Test genehmigen](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
+   >[Champion/Challenger: Genehmigen Sie Ihren E-Mail-Test](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)

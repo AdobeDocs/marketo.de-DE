@@ -6,7 +6,7 @@ exl-id: 2fa1fdf3-2d42-424c-911e-188195e4551a
 feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Sie können mit der Detailansicht der Seite viele Informationen zu Ihren Seiten 
 
 ## Drilldown der Suchseite {#find-page-drill-down}
 
-1. Navigieren Sie zu **[!UICONTROL Seiten] Abschnitt**.
+1. Wechseln Sie zum Abschnitt **[!UICONTROL Seiten]**.
 
    ![](assets/image2014-9-17-21-3a54-3a53.png)
 
@@ -29,24 +29,24 @@ Sie können mit der Detailansicht der Seite viele Informationen zu Ihren Seiten 
 
    ![](assets/image2014-9-17-21-3a55-3a2.png)
 
-## [!UICONTROL Seitendetails] Abschnitt {#page-detail-section}
+## Abschnitt [!UICONTROL Seitendetails] {#page-detail-section}
 
 ![](assets/image2014-9-17-21-3a55-3a46.png)
 
 | Element | Beschreibung |
 |---|---|
 | [!UICONTROL Optimierungsbewertung] | Die geheime Soße, die Ihnen zeigt, wie gut Ihre Seite für die Suche auf einer Skala von 1 bis 100 optimiert ist. |
-| [!UICONTROL Aufgaben] box | Zeigt die Anzahl der offenen Probleme in Bezug auf die Seite an, auf der Sie sich befinden. |
-| [!UICONTROL Inbound Links gesamt] | Die Gesamtzahl der eingehenden Links zu Ihrer Website. |
+| Feld [!UICONTROL To Do] | Zeigt die Anzahl der offenen Probleme in Bezug auf die Seite an, auf der Sie sich befinden. |
+| [!UICONTROL Inbound Links Total] | Die Gesamtzahl der eingehenden Links zu Ihrer Website. |
 | [!UICONTROL Eingehende Links (eindeutige Domänen)] | Die Anzahl der anderen Websites mit mindestens einem eingehenden Link zu Ihrer Site. |
 | [!UICONTROL Ausgehende Links] | Die Anzahl der Links, die von dieser bestimmten Seite zu anderen Websites führen. |
-| [!UICONTROL Facebook Share] | Häufigkeit, mit der diese Seite freigegeben wurde [!DNL Facebook]. |
-| [!UICONTROL Facebook-Vorlieben] | Anzahl der &quot;Gefällt mir&quot;-Klicks für diese Seitenfreigabe [!DNL Facebook]. |
-| [!UICONTROL Facebook-Klicks] | Anzahl der Klicks aus der [!DNL Facebook share]. |
+| [!UICONTROL Facebook Share] | Gibt an, wie oft diese Seite für [!DNL Facebook] freigegeben wurde. |
+| [!UICONTROL Facebook mag] | Anzahl der Gefällt mir-Klicks für diese Seitenfreigabe auf [!DNL Facebook]. |
+| [!UICONTROL Facebook-Klicks] | Anzahl der Klicks von der [!DNL Facebook share]. |
 
-## [!UICONTROL Suchbegriffe, für die die Seite optimiert ist] {#keyword-s-that-page-is-optimized-for}
+## [!UICONTROL Suchbegriffe, für die die Seite optimiert wurde, für ] {#keyword-s-that-page-is-optimized-for}
 
-Hier sind Sie [auswählen, für welchen Suchbegriff Sie Ihre Seite optimieren möchten](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md).
+Hier wählen Sie [den Suchbegriff aus, den Sie für ](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md) optimieren möchten.
 
 >[!NOTE]
 >
@@ -56,7 +56,7 @@ Hier sind Sie [auswählen, für welchen Suchbegriff Sie Ihre Seite optimieren m�
 
 ## [!UICONTROL Seitenoptimierungsergebnisse] {#page-optimization-results}
 
-Die [!UICONTROL Seitenoptimierungsergebnisse] werden Ihnen die genauen Schritte mitteilen, die Sie unternehmen müssen, um Ihren Optimierungswert zu erhöhen oder bei der Suche nach dieser Seite bessere Ergebnisse zu erzielen.
+Die [!UICONTROL Seitenoptimierungsergebnisse] geben Ihnen die genauen Schritte an, die Sie unternehmen müssen, um Ihren Optimierungswert zu erhöhen bzw. bei der Suche nach dieser Seite bessere Ergebnisse zu erzielen.
 
 ![](assets/image2014-9-17-21-3a56-3a41.png)
 

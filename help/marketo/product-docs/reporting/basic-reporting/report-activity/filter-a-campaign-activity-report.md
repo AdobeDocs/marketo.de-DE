@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # Kampagnenaktivitätsbericht filtern {#filter-a-campaign-activity-report}
 
-Fokus [Bericht zur Kampagnenaktivität](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)spezifische [Smart-Kampagnen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md).
+Konzentrieren Sie Ihren [Kampagnenaktivitätsbericht](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md) auf bestimmte [Smart-Kampagnen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md).
 
 >[!NOTE]
 >
 >Das Filtern von Assets in Berichten wird im Satellitenmodus nicht unterstützt (das Symbol &quot;In einem neuen Fenster öffnen&quot;rechts auf der Asset-Detailseite).
 
-1. Navigieren Sie zu **Marketingaktivitäten** (oder **Analytics**) und wählen Sie den Bericht zur Kampagnenaktivität aus.
+1. Gehen Sie zu **Marketingaktivitäten** (oder **Analytics**) und wählen Sie Ihren Kampagnenaktivitätsbericht aus.
 
    ![](assets/filter-a-campaign-activity-report-1.png)
 
-1. Klicken Sie auf **Einrichtung** Registerkarte und Doppelklick **Kampagnen**.
+1. Klicken Sie auf die Registerkarte **Setup** und doppelklicken Sie auf **Kampagnen**.
 
    ![](assets/filter-a-campaign-activity-report-2.png)
 
-1. Wählen Sie die Ordner und spezifischen Smart-Kampagnen aus, die in Ihren Bericht aufgenommen werden sollen. Klicks **Anwenden**.
+1. Wählen Sie die Ordner und spezifischen Smart-Kampagnen aus, die in Ihren Bericht aufgenommen werden sollen. Klicken Sie auf **Anwenden**.
 
    ![](assets/filter-a-campaign-activity-report-3.png)
 
@@ -35,10 +35,10 @@ Fokus [Bericht zur Kampagnenaktivität](/help/marketo/product-docs/reporting/bas
    >
    >Wenn Sie einen Ordner auswählen, enthält der Bericht alle Elemente, die der Ordner zum Zeitpunkt der Ausführung des Berichts enthält.
 
-1. Du bist fertig! Klicken Sie auf **Bericht** Registerkarte anzuzeigen _just_ die in Ihrem Bericht ausgewählten Smart-Kampagnen.
+1. Du bist fertig! Klicken Sie auf die Registerkarte **Bericht** , um _nur_ die ausgewählten Smart-Kampagnen in Ihrem Bericht anzuzeigen.
 
    ![](assets/filter-a-campaign-activity-report-4.png)
 
 >[!MORELIKETHIS]
 >
->[Bericht zur E-Mail-Leistung von Campaign](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
+>[Kampagnen-E-Mail-Leistungsbericht](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)

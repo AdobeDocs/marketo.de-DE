@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Sie können benutzerdefinierte Überlagerungen erstellen, um für Ihre Anforderungen relevante Einträge anzuzeigen.
 
-1. Klicken Sie auf **[!UICONTROL Agenda]** angezeigt.
+1. Klicken Sie auf das Dropdown-Menü **[!UICONTROL Agenda]** .
 
    ![](assets/image2014-9-24-10-3a20-3a11.png)
 
-1. Auswählen **[!UICONTROL Überlagerungen]**.
+1. Wählen Sie **[!UICONTROL Überlagerungen]** aus.
 
    ![](assets/image2014-9-24-10-3a20-3a17.png)
 
@@ -27,7 +27,7 @@ Sie können benutzerdefinierte Überlagerungen erstellen, um für Ihre Anforderu
 
    ![](assets/image2014-9-24-10-3a20-3a26.png)
 
-1. Sie können auch nach [Programmtags](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/use-tags-in-a-program.md){target="_blank"}.
+1. Sie können auch nach [Programm-Tags](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/use-tags-in-a-program.md){target="_blank"} filtern.
 
    ![](assets/image2014-9-24-10-3a20-3a32.png)
 

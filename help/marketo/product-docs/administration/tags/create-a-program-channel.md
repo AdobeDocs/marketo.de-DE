@@ -7,7 +7,7 @@ feature: Tags
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '428'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -21,13 +21,13 @@ Ein Programm ist eine spezifische Marketinginitiative. Der Kanal ist als Bereits
 
 >[!NOTE]
 >
->Weitere Informationen [Programme](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md), das wichtigste Element in Marketo.
+>Erfahren Sie mehr über [programme](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md), das wichtigste Element in Marketo.
 
-1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
+1. Wechseln Sie zum Bereich **[!UICONTROL Admin]** .
 
    ![](assets/create-a-program-channel-1.png)
 
-1. Klicken **[!UICONTROL Tags]**.
+1. Klicken Sie auf **[!UICONTROL Tags]**.
 
    ![](assets/create-a-program-channel-2.png)
 
@@ -35,11 +35,11 @@ Ein Programm ist eine spezifische Marketinginitiative. Der Kanal ist als Bereits
    >
    >Warum Tags? Ein Kanal ist eine Möglichkeit, ein Programm wie andere Tags zu beschreiben. Der Kanal verfügt nur über spezielle zusätzliche Funktionen.
 
-1. Klicken Sie auf **+** neben [!UICONTROL Kanal] um vorhandene Kanäle zu erweitern und anzuzeigen.
+1. Klicken Sie auf das Symbol **+** neben [!UICONTROL Kanal] , um die vorhandenen Kanäle zu erweitern und anzuzeigen.
 
    ![](assets/create-a-program-channel-3.png)
 
-1. under **[!UICONTROL Neu]** klicken **[!UICONTROL Neuer Kanal]**.
+1. Klicken Sie unter **[!UICONTROL Neu]** auf **[!UICONTROL Neuer Kanal]**.
 
    ![](assets/create-a-program-channel-4.png)
 
@@ -50,18 +50,18 @@ Ein Programm ist eine spezifische Marketinginitiative. Der Kanal ist als Bereits
    >Kanal: Reklametafeln
    >
    >* Anwenden auf: Standard
-   >* Progression: Mitglied, Verlobt (im Zweifelsfall funktionieren diese gut)
+   >* Progression: Mitglied, engagiert (im Zweifelsfall funktionieren diese gut)
    >* Erfolg: Interagiert
    >
-   >Kanal: Partei
+   >Kanal: Party
    >
    >* Anwenden auf: Ereignis
-   >* Progression: Eingeladen, registriert, Keine Sendung und Teilnahme
-   >* Erfolg: Angemeldet
+   >* Progression: Eingeladen, Registriert, Keine Anzeige und Teilnahme
+   >* Erfolg: Teilnehmer
    >
    >Sehen Sie sich die Progressionen vorhandener Kanäle an, um eine Vorstellung davon zu erhalten, wie sie verwendet werden.
 
-1. Gehen wir zum Parteitakanal-Beispiel. Benennen Sie Ihre neue **Kanal** und wählen Sie den Programmtyp aus, auf den sie angewendet werden soll.
+1. Gehen wir zum Beispiel zum Parteitakanal. Benennen Sie den neuen Kanal **Kanal** und wählen Sie den Programmtyp aus, auf den er angewendet werden soll.
 
    ![](assets/create-a-program-channel-5.png)
 
@@ -71,50 +71,50 @@ Ein Programm ist eine spezifische Marketinginitiative. Der Kanal ist als Bereits
 
    >[!NOTE]
    >
-   >Bei Verwendung von[!UICONTROL Veranstaltung mit Webinar],&quot;werden Systemzuordnungen gesperrt (wie für Webinar-Integrationen erforderlich) und können nicht bearbeitet werden.
+   >Bei Verwendung von &quot;[!UICONTROL Ereignis mit Webinar]&quot; werden Systemzuordnungen gesperrt (wie für Webinar-Integrationen erforderlich) und können nicht bearbeitet werden.
 
-1. Geben Sie die ersten beiden Programmstatusnamen ein und klicken Sie auf **[!UICONTROL Schritt hinzufügen]**.
+1. Geben Sie die ersten beiden Programmstatusnamen ein und klicken Sie dann auf **[!UICONTROL Schritt hinzufügen]**.
 
    ![](assets/create-a-program-channel-6.png)
 
-1. Andere Programme eingeben **[!UICONTROL Status]** und **[!UICONTROL Schritt]** number und klicken Sie auf **[!UICONTROL Schritt hinzufügen]**.
+1. Geben Sie ein weiteres Programm ein, **[!UICONTROL Status]** und **[!UICONTROL Schritt]**, und klicken Sie dann auf **[!UICONTROL Schritt hinzufügen]**.
 
    ![](assets/create-a-program-channel-7.png)
 
    >[!TIP]
    >
-   >Die **[!UICONTROL Schritt]** -Zahl wird zum Sortieren des Programmstatus verwendet. Denken Sie daran, dass die Menschen in diesen Fortschrittsschritten nicht rückwärts gehen können. Sie können nur den Status in einen höheren oder gleichen Wert ändern. Verwenden Sie die gleichen Werte, wenn Status anstelle eines Fortschritts hin- und herwechseln sollen.
+   >Die Nummer **[!UICONTROL Schritt]** wird zum Sortieren der Programmstatus verwendet. Denken Sie daran, dass die Menschen in diesen Fortschrittsschritten nicht rückwärts gehen können. Sie können nur den Status in einen höheren oder gleichen Wert ändern. Verwenden Sie die gleichen Werte, wenn Status anstelle eines Fortschritts hin- und herwechseln sollen.
 
-1. Letztes Programm eingeben **[!UICONTROL Status]** und **[!UICONTROL Schritt]** Zahl.
+1. Geben Sie das letzte Programm **[!UICONTROL Status]** und die Nummer **[!UICONTROL Schritt]** ein.
 
    ![](assets/create-a-program-channel-8.png)
 
    >[!NOTE]
    >
-   >Bei Verwendung des Typs &quot;[!UICONTROL Ereignis],&quot;ist eine Systemzuordnung für den Status Registered, Waitlisted und Attended erforderlich. Daher können diese Status nicht ausgeblendet werden.
+   >Bei Verwendung des Typs &quot;[!UICONTROL Ereignis]&quot; ist eine Systemzuordnung für den Status &quot;Registered&quot;, &quot;Waitlisted&quot;und &quot;Attended&quot;erforderlich. Daher können diese Status nicht ausgeblendet werden.
 
-1. Wählen Sie die **[!UICONTROL Mobile-Check-in-Status]** für **[!UICONTROL Angemeldet]**.
+1. Wählen Sie den **[!UICONTROL Mobile Check-in Status]** für **[!UICONTROL Registered]** aus.
 
    ![](assets/create-a-program-channel-9.png)
 
-1. Wählen Sie die **[!UICONTROL Mobile-Check-in-Status]** für **[!UICONTROL Angemeldet]**.
+1. Wählen Sie den **[!UICONTROL Mobile Check-in Status]** für **[!UICONTROL Teilnehmer]** aus.
 
    ![](assets/create-a-program-channel-10.png)
 
    >[!NOTE]
    >
-   >**[!UICONTROL Mobile-Check-in-Status]** -Optionen sind nur verfügbar, wenn der Kanal für Veranstaltungsprogramme verwendet wird.
+   >**[!UICONTROL Mobile Check-in Status]** -Optionen sind nur verfügbar, wenn der Kanal für Ereignisprogramme verwendet wird.
 
    >[!NOTE]
    >
-   >Nur Personen mit **[!UICONTROL Mobile-Check-in-Status]** von **[!UICONTROL Angemeldet]** und **[!UICONTROL Angemeldet]** wird im [Mobile Check-in-Apps](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/event-check-in-overview.md).
+   >In den [Mobile Check-in Apps](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/event-check-in-overview.md) werden nur Personen mit dem Status **[!UICONTROL Mobile Check-in]** von **[!UICONTROL Registered]** und **[!UICONTROL teilgenommen]** angezeigt.
 
    >[!TIP]
    >
    >Wenn eine neue Person in der Mobile Check-in-App erstellt wird, wird sie im Ereignisprogramm auf Registered gesetzt. Wenn eine Person in das Ereignis in der App eingecheckt wird, wird sie im Ereignisprogramm auf &quot;Teilnehmer&quot;gesetzt.
 
-1. Wählen Sie die **[!UICONTROL Erfolg]** Programmstatus, und klicken Sie auf **[!UICONTROL Erstellen]**.
+1. Wählen Sie den Programmstatus **[!UICONTROL Erfolg]** aus und klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/create-a-program-channel-11.png)
 
-   Gut gemacht! Wenn Sie ein neues Programm dieses Typs erstellen, ist dieser neue Kanal eine der Möglichkeiten.
+   Schön gemacht! Wenn Sie ein neues Programm dieses Typs erstellen, ist dieser neue Kanal eine der Möglichkeiten.

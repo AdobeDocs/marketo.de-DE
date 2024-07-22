@@ -16,11 +16,11 @@ Auf was können Administratoren und Benutzer ohne Administratorrechte zugreifen?
 
 ## Administratorbenutzerberechtigungen {#admin-user-permissions}
 
-Administratoren können [Alle Vorlagen anzeigen](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md).
+Administratoren können [alle Vorlagen anzeigen](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md).
 
 ![](assets/user-access-details-1.png)
 
-Administratoren können [Alle Kampagnen anzeigen](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md).
+Administratoren können [alle Kampagnen anzeigen](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md).
 
 ![](assets/user-access-details-2.png)
 
@@ -51,7 +51,7 @@ Administratoren können Kampagnen im Namen von Benutzern stoppen.
    * Benutzer können Gruppen für alle freigeben
    * Benutzer können Gruppen nur für Teams freigeben, denen sie angehören
    * Die Benutzer können alle Personen in Ihrer Aktionsdatenbank einsehen.
-   * Wenn ein Benutzer gelöscht wird, überträgt sein freigegebener Kontakt das Eigentum an den Übergeordneten Administrator, der den Benutzer gelöscht hat
+   * Wenn ein Benutzer gelöscht wird, übertragen seine freigegebenen Kontakte das Eigentum an den Master-Administrator, der den Benutzer gelöscht hat
 
 * Seite &quot;Teamverwaltung&quot;:
 
@@ -62,4 +62,4 @@ Administratoren können Kampagnen im Namen von Benutzern stoppen.
    * Benutzer können Vorlagen für alle freigeben
    * Benutzer können Vorlagen in Kategorien freigeben, die ihnen Administratoren ermöglichen
    * Wenn ein Benutzer aus einem Team entfernt wird, wird die Freigabe seiner Vorlagen für dieses Team aufgehoben
-   * Wenn ein Benutzer aus einem Team gelöscht wird, übertragen seine Vorlagen das Eigentum an den Übergeordneten Administrator, der den Benutzer gelöscht hat
+   * Wenn ein Benutzer aus einem Team gelöscht wird, übertragen seine Vorlagen das Eigentum an den Master-Administrator, der den Benutzer gelöscht hat

@@ -27,7 +27,7 @@ Wir haben zwei Verbesserungen an unserer Salesforce CRM-Integration:
 
 * [Marketo-Administratorbenachrichtigungen](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md) für bestimmte Fehler bei der CRM-Synchronisierung (Anmeldeinformationen abgelaufen, API-Beschränkungen erreicht usw.)
 
-* [Möglichkeit, E-Mail-Benachrichtigungen zu deaktivieren](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md) Lead-Eigentümer bei Lead-Zuweisung
+* [Möglichkeit, E-Mail-Benachrichtigungen zu deaktivieren](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md), um Lead-Inhaber bei der Lead-Zuweisung zu informieren
 
 Diese Verbesserungen werden im Laufe des Jahres 2018 eingeführt.
 
@@ -55,7 +55,7 @@ Velocity-Skripterstellung wird jetzt in E-Mails mit dynamischen Inhalten unterst
 
 **Zeitzone des Empfängers**
 
-* **[Monatliche Krankenpflege](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)**: Wir haben die Möglichkeit hinzugefügt, Pflegeprogramme monatlich zu planen.
+* **[Monatlicher Kurszeitraum](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)**: Wir haben die Möglichkeit hinzugefügt, Pflegeprogramme monatlich zu planen.
 
 * **[Versand stoppen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)**: Sie können jetzt alle verbleibenden Sendungen während der Ausführung stoppen.
 
@@ -65,19 +65,19 @@ Velocity-Skripterstellung wird jetzt in E-Mails mit dynamischen Inhalten unterst
 
 Mit dieser Integration können Sie eine Marketo-Zielgruppe an Google senden, um mithilfe von Google AdWords Targeting durchzuführen und Zielgruppen in YouTube, Search und Gmail erneut anzusprechen.
 
-**[API-Erweiterung für linkedIn Matched Audiences](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)**
+**[API-Erweiterung für LinkedIn Matched Audiences](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)**
 
 Mit der neuen LinkedIn-API können Sie jetzt Personen in Ihrer Marketo-Datenbank über mehrere LinkedIn Campaign Manager-Konten hinweg erneut ansprechen.
 
 ## Web-Personalisierung {#web-personalization}
 
-**Japanische Datenquelle für die Web-Personalisierung**
+**Japanische Daten-Source für Web Personalization**
 
-Marketo fügt eine zusätzliche japanische Datenquelle für die Web-Personalisierung hinzu, um die Identifizierung von Webbesuchern (Reverse-IP-Suche) und die Personalisierung von Besuchern aus Japan zu verbessern. Die Organisationsnamen werden auf Japanisch angezeigt.
+Marketo fügt eine zusätzliche japanische Datenquelle für Web Personalization hinzu, um die Identifizierung von Webbesuchern (Reverse-IP-Suche) und die Personalisierung von Besuchern aus Japan zu verbessern. Die Organisationsnamen werden auf Japanisch angezeigt.
 
 **[Web-Segment mithilfe statischer Listen erstellen](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-a-static-list.md)**
 
-Mit der Web-Personalisierung können Inhalte nun für bekannte Webbesucher personalisiert werden, die Teil einer statischen Liste sind, die in Marketing-Aktivitäten (MLM) definiert ist. Mit dieser Verbesserung können Sie jetzt kanalübergreifend statische Listen vermarkten und Personen auf diesen Listen mit personalisierten Inhalten auf Ihrer Website ansprechen.
+Web Personalization kann Inhalte nun für einen bekannten Webbesucher personalisieren, der Teil einer statischen Liste ist, die in Marketingaktivitäten (MLM) definiert ist. Mit dieser Verbesserung können Sie jetzt kanalübergreifend statische Listen vermarkten und Personen auf diesen Listen mit personalisierten Inhalten auf Ihrer Website ansprechen.
 
 ## ContentAI {#contentai}
 
@@ -87,7 +87,7 @@ Inhalte, die über die optimierten ContentAI-Algorithmen von Marketo empfohlen w
 
 ## Integration {#integration}
 
-**[Campaign-API aktivieren/deaktivieren](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**
+**[Aktivieren/Deaktivieren der Campaign-API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**
 
 Mit dieser neuen API können Sie Trigger-Kampagnen remote aktivieren und deaktivieren, sodass Sie jetzt vollständig automatisierte Programmvorlagen erstellen können. Erstellen Sie einmal eine Programmvorlage und automatisieren Sie dann das Klonen, Marketingmaterial-Updates und jetzt die Aktivierung/Planung intelligenter Kampagnen.
 
@@ -95,7 +95,7 @@ Mit dieser neuen API können Sie Trigger-Kampagnen remote aktivieren und deaktiv
 
 **Update abbestellen**
 
-Ab dem 1. März 2018 werden alle E-Mails von [ToutApp.com](https://ToutApp.com) (und durch die Verwendung der Schaltfläche &quot;E-Mail mit Tout&quot; in Salesforce) wird am unteren Rand ein Abmelde-Link angehängt.
+Ab dem 1. März 2018 wird allen E-Mails, die von [ToutApp.com](https://ToutApp.com) gesendet werden (und durch Verwendung der Schaltfläche &quot;E-Mail mit Tout&quot;in Salesforce), ein Abmelde-Link am Ende angehängt.
 
 **Live-Feed-Update**
 

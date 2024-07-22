@@ -16,17 +16,17 @@ Unten finden Sie alle Funktionen der Version vom 22. Oktober. Überprüfen Sie I
 
 >[!AVAILABILITY]
 >
->Mit einem Stern (![star](assets/yellow-star.png)) sind kostenpflichtige Add-ons. Wenden Sie sich an Ihren Marketo Engage-Support-Mitarbeiter, um mehr zu erfahren.
+>Mit einem Stern (![Stern](assets/yellow-star.png)) gekennzeichnete Funktionen sind kostenpflichtige Add-ons. Wenden Sie sich an Ihren Marketo Engage-Support-Mitarbeiter, um mehr zu erfahren.
 
 ## Standardfunktionen des Versionszyklus {#standard-release-cycle-features}
 
-Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab der Veröffentlichung auf **14. Oktober 2022**, mit einer stufenweisen Einführung der verbleibenden Funktionen in den darauffolgenden Wochen. Die Veröffentlichungsfunktionen und -daten können sich ändern. Bitte prüfen Sie unten jedes Feature nach seinem Status.
+Die folgenden Funktionen fallen unter den standardmäßigen Versionszyklus und werden ab dem 14. Oktober 2022 veröffentlicht. Am 14. Oktober 2021 wird die Veröffentlichung beginnen, wobei die verbleibenden Funktionen in den folgenden Wochen schrittweise eingeführt werden. **** Die Veröffentlichungsfunktionen und -daten können sich ändern. Bitte prüfen Sie unten jedes Feature nach seinem Status.
 
 ### Marketing-Datenumgebung {#marketing-data-environment}
 
 </br>
 
-* **Benutzerdefinierte Feldsynchronisierung zwischen Programmteilnehmern**: Möglichkeit der bidirektionalen Synchronisierung erweiterbarer Felder, die für ein Programmmitglied erfasst werden (z. B. Teilnehmerpräferenzen während der Ereignisregistrierung wie Essen, Sitzungen, Tracks usw.) mit Campaign Member Fields in Salesforce.
+* **Benutzerdefinierte Feldsynchronisierung für Programmteilnehmer**: Möglichkeit der bidirektionalen Synchronisierung erweiterbarer Felder, die für ein Programmmitglied erfasst werden (z. B. Teilnehmerpräferenzen während der Ereignisregistrierung, wie Essen, Sitzungen, Tracks usw.) mit Campaign Member Fields in Salesforce.
 
 <table> 
   <tr> 
@@ -40,7 +40,7 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
   </tbody>
 </table>
 
-* **Adobe Privacy Service-Integration**: Harmonisierung mit Privacy Service zur Automatisierung der Einhaltung von Datenschutzbestimmungen für Experience Cloud-Produkte. Derzeit ist dieser Dienst nur für Marketo Engage-Kunden verfügbar, die das Adobe Identity Management System integriert haben.
+* **Adobe Privacy Service-Integration**: Harmonisieren Sie mit Privacy Service, um die Einhaltung von Datenschutzbestimmungen über Experience Cloud-Produkte hinweg zu automatisieren. Derzeit ist dieser Dienst nur für Marketo Engage-Kunden verfügbar, die das Adobe Identity Management System integriert haben.
 
 <table> 
   <tr> 
@@ -58,7 +58,7 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
 
 </br>
 
-* **Aktualisierte Screens im Erlebnis der nächsten Generation**: Wir stellen zusätzliche, aktualisierte Bildschirme der nächsten Generation bereit, die aktualisierte Design- und Benutzerfreundlichkeitsverbesserungen bieten, auf die über den Umschalter zugegriffen werden kann:
+* **Screens im Erlebnis der nächsten Generation aktualisiert**: Wir stellen zusätzliche, aktualisierte Bildschirme der nächsten Generation bereit, die aktualisierte Design- und Benutzerfreundlichkeitsverbesserungen bieten, auf die über den Umschalter zugegriffen werden kann:
 
    * Details zur Landingpage-Vorlage
    * E-Mail-Vorlagenliste
@@ -75,7 +75,7 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
   </tbody>
 </table>
 
-* **Verbesserte Verwendung nach Registerkarte in Details von E-Mail-Vorlagen**: Im neuen Erlebnis sehen Sie zusätzliche Informationen zu Assets, die die E-Mail-Vorlage verwenden, einschließlich Asset-Status, Zuletzt geändert und Zuletzt geändert von. Sie können auch die Liste der von Assets verwendeten suchen, sortieren und filtern.
+* **Verbesserte Verwendung durch Registerkarte in Details der E-Mail-Vorlage**: Im neuen Erlebnis werden zusätzliche Informationen zu Assets angezeigt, die die E-Mail-Vorlage verwenden, einschließlich Asset-Status, Zuletzt geändert und Zuletzt geändert von . Sie können auch die Liste der von Assets verwendeten suchen, sortieren und filtern.
 
 <table> 
   <tr> 
@@ -107,7 +107,7 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
 
 </br>
 
-* **Massenimport von Leads: Salesperson-Vereinigung**: Parität mit der Lead-REST-API, um Leads während des Massenimport-Prozesses mit SalesPERS zu verknüpfen, wodurch die Komplexität und die Anzahl der erforderlichen API-Aufrufe verringert werden.
+* **Bulk Lead Import: Salesperson-Zuordnung**: Parität mit der Lead-REST-API, um Leads während des Massenimport-Prozesses mit SalesPERS zu verknüpfen, wodurch die Komplexität und die Anzahl der erforderlichen API-Aufrufe verringert werden.
 
 <table> 
   <tr> 
@@ -125,9 +125,9 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
 
 </br>
 
-![(Stern)](assets/yellow-star.png)
+![(star)](assets/yellow-star.png)
 
-* **Sales Insight-Integration mit Dynamic Chat**: Das Insights-Dashboard enthält jetzt Dynamic Chat-Aktivitäten im Smart-Raster sowie eine wöchentliche Zusammenfassung und Detailkarten.
+* **Sales Insight-Integration mit Dynamic Chat**: Das Insights-Dashboard enthält jetzt Dynamic Chat-Aktivitäten im Smart-Raster zusammen mit einer wöchentlichen Zusammenfassung und Detailkarten.
 
 <table> 
   <tr> 
@@ -145,7 +145,7 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
 
 Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiedenen Daten vor oder nach dem standardmäßigen Veröffentlichungsdatum veröffentlicht. Bitte prüfen Sie unten jedes Feature nach seinem Status.
 
-* **Dialogfeld-Streams automatisch anordnen für Dynamic Chat**: Verbessern Sie Ihre überfüllte Dialogarbeitsfläche, indem Sie alles auf der Arbeitsfläche in einem sauberen und leicht lesbaren Format organisieren, indem Sie mit der Taste Auto Arrange (Auto Arrange) auf die Schaltfläche klicken.
+* **Dialogfeld-Streams für die automatische Sortierung für Dynamic Chat**: Verbessern Sie Ihre überfüllte Dialogarbeitsfläche, indem Sie alles auf der Arbeitsfläche in einem sauberen und leicht lesbaren Format organisieren, indem Sie die Taste über &quot;Auto Arrange&quot;drücken.
 
 <table> 
   <tr> 
@@ -154,12 +154,12 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
   </tr>
   <tr> 
    <td>Versendet</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-icons">Stream-Designer-Symbole</a></td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-icons">Designer-Symbole streamen</a></td>
   </tr>
   </tbody>
 </table>
 
-* **Konferenzlinks für Dynamic Chat**: Option zur automatischen Einbeziehung eines Teams- oder Meet-Links für Google und Outlook in jede Kalendereinladung, die an Besucher gesendet wird.
+* **Meeting-Links für Dynamic Chat**: Option, automatisch einen Teams- oder Meet-Link für Google und Outlook in jede Kalendereinladung einzuschließen, die an Besucher gesendet wird.
 
 <table> 
   <tr> 
@@ -173,7 +173,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
   </tbody>
 </table>
 
-* **Unterstützung zusätzlicher Datentypen für Dynamic Chat**: Drei neue Datentypen (boolesch, Ganzzahl, Gleitkommazahl) ermöglichen es Ihnen, vorhandene Marketo Engage-Felder im Dynamic Chat für Dinge wie das Targeting auf Grundlage von Bewertungen oder das Fragen von Besuchern Ja/Nein zu nutzen.
+* **Unterstützen Sie zusätzliche Datentypen für Dynamic Chat**: Drei neue Datentypen (boolesch, Ganzzahl, Gleitkommazahl) ermöglichen es Ihnen, mehr vorhandene Marketo Engage-Felder im Dynamic Chat für Dinge wie das Targeting auf Grundlage von Bewertungen oder die Frage nach Ja/Nein-Fragen für Besucher zu nutzen.
 
 <table> 
   <tr> 
@@ -191,4 +191,4 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
 
 * **Forms 1.0**: Die Einstellung von Forms 1.0 wird mit der Oktober-Version abgeschlossen. Forms 1.0-Assets können keine Daten mehr an Marketo Engage senden und geben bei Versuchen Fehler zurück.
 
-* **NoScript Forms**: Forms funktioniert nicht mehr, wenn JavaScript im Browser deaktiviert ist. Für die Übermittlung von Formularen muss JavaScript aktiviert sein.
+* **No-Script Forms**: Forms funktioniert nicht mehr, wenn JavaScript im Browser deaktiviert ist. Für die Übermittlung von Formularen muss JavaScript aktiviert sein.

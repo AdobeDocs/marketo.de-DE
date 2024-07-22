@@ -16,7 +16,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Wenn Sie Sales Insight-Aktionen bereitstellen, sendet Marketo Ihre Anmeldeinformationen automatisch an Aktionen und verbindet Ihre Instanz mit Marketo. Dieser Schritt ist erforderlich. **nur, wenn die Verbindung nicht hergestellt wurde** nachdem Ihre Sales Connect-Instanz bereitgestellt wurde. Wenn Ihre Verbindung hergestellt wurde, werden Ihre Anmeldedaten auf der Seite &quot;Marketo-Admin-Einstellungen&quot;eingegeben und Sie erhalten eine Option zum Trennen der Verbindung.
+>Wenn Sie Sales Insight-Aktionen bereitstellen, sendet Marketo Ihre Anmeldeinformationen automatisch an Aktionen und verbindet Ihre Instanz mit Marketo. Dieser Schritt ist nur dann erforderlich, wenn die Verbindung nicht hergestellt wird **, nachdem Ihre Sales Connect-Instanz bereitgestellt wurde.** Wenn Ihre Verbindung hergestellt wurde, werden Ihre Anmeldedaten auf der Seite &quot;Marketo-Admin-Einstellungen&quot;eingegeben und Sie erhalten eine Option zum Trennen der Verbindung.
 
 ## Erfassen von Anmeldeinformationen vor der Verbindung von Vertrieb und Verbindung mit Marketo {#acquiring-credentials-prior-to-connecting-sales-connect-with-marketo}
 
@@ -26,7 +26,7 @@ Sie müssen eine Reihe von Anmeldeinformationen aus Marketo erhalten. Diese Anme
 
 PICC
 
-1. Klicken Sie in der Baumstruktur auf **Sales Connect**.
+1. Klicken Sie in der Struktur auf **Sales Connect**.
 
 PICC
 
@@ -40,11 +40,11 @@ PICC
 
 ## Verbinden von Sales Connect mit Marketo {#connect-sales-connect-to-marketo}
 
-1. Klicken Sie in Sales Connect auf das Zahnradsymbol und wählen Sie **Einstellungen**.
+1. Klicken Sie in Sales Connect auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
 
 PICC
 
-1. Wählen Sie unter &quot;Admin Settings&quot;die Option **Marketo**.
+1. Wählen Sie unter &quot;Admin Settings&quot;den Eintrag **Marketo**.
 
 PICC
 

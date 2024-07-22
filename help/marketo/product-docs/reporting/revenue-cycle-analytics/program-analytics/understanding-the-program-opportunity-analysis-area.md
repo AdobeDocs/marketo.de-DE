@@ -6,7 +6,7 @@ exl-id: 6105df93-b3de-4929-85e3-fd328372bd24
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '896'
+source-wordcount: '907'
 ht-degree: 20%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 20%
 
 Im Bereich Analyse der Programmangebote können Sie die Effektivität einzelner Programme analysieren oder die zusammengefassten Ergebnisse nach Programmkanal anzeigen.
 
-**Beispiele für Geschäftsfragen, die Sie mit diesem Analysebereich beantworten können:**:
+**Beispiele für Geschäftsfragen, die Sie mit diesem Analysebereich beantworten können, sind**:
 
 Wie viele Möglichkeiten wurden mit einem bestimmten Programm verbunden und wie viele davon haben wir gewonnen?
 
@@ -132,7 +132,7 @@ Die anderen verfügbaren Maßnahmen spiegeln die Gesamtleistung des Programms wi
   </tr> 
   <tr> 
    <td>Anzahl der mit dem Programm verbundenen Möglichkeiten</td> 
-   <td><p>Die Anzahl der Gesamtchancen, die einem Programm eine beliebige Art von Attributionsguthaben zugeteilt haben. Chancen können durch einen oder mehrere Leads und durch ein oder mehrere Programme beeinflusst werden.</p></td> 
+   <td><p>Die Anzahl der Gesamtchancen, die einem Programm eine Art von Attributionsguthaben zugeteilt haben. Chancen können durch einen oder mehrere Leads und durch ein oder mehrere Programme beeinflusst werden.</p></td> 
   </tr> 
   <tr> 
    <td>Durchschnittliche Anzahl der Erfolge pro geschlossener Gelegenheit</td> 
@@ -169,15 +169,15 @@ Während Messungen (blaue Punkte) berechnet werden und einige Überlegungen und 
   </tr> 
   <tr> 
    <td>Opportunity-Attribute</td> 
-   <td>Geschlossene Chancen<br>Opportunity Name*<br>Opportunity Owner Name<br>Opportunity Stage<br>Opportunity type</td> 
+   <td>Opportunity closed<br>Opportunity name*<br>Opportunity Owner Name<br>Opportunity Stage<br>Opportunity Type</td> 
   </tr> 
   <tr> 
    <td>Opportunity Timeframe</td> 
-   <td>Geschlossene Chancen Jahr/Quartal/Monat<br>Erstellte Chancen - Jahr/Quartal/Monat</td> 
+   <td>Geschlossene Chancen Jahr/Quartal/Monat<br>Erstellte Chance Jahr/Quartal/Monat</td> 
   </tr> 
   <tr> 
    <td>Programmattribute</td> 
-   <td>Programmkanal<br>Programmname</td> 
+   <td>Programmkanal<br> Programmname</td> 
   </tr> 
   <tr> 
    <td>Zeitrahmen für Programmkosten</td> 
@@ -186,8 +186,8 @@ Während Messungen (blaue Punkte) berechnet werden und einige Überlegungen und 
  </tbody> 
 </table>
 
-*&#42;Alle Möglichkeiten, die einem Programm eine beliebige Art von Attribution gutgeschrieben haben. Chancen können durch einen oder mehrere Leads und durch ein oder mehrere Programme beeinflusst werden.*
+*&#42;Alle Möglichkeiten, die einem Programm eine beliebige Art von Attribution gutgeschrieben haben. Die Möglichkeiten können durch einen oder mehrere Leads und durch ein oder mehrere Programme beeinflusst werden.*
 
 >[!MORELIKETHIS]
 >
->[Erstellen eines Berichts &quot;Umsatz-Explorer&quot;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
+>[Erstellen eines Berichts zum Umsatz-Explorer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)

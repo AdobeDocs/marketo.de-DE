@@ -26,7 +26,7 @@ Adobe Identity Management System besteht aus drei Komponenten.
 
 Bestehende Marketo-Abonnements werden im Laufe dieses Jahres auf das Adobe Identity Management-System migriert. Der Marketo-Support kann keine Aktualisierungen zur Adobe IMS-Migration bereitstellen. Das Adobe Account-Team wird in den kommenden Monaten mit dem voraussichtlichen Zeitplan Kontakt aufnehmen.
 
-**Werden Marketo Engage-URLs nach der Migration gleich bleiben?**
+**Bleiben Marketo Engage-URLs nach der Migration die gleichen?**
 
 Anz. URLs sehen nach der Migration anders aus. Die ID-Nummer Ihrer Assets bleibt jedoch unverändert. Und zuvor gespeicherte Lesezeichen sollten Sie immer noch an die richtige Stelle bringen.
 
@@ -44,15 +44,15 @@ _*.experience.adobe.com_
 * Adobe Product Admin hat dieselben Berechtigungen wie ein standardmäßiger Marketo Admin.
 * Die Rolle des Marketo Engage-Admins ist weiterhin ein Administrator und wird einem Benutzer unter Marketo Engage zugewiesen.
 
-**Gibt es Änderungen an der Benutzermanagement-API-Client-Unterstützung?**
+**Gibt es Änderungen an der Unterstützung der User Management API-Clients?**
 
-Ja. Benutzer, die mit Adobe IMS integriert wurden, können nicht alle bestehenden Marketo User Management-APIs verwenden. Bei Einladungs-, Aktualisierungs- und Löschaktionen für Benutzer muss die Adobe [IMS-APIs](https://www.adobe.io/apis/experienceplatform/umapi-new.html){target="_blank"} verwendet werden. Für die Rollenverwaltung gelten weiterhin die Marketo User Management-APIs. Darüber hinaus gibt es keine weiteren Änderungen an der Marketo REST API-Client-Unterstützung.
+Ja. Benutzer, die mit Adobe IMS integriert wurden, können nicht alle bestehenden Marketo User Management-APIs verwenden. Für Benutzereinladungs-, Aktualisierungs- und Löschaktionen sollten die Adobe [IMS-APIs](https://www.adobe.io/apis/experienceplatform/umapi-new.html){target="_blank"} verwendet werden. Für die Rollenverwaltung gelten weiterhin die Marketo User Management-APIs. Darüber hinaus gibt es keine weiteren Änderungen an der Marketo REST API-Client-Unterstützung.
 
-**Wen kontaktieren wir für Support, wenn wir mit IMS integriert sind?**
+**An wen wenden wir uns, um Unterstützung zu erhalten, wenn wir mit IMS integriert sind?**
 
-Sie folgen dem Standardverfahren für die Kontaktaufnahme [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+Sie folgen dem Standardverfahren für die Kontaktaufnahme mit dem [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
 
-**Wenn ich eine Adobe Identity verwende, um auf andere Adobe-Anwendungen zuzugreifen, kann ich diese dann verwenden, um auf Marketo zuzugreifen?**
+**Wenn ich eine Adobe Identity verwende, um auf andere Adobe-Anwendungen zuzugreifen, kann ich diese dann für den Zugriff auf Marketo verwenden?**
 
 Selbst wenn Sie über andere Adobe-Produkte verfügen, können Sie erst mit Adobe Identity auf Marketo zugreifen, wenn das Abonnement zu IMS migriert wird.
 
@@ -62,19 +62,19 @@ Anz. Die Benutzerrollenverwaltung (innerhalb von Arbeitsbereichen) wird im Marke
 
 **Ich bin ein Marketo-Administrator in einem integrierten IMS-Abonnement und habe keinen Zugriff auf die Admin Console. Wie erhalte ich Zugriff?**
 
-Jedes Adobe-System oder jeder Produktadministrator, der Zugriff auf die Admin Console Ihres Unternehmens hat, kann Ihnen Zugriff gewähren. Wenn Sie sich nicht sicher sind, wer in Ihrem Unternehmen über Administratorrechte in der Konsole verfügt, wenden Sie sich an [Adobe-Kundenunterstützung](https://helpx.adobe.com/contact.html){target="_blank"}.
+Jedes Adobe-System oder jeder Produktadministrator, der Zugriff auf die Admin Console Ihres Unternehmens hat, kann Ihnen Zugriff gewähren. Wenn Sie sich nicht sicher sind, wer in Ihrem Unternehmen über Administratorrechte in der Konsole verfügt, wenden Sie sich an die [Adobe-Kundenunterstützung](https://helpx.adobe.com/contact.html){target="_blank"}.
 
-**Wie kann ein Administrator Benutzer zu Marketo hinzufügen? [!DNL Sales Connect]?**
+**Wie würde ein Administrator Benutzer zu Marketo hinzufügen [!DNL Sales Connect]?**
 
-Während eine Produktkarte in der Admin Console für [!DNL Sales Connect], sollte Admin Console nicht zum Hinzufügen/Verwalten von Benutzern verwendet werden. Über den folgenden Link können Administratoren Benutzer über Marketo verwalten [!DNL Sales Connect]: [https://toutapp.com/next#settings/admin/user-management](https://toutapp.com/next#settings/admin/user-management){target="_blank"}.
+Es wird zwar eine Produktkarte in Admin Console für [!DNL Sales Connect] geben, die Admin Console sollte jedoch nicht zum Hinzufügen/Verwalten von Benutzern verwendet werden. Über den folgenden Link können Administratoren Benutzer über Marketo [!DNL Sales Connect] verwalten: [https://toutapp.com/next#settings/admin/user-management](https://toutapp.com/next#settings/admin/user-management){target="_blank"}.
 
-**Wo erhalte ich weitere Informationen über die Adobe Admin Console?**
+**Wo kann ich mehr über die Adobe Admin Console erfahren?**
 
 [https://helpx.adobe.com/enterprise/admin-guide.html](https://helpx.adobe.com/de/enterprise/admin-guide.html){target="_blank"}.
 
-**Wechsele ich immer noch zum Admin-Bereich in Marketo, um Benutzerkontoänderungen für mein Konto vorzunehmen?**
+**Wechsele ich immer noch zum Administratorbereich in Marketo, um Benutzerkontoänderungen für mein Konto vorzunehmen?**
 
-Nein, Sie müssen zu [account.adobe.com](https://account.adobe.com){target="_blank"}.
+Nein, Sie müssen zu [account.adobe.com](https://account.adobe.com){target="_blank"} navigieren.
 
 **Wie funktioniert dies mit der universellen ID von Marketo?**
 
@@ -82,17 +82,17 @@ Diejenigen, die mit einer Adobe-Identität ausgestattet sind, können über den 
 
 **Funktioniert dies mit SSO?**
 
-Ja. Die Marketo-Integration mit Adobe IMS unterstützt universelle ID-Benutzer und SSO. SSO wird jetzt von Adobe IMS gesteuert und auf Unternehmensebene in der Adobe Admin Console eingerichtet. [Weitere Informationen hier](https://helpx.adobe.com/de/enterprise/using/set-up-identity.html){target="_blank"}.
+Ja. Die Marketo-Integration mit Adobe IMS unterstützt universelle ID-Benutzer und SSO. SSO wird jetzt von Adobe IMS gesteuert und auf Unternehmensebene in der Adobe Admin Console eingerichtet. [Weitere Informationen finden Sie hier](https://helpx.adobe.com/de/enterprise/using/set-up-identity.html){target="_blank"}.
 
-**Ich bin bereits an Adobe Identity angeschlossen und möchte jetzt SSO implementieren. Was mache ich?**
+**Ich wurde bereits an Adobe Identity angeschlossen und möchte jetzt SSO implementieren. Was mache ich?**
 
-Wenn Sie Single Sign-On implementieren möchten und Ihr Abonnement auf Adobe Identity integriert wurde, ohne dass SSO in der Adobe-Org implementiert ist, senden Sie bitte ein Ticket an [Marketo-Support](https://nation.marketo.com/){target="_blank"} und geben Sie das Thema als &quot;Marketo on Admin Console, implementieren von SSO&quot;an.
+Wenn Sie Single-Sign-On implementieren möchten und Ihr Abonnement auf Adobe Identity integriert wurde, ohne SSO in der Adobe-Org implementiert zu haben, senden Sie ein Ticket an den [Marketo-Support](https://nation.marketo.com/){target="_blank"} und geben Sie das Thema als &quot;Marketo on Admin Console, implementing SSO&quot;an.
 
-**Wie funktioniert die Geräteregistrierung?**
+**Wie funktioniert die Geräteautorisierung?**
 
 Adobe IMS unterstützt derzeit keine Funktionen wie die Marketo-Funktion zur Geräteautorisierung.
 
-**Ist es weiterhin möglich, die Funktion &quot;Anmelden im Dialogfeld &quot;Benutzer einladen&quot;zu verwenden, um die Anmeldung eines Benutzers von seiner E-Mail-Adresse aus eindeutig zu machen?**
+**Ist es weiterhin möglich, die Funktion &quot;Dialogfeld &quot;Benutzer einladen&quot;verwenden&quot;zu verwenden, um die Anmeldung eines Benutzers von seiner E-Mail-Adresse eindeutig zu machen?**
 
 Anz. Der Workflow Benutzereinladung ist nicht mehr aktiv, wenn ein Abonnement IMS-fähig ist, sodass die Funktion nicht mehr gültig ist. Die Adobe-Identität erfordert, dass die Identität eines Benutzers durch seine E-Mail-Adresse gesteuert wird.
 
@@ -104,11 +104,11 @@ Ja, Sie bestimmen den Identitätstyp, den Ihre Organisation unterstützen soll. 
 
 Folgende Produktkarten werden unterstützt: Marketo Engage, Marketo Measure, Marketo Dynamic Chat, Marketo Sales Connect und Marketo Sales Insight-Aktionen.
 
-**Was passiert, wenn meine Benutzeranmeldung nicht mit meiner E-Mail übereinstimmt, wenn ich zu einer Adobe Identity migriert werde?**
+**Wie verhält es sich, wenn meine Benutzeranmeldung nicht mit meiner E-Mail übereinstimmt, wenn ich zu einer Adobe-Identität migriert werde?**
 
 Aktuelle Marketo-Benutzer mit anderen Anmeldungen als ihre E-Mail-Adresse melden sich nicht mehr mit dieser Berechtigung an, nachdem sie zu einer Adobe-Identität migriert wurden. Adobe Identitäten authentifizieren sich immer mit der E-Mail-Adresse eines Benutzers.
 
-**Was passiert nach der Adobe Identity-Migration, wenn mein Abonnement IP-Einschränkungseinstellungen verwendet?**
+**Was passiert nach der Adobe-Identitätsmigration, wenn mein Abonnement IP-Einschränkungseinstellungen verwendet?**
 
 Wenn Abonnements für Adobe Identity integriert sind, werden IP-Einschränkungseinstellungen nicht in die Adobe Admin Console migriert. Zu den IP-Einschränkungseinstellungen von Marketo gehören das Zulassen des Zugriffs nur von bestimmten IP-Adressen aus und das Blockieren des Zugriffs auf bestimmte IP-Adressen. Derzeit unterstützt das Adobe Identity Management-System keine IP-Einschränkungsfunktionen.
 
@@ -116,7 +116,7 @@ Im Jahr 2024 wird das Adobe Identity Management-System eine Funktion veröffentl
 
 Benutzer, die derzeit die IP-Beschränkung verwenden und bestimmte Adressen am Zugriff hindern, können diese Funktion nach der Migration zu Adobe Identity nicht mehr verwenden, da sie von Adobe Identity Management System nicht unterstützt wird.
 
-**Was passiert nach der Adobe-Identitätsmigration, wenn ich Benutzer mit einer Rolle habe, die die Option &quot;Single Sign-On umgehen&quot;hat?**
+**Was passiert nach der Migration der Adobe-Identität, wenn ich Benutzer mit einer Rolle habe, die die Option &quot;Single-Sign-On umgehen&quot;hat?**
 
 Wenn Abonnements für Adobe Identity integriert sind, wird Single Sign-On (SSO) für alle Adobe-Benutzer auf Organisationsebene eingerichtet. Wenn SSO eingerichtet ist, wird sie für alle Marketo-Benutzer/alle Marketo-Instanzen in dieser Adobe-Organisation erzwungen. Zuvor hat Marketo unterstützt, dass eine Benutzerrolle so eingerichtet werden kann, dass sie die Option &quot;Single Sign-On umgehen&quot;hat. Dies wird vom Adobe Identity Management System nicht unterstützt.
 

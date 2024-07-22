@@ -7,7 +7,7 @@ feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '152'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -17,7 +17,7 @@ Wussten Sie, dass Sie Anmerkungen zu Seitenproblemen als persönliche Erinnerung
 
 ## Hinzufügen von Anmerkungen im Abschnitt zu Seitenproblemen {#adding-notes-in-page-issues-section}
 
-1. Navigieren Sie zu **[!UICONTROL Seiten]** Abschnitt.
+1. Wechseln Sie zum Abschnitt **[!UICONTROL Seiten]** .
 
    ![](assets/image2014-9-18-13-3a11-3a43.png)
 
@@ -25,7 +25,7 @@ Wussten Sie, dass Sie Anmerkungen zu Seitenproblemen als persönliche Erinnerung
 
    ![](assets/image2014-9-18-13-3a12-3a0.png)
 
-1. Bewegen Sie den Mauszeiger über das Problem, dem Sie einen Hinweis hinzufügen möchten. Klicken **[!UICONTROL Fixierbaren Hinweis hinzufügen]**.
+1. Bewegen Sie den Mauszeiger über das Problem, dem Sie einen Hinweis hinzufügen möchten. Klicken Sie auf **[!UICONTROL Fixierbaren Hinweis hinzufügen]**.
 
    ![](assets/image2014-9-18-13-3a12-3a6.png)
 
@@ -35,11 +35,11 @@ Wussten Sie, dass Sie Anmerkungen zu Seitenproblemen als persönliche Erinnerung
 
 >[!TIP]
 >
->Sie können Ihre Notiz löschen, indem Sie auf die kleine **x** in der oberen linken Ecke.
+>Sie können Ihre Notiz löschen, indem Sie auf die kleine **x** oben links klicken.
 
 ## Notizen im Drilldown &quot;Seitendetails&quot;hinzufügen {#add-notes-in-page-detail-drill-down}
 
-1. Navigieren Sie zu **[!UICONTROL Seiten]** Abschnitt.
+1. Wechseln Sie zum Abschnitt **[!UICONTROL Seiten]** .
 
    ![](assets/image2014-9-18-13-3a12-3a59.png)
 
@@ -47,11 +47,11 @@ Wussten Sie, dass Sie Anmerkungen zu Seitenproblemen als persönliche Erinnerung
 
    ![](assets/image2014-9-18-13-3a13-3a42.png)
 
-1. Bewegen Sie den Mauszeiger über das Seitenproblem, zu dem Sie einen Hinweis hinzufügen möchten, und klicken Sie auf **[!UICONTROL Anmerkung hinzufügen]**.
+1. Bewegen Sie den Mauszeiger über das Seitenproblem, zu dem Sie einen Hinweis hinzufügen möchten, und klicken Sie auf **[!UICONTROL Notiz hinzufügen]**.
 
    ![](assets/image2014-9-18-13-3a13-3a46.png)
 
-1. Geben Sie Ihre Notiz ein. Klicken **[!UICONTROL Speichern]**.
+1. Geben Sie Ihre Notiz ein. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/image2014-9-18-13-3a14-3a5.png)
 

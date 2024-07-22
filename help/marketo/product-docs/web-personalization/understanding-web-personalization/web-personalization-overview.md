@@ -1,21 +1,21 @@
 ---
 unique-page-id: 3571900
-description: Übersicht über die Web-Personalisierung - Marketo-Dokumente - Produktdokumentation
-title: Web-Personalisierung - Überblick
+description: Übersicht über Web Personalization - Marketo Docs - Produktdokumentation
+title: Übersicht über Web Personalization
 exl-id: 31445a69-9a3a-4350-a3eb-1af718e823b4
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '833'
+source-wordcount: '836'
 ht-degree: 2%
 
 ---
 
-# Web-Personalisierung - Überblick {#web-personalization-overview}
+# Übersicht über Web Personalization {#web-personalization-overview}
 
 ## Einführung {#introduction}
 
-Für neue Marketo-Kunden ist die Echtzeit-Personalisierung in vier Apps unterteilt, auf die über die beiden Kacheln Web-Personalisierung und ContentAI zugegriffen wird.
+Für neue Marketo-Kunden ist die Echtzeit-Personalization in vier Apps unterteilt, auf die mit den beiden Kacheln Web Personalization und ContentAI zugegriffen wird.
 
 ![](assets/pasted-image-at-2016-03-23-02-45-pm.png) ![](assets/mlm-homepage-content-ai-281-29.png)
 
@@ -23,30 +23,30 @@ Für neue Marketo-Kunden ist die Echtzeit-Personalisierung in vier Apps untertei
 >
 >Web Personalization und ContentAI sind in allen von Marketo unterstützten Sprachen verfügbar (Englisch, Französisch, Deutsch, Japanisch, Portugiesisch, Spanisch).
 
-Vorhandene Kunden greifen über die Kachel Echtzeit-Personalisierung bis zur Verlängerung auf die Apps zu. Zu diesem Zeitpunkt werden sie die oben genannten Anmeldedaten verwenden.
+Vorhandene Kunden greifen über die Kachel Echtzeit-Personalization bis zur Verlängerung auf die Apps zu. Zu diesem Zeitpunkt werden sie die oben genannten Anmeldedaten verwenden.
 
 ![](assets/image2016-2-9-8-3a52-3a32.png)
 
-Wenn Sie auf die Kachel Web-Personalisierung klicken, wird die Seite Dashboard angezeigt. Klicken Sie auf die Kachel ContentAI und navigieren Sie direkt zur Seite Content Recommendations .
+Wenn Sie auf die Kachel Web Personalization klicken, wird die Seite Dashboard angezeigt. Klicken Sie auf die Kachel ContentAI und navigieren Sie direkt zur Seite Content Recommendations .
 
 Die vier Apps sind:
 
-* Webpersonalisierung
+* Web-Personalisierung
 * Kontobasiertes Webmarketing
 * Website-Retargeting
 * ContentAI
 
-Die **Web-Personalisierung** Die Kachel ist Ihr Zugangspunkt zum Erstellen personalisierter Webkampagnen. Kontobasiertes Webmarketing und Web-Retargeting. Sie können Inhalte auf der Seite &quot;Content Analytics&quot;hinzufügen.
+Die Kachel **Web Personalization** ist Ihr Zugangspunkt zum Erstellen personalisierter Webkampagnen. Kontobasiertes Webmarketing und Web-Retargeting. Sie können Inhalte auf der Seite &quot;Content Analytics&quot;hinzufügen.
 
-**Kontobasiertes Webmarketing** funktioniert mit Web-Personalisierung und Funktionen namens Konten. Die Seite &quot;Spezifische Konten&quot;enthält grafische Informationen zu bestehenden Kunden, Gesamtinteraktionen und Organisationstrends sowie eine Liste der Konten. Sie können dort auch neue benannte Konten erstellen.
+**Kontobasiertes Webmarketing** funktioniert mit Web Personalization und Funktionen namens Konten. Die Seite &quot;Spezifische Konten&quot;enthält grafische Informationen zu bestehenden Kunden, Gesamtinteraktionen und Organisationstrends sowie eine Liste der Konten. Sie können dort auch neue benannte Konten erstellen.
 
 **Website-Retargeting** gibt Ihnen die Möglichkeit, segmentierte Zielgruppen erneut zu vermarkten. Sie können Segmente festlegen, aber keine benannten Konten im Filter verwenden.
 
-**ContentAI** ist der Ort, um Inhaltsempfehlungen zu geben. Sie können Inhalte einfach zur Seite &quot;Content Recommendations&quot;hinzufügen.
+**ContentAI** ist der Ort, an dem Inhaltsempfehlungen bereitgestellt werden. Sie können Inhalte einfach zur Seite &quot;Content Recommendations&quot;hinzufügen.
 
 >[!NOTE]
 >
->Um auf kontobasiertes Webmarketing oder Website-Retargeting zuzugreifen, müssen Sie auf die Kachel Web-Personalisierung klicken, selbst wenn Sie nicht über die Web-Personalisierungs-App verfügen.
+>Um auf kontobasiertes Webmarketing oder Website-Retargeting zuzugreifen, müssen Sie auf die Kachel Web Personalization klicken, selbst wenn Sie nicht über die Web Personalization-App verfügen.
 
 ## Organisationen {#organizations}
 
@@ -62,20 +62,20 @@ Im Tab Organisationen werden alle Details (Name, Standort, Aktivität und Zeitst
 >* Neueste: die neuesten Organisationen in der Tabelle (Standard)
 >* Für wertvolle Einblicke filtern Sie nach der aktivsten
 
-**Organisationen - Rechtes Bedienfeld**
+**Organisationen - Rechtsbereich**
 
 Das rechte Bedienfeld der Seite &quot;Organisationen&quot;bietet die folgenden Funktionen und Einblicke:
 
 <table> 
  <tbody> 
   <tr> 
-   <td><p><strong>Symbol "Tabelle"</strong>: Das Symbol oben rechts im Bedienfeld lädt die Tabelle "Organisationen"im CSV-Format zur Offline-Verwendung herunter</p><p><strong>E-Mail-Warnung festlegen</strong>: Sendet dem angemeldeten Benutzer bei jedem Besuch der Website durch die ausgewählte Organisation eine E-Mail.</p><p><strong>Leads</strong>: Öffnet die Lead-Tabelle für die ausgewählte Organisation</p><p><strong>Freigeben</strong>: Öffnet ein Popup-Fenster, in dem Sie die Details der Organisation, die die Webseite besucht hat, per E-Mail senden und diese weitergeben können.</p><p><strong>Symbol "Position"</strong>: Zeigt das Land und die Stadt der ausgewählten Organisation an</p><p><strong>Links</strong>: Jigsaw, who, Linkedin, Google, Twitter öffnet ein neues Fenster mit zusätzlichen Informationen von der jeweiligen Webseite, das zusätzliche Einblicke in die ausgewählte Organisation bietet.</p><p><strong>Suche</strong>: Zeigt den Suchbegriff an, der verwendet wird, wenn der Besucher über eine Suchmaschine gelangt ist.</p><p><strong>Referrer</strong>: Zeigt den URL-Link der Seite an, die den Traffic auf Ihre Site verwiesen hat.</p><p><strong>Besucher</strong>: Zeigt die Anzahl der Besuche, die Anzahl der von der ausgewählten Organisation angezeigten Seiten und ihre E-Mail-Adresse (sofern diese ein Sendeformular ausgefüllt haben) sowie Uhrzeit und Datum des letzten Besuchs an</p><p><strong>Clickstream</strong>: Zeigt eine Tabelle der Benutzeraktivität und des URL-Pfads auf der Site sowie die Dauer des Besuchs auf den einzelnen Seiten an</p></td> 
+   <td><p><strong>Symbol "Arbeitsblatt"</strong>: Das Symbol oben rechts im Bedienfeld lädt die Tabelle "Unternehmen"im CSV-Format herunter, um sie offline zu verwenden</p><p><strong>E-Mail-Warnung festlegen</strong>: Sendet dem angemeldeten Benutzer bei jedem Besuch der ausgewählten Organisation auf der Website eine E-Mail.</p><p><strong>Leads</strong>: Öffnet die Lead-Tabelle für die ausgewählte Organisation</p><p><strong>Freigabe</strong>: Öffnet ein Popup-Fenster, in dem Sie die Details der Organisation, die die Webseite besucht hat, per E-Mail senden und diese freigeben können</p><p><strong>Ortssymbol</strong>: Zeigt das Land und die Stadt der ausgewählten Organisation an</p><p><strong>Links</strong>: Jigsaw, who, LinkedIn, Google, Twitter öffnet ein neues Fenster mit zusätzlichen Informationen von der jeweiligen Webseite und bietet zusätzliche Einblicke in die ausgewählte Organisation.</p><p><strong>Suche</strong>: Zeigt den Suchbegriff an, der verwendet wird, wenn der Besucher über eine Suchmaschine gelangt ist.</p><p><strong>Referrer</strong>: Zeigt den URL-Link der Seite an, die den Traffic auf Ihre Site verwiesen hat</p><p><strong>Besucher</strong>: Zeigt die Anzahl der Besuche, die Anzahl der von der ausgewählten Organisation angezeigten Seiten und ihre E-Mail-Adresse (sofern diese ein Sendeformular ausgefüllt haben) sowie Uhrzeit und Datum des letzten Besuchs an</p><p><strong>Clickstream</strong>: Zeigt eine Tabelle der Benutzeraktivität und des URL-Pfads auf der Site an und zeigt an, wie lange sie die einzelnen Seiten besucht haben</p></td> 
    <td><img src="assets/image2014-11-10-19-3a22-3a47.png" data-linked-resource-id="5046291" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="3571900"></td> 
   </tr> 
  </tbody> 
 </table>
 
-**Organisationen freigeben**
+**Unternehmen freigeben**
 
 Möchten Sie die Informationen Ihres Website-Besuchers an einen Kollegen weitergeben? Klicken Sie auf eine Organisation und dann auf den Link Freigeben im rechten Bereich.
 

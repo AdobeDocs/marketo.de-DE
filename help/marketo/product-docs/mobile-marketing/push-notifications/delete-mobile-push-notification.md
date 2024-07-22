@@ -13,7 +13,7 @@ ht-degree: 11%
 
 # Mobile Push-Benachrichtigung löschen {#delete-mobile-push-notification}
 
-1. Navigieren Sie zu **Marketingaktivitäten** Bereich.
+1. Wechseln Sie zum Bereich **Marketingaktivitäten** .
 
 ![](assets/image2015-4-22-18-3a42-3a36.png)
 
@@ -21,11 +21,11 @@ ht-degree: 11%
 
    ![](assets/image2015-4-22-18-3a43-3a21.png)
 
-1. under **Aktionen bei Push-Benachrichtigungen** klicken **Löschen**.
+1. Klicken Sie unter **Push Notification Actions** auf **Delete**.
 
    ![](assets/image2015-4-22-18-3a43-3a38.png)
 
-1. Bestätigen durch Klicken auf **Löschen**.
+1. Bestätigen Sie dies durch Klicken auf **Löschen**.
 
    ![](assets/image2015-4-22-18-3a43-3a51.png)
 

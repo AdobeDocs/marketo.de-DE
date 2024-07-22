@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Angezeigte Webseiten, Bericht zur Webseiten-Aktivität {#web-pages-viewed-web-page-activity-report}
 
-Von einem [Webseitenaktivitätsbericht](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)können Sie die spezifischen Seiten sehen, die von den Personen im Bericht angezeigt wurden.
+Aus dem Bericht [Web-Seitenaktivität](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) können Sie die spezifischen Seiten sehen, die von den Personen im Bericht angezeigt wurden.
 
 >[!PREREQUISITES]
 >
->Um Aktivitäten von Ihrer Website in Marketo aus zu erfassen, müssen Sie zunächst  [Einrichten von Munchkin auf Ihrer Site](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
+>Um Aktivitäten von Ihrer Website in Marketo aus zu erfassen, müssen Sie zunächst [Munchkin auf Ihrer Site einrichten](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 
-1. In [Webseitenaktivitätsbericht](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)klicken Sie auf die Zahl in der Spalte Seitenansichten .
+1. Klicken Sie im Bericht [Web-Seitenaktivität](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) auf die Zahl in der Spalte &quot;Seitenansichten&quot;.
 
    ![](assets/image2014-9-16-14-3a54-3a8.png)
 
@@ -29,4 +29,4 @@ Von einem [Webseitenaktivitätsbericht](/help/marketo/product-docs/reporting/bas
 
    >[!MORELIKETHIS]
    >
-   >Erstellen Sie eine  [Bericht zur Web-Aktivität der Firma](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md) um zu sehen, welche Unternehmen Ihre Site besuchen.
+   >Erstellen Sie einen [Web-Aktivitätsbericht für Unternehmen](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md), um zu sehen, welche Unternehmen Ihre Site besuchen.

@@ -5,7 +5,7 @@ exl-id: 6fa9f6c0-c69d-478f-b333-13a5c910f577
 feature: Microsoft Dynamics
 source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
@@ -22,13 +22,13 @@ Manchmal können Sie Felder in Dynamics löschen. Marketo Engage behält die Fel
 
    ![](assets/sync-before-deleting-them-in-dynamics-2.png)
 
-1. Klicks **[!UICONTROL Synchronisierung deaktivieren]**.
+1. Klicken Sie auf **[!UICONTROL Synchronisierung deaktivieren]**.
 
    ![](assets/sync-before-deleting-them-in-dynamics-3.png)
 
 1. Melden Sie sich in einer neuen Registerkarte in Ihrem Browser bei Dynamics an und löschen Sie die gewünschten Felder.
 
-1. Klicken Sie in Marketo unter &quot;Microsoft Dynamics&quot;auf **[!UICONTROL Bearbeiten]** neben &quot;Schritt 2: Auswahl der zu synchronisierenden Felder&quot;.
+1. Klicken Sie in Marketo unter &quot;Microsoft Dynamics&quot;neben &quot;Schritt 2: Zu synchronisierende Felder auswählen&quot;auf &quot;**[!UICONTROL Bearbeiten]**&quot;.
 
    ![](assets/sync-before-deleting-them-in-dynamics-4.png)
 
@@ -38,10 +38,10 @@ Manchmal können Sie Felder in Dynamics löschen. Marketo Engage behält die Fel
 
 >[!CAUTION]
 >
->Klicken **[!UICONTROL Speichern]** ist erforderlich, um das aktualisierte Schema für die Synchronisierung zu speichern, selbst wenn keine Änderungen vorgenommen wurden.
+>Wenn Sie auf **[!UICONTROL Speichern]** klicken, muss das aktualisierte Schema für die Synchronisierung gespeichert werden, selbst wenn keine Änderungen vorgenommen wurden.
 
 >[!NOTE]
 >
->Wenn die Synchronisierung vor dem Löschen eines Felds in Dynamics nicht angehalten wird, kann es zu Fehlern bei der Synchronisierung kommen. Ist dies der Fall, wird die Synchronisierung beendet. Vor der Wiederaufnahme muss der Marketo-Administrator die Option &quot;Zu synchronisierende Felder auswählen&quot;(siehe oben) durchsuchen und auf **[!UICONTROL Speichern]** , damit die Synchronisierung die Schemaänderungen akzeptiert.
+>Wenn die Synchronisierung vor dem Löschen eines Felds in Dynamics nicht angehalten wird, kann es zu Fehlern bei der Synchronisierung kommen. Ist dies der Fall, wird die Synchronisierung beendet. Vor der Wiederaufnahme muss der Marketo-Administrator die Meldung &quot;Zu synchronisierende Felder auswählen&quot;(siehe oben) lesen und auf **[!UICONTROL Speichern]** klicken, damit die Synchronisierung die Schemaänderungen akzeptiert.
 
 Denken Sie daran, die Synchronisierung zu aktivieren, nachdem die Änderungen gespeichert wurden!

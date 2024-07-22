@@ -19,8 +19,8 @@ Sie müssen lediglich auswählen, wann Ihre E-Mails bei der Erstellung Ihrer Kam
 
 Wenn Sie den ersten Schritt nicht planen oder einen Zeitpunkt für &quot;Senden am&quot;wählen müssen, werden Sie aufgefordert, festzulegen, wann Ihre Kampagne gesendet werden soll, und jedes Mal, wenn Sie eine Person oder eine Gruppe hinzufügen.
 
-Öffnen Sie das Modal Zu Kampagne hinzufügen , indem Sie Einzelanwender, eine Gruppe oder ausgewählte Personen hinzufügen und auf **Nächste**.
+Öffnen Sie das Modal Zu Kampagne hinzufügen , indem Sie Einzelanwender, eine Gruppe oder ausgewählte Personen hinzufügen, und klicken Sie auf **Weiter**.
 
-Nachdem Sie auf **Nächste**, können Sie die erste E-Mail in der Vorschau anzeigen.
+Nachdem Sie auf **Weiter** geklickt haben, können Sie eine Vorschau der ersten E-Mail anzeigen.
 
-Nach dem Klicken **Nächste** wieder, werden Sie zu einer Option weitergeleitet, wenn Ihre Kampagne auslaufen soll. Sie können ihn entweder jetzt starten lassen oder einen Zeitpunkt für den späteren Beginn der Kampagne planen.
+Nachdem Sie erneut auf **Weiter** geklickt haben, gelangen Sie zu einer Option, die angibt, wann Ihre Kampagne auslaufen soll. Sie können ihn entweder jetzt starten lassen oder einen Zeitpunkt für den späteren Beginn der Kampagne planen.

@@ -7,7 +7,7 @@ feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '76'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Der Lead-Feed ist eine aktuelle Liste interessanter Ereignisse, die von Ihren Leads durchgeführt werden.
 
-1. Navigieren Sie zu **Marketo** Gebiet in Salesforce1.
+1. Wechseln Sie in Salesforce1 zum Bereich **Marketo** .
 
    ![](assets/image2015-4-20-15-3a14-3a15.png)
 
@@ -23,7 +23,7 @@ Der Lead-Feed ist eine aktuelle Liste interessanter Ereignisse, die von Ihren Le
 
    ![](assets/image2015-4-23-17-3a7-3a16.png)
 
-1. Tippen **Lead-Feed**.
+1. Tippen Sie auf **Lead-Feed**.
 
    ![](assets/image2015-4-23-17-3a19-3a16.png)
 
@@ -35,4 +35,4 @@ Der Lead-Feed ist eine aktuelle Liste interessanter Ereignisse, die von Ihren Le
 >
 >* [Interessante Momente in Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
 >* [Senden von Marketo-E-Mail- und -Campaign- und Watchlist-Aktionen in Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
->* [Beste Betten in Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)
+>* [Beste Einsätze in Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)

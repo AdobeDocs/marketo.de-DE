@@ -13,4 +13,4 @@ ht-degree: 0%
 
 # Kalenderfunktionen {#calendar-functionality}
 
-Teilen Sie Ihren Empfängern mit, wenn Sie verfügbar sind, indem Sie die **Kalender** Schaltfläche. Er ruft Ihren Google-Kalender ab und ermöglicht Ihnen das Hinzufügen spezifischer Daten und Uhrzeiten, die Ihnen kostenlos sind. Der Empfänger kann dann mit einer Zeit antworten, die für ihn funktioniert.
+Teilen Sie Ihren Empfängern mit, wenn Sie verfügbar sind, indem Sie auf die Schaltfläche **Kalender** klicken. Er ruft Ihren Google-Kalender ab und ermöglicht Ihnen das Hinzufügen spezifischer Daten und Uhrzeiten, die Ihnen kostenlos sind. Der Empfänger kann dann mit einer Zeit antworten, die für ihn funktioniert.

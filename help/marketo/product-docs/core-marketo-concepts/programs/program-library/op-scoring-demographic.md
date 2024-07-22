@@ -2,11 +2,11 @@
 description: OP-Scoring-Demographic - Marketo-Dokumente - Produktdokumentation
 title: OP-Scoring-Demographie
 feature: Programs
-exl-id: c0e69f35-a3b7-496d-a9b6-b3e7168b07f4
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: ed11616e-b587-4d03-b293-9cc9fa3c1699
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '313'
-ht-degree: 38%
+source-wordcount: '310'
+ht-degree: 34%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 38%
 
 Dies ist ein Beispiel für ein erweitertes (tokenisiertes) operationelles Programm, das ein Marketo Engage-Standardprogramm für demografische Auswertungen verwendet. Zeigen Sie die Scoring-Werte auf der Registerkarte &quot;My Tokens&quot;des Programms an und bearbeiten Sie sie. Erfordert ein benutzerdefiniertes Punktfeld namens &quot;Demografische Punktzahl&quot;.
 
-Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalten Sie vom Adobe-Account-Team oder unter [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} Seite.
+Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Programms an das Adobe-Account-Team oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} .
 
 ## Kanal-Zusammenfassung {#channel-summary}
 
@@ -23,7 +23,7 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
   <tr> 
    <th>Kanal</th> 
    <th>Status der Mitgliedschaft</th>
-   <th>Analyseverhalten</th>
+   <th>Analytics Behavior</th>
    <th>Programmtyp</th>
   </tr> 
   <tr> 
@@ -52,7 +52,7 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
  </tbody> 
 </table>
 
-## Das Programm enthält die folgenden Assets {#program-contains-the-following-assets}
+## Das Programm enthält die folgende Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -99,7 +99,7 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
   <tr> 
    <td>Intelligente Kampagne</td> 
    <td> </td>
-   <td>Job-Titel</td>
+   <td>Jobtitel</td>
   </tr>
   <tr> 
    <td>Intelligente Kampagne</td> 
@@ -239,7 +239,7 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
    * Erstellen von Tags in diesem Abonnement - _Empfohlen_
    * Ignorieren
 
-* **Landingpage-Vorlage mit demselben Namen**
+* **Vorlage für Einstiegsseiten mit demselben Namen**
    * Originalvorlage kopieren - _Empfohlen_
    * Zielvorlage verwenden
 

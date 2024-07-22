@@ -18,11 +18,11 @@ Beginnen Sie einen neuen Auftrag oder übernehmen Sie eine vorhandene Instanz vo
 
 Stellen Sie sicher, dass Sie in der Community von Marketing Nation ordnungsgemäß eingerichtet sind.
 
-* [**Profil einrichten**](https://nation.marketo.com/){target="_blank"}.
+* [**Richten Sie Ihr Profil ein**](https://nation.marketo.com/){target="_blank"}.
 
-* Lesen Sie im Abschnitt [**Marketing Community-Richtlinien**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
+* Lesen Sie die [**Richtlinien der Marketing-Community**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
 
-* Erfahren Sie, wie [**Support-Fall einreichen**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"} (und bestätigen Sie Ihre [**als autorisierter Support-Ansprechpartner**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}).
+* Erfahren Sie, wie Sie [**einen Support-Vorgang senden**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"} (und bestätigen Sie, dass Sie [**als autorisierten Support-Kontakt eingerichtet sind**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}).
 
 ## Zusammenführen Ihres Marketing Nation-Profils {#merge-your-marketing-nation-profile}
 
@@ -30,7 +30,7 @@ Wenn Sie bereits über ein Marketing Nation -Profil mit einem früheren Unterneh
 
 1. Erstellen Sie ein Benutzername-/Community-Profil mit Ihrer E-Mail-Adresse, die Zugriff auf Ihr aktuelles Marketo Engage-Abonnement hat.
 
-1. [Nachdem Sie Ihr Profil erstellt haben](https://nation.marketo.com/){target="_blank"} mit Ihren neuen Unternehmensinformationen senden Sie eine Anfrage an `ccare@marketo.com` , damit die Daten aus Ihrem alten Community-Profil mit Ihrem neuen zusammengeführt werden.
+1. [Nachdem Sie Ihr Profil ](https://nation.marketo.com/){target="_blank"} mit Ihren neuen Firmeninformationen erstellt haben, senden Sie eine Anfrage an `ccare@marketo.com`, damit die Daten aus Ihrem alten Community-Profil mit Ihrem neuen zusammengeführt werden.
 
 1. Bitte geben Sie in Ihrer Anfrage die folgenden Details an:
 
@@ -44,26 +44,26 @@ Unser Community-Team führt Ihre Community-Profile innerhalb von 4 bis 6 Werktag
 
 Adobe hat mit der Eingabe von Marketo Champions mehrere Checklisten für die Prüfung von geerbten Marketo Engage-Instanzen zusammengestellt, um Ihnen zu helfen, den Boden zu erobern. Erfahren Sie, wie Sie in den verschiedenen Bereichen des Marketo Engage navigieren und die verschiedenen für eine Prüfung erforderlichen Aufgaben ausführen können. Links zur empfohlenen Hilfedokumentation sind enthalten.
 
-Sie können auch [Checklisten herunterladen](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) in Tabellenform.
+Sie können die Checklisten auch [ im Tabellenformular herunterladen](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx).
 
-* [Admin-Bereich](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md){target="_blank"}
+* [Admin-Abschnitt](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md){target="_blank"}
 
-* [Datenbank](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md){target="_blank"}
+* [Database](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md){target="_blank"}
 
 * [Design Studio](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md){target="_blank"}
 
 * [Marketingaktivitäten](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md){target="_blank"}
 
-* [Dokumentieren Sie die Einrichtung Ihrer geerbten Instanz.](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md){target="_blank"}
+* [Dokumentieren Sie die Einrichtung Ihrer geerbten Instanz](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md){target="_blank"}
 
 ## Hilfen {#ways-to-get-help}
 
 Benötigen Sie weitere Hilfe? Stellen Sie über die unten stehenden Links eine Verbindung zu uns oder anderen Marketo Engage-Benutzern her.
 
-* Für technische Hilfe bei Problemen, die nicht ordnungsgemäß funktionieren, wenden Sie sich an **[Marketo Engage-Kundenunterstützung](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}**.
+* Wenden Sie sich für technische Unterstützung bei Problemen, die nicht ordnungsgemäß funktionieren, an den **[Marketo Engage-Support](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}**.
 
-* Stellen Sie eine Verbindung zu anderen Marketo Engage-Benutzern her und lernen Sie von ihnen aus **[Adobe Marketo Engage Community](https://nation.marketo.com/){target="_blank"}**.
+* Stellen Sie eine Verbindung zu anderen Marketo Engage-Benutzern her und lernen Sie von diesen in der **[Adobe Marketo Engage Community](https://nation.marketo.com/){target="_blank"}**.
 
-* Wenden Sie sich für praktische Unterstützung beim Optimum aus Ihrer Marketo Engage-Instanz an **[Adobe Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}**.
+* Wenden Sie sich für praktische Hilfe beim Optimum aus Ihrer Marketo Engage-Instanz an **[Adobe Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}**.
 
-* Watch **[kuratierte Anleitungsvideos](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html){target="_blank"}** über verschiedene Aspekte des Marketo Engage.
+* Sehen Sie sich **[kuratierte Anleitungsvideos](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html){target="_blank"}** zu verschiedenen Aspekten des Marketo Engage an.

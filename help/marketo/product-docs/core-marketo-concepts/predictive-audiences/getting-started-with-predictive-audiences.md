@@ -5,7 +5,7 @@ exl-id: d4780837-4cab-49b8-9aa4-61e6d4c43e8b
 feature: Predictive Audiences
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Predictive Audiences (PA) nutzt KI und maschinelles Lernen, um Sie in die Lage z
 PA umfasst die folgenden Funktionen:
 
 * Registrierungs- und Anerkennungswahrscheinlichkeitswerte für jeden Lead in einem Ereignisprogramm
-* [Vorhersagefilter](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md){target="_blank"}
+* [Prädiktive Filter](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md){target="_blank"}
 * [Modelle und Einflussfaktoren](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md){target="_blank"}
 * KI/ML-basierte Einblicke
 * Zielverfolgung und geplante Registrierungen (Zielverfolgung ist nur für diejenigen verfügbar, bei denen der moderne UX-Umschalter für Ereignisprogramme aktiviert ist)
@@ -32,6 +32,6 @@ Die Leistung der KI-/ML-Modelle hängt von den Daten in Ihrem Abonnement ab. Je 
 
 Predictive Audiences wird automatisch einbezogen und für Instanzen aktiviert, die Prime- oder Ultimate-Preispakete verwenden. Weitere Informationen zum Zugriff auf diese Funktion erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).
 
-1. Nachdem die Funktion Ihrer Instanz hinzugefügt wurde, navigieren Sie zum **[!UICONTROL Vorhersagekräftige Zielgruppen]** in der **[!UICONTROL Admin]** Marketo.
+1. Nachdem die Funktion Ihrer Instanz hinzugefügt wurde, navigieren Sie zur Seite **[!UICONTROL Vorhersagekräftige Zielgruppen]** im Bereich **[!UICONTROL Admin]** von Marketo.
 
-1. Überprüfen **[!UICONTROL Aktivieren prädiktiver Zielgruppen]** , um die Funktion zu aktivieren. Beachten Sie, dass die Einrichtung aller Prozesse bis zu 24 Stunden dauern kann.
+1. Aktivieren Sie die Option **[!UICONTROL Predictive Audiences aktivieren]** , um die Funktion zu aktivieren. Beachten Sie, dass die Einrichtung aller Prozesse bis zu 24 Stunden dauern kann.

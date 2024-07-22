@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Wenn sich ein Benutzer mit Adobe Identity bei der Marketo Engage-Anwendung anmelden muss, muss er sich über den AdobeID-Anmelde-Link im Vergleich zu den typischen Anmeldedaten auf der Marketo Engage-Anmeldeseite anmelden. Nach dem Klicken auf den Link wird der Benutzer zur Marketo Engage-Anwendung weitergeleitet.
 
-1. Klicks **[!UICONTROL Mit Adobe ID fortfahren]** auf der Marketo Engage-Anmeldeseite.
+1. Klicken Sie auf der Marketo Engage-Anmeldeseite auf &quot;**[!UICONTROL Weiter mit AdobeID]**&quot;.
 
    ![](assets/user-sign-in-with-adobe-id-1.png)
 

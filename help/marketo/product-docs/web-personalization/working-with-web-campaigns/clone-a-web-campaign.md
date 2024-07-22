@@ -17,19 +17,19 @@ Verwenden Sie die Klonfunktion auf der Seite Web-Kampagnen , um die Kampagnenein
 
 ## Erstellen einer Klonkampagne {#create-a-clone-campaign}
 
-1. Navigieren Sie zu **Web-Kampagnen**.
+1. Wechseln Sie zu **Web-Kampagnen**.
 
    ![](assets/image2016-8-18-16-3a44-3a0.png)
 
    >[!NOTE]
    >
-   >Um die gewünschte Web-Kampagne leichter zu finden, verwenden Sie die [Filterfunktion](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+   >Um die gewünschte Webkampagne leichter zu finden, verwenden Sie die [Filterfunktion](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 1. Klicken Sie für die Webkampagne auf **Klonen**.
 
    ![](assets/web-campaigns-1-clone-hand.png)
 
-1. Der Kampagnenklonprozess kopiert den gesamten Inhalt der bestehenden Web-Kampagne in die neue geklonte Kampagne. Die neue geklonte Web-Kampagne hat das Recht: &quot;[KAMPAGNENNAME] Kopieren&quot;.
+1. Der Kampagnenklonprozess kopiert den gesamten Inhalt der bestehenden Web-Kampagne in die neue geklonte Kampagne. Die neue geklonte Web-Kampagne hat den Titel &quot;[CAMPAIGN NAME] Copy&quot;.
 
    ![](assets/image2016-8-18-17-3a8-3a27.png)
 
@@ -40,5 +40,5 @@ Verwenden Sie die Klonfunktion auf der Seite Web-Kampagnen , um die Kampagnenein
 >[!MORELIKETHIS]
 >
 >* [Erstellen einer Dialogfeldkampagne](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
->* [Erstellen einer RTP-In-Zone-Kampagne](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
->* [Erstellen einer RTP Widget-Kampagne](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+>* [Erstellen eines RTP in einer Bereichskampagne](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [Erstellen einer RTP-Widget-Kampagne](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)

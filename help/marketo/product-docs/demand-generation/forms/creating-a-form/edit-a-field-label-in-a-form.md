@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Sie können die Beschriftung eines Formulars auf alles ändern - Sie können sogar ein Bild verwenden oder es komplett löschen! Hier ist, wie man das macht.
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Wechseln Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -23,24 +23,24 @@ Sie können die Beschriftung eines Formulars auf alles ändern - Sie können sog
 
    ![](assets/image2014-9-15-17-3a26-3a27.png)
 
-1. Wählen Sie Ihr Feld aus und bearbeiten Sie dann das **Titel**. Die Felder in den Formulareinstellungen spiegeln die eingegebenen Beschriftungen wider.
+1. Wählen Sie Ihr Feld aus und bearbeiten Sie dann den **Titel**. Die Felder in den Formulareinstellungen spiegeln die eingegebenen Beschriftungen wider.
 
    ![](assets/image2014-9-15-17-3a26-3a42.png)
 
    >[!TIP]
    >
-   >Wenn Sie sich etwas vorstellen möchten, können Sie auf die ![Bleistift](assets/image2014-9-15-17-3a27-3a7.png). Dadurch wird ein Rich-Text-Editor geöffnet und Sie können mit Bildern, Links und mehr in die Stadt gehen!
+   >Wenn Sie sich vorstellen möchten, können Sie auf den ![Bleistift](assets/image2014-9-15-17-3a27-3a7.png) klicken. Dadurch wird ein Rich-Text-Editor geöffnet und Sie können mit Bildern, Links und mehr in die Stadt gehen!
 
-1. Klicks **Beenden**.
+1. Klicken Sie auf **Beenden**.
 
    ![](assets/image2014-9-15-17-3a27-3a26.png)
 
-1. Klicks **Genehmigen und schließen**.
+1. Klicken Sie auf **Genehmigen und schließen**.
 
    ![](assets/image2014-9-15-17-3a27-3a44.png)
 
 >[!NOTE]
 >
->Vergiss nicht, [Landingpage-Entwurf validieren](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) erstellt durch die Formularänderungen.
+>Vergessen Sie nicht, [den Landingpage-Entwurf](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) zu genehmigen, der durch die Formularänderungen erstellt wurde.
 
 Da hast du es! Nach und nach werden Sie zum Formularentwickler-Champion.

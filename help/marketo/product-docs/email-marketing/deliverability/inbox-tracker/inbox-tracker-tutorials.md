@@ -28,7 +28,7 @@ Bird hat mehrere Schulungsvideos erstellt, die Ihnen helfen, dieses leistungssta
 
 * [Benutzer- und Kontoeinstellungen](https://veed.io/view/dae8007a-89b4-4a2a-b666-0e9b12706866){target="_blank"}
 
-* [Intelligent (Konfigurieren und Herunterladen)](https://veed.io/view/8b9e398e-21c9-49dc-a133-e1d8eb8ba03d){target="_blank"}
+* [Intelliseed (Configure and download)](https://veed.io/view/8b9e398e-21c9-49dc-a133-e1d8eb8ba03d){target="_blank"}
 
 ## Zustellbarkeit des Posteingangstrackers {#inbox-tracker-deliverability-section}
 
@@ -44,13 +44,13 @@ Bird hat mehrere Schulungsvideos erstellt, die Ihnen helfen, dieses leistungssta
 
 * [Warnhinweise](https://veed.io/view/1d968a33-e565-4cd2-b25f-53cca61b4823){target="_blank"}
 
-* [Übersicht über den Kampagnen-Tracker](https://veed.io/view/8c92bdc5-4131-498c-a450-a518f2e91b17){target="_blank"}
+* [Kampagnen-Tracker - Überblick](https://veed.io/view/8c92bdc5-4131-498c-a450-a518f2e91b17){target="_blank"}
 
-* [Kampagnenverfolgung (Kampagnenüberprüfung)](https://veed.io/view/9c8e18a4-5d9e-495c-ad92-83309f40314a){target="_blank"}
+* [Kampagnenverfolgung (Kampagnenübersicht)](https://veed.io/view/9c8e18a4-5d9e-495c-ad92-83309f40314a){target="_blank"}
 
 * [Analytics-Tracker](https://veed.io/view/b458f788-07e1-4553-b743-2d469a356ba2){target="_blank"}
 
-* [Profilüberwachung](https://veed.io/view/6ca38d3f-df46-4707-a6cb-dde0fbad470b){target="_blank"}
+* [Profilmonitor](https://veed.io/view/6ca38d3f-df46-4707-a6cb-dde0fbad470b){target="_blank"}
 
 * [Spam Trap Monitor](https://veed.io/view/ce488da2-1688-4584-9c26-27baa9c8ed19){target="_blank"}
 
@@ -58,7 +58,7 @@ Bird hat mehrere Schulungsvideos erstellt, die Ihnen helfen, dieses leistungssta
 
 * [Dashboard](https://veed.io/view/287b425f-2ec8-470b-b993-a654b92b759d){target="_blank"}
 
-* [Domain-Details](https://veed.io/view/cb8a4f53-8008-483b-841a-b0878b8bf17b){target="_blank"}
+* [Domänendetails](https://veed.io/view/cb8a4f53-8008-483b-841a-b0878b8bf17b){target="_blank"}
 
 * [Policy Manager](https://veed.io/view/1036967c-0f77-4fd6-8c40-71553bceef3d){target="_blank"}
 

@@ -1,18 +1,18 @@
 ---
 description: Flow Step Service - Marketo Docs - Produktdokumentation
-title: Flussschritt-Dienst
+title: Flow-Schritt-Service
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
 feature: Smart Campaigns
 source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
-source-wordcount: '1207'
+source-wordcount: '1210'
 ht-degree: 0%
 
 ---
 
-# Flussschritt-Dienst {#flow-step-service}
+# Flow-Schritt-Service {#flow-step-service}
 
-Die Fluss-Schritte für Self-Service sind ein Framework und eine Reihe von Funktionen für die Erstellung, Veröffentlichung und Integration von Webdiensten in Smart-Kampagnen von Adobe Marketo Engage. Dieses Handbuch richtet sich an Marketo Engage-Endbenutzer, die Dienste installieren und verwenden möchten, die bereits erstellt und veröffentlicht wurden. Informationen zum Erstellen und Veröffentlichen Ihres eigenen Dienstes finden Sie im Abschnitt [GitHub-Repository für die Service Provider-Schnittstelle](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target="_blank"}. A Proof-of-Concept Lookup Table implementation may be found [here](https://github.com/adobe/mkto-flow-lookup){target="_blank"}.
+Die Fluss-Schritte für Self-Service sind ein Framework und eine Reihe von Funktionen für die Erstellung, Veröffentlichung und Integration von Webdiensten in Smart-Kampagnen von Adobe Marketo Engage. Dieses Handbuch richtet sich an Marketo Engage-Endbenutzer, die Dienste installieren und verwenden möchten, die bereits erstellt und veröffentlicht wurden. Informationen zum Erstellen und Veröffentlichen Ihres eigenen Dienstes finden Sie im [GitHub-Repository für die Service Provider-Schnittstelle](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target="_blank"}. Eine Implementierung der Suchtabelle zum Machbarkeitsnachweis finden Sie [hier](https://github.com/adobe/mkto-flow-lookup){target="_blank"}.
 
 ## Onboarding und Verwalten von Diensten {#onboarding-and-managing-services}
 
@@ -20,15 +20,15 @@ Für die Installation eines benutzerdefinierten Flussschritts sind Administrator
 
 ## Installation URL {#installation-url}
 
-Um mit der Installation zu beginnen, müssen Sie zunächst die URL des OpenAPI-Dokuments abrufen, das Ihren Dienst definiert. Ihr Dienstleister sollte in der Lage sein, dies Ihnen bereitzustellen, und wird normalerweise über eine URL verfügen, die auf `/openapi.json`. Vollständige URLs sehen ungefähr so aus: `https://www.example.com/OpenAPI.json`. Sobald Sie über diese URL verfügen, wechseln Sie zum Menü &quot;Dienstanbieter&quot;in Ihrem Admin-Bereich.
+Um mit der Installation zu beginnen, müssen Sie zunächst die URL des OpenAPI-Dokuments abrufen, das Ihren Dienst definiert. Ihr Dienstleister sollte Ihnen dies zur Verfügung stellen können und in der Regel eine URL haben, die auf `/openapi.json` endet. Vollständige URLs sehen ungefähr wie `https://www.example.com/OpenAPI.json` aus. Sobald Sie über diese URL verfügen, wechseln Sie zum Menü &quot;Dienstanbieter&quot;in Ihrem Admin-Bereich.
 
-Klicks **[!UICONTROL Nächste]** , um zum Abschnitt Dienstanmeldeinformationen eingeben zu wechseln.
+Klicken Sie auf **[!UICONTROL Weiter]** , um zum Abschnitt &quot;Dienstanmeldeinformationen eingeben&quot;zu wechseln.
 
 ![](assets/flow-step-service-1.png)
 
 ## Dienstberechtigungen eingeben {#enter-service-credentials}
 
-Um auf den installierten Dienst zugreifen zu können, muss Marketo über gültige API-Anmeldeinformationen verfügen. Diese Anmeldeinformationen sollten Sie von Ihrem Dienstleister erhalten. Dienste haben drei verschiedene Authentifizierungsoptionen, sodass möglicherweise eine von drei verschiedenen Eingabeaufforderungen zur Eingabe von Anmeldeinformationen angezeigt wird: **API-Schlüssel** , das nur ein Eingabefeld hat, **Grundlegende Authentifizierung** , für die ein Benutzername und ein Kennwort erforderlich sind und möglicherweise auch ein Feld mit dem Namen Realm erforderlich ist, und **OAuth2** mithilfe der _Client-Anmeldedaten_ einen _Client-ID_ und _Client Secret_.
+Um auf den installierten Dienst zugreifen zu können, muss Marketo über gültige API-Anmeldeinformationen verfügen. Diese Anmeldeinformationen sollten Sie von Ihrem Dienstleister erhalten. Dienste verfügen über drei verschiedene Authentifizierungsoptionen. Daher kann eine von drei verschiedenen Aufforderungen zur Einreichung von Anmeldeinformationen angezeigt werden: **API-Schlüssel**, der nur ein Eingabefeld enthält, **Grundlegende Authentifizierung**, für das ein Benutzername und ein Kennwort erforderlich sind und möglicherweise auch ein Feld mit dem Namen Realm erforderlich ist, und **OAuth2** mit dem Zuschuss _Client-Anmeldeinformationen_, was eine _Client-ID_ erfordert. 10}Client-Geheimnis _._
 
 Wenn Sie Ihre Anmeldeinformationen speichern, versucht Marketo, den Statusendpunkt des Dienstes aufzurufen, um zu überprüfen, ob sie gültig sind. Wenn die angegebenen Anmeldeinformationen ungültig sind, wird ein Fehler angezeigt, der dies angibt.
 
@@ -38,7 +38,7 @@ Einige Dienstleister werden einen optionalen Schritt zur Onboarding-Anleitung en
 
 ## Feldzuordnung {#field-mapping}
 
-Um Daten von einem bestimmten Lead-Feld zu empfangen oder zurückzugeben, muss dieses Feld zugeordnet werden. Während die Zuordnung ein erforderlicher Schritt beim Onboarding ist, können Sie die Zuordnungen später ändern. Es gibt zwei Arten von Zuordnungen, die in separaten Bildschirmen konfiguriert sind: **Ausgehende Felder**, die an den Dienst gesendet werden, wenn Marketo den Flussschritt aufruft, und **Eingehende Felder** Hierbei handelt es sich um Felder, die Daten vom Dienst empfangen können, wenn er Daten an Marketo zurückgibt.
+Um Daten von einem bestimmten Lead-Feld zu empfangen oder zurückzugeben, muss dieses Feld zugeordnet werden. Während die Zuordnung ein erforderlicher Schritt beim Onboarding ist, können Sie die Zuordnungen später ändern. Es gibt zwei Arten von Zuordnungen, die in separaten Bildschirmen konfiguriert sind: **Ausgehende Felder**, die an den Dienst gesendet werden, wenn Marketo den Flussschritt aufruft, und **Eingehende Felder** , bei denen es sich um Felder handelt, die Daten vom Dienst empfangen können, wenn sie Daten an Marketo zurückgeben.
 
 >[!NOTE]
 >
@@ -48,13 +48,13 @@ Optionale Feldzuordnungen können ohne Unterbrechung Ihres Dienstes deaktiviert 
 
 ## Service-gesteuerte Zuordnungen {#service-driven-mappings}
 
-Dienste mit einem festen Satz von Ein- und Ausgabe, wie z. B. ein Schritt zum Registrieren von Ereignissen, verwenden **Service-gesteuerte Zuordnungen**. Für diese Art der Zuordnung stellt der Dienstleister sowohl einen Datentyp als auch einen Hinweis in Form eines API-Namens bereit. Wenn der Tipp mit dem API-Namen eines vorhandenen Lead-Felds übereinstimmt, wird dieses Feld automatisch im Zuordnungsabschnitt ausgefüllt. Bei Feldern ohne entsprechenden Hinweis müssen Sie die Zuordnung manuell aus der Liste der Felder mit dem entsprechenden Datentyp ausfüllen. Zuordnungen, die erforderlich sind, müssen zum Abschluss des Onboarding ausgefüllt werden.
+Dienste mit einem festen Satz von Ein- und Ausgabedaten, wie z. B. ein Schritt zur Ereignisregistrierung, verwenden **dienstgesteuerte Zuordnungen**. Für diese Art der Zuordnung stellt der Dienstleister sowohl einen Datentyp als auch einen Hinweis in Form eines API-Namens bereit. Wenn der Tipp mit dem API-Namen eines vorhandenen Lead-Felds übereinstimmt, wird dieses Feld automatisch im Zuordnungsabschnitt ausgefüllt. Bei Feldern ohne entsprechenden Hinweis müssen Sie die Zuordnung manuell aus der Liste der Felder mit dem entsprechenden Datentyp ausfüllen. Zuordnungen, die erforderlich sind, müssen zum Abschluss des Onboarding ausgefüllt werden.
 
 ![](assets/flow-step-service-2.png)
 
 ## Benutzergesteuerte Zuordnungen {#user-driven-mappings}
 
-Dienste ohne feste Eingabe- und Ausgabesätze, wie z. B. einen Datumsformatierungsdienst, verwenden **Benutzergesteuerte Zuordnungen**. Dies bedeutet, dass jedes eingehende und ausgehende Feld von einem Administrator konfiguriert werden muss.
+Dienste ohne feste Eingabe- und Ausgabesätze, wie ein Dienst zur Datumsformatierung, verwenden **benutzergesteuerte Zuordnungen**. Dies bedeutet, dass jedes eingehende und ausgehende Feld von einem Administrator konfiguriert werden muss.
 
 ![](assets/flow-step-service-3.png)
 
@@ -74,7 +74,7 @@ Einige Dienste verfügen entweder über optionale oder erforderliche globale Kon
 
 ## Wiedergeben eines Dienstes {#retiring-a-service}
 
-Um den Übergang zu neuen oder alternativen Versionen eines Dienstes zu erleichtern, ohne die aktive Nutzung zu unterbrechen, können Dienste aus dem Menü Dienstanbieter entfernt werden. **Wiedergeben eines Dienstes** entfernt den entsprechenden Flussschritt aus der Palette &quot;Fluss intelligenter Kampagnen&quot;, sodass keine neuen Verwendungen erstellt werden können. In den meisten Fällen sollten Sie über einen Ersatzdienst verfügen, der den vorhandenen Dienst ersetzen kann, wenn Sie sich für die Einstellung eines Dienstes entscheiden.
+Um den Übergang zu neuen oder alternativen Versionen eines Dienstes zu erleichtern, ohne die aktive Nutzung zu unterbrechen, können Dienste aus dem Menü Dienstanbieter entfernt werden. **Durch die Wiederholung eines Dienstes** wird der entsprechende Flussschritt aus der Palette &quot;Fluss für intelligente Kampagnen&quot;entfernt, sodass keine neuen Verwendungen davon erstellt werden können. In den meisten Fällen sollten Sie über einen Ersatzdienst verfügen, der den vorhandenen Dienst ersetzen kann, wenn Sie sich für die Einstellung eines Dienstes entscheiden.
 
 ## Service Deprecation {#service-deprecation}
 

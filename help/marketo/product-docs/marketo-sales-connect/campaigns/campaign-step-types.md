@@ -7,7 +7,7 @@ feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 8%
+ht-degree: 2%
 
 ---
 
@@ -23,7 +23,7 @@ Erstellen Sie eine neue E-Mail oder verwenden Sie eine bereits vorhandene Vorlag
 
 ![](assets/email.png)
 
-| **Eine Vorlage verwenden** | Wählen Sie eine Ihrer bereits existierenden Vorlagen aus |
+| **Verwenden einer Vorlage** | Wählen Sie eine Ihrer bereits existierenden Vorlagen aus |
 |---|---|
 | **Als Vorlage speichern** | Speichern Sie die gerade erstellte E-Mail als neue Vorlage |
 | **Inhalt hinzufügen** | Laden Sie eine Datei auf unseren Server hoch und erhalten Sie eine URL (die auf den Inhalt verweist), die in Ihrer E-Mail verfolgt werden kann. |

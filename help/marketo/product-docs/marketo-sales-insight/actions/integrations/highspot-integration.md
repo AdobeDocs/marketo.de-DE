@@ -20,15 +20,15 @@ Der Vertrieb kann über Sales Insight-Aktionen auf Highspot-Funktionen zugreifen
 >
 >Sie müssen über Administratorrechte verfügen, um den Highspot für Ihre Instanz mit Sales Insight-Aktionen zu aktivieren.
 
-1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen**.
+1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
 
    ![](assets/highspot-integration-1.png)
 
-1. under **Admin-Einstellungen** auswählen **Allgemein**.
+1. Wählen Sie unter &quot;**Admin Settings**&quot;die Option &quot;**General**&quot;.
 
    ![](assets/highspot-integration-2.png)
 
-1. Scrollen Sie zu **Integrationen** und klicken Sie auf den Schieberegler, um die Option Highspot zu aktivieren.
+1. Scrollen Sie zur Karte **Integrationen** und klicken Sie auf den Schieberegler, um den Highspot zu aktivieren.
 
    ![](assets/highspot-integration-3.png)
 
@@ -40,7 +40,7 @@ Jetzt wird Benutzern eine Option angezeigt, um die Schaltfläche Highspot auszuw
 
 Greifen Sie über das Fenster &quot;Sales Insight Actions&quot;, den Vorlageneditor und den E-Mail-Editor für Verkaufskampagnen auf Highspot zu und fügen Sie Ihren E-Mails Inhalt hinzu. Im Folgenden finden Sie die Schritte zum Zugriff auf Inhalte aus dem Fenster &quot;Erstellen&quot;.
 
-1. Erstellen Sie Ihren E-Mail-Entwurf (dazu gibt es mehrere Möglichkeiten, in diesem Beispiel wählen wir **Erstellen** in der Kopfzeile).
+1. Erstellen Sie Ihren E-Mail-Entwurf (dazu gibt es mehrere Möglichkeiten, in diesem Beispiel wählen wir **Erstellen** in der Kopfzeile aus).
 
    ![](assets/highspot-integration-5.png)
 
@@ -48,7 +48,7 @@ Greifen Sie über das Fenster &quot;Sales Insight Actions&quot;, den Vorlagenedi
 
    ![](assets/highspot-integration-6.png)
 
-1. Schreiben Sie Ihre Nachricht. Klicken Sie auf die Stelle in der E-Mail, an der der Inhalt des Hervorhebens eingefügt werden soll. Klicken Sie auf das Dropdown-Menü mit dem Pfeil (neben dem Bildsymbol) und wählen Sie **Highspot**.
+1. Schreiben Sie Ihre Nachricht. Klicken Sie auf die Stelle in der E-Mail, an der der Inhalt des Hervorhebens eingefügt werden soll. Klicken Sie auf das Dropdown-Menü mit dem Pfeil (neben dem Bildsymbol) und wählen Sie **Highspot** aus.
 
    ![](assets/highspot-integration-7.png)
 
@@ -56,7 +56,7 @@ Greifen Sie über das Fenster &quot;Sales Insight Actions&quot;, den Vorlagenedi
 
    ![](assets/highspot-integration-8.png)
 
-1. Wählen Sie den gewünschten Inhalt aus und klicken Sie auf das **Inhalt hinzufügen** Schaltfläche.
+1. Wählen Sie den gewünschten Inhalt aus und klicken Sie auf die Schaltfläche **Inhalt hinzufügen** .
 
    ![](assets/highspot-integration-9.png)
 

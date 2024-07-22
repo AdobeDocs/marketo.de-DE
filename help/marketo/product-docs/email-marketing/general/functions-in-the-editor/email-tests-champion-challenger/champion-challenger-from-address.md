@@ -19,15 +19,15 @@ Möchten Sie ohne Aufhebens eine andere Adresse ausprobieren? So geht es.
 >
 >[E-Mail-Champion/Challenger hinzufügen](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. Wählen Sie im E-Mail-Test-Editor **Von Adresse** im **Testtyp** angezeigt.
+1. Wählen Sie im E-Mail-Testeditor **Von Adresse** in der Dropdown-Liste **Testtyp** aus.
 
    ![](assets/image2014-9-15-12-3a52-3a33.png)
 
    >[!NOTE]
    >
-   >Die erste Absenderadresse wird als **Champion**. Nachfolgende Adressen werden aufgerufen **Herausforderungen**.
+   >Die erste Absenderadresse wird als **Champion** bezeichnet. Nachfolgende Adressen werden als **Challengers** bezeichnet.
 
-1. Geben Sie die **Aus Name** (links) und **Von Adresse** (rechts) für die Herausforderer.
+1. Geben Sie für die Herausforderer den Wert **Von Name** (links) und den Wert **Von Adresse** (rechts) ein.
 
    ![](assets/image2014-9-15-12-3a52-3a50.png)
 
@@ -47,7 +47,7 @@ Möchten Sie ohne Aufhebens eine andere Adresse ausprobieren? So geht es.
 
    Stellen Sie sicher, dass Sie einen Prozentsatz auswählen, der genügend Personen enthält, damit Ihr Test gültig ist. Lassen Sie sich nicht von unschlüssigen Ergebnissen täuschen.
 
-1. Klicks **Nächste**.
+1. Klicken Sie auf **Weiter**.
 
    ![](assets/image2014-9-15-12-3a53-3a15.png)
 

@@ -2,11 +2,11 @@
 description: WR-YYYY-MM-Web Request Program - Marketo Docs - Product Documentation
 title: WR-YYYY-MM-Web Request Program
 feature: Programs
-exl-id: 539dfd08-eed8-4fac-b976-7fe43f5d24b3
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 4acaa2d0-3329-4027-acbd-ae2e0ec6f7c5
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '402'
-ht-degree: 19%
+source-wordcount: '400'
+ht-degree: 13%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 19%
 
 Dies ist ein Beispielprogramm, das sich ideal für Kontaktanfragen, Anführungsanfragen, Demoanfragen oder Testanfragen mit einem Marketo Engage-Standardprogramm eignet. Kann mit Marketo-Landingpages oder als eingebettetes Formular auf Nicht-Marketo-Landingpages verwendet werden. Bei der Übermittlung des Formulars wird eine Warnhinweis-E-Mail an eine bestimmte Person gesendet.
 
-Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalten Sie vom Adobe-Account-Team oder unter [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} Seite.
+Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Programms an das Adobe-Account-Team oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} .
 
 ## Kanal-Zusammenfassung {#channel-summary}
 
@@ -23,19 +23,19 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
   <tr> 
    <th>Kanal</th> 
    <th>Status der Mitgliedschaft</th>
-   <th>Analyseverhalten</th>
+   <th>Analytics Behavior</th>
    <th>Programmtyp</th>
   </tr> 
   <tr> 
    <td>Web-Anforderung</td> 
    <td>01 - Interagiert - Erfolg</td>
-   <td>Inklusiv</td>
+   <td>Einschließlich</td>
    <td>Standard</td>
   </tr>
  </tbody> 
 </table>
 
-## Das Programm enthält die folgenden Assets {#program-contains-the-following-assets}
+## Das Programm enthält die folgende Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -55,12 +55,12 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
    <td>Alert-WebRequest</td>
   </tr>
   <tr> 
-   <td>Landing Page</td> 
+   <td>Landingpage</td> 
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Schnellstart-LP-Vorlage</a></td>
    <td>01 - LP - Anfrage</td>
   </tr>
   <tr> 
-   <td>Landing Page</td> 
+   <td>Landingpage</td> 
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Schnellstart-LP-Vorlage</a></td>
    <td>02 - LP - Vielen Dank</td>
   </tr>
@@ -100,7 +100,7 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
 
 ![](assets/wr-yyyy-mm-web-request-program-1.png)
 
-## Meine Token Enthalten {#my-tokens-included}
+## My Tokens Include {#my-tokens-included}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -143,13 +143,13 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
    * Erstellen von Tags in diesem Abonnement - _Empfohlen_
    * Ignorieren
 
-* **Landingpage-Vorlage mit demselben Namen**
+* **Vorlage für Einstiegsseiten mit demselben Namen**
    * Originalvorlage kopieren
-   * Zielvorlage verwenden - _Empfohlen_
+   * Verwenden Sie die Zielvorlage - _Empfohlen_
 
 * **Bilder mit demselben Namen**
    * Beide Dateien beibehalten
-   * Element in diesem Abonnement ersetzen - _Empfohlen_
+   * Ersetzen des Elements in diesem Abonnement - _Empfohlen_
 
 * **E-Mail-Vorlagen mit demselben Namen**
    * Beide Vorlagen beibehalten

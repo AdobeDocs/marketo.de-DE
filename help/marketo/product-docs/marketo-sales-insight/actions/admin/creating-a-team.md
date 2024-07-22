@@ -5,7 +5,7 @@ exl-id: 7cca53a8-67e7-467a-988a-bb99872a328e
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
@@ -16,15 +16,15 @@ Durch die Erstellung eines Teams können Sie eine Benutzergruppe zusammenstellen
 
 ## Team erstellen {#create-a-team}
 
-1. Im [Webanwendung](https://toutapp.com/login), klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen**.
+1. Klicken Sie in der [Webanwendung](https://toutapp.com/login) auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
 
    ![](assets/creating-a-team-1.png)
 
-1. Wählen Sie unter &quot;Admin Settings&quot;die Option **Team-Management**.
+1. Wählen Sie unter &quot;Admin Settings&quot;die Option **Team Management**.
 
    ![](assets/creating-a-team-2.png)
 
-1. Klicken Sie neben Teams auf die Schaltfläche **+** Symbol.
+1. Klicken Sie neben Teams auf das Symbol **+** .
 
    ![](assets/creating-a-team-3.png)
 
@@ -38,7 +38,7 @@ Durch die Erstellung eines Teams können Sie eine Benutzergruppe zusammenstellen
 
 ## Hinzufügen von Personen zu einem Team {#add-people-to-a-team}
 
-1. Wählen Sie im Team Management weiterhin die Option **Alle Mitglieder**.
+1. Wählen Sie im Team Management weiterhin **Alle Mitglieder** aus.
 
    ![](assets/creating-a-team-5.png)
 
@@ -46,7 +46,7 @@ Durch die Erstellung eines Teams können Sie eine Benutzergruppe zusammenstellen
 
    ![](assets/creating-a-team-6.png)
 
-1. Klicken **Teams hinzufügen**.
+1. Klicken Sie auf **Zu Teams hinzufügen**.
 
    ![](assets/creating-a-team-7.png)
 
@@ -54,6 +54,6 @@ Durch die Erstellung eines Teams können Sie eine Benutzergruppe zusammenstellen
 
    ![](assets/creating-a-team-8.png)
 
-1. Klicken **Hinzufügen** wann geschehen.
+1. Klicken Sie abschließend auf **Hinzufügen** .
 
    ![](assets/creating-a-team-9.png)

@@ -17,11 +17,11 @@ Möchten Sie wissen, wie Ihre Interaktionsinhalte funktionieren? Testen Sie den 
 
 ## Erstellen des Berichts {#create-the-report}
 
-1. Suchen und wählen Sie Ihr Interaktionsprogramm aus und klicken Sie dann unter **Neu** click **Neues lokales Asset**.
+1. Suchen Sie nach Ihrem Interaktionsprogramm und wählen Sie es aus. Klicken Sie dann unter **Neu** auf **Neues lokales Asset**.
 
    ![](assets/localassetnutring.jpg)
 
-1. Auswählen **Bericht**.
+1. Wählen Sie **Bericht** aus.
 
    ![](assets/image2014-9-15-18-3a23-3a59.png)
 
@@ -44,7 +44,7 @@ Möchten Sie wissen, wie Ihre Interaktionsinhalte funktionieren? Testen Sie den 
 
    ![](assets/engagementperformancereport.jpg)
 
-1. Unter dem **Einrichtung** Registerkarte, doppelklicken Sie auf die **Interaktionsprogramm Email** Filter.
+1. Doppelklicken Sie auf der Registerkarte **Einrichtung** auf den Filter **E-Mail zum Interaktionsprogramm** .
 
    ![](assets/image2014-9-15-18-3a25-3a4.png)
 
@@ -54,12 +54,12 @@ Möchten Sie wissen, wie Ihre Interaktionsinhalte funktionieren? Testen Sie den 
 
 ## Bericht ausführen {#run-report}
 
-1. Um den Bericht auszuführen, klicken Sie einfach auf das **Bericht** Registerkarte.
+1. Um den Bericht auszuführen, klicken Sie einfach auf die Registerkarte **Bericht** .
 
    ![](assets/image2014-9-15-18-3a25-3a15.png)
 
    >[!TIP]
    >
-   >Die Interaktionsbewertung ist zwar nicht dargestellt, aber eine Spalte in diesem Bericht. Siehe [Grundlegendes zur Interaktionsbewertung](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md) für Details zu dessen Inhalt.
+   >Die Interaktionsbewertung ist zwar nicht dargestellt, aber eine Spalte in diesem Bericht. Weitere Informationen dazu finden Sie unter [Grundlegendes zum Interaktionswert](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md) .
 
-   Großartig gemacht! Beachten Sie, dass der Bericht nach Interaktionsprogramm gruppiert ist.
+   Gut gemacht! Beachten Sie, dass der Bericht nach Interaktionsprogramm gruppiert ist.

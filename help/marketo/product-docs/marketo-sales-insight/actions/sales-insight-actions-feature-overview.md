@@ -5,7 +5,7 @@ exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
 feature: Sales Insight Actions
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '1392'
+source-wordcount: '1388'
 ht-degree: 1%
 
 ---
@@ -16,13 +16,13 @@ Mit Marketing-gestützten Intelligenz- und Interaktionswerkzeugen können Sie mi
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions ist eine webbasierte Anwendung, die über die [Marketo Sales Insight-Paket](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. Dies wird manchmal als &quot;Marketo-Verkäufe&quot;oder einfach als &quot;Aktionen&quot;bezeichnet.
+>Marketo Sales Insight Actions ist eine webbasierte Anwendung, die über das [Marketo Sales Insight-Paket](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} in die Salesforce-Benutzeroberfläche integriert wird. Dies wird manchmal als &quot;Marketo-Verkäufe&quot;oder einfach als &quot;Aktionen&quot;bezeichnet.
 
 >[!AVAILABILITY]
 >
->Diese Funktion wird derzeit für alle Sales Insight-Benutzer eingeführt. Wenn Sie bei der Einführung eine Priorität haben möchten, senden Sie bitte eine E-Mail an `sales-insights(at)adobe(dot)com`.
+>Diese Funktion wird derzeit für alle Sales Insight-Benutzer eingeführt. Wenn Sie beim Rollout eine Priorität erhalten möchten, senden Sie bitte eine E-Mail an `sales-insights(at)adobe(dot)com`.
 
-Eine Videoübersicht zu Sales Insight-Aktionen finden Sie unter [Hier klicken](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html){target="_blank"}.
+Eine Videoübersicht zu Sales Insight-Aktionen erhalten Sie, wenn Sie [hier klicken](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html){target="_blank"}.
 
 ![](assets/sales-insight-actions-feature-overview-1.png)
 
@@ -32,7 +32,7 @@ Die folgenden Aktionen sind in der Dropdown-Liste &quot;Aktionen auswählen&quot
 
 * Verkaufs-E-Mail senden
    * E-Mails zum Verkauf verfügen über Anzeigen, Klick und Antwort-Tracking (wenn der Versandkanal eingerichtet ist).
-   * Umfasst E-Mail-Personalisierung, benutzerdefinierte Signatur und Anlagen
+   * Umfasst E-Mail-Personalization, benutzerdefinierte Signatur und Anlagen
    * Vorlagenfreigabe und Berichte
    * Teamfreigabe, Gruppierung von E-Mails und CC/BCC-Fähigkeit
    * Die E-Mail-Aktivität Vertrieb wird im Marketo-Personendatensatz protokolliert
@@ -71,12 +71,12 @@ Die folgenden Daten sind auf den Registerkarten im MSI-Bedienfeld verfügbar:
 * E-Mail-Tab
    * Alle versandten E-Mails werden hier protokolliert. Die Aktivitäten werden auch im Marketo-Personendatensatz protokolliert
    * Die Spalten umfassen Betreff, Öffnen, Klicken, Antworten (nur für E-Mails mit eingerichtetem Versandkanal verfügbar), Absender, Datum
-   * Umfasst eine Folie-out-Karte mit zusätzlichen Details wie Sender, Vorlage, Vertriebskampagne und Vorschau-E-Mail
+   * Umfasst die Karte mit zusätzlichen Details wie Sender, Vorlage, Vertriebskampagne und Vorschau-E-Mail
 
 * Registerkarte &quot;Aufruf&quot;
    * Alle Anrufe, die über die Verkaufsdialfunktion platziert werden, werden hier protokolliert. Die Aktivitäten werden auch im Marketo-Personendatensatz protokolliert
    * Zu den Spalten gehören Name, Ergebnis, Hinweise, Angerufen am, Dauer und Link zur Aufzeichnung
-   * Enthält die Karte für die Abschiebung mit zusätzlichen Details wie &quot;Anruf durchgeführt von&quot;, &quot;Anruf beantwortet von&quot;, &quot;Telefonnummer&quot;und &quot;Status&quot;
+   * Enthält die Karte für die Abschiebung mit zusätzlichen Details wie &quot;Anruf durchgeführt von&quot;, &quot;Anruf beantwortet von&quot;, &quot;Telefonnummer und Status&quot;
 
 ## Konto- und Opportunity-Layout {#account-and-opportunity-layout}
 
@@ -84,7 +84,7 @@ Die folgenden Aktionen sind in der oberen Navigationsleiste verfügbar:
 
 * Verkaufs-E-Mail senden - Möglichkeit, personalisierte oder vorlagenbasierte Gruppen-E-Mails mit Ansicht-, Klick- und Antworttracking an alle Kontakte zu senden, die mit einem Konto/einer Gelegenheit verknüpft sind
    * E-Mails zum Verkauf verfügen über Anzeigen, Klick und Antwort-Tracking (wenn der Versandkanal eingerichtet ist).
-   * Umfasst E-Mail-Personalisierung, benutzerdefinierte Signatur und Anlagen
+   * Umfasst E-Mail-Personalization, benutzerdefinierte Signatur und Anlagen
    * Vorlagenfreigabe und Berichte
    * Teamfreigabe, Gruppierung von E-Mails und CC/BCC-Fähigkeit
    * Die E-Mail-Aktivität Vertrieb wird im Marketo-Personendatensatz protokolliert
@@ -107,13 +107,13 @@ Die folgenden Daten sind in den Registerkarten verfügbar:
 
 * E-Mail-Tab
    * Alle Verkaufs-E-Mails, die an Kontakte aus dem Konto/der Gelegenheit gesendet werden, werden hier protokolliert. Die Aktivitäten werden auch im Marketo-Personendatensatz protokolliert
-   * Zu den Spalten gehören Betreff, Öffnung, Klick, Beantwortet (nur für E-Mails mit eingerichtetem Versandkanal verfügbar), Absender und Datum
-   * Umfasst eine Folie-out-Karte mit zusätzlichen Details wie Sender, Vorlage, Vertriebskampagne und Vorschau-E-Mail
+   * Die Spalten umfassen Betreff, Öffnung, Klick, Antworten (nur für E-Mails mit eingerichtetem Versandkanal verfügbar), Absender und Datum
+   * Umfasst die Karte mit zusätzlichen Details wie Sender, Vorlage, Vertriebskampagne und Vorschau-E-Mail
 
 * Registerkarte &quot;Aufruf&quot;
    * Alle Anrufe an Kontakte aus dem Konto/der Möglichkeit, die über die Funktion des Vertriebs-Dialers durchgeführt werden, werden hier protokolliert. Die Aktivitäten werden auch im Marketo-Personendatensatz protokolliert
    * Zu den Spalten gehören Name, Ergebnis, Hinweise, Anrufbeantworter, Dauer und Link zur Aufzeichnung
-   * Enthält die Karte für die Abschiebung mit zusätzlichen Details wie &quot;Anruf durchgeführt von&quot;, &quot;Anruf beantwortet von&quot;, &quot;Telefonnummer&quot;und &quot;Status&quot;
+   * Enthält die Karte für die Abschiebung mit zusätzlichen Details wie &quot;Anruf durchgeführt von&quot;, &quot;Anruf beantwortet von&quot;, &quot;Telefonnummer und Status&quot;
 
 ## Lead- und Kontaktlisten-Ansicht (Massenaktionen) {#lead-and-contact-list-view}
 
@@ -142,17 +142,17 @@ Die folgenden Inline-Aktionen sind für einzelne Leads/Kontakte auf der Register
 
   ![](assets/sales-insight-actions-feature-overview-5.png)
 
-**E-Mail-Tab**
+**Registerkarte &quot;E-Mail&quot;**
 
 * Alle versandten E-Mails werden hier protokolliert. Die Aktivitäten werden auch im Marketo-Personendatensatz protokolliert
-* Zu den Spalten gehören Betreff, Öffnung, Klick, Beantwortet (nur für E-Mails mit eingerichtetem Versandkanal verfügbar), Absender und Datum
-* Umfasst eine Folie-out-Karte mit zusätzlichen Details wie Sender, Vorlage, Vertriebskampagne und Vorschau-E-Mail
+* Die Spalten umfassen Betreff, Öffnung, Klick, Antworten (nur für E-Mails mit eingerichtetem Versandkanal verfügbar), Absender und Datum
+* Umfasst die Karte mit zusätzlichen Details wie Sender, Vorlage, Vertriebskampagne und Vorschau-E-Mail
 
-**Registerkarte &quot;Aufruf&quot;**
+**Tab aufrufen**
 
 * Alle Anrufe, die über die Verkaufsdialfunktion platziert werden, werden hier protokolliert. Die Aktivitäten werden auch im Marketo-Personendatensatz protokolliert
 * Zu den Spalten gehören Name, Ergebnis, Hinweise, Anrufbeantworter, Dauer und Link zur Aufzeichnung
-* Enthält die Karte für die Abschiebung mit zusätzlichen Details wie &quot;Anruf durchgeführt von&quot;, &quot;Anruf beantwortet von&quot;, &quot;Telefonnummer&quot;und &quot;Status&quot;
+* Enthält die Karte für die Abschiebung mit zusätzlichen Details wie &quot;Anruf durchgeführt von&quot;, &quot;Anruf beantwortet von&quot;, &quot;Telefonnummer und Status&quot;
 
 **Registerkarte &quot;Aufgabe&quot;**
 
@@ -174,7 +174,7 @@ In Marketo erfasste Verkaufsaktivitäten:
 
 * Verkaufs-E-Mail senden - Benutzer hat eine Verkaufs-E-Mail an einen Lead gesendet
 * E-Mail zum offenen Vertrieb - Lead öffnet eine E-Mail zum Vertrieb
-* Klicken Sie auf Verkaufs-E-Mail - Lead klickt auf einen Link in einer Verkaufs-E-Mail
+* Klicken Sie auf Sales Email - Lead klickt auf einen Link in einer Verkaufs-E-Mail
 * Antwort-E-Mail für Vertrieb - Lead beantwortet eine E-Mail für Vertrieb
 * Verkaufsaufruf empfangen - Lead erhielt einen Anruf von einem Verkäufer, der den Vertriebspartner nutzt.
 * Zu Vertriebskampagne hinzufügen - Lead wurde zu einer erstellten Verkaufskampagne hinzugefügt.
@@ -183,9 +183,9 @@ In Marketo erfasste Verkaufsaktivitäten:
 Zu den Filtern und Triggern gehören:
 
 * Verkaufs-E-Mail senden
-* Hat Verkaufs-E-Mail geöffnet
+* Geöffnete Verkaufs-E-Mail
 * angeklickte E-Mail zum Vertrieb
-* Antwort auf E-Mail zum Vertrieb
+* Hat auf Vertriebsemail geantwortet
 * Hat Verkaufsanruf empfangen
 * Zur Vertriebskampagne hinzugefügt
 * Aus Verkaufskampagne entfernt

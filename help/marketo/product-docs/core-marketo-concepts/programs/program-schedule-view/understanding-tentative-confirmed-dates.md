@@ -13,11 +13,11 @@ ht-degree: 1%
 
 # Grundlegendes zu entativen/bestätigten Daten {#understanding-tentative-confirmed-dates}
 
-Smart-Kampagnen und E-Mail-Programme verfügen über eine leistungsstarke Funktion, die als **[!UICONTROL Tentativ]** oder **[!UICONTROL Bestätigt]**. So funktionieren sie.
+Smart-Kampagnen und E-Mail-Programme verfügen über eine leistungsstarke Funktion, die als **[!UICONTROL Tentative]** oder **[!UICONTROL Confirmed]** markiert werden kann. So funktionieren sie.
 
 ## Vorläufig {#tentative}
 
-Vorsätzliche Datumsangaben vermitteln die Absicht. Stellen Sie sich Folgendes vor: _Peking_ etwas im Kalender. Tentative Einträge werden nicht ausgeführt - sie sind nur Platzhalter.
+Vorsätzliche Datumsangaben vermitteln die Absicht. Stellen Sie sich dies als _Ping_ etwas im Kalender vor. Tentative Einträge werden nicht ausgeführt - sie sind nur Platzhalter.
 
 ![](assets/image2014-9-23-15-3a22-3a23.png)
 
@@ -47,7 +47,7 @@ Bestätigte Einträge werden definitiv ausgeführt. Sie verfügen über Regeln, 
 
 ## Beendet  {#finished}
 
-Abgeschlossene Einträge wurden bereits ausgeführt. Sie können nur in der Vergangenheit sein (offensichtlich). Sobald ein Eintrag ausgeführt wurde und **[!UICONTROL Abgeschlossen]**, können Sie es nicht verschieben oder vorsichtig machen. (Keine Änderung der Realität und Störung des Zeitstrom-Kontinuums.)
+Abgeschlossene Einträge wurden bereits ausgeführt. Sie können nur in der Vergangenheit sein (offensichtlich). Sobald ein Eintrag ausgeführt wurde und den Wert **[!UICONTROL Abgeschlossen]** aufweist, können Sie ihn nicht mehr verschieben oder vorläufig machen. (Keine Änderung der Realität und Störung des Zeitstrom-Kontinuums.)
 
 ![](assets/image2014-9-23-15-3a25-3a53.png)
 

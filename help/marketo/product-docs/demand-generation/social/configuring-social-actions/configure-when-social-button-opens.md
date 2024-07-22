@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Konfigurieren, wenn Social-Schaltfläche geöffnet wird {#configure-when-social-button-opens}
 
-Wenn Sie eine [Social-Schaltfläche](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md)können Sie konfigurieren, wann die Schaltfläche die Freigabeaufforderung enthält.
+Wenn Sie eine [Social-Schaltfläche](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md) erstellen, können Sie konfigurieren, wann die Schaltfläche die Freigabeaufforderung enthält.
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Wechseln Sie zu **Marketingaktivitäten**.
 
    ![](assets/ma-3.png)
 
@@ -32,9 +32,9 @@ Wenn Sie eine [Social-Schaltfläche](/help/marketo/product-docs/demand-generatio
    ![](assets/image2014-9-22-16-3a36-3a21.png)
 
    * **Bei Klick:** Wenn eine Person auf die Social-Schaltfläche klickt.
-   * **Beim Laden der Seite:** Sobald die Landingpage mit der Social-Schaltfläche im Browser einer Person geladen wird.
+   * **Beim Laden der Seite:** Sobald die Landingpage, die die Social-Schaltfläche enthält, im Browser einer Person geladen wird.
    * **Bei Mauszeiger:** Wenn eine Person den Mauszeiger über die Social-Schaltfläche bewegt.
 
    >[!MORELIKETHIS]
    >
-   >Nachdem die Person freigegeben wurde, können Sie ihre E-Mail-Adresse anfordern oder eine Bestätigungsnachricht senden. Erfahren Sie, wie [Konfigurieren der Eingabeaufforderungen nach der Freigabe](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md).
+   >Nachdem die Person freigegeben wurde, können Sie ihre E-Mail-Adresse anfordern oder eine Bestätigungsnachricht senden. Erfahren Sie, wie Sie [die Eingabeaufforderungen nach der Freigabe konfigurieren](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md).

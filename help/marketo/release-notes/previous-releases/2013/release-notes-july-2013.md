@@ -6,16 +6,16 @@ exl-id: efff413f-99fe-4db6-839b-1a922f8581d9
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '202'
 ht-degree: 2%
 
 ---
 
-# Versionshinweise: Juli 2013 {#release-notes-july}
+# Juli 2013 - Versionshinweise {#release-notes-july}
 
 Die folgenden Funktionen sind in der Juli-Version enthalten, die für einen Freitag, den 26. Juli geplant ist.
 
-## Widget für abgelaufene Inhalte im Dashboard {#exhausted-content-widget-on-the-dashboard}
+## Widget &quot;Abgelaufener Inhalt&quot;im Dashboard {#exhausted-content-widget-on-the-dashboard}
 
 Bietet Informationen darüber, wann Leads den Inhalt im Stream ausfüllen. Das System stellt Ihnen Informationen darüber bereit, wie viele Leads bald erschöpfte Inhalte erreichen werden oder wie lange Leads erschöpft sind.
 
@@ -33,7 +33,7 @@ In den nächsten Monaten werden Sie mehr von unserem neuen Thema in verschiedene
 
 ![](assets/image2014-9-22-16-3a31-3a42.png)
 
-## Spalte mit dem Mitgliederdatum {#program-member-date-column}
+## Spalte mit dem Datum des Programmteilnehmers {#program-member-date-column}
 
 Zeigen Sie das Mitgliederraster nach dem Datum an, an dem der Lead hinzugefügt wurde, und sortieren Sie es.
 

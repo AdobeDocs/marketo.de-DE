@@ -7,17 +7,17 @@ feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '219'
-ht-degree: 5%
+ht-degree: 4%
 
 ---
 
 # Bericht zur E-Mail-Leistung von Campaign {#campaign-email-performance-report}
 
-So zeigen Sie Ihre E-Mail-Leistungsstatistiken nach [Smart-Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md)führen Sie einen Bericht zur E-Mail-Leistung von Campaign aus.
+Um Ihre E-Mail-Leistungsstatistiken nach [Smart-Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md) zu gruppieren, führen Sie einen Bericht zur E-Mail-Leistung von Campaign aus.
 
-1. [Bericht erstellen](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) und wählen Sie die **Leistung von Campaign-E-Mails** [Berichtstyp](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [Erstellen Sie einen Bericht](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) und wählen Sie den Berichtstyp **E-Mail-Leistung der Kampagne** [](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md) aus.
 
-1. [Den Zeitrahmen Ihres Berichts festlegen](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) und klicken Sie auf **Bericht** Registerkarte.
+1. [Legen Sie den Zeitrahmen für Ihren Bericht fest](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) und klicken Sie auf die Registerkarte **Bericht** .
 
 1. Sehen Sie sich nun den Bericht an, um zu sehen, wie die einzelnen E-Mails in Ihren Kampagnen abschneiden.
 
@@ -27,7 +27,7 @@ So zeigen Sie Ihre E-Mail-Leistungsstatistiken nach [Smart-Kampagne](/help/marke
    >
    >Klicken Sie auf den Namen einer E-Mail, um sie in der E-Mail-Vorschau zu öffnen.
 
-   [Spalten, die Sie auswählen können](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)für einen Bericht zur E-Mail-Leistung von Campaign:
+   [Spalten, die Sie für einen Kampagnen-E-Mail-Leistungsbericht auswählen können, umfassen:](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)
 
    | Spalte | Beschreibung |
    |---|---|
@@ -35,7 +35,7 @@ So zeigen Sie Ihre E-Mail-Leistungsstatistiken nach [Smart-Kampagne](/help/marke
    | Soft Bounce-Ereignis aufgetreten | E-Mail wurde wegen einer temporären Bedingung wie einem Server ausgeschaltet oder einem vollständigen Posteingang abgelehnt. |
    | Ausstehend | E-Mail wird noch zugestellt. |
    | Angeklickter Link | Anzahl der E-Mail-Empfänger, die auf einen Link in der E-Mail geklickt haben |
-   | Hat abbestellt | Anzahl der E-Mail-Empfänger, die auf die **Abmelden** in der E-Mail klicken und das Formular ausfüllen. |
+   | Abbestellt | Anzahl der E-Mail-Empfänger, die auf den Link **Abmeldung** in der E-Mail geklickt und das Formular ausgefüllt haben. |
 
    >[!NOTE]
    >

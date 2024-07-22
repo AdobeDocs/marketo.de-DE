@@ -19,15 +19,15 @@ Sie können mühelos mehrere Betreffzeilen testen. Wenn der Test beendet ist, se
 >
 >[E-Mail-Champion/Challenger hinzufügen](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. Wählen Sie im E-Mail-Test-Editor **Betreff** im **Testtyp** angezeigt.
+1. Wählen Sie im E-Mail-Testeditor **Betreffzeile** in der Dropdown-Liste **Testtyp** aus.
 
    ![](assets/image2014-9-15-12-3a37-3a50.png)
 
    >[!NOTE]
    >
-   >Bei einem Betrefftest wird die erste eingegebene Betreffzeile als **Champion**. Nachfolgende Betreffzeilen werden **Herausforderungen**.
+   >Bei einem Betrefftest wird die erste eingegebene Betreffzeile als **Champion** bezeichnet. Nachfolgende Betreffzeilen werden als **Challengers** bezeichnet.
 
-1. Betreffzeile(n) für **Herausforderungen**.
+1. Geben Sie die Betreffzeile für die **Challengers** ein.
 
    ![](assets/image2014-9-15-12-3a38-3a4.png)
 
@@ -47,7 +47,7 @@ Sie können mühelos mehrere Betreffzeilen testen. Wenn der Test beendet ist, se
 
    Um statistische Genauigkeit zu erhalten, stellen Sie sicher, dass der gewählte Prozentsatz genügend Personen enthält, damit Ihr Test gültig ist. Lassen Sie sich nicht von unschlüssigen Ergebnissen täuschen.
 
-1. Klicks **Nächste**.
+1. Klicken Sie auf **Weiter**.
 
    ![](assets/image2014-9-15-12-3a40-3a42.png)
 

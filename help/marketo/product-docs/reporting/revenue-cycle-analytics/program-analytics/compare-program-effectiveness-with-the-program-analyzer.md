@@ -6,7 +6,7 @@ exl-id: 6e54d0a4-3cff-46cf-be0d-1992a39d8c03
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '467'
+source-wordcount: '469'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ Verwenden Sie den Programm-Analyzer, um Ihre effektivsten und effizientesten Pro
 
 >[!PREREQUISITES]
 >
->[Programm-Analyzer erstellen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
+>[Erstellen eines Programm-Analyzers](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
-1. Klicks **Analytics**.
+1. Klicken Sie auf **Analytics**.
 
    ![](assets/image2014-9-17-18-3a50-3a30.png)
 
@@ -37,7 +37,7 @@ Verwenden Sie den Programm-Analyzer, um Ihre effektivsten und effizientesten Pro
 
    >[!TIP]
    >
-   >Eine schnelle Möglichkeit, Programme nach nur einem Kanal zu filtern, besteht darin, **Ansicht** > **Nach Kanal**, klicken Sie auf die Blase für diesen Kanal und dann im Popup-Dialogfeld auf den Kanalnamen.
+   >Eine schnelle Möglichkeit, Programme nach nur einem Kanal zu filtern, besteht darin, **Ansicht** > **Nach Kanal** auszuwählen, auf die Blase für diesen Kanal zu klicken und dann im Popup-Dialogfeld auf den Kanalnamen zu klicken.
 
 1. Verwenden Sie die Dropdownliste X-Achse , um eine Metrik für die horizontale Achse auszuwählen. Wir beginnen mit den Programmkosten.
 
@@ -53,7 +53,7 @@ Verwenden Sie den Programm-Analyzer, um Ihre effektivsten und effizientesten Pro
 
    >[!TIP]
    >
-   >Sie können auch versuchen, Ihre Ansicht zu verbessern, indem Sie von einer linearen in eine logarithmische Skala wechseln oder umgekehrt. Verwenden Sie die **Skalieren** Menü oben.
+   >Sie können auch versuchen, Ihre Ansicht zu verbessern, indem Sie von einer linearen in eine logarithmische Skala wechseln oder umgekehrt. Verwenden Sie das Menü **Skalieren** oben.
 
 1. Sehen Sie sich das resultierende Diagramm an.
 
@@ -67,13 +67,13 @@ Verwenden Sie den Programm-Analyzer, um Ihre effektivsten und effizientesten Pro
 
    >[!NOTE]
    >
-   >Viele der Metriken, die Sie im Programm-Analyzer auswählen können, stehen bei Erstkontakt- (FT-) und Multi-Touch-(MT-)Berechnungen zur Verfügung. Es ist wichtig, die [Differenz zwischen FT- und MT-Attribution](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+   >Viele der Metriken, die Sie im Programm-Analyzer auswählen können, stehen bei Erstkontakt- (FT-) und Multi-Touch-(MT-)Berechnungen zur Verfügung. Es ist wichtig, den [Unterschied zwischen FT- und MT-Attribution](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md) zu verstehen.
 
 1. Sehen Sie zu, wie sich die Blasen in Ihrem Diagramm verändern.
 
    ![](assets/image2014-9-17-18-3a54-3a57.png)
 
-   Durch Hinzufügen von **(FT) Umsatz gewinnt** Wir sehen schnell, dass die Origami Expo zwar viele neue Namen erhielt, aber vergleichsweise wenig Umsatz erzielt hat. Außerdem sehen wir, dass das Programm &quot;Paper Fest 12&quot; weniger, aber bessere Namen erhält, da es mehr Einnahmen beeinflusst (größere Blase).
+   Durch Hinzufügung von **(FT) Umsatz Won** sehen wir schnell, dass die Origami Expo zwar viele neue Namen erworben hat, aber vergleichsweise wenig Umsatz erzielt. Außerdem sehen wir, dass das Programm &quot;Paper Fest 12&quot; weniger, aber bessere Namen erhält, da es mehr Einnahmen beeinflusst (größere Blase).
 
 1. Verwenden Sie das Dropdown-Menü Farbe , um eine vierte Metrik hinzuzufügen. Wir werden uns den Umsatz (FT) für Investitionen ansehen.
 
@@ -87,9 +87,9 @@ Wir sehen, dass das Programm Paper Fest 12 nicht nur Einfluss auf mehr Umsatz (g
 
 >[!TIP]
 >
->Sie können die Programme in einem Kanal schnell mit denen in einem anderen vergleichen. Verwenden Sie einfach die **Kanalfilter** oben im Fenster, um weitere Kanäle hinzuzufügen.
+>Sie können die Programme in einem Kanal schnell mit denen in einem anderen vergleichen. Verwenden Sie einfach den **Kanalfilter** oben im Fenster, um weitere Kanäle hinzuzufügen.
 
 >[!MORELIKETHIS]
 >
->* [Kennenlernen von Programm- und Kanaldetails mit dem Programm-Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
+>* [Programm- und Kanaldetails mit dem Programm-Analyzer durchsuchen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
 >* [Kanaleffektivität mit dem Programm-Analyzer vergleichen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-channel-effectiveness-with-the-program-analyzer.md)

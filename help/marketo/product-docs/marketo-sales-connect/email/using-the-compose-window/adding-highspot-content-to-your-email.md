@@ -23,7 +23,7 @@ Als Highspot-Kunde können Sie in Ihre Sales Connect-E-Mails einfach Highspot-In
 
    ![](assets/two-5.png)
 
-1. Klicken Sie auf die Stelle in der E-Mail, an der der Inhalt des Hervorhebens eingefügt werden soll. Klicken Sie auf das Dropdown-Menü mit dem Pfeil (neben dem Anlagensymbol) und wählen Sie **Highspot**.
+1. Klicken Sie auf die Stelle in der E-Mail, an der der Inhalt des Hervorhebens eingefügt werden soll. Klicken Sie auf das Dropdown-Menü mit dem Pfeil (neben dem Anlagensymbol) und wählen Sie **Highspot** aus.
 
    ![](assets/three-5.png)
 
@@ -31,7 +31,7 @@ Als Highspot-Kunde können Sie in Ihre Sales Connect-E-Mails einfach Highspot-In
 
    ![](assets/four-5.png)
 
-1. Wählen Sie den gewünschten Inhalt aus und klicken Sie auf das **Inhalt hinzufügen** Schaltfläche.
+1. Wählen Sie den gewünschten Inhalt aus und klicken Sie auf die Schaltfläche **Inhalt hinzufügen** .
 
    ![](assets/five-3.png)
 

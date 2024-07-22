@@ -19,19 +19,19 @@ Für jedes Umsatzzyklusmodell können Sie einen Bericht darüber generieren, wie
 >
 >Leads müssen Mitglieder des Modells sein, das in den Bericht aufgenommen werden soll.
 
-1. Navigieren Sie zu **Analytics**.
+1. Wechseln Sie zu **Analytics**.
 
    ![](assets/image2015-4-29-16-3a8-3a14.png)
 
-1. Klicks **Leads nach Umsatzstufe**.
+1. Klicken Sie auf **Leads nach Umsatzstufe**.
 
    ![](assets/image2015-4-29-16-3a15-3a3.png)
 
-1. Klicken Sie auf **Einrichtung** Registerkarte und dann unter dem Filterabschnitt doppelklicken Sie **Modell für Umsatzzyklen**.
+1. Klicken Sie auf die Registerkarte **Einrichtung** und doppelklicken Sie unter dem Filterabschnitt auf **Umsatzzyklusmodell**.
 
    ![](assets/image2015-4-29-16-3a37-3a57.png)
 
-1. Genehmigte Auswahl **Modell**.
+1. Wählen Sie das genehmigte **Modell** aus.
 
    ![](assets/image2015-4-29-16-3a40-3a34.png)
 
@@ -39,7 +39,7 @@ Für jedes Umsatzzyklusmodell können Sie einen Bericht darüber generieren, wie
    >
    >Um in diesem Dropdown-Menü verfügbar zu sein, muss das Modell genehmigt sein oder zumindest über genehmigte Phasen verfügen.
 
-1. Klicken Sie auf **Bericht** um anzuzeigen, wie viele Leads sich in den einzelnen Phasen Ihres Umsatzzyklusmodells befinden.
+1. Klicken Sie auf die Registerkarte **Bericht** , um zu sehen, wie viele Leads sich in den einzelnen Phasen Ihres Umsatzzyklusmodells befinden.
 
    ![](assets/image2015-4-29-16-3a51-3a29.png)
 

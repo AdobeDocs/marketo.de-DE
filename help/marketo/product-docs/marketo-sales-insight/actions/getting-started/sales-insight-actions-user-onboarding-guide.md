@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions ist eine webbasierte Anwendung, die über die [Marketo Sales Insight-Paket](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. Dies wird manchmal als &quot;Marketo-Verkäufe&quot;oder einfach als &quot;Aktionen&quot;bezeichnet.
+>Marketo Sales Insight Actions ist eine webbasierte Anwendung, die über das [Marketo Sales Insight-Paket](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} in die Salesforce-Benutzeroberfläche integriert wird. Dies wird manchmal als &quot;Marketo-Verkäufe&quot;oder einfach als &quot;Aktionen&quot;bezeichnet.
 
 >[!PREREQUISITES]
 >
@@ -23,11 +23,11 @@ ht-degree: 0%
 
 Neue Benutzer müssen die folgenden Schritte ausführen.
 
-1. Klicken Sie in der Willkommens-E-Mail auf **Erste Schritte**.
+1. Klicken Sie in der Begrüßungs-E-Mail auf **Erste Schritte**.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-1.png)
 
-1. Klicks **Konto mit Salesforce aktivieren**.
+1. Klicken Sie auf **Konto mit Salesforce aktivieren**.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-2.png)
 
@@ -39,31 +39,31 @@ Neue Benutzer müssen die folgenden Schritte ausführen.
 >
 >Ihre Salesforce-E-Mail-ID und die E-Mail-Adresse Ihres Verkaufskontos müssen identisch sein.
 
-1. Klicks **Zulassen**.
+1. Klicken Sie auf **Allow**.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-4.png)
 
-1. Klicks **Starten**.
+1. Klicken Sie auf **Start**.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-5.png)
 
-1. Klicks **Nächste**.
+1. Klicken Sie auf **Weiter**.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-6.png)
 
-1. Wählen Sie den verwendeten E-Mail-Client aus (Gmail oder Outlook) und klicken Sie auf **Nächste**.
+1. Wählen Sie den verwendeten E-Mail-Client (Gmail oder Outlook) aus und klicken Sie auf **Weiter**.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-7.png)
 
-1. Geben Sie Ihre E-Mail-Adresse ein und klicken Sie auf **Nächste**.
+1. Geben Sie Ihre E-Mail-Adresse ein und klicken Sie auf **Weiter**.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-8.png)
 
-1. Geben Sie Ihr Kennwort ein und klicken Sie auf **Nächste**.
+1. Geben Sie Ihr Kennwort ein und klicken Sie auf **Weiter**.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-9.png)
 
-1. Klicks **Weiter**.
+1. Klicken Sie auf **Weiter**.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-10.png)
 
@@ -75,19 +75,19 @@ Neue Benutzer müssen die folgenden Schritte ausführen.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-11.png)
 
-1. Geben Sie Ihre benutzerdefinierte Signatur ein und klicken Sie auf **Speichern** (Wenn Sie dies später über Ihre Profilseite durchführen möchten, klicken Sie auf **Überspringen**).
+1. Geben Sie Ihre benutzerdefinierte Signatur ein und klicken Sie auf **Speichern** (Wenn Sie dies später über Ihre Profilseite tun möchten, klicken Sie auf **Überspringen**).
 
    ![](assets/sales-insight-actions-user-onboarding-guide-12.png)
 
-1. Klicks **Beenden**.
+1. Klicken Sie auf **Beenden**.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-13.png)
 
-1. Sie sehen die Option, einen schnellen Einstieg in Marketo-Verkaufsaktionen anzuzeigen. Klicks **Nächste** zum Anzeigen oder **Nicht jetzt** zum späteren Speichern.
+1. Sie sehen die Option, einen schnellen Einstieg in Marketo-Verkaufsaktionen anzuzeigen. Klicken Sie auf **Weiter** , um die Ansicht anzuzeigen, oder auf **Nicht jetzt&quot;** , um sie später zu speichern.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-14.png)
 
-1. Wenn Sie mit der Tour fertig sind oder sie übersprungen haben, wählen Sie aus, ob Sie sich direkt bei der Webanwendung oder Ihrem Salesforce-Konto anmelden möchten, über das Sie auf alle Funktionen des MSI-Bedienfelds zugreifen können (in diesem Beispiel wählen wir die Option **Salesforce starten**).
+1. Wenn Sie mit der Tour fertig sind oder sie übersprungen haben, wählen Sie aus, ob Sie sich direkt bei der Webanwendung oder Ihrem Salesforce-Konto anmelden möchten, über das Sie auf alle Funktionen über das MSI-Bedienfeld zugreifen können (in diesem Beispiel wählen wir **Salesforce starten**).
 
    ![](assets/sales-insight-actions-user-onboarding-guide-15.png)
 

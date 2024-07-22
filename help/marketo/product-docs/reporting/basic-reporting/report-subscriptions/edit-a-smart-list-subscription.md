@@ -7,7 +7,7 @@ feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '199'
-ht-degree: 3%
+ht-degree: 4%
 
 ---
 
@@ -21,7 +21,7 @@ Sie können diese Spalten direkt auf der Registerkarte Abonnements bearbeiten, d
 * Übermittlung beenden
 * Format
 
-1. Auswählen **Datenbank** (Wir verwenden es in diesem Beispiel, aber Marketing-Aktivitäten funktionieren genau gleich).
+1. Wählen Sie **Datenbank** aus (wir verwenden sie in diesem Beispiel, Marketing-Aktivitäten funktionieren jedoch genau gleich).
 
    ![](assets/db-1.png)
 
@@ -33,11 +33,11 @@ Sie können diese Spalten direkt auf der Registerkarte Abonnements bearbeiten, d
 
    ![](assets/image2015-9-14-13-3a44-3a14.png)
 
-1. Klicken Sie auf **Häufigkeit** -Spalte, um Ihre Einstellung auszuwählen oder zu ändern.
+1. Klicken Sie auf die Spalte **Häufigkeit** , um Ihre Einstellung auszuwählen oder zu ändern.
 
    ![](assets/image2015-9-14-10-3a30-3a37.png)
 
-1. Öffnen Sie die **Spalten** und verwenden Sie die Auswahl, um Spalten aus dem Bericht hinzuzufügen oder zu entfernen. Berichtsspalten enthalten alle verfügbaren Spalten und Marketo-Spalten zeigen nur die Spalten an, die Sie für die Anzeige in Ihrem Bericht ausgewählt haben. Klicks **Speichern**.
+1. Öffnen Sie die Spalte **Spalten** und verwenden Sie die Auswahl, um Spalten zum Bericht hinzuzufügen oder daraus zu entfernen. Berichtsspalten enthalten alle verfügbaren Spalten und Marketo-Spalten zeigen nur die Spalten an, die Sie für die Anzeige in Ihrem Bericht ausgewählt haben. Klicken Sie auf **Speichern**.
 
    ![](assets/image2015-9-14-10-3a59-3a6.png)
 
@@ -45,10 +45,10 @@ Sie können diese Spalten direkt auf der Registerkarte Abonnements bearbeiten, d
    >
    >Die Spalten unter Marketo-Spalten sind die Berichtsspalten, nicht die im Tab Abonnementbericht verwendeten.
 
-1. Klicken Sie auf **Enddatum** zum Bearbeiten des Enddatums. Auswählen **Nie** oder **Datum**. Geben Sie ein Datum ein oder wählen Sie es aus dem Kalender aus. Klicks **Genehmigen**.
+1. Klicken Sie auf die Spalte **Enddatum** , um das Enddatum zu bearbeiten. Wählen Sie **Nie** oder **Datum** aus. Geben Sie ein Datum ein oder wählen Sie es aus dem Kalender aus. Klicken Sie auf **Genehmigen**.
 
    ![](assets/image2015-9-14-11-3a6-3a38.png)
 
-1. Das letzte Teil des Puzzles ist das Format. Klicken Sie auf **Format** und wählen Sie die gewünschte Spalte aus. CSV ist die Standardeinstellung.
+1. Das letzte Teil des Puzzles ist das Format. Klicken Sie auf die Spalte **Format** und wählen Sie die gewünschte aus. CSV ist die Standardeinstellung.
 
    ![](assets/image2015-9-14-11-3a11-3a41.png)

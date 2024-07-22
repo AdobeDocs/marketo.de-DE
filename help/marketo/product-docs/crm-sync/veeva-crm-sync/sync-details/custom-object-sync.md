@@ -18,7 +18,7 @@ Benutzerdefinierte Objekte, die in Ihrer VEE CRM-Instanz erstellt wurden, könne
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Erforderliche Administratorberechtigungen**
 
 >[!PREREQUISITES]
 >
@@ -26,7 +26,7 @@ Benutzerdefinierte Objekte, die in Ihrer VEE CRM-Instanz erstellt wurden, könne
 
 ## Benutzerdefiniertes Objekt aktivieren {#enable-custom-object}
 
-1. Klicken Sie in Marketo auf **[!UICONTROL Admin]**, dann **[!UICONTROL VEC-Objektsynchronisierung]**.
+1. Klicken Sie in Marketo auf **[!UICONTROL Admin]** und dann auf **[!UICONTROL Veeva Objects Sync]**.
 
    ![](assets/custom-object-sync-1.png)
 
@@ -34,7 +34,7 @@ Benutzerdefinierte Objekte, die in Ihrer VEE CRM-Instanz erstellt wurden, könne
 
    ![](assets/custom-object-sync-2.png)
 
-1. Klicks **[!UICONTROL Globale Synchronisierung deaktivieren]**.
+1. Klicken Sie auf **[!UICONTROL Globale Synchronisierung deaktivieren]**.
 
    ![](assets/custom-object-sync-3.png)
 
@@ -50,23 +50,23 @@ Benutzerdefinierte Objekte, die in Ihrer VEE CRM-Instanz erstellt wurden, könne
    >
    >Benutzerdefinierte Objekte müssen eindeutige Namen haben. Marketo unterstützt zwei verschiedene benutzerdefinierte Objekte mit demselben Namen nicht.
 
-1. Klicks **[!UICONTROL Synchronisierung aktivieren]**.
+1. Klicken Sie auf **[!UICONTROL Synchronisierung aktivieren]**.
 
    ![](assets/custom-object-sync-5.png)
 
-1. Klicks **[!UICONTROL Synchronisierung aktivieren]** erneut.
+1. Klicken Sie erneut auf **[!UICONTROL Synchronisierung aktivieren]** .
 
    ![](assets/custom-object-sync-6.png)
 
-1. Gehen Sie zurück zu **[!UICONTROL Veeva]** Registerkarte.
+1. Gehen Sie zurück zur Registerkarte **[!UICONTROL Veeva]** .
 
    ![](assets/custom-object-sync-7.png)
 
-1. Klicks **[!UICONTROL Synchronisierung aktivieren]**.
+1. Klicken Sie auf **[!UICONTROL Synchronisierung aktivieren]**.
 
    ![](assets/custom-object-sync-8.png)
 
-1. Klicken Sie auf , um alle benutzerdefinierten Objekte von Veeva anzuzeigen. **[!UICONTROL Admin]** und **[!UICONTROL VEC-Objektsynchronisierung]**.
+1. Um alle benutzerdefinierten Objekte von VEC anzuzeigen, klicken Sie auf **[!UICONTROL Admin]** und **[!UICONTROL Veeva-Objektsynchronisierung]**.
 
    ![](assets/custom-object-sync-9.png)
 
@@ -78,5 +78,5 @@ Ausgezeichnet! Sie können jetzt Daten aus diesem benutzerdefinierten Objekt in 
 
 >[!MORELIKETHIS]
 >
->* [Synchronisieren von Aufrufen und Aufrufen von Schlüsselmeldungen](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target="_blank"}
->* [Benutzerdefiniertes Objektfeld als Smart-List-/Trigger-Einschränkungen hinzufügen/entfernen](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}
+>* [Synchronisierungsaufruf und -aufruf für Schlüsselmeldungen](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target="_blank"}
+>* [Benutzerdefiniertes Objektfeld als Smart List/Trigger Constraints hinzufügen/entfernen](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}

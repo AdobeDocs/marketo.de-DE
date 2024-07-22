@@ -7,17 +7,17 @@ feature: Landing Pages
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '104'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
 # Mehrere Einstiegsseiten gleichzeitig genehmigen {#approve-multiple-landing-pages-at-once}
 
-1. Navigieren Sie zu **Design Studio**.
+1. Wechseln Sie zu **Design Studio**.
 
    ![](assets/image2014-9-17-11-3a35-3a5.png)
 
-1. Klicken Sie auf **Landing Pages**.
+1. Klicken Sie auf **Landingpages**.
 
    ![](assets/image2014-9-17-11-3a35-3a11.png)
 
@@ -27,13 +27,13 @@ ht-degree: 2%
 
    >[!TIP]
    >
-   >Klicken Sie nicht auf den tatsächlichen Namen der Landingpage. Hierbei handelt es sich um Links, über die Sie zur Seite selbst gelangen.
+   >Klicken Sie nicht auf den tatsächlichen Namen der Landingpage. Dies sind Links, über die Sie zur Seite selbst gelangen.
 
-1. Navigieren Sie mit den ausgewählten Landingpages zu **Landingpage-Aktionen** und klicken Sie auf **Genehmigen**.
+1. Wählen Sie die Landingpage aus und gehen Sie zu **Landingpage-Aktionen** und klicken Sie auf **Genehmigen**.
 
    ![](assets/image2014-9-17-11-3a35-3a27.png)
 
-   Da bist du! Sie können jetzt schnell und einfach mehrere Landingpages genehmigen.
+   Los geht&#39;s! Sie können jetzt schnell und einfach mehrere Landingpages genehmigen.
 
    ![](assets/image2014-9-17-11-3a35-3a36.png)
 

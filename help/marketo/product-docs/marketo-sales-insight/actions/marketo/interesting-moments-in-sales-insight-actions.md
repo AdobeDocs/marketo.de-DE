@@ -24,29 +24,29 @@ Das liegt an dir! Sie entscheiden, welche Informationen für Ihr Verkaufsteam re
 
 ## Wie erstelle ich einen interessanten Moment? {#how-do-i-create-an-interesting-moment}
 
-1. Wählen Sie eine [Smart-Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"}, vorzugsweise eines, das Ihr Verkaufsteam interessant finden würde, wenn es ausgelöst wird.
+1. Wählen Sie eine [intelligente Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"}, vorzugsweise eine, die Ihr Verkaufsteam interessant finden würde, wenn sie ausgelöst wird.
 
    ![](assets/interesting-moments-in-sales-insight-actions-1.png)
 
-1. Ziehen Sie über die **Interessante Momente** Flussschritt.
+1. Ziehen Sie über den Flussschritt **Interessante Momente**.
 
    ![](assets/interesting-moments-in-sales-insight-actions-2.png)
 
-1. Wählen Sie eine **type** (E-Mail, Meilenstein oder Web).
+1. Wählen Sie einen **Typ** aus (E-Mail, Meilenstein oder Web).
 
    ![](assets/interesting-moments-in-sales-insight-actions-3.png)
 
-1. Schreiben Sie eine Nachricht an Ihr Verkaufsteam im **Beschreibung** -Feld, das erklärt, warum diese Aktion wichtig ist.
+1. Schreiben Sie im Feld **Beschreibung** eine Nachricht an Ihr Verkaufsteam, die erklärt, warum diese Aktion wichtig ist.
 
    ![](assets/interesting-moments-in-sales-insight-actions-4.png)
 
    >[!NOTE]
    >
-   >Marketo fügt außerdem das Datum, an dem es aufgetreten ist, sowie die Art und Weise hinzu, wie der interessante Moment hinzugefügt wurde (d. h. Lead-Aktion > Flussschritt, SOAP-API).
+   >Marketo fügt außerdem das Datum, an dem es aufgetreten ist, und die Art hinzu, wie der interessante Moment hinzugefügt wurde (d. h. Lead-Aktion > Flussschritt, SOAP API).
 
 ## Wie sieht ein interessanter Moment in Marketo aus?  {#what-does-an-interesting-moment-look-like-in-marketo}
 
-Interessante Momente werden in einer [Aktivitätsprotokoll des Leads](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"}.
+Interessante Momente werden im Aktivitätsprotokoll eines [Leads](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"} angezeigt.
 
 ![](assets/interesting-moments-in-sales-insight-actions-5.png)
 

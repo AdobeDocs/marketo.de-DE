@@ -7,7 +7,7 @@ feature: Custom Objects
 source-git-commit: 1dbe820e126f92ce5820e38414925605372a4b09
 workflow-type: tm+mt
 source-wordcount: '702'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -20,17 +20,17 @@ Wenn Sie benutzerdefinierte Objekte erstellen, müssen Sie Verknüpfungsfelder b
 
 >[!IMPORTANT]
 >
->Marketo Engage unterstützt nur ein einzelnes Kantenobjekt für jedes Brückenobjekt in der Viele-zu-viele-Beziehung. Im unten stehenden Beispiel kann jede Anmeldung nur zu einem Kurs führen. Für jedes Edge-Objekt kann es jedoch viele Brückenobjekte geben, genauso wie es viele Studentenanmeldungen für jeden Kurs gibt (Viele-zu-One-Beziehung). Wenn Sie Ihre benutzerdefinierten Objektdaten so strukturiert haben, dass für jeden Bridge-Objektdatensatz (1:n oder Viele-zu-viele) mehr als ein Edge-Objektdatensatz vorhanden ist, können Sie mehrere Bridge-Objektdatensätze erstellen, die jeweils auf einen einzelnen Edge-Objektdatensatz verweisen, um diese Daten in Marketo darzustellen.
+>Marketo Engage unterstützt nur ein einzelnes Kantenobjekt für jedes Brückenobjekt in der Viele-zu-Viele-Beziehung. Im unten stehenden Beispiel kann jede Anmeldung nur zu einem Kurs führen. Für jedes Edge-Objekt kann es jedoch viele Brückenobjekte geben, genauso wie es viele Studentenanmeldungen für jeden Kurs gibt (Viele-zu-One-Beziehung). Wenn Sie Ihre benutzerdefinierten Objektdaten so strukturiert haben, dass für jeden Bridge-Objektdatensatz (1:n oder Viele-zu-viele) mehr als ein Edge-Objektdatensatz vorhanden ist, können Sie mehrere Bridge-Objektdatensätze erstellen, die jeweils auf einen einzelnen Edge-Objektdatensatz verweisen, um diese Daten in Marketo darzustellen.
 
 ## Erstellen eines Link-Felds für eine 1:n-Struktur {#create-a-link-field-for-a-one-to-many-structure}
 
 So erstellen Sie ein Verknüpfungsfeld in einem benutzerdefinierten Objekt für eine 1:n-Struktur.
 
-1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
+1. Wechseln Sie zum Bereich **[!UICONTROL Admin]** .
 
    ![](assets/add-marketo-custom-object-link-fields-1.png)
 
-1. Klicks **[!UICONTROL Benutzerdefinierte Marketo-Objekte]**.
+1. Klicken Sie auf **[!UICONTROL Marketo Custom Objects]**.
 
    ![](assets/add-marketo-custom-object-link-fields-2.png)
 
@@ -38,29 +38,29 @@ So erstellen Sie ein Verknüpfungsfeld in einem benutzerdefinierten Objekt für 
 
    ![](assets/add-marketo-custom-object-link-fields-3.png)
 
-1. Im **[!UICONTROL Felder]** Registerkarte, klicken **[!UICONTROL Neues Feld]**.
+1. Klicken Sie auf der Registerkarte **[!UICONTROL Felder]** auf **[!UICONTROL Neues Feld]**.
 
    ![](assets/add-marketo-custom-object-link-fields-4.png)
 
-1. Benennen Sie das Link-Feld und fügen Sie eine optionale [!UICONTROL Beschreibung]. Wählen Sie die [!UICONTROL Link] Datentyp.
+1. Benennen Sie das Link-Feld und fügen Sie eine optionale [!UICONTROL Beschreibung] hinzu. Stellen Sie sicher, dass Sie den Datentyp [!UICONTROL Link] auswählen.
 
    ![](assets/add-marketo-custom-object-link-fields-5.png)
 
    >[!CAUTION]
    >
-   >Sie können nicht zurückkehren und eine [!UICONTROL Link] oder [!UICONTROL Deduplizierungsfeld] sobald das benutzerdefinierte Objekt genehmigt wurde.
+   >Sie können ein [!UICONTROL Link] oder ein [!UICONTROL Deduplizierungsfeld] nicht mehr erstellen, bearbeiten oder löschen, nachdem das benutzerdefinierte Objekt genehmigt wurde.
 
-1. Wählen Sie aus, ob die [!UICONTROL Link-Objekt] ist für [!UICONTROL Lead] (Person) oder [!UICONTROL Firma].
+1. Wählen Sie aus, ob das [!UICONTROL Link-Objekt] für einen [!UICONTROL Lead] (Person) oder ein [!UICONTROL Unternehmen] steht.
 
    ![](assets/add-marketo-custom-object-link-fields-6.png)
 
    >[!NOTE]
    >
-   >Wenn Sie [!UICONTROL Lead]angezeigt, werden in der Liste &quot;ID&quot;, &quot;E-Mail-Adresse&quot;und alle benutzerdefinierten Felder angezeigt.
+   >Wenn Sie [!UICONTROL lead] auswählen, werden in der Liste ID, E-Mail-Adresse und alle benutzerdefinierten Felder angezeigt.
    >
-   >Wenn Sie [!UICONTROL Firma]angezeigt, werden die ID und alle benutzerdefinierten Felder in der Liste angezeigt.
+   >Wenn Sie [!UICONTROL Firma] auswählen, werden die ID und alle benutzerdefinierten Felder in der Liste angezeigt.
 
-1. Wählen Sie die [!UICONTROL Link-Feld] Sie möchten eine Verbindung mit als übergeordnetes Element des neuen Felds herstellen.
+1. Wählen Sie das [!UICONTROL Verknüpfungsfeld] aus, mit dem Sie eine Verbindung herstellen möchten, als übergeordnetes Element des neuen Felds.
 
    ![](assets/add-marketo-custom-object-link-fields-7.png)
 
@@ -68,7 +68,7 @@ So erstellen Sie ein Verknüpfungsfeld in einem benutzerdefinierten Objekt für 
    >
    >Im Linkfeld werden nur Zeichenfolgenfeldtypen unterstützt.
 
-1. Klicks **[!UICONTROL Speichern]**.
+1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/add-marketo-custom-object-link-fields-8.png)
 
@@ -80,11 +80,11 @@ So erstellen Sie ein Verknüpfungsfeld in einem zwischengeschalteten Objekt zur 
 >
 >Sie müssen das Zwischenobjekt und alle benutzerdefinierten Objekte, mit denen Sie es verknüpfen möchten, bereits erstellt haben.
 
-1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
+1. Wechseln Sie zum Bereich **[!UICONTROL Admin]** .
 
    ![](assets/add-marketo-custom-object-link-fields-9.png)
 
-1. Klicks **[!UICONTROL Benutzerdefinierte Marketo-Objekte]**.
+1. Klicken Sie auf **[!UICONTROL Marketo Custom Objects]**.
 
    ![](assets/add-marketo-custom-object-link-fields-10.png)
 
@@ -92,35 +92,35 @@ So erstellen Sie ein Verknüpfungsfeld in einem zwischengeschalteten Objekt zur 
 
    ![](assets/add-marketo-custom-object-link-fields-11.png)
 
-1. Im **[!UICONTROL Felder]** Registerkarte, klicken **[!UICONTROL Neues Feld]**.
+1. Klicken Sie auf der Registerkarte **[!UICONTROL Felder]** auf **[!UICONTROL Neues Feld]**.
 
    ![](assets/add-marketo-custom-object-link-fields-12.png)
 
-1. Sie müssen zwei Verknüpfungsfelder erstellen. Erstellen Sie sie einzeln. Benennen Sie zunächst das Feld für die Mitglieder Ihrer Datenbankliste (z. B. leadID). Hinzufügen eines optionalen [!UICONTROL Beschreibung]. Wählen Sie die [!UICONTROL link] [!UICONTROL Datentyp].
+1. Sie müssen zwei Verknüpfungsfelder erstellen. Erstellen Sie sie einzeln. Benennen Sie zunächst das Feld für die Mitglieder Ihrer Datenbankliste (z. B. leadID). Fügen Sie eine optionale [!UICONTROL Beschreibung] hinzu. Stellen Sie sicher, dass Sie den [!UICONTROL link] [!UICONTROL Datentyp] auswählen.
 
    ![](assets/add-marketo-custom-object-link-fields-13.png)
 
    >[!CAUTION]
    >
-   >Sie können nicht zurückkehren und eine [!UICONTROL Link] oder [!UICONTROL Deduplizierungsfeld] sobald das benutzerdefinierte Objekt genehmigt wurde.
+   >Sie können ein [!UICONTROL Link] oder ein [!UICONTROL Deduplizierungsfeld] nicht mehr erstellen, bearbeiten oder löschen, nachdem das benutzerdefinierte Objekt genehmigt wurde.
 
-1. Wählen Sie die [!UICONTROL Link-Objekt] aus Ihrer Datenbank, in diesem Fall [!UICONTROL Lead].
+1. Wählen Sie das [!UICONTROL Link-Objekt] aus Ihrer Datenbank, in diesem Fall [!UICONTROL Lead].
 
    ![](assets/add-marketo-custom-object-link-fields-14.png)
 
-1. Wählen Sie die [!UICONTROL Link-Feld] Sie möchten in diesem Fall eine Verbindung mit herstellen. [!UICONTROL ID].
+1. Wählen Sie das [!UICONTROL Verknüpfungsfeld] aus, mit dem Sie eine Verbindung herstellen möchten, in diesem Fall [!UICONTROL ID].
 
    ![](assets/add-marketo-custom-object-link-fields-15.png)
 
    >[!NOTE]
    >
-   >Nur Zeichenfolgenfeldtypen werden im [!UICONTROL Link-Feld].
+   >Im Feld [!UICONTROL Link-Feld] werden nur Zeichenfolgenfeldtypen unterstützt.
 
-1. Klicks **[!UICONTROL Speichern]**.
+1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/add-marketo-custom-object-link-fields-16.png)
 
-1. Wiederholen Sie diesen Vorgang für den zweiten Link zu Ihrem benutzerdefinierten Objekt, in diesem Beispiel &quot;kursID&quot;. Die [!UICONTROL Link-Objekt] name wird natürlich sein, und die [!UICONTROL Link-Feld] ist natürlich natürlichID. Da Sie das benutzerdefinierte Kursobjekt bereits erstellt und genehmigt haben, sind diese Auswahlmöglichkeiten in den Dropdown-Menüs verfügbar.
+1. Wiederholen Sie diesen Vorgang für den zweiten Link zu Ihrem benutzerdefinierten Objekt, in diesem Beispiel &quot;kursID&quot;. Der Name des [!UICONTROL Link-Objekts] lautet &quot;natürlich&quot;, und das [!UICONTROL Link-Feld] lautet &quot;kursID&quot;. Da Sie das benutzerdefinierte Kursobjekt bereits erstellt und genehmigt haben, sind diese Auswahlmöglichkeiten in den Dropdown-Menüs verfügbar.
 
    ![](assets/add-marketo-custom-object-link-fields-17.png)
 

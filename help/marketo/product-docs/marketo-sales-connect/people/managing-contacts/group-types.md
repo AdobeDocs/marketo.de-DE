@@ -33,7 +33,7 @@ Erfahren Sie mehr über die verschiedenen Gruppentypen in Sales Connect.
   </tr> 
   <tr> 
    <td colspan="1"><p>Dynamische Gruppen</p></td> 
-   <td colspan="1">Meine Kontakte: Alle Kontakte, die Sie besitzen.<br>Abmeldungen: Kontakte, die sich vom Erhalt des Schriftstücks abgemeldet haben.</td> 
+   <td colspan="1">Meine Kontakte: Alle Kontakte, die Sie besitzen.<br>Abmeldungen: Kontakte, die sich vom Erhalt der Korrespondenz abgemeldet haben.</td> 
   </tr> 
   <tr> 
    <td><p>Meine Gruppen</p></td> 

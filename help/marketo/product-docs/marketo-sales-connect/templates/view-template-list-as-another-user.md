@@ -19,11 +19,11 @@ Als Administrator können Sie Vorlagen wie beliebige Benutzer anzeigen.
 >
 >**Erforderliche Administratorberechtigungen**
 
-1. Klicks **Vorlagen**.
+1. Klicken Sie auf **Vorlagen**.
 
    ![](assets/one.png)
 
-1. Klicken Sie auf **Anzeigen als** und wählen Sie den gewünschten Benutzer aus.
+1. Klicken Sie auf die Dropdownliste **Anzeigen als** und wählen Sie den gewünschten Benutzer aus.
 
    ![](assets/two.png)
 

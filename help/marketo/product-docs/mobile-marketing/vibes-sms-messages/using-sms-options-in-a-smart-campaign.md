@@ -2,7 +2,8 @@
 description: Verwenden von SMS-Optionen in einer Smart-Kampagne - Marketo-Dokumente - Produktdokumentation
 title: Verwenden von SMS-Optionen in einer Smart-Kampagne
 feature: Mobile Marketing
-source-git-commit: 5e2d1979abcafd8e4a37e55b843be932125c954e
+exl-id: 199b7cae-86d2-42fe-8934-10aa780f4454
+source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
 workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 2%
@@ -11,15 +12,15 @@ ht-degree: 2%
 
 # Verwenden von SMS-Optionen in einer Smart-Kampagne {#using-sms-options-in-a-smart-campaign}
 
-Nach [SMS erstellen](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}verwenden, sollten Sie Smart-List-Trigger und -Filter in einer Smart-Kampagne verwenden, um die Vorteile zu nutzen.
+Nachdem Sie [eine SMS-Nachricht erstellt haben](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}, sollten Sie Smart-List-Trigger und -Filter in einer Smart-Kampagne verwenden, um die Vorteile zu nutzen.
 
 >[!NOTE]
 >
->Wenn Sie eine SMS senden möchten, haben wir eine [spezifischer Artikel](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md){target="_blank"} dafür.
+>Wenn Sie eine SMS-Nachricht senden möchten, haben wir dafür einen [spezifischen Artikel](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md){target="_blank"}.
 
 >[!PREREQUISITES]
 >
->SMS-Trigger/-Filter werden nur angezeigt, wenn die Variable [Der Dienst &quot;Vibes&quot;wurde aktiviert](/help/marketo/product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md){target="_blank"}.
+>SMS-Trigger/-Filter werden nur angezeigt, wenn der [Video-Dienst aktiviert wurde](/help/marketo/product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md){target="_blank"}.
 
 ## SMS-Trigger {#sms-triggers}
 
@@ -32,11 +33,11 @@ Nach [SMS erstellen](/help/marketo/product-docs/mobile-marketing/vibes-sms-messa
 
 Im Folgenden finden Sie einige Beispiele:
 
-Die **SMS-Nachrichtenabsprünge** Trigger startet einen Fluss, z. B. das Senden einer E-Mail, wenn eine SMS-Nachricht abbricht.
+Der Trigger **SMS-Nachrichten-Bounces** löst einen Fluss aus, z. B. den Versand einer E-Mail, wenn eine SMS-Nachricht abspringt.
 
-Die **Abonniert die Vibes-Liste** Trigger löst einen Ablauf aus, wenn sich eine Person anmeldet.
+Der Trigger **Abonniert die Vibes-Liste** löst einen Ablauf aus, wenn sich eine Person anmeldet.
 
-Die **Klicks Link in SMS-Nachricht** Trigger löst einen Fluss aus, wenn ein Besucher auf einen Link in der SMS klickt.
+Der Trigger **Klicks auf Link in SMS-Nachricht** löst einen Fluss aus, wenn ein Benutzer auf einen Link in der SMS klickt.
 
 ## SMS-Filter {#sms-filters}
 
@@ -47,13 +48,13 @@ Die **Klicks Link in SMS-Nachricht** Trigger löst einen Fluss aus, wenn ein Bes
   </tr>
 </table>
 
-Die **Abonnieren der Vibes-Liste** filter findet alle Personen, die *ever* abonniert Vibes. Dies umfasst sowohl abgemeldete als auch gelöschte Personen, auch wenn gelöschte Personen im Fluss weggelassen werden. Dieser Filter eignet sich am besten für Berichte.
+Der Filter **An die Liste der Segmente angemeldet** findet jeden, der *jemals* für Vibes angemeldet hat. Dies umfasst sowohl abgemeldete als auch gelöschte Personen, auch wenn gelöschte Personen im Fluss weggelassen werden. Dieser Filter eignet sich am besten für Berichte.
 
-Im Gegensatz dazu wird die Variable **Mitglied der Vibes List** filter findet _everyone_ hat sich derzeit für Vibes angemeldet und eignet sich am besten für die Verwendung in Smart-Kampagnen oder -Listen.
+Im Gegensatz dazu findet der Filter **Mitglied der Vibes-Liste** _jeder_ , der sich derzeit für Vibes angemeldet hat, und eignet sich am besten für die Verwendung in Smart-Kampagnen oder Listen.
 
 >[!NOTE]
 >
->Alle SMS-Filter enthalten **Datum der Aktivität** -Beschränkung standardmäßig.
+>Alle SMS-Filter enthalten standardmäßig die Beschränkung **Datum der Aktivität** .
 
 ## SMS-Flussschritte {#sms-flow-steps}
 
@@ -69,11 +70,11 @@ Es gibt drei Schritte für den SMS-Ablauf, aus denen Sie wählen können.
   </tr>
 
 <tr>
-    <td style="width:20%"><b>Vibes-Liste abonnieren</b></td>
+    <td style="width:20%"><b>Abonnement der Vibes-Liste</b></td>
     <td>Mit dieser Flussaktion wird der SMS-Abonnementprozess über eine vom Benutzer ausgewählte Vibes-Akquise-Kampagne initiiert. Vibes sendet dann eine Bestätigungsnachricht und der Empfänger muss innerhalb von 24 Stunden mit "Y"antworten, um die Anmeldung zu bestätigen. Nachdem sich der Benutzer angemeldet hat, wird er Mitglied Ihrer zugehörigen Vibes-Abonnementliste.</td>
   </tr>
   <tr>
-    <td style="width:20%"><b>Von Vibes-Liste abmelden</b></td>
+    <td style="width:20%"><b>Abbestelltes Abonnement der Vibes-Liste</b></td>
     <td>Mit dieser Flussaktion wird die Anmeldung jeder Person von einer angemeldeten Benutzer-Abonnementliste für Vibes aufgehoben. Wenn ein Benutzer "STOP"in Ihren Code schreibt, wird sein Personendatensatz aktualisiert, um anzuzeigen, dass er nicht mehr Mitglied der Vibes-Abonnementliste ist.</td>
   </tr>
   </tbody>
@@ -81,10 +82,10 @@ Es gibt drei Schritte für den SMS-Ablauf, aus denen Sie wählen können.
 
 >[!NOTE]
 >
->Die **Abonnieren der Vibes-Liste** und **Abmeldung von der Vibes-Liste** -Flüsse haben unterschiedliche Anforderungen. Für **Abonnieren** müssen Sie die Vibes-Liste und die Vibes-Akquise-Kampagne auswählen. Für **Abmelden**, ist nur die Vibes-Liste erforderlich.
+>Die Flüsse **Abonnieren der Vibes-Liste** und **Abmelden von der Vibes-Liste** haben unterschiedliche Anforderungen. Für **Abonnieren** müssen Sie die Vibes-Liste und die Vibes-Akquise-Kampagne auswählen. Für **Unsubscribe** ist nur die Vibes-Liste erforderlich.
 
 >[!MORELIKETHIS]
 >
 >* [SMS-Nachricht senden](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md){target="_blank"}
->* [Definieren einer Smart-Liste für eine intelligente Kampagne | Trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}
->* [Definieren einer Smart-Liste für eine intelligente Kampagne | Batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}
+>* [Definieren einer Smart-Liste für Smart-Campaign | Trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}
+>* [Definieren einer Smart-Liste für Smart-Campaign | Batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}

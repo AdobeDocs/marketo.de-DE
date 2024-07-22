@@ -13,33 +13,33 @@ ht-degree: 3%
 
 # Benutzerdefinierte Objektdaten importieren {#import-custom-object-data}
 
-Benutzerdefinierte Objektdaten lassen sich einfach in Ihre Datenbank importieren. Wenn Sie benutzerdefinierte Objekte mit Unternehmen verwenden, finden Sie weitere Informationen unter [Verwenden benutzerdefinierter Objekte für Unternehmen](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md#using-custom-objects-with-companies) für weitere Informationen.
+Benutzerdefinierte Objektdaten lassen sich einfach in Ihre Datenbank importieren. Wenn Sie benutzerdefinierte Objekte mit Unternehmen verwenden, finden Sie weitere Informationen unter [Verwenden benutzerdefinierter Objekte mit Unternehmen](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md#using-custom-objects-with-companies) .
 
-1. Wechseln Sie in meiner Marketo zu **[!UICONTROL Datenbank]**.
+1. Wechseln Sie in My Marketo zu **[!UICONTROL Database]**.
 
    ![](assets/import-custom-object-data-1.png)
 
-1. Klicken **[!UICONTROL Neu]** und wählen Sie **[!UICONTROL Benutzerdefinierte Objektdaten importieren]**.
+1. Klicken Sie auf **[!UICONTROL Neu]** und wählen Sie **[!UICONTROL Benutzerdefinierte Objektdaten importieren]** aus.
 
    ![](assets/import-custom-object-data-2.png)
 
-1. Klicken **[!UICONTROL Durchsuchen]** , um die Datendatei zu suchen. Wählen Sie das Dateiformat aus (in diesem Beispiel durch Komma getrennte Werte).
+1. Klicken Sie auf **[!UICONTROL Durchsuchen]** , um die Datendatei zu suchen. Wählen Sie das Dateiformat aus (in diesem Beispiel durch Komma getrennte Werte).
 
    ![](assets/import-custom-object-data-3.png)
 
-1. Wählen Sie Ihre [!UICONTROL benutzerdefiniertes Objekt].
+1. Wählen Sie Ihr [!UICONTROL benutzerdefiniertes Objekt] aus.
 
    ![](assets/import-custom-object-data-4.png)
 
-1. Wählen Sie die [!UICONTROL Deduplizierungsmodus] aus der Dropdown-Liste aus. Klicken **[!UICONTROL Nächste]**.
+1. Wählen Sie den [!UICONTROL Deduplizierungsmodus] aus der Dropdownliste aus. Klicken Sie auf **[!UICONTROL Weiter]**.
 
    ![](assets/import-custom-object-data-5.png)
 
    >[!NOTE]
    >
-   >Verwenden Sie Deduplizierungsfelder als eindeutige Kennungen, wenn Sie benutzerdefinierte Objektdatensätze erstellen oder aktualisieren. In diesem Beispiel wird das Deduplizierungsfeld des **Auto** benutzerdefiniertes Objekt - vin (Fahrzeug-ID-Nummer). Wenn Sie nur benutzerdefinierte Objektdatensätze aktualisieren, können Sie die [!UICONTROL Marketo-Handbuch] als [!UICONTROL Deduplizierungsmodus].
+   >Verwenden Sie Deduplizierungsfelder als eindeutige Kennungen, wenn Sie benutzerdefinierte Objektdatensätze erstellen oder aktualisieren. In diesem Beispiel wird das Deduplizierungsfeld des benutzerdefinierten Objekts **car** - vin (Fahrzeug-ID-Nummer) verwendet. Wenn Sie nur benutzerdefinierte Objektdatensätze aktualisieren, können Sie das [!UICONTROL Marketo-Handbuch] als [!UICONTROL Deduplizierungsmodus] auswählen.
 
-1. Ordnen Sie jede Spalte einem Marketo-Feld zu und wählen Sie es aus der Dropdown-Liste aus.
+1. Ordnen Sie jede Spalte einem Marketo-Feld zu und wählen Sie es aus der Dropdownliste aus.
 
    ![](assets/import-custom-object-data-6.png)
 
@@ -47,11 +47,11 @@ Benutzerdefinierte Objektdaten lassen sich einfach in Ihre Datenbank importieren
    >
    >Stellen Sie sicher, dass die Werte in Ihrer Datei mit dem Typ des Felds übereinstimmen, mit dem Sie sie abgleichen (z. B. Text, Ganzzahl usw.), da die Datei andernfalls abgelehnt wird.
 
-1. Klicken **[!UICONTROL Nächste]**.
+1. Klicken Sie auf **[!UICONTROL Weiter]**.
 
    ![](assets/import-custom-object-data-7.png)
 
-1. Klicken **[!UICONTROL Import]**.
+1. Klicken Sie auf **[!UICONTROL Importieren]**.
 
    ![](assets/import-custom-object-data-8.png)
 
@@ -61,7 +61,7 @@ Benutzerdefinierte Objektdaten lassen sich einfach in Ihre Datenbank importieren
 
    >[!TIP]
    >
-   >Geben Sie Ihre E-Mail-Adresse im **[!UICONTROL Warnhinweis senden an]** und Marketo wird Ihnen eine E-Mail senden, wenn Sie Ihren Import abgeschlossen haben.
+   >Geben Sie Ihre E-Mail-Adresse in das Feld **[!UICONTROL Warnhinweis senden an]** ein, und Marketo wird Sie per E-Mail benachrichtigen, wenn Ihr Import abgeschlossen ist!
 
 1. In der rechten oberen Ecke des Bildschirms sehen Sie eine Benachrichtigung, während der Import ausgeführt wird, und die Endergebnisse, wenn der Import abgeschlossen ist.
 

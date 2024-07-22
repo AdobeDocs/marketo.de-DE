@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Führen Sie diese einfachen Schritte aus, um Ihre Webkampagnendaten zu exportieren.
 
-1. Navigieren Sie zu **Web-Kampagnen**.
+1. Wechseln Sie zu **Web-Kampagnen**.
 
    ![](assets/one-2.png)
 

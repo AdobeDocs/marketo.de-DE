@@ -17,7 +17,7 @@ Untersuchen Sie auf der Seite Sendungen die Merkmale der aktuellen E-Mail-Kommun
 
 ![](assets/one.png)
 
-Verwendung [Filter](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) um anzugeben, welche E-Mails Sie sehen möchten.
+Verwenden Sie [filter](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) , um festzulegen, welche E-Mails angezeigt werden sollen.
 
 ![](assets/filtering.png)
 
@@ -26,10 +26,10 @@ Auf der rechten Seite der Seite befinden sich verschiedene Informationen zu Ihre
 ![](assets/two-1.png)
 
 **Typ** gibt die Art des verwendeten Assets an.
-**Empfänger** number gibt an, wie viele Personen die E-Mail gesendet wurden.
-**Versandmetriken** gibt Ihnen einen schnellen Überblick darüber, wie viele E-Mails zugestellt, ausstehend oder nicht zugestellt wurden.\
-**Einsatzmetriken** gibt einen schnellen Überblick darüber, wie viele Empfänger eine E-Mail geöffnet, angeklickt und sich von ihr abgemeldet haben.
-**Ergebnis** ist die E-Mail von [Interaktionsbewertung](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
+Die Nummer **Empfänger** gibt an, wie viele Personen die E-Mail gesendet haben.
+**Versandmetriken** gibt Ihnen einen schnellen Überblick darüber, wie viele E-Mails zugestellt, ausstehend oder abgesprungen wurden.\
+**Interaktionsmetriken** gibt Ihnen einen schnellen Überblick darüber, wie viele Empfänger eine E-Mail geöffnet, angeklickt und abgemeldet haben.
+**Score** ist die [Interaktionsbewertung](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md) Ihrer E-Mail.
 
 Standardmäßig werden Ihre E-Mails nach der letzten sortiert, Sie können sie jedoch nach jeder verfügbaren Metrik sortieren.
 

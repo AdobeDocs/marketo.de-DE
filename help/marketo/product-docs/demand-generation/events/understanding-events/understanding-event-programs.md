@@ -30,7 +30,7 @@ Ein Ereignisprogramm ist ein Programm, mit dem Sie Ihre Offline- oder Online-Ere
 >* Messen
 >* Meetings
 
-Ereignisse können automatisch eine Verbindung zu Ihrer [Webinar-Anbieter](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md) sowie Synchronisierung mit [iPad-Eincheckanwendung](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
+Ereignisse können automatisch eine Verbindung zu Ihrem [Webinar-Anbieter](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md) herstellen und mit einer [iPad-Eincheckanwendung](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md) synchronisieren.
 
 >[!MORELIKETHIS]
 >

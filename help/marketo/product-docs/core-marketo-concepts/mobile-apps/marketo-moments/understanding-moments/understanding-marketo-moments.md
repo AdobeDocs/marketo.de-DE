@@ -6,22 +6,22 @@ exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
 feature: Mobile Marketing
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '610'
-ht-degree: 5%
+source-wordcount: '604'
+ht-degree: 3%
 
 ---
 
 # Grundlagen zu Marketo-Momenten {#understanding-marketo-moments}
 
-Sie haben jetzt die leistungsstarken Funktionen von Marketo in der Hand – in jeder Hinsicht! Vorschau und Neuplanen von E-Mail direkt über Telefon oder iPad.
+Sie haben jetzt die leistungsstarken Funktionen von Marketo in der Hand – in jeder Hinsicht! Sie können eine Vorschau von E-Mails direkt von Ihrem Telefon oder iPad aus ansehen und sie neu planen.
 
 >[!IMPORTANT]
 >
->Am 2. Oktober 2023 hat Adobe die Marketo Moments-App aus allen App Stores entfernt. Wenn Sie die App bereits auf Ihrem Tablet/Mobilgerät installiert haben, können Sie sie vorerst weiter verwenden. Sobald Ihre Marketo Engage-Instanz zur Authentifizierung von Marketo zu Adobe Identity migriert wurde, können Sie nicht mehr auf die App zugreifen. [Weitere Informationen](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+>Am 2. Oktober 2023 hat Adobe die Marketo Moments-App aus allen App Stores entfernt. Wenn Sie die App bereits auf Ihrem Tablet/Mobilgerät installiert haben, können Sie sie vorerst weiter verwenden. Sobald Ihre Marketo Engage-Instanz zur Authentifizierung von Marketo zu Adobe Identity migriert wurde, können Sie nicht mehr auf die App zugreifen. [Weitere Infos](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 >[!NOTE]
 >
->_Zugriff auf mobile Apps_ -Berechtigung erforderlich ist. Wenden Sie sich an Ihren Marketo-Administrator an [Rolle aktualisieren](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+>Die Berechtigung _Zugriff auf Mobile Apps_ ist erforderlich. Wenden Sie sich an Ihren Marketo-Administrator, um [Ihre Rolle zu aktualisieren](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
 ## Streams {#streams}
 
@@ -33,10 +33,10 @@ Hier sind die verschiedenen Ströme in Moments.
 >
 >**Definition**
 >
->* [!UICONTROL Momente]: Alles, was gerade ausgeführt wurde oder gerade ausgeführt werden wird, ist hier.
->* [!UICONTROL Favoriten]: Alles, was Sie zu einem Favoriten machen, geht hier rein.
+>* [!UICONTROL Moments]: Alles, was gerade ausgeführt wurde oder gerade ausgeführt wird, geht hierher.
+>* [!UICONTROL Favoriten]: Alles, was Sie als Favoriten bezeichnen, geht hier rein.
 >* [!UICONTROL Später]: Alles, was später als dieser Moment stattfindet, geht hier rein.
->* [!UICONTROL Fertig]: Alles, was fertig ausgeführt wurde oder Sie als fertig markiert haben, geht hierher.
+>* [!UICONTROL Fertig]: Alles, was ausgeführt wurde oder als fertig markiert wurde, geht hierher.
 
 Ok, jetzt, da wir das im Weg stehen, lassen Sie uns einen Blick auf Marketo Moments werfen!
 
@@ -48,7 +48,7 @@ Marketo Moments bietet Ihnen drei verschiedene Karten, die dem Fortschritt Ihrer
 
 ![](assets/image2015-7-17-11-3a25-3a48.png)
 
-**[!UICONTROL Herzschlag]** - He - diese E-Mail wird jetzt zugestellt! Und hier sind auch Statistiken. Machen Sie weiter und teilen Sie es.
+**[!UICONTROL Herzschlag]** - Hey - Diese E-Mail wird jetzt zugestellt! Und hier sind auch Statistiken. Machen Sie weiter und teilen Sie es.
 
 ![](assets/image2015-7-17-11-3a27-3a22.png)
 
@@ -58,7 +58,7 @@ Marketo Moments bietet Ihnen drei verschiedene Karten, die dem Fortschritt Ihrer
 
 ## Moments Stream {#moments-stream}
 
-Wenn Sie die App zum ersten Mal öffnen oder tippen **[!UICONTROL Momente]** im Menü werden die entsprechenden Karten zuerst angezeigt. Jede enthält Informationen zu dieser spezifischen Marketing-Initiative und ihrer Gesamtleistung.
+Wenn Sie die App zum ersten Mal öffnen oder im Menü auf **[!UICONTROL Momente]** tippen, werden die entsprechenden Karten zuerst angezeigt. Jede enthält Informationen zu dieser spezifischen Marketing-Initiative und ihrer Gesamtleistung.
 
 ![](assets/image2015-7-15-10-3a46-3a19.png)
 
@@ -83,10 +83,10 @@ Sehr gut! Sie können etwas geschehen lassen, indem Sie auf Folgendes tippen:
 >**Definition**
 >
 >* [!UICONTROL Favorit]: Es ist einfach, auf die Dinge zu achten, die am aktuellsten und am wichtigsten sind, wenn Sie sie zu Favoriten machen.
->* [!UICONTROL Fertig]: Fertig löst sie aus der Marketo Moments-Ansicht aus (lässt sie jedoch in Marketo, sicher und Ton stehen).
+>* [!UICONTROL Fertig]: Fertig löst sie die Ansicht &quot;Marketo Moments&quot;aus (lässt sie jedoch in Marketo, sicher und Ton stehen).
 >* [!UICONTROL Freigeben]: Senden Sie ein Bild, um Ihr Team zu motivieren oder zu beglückwünschen.
->* [!UICONTROL Beispiel senden] (Nur E-Mail): Mithilfe dieser Funktion können andere überprüfen, wie Ihre E-Mails aussehen, bevor Sie sie versenden.
->* [!UICONTROL Vorschau von E-Mail] (nur E-Mails): Es ist immer empfehlenswert, Ihre E-Mails im Voraus zu überprüfen.
+>* [!UICONTROL Beispiel senden] (nur E-Mail): Verwenden Sie diese Option, damit andere überprüfen können, wie Ihre E-Mails aussehen, bevor Sie sie senden.
+>* [!UICONTROL E-Mail-Vorschau anzeigen] (nur E-Mails): Es ist immer empfehlenswert, Ihre E-Mails im Voraus auszuchecken.
 
 ## Spätere Momente {#later-moments}
 
@@ -96,7 +96,7 @@ Im Abschnitt Später werden die bevorstehenden Aktivitäten angezeigt.
 
    ![](assets/image2015-7-15-10-3a52-3a5.png)
 
-1. Tippen **[!UICONTROL Später]**.
+1. Tippen Sie auf **[!UICONTROL Später]**.
 
    ![](assets/image2015-7-15-10-3a54-3a47.png)
 
@@ -121,7 +121,7 @@ Bei Ereignissen sehen Sie die Gesamtzahl der Mitglieder und ihren Status.
 Die Analytics-Ereigniskarten zeigen Ihnen, wie Ihre E-Mails und Ereignisse in den letzten sechs Monaten monatlich abschneiden, zum Beispiel:
 
 1. Erworbene Leads
-1. Neue Leads
+1. New Leads
 1. Abbestellungen
 
 ![](assets/image2015-7-6-13-3a26-3a33.png)
@@ -134,7 +134,7 @@ Smart-Kampagnenkarten stellen einen einzelnen Ablauf einer Kampagne dar. Bei jed
 
 ## Aktion bestätigen oder abbrechen {#confirm-or-cancel-an-action}
 
-In jedem Schritt des Verfahrens können Sie eine Aktion bestätigen oder abbrechen. Wenn Sie Ihre Meinung ändern, tippen Sie einfach auf **[!UICONTROL Niemals Mind]**.
+In jedem Schritt des Verfahrens können Sie eine Aktion bestätigen oder abbrechen. Wenn Sie Ihre Meinung ändern, tippen Sie einfach auf **[!UICONTROL Nie stören]**.
 
 ![](assets/image2015-7-14-17-3a11-3a29.png)
 
@@ -143,7 +143,7 @@ In jedem Schritt des Verfahrens können Sie eine Aktion bestätigen oder abbrech
 Marketo Moments unterstützt diese Betriebssystemversionen:
 
 * [!DNL Apple] iOS 8.0 und höher.
-* [!DNL Android] ab Version 4.1 (im Grunde Jellybean und höher).
+* [!DNL Android] Version 4.1 und höher (im Grunde Jellybean und höher).
 
 Sind Sie bereit für mehr?
 
@@ -151,5 +151,5 @@ Sind Sie bereit für mehr?
 >
 >* [Grundlagen zu E-Mail-Programmkarten](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
 >* [Grundlagen zu Ereigniskarten](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
->* [Grundlagen zu Analytics-Karten](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)
->* [Smart-Campaign-Karten](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-smart-campaign-cards.md)
+>* [Grundlegendes zu Analytics Cards](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)
+>* [Grundlagen zu Smart-Campaign-Karten](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-smart-campaign-cards.md)

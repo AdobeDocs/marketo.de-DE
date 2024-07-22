@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Intelligente Kampagnen und E-Mail-Programme können als vorläufige Einträge erstellt werden und müssen bestätigt werden, damit alles tatsächlich geschieht. So geht es.
 
-1. Navigieren Sie zu **[!UICONTROL Kalender]**.
+1. Wechseln Sie zum **[!UICONTROL Kalender]**.
 
    ![](assets/2017-05-10-15-30-47-5.png)
 

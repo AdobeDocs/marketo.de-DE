@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Sie können einfach neue Ausführungen einer vorhandenen Smart-Kampagne direkt über die Programmplanungsansicht erstellen.
 
-1. Navigieren Sie zu **[!UICONTROL Marketingaktivitäten]**.
+1. Wechseln Sie zu **[!UICONTROL Marketingaktivitäten]**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -33,6 +33,6 @@ Sie können einfach neue Ausführungen einer vorhandenen Smart-Kampagne direkt �
 
    >[!TIP]
    >
-   >Sie können dies auch über die [Programmschwerpunkt](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md).
+   >Sie können dies auch über den [Programmfokus](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md) tun.
 
 Boom! Genau so haben Sie eine weitere Ausführung für diese Smart-Kampagne geplant. Wenn diese Smart-Kampagne die Schritte zum Senden von E-Mails enthält, werden auch diese angezeigt!

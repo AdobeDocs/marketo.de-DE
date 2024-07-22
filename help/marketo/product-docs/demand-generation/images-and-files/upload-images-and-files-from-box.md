@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Sie können Dateien von Box hochladen, um sie auf Landingpages und E-Mails zu verwenden.
 
-1. Navigieren Sie zu **Design Studio**.
+1. Wechseln Sie zu **Design Studio**.
 
    ![](assets/designstudio-3.png)
 
-1. Navigieren Sie zu **Bilder und Dateien**. Klicks **Dateiaktionen** und wählen **Grab-Bilder aus dem Web**.
+1. Wechseln Sie zu **Bilder und Dateien**. Klicken Sie auf **Dateiaktionen** und wählen Sie **Bilder aus Web abrufen** aus.
 
    ![](assets/image2014-9-16-12-3a50-3a40.png)
 
-1. Klicks **Feld**.
+1. Klicken Sie auf **Feld**.
 
    ![](assets/image2014-9-16-12-3a50-3a56.png)
 
@@ -35,11 +35,11 @@ Sie können Dateien von Box hochladen, um sie auf Landingpages und E-Mails zu ve
 
    ![](assets/image2014-9-16-12-3a51-3a28.png)
 
-1. Wählen Sie aus, wo Sie die Dateien speichern möchten. Wählen Sie dann die **Feld** Ordner, aus dem Sie hochladen möchten. Klicks **Nächste**.
+1. Wählen Sie aus, wo Sie die Dateien speichern möchten. Wählen Sie dann den Ordner **Feld** aus, aus dem Sie hochladen möchten. Klicken Sie auf **Weiter**.
 
    ![](assets/image2014-9-16-12-3a51-3a59.png)
 
-1. Wählen Sie die Dateien aus, die Sie hochladen möchten. Klicks **Import**.
+1. Wählen Sie die Dateien aus, die Sie hochladen möchten. Klicken Sie auf **Importieren**.
 
    ![](assets/image2014-9-16-12-3a52-3a15.png)
 

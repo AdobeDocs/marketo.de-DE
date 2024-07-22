@@ -7,7 +7,7 @@ feature: Events
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '385'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -17,23 +17,23 @@ Hier finden Sie ein Beispielereignis mit Kampagnen für ein ON24-Webinar. Stelle
 
 ## Erstellen eines neuen Ereignisses in Marketingaktivitäten {#create-a-new-event-in-marketing-activities}
 
-1. Auswählen **Neu** > **Neues Programm**.
+1. Wählen Sie **Neu** > **Neues Programm** aus.
 
    ![](assets/image2015-12-22-15-3a35-3a15.png)
 
-1. Wählen Sie eine **Kampagnenordner** wo das Ereignis live sein wird.
+1. Wählen Sie einen **Kampagnenordner** aus, in dem das Ereignis live sein soll.
 
    ![](assets/image2015-12-22-15-3a39-3a51.png)
 
-1. Geben Sie einen **Name** für das Ereignis.
+1. Geben Sie einen **Namen** für das Ereignis ein.
 
    ![](assets/image2015-12-22-15-3a43-3a4.png)
 
-1. Auswählen **Ereignis** als **Programmtyp**.
+1. Wählen Sie **Ereignis** als **Programmtyp** aus.
 
    ![](assets/image2015-12-22-15-3a44-3a41.png)
 
-1. Auswählen **Webinar** als **Kanal** für das Ereignis.
+1. Wählen Sie **Webinar** als **Kanal** für das Ereignis aus.
 
    ![](assets/image2015-12-22-15-3a46-3a34.png)
 
@@ -43,47 +43,47 @@ Hier finden Sie ein Beispielereignis mit Kampagnen für ein ON24-Webinar. Stelle
 
 ## Einladen (Batch-Kampagne)  {#invite-batch-campaign}
 
-* **Smart List** - Definieren Sie, wen Sie zur Veranstaltung einladen.
-* **Flow**
+* **Smart List** - Definieren Sie, wen Sie zum Ereignis einladen möchten.
+* **Fluss**
 
    * E-Mail senden - Wenn es sich um eine lokale Asset-E-Mail handelt, wird die folgende Namenskonvention verwendet: EventName.EmailName. Sie können auch globale E-Mails verwenden.
    * Status ändern in Progression - Auf Webinar > Eingeladen einstellen.
 
-* **Zeitplan** - Legen Sie das Datum für den Versand der Einladung fest.
+* **Zeitplan** - Legt das Datum für den Versand der Einladung fest.
 
 ## Registrierung/Bestätigung (Trigger Campaign) {#registration-confirmation-trigger-campaign}
 
-* **Intelligente Liste**
+* **Smart List**
 
-   * Trigger der Kampagne basierend auf **Formular ausfüllen**. Stellen Sie sicher, dass Sie die Landingpage einschließen, auf der das Formular aktiv ist, indem Sie **Beschränkung hinzufügen**, insbesondere wenn das Formular auf mehreren Landingpages verwendet wird.
+   * Trigger der Kampagne basierend auf **Ausfüllen des Formulars**. Stellen Sie sicher, dass Sie die Landingpage einschließen, auf der das Formular ausgeführt wird, indem Sie **Beschränkung hinzufügen** verwenden, insbesondere wenn das Formular auf mehreren Landingpages verwendet wird.
 
 >[!CAUTION]
 >
->Sie müssen ein Marketo-Formular verwenden, um Personen für die Veranstaltung zu registrieren, oder ein Nicht-Marketo-Formular mit der entsprechenden API-Integration, um Registrierungsdaten an Marketo zu senden. Dies ist von entscheidender Bedeutung für den Erfolg Ihrer Partner-Integration. **NOTE**: Wenn Sie ein Marketo-Formular auf einer Landingpage ohne Marketo verwenden, wird Ihr Trigger **Formular ausfüllen** mit dem Formularnamen.
+>Sie müssen ein Marketo-Formular verwenden, um Personen für die Veranstaltung zu registrieren, oder ein Nicht-Marketo-Formular mit der entsprechenden API-Integration, um Registrierungsdaten an Marketo zu senden. Dies ist von entscheidender Bedeutung für den Erfolg Ihrer Partner-Integration. **HINWEIS**: Wenn Sie ein Marketo-Formular auf einer Nicht-Marketo-Landingpage verwenden, lautet Ihr Trigger **Formular ausfüllen** mit dem Formularnamen.
 
 ![](assets/image2015-12-22-15-3a50-3a22.png)
 
-* **Flow**
+* **Fluss**
 
-   * **Änderungsstatus in Progression** - Auf Webinar > Registriert einstellen. **VORSICHT**: Dieser Flussschritt ist beim Einrichten Ihrer untergeordneten Kampagne erforderlich. Wenn sich der Fortschritt einer Person in **Angemeldet**&#x200B;überträgt Marketo die Registrierungsinformationen an ON24.
+   * **Status in Progression ändern** - Setzen Sie es auf Webinar > Registriert. **VORSICHT**: Dieser Flussschritt ist beim Einrichten Ihrer untergeordneten Kampagne erforderlich. Wenn sich der Fortschritt einer Person in &quot;**Registered**&quot; ändert, überträgt Marketo die Registrierungsinformationen an ON24.
 
-   * **E-Mail senden** - Bestätigungs-E-Mail (festgelegt auf **Betrieb** sodass abgemeldete Personen, die sich registriert haben, diese noch erhalten).
+   * **E-Mail senden** - Bestätigungs-E-Mail (auf **Operativ** gesetzt, damit abgemeldete Benutzer, die sich registriert haben, diese weiterhin erhalten).
 
 ![](assets/image2015-12-22-15-3a52-3a9.png)
 
-**NOTE**: Wenn die Person mit einem Registrierungsfehler zurückgegeben wird, erhält sie keine E-Mail-Bestätigung.
+**HINWEIS**: Wenn die Person mit einem Registrierungsfehler zurückgegeben wird, erhält sie keine E-Mail-Bestätigung.
 
 ## Erinnerung (Batch-Kampagne) {#reminder-batch-campaign}
 
-* **Smart List** - Filtern mit **Programmteilnehmer** und legen Sie den Status auf **Angemeldet**.
+* **Smart List** - Filtern Sie mit **Member of Program** und legen Sie den Status auf **Registered** fest.
 
-* **Fluss** - E-Mail senden (Reminder Email).
+* **Fluss** - E-Mail senden (Erinnerungsmail).
 
-**NOTE**: Sie können eine ähnliche Kampagne verwenden, um eine *distinct* Follow-up-E-Mail an eingeladene Personen, die sich aber noch nicht registriert haben.
+**HINWEIS**: Sie können eine ähnliche Kampagne verwenden, um eine *andere* Follow-up-E-Mail an Personen zu senden, die eingeladen wurden, sich aber noch nicht registriert haben.
 
 ## Folgenachrichten-Kampagnen (Batch- oder Trigger-Kampagnen) {#follow-up-campaign-batch-or-trigger-campaign}
 
-* **Smart List** - Trigger basierend auf Änderungen des Programmstatus.
+* **Smart List** - Trigger basierend auf Änderungen im Programmstatus.
 
 ![](assets/image2015-12-22-15-3a57-3a25.png)
 

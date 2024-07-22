@@ -17,15 +17,15 @@ Landingpages befinden sich im Entwurfsmodus, bis Sie sie genehmigen. Durch die G
 
 ## Genehmigen einer Landingpage {#approve-a-landing-page}
 
-1. Landingpage auswählen, navigieren Sie zu **Landingpage-Aktionen** und klicken **Genehmigen**.
+1. Wählen Sie eine Landingpage aus, gehen Sie zu **Aktionen auf Landingpages** und klicken Sie auf **Genehmigen**.
 
    >[!TIP]
    >
-   >Sie können [Mehrere Seiten gleichzeitig genehmigen](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/approve-multiple-landing-pages-at-once.md) um Ihnen das Leben zu erleichtern.
+   >Sie können [mehrere Seiten gleichzeitig genehmigen](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/approve-multiple-landing-pages-at-once.md), um Ihr Leben zu vereinfachen.
 
    ![](assets/image2014-9-16-15-3a28-3a22.png)
 
-1. Sie können auch mit der rechten Maustaste auf Ihre Landingpage klicken und **Genehmigen**.
+1. Sie können auch mit der rechten Maustaste auf Ihre Landingpage klicken und auf **Genehmigen** klicken.
 
    ![](assets/image2014-9-16-15-3a30-3a4.png)
 
@@ -35,21 +35,21 @@ Landingpages befinden sich im Entwurfsmodus, bis Sie sie genehmigen. Durch die G
 
 ## Aufheben der Genehmigung einer Landingpage {#unapprove-a-landing-page}
 
-1. Landingpage auswählen, navigieren Sie zu **Landingpage-Aktionen** und klicken **Nicht genehmigen**.
+1. Wählen Sie eine Landingpage aus, gehen Sie zu **Aktionen auf der Landingpage** und klicken Sie auf **Nicht genehmigen**.
 
    ![](assets/image2014-9-16-15-3a31-3a8.png)
 
-1. Sie können auch mit der rechten Maustaste auf Ihre Landingpage klicken und auf **Nicht genehmigen**.
+1. Sie können auch mit der rechten Maustaste auf Ihre Landingpage klicken und auf **Nicht genehmigen** klicken.
 
    ![](assets/image2014-9-16-15-3a31-3a34.png)
 
 >[!NOTE]
 >
->Ihre nicht genehmigte Landingpage wird nicht mehr im Web veröffentlicht und generiert keine zusätzliche Aktivität. Besuchern nicht genehmigter Landingpages und ihren Facebook-Registerkarten wird die [Fallback-Seite](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md).
+>Ihre nicht genehmigte Landingpage wird nicht mehr im Web veröffentlicht und generiert keine zusätzliche Aktivität. Besuchern nicht genehmigter Landingpages und ihren Facebook-Registerkarten wird die [Fallback-Seite](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md) angezeigt.
 
 ## Landingpage löschen {#delete-a-landing-page}
 
-1. Landingpage auswählen, navigieren Sie zu **Landingpage-Aktionen** und klicken **Löschen**.
+1. Wählen Sie eine Landingpage aus, gehen Sie zu **Aktionen auf Landingpages** und klicken Sie auf **Löschen**.
 
    ![](assets/image2014-9-16-15-3a49-3a59.png)
 
@@ -57,7 +57,7 @@ Landingpages befinden sich im Entwurfsmodus, bis Sie sie genehmigen. Durch die G
    >
    >Sie können eine genehmigte Landing Page nicht löschen. Entziehen Sie zuerst die Genehmigung.
 
-1. Sie können auch mit der rechten Maustaste auf Ihre Landingpage klicken und **Löschen**.
+1. Sie können auch mit der rechten Maustaste auf Ihre Landingpage klicken und auf **Löschen** klicken.
 
    ![](assets/image2014-9-16-15-3a50-3a40.png)
 
@@ -65,7 +65,7 @@ Landingpages befinden sich im Entwurfsmodus, bis Sie sie genehmigen. Durch die G
 
 Möchten Sie mehrere Landingpages gleichzeitig löschen? So geht es.
 
-1. Klicken Sie in Design Studio auf **Landing Pages**.
+1. Klicken Sie in Design Studio auf **Einstiegsseiten**.
 
    ![](assets/one.png)
 
@@ -77,12 +77,12 @@ Möchten Sie mehrere Landingpages gleichzeitig löschen? So geht es.
    >
    >Sie können auch bei gedrückter Strg-Taste mehrere Landingpages löschen, die nicht sequenziell sind.
 
-1. Klicken Sie auf **Landingpage-Aktionen** und wählen Sie **Löschen**.
+1. Klicken Sie auf das Dropdown-Menü **Landingpage-Aktionen** und wählen Sie **Löschen** aus.
 
    ![](assets/three.png)
 
-1. Klicks **Löschen**.
+1. Klicken Sie auf **Löschen**.
 
    ![](assets/four.png)
 
-Fantastisch Jetzt wissen Sie, wie Sie Landingpages genehmigen, nicht genehmigen und löschen können.
+Fantastisch! Jetzt wissen Sie, wie Sie Landingpages genehmigen, nicht genehmigen und löschen können.

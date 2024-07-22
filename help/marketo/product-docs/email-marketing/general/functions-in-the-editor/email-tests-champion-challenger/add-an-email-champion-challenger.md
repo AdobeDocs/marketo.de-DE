@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Es empfiehlt sich, häufig verwendete E-Mails zu testen, um sicherzustellen, dass sie funktionieren. Eine Möglichkeit besteht darin, die Effektivität einer E-Mail mit anderen Versionen oder Herausforderern zu vergleichen. In einem Champion/Herausforderer-Test können Sie die gesamte E-Mail, die Betreffzeile oder die Absenderadresse testen.
 
-Die vorhandene E-Mail, die Sie testen, gilt als Champion. Alle Varianten, die Sie in einem Test erstellen, werden als Challenger betrachtet. Sie bestimmen den Prozentsatz der Personen, die entweder den Meisterinhalt oder den Inhalt des Herausforderers erhalten. Wenn Sie mehrere Challenger definiert haben, werden diese gleichmäßig auf die Challenger-Gruppe verteilt.
+Die vorhandene E-Mail, die Sie testen, gilt als Champion. Alle Varianten, die Sie in einem Test erstellen, werden als Challenger betrachtet. Sie bestimmen den Prozentsatz der Personen, die entweder den Meisterinhalt oder den Challenger-Inhalt erhalten. Wenn Sie mehrere Challenger definiert haben, werden diese gleichmäßig auf die Challenger-Gruppe verteilt.
 
 Hier ist der Anfang.
 
@@ -26,21 +26,21 @@ Hier ist der Anfang.
 
 >[!CAUTION]
 >
->Champion-/Challenger-E-Mails funktionieren nur mit Trigger-Kampagnen und Interaktionszielgruppen-Streams. Verwenden Sie für Batch-Mailings die Funktion [A/B-Test-Funktionalität](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md).
+>Champion-/Challenger-E-Mails funktionieren nur mit Trigger-Kampagnen und Interaktionszielgruppen-Streams. Verwenden Sie für Batch-Mailings die [A/B-Test-Funktion des E-Mail-Programms](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md).
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Wechseln Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Suchen und wählen Sie eine E-Mail aus.
+1. E-Mail suchen und auswählen
 
    ![](assets/champion1.jpg)
 
    >[!NOTE]
    >
-   >Informationen zu einmaligen E-Mail-Strahlungen finden Sie hier: [E-Mail-Programme](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md).
+   >Erfahren Sie mehr über [E-Mail-Programme](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) für einmalige E-Mail-Sendungen.
 
-1. under **E-Mail-Aktionen** klicken **Neuer Test**.
+1. Klicken Sie unter **E-Mail-Aktionen** auf **Neuer Test**.
 
    ![](assets/chmapion2.jpg)
 
@@ -49,5 +49,5 @@ Hier ist der Anfang.
    >[!MORELIKETHIS]
    >
    >* [Champion/Challenger: Gesamte E-Mails](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-whole-emails.md)
-   >* [Champion/Challenger: Betreff](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-subject-line.md)
+   >* [Champion/Challenger: Betreffzeile](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-subject-line.md)
    >* [Champion/Challenger: Von Adresse](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-from-address.md)

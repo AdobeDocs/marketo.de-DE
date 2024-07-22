@@ -7,7 +7,7 @@ feature: Events
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '170'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -22,12 +22,12 @@ Es gibt bestimmte Einstellungen bei der Erstellung Ihres ON24-Webinars, die von 
 * Ereignistitel - Der Name des Webinars. Dies ist in Marketo sichtbar.
 * Abstrakte Veranstaltung (optional) - Beschreibung des Webinars. Dies ist in Marketo sichtbar.
 
-**Datum &amp; Uhrzeit**
+**Datum und Uhrzeit**
 
 * Start des Live-Ereignisses - Startdatum und -zeit. Dies ist in Marketo sichtbar.
 * Live-Endzeit - Enddatum und -zeit. Dies ist in Marketo sichtbar.
 
-Ihr nächster Schritt besteht darin, [Ereignis in Marketo erstellen](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md){target="_blank"}.
+Der nächste Schritt besteht darin, [ein Ereignis in Marketo](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md){target="_blank"} zu erstellen.
 
 >[!MORELIKETHIS]
 >

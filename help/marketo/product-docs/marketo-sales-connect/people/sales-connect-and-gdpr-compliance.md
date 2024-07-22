@@ -6,8 +6,8 @@ exl-id: f5822085-0372-42f9-b6d6-9f6ce58559ea
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '1387'
-ht-degree: 3%
+source-wordcount: '1386'
+ht-degree: 10%
 
 ---
 
@@ -32,7 +32,7 @@ Darüber hinaus gibt es eine neue Rechenschaftspflicht, um nachweisen zu können
 
 ## Auf wen trifft es zu? {#to-whom-does-it-apply}
 
-Die DSGVO gilt für Organisationen innerhalb oder außerhalb der EU, die Waren oder Dienstleistungen für betroffene Personen in der EU und im EWR vermarkten und/oder deren Verhalten verfolgen. Wenn Sie mit Datensubjekten in Europa Geschäfte machen, die die Verarbeitung ihrer personenbezogenen Daten beinhalten, gilt diese Gesetzgebung für Sie. Bei Verstößen gegen die Verordnung werden erhebliche Strafen verhängt, wobei gegen die Verordnung hohe Geldbußen verhängt werden. die Höchststrafe für einen einzelnen Verstoß 20 Mio. € oder 4 % des weltweiten Jahresumsatzes beträgt, je nachdem, welcher Betrag höher ist.
+Die DSGVO gilt für alle Organisationen innerhalb oder außerhalb der EU, die Waren oder Dienstleistungen für betroffene Personen in der EU und im EWR vermarkten und/oder deren Verhalten nachverfolgen. Wenn Sie mit betroffenen Personen in Europa Geschäfte machen, die die Verarbeitung ihrer personenbezogenen Daten beinhalten, gilt diese Gesetzgebung für Sie. Bei Verstößen gegen die Verordnung werden erhebliche Geldbußen verhängt, wobei die Höchststrafe für einen einzigen Verstoß 20 Millionen Euro oder 4 % des weltweiten Jahresumsatzes beträgt, je nachdem, welcher Betrag höher ist.
 
 ## Auswirkungen auf das Marketing {#implications-for-marketing}
 
@@ -42,7 +42,7 @@ Die Art und Weise, wie Marketer diese höheren Erwartungen in Bezug auf die Erfa
 
 Es gibt zwei Hauptaspekte der DSGVO, in denen Marketingexperten vergangene, aktuelle und zukünftige Vorgehensweisen überprüfen müssen. Die erste ist die Einwilligung des Einzelnen zur Verarbeitung seiner personenbezogenen Daten, die zweite ist die Rechenschaftspflicht, nämlich nachweisen zu können, wie die Grundsätze der DSGVO eingehalten werden.
 
-In unserem E-Book bieten wir umfassende Informationen über Einverständnis und Rechenschaftspflicht innerhalb der Marketo-Plattform. [DSGVO und Marketer](https://www.marketo.com/ebooks/the-gdpr-and-the-marketer/). In diesem Artikel konzentrieren wir uns jedoch speziell auf die neuen Funktionen in Marketo Sales Connect, die Ihrem Unternehmen helfen, die DSGVO-Regeln einzuhalten.
+In unserem E-Book, [DSGVO und The Marketer](https://www.marketo.com/ebooks/the-gdpr-and-the-marketer/), bieten wir umfassende Informationen über Einverständnis und Verantwortlichkeit innerhalb der Marketo-Plattform. In diesem Artikel konzentrieren wir uns jedoch speziell auf die neuen Funktionen in Marketo Sales Connect, die Ihrem Unternehmen helfen, die DSGVO-Regeln einzuhalten.
 
 ## DSGVO-Compliance in Marketo Sales Connect {#gdpr-compliance-in-marketo-sales-connect}
 
@@ -50,7 +50,7 @@ Marketo Sales Connect ist eine leistungsstarke Anwendung - Teil der Marketo Enga
 
 ## Compliance Card {#compliance-card}
 
-Marketo Sales Connect beinhaltet eine Compliance Card in der Personendetailansicht, die wichtige Informationen zum Autorisierungstyp eines Kontakts sowie zum Quelltyp enthält. Auf diese Weise können Benutzer Informationen, die für den Datenschutz von entscheidender Bedeutung sind, einfach hinzufügen und verfolgen und ihnen dabei helfen, fundiertere Entscheidungen über die Kampagnen-/Kontaktstrategie zu treffen.
+Marketo Sales Connect enthält in der Personendetailansicht eine Compliance-Karte mit wichtigen Informationen zum Autorisierungstyp eines Kontakts sowie zum Source-Typ. Auf diese Weise können Benutzer Informationen, die für den Datenschutz von entscheidender Bedeutung sind, einfach hinzufügen und verfolgen und ihnen dabei helfen, fundiertere Entscheidungen über die Kampagnen-/Kontaktstrategie zu treffen.
 
 ![](assets/1.png)
 
@@ -58,7 +58,7 @@ Art der Kontaktgenehmigung
 
 Innerhalb der Compliance Card können Benutzer die Rechtsgrundlage für die Verarbeitung der personenbezogenen Daten eines Kontakts über die Dropdown-Liste Autorisierung verfolgen. Die Kenntnis des Autorisierungstyps eines Kontakts hilft Marketo Sales Connect-Benutzern dabei, fundiertere Entscheidungen über Outreach-Verfahren zu treffen, um sicherzustellen, dass jede Kampagne oder Interaktion legal und angemessen ist.
 
-Benutzer haben verschiedene Optionen zur Auswahl:
+Benutzer haben verschiedene Optionen zur Auswahl, darunter:
 
 * Einverständnis
 * Berechtigtes Interesse
@@ -68,13 +68,13 @@ Benutzer haben verschiedene Optionen zur Auswahl:
 * Öffentliches Interesse/Offizielle Behörde
 * Andere
 
-Kontaktquellentyp
+Source-Typ kontaktieren
 
-Innerhalb der neuen Compliance Card können Benutzer die Quelle eines Kontakts verfolgen. Der Quelltyp definiert, woher die Informationen eines Kontakts kamen, als sie zum ersten Mal in Marketo Sales Connect hochgeladen wurden. Das Verständnis des Quelltyps eines Kontakts hilft auch bei Entscheidungen zu Outreach-Verfahren sowie bei der Bestimmung, welche anderen Systeme oder Standorte personenbezogene Daten speichern, und stellt sicher, dass jede Interaktion mit den DSGVO-Vorschriften im Einklang steht.
+Innerhalb der neuen Compliance Card können Benutzer die Quelle eines Kontakts verfolgen. Der Source-Typ definiert, woher die Informationen eines Kontakts kamen, als sie zum ersten Mal in Marketo Sales Connect hochgeladen wurden. Das Verständnis des Quelltyps eines Kontakts hilft auch bei Entscheidungen zu Outreach-Verfahren sowie bei der Bestimmung, welche anderen Systeme oder Standorte personenbezogene Daten speichern, und stellt sicher, dass jede Interaktion mit den DSGVO-Vorschriften im Einklang steht.
 
 Auch hier haben Benutzer zahlreiche Dropdown-Optionen zur Auswahl, darunter:
 
-* CRM-Synch.
+* CRM-Synch
 * Importieren
 * Manueller Upload
 * Chrome-Erweiterung
@@ -82,25 +82,25 @@ Auch hier haben Benutzer zahlreiche Dropdown-Optionen zur Auswahl, darunter:
 
 Bearbeiten der Kompatibilitätskarte
 
-Wenn die Personendetailansicht geöffnet ist, klicken Sie auf **Bearbeiten** in der Einhaltungskarte.
+Wenn die Personendetailansicht geöffnet ist, klicken Sie auf der Einhaltungskarte auf **Bearbeiten** .
 
 ![](assets/four.png)
 
-Es werden zwei Dropdown-Listen angezeigt: Autorisierungstyp und Quelltyp.
+Es werden zwei Dropdown-Listen angezeigt: Autorisierungstyp und Source-Typ.
 
 ![](assets/5.png)
 
-Wenn Sie als Autorisierungstyp &quot;Einverständnis&quot;wählen, sind zwei erforderliche Felder erforderlich: &quot;Datum der Zustimmung&quot;und &quot;Zweck der Verarbeitung&quot;werden angezeigt. Diese beiden Felder können nicht auf andere Optionen angewendet werden.
+Wenn Sie als Autorisierungstyp &quot;Einverständnis&quot;wählen, werden zwei erforderliche Felder angezeigt: &quot;Datum der Zustimmung&quot;und &quot;Zweck der Verarbeitung&quot;. Diese beiden Felder können nicht auf andere Optionen angewendet werden.
 
 ![](assets/6.png)
 
-Wenn &quot;Sonstige&quot;für den Autorisierungstyp oder den Quelltyp ausgewählt ist, können Sie Text eingeben, um den Quelltyp zu beschreiben.
+Wenn &quot;Sonstige&quot;für den Autorisierungstyp oder den Source-Typ ausgewählt ist, können Sie Text zur Beschreibung des Source-Typs eingeben.
 
 ![](assets/7.png)
 
-Mit Massenaktionen** Marketo Sales Connect können auch die Autorisierung und Quelltypen eines Kontakts stapelweise aktualisiert werden, wodurch wertvolle Zeit im Compliance-Prozess eingespart wird.
+Mit Massenaktionen** Marketo Sales Connect können auch die Autorisierung und Source-Typen eines Kontakts stapelweise aktualisiert werden, wodurch wertvolle Zeit im Compliance-Prozess eingespart wird.
 
-Wenn Sie einen oder mehrere Kontakte aus der Seite Personen auswählen, werden die Schaltflächen Autorisierung und Quelle im oberen Container angezeigt. Mithilfe dieser Schaltflächen können Sie die Autorisierung oder Quelle mehrerer Kontakte gleichzeitig festlegen.
+Wenn Sie auf der Seite Personen einen oder mehrere Kontakte auswählen, werden die Schaltflächen Autorisierung und Source im oberen Container angezeigt. Mithilfe dieser Schaltflächen können Sie die Autorisierung oder Source mehrerer Kontakte gleichzeitig festlegen.
 
 ![](assets/eight.jpg)
 
@@ -112,11 +112,11 @@ Nachdem der Autorisierungstyp aktualisiert wurde, erhalten Sie ein Bestätigungs
 
 ![](assets/10.png)
 
-Ebenso kann der Quelltyp durch Klicken auf das Modal Quelle stapelweise aktualisiert werden.
+Ebenso kann der Source-Typ durch Klicken auf das Source-Modal stapelweise aktualisiert werden.
 
 ![](assets/11.png)
 
-Nach Auswahl des richtigen Quelltyps für die ausgewählten Kontakte wird ein Bestätigungsfenster angezeigt, in dem die erfolgreiche Aktualisierung bestätigt wird.
+Nach Auswahl des für Ihre Kontakte passenden Source-Typs wird ein Bestätigungsfenster angezeigt, in dem Sie die erfolgreiche Aktualisierung bestätigen können.
 
 ![](assets/12.png)
 
@@ -143,13 +143,13 @@ Sie können Kontaktinformationen aus der Personendetailansicht exportieren. Beim
   </tr> 
   <tr> 
    <td>Unternehmen</td> 
-   <td>Aktualisiert am</td> 
+   <td>Aktualisiert um</td> 
    <td>LinkedIn</td> 
   </tr> 
   <tr> 
    <td>Titel</td> 
-   <td>Erstellt am</td> 
-   <td>Exportzeitpunkt</td> 
+   <td>Erstellt um</td> 
+   <td>Exportiert nach</td> 
   </tr> 
   <tr> 
    <td>E-Mail-ID</td> 
@@ -168,7 +168,7 @@ Sie können Kontaktinformationen aus der Personendetailansicht exportieren. Beim
 >
 >Dies kann jeweils nur einmal erfolgen. Es gibt derzeit keine Funktion, die den Massenexport von Kontakten ermöglicht.
 
-Um Kontaktinformationen zu exportieren, klicken Sie auf die drei vertikalen Punkte in der Kopfzeile der Personendetailansicht und wählen Sie **Export**. Die .CSV-Datei wird automatisch heruntergeladen.
+Um Kontaktinformationen zu exportieren, klicken Sie auf die drei vertikalen Punkte in der Kopfzeile der Personendetailansicht und wählen Sie **Exportieren** aus. Die .CSV-Datei wird automatisch heruntergeladen.
 
 ![](assets/thirteen.png)
 
@@ -180,13 +180,13 @@ Um Kontaktinformationen zu exportieren, klicken Sie auf die drei vertikalen Punk
 
 Ein häufig missverständlicher Bereich der DSGVO umfasst Kontakte, die sich von der Datenbank der Organisation abmelden. Um die neuen Regeln zum Schutz der Daten derjenigen einzuhalten, die sich abmelden, wurde die folgende Funktion in Marketo Sales Connect hinzugefügt:
 
-**Abmelde-Links:** Abmelde-Links werden automatisch an alle E-Mails angehängt, die von der Sales Connect-Webanwendung gesendet werden. Dadurch wird sichergestellt, dass Kontakte die Möglichkeit erhalten, sich abzumelden.\
-**Abmeldesynchronisierung:** Benutzer können Abmeldungen von und aus ihrem CRM (Salesforce) synchronisieren, um sicherzustellen, dass Opt-outs aktuell sind.\
-**Abmeldeverlauf:** Benutzer können historische Opt-outs und Opt-ins in der Personendetailansicht sehen.\
-**Entfernung der Abmeldung:** Wenn ein abgemeldeter Kontakt wieder aktiviert werden soll, muss der Benutzer über Administratorberechtigungen verfügen und nachweisen können, dass der Kontakt neue Einwilligung zur Kontaktaufnahme gegeben hat.
+**Abmelde-Links:** Abmelde-Links werden automatisch an alle E-Mails angehängt, die von der Sales Connect-Webanwendung gesendet werden. So können Sie sicherstellen, dass Kontakte eine Möglichkeit zum Abmelden erhalten.\
+**Synchronisierung der Abmeldung:** Benutzer können Abmeldungen von und von ihrem CRM-System (Salesforce) synchronisieren, um sicherzustellen, dass Opt-outs aktuell sind.\
+**Abmeldeverlauf:** Benutzer können historische Opt-outs und Opt-ins in der Detailansicht der Person sehen.\
+**Entfernen des Abonnements:** Wenn ein abgemeldeter Kontakt wieder aktiviert wird, muss der Benutzer über Administratorrechte verfügen und nachweisen, dass der Kontakt neue Einwilligung zur Kontaktaufnahme gegeben hat.
 
 ## Zukünftige Updates {#future-updates}
 
 Als begeisterter Verfechter der Macht und Kundenorientierung der Interaktionswirtschaft versteht Marketo, wie wichtig es ist, die Privatsphäre und den Datenschutz in die Hände der betroffenen Person zu legen. Wie bei anderen Datenschutzgesetzen erfordert die Einhaltung der DSGVO das Engagement von Marketo und unseren Kunden. Dieser Artikel soll Ihnen dabei helfen, Marketo auf geeignete Weise zu verwenden, um die DSGVO Ihres Unternehmens einzuhalten.
 
-Wir werden die geltenden DSGVO-Leitlinien der Regulierungsbehörden und der damit zusammenhängenden Rechtsvorschriften weiterhin genau verfolgen. Aktualisierungen werden in unserem Trust Center unter folgender Adresse veröffentlicht: [trust.marketo.com](https://trust.marketo.com).
+Wir werden die geltenden DSGVO-Leitlinien der Regulierungsbehörden und der damit zusammenhängenden Rechtsvorschriften weiterhin genau verfolgen. Aktualisierungen werden in unserem Vertrauenszentrum unter [trust.marketo.com](https://trust.marketo.com) veröffentlicht.

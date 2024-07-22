@@ -31,7 +31,7 @@ Die grundlegende Übereinstimmung verwendet nur E-Mail-Adressen, aber die neue e
 
 Diese API bietet eine schnellere Schnittstelle zur Synchronisierung benutzerdefinierter Objekte mit Marketo. Sie können CSV-, TSV- oder SSV-Tabellenkalkulationsdateien als benutzerdefinierte Objekte in Marketo importieren.
 
-## [Export von Web-Personalisierungskampagnen](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/export-web-campaign-data.md) {#web-personalization-campaigns-export}
+## [Export von Web-Personalization-Kampagnen](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/export-web-campaign-data.md) {#web-personalization-campaigns-export}
 
 Exportieren Sie alle Details und Analysen Ihrer Web-Kampagne in ein CSV-Format. Anschließend können Sie Ihre Daten in einem bequemen Layout anzeigen.
 
@@ -39,7 +39,7 @@ Exportieren Sie alle Details und Analysen Ihrer Web-Kampagne in ein CSV-Format. 
 
 ## Lokalisierung {#localization}
 
-Die Apps Web Personalization, Predictive Content und Email Insights sind jetzt auf Japanisch, Deutsch und Spanisch verfügbar. You [Sprache und Gebietsschema auswählen](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) um Ihre Inhalte in diesen Sprachen anzuzeigen.
+Die Web Personalization-, Predictive Content- und Email Insights-Apps sind jetzt auf Japanisch, Deutsch und Spanisch verfügbar. Sie [wählen Ihre Sprache und Ihr Gebietsschema](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) aus, um Ihren Inhalt in diesen Sprachen anzuzeigen.
 
 ![](assets/japanese-web-personalization.png)
 
@@ -59,13 +59,13 @@ Verwenden Sie &quot;Benanntes Konto&quot;oder &quot;Kontoliste&quot;als Dimensio
 
 ## Verbesserungen bei prädiktiven Inhalten {#predictive-content-enhancements}
 
-**[Filtern nach aktivierter Quelle](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
+**[Filtern nach aktiviertem Source](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
 
 Filtern Sie prädiktive Inhalte, die für E-Mail, Rich Media oder die Empfehlungsleiste aktiviert sind.
 
 ![](assets/predictive-content-enabled-source.png)
 
-**[Analytics nach Quelle filtern](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
+**[Analytics nach Source filtern](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
 
 Filtern Sie prädiktive Inhaltsanalysen nach bestimmten Quellen - E-Mail, Rich-Media oder Empfehlungsleiste.
 
@@ -85,7 +85,7 @@ Bild-URL und Metadaten werden jetzt im Prozess der automatischen Inhaltserkennun
 
 Entwickler haben jetzt zusätzliche Möglichkeiten, die Bereitstellung von Push-Benachrichtigungen zu steuern. Dazu wurde ein neuer SDK-API-Aufruf hinzugefügt, mit dem Entwickler Push-Token entfernen können.
 
-## [Integration von Vibes SMS LaunchPoint](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md) {#vibes-sms-launchpoint-integration}
+## [Überprüft die Integration von SMS LaunchPoint](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md) {#vibes-sms-launchpoint-integration}
 
 Verbessern Sie Ihre Zielgruppenbestimmung mit der neuen Filteroption &quot;Mitglied der Vibes-Liste&quot;.
 

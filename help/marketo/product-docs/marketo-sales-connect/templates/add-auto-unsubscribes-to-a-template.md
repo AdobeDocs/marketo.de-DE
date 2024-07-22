@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Automatische Abmeldung zu einer Vorlage hinzufügen {#add-auto-unsubscribes-to-a-template}
 
-1. Wählen Sie Ihre Vorlage aus und klicken Sie auf **Bearbeiten** im Abschnitt Abonnement kündigen .
+1. Wählen Sie Ihre Vorlage aus und klicken Sie im Bereich Abmeldung auf **Bearbeiten** .
 
 1. Wählen Sie aus, ob Sie die automatische Abmeldung anhängen, die automatische Blockierung abmelden oder beides.
 
@@ -21,4 +21,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Sie können auch anpassen, wie diese Abmelde-Nachrichten im **Zeitzone und Abmeldung** Registerkarte in **Einstellungen**.
+>Sie können auch anpassen, wie diese Abmelde-Nachrichten auf der Registerkarte **Zeitzone &amp; Abmeldungen** in den **Einstellungen** angezeigt werden.

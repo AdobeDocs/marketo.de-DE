@@ -23,7 +23,7 @@ Sie können Antworten von Ihren Leads direkt in Outlook mit dem Marketo E-Mail-A
 
 >[!TIP]
 >
->Sie können auch mit der rechten Maustaste auf eine Nachricht klicken und **Mit Marketo anmelden**.
+>Sie können auch mit der rechten Maustaste auf eine Nachricht klicken und auf **Mit Marketo protokollieren** klicken.
 
 Sie sollten eine Bestätigung sehen.
 
@@ -43,5 +43,5 @@ Protokollieren Sie die Antworten Ihres Leads, um sie zum Verlauf in Marketo hinz
 
 >[!MORELIKETHIS]
 >
->* [Senden und Verfolgen einer E-Mail mit dem Marketo E-Mail-Add-in für Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
->* [Senden und Verfolgen aus Outlook mit einer Marketo-Vorlage](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
+>* [Senden und Verfolgen einer E-Mail mit dem Marketo-E-Mail-Add-in für Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
+>* [Versand und Tracking aus Outlook mit einer Marketo-Vorlage](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)

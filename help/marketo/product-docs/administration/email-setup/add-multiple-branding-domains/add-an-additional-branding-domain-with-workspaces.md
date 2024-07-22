@@ -7,7 +7,7 @@ feature: Email Setup
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '131'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
 
@@ -17,23 +17,23 @@ Wenn Sie über Arbeitsbereiche verfügen, können Sie zusätzliche Branding-Dom�
 
 >[!PREREQUISITES]
 >
->Sie müssen [Ihre standardmäßige Branding-Domäne bearbeiten](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md) zuerst.
+>Sie müssen zuerst [Ihre standardmäßige Branding-Domäne](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md) bearbeiten.
 >
->Du musst zuerst [den generischen Tracking-Link ersetzen](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain-with-workspaces.md) durch eine Branding-Domäne, bevor zusätzliche Branding-Domänen hinzugefügt werden.
+>Sie müssen zuerst [den generischen Tracking-Link](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain-with-workspaces.md) durch eine Branding-Domäne ersetzen, bevor Sie zusätzliche Branding-Domänen hinzufügen.
 
-1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
+1. Wechseln Sie zum Bereich **[!UICONTROL Admin]** .
 
    ![](assets/add-an-additional-branding-domain-with-workspaces-1.png)
 
-1. Klicks **[!UICONTROL Email]**.
+1. Klicken Sie auf **[!UICONTROL E-Mail]**.
 
    ![](assets/add-an-additional-branding-domain-with-workspaces-2.png)
 
-1. Klicks **[!UICONTROL Hinzufügen]** , um eine zusätzliche Branding-Domäne hinzuzufügen.
+1. Klicken Sie auf **[!UICONTROL Hinzufügen]** , um eine zusätzliche Branding-Domäne hinzuzufügen.
 
    ![](assets/add-an-additional-branding-domain-with-workspaces-3.png)
 
-1. Geben Sie eine neue Branding-Domäne ein. Klicks **[!UICONTROL Nächste]**.
+1. Geben Sie eine neue Branding-Domäne ein. Klicken Sie auf **[!UICONTROL Weiter]**.
 
    ![](assets/add-an-additional-branding-domain-with-workspaces-4.png)
 

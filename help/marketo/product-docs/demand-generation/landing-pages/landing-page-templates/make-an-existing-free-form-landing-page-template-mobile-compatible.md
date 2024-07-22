@@ -17,27 +17,27 @@ Dies kann an zwei Stellen erfolgen: im Vorlagen-Editor und im Landingpage-Editor
 
 ## Aktualisierung vom Vorlagen-Editor {#upgrade-from-the-template-editor}
 
-1. Navigieren Sie zu **Design Studio**.
+1. Wechseln Sie zu **Design Studio**.
 
    ![](assets/designstudio-1.png)
 
-1. Auswählen **Vorlagen**.
+1. Wählen Sie **Vorlagen** aus.
 
    ![](assets/image2015-1-22-20-3a20-3a2.png)
 
-1. Wählen Sie eine Vorlage aus, in der **Kompatibel mit Mobilgeräten** is **Nein**.
+1. Wählen Sie eine Vorlage aus, bei der **Mobile kompatibel** **Nein** ist.
 
    ![](assets/image2015-1-22-20-3a22-3a24.png)
 
-1. Klicks **Entwurf bearbeiten**.
+1. Klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/image2015-1-22-20-3a25-3a36.png)
 
-1. Klicks **Kompatibel mit Mobilgeräten**.
+1. Klicken Sie auf **Kompatibel mit Mobilgeräten gestalten**.
 
    ![](assets/image2015-1-22-20-3a30-3a33.png)
 
-1. Klicks **Upgrade**.
+1. Klicken Sie auf **Upgrade**.
 
    ![](assets/image2015-1-22-20-3a32-3a45.png)
 
@@ -69,11 +69,11 @@ Wenn Sie Änderungen an der Vorlage vornehmen, klicken Sie auf Vorlagenaktionen 
 
 Wenn Sie eine Landingpage bearbeiten und auf die Registerkarte &quot;Mobil&quot;klicken, werden Sie manchmal feststellen, dass die Vorlage nicht aktualisiert wurde. Keine Angst! Sie können es direkt dort aktualisieren.
 
-1. Klicken Sie auf **Mobilnummer** Registerkarte.
+1. Klicken Sie auf die Registerkarte **Mobil**.
 
    ![](assets/image2015-1-22-20-3a48-3a19.png)
 
-1. Klicken Sie auf das Kontrollkästchen und klicken Sie auf **Aktivieren**.
+1. Klicken Sie auf das Kontrollkästchen und dann auf **Aktivieren**.
 
    ![](assets/image2015-1-22-20-3a49-3a34.png)
 
@@ -81,4 +81,4 @@ Wenn Sie eine Landingpage bearbeiten und auf die Registerkarte &quot;Mobil&quot;
    >
    >Durch die Aktivierung der mobilen Version einer Vorlage werden Entwürfe von Landingpages erstellt, die diese verwenden.
 
-Fantastisch Sie können jetzt [Mobile-Ansicht anpassen](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) aller Landingpages, die diese Vorlage verwenden.
+Fantastisch! Sie können jetzt [die Mobile-Ansicht](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) aller Landingpages anpassen, die diese Vorlage verwenden.

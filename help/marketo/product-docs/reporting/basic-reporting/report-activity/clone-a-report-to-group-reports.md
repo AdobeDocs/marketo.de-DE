@@ -15,26 +15,26 @@ ht-degree: 0%
 
 Alle Berichte in &quot;Meine Berichte&quot;sind nur für Sie sichtbar. Was ist, wenn Sie den Bericht allen anderen zugänglich machen möchten? So können Sie das machen:
 
-1. Im **Analytics** Bereich, klicken Sie auf die gewünschte [gespeicherter Bericht](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/save-a-report.md).
+1. Klicken Sie im Bereich **Analytics** auf den gewünschten [gespeicherten Bericht](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/save-a-report.md).
 
    ![](assets/image2015-4-21-11-3a25-3a54.png)
 
    >[!NOTE]
    >
-   >Alternativ kann ein gespeicherter Bericht in **Gruppenberichte** durch Ziehen des Berichts in den Ordner.
+   >Alternativ kann ein gespeicherter Bericht in **Gruppenberichte** geklont werden, indem der Bericht in den Ordner gezogen wird.
 
-1. Klicken **Berichtaktionen** und wählen Sie **Bericht klonen**.
+1. Klicken Sie auf **Berichtaktionen** und wählen Sie **Bericht klonen** aus.
 
    ![](assets/image2015-4-21-11-3a29-3a32.png)
 
-1. Klicken Sie auf **Klonen zu** und wählen Sie Ihre Gruppe aus. Wählen Sie die **Ordner**.
+1. Klicken Sie auf das Dropdown-Menü **Klonen zu** und wählen Sie Ihre Gruppe aus. Wählen Sie den Ordner **Ordner** aus.
 
    ![](assets/image2015-4-21-11-3a32-3a0.png)
 
-1. **Name** den Bericht und klicken Sie auf **Klonen**.
+1. **Nennen** Sie den Bericht und klicken Sie auf **Klonen**.
 
    ![](assets/image2015-4-21-11-3a33-3a11.png)
 
-   Cool! Ihr Bericht wird jetzt in **Gruppenberichte**.
+   Cool! Ihr Bericht wird jetzt in **Gruppenberichten** angezeigt.
 
    ![](assets/image2015-4-21-11-3a37-3a25.png)

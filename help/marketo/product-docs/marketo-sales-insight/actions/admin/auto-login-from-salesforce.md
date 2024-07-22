@@ -16,7 +16,7 @@ Die automatische Anmeldung ermöglicht Benutzern von Sales Insight Actions, sich
 
 So verwenden Sie die automatische Anmeldung:
 
-* [Anmeldeverwaltungseinstellungen](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md) muss auf &quot;Salesforce Only&quot;gesetzt sein
+* [Anmeldeverwaltungseinstellungen](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md) müssen auf &quot;Nur Salesforce&quot;festgelegt sein.
 
 * Der Benutzer muss eingeladen worden sein, Sales Insight-Aktionen zu verwenden
 

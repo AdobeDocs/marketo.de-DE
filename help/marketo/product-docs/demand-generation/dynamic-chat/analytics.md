@@ -14,7 +14,7 @@ ht-degree: 2%
 
 Während die Berichterstellung auf Dialogfeldebene verfügbar ist, überprüfen Sie die Gesamtinteraktion mit den drei unten stehenden Dashboards.
 
-Zugriff auf jedes Dashboard unter **Analytics** in der linken Navigationsleiste.
+Greifen Sie auf jedes Dashboard unter **Analytics** im linken Navigationsbereich zu.
 
 ![](assets/analytics-1.png)
 
@@ -55,13 +55,13 @@ Dialogfelder, Konversationsflüsse oder alles. Wählen Sie einen vordefinierten 
 <tbody>
   <tr>
     <td style="width:25%"><b>Abgeschlossen</b></td>
-    <td>Ein abgeschlossenes Ereignis tritt auf, wenn ein Besucher die letzte Aufforderung in einer Konversation erreicht <i>oder</i> wenn ein Besucher den gesamten Inhalt einer Konversation erschöpft.
+    <td>Ein abgeschlossenes Ereignis tritt auf, wenn ein Besucher die letzte Eingabeaufforderung in einer Konversation <i>oder </i> erreicht, wenn der gesamte Inhalt einer Konversation durch einen Besucher erschöpft ist.
     <br>Ein abgeschlossenes Ereignis pro Besucher und Sitzung.</td>
   </tr>
   <tr>
     <td style="width:25%"><b>Gewonnene Personen</b></td>
     <td>Tritt auf, wenn ein Besucher seine E-Mail-Adresse sendet.
-    <br>Eine Akquise pro Besucher, pro Sitzung.</td>
+    <br>Eine Akquise pro Besucher pro Sitzung.</td>
   </tr>
 </tbody>
 </table>

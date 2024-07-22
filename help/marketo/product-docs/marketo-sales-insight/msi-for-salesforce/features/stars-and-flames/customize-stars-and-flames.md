@@ -6,7 +6,7 @@ exl-id: f8936ee9-a976-45f7-84cc-c95e93bdddc8
 feature: Marketo Sales Insights
 source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Marketo Sales Insight verwendet Sterne und Flammen, um Leads zu priorisieren. Ma
 
 ![](assets/image2014-9-16-13-3a38-3a6.png)
 
-1. Unter dem **Lead-Scoring-Einstellungen** Abschnitt, klicken Sie auf **Bearbeiten**.
+1. Klicken Sie unter dem Abschnitt **Lead-Scoring-Einstellungen** auf **Bearbeiten**.
 
    ![](assets/image2014-9-16-13-3a38-3a17.png)
 
@@ -37,13 +37,13 @@ Marketo Sales Insight verwendet Sterne und Flammen, um Leads zu priorisieren. Ma
    >
    >**Definition**
    >
-   >**Dynamik** - Ist ein aus [relative Daten](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md). Fantastisches Zeug. Diese Methode wird empfohlen.
+   >**Dynamisch** - Ist ein Prozentwert, der aus [relativen Daten](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) abgeleitet wird. Fantastisches Zeug. Diese Methode wird empfohlen.
    >
-   >**Statisch** - Ermöglicht die Bestimmung der genauen Punktzahlen - keine Prozentsätze mehr, keine geheimen Saucen mehr.
+   >**Statisch** - Ermöglicht Ihnen die Definition exakter Punktzahlen - keine weiteren Prozentsätze, keine geheimen Saucen mehr.
 
    ![](assets/image2014-9-16-13-3a38-3a31.png)
 
-1. Bearbeiten Sie die prozentualen Klammern nach Ihren Vorstellungen und **Speichern**.
+1. Bearbeiten Sie die prozentualen Klammern nach Ihren Wünschen und **Speichern**.
 
    >[!TIP]
    >

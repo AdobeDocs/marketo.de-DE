@@ -19,7 +19,7 @@ Möglicherweise haben Sie beim Erstellen von Smart-Listen für Kampagnen die Opt
 
 >[!NOTE]
 >
->Das Ändern der Logik von Smart-List-Regeln gilt nur für Filter. _not_ Trigger.
+>Das Ändern der Logik von Smart-List-Regeln gilt nur für Filter, nicht für __ Trigger.
 
 Trigger werden immer als ODER ausgewertet, selbst wenn die obige Einstellung auf ALLE gesetzt ist. Im Folgenden finden Sie ein Beispiel:
 
@@ -38,7 +38,7 @@ Country is US
 THEN follow the campaign's flow step(s)
 ```
 
-Wenn also eine Person das Formular ausfüllt _oder_ besucht die Seite und die Kampagne bewertet diese Person anhand der _all_ oder _any_ der nachfolgenden Filter, je nach verwendeter Einstellung.
+Wenn also eine Person das Formular _oder_ ausfüllt, die Seite besucht, wird diese Person von der Kampagne anhand der verwendeten Einstellung anhand von _all_ oder _any_ der nachfolgenden Filter ausgewertet.
 
 >[!MORELIKETHIS]
 >

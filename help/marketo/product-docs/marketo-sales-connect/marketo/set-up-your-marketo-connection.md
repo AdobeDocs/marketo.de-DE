@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Wenn Sie MSC bereitstellen, sendet Marketo Ihre Anmeldeinformationen automatisch an Sales Connect und verbindet Ihre Instanz mit Marketo. Dieser Schritt ist erforderlich. **nur dann, wenn die Verbindung nicht hergestellt wurde** nachdem Ihre Sales Connect-Instanz bereitgestellt wurde. Wenn Ihre Verbindung hergestellt wurde, werden Ihre Anmeldedaten auf der Seite &quot;Marketo-Admin-Einstellungen&quot;angezeigt.
+>Wenn Sie MSC bereitstellen, sendet Marketo Ihre Anmeldeinformationen automatisch an Sales Connect und verbindet Ihre Instanz mit Marketo. Dieser Schritt ist nur dann erforderlich, wenn die Verbindung nicht hergestellt wird **, nachdem Ihre Sales Connect-Instanz bereitgestellt wurde.** Wenn Ihre Verbindung hergestellt wurde, werden Ihre Anmeldedaten auf der Seite &quot;Marketo-Admin-Einstellungen&quot;angezeigt.
 
 ## Erfassen von Anmeldeinformationen vor der Verbindung von Vertrieb und Verbindung mit Marketo {#acquiring-credentials-prior-to-connecting-sales-connect-with-marketo}
 
@@ -24,7 +24,7 @@ Sie müssen eine Reihe von Anmeldeinformationen aus Marketo erhalten. Diese Anme
 
    ![](assets/manually-set-up-your-marketo-connection-1.png)
 
-1. Klicken Sie in der Baumstruktur auf **Sales Connect**.
+1. Klicken Sie in der Struktur auf **Sales Connect**.
 
    ![](assets/manually-set-up-your-marketo-connection-2.png)
 
@@ -38,11 +38,11 @@ Sie müssen eine Reihe von Anmeldeinformationen aus Marketo erhalten. Diese Anme
 
 ## Verbinden von Sales Connect mit Marketo {#connect-sales-connect-to-marketo}
 
-1. Klicken Sie in Sales Connect auf das Zahnradsymbol und wählen Sie **Einstellungen**.
+1. Klicken Sie in Sales Connect auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
 
    ![](assets/manually-set-up-your-marketo-connection-4.png)
 
-1. Wählen Sie unter Admin Settings die Option **Marketo**.
+1. Wählen Sie unter &quot;Admin Settings&quot;den Eintrag **Marketo**.
 
    ![](assets/manually-set-up-your-marketo-connection-5.png)
 

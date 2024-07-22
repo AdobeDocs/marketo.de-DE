@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Konfigurieren von Opportunity Influenza Analyzer {#configure-an-opportunity-influence-analyzer}
 
-Einmal [Erstellen eines Opportunity Influenza Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md), können Sie die Typen [interessante Momente](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md) enthalten sind.
+Sobald Sie [einen Opportunity Influence Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md) erstellt haben, können Sie die Typen der darin enthaltenen [interessanten Momente](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md) konfigurieren.
 
 >[!PREREQUISITES]
 >
 >[Erstellen eines Opportunity Influenza Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
 
-1. Klicken **Analytics**.
+1. Klicken Sie auf **Analytics**.
 
    ![](assets/login-to-analytics.png)
 
@@ -27,7 +27,7 @@ Einmal [Erstellen eines Opportunity Influenza Analyzer](/help/marketo/product-do
 
    ![](assets/image2014-9-17-12-3a28-3a33.png)
 
-   Wenn es zu viele interessante Momente im Analyzer-Diagramm gibt, können Sie sie reduzieren, indem Sie die Auswahl von Personen im **Einstellungen** oder durch Reduzierung der Arten von interessanten Momenten.
+   Wenn im Analyzer-Diagramm zu viele interessante Momente vorhanden sind, können Sie diese reduzieren, indem Sie die Auswahl von Personen im Bedienfeld **Einstellungen** aufheben oder die Arten interessanter Momente reduzieren.
 
 1. Um zu konfigurieren, welche Arten von interessanten Momenten eingeschlossen werden sollen, gehen Sie zur Registerkarte Einrichtung und ziehen Sie in den Filter Interessante Momente .
 
@@ -41,7 +41,7 @@ Einmal [Erstellen eines Opportunity Influenza Analyzer](/help/marketo/product-do
 
    ![](assets/image2014-9-17-12-3a29-3a39.png)
 
-1. Klicken Sie auf jeden interessanten Moment, den Sie möchten. Klicken Sie anschließend auf **Speichern**.
+1. Klicken Sie auf jeden interessanten Moment, den Sie möchten. Klicken Sie dann auf **Speichern**.
 
 1. Klicken Sie auf den Haupttab, um die Geschichte der Gelegenheit mit den ausgewählten Arten von interessanten Momenten zu sehen.
 
@@ -49,4 +49,4 @@ Einmal [Erstellen eines Opportunity Influenza Analyzer](/help/marketo/product-do
 
 >[!MORELIKETHIS]
 >
->[Erzählen Sie die Marketing Story mit einem Opportunity Influenza Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
+>[Erzählen Sie der Marketing Story mit einer Chance, Einfluss auf Analyzer auszuüben](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)

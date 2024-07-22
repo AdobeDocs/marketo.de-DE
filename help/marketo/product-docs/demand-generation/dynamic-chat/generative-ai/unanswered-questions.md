@@ -18,11 +18,11 @@ Sehen Sie sich alle Fragen an, die der Chatbot nicht beantworten konnte und/oder
 >
 >Die Liste der unbeantworteten Fragen wird automatisch alle 24 Stunden um Mitternacht (PST) aktualisiert.
 
-1. Klicken Sie unter Generative KI auf **[!UICONTROL Unterstützte Antworten]**.
+1. Klicken Sie unter &quot;Generative KI&quot;auf **[!UICONTROL Assisted responses]**.
 
    ![](assets/unanswered-questions-1.png)
 
-1. Klicken Sie auf **[!UICONTROL Unbeantwortete Fragen]** Registerkarte.
+1. Klicken Sie auf die Registerkarte **[!UICONTROL Nicht beantwortete Fragen]** .
 
    ![](assets/unanswered-questions-2.png)
 

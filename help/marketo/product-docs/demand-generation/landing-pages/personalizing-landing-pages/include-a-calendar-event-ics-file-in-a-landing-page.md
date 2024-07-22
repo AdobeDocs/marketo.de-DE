@@ -7,23 +7,23 @@ feature: Landing Pages
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 # Kalenderereignis-ICS-Datei in eine Landingpage einschließen {#include-a-calendar-event-ics-file-in-a-landing-page}
 
-A **Kalenderdatei** Mit dem -Token können Sie einen Kalenderereignis-Link (.ics) zu Ihren Marketo-Landingpages hinzufügen.
+Mit dem Token **Kalenderdatei** können Sie einen Kalenderereignis-Link (.ics) zu Ihren Marketo-Landingpages hinzufügen.
 
 >[!PREREQUISITES]
 >
 >* [Erstellen einer Kalenderereignis-Datei (.ics)](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
 
-1. Klicken Sie in Ihrem Landingpage-Editor auf **{...}** , um ein Token einzufügen.
+1. Klicken Sie in Ihrem Landingpage-Editor auf **{..}** , um ein Token einzufügen.
 
    ![](assets/image2015-7-8-17-3a51-3a29.png)
 
-1. Wählen Sie die **Kalenderdatei** Token und klicken **Einfügen**.
+1. Wählen Sie das Token **Kalenderdatei** aus und klicken Sie auf **Einfügen**.
 
    >[!CAUTION]
    >
@@ -33,7 +33,7 @@ A **Kalenderdatei** Mit dem -Token können Sie einen Kalenderereignis-Link (.ics
 
    ![](assets/image2015-1-6-16-3a31-3a28.png)
 
-1. Klicks **Speichern**.
+1. Klicken Sie auf **Speichern**.
 
    Personen sehen eine Landingpage, die wie folgt aussieht:
 
@@ -43,4 +43,4 @@ Süß! Jetzt sollte alles gut funktionieren. Testen Sie unbedingt.
 
 >[!MORELIKETHIS]
 >
->[Kalenderereignisse (.ics) in eine E-Mail einschließen](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/include-a-calendar-event-ics-in-an-email.md)
+>[Kalenderereignis (.ics) in eine E-Mail einschließen](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/include-a-calendar-event-ics-in-an-email.md)

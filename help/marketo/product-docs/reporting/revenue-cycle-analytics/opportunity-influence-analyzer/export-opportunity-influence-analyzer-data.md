@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Um Aktualisierungen von Ihren Umsatz-Cycle-Explorer-Berichten zu erhalten und diese freizugeben, können Sie eine beliebige E-Mail-Adresse für einen vorhandenen Bericht abonnieren.
 
-1. Navigieren Sie zu **Analytics** und wählen Sie **Neu** > **Neue Berichtanmeldung**.
+1. Wechseln Sie zu **Analytics** und wählen Sie **Neu** > **Neue Berichtanmeldung** aus.
 
    ![](assets/image2014-9-17-12-3a40-3a46.png)
 
    >[!NOTE]
    >
-   >Informationen zum Abonnieren eines Basisberichts, den Sie in einem Programm erstellt haben, finden Sie unter [Abonnieren eines einfachen Berichts](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md).
+   >Informationen zum Abonnieren eines einfachen Berichts, den Sie in einem Programm erstellt haben, finden Sie unter [Einfachen Bericht abonnieren](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md) .
 
-1. Wählen Sie für Berichtsquelle **Umsatz-Explorer**.
+1. Wählen Sie für Report Source **Umsatz-Explorer** aus.
 
    ![](assets/image2014-9-17-12-3a42-3a15.png)
 
@@ -45,4 +45,4 @@ Um Aktualisierungen von Ihren Umsatz-Cycle-Explorer-Berichten zu erhalten und di
 
 >[!MORELIKETHIS]
 >
->Erfahren Sie, wie Sie [alle Berichtanmeldungen verwalten](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) an einem Ort.
+>Erfahren Sie, wie Sie [alle Ihre Berichtanmeldungen verwalten](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) an einem Ort.

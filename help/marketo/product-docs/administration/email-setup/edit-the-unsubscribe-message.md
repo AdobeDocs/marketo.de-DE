@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2360251
 description: Bearbeiten der Abmeldemeldung - Marketo Docs - Produktdokumentation
-title: Bearbeiten der Abmelde-Nachricht
+title: Nachricht abmelden bearbeiten
 exl-id: 68a3ebc1-b2c9-4e6c-bb13-e5a94c9596d2
 feature: Email Setup
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,21 +11,21 @@ ht-degree: 0%
 
 ---
 
-# Bearbeiten der Abmelde-Nachricht {#edit-the-unsubscribe-message}
+# Nachricht abmelden bearbeiten {#edit-the-unsubscribe-message}
 
 >[!NOTE]
 >
 >**Erforderliche Administratorberechtigungen**
 
-Wenn Sie Marketing-E-Mails (Nicht-Marketing-E-Mails) senden[operation](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)), werden der Text und die Links zum Abmelden am unteren Rand angehängt. Sie können die Standardeinstellungen ändern. So geht es.
+Wenn Sie Marketing-E-Mails senden (nicht-[operativ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)), werden der Text und die Links zum Abmelden am unteren Rand angehängt. Sie können die Standardeinstellungen ändern. So geht es.
 
 ## Wo kann ich die Bearbeitung vornehmen? {#where-to-make-the-edit}
 
-1. Navigieren Sie zu **[!UICONTROL Admin]** Abschnitt.
+1. Wechseln Sie zum Abschnitt **[!UICONTROL Admin]** .
 
    ![](assets/edit-the-unsubscribe-message-1.png)
 
-1. Klicken **[!UICONTROL Email]**.
+1. Klicken Sie auf **[!UICONTROL E-Mail]**.
 
    ![](assets/edit-the-unsubscribe-message-2.png)
 
@@ -36,15 +36,15 @@ Wenn Sie Marketing-E-Mails (Nicht-Marketing-E-Mails) senden[operation](/help/mar
    >* `%mkt_opt_out_prefix%`
    >* `mkt_unsubscribe=1&mkt_tok=##MKT_TOK##`
 
-1. Bearbeiten Sie die **[!UICONTROL HTML abmelden]** und **[!UICONTROL Text abmelden]** Versionen nach Ihren Wünschen und klicken Sie auf **[!UICONTROL Änderungen speichern]**.
+1. Bearbeiten Sie die Versionen **[!UICONTROL HTML abmelden]** und **[!UICONTROL Text abmelden]** und klicken Sie auf **[!UICONTROL Änderungen speichern]**.
 
    ![](assets/edit-the-unsubscribe-message-3.png)
 
-   Da hast du es. _Testen Sie unbedingt!_ Sie möchten nicht, dass Ihre Marketing-E-Mails fehlerhafte Abmelde-Links aufweisen.
+   Da hast du es. _Stellen Sie sicher, dass Sie testen!_ Sie möchten nicht, dass Ihre Marketing-E-Mails die Abmelde-Links beschädigt haben.
 
 >[!TIP]
 >
->Sie können die Position der Abmelde-HTML in Ihrer E-Mail anpassen, indem Sie [Token](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md).
+>Sie können die Position der HTML zum Abmelden in Ihrer E-Mail mithilfe von [Token](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md) anpassen.
 
 ## Standardtext für Abmeldung {#default-unsubscribe-text}
 
@@ -56,4 +56,4 @@ Wenn Sie jemals zur standardmäßigen Systemabmeldung zurückkehren müssen, kop
 
 >[!MORELIKETHIS]
 >
->[Bearbeiten Sie die Meldung &quot;Als Webseite anzeigen&quot;.](/help/marketo/product-docs/administration/email-setup/edit-the-view-as-web-page-message.md)
+>[Bearbeiten Sie die Meldung &quot;Als Webseite anzeigen&quot;](/help/marketo/product-docs/administration/email-setup/edit-the-view-as-web-page-message.md)

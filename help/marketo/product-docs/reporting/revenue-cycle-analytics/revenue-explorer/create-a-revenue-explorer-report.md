@@ -21,13 +21,13 @@ Mit dem Bericht &quot;Umsatz Explorer&quot;können Sie den ROI Ihrer Marketingin
 
 >[!IMPORTANT]
 >
->Der Ordner &quot;Papierkorb&quot;im Umsatz-Cycle-Explorer wurde aufgrund eines technischen Problems vorübergehend ausgeblendet. Wir arbeiten derzeit an einer Fehlerbehebung und Ihre Dateien sind sicher. Bitte kontaktieren Sie [Adobe-Unterstützung](https://nation.marketo.com/t5/support/ct-p/Support) wenn Dateien vorhanden sind, die Sie wiederherstellen müssen.
+>Der Ordner &quot;Papierkorb&quot;im Umsatz-Cycle-Explorer wurde aufgrund eines technischen Problems vorübergehend ausgeblendet. Wir arbeiten derzeit an einer Fehlerbehebung und Ihre Dateien sind sicher. Wenden Sie sich an den [Adobe-Support](https://nation.marketo.com/t5/support/ct-p/Support) , wenn Dateien wiederhergestellt werden müssen.
 
-1. Navigieren Sie zu **Umsatz-Explorer** Bereich.
+1. Wechseln Sie zum Bereich **Umsatz-Explorer** .
 
    ![](assets/image2015-3-24-13-3a24-3a56.png)
 
-1. Klicken Sie auf **Neu erstellen** und wählen Sie **Bericht**.
+1. Klicken Sie auf **Neu erstellen** und wählen Sie dann **Bericht** aus.
 
    ![](assets/image2015-3-24-13-3a20-3a40.png)
 

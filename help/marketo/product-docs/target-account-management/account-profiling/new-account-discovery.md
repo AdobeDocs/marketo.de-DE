@@ -6,7 +6,7 @@ exl-id: 0d07cd0d-abf6-4daf-b818-21b91919bd9d
 feature: Target Account Management
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
@@ -17,21 +17,21 @@ Mit der neuen Kontoerkennung können Sie mithilfe von KI-gestützten Empfehlunge
 
 >[!PREREQUISITES]
 >
->[Kontoprofil einrichten](/help/marketo/product-docs/target-account-management/account-profiling/setting-up-account-profiling.md)
+>[Einrichten der Kontoprofilerstellung](/help/marketo/product-docs/target-account-management/account-profiling/setting-up-account-profiling.md)
 
 >[!TIP]
 >
->Es wird empfohlen, die **Vorhandene Konten aktualisieren** vor der Durchführung einer neuen Kontosuche, um sicherzustellen, dass Sie die neuesten Daten betrachten. Diese Aktualisierung kann bis zu 24 Stunden dauern.
+>Es wird empfohlen, die Schaltfläche **Vorhandene Konten aktualisieren** zu betätigen, bevor Sie eine neue Kontosuche durchführen, um sicherzustellen, dass Sie sich die neuesten Daten ansehen. Diese Aktualisierung kann bis zu 24 Stunden dauern.
 
-1. Klicken Sie in My Marketo auf **Verwaltung von Target-Konten**.
+1. Klicken Sie in My Marketo auf **Target Account Management**.
 
    ![](assets/new-account-discovery-1.png)
 
-1. Klicken Sie auf **Kontoprofil** Registerkarte.
+1. Klicken Sie auf die Registerkarte **Kontoprofil erstellen** .
 
    ![](assets/two-2.png)
 
-1. Klicken Sie auf **Neue Konten** Registerkarte.
+1. Klicken Sie auf die Registerkarte **Neue Konten**.
 
    ![](assets/three-1.png)
 
@@ -43,13 +43,13 @@ Mit der neuen Kontoerkennung können Sie mithilfe von KI-gestützten Empfehlunge
 
    ![](assets/four-1.png)
 
-1. Klicks **Alle speichern und Liste erstellen** unten rechts auf der Seite.
+1. Klicken Sie unten rechts auf der Seite auf **Alle speichern und Liste erstellen** .
 
    ![](assets/five-1.png)
 
    >[!NOTE]
    >
-   >Wenn Sie nur einige der gewünschten Konten sehen, können Sie auf einzelne Konten klicken und auf **Ausgewählte Konten speichern** wann geschehen.
+   >Wenn Sie nur einige der gewünschten Konten sehen, können Sie nach Abschluss auf einzelne Konten klicken und auf **Ausgewählte Konten speichern** klicken.
 
 1. Sie können Ihre Liste zu einer eigenen neuen Kontoliste machen oder sie zu einer vorhandenen hinzufügen. In diesem Beispiel erstellen wir ein neues.
 
@@ -57,20 +57,20 @@ Mit der neuen Kontoerkennung können Sie mithilfe von KI-gestützten Empfehlunge
 
    >[!NOTE]
    >
-   >Um es in einer vorhandenen Kontoliste zu speichern, wählen Sie diese Option aus, klicken Sie auf das Dropdown-Menü und wählen Sie die gewünschte Kontoliste aus. Klicken Sie dann auf **Nächste**.
+   >Um es in einer vorhandenen Kontoliste zu speichern, wählen Sie diese Option aus, klicken Sie auf das Dropdown-Menü, wählen Sie die gewünschte Kontoliste aus und klicken Sie auf **Weiter**.
 
-1. Klicks **Speichern**.
+1. Klicken Sie auf **Speichern**.
 
    ![](assets/seven-1.png)
 
    >[!NOTE]
    >
-   >Sie können bis zu 5.000 Konten gleichzeitig speichern. Wenn Ihre Suche 10.000 Ergebnisse liefert, müssen Sie die ersten 5.000 (Top) speichern, dann die Filter zurücksetzen und die nächsten 5.000 speichern. Die **total** Kontobegrenzung beträgt eine Million.
+   >Sie können bis zu 5.000 Konten gleichzeitig speichern. Wenn Ihre Suche 10.000 Ergebnisse liefert, müssen Sie die ersten 5.000 (Top) speichern, dann die Filter zurücksetzen und die nächsten 5.000 speichern. Die Kontobegrenzung für **total** beträgt eine Million.
 
-1. Klicks **OK**.
+1. Klicken Sie auf **OK**.
 
    ![](assets/eight.png)
 
    >[!TIP]
    >
-   >Nachdem Sie Ihre Konten gespeichert haben, können Sie eine [übereinstimmende Zielgruppe in LinkedIn](/help/marketo/product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md) , um sie als Zielgruppe festzulegen.
+   >Nachdem Sie Ihre Konten gespeichert haben, können Sie eine mit [ übereinstimmende Zielgruppe auf LinkedIn](/help/marketo/product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md) verwenden, um sie als Ziel festzulegen.

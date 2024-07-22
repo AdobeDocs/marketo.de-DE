@@ -6,24 +6,24 @@ exl-id: 963529fb-1b30-486c-b97d-3ff697f91258
 feature: Predictive Content
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '367'
 ht-degree: 2%
 
 ---
 
 # Inhaltsmutter erstellen {#create-content-patterns}
 
-Wenn Sie Inhaltsmuster festlegen, werden Inhalte automatisch erkannt, wenn ein Webbesucher auf die für das Inhaltsmuster relevante HTML-Web-Seite klickt. Sie wird verwendet, um HTML-Seiten (Blog-Beiträge, Pressemitteilungen, News-Artikel) als Inhaltselemente zur Seite &quot;Alle Inhalte&quot;hinzuzufügen. Wenn die automatische Erkennung auf Inhaltsmustern basiert, erkennt und verfolgt sie HTML-Seiten, die mit dem definierten URL-Muster in Zusammenhang stehen, wenn ein Webbesucher einen Link zur Seite anzeigt oder darauf klickt. Dieses Inhaltselement (URL, Seitenname und Metadaten, einschließlich Bild-URL und Beschreibung) wird der Seite &quot;Alle Inhalte&quot;hinzugefügt, um prädiktive Inhalte vorzubereiten. Für die automatische Erkennung anderer Inhalte wie PDF und eingebettetes Video müssen Sie [Aktivierung der Inhaltserkennung](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md).
+Wenn Sie Inhaltsmuster festlegen, werden Inhalte automatisch erkannt, wenn ein Webbesucher auf die für das Inhaltsmuster relevante HTML-Web-Seite klickt. Sie wird verwendet, um HTML-Seiten (Blog-Beiträge, Pressemitteilungen, News-Artikel) als Inhaltselemente zur Seite &quot;Alle Inhalte&quot;hinzuzufügen. Wenn die automatische Erkennung auf Inhaltsmustern basiert, erkennt und verfolgt sie HTML-Seiten, die mit dem definierten URL-Muster in Zusammenhang stehen, wenn ein Webbesucher einen Link zur Seite anzeigt oder darauf klickt. Dieses Inhaltselement (URL, Seitenname und Metadaten, einschließlich Bild-URL und Beschreibung) wird der Seite &quot;Alle Inhalte&quot;hinzugefügt, um prädiktive Inhalte vorzubereiten. Für die automatische Erkennung anderer Inhalte wie PDF und eingebettetes Video müssen Sie [die Inhaltserkennung aktivieren](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md).
 
 1. Navigieren Sie zu **Inhaltseinstellungen**.
 
    ![](assets/settings-dropdown-hand-2.png)
 
-1. Klicks **URL-Muster**.
+1. Klicken Sie auf **URL-Muster**.
 
    ![](assets/click-url-patterns-hand.png)
 
-1. Klicken Sie auf **+** um eine Zeile zu öffnen, in die Sie Ihre Informationen eingeben können.
+1. Klicken Sie auf **+** , um eine Zeile zu öffnen, in der Sie Ihre Informationen eingeben können.
 
    ![](assets/content-settings-create-patterns-hand.png)
 
@@ -33,9 +33,9 @@ Wenn Sie Inhaltsmuster festlegen, werden Inhalte automatisch erkannt, wenn ein W
 
    >[!NOTE]
    >
-   >Elemente in der Dropdown-Liste auf der rechten Seite spiegeln die Kategorien wider, die Sie bei der Einrichtung eingerichtet haben [erstellte Kategorien](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md).
+   >Elemente in der Dropdown-Liste auf der rechten Seite spiegeln die Kategorien wider, die Sie bei der [Erstellung der Kategorien](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md) eingerichtet haben.
 
-1. Klicks **+** , um einen weiteren Pfad hinzuzufügen.
+1. Klicken Sie auf **+** , um einen weiteren Pfad hinzuzufügen.
 
    ![](assets/url-patterns-add2.png)
 
@@ -45,9 +45,9 @@ Wenn Sie Inhaltsmuster festlegen, werden Inhalte automatisch erkannt, wenn ein W
 
 ## Inhaltsmuster-Regeln {#content-pattern-rules}
 
-* Sie können einen Platzhalter an einer beliebigen Stelle in einem Ausdruck verwenden (Beispiel: _domain.com/&#42;_, _domain.com/&#42;Blog&#42;_)
+* Sie können einen Platzhalter überall in einem Ausdruck verwenden (Beispiel: _domain.com/&#42;_, _domain.com/&#42;blog&#42;_)
 
-* Wir empfehlen die Verwendung von /&#42; am Ende eines Ausdrucks, um die Mustererkennung fortzusetzen (Beispiel: _domain.com/blog/&#42;_ erkennt alle Beiträge im Ordner &quot;Blog&quot;)
+* Es wird empfohlen, /&#42; am Ende eines Ausdrucks zu verwenden, um die Mustererkennung fortzusetzen (Beispiel: _domain.com/blog/&#42;_ findet alle Beiträge im Blog-Ordner).
 * Bei Inhaltsmustern wird nicht zwischen Groß- und Kleinschreibung unterschieden (Beispiel: _domain.com/Blog/&#42;_ erkennt alle HTML-Seiten auf _domain.com/Blog_ und _domain.com/blog_)
 
 * URL-Parameter werden nicht erkannt (dies verhindert, dass mehrere Elemente mit derselben Inhalts-URL, aber verschiedenen Parametern gefunden werden)
@@ -63,7 +63,7 @@ Für _domain.com_:
    <th>Ergebnis</th> 
   </tr> 
   <tr> 
-   <td>Blog/*</td> 
+   <td>blog/*</td> 
    <td><p>Ermittelt alle Inhalte, die dem Muster domain.com/blog/ entsprechen:</p><p>domain.com/blog/5-top-tricks</p><p>domain.com/blog/2017/new-year-solutions</p><p>domain.com/Blog/3-best-recipes</p></td> 
   </tr> 
   <tr> 

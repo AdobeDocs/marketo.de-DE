@@ -6,7 +6,7 @@ exl-id: 6973ccdd-6ae1-4051-ab7e-ff7da40baf97
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ Wenn Sie eine E-Mail erstellen, möchten Sie möglicherweise, dass deren Textver
 
 >[!NOTE]
 >
->Dies ist kein Artikel zum Erstellen einer reinen Text-E-Mail. Weitere Informationen hierzu finden Sie unter [Erstellen einer Nur-Text-E-Mail](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md).
+>Dies ist kein Artikel zum Erstellen einer reinen Text-E-Mail. Weitere Informationen dazu finden Sie unter [Erstellen einer reinen Text-E-Mail](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md).
 
-1. Klicken Sie im E-Mail-Editor auf die **Text** unten in der E-Mail angezeigt.
+1. Klicken Sie im E-Mail-Editor auf den Tab **Text** am unteren Rand der E-Mail.
 
    ![](assets/one-5.png)
 
-1. Deaktivieren **Automatisch aus HTML kopieren** , um Änderungen vorzunehmen.
+1. Deaktivieren Sie **Automatisch von HTML** kopieren , um Änderungen vorzunehmen.
 
    ![](assets/two-5.png)
 

@@ -5,7 +5,7 @@ exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
 feature: Microsoft Dynamics
 source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '266'
 ht-degree: 0%
 
 ---
@@ -65,24 +65,24 @@ Gehen Sie wie folgt vor, um zu erfahren, wie Sie die erforderliche Zustimmung/Be
    >
    >Wenn Sie bereits auf einer anderen Registerkarte bei Azure als Administrator angemeldet sind, müssen Sie einen anderen Browser oder Inkognito-Modus verwenden, um sich als Synchronisierungsbenutzer anzumelden.
 
-1. Klicks **[!UICONTROL Accept]**.
+1. Klicken Sie auf **[!UICONTROL Accept]**.
 
    ![](assets/grant-consent-for-client-id-app-registration-3.png)
 
 ## Zustimmung für alle Benutzer erteilen {#grant-consent-for-all-users}
 
-Als Administrator können Sie auch die delegierten Berechtigungen einer Anwendung im Namen aller Benutzer in Ihrem Mandanten genehmigen. Die administrative Zustimmung verhindert, dass das Dialogfeld für die Zustimmung für jeden Benutzer im Mandanten angezeigt wird, und kann im Azure-Portal von Benutzern mit der Administratorrolle ausgeführt werden. Erfahren Sie, welche Administratorrollen verfügbar sind [Zustimmung zu delegierten Berechtigungen hier](https://docs.microsoft.com/en-us/azure/active-directory/roles/permissions-reference).
+Als Administrator können Sie auch die delegierten Berechtigungen einer Anwendung im Namen aller Benutzer in Ihrem Mandanten genehmigen. Die administrative Zustimmung verhindert, dass das Dialogfeld für die Zustimmung für jeden Benutzer im Mandanten angezeigt wird, und kann im Azure-Portal von Benutzern mit der Administratorrolle ausgeführt werden. Erfahren Sie, welche Administratorrollen [delegierten Berechtigungen hier zustimmen können](https://docs.microsoft.com/en-us/azure/active-directory/roles/permissions-reference).
 
 1. Navigieren Sie in Ihrem Azure-Portal zur Startseite der Anwendung.
 
-1. Klicken Sie unter Verwalten auf **[!UICONTROL API-Berechtigungen]**.
+1. Klicken Sie unter &quot;Verwalten&quot;auf **[!UICONTROL API-Berechtigungen]**.
 
    ![](assets/grant-consent-for-client-id-app-registration-4.png)
 
-1. Klicken Sie auf **[!UICONTROL Erteilen der Admin-Zustimmung]** (für Mandanten).
+1. Klicken Sie auf die Schaltfläche **[!UICONTROL Administratorzustimmung gewähren]** (für Mandanten).
 
    ![](assets/grant-consent-for-client-id-app-registration-5.png)
 
-1. Klicks **[!UICONTROL Ja]** zur Bestätigung.
+1. Klicken Sie zur Bestätigung auf **[!UICONTROL Ja]** .
 
    ![](assets/grant-consent-for-client-id-app-registration-6.png)

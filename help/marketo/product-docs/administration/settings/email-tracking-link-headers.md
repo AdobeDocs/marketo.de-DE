@@ -18,11 +18,11 @@ Gehen Sie wie folgt vor, um die Kopfzeilen Ihrer E-Mail-Tracking-Links anzupasse
 
    ![](assets/email-tracking-link-headers-1.png)
 
-1. Klicken **[!UICONTROL Email]**.
+1. Klicken Sie auf **[!UICONTROL E-Mail]**.
 
    ![](assets/email-tracking-link-headers-2.png)
 
-1. Scrollen Sie nach unten zu den benutzerdefinierten Kopfzeilenoptionen. Wählen Sie Ihre gewünschten Einstellungen aus und klicken Sie auf **[!UICONTROL Änderungen speichern]**.
+1. Scrollen Sie nach unten zu den benutzerdefinierten Kopfzeilenoptionen. Wählen Sie die gewünschten Einstellungen aus und klicken Sie auf **[!UICONTROL Änderungen speichern]**.
 
    ![](assets/email-tracking-link-headers-3.png)
 

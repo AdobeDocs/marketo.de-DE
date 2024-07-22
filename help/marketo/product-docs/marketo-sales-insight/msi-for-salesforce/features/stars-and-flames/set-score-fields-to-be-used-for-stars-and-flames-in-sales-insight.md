@@ -7,7 +7,7 @@ feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '169'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -17,37 +17,37 @@ ht-degree: 0%
 >
 >**Erforderliche Administratorberechtigungen**
 
-Standardmäßig verwendet Marketo Sales Insight die **Lead-Punktzahl** Feld zur Berechnung von Sternen und Flammen. Wenn Sie jedoch ein anderes Feld auswählen möchten, sehen Sie wie:
+Standardmäßig verwendet Marketo Sales Insight das Feld **Lead-Score** , um Sterne und Flammen zu berechnen. Wenn Sie jedoch ein anderes Feld auswählen möchten, sehen Sie wie:
 
 >[!TIP]
 >
->Wenn Sie noch keine benutzerdefinierten Punktfelder haben, finden Sie hier eine Anleitung zum [erstellen](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) sie.
+>Wenn Sie noch nicht über benutzerdefinierte Punktfelder verfügen, können Sie diese im Folgenden [erstellen](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md).
 
 >[!NOTE]
 >
 >**Definition**
 >
->* **Sterne**: Sterne stellen den Gesamt-Lead-Wert im Vergleich zu anderen Leads dar.
+>* **Sterne**: Sterne stellen den Gesamt-Lead-Punktstand im Vergleich zu anderen Leads dar.
 >* **Flammen**: Flammen stellen die Dringlichkeit dar - wie stark sich das Ergebnis eines Leads in letzter Zeit geändert hat.
 >
 
-1. under **Admin** klicken **Sales Insight**.
+1. Klicken Sie unter &quot;**Admin**&quot;auf &quot;**Sales Insight**&quot;.
 
    ![](assets/image2014-9-16-13-3a27-3a19.png)
 
-1. under **Lead-Scoring-Einstellungen**, klicken Sie auf **Bearbeiten**.
+1. Klicken Sie unter **Lead-Scoring-Einstellungen** auf **Bearbeiten**.
 
    ![](assets/image2014-9-16-13-3a27-3a33.png)
 
-1. Wählen Sie das Feld aus, für das Sie **Sterne**.
+1. Wählen Sie das Feld aus, das Sie für **Sterne** verwenden möchten.
 
    ![](assets/image2014-9-16-13-3a27-3a45.png)
 
-1. Wählen Sie das Feld aus, für das Sie **Flammen**.
+1. Wählen Sie das Feld aus, das Sie für **Flammen** verwenden möchten.
 
    ![](assets/image2014-9-16-13-3a28-3a1.png)
 
-1. Klicks **Speichern**.
+1. Klicken Sie auf **Speichern**.
 
    ![](assets/image2014-9-16-13-3a28-3a18.png)
 
@@ -57,4 +57,4 @@ Standardmäßig verwendet Marketo Sales Insight die **Lead-Punktzahl** Feld zur 
 
    >[!MORELIKETHIS]
    >
-   >[Priorität, Dringlichkeit, relatives Ergebnis und beste Beta](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
+   >[Priorität, Dringlichkeit, relatives Ergebnis und beste Einsätze](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)

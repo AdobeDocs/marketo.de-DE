@@ -7,17 +7,17 @@ feature: Email Setup
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '154'
-ht-degree: 3%
+ht-degree: 1%
 
 ---
 
 # Bearbeiten Ihrer Standard-Branding-Domäne mit Arbeitsbereichen {#edit-your-default-branding-domain-with-workspaces}
 
-1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
+1. Wechseln Sie zum Bereich **[!UICONTROL Admin]** .
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-1.png)
 
-1. Klicks **[!UICONTROL Email]**.
+1. Klicken Sie auf **[!UICONTROL E-Mail]**.
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-2.png)
 
@@ -31,11 +31,11 @@ ht-degree: 3%
    >
    >Sie können erst dann eine zusätzliche Domäne hinzufügen, wenn Sie die generische Domäne zum ersten Mal bearbeiten.
 
-1. Geben Sie den Namen Ihrer Standarddomäne ein und klicken Sie auf **[!UICONTROL Nächste]**.
+1. Geben Sie den Namen Ihrer Standarddomäne ein und klicken Sie auf **[!UICONTROL Weiter]**.
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-4.png)
 
-1. Klicks **[!UICONTROL Speichern]**.
+1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-5.png)
 
@@ -43,4 +43,4 @@ ht-degree: 3%
 >
 >Beim Hinzufügen zusätzlicher Branding-Domänen können Sie festlegen, dass diese Domäne für einen oder mehrere Arbeitsbereiche als primäre Domäne gilt. Alle vorhandenen nicht gesendeten E-Mails, die auf &quot;Standard&quot;eingestellt sind, sowie alle neu erstellten E-Mails werden standardmäßig zur primären Domäne hinzugefügt. Sie können dies pro E-Mail überschreiben.
 
-Jetzt können Sie [Hinzufügen zusätzlicher Branding-Domänen](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain-with-workspaces.md) Sie benötigen die Arbeitsbereiche.
+Jetzt können Sie [zusätzliche Branding-Domänen hinzufügen](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain-with-workspaces.md), die Sie für die Arbeitsbereiche benötigen.

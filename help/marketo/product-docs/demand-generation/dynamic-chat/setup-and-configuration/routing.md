@@ -2,11 +2,11 @@
 description: Routing - Marketo-Dokumente - Produktdokumentation
 title: Routing
 feature: Dynamic Chat
-exl-id: 93d1a96d-c101-4a1c-898c-dcadb5cdce85
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: e20193b9-55c1-40f2-9e42-5b5dc9b88144
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
 source-wordcount: '268'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -20,7 +20,7 @@ Benutzerdefinierte Regel: Sie können bestimmte Agenten auswählen, um Sitzungen
 
 >[!NOTE]
 >
->Die Kontoweiterleitung hat die höchste Priorität. Wenn ein Besucher den Punkt im Gespräch erreicht, um entweder ein Meeting zu buchen oder einen Live-Chat zu starten, [Konto-Routing](#account-routing) wird zuerst überprüft, bevor andere Routing-Optionen in Betracht gezogen werden.
+>Die Kontoweiterleitung hat die höchste Priorität. Wenn ein Besucher den Punkt in der Konversation erreicht, an dem er entweder ein Meeting bucht oder einen Live-Chat initiiert, wird zuerst die [Konto-Routing](#account-routing) überprüft, bevor andere Routing-Optionen in Betracht gezogen werden.
 
 ## Erstellen einer benutzerspezifischen Regel {#create-a-custom-rule}
 
@@ -30,11 +30,11 @@ In diesem Beispiel senden wir alle Sitzungen aus den angeblichen Bundesstaaten C
 
    ![](assets/routing-1.png)
 
-1. Klicken Sie auf **Benutzerspezifische Regeln** Registerkarte.
+1. Klicken Sie auf die Registerkarte **Benutzerspezifische Regeln**.
 
    ![](assets/routing-2.png)
 
-1. Klicks **Regel erstellen**.
+1. Klicken Sie auf **Regel erstellen**.
 
    ![](assets/routing-3.png)
 
@@ -54,7 +54,7 @@ In diesem Beispiel senden wir alle Sitzungen aus den angeblichen Bundesstaaten C
 
    ![](assets/routing-7.png)
 
-1. Klicken Sie bei Auswahl aller gewünschten Werte auf **Speichern**.
+1. Wenn Sie alle gewünschten Werte ausgewählt haben, klicken Sie auf **Speichern**.
 
    ![](assets/routing-8.png)
 
@@ -74,7 +74,7 @@ In diesem Beispiel leiten wir alle Mitarbeiter von Lego direkt zum Agenten Steve
 
    >[!TIP]
    >
-   >Sie können mehrere Konten gleichzeitig erstellen, indem Sie auf **Kontoliste hochladen** und das Hochladen einer CSV-Datei.
+   >Sie können mehrere Konten gleichzeitig erstellen, indem Sie auf **Kontoliste hochladen** klicken und eine CSV-Datei hochladen.
 
 1. Geben Sie den Namen und die Domäne des Unternehmens ein und wählen Sie den gewünschten Agenten aus.
 

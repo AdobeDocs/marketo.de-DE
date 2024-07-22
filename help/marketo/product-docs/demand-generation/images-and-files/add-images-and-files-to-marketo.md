@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie Ihrer Marketo Engage-Instanz neue Bilder oder Dateien hinzufügen.
 
-1. Navigieren Sie zu **Design Studio**.
+1. Wechseln Sie zu **Design Studio**.
 
    ![](assets/add-images-and-files-to-marketo-1.png)
 
-1. Auswählen **[!UICONTROL Bilder und Dateien]**
+1. Wählen Sie **[!UICONTROL Bilder und Dateien]** aus
 
    ![](assets/add-images-and-files-to-marketo-2.png)
 
-1. Klicken Sie auf **[!UICONTROL Bild- und Dateiaktionen]** und wählen Sie **[!UICONTROL Bild oder Datei hochladen]**.
+1. Klicken Sie auf das Dropdown-Menü **[!UICONTROL Bild- und Dateiaktionen]** und wählen Sie **[!UICONTROL Bild oder Datei hochladen]** aus.
 
    ![](assets/add-images-and-files-to-marketo-3.png)
 
@@ -35,7 +35,7 @@ Erfahren Sie, wie Sie Ihrer Marketo Engage-Instanz neue Bilder oder Dateien hinz
    >
    >Die maximale Dateigröße beträgt 100 MB.
 
-1. Nachdem das Asset ausgewählt wurde, klicken Sie auf **Hochladen**.
+1. Klicken Sie nach Auswahl des Assets auf **Hochladen**.
 
    ![](assets/add-images-and-files-to-marketo-5.png)
 

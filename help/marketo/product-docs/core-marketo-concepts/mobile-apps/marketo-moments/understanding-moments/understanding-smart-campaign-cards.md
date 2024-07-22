@@ -6,7 +6,7 @@ exl-id: 2d7476aa-d33d-4c82-aef8-b340766b9526
 feature: Mobile Marketing
 source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '582'
+source-wordcount: '574'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Verwenden Sie Marketo-Momente , um die einzelnen Ausführungen Ihrer Smart-Kampa
 
 >[!IMPORTANT]
 >
->Am 2. Oktober 2023 hat Adobe die Marketo Moments-App aus allen App Stores entfernt. Wenn Sie die App bereits auf Ihrem Tablet/Mobilgerät installiert haben, können Sie sie vorerst weiter verwenden. Sobald Ihre Marketo Engage-Instanz zur Authentifizierung von Marketo zu Adobe Identity migriert wurde, können Sie nicht mehr auf die App zugreifen. [Weitere Informationen](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+>Am 2. Oktober 2023 hat Adobe die Marketo Moments-App aus allen App Stores entfernt. Wenn Sie die App bereits auf Ihrem Tablet/Mobilgerät installiert haben, können Sie sie vorerst weiter verwenden. Sobald Ihre Marketo Engage-Instanz zur Authentifizierung von Marketo zu Adobe Identity migriert wurde, können Sie nicht mehr auf die App zugreifen. [Weitere Infos](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 Für zukünftige Smart-Kampagnen, die geplant, aber noch nicht ausgeführt werden, zeigt die Marketo-Karte Momente noch keine Kampagnenstatistiken an. Sie werden in einer zukünftigen Version erscheinen.
 
@@ -31,7 +31,7 @@ Für zukünftige Smart-Kampagnen, die geplant, aber noch nicht ausgeführt werde
 
 1. Über die Detailkarte erhalten Sie Zugriff auf Informationen zu den Smart-List-Filtern, Fluss und E-Mail-Zusammenfassung.
 
-1. Tippen **Smart List**.
+1. Tippen Sie auf **Smart List**.
 
    ![](assets/image2015-9-21-13-3a31-3a49.png)
 
@@ -39,7 +39,7 @@ Für zukünftige Smart-Kampagnen, die geplant, aber noch nicht ausgeführt werde
 
    ![](assets/image2015-9-21-13-3a35-3a29.png)
 
-1. Tippen **Fluss**.
+1. Tippen Sie auf **Fluss**.
 
    ![](assets/image2015-9-21-13-3a37-3a20.png)
 
@@ -47,7 +47,7 @@ Für zukünftige Smart-Kampagnen, die geplant, aber noch nicht ausgeführt werde
 
    ![](assets/image2015-9-22-15-3a8-3a12.png)
 
-1. Klicks **Email Summary**.
+1. Klicken Sie auf **E-Mail-Zusammenfassung**.
 
    ![](assets/image2015-9-21-13-3a51-3a7.png)
 
@@ -71,7 +71,7 @@ Es ist eine gute Idee, sich eine E-Mail anzusehen, bevor sie ausgeht. Oder sende
 
    ![](assets/image2015-9-22-14-3a54-3a12.png)
 
-1. Tippen [Beispiel senden](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md) oder [Vorschau von E-Mail](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md) (Klicken Sie für weitere Informationen auf diese Links).
+1. Tippen Sie auf [Beispiel senden](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md) oder [E-Mail-Vorschau anzeigen](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md) (klicken Sie für Details auf diese Links).
 
    ![](assets/image2015-9-22-14-3a52-3a11.png)
 
@@ -83,11 +83,11 @@ Karten für nicht bestätigte Smart-Kampagnen sind grau, bis Sie sie bestätigen
 
    ![](assets/image2015-9-23-10-3a43-3a23.png)
 
-1. Tippen **Bestätigen**.
+1. Tippen Sie auf **Bestätigen**.
 
    ![](assets/image2015-9-23-10-3a45-3a51.png)
 
-1. Tippen **Bestätigen** , um den Auftrag abzuschließen, oder **Niemals Mind** wenn Sie zweite Gedanken haben.
+1. Tippen Sie auf **Bestätigen** , um den Auftrag abzuschließen, oder auf **Nie stören** , wenn Sie zweierlei Gedanken haben.
 
    ![](assets/image2015-9-23-10-3a47-3a28.png)
 
@@ -103,11 +103,11 @@ Sie können einen bestätigten, geplanten Smart-Campaign-Lauf abbrechen.
 
    ![](assets/image2015-9-22-14-3a34-3a14.png)
 
-1. Tippen **Ausführen abbrechen**.
+1. Tippen Sie auf **Run abbrechen**.
 
    ![](assets/image2015-9-22-14-3a35-3a33.png)
 
-1. Tippen **Ausführen abbrechen**. Wenn Sie sich in letzter Minute entscheiden, den Lauf nicht abzubrechen, tippen Sie auf **Niemals Mind** und die Smart-Kampagne wie geplant ausgeführt werden.
+1. Tippen Sie auf **Run abbrechen**. Wenn Sie sich in letzter Minute entscheiden, den Lauf nicht abzubrechen, tippen Sie auf **Nie stören**, und die Smart-Kampagne wird wie geplant ausgeführt.
 
    ![](assets/image2015-9-22-14-3a41-3a26.png)
 
@@ -119,11 +119,11 @@ Sie können eine bestätigte Smart-Kampagne, die noch nicht ausgeführt wurde, n
 
    ![](assets/image2015-9-22-14-3a11-3a25.png)
 
-1. Tippen **Zeitplan**.
+1. Tippen Sie auf **Neu planen**.
 
    ![](assets/image2015-9-22-14-3a13-3a25.png)
 
-1. Datum im Kalender auswählen und tippen **Zeitplan**.
+1. Wählen Sie ein Datum im Kalender aus und tippen Sie auf **Neu planen**.
 
    ![](assets/image2015-9-22-14-3a16-3a56.png)
 
@@ -141,7 +141,7 @@ Wie bei anderen Marketo-Momenten-Karten können Sie auf die drei Punkte auf eine
 
 >[!NOTE]
 >
->Sie können auch auf die **Freigeben** auf einer Karte mit intelligenter Kampagne, die freigegeben werden soll, und **Fertig** und **Favorit** auf der Detailkarte.
+>Sie können auch auf das Symbol **Freigeben** auf einer Smart-Campaign-Karte tippen, um diese freizugeben, und auf der Detailkarte die Symbole **Fertig** und **Favorit** .
 
 ## Schnelles Löschen einer Smart-Campaign-Karte {#quickly-delete-a-smart-campaign-card}
 

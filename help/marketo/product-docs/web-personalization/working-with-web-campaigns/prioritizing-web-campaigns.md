@@ -6,7 +6,7 @@ exl-id: 18c43ba2-6d4a-4344-93be-3e1435742504
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Priorisieren Sie Ihre Webkampagnen, wenn sich zwei oder mehr Webkampagnen übers
 
 >[!NOTE]
 >
->**Überlappende Kampagnen**
+>**Überschneidende Kampagnen**
 >
 >Eine Webkampagnenüberschneidung tritt auf, wenn:
 >
@@ -32,7 +32,7 @@ Priorisieren Sie Ihre Webkampagnen, wenn sich zwei oder mehr Webkampagnen übers
 
    >[!NOTE]
    >
-   >Um die gewünschte Web-Kampagne leichter zu finden, verwenden Sie die [Filterfunktion](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+   >Um die gewünschte Webkampagne leichter zu finden, verwenden Sie die [Filterfunktion](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 1. Legen Sie auf der Seite Kampagne bearbeiten die Prioritätsbewertung fest (9999 = höchste Priorität 1 = niedrigste Priorität).
 

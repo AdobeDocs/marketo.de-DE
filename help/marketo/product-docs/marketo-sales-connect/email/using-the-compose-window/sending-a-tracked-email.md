@@ -20,13 +20,13 @@ Beim Versand einer E-Mail mit Marketo Sales Connect werden Ansichten (E-Mail-Öf
 >Sie müssen eine Identität verifizieren und einen E-Mail-Versandkanal einrichten, bevor Sie eine verfolgte E-Mail senden.
 >
 >* [E-Mail-Adresse überprüfen](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md)
->* Einrichten eines Versandkanals für [Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) oder [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
+>* Einrichten eines Bereitstellungskanals für [Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) oder [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
 
 1. Erstellen Sie Ihren E-Mail-Entwurf (dazu gibt es mehrere Möglichkeiten, in diesem Beispiel wählen wir **Erstellen** in der Kopfzeile).
 
    ![](assets/one.png)
 
-1. Geben Sie den Namen oder die E-Mail-Adresse eines Empfängers im **nach** -Feld.
+1. Geben Sie den Namen oder die E-Mail-Adresse eines Empfängers in das Feld **bis** ein.
 
    ![](assets/two.png)
 
@@ -40,7 +40,7 @@ Beim Versand einer E-Mail mit Marketo Sales Connect werden Ansichten (E-Mail-Öf
 
    >[!NOTE]
    >
-   >Wenn jemand, der CC’d oder BCC’d war, die E-Mail öffnet, wird diese Öffnung als Ansicht auf den Datensatz der Person im **nach** -Feld.
+   >Wenn jemand, der CC’d oder BCC’d war, die E-Mail öffnet, wird diese Öffnung als Ansicht auf den Datensatz der Person im Feld **bis** aufgezeichnet.
 
 1. Betreffzeile hinzufügen.
 
@@ -48,13 +48,13 @@ Beim Versand einer E-Mail mit Marketo Sales Connect werden Ansichten (E-Mail-Öf
 
    >[!NOTE]
    >
-   >Betreffzeile und Empfänger sind zum Senden der E-Mail erforderlich. Wir werden **Entwurf automatisch speichern** nachdem Betreffzeile und Empfänger hinzugefügt wurden.
+   >Betreffzeile und Empfänger sind zum Senden der E-Mail erforderlich. Sobald eine Betreffzeile und ein Empfänger hinzugefügt wurden, speichern wir Ihren Entwurf **automatisch.**
 
-1. Erstellen Sie Ihre E-Mail mit dem Editor. Klicks **Senden** (oder [Zeitplan](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md), wenn Sie es vorziehen).
+1. Erstellen Sie Ihre E-Mail mit dem Editor. Klicken Sie abschließend auf **Senden** (oder auf [Planen](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md), falls gewünscht).
 
    ![](assets/five.png)
 
    >[!MORELIKETHIS]
    >
-   >* [E-Mail planen](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)
+   >* [Planen einer E-Mail](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)
    >* [Vorlagen](/help/marketo/product-docs/marketo-sales-connect/templates/create-a-new-template.md)

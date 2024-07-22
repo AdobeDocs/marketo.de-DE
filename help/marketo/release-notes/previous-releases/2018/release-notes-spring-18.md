@@ -31,13 +31,13 @@ Steigern Sie die Pipeline und den Umsatz, indem Sie mit intelligenten Funktionen
 
 **ToutApp**
 
-* **Compliance Card**: Stellen Sie die Einhaltung der DSGVO sicher, indem Sie die Quelle der Verkaufskontakte und Details der Kundenzustimmung für den Erhalt von Nachrichten erfassen.
-* **Aktualisierung der Kennwortrichtlinie**: Halten Sie Ihre Daten mit strengeren Anforderungen an die Erstellung, das Zurücksetzen und den Ablauf von Passwörtern sicherer (erfüllt die Anforderungen an die Konformität mit SOC II - Typ 1).
-* **Optimiertes Erlebnis bei der Kontoeinrichtung**: Richten Sie Ihr Konto schneller ein und verbinden Sie es mit Gmail, Outlook und anderen Systemen.
+* **Compliance Card**: Stellen Sie sicher, dass die DSGVO eingehalten wird, indem Sie die Quelle der Verkaufskontakte und Details der Kundenzustimmung für den Erhalt von Nachrichten erfassen.
+* **Aktualisierung der Passwortrichtlinie**: Halten Sie Ihre Daten sicherer und beachten Sie strengere Anforderungen für die Erstellung, das Zurücksetzen und den Ablauf von Passwörtern (erfüllt die Anforderungen an die Konformität mit SOC II - Typ 1).
+* **Optimiertes Erlebnis für die Kontoeinrichtung**: Richten Sie Ihr Konto schneller ein und verbinden Sie es mit Gmail, Outlook und anderen Systemen.
 
 ## Marketo Sky Open Beta {#marketo-sky-open-beta}
 
-[Marketo Sky Open Beta](https://help.marketo.com/)
+[Marketo Sky Beta öffnen](https://help.marketo.com/)
 
 Nutzen Sie die Marketo Sky-Open-Beta-Version, um Zugriff auf mehr als 100 neue produktivitätssteigernde Funktionen zu erhalten, darunter:
 
@@ -65,7 +65,7 @@ Filtern Sie die Ergebnisse nach Möglichkeit, benutzerdefinierten Feldern, wie z
 
 Geben Sie Ihre Schnelldiagramme einfach für andere Benutzer von Performance Insights frei.
 
-**Verbesserungen der Benutzerfreundlichkeit**
+**Verbesserungen bei der Benutzerfreundlichkeit**
 
 Optimierte Navigation und verbesserte Workflows ermöglichen einen Überblick über die Erfolgskriterien des Programms und den Zugriff auf Details des Programms.
 

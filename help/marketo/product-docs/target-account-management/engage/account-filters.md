@@ -13,15 +13,15 @@ ht-degree: 6%
 
 # Kontofilter {#account-filters}
 
-Identifizieren und interagieren Sie benannte Konten und die darin enthaltenen Personas mithilfe neuer kontozentrierter Filter.
+Identifizieren und interagieren Sie benannte Konten und die darin enthaltenen Rollen mithilfe neuer kontozentrierter Filter.
 
 ## TAM-Filter {#tam-filters}
 
-1. Wählen Sie Ihre Smart-Kampagne aus und klicken Sie auf **Smart List**.
+1. Wählen Sie Ihre Smart-Kampagne aus und klicken Sie auf **Smart-Liste**.
 
    ![](assets/one.png)
 
-1. Klicken Sie auf **+** , um die **Kontofilter** Ordner.
+1. Klicken Sie auf **+** , um den Ordner **Kontofilter** zu erweitern.
 
    ![](assets/two.png)
 
@@ -31,11 +31,11 @@ Identifizieren und interagieren Sie benannte Konten und die darin enthaltenen Pe
 
 ## Mitglied der Kontoliste {#member-of-account-list}
 
-Um diesen Filter zu verwenden, klicken Sie auf die Dropdown-Liste der Konten..
+Um diesen Filter zu verwenden, klicken Sie auf das Dropdown-Menü Kontoliste ...
 
 ![](assets/four.png)
 
-...und wählen Sie Ihre gewünschte(n) Kontoliste(n) aus.
+... und wählen Sie die gewünschten Kontolisten aus.
 
 ![](assets/five.png)
 
@@ -45,7 +45,7 @@ Um diesen Filter zu verwenden, klicken Sie auf die Dropdown-Liste der Konten..
 
 ## Mitglied des benannten Kontos {#member-of-named-account}
 
-Wählen Sie zunächst einen Qualifizierer aus. **Is** für ein bestimmtes(n) benanntes Konto(e) oder **ist** für jedes benannte Konto.
+Wählen Sie zunächst einen Qualifizierer aus. **Ist** für ein bestimmtes(n) benanntes(s) Konto(en) oder **ist beliebig** für ein beliebiges benanntes Konto.
 
 ![](assets/six.png)
 
@@ -53,11 +53,11 @@ Klicken Sie auf die Dropdown-Liste Konto mit Namen ...
 
 ![](assets/seven.png)
 
-...und wählen Sie die gewünschten spezifischen Konten aus.
+... und wählen Sie die gewünschten spezifischen Konten aus.
 
 ![](assets/eight.png)
 
-Wenn Sie den Qualifikator &quot;ist vorhanden&quot;verwenden, sollten Sie [Einschränkungen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) , um die Suchergebnisse einzuschränken. Fügen Sie so viele hinzu, wie Sie möchten!
+Wenn Sie den Qualifikator &quot;ist vorhanden&quot;verwenden, sollten Sie [Begrenzungen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) verwenden, um Ihre Suchergebnisse einzuschränken. Fügen Sie so viele hinzu, wie Sie möchten!
 
 ![](assets/nine.png)
 

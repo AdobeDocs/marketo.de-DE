@@ -6,7 +6,7 @@ exl-id: 6ea35811-6f3d-4dc8-91aa-877d613f8e93
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1067'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## Einführung {#intro}
 
-Analysieren Sie Ihre Webanalyse aus B2B-Perspektive, indem Sie die Kampagnendaten für Organisation, Branche und Marketo Real-Time Personalization (RTP) in Ihrem Adobe Analytics-Konto anzeigen.
+Analysieren Sie Ihre Webanalysen aus B2B-Perspektive, indem Sie die Kampagnendaten der Organisation, Branche und Marketo Real-Time Personalization (RTP) in Ihrem Adobe Analytics-Konto anzeigen.
 
 Dieses Dokument ermöglicht die Integration zwischen Marketo Real-Time Personalization (RTP) und Adobe Adobe Analytics. Mithilfe von RTP-Daten können Sie Trends in allen auf Ihre Site besuchten Branchensegmenten und Organisationen erkennen und analysieren sowie die Effektivität Ihrer RTP-Kampagnen messen. So erhalten Sie Einblicke und Analysen, um optimale Ergebnisse zu erzielen.
 
@@ -51,8 +51,8 @@ Zeigen Sie die RTP-Kampagnenimpressionen und -konversionen unter Benutzerspezifi
 
 Dieser Bericht zu benutzerspezifischen Links zeigt Impressionen und Konversionen von Kampagnen im folgenden Namensformat:
 
-* Impression ISegment: [RTP-Segmentname], ICampaign: [RTP-Kampagnenname]
-* Konversions-ISegment: [RTP-Segmentname], ICampaign: [RTP-Kampagnenname]
+* Impression ISegment: [RTP Segment Name], ICampaign: [RTP Campaign Name]
+* Konversionssegment: [RTP-Segmentname], ICampaign: [RTP-Kampagnenname]
 
 ![](assets/custom-links-report.png)
 
@@ -62,10 +62,10 @@ Die Integration verwendet die von Adobe Analytics angebotene JavaScript-API. Ben
 
 Führen Sie die folgenden Schritte aus, um diese Variablen in AA einzurichten:
 
-1. Navigieren Sie zu **Admin Tools** in Ihrem AA-Konto.
-1. Wählen Sie die **Report Suite** für die Integration verwendet werden.
-1. under **Einstellungen bearbeiten**, gehen Sie zu **Konversion** und wählen **[Konversionsvariablen](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**.\
-   Wählen Sie die [Konversionsvariable](https://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar) number (empfohlen):
+1. Wechseln Sie in Ihrem AA-Konto zu **Admin Tools** .
+1. Wählen Sie die **Report Suite** aus, die mit der Integration verwendet werden soll.
+1. Wechseln Sie unter **Einstellungen bearbeiten** zu **Konversion** und wählen Sie **[Konversionsvariablen](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**.\
+   Wählen Sie die Nummer [Konversionsvariable](https://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar) aus (wir empfehlen Ihnen):
 
    1. eVar # 20 für benutzerdefinierte Branchen-Konversionen
    1. eVar # 21 für benutzerspezifische Unternehmenskonversionen
@@ -74,13 +74,13 @@ Führen Sie die folgenden Schritte aus, um diese Variablen in AA einzurichten:
    >
    >Wenn diese Anzahl angenommen wird, wählen Sie eine andere verfügbare Zahl aus. Richten Sie diese Zahl an der Steckplatznummer in den RTP-Kontoeinstellungen aus.
 
-   1. Status ändern in _Aktiviert_.
+   1. Ändern Sie den Status zu _Aktiviert_.
 
-      1. Name ändern in **Branche** und **Einrichtung**. (So wird er in der Report Suite angezeigt.)
+      1. Ändern Sie den Namen in **Branche** und **Organisation**. (So wird er in der Report Suite angezeigt.)
 
-      1. Ändern Sie das Feld Ablauf nach in **Besuch**.
+      1. Ändern Sie das Feld Läuft ab nach in das Feld **Besuch**.
 
-1. under **Einstellungen bearbeiten** gehen Sie zu **Konversion** und wählen **[Erfolgsereignisse](https://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)**.
+1. Wechseln Sie unter **Einstellungen bearbeiten** zu **Konversion** und wählen Sie **[Erfolgsereignisse](https://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)** aus.
 
    1. Wählen Sie die Ereignisnummer für benutzerspezifische Erfolgsereignisse aus (wir empfehlen):
 
@@ -93,9 +93,9 @@ Führen Sie die folgenden Schritte aus, um diese Variablen in AA einzurichten:
 
       1. Ändern Sie die beiden Ereignisnamen in **RTP-Kampagnen** und **RTP-Segmente**. Dieser Name wird in der Report Suite angezeigt.
 
-   1. Wählen Sie das Feld Typ aus, das **Zähler (keine Subrelationen)**
+   1. Wählen Sie das Feld Typ aus, um **Zähler (keine Subrelationen)** zu verwenden.
 
-1. under **Einstellungen bearbeiten** gehen Sie zu **[Traffic](https://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable)** und wählen **[Traffic-Variablen](https://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)**.
+1. Wechseln Sie unter &quot;**Einstellungen bearbeiten**&quot;zu &quot;**[Traffic](https://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable)**&quot;und wählen Sie &quot;**[Traffic-Variablen](https://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)**&quot;aus.
 
    1. Wählen Sie die Eigenschaftsnummer der Traffic-Variablen aus (wir empfehlen Ihnen):
 
@@ -110,21 +110,21 @@ Führen Sie die folgenden Schritte aus, um diese Variablen in AA einzurichten:
 
       1. Ändern Sie die vier Eigenschaftsnamen. Dieser Name wird in der Report Suite angezeigt.
 
-   1. Wählen Sie das Feld Aktiviert für **Aktiviert**.
+   1. Wählen Sie für Feld Aktiviert die Option **Aktiviert** aus.
 
-   1. Wählen Sie das Feld Pfadberichte aus **Aktiviert**.
+   1. Wählen Sie im Feld Pfadberichte die Option **Aktiviert** aus.
 
 ## Einrichtung in Marketo Real-Time Personalization (RTP) {#set-up-in-marketo-real-time-personalization-rtp}
 
-1. Navigieren Sie in der RTP-Plattform zu **Kontoeinstellungen**.
+1. Wechseln Sie in der RTP-Plattform zu **Kontoeinstellungen**.
 
    ![](assets/image2014-11-29-11-3a27-3a7.png)
 
-1. under **Kontoeinstellungen** klicken **Domäne**.
-1. under **Analytics, klicken Sie** **Adobe Analytics**.
-1. drehen **on** Die Variablen &quot;Konversion&quot;, &quot;Benutzerdefiniert&quot;und &quot;Traffic&quot;werden umgeschaltet.
-1. Zuweisen von Konversions-, Ereignis- und Traffic-Variablen **Zeitnischen** , um die in AA erstellten Slotnummern zu erhalten.
-1. Klicks **Speichern**.
+1. Klicken Sie unter **Kontoeinstellungen** auf **Domäne**.
+1. Klicken Sie unter **Analytics auf** **Adobe Analytics**.
+1. Umschalten Sie **auf** die Variable &quot;Conversion&quot;, &quot;Custom&quot;und &quot;Traffic&quot;.
+1. Weisen Sie die Konversions-, Ereignis- und Traffic-Variablen **Steckplatznummern** den in AA erstellten Steckplatznummern zu.
+1. Klicken Sie auf **Speichern**.
 
 ![](assets/image2014-11-29-12-3a24-3a42.png)
 
@@ -149,7 +149,7 @@ Führen Sie die folgenden Schritte aus, um diese Variablen in AA einzurichten:
 >* Traffic-Variable der Campaign-Organisation - Steckplatz 22
 >* Traffic-Variable der Kampagnenbranche - Steckplatz 23
 >
->**Stellen Sie sicher, dass diese Slot-Zahlen mit den in AA erstellten Variablen und Ereignisnummern übereinstimmen.**
+>**Stellen Sie sicher, dass diese Steckplatznummern mit den in AA erstellten Variablen und Ereignisnummern übereinstimmen.**
 
 ## Berichte {#reports}
 
@@ -162,61 +162,61 @@ Beispiele für benutzerdefinierte Berichte und Dashboards in AA:
 * Angesehene Seiten pro Organisation
 * Marketing-Kanal-Performance nach Organisation, Branche, Segmenten
 
-**- Berichtsbeispiele -**
+**-Berichtsbeispiele -**
 
-**Bericht &quot;Topbranchen&quot;**
+**Bericht zu den wichtigsten Branchen**
 
 ![](assets/top-industries-report.png)
 
-**Organisationsbericht**
+**Bericht &quot;Organisationen&quot;**
 
 ![](assets/image2014-11-29-12-3a29-3a42.png)
 
-**RTP-Dashboard erstellen**
+**Erstellen des RTP-Dashboards**
 
-Erstellen Sie eine [neues Dashboard](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add.html)aufgerufen **RTP-Dashboard**. Dieses Dashboard hilft Ihnen, die Aufschlüsselung Ihrer Besucher nach Vertikalen und RTP-Segmenten zu verstehen.
+Erstellen Sie ein [neues Dashboard](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add.html) mit dem Namen **RTP-Dashboard**. Dieses Dashboard hilft Ihnen, die Aufschlüsselung Ihrer Besucher nach Vertikalen und RTP-Segmenten zu verstehen.
 
-1. Klicks **Dashboard,** click **Dashboard hinzufügen**.
+1. Klicken Sie auf **Dashboard,** auf **Dashboard hinzufügen**.
 
-1. Benennen Sie das Dashboard. **RTP-Dashboard**.
+1. Nennen Sie das Dashboard **RTP-Dashboard**.
 
-1. Wählen Sie die **Dashboard-Größe** 3 x 2, 2 x 2.
+1. Wählen Sie die Dashboard-Größe **3 x 2, 2 x 2 aus.**
 
-1. Erstellen Sie die [Reportlet](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add_report.html#task_EC3AFBBAA51C45CEBAF632F841C305B3) und hinzufügen [Inhalt des Dashboards](https://docs.marketo.com/Add%2520content%2520to%2520a%2520dashboard).
+1. Erstellen Sie das [Reportlet](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add_report.html#task_EC3AFBBAA51C45CEBAF632F841C305B3) und fügen Sie [Inhalt zum Dashboard](https://docs.marketo.com/Add%2520content%2520to%2520a%2520dashboard) hinzu.
 
 Hinzufügen des Branchen-Reportlets zum Dashboard
 
-1. Navigieren Sie zu **Benutzerdefinierte Konversionen**, klicken Sie auf **Branche**.
+1. Wechseln Sie zu **Benutzerdefinierte Konversionen** und klicken Sie auf **Branche**.
 
-1. Konfigurieren des Diagramms zu **Tortendiagramm**.
+1. Konfigurieren Sie das Diagramm für **Tortendiagramm**.
 
-1. Klicken Sie auf **Dashboard**, hinzufügen **Reportlet**.
+1. Klicken Sie auf **Dashboard** und fügen Sie **Reportlet** hinzu.
 
-1. Benennen des Berichts **Topbranchen**.
+1. Nennen Sie den Bericht &quot;**Top Industries**&quot;.
 
 1. Im Dashboard platzieren **RTP-Dashboard**.
 
-1. Erstellen **Neu**.
+1. Erstellen Sie **Neu**.
 
 Hinzufügen des Segments-Reportlets zum Dashboard
 
 1. Navigieren Sie zu **Site-Metriken**. Klicken Sie auf **Benutzerspezifische Ereignisse**, **Segmente**.
 
-1. Konfigurieren des Diagramms zu **Vertikalbalken**.
+1. Konfigurieren Sie das Diagramm für **Vertikalbalken**.
 
-1. Klicken Sie auf **Dashboard**, hinzufügen **Reportlet**.
+1. Klicken Sie auf **Dashboard** und fügen Sie **Reportlet** hinzu.
 
-1. Benennen des Berichts **Top-Segmente**.
+1. Nennen Sie den Bericht &quot;**Top-Segmente**&quot;.
 
 1. Im Dashboard platzieren **RTP-Dashboard**.
 
-1. Erstellen **Neu**.
+1. Erstellen Sie **Neu**.
 
 Ihre Reportlets werden im Dashboard angezeigt.
 
 ## Impressionen und Klicks (Konversionen) in Adobe Analytics anzeigen {#view-impressions-and-clicks-conversions-in-adobe-analytics}
 
-1. Klicks **Benutzerspezifische Links**.
+1. Klicken Sie auf **Benutzerspezifische Links**.
 
    ![](assets/sitecatalyst1-1.png)
 

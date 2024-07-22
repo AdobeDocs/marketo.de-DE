@@ -17,11 +17,11 @@ Informieren Sie sich über die Leistung Ihres E-Mail-Programms (mit oder ohne A/
 
 >[!CAUTION]
 >
->Für genaue Berichte vermeiden Sie _Wiederverwendung_ eine E-Mail aus einem E-Mail-Programm, entweder durch Referenzierung in einer Smart-Kampagne oder durch Verschieben des Assets aus dem gestarteten E-Mail-Programm in ein neues. Auf diese Weise werden alle Daten in jedem Bericht-Dashboard, das an diese E-Mail angehängt ist, aggregiert. Wenn Sie eine E-Mail wiederverwenden müssen, wenden Sie sich bitte an [Klonen](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} , da dadurch die E-Mail kopiert, aber eine neue mit einer neuen E-Mail-ID erstellt wird.
+>Vermeiden Sie für eine genaue Berichterstellung die _Wiederverwendung_ einer E-Mail aus einem E-Mail-Programm, indem Sie entweder in einer Smart-Kampagne darauf verweisen oder das Asset aus dem gestarteten E-Mail-Programm in ein neues verschieben. Auf diese Weise werden alle Daten in jedem Bericht-Dashboard, das an diese E-Mail angehängt ist, aggregiert. Wenn Sie eine E-Mail wiederverwenden müssen, klonen Sie sie stattdessen mit [1}, da diese die E-Mail kopiert, aber eine neue E-Mail-Adresse mit einer neuen ID erstellt.](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"}
 
 ## E-Mail-Programm auswählen {#select-your-email-program}
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Wechseln Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -41,7 +41,7 @@ Wenn Sie Ihrem E-Mail-Programm einen A/B-Test hinzugefügt haben und der Test de
 
 ## E-Mail-Programmansicht {#email-program-view}
 
-Wenn Sie keinen A/B-Test hinzugefügt haben, können Sie auch *oder* Wenn der Test beendet ist, sollte Folgendes angezeigt werden:
+Wenn Sie alternativ keinen A/B-Test *oder* hinzugefügt haben, wenn der Test beendet ist, sollte Folgendes angezeigt werden:
 
 ![](assets/image2014-9-12-14-3a3-3a3.png)
 
@@ -52,4 +52,4 @@ Wenn Sie keinen A/B-Test hinzugefügt haben, können Sie auch *oder* Wenn der Te
 >[!MORELIKETHIS]
 >
 >* [Verwenden des Dashboards &quot;E-Mail-Programm&quot;- A/B-Testansicht](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
->* [Verwenden des Dashboards E-Mail-Programm](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)
+>* [Verwenden des Dashboards &quot;E-Mail-Programm&quot;](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)

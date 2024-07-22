@@ -6,7 +6,7 @@ exl-id: 5c071694-af86-48bd-8159-f877c51364f2
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Schnelldiagramme sind Miniaturansichten, die Sie anpassen und speichern, um eine schnelle Ansicht der Diagramme zu ermöglichen, die Sie am häufigsten verwenden.
 
-## Erstellen eines neuen Schnelldiagramms {#create-a-new-quick-chart}
+## Neues Schnelldiagramm erstellen {#create-a-new-quick-chart}
 
 In diesem Beispiel wählen wir die Öffnungsrate für die ersten drei Wochen im Februar 2016 in den Bundesstaaten Kalifornien und Florida.
 
@@ -39,11 +39,11 @@ In diesem Beispiel wählen wir die Öffnungsrate für die ersten drei Wochen im 
 
    ![](assets/5.png)
 
-1. Klicken Sie rechts im Diagramm auf das Exportsymbol und wählen Sie **Als Schnelldiagramm speichern**.
+1. Klicken Sie rechts im Diagramm auf das Exportsymbol und wählen Sie **Als Schnelldiagramm speichern** aus.
 
    ![](assets/six.png)
 
-1. Benennen Sie Ihr Schnelldiagramm und klicken Sie auf **Speichern**.
+1. Benennen Sie das Schnelldiagramm und klicken Sie auf **Speichern**.
 
    ![](assets/seven.png)
 
@@ -65,15 +65,15 @@ In diesem Beispiel wählen wir die Öffnungsrate für die ersten drei Wochen im 
 
 Möchten Sie eine Ihrer Schnelldiagramme löschen? Es ist einfach!
 
-1. Klicken Sie auf **Schnelldiagramme** Symbol.
+1. Klicken Sie auf das Symbol **Schnelldiagramme**.
 
    ![](assets/nine.png)
 
-1. Bewegen Sie den Mauszeiger über das gewünschte Diagramm, klicken Sie jedoch nicht darauf. Beim Bewegen des Mauszeigers wird ein X angezeigt. Klicken Sie auf **X**.
+1. Bewegen Sie den Mauszeiger über das gewünschte Diagramm, klicken Sie jedoch nicht darauf. Beim Bewegen des Mauszeigers wird ein X angezeigt. Klicken Sie auf den **X**.
 
    ![](assets/ten.png)
 
-1. Klicken **Ok**.
+1. Klicken Sie auf **OK**.
 
    ![](assets/eleven.png)
 

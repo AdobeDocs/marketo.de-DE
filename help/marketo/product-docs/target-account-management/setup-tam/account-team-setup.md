@@ -6,8 +6,8 @@ exl-id: a4aee37f-5e39-4296-b720-b1c73c98df9e
 feature: Target Account Management
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '180'
-ht-degree: 0%
+source-wordcount: '181'
+ht-degree: 2%
 
 ---
 
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Ein Account-Team ist eine Gruppe von Stakeholdern, die mit einem benannten Konto zusammenarbeiten. Führen Sie diese Schritte aus, um festzulegen, welche CRM-Konto-Rollen hinzugefügt werden sollen.
 
-1. Klicks **Admin**.
+1. Klicken Sie auf **Admin**.
 
    ![](assets/one-3.png)
 
-1. Klicks **Verwaltung von Target-Konten**.
+1. Klicken Sie auf **Target Account Management**.
 
    ![](assets/account-team-setup-2.png)
 
-1. Klicken Sie unter &quot;Account Team Members&quot;auf **Bearbeiten**.
+1. Klicken Sie unter &quot;Account Team Members&quot;auf **Edit**.
 
    ![](assets/3.png)
 
@@ -31,7 +31,7 @@ Ein Account-Team ist eine Gruppe von Stakeholdern, die mit einem benannten Konto
    >
    >Geben Sie für Kontorolle einen Namen an und ordnen Sie ihn dem gewünschten Feld für die Benutzersuche in Ihrem CRM-System zu.
 
-1. Geben Sie den Namen Ihrer Kontorolle ein und wählen Sie die **CRM** -Feld. Fügen Sie bis zu 10 hinzu.
+1. Geben Sie den Namen Ihrer Kontorolle ein und wählen Sie das Feld **CRM** aus. Fügen Sie bis zu 10 hinzu.
 
    ![](assets/four-2.png)
 
@@ -39,7 +39,7 @@ Ein Account-Team ist eine Gruppe von Stakeholdern, die mit einem benannten Konto
    >
    >Sie können Kontoinhaber nicht auswählen. Er wird standardmäßig aus der Kontoebene in Ihrem CRM-System ausgewählt.
 
-1. Klicks **Speichern** wann geschehen.
+1. Klicken Sie auf **Speichern**, wenn Sie fertig sind.
 
    ![](assets/five-2.png)
 

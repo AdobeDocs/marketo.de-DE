@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie die Sprache Ihres Formulars ändern können.
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Wechseln Sie zu **Marketingaktivitäten**.
 
    ![](assets/change-the-language-of-a-form-1.png)
 
@@ -23,11 +23,11 @@ Erfahren Sie, wie Sie die Sprache Ihres Formulars ändern können.
 
    ![](assets/change-the-language-of-a-form-2.png)
 
-1. Klicks **Formulareinstellungen** und wählen **Einstellungen**.
+1. Klicken Sie auf &quot;**Formulareinstellungen**&quot;und wählen Sie &quot;**Einstellungen**&quot;.
 
    ![](assets/change-the-language-of-a-form-3.png)
 
-1. Wählen Sie die gewünschte **Formularsprache**.
+1. Wählen Sie die gewünschte **Formularsprache** aus.
 
    ![](assets/change-the-language-of-a-form-4.png)
 
@@ -35,11 +35,11 @@ Erfahren Sie, wie Sie die Sprache Ihres Formulars ändern können.
 
    ![](assets/change-the-language-of-a-form-5.png)
 
-1. Klicks **Beenden**.
+1. Klicken Sie auf **Beenden**.
 
    ![](assets/change-the-language-of-a-form-6.png)
 
-1. Klicks **Genehmigen und schließen** , um Änderungen anzuwenden und zu speichern.
+1. Klicken Sie auf **Genehmigen und schließen** , um Änderungen anzuwenden und zu speichern.
 
    ![](assets/change-the-language-of-a-form-7.png)
 
@@ -49,7 +49,7 @@ Erfahren Sie, wie Sie die Sprache Ihres Formulars ändern können.
 
    >[!TIP]
    >
-   >Denken Sie daran, [Landingpage validieren](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) Entwurf, der durch das Formular erstellt wurde, ändert sich.
+   >Denken Sie daran, den Entwurf der Landingpage ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) zu genehmigen, der durch die Formularänderungen erstellt wurde.[
 
 Ihr Formular spiegelt jetzt die Sprache wider, die Sie ausgewählt haben.
 

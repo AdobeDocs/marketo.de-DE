@@ -18,23 +18,23 @@ Sie können CAPTCHA pro Formular aktivieren/deaktivieren.
 
    ![](assets/enable-captcha-in-marketo-forms-1.png)
 
-1. Klicken **Entwurf bearbeiten** (Wenn das Formular bereits genehmigt wurde, klicken Sie auf Entwurf erstellen).
+1. Klicken Sie auf **Entwurf bearbeiten** (Wenn das Formular bereits genehmigt wurde, klicken Sie auf &quot;Entwurf erstellen&quot;).
 
    ![](assets/enable-captcha-in-marketo-forms-2.png)
 
-1. Klicken **Formulareinstellungen**, dann **Einstellungen**.
+1. Klicken Sie auf **Formulareinstellungen** und dann auf **Einstellungen**.
 
    ![](assets/enable-captcha-in-marketo-forms-3.png)
 
-1. Öffnen Sie die Dropdown-Liste CAPTCHA und wählen Sie **Aktiviert**.
+1. Öffnen Sie die Dropdown-Liste CAPTCHA und wählen Sie **Aktiviert** aus.
 
    ![](assets/enable-captcha-in-marketo-forms-4.png)
 
-1. Klicken **Beenden**.
+1. Klicken Sie auf **Beenden**.
 
    ![](assets/enable-captcha-in-marketo-forms-5.png)
 
-1. Klicken **Genehmigen und schließen**.
+1. Klicken Sie auf **Genehmigen und schließen**.
 
    ![](assets/enable-captcha-in-marketo-forms-6.png)
 

@@ -6,7 +6,7 @@ exl-id: 11519e2c-ab01-4164-8ce3-0717e4c13ae6
 feature: Email Programs
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,11 @@ Wenn Sie sie jedoch in Marketo importieren, sehen Sie möglicherweise, dass die 
 
 Dies liegt daran, dass die Datei nicht ordnungsgemäß gespeichert wird, damit Marketo alle nicht lateinischen Zeichen erkennt. Die gute Nachricht ist, dass es ein paar einfache Schritte gibt, die Sie ausführen können, um es zu beheben.
 
-1. Auswählen **Speichern unter...** aus dem **Datei** in Excel.
+1. Wählen Sie **Speichern unter..** aus dem Menü **Datei** in Excel.
 
    ![](assets/image2015-2-10-9-3a46-3a44.png)
 
-1. Auswählen **UTF-16 Unicode-Text (.txt)** als **Format** -Option. Dadurch wird die Datei so kodiert, wie Marketo sie anzeigen kann.
+1. Wählen Sie **UTF-16 Unicode-Text (.txt)** als Option **Format** aus. Dadurch wird die Datei so kodiert, wie Marketo sie anzeigen kann.
 
    ![](assets/image2015-2-10-9-3a48-3a7.png)
 
@@ -39,7 +39,7 @@ Dies liegt daran, dass die Datei nicht ordnungsgemäß gespeichert wird, damit M
 
    >[!TIP]
    >
-   >Sie können die Textdatei mit **Notepad** wenn Sie Windows oder **TextEdit** wenn Sie eine Mac verwenden.
+   >Sie können die Textdatei mit **Notepad** öffnen, wenn Sie Windows verwenden, oder mit **TextEdit**, wenn Sie eine Mac verwenden.
 
    ![](assets/image2015-2-10-9-3a51-3a41.png)
 
@@ -47,13 +47,13 @@ Dies liegt daran, dass die Datei nicht ordnungsgemäß gespeichert wird, damit M
 
    ![](assets/image2015-2-10-9-3a55-3a53.png)
 
-1. Auswählen **Suchen und Ersetzen...** aus dem **Bearbeiten** Menü.
+1. Wählen Sie **Suchen und Ersetzen...** aus dem Menü **Bearbeiten**.
 
    ![](assets/image2015-2-10-9-3a59-3a8.png)
 
    >[!TIP]
    >
-   >Die entsprechende Aktion für Windows-Benutzer ist: **Bearbeiten > Ersetzen..**
+   >Die entsprechende Aktion für Windows-Benutzer ist: **Bearbeiten > Ersetzen..**.
 
 1. Fügen Sie die Registerkarte, die Sie in Schritt 4 kopiert haben, in das erste (zu ersetzende) Feld ein und geben Sie in das zweite Feld (ersetzen durch) ein Komma ein. Und klicken Sie auf **Alle**.
 

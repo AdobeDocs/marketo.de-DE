@@ -13,10 +13,10 @@ ht-degree: 0%
 
 # Neue Kategorie erstellen {#create-a-new-category}
 
-Sales Connect verfügt über zwei Standardkategorien, mit denen Sie Ihre Vorlagen organisieren können.
+Sales Connect verfügt über zwei Standardkategorien, die die Organisation Ihrer Vorlagen unterstützen.
 
-1. Klicken Sie auf **+** Symbol neben **Kategorien**.
+1. Klicken Sie auf das Symbol **+** neben **Kategorien**.
 
-1. Geben Sie einen Namen für die neue Kategorie ein und klicken Sie auf **Erstellen**.
+1. Geben Sie einen Namen für die neue Kategorie ein und klicken Sie dann auf **Erstellen**.
 
 Die neue Kategorie wird jetzt im Navigationsmenü angezeigt.

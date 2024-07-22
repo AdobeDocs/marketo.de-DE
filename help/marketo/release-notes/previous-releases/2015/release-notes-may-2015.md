@@ -6,12 +6,12 @@ exl-id: 29f42b17-58e3-4e45-a871-79d91a47fb9f
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '255'
 ht-degree: 8%
 
 ---
 
-# Versionshinweise: Mai 2015 {#release-notes-may}
+# Mai 2015 - Versionshinweise {#release-notes-may}
 
 Die folgenden Funktionen sind in der Version vom Mai 2015 enthalten. Informationen zur Verfügbarkeit von Funktionen finden Sie in Ihrer Marketo Edition. Stellen Sie nach der Veröffentlichung sicher, dass Sie zu den einzelnen Funktionen Links zu detaillierten Artikeln finden!
 
@@ -39,7 +39,7 @@ Ab dieser Version sind gültige HTML-Kommentare beim Erstellen neuer E-Mails nun
 
 ## RTP: Drag-and-drop-Segment-Editor {#rtp-drag-and-drop-segment-editor}
 
-RTP: [Ziehen und Ablegen des Segmenteditors](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)
+RTP: [Segment-Editor ziehen und ablegen](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)
 
 Ziehen Sie Ihre Kriterien per Drag-and-Drop in den Segment Builder, definieren Sie den Wert und Sie sind auf dem besten Weg, ein Echtzeit-Segment zu erstellen.
 

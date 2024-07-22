@@ -15,19 +15,19 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Erforderliche Administratorberechtigungen**
 
 Mit dieser Option kann Marketo Engage seine Programmmitgliedschaft und -status mit Salesforce-Kampagnen synchronisieren und umgekehrt.
 
-1. Navigieren Sie zu **[!UICONTROL Admin]** und klicken **[!DNL Salesforce]**.
+1. Wechseln Sie zu **[!UICONTROL Admin]** und klicken Sie auf **[!DNL Salesforce]**.
 
    ![](assets/image2014-12-9-13-3a36-3a49.png)
 
-1. Klicks **[!UICONTROL Einstellungen zur Synchronisierung bearbeiten]**.
+1. Klicken Sie auf **[!UICONTROL Synchronisierungseinstellungen bearbeiten]**.
 
    ![](assets/image2014-12-9-13-3a37-3a0.png)
 
-1. Überprüfen **[!UICONTROL Salesforce-Kampagnensynchronisierung aktivieren]** und klicken **[!UICONTROL Speichern]**.
+1. Aktivieren Sie die Option **[!UICONTROL Salesforce-Kampagnensynchronisation aktivieren]** und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/image2014-12-9-13-3a37-3a8.png)
 
@@ -36,5 +36,5 @@ Da hast du es. Geben Sie der Synchronisation einfach etwas Zeit, um die Daten vo
 >[!MORELIKETHIS]
 >
 >* [SFDC-Synchronisation: Kampagnensynchronisierung](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target="_blank"}
->* [Festlegen von standardmäßigen Nachnamen und Unternehmenswerten für Leads](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/set-default-person-last-name-and-company-name.md){target="_blank"}
+>* [Festlegen des standardmäßigen Nachnamens und der Unternehmenswerte für Leads](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/set-default-person-last-name-and-company-name.md){target="_blank"}
 >* [Aktivitätensynchronisierung anpassen](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md){target="_blank"}

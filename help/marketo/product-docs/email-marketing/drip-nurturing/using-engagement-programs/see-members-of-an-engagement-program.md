@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Sie können schnell die Mitglieder eines Interaktionsprogramms sehen. So geht es.
 
-1. Klicken Sie in Ihrem Interaktionsprogramm mit der rechten Maustaste und wählen Sie **Mitglieder anzeigen**.
+1. Klicken Sie im Interaktionsprogramm mit der rechten Maustaste und wählen Sie **Mitglieder anzeigen** aus.
 
    ![](assets/membersofengagement.jpg)
 
    >[!NOTE]
    >
-   >Die  [Abgelaufener Inhalt](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md) -Spaltenwert wird nach jeder Wiedergabe aktualisiert.
+   >Der Spaltenwert [Abgelaufener Inhalt](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md) wird nach jeder Wiedergabe aktualisiert.
 
 1. Sie können nun alle Mitglieder Ihres Programms sehen.
 

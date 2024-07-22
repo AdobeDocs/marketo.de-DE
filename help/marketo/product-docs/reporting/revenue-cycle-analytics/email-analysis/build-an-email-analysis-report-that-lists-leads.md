@@ -6,7 +6,7 @@ exl-id: f431610c-6570-4df0-9d64-d37d21010604
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,11 @@ Führen Sie die folgenden Schritte aus, um einen E-Mail-Analysebericht zu erstel
 >
 >Die Data Engine, die die RCA von E-Mail-Analysen unterstützt, ignoriert mehr als 12 Klicks pro Person, wenn sie von derselben E-Mail und Kampagne stammt. Beachten Sie dies beim Vergleich von Berichten zur E-Mail-Analyse mit standardmäßigen Marketo Analytics-Berichten.
 
-1. Launch **Umsatz-Explorer**.
+1. Starten Sie den **Umsatz-Explorer**.
 
    ![](assets/report-that-lists-leads-1.png)
 
-1. Klicken **Neu erstellen** then **Bericht**.
+1. Klicken Sie auf **Neu erstellen** und dann auf **Bericht**.
 
    ![](assets/report-that-lists-leads-2.png)
 
@@ -35,15 +35,15 @@ Führen Sie die folgenden Schritte aus, um einen E-Mail-Analysebericht zu erstel
 
    ![](assets/report-that-lists-leads-3.png)
 
-1. Suchen Sie den gelben Punkt &quot;E-Mail-Name&quot;, klicken Sie mit der rechten Maustaste darauf und wählen Sie **Filter**.
+1. Suchen Sie den gelben Punkt E-Mail-Name, klicken Sie mit der rechten Maustaste darauf und wählen Sie **Filter** aus.
 
    ![](assets/report-that-lists-leads-4.png)
 
-1. Doppelklicken Sie in der Liste auf die gewünschte E-Mail und klicken Sie auf **OK**.
+1. Doppelklicken Sie in der Liste auf die E-Mail Ihrer Wahl und klicken Sie auf **OK**.
 
    ![](assets/report-that-lists-leads-5.png)
 
-1. Ziehen Sie die **Email Name** gelber Punkt auf **Spalten**.
+1. Ziehen Sie den gelben Punkt **E-Mail-Name** auf **Spalten**.
 
    ![](assets/report-that-lists-leads-6.png)
 
@@ -51,11 +51,11 @@ Führen Sie die folgenden Schritte aus, um einen E-Mail-Analysebericht zu erstel
    >
    >Es gibt viele Lead-/Firmenattribute, die Sie als Spalten hinzufügen können.
 
-1. Suchen Sie die **Vollständiger Name** Gelber Punkt und ziehen Sie ihn auf **Zeilen**.
+1. Suchen Sie den gelben Punkt **Vollständiger Name** und ziehen Sie ihn auf **Zeilen**.
 
    ![](assets/report-that-lists-leads-7.png)
 
-1. Fügen Sie nun die **Maßnahmen** Sie sind daran interessiert, indem Sie darauf doppelklicken.
+1. Fügen Sie nun die **Kennzahlen** hinzu, die Sie interessieren, indem Sie darauf doppelklicken.
 
    ![](assets/report-that-lists-leads-8.png)
 

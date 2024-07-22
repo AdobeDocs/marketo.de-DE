@@ -19,7 +19,7 @@ Testen Sie ganze E-Mails gegeneinander. Wenn der Test vorüber ist, senden Sie d
 >
 >[E-Mail-Champion/Challenger hinzufügen](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. Wählen Sie im E-Mail-Test-Editor **Gesamte E-Mails** im **Testtyp** angezeigt.
+1. Wählen Sie im E-Mail-Test-Editor **Gesamte E-Mails** in der Dropdown-Liste **Testtyp** aus.
 
    ![](assets/image2014-9-12-16-3a39-3a14.png)
 
@@ -27,7 +27,7 @@ Testen Sie ganze E-Mails gegeneinander. Wenn der Test vorüber ist, senden Sie d
    >
    >Denken Sie daran: Die ursprüngliche E-Mail ist der Meister. Die Herausforderer konkurrieren dagegen.
 
-1. Suchen und Auswählen **Herausforderungen** E-Mail(s) und klicken Sie auf **Klonen**.
+1. Suchen und wählen Sie die E-Mail(n) **Challengers** aus und klicken Sie dann auf **Klonen** .
 
    ![](assets/image2015-8-10-11-3a46-3a28.png)
 
@@ -47,7 +47,7 @@ Testen Sie ganze E-Mails gegeneinander. Wenn der Test vorüber ist, senden Sie d
 
    Um statistische Genauigkeit zu erhalten, stellen Sie sicher, dass der Prozentsatz, den Sie Herausforderern zuweisen, genügend Personen enthält, damit Ihr Test gültig ist. Lassen Sie sich nicht von unschlüssigen Ergebnissen täuschen.
 
-1. Klicks **Nächste**.
+1. Klicken Sie auf **Weiter**.
 
    ![](assets/image2014-9-12-16-3a42-3a9.png)
 

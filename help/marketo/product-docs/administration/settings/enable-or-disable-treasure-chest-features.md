@@ -7,7 +7,7 @@ feature: Administration
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '85'
-ht-degree: 5%
+ht-degree: 0%
 
 ---
 
@@ -19,19 +19,19 @@ Die Schatztruhe bietet lustige experimentelle Funktionen, die nicht vollständig
 >
 >**Erforderliche Administratorberechtigungen**
 
-1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
+1. Wechseln Sie zum Bereich **[!UICONTROL Admin]** .
 
    ![](assets/enable-or-disable-treasure-chest-features-1.png)
 
-1. Klicken **[!UICONTROL Schatztruhe]**.
+1. Klicken Sie auf **[!UICONTROL Schatztruhe]**.
 
    ![](assets/enable-or-disable-treasure-chest-features-2.png)
 
-1. Klicken **[!UICONTROL Bearbeiten]** für die Funktion, die Sie aktivieren oder deaktivieren möchten.
+1. Klicken Sie für die Funktion, die Sie aktivieren oder deaktivieren möchten, auf **[!UICONTROL Bearbeiten]** .
 
    ![](assets/enable-or-disable-treasure-chest-features-3.png)
 
-1. Überprüfen Sie die **[!UICONTROL Aktiviert]** aktivieren bzw. deaktivieren Sie diese Option, und klicken Sie auf **[!UICONTROL Speichern]**.
+1. Aktivieren Sie das Kontrollkästchen **[!UICONTROL Aktiviert]** , um die Aktivierung zu aktivieren, oder deaktivieren Sie es, und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/enable-or-disable-treasure-chest-features-4.png)
 

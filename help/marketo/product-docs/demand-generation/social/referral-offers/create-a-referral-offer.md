@@ -19,11 +19,11 @@ Verweisangebote geben den Menschen einen Anreiz, ihre Freunde zu verweisen. Erst
 >
 >Nicht alle Marketo Engage-Benutzer haben diese Funktion erworben. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).
 
-1. Wählen Sie im Programm die Option **Neu** > **Neues lokales Asset**.
+1. Wählen Sie in Ihrem Programm **Neu** > **Neues lokales Asset** aus.
 
    ![](assets/image2014-9-19-11-3a3-3a23.png)
 
-1. Im **Lokale Asset-Galerie** klicken **Verweisangebot**.
+1. Klicken Sie in der **lokalen Asset-Galerie** auf **Verweisangebot**.
 
    ![](assets/image2014-9-19-11-3a3-3a31.png)
 
@@ -33,31 +33,31 @@ Verweisangebote geben den Menschen einen Anreiz, ihre Freunde zu verweisen. Erst
 
    >[!TIP]
    >
-   >Um Zeit zu sparen, können Sie die **Klonen von** -Option, um alle Einstellungen aus einem vorhandenen Verweisangebot zu kopieren.
+   >Um Zeit zu sparen, können Sie die Option **Klonen von** verwenden, um alle Einstellungen aus einem vorhandenen Verweisangebot zu kopieren.
 
    Der Editor für Verweise wird in einem neuen Fenster geöffnet. Die Standardeinstellungen sind alle gut, Sie müssen jedoch einen Link zu den Regeln Ihres Angebots (Bedingungen) hinzufügen. Der Link wird unten auf den Bildschirmen zur Freigabe von Nachrichten angezeigt. Wir zeigen Ihnen wie im nächsten Schritt.
 
-1. Klicks **Erweiterte Optionen**.
+1. Klicken Sie auf **Erweiterte Optionen**.
 
    ![](assets/image2014-9-19-11-3a3-3a49.png)
 
-1. Fügen Sie einen Link zu den Regeln Ihres Angebots hinzu. Geben Sie die **URL**.
+1. Fügen Sie einen Link zu den Regeln Ihres Angebots hinzu. Geben Sie die **URL** ein.
 
    ![](assets/image2014-9-19-11-3a3-3a57.png)
 
    >[!NOTE]
    >
-   >Auf diesem Bildschirm können Sie auch einen Link zu Datenschutzrichtlinien hinzufügen. Siehe  [Hinzufügen Ihrer Datenschutzrichtlinie zu einer Social App](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md).
+   >Auf diesem Bildschirm können Sie auch einen Link zu Datenschutzrichtlinien hinzufügen. Siehe [Hinzufügen Ihrer Datenschutzrichtlinie zu einer Social App](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md).
 
-1. Klicks **Beenden**.
+1. Klicken Sie auf **Beenden**.
 
    ![](assets/image2014-9-19-11-3a4-3a4.png)
 
-1. Klicks **Genehmigen und schließen**.
+1. Klicken Sie auf **Genehmigen und schließen**.
 
    >[!TIP]
    >
-   >Um die Standardeinstellungen Ihres Verweisangebots zu ändern, klicken Sie auf **Zurück**. Um Ihre Arbeit für einen späteren Zeitpunkt ohne Genehmigung zu speichern, klicken Sie auf **Schließen**.
+   >Klicken Sie auf **Zurück**, um die Standardwerte in Ihrem Verweisangebot zu ändern. Um Ihre Arbeit für einen späteren Zeitpunkt zu speichern, ohne sie zu genehmigen, klicken Sie auf **Schließen**.
 
    ![](assets/image2014-9-19-11-3a4-3a11.png)
 
@@ -71,4 +71,4 @@ Herzlichen Glückwunsch! Sie haben Ihr Verweisangebot erstellt.
 
 >[!MORELIKETHIS]
 >
->Der nächste Schritt besteht darin, [Veröffentlichen Ihres Verweisangebots](/help/marketo/product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md) auf einer Landingpage, auf Ihrer Website oder in Facebook.
+>Der nächste Schritt besteht darin, Ihr Verweisangebot ](/help/marketo/product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md) auf einer Landingpage, auf Ihrer Website oder in Facebook zu veröffentlichen.[

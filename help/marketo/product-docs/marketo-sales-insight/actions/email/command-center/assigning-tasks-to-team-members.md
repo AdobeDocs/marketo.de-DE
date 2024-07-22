@@ -22,7 +22,7 @@ Wenn Sie mit anderen Team-Mitgliedern zusammenarbeiten möchten, kann die Zuweis
 
    ![](assets/assigning-tasks-to-team-members-1.png)
 
-1. Klicks **Aufgabe hinzufügen**.
+1. Klicken Sie auf **Aufgabe hinzufügen**.
 
    ![](assets/assigning-tasks-to-team-members-2.png)
 

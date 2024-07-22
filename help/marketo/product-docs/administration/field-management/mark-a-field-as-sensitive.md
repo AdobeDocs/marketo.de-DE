@@ -5,7 +5,7 @@ exl-id: 23af8344-4808-4f91-95e8-9c246153c8b3
 feature: Field Management
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,11 @@ Als Marketo-Administrator können Sie ein bestimmtes Feld als &quot;sensibel&quo
 >
 >Diese Funktion wird am Dienstag, den 11. Mai, für alle Marketo-Instanzen aktiviert.
 
-1. Klicken **[!UICONTROL Admin]**.
+1. Klicken Sie auf **[!UICONTROL Admin]**.
 
    ![](assets/mark-a-field-as-sensitive-1.png)
 
-1. Klicken **[!UICONTROL Feldverwaltung]**.
+1. Klicken Sie auf **[!UICONTROL Feldverwaltung]**.
 
    ![](assets/mark-a-field-as-sensitive-2.png)
 
@@ -30,7 +30,7 @@ Als Marketo-Administrator können Sie ein bestimmtes Feld als &quot;sensibel&quo
 
    ![](assets/mark-a-field-as-sensitive-3.png)
 
-1. Wählen Sie die **[!UICONTROL Feld als vertraulich markieren]** aktivieren.
+1. Aktivieren Sie das Kontrollkästchen **[!UICONTROL Feld als vertraulich markieren]** .
 
    ![](assets/mark-a-field-as-sensitive-4.png)
 

@@ -15,19 +15,19 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Auf diese Funktion kann nur vor der ersten Synchronisierung mit Salesforce zugegriffen werden. Einmal die **[!UICONTROL Jetzt synchronisieren]** -Taste gedrückt wird, kann dies nicht mehr durchgeführt werden.
+>Auf diese Funktion kann nur vor der ersten Synchronisierung mit Salesforce zugegriffen werden. Sobald die Schaltfläche **[!UICONTROL Jetzt synchronisieren]** gedrückt wird, kann dies nicht mehr durchgeführt werden.
 
 Bei der ersten Synchronisation mit Salesforce kombiniert Marketo Engage automatisch ähnlich benannte benutzerdefinierte Felder in einem Feld auf der Marketo-Seite, um sicherzustellen, dass die Daten mit Lead- und Kontaktobjekten im CRM ausgetauscht werden können. In diesem Artikel wird erläutert, wie Sie diese Zuordnungen anpassen können.
 
 ## Nicht zugeordnete Felder zuordnen {#map-unmapped-fields}
 
-Wenn ein Feld im [!UICONTROL Nicht zugeordnete Felder] -Ordner, bedeutet dies, dass er keinem ähnlichen Feld auf dem Lead oder Kontakt in Salesforce zugeordnet ist. Du kannst das reparieren.
+Wenn ein Feld im Ordner [!UICONTROL Nicht zugeordnete Felder] angezeigt wird, bedeutet dies, dass es keinem ähnlichen Feld im Lead oder Kontakt in Salesforce zugeordnet ist. Du kannst das reparieren.
 
-1. Klicks **[!UICONTROL Zuordnungen bearbeiten]**.
+1. Klicken Sie auf **[!UICONTROL Zuordnungen bearbeiten]**.
 
 ![](assets/image2014-12-9-13-3a31-3a0.png)
 
-1. Öffnen Sie die **[!UICONTROL Nicht zugeordnete benutzerdefinierte Felder]** Ordner.
+1. Öffnen Sie den Ordner **[!UICONTROL Nicht zugeordnete benutzerdefinierte Felder]** .
 
    ![](assets/two.png)
 
@@ -39,7 +39,7 @@ Wenn ein Feld im [!UICONTROL Nicht zugeordnete Felder] -Ordner, bedeutet dies, d
 
    ![](assets/three.png)
 
-1. Klicks **[!UICONTROL Abschließen von Zuordnungen]** wenn Sie fertig sind.
+1. Klicken Sie auf **[!UICONTROL Zuordnungen beenden]** , wenn Sie fertig sind.
 
    ![](assets/four.png)
 
@@ -47,15 +47,15 @@ Wenn ein Feld im [!UICONTROL Nicht zugeordnete Felder] -Ordner, bedeutet dies, d
 
 Wenn Sie ähnlich benannte Felder auf dem Lead und Kontaktobjekt haben, ordnet Marketo sie automatisch zu. Sie können davon ausgehen, dass sie unterschiedlich sind und unterschiedliche Daten enthalten. Brechen Sie die Zuordnung wie folgt ab.
 
-1. Klicks **[!UICONTROL Zuordnungen bearbeiten]**.
+1. Klicken Sie auf **[!UICONTROL Zuordnungen bearbeiten]**.
 
    ![](assets/image2014-12-9-13-3a31-3a37.png)
 
-1. Markieren Sie ein zugeordnetes Feld und klicken Sie auf **[!UICONTROL Break Mapping]** , um die Felder zu trennen.
+1. Markieren Sie ein zugewiesenes Feld und klicken Sie auf **[!UICONTROL Zuordnung aufheben]** , um die Felder zu trennen.
 
    ![](assets/image2014-12-9-13-3a31-3a47.png)
 
-1. Klicks **[!UICONTROL Abschließen von Zuordnungen]** wenn Sie fertig sind.
+1. Klicken Sie auf **[!UICONTROL Zuordnungen beenden]** , wenn Sie fertig sind.
 
    ![](assets/image2014-12-9-13-3a31-3a58.png)
 
@@ -63,7 +63,7 @@ Wenn Sie ähnlich benannte Felder auf dem Lead und Kontaktobjekt haben, ordnet M
 
 ## Schema zurücksetzen {#reset-schema}
 
-1. Wenn Sie beim Bearbeiten der Zuordnungen Änderungen am Schema in Salesforce vornehmen, können Sie die Änderungen abrufen, indem Sie auf **[!UICONTROL Schema zurücksetzen]**.
+1. Wenn Sie beim Bearbeiten der Zuordnungen Änderungen am Schema in Salesforce vornehmen, können Sie die Änderungen abrufen, indem Sie auf **[!UICONTROL Schema zurücksetzen]** klicken.
 
    * Alle Änderungen der Zuordnung werden zurückgesetzt!
    * Durch das Zurücksetzen des Schemas werden nur Felder hinzugefügt, nicht entfernt (auch wenn Sie sie für den Synchronisierungsbenutzer ausblenden).

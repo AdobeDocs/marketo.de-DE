@@ -14,11 +14,11 @@ ht-degree: 0%
 
 Erinnerungsaufgaben eignen sich hervorragend, um Ihren Kunden auf dem Laufenden zu bleiben und eine potenzielle Interaktion zu erzielen. Gehen Sie wie folgt vor, um eine Aufgabe zu erstellen.
 
-1. Klicks **Command Center**.
+1. Klicken Sie auf **Command Center**.
 
    ![](assets/create-and-assign-reminder-tasks-1.png)
 
-1. Aufgaben werden standardmäßig geöffnet. Klicks **Aufgabe hinzufügen**.
+1. Aufgaben werden standardmäßig geöffnet. Klicken Sie auf **Aufgabe hinzufügen**.
 
    ![](assets/create-and-assign-reminder-tasks-2.png)
 
@@ -38,7 +38,7 @@ Erinnerungsaufgaben eignen sich hervorragend, um Ihren Kunden auf dem Laufenden 
 
    ![](assets/create-and-assign-reminder-tasks-6.png)
 
-1. Wählen Sie das Datum aus, an dem die Aufgabe fällig wird.
+1. Wählen Sie das Datum aus, an dem die Aufgabe fällig ist.
 
    ![](assets/create-and-assign-reminder-tasks-7.png)
 
@@ -46,6 +46,6 @@ Erinnerungsaufgaben eignen sich hervorragend, um Ihren Kunden auf dem Laufenden 
 
    ![](assets/create-and-assign-reminder-tasks-8.png)
 
-1. Fügen Sie Details zu der Aufgabe hinzu, die Sie beim Abschließen der Aufgabe benötigen, z. B. Anruferbeschreibungen, eine InMail-Nachrichtenvorlage oder Anmerkungen zur Person. Klicks **Erstellen** wann geschehen.
+1. Fügen Sie Details zu der Aufgabe hinzu, die Sie beim Abschließen der Aufgabe benötigen, z. B. Anruferbeschreibungen, eine InMail-Nachrichtenvorlage oder Anmerkungen zur Person. Klicken Sie abschließend auf **Erstellen** .
 
    ![](assets/create-and-assign-reminder-tasks-9.png)

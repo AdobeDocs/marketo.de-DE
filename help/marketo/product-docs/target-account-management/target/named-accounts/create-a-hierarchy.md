@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Hierarchien sollen in CRMs erstellt werden. Wenn Sie jedoch kein CRM haben, führen Sie die folgenden Schritte aus, um eine Hierarchie manuell zu erstellen.
 
-1. Klicken Sie in &quot;Spezifische Konten&quot;auf die **Nach Hierarchie gruppieren** aktivieren.
+1. Klicken Sie in &quot;Spezifische Konten&quot;auf das Kontrollkästchen **Nach Hierarchie gruppieren** .
 
    ![](assets/create-a-hierarchy-1.png)
 
@@ -27,15 +27,15 @@ Hierarchien sollen in CRMs erstellt werden. Wenn Sie jedoch kein CRM haben, füh
 
    ![](assets/create-a-hierarchy-2.png)
 
-1. Klicken Sie auf **Spezifische Kontoaktionen** und wählen Sie **Link zum benannten Konto**.
+1. Klicken Sie auf das Dropdown-Menü **Aktionen für benannte Konten** und wählen Sie **Link zum benannten Konto** aus.
 
    ![](assets/create-a-hierarchy-3.png)
 
    >[!NOTE]
    >
-   >Wenn Sie die Verknüpfung von Konten aufheben möchten, gehen Sie wie oben beschrieben vor, wählen Sie jedoch **Verknüpfung von benanntem Konto aufheben**.
+   >Wenn Sie die Verknüpfung von Konten aufheben möchten, führen Sie die obigen Schritte aus, wählen Sie jedoch **Verknüpfung von benanntem Konto aufheben**.
 
-1. Wählen Sie ein übergeordnetes benanntes Konto aus der Dropdownliste aus und klicken Sie auf **Link**.
+1. Wählen Sie ein übergeordnetes benanntes Konto aus der Dropdown-Liste aus und klicken Sie auf **Link**.
 
    ![](assets/create-a-hierarchy-4.png)
 

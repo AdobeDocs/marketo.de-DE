@@ -7,7 +7,7 @@ feature: Predictive Content
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '101'
-ht-degree: 3%
+ht-degree: 7%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 3%
 
 Sie können einige Änderungen an Listen auf der Seite &quot;Alle Inhalte&quot;vornehmen.
 
-1. Im **Alle Inhalte** -Seite, bewegen Sie den Mauszeiger über die Zeile des Titels, den Sie bearbeiten möchten, und klicken Sie auf das Bearbeitungssymbol.
+1. Bewegen Sie auf der Seite &quot;**Alle Inhalte**&quot;den Mauszeiger über die Zeile des Titels, den Sie bearbeiten möchten, und klicken Sie auf das Bearbeitungssymbol.
 
    ![](assets/image2017-10-3-9-3a8-3a1.png)
 
@@ -23,10 +23,10 @@ Sie können einige Änderungen an Listen auf der Seite &quot;Alle Inhalte&quot;v
 
    ![](assets/edit-content-2.png)
 
-1. Klicken Sie auf **Kategorien** -Feld zum Hinzufügen/Entfernen von Kategorien. Wählen Sie neue aus der Dropdown-Liste aus. Sie können eine aktuell ausgewählte Kategorie entfernen, indem Sie auf ihre **X**.
+1. Klicken Sie auf das Feld **Kategorien** , um Kategorien hinzuzufügen/zu entfernen. Wählen Sie neue aus der Dropdown-Liste aus. Sie können eine aktuell ausgewählte Kategorie entfernen, indem Sie auf &quot;**X**&quot;klicken.
 
    ![](assets/edit-content-3.png)
 
-1. Überprüfen Sie die **Für prädiktiven Inhalt genehmigen** aktivieren oder deaktivieren Sie das Kontrollkästchen, um die Genehmigung aufzuheben. Klicks **Speichern** wann geschehen.
+1. Aktivieren Sie das Kontrollkästchen **Für prädiktiven Inhalt genehmigen** , um es zu genehmigen, oder deaktivieren Sie das Kontrollkästchen, um die Genehmigung aufzuheben. Klicken Sie auf **Speichern**, wenn Sie fertig sind.
 
    ![](assets/edit-content-4.png)

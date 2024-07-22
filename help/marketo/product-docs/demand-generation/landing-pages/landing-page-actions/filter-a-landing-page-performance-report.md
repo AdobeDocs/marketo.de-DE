@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Einstiegsseiten-Leistungsbericht filtern {#filter-a-landing-page-performance-report}
 
-Fokussieren Sie Ihre [Landingpage-Leistungsbericht](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md) auf Landingpages in Ihren Programmen (lokale Assets), in Design Studio (globale Assets) oder archivierten Assets.
+Konzentrieren Sie Ihren [Leistungsbericht für Landingpages](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md) auf Landingpages in Ihren Programmen (lokale Assets), auf Seiten in Design Studio (globale Assets) oder auf archivierte Seiten.
 
-1. Navigieren Sie zu **Analytics** (oder **Marketingaktivitäten**).
+1. Gehen Sie zu **Analytics** (oder **Marketingaktivitäten**).
 
    ![](assets/analyticstile.png)
 
@@ -23,7 +23,7 @@ Fokussieren Sie Ihre [Landingpage-Leistungsbericht](/help/marketo/product-docs/d
 
    ![](assets/image2014-9-18-15-3a46-3a6.png)
 
-1. Klicken Sie auf **Einrichtung** und ziehen Sie einen Filter.
+1. Klicken Sie auf die Registerkarte **Einrichtung** und ziehen Sie einen Filter.
 
    ![](assets/image2014-9-18-15-3a46-3a16.png)
 
@@ -39,6 +39,6 @@ Fokussieren Sie Ihre [Landingpage-Leistungsbericht](/help/marketo/product-docs/d
    >
    >Wenn Sie einen Ordner auswählen, enthält der Bericht alle Elemente, die der Ordner zum Zeitpunkt der Ausführung des Berichts enthält.
 
-1. Du bist fertig! Klicken Sie auf **Bericht** um Ihren gefilterten Bericht anzuzeigen.
+1. Du bist fertig! Klicken Sie auf die Registerkarte **Bericht** , um Ihren gefilterten Bericht anzuzeigen.
 
    ![](assets/image2014-9-18-15-3a47-3a21.png)

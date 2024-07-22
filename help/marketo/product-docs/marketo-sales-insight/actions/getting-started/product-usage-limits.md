@@ -5,8 +5,8 @@ exl-id: 899dc59e-85bf-408e-9687-e0ed823dd51f
 feature: Sales Insight Actions
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '231'
-ht-degree: 19%
+source-wordcount: '233'
+ht-degree: 15%
 
 ---
 
@@ -16,7 +16,7 @@ Unten finden Sie die Einschränkungen für die Verwendung erweiterter Funktionen
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions ist eine webbasierte Anwendung, die über die [Marketo Sales Insight-Paket](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. Dies wird manchmal als &quot;Marketo-Verkäufe&quot;oder einfach als &quot;Aktionen&quot;bezeichnet.
+>Marketo Sales Insight Actions ist eine webbasierte Anwendung, die über das [Marketo Sales Insight-Paket](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} in die Salesforce-Benutzeroberfläche integriert wird. Dies wird manchmal als &quot;Marketo-Verkäufe&quot;oder einfach als &quot;Aktionen&quot;bezeichnet.
 
 <table>
   <th>Funktionalität</th>
@@ -30,10 +30,10 @@ Unten finden Sie die Einschränkungen für die Verwendung erweiterter Funktionen
  <tr>
   <td>Verkaufs-E-Mail-Sendungen</td>
   <td>pro Benutzer/Tag</td>
-  <td>1.000</td>
+  <td>1</td>
  </tr>
  <tr>
-  <td>Massen-Verkaufs-E-Mail</td>
+  <td>Bulk Sales Email</td>
   <td>pro Versand</td>
   <td>200</td>
  </tr>
@@ -131,7 +131,7 @@ Unten finden Sie die Einschränkungen für die Verwendung erweiterter Funktionen
   <td>pro Instanz</td>
   <td>13</td>
  </tr>
-  <td>E-Mail-Identitäten</td>
+  <td>E-Mail-Adressen</td>
   <td>pro Benutzer</td>
   <td>2</td>
  </tr>

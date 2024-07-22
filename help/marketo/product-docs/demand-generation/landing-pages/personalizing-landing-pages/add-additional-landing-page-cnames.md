@@ -7,7 +7,7 @@ feature: Landing Pages
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '234'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
 
@@ -21,19 +21,19 @@ Möglicherweise möchten Sie Landingpage-CNAMEs hinzufügen, damit unterschiedli
 
 >[!TIP]
 >
->**Dieselbe Top-Level-Domain - Gut! Cookies werden freigegeben**.<br/> **go**.mycompany.com > **Info**.mycompany.com
+>**Dieselbe Domäne auf oberster Ebene - Gut! Cookies werden freigegeben**.<br/> **go**.mycompany.com > **info**.mycompany.com
 >
->**Verschiedene Top-Level-Domains - Schlecht! Cookies sind _not_ shared**.<br/> gehen.**mycompany**.com > go.**mynewcompany**.com
+>**Verschiedene Top-Level-Domänen - Schlecht! Cookies sind _nicht_ freigegeben**.<br/> los.**mycompany**.com > go.**mynewcompany**.com
 
 >[!NOTE]
 >
 >**Erforderliche Administratorberechtigungen**
 
-1. Navigieren Sie zum **Admin**-Bereich.
+1. Wechseln Sie zum Bereich **Admin** .
 
    ![](assets/add-additional-landing-page-cnames-1.png)
 
-1. Klicken **Mein Konto**.
+1. Klicken Sie auf **Mein Konto**.
 
    ![](assets/add-additional-landing-page-cnames-2.png)
 
@@ -43,25 +43,25 @@ Möglicherweise möchten Sie Landingpage-CNAMEs hinzufügen, damit unterschiedli
 
 ## Anfrage an IT senden {#send-request-to-it}
 
-1. Bitten Sie Ihre IT-Abteilung, den folgenden CNAME einzurichten: (Ersetzen Sie das Wort [CNAME] mit dem CNAME Ihrer Wahl und [Munchkin-ID] mit dem Text aus dem vorherigen Schritt).
+1. Bitten Sie Ihre IT-Abteilung, den folgenden CNAME einzurichten: (Ersetzen Sie das Wort [CNAME] durch den CNAME Ihrer Wahl und [Munchkin ID] durch den Text aus dem vorherigen Schritt).
 
-   [CNAME].YourCompany.com > [Munchkin-ID].mktoweb.com
+   [CNAME].YourCompany.com > [Munchkin ID].mktoweb.com
 
 ## Neuen CNAME hinzufügen {#add-a-new-cname}
 
-1. Nachdem Ihre IT-Abteilung den CNAME erstellt hat, wechseln Sie zum **Admin** Bereich.
+1. Nachdem Ihre IT-Abteilung den CNAME erstellt hat, wechseln Sie zum Bereich **Admin** .
 
    ![](assets/add-additional-landing-page-cnames-4.png)
 
-1. Klicken Sie auf **Landing Pages**.
+1. Klicken Sie auf **Landingpages**.
 
    ![](assets/add-additional-landing-page-cnames-5.png)
 
-1. Klicken **Neu** und wählen Sie **Neuer Domänenname**.
+1. Klicken Sie auf **Neu** und wählen Sie dann **Neuer Domänenname** aus.
 
    ![](assets/add-additional-landing-page-cnames-6.png)
 
-1. Geben Sie Ihre **Domänen-Alias.** Die **Standardseite** angezeigt, wenn der Besucher keine URL eingibt. Geben Sie an, wohin der Benutzer in diesem Fall wechseln sollte.
+1. Geben Sie Ihren **Domänennamen-Alias ein.** Die **Standardseite** wird angezeigt, wenn der Besucher keine URL eingibt. Geben Sie an, wohin der Benutzer in diesem Fall wechseln sollte.
 
    >[!NOTE]
    >
@@ -69,7 +69,7 @@ Möglicherweise möchten Sie Landingpage-CNAMEs hinzufügen, damit unterschiedli
 
    ![](assets/add-additional-landing-page-cnames-7.png)
 
-1. Geben Sie Ihre **Standardseite** und klicken Sie auf **Erstellen**.
+1. Geben Sie Ihre **Standardseite** ein und klicken Sie auf **Erstellen**.
 
    ![](assets/add-additional-landing-page-cnames-8.png)
 

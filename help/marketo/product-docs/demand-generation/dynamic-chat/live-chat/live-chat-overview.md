@@ -5,7 +5,7 @@ feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
 source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
 workflow-type: tm+mt
-source-wordcount: '645'
+source-wordcount: '665'
 ht-degree: 0%
 
 ---
@@ -20,17 +20,17 @@ Der Live-Chat ermöglicht es Website-Besuchern, mit Ihren Vertriebsmitarbeitern 
 
 ## Hinzufügen von Live-Chat-Agenten {#add-live-chat-agents}
 
-Um mit dem Live-Chat zu beginnen, müssen Sie Ihre Live-Chat-Agenten als [Benutzer in Adobe Admin Console](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"} and give them the [Live Chat permission](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"}. Danach können Sie eine [Live-Chat-Karte](#using-the-live-chat-card) in ein neues oder vorhandenes Dialogfeld.
+Um mit dem Live-Chat zu beginnen, müssen Sie Ihre Live-Chat-Agenten als [Benutzer in der Adobe Admin Console](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"} hinzufügen und ihnen die [Berechtigung zum Live-Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"} erteilen. Danach können Sie eine [Live-Chat-Karte](#using-the-live-chat-card) zu einem neuen oder vorhandenen Dialogfeld hinzufügen.
 
-Wenn Besucher über Ihr Dialogfeld einen Chat mit einem Agenten anfordern, haben Agenten mehrere [Benachrichtigungsoptionen](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}. When they click on the notification, they'll be taken to their [Agent Inbox](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md){target="_blank"} wo sie beginnen können, mit dem Besucher zu chatten.
+Wenn Besucher über Ihr Dialogfeld anfordern, mit einem Agenten zu chatten, haben Agenten mehrere [Benachrichtigungsoptionen](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}. Wenn sie auf die Benachrichtigung klicken, gelangen sie zum [Agenten-Posteingang](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md){target="_blank"}, wo sie mit dem Chat mit dem Besucher beginnen können.
 
 >[!NOTE]
 >
->Der Live-Agent-Avatar verwendet das Profilbild aus dem Adobe-Kontoprofil des Agenten. Gehen Sie wie folgt vor, um das Bild zu aktualisieren [diese Schritte](https://helpx.adobe.com/manage-account/using/edit-adobe-account-personal-profile.html){target="_blank"}.
+>Der Live-Agent-Avatar verwendet das Profilbild aus dem Adobe-Kontoprofil des Agenten. Um das Bild zu aktualisieren, führen Sie [diese Schritte](https://helpx.adobe.com/manage-account/using/edit-adobe-account-personal-profile.html){target="_blank"} aus.
 
 ## Verwenden der Live-Chat-Karte {#using-the-live-chat-card}
 
-Verwenden Sie die Live-Chat-Karte im [Stream-Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} wenn Sie möchten, dass Besucher mit einem Live-Agenten chatten.
+Verwenden Sie die Live-Chat-Karte im [Stream-Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}, wenn Sie möchten, dass Besucher mit einem Live-Agenten chatten.
 
 ![](assets/live-chat-overview-1.png)
 
@@ -61,7 +61,7 @@ Durch Klicken auf die Live-Chat-Karte im Stream können Sie festlegen, wie der B
   </tr>
     <tr> 
    <td><b>Benutzerspezifische Regeln</b></td>
-   <td>Alle benutzerspezifischen Regeln werden durchlaufen, wenn überlegt wird, wohin der Besucher weitergeleitet werden soll. Wenn der Besucher sich nicht für eine benutzerspezifische Regel qualifiziert, erhält er die Variable <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback" target="_blank">Fallback-Meldung zum Live-Chat</a>.</td>
+   <td>Alle benutzerspezifischen Regeln werden durchlaufen, wenn überlegt wird, wohin der Besucher weitergeleitet werden soll. Wenn der Besucher nicht für eine benutzerspezifische Regel qualifiziert ist, erhält er die <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback" target="_blank">Live-Chat-Fallback-Meldung</a>.</td>
   </tr> 
   <tr> 
    <td><b>Team</b></td>
@@ -78,11 +78,11 @@ Durch Klicken auf die Live-Chat-Karte im Stream können Sie festlegen, wie der B
 
 ### Aktivieren von Benachrichtigungen {#enabling-notifications}
 
-Live-Chat-Agenten sehen oben auf dem Bildschirm ein Banner, in dem sie sich anmelden: &quot;Bitte aktivieren Sie Browser-Benachrichtigungen, um Live-Chat-Benachrichtigungen zu erhalten&quot;. Klicks **Aktivieren**.
+Live-Chat-Agenten sehen oben auf dem Bildschirm ein Banner, in dem sie sich anmelden: &quot;Bitte aktivieren Sie Browser-Benachrichtigungen, um Live-Chat-Benachrichtigungen zu erhalten&quot;. Klicken Sie auf **Aktivieren**.
 
 ![](assets/live-chat-overview-4.png)
 
-Die Live-Chat-Agenten werden dann vom Browser aufgefordert, Benachrichtigungen anzuzeigen. Klicks **Zulassen**.
+Die Live-Chat-Agenten werden dann vom Browser aufgefordert, Benachrichtigungen anzuzeigen. Klicken Sie auf **Allow**.
 
 ![](assets/live-chat-overview-5.png)
 
@@ -102,12 +102,12 @@ Wenn ein Live-Chat an einen Agenten weitergeleitet wird, wird ihm oben auf dem B
 >
 >Sie können auch Browser-Benachrichtigungen einrichten, die Sie benachrichtigen, falls Sie nicht bei Dynamic Chat angemeldet sind.
 >
->* Browserbenachrichtigungen aktivieren in [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop){target="_blank"}
->* Browserbenachrichtigungen aktivieren in [Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}
+>* Browserbenachrichtigungen in [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop){target="_blank"} aktivieren
+>* Browserbenachrichtigungen in [Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"} aktivieren
 
 ### Zu beachten {#things-to-note}
 
-* Agenten haben 45 Sekunden Zeit, um zu antworten, bevor die &quot;Chat akzeptieren&quot;-Nachricht eine Zeitüberschreitung aufweist. Danach erhalten Besucher die [Fallback-Nachricht](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback){target="_blank"}. Für Dynamic Chat Prime-Abonnenten, für die die Routing-Option auf **Team**, wird ein weiterer Agent versucht, bevor die Ausweichmeldung angezeigt wird.
+* Agenten haben 45 Sekunden Zeit, um zu antworten, bevor die &quot;Chat akzeptieren&quot;-Nachricht eine Zeitüberschreitung aufweist. Danach erhalten Besucher die [Ausweichmeldung](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback){target="_blank"}. Bei Dynamic Chat Prime-Abonnenten, für die die Routing-Option auf **Team** festgelegt ist, wird ein weiterer Agent versucht, bevor die Ausweichmeldung angezeigt wird.
 * Derzeit sind 10 Live-Chats pro Agent erlaubt.
 
 >[!MORELIKETHIS]

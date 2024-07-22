@@ -15,4 +15,4 @@ ht-degree: 0%
 
 Wenn Ihre Anrufe nicht in Salesforce protokolliert werden, liegt dies möglicherweise daran, dass wir einen Lead/Kontakt in Salesforce nicht finden können.
 
-Damit sich Aufrufe beim richtigen Lead/Kontakt anmelden können, muss Sales Connect über die Salesforce-ID verfügen. Die Salesforce-ID am besten zu Sales Connect hinzufügen, indem Sie unsere [Push to Sales Connect](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md) Funktion. Wenn Sie Push to Sales Connect verwenden, wird die Salesforce-ID in die Kontaktmigration einbezogen.
+Damit sich Aufrufe beim richtigen Lead/Kontakt anmelden können, muss Sales Connect über die Salesforce-ID verfügen. Die beste Möglichkeit, die Salesforce-ID zu Sales Connect hinzuzufügen, ist die Verwendung unserer Funktion &quot;[Push to Sales Connect&quot;](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md). Wenn Sie Push to Sales Connect verwenden, wird die Salesforce-ID in die Kontaktmigration einbezogen.

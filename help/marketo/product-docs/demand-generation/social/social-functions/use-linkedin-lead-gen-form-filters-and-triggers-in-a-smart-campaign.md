@@ -19,7 +19,7 @@ Wenn Sie LinkedIn Lead Gen Forms aktiviert haben, können Sie sie als Filter und
 >
 >Wenn Personen ihre Informationen in einem LinkedIn Lead Gen-Formular übermitteln, werden diese Informationen sofort an Marketo gesendet. Das Formular wird dann in der Dropdown-Liste &quot;Lead Gen Form Name&quot;verfügbar gemacht. Formularnamen sind erst sichtbar, wenn mindestens eine Person das Formular gesendet hat.
 
-1. Verwenden Sie die **Ausfüllen des LinkedIn Lead Gen-Formulars** Trigger, unverzüglich Maßnahmen zu ergreifen, oder **Ausfüllen des LinkedIn Lead Gen-Formulars** nach geplanten Batch-Kampagnen oder standardmäßigem Filter für Smart-Listen filtern.
+1. Verwenden Sie den Trigger **LinkedIn Lead Gen-Formular ausfüllen** , um sofort Maßnahmen zu ergreifen, oder den Filter **LinkedIn Lead Gen-Formular ausfüllen** für geplante Batch-Kampagnen oder die standardmäßige Filterung nach Smart-Liste.
 
    ![](assets/screen-shot-2017-03-29-at-2.38.03-pm.png)
 

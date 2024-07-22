@@ -17,7 +17,7 @@ Haben Sie so viele Segmente, dass das Scrollen umständlich wird? Verwenden Sie 
 
 ## Taggen eines Segments {#tag-a-segment}
 
-1. Melden Sie sich bei Web-Personalisierung an und gehen Sie zu **Segmente**.
+1. Melden Sie sich bei Web Personalization an und gehen Sie zu **Segmente**.
 
    ![](assets/new-dropdown-segments-hand.jpg)
 
@@ -25,11 +25,11 @@ Haben Sie so viele Segmente, dass das Scrollen umständlich wird? Verwenden Sie 
 
    ![](assets/image2015-10-14-15-3a26-3a28.png)
 
-1. Um eine vorhandene Bezeichnung zu verwenden, klicken Sie auf **Beschriftung festlegen**, aktivieren Sie ein Kontrollkästchen und klicken Sie auf **Anwenden**.
+1. Um eine vorhandene Beschriftung zu verwenden, klicken Sie auf **Beschriftung festlegen**, aktivieren Sie ein Kontrollkästchen und klicken Sie auf **Anwenden**.
 
    ![](assets/image2015-10-14-15-3a34-3a42.png)
 
-1. Klicken Sie alternativ auf **Beschriftung festlegen**, geben Sie den neuen Titel ein und klicken Sie auf **Neu erstellen**.
+1. Um eine neue Beschriftung zu erstellen, klicken Sie auf **Beschriftung festlegen**, geben Sie den neuen Beschriftungsnamen ein und klicken Sie auf **Neu erstellen**.
 
    ![](assets/image2015-10-14-15-3a38-3a30.png)
 

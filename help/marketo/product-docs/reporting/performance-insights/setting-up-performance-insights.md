@@ -6,7 +6,7 @@ exl-id: f87bbaba-c2c1-4b83-9e07-f8a5d1f1738b
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '310'
 ht-degree: 3%
 
 ---
@@ -17,19 +17,19 @@ Gehen Sie wie folgt vor, um MPI einzurichten.
 
 ## Einrichtung von Chancen {#opportunity-setup}
 
-1. Klicks **Admin**.
+1. Klicken Sie auf **Admin**.
 
    ![](assets/admin.png)
 
-1. Klicks **Umsatzzyklusanalysen**.
+1. Klicken Sie auf **Umsatzzyklusanalysen**.
 
    ![](assets/two-2.png)
 
    >[!NOTE]
    >
-   >Wenn Sie keine RCA haben, müssen Sie **Programmanalyse** für Schritt 2.
+   >Wenn Sie keine RCA haben, müssen Sie für Schritt 2 die Option **Programmanalyse** auswählen.
 
-1. Klicken Sie unter Attribution auf **Bearbeiten**.
+1. Klicken Sie unter &quot;Attribution&quot;auf **Bearbeiten**.
 
    ![](assets/three-1.png)
 
@@ -56,7 +56,7 @@ Gehen Sie wie folgt vor, um MPI einzurichten.
 
 Aktualisieren Sie die Programmkosten für mindestens 12 Monate. Sie können dies manuell oder mithilfe der Programm-API tun. In diesem Beispiel machen wir es manuell.
 
-1. Klicks **Marketingaktivitäten**.
+1. Klicken Sie auf **Marketingaktivitäten**.
 
    ![](assets/ma.png)
 
@@ -64,33 +64,33 @@ Aktualisieren Sie die Programmkosten für mindestens 12 Monate. Sie können dies
 
    ![](assets/select-program.png)
 
-1. Klicken Sie auf **Einrichtung** Registerkarte.
+1. Klicken Sie auf die Registerkarte **Setup**.
 
    ![](assets/setup-tab.png)
 
-1. Ziehen **Periodenkosten** auf die Arbeitsfläche.
+1. Ziehen Sie **Period Cost** auf die Arbeitsfläche.
 
    ![](assets/period-cost.png)
 
-1. Legen Sie den Programmmonat vor mindestens 12 Monaten fest und klicken Sie auf **Ok**.
+1. Legen Sie den Programmmonat vor mindestens 12 Monaten fest und klicken Sie auf **OK**.
 
    ![](assets/set-period.png)
 
-1. Stellen Sie die Zeitraumkosten ein und klicken Sie auf **Speichern**.
+1. Legen Sie die Zeitraumkosten fest und klicken Sie auf **Speichern**.
 
    ![](assets/set-cost.png)
 
 Überprüfen Sie anschließend das Analytics-Verhalten, um anzugeben, ob ein bestimmter Kanal in die Analyse einbezogen werden soll. Legen Sie das Analytics-Verhalten fest (Normal, Einschließen, Operativ).
 
-1. Klicks **Admin**.
+1. Klicken Sie auf **Admin**.
 
    ![](assets/admin.png)
 
-1. Klicks **Tags**.
+1. Klicken Sie auf **Tags**.
 
    ![](assets/tags.png)
 
-1. Klicken Sie auf **+** , um die Kanalliste zu erweitern.
+1. Klicken Sie auf &quot;**+**&quot;, um die Kanalliste zu erweitern.
 
    ![](assets/channel.png)
 
@@ -98,7 +98,7 @@ Aktualisieren Sie die Programmkosten für mindestens 12 Monate. Sie können dies
 
    ![](assets/channel-click.png)
 
-1. Klicken Sie auf **Analytics-Verhalten** und wählen Sie das gewünschte Verhalten aus.
+1. Klicken Sie auf die Dropdownliste **Analytics-Verhalten** und wählen Sie das gewünschte Verhalten aus.
 
    ![](assets/edit-channel.png)
 
@@ -106,7 +106,7 @@ Aktualisieren Sie die Programmkosten für mindestens 12 Monate. Sie können dies
 
    ![](assets/success.png)
 
-1. Klicks **Speichern**.
+1. Klicken Sie auf **Speichern**.
 
    ![](assets/save.png)
 

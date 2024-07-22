@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Grundlegendes zu meinen Berichten und Gruppenberichten {#understanding-my-reports-and-group-reports}
 
-Sie können **Meine Berichte** und **Gruppenberichte** von [Analytics-Homepage](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md).
+Sie können **Meine Berichte** und **Gruppenberichte** auf der [Analytics-Startseite](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) erstellen.
 
 **Meine Berichte** sind nur für Sie sichtbar.
 
@@ -21,11 +21,11 @@ Sie können **Meine Berichte** und **Gruppenberichte** von [Analytics-Homepage](
 
 >[!NOTE]
 >
->Jeder Arbeitsbereich verfügt über eine Reihe von **Meine Berichte** und **Gruppenberichte**.
+>Jeder Arbeitsbereich verfügt über einen Satz von **Meine Berichte** und **Gruppenberichten**.
 
 ![](assets/image2015-4-21-14-3a41-3a22.png)
 
 >[!MORELIKETHIS]
 >
 >* [Einen Bericht speichern](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/save-a-report.md)
->* [Einen Bericht zu Gruppenberichten klonen](/help/marketo/product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md)
+>* [Klonen eines Berichts zur Gruppierung von Berichten](/help/marketo/product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md)

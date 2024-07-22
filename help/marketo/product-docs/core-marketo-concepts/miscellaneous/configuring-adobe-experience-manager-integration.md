@@ -35,7 +35,7 @@ Konfigurieren Sie Adobe Experience Manager (AEM), damit Sie auf AEM Assets zugre
 
    ![](assets/two.png)
 
-1. In **[!UICONTROL Instrumente]** klicken **[!UICONTROL Aktivitäten]** und wählen **[!UICONTROL Web-Konsole]**.
+1. Klicken Sie in **[!UICONTROL Tools]** auf **[!UICONTROL Vorgänge]** und wählen Sie **[!UICONTROL Web-Konsole]** aus.
 
    ![](assets/2a.png)
 
@@ -43,23 +43,23 @@ Konfigurieren Sie Adobe Experience Manager (AEM), damit Sie auf AEM Assets zugre
 
    ![](assets/three.png)
 
-1. Klicken Sie auf **+** rechts.
+1. Klicken Sie auf das Symbol **+** rechts.
 
    ![](assets/four.png)
 
-1. Im **[!UICONTROL Zulässiger Ursprung (Regexp)]** Textfeld, Eingabe `https://.*\.marketo\.com` und klicken **[!UICONTROL Speichern]**.
+1. Geben Sie im Textfeld **[!UICONTROL Zulässiger Ursprung (Regexp)]** den Wert `https://.*\.marketo\.com` ein und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/five-psd.png)
 
-1. Klicken Sie in der Kopfzeile oben auf der Seite auf **[!UICONTROL Web-Konsole]** und wählen **[!UICONTROL Systeminformationen]**.
+1. Klicken Sie in der Kopfzeile oben auf der Seite auf **[!UICONTROL Web-Konsole]** und wählen Sie **[!UICONTROL Systeminformationen]** aus.
 
    ![](assets/six.png)
 
-1. Klicken Sie unter &quot;Serverinformationen&quot;auf die **[!UICONTROL Neu starten]** Schaltfläche.
+1. Klicken Sie unter &quot;Server Information&quot;auf die Schaltfläche **[!UICONTROL Neu starten]** .
 
    ![](assets/seven.png)
 
-1. Klicks **[!UICONTROL OK]** zur Bestätigung.
+1. Klicken Sie zur Bestätigung auf **[!UICONTROL OK]** .
 
    ![](assets/eight.png)
 
@@ -67,11 +67,11 @@ Konfigurieren Sie Adobe Experience Manager (AEM), damit Sie auf AEM Assets zugre
 
    ![](assets/nine.png)
 
-1. Wählen Sie unter Integration die Option **[!UICONTROL Adobe Experience Manager]**.
+1. Wählen Sie unter &quot;Integration&quot;die Option **[!UICONTROL Adobe Experience Manager]**.
 
    ![](assets/ten.png)
 
-1. Klicks **[!UICONTROL Bearbeiten]**.
+1. Klicken Sie auf **[!UICONTROL Bearbeiten]**.
 
    ![](assets/eleven.png)
 

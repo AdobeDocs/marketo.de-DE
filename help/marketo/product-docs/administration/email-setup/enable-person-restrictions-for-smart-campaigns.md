@@ -7,13 +7,13 @@ feature: Email Setup
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '150'
-ht-degree: 4%
+ht-degree: 0%
 
 ---
 
 # Aktivieren von Personenbeschränkungen für Smart-Kampagnen {#enable-person-restrictions-for-smart-campaigns}
 
-In Marketo gibt es eine Funktion, mit der die _maximum_ Anzahl der Personen, die sich für eine Smart-Kampagne qualifizieren können. Dadurch wird verhindert, dass versehentlich Ihre gesamte Datenbank per E-Mail versendet wird.
+Es gibt eine Funktion in Marketo, mit der die _maximale_ Anzahl von Personen begrenzt wird, die sich für eine Smart-Kampagne qualifizieren können. Dadurch wird verhindert, dass versehentlich Ihre gesamte Datenbank per E-Mail versendet wird.
 
 >[!NOTE]
 >
@@ -23,15 +23,15 @@ In Marketo gibt es eine Funktion, mit der die _maximum_ Anzahl der Personen, die
 >
 >Dies gilt nur für Batch-Kampagnen und E-Mail-Programme.
 
-1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
+1. Wechseln Sie zum Bereich **[!UICONTROL Admin]** .
 
    ![](assets/enable-person-restrictions-for-smart-campaigns-1.png)
 
-1. Klicken **[!UICONTROL Smart Campaign]**.
+1. Klicken Sie auf **[!UICONTROL Smart Campaign]**.
 
    ![](assets/enable-person-restrictions-for-smart-campaigns-2.png)
 
-1. Klicken **[!UICONTROL Bearbeiten]**.
+1. Klicken Sie auf **[!UICONTROL Bearbeiten]**.
 
    ![](assets/enable-person-restrictions-for-smart-campaigns-3.png)
 
@@ -49,10 +49,10 @@ In Marketo gibt es eine Funktion, mit der die _maximum_ Anzahl der Personen, die
 
    >[!CAUTION]
    >
-   >Diese Beschränkung gilt für alle Smart-Kampagnen, kann aber auf Kampagnenebene überschrieben werden. Erfahren Sie, wie Sie [Außerkraftsetzen von Personenbeschränkungen in einer Smart-Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
+   >Diese Beschränkung gilt für alle Smart-Kampagnen, kann aber auf Kampagnenebene überschrieben werden. Erfahren Sie, wie Sie [Personenbeschränkungen in einer Smart-Kampagne außer Kraft setzen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
 
-Abgeschlossen! Du hast gerade den Sicherheitsschalter eingeschaltet.
+Fertig! Du hast gerade den Sicherheitsschalter eingeschaltet.
 
 >[!MORELIKETHIS]
 >
->[Überschreiben von Personenbeschränkungen in einer Smart-Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)
+>[ Überschreiben von Personenbeschränkungen in einer Smart-Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)

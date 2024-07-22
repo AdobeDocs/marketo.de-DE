@@ -7,13 +7,13 @@ feature: Social
 source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
 source-wordcount: '310'
-ht-degree: 6%
+ht-degree: 5%
 
 ---
 
 # Social-Profildaten verwalten {#manage-social-profile-data}
 
-Interaktion mit einer Marketo [Social App](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md), oder autorisiert ihr soziales Netzwerk, ein Marketo-Formular vorab auszufüllen mit [Ausfüllen des sozialen Formulars](/help/marketo/product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md), erfasst Marketo alle Daten, die über ihr Social-Profil verfügbar sind. Diese Informationen finden Sie im [Seite &quot;Personendetails&quot;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)oder fügen Sie sie als Spalte in einer [benutzerdefinierte Ansicht einer Smart-Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).
+Wenn ein Benutzer mit einer Marketo [Social-App](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md) interagiert oder sein soziales Netzwerk autorisiert, ein Marketo-Formular mit [Ausfüllen eines Social-Formulars](/help/marketo/product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md) im Voraus auszufüllen, erfasst Marketo alle Daten, die über sein Social-Profil verfügbar sind. Sie können diese Informationen auf der Seite [Personendetails](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) anzeigen oder sie als Spalte in einer [benutzerdefinierten Ansicht einer Smart-Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md) hinzufügen.
 
 Das Ausfüllen von Social-Formularen und Social-Apps erfassen geringfügig unterschiedliche Feldsätze. Weitere Informationen finden Sie im folgenden Abschnitt.
 
@@ -56,7 +56,7 @@ Je nach den Datenschutzeinstellungen des Netzwerks und des Benutzers werden eine
 
 >[!CAUTION]
 >
->Durch das Ausfüllen von sozialen Formularen erfasste Daten überschreiben übereinstimmende Felder, es sei denn, Sie [Blockaktualisierungen dieser Felder auf Formularebene](/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md).
+>Durch das Ausfüllen von sozialen Formularen erfasste Daten überschreiben übereinstimmende Felder, es sei denn, Sie [blockieren Aktualisierungen dieser Felder auf Formularebene](/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md).
 
 ## Von Twitter: {#from-twitter-1}
 
@@ -64,19 +64,19 @@ Je nach den Datenschutzeinstellungen des Netzwerks und des Benutzers werden eine
 * Nachname (basierend auf Anzeigename geparst)
 * E-Mail
 
-## Von Facebook: {#from-facebook-1}
+## In Facebook: {#from-facebook-1}
 
 * Vorname
 * Nachname
 * E-Mail
 * Geburtsdatum
-* Job-Titel
+* Jobtitel
 * Unternehmen
 
 >[!NOTE]
 >
->Durch das Ausfüllen eines Social-Formulars wird die E-Mail-Adresse erfasst _only_ wenn die Person sie in das Formular eingibt. Wenn Sie die E-Mail-Adresse benötigen, sollten Sie [Machen Sie es zu einem erforderlichen Feld in Ihrem Formular](/help/marketo/product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md).
+>Durch das Ausfüllen eines Social-Formulars wird die E-Mail-Adresse _nur_ erfasst, wenn die Person sie in das Formular eingibt. Wenn Sie die E-Mail-Adresse benötigen, sollten Sie sie [in Ihrem Formular als erforderliches Feld festlegen](/help/marketo/product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md).
 
 >[!MORELIKETHIS]
 >
->Um diese Informationen aus Formularen zu erfassen, aktivieren Sie [Ausfüllen des sozialen Formulars](/help/marketo/product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md).
+>Um diese Informationen aus Formularen zu erfassen, aktivieren Sie [Ausfüllen von Social-Formularen](/help/marketo/product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md).

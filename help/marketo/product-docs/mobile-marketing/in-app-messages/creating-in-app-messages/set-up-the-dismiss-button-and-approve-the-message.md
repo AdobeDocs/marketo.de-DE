@@ -6,7 +6,7 @@ exl-id: d7d2b4ad-efcb-4eb3-a741-ae51cfab2626
 feature: Mobile Marketing
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '347'
 ht-degree: 0%
 
 ---
@@ -49,7 +49,7 @@ Die Schaltfläche &quot;Beenden&quot;bietet viele Optionen, mit denen Sie sie be
 
 Alle Auswahlmöglichkeiten für Grafiken, Text und Schaltflächen wurden automatisch gespeichert. Jetzt bist du bereit, die Arbeit zu beenden.
 
-1. Um eine Vorschau Ihrer In-App-Nachricht anzuzeigen, klicken Sie auf die Schaltfläche **Nachrichtenaktionen** und wählen Sie **Vorschau**.
+1. Um eine Vorschau Ihrer In-App-Nachricht anzuzeigen, klicken Sie auf das Dropdown-Menü **Nachrichten-Aktionen** und wählen Sie **Vorschau** aus.
 
    ![](assets/image2016-5-9-10-3a58-3a38.png)
 
@@ -63,7 +63,7 @@ Alle Auswahlmöglichkeiten für Grafiken, Text und Schaltflächen wurden automat
 
    >[!NOTE]
    >
-   >Sie können auch **Genehmigen und schließen** direkt über das Dropdown-Menü Nachrichten-Aktionen (siehe Schritt 1), aber warum sollte die Nachricht nicht zuerst in der Vorschau angezeigt werden, nur um sicher zu sein?
+   >Sie können auch **Genehmigen und schließen** direkt aus dem Dropdown-Menü &quot;Nachrichtenaktionen&quot;auswählen (siehe Schritt 1). Warum sollten Sie die Nachricht nicht zuerst in der Vorschau anzeigen, nur um sicher zu sein?
 
 1. Um den Editor zu schließen, ohne ihn zu genehmigen, schließen Sie einfach die Registerkarte . Es wird automatisch gespeichert, sodass Sie es später erneut genehmigen können.
 
@@ -71,9 +71,9 @@ Alle Auswahlmöglichkeiten für Grafiken, Text und Schaltflächen wurden automat
 
 So viele Optionen, aber jetzt haben Sie eine großartige In-App-Nachricht, bereit zum Senden!
 
-Jetzt ist es Zeit, [Nachricht senden](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md).
+Jetzt ist es Zeit, [Ihre Nachricht zu senden](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md).
 
 >[!MORELIKETHIS]
 >
->* [In-App-Nachrichten verstehen](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->* [Auswählen eines Layouts für Ihre In-App-Nachricht](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
+>* [Grundlegendes zu In-App-Nachrichten](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+>* [Layout für Ihre In-App-Nachricht auswählen](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)

@@ -19,19 +19,19 @@ ht-degree: 0%
 
 Wenn Marketo-Benutzer ihren Lead-Feed nicht nur in Salesforce, sondern auch in einem RSS-Feed anzeigen möchten, muss er von einem Marketo-Administrator zuerst aktiviert werden. Es ist einfach.
 
-1. Klicken Sie in My Marketo auf **Admin** und dann **Sales Insight**.
+1. Klicken Sie in My Marketo auf **Admin** und dann auf **Sales Insight**.
 
    ![](assets/set-up-rss-1-hands.png)
 
-1. Klicken Sie unter &quot;Einstellungen&quot;auf **Bearbeiten**. Beachten Sie, dass der RSS-Feed als **Behinderte**.
+1. Klicken Sie unter &quot;Einstellungen&quot;auf **Bearbeiten**. Beachten Sie, dass der RSS-Feed als **Deaktiviert** angezeigt wird.
 
    ![](assets/rss-settings-tab.png)
 
-1. Aktivieren Sie im Dialogfeld Einstellungen bearbeiten die Option **RSS-Feed** Kontrollkästchen und klicken Sie auf **Speichern**.
+1. Aktivieren Sie im Dialogfeld Einstellungen bearbeiten das Kontrollkästchen **RSS-Feed** und klicken Sie auf **Speichern**.
 
    ![](assets/rss-edit-settings-2-hands.png)
 
-   Der RSS-Feed wird jetzt als **Aktiviert**.
+   Der RSS-Feed wird jetzt als **Aktiviert** angezeigt.
 
    ![](assets/rss-final-box.png)
 

@@ -24,7 +24,7 @@ Oben rechts im Bildschirm &quot;Agent-Posteingang&quot;haben Sie die Möglichkei
 
 >[!IMPORTANT]
 >
->**Dadurch wird** die [Live-Chat-Verfügbarkeit](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md#live-chat-availability){target="_blank"} die Sie in den Agenteneinstellungen festgelegt haben. Der Status bleibt erhalten, bis Sie ihn entweder zurückwechseln oder zum nächsten Zeitblock in Ihrer Verfügbarkeit wechseln.
+>**Dadurch wird** die in den Agenteneinstellungen festgelegte [Live-Chat-Verfügbarkeit](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md#live-chat-availability){target="_blank"} außer Kraft gesetzt. Der Status bleibt erhalten, bis Sie ihn entweder zurückwechseln oder zum nächsten Zeitblock in Ihrer Verfügbarkeit wechseln.
 
 >[!NOTE]
 >
@@ -32,7 +32,7 @@ Oben rechts im Bildschirm &quot;Agent-Posteingang&quot;haben Sie die Möglichkei
 
 ## Live-Chat-Benachrichtigungen {#live-chat-notifications}
 
-Weitere Informationen zu Benachrichtigungen finden Sie im Abschnitt [Live-Chat-Übersicht](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#live-chat-notifications){target="_blank"}.
+Erfahren Sie mehr über Benachrichtigungen in der [Live-Chat-Übersicht](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#live-chat-notifications){target="_blank"}.
 
 ## Konversationen {#conversations}
 
@@ -52,7 +52,7 @@ Auf der rechten Seite des Bildschirms &quot;Agent Inbox&quot;können Sie (von ob
 
 ## Sitzung beenden {#end-a-session}
 
-Support-Mitarbeiter können eine Sitzung manuell beenden, indem sie einfach auf **Sitzung beenden** neben den Besucherinformationen.
+Agenten können eine Sitzung manuell beenden, indem sie einfach auf die Schaltfläche **Sitzung beenden** neben den Besucherinformationen klicken.
 
 ![](assets/agent-inbox-6.png)
 
@@ -62,13 +62,13 @@ Support-Mitarbeiter können eine Sitzung manuell beenden, indem sie einfach auf 
 >
 >Diese Funktion ist Teil der generativen KI, die über das Dynamic Chat Prime-Abonnement verfügbar ist. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).
 
-Verknüpfungen, basierend auf der generativen KI [Reaktionsbibliothek](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md), ist eine großartige Möglichkeit, beim Chatten mit einem Besucher Hilfe zu erhalten. Geben Sie einfach einen Schrägstrich (`/`) in das Textfeld ein und wählen Sie `ask` oder `search`.
+Tastaturbefehle, die von der generativen AI [Response Library](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) unterstützt werden, sind eine großartige Möglichkeit, beim Chatten mit einem Besucher Hilfe zu erhalten. Geben Sie einfach einen Schrägstrich (`/`) in das Textfeld ein und wählen Sie `ask` oder `search`.
 
 ![](assets/agent-inbox-7.png)
 
-**Fragen** ist Hilfe bei der Beantwortung einer Frage.
+**Fragen** ist Hilfe bei Antworten auf eine Frage.
 
-1. Typ oder Auswahl `/ask` im Textfeld. Geben Sie Ihre Frage ein und drücken Sie die Eingabetaste auf der Tastatur.
+1. Geben Sie in das Textfeld den Wert `/ask` ein oder wählen Sie ihn aus. Geben Sie Ihre Frage ein und drücken Sie die Eingabetaste auf der Tastatur.
 
    ![](assets/agent-inbox-8.png)
 
@@ -76,9 +76,9 @@ Verknüpfungen, basierend auf der generativen KI [Reaktionsbibliothek](/help/mar
 
    ![](assets/agent-inbox-9.png)
 
-**Suche** dient der Suche nach Seiten, die sich auf bestimmten Text beziehen.
+**Suche** ist Hilfe bei der Suche nach Seiten, die sich auf bestimmten Text beziehen.
 
-1. Typ oder Auswahl `/search` im Textfeld.
+1. Geben Sie in das Textfeld den Wert `/search` ein oder wählen Sie ihn aus.
 
    ![](assets/agent-inbox-10.png)
 

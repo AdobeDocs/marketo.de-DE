@@ -13,22 +13,22 @@ ht-degree: 0%
 
 # Segmentierungsreihenfolge - Priorität {#segmentation-order-priority}
 
-Es ist wichtig zu verstehen, wie **bestellen** legt die Priorität für die Bewertung Ihrer Personen in einer Segmentierung fest.
+Es ist wichtig zu verstehen, wie **order** die Priorität für die Bewertung Ihrer Personen in einer Segmentierung festlegt.
 
 >[!PREREQUISITES]
 >
 >[Erstellen einer Segmentierung](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
->[Segmentregeln definieren](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
+>[Definieren von Segmentregeln](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
 
 >[!NOTE]
 >
 >Sie können eine Segmentierung nur im Entwurfsmodus bearbeiten.
 
-1. Navigieren Sie zu **Datenbank**.
+1. Wechseln Sie zur **Datenbank**.
 
    ![](assets/segmentation-order-priority-1.png)
 
-1. Wählen Sie **Segmentierung**. In **Segmentierungsaktionen** klicken **Segmente bearbeiten**.
+1. Wählen Sie Ihre **Segmentierung** aus. Klicken Sie in **Segmentierungsaktionen** auf **Segmente bearbeiten** .
 
    ![](assets/segmentation-order-priority-2.png)
 

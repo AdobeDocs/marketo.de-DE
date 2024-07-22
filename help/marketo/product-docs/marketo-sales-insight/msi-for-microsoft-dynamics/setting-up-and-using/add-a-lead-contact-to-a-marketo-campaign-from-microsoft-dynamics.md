@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Sie können innerhalb von Microsoft Dynamics schnell und einfach Leads/Kontakte zu Marketo-Smart-Kampagnen hinzufügen. So geht es.
 
-1. Wechseln Sie in Dynamics zum **Vertrieb** Bereich.
+1. Wechseln Sie in Dynamics zum Bereich **Verkauf** .
 
    ![](assets/image2014-10-20-12-3a9-3a56.png)
 
@@ -27,7 +27,7 @@ Sie können innerhalb von Microsoft Dynamics schnell und einfach Leads/Kontakte 
 
    ![](assets/image2014-10-20-12-3a10-3a19.png)
 
-1. Klicken **...** und wählen Sie **Zu Marketo Campaign hinzufügen**.
+1. Klicken Sie auf &quot;**..**&quot;und wählen Sie &quot;**Zu Marketo-Kampagne hinzufügen**&quot;.
 
    ![](assets/image2014-10-20-12-3a10-3a31.png)
 
@@ -37,6 +37,6 @@ Sie können innerhalb von Microsoft Dynamics schnell und einfach Leads/Kontakte 
 
    >[!NOTE]
    >
-   >Damit die Kampagne in der Dropdown-Liste angezeigt wird, verwenden Sie die  [**Kampagne wird angefordert** Trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md), wobei Sales Insight als Quelle dient, wenn Sie die Kampagne einrichten.
+   >Damit die Kampagne in der Dropdown-Liste angezeigt wird, verwenden Sie beim Einrichten der Kampagne den Trigger [**Kampagne ist angefordert** mit Sales Insight als Quelle.](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)
 
 Und das sind alles Leute! Jetzt verfügen Sie direkt von Dynamics aus über die Leistungsfähigkeit von Marketo-Smart-Kampagnen.

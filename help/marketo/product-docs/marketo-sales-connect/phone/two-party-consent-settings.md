@@ -6,7 +6,7 @@ exl-id: d0468ea1-3009-4190-ab9b-74c6fae955cb
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ Um die Einhaltung der US-amerikanischen Zustimmungsgesetze bei der Aufzeichnung 
 
 >[!PREREQUISITES]
 >
->Bevor Sie die folgenden Schritte ausführen, müssen Sie zunächst [Aufrufaufzeichnung aktivieren](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md).
+>Bevor Sie die folgenden Schritte ausführen, müssen Sie zunächst [die Aufrufaufzeichnung aktivieren](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md).
 
-1. Klicken Sie auf das Symbol Einstellungen und wählen Sie **Einstellungen**.
+1. Klicken Sie auf das Symbol Einstellungen und wählen Sie **Einstellungen** aus.
 
    ![](assets/one-1.png)
 
-1. Klicken Sie unter &quot;Admin Settings&quot;auf **Allgemein**.
+1. Klicken Sie unter &quot;Admin Settings&quot;auf **General**.
 
    ![](assets/two-1.png)
 
@@ -31,7 +31,7 @@ Um die Einhaltung der US-amerikanischen Zustimmungsgesetze bei der Aufzeichnung 
 
    ![](assets/three-1.png)
 
-1. Klicken **Importaufzeichnung**.
+1. Klicken Sie auf **Aufnahme importieren**.
 
    ![](assets/four-1.png)
 
@@ -43,7 +43,7 @@ Um die Einhaltung der US-amerikanischen Zustimmungsgesetze bei der Aufzeichnung 
 
    ![](assets/five.png)
 
-1. Nachdem der Upload abgeschlossen ist, wählen Sie die Daten (drei Punkte) im Dateimanager aus und klicken Sie auf **Als Einverständniserklärung auswählen**. Klicken **OK** wann geschehen.
+1. Nachdem der Upload abgeschlossen ist, wählen Sie die Daten (drei Punkte) im Dateimanager aus und klicken Sie auf **Als Einverständniserklärung auswählen**. Klicken Sie abschließend auf **OK** .
 
    ![](assets/six.png)
 

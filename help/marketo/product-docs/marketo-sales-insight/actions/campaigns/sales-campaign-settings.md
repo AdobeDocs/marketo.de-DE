@@ -22,7 +22,7 @@ Aktivieren Sie Wochenenden überspringen , damit alle Schritte, die an einem Woc
 >
 >Wenn Wochenenden überspringen aktiviert ist, werden E-Mails basierend auf einer Woche von 5 Tagen geplant. Wenn also ein Schritt geplant ist, werden Wochenenden als Tage ignoriert.
 
-1. Klicken **Kampagnen**.
+1. Klicken Sie auf **Kampagnen**.
 
    ![](assets/sales-campaign-settings-1.png)
 
@@ -30,11 +30,11 @@ Aktivieren Sie Wochenenden überspringen , damit alle Schritte, die an einem Woc
 
    ![](assets/sales-campaign-settings-2.png)
 
-1. Klicken Sie auf **Einstellungen** Registerkarte.
+1. Klicken Sie auf die Registerkarte **Einstellungen**.
 
    ![](assets/sales-campaign-settings-3.png)
 
-1. Wählen Sie die **Wochenenden überspringen** aktivieren.
+1. Aktivieren Sie das Kontrollkästchen **Wochenenden überspringen** .
 
    ![](assets/sales-campaign-settings-4.png)
 
@@ -42,7 +42,7 @@ Aktivieren Sie Wochenenden überspringen , damit alle Schritte, die an einem Woc
 
 Wenn Sie eine E-Mail-Verbindung verwenden, erkennen wir Bounces anhand der Bounce-Nachricht, die an den Benutzer-Posteingang gesendet wurde. Darüber hinaus können wir Personen aus Verkaufskampagnen entfernen, wenn ein Bounce erkannt wird.
 
-1. Klicken **Kampagnen**.
+1. Klicken Sie auf **Kampagnen**.
 
    ![](assets/sales-campaign-settings-5.png)
 
@@ -50,11 +50,11 @@ Wenn Sie eine E-Mail-Verbindung verwenden, erkennen wir Bounces anhand der Bounc
 
    ![](assets/sales-campaign-settings-6.png)
 
-1. Klicken Sie auf **Einstellungen** Registerkarte.
+1. Klicken Sie auf die Registerkarte **Einstellungen**.
 
    ![](assets/sales-campaign-settings-7.png)
 
-1. Wählen Sie die **Bei Bounce entfernen** aktivieren.
+1. Aktivieren Sie das Kontrollkästchen **Bei Absprung entfernen** .
 
    ![](assets/sales-campaign-settings-8.png)
 
@@ -62,7 +62,7 @@ Wenn Sie eine E-Mail-Verbindung verwenden, erkennen wir Bounces anhand der Bounc
 
 Wenn Sie das Antworten-Tracking für Gmail oder Exchange aktiviert haben, können wir Ihre Vertriebskampagne automatisch beenden, wenn ein Empfänger auf Ihre E-Mail antwortet.
 
-1. Klicken **Kampagnen**.
+1. Klicken Sie auf **Kampagnen**.
 
    ![](assets/sales-campaign-settings-9.png)
 
@@ -70,16 +70,16 @@ Wenn Sie das Antworten-Tracking für Gmail oder Exchange aktiviert haben, könne
 
    ![](assets/sales-campaign-settings-10.png)
 
-1. Klicken Sie auf **Einstellungen** Registerkarte.
+1. Klicken Sie auf die Registerkarte **Einstellungen**.
 
    ![](assets/sales-campaign-settings-11.png)
 
-1. under **Wenn eine Antwort erfolgt**, wählen Sie die gewünschten Optionen aus.
+1. Stellen Sie unter **Wenn eine Antwort eintritt** Ihre gewünschten Auswahl(en) ein.
 
    ![](assets/sales-campaign-settings-12.png)
 
 >[!MORELIKETHIS]
 >
 >* [Erstellen einer Verkaufskampagne](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}
->* [Grundlagen zu den Versandoptionen von Vertriebskampagnen für E-Mail-Schritte](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md){target="_blank"}
->* [Schritttypen und Erinnerungsaufgaben für Vertriebskampagnen](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
+>* [Optionen für den Versand von E-Mail-Schritten bei Vertriebskampagnen verstehen](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md){target="_blank"}
+>* [Schritttypen und Erinnerungsaufgaben für Verkaufskampagnen](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}

@@ -5,7 +5,7 @@ exl-id: 603e3eee-0531-4139-a8f5-279831ad011f
 feature: Programs
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -22,25 +22,25 @@ Bevor Sie einen Asset-Ablauf planen können, muss für Ihre Marketo-Rolle die en
 >
 >**Erforderliche Administratorberechtigungen**
 
-1. Im [!UICONTROL Admin] Bereich, klicken Sie **[!UICONTROL Benutzer und Rollen]**.
+1. Klicken Sie im Bereich [!UICONTROL Admin] auf **[!UICONTROL Benutzer und Rollen]**.
 
    ![](assets/local-asset-expiration-1.png)
 
-1. Klicken Sie auf **[!UICONTROL Rollen]** auf, wählen Sie den Benutzer aus, dem Sie Zugriff gewähren möchten, und klicken Sie auf **[!UICONTROL Rolle bearbeiten]**.
+1. Klicken Sie auf die Registerkarte **[!UICONTROL Rollen]**, wählen Sie den Benutzer aus, dem Sie Zugriff gewähren möchten, und klicken Sie dann auf **[!UICONTROL Rolle bearbeiten]**.
 
    ![](assets/local-asset-expiration-2.png)
 
-1. under [!UICONTROL Auf Marketing-Aktivitäten zugreifen]auswählen **[!UICONTROL Planen des Ablaufs eines lokalen Assets]** und klicken **[!UICONTROL Speichern]**.
+1. Wählen Sie unter &quot;[!UICONTROL Auf Marketingaktivitäten zugreifen]&quot;die Option &quot;**[!UICONTROL Ablauf lokaler Assets planen]**&quot;und klicken Sie auf &quot;**[!UICONTROL Speichern]**&quot;.
 
    ![](assets/local-asset-expiration-3.png)
 
 ## Ablaufdatum festlegen {#set-an-expiration-date}
 
-1. Klicken Sie mit der rechten Maustaste auf das gewünschte Programm und wählen Sie **[!UICONTROL Festlegen des lokalen Asset-Ablaufs]**.
+1. Klicken Sie mit der rechten Maustaste auf das gewünschte Programm und wählen Sie **[!UICONTROL Ablauf des lokalen Assets festlegen]** aus.
 
    ![](assets/local-asset-expiration-4.png)
 
-1. Überprüfen Sie die Assets, für die Sie ein Ablaufdatum festlegen möchten, und klicken Sie dann auf **[!UICONTROL Ablauf festlegen]**.
+1. Markieren Sie die Assets, für die Sie ein Ablaufdatum festlegen möchten, und klicken Sie dann auf **[!UICONTROL Gültigkeit festlegen]**.
 
    ![](assets/local-asset-expiration-5.png)
 
@@ -48,7 +48,7 @@ Bevor Sie einen Asset-Ablauf planen können, muss für Ihre Marketo-Rolle die en
 
    ![](assets/local-asset-expiration-6.png)
 
-1. Legen Sie eine Zeit fest. Sie müssen eine Zeit von mindestens 15 Minuten in der Zukunft planen (vergessen Sie nicht, AM/PM zu betreten). Klicks **[!UICONTROL Bestätigen]** wann geschehen.
+1. Legen Sie eine Zeit fest. Sie müssen eine Zeit von mindestens 15 Minuten in der Zukunft planen (vergessen Sie nicht, AM/PM zu betreten). Klicken Sie abschließend auf **[!UICONTROL Bestätigen]** .
 
    ![](assets/local-asset-expiration-7.png)
 
@@ -60,7 +60,7 @@ Bevor Sie einen Asset-Ablauf planen können, muss für Ihre Marketo-Rolle die en
 
 ## Ablaufdatum entfernen {#remove-an-expiration-date}
 
-1. Um ein Ablaufdatum zu entfernen, überprüfen Sie die Assets und klicken Sie auf **[!UICONTROL Ablauf entfernen]**.
+1. Um ein Ablaufdatum zu entfernen, aktivieren Sie die Assets und klicken Sie auf **[!UICONTROL Ablauf entfernen]**.
 
    ![](assets/local-asset-expiration-8.png)
 

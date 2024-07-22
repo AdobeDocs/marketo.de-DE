@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Vorgehensweise von Sales Connect beim Deduplizieren von E-Mails {#how-sales-connect-handles-email-de-duping}
 
-Wann bist du? [Hochladen einer CSV-Datei](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md) -Datei in Sales Connect zusammenführen, führen wir alle gleichen Kontakte in der CSV zusammen, bevor der Import erfolgt.
+Wenn Sie [ eine CSV](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md)-Datei in Sales Connect hochladen, führen wir alle gleichen Kontakte in der CSV zusammen, bevor der Import erfolgt.
 
 Dies geschieht anhand einer ähnlichen E-Mail-Adresse. Wenn es also zwei identische E-Mail-Adressen gibt, führen wir sie zu einem Kontakt zusammen.
 

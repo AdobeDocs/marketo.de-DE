@@ -1,10 +1,10 @@
 ---
 description: Interaktionsübersicht - Marketo-Dokumente - Produktdokumentation
 title: Interaktionsübersicht
-exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: 34545817fd35719290a848384e4bc9feba521305
+exl-id: 01cb283d-06c2-4a99-86a9-39dea9550c08
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '748'
+source-wordcount: '750'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,11 @@ Mit der Interaktionskarte können Sie Ihre Smart-Kampagnen intuitiv visualisiere
 
 ## Zugriff auf Interaktionszuordnung {#accessing-engagement-map}
 
-Navigieren Sie zu einer vorhandenen Kampagne und klicken Sie auf die Schaltfläche **Interaktionskarte** Schaltfläche.
+Navigieren Sie zu einer vorhandenen Kampagne und klicken Sie auf die Schaltfläche **Interaktionszuordnung** .
 
 ![](assets/engagement-map-overview-2.png)
 
-In der Interaktionszuordnung werden Ihnen zwei Registerkarten angezeigt: [Interaktionskarte](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} and [Settings](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}.
+In der Interaktionszuordnung werden zwei Registerkarten angezeigt: [Interaktionszuordnung](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} und [Einstellungen](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}.
 
 ![](assets/engagement-map-overview-3.png)
 
@@ -71,11 +71,11 @@ Die obere Navigationsleiste enthält die folgenden Funktionen:
 
 ## FAQs {#faq}
 
-**Muss ich alle meine Kampagnen in der Interaktionszuordnung neu erstellen?**
+**Muss ich alle meine Kampagnen in der Interaktionskarte neu erstellen?**
 
 Anz. Interaktionszuordnung ist vollständig abwärtskompatibel. Mit einem Klick auf eine Schaltfläche können Sie jede Ihrer vorhandenen Kampagnen auf der visuellen Interaktionszuordnungsoberfläche anzeigen.
 
-**Bedeutet die Verwendung von Interaktionskarten auf Marketo Engage, dass ich den Zugriff auf die Ordnerstruktur verlieren werde und neu lernen muss, wie eine Smart-Kampagne erstellt wird?**
+**Bedeutet die Verwendung von Interaktionskarten auf Marketo Engage, dass ich den Zugriff auf die Ordnerstruktur verliert und neu lernen muss, wie eine Smart-Kampagne erstellt wird?**
 
 Anz. Das Tolle an Interaktionskarten ist, dass sie Ihnen das Beste aus beiden Welten bieten. Sie ergänzen die aktuelle Art und Weise, wie Sie Kampagnen erstellen. Alle Benutzer erhalten weiterhin ein leistungsstarkes Marketo Engage-Feature Set, das jetzt durch klare Visualisierungen ergänzt wird.
 
@@ -99,5 +99,5 @@ Es gibt drei wichtige Dinge, die Interaktionskarten auseinander setzen:
 
 >[!MORELIKETHIS]
 >
->* [Registerkarte &quot;Interaktionskarte&quot;](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"}
+>* [Registerkarte &quot;Interaktionszuordnung&quot;](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"}
 >* [Registerkarte &quot;Einstellungen&quot;](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}

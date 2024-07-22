@@ -4,7 +4,7 @@ title: Deinstallieren von Marketo Sales Connect von Salesforce Classic
 exl-id: 17078054-a615-4f2f-bfde-f28fd3ff6f48
 source-git-commit: 544dfc0892016223c1e5976bd8c9d108ade7c984
 workflow-type: tm+mt
-source-wordcount: '1195'
+source-wordcount: '1197'
 ht-degree: 8%
 
 ---
@@ -15,19 +15,19 @@ Hier erfahren Sie, wie Sie das Marketo Sales Connect-Package aus Ihrem Salesforc
 
 ## Felder für Verkaufsverbindung aus Seitenlayout entfernen {#remove-sales-connect-fields-from-page-layout}
 
-1. Klicken Sie in Salesforce Classic auf **Einrichtung**.
+1. Klicken Sie in Salesforce Classic auf **Setup**.
 
    ![](assets/uninstall-salesforce-classic-customization-package-1.png)
 
-1. Erweitern Sie in der linken Navigationsleiste unter &quot;Erstellen&quot;die Option Anpassen (aber nicht klicken) und dann Leads. Wählen Sie anschließend **Seitenlayouts**.
+1. Erweitern Sie in der linken Navigationsleiste unter &quot;Erstellen&quot;die Option Anpassen (aber nicht klicken) und dann Leads. Wählen Sie dann **Seitenlayouts** aus.
 
    ![](assets/uninstall-salesforce-classic-customization-package-2.png)
 
-1. Klicken **Bearbeiten** neben Lead-Layout.
+1. Klicken Sie neben Lead-Layout auf **Bearbeiten** .
 
    ![](assets/uninstall-salesforce-classic-customization-package-3.png)
 
-1. Wählen Sie in der Konsole **Felder**. Suchen Sie in der Schnellsuche nach &quot;MSC&quot;. Alle ausgegrauten Felder wurden Ihrem Seitenlayout hinzugefügt. Sie werden sie löschen müssen.
+1. Wählen Sie in der Konsole **Felder** aus. Suchen Sie in der Schnellsuche nach &quot;MSC&quot;. Alle ausgegrauten Felder wurden Ihrem Seitenlayout hinzugefügt. Sie werden sie löschen müssen.
 
    ![](assets/uninstall-salesforce-classic-customization-package-4.png)
 
@@ -41,13 +41,13 @@ Hier erfahren Sie, wie Sie das Marketo Sales Connect-Package aus Ihrem Salesforc
 
 1. Es gibt 10 Typen von MSC-Feldern, die zu diesem Abschnitt hinzugefügt werden können. Entfernen Sie alle hinzugefügten Felder oder löschen Sie einfach den gesamten Abschnitt.
 
-1. Klicken **Quick Save** wann geschehen.
+1. Klicken Sie abschließend auf **Quick Save** .
 
    ![](assets/uninstall-salesforce-classic-customization-package-6.png)
 
 ## Entfernen von Verkaufsverbindungs-Schaltflächen aus Seitenlayouts {#remove-sales-connect-buttons-from-page-layouts}
 
-1. Wählen Sie in der Konsole (Schritt 4 oben) die Option **Schaltflächen**. Suchen Sie &quot;MSC&quot;. Alle ausgegrauten Schaltflächen wurden Ihrem benutzerdefinierten Schaltflächenabschnitt hinzugefügt. Sie werden sie löschen müssen.
+1. Wählen Sie in der Konsole (Schritt 4 oben) **Schaltflächen** aus. Suchen Sie &quot;MSC&quot;. Alle ausgegrauten Schaltflächen wurden Ihrem benutzerdefinierten Schaltflächenabschnitt hinzugefügt. Sie werden sie löschen müssen.
 
    ![](assets/uninstall-salesforce-classic-customization-package-7.png)
 
@@ -59,7 +59,7 @@ Hier erfahren Sie, wie Sie das Marketo Sales Connect-Package aus Ihrem Salesforc
 
    ![](assets/uninstall-salesforce-classic-customization-package-8.png)
 
-1. Klicken **Quick Save** wann geschehen.
+1. Klicken Sie abschließend auf **Quick Save** .
 
    ![](assets/uninstall-salesforce-classic-customization-package-9.png)
 
@@ -69,27 +69,27 @@ Hier erfahren Sie, wie Sie das Marketo Sales Connect-Package aus Ihrem Salesforc
 
    ![](assets/uninstall-salesforce-classic-customization-package-10.png)
 
-1. Wählen Sie im Bereich Ausgewählte Felder die Felder Verkaufsverbindung aus und klicken Sie auf den Pfeil Entfernen . Klicken **OK** wann geschehen.
+1. Wählen Sie im Bereich Ausgewählte Felder die Felder Verkaufsverbindung aus und klicken Sie auf den Pfeil Entfernen . Klicken Sie abschließend auf **OK** .
 
    ![](assets/uninstall-salesforce-classic-customization-package-11.png)
 
    >[!NOTE]
    >
-   >Abkürzung MSE _is_ Sales Connect. Es ist nur der vorherige Name &quot;Marketo Sales Engage&quot;.
+   >Die Abkürzung MSE _ist_ Sales Connect. Es ist nur der vorherige Name &quot;Marketo Sales Engage&quot;.
 
-1. Klicken **Speichern** wenn Sie mit der Lead-Seite fertig sind.
+1. Klicken Sie auf **Speichern** , wenn Sie mit der Lead-Seite fertig sind.
 
 ## Entfernen Sie die Aktionsschaltflächen &quot;Sales Connect&quot;-Massenaktion aus der Lead-Listenansicht. {#remove-sales-connect-bulk-action-buttons-from-lead-list-view}
 
-1. Erweitern Sie in der linken Navigationsleiste unter &quot;Erstellen&quot;die Option Anpassen (aber nicht klicken) und dann Leads. Wählen Sie anschließend **Suchlayouts**.
+1. Erweitern Sie in der linken Navigationsleiste unter &quot;Erstellen&quot;die Option Anpassen (aber nicht klicken) und dann Leads. Wählen Sie dann **Layouts durchsuchen** aus.
 
    ![](assets/uninstall-salesforce-classic-customization-package-12.png)
 
-1. Klicken Sie neben Leads-Listenansicht auf **Bearbeiten**.
+1. Klicken Sie neben der Leads-Listenansicht auf **Bearbeiten**.
 
    ![](assets/uninstall-salesforce-classic-customization-package-13.png)
 
-1. Auswählen **Zu MSC Campaign hinzufügen (Classic)**, **E-Mail mit MSC (Classic)** und **Push to MSC (Classic)** und klicken Sie auf den Pfeil &quot;Entfernen&quot;. Klicken Sie anschließend auf **Speichern**.
+1. Wählen Sie **Zu MSC-Kampagne hinzufügen (klassisch)**, **E-Mail mit MSC (klassisch)** und **Zum MSC pushen (klassisch)** und klicken Sie auf den Pfeil &quot;Entfernen&quot;. Klicken Sie dann auf **Speichern**.
 
    ![](assets/uninstall-salesforce-classic-customization-package-14.png)
 
@@ -99,7 +99,7 @@ Die Schaltflächen in der Liste der Leads sollten nicht mehr angezeigt werden.
 
 1. Klicken Sie in Salesforce auf **Einrichtung**.
 
-1. Erweitern Sie in der linken Navigationsleiste unter &quot;Erstellen&quot;die Option Anpassen (aber nicht klicken) und dann Kontakte. Wählen Sie anschließend **Seitenlayouts**.
+1. Erweitern Sie in der linken Navigationsleiste unter &quot;Erstellen&quot;die Option Anpassen (aber nicht klicken) und dann Kontakte. Wählen Sie dann **Seitenlayouts** aus.
 
 1. Klicken Sie neben Kontaktlayout auf **Bearbeiten**.
 
@@ -109,9 +109,9 @@ Die Schaltflächen in der Liste der Leads sollten nicht mehr angezeigt werden.
 
 1. Klicken Sie in Salesforce auf **Einrichtung**.
 
-1. Erweitern Sie in der linken Navigationsleiste unter &quot;Erstellen&quot;die Option Anpassen (aber nicht klicken) und dann Chancen . Wählen Sie anschließend **Seitenlayouts**.
+1. Erweitern Sie in der linken Navigationsleiste unter &quot;Erstellen&quot;die Option Anpassen (aber nicht klicken) und anschließend die Option Chancen . Wählen Sie dann **Seitenlayouts** aus.
 
-1. Klicken Sie neben Opportunity Layout auf **Bearbeiten**.
+1. Klicken Sie neben &quot;Opportunity Layout&quot;auf **Edit**.
 
 1. Wiederholen Sie die Schritte für alle drei Abschnitte.
 
@@ -123,7 +123,7 @@ Die Opportunity-Ansicht hat nur eine Schaltfläche - &quot;MSE-E-Mail senden&quo
 
 1. Klicken Sie in Salesforce auf **Einrichtung**.
 
-1. Erweitern Sie in der linken Navigationsleiste unter &quot;Erstellen&quot;die Option Anpassen (aber nicht klicken) und klicken Sie dann auf Konto . Wählen Sie anschließend **Seitenlayouts**.
+1. Erweitern Sie in der linken Navigationsleiste unter &quot;Erstellen&quot;die Option Anpassen (aber nicht klicken) und klicken Sie dann auf &quot;Konto&quot;. Wählen Sie dann **Seitenlayouts** aus.
 
 1. Klicken Sie neben Kontolayout auf **Bearbeiten**.
 
@@ -135,9 +135,9 @@ Die Kontoansicht hat nur eine Schaltfläche - &quot;MSE-E-Mail senden&quot;- und
 
 ## Marketo Sales Outbox entfernen {#remove-marketo-sales-outbox}
 
-1. Klicken Sie in Salesforce auf die **+** oben auf Ihrem Bildschirm.
+1. Klicken Sie in Salesforce oben auf Ihrem Bildschirm auf die Registerkarte **+** .
 
-1. Klicken **Benutzerdefinierte Registerkarten**.
+1. Klicken Sie auf **Meine Registerkarten anpassen**.
 
 1. Wählen Sie rechts die Option Marketo Sales Outbox aus. Klicken Sie auf den Pfeil Entfernen und dann auf **Speichern**.
 
@@ -149,9 +149,9 @@ Nachdem Sie alle Objekte aus Ihrem Salesforce-Konto entfernt haben, führen Sie 
 
 1. Geben Sie in das Feld &quot;Schnellsuche&quot;die Option &quot;Apex-Klassen&quot;ein.
 
-1. Klicken **Löschen** neben allen &quot;MarketoSalesConnectionCustomization&quot;- oder &quot;MarketoSalesEngageCustomization&quot;-Einträgen in Ihrer Liste.
+1. Klicken Sie auf **Löschen** neben allen Einträgen &quot;MarketoSalesConnectionCustomization&quot;oder &quot;MarketoSalesEngageCustomization&quot;in Ihrer Liste.
 
-Du bist ganz fertig!
+Das war’s schon!
 
 Im Folgenden finden Sie eine Liste aller Objekte, die aus Ihrer Salesforce-Instanz entfernt werden müssen:
 
@@ -226,7 +226,7 @@ Im Folgenden finden Sie eine Liste aller Objekte, die aus Ihrer Salesforce-Insta
  </tr>
  <tr>
   <td>URL der MSC-E-Mail-Vorlage</td>
-  <td>Protokolliert die URL auf die Vorlage, die in MSC erstellt wurde. Durch Klicken auf diese Option wird die Vorlage in der MSC-Web-App geöffnet</td>
+  <td>Protokolliert die URL auf die Vorlage, die in MSC erstellt wurde. Durch Klicken auf diese Option wird die Vorlage in der MSC-Web-App geöffnet.</td>
   <td>Aktivität</td>
   <td>Text</td>
  </tr>
@@ -258,7 +258,7 @@ Im Folgenden finden Sie eine Liste aller Objekte, die aus Ihrer Salesforce-Insta
   <p>Konto 
   <p>Kontakt 
   <p>Lead 
-  <p>Chance</td>
+  <p>Opportunity</td>
   <td>Daten und Zeit</td>
  </tr>
  <tr>
@@ -268,37 +268,37 @@ Im Folgenden finden Sie eine Liste aller Objekte, die aus Ihrer Salesforce-Insta
   <p>Konto 
   <p>Kontakt 
   <p>Lead 
-  <p>Chance</td>
+  <p>Opportunity</td>
   <td>Daten und Zeit</td>
  </tr>
  <tr>
-  <td>MSC - Letzter Marketing Engagement Desc</td>
+  <td>MSC - Letzte Marketing-Interaktion Desc</td>
   <td>Beschreibung der Interaktion</td>
   <td>
   <p>Konto 
   <p>Kontakt 
   <p>Lead 
-  <p>Chance</td>
+  <p>Opportunity</td>
   <td>Text</td>
  </tr>
  <tr>
-  <td>MSC - Letzte Marketing-Interaktionsquelle</td>
-  <td>Quelle der Marketing-Interaktion</td>
+  <td>MSC - Letzte Marketinginteraktion - Source</td>
+  <td>Source der Marketinginteraktion</td>
   <td>
   <p>Konto 
   <p>Kontakt 
   <p>Lead 
-  <p>Chance</td>
+  <p>Opportunity</td>
   <td>Text</td>
  </tr>
  <tr>
   <td>MSC - Letzter Marketing-Interaktionstyp</td>
-  <td>Art der Interaktion (z. B.: Web-Aktivität)</td>
+  <td>Art der Interaktion (z. B. Web-Aktivität)</td>
   <td>
   <p>Konto 
   <p>Kontakt 
   <p>Lead 
-  <p>Chance</td>
+  <p>Opportunity</td>
   <td>Text</td>
  </tr>
  <tr>
@@ -308,7 +308,7 @@ Im Folgenden finden Sie eine Liste aller Objekte, die aus Ihrer Salesforce-Insta
   <p>Konto 
   <p>Kontakt 
   <p>Lead 
-  <p>Chance</td>
+  <p>Opportunity</td>
   <td>Daten und Zeit</td>
  </tr>
  <tr>
@@ -318,7 +318,7 @@ Im Folgenden finden Sie eine Liste aller Objekte, die aus Ihrer Salesforce-Insta
   <p>Konto 
   <p>Kontakt 
   <p>Lead 
-  <p>Chance</td>
+  <p>Opportunity</td>
   <td>Daten und Zeit</td>
  </tr>
  <tr>
@@ -328,7 +328,7 @@ Im Folgenden finden Sie eine Liste aller Objekte, die aus Ihrer Salesforce-Insta
   <p>Konto 
   <p>Kontakt 
   <p>Lead 
-  <p>Chance</td>
+  <p>Opportunity</td>
   <td>Text</td>
  </tr>
  <tr>
@@ -338,7 +338,7 @@ Im Folgenden finden Sie eine Liste aller Objekte, die aus Ihrer Salesforce-Insta
   <p>Konto 
   <p>Kontakt 
   <p>Lead 
-  <p>Chance</td>
+  <p>Opportunity</td>
   <td>Daten und Zeit</td>
  </tr>
  <tr>
@@ -348,7 +348,7 @@ Im Folgenden finden Sie eine Liste aller Objekte, die aus Ihrer Salesforce-Insta
   <p>Konto 
   <p>Kontakt 
   <p>Lead 
-  <p>Chance</td>
+  <p>Opportunity</td>
   <td>Kontrollkästchen</td>
  </tr>
 </table>
@@ -366,7 +366,7 @@ Im Folgenden finden Sie eine Liste aller Objekte, die aus Ihrer Salesforce-Insta
   <p>Konto 
   <p>Kontakt 
   <p>Lead 
-  <p>Chance</td>
+  <p>Opportunity</td>
  </tr>
  <tr>
   <td>Zu MSC Campaign hinzufügen</td>

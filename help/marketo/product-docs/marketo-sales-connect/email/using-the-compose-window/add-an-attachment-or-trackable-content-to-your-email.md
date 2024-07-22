@@ -33,13 +33,13 @@ Beim Versand einer E-Mail über Sales Connect haben Sie die Möglichkeit, eine D
 
    ![](assets/attach-three.png)
 
-1. Wählen Sie die anzuhängende Datei aus und klicken Sie auf **Einfügen**.
+1. Wählen Sie die Datei aus, die Sie anhängen möchten, und klicken Sie auf **Einfügen**.
 
    ![](assets/attach-four.png)
 
    >[!NOTE]
    >
-   >Wenn Sie eine Datei hochladen müssen, klicken Sie auf das **Inhalt hochladen** rechts oben im Fenster.
+   >Wenn Sie eine Datei hochladen müssen, klicken Sie oben rechts im Fenster auf die Schaltfläche **Inhalt hochladen** .
 
    ![](assets/attach-five.png)
 
@@ -59,13 +59,13 @@ Der Anhang wird unten in Ihrer E-Mail angezeigt.
 
    ![](assets/three-4.png)
 
-1. Wählen Sie den Inhalt aus, den Sie hinzufügen möchten, und klicken Sie auf die **Inhalt wird verfolgt** und klicken Sie **Einfügen**.
+1. Wählen Sie den Inhalt aus, den Sie hinzufügen möchten, klicken Sie auf den Regler **Inhalt ist verfolgt** und klicken Sie auf **Einfügen**.
 
    ![](assets/four-4.png)
 
    >[!NOTE]
    >
-   >Wenn Sie eine Datei hochladen müssen, klicken Sie auf das **Inhalt hochladen** rechts oben im Fenster.
+   >Wenn Sie eine Datei hochladen müssen, klicken Sie oben rechts im Fenster auf die Schaltfläche **Inhalt hochladen** .
 
    Der Inhalt wird als Link in Ihrer E-Mail angezeigt. Der Empfänger kann auf den Link klicken, um den Inhalt herunterzuladen.
 

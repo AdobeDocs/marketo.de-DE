@@ -48,7 +48,7 @@ Die benannten Konten umfassen die Personen der Unternehmen, die Sie anvisieren. 
    <td>Summe aller Chancen in Ihrem CRM-System, die nicht geschlossen wurden oder verpasst wurden</td> 
   </tr> 
   <tr> 
-   <td><strong>Offene Opportunities</strong></td> 
+   <td><strong>Offene Chancen</strong></td> 
    <td>Alle Chancen in Ihrem CRM, die nicht geschlossen wurden verloren oder geschlossen sind.</td> 
   </tr> 
   <tr> 
@@ -61,7 +61,7 @@ Die benannten Konten umfassen die Personen der Unternehmen, die Sie anvisieren. 
   </tr> 
   <tr> 
    <td><strong>SIC-Code</strong></td> 
-   <td><span><strong>S</strong>Standard <strong>I</strong>Industrie <strong>C</strong>Klassifizierung - vierstelliger Code für die Klassifizierung von Branchen<br></span></td> 
+   <td><span><strong>S</strong>tandard <strong>I</strong>industry <strong>C</strong>klassifizierung - vierstelliger Code für die Klassifizierung von Branchen<br></span></td> 
   </tr> 
   <tr> 
    <td><strong>Umsatz</strong></td> 

@@ -6,7 +6,7 @@ exl-id: 4e2abd48-b0a5-4b71-939b-e66c7e39bb6c
 feature: Marketo Sales Insights
 source-git-commit: 4848676d423ff96c2e880819bc760b2f8dbbd094
 workflow-type: tm+mt
-source-wordcount: '618'
+source-wordcount: '621'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ Konfigurationen gelten für alle MSI-Benutzer und sind nicht profilspezifisch.
 
 ![](assets/marketo-sales-insight-configuration-tab-in-salesforce-2.png)
 
-**Registerkarte &quot;Marketo Global&quot;**
+**Globale Registerkarte &quot;Marketo&quot;**
 
 * RSS-Feed aktiviert: Wenn diese Option aktiviert ist, können MSI-Benutzer ihren Lead-Feed in einem RSS-Feed anzeigen (zusätzlich zum Lead-Feed in Salesforce). Der RSS-Feed kann nur funktionieren, wenn die Funktion &quot;Token-Ablauf&quot;deaktiviert ist. Diese Einstellung wird auf Ihrer Marketo Sales Insight-Administrationsseite gesteuert.
 * Debug-Modus für vielversprechende Kontakte

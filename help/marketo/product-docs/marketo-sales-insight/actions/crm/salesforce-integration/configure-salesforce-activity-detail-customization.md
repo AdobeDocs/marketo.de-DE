@@ -5,7 +5,7 @@ exl-id: 534ebdb5-7a5b-48eb-98f7-2d05a9eae8e8
 feature: Sales Insight Actions
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '709'
+source-wordcount: '699'
 ht-degree: 1%
 
 ---
@@ -14,14 +14,14 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->* Salesforce- und Sales Insight-Aktionen [muss verbunden sein](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md)
->* E-Mail-Aktivität über API protokollieren [muss aktiviert sein](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
+>* Salesforce- und Sales Insight-Aktionen [müssen verbunden sein](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md)
+>* Die Protokollierung der E-Mail-Aktivität über die API [muss aktiviert sein](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
 
 Die Anpassung der Aktivitätsdetails ermöglicht es Administratoren, die Informationen zu konfigurieren, die beim Feld Salesforce-Aufgabe - Betreff protokolliert werden, wenn eine Aktivität bzw. Erinnerung mit Salesforce synchronisiert wird.
 
 >[!NOTE]
 >
->* Aktualisierungen am Betrefffeld in Sales Insight-Aktionen einer Erinnerungsaufgabe werden im Betrefffeld der entsprechenden Salesforce-Aufgabe angezeigt, wenn Sie die `{{activity_subject}}` dynamisches Feld in Ihrer Aktivitätsdetailanpassung.
+>* Aktualisierungen am Betrefffeld in Sales Insight-Aktionen einer Erinnerungsaufgabe werden im Betrefffeld der entsprechenden Salesforce-Aufgabe angezeigt, wenn Sie das dynamische Feld `{{activity_subject}}` in Ihrer Aktivitätsdetailanpassung verwenden.
 >* Zeilenumbrüche werden bei der Protokollierung von Informationen in das Salesforce-Betrefffeld nicht unterstützt. Zeilenumbrüche im Editor zur Anpassung von Aktivitätsdetails werden entfernt, wenn ein Betreff einer Verkaufsaufgabe aktualisiert wird.
 
 ![](assets/configure-salesforce-activity-detail-customization-1.png)
@@ -103,19 +103,19 @@ Dynamische Felder der Aktivität Referenzinformationen zu Ihren Verkaufsaktivit�
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich.**
+>**Erforderliche Administratorberechtigungen.**
 
 Überlegen Sie bei der Konfiguration Ihrer Aktivitätsdetails, welche Daten bei der Überprüfung des Aufgabenverlaufs in Salesforce am relevantesten für den Vertrieb sind.
 
-1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen**.
+1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
 
    ![](assets/configure-salesforce-activity-detail-customization-3.png)
 
-1. Klicks **Salesforce**.
+1. Klicken Sie auf **Salesforce**.
 
    ![](assets/configure-salesforce-activity-detail-customization-4.png)
 
-1. Klicks **Einstellungen synchronisieren**.
+1. Klicken Sie auf **Einstellungen synchronisieren**.
 
    ![](assets/configure-salesforce-activity-detail-customization-5.png)
 
@@ -127,7 +127,7 @@ Dynamische Felder der Aktivität Referenzinformationen zu Ihren Verkaufsaktivit�
    >
    >Obwohl dies nicht erforderlich ist, kann es für einige Personen einfacher sein, zwischen den Daten zu unterscheiden, wenn sie in ein Subjektfeld in Salesforce eingefügt werden. Beispiel: `[Sales Insight Actions] - {{Activity_type}}`
 
-1. Fügen Sie die gewünschten dynamischen Felder hinzu, indem Sie auf die Schaltfläche **Dynamisches Feld hinzufügen** Schaltfläche.
+1. Fügen Sie beliebige weitere dynamische Felder hinzu, indem Sie auf die Schaltfläche **Dynamisches Feld hinzufügen** klicken.
 
    ![](assets/configure-salesforce-activity-detail-customization-7.png)
 
@@ -135,7 +135,7 @@ Dynamische Felder der Aktivität Referenzinformationen zu Ihren Verkaufsaktivit�
 
    ![](assets/configure-salesforce-activity-detail-customization-8.png)
 
-1. Klicks **Speichern**.
+1. Klicken Sie auf **Speichern**.
 
    ![](assets/configure-salesforce-activity-detail-customization-9.png)
 
@@ -146,4 +146,4 @@ Dynamische Felder der Aktivität Referenzinformationen zu Ihren Verkaufsaktivit�
 >[!MORELIKETHIS]
 >
 >* [Vertriebsaktivitäten mit Salesforce synchronisieren](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
->* [Erinnern von Aufgabensynchronisierung mit Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
+>* [Erinnern der Aufgabensynchronisierung mit Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)

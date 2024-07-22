@@ -19,7 +19,7 @@ Die Flussschritte werden von oben nach unten ausgeführt. So können Sie die Flu
 >
 >[Hinzufügen eines Flussschritts zu einer Smart-Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
 
-1. In Ihrer Smart-Kampagne **[!UICONTROL Fluss]** -Registerkarte, ziehen Sie einfach den Flussschritt an die gewünschte Position.
+1. Ziehen Sie in der Registerkarte &quot;Smart Campaign **[!UICONTROL Fluss]**&quot;den Flussschritt einfach an die gewünschte Position.
 
 ![](assets/reorder-the-flow-steps-in-a-smart-campaign-1.png)
 

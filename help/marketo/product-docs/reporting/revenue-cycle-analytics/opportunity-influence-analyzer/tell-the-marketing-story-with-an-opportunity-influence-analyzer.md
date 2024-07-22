@@ -19,27 +19,27 @@ Verwenden Sie einen Opportunity Influence Analyzer , um die Rolle des Marketing 
 >
 >[Erstellen eines Opportunity Influenza Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
 
-1. Navigieren Sie zu **Analytics** und wählen Sie die **Opportunity Influenza Analyzer**.
+1. Wechseln Sie zu **Analytics** und wählen Sie die Option **Opportunity Influence Analyzer** aus.
 
    ![](assets/analytics-opportunityhand.png)
 
    Der Opportunity Influence Analyzer ist eine visuelle Darstellung der Interaktionen und Programm- und Ereigniserfolge, die an dieser Gelegenheit beteiligt sind. Sehen wir uns das Diagramm an:
 
-   * ![—](assets/image2014-10-3-13-3a43-3a21.png) **Orangefarbene Punkte** Interessante Momente in der Gelegenheit darstellen (geöffnete E-Mails, Messestandbesuche, Whitepaper-Downloads usw.). Größere Punkte zeigen mehr Interaktionen an.
+   * ![—](assets/image2014-10-3-13-3a43-3a21.png) **Orangene Punkte** stellen interessante Momente in der Gelegenheit dar (geöffnete E-Mails, Messestände, Messebesuche, Whitepaper-Downloads usw.). Größere Punkte zeigen mehr Interaktionen an.
 
-   * ![—](assets/image2014-10-3-13-3a44-3a9.png) **Binder-Symbole** geben die Programmerfolge an.
+   * ![—](assets/image2014-10-3-13-3a44-3a9.png) **Binder-Symbole** zeigen Programmerfolge an.
 
-   * ![—](assets/image2014-10-3-13-3a44-3a40.png) **Kalendersymbole** geben Ereigniserfolge an.
+   * ![—](assets/image2014-10-3-13-3a44-3a40.png) **Kalendersymbole** zeigen Ereigniserfolge an.
 
    * **Opportunity period**. Der grüne Bereich stellt die Chance selbst dar, von der Schaffung von Chancen bis zur Schließung von Chancen (gewonnen oder verloren).
 
-   * **Lebenszyklus der Chancen**. Die Grauzonen vor und nach der Gründungsperiode zeigen die Interaktionen, die zu dieser Gelegenheit führten und diese auch verfolgten.
+   * **Lebenszyklus der Opportunity**. Die Grauzonen vor und nach der Gründungsperiode zeigen die Interaktionen, die zu dieser Gelegenheit führten und diese auch verfolgten.
 
-   Die **Einstellungen** -Bedienfeld listet die Personen aus dem Konto auf:
+   Im Bedienfeld **Einstellungen** werden die Personen aus dem Konto aufgelistet:
 
-   * Die **Zahl in Klammern** die Anzahl der Interaktionen mit diesem Kontakt.
+   * Die **Zahl in Klammern** ist die Anzahl der Interaktionen mit diesem Kontakt.
 
-   * ![—](assets/image2014-10-3-13-3a45-3a9.png)Die **Gelber Stern** gibt den Hauptkontakt an.
+   * ![—](assets/image2014-10-3-13-3a45-3a9.png)Der **gelbe Stern** gibt den primären Kontakt an.
 
 1. Bewegen Sie den Mauszeiger über einen Namen, um die Berufsbezeichnung dieser Person und die Quelle ihrer Beteiligung mit der Gelegenheit zu sehen.
 
@@ -61,4 +61,4 @@ Verwenden Sie einen Opportunity Influence Analyzer , um die Rolle des Marketing 
 
    >[!MORELIKETHIS]
    >
-   >[Konfigurieren von Opportunity Influenza Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/configure-an-opportunity-influence-analyzer.md)
+   >[Konfigurieren eines Opportunity Influenza Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/configure-an-opportunity-influence-analyzer.md)

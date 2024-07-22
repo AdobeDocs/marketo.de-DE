@@ -7,7 +7,7 @@ feature: Administration
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '149'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
 
@@ -15,15 +15,15 @@ ht-degree: 3%
 
 Wenn Sie einen bestimmten Satz von Feldern in der Person immer wieder suchen, sollten Sie ein benutzerdefiniertes Layout erstellen, um die Dinge zu vereinfachen.
 
-1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
+1. Wechseln Sie zum Bereich **[!UICONTROL Admin]** .
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-1.png)
 
-1. Klicks **[!UICONTROL Feldverwaltung]**.
+1. Klicken Sie auf **[!UICONTROL Feldverwaltung]**.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-2.png)
 
-1. Klicken Sie auf **[!UICONTROL Custom Layout Designer]** Registerkarte.
+1. Klicken Sie auf die Registerkarte **[!UICONTROL Designer für benutzerdefiniertes Layout]**.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-3.png)
 
@@ -39,7 +39,7 @@ Wenn Sie einen bestimmten Satz von Feldern in der Person immer wieder suchen, so
    >
    >Sie haben zwei Spalten, mit denen Sie arbeiten können.
 
-   Wenn Sie ein Feld entfernen möchten, klicken Sie mit der rechten Maustaste auf das zu entfernende Feld und klicken Sie auf **[!UICONTROL Löschen]**.
+   Wenn Sie sich dazu entscheiden, ein Feld zu entfernen, klicken Sie mit der rechten Maustaste auf das Feld, das Sie entfernen möchten, und klicken Sie auf **[!UICONTROL Löschen]**.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-6.png)
 

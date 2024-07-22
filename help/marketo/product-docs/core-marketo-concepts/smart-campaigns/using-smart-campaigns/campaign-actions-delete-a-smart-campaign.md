@@ -19,19 +19,19 @@ Wenn Sie eine alte Smart-Kampagne haben, die Sie nicht mehr benötigen, können 
 >
 >Stellen Sie sicher, bevor Sie löschen. Eine Smart-Kampagne kann nach dem Löschen nicht mehr wiederhergestellt werden.
 
-1. Navigieren Sie zu **[!UICONTROL Marketingaktivitäten]** Bereich.
+1. Wechseln Sie zum Bereich **[!UICONTROL Marketingaktivitäten]** .
 
    ![](assets/campaign-actions-delete-a-smart-campaign-1.png)
 
-1. Navigieren Sie zu Ihrer inaktiven Smart-Kampagne. Im **[!UICONTROL Kampagnenaktionen]** Dropdown-Liste auswählen **[!UICONTROL Löschen]**.
+1. Navigieren Sie zu Ihrer inaktiven Smart-Kampagne. Wählen Sie in der Dropdown-Liste **[!UICONTROL Kampagnenaktionen]** die Option **[!UICONTROL Löschen]** aus.
 
    ![](assets/campaign-actions-delete-a-smart-campaign-2.png)
 
    >[!TIP]
    >
-   >Um die Verarbeitung einer aktiven Smart-Kampagne abzubrechen, ohne sie vollständig zu löschen, erfahren Sie, wie Sie [Abbrechen einer Smart-Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md).
+   >Um die Verarbeitung einer aktiven Smart-Kampagne abzubrechen, ohne sie vollständig zu löschen, erfahren Sie, wie Sie eine Smart-Kampagne abbrechen [1}.](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md)
 
-1. Klicks **[!UICONTROL Löschen]** zur Bestätigung.
+1. Klicken Sie zur Bestätigung auf **[!UICONTROL Löschen]** .
 
    ![](assets/campaign-actions-delete-a-smart-campaign-3.png)
 

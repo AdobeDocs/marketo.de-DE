@@ -6,8 +6,8 @@ exl-id: 9b4cdb6b-9969-4427-9ae3-f6d08430f10f
 feature: Mobile Marketing
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 1%
+source-wordcount: '131'
+ht-degree: 0%
 
 ---
 
@@ -17,7 +17,7 @@ Sie können ein Beispiel für einen E-Mail-Moment direkt mit jemandem teilen. Es
 
 >[!IMPORTANT]
 >
->Am 2. Oktober 2023 hat Adobe die Marketo Moments-App aus allen App Stores entfernt. Wenn Sie die App bereits auf Ihrem Tablet/Mobilgerät installiert haben, können Sie sie vorerst weiter verwenden. Sobald Ihre Marketo Engage-Instanz zur Authentifizierung von Marketo zu Adobe Identity migriert wurde, können Sie nicht mehr auf die App zugreifen. [Weitere Informationen](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+>Am 2. Oktober 2023 hat Adobe die Marketo Moments-App aus allen App Stores entfernt. Wenn Sie die App bereits auf Ihrem Tablet/Mobilgerät installiert haben, können Sie sie vorerst weiter verwenden. Sobald Ihre Marketo Engage-Instanz zur Authentifizierung von Marketo zu Adobe Identity migriert wurde, können Sie nicht mehr auf die App zugreifen. [Weitere Infos](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 ## Der reguläre Weg {#the-regular-way}
 
@@ -25,7 +25,7 @@ Sie können ein Beispiel für einen E-Mail-Moment direkt mit jemandem teilen. Es
 
    ![](assets/image2015-7-14-16-3a44-3a7.png)
 
-1. Tippen **[!UICONTROL Beispiel senden]**.
+1. Tippen Sie auf **[!UICONTROL Beispiel senden]**.
 
    ![](assets/image2015-7-14-16-3a40-3a54.png)
 

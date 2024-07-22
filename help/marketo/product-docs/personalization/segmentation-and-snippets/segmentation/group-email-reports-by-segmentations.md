@@ -19,27 +19,27 @@ Segmente sind nicht nur für dynamische Inhalte bestimmt. Sie können Ihren E-Ma
 >
 >[Genehmigen einer Segmentierung](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)
 
-1. Navigieren Sie zu **Marketingaktivitäten** (oder **Analytics**).
+1. Wechseln Sie zum Bereich **Marketingaktivitäten** (oder **Analytics**).
 
    ![](assets/image2014-9-16-9-3a15-3a58.png)
 
-1. Wählen Sie Ihre **E-Mail-Leistung** Bericht.
+1. Wählen Sie den Bericht **E-Mail-Leistung** aus.
 
    ![](assets/image2014-9-16-9-3a16-3a6.png)
 
-1. Klicken Sie auf **Einrichtung** Registerkarte und ziehen Sie darüber **Gruppieren nach Segmenten**.
+1. Klicken Sie auf die Registerkarte **Einrichten** und ziehen Sie über **Nach Segmenten gruppieren**.
 
    ![](assets/image2014-9-16-9-3a16-3a59.png)
 
-1. Wählen Sie eine oder zwei Segmentierungen aus, die zur Gruppierung Ihres Berichts verwendet werden sollen. Klicken **Anwenden**.
+1. Wählen Sie eine oder zwei Segmentierungen aus, die zur Gruppierung Ihres Berichts verwendet werden sollen. Klicken Sie auf **Anwenden**.
 
    ![](assets/image2014-9-16-9-3a17-3a9.png)
 
-1. Das ist es! Klicken Sie auf **Bericht** Registerkarte. Wenn Sie eine Segmentierung verwenden, zeigt Ihr Bericht für jedes Segment eine Zeile an.
+1. Das ist es! Klicken Sie auf die Registerkarte **Bericht** . Wenn Sie eine Segmentierung verwenden, zeigt Ihr Bericht für jedes Segment eine Zeile an.
 
    ![](assets/image2014-9-16-9-3a17-3a17.png)
 
-1. Wenn Sie zwei Segmentierungen verwenden, wird jeweils eine Zeile angezeigt _Kombination_ von Segmenten.
+1. Wenn Sie zwei Segmentierungen verwenden, wird für jede _Kombination_ von Segmenten eine Zeile angezeigt.
 
    ![](assets/image2014-9-16-9-3a17-3a26.png)
 

@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Wenn Sie eine Ausführung für eine Ihrer Batch-Kampagnen geplant haben und sie abbrechen möchten, sehen Sie wie:
 
-1. Wählen Sie die Kampagne aus und wechseln Sie zur **[!UICONTROL Zeitplan]** Registerkarte.
+1. Wählen Sie die Kampagne aus und gehen Sie zur Registerkarte **[!UICONTROL Plan]** .
 
    ![](assets/cancel-a-scheduled-batch-campaign-run-1.png)
 
-1. Suchen Sie den geplanten Ablauf, den Sie abbrechen möchten, und klicken Sie auf **x** daneben.
+1. Suchen Sie nach der geplanten Ausführung, die Sie abbrechen möchten, und klicken Sie daneben auf das Symbol **x** .
 
    ![](assets/cancel-a-scheduled-batch-campaign-run-2.png)
 
-1. Bestätigen Sie den Abbruch durch Klicken auf **[!UICONTROL OK]**.
+1. Bestätigen Sie den Abbruch, indem Sie auf **[!UICONTROL OK]** klicken.
 
    ![](assets/cancel-a-scheduled-batch-campaign-run-3.png)
 

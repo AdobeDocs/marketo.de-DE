@@ -6,7 +6,7 @@ exl-id: c4f022f2-e579-42ed-9e47-00dcd96d0e6f
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '161'
 ht-degree: 1%
 
 ---
@@ -35,7 +35,7 @@ Klonen Sie Assets in Unterordnern.
 
 ## Mehrere Modelle {#multiple-models}
 
-Diese Funktion ist die beste Idee für die Umsatzzyklusanalyse (RCA) in der Community. Mit dieser Funktion können Sie mehrere Modelle erstellen, um ein detaillierteres Verständnis Ihres Umsatzes nach Produktlinie, Geschäftseinheit oder Region zu erhalten. Die Berichte Leads nach Umsatzstufe, Erfolgspfad-Analyzer, Programm-Analyzer und Umsatz-Explorer unterstützen jetzt die Auswahl eines bestimmten Modells für die Berichterstellung.
+Diese Funktion ist die beste Idee für die Umsatzzyklusanalyse (RCA) in der Community. Mit dieser Funktion können Sie mehrere Modelle erstellen, um ein detaillierteres Verständnis Ihres Umsatzes nach Produktlinie, Geschäftseinheit oder Region zu erhalten. Die Berichte Leads nach Umsatzstufe, Erfolgspfad-Analyzer, Programm-Analyzer und Umsatz-Explorer unterstützen jetzt die Möglichkeit, ein bestimmtes Modell für die Berichterstellung auszuwählen.
 
 Standardmäßig sind zwei Modelle für Select SMB Edition und fünfzehn Modelle für Enterprise Edition verfügbar. Sie können auch zusätzliche Modelle erwerben.
 

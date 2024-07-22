@@ -23,7 +23,7 @@ Als Administrator können Sie Kampagnen wie beliebige Benutzer anzeigen.
 
    ![](assets/one-5.png)
 
-1. Klicken Sie auf **Anzeigen als** und wählen Sie den gewünschten Benutzer aus.
+1. Klicken Sie auf die Dropdownliste **Anzeigen als** und wählen Sie den gewünschten Benutzer aus.
 
    ![](assets/two-4.png)
 

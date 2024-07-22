@@ -25,7 +25,7 @@ Sie können ein Beispiel senden, um zu überprüfen, ob Ihre Push-Benachrichtigu
 
    ![](assets/image2015-7-13-11-3a26-3a15.png)
 
-   Oder klicken Sie im Menü Aktionen für Push-Benachrichtigungen auf **Beispiel senden**.
+   Oder klicken Sie im Menü &quot;Aktionen für Push-Benachrichtigungen&quot;auf **Beispiel senden**.
 
    ![](assets/image2015-7-13-11-3a28-3a37.png)
 
@@ -37,23 +37,23 @@ Sie können ein Beispiel senden, um zu überprüfen, ob Ihre Push-Benachrichtigu
 
    ![](assets/image2015-7-29-8-3a25-3a17.png)
 
-   Oder klicken Sie auf **Gerät hinzufügen** nach [Hinzufügen eines neuen Testgeräts](/help/marketo/product-docs/mobile-marketing/push-notifications/adding-a-new-test-device.md) um die Probe an zu senden.
+   Oder klicken Sie auf **Gerät hinzufügen** zu [fügen Sie ein neues Testgerät hinzu](/help/marketo/product-docs/mobile-marketing/push-notifications/adding-a-new-test-device.md), an das das Beispiel gesendet werden soll.
 
    ![](assets/image2015-7-13-11-3a34-3a21.png)
 
 1. Sie haben zwei Möglichkeiten, Ihr Gerät mit der App zu verbinden.
 
-   Klicken Sie mit der ersten Option auf die **Besuchs-URL mit Gerät** -Schaltfläche, kopieren Sie die URL aus dem Feld und senden Sie sie per E-Mail oder Textnachricht an Ihr Gerät. Tippen Sie auf dem Gerät auf die URL. Wenn der Status die Verbindung anzeigt, klicken Sie auf **Senden**.
+   Klicken Sie bei der ersten Option auf die Schaltfläche **URL mit Gerät besuchen** , kopieren Sie die URL aus dem Feld und senden Sie sie in einer E-Mail oder Textnachricht an Ihr Gerät. Tippen Sie auf dem Gerät auf die URL. Wenn der Status die Verbindung anzeigt, klicken Sie auf **Senden**.
 
    ![](assets/image2015-7-29-8-3a29-3a18.png)
 
-   Oder klicken Sie mit der zweiten Option auf die **QR-Code mit Gerät scannen** und scannen Sie den QR-Code mit Ihrem Gerät. Wenn der Status die Verbindung anzeigt, klicken Sie auf **Senden**.
+   Oder klicken Sie mit der zweiten Option auf die Schaltfläche **QR-Code mit Gerät scannen** und scannen Sie den QR-Code mit Ihrem Gerät. Wenn der Status die Verbindung anzeigt, klicken Sie auf **Senden**.
 
    ![](assets/image2015-7-29-8-3a31-3a20.png)
 
    >[!TIP]
    >
-   >Haben Sie erfolgreich ein Testgerät hinzugefügt, sehen es jedoch nicht in der Liste **Senden an** Feld? Überprüfen Sie diese zur Fehlerbehebung:
+   >Haben Sie erfolgreich ein Testgerät hinzugefügt, sehen es jedoch nicht im Feld **Senden an** aufgeführt? Überprüfen Sie diese zur Fehlerbehebung:
    >
    >* Push-Benachrichtigungen werden für die App aktiviert, die mit der Push-Benachrichtigung verknüpft ist.
    >

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359839
-description: Interaktionsstream testen - Marketo-Dokumente - Produktdokumentation
+description: Testen eines Interaktionsstreams - Marketo-Dokumente - Produktdokumentation
 title: Engagement-Strom testen
 exl-id: 144d805c-7805-4b35-b25c-4a18a7c3ab87
 feature: Engagement Programs
@@ -15,7 +15,7 @@ ht-degree: 5%
 
 Nachdem Sie Ihren gesamten Inhalt einem Stream hinzugefügt haben, können Sie ihn einzeln testen.
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Wechseln Sie zu **Marketingaktivitäten**.
 
    ![](assets/one.png)
 
@@ -23,11 +23,11 @@ Nachdem Sie Ihren gesamten Inhalt einem Stream hinzugefügt haben, können Sie i
 
    ![](assets/two.png)
 
-1. Klicken **Programmaktionen** und wählen Sie **Teststream**.
+1. Klicken Sie auf **Programmaktionen** und wählen Sie **Teststream** aus.
 
    ![](assets/three.png)
 
-1. Wählen Sie Ihre Person aus dem **Testperson** Dropdown-Liste. Denken Sie daran, dass der Inhalt tatsächlich ausgeht. Beachten Sie das bei der Auswahl.
+1. Wählen Sie Ihre Person aus der Dropdownliste **Testperson** aus. Denken Sie daran, dass der Inhalt tatsächlich ausgeht. Beachten Sie das bei der Auswahl.
 
    ![](assets/four-rubix.png)
 
@@ -37,12 +37,12 @@ Nachdem Sie Ihren gesamten Inhalt einem Stream hinzugefügt haben, können Sie i
 
    >[!TIP]
    >
-   >Wenn die gesuchte Testperson nicht vorhanden ist, verwenden Sie die **Person erstellen** Option, um eine Option direkt zu erstellen.
+   >Wenn die gesuchte Testperson nicht vorhanden ist, verwenden Sie die Option **Person erstellen** , um eine Person spontan zu erstellen.
 
    Klicken Sie auf &quot;Ursprünglicher Stream&quot;, wählen Sie den zu testenden Stream aus und klicken Sie auf &quot;Test ausführen&quot;.
    ![](assets/five-rubiks.png)
 
-1. Nachdem die Person die [Übergangsregeln](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) Klicken Sie auf das Symbol Aktualisieren , das Sie zuvor eingerichtet haben.
+1. Nachdem die Person die zuvor eingerichteten [Übergangsregeln](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) durchlaufen hat, klicken Sie auf das Symbol Aktualisieren .
 
    ![](assets/six-rubiks.png)
 
@@ -54,4 +54,4 @@ Nachdem Sie Ihren gesamten Inhalt einem Stream hinzugefügt haben, können Sie i
 
    >[!NOTE]
    >
-   >Es werden keine anderen Inhalte gesendet, es sei denn, Sie klicken auf **Chat erneut ausführen**.
+   >Es werden keine anderen Inhalte gesendet, es sei denn, Sie klicken auf **Cast nochmal ausführen**.

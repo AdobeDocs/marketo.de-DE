@@ -15,21 +15,21 @@ ht-degree: 0%
 
 Sie können Ihre Personenberichte nach einem beliebigen Personen- oder Firmenattribut gruppieren.
 
-1. Navigieren Sie zu **Marketingaktivitäten** (oder **Analytics**).
+1. Wechseln Sie zum Bereich **Marketingaktivitäten** (oder **Analytics**).
 
    ![](assets/image2017-3-28-10-3a22-3a53.png)
 
-1. Wählen Sie in der Navigationsstruktur den Personenbericht aus und klicken Sie auf die Schaltfläche **Einrichtung** Registerkarte.
+1. Wählen Sie in der Navigationsstruktur den Personenbericht aus und klicken Sie auf die Registerkarte **Einrichtung** .
 
    ![](assets/image2017-3-28-11-3a33-3a48.png)
 
-1. Doppelklicken **Personen gruppieren nach**.
+1. Doppelklicken Sie auf **Personen gruppieren nach**.
 
    ![](assets/image2017-3-28-11-3a34-3a5.png)
 
    >[!NOTE]
    >
-   >Sie können auch [Gruppenberichte Ihrer Person nach Segment gruppieren](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/group-person-reports-by-segment.md).
+   >Sie können Ihre Personenberichte auch [nach Segment](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/group-person-reports-by-segment.md) gruppieren.
 
    Wählen Sie im Dialogfeld Personen gruppieren nach das für die Gruppierung zu verwendende Personen- oder Firmenattribut aus.
 
@@ -37,7 +37,7 @@ Sie können Ihre Personenberichte nach einem beliebigen Personen- oder Firmenatt
 
    >[!TIP]
    >
-   >Wenn Sie ein Attribut mit einem numerischen Wert auswählen, z. B. _Erstellt bei_ oder _Jahresumsatz_, wählen Sie die Metriken aus der **Einheiten** rechts.
+   >Wenn Sie ein Attribut mit einem numerischen Wert auswählen, z. B. &quot;_Erstellt am_&quot;oder &quot;_Jahresumsatz_&quot;, wählen Sie die Metriken aus der Dropdownliste **Einheiten** rechts aus.
 
    Das ist es! Klicken Sie auf den Tab Bericht , um den Bericht entsprechend gruppiert anzuzeigen.
 

@@ -17,11 +17,11 @@ Die folgenden Funktionen sind in der Version vom Januar 2015 enthalten. Informat
 
 ## Aktualisierungen der Marketing-Automatisierung {#marketing-automation-updates}
 
-**Mobilgerätefreundliche Einstiegsseiten**
+**Mobilfreundliche Einstiegsseiten**
 
-Sie können jetzt [Erstellen mobiler Ansichten für Landingpages](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md) aus dem Landingpage-Editor aus. Stellen Sie Ihre Nachricht unabhängig vom Gerät effektiv bereit und erhöhen Sie die Interaktion, indem Sie Ihre Inhalte für den einfachen Verbrauch unterwegs anpassen. Diese Funktion wird während der Woche nach der Veröffentlichung schrittweise eingeführt.
+Sie können jetzt [ mobile Ansichten für Landingpages erstellen](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md), und zwar im Landingpage-Editor. Stellen Sie Ihre Nachricht unabhängig vom Gerät effektiv bereit und erhöhen Sie die Interaktion, indem Sie Ihre Inhalte für den einfachen Verbrauch unterwegs anpassen. Diese Funktion wird während der Woche nach der Veröffentlichung schrittweise eingeführt.
 
-[- Anleitung zur Landingpage - Video-](https://youtu.be/aPQHlG2X6c0)
+[ - Anleitung zur Einstiegsseite Video-](https://youtu.be/aPQHlG2X6c0)
 
 **Neue REST-API-Aufrufe**
 
@@ -31,7 +31,7 @@ Drei neue Aufrufe für die Lead- und Aktivitäts-ReST-API:
 * Abrufen von Leads nach Programm-ID
 * Gelöschte Leads abrufen
 
-Außerdem gibt es eine neue Option für &quot;Lead synchronisieren&quot;, um die Lead-Änderung asynchron zu schreiben, um einen schnelleren API-Aufruf zu ermöglichen. Vollständige Details werden nach der Veröffentlichung unter [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home)
+Außerdem gibt es eine neue Option für &quot;Lead synchronisieren&quot;, um die Lead-Änderung asynchron zu schreiben, um einen schnelleren API-Aufruf zu ermöglichen. Vollständige Details sind nach der Veröffentlichung unter [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home) verfügbar.
 
 **E-Mail-Skriptfunktionen: Support für benutzerdefinierte Objekte**
 
@@ -41,7 +41,7 @@ Greifen Sie jetzt in E-Mail-Skripten auf benutzerdefinierte Objekte zu, die mit 
 
 **Individuelles Remarketing für Google und Facebook**
 
-Remarketing zeigt Anzeigen für Personen an, die Ihre Website besucht haben. Sie können Ihre Remarketing-Kampagnen jetzt personalisieren in [Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md) und [Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md) Verwendung von Daten aus der Echtzeit-Personalisierung. Remarketing für Zielgruppen aus verschiedenen Branchen, spezifische Kontolisten, Unternehmensgrößen oder Daten bekannter Leads.
+Remarketing zeigt Anzeigen für Personen an, die Ihre Website besucht haben. Sie können Ihre Remarketing-Kampagnen jetzt mit Daten aus der Echtzeit-Personalization auf [Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md) und [Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md) personalisieren. Remarketing für Zielgruppen aus verschiedenen Branchen, spezifische Kontolisten, Unternehmensgrößen oder Daten bekannter Leads.
 
 [Namenskontenlisten-Modul](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)
 
@@ -62,6 +62,6 @@ Die RTP-Tag-Optionen unter &quot;Kontoeinstellungen&quot;wurden aktualisiert und
 1. Asynchrones Tag ohne CDN
 1. Synchrone Tags ohne CDN
 
-Für eine optimale Leistung wird empfohlen, das Tag oben in der Kopfzeile auf Ihrer Web-Seite zu platzieren, nachdem `<head>`. Alle Tags ermöglichen die Verwendung der [RTP-API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation). Informationen zur Bereitstellung des RTP-Tags finden Sie unter [here](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
+Für eine optimale Leistung wird empfohlen, das Tag nach `<head>` oben in der Kopfzeile Ihrer Webseite zu platzieren. Alle Tags ermöglichen die Verwendung der [RTP-API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation). Informationen zur Bereitstellung des RTP-Tags finden Sie unter [hier](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
 
 ![](assets/image2015-1-15-13-3a30-3a45.png)

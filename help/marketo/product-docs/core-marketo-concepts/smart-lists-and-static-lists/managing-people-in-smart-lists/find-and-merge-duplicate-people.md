@@ -6,7 +6,7 @@ exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
 feature: Smart Lists
 source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '411'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Marketo Engage dedupliziert automatisch, wenn neue Benutzer in das System eintre
 
 >[!PREREQUISITES]
 >
->Das Suchen und Zusammenführen von Duplikaten erfordert die Verwendung von [integrierte/systemspezifische Smart-Listen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}.
+>Das Suchen und Zusammenführen von Duplikaten erfordert die Verwendung von [integrierten/systemspezifischen Smart-Listen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}.
 
 >[!NOTE]
 >
@@ -29,7 +29,7 @@ Marketo Engage dedupliziert automatisch, wenn neue Benutzer in das System eintre
 
 ## Duplikate suchen {#find-duplicates}
 
-1. Navigieren Sie zu **[!UICONTROL Datenbank]** Bereich.
+1. Wechseln Sie zum Bereich **[!UICONTROL Datenbank]** .
 
    ![](assets/find-and-merge-duplicate-people-1.png)
 
@@ -37,21 +37,21 @@ Marketo Engage dedupliziert automatisch, wenn neue Benutzer in das System eintre
    >
    >Die Zusammenführung von Personen in Marketo funktioniert möglicherweise nicht, wenn Sie ein Salesforce-Personenkonto verwenden. Führen Sie die Datensätze nach Möglichkeit in Salesforce zusammen.
 
-1. Wählen Sie die **[!UICONTROL Mögliche Duplikate]** System Smart List und klicken Sie auf **[!UICONTROL Personen]** Registerkarte.
+1. Wählen Sie die Liste **[!UICONTROL Mögliche Duplikate]** System-Smart-Liste aus und klicken Sie auf die Registerkarte **[!UICONTROL Personen]** .
 
    ![](assets/find-and-merge-duplicate-people-2.png)
 
    >[!NOTE]
    >
-   >Sie können auch [Duplizierte Personen mit benutzerdefinierter Logik suchen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-duplicate-people-with-custom-logic.md){target="_blank"}.
+   >Sie können auch [Duplizierte Personen mit benutzerdefinierter Logik finden](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-duplicate-people-with-custom-logic.md){target="_blank"}.
 
 ## Personen manuell zusammenführen {#merge-people-manually}
 
 >[!CAUTION]
 >
->Wenn beim Zusammenführen von Personen die untergeordnete Person über ein benutzerdefiniertes Marketo-Objekt verfügt, wird _not_ erneut mit der Gewinnerperson in Verbindung gebracht werden. Überlagern Sie das benutzerdefinierte Objekt erneut, bevor Sie die Zusammenführung durchführen.
+>Wenn beim Zusammenführen von Personen die verlierende Person über ein benutzerdefiniertes Marketo-Objekt verfügt, wird es _nicht_ erneut mit der Gewinnerperson verknüpft. Überlagern Sie das benutzerdefinierte Objekt erneut, bevor Sie die Zusammenführung durchführen.
 
-1. Wählen Sie die Duplikate aus, indem Sie die Strg-/Befehlstaste gedrückt halten und auf klicken. Klicken Sie dann auf **[!UICONTROL Personen zusammenführen]**.
+1. Wählen Sie die Duplikate aus, indem Sie die Strg-/Befehlstaste gedrückt halten und auf klicken und dann auf **[!UICONTROL Personen zusammenführen]** klicken.
 
    ![](assets/find-and-merge-duplicate-people-3.png)
 
@@ -59,7 +59,7 @@ Marketo Engage dedupliziert automatisch, wenn neue Benutzer in das System eintre
    >
    >Es können zwei oder mehr Duplikate für dieselbe Person vorhanden sein. Wählen Sie diese alle gleichzeitig aus.
 
-1. Sie sehen die Werte zwischen den Datensätzen, die _don&#39;t_ übereinstimmen. Wählen Sie für jedes Feld den Wert aus, den Sie beibehalten möchten. Klicks **[!UICONTROL Zusammenführen]** wann geschehen. Wenn Sie keinen der Werte wünschen, können Sie **[!UICONTROL Benutzerdefiniert]** und geben Sie einen Wert Ihrer Wahl ein.
+1. Sie sehen die Werte zwischen den Datensätzen, die _nicht_ entsprechen. Wählen Sie für jedes Feld den Wert aus, den Sie beibehalten möchten. Klicken Sie abschließend auf **[!UICONTROL Zusammenführen]** . Wenn Sie keinen der Werte wünschen, können Sie **[!UICONTROL Benutzerdefiniert]** aktivieren und einen Wert Ihrer Wahl eingeben.
 
    ![](assets/find-and-merge-duplicate-people-4.png)
 

@@ -14,7 +14,7 @@ ht-degree: 52%
 
 # Symbol Glossar {#new-icon-glossary}
 
-Nachstehend finden Sie die Symbole für die neue Adobe Marketo Engage-Benutzeroberfläche. Wenn Sie auf die Marketo Classic-Symbole verweisen müssen, können diese [hier finden](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md).
+Nachstehend finden Sie die Symbole für die neue Adobe Marketo Engage-Benutzeroberfläche. Wenn Sie auf die Marketo Classic-Symbole verweisen müssen, können diese [hier gefunden](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md) werden.
 
 ## Allgemeine Symbole {#general-icons}
 

@@ -6,7 +6,7 @@ exl-id: b43cf0e4-3e3e-4034-8ecf-bda34557cfef
 feature: Marketing Calendar
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -17,25 +17,25 @@ ht-degree: 0%
 >
 >**Erforderliche Administratorberechtigungen**
 
-So nutzen Sie Ihre [Marketingkalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md){target="_blank"} -Sitze, müssen Sie Lizenzen für Benutzer erteilen, die Zugriff benötigen. So geht es.
+Um Ihre [Marketingkalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md){target="_blank"} -Sitze nutzen zu können, müssen Sie Lizenzen für Benutzer erteilen, die Zugriff benötigen. So geht es.
 
-1. Navigieren Sie zu **[!UICONTROL Admin]** Abschnitt.
+1. Wechseln Sie zum Abschnitt **[!UICONTROL Admin]** .
 
    ![](assets/adminhand.png)
 
-1. Klicken **[!UICONTROL Benutzer und Rollen]**.
+1. Klicken Sie auf **[!UICONTROL Benutzer und Rollen]**.
 
    ![](assets/2.png)
 
-1. Wählen Sie die Benutzer aus und klicken Sie auf **[!UICONTROL Ausstelllizenz]**.
+1. Wählen Sie den/die Benutzer aus und klicken Sie auf **[!UICONTROL Problemlizenz]**.
 
    >[!TIP]
    >
-   >Verwendung **Strg/Befehl+Klick** um mehrere Benutzer auf einmal auszuwählen.
+   >Verwenden Sie **Strg/Befehl+Klicken**, um mehrere Benutzer in einem Schritt auszuwählen.
 
    ![](assets/3.png)
 
-1. Überprüfen **[!UICONTROL Lizenz aktivieren]** und klicken Sie auf **[!UICONTROL Speichern]**.
+1. Aktivieren Sie **[!UICONTROL Lizenz aktivieren]** und klicken Sie auf **[!UICONTROL Speichern]**.
 
    >[!NOTE]
    >
@@ -43,6 +43,6 @@ So nutzen Sie Ihre [Marketingkalender](/help/marketo/product-docs/core-marketo-c
 
    ![](assets/4.png)
 
-   Gut gemacht! Siehe grünes Häkchen unter &quot;Kalender?&quot;
+   Schön gemacht! Siehe grünes Häkchen unter &quot;Kalender?&quot;
 
    ![](assets/5.png)

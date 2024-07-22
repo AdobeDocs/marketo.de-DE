@@ -18,7 +18,7 @@ Als Marketing-Experte verfügen Sie über Informationen, die dem Vertrieb beim A
 
 >[!NOTE]
 >
->Wenn der Marketo Sync User Aufgaben erstellt, **aufgrund von** ist ein erforderliches Feld für die Aufgabe, die in Veeva erstellt werden soll. Marketo gibt standardmäßig fünf Tage ein, wenn kein Wert vorhanden ist.
+>Wenn der Marketo-Synchronisierungsbenutzer Aufgaben erstellt, ist **Fällig in** ein erforderliches Feld, damit die Aufgabe in Veeva erstellt werden kann. Marketo gibt standardmäßig fünf Tage ein, wenn kein Wert vorhanden ist.
 
 Standardmäßig sieht der Flussschritt wie folgt aus:
 
@@ -30,4 +30,4 @@ Passen Sie alle Felder an, um die Aufgabe wie gewünscht zu erstellen.
 
 >[!TIP]
 >
->Sie können `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` und `{{system.tokens}}` im Betreff und in der Beschreibung. Siehe [Token für Flussschritte](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"} für weitere Details.
+>Sie können `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` und `{{system.tokens}}` im Betreff und in der Beschreibung verwenden. Weitere Informationen finden Sie unter [Token für Flussschritte](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"} .

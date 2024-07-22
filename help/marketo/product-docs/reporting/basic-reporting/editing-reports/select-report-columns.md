@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Sie können auswählen, welche Spalten in Ihrem Bericht enthalten sind und welche nicht.
 
-1. Navigieren Sie zu **Analytics** (oder **Marketingaktivitäten**).
+1. Wechseln Sie zum Bereich **Analytics** (oder **Marketingaktivitäten**).
 
    ![](assets/image2014-9-16-10-3a43-3a0.png)
 
@@ -23,7 +23,7 @@ Sie können auswählen, welche Spalten in Ihrem Bericht enthalten sind und welch
 
    ![](assets/image2014-9-16-10-3a43-3a5.png)
 
-1. Klicken Sie auf **Bericht** auf eine beliebige Spaltenüberschrift klicken und auswählen **Spalten** und wählen Sie dann die einzuschließenden Spalten aus.
+1. Klicken Sie auf die Registerkarte **Bericht**, klicken Sie auf eine Spaltenüberschrift, wählen Sie **Spalten** aus und wählen Sie dann die einzuschließenden Spalten aus.
 
    ![](assets/image2014-9-16-10-3a43-3a9.png)
 

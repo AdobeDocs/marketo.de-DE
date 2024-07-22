@@ -13,5 +13,5 @@ ht-degree: 0%
 
 # Zusätzliche Administratoren {#additional-admins}
 
-Um ein Team-Mitglied zu ändern oder zu entfernen, navigieren Sie zur Seite Einstellungen und klicken Sie auf **Team-Management** im linken Navigationsbereich.
+Um ein Team-Mitglied zu ändern oder zu entfernen, gehen Sie zur Seite Einstellungen und klicken Sie im linken Navigationsbereich auf **Team-Management** .
 Als Administrator eines Kontos können Sie hier verwalten, wer sich in Ihrem Team befindet.

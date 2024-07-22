@@ -26,8 +26,8 @@ Nachdem Sie nun gelernt haben, die wichtigsten Produktbereiche für eine neue Ma
 <tbody>
   <tr>
     <td>Listenimport</td>
-    <td><li>Zusammenstellen einer Liste von Datenquellen, aus denen Datensätze abgerufen werden <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people" target="_blank">Import in Marketo Engage</a>.</li>
-    <li>Wenn Sie einen Import aus mehreren Datenquellen durchführen, sollten Sie die Verwendung von Master-Listen in Erwägung ziehen oder <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/field-management/create-a-custom-field-in-marketo" target="_blank">Erstellen eines benutzerdefinierten Felds</a> auf dem Datensatz der Person, um die Datenquelle zu kennzeichnen.</li></td>
+    <td><li>Erfassen Sie eine Liste der Datenquellen, aus denen Datensätze abgerufen werden, um sie in Marketo Engage</a> zu importieren.<a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people" target="_blank"></li>
+    <li>Wenn Sie aus mehreren Datenquellen importieren, sollten Sie die Verwendung von Master-Listen oder die Verwendung von <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/field-management/create-a-custom-field-in-marketo" target="_blank">Erstellen eines benutzerdefinierten Felds</a> für den Personendatensatz in Erwägung ziehen, um die Datenquelle zu kennzeichnen.</li></td>
   </tr>
   <tr>
     <td>Datenbankintegration</td>
@@ -48,7 +48,7 @@ Nachdem Sie nun gelernt haben, die wichtigsten Produktbereiche für eine neue Ma
 <tbody>
   <tr>
     <td>Benutzer</td>
-    <td><li>Dokumentieren Sie <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user#add-a-user" target="_blank">aktuelle Benutzer</a> in Ihrer Instanz aus Sicherheitsgründen. Die folgenden Details sollten mindestens enthalten sein (und sind alle sichtbar, indem Sie Admin &gt; Benutzer und Rollen aufrufen):</li>
+    <td><li>Dokumentieren Sie die <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user#add-a-user" target="_blank">aktuellen Benutzer</a> in Ihrer Instanz aus Sicherheitsgründen. Die folgenden Details sollten mindestens enthalten sein (und sind alle sichtbar, indem Sie Admin &gt; Benutzer und Rollen aufrufen):</li>
     <ul>
     <li>Name</li>
     <li>E-Mail</li>
@@ -59,15 +59,15 @@ Nachdem Sie nun gelernt haben, die wichtigsten Produktbereiche für eine neue Ma
     <li>Letztes Anmeldungsdatum</li></ul>
     <p><img src="assets/note-icon.png" alt="Notizsymbol"> HINWEIS: Sie können dies auch erweitern und eine Dokumentation zu Rollen/Berechtigungen hinzufügen.
     <p>
-    <li>Entwickeln Sie als Marketo Engage Product Admin einen internen Prozess, um die Marketo Engage-Benutzerliste regelmäßig zu überprüfen und zu aktualisieren. Um Änderungen an der Benutzerliste in Adobe Admin Console vorzunehmen, beachten Sie <a href="https://helpx.adobe.com/de/enterprise/using/users.html" target="_blank">Massenaktionen</a>, z. B. das Hochladen einer .CSV-Datei, die Verwendung der User Management-REST-API usw.</li></td>
+    <li>Entwickeln Sie als Marketo Engage Product Admin einen internen Prozess, um die Marketo Engage-Benutzerliste regelmäßig zu überprüfen und zu aktualisieren. Berücksichtigen Sie <a href="https://helpx.adobe.com/de/enterprise/using/users.html" target="_blank">Massenaktionen</a>, um die Benutzerliste in Adobe Admin Console zu ändern, z. B. das Hochladen einer .CSV-Datei, die Verwendung der User Management-REST-API usw.</li></td>
   </tr>
   <tr>
     <td>Organization</td>
-    <td><li>Dokumentieren Sie die vereinbarte Ordnerstruktur, die standardmäßigen Benennungskonventionen für Programme, Assets usw. und den Grund für die getroffenen Entscheidungen. <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/best-practices-to-organize-a-new-instance" target="_blank">Weitere Informationen zu Best Practices finden Sie hier .</a></li></td>
+    <td><li>Dokumentieren Sie die vereinbarte Ordnerstruktur, die standardmäßigen Benennungskonventionen für Programme, Assets usw. und den Grund für die getroffenen Entscheidungen. <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/best-practices-to-organize-a-new-instance" target="_blank">Weitere Informationen zu Best Practices finden Sie hier.</a></li></td>
   </tr>
   <tr>
     <td>Changelog</td>
-    <td><li>Erstellen Sie ein changelog , in dem Sie dokumentieren können, was sich in Ihrer Instanz ändert und warum die Änderungen vorgenommen wurden. <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/auditing-an-inherited-instance/develop-an-instance-governance-guide" target="_blank">Weitere Informationen zu Best Practices finden Sie hier .</a></li></td>
+    <td><li>Erstellen Sie ein changelog , in dem Sie dokumentieren können, was sich in Ihrer Instanz ändert und warum die Änderungen vorgenommen wurden. <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/auditing-an-inherited-instance/develop-an-instance-governance-guide" target="_blank">Weitere Informationen zu Best Practices finden Sie hier.</a></li></td>
   </tr>
   <tr>
     <td>Playbooks</td>

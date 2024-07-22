@@ -6,8 +6,8 @@ exl-id: 079f1142-8062-448c-aa07-59ecd89a718f
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '405'
-ht-degree: 10%
+source-wordcount: '335'
+ht-degree: 15%
 
 ---
 
@@ -21,7 +21,7 @@ Wenn eine neue Version des Marketo-E-Mail-Add-ins für Outlook verfügbar ist, b
 
 ## Installationsprogramm herunterladen {#download-installer}
 
-Laden Sie das Installationsprogramm herunter, das für Ihre Version von Microsoft Outlook geeignet ist.
+Laden Sie das für Ihre Version von Microsoft Outlook geeignete Installationsprogramm herunter.
 
 <table> 
  <colgroup> 
@@ -47,23 +47,23 @@ Laden Sie das Installationsprogramm herunter, das für Ihre Version von Microsof
   <tr> 
    <td>Outlook 2000</td> 
    <td>Nicht unterstützt</td> 
-   <td>n.z</td> 
+   <td>Nicht zutreffend</td> 
    <td>Nicht unterstützt</td> 
-   <td>n.z</td> 
+   <td>Nicht zutreffend</td> 
   </tr> 
   <tr> 
    <td>Outlook 2003</td> 
    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Download</a></td> 
-   <td>n.z</td> 
+   <td>Nicht zutreffend</td> 
    <td>Nicht unterstützt</td> 
-   <td>n.z</td> 
+   <td>Nicht zutreffend</td> 
   </tr> 
   <tr> 
    <td>Outlook 2007</td> 
    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Download</a></td> 
-   <td>n.z</td> 
+   <td>Nicht zutreffend</td> 
    <td>Nicht unterstützt</td> 
-   <td>n.z</td> 
+   <td>Nicht zutreffend</td> 
   </tr> 
   <tr> 
    <td>Outlook 2010</td> 
@@ -129,7 +129,7 @@ Laden Sie das Installationsprogramm herunter, das für Ihre Version von Microsof
 
    ![](assets/image2014-9-23-16-3a53-3a56.png)
 
-1. Klicken **Nächste**.
+1. Klicken Sie auf **Weiter**.
 
    ![](assets/image2014-9-23-16-3a54-3a8.png)
 
@@ -141,7 +141,7 @@ Laden Sie das Installationsprogramm herunter, das für Ihre Version von Microsof
 
    ![](assets/ent-key-close-outlook-hand.png)
 
-1. Sie werden feststellen, dass alle Ihre Informationen vorausgefüllt sind. Einfaches Klicken **Nächste**.
+1. Sie werden feststellen, dass alle Ihre Informationen vorausgefüllt sind. Klicken Sie einfach auf **Weiter**.
 
    ![](assets/image2014-9-23-16-3a54-3a40.png)
 
@@ -149,11 +149,11 @@ Laden Sie das Installationsprogramm herunter, das für Ihre Version von Microsof
    >
    >Wenn die Installation fehlschlägt, wenden Sie sich an Ihre IT-Abteilung, um sicherzustellen, dass der HTTPS-Traffic nicht blockiert wird. Für das Installationsprogramm muss HTTPS-Traffic geöffnet sein.
 
-1. Klicken **Nächste** , um die Installation am Standardspeicherort durchzuführen.
+1. Klicken Sie auf **Weiter** , um die Installation am Standardspeicherort durchzuführen.
 
    ![](assets/image2014-9-23-16-3a54-3a55.png)
 
-1. Klicken **Nächste**.
+1. Klicken Sie auf **Weiter**.
 
    ![](assets/image2014-9-23-16-3a55-3a20.png)
 
@@ -167,5 +167,5 @@ Laden Sie das Installationsprogramm herunter, das für Ihre Version von Microsof
 
 >[!MORELIKETHIS]
 >
->* [Senden und Verfolgen einer E-Mail mit dem Marketo E-Mail-Add-in für Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
->* [Senden und Verfolgen aus Outlook mit einer Marketo-Vorlage](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
+>* [Senden und Verfolgen einer E-Mail mit dem Marketo-E-Mail-Add-in für Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
+>* [Versand und Tracking aus Outlook mit einer Marketo-Vorlage](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)

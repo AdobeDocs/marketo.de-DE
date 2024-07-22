@@ -16,15 +16,15 @@ Erfahren Sie, wie Sie Benutzer hinzufügen und entfernen sowie Ihre aktuellen Li
 
 ## Hinzufügen von Benutzern {#add-a-user}
 
-1. Navigieren Sie zu **Admin** Bereich.
+1. Wechseln Sie zum Bereich **Admin** .
 
    ![](assets/user-and-license-management-1.png)
 
-1. Klicks **Interaktive Webinare**.
+1. Klicken Sie auf **Interaktive Webinare**.
 
    ![](assets/user-and-license-management-2.png)
 
-1. Klicks **Benutzer hinzufügen/entfernen**.
+1. Klicken Sie auf **Benutzer hinzufügen/entfernen**.
 
    ![](assets/user-and-license-management-3.png)
 
@@ -34,19 +34,19 @@ Erfahren Sie, wie Sie Benutzer hinzufügen und entfernen sowie Ihre aktuellen Li
 
 ## Entfernen von Benutzern {#remove-a-user}
 
-1. Navigieren Sie zu **Admin** Bereich.
+1. Wechseln Sie zum Bereich **Admin** .
 
    ![](assets/user-and-license-management-5.png)
 
-1. Klicks **Interaktive Webinare**.
+1. Klicken Sie auf **Interaktive Webinare**.
 
    ![](assets/user-and-license-management-6.png)
 
-1. Klicks **Benutzer hinzufügen/entfernen**.
+1. Klicken Sie auf **Benutzer hinzufügen/entfernen**.
 
    ![](assets/user-and-license-management-7.png)
 
-1. Markieren Sie die Benutzer, die Sie entfernen möchten, und drücken Sie die Entf-Taste auf Ihrer Tastatur. Klicks **OK** wann geschehen.
+1. Markieren Sie die Benutzer, die Sie entfernen möchten, und drücken Sie die Entf-Taste auf Ihrer Tastatur. Klicken Sie abschließend auf **OK** .
 
    ![](assets/user-and-license-management-8.png)
 
@@ -54,11 +54,11 @@ Erfahren Sie, wie Sie Benutzer hinzufügen und entfernen sowie Ihre aktuellen Li
 
 Interaktive Webinare bieten spezifische Lizenzen für die Erstellung von Veranstaltungen auf Basis von Adobe Connect. Jedes Mal, wenn eine Lizenz hinzugefügt wird, wird ein neues Feld zur Lizenzverwendung angezeigt. Marketo-Administratoren können die Lizenzen anzeigen (nicht bearbeiten), indem sie die folgenden Schritte ausführen. Wenden Sie sich an das Adobe Account Team (Ihren Kundenbetreuer), um zusätzliche Lizenzen zu erhalten.
 
-1. Navigieren Sie zu **Admin** Bereich.
+1. Wechseln Sie zum Bereich **Admin** .
 
    ![](assets/user-and-license-management-9.png)
 
-1. Klicks **Interaktive Webinare**.
+1. Klicken Sie auf **Interaktive Webinare**.
 
    ![](assets/user-and-license-management-10.png)
 
@@ -100,7 +100,7 @@ Interaktive Webinare bieten spezifische Lizenzen für die Erstellung von Veranst
 
 **Zu beachten**
 
-* Der Typ &quot;Zusätzliche Speicherlizenz&quot;liefert nur Speicher, daher der Wert in jedem Feld _beats_ Die Speicherkapazität wird einfach als &quot;-&quot;aufgeführt.
+* Der Typ &quot;Zusätzliche Speicherlizenz&quot;liefert nur Speicher, daher wird der Wert in jedem Feld _neben_ Speicherkapazität einfach als &quot;-&quot;aufgeführt.
 
 * Der Typ &quot;Shared Room License&quot; hat unbegrenzte Ereignisse und &quot;Additional Storage License&quot; stellt nur Speicher bereit, daher wird das Feld Total Events für diese Lizenzen einfach als &quot;-&quot;aufgeführt.
 
@@ -114,7 +114,7 @@ Interaktive Webinare bieten die Möglichkeit, die Nutzung zu regulieren, indem s
 
 Marketo-Benutzer, denen interaktive Webinare zugewiesen wurden und die Inhaber eines bestimmten Interaktiven Webinar-Veranstaltungsprogramms sind, können alle mit diesem Programm verbundenen interaktiven Webinar-Funktionen ausführen. Dazu gehören das Erstellen, Zugreifen auf, Ändern, Klonen, Verschieben und Löschen dieses Programms. Sobald dieser Benutzer jedoch kein interaktiver Webinar-Benutzer mehr ist, kann der Programmeigentümer auf das Programm zugreifen und es verschieben, jedoch keine anderen Funktionen ausführen.
 
-Marketo-Benutzer, denen interaktive Webinare Berechtigungen erteilt wurden und die _not_ Inhaber eines bestimmten Interaktiven Webinars Event Program können begrenzte Funktionen für diese Programme ausführen. Nicht-Admin-Benutzer von Marketo können auf das Programm zugreifen und es klonen, können jedoch keine anderen Funktionen ausführen, wenn sie über Berechtigungen für interaktive Webinare verfügen. Marketo Admin-Benutzer _will_ Sie können alle Funktionen ausführen, z. B. auf das Programm zugreifen, es ändern, klonen, verschieben und löschen (sofern sie über Berechtigungen für interaktive Webinare verfügen). Wenn diese Berechtigung für Marketo-Administratoren und Benutzer ohne Administratorrechte widerrufen wird, können sie nur auf das interaktive Webinar-Veranstaltungsprogramm zugreifen und keine anderen Funktionen ausführen.
+Marketo-Benutzer, die über die Berechtigung für interaktive Webinare verfügen und Inhaber eines bestimmten Interaktiven Webinars-Veranstaltungsprogramms sind, können für diese Programme eingeschränkte Funktionen ausführen. __ Nicht-Admin-Benutzer von Marketo können auf das Programm zugreifen und es klonen, können jedoch keine anderen Funktionen ausführen, wenn sie über Berechtigungen für interaktive Webinare verfügen. Marketo Admin-Benutzer _können jedoch alle Funktionen ausführen, z. B. Zugriff, Änderung, Klonen, Verschieben und Löschen des Programms (sofern sie über Berechtigungen für interaktive Webinare verfügen)._ Wenn diese Berechtigung für Marketo-Administratoren und Benutzer ohne Administratorrechte widerrufen wird, können sie nur auf das interaktive Webinar-Veranstaltungsprogramm zugreifen und keine anderen Funktionen ausführen.
 
 Die Einschränkung von umsetzbaren Funktionen wird durch eine ausgegraute Aktionsschaltfläche und eine Hover-Meldung angezeigt. Einige Beispiele für die ausgegrauten Aktionsschaltflächen sind &quot;Webinar entwerfen&quot;oder &quot;Webinar eingeben&quot;. Bei nicht ausführbaren Funktionen wird eine Meldung mit den Einschränkungen angezeigt. Siehe Beispiel unten:
 

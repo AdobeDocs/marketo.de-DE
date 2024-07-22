@@ -21,7 +21,7 @@ Die folgenden Funktionen sind in der Version vom Oktober 2013 enthalten.
 
 ## developers.marketo.com {#developers-marketo-com}
 
-[Developer.adobe.com](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home) ist für Entwickler gedacht, die Integrationen in Marketo erstellen möchten. Sie können verschiedene Integrationsoptionen referenzieren, darunter Munchkin-JavaScript-APIs, SOAP-API-Codebeispiele, Webhooks und E-Mail-Skripterstellung. Ein Java-SDK ist auch verfügbar unter [GitHub](https://github.com/Marketo/SOAP-API-Java-Client).
+[Developer.adobe.com](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home) ist für Entwickler gedacht, die Integrationen in Marketo erstellen möchten. Sie können verschiedene Integrationsoptionen referenzieren, darunter Munchkin JavaScript APIs, Beispiele für API-Code, Webhooks und E-Mail-Skripterstellung. Ein Java-SDK ist auch auf [GitHub](https://github.com/Marketo/SOAP-API-Java-Client) verfügbar.
 
 ## Aktualisierter BrightTALK Veranstaltungsadapter {#updated-brighttalk-event-adapter}
 
@@ -29,4 +29,4 @@ Synchronisieren Sie zusätzliche Felder von BrightTALK mit Marketo, einschließl
 
 ## Android Tablet Event Check-In App {#android-tablet-event-check-in-app}
 
-Registranten mit unserer neuen Funktion in Ihr Ereignis einchecken [Android-basierte Eincheckanwendung](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md) verfügbar unter [Google Play](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en).
+Überprüfen Sie Registrierungen mit unserer neuen [Android-basierten Eincheckanwendung](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md), die auf [Google Play](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en) verfügbar ist, in Ihr Ereignis.

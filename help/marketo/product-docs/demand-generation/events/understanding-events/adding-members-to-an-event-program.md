@@ -19,11 +19,11 @@ Dieser Artikel gilt nur für Benutzer, die Event Cap oder Event Goals verwenden.
 >
 >Durch den Import einer Personenliste direkt in ein Ereignisprogramm wird verhindert, dass diese Datensätze in den eigentlichen Registrierungen im Zielverfolgungsbericht und im Bericht zur Event Cap-Progression gezählt werden. Befolgen Sie die nachstehenden Anweisungen, um sicherzustellen, dass Ihre Datensätze gezählt werden.
 
-1. Erstellen und [Personen zu einer statischen Liste hinzufügen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md).
+1. Erstellen und [fügen Sie Personen zu einer statischen Liste hinzu](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md).
 
-1. [Erstellen einer Smart-Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md).
+1. [Erstellen Sie eine Smart-Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md).
 
-1. Suchen und fügen Sie in der Smart-Liste der Smart-Kampagne, die Sie in Schritt 2 erstellt haben, die **Mitglied der Liste** Filter.
+1. Suchen Sie in der Smart-Liste der Smart-Kampagne, die Sie in Schritt 2 erstellt haben, den Filter **Mitglied der Liste** und fügen Sie ihn hinzu.
 
    ![](assets/three.png)
 
@@ -31,7 +31,7 @@ Dieser Artikel gilt nur für Benutzer, die Event Cap oder Event Goals verwenden.
 
    ![](assets/four.png)
 
-1. Suchen Sie im Fluss nach und fügen Sie die **Ändern des Programmstatus** Flussschritt.
+1. Suchen Sie im Fluss den Flussschritt **Programmstatus ändern** und fügen Sie ihn hinzu.
 
    ![](assets/five.png)
 
@@ -43,11 +43,11 @@ Dieser Artikel gilt nur für Benutzer, die Event Cap oder Event Goals verwenden.
 
    ![](assets/seven.png)
 
-1. Klicken Sie im Tab Planung auf **Einmal ausführen**.
+1. Klicken Sie auf der Registerkarte &quot;Plan&quot;auf **Einmal ausführen**.
 
    ![](assets/eight.png)
 
-1. Auswählen **Jetzt ausführen** und klicken **Ausführen**.
+1. Wählen Sie **Jetzt ausführen** und klicken Sie auf **Ausführen**.
 
    ![](assets/nine.png)
 

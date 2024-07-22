@@ -17,7 +17,7 @@ Senden Sie E-Mails, erstellen Sie A/B-Tests und verfolgen Sie Ihre Ergebnisse an
 
 ## Systemsteuerung {#control-panel}
 
-Vier Kisten halten Sie im Fokus. **Zielgruppe** definiert das &quot;wer&quot;, **Email** liefert das &quot;Was&quot;, **Zeitplan** definiert &quot;Wann&quot;, und **Validierung** macht es bereit zu gehen.
+Vier Kisten halten Sie im Fokus. **Audience** definiert das &quot;wer&quot;, **E-Mail** stellt das &quot;Was&quot; bereit, **Schedule** definiert &quot;wann&quot;, und **Approval** macht es bereit zum Gehen.
 
 ![](assets/emailprogram.png)
 
@@ -38,7 +38,7 @@ Erfahren Sie mehr über die folgenden A/B-Tests:
 
 >[!CAUTION]
 >
->Für genaue Berichte vermeiden Sie _Wiederverwendung_ eine E-Mail aus einem E-Mail-Programm, entweder durch Referenzierung in einer Smart-Kampagne oder durch Verschieben des Assets aus dem gestarteten E-Mail-Programm in ein neues. Auf diese Weise werden alle Daten in jedem Bericht-Dashboard, das an diese E-Mail angehängt ist, aggregiert. Wenn Sie eine E-Mail wiederverwenden müssen, wenden Sie sich bitte an [Klonen](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} , da dadurch die E-Mail kopiert, aber eine neue mit einer neuen E-Mail-ID erstellt wird.
+>Vermeiden Sie für eine genaue Berichterstellung die _Wiederverwendung_ einer E-Mail aus einem E-Mail-Programm, indem Sie entweder in einer Smart-Kampagne darauf verweisen oder das Asset aus dem gestarteten E-Mail-Programm in ein neues verschieben. Auf diese Weise werden alle Daten in jedem Bericht-Dashboard, das an diese E-Mail angehängt ist, aggregiert. Wenn Sie eine E-Mail wiederverwenden müssen, klonen Sie sie stattdessen mit [1}, da diese die E-Mail kopiert, aber eine neue E-Mail-Adresse mit einer neuen ID erstellt.](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"}
 
 Genießen Sie die Früchte Ihrer Arbeit. Dashboards zeigen Ihnen E-Mail-Programm- und A/B-Test-Performance auf einen Blick.
 
@@ -68,7 +68,7 @@ Verwenden Sie ein E-Mail-Programm innerhalb eines Standardprogramms, um die Ding
 
 >[!NOTE]
 >
->E-Mail-Programme können nicht verschachtelt werden in [Interaktionsprogramme](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md). Sie können auch nicht erneut gesendet werden und nur jeweils einen Test ausführen.
+>E-Mail-Programme können nicht in [Interaktionsprogrammen](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md) verschachtelt werden. Sie können auch nicht erneut gesendet werden und nur jeweils einen Test ausführen.
 
 ## Zeitplaneinstellungen {#schedule-settings}
 
@@ -80,4 +80,4 @@ Jetzt, da Sie E-Mail-Programme verstehen, beginnen Sie mit einem der entsprechen
 >
 >* [Definieren einer Zielgruppe mit einer Smart-Liste](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
 >* [E-Mail für ein E-Mail-Programm erstellen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
->* [E-Mail-Programm planen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
+>* [Planen Ihres E-Mail-Programms](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)

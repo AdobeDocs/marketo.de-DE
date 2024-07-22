@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Snippet erstellen {#create-a-snippet}
 
-Snippets können als dynamische Inhaltsbausteine in **E-Mails** und **Landingpages**.
+Snippets können als dynamische Inhaltsbausteine für **E-Mails** und **Landingpages** verwendet werden.
 
-1. Navigieren Sie zu **Design Studio.**
+1. Wechseln Sie zu **Design Studio**.
 
    ![](assets/designstudio.png)
 
-1. Klicken **Neu** und dann **Neuer Snippet**.
+1. Klicken Sie auf **Neu** und dann auf **Neues Snippet**.
 
    ![](assets/image2014-9-16-8-50-4.png)
 
@@ -27,9 +27,9 @@ Snippets können als dynamische Inhaltsbausteine in **E-Mails** und **Landingpag
 
    ![](assets/image2014-9-16-8-3a50-3a14.png)
 
-Gute Arbeit! Vereinfachen Sie Ihre Arbeit, indem Sie Snippets für Ihren dynamischen Inhalt erstellen. Jetzt können Sie fortfahren und [Inhalt zu Ihrem neuen Snippet hinzufügen](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md).
+Gute Arbeit! Vereinfachen Sie Ihre Arbeit, indem Sie Snippets für Ihren dynamischen Inhalt erstellen. Nun können Sie fortfahren und [Inhalt zu Ihrem neuen Snippet hinzufügen](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md).
 
 >[!MORELIKETHIS]
 >
 >* [Inhalt zu einem Snippet hinzufügen](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
->* [Grundlagen zu dynamischen Inhalten](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md)
+>* [Dynamische Inhalte verstehen](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md)

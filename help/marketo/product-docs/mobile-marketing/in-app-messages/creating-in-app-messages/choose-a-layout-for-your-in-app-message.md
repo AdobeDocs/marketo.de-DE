@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10100434
 description: Auswählen eines Layouts für Ihre In-App-Nachricht - Marketo-Dokumente - Produktdokumentation
-title: Layout für Ihre In-App-Nachricht auswählen
+title: Auswählen eines Layouts für Ihre In-App-Nachricht
 exl-id: e36507d1-df04-43ac-9da0-14116db3add6
 feature: Mobile Marketing
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '478'
+source-wordcount: '479'
 ht-degree: 0%
 
 ---
 
-# Layout für Ihre In-App-Nachricht auswählen {#choose-a-layout-for-your-in-app-message}
+# Auswählen eines Layouts für Ihre In-App-Nachricht {#choose-a-layout-for-your-in-app-message}
 
 Marketo bietet sechs Layouts zum Erstellen von In-App-Nachrichten.
 
@@ -58,7 +58,7 @@ Das dritte Vollbild-Layout entspricht dem zweiten, mit Ausnahme der zweiten Scha
 
 ![](assets/image2016-5-9-13-3a11-3a35.png)
 
-Jetzt, da Sie über die Vorlagen Bescheid wissen, ist es an der Zeit, eine zu wählen, wenn Sie [In-App-Nachrichtenbilder erstellen](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/add-in-app-message-images.md).
+Nachdem Sie jetzt über die Vorlagen informiert sind, können Sie eine Vorlage auswählen, wenn Sie [Bilder für In-App-Nachrichten erstellen](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/add-in-app-message-images.md).
 
 >[!MORELIKETHIS]
 >

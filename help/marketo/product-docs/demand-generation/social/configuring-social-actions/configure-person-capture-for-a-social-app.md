@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Personenerfassung für eine Social-App konfigurieren {#configure-person-capture-for-a-social-app}
 
-Wenn Sie eine [Verweisangebot](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) oder [Preisausschreiben](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), können Sie konfigurieren, welche Informationen Sie anfordern und welche Informationen Sie von Personen benötigen, um teilnehmen zu können.
+Wenn Sie ein [Verweisangebot](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) oder ein [Preisausschreiben](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md) erstellen, können Sie konfigurieren, welche Informationen Sie anfordern und welche Informationen Sie von Personen benötigen, um teilnehmen zu können.
 
 >[!NOTE]
 >
 >Personen werden nur dann zur Eingabe dieser Informationen aufgefordert, wenn sie diese noch nicht bereitgestellt haben.
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Wechseln Sie zu **Marketingaktivitäten**.
 
    ![](assets/ma-2.png)
 
@@ -27,7 +27,7 @@ Wenn Sie eine [Verweisangebot](/help/marketo/product-docs/demand-generation/soci
 
    ![](assets/image2014-9-22-10-3a57-3a57.png)
 
-1. Navigieren Sie im Social-App-Editor zu **Anmeldefluss** > **Personenerfassung**.
+1. Wechseln Sie im Social-App-Editor zu &quot;**Anmeldungs-Fluss**&quot;> &quot;**Personen-Erfassung**&quot;.
 
    ![](assets/three-1.png)
 
@@ -38,16 +38,16 @@ Wenn Sie eine [Verweisangebot](/help/marketo/product-docs/demand-generation/soci
    Marketing-Optionen einschließen:
 
    * **Opt-out**: Standardmäßig hat die Person ein Abonnement.
-   * **Opt-in**: Der Benutzer kann sich für ein Abonnement entscheiden.
+   * **Opt-in**: Personen können sich für ein Abonnement entscheiden.
 
    >[!NOTE]
    >
-   >In beiden Fällen erhalten die Teilnehmer weiterhin die [_operativ_ E-Mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) von Ihrem Angebot aus.
+   >In beiden Fällen erhalten die Teilnehmer weiterhin die [_operativen_ E-Mails](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) aus Ihrem Angebot.
 
-1. Klicken Sie im Fenster Ansicht und Bearbeiten auf **Bearbeitungen anzeigen** und bearbeiten Sie die Meldungen in der Freigabeaufforderung.
+1. Klicken Sie im Fenster &quot;Ansicht und Bearbeiten&quot;auf **Bearbeitungen anzeigen** und bearbeiten Sie die Meldungen in der Freigabeaufforderung.
 
    ![](assets/image2014-9-22-11-3a2-3a56.png)
 
 >[!MORELIKETHIS]
 >
->Jetzt können Sie [Konfigurieren des Social-Anmeldungs-Workflows](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md) und bearbeiten Sie die freigegebenen Nachrichten, die in jedem sozialen Netzwerk veröffentlicht werden.
+>Jetzt können Sie [den Social-Anmeldungs-Fluss](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md) konfigurieren und die Freigabe-Nachrichten bearbeiten, die in jedem sozialen Netzwerk veröffentlicht werden.

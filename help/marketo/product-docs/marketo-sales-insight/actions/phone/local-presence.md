@@ -20,7 +20,7 @@ ht-degree: 0%
 
    ![](assets/local-presence-1.png)
 
-1. Wählen Sie die **Lokale Präsenz verwenden** aktivieren.
+1. Aktivieren Sie das Kontrollkästchen **Lokale Präsenz verwenden** .
 
    ![](assets/local-presence-2.png)
 
@@ -30,14 +30,14 @@ ht-degree: 0%
 
 Nein, die lokale Präsenz funktioniert nur bei ausgehenden Aufrufen. Der Anrufer kann Sie unter dieser &quot;neuen&quot;Nummer nicht zurückrufen.
 
-**Kann ich mit der lokalen Präsenz überall anrufen?**
+**Kann ich mit der lokalen Präsenz irgendwo aufrufen?**
 
 Wir bieten alle Funktionen für Verkaufs-Telefonanrufe nur in den USA an.
 
-**Ist die lokale Präsenz-Nummer immer gleich, wenn ich einen Gebietscode aufrufe?**
+**Ist die lokale Präsenznummer immer gleich, wenn ich einen Gebietscode aufrufe?**
 
 Die Zahl ist wahrscheinlich immer gleich, wenn Sie in einen Bereichscode aufrufen.
 
-**Ändert sich meine gesamte Zahl oder nur der Gebietscode bei Verwendung der lokalen Präsenz?**
+**Ändert sich meine gesamte Zahl oder nur der Bereichscode bei Verwendung der lokalen Präsenz?**
 
 Ihre ganze Zahl wird sich ändern.

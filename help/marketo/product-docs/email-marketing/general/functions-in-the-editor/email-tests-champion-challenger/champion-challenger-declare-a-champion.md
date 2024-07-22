@@ -19,31 +19,31 @@ Wenn Sie fertig sind, können Sie einen Meister für Ihren E-Mail-Test erklären
 >
 >[Champion/Challenger: Genehmigen Sie Ihren E-Mail-Test](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Wechseln Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Klicken Sie mit der rechten Maustaste auf Ihren E-Mail-Test und klicken Sie dann auf **Declare Champion**.
+1. Klicken Sie mit der rechten Maustaste auf Ihren E-Mail-Test und dann auf **Champion deklarieren**.
 
    ![](assets/champion4.jpg)
 
-1. Wählen Sie die **Gewinner** Ihrer Wahl.
+1. Wählen Sie den **Gewinner** Ihrer Wahl aus.
 
    ![](assets/image2014-9-15-13-3a33-3a33.png)
 
-1. Legen Sie die **Datum deklarieren**.
+1. Legen Sie das Datum **Declare Date** fest.
 
    >[!NOTE]
    >
-   >Bis **Datum deklarieren**, wird Marketo auch weiterhin den alten Meister und Herausforderer schicken. Sobald Datum/Uhrzeit erreicht ist, wird nur der neue Champion gesendet.
+   >Bis zum **Declare Date** sendet Marketo weiterhin den alten Meister und die Herausforderer. Sobald Datum/Uhrzeit erreicht ist, wird nur der neue Champion gesendet.
 
    ![](assets/image2014-9-15-13-3a33-3a47.png)
 
    >[!CAUTION]
    >
-   >Beachten Sie, dass die Standardeinstellung **Datum deklarieren** ist morgen, nicht heute.
+   >Beachten Sie, dass das standardmäßige Datum **Declare Date** morgen ist, nicht heute.
 
-1. Zeit auswählen und auf **Speichern**.
+1. Wählen Sie eine Zeit aus und klicken Sie auf **Speichern**.
 
    ![](assets/image2014-9-15-13-3a33-3a56.png)
 

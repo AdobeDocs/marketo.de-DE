@@ -19,15 +19,15 @@ Es gibt viele Möglichkeiten, eine Person ins Marketo Engage zu bringen. Wenn Si
 >
 >Marketo unterstützt keine E-Mail-Adressen, die Emojis enthalten.
 
-1. Navigieren Sie zu **[!UICONTROL Datenbank]**.
+1. Wechseln Sie zur **[!UICONTROL Datenbank]**.
 
    ![](assets/db-1.png)
 
-1. under **[!UICONTROL Neu]** klicken **[!UICONTROL Neue Person]**.
+1. Klicken Sie unter **[!UICONTROL Neu]** auf **[!UICONTROL Neue Person]**.
 
    ![](assets/two-2.png)
 
-1. Geben Sie die Informationen der Person ein und klicken Sie auf **[!UICONTROL Erstellen]**.
+1. Geben Sie die Informationen der Person ein und klicken Sie dann auf **[!UICONTROL Erstellen]**.
 
    ![](assets/three-2.png)
 

@@ -19,15 +19,15 @@ Um ein Formular zu einer Ihrer Landingpages hinzufügen zu können, muss es gene
 
 Hier erfahren Sie, wie Sie ein vorhandenes Formular genehmigen, das bereit ist zu gehen.
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Wechseln Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities-7.png)
 
-1. Suchen und wählen Sie das Formular aus.
+1. Wählen Sie das Formular aus.
 
    ![](assets/image2014-9-15-17-3a49-3a40.png)
 
-1. under **Formularaktionen** klicken **Genehmigen**.
+1. Klicken Sie unter &quot;**Formulaaktionen**&quot;auf &quot;**Genehmigen**&quot;.
 
    ![](assets/image2014-9-15-17-3a49-3a47.png)
 
@@ -35,7 +35,7 @@ Hier erfahren Sie, wie Sie ein vorhandenes Formular genehmigen, das bereit ist z
 
    ![](assets/image2014-9-15-17-3a50-3a2.png)
 
-   Es ist genehmigt und bereit zu sein [zu einer Landingpage hinzugefügt](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+   Es ist genehmigt und kann [zu einer Landingpage hinzugefügt werden](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
 
    >[!NOTE]
    >
@@ -47,12 +47,12 @@ Wenn Sie Änderungen an einem Formular vornehmen, können Sie die Seite direkt i
 
 >[!PREREQUISITES]
 >
->[Formular bearbeiten](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md)
+>[Bearbeiten eines Formulars](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md)
 
-1. Klicken **Beenden**.
+1. Klicken Sie auf **Beenden**.
 
    ![](assets/image2014-9-15-17-3a51-3a43.png)
 
-1. Klicken **Genehmigen und schließen**.
+1. Klicken Sie auf **Genehmigen und schließen**.
 
    ![](assets/image2014-9-15-17-3a52-3a1.png)

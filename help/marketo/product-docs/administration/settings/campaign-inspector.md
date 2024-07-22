@@ -6,7 +6,7 @@ feature: Campaign Inspector
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 7%
+ht-degree: 3%
 
 ---
 
@@ -16,19 +16,19 @@ Mit dem Kampagneninspektor können Sie alle Ihre Smart-Kampagnen an einem Ort an
 
 ## Campaign Inspector aktivieren {#enable-campaign-inspector}
 
-1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
+1. Wechseln Sie zum Bereich **[!UICONTROL Admin]** .
 
    ![](assets/campaign-inspector-1.png)
 
-1. Klicken **[!UICONTROL Schatztruhe]**.
+1. Klicken Sie auf **[!UICONTROL Schatztruhe]**.
 
    ![](assets/campaign-inspector-2.png)
 
-1. Klicken **[!UICONTROL Bearbeiten]** neben Campaign Inspector.
+1. Klicken Sie neben dem Kampagnen-Inspektor auf **[!UICONTROL Bearbeiten]** .
 
    ![](assets/campaign-inspector-3.png)
 
-1. Wählen Sie die **[!UICONTROL Aktiviert]** Kontrollkästchen und klicken Sie auf **[!UICONTROL Speichern]**.
+1. Aktivieren Sie das Kontrollkästchen **[!UICONTROL Aktiviert]** und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/campaign-inspector-4.png)
 
@@ -42,7 +42,7 @@ Nach der Aktivierung befindet sich die Registerkarte Kampagneninspektor neben de
 
 ![](assets/campaign-inspector-5.png)
 
-Klicken Sie auf **[!UICONTROL Aktive Kampagnen]** Dropdown, um nach verschiedenen Kampagnentypen zu filtern.
+Klicken Sie auf das Dropdown-Menü **[!UICONTROL Aktive Kampagnen]** , um nach verschiedenen Kampagnentypen zu filtern.
 
 ![](assets/campaign-inspector-6.png)
 

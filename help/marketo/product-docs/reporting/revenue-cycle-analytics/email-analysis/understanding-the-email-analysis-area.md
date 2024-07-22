@@ -6,7 +6,7 @@ exl-id: a8219a4d-d240-432d-a7ef-bcfa0b4a82fa
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '360'
 ht-degree: 1%
 
 ---
@@ -17,7 +17,7 @@ Der Bereich &quot;E-Mail-Analyse&quot;konzentriert sich auf E-Mail-Metriken. In 
 
 >[!AVAILABILITY]
 >
->Diese Option steht Benutzern mit der Select Edition oder [Umsatzzyklusanalysen](https://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/) -Add-on. Detaillierte Informationen erhalten Sie vom zuständigen Vertriebsmitarbeiter.
+>Dies ist für Benutzer mit dem Add-on Select Edition oder dem Add-on [Umsatz-Zyklusanalysen](https://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/) verfügbar. Detaillierte Informationen erhalten Sie vom zuständigen Vertriebsmitarbeiter.
 
 ## E-Mail-Klick-Aktivitäts-Heatraster {#email-click-activity-heat-grid}
 

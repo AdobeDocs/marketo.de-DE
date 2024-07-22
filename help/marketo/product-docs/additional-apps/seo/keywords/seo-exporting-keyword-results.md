@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Sie können Ihre Suchbegriffsergebnisse exportieren, um sie für Ihr Team freizugeben oder einen Bericht zu erstellen.
 
-1. Navigieren Sie zu **[!UICONTROL Schlüsselwörter]** Abschnitt.
+1. Wechseln Sie zum Abschnitt **[!UICONTROL Suchbegriffe]** .
 
    ![](assets/image2014-9-18-12-3a51-3a7.png)
 
-1. Klicks **[!UICONTROL Export]**.
+1. Klicken Sie auf **[!UICONTROL Exportieren]**.
 
    ![](assets/image2014-9-18-12-3a51-3a25.png)
 

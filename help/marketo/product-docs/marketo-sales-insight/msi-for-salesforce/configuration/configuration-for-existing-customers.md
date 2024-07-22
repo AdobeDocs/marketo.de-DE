@@ -7,7 +7,7 @@ feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '183'
-ht-degree: 4%
+ht-degree: 3%
 
 ---
 
@@ -23,19 +23,19 @@ Richten Sie die folgende Konfiguration ein, um mit der Verwendung des neuen Insi
 
 1. Öffnen Sie eine neue Registerkarte in Ihrem Browser, um die Marketo Sales Insights-Anmeldedaten von Ihrem Marketo-Konto abzurufen.
 
-1. Navigieren Sie zum **Admin**-Bereich.
+1. Wechseln Sie zum Bereich **Admin** .
 
    ![](assets/configuration-for-existing-customers-1.png)
 
-1. Klicken **Sales Insight**.
+1. Klicken Sie auf **Sales Insight**.
 
    ![](assets/configuration-for-existing-customers-2.png)
 
-1. Klicken **Ansicht** , um die REST-API-Anmeldeinformationen zu füllen.
+1. Klicken Sie auf **Anzeigen** , um die REST-API-Anmeldeinformationen zu füllen.
 
    ![](assets/configuration-for-existing-customers-3.png)
 
-1. Es wird ein Bestätigungs-Popup angezeigt. Klicken **OK**.
+1. Es wird ein Bestätigungs-Popup angezeigt. Klicken Sie auf **OK**.
 
 ## Sales Insight in Salesforce konfigurieren {#configure-sales-insight-in-salesforce}
 
@@ -43,11 +43,11 @@ Richten Sie die folgende Konfiguration ein, um mit der Verwendung des neuen Insi
 
    ![](assets/configuration-for-existing-customers-4.png)
 
-1. Suchen und Auswählen **Remote Site Settings**.
+1. Suchen Sie nach **Remote Site Settings** und wählen Sie sie aus.
 
    ![](assets/configuration-for-existing-customers-5.png)
 
-1. Klicken **Neue Remote-Site**.
+1. Klicken Sie auf **Neue Remote-Site**.
 
    ![](assets/configuration-for-existing-customers-6.png)
 
@@ -55,7 +55,7 @@ Richten Sie die folgende Konfiguration ein, um mit der Verwendung des neuen Insi
 
    ![](assets/configuration-for-existing-customers-7.png)
 
-1. Klicken **Speichern**.
+1. Klicken Sie auf **Speichern**.
 
    ![](assets/configuration-for-existing-customers-8.png)
 

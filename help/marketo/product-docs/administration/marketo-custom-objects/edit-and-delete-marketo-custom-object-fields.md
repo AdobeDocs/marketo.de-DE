@@ -21,7 +21,7 @@ Manchmal müssen Sie ein Feld bearbeiten, das noch nicht genehmigt wurde.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-1.png)
 
-1. Im [!UICONTROL Felder] Registerkarte, klicken Sie auf **[!UICONTROL Feldaktionen]** und **[!UICONTROL Feld bearbeiten]**.
+1. Klicken Sie auf der Registerkarte [!UICONTROL Felder] auf **[!UICONTROL Feldaktionen]** und **[!UICONTROL Feld bearbeiten]**.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-2.png)
 
@@ -41,11 +41,11 @@ Manchmal müssen Sie ein Feld bearbeiten, das noch nicht genehmigt wurde.
 
 Wenn Sie ein Feld in einem benutzerdefinierten Objekt nicht mehr benötigen, können Sie es löschen.
 
-1. Klicken Sie auf der Registerkarte Felder auf **[!UICONTROL Feldaktionen]** und **[!UICONTROL Feld löschen]**.
+1. Klicken Sie auf der Registerkarte &quot;Felder&quot;auf **[!UICONTROL Feldaktionen]** und **[!UICONTROL Feld löschen]**.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-5.png)
 
-1. Stellen Sie sicher, dass Sie das Feld wirklich löschen möchten, bevor Sie den Trigger abrufen! Klicken **[!UICONTROL Löschen]**.
+1. Stellen Sie sicher, dass Sie das Feld wirklich löschen möchten, bevor Sie den Trigger abrufen! Klicken Sie auf **[!UICONTROL Löschen]**.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-6.png)
 

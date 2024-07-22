@@ -19,15 +19,15 @@ Marketo Engage bietet eine feine Kontrolle über die Synchronisation benutzerdef
 >
 >**Erforderliche Administratorberechtigungen**
 
-1. Klicks **[!UICONTROL Admin]**.
+1. Klicken Sie auf **[!UICONTROL Admin]**.
 
    ![](assets/image2014-12-10-13-3a9-3a47.png)
 
-1. Klicks **[!UICONTROL Admin]** und dann **[!UICONTROL Salesforce-Objektsynchronisierung]**.
+1. Klicken Sie auf **[!UICONTROL Admin]** und dann auf **[!UICONTROL Salesforce-Objektsynchronisierung]**.
 
    ![](assets/image2015-12-11-15-3a11-3a41.png)
 
-1. **[!UICONTROL Salesforce-Objektsynchronisierung]** in der linken Spalte angezeigt.
+1. **[!UICONTROL Salesforce-Objektsynchronisierung]** wird in der linken Spalte angezeigt.
 
    ![](assets/image2015-12-11-15-3a15-3a15.png)
 
@@ -35,11 +35,11 @@ Marketo Engage bietet eine feine Kontrolle über die Synchronisation benutzerdef
 
    ![](assets/image2014-12-10-13-3a10-3a11.png)
 
-1. Klicks **[!UICONTROL Sichtbare Felder bearbeiten]**.
+1. Klicken Sie auf **[!UICONTROL Sichtbare Felder bearbeiten]**.
 
    >[!TIP]
    >
-   >Wenn die Variable **[!UICONTROL Sichtbare Felder bearbeiten]** ausgegraut ist, wird das Objekt derzeit in einer Smart-Liste oder Smart-Kampagne verwendet. Entfernen Sie alle Zuordnungen, um fortzufahren.
+   >Wenn die Schaltfläche **[!UICONTROL Sichtbare Felder bearbeiten]** ausgegraut ist, wird das Objekt derzeit in einer Smart-Liste oder in einer Smart-Kampagne verwendet. Entfernen Sie alle Zuordnungen, um fortzufahren.
 
    ![](assets/image2014-12-10-13-3a10-3a25.png)
 
@@ -55,7 +55,7 @@ Marketo Engage bietet eine feine Kontrolle über die Synchronisation benutzerdef
    >
    >Alle Felder sind standardmäßig als Filterbegrenzungen ausgewählt.
 
-1. Klicken Sie auf **[!UICONTROL Felder]** um Ihre Änderungen zu bestätigen.
+1. Klicken Sie auf die Registerkarte **[!UICONTROL Felder]** , um Ihre Änderungen zu bestätigen.
 
    ![](assets/image2014-12-10-13-3a10-3a56.png)
 

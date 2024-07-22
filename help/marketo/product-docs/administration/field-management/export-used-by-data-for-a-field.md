@@ -7,7 +7,7 @@ feature: Field Management
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '102'
-ht-degree: 4%
+ht-degree: 0%
 
 ---
 
@@ -19,11 +19,11 @@ Als Administrator haben Sie die Möglichkeit, verwandte Assets eines Felds zu ex
 >
 >**Erforderliche Administratorberechtigungen**
 
-1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
+1. Wechseln Sie zum Bereich **[!UICONTROL Admin]** .
 
    ![](assets/export-used-by-data-for-a-field-1.png)
 
-1. Klicken **[!UICONTROL Feldverwaltung]**.
+1. Klicken Sie auf **[!UICONTROL Feldverwaltung]**.
 
    ![](assets/export-used-by-data-for-a-field-2.png)
 
@@ -31,11 +31,11 @@ Als Administrator haben Sie die Möglichkeit, verwandte Assets eines Felds zu ex
 
    ![](assets/export-used-by-data-for-a-field-3.png)
 
-1. Klicken Sie auf **[!UICONTROL Feldaktionen]** und wählen Sie **[!UICONTROL Von]**.
+1. Klicken Sie auf das Dropdown-Menü **[!UICONTROL Feldaktionen]** und wählen Sie **[!UICONTROL Verwendete exportieren von]** aus.
 
    ![](assets/export-used-by-data-for-a-field-4.png)
 
-1. Ein [!DNL Excel] -Datei exportiert. Öffnen Sie es, um seinen Inhalt anzuzeigen.
+1. Eine [!DNL Excel] -Datei wird exportiert. Öffnen Sie es, um seinen Inhalt anzuzeigen.
 
    ![](assets/export-used-by-data-for-a-field-5.png)
 

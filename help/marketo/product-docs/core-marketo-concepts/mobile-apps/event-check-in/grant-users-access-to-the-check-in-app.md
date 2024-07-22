@@ -6,7 +6,7 @@ exl-id: 898ac49f-a708-4cdf-b341-58582740a45b
 feature: Mobile Marketing
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
@@ -17,23 +17,23 @@ Marketo Engage hat eine besondere Benutzerrolle für die Check-in-App für Ereig
 
 >[!IMPORTANT]
 >
->Am 2. Oktober 2023 hat Adobe die Marketo Events App aus allen App Stores entfernt. Wenn Sie die App bereits auf Ihrem Tablet/Mobilgerät installiert haben, können Sie sie vorerst weiter verwenden. Sobald Ihre Marketo Engage-Instanz zur Authentifizierung von Marketo zu Adobe Identity migriert wurde, können Sie nicht mehr auf die App zugreifen. [Weitere Informationen](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+>Am 2. Oktober 2023 hat Adobe die Marketo Events App aus allen App Stores entfernt. Wenn Sie die App bereits auf Ihrem Tablet/Mobilgerät installiert haben, können Sie sie vorerst weiter verwenden. Sobald Ihre Marketo Engage-Instanz zur Authentifizierung von Marketo zu Adobe Identity migriert wurde, können Sie nicht mehr auf die App zugreifen. [Weitere Infos](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 ## Neue Benutzerrolle für Mobilgeräte erstellen {#create-a-new-user-role-for-mobile}
 
-1. Klicks **[!UICONTROL Admin]**.
+1. Klicken Sie auf **[!UICONTROL Admin]**.
 
    ![](assets/image2015-6-2-10-3a39-3a31.png)
 
-1. Klicks **[!UICONTROL Benutzer und Rollen]**.
+1. Klicken Sie auf **[!UICONTROL Benutzer und Rollen]**.
 
    ![](assets/image2015-6-2-10-3a56-3a0.png)
 
-1. Klicken Sie auf **[!UICONTROL Rollen]** Registerkarte und klicken Sie dann auf **[!UICONTROL Neue Rolle]**.
+1. Klicken Sie auf die Registerkarte **[!UICONTROL Rollen]** und dann auf **[!UICONTROL Neue Rolle]**.
 
    ![](assets/image2015-6-2-11-3a3-3a23.png)
 
-1. Geben Sie einen Namen für die neue Rolle und eine optionale Beschreibung ein. Überprüfen Sie die **[!UICONTROL Auf Mobile App zugreifen]** und klicken Sie auf **[!UICONTROL Erstellen]**.
+1. Geben Sie einen Namen für die neue Rolle und eine optionale Beschreibung ein. Aktivieren Sie das Kontrollkästchen **[!UICONTROL Auf Mobile App zugreifen]** und klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/image2015-6-2-11-3a4-3a58.png)
 
@@ -41,15 +41,15 @@ Marketo Engage hat eine besondere Benutzerrolle für die Check-in-App für Ereig
 
 ## Einladen neuer Benutzer zum Einchecken der App {#invite-new-users-for-the-check-in-app}
 
-1. Klicken Sie auf **[!UICONTROL Benutzer]** Registerkarte.
+1. Klicken Sie auf die Registerkarte **[!UICONTROL Benutzer]** .
 
    ![](assets/image2015-6-2-11-3a10-3a42.png)
 
-1. Klicks **[!UICONTROL Neuen Benutzer einladen]**.
+1. Klicken Sie auf **[!UICONTROL Neuen Benutzer einladen]**.
 
    ![](assets/image2015-6-2-11-3a11-3a32.png)
 
-1. Geben Sie die Informationen des neuen Benutzers ein. Aktivieren Sie die Kontrollkästchen für alle entsprechenden Rollen und die neue Rolle mit der Berechtigung zum Zugriff auf die Mobile App. Klicks **[!UICONTROL Einladen]** wenn Sie fertig sind.
+1. Geben Sie die Informationen des neuen Benutzers ein. Aktivieren Sie die Kontrollkästchen für alle entsprechenden Rollen und die neue Rolle mit der Berechtigung zum Zugriff auf die Mobile App. Klicken Sie auf **[!UICONTROL Einladen]** , wenn Sie fertig sind.
 
    ![](assets/image2015-6-2-11-3a16-3a26.png)
 

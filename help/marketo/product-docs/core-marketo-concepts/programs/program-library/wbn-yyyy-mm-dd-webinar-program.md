@@ -2,11 +2,11 @@
 description: WBN-JJJJ-MM-TT-Webinar-Programm - Marketo Docs - Produktdokumentation
 title: WBN-JJJJ-MM-TT-Webinar-Programm
 feature: Programs
-exl-id: af2febb3-1773-4507-a694-c6c0f3d65a22
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 0506606e-d09a-42d2-949f-a65371a29c00
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '574'
-ht-degree: 20%
+source-wordcount: '591'
+ht-degree: 15%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 20%
 
 Dies ist ein Beispiel für ein Webinar-Programm mit Registrierungs-Management, drei Einladungs-E-Mails, Erinnerungen an die Teilnahme und Follow-up-E-Mails, die ein Marketo Engage Event-Programm verwenden.
 
-Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalten Sie vom Adobe-Account-Team oder unter [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} Seite.
+Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Programms an das Adobe-Account-Team oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} .
 
 ## Kanal-Zusammenfassung {#channel-summary}
 
@@ -23,25 +23,25 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
   <tr> 
    <th>Kanal</th> 
    <th>Status der Mitgliedschaft</th>
-   <th>Analyseverhalten</th>
+   <th>Analytics Behavior</th>
    <th>Programmtyp</th>
   </tr> 
   <tr> 
    <td>Veranstaltung</td> 
    <td>01 - Eingeladen 
-   <br/>02 - Warteliste
-   <br/>03 - Registriert
-   <br/>04 - Keine Sendung
+   <br/>02 - Auf Warteliste
+   <br/>03 - Registered
+   <br/>04 - Keine Anzeige
    <br/>05 - AnGEMESSEN - Erfolg
-   <br/>06 - Angenommene On-Demand - Erfolg</td>
-   <td>Inklusiv</td>
+   <br/>06 - Bei On-Demand teilgenommen - Erfolg</td>
+   <td>Einschließlich</td>
    <td>Veranstaltung
    <p>(Integriert: Veranstaltung mit Webinar)</td>
   </tr>
  </tbody> 
 </table>
 
-## Das Programm enthält die folgenden Assets {#program-contains-the-following-assets}
+## Das Programm enthält die folgende Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -92,17 +92,17 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
    <td>FM-Ereignisregistrierung</td>
   </tr>
   <tr> 
-   <td>Landing Page</td> 
+   <td>Landingpage</td> 
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Schnellstart-LP-Vorlage</a></td>
    <td>01 - LP - Registrierung</td>
   </tr>
   <tr> 
-   <td>Landing Page</td> 
+   <td>Landingpage</td> 
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Schnellstart-LP-Vorlage</a></td>
    <td>02 - LP - Vielen Dank</td>
   </tr>
   <tr> 
-   <td>Landing Page</td> 
+   <td>Landingpage</td> 
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Schnellstart-LP-Vorlage</a></td>
    <td>03 - LP - On-Demand</td>
   </tr>
@@ -177,7 +177,7 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
 
 ![](assets/wbn-yyyy-mm-dd-webinar-program-1.png)
 
-## Meine Token Enthalten {#my-tokens-included}
+## My Tokens Include {#my-tokens-included}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -222,7 +222,7 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
    <td>Doppelklicken für Details  
 <br/><code><--My Event Description Here--></code> 
 <br/>Bearbeiten Sie diese Ereignisbeschreibung auf Programmebene auf der Registerkarte My Tokens . 
-<br/>Sie werden Folgendes erfahren: 
+<br/>Sie werden Folgendes lernen: 
 <li>Aufzählungszeichen 1</li>
 <li>Aufzählungszeichen 2</li>
 <li>Aufzählungszeichen 3</li></td>
@@ -296,13 +296,13 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
    * Erstellen von Tags in diesem Abonnement - _Empfohlen_
    * Ignorieren
 
-* **Landingpage-Vorlage mit demselben Namen**
+* **Vorlage für Einstiegsseiten mit demselben Namen**
    * Originalvorlage kopieren
-   * Zielvorlage verwenden - _Empfohlen_
+   * Verwenden Sie die Zielvorlage - _Empfohlen_
 
 * **Bilder mit demselben Namen**
    * Beide Dateien beibehalten
-   * Element in diesem Abonnement ersetzen - _Empfohlen_
+   * Ersetzen des Elements in diesem Abonnement - _Empfohlen_
 
 * **E-Mail-Vorlagen mit demselben Namen**
    * Beide Vorlagen beibehalten
@@ -325,7 +325,7 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
 
 >[!TIP]
 >
->Vergessen Sie nicht, die Kampagne &quot;05 - Teilnahme (Programmerfolg)&quot;zu aktivieren, um den Erfolg zu verfolgen! Verwenden Sie dies _before_ Ihre E-Mails werden gesendet.
+>Vergessen Sie nicht, die Kampagne &quot;05 - Teilnahme (Programmerfolg)&quot;zu aktivieren, um den Erfolg zu verfolgen! Führen Sie dies _vor_ aus, wenn Ihre E-Mails gesendet werden.
 
 >[!IMPORTANT]
 >

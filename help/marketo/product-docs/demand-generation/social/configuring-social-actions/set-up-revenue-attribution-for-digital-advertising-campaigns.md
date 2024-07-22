@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10098812
-description: Einrichten der Umsatzzuordnung für digitale Werbekampagnen - Marketo Docs - Produktdokumentation
-title: Einrichten der Umsatzzuordnung für digitale Werbekampagnen
+description: Einrichten der Umsatzzuordnung für digitale Advertising-Kampagnen - Marketo Docs - Produktdokumentation
+title: Einrichten der Umsatzzuordnung für digitale Advertising-Kampagnen
 exl-id: 7fb16c5f-7e76-429b-8b01-b5a1dd898158
 feature: Social
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '835'
+source-wordcount: '825'
 ht-degree: 0%
 
 ---
 
-# Einrichten der Umsatzzuordnung für digitale Werbekampagnen {#set-up-revenue-attribution-for-digital-advertising-campaigns}
+# Einrichten der Umsatzzuordnung für digitale Advertising-Kampagnen {#set-up-revenue-attribution-for-digital-advertising-campaigns}
 
 So richten Sie die Umsatzzuordnung für digitale Werbekanäle und Kampagnen ein. Nach der Einrichtung können Sie die Erstkontakt- und Multi-Touch-Umsatzzuordnung für digitale Anzeigen auf die gleiche Weise vornehmen wie bei anderen Marketo-Programmen.
 
@@ -21,7 +21,7 @@ Mit separaten Programmen können Sie dann die Anzahl der Konversionen von jedem 
 
 >[!PREREQUISITES]
 >
->* Richten Sie ein Kanal-Tag mit Statuswerten und Programmerfolg ein (z. B. digitale Werbung oder Social Paid und PPC)
+>* Einrichten eines Kanal-Tags mit Statuswerten und Programmerfolg (z. B. Digital Advertising oder Social Paid und PPC)
 >* Erstellen oder bearbeiten Sie ein Formular, um eine Abfragezeichenfolge an die Person weiterzugeben
 >* Stellen Sie sicher, dass Sie Zugriff auf einige Analytics-Funktionen von Umsatzzyklen haben, um Berichte zu Ihren Anzeigenkanälen und -kampagnen zu erstellen.
 
@@ -29,15 +29,15 @@ Mit separaten Programmen können Sie dann die Anzahl der Konversionen von jedem 
 
 Im Gegensatz zu einigen Programmen (wie E-Mails), die für einen bestimmten Zeitraum regelmäßig ausgeführt werden, sind Standardprogramme immer aktiviert.
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Wechseln Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities-5.png)
 
-1. Klicks **Neu** und wählen **Neues Programm**.
+1. Klicken Sie auf **Neu** und wählen Sie **Neues Programm** aus.
 
    ![](assets/image2016-3-14-15-52-0.png)
 
-1. Wenn Sie bereits über ein Programm verfügen, können Sie [Klonen](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md).
+1. Wenn Sie bereits ein Programm eingerichtet haben, können Sie [es klonen](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md).
 
    >[!TIP]
    >
@@ -53,7 +53,7 @@ Im Gegensatz zu einigen Programmen (wie E-Mails), die für einen bestimmten Zeit
    >
    >Sie können eine Abfragezeichenfolgenmethodik erstellen, die alle Variablen enthält, die Sie messen möchten. Marketo verwendet diese Variablen, um Ihren verschiedenen Programmen Personen hinzuzufügen.
    >
-   >Sie können beispielsweise Kanal type_Channel__Asset__Region verwenden. Dies könnte wie folgt aussehen: SP_FB_NewGuide_US. **Hinweis**: Abkürzungen sparen Speicherplatz.
+   >Sie können beispielsweise Kanal type_Channel__Asset__Region verwenden. Dies könnte wie folgt aussehen: SP_FB_NewGuide_US. **Hinweis**: Abkürzungen sparen Platz.
    >
    >Oder richten Sie es als Channel_Adsource_AssetName_Region_UniqueIdNumber ein. Das könnte wie folgt aussehen: Social-Paid_Facebook_NewGuide_NA_123.
 
@@ -65,9 +65,9 @@ Im Gegensatz zu einigen Programmen (wie E-Mails), die für einen bestimmten Zeit
 
    >[!NOTE]
    >
-   >Die in den beiden Triggern verwendete Abfragezeichenfolge und die **Programm, das den Namen erfasst** Filter ist für Sie eindeutig. Die hier gezeigten Abfragezeichenfolgen sind beispielsweise nur verfügbar. Wenn Sie das Feld geklont haben, ersetzen Sie einfach diese Felder.
+   >Die in den beiden Triggern verwendete Abfragezeichenfolge und der Filter **Programm, das den erfassten Namen** enthält, sind für Sie eindeutig. Die hier gezeigten Abfragezeichenfolgen sind beispielsweise nur verfügbar. Wenn Sie das Feld geklont haben, ersetzen Sie einfach diese Felder.
 
-1. Erstellen Sie einen Flussschritt, um das Attribut in **Akquiseprogramm** und setzen Sie den neuen Wert auf den Wert, den Sie für gebührenpflichtige Social-Media-Kampagnen definiert haben.
+1. Erstellen Sie einen Flussschritt, um das Attribut in **Akquise-Programm** zu ändern und den neuen Wert auf den Wert festzulegen, den Sie für gebührenpflichtige Social-Media-Kampagnen definiert haben.
 
    ![](assets/image2016-3-14-14-3a58-3a6.png)
 
@@ -77,7 +77,7 @@ Im Gegensatz zu einigen Programmen (wie E-Mails), die für einen bestimmten Zeit
 
 Sie benötigen eine zweite intelligente Kampagne, um den Status von Personen zu ändern, damit diese den Programmerfolg erzielen und in die Berechnung der Umsatzzuordnung einbezogen werden können.
 
-1. Im **Formular ausfüllen** Trigger: Geben Sie den Programmnamen in die Abfragezeichenfolge ein. Wenn Sie das Programm klonen, ersetzen Sie einfach den alten Namen der Abfragezeichenfolge durch den neuen.
+1. Geben Sie im Trigger **Formular ausfüllen** den Programmnamen in die Abfragezeichenfolge ein. Wenn Sie das Programm klonen, ersetzen Sie einfach den alten Namen der Abfragezeichenfolge durch den neuen.
 
    ![](assets/image2016-3-23-14-3a7-3a20.png)
 
@@ -108,16 +108,16 @@ Nachdem Sie das Programm und die Kampagnen eingerichtet haben, erstellen Sie die
    >
    >`www.marketo.com?**source**=Social-Paid&**comment**=Social-Paid_Facebook_NewGuide_NA&**camp**=abc&**kk=**xyz`
    >
-   >* **source** ist die als Kanalkennung verwendete Personenquelle.
+   >* **source** ist die Person, die von Source als Kanalkennung verwendet wird.
    >* **comment** ist die eindeutige Kennung, die für jedes Programm erstellt wird.
-   >* **Lager** ist die Kampagne in Facebook, LinkedIn oder Google
+   >* **camp** ist die Kampagne in Facebook, LinkedIn oder Google
    >* **kk** ist das Keyword oder der Asset-Name, das/die Sie erfassen möchten
    >
    >**Diese vier Begriffe müssen in Kleinbuchstaben verfasst sein, und die URL darf keine Leerzeichen enthalten, damit diese Informationen erfasst werden.**
 
 ## Bewährte Methoden {#best-practices}
 
-Verwenden Sie ein einzelnes Kanal-Tag zur Darstellung aller digitalen Werbung oder mehrere Kanal-Tags, wenn Sie detailliertere Vergleiche mit Ihren anderen Marketing-Kanälen wünschen (z. B. Social-Paid, Search-Paid, Display, Retargeting).
+Verwenden Sie ein einzelnes Kanal-Tag, um alle Digital Advertising-Tags darzustellen, oder mehrere Kanal-Tags, wenn Sie detailliertere Vergleiche mit Ihren anderen Marketing-Kanälen wünschen (z. B. Social-Paid, Search-Paid, Display, Retargeting).
 
 Richten Sie dann für jede benötigte Berichtsansicht verschiedene Programme ein. Verwenden Sie eine allgemeine ID als Parameter in der URL (z. B. BC) in der Abfragezeichenfolge, wenn 10 Regionen eine &quot;Big Campaign&quot;gemeinsam starten und Ergebnisse regionsübergreifend anzeigen möchten.
 

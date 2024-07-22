@@ -7,7 +7,7 @@ feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '273'
-ht-degree: 13%
+ht-degree: 11%
 
 ---
 
@@ -21,7 +21,7 @@ Sie können anpassen, welche Kontaktinformationen Ihnen angezeigt werden, indem 
 
    ![](assets/one-5.png)
 
-1. Blättern Sie durch und wählen Sie die gewünschten Spalten aus (Sie können auch auf **Alle auswählen** wenn Sie jede Spalte benötigen). Klicken Sie abschließend auf die Liste.
+1. Blättern Sie durch und wählen Sie die gewünschten Spalten aus (Sie können auch auf **Alle auswählen** klicken, wenn Sie jede Spalte verwenden möchten). Klicken Sie abschließend auf die Liste.
 
    ![](assets/two-4.png)
 
@@ -42,7 +42,7 @@ Sie können anpassen, welche Kontaktinformationen Ihnen angezeigt werden, indem 
    <td>Vorname</td> 
   </tr> 
   <tr> 
-   <td>Nachname (standard)</td> 
+   <td>Nachname (Standard)</td> 
    <td>Nachname</td> 
   </tr> 
   <tr> 
@@ -58,7 +58,7 @@ Sie können anpassen, welche Kontaktinformationen Ihnen angezeigt werden, indem 
    <td colspan="1">Stellenbezeichnung</td> 
   </tr> 
   <tr> 
-   <td>Unternehmen (standard)</td> 
+   <td>Firma (Standard)</td> 
    <td>Unternehmensname</td> 
   </tr> 
   <tr> 
@@ -66,7 +66,7 @@ Sie können anpassen, welche Kontaktinformationen Ihnen angezeigt werden, indem 
    <td>Vertriebskampagne der Person, die sich derzeit befindet</td> 
   </tr> 
   <tr> 
-   <td># Kampagnen</td> 
+   <td>Anz. Kampagnen</td> 
    <td>Gesamtzahl der Verkaufskampagnen, zu denen die Person gehörte</td> 
   </tr> 
   <tr> 
@@ -91,14 +91,14 @@ Sie können anpassen, welche Kontaktinformationen Ihnen angezeigt werden, indem 
   </tr> 
   <tr> 
    <td>Einverständnis</td> 
-   <td><p>Rechtliche Interessen, Durchführung eines Vertrags, Erfüllung gesetzlicher Verpflichtungen, Schutz wesentlicher Interessen, öffentliches Interesse/öffentliche Behörde und andere</p></td> 
+   <td><p>Rechtliche Interessen, Ausführung eines Vertrags, Erfüllung gesetzlicher Verpflichtungen, Schutz wesentlicher Interessen, öffentliches Interesse/öffentliche Behörde und andere</p></td> 
   </tr> 
   <tr> 
    <td>Offene Aufgaben</td> 
    <td>Anzahl der offenen Aufgaben für diese Person</td> 
   </tr> 
   <tr> 
-   <td># Ansichten</td> 
+   <td>Anz. Ansichten</td> 
    <td>Gesamtzahl der Ansichten dieser Person</td> 
   </tr> 
   <tr> 
@@ -119,14 +119,14 @@ Sie können anpassen, welche Kontaktinformationen Ihnen angezeigt werden, indem 
   </tr> 
   <tr> 
    <td>Quelle</td> 
-   <td>Quelle, aus der die Person erstellt wurde</td> 
+   <td>Source, aus der die Person erstellt wurde</td> 
   </tr> 
   <tr> 
    <td>Gruppen (Standard)</td> 
    <td>Gruppen, denen die Person angehört</td> 
   </tr> 
   <tr> 
-   <td colspan="1">Hat abbestellt</td> 
+   <td colspan="1">Abbestellt</td> 
    <td colspan="1">Status der Abmeldung von Vertrieb</td> 
   </tr> 
  </tbody> 

@@ -7,7 +7,7 @@ feature: Smart Lists
 source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
 source-wordcount: '138'
-ht-degree: 6%
+ht-degree: 5%
 
 ---
 
@@ -19,15 +19,15 @@ Marketo Engage verfügt über eine System-Smart-Liste, die anhand der E-Mail-Adr
 >
 >[Erstellen einer Smart-Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
 
-1. Navigieren Sie zu **[!UICONTROL Marketingaktivitäten]** Bereich.
+1. Wechseln Sie zum Bereich **[!UICONTROL Marketingaktivitäten]** .
 
 ![](assets/ma-2.png)
 
-1. Wählen Sie Ihre Smart-Liste aus und klicken Sie auf die **[!UICONTROL Smart List]** Registerkarte.
+1. Wählen Sie Ihre Smart-Liste aus und klicken Sie auf die Registerkarte **[!UICONTROL Smart-Liste]** .
 
    ![](assets/two-4.png)
 
-1. Suchen und Ziehen **[!UICONTROL Felder duplizieren]** auf die Arbeitsfläche.
+1. Suchen und ziehen Sie den Filter **[!UICONTROL Duplizierte Felder]** auf die Arbeitsfläche.
 
    ![](assets/three-4.png)
 
@@ -36,12 +36,12 @@ Marketo Engage verfügt über eine System-Smart-Liste, die anhand der E-Mail-Adr
    * E-Mail-Adresse
    * Vollständiger Name
    * Nachname
-   * Aktualisiert am
+   * Aktualisiert um
 
    >[!NOTE]
    >
-   >Bei allen Feldern außer E-Mail-Adresse wird zwischen Groß- und Kleinschreibung unterschieden. Die Verwendung von &quot;john doe&quot;im Feld &quot;Vollständiger Name&quot;würde _not_ Ergebnisse für John Doe zurückgeben.
+   >Bei allen Feldern außer E-Mail-Adresse wird zwischen Groß- und Kleinschreibung unterschieden. Wenn Sie also &quot;john doe&quot;im Feld &quot;Full Name&quot;verwenden, werden für John Doe _nicht_ Ergebnisse zurückgegeben.
 
    ![](assets/four-2.png)
 
-   Abgeschlossen! Führen Sie die Smart-Liste aus, um Personen mit demselben Wert im zuvor ausgewählten Feld zu suchen.
+   Fertig! Führen Sie die Smart-Liste aus, um Personen mit demselben Wert im zuvor ausgewählten Feld zu suchen.

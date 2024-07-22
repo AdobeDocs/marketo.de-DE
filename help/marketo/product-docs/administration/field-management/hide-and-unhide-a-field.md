@@ -21,15 +21,15 @@ Wenn Sie kein Feld mehr im Marketo Engage verwenden, können Sie es über die Be
 >
 >**Erforderliche Administratorberechtigungen**
 
-1. Navigieren Sie zu **[!UICONTROL Admin]** Bereich.
+1. Wechseln Sie zum Bereich **[!UICONTROL Admin]** .
 
    ![](assets/hide-and-unhide-a-field-1.png)
 
-1. Klicks **[!UICONTROL Feldverwaltung]**.
+1. Klicken Sie auf **[!UICONTROL Feldverwaltung]**.
 
    ![](assets/hide-and-unhide-a-field-2.png)
 
-1. Suchen Sie das Feld, wählen Sie es aus und klicken Sie dann unter **[!UICONTROL Feldaktionen]** click **[!UICONTROL Feld ausblenden]**.
+1. Suchen Sie das Feld, wählen Sie es aus und klicken Sie dann unter **[!UICONTROL Feldaktionen]** auf **[!UICONTROL Feld ausblenden]**.
 
    ![](assets/hide-and-unhide-a-field-3.png)
 
@@ -39,7 +39,7 @@ Wenn Sie kein Feld mehr im Marketo Engage verwenden, können Sie es über die Be
    >* Standardfelder (System) können nicht ausgeblendet werden.
    >* Sie können die Informationsfelder für Chancen nicht verbergen.
 
-1. Klicks **[!UICONTROL Ausblenden]** zur Bestätigung.
+1. Klicken Sie zur Bestätigung auf **[!UICONTROL Ausblenden]** .
 
    ![](assets/hide-and-unhide-a-field-4.png)
 
@@ -49,15 +49,15 @@ Wenn Sie kein Feld mehr im Marketo Engage verwenden, können Sie es über die Be
 
 ## Einblenden eines Felds {#unhide-a-field}
 
-1. Navigieren Sie zu **[!UICONTROL Admin]** Bereich.
+1. Wechseln Sie zum Bereich **[!UICONTROL Admin]** .
 
    ![](assets/hide-and-unhide-a-field-6.png)
 
-1. Klicks **[!UICONTROL Feldverwaltung]**.
+1. Klicken Sie auf **[!UICONTROL Feldverwaltung]**.
 
    ![](assets/hide-and-unhide-a-field-7.png)
 
-1. Wählen Sie das Feld aus. Im [!UICONTROL Feldaktionen] Dropdown, klicken Sie auf **[!UICONTROL Feld einblenden]**.
+1. Wählen Sie das Feld aus. Klicken Sie in der Dropdownliste [!UICONTROL Feldaktionen] auf **[!UICONTROL Feld einblenden]**.
 
    ![](assets/hide-and-unhide-a-field-8.png)
 

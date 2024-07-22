@@ -19,7 +19,7 @@ Sie können einen Bericht erstellen, der anzeigt, in welcher Phase Ihres Umsatzz
 >
 >Diese Funktion ist nicht in allen Marketo-Editionen enthalten. Weitere Informationen erhalten Sie von Ihrem Kundenbetreuer.
 
-1. Navigieren Sie zu **Analytics**.
+1. Wechseln Sie zu **Analytics**.
 
    ![](assets/image2017-3-27-15-3a43-3a55.png)
 
@@ -27,7 +27,7 @@ Sie können einen Bericht erstellen, der anzeigt, in welcher Phase Ihres Umsatzz
 
    ![](assets/image2017-3-27-15-3a46-3a27.png)
 
-1. Klicken Sie auf **Einrichtung** Registerkarte. Doppelklicken Sie auf die **Person erstellt bei** -Feld, um den gewünschten Zeitraum für die Berichterstellung festzulegen.
+1. Klicken Sie auf die Registerkarte **Setup**. Doppelklicken Sie auf das Feld **Person erstellt am** , um den gewünschten Zeitraum für die Berichterstellung festzulegen.
 
    ![](assets/image2017-3-28-8-3a6-3a23.png)
 
@@ -35,6 +35,6 @@ Sie können einen Bericht erstellen, der anzeigt, in welcher Phase Ihres Umsatzz
 
    ![](assets/image2015-4-29-12-3a11-3a31.png)
 
-1. Klicken Sie auf **Bericht** Registerkarte. Jetzt können Sie sehen, in welcher Phase Ihres Umsatzmodells sich Ihre Mitarbeiter befinden, und sich auf etwaige Engpässe konzentrieren.
+1. Klicken Sie auf die Registerkarte **Bericht** . Jetzt können Sie sehen, in welcher Phase Ihres Umsatzmodells sich Ihre Mitarbeiter befinden, und sich auf etwaige Engpässe konzentrieren.
 
    ![](assets/image2017-3-28-8-3a6-3a48.png)

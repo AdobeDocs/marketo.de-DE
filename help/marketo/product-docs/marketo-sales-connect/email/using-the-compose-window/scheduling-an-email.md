@@ -23,7 +23,7 @@ Befolgen Sie diese einfachen Schritte, um eine E-Mail zu planen.
 
    ![](assets/one-1.png)
 
-1. Wenn Sie die Erstellung Ihrer E-Mail abgeschlossen haben, klicken Sie auf **Zeitplan** unten rechts
+1. Wenn Sie die Erstellung Ihrer E-Mail abgeschlossen haben, klicken Sie unten rechts auf **Plan** .
 
    ![](assets/two-1.png)
 
@@ -45,4 +45,4 @@ Befolgen Sie diese einfachen Schritte, um eine E-Mail zu planen.
 
    >[!MORELIKETHIS]
    >
-   >[Übersicht über das Command Center](/help/marketo/product-docs/marketo-sales-connect/email/command-center/command-center-overview.md)
+   >[Übersicht über die Befehlszentrale](/help/marketo/product-docs/marketo-sales-connect/email/command-center/command-center-overview.md)

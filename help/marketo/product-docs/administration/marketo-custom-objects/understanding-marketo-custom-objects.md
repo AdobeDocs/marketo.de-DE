@@ -7,7 +7,7 @@ feature: Custom Objects
 source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
 source-wordcount: '678'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -22,12 +22,12 @@ Verwenden Sie benutzerdefinierte Objekte, um Metriken zu verfolgen, die für Ihr
 Verwenden Sie benutzerdefinierte Objekte als Filter und Trigger in Ihren Smart-Kampagnen. Beispiel:
 
 * **Filter**: E-Mails nur an Inhaber einer bestimmten Fahrzeugmarke senden
-* **Trigger**: Senden Sie eine E-Mail, wenn einer Person oder einem Unternehmen ein benutzerdefiniertes Objekt hinzugefügt wird.
+* **Trigger**: Senden Sie eine E-Mail, wenn ein benutzerdefiniertes Objekt zu einer Person oder einem Unternehmen hinzugefügt wird.
 
 Sie können benutzerdefinierte Objekte in einer Eins-zu-viele- oder einer n-zu-n-Beziehung einrichten. Beispiel:
 
-* **Eins-zu-viele**: Eine Person besitzt mehrere Autos
-* **Viele-zu-viele**: Mehrere Schüler/innen sind an mehreren Kursen aus einem Kurskatalog eingeschrieben.
+* **1:n**: Eine Person besitzt mehrere Autos
+* **Viele-zu-viele**: Mehrere Schüler/innen werden in mehreren Kursen aus einem Kurskatalog eingeschrieben.
 
 Eine Eins-zu-viele-Struktur verwendet ein einzelnes Verknüpfungsfeld, um das benutzerdefinierte Objekt mit einer Person oder einem Unternehmen zu verbinden.
 
@@ -43,11 +43,11 @@ Viele zu viele benutzerdefinierte Objekte verwenden zwei Verknüpfungsfelder, di
 
 ## Zugriff auf benutzerdefinierte Marketo-Objekte {#accessing-marketo-custom-objects}
 
-1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
+1. Wechseln Sie zum Bereich **[!UICONTROL Admin]** .
 
    ![](assets/understanding-marketo-custom-objects-1.png)
 
-1. Klicks **[!UICONTROL Benutzerdefinierte Marketo-Objekte]**.
+1. Klicken Sie auf **[!UICONTROL Marketo Custom Objects]**.
 
    ![](assets/understanding-marketo-custom-objects-2.png)
 
@@ -69,17 +69,17 @@ Viele zu viele benutzerdefinierte Objekte verwenden zwei Verknüpfungsfelder, di
 
 ## Anzeigen benutzerdefinierter Objekte, die einer Person zugeordnet sind {#view-custom-objects-associated-to-a-person}
 
-Nachdem Sie die benutzerdefinierte Objektstruktur erstellt haben, werden die benutzerdefinierten Objekte beim Hochladen der spezifischen Objektdaten mithilfe des Linkfelds im benutzerdefinierten Objekt automatisch mit Personen in der Datenbank verknüpft. Sie können Informationen aus dem [!UICONTROL Benutzerdefinierte Objekte] auf der Seite mit den Personendetails.
+Nachdem Sie die benutzerdefinierte Objektstruktur erstellt haben, werden die benutzerdefinierten Objekte beim Hochladen der spezifischen Objektdaten mithilfe des Linkfelds im benutzerdefinierten Objekt automatisch mit Personen in der Datenbank verknüpft. Sie können Informationen auf der Registerkarte [!UICONTROL Benutzerdefinierte Objekte] auf der Seite mit den Personendetails anzeigen.
 
-1. Navigieren Sie zu **[!UICONTROL Datenbank]**.
+1. Wechseln Sie zu **[!UICONTROL Datenbank]**.
 
    ![](assets/understanding-marketo-custom-objects-5.png)
 
-1. Öffnen Sie Ihre Datenbank und klicken Sie auf **[!UICONTROL Personen]** Registerkarte. Doppelklicken Sie auf den Datensatz für eine Person, die Sie mit einem benutzerdefinierten Objekt verknüpft haben.
+1. Öffnen Sie Ihre Datenbank und klicken Sie auf die Registerkarte **[!UICONTROL Personen]** . Doppelklicken Sie auf den Datensatz für eine Person, die Sie mit einem benutzerdefinierten Objekt verknüpft haben.
 
    ![](assets/understanding-marketo-custom-objects-6.png)
 
-1. Klicken Sie auf der Personendetailseite auf die **[!UICONTROL Benutzerdefinierte Objekte]** Registerkarte. Wählen Sie das Objekt aus der Dropdownliste aus.
+1. Klicken Sie auf der Personendetailseite auf die Registerkarte **[!UICONTROL Benutzerdefinierte Objekte]** . Wählen Sie das Objekt aus der Dropdownliste aus.
 
    ![](assets/understanding-marketo-custom-objects-7.png)
 
@@ -95,7 +95,7 @@ Wenn Sie in Marketo mehrere Personen haben, die Datensätze im CRM-System oder n
 
 Benutzerdefinierte Objekte können nur direkt mit einem einzelnen Datensatz verknüpft werden. Wenn Ihr benutzerdefinierter Objekttyp nach Unternehmensfeld verknüpft ist, sollten Sie sicherstellen, dass Ihre Personendatensätze entweder mit einer Kontaktkonversion in Ihrem CRM-System oder mit dem Feld externalCompanyId verknüpft sind, wenn Sie Unternehmen verwalten, die REST-APIs von Marketo verwenden. Für Personendatensätze, die nicht explizit mit Firmendatensätzen verknüpft sind, werden benutzerdefinierte Objekte, die mit &quot;company&quot;verknüpft sind, zufällig mit einem einzigen Datensatz verknüpft, selbst wenn der Wert des Unternehmensfelds für viele Personen freigegeben ist.
 
-Siehe [Benutzerdefinierte Objektdaten importieren](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md) für weitere Informationen.
+Weitere Informationen finden Sie unter [Importieren benutzerdefinierter Objektdaten](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md) .
 
 >[!MORELIKETHIS]
 >

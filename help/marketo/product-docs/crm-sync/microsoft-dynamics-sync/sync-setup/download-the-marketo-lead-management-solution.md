@@ -6,8 +6,8 @@ exl-id: 2deafcfc-19f4-4cbf-8764-402a7f69c7d2
 feature: Microsoft Dynamics
 source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 6%
+source-wordcount: '108'
+ht-degree: 0%
 
 ---
 
@@ -21,13 +21,13 @@ Sie müssen eine Marketo Engage-Lösung in Ihr Microsoft Dynamics-Konto herunter
 
 >[!CAUTION]
 >
->Sie müssen unbedingt die neueste Marketo-Lösung herunterladen _before_ Durchführung von Upgrades.
+>Sie müssen die neueste Marketo-Lösung _herunterladen, bevor Sie ein Upgrade durchführen._
 
 >[!NOTE]
 >
 >Marketo unterstützt derzeit nur SSL-Zertifikate, die mit Java 7 kompatibel sind.
 
-1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
+1. Wechseln Sie zum Bereich **[!UICONTROL Admin]** .
 
    ![](assets/download-the-marketo-lead-management-solution-1.png)
 
@@ -35,11 +35,11 @@ Sie müssen eine Marketo Engage-Lösung in Ihr Microsoft Dynamics-Konto herunter
 
    ![](assets/download-the-marketo-lead-management-solution-2.png)
 
-1. Auswählen **[!DNL Microsoft]**.
+1. Wählen Sie **[!DNL Microsoft]** aus.
 
    ![](assets/download-the-marketo-lead-management-solution-3.png)
 
-1. Auswählen **[!UICONTROL Marketo-Lösung herunterladen]**.
+1. Wählen Sie **[!UICONTROL Marketo-Lösung herunterladen]** aus.
 
    ![](assets/download-the-marketo-lead-management-solution-4.png)
 

@@ -27,16 +27,16 @@ Sobald Sie die Ansichten und die Drehfrequenz für Ihre Präsentation festgelegt
 
 >[!TIP]
 >
->Stellen Sie sicher, dass _Vorschau einer Präsentation_ vor dem Start.
+>Stellen Sie sicher, dass Sie _eine Vorschau einer Präsentation anzeigen_ , bevor Sie starten.
 
-1. Klicks **[!UICONTROL Launch]**.
+1. Klicken Sie auf **[!UICONTROL Launch]**.
 
    ![](assets/image2015-3-20-14-3a4-3a18.png)
 
-1. Klicks **[!UICONTROL Launch]** einmalig. Dadurch werden Sie von Marketo abgemeldet, damit die Präsentation sicher angezeigt werden kann.
+1. Klicken Sie erneut auf **[!UICONTROL Starten]** . Dadurch werden Sie von Marketo abgemeldet, damit die Präsentation sicher angezeigt werden kann.
 
    ![](assets/image2015-3-20-14-3a5-3a34.png)
 
    >[!TIP]
    >
-   >Ihre Präsentation wird in einem neuen Tab erscheinen. Verschieben Sie bei Bedarf die Registerkarte auf einen externen Monitor zur Anzeige und klicken Sie auf **[!UICONTROL Vollbild]**.
+   >Ihre Präsentation wird in einem neuen Tab erscheinen. Verschieben Sie bei Bedarf die Registerkarte auf einen externen Monitor für die Anzeige und klicken Sie auf **[!UICONTROL Vollbild]**.

@@ -6,14 +6,14 @@ exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
 feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '158'
-ht-degree: 7%
+source-wordcount: '166'
+ht-degree: 1%
 
 ---
 
 # Personendaten aktualisieren {#update-person-data}
 
-## Auftrag: Aktualisieren der Kontaktinformationen einer Person oder anderer Daten {#mission-update-a-persons-contact-info-or-other-data}
+## Auftrag: Aktualisierung der Kontaktinformationen einer Person oder anderer Daten {#mission-update-a-persons-contact-info-or-other-data}
 
 >[!PREREQUISITES]
 >
@@ -24,7 +24,7 @@ Stellen wir uns vor, dass Ihnen auf Ihrer aktuellen Fachmesse eine Person zusät
 
 ## Suchen Sie die Person, die Sie aktualisieren müssen {#find-the-person-you-need-to-update}
 
-1. Gehen Sie zu **[!UICONTROL Datenbank]**.
+1. Rufen Sie Ihre **[!UICONTROL Datenbank]** auf.
 
    ![](assets/update-person-data-1.png)
 
@@ -42,7 +42,7 @@ Stellen wir uns vor, dass Ihnen auf Ihrer aktuellen Fachmesse eine Person zusät
 
    >[!TIP]
    >
-   >Es gibt viele Möglichkeiten, Personendaten in Marketo zu aktualisieren. Siehe [Eine Personenliste importieren](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} and [Change Data Value](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}.
+   >Es gibt viele Möglichkeiten, Personendaten in Marketo zu aktualisieren. Siehe [Importieren einer Liste von Personen](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} und [Ändern des Datenwerts](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}.
 
 ## Personendaten aktualisieren {#update-the-person-data}
 
@@ -60,6 +60,6 @@ Gut gemacht! Sie haben Ihre Personendaten aktualisiert.
 
 <br> 
 
-[◄ Aufgabe 8: Vertriebsmitarbeiter benachrichtigen](/help/marketo/getting-started/quick-wins/alert-the-sales-rep.md)
+[Auftrag 8: Warnung](/help/marketo/getting-started/quick-wins/alert-the-sales-rep.md)
 
-[Aufgabe 10: Landing Page umleiten ►](/help/marketo/getting-started/quick-wins/redirect-a-landing-page.md)
+[Auftrag 10: Eine Landingpage umleiten ►](/help/marketo/getting-started/quick-wins/redirect-a-landing-page.md)

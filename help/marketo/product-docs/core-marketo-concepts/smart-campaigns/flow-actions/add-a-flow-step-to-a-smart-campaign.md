@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Flussschritte zeigen Marketo Engage, was Sie einer Gruppe von Personen, die sich qualifizieren, vorstellen möchten.
 
-1. Navigieren Sie zu **[!UICONTROL Marketingaktivitäten]**.
+1. Wechseln Sie zu **[!UICONTROL Marketingaktivitäten]**.
 
    ![](assets/add-a-flow-step-to-a-smart-campaign-1.png)
 
@@ -33,15 +33,15 @@ Flussschritte zeigen Marketo Engage, was Sie einer Gruppe von Personen, die sich
 
 >[!NOTE]
 >
->Flussschritte werden in der Reihenfolge ausgeführt, in der sie aufgeführt sind. [Flussschritte neu anordnen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-the-flow-steps-in-a-smart-campaign.md){target="_blank"} um sicherzustellen, dass sie in der richtigen Reihenfolge sind.
+>Flussschritte werden in der Reihenfolge ausgeführt, in der sie aufgeführt sind. [Ordnen Sie die Flussschritte neu an](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-the-flow-steps-in-a-smart-campaign.md){target="_blank"}, um sicherzustellen, dass sie in der richtigen Reihenfolge sind.
 
 >[!TIP]
 >
 >Im Falle eines ungültigen Eintrags wird eine rote geräuschvolle Linie angezeigt. Bewegen Sie den Mauszeiger über die Zeile, um zu sehen, wie sie korrigiert werden kann.
 
-Fantastisch! Stellen Sie sicher, [Überprüfen und Validieren der Smart-Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md){target="_blank"} bevor Sie sie planen oder aktivieren.
+Fantastisch! Überprüfen und validieren Sie die Smart-Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md){target="_blank"} unbedingt [, bevor Sie sie planen oder aktivieren.
 
 >[!MORELIKETHIS]
 >
 >* [Auswahl in einem Flussschritt hinzufügen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md){target="_blank"}
->* [Ordnen Sie die Flussschritte in einer Smart-Kampagne neu an.](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-the-flow-steps-in-a-smart-campaign.md){target="_blank"}
+>* [Ordnen Sie die Flussschritte in einer intelligenten Kampagne neu an](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-the-flow-steps-in-a-smart-campaign.md){target="_blank"}

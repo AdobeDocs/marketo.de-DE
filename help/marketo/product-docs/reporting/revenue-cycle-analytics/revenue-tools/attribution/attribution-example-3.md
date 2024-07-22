@@ -6,8 +6,8 @@ exl-id: d8ca63a2-58de-4cde-b915-ff7f2e6468d9
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '161'
-ht-degree: 4%
+source-wordcount: '175'
+ht-degree: 3%
 
 ---
 
@@ -16,9 +16,9 @@ ht-degree: 4%
 Lesen Sie das folgende Szenario und versuchen Sie, die Zahlen zu ermitteln, die im Raster angezeigt werden sollen.
 
 * 11. April | Steve-Downloads (Inhalt) - Erfolg
-* 22. April | Die Möglichkeit wird für 3.000 $ erstellt (sowohl Steve als auch Jason haben Rollen)
+* 22. April | Die Möglichkeit wird für 3.000 USD geschaffen (sowohl Steve als auch Jason haben Rollen)
 * 25. April | Jason attends (Webinar) - success
-* 30. April | Chancen ist geschlossen
+* 30. April | Chancen sind geschlossen
 
 | Attributionsmetrik | (Inhalt) | (Webinar) |
 |---|---|---|

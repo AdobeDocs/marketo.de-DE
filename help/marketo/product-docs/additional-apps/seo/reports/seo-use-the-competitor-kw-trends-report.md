@@ -6,8 +6,8 @@ exl-id: c36e84d0-ca8d-4618-a1ad-9b903f317792
 feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '182'
-ht-degree: 3%
+source-wordcount: '183'
+ht-degree: 2%
 
 ---
 
@@ -17,11 +17,11 @@ In diesem Bericht können Sie sehen, wie Sie und Ihre Konkurrenten im Zeitverlau
 
 ## Berichte suchen {#find-reports}
 
-1. Navigieren Sie zu **[!UICONTROL Berichte]**.
+1. Wechseln Sie zu **[!UICONTROL Berichte]**.
 
    ![](assets/image2014-9-18-14-3a6-3a18.png)
 
-1. Klicken **[!UICONTROL Rang-Trends des Wettbewerbers KW]**.
+1. Klicken Sie auf **[!UICONTROL Konkurrierende KW-Rangtrends]**.
 
    ![](assets/image2014-9-18-14-3a6-3a37.png)
 
@@ -33,10 +33,10 @@ Dieses Diagramm zeigt Ihnen, welcher Anteil Ihrer Suchbegriffe in einem bestimmt
 
 | Element | Beschreibung |
 |---|---|
-| [!UICONTROL Schlüsselwörter] | Die Anzahl der Suchbegriffe, die Sie verfolgen. |
-| [!UICONTROL Rangierungs-URLs] | Die Anzahl der URLs auf Ihrer Site-Rangfolge in dem von Ihnen festgelegten Bereich. |
-| [!UICONTROL % Rang] | Der Prozentsatz der Suchbegriffe, die in dem von Ihnen festgelegten Bereich rangieren. |
-| [!UICONTROL Durchschnitt Suchvorgänge] | Die durchschnittliche Anzahl der Suchvorgänge für diese Suchbegriffe, die während des von Ihnen festgelegten Zeitraums (in den letzten 30 Tagen bei der Google US-Suche) stattgefunden haben. |
+| [!UICONTROL Suchbegriffe] | Die Anzahl der Suchbegriffe, die Sie verfolgen. |
+| [!UICONTROL  Rangierungs-URLs] | Die Anzahl der URLs auf Ihrer Site-Rangfolge in dem von Ihnen festgelegten Bereich. |
+| [!UICONTROL % im Rang] | Der Prozentsatz der Suchbegriffe, die in dem von Ihnen festgelegten Bereich rangieren. |
+| [!UICONTROL Durchschnittl. searches] | Die durchschnittliche Anzahl der Suchvorgänge für diese Suchbegriffe, die während des von Ihnen festgelegten Zeitraums (in den letzten 30 Tagen bei der Google US-Suche) stattgefunden haben. |
 
 ## Filtern von Daten {#filtering-data}
 
@@ -44,7 +44,7 @@ Dieses Diagramm zeigt Ihnen, welcher Anteil Ihrer Suchbegriffe in einem bestimmt
 
    ![](assets/image2014-9-18-14-3a7-3a17.png)
 
-1. Klicken Sie auf **[!UICONTROL Rang]** auswählen, für welchen Rangbereich Sie Suchbegriffe anzeigen möchten.
+1. Klicken Sie auf das Dropdown-Menü **[!UICONTROL Rang]** , um festzulegen, für welchen Rangbereich Sie Suchbegriffe anzeigen möchten.
 
    ![](assets/image2014-9-18-14-3a8-3a26.png)
 
@@ -54,6 +54,6 @@ Dieses Diagramm zeigt Ihnen, welcher Anteil Ihrer Suchbegriffe in einem bestimmt
 >
 >Sie können diesen Bericht auf Ihren Desktop exportieren.
 
-1. Klicken **[!UICONTROL CSV exportieren]** oder **[!UICONTROL Export PDF]**.
+1. Klicken Sie auf **[!UICONTROL CSV exportieren]** oder **[!UICONTROL Export PDF]**.
 
    ![](assets/image2014-9-18-14-3a9-3a49.png)

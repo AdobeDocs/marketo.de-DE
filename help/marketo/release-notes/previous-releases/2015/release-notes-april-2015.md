@@ -6,12 +6,12 @@ exl-id: 754e3abf-d5e7-447f-a032-6ed66723f837
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '322'
-ht-degree: 10%
+source-wordcount: '326'
+ht-degree: 9%
 
 ---
 
-# Versionshinweise: April 2015 {#release-notes-april}
+# April 2015 - Versionshinweise {#release-notes-april}
 
 Die folgenden Funktionen sind in der Version vom April 2015 enthalten. Informationen zur Verfügbarkeit von Funktionen finden Sie in Ihrer Marketo Edition. Stellen Sie nach der Veröffentlichung sicher, dass Sie zu den einzelnen Funktionen Links zu detaillierten Artikeln finden!
 
@@ -23,7 +23,7 @@ Die folgenden Funktionen sind in der Version vom April 2015 enthalten. Informati
 >
 >Diese Funktion wird am Dienstag, den 28. April veröffentlicht.
 
-Die neue [Startseite von Analytics](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) ermöglicht schnellen Zugriff für die Ausführung von Ad-hoc-Berichten über verfügbare Berichtstypen hinweg.
+Die neue [Analytics-Startseite](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) ermöglicht einen schnellen Zugriff für die Ausführung von Ad-hoc-Berichten über verfügbare Berichtstypen hinweg.
 
 ![](assets/image2015-4-20-11-3a18-3a8.png)
 
@@ -31,7 +31,7 @@ Darüber hinaus ist die Organisation privater oder freigegebener Berichte jetzt 
 
 ## Marketo Mobile Engagement {#marketo-mobile-engagement}
 
-**Marketo Mobile Engagement**
+**Marketo-Interaktion mit Mobilgeräten**
 
 Mit Marketo Mobile Interaktion ist es einfach, ansprechende mobile Erlebnisse bereitzustellen. Erstellen Sie hochpersonalisierte Kampagnen, die ansprechende Inhalte bereitstellen, ohne sich je auf ein App-Entwicklungsteam verlassen zu müssen. Neue Filter und Trigger ermöglichen es Ihnen, über Push-Benachrichtigungen auf dem Mobile-Kanal zu überwachen und darauf zu reagieren.
 
@@ -41,7 +41,7 @@ Mit Marketo Mobile Interaktion ist es einfach, ansprechende mobile Erlebnisse be
 
 [Integration von LinkedIn Lead Accelerator](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
 
-Erweitern Sie Ihre Lead-Pflegestrategie auf bezahlte Display- und Social-Anzeigen. Die [Anzeigennetzintegration](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md) Mit LinkedIn Lead Accelerator können Sie sicher ein Zielgruppensegment in LinkedIn erstellen, das auf den Mitgliedern einer beliebigen Smart- oder statischen Liste basiert. Mitglieder in einem LinkedIn-Zielgruppensegment können dann mit einer Sequenz relevanter Anzeigen gepflegt werden.
+Erweitern Sie Ihre Lead-Pflegestrategie auf bezahlte Display- und Social-Anzeigen. Mit der [Anzeigennetzwerkintegration](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md) mit LinkedIn Lead Accelerator können Sie sicher ein Zielgruppensegment in LinkedIn erstellen, das auf den Mitgliedern einer beliebigen Smart- oder statischen Liste basiert. Mitglieder in einem LinkedIn-Zielgruppensegment können dann mit einer Sequenz relevanter Anzeigen gepflegt werden.
 
 ![](assets/image2015-4-20-11-3a3-3a27.png)
 

@@ -18,15 +18,15 @@ Stellen Sie sicher, dass jede gesendete E-Mail eine Abmelde-Nachricht enthält, 
 
 * Bei E-Mails, die von den Plug-ins gesendet werden, wird die Abmeldung nur angehängt, wenn eine Vorlage verwendet wird.
 
-* Wenn Sie die `{{team_unsubscribe}}` dynamisches Feld in einer E-Mail-Vorlage verwenden und die Einstellung zum Anhängen von Abmeldungen aktiviert ist, füllt das dynamische Feld zum Abmelden Ihre Abmelde-Nachricht aus. _anstelle von_ an Ihre Abmelde-Nachricht anhängen.
+* Wenn Sie das dynamische Feld `{{team_unsubscribe}}` in einer E-Mail-Vorlage verwenden und die Einstellung zum Anhängen der Abmelde-Nachricht aktiviert ist, füllt das dynamische Feld zum Abmelden von Nachrichten das Feld zum Abmelden von Nachrichten _anstelle von_ aus, um Ihre Abmelde-Nachricht anzuhängen.
 
 ## Append aktivieren/deaktivieren {#enable-disable-unsubscribe-append}
 
-1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen**.
+1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
 
    ![](assets/auto-append-unsubscribe-message-setting-1.png)
 
-1. Klicken Sie unter &quot;Admin Settings&quot;auf **Abmeldungen**.
+1. Klicken Sie unter &quot;Admin Settings&quot;auf **Unsubscribes**.
 
    ![](assets/auto-append-unsubscribe-message-setting-2.png)
 
@@ -36,4 +36,4 @@ Stellen Sie sicher, dass jede gesendete E-Mail eine Abmelde-Nachricht enthält, 
 
 >[!TIP]
 >
->Wenn Sie die Einstellung zum Abmelden von Nachrichten anhängen deaktivieren, empfehlen wir, Ihren Vorlagen eine Abmelde-Fußzeile hinzuzufügen, um sicherzustellen, dass Ihre Kommunikation über eine Abmeldeoption verfügt. Sie können dazu Ihre eigene benutzerdefinierte Nachricht zu jeder Vorlage hinzufügen oder die `{{team_unsubscribe}}` [dynamisches Feld](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/dynamic-fields-glossary.md){target="_blank"}.
+>Wenn Sie die Einstellung zum Abmelden von Nachrichten anhängen deaktivieren, empfehlen wir, Ihren Vorlagen eine Abmelde-Fußzeile hinzuzufügen, um sicherzustellen, dass Ihre Kommunikation über eine Abmeldeoption verfügt. Fügen Sie dazu Ihre eigene benutzerdefinierte Nachricht zu jeder Vorlage hinzu oder verwenden Sie das dynamische Feld `{{team_unsubscribe}}` [2}.](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/dynamic-fields-glossary.md){target="_blank"}

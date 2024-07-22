@@ -5,7 +5,7 @@ feature: Dynamic Chat
 exl-id: e91e7981-6617-42fe-8120-a7311a99cdfb
 source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
-source-wordcount: '1569'
+source-wordcount: '1623'
 ht-degree: 0%
 
 ---
@@ -185,7 +185,7 @@ Im Folgenden finden Sie verschiedene mögliche Szenarien, in denen das erwartete
         <p>V1 klickt auf D1, reagiert jedoch nicht</p>
         <p>V1 besucht WP2</p>
       </td>
-      <td>D1 wird auf WP1 aufgelöst<br/>
+      <td>D1 wird auf WP1<br/> aufgelöst
       D2 wird auf WP2 aufgelöst</td>
       <td>
         <p>Die Anzahl der Trigger für D1 wird um 1 erhöht</p>
@@ -200,7 +200,7 @@ Im Folgenden finden Sie verschiedene mögliche Szenarien, in denen das erwartete
         <p>V1 klickt auf D1 und schließt D1 ab</p>
         <p>V1 besucht WP2</p>
       </td>
-      <td>D1 wird auf WP1 und nach Abschluss aufgelöst<br/>D2 wird auf WP2 aufgelöst</td>
+      <td>D1 wird auf WP1 aufgelöst und nach der Fertigstellung <br/>D2 wird auf WP2 aufgelöst</td>
       <td>
         <p>Die Anzahl der Trigger, der Interaktion und der Abgeschlossene Anzahl für D1 werden um 1 erhöht</p>
         <p>Die Anzahl der Trigger für D2 wird um 1 erhöht</p>
@@ -215,7 +215,7 @@ Im Folgenden finden Sie verschiedene mögliche Szenarien, in denen das erwartete
         <p>V1 besucht WP2</p>
         <p>V1-Klicks auf D2 liefern die erste Antwort</p>
       </td>
-      <td>D1 wird auf WP1 und nach Abschluss aufgelöst<br/>D2 wird auf WP2 aufgelöst</td>
+      <td>D1 wird auf WP1 aufgelöst und nach der Fertigstellung <br/>D2 wird auf WP2 aufgelöst</td>
       <td>
         <p>Die Anzahl der Trigger, der Interaktion und der Abgeschlossene Anzahl für D1 werden um 1 erhöht</p>
         <p>Trigger und Interaktionsanzahl für D2 werden um 1 erhöht</p>
@@ -329,7 +329,7 @@ Im Folgenden finden Sie verschiedene mögliche Szenarien, in denen das erwartete
         <p>D2 für WP1 mit 2 Priorität</p>
         <p>V1 besucht WP1 zum ersten Mal</p>
         <p>V1 klickt auf D1 und schließt D1 ab</p>
-        <p>V1 aktualisiert WP1 und sieht D2<br/>V1 klickt auf D2 und schließt D2 ab</p>
+        <p>V1 aktualisiert WP1, sieht D2<br/>V1-Klicks auf D2 und schließt D2 ab</p>
         <p>Marketingexperte haben Änderungen an D1 vorgenommen und erneut veröffentlicht.</p>
         <p>V1 aktualisiert WP1</p>
       </td>

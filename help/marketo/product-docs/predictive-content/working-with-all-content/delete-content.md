@@ -19,7 +19,7 @@ Wenn Sie kein Stück Inhalt mehr brauchen, ist es einfach, es loszuwerden.
 
    ![](assets/image2017-10-3-9-3a8-3a39.png)
 
-1. Klicken Sie auf **Inhaltsaktionen** und wählen Sie **Inhalt löschen**.
+1. Klicken Sie auf die Dropdownliste **Inhaltsaktionen** und wählen Sie **Inhalt löschen** aus.
 
    ![](assets/image2017-10-3-9-3a9-3a12.png)
 

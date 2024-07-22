@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Im Gegensatz zu Landingpages mit Freiform-Landingpages verfügen geführte Landingpages über vordefinierte, gesperrte Bereiche, in denen Sie Bilder hinzufügen.
 
-1. Wählen Sie eine geführte Landingpage aus. Klicks **Entwurf bearbeiten**.
+1. Wählen Sie eine geführte Landingpage aus. Klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/image2015-5-19-14-3a1-3a26.png)
 
@@ -31,7 +31,7 @@ Im Gegensatz zu Landingpages mit Freiform-Landingpages verfügen geführte Landi
 
    >[!NOTE]
    >
-   >Die Größe des Bildes hängt von der Vorlage ab. Weitere Informationen [Geführte Landingpage-Vorlagen](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
+   >Die Größe des Bildes hängt von der Vorlage ab. Erfahren Sie mehr über [Geführte Landingpage-Vorlagen](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
 
    ![](assets/image2015-5-20-10-3a39-3a34.png)
 

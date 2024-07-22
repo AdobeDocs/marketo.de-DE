@@ -7,7 +7,7 @@ feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '89'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Sie können Ihre Web-Kampagnen auf verschiedene Arten sortieren.
 
-1. Navigieren Sie zu **Web-Kampagnen**.
+1. Wechseln Sie zu **Web-Kampagnen**.
 
    ![](assets/web-campaigns-hand-1.jpg)
 
@@ -25,9 +25,9 @@ Sie können Ihre Web-Kampagnen auf verschiedene Arten sortieren.
    >
    >**Definition**
    >
-   >**Neueste** - sortiert nach dem Erstellungsdatum der Kampagne. Die neueste Kampagne ganz oben.
+   >**Neueste Version** - sortiert nach dem Datum, an dem die Kampagne erstellt wurde. Die neueste Kampagne ganz oben.
    >
-   >**Top-Leistung** - sortiert Kampagnen nach der Durchklickrate. Höchster Clickthrough am oberen Rand.
+   >**Top Performance** - sortiert Kampagnen nach der Clickthrough-Rate. Höchster Clickthrough am oberen Rand.
 
    ![](assets/image2016-11-4-13-3a34-3a59.png)
 

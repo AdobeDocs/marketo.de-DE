@@ -6,7 +6,7 @@ exl-id: 4d1ca9b6-e269-4982-9c0c-cf12363feafb
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '432'
+source-wordcount: '441'
 ht-degree: 2%
 
 ---
@@ -49,11 +49,11 @@ Mithilfe von personalisierten URLs (PURLs) können Marketingexperten jetzt konta
 
 ## Unterstützung der EU-Datenschutzrichtlinie {#eu-privacy-directive-support}
 
-Neue Funktionen zur Berücksichtigung der Browsereinstellungen &quot;Nicht verfolgen&quot;beinhalten die Möglichkeit, das Tracking für anonyme Leads zu deaktivieren. Dies erleichtert die Einhaltung der strengeren EU-Vorschriften zur Datenschutzverfolgung.
+Die neuen Funktionen zur Einhaltung der Browsereinstellungen &quot;Do Not Track&quot; beinhalten die Möglichkeit, das Tracking anonymer Leads zu deaktivieren. Dies erleichtert die Einhaltung der strengeren EU-Vorschriften zum Datenschutz.
 
 ![](assets/image2014-9-23-9-3a51-3a32.png)
 
-## Einmaliges Anmelden {#single-sign-on}
+## Single Sign-on {#single-sign-on}
 
 Unternehmen können jetzt eine nahtlose Anmeldung bei der Marketo-Anwendung mit SAML 2.0 für die einmalige Anmeldung über ein Unternehmensportal unterstützen.
 
@@ -72,7 +72,7 @@ Der Absendername, die E-Mail-Adresse, die Antwortadresse (NEU) und der Betreff w
 * Mozilla Firefox 9.0
 * Google Chrome 16
 * Microsoft Internet Explorer 8 und 9
-* **Hinweis**: Internet Explorer 7 wird nicht mehr unterstützt
+* **Hinweis**: Internet Explorer 7 wird nicht mehr unterstützt.
 
 ## Programm-Management {#program-management}
 

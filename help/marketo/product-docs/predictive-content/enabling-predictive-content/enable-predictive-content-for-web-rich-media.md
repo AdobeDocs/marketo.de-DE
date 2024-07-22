@@ -23,31 +23,31 @@ Prognostizierende Inhalte binden Ihre Webbesucher mit den relevantesten Inhalten
 >
 >Vor der Aktivierung des prädiktiven Inhalts müssen Sie:
 >
->* **Predictive Content vorbereiten**
+>* **Bereiten Sie Ihren prädiktiven Inhalt vor**
 >
->   * [Predictive Content für E-Mails bearbeiten](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md){target="_blank"} oder
->   * [Predictive Content für Rich Media bearbeiten](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md){target="_blank"} oder
->   * [Prädiktive Inhalte für die Empfehlungsleiste bearbeiten](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md){target="_blank"}
+>   * [Prädiktiven Inhalt für E-Mails bearbeiten](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md){target="_blank"} oder
+>   * [Prädiktiven Inhalt für Rich Media bearbeiten](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md){target="_blank"} oder
+>   * [Prädiktiven Inhalt für die Empfehlungsleiste bearbeiten](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md){target="_blank"}
 >
->* [Genehmigen eines Titels für prädiktive Inhalte](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md){target="_blank"}
+>* [Genehmigen eines Titels für prädiktiven Inhalt](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md){target="_blank"}
 
 Nachdem Sie den Inhaltstitel, die Beschreibung und das Bild für Rich Media vorbereitet haben, können Sie einzelne oder mehrere Inhaltselemente aktivieren.
 
-1. Um einen einzelnen Titel zu aktivieren, klicken Sie auf einen Titel, um den Editor zu öffnen. Klicken Sie auf Rich Media und überprüfen Sie dann die **Für prädiktive Inhalte in Rich Media aktiviert** und klicken Sie auf **Speichern**.
+1. Um einen einzelnen Titel zu aktivieren, klicken Sie auf einen Titel, um den Editor zu öffnen. Klicken Sie auf &quot;Rich Media&quot;, aktivieren Sie dann das Feld **Aktiviert für prädiktive Inhalte in Rich Media** und klicken Sie auf **Speichern**.
 
    ![](assets/image2017-10-3-9-3a50-3a29.png)
 
-1. Bei mehreren Inhaltselementen wird im **Prädiktive Inhalte** und aktivieren Sie die Kontrollkästchen neben den Titeln.
+1. Aktivieren Sie für mehrere Inhaltselemente auf der Seite **Prädiktiver Inhalt** die Kontrollkästchen neben den Titeln.
 
    ![](assets/image2017-10-3-10-3a0-3a42.png)
 
-1. Klicken Sie auf **Inhaltsaktionen** und wählen Sie **Aktivieren für Web Rich Media**.
+1. Klicken Sie auf die Dropdownliste **Inhaltsaktionen** und wählen Sie **Für Web-Rich-Media aktivieren** aus.
 
    ![](assets/image2017-10-3-10-3a2-3a6.png)|
 
 ## Anpassen des JavaScript-Codes und Einbetten in Ihre Website  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-Weitere Informationen finden Sie in der Dokumentation zur Rich-Media-Empfehlungsvorlage . [auf der Entwickler-Website von Marketo](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. In diesem Abschnitt wird beschrieben, wie Sie die Vorlage für Ihre Website anpassen.
+Weitere Informationen finden Sie in der Dokumentation zur Rich-Media-Empfehlungsvorlage [auf der Marketo Developers-Site](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. In diesem Abschnitt wird beschrieben, wie Sie die Vorlage für Ihre Website anpassen.
 
 Fügen Sie den JavaScript-Code an der Stelle auf Ihrer Website ein, an der die Vorlage angezeigt werden soll.
 

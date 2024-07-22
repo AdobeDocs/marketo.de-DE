@@ -6,7 +6,7 @@ exl-id: 59ff940f-368c-4e71-9e1f-a6f959811841
 feature: SEO
 source-git-commit: d9ea30742b6ef3b6299284a1f446a69f15105379
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '258'
 ht-degree: 1%
 
 ---
@@ -15,13 +15,13 @@ ht-degree: 1%
 
 Verwenden Sie das Dashboard, um einen allgemeinen Überblick darüber zu erhalten, wie der Suchbegriffrang sich entwickelt und wie gut Ihre Site für SEO optimiert ist.
 
-Um herauszufinden, worauf Sie sich konzentrieren sollten, um Ihre SEO-Bemühungen zu verbessern, verwenden Sie die [[!UICONTROL Recommendations]](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md) des Dashboards.
+Um herauszufinden, worauf Sie sich konzentrieren sollten, um Ihre SEO-Bemühungen zu verbessern, verwenden Sie den Abschnitt [[!UICONTROL Recommendations]](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md) dieses Dashboards.
 
 ![](assets/image2014-9-17-21-3a32-3a22.png)
 
-## [!UICONTROL Keyword-Rangansicht] {#keyword-rank-summary}
+## [!UICONTROL Zusammenfassung des Suchbegriff-Rangs] {#keyword-rank-summary}
 
-In diesem Abschnitt erfahren Sie, wie Ihre Site nach der [Targeting-Suchbegriffe](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md).
+Dieser Abschnitt zeigt Ihnen, wie Ihre Site bei den [Suchbegriffen, die Sie als Ziel auswählen](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md), nach Rang geordnet ist.
 
 ![](assets/image2014-9-17-21-3a34-3a5.png)
 
@@ -33,7 +33,7 @@ In diesem Abschnitt erfahren Sie, wie Ihre Site nach der [Targeting-Suchbegriffe
 
 >[!TIP]
 >
->Sie können auch sehen, wie eine [spezifische Liste](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md) der Suchbegriffe. Klicken Sie auf das Dropdown-Menü und wählen Sie aus, welches Sie interessiert.
+>Sie können auch die Leistung einer [spezifischen Liste](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md) von Suchbegriffen anzeigen. Klicken Sie auf das Dropdown-Menü und wählen Sie aus, welches Sie interessiert.
 
 >[!NOTE]
 >
@@ -51,9 +51,9 @@ Es basiert auf einer Sammlung von Dutzenden von Best Practices. Ein Wert von 70 
 >
 >Sie können auch den Optimierungswert für bestimmte Listen von Seiten sehen. Verwenden Sie die Dropdown-Liste und wählen Sie eine, die Sie interessiert.
 
-## [!UICONTROL Suchbegriffsrang-Trends] {#keyword-rank-trends}
+## [!UICONTROL Suchbegriff-Rangtrends] {#keyword-rank-trends}
 
-Die [!UICONTROL Suchbegriffsrang-Trends] -Diagramm ruft Ihre Suchbegriffe mit den fünf höchsten monatlichen Suchvolumen ab und kartiert, wie sie im Laufe der Zeit rangieren.
+Das Diagramm [!UICONTROL Suchbegriff-Rangtrends] ruft Ihre Suchbegriffe mit den fünf höchsten monatlichen Suchvolumen ab und zeigt, wie sie im Zeitverlauf nach Rang geordnet sind.
 
 >[!TIP]
 >
@@ -61,8 +61,8 @@ Die [!UICONTROL Suchbegriffsrang-Trends] -Diagramm ruft Ihre Suchbegriffe mit de
 
 ![](assets/image2014-9-17-21-3a37-3a1.png)
 
-Sehen wir uns nun die [!UICONTROL Recommendations] des Dashboards.
+Sehen wir uns nun den Abschnitt [!UICONTROL Recommendations] dieses Dashboards an.
 
 >[!MORELIKETHIS]
 >
->[Das Dashboard: SEO Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
+>[Grundlegendes zum Dashboard: SEO Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)

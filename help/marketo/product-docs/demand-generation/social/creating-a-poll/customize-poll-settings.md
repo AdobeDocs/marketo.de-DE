@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Anpassen der Umfrageeinstellungen {#customize-poll-settings}
 
-Wenn Sie [Umfrage erstellen](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md)können Sie die Anzahl der zulässigen Stimmen pro Social-Profil einschränken.
+Wenn Sie [eine Umfrage erstellen](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md), können Sie die Anzahl der zulässigen Stimmen pro Social-Profil einschränken.
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Wechseln Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -23,14 +23,14 @@ Wenn Sie [Umfrage erstellen](/help/marketo/product-docs/demand-generation/social
 
    ![](assets/image2014-9-19-10-3a56-3a37.png)
 
-1. Navigieren Sie im Umfrage-Editor zu **App-Einstellungen** > **Erweiterte Optionen**.
+1. Wechseln Sie im Umfrageeditor zu **App-Einstellungen** > **Erweiterte Optionen**.
 
    ![](assets/image2014-9-19-10-3a56-3a44.png)
 
-1. Aktivieren Sie die Option, eine **Stimmbeschränkung** und geben Sie die maximal zulässige Stimmenzahl an.
+1. Aktivieren Sie die Option, um ein **Abstimmungslimit** festzulegen, und geben Sie die maximal zulässige Anzahl von Stimmen ein.
 
    ![](assets/image2014-9-19-10-3a56-3a54.png)
 
 >[!TIP]
 >
->Sie können auf **Beenden** > **Genehmigen und schließen** nach [Umfrage veröffentlichen](/help/marketo/product-docs/demand-generation/social/creating-a-poll/publish-a-poll.md)oder Sie können die Anpassung fortsetzen. Versuchen Sie beispielsweise, [Konfigurieren der Eingabeaufforderungen nach der Freigabe](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md).
+>Sie können auf **Beenden** > **Genehmigen und schließen** klicken, um Ihre Umfrage zu veröffentlichen](/help/marketo/product-docs/demand-generation/social/creating-a-poll/publish-a-poll.md), oder Sie können mit der Anpassung fortfahren. [ Versuchen Sie beispielsweise [die Eingabeaufforderungen nach der Freigabe zu konfigurieren](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md).

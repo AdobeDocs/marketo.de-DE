@@ -6,7 +6,7 @@ exl-id: 95e7907a-62f7-40c7-85a9-97728fbe40eb
 feature: SEO
 source-git-commit: d9ea30742b6ef3b6299284a1f446a69f15105379
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ Suchbegriffe sind Ausdrücke, die von Personen in Suchmaschinen eingegeben werde
 
 >[!NOTE]
 >
->Wenn Sie viele Suchbegriffe haben, können Sie [Importieren Sie sie mit einer CSV-Datei](/help/marketo/product-docs/additional-apps/seo/keywords/seo-importing-keywords-with-a-csv.md).
+>Wenn Sie viele Suchbegriffe haben, können Sie diese mit einer CSV-Datei ](/help/marketo/product-docs/additional-apps/seo/keywords/seo-importing-keywords-with-a-csv.md) importieren.[
 
-1. Navigieren Sie zu **[!UICONTROL Schlüsselwörter]** Abschnitt.
+1. Wechseln Sie zum Abschnitt **[!UICONTROL Suchbegriffe]** .
 
    ![](assets/image2014-9-18-11-3a28-3a39.png)
 
-1. Geben Sie die gewünschten Suchbegriffe ein und klicken Sie auf **[!UICONTROL Speichern]**.
+1. Geben Sie die Suchbegriffe ein, die Sie als Ziel auswählen möchten, und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/image2014-9-18-11-3a28-3a51.png)
 

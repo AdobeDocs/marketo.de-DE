@@ -6,7 +6,7 @@ exl-id: 0e755c80-27cd-4ba3-b540-d7918264c5f6
 feature: Salesforce Integration
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '195'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Manchmal ist es am besten, nur die Regeln aufzulisten. Gehen wir hier:
 
-* Wenn Sie zwei Leads zusammenführen in **Salesforce**, teilt die normale Synchronisierung Marketo Engage mit und die Leads werden automatisch als Personen in Marketo zusammengeführt.
-* Zusammenführen von zwei Personen in **Marketo** führt denselben Prozess aus wie das Zusammenführen als Leads in Salesforce. Es funktioniert weiterhin automatisch.
-* Zusammenführen einer **Kontakt** funktioniert genauso. Am Ende haben Sie einen einzigen Kontakt auf beiden Seiten.
+* Wenn Sie zwei Leads in **Salesforce** zusammenführen, teilt die normale Synchronisierung Marketo Engage mit und die Leads werden automatisch als Personen in Marketo zusammengeführt.
+* Die Zusammenführung von zwei Personen in **Marketo** führt denselben Prozess auf wie die Zusammenführung als Leads in Salesforce. Es funktioniert weiterhin automatisch.
+* Das Zusammenführen eines **Leads (einer Person) mit einem Kontakt** funktioniert auf die gleiche Weise. Am Ende haben Sie einen einzigen Kontakt auf beiden Seiten.
 * Beim Zusammenführen wird der Standardwert summiert.
 
 >[!NOTE]
@@ -30,4 +30,4 @@ Manchmal ist es am besten, nur die Regeln aufzulisten. Gehen wir hier:
 
 >[!NOTE]
 >
->Weitere Informationen zu [Zusammenführen von Personen in Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md){target="_blank"}.
+>Tief tauchen für weitere Informationen zum [Zusammenführen von Personen in Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md){target="_blank"}.

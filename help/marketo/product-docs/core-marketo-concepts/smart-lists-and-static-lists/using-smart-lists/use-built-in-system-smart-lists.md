@@ -15,15 +15,15 @@ ht-degree: 7%
 
 Marketo Engage verfügt über einige nützliche integrierte Smart-Listen. Lass uns sie auschecken!
 
-1. Navigieren Sie zu **[!UICONTROL Datenbank]**.
+1. Wechseln Sie zur **[!UICONTROL Datenbank]**.
 
    ![](assets/db.png)
 
-1. Öffnen Sie die **[!UICONTROL System Smart Lists]** Ordner, um die Sammlung anzuzeigen.
+1. Öffnen Sie den Ordner **[!UICONTROL System Smart Lists]** , um die Sammlung anzuzeigen.
 
    ![](assets/two.png)
 
-1. Beispiel: Wählen Sie **[!UICONTROL Alle Personen]** und klicken Sie dann auf **[!UICONTROL Personen]** Registerkarte.
+1. Beispiel: Wählen Sie **[!UICONTROL Alle Personen]** und klicken Sie dann auf die Registerkarte **[!UICONTROL Personen]** .
 
    ![](assets/three.png)
 
@@ -36,10 +36,10 @@ Im Folgenden finden Sie eine Zusammenfassung der Funktionen der integrierten Sma
 | Listenname | Beschreibung |
 |---|---|
 | Alle Personen | Alle Personen in Ihrer Marketo-Datenbank |
-| Abgemeldete Person | Diese Personen können nur operative E-Mails erhalten, die normalerweise von der Person selbst kontrolliert werden. |
+| Abbestellte Personen | Diese Personen können nur operative E-Mails erhalten, die normalerweise von der Person selbst kontrolliert werden. |
 | Marketing eingestellt | Diese Personen können nur operative E-Mails erhalten. Diese werden normalerweise von Ihnen, dem Marketingspezialisten, kontrolliert. |
-| Blockierungsliste | Diese Leute erhalten überhaupt keine E-Mail. |
-| Unzustellbare E-Mail-Adressen | Personen mit einer nicht zustellbaren E-Mail-Adresse oder die Ihre E-Mail ablehnen. |
+| Sperrliste | Diese Leute erhalten überhaupt keine E-Mail. |
+| Adressen für aufgrund von Bounce-Ereignissen unzustellbare E-Mails | Personen mit einer nicht zustellbaren E-Mail-Adresse oder die Ihre E-Mail ablehnen. |
 | Mögliche Duplikate | Personen, die in der Marketo-Datenbank dupliziert werden können. |
 
 >[!NOTE]

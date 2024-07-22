@@ -7,7 +7,7 @@ feature: Snippets
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '69'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 1%
 
 Klonen Sie ein Snippet, um eine Kopie davon zu erstellen, die Sie Ihren Anforderungen entsprechend anpassen können.
 
-1. Navigieren Sie zu **Design Studio**.
+1. Wechseln Sie zu **Design Studio**.
 
    ![](assets/image2014-9-16-10-3a32-3a36.png)
 
-1. Gehen Sie zu Ihrem Snippet und dann unter **Snippet-Aktionen** klicken **Klonen**.
+1. Wechseln Sie zu Ihrem Snippet und klicken Sie unter **Snippet-Aktionen** auf **Klonen**.
 
    ![](assets/image2014-9-16-10-3a32-3a44.png)
 
@@ -27,8 +27,8 @@ Klonen Sie ein Snippet, um eine Kopie davon zu erstellen, die Sie Ihren Anforder
 
    ![](assets/image2014-9-16-10-3a32-3a53.png)
 
-Fantastisch Jetzt können Sie das geklonte Snippet an Ihre Bedürfnisse anpassen.
+Fantastisch! Jetzt können Sie das geklonte Snippet an Ihre Bedürfnisse anpassen.
 
 >[!MORELIKETHIS]
 >
->[Bearbeiten von Snippets mit dynamischen Inhalten](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/edit-snippets-with-dynamic-content.md)
+>[Snippets mit dynamischem Inhalt bearbeiten](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/edit-snippets-with-dynamic-content.md)

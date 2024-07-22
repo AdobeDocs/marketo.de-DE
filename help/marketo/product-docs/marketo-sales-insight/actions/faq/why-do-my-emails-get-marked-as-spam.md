@@ -1,10 +1,10 @@
 ---
 description: Warum werden meine E-Mails als Spam gekennzeichnet? - Marketo-Dokumente - Produktdokumentation
 title: Warum werden meine E-Mails als Spam gekennzeichnet?
-exl-id: 09fbfd78-fd06-4350-ad22-c0ff5e08394d
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: f42cd9ba-5c05-491b-a471-a8dcc49fe27d
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 Als Unternehmen arbeiten wir hart daran, sicherzustellen, dass unsere Zustellbarkeitsraten hoch bleiben. Es gibt jedoch bestimmte Benutzerverhaltensweisen und -einstellungen, die dazu führen können, dass Ihre gesendeten E-Mails an den Spam-Ordner weitergeleitet werden.
 
-**Überprüfen der Einstellungen**
+**Überprüfen Ihrer Einstellungen**
 
 * Benutzerdefiniertes Domain-Tracking: Damit können Sie alle Tracking-Links sofort anzeigen lassen.&quot;yourdomain&quot;anstelle von go.toutapp. Einige E-Mail-Sicherheitseinstellungen sehen, dass die E-Mail von &quot;Ihrer Domäne&quot;stammt, der Link jedoch in &quot;go.toutapp&quot;umgeleitet wird. Durch die Implementierung des Linktrackings von benutzerdefinierten Domains sehen Ihre E-Mails legitim aus und haben eine höhere Wahrscheinlichkeit, den Posteingang des Empfängers zu erreichen.
 
@@ -25,4 +25,4 @@ Als Unternehmen arbeiten wir hart daran, sicherzustellen, dass unsere Zustellbar
 
 * Vergewissern Sie sich, dass Sie eine vollständig ausgefüllte E-Mail-Signatur mit einer physischen Adresse haben.
 
-* Lesen Sie nach und stellen Sie sicher, dass Sie [CAN-SPAM-Gesetze](https://www.ftc.gov/tips-advice/business-center/guidance/can-spam-act-compliance-guide-business){target="_blank"}.
+* Lesen Sie nach und stellen Sie sicher, dass Sie die [CAN-SPAM-Gesetze](https://www.ftc.gov/tips-advice/business-center/guidance/can-spam-act-compliance-guide-business){target="_blank"} einhalten.

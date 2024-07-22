@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Sie können ein Interaktionsprogramm mit dem Klick auf einen Schalter deaktivieren. Dadurch wird verhindert, dass Inhalte gesendet werden. So geht es.
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Wechseln Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Wählen Sie das Interaktionsprogramm aus und klicken Sie auf **Einrichtung**.
+1. Wählen Sie das Interaktionsprogramm aus und klicken Sie auf **Einrichten**.
 
    >[!NOTE]
    >
@@ -27,11 +27,11 @@ Sie können ein Interaktionsprogramm mit dem Klick auf einen Schalter deaktivier
 
    ![](assets/image2014-9-15-17-3a14-3a56.png)
 
-1. Doppelklicken **Programmstatus**.
+1. Doppelklicken Sie auf **Programmstatus**.
 
    ![](assets/image2014-9-15-17-3a14-3a59.png)
 
-1. Auswählen **Aus** und klicken **Speichern**.
+1. Wählen Sie **Aus** und klicken Sie auf **Speichern**.
 
    ![](assets/image2014-9-15-17-3a15-3a2.png)
 

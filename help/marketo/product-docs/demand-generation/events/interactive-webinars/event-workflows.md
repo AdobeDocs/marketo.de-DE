@@ -22,19 +22,19 @@ Gehen Sie nach Abschluss Ihres Webinars zum Tab Dashboard , um die aggregierte L
 
 ## Manuelle Synchronisierung {#manual-sync}
 
-Mit interaktiven Webinaren können Sie die Interaktionsdaten Ihres Webinars aus Adobe Connect abrufen, wenn Sie sie nicht automatisch innerhalb von zwei Stunden nach Abschluss des Webinars erhalten haben. Auf der Übersichtsseite wird die Schaltfläche &quot;Jetzt synchronisieren&quot;angezeigt. Klicken **Jetzt synchronisieren** Trigger erhalten einen Abruf von Adobe Connect zum Ausfüllen der Daten in Marketo Engage. Nachdem die Synchronisierung abgeschlossen ist, verschwindet die Schaltfläche und die Registerkarte Dashboard wird ausgefüllt.
+Mit interaktiven Webinaren können Sie die Interaktionsdaten Ihres Webinars aus Adobe Connect abrufen, wenn Sie sie nicht automatisch innerhalb von zwei Stunden nach Abschluss des Webinars erhalten haben. Auf der Übersichtsseite wird die Schaltfläche &quot;Jetzt synchronisieren&quot;angezeigt. Durch Klicken auf **Jetzt synchronisieren** wird ein Abruf von Adobe Connect Trigger, um die Daten im Marketo Engage zu füllen. Nachdem die Synchronisierung abgeschlossen ist, verschwindet die Schaltfläche und die Registerkarte Dashboard wird ausgefüllt.
 
 ## Dashboard-Widgets {#dashboard-widgets}
 
 Das Dashboard besteht aus vier Widgets.
 
-**Status des Ereignisprogramms**: Zeigt die verschiedenen Programmstatus für dieses Ereignis und die Anzahl der Programmmitglieder an, die derzeit diesen Programmstatus aufweisen.
+**Programmstatus des Ereignisses**: Zeigt die verschiedenen Programmstatus für dieses Ereignis und die Anzahl der Programmmitglieder an, die derzeit diesen Programmstatus aufweisen.
 
-**Teilnahme**: Zeigt die Dauer der Teilnahme verschiedener Mitglieder des Webinars im Vergleich zur Gesamtdauer des Webinars in Prozent an.
+**Teilnahme**: Zeigt die Anwesenheitsdauer verschiedener Mitglieder an, die am Webinar teilgenommen haben, in Bezug auf die Gesamtdauer des Webinars in Prozent.
 
-**Umfrageleistung**: Zeigt die verschiedenen Umfragen an, die im Rahmen des von Adobe Connect unterstützten Webinars durchgeführt wurden, sowie die Verteilung der Teilnehmer, die an der Umfrage teilgenommen haben und auf die einzelnen Antworten reagiert haben.
+**Umfrageleistung**: Zeigt die verschiedenen Umfragen an, die während des von Adobe Connect bereitgestellten Webinars gestartet wurden, und die Verteilung der Teilnehmer, die an der Umfrage teilgenommen haben und auf die Antworten reagiert haben.
 
-**Klick- und Dateidownload-Aktivität**: Stellt die Download-Anzahl der Dateien und Weblinks bereit, die im Webinar mit Adobe Connect von verschiedenen Mitgliedern angeklickt wurden, die am Webinar teilgenommen haben und diese Aktion ausgeführt haben.
+**Aktivität &quot;Klick- und Dateidownload&quot;**: Stellt die Download-Anzahl der Dateien und Weblinks bereit, die im Webinar von Adobe Connect von verschiedenen Mitgliedern angeklickt wurden, die am Webinar teilgenommen haben und diese Aktion ausgeführt haben.
 
 ## Webinar-Aufzeichnung {#webinar-recording}
 
@@ -44,7 +44,7 @@ Gehen Sie zur Registerkarte Übersicht , um das aufgezeichnete Webinar anzuzeige
 
 >[!NOTE]
 >
->* Interaktive Webinare werden nicht automatisch aufgezeichnet. Klicken Sie nach Beginn Ihres Webinars auf das Dropdown-Menü neben dem Namen des Webinars und wählen Sie **Sitzung aufzeichnen**.
+>* Interaktive Webinare werden nicht automatisch aufgezeichnet. Klicken Sie nach Beginn Ihres Webinars auf das Dropdown-Menü neben dem Namen des Webinars und wählen Sie **Sitzung aufzeichnen** aus.
 >* Wenn die Sitzung aufgezeichnet wird, muss der Host die Aufzeichnung manuell beenden oder &quot;Sitzung für alle beenden&quot;auswählen, um die Aufzeichnung zu stoppen. Andernfalls wird die Aufzeichnung automatisch innerhalb von 10 Minuten nach dem letzten Teilnehmer, der den Raum verlässt, beendet.
 >* Die Aufzeichnung wird im MP4-Format heruntergeladen.
 >* Wenn Sie die Aufzeichnung freigeben, kann sie von jedem Benutzer mit dem Link angezeigt werden. Stellen Sie daher sicher, dass sie für die gewünschte Zielgruppe freigegeben ist.
@@ -61,7 +61,7 @@ Jeder Trigger/Filter enthält zusätzliche Einschränkungen, mit denen Sie eine 
 
 ![](assets/event-workflows-4.png)
 
-**Attends-Ereignis** (Filterversion: Ereignis wurde hinzugefügt)
+**Teilnehmer-Ereignis** (Filterversion: Ereignis &quot;Hat teilgenommen&quot;)
 
 ![](assets/event-workflows-5.png)
 
@@ -69,10 +69,10 @@ Jeder Trigger/Filter enthält zusätzliche Einschränkungen, mit denen Sie eine 
 
 ![](assets/event-workflows-6.png)
 
-**Herunterladen eines Assets** (Filterversion: Asset heruntergeladen)
+**Lädt ein Asset herunter** (Filterversion: Heruntergeladenes Asset)
 
 ![](assets/event-workflows-7.png)
 
-**Antworten auf eine Umfrage** (Filterversion: Antwort auf eine Umfrage)
+**Beantwortet eine Umfrage** (Filterversion: Beantwortet eine Umfrage)
 
 ![](assets/event-workflows-8.png)

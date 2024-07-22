@@ -6,13 +6,13 @@ feature: Veeva CRM
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '263'
-ht-degree: 42%
+ht-degree: 44%
 
 ---
 
 # Standardmäßige VEA-Feldzuordnung {#default-veeva-field-mapping}
 
-Wenn Sie Ihr Marketo Engage-Konto zum ersten Mal mit Veeva synchronisieren, führt Marketo diese Verknüpfungen automatisch zwischen Ihren integrierten Feldern von Veeva und Marketo durch. Marketo synchronisiert auch Ihre benutzerdefinierten Felder auf Ihren Konten und Kontakten.
+Wenn Sie Ihr Marketo Engage-Konto zum ersten Mal mit Veeva synchronisieren, stellt Marketo diese Verknüpfungen automatisch zwischen Ihren integrierten Feldern von Veeva und Marketo her. Marketo synchronisiert auch Ihre benutzerdefinierten Felder auf Ihren Konten und Kontakten.
 
 ## Kontaktfelder {#contact-fields}
 
@@ -34,7 +34,7 @@ Wenn Sie Ihr Marketo Engage-Konto zum ersten Mal mit Veeva synchronisieren, füh
     </tr>
     <tr>
       <td>Erstellungsdatum</td>
-      <td>SFDC-Erstellungsdatum</td>
+      <td>SFDC Created Date</td>
     </tr>
     <tr>
       <td>Kontaktbeschreibung</td>
@@ -54,7 +54,7 @@ Wenn Sie Ihr Marketo Engage-Konto zum ersten Mal mit Veeva synchronisieren, füh
     </tr>
     <tr>
       <td>E-Mail-Abmeldung</td>
-      <td>Hat abbestellt</td>
+      <td>Abbestellt</td>
     </tr>
     <tr>
       <td>Gelöscht</td>
@@ -86,7 +86,7 @@ Wenn Sie Ihr Marketo Engage-Konto zum ersten Mal mit Veeva synchronisieren, füh
     </tr>
     <tr>
       <td>MailingState</td>
-      <td>Zustand</td>
+      <td>Bundesland</td>
     </tr>
     <tr>
       <td>MailingStreet</td>
@@ -106,7 +106,7 @@ Wenn Sie Ihr Marketo Engage-Konto zum ersten Mal mit Veeva synchronisieren, füh
     </tr>
     <tr>
       <td>Titel</td>
-      <td>Job-Titel</td>
+      <td>Jobtitel</td>
     </tr>
   </tbody>
 </table>
@@ -130,20 +130,20 @@ Wenn Sie Ihr Marketo Engage-Konto zum ersten Mal mit Veeva synchronisieren, füh
       <td>Jahresumsatz</td>
     </tr>
     <tr>
-      <td>Rechnungsort</td>
-      <td>Rechnungsort</td>
+      <td>Abrechnungsort</td>
+      <td>Abrechnungsort</td>
     </tr>
     <tr>
-      <td>Rechnungsland</td>
-      <td>Rechnungsland</td>
+      <td>Abrechnungsland</td>
+      <td>Abrechnungsland</td>
     </tr>
     <tr>
       <td>Postleitzahl der Abrechnung</td>
-      <td>Postleitzahl für Rechnung</td>
+      <td>Postleitzahl für Abrechnung</td>
     </tr>
     <tr>
       <td>Abrechnungsstaat/Provinz</td>
-      <td>Bundesland für Rechnung</td>
+      <td>Bundesland für Abrechnung</td>
     </tr>
     <tr>
       <td>Billing Street</td>
@@ -163,7 +163,7 @@ Wenn Sie Ihr Marketo Engage-Konto zum ersten Mal mit Veeva synchronisieren, füh
     </tr>
     <tr>
       <td>Kontoname</td>
-      <td>Firmenname</td>
+      <td>Unternehmensname</td>
     </tr>
     <tr>
       <td>Mitarbeiter</td>
@@ -218,7 +218,7 @@ Diese Felder werden in Marketo erstellt, können jedoch nicht von den Kunden ang
     </tr>
     <tr>
       <td>Erstellungsdatum von Veeva</td>
-      <td>Datum, das in SFDC erstellt wurde (kann sich von dem in Marketo erstellten unterscheiden)</td>
+      <td>In SFDC erstelltes Datum (kann sich von dem in Marketo erstellten unterscheiden)</td>
     </tr>
     <tr>
       <td>Veeva wird gelöscht</td>

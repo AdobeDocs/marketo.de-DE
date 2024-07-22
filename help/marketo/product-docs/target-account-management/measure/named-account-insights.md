@@ -6,8 +6,8 @@ exl-id: 2bd9497e-ca5f-4fd6-8fd2-241419e97cba
 feature: Target Account Management
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '422'
-ht-degree: 4%
+source-wordcount: '424'
+ht-degree: 3%
 
 ---
 
@@ -19,13 +19,13 @@ Das Dashboard &quot;Spezifisches Konto&quot;bietet eine 360-Grad-Ansicht eines Z
 
 ## Dashboard {#dashboard}
 
-Das Dashboard aggregiert wichtige Einblicke auf Kontoebene aus allen Personen innerhalb eines benannten Kontos, sodass es nicht erforderlich ist, zu jeder Person zu gehen, um ihren Fortschritt zu bewerten. Sie können die E-Mail-Aktivität mithilfe von detaillierter untersuchen. [Email Insights](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md#account-based-marketing).
+Das Dashboard aggregiert wichtige Einblicke auf Kontoebene aus allen Personen innerhalb eines benannten Kontos, sodass es nicht erforderlich ist, zu jeder Person zu gehen, um ihren Fortschritt zu bewerten. Mit [E-Mail Insights](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md#account-based-marketing) können Sie die E-Mail-Aktivität tiefer untersuchen.
 
 >[!NOTE]
 >
 >Diagramme zeigen Einblicke aus den letzten 90 Tagen an.
 
-**Kontointeraktion im Zeitverlauf** Klicken Sie auf **Ansicht** rechts klicken, um die Ansicht zu ändern. Neben der Kontobewertung können Sie auch den Gesamtumsatz anzeigen..
+**Kontointeraktion im Zeitverlauf** Klicken Sie auf das Dropdown-Menü **Ansicht** rechts, um die Ansicht zu ändern. Neben der Kontobewertung können Sie auch den Gesamtumsatz anzeigen..
 
 ![](assets/two-new.png)
 
@@ -56,15 +56,15 @@ Anwender von Marketo Sales Insight können sich die interessanten Momente ansehe
 
 ![](assets/int-mom.png)
 
-**Die besten Personen**
+**Top People**
 
-Diese Personen werden anhand von Prioritäten berechnet, die auf Neuigkeit oder Dringlichkeit basieren, die von Personen mit benannten Konten (wie [Beste Betas](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) in Sales Insight) oder vom Benutzer definierte Werte. **Priorität** ist nur für Benutzer von Marketo Sales Insight verfügbar.
+Diese Personen werden anhand von Prioritäten berechnet, die auf Neuigkeit oder Dringlichkeit basieren, die von Personen mit benannten Konten (wie [Best Bets](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) in Sales Insight) oder vom Benutzer definierten Werten angezeigt werden. **Priorität** ist nur für Benutzer von Marketo Sales Insight verfügbar.
 
 ![](assets/top-ten.png)
 
 **Enthält untergeordnete Elemente**
 
-Klicks **Enthält untergeordnete Elemente** , um die untergeordneten Konten des ausgewählten benannten Kontos anzuzeigen und auszuwählen und die aggregierte Analyse anzuzeigen.
+Klicken Sie auf **Untergeordnete Elemente einschließen** , um die untergeordneten Konten des ausgewählten benannten Kontos anzuzeigen und auszuwählen und die aggregierte Analyse anzuzeigen.
 
 ![](assets/abm.png)
 
@@ -108,10 +108,10 @@ Zeigen Sie Mitglieder des Kontoteams an, fügen Sie Mitglieder hinzu/entfernen S
 
 >[!NOTE]
 >
->Klicken Sie auf **Aktionen im Kontoteam** Dropdown, um Kontomitglieder hinzuzufügen/zu entfernen oder einen Kontoinhaber zuzuweisen.
+>Klicken Sie auf das Dropdown-Menü **Aktionen des Kontoteams** , um Kontomitglieder hinzuzufügen/zu entfernen oder einen Kontoinhaber zuzuweisen.
 
 ## ICP-Indikatoren {#icp-indicators}
 
-Anzeigen der ICP-Indikatoren, die Sie beim Export ausgewählt haben [Modell angepasst](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md#model-tuning).
+Zeigen Sie die ICP-Indikatoren an, die Sie beim [Optimieren Ihres Modells](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md#model-tuning) für den Export ausgewählt haben.
 
 ![](assets/eight.png)

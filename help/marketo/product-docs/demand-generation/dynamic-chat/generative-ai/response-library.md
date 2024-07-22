@@ -16,15 +16,15 @@ Zeigen Sie an einer zentralen Stelle alle Ihre Fragen, ihren Genehmigungsstatus 
 
 ## Manuelles Hinzufügen einer Frage {#manually-add-a-question}
 
-1. Klicken Sie unter Generative KI auf **[!UICONTROL Unterstützte Antworten]**.
+1. Klicken Sie unter &quot;Generative KI&quot;auf **[!UICONTROL Assisted responses]**.
 
    ![](assets/response-library-1.png)
 
-1. Klicken Sie auf **[!UICONTROL Reaktionsbibliothek]** Registerkarte.
+1. Klicken Sie auf die Registerkarte **[!UICONTROL Antwortbibliothek]** .
 
    ![](assets/response-library-2.png)
 
-1. Klicks **[!UICONTROL Frage hinzufügen]**.
+1. Klicken Sie auf **[!UICONTROL Frage hinzufügen]**.
 
    ![](assets/response-library-3.png)
 
@@ -32,7 +32,7 @@ Zeigen Sie an einer zentralen Stelle alle Ihre Fragen, ihren Genehmigungsstatus 
 
    ![](assets/response-library-4.png)
 
-1. Klicken Sie auf &quot;Aktualisieren&quot;, und Ihre neue Frage wird oben mit dem Status &quot;[!UICONTROL Verarbeitung].&quot;
+1. Klicken Sie auf &quot;Aktualisieren&quot;. Ihre neue Frage wird oben mit dem Status &quot;[!UICONTROL Verarbeitung]&quot; angezeigt.
 
    ![](assets/response-library-5.png)
 
@@ -44,9 +44,9 @@ Zeigen Sie an einer zentralen Stelle alle Ihre Fragen, ihren Genehmigungsstatus 
 
 >[!NOTE]
 >
->Allen generierten Fragen und Antworten wird die &quot;[!UICONTROL Bedarfsprüfung]Der Status ist standardmäßig verfügbar. Nur &quot;[!UICONTROL genehmigt]&quot;Fragen und Antworten werden den Chatbesuchern zur Verfügung gestellt.
+>Allen generierten Fragen und Antworten wird standardmäßig der Status &quot;[!UICONTROL need review]&quot; zugewiesen. Chat-Besuchern stehen nur Fragen und Antworten zur Verfügung, die &quot;[!UICONTROL genehmigt]&quot; sind.
 
-1. Im **[!UICONTROL Reaktionsbibliothek]** klicken Sie auf die gewünschte Frage.
+1. Klicken Sie in der **[!UICONTROL Antwortbibliothek]** auf die gewünschte Frage.
 
    ![](assets/response-library-7.png)
 
@@ -85,7 +85,7 @@ Anweisungen zum Durchführen von Massenbearbeitungen in der heruntergeladenen Ex
 </tbody>
 </table>
 
-1. Nachdem Sie die Änderungen in Ihrer Datei vorgenommen haben, kehren Sie zum **[!UICONTROL Reaktionsbibliothek]** Registerkarte und klicken Sie auf **[!UICONTROL Antworten hochladen]**.
+1. Nachdem Sie die Änderungen in Ihrer Datei vorgenommen haben, kehren Sie zur Registerkarte **[!UICONTROL Antwortbibliothek]** zurück und klicken Sie auf **[!UICONTROL Antworten hochladen]**.
 
    ![](assets/response-library-9.png)
 

@@ -6,7 +6,7 @@ exl-id: 8235ae4b-ab07-413f-bd23-4e12232bd019
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '146'
 ht-degree: 6%
 
 ---
@@ -15,19 +15,19 @@ ht-degree: 6%
 
 So fügen Sie Ihren primären Domänen in den Kontoeinstellungen Subdomänen hinzu. Auf diese Weise können Sie Subdomains verwalten, die mit dem jeweiligen RTP-Javascript Ihrer primären Domäne verbunden sind. Es wird empfohlen, das JavaScript-Tag für alle hinzugefügten Subdomains bereitzustellen.
 
-1. Gehen Sie in Web-Personalisierung zu **Kontoeinstellungen**.
+1. Wechseln Sie in Web Personalization zu **Kontoeinstellungen**.
 
    ![](assets/image2014-12-1-23-3-12.png)
 
-1. Auf der Seite &quot;Domänenkonfiguration&quot;wird eine Liste aller mit Ihrem Konto verknüpften primären Domänen angezeigt. In jedem Abschnitt wird zuerst die primäre Domäne (hervorgehoben unten) und dann alle Subdomänen aufgeführt. Klicken **Subdomain hinzufügen**.
+1. Auf der Seite &quot;Domänenkonfiguration&quot;wird eine Liste aller mit Ihrem Konto verknüpften primären Domänen angezeigt. In jedem Abschnitt wird zuerst die primäre Domäne (hervorgehoben unten) und dann alle Subdomänen aufgeführt. Klicken Sie auf **Subdomain hinzufügen**.
 
    ![](assets/highlightprimary2.png)
 
-1. Klicken **Hinzufügen**.
+1. Klicken Sie auf **Hinzufügen**.
 
    ![](assets/add.png)
 
-1. Geben Sie die URL der Subdomain ein. Klicken **Hinzufügen** oder **Löschen** um Ihre Liste der Subdomains zu verwalten, klicken Sie auf **OK** wenn Sie fertig sind.
+1. Geben Sie die URL der Subdomain ein. Klicken Sie auf **Hinzufügen** oder **Löschen** , um Ihre Liste der Subdomains zu verwalten, und klicken Sie dann auf **OK** , wenn Sie fertig sind.
 
    ![](assets/newsubdomain.png)
 
@@ -37,4 +37,4 @@ So fügen Sie Ihren primären Domänen in den Kontoeinstellungen Subdomänen hin
 
    >[!NOTE]
    >
-   >Wenn Sie _primary_ Domänen zu Ihrem Konto hinzufügen, wenden Sie sich an [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support).
+   >Wenn Sie _primäre_ Domänen zu Ihrem Konto hinzufügen möchten, wenden Sie sich an den [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support).

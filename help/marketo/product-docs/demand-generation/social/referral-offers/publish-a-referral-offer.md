@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2359845
-description: Veröffentlichen eines Verweisangebots - Marketo Docs - Produktdokumentation
-title: Veröffentlichen eines Verweisangebots
+description: Publish a referral offer - Marketo Docs - Produktdokumentation
+title: Publish - Verweisangebot
 exl-id: 48335902-cb43-44ea-9f19-2fe49105bb45
 feature: Social
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,15 +11,15 @@ ht-degree: 0%
 
 ---
 
-# Veröffentlichen eines Verweisangebots {#publish-a-referral-offer}
+# Publish - Verweisangebot {#publish-a-referral-offer}
 
-Nach [Erstellen eines Verweisangebots](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), können Sie sie auf Ihren Marketo-Landingpages, in Facebook und auf Ihrer Website veröffentlichen.
+Nachdem Sie [ ein Verweisangebot erstellt haben, können Sie es auf Ihren Marketo-Landingpages, in Facebook und auf Ihrer Website veröffentlichen.](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
 
 1. Navigieren Sie zu Ihrer Landingpage und öffnen Sie sie zur Bearbeitung.
 
    ![](assets/image2014-9-19-11-3a15-3a30.png)
 
-1. Verschieben **Verweisangebot** von der Palette auf der rechten Seite aus.
+1. Ziehen Sie über **Verweisangebot** aus der Palette auf der rechten Seite.
 
    ![](assets/image2014-9-19-11-3a15-3a42.png)
 
@@ -31,7 +31,7 @@ Nach [Erstellen eines Verweisangebots](/help/marketo/product-docs/demand-generat
 >
 >Sie müssen Ihr Verweisangebot validieren, um es hier verfügbar zu machen.
 
-Herzlichen Glückwunsch! Validieren Sie die Landingpage und Ihr Verweisangebot ist live. Sie können auch [Landingpage in Facebook veröffentlichen](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) oder [Angebote auf Ihrer Website platzieren](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
+Herzlichen Glückwunsch! Validieren Sie die Landingpage und Ihr Verweisangebot ist live. Sie können die Einstiegsseite auch [in Facebook veröffentlichen](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) oder [auf Ihrer Website veröffentlichen](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
 
 >[!TIP]
 >

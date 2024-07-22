@@ -6,7 +6,7 @@ exl-id: 6cfe0100-5b5c-4f0e-99af-2f54bbd5623c
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -21,10 +21,10 @@ Aus unseren Erfahrungen können Sie Folgendes testen, wenn Ihre Symbolleiste nic
 
 - Dies mag offensichtlich sein, aber versuchen Sie, Ihren Browser zu verlassen und ein völlig neues Fenster zu öffnen.
 
-- Übernehmen Sie die [Webanwendung](https://toutapp.com/login) und stellen Sie sicher, dass Sie dort angemeldet sind.
+- Wechseln Sie zur [Webanwendung](https://toutapp.com/login) und stellen Sie sicher, dass Sie dort angemeldet sind.
 
 - Stellen Sie sicher, dass Cookies aktiviert sind. Wenn Sie Chrome verwenden, gehen Sie zu Einstellungen > Erweiterte Einstellungen anzeigen > Inhaltseinstellungen > Deaktivieren Sie &quot;Drittanbieter-Cookies und Site-Daten blockieren&quot;.
 
 - Versuchen Sie, die Verbindung zu trennen und dann die Browser-Erweiterung Sales Connect erneut zu verbinden.
 
-Wenn keiner der oben genannten Tipps geholfen hat, wenden Sie sich an [Groß-/Kleinschreibung einreichen](https://nation.marketo.com/community/support_solutions) auf Support.
+Wenn keiner der oben genannten Tipps hilfreich war, senden Sie bitte [einen Fall](https://nation.marketo.com/community/support_solutions) an den Support.

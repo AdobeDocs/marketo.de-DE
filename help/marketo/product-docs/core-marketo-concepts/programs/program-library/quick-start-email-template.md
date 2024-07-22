@@ -2,10 +2,10 @@
 description: Schnellstart-E-Mail-Vorlage - Marketo-Dokumente - Produktdokumentation
 title: Schnellstart-E-Mail-Vorlage
 feature: Programs
-exl-id: cf4c3be9-a71f-4b75-b262-67bd788e0a67
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 4ad2063e-11c4-4926-8438-5b38af0fbc8d
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '569'
+source-wordcount: '565'
 ht-degree: 0%
 
 ---
@@ -16,15 +16,15 @@ Einige der Startprogramme in der Marketo Engage Reference Library enthalten eine
 
 Der Marketo Engage E-Mail-Editor verfügt über Funktionen, mit denen Sie das Layout Ihrer E-Mails ändern und deren Inhalt bearbeiten können.
 
-* **Module**: In der Vorlage kodierte ziehbare/ablagefähige Inhaltsbausteine. Sie können neu organisiert und dupliziert werden.
+* **Module**: In die Vorlage kodierte ziehbare/ablagefähige Inhaltsbausteine. Sie können neu organisiert und dupliziert werden.
 
 * **Textelemente**: Mit dem Editor können Sie das Kopieren aktualisieren, Schriftstile ändern oder Links hinzufügen.
 
-* **Bildelement**: Bilder können ähnlich wie Textelemente ausgetauscht, verknüpft und in der Größe angepasst werden.
+* **Bildelemente**: Ähnlich wie Textelemente können Bilder ausgetauscht, verknüpft und in der Größe geändert werden.
 
 * **Variablen**: Wenn ein Modul ausgewählt ist, werden Variablen auf der rechten Seite des Editors angezeigt. Diese können verwendet werden, um Attribute des Moduls anzupassen, die nicht einfach über Bild- oder Textelemente bearbeitet werden können.
 
-Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalten Sie vom Adobe-Account-Team oder unter [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} Seite.
+Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Programms an das Adobe-Account-Team oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} .
 
 ## Modulzusammenfassung {#modules-summary}
 

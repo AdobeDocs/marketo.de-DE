@@ -1,11 +1,11 @@
 ---
 description: Feld "Aktivitätstyp aktualisieren"bei der Protokollierung von Aktivitäten in Salesforce - Marketo Docs - Produktdokumentation
 title: Feld "Aktivitätstyp"bei der Protokollierung von Aktivitäten in Salesforce aktualisieren
-exl-id: f65d7d97-ec65-4210-9381-02be788498f9
-source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
+exl-id: 800323cb-2b99-42f1-ae30-0f87a9a1b4be
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '422'
-ht-degree: 0%
+source-wordcount: '420'
+ht-degree: 1%
 
 ---
 
@@ -33,31 +33,31 @@ Mit Aktionen können Sie Ihre E-Mail- und Aufrufaktivitäten automatisch mit Sal
 ### In Salesforce Lightning {#salesforce-lightning}
 
 1. Navigieren Sie zu [Salesforce.com](https://salesforce.com){target="_blank"}.
-1. Klicken Sie auf das Zahnradsymbol oben rechts und wählen Sie **Einrichtung** > **Object Manager**.
+1. Klicken Sie auf das Zahnradsymbol oben rechts und wählen Sie **Einrichtung** > **Objektmanager** aus.
 1. Geben Sie &quot;task&quot;in das Feld &quot;Schnellsuche&quot;ein.
 1. Klicken Sie im linken Bereich auf **Felder und Beziehungen**.
-1. Feldbezeichnung auswählen **Typ**.
-1. Klicken Sie unter &quot;Task Type Picklist Value&quot; **Neu**.
+1. Klicken Sie auf die Feldbezeichnung **Typ**.
+1. Klicken Sie unter &quot;Task Type Picklist Value&quot;auf **New**.
 1. Geben Sie den Namen der fehlenden Task Type Picklist-Werte ein (&quot;E-Mail, &quot;Aufruf&quot;, &quot;Antwort&quot;).
-1. Klicken **Speichern**.
+1. Klicken Sie auf **Speichern**.
 
 ### In Salesforce Classic {#salesforce-classic}
 
 1. Navigieren Sie zu [Salesforce.com](https://salesforce.com){target="_blank"}.
-1. Klicken **Einrichtung** > **Build** > **Anpassen** > **Tätigkeiten** > **Aufgabenfelder**.
-1. Klicken **Typ**.
-1. Klicken Sie unter &quot;Task Type Picklist Value&quot; **Neu**.
+1. Klicken Sie auf **Setup** > **Build** > **Anpassen** > **Aktivitäten** > **Aufgabenfelder**.
+1. Klicken Sie auf **Typ**.
+1. Klicken Sie unter &quot;Task Type Picklist Value&quot;auf **New**.
 1. Geben Sie den Namen der fehlenden Task Type Picklist-Werte ein (&quot;E-Mail, &quot;Aufruf&quot;, &quot;Antwort&quot;).
-1. Klicken **Speichern**.
+1. Klicken Sie auf **Speichern**.
 
-Nachdem dies eingerichtet ist, sehen Sie, wie das Feld Typ den entsprechenden Wert für aufgezeichnete E-Mails, Aufrufe und Antworten ausfüllt. Diese Werte werden _not_ werden in Erinnerungsaufgaben für Sales Insight-Aktionen aufgefüllt.
+Nachdem dies eingerichtet ist, sehen Sie, wie das Feld Typ den entsprechenden Wert für aufgezeichnete E-Mails, Aufrufe und Antworten enthält. Diese Werte werden bei Erinnerungsaufgaben für Sales Insight-Aktionen _nicht_ ausgefüllt.
 
 >[!NOTE]
 >
->Wenn &quot;Antwort&quot;nicht als Wert angezeigt wird, fügen Sie ihn hinzu, indem Sie auf **Neu**. &quot;Antwort&quot;ist kein Standardwert in Salesforce.
+>Wenn Sie &quot;Antwort&quot;nicht als Wert sehen, fügen Sie ihn hinzu, indem Sie auf **Neu** klicken. &quot;Antwort&quot;ist kein Standardwert in Salesforce.
 
 >[!MORELIKETHIS]
 >
->* [Protokollieren von Attributen für Verkaufsaktivitäten in Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md){target="_blank"}
->* [Konfigurieren der Anpassung der Salesforce-Aktivitätsdetails](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md){target="_blank"}
+>* [Protokollieren von Attributen zu Verkaufsaktivitäten in Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md){target="_blank"}
+>* [Konfigurieren der Anpassung der Details der Salesforce-Aktivität](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md){target="_blank"}
 >* [Vertriebsaktivitäten mit Salesforce synchronisieren](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md){target="_blank"}

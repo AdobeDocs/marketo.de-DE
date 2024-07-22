@@ -2,11 +2,11 @@
 description: Berechtigungen - Marketo-Dokumente - Produktdokumentation
 title: Berechtigungen
 feature: Dynamic Chat
-exl-id: e05308fe-b8b7-40a3-8099-cec937e1961c
-source-git-commit: cf082705f68c459e5b46cf7c968df75241102f60
+exl-id: 06798ac4-636b-476e-bbb1-498062844406
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
 source-wordcount: '724'
-ht-degree: 10%
+ht-degree: 5%
 
 ---
 
@@ -16,15 +16,15 @@ Es gibt fünf Standardprofile mit vordefinierten Berechtigungen, die Sie im Dyna
 
 ## Bestehende Berechtigungen bearbeiten {#edit-existing-permissions}
 
-1. Im [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}klicken **Dynamic Chat**.
+1. Klicken Sie in [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"} auf **Dynamic Chat**.
 
    ![](assets/permissions-1.png)
 
-1. Im **Produktprofile** wählen Sie das zu bearbeitende Profil aus. In diesem Beispiel wählen wir **Live Agent**.
+1. Wählen Sie auf der Registerkarte **Produktprofile** das Profil aus, das Sie bearbeiten möchten. In diesem Beispiel wählen wir **Live Agent**.
 
    ![](assets/permissions-2.png)
 
-1. Klicken Sie auf **Berechtigungen** Registerkarte.
+1. Klicken Sie auf die Registerkarte **Berechtigungen**.
 
    ![](assets/permissions-3.png)
 
@@ -32,7 +32,7 @@ Es gibt fünf Standardprofile mit vordefinierten Berechtigungen, die Sie im Dyna
 
    ![](assets/permissions-4.png)
 
-1. Die verfügbaren Berechtigungselemente sind auf der linken Seite aufgeführt. Sie können festlegen, ob Berechtigungen einzeln oder auf einmal hinzugefügt werden sollen. In diesem Beispiel ist nur eine verfügbar, also fügen wir diese hinzu. Klicken Sie auf **+** signieren.
+1. Die verfügbaren Berechtigungselemente sind auf der linken Seite aufgeführt. Sie können festlegen, ob Berechtigungen einzeln oder auf einmal hinzugefügt werden sollen. In diesem Beispiel ist nur eine verfügbar, also fügen wir diese hinzu. Klicken Sie auf das Zeichen **+**.
 
    ![](assets/permissions-5.png)
 
@@ -50,15 +50,15 @@ Sie können diesen Vorgang jetzt für alle/alle anderen Dynamic Chat-Bereiche wi
 
 ## Profil erstellen {#create-a-profile}
 
-1. Im [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}klicken **Dynamic Chat**.
+1. Klicken Sie in [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"} auf **Dynamic Chat**.
 
    ![](assets/permissions-8.png)
 
-1. Im **Produktprofile** Registerkarte, klicken **Neues Profil**.
+1. Klicken Sie auf der Registerkarte **Produktprofile** auf **Neues Profil**.
 
    ![](assets/permissions-9.png)
 
-1. **Name** Ihr Produktprofil. Optional können Sie ihr einen Anzeigenamen und/oder eine Beschreibung geben und festlegen, dass Benutzer benachrichtigt werden sollen, wenn sie hinzugefügt/entfernt werden. Klicks **Speichern** wann geschehen.
+1. **Name** Ihr Produktprofil. Optional können Sie ihr einen Anzeigenamen und/oder eine Beschreibung geben und festlegen, dass Benutzer benachrichtigt werden sollen, wenn sie hinzugefügt/entfernt werden. Klicken Sie auf **Speichern**, wenn Sie fertig sind.
 
    ![](assets/permissions-10.png)
 
@@ -66,7 +66,7 @@ Sie können diesen Vorgang jetzt für alle/alle anderen Dynamic Chat-Bereiche wi
 
    ![](assets/permissions-11.png)
 
-1. Führen Sie nun die Schritte 3 bis 6 aus der [Abschnitt oben](#edit-existing-permissions) für jeden gewünschten Bereich.
+1. Führen Sie nun die Schritte 3 bis 6 aus dem Abschnitt [über ](#edit-existing-permissions) für jeden gewünschten Bereich aus.
 
 ## Liste der Berechtigungen {#list-of-permissions}
 
@@ -84,10 +84,10 @@ Unten finden Sie eine Liste aller verfügbaren Berechtigungen für jeden Bereich
     <td>Konferenzverwaltung</td>
     <td><li>Dialogfelder anzeigen</li>
     <li>Dialogfelder verwalten (erstellen, löschen)</li>
-    <li>Veröffentlichungsdialogfelder</li>
+    <li>Publish-Dialogfelder</li>
     <li>Anzeigen von Konversationsflüssen</li>
     <li>Konversationsflüsse verwalten (erstellen, löschen)</li>
-    <li>Veröffentlichen von Konversionsflüssen</li></td>
+    <li>Publish-Konversationsflüsse</li></td>
   </tr>
   <tr>
     <td>Live-Chat</td>
@@ -129,7 +129,7 @@ Unten finden Sie eine Liste aller verfügbaren Berechtigungen für jeden Bereich
 </tbody>
 </table>
 
-**&#42;** Aktuell nur für Dynamic Prime-Benutzer verfügbar
+**&#42;** Derzeit nur für dynamische Prime-Benutzer verfügbar
 
 <p>
 
@@ -147,13 +147,13 @@ Im Folgenden finden Sie die fünf Standardprofile und die Berechtigungen, die st
 <tbody>
   <tr>
     <td>Marketingbenutzer</td>
-    <td><i>Konferenzverwaltung</i>
+    <td><i>Veränderungsverwaltung</i>
     <li>Dialogfelder anzeigen</li>
     <li>Dialogfelder verwalten (erstellen, löschen)</li>
-    <li>Veröffentlichungsdialogfelder</li>
+    <li>Publish-Dialogfelder</li>
     <li>Anzeigen von Konversationsflüssen</li>
     <li>Konversationsflüsse verwalten (erstellen, löschen)</li>
-    <li>Veröffentlichen von Konversionsflüssen</li>
+    <li>Publish-Konversationsflüsse</li>
     <br>
     <i>Live-Chat</i>
     <li>Nicht zutreffend</li>
@@ -178,7 +178,7 @@ Im Folgenden finden Sie die fünf Standardprofile und die Berechtigungen, die st
   </tr>
   <tr>
     <td><b>Live Agent</b></td>
-    <td><i>Konferenzverwaltung</i>
+    <td><i>Veränderungsverwaltung</i>
     <li>Dialogfelder anzeigen</li>
     <li>Anzeigen von Konversationsflüssen</li>
     <br>
@@ -207,7 +207,7 @@ Im Folgenden finden Sie die fünf Standardprofile und die Berechtigungen, die st
   </tr>
   <tr>
     <td><b>Kalenderagent</b></td>
-    <td><i>Konferenzverwaltung</i>
+    <td><i>Veränderungsverwaltung</i>
     <li>Dialogfelder anzeigen</li>
     <li>Anzeigen von Konversationsflüssen</li>
     <br>
@@ -235,13 +235,13 @@ Im Folgenden finden Sie die fünf Standardprofile und die Berechtigungen, die st
   </tr>
   <tr>
     <td><b>Marketing-Admin</b></td>
-    <td><i>Konferenzverwaltung</i>
+    <td><i>Veränderungsverwaltung</i>
     <li>Dialogfelder anzeigen</li>
     <li>Dialogfelder verwalten (erstellen, löschen)</li>
-    <li>Veröffentlichungsdialogfelder</li>
+    <li>Publish-Dialogfelder</li>
     <li>Anzeigen von Konversationsflüssen</li>
     <li>Konversationsflüsse verwalten (erstellen, löschen)</li>
-    <li>Veröffentlichen von Konversionsflüssen</li>
+    <li>Publish-Konversationsflüsse</li>
     <br>
     <i>Live-Chat</i>
     <li>Nicht zutreffend</li>
@@ -273,7 +273,7 @@ Im Folgenden finden Sie die fünf Standardprofile und die Berechtigungen, die st
   </tr>
   <tr>
     <td><b>Vertriebsadministrator</b></td>
-    <td><i>Konferenzverwaltung</i>
+    <td><i>Veränderungsverwaltung</i>
     <li>Dialogfelder anzeigen</li>
     <li>Anzeigen von Konversationsflüssen</li>
     <br>
@@ -309,4 +309,4 @@ Im Folgenden finden Sie die fünf Standardprofile und die Berechtigungen, die st
 </tbody>
 </table>
 
-**&#42;** Aktuell nur für Dynamic Prime-Benutzer verfügbar
+**&#42;** Derzeit nur für dynamische Prime-Benutzer verfügbar

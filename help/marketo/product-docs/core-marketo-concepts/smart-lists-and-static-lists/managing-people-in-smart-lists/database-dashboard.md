@@ -19,7 +19,7 @@ Das Datenbank-Dashboard dient als Momentaufnahme, mit der Sie wichtige Attribute
 >
 >Jeder Arbeitsbereich verfügt über ein eigenes Datenbank-Dashboard.
 
-Um dorthin zu gelangen, wählen Sie **[!UICONTROL Datenbank]** von Ihrer My Marketo aus.
+Wählen Sie dazu **[!UICONTROL Database]** aus Ihrer My Marketo aus.
 
 ![](assets/database-dashboard-1.png)
 
@@ -29,8 +29,8 @@ Die Diagramme geben die Gesamtzahl der Personen, die Anzahl der vermarktbaren Pe
 
 >[!TIP]
 >
->Möchten Sie genauere oder aktuellere Informationen über Ihre Personen erhalten? Probieren Sie einen [Personenleistungsbericht](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md){target="_blank"}.
+>Möchten Sie genauere oder aktuellere Informationen über Ihre Personen erhalten? Probieren Sie einen [Personen-Leistungsbericht](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md){target="_blank"} aus.
 
-**Personen insgesamt:** Die Anzahl der für den aufgeführten Arbeitsbereich insgesamt aufgeführten Personen.
+**Personen insgesamt:** Die Anzahl der für den aufgelisteten Arbeitsbereich insgesamt aufgeführten Personen.
 
-**Markierbare Personen:** Die Anzahl der für den aufgeführten Arbeitsbereich insgesamt angemeldeten Benutzer, _minus der folgenden_: Personen ohne E-Mail-Adresse, Personen, deren E-Mail-Adresse nicht erreichbar ist, auf die Blockierungsliste gesetzt Personen, Personen, die sich abgemeldet haben, Personen, die derzeit für Marketing ausgesetzt sind.
+**Markierbare Personen:** Die Anzahl der für den aufgeführten Arbeitsbereich insgesamt angemeldeten Personen, _minus der folgenden_: Personen ohne E-Mail-Adresse, Personen, deren E-Mail-Adresse nicht zugestellt wurde, auf die Blockierungsliste gesetzt Personen, die sich abgemeldet haben, Personen, die derzeit für &quot;Marketing ausgesetzt&quot;eingestellt sind.

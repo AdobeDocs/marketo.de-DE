@@ -7,7 +7,7 @@ feature: Smart Campaigns
 source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
 source-wordcount: '246'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -17,7 +17,7 @@ Führen Sie die folgenden Schritte aus, um einen reibungslosen Ablauf der Smart-
 
 ## Abrufen der Fehlerrate der Smart-Liste {#get-rid-of-smart-list-errors}
 
-Klicken Sie in Ihrer Smart-Kampagne auf **[!UICONTROL Smart List]**. Entfernen Sie alle roten, knackigen Linien, die Sie sehen, indem Sie die Fehler beheben.
+Klicken Sie in Ihrer Smart-Kampagne auf **[!UICONTROL Smart-Liste]**. Entfernen Sie alle roten, knackigen Linien, die Sie sehen, indem Sie die Fehler beheben.
 
 ![](assets/smart-campaign-checklist-1.png)
 
@@ -29,7 +29,7 @@ Klicken Sie in Ihrer Smart-Kampagne auf **[!UICONTROL Smart List]**. Entfernen S
 
 >[!NOTE]
 >
->Verwenden **[!UICONTROL Mitglied der Smart List]** kann in der anderen Liste Fehler enthalten. Schau auch da hin.
+>Die Verwendung von **[!UICONTROL Mitglied der Smart-Liste]** kann in dieser anderen Liste Fehler enthalten. Schau auch da hin.
 
 ## Abrufen von Flussfehlern {#get-rid-of-flow-errors}
 
@@ -43,24 +43,24 @@ Klicken Sie in Ihrer Smart-Kampagne auf **[!UICONTROL Fluss]**. Entfernen Sie al
 
 ## Überprüfen Sie die Registerkarte &quot;Zeitplan&quot;. {#review-the-schedule-tab}
 
-Im **[!UICONTROL Zeitplan]** Registerkarte, aktivieren **[!UICONTROL Status intelligenter Listen]** für Fehler in der Smart-Kampagne, die behoben werden müssen.
+Aktivieren Sie auf der Registerkarte **[!UICONTROL Plan]** die Option **[!UICONTROL Status der intelligenten Liste]** auf Fehler in der Smart-Kampagne, die behoben werden müssen.
 
 ![](assets/smart-campaign-checklist-3.png)
 
 ## Personenbeschränkung überprüfen {#check-person-restrictions-limit}
 
-Im **[!UICONTROL Zeitplan]** -Tab, stellen Sie sicher, dass die Anzahl qualifizierter Personen die Personenbeschränkung nicht überschreitet.
+Stellen Sie auf der Registerkarte **[!UICONTROL Zeitplan]** sicher, dass die Anzahl qualifizierter Personen die Personenbeschränkung nicht überschreitet.
 
 ![](assets/smart-campaign-checklist-4.png)
 
 >[!TIP]
 >
->Bei Bedarf können Sie [Außerkraftsetzen von Personenbeschränkungen in einer Smart-Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
+>Bei Bedarf können Sie [die Personenbeschränkungen in einer Smart-Kampagne überschreiben](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
 
 >[!NOTE]
 >
 >**Erinnerung**
 >
->Wenn Ihre Smart-Kampagne weiterhin fehlschlägt, erfahren Sie, wie Sie [Benachrichtigungen verstehen](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) um herauszufinden, was schiefgelaufen ist und wie es zu beheben ist.
+>Wenn Ihre Smart-Kampagne weiterhin fehlschlägt, erfahren Sie, wie Sie [Benachrichtigungen verstehen](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md), um herauszufinden, was schief gelaufen ist und wie Sie es beheben können.
 
 Gut gemacht! Halten Sie diese Checkliste bereit, bevor Sie eine Smart-Kampagne ausführen.

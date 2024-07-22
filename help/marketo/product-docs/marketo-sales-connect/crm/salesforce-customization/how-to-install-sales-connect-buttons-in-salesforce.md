@@ -7,7 +7,7 @@ feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Einfache Installation von Call mit Marketo Sales Connect, Versand der Marketo Sales Email und Hinzufügen zu Campaign. Sie müssen über Administratorrechte in Salesforce verfügen, um diese Felder zu installieren.
 
-1. Anmelden bei [Salesforce.com](https://salesforce.com)
-1. Klicks **Anpassen**.
-1. Klicks **Leads**.
-1. Klicks **Seitenlayouts**.
-1. Klicks **Bearbeiten** neben dem Lead-Layout , dem Sie die Schaltflächen hinzufügen möchten.
-1. Klicks **Schaltflächen**.
+1. Melden Sie sich bei [Salesforce.com.](https://salesforce.com) an.
+1. Klicken Sie auf **Anpassen**.
+1. Klicken Sie auf **Leads**.
+1. Klicken Sie auf **Seiten-Layouts**.
+1. Klicken Sie neben dem Lead-Layout auf **Bearbeiten** , dem Sie die Schaltflächen hinzufügen möchten.
+1. Klicken Sie auf **Schaltflächen**.
 1. Ziehen Sie die Schaltflächen Sales Connect in den Bereich Lead-Details .
-1. Klicks **Speichern**.
+1. Klicken Sie auf **Speichern**.
 
    >[!NOTE]
    >
-   >Sie können diese Schritte wiederholen, um sie im Kontaktlayout zu installieren. Wählen Sie **Kontakte** für Schritt 3.
+   >Sie können diese Schritte wiederholen, um sie im Kontaktlayout zu installieren. Wählen Sie für Schritt 3 **Kontakte** aus.

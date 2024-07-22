@@ -6,7 +6,7 @@ exl-id: cf38e091-7344-4b95-b9e1-77eda751c4a9
 feature: Salesforce Integration
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
@@ -25,11 +25,11 @@ Marketo gewinnt. Es ist selten, dass diese Art von Datenkollision auftritt.
 
 ## Kann ich mit Marketo einen Lead in Salesforce erstellen? {#can-i-create-a-lead-in-salesforce-using-marketo}
 
-Ja, verwenden Sie die [Person mit SFDC synchronisieren](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"} Flussaktion. Dadurch wird ein Lead in Salesforce erstellt, wenn der Lead nicht vorhanden ist.
+Ja, verwenden Sie die Flussaktion &quot;[Person mit SFDC synchronisieren](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"}&quot;. Dadurch wird ein Lead in Salesforce erstellt, wenn der Lead nicht vorhanden ist.
 
 ## Kann ich in Salesforce manuell die Synchronisierung einer Person in Marketo mit einem Lead erzwingen? {#can-i-manually-force-a-sync-of-a-person-in-marketo-to-a-lead-in-salesforce}
 
-Ja, verwenden Sie die [Person mit SFDC synchronisieren](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"} Flussaktion und sie wird in Echtzeit synchronisiert.
+Ja, verwenden Sie die Flussaktion &quot;[Person mit SFDC synchronisieren](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"}&quot; und sie wird in Echtzeit synchronisiert.
 
 ## Synchronisiert jedes Standardfeld mit Marketo? {#does-every-single-standard-field-sync-to-marketo}
 

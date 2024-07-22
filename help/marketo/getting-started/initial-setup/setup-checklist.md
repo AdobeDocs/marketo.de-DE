@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # Checkliste einrichten {#setup-checklist}
 
-Willkommen in Marketo! Sie können die folgende Checkliste als visuelle Aufgabenliste verwenden, um die ersten Schritte einzuleiten. Details finden Sie unter [Einrichtungsschritte](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}.
+Willkommen in Marketo! Sie können die folgende Checkliste als visuelle Aufgabenliste verwenden, um die ersten Schritte einzuleiten. Details finden Sie unter [Schritte zum Einrichten](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}.
 
 ## Melden Sie sich bei Marketo an und erstellen Sie weitere Benutzer {#log-in-to-marketo-and-create-additional-users}
 
@@ -35,7 +35,7 @@ Willkommen in Marketo! Sie können die folgende Checkliste als visuelle Aufgaben
 1. E-Mail-CNAME für Marken-Tracking-Links auswählen
 1. Bitten Sie die IT, einen DNS-Eintrag für Ihren E-Mail-CNAME einzurichten.
 1. Fragen Sie die IT nach der Marketo-Zulassungsliste.
-1. Richten Sie DKIM und SPF im [!UICONTROL Admin] area
+1. Einrichten von DKIM und SPF im Bereich [!UICONTROL Admin]
 1. Einrichten von MX für `[FromDomain1]`
 1. Wenn dies mit dem E-Mail-CNAME abgeschlossen ist, richten Sie Ihren E-Mail-CNAME in Marketo ein.
 
@@ -53,4 +53,4 @@ Willkommen in Marketo! Sie können die folgende Checkliste als visuelle Aufgaben
 
 >[!MORELIKETHIS]
 >
->[Einrichtungsschritte](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}
+>[Schritte zur Einrichtung](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}

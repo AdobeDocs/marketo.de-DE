@@ -27,10 +27,10 @@ Wenn Ihr CRM-System Ihnen eine BCC-Adresse zur Verfügung stellt, können Sie de
 
 ## Verbindung zu anderen CRMs herstellen {#how-to-connect-to-other-crms}
 
-1. Klicks **Einstellungen**.
-1. Klicks **CRM**.
-1. Klicks **Verbinden** unter Andere CRMs.
-1. Klicks **Konfigurieren** und fügen Sie dann Ihre BCC-Adresse unter E-Mail an BCC ein.
-1. Klicks **Speichern** und Ihre BCC-Adresse wird in Sales Connect gespeichert.
+1. Klicken Sie auf **Einstellungen**.
+1. Klicken Sie auf **CRM**.
+1. Klicken Sie unter &quot;Andere CRMs&quot;auf **Verbinden** .
+1. Klicken Sie auf **Konfigurieren** und fügen Sie dann Ihre BCC-Adresse unter &quot;E-Mail an BCC&quot;ein.
+1. Klicken Sie auf **Speichern** und Ihre BCC-Adresse wird in Sales Connect gespeichert.
 
    E-Mails werden jetzt in Ihrem CRM-System über BCC protokolliert.

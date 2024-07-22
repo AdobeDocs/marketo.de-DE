@@ -19,11 +19,11 @@ Es ist einfach, ein neues Testgerät für Push-Benachrichtigungen hinzuzufügen.
 >
 >**Erforderliche Administratorberechtigungen**
 
-1. Klicken **Admin** und dann **Mobile Apps** Link.
+1. Klicken Sie auf **Admin** und dann auf den Link **Mobile Apps** .
 
    ![](assets/image2015-7-9-14-3a33-3a12.png)
 
-1. Klicken Sie auf **Testgeräte** Registerkarte und **Neues Testgerät**.
+1. Klicken Sie auf die Registerkarte **Testgeräte** und auf **Neues Testgerät**.
 
    ![](assets/image2015-7-17-17-3a4-3a52.png)
 

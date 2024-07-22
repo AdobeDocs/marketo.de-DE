@@ -7,7 +7,7 @@ feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '373'
-ht-degree: 12%
+ht-degree: 9%
 
 ---
 
@@ -21,7 +21,7 @@ Erfahren Sie mehr über die verschiedenen Einstellungsoptionen in MPI.
 >
 >Je nachdem, in welchem Dashboard Sie sich befinden, werden Ihnen unterschiedliche Einstellungsoptionen angezeigt.
 
-## Programmerfolg anzeigen nach {#view-program-success-by}
+## Anzeigen des Programmerfolgs nach {#view-program-success-by}
 
 **Interaktions-Dashboard - Beitrag und Trend**
 
@@ -40,7 +40,7 @@ Erfahren Sie mehr über die verschiedenen Einstellungsoptionen in MPI.
 
 ## Konfiguration vorheriger Zeitraum {#previous-period-configuration}
 
-**Interaktion, Pipeline, Umsatz-Dashboards - Nur Beiträge**
+**Interaktion, Pipeline, Umsatz-Dashboards - Nur Beitrag**
 
 <table> 
  <tbody> 
@@ -55,7 +55,7 @@ Erfahren Sie mehr über die verschiedenen Einstellungsoptionen in MPI.
  </tbody> 
 </table>
 
-## Durch Marketing beeinflusste Chancen {#marketing-influenced-opportunities}
+## Von Marketing beeinflusste Chancen {#marketing-influenced-opportunities}
 
 **Pipeline-Dashboard - Beitrag und Trend**
 
@@ -87,7 +87,7 @@ Erfahren Sie mehr über die verschiedenen Einstellungsoptionen in MPI.
  </tbody> 
 </table>
 
-## Kostenkalkulation {#cost-calculation}
+## Kostenberechnung {#cost-calculation}
 
 **Pipeline- und Umsatz-Dashboards - Beitrag und Trend**
 

@@ -13,19 +13,19 @@ ht-degree: 0%
 
 # Verwenden des Erfolgspfad-Analyzers {#using-the-success-path-analyzer}
 
-Verwenden Sie einen Erfolgspfad-Analyzer, um die spezifischen Details zu untersuchen, die sowohl Fluss (Menge) als auch Geschwindigkeit (Geschwindigkeit, in Tagen) der Personen in den Phasen Ihrer [Modell für Umsatzzyklen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md).
+Verwenden Sie einen Erfolgspfad-Analyzer, um die spezifischen Details zu untersuchen, die sowohl Fluss (Menge) als auch Geschwindigkeit (Geschwindigkeit, in Tagen) der Personen während der Phasen Ihres [Umsatzwyklus-Modells](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md) widerspiegeln.
 
 >[!PREREQUISITES]
 >
 >[Erstellen eines Erfolgspfad-Analyzers](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-success-path-analyzer.md)
 
-1. Navigieren Sie zu **Analytics** und wählen Sie **Erfolgspfad-Analyzer**.
+1. Wechseln Sie zu **Analytics** und wählen Sie Ihren **Erfolgspfad-Analyzer** aus.
 
    ![](assets/image2015-6-12-17-3a23-3a53.png)
 
    Das Diagramm auf der rechten Seite spiegelt die Daten der ausgewählten Schaltfläche auf der linken Seite wider. Standardmäßig ist dies Balance.
 
-1. Klicks **In Fluss** , um zu bestimmen, wie viele Personen während des ausgewählten Zeitraums in die Bühne eingestiegen sind.
+1. Klicken Sie auf &quot;**Im Fluss**&quot;, um zu zeichnen, wie viele Personen während des ausgewählten Zeitraums in die Phase eingestiegen sind.
 
    ![](assets/image2015-6-12-17-3a30-3a52.png)
 
@@ -33,17 +33,17 @@ Verwenden Sie einen Erfolgspfad-Analyzer, um die spezifischen Details zu untersu
    * Klicken Sie auf Konvertieren in % , um die Konversionsrate von dieser in die nächste Phase zu diagrammen.
    * Klicken Sie auf Durchschn. Zeit , um zu sehen, wie lange Personen in dieser Phase verbracht haben, bevor sie zur nächsten Phase übergehen.
 
-1. Klicks **Diagrammaktionen** > Zeitraum vergleichen , um die Daten mit einem anderen Zeitrahmen gleicher Länge zu vergleichen.
+1. Klicken Sie auf **Diagrammaktionen** > Zeitraum vergleichen , um die Daten mit einem anderen Zeitrahmen gleicher Länge zu vergleichen.
 
    ![](assets/image2015-6-12-17-3a39-3a15.png)
 
-1. Wählen Sie die **Von** Datum für den Vergleichszeitraum.
+1. Wählen Sie das Datum **Von** für den Vergleichszeitraum aus.
 
    ![](assets/image2015-6-12-17-3a43-3a49.png)
 
-   Die **nach** Das Datum wird automatisch auf die Länge des ursprünglichen Zeitraums eingestellt.
+   Das Datum **bis** wird automatisch auf die Länge Ihres ursprünglichen Zeitraums eingestellt.
 
-1. Klicks **Vergleichen**.
+1. Klicken Sie auf **Vergleichen**.
 
    ![](assets/image2015-6-12-17-3a44-3a8.png)
 
@@ -51,11 +51,11 @@ Verwenden Sie einen Erfolgspfad-Analyzer, um die spezifischen Details zu untersu
 
    ![](assets/image2015-6-12-17-3a46-3a16.png)
 
-1. Um den Zeitrahmen des Diagramms zu ändern, klicken Sie auf einen der **Diagramm nach** Schaltflächen: täglich (Standard), wöchentlich und monatlich
+1. Um die Zeitskala des Diagramms zu ändern, klicken Sie auf eine der Schaltflächen **Diagramm um**: täglich (Standard), wöchentlich und monatlich
 
    ![](assets/image2015-6-12-17-3a46-3a55.png)
 
-1. Klicken Sie für Bühnen mit SLAs (Service-Level Agreements) auf **Diagrammaktionen** > **SLA-Fälligkeit anzeigen** um jede Person zu zeigen, die innerhalb des festgelegten Zeitraums ein SLA-Ziel verpasst hat.
+1. Klicken Sie für Bühnen mit SLAs (Service-Level Agreements) auf **Diagrammaktionen** > **SLA-Fälligkeit anzeigen** , um alle Personen anzuzeigen, die innerhalb des festgelegten Zeitraums ein SLA-Ziel verpasst haben.
 
    ![](assets/image2015-6-12-17-3a49-3a23.png)
 
@@ -63,9 +63,9 @@ Verwenden Sie einen Erfolgspfad-Analyzer, um die spezifischen Details zu untersu
 
    ![](assets/image2015-6-12-17-3a50-3a16.png)
 
-   Die orangefarbenen Leute könnten *oder nicht* noch in der SLA-Bühne.
+   Die in Orange angezeigten Personen befinden sich möglicherweise noch immer in der SLA-Bühne (möglicherweise *oder nicht*).
 
-1. Klicks **Diagrammaktionen** > **SLA-Vergangenheit anzeigen fällig** , um alle Personen mit abgelaufenen SLA-Zielen anzuzeigen, die sich am Ende des angegebenen Zeitraums noch in der SLA-Phase befinden.
+1. Klicken Sie auf **Diagrammaktionen** > **SLA-vergangenes Ereignis anzeigen** , um alle Personen mit abgelaufenen SLA-Zielen anzuzeigen, die sich am Ende des angegebenen Zeitraums noch in der SLA-Phase befinden.
 
    ![](assets/image2015-6-12-17-3a51-3a39.png)
 
@@ -77,7 +77,7 @@ Verwenden Sie einen Erfolgspfad-Analyzer, um die spezifischen Details zu untersu
 
    ![](assets/image2015-6-12-17-3a52-3a49.png)
 
-1. Klicken Sie zum Drucken des Diagramms auf **Diagrammaktionen** > **Druckdiagramm**.
+1. Um das Diagramm zu drucken, klicken Sie auf **Diagrammaktionen** > **Druckdiagramm**.
 
    ![](assets/image2015-6-12-17-3a53-3a34.png)
 

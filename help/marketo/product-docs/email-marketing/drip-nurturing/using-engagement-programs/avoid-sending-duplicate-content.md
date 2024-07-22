@@ -23,8 +23,8 @@ Im Folgenden finden Sie sieben mögliche Szenarien und Ergebnisse, die Sie kenne
 |---|---|---|
 | Eine Kampagne in einem separaten, eigenständigen Standardprogramm | Kein Mitglied des Standardprogramms | Ja |
 | Eine Kampagne in einem separaten, eigenständigen Standardprogramm | Ein Mitglied des Standardprogramms | Nein |
-| Eine Kampagne innerhalb eines Standardprogramms, die durch einen Abruf innerhalb der **same** CEE-Programm | Ein Mitglied des Standardprogramms | Nein |
-| Eine Kampagne innerhalb eines Standardprogramms, die durch einen Abruf innerhalb der **same** CEE-Programm | Kein Mitglied des Standardprogramms | Ja |
-| Eine Kampagne innerhalb eines Standardprogramms, die durch einen Abruf innerhalb einer **distinct** CEE-Programm | Ein Mitglied des Standardprogramms | Nein |
-| Eine Kampagne innerhalb eines Standardprogramms, die durch einen Abruf innerhalb einer **distinct** CEE-Programm | Kein Mitglied des Standardprogramms | Ja |
-| A **distinct** CEE-Programm mit intelligentem Stream | Mitglied beider CEE-Programme | Nein |
+| Eine Kampagne innerhalb eines Standardprogramms, die durch einen Zauber innerhalb des ZEE-Programms **derselbe** ausgelöst wird | Ein Mitglied des Standardprogramms | Nein |
+| Eine Kampagne innerhalb eines Standardprogramms, die durch einen Zauber innerhalb des ZEE-Programms **derselbe** ausgelöst wird | Kein Mitglied des Standardprogramms | Ja |
+| Eine Kampagne innerhalb eines Standardprogramms, die durch einen Zauber innerhalb eines **anderen** CEE-Programms ausgelöst wird | Ein Mitglied des Standardprogramms | Nein |
+| Eine Kampagne innerhalb eines Standardprogramms, die durch einen Zauber innerhalb eines **anderen** CEE-Programms ausgelöst wird | Kein Mitglied des Standardprogramms | Ja |
+| Ein **anderes** CEE-Programm mit einem Smart-Stream | Mitglied beider CEE-Programme | Nein |

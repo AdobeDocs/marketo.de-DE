@@ -6,7 +6,7 @@ exl-id: c86260b7-fd5c-4d40-a8da-c9e3f09be14d
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '311'
 ht-degree: 4%
 
 ---
@@ -57,7 +57,7 @@ Sie können einen Filter jederzeit entfernen, indem Sie auf das X neben dem Filt
   </tr> 
   <tr> 
    <td colspan="1"><strong>Benutzerdefinierte Attribute</strong></td> 
-   <td colspan="1"><p>Diese werden von Ihnen bestimmt. Alle Felder <a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md" rel="nofollow">aktiviert</a> für die Opportunitätsanalyse in Performance Insights gefiltert werden.</p></td> 
+   <td colspan="1"><p>Diese werden von Ihnen bestimmt. Alle Felder <a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md" rel="nofollow">, nach denen Sie </a> für die Opportunitätsanalyse aktivieren, können in Performance Insights gefiltert werden.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p><strong>Investitionszeitraum</strong></p></td> 
@@ -69,11 +69,11 @@ Sie können einen Filter jederzeit entfernen, indem Sie auf das X neben dem Filt
   </tr> 
   <tr> 
    <td><p><strong>Programm-Tag</strong></p></td> 
-   <td><p>Tags dienen zur Beschreibung von Programmen. Sie können so viele erstellen, wie Sie benötigen, mit jeweils eindeutigen Werten. <a href="/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md" rel="nofollow">Hier erfahren Sie, wie Sie mit Programm-Tags arbeiten.</a></p></td> 
+   <td><p>Tags dienen zur Beschreibung von Programmen. Sie können so viele erstellen, wie Sie benötigen, mit jeweils eindeutigen Werten. <a href="/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md" rel="nofollow">Erfahren Sie hier, wie Sie mit Programm-Tags arbeiten.</a></p></td> 
   </tr> 
   <tr> 
    <td><strong>Arbeitsbereich</strong></td> 
-   <td><p>Arbeitsbereiche sind separate Bereiche in Marketo, die Marketing-Assets enthalten, z. B.: Programme, Landingpages, E-Mails und mehr. <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" rel="nofollow">Hier erfahren Sie mehr über Arbeitsbereiche.</a></p></td> 
+   <td><p>Arbeitsbereiche sind separate Bereiche in Marketo, die Marketing-Assets enthalten, z. B. Programme, Landingpages, E-Mails und mehr. <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" rel="nofollow">Weitere Informationen zu Arbeitsbereichen finden Sie hier.</a></p></td> 
   </tr> 
  </tbody> 
 </table>

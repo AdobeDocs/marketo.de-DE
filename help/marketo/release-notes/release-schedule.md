@@ -15,7 +15,7 @@ ht-degree: 9%
 
 **Version**: Der Monat/das Jahr jeder Version. Sobald die Versionshinweise verfügbar sind, werden sie in der folgenden Tabelle verlinkt.
 
-**Veröffentlichungsdatum**: Rollout beginnt normalerweise am Dienstag der Release-Woche, wobei mehr der Aktualisierung Freitagabend stattfindet. Das angegebene Datum ist für das Freitagsupdate.
+**Releasedatum**: Die Rollout beginnt normalerweise am Dienstag der Release-Woche, wobei mehr der Aktualisierung Freitagabend stattfindet. Das angegebene Datum ist für das Freitagsupdate.
 
 **Status**:
 

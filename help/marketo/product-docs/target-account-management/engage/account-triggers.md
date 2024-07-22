@@ -7,7 +7,7 @@ feature: Target Account Management
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '98'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 2%
 
 Sie können wichtige Verhaltensaktivitäten auf Kontoebene über verschiedene Kanäle hinweg (z. B. E-Mail, Web, Anzeigen) mithilfe von Triggern auf Kontoebene abrufen und darauf reagieren.
 
-Wählen Sie Ihre Smart-Kampagne aus und klicken Sie auf **[!UICONTROL Smart List]**.
+Wählen Sie Ihre Smart-Kampagne aus und klicken Sie auf **[!UICONTROL Smart-Liste]**.
 
 ![](assets/one-1.png)
 
@@ -23,7 +23,7 @@ Geben Sie &quot;Spezifisches Konto&quot;in das Suchfeld ein, um beide Trigger f�
 
 ![](assets/two-1.png)
 
-Ziehen Sie den gewünschten Trigger auf die Arbeitsfläche. In diesem Beispiel verwenden wir _Dem benannten Konto hinzugefügt_.
+Ziehen Sie den gewünschten Trigger auf die Arbeitsfläche. In diesem Beispiel verwenden wir _Zu benanntem Konto hinzugefügt_.
 
 ![](assets/three-1.png)
 
@@ -35,7 +35,7 @@ Klicken Sie auf die Dropdown-Liste Konto mit Namen ...
 
 ![](assets/five-1.png)
 
-...und wählen Sie die gewünschten spezifischen Konten aus.
+... und wählen Sie die gewünschten spezifischen Konten aus.
 
 ![](assets/six-1.png)
 

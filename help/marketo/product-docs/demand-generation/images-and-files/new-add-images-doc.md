@@ -4,9 +4,10 @@ title: Neues Dokument Bilder hinzufügen
 hide: true
 hidefromtoc: true
 feature: Image Editor
-source-git-commit: 2154c444be9654474fcc2d1b8e9983983f44846f
+exl-id: 2080327c-fef0-48d8-b5c6-21741ae4f357
+source-git-commit: 5cf6231b8da65d81d89b52cb2ef2cbe7422a4842
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '291'
 ht-degree: 6%
 
 ---
@@ -17,15 +18,15 @@ Sie haben mehrere Optionen zum Hinzufügen neuer Dateien/Bilder zu Ihrem Images 
 
 ## Bild oder Datei hochladen {#upload-image-or-file}
 
-1. Navigieren Sie zu **Design Studio**.
+1. Wechseln Sie zu **Design Studio**.
 
    ![](assets/add-images-and-files-to-marketo-1.png)
 
-1. Auswählen **[!UICONTROL Bilder und Dateien]**
+1. Wählen Sie **[!UICONTROL Bilder und Dateien]** aus
 
    ![](assets/add-images-and-files-to-marketo-2.png)
 
-1. Klicken Sie auf **[!UICONTROL Bild- und Dateiaktionen]** und wählen Sie **[!UICONTROL Bild oder Datei hochladen]**.
+1. Klicken Sie auf das Dropdown-Menü **[!UICONTROL Bild- und Dateiaktionen]** und wählen Sie **[!UICONTROL Bild oder Datei hochladen]** aus.
 
    ![](assets/add-images-and-files-to-marketo-3.png)
 
@@ -33,7 +34,7 @@ Sie haben mehrere Optionen zum Hinzufügen neuer Dateien/Bilder zu Ihrem Images 
 
    ![](assets/add-images-and-files-to-marketo-4.png)
 
-1. Nachdem das Asset ausgewählt wurde, klicken Sie auf **Hochladen**.
+1. Klicken Sie nach Auswahl des Assets auf **Hochladen**.
 
    ![](assets/add-images-and-files-to-marketo-5.png)
 
@@ -45,17 +46,17 @@ Sie haben drei Optionen zum Importieren eines Bildes. Lass uns über jeden von i
 
 Text
 
-1. Befolgen Sie die Schritte 1 und 2 [von oben](#upload-image-or-file).
+1. Befolgen Sie die Schritte 1 und 2 [von oben ](#upload-image-or-file).
 
-1. Klicken Sie auf **[!UICONTROL Bild- und Dateiaktionen]** und wählen Sie **[!UICONTROL Bild oder Datei importieren]**.
+1. Klicken Sie auf das Dropdown-Menü **[!UICONTROL Bild- und Dateiaktionen]** und wählen Sie **[!UICONTROL Bild oder Datei importieren]** aus.
 
    ![](assets/add-images-and-files-to-marketo-6.png)
 
-1. Wählen Sie die **[!UICONTROL Web]** und klicken Sie auf **[!UICONTROL Nächste]**.
+1. Wählen Sie die Option **[!UICONTROL Web]** aus und klicken Sie auf **[!UICONTROL Weiter]**.
 
    ![](assets/add-images-and-files-to-marketo-7.png)
 
-1. Geben oder fügen Sie die URL zum gewünschten Bild ein und klicken Sie auf **Nächste**.
+1. Geben oder fügen Sie die URL zum gewünschten Bild ein und klicken Sie auf **Weiter**.
 
 PICC
 
@@ -67,13 +68,13 @@ PICC
 
 Text
 
-1. Befolgen Sie die Schritte 1 und 2 [von oben](#upload-image-or-file).
+1. Befolgen Sie die Schritte 1 und 2 [von oben ](#upload-image-or-file).
 
-1. Klicken Sie auf **[!UICONTROL Bild- und Dateiaktionen]** und wählen Sie **[!UICONTROL Bild oder Datei importieren]**.
+1. Klicken Sie auf das Dropdown-Menü **[!UICONTROL Bild- und Dateiaktionen]** und wählen Sie **[!UICONTROL Bild oder Datei importieren]** aus.
 
    ![](assets/add-images-and-files-to-marketo-10.png)
 
-1. Wählen Sie die **[!UICONTROL Feld]** und klicken Sie auf **[!UICONTROL Nächste]**.
+1. Wählen Sie die Option **[!UICONTROL Feld]** aus und klicken Sie auf **[!UICONTROL Weiter]**.
 
    ![](assets/add-images-and-files-to-marketo-11.png)
 
@@ -81,15 +82,15 @@ Text
    >
    >Wenn Sie dies noch nicht getan haben, werden Sie aufgefordert, sich bei Ihrem Box-Konto anzumelden, um Zugriff zu gewähren.
 
-1. Wählen Sie den gewünschten Ordner Box aus und klicken Sie auf **[!UICONTROL Nächste]**.
+1. Wählen Sie den gewünschten Ordner Box aus und klicken Sie auf **[!UICONTROL Weiter]**.
 
    ![](assets/add-images-and-files-to-marketo-12.png)
 
-1. Wählen Sie die gewünschten Bilder aus und klicken Sie auf **[!UICONTROL Nächste]**.
+1. Wählen Sie die gewünschten Bilder aus und klicken Sie auf **[!UICONTROL Weiter]**.
 
    ![](assets/add-images-and-files-to-marketo-13.png)
 
-1. Wählen Sie den Ordner Marketo Engage aus, in dem das Bild gespeichert werden soll. In diesem Beispiel belassen wir es als Bilder und Dateien (Standard). Klicks **Import**.
+1. Wählen Sie den Ordner Marketo Engage aus, in dem das Bild gespeichert werden soll. In diesem Beispiel belassen wir es als Bilder und Dateien (Standard). Klicken Sie auf **Importieren**.
 
    ![](assets/add-images-and-files-to-marketo-14.png)
 
@@ -97,13 +98,13 @@ Text
 
 Text
 
-1. Befolgen Sie die Schritte 1 und 2 [von oben](#upload-image-or-file).
+1. Befolgen Sie die Schritte 1 und 2 [von oben ](#upload-image-or-file).
 
-1. Klicken Sie auf **[!UICONTROL Bild- und Dateiaktionen]** und wählen Sie **[!UICONTROL Bild oder Datei importieren]**.
+1. Klicken Sie auf das Dropdown-Menü **[!UICONTROL Bild- und Dateiaktionen]** und wählen Sie **[!UICONTROL Bild oder Datei importieren]** aus.
 
    ![](assets/add-images-and-files-to-marketo-15.png)
 
-1. Wählen Sie die **[!UICONTROL Adobe Experience Manager]** und klicken Sie auf **[!UICONTROL Nächste]**.
+1. Wählen Sie die Option **[!UICONTROL Adobe Experience Manager]** aus und klicken Sie auf **[!UICONTROL Weiter]**.
 
    ![](assets/add-images-and-files-to-marketo-16.png)
 

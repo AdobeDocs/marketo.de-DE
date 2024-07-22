@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Erstellen einer Smart-Batch-Kampagne in der Programmplanansicht {#creating-a-batch-smart-campaign-in-the-program-schedule-view}
 
-Sie können neue Smart-Kampagnen erstellen und [Bestehende Elemente erneut ausführen](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rerun-a-smart-campaign-in-the-program-schedule-view.md){target="_blank"} in Ihrem Programm aus der Programmplanungsansicht.
+Sie können in Ihrem Programm neue Smart-Kampagnen erstellen und [vorhandene erneut ausführen](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rerun-a-smart-campaign-in-the-program-schedule-view.md){target="_blank"} in der Programmplanungsansicht.
 
 >[!NOTE]
 >
@@ -23,11 +23,11 @@ Sie können neue Smart-Kampagnen erstellen und [Bestehende Elemente erneut ausf�
 
    ![](assets/image2014-9-23-15-3a28-3a20.png)
 
-1. Wählen Sie einen Namen für Ihren Eintrag aus, der zu Ihrer neuen Smart-Kampagne wird. Drücken Sie die **[!UICONTROL Eingabe/Rückgabe]** zum Bestätigen des Namens.
+1. Wählen Sie einen Namen für Ihren Eintrag aus, der zu Ihrer neuen Smart-Kampagne wird. Drücken Sie die Taste **[!UICONTROL Enter/Return]** , um den Namen zu bestätigen.
 
    ![](assets/image2014-9-23-15-3a28-3a28.png)
 
-1. Klicken Sie auf **[!UICONTROL Typ]** und wählen Sie **[!UICONTROL Smart Campaign]**.
+1. Klicken Sie auf die Dropdownliste **[!UICONTROL Typ]** und wählen Sie **[!UICONTROL Smart-Kampagne]** aus.
 
    ![](assets/typechoose.png)
 
@@ -37,7 +37,7 @@ Sie können neue Smart-Kampagnen erstellen und [Bestehende Elemente erneut ausf�
 
    ![](assets/four.png)
 
-1. Wählen Sie [Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"} Regeln.
+1. Wählen Sie Ihre [Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"} -Regeln aus.
 
    ![](assets/changeprogramstatus-hands.png)
 

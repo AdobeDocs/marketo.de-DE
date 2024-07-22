@@ -6,7 +6,7 @@ exl-id: 628d1c9d-f636-4d67-8685-87edb3a5fb8b
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Standardmäßig werden Berichte in Umsatz Explorer als Tabelle angezeigt. Sie haben auch die Möglichkeit, Ergebnisse als Diagramm in verschiedenen Formaten anzuzeigen.
 
-1. Klicken Sie auf den Pfeil im **Anzeigen als** Dropdown-Menü Ihres Berichts aus. Es werden verschiedene Diagrammoptionen angezeigt.
+1. Klicken Sie auf den Pfeil im Dropdown-Menü **Anzeigen als** Ihres Berichts. Es werden verschiedene Diagrammoptionen angezeigt.
 
    ![](assets/one-1.png)
 
@@ -33,11 +33,11 @@ Standardmäßig werden Berichte in Umsatz Explorer als Tabelle angezeigt. Sie ha
 
 ![](assets/100-stacked-column.png)
 
-**Linie**: Jede Spalte wird als Zeile und jede Zeile als Datenpunkt auf der Zeile angezeigt.
+**Zeile**: Jede Spalte wird als Zeile und jede Zeile als Datenpunkt auf der Zeile angezeigt.
 
 ![](assets/line.png)
 
-**Spaltenzeilenkombo**: Kombination von Spalten- und Liniendiagrammen.
+**Spaltenzeilenkomprimierung**: Kombination von Spalten- und Liniendiagrammen.
 
 ![](assets/column-line-combo.png)
 
@@ -49,7 +49,7 @@ Standardmäßig werden Berichte in Umsatz Explorer als Tabelle angezeigt. Sie ha
 
 ![](assets/stacked-bar.png)
 
-**100 % gestapelter Balken**: Jede Zeile in der Tabelle enthält eine Zeile im Diagramm und wird auf 100 % skaliert.
+**100 % Gestapelter Balken**: Jede Zeile in der Tabelle enthält eine Zeile im Diagramm und wird auf 100 % skaliert.
 
 ![](assets/100-stacked-bar.png)
 
@@ -57,7 +57,7 @@ Standardmäßig werden Berichte in Umsatz Explorer als Tabelle angezeigt. Sie ha
 
 ![](assets/area.png)
 
-**Torte**: Jede Spalte wird als Tortendiagramm und jede Zeile als Segment angezeigt.
+**Torte**: Jede Spalte wird als Tortendiagramm angezeigt, jede Zeile als Segment.
 
 ![](assets/pie.png)
 

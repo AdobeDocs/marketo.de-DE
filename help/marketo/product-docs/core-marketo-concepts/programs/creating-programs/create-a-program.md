@@ -15,18 +15,18 @@ ht-degree: 0%
 
 Programme sind eines der wichtigsten Elemente in Marketo. Du wirst sie viel benutzen!
 
-1. Navigieren Sie zu **[!UICONTROL Marketingaktivitäten]**.
+1. Wechseln Sie zu **[!UICONTROL Marketingaktivitäten]**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Wählen Sie den Ordner für das neue Programm aus. Auswählen **[!UICONTROL Neu]** und klicken **[!UICONTROL Neues Programm]**.
+1. Wählen Sie den Ordner für das neue Programm aus. Wählen Sie **[!UICONTROL Neu]** und klicken Sie auf **[!UICONTROL Neues Programm]**.
 
    ![](assets/leadlifecycle.jpg)
 
-1. Geben Sie einen **[!UICONTROL Name]**, wählen Sie eine **[[!UICONTROL Kanal]](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}** in der Dropdown-Liste und klicken Sie auf **[!UICONTROL Erstellen]**.
+1. Geben Sie einen **[!UICONTROL Namen]** ein, wählen Sie einen **[[!UICONTROL Kanal]](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}** in der Dropdown-Liste aus und klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/image2015-2-5-16-3a33-3a23.png)
 
 >[!MORELIKETHIS]
 >
->[Grundlegendes zu Programmen](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target="_blank"}.
+>[Programme verstehen](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target="_blank"}.

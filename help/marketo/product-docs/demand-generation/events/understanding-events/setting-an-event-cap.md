@@ -8,7 +8,7 @@ feature: Events
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '197'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -31,22 +31,22 @@ Begrenzen Sie die Anzahl der Personen, die sich für Ihr Ereignis mit einer Erei
 
    ![](assets/setting-an-event-cap-1.png)
 
-1. In der Übersicht finden Sie [!UICONTROL Event Cap] und klicken Sie auf **[!UICONTROL Nicht festgelegt]**.
+1. Suchen Sie in der Übersicht nach [!UICONTROL Event Cap] und klicken Sie auf **[!UICONTROL Not Set]** .
 
    ![](assets/setting-an-event-cap-2.png)
 
-1. Geben Sie die maximale Anzahl von Personen an, die Sie für Ihre Veranstaltung registrieren können möchten, und klicken Sie auf **[!UICONTROL Nächste]**.
+1. Geben Sie die maximale Anzahl von Personen ein, die sich für Ihr Ereignis registrieren können sollen, und klicken Sie auf **[!UICONTROL Weiter]**.
 
    ![](assets/setting-an-event-cap-3.png)
 
-1. Klicken Sie auf [!UICONTROL Registrierungsseite] und wählen Sie die Landingpage aus, die als Registrierungsseite fungiert.
+1. Klicken Sie auf das Dropdown-Menü [!UICONTROL Registrierungsseite] und wählen Sie die Landingpage aus, die als Ihre Registrierungsseite fungieren soll.
 
    ![](assets/setting-an-event-cap-4.png)
 
-1. Klicken Sie auf **[!UICONTROL Vollständige Registrierungsseite]** und wählen Sie die Landingpage aus, die als vollständige Registrierungsseite fungiert. Klicken **[!UICONTROL Festlegen und Aktivieren]** wann geschehen.
+1. Klicken Sie auf das Dropdown-Menü **[!UICONTROL Vollständige Registrierungsseite]** und wählen Sie die Landingpage aus, die als vollständige Registrierungsseite fungiert. Klicken Sie abschließend auf **[!UICONTROL Festlegen und Aktivieren]** .
 
    ![](assets/setting-an-event-cap-5.png)
 
-   Das war’s schon. Wenn Sie die Details der Ereignisbegrenzung bearbeiten möchten, klicken Sie auf den blauen Text neben [!UICONTROL Event Cap].
+   Du bist alle fertig. Wenn Sie die Details der Ereignisbegrenzung bearbeiten möchten, klicken Sie auf den blauen Text neben [!UICONTROL Event Cap].
 
    ![](assets/setting-an-event-cap-6.png)

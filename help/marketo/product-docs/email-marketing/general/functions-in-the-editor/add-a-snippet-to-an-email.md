@@ -17,11 +17,11 @@ Snippets sind wiederverwendbare Blöcke von Rich-Text und Grafiken, die Sie in E
 
 >[!PREREQUISITES]
 >
->[Snippet erstellen](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
+>[Erstellen eines Snippets](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
 
 >[!NOTE]
 >
->Sie können keine [Marketo-E-Mail-Syntax](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)in Snippets; wird **not** in einer E-Mail arbeiten. Snippets sollten nur Textinhalt sein (HTML + TEXT).
+>Sie können keine [Marketo-E-Mail-Syntax](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)in Snippets einbetten. Dies funktioniert **nicht** in einer E-Mail. Snippets sollten nur Textinhalt sein (HTML + TEXT).
 
 1. Suchen Sie Ihre E-Mail, wählen Sie sie aus und klicken Sie auf **Entwurf bearbeiten**.
 
@@ -31,7 +31,7 @@ Snippets sind wiederverwendbare Blöcke von Rich-Text und Grafiken, die Sie in E
 
    ![](assets/two-2.png)
 
-1. Wählen Sie das gewünschte Snippet aus und klicken Sie auf **Speichern**.
+1. Wählen Sie den gewünschten Codeausschnitt aus und klicken Sie auf **Speichern**.
 
    ![](assets/three-1.png)
 
@@ -43,6 +43,6 @@ Snippets sind wiederverwendbare Blöcke von Rich-Text und Grafiken, die Sie in E
 
    >[!NOTE]
    >
-   >Jedes Mal, wenn Sie Ihr Snippet aktualisieren und genehmigen, werden die Änderungen in der E-Mail angezeigt. Die E-Mail wird erstellt, es sei denn, Sie genehmigen das Ausschnitt mit [No-Draft](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md).
+   >Jedes Mal, wenn Sie Ihr Snippet aktualisieren und genehmigen, werden die Änderungen in der E-Mail angezeigt. Die E-Mail wird entworfen, es sei denn, Sie genehmigen den Ausschnitt mit [No-Draft](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md).
 
 So können Sie dynamische Inhalte schnell und einfach wiederverwenden.

@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Mobile Push-Benachrichtigung konfigurieren {#configure-mobile-push-notification}
 
-1. Navigieren Sie zu **Marketingaktivitäten** Bereich.
+1. Wechseln Sie zum Bereich **Marketingaktivitäten** .
 
 ![](assets/2fbf1ab6-2247-40c8-980d-be56b9d94890.png)
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
    ![](assets/image2016-8-23-16-3a49-3a48.png)
 
-1. Navigieren Sie zu **Einrichtung**.
+1. Navigieren Sie zu **Setup**.
 
    ![](assets/image2016-8-23-16-3a51-3a56.png)
 
@@ -33,11 +33,11 @@ ht-degree: 0%
 
    ![](assets/image2016-8-23-16-3a41-3a48.png)
 
-1. Klicks **Nächste**.
+1. Klicken Sie auf **Weiter**.
 
    ![](assets/image2016-8-23-16-3a43-3a28.png)
 
-1. Geben Sie den Nachrichtentext ein oder wählen Sie das Tokensymbol aus, um Token hinzuzufügen. Wählen Sie anschließend eine **Tippen Sie auf Aktion**.
+1. Geben Sie den Nachrichtentext ein oder wählen Sie das Tokensymbol aus, um Token hinzuzufügen. Wählen Sie dann eine **Tippen-Aktion** aus.
 
    ![](assets/image2015-9-14-16-3a7-3a43.png)
 
@@ -49,13 +49,13 @@ ht-degree: 0%
    >
    >Es gibt drei Arten von Tippen-Aktionen:
    >
-   >**App starten** - **Diese App** öffnet die Startseite Ihrer App, wenn auf die Benachrichtigung getippt wird. **Benutzerdefiniert** verwendet einen Deep-Link, um andere Bereiche Ihrer App oder anderer Apps zu öffnen, zu denen Sie den Link haben (siehe [Deep-Link-URIs](#Deeplink) weiter unten).
+   >**App starten** - **Diese App** öffnet die Startseite Ihrer App, wenn auf die Benachrichtigung getippt wird. **Benutzerspezifisch** verwendet einen Deep-Link, um andere Bereiche Ihrer App oder anderer Apps zu öffnen, mit denen Sie den Link verknüpft haben (weitere Informationen finden Sie unter [Deep-Link-URIs](#Deeplink) unten).
    >
-   >**Landingpage** - führt Sie zu einer bestimmten Marketo-Landingpage.
+   >**Landingpage** - Sie gelangen zu einer bestimmten Marketo-Landingpage.
    >
-   >**Externe URL** - führt Sie zu einer Landingpage, die nicht von Marketo stammt.
+   >**Externe URL**: Sie gelangen zu einer Landingpage, die nicht von Marketo stammt.
 
-1. Um einen Deep-Link für eine benutzerdefinierte Tickaktion einzufügen, klicken Sie auf Benutzerdefiniert und geben Sie die [Deep-Link-URI](#Deeplink) im Feld.
+1. Um einen Deep-Link für eine benutzerdefinierte Tipp-Aktion einzufügen, klicken Sie auf Benutzerdefiniert und geben Sie den [Deep-Link-URI](#Deeplink) in das Feld ein.
 
    ![](assets/image2016-7-28-16-3a19-3a13.png)
 
@@ -75,11 +75,11 @@ ht-degree: 0%
 
    ![](assets/ios-tap-and-notification-hand.png)
 
-1. Vorschau der anderen Plattform anzeigen und auf **Beenden**.
+1. Zeigen Sie die Vorschau der anderen Plattform an und klicken Sie auf **Beenden**.
 
    ![](assets/image2015-9-14-16-3a12-3a34.png)
 
-1. Klicks **Genehmigen und schließen**.
+1. Klicken Sie auf **Genehmigen und schließen**.
 
    ![](assets/323dda12-0543-4558-8562-563eed5fa0e0.png)
 
@@ -93,7 +93,7 @@ Ein Deep-Link-URI besteht aus drei Teilen: Schemaname, Pfad und Kennung. Im folg
 
 ![](assets/image2016-7-29-12-3a49-3a1.png)
 
-Allerdings unterscheidet sich die Deep-Link-Struktur Ihrer App möglicherweise vom obigen Beispiel. Ihr Entwickler hat viele Möglichkeiten, Deep-Link-URIs zu definieren. Bitten Sie daher Ihren Entwickler, Ihnen die URIs (Links) für die Seiten zu senden, die Sie verwenden möchten. Dadurch wird sichergestellt, dass die in Push-Nachrichten eingegebenen URIs an die richtigen Stellen verweisen. Ihr Entwickler kann [Weitere Informationen finden Sie hier .](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
+Allerdings unterscheidet sich die Deep-Link-Struktur Ihrer App möglicherweise vom obigen Beispiel. Ihr Entwickler hat viele Möglichkeiten, Deep-Link-URIs zu definieren. Bitten Sie daher Ihren Entwickler, Ihnen die URIs (Links) für die Seiten zu senden, die Sie verwenden möchten. Dadurch wird sichergestellt, dass die in Push-Nachrichten eingegebenen URIs an die richtigen Stellen verweisen. Ihr Entwickler kann [hier weitere Informationen finden](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
 
 >[!MORELIKETHIS]
 >

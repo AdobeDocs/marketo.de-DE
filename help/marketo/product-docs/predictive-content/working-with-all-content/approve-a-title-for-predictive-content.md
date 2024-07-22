@@ -21,7 +21,7 @@ Sie können einen beliebigen Titel auf Ihrer Seite &quot;Alle Inhalte&quot;zu pr
 
    ![](assets/image2017-10-3-9-3a9-3a47.png)
 
-1. Klicken Sie auf **Inhaltsaktionen** und wählen Sie **Für prädiktiven Inhalt genehmigen**.
+1. Klicken Sie auf die Dropdownliste **Inhaltsaktionen** und wählen Sie **Für prädiktiven Inhalt genehmigen** aus.
 
    ![](assets/image2017-10-3-9-3a10-3a31.png)
 
@@ -33,7 +33,7 @@ Sie können auch Titel für prädiktive Inhalte direkt im Popup Inhalt bearbeite
 
    ![](assets/image2017-10-3-9-3a14-3a55.png)
 
-1. Überprüfen Sie die **Für prädiktiven Inhalt genehmigen** im Popup &quot;Inhalt bearbeiten&quot;auf und klicken Sie auf **Speichern**.
+1. Aktivieren Sie im Popup &quot;Inhalt bearbeiten&quot;die Option **Für prädiktiven Inhalt genehmigen** und klicken Sie auf **Speichern**.
 
    ![](assets/image2017-10-3-9-3a15-3a35.png)
 

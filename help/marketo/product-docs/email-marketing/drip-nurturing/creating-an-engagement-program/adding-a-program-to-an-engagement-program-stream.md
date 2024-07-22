@@ -18,7 +18,7 @@ ht-degree: 0%
 Es ist einfach, in einem Interaktionsprogramm einem Stream eine E-Mail hinzuzufügen, und es funktioniert einwandfrei. Wenn Ihre geschäftlichen Anforderungen jedoch komplexer sind, kann es sinnvoll sein, die E-Mail in einem Programm zu platzieren. Sie können beispielsweise:
 
 * E-Mail an eine Untergruppe von Personen im Stream senden
-* Senden *distinct* E-Mails an Untergruppen innerhalb des Streams
+* Senden von *unterschiedlichen* E-Mails an Untergruppen innerhalb des Streams
 * Einschließen von Landingpages, Formularen oder anderen Assets in die Baumstruktur
 * Multitouch-Attribution aktivieren
 * Zusätzliche Workflow-Schritte hinzufügen, z. B. Warnhinweis-E-Mails
@@ -31,17 +31,17 @@ Bei Verwendung eines verschachtelten Programms basiert die Entscheidung, eine E-
 * Wenn Sie Mitglied des Programms sind, erhalten Sie die E-Mail nicht
 * Wenn Sie kein Mitglied mehr sind, die E-Mail jedoch zuvor über dieses Programm erhalten haben, erhalten Sie die E-Mail nicht
 
-Wenn Sie ein Programm in einem Stream verwenden, spielt es keine Rolle, ob Sie diese E-Mail bereits erhalten haben. Solange die E-Mail noch nicht gesendet wurde *in diesem spezifischen Programm*, können Sie es erneut erhalten.
+Wenn Sie ein Programm in einem Stream verwenden, spielt es keine Rolle, ob Sie diese E-Mail bereits erhalten haben. Solange die E-Mail nicht vor *in diesem Programm* gesendet wurde, können Sie sie erneut erhalten.
 
 In einem Interaktionsprogramm kann es schwierig werden, E-Mails und Programme zu mischen. Sie können die eine oder die andere verwenden.
 
 >[!TIP]
 >
->Verwenden Sie unbedingt eine **Mitglied des Interaktionsprogramms** in Ihrer Smart-Liste.
+>Stellen Sie sicher, dass Sie in Ihrer intelligenten Liste einen Filter vom Typ **Mitglied des Interaktionsprogramms** verwenden.
 
 ## Was passiert mit Leuten, die die Kriterien der intelligenten Liste nicht erfüllen? {#what-happens-to-people-who-dont-meet-the-smart-list-criteria}
 
-Falls jemand aus der intelligenten Liste der Smart-Kampagne eines verschachtelten Programms herausgefiltert wird, wird während der aktuellen Wiedergabe nicht zum nächsten Inhaltselement übergegangen. Sie werden zum nächsten Inhaltselement im Stream für die *following* gewirkt.
+Falls jemand aus der intelligenten Liste der Smart-Kampagne eines verschachtelten Programms herausgefiltert wird, wird während der aktuellen Wiedergabe nicht zum nächsten Inhaltselement übergegangen. Sie werden zum nächsten Inhaltselement im Stream für den *folgenden*-Guss übergehen.
 
 ## Was enthält ein verschachteltes Programm? {#what-does-a-nested-program-contain}
 

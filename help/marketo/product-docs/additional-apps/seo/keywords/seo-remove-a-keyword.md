@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Wenn Sie einen Suchbegriff haben, für den Sie die Optimierung nicht fortsetzen möchten, können Sie ihn hier entfernen.
 
-1. Klicken Sie auf , um zur **[!UICONTROL Schlüsselwörter]** Abschnitt.
+1. Klicken Sie auf , um zum Abschnitt **[!UICONTROL Suchbegriffe]** zu wechseln.
 
    ![](assets/image2014-9-18-13-3a35-3a52.png)
 
@@ -23,6 +23,6 @@ Wenn Sie einen Suchbegriff haben, für den Sie die Optimierung nicht fortsetzen 
 
    ![](assets/image2014-9-18-13-3a36-3a6.png)
 
-1. Klicken **[!UICONTROL Löschen]** erneut zu bestätigen.
+1. Klicken Sie zur Bestätigung erneut auf **[!UICONTROL Löschen]** .
 
    ![](assets/image2014-9-18-13-3a36-3a11.png)

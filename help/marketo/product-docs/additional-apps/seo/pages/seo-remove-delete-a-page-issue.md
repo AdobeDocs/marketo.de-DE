@@ -15,19 +15,19 @@ ht-degree: 0%
 
 Nicht alle Seitenprobleme können für Sie von Nutzen sein. So kann man eine entfernen.
 
-1. Navigieren Sie zu **[!UICONTROL Seiten]** Abschnitt.
+1. Wechseln Sie zum Abschnitt **[!UICONTROL Seiten]** .
 
    ![](assets/image2014-9-18-14-3a0-3a16.png)
 
-1. Im [!UICONTROL Seiten] Abschnitt, klicken Sie auf **[!UICONTROL Probleme]**.
+1. Klicken Sie im Abschnitt [!UICONTROL Seiten] auf **[!UICONTROL Probleme]**.
 
    ![](assets/image2014-9-18-14-3a0-3a30.png)
 
-1. Bewegen Sie den Mauszeiger über das zu entfernende Seitenproblem. Klicks **[!UICONTROL Entfernen]**.
+1. Bewegen Sie den Mauszeiger über das zu entfernende Seitenproblem. Klicken Sie auf **[!UICONTROL Entfernen]**.
 
    ![](assets/image2014-9-18-14-3a0-3a38.png)
 
-1. Klicken **[!UICONTROL Löschen]** entfernt dieses Seitenproblem dauerhaft.
+1. Durch Klicken auf **[!UICONTROL Löschen]** wird dieses Seitenproblem dauerhaft entfernt.
 
    >[!CAUTION]
    >

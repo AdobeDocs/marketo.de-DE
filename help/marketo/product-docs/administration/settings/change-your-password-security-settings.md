@@ -6,8 +6,8 @@ exl-id: cda7ec70-32aa-4e0a-86b2-eb9bea70ef72
 feature: Administration
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '171'
-ht-degree: 2%
+source-wordcount: '172'
+ht-degree: 0%
 
 ---
 
@@ -19,19 +19,19 @@ Steuern Sie die Kennwortrichtlinie Ihres Abonnements. So geht es.
 >
 >**Erforderliche Administratorberechtigungen**
 
-1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
+1. Wechseln Sie zum Bereich **[!UICONTROL Admin]** .
 
    ![](assets/change-your-password-security-settings-1.png)
 
-1. Klicks **[!UICONTROL Anmeldeeinstellungen]**.
+1. Klicken Sie auf **[!UICONTROL Anmeldeeinstellungen]**.
 
    ![](assets/change-your-password-security-settings-2.png)
 
-1. under **[!UICONTROL Sicherheitseinstellungen]** klicken **[!UICONTROL Bearbeiten]**.
+1. Klicken Sie unter **[!UICONTROL Sicherheitseinstellungen]** auf **[!UICONTROL Bearbeiten]**.
 
    ![](assets/change-your-password-security-settings-3.png)
 
-1. Wählen Sie eine **[!UICONTROL Vorlage]**. Für erweiterte Optionen klicken Sie auf **[!UICONTROL Erweitert]** angezeigt.
+1. Wählen Sie eine **[!UICONTROL Vorlage]** aus. Klicken Sie für erweiterte Optionen auf die Dropdown-Liste **[!UICONTROL Erweitert]** .
 
    ![](assets/change-your-password-security-settings-4.png)
 
@@ -41,16 +41,16 @@ Steuern Sie die Kennwortrichtlinie Ihres Abonnements. So geht es.
 
    >[!TIP]
    >
-   >In **[!UICONTROL Benutzerdefiniert]** aktivieren, aktivieren Sie die Kontrollkästchen, um anzugeben, welche Merkmale Benutzer bei der Erstellung von Passwörtern einbeziehen sollen.
+   >Aktivieren Sie in **[!UICONTROL Benutzerdefiniert]** die Kontrollkästchen, um anzugeben, welche Eigenschaften Benutzer beim Erstellen von Kennwörtern einbeziehen sollen.
 
-1. Legen Sie die **[!UICONTROL Ablauf]**. Für diese Funktion müssen Benutzer ihre Kennwörter nach einer bestimmten Zeitdauer automatisch zurücksetzen. Dies schließt auch den Admin-Benutzer ein.
+1. Legen Sie die **[!UICONTROL Gültigkeit]** fest. Für diese Funktion müssen Benutzer ihre Kennwörter nach einer bestimmten Zeitdauer automatisch zurücksetzen. Dies schließt auch den Admin-Benutzer ein.
 
    ![](assets/change-your-password-security-settings-5.png)
 
    >[!CAUTION]
    >
-   >Vorhandene Benutzer werden nicht über die Änderungen informiert. Satz **[!UICONTROL Ablauf]** auf 30 Tage zu setzen, um sicherzustellen, dass alle auf die neuen Einstellungen aktualisiert haben, und diese dann wieder in Ihre ursprüngliche Kadenz ändern.
+   >Vorhandene Benutzer werden nicht über die Änderungen informiert. Setzen Sie **[!UICONTROL Ablauf]** zunächst auf 30 Tage, um sicherzustellen, dass alle auf die neuen Einstellungen aktualisiert haben, und ändern Sie dann diese zurück in Ihre ursprüngliche Kadenz.
 
-1. Legen Sie die **[!UICONTROL Inaktives Sitzungs-Timeout]**. Dadurch wird bestimmt, wie lange ein Benutzer inaktiv sein kann, bevor er sich erneut bei Marketo anmelden muss.
+1. Legen Sie den Wert **[!UICONTROL Inaktives Sitzungs-Timeout]** fest. Dadurch wird bestimmt, wie lange ein Benutzer inaktiv sein kann, bevor er sich erneut bei Marketo anmelden muss.
 
    ![](assets/change-your-password-security-settings-6.png)

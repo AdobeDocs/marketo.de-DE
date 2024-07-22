@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Sie können die Reihenfolge der Spalten in einem Bericht ändern.
 
-1. Navigieren Sie zu **Marketingaktivitäten** (oder **Analytics**).
+1. Wechseln Sie zum Bereich **Marketingaktivitäten** (oder **Analytics**).
 
    ![](assets/image2014-9-16-10-3a50-3a27.png)
 
-1. Wählen Sie Ihren Bericht in der Navigationsstruktur aus und klicken Sie auf das **Bericht** Registerkarte.
+1. Wählen Sie Ihren Bericht in der Navigationsstruktur aus und klicken Sie auf die Registerkarte **Bericht** .
 
    ![](assets/image2014-9-16-10-3a50-3a31.png)
 

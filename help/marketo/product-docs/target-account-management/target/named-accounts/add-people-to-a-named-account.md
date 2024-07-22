@@ -15,9 +15,9 @@ ht-degree: 2%
 
 Es gibt drei verschiedene Möglichkeiten, Personen manuell zu einem benannten Konto in TAM hinzuzufügen.
 
-## Einzelne Flow-Aktion {#single-flow-action}
+## Flow-Akt. {#single-flow-action}
 
-1. Klicken **Datenbank**.
+1. Klicken Sie auf **Database**.
 
    ![](assets/one-2.png)
 
@@ -25,11 +25,11 @@ Es gibt drei verschiedene Möglichkeiten, Personen manuell zu einem benannten Ko
 
    ![](assets/two.png)
 
-1. Klicken Sie auf die Person, um sie auszuwählen. Klicken Sie auf **Personenaktionen** Dropdown, klicken Sie auf **Marketing** und wählen Sie **Zu benanntem Konto hinzufügen**.
+1. Klicken Sie auf die Person, um sie auszuwählen. Klicken Sie auf das Dropdown-Menü **Persönliche Aktionen**, klicken Sie auf **Marketing** und wählen Sie **Zu benanntem Konto hinzufügen** aus.
 
    ![](assets/three.png)
 
-1. Klicken Sie auf **Benanntes Konto** in der Dropdown-Liste das gewünschte spezifische Konto auswählen, und klicken Sie auf **Jetzt ausführen**.
+1. Klicken Sie auf die Dropdownliste **Benanntes Konto**, wählen Sie das gewünschte benannte Konto aus und klicken Sie auf **Jetzt ausführen**.
 
    ![](assets/four.png)
 
@@ -47,7 +47,7 @@ Es gibt drei verschiedene Möglichkeiten, Personen manuell zu einem benannten Ko
 
    ![](assets/seven.png)
 
-1. Klicken Sie auf **Benanntes Konto** und wählen Sie das gewünschte spezifische Konto aus.
+1. Klicken Sie auf die Dropdownliste **Spezifisches Konto** und wählen Sie das gewünschte spezifische Konto aus.
 
    ![](assets/eight.png)
 
@@ -55,22 +55,22 @@ Es gibt drei verschiedene Möglichkeiten, Personen manuell zu einem benannten Ko
 
 ## Listenimport {#list-import}
 
-1. Wählen Sie Ihre Liste aus und klicken Sie auf das **Aktionen auflisten** und wählen Sie **Importliste**.
+1. Wählen Sie Ihre Liste aus, klicken Sie auf das Dropdown-Menü **Listenaktionen** und wählen Sie **Importliste** aus.
 
    ![](assets/nine.png)
 
-1. Nachdem Sie die Datei und die Einstellungen ausgewählt haben, klicken Sie auf **Nächste**.
+1. Nachdem Sie Ihre Datei und Einstellungen ausgewählt haben, klicken Sie auf **Weiter**.
 
    ![](assets/ten.png)
 
-1. Ordnen Sie die gewünschten Felder zu. Stellen Sie sicher, dass **Benanntes Konto** -Feld zugeordnet ist.
+1. Ordnen Sie die gewünschten Felder zu. Stellen Sie sicher, dass das Feld **Spezifisches Konto** zugeordnet ist.
 
    ![](assets/eleven.png)
 
-1. Wählen Sie die gewünschten Einstellungen aus und klicken Sie auf **Import**.
+1. Wählen Sie die gewünschten Einstellungen aus und klicken Sie dann auf **Importieren**.
 
    ![](assets/twelve.png)
 
 >[!MORELIKETHIS]
 >
->[Lead zur Kontoübereinstimmung](/help/marketo/product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md)
+>[ Lead to Account Match](/help/marketo/product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md)

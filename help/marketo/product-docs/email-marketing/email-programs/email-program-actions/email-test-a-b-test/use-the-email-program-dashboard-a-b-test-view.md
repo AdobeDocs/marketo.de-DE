@@ -13,7 +13,7 @@ ht-degree: 6%
 
 # Verwenden des Dashboards &quot;E-Mail-Programm&quot;- A/B-Testansicht {#use-the-email-program-dashboard-a-b-test-view}
 
-Überprüfen Sie, wie Ihre [A/B-Test des E-Mail-Programms](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) führt mit diesem Dashboard eine Leistung aus.
+Sehen Sie sich die Leistung Ihres [E-Mail-Programms A/B-Test](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) mit diesem Dashboard an.
 
 ![](assets/image2014-9-12-16-3a14-3a28.png)
 
@@ -35,7 +35,7 @@ Dieses Diagramm zeigt das Verhältnis zwischen Klicks und Öffnungen. ( Anzahl K
 
 ![](assets/image2014-9-12-16-3a16-3a36.png)
 
-## Zusammenfassung {#summary}
+## Zusammenfassung  {#summary}
 
 Hier können Sie eine Aufschlüsselung der Klicks und Abmeldungen nach Varianten sehen, um einen einfachen Vergleich zu ermöglichen.
 
@@ -45,4 +45,4 @@ Cool Dashboard, glaubst du nicht?
 
 >[!MORELIKETHIS]
 >
->[Verwenden des Dashboards E-Mail-Programm](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)
+>[Verwenden des Dashboards &quot;E-Mail-Programm&quot;](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)

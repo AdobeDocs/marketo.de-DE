@@ -7,7 +7,7 @@ feature: Landing Pages
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '101'
-ht-degree: 4%
+ht-degree: 2%
 
 ---
 
@@ -19,19 +19,19 @@ Personalisierte URLs eignen sich hervorragend für Druckpost-Kampagnen.
 >
 >**Erforderliche Administratorberechtigungen**
 
-1. Navigieren Sie zu **Admin** und klicken Sie auf **Landing Pages**.
+1. Gehen Sie zum Abschnitt **Admin** und klicken Sie auf **Landingpages**.
 
    ![](assets/image2014-9-18-13-3a29-3a49.png)
 
-1. Klicken **Bearbeiten**.
+1. Klicken Sie auf **Bearbeiten**.
 
    ![](assets/image2014-9-18-13-3a29-3a58.png)
 
-1. Überprüfen Sie die **Personalisierte URLs aktivieren** und klicken Sie auf **Speichern**.
+1. Aktivieren Sie das Kontrollkästchen **Personalisierte URLs aktivieren** und klicken Sie auf **Speichern**.
 
    ![](assets/image2014-9-18-13-3a30-3a6.png)
 
-Großartig gemacht! Nachdem Sie PURLs für Ihr Konto aktiviert haben, können Sie es für einzelne Landingpages aktivieren.
+Gut gemacht! Nachdem Sie PURLs für Ihr Konto aktiviert haben, können Sie es für einzelne Landingpages aktivieren.
 
 >[!NOTE]
 >

@@ -13,7 +13,7 @@ ht-degree: 11%
 
 # Berichtstyp - Übersicht {#report-type-overview}
 
-Wenn Sie [einen Bericht in einem Programm erstellen](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)auswählen, welchen Berichtstyp Sie wählen möchten.
+Wenn Sie [einen Bericht in einem Programm erstellen](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), wählen Sie den gewünschten Berichtstyp aus.
 
 ## Am häufigsten verwendete Berichte {#most-used-reports}
 
@@ -47,7 +47,7 @@ Wenn Sie [einen Bericht in einem Programm erstellen](/help/marketo/product-docs/
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md">Bericht "Personen nach Umsatzstatus"</a></strong></td> 
-   <td>Grundlegende Berichte für Ihr Umsatzmodell. Siehe <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">Umsatzzyklusanalysen</a> für eine tiefergehende Berichterstellung.</td> 
+   <td>Grundlegende Berichte für Ihr Umsatzmodell. Weitere Informationen finden Sie unter <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">Umsatzzyklusanalysen</a> .</td> 
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md">Landing Page-Leistung</a>  </strong></td> 
@@ -55,7 +55,7 @@ Wenn Sie [einen Bericht in einem Programm erstellen](/help/marketo/product-docs/
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md">Programmleistung</a>  </strong></td> 
-   <td>Grundlegende Programmmetriken wie Mitglieder und Erfolg. Siehe <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">Umsatzzyklusanalysen</a> für eine tiefergehende Berichterstellung.</td> 
+   <td>Grundlegende Programmmetriken wie Mitglieder und Erfolg. Weitere Informationen finden Sie unter <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">Umsatzzyklusanalysen</a> .</td> 
   </tr> 
   <tr> 
    <td><strong><a href="company-web-activity-report.md">Unternehmens-Webaktivität</a></strong></td> 
@@ -67,11 +67,11 @@ Wenn Sie [einen Bericht in einem Programm erstellen](/help/marketo/product-docs/
   </tr>
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md">Interaktions-Stream-Leistungsbericht</a> </strong></td> 
-   <td>Erfahren Sie, wie gut Ihre <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">Interaktionsprogramm</a> funktioniert.</td> 
+   <td>Erfahren Sie, wie gut Ihr <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">Interaktionsprogramm</a> funktioniert.</td> 
   </tr>
    <tr> 
    <td><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md">Kampagnen-E-Mail-Leistung</a> </strong></td> 
-   <td>Erfahren Sie, wie gut Ihre <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">Interaktionsprogramm</a> funktioniert.</td> 
+   <td>Erfahren Sie, wie gut Ihr <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">Interaktionsprogramm</a> funktioniert.</td> 
   </tr>
  </tbody> 
 </table>

@@ -5,8 +5,8 @@ exl-id: 584f74e5-ed0a-4f2f-9a1e-93cb8804dec8
 feature: Release Information
 source-git-commit: 206952c2aaa9b568a9312def6d36b15f699791b3
 workflow-type: tm+mt
-source-wordcount: '637'
-ht-degree: 5%
+source-wordcount: '626'
+ht-degree: 6%
 
 ---
 
@@ -16,17 +16,17 @@ Unten finden Sie alle Funktionen der Version vom 23. Januar. Überprüfen Sie Ih
 
 >[!AVAILABILITY]
 >
->Mit einem Stern (![star](assets/yellow-star.png)) sind kostenpflichtige Add-ons. Wenden Sie sich an Ihren Marketo Engage-Support-Mitarbeiter, um mehr zu erfahren.
+>Mit einem Stern (![Stern](assets/yellow-star.png)) gekennzeichnete Funktionen sind kostenpflichtige Add-ons. Wenden Sie sich an Ihren Marketo Engage-Support-Mitarbeiter, um mehr zu erfahren.
 
 ## Standardfunktionen des Versionszyklus {#standard-release-cycle-features}
 
-Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab der Veröffentlichung auf **20. Januar 2023**, mit einer stufenweisen Einführung der verbleibenden Funktionen in den darauffolgenden Wochen. Die Veröffentlichungsfunktionen und -daten können sich ändern. Bitte prüfen Sie unten jedes Feature nach seinem Status.
+Die folgenden Funktionen fallen unter den standardmäßigen Versionszyklus und werden am 20. Januar 2023 veröffentlicht. **(mit einem stufenweisen Rollout der verbleibenden Funktionen in den nachfolgenden Wochen).** Die Veröffentlichungsfunktionen und -daten können sich ändern. Bitte prüfen Sie unten jedes Feature nach seinem Status.
 
 ### Marketo Engage Modern UX {#modern-ux}
 
 </br>
 
-* **Aktualisierte Screens in der modernen Benutzeroberfläche**: In der modernen Benutzeroberfläche (früher als Erlebnis der nächsten Generation bekannt) stellen wir zusätzliche, aktualisierte Bildschirme bereit, die aktualisierte Design- und Benutzerfreundlichkeitsverbesserungen bieten, auf die über Umschalter zugegriffen werden kann:
+* **Aktualisierte Screens in moderner Benutzeroberfläche**: In moderner Benutzeroberfläche (früher bekannt als Erlebnis der nächsten Generation) stellen wir zusätzliche, aktualisierte Bildschirme bereit, die aktualisierte Design- und Benutzerfreundlichkeitsverbesserungen bieten, auf die über einen Umschalter zugegriffen werden kann:
 
    * Ansicht &quot;Snippet List&quot;
    * Liste der Landingpage-Vorlagen
@@ -43,7 +43,7 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
   </tbody>
 </table>
 
-* **Verbesserte Verwendung durch die Komponente für Details von E-Mail-Vorlagen und Snippet-Details**: Die Registerkarte Neu verwendet von Benutzeroberfläche enthält zusätzliche Informationen zu den einzelnen von Assets verwendeten Assets, z. B. wann und von wem sie zuletzt geändert wurden. Mithilfe der Such-, Sortierungs- und Filterfunktionen können Sie mühelos Analysen durchführen. Diese neue UI-Komponente wird mit den Assets E-Mail-Vorlage und Snippet integriert.
+* **Verbesserte Verwendung durch Komponente für Details von E-Mail-Vorlagen und Codedetails**: Die Registerkarte &quot;Neu verwendet von Benutzeroberfläche&quot;enthält zusätzliche Informationen zu den einzelnen von Assets verwendeten Assets, z. B. wann und von wem sie zuletzt geändert wurde. Mithilfe der Such-, Sortierungs- und Filterfunktionen können Sie mühelos Analysen durchführen. Diese neue UI-Komponente wird mit den Assets E-Mail-Vorlage und Snippet integriert.
 
 <table> 
   <tr> 
@@ -61,7 +61,7 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
 
 </br>
 
-* **Neu entworfene Modelle für Report Assets**: Neues Design für Berichtkonfigurationsmodelle in der modernen UX, das ein aktualisiertes Aussehen und ein verbessertes Erscheinungsbild sowie eine verbesserte Barrierefreiheit bietet.
+* **Neu gestaltete Modelle für Report Assets**: Neues Design für Berichtkonfigurationsmodelle in der modernen Benutzeroberfläche, das ein aktualisiertes Erscheinungsbild sowie eine verbesserte Barrierefreiheit bietet.
 
 <table> 
   <tr> 
@@ -97,7 +97,7 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
 
 </br>
 
-* **Verbesserte Registerkarte &quot;Webdienste&quot; durch Hinzufügen von Bulk Export API-Informationen**: Sie können jetzt die tägliche Kapazitätszuweisung für Ihre Abonnements anzeigen und die Menge der täglichen Kapazitätszuweisung anzeigen, die in den letzten sieben Tagen verwendet wurde.
+* **Registerkarte &quot;Erweiterte Webdienste&quot;durch Hinzufügen von Bulk Export API-Informationen**: Sie können jetzt die tägliche Kapazitätszuordnung für Ihre Abonnements anzeigen und die Menge der täglichen Kapazitätszuweisung anzeigen, die in den letzten sieben Tagen verwendet wurde.
 
 <table> 
   <tr> 
@@ -106,7 +106,7 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
   </tr>
   <tr> 
    <td>Versendet</td>
-   <td><a href="/help/marketo/product-docs/administration/settings/bulk-export-api-information.md">Massenexport-API-Informationen</a></td>
+   <td><a href="/help/marketo/product-docs/administration/settings/bulk-export-api-information.md">Informationen zur Massenexport-API</a></td>
   </tr>
   </tbody>
 </table>
@@ -119,7 +119,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
 
 </br>
 
-* **Picklist in Info Capture Card für Dynamic Chat definieren**: Um Datenbereinigungen sicherzustellen, können Sie Auswahllisten für Datenerfassungskarten definieren, damit Besucher nur aus einer vordefinierten Optionsliste auswählen können.
+* **Picklist in Info Capture Card für Dynamic Chat definieren**: Um Datenbereinigungen sicherzustellen, können Sie Picklists für Datenerfassungskarten definieren, sodass Besucher nur aus einer vordefinierten Optionsliste auswählen können.
 
 <table> 
   <tr> 
@@ -133,7 +133,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
   </tbody>
 </table>
 
-* **Personalisierung in Konferenzbestätigung für Dynamic Chat**: Kundendienstmitarbeiter können per Marketo Engage-Person- und Firmenfeld Bestätigungs-E-Mails zur Sitzungsbuchung personalisieren, um die Interaktion mit Besuchern zu verbessern (z. B.: Besucher mit Vornamen in der E-Mail zur automatisierten Sitzungsbuchung begrüßen).
+* **Personalization in Meeting Confirmation for Dynamic Chat**: Kundendienstmitarbeiter können E-Mail-Bestätigungen zur Sitzungsbuchung mithilfe von Marketo Engage-Personen- und Firmenfeldern personalisieren, um die Interaktion mit Besuchern zu verbessern (z. B.: Besucher mit Vornamen in der E-Mail zur automatischen Sitzungsbuchung begrüßen).
 
 <table> 
   <tr> 
@@ -147,7 +147,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
   </tbody>
 </table>
 
-* **Suchen in Stream-Designer**: Einfache Suche nach Inhalten in Stream Designer, um Inhalte schnell über alle Karten/Knoten in einem Stream zu finden (z. B. Suchen Sie &quot;SEO&quot;, und markieren Sie alle Knoten, die diese Zeichenfolge enthalten).
+* **Im Stream-Designer suchen**: Einfache Suche nach Inhalten im Stream-Designer, um Inhalte schnell über alle Karten/Knoten in einem Stream hinweg zu finden (z. B. Suche &quot;SEO&quot;, wodurch alle Knoten hervorgehoben werden, die diese Zeichenfolge enthalten).
 
 <table> 
   <tr> 
@@ -175,7 +175,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
   </tbody>
 </table>
 
-* **E-Mail-Benachrichtigungen für geplante Meetings für Dynamic Chat**: Wenn eine Besprechung im Kalender eines Agenten gebucht wird, erhält der Agent eine E-Mail-Benachrichtigung über die Buchung, einschließlich detaillierter Informationen zur Dynamic Chat-Interaktion des Besuchers.
+* **E-Mail-Benachrichtigungen bezüglich geplanter Meetings für Dynamic Chat**: Wenn ein Meeting im Kalender eines Agenten gebucht wird, erhält der Agent eine E-Mail-Benachrichtigung über die Buchung, einschließlich detaillierter Informationen zur Interaktion des Dynamic Chat mit dem Besucher.
 
 <table> 
   <tr> 
@@ -191,6 +191,6 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
 
 ## Ankündigungen {#announcements}
 
-* **Marketo REST API-Änderung**: Mit der Version vom Oktober 2022 haben wir eine geringfügige Änderung an der Antwortmeldung der Marketo REST API vorgenommen. Siehe hierzu [Marketo-Benachrichtigungsbeitrag](https://nation.marketo.com/t5/product-documents/upcoming-change-to-marketo-rest-api/ta-p/331698){target="_blank"} für weitere Details.
+* **Marketo REST API change**: Mit der Version vom Oktober 2022 haben wir eine geringfügige Änderung an der Marketo REST API-Antwortmeldung eingeführt. Weitere Informationen finden Sie in diesem [Marketo Nation Post](https://nation.marketo.com/t5/product-documents/upcoming-change-to-marketo-rest-api/ta-p/331698){target="_blank"} .
 
-* **_Webinar zur Produktversion_**: [Webinar zur Marketo Engage-Version Oktober 2022 und Januar 2023](https://engage.marketo.com/2023_January_Release_Webinar_OnDemandPage.html){target="_blank"}
+* **_Webinar zur Produktversion_**: [Oktober 2022 und Januar 2023 Marketo Engage-Release Webinar](https://engage.marketo.com/2023_January_Release_Webinar_OnDemandPage.html){target="_blank"}

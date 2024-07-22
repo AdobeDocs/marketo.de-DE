@@ -13,20 +13,20 @@ ht-degree: 3%
 
 # Inhaltssperre {#content-lockdown}
 
-Indem Sie die Sperrung von Inhalten aktivieren, können Benutzer ohne Administratorrechte Vorlagen und/oder Kampagnen nicht bearbeiten. Benutzer können nicht: Inhalte freigeben, klonen, bearbeiten oder löschen. Sie haben auch keine Möglichkeit, Vorlagen zu archivieren.
+Indem Sie die Sperrung von Inhalten aktivieren, können Benutzer ohne Administratorrechte daran gehindert werden, Vorlagen und/oder Kampagnen zu bearbeiten. Benutzer können keine Inhalte freigeben, klonen, bearbeiten oder löschen. Sie haben auch keine Möglichkeit, Vorlagen zu archivieren.
 
 >[!NOTE]
 >
->Benutzer **will** kann den Inhalt einer E-Mail zum Zeitpunkt des Versands oder des Starts einer Kampagne noch bearbeiten.
+>Benutzer **können den Inhalt einer E-Mail zum Zeitpunkt des Versands oder beim Start einer Kampagne weiterhin bearbeiten.**
 
-1. Klicken Sie in Sales Connect auf das Einstellungssymbol und wählen Sie **Einstellungen**.
+1. Klicken Sie in Sales Connect auf das Einstellungssymbol und wählen Sie **Einstellungen** aus.
 
    ![](assets/one-4.png)
 
-1. Klicken Sie unter &quot;Admin Settings&quot;auf **Allgemein**.
+1. Klicken Sie unter &quot;Admin Settings&quot;auf **General**.
 
    ![](assets/two-4.png)
 
-1. Scrollen Sie nach unten zur Inhaltssperre. Aktivieren eines der beiden Schieberegler _disable_ die Fähigkeit der Teammitglieder, Vorlagen und/oder Kampagnen zu erstellen/zu bearbeiten.
+1. Scrollen Sie nach unten zu &quot;Inhaltssperre&quot;. Wenn Sie einen der beiden Schieberegler aktivieren, wird _die Fähigkeit Ihrer Teammitglieder, Vorlagen und/oder Kampagnen zu erstellen/zu bearbeiten, deaktiviert_.
 
    ![](assets/three-4.png)

@@ -6,7 +6,7 @@ exl-id: a3e99eeb-3671-40c4-82ac-773c2cc05914
 feature: Mobile Marketing
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
@@ -25,15 +25,15 @@ Mit der mobilen Interaktion von Marketo können Sie eine Benachrichtigung so ers
 
 ## Schritt 1: Erste Setups durch Admin und Entwickler durchführen {#step-admin-and-developer-perform-initial-setups}
 
-Der Entwickler von Marketo Admin und mobilen Apps arbeitet zusammen, um Sie einzurichten. Siehe [Vor der Erstellung von Push-Benachrichtigungen und In-App-Nachrichten](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md) für Details.
+Der Entwickler von Marketo Admin und mobilen Apps arbeitet zusammen, um Sie einzurichten. Weitere Informationen finden Sie unter [Vor der Erstellung von Push-Benachrichtigungen und In-App-Nachrichten](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md) .
 
 ## Schritt 2: Erstellen einer Push-Benachrichtigung {#step-create-a-push-notification}
 
-[Nachrichten erstellen](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md) und eine Vorschau der Darstellung auf Android- und iOS-Geräten anzeigen.
+[Erstellen Sie Ihre Nachrichten](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md) und zeigen Sie eine Vorschau der Anzeige auf Android- und iOS-Geräten an.
 
 ## Schritt 3: Senden! {#step-send}
 
-[Push-Benachrichtigungen können gesendet werden](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md) Verwendung von Trigger- und Batch-Smart-Kampagnen. Sehr cool, was?
+[Push-Benachrichtigungen können ](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md) mit Trigger- und Batch-Smart-Kampagnen gesendet werden. Sehr cool, was?
 
 ![](assets/image2015-4-27-8-3a41-3a43.png)
 

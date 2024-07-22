@@ -15,11 +15,11 @@ ht-degree: 3%
 
 Ein Token ist eine Variable, die Sie in E-Mails, Landingpages und Smart-Kampagnen verwenden können, um Ihr Leben zu vereinfachen.
 
-Neben My Tokens können Sie auch beliebige der integrierten Token in Ihren Programmen verwenden. Sehen Sie sich die [Token-Übersicht](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
+Neben My Tokens können Sie auch beliebige der integrierten Token in Ihren Programmen verwenden. Sehen Sie sich die [Token-Übersicht](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"} an.
 
 ## Meine Token  {#my-tokens}
 
-Meine Token sind benutzerdefinierte Variablen, die jeder erstellen kann. Sie sind [created](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"} in Kampagnenordnern oder -programmen.
+Meine Token sind benutzerdefinierte Variablen, die jeder erstellen kann. Sie werden [erstellt](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"}, entweder in Kampagnenordnern oder in Programmen.
 
 Meine Token werden wie folgt angezeigt: `{{my.Name Of Token}}`
 
@@ -38,7 +38,7 @@ Beispiele:
  <tbody> 
   <tr> 
    <td>Kalenderdatei <img alt="—" src="assets/image2014-9-25-16-3a44-3a19.png" data-linked-resource-id="3083230" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>Verwenden Sie dieses Token zum <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md">Hinzufügen einer Kalenderereignisdatei (.i</a><a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md">cs)</a> auf Ihre E-Mails und Landingpages.</td> 
+   <td>Verwenden Sie dieses Token, um Ihren E-Mails und Landingpages eine Kalenderereignisdatei (.i</a><a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md">cs)</a> hinzuzufügen.<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md"></td> 
   </tr> 
   <tr> 
    <td><p>Datum <img alt="--" src="assets/image2014-9-25-16-3a44-3a47.png" data-linked-resource-id="3083231" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></p></td> 
@@ -46,7 +46,7 @@ Beispiele:
   </tr> 
   <tr> 
    <td>E-Mail-Script <img alt="--" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>Verwenden Sie dieses Token, um ein Velocity-Skript in Ihren E-Mails auszuführen. Weitere Infos <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting" title="Link folgen" rel="nofollow">here</a>. </td> 
+   <td>Verwenden Sie dieses Token, um ein Velocity-Skript in Ihren E-Mails auszuführen. Weitere Informationen finden Sie <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting" title="Link folgen" rel="nofollow">hier</a>. </td> 
   </tr> 
   <tr> 
    <td>Zahl<span> <img alt="--" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td> 
@@ -58,7 +58,7 @@ Beispiele:
   </tr> 
   <tr> 
    <td>Bewertung <img alt="--" src="assets/image2014-9-25-16-3a46-3a39.png" data-linked-resource-id="3083235" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>Verwenden Sie dieses Token im <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md">Schritt zum Wechseln des Punktflusses</a>. </td> 
+   <td>Verwenden Sie dieses Token im Schritt <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md">Bewertungsfluss ändern</a> . </td> 
   </tr> 
   <tr> 
    <td colspan="1">SFDC-Kampagne <img alt="--" src="assets/sfdc-campaign-icon.jpg" data-linked-resource-id="11379761" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114" title="--"></td> 
@@ -73,15 +73,15 @@ Beispiele:
 
 >[!CAUTION]
 >
->Meine Token werden beim Senden einer E-Mail aus Sales Insight auf Microsoft Dynamics oder Salesforce nicht aufgelöst. Es werden nur Standard-Token (Lead, Unternehmen usw.) ausgefüllt. Standardwerte für Token _will_ funktioniert.
+>Meine Token werden beim Senden einer E-Mail aus Sales Insight auf Microsoft Dynamics oder Salesforce nicht aufgelöst. Es werden nur Standard-Token (Lead, Unternehmen usw.) ausgefüllt. Die Standardwerte für die Token _werden_ funktionieren jedoch.
 
 ## Verschachtelungstoken {#nesting-tokens}
 
 Wenn Sie ein neues Token erstellen, kann es von anderen Objekten in der Struktur referenziert werden. Es gibt eine Namensstruktur, in der das Token zur einfachen Verwaltung erstellt wurde.
 
 * **Lokaler Token:** Das Token wurde direkt in diesem Programm oder Ordner erstellt.
-* **Vererbter Token:** Das Token wurde im Baum irgendwo in einem Programm oder Ordner mit höherer Ebene erstellt.
-* **Überschriebenes Token:** Das Token wurde vererbt und dann hat jemand in diesem Programm oder Ordner eine Ausnahme gemacht.
+* **Vererbtes Token:** Das Token wurde im Baum irgendwo in einem Programm oder Ordner mit höherer Ebene erstellt.
+* **Overridden Token:** Das Token wurde vererbt und dann hat jemand in diesem Programm oder Ordner eine Ausnahme gemacht.
 
 Sie können globale Variablen erstellen und diese dann auf niedrigeren Ebenen im Baum überschreiben.
 
@@ -94,4 +94,4 @@ Das Verschieben von Programmen und Ordnern wirkt sich auch auf Token aus. Vergew
 >[!MORELIKETHIS]
 >
 >* [Token-Übersicht](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}
->* [Verwalten von My Tokens](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"}
+>* [Verwalten meiner Token](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"}

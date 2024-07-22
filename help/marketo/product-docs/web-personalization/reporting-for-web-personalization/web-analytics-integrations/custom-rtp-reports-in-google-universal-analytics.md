@@ -6,8 +6,8 @@ exl-id: c8b1e653-03b8-48bc-b80d-3e6cdf3485c3
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '386'
-ht-degree: 5%
+source-wordcount: '387'
+ht-degree: 4%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 5%
 
 >[!PREREQUISITES]
 >
->[RTP in Google Universal Analytics integrieren](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
+>[Integrieren von RTP in Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
 
 In diesem Artikel wird beschrieben, wie Sie benutzerdefinierte RTP-Berichte für Google Universal Analytics (GUA) einrichten.  Die Daten, die von RTP an GUA gesendet werden, können in zwei separaten benutzerdefinierten Berichten namens eingerichtet werden:
 
@@ -26,27 +26,27 @@ In diesem Artikel wird beschrieben, wie Sie benutzerdefinierte RTP-Berichte für
 
 1. Melden Sie sich bei Google Analytics an.
 
-1. Klicken Sie auf **Anpassung** im oberen Menü.
+1. Klicken Sie im oberen Menü auf **Anpassung** .
 
-1. Klicken **+Neuer benutzerspezifischer Bericht**.
+1. Klicken Sie auf **+Neuer benutzerspezifischer Bericht**.
 
 ![](assets/image2015-3-22-16-3a10-3a48.png)
 
 ## RTP B2B-Bericht {#rtp-b-b-report}
 
-1. Benennen Sie den Bericht. **RTP B2B-Bericht**.
+1. Nennen Sie den Bericht &quot;**RTP B2B Report&quot;**.
 
-1. Benennen der ersten Registerkarte **Branche**.
+1. Nennen Sie die erste Registerkarte mit dem Namen &quot;**Branche**&quot;.
 
 >[!NOTE]
 >
->Sie werden **Duplizieren Sie diese Registerkarte** und erstellen Sie weitere ähnliche - Schritt 5)
+>Sie werden **diese Registerkarte duplizieren** und weitere ähnliche hinzufügen - Schritt 5)
 
-1. Wählen Sie die **Explorer** Berichtstyp.
+1. Wählen Sie den Berichtstyp **Explorer** aus.
 
    ![](assets/image2015-3-22-16-3a15-3a25.png)
 
-1. Im **Metrikgruppen** wählen Sie die Metriken aus, die für Ihr Unternehmen relevant sind.
+1. Wählen Sie im Abschnitt **Metrikgruppen** die Metriken aus, die für Ihr Unternehmen relevant sind.
 
    a. Wir empfehlen Folgendes:
 
@@ -62,7 +62,7 @@ In diesem Artikel wird beschrieben, wie Sie benutzerdefinierte RTP-Berichte für
 
    ![](assets/image2015-3-22-16-3a17-3a41.png)
 
-1. Im **Dimensionen-Drilldowns** -Abschnitt legen Sie die relevanten Dimensionen für jede Registerkarte wie folgt fest.
+1. Legen Sie im Bereich **Dimensionen-Drilldown** die entsprechenden Dimensionen für jede Registerkarte wie folgt fest.
 
 <table> 
  <thead> 
@@ -101,41 +101,41 @@ In diesem Artikel wird beschrieben, wie Sie benutzerdefinierte RTP-Berichte für
  </tbody> 
 </table>
 
-1. Legen Sie keine Filter fest und legen Sie fest, dass dieser Bericht für **Alle Website-Daten** (oder ändern Sie, falls für ein bestimmtes Analytics-Konto relevant).
+1. Legen Sie keine Filter fest und legen Sie fest, dass dieser Bericht für **Alle Website-Daten** verfügbar ist (oder ändern Sie ihn gegebenenfalls für ein bestimmtes Analytics-Konto).
 
-1. Klicken **Speichern**.
+1. Klicken Sie auf **Speichern**.
 
    ![](assets/image2015-3-22-16-3a21-3a23.png)
 
 ## RTP-Interaktionsbericht {#rtp-engagement-report}
 
-1. Benennen Sie den Bericht. **RTP-Interaktionsbericht**.
+1. Nennen Sie den Bericht &quot;**RTP-Interaktionsbericht**&quot;.
 
-1. Setzen Sie den ersten Registerkartennamen auf **Alle Interaktionen**.
+1. Setzen Sie den Namen der ersten Registerkarte auf **Alle Interaktionen**.
 
 >[!NOTE]
 >
 >Sie duplizieren diese Registerkarte und erstellen weitere ähnliche - Schritt 5)
 
-1. Wählen Sie die **Explorer** Berichtstyp.
+1. Wählen Sie den Berichtstyp **Explorer** aus.
 
    ![](assets/image2015-3-22-16-3a23-3a36.png)
 
-1. Wählen Sie im Abschnitt Metrikgruppen die Metriken aus, die für Ihr Unternehmen relevant sind. Hier eine Empfehlung:
+1. Wählen Sie im Abschnitt Metrikgruppen die Metriken aus, die für Ihr Unternehmen relevant sind. Im Folgenden finden Sie eine Empfehlung:
 
    ![](assets/image2015-3-22-16-3a24-3a57.png)
 
 1. Duplizieren Sie diese Registerkarte viermal und benennen Sie sie:
 
    1. **Alle Interaktionen**
-   1. **Interaktion mit der Branche**
+   1. **Interaktion nach Branche**
    1. **Interaktion nach Gruppe**
    1. **Interaktion nach Kategorie**
    1. **Interaktion durch ABM**
 
    ![](assets/image2015-3-22-16-3a26-3a21.png)
 
-1. Im **Dimensionen-Drilldowns** -Abschnitt legen Sie die relevanten Dimensionen für jede Registerkarte wie folgt fest:
+1. Legen Sie im Bereich **Dimensionen-Drilldown** die entsprechenden Dimensionen für jede Registerkarte wie folgt fest:
 
 <table> 
  <thead> 
@@ -213,22 +213,22 @@ In diesem Artikel wird beschrieben, wie Sie benutzerdefinierte RTP-Berichte für
    <td>Ausschließen</td> 
    <td>Ereignisbezeichnung</td> 
    <td>Regulärer Ausdruck</td> 
-   <td>#</td> 
+   <td>Nr.</td> 
    <td colspan="1">Ermöglicht die Filterung aus Ihrer Berichtskampagne mithilfe des #-Zeichens im Kampagnennamen</td> 
   </tr> 
  </tbody> 
 </table>
 
-1. Legen Sie für diesen Bericht fest, dass **Alle Website-Daten** (oder gegebenenfalls ändern).
+1. Legen Sie fest, dass dieser Bericht für **Alle Website-Daten** verfügbar ist (oder ändern Sie ihn gegebenenfalls).
 
    ![](assets/image2015-3-22-16-3a29-3a5.png)
 
-1. Klicken **Speichern**.
+1. Klicken Sie auf **Speichern**.
 
 ![](assets/image2015-3-22-16-3a30-3a0.png)
 
 >[!MORELIKETHIS]
 >
->[RTP in Google Universal Analytics integrieren](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
+>[Integrieren von RTP in Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
 >
 >[Benutzerdefinierte RTP-Dashboards in Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-dashboards-in-google-universal-analytics.md)

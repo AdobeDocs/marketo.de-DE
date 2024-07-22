@@ -19,33 +19,33 @@ ht-degree: 0%
 >
 >**Definition**
 >
->Formular **Hinweise** ist Text, der innerhalb des Felds verschwindet, wenn der Besucher mit der Eingabe in das Feld beginnt.
+>Form **Hints** ist Text, der innerhalb des Felds verschwindet, wenn der Besucher mit der Eingabe in das Feld beginnt.
 >
->Formular **Anweisungen** sind kleine QuickInfos, die angezeigt werden, wenn der Besucher den Mauszeiger über das Feld bewegt.
+>Form **Anweisungen** sind kleine QuickInfos, die angezeigt werden, wenn der Besucher den Mauszeiger über das Feld bewegt.
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Wechseln Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities-6.png)
 
-1. Wählen Sie Ihre **Formular** und klicken Sie auf **Formular bearbeiten**.
+1. Wählen Sie Ihr **Formular** aus und klicken Sie auf **Formular bearbeiten**.
 
    ![](assets/image2014-9-15-14-3a15-3a42.png)
 
-1. Wählen Sie Ihr Feld aus und geben Sie **Anweisungen**.
+1. Wählen Sie Ihr Feld aus und geben Sie **Anweisungen** ein.
 
    ![](assets/image2014-9-15-14-3a15-3a49.png)
 
-1. Klicken **Beenden**.
+1. Klicken Sie auf **Beenden**.
 
    ![](assets/image2014-9-15-14-3a15-3a57.png)
 
-1. Klicken **Genehmigen und schließen**.
+1. Klicken Sie auf **Genehmigen und schließen**.
 
    ![](assets/image2014-9-15-14-3a16-3a3.png)
 
    >[!NOTE]
    >
-   >Vergiss nicht, [Landingpage-Entwurf validieren](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) erstellt durch die Formularänderungen.
+   >Vergessen Sie nicht, [den Landingpage-Entwurf](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) zu genehmigen, der durch die Formularänderungen erstellt wurde.
 
    ![](assets/image2014-9-15-14-3a16-3a56.png)
 

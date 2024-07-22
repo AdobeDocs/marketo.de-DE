@@ -41,7 +41,7 @@ Klicken Sie auf das Symbol Marketo , um den Bereich zu erweitern.
 
 ## Anzeigen von Aktivitäten in Google Chrome {#view-activities-in-google-chrome}
 
-Sie können auch das Fenster &quot;Globale Aktivität&quot;in Google Chrome verwenden, um eine vollständige Liste der neuesten Aktivitäten anzuzeigen, die für alle Personen aufgetreten sind, denen Sie kürzlich entsprochen haben. Dies ist ein in Echtzeit aktualisierter Feed, der kontinuierlich die Anzahl der ungelesenen Aktivitäten auf dem Symbol anzeigt.
+Sie können auch das Fenster &quot;Globale Aktivität&quot;in Google Chrome verwenden, um eine vollständige Liste der letzten Aktivitäten anzuzeigen, die für alle Personen aufgetreten sind, denen Sie kürzlich entsprochen haben. Dies ist ein in Echtzeit aktualisierter Feed, der kontinuierlich die Anzahl der ungelesenen Aktivitäten auf dem Symbol anzeigt.
 
 Klicken Sie auf das Symbol Marketo , um den Bereich zu öffnen.
 

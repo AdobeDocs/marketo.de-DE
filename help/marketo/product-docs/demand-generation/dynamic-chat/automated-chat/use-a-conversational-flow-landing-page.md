@@ -17,17 +17,17 @@ Durch das Einbetten eines Dynamic Chat-Konversationsflusses direkt in eine Marke
 
 >[!PREREQUISITES]
 >
->Erstellen einer einfachen [Konversationsfluss](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md) , die nur eine **Sitzungsbuchung** Karte.
+>Erstellen Sie einen einfachen [Konversationsfluss](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md), der nur eine **Sitzungsbuchungskarte** enthält.
 
 ## Geführte Einstiegsseiten {#guided-landing-pages}
 
-Betten Sie den folgenden Code in Ihre Vorlage für geführte Einstiegsseiten ein: `<div class="mktoConversation" id="exampleConversation" mktoName= "Example Conversation"></div>`.
+Betten Sie den folgenden Code in Ihre Vorlage für die geführte Einstiegsseite ein: `<div class="mktoConversation" id="exampleConversation" mktoName= "Example Conversation"></div>`.
 
 Öffnen Sie die Vorlage für die geführte Einstiegsseite im Editor und wählen Sie den Platzhalter für den Konversationsfluss aus.
 
 Klicken Sie auf die Dropdown-Liste Konversionsfluss und wählen Sie den Inhaltsordner aus, den Sie in Schritt 1 erstellt haben.
 
-Versandtyp immer als **Inline**. Klicken Sie auf **Einfügen**.
+Behalten Sie den Bereitstellungstyp immer als **In-line** bei. Klicken Sie auf **Einfügen**.
 
 Der soeben eingegebene Konversationsfluss erscheint als Element auf der rechten Seite.
 

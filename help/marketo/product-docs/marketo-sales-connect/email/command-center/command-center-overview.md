@@ -6,7 +6,7 @@ exl-id: 141fa369-9ef9-48c7-a7ff-f5265d0e9ca5
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '569'
+source-wordcount: '570'
 ht-degree: 2%
 
 ---
@@ -37,7 +37,7 @@ Im E-Mail-Bereich erhalten Sie einen Überblick über alle E-Mails und können I
   </tr> 
   <tr> 
    <td title="Hintergrundfarbe : Blau"><strong title="">Gesendet</strong></td> 
-   <td title="Hintergrundfarbe : Blau">Übermittelt</td> 
+   <td title="Hintergrundfarbe : Blau">Zugestellt</td> 
    <td title="Hintergrundfarbe : Blau">An den Empfänger gesendete E-Mails.</td> 
   </tr> 
   <tr> 
@@ -53,11 +53,11 @@ Im E-Mail-Bereich erhalten Sie einen Überblick über alle E-Mails und können I
   <tr> 
    <td title="Hintergrundfarbe : Grau"><br></td> 
    <td title="Hintergrundfarbe : Grau">Entwurf</td> 
-   <td title="Hintergrundfarbe : Grau"><p>E-Mails, die als Entwurf gespeichert wurden.<br><strong>Hinweis:</strong> Nur einzelne E-Mails können als Entwürfe gespeichert werden. Massen-E-Mails (E-Mails auswählen und senden und Gruppen-E-Mails) werden nicht als Entwürfe gespeichert.</p></td> 
+   <td title="Hintergrundfarbe : Grau"><p>Als Entwurf gespeicherte E-Mails<br><strong>Hinweis:</strong> Nur einzelne E-Mails können als Entwürfe gespeichert werden. Massen-E-Mails (E-Mails auswählen und senden und Gruppen-E-Mails) werden nicht als Entwürfe gespeichert.</p></td> 
   </tr> 
   <tr> 
    <td title="Hintergrundfarbe : Grau"><br></td> 
-   <td title="Hintergrundfarbe : Grau">in progress</td> 
+   <td title="Hintergrundfarbe : Grau">Im Gange</td> 
    <td title="Hintergrundfarbe : Grau">Dies ist ein Zwischenstatus, in den E-Mails gesendet werden, wenn sie sich in der Versandaktion befinden. E-Mails dürfen nur für einen Moment in Bearbeitung sein.</td> 
   </tr> 
   <tr> 
@@ -67,7 +67,7 @@ Im E-Mail-Bereich erhalten Sie einen Überblick über alle E-Mails und können I
   </tr> 
   <tr> 
    <td title="Hintergrundfarbe : Blau"><br></td> 
-   <td title="Hintergrundfarbe : Blau">Unzustellbar</td> 
+   <td title="Hintergrundfarbe : Blau">Hardbounce aufgetreten</td> 
    <td title="Hintergrundfarbe : Blau"><p>Vom E-Mail-Server der Empfänger zurückgewiesene E-Mails. <br><strong>Hinweis:</strong> Dies wird nur erkannt, wenn Sie ein veralteter ToutApp-Benutzer sind und Zugriff auf MSC-Server als Bereitstellungskanal haben.</p></td> 
   </tr> 
   <tr> 
@@ -90,7 +90,7 @@ Sobald Sie über das Komprimierungsfenster oder die Kampagnen mit Ihren Interess
 
 Wenn Sie beispielsweise 100 Personen zu einer Kampagne in MSC hinzufügen, möchten Sie möglicherweise die Personen, die Ihre E-Mail angesehen und angeklickt haben, aber nicht darauf geantwortet haben, erneut ansprechen. Dazu können Sie den Kampagnenfilter sowie die Filter Status-Aktivität anzeigen und klicken verwenden, um eine Liste der Personen zu identifizieren, die erneut als Ziel ausgewählt werden sollen.
 
-Bonus: Wenn Sie Ihre erweiterte Suche speichern, funktioniert sie als dynamische Liste und fügt E-Mails hinzu, die die Interaktionskriterien erfüllen, sobald der Empfänger Ihre E-Mail anzeigt oder klickt.
+Bonus: Wenn Sie Ihre erweiterte Suche speichern, funktioniert diese als dynamische Liste und fügt E-Mails hinzu, die die Interaktionskriterien erfüllen, sobald der Empfänger Ihre E-Mail anzeigt oder klickt.
 
 >[!MORELIKETHIS]
 >

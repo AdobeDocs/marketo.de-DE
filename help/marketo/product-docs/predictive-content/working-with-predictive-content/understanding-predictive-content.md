@@ -1,46 +1,46 @@
 ---
 unique-page-id: 11384665
 description: Grundlegendes zu Predictive Content - Marketo Docs - Produktdokumentation
-title: Grundlegendes zu vorausschauenden Inhalten
+title: Grundlegendes zu Predictive Content
 exl-id: 3a8dd077-dc21-4d17-bc85-bb32e009dd94
 feature: Predictive Content
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '305'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
-# Grundlegendes zu vorausschauenden Inhalten {#understanding-predictive-content}
+# Grundlegendes zu Predictive Content {#understanding-predictive-content}
 
-Nach [Genehmigen eines Titels für prädiktive Inhalte](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md), arbeiten Sie hier daran. Auf der Seite Predictive Content werden alle Titel angezeigt, die Sie für prädiktive Inhalte genehmigt haben.
+Nachdem Sie [einen Titel für prädiktive Inhalte genehmigt haben](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md), arbeiten Sie hier daran. Auf der Seite Predictive Content werden alle Titel angezeigt, die Sie für prädiktive Inhalte genehmigt haben.
 
 ![](assets/image2017-10-3-9-3a21-3a38.png)
 
 Zu den Seitenfeldern gehören:
 
 * **Bild und Titel**: Der Name des Inhaltselements und des ausgewählten Bildes
-* **Aktiviert nach Quelle**: Zeigt an, ob der Titel für Rich Media, E-Mail oder die Empfehlungsleiste genehmigt wurde.
+* **Aktiviert durch Source**: Zeigt an, ob der Titel für Rich Media, E-Mail oder die Empfehlungsleiste genehmigt wurde.
 * **Kategorien**: Erstellt von Ihnen und zur Gruppierung Ihrer prognostizierten Ergebnisse für Web oder E-Mail verwendet
-* **Klicks**: Klicks insgesamt auf empfohlene Inhalte (einschließlich aller Quellen)
+* **Klicks**: Gesamtzahl der Klicks auf empfohlene Inhalte (einschließlich aller Quellen)
 * **Konversionsrate**: Ein Prozentsatz, der durch direkte Konversionen dividiert durch Klicks berechnet wird. Bewegen Sie den Mauszeiger, um zusätzliche Daten anzuzeigen (siehe unten).
-* **Unterstützte Konversion**: Besucher, die bei einem früheren Besuch auf empfohlenen Inhalt geklickt und ein Formular später ausgefüllt haben
+* **Unterstützte Konversion**: Besucher, die während eines früheren Besuchs auf empfohlenen Inhalt geklickt und ein Formular später ausgefüllt haben
 
 ## Filtern von Inhalten {#filtering-content}
 
 **Kategorie**
 
-Sie können Inhalte nach von Ihnen erstellten Kategorien filtern. Klicken Sie auf das Filtersymbol und unter **Kategorie**, wählen Sie eine oder mehrere Inhaltskategorien aus.
+Sie können Inhalte nach von Ihnen erstellten Kategorien filtern. Klicken Sie auf das Filtersymbol und wählen Sie unter **Kategorie** eine oder mehrere Inhaltskategorien aus.
 
 ![](assets/image2017-10-3-9-3a24-3a38.png)
 
-**Quelle aktiviert**
+**Source aktiviert**
 
-Filtern Sie nach jedem Typ des aktivierten Inhalts: E-Mail, Rich-Media, Empfehlungsleiste.
+Filtern Sie nach jedem Typ des aktivierten Inhalts: E-Mail, Rich Media, Empfehlungsleiste.
 
 ![](assets/image2017-10-3-9-3a25-3a9.png)
 
-**Analytik nach Quelle**
+**Analytics by Source**
 
 Durch die Filterung der aktivierten Inhaltsanalyse können Sie die Leistung der einzelnen Quellen feststellen.
 
@@ -48,7 +48,7 @@ Durch die Filterung der aktivierten Inhaltsanalyse können Sie die Leistung der 
 
 ## Analyse nach Datum anzeigen {#display-analytics-by-date}
 
-1. Wählen Sie rechts das Start- und Enddatum aus (wie in der Abbildung dargestellt). Klicken **Anwenden**.
+1. Wählen Sie rechts das Start- und Enddatum aus (wie in der Abbildung dargestellt). Klicken Sie auf **Anwenden**.
 
    ![](assets/predictive-content-filter-by-date-hands.png)
 
@@ -66,8 +66,8 @@ Bewegen Sie den Mauszeiger über den Balken in der Spalte Konversionsrate , um K
 >
 >**Definitionen**
 >
->**Konversionsrate**: Prozentsatz berechnet durch direkte Konversionen dividiert durch Klicks
+>**Konversionsrate**: Ein Prozentsatz, der durch direkte Konversionen dividiert durch Klicks berechnet wird
 >
->**Direkte Konversion**: Besucher, die auf empfohlenen Inhalt geklickt und ein Formular im selben Besuch ausgefüllt haben
+>**Direkte Konversion**: Besucher, die auf empfohlenen Inhalt geklickt und im selben Besuch ein Formular ausgefüllt haben
 >
->**Angeklickt**: Klicks insgesamt auf empfohlene Inhalte (einschließlich aller drei Quellen)
+>**Klicks**: Gesamtzahl der Klicks auf empfohlene Inhalte (einschließlich aller drei Quellen)

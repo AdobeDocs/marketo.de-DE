@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Bericht-E-Mail, Leistung von Kampagnen über Arbeitsbereiche hinweg {#report-email-campaign-performance-across-workspaces}
 
-Aktivieren Sie die globale Berichterstellung , um Daten aus Ihrem gesamten Marketo einzubeziehen. [Arbeitsbereiche](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) in [E-Mail-Leistung](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) und [Leistung von E-Mail-Links](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) Berichte.
+Aktivieren Sie die globale Berichterstellung , um Daten aus allen Ihren Marketo [Arbeitsbereichen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) in die Berichte [E-Mail-Leistung](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) und [E-Mail-Link-Leistung](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) aufzunehmen.
 
-1. Navigieren Sie zu **Analytics** (oder **Marketingaktivitäten**).
+1. Wechseln Sie zum Bereich **Analytics** (oder **Marketingaktivitäten**).
 
    ![](assets/image2014-9-16-16-3a4-3a46.png)
 
@@ -23,15 +23,15 @@ Aktivieren Sie die globale Berichterstellung , um Daten aus Ihrem gesamten Marke
 
    ![](assets/image2014-9-16-16-3a4-3a51.png)
 
-1. Klicken Sie auf **Einrichtung** Registerkarte und Doppelklick **Globale Berichterstellung**.
+1. Klicken Sie auf die Registerkarte **Einrichtung** und doppelklicken Sie auf **Globale Berichterstellung**.
 
    ![](assets/image2014-9-16-16-3a4-3a58.png)
 
-1. Auswählen **Aktiviert**.
+1. Wählen Sie **Aktiviert** aus.
 
    ![](assets/image2014-9-16-16-3a5-3a4.png)
 
-1. Das ist alles! Klicken Sie auf **Bericht** um Daten aus allen Arbeitsbereichen anzuzeigen.
+1. Das ist alles! Klicken Sie auf die Registerkarte **Bericht** , um Daten aus allen Ihren Arbeitsbereichen anzuzeigen.
 
    ![](assets/image2014-9-16-16-3a5-3a8.png)
 

@@ -6,8 +6,8 @@ exl-id: 644c5b3b-852a-4dd9-8e55-b434505504ea
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '404'
-ht-degree: 12%
+source-wordcount: '405'
+ht-degree: 7%
 
 ---
 
@@ -17,19 +17,19 @@ Erstellen Sie eine Liste mit Organisations- und Domänennamen und laden Sie sie 
 
 >[!NOTE]
 >
->Dieser Artikel gilt nur für ältere Web-ABM-Kunden. Wenn Sie nach September 2016 Web ABM erworben haben, führen Sie die Schritte unter [diesem Artikel](https://docs.marketo.com/display/DOCS/Account+Lists#AccountLists-CreateaNewAccountList) anstatt.
+>Dieser Artikel gilt nur für ältere Web-ABM-Kunden. Wenn Sie nach September 2016 Web ABM erworben haben, führen Sie stattdessen die Schritte in [diesem Artikel](https://docs.marketo.com/display/DOCS/Account+Lists#AccountLists-CreateaNewAccountList) aus.
 
 ## Neue Kontoliste erstellen {#create-a-new-account-list-1}
 
-1. Navigieren Sie zu **Kontolisten**.
+1. Wechseln Sie zu **Kontolisten**.
 
    ![](assets/dropdown-account-lists-hand.jpg)
 
-1. Auswählen **Neu erstellen**.
+1. Wählen Sie **Neu erstellen** aus.
 
    ![](assets/create-new-account-list-hand.jpg)
 
-1. Auswählen **Durchsuchen** und laden Sie Ihre CSV-Datei hoch (stellen Sie sicher, dass die CSV-Datei die Kriterien erfüllt). Hinzufügen einer **Name** und **Beschreibung**. Klicken **Speichern**.
+1. Wählen Sie **Durchsuchen** aus und laden Sie Ihre CSV-Datei hoch (stellen Sie sicher, dass die CSV-Datei die Kriterien erfüllt). Fügen Sie einen **Namen** und eine **Beschreibung** hinzu. Klicken Sie auf **Speichern**.
 
    ![](assets/create-account-list-hands.jpg)
 
@@ -48,7 +48,7 @@ Erstellen Sie eine Liste mit Organisations- und Domänennamen und laden Sie sie 
 
    >[!NOTE]
    >
-   >**Beispiel einer CSV-Datei**
+   >**Beispiel der CSV-Datei**
    >
    >* Zeile 1 Spalte A Wert = Organisation
    >* Zeile 1 Spalte B Wert = Domäne
@@ -64,26 +64,26 @@ Erstellen Sie eine Liste mit Organisations- und Domänennamen und laden Sie sie 
 
 ## Bearbeiten einer Kontoliste {#edit-an-account-list}
 
-Im **Kontolisten** klicken Sie auf die **Bearbeiten** auf der Liste.
+Klicken Sie auf der Seite **Kontolisten** auf das Symbol **Bearbeiten** in der Liste.
 
 ![](assets/create-new-account-list-edit.jpg)
 
-Auswählen **Durchsuchen** und laden Sie Ihre neue CSV-Datei hoch. Diese Datei ersetzt die Originaldatei. Klicken **Speichern**. Die neu hochgeladene Datei befindet sich im Status &quot;Ausstehend&quot;, bis sie vom Marketo-Support genehmigt wurde. Sobald sich der Status &quot;Ausstehend&quot; befindet, bleibt die Originaldatei aktiv.
+Wählen Sie **Durchsuchen** aus und laden Sie Ihre neue CSV-Datei hoch. Diese Datei ersetzt die Originaldatei. Klicken Sie auf **Speichern**. Die neu hochgeladene Datei befindet sich im Status &quot;Ausstehend&quot;, bis sie vom Marketo-Support genehmigt wurde. Sobald sich der Status &quot;Ausstehend&quot; befindet, bleibt die Originaldatei aktiv.
 
 ![](assets/set-account-list-edit-hands.jpg)
 
-Die CSV-Datei wird die vorhandene Datei ersetzen. Die bestehende Liste wird aktiv bleiben, bis die Verarbeitung der neuen Datei abgeschlossen ist.
+Die CSV-Datei ersetzt die vorhandene Datei. Die vorhandene Liste bleibt aktiv, bis die Verarbeitung der neuen Datei abgeschlossen ist.
 
 ## Eine Liste mit benannten Konten löschen {#delete-a-named-account-list}
 
-1. Im **Kontolisten** auf das Symbol Löschen der Liste klicken, die Sie löschen möchten.
+1. Klicken Sie auf der Seite **Kontolisten** auf das Symbol Löschen der Liste, die Sie löschen möchten.
 
    ![](assets/create-new-account-list-delete.jpg)
 
-1. Es wird eine Meldung angezeigt, die bestätigt, ob Sie die Liste löschen möchten. Klicken **OK**.
+1. Es wird eine Meldung angezeigt, die bestätigt, ob Sie die Liste löschen möchten. Klicken Sie auf **OK**.
 
    ![](assets/delete-notification-hand.jpg)
 
 >[!MORELIKETHIS]
 >
->[Erstellen eines Segments mithilfe einer Kontoliste](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-segment-using-an-account-list.md)
+>[Erstellen eines Segments mit einer Kontoliste](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-segment-using-an-account-list.md)

@@ -23,7 +23,7 @@ Entschuldigung! Schlagt die Bremse! Dieses E-Mail-Programm sollte nicht ausgehen
 
    ![](assets/dashboardleads.jpg)
 
-1. Klicken **Abbruch** zur vollständigen Bestätigung.
+1. Klicken Sie zur vollständigen Bestätigung auf **Abbruch** .
 
    ![](assets/image2015-5-20-15-3a24-3a35.png)
 

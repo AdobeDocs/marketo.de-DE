@@ -19,9 +19,9 @@ Klicken Sie auf die Titel-Links, um detaillierte Artikel zu den einzelnen Funkti
 
 ## [LinkedIn Lead Gen Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
 
-[LinkedIn Lead Gen Forms](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) sind eine direktere Möglichkeit für ein Unternehmen, Lead-Generierungskampagnen in LinkedIn durchzuführen. Personen können Formulare ausfüllen, um ihr Interesse an einem Produkt oder Dienst zum Ausdruck zu bringen, sodass das Unternehmen die Details des Kontakts erfassen und mit Marketo synchronisieren kann, wo automatisierte Folgeprozesse und Lead-Routing-Aktivitäten stattfinden können.
+[LinkedIn Lead Gen Forms](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) ist eine direktere Möglichkeit für ein Unternehmen, Lead-Generierungskampagnen in LinkedIn durchzuführen. Personen können Formulare ausfüllen, um ihr Interesse an einem Produkt oder Dienst zum Ausdruck zu bringen, sodass das Unternehmen die Details des Kontakts erfassen und mit Marketo synchronisieren kann, wo automatisierte Folgeprozesse und Lead-Routing-Aktivitäten stattfinden können.
 
-Die Marketo-Integration mit LinkedIn Lead Gen Forms erfasst automatisch die Informationen, die ein Lead im Lead Gen-Formular bereitstellt. Folgenachrichten und Benachrichtigungen können dann mit der neuen automatisiert werden **Ausfüllen des LinkedIn Lead Gen-Formulars** Trigger und Filter.
+Die Marketo-Integration mit LinkedIn Lead Gen Forms erfasst automatisch die Informationen, die ein Lead im Lead Gen-Formular bereitstellt. Folgeaktionen und Benachrichtigungen können dann mit dem neuen Trigger **LinkedIn Lead Gen Form ausfüllen** automatisiert werden.
 
 ![](assets/release-notes-image.png)
 
@@ -89,7 +89,7 @@ Archivieren ist ein neuer Web-Kampagnenstatus, mit dem Sie Web-Kampagnen archivi
 
 **[Lokalisierung](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)**
 
-Web-Personalisierung wird jetzt in allen von Marketo unterstützten Sprachen angeboten (Englisch, Japanisch, Deutsch, Spanisch, Französisch und Portugiesisch).
+Web Personalization wird jetzt in allen von Marketo unterstützten Sprachen angeboten (Englisch, Japanisch, Deutsch, Spanisch, Französisch und Portugiesisch).
 
 ## Prädiktive Verbesserungen {#predictive-enhancements}
 

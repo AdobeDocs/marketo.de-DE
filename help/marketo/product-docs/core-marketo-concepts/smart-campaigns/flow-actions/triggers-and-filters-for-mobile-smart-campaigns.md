@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Sie können Trigger und Filter für eine App-Smart-Kampagne einrichten.
 
-Bei den meisten Aktivitäten gibt es einen Trigger, einen Filter und einen Inaktivitätsfilter. Verwenden Sie Inaktivitätsfilter, um eine Aktion zu verfolgen, z. B. Tippen auf eine Push-Benachrichtigung, dass _did&#39;t_ geschehen.
+Bei den meisten Aktivitäten gibt es einen Trigger, einen Filter und einen Inaktivitätsfilter. Verwenden Sie Inaktivitätsfilter, um eine Aktion zu verfolgen, z. B. Tippen auf eine Push-Benachrichtigung, wenn _nicht_ aufgetreten ist.
 
 * Die mobile App ist/wurde installiert
 * Mobile App ist/wurde geöffnet
@@ -39,15 +39,15 @@ Verwenden Sie Einschränkungen mit Triggern und Filtern, um die Daten weiter zu 
 
 Alle Trigger und Filter mit Ausnahme der Benachrichtigung über die gesendete Push-Benachrichtigung enthalten die folgenden beiden Standardeinschränkungen:
 
-* Gerätetyp - iPod, iPhone, iPhone 6 Plus, iPad mini, iPad, Android-Smartphone, Android-Tablet, Unbekannt (dies ist eine voreingestellte Liste)
+* Gerätetyp - iPod, iPhone, iPhone 6 Plus, iPad mini, iPad, Android Smartphone, Android Tablet, Unbekannt (dies ist eine voreingestellte Liste)
 
-* Plattform - iPhone oder Android
+* Platform - iPhone oder Android
 
 Einige Trigger und Filter bieten zusätzliche Einschränkungen wie:
 
 * App-Version - Eine Möglichkeit, Personen anzusprechen, die nicht auf der neuesten Version basieren. Wenn die neueste App-Version beispielsweise 2.0 ist, können Sie sie verwenden, um Personen zu finden, die NICHT auf App Version 2.0 zugreifen.
 
-* Quelle installieren - Derzeit ist die einzige Option die API
+* Source installieren - Derzeit ist die einzige Option die API
 
 * Gebietsschema - Die Einstellung auf dem Gerät
 
@@ -57,11 +57,11 @@ Einige Trigger und Filter bieten zusätzliche Einschränkungen wie:
 
 * Sitzungslänge (Sekunden) - Sitzungszeit, wenn sich die App im Vordergrund befindet
 
-* Ist Push aktiviert - **True** bedeutet, dass Push-Benachrichtigungen gesendet werden können. **False** bedeutet, dass dies nicht möglich ist. Beispielsweise hat sich die Person vom Erhalt von Push-Benachrichtigungen abgemeldet.
+* Ist Push-aktiviert - **True** bedeutet, dass Push-Benachrichtigungen gesendet werden können. **False** bedeutet, dass dies nicht möglich ist. Beispielsweise hat sich die Person vom Erhalt von Push-Benachrichtigungen abgemeldet.
 
 ## Trigger und Filter {#triggers-and-filters}
 
-**Hat eine mobile App**
+**Hat mobile App**
 
 Verwenden Sie diesen Filter, um alle Personen herauszufinden, die Ihre App jemals installiert haben. Dies ist nur als Filter verfügbar.
 
@@ -69,7 +69,7 @@ Verwenden Sie diesen Filter, um alle Personen herauszufinden, die Ihre App jemal
 >
 >Der Filter findet sowohl aktuelle als auch frühere Installationen, da Marketo App-Deinstallationen nicht verfolgt.
 
-**Einschränkungen** - Gerätetyp, Plattform, mobile App, Version der mobilen App, Gerätetyp, Installationsquelle, Ist Push-aktiviert und Gebietsschema
+**Einschränkungen** - Gerätetyp, Plattform, mobile App, Version der mobilen App, Gerätetyp, Source installieren, Ist Push aktiviert und Gebietsschema
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-3.png)
 
@@ -85,7 +85,7 @@ Die mobile App ist/wurde installiert
 
 * NOT Mobile App wurde installiert - Inaktivitätsfilter
 
-**Einschränkungen** - Gerätetyp, Plattform, App-Version, Gebietsschema und Installationsquelle
+**Einschränkungen** - Gerätetyp, Plattform, App-Version, Gebietsschema und Installation von Source
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-4.png)
 
@@ -103,7 +103,7 @@ Mobile App ist/wurde geöffnet
 
 Mobile App-Aktivität enthält/anzeigen
 
-Diese bieten eine leistungsstarke Möglichkeit, benutzerdefinierte mobile Aktivitäten zu verfolgen. Sie müssen mit Ihrem Entwickler zusammenarbeiten, um Tracking einzurichten. [für Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} und [für iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}.
+Diese bieten eine leistungsstarke Möglichkeit, benutzerdefinierte mobile Aktivitäten zu verfolgen. Sie müssen mit Ihrem Entwickler zusammenarbeiten, um das Tracking [für Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} und [für iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"} einzurichten.
 
 * Mobile App-Aktivität - Trigger
 
@@ -111,7 +111,7 @@ Diese bieten eine leistungsstarke Möglichkeit, benutzerdefinierte mobile Aktivi
 
 * NICHT über Mobile-App-Aktivität verfügen - Inaktivitätsfilter
 
-**Einschränkungen** - Gerätetyp, Plattform, Version der mobilen App, Gebietsschema, Plattformversion sowie fünf weitere:
+**Einschränkungen** - Gerätetyp, Plattform, Mobile App-Version, Gebietsschema, Plattformversion plus fünf weitere:
 
 * Aktion - Benutzerdefinierte mobile Aktivität
 
@@ -129,7 +129,7 @@ Mit den Aktionsbegrenzungen können Sie den Trigger und Filter sehr genau verwen
 >
 >**Beispiel**
 >
->Unter dem Aktionstyp von *Shopping*, hier eine sehr spezifische Aktion, mit den anderen Beschränkungen, die sie definieren:
+>Unter dem Aktionstyp *Shopping* finden Sie hier eine sehr spezifische Aktion, die durch die anderen Einschränkungen definiert wird:
 >
 >* Ein Hemd gekauft
 >   * Es war rot
@@ -152,7 +152,7 @@ So sieht der Filter in Marketo aus:
 >| Aktionsdetails | Farbe | Farbe |
 >| Aktionsmetrik | Preis | Preis |
 
-**Mobile App-Sitzung enthält/hatte**
+**Hat/hatte Mobile App-Sitzung**
 
 * Hat mobile App-Sitzung - Trigger
 
@@ -180,17 +180,17 @@ Tippen/Tippen-Push-Benachrichtigung
 >
 >Verwenden Sie den Filter Nicht getippte Push-Benachrichtigung , um Personen zu finden, die nicht auf eine Push-Benachrichtigung getippt haben, die ihnen kürzlich gesendet wurde. So können Sie per E-Mail Folgemaßnahmen durchführen.
 
-**wurde Push-Benachrichtigung gesendet** Diese Aktivität ist nur als Filter verfügbar.
+**Wurde Push-Benachrichtigung gesendet** Diese Aktivität ist nur als Filter verfügbar.
 
 * Wurde gesendet Push-Benachrichtigung - Filter
 
 * NOT WURDE Push-Benachrichtigung gesendet - Inaktivitätsfilter
 
-**Einschränkungen** - Push-Benachrichtigung und Mobile App
+**Einschränkungen** - Push-Benachrichtigung und mobile App
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-9.png)
 
 >[!MORELIKETHIS]
 >
->* [Eine Beschränkung zu einem Smart-Listenfilter hinzufügen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}
+>* [Eine Beschränkung zu einem Smart-List-Filter hinzufügen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}
 >* [Verwenden von Inaktivitätsfiltern in einer Smart-Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md){target="_blank"}

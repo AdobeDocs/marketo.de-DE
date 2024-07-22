@@ -17,7 +17,7 @@ Erfahren Sie, wie Sie Ihre Gruppen in Sales Connect verwalten.
 
 ## Erstellen einer Gruppe {#create-a-group}
 
-1. Klicken Sie auf der Seite &quot;Personen&quot;auf die **+** neben Gruppen.
+1. Klicken Sie auf der Seite &quot;Personen&quot;auf das Pluszeichen &quot;**+**&quot;neben Gruppen.
 
    ![](assets/one-4.png)
 
@@ -27,21 +27,21 @@ Erfahren Sie, wie Sie Ihre Gruppen in Sales Connect verwalten.
 
    Das ist es!
 
-## Hinzufügen von Kontakten zu einer Gruppe {#add-contacts-to-a-group}
+## Kontakte zu einer Gruppe hinzufügen {#add-contacts-to-a-group}
 
 1. Suchen und wählen Sie auf der Seite Personen die Gruppe aus, der Sie Personen hinzufügen möchten.
 
    ![](assets/three-3.png)
 
-1. Klicken **Gruppenaktionen** und wählen Sie **Kontakt erstellen**.
+1. Klicken Sie auf **Gruppenaktionen** und wählen Sie **Kontakt erstellen**.
 
    ![](assets/four-3.png)
 
    >[!NOTE]
    >
-   >Dadurch wird jeweils ein Kontakt hinzugefügt. Gehen Sie wie folgt vor, um mehrere Kontakte gleichzeitig hinzuzufügen: [diese Schritte](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md).
+   >Dadurch wird jeweils ein Kontakt hinzugefügt. Um mehrere Kontakte gleichzeitig hinzuzufügen, führen Sie [diese Schritte](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md) aus.
 
-1. Füllen Sie die Kontaktdaten aus und klicken Sie auf **Erstellen** (oder **Erstellen und Hinzufügen neuer** , um einen weiteren hinzuzufügen).
+1. Füllen Sie die Kontaktinformationen aus und klicken Sie auf **Erstellen** (oder auf **Erstellen und Hinzufügen von Neu** , um einen weiteren hinzuzufügen).
 
    ![](assets/five-3.png)
 
@@ -57,7 +57,7 @@ Erfahren Sie, wie Sie Ihre Gruppen in Sales Connect verwalten.
 
    ![](assets/six.png)
 
-1. Klicken Sie auf das Feld (drei vertikale Punkte) und wählen Sie **Freigeben**.
+1. Klicken Sie auf das Feld (drei vertikale Punkte) und wählen Sie **Freigabe** aus.
 
    ![](assets/seven.png)
 
@@ -65,11 +65,11 @@ Erfahren Sie, wie Sie Ihre Gruppen in Sales Connect verwalten.
 
    ![](assets/eight.png)
 
-1. Klicken **Freigeben**.
+1. Klicken Sie auf **Freigabe**.
 
    ![](assets/nine.png)
 
-   Sie sind weiterhin Eigentümer der Gruppe, aber sie wird jetzt unter Team Groups angezeigt.
+   Sie sind weiterhin der Eigentümer der Gruppe, aber sie wird jetzt unter &quot;Team Groups&quot;angezeigt.
 
 ## Aufheben der Freigabe einer Gruppe {#unshare-a-group}
 
@@ -77,11 +77,11 @@ Erfahren Sie, wie Sie Ihre Gruppen in Sales Connect verwalten.
 
    ![](assets/ten.png)
 
-1. Klicken Sie auf das Feld (drei vertikale Punkte) und wählen Sie **Freigeben**.
+1. Klicken Sie auf das Feld (drei vertikale Punkte) und wählen Sie **Freigabe** aus.
 
    ![](assets/eleven.png)
 
-1. Klicken Sie auf **X** neben dem Team, für das Sie die Gruppe freigegeben haben, klicken Sie dann aus dem Modal.
+1. Klicken Sie auf das **X** neben dem Team, für das Sie die Gruppe freigegeben haben, und klicken Sie dann aus dem Modal heraus.
 
    ![](assets/twelve.png)
 
@@ -93,7 +93,7 @@ Erfahren Sie, wie Sie Ihre Gruppen in Sales Connect verwalten.
 
    ![](assets/six.png)
 
-1. Klicken Sie auf das Feld (drei vertikale Punkte) und wählen Sie **Umbenennen**.
+1. Klicken Sie auf das Feld (drei vertikale Punkte) und wählen Sie **Umbenennen** aus.
 
    ![](assets/thirteen.png)
 
@@ -107,10 +107,10 @@ Erfahren Sie, wie Sie Ihre Gruppen in Sales Connect verwalten.
 
    ![](assets/fifteen.png)
 
-1. Klicken Sie auf das Feld (drei vertikale Punkte) und wählen Sie **Löschen**.
+1. Klicken Sie auf das Feld (drei vertikale Punkte) und wählen Sie **Löschen** aus.
 
    ![](assets/sixteen.png)
 
-1. Klicken **Löschen** zur Bestätigung.
+1. Klicken Sie zur Bestätigung auf **Löschen** .
 
    ![](assets/seventeen.png)

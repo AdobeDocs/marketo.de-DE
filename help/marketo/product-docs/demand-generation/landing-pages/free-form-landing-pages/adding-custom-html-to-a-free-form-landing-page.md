@@ -23,11 +23,11 @@ Sie können Landingpages benutzerdefinierte Skripte, CSS oder andere HTML hinzuf
 
    ![](assets/image2014-9-17-12-3a2-3a15.png)
 
-1. Ziehen Sie im Landingpage-Editor in den **HTML** -Element.
+1. Ziehen Sie im Landingpage-Editor das Element **HTML** .
 
    ![](assets/image2015-5-21-15-3a52-3a42.png)
 
-1. Geben Sie Ihren benutzerdefinierten HTML-Code ein und klicken Sie auf **Speichern**.
+1. Geben Sie Ihren benutzerspezifischen HTML-Code ein und klicken Sie auf **Speichern**.
 
    ![](assets/image2014-9-17-12-3a3-3a39.png)
 

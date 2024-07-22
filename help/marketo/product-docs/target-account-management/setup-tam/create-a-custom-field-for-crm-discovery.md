@@ -15,27 +15,27 @@ ht-degree: 0%
 
 Fügen Sie benutzerdefinierte Felder zu den Konten hinzu, ordnen Sie sie Ihrem CRM-System zu und verwenden Sie sie zur CRM-Kontoerkennung in Marketo.
 
-1. Klicks **Admin**.
+1. Klicken Sie auf **Admin**.
 
    ![](assets/admin.png)
 
-1. Klicks **Feldverwaltung**, dann **Neues benutzerdefiniertes Feld**.
+1. Klicken Sie auf **Feldverwaltung** und dann auf **Neues benutzerdefiniertes Feld**.
 
    ![](assets/two-4.png)
 
-1. Klicken Sie auf **Objekt** und wählen Sie **Benanntes Konto**.
+1. Klicken Sie auf die Dropdownliste **Objekt** und wählen Sie **Spezifisches Konto** aus.
 
    ![](assets/three-3.png)
 
-1. Klicken Sie auf **Typ** und wählen Sie einen Typ aus.
+1. Klicken Sie auf die Dropdownliste **Typ** und wählen Sie einen Typ aus.
 
    ![](assets/four-3.png)
 
-1. Geben Sie einen **Name** (Der API-Name wird automatisch ausgefüllt) und klicken Sie auf **Erstellen**.
+1. Geben Sie einen **Namen** ein (der API-Name wird automatisch ausgefüllt) und klicken Sie auf **Erstellen**.
 
    ![](assets/five-3.png)
 
-1. Nachdem das Feld erstellt wurde, wählen Sie es aus dem Baum auf der rechten Seite aus. Klicken Sie auf **Feldaktionen** und wählen Sie **Zu CRM-Feld zuordnen**.
+1. Nachdem das Feld erstellt wurde, wählen Sie es aus dem Baum auf der rechten Seite aus. Klicken Sie auf die Dropdownliste **Feldaktionen** und wählen Sie **Zu CRM-Feld zuordnen** aus.
 
    ![](assets/six-2.png)
 

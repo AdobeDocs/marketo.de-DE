@@ -15,17 +15,17 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Landingpage-Modi werden durch ihre Vorlage definiert. [Weitere Infos](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) über Vorlagen für freie und geführte Landingpages.
+>Landingpage-Modi werden durch ihre Vorlage definiert. [Erfahren Sie mehr](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) über Vorlagen für freie und geführte Landingpages.
 
 >[!PREREQUISITES]
 >
->Um eine benutzerdefinierte Vorlage zu verwenden, müssen Sie zunächst [Erstellen einer Vorlage für eine geführte Landingpage](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
+>Um eine benutzerdefinierte Vorlage zu verwenden, müssen Sie zunächst [eine Vorlage für eine geführte Landingpage erstellen](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
 
 ## Erstellen einer geführten Landingpage in einem Programm {#create-a-guided-landing-page-in-a-program}
 
 Geführte Landingpages können als lokale Assets eines Programms oder in Design Studio erstellt und global verwendet werden.
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Wechseln Sie zu **Marketingaktivitäten**.
 
    ![](assets/one-1.png)
 
@@ -33,33 +33,33 @@ Geführte Landingpages können als lokale Assets eines Programms oder in Design 
 
    ![](assets/image2015-5-26-9-3a24-3a2.png)
 
-1. Klicken Sie auf **Neu** angezeigt. Auswählen **Neues lokales Asset**.
+1. Klicken Sie auf das Dropdown-Menü **Neu** . Wählen Sie **Neues lokales Asset** aus.
 
    ![](assets/image2015-5-26-9-3a25-3a36.png)
 
-1. Auswählen **Landingpage**.
+1. Wählen Sie **Landingpage** aus.
 
    ![](assets/four.png)
 
-1. Benennen Sie Ihre Landingpage. Klicken Sie auf **Vorlage** und wählen Sie **Geführte Vorlage**.
+1. Benennen Sie Ihre Landingpage. Klicken Sie auf das Dropdown-Menü **Vorlage** und wählen Sie **Geführte Vorlage** aus.
 
    >[!NOTE]
    >
-   >Geführte Landingpage-Vorlagen enthalten die ![—](assets/image2015-5-26-9-3a26-3a51.png) neben ihnen. Geführte Vorlagen sind so strukturiert, dass sie vollständig responsiv bleiben können.
+   >Geführte Landingpage-Vorlagen haben neben ihnen das Symbol ![—](assets/image2015-5-26-9-3a26-3a51.png). Geführte Vorlagen sind so strukturiert, dass sie vollständig responsiv bleiben können.
 
    ![](assets/image2015-5-24-15-3a47-3a56.png)
 
 ## Erstellen einer Landingpage in Design Studio {#create-a-landing-page-in-design-studio}
 
-1. Navigieren Sie zu **Design Studio**.
+1. Wechseln Sie zu **Design Studio**.
 
    ![](assets/six.png)
 
-1. Klicken Sie auf **Neu** angezeigt. Auswählen **Neue Landingpage**.
+1. Klicken Sie auf das Dropdown-Menü **Neu** . Wählen Sie **Neue Landingpage** aus.
 
    ![](assets/seven.png)
 
-1. Benennen Sie Ihre Landingpage. Klicken Sie auf **Vorlage** und wählen Sie **Geführte Vorlage**.
+1. Benennen Sie Ihre Landingpage. Klicken Sie auf das Dropdown-Menü **Vorlage** und wählen Sie **Geführte Vorlage** aus.
 
    ![](assets/image2015-5-26-9-3a27-3a34.png)
 
@@ -69,6 +69,6 @@ Geführte Landingpages können als lokale Assets eines Programms oder in Design 
 
 >[!TIP]
 >
->Die URL wird automatisch aus den Namen des Programms und der Landingpage erstellt. Um die URL zu ändern, bearbeiten Sie die **Seiten-URL** -Feld.
+>Die URL wird automatisch aus den Namen des Programms und der Landingpage erstellt. Um die URL zu ändern, bearbeiten Sie das Feld **Seiten-URL** .
 >
->Löschen Sie die **Im Editor öffnen** aktivieren, wenn Sie nicht möchten, dass der Editor sofort geöffnet wird, nachdem Sie auf **Erstellen**.
+>Deaktivieren Sie das Kontrollkästchen **Im Editor öffnen** , wenn Sie nicht möchten, dass der Editor sofort nach Klicken auf **Erstellen** geöffnet wird.

@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich.**
+>**Erforderliche Administratorberechtigungen.**
 
 Sobald Sales Connect erworben wurde, wird eine neue Integrationsseite in Ihrer Marketo-Instanz angezeigt. Verwenden Sie diese Seite, um Ihren ersten Benutzer einzuladen und seine Sales Connect-Instanz bereitzustellen.
 
@@ -22,7 +22,7 @@ Sobald Sales Connect erworben wurde, wird eine neue Integrationsseite in Ihrer M
 
    ![](assets/accessing-your-new-sales-connect-instance-1.png)
 
-1. Klicken **Sales Connect**.
+1. Klicken Sie auf **Sales Connect**.
 
    ![](assets/accessing-your-new-sales-connect-instance-2.png)
 
@@ -34,4 +34,4 @@ Der Benutzer erhält eine E-Mail mit Schritten, um Zugriff auf das Sales Connect
 
 >[!NOTE]
 >
->Weitere Benutzer werden **not** über Marketo hinzugefügt und stattdessen über die User Management-Seite von Sales Connect hinzugefügt. [Hier klicken](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md) , um mehr über das Hinzufügen zusätzlicher Benutzer zu erfahren.
+>Zusätzliche Benutzer werden über Marketo **nicht** hinzugefügt und stattdessen über die User Management-Seite von Sales Connect hinzugefügt. [Klicken Sie hier](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md) , um mehr über das Hinzufügen zusätzlicher Benutzer zu erfahren.

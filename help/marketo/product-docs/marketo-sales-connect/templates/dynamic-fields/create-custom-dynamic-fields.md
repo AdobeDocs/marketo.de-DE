@@ -6,7 +6,7 @@ exl-id: 860511d2-4a8a-47a4-8362-ba4e715e44e9
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
@@ -19,19 +19,19 @@ Es gibt zwei Möglichkeiten, benutzerdefinierte dynamische Felder zu erstellen.
 
 1. Klicken Sie auf der Seite &quot;Personen&quot;auf den Namen eines Kontakts.
 
-1. Wählen Sie das Dropdown-Menü neben Abonnement kündigen aus und wählen Sie **Bearbeiten**.
+1. Wählen Sie das Dropdown-Menü neben Abmelden und danach **Bearbeiten** aus.
 
 1. Scrollen Sie nach unten zum unteren Rand der Bearbeitungsseite. Anschließend können Sie einen Namen und einen Wert für Ihr Feld erstellen.
 
-1. Klicken **Speichern**.
+1. Klicken Sie auf **Speichern**.
 
 ## Speichern benutzerdefinierter Felder für viele Kontakte {#saving-custom-fields-for-many-contacts}
 
 1. Erstellen Sie eine CSV-Tabelle mit Ihren benutzerdefinierten Feldern in ihrer eigenen Spalte.
 
-1. Befolgen Sie die [normaler CSV-Upload-Prozess](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md)auf dem Feld-Mapping-Bildschirm angehalten.
+1. Folgen Sie dem [normalen CSV-Upload-Prozess](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md) und beenden Sie ihn auf dem Bildschirm für die Feldzuordnung.
 
-1. Wählen Sie anstelle eines der voreingestellten Felder die Option **Neues benutzerdefiniertes Feld hinzufügen** aus der Dropdown-Liste aus.
+1. Wählen Sie anstelle eines der voreingestellten Felder **Neues benutzerdefiniertes Feld hinzufügen** aus der Dropdown-Liste aus.
 
 1. Geben Sie den gewünschten Feldnamen ein und klicken Sie auf **OK**.
 
@@ -45,8 +45,8 @@ Es gibt zwei Möglichkeiten, benutzerdefinierte dynamische Felder zu erstellen.
 
 Sobald Ihre benutzerdefinierten Felder mit den oben genannten Methoden gespeichert wurden, können Sie sie in Ihren Vorlagen referenzieren.
 
-1. [Erstellen einer Vorlage](/help/marketo/product-docs/marketo-sales-connect/templates/create-a-new-template.md) und klicken Sie auf **Dynamische Felder** -Schaltfläche, wie Sie es normalerweise tun würden.
+1. [Erstellen Sie eine Vorlage](/help/marketo/product-docs/marketo-sales-connect/templates/create-a-new-template.md) und klicken Sie wie gewohnt auf die Schaltfläche **Dynamische Felder** .
 
-1. Auswählen **Benutzerdefinierte Felder** aus der Dropdown-Liste, die angezeigt wird.
+1. Wählen Sie **Benutzerdefinierte Felder** aus der Dropdown-Liste, die angezeigt wird.
 
 1. Sie sehen Ihre vorab gespeicherten benutzerdefinierten Felder und können eines auswählen, um die Vorlage auszufüllen.

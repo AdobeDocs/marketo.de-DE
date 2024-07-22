@@ -7,13 +7,13 @@ feature: Users and Roles
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '295'
-ht-degree: 9%
+ht-degree: 3%
 
 ---
 
 # Erstellen, Löschen, Bearbeiten und Ändern von Benutzerrollen {#create-delete-edit-and-change-a-user-role}
 
-**Rollen** eine Reihe von Berechtigungen gruppieren. **Berechtigungen** erlaubt Ihnen, Dinge in Marketo zu erledigen. Sie weisen eine **Rolle** an einen Benutzer. Einfach pie.
+**Rollen** gruppieren eine Reihe von Berechtigungen. Mit **Berechtigungen** können Sie Aufgaben in Marketo ausführen. Sie weisen einem Benutzer eine **Rolle** zu. Einfach pie.
 
 >[!NOTE]
 >
@@ -24,40 +24,40 @@ ht-degree: 9%
 >Die folgenden Rollen sind Systemrollen und können nicht bearbeitet oder gelöscht werden:
 >
 >* Administrator
->* Adobe Product Admin
+>* Adobe-Produktadministrator
 >* Standardbenutzer
 >* RTP Editor
 >* RTP Launcher
 
 ## Rolle erstellen {#create-a-role}
 
-1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
+1. Wechseln Sie zum Bereich **[!UICONTROL Admin]** .
 
    ![](assets/create-delete-edit-and-change-a-user-role-1.png)
 
-1. Klicken **[!UICONTROL Benutzer und Rollen]**.
+1. Klicken Sie auf **[!UICONTROL Benutzer und Rollen]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-2.png)
 
-1. Navigieren Sie zu **[!UICONTROL Rollen]** Registerkarte und klicken Sie auf **[!UICONTROL Neue Rolle]**.
+1. Gehen Sie zur Registerkarte **[!UICONTROL Rollen]** und klicken Sie auf **[!UICONTROL Neue Rolle]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-3.png)
 
-1. Benennen Sie Ihre neue Rolle, aktivieren Sie alle Berechtigungen, die Sie Benutzern gewähren möchten, die mit der Rolle verknüpft sind, und klicken Sie auf **[!UICONTROL Erstellen]**.
+1. Benennen Sie Ihre neue Rolle, überprüfen Sie alle Berechtigungen, die Sie Benutzern gewähren möchten, die mit der Rolle verknüpft sind, und klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-4.png)
 
 ## Rolle löschen {#delete-a-role}
 
-1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
+1. Wechseln Sie zum Bereich **[!UICONTROL Admin]** .
 
    ![](assets/create-delete-edit-and-change-a-user-role-5.png)
 
-1. Klicken **[!UICONTROL Benutzer und Rollen]**.
+1. Klicken Sie auf **[!UICONTROL Benutzer und Rollen]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-6.png)
 
-1. Unter dem **[!UICONTROL Rollen]** Registerkarte eine Rolle auswählen und auf **[!UICONTROL Rolle löschen]**.
+1. Wählen Sie auf der Registerkarte **[!UICONTROL Rollen]** eine Rolle aus und klicken Sie auf **[!UICONTROL Rolle löschen]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-7.png)
 
@@ -75,15 +75,15 @@ ht-degree: 9%
 >
 >Um Ihre eigene Benutzerrolle zu bearbeiten, müssen Sie sich als ein anderer Benutzer mit Administratorrechten anmelden.
 
-1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
+1. Wechseln Sie zum Bereich **[!UICONTROL Admin]** .
 
    ![](assets/create-delete-edit-and-change-a-user-role-9.png)
 
-1. Klicken **[!UICONTROL Benutzer und Rollen]**.
+1. Klicken Sie auf **[!UICONTROL Benutzer und Rollen]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-10.png)
 
-1. Klicken Sie auf **[!UICONTROL Rollen]** Registerkarte.
+1. Klicken Sie auf die Registerkarte **[!UICONTROL Rollen]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-11.png)
 
@@ -101,15 +101,15 @@ ht-degree: 9%
 
    >[!TIP]
    >
-   >Möchten Sie die E-Mail-Adresse des Kontos aktualisieren? [Hier erfahren Sie mehr darüber](/help/marketo/product-docs/administration/settings/edit-account-settings.md).
+   >Möchten Sie die E-Mail-Adresse des Kontos aktualisieren? [Erfahren Sie, wie hier ](/help/marketo/product-docs/administration/settings/edit-account-settings.md).
 
 ## Ändern der Benutzerrolle {#change-a-users-role}
 
-1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
+1. Wechseln Sie zum Bereich **[!UICONTROL Admin]** .
 
    ![](assets/create-delete-edit-and-change-a-user-role-14.png)
 
-1. Klicken **[!UICONTROL Benutzer und Rollen]**.
+1. Klicken Sie auf **[!UICONTROL Benutzer und Rollen]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-15.png)
 

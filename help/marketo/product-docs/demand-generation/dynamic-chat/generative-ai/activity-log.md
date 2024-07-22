@@ -14,11 +14,11 @@ ht-degree: 7%
 
 Sehen Sie sich eine Liste aller Aufgaben und der zugehörigen Details an, einschließlich Name, Eigentümer, Typ und Zeitpunkt der Bearbeitung.
 
-1. Klicken Sie unter Generative KI auf **[!UICONTROL Unterstützte Antworten]**.
+1. Klicken Sie unter &quot;Generative KI&quot;auf **[!UICONTROL Assisted responses]**.
 
    ![](assets/activity-log-1.png)
 
-1. Klicken Sie auf **[!UICONTROL Aktivitätsprotokoll]** Registerkarte.
+1. Klicken Sie auf die Registerkarte **[!UICONTROL Aktivitätsprotokoll]** .
 
    ![](assets/activity-log-2.png)
 

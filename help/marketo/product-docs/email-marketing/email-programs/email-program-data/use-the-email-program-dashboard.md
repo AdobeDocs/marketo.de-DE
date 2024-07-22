@@ -17,11 +17,11 @@ In dieser Dashboard-Ansicht erfahren Sie, wie Ihre E-Mail-Programme funktioniere
 
 >[!CAUTION]
 >
->Für genaue Berichte vermeiden Sie _Wiederverwendung_ eine E-Mail aus einem E-Mail-Programm, entweder durch Referenzierung in einer Smart-Kampagne oder durch Verschieben des Assets aus dem gestarteten E-Mail-Programm in ein neues. Auf diese Weise werden alle Daten in jedem Bericht-Dashboard, das an diese E-Mail angehängt ist, aggregiert. Wenn Sie eine E-Mail wiederverwenden müssen, wenden Sie sich bitte an [Klonen](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} , da dadurch die E-Mail kopiert, aber eine neue mit einer neuen E-Mail-ID erstellt wird.
+>Vermeiden Sie für eine genaue Berichterstellung die _Wiederverwendung_ einer E-Mail aus einem E-Mail-Programm, indem Sie entweder in einer Smart-Kampagne darauf verweisen oder das Asset aus dem gestarteten E-Mail-Programm in ein neues verschieben. Auf diese Weise werden alle Daten in jedem Bericht-Dashboard, das an diese E-Mail angehängt ist, aggregiert. Wenn Sie eine E-Mail wiederverwenden müssen, klonen Sie sie stattdessen mit [1}, da diese die E-Mail kopiert, aber eine neue E-Mail-Adresse mit einer neuen ID erstellt.](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"}
 
 >[!NOTE]
 >
->Wenn Ihr Programm über einen A/B-Test verfügt, überprüfen Sie die [E-Mail-Programm-Dashboard - A/B-Testansicht](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md){target="_blank"}.
+>Wenn Ihr Programm über einen A/B-Test verfügt, sehen Sie sich das [E-Mail-Programm-Dashboard - A/B-Testansicht](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md){target="_blank"} an.
 
 ![](assets/image2014-9-12-14-3a12-3a56.png)
 
@@ -51,7 +51,7 @@ Diese Grafik zeigt die Anzahl der geöffneten/angeklickten E-Mails während eine
 
 ## Zusammenfassung - Interaktion {#summary-engagement}
 
-Dies zeigt Ihnen die Gesamtübersicht [Interaktionswert](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md){target="_blank"}.
+Dies zeigt Ihnen die Gesamtpunktzahl [Interaktion](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md){target="_blank"}.
 
 ![](assets/image2014-9-12-14-3a13-3a11.png)
 
@@ -63,7 +63,7 @@ Der Rest der Daten zeigt Öffnungen, Klicks, Klick-/Öffnungsverhältnis und Abm
 
 >[!TIP]
 >
->Die **Abmelden** Die im obigen Beispiel angegebene Rate war so klein, dass Marketo einzoomte, um Ihnen einen besseren Einblick zu geben. Die zweite Zahl innerhalb der Leiste wird lediglich als Skalierungswert hinzugefügt.
+>Die **Abmelderate** -Rate im obigen Beispiel war so klein, dass Marketo hineingezoomt wurde, um Ihnen einen besseren Einblick zu geben. Die zweite Zahl innerhalb der Leiste wird lediglich als Skalierungswert hinzugefügt.
 
 >[!NOTE]
 >
@@ -71,7 +71,7 @@ Der Rest der Daten zeigt Öffnungen, Klicks, Klick-/Öffnungsverhältnis und Abm
 >
 >**Öffnungen** werden gezählt, wenn der E-Mail-Empfänger die E-Mail-Bilder herunterlädt, die ein von Marketo eingefügtes Tracking-Pixel enthalten. Wenn der Empfänger die E-Mail anzeigt, aber keine Bilder herunterlädt, zählt dies nicht als Öffnung. Wenn die Bilder im Vorschaufenster des Empfängers geladen werden, zählt dies normalerweise als Öffnung, doch variiert dies je nach E-Mail-Client.
 >
->**Zum Öffnen klicken** misst den Prozentsatz der E-Mails, die sowohl geöffnet als auch in der E-Mail auf einen Link geklickt wurden. Wir nehmen die Anzahl der Einzelklicks dividiert durch die Anzahl der Einzelöffnungen und multiplizieren sie dann mit 100, um sie als Prozentsatz anzuzeigen.
+>**Click to Open** misst den Prozentsatz der E-Mails, die sowohl geöffnet als auch in der E-Mail auf einen Link geklickt wurden. Wir nehmen die Anzahl der Einzelklicks dividiert durch die Anzahl der Einzelöffnungen und multiplizieren sie dann mit 100, um sie als Prozentsatz anzuzeigen.
 
 ## Dashboard aktualisieren {#refresh-dashboard}
 

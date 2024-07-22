@@ -1,8 +1,8 @@
 ---
 description: Registerkarte "Interaktionszuordnung"- Marketo-Dokumente - Produktdokumentation
 title: Registerkarte "Interaktionskarte"
-exl-id: f54b9258-451b-4607-b5a9-f8627c6f420a
-source-git-commit: 4ada58abaed493e548573e9c48c3ee544b6f4476
+exl-id: 8c4d076a-d8aa-44ff-b538-ca6a6778697a
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
 source-wordcount: '949'
 ht-degree: 0%
@@ -42,7 +42,7 @@ Flussschritte: Wenn ein Flussschritt Optionen enthält, wird auf dieser Karte de
 * Liste der Auswahlbedingungen für den Flussschritt
 * Flussschritt bearbeiten
 
-Flussschritte: Wenn ein Flussschritt _not_ eine beliebige Auswahl enthalten, zeigt diese Karte die mit dem Flussschritt verknüpften Attribute an. Wenn Sie darauf klicken, wird ein Slide-out-Bedienfeld mit den folgenden Informationen angezeigt:
+Flussschritte: Wenn ein Flussschritt _keine_ Optionen enthält, werden auf dieser Karte die dem Flussschritt zugeordneten Attribute angezeigt. Wenn Sie darauf klicken, wird ein Slide-out-Bedienfeld mit den folgenden Informationen angezeigt:
 
 * Kampagne, zu der der Flussschritt gehört
 * Liste der dem Flussschritt zugeordneten Attribute
@@ -69,7 +69,7 @@ Flussschritte: Wenn ein Flussschritt _not_ eine beliebige Auswahl enthalten, zei
    * Liste der Auswahlbedingungen für den Flussschritt
    * Flussschritt bearbeiten
 
-* Wenn eine Ausführen- oder Anforderungskampagne Optionen enthält, wird das Klicken auf die Flusskarte erweitert, um alle Optionen in einzelnen Karten anzuzeigen. Klicken Sie auf die _choice_ -Karte die mit der jeweiligen Auswahl verknüpfte Kampagne erweitern und ein Slide-out-Bedienfeld mit den folgenden Informationen anzeigen:
+* Wenn eine Ausführen- oder Anforderungskampagne Optionen enthält, wird das Klicken auf die Flusskarte erweitert, um alle Optionen in einzelnen Karten anzuzeigen. Wenn Sie auf die Karte _choice_ klicken, wird die mit der jeweiligen Auswahl verknüpfte Kampagne erweitert und ein Slide-out-Bedienfeld mit den folgenden Informationen angezeigt:
 
    * Kampagne, zu der die Auswahl gehört
    * Auswahl bearbeiten

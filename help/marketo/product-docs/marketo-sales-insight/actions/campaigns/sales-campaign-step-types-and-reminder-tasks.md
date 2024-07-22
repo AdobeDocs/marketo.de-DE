@@ -5,8 +5,8 @@ exl-id: 41b19452-ba1a-4ca7-bf22-29314072a346
 feature: Sales Insight Actions
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '317'
-ht-degree: 4%
+source-wordcount: '318'
+ht-degree: 1%
 
 ---
 
@@ -24,7 +24,7 @@ Erstellen Sie eine neue E-Mail oder verwenden Sie eine bereits vorhandene Vorlag
 
 ![](assets/sales-campaign-step-types-and-reminder-tasks-2.png)
 
-| **Eine Vorlage verwenden** | Wählen Sie eine Ihrer bereits existierenden Vorlagen aus |
+| **Verwenden einer Vorlage** | Wählen Sie eine Ihrer bereits existierenden Vorlagen aus |
 |---|---|
 | **Als Vorlage speichern** | Speichern Sie die gerade erstellte E-Mail als neue Vorlage |
 | **Inhalt hinzufügen** | Laden Sie eine Datei auf unseren Server hoch und erhalten Sie eine URL (die auf den Inhalt verweist), die in Ihrer E-Mail verfolgt werden kann. |
@@ -32,7 +32,7 @@ Erstellen Sie eine neue E-Mail oder verwenden Sie eine bereits vorhandene Vorlag
 
 >[!TIP]
 >
->Informationen zu Ihren [Versandoptionen](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md){target="_blank"}.
+>Erfahren Sie mehr über Ihre [Versandoptionen](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md){target="_blank"}.
 
 ### Anruf {#call}
 

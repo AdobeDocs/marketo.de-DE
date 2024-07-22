@@ -6,7 +6,7 @@ exl-id: 94f7a9e5-86ea-4bb4-9d78-96a09c61321d
 feature: Salesforce Integration
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
@@ -25,11 +25,11 @@ Wenn Sie ein Feld &quot;Konto&quot;für einen Kontakt in Marketo aktualisieren, 
 
 ## Kann ein Kontakt mehreren Konten angehören?  {#can-a-contact-belong-to-multiple-accounts}
 
-Nein. Ein Konto kann viele Kontakte haben, ein Kontakt kann nur ein Konto haben.
+Anz. Ein Konto kann viele Kontakte haben, ein Kontakt kann nur ein Konto haben.
 
 ## Kann ich Konten aus Marketo erstellen? {#can-i-create-accounts-from-marketo}
 
-Meistens nein. Wenn Sie jedoch die [Person konvertieren](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md){target="_blank"} einen Schritt auf eine Person zu verschieben, wird ein neuer Kontakt, ein neues Konto und eine neue Chance erstellt.
+Meistens nein. Wenn Sie jedoch den Schritt [Person konvertieren](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md){target="_blank"} für eine Person verwenden, werden ein neuer Kontakt, ein neues Konto und eine neue Chance erstellt.
 
 >[!CAUTION]
 >

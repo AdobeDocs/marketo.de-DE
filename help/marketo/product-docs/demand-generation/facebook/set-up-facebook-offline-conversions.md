@@ -6,8 +6,8 @@ exl-id: e1974943-8fc8-41f6-be7e-1b594de13db6
 feature: Integrations
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '331'
-ht-degree: 5%
+source-wordcount: '310'
+ht-degree: 2%
 
 ---
 
@@ -17,46 +17,46 @@ Durch das Zurücksenden von Offline-Konversionsdaten an Facebook für Personen, 
 
 >[!PREREQUISITES]
 >
->* Sie müssen [Einrichten von Facebook Lead Ads](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
->* Sie müssen über ein genehmigtes Modell in [Modell für Umsatzzyklen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md).
+>* Sie müssen [Facebook Lead Ads einrichten](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
+>* Sie müssen über ein genehmigtes Modell in [Umsatzzyklus-Modeler](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md) verfügen.
 
 ## Administratorkonfiguration {#admin-configuration}
 
-1. Navigieren zu Marketo **Admin**.
+1. Navigieren Sie zu Marketo **Admin**.
 
    ![](assets/image2016-11-29-13-3a8-3a45.png)
 
-1. Navigieren Sie zu **LaunchPoint** und doppelklicken Sie auf den zuvor erstellten Facebook Lead Ads-Dienst.
+1. Wechseln Sie zu **LaunchPoint** und doppelklicken Sie auf den zuvor erstellten Facebook Lead Ads-Dienst.
 
    >[!NOTE]
    >
-   >Wenn Sie das nicht getan haben, fahren Sie fort und [Einrichten von Facebook-Lead-Anzeigen](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md), dann kommen Sie zurück hierher.
+   >Wenn Sie dies nicht getan haben, fahren Sie mit [Einrichten von Facebook Lead Ads](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) fort und kehren Sie hierher zurück.
 
    ![](assets/image2016-11-29-13-3a10-3a43.png)
 
-1. Bearbeiten Sie bei Bedarf die **Anzeigename** , um Offline-Konversionen einzuschließen. Klicks **Nächste**.
+1. Bearbeiten Sie bei Bedarf den **Anzeigenamen**, um Offline-Konversionen einzuschließen. Klicken Sie auf **Weiter**.
 
    ![](assets/image2016-11-29-13-3a12-3a19.png)
 
-1. Überprüfen **Offline-Konvertierungen aktivieren** und klicken **Nächste**.
+1. Aktivieren Sie die Option **Offline-Konversionen aktivieren** und klicken Sie auf **Weiter**.
 
    ![](assets/image2016-11-29-13-3a13-3a32.png)
 
-1. Klicks **Nächste**.
+1. Klicken Sie auf **Weiter**.
 
    ![](assets/image2016-11-29-13-3a14-3a17.png)
 
-1. Klicks **Speichern**.
+1. Klicken Sie auf **Speichern**.
 
    ![](assets/image2016-11-29-13-3a14-3a52.png)
 
-   Süß! Sie haben die Aktivierung der Facebook-Offline-Konversionen auf halbem Wege abgeschlossen. Wechseln wir zum Modell &quot;Umsatzzyklus&quot;, um die Bühnen zuzuordnen.
+   Süß! Sie haben die Aktivierung der Facebook-Offline-Konversionen auf halbem Wege abgeschlossen. Wechseln wir zum Modeler für den Umsatzzyklus, um die Bühnen zuzuordnen.
 
    ![](assets/image2016-11-29-13-3a16-3a55.png)
 
-## Konfiguration des Umsatzzyklusmodells {#revenue-cycle-modeler-configuration}
+## Modeler-Konfiguration für Umsatzzyklus {#revenue-cycle-modeler-configuration}
 
-1. Navigieren Sie zu **Analytics**.
+1. Wechseln Sie zu **Analytics**.
 
    ![](assets/image2016-11-29-13-3a29-3a23.png)
 
@@ -68,18 +68,18 @@ Durch das Zurücksenden von Offline-Konversionsdaten an Facebook für Personen, 
    >
    >Derzeit gibt es 10 Facebook-Ereignisse, denen Sie Umsatzzyklusschritte zuordnen können:
    >
-   >* Informationen zur Zahlungsmethode
-   >* Zum Warenkorb hinzufügen
+   >* Hinzufügung von Zahlungsinformationen
+   >* Zum Warenkorb hinzugefügt
    >* Fügt der Wunschliste hinzu
-   >* Registrierung abgeschlossen
-   >* Abmelden eingeleitet
+   >* Abgeschlossene Registrierungen
+   >* Checkouts initiiert
    >* Person
    >* Andere
    >* Kauf
    >* Suchvorgänge
    >* Inhaltsanzeigen
 
-1. Wählen Sie die Bühne aus, die Sie zuordnen möchten, und wählen Sie dann im **Facebook-Konversion** Wählen Sie in der Dropdown-Liste das Facebook-Ereignis aus, dem Sie es zuordnen möchten. Wiederholen Sie diesen Schritt, um alle Phasen in Ihrem RCM Offline-Konversionsphasen in Facebook zuzuordnen.
+1. Wählen Sie die Bühne aus, die Sie zuordnen möchten, und wählen Sie dann aus der Dropdownliste **Facebook-Konversion** das Facebook-Ereignis aus, dem Sie es zuordnen möchten. Wiederholen Sie diesen Schritt, um alle Phasen in Ihrem RCM Offline-Konversionsphasen in Facebook zuzuordnen.
 
    ![](assets/1-1.png)
 
@@ -95,7 +95,7 @@ Durch das Zurücksenden von Offline-Konversionsdaten an Facebook für Personen, 
 
    >[!CAUTION]
    >
-   >Überprüfen Sie Ihr Facebook-Konto und stellen Sie sicher, dass alle [Anzeigen sind zugeordnet](https://www.facebook.com/business/url/?href=%2Fbusiness%2Fhelp%2Fwww%2F1776828022605281&amp;cmsid&amp;creative=link&amp;creative_detail=advertiser-help-center&amp;create_type&amp;destination_cms_id&amp;orig_http_referrer) zum Marketo-Ereignis &quot;Offline-Konversionen&quot;hinzu. Ist dies nicht der Fall, funktioniert die Anzeigenzuordnung möglicherweise nicht.
+   >Überprüfen Sie Ihr Facebook-Konto und stellen Sie sicher, dass alle [Anzeigen](https://www.facebook.com/business/url/?href=%2Fbusiness%2Fhelp%2Fwww%2F1776828022605281&amp;cmsid&amp;creative=link&amp;creative_detail=advertiser-help-center&amp;create_type&amp;destination_cms_id&amp;orig_http_referrer) mit dem Marketo-Ereignis &quot;Offline-Konversionen&quot;verknüpft sind. Ist dies nicht der Fall, funktioniert die Anzeigenzuordnung möglicherweise nicht.
 
    >[!NOTE]
    >
@@ -103,4 +103,4 @@ Durch das Zurücksenden von Offline-Konversionsdaten an Facebook für Personen, 
 
 >[!MORELIKETHIS]
 >
->[Grundlegendes zu Offline-Konversionen in Facebook](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)
+>[Offline-Konversionen von Facebook verstehen](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)

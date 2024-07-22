@@ -26,15 +26,15 @@ Marketo Sales speichert ein Cookie in Ihrem Browser, um zu verhindern, dass Ansi
 
 Ansichten werden verfolgt, indem Sie ein kleines unsichtbares Bildpixel in Ihren E-Mail-Client herunterladen. Sie können die Anzahl der Selbstansichten in Outlook erheblich verringern, indem Sie Bilder deaktivieren, die automatisch heruntergeladen werden. Im Folgenden werden die Schritte beschrieben.
 
-1. Klicken Sie in Outlook auf **Datei** in der Menüleiste.
+1. Klicken Sie in Outlook in der Menüleiste auf **Datei** .
 
    ![](assets/how-do-i-prevent-self-views-1.png)
 
-1. Klicken **Optionen**.
+1. Klicken Sie auf **Optionen**.
 
    ![](assets/how-do-i-prevent-self-views-2.png)
 
-1. Klicken Sie im Dialogfeld &quot;Outlook Options&quot;auf **Vertrauenscenter**.
+1. Klicken Sie im Dialogfeld &quot;Outlook Options&quot;auf **Trust Center**.
 
    ![](assets/how-do-i-prevent-self-views-3.png)
 
@@ -42,15 +42,15 @@ Ansichten werden verfolgt, indem Sie ein kleines unsichtbares Bildpixel in Ihren
 
    ![](assets/how-do-i-prevent-self-views-4.png)
 
-1. Klicken Sie im Menü auf der linken Seite auf Automatischer Download und wählen Sie die **Herunterladen von Bildern nicht automatisch in HTML-E-Mail- oder RSS-Elementen** aktivieren.
+1. Klicken Sie links im Menü auf &quot;Automatisch herunterladen&quot;und aktivieren Sie das Kontrollkästchen **Nicht automatisch Bilder in HTML-E-Mail oder RSS-Elemente herunterladen** .
 
    ![](assets/how-do-i-prevent-self-views-5.png)
 
-1. Klicken **OK** im Dialogfeld &quot;Sicherheitscenter&quot;angezeigt.
+1. Klicken Sie im Dialogfeld &quot;Trust Center&quot;auf **OK**.
 
    ![](assets/how-do-i-prevent-self-views-6.png)
 
-1. Klicken **OK** im Dialogfeld &quot;Outlook Options&quot;.
+1. Klicken Sie im Dialogfeld &quot;Outlook Options&quot;auf **OK**.
 
    ![](assets/how-do-i-prevent-self-views-7.png)
 
@@ -58,14 +58,14 @@ Ansichten werden verfolgt, indem Sie ein kleines unsichtbares Bildpixel in Ihren
 
 Ansichten werden verfolgt, indem Sie ein kleines unsichtbares Bildpixel in Ihren E-Mail-Client herunterladen. Sie können die Anzahl der Selbstansichten in Outlook erheblich verringern, indem Sie Bilder deaktivieren, die automatisch heruntergeladen werden. Im Folgenden werden die Schritte beschrieben.
 
-1. Klicken Sie in Outlook auf **Outlook** in der Menüleiste und wählen Sie **Voreinstellungen**.
+1. Klicken Sie in Outlook in der Menüleiste auf **Outlook** und wählen Sie **Voreinstellungen** aus.
 
    ![](assets/how-do-i-prevent-self-views-8.png)
 
-1. Wählen Sie unter E-Mail die Option **Lesen**.
+1. Wählen Sie unter &quot;E-Mail&quot;die Option **Lesen**.
 
    ![](assets/how-do-i-prevent-self-views-9.png)
 
-1. Klicken Sie unter &quot;Security&quot;auf die **Nie** Optionsfeld.
+1. Klicken Sie unter &quot;Sicherheit&quot;auf das Optionsfeld **Nie** .
 
    ![](assets/how-do-i-prevent-self-views-10.png)

@@ -26,16 +26,16 @@ Nachdem Sie mit Ihrem IT-Team bestätigt haben, dass der CNAME ordnungsgemäß k
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich.**
+>**Erforderliche Administratorberechtigungen.**
 
-1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen**.
+1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
 
    ![](assets/how-to-set-up-custom-domain-tracking-1.png)
 
-1. Wählen Sie unter Admin Settings die Option **Tracking**.
+1. Wählen Sie unter &quot;Admin Settings&quot;die Option **Tracking**.
 
    ![](assets/how-to-set-up-custom-domain-tracking-2.png)
 
-1. Geben Sie auf der Registerkarte Benutzerdefiniertes Domänentracking Ihren CNAME ein und klicken Sie auf **Verbinden**.
+1. Geben Sie auf der Registerkarte &quot;Verfolgung benutzerdefinierter Domänen&quot;Ihren CNAME ein und klicken Sie auf **Verbinden**.
 
    ![](assets/how-to-set-up-custom-domain-tracking-3.png)

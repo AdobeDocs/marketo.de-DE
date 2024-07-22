@@ -17,21 +17,21 @@ Es ist einfach, Änderungen an Ihren vorhandenen Segmenten vorzunehmen. Hier ist
 
 ## Erstellen eines Segmentierungsentwurfs {#create-a-segmentation-draft}
 
-1. Navigieren Sie zu **Datenbank**.
+1. Wechseln Sie zur **Datenbank**.
 
    ![](assets/db.png)
 
-1. Klicken Sie in Ihrer Segmentierung auf **Segmentierungsaktionen** und dann **Entwurf erstellen**.
+1. Klicken Sie in Ihrer Segmentierung auf **Segmentierungsaktionen** und dann auf **Entwurf erstellen**.
 
    ![](assets/two.png)
 
-1. Die **Status** ändert sich in Mit Entwurf genehmigt . A **Entwurf** -Ordner in Ihrer Segmentierung erstellt.
+1. Der **Status** ändert sich in Mit Entwurf genehmigt . In Ihrer Segmentierung wird der Ordner **Entwurf** erstellt.
 
    ![](assets/three.png)
 
 ## Segmente hinzufügen, bearbeiten oder löschen {#add-edit-or-delete-segments}
 
-1. Klicken Sie in Ihrer Segmentierung auf **Segmentierungsaktionen** und dann **Segmente bearbeiten**.
+1. Klicken Sie in Ihrer Segmentierung auf **Segmentierungsaktionen** und dann auf **Segmente bearbeiten**.
 
    ![](assets/four.png)
 
@@ -39,7 +39,7 @@ Es ist einfach, Änderungen an Ihren vorhandenen Segmenten vorzunehmen. Hier ist
    >
    >Sie können nur Segmente eines Entwurfs bearbeiten, nicht die genehmigte Segmentierung.
 
-1. **Segment hinzufügen**, **Bearbeiten** vorhanden (Umbenennen oder Ändern der Reihenfolge) oder **Löschen** alle Segmente.
+1. **Segment hinzufügen**, **Bearbeiten** vorhandenes (Umbenennen oder Ändern der Reihenfolge) oder **Löschen** aller Segmente.
 
    ![](assets/image2014-9-16-9-3a6-3a9.png)
 
@@ -49,11 +49,11 @@ Es ist einfach, Änderungen an Ihren vorhandenen Segmenten vorzunehmen. Hier ist
 
    >[!CAUTION]
    >
-   >Das Löschen wirkt sich auf alle verknüpften dynamischen Inhalte in E-Mails, Landingpages und Snippets aus. **Es gibt kein Rückgängigmachen**. Überprüfen Sie die **Verwendet von** , um zu sehen, was dieses Segment verwendet.
+   >Das Löschen wirkt sich auf alle verknüpften dynamischen Inhalte in E-Mails, Landingpages und Snippets aus. **Es gibt kein Rückgängigmachen**. Überprüfen Sie die Registerkarte **Verwendet von** , um zu sehen, welche Anwendungen dieses Segment verwendet.
 
 ## Segmentregeln bearbeiten {#edit-segment-rules}
 
-1. In Ihrem Entwurf **Segment**, gehen Sie zu **Smart List**. Anwenden von Regeln, die [Definieren von Segmentregeln](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md).
+1. Wechseln Sie in Ihrem Entwurf **Segment** zu **Smart List**. Wenden Sie Regeln an, die dem [Definieren von Segmentregeln](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md) ähneln.
 
    ![](assets/image2014-9-16-9-3a6-3a20.png)
 

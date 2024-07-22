@@ -6,8 +6,8 @@ exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 feature: Salesforce Integration
 source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '416'
-ht-degree: 4%
+source-wordcount: '428'
+ht-degree: 6%
 
 ---
 
@@ -19,17 +19,17 @@ ht-degree: 4%
 
 >[!PREREQUISITES]
 >
->[Schritt 1 von 3: Hinzufügen von Marketo-Feldern zu Salesforce (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md){target="_blank"}
+>[Schritt 1 von 3: Marketo-Felder zu Salesforce hinzufügen (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md){target="_blank"}
 
 In diesem Artikel richten Sie Benutzerberechtigungen im Salesforce-Profil ein und erstellen ein Marketo-Salesforce-Integrationskonto.
 
 ## Profil erstellen {#create-a-profile}
 
-1. Klicks **[!UICONTROL Einrichtung]**.
+1. Klicken Sie auf **[!UICONTROL Einrichten]**.
 
    ![](assets/image2015-6-11-16-3a15-3a27.png)
 
-1. Geben Sie &quot;profiles&quot;in die Navigationssuchleiste ein und klicken Sie auf **[!UICONTROL Profile]** -Link.
+1. Geben Sie &quot;profiles&quot;in die Navigationssuchleiste ein und klicken Sie auf den Link **[!UICONTROL Profile]** .
 
    ![](assets/sfdc-profiles-hands.png)
 
@@ -37,17 +37,17 @@ In diesem Artikel richten Sie Benutzerberechtigungen im Salesforce-Profil ein un
 
    ![](assets/image2014-12-9-9-3a19-3a15.png)
 
-1. Auswählen **[!UICONTROL Standardbenutzer]**, benennen Sie das Profil &quot;Marketo-Salesforce Sync&quot;und klicken Sie auf **[!UICONTROL Speichern]**.
+1. Wählen Sie **[!UICONTROL Standardbenutzer]** aus, geben Sie dem Profil den Namen &quot;Marketo-Salesforce-Synchronisation&quot;und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/image2014-12-9-9-3a19-3a22.png)
 
 ## Profilberechtigungen festlegen {#set-profile-permissions}
 
-1. Klicks **[!UICONTROL Bearbeiten]** , um die Sicherheitsberechtigungen festzulegen.
+1. Klicken Sie auf **[!UICONTROL Bearbeiten]** , um die Sicherheitsberechtigungen festzulegen.
 
    ![](assets/image2014-12-9-9-3a19-3a30.png)
 
-1. Unter dem **[!UICONTROL Administratorberechtigungen]** müssen Sie sicherstellen, dass die folgenden Kästchen aktiviert sind:
+1. Stellen Sie im Abschnitt **[!UICONTROL Administratorberechtigungen]** sicher, dass die folgenden Kontrollkästchen aktiviert sind:
 
    * API aktiviert
    * HTML-Vorlagen bearbeiten
@@ -58,7 +58,7 @@ In diesem Artikel richten Sie Benutzerberechtigungen im Salesforce-Profil ein un
 
    >[!TIP]
    >
-   >Überprüfen Sie unbedingt die **[!UICONTROL Kennwort läuft nie ab]** ankreuzen.
+   >Stellen Sie sicher, dass Sie das Kontrollkästchen **[!UICONTROL Kennwort läuft nie ab]** aktivieren.
 
 1. Stellen Sie im Abschnitt &quot;Allgemeine Benutzerberechtigungen&quot;sicher, dass die folgenden Kontrollkästchen aktiviert sind:
 
@@ -82,7 +82,7 @@ In diesem Artikel richten Sie Benutzerberechtigungen im Salesforce-Profil ein un
 
    ![](assets/image2014-12-9-9-3a19-3a57.png)
 
-1. Klicken Sie abschließend auf **[!UICONTROL Speichern]** unten auf der Seite.
+1. Klicken Sie abschließend unten auf der Seite auf **[!UICONTROL Speichern]** .
 
    ![](assets/image2014-12-9-9-3a20-3a5.png)
 
@@ -94,7 +94,7 @@ In diesem Artikel richten Sie Benutzerberechtigungen im Salesforce-Profil ein un
    >
    >Dadurch wird verhindert, dass nicht benötigte Felder in Marketo angezeigt werden, was die Übersichtlichkeit verringert und die Synchronisierung beschleunigt.
 
-1. Gehen Sie auf der Seite mit den Profildetails zu **[!UICONTROL Sicherheit auf Feldebene]** Abschnitt. Klicks **[!UICONTROL Ansicht]** So bearbeiten Sie die Barrierefreiheit für die Objekte:
+1. Wechseln Sie auf der Seite mit den Profildetails zum Abschnitt **[!UICONTROL Sicherheit auf Feldebene]** . Klicken Sie auf **[!UICONTROL Anzeigen]** , um die Barrierefreiheit für die Objekte zu bearbeiten:
 
    * Lead
    * Kontakt
@@ -111,7 +111,7 @@ In diesem Artikel richten Sie Benutzerberechtigungen im Salesforce-Profil ein un
 
    ![](assets/sfdc-sync-field-edit1.png)
 
-1. Suchen Sie die nicht erforderlichen Felder und stellen Sie sicher, dass **[!UICONTROL Lesezugriff]** und **[!UICONTROL Zugriff bearbeiten]** deaktiviert sind. Klicks **[!UICONTROL Speichern]** wann geschehen.
+1. Suchen Sie die nicht erforderlichen Felder und stellen Sie sicher, dass die Optionen **[!UICONTROL Lesezugriff]** und **[!UICONTROL Zugriff bearbeiten]** deaktiviert sind. Klicken Sie auf **[!UICONTROL Speichern]**, wenn Sie fertig sind.
 
    >[!NOTE]
    >
@@ -119,7 +119,7 @@ In diesem Artikel richten Sie Benutzerberechtigungen im Salesforce-Profil ein un
 
    ![](assets/sfdc-sync-field-edit2.png)
 
-1. Nachdem Sie alle nicht erforderlichen Felder deaktiviert haben, müssen Sie die Option **[!UICONTROL Zugriff lesen und bearbeiten]** für die folgenden Objektfelder. Klicks **[!UICONTROL Speichern]** wann geschehen.
+1. Nachdem Sie alle nicht erforderlichen Felder deaktiviert haben, müssen Sie für die folgenden Objektfelder die Option **[!UICONTROL Lesezugriff und Zugriff bearbeiten]** aktivieren. Klicken Sie auf **[!UICONTROL Speichern]**, wenn Sie fertig sind.
 
 <table> 
  <tbody> 
@@ -148,13 +148,13 @@ In diesem Artikel richten Sie Benutzerberechtigungen im Salesforce-Profil ein un
 
 >[!TIP]
 >
->Erstellen Sie ein dediziertes Salesforce-Konto (z. B. `marketo@yourcompany.com`), um die von Marketo vorgenommenen Änderungen im Vergleich zu anderen Salesforce-Benutzern zu unterscheiden.
+>Erstellen Sie ein dediziertes Salesforce-Konto (z. B. `marketo@yourcompany.com`), um zwischen den von Marketo vorgenommenen Änderungen und anderen Salesforce-Benutzern zu unterscheiden.
 
-1. Geben Sie &quot;Benutzer verwalten&quot;in die Navigationssuchleiste ein und klicken Sie dann auf **[!UICONTROL Benutzer]**. Klicks **[!UICONTROL Neuer Benutzer]**.
+1. Geben Sie &quot;Benutzer verwalten&quot;in die Navigationssuchleiste ein und klicken Sie dann auf **[!UICONTROL Benutzer]**. Klicken Sie auf **[!UICONTROL Neuer Benutzer]**.
 
    ![](assets/sfdc-new-users.png)
 
-1. Füllen Sie die erforderlichen Felder aus. Wählen Sie anschließend die **[!UICONTROL Anwenderlizenz: Salesforce]** und dem zuvor erstellten Profil. Klicks **[!UICONTROL Speichern]** wenn Sie fertig sind.
+1. Füllen Sie die erforderlichen Felder aus. Wählen Sie dann die **[!UICONTROL Anwenderlizenz: Salesforce]** und das zuvor von Ihnen erstellte Profil aus. Klicken Sie auf **[!UICONTROL Speichern]** , wenn Sie fertig sind.
 
    ![](assets/image2014-12-9-9-3a20-3a56.png)
 

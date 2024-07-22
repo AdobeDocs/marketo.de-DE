@@ -7,7 +7,7 @@ feature: Landing Pages
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '88'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -17,15 +17,15 @@ Zeigen Sie nach dem Hinzufügen von dynamischem Inhalt eine Vorschau Ihrer Landi
 
 >[!PREREQUISITES]
 >
->* [Dynamische Inhalte in einer Landingpage verwenden](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/use-dynamic-content-in-a-landing-page.md)
->* [Vorschau einer Landingpage](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)
+>* [Dynamischen Inhalt in einer Landingpage verwenden](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/use-dynamic-content-in-a-landing-page.md)
+>* [Vorschau einer Landingpage anzeigen](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)
 
-1. Wählen Sie eine Landingpage aus und klicken Sie auf **Vorschau der Seite**.
+1. Wählen Sie eine Landingpage aus und klicken Sie auf **Vorschau der Seite anzeigen**.
 
    ![](assets/image2014-9-17-16-3a9-3a55.png)
 
-1. Klicken Sie auf das Dropdown-Menü und wählen Sie eine **Segment** um eine Vorschau anzuzeigen.
+1. Klicken Sie auf das Dropdown-Menü und wählen Sie ein **Segment** aus, um eine Vorschau anzuzeigen.
 
    ![](assets/image2014-9-25-15-3a34-3a40.png)
 
-Fantastisch Sie können jetzt sicherstellen, dass Ihre Landingpages segmentübergreifend funktionieren.
+Fantastisch! Sie können jetzt sicherstellen, dass Ihre Landingpages segmentübergreifend funktionieren.

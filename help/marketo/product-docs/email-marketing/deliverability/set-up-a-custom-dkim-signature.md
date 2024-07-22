@@ -7,7 +7,7 @@ feature: Deliverability
 source-git-commit: b72c69b0e96fa3e504242425abd3954f5a49bebd
 workflow-type: tm+mt
 source-wordcount: '426'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -21,7 +21,7 @@ Um die Zustellbarkeit auf höchstem Niveau zu gewährleisten, signieren wir auto
 
 Sie können die DKIM-Signatur personalisieren, um die Domäne(n) Ihrer Wahl widerzuspiegeln. So geht es.
 
-1. Navigieren Sie zu **Admin** Abschnitt.
+1. Wechseln Sie zum Abschnitt **Admin** .
 
    ![](assets/set-up-a-custom-dkim-signature-1.png)
 
@@ -29,15 +29,15 @@ Sie können die DKIM-Signatur personalisieren, um die Domäne(n) Ihrer Wahl wide
    >
    >Wenn Sie eine benutzerdefinierte DKIM-Signatur auf die altmodische Art einrichten, funktioniert sie weiterhin und sollte hier angezeigt werden.
 
-1. Klicks **Email**.
+1. Klicken Sie auf **E-Mail**.
 
    ![](assets/set-up-a-custom-dkim-signature-2.png)
 
-1. Klicken Sie auf **SPF/DKIM** tab, dann **Domäne hinzufügen**.
+1. Klicken Sie auf die Registerkarte **SPF/DKIM** und dann auf **Domäne hinzufügen**.
 
    ![](assets/set-up-a-custom-dkim-signature-3.png)
 
-1. Geben Sie die Domäne ein, die Sie in Marketo-E-Mails als Absenderadresse verwenden werden. Wählen Sie einen Selektor und eine Schlüsselgröße. Klicks **Hinzufügen** wann geschehen.
+1. Geben Sie die Domäne ein, die Sie in Marketo-E-Mails als Absenderadresse verwenden werden. Wählen Sie einen Selektor und eine Schlüsselgröße. Klicken Sie abschließend auf **Hinzufügen** .
 
    ![](assets/set-up-a-custom-dkim-signature-4.png)
 
@@ -66,7 +66,7 @@ Sie können die DKIM-Signatur personalisieren, um die Domäne(n) Ihrer Wahl wide
    >
    >Bitte beachten Sie, dass DKIM nicht für Ihre Domain signiert wird, bis Ihr neuer Datensatz von unserem System veröffentlicht und validiert wird. Planen Sie Ihre Änderung entsprechend, da es 24 bis 48 Stunden dauern kann, bis der neue DKIM-Datensatz vollständig über das Internet übertragen wird.
 
-1. Senden Sie die **Hostdatensatz** und **TXT-Wert** zu Ihrer IT hinzufügen. Bitten Sie sie, den Datensatz für Sie zu erstellen und sicherzustellen, dass er an alle Nameserver propagiert wird, die mit der von -Domäne verknüpft sind. Die DKIM-Verifizierung von Marketo erfordert, dass der DKIM-Schlüssel an alle Nameserver weitergegeben wird, die mit der Domäne verknüpft sind, die von DKIM signiert wurde.
+1. Senden Sie den **Host-Datensatz** und den **TXT-Wert** an Ihre IT. Bitten Sie sie, den Datensatz für Sie zu erstellen und sicherzustellen, dass er an alle Nameserver propagiert wird, die mit der von -Domäne verknüpft sind. Die DKIM-Verifizierung von Marketo erfordert, dass der DKIM-Schlüssel an alle Nameserver weitergegeben wird, die mit der Domäne verknüpft sind, die von DKIM signiert wurde.
 
    ![](assets/set-up-a-custom-dkim-signature-5.png)
 

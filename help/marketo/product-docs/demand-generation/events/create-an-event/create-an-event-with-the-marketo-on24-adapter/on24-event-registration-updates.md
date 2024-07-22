@@ -19,25 +19,25 @@ Sie können Ihre Registrierungspflichtigen manuell validieren, bevor Sie ihnen e
 
 1. Für die Registrierungs-Trigger-Kampagne:
 
-   * Setzen Sie in der Smart-Liste den Trigger auf **Formular ausfüllen**.
-   * Legen Sie im Fluss den Status in Progression auf **Ausstehende Genehmigung**.
+   * Legen Sie in der Smart-Liste den Trigger auf **Formular ausfüllen** fest.
+   * Legen Sie im Fluss den Status unter &quot;Progression&quot;auf **Ausstehende Genehmigung** fest.
 
-1. Gehen Sie zum Ereignis und klicken Sie auf die Schaltfläche **Mitglieder** Registerkarte. Auf dieser Registerkarte werden alle Personen angezeigt, die das Formular ausgefüllt haben. Ihr Status sollte auf **Ausstehende Genehmigung**.
-1. Verwenden Sie den Filter oben im Raster, um nur die Personen mit dem Status **Ausstehende Genehmigung**.
+1. Gehen Sie zum Ereignis und klicken Sie auf die Registerkarte **Mitglieder** . Auf dieser Registerkarte werden alle Personen angezeigt, die das Formular ausgefüllt haben. Ihr Status sollte auf **Ausstehende Genehmigung** gesetzt werden.
+1. Verwenden Sie den Filter oben im Raster, um nur die Personen mit dem Status &quot;**Ausstehende Genehmigung**&quot;anzuzeigen.
 1. Wählen Sie die Personen aus, die Sie registrieren möchten (Umschalt-Klick, Strg-Klick oder Alle auswählen).
-1. Klicken Sie im Menü auf **Status ändern**. Auswählen **Angemeldet**, **Abgelehnt** oder einen anderen anwendbaren Status.
+1. Klicken Sie im Menü auf **Status ändern**. Wählen Sie **Registered**, **Rejected** oder einen anderen zutreffenden Status aus.
 
 ## Umgang mit Personen mit einem Registrierungsfehler {#handling-people-with-a-registration-error}
 
 Wenn eine Person nicht registriert, sondern auf den Status Registrierfehler gesetzt wird, ist es nicht zu spät, um sich zu erholen.
 
-1. Filtern Sie im Tab Mitglieder die Liste der Personen mit dem Status . **Registrierungsfehler**.
-1. Bevor Sie fortfahren, stellen Sie sicher, dass Sie das Problem mit der Integration ermittelt und behoben haben (überprüfen Sie, ob es unter keine Fehler gibt). **Veranstaltungspartner** in Admin).
-1. Nachdem das Problem behoben wurde, wählen Sie alle Personen mit dem Status Registrierungsfehler aus und ändern Sie ihren Status in **Angemeldet**. Dadurch wird versucht, sie erneut bei ON24 zu registrieren.
+1. Filtern Sie auf der Registerkarte Mitglieder die Liste der Personen mit dem Status **Registrierungsfehler**.
+1. Bevor Sie fortfahren, stellen Sie sicher, dass Sie das Problem mit der Integration ermittelt und behoben haben (überprüfen Sie, ob unter **Ereignispartner** in Admin keine Fehler vorliegen).
+1. Nachdem das Problem behoben wurde, wählen Sie alle Personen mit dem Status Registrierungsfehler aus und ändern Sie ihren Status in **Registered**. Dadurch wird versucht, sie erneut bei ON24 zu registrieren.
 
 ## Aktualisierung des Mitgliederstatus von ON24 {#updating-member-status-from-on}
 
-Marketo ruft die Anwesenheitsinformationen automatisch jeden Abend um ca. 23 Uhr Pacific ab. Um die Teilnehmerinformationen manuell zu aktualisieren, klicken Sie auf **Von Webinar-Anbieter aktualisieren** under **Ereignisaktionen**.
+Marketo ruft die Anwesenheitsinformationen automatisch jeden Abend um ca. 23 Uhr Pacific ab. Um die Teilnehmerinformationen manuell zu aktualisieren, klicken Sie unter **Ereignisaktionen** auf **Von Webinar-Anbieter aktualisieren** .
 
 >[!MORELIKETHIS]
 >

@@ -13,14 +13,14 @@ ht-degree: 21%
 
 # Mobile Push-Benachrichtigung bearbeiten {#edit-mobile-push-notification}
 
-1. Navigieren Sie zu **Marketingaktivitäten** Bereich.
+1. Wechseln Sie zum Bereich **Marketingaktivitäten** .
 
 ![](assets/image2015-4-22-18-3a44-3a42.png)
 
-1. Wählen Sie Ihre Mobile App aus und klicken Sie auf **Entwurf bearbeiten**.
+1. Wählen Sie Ihre mobile App aus und klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/image2015-4-22-18-3a45-3a13.png)
 
 >[!MORELIKETHIS]
 >
->Weitere Informationen [Push-Benachrichtigungen konfigurieren](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) hier.
+>Weitere Informationen zu [Konfigurieren von Push-Benachrichtigungen](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) finden Sie hier.

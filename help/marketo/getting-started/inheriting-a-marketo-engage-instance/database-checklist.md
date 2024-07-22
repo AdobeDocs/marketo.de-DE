@@ -12,7 +12,7 @@ ht-degree: 7%
 
 # Vererbte Instanz: Datenbank-Checkliste {#inherited-instance-database-checklist}
 
-Verstehen Sie die Gesamtzahl der Personen, vermarktbaren Personen und der Personen, die in Ihrem Abonnement die meisten Personen erwerben. Denken Sie daran, [Checklisten herunterladen](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) und verfolgen Sie Ihren Fortschritt.
+Verstehen Sie die Gesamtzahl der Personen, vermarktbaren Personen und der Personen, die in Ihrem Abonnement die meisten Personen erwerben. Denken Sie daran, [die Checklisten herunterzuladen](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) und Ihren Fortschritt zu verfolgen.
 
 ## Intelligente Listen für System {#system-smart-lists}
 
@@ -31,33 +31,33 @@ Verstehen Sie die Gesamtzahl der Personen, vermarktbaren Personen und der Person
   </tr>
   <tr> 
    <td>Abbestellte Personen</td> 
-   <td><li>Nach welchen Kriterien sind Sie für <a href="/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md#marketing-suspended" target="_blank">abgemeldete Personen</a>? Gibt es zu viele abgemeldete Personen?</li>
+   <td><li>Nach welchen Kriterien richten Sie <a href="/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md#marketing-suspended" target="_blank">Abonnenten abmelden</a>? Gibt es zu viele abgemeldete Personen?</li>
 <li>Stimmen Ihre Abmeldemethoden mit Ihren Datenschutzanforderungen überein?</li>
 <li>Ist Ihre Voreinstellung zur Abmeldung aktuell? Wie lange sind Datensätze in Ihrer Datenbank noch nicht vermarktbar?</li></td>
   </tr>
   <tr> 
    <td>Marketing eingestellt</td> 
-   <td><li>Nach welchen Kriterien sind Sie für <a href="/help/marketo/product-docs/email-marketing/deliverability/durable-unsubscribe.md#marketing-suspended" target="_blank">Marketing ausgesetzt</a>? Gibt es zu viele Personen, die Marketing ausgesetzt haben?</li>
+   <td><li>Welche Kriterien erfüllen Sie für <a href="/help/marketo/product-docs/email-marketing/deliverability/durable-unsubscribe.md#marketing-suspended" target="_blank">ausgesetztes Marketing</a>? Gibt es zu viele Personen, die Marketing ausgesetzt haben?</li>
 <li>Wie lange sind Datensätze im Status Ausgesetzt des Marketing erhalten geblieben?</li>
 <p>Anwendungsbeispiel für Marketing ausgesetzt : Personen erfassen aktiv mit Verkäufen in verspäteten Gelegenheiten, für die Sie Marketing-Nachrichten unterdrücken möchten.</td>
   </tr>
    <tr> 
    <td>Sperrliste</td> 
-   <td><li>Nach welchen Kriterien sind Sie für <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md" target="_blank">auf die Blockierungsliste setzend Datensätze</a>? Gibt es zu viele auf die Blockierungsliste gesetzt?</li></td>
+   <td><li>Nach welchen Kriterien werden Datensätze <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md" target="_blank">auf die Blockierungsliste gesetzt</a>? Gibt es zu viele auf die Blockierungsliste gesetzt?</li></td>
   </tr>
   <tr> 
    <td>Adressen für aufgrund von Bounce-Ereignissen unzustellbare E-Mails</td> 
-   <td><li>Hast du viel? <a href="/help/marketo/product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.md" target="_blank">Bounce-Personen</a> in Ihrer Datenbank?
+   <td><li>Haben Sie viele <a href="/help/marketo/product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.md" target="_blank">Personen, die in Ihrer Datenbank nicht mit </a> angemeldet sind?
    <br/>     Wenn ja, prüfen Sie, warum.</li></td></li></td>
   </tr>
   <tr> 
    <td>Mögliche Duplikate</td> 
-   <td><li>Wie viele <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md" target="_blank">potenziell doppelte Datensätze</a> Gibt es sie?
+   <td><li>Wie viele <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md" target="_blank">potenziell doppelte Datensätze</a> gibt es?
    <br/>     Ziehen Sie das Löschen oder Zusammenführen in Erwägung.</li></td>
   </tr>
    <tr> 
    <td>Kein Akquisitionsprogramm</td> 
-   <td><li>Wie viele Menschen haben keine <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">Akquiseprogramm</a>?
+   <td><li>Wie viele Personen haben kein <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">Akquiseprogramm</a>?
    <br/>     Wenn es viel gibt, überlegen Sie, warum.</li></td>
   </tr>
  </tbody> 
@@ -73,11 +73,11 @@ Verstehen Sie die Gesamtzahl der Personen, vermarktbaren Personen und der Person
   </tr> 
   <tr> 
    <td>Intelligente Listen</td> 
-   <td><li>Wie viele <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" target="_blank">Smart-Listen</a> Gibt es sie? Wie werden sie in dieser Instanz verwendet?</li>
+   <td><li>Wie viele <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" target="_blank">Smart-Listen</a> gibt es? Wie werden sie in dieser Instanz verwendet?</li>
    <p><img src="assets/note-icon.png" alt="Notizsymbol"> HINWEIS: Im Abschnitt "Datenbank"werden Smart-Listen für Gruppen vom Benutzer generiert und intelligente Systemlisten werden von Marketo Engage erstellt.
 <li>Sind die Listen in einer zusammenhängenden Ordnerstruktur organisiert? 
 <br/>     Wenn Sie verwaiste Listen haben, sollten Sie Ihren Baum so organisieren, dass Assets einfach zu finden sind.</li>
-<p><img src="assets/tip-icon.png" alt="Tippsymbol">TIPP: <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">Archivierung</a> Intelligente Listen, die nicht mehr benötigt werden, helfen bei der Organisation und Leistung.</td>
+<p><img src="assets/tip-icon.png" alt="Tippsymbol">TIPP: <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">Die Archivierung</a> intelligenter Listen, die nicht mehr benötigt werden, hilft bei der Organisation und Leistung.</td>
   </tr>
  </tbody> 
 </table>
@@ -92,7 +92,7 @@ Verstehen Sie die Gesamtzahl der Personen, vermarktbaren Personen und der Person
   </tr> 
   <tr> 
    <td>Statische Listen</td> 
-   <td><li>Wie viele <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" target="_blank">Statische Listen</a> Gibt es sie? Wie werden sie in dieser Instanz verwendet?</li>
+   <td><li>Wie viele statische <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" target="_blank">Listen</a> gibt es? Wie werden sie in dieser Instanz verwendet?</li>
    <p><img src="assets/note-icon.png" alt="Notizsymbol"> HINWEIS: Im Abschnitt "Datenbank"sind Gruppenlisten statische Listen.</td>
   </tr>
  </tbody> 
@@ -108,8 +108,8 @@ Verstehen Sie die Gesamtzahl der Personen, vermarktbaren Personen und der Person
   </tr> 
   <tr> 
    <td>Segmentierungen</td> 
-   <td><li>Welcher <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md" target="_blank">Segmentierungen</a> Gibt es sie? Wie werden sie verwendet?</li>
-<li>Sind zu viele Personen in <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md" target="_blank">Standardsegmente</a>?</li>
+   <td><li>Welche <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md" target="_blank">Segmentationen</a> gibt es? Wie werden sie verwendet?</li>
+<li>Sind zu viele Personen in <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md" target="_blank">Standardsegmenten</a>?</li>
 <li>Gibt es eine Segmentierung für die vermarktbare Zielgruppe? 
 <br/>     Ist dies nicht der Fall, können Sie eine erstellen.</li></td>
   </tr>

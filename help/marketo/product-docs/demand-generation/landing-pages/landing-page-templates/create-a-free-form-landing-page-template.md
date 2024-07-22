@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Landingpages mit Freiform erfordern weniger technische Kenntnisse als ihre geführten Kollegen. Gehen Sie wie folgt vor, um eine Vorlage für künftige Landingpages zu erstellen.
 
-1. Navigieren Sie zu **Design Studio**.
+1. Wechseln Sie zu **Design Studio**.
 
    ![](assets/one.png)
 
-1. Klicken **Neu**, wählen Sie **Neue Landingpage-Vorlage**.
+1. Klicken Sie auf **Neu** und wählen Sie dann **Neue Einstiegsseitenvorlage** aus.
 
    ![](assets/two.png)
 
-1. Wählen Sie den Ordner aus und geben Sie Ihrer Vorlage einen Namen. Freiform ist der Standard-Bearbeitungsmodus. Klicken Sie nach dem Namen Ihrer Vorlage auf **Erstellen**.
+1. Wählen Sie den Ordner aus und geben Sie Ihrer Vorlage einen Namen. &quot;Freiform&quot;ist der standardmäßige Bearbeitungsmodus. Klicken Sie nach dem Namen Ihrer Vorlage auf **Erstellen**.
 
    ![](assets/three.png)
 
@@ -33,9 +33,9 @@ Landingpages mit Freiform erfordern weniger technische Kenntnisse als ihre gefü
 
    >[!NOTE]
    >
-   >Der Marketo-Support ist nicht für die Fehlerbehebung bei benutzerdefiniertem HTML eingerichtet. Wenden Sie sich an einen Webentwickler, um Hilfe beim HTML zu erhalten.
+   >Der Marketo-Support ist nicht für die Fehlerbehebung bei benutzerdefiniertem HTML eingerichtet. Wenden Sie sich an einen Web-Entwickler, um Hilfe beim HTML zu erhalten.
 
-1. Wenn Sie die Bearbeitung abgeschlossen haben, klicken Sie auf **Vorlagenaktionen**, wählen Sie **Genehmigen und schließen**.
+1. Klicken Sie nach Abschluss der Bearbeitung auf **Vorlagenaktionen** und wählen Sie dann **Genehmigen und schließen**.
 
    ![](assets/five.png)
 
@@ -43,11 +43,11 @@ Landingpages mit Freiform erfordern weniger technische Kenntnisse als ihre gefü
 
    >[!NOTE]
    >
-   >Auswählen **Deaktivieren des Munchkin-Trackings** wenn Sie verhindern möchten, dass Formulare vorab ausgefüllt werden, oder Sie einfach das Webverhalten auf einer bestimmten Seite nicht verfolgen möchten.\
-   >Auswählen **Validieren der mobilen Kompatibilität** um sicherzustellen, dass Ihr Code mit Mobilgeräten kompatibel ist.
+   >Wählen Sie &quot;**Munchkin-Verfolgung deaktivieren**&quot;, wenn Sie verhindern möchten, dass Formulare vorab ausgefüllt werden, oder Sie möchten einfach nicht das Webverhalten auf einer bestimmten Seite verfolgen.\
+   >Wählen Sie **Mobilkompatibilität überprüfen** aus, um sicherzustellen, dass Ihr Code mit Mobilgeräten kompatibel ist.
 
    >[!MORELIKETHIS]
    >
    >* [Erstellen einer Freiform-Landingpage](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
-   >* [Erstellen einer Vorlage für eine geführte Landingpage](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)
+   >* [Erstellen einer geführten Landingpage-Vorlage](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)
    >* [Grundlegendes zu Freiform- und geführten Landingpages](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md)

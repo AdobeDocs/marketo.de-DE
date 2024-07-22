@@ -27,11 +27,11 @@ Sie können Smart-Listen mit diesen Berichtstypen verwenden:
 * [Unternehmens-Web-Aktivität](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
 * [Webseitenaktivität](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
 
-1. Navigieren Sie zu **Marketingaktivitäten** Bereich.
+1. Wechseln Sie zum Bereich **Marketingaktivitäten** .
 
    ![](assets/image2017-3-27-11-3a31-3a2.png)
 
-1. Wählen Sie Ihren Bericht in der Navigationsstruktur aus und klicken Sie auf die Schaltfläche **Smart List** Registerkarte.
+1. Wählen Sie Ihren Bericht in der Navigationsstruktur aus und klicken Sie auf die Registerkarte **Smart-Liste** .
 
    ![](assets/image2017-3-27-14-3a12-3a53.png)
 
@@ -43,7 +43,7 @@ Sie können Smart-Listen mit diesen Berichtstypen verwenden:
 
    ![](assets/image2014-9-16-12-3a35-3a50.png)
 
-1. Klicken Sie auf **Bericht** um Ihren gefilterten Bericht anzuzeigen.
+1. Klicken Sie auf die Registerkarte **Bericht** , um Ihren gefilterten Bericht anzuzeigen.
 
    ![](assets/image2017-3-27-14-3a14-3a16.png)
 

@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Manchmal wollen Sie eingehende Links entfernen. So geht&#39;s:
 
-1. Navigieren Sie zu **[!UICONTROL Eingehende Links]** Abschnitt.
+1. Wechseln Sie zum Abschnitt **[!UICONTROL Eingehende Links]** .
 
    ![](assets/image2014-9-18-13-3a47-3a3.png)
 
@@ -23,7 +23,7 @@ Manchmal wollen Sie eingehende Links entfernen. So geht&#39;s:
 
    ![](assets/image2014-9-18-13-3a49-3a34.png)
 
-1. Klicks **[!UICONTROL Entfernen]**.
+1. Klicken Sie auf **[!UICONTROL Entfernen]**.
 
    ![](assets/image2014-9-18-13-3a49-3a44.png)
 

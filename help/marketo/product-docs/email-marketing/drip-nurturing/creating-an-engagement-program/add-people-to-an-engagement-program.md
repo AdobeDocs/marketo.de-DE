@@ -15,10 +15,10 @@ ht-degree: 3%
 
 Es gibt mehrere Möglichkeiten, wie Personen Mitglieder eines Interaktionsprogramms werden können:
 
-* [Zu Interaktionsprogramm hinzufügen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/add-to-engagement-program.md)
-* [Ändern der Interaktionsprogrammkadenz](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md) Flussschritt
-* [Interaktionsprogramm-Stream ändern](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md) Flussschritt
-* [Ändern des Programmstatus](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) Flussschritt
+* [Zu Engagement-Programm hinzufügen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/add-to-engagement-program.md)
+* Flussschritt [Ändern der Interaktionsprogrammkadenz](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md)
+* Flussschritt [Ändern des Interaktionsprogramm-Streams](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md)
+* Flussschritt [Programmstatus ändern](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md)
 * Wenn eine Person ein Formular lokal für ein Interaktionsprogramm ausfüllt
 * Import von Mitgliedern in ein Interaktionsprogramm (über die Registerkarte Mitglieder innerhalb des Programms)
 * Wenn Sie Salesforce als CRM verwenden und eine Salesforce-Kampagne an Ihr Interaktionsprogramm gebunden ist, werden Sie durch das Hinzufügen einer Person zur Salesforce-Kampagne auf der CRM-Seite ebenfalls Teil des Interaktionsprogramms.

@@ -6,8 +6,8 @@ exl-id: 8f00abb5-85f8-4f05-874e-57aa6442548c
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 6%
+source-wordcount: '181'
+ht-degree: 4%
 
 ---
 
@@ -15,14 +15,14 @@ ht-degree: 6%
 
 Lesen Sie das folgende Szenario und versuchen Sie, die Zahlen zu ermitteln, die im Raster angezeigt werden sollen.
 
-* 11. April | Rechnung wird von (Tradeshow) erworben
-* 15. April | Joan wird von erworben (Webinar)
+* 11. April | Bill wird von (Tradeshow) erworben
+* 15. April | Joan wird von (Webinar) erworben
 * 22. April | (Chance 1) erstellt für 6.000 $
 * 24. April | (Chancen 2) erstellt für 10.000 $
-* 25. April | Bill und Joan sind mit Rollen verknüpft, die **BEIDE** Optys
-* 29. April | (Chancen 1) ist geschlossen-Won
+* 25. April | Bill und Joan sind mit den Rollen **BEIDE** Optionen verknüpft.
+* 29. April | (Chancen 1) ist geschlossen
 
-| Programmname | (Fachmesse) | (Webinar) |
+| Programmname | (Gewerbeproben) | (Webinar) |
 |---|---|---|
 | (FT) Option erstellt | `<pre>1</pre>` | `<pre>1</pre>` |
 | (FT) Erstellte Pipeline | `<pre>$8,000</pre>` | `<pre>$8,000</pre>` |
@@ -35,7 +35,7 @@ Lesen Sie das folgende Szenario und versuchen Sie, die Zahlen zu ermitteln, die 
 >
 >**Erklärung**
 >
->Da sowohl Bill als auch Joan mit den Rollen verknüpft waren, um **BEIDE** Möglichkeiten, teilt das System (gemäß den Regeln) die Gutschrift gleichmäßig zwischen ihnen auf.
+>Da sowohl Bill als auch Joan mit den Rollen verknüpft waren, um **BEIDE** Gelegenheiten zu bieten, teilte das System (gemäß den Regeln) den Kredit gleichmäßig zwischen ihnen auf.
 >
 >Die für jedes Programm erstellte Pipeline ($ 8.000) entspricht der Hälfte der insgesamt als Gutschrift verfügbaren Pipeline ($16.000).
 

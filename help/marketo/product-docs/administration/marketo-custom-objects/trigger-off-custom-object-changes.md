@@ -17,18 +17,18 @@ ht-degree: 0%
 >
 >Diese Funktion ist nur verfügbar:
 >
->* Nur für die Verwendung mit benutzerdefinierten Marketo-Objekten, nicht für benutzerdefinierte Objekte, die über die nativen [!DNL Salesforce] oder [!DNL Microsoft Dynamics] Integration
+>* Nur für die Verwendung mit benutzerdefinierten Marketo-Objekten, nicht jedoch für benutzerdefinierte Objekte, die durch die native [!DNL Salesforce] - oder [!DNL Microsoft Dynamics] -Integration synchronisiert werden
 >* Trigger, kein Filter
 >
->Bitte kontaktieren Sie [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support) , damit die Trigger für die benutzerdefinierte Objektänderung aktiviert sind.
+>Wenden Sie sich an den [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support) , damit benutzerdefinierte Trigger zur Objektänderung aktiviert sind.
 
-In der Smart-Liste einer Smart-Kampagne können Sie eine Flow-Aktion Trigger haben, wenn ein benutzerdefiniertes Objekt zu einer Person oder einem Unternehmen hinzugefügt wird. Sie können auch eine Smart-Liste erstellen, die eine _change_ in einem benutzerdefinierten Objekt als Trigger. Beispielsweise können Sie damit eine E-Mail senden, wenn ein Kursname aktualisiert wird.
+In der Smart-Liste einer Smart-Kampagne können Sie eine Flow-Aktion Trigger haben, wenn ein benutzerdefiniertes Objekt zu einer Person oder einem Unternehmen hinzugefügt wird. Sie können auch eine Smart-Liste erstellen, die eine _change_ in einem benutzerdefinierten Objekt als Trigger verwendet. Beispielsweise können Sie damit eine E-Mail senden, wenn ein Kursname aktualisiert wird.
 
 >[!NOTE]
 >
 >Ein Aktivitätsprotokolleintrag wird nicht erstellt, wenn ein benutzerdefinierter Objektdatensatz geändert wird.
 
-1. Gehen Sie unter Marketo Engage zu **[!UICONTROL Marketingaktivitäten]**.
+1. Wechseln Sie unter Marketo Engage zu **[!UICONTROL Marketingaktivitäten]**.
 
    ![](assets/trigger-off-custom-object-changes-1.png)
 
@@ -40,7 +40,7 @@ In der Smart-Liste einer Smart-Kampagne können Sie eine Flow-Aktion Trigger hab
 
    ![](assets/trigger-off-custom-object-changes-3.png)
 
-1. Wählen Sie die [!UICONTROL Trigger-Attribut].
+1. Wählen Sie das Attribut [!UICONTROL Trigger] aus.
 
    ![](assets/trigger-off-custom-object-changes-4.png)
 

@@ -21,11 +21,11 @@ ht-degree: 2%
 >
 >Dies gilt nur für freie Landingpages.
 
-1. Wählen Sie das Bild aus, das Sie Ihrer Landingpage hinzugefügt haben, und erweitern Sie die **Eigenschaftenblatt.**
+1. Wählen Sie das Bild aus, das Sie Ihrer Landingpage hinzugefügt haben, und erweitern Sie das **Eigenschaftenblatt**.
 
    ![](assets/image2014-9-18-15-3a29-3a0.png)
 
-1. Geben Sie Ihren Mailto-Link in das Feld **Link-URL.**
+1. Geben Sie Ihren Mailto-Link in die **Link-URL** ein.
 
    ![](assets/image2014-9-18-15-3a29-3a21.png)
 

@@ -17,19 +17,19 @@ Wenn Sie ein Verweisangebot oder einen Gewinnspiel erstellen, können Sie jedem 
 
 ## Hochladen von Angebotscodes {#upload-promo-codes}
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Wechseln Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Wählen Sie das Angebot aus und klicken Sie auf **Entwurf bearbeiten**.
+1. Wählen Sie das Verweisangebot aus und klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/image2015-4-22-11-3a16-3a45.png)
 
-1. Navigieren Sie im Angebotseditor zu **App-Einstellungen** und dann **Angebotsdetails**.
+1. Wechseln Sie im Editor für Verweise zu **App-Einstellungen** und dann zu **Angebotsdetails**.
 
    ![](assets/image2015-4-22-11-3a23-3a39.png)
 
-1. Wählen Sie unter E-Mails die Option **Verwenden von Angebotscodes** und klicken Sie unter &quot;Hochladen-Codes&quot;auf **Durchsuchen** , um die Datei mit den Angebotscodes aus Ihrem System auszuwählen.
+1. Wählen Sie unter &quot;E-Mails&quot;die Option **Angebotscodes verwenden** und klicken Sie unter &quot;Hochladen-Codes&quot;auf **Durchsuchen** , um die Datei mit den Angebotscodes aus Ihrem System auszuwählen.
 
    ![](assets/image2015-4-22-12-3a52-3a43.png)
 
@@ -51,16 +51,16 @@ Sobald die Teilnehmer beginnen, Ihre Angebotsbelohnung zu erhalten, können Sie 
 
 >[!NOTE]
 >
->Nur Marketo-Benutzer mit _Access Awards_ Zugriff auf diese Informationen haben. Siehe  [Verwalten von Benutzerrollen und Berechtigungen](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+>Nur Marketo-Benutzer mit der Berechtigung _Access Awards_ haben Zugriff auf diese Informationen. Siehe [Verwalten von Benutzerrollen und -berechtigungen](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Wechseln Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Wählen Sie Ihr Angebot oder Ihr Gewinnspiel aus und klicken Sie auf die Schaltfläche **Teilnehmer** Registerkarte.
+1. Wählen Sie Ihr Verweisangebot oder Ihr Gewinnspiel aus und klicken Sie auf die Registerkarte **Teilnehmer** .
 
    ![](assets/image2015-4-22-11-3a36-3a22.png)
 
-1. Hier sollten Sie einige Einträge sehen. Klicken Sie auf die Zahl im **Angebotscodes** angezeigt, um die an diesen Teilnehmer gesendeten Angebotscodes sowie den Zeitpunkt des Versands anzuzeigen.
+1. Hier sollten Sie einige Einträge sehen. Klicken Sie auf die Zahl in der Spalte **Angebotscodes** , um die an diesen Teilnehmer gesendeten Angebotscodes sowie den Zeitpunkt anzuzeigen.
 
    ![](assets/image2015-4-22-11-3a36-3a43.png)

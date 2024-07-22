@@ -19,10 +19,10 @@ Die Personendetailseite enthält alle Informationen, die Marketo über eine Pers
 
 Es gibt viele Möglichkeiten, bestimmte Personen zu öffnen. Beispiele:
 
-* Aus dem **Datenbank**, können Sie in der Schnellsuche suchen.
-* Alle **Smart List** oder Liste
-* **Mitglieder** Programmregisterkarte
-* **Anzeigen von Campaign-Mitgliedern** in einer Smart-Kampagne
+* In der **Datenbank** können Sie in der Schnellsuche suchen.
+* Beliebige **Smart-Liste** oder -Liste
+* Registerkarte **Mitglieder** eines Programms
+* **Anzeigen von Kampagnenmitgliedern** in einer Smart-Kampagne
 * Einige **Berichte**
   <br> 
 
@@ -60,7 +60,7 @@ Personeninformationen werden in die folgenden Registerkarten kategorisiert:
 
 >[!NOTE]
 >
->Sie können auch Opportunity-Informationen anzeigen [über API eingefügt](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities) für Instanzen, die nicht mit einem CRM synchronisiert werden.
+>Sie können auch die über API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities) eingefügten Opportunity info [für Instanzen sehen, die nicht mit einem CRM synchronisiert werden.
 
 ## Bearbeiten eines Felds {#editing-a-field}
 
@@ -93,15 +93,15 @@ Viele Felder können bearbeitet werden. Um die Informationen einer Person zu akt
 
 >[!NOTE]
 >
->Einige Felder sind _not_ editable:
+>Einige Felder können bearbeitet werden: _nicht_ :
 >
 >* Aktivitätsprotokoll
 >* Unternehmensinformationen
 >* Möglichkeiten für SFDC-Kontakte
->* Bestimmte Marketo-spezifische Felder, z. B. Erstellungsdatum und Ursprünglicher Quelltyp.
+>* Bestimmte Marketo-spezifische Felder, z. B. Erstellungsdatum und Original Source-Typ.
 >
->Weitere Informationen [Systemverwaltete Felder](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md){target="_blank"}.
+>Erfahren Sie mehr über [systemverwaltete Felder](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->[Erstellen einer benutzerdefinierten Registerkarte für die Seite &quot;Personendetails&quot;](/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md){target="_blank"}
+>[Erstellen einer benutzerdefinierten Registerkarte für die Seite mit den Personendetails](/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md){target="_blank"}

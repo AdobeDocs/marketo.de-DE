@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Nachdem Sie dem Stream Inhalt hinzugefügt haben, können Sie die Priorität ändern. Der Inhalt wird immer von oben nach unten in jedem Guss bereitgestellt, und kein Inhalt wird zweimal an dieselbe Person gesendet.
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Wechseln Sie zu **Marketingaktivitäten**.
 
    ![](assets/ma.png)
 
-1. Wählen Sie Ihr Interaktionsprogramm aus und klicken Sie auf **Streams** Registerkarte.
+1. Wählen Sie Ihr Interaktionsprogramm aus und klicken Sie auf die Registerkarte **Streams** .
 
    ![](assets/cloneasteam-1.jpg)
 

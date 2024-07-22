@@ -15,27 +15,27 @@ ht-degree: 0%
 
 Gehen Sie wie folgt vor, um mithilfe von My Tokens URLs in E-Mails einzufügen.
 
-1. Wählen Sie Ihr Programm aus und klicken Sie auf **Meine Token**.
+1. Wählen Sie Ihr Programm aus und klicken Sie auf **My Tokens**.
 
    ![](assets/one-4.png)
 
-1. Wählen Sie die **Text** Mein Token, ziehen Sie es auf die Arbeitsfläche.
+1. Wählen Sie den **Text** Mein Token aus, ziehen Sie ihn auf die Arbeitsfläche.
 
    ![](assets/two-4.png)
 
-1. Geben Sie dem Token einen eindeutigen Namen, eine URL (ohne https://) ein und klicken Sie auf **Speichern**.
+1. Geben Sie dem Token einen eindeutigen Namen, eine URL (ohne https://) und klicken Sie auf **Speichern**.
 
    ![](assets/three-4.png)
 
    >[!CAUTION]
    >
-   >Um sicherzustellen, dass Klicks in Ihrer E-Mail verfolgt werden, führen Sie **not** Geben Sie https:// in den Wert des Tokens ein.
+   >Um sicherzustellen, dass Klicks in Ihrer E-Mail verfolgt werden, geben Sie im Wert des Tokens **nicht** https:// ein.
 
 1. Wählen Sie die E-Mail in Ihrem Programm aus.
 
    ![](assets/four-3.png)
 
-1. Klicken **Entwurf bearbeiten**.
+1. Klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/five-3.png)
 
@@ -51,7 +51,7 @@ Gehen Sie wie folgt vor, um mithilfe von My Tokens URLs in E-Mails einzufügen.
    >
    >Sie haben natürlich auch die Möglichkeit, &quot;https&quot; einzugeben, wenn Ihre Site dies verwendet.
 
-1. Suchen Sie Ihr My Token, wählen Sie es aus und klicken Sie auf **Einfügen**.
+1. Suchen Sie Ihr My Token, wählen Sie es aus und klicken Sie auf **Insert**.
 
    ![](assets/eight.png)
 
@@ -63,11 +63,11 @@ Gehen Sie wie folgt vor, um mithilfe von My Tokens URLs in E-Mails einzufügen.
 
    ![](assets/ten.png)
 
-1. Drücken Sie Strg/Befehl+V , um den Inhalt in die **URL** und klicken Sie auf **Einfügen**.
+1. Drücken Sie Strg/Befehl+V , um den Inhalt in das Feld **URL** einzufügen, und klicken Sie auf **Einfügen**.
 
    ![](assets/eleven.png)
 
-1. Klicken **Speichern**.
+1. Klicken Sie auf **Speichern**.
 
    ![](assets/twelve.png)
 

@@ -17,7 +17,7 @@ Filter können für verschiedene Benutzer freigegeben werden.
 
 >[!PREREQUISITES]
 >
->* [Erstellen eines Filters im Marketingkalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)
+>* [Erstellen eines Filters im Marketing-Kalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)
 >* [Speichern einer Filterdefinition im Marketing-Kalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md)
 
 >[!NOTE]
@@ -38,4 +38,4 @@ Filter können für verschiedene Benutzer freigegeben werden.
 
    >[!NOTE]
    >
-   >Benutzerberechtigungen wirken sich auf die Sichtbarkeit aus.
+   >Benutzerberechtigungen beeinflussen die Sichtbarkeit.

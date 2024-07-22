@@ -21,7 +21,7 @@ Wenn ein Datensatz wahr ist und ein Datensatz falsch ist, wird er schwierig.
 
 | Wenn der Synchronisierungsfilter für den verlorenen Datensatz: | und der Synchronisierungsfilter für den Gewinnerdatensatz lautet: | Dies führt zu Marketo |
 |---|---|---|
-| True | True | Der erfolgreichste Rekord wird weiterhin mit Marketo synchronisiert |
-| Falsch | Falsch | Der Sieger setzt sich weiter fort _not_ Synchronisierung mit Marketo |
-| Falsch | True | Der erfolgreichste Datensatz wird mit Marketo synchronisiert. |
-| True | Falsch | Der erfolgreichste Datensatz wird nicht mit Marketo synchronisiert. |
+| Richtig | Richtig | Der erfolgreichste Rekord wird weiterhin mit Marketo synchronisiert |
+| Falsch | Falsch | Der erfolgreichste Datensatz wird weiterhin mit Marketo synchronisiert (0}nicht _)._ |
+| Falsch | Richtig | Der erfolgreichste Datensatz wird mit Marketo synchronisiert. |
+| Richtig | Falsch | Der erfolgreichste Datensatz wird nicht mit Marketo synchronisiert. |

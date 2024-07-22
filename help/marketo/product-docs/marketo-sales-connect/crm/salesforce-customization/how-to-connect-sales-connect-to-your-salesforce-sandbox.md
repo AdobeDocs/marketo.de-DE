@@ -6,7 +6,7 @@ exl-id: d6421da9-de89-40ac-8af9-512b5303ace5
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->Ihr Sales Connect-Konto kann beim Herstellen einer Verbindung zur Sandbox nicht bereits mit Salesforce verbunden werden. Ist dies der Fall, [Stellen Sie sicher, dass Sie die Verbindung trennen](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md) bevor Sie die Schritte in diesem Artikel ausführen.
+>Ihr Sales Connect-Konto kann beim Herstellen einer Verbindung zur Sandbox nicht bereits mit Salesforce verbunden werden. Ist dies der Fall, stellen Sie sicher, dass Sie [ die Verbindung trennen, bevor Sie die Schritte in diesem Artikel befolgen.](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md)
 
-1. Klicken Sie in Sales Connect auf das Zahnradsymbol oben rechts und wählen Sie **Einstellungen**.
+1. Klicken Sie in Sales Connect auf das Zahnradsymbol oben rechts und wählen Sie **Einstellungen** aus.
 
    ![](assets/one-2.png)
 
@@ -25,11 +25,11 @@ ht-degree: 0%
 
    ![](assets/two-2.png)
 
-1. Klicken Sie auf der Salesforce-Karte auf **Weitere Informationen**.
+1. Klicken Sie auf der Salesforce-Karte auf **Mehr Info**.
 
    ![](assets/three-2.png)
 
-1. Klicken Sie unten auf der Seite auf **Verbindung zu Sandbox herstellen**.
+1. Klicken Sie unten auf der Seite auf **Mit Sandbox verbinden**.
 
    ![](assets/four-2.png)
 

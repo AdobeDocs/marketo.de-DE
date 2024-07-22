@@ -2,7 +2,8 @@
 description: Best Practices für interaktive Webinare - Marketo-Dokumente - Produktdokumentation
 title: Best Practices für interaktive Webinare
 feature: Interactive Webinars
-source-git-commit: 33c67217b57c4dced059488edec9f78d0759e72b
+exl-id: fd9d7d03-8d92-45f7-9372-a2b6d2f4c635
+source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
 workflow-type: tm+mt
 source-wordcount: '1650'
 ht-degree: 0%
@@ -21,7 +22,7 @@ Um Ihnen dabei zu helfen, haben wir eine Liste mit Best Practices zusammengestel
 
 * Erstellen Sie ein Beispiel für ein interaktives Webinar (IW) und klonen Sie es jedes Mal, um zu vermeiden, von Grund auf neu beginnen zu müssen.
 
-* Verwenden Sie Adobe Connect-Räume erneut, wenn Sie denselben Inhalt später erneut bereitstellen. Navigieren Sie zu **Inhalt aus Pods löschen** aus dem Pods-Menü, um den Chat-Verlauf zu löschen, sowie Umfrage/Quiz-Ergebnisse aus der letzten Sitzung. Das löscht nur den Inhalt des Zimmers. Alle Daten aus früheren Sitzungen sind weiterhin in Marketo Engage verfügbar.
+* Verwenden Sie Adobe Connect-Räume erneut, wenn Sie denselben Inhalt später erneut bereitstellen. Navigieren Sie im Menü &quot;Pods&quot;zu **Inhalt aus Pods löschen** , um den Chat-Verlauf zu löschen, und zeigen Sie die Ergebnisse der letzten Sitzung an. Das löscht nur den Inhalt des Zimmers. Alle Daten aus früheren Sitzungen sind weiterhin in Marketo Engage verfügbar.
 
 * Vermeiden Sie die Planung von Back-to-Back-Sitzungen. Stellen Sie sicher, dass Sie mindestens 30 Minuten Vorbereitungszeit vor Beginn Ihres Webinars haben. Dadurch können Sie beliebige Änderungen an der Präsentation in letzter Minute hochladen, Ihr Mikrofon und Ihre Kamera anpassen und neue Moderatoren mit der Oberfläche vertraut machen.
 
@@ -41,7 +42,7 @@ Um Ihnen dabei zu helfen, haben wir eine Liste mit Best Practices zusammengestel
 
 * Nutzen Sie Ihre Website/Ihren Blog, Social Media, Paid Advertising und Partnerwerbung, um eine größere Zielgruppe zu erreichen und Registrierungen zu fördern.
 
-* Senden Sie Erinnerungsnachrichten an registrierte eingeladene Personen 2-3 Tage vor dem Webinar _und_ am Veranstaltungstag, um sicherzustellen, dass sie es nicht vergessen und teilnehmen können.
+* Senden Sie Erinnerungsnachrichten an registrierte Einladende 2-3 Tage vor dem Webinar _und_ am Tag der Veranstaltung, um sicherzustellen, dass sie es nicht vergessen und teilnehmen können.
 
 ### Raum gestalten {#designing-a-room}
 
@@ -66,25 +67,25 @@ Um Ihnen dabei zu helfen, haben wir eine Liste mit Best Practices zusammengestel
 * Aktivieren Sie die Aufzeichnung in den Zimmereinstellungen , wenn Sie die Sitzung aufzeichnen möchten. Die Erinnerung wird 5 Minuten in der Besprechung angezeigt, wenn die Aufzeichnung nicht gestartet wurde.
 
 * Aktivieren Sie den Host- und Presenter-Bereich und richten Sie ihn mit relevanten Pods ein. Dieser Bereich ist nur für Hosts und Moderatoren sichtbar und kann für die Zusammenarbeit im Hintergrund verwendet werden. Einige Pods, die hier eingeschlossen werden sollen, wären:
-   * Interaktions-Dashboard zur Überwachung der Interaktion der Teilnehmer in Echtzeit. [Hier klicken](https://www.youtube.com/watch?v=gf5fu0JK9Hk){target="_blank"} um sich ein kurzes Video über die Verwendung des Interaktions-Dashboards anzusehen.
+   * Interaktions-Dashboard zur Überwachung der Interaktion der Teilnehmer in Echtzeit. [Klicken Sie hier](https://www.youtube.com/watch?v=gf5fu0JK9Hk){target="_blank"} , um sich ein kurzes Video zur Verwendung des Interaktions-Dashboards anzusehen.
    * Chat-Pod, um private Gespräche zwischen den Mitgliedern des Präsentationsteams zu ermöglichen.
    * Hinweis Pod zum Veröffentlichen von Erinnerungsnachrichten, Fragen für den Moderator oder standardmäßigen Frageantworten, die Sie kopieren und einfügen können, um schnelle Antworten auf häufig gestellte Abfragen zu erhalten.
 
-* Benutzerdefinierte Pods sind Drittanbieter-Apps, mit denen die Funktionalität eines Adobe Connect-Raums erweitert werden kann. Benutzerdefinierte Pods können heruntergeladen werden von `apps.adobeconnect.com` als .pod- oder .zip-Dateien, die dann im Freigabe-Pod freigegeben werden können.
+* Benutzerdefinierte Pods sind Drittanbieter-Apps, mit denen die Funktionalität eines Adobe Connect-Raums erweitert werden kann. Benutzerdefinierte Pods können von `apps.adobeconnect.com` als .pod- oder .zip-Dateien heruntergeladen werden, die dann im Freigabe-Pod freigegeben werden können.
    * Einige beliebte benutzerdefinierte Pods sind Countdown Timer, Clock, Rock Paper Scissors, Word Cloud, Titler.
-   * [Hier klicken](https://www.youtube.com/watch?v=1w5nqJqEHQw){target="_blank"} , um sich ein kurzes Video über die Verwendung benutzerdefinierter Pods anzusehen.
+   * [Klicken Sie hier](https://www.youtube.com/watch?v=1w5nqJqEHQw){target="_blank"} , um sich ein kurzes Video zur Verwendung benutzerdefinierter Pods anzusehen.
 
-**Datenschutz: Um die Teilnehmerinformationen vertraulich zu behandeln, überprüfen Sie die folgenden Einstellungen:**
+**Datenschutz: Um die Teilnehmerinformationen vertraulich zu halten, überprüfen Sie die unten stehenden Einstellungen:**
 
-* **Aktivitätsticker**: Activity Ticker zeigt Informationen darüber an, wer gerade spricht, und zeigt Warnungen an, wenn Teilnehmer dem Raum beitreten/ihn verlassen. Der Aktivitätsticker kann entfernt werden, indem Sie unter &quot;Menüleiste&quot;in den Zimmereinstellungen die Option &quot;Aktivitätsticker anzeigen&quot;deaktivieren.
+* **Aktivitätsticker**: Activity Ticker zeigt Informationen darüber an, wer gerade spricht, und zeigt Warnhinweise an, wenn Teilnehmer dem Raum beitreten/ihn verlassen. Der Aktivitätsticker kann entfernt werden, indem Sie unter &quot;Menüleiste&quot;in den Zimmereinstellungen die Option &quot;Aktivitätsticker anzeigen&quot;deaktivieren.
 
-* **Fragen und Antworten**: Der Name des Teilnehmers, der die Frage gesendet hat, und der Name des Gastgebers/Moderators, der die Frage beantwortet hat, können beide ausgeblendet werden. Dies kann erreicht werden, indem Sie die Datenschutzoptionen im Abschnitt &quot;Fragen und Antworten&quot;unter &quot;Zimmereinstellungen&quot;deaktivieren.
+* **Fragen und Antworten-Pod**: Der Name des Teilnehmers, der die Frage gesendet hat, und der Name des Gastgebers/Moderators, der die Frage beantwortet hat, können beide ausgeblendet werden. Dies kann erreicht werden, indem Sie die Datenschutzoptionen im Abschnitt &quot;Fragen und Antworten&quot;unter &quot;Zimmereinstellungen&quot;deaktivieren.
 
-* **Chat-Bedienfeld**: Chat Panel ist ein Chat-Bereich, der nicht Teil von Sitzungsaufzeichnungen ist. Wenn Sie also nicht möchten, dass in Aufzeichnungen Chats angezeigt werden, verwenden Sie das Chat-Bedienfeld anstelle des Chat-Pod. [Hier klicken](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} , um mehr über die Verwendung des Chat-Bedienfelds zu erfahren.
+* **Chat-Bedienfeld**: Das Chat-Bedienfeld ist ein Chat-Bereich, der nicht Teil von Sitzungsaufzeichnungen ist. Wenn Sie also nicht möchten, dass in Aufzeichnungen Chats angezeigt werden, verwenden Sie das Chat-Bedienfeld anstelle des Chat-Pod. [Klicken Sie hier](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} , um mehr über die Verwendung des Chat-Bedienfelds zu erfahren.
 
-* **Privater Chat**: Schalten Sie den privaten Chat aus, um zu verhindern, dass Teilnehmer einen anderen Teilnehmer pingen können. Dies lässt sich erreichen, indem Sie unter &quot;Chat&quot; in den Zimmereinstellungen die Option &quot;Privaten Chat durch die Unterschrift zulassen&quot; deaktivieren.
+* **Privater Chat**: Deaktivieren Sie den privaten Chat, um zu verhindern, dass Teilnehmer einen anderen Teilnehmer pingen können. Dies lässt sich erreichen, indem Sie unter &quot;Chat&quot; in den Zimmereinstellungen die Option &quot;Privaten Chat durch die Unterschrift zulassen&quot; deaktivieren.
 
-* **Teilnehmer-Werbeunterbrechung**: Verschieben Sie den Teilnehmer-Pod in den Bereich Host und Moderator .
+* **Teilnehmer-Werbeunterbrechung**: Verschieben Sie die Teilnehmer-Werbeunterbrechung in den Bereich &quot;Host&quot;und &quot;Moderator&quot;.
 
 ## Versand {#delivery}
 
@@ -98,9 +99,9 @@ Um Ihnen dabei zu helfen, haben wir eine Liste mit Best Practices zusammengestel
 
 * Teilnehmer können den Raum 15 Minuten vor dem geplanten Start betreten. Wechseln Sie 15 Min. vor dem geplanten Start in die Lobby für die Teilnehmer, die frühzeitig ankommen.
 
-* Verwenden Sie den Host- und den Presenter-Bereich als Backstage-Bereich, um sich privat zu koordinieren. [Hier klicken](https://www.youtube.com/watch?v=11GkcvIUttY){target="_blank"} um sich ein kurzes Video über den Host- und Presenter-Bereich anzusehen.
+* Verwenden Sie den Host- und den Presenter-Bereich als Backstage-Bereich, um sich privat zu koordinieren. [Klicken Sie hier](https://www.youtube.com/watch?v=11GkcvIUttY){target="_blank"} , um ein kurzes Video zum Host- und Presenter-Bereich anzuzeigen.
 
-* Verwenden Sie den Vorbereitungsmodus , um alle kurzfristigen Änderungen privat vorzunehmen. [Hier klicken](https://www.youtube.com/watch?v=kUya84sx-E4){target="_blank"} um ein kurzes Video über den Vorbereiten-Modus anzuzeigen.
+* Verwenden Sie den Vorbereitungsmodus , um alle kurzfristigen Änderungen privat vorzunehmen. [Klicken Sie hier](https://www.youtube.com/watch?v=kUya84sx-E4){target="_blank"} , um sich ein kurzes Video zum Vorbereiten des Modus anzusehen.
 
 * Verwenden Sie das Interaktions-Dashboard, um einen Tab zu den Interessensstufen der Teilnehmer beizubehalten. Springen Sie zu einer Umfrage, stellen Sie eine Frage zu einer Übereinstimmung/Nicht-Übereinstimmung, fügen Sie eine Frage in den Chat-Pod ein oder verwenden Sie den benutzerdefinierten Pod von Word Cloud, um Antworten von Teilnehmern zu erhalten und die Interaktionsraten zu erhöhen.
 

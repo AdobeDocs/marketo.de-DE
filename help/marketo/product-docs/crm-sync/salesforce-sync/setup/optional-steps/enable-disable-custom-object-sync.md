@@ -19,9 +19,9 @@ Benutzerdefinierte Objekte, die in Ihrer Salesforce-Instanz erstellt wurden, kö
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Erforderliche Administratorberechtigungen**
 
-1. Klicks **[!UICONTROL Admin]**.
+1. Klicken Sie auf **[!UICONTROL Admin]**.
 
    ![](assets/one.png)
 
@@ -33,7 +33,7 @@ Benutzerdefinierte Objekte, die in Ihrer Salesforce-Instanz erstellt wurden, kö
 
    ![](assets/image2014-12-10-10-3a14-3a44.png)
 
-1. Wenn Ihre globale Synchronisierung ausgeführt wird, müssen Sie sie deaktivieren, indem Sie auf **[!UICONTROL Globale Synchronisierung deaktivieren]**.
+1. Wenn Ihre globale Synchronisierung ausgeführt wird, müssen Sie sie deaktivieren, indem Sie auf **[!UICONTROL Globale Synchronisierung deaktivieren]** klicken.
 
    ![](assets/image2014-12-10-10-3a14-3a54.png)
 
@@ -41,7 +41,7 @@ Benutzerdefinierte Objekte, die in Ihrer Salesforce-Instanz erstellt wurden, kö
    >
    >Die Synchronisierung des benutzerdefinierten Salesforce-Objektschemas kann einige Minuten dauern.
 
-1. Klicks **[!UICONTROL Schema aktualisieren]**.
+1. Klicken Sie auf **[!UICONTROL Schema aktualisieren]**.
 
    ![](assets/image2014-12-10-10-3a15-3a7.png)
 
@@ -53,11 +53,11 @@ Benutzerdefinierte Objekte, die in Ihrer Salesforce-Instanz erstellt wurden, kö
 
    ![](assets/image2014-12-10-10-3a15-3a30.png)
 
-1. Klicks **[!UICONTROL Synchronisierung aktivieren]** erneut.
+1. Klicken Sie erneut auf **[!UICONTROL Synchronisierung aktivieren]** .
 
    ![](assets/image2014-12-10-10-3a15-3a40.png)
 
-1. Gehen Sie zurück zu **[!DNL Salesforce]** Registerkarte und klicken Sie auf **[!UICONTROL Synchronisierung aktivieren]**.
+1. Gehen Sie zurück zur Registerkarte **[!DNL Salesforce]** und klicken Sie auf **[!UICONTROL Synchronisation aktivieren]**.
 
    ![](assets/image2014-12-10-10-3a15-3a49.png)
 
@@ -67,7 +67,7 @@ Benutzerdefinierte Objekte, die in Ihrer Salesforce-Instanz erstellt wurden, kö
 >
 >Sie können keine benutzerdefinierten Objekte in Smart-Kampagnen mit Triggern verwenden.
 
-1. Ziehen Sie in Ihrer Smart-Liste über die **[!UICONTROL Hat Chancen]** filtern und auf **[!UICONTROL true]**.
+1. Ziehen Sie in Ihre Smart-Liste den Filter **[!UICONTROL Hat Chancen]** und legen Sie den Wert auf **[!UICONTROL true]** fest.
 
    ![](assets/image2015-8-26-9-3a39-3a28.png)
 
@@ -79,4 +79,4 @@ Benutzerdefinierte Objekte, die in Ihrer Salesforce-Instanz erstellt wurden, kö
 
 >[!MORELIKETHIS]
 >
->[Benutzerdefiniertes Objektfeld als Smart-List-/Trigger-Einschränkungen hinzufügen/entfernen](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}
+>[Benutzerdefiniertes Objektfeld als Smart List/Trigger Constraints hinzufügen/entfernen](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}

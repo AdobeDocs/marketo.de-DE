@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # Ersetzen eines hochgeladenen Bildes oder einer Datei {#replace-an-uploaded-image-or-file}
 
-1. Navigieren Sie zu **[!UICONTROL Design Studio]**.
+1. Wechseln Sie zu **[!UICONTROL Design Studio]**.
 
    ![](assets/replace-an-uploaded-image-or-file-1.png)
 
-1. Klicks **[!UICONTROL Bilder und Dateien]**.
+1. Klicken Sie auf **[!UICONTROL Bilder und Dateien]**.
 
    ![](assets/replace-an-uploaded-image-or-file-2.png)
 
-1. Wählen Sie das Asset aus, das Sie ersetzen möchten. Klicken Sie auf **[!UICONTROL Bild- und Dateiaktionen]** und wählen Sie **[!UICONTROL Bild oder Datei ersetzen]**.
+1. Wählen Sie das Asset aus, das Sie ersetzen möchten. Klicken Sie auf das Dropdown-Menü **[!UICONTROL Bild- und Dateiaktionen]** und wählen Sie **[!UICONTROL Bild oder Datei ersetzen]** aus.
 
    ![](assets/replace-an-uploaded-image-or-file-3.png)
 
@@ -46,4 +46,4 @@ Gute Arbeit!
 >[!MORELIKETHIS]
 >
 >* [Hochgeladene Bilder und Dateien durchsuchen](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md){target="_blank"}
->* [Suchen der URL eines hochgeladenen Bildes oder einer hochgeladenen Datei](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md){target="_blank"}
+>* [URL eines hochgeladenen Bildes oder einer hochgeladenen Datei suchen](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md){target="_blank"}

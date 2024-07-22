@@ -13,7 +13,7 @@ ht-degree: 3%
 
 # Dynamische Abmeldemeldung für Sprachen {#make-your-unsubscribe-message-dynamic-for-languages}
 
-Die Standard-Abmelde-Nachricht und der entsprechende Link sind in englischer Sprache verfügbar. Sie können dynamische Inhalte verwenden, um sie in verschiedenen Sprachen anzuzeigen.
+Die Standard-Abmelde-Nachricht und der entsprechende Link sind auf Englisch verfügbar. Sie können dynamische Inhalte verwenden, um sie in verschiedenen Sprachen anzuzeigen.
 
 >[!NOTE]
 >
@@ -21,23 +21,23 @@ Die Standard-Abmelde-Nachricht und der entsprechende Link sind in englischer Spr
 
 ## Daten vorbereiten {#prepare-your-data}
 
-1. [Benutzerdefiniertes Feld erstellen](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) namens &quot;Bevorzugte Sprache&quot;. (Richten Sie es in Ihrem CRM ein, wenn dieses Feld synchronisiert werden soll).
+1. [Erstellen Sie ein benutzerdefiniertes Feld ](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) mit dem Namen &quot;Bevorzugte Sprache&quot;. (Richten Sie es in Ihrem CRM ein, wenn dieses Feld synchronisiert werden soll).
 
    >[!TIP]
    >
-   >Verwenden Sie dieses Feld zukünftig, wenn Sie [Erstellen eines Formulars](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) , um die Sprachvoreinstellung zu erfassen.
+   >Verwenden Sie dieses Feld zukünftig, wenn Sie [ein Formular ](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) erstellen, um die Spracheinstellung zu erfassen.
 
 ## Segmentierung erstellen {#create-segmentation}
 
-1. Navigieren Sie zu **[!UICONTROL Datenbank]**.
+1. Wechseln Sie zur **[!UICONTROL Datenbank]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-1.png)
 
-1. Im **[!UICONTROL Neu]** Dropdown, klicken Sie auf **[!UICONTROL Neue Segmentierung]**.
+1. Klicken Sie in der Dropdown-Liste **[!UICONTROL Neu]** auf **[!UICONTROL Neue Segmentierung]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-2.png)
 
-1. Benennen Sie die Segmentierung. **[!UICONTROL Bevorzugte Sprache]**. Klicken **[!UICONTROL Segment hinzufügen]**. Geben Sie eine Sprache ein.
+1. Benennen Sie die Segmentierung mit &quot;**[!UICONTROL Bevorzugte Sprache]**&quot;. Klicken Sie auf **[!UICONTROL Segment hinzufügen]**. Geben Sie eine Sprache ein.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-3.png)
 
@@ -53,7 +53,7 @@ Die Standard-Abmelde-Nachricht und der entsprechende Link sind in englischer Spr
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-5.png)
 
-1. Wechseln Sie zur Registerkarte **[!UICONTROL Intelligente Liste.]** Eingabe **[!UICONTROL Bevorzugte Sprache]** in das Suchfeld ein. Ziehen Sie den Filter auf die Arbeitsfläche.
+1. Gehen Sie zur Registerkarte **[!UICONTROL Smart List]** . Geben Sie **[!UICONTROL Bevorzugte Sprache]** in das Suchfeld ein. Ziehen Sie den Filter auf die Arbeitsfläche.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-6.png)
 
@@ -61,21 +61,21 @@ Die Standard-Abmelde-Nachricht und der entsprechende Link sind in englischer Spr
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-7.png)
 
-1. Wiederholen Sie diese Schritte für alle Ihre Sprachen. Wählen Sie anschließend die **[!UICONTROL Segmentierungsaktionen]** Dropdown-Liste und klicken Sie auf **[!UICONTROL Genehmigen]**.
+1. Wiederholen Sie diese Schritte für alle Ihre Sprachen. Wählen Sie dann das Dropdown-Menü **[!UICONTROL Segmentierungsaktionen]** aus und klicken Sie auf **[!UICONTROL Genehmigen]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-8.png)
 
 ## Snippet erstellen {#create-a-snippet}
 
-1. Navigieren Sie zu **[!UICONTROL Design Studio]**.
+1. Wechseln Sie zu **[!UICONTROL Design Studio]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-9.png)
 
-1. Im **[!UICONTROL Neu]** Dropdown, klicken **[!UICONTROL Neuer Snippet]**.
+1. Klicken Sie im Dropdown-Menü **[!UICONTROL Neu]** auf **[!UICONTROL Neues Snippet]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-10.png)
 
-1. Benennen Sie das Snippet. **Abmelde-Nachricht**. Klicken Sie auf **[!UICONTROL Erstellen]**.
+1. Nennen Sie das Snippet &quot;**Unsubscribe Message**&quot;. Klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-11.png)
 
@@ -83,15 +83,15 @@ Die Standard-Abmelde-Nachricht und der entsprechende Link sind in englischer Spr
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-12.png)
 
-1. Kopieren Sie dieses Token und fügen Sie es ein: `{{system.unsubscribeLink}}` in **[!UICONTROL URL]** -Feld. Klicken Sie auf **[!UICONTROL Einfügen]**.
+1. Kopieren Sie dieses Token: `{{system.unsubscribeLink}}` und fügen Sie es in das Feld **[!UICONTROL URL]** ein. Klicken Sie auf **[!UICONTROL Einfügen]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-13.png)
 
-1. Auswählen **[!UICONTROL Segment nach]** im **[!UICONTROL Segmentierung]** Abschnitt.
+1. Wählen Sie **[!UICONTROL Segment nach]** im Abschnitt **[!UICONTROL Segmentierung]** aus.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-14.png)
 
-1. Aus dem **[!UICONTROL Segmentierung]** Dropdown, Eingabe **[!UICONTROL Bevorzugt]** und wählen Sie **[!UICONTROL Bevorzugte Sprache]**. Klicken **[!UICONTROL Speichern]**.
+1. Geben Sie in der Dropdown-Liste **[!UICONTROL Segmentierung]** den Wert **[!UICONTROL Bevorzugt]** ein und wählen Sie **[!UICONTROL Bevorzugte Sprache]** aus. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-15.png)
 
@@ -99,11 +99,11 @@ Die Standard-Abmelde-Nachricht und der entsprechende Link sind in englischer Spr
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-16.png)
 
-1. Stellen Sie sicher `{{system.unsubscribeLink}}` befindet sich noch in der **[!UICONTROL URL]** -Feld. Bearbeiten Sie die **[!UICONTROL Text anzeigen]** , um die ausgewählte Sprache anzuzeigen. Klicken **[!UICONTROL Anwenden]**.
+1. Stellen Sie sicher, dass `{{system.unsubscribeLink}}` noch im Feld **[!UICONTROL URL]** enthalten ist. Bearbeiten Sie den **[!UICONTROL Text anzeigen]** entsprechend der ausgewählten Sprache. Klicken Sie auf **[!UICONTROL Anwenden]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-17.png)
 
-1. Wiederholen Sie diese Schritte für alle Ihre Segmente. Gehen Sie dann zurück zum **[!UICONTROL Design Studio]**, klicken Sie auf die **[!UICONTROL Snippet-Aktionen]** und klicken Sie auf **[!UICONTROL Genehmigen]**.
+1. Wiederholen Sie diese Schritte für alle Ihre Segmente. Gehen Sie dann zurück zu **[!UICONTROL Design Studio]**, klicken Sie auf die Dropdown-Liste **[!UICONTROL Ausschnitt-Aktionen]** und klicken Sie auf **[!UICONTROL Genehmigen]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-18.png)
 
@@ -111,7 +111,7 @@ Fantastisch. Fast da!
 
 ## Snippet in einer E-Mail verwenden {#use-snippet-in-an-email}
 
-1. Klicken Sie im E-Mail-Editor auf das bearbeitbare Element. Klicken Sie dann auf das Zahnradsymbol und wählen Sie **[!UICONTROL Ersetzen durch Snippet]**. Wenn Sie ein bearbeitbares Snippet-Element auswählen, klicken Sie auf das Zahnradsymbol und wählen Sie **[!UICONTROL Bearbeiten]**.
+1. Klicken Sie im E-Mail-Editor auf das bearbeitbare Element. Klicken Sie dann auf das Zahnradsymbol und wählen Sie **[!UICONTROL Durch Snippet ersetzen]** aus. Wenn Sie ein bearbeitbares Snippet-Element auswählen, klicken Sie auf das Zahnradsymbol und wählen Sie **[!UICONTROL Bearbeiten]** aus.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-19.png)
 
@@ -119,11 +119,11 @@ Fantastisch. Fast da!
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-20.png)
 
-1. Um es auszuprobieren, klicken Sie auf **[!UICONTROL Zurück]**...
+1. Klicken Sie zum Testen auf **[!UICONTROL Zurück]**...
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-21.png)
 
-1. ...dann die **[!UICONTROL Dynamik]** Registerkarte.
+1. ... dann die Registerkarte **[!UICONTROL Dynamisch]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-22.png)
 
@@ -133,29 +133,29 @@ Fantastisch. Fast da!
 
    >[!TIP]
    >
-   >Natürlich können Sie den Rest Ihrer E-Mail auch für dynamische Sprachen bearbeiten. Führen Sie auf der Abmeldeseite die gleiche Technik aus, während Sie damit arbeiten.
+   >Natürlich können Sie den Rest Ihrer E-Mail auch für dynamische Sprachen bearbeiten. Führen Sie auf der Abmeldeseite die gleiche Technik aus, während Sie damit fertig sind.
 
 ## Anpassen der Abmeldeseite mit dynamischen Inhalten {#customizing-your-unsubscribe-page-with-dynamic-content}
 
 Wenn Sie möchten, dass Ihre Personen zu einer Abmeldeseite in der gewünschten Sprache gelangen, können Sie dynamischen Inhalt auf der Landingpage und der Bestätigungsseite verwenden.
 
-1. Navigieren Sie zum **[!UICONTROL Design Studio]**.
+1. Navigieren Sie zu **[!UICONTROL Design Studio]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-24.png)
 
-1. Geben Sie ein _Abmelden_ in das Suchfeld ein und wählen Sie die gewünschte Abmeldeseite aus.
+1. Geben Sie _Unsubscribe_ in das Suchfeld ein und wählen Sie die gewünschte Abmeldeseite aus.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-25.png)
 
-1. Klicken **[!UICONTROL Entwurf bearbeiten]**.
+1. Klicken Sie auf **[!UICONTROL Entwurf bearbeiten]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-26.png)
 
-1. Auswählen **[!UICONTROL Segment nach]**.
+1. Wählen Sie **[!UICONTROL Segment nach]** aus.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-27.png)
 
-1. Suchen Sie die **[!UICONTROL Bevorzugte Sprache]** Segment. Klicken **[!UICONTROL Speichern]**.
+1. Suchen Sie das Segment **[!UICONTROL Bevorzugte Sprache]** . Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-28.png)
 
@@ -163,4 +163,4 @@ Wenn Sie möchten, dass Ihre Personen zu einer Abmeldeseite in der gewünschten 
 
    >[!NOTE]
    >
-   >Weitere Informationen [dynamischer Inhalt](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) und all die coolen Sachen, die man machen kann.
+   >Erfahren Sie mehr über [dynamischen Inhalt](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) und alle coolen Dinge, die Sie tun können.

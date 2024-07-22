@@ -17,7 +17,7 @@ Verwenden Sie LinkedIn Lead Gen Forms, um Werbekampagnen in LinkedIn auszuführe
 
 >[!IMPORTANT]
 >
->LinkedIn aktualisiert ihre Marketing-APIs, die von Marketo Engage LinkedIn-Integrationen verwendet werden. Diese Änderungen erfordern eine erneute Authentifizierung aller LinkedIn LaunchPoint-Dienste in Ihren **Admin** > **LaunchPoint** zwischen dem 7. Juni und dem 15. Dezember 2024, um Dienstunterbrechungen zu vermeiden. Weitere Informationen finden Sie im [Häufig gestellte Fragen zur Migration](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
+>LinkedIn aktualisiert ihre Marketing-APIs, die von Marketo Engage LinkedIn-Integrationen verwendet werden. Diese Änderungen erfordern eine erneute Authentifizierung aller LinkedIn LaunchPoint-Dienste in Ihrem Menü **Admin** > **LaunchPoint** zwischen dem 7. Juni und dem 15. Dezember 2024, um eine Dienstunterbrechung zu vermeiden. Weitere Informationen finden Sie in den [FAQ zur Migration](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
 
 >[!NOTE]
 >
@@ -27,19 +27,19 @@ Verwenden Sie LinkedIn Lead Gen Forms, um Werbekampagnen in LinkedIn auszuführe
 >
 >Ein LinkedIn-Lead kommt nicht in die Marketo Engage, wenn er mit einem in Marketo vorhandenen Personendatensatz übereinstimmt, der mit einem mithilfe von Unternehmens-APIs erstellten Firmendatensatz verknüpft ist, und das Marketo-Abonnement nicht mit einem CRM verbunden ist.
 
-1. Navigieren zu Marketo **Admin**.
+1. Navigieren Sie zu Marketo **Admin**.
 
    ![](assets/image2016-11-29-10-3a50-3a29.png)
 
-1. Navigieren Sie zu **LaunchPoint**, klicken Sie auf **Neu** und wählen **Neuer Dienst**.
+1. Wechseln Sie zu **LaunchPoint**, klicken Sie auf **Neu** und wählen Sie **Neuer Dienst** aus.
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
-1. Geben Sie einen **Anzeigename** Wählen Sie für Ihren Dienst die **LinkedIn Lead Gen.** Dienst aus der Dropdown-Liste aus und klicken Sie auf **Nächste**.
+1. Geben Sie einen **Anzeigenamen** für Ihren Dienst ein, wählen Sie den Dienst **LinkedIn Lead Gen** aus der Dropdown-Liste aus und klicken Sie auf **Weiter**.
 
    ![](assets/linkedin-lead-gen.png)
 
-1. Marketo öffnet eine neue Registerkarte im selben Browser, um [linkedin.com](https://www.linkedin.com). Melden Sie sich mit dem Konto, das Sie für die Integration verwenden möchten, bei LinkedIn an.
+1. Marketo öffnet im selben Browser eine neue Registerkarte für [linkedin.com](https://www.linkedin.com). Melden Sie sich mit dem Konto, das Sie für die Integration verwenden möchten, bei LinkedIn an.
 
    >[!NOTE]
    >
@@ -47,23 +47,23 @@ Verwenden Sie LinkedIn Lead Gen Forms, um Werbekampagnen in LinkedIn auszuführe
 
    ![](assets/linkedin-login.png)
 
-1. Nachdem Sie sich bei LinkedIn angemeldet haben, kehren Sie zu Marketo zurück und klicken Sie auf **Autorisieren**.
+1. Nachdem Sie bei LinkedIn angemeldet sind, kehren Sie zu Marketo zurück und klicken Sie auf **Autorisieren**.
 
    ![](assets/linkedin-lead-gen-authorize.png)
 
-1. Klicken Sie bei Aufforderung auf **Zulassen** , um die Installation der Marketo-App in LinkedIn zu akzeptieren.
+1. Klicken Sie nach Aufforderung auf **Zulassen** , um die Installation der Marketo-App in LinkedIn zu akzeptieren.
 
    ![](assets/linkedin-marketo-allow.png)
 
-1. Du wirst feststellen, dass du jetzt autorisiert bist. Klicks **Nächste**.
+1. Du wirst feststellen, dass du jetzt autorisiert bist. Klicken Sie auf **Weiter**.
 
    ![](assets/image2017-9-28-7-3a55-3a14.png)
 
    >[!CAUTION]
    >
-   >Der Dienst läuft automatisch ein Jahr nach der Autorisierung ab. Um den Zugriff wiederherzustellen, klicken Sie einfach auf **Erneutes Autorisieren**. Je nach Browsereinstellungen müssen Sie möglicherweise Ihr LinkedIn-Kennwort erneut eingeben.
+   >Der Dienst läuft automatisch ein Jahr nach der Autorisierung ab. Um wieder Zugriff zu erhalten, klicken Sie einfach auf **Erneut autorisieren**. Je nach Browsereinstellungen müssen Sie möglicherweise Ihr LinkedIn-Kennwort erneut eingeben.
 
-1. Wählen Sie die Konten aus, von denen die Lead-Gen-Leads von LinkedIn nach Marketo gelangen sollen, und klicken Sie auf **Nächste**.
+1. Wählen Sie die Konten aus, von denen die Lead-Gen-Leads von LinkedIn in Marketo eingehen sollen, und klicken Sie auf **Weiter**.
 
    >[!TIP]
    >
@@ -75,13 +75,13 @@ Verwenden Sie LinkedIn Lead Gen Forms, um Werbekampagnen in LinkedIn auszuführe
 
    >[!CAUTION]
    >
-   >Marketo unterstützt die Zuordnung von zwei LinkedIn-Feldern zu einem einzigen Marketo-Feld. **aber nur, wenn** Die beiden LinkedIn-Felder befinden sich nicht im selben Formular. Wenn Sie zwei Felder desselben LinkedIn-Formulars einem einzigen Marketo-Feld zuordnen, können Personen möglicherweise nicht in Ihre Marketo-Datenbank eintreten.
+   >Marketo unterstützt die Zuordnung von zwei LinkedIn-Feldern zu einem einzelnen Marketo-Feld, **jedoch nur, wenn** die beiden LinkedIn-Felder nicht im selben Formular vorhanden sind. Wenn Sie zwei Felder desselben LinkedIn-Formulars einem einzigen Marketo-Feld zuordnen, können Personen möglicherweise nicht in Ihre Marketo-Datenbank eintreten.
 
    ![](assets/linkedin-lead-gen-mapping.png)
 
    >[!NOTE]
    >
-   >Nur LinkedIn-Felder, die bereits in einem [Formularvorlage](https://www.linkedin.com/help/lms/answer/79634) wird in LinkedIn Campaign Manager als LinkedIn-Felder angezeigt, die Marketo-Feldern zugeordnet werden können.
+   >Nur LinkedIn-Felder, die bereits in einer [Formularvorlage](https://www.linkedin.com/help/lms/answer/79634) im LinkedIn Campaign Manager gespeichert wurden, werden als LinkedIn-Felder angezeigt, die Marketo-Feldern zugeordnet werden können.
 
    ![](assets/linkedin-installed-services.png)
 

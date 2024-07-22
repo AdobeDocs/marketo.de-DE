@@ -6,7 +6,7 @@ exl-id: 21c529d1-55b0-4529-ac0a-4dfb9d149686
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Der E-Mail-Header in Marketo kann vollständig angepasst werden. Es besteht aus 
 
 * **Von** - Der Name des Absenders, wie er angezeigt werden soll
 * **Von Adresse** - Die E-Mail-Adresse des Absenders, wie sie angezeigt werden soll
-* **Antwort** - Die E-Mail-Adresse, an die die Antwort einer Person gesendet werden soll (kann sich von der Adresse unterscheiden)
+* **Antwort an** - Die E-Mail-Adresse, an die die Antwort einer Person gesendet werden soll (kann sich von der Adresse unterscheiden)
 * **Betreff** - Betreffzeile der E-Mail
 
 Um diese Werte zu bearbeiten, klicken Sie in jedes Feld und geben Sie Ihre Informationen ein.
@@ -26,7 +26,7 @@ Um diese Werte zu bearbeiten, klicken Sie in jedes Feld und geben Sie Ihre Infor
 
 >[!TIP]
 >
->Informationen zum Festlegen einer Standardeinstellung für &quot;Von Name&quot;und &quot;Von E-Mail&quot;finden Sie unter [Standard von E-Mail und Titel ändern](/help/marketo/product-docs/administration/email-setup/change-the-default-from-email-and-from-label.md).
+>Informationen zum Festlegen einer Standardeinstellung für &quot;Von Name&quot;und &quot;Von E-Mail&quot;finden Sie unter [Ändern der Standardeinstellung von E-Mail und von Titel](/help/marketo/product-docs/administration/email-setup/change-the-default-from-email-and-from-label.md).
 
 Wenn Sie ein Token verwenden möchten, klicken Sie zuerst in das gewünschte Feld und dann auf das Tokensymbol.
 
@@ -50,4 +50,4 @@ Bei mehr als 50 Zeichen wird der Zähler rot, um Sie zu warnen.
 
 >[!MORELIKETHIS]
 >
->[Übersicht über Email Editor v2.0](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)
+>[Überblick über den E-Mail-Editor v2.0](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)

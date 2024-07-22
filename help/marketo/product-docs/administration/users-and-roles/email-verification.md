@@ -24,25 +24,25 @@ Wenn ein Administrator einen Benutzer einlädt, wird dieser automatisch überpr�
 
 >[!IMPORTANT]
 >
->Die Ausnahme von oben ist: _in einem SSO-Abonnement_, erhalten Administratoren eine neue Benutzereinladung, Benutzer ohne Administratorrechte jedoch nicht. Benutzer, die keine Administratoren sind, müssen weiterhin den E-Mail-Verifizierungsprozess durchlaufen, um die Migration ihrer Datensätze sicherzustellen. Benutzer können sich den E-Mail-Verifizierungslink senden, indem sie **Admin** > **Mein Konto** > **Kontoeinstellungen** und klicken **Überprüfung erneut durchführen**.
+>Die Ausnahme oben ist, dass in einem reinen SSO-Abonnement _Administratoren eine neue Benutzereinladung erhalten, Benutzer, die keine Administratoren sind, dies jedoch nicht._ Benutzer, die keine Administratoren sind, müssen weiterhin den E-Mail-Verifizierungsprozess durchlaufen, um die Migration ihrer Datensätze sicherzustellen. Benutzer können den E-Mail-Verifizierungslink selbst senden, indem sie zu **Admin** > **Mein Konto** > **Kontoeinstellungen** navigieren und auf **Überprüfung erneut senden** klicken.
 
 ![](assets/email-verification-1.png)
 
-## Verification Email {#verification-email}
+## Verifizierungs-E-Mail {#verification-email}
 
 Benutzer erhalten die E-Mail unten, wenn die E-Mail-Verifizierung für ein Abonnement aktiviert ist oder von einem Administrator/Benutzer ausgelöst wird.
 
-Für eine erfolgreiche E-Mail-Überprüfung ist eine aktive Benutzersitzung erforderlich. Der Benutzer muss sich zunächst mit seiner Identity Provider (IdP)-URL bei seinem Marketo-Abonnement anmelden. Sobald eine Sitzung eingerichtet ist, _then_ klicken Sie auf **E-Mail-Adresse überprüfen** in der E-Mail.
+Für eine erfolgreiche E-Mail-Überprüfung ist eine aktive Benutzersitzung erforderlich. Der Benutzer muss sich zunächst mit seiner Identity Provider (IdP)-URL bei seinem Marketo-Abonnement anmelden. Sobald eine Sitzung eingerichtet ist, klicken sie _dann_ auf den Link **E-Mail-Adresse überprüfen** in der E-Mail.
 
 ![](assets/email-verification-2.png)
 
 >[!TIP]
 >
->Um eine Verifizierungs-E-Mail erneut an einen nicht verifizierten Benutzer zu senden, wählen Sie einfach dessen Datensatz aus und klicken Sie auf die **[!UICONTROL Email überprüfen]** Schaltfläche.
+>Um eine Verifizierungs-E-Mail erneut an einen nicht verifizierten Benutzer zu senden, wählen Sie einfach seinen Datensatz aus und klicken Sie auf die Schaltfläche **[!UICONTROL E-Mail verifizieren]** .
 
 ## E-Mail-Adresse ändern {#changing-an-email-address}
 
-Wenn die E-Mail-Adresse eines Benutzers geändert wird, wird sie nicht überprüft. Sie erhalten eine E-Mail, in der sie eine erneute Überprüfung durchführen können. Benutzer können diese E-Mail manuell erneut senden, indem sie auf **[!UICONTROL Überprüfung erneut durchführen]**.
+Wenn die E-Mail-Adresse eines Benutzers geändert wird, wird sie nicht überprüft. Sie erhalten eine E-Mail, in der sie eine erneute Überprüfung durchführen können. Benutzer können diese E-Mail manuell erneut senden, indem sie auf **[!UICONTROL Überprüfung erneut senden]** klicken.
 
 ![](assets/email-verification-3.png)
 
@@ -50,7 +50,7 @@ Wenn die E-Mail-Adresse eines Benutzers geändert wird, wird sie nicht überprü
 
 ## Benutzer und Rollen {#users-and-roles}
 
-In **[!UICONTROL Admin]** > **[!UICONTROL Benutzer und Rollen]**, zeigt die Spalte E-Mail-Status den Überprüfungsstatus jedes Benutzers an.
+In der Spalte &quot;**[!UICONTROL Admin]** > **[!UICONTROL Benutzer und Rollen]**&quot;zeigt die Spalte &quot;E-Mail-Status&quot;den Verifizierungsstatus jedes Benutzers an.
 
 ![](assets/email-verification-5.png)
 

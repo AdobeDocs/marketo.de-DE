@@ -6,8 +6,8 @@ exl-id: a7ce88dc-a4d2-4ccb-9fe5-61130334d24d
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '325'
-ht-degree: 19%
+source-wordcount: '329'
+ht-degree: 13%
 
 ---
 
@@ -21,7 +21,7 @@ Die folgenden Funktionen sind in der Version vom Februar 2015 enthalten. Informa
 
 Viel Spaß! Sie können jetzt intelligente Kampagnen per Drag-and-drop oder mit der Verschieben-Funktion in der Baumstruktur in Programme verschieben und daraus entfernen.
 
-**[Dynamics 2015 (online)](https://docs.marketo.com/display/docs/microsoft+dynamics+2013+on-premises)** - unterstützt!
+**[Dynamics 2015 (Online)](https://docs.marketo.com/display/docs/microsoft+dynamics+2013+on-premises)** - unterstützt!
 
 **HTTPS-Zertifikatänderungen**
 
@@ -31,22 +31,22 @@ und ersetzt die derzeit verwendeten Sicherheitsprotokolle (SHA-1 und SSL) durch 
 
 * marketo.net (verschlüsselter Munchkin-Traffic)
 
-* [marketo.com](https://marketo.com) (Hauptanwendungen von SaaS)
+* [marketo.com](https://marketo.com) (SaaS-Hauptanwendungen)
 
-Dies geschieht kurz nach dieser Version. SHA-1-Protokoll wird temporär von [mktoapi.com](https://mktoapi.com) -Domain bis Dezember 2015, damit Eigentümer von Legacy-Systemen und -Anwendungen ihre Systeme mit SHA-2-Kompatibilität aktualisieren können.
+Dies geschieht kurz nach dieser Version. Das SHA-1-Protokoll wird bis Dezember 2015 vorübergehend auf der Domäne [mktoapi.com](https://mktoapi.com) unterstützt, damit Eigentümer von älteren Systemen und Anwendungen ihre Systeme mit SHA-2-Kompatibilität aktualisieren können.
 
-**Sicheres Munchkin**
+**Secure Munchkin**
 
 Wir entfernen unsere Unterstützung für SSL3. Bis jetzt haben wir SSL3 gepflegt, um die Unterstützung alter Webbrowser zu erhalten. Im Jahr 2015 wird jedoch von diesen Browsern kein signifikanter Web-Traffic mehr beobachtet. Dies würde sich nur auf Munchkin auswirken, wenn es auf sicheren Seiten verwendet wird, und wird nach der Februar-Version langsam eingeführt.
 
-## Verbesserungen bei der Echtzeit-Personalisierung {#real-time-personalization-enhancements}
+## Personalization-Verbesserungen in Echtzeit {#real-time-personalization-enhancements}
 
-**[Target-URL für Kampagnen](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/adding-a-target-url-to-a-web-campaign.md)**
+**[Ziel-URL für Kampagnen](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/adding-a-target-url-to-a-web-campaign.md)**
 
-Wählen Sie mit &#39;Ziel-URL hinzufügen&#39; die Seiten aus, die in Ihrer Echtzeitkampagne angezeigt werden sollen. Diese Funktion funktioniert mit allen Kampagnentypen (Dialog, In Zone, Widgets), ist jedoch besonders nützlich für In-Zone-Kampagnen, bei denen eine Kampagne in der Zone-ID nur für die ausgewählte Ziel-URL gerendert wird. Es unterstützt das Hinzufügen mehrerer URLs zum Targeting verschiedener Webseiten.
+Wählen Sie die Seiten aus, auf denen Ihre Echtzeit-Kampagne mit &quot;Ziel-URL hinzufügen&quot;angezeigt werden soll. Diese Funktion funktioniert mit allen Kampagnentypen (Dialog, In Zone, Widgets), ist jedoch besonders nützlich für In-Zone-Kampagnen, bei denen eine Kampagne in der Zone-ID nur für die ausgewählte Ziel-URL gerendert wird. Es unterstützt das Hinzufügen mehrerer URLs zum Targeting verschiedener Webseiten.
 
 ![](assets/image2015-2-19-11-3a0-3a30.png)
 
-**Land und Bundesland, das dem kontobasierten Targeting hinzugefügt wurde**
+**Land und Status zum kontobasierten Targeting hinzugefügt**
 
 Jetzt können Land und Bundesland zu Ihren Named-Accounts-Listen hinzugefügt werden. Zielen Sie auf wichtigste potenzielle Kunden an bestimmten Standorten ab.

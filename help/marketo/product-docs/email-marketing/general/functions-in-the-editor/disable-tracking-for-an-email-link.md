@@ -6,16 +6,16 @@ exl-id: 841ef605-1664-4457-bc83-50bbe5d44853
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
 
 # Tracking für einen E-Mail-Link deaktivieren {#disable-tracking-for-an-email-link}
 
-Manchmal möchten Sie die **Marketo Tracking URL** auf einen Link in einer E-Mail klicken. Dies ist nützlich, wenn die Zielseite URL-Parameter nicht unterstützt und zu einem fehlerhaften Link führen kann.
+Manchmal möchten Sie die **Marketo-Tracking-URL** für einen Link in einer E-Mail nicht aktivieren. Dies ist nützlich, wenn die Zielseite URL-Parameter nicht unterstützt und zu einem fehlerhaften Link führen kann.
 
-1. E-Mail auswählen und auf **Entwurf bearbeiten**.
+1. Wählen Sie Ihre E-Mail aus und klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/one-7.png)
 
@@ -23,23 +23,23 @@ Manchmal möchten Sie die **Marketo Tracking URL** auf einen Link in einer E-Mai
 
    ![](assets/two-6.png)
 
-1. Klicken Sie auf den entsprechenden Link und anschließend auf die Schaltfläche **Link einfügen/bearbeiten** Schaltfläche.
+1. Klicken Sie auf den betreffenden Link und dann auf die Schaltfläche **Link einfügen/bearbeiten** .
 
    ![](assets/three-6.png)
 
-1. Deaktivieren Sie im Popup Link bearbeiten die Option **Link verfolgen** aktivieren.
+1. Deaktivieren Sie im Popup Link bearbeiten das Kontrollkästchen **Link verfolgen** .
 
    ![](assets/four-4.png)
 
-1. Sie werden die **mkt_tok-Feld einschließen** verschwindet. Klicks **Anwenden**.
+1. Sie werden feststellen, dass das Feld **mkt_tok einschließen** verschwindet. Klicken Sie auf **Anwenden**.
 
    ![](assets/five-3.png)
 
    >[!TIP]
    >
-   >Deaktivieren von **mkt_tok einschließen** lässt weiterhin zu, dass der Link verfolgt wird, aber nach einer Umleitung enthält die Ziel-URL nicht den Abfragezeichenfolgenparameter mkt_tok . Dieser Parameter wird von Marketo-Einstiegsseiten und Munchkin verwendet, um eine ordnungsgemäße Verfolgung der Personenaktivitäten sicherzustellen (z. B. wenn sich eine Person von einer E-Mail abmeldet). Sie sollten die Verwendung dieser Funktion vermeiden, es sei denn, Sie sehen auf Ihrer Website ein seltsames Verhalten aufgrund des vorhandenen Parameters.
+   >Wenn Sie nur die Option **mkt_tok einschließen** deaktivieren, kann der Link weiterhin verfolgt werden. Nach der Umleitung enthält die Ziel-URL jedoch nicht den Abfragezeichenfolgenparameter mkt_tok . Dieser Parameter wird von Marketo-Einstiegsseiten und Munchkin verwendet, um eine ordnungsgemäße Verfolgung der Personenaktivitäten sicherzustellen (z. B. wenn sich eine Person von einer E-Mail abmeldet). Sie sollten die Verwendung dieser Funktion vermeiden, es sei denn, Sie sehen auf Ihrer Website ein seltsames Verhalten aufgrund des vorhandenen Parameters.
 
-1. Klicks **Speichern**.
+1. Klicken Sie auf **Speichern**.
 
    ![](assets/image2014-9-17-22-3a25-3a20.png)
 

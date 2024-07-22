@@ -17,7 +17,7 @@ Wenn Sie Marketo Sales Insight (MSI) und Marketo Sales Connect (MSC) parallel ve
 
 >[!NOTE]
 >
->Dies betrifft nur Kunden, die **both** MSI und MSE, und die die Best-Bets-Funktion in MSI verwenden möchten. Wenn Sie keine Best Bets benötigen/verwenden, können Sie dies ignorieren.
+>Dies betrifft nur Kunden, die **sowohl** MSI als auch MSE verwenden und die die Funktion &quot;Beste Beten&quot;in MSI verwenden möchten. Wenn Sie keine Best Bets benötigen/verwenden, können Sie dies ignorieren.
 
 ## Erste Schritte {#getting-started}
 
@@ -33,71 +33,71 @@ Nachfolgend finden Sie die empfohlenen Namen der Workflow-Regeln und eine Beschr
  <tbody> 
   <tr> 
    <td>Aktualisieren des interessanten Moment Desc-Felds</td> 
-   <td><p>Kopieren aus: Letzte Marketo Interaktion Desc<br>Kopieren nach: Letzter interessanter Moment Desc</p></td> 
+   <td><p>Kopieren von: Letzter Marketo-Interaktionsdesc<br>Kopieren nach: Letzter interessanter Moment Desc</p></td> 
   </tr> 
   <tr> 
    <td>Feld "Interessanten Moment-Typ aktualisieren"</td> 
-   <td><p>Kopieren aus: Letzter Marketo-Interaktionstyp<br>Kopieren nach: Letzter interessanter Moment-Typ</p></td> 
+   <td><p>Kopieren von: Letzter Marketo-Interaktionstyp<br>Kopieren nach: Letzter interessanter Moment-Typ</p></td> 
   </tr> 
   <tr> 
-   <td>Feld "Interessante Moment-Quelle aktualisieren"</td> 
-   <td><p>Kopieren aus: Letzte Marketo-Interaktionsquelle<br>Kopieren nach: Letzte interessante Moment-Quelle</p></td> 
+   <td>Source-Feld für interessanten Moment aktualisieren</td> 
+   <td><p>Kopieren von: Letzte Marketo-Interaktion Source<br>Kopieren nach: Letzter interessanter Moment Source</p></td> 
   </tr> 
   <tr> 
-   <td>Feld für interessantes Datum des Zeitpunkts aktualisieren</td> 
-   <td><p>Kopieren aus: Letztes Interaktionsdatum der Marketo<br>Kopieren nach: Letztes interessantes Datum</p></td> 
+   <td>Feld "Interessantes Datum des Ereignisses aktualisieren"</td> 
+   <td><p>Kopieren von: Letztes Marketo-Interaktionsdatum<br>Kopieren nach: Letztes interessantes Datum des letzten Interaktionsdatums</p></td> 
   </tr> 
  </tbody> 
 </table>
 
 ## Anleitung {#instructions}
 
-1. Nach dem Klicken **Einrichtung**, suchen Sie nach **Workflow** und wählen Sie **Workflow-Regeln**.
+1. Nachdem Sie auf **Einrichten** geklickt haben, suchen Sie nach **Workflow** und wählen Sie **Workflow-Regeln**.
 
    ![](assets/one-1.png)
 
-1. Auswählen **Neue Regel**.
+1. Wählen Sie **Neue Regel** aus.
 
    ![](assets/two-1.png)
 
-1. Klicken Sie auf die Dropdown-Liste Objekt und wählen Sie **Lead** Klicken Sie auf **Nächste**.
+1. Klicken Sie auf die Dropdown-Liste Objekt , wählen Sie **Lead** und klicken Sie dann auf **Weiter**.
 
    ![](assets/three-1.png)
 
-1. Geben Sie als Regelnamen &quot;Update Interest Moment Desc Field&quot;ein. Optionsfeld auswählen **erstellt wurde und jedes Mal, wenn sie bearbeitet wird**. Wählen Sie in der Dropdownliste Regelkriterien die Option **Formel wird als &quot;true&quot;ausgewertet**. Suchen Sie nach der ISCHANGED-Funktion und wählen Sie sie aus. Markieren Sie dann den Standardwert des Felds und klicken Sie auf **Feld einfügen**.
+1. Geben Sie als Regelnamen &quot;Update Interest Moment Desc Field&quot;ein. Wählen Sie das Optionsfeld **erstellt und jedes Mal, wenn es bearbeitet wird** aus. Wählen Sie in der Dropdown-Liste Regelkriterien die Option **Formel wird als &quot;true**&quot;ausgewertet. Suchen Sie nach der ISCHANGED-Funktion und wählen Sie sie aus. Markieren Sie dann den Standardwert des Felds und klicken Sie auf **Feld einfügen**.
 
    ![](assets/four-1.png)
 
-1. Wählen Sie im Popup &quot;Feld einfügen&quot;die Option **Letzte Marketo Interaktion Desc** und klicken Sie auf **Einfügen**.
+1. Wählen Sie im Popup &quot;Feld einfügen&quot;die Option **Letzter Marketo-Interaktionsdesc** und klicken Sie auf **Einfügen**.
 
    ![](assets/five-1.png)
 
-1. Klicken **Speichern und Weiter**.
+1. Klicken Sie auf **Speichern und Weiter**.
 
    ![](assets/6.png)
 
-1. Wählen Sie in der Dropdown-Liste Workflow-Aktion hinzufügen die Option **Neue Feldaktualisierung**.
+1. Wählen Sie in der Dropdown-Liste Workflow-Aktion hinzufügen die Option **Neues Feld-Update** aus.
 
    ![](assets/seven.png)
 
-1. Geben Sie im Feld Name die Option &quot;Update Interest Moment Desc Field&quot; ein (der eindeutige Name wird automatisch generiert). Wählen Sie im Dropdown-Menü Zu aktualisierendes Feld die Option **Letzter interessanter Moment Desc**. Wählen Sie die **Verwenden Sie eine Formel zum Festlegen eines neuen Werts** Optionsfeld und klicken Sie dann auf **Formel-Editor anzeigen**.
+1. Geben Sie im Feld Name die Option &quot;Update Interest Moment Desc Field&quot; ein (der eindeutige Name wird automatisch generiert). Wählen Sie in der Dropdown-Liste Zu aktualisierendes Feld die Option **Letzter interessanter Moment Desc**. Wählen Sie das Optionsfeld **Formel verwenden, um einen neuen Wert festzulegen** aus und klicken Sie dann auf **Formel-Editor anzeigen**.
 
    ![](assets/eight.png)
 
-1. Klicken Sie auf **Feld einfügen** Schaltfläche.
+1. Klicken Sie auf die Schaltfläche **Feld einfügen** .
 
    ![](assets/9a.png)
 
-1. Auswählen **Letzte Marketo Interaktion Desc** und klicken Sie auf **Einfügen**. Klicken Sie auf der nächsten Seite auf **Speichern**.
+1. Wählen Sie **Letzte Marketo-Interaktion Desc** und klicken Sie auf **Einfügen**. Klicken Sie auf der nächsten Seite auf **Speichern**.
 
    ![](assets/nine.png)
 
-1. Klicken **Fertig**.
+1. Klicken Sie auf **Fertig**.
 
    ![](assets/twelve.png)
 
-1. Klicken **Aktivieren** , um die Workflow-Regel zu aktivieren.
+1. Klicken Sie auf **Aktivieren** , um die Workflow-Regel zu aktivieren.
 
    ![](assets/thirteen.png)
 
-   Nach dem letzten Schritt können Sie die Workflow-Regel für die anderen Felder klonen, die im Abschnitt Erste Schritte aufgelistet sind: Desc, Typ, Quelle, Datum. Nachdem Sie die vier Workflow-Regeln im Kontaktobjekt abgeschlossen haben, wiederholen Sie dies für das Lead-Objekt.
+   Nach dem letzten Schritt können Sie die Workflow-Regel für die anderen im Abschnitt Erste Schritte aufgelisteten Felder klonen: Desc, Type, Source, Date. Nachdem Sie die vier Workflow-Regeln im Kontaktobjekt abgeschlossen haben, wiederholen Sie dies für das Lead-Objekt.

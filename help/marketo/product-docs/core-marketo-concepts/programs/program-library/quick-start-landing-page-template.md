@@ -2,10 +2,10 @@
 description: Schnellstart-Landingpage-Vorlage - Marketo-Dokumente - Produktdokumentation
 title: Schnellstart-Landingpage-Vorlage
 feature: Programs
-exl-id: 677bf3fa-25da-40c8-9c1e-6c6385a0596a
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: edd60476-31bc-40f1-ae9d-9fcd3d41501c
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '465'
+source-wordcount: '462'
 ht-degree: 0%
 
 ---
@@ -16,9 +16,9 @@ Einige der Startprogramme in der Marketo Engage Reference Library enthalten eine
 
 >[!TIP]
 >
->Weitere Informationen [Geführte Landingpage-Vorlagen](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md){target="_blank"}
+>Weitere Informationen zu [Guided Landing Page Templates](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md){target="_blank"}
 
-Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalten Sie vom Adobe-Account-Team oder unter [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} Seite.
+Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Programms an das Adobe-Account-Team oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} .
 
 ## Bereichszusammenfassung {#sections-summary}
 
@@ -49,7 +49,8 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
 * Absatztext-Element zum Aktualisieren der Absatzkopie
 * Formularelement zum Hinzufügen in einem Formular
 * Textelement unter dem Formular zum Bearbeiten des Textes und der Links für Datenschutzrichtlinien
-* Zu bearbeitende Variablen: Hintergrundfarbe für Abschnitt
+* Zu bearbeitende Variablen:
+Hintergrundfarbe für Abschnitt
    * Hintergrundfarbe direkt hinter dem Formular
    * Rahmenradius für Formularumrandungen (dadurch, dass sie gekrümmte Ecken haben oder, falls auf &quot;0&quot;gesetzt, von Ecken quadrieren)
    * Anzeigen oder Ausblenden des gesamten Abschnitts
@@ -79,9 +80,9 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
 
 ### Zusätzliche Variablen {#additional-variables}
 
-* **Schaltflächenrahmenradius**: passt die Formularschaltfläche an, um sie zu runden oder rechteckig zu sein.
-* **Schaltflächenfarbe**: aktualisiert die Farbe der Schaltfläche im Formular
-* **Farbe für Schaltflächen-Mauszeiger**: ändert die Farbe des Hover-Status für die Schaltfläche im Formular
-* **Linkfarbe**: aktualisiert die Farbe von Links auf der gesamten Seite.
-* **Abstand am oberen Rand**: fügt über jedem Abschnitt mit Ausnahme des Logo-Bereichs Platz hinzu.
-* **Abstand unten**: fügt unterhalb jedes Abschnitts mit Ausnahme des Bereichs Logos Platz hinzu.
+* **Schaltflächenrahmenradius**: Passt die Formularschaltfläche entweder auf- oder rechteckig an
+* **Schaltflächenfarbe**: Aktualisiert die Farbe der Schaltfläche im Formular
+* **Farbe des Mauszeigers der Schaltfläche**: ändert die Farbe des Hover-Status für die Schaltfläche im Formular
+* **Linkfarbe**: Aktualisiert die Farbe der Links auf der gesamten Seite
+* **Bereichs-Top-Abstand**: Fügt über jedem Abschnitt Platz hinzu, mit Ausnahme des Logo-Bereichs
+* **Abschnitt &quot;Unterer Abstand&quot;**: Fügt unterhalb jedes Abschnitts mit Ausnahme des Bereichs &quot;Logos&quot;Platz hinzu.

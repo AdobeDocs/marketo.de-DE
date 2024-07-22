@@ -21,32 +21,32 @@ Sie können SMS-Nachrichten an die Personen senden, die sich für Ihre Vibes-SMS
 
 >[!AVAILABILITY]
 >
->Sie müssen über ein aktives Vibes-Konto und eine Adobe-Lizenz für Vibes SMS verfügen. Die native Integration von Marketo Vibes SMS ist in den USA und Kanada verfügbar. Für andere Länder kann eine Verbindung über Marketo Webhooks von [direkten Kontakt mit Besuchern](https://www.vibes.com/talk-to-sales){target="_blank"}.
+>Sie müssen über ein aktives Vibes-Konto und eine Adobe-Lizenz für Vibes SMS verfügen. Die native Integration von Marketo Vibes SMS ist in den USA und Kanada verfügbar. Für andere Länder kann eine Verbindung über Marketo Webhooks verwendet werden, indem [Vibes direkt kontaktieren](https://www.vibes.com/talk-to-sales){target="_blank"}.
 
-1. Wechseln Sie in My Marketo zum **[!UICONTROL Admin]** Bereich.
+1. Wechseln Sie in My Marketo zum Bereich **[!UICONTROL Admin]** .
 
    ![](assets/add-vibes-as-a-launchpoint-service-1.png)
 
-1. Klicks **[!UICONTROL LaunchPoint]**.
+1. Klicken Sie auf **[!UICONTROL LaunchPoint]**.
 
    ![](assets/add-vibes-as-a-launchpoint-service-2.png)
 
-1. Klicks **[!UICONTROL Neu]**, dann **[!UICONTROL Neuer Dienst]**.
+1. Klicken Sie auf **[!UICONTROL Neu]** und dann auf **[!UICONTROL Neuer Dienst]**.
 
    ![](assets/add-vibes-as-a-launchpoint-service-3.png)
 
-1. Geben Sie einen Anzeigenamen ein und wählen Sie in der Dropdown-Liste **[!UICONTROL Vibes]**.
+1. Geben Sie einen Anzeigenamen ein und wählen Sie in der Dropdown-Liste **[!UICONTROL Vibes]** aus.
 
    ![](assets/add-vibes-as-a-launchpoint-service-4.png)
 
-1. Geben Sie unter &quot;Einstellungen&quot;Ihre Videos ein. [!UICONTROL Benutzername], [!UICONTROL Passwort], und [!UICONTROL Firmenschlüssel] (alle finden Sie in Ihrem Vibes-Konto). Klicken Sie auf **[!UICONTROL Erstellen]**.
+1. Geben Sie unter &quot;Einstellungen&quot;Ihre Besuche [!UICONTROL Benutzername], [!UICONTROL Passwort] und [!UICONTROL Firmenschlüssel] ein (alle finden Sie in Ihrem Vibes-Konto). Klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/add-vibes-as-a-launchpoint-service-5.png)
 
-   Der neue SMS-Dienst wird jetzt im [!UICONTROL Installierte Dienste] Liste.
+   Der neue SMS-Dienst wird jetzt in der Liste [!UICONTROL Installierte Dienste] angezeigt.
 
    ![](assets/add-vibes-as-a-launchpoint-service-6.png)
 
 >[!MORELIKETHIS]
 >
->[Video-Demo zu Vibes](https://vimeo.com/215233767/1ed136adbc){target="_blank"}
+>Video-Demo ](https://vimeo.com/215233767/1ed136adbc){target="_blank"} [Vibes

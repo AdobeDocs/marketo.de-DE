@@ -22,9 +22,9 @@ So funktionieren die Filter während des Konvertierungsprozesses.
 | Wenn der Lead-Synchronisierungsfilter: | und der Filter für die Kontaktsynchronisierung lautet: | Dies führt zu Marketo |
 |---|---|---|
 | Falsch | Falsch | In Marketo wird nichts synchronisiert. |
-| True | True | Der Kontakt wird in Marketo synchronisiert. |
-| Falsch | True | Neuer Kontaktdatensatz wird in Marketo erstellt |
-| True | Falsch | MS Dynamics aktualisiert Lead-Informationen in Marketo, aber Kontaktdatensätze werden nicht synchronisiert |
+| Richtig | Richtig | Der Kontakt wird in Marketo synchronisiert. |
+| Falsch | Richtig | Neuer Kontaktdatensatz wird in Marketo erstellt |
+| Richtig | Falsch | MS Dynamics aktualisiert Lead-Informationen in Marketo, aber Kontaktdatensätze werden nicht synchronisiert |
 
 >[!CAUTION]
 >

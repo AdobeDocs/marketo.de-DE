@@ -19,7 +19,7 @@ Ermöglichen es Besuchern, das Formular über ihr soziales Netzwerk auszufüllen
 >
 >Nicht alle Marketo Engage-Benutzer haben diese Funktion erworben. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Wechseln Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -37,13 +37,13 @@ Ermöglichen es Besuchern, das Formular über ihr soziales Netzwerk auszufüllen
 
    >[!TIP]
    >
-   >Sehen Sie sich an, was [Daten, die Marketo erfasst](/help/marketo/product-docs/demand-generation/social/social-functions/manage-social-profile-data.md) wenn Benutzer die Social-Schaltflächen verwenden.
+   >Sehen Sie sich an, welche [Daten Marketo ](/help/marketo/product-docs/demand-generation/social/social-functions/manage-social-profile-data.md) erfasst, wenn Benutzer die Social-Schaltflächen verwenden.
 
-1. Klicks **Beenden**.
+1. Klicken Sie auf **Beenden**.
 
    ![](assets/image2014-9-15-16-3a36-3a26.png)
 
-1. Klicks **Genehmigen und schließen**.
+1. Klicken Sie auf **Genehmigen und schließen**.
 
    ![](assets/image2014-9-15-16-3a36-3a33.png)
 

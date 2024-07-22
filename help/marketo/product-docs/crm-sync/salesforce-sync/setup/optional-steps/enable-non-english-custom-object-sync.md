@@ -21,23 +21,23 @@ Wenn Ihr Marketo-Synchronisierungsbenutzer auf eine andere Sprache als Englisch 
 
 ## Umgehen {#getting-around-it}
 
-1. Anmelden bei [!DNL Salesforce] Verwenden des Markets zum Synchronisieren von Benutzern.
+1. Melden Sie sich mit dem Marketo Sync user bei [!DNL Salesforce] an.
 
    ![](assets/image2014-12-10-13-3a18-3a1.png)
 
-1. Navigieren Sie unter dem Benutzernamen zu **[!UICONTROL Einrichtung]**.
+1. Navigieren Sie unter dem Benutzernamen zu **[!UICONTROL Setup]**.
 
    ![](assets/image2014-12-10-13-3a18-3a11.png)
 
-1. under **[!UICONTROL Persönliche Informationen]** klicken **[!UICONTROL Meine personenbezogenen Daten]**.
+1. Klicken Sie unter **[!UICONTROL Persönliche Informationen]** auf **[!UICONTROL Meine personenbezogenen Daten]**.
 
    ![](assets/image2014-12-10-13-3a18-3a22.png)
 
-1. Klicks **[!UICONTROL Bearbeiten]**.
+1. Klicken Sie auf **[!UICONTROL Bearbeiten]**.
 
    ![](assets/image2014-12-10-13-3a18-3a32.png)
 
-1. Ändern Sie die **[!UICONTROL Sprache]** nach **[!UICONTROL englisch]**.
+1. Ändern Sie die **[!UICONTROL Sprache]** in **[!UICONTROL Englisch]**.
 
    ![](assets/image2014-12-10-13-3a18-3a45.png)
 
@@ -45,11 +45,11 @@ Wenn Ihr Marketo-Synchronisierungsbenutzer auf eine andere Sprache als Englisch 
 
    ![](assets/image2014-12-10-13-3a18-3a55.png)
 
-1. Zurück in Marketo, unter **[!UICONTROL Admin]** > **[!UICONTROL Salesforce]** > **[!UICONTROL Objekte]** klicken **[!UICONTROL Schema aktualisieren]**.
+1. Klicken Sie in Marketo unter **[!UICONTROL Admin]** > **[!UICONTROL Salesforce]** > **[!UICONTROL Objekte]** auf **[!UICONTROL Schema aktualisieren]**.
 
    ![](assets/image2014-12-10-13-3a19-3a6.png)
 
-1. Dadurch wird die Objektliste in englischer Sprache abgerufen. Wählen Sie nun das Objekt Ihrer Wahl aus und klicken Sie auf **[!UICONTROL Synchronisierung aktivieren]**.
+1. Dadurch wird die Objektliste in englischer Sprache abgerufen. Wählen Sie nun das Objekt Ihrer Wahl aus und klicken Sie auf **[!UICONTROL Synchronisation aktivieren]**.
 
    ![](assets/image2014-12-10-13-3a19-3a16.png)
 

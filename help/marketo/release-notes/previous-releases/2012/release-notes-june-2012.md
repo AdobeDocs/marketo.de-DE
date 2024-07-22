@@ -6,7 +6,7 @@ exl-id: c22eda86-da7a-4c76-9cea-1ce23ff0f3e8
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '667'
+source-wordcount: '670'
 ht-degree: 0%
 
 ---
@@ -65,7 +65,7 @@ Wenn Sie eine Kampagne planen, können Sie auf den Link klicken, um die Liste de
 
 ## Warteschritt: Lead-Token und My Token {#wait-step-lead-token-and-my-token}
 
-In unserer Mai-Version haben wir dem Schritt Wartefluss erweiterte Optionen hinzugefügt. Mit diesen Änderungen können Sie einen Geschäftstag, ein Datum und eine Uhrzeit angeben. In dieser Version haben wir die Möglichkeit hinzugefügt, ein Token im Warteschritt zu verwenden. Sie können beispielsweise `{{lead.Birthday}}` um eine E-Mail zum Geburtstag zu senden oder `{{my.Event Date}}` , um eine endgültige Webinar-Erinnerung zu senden.
+In unserer Mai-Version haben wir dem Schritt Wartefluss erweiterte Optionen hinzugefügt. Mit diesen Änderungen können Sie einen Geschäftstag, ein Datum und eine Uhrzeit angeben. In dieser Version haben wir die Möglichkeit hinzugefügt, ein Token im Warteschritt zu verwenden. Sie können beispielsweise `{{lead.Birthday}}` verwenden, um eine E-Mail zum Geburtstag zu senden, oder `{{my.Event Date}}` verwenden, um eine endgültige Webinar-Erinnerung zu senden.
 
 ![](assets/image2014-9-23-10-3a25-3a57.png)
 

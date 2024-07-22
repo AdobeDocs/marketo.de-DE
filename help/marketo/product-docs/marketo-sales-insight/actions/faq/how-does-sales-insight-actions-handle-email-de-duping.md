@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Wie werden E-Mail-Deduplizierungen in Sales Insight-Aktionen behandelt? {#how-does-sales-insight-actions-handle-email-de-duping}
 
-Wann du bist [Hochladen einer CSV-Datei](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md) in Sales Insight-Aktionen zusammenführen, führen wir alle ähnlichen Kontakte in der CSV zusammen, bevor der Import stattfindet.
+Wenn Sie eine CSV](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md)-Datei [ in Sales Insight-Aktionen hochladen, führen wir alle wie Kontakte in der CSV zusammen, bevor der Import erfolgt.
 
 Dies geschieht anhand einer ähnlichen E-Mail-Adresse. Wenn es also zwei identische E-Mail-Adressen gibt, führen wir sie zu einem Kontakt zusammen.
 

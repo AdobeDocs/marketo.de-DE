@@ -37,11 +37,11 @@ Verwenden Sie den Filter &quot;Is Person Account&quot;in Ihrer Smart List, um Pe
 
 ## Wo werden die Informationen zu meinen Personenkonten in Marketo Sales Insight angezeigt? {#where-is-my-person-accounts-information-displayed-in-marketo-sales-insight}
 
-Aktivitäten im Zusammenhang mit Personenkonten werden im **[!UICONTROL Konto]** Bedienfeld.
+Aktivitäten im Zusammenhang mit Personenkonten werden im Bereich **[!UICONTROL Konto]** angezeigt.
 
 >[!NOTE]
 >
->Marketo Sales Insight **[!UICONTROL Zu Marketo Campaign hinzufügen]** und **[!UICONTROL E-Mail senden]** -Optionen sind derzeit nicht für Personenkonten verfügbar.
+>Die Optionen **[!UICONTROL Zu Marketo Campaign hinzufügen]** und **[!UICONTROL E-Mail senden]** von Marketo Sales Insight stehen derzeit nicht für Personenkonten zur Verfügung.
 
 ## Wie ordne ich einem Personenkonto Chancen zu? {#how-do-i-associate-opportunities-to-a-person-account}
 
@@ -49,4 +49,4 @@ Marketo hängt von der Rolle des Opportunity-Kontakts ab, um zu bestimmen, welch
 
 ## Welches E-Mail-Feld sollte ich für Personenkonten verwenden? {#which-email-field-should-i-use-for-person-accounts}
 
-Es gibt zwei E-Mail-Felder für ein Personenkonto. Verwenden Sie die **Email-Adresse** in Ihren Formularen (nicht die **Personen-E-Mail-Adresse**), um sicherzustellen, dass die Deduplizierung und andere E-Mail-Verarbeitungsvorgänge von Marketo ordnungsgemäß funktionieren.
+Es gibt zwei E-Mail-Felder für ein Personenkonto. Verwenden Sie das Feld **E-Mail-Adresse** in Ihren Formularen (nicht die **Personen-E-Mail-Adresse**), um sicherzustellen, dass die Deduplizierung von Marketo und andere E-Mail-Verarbeitungen ordnungsgemäß funktionieren.

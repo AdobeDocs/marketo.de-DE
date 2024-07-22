@@ -23,11 +23,11 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. Wählen Sie die neue Phase für Leads aus, die sich derzeit in der ausgewählten Phase befinden, oder wählen Sie **Keines** , um die Leads aus Ihrem Modell zu entfernen. Wenn Sie fertig sind, klicken Sie auf **Zusammenführen**.
+1. Wählen Sie die neue Bühne für Leads aus, die sich derzeit in der ausgewählten Phase befinden, oder wählen Sie **Keine** aus, um die Leads aus Ihrem Modell zu entfernen. Wenn Sie fertig sind, klicken Sie auf **Zusammenführen**.
 
    ![](assets/three.png)
 
-1. Wenn Sie Änderungen am Modell vorgenommen haben, genehmigen Sie es erneut, indem Sie **Modell-Entwurf genehmigen** im **Modellaktionen** Menü.
+1. Wenn Sie Änderungen am Modell vorgenommen haben, genehmigen Sie es erneut, indem Sie im Menü **Modellaktionen** die Option **Modellentwurf genehmigen** auswählen.
 
    ![](assets/four.png)
 
@@ -41,17 +41,17 @@ ht-degree: 0%
 >
 >Wenn Sie die Genehmigung des Modells aufheben, werden alle Leads entfernt und ihr Verlauf im Modell wird gelöscht. Erwägen Sie, Ihr Modell zu bearbeiten, anstatt die Genehmigung aufzuheben.
 
-1. Wählen Sie das Modell aus, dessen Genehmigung Sie aufheben möchten. Aus dem **Modellaktionen** Menü auswählen **Modell nicht genehmigen**.
+1. Wählen Sie das Modell aus, dessen Genehmigung Sie aufheben möchten. Wählen Sie im Menü **Modellaktionen** die Option **Modell nicht genehmigen** aus.
 
    ![](assets/five.png)
 
-1. Klicken **Nicht genehmigen**.
+1. Klicken Sie auf **Nicht genehmigen**.
 
    ![](assets/six.png)
 
 >[!NOTE]
 >
->Wenn Sie dieses Modell erneut genehmigen möchten, müssen Sie zuerst Leads zu den Phasen neu zuweisen.
+>Wenn Sie dieses Modell erneut genehmigen möchten, müssen Sie zuerst Leads zu den Bühnen neu zuweisen.
 
 ## Erstellen weiterer Modelle {#creating-more-models}
 

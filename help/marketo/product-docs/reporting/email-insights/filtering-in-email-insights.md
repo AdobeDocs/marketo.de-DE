@@ -6,7 +6,7 @@ exl-id: be19a63f-7f1b-4920-97da-2e412d5d3fde
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '180'
 ht-degree: 2%
 
 ---
@@ -59,10 +59,10 @@ Wählen Sie aus allgemeinen vordefinierten Datumsbereichen aus, wählen Sie best
 
 >[!NOTE]
 >
->Datumsbereiche gelten sowohl für die Analytics-Seite als auch für die Seite &quot;Sendungen&quot;. Die **Vergleichen** ist jedoch nur auf die Analytics-Seite anwendbar.
+>Datumsbereiche gelten sowohl für die Analytics-Seite als auch für die Seite Sendungen . Die Option **Vergleichen** gilt jedoch nur für die Analytics-Seite.
 
-## Kontobasiertes Marketing {#account-based-marketing}
+## Account-Based-Marketing {#account-based-marketing}
 
-Wenn Sie [Verwaltung von Target-Konten](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview), gibt es Filter speziell für Sie.
+Wenn Sie [Target Account Management](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview) verwenden, gibt es speziell Filter für Sie.
 
 ![](assets/abm.png)

@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Einige Suchbegriffe passen gut zu bestimmten Seiten. So passt man das perfekte Keyword zu seiner perfekten Seite. Dadurch werden die genauesten Daten und die besten Verbesserungsempfehlungen bereitgestellt.
 
-1. Navigieren Sie zu **[!UICONTROL Seiten]** Abschnitt.
+1. Wechseln Sie zum Abschnitt **[!UICONTROL Seiten]** .
 
    ![](assets/image2014-9-18-12-3a52-3a28.png)
 
@@ -23,7 +23,7 @@ Einige Suchbegriffe passen gut zu bestimmten Seiten. So passt man das perfekte K
 
    ![](assets/image2014-9-18-12-3a52-3a41.png)
 
-1. Wählen Sie den Suchbegriff aus, für den Sie Ihre Seite optimieren möchten. Klicken **[!UICONTROL Aktualisieren]**.
+1. Wählen Sie den Suchbegriff aus, für den Sie Ihre Seite optimieren möchten. Klicken Sie auf **[!UICONTROL Aktualisieren]**.
 
    >[!TIP]
    >
@@ -31,4 +31,4 @@ Einige Suchbegriffe passen gut zu bestimmten Seiten. So passt man das perfekte K
 
    ![](assets/image2014-9-18-12-3a52-3a46.png)
 
-Führen Sie dies für so viele Seiten und Suchbegriffe wie möglich aus.
+Führen Sie diese Schritte für so viele Seiten und Suchbegriffe wie möglich aus.

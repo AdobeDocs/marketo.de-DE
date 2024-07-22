@@ -7,7 +7,7 @@ feature: Tags
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 5%
+ht-degree: 0%
 
 ---
 
@@ -17,15 +17,15 @@ Programmkanäle sind eine Sammlung von Status oder Checkpoints-Leads, die in ein
 
 Wenn Sie eine zufällig erstellen oder sie nicht mehr benötigen, können Sie sie löschen.
 
-1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
+1. Wechseln Sie zum Bereich **[!UICONTROL Admin]** .
 
    ![](assets/delete-a-program-channel-1.png)
 
-1. Klicks **[!UICONTROL Tags]**.
+1. Klicken Sie auf **[!UICONTROL Tags]**.
 
    ![](assets/delete-a-program-channel-2.png)
 
-1. Wählen Sie den Kanal aus, den Sie löschen möchten. Im **[!UICONTROL Tag-Aktionen]** Dropdown, klicken Sie auf **[!UICONTROL Löschen]**.
+1. Wählen Sie den Kanal aus, den Sie löschen möchten. Klicken Sie in der Dropdown-Liste **[!UICONTROL Tag-Aktionen]** auf **[!UICONTROL Löschen]**.
 
    >[!TIP]
    >
@@ -33,4 +33,4 @@ Wenn Sie eine zufällig erstellen oder sie nicht mehr benötigen, können Sie si
 
    ![](assets/delete-a-program-channel-3.png)
 
-Sie können auch [Löschen bestimmter Status aus Kanälen](/help/marketo/product-docs/administration/tags/delete-a-program-status-from-a-program-channel.md).
+Sie können auch [bestimmte Status aus Kanälen löschen](/help/marketo/product-docs/administration/tags/delete-a-program-status-from-a-program-channel.md).

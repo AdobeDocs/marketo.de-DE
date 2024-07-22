@@ -16,13 +16,13 @@ Dialoge sind individuelle Chatunterhaltungen. In jedem Dialog legen Sie fest, wo
 
 ## Zielgruppenkriterien {#audience-criteria}
 
-Die [Zielgruppenkriterien](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md){target="_blank"} -Bereich eines Dialogfelds ist der Bereich, in dem Sie definieren, wo und wem Ihre Chat-Konversation angezeigt wird.
+Im Abschnitt [Zielgruppenkriterien](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md){target="_blank"} eines Dialogfelds legen Sie fest, wo und wem Ihre Chat-Konversation angezeigt wird
 
 ![](assets/dialogue-overview-1.png)
 
 ## Entwerferin bzw. Entwerfer des Streams {#stream-designer}
 
-Die [Stream-Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} -Abschnitt eines Dialogfelds ist der Bereich, in dem Sie die Unterhaltung entwerfen, die Sie mit Ihren Website-Besuchern führen möchten.
+Im Abschnitt [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} eines Dialogfelds erstellen Sie die Konversation, die Sie mit den Besuchern Ihrer Website führen möchten.
 
 ![](assets/dialogue-overview-2.png)
 
@@ -39,7 +39,7 @@ Auf der Registerkarte Berichte können Sie Metriken zur Performance Ihres Dialog
 </td>
  </tr>
  <tr>
-  <td><strong>Interaktionen</strong></td>
+  <td><strong>Eingebunden</strong></td>
   <td>Erhöht, wenn ein Besucher mit mindestens einer Karte in einem Dialogfeld interagiert (z. B. Frage, Informationserfassung usw.)</td>
  </tr>
  <tr>
@@ -64,10 +64,10 @@ Auf der Registerkarte Berichte können Sie Metriken zur Performance Ihres Dialog
 
 Sie können alle veröffentlichten Dialogfelder gleichzeitig deaktivieren (und wieder aktivieren).
 
-1. Klicken Sie unter Dynamic Chat auf die **[!UICONTROL Konfiguration]** Registerkarte.
+1. Klicken Sie unter Dynamic Chat auf die Registerkarte **[!UICONTROL Konfiguration]** .
 
    ![](assets/dialogue-overview-4.png)
 
-1. Umschalten zwischen **[!UICONTROL Chat aktiviert]** schalten Sie aus, um alle Dialogfelder zu deaktivieren (und wieder zu aktivieren).
+1. Schalten Sie den Schalter **[!UICONTROL Chat aktiviert]** aus, um alle Dialogfelder zu deaktivieren (und wieder zu aktivieren).
 
    ![](assets/dialogue-overview-5.png)

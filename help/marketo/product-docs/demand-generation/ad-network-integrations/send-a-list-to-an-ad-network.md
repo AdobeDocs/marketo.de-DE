@@ -16,15 +16,15 @@ Erfahren Sie, wie Sie eine statische Liste an LinkedIn, Facebook oder Google sen
 
 ## Senden einer Liste {#how-to-send-a-list}
 
-1. Wählen Sie unter Marketo Engage Ihre Liste aus und klicken Sie auf das **[!UICONTROL Aktionen auflisten]** und wählen Sie **[!UICONTROL An Werbenetzwerk senden]**.
+1. Wählen Sie unter Marketo Engage Ihre Liste aus, klicken Sie auf das Dropdown-Menü **[!UICONTROL Listenaktionen]** und wählen Sie **[!UICONTROL An Werbenetzwerk senden]** aus.
 
    ![](assets/send-a-list-to-an-ad-network-1.png)
 
-1. Wählen Sie zwischen LinkedIn, Facebook oder Google (die anderen Optionen sind derzeit nicht verfügbar). In diesem Beispiel wählen wir **[!UICONTROL LinkedIn]**. Klicks **[!UICONTROL Nächste]**.
+1. Wählen Sie zwischen LinkedIn, Facebook oder Google (die anderen Optionen sind derzeit nicht verfügbar). In diesem Beispiel wählen wir **[!UICONTROL LinkedIn]**. Klicken Sie auf **[!UICONTROL Weiter]**.
 
    ![](assets/send-a-list-to-an-ad-network-2.png)
 
-1. Klicken Sie auf **[!UICONTROL Zielgruppe]** und wählen Sie die gewünschte Zielgruppe aus.
+1. Klicken Sie auf die Dropdownliste **[!UICONTROL Zielgruppe]** und wählen Sie die gewünschte Zielgruppe aus.
 
    ![](assets/send-a-list-to-an-ad-network-3.png)
 
@@ -38,9 +38,9 @@ Erfahren Sie, wie Sie eine statische Liste an LinkedIn, Facebook oder Google sen
 
    >[!NOTE]
    >
-   >Wenn Sie &quot;Kontinuierliche Zielgruppensynchronisierung aktivieren&quot;auswählen, behält Marketo die Liste im ausgewählten Werbenetzwerk auf dem neuesten Stand, da sich die Liste in Ihrer Marketo-Instanz ändert. Wir fügen beide hinzu _und_ Personen aus der Zielgruppe entfernen, wenn sie der statischen Liste hinzugefügt/daraus entfernt werden.
+   >Wenn Sie &quot;Kontinuierliche Zielgruppensynchronisierung aktivieren&quot;auswählen, behält Marketo die Liste im ausgewählten Werbenetzwerk auf dem neuesten Stand, da sich die Liste in Ihrer Marketo-Instanz ändert. Sowohl _als auch_ entfernen Personen aus der Zielgruppe, wenn sie der statischen Liste hinzugefügt/daraus entfernt werden.
 
-1. Und das ist es! Klicks **[!UICONTROL OK]** zu beenden.
+1. Und das ist es! Klicken Sie zum Beenden auf **[!UICONTROL OK]** .
 
    ![](assets/send-a-list-to-an-ad-network-5.png)
 
@@ -50,6 +50,6 @@ Erfahren Sie, wie Sie eine statische Liste an LinkedIn, Facebook oder Google sen
 
 Nein, eine Liste kann nur mit einer einzelnen Ziel-Audience synchronisiert werden.
 
-**Wird die vorhandene Zielgruppe ersetzt, wenn ich die kontinuierliche Synchronisierung mit einer vorhandenen Anzeigenzielgruppe aktivieren?**
+**Wenn ich die kontinuierliche Synchronisierung mit einer vorhandenen Anzeigenzielgruppe aktivieren, wird die vorhandene Zielgruppe ersetzt?**
 
 Nein, die bestehende Zielgruppe wird hinzugefügt, nicht ersetzt.

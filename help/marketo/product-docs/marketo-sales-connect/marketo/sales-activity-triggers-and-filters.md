@@ -20,7 +20,7 @@ Gehen Sie wie folgt vor, um zu erfahren, wie Sie in Ihren Smart-Kampagnen Filter
 
    ![](assets/sales-activity-triggers-and-filters-1.png)
 
-1. Im **Smart List** Registerkarte &quot;Sales Apps&quot;durchsuchen.
+1. Suchen Sie auf der Registerkarte **Smart List** nach &quot;Sales Apps&quot;.
 
    ![](assets/sales-activity-triggers-and-filters-2.png)
 
@@ -34,4 +34,4 @@ Gehen Sie wie folgt vor, um zu erfahren, wie Sie in Ihren Smart-Kampagnen Filter
 
 >[!NOTE]
 >
->Eine vollständige Liste der Aktivitäten, Begrenzungen und Definitionen finden Sie in unserer [Glossar zur Verkaufsaktivität](/help/marketo/product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md).
+>Eine vollständige Liste der Aktivitäten, Begrenzungen und Definitionen finden Sie in unserem [Glossar zur Verkaufsaktivität](/help/marketo/product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md).

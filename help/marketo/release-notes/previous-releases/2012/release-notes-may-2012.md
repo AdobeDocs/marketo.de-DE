@@ -6,16 +6,16 @@ exl-id: b951e986-359d-4da0-8654-4d9f1416cebb
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '641'
+source-wordcount: '660'
 ht-degree: 0%
 
 ---
 
-# Versionshinweise: Mai 2012 {#release-notes-may}
+# Mai 2012 - Versionshinweise {#release-notes-may}
 
 ## Neugestaltung von E-Mail-Leistungsberichten {#email-performance-report-redesign}
 
-Hinweis: Dies wird ein statisches Rollout sein, beginnend mit der Mai-Version
+Hinweis: Dies ist ein statisches Rollout, beginnend mit der Mai-Version
 
 Die Berichte E-Mail-Leistung und E-Mail-Leistung von Campaign wurden schneller ausgeführt. Wir haben auch die Definitionen bestimmter Metriken verbessert und die Metriken &quot;Gesendete Nachrichten&quot;und &quot;Gesendete Nachrichten&quot;zu einer einzigen Metrik, &quot;Gesendet&quot;, zusammengefasst. Wir haben &quot;Zugestellte Nachrichten&quot; und &quot;Zugestellte Interessenten&quot; zu &quot;Zugestellt&quot; zusammengeführt.
 
@@ -27,7 +27,7 @@ Mit den neuen erweiterten Warteeigenschaften können Sie den Warteschritt in ein
 
 Abbildung 1. Festlegen des Warteschritts zum Beenden am Geschäftstag
 
-## Archivierte Assets ausgeblendet {#archived-assets-hidden}
+## Archivierter Assets ausgeblendet {#archived-assets-hidden}
 
 Archivierte Assets werden automatisch aus automatischen Vorschlägen, Dropdown-Menüs und Berichten gefiltert, um die Suche nach dem, was Sie suchen, zu vereinfachen!
 
@@ -35,11 +35,11 @@ Archivierte Assets werden automatisch aus automatischen Vorschlägen, Dropdown-M
 
 Abbildung 2. Beispiel des archivierten E-Mail-Filters
 
-## Neue App zum Einchecken von Ereignissen für iPad {#new-event-check-in-app-for-ipad}
+## Neue Ereigniseincheckanwendung für iPad {#new-event-check-in-app-for-ipad}
 
 Vereinfachen Sie Ihren Ereigniseincheckvorgang mit unserer neuen iPad-App! Die Check-in-App für Ereignisse wird mit Ihrem Marketo-Programm synchronisiert und ermöglicht es Ihnen, Registrierungspflichtige einfach in ein Ereignis einzuchecken sowie direkt neue Leads hinzuzufügen.
 
-Erfordert iOS 5.1 oder höher; Nur iPad.
+Erfordert iOS 5.1 oder höher; nur iPad.
 
 ![](assets/image2014-9-23-10-3a14-3a46.png)
 
@@ -47,7 +47,7 @@ Abbildung 3. Startseite für Ereigniseinchecken
 
 ![](assets/image2014-9-23-10-3a15-3a6.png)
 
-Abbildung 4. Ereigniseinchecken: Wählen Sie Ihr Event aus!
+Abbildung 4. Event Check In: Wählen Sie Ihr Event aus!
 
 ![](assets/image2014-9-23-10-3a15-3a27.png)
 
@@ -55,7 +55,7 @@ Abbildung 5. Einchecken
 
 ## Verbesserte Bestätigungs-URL des Webinars {#enhanced-webinar-confirmation-url}
 
-Jetzt erhältlich für ON24 und Adobe Connect! Einbeziehen eines eindeutigen Links in die Bestätigungs-E-Mail für jeden registrierten Teilnehmer mithilfe der neuen `{{member.webinar URL}}` Token. Zu den Adobe Connect-Verbesserungen gehört auch die Möglichkeit, die E-Mail mit den Benutzerkontoinformationen, die die Anmelde-ID und das Kennwort enthält, zu aktivieren bzw. zu deaktivieren.
+Jetzt erhältlich für ON24 und Adobe Connect! Fügen Sie für jeden registrierten Teilnehmer mithilfe des neuen `{{member.webinar URL}}` -Tokens einen eindeutigen Link in die Bestätigungs-E-Mail ein. Adobe Connect-Verbesserungen umfassen auch die Möglichkeit, die E-Mail mit den Adobe-Kontoinformationen, die die Anmelde-ID und das Kennwort für den Benutzer enthält, zu aktivieren bzw. zu deaktivieren.
 
 ![](assets/image2014-9-23-10-3a15-3a44.png)
 
@@ -99,7 +99,7 @@ Abbildung 11. Microsoft Dynamics-Konfiguration
 
 ## Verbesserungen bei Marketo Sales Insight {#marketo-sales-insight-enhancements}
 
-**Optionen zum Abmelden von Fußzeilen**
+**Fußzeilenoptionen abmelden**
 
 Konfigurieren Sie, wann und ob die Abmelde-Fußzeile für E-Mails angezeigt wird, die über Sales Insight gesendet werden.
 
@@ -117,7 +117,7 @@ Abbildung 13. Ordner für E-Mails auswählen
 
 ## Zugriff auf Opportunity Analyzer aus Sales Insight {#access-opportunity-analyzer-from-sales-insight}
 
-Stellen Sie Ihren Vertriebsmitarbeitern mithilfe des direkten Zugriffs auf Opportunity Analyzer aus Marketo Sales Insight Einblicke in die Marketingaktivitäten bereit, die die Interaktion fördern. Hinweis. Erfordert eine Analytics-Lizenz für den Umsatzzyklus.
+Stellen Sie Ihren Vertriebsmitarbeitern mithilfe des direkten Zugriffs auf Opportunity Analyzer aus Marketo Sales Insight Einblicke in die Marketingaktivitäten bereit, die die Interaktion fördern. Hinweis: Erfordert eine Analytics-Lizenz für den Umsatzzyklus.
 
 ## Benutzerdefiniertes Feld für den Kontaktstatus {#custom-field-for-contact-status}
 

@@ -61,7 +61,7 @@ Zeigt den am häufigsten konvertierenden Inhalt nach Konversionsrate für den au
 >
 >**Definition**
 >
->**Konversionsrate**: Prozentsatz, der durch direkte Konversionen dividiert durch Klicks berechnet wird.
+>**Konversionsrate**: Ein Prozentsatz, der durch direkte Konversionen dividiert durch Klicks berechnet wird.
 
 ## Trending-Inhalt {#trending-content}
 

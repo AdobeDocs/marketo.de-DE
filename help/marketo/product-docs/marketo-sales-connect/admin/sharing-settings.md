@@ -6,7 +6,7 @@ exl-id: fdd4e286-c417-41f1-9cbe-bd78cb597310
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '230'
 ht-degree: 1%
 
 ---
@@ -23,15 +23,15 @@ Wenn Freigabeeinstellungen aktiviert sind, können nur Administratoren in Katego
 
 ## Konfigurieren Ihrer Freigabeeinstellungen {#configure-your-sharing-settings}
 
-1. Im [Webanwendung](https://toutapp.com/login), navigieren Sie zur Seite Einstellungen .
+1. Wechseln Sie in der [Webanwendung](https://toutapp.com/login) zur Seite &quot;Einstellungen&quot;.
 
    ![](assets/one-2.png)
 
-1. Wählen Sie unter Admin Settings die Option **Zugriff freigeben**.
+1. Wählen Sie unter &quot;Admin Settings&quot;die Option **Sharing Access**.
 
    ![](assets/two-2.png)
 
-1. Stellen Sie sicher **Freigabeeinstellungen** aktiviert sind. Dies bedeutet, dass standardmäßig nur Administratoren Vorlagen in Ihren Vorlagenkategorien freigeben können.
+1. Stellen Sie sicher, dass **Freigabeeinstellungen** aktiviert sind. Dies bedeutet, dass standardmäßig nur Administratoren Vorlagen in Ihren Vorlagenkategorien freigeben können.
 
    ![](assets/three-2.png)
 
@@ -39,7 +39,7 @@ Wenn Freigabeeinstellungen aktiviert sind, können nur Administratoren in Katego
 
    ![](assets/four-2.png)
 
-1. Klicks **Team für Zugriff hinzufügen**.
+1. Klicken Sie auf **Teams für Zugriff hinzufügen**.
 
    ![](assets/five-2.png)
 
@@ -51,7 +51,7 @@ Wenn Freigabeeinstellungen aktiviert sind, können nur Administratoren in Katego
    >
    >Wenn Sie keine Teams sehen, müssen Sie zu Team Management gehen und ein Team von Benutzern erstellen.
 
-1. Klicks **Team für Zugriff hinzufügen** speichern.
+1. Klicken Sie zum Speichern auf **Teams für Zugriff hinzufügen** .
 
    ![](assets/seven-1.png)
 

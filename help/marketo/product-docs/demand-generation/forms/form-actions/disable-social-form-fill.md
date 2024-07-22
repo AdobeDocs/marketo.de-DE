@@ -19,7 +19,7 @@ Manchmal möchten Sie nicht mehr, dass Besucher der Site Formulare mit einem soz
 >
 >Nicht alle Kunden haben diese Funktion erworben.
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Wechseln Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities-10.png)
 
@@ -35,11 +35,11 @@ Manchmal möchten Sie nicht mehr, dass Besucher der Site Formulare mit einem soz
 
    ![](assets/image2016-4-28-16-3a49-3a23.png)
 
-1. Klicken **Beenden**.
+1. Klicken Sie auf **Beenden**.
 
    ![](assets/image2014-9-15-16-3a36-3a26.png)
 
-1. Klicken **Genehmigen und schließen**.
+1. Klicken Sie auf **Genehmigen und schließen**.
 
    ![](assets/image2014-9-15-16-3a36-3a33.png)
 

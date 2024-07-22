@@ -6,14 +6,14 @@ exl-id: 365b4442-da1b-4346-b0a4-2512b46f8677
 feature: Landing Pages, Guided Landing Page Templates
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '58'
-ht-degree: 1%
+source-wordcount: '46'
+ht-degree: 2%
 
 ---
 
 # Vorlage 19A {#template-19a}
 
-Rechtsklick auf [Download-Vorlage 19A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19a.html)
+Rechtsklicken Sie auf [Vorlage 19A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19a.html) herunterladen
 
 ![](assets/image2015-9-16-16-3a46-3a31.png)
 
@@ -24,8 +24,8 @@ Diese Vorlage enthält den folgenden Inhalt:
    * enthält Hero-Titel, Hero-Text und Schaltfläche
 
 * Fünf Hauptabschnitte (optional)
-* Footer
+* Fußzeile
 
 **Klicken Sie mit der rechten Maustaste unten, um diese Vorlage herunterzuladen:**
 
-[Vorlage 19A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19a.html)
+[Vorlage 19a.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19a.html)

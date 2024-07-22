@@ -17,22 +17,22 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. Klicks **[!UICONTROL Personenaktionen]** und **[!DNL Microsoft]** und wählen Sie **[!UICONTROL Person mit Microsoft synchronisieren]**.
+1. Klicken Sie auf **[!UICONTROL Personenaktionen]** und **[!DNL Microsoft]** und wählen Sie **[!UICONTROL Person mit Microsoft synchronisieren]** aus.
 
    ![](assets/two.png)
 
-1. Klicks **[!UICONTROL Synchronisieren als]** und wählen **[!UICONTROL Kontakt]**. Klicks **[!UICONTROL Jetzt ausführen]**.
+1. Klicken Sie auf **[!UICONTROL Synchronisieren als]** und wählen Sie **[!UICONTROL Kontakt]** aus. Klicken Sie auf **[!UICONTROL Jetzt ausführen]**.
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >Bei Verwendung von &quot;[!UICONTROL Person mit Microsoft synchronisieren]&quot; Flow-Aktion (nur in einer Trigger-Kampagne), wird der Lead/Kontakt in Echtzeit in Dynamics erstellt.
+   >Bei Verwendung der Flussaktion &quot;[!UICONTROL Person mit Microsoft synchronisieren]&quot;(nur in einer Trigger-Kampagne) wird der Lead/Kontakt in Echtzeit in Dynamics erstellt.
 
 1. Marketo qualifiziert diesen Lead-Datensatz in Dynamics in einen Kontakt, der keinem Konto in Dynamics zugeordnet ist.
 
    ![](assets/image2015-10-23-9-3a43-3a33.png)
 
-1. Jetzt können Sie **[!UICONTROL Kontakt]** wenn Sie die Einschränkung &quot;Synchronisieren als&quot;in einem Smart-Kampagnenfilter verwenden.
+1. Jetzt können Sie **[!UICONTROL Kontakt]** auswählen, wenn Sie die Synchronisierungsbegrenzung in einem Smart-Campaign-Filter verwenden.
 
    ![](assets/five.png)

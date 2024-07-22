@@ -21,7 +21,7 @@ Die folgenden Aktionen sind in der Dropdown-Liste Sales Insight in Salesforce Cl
 
 Auf jede dieser Funktionen kann wie folgt zugegriffen werden:
 
-**Seitenlayout mit nur einer Aktion**
+**Seitenlayout mit einzelner Aktion**
 
 * Lead-Layout-Bedienfeld: Einzelaktion und kann über ein Benutzerprofil gesteuert werden
 * Bedienfeld &quot;Kontaktlayout&quot;: Einzelaktion und kann vom Benutzerprofil gesteuert werden
@@ -37,7 +37,7 @@ Auf jede dieser Funktionen kann wie folgt zugegriffen werden:
 
   ![](assets/choose-an-action-in-sales-insight-2.png)
 
-**Registerkarte &quot;Beste Betten&quot;**
+**Registerkarte &quot;Beste Einsätze&quot;**
 
 * Registerkarte &quot;Best Bets-Massenaktionen&quot;: Gruppenaktion und kann vom Benutzerprofil gesteuert werden
 

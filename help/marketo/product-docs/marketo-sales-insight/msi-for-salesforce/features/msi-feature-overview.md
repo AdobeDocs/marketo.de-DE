@@ -46,7 +46,7 @@ Visualforce-Seiten:
 * Lead - Enthält die Option zum Klicken auf die Unterschrift &quot;Zur vollständigen Liste gehen&quot;. Sie werden auf eine neue Registerkarte in Salesforce gesendet, auf der das MSI-Bedienfeld in einem vollständigen Seitenlayout angezeigt wird.
 * Lead-Vollständige Liste - enthält nicht die Option &quot;Zur vollständigen Liste wechseln&quot;
 * Lead Mobile - In Salesforce Mobile App sichtbar
-* Lead Contact Bridge - Zeigt das MSI-Bedienfeld des Kontakts an, den Sie im Feld MSI Contact ID hinzugefügt haben
+* Lead-Kontakt Bridge - Zeigt das MSI-Bedienfeld des Kontakts an, den Sie im Feld MSI-Kontakt-ID hinzugefügt haben
 
 Felder:
 
@@ -62,7 +62,7 @@ Felder:
 * Dringlichkeit
 * Wert für Wichtigkeit
 * In Marketo anzeigen - Klicken Sie auf dieses Feld, um eine nicht bearbeitbare Ansicht des Leads in Marketo zu öffnen. Dazu gehören: Lead-Info, Firmeninfo, SFDC-Lead-Info, benutzerdefinierte SFDC-Felder, Aktivitätsprotokoll
-* MSI-Kontakt-ID - Fügen Sie diesem Feld einen Salesforce-Kontakt hinzu und fügen Sie das Bedienfeld &quot;Lead Contact Bridge&quot;in das Lead-Layout ein, um das MSI-Bedienfeld des Kontakts anzuzeigen.
+* MSI-Kontaktkennung - Fügen Sie diesem Feld einen Salesforce-Kontakt hinzu und fügen Sie das Bedienfeld &quot;Lead Contact Bridge&quot;in das Lead-Layout ein, um das MSI-Bedienfeld des Kontakts anzuzeigen.
 
 ## Kontaktlayout {#contact-layout}
 
@@ -107,7 +107,7 @@ Aktionen:
 * Marketo-E-Mail senden
 * Aus Überwachungsliste hinzufügen/entfernen
 
-Die folgenden Funktionen sind **nicht verfügbar** auf der Seite Kontolayout :
+Die folgenden Funktionen sind **nicht verfügbar** auf der Seite &quot;Kontolayout&quot;:
 
 * Sterne und Flammen
 
@@ -184,7 +184,7 @@ Salesforce Classic: Fügen Sie die Aktionsschaltflächen Zu Marketo-Campaign hin
 
 >[!MORELIKETHIS]
 >
->[Registerkarte &quot;Marketo Sales Insight-Konfiguration&quot;in Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
+>[Registerkarte &quot;Konfiguration der Marketo Sales Insight-Konfiguration&quot;in Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
 
 ## Performance-Berichte für Sales Insight {#sales-insight-performance-reports}
 

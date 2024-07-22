@@ -2,7 +2,8 @@
 description: SMS erstellen - Marketo Docs - Produktdokumentation
 title: SMS erstellen
 feature: Mobile Marketing
-source-git-commit: 5ec5e462d76cf6de45378cc2293bd37e7ac24510
+exl-id: 94749ea4-2fe3-4d90-9b31-35700ddd1670
+source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
 workflow-type: tm+mt
 source-wordcount: '481'
 ht-degree: 2%
@@ -15,21 +16,21 @@ So erstellen Sie eine SMS-Nachricht:
 
 >[!AVAILABILITY]
 >
->Diese Funktion ist als Add-on für Ihr Adobe Marketo Engage-Konto verfügbar. Damit sie ordnungsgemäß bereitgestellt werden kann, muss sie über Adobe erworben werden. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer). Die native Integration von Marketo Vibes SMS ist in den USA und Kanada verfügbar. Für andere Länder kann eine Verbindung über Marketo Webhooks von [direkten Kontakt mit Besuchern](https://www.vibes.com/talk-to-sales).
+>Diese Funktion ist als Add-on für Ihr Adobe Marketo Engage-Konto verfügbar. Damit sie ordnungsgemäß bereitgestellt werden kann, muss sie über Adobe erworben werden. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer). Die native Integration von Marketo Vibes SMS ist in den USA und Kanada verfügbar. Für andere Länder kann eine Verbindung über Marketo Webhooks verwendet werden, indem [Vibes direkt kontaktieren](https://www.vibes.com/talk-to-sales).
 
 >[!PREREQUISITES]
 >
->[Hinzufügen von Assets als LaunchPoint-Dienst](/help/marketo/product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md){target="_blank"}
+>[Hinzufügen von Ansichten als LaunchPoint-Dienst](/help/marketo/product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md){target="_blank"}
 
-1. Navigieren Sie zu **[!UICONTROL Marketingaktivitäten]**.
+1. Wechseln Sie zu **[!UICONTROL Marketingaktivitäten]**.
 
    ![](assets/create-an-sms-message-1.png)
 
-1. Klicken Sie mit der rechten Maustaste auf das gewünschte Programm und wählen Sie **[!UICONTROL Neues lokales Asset]**.
+1. Klicken Sie mit der rechten Maustaste auf das gewünschte Programm und wählen Sie **[!UICONTROL Neues lokales Asset]** aus.
 
    ![](assets/create-an-sms-message-2.png)
 
-1. Auswählen **SMS-Nachricht**.
+1. Wählen Sie **SMS-Nachricht** aus.
 
    ![](assets/create-an-sms-message-3.png)
 
@@ -57,7 +58,7 @@ So erstellen Sie eine SMS-Nachricht:
    >
    >SMS-Kompatibilität: Alle ausgehenden SMS-Nachrichten müssen den Namen der Marke oder die Beschreibung des Programms enthalten. HILFE- und STOP-Anweisungen sollten mindestens einmal monatlich pro Abonnent für wiederkehrende Nachrichtenprogramme bereitgestellt werden.
 
-1. Wählen Sie die gewünschte **Token**, geben Sie einen optionalen **Standardwert** und klicken Sie auf **Erstellen**.
+1. Wählen Sie den gewünschten **Token** aus, geben Sie einen optionalen **Standardwert** ein und klicken Sie auf **Erstellen**.
 
    ![](assets/create-an-sms-message-7.png)
 
@@ -65,7 +66,7 @@ So erstellen Sie eine SMS-Nachricht:
 
    ![](assets/create-an-sms-message-8.png)
 
-1. Wählen Sie einen Link-Typ aus. Marketo-Landingpage ist die Standardeinstellung. Wenn Sie damit fertig sind, klicken Sie auf das Dropdown-Menü Landingpage und wählen Sie die gewünschte Seite aus. Klicks **Einfügen** wann geschehen.
+1. Wählen Sie einen Link-Typ aus. Marketo-Landingpage ist die Standardeinstellung. Wenn Sie damit fertig sind, klicken Sie auf das Dropdown-Menü Landingpage und wählen Sie die gewünschte Seite aus. Klicken Sie abschließend auf **Einfügen** .
 
    ![](assets/create-an-sms-message-9.png)
 
@@ -79,11 +80,11 @@ So erstellen Sie eine SMS-Nachricht:
 
    >[!NOTE]
    >
-   >Wenn Sie die Option &quot;Link verfolgen&quot;beibehalten, ändert Marketo die URL automatisch zu Tracking-Zwecken. Wenn Sie die Verfolgung deaktivieren, wird die URL unverändert in der Nachricht angezeigt (z. B. `www.adobe.com`).
+   >Wenn Sie die Option &quot;Link verfolgen&quot;beibehalten, ändert Marketo die URL automatisch zu Tracking-Zwecken. Wenn Sie das Tracking deaktivieren, wird die URL unverändert in der Nachricht angezeigt (z. B. `www.adobe.com`).
 
    >[!CAUTION]
    >
-   >Es wird empfohlen, _not_ Verwenden Sie URL-Shorteners (z. B. Bitly), da die Provider Ihre Nachricht als Spam kennzeichnen können.
+   >Es wird empfohlen, _nicht_ URL-Shorteners zu verwenden (z. B. Bitly), da die Provider Ihre Nachricht als Spam kennzeichnen können.
 
 1. Der Link wird in der Nachricht angezeigt.
 

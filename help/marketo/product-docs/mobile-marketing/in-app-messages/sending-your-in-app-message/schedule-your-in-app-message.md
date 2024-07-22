@@ -7,7 +7,7 @@ feature: Mobile Marketing
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '86'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Senden Sie Ihre Nachricht jetzt oder planen Sie sie für später.
 
-1. Um eine In-App-Nachricht zu planen, wählen Sie **Zukünftiges Datum festlegen** und wählen Sie ein Startdatum aus dem Dropdown-Kalender aus.
+1. Um eine In-App-Nachricht zu planen, wählen Sie **Zukünftiges Datum festlegen** und wählen Sie ein Startdatum aus dem Dropdownkalender aus.
 
    ![](assets/schedule-your-in-app-message-1.png)
 
@@ -23,12 +23,12 @@ Senden Sie Ihre Nachricht jetzt oder planen Sie sie für später.
 
    ![](assets/schedule-your-in-app-message-2.png)
 
-1. Enddatum und -zeit sind optional. wählen Sie sie aus den Dropdown-Listen aus.
+1. Enddatum und -zeit sind optional. Wählen Sie sie aus den Dropdown-Listen aus.
 
    ![](assets/schedule-your-in-app-message-3.png)
 
-1. Oder wählen Sie zum sofortigen Ausführen des Programms die Option **Sofort ausführen**. Die Felder Startdatum werden nicht mehr angezeigt.
+1. Oder wählen Sie **Sofort ausführen** , um das Programm sofort auszuführen. Die Felder Startdatum werden nicht mehr angezeigt.
 
    ![](assets/schedule-your-in-app-message-4.png)
 
-Einfach! Der letzte, aber nicht zuletzt, ist [Genehmigung](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/approve-your-in-app-message.md) Schritt.
+Einfach! Nicht zuletzt ist der Schritt [Genehmigung](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/approve-your-in-app-message.md) .

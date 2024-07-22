@@ -6,7 +6,7 @@ exl-id: 31623f95-f956-44f6-9b6e-5595fb6e62d5
 feature: Programs
 source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ Im Folgenden finden Sie die Grundlagen für die Navigation in der Programmplanan
 
 ## Suchen Sie die Planansicht . {#find-the-schedule-view}
 
-1. Navigieren Sie zu **[!UICONTROL Marketingaktivitäten]**.
+1. Wechseln Sie zu **[!UICONTROL Marketingaktivitäten]**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Wählen Sie Ihr Programm aus. Klicken Sie auf **[!UICONTROL Ansicht]** angezeigt. Auswählen **[!UICONTROL Zeitplan]**.
+1. Wählen Sie Ihr Programm aus. Klicken Sie auf das Dropdown-Menü **[!UICONTROL Ansicht]** . Wählen Sie **[!UICONTROL Plan]** aus.
 
    ![](assets/image2014-9-17-11-3a38-3a3.png)
 
@@ -51,7 +51,7 @@ Im Folgenden finden Sie die Grundlagen für die Navigation in der Programmplanan
 
 ## Ändern zwischen Modi {#changing-between-modes}
 
-1. Klicken auf **[!UICONTROL 3 Wochen]** oder **[!UICONTROL Monat]** ändert die sichtbaren Daten in Ihrer Anzeige.
+1. Wenn Sie auf **[!UICONTROL 3 Wochen]** oder **[!UICONTROL Monat]** klicken, werden die sichtbaren Daten in Ihrer Anzeige geändert.
 
    ![](assets/image2014-9-17-11-3a40-3a19.png)
 

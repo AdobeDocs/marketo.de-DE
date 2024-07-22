@@ -4,7 +4,8 @@ title: Marketo Engage Community
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 6bdac72f0b9831ba830d842cabffbd0f114325fb
+exl-id: 86a4ad2c-22c7-4543-bcb3-bca132b6afea
+source-git-commit: 7a847ece020ea0c0001241abf8e49b9eadf8edce
 workflow-type: tm+mt
 source-wordcount: '592'
 ht-degree: 0%
@@ -13,7 +14,7 @@ ht-degree: 0%
 
 # Adobe Marketo Engage Community {#marketo-engage-community}
 
-Die [Adobe Marketo Engage Community](https://nation.marketo.com/) (auch als Marketing Nation bezeichnet) ist der Ort, um mehr über Ihre Marketo Engage-Instanz von anderen Benutzern sowie von Marketo-Mitarbeitern zu erfahren. Bevor Sie einspringen, sollten Sie sich einen Moment Zeit nehmen, um sich mit dem [Gemeinschaftsrichtlinien](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines).
+In der [Adobe Marketo Engage Community](https://nation.marketo.com/) (auch als Marketing Nation bezeichnet) erfahren Sie mehr über Ihre Marketo Engage-Instanz von anderen Benutzern sowie von Marketo-Mitarbeitern. Bevor Sie einspringen, sollten Sie sich einen Moment Zeit nehmen, um sich mit den [Community-Richtlinien](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines) vertraut zu machen.
 
 ## Benutzernamen registrieren {#register-your-username}
 
@@ -33,7 +34,7 @@ SCREENSHOT
 
 ## Profil einrichten {#set-up-your-profile}
 
-Wenn Sie sich bei der Marketing Nation angemeldet haben, klicken Sie auf Ihr Standardavatar-Symbol und wählen Sie **[!UICONTROL Meine Einstellungen]** um Ihre Voreinstellungen zu aktualisieren, ändern Sie Ihr Avatar-Foto, steuern Sie Tagging und vieles mehr.
+Wenn Sie sich bei der Marketing Nation angemeldet haben, klicken Sie auf Ihr Standardavatar-Symbol und wählen Sie **[!UICONTROL Meine Einstellungen]** aus, um Ihre Voreinstellungen zu aktualisieren, Ihr Avatar-Foto zu ändern, das Tagging der Kontrolle zu steuern und vieles mehr.
 
 SCREENSHOT
 
@@ -85,7 +86,7 @@ SCREENSHOT
 
 Führen Sie die folgenden Schritte aus, um den Verlauf über mehrere Community-Profile hinweg zusammenzuführen. Es wird empfohlen, das Community-Profil zu überschreiben, das weniger Community-Aktivitäten enthält, da überschriebene Profildaten nicht abgerufen werden können.
 
-E-Mail an senden `ccare@marketo.com` , um die Daten aus Ihren verschiedenen Community-Profilen anzufordern, mit dem Profil zusammengeführt werden, das mit Ihrem primären Produktionsabonnement verknüpft ist. Wenn die Profile zusammengeführt werden, verlieren Sie die historische Aktivität des überschriebenen Profils Ihrer Wahl.
+Senden Sie eine E-Mail an `ccare@marketo.com` , um die Zusammenführung der Daten Ihrer verschiedenen Community-Profile mit dem Profil anzufordern, das mit Ihrem primären Produktionsabonnement verknüpft ist. Wenn die Profile zusammengeführt werden, verlieren Sie die historische Aktivität des überschriebenen Profils Ihrer Wahl.
 
 Bitte geben Sie in Ihrer Anfrage die folgenden Details an:
 

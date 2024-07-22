@@ -19,23 +19,23 @@ Wenn Sie die URL einer Seite aktualisieren und möchten, dass die alte URL weite
 >
 >**Erforderliche Administratorberechtigungen**
 
-1. under **Admin** klicken **Landing Pages**.
+1. Klicken Sie unter **Admin** auf **Landingpages**.
 
    ![](assets/image2014-9-25-15-3a43-3a39.png)
 
-1. Unter dem **Regeln** Registerkarte, klicken Sie auf **Neu** und dann **Neue Umleitungsregel**.
+1. Klicken Sie auf der Registerkarte **Regeln** auf **Neu** und dann auf **Neue Umleitungsregel**.
 
    ![](assets/two-1.png)
 
-1. Klicken Sie auf die erste **Ursprüngliche URL** Dropdown-Liste und wählen Sie Ihre Marketo aus [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
+1. Klicken Sie auf die erste Dropdownliste **Ursprüngliche URL** und wählen Sie Ihren Marketo [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md) aus.
 
    ![](assets/image2014-9-25-15-3a46-3a20.png)
 
    >[!NOTE]
    >
-   >Beachten Sie, dass Sie nur URLs umleiten können, die mit Ihrer Marketo beginnen [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
+   >Beachten Sie, dass Sie nur URLs umleiten können, die mit Ihrem Marketo [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md) beginnen.
 
-1. Wählen Sie die Landingpage aus, die Sie in der zweiten umleiten möchten **Ursprüngliche URL** -Feld.
+1. Wählen Sie im zweiten Feld **Ursprüngliche URL** die Landingpage aus, die Sie umleiten möchten.
 
    ![](assets/image2014-9-25-15-3a47-3a20.png)
 
@@ -43,7 +43,7 @@ Wenn Sie die URL einer Seite aktualisieren und möchten, dass die alte URL weite
    >
    >Sie können einen beliebigen URL-Pfad eingeben, auch wenn die Seite oder das Verzeichnis nicht vorhanden ist.
 
-1. Klicken Sie auf **Umleitungs-URL** und wählen Sie die Seite aus, zu der Sie Besucher weiterleiten möchten.
+1. Klicken Sie auf das Dropdown-Menü **Umleitungs-URL** und wählen Sie die Seite aus, zu der Sie Besucher umleiten möchten.
 
    ![](assets/image2014-9-25-15-3a47-3a53.png)
 
@@ -53,7 +53,7 @@ Wenn Sie die URL einer Seite aktualisieren und möchten, dass die alte URL weite
 
    >[!TIP]
    >
-   >Um zu einer Webseite außerhalb von Marketo umzuleiten, klicken Sie auf **Landingpage außerhalb von Marketo verwenden**.
+   >Um zu einer Webseite außerhalb von Marketo umzuleiten, klicken Sie auf **Nicht Marketo-Landingpage verwenden**.
 
    >[!MORELIKETHIS]
    >

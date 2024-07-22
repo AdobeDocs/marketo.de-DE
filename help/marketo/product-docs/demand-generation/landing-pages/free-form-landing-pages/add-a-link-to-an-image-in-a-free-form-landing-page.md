@@ -6,7 +6,7 @@ exl-id: ad845417-2414-407f-998b-eeebe38f328f
 feature: Landing Pages
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
@@ -23,15 +23,15 @@ Möchten Sie ein Bild auf Ihrer Landingpage als Link zu einer anderen Seite/Site
 
    ![](assets/click-on-image.png)
 
-1. Erweitern Sie die **Eigenschaftenblatt**.
+1. Erweitern Sie das **Eigenschaftenblatt**.
 
    ![](assets/image2015-5-21-15-3a42-3a27.png)
 
-1. Kopieren oder geben Sie den Link in die **linkUrl** ankreuzen.
+1. Kopieren oder geben Sie den Link in das Feld **linkUrl** ein.
 
    ![](assets/add-link.png)
 
-   Herzlichen Glückwunsch! Sie haben nun erfolgreich einen Link zu einem Bild auf Ihrer Landingpage hinzugefügt. Sie können jetzt [Seitenvorschau](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md) um es in Aktion zu sehen.
+   Herzlichen Glückwunsch! Sie haben nun erfolgreich einen Link zu einem Bild auf Ihrer Landingpage hinzugefügt. Sie können jetzt [die Seite in der Vorschau anzeigen](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md), um sie in Aktion zu sehen.
 
 >[!TIP]
 >

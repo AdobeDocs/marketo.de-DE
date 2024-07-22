@@ -16,16 +16,16 @@ Alle neuen Adobe Marketo Engage-Abonnements (31. Juli 2023 oder höher) sind in 
 
 >[!NOTE]
 >
->Der Marketo-Support kann keine Aktualisierungen zur Adobe IMS-Migration bereitstellen. Das Adobe Account-Team wird in den kommenden Monaten mit dem voraussichtlichen Zeitplan Kontakt aufnehmen. Weitere Informationen finden Sie unter [diesem Artikel](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md){target="_blank"}und die [Häufig gestellte Fragen](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
+>Der Marketo-Support kann keine Aktualisierungen zur Adobe IMS-Migration bereitstellen. Das Adobe Account-Team wird in den kommenden Monaten mit dem voraussichtlichen Zeitplan Kontakt aufnehmen. Weitere Informationen finden Sie in [diesem Artikel](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md){target="_blank"} und den [häufig gestellten Fragen](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
 
 Bei Anmeldungen mit einer Adobe-Identität wird die Adobe Admin Console für die Benutzerverwaltung verwendet. Identitätsbezogene Konzepte wie Single Sign-On werden ebenfalls in der Admin Console verwaltet.
 
-* Weitere Informationen zu [Adobe Admin Console](https://helpx.adobe.com/de/enterprise/using/admin-console.html){target="_blank"}.
-* Weitere Informationen finden Sie [Einrichten Ihrer Adobe-Organisation für Ihr Marketo-Abonnement](https://helpx.adobe.com/de/enterprise/using/set-up-identity.html){target="_blank"}.
+* Hier finden Sie weitere Informationen zum [Adobe Admin Console](https://helpx.adobe.com/de/enterprise/using/admin-console.html){target="_blank"}.
+* Hier finden Sie weitere Informationen zum Einrichten Ihrer Adobe-Organisation im Zusammenhang mit Ihrem Marketo-Abonnement](https://helpx.adobe.com/de/enterprise/using/set-up-identity.html){target="_blank"}.[
 
 >[!NOTE]
 >
->Wenn Sie Single Sign-On implementieren möchten und Ihr Abonnement auf Adobe Identity integriert wurde, ohne dass SSO in der Adobe-Org implementiert ist, senden Sie bitte ein Ticket an [Marketo-Support](https://nation.marketo.com/){target="_blank"} und geben Sie das Thema als &quot;Marketo on Admin Console, implementieren von SSO&quot;an.
+>Wenn Sie Single-Sign-On implementieren möchten und Ihr Abonnement auf Adobe Identity integriert wurde, ohne SSO in der Adobe-Org implementiert zu haben, senden Sie ein Ticket an den [Marketo-Support](https://nation.marketo.com/){target="_blank"} und geben Sie das Thema als &quot;Marketo on Admin Console, implementing SSO&quot;an.
 
 ## Profilebenen {#profile-levels}
 
@@ -47,7 +47,7 @@ Adobe Marketo Engage-Abonnements, die im Adobe Identity Management System integr
  </tr>
  <tr>
   <td><strong>Marketo Engage Admin</strong></td>
-  <td>Eine Person, die Zugriff auf Marketo Engage mit Administratorrechten hat. Die Rolle, die der Marketo Engage zugewiesen wurde, nicht Adobe Admin Console (erscheint nur als "Administrator"im <b>Benutzer bearbeiten</b> modal).</td>
+  <td>Eine Person, die Zugriff auf Marketo Engage mit Administratorrechten hat. Zugewiesene Rolle bei Marketo Engage, nicht bei Adobe Admin Console (erscheint nur als "Admin"im Modal <b>Benutzer bearbeiten</b>).</td>
  </tr>
  <tr>
   <td><strong>Marketo Engage User</strong></td>
@@ -57,10 +57,10 @@ Adobe Marketo Engage-Abonnements, die im Adobe Identity Management System integr
 
 ## FAQs {#faq}
 
-Häufig gestellte Fragen [finden Sie hier .](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
+Häufig gestellte Fragen [finden Sie hier ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
 >* [Admin-Einrichtung](/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md){target="_blank"}
->* [Hinzufügen oder Entfernen eines Produkt-Admins](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md){target="_blank"}
->* [Hinzufügen oder Entfernen von Benutzern](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"}
+>* [Hinzufügen oder Entfernen eines Produkt-Administrators](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md){target="_blank"}
+>* [Einen Benutzer hinzufügen oder entfernen](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"}

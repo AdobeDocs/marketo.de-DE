@@ -2,7 +2,8 @@
 description: SMS Reporting - Marketo Docs - Produktdokumentation
 title: SMS-Reporting
 feature: Mobile Marketing
-source-git-commit: efaf34e8113fc6364655ff01aa788aa62bdd31af
+exl-id: c4429cb0-01e1-4176-ae14-b8ce38fa1baa
+source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 4%
@@ -15,7 +16,7 @@ Das Dashboard für SMS-Nachrichten bietet nützliche Analysen Ihrer Nachrichten.
 
 ## Zugriff auf das Dashboard {#access-the-dashboard}
 
-1. Um die Berichterstellung anzuzeigen, wählen Sie die gewünschte SMS-Nachricht aus. Klicken Sie auf **Ansicht** und wählen Sie **Dashboard**.
+1. Um die Berichterstellung anzuzeigen, wählen Sie die gewünschte SMS-Nachricht aus. Klicken Sie auf die Dropdownliste **Ansicht** und wählen Sie **Dashboard** aus.
 
    ![](assets/sms-reporting-1.png)
 
@@ -31,7 +32,7 @@ Zeigt die Gesamtzahl der gesendeten Nachrichten und der zugestellten Nachrichten
 
 ![](assets/sms-reporting-3.png)
 
-### Zusammenfassung {#summary}
+### Zusammenfassung  {#summary}
 
 Zeigt die berechnete Absprungrate als Prozentsatz an. Bewegen Sie den Mauszeiger über die Suchleiste, um die Versandrate nach Menge und Prozentsatz anzuzeigen. Bewegen Sie den Mauszeiger über den Bereich &quot;Orange Bounce Rate&quot;(orangefarbene Absprungrate) der Leiste, um die Beträge/Prozentsätze der Softbounce- und Hardbounce-Rate anzuzeigen.
 

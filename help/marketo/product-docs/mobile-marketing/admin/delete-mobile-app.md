@@ -13,11 +13,11 @@ ht-degree: 12%
 
 # Mobile App löschen {#delete-mobile-app}
 
-1. Klicken **Admin**.
+1. Klicken Sie auf **Admin**.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. Auswählen **Mobile Apps**.
+1. Wählen Sie **Mobile Apps** aus.
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
@@ -25,11 +25,11 @@ ht-degree: 12%
 
    ![](assets/image2015-4-22-17-3a22-3a11.png)
 
-1. Klicken **Mobile App-Aktionen** und wählen Sie **App löschen**.
+1. Klicken Sie auf **Mobile-App-Aktionen** und wählen Sie **App löschen** aus.
 
    ![](assets/image2015-4-22-17-3a21-3a51.png)
 
-1. Bestätigen durch Klicken auf **Löschen**.
+1. Bestätigen Sie dies durch Klicken auf **Löschen**.
 
    ![](assets/image2015-4-22-17-3a23-3a18.png)
 

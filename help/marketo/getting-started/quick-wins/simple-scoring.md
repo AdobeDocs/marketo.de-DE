@@ -6,8 +6,8 @@ exl-id: 6129d46a-e6d2-4819-9b6c-ccbf37060712
 feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '369'
-ht-degree: 13%
+source-wordcount: '377'
+ht-degree: 4%
 
 ---
 
@@ -16,19 +16,19 @@ ht-degree: 13%
 >[!PREREQUISITES]
 >
 >* [Einrichten und Hinzufügen einer Person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
->* [Landing Page mit Formular](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
+>* [Landingpage mit einem Formular](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
 
 ## Schritt 1: Bewertungskampagne erstellen {#step-create-a-scoring-campaign}
 
-1. Navigieren Sie zu **[!UICONTROL Marketingaktivitäten]** Bereich.
+1. Wechseln Sie zum Bereich **[!UICONTROL Marketingaktivitäten]** .
 
    ![](assets/simple-scoring-1.png)
 
-1. Rechtsklick auf Ihre **Lernen** Ordner und klicken Sie auf **[!UICONTROL Neuer Kampagnenordner]**.
+1. Klicken Sie mit der rechten Maustaste auf den Ordner **Lernen** und klicken Sie auf **[!UICONTROL Neuer Kampagnenordner]**.
 
    ![](assets/simple-scoring-2.png)
 
-1. Benennen Sie den Kampagnenordner &quot;Scoring&quot;und klicken Sie auf **[!UICONTROL Erstellen]**.
+1. Nennen Sie den Kampagnenordner &quot;Scoring&quot;und klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/simple-scoring-3.png)
 
@@ -36,53 +36,53 @@ ht-degree: 13%
    >
    >Wenn Sie bereits über einen Scoring-Ordner verfügen, benennen Sie diesen etwas Anderes, z. B. Scoring 1. Ordnernamen müssen eindeutig sein.
 
-1. Rechtsklick auf Ihre **Scoring** Ordner und wählen Sie **[!UICONTROL Neue intelligente Kampagne]**.
+1. Klicken Sie mit der rechten Maustaste auf den Ordner **Scoring** und wählen Sie **[!UICONTROL Neue Smart-Kampagne]** aus.
 
    ![](assets/simple-scoring-4.png)
 
-1. Benennen Sie die Kampagne &quot;Ergebnis ändern&quot;und klicken Sie auf **[!UICONTROL Erstellen]**.
+1. Nennen Sie die Kampagne &quot;Punktzahl ändern&quot;und klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/simple-scoring-5.png)
 
-1. Klicken Sie auf die Registerkarte **[!UICONTROL “Intelligente Liste“]**.
+1. Klicken Sie auf die Registerkarte **[!UICONTROL Smart List]** .
 
    ![](assets/simple-scoring-6.png)
 
-   Wir möchten, dass diese Kampagne ausgeführt wird, sobald eine Person Ihre **Testanfrageformular**.
+   Diese Kampagne soll immer dann ausgeführt werden, wenn eine Person Ihr **Testanfrageformular** ausfüllt.
 
-1. Suchen und Ziehen **[!UICONTROL Formular ausfüllen]** Trigger auf der linken Arbeitsfläche.
+1. Suchen und ziehen Sie den Trigger **[!UICONTROL Formular ausfüllen]** auf die linke Arbeitsfläche.
 
    ![](assets/simple-scoring-7.png)
 
-1. Auswählen **Mein Formular**.
+1. Wählen Sie **Mein Formular** aus.
 
    ![](assets/simple-scoring-8.png)
 
    >[!NOTE]
    >
-   >Wenn Sie die [Landingpage mit einem Formular](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} schnell gewinnen, sollten Sie das Formular haben. Wenn Sie für Ihr Formular einen anderen Namen verwendet haben, wählen Sie diesen aus.
+   >Wenn Sie die [Einstiegsseite mit einem Formular](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}-Schnellgewinn abgeschlossen haben, sollten Sie über das Formular verfügen. Wenn Sie für Ihr Formular einen anderen Namen verwendet haben, wählen Sie diesen aus.
 
-1. Klicken Sie auf die Registerkarte **[!UICONTROL “Flow“]**.
+1. Klicken Sie auf die Registerkarte **[!UICONTROL Fluss]**.
 
    ![](assets/simple-scoring-9.png)
 
-1. Ziehen Sie die **Bewertung ändern** Flussaktion auf die linke Arbeitsfläche.
+1. Ziehen Sie die Flussaktion **Score ändern** auf die linke Arbeitsfläche.
 
    ![](assets/simple-scoring-10.png)
 
-1. Sie können einen beliebigen Wert eingeben, der dem Ergebnis der Person hinzugefügt werden soll. Geben wir &quot;+5&quot;im **[!UICONTROL Änderung]** -Feld.
+1. Sie können einen beliebigen Wert eingeben, der dem Ergebnis der Person hinzugefügt werden soll. Geben wir &quot;+5&quot;in das Feld **[!UICONTROL Ändern]** ein.
 
    ![](assets/simple-scoring-11.png)
 
    >[!TIP]
    >
-   >Gute Scoring-Kampagnen sind der Schlüssel zur Bereitstellung hochwertiger Mitarbeiter für den Vertrieb. Lesen Sie [**Die ultimative Anleitung für die Lead-Bewertung**](https://www.marketo.com/definitive-guides/lead-scoring/){target="_blank"}.
+   >Gute Scoring-Kampagnen sind der Schlüssel zur Bereitstellung hochwertiger Mitarbeiter für den Vertrieb. Lesen Sie [**die endgültige Anleitung zum Lead-Scoring**](https://www.marketo.com/definitive-guides/lead-scoring/){target="_blank"}.
 
-1. Klicken Sie auf **[!UICONTROL Zeitplan]** und **[!UICONTROL Aktivieren]** Schaltfläche.
+1. Klicken Sie auf die Registerkarte **[!UICONTROL Plan]** und auf die Schaltfläche **[!UICONTROL Aktivieren]**.
 
    ![](assets/simple-scoring-12.png)
 
-1. Klicken **[!UICONTROL Aktivieren]** auf dem Bestätigungsbildschirm.
+1. Klicken Sie auf dem Bestätigungsbildschirm auf **[!UICONTROL Aktivieren]** .
 
    ![](assets/simple-scoring-13.png)
 
@@ -92,15 +92,15 @@ ht-degree: 13%
 
 ## Schritt 2: Formular ausfüllen {#step-fill-out-the-form}
 
-1. Wählen Sie die Landingpage aus, die Sie im [Landingpage mit einem Formular](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} schnell gewinnen.
+1. Wählen Sie die Landingpage aus, die Sie auf der [Landingpage mit einem Schnellgewinn für Formular](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} erstellt haben.
 
    ![](assets/simple-scoring-14.png)
 
-1. Klicken **[!UICONTROL Vorschau]**. Die Landingpage wird in einem neuen Tab geöffnet.
+1. Klicken Sie auf **[!UICONTROL Vorschau]**. Die Landingpage wird in einem neuen Tab geöffnet.
 
    ![](assets/simple-scoring-15.png)
 
-1. Füllen Sie das Formular mit Vorname, Nachname und E-Mail-Adresse aus und klicken Sie auf **[!UICONTROL Einsenden]**.
+1. Füllen Sie das Formular mit Ihrem Vornamen, Nachnamen und Ihrer E-Mail-Adresse aus und klicken Sie dann auf **[!UICONTROL Senden]**.
 
    ![](assets/simple-scoring-16.png)
 
@@ -110,7 +110,7 @@ ht-degree: 13%
 
 ## Schritt 3: Anzeigen der Personeninformationen {#step-view-the-person-info}
 
-1. Navigieren Sie zu **[!UICONTROL Datenbank]** Bereich.
+1. Wechseln Sie zum Bereich **[!UICONTROL Datenbank]** .
 
    ![](assets/simple-scoring-17.png)
 
@@ -126,10 +126,10 @@ Ihre Personendetails werden in einem neuen Tab oder Fenster geöffnet. Erfahren 
 
 ![](assets/simple-scoring-20.png)
 
-## Aufgabe abgeschlossen! {#mission-complete}
+## Auftrag abgeschlossen! {#mission-complete}
 
 <br> 
 
-[◄ Aufgabe 2: Landing Page mit Formular](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
+[Auftrag 2: Landingpage mit einem Formular](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
 
-[Aufgabe 4: Automatische Antwort-E-Mail ►](/help/marketo/getting-started/quick-wins/email-auto-response.md)
+[Auftrag 4: Automatische E-Mail-Antwort ►](/help/marketo/getting-started/quick-wins/email-auto-response.md)

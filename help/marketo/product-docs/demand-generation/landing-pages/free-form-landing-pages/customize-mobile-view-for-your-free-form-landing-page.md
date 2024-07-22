@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Eine Mobile-Ansicht für Ihre Freiform-Landingpage hinzufügen](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)
+>[Hinzufügen einer Mobile-Ansicht für Ihre Freiform-Landingpage](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)
 
 Die Mobile-Ansicht Ihrer Freiform-Landingpage ist meist automatisch, kann jedoch angepasst werden. So geht es.
 
@@ -23,17 +23,17 @@ Die Mobile-Ansicht Ihrer Freiform-Landingpage ist meist automatisch, kann jedoch
 
    ![](assets/selectlandingapge.jpg)
 
-1. Klicken **Entwurf bearbeiten**.
+1. Klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/image2015-1-22-18-3a33-3a12.png)
 
-1. Klicken Sie auf **Mobile** Registerkarte.
+1. Klicken Sie auf die Registerkarte **Mobil**.
 
    ![](assets/image2015-1-22-18-3a31-3a40.png)
 
 ## Mobile- vs. Desktop-Ansicht {#mobile-vs-desktop-view}
 
-Unter &quot;Seitenelemente&quot;wird eine ![](assets/image2015-1-22-18-3a39-3a53.png) (Desktop) und einem ![](assets/image2015-1-22-18-3a40-3a31.png) (Mobil). Auf diese Weise können Sie verschiedene Elemente dynamisch anzeigen/ausblenden.
+Unter &quot;Seitenelemente&quot;sehen Sie ein Symbol &quot;![](assets/image2015-1-22-18-3a39-3a53.png)&quot;(Desktop) und ein Symbol &quot;![](assets/image2015-1-22-18-3a40-3a31.png)&quot;(Mobilgerät). Auf diese Weise können Sie verschiedene Elemente dynamisch anzeigen/ausblenden.
 
 ![](assets/image2015-5-21-15-3a9-3a34.png)
 
@@ -83,15 +83,15 @@ Standardmäßig werden alle Elemente in der Desktop-Ansicht in der Mobile-Ansich
 
 >[!TIP]
 >
->Die mobile Ansicht kann auch eine andere Anordnung von Seitenelementen aufweisen. Verschieben Sie die Elemente auf der Landingpage mit Freiform oder ordnen Sie die Objekte neu an, die unter **Seitenelemente** per Drag &amp; Drop.
+>Die mobile Ansicht kann auch eine andere Anordnung von Seitenelementen aufweisen. Verschieben Sie Elemente auf der Freiform-Landingpage oder ordnen Sie die unter **Seitenelemente** aufgelisteten Objekte durch Drag &amp; Drop neu an.
 
 ## Vorschau für Mobilansicht {#preview-mobile-view}
 
-1. Klicken **Vorschau des Entwurfs**.
+1. Klicken Sie auf **Vorschau von Entwurf anzeigen**.
 
    ![](assets/image2015-5-21-15-3a36-3a35.png)
 
-1. Willst du etwas Cooles sehen? Auswählen **Seite nach Seite**.
+1. Willst du etwas Cooles sehen? Wählen Sie &quot;**Side by Side**&quot;.
 
    ![](assets/image2015-1-22-20-3a2-3a15.png)
 
@@ -111,4 +111,4 @@ Viel Spaß!
 
 >[!MORELIKETHIS]
 >
->[Vorhandene Freiform-Landingpage-Vorlage für Mobilgeräte kompatibel machen](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)
+>[Kompatibel mit einer vorhandenen Freiform-Landingpage-Vorlage für mobile Anwendungen ](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)

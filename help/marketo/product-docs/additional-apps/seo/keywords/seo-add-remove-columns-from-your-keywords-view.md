@@ -7,7 +7,7 @@ feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Sie können Ihre Suchbegriffansicht so anpassen, dass die Daten angezeigt werden, die Sie am meisten interessieren.
 
-1. Navigieren Sie zu **[!UICONTROL Schlüsselwörter]** Abschnitt.
+1. Wechseln Sie zum Abschnitt **[!UICONTROL Suchbegriffe]** .
 
    ![](assets/image2014-9-18-13-3a37-3a31.png)
 
@@ -27,14 +27,14 @@ Sie können Ihre Suchbegriffansicht so anpassen, dass die Daten angezeigt werden
 
    ![](assets/image2014-9-18-13-3a37-3a39.png)
 
-1. Wählen Sie die Spalten aus, die Sie sehen möchten, oder heben Sie die Auswahl auf. Klicks **[!UICONTROL Speichern]**.
+1. Wählen Sie die Spalten aus, die Sie sehen möchten, oder heben Sie die Auswahl auf. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/image2014-9-18-13-3a37-3a42.png)
 
-   Fantastisch Sie haben jetzt Ihre Suchbegriffansicht angepasst.
+   Fantastisch! Sie haben jetzt Ihre Suchbegriffansicht angepasst.
 
    ![](assets/image2014-9-18-13-3a37-3a46.png)
 
    >[!MORELIKETHIS]
    >
-   >[Grundlegendes zu Keywords - Zusammenfassungsansicht](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
+   >[Grundlegendes zu Suchbegriffen - Zusammenfassungsansicht](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)

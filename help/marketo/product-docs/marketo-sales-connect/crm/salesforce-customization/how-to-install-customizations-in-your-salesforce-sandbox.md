@@ -21,15 +21,15 @@ ht-degree: 0%
 >
 >[Verbinden der Verkaufsverbindung mit Ihrer Salesforce-Sandbox](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-connect-sales-connect-to-your-salesforce-sandbox.md)
 
-1. Klicken Sie in Sales Connect auf das Zahnradsymbol oben rechts und wählen Sie **Einstellungen**.
+1. Klicken Sie in Sales Connect auf das Zahnradsymbol oben rechts und wählen Sie **Einstellungen** aus.
 
    ![](assets/one-3.png)
 
-1. Klicken Sie unter &quot;Admin Settings&quot;auf **Salesforce.**
+1. Klicken Sie unter &quot;Admin Settings&quot;auf **Salesforce**.
 
    ![](assets/two-3.png)
 
-1. Klicks **Installieren von Anpassungen**.
+1. Klicken Sie auf **Anpassungen installieren**.
 
    ![](assets/three-3.png)
 

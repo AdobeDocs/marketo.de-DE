@@ -6,8 +6,8 @@ exl-id: 9181e22b-be60-4dc0-bc75-f4583ee5dbea
 feature: Administration
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '249'
-ht-degree: 2%
+source-wordcount: '248'
+ht-degree: 0%
 
 ---
 
@@ -21,27 +21,27 @@ In diesem Artikel wird beschrieben, wie ein Administrator die standardmäßigen 
 
 ## Festlegen der Standardeinstellungen für den Speicherort eines Abonnements {#set-default-location-settings-for-a-subscription-1}
 
-Wenn ein Administrator die Standardeinstellungen für den Speicherort ändert, übernehmen neu erstellte Benutzer diese Einstellungen. Benutzer können [Sprache, Gebietsschema und Zeitzonenvoreinstellungen ändern](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) in ihren einzelnen Konten.
+Wenn ein Administrator die Standardeinstellungen für den Speicherort ändert, übernehmen neu erstellte Benutzer diese Einstellungen. Benutzer können in ihren einzelnen Konten immer [ihre Sprache, ihr Gebietsschema und ihre Zeitzonenvoreinstellungen](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) ändern.
 
-1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
+1. Wechseln Sie zum Bereich **[!UICONTROL Admin]** .
 
    ![](assets/set-default-location-settings-for-a-subscription-1.png)
 
-1. Klicks **[!UICONTROL Standort]**.
+1. Klicken Sie auf **[!UICONTROL Position]**.
 
    ![](assets/set-default-location-settings-for-a-subscription-2.png)
 
-1. Klicks **[!UICONTROL Bearbeiten]**.
+1. Klicken Sie auf **[!UICONTROL Bearbeiten]**.
 
    ![](assets/set-default-location-settings-for-a-subscription-3.png)
 
    Dieses Abonnement wurde auf Englisch erstellt. Nehmen wir an, Sie waren in London und wollten das Standardgebietsschema und die Zeitzone ändern. Das Gebietsschema bestimmt die Formatierung für Zahlen, Daten und Uhrzeiten.
 
-1. Wählen Sie die **[!UICONTROL Gebietsschema]** und ändern Sie sie in **[!UICONTROL Englisch (UK)]**.
+1. Wählen Sie das **[!UICONTROL Gebietsschema]** aus und ändern Sie es in **[!UICONTROL Englisch (Vereinigtes Königreich)]**.
 
    ![](assets/set-default-location-settings-for-a-subscription-4.png)
 
-1. Wählen Sie abschließend die geeignete **[!UICONTROL Zeitzone]**.
+1. Wählen Sie abschließend die entsprechende **[!UICONTROL Zeitzone]** aus.
 
    ![](assets/set-default-location-settings-for-a-subscription-5.png)
 
@@ -53,7 +53,7 @@ Wenn ein Administrator die Standardeinstellungen für den Speicherort ändert, �
 
 Wenn Sie das Standardgebietsschema für Ihre Benutzer ändern, sollten Sie auch die Einstellungen für das Währungsformat ändern.
 
-1. Klicks **[!UICONTROL Bearbeiten]** in [!UICONTROL Währungseinstellungen für Abonnements].
+1. Klicken Sie in den Einstellungen für die Abonnementwährung auf **[!UICONTROL Bearbeiten]** .
 
    ![](assets/set-default-location-settings-for-a-subscription-6.png)
 

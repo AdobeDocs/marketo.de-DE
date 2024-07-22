@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2359799
-description: Preisausschreiben veröffentlichen - Marketo-Dokumente - Produktdokumentation
-title: Preisausschreiben veröffentlichen
+description: Publish a Sweepstakts - Marketo Docs - Produktdokumentation
+title: Publish a Sweepstakes
 exl-id: c02d213c-a965-4737-817a-ce8bd7491853
 source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
@@ -10,9 +10,9 @@ ht-degree: 0%
 
 ---
 
-# Preisausschreiben veröffentlichen {#publish-a-sweepstakes}
+# Publish a Sweepstakes {#publish-a-sweepstakes}
 
-Nach [Preisausschreiben erstellen](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), können Sie sie auf Ihren Marketo-Landingpages, auf Ihrer Website und in Ihrer Facebook veröffentlichen.
+Nachdem Sie [ein Preisausschreiben ](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md) erstellt haben, können Sie es auf Ihren Marketo-Landingpages, auf Ihrer Website und in Ihrer Facebook veröffentlichen.
 
 >[!AVAILABILITY]
 >
@@ -26,11 +26,11 @@ Nach [Preisausschreiben erstellen](/help/marketo/product-docs/demand-generation/
 
    ![](assets/image2014-9-25-17-3a41-3a27.png)
 
-1. Suchen Sie den Abschnitt Elemente einfügen auf der rechten Seite der Seite. Verschieben **Preisausschreiben**.
+1. Suchen Sie den Abschnitt Elemente einfügen auf der rechten Seite der Seite. Ziehen Sie über **Preisausschreiben**.
 
    ![](assets/image2014-9-25-17-3a41-3a31.png)
 
-1. Wählen Sie Ihren Preisausschreiben aus und klicken Sie auf **Einfügen**.
+1. Wählen Sie Ihr Gewinnspiel aus und klicken Sie auf **Einfügen**.
 
    ![](assets/image2014-9-25-17-3a41-3a35.png)
 
@@ -38,7 +38,7 @@ Nach [Preisausschreiben erstellen](/help/marketo/product-docs/demand-generation/
    >
    >Sie müssen Ihr Gewinnspiel genehmigen, um es hier verfügbar zu machen.
 
-   Herzlichen Glückwunsch! Validieren Sie die Landingpage und Ihr Gewinnspiel ist live. Sie können auch [Landingpage in Facebook veröffentlichen](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) oder [stellen Sie den Preisausschreiben auf Ihre Website](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
+   Herzlichen Glückwunsch! Validieren Sie die Landingpage und Ihr Gewinnspiel ist live. Sie können die Einstiegsseite auch [in Facebook veröffentlichen](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) oder [auf Ihrer Website veröffentlichen](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
 
    >[!TIP]
    >
@@ -46,4 +46,4 @@ Nach [Preisausschreiben erstellen](/help/marketo/product-docs/demand-generation/
 
    >[!NOTE]
    >
-   >Sobald sich Benutzer angemeldet haben, müssen Sie zur App zurückkehren, um [die Gewinner auswählen](/help/marketo/product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md)!
+   >Nachdem sich Benutzer angemeldet haben, denken Sie daran, zur App zurückzukehren, um die Gewinner des Preisausschreibens auszuwählen.](/help/marketo/product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md)[

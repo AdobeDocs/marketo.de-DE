@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Sie können den Namen einer vorhandenen Smart-Kampagne ändern. So geht es.
 
-1. Navigieren Sie zu **[!UICONTROL Marketingaktivitäten]**.
+1. Wechseln Sie zu **[!UICONTROL Marketingaktivitäten]**.
 
    ![](assets/rename-a-smart-campaign-1.png)
 

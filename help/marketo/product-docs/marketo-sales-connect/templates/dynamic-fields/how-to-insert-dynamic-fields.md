@@ -1,29 +1,29 @@
 ---
 unique-page-id: 14352592
-description: So fügen Sie dynamische Felder ein - Marketo-Dokumente - Produktdokumentation
+description: Hinzufügen dynamischer Felder - Marketo-Dokumente - Produktdokumentation
 title: Dynamische Felder einfügen
 exl-id: e4989350-872d-47a1-84b0-210e631ae23a
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
 
 # Dynamische Felder einfügen {#how-to-insert-dynamic-fields}
 
-Wir ermöglichen es Ihnen, Ihre E-Mail-Vorlagen mit vordefinierten Attributen wie `{{first_name}}` oder `{{company}}`. Mithilfe dieser Felder können Sie mehrere Kontakte per E-Mail versenden und diese Felder automatisch ausfüllen lassen, ohne sie für jeden Kontakt einzeln eingeben zu müssen.
+Sie können Ihre E-Mail-Vorlagen mit vordefinierten Attributen wie `{{first_name}}` oder `{{company}}` personalisieren. Mithilfe dieser Felder können Sie mehrere Kontakte per E-Mail versenden und diese Felder automatisch ausfüllen lassen, ohne sie für jeden Kontakt einzeln eingeben zu müssen.
 
 >[!TIP]
 >
->Die Felder &quot;first_name&quot;und &quot;company&quot;sind die einzigen Felder, die sowohl für Sales Connect als auch für Salesforce gelten. Das bedeutet, wenn ein Kontakt im [Webanwendung](https://toutapp.com/login), sehen wir uns in Salesforce an, ob wir einen Kontakt-/Lead-Datensatz mit einer entsprechenden E-Mail-Adresse finden können. Dann verwenden wir Informationen aus diesem Datensatz, um das Feld zu füllen.
+>Die Felder &quot;first_name&quot;und &quot;company&quot;sind die einzigen Felder, die sowohl für Sales Connect als auch für Salesforce gelten. Wenn also kein Kontakt in der [Webanwendung](https://toutapp.com/login) vorhanden ist, suchen wir in Salesforce nach einem Kontakt, um zu sehen, ob wir einen Kontakt-/Lead-Datensatz mit einer übereinstimmenden E-Mail-Adresse finden können. Dann verwenden wir Informationen aus diesem Datensatz, um das Feld zu füllen.
 
 ## Dynamisches Feld in eine Vorlage einfügen {#insert-a-dynamic-field-into-a-template}
 
-1. In **Vorlagen und Kampagnen**, suchen Sie die Vorlage, die Sie bearbeiten möchten, und klicken Sie auf **Vorlage bearbeiten**.
+1. Suchen Sie in **Vorlagen und Kampagnen** die Vorlage, die Sie bearbeiten möchten, und klicken Sie auf **Vorlage bearbeiten**.
 
-1. Klicken **Dynamische Felder ausfüllen**.
+1. Klicken Sie auf **Dynamische Felder ausfüllen**.
 
    >[!NOTE]
    >

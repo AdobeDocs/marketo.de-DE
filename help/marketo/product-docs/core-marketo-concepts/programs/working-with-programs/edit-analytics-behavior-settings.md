@@ -7,15 +7,15 @@ feature: Programs
 source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 6%
+ht-degree: 5%
 
 ---
 
 # Bearbeiten Sie die Verhaltenseinstellungen der Analytics {#edit-analytics-behavior-settings}
 
-Sie können die [Analytics-Verhalten auf Admin-Ebene bei Kanälen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md){target="_blank"}, aber Sie können sie auch auf Programmebene bearbeiten. So geht es.
+Sie können das Analytics-Verhalten [auf Admin-Ebene für Kanäle](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md){target="_blank"} festlegen, es aber auch auf Programmebene bearbeiten. So geht es.
 
-1. Navigieren Sie zu **[!UICONTROL Marketingaktivitäten]**.
+1. Wechseln Sie zu **[!UICONTROL Marketingaktivitäten]**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -23,7 +23,7 @@ Sie können die [Analytics-Verhalten auf Admin-Ebene bei Kanälen](/help/marketo
 
    ![](assets/image2014-9-24-11-3a40-3a57.png)
 
-1. Im **[!UICONTROL Einrichtung]** Registerkarte, ziehen [!UICONTROL Analytics-Verhalten] auf die Arbeitsfläche.
+1. Ziehen Sie auf der Registerkarte **[!UICONTROL Einrichtung]** [!UICONTROL Analytics-Verhalten] auf die Arbeitsfläche.
 
    ![](assets/image2014-9-24-11-3a41-3a2.png)
 
@@ -35,9 +35,9 @@ Sie können die [Analytics-Verhalten auf Admin-Ebene bei Kanälen](/help/marketo
 >
 >**Definition**
 >
->**[!UICONTROL Inklusiv]** - Mit dieser Option wird sichergestellt, dass das Programm für die Berichterstellung in Umsatz-Explorer und Analyzern verfügbar ist, unabhängig davon, ob Sie Zeitraumkosten berücksichtigt haben oder nicht.
+>**[!UICONTROL Aufnahme]** - Diese Option stellt sicher, dass das Programm für die Berichterstellung in Umsatz-Explorer und Analyzern verfügbar ist, unabhängig davon, ob Sie Periodenkosten berücksichtigt haben oder nicht.
 >
->**[!UICONTROL Betrieb]** - Diese Option führt dazu, dass das Programm weder im Umsatz-Explorer noch in Analyzern angezeigt wird.
+>**[!UICONTROL Operativ]** - Diese Option führt dazu, dass das Programm weder in den Umsatz-Explorer noch in den Analyzern angezeigt wird.
 
 >[!NOTE]
 >

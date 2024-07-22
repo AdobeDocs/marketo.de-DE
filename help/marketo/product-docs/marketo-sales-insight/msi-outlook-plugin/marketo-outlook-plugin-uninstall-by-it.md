@@ -6,7 +6,7 @@ exl-id: 678684da-3e99-462f-9950-504df1c1bb1e
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '119'
 ht-degree: 2%
 
 ---
@@ -49,4 +49,4 @@ Um einen Speicherort für die Protokolldateien anzugeben, können Sie den Dateip
 >
 >Durch das Deinstallieren des Plug-ins wird Outlook auf dem Computer des Benutzers erzwungen.
 
-Bitte lesen Sie [Vollständige Liste der Switches von Microsoft](https://support.microsoft.com/en-us/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6) , wenn Sie verschiedene Protokollierungsstufen oder Benutzeroberflächen-Ebenen ausprobieren möchten.
+Wenn Sie verschiedene Protokollierungsstufen oder Benutzeroberflächenebenen ausprobieren möchten, lesen Sie bitte die vollständige Liste der Switches von Microsoft[1.](https://support.microsoft.com/en-us/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6)

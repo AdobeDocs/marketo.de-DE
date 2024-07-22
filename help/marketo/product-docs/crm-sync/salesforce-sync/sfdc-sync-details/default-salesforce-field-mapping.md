@@ -7,7 +7,7 @@ feature: Salesforce Integration
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
 source-wordcount: '363'
-ht-degree: 57%
+ht-degree: 59%
 
 ---
 
@@ -29,7 +29,7 @@ Wenn Sie Ihr Marketo Engage-Konto zum ersten Mal mit Salesforce synchronisieren,
 | E-Mail | E-Mail-Adresse |
 | Fax | Faxnummer |
 | Vorname | Vorname |
-| E-Mail-Abmeldung | Hat abbestellt |
+| E-Mail-Abmeldung | Abbestellt |
 | Branche | Branche |
 | Konvertiert | SFDC wird konvertiert |
 | Gelöscht | SFDC wurde gelöscht |
@@ -42,10 +42,10 @@ Wenn Sie Ihr Marketo Engage-Konto zum ersten Mal mit Salesforce synchronisieren,
 | PLZ | Postleitzahl |
 | Bewertung | Bewertung |
 | Anrede | Anrede |
-| Bundesland/Kanton | Status |
+| Bundesland/Kanton | Bundesland |
 | Status | Status |
 | Straße | Adresse |
-| Titel | Job-Titel |
+| Titel | Jobtitel |
 | Website | Website |
 
 ## Kontaktfelder {#contact-fields}
@@ -53,35 +53,35 @@ Wenn Sie Ihr Marketo Engage-Konto zum ersten Mal mit Salesforce synchronisieren,
 | SFDC-Feld | Marketo-Feld |
 |---|---|
 | Geburtsdatum | Geburtsdatum |
-| Erstellungsdatum | SFDC-Erstellungsdatum |
+| Erstellungsdatum | SFDC Created Date |
 | Kontaktbeschreibung | Personenhinweise |
 | E-Mail | E-Mail-Adresse |
 | Business Fax | Faxnummer |
 | Vorname | Vorname |
-| E-Mail-Abmeldung | Hat abbestellt |
+| E-Mail-Abmeldung | Abbestellt |
 | Gelöscht | SFDC wurde gelöscht |
 | Nachname | Nachname |
 | Lead-Quelle | Quelle |
 | Lead-Bewertung | Bewertung |
 | MailingCity | Ort |
 | MailingCountry | Land |
-| Postleitzahl | Postleitzahl |
-| MailingState | Status |
+| MailingPostalCode | Postleitzahl |
+| MailingState | Bundesland |
 | MailingStreet | Adresse |
 | Mobiltelefon | Mobiltelefonnummer |
 | Geschäftstelefon | Telefonnummer |
 | Anrede | Anrede |
-| Titel | Job-Titel |
+| Titel | Jobtitel |
 
 ## Kontofelder {#account-fields}
 
 | SFDC-Feld | Marketo-Feld |
 |---|---|
 | Jahresumsatz | Jahresumsatz |
-| Rechnungsort | Rechnungsort |
-| Rechnungsland | Rechnungsland |
-| Postleitzahl der Abrechnung | Postleitzahl für Rechnung |
-| Abrechnungsstaat/Provinz | Bundesland für Rechnung |
+| Abrechnungsort | Abrechnungsort |
+| Abrechnungsland | Abrechnungsland |
+| Postleitzahl der Abrechnung | Postleitzahl für Abrechnung |
+| Abrechnungsstaat/Provinz | Bundesland für Abrechnung |
 | Billing Street | Rechnungsadresse |
 | Kontobeschreibung | Unternehmenshinweise |
 | Branche | Branche |
@@ -102,5 +102,5 @@ Diese Felder werden in Marketo erstellt, können jedoch nicht von den Kunden ang
 |---|---|
 | SFDC-ID | Die Salesforce-ID mit 18 Zeichen |
 | SFDC-Typ | Lead oder Kontakt. Wenn leer, ist der Lead nur als Person in Marketo vorhanden |
-| SFDC-Erstellungsdatum | In SFDC erstelltes Datum (kann sich von dem in Marketo erstellten unterscheiden) |
+| SFDC Created Date | In SFDC erstelltes Datum (kann sich von dem in Marketo erstellten unterscheiden) |
 | SFDC wird gelöscht | Person, die früher Teil des SFDC war, aber gelöscht wurde und jetzt nur noch in Marketo lebt |

@@ -12,7 +12,7 @@ ht-degree: 5%
 
 # Hilfezentrum {#help-center}
 
-Das Help Center in Adobe Marketo Engage dient als zentralisierter Ort, um Hilfe zu erhalten. Neben der Verknüpfung mit verschiedenen Ressourcen (z. B. [Produktdokumentation](/help/marketo/home.md){target="_blank"}, [Versionsinformationen](/help/marketo/release-notes/current.md){target="_blank"}, die [Marketing Nation Community](https://nation.marketo.com/){target="_blank"}), können Sie auf hilfreiche produktinterne Umgehungen zugreifen, die nach Erlebnisebene organisiert sind.
+Das Help Center in Adobe Marketo Engage dient als zentralisierter Ort, um Hilfe zu erhalten. Zusätzlich zur Verknüpfung mit verschiedenen Ressourcen (z. B. [Produktdokumentation](/help/marketo/home.md){target="_blank"}, [Versionsinformationen](/help/marketo/release-notes/current.md){target="_blank"}, die [Community der Marketing-Nationen](https://nation.marketo.com/){target="_blank"}) können Sie auf hilfreiche produktinterne Umgehungen zugreifen, die nach Erlebnisebene organisiert sind.
 
 ## Zugriff {#how-to-access}
 
@@ -30,21 +30,21 @@ Handbücher dienen als schnelle Anleitungen für beliebte Funktionen.
 
    ![](assets/help-center-3.png)
 
-1. Klicks **Erste Schritte**.
+1. Klicken Sie auf **Erste Schritte**.
 
    ![](assets/help-center-4.png)
 
-1. Klicks **Nächste** , um fortzufahren.
+1. Klicken Sie auf **Weiter** , um fortzufahren.
 
    ![](assets/help-center-5.png)
 
-1. Klicks **Fertig** , um die exemplarische Vorgehensweise zu beenden.
+1. Klicken Sie auf **Fertig** , um die exemplarische Vorgehensweise zu beenden.
 
    ![](assets/help-center-6.png)
 
    >[!TIP]
    >
-   >Beenden Sie das Handbuch jederzeit durch Klicken auf **Verwerfen**.
+   >Beenden Sie das Handbuch jederzeit, indem Sie auf **Beenden** klicken.
 
 ### Neue Funktionen {#whats-new}
 

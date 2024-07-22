@@ -5,7 +5,7 @@ exl-id: 4ee9a45a-53c3-48ca-9f47-90f007b7f9b9
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '103'
 ht-degree: 5%
 
 ---
@@ -22,11 +22,11 @@ Wenn Sie über eine nicht verifizierte E-Mail-Identität verfügen, führen Sie 
 
    ![](assets/verify-your-email-2.png)
 
-1. Suchen Sie unter &quot;Adresse und Signatur&quot;die E-Mail, die Sie überprüfen möchten, und klicken Sie auf **Bestätigungs-E-Mail erneut senden**. Eine neue Verifizierungs-E-Mail wird gesendet.
+1. Suchen Sie unter &quot;Adresse und Signatur&quot;die E-Mail, die Sie überprüfen möchten, und klicken Sie auf **Überprüfungs-E-Mail erneut senden**. Eine neue Verifizierungs-E-Mail wird gesendet.
 
    ![](assets/verify-your-email-3.png)
 
-1. Klicken **Erneut senden**.
+1. Klicken Sie auf **Erneut senden**.
 
    ![](assets/verify-your-email-4.png)
 
@@ -36,4 +36,4 @@ Wenn Sie über eine nicht verifizierte E-Mail-Identität verfügen, führen Sie 
 
 >[!NOTE]
 >
->Wenn Sie die Verifizierungs-E-Mail nicht erhalten, überprüfen Sie Ihren Spam-Ordner. Wenn es nicht vorhanden ist, kontaktieren Sie bitte [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support).
+>Wenn Sie die Verifizierungs-E-Mail nicht erhalten, überprüfen Sie Ihren Spam-Ordner. Wenn es nicht vorhanden ist, wenden Sie sich an den [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support).

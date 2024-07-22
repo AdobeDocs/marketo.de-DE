@@ -16,15 +16,15 @@ Marketo bietet eine Vielzahl von Berichtsmodulen für unterschiedliche Anforderu
 
 ## Basisberichterstattung {#basic-reporting}
 
-Sie können [Basisberichte](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"} innerhalb von Programmen oder im Bereich Analytics. Basisberichte bestehen aus verschiedenen Arten nativer Berichte mit der Flexibilität, Zeiträume zu filtern, zu sortieren und anzupassen.
+Sie können [grundlegende Berichte](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"} innerhalb von Programmen oder im Analytics-Bereich einrichten. Basisberichte bestehen aus verschiedenen Arten nativer Berichte mit der Flexibilität, Zeiträume zu filtern, zu sortieren und anzupassen.
 
 ## E-Mail Insights {#email-insights}
 
-Analytics und Sendungen zum Abrufen verwenden [Einblicke](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md){target="_blank"} für E-Mails aus historischen Daten.
+Verwenden Sie Analytics und Sendungen, um [leistungsstarke Einblicke](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md){target="_blank"} in E-Mails aus historischen Daten zu erhalten.
 
-## Performance-Insights {#performance-insights}
+## Leistungs-Insights {#performance-insights}
 
-[Performance Insights](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md){target="_blank"} deckt die Kanalleistung und Programmleistung für Interaktion, Pipeline und Umsatzgenerierung ab.
+[Leistungseinblicke](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md){target="_blank"} umfasst die Kanalleistung und Programmleistung für Interaktion, Pipeline und Umsatzgenerierung.
 
 ## Fortschrittliche Berichterstellung für BI Analytics {#advanced-bi-analytics-reporting}
 
@@ -54,13 +54,13 @@ Zu den Vorteilen von Advanced BI Analytics Reporting gehören:
 
 ## Erweiterte Journey Analytics {#advanced-journey-analytics}
 
-Umsatzzyklusmodelle: modellieren Sie alle Phasen Ihres gesamten Umsatzes-Trichters und wie diese zwischen diesen Phasen wechseln, von der ersten Interaktion mit einem Lead bis hin zum erfolgreichen Kunden.
+Umsatzzyklusmodelle: Modellieren Sie alle Phasen Ihres gesamten Umsatzes und wie diese zwischen diesen Phasen wechseln, von der ersten Interaktion mit einem Lead bis hin zum erfolgreichen Kunden.
 
 Erfolgspfad-Analyse: Erhalten Sie eine visuelle Darstellung der Geschwindigkeit und des Durchflusses durch Ihr Umsatzzyklusmodell. Für die Erfolgspfad-Analyse müssen Sie Umsatzzyklusmodelle erstellen.
 
-Programm-Analyzer: Schnelle Identifizierung erfolgreicher oder nicht erfolgreicher Programme und entsprechende Fokussierung Ihrer Ressourcen. Verwenden Sie den Programm-Analyzer, um alle Kosten zu analysieren und zu vergleichen und im Detail nach Programm oder Kanal zurückzugeben.
+Programm-Analyzer: Ermitteln Sie schnell erfolgreiche oder nicht erfolgreiche Programme und konzentrieren Sie Ihre Ressourcen entsprechend. Verwenden Sie den Programm-Analyzer, um alle Kosten zu analysieren und zu vergleichen und im Detail nach Programm oder Kanal zurückzugeben.
 
-Opportunity Influenza Analyzer: Beweisen Sie den Beitrag des Marketing durch Messung der Wirkung von Programmen und wichtigen Interaktionen, die zu Chancen geführt haben.
+Opportunity Influence Analyzer: Beweisen Sie den Beitrag von Marketing durch die Messung der Auswirkungen von Programmen und wichtigen Interaktionen, die zu Chancen führten.
 
 >[!NOTE]
 >

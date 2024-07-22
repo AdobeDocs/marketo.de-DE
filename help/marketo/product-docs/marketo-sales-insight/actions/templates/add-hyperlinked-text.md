@@ -18,7 +18,7 @@ Gehen Sie wie folgt vor, um zu erfahren, wie Sie Ihren E-Mail-Vorlagen Hyperlink
 
    ![](assets/add-hyperlinked-text-1.png)
 
-1. Klicks **Bearbeiten**.
+1. Klicken Sie auf **Bearbeiten**.
 
    ![](assets/add-hyperlinked-text-2.png)
 
@@ -30,7 +30,7 @@ Gehen Sie wie folgt vor, um zu erfahren, wie Sie Ihren E-Mail-Vorlagen Hyperlink
 
    ![](assets/add-hyperlinked-text-4.png)
 
-1. Klicks **Speichern** erneut.
+1. Klicken Sie erneut auf **Speichern**.
 
    ![](assets/add-hyperlinked-text-5.png)
 

@@ -22,11 +22,11 @@ Fügen Sie eine Identität hinzu, wenn Sie über mehrere E-Mail-Adressen verfüg
 
    ![](assets/add-identity-1.png)
 
-1. Klicks **E-Mail-Einstellungen**.
+1. Klicken Sie auf **E-Mail-Einstellungen**.
 
    ![](assets/add-identity-2.png)
 
-1. Klicks **Identität hinzufügen**.
+1. Klicken Sie auf **Identität hinzufügen**.
 
    ![](assets/add-identity-3.png)
 
@@ -46,4 +46,4 @@ Wenn Sie eine E-Mail in Marketo Sales senden und über mehrere Identitäten verf
 
 >[!MORELIKETHIS]
 >
->[E-Mail-Signatur hinzufügen oder aktualisieren](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-or-update-your-email-signature.md).
+>[Hinzufügen oder Aktualisieren Ihrer E-Mail-Signatur](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-or-update-your-email-signature.md).

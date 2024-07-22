@@ -19,11 +19,11 @@ ht-degree: 1%
 
 Nicht jedes Feld in Salesforce ist für Marketing nützlich. Sie können die Synchronisierungsleistung optimieren, indem Sie nur die erforderlichen Felder einschließen. So kann man ein Feld vor Marketo Engage verbergen.
 
-1. Klicken Sie auf Ihr Namensmenü und wählen Sie **[!UICONTROL Einrichtung]**.
+1. Klicken Sie auf Ihr Namensmenü und wählen Sie **[!UICONTROL Einrichtung]** aus.
 
    ![](assets/image2015-6-30-15-3a11-3a23.png)
 
-1. Geben Sie &quot;Profile&quot;in die Suchleiste ein und klicken Sie auf **[!UICONTROL Profile]** under **[!UICONTROL Benutzer verwalten]**.
+1. Geben Sie &quot;Profile&quot;in die Suchleiste ein und klicken Sie unter **[!UICONTROL Benutzer verwalten]** auf **[!UICONTROL Profile]** .
 
    ![](assets/image2015-6-30-15-3a12-3a46.png)
 
@@ -31,15 +31,15 @@ Nicht jedes Feld in Salesforce ist für Marketing nützlich. Sie können die Syn
 
    ![](assets/image2015-6-30-15-3a17-3a38.png)
 
-1. Unter dem **[!UICONTROL Sicherheit auf Feldebene]** Abschnitt, klicken Sie auf **[!UICONTROL Ansicht]** neben dem Objekt, das das Zielfeld enthält.
+1. Klicken Sie unter dem Abschnitt **[!UICONTROL Sicherheit auf Feldebene]** neben dem Objekt, das das Zielfeld enthält, auf **[!UICONTROL Anzeigen]** .
 
    ![](assets/image2015-6-30-15-3a24-3a32.png)
 
-1. Klicks **[!UICONTROL Bearbeiten]**.
+1. Klicken Sie auf **[!UICONTROL Bearbeiten]**.
 
    ![](assets/image2015-6-30-15-3a25-3a42.png)
 
-1. Deaktivieren Sie die **[!UICONTROL Sichtbar]** neben dem Feld, das Sie ausblenden möchten. Klicken Sie auf **[!UICONTROL Speichern]**.
+1. Deaktivieren Sie das Kontrollkästchen **[!UICONTROL Sichtbar]** neben dem Feld, das Sie ausblenden möchten. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/image2015-6-30-15-3a27-3a16.png)
 

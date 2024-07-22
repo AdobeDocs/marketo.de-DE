@@ -6,7 +6,7 @@ exl-id: f6590a13-2eba-44b3-b832-fd352b67ab5e
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Trend zeigt die Kanalleistung von über einen Zeitraum hinweg an.
 
-Klicken Sie auf **Trend** -Tab, um auf diese Ansicht zuzugreifen.
+Klicken Sie auf die Registerkarte **Trend** , um auf diese Ansicht zuzugreifen.
 
 ![](assets/1.png)
 
@@ -23,7 +23,7 @@ Klicken Sie auf **Trend** -Tab, um auf diese Ansicht zuzugreifen.
 
 ![](assets/2-1.png)
 
-Wählen Sie die Metrik aus, nach der Sie die Leistung anzeigen möchten. In diesem Beispiel werden wir uns die Chancen ansehen, die durch [Erstkontakt](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+Wählen Sie die Metrik aus, nach der Sie die Leistung anzeigen möchten. In diesem Beispiel werden wir uns die Chancen ansehen, die durch [Erstkontakt](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md) gewonnen wurden.
 
 ![](assets/3-2.png)
 

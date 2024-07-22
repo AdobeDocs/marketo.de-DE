@@ -16,11 +16,11 @@ Sehen Sie sich all Ihre Aufgaben und ihre relevanten Details an, z. B. wann sie 
 
 ## Fragen generieren {#generate-questions}
 
-1. Klicken Sie unter Generative KI auf **[!UICONTROL Unterstützte Antworten]**.
+1. Klicken Sie unter &quot;Generative KI&quot;auf **[!UICONTROL Assisted responses]**.
 
    ![](assets/question-generation-1.png)
 
-1. Klicks **[!UICONTROL Fragen generieren]**.
+1. Klicken Sie auf **[!UICONTROL Fragen generieren]**.
 
    ![](assets/question-generation-2.png)
 
@@ -36,7 +36,7 @@ Sehen Sie sich all Ihre Aufgaben und ihre relevanten Details an, z. B. wann sie 
    >
    >Sites/Seiten müssen öffentlich sein (d. h. nicht hinter einem Login verborgen sein), damit ihre Informationen durchsucht werden können.
 
-1. Je nach Inhalt kann die Erstellung von Fragen und Antworten bis zu 30 Minuten dauern. Klicks **[!UICONTROL OK]**.
+1. Je nach Inhalt kann die Erstellung von Fragen und Antworten bis zu 30 Minuten dauern. Klicken Sie auf **[!UICONTROL OK]**.
 
    ![](assets/question-generation-4.png)
 
@@ -50,7 +50,7 @@ Sehen Sie sich all Ihre Aufgaben und ihre relevanten Details an, z. B. wann sie 
 
 >[!NOTE]
 >
->Die generierten Fragen und Antworten sind auch im [Reaktionsbibliothek](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md).
+>Die generierten Fragen und Antworten sind auch in der [Antwortbibliothek](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) sichtbar.
 
 1. Suchen Sie die gewünschte Aufgabe und klicken Sie auf das Download-Symbol neben ihrem Namen.
 
@@ -60,15 +60,15 @@ Sehen Sie sich all Ihre Aufgaben und ihre relevanten Details an, z. B. wann sie 
 
    ![](assets/question-generation-7.png)
 
-1. In der Excel-Datei **[!DNL Task details]** zeigt genau dies, verschiedene Details zur Aufgabe, einschließlich Anweisungen zum Hinzufügen/Bearbeiten von Fragen und/oder Antworten.
+1. In der Excel-Datei zeigt **[!DNL Task details]** genau dies, verschiedene Details zur Aufgabe, einschließlich Anweisungen zum Hinzufügen/Bearbeiten von Fragen und/oder Antworten.
 
    ![](assets/question-generation-8.png)
 
    >[!NOTE]
    >
-   >Wenn Sie sich entscheiden, Fragen und/oder Antworten stapelweise hinzuzufügen/zu bearbeiten, [Hier erfahren Sie, wie Sie sie erneut hochladen.](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md).
+   >Wenn Sie sich dafür entscheiden, Fragen und/oder Antworten stapelweise hinzuzufügen/zu bearbeiten, erfahren Sie [hier, wie Sie sie erneut hochladen](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md).
 
-1. Die **[!DNL Q&Rs]** enthält zusätzliche Details, einschließlich der generierten Fragen und Antworten.
+1. Die Registerkarte **[!DNL Q&Rs]** enthält zusätzliche Details, einschließlich der generierten Fragen und Antworten.
 
    ![](assets/question-generation-9.png)
 

@@ -7,15 +7,15 @@ feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '192'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 # Analytics-Verhalten auf Programmebene überschreiben {#override-analytics-behavior-at-the-program-level}
 
-Sie können die [Analytics-Verhalten auf Admin-Ebene bei Kanälen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) aber Sie können es auch auf Programmebene überschreiben. Gehen Sie wie folgt vor:
+Sie können das Analytics-Verhalten [auf Admin-Ebene auf Kanälen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) festlegen, es aber auch auf Programmebene überschreiben. Gehen Sie wie folgt vor:
 
-1. Navigieren Sie zu **Marketingaktivitäten** Bereich.
+1. Wechseln Sie zum Bereich **Marketingaktivitäten** .
 
    ![](assets/image2014-9-24-11-3a40-3a46.png)
 
@@ -23,7 +23,7 @@ Sie können die [Analytics-Verhalten auf Admin-Ebene bei Kanälen](/help/marketo
 
    ![](assets/image2014-9-24-11-3a40-3a57.png)
 
-1. Unter dem **Einrichtung** Registerkarte Analytics-Verhalten auf die Arbeitsfläche ziehen.
+1. Ziehen Sie unter der Registerkarte **Einrichtung** das Analytics-Verhalten auf die Arbeitsfläche.
 
    ![](assets/image2014-9-24-11-3a41-3a2.png)
 
@@ -33,16 +33,16 @@ Sie können die [Analytics-Verhalten auf Admin-Ebene bei Kanälen](/help/marketo
    >
    >**Definition**
    >
-   >* **Inklusiv** - Mit dieser Option wird sichergestellt, dass das Programm für Berichte in Umsatz-Explorer und Analyzern verfügbar ist, unabhängig davon, ob Sie Kosten für einen Zeitraum einbezogen haben oder nicht.
-   >* **Betrieb** - Diese Option führt dazu, dass das Programm weder im Umsatz-Explorer noch in Analyzern angezeigt wird.
+   >* **Einschließlich** - Mit dieser Option wird sichergestellt, dass das Programm für die Berichterstellung in Umsatz-Explorer und Analyzern verfügbar ist, unabhängig davon, ob Sie einen Zeitraumpreis angegeben haben oder nicht.
+   >* **Operativ** - Diese Option führt dazu, dass das Programm weder in den Umsatz-Explorer noch in den Analyzern angezeigt wird.
 
    >[!NOTE]
    >
-   >Das Standardverhalten (wenn diese Einstellung nicht angewendet wird) ist, dass das Programm in Analytics enthalten ist. **NUR bei mindestens einem Zeitraumkosten**, auch mit 0 zugewiesenem Dollar.
+   >Das Standardverhalten (wenn diese Einstellung nicht angewendet wird) besteht darin, dass das Programm NUR dann in Analytics **enthalten ist, wenn mindestens ein Zeitraumkosten** vorliegt, selbst wenn einem Wert 0 zugewiesen ist.
 
    ![](assets/image2014-9-24-11-3a42-3a0.png)
 
-1. Klicks **Speichern**.
+1. Klicken Sie auf **Speichern**.
 
    ![](assets/image2014-9-24-11-3a42-3a6.png)
 

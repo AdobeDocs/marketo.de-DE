@@ -16,17 +16,17 @@ Unten finden Sie alle Funktionen der Version vom 23. März. Überprüfen Sie Ihr
 
 >[!AVAILABILITY]
 >
->Mit einem Stern (![star](assets/yellow-star.png)) sind kostenpflichtige Add-ons. Wenden Sie sich an Ihren Marketo Engage-Support-Mitarbeiter, um mehr zu erfahren.
+>Mit einem Stern (![Stern](assets/yellow-star.png)) gekennzeichnete Funktionen sind kostenpflichtige Add-ons. Wenden Sie sich an Ihren Marketo Engage-Support-Mitarbeiter, um mehr zu erfahren.
 
 ## Standardfunktionen des Versionszyklus {#standard-release-cycle-features}
 
-Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab der Veröffentlichung auf **31. März 2023**, mit einer stufenweisen Einführung der verbleibenden Funktionen in den darauffolgenden Wochen. Die Veröffentlichungsfunktionen und -daten können sich ändern. Bitte prüfen Sie unten jedes Feature nach seinem Status.
+Die folgenden Funktionen fallen unter den standardmäßigen Versionszyklus und werden am 31. März 2023 veröffentlicht. Mit einem stufenweisen Rollout der verbleibenden Funktionen in den darauffolgenden Wochen. **** Die Veröffentlichungsfunktionen und -daten können sich ändern. Bitte prüfen Sie unten jedes Feature nach seinem Status.
 
 ### Marketo Engage Modern UX {#modern-ux}
 
 </br>
 
-* **Verbesserte Verwendung nach Komponente für Details von Landingpage-Vorlagen und Formulardetails**: Die Registerkarte Neu verwendet von Benutzeroberfläche enthält zusätzliche Informationen in den Details der Landingpage-Vorlage und den Formulardetails, einschließlich weiterer Details zu Assets, die ein ausgewähltes Asset verwendet haben. Analyse langer Asset-Listen mithilfe der Such-, Sortierungs- und Filterfunktionen.
+* **Verbesserte Verwendung durch Komponente für Details der Landingpage-Vorlage und Formulardetails**: Die Registerkarte &quot;Neu verwendet von Benutzeroberfläche&quot;enthält zusätzliche Informationen in den Details der Landingpage-Vorlage und in den Formulardetails, einschließlich weiterer Details zu Assets, die ein ausgewähltes Asset verwendet haben. Analyse langer Asset-Listen mithilfe der Such-, Sortierungs- und Filterfunktionen.
 
 <table> 
   <tr> 
@@ -40,7 +40,7 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
   </tbody>
 </table>
 
-* **Umschalter und klassisches Erlebnis aus Landingpages entfernen**: Die Einstellung des Umschalters und des klassischen Erlebnisses für Einstiegsseiten hilft Ihnen bei der vollständigen Übernahme des neuen Erlebnisses. Das neue Erlebnis ermöglicht die vollständige Nutzung der mit diesen Assets bereitgestellten Funktionen, ohne auf das alte Erlebnis angewiesen zu sein oder ständig zwischen den beiden Erlebnissen wechseln zu müssen.
+* **Umschalter und klassisches Erlebnis aus Einstiegsseiten entfernen**: Die Einstellung des Umschalters und des klassischen Erlebnisses für Einstiegsseiten hilft Ihnen bei der vollständigen Übernahme des neuen Erlebnisses. Das neue Erlebnis ermöglicht die vollständige Nutzung der mit diesen Assets bereitgestellten Funktionen, ohne auf das alte Erlebnis angewiesen zu sein oder ständig zwischen den beiden Erlebnissen wechseln zu müssen.
 
 <table> 
   <tr> 
@@ -54,7 +54,7 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
   </tbody>
 </table>
 
-* **Leistungsverbesserungen bei Tree-Knoten**: Diejenigen mit einer großen Anzahl von Strukturknoten sehen eine deutliche Leistungsverbesserung.
+* **Leistungsverbesserungen des Strukturknotens**: Diejenigen mit einer großen Anzahl von Strukturknoten sehen eine deutliche Leistungsverbesserung.
 
 <table> 
   <tr> 
@@ -72,7 +72,7 @@ Die folgenden Funktionen fallen unter den Standard-Versionszyklus und werden ab 
 
 </br>
 
-* **Aktualisierung der Marketo Facebook-Integration zur Verwendung des Facebook Graph API-Updates**: Mit dem kürzlich durchgeführten Upgrade von Facebook auf die Facebook Graph-API v15 sind jetzt maximal 500 benutzerdefinierte Zielgruppen verfügbar, die für ein bestimmtes Anzeigenkonto erstellt werden können.
+* **Aktualisieren Sie die Marketo Facebook-Integration, um das Facebook Graph API Update zu verwenden**: Ab Facebooks neuestem Upgrade auf die Facebook Graph API v15 können nun maximal 500 benutzerdefinierte Zielgruppen für ein bestimmtes Anzeigenkonto erstellt werden.
 
 <table> 
   <tr> 
@@ -108,7 +108,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
   </tbody>
 </table>
 
-* **Rollen und Berechtigungen für Dynamic Chat**: Führt Rollen und Berechtigungen zum Dynamic Chat ein, sodass Administratoren die Sichtbarkeit und Nutzung verschiedener Bereiche der App auf ausgewählte Benutzertypen beschränken können.
+* **Rollen und Berechtigungen für Dynamic Chat**: Ermöglicht es Administratoren, Rollen und Berechtigungen zum Dynamic Chat einzuführen, sodass die Sichtbarkeit und Nutzung verschiedener Bereiche der App auf ausgewählte Benutzertypen beschränkt werden kann.
 
 <table> 
   <tr> 
@@ -136,7 +136,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
   </tbody>
 </table>
 
-* **Abgeleitete Attribute für Dynamic Chat**: Stellt sicher, dass die verwiesenen IP-Daten (Stadt, Bundesland, Land usw.) ist in den Personendatensatz für neue Personen geschrieben, die durch Dynamic Chat erworben wurden.
+* **Abgeleitete Attribute für Dynamic Chat**: Stellt sicher, dass abgeschlossene IP-Daten (Ort, Bundesland, Land usw.) ist in den Personendatensatz für neue Personen geschrieben, die durch Dynamic Chat erworben wurden.
 
 <table> 
   <tr> 
@@ -164,7 +164,7 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
   </tbody>
 </table>
 
-* **Wechseln zu Knoten in der Stream-Designer-Vorschau für Dynamic Chat**: Wechseln Sie im Vorschaufenster direkt zu einem Knoten im Stream-Designer.
+* **Sprung zum Knoten im Stream-Designer-Vorschau für Dynamic Chat**: Sprung vom Vorschaufenster aus direkt zu einem Knoten im Stream-Designer.
 
 <table> 
   <tr> 
@@ -180,4 +180,4 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
 
 ## Ankündigungen {#announcements}
 
-* **_Webinar zur Produktversion_**: [Webinar zur Marketo Engage-Version März und Mai 2023](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}
+* **_Webinar zur Produktversion_**: [Marketo Engage Release-Webinar vom März und Mai 2023](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}

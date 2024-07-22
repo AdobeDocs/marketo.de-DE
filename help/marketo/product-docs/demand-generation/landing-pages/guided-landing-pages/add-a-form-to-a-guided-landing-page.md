@@ -19,11 +19,11 @@ Formular, Landingpage kennenlernen. Landingpage, Formular erfüllen.
 >
 >[Erstellen einer geführten Landingpage](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)
 
-1. Navigieren Sie zu **Marketingaktivitäten** Bereich.
+1. Wechseln Sie zum Bereich **Marketingaktivitäten** .
 
    ![](assets/one.png)
 
-1. Landingpage suchen und auswählen und auf **Entwurf bearbeiten**.
+1. Suchen und wählen Sie Ihre Landingpage aus und klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/two.png)
 
@@ -31,7 +31,7 @@ Formular, Landingpage kennenlernen. Landingpage, Formular erfüllen.
    >
    >Verfügbare Elemente in geführten Landingpages werden durch die Vorlage definiert. Wenn kein Formular im Bedienfeld &quot;Elemente&quot;angezeigt wird, wählen Sie eine neue Vorlage aus oder sprechen Sie mit dem Ersteller der Vorlage.
 
-1. Doppelklicken Sie auf die **Formular** im Bedienfeld &quot;Element&quot;.
+1. Doppelklicken Sie im Elementbereich auf das **Formular** .
 
    ![](assets/image2015-5-20-15-3a37-3a55.png)
 
@@ -53,8 +53,8 @@ Formular, Landingpage kennenlernen. Landingpage, Formular erfüllen.
 
    ![](assets/image2015-5-20-15-3a46-3a55.png)
 
-   Gut gemacht!
+   Schön gemacht!
 
    ![](assets/image2015-5-20-15-3a45-3a45.png)
 
-Schließen Sie jetzt einfach den Landingpage-Editor und [Landingpage-Entwurf validieren](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+Schließen Sie jetzt einfach den Landingpage-Editor und [genehmigen Sie den Landingpage-Entwurf](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).

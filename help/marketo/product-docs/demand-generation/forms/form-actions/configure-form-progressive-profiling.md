@@ -6,7 +6,7 @@ exl-id: 72afe3dc-0688-45ec-ab70-4dc9accf4fc8
 feature: Forms
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '332'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ Kurze Formulare sind gut! Wenn jemand zu einem Formular zurückkehrt, können Si
 
 >[!NOTE]
 >
->Damit diese Funktion ordnungsgemäß funktioniert, stellen Sie sicher, dass das Vorfeld &quot;Formular ausfüllen&quot;für sichtbare Felder aktiviert ist, und [disabled](/help/marketo/product-docs/demand-generation/forms/form-fields/disable-pre-fill-for-a-form-field.md) für ausgeblendete Felder.
+>Damit diese Funktion ordnungsgemäß funktioniert, stellen Sie sicher, dass das Vorfeld &quot;Formular&quot;für sichtbare Felder aktiviert ist und [deaktiviert](/help/marketo/product-docs/demand-generation/forms/form-fields/disable-pre-fill-for-a-form-field.md) für ausgeblendete Felder.
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Wechseln Sie zu **Marketingaktivitäten**.
 
    ![](assets/ma-1.png)
 
@@ -27,15 +27,15 @@ Kurze Formulare sind gut! Wenn jemand zu einem Formular zurückkehrt, können Si
 
    ![](assets/image2014-9-15-12-3a31-3a20.png)
 
-1. under **Formulareinstellungen** klicken **Einstellungen**.
+1. Klicken Sie unter &quot;**Formulareinstellungen**&quot;auf &quot;**Einstellungen**&quot;.
 
    ![](assets/image2014-9-15-12-3a31-3a29.png)
 
-1. Satz **Progressives Profiling** nach **Aktiviert**.
+1. Setzen Sie **progressives Profiling** auf **aktiviert**.
 
    ![](assets/image2014-9-15-12-3a31-3a47.png)
 
-1. Okay, nun konfigurieren wir es. Navigieren Sie zu **Felddetails**.
+1. Okay, nun konfigurieren wir es. Wechseln Sie zu **Felddetails**.
 
    ![](assets/image2014-9-15-12-3a31-3a55.png)
 
@@ -49,9 +49,9 @@ Kurze Formulare sind gut! Wenn jemand zu einem Formular zurückkehrt, können Si
 
    >[!NOTE]
    >
-   >Die Felder außerhalb der **Progressives Profiling** wird immer im Formular angezeigt, auch wenn sie ausgefüllt sind.
+   >Die Felder außerhalb des Felds **Progressives Profiling** werden immer im Formular angezeigt, auch wenn sie ausgefüllt sind.
 
-1. Wählen Sie die **Progressives Profiling** ankreuzen.
+1. Wählen Sie das Feld **Progressives Profiling** aus.
 
    ![](assets/image2014-9-15-12-3a32-3a19.png)
 
@@ -59,13 +59,13 @@ Kurze Formulare sind gut! Wenn jemand zu einem Formular zurückkehrt, können Si
    >
    >Seien Sie bei der Verwendung der erforderlichen Felder in der Progressiven Profilerstellung vorsichtig. Diese Felder können weiterhin leer gelassen werden, wenn der Besucher eine neue E-Mail-Adresse eingibt (wodurch eine neue Person erstellt würde), nachdem er zuvor Daten für die anderen Felder gesendet hat, da sie auf dem neuesten Formular unterdrückt würden.
 
-1. Wählen Sie nun aus dem **Progressives Profiling** jedes Mal.
+1. Wählen Sie nun aus dem Feld **Progressives Profiling** aus, wie viele leere Felder angezeigt werden sollen.
 
    ![](assets/image2014-9-15-12-3a32-3a26.png)
 
    >[!NOTE]
    >
-   >Wenn Sie **Zahl** **von** **Leer** **Felder** den Wert 1 hat, sieht der Besucher Folgendes, wenn er dieses Formular zum ersten Mal sieht:
+   >Wenn Sie **Zahl** **von** **Leer** **Felder** als 1 auswählen, wird dem Besucher beim ersten Mal dieses Formular angezeigt:
    >
    >* Vorname (leer)
    >* Nachname (leer)
@@ -86,11 +86,11 @@ Kurze Formulare sind gut! Wenn jemand zu einem Formular zurückkehrt, können Si
    >* E-Mail-Adresse (vorausgefüllt)
    >* Land (leer)
 
-1. Klicken **Beenden**.
+1. Klicken Sie auf **Beenden**.
 
    ![](assets/image2014-9-15-12-3a33-3a35.png)
 
-1. Klicken **Genehmigen und schließen**.
+1. Klicken Sie auf **Genehmigen und schließen**.
 
    ![](assets/image2014-9-15-12-3a33-3a45.png)
 

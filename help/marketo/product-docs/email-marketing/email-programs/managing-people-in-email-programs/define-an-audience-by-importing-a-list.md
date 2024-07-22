@@ -6,7 +6,7 @@ exl-id: 9a63f4a5-1d76-4671-9622-19eb368d196f
 feature: Email Programs
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '372'
+source-wordcount: '374'
 ht-degree: 1%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 1%
 >
 >[E-Mail für ein E-Mail-Programm erstellen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
-Nachdem Sie ein E-Mail-Programm erstellt haben, möchten Sie ihm mitteilen, an wen die E-Mail gesendet werden soll. Sie können dies tun, indem Sie [Erstellen von Smart-Listen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) oder durch Listenimport. Hier erfahren Sie, wie Sie dies durch Importieren einer Liste erreichen.
+Nachdem Sie ein E-Mail-Programm erstellt haben, möchten Sie ihm mitteilen, an wen die E-Mail gesendet werden soll. Erstellen Sie dazu eine Smart-Liste ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) oder importieren Sie eine Liste. [ Hier erfahren Sie, wie Sie dies durch Importieren einer Liste erreichen.
 
 >[!NOTE]
 >
@@ -25,7 +25,7 @@ Nachdem Sie ein E-Mail-Programm erstellt haben, möchten Sie ihm mitteilen, an w
 >
 >Alle Datums-/Uhrzeitfelder, die importiert werden, werden als Central Time behandelt. Wenn Sie Datums-/Uhrzeitfelder in einer anderen Zeitzone haben, können Sie eine Excel-Formel verwenden, um sie in Central Time (America/Chicago) umzuwandeln.
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Wechseln Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -33,7 +33,7 @@ Nachdem Sie ein E-Mail-Programm erstellt haben, möchten Sie ihm mitteilen, an w
 
    ![](assets/importlist.png)
 
-1. Das Listenimportfenster wird geöffnet. Klicken Sie auf **Durchsuchen** und wählen Sie die zu importierende Datei aus. Nachdem Sie Ihre Personenliste ausgewählt haben, klicken Sie auf **Nächste**.
+1. Das Listenimportfenster wird geöffnet. Klicken Sie auf **Durchsuchen** und wählen Sie die zu importierende Datei aus. Nachdem Sie Ihre Personenliste ausgewählt haben, klicken Sie auf **Weiter**.
 
    ![](assets/importlist1.png)
 
@@ -41,15 +41,15 @@ Nachdem Sie ein E-Mail-Programm erstellt haben, möchten Sie ihm mitteilen, an w
    >
    >Stellen Sie sicher, dass die Liste UTF-8-, UTF-16-, Shift-JIS- oder EUC-JP-kodiert ist und die Dateigröße 50 MB nicht überschreitet.
 
-1. Überprüfen Sie, ob die Felder in Ihrer Datei korrekt zugeordnet sind, und klicken Sie auf **Nächste**.
+1. Vergewissern Sie sich, dass die Felder in Ihrer Datei korrekt zugeordnet sind, und klicken Sie auf **Weiter**.
 
    ![](assets/image2014-9-12-11-3a10-3a7.png)
 
    >[!TIP]
    >
-   >Marketo wird sich die Zuordnungen für zukünftige Importe merken!
+   >Marketo wird sich an die Zuordnungen für zukünftige Importe erinnern!
 
-1. Geben Sie einen **Name** für Ihre Liste und klicken Sie auf **Import**.
+1. Geben Sie einen **Namen** für Ihre Liste ein und klicken Sie auf **Importieren**.
 
    ![](assets/image2014-9-12-11-3a10-3a13.png)
 
@@ -63,15 +63,15 @@ Nachdem Sie ein E-Mail-Programm erstellt haben, möchten Sie ihm mitteilen, an w
 >
 >Haben Sie die Blockierungsnummer bemerkt? Diese Zahl ist eine Untergruppe der qualifizierten Personen und stellt Personen dar, die diese E-Mail nicht erhalten können, weil sie:
 >
->* Hat abbestellt
->* Marketing ausgesetzt
+>* Abbestellt
+>* Marketing eingestellt
 >* Auf der Sperrliste
 >* E-Mail-Adresse ungültig
 >* Leere E-Mail
 >
 >Klicken Sie auf die Nummer für eine detaillierte Liste der Personen, die von Mailings ausgeschlossen sind.
 >
->Verwenden Sie die ![—](assets/image2014-10-23-16-3a32-3a36-1.png) Schaltfläche auf der **Zielgruppe** -Kachel, um zu sehen, wie viele Personen sich für den Erhalt der E-Mail anhand von Kriterien der intelligenten Liste qualifiziert haben. Ziehen Sie die Zahl Blockiert von der Zahl Personen ab, um die Gesamtzahl der Personen zu erhalten, die die E-Mail erhalten werden.
+>Verwenden Sie die Schaltfläche ![—](assets/image2014-10-23-16-3a32-3a36-1.png) auf der Kachel **Zielgruppe** , um zu sehen, wie viele Personen sich für den Erhalt der E-Mail anhand von Kriterien mit intelligenten Listen qualifiziert haben. Ziehen Sie die Zahl Blockiert von der Zahl Personen ab, um die Gesamtzahl der Personen zu erhalten, die die E-Mail erhalten werden.
 
 >[!TIP]
 >

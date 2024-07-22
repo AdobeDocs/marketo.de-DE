@@ -23,11 +23,11 @@ Führen Sie diese kurzen Schritte aus, um ein benanntes Konto zu löschen.
    >
    >Klicken Sie bei gedrückter Strg- (Windows) bzw. Befehlstaste (Mac), um mehrere benannte Konten auszuwählen.
 
-1. Klicken Sie auf **Spezifische Kontoaktionen** und wählen Sie **Benanntes Konto löschen**.
+1. Klicken Sie auf das Dropdown-Menü **Aktionen für benannte Konten** und wählen Sie **Benanntes Konto löschen** aus.
 
    ![](assets/eight-1.png)
 
-1. Klicks **Löschen**.
+1. Klicken Sie auf **Löschen**.
 
    ![](assets/nine-1.png)
 

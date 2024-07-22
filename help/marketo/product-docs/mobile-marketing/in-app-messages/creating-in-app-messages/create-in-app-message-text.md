@@ -35,7 +35,7 @@ Klicken Sie auf den Textbereich, um Ihren Textstil und Ihren Inhalt zu bearbeite
    >
    >Eine zu große Textgröße kann Ihren Inhalt über die maximal drei sichtbaren Textzeilen verschieben.
 
-1. Wählen Sie einen optionalen Typstil zur Hervorhebung aus: **Fett**, _Kursiv_ oder Unterstrichen.
+1. Wählen Sie einen optionalen Schriftstil für die Hervorhebung aus: **Fett**, _Kursiv_ oder Unterstrichen.
 
    ![](assets/image2016-5-6-10-3a15-3a32.png)
 
@@ -67,7 +67,7 @@ Klicken Sie auf den Textbereich, um Ihren Textstil und Ihren Inhalt zu bearbeite
 
    ![](assets/image2016-5-6-10-3a29-3a2.png)
 
-1. Wählen Sie ein My Token aus der Dropdown-Liste aus, fügen Sie einen Standardwert hinzu und klicken Sie auf **Einfügen**.
+1. Wählen Sie aus der Dropdown-Liste ein My Token aus, fügen Sie einen Standardwert hinzu und klicken Sie auf **Insert**.
 
    ![](assets/mytoken.png)
 
@@ -81,9 +81,9 @@ Klicken Sie auf den Textbereich, um Ihren Textstil und Ihren Inhalt zu bearbeite
 
    Änderungen an Token, die in einem genehmigten In-App-Nachrichtenprogramm verwendet werden, werden erst dann in der In-App-Nachricht wirksam, wenn das Programm angehalten und dann wieder aufgenommen wurde.
 
-Du bist Golden. Anschließend müssen Sie [Schaltfläche für In-App-Nachrichten einrichten](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-button.md).
+Du bist Golden. Als Nächstes müssen Sie [Ihre In-App-Nachrichtenschaltfläche ](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-button.md) einrichten.
 
 >[!MORELIKETHIS]
 >
->* [In-App-Nachrichten verstehen](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->* [Auswählen eines Layouts für Ihre In-App-Nachricht](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
+>* [Grundlegendes zu In-App-Nachrichten](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+>* [Layout für Ihre In-App-Nachricht auswählen](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)

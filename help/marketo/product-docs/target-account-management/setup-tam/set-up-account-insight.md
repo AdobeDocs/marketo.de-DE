@@ -7,7 +7,7 @@ feature: Target Account Management
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '106'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -17,17 +17,17 @@ So richten Sie Account Insight ein.
 
 >[!PREREQUISITES]
 >
->TAM-Kontowert [muss konfiguriert werden](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md) zuerst.
+>Der TAM-Kontowert [muss zuerst konfiguriert werden](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md).
 
-1. Klicken **Admin**.
+1. Klicken Sie auf **Admin**.
 
    ![](assets/admin-1.png)
 
-1. Klicken **Verwaltung von Target-Konten** im Baum, dann die **Vertrieb** Registerkarte.
+1. Klicken Sie im Baum auf **Target Account Management** und dann auf die Registerkarte **Verkauf**.
 
    ![](assets/set-up-account-insight-2.png)
 
-1. Klicken **Bearbeiten**.
+1. Klicken Sie auf **Bearbeiten**.
 
    ![](assets/set-up-account-insight-3.png)
 
@@ -37,8 +37,8 @@ So richten Sie Account Insight ein.
 
    >[!NOTE]
    >
-   >Wenn die Variable [Kontobewertungseinstellungen](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md) jederzeit aktualisiert werden, muss die Konfiguration unter Verkauf von einem Administrator aktualisiert werden, um sicherzustellen, dass die Bewertungen die Voreinstellungen des Benutzers korrekt widerspiegeln. Der Benutzer muss sich ab- und wieder anmelden, um die Änderungen zu sehen.
+   >Wenn die Einstellungen für die [Kontobewertung](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md) zu einem beliebigen Zeitpunkt aktualisiert werden, muss die Konfiguration unter &quot;Verkauf&quot;von einem Administrator aktualisiert werden, um sicherzustellen, dass die Bewertungen genau den Voreinstellungen des Benutzers entsprechen. Der Benutzer muss sich ab- und wieder anmelden, um die Änderungen zu sehen.
 
-1. Klicken **Speichern**.
+1. Klicken Sie auf **Speichern**.
 
    ![](assets/five-4.png)

@@ -17,11 +17,11 @@ Nachdem Sie Ihre Lead-Anzeige erstellt haben, sollten Sie sie testen! Hier erfah
 
 >[!PREREQUISITES]
 >
->Sie müssen [Einrichten der Facebook Lead Ads-Integration](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
+>Sie müssen [die Facebook-Integration für Lead-Anzeigen einrichten](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
 
-1. Wählen Sie im Power Editor von Facebook eine Kampagne, eine Anzeige aus und klicken Sie auf **Bearbeiten**.
+1. Wählen Sie im Power Editor von Facebook eine Kampagne und eine Anzeige aus und klicken Sie auf **Bearbeiten**.
 
-1. under **Links**, klicken Sie auf die **Im Newsfeed anzeigen** Link.
+1. Klicken Sie unter **Links** auf den Link **Im News-Feed anzeigen** .
 
    ![](assets/image2016-5-13-14-3a35-3a36.png)
 
@@ -33,7 +33,7 @@ Nachdem Sie Ihre Lead-Anzeige erstellt haben, sollten Sie sie testen! Hier erfah
    >
    >Dies ist nur ein Beispiel, das einen &quot;Weitere Informationen&quot;-Aktionsaufruf verwendet. Ihr Aktionsaufruf für Lead-Anzeigeneinheiten kann anders ausfallen.
 
-1. Senden Sie Ihre Test-Lead-Anzeigeneinheit, indem Sie das Formular auf Ihrem Desktop ausfüllen. Klicken **Einsenden**.
+1. Senden Sie Ihre Test-Lead-Anzeigeneinheit, indem Sie das Formular auf Ihrem Desktop ausfüllen. Klicken Sie auf **Senden**.
 
    ![](assets/image2016-5-13-14-3a47-3a43.png)
 
@@ -41,11 +41,11 @@ Nachdem Sie Ihre Lead-Anzeige erstellt haben, sollten Sie sie testen! Hier erfah
 
    ![](assets/image2016-5-13-14-3a52-3a57.png)
 
-1. Hier geschieht die Magie! Sobald Sie Ihr Formular übermittelt haben, [Erstellen einer Smart-Liste in Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) als Teil eines Programms oder der Datenbank, die den Filter Facebook-Lead-Anzeigenformular ausfüllen verwendet. Fügen Sie den Namen des Lead-Anzeigenformulars des soeben gesendeten Formulars ein.
+1. Hier geschieht die Magie! Nachdem Sie Ihr Formular gesendet haben, erstellen Sie [eine Smart-Liste in Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) als Teil eines Programms oder in der Datenbank, die den Filter &quot;Ausgefülltes Facebook-Lead-Anzeigenformular&quot;verwendet. Fügen Sie den Namen des Lead-Anzeigenformulars des soeben gesendeten Formulars ein.
 
    ![](assets/image2016-3-11-8-3a59-3a34-1.png)
 
-1. Klicken Sie nun auf **Personen** , um zu überprüfen, ob die Synchronisierung ordnungsgemäß funktioniert.
+1. Klicken Sie nun auf die Registerkarte **Personen** , um zu überprüfen, ob die Synchronisierung ordnungsgemäß funktioniert.
 
    ![](assets/people.png)
 

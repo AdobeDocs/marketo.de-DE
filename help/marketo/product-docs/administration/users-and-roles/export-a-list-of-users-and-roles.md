@@ -19,11 +19,11 @@ ht-degree: 0%
 
 Es ist ziemlich einfach, eine vollständige Liste Ihrer Benutzer und Benutzerrollen zu exportieren. So geht es.
 
-1. Navigieren Sie zu **[!UICONTROL Admin]**.
+1. Wechseln Sie zu **[!UICONTROL Admin]**.
 
    ![](assets/export-a-list-of-users-and-roles-1.png)
 
-1. Klicks **[!UICONTROL Benutzer und Rollen]**.
+1. Klicken Sie auf **[!UICONTROL Benutzer und Rollen]**.
 
    ![](assets/export-a-list-of-users-and-roles-2.png)
 
@@ -31,11 +31,11 @@ Es ist ziemlich einfach, eine vollständige Liste Ihrer Benutzer und Benutzerrol
 
    >[!TIP]
    >
-   >Um Rollen zu exportieren, navigieren Sie zu **[!UICONTROL Rollen]** zuerst und dann exportieren.
+   >Um Rollen zu exportieren, gehen Sie zuerst zur Registerkarte **[!UICONTROL Rollen]** und exportieren Sie dann.
 
    ![](assets/export-a-list-of-users-and-roles-3.png)
 
-1. Klicken Sie auf **[!UICONTROL Export]** Symbol.
+1. Klicken Sie auf das Symbol **[!UICONTROL Exportieren]**.
 
    ![](assets/export-a-list-of-users-and-roles-4.png)
 

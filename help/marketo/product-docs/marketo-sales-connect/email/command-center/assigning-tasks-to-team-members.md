@@ -19,11 +19,11 @@ Wenn Sie mit anderen Team-Mitgliedern zusammenarbeiten möchten, kann die Zuweis
 >
 >Sie können nur Aufgaben für freigegebene Kontakte zuweisen.
 
-1. Klicken Sie auf **Command Center**.
+1. Klicken Sie auf das **Befehlszentrum**.
 
    ![](assets/one-1.png)
 
-1. Klicks **Aufgabe hinzufügen**.
+1. Klicken Sie auf **Aufgabe hinzufügen**.
 
    ![](assets/two-1.png)
 

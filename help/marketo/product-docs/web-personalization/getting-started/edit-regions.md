@@ -19,7 +19,7 @@ Möchten Sie die regionalen Benutzereinstellungen ändern, damit nur Daten für 
 
    ![](assets/image2014-12-1-23-3a8-3a40.png)
 
-1. Klicks **Regionen bearbeiten**.
+1. Klicken Sie auf **Regionen bearbeiten**.
 
    ![](assets/image2014-12-3-18-3a55-3a25.png)
 

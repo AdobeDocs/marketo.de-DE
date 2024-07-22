@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Wenn Sie eine Social-App erstellen, können Sie festlegen, welche URL in den Beiträgen der Teilnehmer freigegeben wird.
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Wechseln Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -23,7 +23,7 @@ Wenn Sie eine Social-App erstellen, können Sie festlegen, welche URL in den Bei
 
    ![](assets/image2015-4-21-11-3a12-3a12.png)
 
-1. Navigieren Sie im Social-App-Editor zu **App-Einstellungen** und dann **Erweiterte Optionen**.
+1. Wechseln Sie im Social-App-Editor zu **App-Einstellungen** und dann zu **Erweiterte Optionen**.
 
    ![](assets/image2015-4-21-11-3a14-3a46.png)
 
@@ -38,9 +38,9 @@ Wenn Sie eine Social-App erstellen, können Sie festlegen, welche URL in den Bei
    >Beiträge freigeben kann mit drei Stellen verknüpft werden:
    >
    >* **Verweisende Seite**: Die Seite, die die App enthält.
-   >* **Andere Landingpage**: Eine andere Marketo-Landingpage als die in der Dropdown-Liste.
+   >* **Sonstige Landingpage**: Eine andere Marketo-Landingpage als die in der Dropdown-Liste.
    >* **Externe URL**: Eine Landingpage ohne Marketo.
 
 >[!MORELIKETHIS]
 >
->[Hinzufügen Ihrer Datenschutzrichtlinie zu einer Social App](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md)
+>[Hinzufügen Ihrer Datenschutzrichtlinie zu einer Social-Anwendung](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md)

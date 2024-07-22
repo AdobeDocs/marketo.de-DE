@@ -6,7 +6,7 @@ exl-id: e648a788-50da-495b-b195-f287bcbaeecb
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
@@ -21,13 +21,13 @@ Alle standardmäßigen Marketo-Dimensionen sind enthalten, Sie können jedoch bi
 
 >[!CAUTION]
 >
->Benutzerdefinierte Dimensionen **cannot** gelöscht oder ersetzt werden. Wählen Sie daher Ihre 10 sorgfältig aus.
+>Benutzerdefinierte Dimensionen **können nicht** gelöscht oder ersetzt werden. Wählen Sie daher Ihre 10 sorgfältig aus.
 
 1. Klicken Sie in Email Insights auf das Zahnradsymbol oben rechts auf der Seite.
 
    ![](assets/cd1.png)
 
-1. Klicken **System**.
+1. Klicken Sie auf **System**.
 
    ![](assets/cd2.png)
 

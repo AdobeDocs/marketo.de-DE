@@ -7,7 +7,7 @@ feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '224'
-ht-degree: 4%
+ht-degree: 1%
 
 ---
 
@@ -15,23 +15,23 @@ ht-degree: 4%
 
 ## Erfolgspfad {#success-path}
 
-Im Modell wird der grüne Pfad als **Erfolgspfad** ist der optimale Pfad dafür, wie ein Lead linear zu einem geschlossenen/erfolgreichen Unternehmen wechselt.
+Im Modell ist der grüne Pfad, auch **Erfolgspfad** genannt, der optimale Pfad dafür, wie ein Lead linear zu einem geschlossenen/erfolgreichen Unternehmen wechselt.
 
-![--](assets/image2015-6-12-17-3a12-3a18.png)
+![—](assets/image2015-6-12-17-3a12-3a18.png)
 
 Beispielschritte für einen Erfolgspfad:
 
-| **NAMEN DER ERFOLGSPFAD** | **DEFINITION** |
+| **NAMEN DER ERFOLGSPFADSTAGUNG** | **DEFINITION** |
 |---|---|
 | **Neue Namen überprüfen** | Überprüfen Sie, ob neue Namen qualifiziert sind. |
-| **Potenzieller Kunde** | Qualifizierte Interessenten, die noch nicht verkaufsbereit sind |
+| **prospect** | Qualifizierte Interessenten, die noch nicht verkaufsbereit sind |
 | **Lead** | Marketing-qualifizierte Leads (&quot;sales ready&quot;) |
 | **Opportunity** | Vom Vertrieb akzeptierte Leads, aktiv arbeiten |
 | **Kunde** | Geschlossene Sonderangebote |
 
 >[!TIP]
 >
->Grün ist für Geld. Alles auf dem Weg des Grünen ist auf dem Weg zum Erfolg! Deshalb sind nur grüne Pfeile in der [Erfolgspfad-Analyzer](using-the-success-path-analyzer.md).
+>Grün ist für Geld. Alles auf dem Weg des Grünen ist auf dem Weg zum Erfolg! Aus diesem Grund gibt es nur grüne Pfeile im [Erfolgspfad-Analyzer](using-the-success-path-analyzer.md).
 
 ## Umwege {#detours}
 
@@ -39,10 +39,10 @@ Da nicht alle Leads einem linearen &quot;Erfolgspfad&quot;folgen, sollten Sie au
 
 | **DETOUR STAGE NAME** | **DEFINITION** |
 |---|---|
-| **Disqualifiziert** | Namen, die als nicht in Profil markiert sind |
-| **Inaktiv** | Perspektiven, die nicht reagiert haben |
-| **Recycelt** | Qualifiziert, aber benötigt mehr Pflege (in Verbindung mit der Perspektive) |
-| **Verloren** | Verlorene Chancen (fortlaufende Pflege) |
+| **disqualifiziert** | Namen, die als nicht in Profil markiert sind |
+| **inactive** | Perspektiven, die nicht reagiert haben |
+| **Recycled** | Qualifiziert, aber benötigt mehr Pflege (in Verbindung mit der Perspektive) |
+| **Lost** | Verlorene Chancen (fortlaufende Pflege) |
 
 >[!TIP]
 >

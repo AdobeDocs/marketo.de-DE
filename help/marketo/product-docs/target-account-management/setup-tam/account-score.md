@@ -6,8 +6,8 @@ exl-id: 68fb5f41-f715-4a4d-b4da-9db4dc38d67d
 feature: Target Account Management
 source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '356'
-ht-degree: 1%
+source-wordcount: '355'
+ht-degree: 3%
 
 ---
 
@@ -44,7 +44,7 @@ In der komplexen Welt von B2B-Kaufprozessen ist es selten, dass eine Einzelperso
 
 >[!NOTE]
 >
->Um Kontobewertungen zu berechnen, müssen Sie zunächst Lead-Bewertungen erstellen. Marketo TAM aggregiert automatisch Lead-Bewertungen zu Kontobewertungen. Als Beispiel nehmen wir zwei der oben genannten Beispiele (_Bewertung der Kundenproduktinteressen_ und _Bewertung der Web-Interaktion des Kontos_).
+>Um Kontobewertungen zu berechnen, müssen Sie zunächst Lead-Bewertungen erstellen. Marketo TAM aggregiert automatisch Lead-Bewertungen zu Kontobewertungen. Als Beispiel nehmen wir zwei der oben genannten Beispiele (_Account Product Interest Score_ und _Account Web Engagement Score_).
 >
 >Erstellen Sie zunächst Lead-Punktfelder, die relevante Details aus jedem Lead eines Zielkontos erfassen.\
 >Weisen Sie dann diese Lead-Bewertungen ihren jeweiligen Kontobewertungen zu:\
@@ -57,11 +57,11 @@ In der komplexen Welt von B2B-Kaufprozessen ist es selten, dass eine Einzelperso
 
 Nachdem Sie die Lead-Punktzahl konfiguriert haben, fahren Sie mit den folgenden Schritten fort.
 
-1. Klicks **Admin**.
+1. Klicken Sie auf **Admin**.
 
    ![](assets/account-score-1.png)
 
-1. Klicks **Verwaltung von Target-Konten**.
+1. Klicken Sie auf **Target Account Management**.
 
    ![](assets/account-score-2.png)
 
@@ -71,16 +71,16 @@ Nachdem Sie die Lead-Punktzahl konfiguriert haben, fahren Sie mit den folgenden 
 
    >[!NOTE]
    >
-   >Sie können bis zu **fünf** -Felder zur Berechnung der Kontobewertung.
+   >Sie können bis zu **5** Felder auswählen, um die Kontobewertung zu berechnen.
 
-1. Geben Sie den Namen der Kontobewertung ein und klicken Sie auf **Personenbewertung auswählen** und wählen Sie den entsprechenden Wert aus.
+1. Geben Sie den Namen der Kontobewertung ein, klicken Sie auf das Dropdown-Menü **Personenbewertung auswählen** und wählen Sie die entsprechende Punktzahl aus.
 
    ![](assets/account-score-4.png)
 
-1. Klicks **+Hinzufügen** , um weitere Bewertungen hinzuzufügen.
+1. Klicken Sie auf **+Hinzufügen** , um weitere Bewertungen hinzuzufügen.
 
    ![](assets/account-score-5.png)
 
-1. Fügen Sie alle gewünschten Bewertungen hinzu. Klicks **Speichern** wann geschehen.
+1. Fügen Sie alle gewünschten Bewertungen hinzu. Klicken Sie auf **Speichern**, wenn Sie fertig sind.
 
    ![](assets/account-score-6.png)

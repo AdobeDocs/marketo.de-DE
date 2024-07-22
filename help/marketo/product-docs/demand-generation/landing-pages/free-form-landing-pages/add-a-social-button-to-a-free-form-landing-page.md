@@ -19,40 +19,40 @@ ht-degree: 0%
 >
 >Nicht alle Marketo Engage-Benutzer haben diese Funktion erworben. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).
 
-1. Navigieren Sie zu Ihrer Landingpage ohne Konfiguration und klicken Sie auf **Entwurf bearbeiten**.
+1. Navigieren Sie zu Ihrer Freiform-Landingpage und klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/scoring.jpg)
 
-1. Verschieben **Social-Schaltfläche** aus den Elementen auf der rechten Seite.
+1. Ziehen Sie über **Social-Schaltfläche** von den Elementen auf der rechten Seite.
 
    ![](assets/image2015-5-21-15-3a47-3a46.png)
 
-1. Auswählen **Social-Schaltflächen (mit Analytics)**.
+1. Wählen Sie **Social-Schaltflächen (mit Analytics)** aus.
 
    ![](assets/image2014-9-17-10-3a35-3a13.png)
 
-   Sobald Ihre Landingpage aktiv ist, sehen Sie sich die von Ihrer Social-Schaltfläche (mit Analytics) generierte Aktivität auf der Seite [Social Dashboard](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md).
+   Sobald Ihre Landingpage aktiv ist, sehen Sie sich die von Ihrer Social-Schaltfläche (mit Analytics) generierte Aktivität im [Social Dashboard](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md) an.
 
-   Wenn Sie stattdessen eine &quot;Gefällt mir&quot;-/&quot;Empfehlen&quot;-Schaltfläche (Lite) hinzufügen, sehen Sie sich die Anzahl der &quot;Teilen&quot;-Klicks im [Landingpage-Leistungsbericht](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md).
+   Wenn Sie stattdessen eine &quot;Gefällt mir&quot;-/Empfehlungs-Schaltfläche (Lite) hinzufügen, sehen Sie sich die Anzahl der &quot;Teilen&quot;-Klicks im [Leistungsbericht für die Landingpage](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md) an.
 
-1. Auswählen **Neu erstellen** aus dem Dropdown-Menü.
+1. Wählen Sie **Neu erstellen** aus dem Dropdown-Menü.
 
    >[!NOTE]
    >
-   >Sie können auch innerhalb eines Programms eine Social-Schaltfläche erstellen, indem Sie **Neu** > **Neues lokales Asset**.
+   >Sie können auch eine Social-Schaltfläche innerhalb eines Programms erstellen, indem Sie **Neu** > **Neues lokales Asset** auswählen.
 
-1. Benennen Sie Ihre Social-Schaltfläche, wählen Sie **Keines** von **Klonen von** und klicken Sie auf **Einfügen**.
+1. Benennen Sie Ihre Social-Schaltfläche, wählen Sie &quot;**None**&quot;aus &quot;**Klonen von&quot;**&quot;und klicken Sie auf &quot;**Einfügen**&quot;.
 
    ![](assets/image2014-9-17-10-3a35-3a26.png)
 
    >[!TIP]
    >
-   >Um Zeit zu sparen, können Sie die **Klonen von** -Option, um alle Einstellungen von einer vorhandenen Social-Schaltfläche zu kopieren.
+   >Um Zeit zu sparen, können Sie die Option **Von** klonen verwenden, um alle Einstellungen aus einer vorhandenen Social-Schaltfläche zu kopieren.
 
-   [Landingpage in Facebook veröffentlichen](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) [Platzieren Sie die Social-Schaltfläche auf Ihrer Website.](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
+   [Veröffentlichen der Landingpage in Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) [Platzieren Sie die Social-Schaltfläche auf Ihrer Website](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
 
 Herzlichen Glückwunsch! Sie haben Ihrer Landingpage eine Social -Schaltfläche hinzugefügt. Achten Sie darauf, die Landingpage zu validieren.
 
 >[!MORELIKETHIS]
 >
->Sie sind fertig, aber Sie können bei Bedarf die Einstellungen Ihrer Social-Schaltfläche ändern. Beginnen mit [Anpassen des Schaltflächenstils](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md) oder  [Bearbeiten von Nachrichten freigeben](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md) es zeigt.
+>Sie sind fertig, aber Sie können bei Bedarf die Einstellungen Ihrer Social-Schaltfläche ändern. Beginnen Sie mit [Anpassen des Schaltflächenstils](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md) oder [Bearbeiten der angezeigten Freigabemeldungen](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md).

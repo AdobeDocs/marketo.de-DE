@@ -17,13 +17,13 @@ So erstellen Sie ein Segment mit Werten für bekannte Personen.
 
 >[!PREREQUISITES]
 >
->[Personendaten verwalten](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md)
+>[Verwalten von Personendaten](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md)
 
 1. Navigieren Sie zu **Segmente**.
 
    ![](assets/new-dropdown-segments-hand-2.jpg)
 
-1. Klicken **Neu erstellen**.
+1. Klicken Sie auf **Neu erstellen**.
 
    ![](assets/image2015-8-28-13-3a19-3a59.png)
 
@@ -31,7 +31,7 @@ So erstellen Sie ein Segment mit Werten für bekannte Personen.
 
    ![](assets/image2015-8-28-13-3a2-3a59.png)
 
-1. Ziehen Sie in der Profilsegmentierung **Datenbank** über die Arbeitsfläche.
+1. Ziehen Sie in der Profilsegmentierung **Datenbank** auf die Arbeitsfläche.
 
    ![](assets/four-1.png)
 
@@ -49,7 +49,7 @@ So erstellen Sie ein Segment mit Werten für bekannte Personen.
 
 ## Auswählen von Datenfeldern für mehrere Personen {#selecting-multiple-person-data-fields}
 
-1. Klicken **+** , um ein weiteres Personendatenfeld hinzuzufügen.
+1. Klicken Sie auf **+** , um ein weiteres Personendatenfeld hinzuzufügen.
 
    ![](assets/eight.png)
 
@@ -57,7 +57,7 @@ So erstellen Sie ein Segment mit Werten für bekannte Personen.
 
    ![](assets/nine.png)
 
-1. Klicken **Speichern** , um das Segment zu speichern, oder **Kampagne speichern und definieren** , um zu speichern, und rufen Sie die Seite Kampagnen auf.
+1. Klicken Sie auf **Speichern** , um das Segment zu speichern, oder auf **Speichern und Definieren der Kampagne** , um zu speichern und zur Seite &quot;Kampagnen&quot;zu wechseln.
 
    ![](assets/image2014-11-19-19-3a48-3a20-1.png)
 

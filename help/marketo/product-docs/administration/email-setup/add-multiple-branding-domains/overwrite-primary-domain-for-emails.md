@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Sie können die primäre Markendomäne pro E-Mail überschreiben. Dies ändert die Art und Weise, wie Links beim Versand der E-Mail gekennzeichnet werden.
 
-1. Navigieren Sie zu **[!UICONTROL Marketingaktivitäten]**.
+1. Wechseln Sie zu **[!UICONTROL Marketingaktivitäten]**.
 
    ![](assets/overwrite-primary-domain-for-emails-1.png)
 
-1. E-Mail auswählen und auf **[!UICONTROL Entwurf bearbeiten]**.
+1. Wählen Sie eine E-Mail aus und klicken Sie auf **[!UICONTROL Entwurf bearbeiten]**.
 
    ![](assets/overwrite-primary-domain-for-emails-2.png)
 
@@ -29,4 +29,4 @@ Sie können die primäre Markendomäne pro E-Mail überschreiben. Dies ändert d
 
    >[!NOTE]
    >
-   >Nicht alle Benutzer sind berechtigt, die Markendomäne pro E-Mail festzulegen. Wenden Sie sich an Ihren Administrator, wenn die Variable [!UICONTROL Markendomänen] angezeigt.
+   >Nicht alle Benutzer sind berechtigt, die Markendomäne pro E-Mail festzulegen. Wenden Sie sich an Ihren Administrator, wenn die Dropdown-Liste [!UICONTROL Markendomänen] nicht angezeigt wird.

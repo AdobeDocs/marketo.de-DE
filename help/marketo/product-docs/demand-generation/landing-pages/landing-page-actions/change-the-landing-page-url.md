@@ -19,14 +19,14 @@ Sie können die URL einer Landingpage ändern. Dies kann dazu beitragen, die URL
 
    ![](assets/change-the-landing-page-url-1.png)
 
-1. Klicken Sie auf **Landingpage-Aktionen** Dropdown, scrollen Sie zu **URL-Tools** und wählen **URL-Einstellungen**.
+1. Klicken Sie auf das Dropdown-Menü **Landingpage-Aktionen**, blättern Sie zu **URL-Tools** und wählen Sie **URL-Einstellungen** aus.
 
    ![](assets/change-the-landing-page-url-2.png)
 
-1. Geben Sie die **Neue URL**, wählen Sie aus, dass die alte URL verworfen oder umgeleitet werden soll, und klicken Sie auf **Speichern**.
+1. Geben Sie die **neue URL** ein, wählen Sie aus, dass die alte URL verworfen oder umgeleitet wird, und klicken Sie auf **Speichern**.
 
    ![](assets/change-the-landing-page-url-3.png)
 
    >[!NOTE]
    >
-   >Wenn Sie beide URLs beibehalten möchten, wird automatisch eine Umleitungsregel erstellt. Weitere Informationen [URL-Umleitungen](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/redirect-a-url-path.md).
+   >Wenn Sie beide URLs beibehalten möchten, wird automatisch eine Umleitungsregel erstellt. Erfahren Sie mehr über [URL-Umleitungen](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/redirect-a-url-path.md).

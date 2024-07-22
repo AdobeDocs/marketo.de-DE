@@ -2,11 +2,11 @@
 description: EV-JJJJ-MM-TT-Event-Programm - Marketo Docs - Produktdokumentation
 title: EV-JJJJ-MM-TT-Veranstaltungsprogramm
 feature: Programs
-exl-id: 3688317f-228c-4fc2-accd-3e1d541525d2
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 999a82ae-6637-40bf-96c0-62183cb0a197
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '559'
-ht-degree: 21%
+source-wordcount: '561'
+ht-degree: 16%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 21%
 
 Dies ist ein Beispiel für ein Veranstaltungsprogramm mit einer Registrierungsseite, drei Einladungs-E-Mails und Follow-up-E-Mails, die ein Marketo Engage Event Program verwenden. Geeignet für alle Veranstaltungen, bei denen Sie sich registrieren lassen müssen, einschließlich Roadshows, Mittagessen, Abendessen oder Präsentationen bei Messen.
 
-Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalten Sie vom Adobe-Account-Team oder unter [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} Seite.
+Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Programms an das Adobe-Account-Team oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} .
 
 ## Kanal-Zusammenfassung {#channel-summary}
 
@@ -23,7 +23,7 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
   <tr> 
    <th>Kanal</th> 
    <th>Status der Mitgliedschaft</th>
-   <th>Analyseverhalten</th>
+   <th>Analytics Behavior</th>
    <th>Programmtyp</th>
   </tr> 
   <tr> 
@@ -31,15 +31,15 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
    <td>01 - Eingeladen 
 <br/>02-Waitlisted
 <br/>03-Registered
-<br/>04-Keine Sendung
-<br/>05-Teilnehmer-Erfolg</td>
-   <td>Inklusiv</td>
+<br/>04-No Show
+<br/>05-Bewerbeter-Erfolg</td>
+   <td>Einschließlich</td>
    <td>Veranstaltung</td>
   </tr>
  </tbody> 
 </table>
 
-## Das Programm enthält die folgenden Assets {#program-contains-the-following-assets}
+## Das Programm enthält die folgende Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -84,12 +84,12 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
    <td>04b - E-Mail - Follow-up - NoShow</td>
   </tr>
   <tr> 
-   <td>Landing Page</td> 
+   <td>Landingpage</td> 
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Schnellstart-LP-Vorlage</a></td>
    <td>01a - LP - Registrierung</td>
   </tr>
   <tr> 
-   <td>Landing Page</td> 
+   <td>Landingpage</td> 
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Schnellstart-LP-Vorlage</a></td>
    <td>01b - LP - Vielen Dank</td>
   </tr>
@@ -169,7 +169,7 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
 
 ![](assets/ev-yyyy-mm-dd-event-program-1.png)
 
-## Meine Token Enthalten {#my-tokens-included}
+## My Tokens Include {#my-tokens-included}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -209,7 +209,7 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
    <td>Doppelklicken für Details  
 <br/><code><--My Content Description Here--></code> 
 <br/>Bearbeiten Sie diese Inhaltsbeschreibung auf Programmebene auf der Registerkarte My Tokens . 
-<br/>Sie werden Folgendes erfahren: 
+<br/>Sie werden Folgendes lernen: 
 <li>Aufzählungszeichen 1</li>
 <li>Aufzählungszeichen 2</li>
 <li>Aufzählungszeichen 3</li></td>
@@ -303,13 +303,13 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
    * Erstellen von Tags in diesem Abonnement - _Empfohlen_
    * Ignorieren
 
-* **Landingpage-Vorlage mit demselben Namen**
+* **Vorlage für Einstiegsseiten mit demselben Namen**
    * Originalvorlage kopieren
-   * Zielvorlage verwenden - _Empfohlen_
+   * Verwenden Sie die Zielvorlage - _Empfohlen_
 
 * **Bilder mit demselben Namen**
    * Beide Dateien beibehalten
-   * Element in diesem Abonnement ersetzen - _Empfohlen_
+   * Ersetzen des Elements in diesem Abonnement - _Empfohlen_
 
 * **E-Mail-Vorlagen mit demselben Namen**
    * Beide Vorlagen beibehalten
@@ -330,7 +330,7 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
 
 >[!TIP]
 >
->Vergessen Sie nicht, die Kampagne &quot;06-Teilnehmer (Programmerfolg)&quot; zu aktivieren, um den Erfolg zu verfolgen! Verwenden Sie dies _before_ Ihr Formular ist live und E-Mails werden gesendet.
+>Vergessen Sie nicht, die Kampagne &quot;06-Teilnehmer (Programmerfolg)&quot; zu aktivieren, um den Erfolg zu verfolgen! Führen Sie diesen Schritt _vor_ aus, wenn Ihr Formular live ist und E-Mails gesendet werden.
 
 >[!IMPORTANT]
 >

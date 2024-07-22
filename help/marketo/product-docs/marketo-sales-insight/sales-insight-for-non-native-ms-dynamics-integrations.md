@@ -16,11 +16,11 @@ Wenn Ihr Adobe Marketo Engage-Konto über eine benutzerdefinierte oder nicht nat
 
 >[!PREREQUISITES]
 >
->* Die Funktion &quot;MSI Non-Native&quot;für Ihre Marketo-Instanz aktiviert, bevor Sie mit der Einrichtung von MSI beginnen. Wenn dies nicht der Fall ist und Sie die Funktion bereits erworben haben, wenden Sie sich an [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. Wenn Sie diese Funktion noch nicht erworben haben, wenden Sie sich an das Adobe Account Team (Ihren Kundenbetreuer).
->* Herunterladen [MSI-Paket für benutzerdefinierte Synchronisierung](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
->* Ein MS Dynamics-Abonnement mit MSI-Einrichtung (wir unterstützen nur [Dynamics Online](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online.md){target="_blank"} zu diesem Zeitpunkt).
->* MARKETO REST API [erfolgreich eingerichtet wurde](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}. Die offen gelegten CRUD-APIs bilden die Grundlage für die Durchführung der nicht nativen Synchronisierung.
->* Lesen [Dieser Blogpost](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/){target="_blank"} um ein Verständnis des Objekts und der Beziehungen zu erhalten.
+>* Die Funktion &quot;MSI Non-Native&quot;für Ihre Marketo-Instanz aktiviert, bevor Sie mit der Einrichtung von MSI beginnen. Wenn dies nicht der Fall ist und Sie die Funktion bereits erworben haben, wenden Sie sich an den [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. Wenn Sie diese Funktion noch nicht erworben haben, wenden Sie sich an das Adobe Account Team (Ihren Kundenbetreuer).
+>* Laden Sie das MSI-Paket [für die benutzerdefinierte Synchronisierung](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"} herunter.
+>* Ein MS Dynamics-Abonnement mit MSI-Einrichtung (derzeit wird nur [Dynamics Online](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online.md){target="_blank"} unterstützt).
+>* Marketo REST API [ wurde erfolgreich eingerichtet ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}. Die offen gelegten CRUD-APIs bilden die Grundlage für die Durchführung der nicht nativen Synchronisierung.
+>* Lesen Sie [diesen Blogpost](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/){target="_blank"} , um ein Verständnis des Objekts und der Beziehungen zu erhalten.
 
 ## Für eine erfolgreiche nicht native Synchronisierung für MSI ist Folgendes erforderlich: {#successful-non-native-sync-for-msi-requires-the-following}
 
@@ -49,11 +49,11 @@ Wenn Ihr Adobe Marketo Engage-Konto über eine benutzerdefinierte oder nicht nat
    </table>
 
    * [API-Dokumentation für Vertriebsmitarbeiter](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/sales-persons){target="_blank"}
-   * [API-Dokumentation für die Synchronisierung des Vertriebsmitarbeiters](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Sales-Persons/operation/syncSalesPersonsUsingPOST){target="_blank"}
+   * [API-Dokumentation zum Synchronisieren des Vertriebsmitarbeiters](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Sales-Persons/operation/syncSalesPersonsUsingPOST){target="_blank"}
 
 1. Synchronisieren Sie die MS Dynamics-Konten mit Marketo.
 
-   Ein Marketo-Unternehmen muss für das MS Dynamics-Konto aktualisiert werden. Die _externalCompanyId_ und _externalSalesPersonId_ -Felder sind für die Aktualisierung des Unternehmens erforderlich.
+   Ein Marketo-Unternehmen muss für das MS Dynamics-Konto aktualisiert werden. Die Felder _externalCompanyId_ und _externalSalesPersonId_ sind für die Aktualisierung des Unternehmens erforderlich.
 
    <table> 
     <colgroup> 
@@ -75,7 +75,7 @@ Wenn Ihr Adobe Marketo Engage-Konto über eine benutzerdefinierte oder nicht nat
      <tr> 
       <td>externalSalesPersonId</td> 
       <td>Bei MS Dynamics Sales-Benutzern wird nicht zwischen Groß- und Kleinschreibung unterschieden.</td> 
-      <td>Identifiziert einen Marketo-Firmendatensatz für ein externes MS Dynamics Sales User-Objekt, das der Kontoinhaber ist.<br><br>Wird auch innerhalb von Marketo verwendet, um das Unternehmen mit der Vertriebsperson zu verknüpfen, der der Datensatz "Unternehmen"gehört. Es ist erforderlich, dass die Vertriebsperson zuerst synchronisiert wird, bevor dieses Feld festgelegt wird.</td> 
+      <td>Identifiziert einen Marketo-Firmendatensatz für ein externes MS Dynamics Sales User-Objekt, das der Kontoinhaber ist.<br><br>Wird auch innerhalb von Marketo verwendet, um das Unternehmen mit der Vertriebsperson zu verknüpfen, der der Firmendatensatz gehört. Es ist erforderlich, dass die Vertriebsperson zuerst synchronisiert wird, bevor dieses Feld festgelegt wird.</td> 
      </tr> 
     </tbody> 
    </table>
@@ -85,7 +85,7 @@ Wenn Ihr Adobe Marketo Engage-Konto über eine benutzerdefinierte oder nicht nat
 
 1. Synchronisieren Sie die MS Dynamics-Leads/Kontakte mit Marketo.
 
-   Sie müssen einen Marketo Lead für den MS Dynamics Lead/Kontakt aktualisieren. Die _externalPersonId_, _externalSalesPersonId_, und _externalCompanyId_ -Felder sind für die Aktualisierung des Leads erforderlich.
+   Sie müssen einen Marketo Lead für den MS Dynamics Lead/Kontakt aktualisieren. Die Felder _externalPersonId_, _externalSalesPersonId_ und _externalCompanyId_ sind für die Aktualisierung des Leads erforderlich.
 
    <table> 
     <colgroup> 
@@ -107,7 +107,7 @@ Wenn Ihr Adobe Marketo Engage-Konto über eine benutzerdefinierte oder nicht nat
      <tr> 
       <td>externalSalesPersonId</td> 
       <td>Bei MS Dynamics Sales-Benutzern wird nicht zwischen Groß- und Kleinschreibung unterschieden.</td> 
-      <td>Identifiziert das externe MS Dynamics Sales User-Objekt, dem dieser Lead/Kontakt gehört.<br><br>Bezieht auch den Lead mit der Vertriebsmitarbeiterin in Marketo zusammen. Es ist erforderlich, dass die Vertriebsperson zuerst richtig synchronisiert wird.</td> 
+      <td>Identifiziert das externe MS Dynamics Sales User-Objekt, dem dieser Lead/Kontakt gehört.<br><br>Bezieht den Lead auch mit der Vertriebsperson in Marketo zusammen. Es ist erforderlich, dass die Vertriebsperson zuerst richtig synchronisiert wird.</td> 
      </tr> 
      <tr> 
       <td>externalCompanyId</td> 
@@ -118,11 +118,11 @@ Wenn Ihr Adobe Marketo Engage-Konto über eine benutzerdefinierte oder nicht nat
    </table>
 
    * API-Dokumentation für Leads: [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database){target="_blank"}
-   * API-Dokumentation für die Synchronisierung von Leads: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST){target="_blank"}
+   * API-Dokumentation zum Synchronisieren von Leads: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST){target="_blank"}
 
 1. Synchronisieren von MS Dynamics-Chancen mit Marketo.
 
-   Sie müssen eine Marketo-Chance für die MS Dynamics-Chancen unterstützen. Die _externalOpportunityId_, _externalCompanyId_, und _externalSalesPersonId_ -Felder sind für die Aktualisierung der Option erforderlich.
+   Sie müssen eine Marketo-Chance für die MS Dynamics-Chancen unterstützen. Die Felder _externalOpportunityId_, _externalCompanyId_ und _externalSalesPersonId_ werden für die Aktualisierung der Chancen benötigt.
 
    <table> 
     <colgroup> 
@@ -144,7 +144,7 @@ Wenn Ihr Adobe Marketo Engage-Konto über eine benutzerdefinierte oder nicht nat
      <tr> 
       <td>externalCompanyId</td> 
       <td>Bei MS Dynamics-Konten wird nicht zwischen Groß- und Kleinschreibung unterschieden - globale eindeutige Kennung</td> 
-      <td>Identifiziert das externe MS Dynamics-Kontoobjekt, zu dem diese Gelegenheit gehört. <br><br>Es ist erforderlich, dass das MS Dynamics-Konto zuerst richtig synchronisiert wird.</td> 
+      <td>Identifiziert das externe MS Dynamics-Kontoobjekt, zu dem diese Gelegenheit gehört. <br><br>Es ist obligatorisch, dass das MS Dynamics-Konto zuerst richtig synchronisiert wird.</td> 
      </tr> 
      <tr> 
       <td>externalSalesPersonId</td> 
@@ -154,12 +154,12 @@ Wenn Ihr Adobe Marketo Engage-Konto über eine benutzerdefinierte oder nicht nat
     </tbody> 
    </table>
 
-   * API-Dokumentation für Chancen: [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
+   * API-Dokumentation für Opportunity: [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
    * API-Dokumentation für Synchronisierungsmöglichkeiten: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST){target="_blank"}
 
 1. Synchronisieren von MS Dynamics-Kontaktrollen mit Marketo.
 
-   MS Dynamics-Kontaktrollen für eine MS Dynamics-Chance können dann über die Marketo Opportunity-Rolle synchronisiert werden. Der Datensatz &quot;Opportunity Role&quot;weist die _externalOpportunityId_, _Rolle_, und _leadId_ -Felder.
+   MS Dynamics-Kontaktrollen für eine MS Dynamics-Chance können dann über die Marketo Opportunity-Rolle synchronisiert werden. Der Datensatz &quot;Opportunity Role&quot;erfordert die Felder _externalOpportunityId_, _role_ und _leadId_.
 
    <table> 
     <colgroup> 
@@ -176,12 +176,12 @@ Wenn Ihr Adobe Marketo Engage-Konto über eine benutzerdefinierte oder nicht nat
      <tr> 
       <td>externalOpportunityId</td> 
       <td>Bei MS Dynamics Opportunity wird die Groß-/Kleinschreibung nicht berücksichtigt, global eindeutige Kennung</td> 
-      <td>Identifiziert die Marketo Opportunity-Rolle für ein externes MS Dynamics Opportunity-Objekt.<br><br>Es wird angewiesen, die MS Dynamics-Chancen zuerst richtig zu synchronisieren.</td> 
+      <td>Identifiziert die Marketo Opportunity-Rolle für ein externes MS Dynamics Opportunity-Objekt.<br><br>Es ist erforderlich, dass die MS Dynamics-Chancen zuerst richtig synchronisiert werden.</td> 
      </tr> 
      <tr> 
       <td>leadId</td> 
       <td>Nicht zutreffend: Dies wäre eine Marketo Lead-ID.</td> 
-      <td>Dies wäre die Marketo-Lead-ID des synchronisierten MS Dynamics-Kontakts.<br><br>Nachdem der Kontakt in Marketo synchronisiert wurde, können Sie die global eindeutige Kennung MS Dynamics Contact verwenden, die nicht von der Schreibweise abhängig ist, als externalPersonId und die Abfrage für Marketo Lead mithilfe der Marketo REST API.</td> 
+      <td>Dies wäre die Marketo-Lead-ID des synchronisierten MS Dynamics-Kontakts.<br><br>Nachdem der Kontakt in Marketo synchronisiert wurde, können Sie die global eindeutige Kennung MS Dynamics Contact ("Von Schreibweise abgesehen") als externalPersonId ( "externalPersonId") und die Marketo Lead mithilfe der Marketo REST API abfragen.</td> 
      </tr> 
      <tr> 
       <td>Rolle</td> 
@@ -191,14 +191,14 @@ Wenn Ihr Adobe Marketo Engage-Konto über eine benutzerdefinierte oder nicht nat
     </tbody> 
    </table>
 
-   * API-Dokumentation für Chancen: [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
+   * API-Dokumentation für Opportunity: [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
    * API-Dokumentation für Synchronisierungsmöglichkeiten: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST){target="_blank"}
 
 1. Synchronisieren Sie die letzten interessanten Moment-/MSI-Scoring-Felder mit MS Dynamics.
 
    Sobald Ihre MS Dynamics-Objekte korrekt mit Marketo synchronisiert sind, können Sie die MSI-Funktionen nutzen. Die MSI-Felder Letzter interessanter Moment/Scoring werden in der REST-API für Leads angezeigt. Diese Felder werden durch MSI berechnet und sind schreibgeschützt.
 
-   Die letzten interessanten Moment-/Scoring-Felder eines Marketo Leads müssen regelmäßig mit MS Dynamics über den REST API Lead-Endpunkt synchronisiert werden. Abfragen dieses Endpunkts für einen Marketo-Lead mithilfe der _externalPersonId_ als filterType und Übergabe der MS Dynamics Lead GUID als filterValue.
+   Die letzten interessanten Moment-/Scoring-Felder eines Marketo Leads müssen regelmäßig mit MS Dynamics über den REST API Lead-Endpunkt synchronisiert werden. Abfragen dieses Endpunkts für einen Marketo-Lead mit _externalPersonId_ als filterType und Übergabe der MS Dynamics Lead-GUID als filterValue.
 
    | GET /rest/v1/leads.json?filterType=externalPersonId&amp;filterValues=MS DynamicsLeadId1,MS DynamicsLeadId2 |
    |---|
@@ -219,7 +219,7 @@ Wenn Ihr Adobe Marketo Engage-Konto über eine benutzerdefinierte oder nicht nat
      </tr> 
      <tr> 
       <td>msiLastInterestMomentType</td> 
-      <td>Titel: Letzter interessanter Moment-Typ<br>Name: Last_Interest_Moment_Type_c</td> 
+      <td>Titel: Last Interest Moment Type<br>Name: Last_Interest_Moment_Type__c</td> 
       <td>Art des letzten interessanten Moments für den Lead</td> 
      </tr> 
      <tr> 
@@ -234,8 +234,8 @@ Wenn Ihr Adobe Marketo Engage-Konto über eine benutzerdefinierte oder nicht nat
      </tr> 
      <tr> 
       <td>msiLastInterestMomentSource</td> 
-      <td><p>Titel: Letzte interessante Moment-Quelle</p><p>Name: Last_Interest_Moment_Source_c</p></td> 
-      <td>Quelle des letzten interessanten Moments für den Lead</td> 
+      <td><p>Titel: Letzter interessanter Moment Source</p><p>Name: Last_Interest_Moment_Source__c</p></td> 
+      <td>Source des letzten interessanten Augenblicks für die Führung</td> 
      </tr> 
      <tr> 
       <td>Priorität</td> 
@@ -255,6 +255,6 @@ Wenn Ihr Adobe Marketo Engage-Konto über eine benutzerdefinierte oder nicht nat
     </tbody> 
    </table>
 
-   * Dokumentation zur Lead-REST-API: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/getLeadByIdUsingGET](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/getLeadByIdUsingGET){target="_blank"}.
+   * Dokumentation für die Lead-REST-API: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/getLeadByIdUsingGET](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/getLeadByIdUsingGET){target="_blank"}.
 
    Die ordnungsgemäße Verwendung der externen Felder ist für eine erfolgreiche, nicht native Synchronisierung von entscheidender Bedeutung. Wenn Sie in einigen Ansichten keine Daten sehen, wurde ein bestimmtes Feld wahrscheinlich nicht korrekt synchronisiert. Wenn beispielsweise die Aktivitäten und interessanten Momente eines Leads beim Betrachten des MSI-Widgets unter seinem Konto nicht angezeigt werden, ist es wahrscheinlich, dass entweder das Unternehmen des Leads oder das Konto nicht korrekt synchronisiert wurden. Wenn Sie eine GET-Anfrage für diesen Lead ausführen und die externen Felder angeben, können Sie überprüfen, ob der Lead richtig synchronisiert wurde. Darüber hinaus muss die E-Mail für die externe Vertriebsperson in Marketo mit der E-Mail-Adresse für diesen Benutzer in MS Dynamics übereinstimmen. Daten werden auf der Registerkarte Marketo in MS Dynamics möglicherweise nicht angezeigt, wenn die E-Mails nicht übereinstimmen.

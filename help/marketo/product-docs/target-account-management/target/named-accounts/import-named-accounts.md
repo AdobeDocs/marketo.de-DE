@@ -15,27 +15,27 @@ ht-degree: 1%
 
 Sie verfügen bereits über eine CSV-Datei mit allen potenziellen Zielkonten? Importieren Sie sie direkt in TAM!
 
-1. Klicken Sie auf **Neu** und wählen Sie **Spezifische Konten importieren**.
+1. Klicken Sie auf die Dropdownliste **Neu** und wählen Sie **Spezifische Konten importieren** aus.
 
    ![](assets/inaone.png)
 
-1. Daraufhin wird ein neues Fenster geöffnet. Klicken **Durchsuchen** und wählen Sie dann die Datei mit den spezifischen Konten aus, die Sie importieren möchten.
+1. Daraufhin wird ein neues Fenster geöffnet. Klicken Sie auf **Durchsuchen** und wählen Sie dann die Datei der benannten Konten aus, die Sie importieren möchten.
 
    ![](assets/inatwo.png)
 
    >[!TIP]
    >
-   >Geben Sie in Ihrer Datei [Informationen](/help/marketo/product-docs/target-account-management/target/named-accounts/named-account-overview.md#named-account-attributes) nach Möglichkeit. Sie können nur firmografische Informationen hinzufügen. nichts, was Marketo berechnet (d. h. Pipeline). Um spezifische, auf CRM-Konten basierende Konten zu erstellen, exportieren Sie einfach den Kontonamen und die CRM-ID aus Ihrem CRM-System in eine CSV-Datei, verwenden Sie die Option Kontoname und ordnen Sie die CRM-ID während des Importvorgangs zu. Um ein CRM-Konto ordnungsgemäß mit einem benannten Konto zu verknüpfen, müssen Sie den genauen Namen des CRM-Kontos angeben.
+   >Geben Sie in Ihrer Datei [ so viele Informationen wie möglich an.](/help/marketo/product-docs/target-account-management/target/named-accounts/named-account-overview.md#named-account-attributes) Sie können nur firmografische Informationen hinzufügen, keine von Marketo berechneten Informationen (d. h. Pipeline). Um spezifische, auf CRM-Konten basierende Konten zu erstellen, exportieren Sie einfach den Kontonamen und die CRM-ID aus Ihrem CRM-System in eine CSV-Datei, verwenden Sie die Option Kontoname und ordnen Sie die CRM-ID während des Importvorgangs zu. Um ein CRM-Konto ordnungsgemäß mit einem benannten Konto zu verknüpfen, müssen Sie den genauen Namen des CRM-Kontos angeben.
 
-1. Wählen Sie aus zwei Deduplizierungsmodi: Kontoname oder Domänenname. In diesem Beispiel wählen wir Konto. Klicken Sie auf **Modi** und wählen Sie **Nach Kontoname**.
+1. Wählen Sie aus zwei Deduplizierungsmodi: Kontoname oder Domänenname. In diesem Beispiel wählen wir Konto. Klicken Sie auf die Dropdownliste **Modi** und wählen Sie **Nach Kontoname** aus.
 
    ![](assets/inathree.png)
 
    >[!NOTE]
    >
-   >Wenn Sie **Nach Domain-Modus**, müssen sowohl die Felder für das benannte Konto als auch die Domäne enthalten sein.
+   >Wenn Sie &quot;**By Domain Mode**&quot; auswählen, müssen sowohl das benannte Konto- als auch das Domänenfeld eingeschlossen sein.
 
-1. Klicken Sie auf die Schaltfläche **Kontoliste** und wählen Sie aus.
+1. Um auszuwählen, welcher Kontoliste Ihr benanntes Konto hinzugefügt wird, klicken Sie auf die Dropdownliste **Konto-Liste** und wählen Sie aus.
 
    ![](assets/inafour.png)
 
@@ -43,15 +43,15 @@ Sie verfügen bereits über eine CSV-Datei mit allen potenziellen Zielkonten? Im
    >
    >Sie können auch eine ganz neue Kontoliste erstellen, indem Sie einfach ihren Namen in das Dropdown-Feld eingeben.
 
-1. Um eine Importbenachrichtigung zu versenden, klicken Sie auf die Schaltfläche **Warnhinweis senden an** und wählen Sie einen Marketo-Benutzer aus. You _cannot_ eine E-Mail-Adresse manuell eingeben.
+1. Um eine Benachrichtigung über den Import zu senden, klicken Sie auf das Dropdown-Menü **Warnung senden an** und wählen Sie einen Marketo-Benutzer aus. Sie können _nicht_ manuell eine E-Mail-Adresse eingeben.
 
    ![](assets/inafive-2.png)
 
-1. Klicken **Nächste**.
+1. Klicken Sie auf **Weiter**.
 
    ![](assets/inasix-2.png)
 
-1. Ordnen Sie jedes Feld zu, indem Sie auf die **Marketo Field** und wählen Sie das entsprechende Feld aus. Klicken **Nächste** wann geschehen.
+1. Ordnen Sie jedes Feld zu, indem Sie auf die Dropdownliste **Marketo-Feld** doppelklicken und das entsprechende Feld auswählen. Klicken Sie abschließend auf **Weiter** .
 
    ![](assets/inaseven.png)
 

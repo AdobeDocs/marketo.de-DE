@@ -6,7 +6,7 @@ exl-id: 86249d33-60dd-47e1-a7c8-3996c9444084
 feature: Microsoft Dynamics
 source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -25,11 +25,11 @@ Wenn Sie ein Feld &quot;Konto&quot;für einen Kontakt in Marketo aktualisieren, 
 
 ## Kann ich mit Marketo ein Konto erstellen? {#can-i-create-an-account-using-marketo}
 
-Nein. Marketo kann keine Konten in Dynamics erstellen.
+Anz. Marketo kann keine Konten in Dynamics erstellen.
 
 ## Welche Felder werden mit Marketo synchronisiert? {#which-fields-will-sync-to-marketo}
 
-Sie können [Auswahl der zu synchronisierenden Felder](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync){target="_blank"} während der Einrichtung. Marketo synchronisiert jedoch nur die Felder, auf die der Benutzer für die Synchronisierung mit Dynamics Zugriff hat.
+Sie können [ Felder auswählen, die während der Einrichtung synchronisiert werden sollen. ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync){target="_blank"} Marketo synchronisiert jedoch nur die Felder, auf die der Benutzer für die Synchronisierung mit Dynamics Zugriff hat.
 
 ## Führt eine Änderung in einem Kontofeld in Dynamics zu einem Aktivitätsprotokoll zum Datenwert ändern für jeden Kontakt?  {#does-a-change-in-an-account-field-in-dynamics-results-in-a-change-data-value-activity-log-for-each-contact}
 

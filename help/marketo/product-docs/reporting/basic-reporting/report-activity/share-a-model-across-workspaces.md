@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Marketo bietet Ihnen die Möglichkeit, ein oder mehrere Modelle über Arbeitsbereiche hinweg freizugeben. So geht es.
 
-1. Navigieren Sie zu **Analytics** Abschnitt.
+1. Wechseln Sie zum Abschnitt **Analytics** .
 
    ![](assets/analytics.png)
 
-1. Rechtsklicken Sie auf die **Meine Modelle** Ordner und klicken Sie auf **Ordner**.
+1. Klicken Sie mit der rechten Maustaste auf den Ordner **Meine Modelle** und klicken Sie auf **Neuer Ordner**.
 
    ![](assets/image2014-10-3-14-3a5-3a23.png)
 
@@ -27,11 +27,11 @@ Marketo bietet Ihnen die Möglichkeit, ein oder mehrere Modelle über Arbeitsber
 
    ![](assets/image2014-10-3-14-3a5-3a38.png)
 
-1. Ziehen Sie die Modelle, die Sie freigeben möchten, in die **Ordner freigeben**.
+1. Ziehen Sie die Modelle, die Sie freigeben möchten, in den Ordner **Freigeben**.
 
    ![](assets/image2014-10-3-14-3a5-3a52.png)
 
-1. Klicken Sie mit der rechten Maustaste auf den Ordner und klicken Sie auf **Ordner freigeben**.
+1. Klicken Sie mit der rechten Maustaste auf Ihren Ordner und klicken Sie auf **Ordner freigeben**.
 
    ![](assets/image2014-10-3-14-3a6-3a9.png)
 

@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Ihr Verkaufsteam kann E-Mails senden und sie auf Öffnungen und Klicks direkt in Microsoft Dynamics verfolgen lassen. So geht es.
 
-1. Wechseln Sie in Dynamics zum **Vertrieb** Bereich.
+1. Wechseln Sie in Dynamics zum Bereich **Verkauf** .
 
    ![](assets/image2014-10-20-11-3a56-3a9.png)
 
-1. Wählen Sie eine **Systemansicht**.
+1. Wählen Sie eine **Systemansicht** aus.
 
    ![](assets/image2014-10-20-11-3a56-3a20.png)
 
@@ -27,21 +27,21 @@ Ihr Verkaufsteam kann E-Mails senden und sie auf Öffnungen und Klicks direkt in
 
    ![](assets/image2014-10-20-11-3a56-3a35.png)
 
-1. Klicken Sie auf **...** Registerkarte und klicken Sie dann auf **Marketo-E-Mail senden**.
+1. Klicken Sie auf die Registerkarte **...** und dann auf **Marketo-E-Mail senden**.
 
    ![](assets/image2014-10-20-11-3a56-3a57.png)
 
    >[!TIP]
    >
-   >Sie können [E-Mails als Vorlagen veröffentlichen](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) für Ihr Verkaufsteam verwenden.
+   >Sie können [E-Mails als Vorlagen veröffentlichen](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) , damit Ihr Verkaufsteam sie verwenden kann.
 
-1. Betreff hinzufügen, E-Mail erstellen und auf klicken **E-Mail senden**. (Wählen Sie eine Vorlage aus, wenn Sie eine benötigen.)
+1. Fügen Sie einen Betreff hinzu, erstellen Sie Ihre E-Mail und klicken Sie auf **E-Mail senden**. (Wählen Sie eine Vorlage aus, wenn Sie eine benötigen.)
 
    ![](assets/image2014-10-20-11-3a57-3a8.png)
 
    >[!TIP]
    >
-   >Sie können auf **Test-E-Mail senden** und die E-Mail an Sie gesendet wird (primäre E-Mail-Adresse in Microsoft Dynamics), bevor die E-Mail gesendet wird.
+   >Sie können zuerst auf **Test-E-Mail senden** klicken, und die E-Mail wird Ihnen gesendet (primäre E-Mail-Adresse in Microsoft Dynamics), bevor die eigentliche E-Mail gesendet wird.
 
    >[!NOTE]
    >

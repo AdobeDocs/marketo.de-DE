@@ -19,10 +19,10 @@ Wenn Sie einen Filter im Marketingkalender löschen möchten, gelangen Sie an di
 
    ![](assets/image2014-9-24-11-3a27-3a32.png)
 
-1. Klicken Sie auf Rot **x**.
+1. Klicken Sie auf den roten **x**.
 
    ![](assets/image2014-9-24-11-3a27-3a36.png)
 
-1. Klicks **[!UICONTROL Löschen]** zur Bestätigung.
+1. Klicken Sie zur Bestätigung auf **[!UICONTROL Löschen]** .
 
    ![](assets/image2014-9-24-11-3a27-3a42.png)

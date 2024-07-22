@@ -15,27 +15,27 @@ ht-degree: 0%
 
 Sie können Werte aus mehreren Feldern kombinieren oder mithilfe eines Marketo Engage-Formelfelds einen bedingten Wert erstellen.
 
-1. Navigieren Sie zu **[!UICONTROL Admin]** Bereich.
+1. Wechseln Sie zum Bereich **[!UICONTROL Admin]** .
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-1.png)
 
-1. Klicks **[!UICONTROL Feldverwaltung]**.
+1. Klicken Sie auf **[!UICONTROL Feldverwaltung]**.
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-2.png)
 
-1. Klicks **[!UICONTROL Neues benutzerdefiniertes Feld]**.
+1. Klicken Sie auf **[!UICONTROL Neues benutzerdefiniertes Feld]**.
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-3.png)
 
-1. Auswählen **[!UICONTROL Formel]** für die **[!UICONTROL Typ]**.
+1. Wählen Sie **[!UICONTROL Formel]** für den **[!UICONTROL Typ]** aus.
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-4.png)
 
-1. Geben Sie einen **[!UICONTROL Name]** Klicken Sie für Ihr Feld auf **[!UICONTROL Erstellen]**.
+1. Geben Sie einen **[!UICONTROL Namen]** für Ihr Feld ein und klicken Sie dann auf **[!UICONTROL Erstellen]**.
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-5.png)
 
-1. Suchen und wählen Sie Ihr Formelfeld aus und klicken Sie auf **[!UICONTROL Regeln bearbeiten]**.
+1. Suchen Sie nach Ihrem Formelfeld und wählen Sie es aus und klicken Sie auf **[!UICONTROL Regeln bearbeiten]** .
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-6.png)
 
@@ -45,7 +45,7 @@ Sie können Werte aus mehreren Feldern kombinieren oder mithilfe eines Marketo E
 
    >[!TIP]
    >
-   >Weitere Informationen [Token für Flussschritte](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md).
+   >Erfahren Sie mehr über [Token für Flussschritte](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md).
 
 1. Jetzt können Sie das Formelfeld als Token in einer E-Mail hinzufügen.
 
@@ -53,6 +53,6 @@ Sie können Werte aus mehreren Feldern kombinieren oder mithilfe eines Marketo E
 
 >[!NOTE]
 >
->Formelfelder können in den Spalten Landingpages, E-Mails und Smart-Listen verwendet werden. E-Mails mit Formelfeldern können _not_ mit einer Batch-Kampagne gesendet werden. Bitte verwenden Sie [email script token](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md) in diesem Szenario.
+>Formelfelder können in den Spalten Landingpages, E-Mails und Smart-Listen verwendet werden. E-Mails mit Formelfeldern können mit einer Batch-Kampagne _nicht_ gesendet werden. Verwenden Sie in diesem Szenario ein [E-Mail-Skript-Token](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md).
 
 Gute Arbeit! Jetzt haben Sie ein intelligentes Feld, das weiß, welche Anrede auf Grundlage des Geschlechts aufgenommen werden soll. Viel Spaß damit und kreativ.

@@ -6,7 +6,7 @@ exl-id: ba72cadf-416c-4faa-9f0c-aa75fec3c3cf
 feature: Engagement Programs, Reporting
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -17,17 +17,17 @@ Das Interaktions-Dashboard bietet die einfachste Möglichkeit, die Leistung des 
 
 >[!NOTE]
 >
->Der Interaktionswert enthält Daten aus Ihren letzten drei Beiträgen. Eine neue wird 72 Stunden nach jedem Spiel berechnet. Weitere Informationen zum [Interaktionswert](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
+>Der Interaktionswert enthält Daten aus Ihren letzten drei Beiträgen. Eine neue wird 72 Stunden nach jedem Spiel berechnet. Erfahren Sie mehr über den [Interaktionswert](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
 
 ## Anzeigen des Interaktions-Dashboards {#view-the-engagement-dashboard}
 
-Wählen Sie Ihr Interaktionsprogramm aus und klicken Sie auf **Ansicht** > **Dashboard**.
+Wählen Sie Ihr Interaktionsprogramm aus und klicken Sie auf **Anzeigen** > **Dashboard**.
 
 ![](assets/image2014-9-15-16-3a42-3a41.png)
 
 >[!TIP]
 >
->Sehen Sie sich die [Leistungsbericht zu Interaktionsstream](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) für detailliertere Statistiken.
+>Detailliertere Statistiken finden Sie im [ Interaktionsstream-Leistungsbericht](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) .
 
 ## Erschöpfungs-Widget {#understand-the-exhaustion-widget}
 
@@ -37,7 +37,7 @@ Mit diesem Widget können Sie vorhersehen, wann Leads alle Inhalte erschöpft ha
 
 >[!NOTE]
 >
->Gehen Sie zur Registerkarte Einrichtung und stellen Sie sicher, dass abgelaufene Inhaltsbenachrichtigungen **on** um das Diagramm oben anzuzeigen. Wenn sie deaktiviert sind, sieht das Diagramm anders aus.
+>Sie müssen auf die Registerkarte Einrichtung gehen und sicherstellen, dass abgelaufene Inhaltsbenachrichtigungen **Ein** sind, um das Diagramm oben anzuzeigen. Wenn sie deaktiviert sind, sieht das Diagramm anders aus.
 
 >[!CAUTION]
 >
@@ -67,8 +67,8 @@ Klicken Sie zum Ändern der Sortierung auf das Zahnradsymbol und wählen Sie dan
 
 ![](assets/image2014-9-15-16-3a46-3a58.png)
 
-_Neueste_ und _Oldest_ basieren auf dem Zeitpunkt der letzten Genehmigung.
+_Neueste_ und _Älteste_ basieren auf dem Zeitpunkt der letzten Genehmigung.
 
 >[!NOTE]
 >
->Weitere Informationen finden Sie unter [Erstellen eines Interaktionsprogramms](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md) tief tauchen.
+>Weitere Informationen finden Sie im tiefen Tauchgang [Erstellen eines Interaktionsprogramms](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md) .

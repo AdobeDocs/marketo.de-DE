@@ -19,10 +19,10 @@ Manchmal kann man zu viel von einer guten Sache haben. Löschen Sie alte Präsen
 
    ![](assets/image2015-3-26-12-3a26-3a41.png)
 
-1. Klicken Sie mit der rechten Maustaste und wählen Sie **[!UICONTROL Löschen]**.
+1. Klicken Sie mit der rechten Maustaste und wählen Sie **[!UICONTROL Löschen]** aus.
 
    ![](assets/image2015-3-26-12-3a26-3a51.png)
 
-1. Klicken **[!UICONTROL Löschen]** zur Bestätigung.
+1. Klicken Sie zur Bestätigung auf **[!UICONTROL Löschen]** .
 
    ![](assets/image2015-3-20-16-3a21-3a10.png)

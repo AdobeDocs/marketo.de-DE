@@ -6,7 +6,7 @@ exl-id: 82f3754f-4aa8-4d07-ac02-22d138d2a021
 feature: Social
 source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '482'
+source-wordcount: '484'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Sehen Sie sich die von Ihren Social-Apps generierten Social-Aktivitäten an. Das
 >
 >Nicht alle Marketo Engage-Benutzer haben diese Funktion erworben. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Wechseln Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -27,7 +27,7 @@ Sehen Sie sich die von Ihren Social-Apps generierten Social-Aktivitäten an. Das
 
    ![](assets/image2014-9-23-17-3a10-3a13.png)
 
-1. Klicks **Datum der Aktivität**.
+1. Klicken Sie auf **Datum der Aktivität**.
 
    ![](assets/image2014-9-23-17-3a10-3a22.png)
 
@@ -37,15 +37,15 @@ Sehen Sie sich die von Ihren Social-Apps generierten Social-Aktivitäten an. Das
 
    >[!NOTE]
    >
-   >Wenn Sie **Letzte 24 Stunden**, werden die Metriken stündlich am Anfang der Stunde berechnet. Für alle anderen Intervalle werden die Metriken täglich um Mitternacht des Vortags ausgeführt.
+   >Wenn Sie &quot;**Letzte 24 Stunden**&quot; auswählen, werden die Metriken stündlich am oberen Rand der Stunde berechnet. Für alle anderen Intervalle werden die Metriken täglich um Mitternacht des Vortags ausgeführt.
 
-1. Verwenden Sie die **Social-Trichter** , um den sozialen Fortschritt und die Effektivität Ihrer Promotion zu überprüfen.
+1. Verwenden Sie den **Social-Trichter** , um den sozialen Fortschritt und die Effektivität Ihrer Promotion zu überprüfen.
 
-   * **Kampagnenbesuche**: Die Häufigkeit, mit der potenzielle Kunden eine Seite laden, die Ihre Social-App enthält.
-   * **Interaktionen**: Wie oft potenzielle Kunden mit Ihrer Social App interagiert haben, z. B. bei der Anmeldung für eine [Verweisangebot](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), Abstimmung [Umfrage](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md), [Freigeben eines Videos](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md), usw.
-   * **Aktien**: Gibt an, wie oft potenzielle Kunden eine Nachricht aus Ihrer Social App in ihrem sozialen Netzwerk teilen.
-   * **Resultierende Klicks**: Die Häufigkeit, mit der potenzielle Kunden in Ihrer Social App auf Links in &quot;Teilen&quot;-Klicks geklickt haben.
-   * **Registrierung**: Die Anzahl der Interessenten, die sich für Ihre Promotion anmelden, nachdem sie einen freigegebenen Link zu Ihrer App zurückverfolgt haben.
+   * **Kampagnenbesuche**: Wie oft potenzielle Kunden eine Seite laden, die Ihre Social-App enthält.
+   * **Interaktionen**: Wie oft potenzielle Kunden mit Ihrer Social-App interagiert haben, z. B. die Anmeldung für ein [Verweisangebot](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), die Abstimmung in einer [Umfrage](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md), die [Freigabe eines Videos](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md) usw.
+   * **Teilen**: Gibt an, wie oft potenzielle Kunden eine Nachricht aus Ihrer Social App in ihrem sozialen Netzwerk teilen.
+   * **Resultierende Klicks**: Wie oft potenzielle Kunden auf Links in Teilen von Ihrer Social App geklickt haben.
+   * **Registrierung**: Die Anzahl der Interessenten, die sich für Ihre Promotion angemeldet haben, nachdem sie einen freigegebenen Link zu Ihrer App zurückverfolgt haben.
 
    >[!NOTE]
    >
@@ -53,20 +53,20 @@ Sehen Sie sich die von Ihren Social-Apps generierten Social-Aktivitäten an. Das
 
    ![](assets/image2014-9-23-17-3a11-3a16.png)
 
-1. Verwenden Sie die **Zielgruppe** -Bedienfeld, um zu überprüfen, wie Ihre Perspektiven Ihnen dabei helfen, das Wort herauszuholen.
+1. Verwenden Sie das Bedienfeld **Zielgruppe** , um zu überprüfen, wie Ihre potenziellen Kunden Ihnen dabei helfen, das Wort herauszuholen.
 
    * **Profile insgesamt**: Die Gesamtzahl der potenziellen Benutzer, die sich von Ihrer Social App aus bei sozialen Netzwerken angemeldet haben.
-   * **Einflussnehmer**: Die Anzahl der Interessenten, die mindestens einen resultierenden Klick aus einer App-Freigabe generiert haben.
+   * **Einflussnehmer**: Die Anzahl der Interessenten, die mindestens einen Klick auf eine App-Freigabe generiert haben.
    * **Soziale Reichweite**: Die Summe aller Verbindungen der Interessenten. Für Interessenten, die soziale Netzwerke nutzen, ist dies die Anzahl der Freunde, die sie zu dem Zeitpunkt haben, zu dem sie von Ihrer Social App geteilt haben. Bei der E-Mail-Freigabe ist dies die Anzahl der Empfänger der E-Mail, die sie aus Ihrer App generieren.
-   * **Social-Impressionen**: Die Gesamtanzahl der Male, die Ihre Social-App in den Feeds der Verbindungen der Interessenten angezeigt hat.
+   * **Social-Impressionen**: Gibt an, wie oft Ihre Social-App insgesamt in den Feeds der potenziellen Kontakte angezeigt wurde.
 
    ![](assets/image2014-9-23-17-3a11-3a26.png)
 
-1. Verwenden Sie die **Metriken freigeben** angezeigt, um die von Ihrer Social-App generierte aggregierte Social-Aktivität zu überprüfen.
+1. Überprüfen Sie im Bedienfeld **Metriken freigeben** die von Ihrer Social-App generierte aggregierte Social-Aktivität.
 
    * **Freigaberate**: Der Prozentsatz der Besuche Ihrer App, die eine Freigabe generieren.
-   * **Clickback-Rate**: Die Anzahl der resultierenden Klicks pro Freigabe.
-   * **Social Lift**: Das Verhältnis der Besuche Ihrer App (die vom Link in &quot;Teilen&quot;-Klicks stammen) zur Anzahl der nicht-sozialen Besuche (von anderen Quellen als Ihrer Social App).
+   * **Klickrate**: Die Anzahl der resultierenden Klicks pro Aktie.
+   * **Social Lift**: Das Verhältnis der Besuche Ihrer App (die vom Link in Teilen stammen) zur Anzahl der nicht sozialen Besuche (von anderen Quellen als Ihrer Social App).
 
    ![](assets/image2014-9-23-17-3a11-3a35.png)
 

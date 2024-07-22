@@ -7,7 +7,7 @@ feature: Forms
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '148'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Wenn Sie die Standard-Senden-Schaltfläche stumpf finden oder etwas raffinierteres wünschen, können Sie aus einer Vielzahl von einsatzbereiten Schaltflächenstilen wählen.
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Wechseln Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -23,13 +23,13 @@ Wenn Sie die Standard-Senden-Schaltfläche stumpf finden oder etwas raffinierter
 
    ![](assets/image2014-9-15-16-3a54-3a36.png)
 
-1. Wählen Sie die **Einsenden** Schaltfläche und klicken Sie auf **Bearbeiten** neben Schaltflächenstil.
+1. Wählen Sie die Schaltfläche **Senden** aus und klicken Sie neben &quot;Schaltflächenstil&quot;auf **Bearbeiten** .
 
    ![](assets/image2014-9-15-16-3a54-3a56.png)
 
    >[!TIP]
    >
-   >Wussten Sie, dass Sie die Senden-Schaltfläche nach links oder rechts ziehen können, um die Position zu ändern? So einfach ist es. Probier es aus!
+   >Wussten Sie, dass Sie die Senden-Schaltfläche nach links oder rechts ziehen können, um die Position zu ändern? So einfach ist es. Probieren Sie es aus!
 
 1. Wählen Sie einen gewünschten Schaltflächenstil aus (scrollen Sie nach oben/unten).
 
@@ -43,15 +43,15 @@ Wenn Sie die Standard-Senden-Schaltfläche stumpf finden oder etwas raffinierter
    >
    >Sie können den Farbcode auch manuell eingeben.
 
-1. Klicks **Auswählen**.
+1. Klicken Sie auf **Select**.
 
    ![](assets/image2014-9-15-16-3a56-3a37.png)
 
-1. Klicks **Beenden**.
+1. Klicken Sie auf **Beenden**.
 
    ![](assets/image2014-9-15-16-3a56-3a52.png)
 
-1. Klicks **Genehmigen und schließen**.
+1. Klicken Sie auf **Genehmigen und schließen**.
 
    ![](assets/image2014-9-15-16-3a57-3a10.png)
 

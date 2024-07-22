@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1147124
-description: Verwenden der Registerkarte "Assets"- Marketo-Dokumente - Produktdokumentation
+description: Verwenden der Registerkarte "Assets"- Marketo Docs - Produktdokumentation
 title: Verwenden der Registerkarte "Assets"
 exl-id: 7e7679bb-f83d-4b7f-adfb-2733259eeac2
 feature: Programs
@@ -17,7 +17,7 @@ Die Asset-Arbeitsfläche ist eine visuelle Darstellung Ihres Standard- oder Erei
 
 ## Hinzufügen von Assets {#adding-assets}
 
-Klicken Sie auf **[!UICONTROL Assets]** im gewünschten Programm. Wählen Sie eines der folgenden Assets aus und fügen Sie es Ihrem Programm hinzu.
+Klicken Sie im gewünschten Programm auf die Registerkarte **[!UICONTROL Assets]** . Wählen Sie eines der folgenden Assets aus und fügen Sie es Ihrem Programm hinzu.
 
 ![](assets/programassets.png)
 

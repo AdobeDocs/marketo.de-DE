@@ -46,7 +46,7 @@ Wenn Sie versuchen, Personen nach Facebook zu senden, ohne die Nutzungsbedingung
 
 ## Leerlauf-Auslöser-Kampagnenbereinigung {#idle-trigger-campaign-cleanup}
 
-Deaktivieren Sie ausgelöste Smart-Kampagnen, die keine Aktivität mehr erhalten. Weitere Informationen  [automatische Trigger-Kampagnenbereinigung](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md).
+Deaktivieren Sie ausgelöste Smart-Kampagnen, die keine Aktivität mehr erhalten. Erfahren Sie mehr über die [automatische Bereinigung der Trigger-Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md).
 
 ## LinkedIn {#linkedin}
 
@@ -60,4 +60,4 @@ Sie werden benachrichtigt, wenn Sie Ihr tägliches Kontingent erreichen. Die Quo
 
 >[!NOTE]
 >
->Einige der Fehlercodes, die Sie möglicherweise erhalten, sind in unserer [Entwicklerdokumentation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/error-codes).
+>Einige der Fehlercodes, die Sie möglicherweise erhalten, sind in unserer [Entwicklerdokumentation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/error-codes) beschrieben.

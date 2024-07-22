@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Sobald Sie ein E-Mail-Programm ausgeführt haben und einige Daten im Dashboard haben, können Sie diese Rohdaten exportieren, um sie für weitere Analysen zu extrahieren. So geht es.
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Wechseln Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities-1.png)
 

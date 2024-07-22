@@ -6,7 +6,7 @@ exl-id: c8b0fbe9-012c-47bf-8769-0167156b43d3
 feature: Segmentation
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
@@ -18,23 +18,23 @@ Eine Segmentierung muss genehmigt werden, bevor sie verwendet werden kann.
 >[!PREREQUISITES]
 >
 >* [Erstellen einer Segmentierung](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
->* [Segmentregeln definieren](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
+>* [Definieren von Segmentregeln](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
 
 >[!NOTE]
 >
 >Es können maximal 20 Segmente gleichzeitig genehmigt werden.
 
-1. Navigieren Sie zu **Datenbank**.
+1. Wechseln Sie zur **Datenbank**.
 
    ![](assets/image2017-3-28-14-3a25-3a49.png)
 
-1. Klicken Sie in der Segmentierung auf **Segmentierungsaktionen**, und dann **Genehmigen**.
+1. Klicken Sie in der Segmentierung auf **Segmentierungsaktionen** und dann auf **Genehmigen**.
 
    ![](assets/image2017-3-28-14-3a46-3a22.png)
 
    >[!NOTE]
    >
-   >Der Status ändert sich in Mit einem Drehrad genehmigen ( ![](assets/image2014-9-15-15-3a31-3a43.png)), während die Validierung ausgeführt wird.
+   >Der Status ändert sich in Mit einem Drehrad genehmigen ( ![](assets/image2014-9-15-15-3a31-3a43.png)), während die Genehmigung läuft.
 
    >[!CAUTION]
    >
@@ -47,7 +47,7 @@ Eine Segmentierung muss genehmigt werden, bevor sie verwendet werden kann.
    >
    >Die Anzahl der Personen in jedem Segment wird in Klammern neben dem Segmentnamen angezeigt.
 
-1. Die **Personen** im **Segment** zeigt nun die endgültige Liste der Personen für das Segment an.
+1. Auf der Registerkarte **Personen** im **Segment** wird jetzt die endgültige Liste der Personen für das Segment angezeigt.
 
    ![](assets/image2017-3-28-14-3a47-3a10.png)
 
@@ -55,7 +55,7 @@ Eine Segmentierung muss genehmigt werden, bevor sie verwendet werden kann.
 >
 >Die Gesamtanzahl der Segmente, die Sie in einer Segmentierung erstellen können, hängt von der Anzahl und dem Typ der verwendeten Filter sowie davon ab, wie komplex die Logik Ihrer Segmente ist. Sie können zwar bis zu 100 Segmente mithilfe von Standardfeldern erstellen, aber die Verwendung anderer Filtertypen kann die Komplexität erhöhen und Ihre Segmentierung kann möglicherweise nicht genehmigt werden. Beispiele sind: benutzerdefinierte Felder, Listenmitglieder, Lead-Inhaber-Felder und Umsatzstufen.
 >
->Wenn Sie eine Fehlermeldung während der Validierung erhalten und Unterstützung bei der Reduzierung der Komplexität Ihrer Segmentierung benötigen, wenden Sie sich an [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support).
+>Wenn Sie während der Validierung eine Fehlermeldung erhalten und Unterstützung bei der Reduzierung der Komplexität Ihrer Segmentierung benötigen, wenden Sie sich an den [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 >[!MORELIKETHIS]
 >

@@ -6,8 +6,8 @@ exl-id: 10b4e029-de23-4054-83f7-b68fea68c838
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 1%
+source-wordcount: '118'
+ht-degree: 0%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->* [Erstellen einer E-Mail &quot;Nur Text&quot;](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)
+>* [Erstellen einer Nur-Text-E-Mail](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)
 >* [Elemente in einer E-Mail bearbeiten](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md)
 
 Text-E-Mail-Links können in Marketo nachverfolgt werden. Mal sehen, wie es funktioniert. 1. Wählen Sie Ihre E-Mail aus und klicken Sie auf Entwurf bearbeiten.
@@ -26,7 +26,7 @@ Text-E-Mail-Links können in Marketo nachverfolgt werden. Mal sehen, wie es funk
 
    ![](assets/two-8.png)
 
-1. Geben Sie die URL mit doppelten Klammern ein: `[[www.domain.com/path/page.html]]`.
+1. Geben Sie die URL mit doppelten Klammern ein, wie in diesem Beispiel: `[[www.domain.com/path/page.html]]`.
 
    ![](assets/three-8.png)
 
@@ -42,4 +42,4 @@ Text-E-Mail-Links können in Marketo nachverfolgt werden. Mal sehen, wie es funk
 >
 >Testen Sie es, um es zu überprüfen. Vergewissern Sie sich, dass Sie die Klammern richtig eingegeben haben.
 
-Gut gemacht!
+Gute Arbeit!

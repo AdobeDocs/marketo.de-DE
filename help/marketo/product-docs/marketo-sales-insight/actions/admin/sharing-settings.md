@@ -5,7 +5,7 @@ exl-id: 151d64da-7a36-4da2-8041-ebcdcd016a50
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '232'
 ht-degree: 1%
 
 ---
@@ -20,15 +20,15 @@ Wenn die Freigabeeinstellungen aktiviert sind, können nur Administratoren in Ka
 
 ## Konfigurieren Ihrer Freigabeeinstellungen {#configure-your-sharing-settings}
 
-1. Im [Webanwendung](https://toutapp.com/login), klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen**.
+1. Klicken Sie in der [Webanwendung](https://toutapp.com/login) auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
 
    ![](assets/sharing-settings-1.png)
 
-1. Wählen Sie unter Admin Settings die Option **Zugriff freigeben**.
+1. Wählen Sie unter &quot;Admin Settings&quot;die Option **Sharing Access**.
 
    ![](assets/sharing-settings-2.png)
 
-1. Stellen Sie sicher **Freigabeeinstellungen** aktiviert ist. Dies bedeutet standardmäßig, dass nur Administratoren Vorlagen in Ihren Vorlagenkategorien freigeben können.
+1. Stellen Sie sicher, dass **Freigabeeinstellungen** aktiviert ist. Dies bedeutet standardmäßig, dass nur Administratoren Vorlagen in Ihren Vorlagenkategorien freigeben können.
 
    ![](assets/sharing-settings-3.png)
 
@@ -36,7 +36,7 @@ Wenn die Freigabeeinstellungen aktiviert sind, können nur Administratoren in Ka
 
    ![](assets/sharing-settings-4.png)
 
-1. Klicks **Team für Zugriff hinzufügen**.
+1. Klicken Sie auf **Teams für Zugriff hinzufügen**.
 
    ![](assets/sharing-settings-5.png)
 
@@ -48,7 +48,7 @@ Wenn die Freigabeeinstellungen aktiviert sind, können nur Administratoren in Ka
    >
    >Wenn Sie keine Teams sehen, müssen Sie zu Team Management gehen und ein Team von Benutzern erstellen.
 
-1. Klicks **Team für Zugriff hinzufügen** speichern.
+1. Klicken Sie zum Speichern auf **Teams für Zugriff hinzufügen** .
 
    ![](assets/sharing-settings-7.png)
 

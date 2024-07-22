@@ -22,11 +22,11 @@ Die Synchronisierungsschritte spiegeln die Push- oder Pull-Vorgänge jedes Objek
 
 ## Synchronisierungsstatus anzeigen {#view-sync-status}
 
-1. Klicks **[!UICONTROL Admin]**.
+1. Klicken Sie auf **[!UICONTROL Admin]**.
 
    ![](assets/salesforce-sync-status-1.png)
 
-1. under [!UICONTROL Integration]klicken **Salesforce**, dann die **[!UICONTROL Synchronisierungsstatus]** Registerkarte.
+1. Klicken Sie unter [!UICONTROL Integration] auf **Salesforce** und dann auf die Registerkarte **[!UICONTROL Synchronisierungsstatus]**.
 
    ![](assets/salesforce-sync-status-2.png)
 
@@ -40,15 +40,15 @@ Standardmäßig werden die Statistiken nach den letzten Startvorgängen sortiert
 
    ![](assets/salesforce-sync-status-4.png)
 
-1. Wählen Sie Datum und Zeitraum aus und klicken Sie dann auf die Dropdown-Liste, nach denen Sie filtern möchten [!UICONTROL Objekttyp], [!UICONTROL Aktionstyp], und/oder [!UICONTROL Statustyp].
+1. Wählen Sie Datum und Zeitraum aus und klicken Sie dann auf die Dropdown-Liste(n), nach denen Sie filtern möchten: [!UICONTROL Objekttyp], [!UICONTROL Aktionstyp] und/oder [!UICONTROL Statustyp].
 
    ![](assets/salesforce-sync-status-5.png)
 
-1. Klicks **[!UICONTROL Anwenden]**.
+1. Klicken Sie auf **[!UICONTROL Anwenden]**.
 
    ![](assets/salesforce-sync-status-6.png)
 
-**OPTIONALER SCHRITT**: Um Synchronisierungsfehler zu exportieren, klicken Sie auf **[!UICONTROL Export]**. Die Daten werden als CSV exportiert.
+**OPTIONALER SCHRITT**: Klicken Sie zum Exportieren von Synchronisierungsfehlern auf **[!UICONTROL Exportieren]**. Die Daten werden als CSV exportiert.
 
 ![](assets/salesforce-sync-status-7.png)
 
@@ -97,7 +97,7 @@ Standardmäßig werden die Statistiken nach den letzten Startvorgängen sortiert
    <td colspan="1"></td> 
   </tr>  
   <tr> 
-   <td colspan="1">Aktualisiert</td> 
+   <td colspan="1">Aktualisieren</td> 
    <td colspan="1">Anzahl der aktualisierten Datensätze</td> 
    <td colspan="1"></td> 
   </tr>  
@@ -135,13 +135,13 @@ Standardmäßig werden die Statistiken nach den letzten Startvorgängen sortiert
    <td colspan="1">Kontotyp</td> 
   </tr> 
   <tr> 
-   <td colspan="1">benutzerdefinierte -Objekte</td> 
+   <td colspan="1">Benutzerdefinierte Objekte</td> 
   </tr>  
   <tr> 
    <td colspan="1">Kampagne</td> 
   </tr>  
   <tr> 
-   <td colspan="1">Kampagnenmitglied Status</td> 
+   <td colspan="1">Status des Kampagnenmitgliedes</td> 
   </tr>
   <tr> 
    <td colspan="1">Kontakt</td> 
@@ -159,7 +159,7 @@ Standardmäßig werden die Statistiken nach den letzten Startvorgängen sortiert
    <td colspan="1">Opportunity</td> 
   </tr>  
   <tr> 
-   <td colspan="1">Rolle des Opportunity-Kontakts</td> 
+   <td colspan="1">Gelegenheit Kontaktrolle</td> 
   </tr>  
   <tr> 
    <td colspan="1">Aufgabe</td> 
@@ -249,4 +249,4 @@ Standardmäßig werden die Statistiken nach den letzten Startvorgängen sortiert
  </tbody> 
 </table>
 
-&#42;Die Branding-Konfiguration auf Abonnementebene bestimmt die Bezeichnung &quot;Lead&quot;oder &quot;Person&quot;im Bericht.
+&#42;Die Branding-Konfiguration auf Abonnementebene bestimmt die Bezeichnung - &quot;Lead&quot;oder &quot;Person&quot;im Bericht.

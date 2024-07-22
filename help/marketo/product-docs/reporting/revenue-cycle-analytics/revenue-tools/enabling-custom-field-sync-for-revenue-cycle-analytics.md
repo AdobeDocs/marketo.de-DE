@@ -15,19 +15,19 @@ ht-degree: 0%
 
 Mit den folgenden Schritten können Sie benutzerdefinierte Felder in RCA-Berichten verwenden.
 
-1. Klicks **Admin**.
+1. Klicken Sie auf **Admin**.
 
    ![](assets/one.png)
 
-1. Klicks **Umsatzzyklusanalysen**, dann **Benutzerdefinierte Feldsynchronisierung**.
+1. Klicken Sie auf **Umsatzzyklusanalysen** und dann auf **Benutzerdefinierte Feldsynchronisierung**.
 
    ![](assets/two.png)
 
-1. Wählen Sie **Feldname** Klicken Sie auf **Option &quot;Synchronisierung bearbeiten&quot;**.
+1. Wählen Sie Ihren **Feldnamen** aus und klicken Sie dann auf **Option &quot;Synchronisierung bearbeiten&quot;**.
 
    ![](assets/three.png)
 
-1. Wählen Sie unter Synchronisierungsstatus die Option **Aktiviert** Klicken Sie auf **Speichern**.
+1. Wählen Sie unter Synchronisierungsstatus **Aktiviert** und klicken Sie dann auf **Speichern**.
 
    ![](assets/four.png)
 

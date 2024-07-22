@@ -6,7 +6,7 @@ exl-id: a8c64e4a-4932-4686-8563-63452d3753e2
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '58'
 ht-degree: 0%
 
 ---
@@ -23,10 +23,10 @@ Führen Sie diese einfachen Schritte aus, um die Synchronisierung mit MS Dynamic
 
    ![](assets/two.png)
 
-1. Klicken **Synchronisierung deaktivieren**.
+1. Klicken Sie auf **Synchronisierung deaktivieren**.
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >Wenn in Ihrer Instanz die Schaltfläche Synchronisierung deaktivieren nicht angezeigt wird, wenden Sie sich an [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support).
+   >Wenn in Ihrer Instanz die Schaltfläche Synchronisierung deaktivieren nicht angezeigt wird, wenden Sie sich an den [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support).

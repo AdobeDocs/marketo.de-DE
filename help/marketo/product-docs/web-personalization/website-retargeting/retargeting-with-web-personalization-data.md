@@ -1,35 +1,35 @@
 ---
 unique-page-id: 4720796
-description: Retargeting mit Web-Personalisierungsdaten - Marketo-Dokumente - Produktdokumentation
-title: Retargeting mit Web-Personalisierungsdaten
+description: Retargeting mit Web Personalization-Daten - Marketo-Dokumente - Produktdokumentation
+title: Retargeting mit Web Personalization-Daten
 exl-id: b5af1f84-2061-4d0d-9d1f-2fff9191f028
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '406'
-ht-degree: 0%
+source-wordcount: '403'
+ht-degree: 1%
 
 ---
 
-# Retargeting mit Web-Personalisierungsdaten {#retargeting-with-web-personalization-data}
+# Retargeting mit Web Personalization-Daten {#retargeting-with-web-personalization-data}
 
 >[!AVAILABILITY]
 >
->Website-Retargeting fällt jetzt unter die Kachel Web-Personalisierung . Wenn Sie nur Retargeting gekauft haben, sehen Sie diese Kachel und greifen Sie auf das Web Personalization-Produkt zu mit **only** Targeting-Funktionen aktiviert. Dadurch erhalten Sie Zugriff auf Kontoeinstellungen, die Retargeting-Seite, Segmente und zusätzliche Tracking-Seiten.
+>Website-Retargeting fällt jetzt unter die Kachel Web Personalization . Wenn Sie nur Retargeting gekauft haben, sehen Sie diese Kachel und greifen auf das Web Personalization-Produkt zu, für das die Funktion &quot;**nur**&quot; aktiviert ist. Dadurch erhalten Sie Zugriff auf Kontoeinstellungen, die Retargeting-Seite, Segmente und zusätzliche Tracking-Seiten.
 
 Remarketing richtet sich an potenzielle Kunden, die Ihre Site in der Vergangenheit besucht haben, wobei Display-Werbung darauf basiert, wer sie sind und was sie getan haben. Personalisierte Retargeting zielt auf spezifische Zielgruppen mit relevanten Anzeigen basierend auf der Branche, spezifischen Konten und bekannten Personendaten ab.
 
-Web-Personalisierung hängt derzeit Daten an die folgenden Remarketing-Plattformen an:
+Web Personalization hängt derzeit Daten an die folgenden Remarketing-Plattformen an:
 
 * [Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
 * [Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)
 
-Web-Personalisierung sendet die folgenden Daten an die Remarketing-Plattformen, um Zielgruppen zu erstellen und Remarketing-Werbekampagnen durchzuführen:
+Web Personalization sendet die folgenden Daten an die Remarketing-Plattformen, um Zielgruppen zu erstellen und Remarketing-Werbekampagnen durchzuführen:
 
 <table> 
  <tbody> 
   <tr> 
-   <th colspan="1">Web-Personalisierungsdaten</th> 
+   <th colspan="1">Web-Personalization-Daten</th> 
   </tr> 
   <tr> 
    <th><p>Branche</p></th> 
@@ -54,7 +54,7 @@ Web-Personalisierung sendet die folgenden Daten an die Remarketing-Plattformen, 
 
 ## Remarketing-Konfiguration {#remarketing-configuration}
 
-1. Navigieren Sie zu **Retargeting**.
+1. Wechseln Sie zu **Retargeting**.
 
    ![](assets/one.png)
 
@@ -68,15 +68,15 @@ Web-Personalisierung sendet die folgenden Daten an die Remarketing-Plattformen, 
    >
    >Sie müssen das Google Retargeting-Tag auf Ihrer Website implementieren lassen.
    >
-   >Wenn Sie Ihre Integration mit Web-Personalisierung und Google Analytics bereits eingerichtet haben, müssen Sie diesen Teil nicht bearbeiten, da er unter &quot;Kontoeinstellungen&quot;dieselbe Konfiguration aufweist.
+   >Wenn Sie Ihre Integration mit Web Personalization und Google Analytics bereits eingerichtet haben, müssen Sie diesen Teil nicht bearbeiten, da er unter &quot;Kontoeinstellungen&quot;dieselbe Konfiguration ist.
 
    ![](assets/two.png)
 
-1. Aktivieren Sie die Konfiguration für Facebook. Klicken Sie auf das Facebook-Akkordeon und erweitern Sie es. Klicken Sie auf **on** , um das entsprechende Ereignis und die entsprechenden Daten an den Facebook-Audience Manager zu senden. Klicken **Speichern**.
+1. Aktivieren Sie die Konfiguration für Facebook. Klicken Sie auf das Facebook-Akkordeon und erweitern Sie es. Klicken Sie auf **Ein** , um das entsprechende Ereignis und die Daten an den Facebook-Audience Manager zu senden. Klicken Sie auf **Speichern**.
 
    >[!NOTE]
    >
-   >Sie müssen [Facebook Custom Audience Pixel](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)installiert, damit diese Funktion funktioniert.
+   >Damit diese Funktion funktioniert, müssen Sie Ihre Website mit [Facebook Custom Audience Pixel](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)installiert haben.
 
    ![](assets/three.png)
 
@@ -88,7 +88,7 @@ Mit einer segmentierten Zielgruppe können Sie ein vorhandenes Segment als Zielg
 >
 >Es ist nicht erforderlich, eine segmentierte Zielgruppe für Branchen- oder andere Daten zu erstellen, die bereits über die Domänenkonfiguration gesendet wurden. Es ist am besten, segmentierte Zielgruppen für Segmente zu verwenden, die auf bekannten Personendaten basieren.
 
-1. Klicken **Segmentierte Zielgruppe erstellen**.
+1. Klicken Sie auf **Segmentierte Zielgruppe erstellen**.
 
    ![](assets/image2015-1-15-16-3a36-3a38.png)
 
@@ -96,6 +96,6 @@ Mit einer segmentierten Zielgruppe können Sie ein vorhandenes Segment als Zielg
 
    ![](assets/image2015-1-15-16-3a40-3a17.png)
 
-1. Klicken **Speichern**.
+1. Klicken Sie auf **Speichern**.
 
-   Sie haben nun die Retargeting-Einrichtung in Web-Personalisierung abgeschlossen, sich bei Ihren Retargeting-Plattformen angemeldet, Ihre auf diesen Daten basierenden Audiences erstellt und Ihre Retargeting-Werbekampagnen eingerichtet.
+   Sie haben nun die Retargeting-Einrichtung in Web Personalization abgeschlossen, melden sich bei Ihren Retargeting-Plattformen an, erstellen Ihre Zielgruppen auf der Basis dieser Daten und richten Ihre Retargeting-Werbekampagnen ein.

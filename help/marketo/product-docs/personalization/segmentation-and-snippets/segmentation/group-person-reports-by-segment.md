@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Sie können Ihre Personenberichte nach jedem Segment gruppieren, das Sie in Ihren Segmenten definiert haben.
 
-1. Navigieren Sie zu **Marketingaktivitäten** (oder **Analytics**).
+1. Wechseln Sie zum Abschnitt **Marketingaktivitäten** (oder **Analytics**).
 
    ![](assets/image2017-3-28-8-3a43-3a9.png)
 
@@ -23,19 +23,19 @@ Sie können Ihre Personenberichte nach jedem Segment gruppieren, das Sie in Ihre
 
    ![](assets/image2017-3-28-9-3a25-3a0.png)
 
-1. Klicken Sie auf **Einrichtung** Registerkarte und Doppelklick **Personen gruppieren nach**.
+1. Klicken Sie auf die Registerkarte **Einrichtung** und doppelklicken Sie auf **Personen gruppieren nach**.
 
    ![](assets/image2017-3-28-9-3a25-3a22.png)
 
    >[!NOTE]
    >
-   >Sie können auch [Gruppenberichte Ihrer Person nach Personen- oder Firmenattribut gruppieren](/help/marketo/product-docs/reporting/basic-reporting/report-activity/group-person-reports-by-attribute.md).
+   >Sie können auch [Ihre Personenberichte nach Person oder Unternehmensattribut gruppieren](/help/marketo/product-docs/reporting/basic-reporting/report-activity/group-person-reports-by-attribute.md).
 
-1. Im **Personen gruppieren nach** Geben Sie im Textfeld &quot;Segmentierung&quot;ein. Wenn die **Segmentierungen** angezeigt wird, wählen Sie eine aus der Liste unter der Überschrift aus.
+1. Geben Sie im Dialogfeld **Personen nach** gruppieren im Textfeld &quot;Segmentierung&quot;ein. Wenn die Überschrift **Segmentierungen** angezeigt wird, wählen Sie eine aus der Liste unter der Überschrift aus.
 
    ![](assets/image2017-3-28-9-3a25-3a55.png)
 
-1. Klicken Sie auf **Bericht** um den Bericht nach dem ausgewählten Segment gruppiert anzuzeigen.
+1. Klicken Sie auf die Registerkarte **Bericht** , um den Bericht nach dem ausgewählten Segment gruppiert anzuzeigen.
 
    ![](assets/image2017-3-28-9-3a26-3a13.png)
 

@@ -19,15 +19,15 @@ In &quot;Umsatz-Cycle Analytics&quot;können Berichte zu benutzerdefinierten Mar
 >
 >**Erforderliche Administratorberechtigungen**
 
-1. Navigieren Sie zu **Admin** Abschnitt.
+1. Wechseln Sie zum Abschnitt **Admin** .
 
    ![](assets/image2014-9-19-9-3a51-3a11.png)
 
-1. Auswählen **Umsatzzyklusanalysen**.
+1. Wählen Sie **Umsatzzyklusanalysen** aus.
 
    ![](assets/image2014-9-19-9-3a51-3a19.png)
 
-1. Klicken Sie auf **Benutzerdefinierte Feldsynchronisierung** und wählen Sie den gewünschten Analysebereich aus.
+1. Klicken Sie auf die Registerkarte **Benutzerdefinierte Feldsynchronisierung** und wählen Sie den gewünschten Analysebereich aus.
 
    ![](assets/image2014-9-19-9-3a51-3a26.png)
 
@@ -35,11 +35,11 @@ In &quot;Umsatz-Cycle Analytics&quot;können Berichte zu benutzerdefinierten Mar
 
    ![](assets/image2014-9-19-9-3a51-3a36.png)
 
-1. Ändern Sie die **Synchronisierungsstatus** nach **Aktiviert**.
+1. Ändern Sie den **Synchronisierungsstatus** in **Aktiviert**.
 
    ![](assets/image2014-9-19-9-3a51-3a45.png)
 
-1. Wählen Sie die **RCA-Typ** Klicken Sie auf **Speichern**.
+1. Wählen Sie den **RCA-Typ** Ihrer Wahl aus und klicken Sie dann auf **Speichern**.
 
    ![](assets/image2014-9-19-9-3a51-3a52.png)
 

@@ -15,11 +15,11 @@ ht-degree: 12%
 
 Wenn Sie Marketo Sales Insight nicht verwenden, kann Marketo Engage für bestimmte Ereignisse Salesforce Activity History Records erstellen. So können sie aktiviert werden.
 
-1. Navigieren Sie zu **[!UICONTROL Admin]**.
+1. Wechseln Sie zu **[!UICONTROL Admin]**.
 
    ![](assets/admin.png)
 
-1. Klicks **[!DNL Salesforce]** Klicken Sie auf **[!UICONTROL Synchronisierungsoptionen bearbeiten]**.
+1. Klicken Sie auf **[!DNL Salesforce]** und dann auf **[!UICONTROL Synchronisierungsoptionen bearbeiten]**.
 
    ![](assets/two-1.png)
 
@@ -29,7 +29,7 @@ Wenn Sie Marketo Sales Insight nicht verwenden, kann Marketo Engage für bestimm
 
    >[!NOTE]
    >
-   >Nach der Aktivierung wird Marketo den Aktivitätsverlauf über einen Zeitraum von drei Monaten nachverfolgen. Je nach Datenmenge _Dies kann mehrere Tage dauern_. Aktualisierungen, die während der ersten Aktivitäts-Push-Benachrichtigung auftreten, können bis zum Abschluss der ersten Aktivitätensynchronisierung verzögert sein.
+   >Nach der Aktivierung wird Marketo den Aktivitätsverlauf über einen Zeitraum von drei Monaten nachverfolgen. Je nach Datenmenge kann _es mehrere Tage dauern, bis_ abgeschlossen ist. Aktualisierungen, die während der ersten Aktivitäts-Push-Benachrichtigung auftreten, können bis zum Abschluss der ersten Aktivitätensynchronisierung verzögert sein.
 
 <table> 
  <colgroup> 
@@ -44,7 +44,7 @@ Wenn Sie Marketo Sales Insight nicht verwenden, kann Marketo Engage für bestimm
  </thead> 
  <tbody> 
   <tr> 
-   <td>Hat Formular ausgefüllt</td> 
+   <td>Ausgefülltes Formular</td> 
    <td>Marketo-Formular ausfüllen</td> 
   </tr> 
   <tr> 
@@ -72,15 +72,15 @@ Wenn Sie Marketo Sales Insight nicht verwenden, kann Marketo Engage für bestimm
    <td>Flussschritt: wurde aus einer statischen Liste entfernt</td> 
   </tr> 
   <tr> 
-   <td>Aus Fluss entfernen</td> 
+   <td>Aus Flow entfernen</td> 
    <td>Flussschritt: Aus Fluss entfernen</td> 
   </tr> 
   <tr> 
-   <td>Vertriebs-E-Mail gesendet</td> 
+   <td>Verkaufs-E-Mail gesendet</td> 
    <td>Wurde über Marketo Sales Insight per E-Mail versendet</td> 
   </tr> 
   <tr> 
-   <td>Vertriebs-E-Mail geöffnet</td> 
+   <td>Verkaufs-E-Mail geöffnet</td> 
    <td>Öffnen einer E-Mail, die über Marketo Sales Insight gesendet wurde</td> 
   </tr> 
   <tr> 
@@ -88,7 +88,7 @@ Wenn Sie Marketo Sales Insight nicht verwenden, kann Marketo Engage für bestimm
    <td>Auf einen Link in einer E-Mail geklickt, die über Marketo Sales Insight gesendet wurde</td> 
   </tr> 
   <tr> 
-   <td>Vertriebs-E-Mail empfangen</td> 
+   <td>Verkaufs-E-Mail empfangen</td> 
    <td>Eine E-Mail wurde vom Vertriebsmitarbeiter im MSI Outlook-Plugin empfangen und protokolliert</td> 
   </tr> 
  </tbody> 
@@ -96,8 +96,8 @@ Wenn Sie Marketo Sales Insight nicht verwenden, kann Marketo Engage für bestimm
 
 >[!NOTE]
 >
->&quot;E-Mail-Empfang für Vertrieb&quot; _not_ Mittelwert bereitgestellt. Der Status Zugestellt wird nicht für E-Mails erfasst, die über Sales Insight gesendet werden.
+>&quot;E-Mail zum Verkauf empfangen&quot;bedeutet nicht _, dass gesendet wird._ Der Status Zugestellt wird nicht für E-Mails erfasst, die über Sales Insight gesendet werden.
 
 >[!TIP]
 >
->Wenn Sie mehr Marketo-Informationen in Salesforce erhalten möchten, besuchen Sie unsere [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} Produkt.
+>Wenn Sie weitere Marketo-Informationen in Salesforce erhalten möchten, sehen Sie sich unser Produkt [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} an.

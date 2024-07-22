@@ -17,17 +17,17 @@ Verschieben Sie eine Smart-Kampagne zwischen verschiedenen Programmen oder Ordne
 
 >[!CAUTION]
 >
->Da sich die Regeln nicht ändern, müssen Sie diese Informationen, wenn die Smart List- oder Flow-Schritte der Kampagne auf das ursprüngliche Programm verweisen, manuell aktualisieren, um das neue Programm widerzuspiegeln. _not_ automatische Aktualisierung.
+>Da sich die Regeln nicht ändern, müssen Sie diese Informationen manuell aktualisieren, wenn die intelligenten Listen- oder Flussschritte der Kampagne auf das ursprüngliche Programm verweisen, da sie das neue Programm widerspiegeln, da dies durch die automatische Aktualisierung von _nicht_ verursacht wird.
 
-1. Navigieren Sie zu **[!UICONTROL Marketingaktivitäten]**.
+1. Wechseln Sie zu **[!UICONTROL Marketingaktivitäten]**.
 
    ![](assets/move-a-smart-campaign-1.png)
 
-1. Suchen Sie die zu verschiebende Smart-Kampagne, klicken Sie mit der rechten Maustaste darauf und wählen Sie **[!UICONTROL Verschieben]**.
+1. Suchen Sie die zu verschiebende Smart-Kampagne, klicken Sie mit der rechten Maustaste darauf und wählen Sie **[!UICONTROL Verschieben]** aus.
 
    ![](assets/move-a-smart-campaign-2.png)
 
-1. Wählen Sie die **[!UICONTROL nach]** (Bestimmungsort), **[!UICONTROL Programm]**, und optional **[!UICONTROL Ordner]**. Auswählen **[!UICONTROL Verschieben]**.
+1. Wählen Sie die Optionen **[!UICONTROL bis]** (Ziel), **[!UICONTROL Programm]** und optional **[!UICONTROL Ordner]** aus. Wählen Sie **[!UICONTROL Verschieben]** aus.
 
    ![](assets/move-a-smart-campaign-3.png)
 

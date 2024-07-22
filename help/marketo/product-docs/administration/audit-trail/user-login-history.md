@@ -6,8 +6,8 @@ exl-id: 4ae3f755-28af-48b5-abe1-377c6952d00a
 feature: Audit Trail
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 5%
+source-wordcount: '179'
+ht-degree: 2%
 
 ---
 
@@ -23,21 +23,21 @@ Der User Login History identifiziert Personen, die sich anmelden über:
 
 * Anmeldungszeit und -datum
 * Name und E-Mail-Adresse des Benutzers
-* Rolle
+* Role
 * Arbeitsbereich
 * IP-Adresse
 
 So zeigen Sie den Verlauf der Benutzeranmeldung an:
 
-1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
+1. Wechseln Sie zum Bereich **[!UICONTROL Admin]** .
 
    ![](assets/user-login-history-1.png)
 
-1. Klicken Sie unter &quot;Sicherheit&quot;auf **[!UICONTROL Benutzer und Rollen]**.
+1. Klicken Sie unter &quot;Security&quot;auf **[!UICONTROL Users &amp; Roles]**.
 
    ![](assets/user-login-history-2.png)
 
-1. Klicken Sie auf **[!UICONTROL Anmeldeverlauf]** Registerkarte. Die Liste enthält die neuesten Anmeldedaten.
+1. Klicken Sie auf die Registerkarte **[!UICONTROL Anmeldeverlauf]** . Die Liste enthält die neuesten Anmeldedaten.
 
    ![](assets/user-login-history-3.png)
 
@@ -53,15 +53,15 @@ So zeigen Sie den Verlauf der Benutzeranmeldung an:
 
    ![](assets/user-login-history-6.png)
 
-1. Wählen Sie die Benutzer aus dem **[!UICONTROL Benutzer]** angezeigt.
+1. Wählen Sie die Benutzer aus der Dropdownliste **[!UICONTROL Benutzer]** aus.
 
    ![](assets/user-login-history-7.png)
 
-1. Überprüfen Sie die **[!UICONTROL Nur fehlgeschlagene Anmeldungen]** , um nur fehlgeschlagene Anmeldungen bei der Suche anzuzeigen.
+1. Aktivieren Sie die Option **[!UICONTROL Nur fehlgeschlagene Anmeldungen]** , um nur fehlgeschlagene Anmeldungen bei der Suche anzuzeigen.
 
    ![](assets/user-login-history-8.png)
 
-1. Klicks **[!UICONTROL Anwenden]**.
+1. Klicken Sie auf **[!UICONTROL Anwenden]**.
 
    ![](assets/user-login-history-9.png)
 

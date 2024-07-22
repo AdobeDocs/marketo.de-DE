@@ -17,7 +17,7 @@ Es gibt zwei Möglichkeiten, die Größe sowohl der Feldbeschriftungsbreite als 
 
 ## Breite ziehen und ablegen {#drag-and-drop-the-width}
 
-1. Im [Formular-Editor](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md)wählen Sie das Feld aus, dessen Größe Sie ändern möchten.
+1. Wählen Sie im [Formular-Editor](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md) das Feld aus, dessen Größe Sie ändern möchten.
 
    ![](assets/image2014-9-15-15-3a24-3a0.png)
 
@@ -35,4 +35,4 @@ Es gibt zwei Möglichkeiten, die Größe sowohl der Feldbeschriftungsbreite als 
 
    ![](assets/image2014-9-15-15-3a24-3a36.png)
 
-Großartig gemacht! Ziemlich einfach, nicht wahr?
+Gut gemacht! Ziemlich einfach, nicht wahr?

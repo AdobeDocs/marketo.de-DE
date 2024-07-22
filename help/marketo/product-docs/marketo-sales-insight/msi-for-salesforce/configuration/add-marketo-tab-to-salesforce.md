@@ -12,15 +12,15 @@ ht-degree: 0%
 
 # Hinzufügen der Marketo-Registerkarte zu Salesforce {#add-marketo-tab-to-salesforce}
 
-1. Klicken Sie in Salesforce auf **+** und klicken Sie auf **Benutzerdefinierte Registerkarten**.
+1. Klicken Sie in Salesforce auf **+** und klicken Sie auf **Meine Registerkarten anpassen**.
 
    ![](assets/add-marketo-tab-to-salesforce-1.png)
 
-1. Wählen Sie in der linken Liste Marketo aus. Klicken Sie anschließend auf **Hinzufügen** , um ihn zum **Ausgewählte Registerkarten**.
+1. Wählen Sie in der linken Liste Marketo aus. Klicken Sie dann auf **Hinzufügen** , um es den **ausgewählten Registerkarten** hinzuzufügen.
 
    >[!TIP]
    >
-   >Verwenden Sie die **up** und **Nach** -Pfeil, um Ihre Registerkarten neu anzuordnen.
+   >Verwenden Sie die Pfeile **Nach oben** und **Nach unten** , um Ihre Registerkarten neu anzuordnen.
 
    ![](assets/add-marketo-tab-to-salesforce-2.png)
 

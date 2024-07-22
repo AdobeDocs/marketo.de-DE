@@ -7,7 +7,7 @@ feature: Partitions
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '104'
-ht-degree: 4%
+ht-degree: 0%
 
 ---
 
@@ -23,19 +23,19 @@ Eine Personenpartition ist wie eine zweite (oder dritte) Datenbank. Eine Partiti
 >
 >[Erstellen einer Personenpartition](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"}
 
-1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
+1. Wechseln Sie zum Bereich **[!UICONTROL Admin]** .
 
    ![](assets/edit-an-existing-person-partition-1.png)
 
-1. Klicks **[!UICONTROL Arbeitsbereiche und Partitionen]**.
+1. Klicken Sie auf **[!UICONTROL Arbeitsbereiche und Partitionen]**.
 
    ![](assets/edit-an-existing-person-partition-2.png)
 
-1. Unter dem **[!UICONTROL Personen-Partitionen]** , wählen Sie die Personenpartition aus, die Sie bearbeiten möchten, und klicken Sie auf **[!UICONTROL Personenpartition bearbeiten]**.
+1. Wählen Sie auf der Registerkarte **[!UICONTROL Personenpartitionen]** die zu bearbeitende Personenpartition aus und klicken Sie auf **[!UICONTROL Personenpartition bearbeiten]**.
 
    ![](assets/edit-an-existing-person-partition-3.png)
 
-1. Benutzerpartition eingeben **[!UICONTROL Name]**, die **[!UICONTROL Arbeitsbereiche]** Sie gehören zu und klicken auf **[!UICONTROL Speichern]**.
+1. Geben Sie die Personenpartition **[!UICONTROL Name]**, die **[!UICONTROL Arbeitsbereiche]** ein, zu denen sie gehören, und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/edit-an-existing-person-partition-4.png)
 

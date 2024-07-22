@@ -17,7 +17,7 @@ Erstellen Sie umsatzbasierte Berichte mit der TAM-spezifischen Dimension &quot;S
 
 >[!NOTE]
 >
->**Dimensionen** - Attribute (dargestellt durch gelbe Punkte), die unterschiedliche Ansichten der Maßnahmen geben.
+>**Dimensionen** - Attribute (dargestellt durch gelbe Punkte), die verschiedene Ansichten der Kennzahlen liefern.
 
 ![](assets/one-2.png)
 

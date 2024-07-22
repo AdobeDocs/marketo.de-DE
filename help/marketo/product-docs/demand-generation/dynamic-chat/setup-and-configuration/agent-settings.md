@@ -2,10 +2,10 @@
 description: Agenteneinstellungen - Marketo-Dokumente - Produktdokumentation
 title: Agenteneinstellungen
 feature: Dynamic Chat
-exl-id: 792a87bb-3ff9-46fb-ac68-146d5ffa9dc5
-source-git-commit: 9834f6be3e2a89595d91d1fe51c11b8bb59b714d
+exl-id: a782ef9b-6a89-448a-8bd9-f127ceea3bf5
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '498'
 ht-degree: 2%
 
 ---
@@ -16,7 +16,7 @@ Konfigurieren Sie Ihren Kalender und legen Sie die Verfügbarkeit von Meetings/L
 
 >[!PREREQUISITES]
 >
->Vergewissern Sie sich, dass Ihren Agenten die entsprechenden [Berechtigungen](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"}.
+>Stellen Sie sicher, dass Ihren Agenten die entsprechenden [Berechtigungen](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"} gewährt wurden.
 
 ![](assets/agent-settings-1.png)
 
@@ -78,7 +78,7 @@ Legen Sie Ihre Zeitzone und die Zeit/den Wochentag fest, um Sitzungsbuchungen zu
 
 >[!TIP]
 >
->Sie können mehrere Zeitblöcke am selben Tag auswählen (z. B. Freitag von 8a-12p _und_ 1p-5p) durch Klicken auf **+** rechts.
+>Sie können mehrere Zeitblöcke am selben Tag auswählen (z. B. Freitag von 8a-12p _und_ 1p-5p), indem Sie rechts auf das Symbol **+** klicken.
 
 ## Verfügbarkeit von Live-Chat {#live-chat-availability}
 
@@ -86,12 +86,12 @@ Legen Sie Ihre Zeitzone und Zeit/Tag der Woche fest, um Live-Chats zu empfangen.
 
 ![](assets/agent-settings-5.png)
 
-Wenn Sie bei der App angemeldet sind, erhalten Sie eine In-App-Benachrichtigung über einen eingehenden Chat. Wenn Sie nicht angemeldet sind, erhalten Sie eine Browserbenachrichtigung (falls Sie [einrichten,](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}).
+Wenn Sie bei der App angemeldet sind, erhalten Sie eine In-App-Benachrichtigung über einen eingehenden Chat. Wenn Sie nicht angemeldet sind, erhalten Sie eine Browserbenachrichtigung (wenn Sie [eingerichtet haben](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}).
 
 >[!IMPORTANT]
 >
->Die [Verfügbarkeitswechsel](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#availability-toggle){target="_blank"} im Posteingang des Agenten **wird überschreiben** was Sie auf der Registerkarte &quot;Live-Chat-Verfügbarkeit&quot;eingeben. Wenn Sie also von 1p bis 5p geplant sind, aber eine kurze Pause um 3p machen müssen, müssen Sie Ihre Agenteneinstellungen nicht ändern. Der Umschalter &quot;Verfügbarkeit&quot;behält den Status, bis Sie ihn manuell ändern oder der nächste Zeitblock in Ihrer Verfügbarkeit erreicht ist.
+>Der Umschalter [Verfügbarkeit](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#availability-toggle){target="_blank"} im Agent-Posteingang **überschreibt**, was Sie auf der Registerkarte &quot;Live-Chat-Verfügbarkeit&quot;eingegeben haben. Wenn Sie also von 1p bis 5p geplant sind, aber eine kurze Pause um 3p machen müssen, müssen Sie Ihre Agenteneinstellungen nicht ändern. Der Umschalter &quot;Verfügbarkeit&quot;behält den Status, bis Sie ihn manuell ändern oder der nächste Zeitblock in Ihrer Verfügbarkeit erreicht ist.
 
 >[!TIP]
 >
->Sie können mehrere Zeitblöcke am selben Tag auswählen (z. B. Freitag von 8a-12p _und_ 1p-5p) durch Klicken auf **+** rechts.
+>Sie können mehrere Zeitblöcke am selben Tag auswählen (z. B. Freitag von 8a-12p _und_ 1p-5p), indem Sie rechts auf das Symbol **+** klicken.

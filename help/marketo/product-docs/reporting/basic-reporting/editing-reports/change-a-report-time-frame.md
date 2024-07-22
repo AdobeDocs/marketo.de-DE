@@ -15,25 +15,25 @@ ht-degree: 0%
 
 Ändern Sie den von Ihrem Bericht abgedeckten Zeitraum, um sich auf einen bestimmten Zeitpunkt der Aktivität zu konzentrieren.
 
-1. Navigieren Sie zu **Marketingaktivitäten** (oder **Analytics**).
+1. Wechseln Sie zum Bereich **Marketingaktivitäten** (oder **Analytics**).
 
    ![](assets/image2017-3-27-9-3a15-3a9.png)
 
-1. Wählen Sie Ihren Bericht in der Navigationsstruktur aus und klicken Sie auf die Schaltfläche **Einrichtung** Registerkarte.
+1. Wählen Sie Ihren Bericht in der Navigationsstruktur aus und klicken Sie auf die Registerkarte **Einrichtung** .
 
    ![](assets/image2017-3-27-9-3a57-3a56.png)
 
 1. Doppelklicken Sie auf das Zeitrahmen-Feld, das je nach Berichtstyp unterschiedlich beschriftet ist:
 
-   * **Person erstellt bei** in Personenberichten
-   * **Versanddatum** in E-Mail-Berichten
-   * **Datum der Aktivität** in allen anderen Berichten
+   * **Für** erstellte Person in Personenberichten
+   * **Gesendet-Datum**, in E-Mail-Berichten
+   * **Aktivitätsdatum**, in allen anderen Berichten
 
    ![](assets/image2017-3-27-9-3a58-3a23.png)
 
    >[!NOTE]
    >
-   >**Person erstellt bei** bezeichnet den Zeitpunkt, zu dem die Person in Ihrer Datenbank bekannt wurde.
+   >**Erstellte Person am** bezieht sich auf den Zeitpunkt, zu dem die Person in Ihrer Datenbank bekannt wurde.
 
 1. Wählen Sie den entsprechenden Zeitrahmen aus dem Dropdown-Menü aus.
 
@@ -41,11 +41,11 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Um bestimmte Daten festzulegen, wählen Sie **Benutzerdefiniert** aus dem Dropdown-Menü aus und geben Sie die Daten im **Von** und **nach** Kalenderfelder.
+   >Um bestimmte Daten festzulegen, wählen Sie **Benutzerdefiniert** aus dem Dropdown-Menü aus und geben Sie die Daten in die Kalenderfelder **Von** und **bis** ein.
 
-   Klicken Sie auf **Bericht** um den Bericht für den ausgewählten Zeitraum anzuzeigen.\
+   Klicken Sie auf die Registerkarte **Bericht** , um Ihren Bericht für den ausgewählten Zeitraum anzuzeigen.\
    ![](assets/image2017-3-27-9-3a59-3a1.png)
 
    >[!MORELIKETHIS]
    >
-   >Um Ihren Bericht nach bestimmten Personenattributen einzuschränken, können Sie [Personen in einem Bericht mit einer intelligenten Liste filtern](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md).
+   >Um Ihren Bericht nach bestimmten Personenattributen einzuschränken, können Sie Personen in einem Bericht mit einer Smart-Liste filtern](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md).[

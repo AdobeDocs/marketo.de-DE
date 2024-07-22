@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Auf was können Administratoren und Benutzer ohne Administratorrechte zugreifen?
 
-## Admin-Benutzerberechtigungen {#admin-user-permissions}
+## Administratorbenutzerberechtigungen {#admin-user-permissions}
 
-Administratoren können [Alle Vorlagen anzeigen](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md).
+Administratoren können [alle Vorlagen anzeigen](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md).
 
 ![](assets/templates.jpg)
 
-Administratoren können [Alle Kampagnen anzeigen](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md).
+Administratoren können [alle Kampagnen anzeigen](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md).
 
 ![](assets/campaigns.jpg)
 
@@ -45,13 +45,13 @@ Administratoren können Kampagnen im Namen von Benutzern stoppen.
 
    * Benutzer können Teamanalysen anzeigen
    * Benutzer können einen Drilldown in nur die Teams durchführen, denen sie angehören
-   * Benutzer können sich ihre eigenen Analysen ansehen
+   * Benutzer können ihre eigenen Analysen anzeigen
 
 * Seite &quot;Beziehungen&quot;:
 
    * Benutzer können Gruppen für alle freigeben
    * Benutzer können Gruppen nur für Teams freigeben, denen sie angehören
-   * Wenn ein Benutzer gelöscht wird, überträgt sein freigegebener Kontakt das Eigentum an den Übergeordneten Administrator, der den Benutzer gelöscht hat
+   * Wenn ein Benutzer gelöscht wird, übertragen seine freigegebenen Kontakte das Eigentum an den Master-Administrator, der den Benutzer gelöscht hat
 
 * Sales Beat - Next und Live Feed:
 
@@ -69,4 +69,4 @@ Administratoren können Kampagnen im Namen von Benutzern stoppen.
    * Benutzer können Vorlagen für alle freigeben
    * Benutzer können Vorlagen in Kategorien freigeben, die ihnen Administratoren ermöglichen
    * Wenn ein Benutzer aus einem Team entfernt wird, wird die Freigabe seiner Vorlagen für dieses Team aufgehoben
-   * Wenn ein Benutzer aus einem Team gelöscht wird, übertragen seine Vorlagen das Eigentum an den Übergeordneten Administrator, der den Benutzer gelöscht hat
+   * Wenn ein Benutzer aus einem Team gelöscht wird, übertragen seine Vorlagen das Eigentum an den Master-Administrator, der den Benutzer gelöscht hat

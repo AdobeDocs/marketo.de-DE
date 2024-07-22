@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->Sie müssen über eine [Lizenz für Marketing-Kalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"} , um diese Funktion zu nutzen.
+>Sie müssen über eine [Marketingkalenderlizenz](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"} verfügen, um diese Funktion nutzen zu können.
 
 ## Globale Überlagerung verwenden {#use-the-global-overlay}
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-10-16-4.png)
 
-1. Auswählen **[!UICONTROL Überlagerung]** in der unteren rechten Ecke.
+1. Wählen Sie unten rechts **[!UICONTROL Overlay]** aus.
 
    ![](assets/image2014-9-24-10-3a16-3a9.png)
 
@@ -39,9 +39,9 @@ ht-degree: 0%
 
 ## Verwenden eines gespeicherten Filters als Überlagerung {#use-a-saved-filter-as-an-overlay}
 
-Wenn Sie [einen Filter im Marketingkalender gespeichert hat](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md){target="_blank"}können Sie sie als Überlagerung in der Programmplanungsansicht verwenden.
+Wenn Sie [einen Filter im Marketingkalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md){target="_blank"} gespeichert haben, können Sie ihn in der Programmplanungsansicht als Überlagerung verwenden.
 
-1. Klicken Sie auf **[!UICONTROL Überlagerung]** und wählen Sie Ihre Filterdefinition aus.
+1. Klicken Sie auf das Dropdown-Menü **[!UICONTROL Überlagerung]** und wählen Sie Ihre Filterdefinition aus.
 
    ![](assets/image2014-9-24-10-3a16-3a26.png)
 
@@ -51,4 +51,4 @@ Wenn Sie [einen Filter im Marketingkalender gespeichert hat](/help/marketo/produ
 
    >[!MORELIKETHIS]
    >
-   >[Erstellen benutzerdefinierter Überlagerungen in der Programmplanungsansicht](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-custom-overlays-in-program-schedule-view.md){target="_blank"}
+   >[Erstellen benutzerdefinierter Überlagerungen in der Programmplanansicht](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-custom-overlays-in-program-schedule-view.md){target="_blank"}

@@ -1,12 +1,12 @@
 ---
-description: OA-YYY-MM-Online Advertising Marketo-Landingpage - Marketo Docs - Produktdokumentation
+description: OA-YYYY-MM-Online Advertising Marketo-Landingpage - Marketo-Dokumente - Produktdokumentation
 title: OA-YYY-MM-Online Advertising Marketo-Landingpage
 feature: Programs
-exl-id: a41b87d9-922a-4ed8-a2a4-36ef17a88ede
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: f7f17792-cc16-4a99-8683-68796770e42c
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '480'
-ht-degree: 18%
+source-wordcount: '485'
+ht-degree: 12%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 18%
 
 Dies ist ein Beispiel für ein Online-Werbe-Tracking-Programm, einschließlich einer Marketo-Landingpage mit Registrierungsformular und einem Marketo-Standardprogramm. Der Link zum Angebot kann auf der Dankeseite angezeigt, in einer Dankesemail oder in beiden.
 
-Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalten Sie vom Adobe-Account-Team oder unter [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} Seite.
+Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Programms an das Adobe-Account-Team oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} .
 
 ## Kanal-Zusammenfassung {#channel-summary}
 
@@ -23,20 +23,20 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
   <tr> 
    <th>Kanal</th> 
    <th>Status der Mitgliedschaft</th>
-   <th>Analyseverhalten</th>
+   <th>Analytics Behavior</th>
    <th>Programmtyp</th>
   </tr> 
   <tr> 
    <td>Online-Werbung</td> 
    <td>01 - Mitglied 
 <br/>02 - Interagiert - Erfolg</td>
-   <td>Inklusiv</td>
+   <td>Einschließlich</td>
    <td>Standard</td>
   </tr>
  </tbody> 
 </table>
 
-## Das Programm enthält die folgenden Assets {#program-contains-the-following-assets}
+## Das Programm enthält die folgende Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -56,12 +56,12 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
    <td>01-Email-Vielen Dank</td>
   </tr>
   <tr> 
-   <td>Landing Page</td> 
+   <td>Landingpage</td> 
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Schnellstart-LP-Vorlage</a></td>
    <td>01 - LP - Registrierung</td>
   </tr>
    <tr> 
-   <td>Landing Page</td> 
+   <td>Landingpage</td> 
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Schnellstart-LP-Vorlage</a></td>
    <td>02 - LP - Vielen Dank</td>
   </tr>
@@ -111,7 +111,7 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
 
 ![](assets/oa-yyyy-mm-online-advertising-marketo-landing-page-1.png)
 
-## Meine Token Enthalten {#my-tokens-included}
+## My Tokens Include {#my-tokens-included}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -126,7 +126,7 @@ Weitere Hilfe zur Strategie oder Hilfe bei der Anpassung eines Programms erhalte
    <td>Doppelklicken für Details  
 <br/><code><--My Content Description Here--></code> 
 <br/>Bearbeiten Sie diese Inhaltsbeschreibung auf Programmebene auf der Registerkarte My Tokens . 
-<br/>Sie werden Folgendes erfahren: 
+<br/>Sie werden Folgendes lernen: 
 <li>Aufzählungszeichen 1</li>
 <li>Aufzählungszeichen 2</li>
 <li>Aufzählungszeichen 3</li></td>
@@ -177,13 +177,13 @@ BILDSCHIRM DES PROGRAMMS
    * Erstellen von Tags in diesem Abonnement - _Empfohlen_
    * Ignorieren
 
-* **Landingpage-Vorlage mit demselben Namen**
+* **Vorlage für Einstiegsseiten mit demselben Namen**
    * Originalvorlage kopieren
-   * Zielvorlage verwenden - _Empfohlen_
+   * Verwenden Sie die Zielvorlage - _Empfohlen_
 
 * **Bilder mit demselben Namen**
    * Beide Dateien beibehalten
-   * Element in diesem Abonnement ersetzen - _Empfohlen_
+   * Ersetzen des Elements in diesem Abonnement - _Empfohlen_
 
 * **E-Mail-Vorlagen mit demselben Namen**
    * Beide Vorlagen beibehalten
@@ -198,7 +198,7 @@ BILDSCHIRM DES PROGRAMMS
 
 * Aktualisieren Sie die Vorlagen in Ihrem importierten Programm, um die derzeit verwendeten Vorlagen zu verwenden, oder aktualisieren Sie die neu importierte Vorlage entsprechend Ihrer Marke, indem Sie einen Ausschnitt oder Ihre entsprechenden Logos-/Fußzeileninformationen hinzufügen.
 
-* Verwenden Sie Programm-Tags , um Berichte nach Ihren verschiedenen Quellen der Online-Werbung zu filtern.
+* Verwenden Sie Programm-Tags , um Berichte nach Ihren verschiedenen Quellen von Online Advertising zu filtern.
 
 * Erwägen Sie, die Benennungsregel dieses Programmbeispiels zu aktualisieren, um sie an Ihre Benennungsregel anzupassen.
 
@@ -208,7 +208,7 @@ BILDSCHIRM DES PROGRAMMS
 
 >[!TIP]
 >
->Vergessen Sie nicht, die Kampagne &quot;02 - Interagiert (Programmerfolg)&quot;zu aktivieren, um den Erfolg zu verfolgen! Verwenden Sie dies _before_ Ihr Formular ist live und E-Mails werden gesendet.
+>Vergessen Sie nicht, die Kampagne &quot;02 - Interagiert (Programmerfolg)&quot;zu aktivieren, um den Erfolg zu verfolgen! Führen Sie diesen Schritt _vor_ aus, wenn Ihr Formular live ist und E-Mails gesendet werden.
 
 >[!IMPORTANT]
 >

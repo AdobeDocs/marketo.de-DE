@@ -23,11 +23,11 @@ Führen Sie diese Schritte aus, um einen Bericht zur Programmteilnahmeanalyse zu
 
    ![](assets/one.png)
 
-1. Klicks **Neu erstellen** then **Bericht**.
+1. Klicken Sie auf **Neu erstellen** und dann auf **Bericht**.
 
    ![](assets/two.png)
 
-1. Auswählen **Analyse der Programmmitgliedschaft** und klicken **OK**.
+1. Wählen Sie **Analyse der Programmmitgliedschaft** und klicken Sie auf **OK**.
 
    ![](assets/three.png)
 
@@ -47,13 +47,13 @@ Sehen Sie, wie einfach das war?
 
 ![](assets/seven.png)
 
-Sie können schnell ein Lead-Attribut hinzufügen, z. B. _Vollständiger Name_ um zu sehen, wer die Mitglieder sind.
+Sie können schnell ein Lead-Attribut wie _Vollständiger Name_ hinzufügen, um zu sehen, wer die Mitglieder sind.
 
 >[!TIP]
 >
 >Es gibt viele Lead-/Firmenattribute, aus denen Sie auswählen können. Schau sie an!
 
-1. Doppelklicken Sie auf die **Vollständiger Name** gelber Punkt.
+1. Doppelklicken Sie auf den gelben Punkt **Vollständiger Name**.
 
    ![](assets/eight.png)
 

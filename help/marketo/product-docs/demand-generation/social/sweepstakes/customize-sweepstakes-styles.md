@@ -12,17 +12,17 @@ ht-degree: 0%
 
 # Gewinnspielstile anpassen {#customize-sweepstakes-styles}
 
-Wenn Sie [Preisausschreiben erstellen](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)können Sie das Erscheinungsbild Ihrer Landingpage anpassen.
+Wenn Sie [ein Gewinnspiel erstellen](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), können Sie anpassen, wie es auf Ihrer Landingpage aussieht.
 
 >[!AVAILABILITY]
 >
 >Nicht alle Marketo Engage-Benutzer haben diese Funktion erworben. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Wechseln Sie zu **Marketingaktivitäten**.
 
 ![](assets/login-marketing-activities-1.png)
 
-1. Wählen Sie den Preisausschreiben aus und klicken Sie auf **Entwurf bearbeiten**.
+1. Wählen Sie die Gewinnspiele aus und klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/image2014-9-25-17-3a51-3a45.png)
 
@@ -38,15 +38,15 @@ Wenn Sie [Preisausschreiben erstellen](/help/marketo/product-docs/demand-generat
 
    ![](assets/image2014-9-25-17-3a52-3a37.png)
 
-   Beispiel-CSS für **Schaltfläche &quot;Enter&quot;**:
+   Beispiel-CSS für **Eingabeschaltfläche**:
    `<pre>border: 5px solid #7B68EE; background-color: purple; padding: 10px; font: 16px; color: #FFFFFF; text-align: center;</pre>`
 
-   Beispielbild für **Schaltfläche &quot;Enter&quot;**:
+   Beispielbild für **Eingabeschaltfläche**:
    `<pre>background:url(https://app.marketo.com/images/public-site/button_sign-up-now.png) no-repeat center center; width:275px; height:95px; margin:auto; display:block;</pre>` `<pre>`
 
    >[!NOTE]
    >
-   >Wenn Sie ein Bild mit Text darin verwenden, denken Sie daran, den Text aus dem **Schaltfläche &quot;Enter&quot;** Feld unter Text oben.
+   >Wenn Sie ein Bild mit Text darin verwenden, denken Sie daran, den Text aus dem Feld **Eingabetaste** unter Text oben zu entfernen.
 
 1. Bei jeder Änderung wird das Ergebnis in der Vorschau &quot;Ansicht und Bearbeiten&quot;angezeigt.
 
@@ -58,4 +58,4 @@ Wenn Sie [Preisausschreiben erstellen](/help/marketo/product-docs/demand-generat
 
    >[!MORELIKETHIS]
    >
-   >Der nächste Schritt besteht darin, [Anmelde- und Erfüllungs-E-Mails für Ihren Gewinnspiel](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).
+   >Der nächste Schritt besteht darin, Ihrem Gewinnspiel ](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md) [Anmelde- und Erfüllungs-E-Mails hinzuzufügen.

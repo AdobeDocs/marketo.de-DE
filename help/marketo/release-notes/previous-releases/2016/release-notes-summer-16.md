@@ -19,9 +19,9 @@ Die folgenden Funktionen sind in der Sommerversion 16 enthalten. Überprüfen Si
 
 Marketo Account-basiertes Marketing bietet alle wesentlichen Funktionen einer einheitlichen Plattform:
 
-* **Target** - Kontoermittlung, Übereinstimmung von Interessenten mit Konten und Namenskontenlisten
-* **Engage** - Kontobasierte Personalisierung, kanalübergreifende Interaktion und kontospezifische Workflows
-* **Maßnahme** - Insights auf Konto- und Listenebene, Interaktionsbewertung des Kontos und Auswirkungen auf Pipeline und Umsatz
+* **Ziel** - Kontoermittlung, Kontoübersicht und Namenskontenliste
+* **Interagieren** - Kontobasierte Personalization, kanalübergreifende Interaktion und kontospezifische Workflows
+* **Messen** - Insights auf Konto- und Listenebene, Interaktionsbewertung des Kontos sowie Auswirkungen auf Pipeline und Umsatz
 
 ![](assets/abm-5-acme.png)
 
@@ -39,7 +39,7 @@ Das Audit-Protokoll bietet einen umfassenden Verlauf der Änderungen, die innerh
 
 ![](assets/audit-trail.png)
 
-## [Integration von Marketo mit Vibes SMS LaunchPoint](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md) {#marketo-vibes-sms-launchpoint-integration}
+## [Marketo-Vibes SMS LaunchPoint-Integration](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md) {#marketo-vibes-sms-launchpoint-integration}
 
 Erstellen Sie einfach SMS-Nachrichten direkt in Marketo. Personalisieren und zielen Sie Ihre Nachricht mit Ihren umfangreichen Marketo-Daten ab und überwachen Sie sie einfach über das Dashboard für SMS-Nachrichten.
 
@@ -57,10 +57,10 @@ Zuvor waren alle in E-Mail 2.0-Vorlagen spezifizierten Variablen im Umfang &quot
 
 ![](assets/module-level-variables.png)
 
-**Syntaxaktualisierung**
+**Syntaxaktualisierungen**
 
 * Sie können jetzt &quot;mktoAddByDefault&quot;für Module verwenden, die in E-Mail 2.0-Vorlagen angegeben sind, um anzugeben, welche Module standardmäßig in neuen E-Mails angezeigt werden sollen. Dies ist viel bequemer, wenn Sie eine E-Mail-Vorlage mit einer großen Anzahl von Modulen erstellen.
-* Bei Bildelementen können Sie jetzt angeben, ob das zugrunde liegende `<img>` Die Eigenschaften &quot;height&quot;und &quot;width&quot;des HTML-Elements sollten für den Endbenutzer gesperrt oder bearbeitbar sein. mktoLockImgSize=&quot;true&quot; bewirkt, dass Höhe/Breite gesperrt wird (auch wenn das Bild geändert wird). Auf ähnliche Weise bewirkt mktoLockImgStyle=&quot;true&quot;, dass die Eigenschaft &quot;style&quot;gesperrt wird.
+* Bei Bildelementen können Sie jetzt angeben, ob die Eigenschaften &quot;height&quot;und &quot;width&quot;des zugrunde liegenden `<img>`-HTML-Elements für den Endbenutzer gesperrt oder bearbeitbar sein sollen. mktoLockImgSize=&quot;true&quot; bewirkt, dass Höhe/Breite gesperrt wird (auch wenn das Bild geändert wird). Auf ähnliche Weise bewirkt mktoLockImgStyle=&quot;true&quot;, dass die Eigenschaft &quot;style&quot;gesperrt wird.
 
 **Codesuche**
 
@@ -70,7 +70,7 @@ Verwenden Sie neue Suchfunktionen, um effizient Inhalte im Code Ihrer E-Mail zu 
 
 **Token-Unterstützung in Bildelementen**
 
-Token können jetzt im Bereich &quot;Externe URL&quot;des Einfügebild-Erlebnisses verwendet werden! Wenn Sie Bilder mit `{{my.tokens}}`können Sie diese Token jetzt in Email Editor 2.0 referenzieren. Beachten Sie, dass das Bild auf der Arbeitsfläche des E-Mail-Editors 2.0 weiterhin fehlerhaft angezeigt wird. Sie werden jedoch vor dem Versand Ihrer E-Mail in der Vorschau und im Beispiel gerendert.
+Token können jetzt im Bereich &quot;Externe URL&quot;des Einfügebild-Erlebnisses verwendet werden! Wenn Sie Bilder mit `{{my.tokens}}` angegeben haben, können Sie jetzt auf diese Token in Email Editor 2.0 verweisen. Beachten Sie, dass das Bild auf der Arbeitsfläche des E-Mail-Editors 2.0 weiterhin fehlerhaft angezeigt wird. Sie werden jedoch vor dem Versand Ihrer E-Mail in der Vorschau und im Beispiel gerendert.
 
 ## Mehrmarken-Domainen {#multiple-branding-domains}
 
@@ -96,7 +96,7 @@ Geben Sie eine Zeitverzögerung für Webkampagnen an, die auf Ihrer Website reag
 
 ![](assets/dialog-campaign-delay.png)
 
-## [Export von Content Analytics und Recommendations](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) {#content-analytics-and-recommendations-export}
+## [Inhaltsanalyse und Recommendations-Export](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) {#content-analytics-and-recommendations-export}
 
 Inhaltsanalysen und Empfehlungsdaten offline anzeigen.
 
@@ -110,6 +110,6 @@ Neu und noch besser!
 
 ## [Datenschutzeinstellungen](/help/marketo/product-docs/administration/settings/understanding-privacy-settings.md) {#privacy-settings}
 
-Marketingexperten können Datenschutzeinstellungen verwenden, um zu entscheiden, ob Besucher mit Munchkin- und Web-Personalisierungsfunktionen verfolgt werden. Die Tracking-Ebene wird mithilfe der Einstellung Nicht verfolgen des Browsers, eines Opt-out-Cookies oder einer unspezifischen IP-Adresse gesteuert. Diese Methoden können sich auf den Wert und die Funktionalität von Marketo in bestimmten Bereichen auswirken. Wenn der Marketing-Experte jedoch nichts ändert, bleiben die Marketo-Funktionen unverändert.
+Marketingexperten können Datenschutzeinstellungen verwenden, um zu entscheiden, ob sie Besucher mit den Funktionen Munchkin und Web Personalization verfolgen. Die Tracking-Ebene wird mithilfe der Einstellung Nicht verfolgen des Browsers, eines Opt-out-Cookies oder einer unspezifischen IP-Adresse gesteuert. Diese Methoden können sich auf den Wert und die Funktionalität von Marketo in bestimmten Bereichen auswirken. Wenn der Marketing-Experte jedoch nichts ändert, bleiben die Marketo-Funktionen unverändert.
 
 Diese Funktion wird Kunden über einen Zeitraum von sechs Wochen schrittweise zur Verfügung gestellt. Wenn Sie es sofort benötigen, wenden Sie sich an den Marketo-Support.

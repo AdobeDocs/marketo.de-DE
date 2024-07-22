@@ -16,7 +16,7 @@ Manchmal kann die E-Mail-Bot-Aktivität fälschlicherweise die Daten Ihrer E-Mai
 
 Zur Bestätigung der Bot-Aktivität werden zwei verschiedene Methoden verwendet:
 
-* Übereinstimmung mit [Bot-Liste des Interactive Advertising Bureau](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"}: Aktivitäten, die mit irgendetwas in der Liste &quot;IAB UA/IP&quot;(Benutzeragent/IP-Adresse) übereinstimmen, werden als Bots markiert.
+* Übereinstimmung mit der Bot-Liste ](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"} des interaktiven Advertising-Präsidiums: Aktivitäten, die mit irgendetwas in der IAB-UA/IP-Liste (Benutzeragent/IP-Adresse) übereinstimmen, werden als Bots markiert.[
 * Übereinstimmung mit dem Annäherungsmuster: Wenn zwei oder mehr Aktivitäten gleichzeitig stattfinden (in einer Sekunde), werden sie als Bots identifiziert. Beim Vergleich berücksichtigte Attribute sind:
    * Lead-ID (sollte identisch sein)
    * E-Mail-Asset (sollte identisch sein)
@@ -31,33 +31,33 @@ Bei der Aktivität E-Mail-Link-Klick und E-Mail-Öffnung werden neue Attribute m
 
 ## Filtertyp auswählen {#select-filter-type}
 
-1. Klicks **[!UICONTROL Admin]**.
+1. Klicken Sie auf **[!UICONTROL Admin]**.
 
    ![](assets/filtering-email-bot-activity-1.png)
 
-1. Klicks **[!UICONTROL Email]**.
+1. Klicken Sie auf **[!UICONTROL E-Mail]**.
 
    ![](assets/filtering-email-bot-activity-2.png)
 
-1. Klicken Sie auf **[!UICONTROL Bot-Aktivität]** Registerkarte.
+1. Klicken Sie auf die Registerkarte **[!UICONTROL Bot Activity]** .
 
    ![](assets/filtering-email-bot-activity-3.png)
 
-1. Es gibt zwei Regler, aus denen Sie wählen können. Sie können nur eine oder beide aktivieren. Wenn Sie **[!UICONTROL Übereinstimmung mit IAB-Liste]** auswählen, ob [!UICONTROL Logbot-Aktivität] _oder_ [!UICONTROL Bot-Aktivität filtern].
+1. Es gibt zwei Regler, aus denen Sie wählen können. Sie können nur eine oder beide aktivieren. Wenn Sie **[!UICONTROL Übereinstimmung mit IAB-Liste]** aktivieren, wählen Sie aus, ob die [!UICONTROL log bot activity] _oder_ [!UICONTROL filter bot activity] gefiltert werden soll.
 
    ![](assets/filtering-email-bot-activity-4.png)
 
-1. Wenn Sie **[!UICONTROL Übereinstimmung mit Näherungsmuster]** auswählen, ob [!UICONTROL Logbot-Aktivität] _oder_ [!UICONTROL Bot-Aktivität filtern]. Sie können auch die Dauer von Sekunden für **Aktivitätsdauer** (Standard ist 0, max. 3).
+1. Wenn Sie **[!UICONTROL Übereinstimmung mit dem Nähe-Muster]** aktivieren, wählen Sie aus, ob die [!UICONTROL log bot activity] _oder_ [!UICONTROL filter bot activity] gefiltert werden soll. Sie können auch die Dauer von Sekunden für **Aktivitäten zwischen** festlegen (Standard ist 0, max. 3).
 
    ![](assets/filtering-email-bot-activity-5.png)
 
 >[!NOTE]
 >
->Mit **Aktivitätsdauer** auf 0 Sekunden eingestellt ist, identifizieren wir E-Mail-Aktivitäten, die genau zur gleichen Sekunde stattfinden. Wenn innerhalb der festgelegten Dauer mehrere E-Mail-Aktivitäten stattfinden, wird dies als Bot-Aktivität identifiziert.
+>Wenn die **Dauer zwischen Aktivitäten** auf 0 Sekunden eingestellt ist, identifizieren wir E-Mail-Aktivitäten, die genau zur selben Sekunde stattfinden. Wenn innerhalb der festgelegten Dauer mehrere E-Mail-Aktivitäten stattfinden, wird dies als Bot-Aktivität identifiziert.
 
 >[!IMPORTANT]
 >
->* Wenn Sie [!UICONTROL Bot-Aktivität filtern]kann es zu einem Rückgang bei E-Mail-Öffnungen und Klicks kommen, da falsche Aktivitäten ausgeschaltet werden.
+>* Wenn Sie [!UICONTROL Bot-Aktivität filtern] auswählen, wird möglicherweise ein Rückgang bei E-Mail-Öffnungen und Klicks angezeigt, da falsche Aktivitäten ausgeschaltet werden.
 
 **OPTIONALER SCHRITT**: Um eine der Funktionen zu deaktivieren, deaktivieren Sie einfach den entsprechenden Schieberegler. Wenn Sie dies tun, werden die Daten nicht zurückgesetzt.
 

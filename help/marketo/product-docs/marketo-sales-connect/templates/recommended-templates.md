@@ -6,7 +6,7 @@ exl-id: 77356b26-ac9d-47c3-8547-1ab1009f6ca6
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '325'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ Die empfohlenen Vorlagen von Sales Connect helfen Ihnen dabei, die richtigen Nac
 
 1. Gehen Sie in den Tab Vorlagen .
 
-1. Wählen Sie die zu empfehlende Vorlage aus und klicken Sie auf **Bearbeiten**.
+1. Wählen Sie die Vorlage aus, die Sie empfehlen möchten, und klicken Sie auf **Bearbeiten**.
 
-1. So aktivieren Sie die Funktion &quot;Empfohlene Vorlage&quot;für Ihre Vorlage **Diese Vorlage automatisch vorschlagen, wenn**.
+1. Um die Funktion &quot;Empfohlene Vorlage&quot;für Ihre Vorlage zu aktivieren, aktivieren Sie die Option **Diese Vorlage automatisch vorschlagen, wenn** aktiv ist.
 
 ## Alle vs. Beliebige {#all-vs-any}
 
-Jetzt ist es an der Zeit, Ihre Kriterieneinstellungen auszuwählen. Auswählen **Alle** , wenn Sie möchten, dass Ihre Vorlage empfohlen wird, wenn alle Kriterien erfüllt sind. Auswählen **Alle** , wenn Sie möchten, dass Ihre Vorlage empfohlen wird, wenn eines der Kriterien erfüllt ist.
+Jetzt ist es an der Zeit, Ihre Kriterieneinstellungen auszuwählen. Wählen Sie **Alle** aus, wenn Sie möchten, dass Ihre Vorlage empfohlen wird, wenn alle Kriterien erfüllt sind. Wählen Sie **Beliebig** aus, wenn Sie möchten, dass Ihre Vorlage empfohlen wird, wenn eines der Kriterien erfüllt ist.
 
 ## Festlegen von Kriterien {#setting-criteria}
 
@@ -33,11 +33,11 @@ Ihre Kriterien werden die Bedingungen festlegen, für die Vorlagen empfohlen wer
 
 Wählen Sie nun Ihre Bedingung aus. Wenn Ihre Bedingungen für Ihr dynamisches Feld erfüllt sind, wird die Vorlage empfohlen. Wählen Sie aus 4 verschiedenen Bedingungen.
 
-**Gleich**: Wert muss eine exakte Übereinstimmung sein (z. B. Marketo ist Marketo).
+**Gleich**: Der Wert muss eine exakte Übereinstimmung sein (z. B. Marketo gleich Marketo)
 
-**Does not Equal**: Wert muss alles andere als eine exakte Übereinstimmung sein (z. B. Marketing Nation ist nicht gleich Marketing)
+**Does not equal**: Der Wert muss alles andere als eine exakte Übereinstimmung sein (z. B. Marketing Nation ist nicht gleich Marketing)
 
-**Enthält**: Nur muss den Wert enthalten (z. B. Marketo Rocks! enthält Marketo)
+**Enthält**: Nur den Wert (z. B. Marketo Rocks! enthält Marketo)
 
 **Enthält nicht**: Der Wert darf sich nicht im dynamischen Feld befinden (z. B. Marketo Rocks! enthält nicht Awesome)
 

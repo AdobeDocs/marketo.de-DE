@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Wenn Sie Facebook Lead Ads aktiviert haben, können Sie sie in Ihren Smart-Kampagnen verwenden, um den Programmerfolg zu sehen. Wenn Personen ihre Informationen in einer Facebook-Lead-Anzeigeneinheit senden, werden die Informationen sofort an Marketo gesendet.
 
-1. Verwenden Sie die **Füllen Sie das Lead Ads-Formular aus** Filter oder Trigger.
+1. Verwenden Sie den Filter oder Trigger **Füllt die Lead-Anzeigen-Formular aus** .
 
    ![](assets/image2016-8-5-11-3a18-3a31.png)
 

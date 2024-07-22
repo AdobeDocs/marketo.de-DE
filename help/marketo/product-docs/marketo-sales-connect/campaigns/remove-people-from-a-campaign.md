@@ -21,7 +21,7 @@ Darüber hinaus können Sie Personen aus der Kampagne selbst entfernen, Personen
 
 ## Person direkt aus einer Kampagne entfernen {#remove-a-person-directly-from-a-campaign}
 
-1. Klicken Sie in Sales Connect auf die **Kampagnen** Registerkarte.
+1. Klicken Sie in Sales Connect auf die Registerkarte **Kampagnen** .
 
    ![](assets/one.png)
 
@@ -37,13 +37,13 @@ Darüber hinaus können Sie Personen aus der Kampagne selbst entfernen, Personen
 
    ![](assets/four.png)
 
-1. (OPTIONALER SCHRITT) Sie können auch mehrere Personen gleichzeitig entfernen, indem Sie auf die Kontrollkästchen neben ihrem Namen klicken und auf **Entfernen** Schaltfläche oben.
+1. (OPTIONALER SCHRITT) Sie können auch mehrere Personen gleichzeitig entfernen, indem Sie auf die Kontrollkästchen neben ihrem Namen klicken und oben auf die Schaltfläche **Entfernen** klicken.
 
    ![](assets/five.png)
 
 ## Entfernen einer Person aus einer Kampagne auf der Seite &quot;Personen&quot; {#remove-a-person-from-a-campaign-within-the-people-page}
 
-1. Klicken Sie in Sales Connect auf die **Personen** Registerkarte.
+1. Klicken Sie in Sales Connect auf die Registerkarte **Personen** .
 
    ![](assets/one-a.png)
 
@@ -51,17 +51,17 @@ Darüber hinaus können Sie Personen aus der Kampagne selbst entfernen, Personen
 
    ![](assets/two-a.png)
 
-1. Das Bedienfeld &quot;Personendetailansicht&quot;wird rechts geöffnet. Klicken Sie auf **Geschichte** , gefolgt von **Entfernen** Schaltfläche.
+1. Das Bedienfeld &quot;Personendetailansicht&quot;wird rechts geöffnet. Klicken Sie auf die Registerkarte **Verlauf** und dann auf die Schaltfläche **Entfernen** .
 
    ![](assets/three-a.png)
 
 ## Eine Personengruppe aus einer Kampagne entfernen {#remove-a-group-of-people-from-a-campaign}
 
-1. Klicken Sie in Sales Connect auf die **Personen** Registerkarte.
+1. Klicken Sie in Sales Connect auf die Registerkarte **Personen** .
 
    ![](assets/one-b.png)
 
-1. Suchen und Auswählen Ihrer Gruppe unter **Meine Gruppen**.
+1. Suchen und wählen Sie Ihre Gruppe unter **Meine Gruppen** aus.
 
    ![](assets/two-b.png)
 
@@ -69,6 +69,6 @@ Darüber hinaus können Sie Personen aus der Kampagne selbst entfernen, Personen
 
    ![](assets/three-b.png)
 
-1. Klicken **Aktionen** und wählen Sie **Auswahl aus Kampagne entfernen**.
+1. Klicken Sie auf **Aktionen** und wählen Sie **Auswahl aus Kampagne entfernen**.
 
    ![](assets/four-b.png)

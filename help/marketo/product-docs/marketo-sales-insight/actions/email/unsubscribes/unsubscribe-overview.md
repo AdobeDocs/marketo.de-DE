@@ -14,10 +14,10 @@ ht-degree: 0%
 
 Es wird immer wichtiger, dass Unternehmen die Datenschutzgesetze für E-Mails einhalten. Um Ihnen dabei zu helfen, haben wir unsere Abmeldeerfahrung verbessert.
 
-* Abmelde-Links werden in allen E-Mails platziert, die von Marketo Sales und Salesforce gesendet werden (dies gilt nicht für benutzerdefinierte E-Mails, die von Outlook oder Gmail gesendet werden).
-* Administratoren können Abmelde-Nachrichten für ihr gesamtes Team bearbeiten
+* Abmelde-Links werden in allen E-Mails platziert, die von Marketo Sales und Salesforce gesendet werden (dies gilt nicht für von Outlook oder Gmail gesendete benutzerdefinierte E-Mails).
+* Administratoren können die Abmelde-Nachrichten für ihr gesamtes Team bearbeiten
 * Abmeldeinformationen werden in PDV gespeichert.
-* Abmeldungen können manuell vorgenommen werden: Klicks auf Link, Salesforce Sync und Bounce
+* Abmeldungen können manuell vorgenommen werden: angeklickter Link, Salesforce-Synchronisation und Bounce
 * Neue Landingpage für Abmelde-Links
 
 ## Abmelde-Link-Landingpage {#unsubscribe-link-landing-page}
@@ -48,7 +48,7 @@ Die Karte Verlauf der Abmeldung hilft Administratoren und Benutzern, kontextbezo
 
 >[!NOTE]
 >
->Die Karte Verlauf des Abonnements abmelden wird nur dann angezeigt, wenn die Person _resubscribed_ zu einem bestimmten Zeitpunkt.
+>Es gibt nur dann die Karte Verlauf des Abonnements abmelden , wenn die Person irgendwann _resubscribed_ hat.
 
 ![](assets/unsubscribe-overview-5.png)
 
@@ -64,11 +64,11 @@ Die Karte Verlauf der Abmeldung hilft Administratoren und Benutzern, kontextbezo
   </tr> 
   <tr> 
    <td><strong>Details</strong></td> 
-   <td><p>Neu anmelden: Ein Sales Connect-Administrator hat die Abmeldung manuell aus dem Kontaktdatensatz entfernt. Es können auch einige Details angezeigt werden, die darauf hinweisen, warum sich der Kontakt abgemeldet hat.</p><p>Abmelden: Der Kontakt wurde abgemeldet.</p></td> 
+   <td><p>Neu anmelden: Ein Sales Connect-Administrator hat die Abmeldung manuell aus dem Kontaktdatensatz entfernt. Es können auch einige Details angezeigt werden, die darauf hinweisen, warum sich der Kontakt abgemeldet hat.</p><p>Abmeldung: Der Kontakt wurde abgemeldet.</p></td> 
   </tr> 
   <tr> 
    <td><strong>Quelle</strong></td> 
-   <td><p>Salesforce Sync: Die Abmeldung wurde durch eine Synchronisierung von Salesforce erfasst.</p><p>Manuell: Der Benutzer klickte auf die Abmelde-Schaltfläche, um sich abzumelden.</p><p>Angeklickter Link: Der Empfänger einer E-Mail hat auf den Abmelde-Link geklickt.</p><p>"Admin Name": Der Name eines Administrators wird angezeigt, wenn die Aktion darin bestand, Kontakte erneut anzumelden. Auf diese Weise können Benutzer wissen, wer die Abmeldung entfernt hat.</p></td> 
+   <td><p>Salesforce Sync: Die Abmeldung wurde durch eine Synchronisation von Salesforce erfasst.</p><p>Manuell: Der Benutzer hat zum Abmelden auf die Schaltfläche zum Abmelden geklickt.</p><p>Angeklickter Link: Der Empfänger einer E-Mail hat auf den Abmelde-Link geklickt.</p><p>"Administratorname": Der Name eines Administrators wird angezeigt, wenn die Aktion darin bestand, Kontakte erneut anzumelden. Auf diese Weise können Benutzer wissen, wer die Abmeldung entfernt hat.</p></td> 
   </tr> 
  </tbody> 
 </table>

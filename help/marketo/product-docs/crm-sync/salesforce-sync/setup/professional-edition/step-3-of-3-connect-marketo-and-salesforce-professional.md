@@ -6,7 +6,7 @@ exl-id: a35e22ef-6378-45e0-be7e-687b0832ecf3
 feature: Salesforce Integration
 source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ In diesem Artikel konfigurieren Sie Marketo Engage so, dass es mit Ihrer konfigu
 
    ![](assets/image2014-12-9-9-3a52-3a42.png)
 
-1. Klicks **[!UICONTROL Sicherheits-Token zurücksetzen]**.
+1. Klicken Sie auf **[!UICONTROL Sicherheitstoken zurücksetzen]**.
 
    ![](assets/image2015-5-21-14-3a13-3a5.png)
 
@@ -42,33 +42,33 @@ In diesem Artikel konfigurieren Sie Marketo Engage so, dass es mit Ihrer konfigu
 
 ## Festlegen von Sync User Credentials {#set-sync-user-credentials}
 
-1. Navigieren Sie in Marketo zu **[!UICONTROL Admin]** auswählen **[!UICONTROL CRM]** und klicken Sie auf **[!UICONTROL Synchronisieren mit Salesforce.com]**.
+1. Navigieren Sie in Marketo zu **[!UICONTROL Admin]**, wählen Sie **[!UICONTROL CRM]** aus und klicken Sie auf **[!UICONTROL Mit Salesforce.com synchronisieren]**.
 
    ![](assets/image2014-12-9-9-3a52-3a58.png)
 
    >[!NOTE]
    >
-   >Stellen Sie sicher, [Alle nicht benötigten Felder ausblenden](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md){target="_blank"} in Marketo vom Synchronisierungsbenutzer aus, bevor auf **[!UICONTROL Synchronisierungsfelder]**. Wenn Sie auf Felder synchronisieren klicken, werden alle Felder, die dem Benutzer angezeigt werden, dauerhaft in Marketo erstellt und können nicht gelöscht werden.
+   >Stellen Sie sicher, dass Sie [alle Felder, die Sie nicht benötigen, in Marketo vor dem Synchronisierungsbenutzer ausblenden, bevor Sie auf **[!UICONTROL Felder synchronisieren]** klicken. ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md){target="_blank"} Wenn Sie auf Felder synchronisieren klicken, werden alle Felder, die dem Benutzer angezeigt werden, dauerhaft in Marketo erstellt und können nicht gelöscht werden.
 
-1. Geben Sie die Salesforce Sync User-Anmeldeinformationen ein, die in Teil 2 der Salesforce-Konfiguration erstellt wurden ([Professional](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md), [Unternehmen](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)) und klicken Sie auf **[!UICONTROL Synchronisierungsfelder]**.
+1. Geben Sie die Salesforce Sync User-Anmeldeinformationen ein, die in Teil 2 der Salesforce-Konfiguration ([Professional](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md), [Enterprise](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)) erstellt wurden, und klicken Sie auf **[!UICONTROL Sync Fields]**.
 
    ![](assets/image2014-12-9-9-3a53-3a8.png)
 
    >[!NOTE]
    >
-   >Überprüfen **[!UICONTROL Sandbox]** wenn Sie eine Marketo-Sandbox mit einer Salesforce-Sandbox synchronisieren.
+   >Aktivieren Sie **[!UICONTROL Sandbox]** , wenn Sie eine Marketo-Sandbox mit einer Salesforce-Sandbox synchronisieren.
 
-1. Lesen Sie die Warnung und klicken Sie dann auf **[!UICONTROL Anmeldeinformationen bestätigen]**.
+1. Lesen Sie die Warnung und klicken Sie dann auf **[!UICONTROL Anmeldedaten bestätigen]**.
 
    ![](assets/image2014-12-9-9-3a53-3a16.png)
 
    >[!CAUTION]
    >
-   >Wenn Sie die [Zuordnungen erstellen und anpassen](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/edit-initial-field-mappings.md){target="_blank"}, dies ist Ihre einzige Chance, dies zu tun! Nachdem Sie auf Salesforce Sync starten geklickt haben, ist es fertig.
+   >Wenn Sie die [Zuordnungen betrachten und anpassen](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/edit-initial-field-mappings.md){target="_blank"} möchten, ist dies Ihre einzige Chance! Nachdem Sie auf Salesforce Sync starten geklickt haben, ist es fertig.
 
 ## Salesforce-Synchronisierung starten {#start-salesforce-sync}
 
-1. Klicks **[!UICONTROL Salesforce Sync starten]** , um die permanente Marketo-Salesforce-Synchronisation zu starten.
+1. Klicken Sie auf **[!UICONTROL Salesforce-Synchronisation starten]** , um die beständige Marketo-Salesforce-Synchronisation zu starten.
 
    ![](assets/image2014-12-9-9-3a53-3a24.png)
 
@@ -76,7 +76,7 @@ In diesem Artikel konfigurieren Sie Marketo Engage so, dass es mit Ihrer konfigu
    >
    >Marketo deaktiviert das Duplizieren nicht automatisch für eine Salesforce-Synchronisation oder wenn Sie Leads manuell eingeben.
 
-1. Klicks **[!UICONTROL Synchronisierung starten]**.
+1. Klicken Sie auf **[!UICONTROL Synchronisation starten]**.
 
    ![](assets/image2014-12-9-9-3a53-3a32.png)
 
@@ -88,11 +88,11 @@ In diesem Artikel konfigurieren Sie Marketo Engage so, dass es mit Ihrer konfigu
 
 Marketo stellt Statusmeldungen für die Salesforce-Synchronisation im Admin-Bereich bereit. Sie können überprüfen, ob die Synchronisierung ordnungsgemäß funktioniert, indem Sie die folgenden Schritte ausführen.
 
-1. Klicken Sie in Marketo auf **[!UICONTROL Admin]**, dann **Salesforce**.
+1. Klicken Sie in Marketo auf **[!UICONTROL Admin]** und dann auf **Salesforce**.
 
    ![](assets/image2014-12-9-9-3a53-3a40.png)
 
-1. Der Synchronisierungsstatus wird oben rechts angezeigt. Es wird eine von drei Nachrichten angezeigt: **[!UICONTROL Zuletzt synchronisiert]**, **[!UICONTROL Synchronisierung läuft]** oder **[!UICONTROL Fehlgeschlagen]**.
+1. Der Synchronisierungsstatus wird oben rechts angezeigt. Es wird eine von drei Meldungen angezeigt: **[!UICONTROL Zuletzt synchronisiert]**, **[!UICONTROL Synchronisation läuft]** oder **[!UICONTROL Fehlgeschlagen]**.
 
    ![](assets/image2014-12-9-9-3a53-3a50.png)
 

@@ -5,7 +5,7 @@ exl-id: 0efb3e85-cc75-4810-bc67-05127f44e012
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '222'
 ht-degree: 0%
 
 ---
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 Führen Sie die Schritte in diesem Artikel aus, um Ihren Sales Insight Actions-Benutzern Zugriff auf die Marketo-Verbindung zu gewähren. Dadurch werden Funktionen wie interessante Momente im Live-Feed und der Zugriff auf Marketing-Kampagnen freigeschaltet.
 
-Sie müssen Benutzer einladen, [Sales Insight-Aktionen](/help/marketo/product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md#invite-users) bevor sie auf der Seite Marketo > Team Access (in Sales Insight-Aktionen) angezeigt werden, auf der Zugriff auf die Marketo-Verbindung gewährt wird.
+Sie müssen Benutzer zu [Sales Insight-Aktionen](/help/marketo/product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md#invite-users) einladen, bevor sie auf der Seite Marketo > Team Access (in Sales Insight-Aktionen) angezeigt werden, auf der Zugriff auf die Marketo-Verbindung gewährt wird.
 
 >[!CAUTION]
 >
 >Warten Sie zehn Minuten, nachdem Sie Sales Insight-Aktionen mit Marketo verbunden haben, bevor Sie diese Schritte ausführen.
 
-1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen**.
+1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
 
    ![](assets/grant-marketo-access-to-users-1.png)
 
@@ -28,7 +28,7 @@ Sie müssen Benutzer einladen, [Sales Insight-Aktionen](/help/marketo/product-do
 
    ![](assets/grant-marketo-access-to-users-2.png)
 
-1. Klicken Sie auf **Benutzerzugriff** Registerkarte. Wählen Sie einen oder mehrere Benutzer aus und klicken Sie auf **Verbinden**.
+1. Klicken Sie auf die Registerkarte **Benutzerzugriff**. Wählen Sie einen oder mehrere Benutzer aus und klicken Sie dann auf **Verbinden**.
 
    ![](assets/grant-marketo-access-to-users-3.png)
 
@@ -40,11 +40,11 @@ Sie müssen Benutzer einladen, [Sales Insight-Aktionen](/help/marketo/product-do
 
    ![](assets/grant-marketo-access-to-users-4.png)
 
-   **OPTIONALER SCHRITT**: Klicken Sie auf das Dropdown-Menü Arbeitsbereich und wählen Sie die gewünschten Arbeitsbereiche aus.
+   **OPTIONALER SCHRITT**: Klicken Sie auf die Dropdownliste &quot;Workspace&quot;und wählen Sie die gewünschten Arbeitsbereiche aus.
 
    ![](assets/grant-marketo-access-to-users-5.png)
 
-1. Klicks **Verbinden**.
+1. Klicken Sie auf **Verbinden**.
 
    ![](assets/grant-marketo-access-to-users-6.png)
 

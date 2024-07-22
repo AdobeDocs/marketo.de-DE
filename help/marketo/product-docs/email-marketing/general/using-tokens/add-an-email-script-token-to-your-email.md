@@ -7,19 +7,19 @@ feature: Tokens
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '171'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 # E-Mail-Skript-Token hinzufügen {#add-an-email-script-token-to-your-email}
 
-Nachdem Sie [E-Mail-Skript erstellt haben](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md), möchten Sie sie zu einer E-Mail hinzufügen, um sie in Aktion zu sehen. So geht es.
+Nachdem Sie [Ihr E-Mail-Skript erstellt haben](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md), möchten Sie es zu einer E-Mail hinzufügen, damit es in Aktion angezeigt wird. So geht es.
 
 >[!NOTE]
 >
 >Die Gesamtgröße aller Skript-Token, die in eine einzelne E-Mail eingefügt werden, darf 100 KB nicht überschreiten.
 
-1. Navigieren Sie zu **Marketingaktivitäten** Bereich.
+1. Wechseln Sie zum Bereich **Marketingaktivitäten** .
 
    ![](assets/one-2.png)
 
@@ -39,7 +39,7 @@ Nachdem Sie [E-Mail-Skript erstellt haben](/help/marketo/product-docs/email-mark
 
    ![](assets/four-2.png)
 
-1. Suchen und wählen Sie das zuvor von Ihnen erstellte E-Mail-Skript-Token aus und klicken Sie auf **Einfügen**.
+1. Suchen und wählen Sie das zuvor erstellte E-Mail-Skript-Token aus und klicken Sie auf **Einfügen**.
 
    ![](assets/five-1.png)
 
@@ -47,12 +47,12 @@ Nachdem Sie [E-Mail-Skript erstellt haben](/help/marketo/product-docs/email-mark
    >
    >Fügen Sie bei Bedarf einen Standardwert hinzu.
 
-1. Klicks **Speichern**.
+1. Klicken Sie auf **Speichern**.
 
    ![](assets/six.png)
 
 >[!NOTE]
 >
->Vergiss nicht, [E-Mail validieren](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md).
+>Vergessen Sie nicht, [die E-Mail zu genehmigen](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md).
 
 Das ist es! Wenn diese E-Mail gesendet wird, wird das Skript hinter dem Token ausgeführt und der Inhalt gefüllt.

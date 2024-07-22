@@ -5,8 +5,8 @@ exl-id: fa13ced2-6184-485f-a0ef-813ccab4f0fe
 feature: Sales Insight Actions
 source-git-commit: 350490c93d8f2bcc278f9f3e82018a1db91a1146
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '711'
+ht-degree: 1%
 
 ---
 
@@ -20,7 +20,7 @@ Für diese Funktion müssen Sie die Salesforce-Edition (Enterprise/Unlimited Edi
 >
 >Salesforce- und Sales Insight-Aktionen müssen verknüpft sein.
 
-1. Klicken Sie in &quot;Sales Insight-Aktionen&quot;auf das Zahnradsymbol und wählen Sie **Einstellungen**.
+1. Klicken Sie in Sales Insight-Aktionen auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
 
    ![](assets/salesforce-sync-settings-1.png)
 
@@ -28,7 +28,7 @@ Für diese Funktion müssen Sie die Salesforce-Edition (Enterprise/Unlimited Edi
 
    ![](assets/salesforce-sync-settings-2.png)
 
-1. Klicken Sie auf **Einstellungen synchronisieren** Registerkarte.
+1. Klicken Sie auf die Registerkarte **Einstellungen synchronisieren** .
 
    ![](assets/salesforce-sync-settings-3.png)
 
@@ -36,7 +36,7 @@ Für diese Funktion müssen Sie die Salesforce-Edition (Enterprise/Unlimited Edi
 
    ![](assets/salesforce-sync-settings-4.png)
 
-1. Klicken Sie auf **Salesforce-API** Registerkarte. Auf dieser Karte können Sie Ihre Voreinstellung für die Protokollierung von Informationen in Salesforce einrichten. Klicken **Speichern** wann geschehen.
+1. Klicken Sie auf die Registerkarte **Salesforce API** . Auf dieser Karte können Sie Ihre Voreinstellung für die Protokollierung von Informationen in Salesforce einrichten. Klicken Sie auf **Speichern**, wenn Sie fertig sind.
 
    ![](assets/salesforce-sync-settings-5.png)
 
@@ -48,9 +48,9 @@ Sobald Sie &quot;E-Mail an Salesforce (BCC)&quot; aktivieren, erhalten Sie einen
 >
 >Salesforce- und Sales Insight-Aktionen müssen verknüpft sein.
 
-**So melden Sie Ihre E-Mails in Salesforce per E-Mail (BCC) an**
+**So protokollieren Sie Ihre E-Mails in Salesforce per E-Mail (BCC)**
 
-1. Klicken Sie in Marketo Sales auf das Zahnradsymbol und wählen Sie **Einstellungen**.
+1. Klicken Sie in Marketo Sales auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
 
    ![](assets/salesforce-sync-settings-6.png)
 
@@ -58,11 +58,11 @@ Sobald Sie &quot;E-Mail an Salesforce (BCC)&quot; aktivieren, erhalten Sie einen
 
    ![](assets/salesforce-sync-settings-7.png)
 
-1. Klicken Sie auf **Einstellungen synchronisieren** Registerkarte.
+1. Klicken Sie auf die Registerkarte **Einstellungen synchronisieren** .
 
    ![](assets/salesforce-sync-settings-8.png)
 
-1. Klicken Sie auf **E-Mail an Salesforce (BCC)** Registerkarte und klicken Sie auf **Aktivieren**.
+1. Klicken Sie auf die Registerkarte **E-Mail an Salesforce (BCC)** und dann auf **Aktivieren**.
 
    ![](assets/salesforce-sync-settings-9.png)
 
@@ -70,31 +70,31 @@ Wenn Ihre E-Mail-an-Salesforce-Adresse aus irgendeinem Grund nicht erfasst wird,
 
 1. Melden Sie sich bei Ihrer Salesforce-Instanz an.
 1. Suchen Sie Ihren Benutzernamen in der oberen rechten Ecke und wählen Sie die Dropdown-Leiste aus.
-1. Auswählen **Meine Einstellungen**.
-1. Auswählen **Email**.
-1. Auswählen **Meine E-Mail an Salesforce**.
+1. Wählen Sie **Meine Einstellungen** aus.
+1. Wählen Sie **E-Mail** aus.
+1. Wählen Sie **Meine E-Mail an Salesforce** aus.
 1. Auf dieser Seite sehen Sie ein Feld mit der Bezeichnung &quot;E-Mail an Salesforce-Adresse&quot;. Wenn daneben nichts eingetragen ist, scrollen Sie nach unten zu &quot;Meine akzeptablen E-Mail-Adressen&quot;.
 1. Geben Sie die E-Mail-Adresse(n) ein, die BCC verwenden soll.
-1. Klicken **Änderungen speichern**.
+1. Klicken Sie auf **Änderungen speichern**.
 
-**Meine E-Mail an Salesforce kann in den Einstellungen nicht gefunden werden.**
+**Kann meine E-Mail an Salesforce nicht in meinen Einstellungen finden**
 
 Wenn Sie Meine E-Mail an Salesforce unter Ihren Einstellungen nicht sehen, hat Ihr Administrator sie möglicherweise nicht aktiviert. Dies kann passieren, wenn Ihr Team neu bei Salesforce ist oder Ihr Team noch nie die BCC-Adresse verwendet hat, die Salesforce bereitstellt.
 
 >[!NOTE]
 >
->Für die Einrichtung benötigen Sie Administratorrechte.
+>Sie benötigen Administratorrechte, um dies einzurichten.
 
-1. Klicken **Einrichtung**.
-1. Klicken **E-Mail-Administration**.
-1. Klicken **E-Mail an Salesforce**.
-1. Klicken **Bearbeiten**.
+1. Klicken Sie auf **Einrichten**.
+1. Klicken Sie auf **E-Mail-Administration**.
+1. Klicken Sie auf **E-Mail an Salesforce**.
+1. Klicken Sie auf **Bearbeiten**.
 1. Aktivieren Sie das Kästchen neben &quot;Aktiv&quot;.
-1. Klicken **Speichern**.
+1. Klicken Sie auf **Speichern**.
 
 ## Synchronisieren von Sales Insight-Aktionsaufgaben/-Erinnerungen mit Salesforce-Aufgaben {#sync-sales-insight-actions-tasks-reminders-to-salesforce-tasks}
 
-1. Klicken Sie in &quot;Sales Insight-Aktionen&quot;auf das Zahnradsymbol und wählen Sie **Einstellungen**.
+1. Klicken Sie in Sales Insight-Aktionen auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
 
    ![](assets/salesforce-sync-settings-10.png)
 
@@ -102,11 +102,11 @@ Wenn Sie Meine E-Mail an Salesforce unter Ihren Einstellungen nicht sehen, hat I
 
    ![](assets/salesforce-sync-settings-11.png)
 
-1. Klicken Sie auf **Einstellungen synchronisieren** Registerkarte.
+1. Klicken Sie auf die Registerkarte **Einstellungen synchronisieren** .
 
    ![](assets/salesforce-sync-settings-12.png)
 
-1. Klicken Sie auf den Pfeil neben Synchronisieren von Marketo Sales Tasks/Erinnerungen mit Salesforce-Aufgaben.
+1. Klicken Sie auf den Pfeil neben Marketo Sales Tasks/Reminders zu Salesforce Tasks synchronisieren.
 
    ![](assets/salesforce-sync-settings-13.png)
 

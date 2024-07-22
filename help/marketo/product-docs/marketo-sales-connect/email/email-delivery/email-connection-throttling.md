@@ -5,8 +5,8 @@ exl-id: 093f5459-1bbb-45dd-8590-71ea4e1168d4
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '394'
-ht-degree: 0%
+source-wordcount: '395'
+ht-degree: 1%
 
 ---
 
@@ -20,20 +20,20 @@ Durch die Einschränkung der E-Mail-Verbindung können Sales Connect-Administrat
 
 Wenn die Grenzwerte durchgängig überschritten werden, kann dies manchmal als verdächtiges Verhalten des Versandkanalanbieters betrachtet werden, das dazu führt, dass E-Mails fehlschlagen und manchmal sogar ein Konto deaktiviert wird.
 
-**Hinweise/Highlights**
+**Notizen/Highlights**
 
 * Automatisch aktiviert, sobald ein Benutzer eine Verbindung zu Gmail oder Exchange herstellt
 * Können angepasst werden, wenn Sie die Einstellungen der Empfehlung erhöhen oder verringern möchten, um Ihre Anforderungen zu erfüllen
 * Nur E-Mails, die über Gmail oder Exchange gesendet werden, werden beim benutzerdefinierten Versandkanal nicht gedrosselt
 * Die Funktion &quot;Einschränken der E-Mail-Verbindung&quot;stellt für jeden einzelnen Benutzer eine separate E-Mail-Adresse in die Warteschlange, da jeder Benutzer über eine eigene Verbindung mit seinem E-Mail-Anbieter verfügt
 
-**Konfigurieren der Einschränkungseinstellungen für E-Mail-Verbindungen**
+**Konfigurieren der Einstellungen für die Begrenzung der E-Mail-Verbindung**
 
-1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen**.
+1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
 
    ![](assets/email-connection-throttling-1.png)
 
-1. Klicken **Allgemein**.
+1. Klicken Sie auf **Allgemein**.
 
    ![](assets/email-connection-throttling-2.png)
 
@@ -45,11 +45,11 @@ Wenn die Grenzwerte durchgängig überschritten werden, kann dies manchmal als v
 
    ![](assets/email-connection-throttling-4.png)
 
-1. Klicken **Speichern**.
+1. Klicken Sie auf **Speichern**.
 
    ![](assets/email-connection-throttling-5.png)
 
-Nachdem die Änderungen gespeichert wurden, werden alle Benutzer ihre E-Mails in Batches an ihr verbundenes Gmail- oder Exchange-Konto zum Versand senden lassen.
+Nachdem die Änderungen gespeichert wurden, werden alle Benutzer ihre E-Mails in Batches an ihr verbundenes Gmail- oder Exchange-Konto zur Bereitstellung senden.
 
 ## Einschränkungen des E-Mail-Anbieters {#email-provider-limits}
 
@@ -61,7 +61,7 @@ Business/Enterprise
 * 30 pro Minute
 * 500 Empfänger pro E-Mail
 
-Weitere Informationen [finden Sie hier .](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits?redirectedfrom=MSDN#RecipientLimits).
+Weitere Informationen [finden Sie hier](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits?redirectedfrom=MSDN#RecipientLimits).
 
 **Gmail**
 
@@ -69,7 +69,7 @@ Weitere Informationen [finden Sie hier .](https://docs.microsoft.com/en-us/offic
 * 2 E-Mails pro Sekunde (API-Limit)
 * 2.000 Empfänger pro Nachricht (maximal 500 für externe Empfänger)
 
-Weitere Informationen [finden Sie hier .](https://support.google.com/a/answer/166852?hl=en).
+Weitere Informationen [finden Sie hier](https://support.google.com/a/answer/166852?hl=en).
 
 **Microsoft Exchange Server (2010, 2013)**
 

@@ -15,19 +15,19 @@ ht-degree: 6%
 
 Das Hinzufügen von Benutzern ist schnell und einfach!
 
-1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen**.
+1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
 
    ![](assets/one.png)
 
-1. Wählen Sie unter Admin Settings die Option **Benutzerverwaltung**.
+1. Wählen Sie unter &quot;Admin Settings&quot;die Option **User Management**.
 
    ![](assets/invite-team-members-2.png)
 
-1. Klicks **Benutzer einladen**.
+1. Klicken Sie auf **Benutzer einladen**.
 
    ![](assets/invite-team-members-3.png)
 
-1. Geben Sie die E-Mail-Adressen der Personen ein, die Sie hinzufügen möchten, und klicken Sie auf **Nächste**.
+1. Geben Sie die E-Mail-Adressen der Personen ein, die Sie hinzufügen möchten, und klicken Sie auf **Weiter**.
 
    ![](assets/four.png)
 
@@ -35,6 +35,6 @@ Das Hinzufügen von Benutzern ist schnell und einfach!
    >
    >Standardmäßig werden alle neuen Mitglieder zum Team Alle hinzugefügt.
 
-1. Klicks **OK**.
+1. Klicken Sie auf **OK**.
 
    ![](assets/five.png)

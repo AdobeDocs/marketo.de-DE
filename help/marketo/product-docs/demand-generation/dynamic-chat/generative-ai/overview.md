@@ -16,7 +16,7 @@ Mit generativen KI-gestützten Funktionen im Adobe Dynamic Chat können Sie die 
 
 ## Berechtigungen {#permissions}
 
-Um generative KI verwenden zu können, müssen Sie den gewünschten Benutzern die entsprechenden [Berechtigungen](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md).
+Um generative KI zu verwenden, müssen Sie den gewünschten Benutzern die entsprechenden [Berechtigungen](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md) gewähren.
 
 ![](assets/generative-ai-overview-1.png)
 
@@ -40,25 +40,25 @@ Um den vollständigen Kontext einer Besucherkonversation zu erhalten, müssen Si
 
 ## Generierung von Fragen {#question-generation}
 
-[Erhöhen eingehender Erlebnisse](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md) mit KI-gestützten Konversationen für Besucher, die eine mit Vertrieb, Marketing und Produktwissen trainierte Benutzeroberfläche verwenden.
+[ Erhöhen Sie eingehende Erlebnisse ](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md) durch KI-gestützte Konversationen für Besucher, indem Sie eine mit Vertrieb, Marketing und Produktwissen trainierte Benutzeroberfläche verwenden.
 
 ![](assets/generative-ai-overview-5.png)
 
 ## Antwortbibliothek {#response-library}
 
-[Erstellen einer benutzerdefinierten Sammlung](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) Fragen und Antworten, die alle von Ihnen vorab genehmigt wurden, zur Verwendung in generativen KI-Chat-Kampagnen.
+[Erstellen Sie eine benutzerdefinierte Sammlung von Fragen und Antworten](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md), die alle von Ihnen vorab genehmigt wurden und in generativen KI-Chat-Kampagnen verwendet werden können.
 
 ![](assets/generative-ai-overview-6.png)
 
 ## Aktivitätsprotokoll {#activity-log}
 
-[Liste aller Aufgaben anzeigen](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/activity-log.md) und die zugehörigen Details, einschließlich Name, Eigentümer, Typ und wer sie bearbeitet hat und wann.
+[Sehen Sie sich eine Liste aller Aufgaben an](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/activity-log.md) und deren Details an, einschließlich Name, Eigentümer, Typ und Benutzer, die sie bearbeitet haben, sowie Zeitpunkt.
 
 ![](assets/generative-ai-overview-7.png)
 
 ## Unbeantwortete Fragen {#unanswered-questions}
 
-[Zusätzliche vorab genehmigte Antworten erstellen](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md) für Ihre Antwortbibliothek mit AI auf Grundlage eines Repositorys mit unbeantworteten Fragen aus früheren Konversationen.
+[Erstellen Sie zusätzliche vorab genehmigte Antworten](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md) für Ihre Antwortbibliothek mithilfe von KI, die auf einem Repository mit unbeantworteten Fragen aus früheren Konversationen basiert.
 
 ![](assets/generative-ai-overview-8.png)
 
@@ -70,7 +70,7 @@ Erörterte Themen sind in Smart List-Triggern und -Filtern als Einschränkung ve
 
 >[!IMPORTANT]
 >
->Bei Verwendung der generativen KI müssen Sie sich an die [Adobe Experience Cloud Generative AI-Benutzerrichtlinien](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html) damit wir sicherstellen können, dass Adobe Experience Cloud-Funktionen, die generative KI enthalten, auf sichere und verantwortungsvolle Weise verwendet werden.
+>Bei der Verwendung von generativer KI müssen Sie die [Adobe Experience Cloud Generative AI User Guidelines](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html) befolgen, damit wir sicherstellen können, dass Adobe Experience Cloud-Funktionen mit generativer KI auf sichere und verantwortungsvolle Weise verwendet werden.
 
 ## FAQs {#faq}
 
@@ -82,6 +82,6 @@ Generative KI steht nur Dynamic Chat Prime-Abonnenten zur Verfügung. Weitere In
 
 Ja. Derzeit ist die Lebensdauer auf 1000 begrenzt.
 
-**Welche Sprachen gibt es in der generativen KI?**
+**Welche Sprachen sind in der generativen KI verfügbar?**
 
 Derzeit wird in generativen KI nur Englisch unterstützt.

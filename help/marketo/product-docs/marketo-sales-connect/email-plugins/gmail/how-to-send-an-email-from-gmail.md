@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->Die Verwendung der Funktion &quot;Rückgängig-Versand&quot;in Gmail verhindert den Versand der E-Mail bei Verwendung der Gmail-Erweiterung. Es kann jedoch dennoch eine Aktivität in der Webanwendung sowie in Salesforce angezeigt werden, wenn Sie Aktivitäten mit Salesforce protokollieren.
+>Die Verwendung der Funktion &quot;Rückgängig-Versand&quot;in Gmail verhindert den Versand der E-Mail bei Verwendung der Gmail-Erweiterung. Es kann jedoch dennoch eine Aktivität in der Webanwendung sowie in Salesforce angezeigt werden, wenn Sie Aktivitäten in Salesforce protokollieren.
 
 1. Klicken Sie in Gmail auf **Erstellen**.
 
@@ -25,4 +25,4 @@ ht-degree: 0%
 
 1. Wählen Sie eine E-Mail-Vorlage aus oder schreiben Sie eine neue Nachricht.
 
-1. Wenn Ihre E-Mail zum Senden bereit ist, klicken Sie auf das **Senden und Verbinden** Schaltfläche. Durch Klicken auf diese Schaltfläche anstelle der normalen Versandschaltfläche wird sichergestellt, dass Ihre E-Mail mit angewendetem Tracking gesendet wird. Sales Connect verfolgt, wann Ihre E-Mail geöffnet wird und wann jemand auf einen Link klickt.
+1. Wenn Ihre E-Mail zum Senden bereit ist, klicken Sie auf die Schaltfläche **Senden und Verbinden** . Durch Klicken auf diese Schaltfläche anstelle der normalen Versandschaltfläche wird sichergestellt, dass Ihre E-Mail mit angewendetem Tracking gesendet wird. Sales Connect verfolgt, wann Ihre E-Mail geöffnet wird und wann jemand auf einen Link klickt.

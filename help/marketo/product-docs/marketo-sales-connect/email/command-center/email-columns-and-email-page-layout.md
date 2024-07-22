@@ -56,7 +56,7 @@ Sie können jede der verfügbaren Spalten so konfigurieren, dass sie im E-Mail-B
    <td colspan="1">Zeigt die Gruppen an, zu denen der E-Mail-Empfänger gehört.</td> 
   </tr> 
   <tr> 
-   <td>Job-Titel</td> 
+   <td>Jobtitel</td> 
    <td>Titel des E-Mail-Empfängers.</td> 
   </tr> 
   <tr> 
@@ -122,7 +122,7 @@ Gehen Sie wie folgt vor, um Ihr Layout zu konfigurieren.
 
    ![](assets/email-columns-and-email-grid-layout-1.png)
 
-1. Wählen Sie die **E-Mails** Abschnitt.
+1. Wählen Sie den Abschnitt **E-Mails** aus.
 
    ![](assets/email-columns-and-email-grid-layout-2.png)
 

@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Als Administrator können Sie die Aufrufaufzeichnung für Ihre Sales Insight-Aktionsaufrufe aktivieren. Das Aufzeichnen der Anrufe Ihres Teams kann eine gute Möglichkeit sein, Ihre Vertriebsmitarbeiter bei den Best-Call-Verfahren zu unterstützen.
 
-1. Klicken Sie auf das Symbol Einstellungen und wählen Sie **Einstellungen**.
+1. Klicken Sie auf das Symbol Einstellungen und wählen Sie **Einstellungen** aus.
 
    ![](assets/enable-call-recording-1.png)
 
@@ -22,14 +22,14 @@ Als Administrator können Sie die Aufrufaufzeichnung für Ihre Sales Insight-Akt
 
    ![](assets/enable-call-recording-2.png)
 
-1. Wählen Sie die **Aufrufaufzeichnung aktivieren** umschalten.
+1. Wählen Sie den Umschalter **Aufrufaufzeichnung aktivieren** aus.
 
    ![](assets/enable-call-recording-3.png)
 
-1. Wenn Sie Ihren Verkäufern die Möglichkeit geben möchten, die Aufrufaufzeichnung selbst zu aktivieren oder zu deaktivieren, klicken Sie auf **Optionale Aufzeichnung für alle Teammitglieder**. Wenn alle Aufrufe automatisch aufgezeichnet werden sollen, klicken Sie auf **Aufzeichnen aller Aufrufe**.
+1. Wenn Sie Ihren Verkäufern die Möglichkeit geben möchten, die Aufrufaufzeichnung für sich selbst zu aktivieren oder zu deaktivieren, klicken Sie auf **Optionale Aufzeichnung für alle Teammitglieder**. Wenn alle Aufrufe automatisch aufgezeichnet werden sollen, klicken Sie auf **Alle Aufrufe aufzeichnen**.
 
    ![](assets/enable-call-recording-4.png)
 
 >[!MORELIKETHIS]
 >
->[Einverständniseinstellungen für zwei Parteien](/help/marketo/product-docs/marketo-sales-insight/actions/phone/two-party-consent-settings.md)
+>[Einstellungen für die Zustimmung von zwei Parteien](/help/marketo/product-docs/marketo-sales-insight/actions/phone/two-party-consent-settings.md)

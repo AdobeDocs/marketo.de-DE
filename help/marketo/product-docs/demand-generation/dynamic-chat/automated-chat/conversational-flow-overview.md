@@ -41,14 +41,14 @@ Dialoge und Konversationsflüsse weisen zwar mehrere Ähnlichkeiten auf, sind ab
   </tr>
   <tr>
    <td>Chatbot-Konversationen werden durch Dialoge unterstützt.</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Conversation Forms</a> in Marketo Engage werden von Konversationsflüssen angetrieben.</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Konversationaler Forms</a> in Marketo Engage wird von Konversationsflüssen angetrieben.</td>
   </tr>
  </tbody> 
 </table>
 
-## Registerkarte &quot;Stream-Designer&quot; {#stream-designer-tab}
+## Designer-Registerkarte streamen {#stream-designer-tab}
 
-Der Stream-Designer für Konversationsflüsse ist fast identisch mit dem für Dialogfelder. [Hier erfahren Sie alles darüber.](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}.
+Der Stream Designer for Conversational Flows ist fast identisch mit dem für Dialoge. [Hier erfahren Sie alles darüber](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}.
 
 ![](assets/conversational-flow-overview-2.png)
 
@@ -82,8 +82,8 @@ Passen Sie in der unteren Hälfte der Registerkarte Einstellungen den Trigger Ko
 
 >[!TIP]
 >
->Siehe [Konversations-SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/){target="_blank"} in Aktion!
+>Siehe [Conversations SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/){target="_blank"} in Aktion!
 
 >[!MORELIKETHIS]
 >
->[Konversationsfluss erstellen](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md){target="_blank"}
+>[Erstellen eines Konversationsflusses](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md){target="_blank"}

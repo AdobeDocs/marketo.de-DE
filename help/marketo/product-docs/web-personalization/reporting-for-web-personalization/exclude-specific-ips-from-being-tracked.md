@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Ausschließen bestimmter IPs aus der Verfolgung {#exclude-specific-ips-from-being-tracked}
 
-Möchten Sie Ihre eigenen Mitarbeiter und Organisationsnamen vom Tracking und Reporting in der Web-Personalisierung ausschließen?
+Möchten Sie Ihre eigenen Mitarbeiter und Organisationsnamen jemals aus dem Tracking und Reporting in Web Personalization ausschließen?
 
 Sie können einzelne IPs und alle oder Teile eines Bereichs von IPs ausschließen.
 
@@ -25,7 +25,7 @@ Sie können einzelne IPs und alle oder Teile eines Bereichs von IPs ausschließe
 
    ![](assets/image2014-11-19-19-3a25-3a41.png)
 
-1. Scrollen Sie nach unten zum **IP-Ausschluss** Bereich. Wenn Sie zum ersten Mal IP-Adressen ausschließen, klicken Sie auf das Feld leer **IP-Adressen ausschließen** -Feld.
+1. Scrollen Sie nach unten zum Bereich **IP exclude** . Wenn Sie zum ersten Mal IP-Adressen ausschließen, klicken Sie in das leere Feld **IP-Adressen ausschließen** .
 
    ![](assets/image2016-11-4-10-3a27-3a1.png)
 

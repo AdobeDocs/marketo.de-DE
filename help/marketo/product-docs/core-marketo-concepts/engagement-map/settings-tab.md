@@ -1,8 +1,8 @@
 ---
 description: Registerkarte "Einstellungen"- Marketo-Dokumente - Produktdokumentation
 title: Registerkarte "Einstellungen"
-exl-id: 44bb3227-4d77-47db-88ef-aafc2ddf3c74
-source-git-commit: d41324dbde32ee731b3ce9c3416888e8088a2daa
+exl-id: 622ad162-a2b1-4a37-93d8-c1dd8c6e10c8
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
 source-wordcount: '303'
 ht-degree: 1%
@@ -15,9 +15,9 @@ Auf der Registerkarte Einstellungen befinden sich alle Kampagneneinstellungen, e
 
 Er enthält die folgenden drei Abschnitte.
 
-* **Qualifikationsregeln**: Bestimmt, wie oft jede Person den Fluss Smart Campaign durchlaufen kann.
+* **Qualifikationsregeln**: Bestimmt, wie oft jede Person den Fluss der Smart-Kampagne durchlaufen kann.
 
-* **Einzelne Ausführungen**: Kann verwendet werden, um einzelne Ausführungen entweder sofort oder in Zukunft zu planen.
+* **Individuelle Ausführungen**: Kann verwendet werden, um einzelne Ausführungen entweder sofort oder in Zukunft zu planen.
 
 * **Wiederholung**: Wird verwendet, um eine tägliche, wöchentliche oder monatliche Wiederholung zu planen.
 

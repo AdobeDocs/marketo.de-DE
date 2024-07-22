@@ -6,7 +6,7 @@ feature: Custom Objects
 source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
 source-wordcount: '110'
-ht-degree: 4%
+ht-degree: 0%
 
 ---
 
@@ -18,11 +18,11 @@ Wenn Sie unsere SOAP-API oder Munchkin-API verwenden, kann das benutzerdefiniert
 >
 >Nicht alle Marketo Engage-Benutzer haben diese Funktion erworben. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).
 
-1. Navigieren Sie zum **[!UICONTROL Admin]**-Bereich.
+1. Wechseln Sie zum Bereich **[!UICONTROL Admin]** .
 
    ![](assets/custom-object-metadata-export-1.png)
 
-1. Klicks **[!UICONTROL Benutzerdefinierte Marketo-Objekte]**.
+1. Klicken Sie auf **[!UICONTROL Marketo Custom Objects]**.
 
    ![](assets/custom-object-metadata-export-2.png)
 
@@ -30,7 +30,7 @@ Wenn Sie unsere SOAP-API oder Munchkin-API verwenden, kann das benutzerdefiniert
 
    ![](assets/custom-object-metadata-export-3.png)
 
-1. Klicken Sie auf **[!UICONTROL Benutzerdefinierte Objektaktionen]** und wählen Sie **[!UICONTROL Objekt exportieren]**.
+1. Klicken Sie auf die Dropdownliste **[!UICONTROL Benutzerdefinierte Objektaktionen]** und wählen Sie **[!UICONTROL Objekt exportieren]** aus.
 
    ![](assets/custom-object-metadata-export-4.png)
 

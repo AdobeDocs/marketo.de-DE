@@ -6,8 +6,8 @@ exl-id: 780e9cb7-b8b2-4a79-a0b8-d9d34a655330
 feature: Salesforce Integration
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 5%
+source-wordcount: '165'
+ht-degree: 4%
 
 ---
 
@@ -21,15 +21,15 @@ Marketo synchronisiert Ereignisse und Aufgaben, die mit einem Lead oder Kontakt 
 
 ## Wie werden Aktivitätsdetails zwischen den beiden Systemen synchronisiert? {#how-are-activity-details-kept-in-sync-between-the-two-systems}
 
-Die Synchronisation ist eine Möglichkeit, von Salesforce bis Marketo. Sie können eine Aufgabe in Salesforce jedoch mit der [Aufgabe erstellen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"} flow step or [Customize Activities Sync](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md){target="_blank"} nach Salesforce.
+Die Synchronisation ist eine Möglichkeit, von Salesforce bis Marketo. Sie können eine Aufgabe in Salesforce jedoch mit dem Workflow-Schritt [Aufgabe erstellen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"} oder mit [Aktivitätensynchronisierung anpassen](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md){target="_blank"} mit Salesforce erstellen.
 
 ## Kann ich eine Aufgabe mit Marketo erstellen? {#can-i-create-a-task-using-marketo}
 
-Ja, Sie können die [Aktion zum Erstellen eines Aufgabenflusses](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"}.
+Ja, Sie können die Aktion &quot;[Workflow erstellen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"}&quot;verwenden.
 
 ## Welche Trigger/Filter beziehen sich auf die Aktivität? {#what-are-the-triggers-filters-related-to-activity}
 
-Trigger
+Auslöser
 
 * Aktivität wird protokolliert
 * Aktivität wird aktualisiert

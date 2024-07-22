@@ -17,7 +17,7 @@ Englisch nicht deine Muttersprache? Keine Sorge! Wir haben dich bedeckt. Hier er
 
 >[!IMPORTANT]
 >
->Dieser Artikel richtet sich nur an diejenigen, die _not_ use [Marketo mit Adobe Identity](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md). Wenn Sie dies tun, können Sie auf die unten beschriebenen Einstellungen in Ihrem [Adobe-Kontoprofil](https://account.adobe.com/profile).
+>Dieser Artikel ist nur für diejenigen gedacht, die _nicht_ [Marketo mit Adobe Identity](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md) verwenden. Wenn Sie dies tun, können Sie auf die unten beschriebenen Einstellungen in Ihrem [Adobe-Kontoprofil](https://account.adobe.com/profile) zugreifen.
 
 ## Unterstützte Sprachen {#supported-languages}
 
@@ -30,15 +30,15 @@ Englisch nicht deine Muttersprache? Keine Sorge! Wir haben dich bedeckt. Hier er
 
 ## Ändern der Benutzersprache, des Gebietsschemas und der Zeitzone {#change-user-language-locale-and-time-zone}
 
-1. Navigieren Sie zu **[!UICONTROL Admin]** Bereich.
+1. Wechseln Sie zum Bereich **[!UICONTROL Admin]** .
 
    ![](assets/select-your-language-locale-and-time-zone-1.png)
 
-1. Auswählen **[!UICONTROL Mein Konto]**.
+1. Wählen Sie **[!UICONTROL Mein Konto]** aus.
 
    ![](assets/select-your-language-locale-and-time-zone-2.png)
 
-1. Klicken Sie unter Mein Konto auf **[!UICONTROL Standorteinstellungen bearbeiten]**.
+1. Klicken Sie unter &quot;Mein Konto&quot;auf **[!UICONTROL Standorteinstellungen bearbeiten]**.
 
    ![](assets/select-your-language-locale-and-time-zone-3.png)
 
@@ -50,7 +50,7 @@ Englisch nicht deine Muttersprache? Keine Sorge! Wir haben dich bedeckt. Hier er
    >
    >Sie haben auch die Möglichkeit, nur Ihre Sprache zu ändern, indem Sie oben auf der Anmeldeseite auf das Dropdown-Menü Sprache klicken.
 
-1. Ändern Sie Ihre **[!UICONTROL Gebietsschema]**.
+1. Ändern Sie Ihr **[!UICONTROL Gebietsschema]**.
 
    ![](assets/select-your-language-locale-and-time-zone-5.png)
 

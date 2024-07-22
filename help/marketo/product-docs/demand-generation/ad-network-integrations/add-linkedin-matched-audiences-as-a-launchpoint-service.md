@@ -15,7 +15,7 @@ ht-degree: 1%
 
 >[!IMPORTANT]
 >
->LinkedIn aktualisiert ihre Marketing-APIs, die von Marketo Engage LinkedIn-Integrationen verwendet werden. Diese Änderungen erfordern eine erneute Authentifizierung aller LinkedIn LaunchPoint-Dienste in Ihren **Admin** > **LaunchPoint** zwischen dem 7. Juni und dem 15. Dezember 2024, um Dienstunterbrechungen zu vermeiden. Weitere Informationen finden Sie im [Häufig gestellte Fragen zur Migration](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
+>LinkedIn aktualisiert ihre Marketing-APIs, die von Marketo Engage LinkedIn-Integrationen verwendet werden. Diese Änderungen erfordern eine erneute Authentifizierung aller LinkedIn LaunchPoint-Dienste in Ihrem Menü **Admin** > **LaunchPoint** zwischen dem 7. Juni und dem 15. Dezember 2024, um eine Dienstunterbrechung zu vermeiden. Weitere Informationen finden Sie in den [FAQ zur Migration](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
 
 >[!NOTE]
 >
@@ -23,19 +23,19 @@ ht-degree: 1%
 
 Verbinden Sie Ihr Marketo Engage-Konto mit LinkedIn Matched Audiences , um eine statische Marketo-Liste oder Smart List als LinkedIn-Zielgruppensegment zu verwenden.
 
-1. Navigieren Sie zu **[!UICONTROL Admin]** Abschnitt.
+1. Wechseln Sie zum Abschnitt **[!UICONTROL Admin]** .
 
    ![](assets/admin.png)
 
-1. Auswählen **[!UICONTROL LaunchPoint]**.
+1. Wählen Sie **[!UICONTROL LaunchPoint]** aus.
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. Auswählen **[!UICONTROL Neu]** und **[!UICONTROL Neuer Dienst]**.
+1. Wählen Sie **[!UICONTROL Neu]** und **[!UICONTROL Neuer Dienst]** aus.
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. Geben Sie einen **[!UICONTROL Anzeigename]** und wählen **[!UICONTROL LinkedIn Matched Audiences]**. Klicken Sie auf **[!UICONTROL Erstellen]**.
+1. Geben Sie einen **[!UICONTROL Anzeigenamen]** ein und wählen Sie **[!UICONTROL LinkedIn Matched Audiences]** aus. Klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/image2018-2-23-14-3a25-3a39.png)
 
@@ -45,7 +45,7 @@ Verbinden Sie Ihr Marketo Engage-Konto mit LinkedIn Matched Audiences , um eine 
 
    >[!CAUTION]
    >
-   >Damit Marketo Zielgruppen über mehrere LinkedIn-Anzeigenkonten hinweg senden kann, muss der LinkedIn-Benutzer, den Sie in den folgenden Schritten autorisieren, Zugriff auf *all* dieser Anzeigenkonten in ihrem Campaign Manager.
+   >Damit Marketo Zielgruppen über mehrere LinkedIn-Anzeigenkonten senden kann, muss der LinkedIn-Benutzer, den Sie in den folgenden Schritten autorisieren, Zugriff auf *alle* dieser Anzeigenkonten in seinem Campaign Manager haben.
 
 1. LinkedIn wird in einer neuen Registerkarte geöffnet. Melden Sie sich von hier aus bei Ihrem LinkedIn-Konto an.
 

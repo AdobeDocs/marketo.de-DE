@@ -6,7 +6,7 @@ exl-id: 22248911-21e9-4e13-9132-22415aa114fc
 feature: Administration
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -23,19 +23,19 @@ ht-degree: 0%
 >
 >&quot;Nicht verfolgen&quot;ist standardmäßig auf Ignorieren eingestellt. Wenn Sie also dies wünschen, müssen Sie keine Schritte ausführen.
 
-1. Klicken **[!UICONTROL Admin]**.
+1. Klicken Sie auf **[!UICONTROL Admin]**.
 
    ![](assets/edit-do-not-track-browser-support-settings-1.png)
 
-1. Klicken **[!UICONTROL Munchkin]**.
+1. Klicken Sie auf **[!UICONTROL Munchkin]**.
 
    ![](assets/edit-do-not-track-browser-support-settings-2.png)
 
-1. under **[!UICONTROL Personen-Tracking]** klicken **[!UICONTROL Bearbeiten]**.
+1. Klicken Sie unter **[!UICONTROL Personen-Tracking]** auf **[!UICONTROL Bearbeiten]**.
 
    ![](assets/edit-do-not-track-browser-support-settings-3.png)
 
-1. Auswählen **[!UICONTROL Support]** und klicken Sie auf **[!UICONTROL Speichern]**.
+1. Wählen Sie **[!UICONTROL Support]** und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/edit-do-not-track-browser-support-settings-4.png)
 
@@ -49,4 +49,4 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Weitere Informationen zu &quot;Do Not Track&quot;und dessen Funktionsweise finden Sie unter [diese Seite](https://en.wikipedia.org/wiki/Do_Not_Track).
+   >Weitere Informationen zu &quot;Do Not Track&quot;und dessen Funktionsweise finden Sie auf [dieser Seite](https://en.wikipedia.org/wiki/Do_Not_Track).

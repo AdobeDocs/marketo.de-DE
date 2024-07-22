@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Konfigurieren der erneuten Freigabe von E-Mails und Eingabeaufforderungen für eine Social-App {#configure-re-share-email-and-prompt-for-a-social-app}
 
-Wenn Sie eine [Referenzangebot](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) oder [Preisausschreiben](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)können Sie Teilnehmer einladen, Ihr Angebot im Rahmen des Anmeldeprozesses für weitere Freunde freizugeben, und Standardtext für die Freigabe-E-Mail angeben.
+Wenn Sie ein [Verweisangebot](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) oder ein [Preisausschreiben](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md) erstellen, können Sie Teilnehmer einladen, Ihr Angebot im Rahmen des Anmeldeprozesses mit mehr Freunden zu teilen, und Standardtext für die Freigabe-E-Mail angeben.
 
 >[!NOTE]
 >
->In einem Verweisangebot können Sie auch [die Freigabe eines Angebots zu einer Anforderung machen](/help/marketo/product-docs/demand-generation/social/social-functions/set-social-share-requirement.md) , um sich anzumelden.
+>In einem Verweisangebot können Sie auch [dafür sorgen, dass die Freigabe des Angebots eine Anmeldeanforderung ](/help/marketo/product-docs/demand-generation/social/social-functions/set-social-share-requirement.md) zur Folge hat.
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Wechseln Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -27,7 +27,7 @@ Wenn Sie eine [Referenzangebot](/help/marketo/product-docs/demand-generation/soc
 
    ![](assets/image2014-9-22-11-3a6-3a56.png)
 
-1. Navigieren Sie im Angebotseditor zu **Anmeldefluss** > **Eingabeaufforderung zur erneuten Freigabe**.
+1. Wechseln Sie im Editor für Verweisangebote zu **Anmeldefluss** > **Aufforderung zur erneuten Freigabe**.
 
    ![](assets/image2014-9-22-11-3a7-3a9.png)
 
@@ -37,10 +37,10 @@ Wenn Sie eine [Referenzangebot](/help/marketo/product-docs/demand-generation/soc
    >
    >Die E-Mail enthält automatisch die eindeutige Freigabe-URL Ihres Teilnehmers.
 
-1. Im **Anzeigen und Bearbeiten** Fenster, klicken Sie auf **Bearbeitungen anzeigen** und bearbeiten Sie die Einladung zur Freigabe sowie die Anweisungen zum Tracking-Fortschritt.
+1. Klicken Sie im Fenster **Anzeigen und Bearbeiten** auf **Bearbeitungen anzeigen** und bearbeiten Sie die Einladung zur Freigabe sowie die Anweisungen zum Fortschritt der Verfolgung.
 
    ![](assets/image2014-9-22-11-3a7-3a49.png)
 
 >[!MORELIKETHIS]
 >
->Als Nächstes können Sie die [Verfolgen des Fortschrittsablaufs in einem Verweisangebot](configure-track-progress-flow-for-a-referral-offer.md)oder klicken Sie auf **Beenden** > **Genehmigen und schließen** nach [Veröffentlichen Ihres Verweisangebots](/help/marketo/product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md) oder [Preisausschreiben](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md).
+>Als Nächstes können Sie den Fluss [track progress in a referral offer](configure-track-progress-flow-for-a-referral-offer.md) konfigurieren oder auf **Finish** > **Approve and Close** klicken, um [Ihr Verweisangebot zu veröffentlichen](/help/marketo/product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md) oder [Preisausschreiben](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md).

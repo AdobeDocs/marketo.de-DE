@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Anpassen des Videofreigabeflusses {#customize-video-share-flow}
 
-Wenn Sie [Erstellen einer Videofreigabe](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md)können Sie anpassen, wann und wo die Freigabeaufforderung angezeigt wird.
+Wenn Sie [eine Videofreigabe erstellen](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md), können Sie anpassen, wann und wo die Freigabeaufforderung angezeigt wird.
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Wechseln Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -23,7 +23,7 @@ Wenn Sie [Erstellen einer Videofreigabe](/help/marketo/product-docs/demand-gener
 
    ![](assets/image2014-9-22-16-3a40-3a41.png)
 
-1. Wechseln Sie im Video Share-Editor zu **App-Einstellungen** > **Erweiterte Optionen**.
+1. Wechseln Sie im Editor für die Videofreigabe zu **App-Einstellungen** > **Erweiterte Optionen**.
 
    ![](assets/image2014-9-22-16-3a41-3a3.png)
 
@@ -33,4 +33,4 @@ Wenn Sie [Erstellen einer Videofreigabe](/help/marketo/product-docs/demand-gener
 
 >[!MORELIKETHIS]
 >
->Der nächste Schritt besteht darin, [konfigurieren, was nach der Videofreigabe passiert](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md).
+>Der nächste Schritt besteht darin, [zu konfigurieren, was nach der Videofreigabe ausgeführt wird](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md).

@@ -26,15 +26,15 @@ Diese Option ermöglicht Marketo Engage das Hinzufügen und Entfernen von Mitgli
 
    ![](assets/enable-campaign-sync-1.png)
 
-1. Klicks **[!UICONTROL Microsoft Dynamics]**.
+1. Klicken Sie auf **[!UICONTROL Microsoft Dynamics]**.
 
    ![](assets/enable-campaign-sync-2.png)
 
-1. Klicken Sie unter Synchronisierungsoptionen auf **[!UICONTROL Bearbeiten]**.
+1. Klicken Sie unter &quot;Synchronisierungsoptionen&quot;auf **[!UICONTROL Bearbeiten]**.
 
    ![](assets/enable-campaign-sync-3.png)
 
-1. Wählen Sie die **[!UICONTROL Aktivieren der Kampagnensynchronisierung mit Microsoft Dynamics]** aktivieren und auf **[!UICONTROL Speichern]**.
+1. Aktivieren Sie das Kontrollkästchen **[!UICONTROL Microsoft Dynamics-Kampagnensynchronisation aktivieren]** und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/enable-campaign-sync-4.png)
 

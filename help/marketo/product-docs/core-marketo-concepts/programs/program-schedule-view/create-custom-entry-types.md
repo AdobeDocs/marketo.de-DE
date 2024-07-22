@@ -6,7 +6,7 @@ exl-id: 75a0fb0d-a0d4-472d-9ac1-53e2f2831221
 feature: Programs
 source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '106'
 ht-degree: 2%
 
 ---
@@ -15,15 +15,15 @@ ht-degree: 2%
 
 Sie können benutzerdefinierte Eintrittstypen erstellen, die in Ihrer Programmplanungsansicht verwendet werden. Auf diese Weise können Sie alle Ihre Punkte der Agenda verfolgen, die sich nicht auf das Marketo-Programm auswirken.
 
-1. Navigieren Sie zu **[!UICONTROL Admin]** und klicken Sie auf **[!UICONTROL Tags]**.
+1. Wechseln Sie zum Abschnitt **[!UICONTROL Admin]** und klicken Sie auf **[!UICONTROL Tags]**.
 
    ![](assets/admintags.png)
 
-1. Klicks **[!UICONTROL Kalendereingabetyp]**.
+1. Klicken Sie auf **[!UICONTROL Kalendereintrittstyp]**.
 
    ![](assets/image2014-9-15-15-3a41-3a33.png)
 
-1. Klicken Sie auf **[!UICONTROL Neu]** und wählen Sie **[!UICONTROL Einstiegstyp]**.
+1. Klicken Sie auf die Dropdownliste **[!UICONTROL Neu]** und wählen Sie **[!UICONTROL Einstiegstyp]** aus.
 
    ![](assets/image2014-9-15-15-3a41-3a58.png)
 
@@ -31,7 +31,7 @@ Sie können benutzerdefinierte Eintrittstypen erstellen, die in Ihrer Programmpl
 
    ![](assets/image2014-9-15-16-3a11-3a24.png)
 
-1. Wählen Sie eine **[!UICONTROL Einstiegsfarbe]**.
+1. Wählen Sie eine **[!UICONTROL Einstiegsfarbe]** aus.
 
    ![](assets/image2014-9-15-16-3a3-3a55.png)
 

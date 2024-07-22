@@ -37,7 +37,7 @@ Wie viele neue Namen haben die einzelnen Programme/Kanäle pro Monat generiert?
 
 ### Mitgliedschaft {#membership}
 
-| Maßnahme | Beschreibung |
+| Messung | Beschreibung |
 |---|---|
 | Anteil neuer Namen | Prozentsatz der im Rahmen eines Programms erworbenen Leads |
 | Mitglieder | Gesamtzahl der Leads im Programm |
@@ -62,7 +62,7 @@ Wie viele neue Namen haben die einzelnen Programme/Kanäle pro Monat generiert?
 
 ### Erfolg {#success}
 
-| Maßnahme | Beschreibung |
+| Messung | Beschreibung |
 |---|---|
 | Erfolg in % (Neue Namen) | Prozentsatz der Leads, die durch das Programm erworben wurden UND im Fortgang des Programms erfolgreich waren |
 | % Erfolg (Summe) | Prozentsatz der Leads, die im Verlauf eines Programms erfolgreich waren |

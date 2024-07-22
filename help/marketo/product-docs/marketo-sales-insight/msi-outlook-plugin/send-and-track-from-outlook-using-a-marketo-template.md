@@ -17,9 +17,9 @@ Wenn Ihr Marketing-Team Ihnen Vorlagen zur Verfügung gestellt hat, können Sie 
 
 >[!NOTE]
 >
->Die Funktionen von Sales Insight-Aktionen, einschließlich &quot;E-Mail an Vertrieb senden&quot;, &quot;Zu Vertriebskampagne hinzufügen&quot;und &quot;Aufgaben&quot;, sind nicht in den E-Mail-Plugins für Sales Insight für Gmail und Outlook verfügbar. Derzeit können Benutzer von ihrem E-Mail-Client aus nur trackbare E-Mails mit oder ohne Marketo-E-Mail-Vorlage senden, wenn sie die Sales Insight-E-Mail-Plugins verwenden.
+>Die Funktionen von Sales Insight-Aktionen, einschließlich &quot;E-Mail an Vertrieb senden&quot;, &quot;Zu Vertriebskampagne hinzufügen&quot;und &quot;Aufgaben&quot;, sind nicht in den Sales Insight-E-Mail-Plugins für Gmail und Outlook verfügbar. Derzeit können Benutzer von ihrem E-Mail-Client aus nur trackbare E-Mails mit oder ohne Marketo-E-Mail-Vorlage senden, wenn sie die Sales Insight-E-Mail-Plugins verwenden.
 
-1. Öffnen Sie Microsoft Outlook und klicken Sie auf **Marketo-Nachricht**.
+1. Öffnen Sie Microsoft Outlook und klicken Sie auf **Marketo Message**.
 
    ![](assets/image2014-9-23-17-3a8-3a33.png)
 
@@ -35,7 +35,7 @@ Wenn Ihr Marketing-Team Ihnen Vorlagen zur Verfügung gestellt hat, können Sie 
    >
    >Token werden vom Add-in nicht unterstützt. Entfernen Sie alle Elemente, die sich möglicherweise in der Vorlage befinden.
 
-1. Überprüfen Sie die Vorschau, stellen Sie sicher, dass sie gut aussieht, und klicken Sie dann auf **Senden**.
+1. Sehen Sie sich die Vorschau an, stellen Sie sicher, dass sie gut aussieht, und klicken Sie dann auf **Senden**.
 
    ![](assets/image2014-9-23-17-3a9-3a11.png)
 

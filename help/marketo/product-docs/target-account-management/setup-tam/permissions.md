@@ -15,11 +15,11 @@ ht-degree: 1%
 
 Sie müssen Berechtigungen einrichten, damit Ihre Benutzer TAM verwenden können. So geht es.
 
-1. Klicks **Admin**.
+1. Klicken Sie auf **Admin**.
 
    ![](assets/one-2.png)
 
-1. Klicks **Benutzer und Rollen**.
+1. Klicken Sie auf **Benutzer und Rollen**.
 
    ![](assets/two-2.png)
 
@@ -27,15 +27,15 @@ Sie müssen Berechtigungen einrichten, damit Ihre Benutzer TAM verwenden können
    >
    >Sie können TAM-Berechtigungen für eine vorhandene Rolle hinzufügen oder eine neue erstellen. In diesem Beispiel wird eine neue Rolle verwendet.
 
-1. Klicks **Rollen**, dann **Neue Rolle**.
+1. Klicken Sie auf **Rollen** und dann auf **Neue Rolle**.
 
    ![](assets/three-2.png)
 
-1. Geben Sie einen Rollennamen ein und klicken Sie auf **+** neben dem Kontrollkästchen Zugriff auf Target-Kontoverwaltung .
+1. Geben Sie einen Rollennamen ein und klicken Sie auf das Symbol **+** neben dem Kontrollkästchen Zugriff auf Target-Kontoverwaltung .
 
    ![](assets/permissions-4.png)
 
-1. Auswahl _all_ Berechtigungen, überprüfen Sie einfach die **Zugriff auf die Target-Kontoverwaltung** aktivieren.
+1. Um _alle_ -Berechtigungen auszuwählen, aktivieren Sie einfach das Kontrollkästchen **Zugriff auf die Target-Kontoverwaltung** .
 
    ![](assets/permissions-5.png)
 
@@ -43,8 +43,8 @@ Sie müssen Berechtigungen einrichten, damit Ihre Benutzer TAM verwenden können
    >
    >Sie können auch nur einige der Optionen auswählen. Aktivieren Sie dazu die einzelnen Kontrollkästchen einzeln.
 
-1. Klicken Sie auf **+** , um das Menü Zugriffsverwaltung zu öffnen. Überprüfen Sie die **Zugriff auf ABM Admin** Kontrollkästchen (ABM ist der vorherige Name für TAM) und klicken Sie auf **Erstellen**.
+1. Klicken Sie auf **+** , um das Menü &quot;Zugriffsverwaltung&quot;zu öffnen. Aktivieren Sie das Kontrollkästchen **Zugriff auf ABM Admin** (ABM ist der vorherige Name für TAM) und klicken Sie auf **Erstellen**.
 
    ![](assets/permissions-6.png)
 
-   Ihre neue TAM-Rolle ist jetzt bereit [Benutzern zugewiesen wurde](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md#assign-roles-to-a-user)!
+   Ihre neue TAM-Rolle kann jetzt [einem Benutzer zugewiesen werden](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md#assign-roles-to-a-user)!

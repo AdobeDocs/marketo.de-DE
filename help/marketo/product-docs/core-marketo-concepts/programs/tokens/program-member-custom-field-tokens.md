@@ -7,7 +7,7 @@ feature: Tokens
 source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '435'
-ht-degree: 3%
+ht-degree: 2%
 
 ---
 
@@ -41,7 +41,7 @@ Sie können Token für benutzerdefinierte Felder des Programmmitglieds in E-Mail
 
    ![](assets/program-member-custom-field-tokens-2.png)
 
-1. Suchen Sie nach dem gewünschten benutzerdefinierten Feld-Token für Programmteilnehmer und wählen Sie es aus, geben Sie einen Standardwert ein und klicken Sie auf **[!UICONTROL Einfügen]**.
+1. Suchen und wählen Sie das gewünschte benutzerdefinierte Feld-Token für Programmteilnehmer aus, geben Sie einen Standardwert ein und klicken Sie auf **[!UICONTROL Einfügen]**.
 
    ![](assets/program-member-custom-field-tokens-3.png)
 
@@ -53,7 +53,7 @@ Sie können Token für benutzerdefinierte Felder des Programmmitglieds in E-Mail
 >
 >Vergessen Sie nicht, Ihre E-Mail zu genehmigen.
 
-**Landing Pages**
+**Einstiegsseiten**
 
 1. Wählen Sie Ihre Landingpage aus und klicken Sie auf **[!UICONTROL Entwurf bearbeiten]**.
 
@@ -89,7 +89,7 @@ Sie können Token für benutzerdefinierte Felder des Programmmitglieds in E-Mail
 
    ![](assets/program-member-custom-field-tokens-11.png)
 
-1. Klicken Sie auf **`{{ Token`** Schaltfläche.
+1. Klicken Sie auf die Schaltfläche **`{{ Token`** .
 
    ![](assets/program-member-custom-field-tokens-12.png)
 
@@ -97,7 +97,7 @@ Sie können Token für benutzerdefinierte Felder des Programmmitglieds in E-Mail
 
    ![](assets/program-member-custom-field-tokens-13.png)
 
-1. Klicken Sie auf das Dropdown-Menü SMS-Aktionen und wählen Sie **[!UICONTROL Genehmigen und schließen]**.
+1. Klicken Sie auf das Dropdown-Menü SMS-Aktionen und wählen Sie **[!UICONTROL Genehmigen und schließen]** aus.
 
    ![](assets/program-member-custom-field-tokens-14.png)
 
@@ -107,11 +107,11 @@ Sie können Token für benutzerdefinierte Felder des Programmmitglieds in E-Mail
 
    ![](assets/program-member-custom-field-tokens-15.png)
 
-1. Klicks **[!UICONTROL Push-Benachrichtigung]**.
+1. Klicken Sie auf **[!UICONTROL Push Notification]**.
 
    ![](assets/program-member-custom-field-tokens-16.png)
 
-1. Klicken Sie auf die Nachricht im Editor und klicken Sie auf die Schaltfläche `{{` -Schaltfläche zum Abrufen der Token-Auswahl.
+1. Klicken Sie auf die Nachricht im Editor und klicken Sie auf die Schaltfläche `{{` , um die Token-Auswahl abzurufen.
 
    ![](assets/program-member-custom-field-tokens-17.png)
 
@@ -119,7 +119,7 @@ Sie können Token für benutzerdefinierte Felder des Programmmitglieds in E-Mail
 
    ![](assets/program-member-custom-field-tokens-18.png)
 
-1. Klicks **[!UICONTROL Beenden]** Speichern und beenden (oder **[!UICONTROL Nächste]** zunächst zu überprüfen).
+1. Klicken Sie auf **[!UICONTROL Beenden]** , um zu speichern und zu beenden (oder auf **[!UICONTROL Weiter]** , um zuerst zu überprüfen).
 
    ![](assets/program-member-custom-field-tokens-19.png)
 

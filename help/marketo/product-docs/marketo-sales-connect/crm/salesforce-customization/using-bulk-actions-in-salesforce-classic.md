@@ -6,7 +6,7 @@ exl-id: f676ba65-6bc9-41e5-aa70-0f10bceedab7
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '372'
+source-wordcount: '358'
 ht-degree: 2%
 
 ---
@@ -17,7 +17,7 @@ Erfahren Sie, wie Sie Massenaktionen durchführen, z. B. Leads zu einer Kampagne
 
 >[!PREREQUISITES]
 >
->Aktualisieren Sie auf die neueste Version des Sales Connect-Packages und installieren Sie die Massen-Aktionsschaltflächen in Ihrer Lead-/Kontaktansicht. [Hier finden Sie Anweisungen.](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf).
+>Aktualisieren Sie auf die neueste Version des Sales Connect-Packages und installieren Sie die Massen-Aktionsschaltflächen in Ihrer Lead-/Kontaktansicht. [Klicken Sie hier, um Anweisungen zu erhalten.](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)
 
 >[!NOTE]
 >
@@ -25,11 +25,11 @@ Erfahren Sie, wie Sie Massenaktionen durchführen, z. B. Leads zu einer Kampagne
 
 ## Bulk Email {#bulk-email}
 
-1. Klicken Sie in Salesforce auf die **Leads** Registerkarte, dann die **Los** Schaltfläche.
+1. Klicken Sie in Salesforce auf die Registerkarte **Leads** und dann auf die Schaltfläche **Los**.
 
    ![](assets/one-5.png)
 
-1. Wählen Sie die gewünschten Leads aus und klicken Sie auf das **E-Mail mit MSC (Classic)** Schaltfläche.
+1. Wählen Sie die gewünschten Leads aus und klicken Sie auf die Schaltfläche **E-Mail mit MSC (Classic)** .
 
    ![](assets/two-5.png)
 
@@ -43,31 +43,31 @@ Erfahren Sie, wie Sie Massenaktionen durchführen, z. B. Leads zu einer Kampagne
 
    ![](assets/three-4.png)
 
-## Zu  Kampagne hinzufügen {#add-to-campaign}
+## Zur Kampagne hinzufügen {#add-to-campaign}
 
-1. Klicken Sie in Salesforce auf die **Leads** Registerkarte, dann die **Los** Schaltfläche.
+1. Klicken Sie in Salesforce auf die Registerkarte **Leads** und dann auf die Schaltfläche **Los**.
 
    ![](assets/four-3.png)
 
-1. Wählen Sie die gewünschten Leads aus und klicken Sie auf das **Zu MSC Campaign hinzufügen (Classic)** Schaltfläche.
+1. Wählen Sie die gewünschten Leads aus und klicken Sie auf die Schaltfläche **Zu MSC-Kampagne (Classic) hinzufügen** .
 
    ![](assets/five-3.png)
 
-1. Daraufhin wird das Popup &quot;Personen zu Ihrer Kampagne hinzufügen&quot;angezeigt. Klicks **Nächste** und gehen Sie durch den typischen Kampagnenfluss, um eine MSC-Kampagne Trigger.
+1. Daraufhin wird das Popup &quot;Personen zu Ihrer Kampagne hinzufügen&quot;angezeigt. Klicken Sie auf **Weiter** und gehen Sie durch den typischen Kampagnenfluss, um eine MSC-Kampagne Trigger.
 
    ![](assets/six.png)
 
 ## In Marketo Sales Connect pushen {#push-to-marketo-sales-connect}
 
-1. Klicken Sie in Salesforce auf die **Leads** Registerkarte, dann die **Los** Schaltfläche.
+1. Klicken Sie in Salesforce auf die Registerkarte **Leads** und dann auf die Schaltfläche **Los**.
 
    ![](assets/seven-1.png)
 
-1. Wählen Sie die gewünschten Leads aus und klicken Sie auf das **Push to MSC (Classic)** Schaltfläche.
+1. Wählen Sie die gewünschten Leads aus und klicken Sie auf die Schaltfläche **Push to MSC (Classic)** .
 
    ![](assets/eight-1.png)
 
-1. Eine neue Registerkarte namens &quot;Salesforce Bridge&quot;wird geöffnet. Klicken Sie auf **Fahren Sie zu Gruppe →** Schaltfläche.
+1. Eine neue Registerkarte mit dem Namen &quot;Salesforce Bridge&quot;wird geöffnet. Klicken Sie auf die Schaltfläche **Weiter zu Gruppe →** .
 
    ![](assets/nine-1.png)
 
@@ -81,5 +81,5 @@ Erfahren Sie, wie Sie Massenaktionen durchführen, z. B. Leads zu einer Kampagne
 
 >[!MORELIKETHIS]
 >
->* [Senden von E-Mails per Gruppenemail](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
+>* [Senden von E-Mails über Gruppen-E-Mails](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
 >* [Erstellen von Massen-E-Mails mit Auswählen und Senden](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)

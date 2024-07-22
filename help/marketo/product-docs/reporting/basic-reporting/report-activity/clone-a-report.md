@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Erstellen Sie ein Duplikat Ihres Berichts, um ihn weiter anzupassen, ohne das Original zu ändern.
 
-1. Navigieren Sie zu **Marketingaktivitäten** (oder **Analytics**).
+1. Wechseln Sie zum Bereich **Marketingaktivitäten** (oder **Analytics**).
 
    ![](assets/image2014-9-16-14-3a23-3a46.png)
 
-1. Wählen Sie Ihren Bericht aus. Auswählen **Berichtaktionen** > **Einen Bericht klonen**.
+1. Wählen Sie Ihren Bericht aus. Wählen Sie **Berichtaktionen** > **Einen Bericht klonen** aus.
 
    ![](assets/image2014-9-16-14-3a23-3a53.png)
 

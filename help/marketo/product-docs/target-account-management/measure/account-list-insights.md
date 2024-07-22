@@ -44,16 +44,16 @@ Um das Dashboard einer Kontoliste anzuzeigen, klicken Sie einfach auf den Namen.
 
 ## Registerkarte &quot;Spezifische Konten&quot; {#named-accounts-tab}
 
-Klicken Sie auf **Spezifische Konten** um anzuzeigen, welche benannten Konten zu dieser Kontoliste gehören.
+Klicken Sie auf die Registerkarte **Spezifische Konten** , um zu sehen, welche benannten Konten zu dieser Kontoliste gehören.
 
 ![](assets/three-1.png)
 
 >[!NOTE]
 >
->Sie können ein benanntes Konto auf dieser Registerkarte entfernen, indem Sie es auswählen und auf **Entfernen von benannten Konten**.
+>Sie können ein benanntes Konto auf dieser Registerkarte entfernen, indem Sie es auswählen und auf **Spezifische Konten entfernen** klicken.
 
 ## Wird von der Registerkarte verwendet {#used-by-tab}
 
-Klicken Sie auf **Verwendet von** , um zu sehen, welche Assets auf diese Kontoliste verweisen.
+Klicken Sie auf die Registerkarte **Verwendet von** , um zu sehen, welche Assets auf diese Kontoliste verweisen.
 
 ![](assets/four-2.png)

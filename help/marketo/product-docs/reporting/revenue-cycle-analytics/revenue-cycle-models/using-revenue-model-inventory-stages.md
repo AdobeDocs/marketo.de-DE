@@ -21,39 +21,39 @@ Alle bekannten Leads und Konten befinden sich zunächst in der Lagerbestandsbüh
 
 ## Hinzufügen einer Lagerbestandsstufe {#add-an-inventory-stage}
 
-1. Um eine neue Phase des Inventars des Umsatzzyklusmodells hinzuzufügen, klicken Sie auf das **Analytics** im **My Marketo** Startbildschirm.
+1. Um eine neue Phase des Inventars des Umsatzzyklusmodells hinzuzufügen, klicken Sie auf die Schaltfläche **Analytics** auf der Startseite von **My Marketo** .
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 
-1. Im **Analytics** auswählen, das vorhandene Modell oder [Erstellen eines neuen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
+1. Wählen Sie im Abschnitt **Analytics** das vorhandene Modell aus oder erstellen Sie [ein neues Modell](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
 
    ![](assets/image2015-4-27-14-3a31-3a53.png)
 
-1. Klicken **Entwurf bearbeiten**.
+1. Klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/image2015-4-27-12-3a10-3a49.png)
 
-1. Um eine neue Lagerbestandsphase hinzuzufügen, klicken Sie auf die Schaltfläche **Bestand** und ziehen Sie die Maustaste und lassen Sie sie an eine beliebige Stelle auf der Arbeitsfläche los.
+1. Um eine neue Lagerbestandsstufe hinzuzufügen, klicken Sie auf die Schaltfläche **Bestand** und ziehen Sie sie per Drag &amp; Drop an eine beliebige Stelle auf der Arbeitsfläche.
 
    ![](assets/image2015-4-28-13-3a9-3a37.png)
 
-1. Sie können den Namen bearbeiten, eine Beschreibung hinzufügen und den Typ nach dem Hinzufügen einer Bühne anpassen. Sie können auch **[Tracking nach Konto starten](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)** zu diesem Zeitpunkt.
+1. Sie können den Namen bearbeiten, eine Beschreibung hinzufügen und den Typ nach dem Hinzufügen einer Bühne anpassen. Sie können derzeit auch **[Tracking nach Konto starten](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)** auswählen.
 
    ![](assets/image2015-4-27-13-3a29-3a2.png)
 
 ## Eine Lagerbestandsstufe bearbeiten {#edit-an-inventory-stage}
 
-Wenn Sie ein Inventarsymbol auswählen, können Sie die **Name**, fügen Sie eine **Beschreibung** oder passen Sie die **Typ**. Sie können auch [Tracking nach Konto starten](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md).
+Wenn Sie ein Symbol &quot;Bestand&quot;auswählen, können Sie den **Namen** bearbeiten, eine **Beschreibung** hinzufügen oder den **Typ** anpassen. Sie können auch [Tracking nach Konto starten](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md) auswählen.
 
 1. Klicken Sie auf das Symbol Bestand .
 
    ![](assets/image2015-4-27-15-3a55-3a10.png)
 
-1. Klicken Sie in der **Name** und **Beschreibung** -Felder, um ihren Inhalt zu bearbeiten.
+1. Klicken Sie in die Felder **Name** und **Beschreibung**, um ihren Inhalt zu bearbeiten.
 
    ![](assets/image2015-4-27-13-3a34-3a58.png)
 
-1. Wählen Sie die **Typ** Pulldown zur Bearbeitung.
+1. Wählen Sie den Pulldown **Typ** aus, um ihn zu bearbeiten.
 
    ![](assets/image2015-4-27-13-3a36-3a52.png)
 
@@ -63,11 +63,11 @@ Wenn Sie ein Inventarsymbol auswählen, können Sie die **Name**, fügen Sie ein
 
    ![](assets/image2015-4-28-13-3a0-3a20.png)
 
-1. Sie können eine Bühne auch löschen, indem Sie darauf klicken und dann im **Staging-Aktionen** Dropdown-Liste auswählen **Löschen**.
+1. Sie können eine Bühne auch löschen, indem Sie darauf klicken und dann im Dropdown-Menü **Staging-Aktionen** die Option **Löschen** auswählen.
 
    ![](assets/image2015-4-28-13-3a1-3a17.png)
 
-1. Bei beiden Löschmethoden müssen Sie Ihre Auswahl bestätigen. Klicken **Löschen**.
+1. Bei beiden Löschmethoden müssen Sie Ihre Auswahl bestätigen. Klicken Sie auf **Löschen**.
 
    ![](assets/image2015-4-28-13-3a5-3a26.png)
 

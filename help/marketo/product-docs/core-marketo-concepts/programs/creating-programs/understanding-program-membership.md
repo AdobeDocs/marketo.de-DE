@@ -23,18 +23,18 @@ ht-degree: 0%
 
 ## Wie Menschen Mitglieder eines Programms werden {#how-people-become-members-of-a-program}
 
-1. Eine Person füllt eine [Formular auf einer Landingpage](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} im Programm.
+1. Eine Person füllt ein [Formular auf einer Landingpage](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} im Programm aus.
 
    1. Der erste Status des Fortschritts wird automatisch von Person übernommen.
 
-1. You [Mitglieder in das Programm importieren](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-members-from-a-spreadsheet-into-a-program.md){target="_blank"} aus einer CSV-Datei.
+1. Sie [importieren Mitglieder aus einer CSV-Datei in das Programm](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-members-from-a-spreadsheet-into-a-program.md){target="_blank"}.
 
    1. Der erste Status des Fortschritts wird automatisch von Person übernommen.
 
-1. Sie verwenden die [Ändern des Programmstatus](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md){target="_blank"} Flussschritt.
-1. Eine Person registriert oder besucht eine [Webinar mit einem Veranstaltungsprogramm synchronisiert](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md){target="_blank"}.
-1. Eine Person ist [mit der Marketo iPad-Eincheckanwendung erstellt wurde](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md){target="_blank"}.
-1. Eine Person wird zu einer SFDC-Kampagne hinzugefügt, die [mit dem Programm synchronisiert](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target="_blank"}.
+1. Sie verwenden den Flussschritt [Programmstatus ändern](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md){target="_blank"} .
+1. Eine Person registriert oder besucht ein mit einem Ereignisprogramm synchronisiertes [Webinar](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md){target="_blank"}.
+1. Eine Person wird mit der Marketo iPad-Eincheckanwendung ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md){target="_blank"} erstellt.[
+1. Eine Person wird zu einer SFDC-Kampagne hinzugefügt, die mit dem Programm ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target="_blank"} synchronisiert wird.[
 
 >[!NOTE]
 >
@@ -42,7 +42,7 @@ ht-degree: 0%
 
 ## Programmstatus {#program-statuses}
 
-Programmstatus sind die Schritte, die Benutzer in einem Programm durchlaufen (z. B. Eingeladene, RSVP&#39;d, Teilnehmer, Keine Sendung). Diese Schritte werden durch die Variable [channel](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.
+Programmstatus sind die Schritte, die Benutzer in einem Programm durchlaufen (z. B. Eingeladene, RSVP&#39;d, Teilnehmer, Keine Sendung). Diese Schritte werden durch den [Kanal](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"} definiert.
 
 ![](assets/image2015-2-5-15-3a14-3a48.png)
 
@@ -60,7 +60,7 @@ Ziel eines Programms ist es, eine sinnvolle Interaktion mit der Person oder dem 
 
 ## Akquirierungsprogramm {#acquisition-program}
 
-Wenn ein neuer Name in das System als Programmmitglied aufgenommen wird, setzt Marketo dieses Programm automatisch als &quot;Akquise&quot;. Dadurch wird die Gutschrift für [Erstkontakt-Attribution](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md){target="_blank"}.
+Wenn ein neuer Name in das System als Programmmitglied aufgenommen wird, setzt Marketo dieses Programm automatisch als &quot;Akquise&quot;. Dadurch wird die Gutschrift für [Erstkontakt-Attribution](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md){target="_blank"} festgelegt.
 
 >[!MORELIKETHIS]
 >

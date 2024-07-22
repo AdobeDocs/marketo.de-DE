@@ -19,11 +19,11 @@ SEO-Administratoren können die Region für die Suchmaschine auswählen, für di
 >
 >**Erforderliche Administratorberechtigungen**
 
-1. Navigieren Sie zu **[!UICONTROL Admin]** Abschnitt.
+1. Wechseln Sie zum Abschnitt **[!UICONTROL Admin]** .
 
 ![](assets/image2014-9-17-21-3a6-3a43.png)
 
-1. Klicken Sie auf **[!UICONTROL Suchmaschinen]** Registerkarte.
+1. Klicken Sie auf die Registerkarte **[!UICONTROL Suchmaschinen]** .
 
    ![](assets/image2014-9-17-21-3a7-3a25.png)
 

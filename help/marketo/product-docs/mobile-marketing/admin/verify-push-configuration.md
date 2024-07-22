@@ -23,7 +23,7 @@ ht-degree: 7%
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. Auswählen **Mobile Apps**.
+1. Wählen Sie **Mobile Apps** aus.
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
@@ -31,7 +31,7 @@ ht-degree: 7%
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-1. Klicks **Mobile App-Aktionen** und wählen **Push-Konfiguration überprüfen**.
+1. Klicken Sie auf **Mobile-App-Aktionen** und wählen Sie **Push-Konfiguration überprüfen** aus.
 
    ![](assets/image2015-4-22-17-3a25-3a8.png)
 

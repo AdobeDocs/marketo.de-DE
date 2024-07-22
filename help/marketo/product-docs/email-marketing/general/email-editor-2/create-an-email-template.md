@@ -6,7 +6,7 @@ exl-id: dfd91254-03fa-4f91-995d-ae4fe549a98d
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '273'
 ht-degree: 0%
 
 ---
@@ -25,15 +25,15 @@ Führen Sie die folgenden Schritte aus, um eine neue E-Mail-Vorlage zu erstellen
 
 ## Neue E-Mail-Vorlage erstellen {#create-a-new-email-template}
 
-1. Klicks **Design Studio**.
+1. Klicken Sie auf **Design Studio**.
 
    ![](assets/designstudio.png)
 
-1. Klicks **Neu**, wählen Sie **Neue E-Mail-Vorlage**.
+1. Klicken Sie auf **Neu** und wählen Sie dann **Neue E-Mail-Vorlage** aus.
 
    ![](assets/ds-two.png)
 
-1. Benennen Sie die neue Vorlage und klicken Sie auf **Erstellen**.
+1. Geben Sie der neuen Vorlage einen Namen und klicken Sie auf **Erstellen** .
 
    ![](assets/three-1.png)
 
@@ -49,19 +49,19 @@ Führen Sie die folgenden Schritte aus, um eine neue E-Mail-Vorlage zu erstellen
 
 Wenn Sie eine E-Mail erstellt haben, die Sie als Vorlage für die zukünftige Verwendung speichern möchten, führen Sie die folgenden einfachen Schritte aus.
 
-1. Klicks **Marketingaktivitäten**.
+1. Klicken Sie auf **Marketingaktivitäten**.
 
    ![](assets/one.png)
 
-1. Suchen und wählen Sie Ihre E-Mail aus und klicken Sie auf **Entwurf bearbeiten**.
+1. Suchen und wählen Sie Ihre E-Mail aus und klicken Sie dann auf **Entwurf bearbeiten**.
 
    ![](assets/two-1.png)
 
-1. Klicken Sie auf **E-Mail-Aktionen** und wählen Sie **Als Vorlage speichern**.
+1. Klicken Sie auf das Dropdown-Menü **E-Mail-Aktionen** und wählen Sie **Als Vorlage speichern** aus.
 
    ![](assets/four-1.png)
 
-1. Klicken Sie auf **Ordner** in der Dropdown-Liste auswählen, wo die Vorlage live sein soll, und auf **Speichern**.
+1. Klicken Sie auf die Dropdownliste **Ordner**, wählen Sie aus, wo die Vorlage live sein soll, und klicken Sie auf **Speichern**.
 
    ![](assets/five-1.png)
 

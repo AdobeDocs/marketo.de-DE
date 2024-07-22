@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # Standard von E-Mail und Titel ändern {#change-the-default-from-email-and-from-label}
 
-Jeder Admin-Benutzer kann die Standardwerte für **[!UICONTROL Aus E-Mail]** und **[!UICONTROL Aus Titel]** sodass beim Erstellen neuer E-Mails diese Standardwerte verwendet werden.
+Jeder Admin-Benutzer kann die Standardwerte für **[!UICONTROL Aus E-Mail]** und **[!UICONTROL Aus Titel]** ändern, sodass beim Erstellen neuer E-Mails diese Standardwerte verwendet werden.
 
 >[!NOTE]
 >
 >**Erforderliche Administratorberechtigungen**
 
-1. Navigieren Sie zu **[!UICONTROL Admin]** Abschnitt.
+1. Wechseln Sie zum Abschnitt **[!UICONTROL Admin]** .
 
    ![](assets/change-the-default-from-email-and-from-label-1.png)
 
-1. Klicks **[!UICONTROL Email]**.
+1. Klicken Sie auf **[!UICONTROL E-Mail]**.
 
    ![](assets/change-the-default-from-email-and-from-label-2.png)
 
-1. Geben Sie die Standardwerte ein, für die Sie **[!UICONTROL Aus E-Mail]** und **[!UICONTROL Aus Titel]** Klicken Sie dann auf **[!UICONTROL Änderungen speichern]**.
+1. Geben Sie die Standardwerte für **[!UICONTROL Von E-Mail]** und **[!UICONTROL Von Titel]** ein und klicken Sie dann auf **[!UICONTROL Änderungen speichern]**.
 
    ![](assets/change-the-default-from-email-and-from-label-3.png)
 

@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Ausgeblendete Formularfelder können Daten ohne die Eingabe des Besuchers still erfassen. So funktioniert es.
 
-1. Navigieren Sie zu **Marketingaktivitäten**.
+1. Wechseln Sie zu **Marketingaktivitäten**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -23,7 +23,7 @@ Ausgeblendete Formularfelder können Daten ohne die Eingabe des Besuchers still 
 
    ![](assets/image2014-9-15-12-3a58-3a47.png)
 
-1. Wählen Sie das Feld aus und legen Sie die **Feldtyp** nach **Ausgeblendet.**
+1. Wählen Sie das Feld aus und setzen Sie den Feldtyp **1} auf** Ausgeblendet **.**
 
    ![](assets/image2014-9-15-12-3a58-3a56.png)
 
