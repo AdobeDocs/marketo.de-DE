@@ -4,34 +4,47 @@ title: Raumverwaltung
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: d802f6b5988f93f7c75558d864b527da9e0afbec
+exl-id: f164795c-c64b-4e0e-a417-b5f7e18a26b3
+source-git-commit: 7b64e6e9bbd282b1e27f4c9c862df07642e9a35b
 workflow-type: tm+mt
-source-wordcount: '844'
+source-wordcount: '817'
 ht-degree: 0%
 
 ---
 
 # Raumverwaltung {#room-management}
 
-Interaktive Webinarräume mit Unterstützung von Adobe Connect erleichtern ansprechende und kollaborative Online-Veranstaltungen. Diese Webinare speichern eine Menge an Inhalt und Aufzeichnungen in Webinarräumen, die von autorisierten Organisationsmitgliedern erstellt wurden. Als Mitglied mit dem Recht, ein Zimmer zu erstellen, können Sie von einem zentralen Ort aus auf diese zugreifen und sie verwalten.
-
-Führen Sie die folgenden Schritte aus, um die von Ihnen erstellten Räume oder Aufzeichnungen zu verwalten und darauf zuzugreifen.
-
-1. Wählen Sie in der oberen Menüleiste die Registerkarte Design Studio aus.
-1. Wählen Sie im linken Navigationsbereich interaktive Webinarvorlagen > Räume verwalten aus.
-1. Greifen Sie über die Menüleiste oben auf Zimmer oder Aufzeichnungen zu und verwalten Sie sie.
+Interaktive Webinar-Räume mit Adobe Connect wurden entwickelt, um ansprechende und kollaborative Online-Veranstaltungen zu erleichtern. Diese Webinare speichern eine Menge an Inhalt und Aufzeichnungen in Webinarräumen, die von autorisierten Organisationsmitgliedern erstellt wurden. Als Mitglied mit dem Recht, ein Zimmer zu erstellen, können Sie von einem zentralen Ort aus auf diese zugreifen und sie verwalten.
 
 ## Verwalten und Aufrufen von Räumen {#manage-and-access-rooms}
+
+1. Wählen Sie in der oberen Menüleiste die Registerkarte Design Studio aus.
+
+1. Wählen Sie im linken Navigationsbereich die Option Interaktive Webinare > Räume verwalten aus.
+
+1. Greifen Sie über die Menüleiste oben auf Zimmer oder Aufzeichnungen zu und verwalten Sie sie.
+
+NEUE KOPFZEILE
 
 Ein interaktiver Webinar-Raum ist ein virtueller Ort, der für Live-Events konzipiert ist, bei denen Teilnehmer aktiv mit dem Moderator und anderen Teilnehmern interagieren können. In diesen Räumen finden Sie die hochgeladenen Inhalte und Aufzeichnungen von Webinaren.
 
 Um die Liste aller Zimmer anzuzeigen, wählen Sie Zimmer in der oberen Menüleiste aus. Sie können alle von Ihnen erstellten Räume sowie hochgeladene Inhalte (Link hier, wo erklärt wird, wie man Inhalte hochlädt) und Aufzeichnungen (Link hier wo Aufzeichnungen erklärt werden) in diesen Räumen finden. Sie können auch die Anzahl der Aufnahmen, die Dateigröße im Raum und das Datum des letzten Zugriffs für die jeweiligen Räume anzeigen.
 
-TABELLE
-
-* Aufnahmen: Zeigen Sie die Anzahl der in einem Raum verfügbaren Aufnahmen an.
-* Dateigröße im Raum: Betrachten Sie die kombinierte Dateigröße von Inhalten und Aufzeichnungen, die in einem Raum verfügbar sind.
-* Zuletzt aufgerufen am: Zeigt das Datum an, an dem dieser Raum zuletzt aufgerufen wurde. Sie können die Informationen nach der Timeline sortieren.
+<table><tbody>
+  <tr>
+    <td><b>Aufzeichnungen</td>
+    <td>Zeigen Sie die Anzahl der in einem Raum verfügbaren Aufnahmen an.</td>
+  </tr>
+  <tr>
+    <td><b>Dateigröße im Zimmer</td>
+    <td>Betrachten Sie die kombinierte Dateigröße von Inhalten und Aufzeichnungen, die in einem Raum verfügbar sind.</td>
+  </tr>
+  <tr>
+    <td><b>Zuletzt aufgerufen auf</td>
+    <td>Zeigt das Datum des letzten Zugriffs auf den Raum an. Sie können die Informationen nach der Timeline sortieren.</td>
+  </tr>
+</tbody>
+</table>
 
 SCREENSHOT
 
@@ -94,7 +107,7 @@ Von diesem zentralen Hub aus können Sie die folgenden Aktionen ausführen:
 
 Aufzeichnungen sind wertvolle Ressourcen, die das Wesen von Live-Diskussionen, Präsentationen und Fragen und Antworten-Sitzungen erfassen. Sie ermöglichen es Teilnehmern, wichtige Einblicke, verpasste Details oder komplexe Konzepte in ihrem eigenen Tempo erneut zu besuchen.
 
-Nachdem Sie in der oberen Leiste Aufzeichnungen ausgewählt haben, gelangen Sie zu Meine Aufzeichnungen, wo Sie eine Liste aller hochgeladenen Aufzeichnungen anzeigen können.
+Klicken Sie auf die Registerkarte &quot;Aufzeichnungen&quot;, um eine Liste aller hochgeladenen Aufzeichnungen anzuzeigen.
 
 Unter Meine Aufnahme finden Sie alle Aufnahmen, die in dem von Ihnen erstellten Raum verfügbar sind. Sie können auch die jeweilige Größe, Datum und Uhrzeit sowie die Dauer der Aufzeichnungen anzeigen.
 

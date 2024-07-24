@@ -3,9 +3,9 @@ description: E-Mail-Überprüfung - Marketo-Dokumente - Produktdokumentation
 title: E-Mail-Überprüfung
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
 feature: Users and Roles
-source-git-commit: c5d5fd490fe2800dc7a34d02c73d728e115646a0
+source-git-commit: 7b64e6e9bbd282b1e27f4c9c862df07642e9a35b
 workflow-type: tm+mt
-source-wordcount: '466'
+source-wordcount: '470'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Wenn ein Administrator einen Benutzer einlädt, wird dieser automatisch überpr�
 
 >[!IMPORTANT]
 >
->Die Ausnahme oben ist, dass in einem reinen SSO-Abonnement _Administratoren eine neue Benutzereinladung erhalten, Benutzer, die keine Administratoren sind, dies jedoch nicht._ Benutzer, die keine Administratoren sind, müssen weiterhin den E-Mail-Verifizierungsprozess durchlaufen, um die Migration ihrer Datensätze sicherzustellen. Benutzer können den E-Mail-Verifizierungslink selbst senden, indem sie zu **Admin** > **Mein Konto** > **Kontoeinstellungen** navigieren und auf **Überprüfung erneut senden** klicken.
+>Die Ausnahme oben ist, dass in einem reinen SSO-Abonnement _Administratoren eine neue Benutzereinladung erhalten, Benutzer, die keine Administratoren sind, dies jedoch nicht._ Benutzer, die keine Administratoren sind, müssen weiterhin den E-Mail-Verifizierungsprozess durchlaufen, um die Migration ihrer Datensätze sicherzustellen. Benutzer können den E-Mail-Verifizierungslink selbst senden, indem sie auf ihr Profilsymbol klicken, zu **Mein Konto** > **Kontoeinstellungen** navigieren und auf **Überprüfung erneut senden** klicken.
 
 ![](assets/email-verification-1.png)
 

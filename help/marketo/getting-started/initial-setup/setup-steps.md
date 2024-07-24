@@ -4,9 +4,9 @@ short-description: Erste Schritte mit Adobe Marketo Engage? Erfahren Sie, welche
 title: Einrichtungsschritte
 feature: Getting Started
 exl-id: 5f37da48-b2ed-4e48-a5a2-429149745085
-source-git-commit: 384740fdfc1f6950369116bd77ee49f9e745bdf1
+source-git-commit: 7b64e6e9bbd282b1e27f4c9c862df07642e9a35b
 workflow-type: tm+mt
-source-wordcount: '1708'
+source-wordcount: '1705'
 ht-degree: 0%
 
 ---
@@ -187,17 +187,17 @@ include:mktomail.com
 
 `b.` Für DKIM erstellen Sie bitte DNS-Ressourcendatensätze für jede Domäne, die wir einrichten möchten. Im Folgenden finden Sie die Hostdatensätze und TXT-Werte für jede Domäne, für die wir Signieren werden:
 
-**`[DKIMDomain1]`**: Host-Datensatz ist **`[HostRecord1]`** und der TXT-Wert ist **[TXTValue1]**.
+**`[DKIMDomain1]`**: Host-Eintrag ist **`[HostRecord1]`** und der TXT-Wert ist **`[TXTValue1]`**.
 
 **`[DKIMDomain2]`**: Host-Eintrag ist **`[HostRecord2]`** und der TXT-Wert ist **`[TXTValue2]`**.
 
 `[`Kopieren Sie den **HostRecord** und den **TXTValue** für jeden **DKIMDomain**, den Sie eingerichtet haben, nachdem Sie die [Anweisungen hier](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md) befolgt haben. Vergessen Sie nicht, jede Domäne unter **Admin > E-Mail > DKIM** zu überprüfen, nachdem Ihre IT-Mitarbeiter diesen Schritt abgeschlossen haben.`]`
 
-`5)` Wir müssen sicherstellen, dass ein gültiger MX-Eintrag für unsere FROM-Domänen **[FromDomain1]**, **[FromDomain2]** usw. vorhanden ist. Können Sie das bestätigen? Wenn nicht, konfigurieren Sie bitte, um der Unternehmensdomäne MX-Datensatz zuzuordnen. Dadurch wird sichergestellt, dass wir Antworten/Autoreaktoren auf unsere Marketo Mailings verarbeiten können.
+`5)` Wir müssen sicherstellen, dass ein gültiger MX-Eintrag für unsere FROM-Domänen **`[FromDomain1]`**, **`[FromDomain2]`** usw. vorhanden ist. Können Sie das bestätigen? Wenn nicht, konfigurieren Sie bitte, um der Unternehmensdomäne MX-Datensatz zuzuordnen. Dadurch wird sichergestellt, dass wir Antworten/Autoreaktoren auf unsere Marketo Mailings verarbeiten können.
 
 Teilen Sie mir mit, wenn Sie diese Schritte ausgeführt haben, damit ich den Einrichtungsprozess mit Marketo abschließen kann.
 
-Danke! Du bist der Beste!
+Vielen Dank! Du bist der Beste!
 
 Mit freundlichen Grüßen
 

@@ -4,7 +4,8 @@ title: Interaktions-Dashboard
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: d802f6b5988f93f7c75558d864b527da9e0afbec
+exl-id: 7fdb922a-a67a-4027-b9c2-8d8833c8eba0
+source-git-commit: 7b64e6e9bbd282b1e27f4c9c862df07642e9a35b
 workflow-type: tm+mt
 source-wordcount: '1759'
 ht-degree: 0%
@@ -102,15 +103,15 @@ SCREENSHOT
 
 ### Interaktion {#engagement}
 
-Diese Benutzeroberfläche bietet einen Überblick über die Leistung einer Live-Sitzung bei einem Ereignis. Die Übersicht enthält wichtige Metriken, Interaktionen im Zeitverlauf und Teilnehmerinteraktionen. Es hilft Organisatoren, den Erfolg des Ereignisses zu bewerten und Bereiche für Verbesserungen zu identifizieren.
+Bietet einen Überblick über die Leistung einer Live-Sitzung bei einem Ereignis. Die Übersicht enthält wichtige Metriken, Interaktionen im Zeitverlauf und Teilnehmerinteraktionen. Es hilft Organisatoren, den Erfolg des Ereignisses zu bewerten und Bereiche für Verbesserungen zu identifizieren.
 
-Wählen Sie im linken Bereich Interaktion aus, um die Leistung der Live-Sitzung anzuzeigen. Wählen Sie Interaktionszusammenfassung (PDF) aus, um die Leistungszusammenfassung der Live-Sitzung herunterzuladen. Die Übersicht ist in verschiedene Abschnitte unterteilt.
+Wählen Sie im linken Bereich **[!UICONTROL Interaktion]** aus, um die Leistung der Live-Sitzung anzuzeigen. **[!UICONTROL Klicken Sie auf Interaktionszusammenfassung (PDF)]** , um die Leistungszusammenfassung der Live-Sitzung herunterzuladen. Die Übersicht enthält Daten in verschiedenen Abschnitten.
 
 SCREENSHOT
 
 **Schlüsselmetriken**
 
-Zeigen Sie die Anzahl der Registrierungen, Teilnehmer und Interaktionen in der Live-Sitzung über Schlüsselmetriken an.
+Anzeigen der Anzahl der Registrierungen, Teilnehmer und Interaktionen in der Live-Sitzung
 
 SCREENSHOT
 
@@ -134,14 +135,14 @@ SCREENSHOT
   </tr>
   <tr>
     <td><b>Durchschnittliche Dauer der Uhr in Minuten</td>
-    <td>Zeigt die durchschnittliche Überwachungsdauer in Minuten einer Live-Sitzung an.</td>
+    <td>Zeigt die durchschnittliche Überwachungsdauer in Minuten der Live-Sitzung an.</td>
   </tr>
 </tbody>
 </table>
 
 **Interaktion im Zeitverlauf**
 
-In den Interaktionsdiagrammen erfahren Sie über die durchschnittliche Interaktion im Zeitverlauf während der Live-Sitzung. Hosts können überwachen, wie Interaktionsstufen schwanken, und ihnen so die Möglichkeit geben, kritische Momente hoher oder geringer Interaktion zu identifizieren. Überprüfen Sie, wie viel des durchschnittlichen Interaktionswerts von den beteiligten Teilnehmern in verschiedenen Layouts erzielt wurde.
+In den Interaktionsdiagrammen erfahren Sie über die durchschnittliche Interaktion im Zeitverlauf während der Live-Sitzung. Hosts können überwachen, wie Interaktionsstufen schwanken, und ihnen so die Möglichkeit geben, kritische Momente hoher oder geringer Interaktion zu identifizieren. Erfahren Sie, wie viel des durchschnittlichen Interaktionswerts von den beteiligten Teilnehmern in verschiedenen Layouts erzielt wurde.
 
 SCREENSHOT
 
@@ -151,7 +152,7 @@ Zeigen Sie die folgenden Informationen an, indem Sie den Mauszeiger über das Di
 * Durchschnittliche Interaktionsbewertung zu diesem Zeitpunkt.
 * Anzahl der Teilnehmer, die zu diesem Zeitpunkt eingestellt wurden.
 * Layout der Interaktion zu diesem Zeitpunkt.
-* Wählen Sie In Aufzeichnung sofort anzeigen aus, um den Zeitpunkt in der Aufzeichnung anzuzeigen, in dem die Interaktion hoch oder niedrig war.
+* Wählen Sie **[!UICONTROL Instant in Recording anzeigen]** aus, um den Zeitpunkt in der Aufzeichnung anzuzeigen, an dem die Interaktion hoch oder niedrig war.
 * Durchschnittliche Interaktionsbewertung (%) im Zeitverlauf der Sitzung
 * Teilnahme im Zeitverlauf
 * Die Interaktion in verschiedenen Webinar-Layouts wird angezeigt, wenn während der Veranstaltung verschiedene Layouts im Raum verwendet wurden. Dies hilft, den Anstieg und Rückgang von Interaktionen in verschiedenen Layouts zu korrelieren.
@@ -162,28 +163,28 @@ Sie können die Interaktionen der Teilnehmer von verschiedenen Pods aus anzeigen
 
 SCREENSHOT
 
-Wählen Sie Zu Interaktionen wechseln aus, um Antworten aus Umfragen, QnA-Metriken und die Reaktionen der Teilnehmer während der Sitzung anzuzeigen. Sehen Sie sich an, wie Teilnehmer über Pods aus Interaktionen interagieren, und laden Sie Interaktionsberichte aus dem folgenden Abschnitt herunter.
+Wählen Sie **[!UICONTROL Gehe zu Interaktionen]** aus, um Antworten aus Umfragen, Metriken zur Servicequalität und die Reaktionen der Teilnehmer während der Sitzung anzuzeigen. Sehen Sie sich an, wie Teilnehmer über Pods aus Interaktionen interagieren, und laden Sie Interaktionsberichte aus dem folgenden Abschnitt herunter.
 
 ### Interaktionen {#interactions}
 
-Interaktion und Teilnahme der Teilnehmer an der Sitzung über Interaktionen anzeigen. Verfolgen Sie Antworten auf Umfragen, QnA-Metriken, Reaktionen von Teilnehmern sowie Links und Dateien aus den entsprechenden Pods. Hosts können für eine bessere Analyse auch Interaktionsberichte dieser Pods herunterladen. Indem Sie diese Interaktionen analysieren, ermitteln Sie Trends und passen Sie ihre Strategien an, um eine interaktivere und ansprechendere Umgebung zu fördern.
+Interaktion und Teilnahme der Teilnehmer an der Sitzung über Interaktionen anzeigen. Verfolgen Sie Antworten auf Umfragen, QnA-Metriken, Reaktionen von Teilnehmern sowie Links und Dateien aus den entsprechenden Pods. Hosts können für eine bessere Analyse auch Interaktionsberichte dieser Pods herunterladen. Durch Analyse dieser Interaktionen können Sie Trends identifizieren und ihre Strategien anpassen, um eine interaktivere und ansprechendere Umgebung zu fördern.
 
-Wählen Sie im linken Bereich Interaktionen aus, um zu sehen, wie Teilnehmer über Pods hinweg interagieren.
+Wählen Sie im linken Bereich **[!UICONTROL Interaktionen]** aus, um zu sehen, wie Teilnehmer über Pods hinweg interagieren.
 
 SCREENSHOT
 
-Wählen Sie in der Menüleiste die Registerkarte Umfragen aus, um Fragen und Antworten anzuzeigen, die zur Umfrage hinzugefügt wurden. Dieser Tab enthält die folgenden Informationen:
+Wählen Sie in der Menüleiste die Registerkarte **[!UICONTROL Umfragen]** aus, um Fragen und Antworten anzuzeigen, die zur Umfrage hinzugefügt wurden. Dieser Tab enthält die folgenden Informationen:
 
-* Wählen Sie Umfragebericht (CSV) aus, um den Bericht für Interaktionen im Umfrage-Pod herunterzuladen.
+* Wählen Sie **[!UICONTROL Umfragebericht (CSV)]** aus, um den Bericht für Interaktionen im Umfrage-Pod herunterzuladen.
 * Frage und Art der Umfrage.
 * Anzahl der Antworten und Zeitraum, in dem der Umfrage-Pod geöffnet und aktiviert wurde.
-* Wählen Sie Alle `<number>` -Antworten anzeigen aus, um sie in einem Dialogfeld anzuzeigen.
+* Wählen Sie &quot;**Alle `<number>` Antworten anzeigen**&quot;, um sie in einem Dialogfeld anzuzeigen.
 
-Wählen Sie in der Menüleiste die Registerkarte Sonstige Interaktionen aus, um die Interaktion mit anderen Pods anzuzeigen und die zugehörigen Berichte herunterzuladen.
+Wählen Sie in der Menüleiste die Registerkarte **[!UICONTROL Sonstige Interaktionen]** aus, um die Interaktion mit anderen Pods anzuzeigen und die zugehörigen Berichte herunterzuladen.
 
 SCREENSHOT
 
-Wählen Sie Interaktionsberichte herunterladen aus dem Dropdown-Menü oben rechts aus, um Berichte mit verschiedenen Pods herunterzuladen. Laden Sie hier den Bericht zu Fragen und Antworten, den Bericht zu Links und Dateien sowie den Bericht Reaktionen herunter, um eine bessere Verfolgung zu erzielen.
+Wählen Sie **[!UICONTROL Interaktionsberichte herunterladen]** aus der Dropdown-Liste aus, um Berichte mit verschiedenen Pods herunterzuladen. Laden Sie hier den Bericht zu Fragen und Antworten, den Bericht zu Links und Dateien sowie den Bericht Reaktionen herunter, um eine bessere Verfolgung zu erzielen.
 
 Die Interaktionsinformationen über Pods hinweg sind in verschiedenen Abschnitten verfügbar.
 
@@ -234,28 +235,28 @@ SCREENSHOT
 
 Zeigen Sie im Diagramm die folgenden Details an:
 
-* Name der Dateien, die zum Dateipod hinzugefügt werden.
+* Name der Dateien, die zum Datei-Pod hinzugefügt werden.
 * Anzahl der Teilnehmer, die mindestens eine Datei heruntergeladen haben.
 * Trend der eindeutigen Downloads für jede Datei, die zum Weblinks-Pod hinzugefügt wird.
 
 ### Aktivität &quot;On-Demand&quot; {#on-demand-activity}
 
-Wählen Sie im linken Bereich die Option On-Demand-Aktivität aus, um die Zusammenfassung der Aufzeichnungen anzuzeigen. Sie können auch einen Bericht für On-Demand-Aktivitäten herunterladen.
+Wählen Sie im linken Bereich die Option **[!UICONTROL On-Demand-Aktivität]** aus, um die Zusammenfassung der Aufzeichnungen anzuzeigen. Sie können auch einen Bericht für On-Demand-Aktivitäten herunterladen.
 
 SCREENSHOT
 
 Zeigen Sie in der On-Demand-Aktivität die folgenden Metriken an:
 
-* Wählen Sie On-Demand-Bericht (CSV) aus, um die On-Demand-Metriken herunterzuladen.
+* Klicken Sie auf **[!UICONTROL On-Demand-Bericht (CSV)]** , um die On-Demand-Metriken herunterzuladen.
 * Anzahl der eindeutigen Viewer, bis das Dashboard zuletzt aktualisiert wurde.
 * Anzahl der Zuschauer, die die Aufzeichnung angesehen, aber nicht am Webinar teilnehmen konnten.
 * Anzahl der Zuschauer, die das Webinar besucht und die Aufzeichnung angesehen haben. Sie werden wahrscheinlich die besten Aussichten haben.
-* Anzahl der Viewer, die sich für eine On-Demand-Sitzung registriert haben.
+* Anzahl der Viewer, die sich für die On-Demand-Sitzung registriert haben.
 * Durchschnittliche Überwachungsdauer der Aufzeichnung in Minuten.
 
 ### Teilnehmer-Aktivität {#participant-activity}
 
-Wählen Sie im linken Bereich die Option Teilnehmer-Aktivität aus, um konsolidierte Informationen über die Interaktionsstufe der einzelnen Teilnehmer anzuzeigen. Sehen Sie sich an, wie diese Interaktion in Stufen von der Interaktionsstufe Teilnehmer klassifiziert wird. Wählen Sie Benutzeraktivitätsbericht (CSV) aus, um den Bericht für eine bessere Verfolgung herunterzuladen.
+Wählen Sie im linken Bereich **[!UICONTROL Teilnehmer-Aktivität]** aus, um konsolidierte Informationen über die Interaktionsstufe jedes Teilnehmers anzuzeigen. Sehen Sie sich an, wie diese Interaktion in Stufen von der Interaktionsstufe Teilnehmer klassifiziert wird. Klicken Sie auf **[!UICONTROL Benutzeraktivitätsbericht (CSV)]** , um den Bericht zur besseren Verfolgung herunterzuladen.
 
 SCREENSHOT
 
@@ -272,23 +273,26 @@ Zeigen Sie die folgenden Details aus der Tabelle an:
 
 Laden Sie Berichte für verschiedene Aktivitäten und Pods von einem zentralisierten Hub als Host herunter.
 
-1. Wählen Sie im linken Bereich die Option Berichte herunterladen aus.
-1. Wählen Sie Alle herunterladen (.zip) aus, um Berichte für alle Aktivitäten und Pods gleichzeitig herunterzuladen.
+1. Wählen Sie im linken Bereich **[!UICONTROL Berichte herunterladen]** aus.
+
+1. Wählen Sie **[!UICONTROL Alle herunterladen (.zip)]** aus, um Berichte für alle Aktivitäten und Pods gleichzeitig herunterzuladen.
 
 SCREENSHOT
 
-Klicken Sie auf das Symbol neben dem jeweiligen Bericht, um ihn einzeln herunterzuladen.
+>[!NOTE]
+>
+>Klicken Sie auf das Download-Symbol neben jedem Bericht, um ihn einzeln herunterzuladen.
 
 ## Interaktionsstufe des Teilnehmers {#participant-engagement-level}
 
-Unternehmen verwenden Adobe Connect, um hochgradig personalisierte, markenspezifische und interaktionsgeführte Webinare bereitzustellen. Interaktive Tools wie Umfragen, Chat, Fragen und Antworten helfen den Teilnehmern, sich zu engagieren und mehr zu sammeln als nur Registrierungs- und Anwesenheitsdaten. Nachdem die Teilnehmer mit diesen interaktiven Funktionen interagiert haben, werden die Interaktionsdaten verwendet, um die Teilnehmer in drei Interaktionsstufen zu klassifizieren: hoch, mittel und niedrig. Marketingexperten können die Interaktionsstufe verwenden, um Zielgruppensegmente zu aktualisieren, Lead-Bewertungen zu aktualisieren und Verkäufe zu warnen.
+Unternehmen verwenden Adobe Connect, um hochgradig personalisierte, markenspezifische und interaktionsgeführte Webinare bereitzustellen. Interaktive Tools wie Umfragen, Chat, Fragen und Antworten helfen den Teilnehmern, sich zu engagieren und mehr zu sammeln als nur Registrierungs- und Anwesenheitsdaten. Nachdem die Teilnehmer mit diesen interaktiven Funktionen interagiert haben, werden die Interaktionsdaten verwendet, um die Teilnehmer in drei Interaktionsstufen zu klassifizieren: hoch, mittel und niedrig. Sie können die Interaktionsstufe verwenden, um Zielgruppensegmente zu aktualisieren, Personenergebnisse zu aktualisieren und Verkäufe zu warnen.
 
-Verstehen Sie das Kriterium für die Klassifizierung des Interaktionsniveaus für jeden Teilnehmer:
+Machen Sie sich mit den Kriterien für die Klassifizierung des Interaktionsniveaus für jeden Teilnehmer vertraut:
 
 <table><thead>
   <tr>
     <th>Interaktionsstufe</th>
-    <th>Klassifizierungskriterium</th>
+    <th>Klassifizierungskriterien</th>
   </tr></thead>
 <tbody>
   <tr>
