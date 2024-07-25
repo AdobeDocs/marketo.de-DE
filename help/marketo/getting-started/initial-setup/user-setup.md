@@ -1,5 +1,5 @@
 ---
-description: Bevor Sie in Ihre neue Marketo Engage-Instanz eintauchen, müssen Sie einige grundlegende Schritte für die kontinuierliche Verwendung durchführen. Zu diesen Schritten gehören die Einrichtung von Benutzerkonten, die Unterstützung der Einrichtung von Administratoren und das Abonnieren laufender Systemaktualisierungen.
+description: Bevor Sie Ihre neue Marketo Engage-Instanz einrichten, müssen Sie ein paar grundlegende Schritte für die kontinuierliche Nutzung durchführen. Zu diesen Schritten gehören die Einrichtung von Benutzerkonten, die Einrichtung von Admins zur Unterstützung und das Abonnieren laufender Systemaktualisierungen.
 short-description: Erfahren Sie nach Abschluss der ersten Einrichtungsschritte, wie Sie grundlegende Elemente erstellen, um eine reibungslose fortlaufende Nutzung zu gewährleisten.
 title: Checkliste zur Benutzereinrichtung
 feature: Getting Started
@@ -7,13 +7,13 @@ exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
 source-git-commit: 384740fdfc1f6950369116bd77ee49f9e745bdf1
 workflow-type: tm+mt
 source-wordcount: '811'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
 # Checkliste zur Benutzereinrichtung {#user-setup-checklist}
 
-Nachdem Sie alle [ersten Einrichtungsschritte](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"} abgeschlossen haben, ist es an der Zeit, einige grundlegende Elemente zu erstellen, um eine reibungslose fortlaufende Nutzung zu gewährleisten. Dies wird die Grundlage für Ihr Journey mit Marketo Engage bilden und Ihnen dabei helfen, seine Funktionen optimal zu nutzen. Fangen wir an!
+Nachdem Sie alle [ersten Einrichtungsschritte](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"} abgeschlossen haben, ist es an der Zeit, einige grundlegende Elemente zu erstellen, um eine reibungslose fortlaufende Nutzung zu gewährleisten. Dies wird die Grundlage für Ihr Journey mit Marketo Engage bilden und Ihnen dabei helfen, seine Funktionen optimal zu nutzen. Los geht‘s!
 
 >[!NOTE]
 >

@@ -1,16 +1,16 @@
 ---
-description: Dynamic Chat - Versionshinweise - Marketo-Dokumente - Produktdokumentation
-title: Dynamic Chat-Versionshinweise
+description: Dynamic Chat-Versionshinweise – Marketo-Dokumente – Produktdokumentation
+title: Versionshinweise zu Dynamic Chat
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
 source-git-commit: 0015db05477cbb46a34e8abd4800d00c6522496f
 workflow-type: tm+mt
 source-wordcount: '1472'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Dynamic Chat-Versionshinweise {#dynamic-chat-release}
+# Versionshinweise zu Dynamic Chat {#dynamic-chat-release}
 
 Adobe Dynamic Chat-Releases basieren auf einem kontinuierlichen Bereitstellungsmodell, das einen skalierbareren Ansatz für die Implementierung von Funktionen ermöglicht. Manchmal gibt es mehrere Versionen in einem Monat. Schauen Sie daher regelmäßig nach, um aktuelle Informationen zu erhalten.
 
@@ -18,7 +18,7 @@ Die standardmäßige Seite mit Versionshinweisen für Marketo Engage [finden Sie
 
 ## Version Juni 2024 {#june-release}
 
-**Veröffentlichungsdatum: 6. Juni 2024**
+**Veröffentlichungsdatum: Freitag, 6. Juni 2024**
 
 ### Konversionsflusskarte {#conversational-flow-card}
 
@@ -38,7 +38,7 @@ Auf der Seite Nutzungsbeschränkungen werden wichtige Informationen angezeigt, w
 
 ## Version Mai 2024 {#may-release}
 
-**Veröffentlichungsdatum: 15. Mai 2024**
+**Veröffentlichungsdatum: Donnerstag, 15. Mai 2024**
 
 ### Vorab genehmigte Antwortbibliothek {#pre-approved-response-library}
 
@@ -76,7 +76,7 @@ Fügen Sie Webbesuchern einen Aktionsaufruf hinzu, um Gespräche zum Abschluss z
 
 ## Version April 2024 {#april-release}
 
-**Veröffentlichungsdatum: 23. April 2024**
+**Veröffentlichungsdatum: Mittwoch, 23. April 2024**
 
 ### Konversationsflüsse jetzt für alle Benutzer verfügbar {#conversational-flows-available-to-all-users}
 
@@ -175,9 +175,9 @@ Als wir 2022 Dynamic Chat herausbrachten, gab es keine Unterstützung für Live-
 
 ![](assets/dynamic-chat-release-9.png)
 
-## Version Februar 2024 {#february-release}
+## Version Februar 2024 {#february-release}
 
-**Veröffentlichungsdatum: 22. Februar 2024**
+**Versionsdatum: Freitag, 22. Februar 2024**
 
 ### Seite &quot;Konversationen&quot; {#conversations-page}
 
@@ -195,7 +195,7 @@ Die bedingte Verzweigung ermöglicht es Ihnen, Verzweigungen in Ihren Dialogfeld
 
 ## Version Januar 2024 {#january-release}
 
-**Veröffentlichungsdatum: 24. Januar 2024**
+**Versionsdatum: Donnerstag, 24. Januar 2024**
 
 ### Begrenzung für gleichzeitige Live-Chat-Vorgänge in der Agentenverwaltung {#Concurrent-live-chat-limit-setting}
 

@@ -1,13 +1,13 @@
 ---
-description: Einrichtungsschritte - Marketo-Dokumente - Produktdokumentation
-short-description: Erste Schritte mit Adobe Marketo Engage? Erfahren Sie, welche Schritte Sie vor dem Eintauchen durchführen müssen.
+description: Einrichtungsschritte – Marketo-Dokumente – Produktdokumentation
+short-description: Sie beginnen gerade erst mit Adobe Marketo Engage? Erfahren Sie, welche Schritte Sie durchführen müssen, bevor Sie loslegen können.
 title: Einrichtungsschritte
 feature: Getting Started
 exl-id: 5f37da48-b2ed-4e48-a5a2-429149745085
 source-git-commit: 7b64e6e9bbd282b1e27f4c9c862df07642e9a35b
 workflow-type: tm+mt
 source-wordcount: '1705'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 

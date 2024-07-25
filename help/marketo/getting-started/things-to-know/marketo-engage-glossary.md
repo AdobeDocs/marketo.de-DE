@@ -1,5 +1,5 @@
 ---
-description: Marketo Engage-Glossar - Marketo Docs - Produktdokumentation
+description: Marketo Engage-Glossar – Marketo-Dokumente – Produktdokumentation
 short-description: Lernen Sie Marketo Engage-Begriffe und ihre Definitionen kennen, um schnell auf den neuesten Stand zu kommen.
 title: Marketo Engage-Glossar
 feature: Getting Started
@@ -7,7 +7,7 @@ exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
 source-git-commit: 384740fdfc1f6950369116bd77ee49f9e745bdf1
 workflow-type: tm+mt
 source-wordcount: '4098'
-ht-degree: 4%
+ht-degree: 5%
 
 ---
 
@@ -60,7 +60,7 @@ Im Folgenden finden Sie Definitionen für viele der Begriffe, auf die Sie bei de
    <td colspan="1">Der offizielle Markenname für das Aggregat aller Marketo-Produktangebote innerhalb der Adobe Experience Cloud.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md" rel="nofollow">Alarm</a></strong></td> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md" rel="nofollow">Warnhinweis</a></strong></td> 
    <td colspan="1">Eine Benachrichtigung, mit der die von Ihnen bestimmte Person per E-Mail über eine Transaktion informiert wird.</td> 
   </tr> 
   <tr> 
@@ -172,7 +172,7 @@ Im Folgenden finden Sie Definitionen für viele der Begriffe, auf die Sie bei de
    <td colspan="1">Berichtstyp, der anzeigt, welche Unternehmen Ihre Website besuchen.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md" rel="nofollow"><strong>Einschränkung</strong></a></td> 
+   <td colspan="1"><a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md" rel="nofollow"><strong>Beschränkung</strong></a></td> 
    <td colspan="1">Eine zusätzliche Bedingung, die Sie der Smart-Liste <strong>filter</strong>/<strong>Trigger </strong> hinzufügen können, um Ihre Suche einzuschränken.</td> 
   </tr> 
   <tr> 
@@ -210,7 +210,7 @@ Im Folgenden finden Sie Definitionen für viele der Begriffe, auf die Sie bei de
   <tr> 
    <td colspan="1"> 
     <div> 
-     <p><strong> Customer Relationship Management (CRM)</strong></p> 
+     <p><strong> CRM (Customer Relationship Management)</strong></p> 
     </div></td> 
    <td colspan="1">Ein System, das Unternehmen die Verwaltung von Informationen ermöglicht, die mit ihren Kunden/potenziellen Kunden in Verbindung stehen. Marketo ermöglicht nur die native Integration mit zwei CRMs: <strong>Salesforce</strong> und <strong>Microsoft Dynamics</strong>.</td> 
   </tr> 
@@ -244,7 +244,7 @@ Im Folgenden finden Sie Definitionen für viele der Begriffe, auf die Sie bei de
    <td colspan="1">Ein Programmtyp in Marketo. Ein generisches Programm, das Sie verwenden, wenn ein E-Mail-, Ereignis- oder Interaktionsprogramm nicht relevant ist. <br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Zustellbarkeit.</strong></td> 
+   <td colspan="1"><strong>Strategie und Definition</strong></td> 
    <td colspan="1">Die Fähigkeit einer E-Mail-Nachricht, den Posteingang des Empfängers zu erreichen, was durch <strong>Spam</strong> und clientseitige Filter beeinträchtigt werden kann. Im Unterschied zu "Zugestellt", der nur angibt, dass die E-Mail an den Empfänger-Server gesendet wurde.</td> 
   </tr> 
   <tr> 
@@ -503,7 +503,7 @@ Im Folgenden finden Sie Definitionen für viele der Begriffe, auf die Sie bei de
    <td><p>Einer der Kernbereiche von Adobe Marketo Engage. Hier erfolgt die Orchestrierung der <strong>Kampagne</strong>. Alle Ihre <strong>Programme</strong>, Kampagnen und <strong>Kampagnenordner</strong> (sowie ihre <strong>lokalen Assets</strong>) sind hier verfügbar.</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="https://www.marketo.com/marketing-automation/" rel="nofollow"><strong>Marketing-Automation</strong></a></td> 
+   <td colspan="1"><a href="https://www.marketo.com/marketing-automation/" rel="nofollow"><strong>Marketing-Automatisierung</strong></a></td> 
    <td colspan="1">Eine Technologiekategorie, die es Unternehmen ermöglicht, Marketing-Aufgaben und -Workflows zu optimieren, zu automatisieren und zu messen, sodass sie die betriebliche Effizienz steigern und Umsätze schneller steigern können.</td> 
   </tr> 
   <tr> 
