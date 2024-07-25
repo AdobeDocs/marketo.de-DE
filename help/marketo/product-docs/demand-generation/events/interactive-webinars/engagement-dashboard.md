@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Interactive Webinars
 exl-id: 7fdb922a-a67a-4027-b9c2-8d8833c8eba0
-source-git-commit: 7b64e6e9bbd282b1e27f4c9c862df07642e9a35b
+source-git-commit: 1df21d49f7ab29338ffe48f0d06302cc0fc792a1
 workflow-type: tm+mt
-source-wordcount: '1759'
+source-wordcount: '1742'
 ht-degree: 0%
 
 ---
@@ -29,15 +29,15 @@ Zeigen Sie die Interaktion für die folgenden Sitzungstypen in einem interaktive
 
 1. Wechseln Sie zu **[!UICONTROL Marketingaktivitäten]**.
 
-   SCREENSHOT
+   ![](assets/engagement-dashboard-1.png)
 
 1. Wählen Sie das gewünschte Ereignis aus.
 
-   SCREENSHOT
+   ![](assets/engagement-dashboard-2.png)
 
 1. Klicken Sie in der Übersicht auf **[!UICONTROL Interaktions-Dashboard anzeigen]**.
 
-   SCREENSHOT
+   ![](assets/engagement-dashboard-3.png)
 
    >[!NOTE]
    >
@@ -79,7 +79,7 @@ Sie können die folgenden Details im Interaktions-Dashboard anzeigen.
 
 Diese Oberfläche bietet einen konsolidierten Überblick über die Leistung des Ereignisses bei Live- und On-Demand-Sitzungen. Wählen Sie im linken Bereich die Option Ereigniszusammenfassung aus, um die Gesamtmetriken anzuzeigen.
 
-SCREENSHOT
+![](assets/engagement-dashboard-4.png)
 
 <table><tbody>
   <tr>
@@ -107,13 +107,13 @@ Bietet einen Überblick über die Leistung einer Live-Sitzung bei einem Ereignis
 
 Wählen Sie im linken Bereich **[!UICONTROL Interaktion]** aus, um die Leistung der Live-Sitzung anzuzeigen. **[!UICONTROL Klicken Sie auf Interaktionszusammenfassung (PDF)]** , um die Leistungszusammenfassung der Live-Sitzung herunterzuladen. Die Übersicht enthält Daten in verschiedenen Abschnitten.
 
-SCREENSHOT
+![](assets/engagement-dashboard-5.png)
 
 **Schlüsselmetriken**
 
 Anzeigen der Anzahl der Registrierungen, Teilnehmer und Interaktionen in der Live-Sitzung
 
-SCREENSHOT
+![](assets/engagement-dashboard-6.png)
 
 <table><tbody>
   <tr>
@@ -144,7 +144,7 @@ SCREENSHOT
 
 In den Interaktionsdiagrammen erfahren Sie über die durchschnittliche Interaktion im Zeitverlauf während der Live-Sitzung. Hosts können überwachen, wie Interaktionsstufen schwanken, und ihnen so die Möglichkeit geben, kritische Momente hoher oder geringer Interaktion zu identifizieren. Erfahren Sie, wie viel des durchschnittlichen Interaktionswerts von den beteiligten Teilnehmern in verschiedenen Layouts erzielt wurde.
 
-SCREENSHOT
+![](assets/engagement-dashboard-7.png)
 
 Zeigen Sie die folgenden Informationen an, indem Sie den Mauszeiger über das Diagramm bewegen:
 
@@ -161,7 +161,7 @@ Zeigen Sie die folgenden Informationen an, indem Sie den Mauszeiger über das Di
 
 Sie können die Interaktionen der Teilnehmer von verschiedenen Pods aus anzeigen. Es enthält Informationen wie Antworten auf Fragen, Fragen, Interagieren mit Chat, Klicks auf mindestens einen Link und Heruntergeladen mindestens eine Datei.
 
-SCREENSHOT
+![](assets/engagement-dashboard-8.png)
 
 Wählen Sie **[!UICONTROL Gehe zu Interaktionen]** aus, um Antworten aus Umfragen, Metriken zur Servicequalität und die Reaktionen der Teilnehmer während der Sitzung anzuzeigen. Sehen Sie sich an, wie Teilnehmer über Pods aus Interaktionen interagieren, und laden Sie Interaktionsberichte aus dem folgenden Abschnitt herunter.
 
@@ -171,7 +171,7 @@ Interaktion und Teilnahme der Teilnehmer an der Sitzung über Interaktionen anze
 
 Wählen Sie im linken Bereich **[!UICONTROL Interaktionen]** aus, um zu sehen, wie Teilnehmer über Pods hinweg interagieren.
 
-SCREENSHOT
+![](assets/engagement-dashboard-9.png)
 
 Wählen Sie in der Menüleiste die Registerkarte **[!UICONTROL Umfragen]** aus, um Fragen und Antworten anzuzeigen, die zur Umfrage hinzugefügt wurden. Dieser Tab enthält die folgenden Informationen:
 
@@ -182,7 +182,7 @@ Wählen Sie in der Menüleiste die Registerkarte **[!UICONTROL Umfragen]** aus, 
 
 Wählen Sie in der Menüleiste die Registerkarte **[!UICONTROL Sonstige Interaktionen]** aus, um die Interaktion mit anderen Pods anzuzeigen und die zugehörigen Berichte herunterzuladen.
 
-SCREENSHOT
+![](assets/engagement-dashboard-10.png)
 
 Wählen Sie **[!UICONTROL Interaktionsberichte herunterladen]** aus der Dropdown-Liste aus, um Berichte mit verschiedenen Pods herunterzuladen. Laden Sie hier den Bericht zu Fragen und Antworten, den Bericht zu Links und Dateien sowie den Bericht Reaktionen herunter, um eine bessere Verfolgung zu erzielen.
 
@@ -192,7 +192,7 @@ Die Interaktionsinformationen über Pods hinweg sind in verschiedenen Abschnitte
 
 Zeigen Sie die folgenden Attribute des Fragen- und Antworten-Pods an.
 
-SCREENSHOT
+![](assets/engagement-dashboard-11.png)
 
 * Gesamtzahl der gestellten Fragen.
 * Anzahl der unbeantworteten Fragen.
@@ -204,7 +204,7 @@ SCREENSHOT
 
 Sehen Sie sich die Reaktionen der Teilnehmer von hier aus an, z. B. Einverständnis, Ablehnung, Beifall und Lachen während der Sitzung.
 
-SCREENSHOT
+![](assets/engagement-dashboard-12.png)
 
 Sehen Sie sich im Reaktionsdiagramm die folgenden Details an:
 
@@ -218,7 +218,7 @@ Sehen Sie sich im Reaktionsdiagramm die folgenden Details an:
 
 Links anzeigen, die während der Sitzung zum Weblinks-Pod hinzugefügt wurden, sowie die Anzahl der Klicks auf den freigegebenen Link. Mit dem Weblink-Pod können Sie Links aus Quellen außerhalb des Webinars hinzufügen, um eine Interaktion zu generieren.
 
-SCREENSHOT
+![](assets/engagement-dashboard-13.png)
 
 Zeigen Sie im Diagramm die folgenden Details an:
 
@@ -231,7 +231,7 @@ Zeigen Sie im Diagramm die folgenden Details an:
 
 Zeigen Sie die Dateien an, die während der Sitzung zum Dateipod hinzugefügt wurden, sowie die Anzahl der eindeutigen Downloads. Mit dem Datei-Pod können Sie Dateien hinzufügen und Ressourcen bereitstellen, um Interaktionen zu generieren.
 
-SCREENSHOT
+![](assets/engagement-dashboard-14.png)
 
 Zeigen Sie im Diagramm die folgenden Details an:
 
@@ -243,7 +243,7 @@ Zeigen Sie im Diagramm die folgenden Details an:
 
 Wählen Sie im linken Bereich die Option **[!UICONTROL On-Demand-Aktivität]** aus, um die Zusammenfassung der Aufzeichnungen anzuzeigen. Sie können auch einen Bericht für On-Demand-Aktivitäten herunterladen.
 
-SCREENSHOT
+![](assets/engagement-dashboard-15.png)
 
 Zeigen Sie in der On-Demand-Aktivität die folgenden Metriken an:
 
@@ -258,7 +258,7 @@ Zeigen Sie in der On-Demand-Aktivität die folgenden Metriken an:
 
 Wählen Sie im linken Bereich **[!UICONTROL Teilnehmer-Aktivität]** aus, um konsolidierte Informationen über die Interaktionsstufe jedes Teilnehmers anzuzeigen. Sehen Sie sich an, wie diese Interaktion in Stufen von der Interaktionsstufe Teilnehmer klassifiziert wird. Klicken Sie auf **[!UICONTROL Benutzeraktivitätsbericht (CSV)]** , um den Bericht zur besseren Verfolgung herunterzuladen.
 
-SCREENSHOT
+![](assets/engagement-dashboard-16.png)
 
 Zeigen Sie die folgenden Details aus der Tabelle an:
 
@@ -277,7 +277,7 @@ Laden Sie Berichte für verschiedene Aktivitäten und Pods von einem zentralisie
 
 1. Wählen Sie **[!UICONTROL Alle herunterladen (.zip)]** aus, um Berichte für alle Aktivitäten und Pods gleichzeitig herunterzuladen.
 
-SCREENSHOT
+   ![](assets/engagement-dashboard-17.png)
 
 >[!NOTE]
 >
