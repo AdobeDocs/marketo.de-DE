@@ -3,10 +3,10 @@ description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokument
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: cb69844d8e9e25cae19bc2d4a91c28376f58eadb
+source-git-commit: d61ac2c4b7c3fbd138a75b51bb184e4bfd1eef3c
 workflow-type: tm+mt
-source-wordcount: '465'
-ht-degree: 6%
+source-wordcount: '523'
+ht-degree: 7%
 
 ---
 
@@ -75,7 +75,17 @@ Die folgenden Funktionen fallen unter den standardmäßigen Versionszyklus und w
 
 ## Ankündigungen {#announcements}
 
-* **Neue Entwicklerdokumentations-Site**: Im Rahmen unserer kontinuierlichen Bemühungen um die Verbesserung des Marketo Engage-Benutzererlebnisses migrieren wir im Juli 2024 die gesamte Entwicklerdokumentation zur Adobe Experience League- und Adobe Developer-Website. [Mehr erfahren](https://nation.marketo.com/t5/employee-blogs/new-developer-documentation-website/ba-p/351055){target="_blank"}
+* **Neue Entwicklerdokumentations-Site**: Im Rahmen unserer kontinuierlichen Bemühungen um die Verbesserung des Marketo Engage-Benutzererlebnisses migrieren wir im Juli 2024 die gesamte Entwicklerdokumentation zur Adobe Experience League- und Adobe Developer-Website. [Weitere Informationen](https://nation.marketo.com/t5/employee-blogs/new-developer-documentation-website/ba-p/351055){target="_blank"}
+
+* **Veraltete Social-Funktionen**: Am Mittwoch, dem 31. Juli 2024, beginnt die Marketo Engage mit der Einstellung der folgenden Social-Funktionen im Produkt:
+
+   * Umfragen
+   * Social-Schaltfläche
+   * Empfehlungsangebot
+   * Videofreigabe
+   * Gewinnspiele
+
+Benutzer können keine dieser Social-Funktionen mehr in Marketo Engage erstellen, klonen oder einbetten. Vorhandene Social-Assets werden bis zum 31. Januar 2025 weiterhin funktionieren. [Weitere Informationen](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 * **Zugriffstoken bei Einstellung von Abfrageparametern**: Unterstützung für die Authentifizierung mithilfe von Zugriffstoken in einem Abfrageparameter eines Marketo Engage-REST-API-Aufrufs wird in einer zukünftigen Version (spezifisches Datum TBD) entfernt. Vorhandene Integrationen sollten zur Verwendung der Autorisierungs-Kopfzeile &quot;[hier beschrieben](https://developers.marketo.com/rest-api/authentication/){target="_blank"}&quot;migrieren. Für die neue Entwicklung sollte nur der Autorisierungs-Header für die Authentifizierung mit Marketo Engage verwendet werden.
 
