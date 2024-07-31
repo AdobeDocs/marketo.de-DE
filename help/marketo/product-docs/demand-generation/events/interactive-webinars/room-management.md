@@ -5,16 +5,20 @@ hide: true
 hidefromtoc: true
 feature: Interactive Webinars
 exl-id: f164795c-c64b-4e0e-a417-b5f7e18a26b3
-source-git-commit: 5757be46841e10ab12ea320ae380c434361a4240
+source-git-commit: 1d2dbc5859b031995eb487f617ace9fdb2be7f0b
 workflow-type: tm+mt
-source-wordcount: '771'
+source-wordcount: '786'
 ht-degree: 0%
 
 ---
 
 # Raumverwaltung {#room-management}
 
-Interaktive Webinar-Räume mit Adobe Connect wurden entwickelt, um ansprechende und kollaborative Online-Veranstaltungen zu erleichtern. Diese Webinare speichern eine Menge an Inhalt und Aufzeichnungen in Webinarräumen, die von autorisierten Organisationsmitgliedern erstellt wurden. Als Mitglied mit dem Recht, ein Zimmer zu erstellen, können Sie von einem zentralen Ort aus auf diese zugreifen und sie verwalten.
+Interaktive Webinar-Räume mit Adobe Connect wurden entwickelt, um ansprechende und kollaborative Online-Veranstaltungen zu erleichtern. Diese Webinare speichern Inhalte und Aufzeichnungen, die während des Webinars erstellt und verwendet werden. Als Mitglied mit dem Recht, ein Zimmer zu erstellen, können Sie von einem zentralen Ort aus auf diese zugreifen und sie verwalten.
+
+>[!NOTE]
+>
+>Sie können nur auf die Räume zugreifen, die Sie für ein Webinar erstellt haben, nicht auf die Zimmer anderer Mitglieder Ihrer Organisation.
 
 ## Verwalten und Zugreifen auf Zimmer und Aufzeichnungen {#manage-and-access-rooms-and-recordings}
 

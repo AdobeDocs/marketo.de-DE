@@ -1,17 +1,17 @@
 ---
 unique-page-id: 5472490
 description: Versionsplanung – Marketo-Dokumente – Produktdokumentation
-title: Veröffentlichungszeitplan
+title: Versionsplanung
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: aa04752e471a6bc5fbb78f1e5cdfae199e3134be
+source-git-commit: 1d2dbc5859b031995eb487f617ace9fdb2be7f0b
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 9%
+source-wordcount: '126'
+ht-degree: 14%
 
 ---
 
-# Veröffentlichungszeitplan {#release-schedule}
+# Versionsplanung {#release-schedule}
 
 **Version**: Der Monat/das Jahr jeder Version. Sobald die Versionshinweise verfügbar sind, werden sie in der folgenden Tabelle verlinkt.
 
@@ -50,12 +50,12 @@ _Veröffentlichungstermine/-funktionen können sich ändern_
   <tr>
    <td><a href="/help/marketo/release-notes/current.md">Juni 24</a></td>
    <td>7. Juni 2024</td>
-   <td>Im Gange</td>
+   <td>Versendet</td>
   </tr>
   <tr> 
    <td>Juli '24</td>
    <td>26. Juli 2024</td>
-   <td>Zeitplan</td>
+   <td>Im Gange</td>
   </tr>
   <tr> 
    <td>Oktober 24</td>
