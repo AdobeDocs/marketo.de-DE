@@ -3,7 +3,7 @@ description: Verwendungsgrenzen für Produkte - Marketo-Dokumente - Produktdokum
 title: Einschränkungen bei der Produktnutzung
 exl-id: 899dc59e-85bf-408e-9687-e0ed823dd51f
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 1f228323c18204149630a7cb77d6ae0a88b425e3
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 15%
@@ -16,12 +16,12 @@ Unten finden Sie die Einschränkungen für die Verwendung erweiterter Funktionen
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions ist eine webbasierte Anwendung, die über das [Marketo Sales Insight-Paket](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} in die Salesforce-Benutzeroberfläche integriert wird. Dies wird manchmal als &quot;Marketo-Verkäufe&quot;oder einfach als &quot;Aktionen&quot;bezeichnet.
+>Marketo Sales Insight Actions ist eine webbasierte Anwendung, die ausschließlich über das [Marketo Sales Insight-Paket](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} in das Salesforce CRM integriert wird. Dies wird manchmal als &quot;Marketo-Verkäufe&quot;oder einfach als &quot;Aktionen&quot;bezeichnet.
 
 <table>
   <th>Funktionalität</th>
   <th>Rate</th>
-  <th>Beschränkung</th>
+  <th>Limit</th>
  <tr>
   <td>Synchronisierung der Marketo-Personendatenbank</td>
   <td>laufend</td>
@@ -30,7 +30,7 @@ Unten finden Sie die Einschränkungen für die Verwendung erweiterter Funktionen
  <tr>
   <td>Verkaufs-E-Mail-Sendungen</td>
   <td>pro Benutzer/Tag</td>
-  <td>1</td>
+  <td>1.000</td>
  </tr>
  <tr>
   <td>Bulk Sales Email</td>

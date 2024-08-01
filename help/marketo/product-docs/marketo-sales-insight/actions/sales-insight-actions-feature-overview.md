@@ -3,9 +3,9 @@ description: Sales Insight-Aktionen Funktionsübersicht - Marketo-Dokumente - Pr
 title: Übersicht über die Funktionen von Sales Insight-Aktionen
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 1f228323c18204149630a7cb77d6ae0a88b425e3
 workflow-type: tm+mt
-source-wordcount: '1388'
+source-wordcount: '1361'
 ht-degree: 1%
 
 ---
@@ -16,11 +16,7 @@ Mit Marketing-gestützten Intelligenz- und Interaktionswerkzeugen können Sie mi
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions ist eine webbasierte Anwendung, die über das [Marketo Sales Insight-Paket](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} in die Salesforce-Benutzeroberfläche integriert wird. Dies wird manchmal als &quot;Marketo-Verkäufe&quot;oder einfach als &quot;Aktionen&quot;bezeichnet.
-
->[!AVAILABILITY]
->
->Diese Funktion wird derzeit für alle Sales Insight-Benutzer eingeführt. Wenn Sie beim Rollout eine Priorität erhalten möchten, senden Sie bitte eine E-Mail an `sales-insights(at)adobe(dot)com`.
+>Marketo Sales Insight Actions ist eine webbasierte Anwendung, die ausschließlich über das [Marketo Sales Insight-Paket](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} in das Salesforce CRM integriert wird. Dies wird manchmal als &quot;Marketo-Verkäufe&quot;oder einfach als &quot;Aktionen&quot;bezeichnet.
 
 Eine Videoübersicht zu Sales Insight-Aktionen erhalten Sie, wenn Sie [hier klicken](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html){target="_blank"}.
 
