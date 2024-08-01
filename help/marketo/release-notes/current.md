@@ -3,10 +3,10 @@ description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokument
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: d61ac2c4b7c3fbd138a75b51bb184e4bfd1eef3c
+source-git-commit: 1839ccb646e775b67efa8de7d2d2bf3dbbbefa72
 workflow-type: tm+mt
-source-wordcount: '523'
-ht-degree: 7%
+source-wordcount: '521'
+ht-degree: 6%
 
 ---
 
@@ -33,8 +33,8 @@ Die folgenden Funktionen fallen unter den standardmäßigen Versionszyklus und w
   </tr>
      <tr> 
    <td><strong>Interaktions-Dashboard für interaktive Webinare</strong>: Rufen Sie eine aggregierte Webinar-Leistungsansicht sowie eine umfassende Übersicht über die Interaktion für jeden Teilnehmer während des Webinars ab, damit Sie mithilfe der Marketo Engage-Orchestrierungs-Tools entscheiden können, welche Ergebnisse zum Targeting führt.</td> 
-    <td><i>Demnächst verfügbar</i></td>
-   <td><i>Demnächst verfügbar</i></td>
+    <td>Versendet</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md" target="_blank">Interaktions-Dashboard</a></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -44,8 +44,8 @@ Die folgenden Funktionen fallen unter den standardmäßigen Versionszyklus und w
   </tr>
      <tr> 
    <td><strong>Raumverwaltung für interaktive Webinare</strong>: Greifen Sie auf einzelne erstellte Räume zu (und nehmen Sie bei Bedarf Änderungen vor) und greifen Sie auf den Inhalt und die Aufzeichnung zu (und löschen Sie sie bei Bedarf, um den Speicher zu optimieren).</td> 
-    <td><i>Demnächst verfügbar</i></td>
-   <td><i>Demnächst verfügbar</i></td>
+    <td>Versendet</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/room-management.md" target="_blank">Raumverwaltung</a></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -55,8 +55,8 @@ Die folgenden Funktionen fallen unter den standardmäßigen Versionszyklus und w
   </tr>
      <tr> 
    <td><strong>Webinar-Anpassung für interaktive Webinare</strong>: Stellen Sie durch die Verwendung einer gemeinsamen Raumschnittstelle, von zwischengeschalteten Bildschirmen (wie z. B. Teilnehmereinstiegsbildschirmen) und benutzerdefinierter Video-Hintergründe ein einheitliches organisationsgenehmigtes Markenerlebnis bereit, sodass die Webinar-Strategie einfacher an die Markenstrategie angepasst werden kann.</td> 
-    <td><i>Demnächst verfügbar</i></td>
-   <td><i>Demnächst verfügbar</i></td>
+    <td>Versendet</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/customization.md" target="_blank">Anpassung interaktiver Webinare</a></td>
   </tr>
   <tr> 
    <td> </td> 

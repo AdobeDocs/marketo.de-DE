@@ -1,12 +1,12 @@
 ---
 description: Versionshinweise - März 2024 - Marketo-Dokumente - Produktdokumentation
-title: März 2024 - Versionshinweise
+title: März 2024 – Versionshinweise
 feature: Release Information
 exl-id: d8bc7f88-a77b-4b49-aed5-aceab9e639f0
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 1839ccb646e775b67efa8de7d2d2bf3dbbbefa72
 workflow-type: tm+mt
-source-wordcount: '351'
-ht-degree: 2%
+source-wordcount: '350'
+ht-degree: 4%
 
 ---
 
@@ -53,8 +53,8 @@ Die folgenden Funktionen fallen unter den standardmäßigen Versionszyklus und w
     <tr> 
    <td><strong>API Activity Metadata</strong>: 
    Metadaten wie Benutzeragent, Plattform und Gerät sind jetzt in Web- und E-Mail-Aktivitäten enthalten, was dazu beiträgt, über die Marketo REST-API konsistente Einblicke in diese Aktivitäten zu erhalten.</td> 
-   <td><i>Demnächst verfügbar</i></td>
-   <td><i>Demnächst verfügbar</i></td>
+   <td>Versendet</td>
+   <td>Nicht zutreffend</td>
   </tr>
  </tbody> 
 </table>
@@ -64,4 +64,4 @@ Die folgenden Funktionen fallen unter den standardmäßigen Versionszyklus und w
 
 * **API-Fehlerbehebung für Programmteilnehmer abrufen**: Vor Kurzem wurde eine Änderung vorgenommen, um das Verhalten des Endpunkts [Programmmitglieder abrufen](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Program-Members/operation/getProgramMembersUsingGET){target="_blank"} zu korrigieren. Bei der Verwendung des Filtertyps `updatedAt` zur Angabe eines Datumsbereichs bestand die Möglichkeit, dass in der Antwort keine in diesem Bereich aktualisierten Einträge für Programmmitgliedschaften enthalten waren. Darüber hinaus bestand die Möglichkeit, dass außerhalb des angegebenen Datumsbereichs aktualisierte Programmmitgliedschaftsdatensätze fälschlicherweise in die Antwort aufgenommen wurden. Beide Probleme wurden behoben.
 
-* **Einstellung des Kontoinsight-Browser-Plug-ins**: Adobe entfernt am 8. April 2024 das Browser-Plugin für Kontoverwaltung [Kontoeinblick](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md){target="_blank"} aus dem Chrome-Webspeicher. Vorhandene Benutzer: Sie können das Plug-in weiter verwenden, bis Sie Ihre Marketo Engage-Instanz zu Adobe Identity und Admin Console migrieren. Diese Änderung **wirkt sich nicht auf** andere TAM-Funktionen/Daten innerhalb von Marketo Engage oder die E-Mail-Plug-ins Chrome und Outlook aus, die mit Sales Insight funktionieren. [Weitere Infos](https://nation.marketo.com/t5/product-blogs/marketo-engage-account-insights-browser-plug-in-end-of-life/ba-p/344834){target="_blank"}.
+* **Einstellung des Kontoinsight-Browser-Plug-ins**: Adobe entfernt am 8. April 2024 das Browser-Plugin für Kontoverwaltung [Kontoeinblick](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md){target="_blank"} aus dem Chrome-Webspeicher. Vorhandene Benutzer: Sie können das Plug-in weiter verwenden, bis Sie Ihre Marketo Engage-Instanz zu Adobe Identity und Admin Console migrieren. Diese Änderung **wirkt sich nicht auf** andere TAM-Funktionen/Daten innerhalb von Marketo Engage oder die E-Mail-Plug-ins Chrome und Outlook aus, die mit Sales Insight funktionieren. [Weitere Informationen](https://nation.marketo.com/t5/product-blogs/marketo-engage-account-insights-browser-plug-in-end-of-life/ba-p/344834){target="_blank"}.
