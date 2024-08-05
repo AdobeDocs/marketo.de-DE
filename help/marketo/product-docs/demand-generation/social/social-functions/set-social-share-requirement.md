@@ -4,16 +4,20 @@ description: Social-Share-Anforderung festlegen - Marketo-Dokumente - Produktdok
 title: Social Share-Anforderung festlegen
 exl-id: 5aa8f245-f122-44eb-bec4-0a41c2509706
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 0%
+source-wordcount: '133'
+ht-degree: 1%
 
 ---
 
 # Social Share-Anforderung festlegen {#set-social-share-requirement}
 
 Wenn Sie [ein Verweisangebot erstellen](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), können Sie Personen auffordern, das Angebot freizugeben, um sich anzumelden, oder es als optional festlegen.
+
+>[!IMPORTANT]
+>
+>Am 31. Juli 2024 begannen wir mit der Einstellung dieser Funktion. Sie können keine neuen Assets erstellen. Vorhandene Assets werden bis zum 31. Januar 2025 weiterhin funktionieren. [Weitere Informationen](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 1. Wechseln Sie zu **Marketingaktivitäten**.
 

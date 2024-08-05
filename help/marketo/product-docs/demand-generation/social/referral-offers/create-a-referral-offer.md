@@ -4,16 +4,20 @@ description: Erstellen eines Verweisangebots - Marketo Docs - Produktdokumentati
 title: Erstellen eines Verweisangebots
 exl-id: c295943e-b9e5-4922-a3a4-800ed60cd513
 feature: Social
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '270'
-ht-degree: 0%
+source-wordcount: '299'
+ht-degree: 1%
 
 ---
 
 # Erstellen eines Verweisangebots {#create-a-referral-offer}
 
 Verweisangebote geben den Menschen einen Anreiz, ihre Freunde zu verweisen. Erstellen Sie Ziele und Belohnungen für erfolgreiche Verweise. Sie können sie auf Landingpages, auf Ihrer Website und sogar in Facebook ablegen.
+
+>[!IMPORTANT]
+>
+>Am 31. Juli 2024 begannen wir mit der Einstellung dieser Funktion. Sie können keine neuen Assets erstellen. Vorhandene Assets werden bis zum 31. Januar 2025 weiterhin funktionieren. [Weitere Informationen](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!AVAILABILITY]
 >
@@ -35,7 +39,7 @@ Verweisangebote geben den Menschen einen Anreiz, ihre Freunde zu verweisen. Erst
    >
    >Um Zeit zu sparen, können Sie die Option **Klonen von** verwenden, um alle Einstellungen aus einem vorhandenen Verweisangebot zu kopieren.
 
-   Der Editor für Verweise wird in einem neuen Fenster geöffnet. Die Standardeinstellungen sind alle gut, Sie müssen jedoch einen Link zu den Regeln Ihres Angebots (Bedingungen) hinzufügen. Der Link wird unten auf den Bildschirmen zur Freigabe von Nachrichten angezeigt. Wir zeigen Ihnen wie im nächsten Schritt.
+   Der Editor für Verweise wird in einem neuen Fenster geöffnet. Die Standardeinstellungen sind alle gut, Sie müssen jedoch einen Link zu den Regeln Ihres Angebots (Bedingungen) hinzufügen. Der Link wird unten auf den Bildschirmen zur Freigabe von Nachrichten angezeigt. Wir zeigen Ihnen, wie es im nächsten Schritt geht.
 
 1. Klicken Sie auf **Erweiterte Optionen**.
 
@@ -49,7 +53,7 @@ Verweisangebote geben den Menschen einen Anreiz, ihre Freunde zu verweisen. Erst
    >
    >Auf diesem Bildschirm können Sie auch einen Link zu Datenschutzrichtlinien hinzufügen. Siehe [Hinzufügen Ihrer Datenschutzrichtlinie zu einer Social App](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md).
 
-1. Klicken Sie auf **Beenden**.
+1. Klicken Sie auf **Fertigstellen**.
 
    ![](assets/image2014-9-19-11-3a4-3a4.png)
 

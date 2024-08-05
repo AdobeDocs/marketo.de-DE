@@ -4,9 +4,9 @@ description: Social auf Ihrer Website bereitstellen - Marketo-Dokumente - Produk
 title: Social auf Ihrer Website bereitstellen
 exl-id: bccfa461-29c1-4cf1-8e6a-2186c36bdf7e
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,13 @@ ht-degree: 0%
 
 Betten Sie Social-Apps auf Ihren Nicht-Marketo-Seiten ein.
 
+>[!IMPORTANT]
+>
+>Am 31. Juli 2024 begannen wir mit der Einstellung dieser Funktion. Sie können keine neuen Assets erstellen. Vorhandene Assets werden bis zum 31. Januar 2025 weiterhin funktionieren. [Weitere Informationen](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
+
 >[!AVAILABILITY]
 >
->Weitere Informationen erhalten Sie von Ihrem Vertriebsmitarbeiter.
+>Nicht alle Marketo Engage-Benutzer haben diese Funktion erworben. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).
 
 Sie können Social-Apps auf Ihrer eigenen Website bereitstellen, um Ihre Zielgruppe einzubinden und alle Beteiligten in das größere Gespräch in sozialen Netzwerken einzubinden. Wenn Personen Ihre Promotions und Inhalte mit ihren Freunden in sozialen Netzwerken teilen, generieren Sie mehr Traffic auf Ihrer Site.
 

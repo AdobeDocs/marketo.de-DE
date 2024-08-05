@@ -4,9 +4,9 @@ description: Einrichten der Umsatzzuordnung für digitale Advertising-Kampagnen 
 title: Einrichten der Umsatzzuordnung für digitale Advertising-Kampagnen
 exl-id: 7fb16c5f-7e76-429b-8b01-b5a1dd898158
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '825'
+source-wordcount: '854'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Einrichten der Umsatzzuordnung für digitale Advertising-Kampagnen {#set-up-revenue-attribution-for-digital-advertising-campaigns}
 
 So richten Sie die Umsatzzuordnung für digitale Werbekanäle und Kampagnen ein. Nach der Einrichtung können Sie die Erstkontakt- und Multi-Touch-Umsatzzuordnung für digitale Anzeigen auf die gleiche Weise vornehmen wie bei anderen Marketo-Programmen.
+
+>[!IMPORTANT]
+>
+>Am 31. Juli 2024 begannen wir mit der Einstellung dieser Funktion. Sie können keine neuen Assets erstellen. Vorhandene Assets werden bis zum 31. Januar 2025 weiterhin funktionieren. [Weitere Informationen](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 Nachdem Sie Ihr erstes Werbeprogramm in Marketo eingerichtet haben, können Sie es klonen und für andere Kanäle aktualisieren. Klonen Sie beispielsweise ein LinkedIn-Programm auf ein Facebook-Programm.
 

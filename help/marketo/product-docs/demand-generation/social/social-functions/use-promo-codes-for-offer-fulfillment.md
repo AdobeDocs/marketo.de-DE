@@ -4,16 +4,20 @@ description: Verwenden von Angebotscodes für die Angebotsbearbeitung - Marketo-
 title: Verwenden von Angebotscodes für die Angebotsbearbeitung
 exl-id: 71cfc1c5-ecd3-435f-8c8c-1a93478fe80c
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '260'
-ht-degree: 0%
+source-wordcount: '289'
+ht-degree: 1%
 
 ---
 
 # Verwenden von Angebotscodes für die Angebotsbearbeitung {#use-promo-codes-for-offer-fulfillment}
 
 Wenn Sie ein Verweisangebot oder einen Gewinnspiel erstellen, können Sie jedem Gewinner einen Promo-Code (Coupon) senden. Um ihre Belohnung einzulösen, verwenden sie den Code, z. B. auf der Kasse-Seite eines Kaufs auf Ihrer Site.
+
+>[!IMPORTANT]
+>
+>Am 31. Juli 2024 begannen wir mit der Einstellung dieser Funktion. Sie können keine neuen Assets erstellen. Vorhandene Assets werden bis zum 31. Januar 2025 weiterhin funktionieren. [Weitere Informationen](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 ## Hochladen von Angebotscodes {#upload-promo-codes}
 

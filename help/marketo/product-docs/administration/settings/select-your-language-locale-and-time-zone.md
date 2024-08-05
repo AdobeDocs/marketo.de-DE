@@ -4,7 +4,7 @@ description: Sprache, Gebietsschema und Zeitzone auswählen - Marketo Docs - Pro
 title: Sprache, Gebietsschema und Zeitzone auswählen
 exl-id: d11f376f-618c-4fa8-a6b5-e11d29e8d728
 feature: Administration
-source-git-commit: ab4358ac1d3e1aa1d3733fa5191c5d59022bdf9f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 5%
@@ -17,7 +17,7 @@ Englisch nicht deine Muttersprache? Keine Sorge! Wir haben dich bedeckt. Hier er
 
 >[!IMPORTANT]
 >
->Dieser Artikel ist nur für diejenigen gedacht, die _nicht_ [Marketo mit Adobe Identity](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md) verwenden. Wenn Sie dies tun, können Sie auf die unten beschriebenen Einstellungen in Ihrem [Adobe-Kontoprofil](https://account.adobe.com/profile) zugreifen.
+>Dieser Artikel ist nur für diejenigen gedacht, die _nicht_ [Marketo mit Adobe Identity](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} verwenden. Wenn Sie dies tun, können Sie auf die unten beschriebenen Einstellungen in Ihrem [Adobe-Kontoprofil](https://account.adobe.com/profile){target="_blank"} zugreifen.
 
 ## Unterstützte Sprachen {#supported-languages}
 

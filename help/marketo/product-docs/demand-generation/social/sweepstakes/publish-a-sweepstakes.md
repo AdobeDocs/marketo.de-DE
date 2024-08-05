@@ -3,16 +3,20 @@ unique-page-id: 2359799
 description: Publish a Sweepstakts - Marketo Docs - Produktdokumentation
 title: Publish a Sweepstakes
 exl-id: c02d213c-a965-4737-817a-ce8bd7491853
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '183'
-ht-degree: 0%
+source-wordcount: '212'
+ht-degree: 1%
 
 ---
 
 # Publish a Sweepstakes {#publish-a-sweepstakes}
 
 Nachdem Sie [ein Preisausschreiben ](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md) erstellt haben, können Sie es auf Ihren Marketo-Landingpages, auf Ihrer Website und in Ihrer Facebook veröffentlichen.
+
+>[!IMPORTANT]
+>
+>Am 31. Juli 2024 begannen wir mit der Einstellung dieser Funktion. Sie können keine neuen Assets erstellen. Vorhandene Assets werden bis zum 31. Januar 2025 weiterhin funktionieren. [Weitere Informationen](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!AVAILABILITY]
 >

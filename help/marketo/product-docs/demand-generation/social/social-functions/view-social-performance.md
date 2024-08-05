@@ -4,9 +4,9 @@ description: Soziale Leistung anzeigen - Marketo-Dokumente - Produktdokumentatio
 title: Soziale Leistung anzeigen
 exl-id: 82f3754f-4aa8-4d07-ac02-22d138d2a021
 feature: Social
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '484'
+source-wordcount: '513'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Soziale Leistung anzeigen {#view-social-performance}
 
 Sehen Sie sich die von Ihren Social-Apps generierten Social-Aktivitäten an. Das Social-Dashboard bietet Ihnen Einblicke in die verschiedenen sozialen Interaktionen, die von Ihren Social-Apps generiert werden, und ermöglicht es Ihnen, die Leistung einer Social-App zu verfolgen.
+
+>[!IMPORTANT]
+>
+>Am 31. Juli 2024 begannen wir mit der Einstellung dieser Funktion. Sie können keine neuen Assets erstellen. Vorhandene Assets werden bis zum 31. Januar 2025 weiterhin funktionieren. [Weitere Informationen](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!AVAILABILITY]
 >
@@ -57,8 +61,8 @@ Sehen Sie sich die von Ihren Social-Apps generierten Social-Aktivitäten an. Das
 
    * **Profile insgesamt**: Die Gesamtzahl der potenziellen Benutzer, die sich von Ihrer Social App aus bei sozialen Netzwerken angemeldet haben.
    * **Einflussnehmer**: Die Anzahl der Interessenten, die mindestens einen Klick auf eine App-Freigabe generiert haben.
-   * **Soziale Reichweite**: Die Summe aller Verbindungen der Interessenten. Für Interessenten, die soziale Netzwerke nutzen, ist dies die Anzahl der Freunde, die sie zu dem Zeitpunkt haben, zu dem sie von Ihrer Social App geteilt haben. Bei der E-Mail-Freigabe ist dies die Anzahl der Empfänger der E-Mail, die sie aus Ihrer App generieren.
-   * **Social-Impressionen**: Gibt an, wie oft Ihre Social-App insgesamt in den Feeds der potenziellen Kontakte angezeigt wurde.
+   * **Social-Reichweite**: Die Summe der Verbindungen aller Interessenten. Für Interessenten, die soziale Netzwerke nutzen, ist dies die Anzahl der Freunde, die sie zu dem Zeitpunkt haben, zu dem sie von Ihrer Social App geteilt haben. Bei der E-Mail-Freigabe ist dies die Anzahl der Empfänger der E-Mail, die sie aus Ihrer App generieren.
+   * **Social-Impressionen**: Gibt an, wie oft Ihre Social-App insgesamt in den Feeds der potenziellen Kunden-Verbindungen angezeigt wurde.
 
    ![](assets/image2014-9-23-17-3a11-3a26.png)
 

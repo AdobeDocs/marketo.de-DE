@@ -4,16 +4,20 @@ description: Publish a referral offer - Marketo Docs - Produktdokumentation
 title: Publish - Verweisangebot
 exl-id: 48335902-cb43-44ea-9f19-2fe49105bb45
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 0%
+source-wordcount: '166'
+ht-degree: 1%
 
 ---
 
 # Publish - Verweisangebot {#publish-a-referral-offer}
 
-Nachdem Sie [ ein Verweisangebot erstellt haben, können Sie es auf Ihren Marketo-Landingpages, in Facebook und auf Ihrer Website veröffentlichen.](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
+Nachdem Sie [ ein Verweisangebot erstellt haben, können Sie es auf Ihren Marketo-Einstiegsseiten, in Facebook und auf Ihrer Website veröffentlichen.](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
+
+>[!IMPORTANT]
+>
+>Am 31. Juli 2024 begannen wir mit der Einstellung dieser Funktion. Sie können keine neuen Assets erstellen. Vorhandene Assets werden bis zum 31. Januar 2025 weiterhin funktionieren. [Weitere Informationen](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 1. Navigieren Sie zu Ihrer Landingpage und öffnen Sie sie zur Bearbeitung.
 
@@ -31,7 +35,7 @@ Nachdem Sie [ ein Verweisangebot erstellt haben, können Sie es auf Ihren Market
 >
 >Sie müssen Ihr Verweisangebot validieren, um es hier verfügbar zu machen.
 
-Herzlichen Glückwunsch! Validieren Sie die Landingpage und Ihr Verweisangebot ist live. Sie können die Einstiegsseite auch [in Facebook veröffentlichen](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) oder [auf Ihrer Website veröffentlichen](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
+Herzlichen Glückwunsch! Validieren Sie die Landingpage und Ihr Verweisangebot ist live. Sie können auch [die Landingpage in Facebook veröffentlichen](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) oder [das Angebot auf Ihre Website stellen](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
 
 >[!TIP]
 >

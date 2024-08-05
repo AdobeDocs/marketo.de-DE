@@ -4,9 +4,9 @@ description: Verwenden von E-Mails in Social Promotions - Marketo Docs - Produkt
 title: Verwenden von E-Mails in Social Promotions
 exl-id: 633ad86e-d085-420f-8e28-9b722e345852
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '266'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Verwenden von E-Mails in Social Promotions {#use-emails-in-social-promotions}
 
 Wenn Sie ein [Verweisangebot](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) oder ein [Preisausschreiben](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md) erstellen, können Sie E-Mails einfügen, die gesendet werden, wenn sich die Person anmeldet, und erneut, wenn die Person die Belohnung gewonnen hat.
+
+>[!IMPORTANT]
+>
+>Am 31. Juli 2024 begannen wir mit der Einstellung dieser Funktion. Sie können keine neuen Assets erstellen. Vorhandene Assets werden bis zum 31. Januar 2025 weiterhin funktionieren. [Weitere Informationen](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!TIP]
 >
