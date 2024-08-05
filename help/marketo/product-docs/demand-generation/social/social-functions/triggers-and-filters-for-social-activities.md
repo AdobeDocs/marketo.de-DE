@@ -4,9 +4,9 @@ description: Trigger und Filter für Social-Aktivitäten - Marketo-Dokumente - P
 title: Trigger und Filter für Social-Aktivitäten
 exl-id: 97b28a89-21d2-4179-9257-f50efbb3c228
 feature: Social
-source-git-commit: 97324d932b65020d041f728928d3792140bea71c
+source-git-commit: 6c3f803104c550227aec25376778147ff92aaab9
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '192'
 ht-degree: 21%
 
 ---
@@ -17,7 +17,7 @@ Social-Apps in Marketo verfügen über eigene spezielle Trigger und Filter.
 
 >[!IMPORTANT]
 >
->Am 31. Juli 2024 begannen wir mit der Einstellung dieser Funktion. Sie können keine neuen Assets erstellen. Vorhandene Assets werden bis zum 31. Januar 2025 weiterhin funktionieren. [Weitere Informationen](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
+>Am 31. Juli 2024 begannen wir mit der Einstellung dieser Funktion. Neue Assets können nicht mehr erstellt werden. Vorhandene Assets werden bis zum 31. Januar 2025 weiterhin funktionieren. [Weitere Informationen](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!AVAILABILITY]
 >

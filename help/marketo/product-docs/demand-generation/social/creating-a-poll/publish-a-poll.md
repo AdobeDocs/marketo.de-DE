@@ -4,9 +4,9 @@ description: Publish a Umfrage - Marketo Docs - Produktdokumentation
 title: Publish a Umfrage
 exl-id: 5c603b84-5cd7-4604-9301-e6f277af8dc0
 feature: Social
-source-git-commit: 97324d932b65020d041f728928d3792140bea71c
+source-git-commit: 6c3f803104c550227aec25376778147ff92aaab9
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '156'
 ht-degree: 1%
 
 ---
@@ -17,7 +17,7 @@ Nachdem Sie [ eine Umfrage erstellt haben, können Sie sie auf Ihren Marketo-Ein
 
 >[!IMPORTANT]
 >
->Am 31. Juli 2024 begannen wir mit der Einstellung dieser Funktion. Sie können keine neuen Assets erstellen. Vorhandene Assets werden bis zum 31. Januar 2025 weiterhin funktionieren. [Weitere Informationen](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
+>Am 31. Juli 2024 begannen wir mit der Einstellung dieser Funktion. Neue Assets können nicht mehr erstellt werden. Vorhandene Assets werden bis zum 31. Januar 2025 weiterhin funktionieren. [Weitere Informationen](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 1. Navigieren Sie zu Ihrer Landingpage und öffnen Sie sie zur Bearbeitung.
 

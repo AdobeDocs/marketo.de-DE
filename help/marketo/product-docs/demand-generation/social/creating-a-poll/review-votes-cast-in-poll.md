@@ -4,9 +4,9 @@ description: Review Votes Cast in Umfrage - Marketo Docs - Produktdokumentation
 title: Abstimmungen in Umfrage überprüfen
 exl-id: 1877c5d2-0842-468c-826b-8027270ab292
 feature: Social
-source-git-commit: 97324d932b65020d041f728928d3792140bea71c
+source-git-commit: 6c3f803104c550227aec25376778147ff92aaab9
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '99'
 ht-degree: 4%
 
 ---
@@ -17,7 +17,7 @@ Wer hat in Ihrer Umfrage für was gestimmt? Finden wir es heraus!
 
 >[!IMPORTANT]
 >
->Am 31. Juli 2024 begannen wir mit der Einstellung dieser Funktion. Sie können keine neuen Assets erstellen. Vorhandene Assets werden bis zum 31. Januar 2025 weiterhin funktionieren. [Weitere Informationen](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
+>Am 31. Juli 2024 begannen wir mit der Einstellung dieser Funktion. Neue Assets können nicht mehr erstellt werden. Vorhandene Assets werden bis zum 31. Januar 2025 weiterhin funktionieren. [Weitere Informationen](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 1. Wählen Sie in **Marketingaktivitäten** die Umfrage aus und klicken Sie auf die Registerkarte **Teilnehmer** .
 

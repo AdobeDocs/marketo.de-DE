@@ -4,9 +4,9 @@ description: Konfigurieren des Social-Anmeldungs-/Freigabeflusses - Marketo-Doku
 title: Konfigurieren des Social-Anmeldungs-/Freigabeflusses
 exl-id: 521187d1-2228-42e7-a87b-3b20a45adb03
 feature: Social
-source-git-commit: 97324d932b65020d041f728928d3792140bea71c
+source-git-commit: 6c3f803104c550227aec25376778147ff92aaab9
 workflow-type: tm+mt
-source-wordcount: '508'
+source-wordcount: '507'
 ht-degree: 1%
 
 ---
@@ -17,7 +17,7 @@ Wenn Sie eine Social-App erstellen, können Sie die Auswahlmöglichkeiten für s
 
 >[!IMPORTANT]
 >
->Am 31. Juli 2024 begannen wir mit der Einstellung dieser Funktion. Sie können keine neuen Assets erstellen. Vorhandene Assets werden bis zum 31. Januar 2025 weiterhin funktionieren. [Weitere Informationen](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
+>Am 31. Juli 2024 begannen wir mit der Einstellung dieser Funktion. Neue Assets können nicht mehr erstellt werden. Vorhandene Assets werden bis zum 31. Januar 2025 weiterhin funktionieren. [Weitere Informationen](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 ## Netzwerke für die Freigabe auswählen {#select-networks-for-sharing}
 

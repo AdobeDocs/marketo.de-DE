@@ -4,10 +4,10 @@ description: E-Mail zur Angebotsbearbeitung senden - Marketo-Dokumente - Produkt
 title: E-Mail zur Angebotsbearbeitung senden
 exl-id: ed5e3dbf-1e48-49c6-b859-01872d1305e2
 feature: Social
-source-git-commit: 97324d932b65020d041f728928d3792140bea71c
+source-git-commit: 6c3f803104c550227aec25376778147ff92aaab9
 workflow-type: tm+mt
-source-wordcount: '201'
-ht-degree: 0%
+source-wordcount: '200'
+ht-degree: 1%
 
 ---
 
@@ -17,7 +17,7 @@ Belohnen Sie Ihre Kunden mit Gutscheinen und Rabattcodes über die E-Mail zur An
 
 >[!IMPORTANT]
 >
->Am 31. Juli 2024 begannen wir mit der Einstellung dieser Funktion. Sie können keine neuen Assets erstellen. Vorhandene Assets werden bis zum 31. Januar 2025 weiterhin funktionieren. [Weitere Informationen](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
+>Am 31. Juli 2024 begannen wir mit der Einstellung dieser Funktion. Neue Assets können nicht mehr erstellt werden. Vorhandene Assets werden bis zum 31. Januar 2025 weiterhin funktionieren. [Weitere Informationen](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!PREREQUISITES]
 >
