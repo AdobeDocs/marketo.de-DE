@@ -2,7 +2,7 @@
 description: Bereitstellen eines interaktiven Webinars - Marketo-Dokumente - Produktdokumentation
 title: Bereitstellen eines interaktiven Webinars
 feature: Interactive Webinars
-source-git-commit: b8ed6ca65a651de77a06ad5aeb79a2cb2eaa0835
+source-git-commit: 0cec57e40dbc5f20174e4d76e41768c4ffc7cecc
 workflow-type: tm+mt
 source-wordcount: '1052'
 ht-degree: 0%
@@ -23,15 +23,13 @@ Ihr interaktives Webinar ist bereit zu gehen. Erfahren Sie alles, was Sie über 
 
 1. Wenn Sie ein Moderator oder Mitveranstalter sind, klicken Sie auf den personalisierten Link in der E-Mail, die Sie für das Webinar erhalten haben.
 
-   ![](assets/deliver-an-interactive-webinar-2.png)
-
 1. Wählen Sie Ihre Audio-/Videovoreinstellungen aus und klicken Sie auf **Raum betreten**.
 
-   ![](assets/deliver-an-interactive-webinar-3.png)
+   ![](assets/deliver-an-interactive-webinar-2.png)
 
 1. Wählen Sie das Layout aus, das für frühe Joins angezeigt werden soll.
 
-   ![](assets/deliver-an-interactive-webinar-4.png)
+   ![](assets/deliver-an-interactive-webinar-3.png)
 
    >[!NOTE]
    >
@@ -43,17 +41,17 @@ Ihr interaktives Webinar ist bereit zu gehen. Erfahren Sie alles, was Sie über 
 
 1. Sie können die Sitzung bei Bedarf aufzeichnen. Wählen Sie **Sitzung aufzeichnen** aus dem Zimmermenü aus. Die Aufzeichnung kann später im selben Menü gestoppt werden.
 
-   ![](assets/deliver-an-interactive-webinar-5.png)
+   ![](assets/deliver-an-interactive-webinar-4.png)
 
 1. Ihre Sitzung beginnt zum festgelegten Zeitpunkt.
 
 1. Klicken Sie auf den Namen des Zimmers. Wählen Sie in der Dropdown-Liste **Bereich &quot;Host &amp; Presenter&quot;** aus, um Notizen zu chatten oder mit dem Präsentationsteam-Backstage zu teilen. Der Host- und Presenter-Bereich wird rechts auf dem Bildschirm geöffnet. Nur Hosts/Co-Hosts und Moderatoren können diesen Teil des Bildschirms sehen.
 
-   ![](assets/deliver-an-interactive-webinar-6.png)
+   ![](assets/deliver-an-interactive-webinar-5.png)
 
 1. Wenn die Sitzung abgeschlossen ist, klicken Sie auf das rote Pfeilsymbol und wählen Sie **Sitzung für alle beenden** aus.
 
-   ![](assets/deliver-an-interactive-webinar-7.png)
+   ![](assets/deliver-an-interactive-webinar-6.png)
 
    >[!CAUTION]
    >
@@ -69,11 +67,11 @@ Teilnehmer können dem Webinar beitreten, indem sie auf den personalisierten Lin
 
 1. Teilnehmer, die den Ereignis-Link mehr als 15 Minuten vor dem geplanten Start starten, erhalten eine Landingpage, auf der sie darauf hingewiesen werden, auf den Start des Ereignisses zu warten.
 
-   ![](assets/deliver-an-interactive-webinar-8.png)
+   ![](assets/deliver-an-interactive-webinar-7.png)
 
 1. Die Teilnehmer müssen ihre Audiovoreinstellungen auswählen und dann auf Raum eingeben klicken. Teilnehmer, die erstmals einem Adobe Connect-Raum beitreten, sehen auch ein Browser-Popup für die Mikrofon-Berechtigung. Adobe Connect benötigt diesen Zugriff, damit die Teilnehmer ihr Mikrofon später im Raum verwenden können.
 
-   ![](assets/deliver-an-interactive-webinar-9.png)
+   ![](assets/deliver-an-interactive-webinar-8.png)
 
    >[!NOTE]
    >
@@ -103,7 +101,7 @@ Diskussionen innerhalb der Chat-Pods werden immer aufgezeichnet. Wenn die Chat-D
 
 Diskussionen innerhalb des Chat-Bedienfelds werden nicht aufgezeichnet. Das Chat Panel gibt auch die Immobilie frei, die im Rahmen des Layouts von Chat-Pods besetzt worden wäre. Wenn die Chat-Diskussionen also keinen Mehrwert für die Aufzeichnung von Betrachtern schaffen, verwenden Sie beim Entwerfen des Raums das Chat-Panel anstelle von Chat-Pods.
 
-![](assets/deliver-an-interactive-webinar-10.png)
+![](assets/deliver-an-interactive-webinar-9.png)
 
 Erfahren Sie mehr über [das Chat-Bedienfeld](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}.
 
@@ -115,7 +113,7 @@ So verwenden Sie den Vorbereitungsmodus:
 
 1. Klicken Sie unten im Layout-Bedienfeld auf das Schraubenschlüsselsymbol.
 
-   ![](assets/deliver-an-interactive-webinar-.png)
+   ![](assets/deliver-an-interactive-webinar-10.png)
 
 1. Wählen Sie im Bedienfeld &quot;Layouts&quot;das Layout aus, das Sie anpassen möchten. Verschieben, Ausblenden oder Anzeigen von Pods nach Bedarf. Sie können auch den Inhalt in Pods aktualisieren, z. B. eine neue Version der Präsentation in einem Freigabe-Pod hochladen.
 
