@@ -3,10 +3,10 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: d802f6b5988f93f7c75558d864b527da9e0afbec
+source-git-commit: b8ed6ca65a651de77a06ad5aeb79a2cb2eaa0835
 workflow-type: tm+mt
-source-wordcount: '9344'
-ht-degree: 3%
+source-wordcount: '9348'
+ht-degree: 4%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 3%
    + Ersteinrichtung {#initial-setup}
       + [Einrichtungsschritte](getting-started/initial-setup/setup-steps.md)
       + [Protokolle konfigurieren](getting-started/initial-setup/configure-protocols-for-marketo.md)
-      + [Benutzereinstellungen](getting-started/initial-setup/user-setup.md)
+      + [Einrichten von Benutzerinnen und Benutzern](getting-started/initial-setup/user-setup.md)
    + Implementieren einer neuen Marketo Engage-Instanz {#implementing-a-new-marketo-engage-instance}
       + [Startpunkt](getting-started/implementing-a-new-marketo-engage-instance/where-to-start.md)
       + [Best Practices für neue Instanzen: Checkliste für Admin-Abschnitte](getting-started/implementing-a-new-marketo-engage-instance/admin-section-checklist.md)
@@ -726,6 +726,7 @@ ht-degree: 3%
             + [Erstellen eines interaktiven Webinars](product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
             + [Webinar-Team hinzufügen](product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md)
             + [Interaktive Webinare erstellen](product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md)
+            + [Bereitstellen eines interaktiven Webinars](product-docs/demand-generation/events/interactive-webinars/deliver-an-interactive-webinar.md)
             + [Vorlagen](product-docs/demand-generation/events/interactive-webinars/templates.md)
             + [Anpassung](product-docs/demand-generation/events/interactive-webinars/customization.md)
             + [Raumverwaltung](product-docs/demand-generation/events/interactive-webinars/room-management.md)
@@ -1286,7 +1287,7 @@ ht-degree: 3%
             + [Versenden einer getrackten E-Mail](product-docs/marketo-sales-connect/email/using-the-compose-window/sending-a-tracked-email.md)
             + [Senden von E-Mails per Gruppenemail](product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
             + [Verwenden einer Vorlage im Fenster &quot;Erstellen&quot;](product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
-      + FAQ {#faq}
+      + FAQs {#faq}
          + [Kann ich einen Kontakt oder eine Gruppe wiederherstellen, die ich gelöscht habe?](product-docs/marketo-sales-connect/faq/can-i-recover-a-contact-or-group-i-deleted.md)
          + [Häufig gestellte Fragen zu Inhalt und Dateianhang](product-docs/marketo-sales-connect/faq/content-and-file-attachment-faq.md)
          + [Hat Sales Connect eine iPhone- oder Android-App?](product-docs/marketo-sales-connect/faq/does-sales-connect-have-an-iphone-or-android-app.md)
@@ -1448,7 +1449,7 @@ ht-degree: 3%
                + [Verbindung zu Gmail herstellen](product-docs/marketo-sales-insight/actions/email-integrations/gmail/connect-to-gmail.md)
             + Outlook {#outlook}
                + [Mit Outlook verbinden](product-docs/marketo-sales-insight/actions/email-integrations/outlook/connect-to-outlook.md)
-         + FAQ {#faq}
+         + FAQs {#faq}
             + [Kann ich einen Kontakt oder eine Gruppe wiederherstellen, die ich gelöscht habe?](product-docs/marketo-sales-insight/actions/faq/can-i-recover-a-contact-or-group-i-deleted.md)
             + [Kann ich mit CC/BCC mehrere Empfänger verfolgen?](product-docs/marketo-sales-insight/actions/faq/can-i-track-multiple-recipients-with-cc-bcc.md)
             + [Häufig gestellte Fragen zu Inhalt und Dateianhang](product-docs/marketo-sales-insight/actions/faq/content-and-file-attachment-faq.md)
@@ -1653,7 +1654,7 @@ ht-degree: 3%
          + [Verwenden von SMS-Optionen in einer Smart-Kampagne](product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md)
          + [SMS-Reporting](product-docs/mobile-marketing/vibes-sms-messages/sms-reporting.md)
          + [SMS-Glossar](product-docs/mobile-marketing/vibes-sms-messages/sms-glossary.md)
-   + Personalization {#personalization}
+   + Personalisierung {#personalization}
       + Segmentierung und Snippets {#segmentation-and-snippets}
          + Segmentierung {#segmentation}
             + [Genehmigen einer Segmentierung](product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)
@@ -1702,7 +1703,7 @@ ht-degree: 3%
          + [Predictive Content für E-Mails bearbeiten](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md)
          + [Predictive Content für Rich Media bearbeiten](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md)
          + [Prädiktive Inhalte für die Empfehlungsleiste bearbeiten](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
-   + Berichterstellung {#reporting}
+   + Reporting {#reporting}
       + [Berichtübersicht](product-docs/reporting/reporting-overview.md)
       + Grundlegende Berichterstellung {#basic-reporting}
          + Erstellen von Berichten {#creating-reports}
@@ -1814,7 +1815,7 @@ ht-degree: 3%
             + [Grundlagen zu Umsatzmodellen](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md)
             + [Verwenden von Gate-Phasen für Umsatzmodelle](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-gate-stages.md)
             + [Verwenden der Lagerbestandsstadien des Umsatzmodells](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
-            + [Verwenden von SLA-Phasen für Umsatzmodelle](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
+            + [Verwenden von SLA-Phasen mit Umsatzmodellen](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
             + [Verwenden von Umsatzmodellübergängen](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-transitions.md)
             + [Verwenden des Erfolgspfad-Analyzers](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-the-success-path-analyzer.md)
          + Umsatz-Explorer {#revenue-explorer}
@@ -1856,7 +1857,7 @@ ht-degree: 3%
          + [Kontoeinblick einrichten](product-docs/target-account-management/setup-tam/set-up-account-insight.md)
          + [Übersicht über das Konto-Insight-Plug-in](product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)
          + [Einladen von Benutzern zum Zugriff auf Kontoeinblicke](product-docs/target-account-management/setup-tam/invite-users-to-access-account-insight.md)
-      + Ziel {#target}
+      + Target {#target}
          + Spezifische Konten {#named-accounts}
             + [Übersicht über benanntes Konto](product-docs/target-account-management/target/named-accounts/named-account-overview.md)
             + [Benannte Konten importieren](product-docs/target-account-management/target/named-accounts/import-named-accounts.md)
@@ -1964,7 +1965,7 @@ ht-degree: 3%
          + [Verwenden des Rich-Text-Editors für Web Personalization](product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md)
          + [Anzeigen von Webkampagnen über eine bestimmte Bezeichnung](product-docs/web-personalization/working-with-web-campaigns/view-web-campaigns-from-a-specific-label.md)
 + Versionshinweise {#release-notes}
-   + [Veröffentlichungszeitplan](release-notes/release-schedule.md)
+   + [Versionsplanung](release-notes/release-schedule.md)
    + [Aktuelle Version](release-notes/current.md)
    + [Dynamic Chat-Release](release-notes/dynamic-chat.md)
    + Frühere Versionen {#previous-releases}
