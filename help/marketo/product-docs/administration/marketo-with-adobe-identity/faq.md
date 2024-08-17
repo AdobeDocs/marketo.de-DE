@@ -3,9 +3,9 @@ description: Adobe Identity Management-FAQ - Marketo-Dokumente - Produktdokument
 title: Häufig gestellte Fragen zu Adobe Identity Management
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: 19f60f58ae4de26536b304eb8ae9677ecc221993
+source-git-commit: 3ae2a894b4f3350fe71f78e5259bab0af31c4f54
 workflow-type: tm+mt
-source-wordcount: '1279'
+source-wordcount: '1342'
 ht-degree: 0%
 
 ---
@@ -28,13 +28,13 @@ Bestehende Marketo-Abonnements werden im Laufe dieses Jahres auf das Adobe Ident
 
 **Bleiben Marketo Engage-URLs nach der Migration die gleichen?**
 
-Anz. URLs sehen nach der Migration anders aus. Die ID-Nummer Ihrer Assets bleibt jedoch unverändert. Und zuvor gespeicherte Lesezeichen sollten Sie immer noch an die richtige Stelle bringen.
+Nein. URLs sehen nach der Migration anders aus.
 
 **Müssen wir etwas tun, um uns auf die URL-Änderung vorzubereiten?**
 
-Ja. Wenden Sie sich an Ihr IT-Team und stellen Sie sicher, dass diese die unten stehende Domäne (einschließlich des Sternchens) hinzufügen, um alle Marketo Engage-Ressourcen und Websockets zuzulassen:
+Ja. Nach der Migration wird Marketo Engage von experience.adobe.com nach Adobe Experience Cloud bedient. Sie müssen mit Ihrem IT-Team zusammenarbeiten, um alle Adobe-Domänen, die oben in diesem Artikel ](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"} aufgeführt sind, in Zulassungsliste, um eine Unterbrechung des Marketo Engage-Zugriffs zu verhindern.[
 
-_*.experience.adobe.com_
+Vorherige Links und Lesezeichen zum Marketo Engage von Assets in der engage-xx.marketo.com Domäne _funktionieren weiterhin_. Sie müssen sich jedoch zunächst bei der Marketo Engage-Instanz für die URL anmelden, zu der Sie navigieren. Um beispielsweise mit der Munchkin-ID 123-ABC-456 zu einem Lesezeichen für eine Smart-Kampagne zu navigieren, müssen Sie sich zunächst mit der Munchkin-ID 123-ABC-456 bei der Marketo Engage-Instanz anmelden.
 
 **Was ist der Unterschied zwischen einem Adobe Product Admin und einem Marketo Engage Admin?**
 
@@ -58,7 +58,7 @@ Selbst wenn Sie über andere Adobe-Produkte verfügen, können Sie erst mit Adob
 
 **Werden Marketo-Benutzerrollen (innerhalb von Arbeitsbereichen) in Adobe Admin Console verwaltet?**
 
-Anz. Die Benutzerrollenverwaltung (innerhalb von Arbeitsbereichen) wird im Marketo Engage abgeschlossen.
+Nein. Die Benutzerrollenverwaltung (innerhalb von Arbeitsbereichen) wird im Marketo Engage abgeschlossen.
 
 **Ich bin ein Marketo-Administrator in einem integrierten IMS-Abonnement und habe keinen Zugriff auf die Admin Console. Wie erhalte ich Zugriff?**
 
@@ -94,11 +94,11 @@ Adobe IMS unterstützt derzeit keine Funktionen wie die Marketo-Funktion zur Ger
 
 **Ist es weiterhin möglich, die Funktion &quot;Dialogfeld &quot;Benutzer einladen&quot;verwenden&quot;zu verwenden, um die Anmeldung eines Benutzers von seiner E-Mail-Adresse eindeutig zu machen?**
 
-Anz. Der Workflow Benutzereinladung ist nicht mehr aktiv, wenn ein Abonnement IMS-fähig ist, sodass die Funktion nicht mehr gültig ist. Die Adobe-Identität erfordert, dass die Identität eines Benutzers durch seine E-Mail-Adresse gesteuert wird.
+Nein. Der Workflow Benutzereinladung ist nicht mehr aktiv, wenn ein Abonnement IMS-fähig ist, sodass die Funktion nicht mehr gültig ist. Die Adobe-Identität erfordert, dass die Identität eines Benutzers durch seine E-Mail-Adresse gesteuert wird.
 
 **Haben wir für Adobe IMS die Möglichkeit, Adobe ID, Enterprise ID oder Federated ID zu verwenden?**
 
-Ja, Sie bestimmen den Identitätstyp, den Ihre Organisation unterstützen soll. Weitere Informationen finden Sie hier: [Identitätsübersicht](https://helpx.adobe.com/enterprise/using/identity.html) und hier: [Einrichten der Identität](https://helpx.adobe.com/de/enterprise/using/set-up-identity.html){target="_blank"}.
+Ja, Sie bestimmen den Identitätstyp, den Ihre Organisation unterstützen soll. Weitere Informationen finden Sie hier: [Identitätsübersicht](https://helpx.adobe.com/de/enterprise/using/identity.html) und hier: [Einrichten der Identität](https://helpx.adobe.com/de/enterprise/using/set-up-identity.html){target="_blank"}.
 
 **Welche Produktkarten werden in der Adobe Admin Console unterstützt?**
 

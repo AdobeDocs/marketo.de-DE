@@ -3,9 +3,9 @@ description: Grundlegendes zu Marketo-Abonnements und Benutzermigration zur Adob
 title: Grundlegendes zu Marketo-Abonnements und Benutzermigration zur Adobe Admin Console
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: dd2d91d61bcbf3f20bdc06977f06b1f3b0b47f01
+source-git-commit: 3ae2a894b4f3350fe71f78e5259bab0af31c4f54
 workflow-type: tm+mt
-source-wordcount: '1440'
+source-wordcount: '1513'
 ht-degree: 0%
 
 ---
@@ -28,9 +28,9 @@ Im Rahmen der Migration wechseln Ihr Abonnement und Ihre Benutzerverwaltung von 
 
 * **Benutzer melden sich mit Adobe Identity** an. Adobe migriert bestehende Benutzer in die Adobe Admin Console. Die Benutzer melden sich mit ihrer neuen Adobe-Identität bei ihren Marketo-Abonnements an - entweder mit einer Adobe ID- oder einer Adobe-Federated ID (SSO).
 
-* **URLs sehen nach der Migration anders aus als**. Die ID-Nummer Ihrer Assets bleibt jedoch unverändert. Und zuvor gespeicherte Lesezeichen sollten Sie immer noch an die richtige Stelle bringen. Wenden Sie sich an Ihr IT-Team und stellen Sie sicher, dass diese die unten stehende Domäne (einschließlich des Sternchens) hinzufügen, um alle Marketo Engage-Ressourcen und Websockets zuzulassen:
+* **URLs sehen nach der Migration anders aus als**. Nach der Migration wird Marketo Engage von experience.adobe.com nach Adobe Experience Cloud bedient. Sie müssen mit Ihrem IT-Team zusammenarbeiten, um alle Adobe-Domänen, die oben in diesem Artikel ](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"} aufgeführt sind, in Zulassungsliste, um eine Unterbrechung des Marketo Engage-Zugriffs zu verhindern.[
 
-_*.experience.adobe.com_
+Die ID-Nummer Ihrer Assets bleibt unverändert. Und frühere Links und Lesezeichen zum Marketo Engage von Assets in der engage-xx.marketo.com Domäne _funktionieren weiterhin_. Sie müssen sich jedoch zunächst bei der Marketo Engage-Instanz für die URL anmelden, zu der Sie navigieren. Um beispielsweise mit der Munchkin-ID 123-ABC-456 zu einem Lesezeichen für eine Smart-Kampagne zu navigieren, müssen Sie sich zunächst mit der Munchkin-ID 123-ABC-456 bei der Marketo Engage-Instanz anmelden.
 
 ## Was ändert sich nicht? {#what-is-not-changing}
 
