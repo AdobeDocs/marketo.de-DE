@@ -1,12 +1,10 @@
 ---
 description: Erste Schritte mit interaktiven Webinaren - Marketo-Dokumente - Produktdokumentation
 title: Erste Schritte mit interaktiven Webinaren
-hide: true
-hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: fefe046ca3bcb61ecdffa7a0b9c8477d050aa704
+source-git-commit: 384484aaa9f4c765f5f1aaee436ae783b265e069
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '283'
 ht-degree: 0%
 
 ---
@@ -14,6 +12,8 @@ ht-degree: 0%
 # Erste Schritte mit interaktiven Webinaren {#get-started-with-interactive-webinars}
 
 Sie haben also die [Übersicht über interaktive Webinare](/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md){target="_blank"}{target="_blank"} gelesen und können eintauchen. Gehen Sie wie folgt vor, um zu beginnen.
+
+![](assets/get-started-with-interactive-webinars-1.png)
 
 <p>
 
@@ -29,10 +29,10 @@ Sie haben also die [Übersicht über interaktive Webinare](/help/marketo/product
 
 **Schritt 6**: [Bereitstellen Ihres interaktiven Webinars](/help/marketo/product-docs/demand-generation/events/interactive-webinars/deliver-an-interactive-webinar.md){target="_blank"} - Alles, was Sie über die Präsentation Ihres Webinars wissen müssen.
 
-<p>
+<br>
 
-Das ist alles! Nachdem Ihr Webinar beendet ist, sehen Sie, wie es mit dem hilfreichen [Interaktions-Dashboard](/help/marketo/product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md){target="_blank"} funktioniert hat.
+Das ist alles! Nachdem Ihr Webinar beendet ist, sehen Sie im Bildschirm Übersicht des Ereignisses, wie es mit dem hilfreichen Dashboard funktioniert hat. Sie können die detaillierte Interaktion Ihrer Zielgruppe im [Interaktions-Dashboard](/help/marketo/product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md){target="_blank"} anzeigen. Sie können die Webinar-Interaktion nutzen, um mit Smart-Filtern und Triggern in [Ereignis-Workflows](/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md){target="_blank"} eine personalisierte Zielgruppe anzusprechen. Erfahren Sie, wie Sie Ihre On-Demand-Leistung über [On-Demand-Webinare](/help/marketo/product-docs/demand-generation/events/interactive-webinars/on-demand-webinars.md){target="_blank"} verfolgen können.
 
-Zu diesem Thema gibt es noch einige weitere Hilfeartikel, darunter [Best Practices für interaktive Webinare](/help/marketo/product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars.md){target="_blank"}, wie Sie Ihre Webinare [ an Ihre Anforderungen/Ihr Branding anpassen können](/help/marketo/product-docs/demand-generation/events/interactive-webinars/customization.md){target="_blank"} und vieles mehr.
+Wir haben weitere Hilfeartikel zu diesem Thema, darunter [Best Practices für interaktive Webinare](/help/marketo/product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars.md){target="_blank"}, wie Sie Ihre Webinare [anpassen](/help/marketo/product-docs/demand-generation/events/interactive-webinars/customization.md){target="_blank"}, um Ihre Anforderungen/Ihr Branding widerzuspiegeln, organisationsweite Vorlagen mithilfe von [Vorlagen für interaktive Webinare](/help/marketo/product-docs/demand-generation/events/interactive-webinars/templates.md){target="_blank"} erstellen und wie Sie Räume und Aufzeichnungen in [Raumverwaltung](/help/marketo/product-docs/demand-generation/events/interactive-webinars/room-management.md){target="_blank"} verwalten.
 
 Genießen Sie die Nutzung von interaktiven Webinaren (powered by Adobe Connect)!
