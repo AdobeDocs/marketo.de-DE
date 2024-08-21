@@ -4,16 +4,20 @@ description: Sprache eines Formulars ändern - Marketo-Dokumente - Produktdokume
 title: Sprache eines Formulars ändern
 exl-id: 7f8e8dc4-b0e7-4bd4-a81b-9e0c3ce29300
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 210c18f522a8358d02eb19018755daf2af2bd280
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 0%
+source-wordcount: '137'
+ht-degree: 1%
 
 ---
 
 # Sprache eines Formulars ändern {#change-the-language-of-a-form}
 
 Erfahren Sie, wie Sie die Sprache Ihres Formulars ändern können.
+
+>[!IMPORTANT]
+>
+>Wenn Sie die Schritte in diesem Artikel befolgen, ändern Sie die Sprache der Marketo-Standardfelder sowie den Wortlaut, der in der Beschriftung &quot;Senden-Schaltfläche&quot;verwendet wird. [benutzerdefinierte Felder](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"} werden nicht übersetzt.
 
 1. Wechseln Sie zu **Marketingaktivitäten**.
 
@@ -35,7 +39,7 @@ Erfahren Sie, wie Sie die Sprache Ihres Formulars ändern können.
 
    ![](assets/change-the-language-of-a-form-5.png)
 
-1. Klicken Sie auf **Beenden**.
+1. Klicken Sie auf **Fertigstellen**.
 
    ![](assets/change-the-language-of-a-form-6.png)
 
@@ -45,7 +49,7 @@ Erfahren Sie, wie Sie die Sprache Ihres Formulars ändern können.
 
    >[!NOTE]
    >
-   >Das Formular muss validiert sein, damit es auf Landingpages verwendet werden kann.
+   >Das Formular muss genehmigt werden, damit es auf Landingpages verwendet werden kann.
 
    >[!TIP]
    >
