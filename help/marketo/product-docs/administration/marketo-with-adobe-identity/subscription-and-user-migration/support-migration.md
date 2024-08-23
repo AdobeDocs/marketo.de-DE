@@ -2,19 +2,17 @@
 description: Migration der Marketo Engage-Unterstützung - Marketo Docs - Produktdokumentation
 title: Migration von Marketo Engage-Support
 feature: Marketo with Adobe Identity
-hide: true
-hidefromtoc: true
 exl-id: 07e4377a-73d7-4293-938c-ae87c769c128
-source-git-commit: 7e47555e61ef9c4423e83a977637d7a5f4ad9849
+source-git-commit: aa77a0124f261eea2999029806adb1d1aaf3e0da
 workflow-type: tm+mt
-source-wordcount: '467'
+source-wordcount: '468'
 ht-degree: 1%
 
 ---
 
 # Migration von Marketo Engage-Support {#marketo-engage-support-migration}
 
-Erfahren Sie mehr über die bevorstehenden Änderungen an Ihrem Adobe Marketo Engage-Support-Erlebnis. Die Änderungen sollen Ihr Benutzererlebnis verbessern und Ihre Verwaltungsaufgaben optimieren.
+Erfahren Sie mehr über die bevorstehenden Änderungen am Adobe Marketo Engage-Support-Prozess. Die Updates sollen Ihre Verwaltungsaufgaben optimieren und Ihr Gesamterlebnis verbessern.
 
 ## Marketo Engage Admin Console {#marketo-engage-admin-console}
 
@@ -38,7 +36,7 @@ Die zweite Aktualisierung verbessert die Art und Weise, wie Sie Support-Tickets 
 
 ## Woher weiß ich, wann die Migration der Unterstützung abgeschlossen ist? {#support-migration-has-been-completed}
 
-Die Migration des Supports erfolgt nach Abschluss der Benutzermigration für alle Abonnements. Wenn Sie als PSA im Rahmen der Support-Migration hinzugefügt wurden, erhalten Sie nach Abschluss der Benutzermigration eine E-Mail, in der Sie darüber informiert werden, dass Sie als Support-Administrator hinzugefügt wurden, um den Support für diese spezifischen Abonnements zu kontaktieren. Dadurch wird eine automatische Umleitung von der Marketing-Nation zu Adobe Experience League für alle Groß-/Kleinschreibung Trigger. Bitte senden Sie Support-Anfragen weiterhin über die Marketing Nation , bis die automatische Weiterleitung aktiviert ist.
+Die Migration des Supports erfolgt nach Abschluss der Benutzermigration für alle Abonnements. Wenn Sie als PSA im Rahmen der Support-Migration hinzugefügt wurden, erhalten Sie nach Abschluss der Benutzermigration eine E-Mail, in der Sie darüber informiert werden, dass Sie als Support-Administrator hinzugefügt wurden, um den Adobe-Support für diese spezifischen Abonnements zu kontaktieren. Dadurch wird eine automatische Umleitung von der Marketing-Nation zu Adobe Experience League für alle Groß-/Kleinschreibung Trigger. Bitte senden Sie Support-Anfragen weiterhin über die Marketing Nation , bis die automatische Weiterleitung aktiviert ist.
 
 ## Weitere Ressourcen {#additional-resources}
 
