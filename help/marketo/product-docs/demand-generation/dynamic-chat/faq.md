@@ -3,9 +3,9 @@ description: Dynamic Chat FAQ - Marketo Docs - Produktdokumentation
 title: Dynamic Chat-FAQs
 feature: Dynamic Chat
 exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
-source-git-commit: 941fdf08b580bab80c456e3956e965c9e2fa6942
+source-git-commit: ed833219e5074ae646e07db599e7da50665c453b
 workflow-type: tm+mt
-source-wordcount: '873'
+source-wordcount: '882'
 ht-degree: 0%
 
 ---
@@ -68,7 +68,7 @@ Dies weist höchstwahrscheinlich darauf hin, dass Sie in der Adobe Admin Console
 
 **Wie greife ich auf das Transkript für eine aktive Unterhaltung zu?**
 
-Dynamic Chat-Transkripte können für jeden bekannten Lead, der mit einem Dynamic Chat-Dialog interagiert hat, über die Aktivität &quot;Interagiert mit Dialog&quot; in Marketo Engage aufgerufen werden.
+Dynamic Chat-Transkripte können für jeden bekannten Lead aufgerufen werden, der über die Aktivität &quot;Mit Dynamic Chat-Dialog interagiert&quot;in Marketo Engage mit einem-Dialog interagiert hat und dessen Konvertierungsstatus entweder &quot;Abgeschlossen&quot;oder &quot;Abgelegt&quot;lautet.
 
 **Kann ein Besucher die Konversation neu starten oder zu einer vorherigen Frage zurückkehren, sobald er ein Dialogfeld öffnet?**
 
@@ -100,4 +100,4 @@ Es werden mehrere Begriffe im Dynamic Chat verwendet. Definitionen für viele vo
 
 **Kann ich Dynamic Chat ohne Marketo Engage verwenden?**
 
-Anz. Während Dynamic Chat eine separate Anwendung von Marketo Engage ist, sind die beiden untrennbar miteinander verbunden.
+Nein. Während Dynamic Chat eine separate Anwendung von Marketo Engage ist, sind die beiden untrennbar miteinander verbunden.
