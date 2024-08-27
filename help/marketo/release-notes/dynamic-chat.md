@@ -3,9 +3,9 @@ description: Dynamic Chat-Versionshinweise – Marketo-Dokumente – Produktdoku
 title: Versionshinweise zu Dynamic Chat
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: 0015db05477cbb46a34e8abd4800d00c6522496f
+source-git-commit: d8c6ff5b54b9cee26456ec7539168a5ee0c8190f
 workflow-type: tm+mt
-source-wordcount: '1472'
+source-wordcount: '1869'
 ht-degree: 3%
 
 ---
@@ -15,6 +15,68 @@ ht-degree: 3%
 Adobe Dynamic Chat-Releases basieren auf einem kontinuierlichen Bereitstellungsmodell, das einen skalierbareren Ansatz für die Implementierung von Funktionen ermöglicht. Manchmal gibt es mehrere Versionen in einem Monat. Schauen Sie daher regelmäßig nach, um aktuelle Informationen zu erhalten.
 
 Die standardmäßige Seite mit Versionshinweisen für Marketo Engage [finden Sie hier ](/help/marketo/release-notes/current.md){target="_blank"}.
+
+## Version August 2024 {#august-release}
+
+**Veröffentlichungsdatum: Samstag, 23. August 2024**
+
+### Benutzerdefiniertes Format für Konversationsnachrichten {#custom-format-conversation-messages}
+
+Stream-Designer unterstützen jetzt das Einfügen von [HTML](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"}, um das Erscheinungsbild Ihrer Konversationen anzupassen.
+
+![](assets/dynamic-chat-aug-2024-release-1.png)
+
+### ChatBot scrollen zum unteren Rand {#chatbot-scroll-to-bottom}
+
+Im Chat-Bot wurde ein Symbol hinzugefügt, über das Webbesucher direkt zur letzten Nachricht springen können. So können Besucher durch den Text scrollen, um schnell zur Konversation zurückzukehren.
+
+![](assets/dynamic-chat-aug-2024-release-2.png)
+
+### Core-Pulsbenachrichtigungen {#core-pulse-notifications}
+
+Benutzer erhalten jetzt eine [E-Mail-Benachrichtigung](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#failed-action-notifications){target="_blank"}, wenn die Buchung eines Meetings oder ein Live-Chat fehlschlägt.
+
+![](assets/dynamic-chat-aug-2024-release-3.png)
+
+### Unterstützung mehrerer Konversationen {#support-for-multiple-conversations}
+
+Der Chatbot unterstützt jetzt mehrere Konversationen. Website-Besucher können auf verschiedenen Seiten gleichzeitig verschiedene Gespräche führen, mit der Möglichkeit, zwischen ihnen zu wechseln.
+
+![](assets/dynamic-chat-aug-2024-release-4.png)
+
+### Standardmäßige Sortierung für Inhalte {#default-sorting-for-content}
+
+Standardmäßig werden Ihre Konversationslogs, unbeantwortete Fragen und Tabellen zur Fragengenerierung nach dem Erstellungsdatum (vom letzten zum ältesten) sortiert.
+
+### Echtzeit-Lead-Auflösung {#real-time-lead-resolution}
+
+Bei einer Konversation mit einem anonymen Lead und einer E-Mail-ID lösen wir auf, ob ein bekannter Lead-Datensatz mit dieser E-Mail-ID vorhanden ist, und verwenden diesen Datensatz zur Personalisierung in Echtzeit. Wenn wir mehrere Datensätze finden, führen wir sie in Echtzeit zusammen. Dieses Verhalten ist sowohl für Dialogfelder als auch für Konversationsflüsse implementiert.
+
+### Synchronisieren von Leads ohne Cookies von Marketo Engage {#syncing-leads-without-cookies}
+
+Bisher wurden bei Aktivierung der Marketo Engage-Synchronisation nur bekannte Leads von Dynamic Chat mit einer oder mehreren Cookie-IDs von Marketo Engage synchronisiert. Jetzt werden alle bekannten Leads (Cookie-ID vorhanden oder nicht) mit Dynamic Chat synchronisiert und können für die Personalisierung von Konversationen verwendet werden.
+
+### Übergeben zusätzlicher Besucherdaten an Konversationsflüsse {#pass-additional-visitor-data}
+
+Wenn Sie Besucherinformationen über andere Kanäle wie Formulare oder Anmeldedaten erfassen, können Sie diese Informationen jetzt direkt an Dynamic Chat weitergeben.
+
+![](assets/dynamic-chat-aug-2024-release-5.png)
+
+### Aktualisierte abgeleitete Daten {#refreshed-inferred-data}
+
+Die meisten Unterhaltungen auf einer Website erfolgen mit anonymen Besuchern. Sie können sie weiterhin mithilfe von abgeleiteten Daten ansprechen, die auf Besucher-IPs angewiesen sind. Wir haben unsere Datenbank mit IPs und entsprechenden abgeleiteten Daten aktualisiert, die jetzt viermal mehr IPs unterstützt.
+
+### Ton zur Agent-Browserbenachrichtigung hinzugefügt {#sound-added-to-agent-browser-notification}
+
+Wenn einem Agenten ein Live-Chat zugewiesen wird, erhält er eine Browserbenachrichtigung. Aber gelegentlich sehen sie sie nicht. Wir haben einen Benachrichtigungs-Ton hinzugefügt, der verhindert, dass in Zukunft verpasste Benachrichtigungen gesendet werden.
+
+![](assets/dynamic-chat-aug-2024-release-6.png)
+
+### Möglichkeit, das Lead-Profil während des Live-Chat zu aktualisieren {#update-lead-profile-during-live-chat}
+
+Während eines Live-Chat möchten Agenten Informationen über den Besucher erfassen und das entsprechende Profil aktualisieren. Es gibt jetzt die Möglichkeit, die Attributwerte von Lead- und Firmenobjekten zu aktualisieren.
+
+![](assets/dynamic-chat-aug-2024-release-7.png)
 
 ## Version Juni 2024 {#june-release}
 

@@ -3,10 +3,10 @@ description: Live-Chat-Übersicht - Marketo-Dokumente - Produktdokumentation
 title: Live-Chat-Übersicht
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
+source-git-commit: d8c6ff5b54b9cee26456ec7539168a5ee0c8190f
 workflow-type: tm+mt
-source-wordcount: '665'
-ht-degree: 0%
+source-wordcount: '686'
+ht-degree: 1%
 
 ---
 
@@ -26,7 +26,7 @@ Wenn Besucher über Ihr Dialogfeld anfordern, mit einem Agenten zu chatten, habe
 
 >[!NOTE]
 >
->Der Live-Agent-Avatar verwendet das Profilbild aus dem Adobe-Kontoprofil des Agenten. Um das Bild zu aktualisieren, führen Sie [diese Schritte](https://helpx.adobe.com/manage-account/using/edit-adobe-account-personal-profile.html){target="_blank"} aus.
+>Der Live-Agent-Avatar verwendet das Profilbild aus dem Adobe-Kontoprofil des Agenten. Um das Bild zu aktualisieren, führen Sie [diese Schritte](https://helpx.adobe.com/de/manage-account/using/edit-adobe-account-personal-profile.html){target="_blank"} aus.
 
 ## Verwenden der Live-Chat-Karte {#using-the-live-chat-card}
 
@@ -104,6 +104,12 @@ Wenn ein Live-Chat an einen Agenten weitergeleitet wird, wird ihm oben auf dem B
 >
 >* Browserbenachrichtigungen in [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop){target="_blank"} aktivieren
 >* Browserbenachrichtigungen in [Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"} aktivieren
+
+### Fehlgeschlagene Aktionsbenachrichtigungen {#failed-action-notifications}
+
+Wenn eine Aktion wie die Buchung eines Meetings oder ein Live-Chat fehlschlägt, werden die Benutzer per E-Mail benachrichtigt.
+
+![](assets/live-chat-overview-6.png)
 
 ### Zu beachten {#things-to-note}
 
