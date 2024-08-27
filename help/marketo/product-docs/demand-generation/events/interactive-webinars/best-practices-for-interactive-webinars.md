@@ -3,9 +3,9 @@ description: Best Practices für interaktive Webinare - Marketo-Dokumente - Prod
 title: Best Practices für interaktive Webinare
 feature: Interactive Webinars
 exl-id: fd9d7d03-8d92-45f7-9372-a2b6d2f4c635
-source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
+source-git-commit: 488da545043cbd59eb3d3b1d4f57684d14bd501a
 workflow-type: tm+mt
-source-wordcount: '1650'
+source-wordcount: '1691'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,10 @@ Um Ihnen dabei zu helfen, haben wir eine Liste mit Best Practices zusammengestel
 ## Vorbereitung auf das Ereignis {#pre-event-preparation}
 
 ### Ereignis erstellen {#creating-an-event}
+
+>[!TIP]
+>
+>Das mobile Weberlebnis der interaktiven Webinare ist nicht responsiv. Daher empfehlen wir, die Adobe Connect-App für ein nahtloses Webinarerlebnis auf Ihrem Mobilgerät zu verwenden. Beachten Sie, dass die Adobe Connect App derzeit nicht in App Stores in China verfügbar ist.
 
 * Erstellen Sie ein Beispiel für ein interaktives Webinar (IW) und klonen Sie es jedes Mal, um zu vermeiden, von Grund auf neu beginnen zu müssen.
 

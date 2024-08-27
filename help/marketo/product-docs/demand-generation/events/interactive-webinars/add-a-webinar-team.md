@@ -3,10 +3,10 @@ description: Webinar-Team hinzufügen - Marketo-Dokumente - Produktdokumentation
 title: Webinar-Team hinzufügen
 feature: Interactive Webinars
 exl-id: eff0b69a-0ffe-45b4-8170-cd57894ab926
-source-git-commit: 7de0aed6be29a304276f2b3f96dd60974b4c4eb6
+source-git-commit: 488da545043cbd59eb3d3b1d4f57684d14bd501a
 workflow-type: tm+mt
-source-wordcount: '379'
-ht-degree: 0%
+source-wordcount: '393'
+ht-degree: 1%
 
 ---
 
@@ -36,7 +36,7 @@ Der Moderator ist eine externe Rolle, die an der Bereitstellung des Webinar-Erle
 
    >[!NOTE]
    >
-   >Wenn Sie den Benutzer **Interner interaktiver Webinar-Benutzer** auswählen, müssen Sie einfach auf das Dropdown-Menü **Verfügbare Hosts** klicken und aus der Liste der Personen auswählen, die als interaktive Webinare-Benutzer im Marketo Engage hinzugefügt wurden.
+   >Wenn Sie den Benutzer **Interner interaktiver Webinar-Benutzer** auswählen, müssen Sie einfach auf das Dropdown-Menü **Verfügbare Hosts** klicken und aus der Liste der Personen auswählen, die als interaktive Webinare-Benutzer im Marketo Engage hinzugefügt wurden. Vorhandene Hosts sehen sich in dieser Dropdown-Liste nicht selbst, da es sich bereits um Hosts handelt.
 
 1. Geben Sie den Vornamen, Nachnamen und die E-Mail-Adresse des gewünschten Co-Hosts ein. Klicken Sie auf **Hinzufügen**.
 
