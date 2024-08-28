@@ -3,7 +3,7 @@ description: Dynamic Chat-Versionshinweise – Marketo-Dokumente – Produktdoku
 title: Versionshinweise zu Dynamic Chat
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: d8c6ff5b54b9cee26456ec7539168a5ee0c8190f
+source-git-commit: d88406c1f9d72c57a6d4f09934cbf685499ed198
 workflow-type: tm+mt
 source-wordcount: '1869'
 ht-degree: 3%
@@ -68,7 +68,7 @@ Die meisten Unterhaltungen auf einer Website erfolgen mit anonymen Besuchern. Si
 
 ### Ton zur Agent-Browserbenachrichtigung hinzugefügt {#sound-added-to-agent-browser-notification}
 
-Wenn einem Agenten ein Live-Chat zugewiesen wird, erhält er eine Browserbenachrichtigung. Aber gelegentlich sehen sie sie nicht. Wir haben einen Benachrichtigungs-Ton hinzugefügt, der verhindert, dass in Zukunft verpasste Benachrichtigungen gesendet werden.
+Wenn einem Agenten ein Live-Chat zugewiesen wird, erhält er eine Browserbenachrichtigung. Aber gelegentlich sehen sie sie nicht. Wir haben einen [Benachrichtigungs-Sound](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#when-a-live-chat-is-routed-to-an-agent){target="_blank"} hinzugefügt, um zu verhindern, dass in Zukunft verpasste Benachrichtigungen gesendet werden.
 
 ![](assets/dynamic-chat-aug-2024-release-6.png)
 

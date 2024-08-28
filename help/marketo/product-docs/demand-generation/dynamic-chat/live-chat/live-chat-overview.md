@@ -3,9 +3,9 @@ description: Live-Chat-Übersicht - Marketo-Dokumente - Produktdokumentation
 title: Live-Chat-Übersicht
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: d8c6ff5b54b9cee26456ec7539168a5ee0c8190f
+source-git-commit: d88406c1f9d72c57a6d4f09934cbf685499ed198
 workflow-type: tm+mt
-source-wordcount: '686'
+source-wordcount: '697'
 ht-degree: 1%
 
 ---
@@ -94,7 +94,7 @@ Wenn Agenten keine Browser-Benachrichtigungen erhalten, auch wenn sie dies im Br
 
 ### Wenn ein Live-Chat zu einem Agenten weitergeleitet wird {#when-a-live-chat-is-routed-to-an-agent}
 
-Wenn ein Live-Chat an einen Agenten weitergeleitet wird, wird ihm oben auf dem Bildschirm ein blaues Banner angezeigt, in dem er aufgefordert wird, ihn zu akzeptieren.
+Wenn ein Live-Chat an einen Agenten weitergeleitet wird, wird ihm oben im Bildschirm ein blaues Banner angezeigt, in dem er zur Annahme aufgefordert wird, sowie ein Benachrichtigungston, der dazu beiträgt, verpasste Benachrichtigungen zu vermeiden.
 
 ![](assets/live-chat-overview-3.png)
 
