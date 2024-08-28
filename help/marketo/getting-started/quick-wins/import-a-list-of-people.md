@@ -4,9 +4,9 @@ description: Importieren einer Personenliste - Marketo Docs - Produktdokumentati
 title: Eine Personenliste importieren
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 6733bca40fbe09fd1c5b6166aef7a74759d7808e
 workflow-type: tm+mt
-source-wordcount: '500'
+source-wordcount: '508'
 ht-degree: 4%
 
 ---
@@ -41,7 +41,9 @@ In diesem Tutorial erfahren Sie, wie Sie Personen aus einer Tabellendatei in Mar
 
    >[!CAUTION]
    >
-   >Marketo unterstützt **nicht** E-Mail-Adressen, die Emojis enthalten.
+   >* Stellen Sie sicher, dass E-Mail-Adressen nur ASCII-Zeichen enthalten.
+   >
+   >* Marketo unterstützt **nicht** E-Mail-Adressen, die Emojis enthalten.
 
 ## Schritt 2: Programm erstellen {#step-create-a-program}
 
