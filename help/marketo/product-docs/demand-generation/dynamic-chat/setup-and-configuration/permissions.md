@@ -3,9 +3,9 @@ description: Berechtigungen - Marketo-Dokumente - Produktdokumentation
 title: Berechtigungen
 feature: Dynamic Chat
 exl-id: 06798ac4-636b-476e-bbb1-498062844406
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 38e1e2d8c2fef7163f77d7774837571008075b5f
 workflow-type: tm+mt
-source-wordcount: '724'
+source-wordcount: '712'
 ht-degree: 5%
 
 ---
@@ -32,7 +32,7 @@ Es gibt fünf Standardprofile mit vordefinierten Berechtigungen, die Sie im Dyna
 
    ![](assets/permissions-4.png)
 
-1. Die verfügbaren Berechtigungselemente sind auf der linken Seite aufgeführt. Sie können festlegen, ob Berechtigungen einzeln oder auf einmal hinzugefügt werden sollen. In diesem Beispiel ist nur eine verfügbar, also fügen wir diese hinzu. Klicken Sie auf das Zeichen **+**.
+1. Die verfügbaren Berechtigungselemente sind auf der linken Seite aufgeführt. Sie können festlegen, ob Berechtigungen einzeln oder auf einmal hinzugefügt werden sollen. Klicken Sie auf das Zeichen **+**.
 
    ![](assets/permissions-5.png)
 
