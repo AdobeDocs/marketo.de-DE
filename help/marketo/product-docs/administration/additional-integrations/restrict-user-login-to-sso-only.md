@@ -4,9 +4,9 @@ description: Einschränken der Benutzeranmeldung auf "Nur SSO"- Marketo-Dokument
 title: Benutzeranmeldung auf SSO beschränken
 exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
 feature: Administration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: a12e4e420c01623305a0fa34b1e3973162e24d68
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '251'
 ht-degree: 5%
 
 ---
@@ -45,13 +45,13 @@ Wenn Sie [SSO](/help/marketo/product-docs/administration/additional-integrations
 
 >[!TIP]
 >
->Wenn Sie **[!UICONTROL SSO erforderlich]** auswählen, können Sie eine [Benutzerrolle](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) aus dieser Einschränkung ausschließen, indem Sie beim Einrichten der Rolle die Option **[!UICONTROL Single Sign-On umgehen]** aktivieren. Auf diese Weise können sich Benutzer normal anmelden. Beispielsweise müssen sich Admin-Benutzer möglicherweise weiterhin über den Anmeldebildschirm bei Marketo anmelden.
+>Wenn Sie **[!UICONTROL SSO erforderlich]** auswählen, können Sie eine [Benutzerrolle](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) aus dieser Einschränkung ausschließen, indem Sie beim Einrichten der Rolle die Option **[!UICONTROL Single Sign-On umgehen]** aktivieren. Auf diese Weise können sich Benutzer normal anmelden. Beispielsweise müssen sich Admin-Benutzer möglicherweise weiterhin über den Anmeldebildschirm bei Marketo anmelden. Wenn sowohl SSO als auch universelle ID aktiviert sind, muss die Berechtigung &quot;Single Signed On umgehen&quot;festgelegt sein, um zwischen Abonnements umzuschalten.
 
 >[!CAUTION]
 >
 >Wenn neue Benutzer eingeladen werden, erhalten sie Einladungs-E-Mails. Wenn jedoch **[!UICONTROL SSO erforderlich]** ausgewählt ist, erhalten diese E-Mails nicht, es sei denn, sie sind einer Rolle zugewiesen, die auf **[!UICONTROL Single Sign-On umgehen]** festgelegt ist.
 
-Das ist es! Jetzt sind alle Benutzer (mit Ausnahme von Benutzern mit der Berechtigung, Single Sign-On zu umgehen) auf die Verwendung der SSO-Anmeldung beschränkt.
+Das ist alles! Jetzt sind alle Benutzer (mit Ausnahme von Benutzern mit der Berechtigung, Single Sign-On zu umgehen) auf die Verwendung der SSO-Anmeldung beschränkt.
 
 >[!MORELIKETHIS]
 >

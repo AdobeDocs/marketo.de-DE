@@ -4,9 +4,9 @@ description: Verwenden einer universellen ID für die Anmeldung von Abonnements 
 title: Verwendung einer universellen ID zur Anmeldung von Abonnements
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
 feature: Administration
-source-git-commit: c0f0134972138eb4fa3498028a4acf5233dbe2fe
+source-git-commit: 5a8ea3c5356cb370b4e502b23eea8a457bfc97f1
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '569'
 ht-degree: 0%
 
 ---
@@ -50,6 +50,8 @@ Bei einer universellen ID für mehrere Abonnements können Sie nur das Kennwort 
 ## Wechseln zwischen Abonnements {#switching-between-subscriptions}
 
 Mit einer universellen ID können Sie das Abonnement sehen, bei dem Sie angemeldet sind, und andere Abonnements auswählen, auf die Sie Zugriff haben. In den meisten Fällen können Sie zwischen ihnen wechseln, ohne sich abmelden und wieder anmelden zu müssen.
+
+Wenn sowohl [Single Sign-On](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md) als auch Universal ID aktiviert sind, muss die Berechtigung &quot;Single Signed On umgehen&quot;festgelegt sein, um zwischen Abonnements umzuschalten.
 
 ![](assets/using-a-universal-id-for-subscription-login-2.png)
 
