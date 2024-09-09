@@ -3,10 +3,10 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 938ec953d002a9c4bf946a13b1c66cb9718ac2a0
+source-git-commit: 0ca5fa73fa93845c4795b94980cc1170665a1ccb
 workflow-type: tm+mt
-source-wordcount: '9353'
-ht-degree: 4%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -1488,7 +1488,6 @@ ht-degree: 4%
             + Kontakte verwalten {#managing-contacts}
                + [Massenaktionen für Personen](product-docs/marketo-sales-insight/actions/people/managing-contacts/bulk-actions-on-people.md)
                + [Erstellen und Löschen von Kontakten](product-docs/marketo-sales-insight/actions/people/managing-contacts/creating-and-deleting-contacts.md)
-               + [Importieren von Kontakten über CSV](product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md)
                + [Gruppen verwalten](product-docs/marketo-sales-insight/actions/people/managing-contacts/manage-groups.md)
                + [Benutzerseitenspalten](product-docs/marketo-sales-insight/actions/people/managing-contacts/people-page-columns.md)
          + Phone {#phone}
