@@ -3,9 +3,9 @@ description: Gruppen verwalten - Marketo-Dokumente - Produktdokumentation
 title: Gruppen verwalten
 exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 03f3824f67a2b72ad164bf5ecc0bfcf9748db3ff
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '343'
 ht-degree: 2%
 
 ---
@@ -66,10 +66,6 @@ Erfahren Sie, wie Sie Ihre Gruppen in Sales Insight-Aktionen verwalten.
 1. Klicken Sie auf **Gruppenaktionen** und wählen Sie **Kontakt erstellen und zu Gruppe hinzufügen**.
 
    ![](assets/manage-groups-4.png)
-
-   >[!NOTE]
-   >
-   >Dadurch wird jeweils ein Kontakt hinzugefügt. Um mehrere Kontakte gleichzeitig hinzuzufügen, führen Sie [diese Schritte](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md) aus.
 
 1. Füllen Sie die Kontaktinformationen aus und klicken Sie auf **Erstellen** (oder auf **Erstellen und Hinzufügen von Neu** , um einen weiteren hinzuzufügen).
 
