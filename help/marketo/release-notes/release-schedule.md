@@ -4,10 +4,10 @@ description: Versionsplanung – Marketo-Dokumente – Produktdokumentation
 title: Versionsplanung
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 9087709e0572687b80022b73a1fde0dca8dc1a7e
+source-git-commit: 46a2170aab30abdb5d9e77219fc56fc2537d1c59
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 10%
+source-wordcount: '115'
+ht-degree: 12%
 
 ---
 
@@ -45,21 +45,6 @@ _Veröffentlichungstermine/-funktionen können sich ändern_
   <tr> 
    <td>Januar 25</td>
    <td>17. Januar 2025</td>
-   <td>Zeitplan</td>
-  </tr>
-  <tr> 
-   <td>März '25</td>
-   <td>7. März 2025</td>
-   <td>Zeitplan</td>
-  </tr>
-  <tr> 
-   <td>April 25</td>
-   <td>25. April 2025</td>
-   <td>Zeitplan</td>
-  </tr>
-  <tr> 
-   <td>Juni '25</td>
-   <td>6. Juni 2025</td>
    <td>Zeitplan</td>
   </tr>
  </tbody>
