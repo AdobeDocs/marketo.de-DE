@@ -4,10 +4,10 @@ description: Versionsplanung – Marketo-Dokumente – Produktdokumentation
 title: Versionsplanung
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 1d2dbc5859b031995eb487f617ace9fdb2be7f0b
+source-git-commit: 9087709e0572687b80022b73a1fde0dca8dc1a7e
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 14%
+source-wordcount: '130'
+ht-degree: 10%
 
 ---
 
@@ -33,33 +33,33 @@ _Veröffentlichungstermine/-funktionen können sich ändern_
    <th width="250px">Status</th>
   </tr>
   <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2024/release-notes-jan-24.md">Januar 24</a></td>
-   <td>12. Januar 2024</td>
-   <td>Versendet</td>
-  </tr>
-  <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2024/release-notes-mar-24.md">März '24</a></td>
-   <td>8. März 2024</td>
-   <td>Versendet</td>
-  </tr>
-  <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2024/release-notes-apr-24.md">April '24</a></td>
-   <td>26. April 2024</td>
-   <td>Versendet</td>
-  </tr>
-  <tr>
-   <td><a href="/help/marketo/release-notes/current.md">Juni 24</a></td>
-   <td>7. Juni 2024</td>
-   <td>Versendet</td>
-  </tr>
-  <tr> 
-   <td>Juli '24</td>
+   <td><a href="/help/marketo/release-notes/current.md">Juli '24</a></td>
    <td>26. Juli 2024</td>
    <td>Im Gange</td>
   </tr>
   <tr> 
    <td>Oktober 24</td>
    <td>4. Oktober 2024</td>
+   <td>Zeitplan</td>
+  </tr>
+  <tr> 
+   <td>Januar 25</td>
+   <td>17. Januar 2025</td>
+   <td>Zeitplan</td>
+  </tr>
+  <tr> 
+   <td>März '25</td>
+   <td>7. März 2025</td>
+   <td>Zeitplan</td>
+  </tr>
+  <tr> 
+   <td>April 25</td>
+   <td>25. April 2025</td>
+   <td>Zeitplan</td>
+  </tr>
+  <tr> 
+   <td>Juni '25</td>
+   <td>6. Juni 2025</td>
    <td>Zeitplan</td>
   </tr>
  </tbody>

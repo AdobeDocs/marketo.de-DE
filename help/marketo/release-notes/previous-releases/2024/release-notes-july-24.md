@@ -2,9 +2,9 @@
 description: Versionshinweise - Juli 2024 - Marketo-Dokumente - Produktdokumentation
 title: Versionshinweise – Juli 2024
 feature: Release Information
-source-git-commit: 3a722d0f4ec3e48b031c641d3b73e1e5539ebf80
+source-git-commit: 9087709e0572687b80022b73a1fde0dca8dc1a7e
 workflow-type: tm+mt
-source-wordcount: '522'
+source-wordcount: '521'
 ht-degree: 5%
 
 ---
@@ -65,8 +65,8 @@ Die folgenden Funktionen fallen unter den standardmäßigen Versionszyklus und w
   </tr>
      <tr> 
    <td><strong>Marketo REST API Change</strong>: Die <a href="https://developers.marketo.com/rest-api/user-management/">User Management API</a> wurde geringfügig geändert. Sowohl die Endpunkte <a href="https://developers.marketo.com/rest-api/user-management/#browse_users">Benutzer durchsuchen</a> als auch <a href="https://developers.marketo.com/rest-api/user-management/#delete_user">Benutzer löschen</a> unterstützen jetzt die Benutzer für die Verwaltung von <a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md">Target-Konten</a>.</td> 
-   <td><i>Demnächst verfügbar</i></td>
-   <td><i>Demnächst verfügbar</i></td>
+   <td>Versendet</td>
+   <td>Nicht zutreffend</td>
   </tr>
  </tbody> 
 </table>
