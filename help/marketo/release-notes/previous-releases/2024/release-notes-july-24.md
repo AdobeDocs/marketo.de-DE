@@ -2,9 +2,9 @@
 description: Versionshinweise - Juli 2024 - Marketo-Dokumente - Produktdokumentation
 title: Versionshinweise – Juli 2024
 feature: Release Information
-source-git-commit: 3881c6e327dc7edc072fd3e7e3d4f6f5b78347dc
+source-git-commit: 3a722d0f4ec3e48b031c641d3b73e1e5539ebf80
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '522'
 ht-degree: 5%
 
 ---
