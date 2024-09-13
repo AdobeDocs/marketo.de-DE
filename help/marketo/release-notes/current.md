@@ -3,10 +3,10 @@ description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokument
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: c7fa016a93de2ca0634bf117a04843e7762588d1
+source-git-commit: 86dae90f24c948da8824ac2b8662072756fa2601
 workflow-type: tm+mt
-source-wordcount: '255'
-ht-degree: 10%
+source-wordcount: '303'
+ht-degree: 9%
 
 ---
 
@@ -71,3 +71,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Versionszyklus und w
  </tbody> 
 </table>
 <br/>
+
+## Ankündigungen {#announcements}
+
+Am 17. September 2024 beginnt der Rollout von [Munchkin](/help/marketo/product-docs/administration/setup-administration/munchkin.md){target="_blank"} v.164 für Marketo Engage-Instanzen, bei denen die Einstellung &quot;Munchkin Beta&quot;in **Admin** > **Schatztruhe** aktiviert ist. Der Rollout für alle anderen Instanzen soll am 29. Oktober beginnen. Diese Version aktualisiert die Erstellung von Munchkin-Cookies. Die Funktionalität ändert sich nicht.
