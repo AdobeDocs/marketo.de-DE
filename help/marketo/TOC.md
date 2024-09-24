@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 03f3824f67a2b72ad164bf5ecc0bfcf9748db3ff
+source-git-commit: 49b1545e61a5d11c1ca6ebf5b17d56ef038f6c65
 workflow-type: tm+mt
-source-wordcount: '9341'
+source-wordcount: '9346'
 ht-degree: 4%
 
 ---
@@ -1748,6 +1748,7 @@ ht-degree: 4%
             + [Personen nach Status-Bericht](product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
             + [Personenleistungsbericht](product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
             + [Berichtstyp - Übersicht](product-docs/reporting/basic-reporting/report-types/report-type-overview.md)
+            + [Dashboard &quot;Salesforce Sync Observability Metrics&quot;](product-docs/reporting/basic-reporting/report-types/salesforce-sync-observability-metrics-dashboard.md)
             + [Webseitenaktivitätsbericht](product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
             + [Angezeigte Webseiten, Bericht zur Webseiten-Aktivität](product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
       + Email Insights {#email-insights}
