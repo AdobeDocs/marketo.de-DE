@@ -3,10 +3,10 @@ description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokument
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 9d5b27d82736b2b89a12aa3d184d90f1f95945b5
+source-git-commit: 00b4617427e2d836ce678963c8faa0f9015a0d40
 workflow-type: tm+mt
-source-wordcount: '363'
-ht-degree: 7%
+source-wordcount: '420'
+ht-degree: 6%
 
 ---
 
@@ -74,6 +74,10 @@ Die folgenden Funktionen fallen unter den standardmäßigen Versionszyklus und w
 
 ## Ankündigungen {#announcements}
 
-* **Neue Munchkin-Version**: Am 17. September 2024 beginnt der Rollout von [Munchkin](/help/marketo/product-docs/administration/setup-administration/munchkin.md){target="_blank"} v.164 zu Marketo Engage-Instanzen, bei denen die Einstellung &quot;Munchkin Beta&quot;unter **Admin** > **Schatztruhe** aktiviert ist. Der Rollout für alle anderen Instanzen soll am 29. Oktober beginnen. Diese Version aktualisiert die Erstellung von Munchkin-Cookies. Die Funktionalität ändert sich nicht.
-
 * **QR-Code-Deprecation**: Am 4. Oktober 2024 wird die QR-Code-Funktion, die in Push-Benachrichtigungen und In-App-Nachrichten-Assets verwendet wird, nicht mehr unterstützt. Dazu gehört die Verwendung von QR-Codes für ein neues Testgerät sowie die Erstellung neuer Assets mit QR-Codes. Die Veraltung von Funktionen mit geringerer Nutzung ermöglicht es uns, ihre Ressourcen auf die Gesamtwartung von Marketo Engage umzuleiten.
+
+* **Munchkin-Änderungen**
+
+   * **Neue Version**: Am 17. September 2024 beginnt der Rollout von [Munchkin](/help/marketo/product-docs/administration/setup-administration/munchkin.md){target="_blank"} v.164 zu Marketo Engage-Instanzen, bei denen die Einstellung &quot;Munchkin Beta&quot;unter **Admin** > **Schatztruhe** aktiviert ist. Der Rollout für alle anderen Instanzen soll am 29. Oktober beginnen. Diese Version aktualisiert die Erstellung von Munchkin-Cookies. Die Funktionalität ändert sich nicht.
+
+   * **Zeichen aus URL entfernt**: Die von Munchkin JS erstellten Aktivitäten &quot;Besuche der Webseite&quot;und &quot;Klicks Link&quot;entfernen jetzt nicht URL-kodierte Steuerzeichen aus allen URL-Feldern. Diese Änderung soll Fehler bei der Übertragung dieser Zeichentypen in Systeme verhindern, die sie nicht unterstützen und keine gültige Verwendung innerhalb von Marketo Engage haben.
