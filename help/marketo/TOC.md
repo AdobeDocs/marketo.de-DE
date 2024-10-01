@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 49b1545e61a5d11c1ca6ebf5b17d56ef038f6c65
+source-git-commit: a9ed4a7e2247a26b376bde64bb1cfd6db2833822
 workflow-type: tm+mt
-source-wordcount: '9346'
+source-wordcount: '9345'
 ht-degree: 4%
 
 ---
@@ -627,6 +627,7 @@ ht-degree: 4%
          + [Salesforce-Synchronisierung aktivieren/deaktivieren](product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)
          + [Implizite Salesforce-Aktionen](product-docs/crm-sync/salesforce-sync/implied-salesforce-actions.md)
          + [Anmelden mit OAuth 2.0](product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md)
+         + [Salesforce Sync-Rücklog-Metriken](product-docs/crm-sync/salesforce-sync/salesforce-sync-backlog-metrics.md)
          + [Salesforce-Synchronisierungsfehler](product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md)
          + [Salesforce-Synchronisierungsstatus](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
          + [Verwenden von Personenkonten](product-docs/crm-sync/salesforce-sync/using-person-accounts.md)
@@ -1748,7 +1749,6 @@ ht-degree: 4%
             + [Personen nach Status-Bericht](product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
             + [Personenleistungsbericht](product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
             + [Berichtstyp - Übersicht](product-docs/reporting/basic-reporting/report-types/report-type-overview.md)
-            + [Dashboard &quot;Salesforce Sync Observability Metrics&quot;](product-docs/reporting/basic-reporting/report-types/salesforce-sync-observability-metrics-dashboard.md)
             + [Webseitenaktivitätsbericht](product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
             + [Angezeigte Webseiten, Bericht zur Webseiten-Aktivität](product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
       + Email Insights {#email-insights}
