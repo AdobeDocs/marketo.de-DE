@@ -3,10 +3,10 @@ description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokument
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 2457f0f51c6365c29a040e908678e81517327de5
+source-git-commit: a837ec558ae5a845a841d8ea7d9eb3b8a37313e1
 workflow-type: tm+mt
-source-wordcount: '420'
-ht-degree: 6%
+source-wordcount: '513'
+ht-degree: 7%
 
 ---
 
@@ -65,6 +65,34 @@ Die folgenden Funktionen fallen unter den standardmäßigen Versionszyklus und w
   </tr>
    <tr> 
    <td><strong>Schaltfläche "Mein Konto"in der Navigationsleiste</strong>: Für diejenigen, die zum Adobe Identity Management System migriert haben, ermöglicht eine neue Schaltfläche "Mein Konto"in der linken Navigationsleiste die Konfiguration Ihrer Zeitzone und den Zugriff auf Abonnementdetails.</td> 
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  </tr>
+   <tr> 
+   <td><strong>Salesforce Sync Backlog Metrics</strong>: Sie können jetzt den Synchronisierungsdurchsatz und die Trends bei der Rückgängigmachung überwachen, um CRM-Aktualisierungen für ein optimales Synchronisierungserlebnis zu planen und zu planen.</td> 
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  </tr>
+   <tr> 
+   <td><strong>Verbesserungen bei E-Mail-Leistungsberichten</strong>: An den E-Mail-Berichtsmetriken und dem Aktivitäts-Tracking wurden mehrere Verbesserungen vorgenommen, die zusätzliche Einblicke bieten und die Genauigkeit verbessern.
+   <ul>
+   <li>Gelöschte und zusammengeführte Personen aus E-Mail-Leistungsmetriken filtern</li>
+   <li>E-Mails, die nach drei Tagen auf Reaktionsaktivität als <i>abgebrochen</i> gewartet wurden</li>
+   <li>Kontoemail wird auf Kampagnenebene geöffnet</li>
+   <li>Verbessertes E-Mail-Aktivitäts-Tracking durch Verfeinerung des Standort des Tracking-Pixels</li>
+   </td> 
    <td><i>Demnächst verfügbar</i></td>
    <td><i>Demnächst verfügbar</i></td>
   </tr>
