@@ -3,10 +3,10 @@ description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokument
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: a837ec558ae5a845a841d8ea7d9eb3b8a37313e1
+source-git-commit: 2ae776fb67e590c4ccad711e4dfa55e6fc558c3b
 workflow-type: tm+mt
-source-wordcount: '513'
-ht-degree: 7%
+source-wordcount: '485'
+ht-degree: 6%
 
 ---
 
@@ -72,18 +72,6 @@ Die folgenden Funktionen fallen unter den standardmäßigen Versionszyklus und w
    <td> </td> 
    <td> </td>
    <td> </td>
-  </tr>
-  </tr>
-   <tr> 
-   <td><strong>Salesforce Sync Backlog Metrics</strong>: Sie können jetzt den Synchronisierungsdurchsatz und die Trends bei der Rückgängigmachung überwachen, um CRM-Aktualisierungen für ein optimales Synchronisierungserlebnis zu planen und zu planen.</td> 
-   <td><i>Demnächst verfügbar</i></td>
-   <td><i>Demnächst verfügbar</i></td>
-  </tr>
-  <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
   </tr>
    <tr> 
    <td><strong>Verbesserungen bei E-Mail-Leistungsberichten</strong>: An den E-Mail-Berichtsmetriken und dem Aktivitäts-Tracking wurden mehrere Verbesserungen vorgenommen, die zusätzliche Einblicke bieten und die Genauigkeit verbessern.
