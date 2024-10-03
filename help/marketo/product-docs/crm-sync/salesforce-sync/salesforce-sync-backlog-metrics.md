@@ -4,7 +4,7 @@ title: Salesforce Sync-Rücklog-Metriken
 hide: true
 hidefromtoc: true
 feature: Reporting
-source-git-commit: a9ed4a7e2247a26b376bde64bb1cfd6db2833822
+source-git-commit: 1cc876285f8d7ac7a21a763dd65da34341341a0e
 workflow-type: tm+mt
 source-wordcount: '840'
 ht-degree: 0%
@@ -93,7 +93,7 @@ Unabhängig davon, ob die Aktualisierung auf der Marketo Engage- oder CRM-Seite 
 
 Wenn eine große Anzahl von Aktualisierungen vorgenommen wird (z. B. durch eine Änderung des Feldwerts), werden viele Datensätze geändert, was zu neuen SysModStamps führt. Eine große Anzahl von Personen-Datensatz-Updates müssen dann zwischen Marketo Engage und Ihrem CRM neu synchronisiert werden, was manchmal einen momentanen Rückstand verursacht.
 
-## Best Practices für die Verwaltung von Synchronisierungs-Backlogs {#best-practices-for-managing-sync-backlogs}
+## Best Practices für die Verwaltung von Synchronisierungs-Backlogs {#best-practices}
 
 **Synchronisierte Felder**: Stellen Sie sicher, dass die synchronisierten Felder nur diejenigen sind, die synchronisiert werden müssen. Änderungen an Feldern erhöhen den Synchronisierungs-Backlog, und Felder mit niedrigerer Priorität werden möglicherweise angehalten oder verlangsamen wichtigere Felder bei der Synchronisierung. Wenden Sie sich an den [Marketo Engage-Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} , um Felder zu entfernen, die synchronisiert sind.
 
@@ -105,4 +105,4 @@ Wenn eine große Anzahl von Aktualisierungen vorgenommen wird (z. B. durch eine 
 
 **Planen Sie Massenaktualisierungen während nicht kritischer Stunden**: Überprüfen Sie Ihre Datensynchronisierungsmuster, um nicht kritische Zeiträume zu identifizieren. Ermitteln Sie, ob Massenaktualisierungen in diesen nicht kritischen Zeiträumen geplant werden können.
 
-Wenn Sie alle oben genannten Best Practices befolgen und weiterhin erhebliche Rückstände aufweisen, wenden Sie sich an den [Marketo Engage-Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+Wenn Sie alle oben genannten Best Practices befolgen und dennoch erhebliche Rückstände aufweisen, wenden Sie sich an den [Marketo Engage-Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
