@@ -4,9 +4,9 @@ description: E-Mail-Leistungsbericht - Marketo-Dokumente - Produktdokumentation
 title: E-Mail-Leistungsbericht
 exl-id: 327d4c0e-951f-4782-989d-4a4c6a513ebc
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2cfb8381d3207efb00b7d4751e21244a188a411e
 workflow-type: tm+mt
-source-wordcount: '428'
+source-wordcount: '493'
 ht-degree: 3%
 
 ---
@@ -35,17 +35,41 @@ Erstellen Sie einen E-Mail-Leistungsbericht, um zu sehen, wie gut Ihre E-Mails m
 
    [Berichtspalten auswählen](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) für einen E-Mail-Leistungsbericht:
 
-   | Spalte | Beschreibung |
-   |---|---|
-   | Hard Bounce-Ereignis aufgetreten | E-Mail wurde wegen einer permanenten Bedingung wie einer nicht vorhandenen E-Mail-Adresse abgelehnt. |
-   | Soft Bounce-Ereignis aufgetreten | E-Mail wurde wegen einer temporären Bedingung wie einem Server ausgeschaltet oder einem vollständigen Posteingang abgelehnt. |
-   | Ausstehend | Diese Zahl wird berechnet, indem die Anzahl der zugestellten, Bounce und Softbounce gesendeten E-Mails von der Gesamtzahl der gesendeten E-Mails abgezogen wird. |
-   | Angeklickter Link | Anzahl der E-Mail-Empfänger, die auf einen Link in der E-Mail geklickt haben |
-   | Abbestellt | Anzahl der E-Mail-Empfänger, die auf den Link **Abmeldung** in der E-Mail geklickt und das Formular ausgefüllt haben. |
+   <table><thead>
+<tr>
+    <th>Spalte</th>
+    <th>Beschreibung</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Hard Bounce-Ereignis aufgetreten</td>
+    <td>E-Mail wurde wegen einer permanenten Bedingung wie einer nicht vorhandenen E-Mail-Adresse abgelehnt.</td>
+  </tr>
+  <tr>
+    <td>Soft Bounce-Ereignis aufgetreten</td>
+    <td>E-Mail wurde wegen einer temporären Bedingung wie einem Server ausgeschaltet oder einem vollständigen Posteingang abgelehnt.</td>
+  </tr>
+  <tr>
+    <td>Ausstehend</td>
+    <td>Diese Zahl wird berechnet, indem die Anzahl der zugestellten, Bounce und Softbounce gesendeten E-Mails von der Gesamtzahl der gesendeten E-Mails abgezogen wird.</td>
+  </tr>
+  <tr>
+    <td>Angeklickter Link</td>
+    <td>Anzahl der E-Mail-Empfänger, die auf einen Link in der E-Mail geklickt haben</td>
+  </tr>
+  <tr>
+    <td>Abbestellt</td>
+    <td>Anzahl der E-Mail-Empfänger, die auf den Link Abmelden in der E-Mail geklickt und das Formular ausgefüllt haben.</td>
+  </tr>
+  <tr>
+    <td>Abgebrochen</td>
+    <td>Anzahl der E-Mails, die nicht zugestellt werden konnten und kein Bounce-Ereignis empfangen wurde. Eine E-Mail wird automatisch als Abgebrochen bezeichnet, wenn innerhalb von drei Tagen nach dem Versand der E-Mail keine Antwort eingeht.</td>
+  </tr>
+</tbody></table>
 
-   >[!NOTE]
-   >
-   >Abmelde-Links und E-Mail-Adressen, auf die in einer E-Mail geklickt wird, werden nicht unter Klicks auf Links im Bericht registriert.
+>[!NOTE]
+>
+>Abmelde-Links und E-Mail-Adressen, auf die in einer E-Mail geklickt wird, werden nicht unter Klicks auf Links im Bericht registriert.
 
 Im Allgemeinen versuchen wir, diese Statistiken mit gesundem Menschenverstand aufzuzeichnen. Wenn beispielsweise jemand in einer E-Mail auf einen Link geklickt hat, hat er die E-Mail offensichtlich zuerst geöffnet. Wir befolgen diese spezifischen Regeln für den E-Mail-Leistungsbericht:
 
@@ -57,9 +81,13 @@ Im Allgemeinen versuchen wir, diese Statistiken mit gesundem Menschenverstand au
 
 * **Regel 4**: Wenn die E-Mail _geöffnet_ ist, werden Bounces ignoriert. Wenn die E-Mail nicht geöffnet wurde, hat _Hard Bounce_ Vorrang vor _Soft Bounce_ und _Delivered_.
 
+* **Regel 5**: Wenn drei Tage nach dem Versand keine E-Mail-Aktivität empfangen wird, gilt dies als _Abgebrochen_.
+
 >[!NOTE]
 >
->Mehrere Sendungen derselben Kampagne an dieselbe Person werden nur einmal gezählt.
+>* Mehrere Sendungen derselben Kampagne an dieselbe Person werden nur einmal gezählt.
+>
+>* Mehrere Sendungen aus verschiedenen Kampagnen an dieselbe Person werden separat gezählt.
 
 >[!MORELIKETHIS]
 >
