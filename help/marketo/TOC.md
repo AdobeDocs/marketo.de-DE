@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 1cc876285f8d7ac7a21a763dd65da34341341a0e
+source-git-commit: ddba357e6e0e3d451ee4b054b18eaf1ed29055b6
 workflow-type: tm+mt
-source-wordcount: '9370'
+source-wordcount: '9379'
 ht-degree: 4%
 
 ---
@@ -1737,6 +1737,7 @@ ht-degree: 4%
             + [Kampagnenaktivitätsbericht filtern](product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report.md)
             + [Filtern von Assets in E-Mail-Berichten einer Kampagne](product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
             + [Filtern von Assets in einem E-Mail-Bericht](product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
+            + [Gelöschte/zusammengeführte Datensätze in einem E-Mail-Leistungsbericht filtern](product-docs/reporting/basic-reporting/report-activity/filter-deleted-merged-records-email-performance-report.md)
             + [Gruppenberichte nach Attribut](product-docs/reporting/basic-reporting/report-activity/group-person-reports-by-attribute.md)
             + [Bericht-E-Mail, Leistung von Kampagnen über Arbeitsbereiche hinweg](product-docs/reporting/basic-reporting/report-activity/report-email-campaign-performance-across-workspaces.md)
             + [Modell über Arbeitsbereiche hinweg freigeben](product-docs/reporting/basic-reporting/report-activity/share-a-model-across-workspaces.md)
