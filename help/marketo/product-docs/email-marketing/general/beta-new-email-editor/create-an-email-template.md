@@ -4,16 +4,20 @@ title: Erstellen einer E-Mail-Vorlage
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: ea06508c495484b6fd73e22876ba3dc06819a864
+source-git-commit: 26c97890c945978a37d98ca7e3f04e28ca41ea19
 workflow-type: tm+mt
-source-wordcount: '277'
-ht-degree: 20%
+source-wordcount: '302'
+ht-degree: 19%
 
 ---
 
 # Erstellen einer E-Mail-Vorlage {#create-an-email-template}
 
 Hier Text einfügen.
+
+>[!IMPORTANT]
+>
+>Dieser Artikel ist nur für Mitglieder der New Marketo Engage Email Editor geschlossenen Beta-Version gedacht. Bitte nicht verbreiten.
 
 1. Melden Sie sich bei [Adobe Experience Cloud](https://experiencecloud.adobe.com/) an.
 
@@ -118,3 +122,7 @@ IN TESTKONTO: SETTINGS/STYLES/HTML CONVERTER
    SCREENSHOT
 
 >[!ENDTABS]
+
+>[!MORELIKETHIS]
+>
+>[Zugriff auf eine E-Mail-Vorlage](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email-template.md){target="_blank"}

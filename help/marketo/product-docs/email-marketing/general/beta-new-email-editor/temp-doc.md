@@ -4,7 +4,7 @@ title: Temp-Dokument
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: ea06508c495484b6fd73e22876ba3dc06819a864
+source-git-commit: 26c97890c945978a37d98ca7e3f04e28ca41ea19
 workflow-type: tm+mt
 source-wordcount: '677'
 ht-degree: 24%
@@ -39,6 +39,7 @@ Fügen Sie Personalisierungsfelder ein, um Ihren Inhalt aus Profilattributen, Zi
 Klicken Sie auf Bedingungsinhalt aktivieren , um dynamischen Inhalt hinzuzufügen und den Inhalt basierend auf Bedingungsregeln an die Zielprofile anzupassen.
 Klicken Sie im linken Bereich auf die Registerkarte Links , um alle getrackten URLs Ihres Inhalts anzuzeigen. Sie können den Tracking-Typ oder die Bezeichnung ändern und bei Bedarf Tags hinzufügen.
 Bei Bedarf können Sie Ihre E-Mail weiter personalisieren, indem Sie im erweiterten Menü auf In Code-Editor wechseln klicken. Dadurch können Sie den E-Mail-Quellcode bearbeiten, z. B. um Tracking- oder benutzerdefinierte HTML-Tags hinzuzufügen.
+
 VORSICHT
 Sie können nach dem Wechsel zum Code-Editor nicht zum visuellen Designer für diese E-Mail zurückkehren.
 
