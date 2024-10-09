@@ -3,16 +3,20 @@ description: Webinar-Team hinzufügen - Marketo-Dokumente - Produktdokumentation
 title: Webinar-Team hinzufügen
 feature: Interactive Webinars
 exl-id: eff0b69a-0ffe-45b4-8170-cd57894ab926
-source-git-commit: 488da545043cbd59eb3d3b1d4f57684d14bd501a
+source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
 workflow-type: tm+mt
-source-wordcount: '393'
-ht-degree: 1%
+source-wordcount: '411'
+ht-degree: 0%
 
 ---
 
 # Webinar-Team hinzufügen {#add-a-webinar-team}
 
 Ein Webinar-Team in interaktiven Webinaren besteht aus allen Rollen, die zur erfolgreichen Bereitstellung des Webinars in Adobe Connect beitragen. Dies umfasst sowohl Moderatoren als auch Co-Hosts.
+
+>[!IMPORTANT]
+>
+>Es wird dringend empfohlen, dass Sie [Ihr Webinar ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"} _vor dem Hinzufügen von Moderatoren oder Co-Hosts durch_ entwerfen.
 
 >[!NOTE]
 >
@@ -22,7 +26,9 @@ Der Moderator ist eine externe Rolle, die an der Bereitstellung des Webinar-Erle
 
 >[!PREREQUISITES]
 >
->[Erstellen eines interaktiven Webinars](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
+>* [Erstellen eines interaktiven Webinars](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}
+>
+>* [Gestalten Sie Ihr interaktives Webinar](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}
 
 ## Hinzufügen eines Co-Hosts {#add-a-co-host}
 
@@ -70,4 +76,4 @@ Der Moderator ist eine externe Rolle, die an der Bereitstellung des Webinar-Erle
 
 >[!MORELIKETHIS]
 >
->[Erstellen eines interaktiven Webinars](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
+>[Erstellen eines interaktiven Webinars](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}

@@ -3,9 +3,9 @@ description: Best Practices für interaktive Webinare - Marketo-Dokumente - Prod
 title: Best Practices für interaktive Webinare
 feature: Interactive Webinars
 exl-id: fd9d7d03-8d92-45f7-9372-a2b6d2f4c635
-source-git-commit: 488da545043cbd59eb3d3b1d4f57684d14bd501a
+source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
 workflow-type: tm+mt
-source-wordcount: '1691'
+source-wordcount: '1704'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Um Ihnen dabei zu helfen, haben wir eine Liste mit Best Practices zusammengestel
 
 * Vermeiden Sie die Planung von Back-to-Back-Sitzungen. Stellen Sie sicher, dass Sie mindestens 30 Minuten Vorbereitungszeit vor Beginn Ihres Webinars haben. Dadurch können Sie beliebige Änderungen an der Präsentation in letzter Minute hochladen, Ihr Mikrofon und Ihre Kamera anpassen und neue Moderatoren mit der Oberfläche vertraut machen.
 
-* Weisen Sie Ihren Teammitgliedern Rollen zu. Fügen Sie sie als Co-Hosts und Moderatoren hinzu. Die Gastgeber und die Moderatoren können den Raum vor den Teilnehmern betreten.
+* Weisen Sie Ihren Teammitgliedern Rollen zu. Fügen Sie sie als Co-Hosts und Moderatoren hinzu. Die Gastgeber und die Moderatoren können den Raum vor den Teilnehmern betreten. Stellen Sie jedoch sicher, dass Sie Ihr interaktives Webinar ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"} _vor dem Hinzufügen von Co-Hosts und Moderatoren_ entwerfen.[
 
 ### Weiterleiten Ihres Ereignisses {#promoting-your-event}
 

@@ -3,9 +3,9 @@ description: Erstellen eines interaktiven Webinars - Marketo-Dokumente - Produkt
 title: Erstellen eines interaktiven Webinars
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: 2457f0f51c6365c29a040e908678e81517327de5
+source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
@@ -63,6 +63,10 @@ Erstellen Sie ein interaktives Webinar in wenigen einfachen Schritten.
 >Es wird empfohlen, zwei aufeinander folgende Ereignisse um 30 Minuten abzuspalten (es sei denn, die Lizenz unterstützt gleichzeitige Webinare), falls das vorherige Webinar über den geplanten Zeitraum hinaus ausgeführt wird.
 
 Jetzt ist es an der Zeit, [Ihr Webinar zu entwerfen](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}.
+
+>[!IMPORTANT]
+>
+>Es wird dringend empfohlen, Ihr Webinar _vor dem Hinzufügen von Moderatoren oder Co-Hosts durch_ zu erstellen.
 
 >[!MORELIKETHIS]
 >
