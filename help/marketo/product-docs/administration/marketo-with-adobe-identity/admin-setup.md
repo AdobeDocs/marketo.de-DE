@@ -3,10 +3,10 @@ description: Admin Setup - Marketo Docs - Produktdokumentation
 title: Admin-Einrichtung
 exl-id: e753f61a-b2ad-4b2e-94e7-d7a391f030d8
 feature: Marketo with Adobe Identity
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 8062434857f5bd9da81aa79035e89f459851c4b1
 workflow-type: tm+mt
-source-wordcount: '214'
-ht-degree: 0%
+source-wordcount: '222'
+ht-degree: 2%
 
 ---
 
@@ -24,7 +24,7 @@ Nachdem Sie als Adobe-Systemadministrator zum Marketo Engage in einer Adobe-Orga
 
    ![](assets/admin-setup-2.png)
 
-## Produktprofil erstellen {#create-a-product-profile}
+## Erstellen eines Produktprofils {#create-a-product-profile}
 
 Nachdem der Systemadministrator auf die Admin Console zugegriffen hat, ist es an der Zeit, ein Produktprofil zu erstellen. So erhalten Ihre Benutzer/Administratoren Zugriff auf Marketo Engage.
 
@@ -44,9 +44,11 @@ Nachdem der Systemadministrator auf die Admin Console zugegriffen hat, ist es an
 
    ![](assets/admin-setup-5.png)
 
-1. Geben Sie Ihrem Produktprofil einen Namen (Anzeigename und Beschreibung sind optional) und klicken Sie auf **[!UICONTROL Speichern]**.
+1. Geben Sie Ihrem Produktprofil einen Namen (Anzeigename und Beschreibung sind optional) und klicken Sie auf **[!UICONTROL Weiter]**.
 
    ![](assets/admin-setup-6.png)
+
+1. Es müssen keine Dienste ausgewählt werden. Klicken Sie auf **[!UICONTROL Speichern]**.
 
 >[!NOTE]
 >
