@@ -4,10 +4,10 @@ title: E-Mail erstellen
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 6133a04124d9d4b829d092943753c7bb530dd374
+source-git-commit: 2d69e52883d141e3976c6d4fc1de6038675af602
 workflow-type: tm+mt
-source-wordcount: '357'
-ht-degree: 10%
+source-wordcount: '1063'
+ht-degree: 7%
 
 ---
 
@@ -39,7 +39,7 @@ Hier Text einfügen.
 
 Das ist es. Jetzt ist es an der Zeit, Ihre E-Mail zu entwerfen.
 
-## E-Mail erstellen {#design-your-email}
+## Inhaltstyp auswählen {#choose-your-content-type}
 
 1. Klicken Sie in der soeben erstellten E-Mail auf **+ E-Mail-Inhalt hinzufügen**.
 
@@ -47,27 +47,25 @@ Das ist es. Jetzt ist es an der Zeit, Ihre E-Mail zu entwerfen.
 
 1. Die Seite &quot;E-Mail erstellen&quot;wird geladen. Sie können aus mehreren Optionen wählen:
 
-* [Von Grund auf gestalten](#design-from-scratch)
+* [Design von Grund auf neu](#design-from-scratch) mit dem E-Mail-Editor
 
-* [Importieren Sie Ihre eigene HTML](#import-html)
+* [Importieren Sie Ihre eigene HTML](#import-html) über eine HTML- oder ZIP-Datei
 
 * [Wählen Sie eine vorhandene Vorlage aus](#choose-a-template) (einen unserer Beispiele oder einen bereits gespeicherten)
 
 ### Von Grund auf gestalten {#design-from-scratch}
 
-Kurze Einführung
+Verwenden Sie beim Erstellen von neuen Texten im E-Mail-Editor die folgenden Optionen, um Ihren Inhalt zu definieren.
 
-1. Text
+1. Wählen Sie auf der Homepage Vorlage erstellen die Option **Design von Grund auf neu** aus.
 
-   SCREENSHOT
+Fügen Sie Ihrer E-Mail Struktur und Inhalt hinzu.
 
-1. Text
+Bilder hinzufügen.
 
-   SCREENSHOT
+Personalisieren Sie Ihre Inhalte.
 
-1. Text
-
-   SCREENSHOT
+Überprüfen und aktualisieren Sie Links.
 
 ### Importieren von HTML {#import-html}
 
@@ -89,13 +87,11 @@ Sie können vorhandenen HTML-Inhalt importieren, um E-Mail-Vorlagen zu erstellen
 
    SCREENSHOT
 
-```
-THIS INFO MISSING FROM AJO B2B DOC - ADD IN THIS DOC?
+>[!NOTE]
+>
+>Wenn der HTML-Inhalt hochgeladen wird, befindet sich der Inhalt im Kompatibilitätsmodus. In diesem Modus können Sie nur Ihren Text personalisieren, Links hinzufügen oder Assets zu Ihrem Inhalt hinzufügen.
 
-Once the HTML content is uploaded, your content will be in Compatibility mode.
-
-In this mode, you can only personalize your text, add links, or include assets to your content.
-```
+Sie können die gewünschten Änderungen am importierten Inhalt mithilfe der [E-Mail-Editor-Tools](#add-structure-and-content) vornehmen.
 
 ### Vorlage auswählen {#choose-a-template}
 
@@ -109,9 +105,9 @@ Es gibt zwei Arten von Vorlagen zur Auswahl.
 
 >[!TAB Beispielvorlagen]
 
-Wählen Sie eine von vier nativen Vorlagen für einen Vorsprung im E-Mail-Design.
+Wählen Sie eine unserer vordefinierten Vorlagen für einen Vorsprung in Ihrem E-Mail-Design.
 
-1. Wählen Sie auf der Seite E-Mail erstellen die Option Beispielvorlagen aus.
+1. Wählen Sie auf der Seite E-Mail erstellen die Option **Beispielvorlagen** aus.
 
    SCREENSHOT
 
@@ -141,6 +137,97 @@ Wählen Sie eine Ihrer zuvor erstellten Vorlagen aus.
 
 >[!ENDTABS]
 
->[!MORELIKETHIS]
+## Hinzufügen von Struktur und Inhalt {#add-structure-and-content}
+
+1. Um Inhalte zu erstellen oder zu ändern, ziehen Sie ein Element aus Strukturen auf die Arbeitsfläche. Bearbeiten Sie die Einstellungen im Bereich auf der rechten Seite.
+
+   >[!TIP]
+   >
+   >Wählen Sie die n:n-Spaltenkomponente aus, um die Anzahl der Spalten Ihrer Wahl zu definieren (zwischen drei und zehn). Sie können auch die Breite jeder Spalte definieren, indem Sie die Pfeile unter die Spalte verschieben.
+
+   SCREENSHOT
+
+   >[!NOTE]
+   >
+   >Die Spaltengröße darf nicht weniger als 10 % der Gesamtbreite der Strukturkomponente betragen. Es können nur leere Spalten entfernt werden.
+
+1. Ziehen Sie aus dem Bereich Inhalt die gewünschten Elemente per Drag-and-Drop in eine oder mehrere Strukturkomponenten.
+
+   SCREENSHOT
+
+1. Jede Komponente kann über die Registerkarten Einstellungen oder Stil angepasst werden. Ändern Sie Schriftart, Textstil, Rand und mehr.
+
+SCREENSHOT
+
+### Assets hinzufügen {#add-assets}
+
+Über die Asset-Auswahl können Sie direkt in der Assets-Bibliothek gespeicherte Assets auswählen. Klicken Sie doppelt auf den Ordner, der Ihre Assets enthält. Ziehen Sie sie per Drag-and-Drop in eine Strukturkomponente.
+
+Fügen Sie Personalisierungsfelder ein, um Ihren Inhalt aus Profilattributen, Zielgruppenmitgliedschaften, Kontextattributen und mehr anzupassen.
+
+Klicken Sie auf Bedingungsinhalt aktivieren , um dynamischen Inhalt hinzuzufügen und den Inhalt basierend auf Bedingungsregeln an die Zielprofile anzupassen.
+
+Klicken Sie im linken Bereich auf die Registerkarte Links , um alle getrackten URLs Ihres Inhalts anzuzeigen. Sie können den Tracking-Typ oder die Bezeichnung ändern und bei Bedarf Tags hinzufügen.
+
+Bei Bedarf können Sie Ihre E-Mail weiter personalisieren, indem Sie im erweiterten Menü auf In Code-Editor wechseln klicken. Dadurch können Sie den E-Mail-Quellcode bearbeiten, z. B. um Tracking- oder benutzerdefinierte HTML-Tags hinzuzufügen.
+
+VORSICHT
+Sie können nach dem Wechsel zum Code-Editor nicht zum visuellen Designer für diese E-Mail zurückkehren.
+
+Sobald Ihr Inhalt fertig ist, klicken Sie auf die Schaltfläche Inhalt simulieren , um das Rendering zu überprüfen. Sie können zwischen der Desktop- oder der mobilen Ansicht wählen.
+
+Wenn Sie fertig sind, klicken Sie auf Speichern .
+
+
+
+
+
+## Warnhinweise überprüfen {#check-alerts}
+
+Bei der Inhaltserstellung werden Warnhinweise in der Benutzeroberfläche (oben rechts im Bildschirm) angezeigt, wenn wichtige Einstellungen fehlen.
+
+Es gibt zwei Arten von Warnhinweisen:
+
+**Warnungen**
+
+Warnungen beziehen sich auf Empfehlungen und Best Practices, z. B.:
+
+* **Der Abmelde-Link ist nicht im E-Mail-Textkörper enthalten**: Obwohl Abmelde-Links eine Anforderung darstellen, empfiehlt sich, sie dem Hauptteil Ihrer E-Mail hinzuzufügen.
+
+>[!NOTE]
 >
->[Zugriff auf eine E-Mail](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email.md){target="_blank"}
+>Das Hinzufügen einer Abmeldeoption ist für [operative E-Mails](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) (Nicht-Marketing) nicht erforderlich.
+
+* **Textversion von HTML ist leer**: Sie müssen eine Textversion Ihres E-Mail-Textkörpers definieren, für die kein HTML-Inhalt angezeigt werden kann.
+
+* **Leerer Link ist im E-Mail-Textkörper vorhanden**: Überprüfen Sie, ob alle Links in Ihrer E-Mail korrekt sind.
+
+* **Die E-Mail-Größe hat die Grenze von 100 KB überschritten**: Stellen Sie für einen optimalen Versand sicher, dass die Größe Ihrer E-Mail 100 KB nicht überschreitet.
+
+**Fehler**
+
+Fehler verhindern, dass Sie die E-Mail senden oder testen, bis sie behoben sind:
+
+* **Betreffzeile fehlt**: Eine E-Mail-Betreffzeile ist erforderlich.
+
+* **E-Mail-Version der Nachricht ist leer**: Dieser Fehler tritt auf, wenn der E-Mail-Inhalt nicht konfiguriert wurde.
+
+## E-Mail testen
+
+Wenn Ihr Nachrichteninhalt definiert ist, können Sie mithilfe von Testprofilen die Vorschau anzeigen, Testsendungen durchführen und steuern, wie die Nachricht in beliebten Desktop-, Mobile- und Web-basierten Clients dargestellt wird. Wenn Sie personalisierten Inhalt eingefügt haben, können Sie anhand von Testprofildaten überprüfen, wie dieser in der Nachricht angezeigt wird.
+
+Um eine Vorschau Ihres E-Mail-Inhalts anzuzeigen, klicken Sie auf **Inhalt simulieren** und fügen Sie dann ein Testprofil hinzu, um Ihre Nachricht mithilfe der Testprofildaten zu überprüfen.
+
+SCREENSHOT
+
+## E-Mail referenzieren {#reference-an-email}
+
+Nachdem Sie eine E-Mail im neuen Editor erstellt haben, können Sie sie wie bei jeder anderen E-Mail-Adresse in Smart-Kampagnen oder Smart-Listen referenzieren.
+
+* Verweisen Sie in einer Smart-Liste darauf, indem Sie [die üblichen Schritte befolgen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md).
+
+* Verweisen Sie in einer Smart-Kampagne darauf, indem Sie [die üblichen Schritte befolgen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md).
+
+>[!NOTE]
+>
+>Nur gespeicherte E-Mails können referenziert werden. Im neuen E-Mail-Editor gibt es keinen Status &quot;Genehmigt&quot;.

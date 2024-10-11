@@ -4,10 +4,10 @@ title: Erstellen einer E-Mail-Vorlage
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 6133a04124d9d4b829d092943753c7bb530dd374
+source-git-commit: 2d69e52883d141e3976c6d4fc1de6038675af602
 workflow-type: tm+mt
-source-wordcount: '347'
-ht-degree: 16%
+source-wordcount: '432'
+ht-degree: 17%
 
 ---
 
@@ -18,6 +18,10 @@ Hier Text einfügen.
 >[!IMPORTANT]
 >
 >Dieser Artikel ist nur für Mitglieder der New Marketo Engage Email Editor geschlossenen Beta-Version gedacht. Bitte nicht verbreiten.
+
+>[!NOTE]
+>
+>E-Mail-Vorlagen im neuen E-Mail-Editor können nur zur Erstellung von E-Mails im neuen E-Mail-Editor verwendet werden. Sie können im alten E-Mail-Editor nicht referenziert werden.
 
 1. Melden Sie sich über die [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"} bei Marketo Engage an.
 
@@ -79,17 +83,19 @@ Sie können vorhandenen HTML-Inhalt importieren, um E-Mail-Vorlagen zu erstellen
 
    SCREENSHOT
 
+   >[!NOTE]
+   >
+   >Wenn der HTML-Inhalt hochgeladen wird, befindet sich der Inhalt im Kompatibilitätsmodus. In diesem Modus können Sie nur Ihren Text personalisieren, Links hinzufügen oder Assets zu Ihrem Inhalt hinzufügen.
+
+1. Um die Inhaltskomponenten von Email Designer nutzen zu können, rufen Sie die Registerkarte HTML-Konverter auf und klicken Sie auf Konvertieren.
+
+   SCREENSHOT
+
    >[!CAUTION]
    >
    >Einen `<table>`-Tag als erste Ebene in einer HTML-Datei zu verwenden kann zum Verlust des Stils führen, einschließlich der Einstellungen für Hintergrund und Breite im Tag der obersten Ebene.
 
-```
-THIS INFO MISSING FROM AJO B2B DOC - ADD IN THIS DOC?
-
-Once the HTML content is uploaded, your content will be in Compatibility mode.
-
-In this mode, you can only personalize your text, add links, or include assets to your content.
-```
+Sie können Ihre importierte Datei jetzt mit dem visuellen E-Mail-Editor nach Bedarf personalisieren.
 
 ### Vorlage auswählen {#choose-a-template}
 
@@ -124,7 +130,3 @@ Wählen Sie eine von vier nativen Vorlagen für einen Vorsprung im E-Mail-Vorlag
    SCREENSHOT
 
 >[!ENDTABS]
-
->[!MORELIKETHIS]
->
->[Zugriff auf eine E-Mail-Vorlage](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email-template.md){target="_blank"}

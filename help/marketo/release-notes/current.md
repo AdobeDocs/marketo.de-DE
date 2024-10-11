@@ -3,9 +3,9 @@ description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokument
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
+source-git-commit: 2d69e52883d141e3976c6d4fc1de6038675af602
 workflow-type: tm+mt
-source-wordcount: '485'
+source-wordcount: '483'
 ht-degree: 6%
 
 ---
@@ -54,8 +54,8 @@ Die folgenden Funktionen fallen unter den standardmäßigen Versionszyklus und w
   </tr>
    <tr> 
    <td><strong>Smart List "Set to Affect" Count</strong>: Ermitteln Sie, wie viele Personen von der Bearbeitung der Qualifikationsregeln einer Smart-Kampagne betroffen sind.</td> 
-   <td><i>Demnächst verfügbar</i></td>
-   <td><i>Demnächst verfügbar</i></td>
+   <td>Versendet</td>
+   <td>Nicht zutreffend</td>
   </tr>
   <tr> 
    <td> </td> 
@@ -65,8 +65,8 @@ Die folgenden Funktionen fallen unter den standardmäßigen Versionszyklus und w
   </tr>
    <tr> 
    <td><strong>Schaltfläche "Mein Konto"in der Navigationsleiste</strong>: Für diejenigen, die zum Adobe Identity Management System migriert haben, ermöglicht eine neue Schaltfläche "Mein Konto"in der linken Navigationsleiste die Konfiguration Ihrer Zeitzone und den Zugriff auf Abonnementdetails.</td> 
-   <td><i>Demnächst verfügbar</i></td>
-   <td><i>Demnächst verfügbar</i></td>
+   <td>Versendet</td>
+   <td>Nicht zutreffend</td>
   </tr>
   <tr> 
    <td> </td> 

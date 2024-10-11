@@ -4,10 +4,10 @@ title: Überblick
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 26c97890c945978a37d98ca7e3f04e28ca41ea19
+source-git-commit: 2d69e52883d141e3976c6d4fc1de6038675af602
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 1%
+source-wordcount: '87'
+ht-degree: 2%
 
 ---
 
@@ -25,8 +25,6 @@ Hier Text einfügen.
 
 * [Zugriff auf eine E-Mail](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email.md){target="_blank"}: Erfahren Sie, wie Sie von Marketo Engage aus auf Ihre neuen Editor-E-Mails zugreifen können.
 
+DAS HINZUFÜGEN VON ^^ ZU HAUPTDOC KANN BESSER SEIN.
+
 * [E-Mail-Vorlage erstellen](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/create-an-email-template.md){target="_blank"}: Erfahren Sie, wie Sie im neuen Editor eine E-Mail-Vorlage erstellen und entwerfen.
-
-* [Zugriff auf eine E-Mail-Vorlage](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email-template.md){target="_blank"}: Erfahren Sie, wie Sie von Marketo Engage aus auf Ihre neuen Editor-E-Mails zugreifen können.
-
-^^^ IST DIESES LETZTE DOC NOTWENDIG?
