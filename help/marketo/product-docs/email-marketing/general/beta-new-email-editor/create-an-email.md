@@ -4,9 +4,9 @@ title: E-Mail erstellen
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 2d69e52883d141e3976c6d4fc1de6038675af602
+source-git-commit: ef1cb0b67deb935b67a56076ed9ed0a14f449662
 workflow-type: tm+mt
-source-wordcount: '1063'
+source-wordcount: '1064'
 ht-degree: 7%
 
 ---
@@ -222,7 +222,7 @@ SCREENSHOT
 
 ## E-Mail referenzieren {#reference-an-email}
 
-Nachdem Sie eine E-Mail im neuen Editor erstellt haben, können Sie sie wie bei jeder anderen E-Mail-Adresse in Smart-Kampagnen oder Smart-Listen referenzieren.
+Nachdem Sie eine E-Mail im neuen Editor erstellt haben, können Sie sie in Smart-Kampagnen und/oder Smart-Listen wie bei jeder anderen E-Mail referenzieren.
 
 * Verweisen Sie in einer Smart-Liste darauf, indem Sie [die üblichen Schritte befolgen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md).
 
