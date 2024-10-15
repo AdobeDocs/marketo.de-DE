@@ -4,7 +4,7 @@ title: E-Mail-Vorlagen
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 1c29810774d3c2cdcac19381edfc7388d67b45ee
+source-git-commit: 28bc524ac651a2a9516888b11acb226725689869
 workflow-type: tm+mt
 source-wordcount: '1411'
 ht-degree: 5%
@@ -310,7 +310,7 @@ Diese Aktion kann wie folgt durchgeführt werden:
 * Die Auflistungsseite _E-Mail-Vorlagen_ - Klicken Sie auf das Symbol Mehr Aktionen (drei Punkte) der gewünschten E-Mail-Vorlage und wählen Sie Bearbeiten aus.
 
 ```
-THE SECOND ONE DOESN'T WORK IN MKTO?? JUST LISTS DUPE AND DELETE
+THE SECOND ONE DOESN'T WORK IN MARKETO?? JUST LISTS DUPE AND DELETE
 ```
 
 Durch diese Aktion gelangen Sie zur Seite &quot;_Design Ihrer Vorlage_&quot;oder zur Seite des visuellen Inhaltseditors, die auf dem zuletzt gespeicherten Status der E-Mail-Vorlage basiert. Hier können Sie nach Bedarf den Inhalt Ihrer E-Mail-Vorlage bearbeiten. Weitere Informationen zu den Bearbeitungsoptionen finden Sie unter E-Mail-Vorlagen erstellen .
