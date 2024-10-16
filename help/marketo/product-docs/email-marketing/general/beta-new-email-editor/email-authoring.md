@@ -4,9 +4,9 @@ title: E-Mail-Authoring
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 832635c9e029754ce094e4137724bcc956dbcd35
+source-git-commit: af8afc9342a4ca0b4032c4d7c761703adb5a6701
 workflow-type: tm+mt
-source-wordcount: '1474'
+source-wordcount: '1477'
 ht-degree: 4%
 
 ---
@@ -141,7 +141,7 @@ Wählen Sie eine der vordefinierten Vorlagen für einen Vorsprung im E-Mail-Vorl
    >
    >Wählen Sie die n:n-Spaltenkomponente aus, um die Anzahl der Spalten Ihrer Wahl zu definieren (zwischen drei und zehn). Sie können auch die Breite jeder Spalte definieren, indem Sie die Pfeile unter die Spalte verschieben.
 
-   SCREENSHOT
+   ![](assets/authoring-add-structure-and-content-1.png)
 
    >[!NOTE]
    >
@@ -149,11 +149,9 @@ Wählen Sie eine der vordefinierten Vorlagen für einen Vorsprung im E-Mail-Vorl
 
 1. Ziehen Sie aus dem Bereich Inhalt die gewünschten Elemente per Drag-and-Drop in eine oder mehrere Strukturkomponenten.
 
-   SCREENSHOT
+   ![](assets/authoring-add-structure-and-content-2.png)
 
 1. Jede Komponente kann über die Registerkarten Einstellungen oder Stil angepasst werden. Ändern Sie Schriftart, Textstil, Rand und mehr.
-
-SCREENSHOT
 
 ### Assets hinzufügen {#add-assets}
 
@@ -261,11 +259,13 @@ Manchmal möchten Sie die Marketo-Tracking-URL nicht für einen Link in einer E-
 
 1. Klicken Sie auf das Symbol Links , um alle URLs in Ihrer E-Mail anzuzeigen.
 
-   SCREENSHOT
+   ![](assets/authoring-edit-url-tracking-1.png)
 
 1. Klicken Sie auf das Stiftsymbol, um das Tracking für alle gewünschten Links zu bearbeiten.
 
-   SCREENSHOT
+1. Klicken Sie auf die Dropdown-Liste **Trackingtyp** und wählen Sie aus.
+
+   ![](assets/authoring-edit-url-tracking-2.png)
 
    ```
    LABEL?
@@ -327,7 +327,7 @@ Wenn Ihr Nachrichteninhalt definiert ist, können Sie mithilfe von Testprofilen 
 
 Um eine Vorschau Ihres E-Mail-Inhalts anzuzeigen, klicken Sie auf **Inhalt simulieren** und fügen Sie dann ein Testprofil hinzu, um Ihre Nachricht mithilfe der Testprofildaten zu überprüfen.
 
-SCREENSHOT
+![](assets/test-your-email-1.png)
 
 ## E-Mail referenzieren {#reference-an-email}
 

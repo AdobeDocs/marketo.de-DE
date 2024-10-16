@@ -4,9 +4,9 @@ title: E-Mail-Vorlagen
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 832635c9e029754ce094e4137724bcc956dbcd35
+source-git-commit: af8afc9342a4ca0b4032c4d7c761703adb5a6701
 workflow-type: tm+mt
-source-wordcount: '1672'
+source-wordcount: '1728'
 ht-degree: 5%
 
 ---
@@ -149,8 +149,6 @@ Wählen Sie eine der vordefinierten Vorlagen für einen Vorsprung im E-Mail-Vorl
 
 1. Jede Komponente kann über die Registerkarten Einstellungen oder Stil angepasst werden. Ändern Sie Schriftart, Textstil, Rand und mehr.
 
-SCREENSHOT
-
 ### Assets hinzufügen {#add-assets}
 
 ```
@@ -227,25 +225,29 @@ Im folgenden Beispiel werden die Schritte zum Anpassen des Abstands und der vert
 
 ### Inhalt personalisieren {#personalize-content}
 
-Token funktionieren im neuen Editor genauso wie im alten, aber das Symbol sieht anders aus.
+Token funktionieren im neuen Editor genauso wie im alten, aber das Symbol sieht anders aus. Im folgenden Beispiel wird das Hinzufügen eines Vorname-Tokens mit Fallback-Text beschrieben.
 
-1. Wählen Sie die Textkomponente aus und klicken Sie auf das Symbol **Personalisierung hinzufügen** .
+1. Wählen Sie die Textkomponente aus. Platzieren Sie den Cursor an die Stelle, an der das Token angezeigt werden soll, und klicken Sie auf das Symbol **Personalisierung hinzufügen** .
 
-   SCREENSHOT
+   ![](assets/personalize-content-1.png)
 
 1. Klicken Sie auf den gewünschten [Token-Typ](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
 
-   SCREENSHOT
+   ![](assets/personalize-content-2.png)
 
-1. Klicken Sie auf + oder ... , um dem leeren Bereich ein Token hinzuzufügen.
+1. Suchen Sie das gewünschte Token und klicken Sie auf das Symbol &quot;**...**&quot;. (Durch Klicken auf das Symbol &quot;+&quot;wird stattdessen ein Token ohne Fallback-Text hinzugefügt.)
 
-   SCREENSHOT
+   ![](assets/personalize-content-3.png)
 
    >[!NOTE]
    >
-   >&quot;Fallback-Text&quot;ist der neue Editor-Begriff für den Standardwert. Beispiel: ``{{lead.First Name:default=Friend}}``
+   >&quot;Fallback-Text&quot;ist der neue Editor-Begriff für den Standardwert. Beispiel: ``{{lead.First Name:default=Friend}}``. Dies wird empfohlen, falls im von Ihnen ausgewählten Feld kein Wert für die Person vorhanden ist.
 
-1. Klicken Sie auf **Speichern**, wenn Sie fertig sind.
+1. Legen Sie Ihren Fallback-Text fest und klicken Sie auf **Hinzufügen**.
+
+   ![](assets/personalize-content-4.png)
+
+1. Klicken Sie auf **Speichern**.
 
 ### URL-Tracking bearbeiten {#edit-url-tracking}
 
@@ -253,11 +255,13 @@ Manchmal möchten Sie die Marketo-Tracking-URL nicht für einen Link in einer E-
 
 1. Klicken Sie auf das Symbol Links , um alle URLs in Ihrer E-Mail anzuzeigen.
 
-   SCREENSHOT
+   ![](assets/edit-url-tracking-1.png)
 
 1. Klicken Sie auf das Stiftsymbol, um das Tracking für alle gewünschten Links zu bearbeiten.
 
-   SCREENSHOT
+1. Klicken Sie auf die Dropdown-Liste **Trackingtyp** und wählen Sie aus.
+
+   ![](assets/edit-url-tracking-2.png)
 
    ```
    LABEL?
