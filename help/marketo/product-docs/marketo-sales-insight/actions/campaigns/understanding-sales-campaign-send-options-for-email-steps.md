@@ -3,9 +3,9 @@ description: Verstehen der Versandoptionen von Verkaufskampagnen für E-Mail-Sch
 title: Grundlagen zu den Versandoptionen von Vertriebskampagnen für E-Mail-Schritte
 feature: Sales Insight Actions
 exl-id: 775c6401-efb2-4940-a81c-be5d2759c7bd
-source-git-commit: 3e1db4c113df7278eadcf1b61ee225989e70452b
+source-git-commit: ec88618ad96c5929f220aadfd5dac2ac81be7701
 workflow-type: tm+mt
-source-wordcount: '681'
+source-wordcount: '750'
 ht-degree: 2%
 
 ---
@@ -31,7 +31,7 @@ Wenn es Ihr erster Schritt und der erste Tag in Ihrer Vertriebskampagne ist, hab
 
 ### Eine Aufgabe erstellen: Ich werde diese E-Mail selbst senden {#first-step-create-a-task}
 
-* Mit dieser Option wird eine E-Mail-Aufgabe (und eine Synchronisation mit Salesforce) erstellt, die Sie nach Belieben versenden können.
+* Mit dieser Option wird eine E-Mail-Aufgabe erstellt (und mit Salesforce synchronisiert), die Sie nach Belieben senden können.
 * Wenn Sie diese Auswahl getroffen haben und Ihre Vertriebskampagne starten, werden wir diese Aufgaben im Command Center und im Live Feed für Sie in die Warteschlange stellen. Sie können dann jede E-Mail personalisieren und senden (oder planen), bevor sie abläuft.
 
    * Wenn Sie diese Aufgabe in unserer Webanwendung öffnen, wird ein Komprimierungsfenster mit der E-Mail-Adresse Ihres Kontakts, der Betreffzeile Ihrer E-Mail und der von Ihnen ausgewählten Vorlage geöffnet.
@@ -46,6 +46,10 @@ Für alle nachfolgenden Tage/Schritte in Ihrer Verkaufskampagne stehen folgende 
 * Diese Option sendet die E-Mail gleichzeitig mit der E-Mail direkt vor der E-Mail.
 * Er wird weiterhin an dem Tag gesendet, an dem er verknüpft ist.
 
+>[!IMPORTANT]
+>
+>Das Senden einer E-Mail zur selben Zeit wie die vorherige E-Mail wird für E-Mails, die am selben Tag gesendet werden, nicht unterstützt. Stattdessen wird die E-Mail zum Zeitpunkt des E-Mail-Versands vom Vortag gesendet. Wenn diese Option am ersten Tag der Kampagne für eine E-Mail ausgewählt wird (nicht empfohlen), wird diese E-Mail sofort zu Beginn der Kampagne gesendet.
+
 ### Diese E-Mail zum folgenden Zeitpunkt senden {#subsequent-send-at-following-time}
 
 * Wenn Sie Ihre Vertriebskampagne durch Hinzufügen von Personen starten, planen wir die E-Mail für diese Zeit.
@@ -53,7 +57,7 @@ Für alle nachfolgenden Tage/Schritte in Ihrer Verkaufskampagne stehen folgende 
 
 ### Eine Aufgabe erstellen: Ich werde diese E-Mail selbst senden {#subsequent-create-a-task}
 
-* Mit dieser Option wird eine E-Mail-Aufgabe (und eine Synchronisation mit Salesforce) erstellt, die Sie nach Belieben versenden können.
+* Mit dieser Option wird eine E-Mail-Aufgabe erstellt (und mit Salesforce synchronisiert), die Sie nach Belieben senden können.
 * Sobald Sie diese Auswahl getroffen haben, werden diese Aufgaben beim Start Ihrer Sales Campaign mit Sales Insight Actions im Command Center und im Live Feed in die Warteschlange gestellt. Sie können dann jede E-Mail personalisieren und senden (oder planen), bevor sie abläuft.
 
    * Wenn Sie diese Aufgabe in unserer Webanwendung öffnen, wird ein Komprimierungsfenster mit der E-Mail-Adresse Ihres Kontakts, der Betreffzeile Ihrer E-Mail und der von Ihnen ausgewählten Vorlage geöffnet.
