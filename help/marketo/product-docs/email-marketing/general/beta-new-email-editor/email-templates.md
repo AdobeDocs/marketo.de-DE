@@ -4,10 +4,10 @@ title: E-Mail-Vorlagen
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 43a0d32c2bc6a5f72a13cb6022b00c058d9c3269
+source-git-commit: 832635c9e029754ce094e4137724bcc956dbcd35
 workflow-type: tm+mt
-source-wordcount: '1592'
-ht-degree: 6%
+source-wordcount: '1672'
+ht-degree: 5%
 
 ---
 
@@ -192,38 +192,38 @@ Wenn Sie fertig sind, klicken Sie auf Speichern .
 ARE THEY CALLED LAYERS OR COMPONENTS
 ```
 
-Öffnen Sie die Navigationsstruktur, um auf bestimmte Strukturen und deren Spalten/Komponenten zuzugreifen und so eine detailliertere Bearbeitung zu ermöglichen.
+Öffnen Sie die Navigationsstruktur, um auf bestimmte Strukturen und deren Spalten/Komponenten zuzugreifen und so eine detailliertere Bearbeitung zu ermöglichen. Klicken Sie auf das Symbol Navigationsstruktur , um darauf zuzugreifen.
 
-1. Klicken Sie auf das Symbol Navigationsstruktur , um darauf zuzugreifen.
+![](assets/layers-settings-styles-1.png)
 
-SCREENSHOT
+Im folgenden Beispiel werden die Schritte zum Anpassen des Abstands und der vertikalen Ausrichtung innerhalb einer Strukturkomponente beschrieben, die aus Spalten besteht.
 
+1. Wählen Sie die Spalte in der Strukturkomponente direkt auf der Arbeitsfläche aus oder verwenden Sie die links angezeigte _Navigationsstruktur_ .
 
-Im folgenden Beispiel wird beschrieben, wie Sie den Abstand und die senkrechte Ausrichtung innerhalb einer Strukturkomponente, die aus drei Spalten besteht, anpassen.
+1. Klicken Sie in der Spaltensymbolleiste auf das Tool _[!UICONTROL Spalte auswählen]_ und wählen Sie das Tool aus, das Sie bearbeiten möchten.
 
-Wählen Sie die Strukturkomponente direkt in der E-Mail oder mithilfe des Navigationsbaums auf der linken Seite aus.
+   Sie können sie auch im Strukturbaum auswählen. Die bearbeitbaren Parameter für diese Spalte werden auf den Registerkarten _[!UICONTROL Einstellungen]_ und _[!UICONTROL Stile]_ rechts angezeigt.
 
-Klicken Sie in der Symbolleiste auf Spalte auswählen und wählen Sie die Spalte aus, die Sie bearbeiten möchten. Sie können sie auch im Strukturbaum auswählen.
+   ![](assets/layers-settings-styles-2.png)
 
-Die bearbeitbaren Parameter für diese Spalte werden auf der Registerkarte &quot;Stile&quot;angezeigt.
+1. Um die Spalteneigenschaften zu bearbeiten, klicken Sie auf die Registerkarte _[!UICONTROL Stile]_ rechts und ändern Sie sie entsprechend Ihren Anforderungen:
 
+   * Ändern Sie für **[!UICONTROL Hintergrund]** die Hintergrundfarbe nach Bedarf.
 
+     Deaktivieren Sie das Kontrollkästchen für einen transparenten Hintergrund. Aktivieren Sie die Einstellung **[!UICONTROL Hintergrundbild]** , um ein Bild als Hintergrund anstelle einer Vollbildfarbe zu verwenden.
 
-Wählen Sie unter &quot;Ausrichtung&quot;die Option &quot;Oben&quot;, &quot;Mittel&quot;oder &quot;Unten&quot;.
+   * Wählen Sie für **[!UICONTROL Ausrichtung]** das Symbol _Oben_, _Mitte_ oder _Unten_ aus.
+   * Definieren Sie für **[!UICONTROL Abstand]** den Abstand für alle Seiten.
 
+     Wählen Sie **[!UICONTROL Verschiedene Abstände für jede Seite]** aus, wenn Sie den Abstand anpassen möchten. Klicken Sie auf das Symbol _Sperren_ , um die Synchronisierung zu unterbrechen.
 
+   * Erweitern Sie den Abschnitt **[!UICONTROL Erweitert]** , um Inline-Stile für die Spalte zu definieren.
 
-Definieren Sie unter Abstand den Abstand für alle Seiten.
+   ![](assets/layers-settings-styles-3.png)
 
-Wählen Sie für jede Seite die Option Unterschiedlicher Abstand aus, wenn Sie den Abstand optimieren möchten. Klicken Sie auf das Sperrsymbol, um die Synchronisierung aufzuheben.
+1. Wiederholen Sie diese Schritte nach Bedarf, um die Ausrichtung und den Abstand für die anderen Spalten in der Komponente anzupassen.
 
-
-
-Gehen Sie analog vor, um die Ausrichtung und den Abstand der anderen Spalten anzupassen.
-
-Speichern Sie Ihre Änderungen.
-
-
+1. Speichern Sie Ihre Änderungen.
 
 ### Inhalt personalisieren {#personalize-content}
 

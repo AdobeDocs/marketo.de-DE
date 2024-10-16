@@ -4,7 +4,7 @@ description: Verstehen der Sendeoptionen - Marketo-Dokumente - Produktdokumentat
 title: Grundlagen zu Sendeoptionen
 exl-id: acdee691-478e-4ffe-90e2-54cf559fa38d
 feature: Marketo Sales Connect
-source-git-commit: ec88618ad96c5929f220aadfd5dac2ac81be7701
+source-git-commit: 832635c9e029754ce094e4137724bcc956dbcd35
 workflow-type: tm+mt
 source-wordcount: '609'
 ht-degree: 0%
@@ -63,3 +63,4 @@ Für alle nachfolgenden Tage/Schritte in Ihrer Kampagne haben Sie die folgenden 
 **Diese E-Mail an die vorherige E-Mail verschicken**
 
 * Diese Versandoption ist eine &#39;Follow-up&#39;-Aktion zu Ihrer vorherigen E-Mail und hängt den vorherigen E-Mail-Textkörper an den Ende dieser E-Mail an.
+
