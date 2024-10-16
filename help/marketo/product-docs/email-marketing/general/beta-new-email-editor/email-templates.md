@@ -4,16 +4,16 @@ title: E-Mail-Vorlagen
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 28bc524ac651a2a9516888b11acb226725689869
+source-git-commit: ec88618ad96c5929f220aadfd5dac2ac81be7701
 workflow-type: tm+mt
-source-wordcount: '1411'
-ht-degree: 5%
+source-wordcount: '1592'
+ht-degree: 6%
 
 ---
 
 # E-Mail-Vorlagen {#email-templates}
 
-Hier Text einfügen.
+Für einen beschleunigten und verbesserten Designprozess können Sie eigenständige E-Mail-Vorlagen erstellen, um benutzerdefinierte Inhalte einfach wiederzuverwenden.
 
 >[!IMPORTANT]
 >
@@ -47,13 +47,13 @@ Hier Text einfügen.
 
 Auf der Seite _Vorlage entwerfen_ können Sie aus einigen Optionen auswählen. [Entwerfen von Grund auf](#design-from-scratch), [Importieren Sie Ihre eigene HTML](#import-html) oder [wählen Sie eine vorhandene Vorlage](#choose-a-template) aus (eine unserer Beispiele oder eine Vorlage, die Sie bereits gespeichert haben).
 
+![](assets/design-your-template-1.png)
+
 ### Von Grund auf gestalten {#design-from-scratch}
 
 Definieren Sie Ihren Inhalt, indem Sie Strukturelemente mit einfachen Drag &amp; Drop-Aktionen hinzufügen und verschieben.
 
 1. Wählen Sie auf der Seite _Design your template_ die Option **Design von Grund auf neu** aus.
-
-   SCREENSHOT
 
 1. Fügen Sie [Struktur und Inhalt](#add-structure-and-content) hinzu.
 
@@ -71,11 +71,9 @@ Sie können vorhandenen HTML-Inhalt importieren, um E-Mail-Vorlagen zu erstellen
 
 1. Wählen Sie auf der Seite _Design your template_ die Option **Import HTML** aus.
 
-   SCREENSHOT
+1. Ziehen Sie die gewünschte HTML- oder ZIP-Datei per Drag-and-Drop (oder wählen Sie eine Datei auf Ihrem Computer aus) und klicken Sie auf **Importieren**.
 
-1. Ziehen Sie die gewünschte HTML- oder ZIP-Datei in den Arbeitsbereich und klicken Sie auf **Importieren**.
-
-   SCREENSHOT
+   ![](assets/import-your-html-1.png)
 
    >[!NOTE]
    >
@@ -103,25 +101,31 @@ Es gibt zwei Arten von Vorlagen zur Auswahl.
 
 >[!TAB Beispielvorlagen]
 
-Wählen Sie eine von vier nativen Vorlagen für einen Vorsprung im E-Mail-Vorlagenentwurf.
+Wählen Sie eine der vordefinierten Vorlagen für einen Vorsprung im E-Mail-Vorlagenentwurf.
 
-1. Wählen Sie Beispielvorlagen aus.
+1. Der Tab Beispielvorlagen ist standardmäßig geöffnet.
 
-   SCREENSHOT
+1. Wählen Sie die Vorlage aus, die Sie verwenden möchten.
 
-1. Text.
+   ![](assets/sample-templates-1.png)
 
-   SCREENSHOT
+1. Klicken Sie auf **Diese Vorlage verwenden**.
+
+   ![](assets/sample-templates-2.png)
+
+1. Bearbeiten Sie den Inhalt nach Bedarf mit dem visuellen Inhaltsentwickler.
 
 >[!TAB Gespeicherte Vorlagen]
 
-1. Wählen Sie Gespeicherte Vorlagen.
+1. Klicken Sie auf die Registerkarte **Gespeicherte Vorlagen** und wählen Sie die gewünschte Vorlage aus.
 
-   SCREENSHOT
+   ![](assets/saved-templates-1.png)
 
-1. Text.
+1. Klicken Sie auf **Diese Vorlage verwenden**.
 
-   SCREENSHOT
+   ![](assets/saved-templates-2.png)
+
+1. Bearbeiten Sie den Inhalt nach Bedarf mit dem visuellen Inhaltsentwickler.
 
 >[!ENDTABS]
 
@@ -133,7 +137,7 @@ Wählen Sie eine von vier nativen Vorlagen für einen Vorsprung im E-Mail-Vorlag
    >
    >Wählen Sie die n:n-Spaltenkomponente aus, um die Anzahl der Spalten Ihrer Wahl zu definieren (zwischen drei und zehn). Sie können auch die Breite jeder Spalte definieren, indem Sie die Pfeile unter die Spalte verschieben.
 
-   SCREENSHOT
+   ![](assets/add-structure-and-content-1.png)
 
    >[!NOTE]
    >
@@ -141,7 +145,7 @@ Wählen Sie eine von vier nativen Vorlagen für einen Vorsprung im E-Mail-Vorlag
 
 1. Ziehen Sie aus dem Bereich Inhalt die gewünschten Elemente per Drag-and-Drop in eine oder mehrere Strukturkomponenten.
 
-   SCREENSHOT
+   ![](assets/add-structure-and-content-2.png)
 
 1. Jede Komponente kann über die Registerkarten Einstellungen oder Stil angepasst werden. Ändern Sie Schriftart, Textstil, Rand und mehr.
 
@@ -194,6 +198,30 @@ ARE THEY CALLED LAYERS OR COMPONENTS
 
 SCREENSHOT
 
+
+Im folgenden Beispiel wird beschrieben, wie Sie den Abstand und die senkrechte Ausrichtung innerhalb einer Strukturkomponente, die aus drei Spalten besteht, anpassen.
+
+Wählen Sie die Strukturkomponente direkt in der E-Mail oder mithilfe des Navigationsbaums auf der linken Seite aus.
+
+Klicken Sie in der Symbolleiste auf Spalte auswählen und wählen Sie die Spalte aus, die Sie bearbeiten möchten. Sie können sie auch im Strukturbaum auswählen.
+
+Die bearbeitbaren Parameter für diese Spalte werden auf der Registerkarte &quot;Stile&quot;angezeigt.
+
+
+
+Wählen Sie unter &quot;Ausrichtung&quot;die Option &quot;Oben&quot;, &quot;Mittel&quot;oder &quot;Unten&quot;.
+
+
+
+Definieren Sie unter Abstand den Abstand für alle Seiten.
+
+Wählen Sie für jede Seite die Option Unterschiedlicher Abstand aus, wenn Sie den Abstand optimieren möchten. Klicken Sie auf das Sperrsymbol, um die Synchronisierung aufzuheben.
+
+
+
+Gehen Sie analog vor, um die Ausrichtung und den Abstand der anderen Spalten anzupassen.
+
+Speichern Sie Ihre Änderungen.
 
 
 
