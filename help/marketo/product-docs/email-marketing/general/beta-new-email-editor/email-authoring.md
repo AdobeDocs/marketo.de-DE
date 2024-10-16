@@ -4,16 +4,16 @@ title: E-Mail-Authoring
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: ec88618ad96c5929f220aadfd5dac2ac81be7701
+source-git-commit: 43a0d32c2bc6a5f72a13cb6022b00c058d9c3269
 workflow-type: tm+mt
-source-wordcount: '1259'
-ht-degree: 5%
+source-wordcount: '1271'
+ht-degree: 4%
 
 ---
 
 # E-Mail-Authoring {#email-authoring}
 
-Hier Text einfügen.
+Erfahren Sie, wie Sie E-Mails in der neuen Marketo Engage E-Mail-Designer erstellen, personalisieren und in der Vorschau anzeigen.
 
 >[!IMPORTANT]
 >
@@ -297,7 +297,7 @@ Fehler verhindern, dass Sie die E-Mail senden oder testen, bis sie behoben sind:
 
 * **E-Mail-Version der Nachricht ist leer**: Dieser Fehler tritt auf, wenn der E-Mail-Inhalt nicht konfiguriert wurde.
 
-## E-Mail testen
+## E-Mail testen {#test-your-email}
 
 Wenn Ihr Nachrichteninhalt definiert ist, können Sie mithilfe von Testprofilen die Vorschau anzeigen, Testsendungen durchführen und steuern, wie die Nachricht in beliebten Desktop-, Mobile- und Web-basierten Clients dargestellt wird. Wenn Sie personalisierten Inhalt eingefügt haben, können Sie anhand von Testprofildaten überprüfen, wie dieser in der Nachricht angezeigt wird.
 
