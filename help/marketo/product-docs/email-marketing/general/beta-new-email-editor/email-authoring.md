@@ -4,10 +4,10 @@ title: E-Mail-Authoring
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 482c2955bbf3ad10d244ebc5e6b6d6a37d82c217
+source-git-commit: ec88618ad96c5929f220aadfd5dac2ac81be7701
 workflow-type: tm+mt
-source-wordcount: '1212'
-ht-degree: 4%
+source-wordcount: '1259'
+ht-degree: 5%
 
 ---
 
@@ -43,9 +43,9 @@ Das ist es. Jetzt ist es an der Zeit, Ihre E-Mail zu entwerfen.
 
 ## Inhaltstyp auswählen {#choose-your-content-type}
 
-1. Klicken Sie in der soeben erstellten E-Mail auf **+ E-Mail-Inhalt hinzufügen**.
+1. Klicken Sie in der soeben erstellten E-Mail auf **E-Mail-Inhalt hinzufügen**.
 
-   SCREENSHOT
+   ![](assets/choose-your-content-type-1.png)
 
 1. Die Seite _E-Mail erstellen_ wird geladen. Sie können aus mehreren Optionen wählen:
 
@@ -83,11 +83,9 @@ Sie können vorhandenen HTML-Inhalt importieren, um Ihre E-Mail zu erstellen. De
 
 1. Wählen Sie auf der Seite Vorlage erstellen die Option **HTML importieren** aus.
 
-   SCREENSHOT
+1. Ziehen Sie die gewünschte HTML- oder ZIP-Datei per Drag-and-Drop (oder wählen Sie eine Datei auf Ihrem Computer aus) und klicken Sie auf **Importieren**.
 
-1. Ziehen Sie die gewünschte HTML- oder ZIP-Datei in den Arbeitsbereich und klicken Sie auf **Importieren**.
-
-   SCREENSHOT
+   ![](assets/authoring-import-your-html-1.png)
 
 >[!NOTE]
 >
@@ -107,35 +105,31 @@ Es gibt zwei Arten von Vorlagen zur Auswahl.
 
 >[!TAB Beispielvorlagen]
 
-Wählen Sie eine unserer vordefinierten Vorlagen für einen Vorsprung in Ihrem E-Mail-Design.
+Wählen Sie eine der vordefinierten Vorlagen für einen Vorsprung im E-Mail-Vorlagenentwurf.
 
-1. Wählen Sie auf der Seite E-Mail erstellen die Option **Beispielvorlagen** aus.
+1. Der Tab Beispielvorlagen ist standardmäßig geöffnet.
 
-   SCREENSHOT
+1. Wählen Sie die Vorlage aus, die Sie verwenden möchten.
 
-1. Wählen Sie die gewünschte Vorlage aus.
+   ![](assets/authoring-sample-templates-1.png)
 
-   SCREENSHOT
+1. Klicken Sie auf **Diese Vorlage verwenden**.
 
-1. Eine Vorschau wird angezeigt. Klicken Sie zur Bestätigung Ihrer Auswahl auf **Diese Vorlage verwenden**.
+   ![](assets/authoring-sample-templates-2.png)
 
-   SCREENSHOT
+1. Bearbeiten Sie den Inhalt nach Bedarf mit dem visuellen Inhaltsentwickler.
 
 >[!TAB Gespeicherte Vorlagen]
 
-Wählen Sie eine Ihrer zuvor erstellten Vorlagen aus.
+1. Klicken Sie auf die Registerkarte **Gespeicherte Vorlagen** und wählen Sie die gewünschte Vorlage aus.
 
-1. Wählen Sie auf der Seite E-Mail erstellen die Option **Gespeicherte Vorlagen** aus.
+   ![](assets/authoring-saved-templates-1.png)
 
-   SCREENSHOT
+1. Klicken Sie auf **Diese Vorlage verwenden**.
 
-1. Wählen Sie die gewünschte Vorlage aus.
+   ![](assets/authoring-saved-templates-2.png)
 
-   SCREENSHOT
-
-1. Eine Vorschau wird angezeigt. Klicken Sie zur Bestätigung Ihrer Auswahl auf **Diese Vorlage verwenden**.
-
-   SCREENSHOT
+1. Bearbeiten Sie den Inhalt nach Bedarf mit dem visuellen Inhaltsentwickler.
 
 >[!ENDTABS]
 
@@ -213,25 +207,29 @@ SCREENSHOT
 
 ### Inhalt personalisieren {#personalize-content}
 
-Token funktionieren im neuen Editor genauso wie im alten, aber das Symbol sieht anders aus.
+Token funktionieren im neuen Editor genauso wie im alten, aber das Symbol sieht anders aus. Im folgenden Beispiel wird das Hinzufügen eines Vorname-Tokens mit Fallback-Text beschrieben.
 
-1. Wählen Sie die Textkomponente aus und klicken Sie auf das Symbol **Personalisierung hinzufügen** .
+1. Wählen Sie die Textkomponente aus. Platzieren Sie den Cursor an die Stelle, an der das Token angezeigt werden soll, und klicken Sie auf das Symbol **Personalisierung hinzufügen** .
 
-   SCREENSHOT
+   ![](assets/authoring-personalize-content-1.png)
 
 1. Klicken Sie auf den gewünschten [Token-Typ](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
 
-   SCREENSHOT
+   ![](assets/authoring-personalize-content-2.png)
 
-1. Klicken Sie auf + oder ... , um dem leeren Bereich ein Token hinzuzufügen.
+1. Suchen Sie das gewünschte Token und klicken Sie auf das Symbol &quot;**...**&quot;. (Durch Klicken auf das Symbol &quot;+&quot;wird stattdessen ein Token ohne Fallback-Text hinzugefügt.)
 
-   SCREENSHOT
+   ![](assets/authoring-personalize-content-3.png)
 
    >[!NOTE]
    >
-   >&quot;Fallback-Text&quot;ist der neue Editor-Begriff für den Standardwert. Beispiel: ``{{lead.First Name:default=Friend}}``
+   >&quot;Fallback-Text&quot;ist der neue Editor-Begriff für den Standardwert. Beispiel: ``{{lead.First Name:default=Friend}}``. Dies wird empfohlen, falls im von Ihnen ausgewählten Feld kein Wert für die Person vorhanden ist.
 
-1. Klicken Sie auf **Speichern**, wenn Sie fertig sind.
+1. Legen Sie Ihren Fallback-Text fest und klicken Sie auf **Hinzufügen**.
+
+   ![](assets/authoring-personalize-content-4.png)
+
+1. Klicken Sie auf **Speichern**.
 
 ### URL-Tracking bearbeiten {#edit-url-tracking}
 
