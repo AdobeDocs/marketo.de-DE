@@ -4,9 +4,9 @@ description: Protokolle für Marketo Engage konfigurieren - Marketo Engage Docs 
 title: Protokolle für das Marketo Engage konfigurieren
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: 0330fd1b7bcc6d5fc21e5e591b65e8d6d5d3efee
+source-git-commit: 06c19a48e84b192cd52ea5d0ce6104ac52a85e8e
 workflow-type: tm+mt
-source-wordcount: '2149'
+source-wordcount: '2147'
 ht-degree: 0%
 
 ---
@@ -64,8 +64,6 @@ Wenn Ihre Marketing-Gruppe Marketo Engage verwendet, um Test-E-Mails zu senden (
 
 Fügen Sie diese IP-Adressen zu Ihrer Unternehmens-Zulassungsliste hinzu:
 
-94.236.119.0/26
-
 103.237.104.0/22
 
 130.248.172.0/24
@@ -112,20 +110,20 @@ Ihr Marketing-Team sollte Ihnen auch DKIM-Informationen (Domain Keys Identified 
 
 ## Schritt 4: Einrichten von DMARC {#set-up-dmarc}
 
-DMARC (Domain-based Message Authentication, Reporting &amp; Conformance) ist ein Authentifizierungsprotokoll, mit dem Unternehmen ihre Domain vor unbefugter Verwendung schützen können. DMARC erweitert die vorhandenen Authentifizierungsprotokolle wie SPF und DKIM, um Empfängerserver darüber zu informieren, welche Aktionen sie ergreifen sollten, wenn bei ihrer Domäne ein Authentifizierungsfehler auftritt. DMARC ist zwar derzeit optional, wird jedoch dringend empfohlen, da es die Marke und Reputation Ihres Unternehmens besser schützt. Wichtige Anbieter wie Google und Yahoo werden ab Februar 2024 die Verwendung von DMARC für Massensender benötigen.
+DMARC (Domain-based Message Authentication, Reporting &amp; Conformance) ist ein Authentifizierungsprotokoll, das Unternehmen dabei unterstützt, ihre Domain vor nicht autorisierter Verwendung zu schützen. DMARC erweitert die vorhandenen Authentifizierungsprotokolle wie SPF und DKIM, um Empfängerserver darüber zu informieren, welche Aktionen sie ergreifen sollten, wenn bei ihrer Domäne ein Authentifizierungsfehler auftritt. Obwohl DMARC derzeit optional ist, wird dringend empfohlen, da es die Marke und Reputation Ihres Unternehmens besser schützt. Wichtige Anbieter wie Google und Yahoo werden ab Februar 2024 die Verwendung von DMARC für Massensender benötigen.
 
 Damit DMARC funktioniert, muss mindestens einer der folgenden DNS-TXT-Einträge vorhanden sein:
 
 * Eine gültige SPF
 * Ein gültiger DKIM-Datensatz für Ihre FROM: Domain (empfohlen für Marketo Engage)
 
-Darüber hinaus müssen Sie einen DMARC-spezifischen DNS-TXT-Eintrag für Ihre FROM: Domain haben. Optional kann eine E-Mail-Adresse Ihrer Wahl definiert werden, um anzugeben, wohin DMARC-Berichte in Ihrem Unternehmen untergebracht werden sollen, damit Sie Berichte überwachen können.
+Darüber hinaus müssen Sie über einen DMARC-spezifischen DNS-TXT-Eintrag für Ihre FROM: Domain verfügen. Optional kann eine von Ihnen ausgewählte E-Mail-Adresse definiert werden, um anzugeben, wohin DMARC-Berichte in Ihrem Unternehmen gehören sollen, damit Sie Berichte überwachen können.
 
-Als Best Practice wird empfohlen, die DMARC-Implementierung langsam einzuführen, indem Sie Ihre DMARC-Richtlinie von p=none auf p=quarantine eskalieren, p=reject ändern, sobald Sie die potenziellen Auswirkungen von DMARC verstehen, und Ihre DMARC-Richtlinie auf eine entspannte Ausrichtung auf SPF und DKIM festlegen.
+Als Best Practice wird empfohlen, die DMARC-Implementierung langsam einzuführen, indem Sie Ihre DMARC-Richtlinie von p=none auf p=quarantine eskalieren, auf p=reject setzen, sobald Sie die potenziellen Auswirkungen von DMARC verstehen und Ihre DMARC-Richtlinie auf eine entspannte Abstimmung auf SPF und DKIM festlegen.
 
 ### DMARC-Beispiel-Workflow {#dmarc-example-workflow}
 
-1. Wenn Sie für den Empfang von DMARC-Berichten konfiguriert sind, sollten Sie Folgendes tun..
+1. Wenn Sie für den Empfang von DMARC-Berichten konfiguriert sind, sollten Sie Folgendes tun...
 
    I. Analysieren Sie das Feedback und die Berichte, die Sie erhalten und verwenden (p=none), wodurch der Empfänger angewiesen wird, keine Aktionen für Nachrichten durchzuführen, die die Authentifizierung nicht befolgen, aber trotzdem E-Mail-Berichte an den Absender senden senden.
 
@@ -145,9 +143,9 @@ Als Best Practice wird empfohlen, die DMARC-Implementierung langsam einzuführen
 >
 >Verwenden Sie diese Richtlinie mit Vorsicht und stellen Sie fest, ob sie für Ihre Organisation geeignet ist.
 
-### DMARC-Berichterstellung {#dmarc-reporting}
+### DMARC Reporting {#dmarc-reporting}
 
-DMARC bietet die Möglichkeit, Berichte zu E-Mails zu erhalten, die SPF/DKIM nicht unterstützen. Es gibt zwei verschiedene Berichte, die von ISP-Dienstern im Rahmen des Authentifizierungsprozesses generiert werden und die Absender über die RUA/RUF-Tags in ihrer DMARC-Richtlinie empfangen können.
+DMARC bietet die Möglichkeit, Berichte zu E-Mails zu erhalten, die SPF/DKIM nicht unterstützen. Es gibt zwei verschiedene Berichte, die von ISP-Dienstern im Rahmen des Authentifizierungsprozesses erstellt werden und die Absender über die RUA/RUF-Tags in ihrer DMARC-Richtlinie empfangen können.
 
 * Aggregate Reports (RUA): Enthält keine personenbezogenen Daten, die bei DSGVO (Datenschutz-Grundverordnung) berücksichtigt werden.
 
@@ -155,15 +153,15 @@ DMARC bietet die Möglichkeit, Berichte zu E-Mails zu erhalten, die SPF/DKIM nic
 
 Diese Berichte dienen hauptsächlich dazu, einen Überblick über E-Mails zu erhalten, die versucht werden, Nachrichten zu spoofing zu senden. Dies sind hochtechnische Berichte, die am besten mit einem Tool von Drittanbietern aufbereitet werden.
 
-### Beispiele für DMARC-Aufzeichnungen {#example-dmarc-records}
+### Beispiele für DMARC-Datensätze {#example-dmarc-records}
 
 * Mindestreservesatz: `v=DMARC1; p=none`
 
 * Datensatz, der an eine E-Mail-Adresse verweist, um Berichte zu erhalten: `v=DMARC1; p=none;  rua=mailto:emaill@domain.com;     ruf=mailto:email@domain.com`
 
-### DMARC-Tags und ihre Aufgaben {#dmarc-tags-and-what-they-do}
+### DMARC-Tags und ihre Funktionsweise {#dmarc-tags-and-what-they-do}
 
-DMARC-Datensätze verfügen über mehrere Komponenten, die DMARC-Tags genannt werden. Jedes Tag verfügt über einen Wert, der einen bestimmten Aspekt von DMARC angibt.
+DMARC-Datensätze verfügen über mehrere Komponenten, die als DMARC-Tags bezeichnet werden. Jedes Tag verfügt über einen Wert, der einen bestimmten Aspekt von DMARC angibt.
 
 <table>
 <thead>
@@ -186,13 +184,13 @@ DMARC-Datensätze verfügen über mehrere Komponenten, die DMARC-Tags genannt we
   <tr>
     <td>p</td>
     <td>Erforderlich</td>
-    <td>Zeigt die ausgewählte DMARC-Richtlinie an und weist den Empfänger an, E-Mails zu melden, unter Quarantäne zu stellen oder abzulehnen, die bei Authentifizierungsprüfungen fehlschlagen.</td>
+    <td>Zeigt die ausgewählte DMARC-Richtlinie an und weist den Empfänger an, E-Mails, die bei Authentifizierungsprüfungen fehlschlagen, zu melden, unter Quarantäne zu stellen oder abzulehnen.</td>
     <td>p=none, quarantine or reject</td>
-    <td>-</td>
+    <td>–</td>
   </tr>
   <tr>
     <td>fo</td>
-    <td>optional</td>
+    <td>Optional</td>
     <td>Ermöglicht es dem Domäneninhaber, Berichtsoptionen anzugeben.</td>
     <td>0: Bericht erstellen, wenn alles fehlschlägt 
     <br>1: Bericht erstellen, wenn irgendetwas fehlschlägt 
@@ -202,7 +200,7 @@ DMARC-Datensätze verfügen über mehrere Komponenten, die DMARC-Tags genannt we
   </tr>
   <tr>
     <td>pct</td>
-    <td>optional</td>
+    <td>Optional</td>
     <td>Teilt den Prozentsatz der Nachrichten mit, die gefiltert werden sollen.</td>
     <td>pct=20</td>
     <td>100</td>
@@ -212,32 +210,32 @@ DMARC-Datensätze verfügen über mehrere Komponenten, die DMARC-Tags genannt we
     <td>Optional (empfohlen)</td>
     <td>Gibt an, wo aggregierte Berichte bereitgestellt werden.</td>
     <td>rua=mailto:aggrep@example.com</td>
-    <td>-</td>
+    <td>–</td>
   </tr>
   <tr>
     <td>ruf</td>
     <td>Optional (empfohlen)</td>
     <td>Gibt an, wo forensische Berichte bereitgestellt werden.</td>
     <td>ruf=mailto:authfail@example.com</td>
-    <td>-</td>
+    <td>–</td>
   </tr>
   <tr>
     <td>sp</td>
-    <td>optional</td>
+    <td>Optional</td>
     <td>Gibt die DMARC-Richtlinie für Subdomänen der übergeordneten Domäne an.</td>
     <td>sp=reject</td>
-    <td>-</td>
+    <td>–</td>
   </tr>
   <tr>
     <td>adkim</td>
-    <td>optional</td>
+    <td>Optional</td>
     <td>Kann entweder streng (s) oder Relaxed ® sein. Eine verzögerte Ausrichtung bedeutet, dass die in der DKIM-Signatur verwendete Domain eine Subdomäne der "Von"-Adresse sein kann. Eine strikte Ausrichtung bedeutet, dass die in der DKIM-Signatur verwendete Domain exakt mit der in der Absenderadresse verwendeten Domain übereinstimmen muss.</td>
     <td>adkim=r </td>
     <td>r</td>
   </tr>
   <tr>
     <td>aspf</td>
-    <td>optional</td>
+    <td>Optional</td>
     <td>Kann entweder streng (s) oder Relaxed ® sein. Eine verzögerte Ausrichtung bedeutet, dass die Domäne "ReturnPath"eine Subdomäne der "From Address"sein kann. Eine strikte Ausrichtung bedeutet, dass die Domäne "Return-Path"exakt mit der Absenderadresse übereinstimmen muss.</td>
     <td>aspf=r</td>
     <td>r</td>
@@ -253,20 +251,20 @@ Es gibt zwei Arten der Ausrichtung für DMARC: DKIM-Ausrichtung und SPF-Ausricht
 
 >[!NOTE]
 >
->Es wird empfohlen, die DMARC-Ausrichtung für DKIM im Vergleich zu SPF für Marketo Engage durchzuführen.
+>Es wird empfohlen, die DMARC-Ausrichtung auf DKIM im Vergleich zu SPF für Marketo Engage durchzuführen.
 
-* DKIM-angepasstes DMARC: Um DKIM-angepasstes DMARC einzurichten, müssen Sie:
+* DKIM-orientierte DMARC: Um DKIM-angepasste DMARC einzurichten, müssen Sie:
 
    * Richten Sie DKIM für die Domäne &quot;FROM: Domain&quot;Ihrer Nachricht ein. Verwenden Sie die Anweisungen [in diesem Artikel](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}.
-   * Konfigurieren Sie DMARC für die zuvor konfigurierte Domäne &quot;FROM:/DKIM&quot;
+   * Konfigurieren von DMARC für die zuvor konfigurierte Domäne &quot;FROM:/DKIM&quot;
 
-* DMARC-angepasste SPF: Um DMARC-angepasste SPF über einen gebrandeten Rückkehrpfad einzurichten, müssen Sie:
+* DMARC-orientierte SPF: Um eine DMARC-orientierte SPF über einen gebrandeten Rückkehrpfad einzurichten, müssen Sie:
 
    * Einrichten der Branded-Return-Path-Domäne
       * Konfigurieren des entsprechenden SPF-Datensatzes
       * Ändern Sie den MX-Datensatz so, dass er auf den Standard-MX für das Rechenzentrum verweist, aus dem Ihre E-Mail gesendet wird.
 
-   * Konfigurieren von DMARC für die Domäne &quot;Branded Return Path&quot;
+   * Konfigurieren von DMARC für die Branded Return-Path-Domäne
 
 * Wenn Sie E-Mails von Marketo Engage über eine dedizierte IP senden und den Branded-Return-Pfad noch nicht implementiert haben oder nicht sicher sind, ob Sie dies getan haben, öffnen Sie bitte ein Ticket beim [Adobe-Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
 
