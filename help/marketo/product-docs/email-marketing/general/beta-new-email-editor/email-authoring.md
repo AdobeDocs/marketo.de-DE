@@ -4,7 +4,7 @@ title: E-Mail-Authoring
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: af8afc9342a4ca0b4032c4d7c761703adb5a6701
+source-git-commit: 7c07755a3e97370fe68d92312cdfa7b449130a11
 workflow-type: tm+mt
 source-wordcount: '1477'
 ht-degree: 4%
@@ -97,9 +97,9 @@ Sie können die gewünschten Änderungen am importierten Inhalt mit den [visuell
 
 Es gibt zwei Arten von Vorlagen zur Auswahl.
 
-* Beispielvorlagen: Marketo Engage bietet vier vordefinierte E-Mail-Vorlagen.
+* **Beispielvorlagen**: Marketo Engage bietet vier vordefinierte E-Mail-Vorlagen.
 
-* Gespeicherte Vorlagen: Hierbei handelt es sich um Vorlagen, die Sie im Menü Vorlagen neu erstellt haben, oder um eine E-Mail, die Sie erstellt und als Vorlage gespeichert haben.
+* **Gespeicherte Vorlagen**: Hierbei handelt es sich um Vorlagen, die Sie im Menü &quot;Vorlagen&quot;von Grund auf neu erstellt haben, oder um eine E-Mail, die Sie erstellt und als Vorlage gespeichert haben.
 
 >[!BEGINTABS]
 
