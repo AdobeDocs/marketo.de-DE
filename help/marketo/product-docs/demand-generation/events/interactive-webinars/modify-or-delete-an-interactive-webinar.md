@@ -3,10 +3,10 @@ description: Ändern oder Löschen eines interaktiven Webinars - Marketo Docs - 
 title: Ändern oder Löschen eines interaktiven Webinars
 exl-id: 01dd801f-809b-481f-b926-2ed48bfbd5b7
 feature: Interactive Webinars
-source-git-commit: 19f60f58ae4de26536b304eb8ae9677ecc221993
+source-git-commit: d2f8a90cf780fc5db6a4f148a53968a53df835a4
 workflow-type: tm+mt
-source-wordcount: '287'
-ht-degree: 0%
+source-wordcount: '314'
+ht-degree: 1%
 
 ---
 
@@ -81,6 +81,10 @@ Erfahren Sie, wie Sie Änderungen an Ihrem interaktiven Webinar vornehmen könne
    ![](assets/modify-or-delete-an-interactive-webinar-12.png)
 
 ## Löschen eines interaktiven Webinars {#delete-an-interactive-webinar}
+
+>[!NOTE]
+>
+>Wenn Sie ein Test-Webinar erstellen, muss es vor seiner Startzeit gelöscht werden, um sicherzustellen, dass die Lizenz für dieses Webinar nicht genutzt wird.
 
 1. Wählen Sie das gewünschte Veranstaltungsprogramm aus.
 

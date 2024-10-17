@@ -3,9 +3,9 @@ description: Erstellen eines interaktiven Webinars - Marketo-Dokumente - Produkt
 title: Erstellen eines interaktiven Webinars
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
+source-git-commit: d2f8a90cf780fc5db6a4f148a53968a53df835a4
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
@@ -53,6 +53,8 @@ Erstellen Sie ein interaktives Webinar in wenigen einfachen Schritten.
    >* Sie können einen Webinartitel nicht wiederverwenden. Jede Instanz muss in Ihrer Marketo-Instanz eindeutig sein.
    >
    >* Sie können den Webinartitel bei Bedarf zu einem späteren Zeitpunkt ändern.
+   >
+   >* Wenn Sie ein Test-Webinar erstellen, muss es vor seiner Startzeit gelöscht werden, um sicherzustellen, dass die Lizenz für dieses Webinar nicht genutzt wird.
 
 1. Planen Sie das Datum/die Uhrzeit Ihres Webinars und klicken Sie auf **Erstellen**.
 
