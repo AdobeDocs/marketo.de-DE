@@ -4,9 +4,9 @@ description: Aktivieren der Synchronisierung für eine benutzerdefinierte Entit�
 title: Aktivieren der Synchronisierung für eine benutzerdefinierte Entität
 exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
 feature: Microsoft Dynamics
-source-git-commit: d522950af40c5e3e702a6522101ebe9550432be5
+source-git-commit: 79ae0d56dd4bb8bf563c6546cba54b89b5841425
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---
@@ -67,3 +67,9 @@ Wenn Sie benutzerdefinierte Entitätsdaten aus Dynamics benötigen, um auf Marke
 1. Vergessen Sie nicht, die globale Synchronisierung erneut zu aktivieren!
 
    ![](assets/enable-sync-for-a-custom-entity-8.png)
+
+   >[!NOTE]
+   >
+   >* Marketo unterstützt nur benutzerdefinierte Entitäten, die mit Standardentitäten verknüpft sind, die eine oder zwei Ebenen tief sind.
+   >
+   >* Die benutzerdefinierte Objektstruktur kann dasselbe Objekt mehrmals anzeigen, da sie direkt mit einem der Hauptobjekte verbunden ist (z. B. Leads, Kontakte oder Konten oder indirekte Verbindungen über ein Intermediarobjekt). Wählen Sie in diesem Fall das Objekt aus, das dem Hauptobjekt am nächsten liegt, und wählen Sie nur eines aus. Die mehrfache Auswahl desselben Objekts kann die Synchronisierung dieses benutzerdefinierten Objekts behindern.

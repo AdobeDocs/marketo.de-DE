@@ -4,9 +4,9 @@ description: SFDC Sync - Custom Object Sync - Marketo Docs - Produktdokumentatio
 title: SFDC Sync - benutzerdefinierte Objektsynchronisierung
 exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
 feature: Salesforce Integration
-source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
+source-git-commit: 79ae0d56dd4bb8bf563c6546cba54b89b5841425
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '302'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ Benutzerdefinierte Objekte, die in Ihrer Salesforce-Instanz erstellt wurden, kö
 
 ## Benutzerdefiniertes Objekt aktivieren  {#enable-custom-object}
 
-1. Klicken Sie auf den Link **[!UICONTROL Admin]** und auf den Link **[!UICONTROL Salesforce-Objektsynchronisierung]** .
+1. Klicken Sie auf den Link **[!UICONTROL Admin]** und auf den Link **[!UICONTROL Salesforce Objects Sync]** .
 
    ![](assets/image2015-11-19-10-3a28-3a5.png).
 
@@ -75,13 +75,15 @@ Benutzerdefinierte Objekte, die in Ihrer Salesforce-Instanz erstellt wurden, kö
 
    ![](assets/image2015-4-22-10-3a50-3a26.png)
 
-1. Um alle benutzerdefinierten Salesforce-Objekte anzuzeigen, klicken Sie auf **[!UICONTROL Admin]** und auf den Link **[!UICONTROL Salesforce-Objektsynchronisierung]** (wie in Schritt 1 oben).
+1. Um alle benutzerdefinierten Salesforce-Objekte anzuzeigen, klicken Sie auf **[!UICONTROL Admin]** und den Link **[!UICONTROL Salesforce Objects Sync]** (wie in Schritt 1 oben).
 
    ![](assets/image2016-6-23-9-3a28-3a23.png)
 
    >[!NOTE]
    >
-   >Marketo unterstützt nur benutzerdefinierte Entitäten, die mit Standardentitäten verknüpft sind, die eine oder zwei Ebenen tief sind.
+   >* Marketo unterstützt nur benutzerdefinierte Entitäten, die mit Standardentitäten verknüpft sind, die eine oder zwei Ebenen tief sind.
+   >
+   >* Die benutzerdefinierte Objektstruktur kann dasselbe Objekt mehrmals anzeigen, da sie direkt mit einem der Hauptobjekte verbunden ist (z. B. Leads, Kontakte oder Konten oder indirekte Verbindungen über ein Intermediarobjekt). Wählen Sie in diesem Fall das Objekt aus, das dem Hauptobjekt am nächsten liegt, und wählen Sie nur eines aus. Die mehrfache Auswahl desselben Objekts kann die Synchronisierung dieses benutzerdefinierten Objekts behindern.
 
 ### Nächste Schritte: {#whats-next}
 
