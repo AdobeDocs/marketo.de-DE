@@ -3,10 +3,10 @@ description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokument
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 9d6cdd3063d22e0b9f132eaa828695f1d2fdc634
+source-git-commit: a65ff2cb24b264cd2d3a1c9c7e0109bcf69ac996
 workflow-type: tm+mt
-source-wordcount: '515'
-ht-degree: 6%
+source-wordcount: '559'
+ht-degree: 5%
 
 ---
 
@@ -100,6 +100,9 @@ Die folgenden Funktionen fallen unter den standardmäßigen Versionszyklus und w
 <br/>
 
 ## Ankündigungen {#announcements}
+
+* **REST API access_token Parameter Deprecation**: Der Abfrageparameter &quot;access_token&quot;zum Authentifizieren von Marketo REST API-Aufrufen wird nicht mehr unterstützt und ist nach dem 30. Juni 2025 nicht mehr verfügbar. Alle neuen und vorhandenen Integrationen sollten REST-API-Aufrufe mithilfe der &quot;Autorisierungs&quot;-Kopfzeile [authentifizieren, wie hier ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication#using-an-access-token) beschrieben.
+
 
 * **QR-Code-Deprecation**: Am 4. Oktober 2024 wird die QR-Code-Funktion, die in Push-Benachrichtigungen und In-App-Nachrichten-Assets verwendet wird, nicht mehr unterstützt. Dazu gehört die Verwendung von QR-Codes für ein neues Testgerät sowie die Erstellung neuer Assets mit QR-Codes. Die Veraltung von Funktionen mit geringerer Nutzung ermöglicht es uns, ihre Ressourcen auf die Gesamtwartung von Marketo Engage umzuleiten.
 
