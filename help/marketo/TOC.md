@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: bdcb4e5def16e509ae083b6eebdefadbb0e8fa47
+source-git-commit: 22f667b27168eafe51df75f81be74e18f5497c3f
 workflow-type: tm+mt
 source-wordcount: '9370'
 ht-degree: 4%
@@ -1099,10 +1099,10 @@ ht-degree: 4%
          + Grundlagen zum E-Mail-Editor {#understanding-the-email-editor}
             + [Informationen zur E-Mail-Ereignisprotokollierung](product-docs/email-marketing/general/understanding-the-email-editor/understanding-email-event-logging.md)
             + [Rich-Text-Editor verwenden](product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)
-         + Beta New Email Editor {#beta-new-email-editor}
-            + [Neue Übersicht über den E-Mail-Editor (Beta)](product-docs/email-marketing/general/beta-new-email-editor/overview.md)
-            + [E-Mail-Authoring](product-docs/email-marketing/general/beta-new-email-editor/email-authoring.md)
-            + [E-Mail-Vorlagen](product-docs/email-marketing/general/beta-new-email-editor/email-templates.md)
+         + Beta New Email Designer {#beta-new-email-designer}
+            + [Neue Übersicht über Email Designer (Beta)](product-docs/email-marketing/general/beta-new-email-designer/overview.md)
+            + [E-Mail-Authoring](product-docs/email-marketing/general/beta-new-email-designer/email-authoring.md)
+            + [E-Mail-Vorlagen](product-docs/email-marketing/general/beta-new-email-designer/email-templates.md)
          + Erstellen einer E-Mail {#creating-an-email}
             + [E-Mail genehmigen](product-docs/email-marketing/general/creating-an-email/approve-an-email.md)
             + [Erstellen einer E-Mail &quot;Nur Text&quot;](product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)
