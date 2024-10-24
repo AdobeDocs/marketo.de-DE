@@ -3,9 +3,9 @@ description: Flow Step Service - Marketo Docs - Produktdokumentation
 title: Flow-Schritt-Service
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
 feature: Smart Campaigns
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 91dde9461b1bfa38aece5491f3f8b311dd6a91fd
 workflow-type: tm+mt
-source-wordcount: '1210'
+source-wordcount: '1234'
 ht-degree: 0%
 
 ---
@@ -31,6 +31,10 @@ Klicken Sie auf **[!UICONTROL Weiter]** , um zum Abschnitt &quot;Dienstanmeldein
 Um auf den installierten Dienst zugreifen zu können, muss Marketo über gültige API-Anmeldeinformationen verfügen. Diese Anmeldeinformationen sollten Sie von Ihrem Dienstleister erhalten. Dienste verfügen über drei verschiedene Authentifizierungsoptionen. Daher kann eine von drei verschiedenen Aufforderungen zur Einreichung von Anmeldeinformationen angezeigt werden: **API-Schlüssel**, der nur ein Eingabefeld enthält, **Grundlegende Authentifizierung**, für das ein Benutzername und ein Kennwort erforderlich sind und möglicherweise auch ein Feld mit dem Namen Realm erforderlich ist, und **OAuth2** mit dem Zuschuss _Client-Anmeldeinformationen_, was eine _Client-ID_ erfordert. 10}Client-Geheimnis _._
 
 Wenn Sie Ihre Anmeldeinformationen speichern, versucht Marketo, den Statusendpunkt des Dienstes aufzurufen, um zu überprüfen, ob sie gültig sind. Wenn die angegebenen Anmeldeinformationen ungültig sind, wird ein Fehler angezeigt, der dies angibt.
+
+>[!CAUTION]
+>
+>Wenn ein Service Provider erstellt und gelöscht wird, können Sie künftig nicht mehr dessen Service Provider-, API-, Trigger- oder Filternamen wiederverwenden.
 
 ## Onboarding-Anleitung (optional) {#onboarding-guide}
 
