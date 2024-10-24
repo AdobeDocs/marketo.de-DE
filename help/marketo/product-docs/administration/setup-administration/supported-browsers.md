@@ -4,10 +4,10 @@ description: Unterstützte Browser - Marketo Docs - Produktdokumentation
 title: Unterstützte Browser
 exl-id: 58c35407-ddc5-4932-9853-aeb4d47bab7f
 feature: Administration, Getting Started
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 63cd902df11ec13586ab565f0151b7cd47f2b423
 workflow-type: tm+mt
-source-wordcount: '35'
-ht-degree: 8%
+source-wordcount: '64'
+ht-degree: 10%
 
 ---
 
@@ -21,5 +21,10 @@ Marketo unterstützt derzeit die folgenden Browser:
 | [[!DNL Mozilla Firefox]](https://www.mozilla.org/en-US/firefox/new/){target="_blank"} | latest |
 | [[!DNL Apple Safari]](https://www.apple.com/safari/){target="_blank"} | latest |
 | [[!DNL Microsoft Edge]](https://www.microsoft.com/en-us/windows/microsoft-edge){target="_blank"} | latest |
+
+
+>[!NOTE]
+>
+>Für Benutzer, die mit Adobe Identity](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} in [Marketo migriert wurden, werden alle Browser sowohl unter Mac als auch unter Windows unterstützt, mit Ausnahme von Microsoft Edge im strikten Modus.
 
 Um das beste Erlebnis zu erzielen, halten Sie Ihren Browser auf dem neuesten Stand **!**
