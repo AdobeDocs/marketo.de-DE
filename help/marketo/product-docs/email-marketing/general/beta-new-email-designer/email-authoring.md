@@ -4,10 +4,10 @@ title: E-Mail-Authoring
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 22f667b27168eafe51df75f81be74e18f5497c3f
+source-git-commit: bdc3d0531cb8c0b25fef49b6d82d0877445d768d
 workflow-type: tm+mt
-source-wordcount: '1524'
-ht-degree: 4%
+source-wordcount: '1455'
+ht-degree: 3%
 
 ---
 
@@ -155,38 +155,23 @@ Wählen Sie eine der vordefinierten Vorlagen für einen Vorsprung im E-Mail-Vorl
 
 ### Assets hinzufügen {#add-assets}
 
-```
-ADD ASSETS OR ADD IMAGES? WHAT OTHER ASSETS CAN YOU ADD?
-```
+Fügen Sie Bilder hinzu, die im Abschnitt [Bilder und Dateien](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} Ihrer Marketo Engage-Instanz gespeichert sind.
 
-```
-Access assets stored in the Assets library. IMAGES AND FILES ONLY? - For now, only from Marketo Images and Files section!!!
-```
+>[!NOTE]
+>
+>Sie können im neuen Designer nur Bilder hinzufügen, derzeit keine anderen Dateitypen.
 
 1. Um auf Ihre Bilder zuzugreifen, klicken Sie auf das Symbol Asset-Auswahl .
 
-   SCREENSHOT
+   ![](assets/authoring-add-assets-1.png)
 
 1. Ziehen Sie das gewünschte Bild in eine Strukturkomponente.
 
-   SCREENSHOT
+   ![](assets/authoring-add-assets-2.png)
 
    >[!NOTE]
    >
    >Um ein vorhandenes Bild zu ersetzen, wählen Sie es aus und klicken Sie dann auf der Registerkarte Einstellungen auf der rechten Seite auf **Asset auswählen** .
-
-Klicken Sie auf Bedingungsinhalt aktivieren , um dynamischen Inhalt hinzuzufügen und den Inhalt basierend auf Bedingungsregeln an die Zielprofile anzupassen.
-
-
-
-Bei Bedarf können Sie Ihre E-Mail weiter personalisieren, indem Sie im erweiterten Menü auf In Code-Editor wechseln klicken. Dadurch können Sie den E-Mail-Quellcode bearbeiten, z. B. um Tracking- oder benutzerdefinierte HTML-Tags hinzuzufügen.
-
-VORSICHT
-Sie können nach dem Wechsel zum Code-Editor nicht zum visuellen Designer für diese E-Mail zurückkehren.
-
-Sobald Ihr Inhalt fertig ist, klicken Sie auf die Schaltfläche Inhalt simulieren , um das Rendering zu überprüfen. Sie können zwischen der Desktop- oder der mobilen Ansicht wählen.
-
-Wenn Sie fertig sind, klicken Sie auf Speichern .
 
 ### Ebenen, Einstellungen und Stile {#layers-settings-styles}
 

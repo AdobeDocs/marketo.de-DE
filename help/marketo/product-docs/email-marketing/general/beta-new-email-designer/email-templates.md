@@ -4,9 +4,9 @@ title: E-Mail-Vorlagen
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 91dde9461b1bfa38aece5491f3f8b311dd6a91fd
+source-git-commit: bdc3d0531cb8c0b25fef49b6d82d0877445d768d
 workflow-type: tm+mt
-source-wordcount: '1755'
+source-wordcount: '1683'
 ht-degree: 5%
 
 ---
@@ -81,8 +81,6 @@ Sie können vorhandenen HTML-Inhalt importieren, um E-Mail-Vorlagen zu erstellen
 
 1. Um die Inhaltskomponenten von Email Designer nutzen zu können, klicken Sie auf die Registerkarte **HTML-Converter** und dann auf **Convert**.
 
-   SCREENSHOT
-
    >[!CAUTION]
    >
    >Einen `<table>`-Tag als erste Ebene in einer HTML-Datei zu verwenden kann zum Verlust des Stils führen, einschließlich der Einstellungen für Hintergrund und Breite im Tag der obersten Ebene.
@@ -151,38 +149,23 @@ Wählen Sie eine der vordefinierten Vorlagen für einen Vorsprung im E-Mail-Vorl
 
 ### Assets hinzufügen {#add-assets}
 
-```
-ADD ASSETS OR ADD IMAGES? WHAT OTHER ASSETS CAN YOU ADD??
-```
+Fügen Sie Bilder hinzu, die im Abschnitt [Bilder und Dateien](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} Ihrer Marketo Engage-Instanz gespeichert sind.
 
-```
-Access assets stored in the Assets library. IMAGES AND FILES ONLY? - SEE EMAIL AUTHORING FOR ANSWERS - KG
-```
+>[!NOTE]
+>
+>Sie können im neuen Designer nur Bilder hinzufügen, derzeit keine anderen Dateitypen.
 
 1. Um auf Ihre Bilder zuzugreifen, klicken Sie auf das Symbol Asset-Auswahl .
 
-   SCREENSHOT
+   ![](assets/add-assets-1.png)
 
 1. Ziehen Sie das gewünschte Bild in eine Strukturkomponente.
 
-   SCREENSHOT
+   ![](assets/add-assets-2.png)
 
    >[!NOTE]
    >
    >Um ein vorhandenes Bild zu ersetzen, wählen Sie es aus und klicken Sie dann auf der Registerkarte Einstellungen auf der rechten Seite auf **Asset auswählen** .
-
-Klicken Sie auf Bedingungsinhalt aktivieren , um dynamischen Inhalt hinzuzufügen und den Inhalt basierend auf Bedingungsregeln an die Zielprofile anzupassen.
-
-
-
-Bei Bedarf können Sie Ihre E-Mail weiter personalisieren, indem Sie im erweiterten Menü auf In Code-Editor wechseln klicken. Dadurch können Sie den E-Mail-Quellcode bearbeiten, z. B. um Tracking- oder benutzerdefinierte HTML-Tags hinzuzufügen.
-
-VORSICHT
-Sie können nach dem Wechsel zum Code-Editor nicht zum visuellen Designer für diese E-Mail zurückkehren.
-
-Sobald Ihr Inhalt fertig ist, klicken Sie auf die Schaltfläche Inhalt simulieren , um das Rendering zu überprüfen. Sie können zwischen der Desktop- oder der mobilen Ansicht wählen.
-
-Wenn Sie fertig sind, klicken Sie auf Speichern .
 
 ### Ebenen, Einstellungen und Stile {#layers-settings-styles}
 
@@ -295,7 +278,7 @@ Nutzen Sie die im visuellen E-Mail-Editor verfügbaren Ansicht- und Inhaltsvalid
 
 Über die Optionen **Mehr** im Inhaltseditor können Sie die folgenden Aktionen ausführen:
 
-SCREENSHOT
+![](assets/more-options-1.png)
 
 * **Vorlage zurücksetzen**: Wählen Sie diese Option aus, um die Arbeitsfläche des visuellen E-Mail-Designers in eine leere Verspätung zu leeren und die Erstellung von Inhalten neu zu starten.
 
@@ -307,7 +290,7 @@ SCREENSHOT
 
 Klicken Sie auf der Listenseite _E-Mail-Vorlagen_ auf den Namen einer E-Mail-Vorlage, um deren Details anzuzeigen.
 
-SCREENSHOT
+(assets/view-template-details-1.png
 
 Grundlegende Details wie Name und Beschreibung können bearbeitet werden. Klicken Sie außerhalb des bearbeiteten Felds auf , um Ihre Änderungen zu speichern.
 
@@ -323,7 +306,7 @@ Wenn aktive Warnhinweise vorhanden sind (Fehler/Warnungen für die E-Mail-Vorlag
 
 Klicken Sie in der Zusammenfassung der E-Mail-Vorlage auf den Tab **Verwendet von** , um Details darüber anzuzeigen, wo diese E-Mail-Vorlage in Marketo Engage verwendet wurde.
 
-SCREENSHOT
+![](assets/email-template-used-by-references-1.png)
 
 ## E-Mail-Vorlagen bearbeiten {#edit-email-templates}
 
@@ -339,7 +322,7 @@ Es gibt zwei Möglichkeiten, eine E-Mail-Vorlage zu duplizieren:
 
 * Klicken Sie rechts in den E-Mail-Vorlagendetails auf **Mehr** und wählen Sie **Duplizieren** aus.
 
-SCREENSHOT
+  ![](assets/duplicate-email-templates-1.png)
 
 * Klicken Sie auf der Listenseite _E-Mail-Vorlagen_ auf das Symbol Mehr Aktionen (drei Punkte) der gewünschten E-Mail-Vorlage und wählen Sie **Duplizieren** aus.
 
@@ -357,7 +340,7 @@ Es gibt zwei Möglichkeiten, eine E-Mail-Vorlage zu löschen.
 
 * Klicken Sie rechts in den E-Mail-Vorlagendetails auf **Mehr** und wählen Sie **Löschen** aus.
 
-SCREENSHOT
+  ![](assets/delete-email-templates-1.png)
 
 * Klicken Sie auf der Listenseite _E-Mail-Vorlagen_ auf das Symbol Mehr Aktionen (drei Punkte) der gewünschten E-Mail-Vorlage und wählen Sie **Löschen** aus.
 
