@@ -4,7 +4,7 @@ title: E-Mail-Authoring
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 69539efa25b471a355b768f0d2fdabb6ae360dba
+source-git-commit: 17739fcc03bdcdee9f55cfc1f1776ac76003ea55
 workflow-type: tm+mt
 source-wordcount: '1455'
 ht-degree: 3%
@@ -17,7 +17,7 @@ Erfahren Sie, wie Sie E-Mails in der neuen Marketo Engage E-Mail-Designer erstel
 
 >[!IMPORTANT]
 >
->Dieser Artikel ist nur für Mitglieder der Beta-Version &quot;New Marketo Engage Email Designer&quot; bestimmt. Bitte nicht verbreiten.
+>Dieser Artikel richtet sich nur an Mitglieder der neuen Beta-Marketo Engage-E-Mail-Designer. Bitte nicht verbreiten.
 
 ## Erstellen einer E-Mail {#create-an-email}
 
