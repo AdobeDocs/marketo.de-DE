@@ -4,10 +4,10 @@ description: Prädiktive Inhalte für Rich Media bearbeiten - Marketo-Dokumente 
 title: Predictive Content für Rich Media bearbeiten
 exl-id: 6c1161dd-cefe-4b0f-8942-396d4b7db701
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 8958bbd03c3c6b1c6ac4769c229ad28590191fb3
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 1%
+source-wordcount: '216'
+ht-degree: 0%
 
 ---
 
@@ -30,6 +30,10 @@ Hier erfahren Sie, wie Sie Ihre prädiktiven Inhalte für Rich Media einrichten.
 1. Sie werden feststellen, dass Sie separate Bilder für E-Mail und Rich Media haben können. Um das Bild hinzuzufügen/zu ändern, fügen Sie die Bild-URL in das Textfeld ein.
 
    ![](assets/image2017-10-3-9-3a42-3a20.png)
+
+   >[!NOTE]
+   >
+   >JPEG von Bildern mit dem Farbmodell CMYK wird für Rich Media nicht unterstützt. JPEG müssen mithilfe eines Farbprofils in sRGB konvertiert werden. Wählen Sie diese Einstellung beim Exportieren aus Ihrem Bildeditor aus.
 
 1. Geben Sie eine **Beschreibung** ein.
 
