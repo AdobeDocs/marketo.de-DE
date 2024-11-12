@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 22f667b27168eafe51df75f81be74e18f5497c3f
+source-git-commit: 342d52439a21668a3bf94e5149710b20e4ddb83f
 workflow-type: tm+mt
-source-wordcount: '9370'
+source-wordcount: '9376'
 ht-degree: 4%
 
 ---
@@ -112,7 +112,7 @@ ht-degree: 4%
          + [GoToWebinar als LaunchPoint-Dienst hinzufügen](product-docs/administration/additional-integrations/add-gotowebinar-as-a-launchpoint-service.md)
          + [Hinzufügen von Level 3-Webtreffern als LaunchPoint-Dienst](product-docs/administration/additional-integrations/add-level-3-web-meeting-as-a-launchpoint-service.md)
          + [Hinzufügen des Munchkin-Trackingcodes zu Ihrer Website](product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
-         + [Häufig gestellte Fragen zur Munchkin-Verfolgung der nächsten Generation](product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md)
+         + [Häufig gestellte Fragen zum Munchkin-Tracking der nächsten Generation](product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md)
          + [Single Sign-On zu einem Portal hinzufügen](product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
          + [Webex als LaunchPoint-Dienst hinzufügen](product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
          + [Hinzufügen von Zoom als LaunchPoint-Dienst](product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
@@ -144,6 +144,7 @@ ht-degree: 4%
          + [Bearbeiten Sie die Meldung &quot;Als Webseite anzeigen&quot;](product-docs/administration/email-setup/edit-the-view-as-web-page-message.md)
          + [Kommunikationsbeschränkungen aktivieren](product-docs/administration/email-setup/enable-communication-limits.md)
          + [Aktivieren von Personenbeschränkungen für Smart-Kampagnen](product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md)
+         + [Verfolgung der Öffnung von E-Mails auf Kampagnenebene](product-docs/administration/email-setup/email-open-tracking-at-campaign-level.md)
          + [Filtern der E-Mail-Bot-Aktivität](product-docs/administration/email-setup/filtering-email-bot-activity.md)
          + [Abmelde-Text entfernen](product-docs/administration/email-setup/remove-unsubscribe-text-from-the-admin-email-section.md)
       + Feldverwaltung {#field-management}
@@ -331,7 +332,7 @@ ht-degree: 4%
             + [Eigentümer in Microsoft ändern](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/change-owner-in-microsoft.md)
             + [Aufgabe in Microsoft erstellen](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/create-task-in-microsoft.md)
             + [Personen mit Microsoft synchronisieren](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md)
-         + Salesforce-Fluss-Aktionen {#salesforce-flow-actions}
+         + Salesforce-Flussaktionen {#salesforce-flow-actions}
             + [Zu SFDC-Kampagne hinzufügen](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/add-to-sfdc-campaign.md)
             + [Eigentümer ändern](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md)
             + [Status in SFDC-Kampagne ändern](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md)
@@ -527,7 +528,7 @@ ht-degree: 4%
          + [Verstehen der Zielverfolgung und der geplanten Registrierungen](product-docs/core-marketo-concepts/predictive-audiences/understanding-goal-tracking-and-projected-registrations.md)
    + CRM-Synchronisation {#crm-sync}
       + Microsoft Dynamics Sync {#microsoft-dynamics}
-         + [Grundlagen zur Synchronisierung von Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
+         + [Informationen zur Microsoft Dynamics-Synchronisierung](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
          + [Marketo-Plug-in-Versionen für Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)
          + [Plug-in-Versionen für Microsoft Dynamics MSI](product-docs/crm-sync/microsoft-dynamics-sync/plug-in-releases-for-microsoft-dynamics-msi.md)
          + [Synchronisierungsprobleme bei der Dynamics-Überprüfung beheben](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)
@@ -536,7 +537,7 @@ ht-degree: 4%
             + [Erteilen der Zustimmung für die Kunden-ID und App-Registrierung](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md)
             + [Aktualisieren der Marketo-Lösung für Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)
             + [Authentifizierungsmethode für Dynamics neu konfigurieren](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md)
-            + [Überprüfen der Synchronisierung mit Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
+            + [Microsoft Dynamics Sync überprüfen](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
             + [Anzeigen der Organisationsdienst-URL](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)
             + Microsoft Dynamics 2016/Dynamics 365 On-Premise {#microsoft-dynamics-2016-dynamics-365-on-premises}
                + [Schritt 1 von 3: Installieren der Marketo-Lösung - On-Premises 2015/2016 Dynamics 365 On-Premises](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md)
@@ -554,7 +555,7 @@ ht-degree: 4%
             + Herstellen einer Verbindung zu älteren Versionen {#connecting-to-legacy-versions}
                + [Schritt 1 von 3: Installieren der Marketo-Lösung (On-Premises 2011)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md)
                + [Schritt 2 von 3: Einrichten des Marketo Sync User in Dynamics (On-Premises 2011)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md)
-               + [Schritt 3: Verbinden von Microsoft Dynamics mit Marketo (On-Premises 2011)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2011.md)
+               + [3. Schritt: Verbinden von Microsoft Dynamics mit Marketo (On-Premises 2011)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2011.md)
                + [Schritt 1 von 3: Installieren der Marketo-Lösung in Dynamics (On-Premises 2013)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2013.md)
                + [Schritt 2 von 3: Konfigurieren der Synchronisierungsbenutzer für Marketo (On-Premises 2013)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-configure-2013.md)
                + [3. Schritt: Marketo und Dynamics verbinden (On-Premises 2013)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2013.md)
@@ -579,13 +580,13 @@ ht-degree: 4%
          + Details zum benutzerdefinierten Synchronisierungsfilter für Dynamics {#custom-dynamics-sync-filter-details}
             + [Erstellen eines benutzerdefinierten Synchronisierungsfilters für Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md)
             + [Benutzerdefinierte Synchronisierungsfilterregeln für eine E-Mail-Adresse](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md)
-            + [Microsoft Dynamics Sync-Filter: Zusammenführen](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-merge.md)
-            + [Synchronisierungsfilter für Microsoft Dynamics: Qualifizieren](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-qualify.md)
+            + [Microsoft Dynamics Sync Filter: Merge](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-merge.md)
+            + [Microsoft Dynamics Sync Filter: Qualify](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-qualify.md)
             + [Festlegen eines benutzerdefinierten Standardfeldpräfixes](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/set-a-default-custom-field-prefix.md)
          + [Registrieren einer App bei Azure, um Ihre Client-ID/App-ID zu erhalten](product-docs/crm-sync/microsoft-dynamics-sync/register-an-app-with-azure-to-acquire-your-client-id-app-id.md)
          + [Lead oder Kontakt löschen](product-docs/crm-sync/microsoft-dynamics-sync/deleting-a-lead-or-contact.md)
       + Salesforce Sync {#salesforce-sync}
-         + [Erläuterungen zur Salesforce-Synchronisierung](product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
+         + [Informationen zur Salesforce-Synchronisierung](product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
          + Einrichten {#setup}
             + Enterprise/Unlimited Edition {#enterprise-unlimited-edition}
                + [Schritt 1 von 3: Hinzufügen von Marketo-Feldern zu Salesforce (Enterprise/Unlimited)](product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
@@ -605,26 +606,26 @@ ht-degree: 4%
                + [Aktivieren der nicht englischsprachigen benutzerdefinierten Objektsynchronisierung](product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-non-english-custom-object-sync.md)
                + [Standardnamen der Person und des Unternehmens festlegen](product-docs/crm-sync/salesforce-sync/setup/optional-steps/set-default-person-last-name-and-company-name.md)
                + [E-Mail-Benachrichtigungen für Lead-Inhaber deaktivieren](product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md)
-         + Details zur SFDC-Synchronisierung {#sfdc-sync-details}
+         + SFDC-Synchronisierungsdetails {#sfdc-sync-details}
             + [Hinzufügen eines vorhandenen Salesforce-Felds zur Marketo-Synchronisierung](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md)
-            + [Standardmäßige Zuordnung von Salesforce-Feldern](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/default-salesforce-field-mapping.md)
-            + [Ausblenden eines Salesforce-Felds in der Marketo-Synchronisierung](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md)
+            + [Standardmäßige Salesforce-Feldzuordnung](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/default-salesforce-field-mapping.md)
+            + [Ausblenden eines Salesforce-Felds bei der Marketo-Synchronisierung](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md)
             + [Abgleichen von Programmstatus und Salesforce-Kampagnenstatus vor der Synchronisierung](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md)
             + [SFDC Sync: Kontosynchronisierung](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md)
-            + [SFDC-Synchronisierung: Aktivitätensynchronisierung](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-activity-sync.md)
-            + [SFDC-Synchronisation: Kampagnensynchronisierung](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)
+            + [SFDC Sync: Activity Sync](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-activity-sync.md)
+            + [SFDC Sync: Campaign Sync](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)
             + [SFDC Sync: Kontaktsynchronisierung](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md)
-            + [SFDC Sync: Konvertieren eines Leads in einen Kontakt in Salesforce](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-converting-a-lead-into-a-contact-in-salesforce.md)
-            + [SFDC Sync: Benutzerdefinierte Objektsynchronisierung](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync.md)
+            + [SFDC-Synchronisation: Konvertieren eines Leads in einen Kontakt in Salesforce](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-converting-a-lead-into-a-contact-in-salesforce.md)
+            + [SFDC Sync: Synchronisierung benutzerdefinierter Objekte](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync.md)
             + [SFDC-Synchronisation: Löschen eines Leads/Kontakts](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-deleting-a-lead-contact.md)
             + [SFDC Sync: Feldsynchronisierung](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md)
             + [SFDC-Synchronisation: Synchronisation von Lead-/Kontoinhabern](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-account-owner-sync.md)
             + [SFDC Sync: Lead Queue](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-queue.md)
             + [SFDC Sync: Lead Sync](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-sync.md)
-            + [SFDC-Synchronisation: Zusammenführen von Lead/Kontakt/Person](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-merging-a-lead-contact-person.md)
+            + [SFDC Sync: Zusammenführen von Lead/Kontakt/Person](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-merging-a-lead-contact-person.md)
             + [SFDC Sync: Opportunity Sync](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-opportunity-sync.md)
          + [Hinzufügen/Entfernen von Picklist-Werten](product-docs/crm-sync/salesforce-sync/add-remove-picklist-values.md)
-         + [Salesforce-Synchronisierung aktivieren/deaktivieren](product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)
+         + [Aktivieren/Deaktivieren der Salesforce-Synchronisierung](product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)
          + [Implizite Salesforce-Aktionen](product-docs/crm-sync/salesforce-sync/implied-salesforce-actions.md)
          + [Anmelden mit OAuth 2.0](product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md)
          + [Salesforce Sync-Rücklog-Metriken](product-docs/crm-sync/salesforce-sync/salesforce-sync-backlog-metrics.md)
@@ -1200,31 +1201,31 @@ ht-degree: 4%
       + CRM {#crm}
          + Salesforce-Anpassung {#salesforce-customization}
             + [Aktivitätstyp Feld für Aufgaben (SFDC)](product-docs/marketo-sales-connect/crm/salesforce-customization/activity-type-field-on-tasks-sfdc.md)
-            + [Hinzufügen von Verkaufsverbindungs-Schaltflächen zu Salesforce](product-docs/marketo-sales-connect/crm/salesforce-customization/add-sales-connect-buttons-to-salesforce.md)
-            + [Erstellen eines Salesforce-Prioritätsaufrufberichts mit Sales Connect-Daten](product-docs/marketo-sales-connect/crm/salesforce-customization/create-a-salesforce-priority-call-report-with-sales-connect-data.md)
+            + [Hinzufügen von Schaltflächen für die Verkaufsverbindung zu Salesforce](product-docs/marketo-sales-connect/crm/salesforce-customization/add-sales-connect-buttons-to-salesforce.md)
+            + [Erstellen eines Salesforce Priority Call-Berichts mit Sales Connect-Daten](product-docs/marketo-sales-connect/crm/salesforce-customization/create-a-salesforce-priority-call-report-with-sales-connect-data.md)
             + [Erstellen von Workflow-Regeln in Salesforce](product-docs/marketo-sales-connect/crm/salesforce-customization/creating-workflow-rules-in-salesforce.md)
             + [Anpassungsversionen](product-docs/marketo-sales-connect/crm/salesforce-customization/customization-versions.md)
             + [Barrierefreiheit von Salesforce-Feldern bearbeiten](product-docs/marketo-sales-connect/crm/salesforce-customization/edit-salesforce-field-accesibility.md)
             + [Anleitung zum Verbinden der Verkaufsverbindung mit Ihrer Salesforce-Sandbox](product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-connect-sales-connect-to-your-salesforce-sandbox.md)
             + [Installieren von Anpassungen in Ihrer Salesforce-Sandbox](product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-customizations-in-your-salesforce-sandbox.md)
-            + [Installieren der Schaltflächen für Verkaufsstellen in Salesforce](product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-sales-connect-buttons-in-salesforce.md)
-            + [Salesforce-ID in Sales Connect importieren](product-docs/marketo-sales-connect/crm/salesforce-customization/import-a-salesforce-id-into-sales-connect.md)
+            + [Installieren der Schaltflächen für die Verkaufsverbindung in Salesforce](product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-sales-connect-buttons-in-salesforce.md)
+            + [Importieren einer Salesforce ID in Sales Connect](product-docs/marketo-sales-connect/crm/salesforce-customization/import-a-salesforce-id-into-sales-connect.md)
             + [Installieren Sie die Ereignisfelder für &quot;Sales Connect&quot; in den Aktivitätsverlauf.](product-docs/marketo-sales-connect/crm/salesforce-customization/install-sales-connect-event-fields-on-activity-history.md)
-            + [Installation der Salesforce-Anpassung für Professional Edition-Kunden](product-docs/marketo-sales-connect/crm/salesforce-customization/install-salesforce-customization-for-professional-edition-customers.md)
+            + [Installieren der Salesforce-Anpassung für Professional Edition-Kunden](product-docs/marketo-sales-connect/crm/salesforce-customization/install-salesforce-customization-for-professional-edition-customers.md)
             + [Push to Sales Connect](product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md)
             + [Reporting-Dashboards in Salesforce](product-docs/marketo-sales-connect/crm/salesforce-customization/reporting-dashboards-in-salesforce.md)
             + [Sales Connect-Anpassungen für CRM](product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md)
             + [Verwenden von Massenaktionen in Salesforce Classic](product-docs/marketo-sales-connect/crm/salesforce-customization/using-bulk-actions-in-salesforce-classic.md)
-            + [Verwenden von Massenaktionen in Salesforce-Blitzen](product-docs/marketo-sales-connect/crm/salesforce-customization/using-bulk-actions-in-salesforce-lightning.md)
+            + [Verwenden von Massenaktionen im Salesforce-Blitzen](product-docs/marketo-sales-connect/crm/salesforce-customization/using-bulk-actions-in-salesforce-lightning.md)
             + [Deinstallieren von Marketo Sales Connect von Salesforce Classic](product-docs/marketo-sales-connect/crm/salesforce-customization/uninstall-marketo-sales-connect-from-salesforce-classic.md)
             + [Deinstallieren von Marketo Sales Connect von Salesforce Lightning](product-docs/marketo-sales-connect/crm/salesforce-customization/uninstall-marketo-sales-connect-from-salesforce-lightning.md)
          + Salesforce-Integration {#salesforce-integration}
             + [Konfigurieren der Anpassung der Salesforce-Aktivitätsdetails](product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
-            + [Verbinden Ihres Sales Connect-Kontos mit Salesforce](product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
+            + [Verbinden Ihres Verkaufskontos mit Salesforce](product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
             + [Salesforce von Ihrem Sales Connect-Konto trennen](product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md)
             + [Fehlerbehebung &quot;Wir konnten Ihre Anfrage nicht authentifizieren&quot;bei der Verbindung mit Salesforce](product-docs/marketo-sales-connect/crm/salesforce-integration/how-to-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce.md)
             + [Reply Logging](product-docs/marketo-sales-connect/crm/salesforce-integration/reply-logging.md)
-            + [Salesforce-Diagnose](product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-diagnostics.md)
+            + [Salesforce Diagnostics](product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-diagnostics.md)
             + [Salesforce-Synchronisationseinstellungen](product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
             + [Tracking-Aktivität wird nicht angezeigt](product-docs/marketo-sales-connect/crm/salesforce-integration/tracking-activity-not-showing.md)
       + E-Mail-Plugins {#email-plugins}
@@ -1333,7 +1334,7 @@ ht-degree: 4%
          + [Ergebnisse der Aufrufe](product-docs/marketo-sales-connect/phone/call-outcomes.md)
          + [Gründe für Aufrufe](product-docs/marketo-sales-connect/phone/call-reasons.md)
          + [Anmeldung zum Aktivitätsverlauf nicht](product-docs/marketo-sales-connect/phone/didnt-log-to-activity-history.md)
-         + [Hat sich nicht bei Salesforce angemeldet](product-docs/marketo-sales-connect/phone/didnt-log-to-salesforce.md)
+         + [Anmeldung bei Salesforce nicht](product-docs/marketo-sales-connect/phone/didnt-log-to-salesforce.md)
          + [Aufrufaufzeichnung aktivieren](product-docs/marketo-sales-connect/phone/enable-call-recording.md)
          + [Gründe für Protokollaufrufe und Ergebnisse von Aufrufen an Salesforce](product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
          + [Sales Phone International - Anruf](product-docs/marketo-sales-connect/phone/sales-phone-international-calling.md)
@@ -1343,7 +1344,7 @@ ht-degree: 4%
          + [Einverständniseinstellungen für zwei Parteien](product-docs/marketo-sales-connect/phone/two-party-consent-settings.md)
       + Aufgaben {#tasks}
          + [Erstellen und Zuweisen von Erinnerungsaufgaben](product-docs/marketo-sales-connect/tasks/create-and-assign-reminder-tasks.md)
-         + [Erinnern von Aufgabensynchronisierung mit Salesforce](product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md)
+         + [Reminder-Aufgabensynchronisierung mit Salesforce](product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md)
          + [Synchronisieren von Sales Connect-Aufgaben mit Salesforce zum ersten Mal](product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
       + Vorlagen {#templates}
          + [Automatische Abmeldung zu einer Vorlage hinzufügen](product-docs/marketo-sales-connect/templates/add-auto-unsubscribes-to-a-template.md)
@@ -1382,7 +1383,7 @@ ht-degree: 4%
                + [E-Mail-Signatur hinzufügen oder aktualisieren](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-or-update-your-email-signature.md)
                + [Identität hinzufügen](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-identity.md)
          + Admin {#admin}
-            + [Automatische Anmeldung von Salesforce](product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md)
+            + [Automatische Anmeldung über Salesforce](product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md)
             + [Blockierte Domänen](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
             + [Neue Admin mit Marketo verbinden](product-docs/marketo-sales-insight/actions/admin/connect-new-admin-to-marketo.md)
             + [Inhaltssperre](product-docs/marketo-sales-insight/actions/admin/content-lockdown.md)
@@ -1413,12 +1414,12 @@ ht-degree: 4%
             + Salesforce-Integration {#salesforce-integration}
                + [Konfigurieren der Anpassung der Salesforce-Aktivitätsdetails](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
                + [Verbinden Ihres Sales Insight-Aktionskontos mit Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md)
-               + [Salesforce von Sales Insight-Aktionen trennen](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/disconnect-salesforce-from-sales-insight-actions.md)
+               + [Trennen von Salesforce von Sales Insight-Aktionen](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/disconnect-salesforce-from-sales-insight-actions.md)
                + [Reply Logging](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/reply-logging.md)
-               + [Salesforce-Diagnose](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-diagnostics.md)
+               + [Salesforce Diagnostics](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-diagnostics.md)
                + [Einrichten einer Sandbox für Einblicke in Verkaufsaktionen](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/set-up-a-sales-insight-actions-sandbox.md)
                + [Vertriebsaktivitäten mit Salesforce synchronisieren](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
-            + Salesforce Package Configuration {#salesforce-package-configuration}
+            + Salesforce-Paketkonfiguration {#salesforce-package-configuration}
                + [Konfiguration von Sales Insight-Aktionen in Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md)
                + [Protokollieren von Attributen für Verkaufsaktivitäten in Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md)
                + [Hinzufügen von Aktionsschaltflächen zur Salesforce-Listenansicht](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md)
@@ -1538,7 +1539,7 @@ ht-degree: 4%
          + Einrichten und Verwenden von {#setting-up-and-using}
             + [Hinzufügen eines Leads/Kontakts zu einer Marketo-Kampagne aus Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)
             + [Erforderliche Felder für die Synchronisierung von Marketo mit Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md)
-            + [Senden einer Marketo Sales-E-Mail aus Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md)
+            + [Senden einer Marketo Sales-E-Mail von Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md)
             + [Einrichten von Sternen und Flammen für Lead-/Kontaktdatensätze](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)
          + Deinstallieren von {#uninstalling}
             + [Globale MS Dynamics-Synchronisierung deaktivieren](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/disable-global-ms-dynamics-sync.md)
@@ -1547,13 +1548,13 @@ ht-degree: 4%
             + [Upgrade der Marketo Sales Insight-Lösung für Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/updating/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
       + MSI für Salesforce {#msi-for-salesforce}
          + Installation {#installation}
-            + [Installieren des Marketo Sales Insight-Pakets in Salesforce AppExchange](product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
+            + [Installieren des Marketo Sales Insight-Pakets auf Salesforce AppExchange](product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
          + Konfiguration {#configuration}
             + [Konfigurieren von Marketo Sales Insight in Salesforce Enterprise/Unlimited](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
             + [Konfigurieren von Marketo Sales Insight in Salesforce Professional Edition](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
             + [Konfiguration für bestehende Kunden](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md)
-            + [Marketo Sales Insight-Konfigurationsregisterkarte in Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
-            + [Hinzufügen der Marketo-Registerkarte zu Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md)
+            + [Registerkarte &quot;Marketo Sales Insight-Konfiguration&quot;in Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
+            + [Registerkarte &quot;Marketo&quot;zu Salesforce hinzufügen](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md)
             + [Sales Insight-Seite für Marketo-Administratoren](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/sales-insight-page-for-marketo-admins.md)
             + [Berechtigungssatz &quot;Sales Insight&quot;hinzufügen](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md)
             + [Entfernen von Sales Insight Access](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md)
@@ -1591,11 +1592,11 @@ ht-degree: 4%
                   + [Trigger-Token für interessante Momente](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)
                   + [Verwenden interessanter Momente](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)
          + MSI für Mobilgeräte {#msi-for-mobile}
-            + [Beste Betten in Salesforce1](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)
+            + [Best Practices in Salesforce1](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)
             + [Installieren und Konfigurieren von Marketo Sales Insight in Salesforce1](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/install-and-configure-marketo-sales-insight-in-salesforce1.md)
             + [Interessante Momente in Salesforce1](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
-            + [Anzeigen von Lead-Feeds in Salesforce1](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/seeing-lead-feed-in-salesforce1.md)
-            + [Senden von Marketo-E-Mail- und -Campaign- und Watchlist-Aktionen in Salesforce1](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
+            + [Anzeigen des Lead-Feeds in Salesforce1](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/seeing-lead-feed-in-salesforce1.md)
+            + [Senden von Marketo-E-Mail- und Campaign- sowie Watchlist-Aktionen in Salesforce1](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
          + Upgrade von {#upgrading}
             + [Upgrade Ihres MSI-Pakets](product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md)
       + MSI Outlook-Plugin {#msi-outlook-plugin}
