@@ -4,10 +4,10 @@ title: Versionshinweise zu Dynamic Chat
 feature: Release Information, Dynamic Chat
 hide: true
 hidefromtoc: true
-source-git-commit: 342d52439a21668a3bf94e5149710b20e4ddb83f
+source-git-commit: 236c99d8939f076d93dfcd7988fc89e4c617c113
 workflow-type: tm+mt
-source-wordcount: '356'
-ht-degree: 4%
+source-wordcount: '446'
+ht-degree: 3%
 
 ---
 
@@ -33,7 +33,7 @@ Am Analytics-Dashboard wurden verschiedene Verbesserungen vorgenommen, darunter:
 
 SCREENSHOT
 
-### Umrechnungsbewertung
+### Unterhaltsscoring {#conversation-scoring}
 
 Quantifizieren Sie Ihre Leads anhand der Qualität ihrer Chat-Interaktion und verwenden Sie diese Metrik als Trigger/Filter in Marketo Engage-Smart-Kampagnen. Verwenden Sie das neue Attribut _Konversationsbewertung_ für die folgenden Aktivitäten:
 
@@ -68,3 +68,21 @@ Ab diesem Zeitpunkt ist `abc@test.com` ein Lead ohne Cookie. ANON LEAD?
 Wenn also ein Besucher mit Cookie abc auf eine Seite gelangt und eine E-Mail-ID als `abc@p.com` angibt:
 
 TABELLE
+
+### Optimierte Ladezeit des Konversationsflusses {#optimized-conversation-flow-load-time}
+
+Um das Benutzererlebnis zu verbessern, wird jetzt anstelle eines Leerraums beim Laden des Konversationsflusses ein Shimmer-Ladeprogramm angezeigt. KONVERSATION ODER KONVERSATIONAL?
+
+**before**
+
+GIF
+
+**Nach**
+
+GIF
+
+### Option zum Vererben der Schriftart {#option-to-inherit-font}
+
+Als Benutzer möchte ich meinen Chat-Bot aktivieren, um die Schriftart direkt von der Webseite zu übernehmen, auf der sie geladen wird, anstatt meine Markenschriftart im Dynamic Chat zu verwalten.
+
+Hinweis: Sobald Sie diese Option aktivieren, übernimmt Chatbot die Schriftart, die für das Body-Tag der Seite definiert ist.

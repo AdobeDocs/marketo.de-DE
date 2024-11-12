@@ -3,9 +3,9 @@ description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokument
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: a65ff2cb24b264cd2d3a1c9c7e0109bcf69ac996
+source-git-commit: 236c99d8939f076d93dfcd7988fc89e4c617c113
 workflow-type: tm+mt
-source-wordcount: '559'
+source-wordcount: '548'
 ht-degree: 5%
 
 ---
@@ -79,7 +79,6 @@ Die folgenden Funktionen fallen unter den standardmäßigen Versionszyklus und w
    <li>Gelöschte und zusammengeführte Personen aus E-Mail-Leistungsmetriken filtern</li>
    <li>E-Mails, die nach drei Tagen auf Reaktionsaktivität als <i>abgebrochen</i> gewartet wurden</li>
    <li>Die Anzahl der Öffnungen in E-Mails wird separat für jede Smart-Kampagne angezeigt</li>
-   <li>Verbessertes E-Mail-Aktivitäts-Tracking durch Verfeinerung des Standort des Tracking-Pixels</li>
    </td> 
    <td>Versendet</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md" target="_blank">E-Mail-Leistungsbericht</a></td>
