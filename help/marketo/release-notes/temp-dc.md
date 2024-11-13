@@ -4,9 +4,9 @@ title: Versionshinweise zu Dynamic Chat
 feature: Release Information, Dynamic Chat
 hide: true
 hidefromtoc: true
-source-git-commit: 236c99d8939f076d93dfcd7988fc89e4c617c113
+source-git-commit: 7fbfdc6d34d2f1174e921464d64689b0c5687914
 workflow-type: tm+mt
-source-wordcount: '446'
+source-wordcount: '495'
 ht-degree: 3%
 
 ---
@@ -19,15 +19,15 @@ ht-degree: 3%
 
 Am Analytics-Dashboard wurden verschiedene Verbesserungen vorgenommen, darunter:
 
-* Gesamte angeforderte Live-Chat-Anzahl: Anzahl der Besucher, die für einen &quot;Chat mit Agent&quot;angefordert wurden
+* Gesamtzahl der angeforderten Live-Chat-Anzahl: Anzahl der Besucher, die für einen &quot;Chat mit Agenten&quot;angefordert wurden
 
-* Gesamter vernetzter Live-Chat: Anzahl der verbundenen Besucher im Vergleich zur Gesamtanzahl der angeforderten Besucher für einen &quot;Chat mit Agent&quot;
+* Gesamter vernetzter Live-Chat: Anzahl der verbundenen Besucher im Vergleich zur Gesamtanzahl der angeforderten Besucher für einen &quot;Chat mit Agenten&quot;
 
 * Gesamtzahl der fehlenden Live-Chat-Anfragen: Anzahl der Besucher, die unbeaufsichtigt sind, im Vergleich zur Gesamtanzahl der angeforderten Kontakte für einen &quot;Chat mit Agent&quot;
 
 * Durchschnittliche Chat-Länge in Minuten: Analyse der &quot;durchschnittlichen Chat-Länge&quot;zwischen Besuchern und Ihren Agenten
 
-* Durchschnittliche Agent-Reaktionszeit in Sekunden: Analysieren Sie die &quot;durchschnittliche Zeit, die von Agenten benötigt wird, um auf ihre Live-Chat-Fragen und Antworten zu antworten.
+* Durchschnittliche Agent-Reaktionszeit in Sekunden: Analysieren Sie die &quot;durchschnittliche Zeit, die von den Agenten benötigt wird, um auf ihre Live-Chat-Fragen und Antworten zu antworten.
 
 * Tägliches Dashboard: erfolgreich verbundene Live-Chat-Anfragen, fehlende Live-Chat-Anfragen, Sortierung und Filterung der aktuellen Live-Chat-Aktivitäten
 
@@ -45,7 +45,7 @@ Quantifizieren Sie Ihre Leads anhand der Qualität ihrer Chat-Interaktion und ve
 
 * Der Punktwert liegt zwischen 0, 1, 2, 3 (der Standardwert ist null).
 
-* Nachdem das Gespräch abgeschlossen ist oder fallen gelassen wurde, in der Aktivität speichern Sie den Scoring-Wert und Beitrag, dass es nicht bearbeitet werden kann??????????????????????????????????? (Was bedeutet das?)
+* Nachdem die Konversation abgeschlossen oder abgelegt wurde, speichern Sie in der Aktivität den Scoring-Wert und posten Sie, dass sie nicht bearbeitet werden kann???? (Was bedeutet dieser Satz?)
 
 * Festlegen einer Punktzahl:
 
@@ -63,7 +63,7 @@ SCREENSHOT
 
 Wenn ein Lead ein Formular mit der E-Mail &quot;`abc@test.com`&quot;ausfüllt und als xyz Cookies ist, dann später dasselbe Formular mit der E-Mail &quot;`def@test.com`&quot;ausfüllt, wird ein neuer Lead erstellt, aber Cookie xyz wird mit dem neuen Lead verknüpft und aus Lead `abc@test.com` entfernt.
 
-Ab diesem Zeitpunkt ist `abc@test.com` ein Lead ohne Cookie. ANON LEAD?
+Ab diesem Zeitpunkt ist `abc@test.com` ein Lead ohne Cookie. KANN MAN LEIDER GEHEN?
 
 Wenn also ein Besucher mit Cookie abc auf eine Seite gelangt und eine E-Mail-ID als `abc@p.com` angibt:
 
@@ -83,6 +83,12 @@ GIF
 
 ### Option zum Vererben der Schriftart {#option-to-inherit-font}
 
-Als Benutzer möchte ich meinen Chat-Bot aktivieren, um die Schriftart direkt von der Webseite zu übernehmen, auf der sie geladen wird, anstatt meine Markenschriftart im Dynamic Chat zu verwalten.
+Sie können jetzt den Chat-Bot aktivieren, um die Schriftart direkt von der Webseite zu übernehmen, auf der sie gehostet wird, anstatt die Markenschriftart im Dynamic Chat zu verwalten. Wenn Sie diese Option aktivieren, nimmt der Chatbot die Schriftart an, die im Tag `<body>` der Seite definiert ist.
 
-Hinweis: Sobald Sie diese Option aktivieren, übernimmt Chatbot die Schriftart, die für das Body-Tag der Seite definiert ist.
+SCREENSHOT
+
+### Demandbase-Integration mit Dynamic Chat {#demandbase-integration-with-dynamic-chat}
+
+Demandbase-Benutzer können ihre eigene Demandbase-Lizenz mitbringen und die Integration aktivieren. Verwenden Sie Demandbase-Personenattribute für Dialog-Targeting, bedingtes Branding und benutzerdefiniertes Routing.
+
+Die Auflösung dieser Attributwerte gegenüber einem Lead erfolgt in Echtzeit und wird im entsprechenden Lead-Profil gespeichert.
