@@ -4,9 +4,9 @@ description: Champion/Challenger - Champion Criteria definieren - Marketo Docs -
 title: Champion/Challenger - Champion-Kriterien definieren
 exl-id: 6b2d2568-caf3-41fc-9d50-f7f561cc4865
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: cc8de935451fe5d6dc9c8dad19962391d8ed3535
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '175'
 ht-degree: 1%
 
 ---
@@ -29,7 +29,7 @@ Nachdem Sie Ihren Testtyp eingerichtet haben, müssen Sie die Kriterien für den
    >
    >Wir verfolgen diese Metrik und senden Ihnen einen Bericht mit den Daten per E-Mail.
 
-1. Wenn Sie eines der standardmäßigen **Champion-Kriterien** ausgewählt haben, fahren Sie fort und wechseln Sie zu [Champion/Challenger: Berichtwarnungen konfigurieren](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)!
+1. Wenn Sie eines der standardmäßigen **Champion-Kriterien** ausgewählt haben, fahren Sie mit [Konfigurieren von Berichtwarnungen](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/analytics.md#configure-report-alerts) fort!
 
 ## Benutzerdefinierte Champion-Kriterien {#custom-champion-criteria}
 
@@ -59,4 +59,4 @@ Nachdem Sie Ihren Testtyp eingerichtet haben, müssen Sie die Kriterien für den
 
    >[!MORELIKETHIS]
    >
-   >[Champion/Challenger: Berichtwarnungen konfigurieren](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)
+   >[Champion/Challenger: Analytics](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/analytics.md)
