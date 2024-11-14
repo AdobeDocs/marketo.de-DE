@@ -3,9 +3,9 @@ description: Weiterleiten eines interaktiven Webinars - Marketo-Dokumente - Prod
 title: Weiterleiten eines interaktiven Webinars
 feature: Interactive Webinars
 exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
-source-git-commit: 4d7732582dccb00c90bb61d2db1d7553027e92a9
+source-git-commit: ec128b52bb94bd9c4dd3d89f7c04b1596b66c965
 workflow-type: tm+mt
-source-wordcount: '601'
+source-wordcount: '661'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Nachdem die Mitglieder hinzugefügt oder in das Programm importiert wurden, kön
 >
 >Wenn Sie dem interaktiven Webinar-Veranstaltungsprogramm einen Mitwirt oder einen Moderator als Zielgruppenmitglied hinzufügen möchten, müssen Sie für diese eine andere E-Mail-ID verwenden. Andernfalls wird ihnen der Fehler &quot;Diese E-Mail ist bereits registriert&quot;angezeigt.
 
-Die E-Mail kann spezifische Programmdetails enthalten sowie eine Landingpage-URL enthalten, über die der Empfänger zu einer bestimmten Seite weitergeleitet wird, auf der weitere Informationen zum Webinar verfügbar sind (z. B. Inhalt, Moderatorinformationen usw.). hinzugefügt werden. Diese Landingpage kann als lokales Asset im interaktiven Webinar-Veranstaltungsprogramm erstellt werden.
+Die E-Mail kann spezifische Programmdetails enthalten sowie eine Landingpage-URL enthalten, über die der Empfänger zu einer bestimmten Seite weitergeleitet wird, auf der weitere Informationen zum Webinar (z. B. Inhalt, Moderatorinformationen usw.) hinzugefügt werden können. Diese Landingpage kann als lokales Asset im interaktiven Webinar-Veranstaltungsprogramm erstellt werden.
 
 Sie können eine Registrierung für dieses Webinar anfordern, indem Sie ein Formular auf der Landingpage aktivieren und die Formularklicks mit der aktivierten Registrierung im interaktiven Webinar Event Program verknüpfen. Anschließend kann eine Kampagne erstellt werden, die Formularübermittlungen als Trigger verwendet und den Programmstatus von &quot;eingeladen&quot;in &quot;registriert&quot;ändert.
 
@@ -41,3 +41,22 @@ Links zum Erstellen einer Landingpage und einer E-Mail-Kampagne finden Sie auf d
 ![](assets/promoting-an-interactive-webinar-2.png)
 
 Mit interaktiven Webinaren können Sie eine Registrierung vor, während oder nach einem Webinar anfordern. In allen Fällen müssen Sie einfach die Webinar-URL für den Lead freigeben. Wenn Sie auf den Link klicken, bevor das Webinar beginnt, werden diese an eine Pre-Webinar-Landingpage gesendet. Wenn Sie im Webinar darauf klicken, gelangen die Benutzer zum laufenden Webinar. Wenn Sie darauf klicken, nachdem das Webinar das Video aufgenommen hat, gelangen Sie zu einer Aufzeichnung des Webinars.
+
+## Interaktive Webinare-Token {#interactive-webinars-tokens}
+
+Verwenden Sie Token, um interaktive Webinare in E-Mails und Landingpages zu bewerben, ohne die Webinardetails manuell hinzufügen zu müssen. Dadurch wird die Gesamteffizienz verbessert, da Änderungen an den Webinar-Metadaten (z. B. Webinartitel, Startdatum usw.) automatisch in Ihren Assets übernommen werden.
+
+![](assets/promoting-an-interactive-webinar-3.png)
+
+**Liste der Token**
+
+* program.webinarCapacity
+* program.webinarDuration
+* program.webinarEndDate
+* program.webinarEndTime
+* program.webinarGenericURL
+* program.webinarLanguage
+* program.webinarStartDate
+* program.webinarStartTime
+* program.webinarTimezone
+* program.webinarTitle

@@ -3,10 +3,10 @@ description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokument
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 236c99d8939f076d93dfcd7988fc89e4c617c113
+source-git-commit: ec128b52bb94bd9c4dd3d89f7c04b1596b66c965
 workflow-type: tm+mt
-source-wordcount: '548'
-ht-degree: 5%
+source-wordcount: '507'
+ht-degree: 4%
 
 ---
 
@@ -32,19 +32,9 @@ Die folgenden Funktionen fallen unter den standardmäßigen Versionszyklus und w
    <th style="width:25%">Dokumentation</th>
   </tr>
     <tr> 
-   <td><strong>Verbesserte Registrierungsdaten im Interaktions-Dashboard für interaktive Webinare</strong>: Sie können jetzt sehen, welche Unternehmen am meisten teilgenommen haben, und das Unternehmen, den Titel und die Branche auf Lead-Ebene in Berichten aktualisieren, die im Interaktions-Dashboard verfügbar sind.</td> 
-   <td><i>Demnächst verfügbar</i></td>
-   <td><i>Demnächst verfügbar</i></td>
-  </tr>
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-  </tr>
-    <tr> 
    <td><strong>Tokenisierung für interaktive Webinare</strong>: Sie können jetzt Token verwenden, um interaktive Webinare in E-Mails und Landingpages zu bewerben, ohne die Webinardetails manuell hinzufügen zu müssen.</td> 
-   <td><i>Demnächst verfügbar</i></td>
-   <td><i>Demnächst verfügbar</i></td>
+   <td>Versendet</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/promoting-an-interactive-webinar.md#interactive-webinars-tokens" target="_blank">Weiterleiten eines interaktiven Webinars</a></td>
   </tr>
   <tr> 
    <td> </td> 
