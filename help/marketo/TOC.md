@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: cc8de935451fe5d6dc9c8dad19962391d8ed3535
+source-git-commit: 63db7cfd9d93191d83214dc4e107ab4835ddd730
 workflow-type: tm+mt
-source-wordcount: '9377'
+source-wordcount: '9374'
 ht-degree: 4%
 
 ---
@@ -1973,7 +1973,6 @@ ht-degree: 4%
    + [Versionsplanung](release-notes/release-schedule.md)
    + [Aktuelle Version](release-notes/current.md)
    + [Dynamic Chat-Release](release-notes/dynamic-chat.md)
-   + [TEMP DYNAMIC CHAT](release-notes/temp-dc.md)
    + Frühere Versionen {#previous-releases}
       + 2024 {#2024}
          + [Versionshinweise: Januar &#39;24](release-notes/previous-releases/2024/release-notes-jan-24.md)

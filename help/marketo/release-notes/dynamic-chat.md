@@ -3,10 +3,10 @@ description: Dynamic Chat-Versionshinweise – Marketo-Dokumente – Produktdoku
 title: Versionshinweise zu Dynamic Chat
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: d88406c1f9d72c57a6d4f09934cbf685499ed198
+source-git-commit: 63db7cfd9d93191d83214dc4e107ab4835ddd730
 workflow-type: tm+mt
-source-wordcount: '1869'
-ht-degree: 3%
+source-wordcount: '2427'
+ht-degree: 2%
 
 ---
 
@@ -15,6 +15,134 @@ ht-degree: 3%
 Adobe Dynamic Chat-Releases basieren auf einem kontinuierlichen Bereitstellungsmodell, das einen skalierbareren Ansatz für die Implementierung von Funktionen ermöglicht. Manchmal gibt es mehrere Versionen in einem Monat. Schauen Sie daher regelmäßig nach, um aktuelle Informationen zu erhalten.
 
 Die standardmäßige Seite mit Versionshinweisen für Marketo Engage [finden Sie hier ](/help/marketo/release-notes/current.md){target="_blank"}.
+
+## Version September/Oktober 2024 {#sep-oct-release}
+
+### Verbesserte Live-Chat-Analyse {#enhanced-live-chat-analytics}
+
+Am Analytics-Dashboard wurden verschiedene Verbesserungen vorgenommen, darunter:
+
+* Gesamtzahl der angeforderten Live-Chat-Anzahl: Anzahl der Besucher, die für einen &quot;Chat mit Agenten&quot;angefordert wurden
+
+* Gesamter vernetzter Live-Chat: Anzahl der verbundenen Besucher im Vergleich zur Gesamtanzahl der angeforderten Besucher für einen &quot;Chat mit Agenten&quot;
+
+* Gesamtzahl der fehlenden Live-Chat-Anfragen: Anzahl der Besucher, die unbeaufsichtigt sind, im Vergleich zur Gesamtanzahl der angeforderten Kontakte für einen &quot;Chat mit Agent&quot;
+
+* Durchschnittliche Chat-Länge in Minuten: Analyse der &quot;durchschnittlichen Chat-Länge&quot;zwischen Besuchern und Ihren Agenten
+
+* Durchschnittliche Agent-Reaktionszeit in Sekunden: Analysieren Sie die &quot;durchschnittliche Zeit, die von den Agenten benötigt wird, um auf ihre Live-Chat-Fragen und Antworten zu antworten.
+
+* Tägliches Dashboard: erfolgreich verbundene Live-Chat-Anfragen, fehlende Live-Chat-Anfragen, Sortierung und Filterung der aktuellen Live-Chat-Aktivitäten
+
+![](assets/dynamic-chat-sep-oct-2024-release-1.png)
+
+### Unterhaltsscoring {#conversation-scoring}
+
+Quantifizieren Sie Ihre Leads anhand der Qualität ihrer Chat-Interaktion und verwenden Sie diese Metrik als Trigger/Filter in Marketo Engage-Smart-Kampagnen. Verwenden Sie das neue Attribut _Konversationsbewertung_ für die folgenden Aktivitäten:
+
+* Hat einen Dialog geführt
+* Gesprächsfluss
+* Interagiert mit einem Agenten
+
+**Zu beachtende Dinge:**
+
+* Der Punktwert liegt zwischen 0, 1, 2, 3 (der Standardwert ist null).
+
+* Wenn die Konversation abgeschlossen oder abgebrochen wurde, kann der Scoring-Wert nicht bearbeitet werden
+
+* Festlegen einer Punktzahl:
+
+   * Im Posteingang des Agenten - während eines Live-Chat kann der Agent eine Punktzahl für die Konversation aktualisieren oder festlegen, die in der Konversationsaktivität gespeichert wird
+
+   * Im Stream-Designer - auf der Zielkarte kann der Benutzer eine Konversationsbewertung aktualisieren oder festlegen
+
+![](assets/dynamic-chat-sep-oct-2024-release-2.png)
+
+![](assets/dynamic-chat-sep-oct-2024-release-3.png)
+
+![](assets/dynamic-chat-sep-oct-2024-release-4.png)
+
+### Neue Lead-Erstellungslogik {#new-lead-creation-logic}
+
+Wenn ein Lead ein Formular mit der E-Mail &quot;`abc@test.com`&quot;ausfüllt und als xyz gekocht ist, dann später dasselbe Formular mit der E-Mail &quot;`def@test.com`&quot;ausfüllt, wird ein neuer Personendatensatz erstellt, aber Cookie xyz wird mit der neuen Person verknüpft und aus der Person &quot;`abc@test.com`&quot;entfernt.
+
+Wenn also ein Besucher mit Cookie abc auf eine Seite gelangt und eine E-Mail-ID als `abc@test.com` angibt:
+
+<table><thead>
+  <tr>
+    <th>Visitor</th>
+    <th>Cookie</th>
+    <th>Email provided</th>
+    <th>Erwartetes Verhalten</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Anonym</td>
+    <td>abc</td>
+    <td>Existiert nicht in Datenbank</td>
+    <td>Neue Person erstellen</td>
+  </tr>
+  <tr>
+    <td>Anonym</td>
+    <td>abc</td>
+    <td>Vorhanden in Datenbank</td>
+    <td>Person zusammenführen</td>
+  </tr>
+  <tr>
+    <td>Anonym</td>
+    <td>xyz</td>
+    <td>Vorhanden in Datenbank</td>
+    <td>Person zusammenführen</td>
+  </tr>
+  <tr>
+    <td>Bekannte Person</td>
+    <td>abc</td>
+    <td>Identisch mit bestehender Person</td>
+    <td>Person aktualisieren</td>
+  </tr>
+  <tr>
+    <td>Bekannte Person</td>
+    <td>abc</td>
+    <td>Differenz zur bestehenden Person</td>
+    <td>Wenn bereits eine bekannte Person vorhanden ist, übertragen Sie das Cookie und lösen Sie dieses Profil auf. Wenn mit dieser E-Mail keine Person vorhanden ist, erstellen Sie einen neuen Personendatensatz und übertragen Sie das Cookie</td>
+  </tr>
+  <tr>
+    <td>Bekannte Person</td>
+    <td>xyz</td>
+    <td>Identisch mit bestehender Person</td>
+    <td>Hinzufügen eines neuen Cookies zur selben Person</td>
+  </tr>
+  <tr>
+    <td>Bekannte Person</td>
+    <td>xyz</td>
+    <td>Differenz zur bestehenden Person</td>
+    <td>Dieses Szenario ist nicht möglich, da es sich um ein neues Cookie von   Standard als neues anonymes Profil betrachtet</td>
+  </tr>
+</tbody></table>
+
+### Optimierte Ladezeit des Konversationsflusses {#optimized-conversation-flow-load-time}
+
+Um das Benutzererlebnis zu verbessern, wird jetzt anstelle eines Leerraums ein Shimmer-Ladeprogramm angezeigt, während der Konvertierungsfluss geladen wird.
+
+**before**
+
+![](assets/dynamic-chat-sep-oct-2024-release-5.png)
+
+**Nach**
+
+![](assets/dynamic-chat-sep-oct-2024-release-6.gif)
+
+### Option zum Vererben der Schriftart {#option-to-inherit-font}
+
+Sie können jetzt den Chat-Bot aktivieren, um die Schriftart direkt von der Webseite zu übernehmen, auf der sie gehostet wird, anstatt die Markenschriftart im Dynamic Chat zu verwalten. Wenn Sie diese Option aktivieren, nimmt der Chatbot die Schriftart an, die im Tag `<body>` der Seite definiert ist.
+
+![](assets/dynamic-chat-sep-oct-2024-release-7.png)
+
+### Demandbase-Integration mit Dynamic Chat {#demandbase-integration-with-dynamic-chat}
+
+Demandbase-Benutzer können ihre eigene Demandbase-Lizenz mitbringen und die Integration aktivieren. Verwenden Sie Demandbase-Personenattribute für Dialog-Targeting, bedingtes Branding und benutzerdefiniertes Routing.
+
+Die Auflösung dieser Attributwerte gegenüber einer Person erfolgt in Echtzeit und wird im entsprechenden Personenprofil gespeichert.
 
 ## Version August 2024 {#august-release}
 
