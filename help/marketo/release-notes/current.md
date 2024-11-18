@@ -3,9 +3,9 @@ description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokument
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: ec128b52bb94bd9c4dd3d89f7c04b1596b66c965
+source-git-commit: 97806e0df45327fb695f02c02af0dde42a602737
 workflow-type: tm+mt
-source-wordcount: '507'
+source-wordcount: '546'
 ht-degree: 4%
 
 ---
@@ -89,6 +89,8 @@ Die folgenden Funktionen fallen unter den standardmäßigen Versionszyklus und w
 <br/>
 
 ## Ankündigungen {#announcements}
+
+* **Aktualisierung der Bulk Extract-API für die Massenextraktion**: Es wurde ein Problem in der Bulk Extract-API mit der Option columnHeaderNames behoben, durch das Sie benutzerdefinierte Spaltenkopfzeilennamen in der exportierten Datei angeben können. Zuvor konnten Spaltenüberschriften, die Nicht-ASCII-Zeichen enthielten, beschädigt werden.
 
 * **REST API access_token Parameter Deprecation**: Der Abfrageparameter &quot;access_token&quot;zum Authentifizieren von Marketo REST API-Aufrufen wird nicht mehr unterstützt und ist nach dem 30. Juni 2025 nicht mehr verfügbar. Alle neuen und vorhandenen Integrationen sollten REST-API-Aufrufe mithilfe der &quot;Autorisierungs&quot;-Kopfzeile [authentifizieren, wie hier ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication#using-an-access-token) beschrieben.
 
