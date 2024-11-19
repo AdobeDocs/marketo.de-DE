@@ -4,7 +4,7 @@ description: Liste oder Smart-Liste aktualisieren - Marketo-Dokumente - Produktd
 title: Liste oder Smart-Liste aktualisieren
 exl-id: f66adc0f-910f-46d4-a33c-976b061bdce2
 feature: Smart Lists
-source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
+source-git-commit: e0106eddf3ed6ecd2d9d90147a56258f61958665
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
@@ -19,11 +19,11 @@ Wenn Sie eine Smart-Liste ausgeführt haben und einige Minuten vergangen sind, k
 
 1. Um Daten auf der Registerkarte **[!UICONTROL Personen]** einer Smart-Liste zu aktualisieren, klicken Sie auf das Aktualisierungssymbol.
 
-   ![](assets/refreshbutton.png)
+   ![](assets/refresh-a-list-or-smart-list-1.png)
 
 1. Die intelligente Liste wird erneut ausgeführt und zeigt Ihnen einen aktuelleren Ergebnissatz an.
 
-   ![](assets/loadingrefresh.png)
+   ![](assets/refresh-a-list-or-smart-list-2.png)
 
 >[!TIP]
 >
