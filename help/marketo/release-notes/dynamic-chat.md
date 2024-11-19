@@ -3,7 +3,7 @@ description: Dynamic Chat-Versionshinweise – Marketo-Dokumente – Produktdoku
 title: Versionshinweise zu Dynamic Chat
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: b6fb381527a24286fef5e438d7bf12b029810e64
+source-git-commit: c0ccf1c515dbde48a131242939c077b44ffd5c1b
 workflow-type: tm+mt
 source-wordcount: '2427'
 ht-degree: 2%
@@ -120,29 +120,29 @@ Wenn also ein Besucher mit Cookie abc auf eine Seite gelangt und eine E-Mail-ID 
   </tr>
 </tbody></table>
 
-### Optimierte Ladezeit des Konversationsflusses {#optimized-conversation-flow-load-time}
-
-Um das Benutzererlebnis zu verbessern, wird jetzt anstelle eines Leerraums ein Shimmer-Ladeprogramm angezeigt, während der Konvertierungsfluss geladen wird.
-
-**before**
-
-![](assets/dynamic-chat-sep-oct-2024-release-5.png)
-
-**Nach**
-
-![](assets/dynamic-chat-sep-oct-2024-release-6.gif)
-
 ### Option zum Vererben der Schriftart {#option-to-inherit-font}
 
 Sie können jetzt den Chat-Bot aktivieren, um die Schriftart direkt von der Webseite zu übernehmen, auf der sie gehostet wird, anstatt die Markenschriftart im Dynamic Chat zu verwalten. Wenn Sie diese Option aktivieren, nimmt der Chatbot die Schriftart an, die im Tag `<body>` der Seite definiert ist.
 
-![](assets/dynamic-chat-sep-oct-2024-release-7.png)
+![](assets/dynamic-chat-sep-oct-2024-release-5.png)
 
 ### Demandbase-Integration mit Dynamic Chat {#demandbase-integration-with-dynamic-chat}
 
 Demandbase-Benutzer können ihre eigene Demandbase-Lizenz mitbringen und die Integration aktivieren. Verwenden Sie Demandbase-Personenattribute für Dialog-Targeting, bedingtes Branding und benutzerdefiniertes Routing.
 
 Die Auflösung dieser Attributwerte gegenüber einer Person erfolgt in Echtzeit und wird im entsprechenden Personenprofil gespeichert.
+
+### Optimierte Ladezeit des Konversationsflusses {#optimized-conversation-flow-load-time}
+
+Um das Benutzererlebnis zu verbessern, wird jetzt anstelle eines Leerraums ein Shimmer-Ladeprogramm angezeigt, während der Konvertierungsfluss geladen wird.
+
+**before**
+
+![](assets/dynamic-chat-sep-oct-2024-release-6.png)
+
+**Nach**
+
+![](assets/dynamic-chat-sep-oct-2024-release-7.gif)
 
 ## Version August 2024 {#august-release}
 
