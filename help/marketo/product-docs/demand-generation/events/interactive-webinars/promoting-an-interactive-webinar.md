@@ -3,20 +3,20 @@ description: Weiterleiten eines interaktiven Webinars - Marketo-Dokumente - Prod
 title: Weiterleiten eines interaktiven Webinars
 feature: Interactive Webinars
 exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
-source-git-commit: ec128b52bb94bd9c4dd3d89f7c04b1596b66c965
+source-git-commit: e4a6123684162d9bbf2edddbd9aaf190030dc728
 workflow-type: tm+mt
-source-wordcount: '661'
+source-wordcount: '654'
 ht-degree: 0%
 
 ---
 
 # Weiterleiten eines interaktiven Webinars {#promoting-an-interactive-webinar}
 
-Die Weiterleitung eines interaktiven Webinars ähnelt der Weiterleitung eines Partner-Webinars über Launchpoint. Bei der Erstellung eines Ereignisprogramms für ein interaktives Webinar können Sie einem Programm Mitglieder hinzufügen, indem Sie entweder eine Kampagne durchführen oder Mitglieder zum Programm importieren. Um die Mitglieder zu überprüfen, die zum Ereignisprogramm für interaktive Webinare hinzugefügt wurden, klicken Sie auf die Registerkarte Mitglieder .
+Die Weiterleitung eines interaktiven Webinars ähnelt der Weiterleitung eines Partner-Webinars über Launchpoint. Bei der Erstellung eines Ereignisprogramms für ein interaktives Webinar können Sie Mitglieder hinzufügen, indem Sie eine Kampagne ausführen oder Mitglieder zum Programm importieren. Um die Mitglieder zu überprüfen, die zum Ereignisprogramm für interaktive Webinare hinzugefügt wurden, klicken Sie auf die Registerkarte **Mitglieder** .
 
 ![](assets/promoting-an-interactive-webinar-1.png)
 
-Nachdem die Mitglieder hinzugefügt oder in das Programm importiert wurden, können Sie innerhalb des Interaktiven Webinar-Veranstaltungsprogramms eine E-Mail-Kampagne erstellen, um eine Einladung an alle Programmmitglieder zu senden und deren Status nach dem Versand der E-Mail als &quot;eingeladen&quot;zu ändern.
+Nachdem die Mitglieder hinzugefügt oder importiert wurden, können Sie im interaktiven Webinar-Veranstaltungsprogramm eine E-Mail-Kampagne erstellen, um eine Einladung an alle Programmmitglieder zu senden und deren Status nach dem Versand der E-Mail auf &quot;eingeladen&quot;zu ändern.
 
 >[!NOTE]
 >
