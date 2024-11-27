@@ -4,9 +4,9 @@ description: Protokolle für Marketo Engage konfigurieren - Marketo Engage Docs 
 title: Protokolle für das Marketo Engage konfigurieren
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: d2f8a90cf780fc5db6a4f148a53968a53df835a4
+source-git-commit: ed42e3662dc1f9c3b3b27d86d1df816ce26e1076
 workflow-type: tm+mt
-source-wordcount: '2145'
+source-wordcount: '2148'
 ht-degree: 0%
 
 ---
@@ -88,7 +88,7 @@ Einige Anti-Spam-Systeme verwenden für die Zulässigkeit das Feld Rückkehrpfad
 
 ## Schritt 3: Einrichten von SPF und DKIM {#step-set-up-spf-and-dkim}
 
-Ihr Marketing-Team sollte Ihnen auch DKIM-Informationen (Domain Keys Identified Mail) gesendet haben, die zu Ihrem DNS-Ressourcendatensatz hinzugefügt werden sollen (ebenfalls unten aufgeführt). Führen Sie die Schritte aus, um DKIM und SPF (Sender Policy Framework) erfolgreich zu konfigurieren, und benachrichtigen Sie dann Ihr Marketing-Team, dass dies aktualisiert wurde.
+Ihr Marketing-Team sollte Ihnen auch Informationen zu DKIM (Domain Keys Identified Mail) gesendet haben, die zu Ihrem DNS-Ressourcendatensatz hinzugefügt werden sollen (ebenfalls unten aufgeführt). Führen Sie die Schritte aus, um DKIM und SPF (Sender Policy Framework) erfolgreich zu konfigurieren, und benachrichtigen Sie dann Ihr Marketing-Team, dass dies aktualisiert wurde.
 
 1. Um SPF einzurichten, fügen Sie unseren DNS-Einträgen die folgende Zeile hinzu:
 
@@ -110,12 +110,12 @@ Ihr Marketing-Team sollte Ihnen auch DKIM-Informationen (Domain Keys Identified 
 
 ## Schritt 4: Einrichten von DMARC {#set-up-dmarc}
 
-DMARC (Domain-based Message Authentication, Reporting &amp; Conformance) ist ein Authentifizierungsprotokoll, das Unternehmen dabei unterstützt, ihre Domain vor nicht autorisierter Verwendung zu schützen. DMARC erweitert die vorhandenen Authentifizierungsprotokolle wie SPF und DKIM, um Empfängerserver darüber zu informieren, welche Aktionen sie ergreifen sollten, wenn bei ihrer Domäne ein Authentifizierungsfehler auftritt. Obwohl DMARC derzeit optional ist, wird dringend empfohlen, da es die Marke und Reputation Ihres Unternehmens besser schützt. Wichtige Anbieter wie Google und Yahoo werden ab Februar 2024 die Verwendung von DMARC für Massensender benötigen.
+DMARC (Domain-based Message Authentication, Reporting &amp; Conformance) ist ein Authentifizierungsprotokoll, das Unternehmen dabei unterstützt, ihre Domain vor nicht autorisierter Verwendung zu schützen. DMARC erweitert die vorhandenen Authentifizierungsprotokolle wie SPF und DKIM, um Empfängerserver darüber zu informieren, welche Aktionen sie ergreifen sollten, wenn die Authentifizierung in ihrer Domäne fehlschlägt. Obwohl DMARC derzeit optional ist, wird dringend empfohlen, da es die Marke und Reputation Ihres Unternehmens besser schützt. Wichtige Anbieter wie Google und Yahoo werden ab Februar 2024 die Verwendung von DMARC für Massensender benötigen.
 
 Damit DMARC funktioniert, muss mindestens einer der folgenden DNS-TXT-Einträge vorhanden sein:
 
 * Eine gültige SPF
-* Ein gültiger DKIM-Datensatz für Ihre FROM: Domain (empfohlen für Marketo Engage)
+* Ein gültiger DKIM-Datensatz für Ihre VON: Domäne (empfohlen für Marketo Engage)
 
 Darüber hinaus müssen Sie über einen DMARC-spezifischen DNS-TXT-Eintrag für Ihre FROM: Domain verfügen. Optional kann eine von Ihnen ausgewählte E-Mail-Adresse definiert werden, um anzugeben, wohin DMARC-Berichte in Ihrem Unternehmen gehören sollen, damit Sie Berichte überwachen können.
 
@@ -131,7 +131,7 @@ Als Best Practice wird empfohlen, die DMARC-Implementierung langsam einzuführen
 
    III. Bestimmen Sie, ob SPF oder DKIM abgestimmt sind, und übergeben Sie die Authentifizierung für alle legitimen E-Mails.
 
-   IV. Überprüfen Sie Berichte, um sicherzustellen, dass die Ergebnisse basierend auf Ihren SPF/DKIM-Richtlinien erwartet werden.
+   IV. Überprüfen Sie Berichte, um sicherzustellen, dass die Ergebnisse auf der Grundlage Ihrer SPF/DKIM-Richtlinien erwartet werden.
 
 1. Fahren Sie fort, um die Richtlinie auf (p=quarantine) anzupassen, wodurch der E-Mail-Empfangs-Server angewiesen wird, E-Mails unter Quarantäne zu stellen, bei denen die Authentifizierung fehlschlägt (dies bedeutet normalerweise, dass diese Nachrichten im Spam-Ordner abgelegt werden).
 
@@ -145,7 +145,7 @@ Als Best Practice wird empfohlen, die DMARC-Implementierung langsam einzuführen
 
 ### DMARC Reporting {#dmarc-reporting}
 
-DMARC bietet die Möglichkeit, Berichte zu E-Mails zu erhalten, die SPF/DKIM nicht unterstützen. Es gibt zwei verschiedene Berichte, die von ISP-Dienstern im Rahmen des Authentifizierungsprozesses erstellt werden und die Absender über die RUA/RUF-Tags in ihrer DMARC-Richtlinie empfangen können.
+DMARC bietet die Möglichkeit, Berichte zu E-Mails zu erhalten, die bei SPF/DKIM fehlschlagen. Es gibt zwei verschiedene Berichte, die von ISP-Dienstern im Rahmen des Authentifizierungsprozesses erstellt werden und die Absender über die RUA/RUF-Tags in ihrer DMARC-Richtlinie empfangen können.
 
 * Aggregate Reports (RUA): Enthält keine personenbezogenen Daten, die bei DSGVO (Datenschutz-Grundverordnung) berücksichtigt werden.
 
@@ -194,7 +194,7 @@ DMARC-Datensätze verfügen über mehrere Komponenten, die als DMARC-Tags bezeic
     <td>Ermöglicht es dem Domäneninhaber, Berichtsoptionen anzugeben.</td>
     <td>0: Bericht erstellen, wenn alles fehlschlägt 
     <br>1: Bericht erstellen, wenn irgendetwas fehlschlägt 
-    <br>d: Bericht erzeugen, wenn DKIM fehlschlägt 
+    <br>d: Bericht erstellen, wenn DKIM fehlschlägt 
     <br>s: Bericht erzeugen, wenn SPF fehlschlägt</td>
     <td>1 (empfohlen für DMARC-Berichte)</td>
   </tr>
@@ -229,7 +229,7 @@ DMARC-Datensätze verfügen über mehrere Komponenten, die als DMARC-Tags bezeic
   <tr>
     <td>adkim</td>
     <td>Optional</td>
-    <td>Kann entweder streng (s) oder Relaxed ® sein. Eine verzögerte Ausrichtung bedeutet, dass die in der DKIM-Signatur verwendete Domain eine Subdomäne der "Von"-Adresse sein kann. Eine strikte Ausrichtung bedeutet, dass die in der DKIM-Signatur verwendete Domain exakt mit der in der Absenderadresse verwendeten Domain übereinstimmen muss.</td>
+    <td>Kann entweder streng (s) oder Relaxed ® sein. Eine verzögerte Ausrichtung bedeutet, dass die in der DKIM-Signatur verwendete Domäne eine Subdomäne der "Von"-Adresse sein kann. Eine strikte Ausrichtung bedeutet, dass die in der DKIM-Signatur verwendete Domäne exakt mit der in der Absenderadresse verwendeten Domäne übereinstimmen muss.</td>
     <td>adkim=r </td>
     <td>r</td>
   </tr>
@@ -251,12 +251,12 @@ Es gibt zwei Arten der Ausrichtung für DMARC: DKIM-Ausrichtung und SPF-Ausricht
 
 >[!NOTE]
 >
->Es wird empfohlen, die DMARC-Ausrichtung auf DKIM im Vergleich zu SPF für Marketo Engage durchzuführen.
+>Es wird empfohlen, die DMARC-Ausrichtung auf DKIM im Vergleich zu SPF für Marketo Engage vorzunehmen.
 
-* DKIM-orientierte DMARC: Um DKIM-angepasste DMARC einzurichten, müssen Sie:
+* DKIM-orientierte DMARC - Um DKIM-orientierte DMARC einzurichten, müssen Sie:
 
-   * Richten Sie DKIM für die Domäne &quot;FROM: Domain&quot;Ihrer Nachricht ein. Verwenden Sie die Anweisungen [in diesem Artikel](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}.
-   * Konfigurieren von DMARC für die zuvor konfigurierte Domäne &quot;FROM:/DKIM&quot;
+   * Richten Sie DKIM für &quot;FROM: Domain&quot;Ihrer Nachricht ein. Verwenden Sie die Anweisungen [in diesem Artikel](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}.
+   * Konfigurieren Sie DMARC für die zuvor konfigurierte Domäne &quot;FROM:/DKIM&quot;.
 
 * DMARC-orientierte SPF: Um eine DMARC-orientierte SPF über einen gebrandeten Rückkehrpfad einzurichten, müssen Sie:
 
@@ -369,13 +369,20 @@ Die folgenden Tabellen decken alle Marketo Engage-Server ab, die ausgehende Aufr
    <tr>
    <td>54 237 141 197</td>
   </tr>
+  <tr>
+   <td>124 47 174 193</td>
   </tr>
-   <tr>
+  <tr>
    <td>130 248 168 166</td>
-  </tr>
   </tr>
    <tr>
    <td>130 248 168 17</td>
+  </tr>
+  <tr>
+   <td>199.15.213.245</td>
+  </tr>
+  <tr>
+   <td>199.15.215.245</td>
   </tr>
  </tbody>
 </table>
