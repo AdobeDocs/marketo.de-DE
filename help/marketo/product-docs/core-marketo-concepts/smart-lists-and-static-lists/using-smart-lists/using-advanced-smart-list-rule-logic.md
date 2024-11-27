@@ -4,7 +4,7 @@ description: Verwenden der erweiterten Smart-List-Regellogik - Marketo-Dokumente
 title: Verwenden der erweiterten Smart-List-Regellogik
 exl-id: fc41b6fd-c65e-4c44-b0ee-7bb5c77c51fb
 feature: Smart Lists
-source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
+source-git-commit: d087b22e84c23fea5e38fe7bf20349dc7eec09f7
 workflow-type: tm+mt
 source-wordcount: '302'
 ht-degree: 0%
@@ -32,7 +32,7 @@ In diesem Beispiel möchten Sie Personen in Kalifornien finden, die einen Wert v
 
 1. Wählen Sie **[!UICONTROL Erweiterte Filter verwenden]** aus der Dropdown-Liste aus.
 
-   ![](assets/one.png)
+   ![](assets/using-advanced-smart-list-rule-logic-1.png)
 
    >[!NOTE]
    >
@@ -40,11 +40,11 @@ In diesem Beispiel möchten Sie Personen in Kalifornien finden, die einen Wert v
 
 1. Im Textfeld **[!UICONTROL Erweiterte Filter]** wird &quot;und&quot;als Standardwert für alle Filter angezeigt.
 
-   ![](assets/two-2.png)
+   ![](assets/using-advanced-smart-list-rule-logic-2.png)
 
 1. Geben Sie ein Paar Klammern um &quot;2 und 3&quot;ein.
 
-   ![](assets/three-2.png)
+   ![](assets/using-advanced-smart-list-rule-logic-3.png)
 
    >[!CAUTION]
    >
@@ -52,19 +52,19 @@ In diesem Beispiel möchten Sie Personen in Kalifornien finden, die einen Wert v
 
 1. Ändern Sie das &quot;und&quot;zwischen &quot;2 und 3&quot;in &quot;oder&quot;.
 
-   ![](assets/four-1.png)
+   ![](assets/using-advanced-smart-list-rule-logic-4.png)
 
 ## Verwenden Sie beim Mischen von &quot;Und&quot;und &quot;Oder&quot;Klammern {#use-parentheses-when-mixing-and-and-or}
 
 Das Mischen der Logik &quot;und&quot;und &quot;Oder&quot;erfordert Klammern, um Ihre Absicht klar zu machen.
 
-![](assets/advancedfilters-parent.png)
+![](assets/using-advanced-smart-list-rule-logic-5.png)
 
 ## Verwenden Sie verschachtelte Klammern für vier oder mehr Filter, falls erforderlich {#use-nested-parentheses-for-four-or-more-filters-if-needed}
 
 Abhängig von Ihrer Absicht müssen Sie möglicherweise verschachtelte Klammern hinzufügen, wenn Sie vier oder mehr Filter verwenden.
 
-![](assets/advancedfilters-nested.png)
+![](assets/using-advanced-smart-list-rule-logic-6.png)
 
 >[!TIP]
 >

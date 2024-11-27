@@ -4,7 +4,7 @@ description: Verwenden integrierter/systemintelligenter Listen - Marketo-Dokumen
 title: Verwenden von integrierten/System-Smart-Listen
 exl-id: f4db0e02-2250-4c56-ba74-f9fa8a5b9c11
 feature: Smart Lists
-source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
+source-git-commit: d087b22e84c23fea5e38fe7bf20349dc7eec09f7
 workflow-type: tm+mt
 source-wordcount: '195'
 ht-degree: 7%
@@ -17,15 +17,15 @@ Marketo Engage verfügt über einige nützliche integrierte Smart-Listen. Lass u
 
 1. Wechseln Sie zur **[!UICONTROL Datenbank]**.
 
-   ![](assets/db.png)
+   ![](assets/use-built-in-system-smart-lists-1.png)
 
 1. Öffnen Sie den Ordner **[!UICONTROL System Smart Lists]** , um die Sammlung anzuzeigen.
 
-   ![](assets/two.png)
+   ![](assets/use-built-in-system-smart-lists-2.png)
 
 1. Beispiel: Wählen Sie **[!UICONTROL Alle Personen]** und klicken Sie dann auf die Registerkarte **[!UICONTROL Personen]** .
 
-   ![](assets/three.png)
+   ![](assets/use-built-in-system-smart-lists-3.png)
 
    >[!NOTE]
    >
@@ -33,14 +33,38 @@ Marketo Engage verfügt über einige nützliche integrierte Smart-Listen. Lass u
 
 Im Folgenden finden Sie eine Zusammenfassung der Funktionen der integrierten Smart-Listen:
 
-| Listenname | Beschreibung |
-|---|---|
-| Alle Personen | Alle Personen in Ihrer Marketo-Datenbank |
-| Abbestellte Personen | Diese Personen können nur operative E-Mails erhalten, die normalerweise von der Person selbst kontrolliert werden. |
-| Marketing eingestellt | Diese Personen können nur operative E-Mails erhalten. Diese werden normalerweise von Ihnen, dem Marketingspezialisten, kontrolliert. |
-| Sperrliste | Diese Leute erhalten überhaupt keine E-Mail. |
-| Adressen für aufgrund von Bounce-Ereignissen unzustellbare E-Mails | Personen mit einer nicht zustellbaren E-Mail-Adresse oder die Ihre E-Mail ablehnen. |
-| Mögliche Duplikate | Personen, die in der Marketo-Datenbank dupliziert werden können. |
+<table><thead>
+  <tr>
+    <th>Listenname</th>
+    <th>Beschreibung</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Alle Personen</td>
+    <td>Alle Personen in Ihrer Marketo-Datenbank</td>
+  </tr>
+  <tr>
+    <td>Abbestellte Personen</td>
+    <td>Diese Personen können nur operative E-Mails erhalten, die normalerweise von der Person selbst kontrolliert werden.</td>
+  </tr>
+  <tr>
+    <td>Marketing eingestellt</td>
+    <td>Diese Personen können nur operative E-Mails erhalten. Diese werden normalerweise von Ihnen, dem Marketingspezialisten, kontrolliert.</td>
+  </tr>
+  <tr>
+    <td>Sperrliste</td>
+    <td>Diese Leute erhalten überhaupt keine E-Mail.</td>
+  </tr>
+  <tr>
+    <td>Adressen für aufgrund von Bounce-Ereignissen unzustellbare E-Mails</td>
+    <td>Personen mit einer nicht zustellbaren E-Mail-Adresse oder die Ihre E-Mail ablehnen.</td>
+  </tr>
+  <tr>
+    <td>Mögliche Duplikate</td>
+    <td>Personen, die in der Marketo-Datenbank dupliziert werden können.</td>
+  </tr>
+</tbody>
+</table>
 
 >[!NOTE]
 >
