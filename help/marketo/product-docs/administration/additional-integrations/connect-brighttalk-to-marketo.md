@@ -1,7 +1,7 @@
 ---
 unique-page-id: 15695874
-description: "Verbinden [!DNL BrightTALK] mit Marketo - Marketo Docs - Produktdokumentation"
-title: "Connect [!DNL BrightTALK] to Marketo"
+description: Verbinden von [!DNL BrightTALK] mit Marketo - Marketo Docs - Produktdokumentation
+title: Verbinden von [!DNL BrightTALK] mit Marketo
 exl-id: 5c6a12ec-301b-4dec-975c-24ec759ebb37
 feature: Administration, Integrations
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 6095008
-description: "Add [!DNL Google AdWords] as a [!DNL LaunchPoint] service - Marketo Docs - Product Documentation"
-title: "Hinzufügen von [!DNL Google AdWords] als  [!DNL LaunchPoint] Dienst"
+description: Hinzufügen von [!DNL Google AdWords] as a [!DNL LaunchPoint] service - Marketo Docs - Produktdokumentation
+title: Hinzufügen von [!DNL Google AdWords] als [!DNL LaunchPoint] Dienst
 exl-id: 993a057a-3f98-4a9f-a770-c9c80dedfd81
 feature: Administration, Integrations
 source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
 source-wordcount: '277'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -61,7 +61,7 @@ Erfahren Sie mehr über die Funktion [Google für den Offline-Konversionsimport]
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-7.png)
 
-1. Der Status wird als **[!UICONTROL Erfolg]** angezeigt. Wählen Sie **[!UICONTROL Weiter]** aus.
+1. Der Status wird als **[!UICONTROL Erfolg]** angezeigt. Klicken Sie auf **[!UICONTROL Weiter]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-8.png)
 

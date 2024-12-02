@@ -1,7 +1,7 @@
 ---
 unique-page-id: 17728028
-description: "Add [!DNL Zoom] as a [!DNL LaunchPoint] service - Marketo Docs - Product Documentation"
-title: "Hinzufügen von [!DNL Zoom] als  [!DNL LaunchPoint] Dienst"
+description: Hinzufügen von [!DNL Zoom] as a [!DNL LaunchPoint] service - Marketo Docs - Produktdokumentation
+title: Hinzufügen von [!DNL Zoom] als [!DNL LaunchPoint] Dienst
 exl-id: f5ea016e-d4ca-4adf-be29-14810e9f509c
 feature: Administration, Integrations
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b

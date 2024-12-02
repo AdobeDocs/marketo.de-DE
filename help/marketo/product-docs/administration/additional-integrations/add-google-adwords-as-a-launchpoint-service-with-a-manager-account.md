@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504893
-description: "Hinzufügen von [!DNL Google AdWords] als [!DNL Launchpoint] Dienst mit einem Manager-Konto - Marketo Docs - Produktdokumentation"
-title: "Hinzufügen von [!DNL Google AdWords] als [!DNL Launchpoint] Dienst mit einem Manager-Konto"
+description: Hinzufügen von [!DNL Google AdWords] als [!DNL Launchpoint] Dienst mit einem Manager-Konto - Marketo Docs - Produktdokumentation
+title: Hinzufügen von [!DNL Google AdWords] als [!DNL Launchpoint] Dienst mit einem Manager-Konto
 exl-id: aac106f4-6615-49d5-a561-0dd965c7b0ff
 feature: Administration, Integrations
 source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
 source-wordcount: '307'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -63,7 +63,7 @@ Erfahren Sie mehr über die Funktion [Google für den Offline-Konversionsimport]
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-7.png)
 
-1. Der Status wird als **[!UICONTROL Erfolg]** angezeigt. Wählen Sie **[!UICONTROL Weiter]** aus.
+1. Der Status wird als **[!UICONTROL Erfolg]** angezeigt. Klicken Sie auf **[!UICONTROL Weiter]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-8.png)
 

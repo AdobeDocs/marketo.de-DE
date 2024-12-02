@@ -1,7 +1,7 @@
 ---
 unique-page-id: 7512272
-description: "Add [!DNL Webex] as a [!DNL LaunchPoint] service - Marketo Docs - Product Documentation"
-title: "Hinzufügen von [!DNL Webex] als  [!DNL LaunchPoint] Dienst"
+description: Hinzufügen von [!DNL Webex] as a [!DNL LaunchPoint] service - Marketo Docs - Produktdokumentation
+title: Hinzufügen von [!DNL Webex] als [!DNL LaunchPoint] Dienst
 exl-id: 2c2cedde-d38f-4d53-a760-104b517afc4c
 feature: Administration, Integrations
 source-git-commit: d8ee31db267a6e24ed4c764b6feae882e3dc6266

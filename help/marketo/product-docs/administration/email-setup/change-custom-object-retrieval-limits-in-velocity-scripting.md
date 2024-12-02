@@ -1,6 +1,6 @@
 ---
-description: "Ändern von benutzerdefinierten Objektabruffristen in [!DNL Velocity Scripting]  - Marketo Docs - Produktdokumentation"
-title: "Ändern von benutzerdefinierten Objektabruffristen in [!DNL Velocity Scripting]"
+description: Ändern Sie benutzerdefinierte Objektabruffristen in [!DNL Velocity Scripting]  - Marketo Docs - Produktdokumentation
+title: Ändern der benutzerdefinierten Objektabruffristen in [!DNL Velocity Scripting]
 exl-id: ef45205e-421d-4d1d-8c9d-7d627326a90c
 feature: Email Setup
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f

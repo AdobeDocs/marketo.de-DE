@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2360354
-description: '"Fügen Sie Ihrer Website den Trackingcode hinzu - Marketo-Dokumente - Produktdokumentation" [!DNL Munchkin] '
-title: "Fügen Sie [!DNL Munchkin] Trackingcode zu Ihrer Website hinzu"
+description: 'Fügen Sie Ihrer Website den Trackingcode hinzu - Marketo Docs - Produktdokumentation [!DNL Munchkin] '
+title: 'Fügen Sie den Trackingcode für Ihre Website hinzu. [!DNL Munchkin] '
 exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
 feature: Administration, Munchkin Tracking Code
 source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
@@ -39,7 +39,7 @@ Der benutzerdefinierte JavaScript-Trackingcode von Marketo namens [!DNL Munchkin
 
    >[!NOTE]
    >
-   >In fast allen Fällen sollten Sie den asynchronen Code verwenden. [Weitere Infos](#types-of-munchkin-tracking-codes).
+   >In fast allen Fällen sollten Sie den asynchronen Code verwenden. [Weitere Informationen](#types-of-munchkin-tracking-codes).
 
 1. Klicken Sie auf den Javascript-Trackingcode und kopieren Sie ihn in Ihre Website.
 
@@ -59,7 +59,7 @@ Der benutzerdefinierte JavaScript-Trackingcode von Marketo namens [!DNL Munchkin
 
    >[!TIP]
    >
-   >Bei Sites mit hohem Traffic-Aufkommen (d. h. Hunderttausende Besuche pro Monat) empfehlen wir, keine anonymen Personen zu verfolgen. [Weitere Infos](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking/){target="_blank"}.
+   >Bei Sites mit hohem Traffic-Aufkommen (d. h. Hunderttausende Besuche pro Monat) empfehlen wir, keine anonymen Personen zu verfolgen. [Weitere Informationen](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking/){target="_blank"}.
 
 ## Hinzufügen von Trackingcode bei Verwendung mehrerer Arbeitsbereiche {#add-tracking-code-when-using-multiple-workspaces}
 

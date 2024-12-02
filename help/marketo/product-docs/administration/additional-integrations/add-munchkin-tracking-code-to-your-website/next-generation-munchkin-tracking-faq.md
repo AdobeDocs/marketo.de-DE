@@ -1,7 +1,7 @@
 ---
 unique-page-id: 10096583
-description: "Nächste Generation [!DNL Munchkin] Häufig gestellte Fragen zum Tracking - Marketo-Dokumente - Produktdokumentation"
-title: "Nächste Generation [!DNL Munchkin] Häufig gestellte Fragen zum Tracking"
+description: Nächste Generation [!DNL Munchkin] Häufig gestellte Fragen zum Tracking - Marketo-Dokumente - Produktdokumentation
+title: Nächste Generation [!DNL Munchkin] Häufig gestellte Fragen zum Tracking
 exl-id: 283189ac-c817-479a-b896-91233980608c
 feature: Administration, Munchkin Tracking Code
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
@@ -27,7 +27,7 @@ Wir haben noch kein genaues Datum, aber bitte schauen Sie hier zurück, um Updat
 
 ## Muss ich Änderungen an meinem [!DNL Munchkin]-Tracking auf meiner Website vornehmen? {#will-i-need-to-make-any-changes-to-my-munchkin-tracking-on-my-website}
 
-Anz. Der Trackingcode für [!DNL Munchkin] bleibt gleich. An Ihrer Website müssen keine Änderungen vorgenommen werden.
+Nein. Der Trackingcode für [!DNL Munchkin] bleibt gleich. An Ihrer Website müssen keine Änderungen vorgenommen werden.
 
 >[!NOTE]
 >
