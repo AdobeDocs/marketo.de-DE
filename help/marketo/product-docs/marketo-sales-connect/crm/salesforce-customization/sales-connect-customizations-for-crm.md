@@ -4,20 +4,16 @@ description: Sales Connect-Anpassungen für CRM - Marketo-Dokumente - Produktdok
 title: Sales Connect-Anpassungen für CRM
 exl-id: c7344ec2-a16b-48a1-8e39-1bbd2818db80
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: dbf058714f6c4e6003c5a64d1048ac8a47931a0f
 workflow-type: tm+mt
-source-wordcount: '701'
-ht-degree: 0%
+source-wordcount: '690'
+ht-degree: 2%
 
 ---
 
 # Sales Connect-Anpassungen für CRM {#sales-connect-customizations-for-crm}
 
-Die Felder und Schaltflächen unten werden von der Metadaten-API in Salesforce CRM erstellt. Nach der Erstellung der Felder müssen Administratoren die Seitenlayouts in ihrem CRM-System konfigurieren, um sie verfügbar zu machen. Anweisungen finden Sie [hier](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf).
-
->[!NOTE]
->
->Dies wirkt sich sowohl auf ToutApp- als auch auf Sales Connect-Kunden aus.
+Die Felder und Schaltflächen unten werden von der Metadaten-API im Salesforce CRM erstellt. Nach der Erstellung der Felder müssen Administratoren die Seitenlayouts in ihrem CRM-System konfigurieren, um sie verfügbar zu machen. Anweisungen [finden Sie hier](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/assets/mse-for-sf-classic.pdf).
 
 ## Installieren von Anpassungen in Salesforce {#how-to-install-customizations-in-salesforce}
 
@@ -25,7 +21,7 @@ Die Felder und Schaltflächen unten werden von der Metadaten-API in Salesforce C
 
    ![](assets/one.png)
 
-1. Wählen Sie unter &quot;Admin Settings&quot;**Salesforce** aus.
+1. Wählen Sie unter &quot;Admin Settings&quot;den Eintrag **Salesforce**.
 
    ![](assets/two.png)
 
@@ -33,7 +29,7 @@ Die Felder und Schaltflächen unten werden von der Metadaten-API in Salesforce C
 
    ![](assets/three.png)
 
-1. Klicken Sie auf **Mit Salesforce verbinden**.
+1. Klicken Sie auf **Verbindung zu Salesforce herstellen**.
 
    ![](assets/four.png)
 
@@ -77,97 +73,166 @@ Nach Abschluss des Vorgangs zeigt Ihre Karte an, dass Ihre Anpassungen an Sales 
 
 Marketo erkennt die Erstellung der neuen Felder und führt dann eine einmalige Aufstockung der Daten, eine erneute Zuordnung und eine fortlaufende Synchronisierung der Werte nur in den **neuen** -Feldern durch. Alte Felder werden nicht aktualisiert.
 
-| **Feldname** | **Beschreibung** |
-|---|---|
-| Lokale Präsenz-ID des MSE-Aufrufs | Als Benutzer können Sie bei Aufrufen über das MSE Phone &quot;Lokale Präsenz&quot;als Option wählen. Eingehende Aufrufe zeigen eine lokale Nummer für den Empfänger an. |
-| URL zur Aufzeichnung von MSE-Aufrufen | Aufrufe können aufgezeichnet werden und hier wird ein Link für die Aufzeichnung protokolliert. |
-| MSE-Kampagne | Protokollierungsname der MSE-Kampagne, der der Kontakt/Lead angehört. |
-| MSE-Kampagnen-URL | Protokolliert die URL für die in MSE erstellte Kampagne. Wenn Sie auf diese Option klicken, wird die Kampagne in der MSE-Web-App geöffnet. |
-| Aktueller Schritt einer MSE-Kampagne | Wenn ein Kontakt/Lead Teil einer Kampagne ist, protokolliert dieses Feld den Namen des Schritts, in dem sich der Lead/Kontakt derzeit befindet. |
-| Angezeigte MSE-E-Mail-Anlage | Protokolliert Daten, wenn eine E-Mail mit einem Anhang gesendet und der Anhang vom Empfänger angezeigt wird. |
-| MSE-E-Mail angeklickt | Protokolliert ein Häkchen, wenn der Empfänger auf einen Link in einer E-Mail klickt. |
-| MSE-E-Mail beantwortet | Protokolliert ein Häkchen, wenn der Empfänger auf eine E-Mail antwortet. |
-| MSE Email Status | Zeigt an, ob eine E-Mail gesendet/in Bearbeitung/abgestürzt wurde (das Tracking nicht zugestellter E-Mails hängt vom verwendeten Versandkanal ab). |
-| MSE Email Template | Logs name of the MSE template that was used in the email sent to the lead/contact. |
-| URL der MSE-E-Mail-Vorlage | Protokolliert die URL auf die in MSE erstellte Vorlage. Wenn Sie auf diese Option klicken, wird die Vorlage in der MSE-Web-App geöffnet. |
-| MSE Email URL | Wenn Sie auf diese URL klicken, wird das Command Center in MSE geöffnet und die Registerkarte &quot;People Detail View history&quot;abgerufen, auf der Sie die gesendete E-Mail sehen können. |
-| Angezeigte MSE-E-Mail | Protokolliert ein Häkchen, wenn der Empfänger eine E-Mail anzeigt. |
+<table><thead>
+  <tr>
+    <th>Feldname</th>
+    <th>Beschreibung</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Lokale Präsenz-ID des MSE-Aufrufs</td>
+    <td>Als Benutzer können Sie bei Aufrufen über das MSE Phone "Lokale Präsenz"als Option wählen. Eingehende Aufrufe zeigen eine lokale Nummer für den Empfänger an.</td>
+  </tr>
+  <tr>
+    <td>URL zur Aufzeichnung von MSE-Aufrufen</td>
+    <td>Aufrufe können aufgezeichnet werden und hier wird ein Link für die Aufzeichnung protokolliert.</td>
+  </tr>
+  <tr>
+    <td>MSE-Kampagne</td>
+    <td>Protokollierungsname der MSE-Kampagne, der der Kontakt/Lead angehört.</td>
+  </tr>
+  <tr>
+    <td>MSE-Kampagnen-URL</td>
+    <td>Protokolliert die URL für die in MSE erstellte Kampagne. Wenn Sie auf diese Option klicken, wird die Kampagne in der MSE-Web-App geöffnet.</td>
+  </tr>
+  <tr>
+    <td>Aktueller Schritt einer MSE-Kampagne</td>
+    <td>Wenn ein Kontakt/Lead Teil einer Kampagne ist, protokolliert dieses Feld den Namen des Schritts, in dem sich der Lead/Kontakt derzeit befindet.</td>
+  </tr>
+  <tr>
+    <td>Angezeigte MSE-E-Mail-Anlage</td>
+    <td>Protokolliert Daten, wenn eine E-Mail mit einem Anhang gesendet und der Anhang vom Empfänger angezeigt wird.</td>
+  </tr>
+  <tr>
+    <td>MSE-E-Mail angeklickt</td>
+    <td>Protokolliert ein Häkchen, wenn der Empfänger auf einen Link in einer E-Mail klickt.</td>
+  </tr>
+  <tr>
+    <td>MSE-E-Mail beantwortet</td>
+    <td>Protokolliert ein Häkchen, wenn der Empfänger auf eine E-Mail antwortet.</td>
+  </tr>
+  <tr>
+    <td>MSE Email Status</td>
+    <td>Zeigt an, ob eine E-Mail gesendet/in Bearbeitung/abgestürzt wurde (das Tracking nicht zugestellter E-Mails hängt vom verwendeten Versandkanal ab).</td>
+  </tr>
+  <tr>
+    <td>MSE Email Template</td>
+    <td>Logs name of the MSE template that was used in the email sent to the lead/contact.</td>
+  </tr>
+  <tr>
+    <td>URL der MSE-E-Mail-Vorlage</td>
+    <td>Protokolliert die URL auf die in MSE erstellte Vorlage. Wenn Sie auf diese Option klicken, wird die Vorlage in der MSE-Web-App geöffnet.</td>
+  </tr>
+  <tr>
+    <td>MSE Email URL</td>
+    <td>Wenn Sie auf diese URL klicken, wird das Command Center in MSE geöffnet und die Registerkarte "People Detail View history"abgerufen, auf der Sie die gesendete E-Mail sehen können.</td>
+  </tr>
+  <tr>
+    <td>Angezeigte MSE-E-Mail</td>
+    <td>Protokolliert ein Häkchen, wenn der Empfänger eine E-Mail anzeigt.</td>
+  </tr>
+</tbody></table>
 
 ## Datenaggregations-Protokollierungsfelder {#roll-up-logging-fields}
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td><strong>Feldname</strong></td> 
-   <td><strong>Beschreibung</strong></td> 
-  </tr> 
-  <tr> 
-   <td>MSE - Letzte Marketinginteraktion</td> 
-   <td>Letzte eingehende Interaktion vom Marketing. </td> 
-  </tr> 
-  <tr> 
-   <td>MSE - Datum der letzten Marketing-Interaktion</td> 
-   <td>Zeitstempel der Interaktion vom Marketing.</td> 
-  </tr> 
-  <tr> 
-   <td>MSE - Letzte Marketing Engagement Desc</td> 
-   <td>Beschreibung der Interaktion.</td> 
-  </tr> 
-  <tr> 
-   <td>MSE - Letzte Marketinginteraktion - Source</td> 
-   <td>Source der Marketinginteraktion.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">MSE - Letzter Marketing-Interaktionstyp</td> 
-   <td colspan="1">Art der Interaktion.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">MSE - Letzte Aktivität nach Vertrieb<br></td> 
-   <td colspan="1">Letzte ausgehende Aktivität, die vom Sales-Team durchgeführt wurde.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">MSE - Zuletzt geantwortet</td> 
-   <td colspan="1">Letzte E-Mail-Antwort auf die E-Mail "Verkauf".</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">MSE - Aktuelle Vertriebskampagne</td> 
-   <td colspan="1">Protokollname der MSE-Kampagne, der der Lead/Kontakt angehört.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">MSE - Letzte Vertriebsinteraktion</td> 
-   <td colspan="1">Letzte eingehende Interaktion aus dem Verkauf. </td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">MSE - Opt-out</td> 
-   <td colspan="1">Opt-out-Feld.</td> 
-  </tr> 
- </tbody> 
-</table>
+<table><thead>
+  <tr>
+    <th>Feldname</th>
+    <th>Beschreibung</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>MSE - Letzte Marketinginteraktion</td>
+    <td>Letzte eingehende Interaktion vom Marketing.</td>
+  </tr>
+  <tr>
+    <td>MSE - Datum der letzten Marketing-Interaktion</td>
+    <td>Zeitstempel der Interaktion vom Marketing.</td>
+  </tr>
+  <tr>
+    <td>MSE - Letzte Marketing Engagement Desc</td>
+    <td>Beschreibung der Interaktion.</td>
+  </tr>
+  <tr>
+    <td>MSE - Letzte Marketinginteraktion - Source</td>
+    <td>Source der Marketinginteraktion.</td>
+  </tr>
+  <tr>
+    <td>MSE - Letzter Marketing-Interaktionstyp</td>
+    <td>Art der Interaktion.</td>
+  </tr>
+  <tr>
+    <td>MSE - Letzte Aktivität nach Vertrieb</td>
+    <td>Letzte ausgehende Aktivität, die vom Sales-Team durchgeführt wurde.</td>
+  </tr>
+  <tr>
+    <td>MSE - Zuletzt geantwortet</td>
+    <td>Letzte E-Mail-Antwort auf die E-Mail "Verkauf".</td>
+  </tr>
+  <tr>
+    <td>MSE - Aktuelle Vertriebskampagne</td>
+    <td>Protokollname der MSE-Kampagne, der der Lead/Kontakt angehört.</td>
+  </tr>
+  <tr>
+    <td>MSE - Letzte Vertriebsinteraktion</td>
+    <td>Letzte eingehende Interaktion aus dem Verkauf.</td>
+  </tr>
+  <tr>
+    <td>MSE - Opt-out</td>
+    <td>Opt-out-Feld.</td>
+  </tr>
+</tbody></table>
 
 ## Schaltflächen {#buttons}
 
-| **Schaltflächenname** | **Beschreibung** |
-|---|---|
-| MSE-E-Mail senden | Senden Sie E-Mails zum Vertrieb von Salesforce. |
-| Zu MSE-Kampagne hinzufügen | Fügen Sie zu MSE-Kampagnen aus Salesforce hinzu. |
-| Push to MSE | Push-Kontakt von Salesforce zu MSE. |
-| Aufruf mit MSE | Führen Sie Verkaufsaufrufe von Salesforce durch. |
+<table><thead>
+  <tr>
+    <th>Schaltflächenname</th>
+    <th>Beschreibung</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>MSE-E-Mail senden</td>
+    <td>Senden Sie E-Mails zum Vertrieb aus Salesforce.</td>
+  </tr>
+  <tr>
+    <td>Zu MSE-Kampagne hinzufügen</td>
+    <td>Zu MSE-Kampagnen aus Salesforce hinzufügen.</td>
+  </tr>
+  <tr>
+    <td>Push to MSE</td>
+    <td>Push-Kontakt von Salesforce zu MSE.</td>
+  </tr>
+  <tr>
+    <td>Aufruf mit MSE</td>
+    <td>Führen Sie Verkaufsaufrufe von Salesforce aus durch.</td>
+  </tr>
+</tbody>
+</table>
 
 ## Massenaktion - Schaltflächen {#bulk-action-buttons}
 
-| **Schaltflächenname** | **Beschreibung** |
-|---|---|
-| Zu MSE-Kampagne hinzufügen | Fügen Sie zu MSE-Kampagnen aus Salesforce hinzu. |
-| Push to MSE | Push-Kontakt von Salesforce zu MSE. |
+<table><thead>
+  <tr>
+    <th>Schaltflächenname</th>
+    <th>Beschreibung</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Zu MSE-Kampagne hinzufügen</td>
+    <td>Zu MSE-Kampagnen aus Salesforce hinzufügen.</td>
+  </tr>
+  <tr>
+    <td>Push to MSE</td>
+    <td>Push-Kontakt von Salesforce zu MSE.</td>
+  </tr>
+</tbody>
+</table>
 
 ## Benutzerhandbücher {#user-guides}
 
-[MSE Benutzerspezifische Berichte in Salesforce](https://docs.marketo.com/display/docs/assets/mse-custom-reports-in-sf.docx)
+[Benutzerdefinierte MSE-Berichte in Salesforce](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/assets/reports-and-dashboards.pdf)
 
-[MSE für Salesforce](https://docs.marketo.com/display/docs/assets/mse-for-sf-classic.pdf)
+[MSE für Salesforce Classic](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/assets/mse-for-sf-classic.pdf)
 
-[MSE für Salesforce-Blitze](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
+[MSE für Salesforce-Blitze](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/assets/sfdc-guide-lightning.pdf)

@@ -3,9 +3,9 @@ description: Weiterleiten eines interaktiven Webinars - Marketo-Dokumente - Prod
 title: Weiterleiten eines interaktiven Webinars
 feature: Interactive Webinars
 exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
-source-git-commit: e4a6123684162d9bbf2edddbd9aaf190030dc728
+source-git-commit: dbf058714f6c4e6003c5a64d1048ac8a47931a0f
 workflow-type: tm+mt
-source-wordcount: '654'
+source-wordcount: '653'
 ht-degree: 0%
 
 ---
@@ -44,7 +44,7 @@ Mit interaktiven Webinaren können Sie eine Registrierung vor, während oder nac
 
 ## Interaktive Webinare-Token {#interactive-webinars-tokens}
 
-Verwenden Sie Token, um interaktive Webinare in E-Mails und Landingpages zu bewerben, ohne die Webinardetails manuell hinzufügen zu müssen. Dadurch wird die Gesamteffizienz verbessert, da Änderungen an den Webinar-Metadaten (z. B. Webinartitel, Startdatum usw.) automatisch in Ihren Assets übernommen werden.
+Verwenden Sie Token, um interaktive Webinare in E-Mails und Landingpages zu bewerben, ohne manuell Webinardetails hinzufügen zu müssen. Dadurch wird die Gesamteffizienz verbessert, da Änderungen an den Webinar-Metadaten (z. B. Webinartitel, Startdatum usw.) automatisch in Ihren Assets übernommen werden.
 
 ![](assets/promoting-an-interactive-webinar-3.png)
 
