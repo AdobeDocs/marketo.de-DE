@@ -3,7 +3,7 @@ description: Klassisches Symbol-Glossar - Marketo Docs - Produktdokumentation
 title: Glossar zu klassischen Symbolen
 feature: Getting Started
 exl-id: 05706dc2-9e8b-4f10-89cf-996a69bc4816
-source-git-commit: 87cf178f82103025ff0132c4a6a40166237805c9
+source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
 workflow-type: tm+mt
 source-wordcount: '563'
 ht-degree: 34%
@@ -220,7 +220,7 @@ Nachstehend finden Sie die alten Symbole der Benutzeroberfläche von Marketo Cla
   <tr> 
    <td><img src="assets/image2015-1-9-8-3a40-3a3.png"> 
     </td> 
-   <td>Administrator</td> 
+   <td>Admin</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-9-8-3a46-3a19.png"> 
@@ -381,7 +381,7 @@ Nachstehend finden Sie die alten Symbole der Benutzeroberfläche von Marketo Cla
   <tr> 
    <td><img src="assets/image2015-1-9-14-3a53-3a0.png"> 
     </td> 
-   <td>Code einbetten</td> 
+   <td>Einbetten von Code</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-9-14-3a53-3a40.png"> 
@@ -739,7 +739,7 @@ Nachstehend finden Sie die alten Symbole der Benutzeroberfläche von Marketo Cla
   <tr> 
    <td><img src="assets/image2015-1-5-14-3a31-3a7.png"> 
     </td> 
-   <td>Salesforce (auch für alle mit SFDC zusammenhängenden Elemente)</td> 
+   <td>Salesforce (auch bei allen SFDC-bezogenen Elementen)</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-15-3a44-3a30.png"> 
@@ -790,7 +790,7 @@ Nachstehend finden Sie die alten Symbole der Benutzeroberfläche von Marketo Cla
   <tr> 
    <td><img src="assets/image2015-1-5-14-3a31-3a7.png"> 
     </td> 
-   <td>Salesforce (auch für alle mit SFDC zusammenhängenden Elemente)</td> 
+   <td>Salesforce (auch bei allen SFDC-bezogenen Elementen)</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-14-3a33-3a11.png"> 
@@ -885,3 +885,4 @@ Nachstehend finden Sie die alten Symbole der Benutzeroberfläche von Marketo Cla
   </tr> 
  </tbody> 
 </table>
+ 

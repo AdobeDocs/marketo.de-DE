@@ -4,9 +4,9 @@ description: Mehrere Einstiegsseiten gleichzeitig genehmigen - Marketo-Dokumente
 title: Mehrere Einstiegsseiten gleichzeitig genehmigen
 exl-id: 0ce831fd-29e5-4bf9-96a9-c955e4a32ddb
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
@@ -15,27 +15,27 @@ ht-degree: 0%
 
 1. Wechseln Sie zu **Design Studio**.
 
-   ![](assets/image2014-9-17-11-3a35-3a5.png)
+   ![](assets/approve-multiple-landing-pages-at-once-1.png)
 
 1. Klicken Sie auf **Landingpages**.
 
-   ![](assets/image2014-9-17-11-3a35-3a11.png)
+   ![](assets/approve-multiple-landing-pages-at-once-2.png)
 
-1. Halten Sie die Strg- (Windows) bzw. Befehlstaste (Mac) gedrückt und klicken Sie auf , um mehrere Landingpages auszuwählen.
+1. Wählen Sie die gewünschten Einstiegsseiten aus.
 
-   ![](assets/image2014-9-17-11-3a35-3a19.png)
+   ![](assets/approve-multiple-landing-pages-at-once-3.png)
 
    >[!TIP]
    >
-   >Klicken Sie nicht auf den tatsächlichen Namen der Landingpage. Dies sind Links, über die Sie zur Seite selbst gelangen.
+   >Klicken Sie nicht auf den tatsächlichen Namen der Landingpage. Hierbei handelt es sich um Links, über die Sie zur Seite selbst gelangen.
 
-1. Wählen Sie die Landingpage aus und gehen Sie zu **Landingpage-Aktionen** und klicken Sie auf **Genehmigen**.
+1. Klicken Sie bei ausgewählten Landingpages auf das Dropdown-Menü **Landingpage-Aktionen** und wählen Sie **Genehmigen** aus.
 
-   ![](assets/image2014-9-17-11-3a35-3a27.png)
+   ![](assets/approve-multiple-landing-pages-at-once-4.png)
 
-   Los geht&#39;s! Sie können jetzt schnell und einfach mehrere Landingpages genehmigen.
+1. Klicken Sie auf **Genehmigen**.
 
-   ![](assets/image2014-9-17-11-3a35-3a36.png)
+   ![](assets/approve-multiple-landing-pages-at-once-5.png)
 
    >[!TIP]
    >

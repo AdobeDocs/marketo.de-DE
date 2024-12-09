@@ -4,7 +4,7 @@ description: Syntax der E-Mail-Vorlage - Marketo-Dokumente - Produktdokumentatio
 title: Syntax der E-Mail-Vorlage
 exl-id: 84d6c0a8-1108-4b7e-8b4f-ac0682c6bdbb
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
 workflow-type: tm+mt
 source-wordcount: '2449'
 ht-degree: 1%
@@ -25,13 +25,13 @@ Die E-Mail-Syntax von Marketo funktioniert nur in Vorlagen und E-Mails. Sie funk
 >
 >Bei Klassenwerten mit Marketo-Syntax (d. h. mktoModule, mktoContainer, mktoText) wird zwischen Groß- und Kleinschreibung unterschieden. Benutzerdefinierte Attributnamen (d. h. mktoimgwidth, mktoname) sind nicht vorhanden.
 
-## Elemente {#elements}
+## Elementen {#elements}
 
 Elemente sind Inhaltsbereiche, die Sie in Ihrer E-Mail-Vorlage als bearbeitbar definieren. Das Bearbeitungserlebnis eines Elements ist seinem Typ eindeutig und bietet eine einfache Möglichkeit, mit Inhalten zu arbeiten. Folgende Elemente können in eine E-Mail-Vorlage aufgenommen werden:
 
 * RTF
 * Bilder
-* Ausschnitte
+* Snippets
 * Videos
 
 ## RTF {#rich-text}
@@ -57,7 +57,7 @@ Der Inhalt im HTML-Element (sofern vorhanden) mit class=&quot;mktEditable&quot; 
 
 Beispiel:
 
-`<pre data-theme="Confluence"><div class="mktEditable" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area. </div></pre>`
+`<div class="mktEditable" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area. </div>`
 
 ### Option 2: mktoText {#option-mktotext}
 
@@ -75,7 +75,7 @@ Der Inhalt im HTML-Element (sofern vorhanden) mit class=&quot;mktoText&quot; wir
 
 Beispiel:
 
-`<pre data-theme="Confluence"><div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area. </div></pre>`
+`<div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area. </div>`
 
 ## Bilder {#images}
 
@@ -106,7 +106,7 @@ Standardwert (optional)
 
 Beispiel:
 
-`<pre data-theme="Confluence"><div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="https://www.marketo.com"> <a><img style="border:10px solid red;"></a> </div></pre>`
+`<div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="https://www.marketo.com"> <a><img style="border:10px solid red;"></a> </div>`
 
 ### Option 2: Verwenden eines \&lt;img\> {#option-use-an-img}
 
@@ -124,9 +124,9 @@ Erforderliche Attribute
 * **mktoLockImgStyle:** Wird zum Sperren der Stileigenschaft des Elements `<img>` verwendet (der Standard lautet &quot;false&quot;).
 
 Beispiel:
-`<pre data-theme="Confluence"><img class="mktoImg" id="exampleImg" mktoName="Example Image"></pre>`
+`<img class="mktoImg" id="exampleImg" mktoName="Example Image">`
 
-## Ausschnitte {#snippets}
+## Snippets {#snippets}
 
 Wenn Sie eine Region als Snippet definieren, können Endbenutzer wählen, welches genehmigte [Snippet](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md) eingefügt werden soll. Rich-Text-Elemente können zwar im E-Mail-Editor in Snippets konvertiert werden, aber wenn Sie eine Region spezifisch als Snippet definieren, kann sie nicht in Rich-Text konvertiert werden. Sie können einen Snippet-Bereich mit einem `<div>` mit class=&quot;mktoSnippet&quot; angeben.
 
@@ -141,7 +141,7 @@ Standardwert (optional)
 
 Beispiel:
 
-`<pre data-theme="Confluence"><div class="mktoSnippet" id="unsubscribeFooter" mktoName="Unsubscribe Footer" mktoDefaultSnippetId="12"></div></pre>`
+`<div class="mktoSnippet" id="unsubscribeFooter" mktoName="Unsubscribe Footer" mktoDefaultSnippetId="12"></div>`
 
 ## Video {#video}
 
@@ -158,13 +158,13 @@ Optionale Attribute
 
 Beispiel:
 
-`<pre data-theme="Confluence"><div class="mktoVideo" id="productVideo" mktoName="Product Announcement Video"></div></pre>`
+`<div class="mktoVideo" id="productVideo" mktoName="Product Announcement Video"></div>`
 
 ## Variablen {#variables}
 
 Variablen sind wie Token. Definieren Sie sie zunächst im Abschnitt `<head>` Ihrer E-Mail-Vorlage mithilfe von `<meta>` -Tags und verwenden Sie sie dann beliebig oft in der Vorlage. Da sie in der Vorlage definiert sind, kann der Endbenutzer seine Werte entsprechend seinen Regeln ändern. Beachten Sie, dass Sie eine Variable im Umfang als lokal oder global definieren können. Wenn Sie eine Variable in einem &quot;Modul&quot;verwenden (siehe unten) und ein Endbenutzer dieses Modul dupliziert, verfügen lokale Variablen über unabhängige Werte, während globale Variablen für beide Module gelten.
 
-## Zeichenfolge {#string}
+## String {#string}
 
 Wenn Sie eine Variable als Zeichenfolge angeben, kann der Endbenutzer Text in einem Textfeld im E-Mail-Editor eingeben. Sie geben eine String-Variable mit `<meta>` und class=&quot;mktoString&quot; an.
 
@@ -181,11 +181,11 @@ Optionale Attribute
 
 Beispieldeklaration:
 
-`<pre data-theme="Confluence"><meta class="mktoString" id="textHeader" mktoName="Text Header" default="Edit Me"></pre>`
+`<meta class="mktoString" id="textHeader" mktoName="Text Header" default="Edit Me">`
 
 Beispielverwendung:
 
-`<pre data-theme="Confluence">${textHeader}</pre>`
+`${textHeader}`
 
 ## Liste {#list}
 
@@ -204,11 +204,11 @@ Optionale Attribute
 
 Beispieldeklaration:
 
-`<pre data-theme="Confluence"><meta class="mktoList" id="textFontFamily" mktoName="Main Text Font Family" values="Arial,Verdana,Times New Roman"></pre>`
+`<meta class="mktoList" id="textFontFamily" mktoName="Main Text Font Family" values="Arial,Verdana,Times New Roman">`
 
 Beispielverwendung:
 
-`<pre data-theme="Confluence">${textFontFamily}</pre>`
+`${textFontFamily}`
 
 ## Zahl {#number}
 
@@ -224,17 +224,17 @@ Optionale Attribute
 
 * **min:** Zulässiger Mindestwert.
 * **max:** Max. zulässige Werte.
-* **Einheiten:** Einheiten, die an den Zahlenwert angehängt werden sollen (z. B. px, pt, em usw.) im E-Mail-Editor sowie im resultierenden Code angezeigt werden.
+* **Einheiten:** Einheiten, die beim Anzeigen im E-Mail-Editor an den Zahlenwert (z. B. px, pt, em usw.) sowie im resultierenden Code angehängt werden sollen.
 * **Schritt:** Wie viele Einheiten die Zahlenvariable um (0,1, 1, 10 usw.) erhöhen/verringern soll. Wenn nicht angegeben, wird standardmäßig 1 verwendet.
 * **mktoModuleScope**: Boolesch. Steuert bei Verwendung in einem Modul, ob die Variable lokal (true) oder global (false) ist. Der Standardwert ist &quot;False&quot;, wenn weggelassen.
 
 Beispieldeklaration:
 
-`<pre data-theme="Confluence"><meta class="mktoNumber" id="textFontSize" mktoName="Main Text Font Size" default="12" min="8" max="18" units="px" step="1"> </pre>`
+`<meta class="mktoNumber" id="textFontSize" mktoName="Main Text Font Size" default="12" min="8" max="18" units="px" step="1"> `
 
 Beispielverwendung:
 
-`<pre data-theme="Confluence">${textFontSize}</pre>`
+`${textFontSize}`
 
 ## Farbe {#color}
 
@@ -252,11 +252,11 @@ Optionale Attribute
 
 Beispieldeklaration:
 
-`<pre data-theme="Confluence"><meta class="mktoColor" id="textColor" mktoName="Main Text Color" default="#FFFFFF"></pre>`
+`<meta class="mktoColor" id="textColor" mktoName="Main Text Color" default="#FFFFFF">`
 
 Beispielverwendung:
 
-`<pre data-theme="Confluence">${textColor}</pre>`
+`${textColor}`
 
 ## Boolesch {#boolean}
 
@@ -278,11 +278,11 @@ Optionale Attribute
 
 Beispieldeklaration:
 
-`<pre data-theme="Confluence"><meta class="mktoBoolean" id="showFooter" mktoName="Show Footer BG?" default="false" false_value="transparent" true_value="black" false_value_name="NO" true_value_name="YES"></pre>`
+`<meta class="mktoBoolean" id="showFooter" mktoName="Show Footer BG?" default="false" false_value="transparent" true_value="black" false_value_name="NO" true_value_name="YES">`
 
 Beispielverwendung:
 
-`<pre data-theme="Confluence">${showFooter}</pre>`
+`${showFooter}`
 
 ## HTML-Block {#html-block}
 
@@ -300,11 +300,11 @@ Optionale Attribute
 
 Beispieldeklaration:
 
-`<pre data-theme="Confluence"><meta class="mktoHTML" id="trackingPixel" mktoName="Add Tracking Pixel"></pre>`
+`<meta class="mktoHTML" id="trackingPixel" mktoName="Add Tracking Pixel">`
 
 Beispielverwendung:
 
-`<pre data-theme="Confluence">${trackingPixel}</pre>`
+`${trackingPixel}`
 
 ## Bildvariable {#image-variable}
 
@@ -322,11 +322,11 @@ Optionale Attribute
 
 Beispieldeklaration:
 
-`<pre data-theme="Confluence"><meta class="mktoImg" id="heroBackgroundImage" mktoName="Hero Background Image" default="https://www.company.com/image.jpg"></pre>`
+`<meta class="mktoImg" id="heroBackgroundImage" mktoName="Hero Background Image" default="https://www.company.com/image.jpg">`
 
 Beispielverwendung:
 
-`<pre data-theme="Confluence">${heroBackgroundImage}</pre>`
+`${heroBackgroundImage}`
 
 ## Module {#modules}
 

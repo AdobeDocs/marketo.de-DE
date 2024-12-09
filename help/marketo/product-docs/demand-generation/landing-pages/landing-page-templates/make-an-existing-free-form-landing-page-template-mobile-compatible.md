@@ -4,7 +4,7 @@ description: Vorhandene Freiform-Landingpage-Vorlage für Mobilgeräte kompatibe
 title: Vorhandene Freiform-Landingpage-Vorlage für Mobilgeräte kompatibel machen
 exl-id: 942456a5-3f3e-4a71-aecc-4cc6bf6237b3
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
 workflow-type: tm+mt
 source-wordcount: '251'
 ht-degree: 0%
@@ -53,7 +53,7 @@ Dies kann an zwei Stellen erfolgen: im Vorlagen-Editor und im Landingpage-Editor
 
 Große Fragen! Ihre Vorlage muss die folgenden Tags aufweisen:
 
-`<pre data-theme="Confluence">Must have <!DOCTYPE HTML> Must have a <HEAD> element Must have a <TITLE> in the <HEAD> element Must have <META CHARSET="UTF-8"> within the <HEAD> element Must have a <BODY> element that contains one (and only one) <DIV class="mktoContent"></DIV></pre>`
+`Must have <!DOCTYPE HTML> Must have a <HEAD> element Must have a <TITLE> in the <HEAD> element Must have <META CHARSET="UTF-8"> within the <HEAD> element Must have a <BODY> element that contains one (and only one) <DIV class="mktoContent"></DIV>`
 
 Wenn alles gut aussieht, wirst du diese Nachricht sehen.
 

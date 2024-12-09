@@ -4,7 +4,7 @@ description: Weiterleiten an einen Freunde-Link in E-Mails - Marketo-Dokumente -
 title: Weiterleiten an einen Freunde-Link in E-Mails
 exl-id: 7addac65-4207-419f-845c-d6b2d08d299c
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
 workflow-type: tm+mt
 source-wordcount: '703'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Weiterleiten an einen Freunde-Link in E-Mails {#forward-to-a-friend-link-in-emails}
 
-Wenn Sie den Link &quot;Weiterleiten an Freunde&quot;zu Ihren E-Mails hinzufügen, können Sie Personen, die über diesen Link eine weitergeleitete E-Mail erhalten haben, verfolgen und sie automatisch als neue Person hinzufügen, wenn sie noch nicht in der Datenbank sind.
+Wenn Sie den Link &quot;Weiterleiten an Freunde&quot; zu Ihren E-Mails hinzufügen, können Sie Personen, die über diesen Link eine weitergeleitete E-Mail erhalten haben, verfolgen und diese automatisch als neue Person hinzufügen, wenn sie noch nicht in der Datenbank sind.
 
 Angenommen, Keith verwendet den Link &quot;Weiterleiten an Freunde&quot;, um die E-Mail an eine unbekannte Person, Mark, weiterzuleiten. Mark wird automatisch als neue Person hinzugefügt, erhält sein eigenes Cookie und jede seiner E-Mail- und Web-Aktivitäten ist mit ihm verknüpft. Wenn Keith jedoch die Weiterleitungs-Schaltfläche in seinem E-Mail-Client verwendet, wird Mark fälschlicherweise als Keith-Cookie gesetzt und seine Aktivität wird als Keith&#39;s protokolliert.
 
@@ -29,7 +29,7 @@ Angenommen, Keith verwendet den Link &quot;Weiterleiten an Freunde&quot;, um die
 
 1. Fügen Sie den folgenden HTML-Code an die Stelle ein, an der der Link &quot;Weiterleiten an Freunde&quot;angezeigt werden soll (wenn Sie Hilfe zu diesem Teil benötigen, wenden Sie sich bitte an Ihren Web-Entwickler):
 
-   `<pre data-theme="Confluence"><a href="{{system.forwardToFriendLink}}">Forward to Friend</a></pre>`
+   `<a href="{{system.forwardToFriendLink}}">Forward to Friend</a>`
 
    ![](assets/three-7.png)
 
@@ -42,7 +42,7 @@ Angenommen, Keith verwendet den Link &quot;Weiterleiten an Freunde&quot;, um die
 
    >[!CAUTION]
    >
-   >Es wird nicht empfohlen, den Stil **position:relative** in Ihrer E-Mail-Vorlage zu verwenden. Es kann zu Problemen mit der Position und Anzeige der Box &quot;Weiterleiten an Freunde&quot;führen.
+   >Es wird nicht empfohlen, den Stil **position:relative** in Ihrer E-Mail-Vorlage zu verwenden. Es können Probleme mit der Position und Anzeige des Felds &quot;Weiterleiten an Freunde&quot;auftreten.
 
 1. Klicken Sie auf **Vorschau des Entwurfs anzeigen** , um sicherzustellen, dass die Vorlage wie gewünscht aussieht.
 
@@ -52,7 +52,7 @@ Angenommen, Keith verwendet den Link &quot;Weiterleiten an Freunde&quot;, um die
    >
    >Denken Sie daran, den Vorlagenentwurf zu validieren, um die Änderungen anzuwenden.
 
-   Jetzt haben alle E-Mails, die diese Vorlage verwenden, den Link &quot;Weiterleiten an Freunde&quot;. Wenn der E-Mail-Empfänger darauf klickt, wird er mit dem Feld &quot;Weiterleiten an einen Freund&quot;zu einer Web-Version der E-Mail weitergeleitet:
+   Jetzt haben alle E-Mails, die diese Vorlage verwenden, den Link &quot;Weiterleiten an Freunde&quot;. Wenn der E-Mail-Empfänger darauf klickt, wird er mit der Box &quot;Weiterleiten an einen Freund&quot;zu einer Web-Version der E-Mail weitergeleitet:
 
    ![](assets/f2afbox.png)
 
@@ -94,7 +94,7 @@ Sie können den Link &quot;Weiterleiten an Freunde&quot;auch direkt in eine E-Ma
 
    >[!NOTE]
    >
-   >Neue Personen, die durch Erhalt der E-Mail &quot;Weiterleiten an Freunde&quot;hinzugefügt werden, werden standardmäßig von Marketing-E-Mails abgemeldet.
+   >Neue Personen, die durch den Erhalt der E-Mail &quot;Weiterleiten an Freunde&quot;hinzugefügt werden, werden standardmäßig von Marketing-E-Mails abgemeldet.
 
 ## Weiterleitungsaktivität anzeigen {#view-forwarding-activity}
 
@@ -122,9 +122,9 @@ Sie können im Aktivitätsprotokoll der Person sehen, wer die E-Mails weitergele
 
    ![](assets/sixteen.png)
 
-1. Um eine Person nach ID anzuzeigen, kopieren Sie die **Personen-ID** und fügen Sie sie am Ende der URL ein (der Anfang dieser URL hängt von Ihrer Marketo-Instanz ab):
+1. Um eine Person nach ID anzuzeigen, kopieren Sie die **Personen-ID** und fügen Sie sie am Ende der URL ein (der Anfang der URL hängt von Ihrer Marketo-Instanz ab):
 
-   `<pre data-theme="Confluence">...marketo.com/Database/loadPersonDetail?personId=</pre>`
+   `...marketo.com/Database/loadPersonDetail?personId=`
 
    >[!NOTE]
    >
@@ -134,7 +134,7 @@ Sie können im Aktivitätsprotokoll der Person sehen, wer die E-Mails weitergele
 
    >[!NOTE]
    >
-   >Wenn der Freund, der den Weiterleiten erhält, eine unbekannte Person ist, wird eine neue Person mit &quot;Weiterleiten an Freunde&quot;erstellt, die als **Source** der Person markiert ist.
+   >Wenn der Freund, der den Vorwärts erhält, eine unbekannte Person ist, wird eine neue Person mit &quot;Weiterleiten an Freunde&quot;erstellt, die als **Source** der Person markiert ist.
    >Wenn die E-Mail ein lokales Asset eines Programms ist, wird das Programm als **Akquiseprogramm** der Person markiert.
 
 ## Trigger oder Filter mit der Aktivität &quot;Weiterleitung&quot; {#trigger-or-filter-using-forwarding-activity}
