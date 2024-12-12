@@ -3,9 +3,9 @@ description: Weiterleiten eines interaktiven Webinars - Marketo-Dokumente - Prod
 title: Weiterleiten eines interaktiven Webinars
 feature: Interactive Webinars
 exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
-source-git-commit: dbf058714f6c4e6003c5a64d1048ac8a47931a0f
+source-git-commit: 6747a7b85047024d295ecc2c061bb6370ccfe0b9
 workflow-type: tm+mt
-source-wordcount: '653'
+source-wordcount: '654'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Sobald ein Mitglied in einem interaktiven Webinar-Veranstaltungsprogramm im &quo
 
 Innerhalb weniger Minuten nach der Registrierung wird die Webinar-URL für das Mitglied auf der Registerkarte Mitglieder ausgefüllt. Wenn Sie die Spalte für die Webinar-URL nicht finden können, stellen Sie sicher, dass die Spalte zu Ihrer Ansicht hinzugefügt wurde. Dies ist eine personalisierte URL für jedes registrierte Mitglied, damit es zum geplanten Zeitpunkt in das Webinar eintreten kann, ohne dass eine Authentifizierung erforderlich ist. Intern ausgetauschte Token kümmern sich um die Authentifizierung der Mitglieder.
 
-Sie können Token verwenden, um die Webinar-URL für einzelne Mitglieder einer E-Mail-Kampagne einzubeziehen, um mitzuteilen, dass sie bei der Veranstaltung registriert wurden, und um über die Join-URL zum geplanten Zeitpunkt in das Webinar zu gelangen. Kalendertoken können in derselben E-Mail-Kampagne verwendet werden, um sicherzustellen, dass der Webinarplan den Kalender der Mitglieder hinzugefügt werden kann.
+Mit dem `{{member.webinar url}}` [Token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"} können Sie die Webinar-URL für einzelne Mitglieder einer E-Mail-Kampagne einbeziehen, um mitzuteilen, dass sie in dem Ereignis registriert wurden, und um über die Anschließungs-URL zum geplanten Zeitpunkt in das Webinar zu gelangen. Kalendertoken können in derselben E-Mail-Kampagne verwendet werden, um sicherzustellen, dass der Webinarplan den Kalender der Mitglieder hinzugefügt werden kann.
 
 Links zum Erstellen einer Landingpage und einer E-Mail-Kampagne finden Sie auf der rechten Seite des Tabs Übersicht Ihres Veranstaltungsprogramms. Die übrigen Promotions, die sich auf eine Veranstaltung beziehen, bleiben mit den Partner-Webinaren identisch, die die Launchpoint-Integration verwenden.
 
