@@ -3,7 +3,7 @@ description: Weiterleiten eines interaktiven Webinars - Marketo-Dokumente - Prod
 title: Weiterleiten eines interaktiven Webinars
 feature: Interactive Webinars
 exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
-source-git-commit: 6747a7b85047024d295ecc2c061bb6370ccfe0b9
+source-git-commit: 88c1e40734a980b54f9d7f056399cf9ec2e0e100
 workflow-type: tm+mt
 source-wordcount: '654'
 ht-degree: 0%
@@ -16,7 +16,7 @@ Die Weiterleitung eines interaktiven Webinars ähnelt der Weiterleitung eines Pa
 
 ![](assets/promoting-an-interactive-webinar-1.png)
 
-Nachdem die Mitglieder hinzugefügt oder importiert wurden, können Sie im interaktiven Webinar-Veranstaltungsprogramm eine E-Mail-Kampagne erstellen, um eine Einladung an alle Programmmitglieder zu senden und deren Status nach dem Versand der E-Mail auf &quot;eingeladen&quot;zu ändern.
+Nachdem die Mitglieder hinzugefügt oder importiert wurden, können Sie im interaktiven Webinar-Ereignisprogramm eine E-Mail-Kampagne erstellen, um eine Einladung an alle Programmmitglieder zu senden und deren Status nach dem Versand der E-Mail auf &quot;eingeladen&quot;zu ändern.
 
 >[!NOTE]
 >
