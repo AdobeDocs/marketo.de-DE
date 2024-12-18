@@ -3,26 +3,26 @@ description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokument
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 97806e0df45327fb695f02c02af0dde42a602737
+source-git-commit: 4e13fbba90efcecf8f22e4d8cdc5173e6f6f43a4
 workflow-type: tm+mt
-source-wordcount: '546'
-ht-degree: 4%
+source-wordcount: '395'
+ht-degree: 6%
 
 ---
 
-# Oktober 2024 - Versionshinweise {#release-notes-oct-24}
+# Versionshinweise: Januar 2025 {#release-notes-jan-25}
 
-Unten finden Sie alle Funktionen der Version vom 24. Oktober. Überprüfen Sie Ihre Adobe Marketo Engage-Edition auf Funktionsverfügbarkeit.
+Im Folgenden finden Sie alle Funktionen, die in der Version vom Januar 2025 enthalten sind. Überprüfen Sie Ihre Adobe Marketo Engage Edition auf die Verfügbarkeit der Funktionen.
 
 Die Versionshinweise speziell für Adobe Dynamic Chat [finden Sie hier](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 >[!AVAILABILITY]
 >
->Mit einem Stern (![Stern](assets/yellow-star.png)) gekennzeichnete Funktionen sind kostenpflichtige Add-ons. Wenden Sie sich an Ihren Marketo Engage-Support-Mitarbeiter, um mehr zu erfahren.
+>Mit einem Stern (![star](assets/yellow-star.png) gekennzeichnete Funktionen sind kostenpflichtige Add-ons. Weitere Informationen erhalten Sie von Ihrem Marketo Engage-Support-Mitarbeiter.
 
-## Standardfunktionen des Versionszyklus {#standard-release-cycle-features}
+## Standardfunktionen des Veröffentlichungszyklus {#standard-release-cycle-features}
 
-Die folgenden Funktionen fallen unter den standardmäßigen Versionszyklus und werden ab dem 4. Oktober 2024 veröffentlicht. Außerdem wird in den folgenden Wochen ein stufenweiser Rollout der verbleibenden Funktionen veröffentlicht. **** Die Veröffentlichungsfunktionen und -daten können sich ändern. Bitte überprüfen Sie neben den einzelnen Funktionen nach ihrem Status.
+Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszyklus und werden ab dem 17. **2025 veröffentlicht** wobei die verbleibenden Funktionen in den folgenden Wochen schrittweise bereitgestellt werden. Veröffentlichungsfunktionen und -daten können sich ändern. Überprüfen Sie neben jeder Funktion auf ihren Status.
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -32,9 +32,9 @@ Die folgenden Funktionen fallen unter den standardmäßigen Versionszyklus und w
    <th style="width:25%">Dokumentation</th>
   </tr>
     <tr> 
-   <td><strong>Tokenisierung für interaktive Webinare</strong>: Sie können jetzt Token verwenden, um interaktive Webinare in E-Mails und Landingpages zu bewerben, ohne die Webinardetails manuell hinzufügen zu müssen.</td> 
-   <td>Versendet</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/promoting-an-interactive-webinar.md#interactive-webinars-tokens" target="_blank">Weiterleiten eines interaktiven Webinars</a></td>
+   <td><strong>Neue E-Mail-Designer</strong>: Erstellen Sie moderne und effiziente E-Mails mit der neuen nativen E-Mail-Designer in Marketo Engage. Greifen Sie auf eine der vordefinierten E-Mail-Vorlagen zu oder erstellen Sie einfach Ihre eigenen. Verwenden Sie dynamische Inhalte und greifen Sie über Adobe Experience Manager Cloud Services auf Bilder zu.</td> 
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -42,63 +42,30 @@ Die folgenden Funktionen fallen unter den standardmäßigen Versionszyklus und w
    <td> </td>
   </tr>
   </tr>
-   <tr> 
-   <td><strong>Smart List "Set to Affect" Count</strong>: Ermitteln Sie, wie viele Personen von der Bearbeitung der Qualifikationsregeln einer Smart-Kampagne betroffen sind.</td> 
-   <td>Versendet</td>
-   <td>Nicht zutreffend</td>
+  <tr> 
+   <td><strong>Registrierung von Teilnehmern an einer Veranstaltung in interaktiven Webinaren aufheben</strong>: Wenn Sie aus irgendeinem Grund keinen Teilnehmer in Ihrem Webinar haben möchten, können Sie die Registrierung aufheben. Der Workflow entfernt den Registranten sowohl aus dem Marketo-Ereignisprogramm als auch aus Adobe Connect.</td> 
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
   </tr>
+  <tr> 
   <tr> 
    <td> </td> 
    <td> </td>
    <td> </td>
-  </tr>
-  </tr>
-   <tr> 
-   <td><strong>Schaltfläche "Mein Konto"in der Navigationsleiste</strong>: Für diejenigen, die zum Adobe Identity Management System migriert haben, ermöglicht eine neue Schaltfläche "Mein Konto"in der linken Navigationsleiste die Konfiguration Ihrer Zeitzone und den Zugriff auf Abonnementdetails.</td> 
-   <td>Versendet</td>
-   <td>Nicht zutreffend</td>
+  <tr> 
+   <td><strong>Kampagnen im Archiv deaktivieren</strong>: Deaktivieren Sie aktive Trigger-Kampagnen und brechen Sie alle geplanten Batch-Ausführungen von Kampagnen nach der Archivierung in einem Ordner ab. Da es eine zusätzliche Berechtigungsprüfung für Archivierungsordner gibt, die aktive Trigger enthalten (Kampagne aktivieren und Batch-Kampagne planen), wird diese Funktion mit dieser Version standardmäßig deaktiviert und kann durch Navigieren zu <b>Admin</b> &gt; <b>Schatztruhe</b> in Ihrem Marketo Engage-Abonnement aktiviert werden.</td> 
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
   </tr>
   <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-   <tr> 
-   <td><strong>Verbesserungen bei E-Mail-Leistungsberichten</strong>: An den E-Mail-Berichtsmetriken und dem Aktivitäts-Tracking wurden mehrere Verbesserungen vorgenommen, die zusätzliche Einblicke bieten und die Genauigkeit verbessern.
-   <ul>
-   <li>Gelöschte und zusammengeführte Personen aus E-Mail-Leistungsmetriken filtern</li>
-   <li>E-Mails, die nach drei Tagen auf Reaktionsaktivität als <i>abgebrochen</i> gewartet wurden</li>
-   <li>Die Anzahl der Öffnungen in E-Mails wird separat für jede Smart-Kampagne angezeigt</li>
-   </td> 
-   <td>Versendet</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md" target="_blank">E-Mail-Leistungsbericht</a></td>
-  </tr>
-  <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-   <tr> 
-   <td><strong>Salesforce Sync Backlog Metrics</strong>: Überwachen Sie den Synchronisierungsdurchsatz und die Trends bei der Rückgängigmachen der Synchronisierung, um CRM-Aktualisierungen für ein optimales Synchronisierungserlebnis zu planen und zu planen.
-   </td> 
-   <td>Versendet</td>
-   <td><a href="/help/marketo/product-docs/crm-sync/salesforce-sync/salesforce-sync-backlog-metrics.md" target="_blank">Salesforce Sync-Rücklog-Metriken</a></td>
-  </tr>
  </tbody> 
 </table>
 <br/>
 
 ## Ankündigungen {#announcements}
 
-* **Aktualisierung der Bulk Extract-API für die Massenextraktion**: Es wurde ein Problem in der Bulk Extract-API mit der Option columnHeaderNames behoben, durch das Sie benutzerdefinierte Spaltenkopfzeilennamen in der exportierten Datei angeben können. Zuvor konnten Spaltenüberschriften, die Nicht-ASCII-Zeichen enthielten, beschädigt werden.
+* **API-Aktualisierung für Programmmitglieder abrufen**: Wir haben die API [Programmmitglieder abrufen](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/program-members#query){target="_blank"} verbessert, um die Möglichkeit zum Abrufen der Kennung von Programmmitgliedern zu unterstützen. Dies geschieht, indem die ID zur Liste der Felder hinzugefügt wird, die im Feld-Parameter der API-Anfrage angegeben sind.
 
-* **REST API access_token Parameter Deprecation**: Der Abfrageparameter &quot;access_token&quot;zum Authentifizieren von Marketo REST API-Aufrufen wird nicht mehr unterstützt und ist nach dem 30. Juni 2025 nicht mehr verfügbar. Alle neuen und vorhandenen Integrationen sollten REST-API-Aufrufe mithilfe der &quot;Autorisierungs&quot;-Kopfzeile [authentifizieren, wie hier ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication#using-an-access-token) beschrieben.
+* **Einstellung von REST-API-„access_token“-**: Der `access_token` Abfrageparameter, der zum Authentifizieren von Marketo REST-API-Aufrufen verwendet wird, wird nicht mehr unterstützt und ist nach dem 30. Juni 2025 nicht mehr verfügbar. Alle neuen und vorhandenen Integrationen sollten REST-API-Aufrufe mit dem Header „Authorization“ authentifizieren [wie hier beschrieben](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-
-* **QR-Code-Deprecation**: Am 4. Oktober 2024 wird die QR-Code-Funktion, die in Push-Benachrichtigungen und In-App-Nachrichten-Assets verwendet wird, nicht mehr unterstützt. Dazu gehört die Verwendung von QR-Codes für ein neues Testgerät sowie die Erstellung neuer Assets mit QR-Codes. Die Veraltung von Funktionen mit geringerer Nutzung ermöglicht es uns, ihre Ressourcen auf die Gesamtwartung von Marketo Engage umzuleiten.
-
-* **Munchkin-Änderungen**
-
-   * **Neue Version**: Am 17. September 2024 beginnt der Rollout von [Munchkin](/help/marketo/product-docs/administration/setup-administration/munchkin.md){target="_blank"} v.164 zu Marketo Engage-Instanzen, bei denen die Einstellung &quot;Munchkin Beta&quot;unter **Admin** > **Schatztruhe** aktiviert ist. Der Rollout für alle anderen Instanzen soll am 29. Oktober beginnen. Diese Version aktualisiert die Erstellung von Munchkin-Cookies. Die Funktionalität ändert sich nicht.
-
-   * **Zeichen aus URL entfernt**: Die von Munchkin JS erstellten Aktivitäten &quot;Besuche der Webseite&quot;und &quot;Klicks Link&quot;entfernen jetzt nicht URL-kodierte Steuerzeichen aus allen URL-Feldern. Diese Änderung soll Fehler bei der Übertragung dieser Zeichentypen in Systeme verhindern, die sie nicht unterstützen und keine gültige Verwendung innerhalb von Marketo Engage haben.
+* Einstellung der **SOAP-**: Die Unterstützung für die Marketo-SOAP-API endet am 31. Oktober 2025. Services, die SOAP-API-Funktionen verwenden, sollten zur [REST-API“ ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} werden.
