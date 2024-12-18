@@ -3,7 +3,7 @@ description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokument
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 4e13fbba90efcecf8f22e4d8cdc5173e6f6f43a4
+source-git-commit: bf6525359d8bc206ed01220823b6c1de5734df55
 workflow-type: tm+mt
 source-wordcount: '395'
 ht-degree: 6%
@@ -41,23 +41,21 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td> </td>
    <td> </td>
   </tr>
-  </tr>
   <tr> 
    <td><strong>Registrierung von Teilnehmern an einer Veranstaltung in interaktiven Webinaren aufheben</strong>: Wenn Sie aus irgendeinem Grund keinen Teilnehmer in Ihrem Webinar haben möchten, können Sie die Registrierung aufheben. Der Workflow entfernt den Registranten sowohl aus dem Marketo-Ereignisprogramm als auch aus Adobe Connect.</td> 
    <td><i>Demnächst verfügbar</i></td>
    <td><i>Demnächst verfügbar</i></td>
   </tr>
   <tr> 
-  <tr> 
    <td> </td> 
    <td> </td>
    <td> </td>
+  </tr>
   <tr> 
    <td><strong>Kampagnen im Archiv deaktivieren</strong>: Deaktivieren Sie aktive Trigger-Kampagnen und brechen Sie alle geplanten Batch-Ausführungen von Kampagnen nach der Archivierung in einem Ordner ab. Da es eine zusätzliche Berechtigungsprüfung für Archivierungsordner gibt, die aktive Trigger enthalten (Kampagne aktivieren und Batch-Kampagne planen), wird diese Funktion mit dieser Version standardmäßig deaktiviert und kann durch Navigieren zu <b>Admin</b> &gt; <b>Schatztruhe</b> in Ihrem Marketo Engage-Abonnement aktiviert werden.</td> 
    <td><i>Demnächst verfügbar</i></td>
    <td><i>Demnächst verfügbar</i></td>
   </tr>
-  <tr> 
  </tbody> 
 </table>
 <br/>
