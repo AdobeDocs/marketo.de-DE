@@ -3,7 +3,7 @@ description: Häufig gestellte Fragen zum Adobe von Identity Management - Market
 title: Häufig gestellte Fragen zum Adobe von Identity Management
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: ec0fcba763a50348c3424a1ba33c5fc700093c68
+source-git-commit: 989804463f44afbf35ab11c0f23c37b0d328e652
 workflow-type: tm+mt
 source-wordcount: '1521'
 ht-degree: 0%
@@ -136,7 +136,7 @@ Nein, diese Konfigurationen haben keine Auswirkungen.
 
 **Wie kann ich verhindern, dass Sitzungen abgehen?**
 
-In [Erweiterte Einstellungen](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings) können Sie die gewünschte maximale Sitzungsdauer anpassen (Systemadministratorberechtigungen erforderlich). Es wird empfohlen, diese Einstellung nach der Produktmigration, aber vor der Benutzermigration festzulegen.
+In [Erweiterte Einstellungen](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"} können Sie die gewünschte maximale Sitzungsdauer anpassen (Systemadministratorberechtigungen erforderlich). Es wird empfohlen, diese Einstellung nach der Produktmigration, aber vor der Benutzermigration festzulegen.
 
 **Ich muss jetzt zu Experience Cloud navigieren, um auf Marketo Engage zuzugreifen. Gibt es eine Möglichkeit, diesen Fluss zu straffen?**
 
