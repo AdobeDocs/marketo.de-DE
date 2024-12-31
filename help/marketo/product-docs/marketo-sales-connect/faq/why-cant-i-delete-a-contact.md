@@ -13,4 +13,4 @@ ht-degree: 0%
 
 # Warum kann ich einen Kontakt nicht löschen? {#why-cant-i-delete-a-contact}
 
-Wenn sich ein Kontakt in einer Kampagne befindet oder der Kontakt zu einer anderen Person im Team gehört, können Sie ihn nicht löschen. Wenn sie sich in einer Kampagne befinden, entfernen Sie sie aus der Kampagne und löschen Sie dann den Kontakt. Wenn sie dem Besitz eines Teammitglieds angehören, muss er die Freigabe der Gruppe aufheben, in der sich der Kontakt befindet, oder den Kontakt aus seinem Konto löschen.
+Wenn sich ein Kontakt in einer Kampagne befindet oder wenn der Kontakt im Besitz einer anderen Person im Team ist, können Sie ihn nicht löschen. Wenn sie sich in einer Kampagne befinden, entfernen Sie sie aus der Kampagne und löschen Sie dann den Kontakt. Wenn sie einem Teammitglied gehören, muss es entweder die Freigabe der Gruppe aufheben, in der sich der Kontakt befindet, oder den Kontakt aus seinem Konto löschen.

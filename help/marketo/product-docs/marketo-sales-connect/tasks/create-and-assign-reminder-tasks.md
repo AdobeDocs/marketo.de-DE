@@ -1,6 +1,6 @@
 ---
-description: Erstellen und Zuweisen von Erinnerungsaufgaben - Marketo-Dokumente - Produktdokumentation
-title: Erstellen und Zuweisen von Erinnerungsaufgaben
+description: Erinnerungsaufgaben erstellen und zuweisen - Marketo-Dokumente - Produktdokumentation
+title: Erinnerungsaufgaben erstellen und zuweisen
 exl-id: bc486795-7ce2-4336-834d-ecfd5efc348e
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -10,31 +10,31 @@ ht-degree: 0%
 
 ---
 
-# Erstellen und Zuweisen von Erinnerungsaufgaben {#create-and-assign-reminder-tasks}
+# Erinnerungsaufgaben erstellen und zuweisen {#create-and-assign-reminder-tasks}
 
-Erinnerungsaufgaben eignen sich hervorragend, um Ihren Kunden auf dem Laufenden zu bleiben und eine potenzielle Interaktion zu erzielen. Gehen Sie wie folgt vor, um eine Aufgabe zu erstellen.
+Erinnerungsaufgaben sind eine hervorragende Möglichkeit, Kunden und Interessenten auf dem Laufenden zu halten. Gehen Sie wie folgt vor, um eine Aufgabe zu erstellen.
 
-1. Klicken Sie auf **Command Center**.
+1. Klicken Sie **Command Center**.
 
    ![](assets/create-and-assign-reminder-tasks-1.png)
 
-1. Aufgaben werden standardmäßig geöffnet. Klicken Sie auf **Aufgabe hinzufügen**.
+1. Aufgaben werden standardmäßig geöffnet. Klicken Sie **Aufgabe hinzufügen**.
 
    ![](assets/create-and-assign-reminder-tasks-2.png)
 
-1. Wählen Sie den Aufgabentyp aus E-Mail, Aufruf, InMail oder Benutzerdefinierte Aufgabe aus.
+1. Wählen Sie den Aufgabentyp aus E-Mail, Anruf, InMail oder Benutzerdefinierte Aufgabe aus.
 
    ![](assets/create-and-assign-reminder-tasks-3.png)
 
-1. Geben Sie der Aufgabe einen Namen.
+1. Benennen Sie die Aufgabe.
 
    ![](assets/create-and-assign-reminder-tasks-4.png)
 
-1. Wählen Sie aus, ob Sie die Aufgabe selbst zuweisen möchten, oder wählen Sie einen anderen Benutzer aus, dem Sie die Aufgabe zuweisen möchten.
+1. Wählen Sie, ob die Aufgabe Ihnen selbst zugewiesen bleiben soll, oder wählen Sie einen anderen Benutzer aus, dem Sie die Aufgabe zuweisen möchten.
 
    ![](assets/create-and-assign-reminder-tasks-5.png)
 
-1. Fügen Sie die Person hinzu, mit der Sie verfolgen, mit dieser Erinnerungsaufgabe.
+1. Fügen Sie die Person hinzu, der Sie folgen, mit dieser Erinnerungsaufgabe.
 
    ![](assets/create-and-assign-reminder-tasks-6.png)
 
@@ -42,10 +42,10 @@ Erinnerungsaufgaben eignen sich hervorragend, um Ihren Kunden auf dem Laufenden 
 
    ![](assets/create-and-assign-reminder-tasks-7.png)
 
-1. Wählen Sie die Priorität der Aufgabe aus.
+1. Wählen Sie die Priorität der Aufgabe.
 
    ![](assets/create-and-assign-reminder-tasks-8.png)
 
-1. Fügen Sie Details zu der Aufgabe hinzu, die Sie beim Abschließen der Aufgabe benötigen, z. B. Anruferbeschreibungen, eine InMail-Nachrichtenvorlage oder Anmerkungen zur Person. Klicken Sie abschließend auf **Erstellen** .
+1. Fügen Sie alle Details zu der Aufgabe hinzu, die Ihnen beim Ausführen der Aufgabe zur Verfügung stehen sollen, z. B. Anrufsprechnotizen, eine InMail-Nachrichtenvorlage oder sogar Notizen zur Person. Klicken Sie **Erstellen** wenn Sie fertig sind.
 
    ![](assets/create-and-assign-reminder-tasks-9.png)

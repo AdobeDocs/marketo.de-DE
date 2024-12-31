@@ -1,6 +1,6 @@
 ---
-description: Was sind die Service-Bedingungen für Sales Insight-Aktionen? - Marketo-Dokumente - Produktdokumentation
-title: Was sind die Service-Bedingungen für Sales Insight-Aktionen?
+description: Was sind die Servicebedingungen für Sales Insight Actions? - Marketo-Dokumente - Produktdokumentation
+title: Was sind die Servicebedingungen für Sales Insight Actions?
 exl-id: 5a5409a0-2a26-4d5b-b1c9-89841255059d
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -10,10 +10,10 @@ ht-degree: 0%
 
 ---
 
-# Was sind die Service-Bedingungen für Sales Insight-Aktionen? {#what-are-the-sales-insight-actions-terms-of-service}
+# Was sind die Servicebedingungen für Sales Insight Actions? {#what-are-the-sales-insight-actions-terms-of-service}
 
-Die Service-Nutzungsbedingungen für Sales Insight-Aktionen finden Sie [hier](https://documents.marketo.com/toutapp/terms).
+Die Nutzungsbedingungen für Sales Insight Actions finden Sie [hier](https://documents.marketo.com/toutapp/terms).
 
 >[!NOTE]
 >
->&quot;ToutApp&quot;ist der ursprüngliche Name von Sales Insight-Aktionen.
+>„ToutApp“ ist der ursprüngliche Name von Sales Insight Actions.

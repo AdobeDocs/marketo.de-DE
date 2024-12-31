@@ -15,6 +15,6 @@ ht-degree: 0%
 
 Es ist derzeit nicht möglich, eine ganze Kategorie zu löschen oder Vorlagen stapelweise in eine neue Kategorie zu verschieben.
 
-Sie können jede Vorlage in der Kategorie entweder in einen vorhandenen Kategorienamen oder in einen brandneuen Namen ändern. Dadurch werden alle vorhandenen Vorlagen in einen anderen Ordner verschoben. Wenn der Ordner leer ist, wird er ausgeblendet.
+Sie können jedoch jede Vorlage innerhalb der Kategorie bearbeiten, um entweder einen vorhandenen Kategorienamen oder einen brandneuen Namen zu erstellen. Dadurch werden alle vorhandenen Vorlagen in einen anderen Ordner verschoben. Sobald der Ordner leer ist, wird er ausgeblendet.
 
-Wir arbeiten daran, die Fähigkeit dazu zu erweitern.
+Wir arbeiten daran, die Möglichkeit hinzuzufügen, dies en masse zu tun.

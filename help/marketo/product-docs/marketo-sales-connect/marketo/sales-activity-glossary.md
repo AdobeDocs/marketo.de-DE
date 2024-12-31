@@ -1,5 +1,5 @@
 ---
-description: Glossar zu Verkaufsaktivitäten - Marketo-Dokumente - Produktdokumentation
+description: Glossar zur Vertriebsaktivität - Marketo-Dokumente - Produktdokumentation
 title: Glossar zur Verkaufsaktivität
 exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
 feature: Marketo Sales Connect
@@ -12,9 +12,9 @@ ht-degree: 36%
 
 # Glossar zur Verkaufsaktivität {#sales-activity-glossary}
 
-Wenn ein Verkäufer in Sales Connect einen Lead zu einem Verkaufsstamm hinzufügt, ihm eine E-Mail sendet oder eine Aktivität aufruft, wird dieser im Verlauf der Marketo-Aktivitäten protokolliert. Wenn der Lead mit E-Mails interagiert, werden auch Öffnungen, Klicks und Antworten protokolliert.
+Wenn in Sales Connect ein Verkäufer: einen Lead zu einer Verkaufskadenz hinzufügt, ihm eine E-Mail sendet oder einen Aufruf zu einer Aktivität ausführt, wird dies unter dem Aktivitätsverlauf von Marketo protokolliert. Wenn der Lead mit E-Mails interagiert, werden außerdem Öffnungen, Klicks und Antworten protokolliert.
 
-Die folgenden Aktivitäten werden von Sales Connect aus bei Marketo protokolliert.
+Die folgenden Aktivitäten werden von Sales Connect bei Marketo protokolliert.
 
 >[!NOTE]
 >
@@ -47,7 +47,7 @@ Die folgenden Aktivitäten werden von Sales Connect aus bei Marketo protokollier
   <td>Name der Verkaufsvorlage</td>
  </tr>
  <tr>
-  <td>Email Subject</td>
+  <td>E-Mail-Betreff</td>
  </tr>
  <tr>
   <td>Verkaufskampagne Name</td>
@@ -75,7 +75,7 @@ Die folgenden Aktivitäten werden von Sales Connect aus bei Marketo protokollier
   <td>Name der Verkaufsvorlage</td>
  </tr>
  <tr>
-  <td>Email Subject</td>
+  <td>E-Mail-Betreff</td>
  </tr>
  <tr>
   <td>Verkaufskampagne Name</td>
@@ -84,7 +84,7 @@ Die folgenden Aktivitäten werden von Sales Connect aus bei Marketo protokollier
   <td>Marketo-Verkäufer-ID</td>
  </tr>
  <tr>
-  <th rowspan="10">angeklickte E-Mail zum Vertrieb</th>
+  <th rowspan="10">Verkaufs-E-Mail angeklickt</th>
   <td>Link</td>
  </tr>
  <tr>
@@ -106,7 +106,7 @@ Die folgenden Aktivitäten werden von Sales Connect aus bei Marketo protokollier
   <td>Name der Verkaufsvorlage</td>
  </tr>
  <tr>
-  <td>Email Subject</td>
+  <td>E-Mail-Betreff</td>
  </tr>
  <tr>
   <td>Verkaufskampagne Name</td>
@@ -116,7 +116,7 @@ Die folgenden Aktivitäten werden von Sales Connect aus bei Marketo protokollier
  </tr>
 <tr>
   <th rowspan="3">Hat auf Vertriebsemail geantwortet</th>
-  <td>Erhalten von</td>
+  <td>Empfangen von</td>
  </tr>
  <tr>
   <td>Quelle</td>
@@ -147,13 +147,13 @@ Die folgenden Aktivitäten werden von Sales Connect aus bei Marketo protokollier
   <td>Quelle</td>
  </tr>
  <tr>
-  <td>Dauer der Verkaufsaufrufe</td>
+  <td>Dauer des Verkaufsgesprächs</td>
  </tr>
  <tr>
-  <td>URL zur Aufzeichnung von Verkaufsaufrufen</td>
+  <td>URL für die Aufzeichnung von Verkaufsanrufen</td>
  </tr>
   <tr>
-  <td>Verkaufsaufruf beantwortet von</td>
+  <td>Verkaufsanruf beantwortet von</td>
  </tr>
  <tr>
   <td>Marketo-Verkäufer-ID</td>
@@ -197,7 +197,7 @@ Die folgenden Aktivitäten werden von Sales Connect aus bei Marketo protokollier
   <td>Vertriebskampagnen-ID</td>
  </tr>
  <tr>
-  <th rowspan="5">E-Mail-Bounce Vertrieb</th>
+  <th rowspan="5">E-Mail-Bounce für Verkauf</th>
   <td>Details</td>
  </tr>
  <tr>
@@ -224,51 +224,51 @@ Die folgenden Aktivitäten werden von Sales Connect aus bei Marketo protokollier
  <tbody> 
  <tr> 
    <td><strong>Details</strong></td> 
-   <td>Details zur Bounce-Fehlermeldung.</td> 
+   <td>Details der Bounce-Fehlermeldung.</td> 
   </tr> 
   <tr> 
    <td><strong>E-Mail</strong></td> 
-   <td>Bounce-E-Mail-Adresse.</td> 
+   <td>E-Mail-Adresse, die zurückkam.</td> 
   </tr> 
   <tr> 
    <td><strong>Link</strong></td> 
-   <td>URL, auf die geklickt wurde.</td> 
+   <td>Angeklickte URL.</td> 
   </tr> 
   <tr> 
    <td><strong>Marketo-Verkäufer-ID</strong></td> 
-   <td>Eindeutige ID für den Personendatensatz in Sales Connect.</td> 
+   <td>Eindeutige ID für Personendatensatz in Sales Connect.</td> 
   </tr> 
   <tr> 
-   <td><strong>Erhalten von</strong></td> 
-   <td>E-Mail-Adresse der Person, die die E-Mail gesendet hat.</td> 
+   <td><strong>Empfangen von</strong></td> 
+   <td>E-Mail-Adresse des Absenders der E-Mail.</td> 
   </tr>
   <tr> 
-   <td><strong>Verkaufsaufruf beantwortet von</strong></td> 
+   <td><strong>Verkaufsanruf beantwortet von</strong></td> 
    <td>Name der Person, die den Anruf entgegengenommen hat.</td> 
   </tr>
   <tr> 
-   <td><strong>Dauer der Verkaufsaufrufe</strong></td> 
+   <td><strong>Dauer des Verkaufsgesprächs</strong></td> 
    <td>Länge des Aufrufs in Sekunden.</td> 
   </tr>
   <tr> 
    <td><strong>Verkaufsanruf getätigt von</strong></td> 
-   <td>E-Mail-Adresse der Verkaufsperson, die den Anruf getätigt hat.</td> 
+   <td>E-Mail-Adresse des Verkäufers, der den Anruf getätigt hat.</td> 
   </tr>
   <tr> 
-   <td><strong>URL zur Aufzeichnung von Verkaufsaufrufen</strong></td> 
-   <td>URL der Aufrufaufzeichnung.</td> 
+   <td><strong>URL für die Aufzeichnung von Verkaufsanrufen</strong></td> 
+   <td>URL der Anrufaufzeichnung.</td> 
   </tr>
   <tr> 
    <td><strong>Verkaufsanruf Status</strong></td> 
-   <td>Speichert den letzten Aufrufstatus des Aufrufs, der Folgendes enthält: abgeschlossen, keine Antwort, abgebrochen, fehlgeschlagen.</td> 
+   <td>Speichert den endgültigen Anrufstatus des Anrufs, der Folgendes umfasst: Abgeschlossen, keine Antwort, Abgebrochen, Fehlgeschlagen.</td> 
   </tr>
   <tr> 
    <td><strong>Verkaufsanruf Betreff</strong></td> 
-   <td>Rufen Sie das Ergebnis auf, das von einem Vertriebsbenutzer im Dialer ausgewählt wird.</td> 
+   <td>Anrufergebnis, das von einem Verkaufsbenutzer in der Wählhilfe ausgewählt wird.</td> 
   </tr>
   <tr> 
    <td><strong>Vertriebskampagnen-ID</strong></td> 
-   <td>Eindeutige ID für Sales Campaign-Assets in Sales Connect.</td> 
+   <td>Eindeutige ID für Sales Campaign-Asset in Sales Connect.</td> 
   </tr>
   <tr> 
    <td><strong>Verkaufskampagne Name</strong></td> 
@@ -276,15 +276,15 @@ Die folgenden Aktivitäten werden von Sales Connect aus bei Marketo protokollier
   </tr>
   <tr> 
    <td><strong>Verkaufskampagne URL</strong></td> 
-   <td>Sales Connect-URL für die Vertriebskampagne.</td> 
+   <td>Sales Connect-URL für die Verkaufskampagne.</td> 
   </tr>
   <tr> 
-   <td><strong>Sales Email Subject</strong></td> 
-   <td>Betreffzeile der E-Mail, gefolgt von einer eindeutigen ID (z. B. My Subject Line (MSC-12345678))</td> 
+   <td><strong>E-Mail-Betreff für Verkauf</strong></td> 
+   <td>Betreffzeile der E-Mail, gefolgt von einer eindeutigen ID (z. B.: Meine Betreffzeile (MSC-12345678)</td> 
   </tr>
   <tr> 
    <td><strong>Angerufene Telefonnummer des Verkaufs</strong></td> 
-   <td>Telefonnummer, die von Sales aufgerufen wird.</td> 
+   <td>Telefonnummer, die vom Vertrieb angerufen wurde.</td> 
   </tr>
   <tr> 
    <td><strong>Name der Verkaufsvorlage</strong></td> 
@@ -296,15 +296,15 @@ Die folgenden Aktivitäten werden von Sales Connect aus bei Marketo protokollier
   </tr>
   <tr> 
    <td><strong>Gesendet von</strong></td>
-   <td>E-Mail-Adresse der Person, die die E-Mail gesendet hat.</td> 
+   <td>E-Mail-Adresse des Absenders der E-Mail.</td> 
   </tr> 
   <tr> 
    <td><strong>Quelle</strong></td> 
-   <td>Source der Aktivität. Wird vor der Version vom 21. Oktober als "Tout"für Sales Connect-Aktivitäten festgelegt. wird nach der Version vom 21. Oktober als "Sales App"für Sales Connect-Aktivitäten verwendet.</td>
+   <td>Source der Aktivität. Wird für Sales Connect-Aktivitäten vor der Version vom Oktober 2021 als „Tout“ festgelegt. Wird nach der Version vom Oktober 2021 „Sales App“ für Sales Connect-Aktivitäten.</td>
   </tr> 
   <tr> 
    <td><strong>Vorlagen-ID</strong></td> 
-   <td>Wenn die Quelle Tout ist, ist die Vorlagen-ID die Marketo Sales Connect-Vorlagen-ID. Verwenden Sie dies, um eine bestimmte Vorlage anstelle der Betreffzeile auszuwählen, die in mehreren Vorlagen vorhanden sein könnte.
+   <td>Wenn die Quelle Tout ist, ist die Vorlagen-ID die Marketo Sales Connect-Vorlagen-ID. Verwenden Sie diese Option, um eine bestimmte Vorlage anstelle der Betreffzeile auszuwählen, die in mehreren Vorlagen vorhanden sein könnte.
 </td> 
   </tr> 
  </tbody> 

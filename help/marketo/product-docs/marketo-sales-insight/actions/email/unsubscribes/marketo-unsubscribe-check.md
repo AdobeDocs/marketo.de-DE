@@ -12,11 +12,11 @@ ht-degree: 4%
 
 # Überprüfung von Marketo abbestellen {#marketo-unsubscribe-check}
 
-Die Prüfung der Marketo-Abmeldung nutzt die Verbindung Ihres Teams zu Marketo, um zu verhindern, dass E-Mails an Personen gesendet werden, die sich vom Marketo Lead Management System abgemeldet haben. Wenn ein Vertriebsbenutzer eine E-Mail mit Marketo Sales sendet, wird ein API-Aufruf an Marketo gesendet, um zu überprüfen, ob die E-Mail-ID abgemeldet wird. Ist dies der Fall, blockieren wir den Versand der E-Mail.
+Die Marketo-Abmeldeprüfung verwendet die Verbindung Ihres Teams zu Marketo, um zu verhindern, dass E-Mails an Personen gesendet werden, die sich im Lead-Management-System von Marketo abgemeldet haben. Wenn ein Verkaufsbenutzer eine E-Mail mit Marketo Sales sendet, wird ein API-Aufruf an Marketo durchgeführt, um zu überprüfen, ob die E-Mail-ID abgemeldet wurde. Wenn dies der Fall ist, blockieren wir den Versand der E-Mail.
 
 >[!NOTE]
 >
->**Erforderliche Administratorberechtigungen**
+>**Administratorberechtigungen erforderlich**
 
 ## Einschalten {#turning-it-on}
 
@@ -24,19 +24,19 @@ Die Prüfung der Marketo-Abmeldung nutzt die Verbindung Ihres Teams zu Marketo, 
 
    ![](assets/marketo-unsubscribe-check-1.png)
 
-1. Klicken Sie unter &quot;Admin Settings&quot;auf **Unsubscribes**.
+1. Klicken Sie unter „Admin Settings“ auf **Unsubscribes**.
 
    ![](assets/marketo-unsubscribe-check-2.png)
 
-1. Klicken Sie auf die Registerkarte **Integrationen**. Klicken Sie im Bereich Prüfung der Marketo-Abmeldung auf den Regler, um die Prüfung zu aktivieren.
+1. Klicken Sie auf die **Integrationen**. Klicken Sie im Abschnitt Marketo-Abmeldeprüfung auf den Schieberegler, um die Prüfung zu aktivieren.
 
    ![](assets/marketo-unsubscribe-check-3.png)
 
-## Was zu wissen ist {#things-to-know}
+## Was man wissen muss {#things-to-know}
 
-Prüfung der Marketo-Abmeldung ...
+Die Marketo-Abmelde-Prüfung…
 
-* Zählt nicht mit Ihren API-Beschränkungen
-* Erfordert die Einrichtung einer Marketo-Verbindung
+* Zählt nicht auf die API-Limits
+* Erfordert den Aufbau einer Marketo-Verbindung
 * Ist eine globale Einstellung
-* Blockierungen von E-Mails, die von der Webanwendung, E-Mail-Clients und Salesforce gesendet werden
+* Blockiert E-Mails, die von der Webanwendung, von E-Mail-Clients und von Salesforce gesendet werden

@@ -1,23 +1,23 @@
 ---
 unique-page-id: 37356329
-description: Erweiterte Suchübersicht - Marketo-Dokumente - Produktdokumentation
-title: Erweiterte Suchübersicht
+description: Übersicht über die erweiterte Suche - Marketo-Dokumente - Produktdokumentation
+title: Erweiterte Suche - Übersicht
 exl-id: bb6e2c9f-b44a-43ba-94ae-ae30e182bcc8
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '414'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
-# Erweiterte Suchübersicht {#advanced-search-overview}
+# Erweiterte Suche - Übersicht {#advanced-search-overview}
 
-Mithilfe der erweiterten Suche können Sie potenzielle Kunden auswählen, die E-Mails angesehen, angeklickt oder beantwortet haben. Auf diese Weise können Sie eine gezielte Liste Ihrer am meisten engagierten Interessenten erstellen.
+Mithilfe der erweiterten Suche können Sie eine Liste Ihrer aktivsten potenziellen Kunden erstellen, die E-Mails angesehen, angeklickt oder beantwortet haben.
 
-## Zugriff auf erweiterte Suche {#how-to-access-advanced-search}
+## Zugriff auf die erweiterte Suche {#how-to-access-advanced-search}
 
-1. Klicken Sie auf **Command Center**.
+1. Klicken Sie **Command Center**.
 
    ![](assets/one.png)
 
@@ -29,7 +29,7 @@ Mithilfe der erweiterten Suche können Sie potenzielle Kunden auswählen, die E-
 
    ![](assets/three.png)
 
-1. Klicken Sie auf **Erweiterte Suche**.
+1. Klicken Sie **Erweiterte Suche**.
 
    ![](assets/four.png)
 
@@ -37,45 +37,45 @@ Mithilfe der erweiterten Suche können Sie potenzielle Kunden auswählen, die E-
 
 **Datum**
 
-Wählen Sie den Datumsbereich für Ihre Suche aus. Vordefinierte Datumswerte werden entsprechend dem von Ihnen ausgewählten E-Mail-Status aktualisiert (Gesendet, Nicht zugestellt, Ausstehend).
+Wählen Sie den Datumsbereich für Ihre Suche. Vordefinierte Datumswerte werden je nach ausgewähltem E-Mail-Status aktualisiert (gesendet, nicht zugestellt, ausstehend).
 
 ![](assets/date.png)
 
-**who**
+**Wer**
 
-Filtern Sie im Abschnitt Wer nach E-Mail-Empfänger/Absender.
+Filtern Sie im Abschnitt „Wer“ nach E-Mail-Empfänger/-Absender.
 
 ![](assets/who.png)
 
 | Dropdown | Beschreibung |
 |---|---|
-| **Als** anzeigen | Filtern Sie nach einem bestimmten Absender in Ihrer Sales Connect-Instanz (diese Option steht nur Administratoren zur Verfügung). |
-| **Nach Gruppe** | Filtern von E-Mails nach einer bestimmten Empfängergruppe |
-| **Nach Person** | Filtern nach einem bestimmten Empfänger. |
+| **Anzeigen als** | Filtern Sie nach einem bestimmten Absender in Ihrer Sales Connect-Instanz (diese Option steht nur Administratoren zur Verfügung). |
+| **Nach Gruppe** | E-Mails nach einer bestimmten Empfängergruppe filtern |
+| **nach Person** | Nach einem bestimmten Empfänger filtern. |
 
-**When**
+**Wenn**
 
-Wählen Sie das Erstellungsdatum, das Lieferdatum, das Datum für fehlgeschlagen oder das geplante Datum aus. Die verfügbaren Optionen hängen vom gewählten E-Mail-Status ab (Gesendet, Nicht zugestellt, Ausstehend).
+Wählen Sie „Nach Erstellungsdatum“, „Zustellungsdatum“, „Fehlgeschlagen“ oder „Geplant“ aus. Die verfügbaren Optionen ändern sich je nach ausgewähltem E-Mail-Status (gesendet, nicht zugestellt, ausstehend).
 
 ![](assets/when.png)
 
 **Kampagnen**
 
-Filtern von E-Mails nach Kampagnenbeteiligung.
+E-Mails nach Kampagnenbeteiligung filtern.
 
 ![](assets/campaigns.png)
 
 **Status**
 
-Es gibt drei E-Mail-Status, aus denen Sie wählen können. Der Typ/die Aktivitätsoptionen ändern sich je nach ausgewähltem Status.
+Es gibt drei E-Mail-Status zur Auswahl. Die Typ-/Aktivitätsoptionen ändern sich je nach ausgewähltem Status.
 
 ![](assets/status.png)
 
-***Status: Gesendet***
+***Status: gesendet***
 
 ![](assets/status-sent.png)
 
-Filtert nach Ihrer gesendeten E-Mail-Aktivität. Sie können Ansichten/keine Ansichten, Klicks/keine Klicks und/oder Antworten/keine Antworten auswählen.
+Filtert nach der Aktivität „Gesendete E-Mails“. Sie können Ansichten/keine Ansichten, Klicks/keine Klicks und/oder Antworten/keine Antworten auswählen.
 
 ***Status: Ausstehend***
 
@@ -85,11 +85,11 @@ Filtert nach allen ausstehenden E-Mails.
 
 | Status | Beschreibung |
 |---|---|
-| **Geplant** | E-Mails, die aus dem Komprimierungsfenster (Salesforce oder die Web-App), E-Mail-Plug-ins oder einer Kampagne geplant wurden. |
-| **Entwürfe** | E-Mails, die sich derzeit im Entwurfsstatus befinden. E-Mails benötigen eine Betreffzeile und einen Empfänger, um als Entwurf gespeichert zu werden. |
-| **Wird ausgeführt** | E-Mails, die gerade gesendet werden. E-Mails dürfen diesen Status nicht länger als einige Sekunden beibehalten. |
+| **Geplant** | E-Mails, die über das Fenster „Erstellen“ (Salesforce oder die Web-App), E-Mail-Plug-ins oder eine Kampagne geplant wurden. |
+| **Entwürfe** | E-Mails, die sich derzeit im Entwurfsstatus befinden. E-Mails benötigen eine Betreffzeile und einen Empfänger, damit sie als Entwurf gespeichert werden können. |
+| **In Bearbeitung** | E-Mails, die gerade gesendet werden. E-Mails sollten in diesem Zustand nicht länger als einige Sekunden bleiben. |
 
-***Status: Nicht bereitgestellt***
+***Status: Nicht zugestellt***
 
 ![](assets/status-undelivered.png)
 
@@ -97,15 +97,15 @@ Filtert nach E-Mails, die nie zugestellt wurden.
 
 | Status | Beschreibung |
 |---|---|
-| **Failed** | Wenn ein Versand einer E-Mail über Sales Connect fehlschlägt (häufige Ursachen sind beispielsweise das Senden von E-Mails an abgemeldete/blockierte Kontakte oder das Ausfüllen der dynamischen Felder). |
-| **Bounced** | Eine E-Mail wird als nicht zugestellt markiert, wenn sie vom Server des Empfängers abgelehnt wird. Hier werden nur E-Mails angezeigt, die über Sales Connect-Server gesendet wurden. |
-| **Spam** | Wenn die E-Mail vom Empfänger als Spam gekennzeichnet wurde (üblicher Begriff für unerwünschte E-Mails). Hier werden nur E-Mails angezeigt, die über Sales Connect-Server gesendet wurden. |
+| **Fehlgeschlagen** | Wenn eine E-Mail nicht von Sales Connect gesendet werden kann (häufige Gründe sind: E-Mails werden an abgemeldete/blockierte Kontakte gesendet oder es gab ein Problem beim Ausfüllen der dynamischen Felder). |
+| **Bounce** | Eine E-Mail wird als Bounce markiert, wenn sie vom Server des Empfängers abgelehnt wird. Hier werden nur E-Mails angezeigt, die über Sales Connect-Server gesendet wurden. |
+| **Spam** | Wann die E-Mail vom Empfänger als Spam markiert wurde (allgemeiner Begriff für unerwünschte E-Mails). Hier werden nur E-Mails angezeigt, die über Sales Connect-Server gesendet wurden. |
 
-## Gespeicherte Suchen {#saved-searches}
+## Gespeicherte Suchvorgänge {#saved-searches}
 
 So erstellen Sie eine gespeicherte Suche.
 
-1. Nachdem alle Filter eingerichtet sind, klicken Sie auf **Filter speichern unter**.
+1. Nachdem Sie alle Filter eingerichtet haben, klicken Sie auf **Filter speichern unter**.
 
    ![](assets/save-search-1.png)
 
@@ -113,6 +113,6 @@ So erstellen Sie eine gespeicherte Suche.
 
    ![](assets/save-search-2.png)
 
-   Ihre gespeicherten Suchen befinden sich in der Seitenleiste auf der linken Seite.
+   Ihre gespeicherten Suchvorgänge werden in der Seitenleiste auf der linken Seite angezeigt.
 
    ![](assets/advanced-search-overview-15.png)

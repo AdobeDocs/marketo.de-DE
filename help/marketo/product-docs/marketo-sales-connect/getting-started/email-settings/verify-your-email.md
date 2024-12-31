@@ -13,21 +13,21 @@ ht-degree: 7%
 
 # Prüfen Ihrer E-Mail {#verify-your-email}
 
-Wenn Sie über eine nicht verifizierte E-Mail-Identität verfügen, führen Sie die folgenden Schritte aus.
+Wenn Sie eine nicht verifizierte E-Mail-Identität haben, führen Sie die folgenden Schritte aus.
 
-1. Klicken Sie auf das Zahnradsymbol oben rechts und wählen Sie **Einstellungen**.
+1. Klicken Sie oben rechts auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
 
    ![](assets/verify-your-email-1.png)
 
-1. Klicken Sie unter &quot;Mein Konto&quot;auf **E-Mail-Einstellungen**.
+1. Klicken Sie unter Mein Konto auf **E-Mail-Einstellungen**.
 
    ![](assets/verify-your-email-2.png)
 
-1. Suchen Sie unter &quot;Adresse und Signatur&quot;die E-Mail-Identität, die Sie überprüfen möchten, und klicken Sie auf **E-Mail erneut senden**. Eine neue Verifizierungs-E-Mail wird gesendet.
+1. Suchen Sie unter Adresse und Signatur die E-Mail-Identität, die Sie verifizieren möchten, und klicken Sie auf **E-Mail erneut senden**. Eine neue Bestätigungs-E-Mail wird gesendet.
 
    ![](assets/verify-your-email-3.png)
 
-1. Klicken Sie auf **Erneut senden**.
+1. Klicken Sie **Erneut senden**.
 
    ![](assets/verify-your-email-4.png)
 

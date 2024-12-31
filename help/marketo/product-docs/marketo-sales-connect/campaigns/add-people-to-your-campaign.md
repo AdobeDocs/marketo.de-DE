@@ -15,14 +15,14 @@ ht-degree: 0%
 
 Es gibt mehrere Möglichkeiten, jemanden zu einer Kampagne hinzuzufügen.
 
-Wenn Sie die Kommunikation mit einem Interessenten oder Kunden beginnen, können Sie &quot;Zu Campaign hinzufügen&quot;von jeder Seite in unserer Webanwendung oder aus Salesforce verwenden.
+Wenn Sie die Kommunikation mit einem Interessenten oder Kunden beginnen, können Sie Zu Campaign hinzufügen von einer beliebigen Seite in unserer Web-Anwendung oder von Salesforce aus verwenden.
 
-Mit diesem Ablauf können Sie Ihre erste E-Mail in der Kampagne in der Vorschau anzeigen, bearbeiten und planen. Wenn Ihre Kampagne mit einer Aufgabe beginnt, werden diese Aufgaben in Ihrer Aufgabenliste in unserer Webanwendung und in Salesforce für Sie in die Warteschlange gestellt.
+Dieser Fluss ermöglicht die Vorschau, Bearbeitung und Planung Ihrer ersten E-Mail in der Kampagne. Wenn Ihre Kampagne mit einer Aufgabe beginnt, werden diese Aufgaben in Ihrer Aufgabenliste in unserer Web-Anwendung und in Salesforce in die Warteschlange gestellt.
 
-Sie können dies über den Tab Kampagnen in unserer Webanwendung tun.
+Dies ist über die Registerkarte Kampagnen in unserer Web-Anwendung möglich.
 
-Die Schaltfläche Zu Kampagne hinzufügen finden Sie auf den Seiten Unterhaltungen und Personen in unserer Webanwendung.
+Die Schaltfläche Zu Kampagne hinzufügen finden Sie auf den Seiten Konversationen und Personen in unserer Web-Anwendung.
 
-Wenn Sie einen potenziellen Kunden oder Kunden aus Ihrem Gmail- oder Outlook-Posteingang verfolgen, können Sie ihn über Ihr Komprimierungsfenster zu einer Kampagne hinzufügen, wenn Sie mit ihnen weitermachen (wenn der erste Schritt in der Kampagne eine E-Mail ist).
+Wenn Sie einem Interessenten oder Kunden aus Ihrem Gmail- oder Outlook-Posteingang folgen, können Sie ihn bzw. sie über das Fenster „Erstellen“ zu einer Kampagne hinzufügen, wenn Sie mit ihm oder ihr Kontakt aufnehmen (wenn der erste Schritt in der Kampagne eine E-Mail ist).
 
-Antworten Sie einfach auf ihre E-Mail und wählen Sie eine Kampagne aus unserem Plugin aus.
+Antworten Sie einfach auf ihre E-Mail und wählen Sie eine Kampagne aus unserem Plug-in.

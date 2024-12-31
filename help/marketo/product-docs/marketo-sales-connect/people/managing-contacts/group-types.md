@@ -13,7 +13,7 @@ ht-degree: 10%
 
 # Gruppentypen {#group-types}
 
-Erfahren Sie mehr über die verschiedenen Gruppentypen in Sales Connect.
+Lernen Sie die verschiedenen Gruppentypen in Sales Connect kennen.
 
 ![](assets/one-7.png)
 
@@ -33,15 +33,15 @@ Erfahren Sie mehr über die verschiedenen Gruppentypen in Sales Connect.
   </tr> 
   <tr> 
    <td colspan="1"><p>Dynamische Gruppen</p></td> 
-   <td colspan="1">Meine Kontakte: Alle Kontakte, die Sie besitzen.<br>Abmeldungen: Kontakte, die sich vom Erhalt der Korrespondenz abgemeldet haben.</td> 
+   <td colspan="1">Meine Kontakte: Alle Kontakte, deren Inhaber Sie sind.<br>Abmeldungen: Kontakte, die sich vom Erhalt von Korrespondenz abgemeldet haben.</td> 
   </tr> 
   <tr> 
    <td><p>Meine Gruppen</p></td> 
-   <td>Von Ihnen erstellte Gruppen. Sie können Ihre Kontakte oder Kontakte enthalten, die für Sie freigegeben wurden.</td> 
+   <td>Von Ihnen erstellte Gruppen. Sie können Ihre Kontakte enthalten oder Kontakte, die für Sie freigegeben wurden.</td> 
   </tr> 
   <tr> 
    <td><p>Teamgruppen</p></td> 
-   <td>Gruppen, die für und/oder von Ihnen freigegeben wurden. Sie können Kontakte enthalten, die Ihre Teamkollegen besitzen, oder Kontakte, die Sie mit ihnen geteilt haben.</td> 
+   <td>Gruppen, die für und/oder von Ihnen freigegeben wurden. Sie können eigene Kontakte oder Kontakte enthalten, die Sie für Ihre Teammitglieder freigegeben haben.</td> 
   </tr> 
  </tbody> 
 </table>

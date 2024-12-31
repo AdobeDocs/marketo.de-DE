@@ -1,6 +1,6 @@
 ---
-description: Verwenden der Massen-E-Mail zum Senden von Verkäufen in Salesforce - Marketo Docs - Produktdokumentation
-title: Verwenden der Massen-Sende-Verkaufs-E-Mail in Salesforce
+description: Verwenden von Massen-Verkaufs-E-Mails in Salesforce - Marketo-Dokumente - Produktdokumentation
+title: Verwenden von Massen-Verkaufs-E-Mails in Salesforce
 exl-id: 4886109d-c2b8-4186-922b-8a15cf1e742e
 source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
@@ -9,21 +9,21 @@ ht-degree: 0%
 
 ---
 
-# Verwenden der Massen-Sende-Verkaufs-E-Mail in Salesforce {#using-bulk-send-sales-email-in-salesforce}
+# Verwenden von Massen-Verkaufs-E-Mails in Salesforce {#using-bulk-send-sales-email-in-salesforce}
 
-Erfahren Sie, wie Sie Massen-E-Mails in Salesforce senden können, um Ihre ausgehende Kommunikation mithilfe von Verkaufsaktionen zu skalieren.
+Erfahren Sie, wie Sie Massen-E-Mails in Salesforce senden, um Ihre ausgehende Kommunikation mithilfe von Verkaufsaktionen zu skalieren.
 
 >[!NOTE]
 >
->Salesforce erzwingt eine Beschränkung von 200 Datensätzen, die gleichzeitig ausgewählt werden können.
+>Salesforce erzwingt ein Limit von 200 Datensätzen, die gleichzeitig ausgewählt werden können.
 
 >[!PREREQUISITES]
 >
 >Stellen Sie sicher, dass Sie das [neueste Sales Insight-Paket](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} in Ihrer Salesforce-Instanz installiert und die [Aktionsschaltflächen](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md){target="_blank"} in Ihren Kontakt- und Lead-Listenansichten in Salesforce konfiguriert haben.
 
-## Senden von Massen-E-Mails in Salesforce-Blitzen {#sending-bulk-email-in-salesforce-lightning}
+## Senden von Massen-E-Mails in Salesforce Lightning {#sending-bulk-email-in-salesforce-lightning}
 
-1. Navigieren Sie in Salesforce zur Homepage &quot;Leads/Kontakte&quot;, indem Sie auf die Registerkarte **Leads/Kontakte** klicken.
+1. Navigieren Sie in Salesforce zur Startseite für Leads/Kontakte, indem Sie auf die Registerkarte **Leads/Kontakte** klicken.
 
    ![](assets/using-bulk-send-sales-email-in-salesforce-1.png)
 
@@ -31,31 +31,31 @@ Erfahren Sie, wie Sie Massen-E-Mails in Salesforce senden können, um Ihre ausge
 
    >[!TIP]
    >
-   >Sie können eine neue Ansicht erstellen, indem Sie auf das Zahnradsymbol rechts klicken und **Neu** auswählen. Nachdem Sie der Ansicht einen neuen Namen gegeben und gespeichert haben, können Sie auf das Filtersymbol rechts neben der Ansicht klicken, um nach dem gewünschten Satz von Leads/Kontakten zu filtern, die Sie per E-Mail versenden möchten.
+   >Sie können eine neue Ansicht erstellen, indem Sie auf das Zahnradsymbol rechts klicken und **Neu** auswählen. Nachdem Sie der Ansicht einen neuen Namen gegeben und sie gespeichert haben, können Sie auf das Filtersymbol rechts klicken, um die Filterung auf die gewünschte Gruppe von Leads/Kontakten zu vereinfachen, die Sie per E-Mail versenden möchten.
 
-1. Wählen Sie den gewünschten Lead oder die Kontaktliste aus und klicken Sie auf die Schaltfläche **E-Mail zum Verkauf senden** .
+1. Wählen Sie die gewünschte Lead- oder Kontaktliste aus und klicken Sie auf die Schaltfläche **Verkaufs-E-Mail senden**.
 
    ![](assets/using-bulk-send-sales-email-in-salesforce-2.png)
 
-1. Sie werden zum Fenster Aktionszusammenstellung navigiert und die von Ihnen ausgewählten Personen hinzugefügt.
+1. Sie werden zum Fenster „Aktionen erstellen“ mit den von Ihnen ausgewählten Personen navigiert.
 
-1. Wählen Sie die Vorlage aus, die Sie in den Assistenten zum Erstellen von Aktionen einfügen möchten, oder schreiben Sie eine benutzerdefinierte E-Mail.
-
-   >[!TIP]
-   >
-   >Verwenden Sie [Pinned Categories](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md#pinning-template-categories-in-the-compose-window){target="_blank"} , um den Zugriff auf Ihre bevorzugten E-Mail-Vorlagen zu erleichtern.
-
-   **OPTIONALER SCHRITT**: Zeigen Sie eine Vorschau der Personalisierung dynamischer Felder an, indem Sie auf die Schaltfläche **Vorschau dynamischer Felder anzeigen** klicken.
+1. Wählen Sie die Vorlage aus, die Sie in den Editor für das Fenster „Aktionen erstellen“ einfügen möchten, oder schreiben Sie eine benutzerdefinierte E-Mail.
 
    >[!TIP]
    >
-   >Wenn Sie eine Vorlage für alle Empfänger anpassen möchten, können Sie durch Klicken auf die Option Alle Empfänger in der Seitenleiste Massen erstellen alle Empfänger-E-Mails gleichzeitig bearbeiten. Wenn Sie eine Änderung an einer bestimmten E-Mail vornehmen möchten, klicken Sie in der Seitenleiste &quot;Massen erstellen&quot;auf den Namen oder die E-Mail des Empfängers. Wenn Sie an einer einzelnen E-Mail Änderungen vornehmen und dann bei der Auswahl von Alle Empfänger Änderungen vornehmen, überschreiben die Änderungen, die an allen Empfängern vorgenommen wurden, die an der einzelnen E-Mail vorgenommenen Änderungen.
+   >Verwenden Sie [angeheftete Kategorien](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md#pinning-template-categories-in-the-compose-window){target="_blank"} um den Zugriff auf Ihre bevorzugten E-Mail-Vorlagen zu erleichtern.
 
-1. Wählen Sie **Senden** , um die E-Mail sofort zu senden, oder **Zeitplan festlegen** , um Datum und Uhrzeit für den Versand der E-Mail festzulegen.
+   **OPTIONALER SCHRITT**: Zeigen Sie eine Vorschau einer Personalisierung für dynamische Felder an, indem Sie auf die Schaltfläche **Vorschau dynamischer Felder** klicken.
+
+   >[!TIP]
+   >
+   >Wenn Sie eine Vorlage für alle Empfänger anpassen möchten, können Sie durch Klicken auf die Option Alle Empfänger in der Seitenleiste für die Massenbearbeitung alle Empfänger-E-Mails gleichzeitig bearbeiten. Wenn Sie eine Änderung an einer bestimmten E-Mail vornehmen möchten, klicken Sie auf den Namen oder die E-Mail-Adresse des Empfängers in der Seitenleiste für die Massenbearbeitung. Wenn Sie Änderungen an einer einzelnen E-Mail vornehmen und dann Änderungen vornehmen, während Sie Alle Empfänger auswählen, werden die Änderungen an der einzelnen E-Mail durch die Änderungen an allen Empfängern überschrieben.
+
+1. Wählen Sie **Senden** aus, um die E-Mail sofort zu senden, oder **Zeitplan festlegen**, um Datum und Uhrzeit für den Versand der E-Mail festzulegen.
 
    ![](assets/using-bulk-send-sales-email-in-salesforce-3.png)
 
-## Massen-E-Mail in Salesforce Classic senden {#sending-bulk-email-in-salesforce-classic}
+## Senden von Massen-E-Mails in Salesforce Classic {#sending-bulk-email-in-salesforce-classic}
 
 1. Klicken Sie in Salesforce auf die Registerkarte **Leads/Kontakte**.
 
@@ -65,26 +65,26 @@ Erfahren Sie, wie Sie Massen-E-Mails in Salesforce senden können, um Ihre ausge
 
    >[!TIP]
    >
-   >Sie können eine neue Ansicht erstellen, indem Sie auf Neue Ansicht erstellen klicken und die verfügbaren Filter konfigurieren, um die Liste der Benutzer einzuschränken, die Sie zu einer Verkaufskampagne hinzufügen.
+   >Sie können eine neue Ansicht erstellen, indem Sie auf Neue Ansicht erstellen klicken und die verfügbaren Filter konfigurieren, um die Liste der Personen einzugrenzen, die Sie einer Verkaufskampagne hinzufügen.
 
-1. Wählen Sie die gewünschte Lead- oder Kontaktliste aus und klicken Sie auf die Schaltfläche **E-Mail zum Verkauf senden** .
+1. Wählen Sie die gewünschte Lead- oder Kontaktliste aus und klicken Sie auf die Schaltfläche **Verkaufs-E-Mail senden**.
 
    ![](assets/using-bulk-send-sales-email-in-salesforce-5.png)
 
-1. Sie werden zum Fenster Aktionskomposition mit den im Fenster zum Erstellen ausgewählten Empfängern navigiert.
+1. Sie werden zum Fenster Aktionen erstellen mit den Empfängern navigiert, die Sie im Fenster Erstellen ausgewählt haben.
 
-1. Wählen Sie die Vorlage aus, die Sie in den Assistenten zum Erstellen von Aktionen einfügen möchten, oder schreiben Sie eine benutzerdefinierte E-Mail.
+1. Wählen Sie die Vorlage aus, die Sie in den Editor für das Fenster „Aktionen erstellen“ einfügen möchten, oder schreiben Sie eine benutzerdefinierte E-Mail.
 
    ![](assets/using-bulk-send-sales-email-in-salesforce-6.png)
 
    >[!TIP]
    >
-   >Verwenden Sie [Pinned Categories](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md#pinning-template-categories-in-the-compose-window){target="_blank"} , um den Zugriff auf Ihre bevorzugten E-Mail-Vorlagen zu erleichtern.
+   >Verwenden Sie [angeheftete Kategorien](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md#pinning-template-categories-in-the-compose-window){target="_blank"} um den Zugriff auf Ihre bevorzugten E-Mail-Vorlagen zu erleichtern.
 
-   **OPTIONALER SCHRITT**: Zeigen Sie eine Vorschau der Personalisierung dynamischer Felder an, indem Sie auf die Schaltfläche **Vorschau dynamischer Felder anzeigen** klicken.
+   **OPTIONALER SCHRITT**: Zeigen Sie eine Vorschau einer Personalisierung für dynamische Felder an, indem Sie auf die Schaltfläche **Vorschau dynamischer Felder** klicken.
 
    >[!TIP]
    >
-   >Wenn Sie eine Vorlage für alle Empfänger anpassen möchten, können Sie durch Klicken auf die Option Alle Empfänger in der Seitenleiste Massen erstellen alle Empfänger-E-Mails gleichzeitig bearbeiten. Wenn Sie eine Änderung an einer bestimmten E-Mail vornehmen möchten, klicken Sie in der Seitenleiste &quot;Massen erstellen&quot;auf den Namen oder die E-Mail des Empfängers. Wenn Sie an einer einzelnen E-Mail Änderungen vornehmen und dann bei der Auswahl von Alle Empfänger Änderungen vornehmen, überschreiben die Änderungen, die an allen Empfängern vorgenommen wurden, die an der einzelnen E-Mail vorgenommenen Änderungen.
+   >Wenn Sie eine Vorlage für alle Empfänger anpassen möchten, können Sie durch Klicken auf die Option Alle Empfänger in der Seitenleiste für die Massenbearbeitung alle Empfänger-E-Mails gleichzeitig bearbeiten. Wenn Sie eine Änderung an einer bestimmten E-Mail vornehmen möchten, klicken Sie auf den Namen oder die E-Mail-Adresse des Empfängers in der Seitenleiste für die Massenbearbeitung. Wenn Sie Änderungen an einer einzelnen E-Mail vornehmen und dann Änderungen vornehmen, während Sie Alle Empfänger auswählen, werden die Änderungen an der einzelnen E-Mail durch die Änderungen an allen Empfängern überschrieben.
 
-1. Wählen Sie **Senden** , um die E-Mail sofort zu senden, oder **Zeitplan festlegen** , um Datum und Uhrzeit für den Versand der E-Mail festzulegen.
+1. Wählen Sie **Senden** aus, um die E-Mail sofort zu senden, oder **Zeitplan festlegen**, um Datum und Uhrzeit für den Versand der E-Mail festzulegen.

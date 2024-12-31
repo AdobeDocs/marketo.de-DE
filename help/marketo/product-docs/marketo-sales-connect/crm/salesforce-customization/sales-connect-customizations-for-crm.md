@@ -13,7 +13,7 @@ ht-degree: 2%
 
 # Sales Connect-Anpassungen für CRM {#sales-connect-customizations-for-crm}
 
-Die Felder und Schaltflächen unten werden von der Metadaten-API im Salesforce CRM erstellt. Nach der Erstellung der Felder müssen Administratoren die Seitenlayouts in ihrem CRM-System konfigurieren, um sie verfügbar zu machen. Anweisungen [finden Sie hier](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/assets/mse-for-sf-classic.pdf).
+Die folgenden Felder und Schaltflächen werden von der Metadaten-API in Salesforce CRM erstellt. Nachdem die Felder erstellt wurden, müssen Administratoren die Seiten-Layouts in ihrem CRM konfigurieren, um sie verfügbar zu machen. Anweisungen [finden Sie hier](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/assets/mse-for-sf-classic.pdf).
 
 ## Installieren von Anpassungen in Salesforce {#how-to-install-customizations-in-salesforce}
 
@@ -21,15 +21,15 @@ Die Felder und Schaltflächen unten werden von der Metadaten-API im Salesforce C
 
    ![](assets/one.png)
 
-1. Wählen Sie unter &quot;Admin Settings&quot;den Eintrag **Salesforce**.
+1. Wählen Sie unter „Admin-Einstellungen“ **Salesforce**.
 
    ![](assets/two.png)
 
-1. Klicken Sie auf **Marketo Sales Connect-Anpassungen**.
+1. Klicken Sie auf **Marketo Sales Connect-**.
 
    ![](assets/three.png)
 
-1. Klicken Sie auf **Verbindung zu Salesforce herstellen**.
+1. Klicken Sie **Mit Salesforce verbinden**.
 
    ![](assets/four.png)
 
@@ -39,25 +39,25 @@ Die Felder und Schaltflächen unten werden von der Metadaten-API im Salesforce C
 
 ## Salesforce-Anpassung aktualisieren {#update-salesforce-customization}
 
-Aktualisierungen des Salesforce-Anpassungspakets umfassen Verbesserungen und Fehlerkorrekturen. Gehen Sie wie folgt vor, um zu überprüfen, ob Updates verfügbar sind oder um eine Aktualisierung durchzuführen.
+Die Aktualisierungen des Salesforce-Anpassungspakets umfassen Verbesserungen und Fehlerbehebungen. Gehen Sie wie folgt vor, um zu überprüfen, ob Updates verfügbar sind oder um ein Update durchzuführen.
 
 >[!NOTE]
 >
->**Erforderliche Administratorberechtigungen.**
+>**Administratorberechtigungen erforderlich.**
 
-1. Klicken Sie in der [Webanwendung](https://www.toutapp.com) auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
+1. Klicken Sie in [Web-Anwendung](https://www.toutapp.com) auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
 
    ![](assets/sales-connect-customizations-for-crm-6.png)
 
-1. Klicken Sie unter &quot;Admin Settings&quot;auf **Salesforce**.
+1. Klicken Sie unter „Admin Settings“ auf **Salesforce**.
 
    ![](assets/sales-connect-customizations-for-crm-7.png)
 
-1. Auf der Karte zur Anpassung von Sales Connect wird angezeigt, ob Updates verfügbar sind. Klicken Sie auf **Anpassungen aktualisieren**.
+1. Auf der Karte Sales Connect Customization wird angezeigt, ob Updates verfügbar sind. Klicken Sie **Anpassungen aktualisieren**.
 
    ![](assets/sales-connect-customizations-for-crm-8.png)
 
-1. Klicken Sie auf **Upgrade**.
+1. Klicken Sie auf **Aktualisieren**.
 
    ![](assets/sales-connect-customizations-for-crm-9.png)
 
@@ -65,13 +65,13 @@ Aktualisierungen des Salesforce-Anpassungspakets umfassen Verbesserungen und Feh
 
    ![](assets/sales-connect-customizations-for-crm-10.png)
 
-Nach Abschluss des Vorgangs zeigt Ihre Karte an, dass Ihre Anpassungen an Sales Connect aktuell sind.
+Nach der Fertigstellung zeigt Ihre Karte „Ihre Sales Connect-Anpassungen sind auf dem neuesten Stand.“
 
 ![](assets/sales-connect-customizations-for-crm-11.png)
 
 ## Benutzerdefinierte Aktivitätsfelder {#custom-activity-fields}
 
-Marketo erkennt die Erstellung der neuen Felder und führt dann eine einmalige Aufstockung der Daten, eine erneute Zuordnung und eine fortlaufende Synchronisierung der Werte nur in den **neuen** -Feldern durch. Alte Felder werden nicht aktualisiert.
+Marketo erkennt die Erstellung der neuen Felder und führt dann eine einmalige Aufstockung der Daten, eine Neuzuordnung und eine fortlaufende Synchronisierung von Werten nur in die **neuen** Felder durch. Alte Felder werden nicht aktualisiert.
 
 <table><thead>
   <tr>
@@ -80,60 +80,60 @@ Marketo erkennt die Erstellung der neuen Felder und führt dann eine einmalige A
   </tr></thead>
 <tbody>
   <tr>
-    <td>Lokale Präsenz-ID des MSE-Aufrufs</td>
-    <td>Als Benutzer können Sie bei Aufrufen über das MSE Phone "Lokale Präsenz"als Option wählen. Eingehende Aufrufe zeigen eine lokale Nummer für den Empfänger an.</td>
+    <td>Lokale Präsenz-ID des SMS-Aufrufs</td>
+    <td>Als Benutzer können Sie bei Anrufen vom MSE-Telefon die Option Lokale Präsenz als Option wählen. Bei eingehenden Anrufen wird eine lokale Nummer für den Empfänger angezeigt.</td>
   </tr>
   <tr>
-    <td>URL zur Aufzeichnung von MSE-Aufrufen</td>
-    <td>Aufrufe können aufgezeichnet werden und hier wird ein Link für die Aufzeichnung protokolliert.</td>
+    <td>URL für die Aufzeichnung von SMS-Aufrufen</td>
+    <td>Anrufe können aufgezeichnet werden und ein Link für die Aufzeichnung wird hier protokolliert.</td>
   </tr>
   <tr>
     <td>MSE-Kampagne</td>
-    <td>Protokollierungsname der MSE-Kampagne, der der Kontakt/Lead angehört.</td>
+    <td>Loggt den Namen der SMS-Kampagne, der der Kontakt/Lead angehört.</td>
   </tr>
   <tr>
     <td>MSE-Kampagnen-URL</td>
-    <td>Protokolliert die URL für die in MSE erstellte Kampagne. Wenn Sie auf diese Option klicken, wird die Kampagne in der MSE-Web-App geöffnet.</td>
+    <td>Protokolliert die URL für die in MSE erstellte Kampagne. Wenn Sie darauf klicken, wird die Kampagne in der MSE-Web-App geöffnet.</td>
   </tr>
   <tr>
-    <td>Aktueller Schritt einer MSE-Kampagne</td>
-    <td>Wenn ein Kontakt/Lead Teil einer Kampagne ist, protokolliert dieses Feld den Namen des Schritts, in dem sich der Lead/Kontakt derzeit befindet.</td>
+    <td>Aktueller Schritt der SMS-Kampagne</td>
+    <td>Wenn ein Kontakt/Lead Teil einer Kampagne ist, wird in diesem Feld der Name des Schritts protokolliert, in dem sich der Lead/Kontakt derzeit befindet.</td>
   </tr>
   <tr>
-    <td>Angezeigte MSE-E-Mail-Anlage</td>
-    <td>Protokolliert Daten, wenn eine E-Mail mit einem Anhang gesendet und der Anhang vom Empfänger angezeigt wird.</td>
+    <td>MSE-E-Mail-Anhang angesehen</td>
+    <td>Protokolliert Daten, wenn eine E-Mail mit einer Anlage gesendet und die Anlage vom Empfänger angezeigt wird.</td>
   </tr>
   <tr>
-    <td>MSE-E-Mail angeklickt</td>
+    <td>E-Mail-Adresse angeklickt</td>
     <td>Protokolliert ein Häkchen, wenn der Empfänger auf einen Link in einer E-Mail klickt.</td>
   </tr>
   <tr>
-    <td>MSE-E-Mail beantwortet</td>
+    <td>SMS-E-Mail geantwortet</td>
     <td>Protokolliert ein Häkchen, wenn der Empfänger auf eine E-Mail antwortet.</td>
   </tr>
   <tr>
-    <td>MSE Email Status</td>
-    <td>Zeigt an, ob eine E-Mail gesendet/in Bearbeitung/abgestürzt wurde (das Tracking nicht zugestellter E-Mails hängt vom verwendeten Versandkanal ab).</td>
+    <td>SMS-E-Mail-Status</td>
+    <td>Zeigt an, ob eine E-Mail gesendet/in Bearbeitung/nicht zugestellt wurde (Tracking von nicht zugestellten E-Mails hängt vom verwendeten Versandkanal ab).</td>
   </tr>
   <tr>
-    <td>MSE Email Template</td>
-    <td>Logs name of the MSE template that was used in the email sent to the lead/contact.</td>
+    <td>MSE-E-Mail-Vorlage</td>
+    <td>Loggt den Namen der MSE-Vorlage, die in der an den Lead/Kontakt gesendeten E-Mail verwendet wurde.</td>
   </tr>
   <tr>
-    <td>URL der MSE-E-Mail-Vorlage</td>
-    <td>Protokolliert die URL auf die in MSE erstellte Vorlage. Wenn Sie auf diese Option klicken, wird die Vorlage in der MSE-Web-App geöffnet.</td>
+    <td>MSE-E-Mail-Vorlagen-URL</td>
+    <td>Protokolliert die URL in der in MSE erstellten Vorlage. Wenn Sie darauf klicken, wird die Vorlage in der MSE-Web-App geöffnet.</td>
   </tr>
   <tr>
     <td>MSE Email URL</td>
-    <td>Wenn Sie auf diese URL klicken, wird das Command Center in MSE geöffnet und die Registerkarte "People Detail View history"abgerufen, auf der Sie die gesendete E-Mail sehen können.</td>
+    <td>Wenn Sie auf diese URL klicken, wird das Command Center in MSE geöffnet und die Registerkarte „Personen-Detailansicht - Verlauf“ aufgerufen, auf der die gesendete E-Mail zu sehen ist.</td>
   </tr>
   <tr>
-    <td>Angezeigte MSE-E-Mail</td>
+    <td>MSE-E-Mail angesehen</td>
     <td>Protokolliert ein Häkchen, wenn der Empfänger eine E-Mail anzeigt.</td>
   </tr>
 </tbody></table>
 
-## Datenaggregations-Protokollierungsfelder {#roll-up-logging-fields}
+## Rollout-Protokollfelder {#roll-up-logging-fields}
 
 <table><thead>
   <tr>
@@ -142,40 +142,40 @@ Marketo erkennt die Erstellung der neuen Felder und führt dann eine einmalige A
   </tr></thead>
 <tbody>
   <tr>
-    <td>MSE - Letzte Marketinginteraktion</td>
-    <td>Letzte eingehende Interaktion vom Marketing.</td>
+    <td>MSE - Letzte Marketing-Interaktion</td>
+    <td>Letzte eingehende Interaktion aus Marketing.</td>
   </tr>
   <tr>
-    <td>MSE - Datum der letzten Marketing-Interaktion</td>
-    <td>Zeitstempel der Interaktion vom Marketing.</td>
+    <td>MSE - Datum des letzten Marketing-Engagements</td>
+    <td>Zeitstempel der Interaktion mit Marketing.</td>
   </tr>
   <tr>
-    <td>MSE - Letzte Marketing Engagement Desc</td>
-    <td>Beschreibung der Interaktion.</td>
+    <td>MSE - Beschreibung der letzten Marketing-Interaktion</td>
+    <td>Beschreibung des Engagements.</td>
   </tr>
   <tr>
-    <td>MSE - Letzte Marketinginteraktion - Source</td>
-    <td>Source der Marketinginteraktion.</td>
+    <td>MSE - Letzte Marketing-Interaktion Source</td>
+    <td>Source der Marketing-Interaktion.</td>
   </tr>
   <tr>
-    <td>MSE - Letzter Marketing-Interaktionstyp</td>
+    <td>MSE - Typ der letzten Marketing-Interaktion</td>
     <td>Art der Interaktion.</td>
   </tr>
   <tr>
-    <td>MSE - Letzte Aktivität nach Vertrieb</td>
-    <td>Letzte ausgehende Aktivität, die vom Sales-Team durchgeführt wurde.</td>
+    <td>MSE - Letzte Aktivität nach Verkauf</td>
+    <td>Letzte ausgehende Aktivität, die vom Sales-Team ausgeführt wurde.</td>
   </tr>
   <tr>
     <td>MSE - Zuletzt geantwortet</td>
-    <td>Letzte E-Mail-Antwort auf die E-Mail "Verkauf".</td>
+    <td>Letzte E-Mail Antwort auf Verkaufs-E-Mail.</td>
   </tr>
   <tr>
-    <td>MSE - Aktuelle Vertriebskampagne</td>
-    <td>Protokollname der MSE-Kampagne, der der Lead/Kontakt angehört.</td>
+    <td>MSE - Aktuelle Verkaufskampagne</td>
+    <td>Loggt den Namen der SMS-Kampagne, der der Lead/Kontakt angehört.</td>
   </tr>
   <tr>
-    <td>MSE - Letzte Vertriebsinteraktion</td>
-    <td>Letzte eingehende Interaktion aus dem Verkauf.</td>
+    <td>MSE - Letztes Vertriebsvorhaben</td>
+    <td>Letzte eingehende Interaktion vom Verkauf.</td>
   </tr>
   <tr>
     <td>MSE - Opt-out</td>
@@ -192,25 +192,25 @@ Marketo erkennt die Erstellung der neuen Felder und führt dann eine einmalige A
   </tr></thead>
 <tbody>
   <tr>
-    <td>MSE-E-Mail senden</td>
-    <td>Senden Sie E-Mails zum Vertrieb aus Salesforce.</td>
+    <td>SMS-E-Mail senden</td>
+    <td>Senden Sie Verkaufs-E-Mails von Salesforce.</td>
   </tr>
   <tr>
-    <td>Zu MSE-Kampagne hinzufügen</td>
+    <td>Zur MSE-Kampagne hinzufügen</td>
     <td>Zu MSE-Kampagnen aus Salesforce hinzufügen.</td>
   </tr>
   <tr>
-    <td>Push to MSE</td>
+    <td>Push an MSE</td>
     <td>Push-Kontakt von Salesforce zu MSE.</td>
   </tr>
   <tr>
-    <td>Aufruf mit MSE</td>
-    <td>Führen Sie Verkaufsaufrufe von Salesforce aus durch.</td>
+    <td>Anruf mit MSE</td>
+    <td>Führen Sie Verkaufsanrufe von Salesforce aus.</td>
   </tr>
 </tbody>
 </table>
 
-## Massenaktion - Schaltflächen {#bulk-action-buttons}
+## Massenaktion-Schaltflächen {#bulk-action-buttons}
 
 <table><thead>
   <tr>
@@ -219,11 +219,11 @@ Marketo erkennt die Erstellung der neuen Felder und führt dann eine einmalige A
   </tr></thead>
 <tbody>
   <tr>
-    <td>Zu MSE-Kampagne hinzufügen</td>
+    <td>Zur MSE-Kampagne hinzufügen</td>
     <td>Zu MSE-Kampagnen aus Salesforce hinzufügen.</td>
   </tr>
   <tr>
-    <td>Push to MSE</td>
+    <td>Push an MSE</td>
     <td>Push-Kontakt von Salesforce zu MSE.</td>
   </tr>
 </tbody>
@@ -235,4 +235,4 @@ Marketo erkennt die Erstellung der neuen Felder und führt dann eine einmalige A
 
 [MSE für Salesforce Classic](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/assets/mse-for-sf-classic.pdf)
 
-[MSE für Salesforce-Blitze](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/assets/sfdc-guide-lightning.pdf)
+[MSE für Salesforce Lightning](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/assets/sfdc-guide-lightning.pdf)

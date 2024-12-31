@@ -1,7 +1,7 @@
 ---
 unique-page-id: 14352516
-description: Erstellen und Löschen von Kontakten - Marketo-Dokumente - Produktdokumentation
-title: Erstellen und Löschen von Kontakten
+description: Kontakte erstellen und löschen - Marketo-Dokumente - Produktdokumentation
+title: Kontakte erstellen und löschen
 exl-id: 04e2887b-8515-4d48-8a94-ccff00805210
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,21 +11,21 @@ ht-degree: 0%
 
 ---
 
-# Erstellen und Löschen von Kontakten {#creating-and-deleting-contacts}
+# Kontakte erstellen und löschen {#creating-and-deleting-contacts}
 
-## Erstellen von Kontakten {#creating-contacts}
+## Kontakte erstellen {#creating-contacts}
 
-1. Klicken Sie auf der Seite &quot;Personen&quot;auf die Schaltfläche **Gruppenaktionen** und wählen Sie **Kontakt erstellen** aus.
+1. Klicken Sie auf der Seite „Personen **auf die Schaltfläche „Gruppenaktionen** und wählen Sie **Kontakt erstellen**.
 
    ![](assets/one-2.png)
 
-1. Geben Sie den Vor-/Nachnamen und die E-Mail-Adresse sowie weitere Informationen ein, die Sie benötigen. Klicken Sie nach Abschluss auf **Erstellen** oder auf **Erstellen und Hinzufügen neuer Elemente** , um weitere Kontakte hinzuzufügen.
+1. Geben Sie den Vor-/Nachnamen und die E-Mail-Adresse sowie weitere Informationen ein, die Sie benötigen. Klicken Sie **Erstellen** wenn Sie fertig sind, oder **Erstellen und Neu hinzufügen** um weitere Kontakte hinzuzufügen.
 
    ![](assets/two-2.png)
 
    >[!TIP]
    >
-   >Möchten Sie mehrere Kontakte gleichzeitig hinzufügen? [Klicken Sie hier](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md) , um zu erfahren, wie Sie Kontakte über CSV importieren.
+   >Möchten Sie mehrere Kontakte gleichzeitig hinzufügen? [Hier klicken](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md) um zu erfahren, wie Sie Kontakte per CSV importieren.
 
 ## Löschen von Kontakten {#deleting-contacts}
 
@@ -35,12 +35,12 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Um mehrere Kontakte zu löschen, wählen Sie einfach mehrere Personen aus. Die verbleibenden Schritte wären die gleichen.
+   >Um mehrere Kontakte zu löschen, wählen Sie einfach mehrere Personen aus. Die restlichen Schritte wären dieselben.
 
-1. Klicken Sie auf das Feld (drei vertikale Punkte) und wählen Sie **Löschen** aus.
+1. Klicken Sie auf die Punkte (drei vertikale Punkte) und wählen Sie **Löschen**.
 
    ![](assets/four-2.png)
 
-1. Klicken Sie zur Bestätigung auf **Kontakt löschen** .
+1. Klicken Sie **Kontakt löschen** zur Bestätigung.
 
    ![](assets/five-2.png)

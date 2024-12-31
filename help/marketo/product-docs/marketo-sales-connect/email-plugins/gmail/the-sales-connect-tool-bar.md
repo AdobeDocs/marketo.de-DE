@@ -1,7 +1,7 @@
 ---
 unique-page-id: 14352444
-description: Symbolleiste "Sales Connect"- Marketo-Dokumente - Produktdokumentation
-title: Symbolleiste "Sales Connect"
+description: Die Sales Connect-Symbolleiste - Marketo-Dokumente - Produktdokumentation
+title: Die Sales Connect-Symbolleiste
 exl-id: bff92e49-7dd2-4008-8f92-fee03a552fdf
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,13 +11,13 @@ ht-degree: 1%
 
 ---
 
-# Symbolleiste &quot;Sales Connect&quot; {#the-sales-connect-tool-bar}
+# Die Sales Connect-Symbolleiste {#the-sales-connect-tool-bar}
 
-Am Anfang Ihrer Gmail-Seite werden fünf Schaltflächen für die Verkaufsverbindung hinzugefügt, wenn Sie sich anmelden.
+Fünf Sales Connect-Schaltflächen werden bei der Anmeldung oben auf Ihrer Gmail-Seite hinzugefügt.
 
 | Schaltfläche | Beschreibung |
 |---|---|
-| **Schaltfläche &quot;Live Feed&quot;** | Öffnet Ihren Sales Connect [Live Feed](https://toutapp.com/next#live), in dem Sie Echtzeit-Tracking-Informationen zu Ihren E-Mails abrufen können. |
-| **Schaltfläche &quot;Aufgaben&quot;** | Zeigt eine Dropdown-Liste aller Aufgaben an. |
-| **Schaltflächen für Vorlagen und Unterhaltungen** | Öffnet die Seite &quot;Vorlagen&quot;bzw. die Seite &quot;Konversationen&quot;der [Webanwendung](https://toutapp.com/login). Alles innerhalb Ihrer Gmail-Seite. |
-| **Schaltfläche &quot;Verkaufs-Gong&quot;** | Ermöglicht es Ihnen, Ihre geschlossenen/gewesenen Geschäfte mit Ihren Teamkollegen zu feiern. |
+| **Schaltfläche „Live-Feed“** | Öffnet den Sales Connect [Live-Feed](https://toutapp.com/next#live) in dem Sie in Echtzeit Tracking-Informationen in Ihren E-Mails erhalten. |
+| **Aufgaben-Schaltfläche** | Zeigt eine Dropdown-Liste aller Aufgaben an. |
+| **Vorlagen und Unterhaltungen - Schaltflächen** | Öffnet die Seite [Vorlagen“ ](https://toutapp.com/login) „Webanwendung“ bzw. „Unterhaltungen“. Alles auf Ihrer Gmail-Seite. |
+| **Verkaufs-Gong-Taste** | Ermöglicht es Ihnen, Ihre geschlossenen/gewonnenen Angebote mit Ihren Teamkollegen zu feiern. |

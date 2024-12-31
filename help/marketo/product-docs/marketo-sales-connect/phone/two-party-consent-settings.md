@@ -1,7 +1,7 @@
 ---
 unique-page-id: 45416566
 description: Einverständniseinstellungen von zwei Parteien - Marketo-Dokumente - Produktdokumentation
-title: Einverständniseinstellungen für zwei Parteien
+title: Einstellungen für Zwei-Parteien-Einverständnis
 exl-id: d0468ea1-3009-4190-ab9b-74c6fae955cb
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,42 +11,42 @@ ht-degree: 0%
 
 ---
 
-# Einverständniseinstellungen für zwei Parteien {#two-party-consent-settings}
+# Einstellungen für Zwei-Parteien-Einverständnis {#two-party-consent-settings}
 
-Um die Einhaltung der US-amerikanischen Zustimmungsgesetze bei der Aufzeichnung von Anrufen sicherzustellen, können Sie als Administrator eine aufgezeichnete Nachricht Ihrer Wahl aktivieren, die zu Beginn Ihrer Aufrufe abgespielt wird, wenn sie aufgezeichnet wird.
+Um bei der Aufzeichnung von Anrufen die Einhaltung der US-amerikanischen Zwei-Parteien-Einverständnisgesetze sicherzustellen, können Sie als Administrator eine aufgezeichnete Nachricht Ihrer Wahl zu Beginn Ihrer Anrufe wiedergeben lassen, wenn sie aufgezeichnet wird.
 
 >[!PREREQUISITES]
 >
->Bevor Sie die folgenden Schritte ausführen, müssen Sie zunächst [die Aufrufaufzeichnung aktivieren](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md).
+>Bevor Sie die folgenden Schritte ausführen, müssen Sie zunächst [Anrufaufzeichnung aktivieren](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md).
 
 1. Klicken Sie auf das Symbol Einstellungen und wählen Sie **Einstellungen** aus.
 
    ![](assets/one-1.png)
 
-1. Klicken Sie unter &quot;Admin Settings&quot;auf **General**.
+1. Klicken Sie unter „Admin Settings“ auf **General**.
 
    ![](assets/two-1.png)
 
-1. Scrollen Sie nach unten zu &quot;Sales Connect Phone Settings&quot;und klicken Sie auf **Hinweis zur Aufzeichnung verwalten**.
+1. Scrollen Sie nach unten zu Sales Connect Phone-Einstellungen und klicken Sie auf **Aufnahmehinweis verwalten**.
 
    ![](assets/three-1.png)
 
-1. Klicken Sie auf **Aufnahme importieren**.
+1. Klicken Sie **Aufzeichnung importieren**.
 
    ![](assets/four-1.png)
 
    >[!NOTE]
    >
-   >Nur Wav- und MP3-Dateien werden unterstützt. Eine Datei, die länger als 30 Sekunden dauert, kann nicht hochgeladen werden.
+   >Es werden nur Wav- und MP3-Dateien unterstützt. Sie können eine Datei nicht länger als 30 Sekunden hochladen.
 
 1. Wählen Sie die gewünschte Audiodatei von Ihrer Festplatte aus.
 
    ![](assets/five.png)
 
-1. Nachdem der Upload abgeschlossen ist, wählen Sie die Daten (drei Punkte) im Dateimanager aus und klicken Sie auf **Als Einverständniserklärung auswählen**. Klicken Sie abschließend auf **OK** .
+1. Wählen Sie nach Abschluss des Uploads die Daten (drei Punkte) im Datei-Manager aus und klicken Sie auf **Als Einverständniserklärung auswählen**. Klicken **abschließend** OK“.
 
    ![](assets/six.png)
 
-1. Klicken Sie auf den Umschalter, um die Wiedergabe der ausgewählten Nachricht zu Beginn Ihrer aufgezeichneten Aufrufe zu aktivieren.
+1. Klicken Sie auf den Umschalter, damit die ausgewählte Nachricht zu Beginn der aufgezeichneten Anrufe abgespielt werden kann.
 
    ![](assets/seven.png)

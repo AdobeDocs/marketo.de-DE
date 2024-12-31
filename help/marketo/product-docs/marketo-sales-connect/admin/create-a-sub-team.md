@@ -19,25 +19,25 @@ ht-degree: 0%
 
    ![](assets/one-1.png)
 
-1. Wählen Sie unter &quot;Admin Settings&quot;die Option **Team Management**.
+1. Wählen Sie unter „Admin-Einstellungen **die Option „Team-Verwaltung** aus.
 
    ![](assets/two-1.png)
 
-1. Klicken Sie neben &quot;Alle Teams&quot;auf &quot;**+**&quot;.
+1. Klicken Sie neben Alle Teams auf das **+**.
 
    ![](assets/three-1.png)
 
-1. Geben Sie einen Teamnamen (und eine optionale Beschreibung) ein und klicken Sie auf **Erstellen**.
+1. Geben Sie einen Team-Namen (und optional eine Beschreibung) ein und klicken Sie auf **Erstellen**.
 
    ![](assets/four-1.png)
 
    >[!NOTE]
    >
-   >Sie können nun Vorlagen, Kampagnen und Gruppen für dieses Team freigeben.
+   >Sie können jetzt Vorlagen, Kampagnen und Gruppen für dieses Team freigeben.
 
 ## Personen zu Ihrem Unterteam hinzufügen {#add-people-to-your-sub-team}
 
-1. Wählen Sie im Team Management weiterhin die Gruppe **Alle** aus.
+1. Wählen Sie noch in Team Management die Gruppe **Alle** aus.
 
    ![](assets/five-1.png)
 
@@ -45,14 +45,14 @@ ht-degree: 0%
 
    ![](assets/six.png)
 
-1. Klicken Sie auf **Ausgewählte Teams hinzufügen**.
+1. Klicken Sie **Ausgewählte zu Teams hinzufügen**.
 
    ![](assets/seven.png)
 
-1. Klicken Sie auf das Dropdown-Menü und wählen Sie die gewünschten Teams aus.
+1. Klicken Sie auf die Dropdown-Liste und wählen Sie Ihr(e) gewünschte(s) Team(s) aus.
 
    ![](assets/eight.png)
 
-1. Klicken Sie abschließend auf **Zu Teams hinzufügen** .
+1. Klicken Sie abschließend **Zu Teams hinzufügen**.
 
    ![](assets/nine.png)

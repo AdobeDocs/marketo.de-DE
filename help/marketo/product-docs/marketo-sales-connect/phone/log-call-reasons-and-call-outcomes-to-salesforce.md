@@ -1,37 +1,37 @@
 ---
-description: Gründe für Protokollaufrufe und Ergebnisse von Aufrufen an Salesforce - Marketo Docs - Produktdokumentation
-title: Gründe für Protokollaufrufe und Ergebnisse von Aufrufen an Salesforce
+description: Gründe für Anrufe und Anrufergebnisse in Salesforce protokollieren - Marketo-Dokumente - Produktdokumentation
+title: Gründe und Anrufergebnisse bei Salesforce protokollieren
 exl-id: b35acdc2-8ec7-4dec-92b8-58ba7a1ad858
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '464'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
-# Gründe für Protokollaufrufe und Ergebnisse von Aufrufen an Salesforce {#log-call-reasons-and-call-outcomes-to-salesforce}
+# Gründe und Anrufergebnisse bei Salesforce protokollieren {#log-call-reasons-and-call-outcomes-to-salesforce}
 
-Wenn Sie Aufrufergebnisse protokollieren und Salesforce aus Berichts- oder Sichtbarkeitsgründen aufrufen möchten, können Sie für jede Aktivität ein eigenes Aktivitätsfeld erstellen. Jedes Feld muss einen bestimmten API-Namen verwenden (in Salesforce als &quot;Feldname&quot;bezeichnet).
+Wenn Sie Anrufergebnisse und Anrufgründe zu Berichts- oder Sichtbarkeitszwecken in Salesforce protokollieren möchten, können Sie für jede Aktivität ein benutzerdefiniertes Feld erstellen. Jedes Feld muss einen bestimmten API-Namen (in Salesforce als „Feldname“ bezeichnet) verwenden.
 
-* Feldname für Aufrufergebnisse: mktosales_call_result
-* Feldname für Aufrufgründe: mktosales_call_reason
+* Feldname für Anrufergebnisse: motosales_call_result
+* Feldname für Anrufgründe: motosales_call_reason
 
-Um diese Felder zu nutzen, müssen Sie zunächst das Feld als ein benutzerdefiniertes Aktivitätsfeld erstellen. Damit sie für Benutzer sichtbar ist, müssen Sie sie dem Seitenlayout der Aufgabenobjekte hinzufügen.
+Um diese Felder zu verwenden, müssen Sie das Feld zunächst als benutzerdefiniertes Aktivitätsfeld erstellen. Um sie für Benutzer sichtbar zu machen, müssen Sie sie zum Aufgabenobjekt-Seiten-Layout hinzufügen.
 
 ## Salesforce Classic {#salesforce-classic}
 
 ### Benutzerdefiniertes Aktivitätsfeld in Salesforce Classic erstellen  {#create-custom-activity-field-in-salesforce-classic}
 
-1. Klicken Sie in Salesforce auf **Einrichtung**.
+1. Klicken Sie in Salesforce auf **Setup**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-1.png)
 
-1. Geben Sie &quot;Aktivitäten&quot;in das Feld Schnellsuche ein.
+1. Geben Sie „Aktivitäten“ in das Feld „Schnellsuche“ ein.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-2.png)
 
-1. Klicken Sie auf **Benutzerdefinierte Aktivitätsfelder**.
+1. Klicken Sie auf **Aktivität Benutzerdefinierte Felder**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-3.png)
 
@@ -39,11 +39,11 @@ Um diese Felder zu nutzen, müssen Sie zunächst das Feld als ein benutzerdefini
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-4.png)
 
-1. Wählen Sie den Datentyp &quot;Text&quot;aus und klicken Sie auf **Weiter**.
+1. Wählen Sie den Datentyp „Text“ und klicken Sie auf **Weiter**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-5.png)
 
-1. Geben Sie dem benutzerdefinierten Feld den oben definierten Feldnamen. Die Feldlänge ist auf 255 Zeichen begrenzt. Feldbezeichnung ist das für Ihr Verkaufsteam sichtbare Feld und kann an die Anforderungen Ihres Teams angepasst werden.
+1. Geben Sie dem benutzerdefinierten Feld den Feldnamen wie oben definiert. Die Feldlänge ist auf 255 Zeichen begrenzt. Die Feldbezeichnung ist das Feld, das für Ihr Vertriebsteam sichtbar ist, und kann an die Anforderungen Ihres Teams angepasst werden.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-6.png)
 
@@ -51,41 +51,41 @@ Um diese Felder zu nutzen, müssen Sie zunächst das Feld als ein benutzerdefini
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-7.png)
 
-1. Wählen Sie die gewünschten Sicherheitseinstellungen auf Feldebene für dieses Feld aus und klicken Sie auf **Weiter** (das folgende Bild ist nur ein Beispiel).
+1. Wählen Sie die gewünschten Sicherheitseinstellungen auf Feldebene für dieses Feld aus und klicken Sie auf **Weiter** (die Abbildung unten ist nur ein Beispiel).
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-8.png)
 
    >[!NOTE]
    >
-   >Vergewissern Sie sich, dass das benutzerdefinierte Feld für das Profil, das Ihre Sales Connect-Benutzer verwenden, sowie für alle anderen Felder, die Sie sehen möchten, sichtbar ist.
+   >Stellen Sie sicher, dass das benutzerdefinierte Feld für das Profil sichtbar ist, das Ihre Sales Connect-Benutzer verwenden, zusammen mit überall dort, wo es sichtbar sein soll.
 
-1. Wählen Sie die Seitenlayouts aus, denen das Feld hinzugefügt werden soll, und klicken Sie auf &quot;**Speichern**&quot;. (Optional können Sie auf &quot;**Speichern und Neu**&quot;klicken und den Prozess für das Feld &quot;Aufrufgrund&quot;wiederholen.)
+1. Wählen Sie aus, welchen Seiten-Layouts das Feld hinzugefügt werden soll, und klicken Sie auf **Speichern** (optional können Sie auf **Speichern und neu** klicken und den Vorgang für das Feld Anrufgrund wiederholen).
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-9.png)
 
-### Fügen Sie benutzerdefinierte Aktivitätsfelder zum Aufgabenseitenlayout in Salesforce Classic hinzu. {#add-custom-activity-field-to-task-page-layout-in-salesforce-classic}
+### Hinzufügen eines benutzerdefinierten Aktivitätsfelds zum Aufgabenseiten-Layout in Salesforce Classic {#add-custom-activity-field-to-task-page-layout-in-salesforce-classic}
 
 >[!NOTE]
 >
->Sie müssen diese Schritte nur ausführen, wenn Sie Ihr gewünschtes Seitenlayout in Schritt 9 oben nicht ausgewählt haben.
+>Sie müssen diese Schritte nur ausführen, wenn Sie das gewünschte Seiten-Layout in Schritt 9 oben nicht ausgewählt haben.
 
-1. Klicken Sie in Salesforce auf **Einrichtung**.
+1. Klicken Sie in Salesforce auf **Setup**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-10.png)
 
-1. Geben Sie &quot;Aufgabe&quot;in das Feld Schnellsuche ein.
+1. Geben Sie „Aufgabe“ in das Feld „Schnellsuche“ ein.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-11.png)
 
-1. Klicken Sie auf **Aufgabenseitenlayouts**.
+1. Klicken Sie **Aufgabenseiten-Layouts**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-12.png)
 
-1. Klicken Sie neben dem Aufgabenseitenlayout, dem Sie dieses Feld hinzufügen möchten, auf **Bearbeiten** .
+1. Klicken Sie **Bearbeiten** neben dem Aufgabenseiten-Layout, dem Sie dieses Feld hinzufügen möchten.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-13.png)
 
-1. Ziehen Sie das Feld in den gewünschten Bereich des Aufgabenseitenlayouts.
+1. Ziehen Sie das Feld per Drag-and-Drop in den gewünschten Bereich des Aufgabenseiten-Layouts.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-14.png)
 
@@ -95,9 +95,9 @@ Um diese Felder zu nutzen, müssen Sie zunächst das Feld als ein benutzerdefini
 
 ## Salesforce Lightning {#salesforce-lightning}
 
-### Benutzerdefiniertes Aktivitätsfeld in Salesforce-Blitzen erstellen {#create-custom-activity-field-in-salesforce-lightning}
+### Benutzerdefiniertes Aktivitätsfeld in Salesforce Lightning erstellen {#create-custom-activity-field-in-salesforce-lightning}
 
-1. Klicken Sie in Salesforce auf das Zahnradsymbol oben rechts und wählen Sie **Einrichtung** aus.
+1. Klicken Sie in Salesforce oben rechts auf das Zahnradsymbol und dann auf **Setup**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-16.png)
 
@@ -105,15 +105,15 @@ Um diese Felder zu nutzen, müssen Sie zunächst das Feld als ein benutzerdefini
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-17.png)
 
-1. Geben Sie &quot;Aktivität&quot;in das Feld Schnellsuche ein.
+1. Geben Sie „Aktivität“ in das Feld „Schnellsuche“ ein.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-18.png)
 
-1. Klicken Sie auf die Bezeichnung **Aktivität** .
+1. Klicken Sie auf die **Aktivität** Bezeichnung.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-19.png)
 
-1. Klicken Sie auf **Felder und Beziehungen**.
+1. Klicken Sie **Felder und Beziehungen**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-20.png)
 
@@ -121,9 +121,9 @@ Um diese Felder zu nutzen, müssen Sie zunächst das Feld als ein benutzerdefini
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-21.png)
 
-### Fügen Sie benutzerdefiniertes Aktivitätsfeld zum Aufgabenseitenlayout in Salesforce-Blitzen hinzu {#add-custom-activity-field-to-task-page-layout-in-salesforce-lightning}
+### Benutzerdefiniertes Aktivitätsfeld zum Aufgabenseiten-Layout in Salesforce Lightning hinzufügen {#add-custom-activity-field-to-task-page-layout-in-salesforce-lightning}
 
-1. Klicken Sie in Salesforce auf das Zahnradsymbol oben rechts und wählen Sie **Einrichtung** aus.
+1. Klicken Sie in Salesforce oben rechts auf das Zahnradsymbol und dann auf **Setup**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-22.png)
 
@@ -131,11 +131,11 @@ Um diese Felder zu nutzen, müssen Sie zunächst das Feld als ein benutzerdefini
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-23.png)
 
-1. Geben Sie &quot;Aufgabe&quot;in das Feld Schnellsuche ein.
+1. Geben Sie „Aufgabe“ in das Feld „Schnellsuche“ ein.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-24.png)
 
-1. Klicken Sie auf die Bezeichnung **Aufgabe** .
+1. Klicken Sie auf die **Aufgabe** Bezeichnung.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-25.png)
 
@@ -143,11 +143,11 @@ Um diese Felder zu nutzen, müssen Sie zunächst das Feld als ein benutzerdefini
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-26.png)
 
-1. Klicken Sie auf das Aufgabenseitenlayout, dem Sie dieses Feld hinzufügen möchten.
+1. Klicken Sie auf das Aufgabenseiten-Layout, dem Sie dieses Feld hinzufügen möchten.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-27.png)
 
-1. Ziehen Sie das Feld in den gewünschten Bereich des Aufgabenseitenlayouts.
+1. Ziehen Sie das Feld per Drag-and-Drop in den gewünschten Bereich des Aufgabenseiten-Layouts.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-28.png)
 
@@ -157,4 +157,4 @@ Um diese Felder zu nutzen, müssen Sie zunächst das Feld als ein benutzerdefini
 
 >[!MORELIKETHIS]
 >
->[Install Sales Connect Event Fields on Activity History](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/install-sales-connect-event-fields-on-activity-history.md)
+>[Installieren von Sales Connect-Ereignisfeldern im Aktivitätsverlauf](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/install-sales-connect-event-fields-on-activity-history.md)

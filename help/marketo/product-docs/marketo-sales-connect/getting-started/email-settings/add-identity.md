@@ -13,28 +13,28 @@ ht-degree: 2%
 
 # Identität hinzufügen {#add-identity}
 
-Fügen Sie eine Identität hinzu, wenn Sie über mehrere E-Mail-Adressen verfügen, von denen Sie eine Nachricht senden können.
+Fügen Sie eine Identität hinzu, wenn Sie mehrere E-Mail-Adressen haben, von denen aus gesendet werden soll.
 
 >[!NOTE]
 >
->Die Verwendung mehrerer Identitäten wird bei Gmail- oder Outlook/Exchange-Versandkanälen nicht unterstützt. Gmail und Outlook/Exchange authentifizieren sich auf Benutzerebene, sodass nur E-Mails von der verbundenen E-Mail-Adresse gesendet werden. Um mehrere Identitäten mit unterschiedlichen E-Mail-Adressen zu verwenden, müssen Sie einen Drittanbieter für SMTP (E-Mail-Versandkanal) verbinden, über den Sie E-Mail-Domains registrieren können, von denen aus Sie Nachrichten senden können. Auf diese Weise können Benutzer eine Verbindung zum SMTP-Versandkanal herstellen und von jeder beliebigen E-Mail-Adresse aus senden, sofern sie eine registrierte Domäne sind.
+>Die Verwendung mehrerer Identitäten wird bei Gmail- oder Outlook/Exchange-Versandkanälen nicht unterstützt. Gmail und Outlook/Exchange authentifizieren sich auf Benutzerebene, sodass nur E-Mails von der verbundenen E-Mail-Adresse gesendet werden. Um mehrere Identitäten mit unterschiedlichen E-Mail-Adressen zu verwenden, müssen Sie einen SMTP-Drittanbieter (E-Mail-Versandkanal) verbinden, über den Sie E-Mail-Domains registrieren können, von denen aus gesendet werden soll. Auf diese Weise können Benutzer eine Verbindung zum SMTP-Versandkanal herstellen und von jeder E-Mail-Adresse aus senden, solange sie eine registrierte Domain sind.
 
 1. Klicken Sie auf das Symbol Einstellungen .
 
 1. Klicken Sie auf **E-Mail-Einstellungen**.
 
-1. Klicken Sie auf **Identität hinzufügen**.
+1. Klicken Sie **Identität hinzufügen**.
 
-1. Geben Sie Ihre Informationen ein (E-Mail und Name sind erforderliche Felder) und klicken Sie danach auf **Erstellen** .
+1. Geben Sie Ihre Informationen ein (E-Mail-Adresse und Name sind Pflichtfelder) und klicken Sie **Erstellen** wenn Sie fertig sind.
 
 1. Klicken Sie auf den Link in der Bestätigungs-E-Mail, die Sie erhalten.
 
-   Wenn Sie eine E-Mail in Sales Connect senden, können Sie zwischen Identitäten umschalten.
+   Wenn Sie eine E-Mail in Sales Connect senden, können Sie zwischen Identitäten wechseln.
 
 >[!NOTE]
 >
->Es gibt keine Beschränkung für die Anzahl der E-Mail-Identitäten, die Sie einrichten können.
+>Es gibt keine Begrenzung dafür, wie viele E-Mail-Identitäten Sie einrichten können.
 
 >[!MORELIKETHIS]
 >
->[Fügen Sie Ihre E-Mail-Signatur hinzu](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/add-your-email-signature.md).
+>[E-Mail-Signatur hinzufügen](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/add-your-email-signature.md).

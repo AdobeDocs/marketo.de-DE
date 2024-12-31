@@ -1,7 +1,7 @@
 ---
 unique-page-id: 14746186
 description: Anpassen der Abmelde-Link-Nachricht - Marketo-Dokumente - Produktdokumentation
-title: Nachricht zum Abmelden von Links anpassen
+title: Abmelde-Link-Nachricht anpassen
 exl-id: 565754ce-644c-4ba7-bb67-cd0b4dc0f7e1
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,21 +11,21 @@ ht-degree: 0%
 
 ---
 
-# Nachricht zum Abmelden von Links anpassen {#customize-unsubscribe-link-message}
+# Abmelde-Link-Nachricht anpassen {#customize-unsubscribe-link-message}
 
-Wir haben es Teams immer ermöglicht, ihre Abmelde-Link-Nachrichten anzupassen, aber jetzt können Administratoren die Abmelde-Link-Nachrichten für ihr gesamtes Team festlegen, um eine konsistente Messaging-Verwaltung zu gewährleisten.
+Wir haben Teams immer erlaubt, ihre Abmelde-Link-Nachrichten anzupassen, aber Administratoren können jetzt die Abmelde-Link-Nachrichten für ihr gesamtes Team festlegen, um ein konsistentes Messaging zu gewährleisten.
 
 >[!NOTE]
 >
->Sie können keinen Abmelde-Link eines Drittanbieters mit Sales Connect verwenden, da diese Informationen nicht wieder in unsere Datenbank aufgenommen werden.
+>Sie können keinen Abmelde-Link eines Drittanbieters mit Sales Connect verwenden, da diese Informationen nicht in unserer Datenbank erfasst werden.
 
-## Anpassen von Nachrichten für Sie {#customize-messaging-for-yourself}
+## Anpassen von Nachrichten für sich selbst {#customize-messaging-for-yourself}
 
-1. Melden Sie sich bei der [Webanwendung](https://toutapp.com/login) an, klicken Sie auf das Zahnradsymbol oben rechts und wählen Sie **Einstellungen**.
+1. Melden Sie sich bei der [Web-Anwendung](https://toutapp.com/login) an, klicken Sie oben rechts auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
 
    ![](assets/one.png)
 
-1. Wählen Sie unter Mein Konto die Option **Abonnements kündigen** aus.
+1. Wählen Sie unter Mein Konto die Option **Abmeldungen** aus.
 
    ![](assets/two-1.png)
 
@@ -33,32 +33,32 @@ Wir haben es Teams immer ermöglicht, ihre Abmelde-Link-Nachrichten anzupassen, 
 
    ![](assets/three-1.png)
 
-1. Markieren Sie den Text, auf den Benutzer klicken sollen, um zu Ihrer Abmeldeseite zu gelangen, und klicken Sie dann auf das Link-Symbol.
+1. Markieren Sie den Text, auf den die Benutzer klicken sollen, um zur Abmeldeseite zu gelangen, und klicken Sie dann auf das Link-Symbol.
 
    ![](assets/four-1.png)
 
    >[!NOTE]
    >
-   >Es spielt keine Rolle, welche URL verlinkt wird. Wenn die E-Mail gesendet wird, wird dieser Hyperlink in unseren Abmelde-Link konvertiert.
+   >Es spielt keine Rolle, welche URL der Hyperlink ist. Wenn die E-Mail gesendet wird, wird dieser Hyperlink in unseren Abmelde-Link konvertiert.
 
 1. Klicken Sie auf **OK**.
 
    ![](assets/five.png)
 
-## Abmelde-Nachrichten für Ihr Team festlegen {#set-unsubscribe-messaging-for-your-team}
+## Festlegen von Abmelde-Nachrichten für Ihr Team {#set-unsubscribe-messaging-for-your-team}
 
-1. Melden Sie sich bei der [Webanwendung](https://toutapp.com/login) an, klicken Sie auf das Zahnradsymbol oben rechts und wählen Sie **Einstellungen**.
+1. Melden Sie sich bei der [Web-Anwendung](https://toutapp.com/login) an, klicken Sie oben rechts auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
 
    ![](assets/six.png)
 
-1. Wählen Sie unter &quot;Admin Settings&quot;die Option **Unsubscribes**.
+1. Wählen Sie unter „Admin-Einstellungen“ **Abmeldungen** aus.
 
    ![](assets/eight.png)
 
-1. Passen Sie Ihre Nachricht an und klicken Sie danach auf **Speichern** .
+1. Passen Sie Ihre Nachrichten an und klicken Sie **auf &quot;**&quot;.
 
    ![](assets/seven.png)
 
-1. Wählen Sie **Ich setze die Standardnachricht für mein Team** aus, damit die Nachricht für alle Benutzer gilt.
+1. Wählen Sie **Ich stelle die Standardnachricht für mein Team ein**, damit die Nachricht für alle Benutzer gilt.
 
    ![](assets/eleven.png)

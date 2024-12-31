@@ -6,7 +6,7 @@ feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '189'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
@@ -20,23 +20,23 @@ Das Hinzufügen von Benutzern oder Administratoren ist schnell und einfach!
 
    ![](assets/invite-users-and-admins-1.png)
 
-1. Wählen Sie unter &quot;Admin Settings&quot;die Option **User Management**.
+1. Wählen Sie unter „Admin-Einstellungen **die Option „Benutzerverwaltung** aus.
 
    ![](assets/invite-users-and-admins-2.png)
 
-1. Klicken Sie auf die Schaltfläche **Aktionen** und wählen Sie **Benutzer einladen** aus.
+1. Klicken Sie auf **Aktionen** und wählen Sie **Benutzer einladen**.
 
    ![](assets/invite-users-and-admins-3.png)
 
    >[!NOTE]
    >
-   >Sie können auch **Benutzer über CSV einladen** auswählen, wenn alle Benutzer in einer Tabelle aufgeführt sind.
+   >Sie können auch **Benutzer per CSV einladen** auswählen, wenn Sie alle in einer Tabelle aufgeführt haben.
 
-1. Geben Sie die E-Mail-Adressen der Personen an, die Sie hinzufügen möchten.
+1. Geben Sie die E-Mail-Adressen der Kontakte ein, die Sie hinzufügen möchten.
 
    ![](assets/invite-users-and-admins-4.png)
 
-1. OPTIONALER SCHRITT: Fügen Sie die Benutzer zu allen Teams hinzu, denen sie angehören sollten. Wenn Sie diesen Teil überspringen, werden alle neuen Mitglieder zum Team &quot;Alle&quot;hinzugefügt.
+1. OPTIONALER SCHRITT: Fügen Sie den/die Benutzer zu jedem Team hinzu, dem/denen sie angehören sollen. Wenn Sie diesen Teil überspringen, werden alle neuen Mitglieder zum Team Alle hinzugefügt.
 
    ![](assets/invite-users-and-admins-5.png)
 
@@ -44,7 +44,7 @@ Das Hinzufügen von Benutzern oder Administratoren ist schnell und einfach!
    >
    >[Weitere Informationen zu Teams](/help/marketo/product-docs/marketo-sales-insight/actions/admin/creating-a-team.md).
 
-1. Wählen Sie den Marketo-Arbeitsbereich aus, dem Sie die neuen Benutzer hinzufügen möchten. Wenn Sie nur einen Arbeitsbereich haben, sehen Sie als Option &quot;Standard&quot;. Klicken Sie auf **Einladen**.
+1. Wählen Sie den Marketo-Arbeitsbereich aus, dem Sie neue(n) Benutzende(n) hinzufügen möchten. Wenn Sie nur über einen einzigen Arbeitsbereich verfügen, sehen Sie „Standard“ als Option. Klicken Sie auf **Einladen**.
 
    ![](assets/invite-users-and-admins-6.png)
 
@@ -52,24 +52,24 @@ Das Hinzufügen von Benutzern oder Administratoren ist schnell und einfach!
 
    ![](assets/invite-users-and-admins-7.png)
 
-## Benutzer zu einem Administrator machen {#make-a-user-an-admin}
+## Benutzer zum Administrator machen {#make-a-user-an-admin}
 
 >[!NOTE]
 >
->**Erforderliche Administratorberechtigungen**
+>**Administratorberechtigungen erforderlich**
 
-Führen Sie diese Schritte aus, um einen vorhandenen Benutzer als Administrator festzulegen.
+Führen Sie diese Schritte aus, um einen vorhandenen Benutzer zum Administrator zu machen.
 
 1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
 
    ![](assets/invite-users-and-admins-8.png)
 
-1. Wählen Sie unter &quot;Admin Settings&quot;die Option **User Management**.
+1. Wählen Sie unter „Admin-Einstellungen **die Option „Benutzerverwaltung** aus.
 
    ![](assets/invite-users-and-admins-9.png)
 
-1. Suchen Sie den Benutzer, den Sie als Administrator einrichten möchten, klicken Sie auf das Dropdown-Menü Rolle und wählen Sie **Admin** aus.
+1. Suchen Sie den Benutzer, den Sie als Administrator festlegen möchten, klicken Sie auf die Dropdown-Liste „Rolle“ und wählen Sie &quot;**&quot;**.
 
    ![](assets/invite-users-and-admins-10.png)
 
-So einfach!
+So einfach ist das!

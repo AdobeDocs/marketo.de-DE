@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352639
-description: Erstellen einer neuen Vorlage - Marketo Docs - Produktdokumentation
+description: Erstellen einer neuen Vorlage - Marketo-Dokumente - Produktdokumentation
 title: Erstellen einer neuen Vorlage
 exl-id: 9f597aa6-587d-4b23-a6ab-958f17caeecb
 feature: Marketo Sales Connect
@@ -15,12 +15,12 @@ ht-degree: 0%
 
 1. Navigieren Sie zur Registerkarte **Vorlagen** und klicken Sie auf **Vorlage erstellen**.
 
-1. Wählen Sie eine **Kategorie** und **Name** für Ihre E-Mail-Vorlage aus und klicken Sie dann auf **Erstellen** .
+1. Wählen Sie **E** Mail-Vorlage „Kategorie“ und **Name** aus und klicken Sie dann auf **Erstellen**.
 
-1. Erstellen Sie im Vorlageneditor eine Betreffzeile für Ihre E-Mail und geben Sie die gewünschte Nachricht ein. Verwenden Sie die Bearbeitungswerkzeuge (Schriftart, Textgröße usw.) , um das Erscheinungsbild anzupassen.
+1. Erstellen Sie im Vorlageneditor eine Betreffzeile für Ihre E-Mail und geben Sie die gewünschte Nachricht ein. Verwenden Sie die Bearbeitungswerkzeuge (Schriftart, Textgröße usw.), um das Erscheinungsbild anzupassen.
 
-1. Klicken Sie auf **Speichern** , um die Änderungen abzuschließen.
+1. Klicken Sie **Speichern**, um Ihre Änderungen abzuschließen.
 
 >[!TIP]
 >
->Geben Sie Text immer direkt in die Vorlage ein oder kopieren Sie ihn aus einem Texteditor (z. B. Notepad oder TextEdit). Das Kopieren und Einfügen aus einem Rich-Text-Editor (d. h. MS Word) kann zu Formatierungsfehlern führen.
+>Geben Sie Text immer direkt in die Vorlage ein oder kopieren Sie ihn aus einem Texteditor (z. B. Editor oder TextEdit). Das Kopieren und Einfügen aus einem Rich-Text-Editor (d. h. MS Word) kann zu Formatierungsunregelmäßigkeiten führen.

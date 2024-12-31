@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2359587
-description: Champion/Challenger - Ein E-Mail-Test verwerfen - Marketo Docs - Produktdokumentation
-title: Champion/Challenger - Verwerfen eines E-Mail-Tests
+description: Champion/Challenger - E-Mail-Test verwerfen - Marketo-Dokumente - Produktdokumentation
+title: Champion/Challenger - E-Mail-Test verwerfen
 exl-id: 2a7571dc-4d97-4b6c-92c9-d4fd0b8b4153
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,24 +11,24 @@ ht-degree: 0%
 
 ---
 
-# Champion/Challenger: Verwerfen Sie einen E-Mail-Test {#champion-challenger-discard-an-email-test}
+# Champion/Challenger: E-Mail-Test verwerfen {#champion-challenger-discard-an-email-test}
 
-Wenn Sie sich jederzeit dazu entscheiden, Ihren E-Mail-Test nicht weiter durchzuführen, können Sie ihn verwerfen. So geht es.
+Wenn Sie zu irgendeinem Zeitpunkt entscheiden, dass Sie den E-Mail-Test nicht fortsetzen möchten, können Sie ihn verwerfen. So geht&#39;s.
 
 >[!PREREQUISITES]
 >
 >[Champion/Challenger: Genehmigen Sie Ihren E-Mail-Test](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
 
-1. Wechseln Sie zu **Marketingaktivitäten**.
+1. Navigieren Sie **Marketing-Aktivitäten**.
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Klicken Sie mit der rechten Maustaste auf Ihren E-Mail-Test und klicken Sie dann auf **Verwerfen-Test**.
+1. Suchen Sie Ihren E-Mail-Test, klicken Sie mit der rechten Maustaste darauf und klicken Sie dann auf **Test verwerfen**.
 
    ![](assets/champion5.jpg)
 
-1. Klicken Sie zur Bestätigung auf **Löschen** .
+1. Klicken Sie **Löschen** zur Bestätigung.
 
    ![](assets/image2014-9-15-14-3a17-3a11.png)
 
-   Du bist fertig! Wenn Sie sich jemals entscheiden, einen Test erneut einzurichten, gehen Sie zu und fügen Sie [einen E-Mail-Champion/Herausforderer](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md) hinzu.
+   Du bist fertig! Wenn Sie sich jemals entscheiden, einen Test erneut einzurichten, fahren Sie fort und [fügen Sie einen E-Mail-Champion/Challenger hinzu](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md).

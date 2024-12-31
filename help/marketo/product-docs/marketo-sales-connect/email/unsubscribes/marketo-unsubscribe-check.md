@@ -13,19 +13,19 @@ ht-degree: 3%
 
 # Überprüfung von Marketo abbestellen {#marketo-unsubscribe-check}
 
-Die Prüfung der Marketo-Abmeldung nutzt die Verbindung Ihres Teams zu Marketo, um zu verhindern, dass E-Mails an Personen gesendet werden, die sich vom Marketo Lead Management System abgemeldet haben. Wenn ein Vertriebsbenutzer eine E-Mail mit Sales Connect sendet, wird ein API-Aufruf an Marketo gesendet, um zu überprüfen, ob die E-Mail-ID abgemeldet wird. Ist dies der Fall, blockieren wir den Versand der E-Mail.
+Die Marketo-Abmeldeprüfung verwendet die Verbindung Ihres Teams zu Marketo, um zu verhindern, dass E-Mails an Personen gesendet werden, die sich im Lead-Management-System von Marketo abgemeldet haben. Wenn ein Verkaufsbenutzer eine E-Mail mit Sales Connect sendet, wird ein API-Aufruf an Marketo durchgeführt, um zu überprüfen, ob die E-Mail-ID abgemeldet wurde. Wenn dies der Fall ist, blockieren wir den Versand der E-Mail.
 
 >[!NOTE]
 >
->**Erforderliche Administratorberechtigungen**
+>**Administratorberechtigungen erforderlich**
 
 ## Einschalten {#turning-it-on}
 
-1. Klicken Sie in der Webanwendung auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
+1. Klicken Sie in der Web-Anwendung auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
 
    ![](assets/one-2.png)
 
-1. Klicken Sie unter &quot;Admin Settings&quot;auf **Unsubscribes**.
+1. Klicken Sie unter „Admin Settings“ auf **Unsubscribes**.
 
    ![](assets/two-3.png)
 
@@ -33,16 +33,16 @@ Die Prüfung der Marketo-Abmeldung nutzt die Verbindung Ihres Teams zu Marketo, 
 
    ![](assets/three-3.png)
 
-1. Klicken Sie im Bereich Prüfung der Marketo-Abmeldung auf den Regler, um die Prüfung zu aktivieren.
+1. Klicken Sie im Abschnitt Marketo-Abmeldeprüfung auf den Schieberegler, um die Prüfung zu aktivieren.
 
    ![](assets/four-2.png)
 
-## Was zu wissen ist {#things-to-know}
+## Was man wissen muss {#things-to-know}
 
-Prüfung der Marketo-Abmeldung ...
+Die Marketo-Abmelde-Prüfung…
 
-* Zählt nicht mit Ihren API-Beschränkungen
-* Erfordert die Einrichtung einer Marketo-Verbindung
+* Zählt nicht auf die API-Limits
+* Erfordert den Aufbau einer Marketo-Verbindung
 * Ist eine globale Einstellung
-* Blockierungen von E-Mails, die von der Webanwendung, E-Mail-Clients und Salesforce gesendet werden
-* protokolliert eine fehlgeschlagene E-Mail oder verhindert, dass ein Benutzer sendet, wenn er versucht, alle Workflows (E-Mail-Plug-in-Versand, individueller Versand, Versand einer Verkaufskampagne, Mehrfachauswahl und Versand) zu senden, mit Ausnahme von [Gruppen-E-Mails](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md), in denen wir verhindern, dass die E-Mails still gesendet werden
+* Blockiert E-Mails, die von der Webanwendung, von E-Mail-Clients und von Salesforce gesendet werden
+* Protokolliert eine fehlgeschlagene E-Mail oder verhindert, dass ein Benutzer sendet, wenn er versucht, für alle Workflows zu senden (E-Mail-Plug-in senden, einzelner Versand, Verkaufskampagne senden, Mehrfachauswahl und Senden), mit Ausnahme von [Gruppen-E-Mails](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md), in denen wir verhindern, dass die E-Mails im Hintergrund gesendet werden

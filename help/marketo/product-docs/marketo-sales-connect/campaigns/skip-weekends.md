@@ -7,19 +7,19 @@ feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '69'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
 # Wochenenden überspringen {#skip-weekends}
 
-Bei der Automatisierung einer Kampagne möchten Sie wahrscheinlich nicht, dass Ihre E-Mails an einem Samstag oder Sonntag gesendet werden. Wenn nicht, können Sie die Wochenenden überspringen.
+Beim Automatisieren einer Kampagne möchten Sie wahrscheinlich nicht, dass Ihre E-Mails an einem Samstag oder Sonntag gesendet werden. Andernfalls können Sie das Wochenende überspringen.
 
-1. Klicken Sie in Sales Connect auf die Registerkarte **Kampagnen** .
+1. Klicken Sie in Sales Connect auf die Registerkarte **Kampagnen**.
 
    ![](assets/one-2.png)
 
-1. Suchen und wählen Sie Ihre Kampagne aus.
+1. Suchen Sie Ihre Kampagne und wählen Sie sie aus.
 
    ![](assets/two-2.png)
 
@@ -27,10 +27,10 @@ Bei der Automatisierung einer Kampagne möchten Sie wahrscheinlich nicht, dass I
 
    ![](assets/three-2.png)
 
-1. Aktivieren Sie das Kontrollkästchen **Wochenenden überspringen** .
+1. Aktivieren Sie das **Wochenenden überspringen**.
 
    ![](assets/four-2.png)
 
    >[!NOTE]
    >
-   >Ohne Wochenenden überspringen zu müssen, werden Ihre E-Mails nach einer regulären 7-Tage-Woche geplant.
+   >Ohne Wochenenden überspringen werden Ihre E-Mails auf der Grundlage einer regulären 7-Tage-Woche geplant.

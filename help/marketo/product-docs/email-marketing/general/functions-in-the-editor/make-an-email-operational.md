@@ -1,7 +1,7 @@
 ---
 unique-page-id: 1147354
-description: E-Mail-Betrieb - Marketo-Dokumente - Produktdokumentation
-title: E-Mail-Betrieb
+description: Funktionsweise einer E-Mail festlegen - Marketo-Dokumente - Produktdokumentation
+title: E-Mail funktionsfähig machen
 exl-id: e36c6a7b-2c50-4d9f-9e6d-0828ab3af5a8
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,13 +11,13 @@ ht-degree: 0%
 
 ---
 
-# E-Mail-Betrieb {#make-an-email-operational}
+# E-Mail funktionsfähig machen {#make-an-email-operational}
 
-Operative E-Mails ignorieren den Status Abgemeldet und Ausgesetzt des Marketings . Sie schicken, egal was.
+Operative E-Mails ignorieren den Status Abgemeldet und Marketing ausgesetzt . Sie senden, egal was kommt.
 
 >[!NOTE]
 >
->Für operative E-Mails gelten keine Kommunikationsbeschränkungen.
+>Operative E-Mails unterliegen keinen Kommunikationsbeschränkungen.
 
 1. Suchen Sie Ihre E-Mail, wählen Sie sie aus und klicken Sie auf **Entwurf bearbeiten**.
 
@@ -25,18 +25,18 @@ Operative E-Mails ignorieren den Status Abgemeldet und Ausgesetzt des Marketings
 
 >[!NOTE]
 >
->Sie sollten nur operative E-Mails für wichtige E-Mails und Benutzer mit automatischer Reaktion verwenden. Sie sind nicht für Marketing-E-Mails vorgesehen.
+>Sie sollten nur operative E-Mails für kritische E-Mails und automatische Antworten verwenden. Sie sind nicht für Marketing-E-Mails vorgesehen.
 
-1. Nachdem der Editor geöffnet wurde, klicken Sie auf **E-Mail-Einstellungen**.
+1. Klicken Sie nach dem Öffnen des Editors auf **E-Mail-Einstellungen**.
 
    ![](assets/two-1.png)
 
-1. Aktivieren Sie **Operative E-Mail** und klicken Sie auf **Speichern**.
+1. Markieren Sie **Operative E-Mail** und klicken Sie auf **Speichern**.
 
    ![](assets/three.png)
 
 >[!CAUTION]
 >
->Operative E-Mails wurden nicht für Interaktionsmaßnahmen entwickelt. Daher ignoriert ein Interaktionsprogramm den Betriebsstatus einer E-Mail. Bitte bedenken Sie das bei der Zusammenarbeit mit ihnen.
+>Operative E-Mails wurden nicht für Interaktionsprogramme entwickelt. Daher ignoriert ein Interaktionsprogramm den Betriebsstatus einer E-Mail. Bitte denken Sie daran, wenn Sie mit ihnen arbeiten.
 
-Vergessen Sie nicht, diese E-Mail zu validieren, damit die Änderungen wirksam werden. Erfahren Sie, wie Sie [eine E-Mail genehmigen](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md).
+Vergessen Sie nicht, diese E-Mail zu genehmigen, damit die Änderungen wirksam werden. Erfahren Sie, wie Sie [E-Mail genehmigen](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md).

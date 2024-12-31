@@ -1,6 +1,6 @@
 ---
-description: Senden von E-Mails per Gruppenemail - Marketo-Dokumente - Produktdokumentation
-title: Senden von E-Mails per Gruppenemail
+description: Senden von E-Mails über Gruppen-E-Mails - Marketo-Dokumente - Produktdokumentation
+title: E-Mails über Gruppen-E-Mails senden
 exl-id: 0099c0ee-dff2-4d7d-91cd-7d619405bac5
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -10,13 +10,13 @@ ht-degree: 0%
 
 ---
 
-# Senden von E-Mails per Gruppenemail {#sending-emails-via-group-email}
+# E-Mails über Gruppen-E-Mails senden {#sending-emails-via-group-email}
 
-Im Folgenden erfahren Sie, wie Sie E-Mails mit der Option E-Mail gruppieren senden/bearbeiten.
+So senden/bearbeiten Sie E-Mails mit der Option Gruppen-E-Mail .
 
-## Senden einer Gruppenemail {#sending-a-group-email}
+## Senden einer Gruppen-E-Mail {#sending-a-group-email}
 
-1. Klicken Sie auf die Registerkarte **Personen**.
+1. Klicken Sie auf die **Personen**.
 
    ![](assets/sending-emails-via-group-email-1.png)
 
@@ -24,7 +24,7 @@ Im Folgenden erfahren Sie, wie Sie E-Mails mit der Option E-Mail gruppieren send
 
    ![](assets/sending-emails-via-group-email-2.png)
 
-1. Klicken Sie auf die Schaltfläche Gruppenaktionen und wählen Sie **E-Mail-Gruppe** aus.
+1. Klicken Sie auf die Schaltfläche Gruppenaktionen und wählen Sie **E-Mail-Gruppe**.
 
    ![](assets/sending-emails-via-group-email-3.png)
 
@@ -32,27 +32,27 @@ Im Folgenden erfahren Sie, wie Sie E-Mails mit der Option E-Mail gruppieren send
 
    ![](assets/sending-emails-via-group-email-4.png)
 
-## Bearbeiten einer Gruppen-E-Mail {#editing-a-group-email}
+## E-Mail-Gruppe bearbeiten {#editing-a-group-email}
 
-1. Erstellen Sie eine Gruppen-E-Mail mit den Schritten 1 bis 3 oben ](#sending-a-group-email).[
+1. Erstellen Sie eine Gruppen-E-Mail mit [Schritten 1-3 oben](#sending-a-group-email).
 
-1. [Wählen Sie eine Vorlage aus](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md) oder füllen Sie Ihre E-Mail aus.
+1. [Vorlage auswählen](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md) oder E-Mail ausfüllen.
 
    ![](assets/sending-emails-via-group-email-5.png)
 
-1. Nach Abschluss der E-Mail können Sie nun für jede E-Mail in der Liste eine Vorschau anzeigen, um festzustellen, ob die dynamischen Felder korrekt ausgefüllt sind.
+1. Sobald die E-Mail abgeschlossen ist, können Sie jetzt jede E-Mail in der Liste in der Vorschau anzeigen, um festzustellen, ob die dynamischen Felder korrekt ausgefüllt werden.
 
    ![](assets/sending-emails-via-group-email-6.png)
 
-1. Wählen Sie den gewünschten Empfänger aus und klicken Sie auf **Vorschau dynamischer Felder anzeigen**. Zeigen Sie die Vorschau auf der rechten Seite an.
+1. Wählen Sie den gewünschten Empfänger aus und klicken Sie auf **Vorschau der dynamischen Felder**. Zeigen Sie die Vorschau rechts an.
 
    ![](assets/sending-emails-via-group-email-7.png)
 
    >[!NOTE]
    >
-   >Sie können die E-Mail/Vorlage beim Versand einer Gruppen-E-Mail in großen Mengen bearbeiten, für bestimmte Empfänger in der Liste jedoch keine eindeutigen Änderungen vornehmen.
+   >Sie können beim Versenden einer Gruppen-E-Mail Massenbearbeitungen an der E-Mail/Vorlage vornehmen, aber Sie können keine eindeutigen Änderungen für bestimmte Empfängerinnen und Empfänger in der Liste vornehmen.
 
 >[!MORELIKETHIS]
 >
->* [Optionen für die Massenübermittlung](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/bulk-emailing-options.md)
->* [Verwenden einer Vorlage im Fenster &quot;Erstellen&quot;](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
+>* [Massenversand-Optionen](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/bulk-emailing-options.md)
+>* [Verwenden einer Vorlage im Fenster „Erstellen“](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)

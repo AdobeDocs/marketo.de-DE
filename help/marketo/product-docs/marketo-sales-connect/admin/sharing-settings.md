@@ -13,25 +13,25 @@ ht-degree: 1%
 
 # Weitergabe-Einstellungen {#sharing-settings}
 
-Optimieren Sie die Verwaltung Ihrer Vorlagen, indem Sie einschränken, welche Benutzer für welche Kategorien freigegeben werden können.
+Verwalten Sie Ihre Vorlagen besser, indem Sie einschränken, was Benutzende mit welchen Kategorien teilen können.
 
 ![](assets/main.png)
 
-Wenn Ihr Sales Connect-Konto zum ersten Mal erstellt wird, sind die Freigabeeinstellungen aktiviert. Dadurch erhalten Ihre Kontoadministratoren die Möglichkeit, Ihre Vorlagenkategorien zu erstellen und zu organisieren, bevor die Startpunkte geöffnet werden, und Benutzern die Möglichkeit zu geben, Inhalte in Ihren Teamkategorien zu teilen.
+Bei der ersten Erstellung Ihres Sales Connect-Kontos sind die Freigabeeinstellungen aktiviert. Dadurch haben Ihre Kontoadministratoren die Möglichkeit, Ihre Vorlagenkategorien zu erstellen und zu organisieren, bevor sie die Schleusentore öffnen, und Benutzern die Freigabe von Inhalten in Ihren Team-Kategorien zu ermöglichen.
 
-Wenn Freigabeeinstellungen aktiviert sind, können nur Administratoren in Kategorien freigegeben werden, es sei denn, einem Team oder allen Benutzern werden Freigabeberechtigungen gewährt. Wenn die Freigabeeinstellungen deaktiviert sind, gibt es keine Einschränkungen und alle Benutzer können in beliebige Vorlagenkategorien freigeben.
+Wenn die Freigabeeinstellungen aktiviert sind, können nur Administratoren Inhalte in Kategorien freigeben, es sei denn, die Freigabeberechtigungen werden einem Team oder allen Benutzern erteilt. Wenn die Freigabeeinstellungen deaktiviert sind, gibt es keine Einschränkungen und alle Benutzenden können Inhalte für beliebige Vorlagenkategorien freigeben.
 
-## Konfigurieren Ihrer Freigabeeinstellungen {#configure-your-sharing-settings}
+## Konfigurieren der Freigabeeinstellungen {#configure-your-sharing-settings}
 
-1. Wechseln Sie in der [Webanwendung](https://toutapp.com/login) zur Seite &quot;Einstellungen&quot;.
+1. Navigieren Sie in [Web-](https://toutapp.com/login)) zur Seite Einstellungen .
 
    ![](assets/one-2.png)
 
-1. Wählen Sie unter &quot;Admin Settings&quot;die Option **Sharing Access**.
+1. Wählen Sie unter „Admin-Einstellungen **die Option „Zugriff freigeben**.
 
    ![](assets/two-2.png)
 
-1. Stellen Sie sicher, dass **Freigabeeinstellungen** aktiviert sind. Dies bedeutet, dass standardmäßig nur Administratoren Vorlagen in Ihren Vorlagenkategorien freigeben können.
+1. Stellen Sie sicher **dass „Freigabeeinstellungen** aktiviert sind. Das bedeutet, dass standardmäßig nur Administratoren Vorlagen in Ihren Vorlagenkategorien freigeben können.
 
    ![](assets/three-2.png)
 
@@ -39,7 +39,7 @@ Wenn Freigabeeinstellungen aktiviert sind, können nur Administratoren in Katego
 
    ![](assets/four-2.png)
 
-1. Klicken Sie auf **Teams für Zugriff hinzufügen**.
+1. Klicken Sie **Teams für Zugriff hinzufügen**.
 
    ![](assets/five-2.png)
 
@@ -51,10 +51,10 @@ Wenn Freigabeeinstellungen aktiviert sind, können nur Administratoren in Katego
    >
    >Wenn Sie keine Teams sehen, müssen Sie zu Team Management gehen und ein Team von Benutzern erstellen.
 
-1. Klicken Sie zum Speichern auf **Teams für Zugriff hinzufügen** .
+1. Klicken Sie **Teams für Zugriff hinzufügen** um zu speichern.
 
    ![](assets/seven-1.png)
 
-1. Nachdem Ihr Team hinzugefügt wurde, können Sie festlegen, dass nur Teamadministratoren oder alle Benutzer dieses Teams freigeben dürfen. In diesem Beispiel haben wir allen Benutzern der SDR-Team-Freigabe Zugriff gewährt.
+1. Nachdem Ihr Team hinzugefügt wurde, können Sie festlegen, dass nur Team-Administratoren bzw. -Administratorinnen für alle Benutzenden in diesem Team freigeben dürfen. In diesem Beispiel haben wir allen Benutzenden des SDR-Teams gemeinsamen Zugriff gewährt.
 
    ![](assets/eight-1.png)

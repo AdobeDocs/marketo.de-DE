@@ -1,7 +1,7 @@
 ---
 unique-page-id: 37356590
 description: Hinzufügen von Highspot-Inhalten zu Ihrer E-Mail - Marketo-Dokumente - Produktdokumentation
-title: Hinzufügen von Highspot-Inhalten zu Ihrer E-Mail
+title: Hinzufügen von Highspot-Inhalten zu einer E-Mail
 exl-id: a069d29a-46b6-4347-b474-df17b7595436
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,11 +11,11 @@ ht-degree: 0%
 
 ---
 
-# Hinzufügen von Highspot-Inhalten zu Ihrer E-Mail {#adding-highspot-content-to-your-email}
+# Hinzufügen von Highspot-Inhalten zu einer E-Mail {#adding-highspot-content-to-your-email}
 
-Als Highspot-Kunde können Sie in Ihre Sales Connect-E-Mails einfach Highspot-Inhalte einfügen.
+Wenn Sie Highspot-Kunde sind, können Sie ganz einfach Highspot-Inhalte in Ihre Sales Connect-E-Mails einfügen.
 
-1. Erstellen Sie Ihren E-Mail-Entwurf (dazu gibt es mehrere Möglichkeiten, in diesem Beispiel wählen wir **Erstellen** in der Kopfzeile).
+1. Erstellen Sie Ihren E-Mail-Entwurf (es gibt mehrere Möglichkeiten, dies zu tun, in diesem Beispiel wählen wir **Erstellen** in der Kopfzeile).
 
    ![](assets/one-5.png)
 
@@ -23,7 +23,7 @@ Als Highspot-Kunde können Sie in Ihre Sales Connect-E-Mails einfach Highspot-In
 
    ![](assets/two-5.png)
 
-1. Klicken Sie auf die Stelle in der E-Mail, an der der Inhalt des Hervorhebens eingefügt werden soll. Klicken Sie auf das Dropdown-Menü mit dem Pfeil (neben dem Anlagensymbol) und wählen Sie **Highspot** aus.
+1. Klicken Sie auf die Stelle in der E-Mail, an der der Highspot-Inhalt eingefügt werden soll. Klicken Sie auf den Pfeil der Dropdown-Liste (neben dem Anlagensymbol) und wählen Sie **Highspot**.
 
    ![](assets/three-5.png)
 
@@ -31,13 +31,13 @@ Als Highspot-Kunde können Sie in Ihre Sales Connect-E-Mails einfach Highspot-In
 
    ![](assets/four-5.png)
 
-1. Wählen Sie den gewünschten Inhalt aus und klicken Sie auf die Schaltfläche **Inhalt hinzufügen** .
+1. Wählen Sie den gewünschten Inhalt aus und klicken Sie auf die Schaltfläche **Inhalt hinzufügen**.
 
    ![](assets/five-3.png)
 
    >[!NOTE]
    >
-   >Wenn der gewünschte Inhalt nicht angezeigt wird, verwenden Sie die Suchleiste oben.
+   >Wenn der Inhalt, den Sie auflisten möchten, nicht angezeigt wird, verwenden Sie die Suchleiste oben.
 
    ![](assets/six.png)
 

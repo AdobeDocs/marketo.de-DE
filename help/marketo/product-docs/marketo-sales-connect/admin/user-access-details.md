@@ -1,7 +1,7 @@
 ---
 unique-page-id: 14352623
-description: Benutzerzugriffsdetails - Marketo-Dokumente - Produktdokumentation
-title: Benutzerzugriffsdetails
+description: Details zum Benutzerzugriff - Marketo-Dokumente - Produktdokumentation
+title: Details zum Benutzerzugriff
 exl-id: 6a61176c-acbd-4684-983f-1c5af0ca6187
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,11 +11,11 @@ ht-degree: 0%
 
 ---
 
-# Benutzerzugriffsdetails {#user-access-details}
+# Details zum Benutzerzugriff {#user-access-details}
 
-Auf was können Administratoren und Benutzer ohne Administratorrechte zugreifen?
+Auf was haben Administratoren und Nicht-Administratoren Zugriff?
 
-## Administratorbenutzerberechtigungen {#admin-user-permissions}
+## Administratorbenutzer-Berechtigungen {#admin-user-permissions}
 
 Administratoren können [alle Vorlagen anzeigen](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md).
 
@@ -29,11 +29,11 @@ Administratoren können alle E-Mail-Aktivitäten anzeigen.
 
 ![](assets/user-access-details-3.png)
 
-Administratoren können alle Personen einer laufenden Kampagne sehen.
+Administratoren können alle Personen in einer laufenden Kampagne anzeigen.
 
 ![](assets/running.jpg)
 
-Auf alle Personendatensätze kann in der Gruppe Alle zugegriffen werden.
+In der Gruppe Alle Personen können Sie auf alle Personendatensätze zugreifen.
 
 ![](assets/viewed.jpg)
 
@@ -43,30 +43,30 @@ Administratoren können Kampagnen im Namen von Benutzern stoppen.
 
 * Analytics:
 
-   * Benutzer können Teamanalysen anzeigen
-   * Benutzer können einen Drilldown in nur die Teams durchführen, denen sie angehören
-   * Benutzer können ihre eigenen Analysen anzeigen
+   * Benutzer können Team Analytics anzeigen
+   * Benutzer können einen Drill-in nur für die Teams durchführen, zu denen sie gehören
+   * Benutzer können ihre eigenen Analysen betrachten
 
-* Seite &quot;Beziehungen&quot;:
+* Seite Beziehungen:
 
-   * Benutzer können Gruppen für alle freigeben
-   * Benutzer können Gruppen nur für Teams freigeben, denen sie angehören
-   * Wenn ein Benutzer gelöscht wird, übertragen seine freigegebenen Kontakte das Eigentum an den Master-Administrator, der den Benutzer gelöscht hat
+   * Benutzende können Gruppen für alle freigeben
+   * Benutzende können Gruppen nur für die Teams freigeben, zu denen sie gehören
+   * Wenn ein Benutzer gelöscht wird, übertragen seine freigegebenen Kontakte das Eigentum an den primären Administrator, der den Benutzer gelöscht hat
 
-* Sales Beat - Next und Live Feed:
+* Sales Beat - Nächster und Live-Feed:
 
-   * Benutzer können die Ansicht &quot;Alle&quot;anzeigen
+   * Benutzer können die Ansicht „Alle“ anzeigen
    * Benutzer können nach den Teams filtern, zu denen sie gehören
    * Benutzer können Beiträge für alle freigeben
-   * Benutzer können Beiträge nur für Teams freigeben, zu denen sie gehören
+   * Benutzer können Beiträge nur für das/die Team(s) freigeben, dem/denen sie angehören
 
-* Seite &quot;Teamverwaltung&quot;:
+* Team Management-Seite:
 
-   * Ansicht nicht möglich
+   * Nicht anzeigen
 
 * Vorlagenseite:
 
    * Benutzer können Vorlagen für alle freigeben
-   * Benutzer können Vorlagen in Kategorien freigeben, die ihnen Administratoren ermöglichen
-   * Wenn ein Benutzer aus einem Team entfernt wird, wird die Freigabe seiner Vorlagen für dieses Team aufgehoben
-   * Wenn ein Benutzer aus einem Team gelöscht wird, übertragen seine Vorlagen das Eigentum an den Master-Administrator, der den Benutzer gelöscht hat
+   * Benutzende können Vorlagen in Kategorien freigeben, die ihre Admins ihnen erlauben
+   * Wenn ein(e) Benutzende(r) aus einem Team entfernt wird, wird die Freigabe seiner Vorlagen für dieses Team aufgehoben
+   * Wenn ein(e) Benutzende(r) aus einem Team gelöscht wird, überträgt seine/ihre Vorlage das Eigentum an den Master-Administrator/in, der/die den/die Benutzende gelöscht hat

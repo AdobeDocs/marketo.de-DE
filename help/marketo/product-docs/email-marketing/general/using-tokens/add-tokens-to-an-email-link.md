@@ -13,9 +13,9 @@ ht-degree: 2%
 
 # Hinzufügen von Token zu einem E-Mail-Link {#add-tokens-to-an-email-link}
 
-Um zusätzliche und personenspezifische Parameter in Ihre Links einzufügen, können Sie Token verwenden. So geht es.
+Um zusätzliche und personenspezifische Parameter in Ihre Links einzufügen, können Sie Token verwenden. So geht&#39;s.
 
-1. Wählen Sie Ihre E-Mail aus und klicken Sie auf die Registerkarte **Entwurf bearbeiten** .
+1. Wählen Sie Ihre E-Mail aus und klicken Sie auf **Registerkarte** Entwurf bearbeiten“.
 
    ![](assets/one.png)
 
@@ -23,11 +23,11 @@ Um zusätzliche und personenspezifische Parameter in Ihre Links einzufügen, kö
 
    ![](assets/two.png)
 
-1. Suchen oder schreiben Sie den Text für den Link. Markieren Sie sie und klicken Sie auf das Symbol **Link einfügen/bearbeiten** .
+1. Suchen Sie den Text für den Link oder schreiben Sie ihn. Markieren Sie sie und klicken Sie auf das Symbol **Link einfügen/bearbeiten** .
 
    ![](assets/three.png)
 
-1. Geben Sie die gewünschten Token in **URL** ein und klicken Sie auf **Einfügen**.
+1. Geben Sie die gewünschten Token in „URL **ein** klicken Sie auf **Einfügen**.
 
    ![](assets/four.png)
 
@@ -35,7 +35,7 @@ Um zusätzliche und personenspezifische Parameter in Ihre Links einzufügen, kö
 
    ![](assets/five.png)
 
-   Und das ist es!
+   Und das war&#39;s!
 
 >[!MORELIKETHIS]
 >

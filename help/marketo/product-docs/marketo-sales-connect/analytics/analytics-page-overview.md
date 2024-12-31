@@ -13,38 +13,38 @@ ht-degree: 0%
 
 # Analytics-Seitenübersicht {#analytics-page-overview}
 
-Auf der Registerkarte Analytics werden Daten zur Interaktion Ihrer E-Mails angezeigt. Sowohl individuelle als auch Teamdaten werden angezeigt. Administratoren können auch auf der Registerkarte &quot;Me&quot;nach dem Benutzer filtern.
+Auf der Registerkarte Analytics sehen Sie Daten zur Interaktion Ihrer E-Mails. Es werden sowohl Einzel- als auch Team-Daten angezeigt. Administratoren können auch auf der Registerkarte Allgemein nach Benutzenden filtern.
 
 ## Wie oft wird es aktualisiert? {#how-often-does-it-update}
 
-Die Analyseseite wird alle zehn Minuten aktualisiert.
+Die Analytics-Seite wird alle zehn Minuten aktualisiert.
 
 ## Was bedeuten die Zahlen? {#what-do-the-numbers-mean}
 
-Die im Radial erfassten Zahlen berechnen die Gesamtzahl der Ereignisse aller gesendeten E-Mails. Wenn also eine E-Mail fünf Mal angezeigt wird, werden fünf Ansichten zu dieser Zahl hinzugefügt. Dieselbe Idee wird auf die innerhalb des Kreises gezählten Klicks und Antworten angewendet.
+Die Zahlen innerhalb der Radialen berechnen die Gesamtzahl der Ereignisse bei allen gesendeten E-Mails. Wenn also eine einzelne E-Mail fünfmal angezeigt wird, werden dieser Zahl fünf Ansichten hinzugefügt. Die gleiche Idee wird auf die Klicks und Antworten angewendet, die innerhalb des Kreises gezählt werden.
 
-Sämtliche Statistiken, die in der Tabelle gespeichert sind, werden berechnet, indem Sie sich die individuellen Ansichten, Klicks und Antworten Ihrer E-Mails ansehen. Wenn eine E-Mail fünfmal angezeigt wird, wird dies als eine Ansicht gezählt. Deshalb können Sie einen großen Unterschied zwischen den Zahlen in den Tabellen und den Zahlen im Radial sehen.
+Alle in der Tabelle gespeicherten Statistiken werden anhand der einzigartigen Ansichten, Klicks und Antworten auf E-Mails berechnet. Wenn eine E-Mail fünfmal angezeigt wird, wird dies als eine Ansicht gezählt. Deshalb kann es sein, dass Sie einen großen Unterschied in den Zahlen in den Tabellen sehen im Vergleich zu den Zahlen in den radialen Zahlen.
 
-## Analytische Registerkarten {#analytic-tabs}
+## Analytics-Registerkarten {#analytic-tabs}
 
-Wir teilen Ihre Statistiken in drei separate Registerkarten auf: &quot;Ich&quot;, &quot;Team&quot;und &quot;Inhalt&quot;. Sie können jede einzelne verwenden, um eine andere Perspektive zu den von uns bereitgestellten Einblicken zu erhalten.
+Wir unterteilen Ihre Statistiken in drei separate Registerkarten: „Ich“, „Team“ und „Inhalte“. Sie können jeden einzelnen verwenden, um eine andere Perspektive auf die von uns bereitgestellten Einblicke zu erhalten.
 
-Wenn Sie von Registerkarte zu Tab auf der Analytics-Seite gehen, können Sie Ihre Statistiken sortieren, indem Sie auf die Ansicht, das Klick- oder das Antwortsymbol klicken.
+Wenn Sie auf der Analytics-Seite von einer Registerkarte zur anderen wechseln, können Sie Ihre Statistiken sortieren, indem Sie auf die Symbole „Ansicht“, „Klicken“ oder „Antwort“ klicken.
 
-Auf den Registerkarten Me und Team finden Sie Informationen zu geschlossenen Angeboten. Diese Zahl wird von der Anzahl der Male kontrolliert, die die Leute in Ihrer Mannschaft am Gong vorbeiziehen.
+Auf den Registerkarten „Ich“ und „Team“ finden Sie Informationen zu abgeschlossenen Angeboten. Diese Zahl hängt davon ab, wie oft Personen in Ihrem Team den Gong anrufen.
 
-## Registerkarte &quot;Me&quot; {#me-tab}
+## Registerkarte „Ich“ {#me-tab}
 
-Auf dem Tab Me können Sie die Interaktion Ihrer E-Mails, Vorlagen und Links überprüfen. Wenn Sie Administrator in Sales Connect sind, können Sie nach einem beliebigen Benutzer in Ihrem Team filtern, um dessen Status anzuzeigen.
+Auf der Registerkarte Me können Sie die Interaktion Ihrer E-Mails, Vorlagen und Links überprüfen. Wenn Sie ein Administrator in Sales Connect sind, können Sie nach beliebigen Benutzern in Ihrem Team filtern, um deren Statistiken anzuzeigen.
 
-## Registerkarte &quot;Team&quot; {#team-tab}
+## Registerkarte „Team“ {#team-tab}
 
-Hier können Sie Statistiken und Rankings Ihres gesamten Teams sehen. Sie können auch nach von Ihnen erstellten Untergruppen filtern.
+Hier können Sie Statistiken und Rankings Ihres gesamten Teams sehen. Sie können auch nach allen von Ihnen erstellten Unterteams filtern.
 
-## Registerkarte &quot;Inhalt&quot; {#content-tab}
+## Registerkarte „Inhalt“ {#content-tab}
 
-Der Tab Inhalt enthält Statistiken zu Vorlagen, Inhalten und Links. Sie können entweder nach jedem oder nach Teams filtern, die Ihre Administratoren erstellt haben.
+Die Registerkarte „Inhalt“ enthält Statistiken zu Vorlagen, Inhalten und Links. Sie können entweder nach allen Personen oder nach Teams filtern, die von Ihren Admins erstellt wurden.
 
-Wenn unter der Betreffspalte blauer Text angezeigt wird, bedeutet dies, dass die Vorlage freigegeben ist. Sie können auf den blauen Text klicken, um zu dieser Vorlage zu gelangen. Zeigen Sie die Verwendung an, indem Sie auf **Vorlagenanalyse** klicken.
+Wenn blauer Text unter der Betreffspalte angezeigt wird, bedeutet dies, dass die Vorlage freigegeben wird. Sie können auf den blauen Text klicken, um zu dieser Vorlage zu gelangen. Zeigen Sie die Verwendung durch Klicken auf **Vorlagenanalyse** an.
 
-&quot;Inhaltsklicks&quot;werden gezählt, wenn ein Empfänger auf einen Link in Ihrer E-Mail klickt.
+„Klicks auf Inhalt“ werden gezählt, wenn ein Empfänger auf einen Link in Ihrer E-Mail klickt.

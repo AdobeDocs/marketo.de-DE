@@ -1,21 +1,21 @@
 ---
 unique-page-id: 14352468
-description: Importieren von Kontakten über CSV - Marketo-Dokumente - Produktdokumentation
-title: Importieren von Kontakten über CSV
+description: Kontakte über CSV importieren - Marketo-Dokumente - Produktdokumentation
+title: Kontakte über CSV importieren
 exl-id: e1a15e9f-7978-4112-b38d-ab78a4300a5a
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '121'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Importieren von Kontakten über CSV {#import-contacts-via-csv}
+# Kontakte über CSV importieren {#import-contacts-via-csv}
 
-Auf der Seite &quot;Personen&quot;Kontakte zu haben ist wichtig, da wir von dort aus personalisierte Informationen in den dynamischen Feldern Ihrer Vorlagen automatisch ausfüllen können. Vergewissern Sie sich, dass Sie mindestens einen Namen und eine E-Mail-Adresse für jeden Kontakt in Ihrer CSV-Datei haben und dass Sie diesen Feldern zuordnen.
+Kontakte auf der Personen -Seite zu haben, ist wichtig, da hier die personalisierten Informationen in den dynamischen Feldern Ihrer Vorlagen automatisch ausgefüllt werden. Stellen Sie sicher, dass Sie mindestens einen Namen und eine E-Mail-Adresse für jeden Kontakt in Ihrer CSV-Datei haben und dass Sie diese Felder zuordnen.
 
-1. Wählen Sie im Tab Personen Ihre Gruppe aus (oder erstellen Sie eine neue).
+1. Wählen Sie Ihre Gruppe (oder erstellen Sie eine neue) auf der Registerkarte Personen .
 
    ![](assets/one.png)
 
@@ -23,7 +23,7 @@ Auf der Seite &quot;Personen&quot;Kontakte zu haben ist wichtig, da wir von dort
 
    ![](assets/two.png)
 
-1. Klicken Sie auf **Durchsuchen**.
+1. Klicken Sie **Durchsuchen**.
 
    ![](assets/three.png)
 
@@ -37,6 +37,6 @@ Auf der Seite &quot;Personen&quot;Kontakte zu haben ist wichtig, da wir von dort
 
    ![](assets/four.png)
 
-1. Ordnen Sie die Spalten in Ihrer CSV-Datei ihren jeweiligen Feldern in Sales Connect zu. Klicken Sie abschließend auf **Weiter** .
+1. Ordnen Sie die Spalten in Ihrer CSV den entsprechenden Feldern in Sales Connect zu. Klicken Sie abschließend **Weiter**.
 
    ![](assets/five.png)

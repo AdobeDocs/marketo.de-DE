@@ -15,11 +15,11 @@ ht-degree: 0%
 
 ## Freigeben einer Vorlage {#how-to-share-a-template}
 
-Wenn Sie eines unserer Team-Konten verwenden, sind alle Ihre Vorlagen standardmäßig noch privat. Klicken Sie oben in Ihrer Vorlage auf die grüne Schaltfläche **Freigabe** , um sie für den Rest Ihres Teams freizugeben.
+Wenn Sie eines unserer Team-Konten verwenden, sind alle Ihre Vorlagen standardmäßig weiterhin privat. Klicken Sie auf **grüne Schaltfläche** Freigeben“ oben in Ihrer Vorlage, um sie für den Rest Ihres Teams freizugeben.
 
-## Ermitteln freigegebener Vorlagen  {#how-to-find-shared-templates}
+## So finden Sie freigegebene Vorlagen  {#how-to-find-shared-templates}
 
-Vorlagen, die für Sie freigegeben wurden, werden auf der linken Seite der Seite &quot;Vorlagen&quot;unter der Kopfzeile **Team-Vorlagen** angezeigt.
+Vorlagen, die für Sie freigegeben wurden, werden unter der **Team-Vorlagen** auf der linken Seite der Seite Vorlagen angezeigt.
 
 >[!NOTE]
 >

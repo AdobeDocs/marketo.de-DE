@@ -1,6 +1,6 @@
 ---
-description: Doc - Marketo Docs - Produktdokumentation
-title: Doc
+description: Dokument - Marketo-Dokumente - Produktdokumentation
+title: doc
 hide: true
 hidefromtoc: true
 exl-id: 58a5a837-77c6-44e1-9556-98dd682044b0
@@ -12,4 +12,4 @@ ht-degree: 0%
 
 ---
 
-# Doc {#doc}
+# doc {#doc}

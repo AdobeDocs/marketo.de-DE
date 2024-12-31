@@ -12,28 +12,28 @@ ht-degree: 0%
 
 # Gewähren von Zugriff für Benutzer {#granting-access-to-users}
 
-Führen Sie die Schritte in diesem Artikel aus, um Ihren Sales Connect-Benutzern Zugriff auf die Marketo-Verbindung zu gewähren. Dadurch werden Funktionen wie interessante Momente im Live-Feed und der Zugriff auf Marketing-Kampagnen freigeschaltet.
+Gehen Sie wie in diesem Artikel beschrieben vor, um Ihren Sales Connect-Benutzern Zugriff auf die Marketo-Verbindung zu gewähren. Dadurch werden Funktionen wie „Interessante Momente“ im Live-Feed und der Zugriff auf Marketing-Kampagnen freigeschaltet.
 
-Sie müssen Benutzer zu Sales Connect [hier](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md) einladen, bevor sie auf der Seite Marketo > Teamzugriff (in Sales Connect) angezeigt werden, über die Zugriff auf die Marketo-Verbindung gewährt wird.
+Sie müssen Benutzer zu Sales Connect einladen ([), ](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md) sie auf der Seite &quot;Marketo&quot; > „Team-Zugriff“ (in Sales Connect) angezeigt werden, wo der Zugriff auf die Marketo-Verbindung gewährt wird.
 
 >[!CAUTION]
 >
->Warten Sie zehn Minuten, nachdem Sie die Verbindung von Sales Connect mit Marketo hergestellt haben, bevor Sie diese Schritte ausführen.
+>Bitte warten Sie 10 Minuten, nachdem Sie Sales Connect mit Marketo verbunden haben, bevor Sie diese Schritte ausführen.
 
 1. Wählen Sie einen oder mehrere Benutzer aus und klicken Sie dann auf **Verbinden**.
 
    >[!NOTE]
    >
-   >Sie können die Arbeitsbereichszuweisung nur einmal ausführen, wenn Sie Benutzern Zugriff gewähren. Nach der Einstellung müssen Sie den Benutzer trennen, um ihn zu ändern.
+   >Sie können die Arbeitsbereichszuweisung nur einmal zum Zeitpunkt der Gewährung des Zugriffs für Benutzer durchführen. Nachdem er festgelegt wurde, müssen Sie den Benutzer trennen, um ihn zu ändern.
 
    ![](assets/granting-access-to-users-1.png)
 
-1. Wenn für Ihr Marketo-Abonnement Arbeitsbereiche aktiviert sind, können Sie jedem Benutzer oder Benutzergruppen Arbeitsbereiche zuweisen. Wenn keine Arbeitsbereiche ausgewählt sind, werden sie dem standardmäßigen Marketo-Arbeitsbereich zugewiesen.
+1. Wenn für Ihr Marketo-Abonnement Arbeitsbereiche aktiviert sind, können Sie jedem Benutzer bzw. jeder Benutzergruppe Arbeitsbereiche zuweisen. Wenn keine Arbeitsbereiche ausgewählt sind, weisen wir sie dem standardmäßigen Marketo-Arbeitsbereich zu.
 
    ![](assets/granting-access-to-users-2.jpg)
 
-1. Klicken Sie auf das Dropdown-Menü &quot;Workspace&quot;, wählen Sie die gewünschten Arbeitsbereiche aus und klicken Sie auf **Verbinden**.
+1. Klicken Sie auf die Dropdown-Liste Workspace , wählen Sie die gewünschten Arbeitsbereiche aus und klicken Sie auf **Verbinden**.
 
    ![](assets/granting-access-to-users-3.png)
 
-Sie können weitere Benutzer über die Seite &quot;Team Management&quot;hinzufügen und die oben beschriebenen Schritte ausführen, um eine Verbindung herzustellen.
+Sie können zusätzliche Benutzer über die Seite „Team-Verwaltung“ hinzufügen und die oben beschriebenen Schritte ausführen, um sie miteinander zu verbinden.

@@ -13,33 +13,33 @@ ht-degree: 0%
 
 # Zuweisen von Aufgaben zu Team-Mitgliedern {#assigning-tasks-to-team-members}
 
-Wenn Sie mit anderen Team-Mitgliedern zusammenarbeiten möchten, kann die Zuweisung von Aufgaben eine hervorragende Möglichkeit sein, Ihre Interessensbekundungsbemühungen zu koordinieren.
+Wenn Sie mit anderen Team-Mitgliedern zusammenarbeiten möchten, kann die Zuweisung von Aufgaben eine gute Möglichkeit sein, Ihre Interessentenaktivitäten zu koordinieren.
 
 >[!NOTE]
 >
->Sie können nur Aufgaben für freigegebene Kontakte zuweisen.
+>Sie können Aufgaben nur freigegebenen Kontakten zuweisen.
 
-1. Klicken Sie auf das **Befehlszentrum**.
+1. Klicken Sie auf **Command Center**.
 
    ![](assets/one-1.png)
 
-1. Klicken Sie auf **Aufgabe hinzufügen**.
+1. Klicken Sie **Aufgabe hinzufügen**.
 
    ![](assets/two-1.png)
 
-1. Wählen Sie den Aufgabentyp aus.
+1. Wählen Sie den Aufgabentyp.
 
    ![](assets/three-1.png)
 
-1. Geben Sie Ihrer Aufgabe einen Namen.
+1. Benennen Sie Ihre Aufgabe.
 
    ![](assets/four-1.png)
 
-1. Wählen Sie im Feld Aufgabe zuweisen die Person in Ihrem Team aus, der Sie die Aufgabe zuweisen möchten.
+1. Wählen Sie die Person in Ihrem Team, der Sie die Aufgabe zuweisen möchten, im Feld Aufgabe zuweisen aus.
 
    ![](assets/five.png)
 
-1. Fügen Sie die Person, mit der Sie in Kontakt treten möchten, in das Personenfeld ein.
+1. Fügen Sie im Feld Person die Person hinzu, mit der Sie Kontakt aufnehmen möchten.
 
    ![](assets/six.png)
 
@@ -47,10 +47,10 @@ Wenn Sie mit anderen Team-Mitgliedern zusammenarbeiten möchten, kann die Zuweis
 
    ![](assets/seven.png)
 
-1. Festlegen der Priorität.
+1. Priorität festlegen.
 
    ![](assets/eight.png)
 
-1. Fügen Sie wichtige Details hinzu, die für Ihr Team relevant sind (optional), und klicken Sie auf **Erstellen**.
+1. Fügen Sie alle wichtigen Details hinzu, die für Ihren Teamkollegen relevant sind (optional), und klicken Sie auf **Erstellen**.
 
    ![](assets/nine.png)

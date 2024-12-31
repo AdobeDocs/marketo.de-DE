@@ -7,7 +7,7 @@ feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '60'
-ht-degree: 6%
+ht-degree: 10%
 
 ---
 
@@ -19,21 +19,21 @@ Das Hinzufügen von Benutzern ist schnell und einfach!
 
    ![](assets/one.png)
 
-1. Wählen Sie unter &quot;Admin Settings&quot;die Option **User Management**.
+1. Wählen Sie unter „Admin-Einstellungen **die Option „Benutzerverwaltung** aus.
 
    ![](assets/invite-team-members-2.png)
 
-1. Klicken Sie auf **Benutzer einladen**.
+1. Klicken Sie **Benutzer einladen**.
 
    ![](assets/invite-team-members-3.png)
 
-1. Geben Sie die E-Mail-Adressen der Personen ein, die Sie hinzufügen möchten, und klicken Sie auf **Weiter**.
+1. Geben Sie die E-Mail-Adressen der Kontakte ein, die Sie hinzufügen möchten, und klicken Sie auf **Weiter**.
 
    ![](assets/four.png)
 
    >[!NOTE]
    >
-   >Standardmäßig werden alle neuen Mitglieder zum Team Alle hinzugefügt.
+   >Standardmäßig werden alle neuen Mitglieder dem Team Alle hinzugefügt.
 
 1. Klicken Sie auf **OK**.
 

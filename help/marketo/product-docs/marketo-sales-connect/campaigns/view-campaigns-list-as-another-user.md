@@ -13,24 +13,24 @@ ht-degree: 0%
 
 # Anzeigen der Kampagnenliste als anderer Benutzer {#view-campaigns-list-as-another-user}
 
-Als Administrator können Sie Kampagnen wie beliebige Benutzer anzeigen.
+Als Administrator können Sie Kampagnen als beliebige Benutzende anzeigen.
 
 >[!NOTE]
 >
->**Erforderliche Administratorberechtigungen**
+>**Administratorberechtigungen erforderlich**
 
-1. Klicken Sie in der Webanwendung auf **Kampagnen**.
+1. Klicken Sie in der Web-Anwendung auf **Kampagnen**.
 
    ![](assets/one-5.png)
 
-1. Klicken Sie auf die Dropdownliste **Anzeigen als** und wählen Sie den gewünschten Benutzer aus.
+1. Klicken Sie auf **Anzeigen als** und wählen Sie den gewünschten Benutzer aus.
 
    ![](assets/two-4.png)
 
-1. Sie sehen jetzt Kampagnen als ausgewählten Benutzer.
+1. Sie zeigen jetzt Kampagnen als ausgewählten Benutzer an.
 
    ![](assets/three-4.png)
 
    >[!NOTE]
    >
-   >Sie können auch Filter oder die Suchfunktion zusammen mit View As verwenden, um anzuzeigen, was für Sie am relevantesten ist.
+   >Sie können auch Filter oder die Suchfunktion zusammen mit „Anzeigen nach“ verwenden, um anzuzeigen, was für Sie am relevantesten ist.

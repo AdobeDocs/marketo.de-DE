@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352403
-description: Zusätzliche Administratoren - Marketo-Dokumente - Produktdokumentation
+description: Zusätzliche Admins - Marketo-Dokumente - Produktdokumentation
 title: Zusätzliche Administratoren
 exl-id: 57c0024b-6b36-4b1c-bcee-b1dbb9fdb57d
 feature: Marketo Sales Connect
@@ -13,5 +13,5 @@ ht-degree: 0%
 
 # Zusätzliche Administratoren {#additional-admins}
 
-Um ein Team-Mitglied zu ändern oder zu entfernen, gehen Sie zur Seite Einstellungen und klicken Sie im linken Navigationsbereich auf **Team-Management** .
-Als Administrator eines Kontos können Sie hier verwalten, wer sich in Ihrem Team befindet.
+Um ein Teammitglied zu ändern oder zu entfernen, gehen Sie zur Seite Einstellungen und klicken Sie **linken Navigationsbereich auf**Team-Verwaltung“.
+Als Administrator eines Kontos können Sie hier festlegen, wer zu Ihrem Team gehört.

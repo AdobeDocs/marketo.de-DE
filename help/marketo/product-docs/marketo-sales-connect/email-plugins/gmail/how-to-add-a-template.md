@@ -19,6 +19,6 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Sie können auch nach Ihren bevorzugten Vorlagen suchen.
+   >Sie können auch nach Ihren Lieblingsvorlagen suchen.
 
-1. Ziehen Sie eine Vorlage in den Arbeitsbereich und passen Sie sie vor dem Versand an.
+1. Nehmen Sie eine Vorlage und passen Sie sie vor dem Versenden an.

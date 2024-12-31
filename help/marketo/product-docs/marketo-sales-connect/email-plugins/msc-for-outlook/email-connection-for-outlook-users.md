@@ -19,9 +19,9 @@ Erfahren Sie, wie Sie Ihr Sales Connect-Konto mit Outlook verbinden.
 >
 >Jeder Benutzer muss über sein Sales Connect-Konto eine Verbindung zu Outlook herstellen.
 
-## Mit Outlook Online verbinden {#connecting-to-outlook-online}
+## Herstellen einer Verbindung zu Outlook Online {#connecting-to-outlook-online}
 
-Die Verbindung mit Outlook bedeutet, dass Sie Antwort-Tracking, Zugriff auf den Kanal Outlook-Versand, die Möglichkeit, E-Mails in Outlook zu planen und die Einhaltung von Vorschriften zu senden, erhalten.
+Wenn Sie eine Verbindung zu Outlook herstellen, erhalten Sie ein Tracking der Antworten, Zugriff auf den Outlook-Versandkanal, die Möglichkeit, E-Mails in Outlook zu planen und die Einhaltung der Vorschriften zu senden.
 
 1. Klicken Sie in Sales Connect auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
 
@@ -31,11 +31,11 @@ Die Verbindung mit Outlook bedeutet, dass Sie Antwort-Tracking, Zugriff auf den 
 
    ![](assets/two.png)
 
-1. Klicken Sie auf den Tab **E-Mail-Verbindung** .
+1. Klicken Sie auf die Registerkarte **E-Mail** Verbindung .
 
    ![](assets/three.png)
 
-1. Klicken Sie auf **Erste Schritte**.
+1. Klicken Sie **Erste Schritte**.
 
    ![](assets/four.png)
 
@@ -43,7 +43,7 @@ Die Verbindung mit Outlook bedeutet, dass Sie Antwort-Tracking, Zugriff auf den 
 
    ![](assets/five-a.png)
 
-1. Wählen Sie die Version von Outlook aus, die Sie verwenden, und klicken Sie auf **Weiter**. In diesem Beispiel wählen wir Outlook Online.
+1. Wählen Sie die verwendete Outlook-Version aus und klicken Sie auf **Weiter**. In diesem Beispiel wählen wir Outlook Online.
 
    ![](assets/six-a.png)
 
@@ -54,8 +54,8 @@ Die Verbindung mit Outlook bedeutet, dass Sie Antwort-Tracking, Zugriff auf den 
       <td>Auch als Exchange Online bekannt</td> 
      </tr>
      <tr>
-      <td><strong>On-Premise-Exchange</strong></td> 
-      <td>Enthält Exchange 2013 und 2016</td> 
+      <td><strong>Exchange On-Premise</strong></td> 
+      <td>Umfasst Exchange 2013 und 2016</td> 
      </tr>
     </tbody>
    </table>
@@ -68,23 +68,23 @@ Die Verbindung mit Outlook bedeutet, dass Sie Antwort-Tracking, Zugriff auf den 
 
    ![](assets/seven-a.png)
 
-1. Wenn Sie nicht bei Outlook angemeldet sind, geben Sie Ihre Anmeldeinformationen ein und klicken Sie auf **Weiter**. Wenn Sie dies tun, wählen Sie das Konto aus, mit dem Sie eine Verbindung herstellen möchten, und klicken Sie auf **Weiter**. In diesem Beispiel sind wir bereits angemeldet.
+1. Wenn Sie nicht bei Outlook angemeldet sind, geben Sie Ihre Anmeldeinformationen ein und klicken Sie auf **Weiter**. Wählen Sie ggf. das Konto aus, mit dem Sie eine Verbindung herstellen möchten, und klicken Sie auf **Weiter**. In diesem Beispiel sind wir bereits angemeldet.
 
    ![](assets/eight-a.png)
 
-1. Klicken Sie auf **Accept**.
+1. Klicken Sie **Akzeptieren**.
 
    ![](assets/nine-a.png)
 
-   Sie können diese Verbindung verwenden, um E-Mails und Sendungen zu verfolgen.
+   Sie können diese Verbindung verwenden, um E-Mails zu verfolgen und auch als Versandkanal.
 
    >[!NOTE]
    >
-   >Outlook Online (Office365) erzwingt eigene Versandbeschränkungen. [Weitere Informationen finden Sie hier](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits).
+   >Outlook Online (Office365) erzwingt seine eigenen Versandbeschränkungen. [Weitere Informationen finden Sie hier](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits).
 
-## Verbindung zu Exchange On-Premise herstellen {#connecting-to-exchange-on-premise}
+## Herstellen einer Verbindung zu Exchange On-Premise {#connecting-to-exchange-on-premise}
 
-Eine Verbindung zu Exchange On-Premise bedeutet, dass Sie Antwort-Tracking, Zugriff auf den Kanal Outlook-Versand, die Möglichkeit zur Planung von E-Mails in Outlook und die Einhaltung von Richtlinien erhalten.
+Die Verbindung zu Exchange On-Premise bedeutet, dass Sie die Antwort verfolgen, auf den Outlook-Versandkanal zugreifen, E-Mails in Outlook planen und die Compliance sicherstellen können.
 
 1. Klicken Sie in Sales Connect auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
 
@@ -94,11 +94,11 @@ Eine Verbindung zu Exchange On-Premise bedeutet, dass Sie Antwort-Tracking, Zugr
 
    ![](assets/two.png)
 
-1. Klicken Sie auf den Tab **E-Mail-Verbindung** .
+1. Klicken Sie auf die Registerkarte **E-Mail** Verbindung .
 
    ![](assets/three.png)
 
-1. Klicken Sie auf **Erste Schritte**.
+1. Klicken Sie **Erste Schritte**.
 
    ![](assets/four.png)
 
@@ -106,7 +106,7 @@ Eine Verbindung zu Exchange On-Premise bedeutet, dass Sie Antwort-Tracking, Zugr
 
    ![](assets/five-a.png)
 
-1. Wählen Sie die Version von Outlook aus, die Sie verwenden, und klicken Sie auf **Weiter**. In diesem Beispiel wählen wir Exchange On-Premise.
+1. Wählen Sie die verwendete Outlook-Version aus und klicken Sie auf **Weiter**. In diesem Beispiel wählen wir Exchange On-Premise.
 
    ![](assets/six-b.png)
 
@@ -117,8 +117,8 @@ Eine Verbindung zu Exchange On-Premise bedeutet, dass Sie Antwort-Tracking, Zugr
       <td>Auch als Exchange Online bekannt</td> 
      </tr>
      <tr>
-      <td><strong>On-Premise-Exchange</strong></td> 
-      <td>Enthält Exchange 2013 und 2016</td> 
+      <td><strong>Exchange On-Premise</strong></td> 
+      <td>Umfasst Exchange 2013 und 2016</td> 
      </tr>
     </tbody>
    </table>
@@ -129,10 +129,10 @@ Eine Verbindung zu Exchange On-Premise bedeutet, dass Sie Antwort-Tracking, Zugr
 
    >[!NOTE]
    >
-   >Wenn Sie Autodiscover in der Dropdown-Liste Exchange Version deaktivieren, müssen Sie Ihre IT-Abteilung nach der Exchange-URL fragen.
+   >Wenn Sie die automatische Erkennung in der Dropdown-Liste Exchange-Version deaktivieren, müssen Sie die IT-Abteilung nach der Exchange-URL fragen.
 
-   Sie können diese Verbindung verwenden, um E-Mails und Sendungen zu verfolgen.
+   Sie können diese Verbindung verwenden, um E-Mails zu verfolgen und auch als Versandkanal.
 
    >[!NOTE]
    >
-   >Bei Verwendung von Exchange On-Premise legt Ihr IT-Team Ihre E-Mail-Versandgrenze fest.
+   >Wenn Sie Exchange On-Premise verwenden, legt Ihr IT-Team Ihr E-Mail-Versandlimit fest.

@@ -1,6 +1,6 @@
 ---
-description: Konfigurieren der Anpassung der Salesforce-Aktivitätsdetails - Marketo-Dokumente - Produktdokumentation
-title: Konfigurieren der Anpassung der Salesforce-Aktivitätsdetails
+description: Konfigurieren der Anpassung von Salesforce-Aktivitätsdetails - Marketo-Dokumente - Produktdokumentation
+title: Konfigurieren der Anpassung von Salesforce-Aktivitätsdetails
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
 feature: Marketo Sales Connect
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
@@ -10,19 +10,19 @@ ht-degree: 1%
 
 ---
 
-# Konfigurieren der Anpassung der Salesforce-Aktivitätsdetails {#configure-salesforce-activity-detail-customization}
+# Konfigurieren der Anpassung von Salesforce-Aktivitätsdetails {#configure-salesforce-activity-detail-customization}
 
 >[!PREREQUISITES]
 >
->* Salesforce und Marketo Sales Connect [ müssen verbunden sein](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
->* Die Protokollierung der E-Mail-Aktivität über die API [muss aktiviert sein](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
+>* Salesforce und Marketo Sales Connect [müssen verbunden sein](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
+>* E-Mail-Aktivität über API protokollieren [muss aktiviert sein](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
 
-Die Anpassung der Aktivitätsdetails ermöglicht es Administratoren, die Informationen zu konfigurieren, die beim Feld &quot;Salesforce-Aufgabe - Betreff&quot;protokolliert werden, wenn eine Aktivität/Erinnerungsaufgabe vom Typ &quot;Sales Connect&quot;mit Salesforce synchronisiert wird.
+Activity Detail Customization ermöglicht es Administratoren, die Informationen zu konfigurieren, die beim Salesforce Task - Subject -Feld protokolliert werden, wenn eine Sales Connect-Aktivität/Erinnerungsaufgabe mit Salesforce synchronisiert wird.
 
 >[!NOTE]
 >
->* Aktualisierungen am Betrefffeld in Sales Connect einer Erinnerungsaufgabe werden im Betrefffeld der entsprechenden Salesforce-Aufgabe angezeigt, wenn Sie das dynamische Feld `{{activity_subject}}` in Ihrer Aktivitätsdetailanpassung verwenden.
->* Zeilenumbrüche werden bei der Protokollierung von Informationen in das Salesforce-Betrefffeld nicht unterstützt. Zeilenumbrüche im Editor zur Anpassung von Aktivitätsdetails werden entfernt, wenn ein Betreff einer Verkaufsaufgabe aktualisiert wird.
+>* Aktualisierungen, die am Betrefffeld in Sales Connect für eine Erinnerungsaufgabe vorgenommen wurden, werden im Betrefffeld der entsprechenden Salesforce-Aufgabe angezeigt, wenn Sie das dynamische Feld &quot;`{{activity_subject}}`&quot; in Ihrer Anpassung der Aktivitätsdetails verwenden.
+>* Zeilenumbrüche werden beim Protokollieren von Informationen im Salesforce-Betrefffeld nicht unterstützt. Alle Zeilenumbrüche im Editor zur Anpassung von Aktivitätsdetails werden entfernt, wenn ein Betreff für eine Verkaufsaufgabe aktualisiert wird.
 
 ![](assets/configure-salesforce-activity-detail-customization-1.png)
 
@@ -39,28 +39,28 @@ Die Anpassung der Aktivitätsdetails ermöglicht es Administratoren, die Informa
  </tr>
  <tr>
   <td><strong>3</td>
-  <td>Aufrufaktivität</td>
+  <td>Aktivität „Aufruf“</td>
  </tr>
 </table>
 
-Mit der Funktion können die folgenden Vorteile freigeschaltet werden:
+Mit der Funktion können die folgenden Vorteile erzielt werden:
 
-* Durch die Anpassung der sichtbaren Informationen im Betrefffeld können Aktivitätsdetails in Salesforce problemlos für den Verkauf durchsucht werden.
-* Administratoren können das Betrefffeld mit einer eindeutigen Kennung wie &quot;Mkto_sales&quot;taggen, damit Aktivitäten aus Sales Connect einfach identifiziert und von anderen E-Mail-Aktivitäten, Aufrufaktivitäten und Aufgaben unterschieden werden können.
-* Reduzieren Sie den Bedarf an benutzerdefinierten Aktivitätsfeldern. Salesforce erzwingt Einschränkungen bei der Anzahl der benutzerdefinierten Aktivitätsfelder, wodurch eingeschränkt werden kann, welche Daten in Berichten verwendet werden können. Durch die Verwendung dynamischer Aktivitätsfelder zum Hinzufügen von Schlüsseldaten zur Betreffzeile können Sie die Anzahl der benutzerdefinierten Aktivitätsfelder reduzieren, die Sie in Ihrer Salesforce-Instanz erstellen müssen.
-* Das Themenfeld der Aktivitäten und Aufgaben folgt einem einheitlichen Muster, das vom Sales Connect-Administrator definiert wird.
+* Durch die Anpassung der Informationen, die im Betrefffeld angezeigt werden, können Aktivitätsdetails in Salesforce einfach für den Vertrieb durchsucht werden.
+* Admins können das Betrefffeld mit einer eindeutigen Kennung wie „moto_sales“ versehen, damit Aktivitäten aus Sales Connect einfach identifiziert und von anderen E-Mail-Aktivitäten, Anrufaktivitäten und Aufgaben unterschieden werden können.
+* Reduzieren Sie den Bedarf an benutzerdefinierten Aktivitätsfeldern. Salesforce erzwingt Beschränkungen für die Anzahl der benutzerdefinierten Aktivitätsfelder, wodurch eingeschränkt werden kann, welche Daten in Berichten verwendet werden können. Wenn Sie dynamische Aktivitätsfelder verwenden, um Schlüsseldaten zur Betreffzeile hinzuzufügen, können Sie die Anzahl der benutzerdefinierten Aktivitätsfelder reduzieren, die Sie in Ihrer Salesforce-Instanz erstellen müssen.
+* Das Betrefffeld der Aktivitäten und Aufgaben folgt einem konsistenten Muster, das vom Sales Connect-Administrator definiert wird.
 
 >[!NOTE]
 >
->Wenn Sie E-Mail-Antworten als Aktivitäten an Salesforce protokollieren, werden sie nicht die Einstellungen für die Anpassung der Salesforce-Aktivitätsdetails verwenden. Stattdessen melden sie sich als &quot;Antwort: E-Mail-Betreff&quot;an.
+>Wenn Sie E-Mail-Antworten als Aktivitäten in Salesforce protokollieren, werden die Einstellungen zur Anpassung der Salesforce-Aktivitätsdetails nicht verwendet. Stattdessen wird „Antwort: E-Mail-Betreff“ protokolliert.
 
 ## Unterstützte dynamische Aktivitätsfelder {#activity-dynamic-fields-supported}
 
-Dynamische Felder der Aktivität Referenzinformationen zu Ihren Verkaufsaktivitäten zum Ausfüllen von Daten. Heute können sie mit der Anpassung von Salesforce-Aktivitätsdetails verwendet werden.
+Dynamische Aktivitätsfelder : Referenzinformationen zu Ihren Vertriebsaktivitäten, um Daten zu füllen. Heute können sie mit der Anpassung von Salesforce-Aktivitätsdetails verwendet werden.
 
 >[!NOTE]
 >
->Wenn das dynamische Feld für eine bestimmte Aktivität/Aufgabe nicht mit Werten gefüllt werden soll, werden bei der Aktualisierung des Felds Salesforce Task - Subject keine Daten für dieses dynamische Feld ausgefüllt.
+>Wenn kein Wert zum Ausfüllen des dynamischen Felds für eine bestimmte Aktivität/Aufgabe vorhanden ist, werden beim Aktualisieren des Felds Salesforce-Aufgabe - Betreff keine Daten für dieses dynamische Feld ausgefüllt.
 
 <table>
  <tr>
@@ -69,49 +69,49 @@ Dynamische Felder der Aktivität Referenzinformationen zu Ihren Verkaufsaktivit�
  </tr>
  <tr>
   <td>{{activity_type}}</td>
-  <td>Fügt den Aufgabentyp als E-Mail, Aufruf, InMail oder Benutzerdefiniert ein.</td>
+  <td>füllt den Aufgabentyp als E-Mail, Anruf, InMail oder Benutzerdefiniert aus.</td>
  </tr>
  <tr>
   <td>{{activity_subject}}</td>
-  <td><p>Füllt den Betreff der Aufgabe.</p>
-      <p>Im Fall einer E-Mail wird die Betreffzeile der E-Mail ausgefüllt.</p>
-      <p>Im Falle eines Aufrufs, inMail oder custom wird ein Wert aufgefüllt, wenn eine Erinnerungsaufgabe mit einem Wert im Feld "Aufgabenname/Betreff"erstellt wurde.</p></td>
+  <td><p>Befüllt den Betreff der Aufgabe.</p>
+      <p>Bei E-Mails wird die Betreffzeile der E-Mail ausgefüllt.</p>
+      <p>Bei einem -Aufruf, inMail oder einem benutzerdefinierten Aufruf wird ein Wert eingetragen, wenn im Feld Aufgabenname/Betreff eine Erinnerungsaufgabe mit einem Wert erstellt wurde.</p></td>
  </tr>
  <tr>
   <td>{{sales_campaign_name}}</td>
-  <td>Wenn die Aktivität über eine Verkaufskampagne gestartet wurde, wird der Name der Verkaufskampagne ausgefüllt.</td>
+  <td>Wenn die Aktivität von einer Verkaufskampagne initiiert wurde, wird der Name der Verkaufskampagne angegeben.</td>
  </tr>
  <tr>
   <td>{{sales_campaign_day}}</td>
-  <td>Wenn die Aktivität über eine Verkaufskampagne gestartet wurde, wird die Anzahl der Tage der Verkaufskampagne ausgefüllt, an denen diese Aktivität stattgefunden hat.</td>
+  <td>Wenn die Aktivität von einer Verkaufskampagne initiiert wurde, wird die Tagesnummer der Verkaufskampagne angegeben, an der diese Aktivität stattgefunden hat.</td>
  </tr>
  <tr>
   <td>{{sales_campaign_step}}</td>
-  <td>Wenn die Aktivität von einer Verkaufskampagne aus initiiert wurde, wird die Schrittnummer innerhalb der Verkaufskampagne aufgefüllt, an der diese Aktivität stattfand.</td>
+  <td>Wenn die Aktivität von einer Verkaufskampagne initiiert wurde, wird die Schrittnummer innerhalb der Verkaufskampagne am Tag ausgefüllt, an dem diese Aktivität stattgefunden hat.</td>
  </tr>
  <tr>
   <td>{{call_outcome}}</td>
-  <td>Wenn es sich bei der Aktivität um einen Aufruf handelt und ein Aufrufergebnis ausgewählt ist, wird der Ergebniswert des Aufrufs ausgefüllt.</td>
+  <td>Wenn es sich bei der Aktivität um einen Aufruf handelt und ein Aufrufergebnis ausgewählt wird, wird der Wert für das Aufrufergebnis ausgefüllt.</td>
  </tr>
  <tr>
   <td>{{call_reason}}</td>
-  <td>Wenn es sich bei der Aktivität um einen Aufruf handelt und ein Anrufgrund ausgewählt ist, wird der Wert des Anrufergrunds ausgefüllt.</td>
+  <td>Wenn es sich bei der Aktivität um einen Aufruf handelt und ein Anrufgrund ausgewählt ist, wird der Wert für den Anrufgrund ausgefüllt.</td>
  </tr>
 </table>
 
-## Konfigurieren der Anpassung der Salesforce-Aktivitätsdetails {#configuring-salesforce-activity-detail-customization}
+## Konfigurieren der Anpassung von Salesforce-Aktivitätsdetails {#configuring-salesforce-activity-detail-customization}
 
 >[!NOTE]
 >
->**Erforderliche Administratorberechtigungen.**
+>**Administratorberechtigungen erforderlich.**
 
-Überlegen Sie bei der Konfiguration Ihrer Aktivitätsdetails, welche Daten bei der Überprüfung des Aufgabenverlaufs in Salesforce am relevantesten für den Vertrieb sind.
+Berücksichtigen Sie bei der Konfiguration Ihrer Aktivitätsdetails, welche Daten für den Vertrieb am relevantesten sind, wenn Sie den Aufgabenverlauf in Salesforce überprüfen.
 
 1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
 
    ![](assets/configure-salesforce-activity-detail-customization-3.png)
 
-1. Klicken Sie auf **Salesforce**.
+1. Auf **Salesforce**.
 
    ![](assets/configure-salesforce-activity-detail-customization-4.png)
 
@@ -119,15 +119,15 @@ Dynamische Felder der Aktivität Referenzinformationen zu Ihren Verkaufsaktivit�
 
    ![](assets/configure-salesforce-activity-detail-customization-5.png)
 
-1. Fügen Sie im Editor für die Anpassung der Aktivitätsdetails den gewünschten freien Text hinzu. Text, den Sie hinzufügen, ist nicht dynamisch und bleibt für das Betrefffeld aller mit Salesforce synchronisierten Aufgaben unverändert.
+1. Fügen Sie im Editor zur Anpassung der Aktivitätsdetails einen beliebigen freien Text hinzu. Hinzugefügter Text ist nicht dynamisch und bleibt für das Betrefffeld aller mit Salesforce synchronisierten Aufgaben unverändert.
 
    ![](assets/configure-salesforce-activity-detail-customization-6.png)
 
    >[!TIP]
    >
-   >Obwohl dies nicht erforderlich ist, kann es für einige Personen einfacher sein, zwischen den Daten zu unterscheiden, wenn sie in ein Subjektfeld in Salesforce eingefügt werden. Beispiel: `[Sales Connect] - {{Activity_type}}`
+   >Wenn hinzugefügter Text in gerade Klammern eingeschlossen wird, ist dies zwar nicht erforderlich, doch kann es für manche Personen einfacher sein, zwischen den Daten zu unterscheiden, wenn sie in ein Betrefffeld in Salesforce eingefügt werden. Beispiel: `[Sales Connect] - {{Activity_type}}`
 
-1. Fügen Sie beliebige weitere dynamische Felder hinzu, indem Sie auf die Schaltfläche **Dynamisches Feld hinzufügen** klicken.
+1. Fügen Sie alle gewünschten zusätzlichen dynamischen Felder hinzu, indem Sie auf die Schaltfläche **Dynamisches Feld hinzufügen** klicken.
 
    ![](assets/configure-salesforce-activity-detail-customization-7.png)
 
@@ -141,10 +141,10 @@ Dynamische Felder der Aktivität Referenzinformationen zu Ihren Verkaufsaktivit�
 
 >[!NOTE]
 >
->Salesforce erzwingt eine Beschränkung von 255 Zeichen. Wenn Ihre Aktivitätsdetails diese Zahl überschreiten, werden sie abgeschnitten, um sicherzustellen, dass die Informationen im Betrefffeld Salesforce gespeichert werden.
+>Salesforce setzt eine Beschränkung auf 255 Zeichen durch. Wenn Ihre Aktivitätsdetails diesen Wert überschreiten, werden sie abgeschnitten, um sicherzustellen, dass die Informationen im Salesforce-Betrefffeld gespeichert werden.
 
 >[!MORELIKETHIS]
 >
->* [Synchronisierungseinstellungen](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
->* [Erinnern der Aufgabensynchronisierung mit Salesforce](/help/marketo/product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md)
->* [Anpassung der Verkaufsverbindung für CRM](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md)
+>* [Einstellungen synchronisieren](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
+>* [Erinnerungsaufgabe - Synchronisieren mit Salesforce](/help/marketo/product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md)
+>* [Sales Connect Customization für CRM](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md)

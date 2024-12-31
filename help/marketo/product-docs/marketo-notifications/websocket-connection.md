@@ -1,6 +1,6 @@
 ---
-description: Benachrichtigung - Websocket-Verbindung - Marketo-Dokumente - Produktdokumentation
-title: Benachrichtigung - Websocket-Verbindung
+description: Benachrichtigung - WebSocket-Verbindung - Marketo-Dokumente - Produktdokumentation
+title: Benachrichtigung - WebSocket-Verbindung
 hide: true
 hidefromtoc: true
 exl-id: 00c754f8-3850-4209-803d-5cdb108dc6dc
@@ -11,13 +11,13 @@ ht-degree: 0%
 
 ---
 
-# Benachrichtigung: Websocket-Verbindung {#notification-websocket-connection}
+# Benachrichtigung: WebSocket-Verbindung {#notification-websocket-connection}
 
 Dieses Dokument richtet sich an Marketo Engage-Benutzer, die die folgende Benachrichtigung in ihrer Marketo-Instanz erhalten haben: `"We were unable to establish a websocket connection to <some-server.adobe.net>. We are ending support of the servers you are currently connected to. Please work with your IT Team to allowlist required Marketo Engage and Adobe domains and ports to prevent access disruptions."`
 
-Wenn Sie oder Ihr Unternehmen restriktive Firewall- oder Proxy-Server-Einstellungen verwenden, müssen Sie oder Ihr Netzwerkadministrator möglicherweise bestimmte Domänen und IP-Adressbereiche in Zulassungslisten eintragen, um sicherzustellen, dass Adobe Marketo Engage erwartungsgemäß funktioniert.
+Auf die Zulassungsliste setzen Wenn Sie oder Ihr Unternehmen restriktive Firewall- oder Proxy-Server-Einstellungen verwenden, müssen Sie bzw. Ihr Netzwerkadministrator möglicherweise bestimmte Domains und IP-Adressbereiche ändern, um sicherzustellen, dass Adobe Marketo Engage erwartungsgemäß funktioniert.
 
-Der Marketo-Support ist nicht für die Implementierung der folgenden Protokolle eingerichtet. Wenn Sie Hilfe benötigen, geben Sie dieses Dokument bitte an Ihr IT-Team weiter. Wenn sie den Webzugriff mithilfe einer Zulassungsliste beschränken, bitten Sie sie, die folgenden Domänen hinzuzufügen (einschließlich des Sternchens), um alle Marketo-Ressourcen und -Websockets zuzulassen:
+Der Marketo-Support ist nicht für die Implementierung der folgenden Protokolle eingerichtet. Wenn Sie Hilfe benötigen, teilen Sie dieses Dokument bitte mit Ihrem IT-Team. Wenn der Web-Zugriff mithilfe einer -Zulassungsliste eingeschränkt wird, bitten Sie sie, die folgenden Domains (einschließlich des Sternchens) hinzuzufügen, um alle Marketo-Ressourcen und -Websockets zuzulassen:
 
 * `*.marketo.com`
 * `*.marketodesigner.com`

@@ -1,6 +1,6 @@
 ---
-description: Registerkarte "Team"- Marketo-Dokumente - Produktdokumentation
-title: Die Registerkarte "Team"
+description: Registerkarte „Team“ - Marketo-Dokumente - Produktdokumentation
+title: Registerkarte „Team“
 exl-id: 36189eb2-a802-4601-afca-dca3006e4608
 feature: Sales Insight Actions
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
@@ -10,20 +10,20 @@ ht-degree: 0%
 
 ---
 
-# Die Registerkarte &quot;Team&quot; {#understanding-the-team-tab}
+# Registerkarte „Team“ {#understanding-the-team-tab}
 
-Auf der Registerkarte &quot;Team&quot;werden drei wichtige Metriken hervorgehoben.
+Auf der Registerkarte „Team“ heben wir drei wichtige Metriken hervor.
 
-## E-Mails mit Vorlage {#emails-sent-with-template}
+## Mit Vorlage gesendete E-Mails {#emails-sent-with-template}
 
-Wie viele der gesendeten E-Mails eine Vorlage verwendet haben.
+Wie viele der gesendeten E-Mails verwendeten eine Vorlage?
 
-## Spitzenzeit der Interaktion {#peak-time-of-engagement}
+## Maximale Interaktionszeit {#peak-time-of-engagement}
 
-Auf der gesamten Plattform werden die Spitzenzeiten der Interaktion angezeigt, die angibt, zu welcher Tageszeit Ihr Team die meisten Aktivitäten erhält (Ansichten, Klicks, Antworten). Ihr Team kann E-Mails planen oder den strategischen Versand von E-Mails um diese Zeit planen.
+Auf der ganzen Linie veröffentlichen wir die Spitzenzeiten der Interaktion, die anzeigt, zu welcher Tageszeit Ihr Team die meiste Aktivität erhält (Ansichten, Klicks, Antworten). Ihr Team kann E-Mails planen oder planen, um diese Zeit E-Mails strategisch zu senden.
 
-## Abgeschlossene Angebote {#deals-closed}
+## Abschlüsse geschlossen {#deals-closed}
 
-Dies basiert auf dem Verkaufs-Gong und wie viele Angebote innerhalb des aktuellen Monats abgeschlossen wurden.
+Dies basiert auf dem Verkaufs-Gong und der Anzahl der Abschlüsse innerhalb des aktuellen Monats.
 
-Als Bonus summieren wir die Betrachtungsrate Ihres Teams. Auf dieser Registerkarte können Sie auch das Rep Leaderboard sehen. Hier werden die E-Mail-Statistiken für jede Person in Ihrem Team angezeigt.
+Als Bonus berechnen wir die Interaktion mit den Ansichtsraten Ihres Teams. Auf dieser Registerkarte wird auch das Leaderboard des Vertreters angezeigt. E-Mail-Statistiken für jede Person in Ihrem Team werden hier angezeigt.

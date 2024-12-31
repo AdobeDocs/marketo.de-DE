@@ -1,6 +1,6 @@
 ---
-description: Salesforce von Sales Insight-Aktionen trennen - Marketo Docs - Produktdokumentation
-title: Salesforce von Sales Insight-Aktionen trennen
+description: Trennen von Salesforce von Sales Insight-Aktionen - Marketo-Dokumente - Produktdokumentation
+title: Trennen von Salesforce von Sales Insight-Aktionen
 hide: true
 hidefromtoc: true
 exl-id: 4b3838d1-92de-4baf-81af-4cd7fc316c06
@@ -12,34 +12,34 @@ ht-degree: 0%
 
 ---
 
-# Salesforce von Sales Insight-Aktionen trennen {#disconnect-salesforce-from-sales-insight-actions}
+# Trennen von Salesforce von Sales Insight-Aktionen {#disconnect-salesforce-from-sales-insight-actions}
 
-Manchmal müssen Sie möglicherweise Ihr Salesforce-Konto von Ihrem Sales Insight-Aktionskonto trennen. So geht es.
+Manchmal müssen Sie möglicherweise Ihr Salesforce-Konto von Ihrem Sales Insight Actions-Konto trennen. So geht&#39;s.
 
-## So trennen Sie sich von Salesforce als Administrator {#how-to-disconnect-from-salesforce-as-an-admin}
+## Trennen der Verbindung zu Salesforce als Admin {#how-to-disconnect-from-salesforce-as-an-admin}
 
-1. Klicken Sie in Sales Insight-Aktionen auf das Zahnradsymbol oben rechts und wählen Sie **Einstellungen** aus.
+1. Klicken Sie in „Sales Insight-Aktionen“ oben rechts auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
 
    ![](assets/disconnect-salesforce-from-sales-insight-actions-1.png)
 
-1. Klicken Sie unter &quot;Admin Settings&quot;auf **Salesforce**.
+1. Klicken Sie unter „Admin Settings“ auf **Salesforce**.
 
    ![](assets/disconnect-salesforce-from-sales-insight-actions-2.png)
 
-1. Klicken Sie auf der Registerkarte &quot;Verbindungen und Anpassungen&quot;auf **Verbindung trennen**.
+1. Klicken Sie auf der Registerkarte Verbindungen und Anpassungen auf **Verbindung trennen**.
 
    ![](assets/disconnect-salesforce-from-sales-insight-actions-3.png)
 
-## So trennen Sie sich von Salesforce als Nicht-Administrator {#how-to-disconnect-from-salesforce-as-a-non-admin}
+## Trennen der Verbindung zu Salesforce als Benutzer ohne Administratorrechte {#how-to-disconnect-from-salesforce-as-a-non-admin}
 
-1. Klicken Sie in Sales Insight-Aktionen auf das Zahnradsymbol oben rechts und wählen Sie **Einstellungen** aus.
+1. Klicken Sie in „Sales Insight-Aktionen“ oben rechts auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
 
    ![](assets/disconnect-salesforce-from-sales-insight-actions-4.png)
 
-1. Wählen Sie unter Mein Konto die Option **Salesforce** aus.
+1. Wählen Sie unter Mein Konto die Option **Salesforce**.
 
 PICC
 
-1. Klicken Sie auf der Registerkarte &quot;Verbindungen und Anpassungen&quot;auf **Verbindung trennen**.
+1. Klicken Sie auf der Registerkarte Verbindungen und Anpassungen auf **Verbindung trennen**.
 
 PICC

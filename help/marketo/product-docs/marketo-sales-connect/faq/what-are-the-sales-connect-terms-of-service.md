@@ -1,7 +1,7 @@
 ---
 unique-page-id: 14352495
-description: Welche Service-Bedingungen gelten für Sales Connect? - Marketo-Dokumente - Produktdokumentation
-title: Welche Service-Bedingungen gelten für Sales Connect?
+description: Was sind die Sales Connect-Nutzungsbedingungen? - Marketo-Dokumente - Produktdokumentation
+title: Was sind die Sales Connect-Nutzungsbedingungen?
 exl-id: 958d5d0f-1cf4-4653-aaf9-e516a23cb702
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,10 +11,10 @@ ht-degree: 0%
 
 ---
 
-# Welche Service-Bedingungen gelten für Sales Connect? {#what-are-the-sales-connect-terms-of-service}
+# Was sind die Sales Connect-Nutzungsbedingungen? {#what-are-the-sales-connect-terms-of-service}
 
-Die Service-Nutzungsbedingungen von Sales Connect finden Sie [hier](https://documents.marketo.com/toutapp/terms).
+Die Geschäftsbedingungen zu Sales Connect finden Sie [hier](https://documents.marketo.com/toutapp/terms).
 
 >[!NOTE]
 >
->&quot;ToutApp&quot;ist der vorherige Name für Marketo Sales Connect.
+>„ToutApp“ ist der frühere Name für Marketo Sales Connect.

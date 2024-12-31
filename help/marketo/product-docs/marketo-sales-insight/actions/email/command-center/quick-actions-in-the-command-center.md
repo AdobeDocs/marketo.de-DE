@@ -1,5 +1,5 @@
 ---
-description: Schnellaktionen im Command Center - Marketo Docs - Produktdokumentation
+description: Schnellaktionen im Command Center - Marketo-Dokumente - Produktdokumentation
 title: Schnellaktionen im Command Center
 exl-id: e95cdb06-8a67-41ba-b528-c2478a75356f
 feature: Sales Insight Actions
@@ -12,20 +12,20 @@ ht-degree: 5%
 
 # Schnellaktionen im Command Center {#quick-actions-in-the-command-center}
 
-Im E-Mail-Raster gibt es zwei Arten von Schnellaktionsspalten. E-Mail-Aktionen, mit denen Sie Aktionen für die E-Mail durchführen können, und Folgenachaktionen, mit denen Sie mit wenigen Klicks Interaktionsaktionen durchführen können.
+Im E-Mail-Raster gibt es zwei Arten von Schnellaktionsspalten. E-Mail-Aktionen, mit denen Sie Aktionen für die E-Mail durchführen können, und Folgeaktionen, mit denen Sie mit wenigen Klicks Interaktionsaktionen durchführen können.
 
 ## Schnellaktionen {#quick-actions}
 
-Schnellaktionen für E-Mails sind dynamisch und werden je nach den für den Status der E-Mail, die Sie betrachten, am relevantesten Aktionen aktualisiert. Für jeden E-Mail-Status sind maximal zwei Schnellaktionen sichtbar. Unten sehen Sie, welche E-Mail-Schnellaktionen für jeden Status verfügbar sein werden.
+E-Mail-Schnellaktionen sind dynamisch und werden je nach den relevantesten Aktionen für den Status der E-Mail, die Sie anzeigen, aktualisiert. Pro E-Mail-Status sind maximal zwei E-Mail-Schnellaktionen sichtbar. Unten sehen Sie, welche E-Mail-Schnellaktionen für jeden Status verfügbar sein werden.
 
 **Zugestellt**
 
 | Status | Beschreibung |
 |---|---|
-| Archivieren | Fügt die E-Mail zum archivierten Ordner hinzu und stoppt alle deaktivierten Ansichten und Klick-Tracking für diese E-Mail. |
-| Erfolg | Kennzeichnet die E-Mail als erfolgreich, um in der Vorlagenanalyse berichtet zu werden. |
+| Archivieren | Fügt die E-Mail zum archivierten Ordner hinzu und stoppt alle deaktivierten Anzeigen und Klick-Tracking für diese E-Mail. |
+| Erfolgreich | Markiert die E-Mail als erfolgreich, damit sie in der Vorlagenanalyse gemeldet wird. |
 
-**Archived**
+**Archiviert**
 
 <table> 
  <colgroup> 
@@ -35,11 +35,11 @@ Schnellaktionen für E-Mails sind dynamisch und werden je nach den für den Stat
  <tbody> 
   <tr> 
    <td>Dearchivieren</td> 
-   <td>Verschiebt die E-Mail wieder in den Ordner, der gesendet wurde, und aktiviert das Anzeigen-/Klick-Tracking erneut.</td> 
+   <td>Verschiebt die E-Mail zurück in den Versandordner und reaktiviert das Ansicht-/Klick-Tracking.</td> 
   </tr> 
   <tr> 
    <td>Löschen</td> 
-   <td><p>löscht die E-Mail.<br><strong>Hinweis:</strong> E-Mails, die als Teil einer Kampagne gesendet wurden, können nicht gelöscht werden.</p></td> 
+   <td><p>Löscht die E-Mail.<br><strong>Hinweis:</strong> E-Mails, die im Rahmen einer Kampagne gesendet wurden, können nicht gelöscht werden.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -54,16 +54,16 @@ Schnellaktionen für E-Mails sind dynamisch und werden je nach den für den Stat
  <tbody> 
   <tr> 
    <td>Bearbeiten</td> 
-   <td>Öffnet die E-Mail im Komprimierungsfenster, das bearbeitet werden soll.</td> 
+   <td>Öffnet die E-Mail im Fenster zum Erstellen, das bearbeitet werden soll.</td> 
   </tr> 
   <tr> 
    <td>Löschen</td> 
-   <td><p>löscht die E-Mail.<br><strong>Hinweis:</strong> E-Mails, die als Teil einer Kampagne gesendet wurden, können nicht gelöscht werden.</p></td> 
+   <td><p>Löscht die E-Mail.<br><strong>Hinweis:</strong> E-Mails, die im Rahmen einer Kampagne gesendet wurden, können nicht gelöscht werden.</p></td> 
   </tr> 
  </tbody> 
 </table>
 
-**Fehlgeschlagen, Bounce und Spam**
+**Fehlgeschlagen, Bounce Messages und Spam**
 
 <table> 
  <colgroup> 
@@ -72,23 +72,23 @@ Schnellaktionen für E-Mails sind dynamisch und werden je nach den für den Stat
  </colgroup> 
  <tbody> 
   <tr> 
-   <td>Senden wiederholen</td> 
-   <td>versucht sofort, die E-Mail erneut zu senden.</td> 
+   <td>Senden erneut versuchen</td> 
+   <td>Versucht sofort, die E-Mail erneut zu senden.</td> 
   </tr> 
   <tr> 
    <td>Löschen</td> 
-   <td><p>löscht die E-Mail.<br><strong>Hinweis:</strong> E-Mails, die als Teil einer Kampagne gesendet wurden, können nicht gelöscht werden.</p></td> 
+   <td><p>Löscht die E-Mail.<br><strong>Hinweis:</strong> E-Mails, die im Rahmen einer Kampagne gesendet wurden, können nicht gelöscht werden.</p></td> 
   </tr> 
  </tbody> 
 </table>
 
-**Follow-up-Aktionen**
+**Folgemaßnahmen**
 
 ![](assets/quick-actions-in-the-command-center-1.png)
 
 | Funktion | Beschreibung |
 |---|---|
-| Folgenachrichten-E-Mail senden | Öffnet das Fenster zum Erstellen, in dem der ausgewählte Inline-E-Mail-Textkörper angehängt und zum Senden an den Empfänger bereit ist. |
-| Anruf tätigen | Öffnet das Verkaufs-Telefon, um den E-Mail-Empfänger anzurufen. |
-| Send InMail | Leitet den Benutzer zu LinkedIn um, um ihm eine InMail-Nachricht zu senden. |
-| Aufgabe erstellen | Öffnet das Popup Aufgabe erstellen , um eine Erinnerungsaufgabe zu erstellen. |
+| Folgenachricht senden | Öffnet das Fenster Erstellen mit dem ausgewählten Inline-E-Mail-Textkörper, der angehängt wird und an den Empfänger gesendet werden kann. |
+| Anruf tätigen | Öffnet das Verkaufstelefon, um den E-Mail-Empfänger anzurufen. |
+| InMail senden | Leitet zu LinkedIn um, um der Person eine InMail-Nachricht zu senden. |
+| Aufgabe erstellen | Öffnet das Popup Aufgabe erstellen zum Erstellen einer Erinnerungsaufgabe. |

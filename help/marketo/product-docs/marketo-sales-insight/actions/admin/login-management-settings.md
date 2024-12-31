@@ -1,6 +1,6 @@
 ---
 description: Anmeldeverwaltungseinstellungen - Marketo-Dokumente - Produktdokumentation
-title: Anmeldeverwaltungseinstellungen
+title: Einstellungen der Anmeldeverwaltung
 exl-id: 077f7f97-1413-4495-b2c9-94194e8dbcc2
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -10,66 +10,66 @@ ht-degree: 0%
 
 ---
 
-# Anmeldeverwaltungseinstellungen {#login-management-settings}
+# Einstellungen der Anmeldeverwaltung {#login-management-settings}
 
-Mit den Anmeldeverwaltungseinstellungen können Administratoren die Authentifizierungsvoreinstellungen für Benutzer von Sales Insight-Aktionen auf globaler Ebene festlegen.
-
->[!NOTE]
->
->Standardmäßig ist die Option Nur Salesforce für Instanzen von Sales Insight-Aktionen ausgewählt. Wir empfehlen diese Einstellung, damit Benutzer sich [automatisch anmelden](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md) von Salesforce aus anmelden können.
-
-## Aktualisieren der Anmeldeverwaltungseinstellungen {#update-login-management-settings}
+Mit den Einstellungen der Anmeldeverwaltung können Administratoren die Authentifizierungseinstellungen für Benutzer von Sales Insight-Aktionen global festlegen.
 
 >[!NOTE]
 >
->**Erforderliche Administratorberechtigungen**
+>Standardmäßig ist die Option Nur Salesforce für Instanzen von Sales Insight-Aktionen aktiviert. Wir empfehlen diese Einstellung, damit Benutzer sich [ Salesforce ](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md) können.
 
-Gehen Sie wie folgt vor, um Ihre Anmeldeverwaltungseinstellungen zu aktualisieren.
+## Aktualisieren der Einstellungen für die Anmeldeverwaltung {#update-login-management-settings}
+
+>[!NOTE]
+>
+>**Administratorberechtigungen erforderlich**
+
+Führen Sie die folgenden Schritte aus, um Ihre Einstellungen für die Anmeldeverwaltung zu aktualisieren.
 
 1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
 
    ![](assets/login-management-settings-1.png)
 
-1. Klicken Sie unter &quot;Admin Settings&quot;auf **General**.
+1. Klicken Sie unter „Admin Settings“ auf **General**.
 
    ![](assets/login-management-settings-2.png)
 
-1. Scrollen Sie nach unten zur Karte Anmeldeverwaltung und wählen Sie die gewünschte Einstellung aus (in diesem Beispiel wählen wir nur Salesforce aus). Klicken Sie auf **Speichern**, wenn Sie fertig sind.
+1. Scrollen Sie nach unten zur Karte Anmeldeverwaltung und wählen Sie die gewünschte Einstellung aus (in diesem Beispiel wählen wir Nur Salesforce aus). Klicken Sie auf **Speichern**, wenn Sie fertig sind.
 
    ![](assets/login-management-settings-3.png)
 
-## Häufig gestellte Fragen zu Salesforce {#salesforce-only-faq}
+## Häufig gestellte Fragen (FAQ) zu Salesforce {#salesforce-only-faq}
 
-Salesforce bedeutet nur, dass Benutzer sich nur für die Verwendung von Sales Insight-Aktionen mit Salesforce authentifizieren können. Es handelt sich um die Standardauswahl für Instanzen von Sales Insight-Aktionen. Es wird empfohlen, Benutzern die nahtlose Authentifizierung zu ermöglichen, ohne einen Benutzernamen und ein Kennwort verwalten zu müssen.
+Nur Salesforce bedeutet, dass sich Benutzende nur authentifizieren können, um Sales Insight-Aktionen mit Salesforce zu verwenden. Es ist die Standardauswahl für Sales Insight-Aktionsinstanzen und wird empfohlen, da sich Benutzende nahtlos authentifizieren können, ohne einen Benutzernamen und ein Kennwort verwalten zu müssen.
 
-### Wie aktiviert ein neuer Benutzer in meiner Instanz sein Konto, wenn &quot;Nur Salesforce&quot;ausgewählt ist? {#activate-when-salesforce-only-is-selected}
+### Wie aktiviert ein neuer Benutzer in meiner Instanz sein Konto, wenn „Nur Salesforce&quot; ausgewählt ist? {#activate-when-salesforce-only-is-selected}
 
-Wenn Sie in der Einladungs-E-Mail auf die Schaltfläche **Erste Schritte** klicken, werden neue Benutzer an einen Bildschirm zur Kontoaktivierung gesendet, auf dem sie ihre Salesforce-Instanz verbinden müssen, um ihr Konto für Einblicke in Verkäufe zu aktivieren.
+Nach dem Klicken auf **Erste Schritte** in der Einladungs-E-Mail werden neue Benutzende zu einem Bildschirm zur Kontoaktivierung gesendet, wo sie aufgefordert werden, ihre Salesforce-Instanz zu verbinden, um ihr Sales Insight Actions-Konto zu aktivieren.
 
 ![](assets/login-management-settings-4.png)
 
-### Mit welchen Authentifizierungsmethoden dürfen sich meine Benutzer authentifizieren, wenn &quot;Nur Salesforce&quot;ausgewählt ist? {#what-authentication-methods}
+### Mit welchen Authentifizierungsmethoden dürfen sich meine Benutzerinnen und Benutzer authentifizieren, wenn „Nur Salesforce&quot; ausgewählt ist? {#what-authentication-methods}
 
-Beim Navigieren zu unserem Anmeldebildschirm geben Benutzer zunächst ihre E-Mail-Adresse ein. Anschließend klicken sie auf die Schaltfläche Salesforce One Click Login , wo sie sich über das Salesforce-Konto authentifizieren können, bei dem sie angemeldet sind.
+Beim Navigieren zu unserem Anmeldebildschirm geben Benutzer zunächst ihre E-Mail-Adresse ein. Anschließend klicken sie auf die Schaltfläche Salesforce One Click Login , über die sie sich mit dem Salesforce-Konto authentifizieren können, bei dem sie angemeldet sind.
 
 >[!NOTE]
 >
->Dies gilt nur für Benutzer, die direkt zum Anmeldebildschirm navigieren. Benutzer, die über Salesforce auf Aktionen zugreifen, werden mit [automatischer Anmeldung](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md) angemeldet.
+>Dies betrifft nur Benutzende, die direkt zum Anmeldebildschirm navigieren. Benutzende, die über Salesforce auf Aktionen zugreifen, werden mit [Auto-login](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md) angemeldet.
 
 ![](assets/login-management-settings-5.png)
 
-### Wie wird die Benutzerauthentifizierung für Aktionen gehandhabt, wenn ein Benutzer über Salesforce auf eine Aktionsfunktion zugreift und &quot;Nur Salesforce&quot;ausgewählt ist? {#how-is-user-authentication-handled}
+### Wie wird die Benutzerauthentifizierung für Aktionen gehandhabt, wenn ein Benutzer über Salesforce auf eine Aktionsfunktion zugreift und „Nur Salesforce&quot; ausgewählt ist? {#how-is-user-authentication-handled}
 
-Wenn ein Benutzer auf eine der Aktionen klickt (Aufruf, E-Mail, Kampagne, Aufgaben, Kampagnenliste usw.), verwenden wir seine SFDC-Authentifizierung, um ihn automatisch bei seinem Konto für Einblicke in Verkaufsaktionen zu melden. Diese Authentifizierung wird als [automatische Anmeldung](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md) bezeichnet.
+Wenn ein(e) Benutzende(r) auf eine der Aktionen klickt (Anruf, E-Mail, Kampagne, Aufgaben, Kampagnenliste usw.), verwenden wir seine SFDC-Authentifizierung, um ihn/sie automatisch bei seinem Sales Insight Actions-Konto anzumelden. Wir nennen diese Authentifizierung [automatische Anmeldung](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md).
 
 ## Häufig gestellte Fragen zu allen Anmeldemethoden {#all-login-methods-faq}
 
-### Wie aktiviert ein neuer Benutzer in meiner Instanz sein Konto, wenn &quot;Alle Anmeldemethoden&quot;ausgewählt ist? {#activate-when-all-login-methods-is-selected}
+### Wie aktiviert ein neuer Benutzer in meiner Instanz sein Konto, wenn „Alle Anmeldemethoden“ ausgewählt ist? {#activate-when-all-login-methods-is-selected}
 
-Wenn ein neuer Benutzer zu einer Instanz eingeladen wird, erhält er eine E-Mail zur Kontoaktivierung. Er klickt auf die Schaltfläche &quot;Erste Schritte&quot;, die ihn auf eine Seite bringt, auf der er aufgefordert wird, ein Passwort zu erstellen und zu bestätigen. Nach der Erstellung wird ihr Konto aktiviert und über den Onboarding-Workflow abgerufen.
+Wenn ein neuer Benutzer zu einer -Instanz eingeladen wird, erhält er eine E-Mail zur Kontoaktivierung. Er klickt auf die Schaltfläche „Erste Schritte“, um zu einer Seite zu gelangen, auf der er aufgefordert wird, ein Kennwort zu erstellen und zu bestätigen. Nach der Erstellung wird ihr Konto aktiviert und über den Onboarding-Workflow weitergeleitet.
 
 ![](assets/login-management-settings-6.png)
 
-### Welche Benutzer meiner Instanz dürfen sich mit anmelden, wenn &quot;Alle Anmeldemethoden&quot;ausgewählt ist? {#what-are-users-allowed-to-log-in-with-all-login}
+### Mit welchen Benutzern meiner Instanz darf ich mich anmelden, wenn „Alle Anmeldemethoden“ ausgewählt ist? {#what-are-users-allowed-to-log-in-with-all-login}
 
-Bei Verwendung unserer Anmeldeseite geben Benutzer zunächst ihre E-Mail-Adresse ein. Dann werden sie an eine Seite gesendet, auf der sie alle Anmeldeoptionen (Benutzername/Kennwort, SFDC, Gmail, SSO) für die Authentifizierung erhalten.
+Bei der Nutzung unserer Anmeldeseite geben Benutzer zunächst ihre E-Mail-Adresse ein. Dann werden sie auf eine Seite weitergeleitet, die ihnen alle Anmeldeoptionen (Benutzername/Kennwort, SFDC, Gmail, SSO) zur Authentifizierung bietet.

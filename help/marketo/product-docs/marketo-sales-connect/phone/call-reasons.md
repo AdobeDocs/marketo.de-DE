@@ -1,6 +1,6 @@
 ---
-description: Gründe für Aufrufe - Marketo-Dokumente - Produktdokumentation
-title: Gründe für Aufrufe
+description: Anrufgründe - Marketo-Dokumente - Produktdokumentation
+title: Gründe für den Anruf
 exl-id: 79e87daf-3af6-4e62-bc76-a920867e2dd2
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -10,79 +10,79 @@ ht-degree: 0%
 
 ---
 
-# Gründe für Aufrufe {#call-reasons}
+# Gründe für den Anruf {#call-reasons}
 
-Lassen Sie zu, dass Ihre Verkaufsteams bei Aufrufen die Anrufgründe auswählen, damit Ihr Team die Gründe für Aufrufe verstehen kann.
+Erlauben Sie Ihren Vertriebsteams, bei Anrufen Anrufgründe auszuwählen, damit Ihr Team verstehen kann, warum Anrufe getätigt werden.
 
 >[!NOTE]
 >
->**Erforderliche Administratorberechtigungen**
+>**Administratorberechtigungen erforderlich**
 
-## Gründe für Anrufe aktivieren {#enable-call-reasons}
+## Anrufgründe aktivieren {#enable-call-reasons}
 
 1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
 
    ![](assets/call-reasons-1.png)
 
-1. Wählen Sie unter &quot;Admin Settings&quot;**Dialer** aus.
+1. Wählen Sie unter Admin Settings **Dialer** aus.
 
    ![](assets/call-reasons-2.png)
 
-1. Wählen Sie **Gründe für Aufrufe aktivieren** aus.
+1. Wählen Sie **Anrufgründe aktivieren** aus.
 
    ![](assets/call-reasons-3.png)
 
-1. Wählen Sie die gewünschte Anrufgrundanforderung aus.
+1. Wählen Sie die gewünschte Anforderung für den Anrufgrund aus.
 
    ![](assets/call-reasons-4.png)
 
-## Grund für Aufruf erstellen {#create-call}
+## Grund für den Aufruf erstellen {#create-call}
 
 >[!NOTE]
 >
->Sie können maximal 15 Gründe für Aufrufe erstellen.
+>Sie können maximal 15 Anrufgründe erstellen.
 
 1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
 
    ![](assets/call-reasons-5.png)
 
-1. Wählen Sie unter &quot;Admin Settings&quot;**Dialer** aus.
+1. Wählen Sie unter Admin Settings **Dialer** aus.
 
    ![](assets/call-reasons-6.png)
 
-1. Klicken Sie auf **Gründe für Aufrufe verwalten**.
+1. Klicken Sie **Anrufgründe verwalten**.
 
    ![](assets/call-reasons-7.png)
 
-1. Geben Sie den Namen des gewünschten Anrufgrunds in das Textfeld ein und klicken Sie auf **Hinzufügen**.
+1. Geben Sie den gewünschten Namen für den Anrufgrund in das Textfeld ein und klicken Sie auf **Hinzufügen**.
 
    ![](assets/call-reasons-8.png)
 
 ## Anrufgrund auswählen {#select-a-call-reason}
 
-Nachdem die Anrufgründe aktiviert wurden. Benutzer können beim Aufruf eine auswählen.
+Sobald die Anrufgründe aktiviert wurden. Benutzer können beim Aufrufen eines auswählen.
 
-1. Klicken Sie auf die Anruftaste, um den Dialer zu starten.
+1. Klicken Sie auf die Anruftaste, um den Wähler zu starten.
 
    ![](assets/call-reasons-9.png)
 
-1. Geben Sie die Aufrufinformationen in den Dialer ein und klicken Sie auf **Aufruf**.
+1. Geben Sie die Anrufinformationen in den Wähler ein und klicken Sie auf **Anruf**.
 
    ![](assets/call-reasons-10.png)
 
-1. Wählen Sie den Anrufgrund aus, der den Aufruf am besten beschreibt.
+1. Wählen Sie den Anrufgrund aus, der den Anruf am besten beschreibt.
 
    ![](assets/call-reasons-11.png)
 
-1. Beenden Sie den Aufruf.
+1. Beenden Sie den Anruf.
 
    ![](assets/call-reasons-12.png)
 
-1. Protokollieren Sie den -Aufruf.
+1. Protokollieren Sie den Anruf.
 
    ![](assets/call-reasons-13.png)
 
 >[!MORELIKETHIS]
 >
->* [Gründe für Aufrufe protokollieren und Ergebnisse an Salesforce aufrufen](/help/marketo/product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
->* [Ergebnisse der Aufrufe](/help/marketo/product-docs/marketo-sales-connect/phone/call-outcomes.md)
+>* [Gründe für Anrufe und Anrufergebnisse in Salesforce protokollieren](/help/marketo/product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
+>* [Ergebnisse aufrufen](/help/marketo/product-docs/marketo-sales-connect/phone/call-outcomes.md)

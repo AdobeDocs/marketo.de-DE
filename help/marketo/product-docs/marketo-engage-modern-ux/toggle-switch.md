@@ -1,6 +1,6 @@
 ---
-description: Umschalten - Marketo Docs - Produktdokumentation
-title: Umschalten
+description: Umschalter - Marketo-Dokumente - Produktdokumentation
+title: Kippschalter
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
 feature: Modern UX
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -10,19 +10,19 @@ ht-degree: 0%
 
 ---
 
-# Umschalten {#toggle-switch}
+# Kippschalter {#toggle-switch}
 
-Mit dem Umschalter können Sie zwischen der klassischen Benutzeroberfläche von Marketo und der modernen UX wechseln. Es ist in allen unten hervorgehobenen Bereichen verfügbar.
+Mit dem Umschalter können Sie zwischen der klassischen Benutzeroberfläche von Marketo und der modernen Benutzeroberfläche wechseln. Es ist in allen unten hervorgehobenen Bereichen verfügbar.
 
 >[!NOTE]
 >
->Wenn die Option Umschalter aktiviert ist, werden alle vorhandenen Workflows automatisch gespeichert, bevor die UI geändert wird. Wenn ein Vorgang bereits ausgeführt wird (z. B. wenn ein Asset gerade genehmigt wird), erhalten Sie eine Fehlermeldung, die darauf hinweist, dass es sich um ein Asset handelt, das nach Abschluss des Vorgangs erneut genehmigt werden soll.
+>Wenn der Umschalter ausgewählt ist, werden alle vorhandenen Workflows automatisch gespeichert, bevor die Änderung der Benutzeroberfläche eintritt. Wenn bereits ein Vorgang ausgeführt wird (z. B. ein Asset wird gerade genehmigt), erhalten Sie eine Fehlermeldung, die besagt, dass ein Asset bereits genehmigt ist, und sollten es nach Abschluss des Vorgangs erneut versuchen.
 
 ## Aktivieren des Umschalters für einzelne Rollen {#enable-the-toggle-switch-for-individual-roles}
 
-Aktivieren Sie den Umschalter für einzelne Rollen oder alle Rollen. So geht es.
+Aktivieren Sie den Umschalter für einzelne Rollen oder für alle Rollen. So geht&#39;s.
 
-1. Klicken Sie unter Marketo Engage auf **Admin**.
+1. Klicken Sie in Marketo Engage auf **Admin**.
 
    ![](assets/toggle-switch-1.png)
 
@@ -30,15 +30,15 @@ Aktivieren Sie den Umschalter für einzelne Rollen oder alle Rollen. So geht es.
 
    ![](assets/toggle-switch-2.png)
 
-1. Wählen Sie die Rollen aus, die Sie auf den Umschalter zugreifen möchten.
+1. Wählen Sie die Rolle(n) aus, auf die Sie Zugriff auf den Umschalter haben möchten.
 
    ![](assets/toggle-switch-3.png)
 
-## Aktivieren für Funktionen {#enable-for-features}
+## Für Funktionen aktivieren {#enable-for-features}
 
-Sie haben die Möglichkeit, die Marketo Engage Modern UX für einzelne Funktionen oder alle verfügbaren Funktionen (aktuell und in Kürze) manuell zu aktivieren.
+Sie haben die Möglichkeit, die Marketo Engage Modern UX für einzelne Funktionen oder alle verfügbaren Funktionen (aktuelle und zukünftige) manuell zu aktivieren.
 
-Klicken Sie in einem Bereich mit dem Umschalter (in diesem Beispiel befinden wir uns in der E-Mail-Listenansicht) einfach auf den Umschalter unten rechts auf der Seite.
+Klicken Sie in einem Bereich, der derzeit über den Umschalter verfügt (in diesem Beispiel befinden wir uns in der E-Mail-Listenansicht), einfach auf den Umschalter unten rechts auf der Seite.
 
 ![](assets/toggle-switch-4.png)
 
@@ -46,32 +46,32 @@ Das neue Erlebnis wird geladen.
 
 ![](assets/toggle-switch-5.png)
 
-Um es für _alle_ Funktionen zu aktivieren, klicken Sie auf das Zahnradsymbol neben dem Umschalter.
+Um ihn für _Funktionen zu aktivieren_ klicken Sie auf das Zahnradsymbol neben dem Umschalter.
 
 ![](assets/toggle-switch-6.png)
 
-Wählen Sie **Aktivieren für alle verfügbaren Funktionen** und klicken Sie auf **OK**.
+Wählen Sie **Für alle verfügbaren Funktionen aktivieren** und klicken Sie auf **OK**.
 
 ![](assets/toggle-switch-7.png)
 
 ## Verfügbare Funktionen {#available-features}
 
-Die folgenden Funktionen sind derzeit in der modernen UX verfügbar (mit neuen Funktionen in jeder Version):
+Die folgenden Funktionen sind derzeit in der modernen Benutzeroberfläche verfügbar (mit neuen Funktionen, die in jeder Version hinzugefügt werden):
 
-* Ansicht mit E-Mail-Details
+* E-Mail-Detailansicht
 * E-Mail-Listenansicht
 * Detailansicht der E-Mail-Vorlage
 * E-Mail-Vorlagenliste
-* Dashboard-Ansicht für E-Mail-Tests
-* Ansicht &quot;Formularedetails&quot;
-* Formularlistenansicht
+* E-Mail-Test-Dashboard anzeigen
+* Formulardetailansicht
+* Formular-Listenansicht
 * Detailseite für Bilder und Dateien
 * Detailansicht der Landingpage
-* Listenansicht der Landingpage
+* Landingpage-Listenansicht
 * Details zur Landingpage-Vorlage
-* Liste der Landingpage-Vorlagen
-* Ansicht &quot;Snippet Details&quot;
-* Ansicht &quot;Snippet List&quot;
+* Vorlagenliste für Landingpages
+* Snippet-Detailansicht
+* Snippet-Listenansicht
 
 
 

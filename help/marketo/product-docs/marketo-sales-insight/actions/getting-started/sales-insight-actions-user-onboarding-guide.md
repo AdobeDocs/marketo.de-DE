@@ -1,6 +1,6 @@
 ---
-description: Benutzerhandbuch für Einsteigeraktionen für Sales Insight - Marketo-Dokumente - Produktdokumentation
-title: Benutzerhandbuch zu Insight-Maßnahmen für Vertrieb
+description: Benutzerhandbuch zum Onboarding von Sales Insight-Aktionen - Marketo-Dokumente - Produktdokumentation
+title: Benutzerhandbuch zum Onboarding von Sales Insights-Aktionen
 exl-id: ace517b6-3a06-4e2e-b545-8c95ad0cf457
 feature: Sales Insight Actions
 source-git-commit: 1f228323c18204149630a7cb77d6ae0a88b425e3
@@ -10,40 +10,40 @@ ht-degree: 1%
 
 ---
 
-# Benutzerhandbuch zu Insight-Maßnahmen für Vertrieb {#sales-insight-actions-user-onboarding-guide}
+# Benutzerhandbuch zum Onboarding von Sales Insights-Aktionen {#sales-insight-actions-user-onboarding-guide}
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions ist eine webbasierte Anwendung, die ausschließlich über das [Marketo Sales Insight-Paket](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} in das Salesforce CRM integriert wird. Dies wird manchmal als &quot;Marketo-Verkäufe&quot;oder einfach als &quot;Aktionen&quot;bezeichnet.
+>Marketo Sales Insight Actions ist eine Web-basierte Anwendung, die über das [Marketo Sales Insight Package} ausschließlich mit Salesforce CRM integriert ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. Dies wird manchmal als &quot;Marketo-Vertrieb“ oder einfach als „Aktionen“ bezeichnet.
 
 >[!PREREQUISITES]
 >
->* Ein Administrator muss einen Benutzer zur Verwendung von MSI-Aktionen einladen.
->* Um Ihr Konto mit Salesforce zu aktivieren, müssen Sie in den Salesforce-Profilberechtigungen &quot;API aktiviert&quot;haben.
+>* Ein Administrator muss einen Benutzer einladen, um mit der Verwendung von MSI-Aktionen zu beginnen.
+>* Um Ihr Konto bei Salesforce zu aktivieren, müssen Sie in den Salesforce-Profilberechtigungen „API aktiviert“ haben.
 
 Neue Benutzer müssen die folgenden Schritte ausführen.
 
-1. Klicken Sie in der Begrüßungs-E-Mail auf **Erste Schritte**.
+1. Klicken Sie in der Begrüßungs-E-Mail **Erste Schritte**.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-1.png)
 
-1. Klicken Sie auf **Konto mit Salesforce aktivieren**.
+1. Klicken Sie **Konto bei Salesforce aktivieren**.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-2.png)
 
-1. Wenn Sie bereits bei Ihrem Salesforce-Konto angemeldet sind, werden Sie automatisch zum nächsten Bildschirm geleitet. Wenn Sie nicht angemeldet sind, tun Sie dies jetzt.
+1. Wenn Sie bereits bei Ihrem Salesforce-Konto angemeldet sind, werden Sie automatisch zum nächsten Bildschirm weitergeleitet. Wenn Sie nicht angemeldet sind, tun Sie dies jetzt.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-3.png)
 
 >[!NOTE]
 >
->Ihre Salesforce-E-Mail-ID und die E-Mail-Adresse Ihres Verkaufskontos müssen identisch sein.
+>Die E-Mail-ID Ihres Salesforce-Kontos und die E-Mail-ID Ihres Verkaufskontos müssen übereinstimmen.
 
-1. Klicken Sie auf **Allow**.
+1. Klicken Sie **Zulassen**.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-4.png)
 
-1. Klicken Sie auf **Start**.
+1. Klicken Sie **Starten**.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-5.png)
 
@@ -51,7 +51,7 @@ Neue Benutzer müssen die folgenden Schritte ausführen.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-6.png)
 
-1. Wählen Sie den verwendeten E-Mail-Client (Gmail oder Outlook) aus und klicken Sie auf **Weiter**.
+1. Wählen Sie den von Ihnen verwendeten E-Mail-Client (Gmail oder Outlook) und klicken Sie auf **Weiter**.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-7.png)
 
@@ -69,13 +69,13 @@ Neue Benutzer müssen die folgenden Schritte ausführen.
 
 >[!NOTE]
 >
->Wenn Sie Outlook auswählen, wird ein Bildschirm für die Outlook-Authentifizierung angezeigt, in dem Sie Ihre E-Mail-Adresse eingeben.
+>Wenn Sie sich für Outlook entscheiden, wird ein Outlook-Authentifizierungsbildschirm angezeigt, in dem Sie Ihre E-Mail-Adresse eingeben.
 
-1. Sie sehen die Erfolgsmeldung E-Mail-Verbindung einrichten und werden dann zum nächsten Bildschirm weitergeleitet.
+1. Sie sehen die Erfolgsmeldung E-Mail-Verbindung einrichten , dann werden Sie zum nächsten Bildschirm weitergeleitet.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-11.png)
 
-1. Geben Sie Ihre benutzerdefinierte Signatur ein und klicken Sie auf **Speichern** (Wenn Sie dies später über Ihre Profilseite tun möchten, klicken Sie auf **Überspringen**).
+1. Geben Sie Ihre benutzerdefinierte Signatur ein und klicken Sie auf **Speichern** (wenn Sie dies später über Ihre Profilseite tun möchten, klicken Sie auf **Überspringen**).
 
    ![](assets/sales-insight-actions-user-onboarding-guide-12.png)
 
@@ -83,14 +83,14 @@ Neue Benutzer müssen die folgenden Schritte ausführen.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-13.png)
 
-1. Sie sehen die Option, einen schnellen Einstieg in Marketo-Verkaufsaktionen anzuzeigen. Klicken Sie auf **Weiter** , um die Ansicht anzuzeigen, oder auf **Nicht jetzt&quot;** , um sie später zu speichern.
+1. Sie sehen die Option für eine kurze Einführung in die Verkaufsaktionen von Marketo. Klicken Sie **Weiter**, um sie anzuzeigen, oder **Nicht jetzt**, um sie für später zu speichern.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-14.png)
 
-1. Wenn Sie mit der Tour fertig sind oder sie übersprungen haben, wählen Sie aus, ob Sie sich direkt bei der Webanwendung oder Ihrem Salesforce-Konto anmelden möchten, über das Sie auf alle Funktionen über das MSI-Bedienfeld zugreifen können (in diesem Beispiel wählen wir **Salesforce starten**).
+1. Wenn Sie die Tour abgeschlossen haben oder sie übersprungen haben, wählen Sie aus, ob Sie sich direkt bei der Web-Anwendung oder Ihrem Salesforce-Konto anmelden möchten, über das Sie auf alle Funktionen im MSI-Bedienfeld zugreifen können (in diesem Beispiel wählen wir **Salesforce starten**).
 
    ![](assets/sales-insight-actions-user-onboarding-guide-15.png)
 
-1. Innerhalb von Salesforce (Classic oder Blitze) können Sie zu jedem Lead, Kontakt, Konto oder jeder Gelegenheit navigieren. Alle Ihre Verkaufsaktionen sind über die Dropdown-Liste im MSI-Bedienfeld verfügbar.
+1. Innerhalb von Salesforce (Classic oder Lightning) können Sie zu einem beliebigen Lead, Kontakt, Konto oder einer beliebigen Opportunity navigieren. Alle Ihre Verkaufsaktionen sind über die Dropdown-Liste im MSI-Bedienfeld verfügbar.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-16.png)

@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2952678
-description: Verwenden Sie das Warnhinweisinformationen-Token senden {{SP_Send_Alert_Info}} - Marketo Docs - Produktdokumentation
-title: Verwenden des Tokens "Send Alert Info"
+description: Verwenden der {{SP_Send_Alert_Info}} „Warnhinweis-Info-Token senden“ - Marketo-Dokumente - Produktdokumentation
+title: Verwenden des Tokens „Warnhinweisinfo senden“
 exl-id: 950eb4d1-35d5-4e5c-9624-a38284bff987
 feature: Tokens
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,13 +11,13 @@ ht-degree: 0%
 
 ---
 
-# Verwenden des Tokens &quot;Send Alert Info&quot; {#use-the-send-alert-info-token-sp-send-alert-info}
+# Verwenden des Tokens „Warnhinweisinfo senden“ {#use-the-send-alert-info-token-sp-send-alert-info}
 
-Das `{{SP_Send_Alert_Info}}` -Token ist ein spezielles Token, das beim Erstellen von Warnhinweis-E-Mails für Ihr Verkaufsteam verwendet wird.
+Das `{{SP_Send_Alert_Info}}`-Token ist ein spezielles Token, das bei der Erstellung von E-Mails zu Warnhinweisen für Ihr Verkaufsteam verwendet werden kann.
 
 >[!TIP]
 >
->Dieses Token funktioniert nur wie vorgesehen, wenn die E-Mail, die es enthält, mit dem Flussschritt [Warnung senden](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md) gesendet wird. Sie funktioniert nicht, wenn sie in einem Schritt E-Mail-Ablauf senden verwendet wird.
+>Dieses Token funktioniert nur wie vorgesehen, wenn die E-Mail, die es enthält, mit dem [Warnhinweis senden](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md) Flussschritt gesendet wird. Bei Verwendung im Schritt E-Mail senden funktioniert dies nicht.
 
 Beispiel-Warnhinweis:
 
@@ -25,22 +25,22 @@ Beispiel-Warnhinweis:
 
 >[!NOTE]
 >
->Kopf hoch! URLs in Warnhinweisen haben Ablaufdaten. Stellen Sie daher sicher, dass sie über eine Kadenz verfügen, die diese Arten von Nachrichten unterstützt. Ablaufdaten werden von einem Administrator konfiguriert ](/help/marketo/product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md).[
+>Kopf hoch! URLs in Warnhinweisen haben ein Ablaufdatum. Stellen Sie daher sicher, dass sie eine Kadenz aufweisen, die diese Nachrichtentypen unterstützt. Ablaufdaten werden [von einem Administrator konfiguriert](/help/marketo/product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md).
 
-Die folgenden Informationen sind als Teil von `{{SP_Send_Alert_Info}}` enthalten:
+Die folgenden Informationen sind Teil der `{{SP_Send_Alert_Info}}`:
 
-* Vor- und Nachname als Link zu den Personendetails in Marketo
-* Link zur Person in Ihrem CRM
-* Der Kampagnenname in Marketo, an den die Warnung gesendet wurde
-* Zeitpunkt des Versands der Warnung
+* Vor- und Nachname als Link zur Personendetails in Marketo
+* Ein Link zur Person in Ihrem CRM
+* Der Kampagnenname in Marketo, der den Warnhinweis gesendet hat
+* Der Zeitpunkt, zu dem die Warnung gesendet wurde
 
 >[!NOTE]
 >
->Der Link zum CRM-System erscheint nur, wenn sich die Person im CRM-System befindet (derzeit nicht mit Dynamics CRM verfügbar). Auf den Link können sowohl Marketo- als auch Nicht-Marketo-Benutzer zugreifen.
+>Der Link zum CRM wird nur angezeigt, wenn sich die Person im CRM-System befindet (derzeit nicht mit Dynamics CRM verfügbar). Der Link ist sowohl für Marketo- als auch für Nicht-Marketo-Benutzende verfügbar.
 
-## SP_Send_Alert_Info-Token zu einer E-Mail hinzufügen {#add-the-sp-send-alert-info-token-to-an-email}
+## Hinzufügen des Tokens SP_Send_Alert_Info zu einer E-Mail {#add-the-sp-send-alert-info-token-to-an-email}
 
-1. Wählen Sie die E-Mail aus und klicken Sie auf **Entwurf bearbeiten**.
+1. Wählen Sie die E-Mail aus und klicken Sie **Entwurf bearbeiten**.
 
    ![](assets/one-3.png)
 
@@ -48,11 +48,11 @@ Die folgenden Informationen sind als Teil von `{{SP_Send_Alert_Info}}` enthalten
 
    ![](assets/two-3.png)
 
-1. Platzieren Sie den Cursor an die Stelle, an der das Token platziert werden soll, und klicken Sie dann auf die Schaltfläche **Token einfügen** .
+1. Platzieren Sie den Cursor an der gewünschten Stelle und klicken Sie auf die Schaltfläche **Token einfügen**.
 
    ![](assets/three-3.png)
 
-1. Suchen und wählen Sie das Token **`{{SP_Send_Alert_Info}}`** aus und klicken Sie auf **Einfügen**.
+1. Suchen Sie das **`{{SP_Send_Alert_Info}}`**-Token, wählen Sie es aus und klicken Sie auf **Einfügen**.
 
    ![](assets/image2014-9-25-15-3a19-3a11.png)
 
@@ -64,4 +64,4 @@ Die folgenden Informationen sind als Teil von `{{SP_Send_Alert_Info}}` enthalten
 >
 >Vergessen Sie nicht, Ihre E-Mail zu genehmigen.
 
-Gut! Dieses Token ist sehr nützlich und sollte in allen Warnungen verwendet werden, die Sie für Ihr Verkaufsteam erstellen.
+Gut gemacht! Dieses Token ist sehr nützlich und Sie sollten es in allen Warnhinweisen verwenden, die Sie für Ihr Verkaufs-Team erstellen.

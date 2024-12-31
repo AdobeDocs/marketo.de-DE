@@ -1,7 +1,7 @@
 ---
 unique-page-id: 13796471
-description: Live Feed-Übersicht - Marketo-Dokumente - Produktdokumentation
-title: Live Feed-Übersicht
+description: Live-Feed-Übersicht - Marketo-Dokumente - Produktdokumentation
+title: Live-Feed - Übersicht
 exl-id: 646a3650-538d-4ea5-b29f-44ad6588e247
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,56 +11,56 @@ ht-degree: 0%
 
 ---
 
-# Live Feed-Übersicht {#live-feed-overview}
+# Live-Feed - Übersicht {#live-feed-overview}
 
-Der Live Feed ist ein unverankertes Fenster, das über die Webanwendung oder das Gmail-Plug-in gestartet werden kann und einen Echtzeitblick auf die Interaktion mit potenziellen Kunden bietet.
+Der Live-Feed ist ein unverankertes Fenster, das über die Web-Anwendung oder das Gmail-Plug-in gestartet werden kann und einen Echtzeitblick auf die Interaktion potenzieller Kundinnen und Kunden bietet.
 
-## Registerkarte &quot;Interaktion&quot; {#engagement-tab}
+## Registerkarte „Interaktion“ {#engagement-tab}
 
 ![](assets/engagement.jpg)
 
-Zeigen Sie die Interaktion (Ansichten, Klicks und Antworten) mit Ihren MSE-E-Mails in Echtzeit an.
+Interaktion (Ansichten, Klicks und Antworten) mit Ihren E-Mail-Nachrichten in Echtzeit anzeigen.
 
-Mit violett markierte Personen interagieren mit Ihren Marketing-Inhalten. Diese Personen sind in MSE möglicherweise nicht vorhanden. Sie können auf den Abwärtspfeil klicken, um sie hinzuzufügen, und eine Liste weiterer Schnellaktionen abrufen.
+Mit Lila gekennzeichnete Personen interagieren mit Ihren Marketing-Inhalten. Diese Menschen existieren möglicherweise nicht bei MSE. Sie können auf den Abwärtspfeil klicken, um sie hinzuzufügen, und eine Liste anderer Schnellaktionen abrufen.
 
 ![](assets/purple.png)
 
-Personen, die mit einer blauen Zeile markiert sind, repräsentieren die Interaktion mit E-Mails, die über MSE gesendet werden.
+Mit einer blauen Linie markierte Personen stellen die Interaktion mit E-Mails dar, die über MSE gesendet werden.
 
 >[!NOTE]
 >
->Insgesamt bestimmen wir Standorte so genau, wie wir auf der IP-Verfolgung basieren können. Leider ist es keine exakte Wissenschaft. Wenn der Standort für einen Ihrer Empfänger falsch ist, gibt es hier einige Möglichkeiten, was möglicherweise passiert ist:
+>Insgesamt ermitteln wir Standorte so genau wie möglich auf Basis des IP-Trackings. Leider ist es keine exakte Wissenschaft. Wenn wir den Standort für einen Ihrer Empfänger falsch einschätzen, gibt es hier einige Optionen, was möglicherweise passiert ist:
 >
->* Wenn Ihr Empfänger bei einem Unternehmen mit IT-Hauptsitz in einem anderen Ort oder Land im Wireless-Netzwerk angemeldet war, protokollieren wir diesen Standort anstelle des aktuellen Gebietsschemas des Empfängers.
->* Wenn Ihre E-Mail von einer Person im CC/BCC-Feld weitergeleitet oder geöffnet wurde, versuchen wir, den Standort dieser Personen genau anzuzeigen.
+>* Wenn Ihr Empfänger beim Wireless-Netzwerk für ein Unternehmen angemeldet war, das seinen IT-Hauptsitz in einer anderen Stadt oder einem anderen Land hat, würden wir diesen Standort anstatt des aktuellen Gebietsschemas des Empfängers protokollieren.
+>* Wenn Ihre E-Mail von einer Person im Feld CC/BCC weitergeleitet oder geöffnet wurde, versuchen wir, den Standort dieser Personen genau anzuzeigen.
 
-## Registerkarte &quot;Aufgaben&quot; {#tasks-tab}
+## Registerkarte „Aufgaben“ {#tasks-tab}
 
 ![](assets/task.jpg)
 
-Überprüfen Sie Ihre Aufgabenliste schnell direkt über den Live-Feed.
+Überprüfen Sie Ihre Aufgabenliste direkt über den Live-Feed.
 
-Erstellen Sie neue Aufgaben oder verwalten Sie offene Aufgaben.
+Neue Aufgaben erstellen oder offene Aufgaben verwalten
 
-Filtern Sie nach heute, morgen, heute *und* morgen oder den nächsten sieben Tagen.
+Filtern Sie nach heute, morgen, heute *und* morgen oder nach den nächsten 7 Tagen.
 
 >[!NOTE]
 >
->Sie können den benutzerdefinierten Datumsfilter nicht im Live Feed verwenden, aber in der Webanwendung.
+>Sie können den benutzerdefinierten Datumsfilter im Live-Feed nicht verwenden, aber Sie können ihn in der Web-Anwendung verwenden.
 
-Verwenden Sie Schnellaktionsschaltflächen, um schnell einen Aufruf vorzunehmen, eine E-Mail zu senden oder zum LinkedIn-Profil einer Person zu navigieren.
+Verwenden Sie Schnellzugriff-Schaltflächen, um schnell einen Anruf zu tätigen, eine E-Mail zu senden oder zum LinkedIn-Profil einer Person zu navigieren.
 
-## Target-Registerkarte {#target-tab}
+## Registerkarte „Target“ {#target-tab}
 
 ![](assets/target.jpg)
 
-Sehen Sie sich Ihre Top-Personen (geordnet von der höchsten zur niedrigsten) nach Lead-Punktzahl an. Die Lead-Punktzahl wird aus Ihrer Marketo-Instanz übernommen.
+Anzeige der Rangfolge Ihrer wichtigsten Personen (vom höchsten zum niedrigsten) nach Lead-Score. Die Lead-Bewertung wird aus Ihrer Marketo-Instanz übernommen.
 
-* Leads werden generiert, wenn der Personenwert in Marketo steigt.
-* Wir zeigen die 50 wichtigsten Leads.
+* Leads werden generiert, wenn sich ihr persönlicher Score in Marketo erhöht.
+* Wir zeigen die 50 besten Leads.
 * Sie sehen nur die Personen, die Ihnen in Salesforce zugewiesen wurden.
 
-## Symbol Glossar {#icon-glossary}
+## Symbol-Glossar {#icon-glossary}
 
 <table> 
  <colgroup> 
@@ -94,11 +94,11 @@ Sehen Sie sich Ihre Top-Personen (geordnet von der höchsten zur niedrigsten) na
     <div> 
      <p><img alt="--" width="20" src="assets/im-icon.png" data-linked-resource-id="45417225" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
     </div></td> 
-   <td colspan="1">Alle unter "Interessante Momente"aufgelisteten Benachrichtigungen, einschließlich E-Mail, Web und Meilensteinen</td> 
+   <td colspan="1">Jede Benachrichtigung, die unter Interessante Momente aufgeführt ist, einschließlich E-Mail, Web und Meilensteine</td> 
   </tr> 
  </tbody> 
 </table>
 
 >[!NOTE]
 >
->Wenn Sie sehen, dass eine Person Ihre E-Mail in Ihrem Live-Feed immer wieder anzeigt, könnte sie die E-Mail an zusätzliche Empfänger weitergeleitet haben. Dies ist höchstwahrscheinlich der Fall, wenn Sie feststellen, dass sich der Standort für diese Ansichten ändert.
+>Wenn Sie jemanden sehen, der Ihre E-Mail immer wieder in Ihrem Live-Feed anzeigt, könnte er die E-Mail an weitere Empfänger weitergeleitet haben. Dies ist wahrscheinlich der Fall, wenn Sie bemerken, dass sich die Position für diese Ansichten ändert.

@@ -13,20 +13,20 @@ ht-degree: 0%
 
 # Deaktivieren einer Kampagne {#turn-off-a-campaign}
 
-Muss eine Kampagne automatisch beendet werden, wenn ein Empfänger antwortet? So geht es.
+Muss eine Kampagne automatisch beendet werden, wenn ein Empfänger antwortet? So geht&#39;s.
 
 >[!NOTE]
 >
->Dies ist nur für Kunden verfügbar, die in Gmail oder Exchange integriert sind und die Antwort-Tracking aktiviert haben.
+>Dies ist nur für Kunden verfügbar, die mit Gmail oder Exchange integriert sind und für die das Antwort-Tracking aktiviert ist.
 
 ## Deaktivieren einer Kampagne für eine Person {#turn-off-a-campaign-for-one-person}
 
-Nachdem Sie Ihre Kampagne erstellt haben, gehen Sie einfach zum Tab **Einstellungen** und wählen Sie aus, wie sich die Kampagne verhalten soll, wenn jemand antwortet.
+Nachdem Sie Ihre Kampagne erstellt haben, wechseln Sie einfach zur Registerkarte **Einstellungen** und wählen Sie aus, wie sich die Kampagne verhalten soll, wenn jemand antwortet.
 
-Beide Optionen beenden die Kampagne und der Empfänger erhält keine E-Mails mehr von Ihnen.
+Beide Optionen beenden die Kampagne, und der Empfänger erhält keine weiteren E-Mails von Ihnen.
 
 ## Deaktivieren einer Kampagne für mehrere Personen {#turn-off-a-campaign-for-multiple-people}
 
-Wählen Sie in Ihrem Ordner Kontakte aus, um sie aus der Kampagne zu entfernen, wobei der Filter auf &quot;Alle&quot;gesetzt ist, um alle Empfänger einer Kampagne zu erfassen.
+Wählen Sie in Ihrem Ordner Gesendet Kontakte aus, um sie aus der Kampagne zu entfernen, wobei der Filter auf „Alle“ eingestellt ist, um alle zu erfassen, die eine Kampagne erhalten haben.
 
-Sie können auch direkt zur Kampagne gehen, in der sie sich befinden, und sie stapelweise entfernen.
+Alternativ können Sie direkt zur Kampagne gehen, in der sie sich befinden, und sie stapelweise entfernen.

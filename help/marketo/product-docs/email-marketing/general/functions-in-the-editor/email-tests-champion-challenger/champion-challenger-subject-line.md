@@ -1,41 +1,41 @@
 ---
 unique-page-id: 2359557
-description: Champion/Challenger - Subject Line - Marketo Docs - Produktdokumentation
+description: Champion/Challenger - Betreffzeile - Marketo-Dokumente - Produktdokumentation
 title: Champion/Challenger - Betreffzeile
 exl-id: c1c75979-d1a9-459d-a0da-b4bb769372d5
 feature: Email Editor
 source-git-commit: c17bd1a623c46786f14c21c8fad718cdfeeec3cd
 workflow-type: tm+mt
 source-wordcount: '277'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 # Champion/Challenger: Betreffzeile {#champion-challenger-subject-line}
 
-Sie können mühelos mehrere Betreffzeilen testen. Wenn der Test beendet ist, senden Sie E-Mails mit der effektivsten E-Mail. Hier ist, wie man das macht.
+Sie können auf einfache Weise mehrere Betreffzeilen testen. Senden Sie nach Abschluss des Tests E-Mails mit der effektivsten E-Mail. So geht das.
 
 >[!PREREQUISITES]
 >
 >[E-Mail-Champion/Challenger hinzufügen](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. Wählen Sie im E-Mail-Testeditor **Betreffzeile** in der Dropdown-Liste **Testtyp** aus.
+1. Wählen Sie im E-Mail **Testeditor in der Dropdown** Liste **Testtyp** die Option „Betreffzeile“ aus.
 
    ![](assets/image2014-9-15-12-3a37-3a50.png)
 
    >[!NOTE]
    >
-   >Bei einem Betrefftest wird die erste eingegebene Betreffzeile als **Champion** bezeichnet. Nachfolgende Betreffzeilen werden als **Challengers** bezeichnet.
+   >Bei einem Betrefftest wird die erste eingegebene Betreffzeile als &quot;**&quot;**. Die nachfolgenden Betreffzeilen werden als **bezeichnet**.
 
-1. Geben Sie die Betreffzeile für die **Challengers** ein.
+1. Geben Sie die Betreffzeile(n) für die **Challengers** ein.
 
    ![](assets/image2014-9-15-12-3a38-3a4.png)
 
    >[!TIP]
    >
-   >Wenn Sie mehr als einen Challenger benötigen, klicken Sie auf das Pluszeichen und geben Sie eine andere Betreffzeile ein.
+   >Wenn Sie mehr als einen Herausforderer wünschen, klicken Sie auf das Pluszeichen und geben Sie eine weitere Betreffzeile ein.
 
-1. Ziehen Sie den Schieberegler, um die Prozentaufteilung zwischen Personen zu bestimmen, die die Betreffzeile des Champions und die Betreffzeile des Herausforderers erhalten.
+1. Ziehen Sie den Schieberegler, um die prozentuale Aufteilung zwischen Personen zu bestimmen, die die Champion-Betreffzeile erhalten, und Challenger-Betreffzeile(n).
 
    ![](assets/image2015-8-7-15-3a19-3a50.png)
 
@@ -43,9 +43,9 @@ Sie können mühelos mehrere Betreffzeilen testen. Wenn der Test beendet ist, se
    >
    >**Beispiel**
    >
-   >In der oben gezeigten Verteilung erhalten 10 % der in der Smart-Liste angegebenen Zielgruppe eine E-Mail mit der Betreffzeile des Herausforderers und 90 % erhalten E-Mails mit der Betreffzeile des Meisters. E-Mails mit mehreren herausfordernden Betreffzeilen verwenden die gleichen 10 %. Wenn der Test beendet ist, können Sie einen Gewinner manuell feststellen. Von diesem Zeitpunkt an erhalten alle zukünftigen Menschen die leistungsfähigeren Inhalte. In Trigger-Kampagnen kann der realisierte Prozentsatz vom gewählten Prozentsatz abweichen, da die Verteilung möglicherweise nicht genau an den ausgewählten Prozentsätzen ausgerichtet ist. Dies kann vorkommen, wenn eine Variante eine erhebliche Anzahl von Abonnenten verarbeitet oder wenn eine Variante eine operative E-Mail ist, die anderen nicht.
+   >In der oben gezeigten Verteilung erhalten 10 % der gesamten in der Smart-Liste angegebenen Audience eine der E-Mails mit der Betreffzeile des Challenger und 90 % erhalten E-Mails mit der Betreffzeile des Champions. E-Mails mit mehreren Challenger-Betreffzeilen teilen sich die 10 % gleichmäßig. Wenn der Test vorbei ist, können Sie manuell einen Gewinner bestimmen. Von da an erhalten alle zukünftigen Personen die leistungsfähigeren Inhalte. In Trigger-Kampagnen kann der realisierte Prozentsatz von dem ausgewählten Prozentsatz abweichen, da die Verteilung möglicherweise nicht genau mit den ausgewählten Prozentsätzen übereinstimmt. Dies kann vorkommen, wenn eine Variante eine erhebliche Anzahl abgemeldeter Personen verarbeitet oder wenn eine Variante eine operative E-Mail ist, die anderen jedoch nicht.
 
-   Um statistische Genauigkeit zu erhalten, stellen Sie sicher, dass der gewählte Prozentsatz genügend Personen enthält, damit Ihr Test gültig ist. Lassen Sie sich nicht von unschlüssigen Ergebnissen täuschen.
+   Um statistische Konfidenz zu gewinnen, stellen Sie sicher, dass der ausgewählte Prozentsatz genügend Personen umfasst, sodass Ihr Test gültig ist. Lassen Sie sich nicht von nicht eindeutigen Ergebnissen täuschen.
 
 1. Klicken Sie auf **Weiter**.
 
@@ -55,4 +55,4 @@ Sie können mühelos mehrere Betreffzeilen testen. Wenn der Test beendet ist, se
 
    >[!MORELIKETHIS]
    >
-   >[Champion/Challenger: Champion-Kriterien definieren](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
+   >[Champion/Challenger: Definieren Sie Champion-Kriterien](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)

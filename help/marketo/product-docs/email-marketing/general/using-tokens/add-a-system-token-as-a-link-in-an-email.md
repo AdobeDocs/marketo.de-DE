@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1900573
-description: Hinzufügen eines System-Tokens als Link in einer E-Mail - Marketo Docs - Produktdokumentation
+description: Hinzufügen eines System-Tokens als Link in einer E-Mail - Marketo-Dokumente - Produktdokumentation
 title: Hinzufügen eines System-Tokens als Link in einer E-Mail
 exl-id: 9156be24-18ae-44ea-96e5-a6257ff29b46
 feature: Tokens
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Hinzufügen eines System-Tokens als Link in einer E-Mail {#add-a-system-token-as-a-link-in-an-email}
 
-Sie können diese System-Token verwenden, um die Position von speziellen Links in Ihren E-Mails anzupassen.
+Sie können diese System-Token verwenden, um die Position spezieller Links in Ihren E-Mails anzupassen.
 
-Die folgenden Token können als Links in einer E-Mail- oder E-Mail-Vorlage verwendet werden:
+Die folgenden Token können als Links in einer E-Mail oder E-Mail-Vorlage verwendet werden:
 
 * `{{system.forwardToFriendLink}}`
 * `{{system.unsubscribeLink}}`
@@ -23,11 +23,11 @@ Die folgenden Token können als Links in einer E-Mail- oder E-Mail-Vorlage verwe
 
 >[!NOTE]
 >
->Diese Token können nur dann auf **nicht** geklickt werden, wenn sie sich in einem Ankerlink befinden. Außerdem können sie **nicht** in ein My Token eingebettet werden.
+>Auf diese Token kann **nicht** geklickt werden, es sei denn, sie befinden sich innerhalb eines Anker-Links. Außerdem können sie **nicht** in ein My Token eingebettet werden.
 
 So fügen Sie sie einer E-Mail hinzu:
 
-1. Suchen und wählen Sie Ihre E-Mail aus und klicken Sie dann auf **Entwurf bearbeiten**.
+1. Suchen Sie Ihre E-Mail, wählen Sie sie aus und klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/one-1.png)
 
@@ -35,17 +35,17 @@ So fügen Sie sie einer E-Mail hinzu:
 
    ![](assets/two-1.png)
 
-1. Markieren Sie den Text, den Sie in einen Link konvertieren möchten, der das Token enthält, und klicken Sie auf die Schaltfläche **Link einfügen/bearbeiten** .
+1. Markieren Sie den Text, der in einen Link mit dem Token konvertiert werden soll, und klicken Sie auf die Schaltfläche **Link einfügen/bearbeiten**.
 
    ![](assets/three-1.png)
 
-1. Geben Sie das Token in die Link-URL ein und klicken Sie auf **Einfügen**.
+1. Geben Sie das Token in der Link-URL ein und klicken Sie auf **Einfügen**.
 
    ![](assets/four-1.png)
 
    >[!TIP]
    >
-   >Kopieren/Einfügen Sie das gewünschte Token: **`{{system.forwardToFriendLink}}`** oder **`{{system.unsubscribeLink}}`** oder **`{{system.viewAsWebpageLink}}`**
+   >Kopieren Sie das gewünschte Token oder fügen Sie es ein: **`{{system.forwardToFriendLink}}`** oder **`{{system.unsubscribeLink}}`** oder **`{{system.viewAsWebpageLink}}`**
 
 1. Klicken Sie auf **Speichern**.
 
@@ -53,10 +53,10 @@ So fügen Sie sie einer E-Mail hinzu:
 
 >[!IMPORTANT]
 >
->Wenn Sie diesen Ansatz verwenden, um das System-Token &quot;viewAsWebpageLink&quot;hinzuzufügen, können Sie es mit Token **nicht** überschreiben. Verwenden Sie stattdessen den Ansatz [Als Webseitenlink anzeigen zu einer E-Mail hinzufügen](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md) , mit dem Sie &quot;viewAsWebPageLink&quot;mithilfe von Token überschreiben können.
+>Wenn Sie diesen Ansatz verwenden, um das System-Token „viewAsWebPageLink“ hinzuzufügen, können Sie es **nicht** mit Token überschreiben. Verwenden Sie stattdessen den Ansatz [Ansicht als Webseitenlink zu E-Mail hinzufügen](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md) mit dem Sie „viewAsWebPageLink“ mithilfe von Token überschreiben können.
 
 >[!NOTE]
 >
->Vergessen Sie nicht, nach Abschluss [Ihre E-Mail zu genehmigen](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md).
+>Vergessen Sie nicht, Ihre E[Mail zu genehmigen](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md) wenn Sie fertig sind.
 
-Schön gemacht! Jetzt wissen Sie, wie Sie ein System-Token als Link in einer E-Mail hinzufügen können.
+Gut gemacht! Jetzt wissen Sie, wie Sie ein System-Token als Link in einer E-Mail hinzufügen.

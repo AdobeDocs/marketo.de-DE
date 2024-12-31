@@ -1,6 +1,6 @@
 ---
-description: Ist Sales Insight-Aktionen mit Salesforce-Blitzen kompatibel? - Marketo-Dokumente - Produktdokumentation
-title: Ist Sales Insight-Aktionen mit Salesforce-Blitzen kompatibel?
+description: Sind Sales Insight-Aktionen mit Salesforce Lightning kompatibel? - Marketo-Dokumente - Produktdokumentation
+title: Sind Sales Insight-Aktionen mit Salesforce Lightning kompatibel?
 hide: true
 hidefromtoc: true
 exl-id: 6c119652-8243-4fd2-ad29-1d87ffebf757
@@ -12,12 +12,12 @@ ht-degree: 0%
 
 ---
 
-# Ist Sales Insight-Aktionen mit Salesforce-Blitzen kompatibel? {#is-sales-insight-actions-compatible-with-salesforce-lightning}
+# Sind Sales Insight-Aktionen mit Salesforce Lightning kompatibel? {#is-sales-insight-actions-compatible-with-salesforce-lightning}
 
 Ja, Sales Insight-Aktionen sind mit Salesforce Lightning kompatibel.
 
-Bitte [klicken Sie hier](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf) für das Installations- und Erfolgshandbuch.
+Bitte [klicken Sie hier](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf) für die Installations- und Erfolgshandbuch.
 
 >[!NOTE]
 >
->Schaltflächen für Einblicke in Verkaufsaktionen für Massenaktionen sind in den Listenansichten &quot;Lead&quot;und &quot;Kontakt&quot;verfügbar.
+>Die Schaltflächen für Sales Insight-Aktionen für Massenaktionen sind in den Listen-Ansichten Lead und Kontakt verfügbar.

@@ -13,10 +13,10 @@ ht-degree: 0%
 
 # Anpassungsversionen {#customization-versions}
 
-Im Folgenden finden Sie Details zu Aktualisierungen, die an Ihren Marketo Sales Connect-Anpassungen für Salesforce vorgenommen werden.
+Im Folgenden finden Sie Details zu Aktualisierungen Ihrer Marketo Sales Connect-Anpassungen für Salesforce.
 
 **Version 1**
-Aktivitätsfelder, Kontaktfelder, Lead-Felder, Kontofelder , Opportunity-Felder, Schaltflächen, [diese Marketo-Felder](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md).
+Aktivitätsfelder, Kontaktfelder, Lead-Felder, Kontofelder , Opportunity-Felder, Schaltflächen [diese Marketo-Felder](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md).
 
 **Version 1.1**
-Aktivitätsfelder, Kontaktfelder, Lead-Felder, Kontofelder , Opportunity-Felder, Schaltflächen, Marketo-Felder sind jetzt im Seitenlayout für Salesforce-Blitze verfügbar.
+Aktivitätsfelder, Kontaktfelder, Lead-Felder, Kontofelder , Opportunity-Felder, Schaltflächen und Marketo-Felder sind jetzt im Seiten-Layout für Salesforce Lightning verfügbar.

@@ -1,7 +1,7 @@
 ---
 unique-page-id: 14352436
-description: Lokale Präsenz des Verkaufsteams - Marketo-Dokumente - Produktdokumentation
-title: Lokale Präsenz von Verkaufs-Telefonen
+description: Telefonische Präsenz vor Ort - Marketo-Dokumente - Produktdokumentation
+title: Vertriebstelefon mit lokaler Präsenz
 exl-id: 8ebd971f-caf6-40ac-8067-dd0028fec9ab
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,24 +11,24 @@ ht-degree: 0%
 
 ---
 
-# Lokale Präsenz von Verkaufs-Telefonen {#sales-phone-local-presence}
+# Vertriebstelefon mit lokaler Präsenz {#sales-phone-local-presence}
 
-Wenn Sie aus demselben Bereichscode eines Benutzers aufrufen möchten, aktivieren Sie einfach das Kontrollkästchen **Lokale Präsenz** , bevor Sie den Aufruf durchführen.
+Wenn Sie so aussehen möchten, als würden Sie von derselben Ortsvorwahl aus anrufen, aktivieren Sie einfach das **Lokale Anwesenheit**, bevor Sie den Anruf tätigen.
 
 ## Häufig gestellte Fragen zur lokalen Präsenz {#local-presence-faq}
 
-**Kann mein Kontakt mich unter dieser neuen Nummer zurückrufen?**
+**Kann mich mein Ansprechpartner unter dieser neuen Nummer zurückrufen?**
 
-Nein, die lokale Präsenz funktioniert nur bei ausgehenden Aufrufen. Der Anrufer kann Sie unter dieser &quot;neuen&quot;Nummer nicht zurückrufen.
+Nein, die lokale Präsenz funktioniert nur für ausgehende Anrufe. Der Anrufer kann Sie unter dieser „neuen“ Nummer nicht zurückrufen.
 
-**Kann ich mit der lokalen Präsenz irgendwo aufrufen?**
+**Kann ich mit lokaler Präsenz anrufen?**
 
-Wir bieten alle Funktionen für Verkaufs-Telefonanrufe nur in den USA an.
+Wir bieten alle Sales Phone-Funktionen nur für Anrufe in den USA.
 
-**Ist die lokale Präsenznummer immer gleich, wenn ich einen Gebietscode aufrufe?**
+**Ist die lokale Anwesenheitsnummer beim Aufruf einer Ortsvorwahl immer gleich?**
 
-Die Zahl ist wahrscheinlich immer gleich, wenn Sie in einen Bereichscode aufrufen.
+Die Nummer ist wahrscheinlich immer dieselbe, wenn Sie eine Ortsvorwahl anrufen.
 
-**Ändert sich meine gesamte Zahl oder nur der Bereichscode bei Verwendung der lokalen Präsenz?**
+**Ändert sich meine ganze Nummer oder nur die Ortsvorwahl, wenn ich eine lokale Präsenz verwende?**
 
-Ihre ganze Zahl wird sich ändern.
+Ihre gesamte Nummer wird sich ändern.

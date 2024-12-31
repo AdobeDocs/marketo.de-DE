@@ -1,7 +1,7 @@
 ---
 unique-page-id: 14352630
-description: Eine Vorlage löschen - Marketo Docs - Produktdokumentation
-title: Eine Vorlage löschen
+description: Löschen einer Vorlage - Marketo-Dokumente - Produktdokumentation
+title: Löschen einer Vorlage
 exl-id: b3b1be67-b12d-44a4-b290-cbb266f2c328
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# Eine Vorlage löschen {#delete-a-template}
+# Löschen einer Vorlage {#delete-a-template}
 
 Führen Sie die folgenden einfachen Schritte aus, um eine Vorlage zu löschen.
 
@@ -23,4 +23,4 @@ Führen Sie die folgenden einfachen Schritte aus, um eine Vorlage zu löschen.
 
 1. Klicken Sie oben rechts auf das Dropdown-Menü und dann auf **Löschen**.
 
-1. Klicken Sie zur Bestätigung auf **Löschen** .
+1. Klicken Sie **Löschen** zur Bestätigung.

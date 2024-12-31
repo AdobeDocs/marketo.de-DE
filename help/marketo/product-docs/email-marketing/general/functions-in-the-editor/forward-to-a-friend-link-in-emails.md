@@ -1,7 +1,7 @@
 ---
 unique-page-id: 1900581
-description: Weiterleiten an einen Freunde-Link in E-Mails - Marketo-Dokumente - Produktdokumentation
-title: Weiterleiten an einen Freunde-Link in E-Mails
+description: Weiterleiten an einen Freund-Link in E-Mails - Marketo-Dokumente - Produktdokumentation
+title: Link zu einem Freund in E-Mails weiterleiten
 exl-id: 7addac65-4207-419f-845c-d6b2d08d299c
 feature: Email Editor
 source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
@@ -11,23 +11,23 @@ ht-degree: 0%
 
 ---
 
-# Weiterleiten an einen Freunde-Link in E-Mails {#forward-to-a-friend-link-in-emails}
+# Link zu einem Freund in E-Mails weiterleiten {#forward-to-a-friend-link-in-emails}
 
-Wenn Sie den Link &quot;Weiterleiten an Freunde&quot; zu Ihren E-Mails hinzufügen, können Sie Personen, die über diesen Link eine weitergeleitete E-Mail erhalten haben, verfolgen und diese automatisch als neue Person hinzufügen, wenn sie noch nicht in der Datenbank sind.
+Wenn Sie den Link „An Freunde weiterleiten“ zu Ihren E-Mails hinzufügen, können Sie Personen verfolgen, die eine weitergeleitete E-Mail über diesen Link erhalten haben, und sie automatisch als neue Person hinzufügen, wenn sie sich noch nicht in der Datenbank befinden.
 
-Angenommen, Keith verwendet den Link &quot;Weiterleiten an Freunde&quot;, um die E-Mail an eine unbekannte Person, Mark, weiterzuleiten. Mark wird automatisch als neue Person hinzugefügt, erhält sein eigenes Cookie und jede seiner E-Mail- und Web-Aktivitäten ist mit ihm verknüpft. Wenn Keith jedoch die Weiterleitungs-Schaltfläche in seinem E-Mail-Client verwendet, wird Mark fälschlicherweise als Keith-Cookie gesetzt und seine Aktivität wird als Keith&#39;s protokolliert.
+Angenommen, Keith verwendet den Link „An Freund weiterleiten“, um die E-Mail an eine unbekannte Person, Mark, weiterzuleiten. Mark wird automatisch als neue Person hinzugefügt, bekommt ein eigenes Cookie zugewiesen und jede seiner E-Mail- und Web-Aktivitäten wird mit ihm verknüpft. Wenn Keith jedoch die Weiterleitungs-Schaltfläche in seinem E-Mail-Client verwendet, wird Mark fälschlicherweise als Keith Cookies gesetzt und seine Aktivität wird als Keith&#39;s protokolliert.
 
 ## Link zu einer E-Mail-Vorlage hinzufügen {#add-the-link-to-an-email-template}
 
-1. Wechseln Sie zu **Design Studio**.
+1. Gehen Sie zum **Design Studio**.
 
    ![](assets/one-8.png)
 
-1. Wählen Sie die E-Mail-Vorlage aus, zu der Sie den Link hinzufügen möchten. Klicken Sie auf **Entwurf bearbeiten**.
+1. Suchen Sie die E-Mail-Vorlage, der Sie den Link hinzufügen möchten, und wählen Sie sie aus. Klicken Sie **Entwurf bearbeiten**.
 
    ![](assets/two-7.png)
 
-1. Fügen Sie den folgenden HTML-Code an die Stelle ein, an der der Link &quot;Weiterleiten an Freunde&quot;angezeigt werden soll (wenn Sie Hilfe zu diesem Teil benötigen, wenden Sie sich bitte an Ihren Web-Entwickler):
+1. Fügen Sie den folgenden HTML-Code ein, auf dem der Link „An Freund weiterleiten“ angezeigt werden soll (wenn Sie Hilfe zu diesem Teil benötigen, wenden Sie sich bitte an Ihren Web-Entwickler):
 
    `<a href="{{system.forwardToFriendLink}}">Forward to Friend</a>`
 
@@ -42,73 +42,73 @@ Angenommen, Keith verwendet den Link &quot;Weiterleiten an Freunde&quot;, um die
 
    >[!CAUTION]
    >
-   >Es wird nicht empfohlen, den Stil **position:relative** in Ihrer E-Mail-Vorlage zu verwenden. Es können Probleme mit der Position und Anzeige des Felds &quot;Weiterleiten an Freunde&quot;auftreten.
+   >Es wird davon abgeraten, den Stil **position:relative** in Ihrer E-Mail-Vorlage zu verwenden. Dies kann zu Problemen mit der Position und Anzeige des Feldes „An Freund weiterleiten“ führen.
 
-1. Klicken Sie auf **Vorschau des Entwurfs anzeigen** , um sicherzustellen, dass die Vorlage wie gewünscht aussieht.
+1. Klicken Sie **Vorschau des Entwurfs**, um sicherzustellen, dass die Vorlage Ihren Vorstellungen entspricht.
 
    ![](assets/four-5.png)
 
    >[!NOTE]
    >
-   >Denken Sie daran, den Vorlagenentwurf zu validieren, um die Änderungen anzuwenden.
+   >Denken Sie daran, den Vorlagenentwurf zu genehmigen, um die Änderungen anzuwenden.
 
-   Jetzt haben alle E-Mails, die diese Vorlage verwenden, den Link &quot;Weiterleiten an Freunde&quot;. Wenn der E-Mail-Empfänger darauf klickt, wird er mit der Box &quot;Weiterleiten an einen Freund&quot;zu einer Web-Version der E-Mail weitergeleitet:
+   Jetzt haben alle E-Mails, die diese Vorlage verwenden, den Link „An Freund weiterleiten“. Wenn der E-Mail-Empfänger darauf klickt, wird er zu einer Web-Version der E-Mail mit dem Feld „An einen Freund weiterleiten“ weitergeleitet:
 
    ![](assets/f2afbox.png)
 
-## Link zu einer einzelnen E-Mail hinzufügen {#add-the-link-to-an-individual-email}
+## Hinzufügen des Links zu einer einzelnen E-Mail {#add-the-link-to-an-individual-email}
 
-Sie können den Link &quot;Weiterleiten an Freunde&quot;auch direkt in eine E-Mail einfügen.
+Sie können den Link „An Freund weiterleiten“ auch direkt in eine E-Mail einfügen.
 
-1. Öffnen Sie die E-Mail, in der Sie den Link einfügen möchten, und doppelklicken Sie auf den bearbeitbaren Bereich.
+1. Öffnen Sie die E-Mail, in die Sie den Link einfügen möchten, und doppelklicken Sie in den bearbeitbaren Bereich.
 
    ![](assets/five-4.png)
 
-1. Platzieren Sie den Cursor an die Stelle, an der der Link erscheinen soll, und klicken Sie auf die Schaltfläche **Token einfügen** .
+1. Platzieren Sie den Cursor an der gewünschten Stelle, und klicken Sie auf die Schaltfläche **Token einfügen**.
 
    ![](assets/six-2.png)
 
-1. Wählen Sie das **`{{system.forwardToFriendLink}}`** -Token aus.
+1. Wählen Sie das **`{{system.forwardToFriendLink}}`** Token aus.
 
    ![](assets/seven-1.png)
 
    >[!NOTE]
    >
-   >Dieses Token ist die URL der Webversion der E-Mail mit dem Feld &quot;Weiterleiten an Freunde&quot;.
+   >Dieses Token ist die URL der Web-Version der E-Mail mit dem Feld „An Freund weiterleiten“.
 
-1. Schreiben Sie, was der Anzeigetext des Links sein soll (z. B. &quot;Weiterleiten an einen Freund&quot;).
+1. Schreiben Sie auf, was der Anzeigetext des Links sein soll (z. B. „An einen Freund weiterleiten„).
 
    ![](assets/seven-1.png)
 
-1. Ausschneiden des **`{{system.forwardToFriendLink}}`**-Tokens mit Strg+X (Windows) oder Befehl+X (Mac). Markieren Sie &quot;Weiterleiten an einen Freund&quot;und klicken Sie auf die Schaltfläche **Link einfügen/bearbeiten** .
+1. Ausschneiden des **`{{system.forwardToFriendLink}}`**-Tokens mithilfe von Strg+X (Windows) oder Befehl+X (Mac). Markieren Sie „An einen Freund weiterleiten“ und klicken Sie auf die Schaltfläche **Link einfügen/bearbeiten**.
 
    ![](assets/eight-1.png)
 
-1. Fügen Sie das Token **`{{system.forwardToFriendLink}}`** mithilfe von Strg/Befehl+V in das Feld **URL** ein und klicken Sie dann auf **Einfügen**.
+1. Fügen Sie das **`{{system.forwardToFriendLink}}`**-Token mithilfe von Strg **/Befehlstaste+V in das Feld URL** ein und klicken Sie dann auf **Einfügen**.
 
    ![](assets/nine.png)
 
-1. Speichern Sie die Bearbeitung und sehen Sie sich Ihren neuen Link in der Vorschau an!
+1. Speichern Sie die Änderungen und zeigen Sie eine Vorschau Ihres neuen Links an!
 
    ![](assets/ten-1.png)
 
    >[!NOTE]
    >
-   >Neue Personen, die durch den Erhalt der E-Mail &quot;Weiterleiten an Freunde&quot;hinzugefügt werden, werden standardmäßig von Marketing-E-Mails abgemeldet.
+   >Neue Personen, die durch den Erhalt einer „Weiterleiten an einen Freund“-E-Mail hinzugefügt werden, werden standardmäßig von Marketing-E-Mails abgemeldet.
 
-## Weiterleitungsaktivität anzeigen {#view-forwarding-activity}
+## Aktivität „Weiterleitung anzeigen“ {#view-forwarding-activity}
 
-Sie können im Aktivitätsprotokoll der Person sehen, wer die E-Mails weitergeleitet und empfangen hat.
+Sie können sehen, wer die E-Mails im Aktivitätsprotokoll der Person weitergeleitet und erhalten hat.
 
-1. Wechseln Sie zu &quot;**`Database`**&quot;.
+1. Gehen Sie zum **`Database`**.
 
    ![](assets/db.png)
 
-1. Doppelklicken Sie auf die Person, für die Sie die Aktivität anzeigen möchten.
+1. Doppelklicken Sie auf die Person, für die Sie eine Aktivität anzeigen möchten.
 
    ![](assets/fourteen.png)
 
-1. Gehen Sie zur Registerkarte **Aktivitätsprotokoll** . Doppelklicken Sie auf **Weitergeleitet an Freunde-E-Mail** oder auf **Weitergeleitet an Freunde-E-Mail** , um Details anzuzeigen.
+1. Navigieren Sie zur Registerkarte **Aktivitätsprotokoll** . Doppelklicken Sie auf **E-Mail an Freund weiterleiten** oder **E-Mail an Freund weiterleiten**, um die Details anzuzeigen.
 
    ![](assets/fifteen.png)
 
@@ -116,9 +116,9 @@ Sie können im Aktivitätsprotokoll der Person sehen, wer die E-Mails weitergele
    >
    >**Definition**
    >
-   >Für &quot;Weitergeleitet an Freunde-E-Mail&quot;ist die Personen-ID die Person, die die E-Mail weitergeleitet hat.
+   >Bei empfangenen Weiterleitungs-E-Mails an Freunde ist die Personen-ID die Person, die die E-Mail weitergeleitet hat.
    >
-   >Für &quot;Weitergeleitet an Freunde-E-Mail&quot;ist die Personen-ID die Person, die die E-Mail erhalten hat.
+   >Bei E-Mails von „An Freund weiterleiten“ ist die Personen-ID die Person, die die E-Mail erhalten hat.
 
    ![](assets/sixteen.png)
 
@@ -128,23 +128,23 @@ Sie können im Aktivitätsprotokoll der Person sehen, wer die E-Mails weitergele
 
    >[!NOTE]
    >
-   >Wir machen die **Personen-ID** anklickbar und verknüpfen sie direkt mit der Person in einem kommenden Patch.
+   >Wir machen die **Personen-ID** klickbar und verknüpfen sie in einem kommenden Patch direkt mit der Person.
 
    ![](assets/seventeen.png)
 
    >[!NOTE]
    >
-   >Wenn der Freund, der den Vorwärts erhält, eine unbekannte Person ist, wird eine neue Person mit &quot;Weiterleiten an Freunde&quot;erstellt, die als **Source** der Person markiert ist.
-   >Wenn die E-Mail ein lokales Asset eines Programms ist, wird das Programm als **Akquiseprogramm** der Person markiert.
+   >Wenn der Freund, der die Weiterleitung erhält, eine unbekannte Person ist, wird eine neue Person erstellt, bei der „An Freund weiterleiten“ als **Source der Person markiert**.
+   >Wenn es sich bei der E-Mail um ein lokales Asset eines Programms handelt, wird das Programm als &quot;**&quot; der Person**.
 
-## Trigger oder Filter mit der Aktivität &quot;Weiterleitung&quot; {#trigger-or-filter-using-forwarding-activity}
+## Trigger oder Filter mit der Aktivität „Weiterleitung“ {#trigger-or-filter-using-forwarding-activity}
 
-Es gibt sechs Trigger/Filter, mit denen Sie Aktionen zum Trigger von Datenflüssen durchführen oder Personen nach gesendeter und empfangener Aktivität &quot;Weiterleiten an Freunde&quot;filtern können.
+Es gibt sechs Trigger/Filter, mit denen Sie Flussaktionen in Triggern erstellen oder Personen nach der gesendeten und empfangenen Aktivität „An Freund weiterleiten“ filtern können.
 
-Wenn Sie in der Smart-Liste einer Smart-Kampagne nach &quot;forward&quot;suchen, finden Sie die verfügbaren Trigger und Filter.
+Wenn Sie in der Smart-Liste einer Smart-Kampagne nach „Weiterleiten“ suchen, finden Sie die verfügbaren Trigger und Filter.
 
 ![](assets/nineteen.png)
 
-## Weiterleiten an Freunde testen {#test-forward-to-friend}
+## Test an Freund weiterleiten {#test-forward-to-friend}
 
-Um &quot;Weiterleiten an Freunde&quot;zu testen, senden Sie sich eine E-Mail mit dem Weiterleitungslink. Vergewissern Sie sich, dass Sie es über den Fluss **E-Mail senden** senden, *nicht* bis **Test-E-Mail senden**.
+Um „Weiterleiten an Freund“ zu testen, senden Sie sich selbst eine E-Mail mit dem Weiterleitungs-Link. Vergewissern Sie sich, dass Sie sie über den **E-Mail senden** Flussschritt *nicht* über **Test-E-Mail senden** senden.

@@ -1,7 +1,7 @@
 ---
 unique-page-id: 14352494
-description: Ich wurde aus meinem Konto gesperrt. Was mache ich? - Marketo-Dokumente - Produktdokumentation
-title: Ich wurde aus meinem Konto gesperrt. Was mache ich?
+description: Ich wurde von meinem Konto ausgesperrt. Was soll ich tun? - Marketo-Dokumente - Produktdokumentation
+title: Ich wurde von meinem Konto ausgesperrt. Was soll ich tun?
 exl-id: ee6b61f8-24d5-4520-a111-00ece2ba02bc
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,6 +11,6 @@ ht-degree: 0%
 
 ---
 
-# Ich wurde aus meinem Konto gesperrt. Was mache ich? {#i-got-locked-out-of-my-account-what-do-i-do}
+# Ich wurde von meinem Konto ausgesperrt. Was soll ich tun? {#i-got-locked-out-of-my-account-what-do-i-do}
 
 Wenn Sie die Anzahl der Anmeldeversuche überschritten haben, werden Sie von Ihrem Konto ausgeschlossen. Wenden Sie sich an den [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support#), um Unterstützung beim Entsperren zu erhalten.

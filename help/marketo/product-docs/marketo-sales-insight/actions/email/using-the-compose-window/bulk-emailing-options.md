@@ -1,6 +1,6 @@
 ---
-description: Massenpostversand-Optionen - Marketo-Dokumente - Produktdokumentation
-title: Massen-E-Mail-Optionen
+description: Optionen für Massen-E-Mails - Marketo-Dokumente - Produktdokumentation
+title: Optionen für Massen-E-Mails
 exl-id: 08cc60d5-0db1-4dfa-9441-4c5e5a021d73
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -10,11 +10,11 @@ ht-degree: 3%
 
 ---
 
-# Massen-E-Mail-Optionen {#bulk-emailing-options}
+# Optionen für Massen-E-Mails {#bulk-emailing-options}
 
-Der Massen-Versand von E-Mails ist eine hervorragende Möglichkeit, die potenzielle Interaktion zu beschleunigen. Marketo Sales bietet zwei Möglichkeiten, E-Mails stapelweise zu senden: **E-Mails gruppieren** und **Auswählen und Senden**. Gruppen-E-Mails eignen sich hervorragend, um Hunderte von E-Mails schnell an eine Zielgruppe zu senden. Die Verwendung von Select und Send bedeutet zwar niedrigere E-Mail-Beschränkungen, bietet dem Benutzer jedoch mehr Anpassungsmöglichkeiten.
+Der Massenversand von E-Mails ist eine hervorragende Möglichkeit, die Interaktion mit potenziellen Kunden zu beschleunigen. Marketo Sales bietet zwei Möglichkeiten zum Massenversand von E-Mails: **Gruppen-E-Mails** und **Auswählen und Senden**. Gruppen-E-Mails eignen sich hervorragend, um Hunderte von E-Mails schnell an eine Zielgruppe zu senden. Die Verwendung von Auswählen und Senden bedeutet, dass die E-Mail-Beschränkungen verringert werden, bietet aber mehr Anpassungsmöglichkeiten für den Benutzer.
 
-**Gruppieren von E-Mails vs. Auswählen und Senden**
+**Gruppen-E-Mail vs. Auswählen und Senden**
 
 <table> 
  <colgroup> 
@@ -27,25 +27,25 @@ Der Massen-Versand von E-Mails ist eine hervorragende Möglichkeit, die potenzie
  </colgroup> 
  <tbody> 
   <tr> 
-   <th>Versandtyp</th> 
-   <th>Maximale Anzahl an E-Mails</th> 
-   <th>Initiierter Versand von</th> 
+   <th>Sendungstyp</th> 
+   <th>Maximale E-Mail-Anzahl</th> 
+   <th>Initiiert vom Senden</th> 
    <th>Massenbearbeitung von E-Mails</th> 
-   <th>E-Mails eindeutig bearbeiten</th> 
+   <th>Jede E-Mail individuell bearbeiten</th> 
    <th>Unterstützung von Vorlagen und dynamischen Feldern</th> 
   </tr> 
   <tr> 
    <td>Gruppen-E-Mail</td> 
-   <td>1</td> 
-   <td>Wählen Sie eine Gruppe aus und klicken Sie auf die Schaltfläche "Gruppenaktionen"oder geben Sie den Gruppennamen in das Feld "An"ein.</td> 
+   <td>1.000</td> 
+   <td>Wählen Sie eine Gruppe aus und klicken Sie auf die Schaltfläche „Gruppenaktionen“, oder geben Sie den Gruppennamen in das Feld An ein.</td> 
    <td>Ja</td> 
    <td>Nein</td> 
    <td>Ja</td> 
   </tr> 
   <tr> 
-   <td>Auswählen und Senden</td> 
+   <td>Auswählen und senden</td> 
    <td>200</td> 
-   <td>Wählen Sie Personen im Raster aus und klicken Sie in der Aktionsleiste auf die Schaltfläche "E-Mail ausgewählt", oder geben Sie Empfänger in die Massen-E-Mail-Seitenleiste ein.</td> 
+   <td>Wählen Sie Personen im Raster aus und klicken Sie in der Aktionsleiste auf die Schaltfläche „E-Mail ausgewählt“ oder geben Sie Empfänger in die Seitenleiste für Massen-E-Mails ein.</td> 
    <td>Ja</td> 
    <td>Ja</td> 
    <td>Ja</td> 
@@ -53,13 +53,13 @@ Der Massen-Versand von E-Mails ist eine hervorragende Möglichkeit, die potenzie
  </tbody> 
 </table>
 
-**Verwenden der Gruppen-E-Mail**
+**Mit Gruppen-E-Mail**
 
-Sie können jede E-Mail in der Liste in der Vorschau anzeigen, um festzustellen, ob die dynamischen Felder korrekt ausgefüllt sind, und die Vorlage, die Sie versenden möchten, in einer Massenbearbeitung bearbeiten. Sie können jedoch keine eindeutigen &quot;pro Benutzer&quot;-Bearbeitungen vornehmen.
+Sie können jede E-Mail in der Liste in der Vorschau anzeigen, um festzustellen, ob die dynamischen Felder korrekt ausgefüllt sind, und Sie können die Vorlage, die Sie senden möchten, stapelweise bearbeiten. Sie können jedoch keine eindeutigen Bearbeitungen „pro Benutzer“ vornehmen.
 
-**Verwenden von Select und Send**
+**Verwenden von „Auswählen“ und „Senden“**
 
-Standardmäßig werden Sie alle Empfänger bearbeiten. Sie können jedoch auch jede einzelne E-Mail auswählen, um benutzerdefinierte Bearbeitungen vorzunehmen. Dies eignet sich hervorragend zum Hinzufügen einer oder mehrerer eindeutiger Zeile(n) zur Anpassung an Empfänger, mit denen Sie einen personalisierteren Ansatz wählen möchten.
+Standardmäßig werden Sie für alle Empfänger bearbeiten. Sie können jedoch auch jede einzelne E-Mail auswählen, um benutzerdefinierte Änderungen für sie vorzunehmen. Dies eignet sich hervorragend, um eine oder mehrere individuelle Anpassungszeilen zu Empfängern hinzuzufügen, mit denen Sie einen stärker personalisierten Ansatz verfolgen möchten.
 
 >[!MORELIKETHIS]
 >

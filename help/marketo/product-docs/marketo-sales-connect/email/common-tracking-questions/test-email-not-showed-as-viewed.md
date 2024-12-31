@@ -1,7 +1,7 @@
 ---
 unique-page-id: 14352538
-description: Test-E-Mail nicht wie angezeigt - Marketo Docs - Produktdokumentation
-title: Test-E-Mail nicht angezeigt als
+description: Test-E-Mail nicht angezeigt als angezeigt - Marketo-Dokumente - Produktdokumentation
+title: Test-E-Mail nicht als angezeigt
 exl-id: a97bf35c-6cc2-49d1-b8ab-7a434c4482b6
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,16 +11,16 @@ ht-degree: 0%
 
 ---
 
-# Test-E-Mail nicht angezeigt als {#test-email-not-showed-as-viewed}
+# Test-E-Mail nicht als angezeigt {#test-email-not-showed-as-viewed}
 
-Selbst wenn Sie Ihre Nachricht an eine andere E-Mail-Adresse gesendet haben, werden wir Sie nicht beim Anzeigen von E-Mails, die Sie selbst im Live Feed gesendet haben, anmelden. Unser Tracking ist gerätebasiert. Solange Sie einen Computer verwenden, mit dem Sie sich bei Sales Connect angemeldet haben, filtern wir diese Aktivität heraus.
+Selbst wenn Sie Ihre Nachricht an eine andere E-Mail-Adresse gesendet haben, werden wir Sie nicht beim Anzeigen von E-Mails protokollieren, die Sie sich selbst im Live-Feed gesendet haben. Unser Tracking ist gerätebasiert. Solange Sie einen Computer verwenden, mit dem Sie sich bei Sales Connect angemeldet haben, filtern wir diese Aktivität aus.
 
-Der Grund? Sales Connect ist intelligent, und unsere aktiven Benutzer würden uns nie verzeihen, wenn ihre eigenen Informationen jedes Mal, wenn sie eine von ihnen gesendete E-Mail ansehen, in der Live-Feed-Aktivität angezeigt würden.
+Der Grund? Sales Connect ist intelligent. Unsere aktiven Benutzer würden es uns nie verzeihen, wenn ihre eigenen Informationen in der Live-Feed-Aktivität jedes Mal angezeigt würden, wenn sie eine von ihnen gesendete E-Mail ansähen.
 
-So gelangen wir zum einzigen Ort, an dem wir die Selbstverfolgung zeigen.
+So kommen wir zu dem einzigen Ort, an dem wir Self-Tracking zeigen.
 
-1. Wechseln Sie zur [Befehlszeile](https://toutapp.com/).
+1. Zur [Kommandozentrale](https://toutapp.com/).
 
-1. Suchen Sie die von Ihnen selbst gesendete E-Mail im Ordner Gesendet und wählen Sie sie aus.
+1. Suchen Sie die von Ihnen gesendete E-Mail im Ordner Gesendet und wählen Sie sie aus.
 
-1. Klicken Sie auf die Schaltfläche **Details** . Sie sollten sehen, dass Ihre eigenen Ansichten dort oben erscheinen.
+1. Klicken Sie auf die **Details**. Sie sollten sehen, wie Ihre eigenen Ansichten dort angezeigt werden.

@@ -1,5 +1,5 @@
 ---
-description: Salesforce Diagnostics - Marketo Docs - Produktdokumentation
+description: Salesforce-Diagnose - Marketo-Dokumente - Produktdokumentation
 title: Salesforce-Diagnose
 exl-id: c449f938-9615-47cb-b232-613ec29068a3
 feature: Sales Insight Actions
@@ -12,186 +12,186 @@ ht-degree: 1%
 
 # Salesforce-Diagnose {#salesforce-diagnostics}
 
-Teil unserer Salesforce-Integration ist eine Salesforce-Diagnoseseite innerhalb der Webanwendung. Auf dieser Seite werden Fehler aus der fehlgeschlagenen Datenprotokollierung in Salesforce erfasst. Die Fehler können hilfreich sein, sind aber nicht immer lesbar. Daher erstellen wir ein Datenblatt, das die Fehlermeldungen erklärt.
+Zu unserer Salesforce-Integration gehört auch eine Salesforce-Diagnoseseite innerhalb der Web-Anwendung. Auf dieser Seite werden Fehler aus der fehlgeschlagenen Datenprotokollierung in Salesforce erfasst. Die Fehler können hilfreich sein, sind aber nicht immer lesbar. Daher haben wir eine Kurzdarstellung zusammengestellt, die die Fehlermeldungen erklärt.
 
-## Access Diagnostics {#access-diagnostics}
+## Zugriff auf die Diagnose {#access-diagnostics}
 
-1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen**.
+1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
 
    ![](assets/salesforce-diagnostics-1.png)
 
-1. Klicken Sie unter &quot;Integrationen&quot;auf **Diagnose**.
+1. Klicken Sie unter Integrationen auf **Diagnose**.
 
    ![](assets/salesforce-diagnostics-2.png)
 
-## Fehlermeldungsblatt {#error-cheat-sheet}
+## Fehlerkorrektur - Schnellübersicht {#error-cheat-sheet}
 
-**Fehler:** API_CURRENTLY_DISABLED\
-**Kategorie:** Zugriff/Validierung\
+**error:** API_CURRENTLY_DISABLED\
+**category:** access/validation\
 **Nachricht:** API ist für diesen Benutzer deaktiviert\
 **Was passiert:** Benutzer hat keinen API-Zugriff\
-**Schritte zur Fehlerbehebung:** Salesforce Admin muss der Benutzer-API Zugriff gewähren.
+**Schritte zur Fehlerbehebung:** Der Salesforce-Administrator muss der Benutzer-API Zugriff gewähren.
 
-**Fehler:** AUTHENTICATION_FAILURE\
+**ERROR:** AUTHENTICATION_FAILURE\
 **Kategorie:** Authentifizierung\
 **Nachricht:** invalid_grant: Authentifizierungsfehler\
-**Was passiert ist:** Authentifizierung fehlgeschlagen\
-**Schritte zur Fehlerbehebung:** Trennen Sie die Verbindung zu Salesforce und verbinden Sie sich dann erneut.
+**Was passiert:** Authentifizierung fehlgeschlagen\
+**Schritte zur Fehlerbehebung:** Trennen Sie die Verbindung zu Salesforce und stellen Sie dann erneut eine Verbindung her.
 
-**Fehler:** CANNOT_INSERT_UPDATE_ACTIVATE_ENTITY\
-**Kategorie:** Zugriff/Validierung\
-**Message:** {&quot;errorCode&quot;:&quot;INVALID_SESSION_ID&quot;,&quot;message&quot;:&quot;Session expior or invalid&quot;}\
+**ERROR:** CANNOT_INSERT_UPDATE_ACTIVATE_ENTITY\
+**category:** access/validation\
+**Message:** {„errorCode“:„INVALID_SESSION_ID“,„message“:„Sitzung abgelaufen oder ungültig“}\
 **Was passiert:**
 
-1 - Trigger-Code führt dazu, dass die Aktualisierung fehlschlägt.\
-2 - Benutzer verfügt nicht über Schreibberechtigungen auf Objektebene für das angegebene Objekt.
+1. Trigger-Code verursacht, dass die Aktualisierung fehlschlägt.\
+2 - Der Benutzer hat keine Schreibberechtigungen auf Objektebene für das angegebene Objekt.
 
 **Schritte zur Fehlerbehebung:**
 
-1 - Trigger überprüfen, der fehlschlägt.\
-2 - Erteilen Sie dem Benutzer entweder Schreibzugriff für das Objekt ODER deaktivieren Sie die Funktion, die versucht, in das Objekt zu schreiben.
+1. Überprüfen Sie den fehlgeschlagenen Trigger.\
+2 - Gewähren Sie dem Benutzer Schreibzugriff für das Objekt ODER deaktivieren Sie die Funktion, die versucht, in das Objekt zu schreiben.
 
-**Fehler:** CANNOT_UPDATE_CONVERTED_LEAD\
-**Kategorie:** Sonstige\
-**Meldung:** kann nicht auf konvertierten Lead verweisen\
-**Was geschieht:** Wir versuchen, uns während der Protokollierung der letzten Aktivitäten für Kontakte und Leads bei einem konvertierten Lead zu melden. Auch ein paar von diesen für Felsen gesehen.\
-**Schritte zur Fehlerbehebung:** Melden Sie alle Instanzen davon unserem [Supportteam](https://nation.marketo.com/t5/Support/ct-p/Support).
+**ERROR:** CANNOT_UPDATE_CONVERTED_LEAD\
+**Kategorie:** andere\
+**Nachricht:** kann nicht auf konvertierten Lead verweisen\
+**Was passiert:** Wir versuchen, uns während der Protokollierung der letzten Aktivität für Kontakte und Leads bei einem konvertierten Lead anzumelden. Ich sah auch einige von diesen für Stellplätze.\
+**Schritte zur Fehlerbehebung:** Bitte melden Sie etwaige Vorfälle hiervon unserem [Supportteam](https://nation.marketo.com/t5/Support/ct-p/Support).
 
-**Fehler:** ENTITY_IS_LOCKED\
-**Kategorie:** Zugriff/Validierung\
+**error:** ENTITY_IS_LOCKED\
+**category:** access/validation\
 **Nachricht:** Die Entität ist für die Bearbeitung gesperrt.\
-**Was geschieht:** Der Datensatz befindet sich in einem Genehmigungsprozess, in dem er vor weiteren Bearbeitungen gesperrt wird, bis er von einer Person genehmigt oder verweigert wird, die Eigentümer der Genehmigung ist.\
+**Was passiert:** Der Datensatz befindet sich in einem Genehmigungsprozess, bei dem er für alle weiteren Bearbeitungen gesperrt wird, bis er von einer Person, die Inhaber der Genehmigung ist, genehmigt oder abgelehnt wird.\
 **Schritte zur Fehlerbehebung:** Siehe oben.
 
-**Fehler:** EXPIRED_ACCESS
+**ERROR:** EXPIRED_ACCESS
 **Kategorie:** Authentifizierung
 **Nachricht:** invalid_grant: abgelaufenes Zugriffs-/Aktualisierungstoken
 **Was passiert:** Das Zugriffs- oder Aktualisierungstoken ist abgelaufen. Token laufen basierend auf [Sitzungseinstellungen in Salesforce](https://salesforce.stackexchange.com/questions/10759/invalid-grant-expired-access-refresh-token-error-when-authenticating-access-via) ab.
-**Schritte zur Fehlerbehebung:** Sie müssen sich erneut authentifizieren. Trennen Sie die Salesforce-Verbindung und stellen Sie eine erneute Verbindung her.
+**Schritte zur Fehlerbehebung:** Sie müssen sich erneut authentifizieren. Trennen Sie die Salesforce-Verbindung und stellen Sie die Verbindung wieder her.
 
-**Fehler:** FAILED_WRITE\
-**Kategorie:** Intermittent\
-**Nachricht:** Dateiende erreicht\
+**ERROR:** FAILED_WRITE\
+**Kategorie:** intermittierend\
+**Nachricht:** Ende der Datei erreicht\
 **Was passiert:** Leistungsproblem mit Salesforce, wahrscheinlich aufgrund suboptimaler Trigger auf Kundenseite.\
-**Schritte zur Fehlerbehebung:** Die Logik zum Wiederholen sollte dies handhaben. Wenn es immer noch nicht funktioniert, wenden Sie sich an Ihren Salesforce-Administrator, um einen problematischen Trigger zu beheben.
+**Schritte zur Fehlerbehebung:** Die Logik „Erneut versuchen“ sollte dies beheben. Wenn es immer noch nicht funktioniert, wenden Sie sich an Ihren Salesforce-Administrator, um einen problematischen Trigger zu beheben.
 
-**Fehler:** FIELD_CUSTOM_VALIDATION_EXCEPTION
-**Kategorie:** Zugriff/Validierung
-**Nachricht:** Unterschiede zwischen Kunden und Kunden.
-**Was passiert:** Fehlt einer benutzerdefinierten Validierungsregel für das Objekt.
-**Schritte zur Fehlerbehebung:** Überprüfen Sie die benutzerdefinierte Validierungsregel, die diesen Fehler verursacht. Da es sich hierbei um eine benutzerspezifische Regel handelt, muss der Fehler nur einmal behandelt werden.
+**ERROR:** FIELD_CUSTOM_VALIDATION_EXCEPTION
+**category:** access/validation
+**Nachricht:** variiert von Kunde zu Kunde.
+**Was passiert:** einer benutzerdefinierten Validierungsregel für das Objekt.
+**Schritte zur Fehlerbehebung:** Überprüfen Sie die benutzerdefinierte Validierungsregel, die diesen Fehler verursacht. Da es sich um eine benutzerdefinierte Regel handelt, muss der Fehler nur einmal behandelt werden.
 
-**Fehler:** FIELD_FILTER_VALIDATION_EXCEPTION\
-**Kategorie:** Zugriff/Validierung\
-**Meldung:** Wert ist nicht vorhanden oder entspricht nicht den Filterkriterien\
-**Was passiert:** Vorhandene fehlerhafte Daten in Salesforce werden bei der Aktualisierung erzwungen.\
+**ERROR:** FIELD_FILTER_VALIDATION_EXCEPTION\
+**category:** access/validation\
+**Nachricht:** Wert ist nicht vorhanden oder entspricht nicht den Filterkriterien\
+**Was passiert:** vorhandenen fehlerhaften Daten in Salesforce werden bei der Aktualisierung erzwungen.\
 **Schritte zur Fehlerbehebung:** Siehe oben.
 
-**Fehler:** FIELD_INTEGRITY_EXCEPTION\
-**Kategorie:** Zugriff/Validierung\
-**Meldung:** Das vorhandene Land/Gebiet erkennt den Statuswert für das Feld nicht: Code für Bundesland/Provinz\
-**Was passiert:** Vorhandene fehlerhafte Daten in Salesforce werden bei der Aktualisierung erzwungen.\
+**ERROR:** FIELD_INTEGRITY_EXCEPTION\
+**category:** access/validation\
+**Nachricht:** Das vorhandene Land/Gebiet erkennt den Wert des Bundeslandes für das Feld: Bundesland/Provinz-Code nicht.\
+**Was passiert:** vorhandenen fehlerhaften Daten in Salesforce werden bei der Aktualisierung erzwungen.\
 **Schritte zur Fehlerbehebung:** Siehe oben.
 
-**Fehler:** INACTIVE_ORGANIZATION\
+**ERROR:** INACTIVE_ORGANIZATION\
 **Kategorie:** Authentifizierung\
-**Nachricht:** invalid_grant: inactive organization\
+**Nachricht:** invalid_grant: inaktive Organisation\
 **Was passiert:** Ihre Salesforce-Organisation ist nicht mehr aktiv.
-**Schritte zur Fehlerbehebung:** Trennen Sie die Verbindung und verbinden Sie sich dann erneut mit Salesforce.
+**Schritte zur Fehlerbehebung:** Trennen und dann erneut eine Verbindung mit Salesforce herstellen.
 
-**Fehler:** INACTIVE_USER
+**ERROR:** INACTIVE_USER
 **Kategorie:** Authentifizierung
-**Nachricht:** invalid_grant: inactive user
+**Nachricht:** invalid_grant: inaktiver Benutzer
 **Was passiert:** Der Salesforce-Benutzer ist nicht mehr aktiv
-**Schritte zur Fehlerbehebung:** Trennen Sie die Verbindung und verbinden Sie sich dann erneut mit Salesforce.
+**Schritte zur Fehlerbehebung:** Trennen und dann erneut eine Verbindung mit Salesforce herstellen.
 
-**Fehler:** INSERT_UPDATE_DELETE_NOT_ALLOWED_DURING_MAINTENANCE\
-**Kategorie:** Intermittent\
-**Nachricht:** (keine zusätzliche Meldung)\
-**Was geschieht:** Salesforce-Instanz befindet sich im Wartungsmodus.\
-**Schritte zur Fehlerbehebung:** Warten Sie, bis die Systemwartung abgeschlossen ist, und führen Sie dann einen erneuten Versuch zur Protokollierung durch.
+**ERROR:** INSERT_UPDATE_DELETE_NOT_ALLOWED_DURING_MAINTENANCE\
+**Kategorie:** intermittierend\
+**Nachricht:** (keine zusätzliche Nachricht)\
+**Was passiert:** Salesforce-Instanz befindet sich im Wartungsmodus.\
+**Schritte zur Fehlerbehebung:** Warten Sie, bis die Systemwartung abgeschlossen ist, und wiederholen Sie dann die Protokollierung.
 
-**Fehler:** INSUFFICIENT_ACCESS_ON_CROSS_REFERENCE_ENTITY
-**Kategorie:** Zugriff/Validierung
-**Nachricht:** unzureichende Zugriffsrechte auf Objekt-ID
-**Was passiert:** Kein Zugriff auf den übergeordneten Datensatz für eine Aufgabe.
+**ERROR:** INSUFFICIENT_ACCESS_ON_CROSS_REFERENCE_ENTITY
+**category:** access/validation
+**Nachricht:** Zugriffsrechte für Objekt-ID nicht ausreichend
+**Was passiert:** Zugriff auf den übergeordneten Datensatz für eine Aufgabe.
 **Schritte zur Fehlerbehebung:** Siehe oben.
 
-**Fehler:** INSUFFICIENT_ACCESS_OR_READONLY\
-**Kategorie:** Zugriff/Validierung
-**Nachricht:** unzureichende Zugriffsrechte auf Objekt-ID
-**Was geschieht:** Die Protokollierung der letzten Aktivität kann den spezifischen Datensatz nicht bearbeiten, da der Benutzer keinen Schreibzugriff hat.\
-**Schritte zur Fehlerbehebung:** Gewähren Sie dem Benutzer Zugriff in Salesforce ODER deaktivieren Sie die Protokollierung der letzten Aktivität für dieses Objekt für diesen Benutzer.
+**ERROR:** INSUFFICIENT_ACCESS_OR_READONLY\
+**category:** access/validation
+**Nachricht:** Zugriffsrechte für Objekt-ID nicht ausreichend
+**Was passiert:** Die letzte Aktivitätsprotokollierung kann den spezifischen Datensatz nicht bearbeiten, da der Benutzer keinen Schreibzugriff hat.\
+**Schritte zur Fehlerbehebung:** Gewähren Sie dem Benutzer Zugriff in Salesforce ODER deaktivieren Sie für diesen Benutzer die Protokollierung der letzten Aktivität für dieses Objekt.
 
-**Fehler:** INVALID_FIELD\
-**Kategorie:** Intermittent\
-**Message:** Net::ReadTimeout\
-**Was passiert:** Die Anfrage hat einen Timeout. Dies ist wahrscheinlich auf zu viele langsame Transaktionen zurückzuführen.\
-**Schritte zur Fehlerbehebung:** Überprüfen Sie vorhandene Anpassungen auf mögliche Ursachen für Latenzprobleme und/oder deaktivieren Sie die Protokollierung der letzten Aktivität für eines oder alle Objekte, um die Last zu reduzieren.
+**ERROR:** INVALID_FIELD\
+**Kategorie:** intermittierend\
+**message:** net::ReadTimeout\
+**Was passiert:** Anfrage überschreitet die Zeit. Dies ist wahrscheinlich das Ergebnis zu vieler langsamer Transaktionen.\
+**Schritte zur Fehlerbehebung:** Überprüfen Sie die vorhandenen Anpassungen auf mögliche Ursachen für die Latenzprobleme und/oder deaktivieren Sie die Protokollierung der letzten Aktivität für ein oder alle Objekte, um die Last zu reduzieren.
 
-**Fehler:** INVALID_FIELD_FOR_INSERT_UPDATE\
-**Kategorie:** Zugriff/Validierung\
-**Nachricht:** Felder können nicht erstellt/aktualisiert werden: MSE_Replied__c. Überprüfen Sie die Sicherheitseinstellungen dieses Felds.
-**Was geschieht:** Benutzer haben keinen Schreibzugriff auf die benutzerdefinierten Felder für Sales Insight-Aktionen, die zur Durchführung der Protokollierung der letzten Aktivität erforderlich sind. Team hat möglicherweise das Paket installiert, aber die korrekten Felder für die Benutzer wurden nicht aktiviert.\
-**Schritte zur Fehlerbehebung:** Salesforce-Administrator muss Zugriff auf die benutzerdefinierten Felder gewähren ODER die Protokollierung der letzten Aktivität deaktivieren.
+**ERROR:** INVALID_FIELD_FOR_INSERT_UPDATE\
+**category:** access/validation\
+**Nachricht:** Felder können nicht erstellt/aktualisiert werden: MSE_Replied__c. Überprüfen Sie die Sicherheitseinstellungen dieses Feldes.
+**Was passiert:** Benutzer haben keinen Schreibzugriff auf die benutzerdefinierten Felder für „Sales Insight-Aktionen“, die zur Durchführung der letzten Aktivitätsprotokollierungstransaktion erforderlich sind. Team hat möglicherweise das Paket installiert, aber nicht die richtigen Felder für die Benutzer aktiviert.\
+**Schritte zur Fehlerbehebung:** Der Salesforce-Administrator muss Zugriff auf die benutzerdefinierten Felder gewähren ODER die Protokollierung der letzten Aktivität deaktivieren.
 
-**Fehler:** INVALID_GRANT\
+**ERROR:** INVALID_GRANT\
 **Kategorie:** Authentifizierung\
-**Nachricht:** invalid_grant: ip restricted\
-**Was passiert:** Wir versuchen, auf Ihre Salesforce zuzugreifen, aber Sie haben IP-Einschränkungen, die uns daran hindern, dies zu tun.\
-**Schritte zur Fehlerbehebung:** Ihr Salesforce-Administrator muss unsere IPs in Zulassungsliste stellen. Benutzer sollten sich an den Support wenden, um die IP-Adressen zu erhalten.
+**Nachricht:** invalid_grant: IP eingeschränkt\
+**Was passiert:** Wir versuchen auf Ihre Salesforce zuzugreifen, aber Sie haben IP-Einschränkungen, die uns davon abhalten.\
+**Schritte zur Fehlerbehebung:** Ihr Salesforce auf die Zulassungsliste setzen-Administrator muss unsere IPs ändern. Benutzer sollten sich an den Support wenden, um die IP-Adressen zu erhalten.
 
-**Fehler:** INVALID_TYPE\
-**Kategorie:** Zugriff/Validierung\
-**Nachricht:** CreatedDate, (SELECT ID FROM Tasks) FROM Lead WHERE Email=&#39;emailid&#39;^ERROR at `Row:1:Column:53sObject` type &#39;Lead&#39; wird nicht unterstützt. Wenn Sie versuchen, ein benutzerdefiniertes Objekt zu verwenden, stellen Sie sicher, dass hinter dem Namen der Entität das Zeichen &#39;__c&#39; angehängt wird. Bitte verweisen Sie auf Ihre WSDL oder auf den Aufruf zur Beschreibung der entsprechenden Namen
-**Was geschieht:** Wir versuchen, einen Objekttyp aus Salesforce abzufragen, auf den der Benutzer keinen Zugriff hat. Dies hängt höchstwahrscheinlich damit zusammen, dass der Benutzer keinen Zugriff auf das Lead-Objekt hat.\
-**Schritte zur Fehlerbehebung:** Gewähren Sie entweder Lese- und Aktualisierungszugriff auf das Lead-Objekt in Salesforce oder deaktivieren Sie die E-Mail-Protokollierung und die Protokollierung der letzten Aktivität, um Lead-Datensätze zu speichern.
+**ERROR:** INVALID_TYPE\
+**category:** access/validation\
+**Nachricht:** Erstellungsdatum, (SELECT ID FROM Tasks) VOM Lead WO E-Mail=&#39;emailid&#39;^FEHLER beim `Row:1:Column:53sObject` &#39;Lead&#39; nicht unterstützt wird. Wenn Sie versuchen, ein benutzerdefiniertes Objekt zu verwenden, stellen Sie sicher, dass hinter dem Namen der Entität das Zeichen &#39;__c&#39; angehängt wird. Bitte die WSDL referenzieren oder den Aufruf für die entsprechenden Namen beschreiben
+**Was passiert:** Wir versuchen, einen Objekttyp aus Salesforce abzufragen, auf den der Benutzer keinen Zugriff hat. Dies hängt höchstwahrscheinlich damit zusammen, dass der Benutzer nicht den richtigen Zugriff auf das Lead-Objekt hat.\
+**Schritte zur Fehlerbehebung:** Gewähren Sie Lese- und Aktualisierungszugriff auf das Lead-Objekt in Salesforce oder deaktivieren Sie die E-Mail-Protokollierung und die Protokollierung der letzten Aktivitäten, um Lead-Datensätze zu ermitteln.
 
-**Fehler:** QUERY_TIMEOUT\
-**Kategorie:** Intermittent\
-**Nachricht:** Ihre Abfrageanforderung wurde zu lang ausgeführt\
-**Was passiert:** Siehe oben.\
-**Schritte zur Fehlerbehebung:** Die Logik zum Wiederholen sollte dies handhaben. Wenn es immer noch nicht funktioniert, wenden Sie sich an Ihren Salesforce-Administrator, um einen problematischen Trigger zu beheben.
+**ERROR:** QUERY_TIMEOUT\
+**Kategorie:** intermittierend\
+**Nachricht:** Ihre Abfrageanfrage wurde zu lange ausgeführt\
+**Was geschieht:** Siehe oben.\
+**Schritte zur Fehlerbehebung:** Die Logik „Erneut versuchen“ sollte dies beheben. Wenn es immer noch nicht funktioniert, wenden Sie sich an Ihren Salesforce-Administrator, um einen problematischen Trigger zu beheben.
 
-**Fehler:** REQUEST_LIMIT_EXCEEDED\
-**Kategorie:** Intermittent\
-**Meldung:**
-1 - ConcurrentPerOrgLongTxn Limit überschritten\
-2 - Maximale Anzahl an Anfragen überschritten\
-3 - ConcurrentRequest\
+**ERROR:** REQUEST_LIMIT_EXCEEDED\
+**Kategorie:** intermittierend\
+**message:**
+1 - ConcurrentPerOrgLongTxn-Limit überschritten\
+2. Gesamtzahl der Anfragen überschritten\
+3. ConcurrentRequest\
 **Was passiert:**
-1 - Grenzwert für gleichzeitige Anforderungen überschritten, was wahrscheinlich auf ineffizienten Trigger-Code zurückzuführen ist.\
-2 - Zu viele Integrationen haben die Organisation über das 24-Stunden-rollierende Fenster hinaus geführt.\
+1 - Das Limit für gleichzeitige Anfragen wurde überschritten, wahrscheinlich aufgrund eines ineffizienten Trigger-Codes.\
+2 - Zu viele Integrationen führen dazu, dass die Organisation das 24-Stunden-Rollierfenster hinter sich lässt.\
 **Schritte zur Fehlerbehebung:**
-1 - Überprüfen vorhandener Trigger auf die betroffenen Objekte. Die Rollup-Protokollierung für ein oder mehrere Objekte kann potenziell deaktiviert werden.\
-2 - Kaufen Sie weitere API-Aufrufe von Salesforce. Die Rollup-Protokollierung für ein oder mehrere Objekte kann potenziell deaktiviert werden.
+1. Überprüfen Sie die vorhandenen Trigger der betroffenen Objekte. Deaktivieren Sie möglicherweise die Rollup-Protokollierung für ein oder mehrere Objekte.\
+2. Kaufen Sie weitere API-Aufrufe von Salesforce. Deaktivieren Sie möglicherweise die Rollup-Protokollierung für ein oder mehrere Objekte.
 
-**Fehler:** REQUIRED_FIELD_MISSING\
-**Kategorie:** Zugriff/Validierung\
-**Meldung:** Erforderliche Felder fehlen: `[Amount_Committed_Private_Capital__c]`
-**Was geschieht:** Dies geschieht normalerweise für die Protokollierung der letzten Aktivität. Benutzerdefinierte Felder wurden so eingerichtet, dass sie erforderlich sind, jedoch leere Werte enthalten. Dies kann vorkommen, wenn der Datensatz mit einem leeren Wert des benutzerdefinierten Felds erstellt und dann als erforderlich festgelegt wurde. Die Anforderung wird erzwungen, wenn wir versuchen, den Datensatz zu aktualisieren, auch wenn wir das benutzerdefinierte Feld nicht berühren.\
-**Schritte zur Fehlerbehebung:** Aktualisieren Sie die Werte der fehlenden Felder manuell. Sie können die Nachricht dann über &quot;Sales Insight-Aktionen&quot;erneut ausprobieren.
+**ERROR:** REQUIRED_FIELD_MISSING\
+**category:** access/validation\
+**Nachricht:** Erforderliche Felder fehlen: `[Amount_Committed_Private_Capital__c]`
+**Was passiert:** Dies geschieht im Allgemeinen für die Protokollierung der letzten Aktivitäten. Benutzerdefinierte Felder wurden so eingerichtet, dass sie erforderlich sind, aber leere Werte enthalten. Dies kann vorkommen, wenn der Datensatz mit einem leeren Wert des benutzerdefinierten Felds erstellt und dann zu einem Pflichtfeld gemacht wurde. Erforderlichkeit wird erzwungen, wenn wir versuchen, den Datensatz zu aktualisieren, obwohl wir das benutzerdefinierte Feld nicht berühren.\
+**Schritte zur Fehlerbehebung:** Aktualisieren Sie die Werte der fehlenden Felder manuell. Sie können die Nachricht dann über Sales Insight-Aktionen erneut versuchen.
 
-**Fehler:** SERVER_UNAVAILABLE\
-**Kategorie:** Intermittent\
-**Nachricht:** Server zu ausgelastet\
-**Was geschieht:** Leistungsproblem mit Salesforce, wahrscheinlich aufgrund suboptimaler Trigger durch den Kunden\
-**Schritte zur Fehlerbehebung:** Die Logik zum Wiederholen sollte dies handhaben. Wenn es immer noch nicht funktioniert, wenden Sie sich an Ihren Salesforce-Administrator, um Probleme beim Erstellen eines problematischen Triggers zu vermeiden.
+**ERROR:** SERVER_UNAVAILABLE\
+**Kategorie:** intermittierend\
+**Nachricht:** Server ist ausgelastet\
+**Was passiert:** Leistungsproblem mit Salesforce, wahrscheinlich aufgrund suboptimaler Trigger des Kunden\
+**Schritte zur Fehlerbehebung:** Die Logik „Erneut versuchen“ sollte dies beheben. Wenn es immer noch nicht funktioniert, wenden Sie sich an Ihren Salesforce-Administrator, um einen problematischen Trigger zu beheben.
 
-**Fehler:** TXN_SECURITY_NO_ACCESS\
-**Kategorie:** Zugriff/Validierung\
-**Nachricht:** Der von Ihnen angeforderte Vorgang ist aufgrund einer Sicherheitsrichtlinie in Ihrem Unternehmen nicht zulässig. Wenden Sie sich an Ihren Administrator.
-**Was geschieht:** Es wurde eine Art von Sicherheitsbeschränkung eingerichtet - siehe https://developer.salesforce.com/forums/?id=&quot;Datensatz-ID&quot;\
-**Schritte zur Fehlerbehebung:** Sprechen Sie mit Ihrem Salesforce-Administrator und sehen Sie, welche spezifische Einschränkung möglicherweise ist.
+**ERROR:** TXN_SECURITY_NO_ACCESS\
+**category:** access/validation\
+**Nachricht:** Der angeforderte Vorgang ist aufgrund einer Sicherheitsrichtlinie in Ihrer Organisation nicht zulässig. Wenden Sie sich an Ihren Administrator.
+**Was passiert:** Eine Art von Sicherheitsbeschränkung wurde eingerichtet - siehe https://developer.salesforce.com/forums/?id=„record ID“\
+**Schritte zur Fehlerbehebung:** Sprechen Sie mit Ihrem Salesforce-Administrator, um herauszufinden, welche spezifische Einschränkung vorliegen könnte.
 
-**Fehler:** UNABLE_TO_LOCK_ROW\
-**Kategorie:** Intermittent\
-**Nachricht:** kann keinen ausschließlichen Zugriff auf diesen Datensatz oder 1 Datensätze erhalten: &quot;Datensatz-ID&quot;\
-**Was geschieht:** Wahrscheinlich gibt es einen Trigger, der mehrere Versuche zum Zugriff auf denselben Datensatz verursacht, möglicherweise im Fall einer Gruppen-E-Mail.\
-**Schritte zur Fehlerbehebung:** Die Logik zum Wiederholen sollte dies handhaben. Wenn es immer noch nicht funktioniert, wenden Sie sich an Ihren Salesforce-Administrator, um einen problematischen Trigger zu beheben.
+**ERROR:** UNABLE_TO_LOCK_ROW\
+**Kategorie:** intermittierend\
+**Nachricht:** kann keinen exklusiven Zugriff auf diesen Datensatz oder 1 Datensatz erhalten: „Datensatz-ID“\
+**Was passiert:** Wahrscheinlich gibt es einen Trigger, der mehrere Versuche verursacht, auf denselben Datensatz zuzugreifen, möglicherweise im Fall einer Gruppen-E-Mail.\
+**Schritte zur Fehlerbehebung:** Die Logik „Erneut versuchen“ sollte dies beheben. Wenn es immer noch nicht funktioniert, wenden Sie sich an Ihren Salesforce-Administrator, um einen problematischen Trigger zu beheben.
 
-**Fehler:** UNKNOWN_EXCEPTION
-**Kategorie:** Sonstige\
-**Meldung:** Unbekannte Ausnahme aufgetreten\
-**Was passiert:** Unbehandelte Ausnahme in Salesforce.\
-**Schritte zur Fehlerbehebung:** Geben Sie eine Groß-/Kleinschreibung mit Salesforce ein und kopieren Sie die numerischen Werte in die Fehlermeldung. Dies ist Salesforce-Code, der einen Fehler nicht ordnungsgemäß verarbeitet.
+**ERROR:** UNKNOWN_EXCEPTION
+**Kategorie:** andere\
+**Nachricht:** unbekannte Ausnahme aufgetreten\
+**Was passiert:** Ausnahmefehler in Salesforce.\
+**Schritte zur Fehlerbehebung:** Sie einen Fall bei Salesforce ein und kopieren Sie die numerischen Werte in der Fehlermeldung. Dies ist Salesforce-Code, der einen Fehler nicht ordnungsgemäß verarbeitet.

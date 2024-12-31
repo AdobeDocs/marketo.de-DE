@@ -1,7 +1,7 @@
 ---
 unique-page-id: 14746470
-description: Einrichten eines benutzerdefinierten Bereitstellungskanals - Marketo Docs - Produktdokumentation
-title: Einrichten eines benutzerdefinierten Bereitstellungskanals
+description: Einrichten eines benutzerdefinierten Versandkanals - Marketo-Dokumente - Produktdokumentation
+title: Einrichten eines benutzerdefinierten Versandkanals
 exl-id: a31f7bfd-a4ee-4948-9bdc-b49d47054d40
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,41 +11,41 @@ ht-degree: 1%
 
 ---
 
-# Einrichten eines benutzerdefinierten Bereitstellungskanals {#setting-up-a-custom-delivery-channel}
+# Einrichten eines benutzerdefinierten Versandkanals {#setting-up-a-custom-delivery-channel}
 
-Mit Marketo Sales Connect können Sie für die Zustellung Ihrer E-Mails einen benutzerdefinierten SMTP-Server integrieren. Dies ist eine großartige Option für diejenigen, die keine Massen-E-Mails aus ihrem Gmail- oder Exchange-Versandkanal versenden möchten.
+Marketo Sales Connect ermöglicht Ihnen die Integration mit einem benutzerdefinierten SMTP-Server für den Versand Ihrer E-Mails. Dies ist eine großartige Option für diejenigen, die keine Massen-E-Mails aus ihrem Gmail- oder Exchange-Versandkanal senden möchten.
 
-Benutzer können einen benutzerdefinierten SMTP-Server für ihre eigene individuelle Verwendung einrichten oder Administratoren können ein Team-SMTP einrichten, das für alle Sales Connect-Benutzer in Ihrer Instanz freigegeben wird.
+Benutzer können einen benutzerdefinierten SMTP-Server für ihre eigene Verwendung einrichten, oder Administratoren können ein SMTP-Team einrichten, das für alle Sales Connect-Benutzer in Ihrer Instanz freigegeben wird.
 
 >[!NOTE]
 >
->* Zusätzlich zur Einrichtung Ihres SMTP-Servers muss Ihre [E-Mail-Identität geprüft](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md) werden, bevor Sie E-Mails versenden können.
->* Es wird empfohlen, mit Ihrem IT-Team oder SMTP-Serveranbieter zusammenzuarbeiten, um die richtigen Serverberechtigungen für Ihren SMTP-Server zu erhalten.
->* Sie können Ihren Gmail- und Exchange-Server nicht mit den SMTP-Server-Anmeldedaten verbinden. Bitte nutzen Sie unseren Email Connection-Dienst, um diese Anbieter zu integrieren.
+>* Zusätzlich zur Einrichtung Ihres SMTP-Servers muss Ihre [E-Mail-Identität überprüft werden](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md) bevor Sie E-Mails versenden können.
+>* Es wird empfohlen, mit Ihrem IT-Team oder SMTP-Server-Anbieter zusammenzuarbeiten, um die richtigen Server-Anmeldeinformationen für Ihren SMTP-Server zu erhalten.
+>* Sie können Ihre Gmail- und Exchange-Server-Anmeldeinformationen nicht über den SMTP-Server verbinden. Nutzen Sie unseren E-Mail-Verbindungsservice, um sich mit diesen Anbietern zu integrieren.
 
 ## Benutzerdefiniertes SMTP {#custom-smtp}
 
-1. Melden Sie sich bei der [Webanwendung](https://toutapp.com/login) an, klicken Sie auf das Zahnradsymbol oben rechts und wählen Sie **Einstellungen**.
+1. Melden Sie sich bei der [Web-Anwendung](https://toutapp.com/login) an, klicken Sie oben rechts auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
 
    ![](assets/setting-up-a-custom-delivery-channel-1.png)
 
-1. Klicken Sie unter &quot;Mein Konto&quot;auf **E-Mail-Einstellungen**.
+1. Klicken Sie unter Mein Konto auf **E-Mail-Einstellungen**.
 
    ![](assets/setting-up-a-custom-delivery-channel-2.png)
 
-1. Klicken Sie auf **Benutzerdefinierter Bereitstellungskanal**.
+1. Klicken Sie **Benutzerdefinierter Versandkanal**.
 
    ![](assets/setting-up-a-custom-delivery-channel-3.png)
 
-1. Geben Sie Ihre SMTP Server-Anmeldedaten ein und klicken Sie auf **Verbinden**.
+1. Geben Sie Ihre SMTP-Server-Anmeldeinformationen ein und klicken Sie auf **Verbinden**.
 
    ![](assets/setting-up-a-custom-delivery-channel-4.png)
 
    >[!NOTE]
    >
-   >Wenn dies Ihr einziger Versandkanal ist, wird er automatisch all Ihren E-Mail-Identitäten zugewiesen und Sie sind hier fertig. Wenn dies nicht Ihr einziger Versandkanal ist, fahren Sie mit Schritt 5 fort.
+   >Wenn dies Ihr einziger Versandkanal ist, wird er automatisch allen Ihren E-Mail-Identitäten zugewiesen und Sie sind hier fertig. Wenn dies nicht der einzige Versandkanal ist, fahren Sie mit Schritt 5 fort.
 
-1. Klicken Sie in den E-Mail-Einstellungen weiterhin auf **Adresse und Unterschrift**.
+1. Klicken Sie noch in den E-Mail-Einstellungen auf **Adresse und Signatur**.
 
    ![](assets/setting-up-a-custom-delivery-channel-5.png)
 
@@ -53,43 +53,43 @@ Benutzer können einen benutzerdefinierten SMTP-Server für ihre eigene individu
 
    ![](assets/setting-up-a-custom-delivery-channel-6.png)
 
-1. Klicken Sie auf der Zustellbarkeits-Karte auf **Bearbeiten**.
+1. Klicken Sie auf der Zustellbarkeitskarte auf **Bearbeiten**.
 
    ![](assets/setting-up-a-custom-delivery-channel-7.png)
 
-1. Klicken Sie auf die Dropdown-Liste Kanal und wählen Sie den soeben hinzugefügten Kanal aus. Klicken Sie auf **Speichern**.
+1. Klicken Sie auf die Dropdown-Liste Kanal und wählen Sie den soeben hinzugefügten benutzerdefinierten Versandkanal aus. Klicken Sie auf **Speichern**.
 
    ![](assets/setting-up-a-custom-delivery-channel-8.png)
 
    >[!NOTE]
    >
-   >Wenn Ihr Team-Administrator den Team-SMTP-Server eingerichtet hat, wird dieser automatisch nur auf Ihre Standard-E-Mail-Identität angewendet und ist als Option für Ihre anderen E-Mail-Identitäten verfügbar.
+   >Wenn Ihr Teamadministrator den SMTP-Server für das Team einrichtet, wird er automatisch nur auf Ihre Standard-E-Mail-Identität angewendet und steht als Option für Ihre anderen E-Mail-Identitäten zur Verfügung.
 
 ## Team SMTP-Server {#team-smtp-server}
 
 >[!NOTE]
 >
->**Erforderliche Administratorberechtigungen**
+>**Administratorberechtigungen erforderlich**
 
-1. Melden Sie sich bei der [Webanwendung](https://toutapp.com/login) an, klicken Sie auf das Zahnradsymbol oben rechts und wählen Sie **Einstellungen**.
+1. Melden Sie sich bei der [Web-Anwendung](https://toutapp.com/login) an, klicken Sie oben rechts auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
 
    ![](assets/setting-up-a-custom-delivery-channel-9.png)
 
-1. Klicken Sie unter &quot;Admin Settings&quot;auf **General**.
+1. Klicken Sie unter „Admin Settings“ auf **General**.
 
    ![](assets/setting-up-a-custom-delivery-channel-10.png)
 
-1. Klicken Sie auf **Team Delivery Channel**.
+1. Klicken Sie **Versandkanal des Teams**.
 
    ![](assets/setting-up-a-custom-delivery-channel-11.png)
 
-1. Geben Sie Ihre SMTP Server-Anmeldedaten ein und klicken Sie auf **Verbinden**.
+1. Geben Sie Ihre SMTP-Server-Anmeldeinformationen ein und klicken Sie auf **Verbinden**.
 
    ![](assets/setting-up-a-custom-delivery-channel-12.png)
 
    >[!NOTE]
    >
-   >Der Team-SMTP-Server ist der standardmäßige Versandkanal der Standard-E-Mail-Identität für alle Teammitglieder. Darüber hinaus ist es als Option für den Versandkanal für alle anderen E-Mail-Identitäten verfügbar.
+   >Der SMTP-Server des Teams ist der Standard-Versandkanal der Standard-E-Mail-Identität für alle Team-Mitglieder. Darüber hinaus ist sie als Versandkanal-Option für alle anderen E-Mail-Identitäten verfügbar.
 
    >[!MORELIKETHIS]
    >

@@ -1,41 +1,41 @@
 ---
 unique-page-id: 2359559
-description: Champion/Challenger - Von Adresse - Marketo Docs - Produktdokumentation
-title: Champion/Challenger - From Address
+description: Champion/Challenger - Absenderadresse - Marketo-Dokumente - Produktdokumentation
+title: Champion/Challenger - Absenderadresse
 exl-id: 0debb7d3-358b-4054-989f-526d5c434c14
 feature: Email Editor
 source-git-commit: c17bd1a623c46786f14c21c8fad718cdfeeec3cd
 workflow-type: tm+mt
 source-wordcount: '275'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Champion/Challenger: Von Adresse {#champion-challenger-from-address}
+# Champion/Challenger: Absenderadresse {#champion-challenger-from-address}
 
-Möchten Sie ohne Aufhebens eine andere Adresse ausprobieren? So geht es.
+Möchten Sie eine andere Absenderadresse ausprobieren? So geht&#39;s.
 
 >[!PREREQUISITES]
 >
 >[E-Mail-Champion/Challenger hinzufügen](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. Wählen Sie im E-Mail-Testeditor **Von Adresse** in der Dropdown-Liste **Testtyp** aus.
+1. Wählen Sie im E-Mail **Testeditor in der Dropdown** Liste **Testtyp** die Option „Absenderadresse“.
 
    ![](assets/image2014-9-15-12-3a52-3a33.png)
 
    >[!NOTE]
    >
-   >Die erste Absenderadresse wird als **Champion** bezeichnet. Nachfolgende Adressen werden als **Challengers** bezeichnet.
+   >Die erste Absenderadresse wird als &quot;**&quot;**. Nachfolgende Absenderadressen werden als &quot;**&quot;**.
 
-1. Geben Sie für die Herausforderer den Wert **Von Name** (links) und den Wert **Von Adresse** (rechts) ein.
+1. Geben Sie die **Absendername** (links) und **Absenderadresse** (rechts) für die Herausforderer ein.
 
    ![](assets/image2014-9-15-12-3a52-3a50.png)
 
    >[!TIP]
    >
-   >Wenn Sie mehr als einen Challenger benötigen, klicken Sie auf das Pluszeichen und geben Sie einen anderen Namen und eine E-Mail-Adresse ein.
+   >Wenn Sie mehr als einen Herausforderer wollen, klicken Sie auf das Pluszeichen und geben Sie einen anderen Namen und E-Mail.
 
-1. Ziehen Sie den Schieberegler, um die Prozentaufteilung zwischen Personen zu bestimmen, die E-Mails mit dem Champion From Address erhalten, und jenen, die E-Mails mit dem Herausforderer From Address(es) erhalten.
+1. Ziehen Sie den Regler, um die prozentuale Aufteilung zwischen Personen zu bestimmen, die E-Mails mit der Absenderadresse des Champions erhalten, und Personen, die E-Mails mit der/den Absenderadresse(n) des Challenger erhalten.
 
    ![](assets/image2014-9-15-12-3a53-3a1.png)
 
@@ -43,9 +43,9 @@ Möchten Sie ohne Aufhebens eine andere Adresse ausprobieren? So geht es.
    >
    >**Beispiel**
    >
-   >In der oben gezeigten Verteilung erhalten 15 % der in der Smart List angegebenen Zielgruppe eine E-Mail mit einem Herausforderer von Adresse und 85 % erhalten die E-Mail mit dem Meister von Adresse. E-Mails für mehrere Herausforderer von Adressen teilen die 15 % gleich. Wenn der Test beendet ist, können Sie einen Gewinner manuell feststellen. Von diesem Zeitpunkt an erhalten alle zukünftigen Menschen die leistungsfähigeren Inhalte. In Trigger-Kampagnen kann der realisierte Prozentsatz vom gewählten Prozentsatz abweichen, da die Verteilung möglicherweise nicht genau an den ausgewählten Prozentsätzen ausgerichtet ist. Dies kann vorkommen, wenn eine Variante eine erhebliche Anzahl von Abonnenten verarbeitet oder wenn eine Variante eine operative E-Mail ist, die anderen nicht.
+   >In der oben gezeigten Verteilung erhalten 15 % der gesamten Zielgruppe, die in der Smart-Liste angegeben ist, eine der E-Mails mit einer Challenger-Von-Adresse und 85 % erhalten die E-Mail mit der Champion-Von-Adresse. E-Mails für mehrere Challenger From Addresses teilen sich die 15% gleichmäßig. Wenn der Test vorbei ist, können Sie manuell einen Gewinner bestimmen. Von da an erhalten alle zukünftigen Personen die leistungsfähigeren Inhalte. In Trigger-Kampagnen kann der realisierte Prozentsatz von dem ausgewählten Prozentsatz abweichen, da die Verteilung möglicherweise nicht genau mit den ausgewählten Prozentsätzen übereinstimmt. Dies kann vorkommen, wenn eine Variante eine erhebliche Anzahl abgemeldeter Personen verarbeitet oder wenn eine Variante eine operative E-Mail ist, die anderen jedoch nicht.
 
-   Stellen Sie sicher, dass Sie einen Prozentsatz auswählen, der genügend Personen enthält, damit Ihr Test gültig ist. Lassen Sie sich nicht von unschlüssigen Ergebnissen täuschen.
+   Um statistische Konfidenz zu gewinnen, wählen Sie unbedingt einen Prozentsatz aus, der genügend Personen enthält, dass Ihr Test gültig ist. Lassen Sie sich nicht von nicht eindeutigen Ergebnissen täuschen.
 
 1. Klicken Sie auf **Weiter**.
 
@@ -55,4 +55,4 @@ Möchten Sie ohne Aufhebens eine andere Adresse ausprobieren? So geht es.
 
    >[!MORELIKETHIS]
    >
-   >[Champion/Challenger: Champion-Kriterien definieren](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
+   >[Champion/Challenger: Definieren Sie Champion-Kriterien](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)

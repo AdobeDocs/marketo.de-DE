@@ -1,6 +1,6 @@
 ---
-description: Ändern des Kennworts für die Verkaufsverbindung - Marketo-Dokumente - Produktdokumentation
-title: Ändern des Kennworts für die Verkaufsverbindung
+description: Ändern des Passworts für Sales Connect - Marketo-Dokumente - Produktdokumentation
+title: Passwort für Sales Connect ändern
 exl-id: b8c14c7c-c79a-452f-afba-6c8578be2ecd
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -10,51 +10,51 @@ ht-degree: 2%
 
 ---
 
-# Ändern des Kennworts für die Verkaufsverbindung {#change-your-sales-connect-password}
+# Passwort für Sales Connect ändern {#change-your-sales-connect-password}
 
-Sie müssen Ihr Passwort ändern? So geht es.
+Müssen Sie Ihr Passwort ändern? So geht&#39;s.
 
-## Passwort bei der Anmeldung ändern {#change-your-password-while-signed-in}
+## Ändern des Passworts bei Anmeldung {#change-your-password-while-signed-in}
 
 1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
 
    ![](assets/change-your-sales-connect-password-1.png)
 
-1. Ihre Seite &quot;Mein Profil&quot;wird standardmäßig geöffnet. Aktivieren Sie unter &quot;Kontodetails&quot;das Kontrollkästchen **Kennwort ändern** .
+1. Die Seite „Mein Profil“ wird standardmäßig geöffnet. Aktivieren Sie unter Kontodetails das Kontrollkästchen **Kennwort ändern**.
 
    ![](assets/change-your-sales-connect-password-2.png)
 
-1. Geben Sie Ihr aktuelles Kennwort ein. Geben Sie dann Ihren neuen ein und geben Sie ihn erneut ein, um sicherzustellen, dass er übereinstimmt. Klicken Sie auf **Speichern**, wenn Sie fertig sind.
+1. Geben Sie Ihr aktuelles Kennwort ein. Geben Sie dann Ihre neue ein, und geben Sie sie erneut ein, um sicherzustellen, dass sie übereinstimmen. Klicken Sie auf **Speichern**, wenn Sie fertig sind.
 
    ![](assets/change-your-sales-connect-password-3.png)
 
 >[!NOTE]
 >
->Passwörter müssen:
+>Kennwörter müssen:
 >
->* mindestens neun Zeichen enthalten
->* Groß- und Kleinschreibung verwenden (sowohl OBERER als auch UNTERER)
->* Eine Zahl einschließen
+>* enthält mindestens neun Zeichen
+>* Gemischte Groß-/Kleinschreibung verwenden (sowohl oben als auch unten)
+>* Zahl einschließen
 >* Sonderzeichen verwenden
 
-## Kennwort beim Abmelden ändern {#change-your-password-while-signed-out}
+## Ändern des Kennworts bei Abmeldung {#change-your-password-while-signed-out}
 
-1. Navigieren Sie zur Seite [Anmeldung bei Sales Connect](https://toutapp.com/login) und klicken Sie auf **Kennwort vergessen**.
+1. Navigieren Sie zur Seite [Sales Connect-Anmeldung](https://toutapp.com/login) und klicken Sie auf **Kennwort vergessen**.
 
    ![](assets/change-your-sales-connect-password-4.png)
 
-1. Geben Sie die mit dem Konto verknüpfte E-Mail-Adresse ein und klicken Sie auf **E-Mail zurücksetzen senden**.
+1. Geben Sie die mit dem Konto verknüpfte E-Mail-Adresse ein und klicken Sie auf **E-Mail zurücksetzen**.
 
    ![](assets/change-your-sales-connect-password-5.png)
 
-1. Wir senden eine E-Mail, um zu überprüfen, ob der Kontoinhaber das Passwort ändern möchte. Klicken Sie auf **Kennwort zurücksetzen**.
+1. Wir senden eine E-Mail, um zu bestätigen, dass der Kontoinhaber das Passwort ändern möchte. Klicken Sie **Kennwort zurücksetzen**.
 
    ![](assets/change-your-sales-connect-password-6.png)
 
    >[!NOTE]
    >
-   >Überprüfen Sie auch Ihren Spam-Ordner, da diese E-Mail manchmal dort landet.
+   >Überprüfen Sie unbedingt auch Ihren Spam-Ordner, da diese E-Mail manchmal dort landen kann.
 
-1. Geben Sie Ihr neues Kennwort ein und bestätigen Sie es. Klicken Sie abschließend auf **Kennwort festlegen** .
+1. Geben Sie Ihr neues Kennwort ein und bestätigen Sie es. Klicken Sie abschließend **Kennwort festlegen**.
 
    ![](assets/change-your-sales-connect-password-7.png)

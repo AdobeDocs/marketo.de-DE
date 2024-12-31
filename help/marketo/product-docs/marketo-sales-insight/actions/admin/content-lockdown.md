@@ -1,5 +1,5 @@
 ---
-description: Inhaltssperre - Marketo-Dokumente - Produktdokumentation
+description: Inhaltssperrung - Marketo-Dokumente - Produktdokumentation
 title: Inhaltssperre
 exl-id: 3f17a862-321a-4bbb-8693-117a7fb6a65c
 feature: Sales Insight Actions
@@ -12,7 +12,7 @@ ht-degree: 4%
 
 # Inhaltssperre {#content-lockdown}
 
-Indem Sie die Sperrung von Inhalten aktivieren, können Benutzer ohne Administratorrechte Vorlagen und/oder Kampagnen nicht bearbeiten. Benutzer können keine Inhalte freigeben, klonen, bearbeiten oder löschen. Sie haben auch keine Möglichkeit, Vorlagen zu archivieren.
+Durch die Aktivierung der Inhaltssperre können Benutzende ohne Administratorrechte keine Vorlagen und/oder Kampagnen bearbeiten. Benutzende können Inhalte nicht freigeben, klonen, bearbeiten oder löschen. Außerdem haben sie nicht die Möglichkeit, Vorlagen zu archivieren.
 
 >[!NOTE]
 >
@@ -22,10 +22,10 @@ Indem Sie die Sperrung von Inhalten aktivieren, können Benutzer ohne Administra
 
    ![](assets/content-lockdown-1.png)
 
-1. Klicken Sie unter &quot;Admin Settings&quot;auf **General**.
+1. Klicken Sie unter „Admin Settings“ auf **General**.
 
    ![](assets/content-lockdown-2.png)
 
-1. Scrollen Sie nach unten zu &quot;Inhaltssperre&quot;. Wenn Sie einen der beiden Schieberegler aktivieren, wird die Fähigkeit Ihrer Teammitglieder zum Erstellen/Bearbeiten von Vorlagen und/oder Kampagnen deaktiviert.
+1. Scrollen Sie nach unten zu Inhaltssperrung. Wenn Sie einen der Schieberegler aktivieren, können Ihre Team-Mitglieder keine Vorlagen und/oder Kampagnen erstellen/bearbeiten.
 
    ![](assets/content-lockdown-3.png)

@@ -1,37 +1,37 @@
 ---
 unique-page-id: 14352475
-description: Installieren Sie die Ereignisfelder für Sales Connect-Aktivitäten im Aktivitätsverlauf - Marketo-Dokumente - Produktdokumentation
-title: Installieren Sie die Ereignisfelder für "Sales Connect" in den Aktivitätsverlauf.
+description: Installieren von Sales Connect-Ereignisfeldern im Aktivitätsverlauf - Marketo-Dokumente - Produktdokumentation
+title: Installieren von Sales Connect-Ereignisfeldern im Aktivitätsverlauf
 exl-id: c1bdb5a6-04f0-4579-84b6-33f4a301128f
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '269'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
-# Installieren Sie die Ereignisfelder für &quot;Sales Connect&quot; in den Aktivitätsverlauf. {#install-sales-connect-event-fields-on-activity-history}
+# Installieren von Sales Connect-Ereignisfeldern im Aktivitätsverlauf {#install-sales-connect-event-fields-on-activity-history}
 
-Nachdem Sie das Enterprise-Paket in Salesforce installiert haben, können Sie die Ereignisfelder für Sales Connect in Ihren Aktivitätsverlaufsabschnitt installieren. Zu den Ereignisfeldern von Sales Connect gehören Informationen wie Ansichten, Klicks und Kampagnen. Auf diese Weise erhalten Sie Informationen über Ihre E-Mails, die direkt in Salesforce importiert wurden.
+Nachdem Sie das Enterprise-Package in Salesforce installiert haben, können Sie Sales Connect-Ereignisfelder in Ihren Aktivitätsverlaufsabschnitt installieren. Die Felder für Sales Connect-Ereignisse enthalten Informationen wie Ansichten, Klicks und Kampagnen. Auf diese Weise können Sie Informationen zu Ihren E-Mails direkt in Salesforce importieren.
 
-Stellen Sie bei der Durchführung dieser Schritte sicher, dass Sie mit Ihrem Salesforce-Administrator zusammenarbeiten. In diesem Beispiel installieren wir die Felder im Layout **Leads der Seite**. Sie können die Felder auch auf den Seiten-Layouts &quot;Kontakt&quot;, &quot;Konto&quot;und &quot;Chancen&quot;installieren. Denken Sie daran, dass Sie beim Protokollieren von E-Mails an Konten und Chancen den Kontakt benötigen, den Sie per E-Mail versenden, um eine Kontaktrolle zu übernehmen.
+Stellen Sie bei diesen Schritten sicher, dass Sie sich mit Ihrem Salesforce-Administrator zusammentun. In diesem Beispiel installieren wir die Felder im **Lead-Seiten-Layout**. Sie können die Felder auch in die Seiten-Layouts „Kontakt“, „Konto“ und „Opportunity“ installieren. Denken Sie daran, dass Sie beim Anmelden von E-Mails an Konten und Opportunities den Kontakt, den Sie per E-Mail versenden, als Kontaktrolle benötigen.
 
-1. Klicken Sie auf **Einrichten**.
+1. Klicken Sie **Setup**.
 1. Klicken Sie auf **Anpassen**.
-1. Klicken Sie auf **Leads**.
+1. Klicken Sie **Leads**.
 1. Klicken Sie auf **Seiten-Layouts**.
-1. Klicken Sie neben dem Seitenlayout, das Sie ändern möchten, auf **Bearbeiten** .
+1. Klicken Sie **Bearbeiten** neben dem Seitenlayout, das Sie ändern möchten.
 
    >[!NOTE]
    >
-   >Sales Connect installiert einige Seitenlayouts für Sie. Wenn Sie jedoch bereits über ein Standard-Layout verfügen, das Ihr Team verwendet, sollten Sie es dort installieren. Sie können die Seitenlayouts von Sales Connect löschen, wenn Sie sie nicht verwenden möchten.
+   >Sales Connect installiert einige Seiten-Layouts für Sie. Wenn Sie jedoch bereits über ein Standard-Layout verfügen, das Ihr Team verwendet, sollten Sie es dort installieren. Sie können die Sales Connect-Seiten-Layouts löschen, wenn Sie sie nicht verwenden möchten.
 
 1. Scrollen Sie nach unten zum Abschnitt Aktivitätsverlauf .
-1. Klicken Sie auf den zu bearbeitenden Schraubenschlüssel.
-1. Wählen Sie die Felder für die Verkaufsverbindung aus, die Sie in den Abschnitt &quot;Aktivitätsverlauf&quot;aufnehmen möchten. Wenn hier keine Sales Connect-Felder angezeigt werden, haben Sie möglicherweise das falsche Salesforce-Paket installiert.
-1. Klicken Sie auf **Hinzufügen** , um die gewünschten Felder zu verschieben.
+1. Klicken Sie zum Bearbeiten auf den Schraubenschlüssel.
+1. Wählen Sie die Sales Connect-Felder aus, die Sie in den Abschnitt „Aktivitätshistorie“ aufnehmen möchten. Wenn Sie hier keine Sales Connect-Felder sehen, haben Sie möglicherweise das falsche Salesforce-Paket installiert.
+1. Klicken Sie **Hinzufügen**, um die gewünschten Felder zu verschieben.
 1. Klicken Sie auf **OK**.
 1. Klicken Sie auf **Speichern**.
 
-   Ihre Benutzer können jetzt wertvolle Informationen und Updates über ihre E-Mails in Salesforce sehen!
+   Ihre Benutzer können jetzt wertvolle Informationen und Aktualisierungen zu ihren E-Mails in Salesforce sehen!

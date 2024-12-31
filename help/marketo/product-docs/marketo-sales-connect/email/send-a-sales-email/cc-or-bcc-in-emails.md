@@ -13,6 +13,6 @@ ht-degree: 0%
 
 # CC oder BCC in E-Mails {#cc-or-bcc-in-emails}
 
-Sie können CC- und BCC-Kontakte wie gewohnt in Ihren E-Mails verwenden.
+Sie können CC- und BCC-Personen wie gewohnt in Ihren E-Mails verwenden.
 
-Beim Tracking kann unser Dienst jedoch nicht unterscheiden, wer Ihre E-Mail geöffnet hat (ob es sich um den ursprünglichen Empfänger oder die kopierte Person handelt). Sie können dies gelegentlich anhand des Standorts und Browsers des Benutzers erraten, aber es ist keine genaue Wissenschaft.
+Beim Tracking kann unser Service jedoch nicht unterscheiden, wer Ihre E-Mail geöffnet hat (egal ob es sich um den ursprünglichen Empfänger oder die kopierte Person handelte). Sie können dies gelegentlich anhand des Standorts und Browsers des Benutzers erraten, es ist jedoch keine exakte Wissenschaft.

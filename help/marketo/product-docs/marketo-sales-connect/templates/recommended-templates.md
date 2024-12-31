@@ -13,36 +13,36 @@ ht-degree: 0%
 
 # Empfohlene Vorlagen {#recommended-templates}
 
-Die empfohlenen Vorlagen von Sales Connect helfen Ihnen dabei, die richtigen Nachrichten zu erhalten, während Sie Zeit sparen. Dadurch erhalten Sie beim E-Mail-Versand einen größeren Fluss und können die Unsicherheit bei der Suche nach der richtigen E-Mail für die richtige Person verringern.
+Die empfohlenen Vorlagen von Sales Connect helfen Ihnen, die richtige Botschaft zu erhalten und dabei Zeit zu sparen. Dies gibt Ihnen einen größeren Fluss beim Senden von E-Mails und verringert die Unsicherheit, wenn Sie versuchen, die richtige E-Mail für die richtige Person zu finden.
 
-1. Gehen Sie in den Tab Vorlagen .
+1. Wechseln Sie zur Registerkarte Vorlagen .
 
-1. Wählen Sie die Vorlage aus, die Sie empfehlen möchten, und klicken Sie auf **Bearbeiten**.
+1. Wählen Sie die gewünschte Vorlage aus und klicken Sie auf **Bearbeiten**.
 
-1. Um die Funktion &quot;Empfohlene Vorlage&quot;für Ihre Vorlage zu aktivieren, aktivieren Sie die Option **Diese Vorlage automatisch vorschlagen, wenn** aktiv ist.
+1. Um die empfohlene Vorlagenfunktion in Ihrer Vorlage zu aktivieren, aktivieren Sie **Diese Vorlage automatisch vorschlagen, wenn**.
 
-## Alle vs. Beliebige {#all-vs-any}
+## Alle vs. alle {#all-vs-any}
 
-Jetzt ist es an der Zeit, Ihre Kriterieneinstellungen auszuwählen. Wählen Sie **Alle** aus, wenn Sie möchten, dass Ihre Vorlage empfohlen wird, wenn alle Kriterien erfüllt sind. Wählen Sie **Beliebig** aus, wenn Sie möchten, dass Ihre Vorlage empfohlen wird, wenn eines der Kriterien erfüllt ist.
+Jetzt ist es an der Zeit, Ihre Kriterieneinstellungen auszuwählen. Wählen Sie **Alle** aus, wenn Ihre Vorlage empfohlen werden soll, wenn alle Kriterien erfüllt sind. Wählen Sie **Beliebig**, wenn Ihre Vorlage empfohlen werden soll, wenn eines der Kriterien erfüllt ist.
 
 ## Festlegen von Kriterien {#setting-criteria}
 
-Ihre Kriterien werden die Bedingungen festlegen, für die Vorlagen empfohlen werden. Sie können maximal 3 Kriterienelemente festlegen. Wählen Sie zunächst die dynamischen Felder aus, auf die Sie in Ihrer Vorlage verweisen möchten.
+Ihre Kriterien legen die Bedingungen fest, für die Vorlagen empfohlen werden. Sie können maximal 3 Kriterienteile festlegen. Wählen Sie zunächst die dynamischen Felder aus, auf die Sie in Ihrer Vorlage verweisen möchten.
 
 ## Bedingungen {#conditions}
 
-Wählen Sie nun Ihre Bedingung aus. Wenn Ihre Bedingungen für Ihr dynamisches Feld erfüllt sind, wird die Vorlage empfohlen. Wählen Sie aus 4 verschiedenen Bedingungen.
+Wählen Sie jetzt Ihre Bedingung aus. Wenn Ihre Bedingungen für das dynamische Feld erfüllt sind, wird die Vorlage empfohlen. Wählen Sie aus 4 verschiedenen Bedingungen.
 
-**Gleich**: Der Wert muss eine exakte Übereinstimmung sein (z. B. Marketo gleich Marketo)
+**Gleich**: Der Wert muss exakt übereinstimmen (z. B. Marketo ist gleich Marketo)
 
-**Does not equal**: Der Wert muss alles andere als eine exakte Übereinstimmung sein (z. B. Marketing Nation ist nicht gleich Marketing)
+**Ist nicht gleich**: Wert muss alles andere als eine exakte Übereinstimmung sein (z. B. Marketing-Nation ist nicht gleich Marketing)
 
-**Enthält**: Nur den Wert (z. B. Marketo Rocks! enthält Marketo)
+**Enthält**: Muss nur den Wert enthalten (z. B. Marketo Rocks! Enthält Marketo)
 
 **Enthält nicht**: Der Wert darf sich nicht im dynamischen Feld befinden (z. B. Marketo Rocks! enthält nicht Awesome)
 
 ## Wie eine empfohlene Vorlage aussieht {#what-a-recommended-template-looks-like}
 
-Nachdem Sie Ihre Kriterien festgelegt haben, speichern Sie die Vorlage. Von hier aus wird Sales Connect die besten Vorlagen für Sie präsentieren.
+Nachdem die Kriterien festgelegt wurden, speichern Sie die Vorlage. Von hier aus wird Sales Connect seine Magie nutzen, um die besten Vorlagen für Sie aufzudecken.
 
-Nachdem Sie nun Ihre erste Vorlage zugeordnet haben, ist es an der Zeit, den Rest zuzuordnen. Gehen Sie durch Ihre erfolgreichsten Vorlagen und empfehlen Sie sie. Vergessen Sie nicht, die Vorlage auch für Ihr Team freizugeben. Ihre empfohlenen Einstellungen für Vorlagen werden auch von Ihrem Team freigegeben.
+Nachdem Sie nun Ihre erste Vorlage zugeordnet haben, ist es an der Zeit, den Rest zuzuordnen. Durchsuchen Sie Ihre erfolgreichsten Vorlagen und empfehlen Sie sie. Vergessen Sie nicht, die Vorlage auch für Ihr Team freizugeben. Die empfohlenen Einstellungen für alle Vorlagen werden auch für Ihr Team freigegeben.

@@ -1,6 +1,6 @@
 ---
 description: Aufrufergebnisse - Marketo-Dokumente - Produktdokumentation
-title: Ergebnisse der Aufrufe
+title: Aufrufergebnisse
 exl-id: 55ac4d04-8853-46e7-9027-26f0c4897a2a
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -10,33 +10,33 @@ ht-degree: 0%
 
 ---
 
-# Ergebnisse der Aufrufe {#call-outcomes}
+# Aufrufergebnisse {#call-outcomes}
 
-Ermöglichen Sie es Ihren Verkaufsteams, bei Anrufen die Ergebnisse der Anrufe auszuwählen, damit Ihr Team die Auswirkungen Ihrer Kundeninteraktionen verstehen kann.
+Erlauben Sie Ihren Vertriebsteams, bei Anrufen Anrufergebnisse auszuwählen, damit Ihr Team die Auswirkungen Ihrer Kundeninteraktionsbemühungen verstehen kann.
 
 >[!NOTE]
 >
->**Erforderliche Administratorberechtigungen.**
+>**Administratorberechtigungen erforderlich.**
 
-## Aktivieren der Anrufergebnisse {#enable-call-outcomes}
+## Anrufergebnisse aktivieren {#enable-call-outcomes}
 
 1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
 
    ![](assets/call-outcomes-1.png)
 
-1. Wählen Sie unter &quot;Admin Settings&quot;**Dialer** aus.
+1. Wählen Sie unter Admin Settings **Dialer** aus.
 
    ![](assets/call-outcomes-2.png)
 
-1. Wählen Sie **Ergebnisse der Aufrufe aktivieren** aus.
+1. Wählen Sie **Anrufergebnisse aktivieren** aus.
 
    ![](assets/call-outcomes-3.png)
 
-1. Wählen Sie die gewünschte Ergebnisanforderung für den Anruf aus.
+1. Wählen Sie Ihre gewünschte Anforderung für das Anrufergebnis aus.
 
    ![](assets/call-outcomes-4.png)
 
-## Ergebnisse von Aufrufen erstellen {#create-call-outcomes}
+## Erstellen von Aufrufergebnissen {#create-call-outcomes}
 
 >[!NOTE]
 >
@@ -46,47 +46,47 @@ Ermöglichen Sie es Ihren Verkaufsteams, bei Anrufen die Ergebnisse der Anrufe a
 
    ![](assets/call-outcomes-5.png)
 
-1. Wählen Sie unter &quot;Admin Settings&quot;**Dialer** aus.
+1. Wählen Sie unter Admin Settings **Dialer** aus.
 
    ![](assets/call-outcomes-6.png)
 
-1. Klicken Sie auf **Ergebnisse der Aufrufe verwalten**.
+1. Klicken Sie **Anrufergebnisse verwalten**.
 
    ![](assets/call-outcomes-7.png)
 
-1. Geben Sie den gewünschten Ergebnisnamen des Aufrufs in das Textfeld ein.
+1. Geben Sie den gewünschten Namen für das Anrufergebnis in das Textfeld ein.
 
    ![](assets/call-outcomes-8.png)
 
-1. Klicken Sie auf die Dropdown-Liste Antworten und wählen Sie den Ergebnistyp aus (in diesem Beispiel wählen wir Beantwortet aus). Klicken Sie dann auf **Hinzufügen**.
+1. Klicken Sie auf die Dropdown-Liste Beantwortet und wählen Sie den Ergebnistyp aus (in diesem Beispiel wählen wir Beantwortet aus). Klicken Sie dann auf **Hinzufügen**.
 
    ![](assets/call-outcomes-9.png)
 
-## Ergebnis eines Aufrufs auswählen {#choose-a-call-outcome}
+## Auswählen eines Anrufergebnisses {#choose-a-call-outcome}
 
-Sobald die Ergebnisse der Aufrufe aktiviert wurden. Benutzer können beim Aufruf eine auswählen.
+Sobald die Aufrufergebnisse aktiviert sind. Benutzer können beim Aufrufen eines auswählen.
 
-1. Klicken Sie auf die Anruftaste, um den Dialer zu starten.
+1. Klicken Sie auf die Anruftaste, um den Wähler zu starten.
 
    ![](assets/call-outcomes-10.png)
 
-1. Geben Sie die Aufrufinformationen in den Dialer ein und klicken Sie auf **Aufruf**.
+1. Geben Sie die Anrufinformationen in den Wähler ein und klicken Sie auf **Anruf**.
 
    ![](assets/call-outcomes-11.png)
 
-1. Wählen Sie das Aufrufergebnis aus, das den Aufruf am besten beschreibt.
+1. Wählen Sie das Anrufergebnis aus, das den Anruf am besten beschreibt.
 
    ![](assets/call-outcomes-12.png)
 
-1. Beenden Sie den Aufruf.
+1. Beenden Sie den Anruf.
 
    ![](assets/call-outcomes-13.png)
 
-1. Protokollieren Sie den -Aufruf.
+1. Protokollieren Sie den Anruf.
 
    ![](assets/call-outcomes-14.png)
 
 >[!MORELIKETHIS]
 >
->* [Gründe für Aufrufe protokollieren und Ergebnisse an Salesforce aufrufen](/help/marketo/product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
->* [Aufrufgründe](/help/marketo/product-docs/marketo-sales-connect/phone/call-reasons.md)
+>* [Gründe für Anrufe und Anrufergebnisse in Salesforce protokollieren](/help/marketo/product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
+>* [Anrufgründe](/help/marketo/product-docs/marketo-sales-connect/phone/call-reasons.md)

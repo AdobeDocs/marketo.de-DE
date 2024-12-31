@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1900548
-description: Vorschau einer E-Mail mit dynamischen Inhalten - Marketo-Dokumente - Produktdokumentation
+description: Vorschau einer E-Mail mit dynamischem Inhalt - Marketo-Dokumente - Produktdokumentation
 title: Vorschau einer E-Mail mit dynamischem Inhalt
 exl-id: 7d27f73c-d38b-4d95-a861-b27367f1f532
 feature: Email Editor
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Vorschau einer E-Mail mit dynamischem Inhalt {#preview-an-email-with-dynamic-content}
 
-Sehen Sie sich Ihre E-Mail in der Vorschau an, nachdem Sie dynamischen Inhalt hinzugefügt haben, um ihn zu überprüfen.
+Zeigen Sie Ihre E-Mail nach dem Hinzufügen dynamischer Inhalte in der Vorschau an, um sie zu überprüfen.
 
-1. Wählen Sie Ihre E-Mail aus und klicken Sie auf **E-Mail-Vorschau anzeigen**.
+1. Wählen Sie Ihre E-Mail aus und klicken Sie auf **Vorschau der E-Mail**.
 
    ![](assets/one-3.png)
 
@@ -23,7 +23,7 @@ Sehen Sie sich Ihre E-Mail in der Vorschau an, nachdem Sie dynamischen Inhalt hi
 
    ![](assets/two-3.png)
 
-1. Eine neue Dropdown-Liste wird angezeigt. Klicken Sie darauf und wählen Sie den gewünschten Inhalt aus.
+1. Eine neue Dropdown-Liste wird angezeigt. Klicken Sie darauf und wählen Sie den spezifischen Inhalt aus.
 
    ![](assets/three-2.png)
 
@@ -31,9 +31,9 @@ Sehen Sie sich Ihre E-Mail in der Vorschau an, nachdem Sie dynamischen Inhalt hi
 
    ![](assets/four-1.png)
 
-Dynamische Inhalte können auch direkt im E-Mail-Editor in der Vorschau angezeigt werden.
+Sie können dynamische Inhalte auch direkt im E-Mail-Editor in der Vorschau anzeigen.
 
-1. Klicken Sie unter **Inhalt** auf die Registerkarte **Dynamisch**.
+1. Klicken **unter &quot;**&quot; auf die Registerkarte **Dynamisch**.
 
    ![](assets/five-1.png)
 
@@ -41,4 +41,4 @@ Dynamische Inhalte können auch direkt im E-Mail-Editor in der Vorschau angezeig
 
    ![](assets/six.png)
 
-Sehr gut! Sehen Sie sich Ihre E-Mails in der Vorschau an, um sicherzustellen, dass der Inhalt Ihren Vorstellungen entspricht.
+Sehr gut! Zeigen Sie eine Vorschau Ihrer E-Mails an, um sicherzustellen, dass der Inhalt Ihren Vorstellungen entspricht.

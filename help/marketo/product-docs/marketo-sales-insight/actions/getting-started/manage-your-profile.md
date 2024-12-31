@@ -10,57 +10,57 @@ ht-degree: 3%
 
 # Profil verwalten {#manage-your-profile}
 
-Auf Ihrer Seite &quot;Mein Profil&quot;können Sie Ihren Namen, die Sprache/das Gebietsschema/die Zeitzone Ihres Kontos aktualisieren und Ihr Kennwort ändern.
+Auf Ihrer Seite Mein Profil können Sie Ihren Namen, die Sprache/das Gebietsschema/die Zeitzone Ihres Kontos aktualisieren und Ihr Passwort ändern.
 
 ## Kontodetails {#account-details}
 
-Hier können Sie Ihren Namen und/oder Ihr Passwort aktualisieren.
+Hier können Sie Ihren Namen und/oder Ihr Kennwort aktualisieren.
 
 1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
 
    ![](assets/manage-your-profile-1.png)
 
-1. Ihre Seite &quot;Mein Profil&quot;wird standardmäßig geöffnet. Um Ihren Namen zu aktualisieren, geben Sie einfach die Änderungen ein und klicken Sie auf **Speichern**.
+1. Die Seite „Mein Profil“ wird standardmäßig geöffnet. Um Ihren Namen zu aktualisieren, geben Sie einfach die Änderungen ein und klicken Sie auf **Speichern**.
 
    ![](assets/manage-your-profile-2.png)
 
 >[!NOTE]
 >
->Ihre E-Mail-Adresse ist so eingestellt, dass sie nur angezeigt wird. Wenden Sie sich bei Bedarf auch an den [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support).
+>Ihre E-Mail-Adresse ist so eingestellt, dass nur sie angezeigt wird. Wenn Sie das ändern müssen, wenden Sie sich an den [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support).
 
-Sie können Ihr Kennwort auch in diesem Abschnitt ändern. Die Schritte sind in diesem Dokument beschrieben.
+In diesem Abschnitt können Sie auch Ihr Kennwort ändern. Die Schritte werden in diesem Dokument beschrieben.
 
 ## Ihre Integrationen {#your-integrations}
 
-Rechts auf der Seite zeigt der Abschnitt Ihre Integrationen den Status aller Verbindungen Ihres Kontos an.
+Rechts auf der Seite finden Sie im Abschnitt Integrationen den Status aller Verbindungen Ihres Kontos.
 
 ![](assets/manage-your-profile-3.png)
 
 >[!NOTE]
 >
->Wenn Sie Exchange On Prem mit Marketo Sales verwenden, werden die Konsistenzprüfungen für die Integration von Versandkanal (1. Zeileneintrag) oder Antwort-Tracking (2. Zeileneintrag) nicht aktualisiert. Wir arbeiten daran, dies in einer zukünftigen Version zu unterstützen.
+>Wenn Sie Exchange On-Premise mit Marketo Sales verwenden, werden die Zustandsprüfungen für die Integration des Versandkanals (erster Zeileneintrag) oder die Antwortverfolgung (zweiter Zeileneintrag) nicht aktualisiert. Wir arbeiten daran, dies in einer zukünftigen Version zu unterstützen.
 
 ## Zeitzone {#time-zone}
 
-Hier erfahren Sie, wie Sie die Sprache, das Gebietsschema und/oder die Zeitzone Ihres Kontos ändern.
+So ändern Sie die Sprache, das Gebietsschema und/oder die Zeitzone Ihres Kontos.
 
 >[!NOTE]
 >
->Unterstützte Sprachen: Englisch, Französisch, Deutsch, Japanisch, Portugiesisch, Spanisch.
+>Unterstützte Sprachen: Deutsch, Englisch, Französisch, Japanisch, Portugiesisch, Spanisch.
 
 1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
 
    ![](assets/manage-your-profile-4.png)
 
-1. Um Ihre Sprache zu ändern, klicken Sie auf das Dropdown-Menü **Sprache** und wählen Sie aus.
+1. Um Ihre Sprache zu ändern, klicken Sie auf **Dropdown-** Sprache und wählen Sie eine aus.
 
    ![](assets/manage-your-profile-5.png)
 
-1. Gebietsschema hier bezieht sich auf die Region, in der diese Sprache gesprochen wird. Eine wird standardmäßig ausgewählt, wenn Sie Ihre Sprache ändern. Um sie jedoch manuell zu ändern, klicken Sie auf die Dropdown-Liste **Gebietsschema** und wählen Sie sie aus.
+1. Gebietsschema bezieht sich hier auf die Region, in der diese Sprache gesprochen wird. Eine wird standardmäßig ausgewählt, wenn Sie Ihre Sprache ändern. Um sie jedoch manuell zu ändern, klicken Sie auf die **Gebietsschema** Dropdown-Liste und treffen Sie Ihre Wahl.
 
    ![](assets/manage-your-profile-6.png)
 
-1. Klicken Sie auf das Dropdown-Menü **Ihre Zeitzone** und wählen Sie aus.
+1. Klicken Sie auf **Dropdown-** „Ihre Zeitzone“ und wählen Sie.
 
    ![](assets/manage-your-profile-7.png)
 
