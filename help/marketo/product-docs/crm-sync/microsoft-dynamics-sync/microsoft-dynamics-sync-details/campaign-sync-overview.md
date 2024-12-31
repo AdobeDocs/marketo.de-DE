@@ -12,11 +12,11 @@ ht-degree: 0%
 
 # Übersicht über die Kampagnensynchronisierung {#campaign-sync-overview}
 
-Im Rahmen der Kampagnensynchronisierung können Benutzer Automatisierung einrichten, um die Mitgliedschaft in einer Dynamics-Kampagne zu ermöglichen. Leads, die für bestimmte Verhaltensweisen oder demografische Daten qualifiziert sind, können Teil von Microsoft-Kampagnen sein.
+Im Rahmen der Kampagnensynchronisierung können Benutzerinnen und Benutzer eine Automatisierung einrichten, um mit einer Mitgliedschaft in einer Dynamics-Kampagne zu arbeiten. Leads, die für bestimmte Verhaltensweisen oder Demographien qualifiziert sind, können als Teil von Microsoft-Kampagnen eingestuft werden.
 
 >[!PREREQUISITES]
 >
->Aktualisierung auf die neueste Version des Dynamics-Plug-ins für Marketo Engage.
+>Aktualisieren Sie auf die neueste Version des Dynamics-Plug-ins für Marketo Engage.
 
 Die folgenden Flussaktionen sind verfügbar:
 
@@ -25,14 +25,14 @@ Die folgenden Flussaktionen sind verfügbar:
 
 >[!NOTE]
 >
->**[!UICONTROL Aus Microsoft Campaign entfernen]** entfernt nur Personen, die mithilfe von Flussaktionen in Marketo hinzugefügt wurden.
+>**[!UICONTROL Aus Microsoft Campaign entfernen]** werden nur Personen entfernt, die mithilfe von Flussaktionen in Marketo hinzugefügt wurden.
 
 Es gibt auch zwei Trigger:
 
 * [!UICONTROL Zu Microsoft Campaign hinzugefügt]
 * [!UICONTROL Aus Microsoft Campaign entfernt]
 
-Die Trigger werden basierend auf Aktionen der Marketo-Flussaktion &quot;[!UICONTROL Zu Microsoft-Kampagne hinzufügen]&quot;und &quot;[!UICONTROL Aus Microsoft Campaign entfernt]&quot;ausgeführt.
+Die Trigger werden auf der Grundlage von Aktionen aus der Marketo-Flussaktion &quot;[!UICONTROL Zu Microsoft Campaign hinzufügen] und &quot;[!UICONTROL Aus Microsoft Campaign entfernt] ausgeführt.
 
 >[!NOTE]
 >
@@ -40,5 +40,5 @@ Die Trigger werden basierend auf Aktionen der Marketo-Flussaktion &quot;[!UICONT
 
 >[!MORELIKETHIS]
 >
->* [Aktivieren der Kampagnensynchronisierung](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-campaign-sync.md){target="_blank"}
->* [Personen aus Ihrer Dynamics-Kampagne hinzufügen oder entfernen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md){target="_blank"}
+>* [Kampagnensynchronisierung aktivieren](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-campaign-sync.md){target="_blank"}
+>* [Personen zu Ihrer Dynamics-Kampagne hinzufügen oder daraus entfernen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md){target="_blank"}

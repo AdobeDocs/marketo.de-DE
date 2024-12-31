@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Interaktionswerkzeuge in interaktiven Webinaren {#engagement-tools-in-interactive-webinars}
 
-Zeigt die Bereitstellungsfunktion in einem Adobe Connect-Raum an. Um einem Layout einen Pod hinzuzufügen, klicken Sie auf das Pods-Menü und wählen Sie den hinzuzufügenden Pod aus.
+Funktion zur Bereitstellung von Pods in einem Adobe Connect-Raum. Um einen Pod zu einem Layout hinzuzufügen, klicken Sie auf das Menü Pods und wählen Sie den Pod aus, den Sie hinzufügen möchten.
 
 SCREENSHOT
 
@@ -21,85 +21,85 @@ SCREENSHOT
 
 ### Teilen {#share}
 
-Ein Freigabe-Pod wird verwendet, um Inhalte im Raum zu teilen. Er kann zum Freigeben von Bildschirmen, Dokumenten und Whiteboards verwendet werden. Unterstützte Dateitypen, die in einem Freigabe-Pod freigegeben und präsentiert werden können, sind Präsentation (PPT, PPTX), Dokumente (PDF), Audio (MP3), Video (MP4), Bilder (JPG, PNG), benutzerdefinierte Pod (POD, ZIP). Alle hochgeladenen Inhalte bleiben im Raum erhalten und stehen zur Verfügung. Weitere Informationen zum Freigeben-Pod finden Sie in diesem Adobe-Hilfeartikel und in diesem Video.
+Ein Freigabe-Pod wird verwendet, um Inhalte im Raum freizugeben. Er kann zum Freigeben von Bildschirmen, Dokumenten und Whiteboards verwendet werden. Unterstützte Dateitypen, die freigegeben und in einem Share-Pod präsentiert werden können, sind Präsentation (PPT, PPTX), Dokumente (PDF), Audio (MP3), Video (MP4), Bilder (JPG, PNG), benutzerdefinierter Pod (POD, ZIP). Alle hochgeladenen Inhalte bleiben im Raum erhalten und sind sofort verfügbar. Weitere Informationen zum Share-Pod finden Sie in diesem Adobe-Hilfeartikel und in diesem Video.
 
 SCREENSHOT
 
 Hinweise
 
-Der Hinweis-Pod wird vom Gastgeber und den Moderatoren verwendet, um Informationen auszutauschen und Notizen im Raum zu machen. Es unterstützt die Rich-Text-Formatierung, und die Notizen können auch (nach Host) aus dem Menü der Pod exportiert werden. Weitere Informationen zum Hinweis-Pod finden Sie in diesem Adobe-Hilfeartikel und in diesem Video.
+Der Notes-Pod wird vom Moderator und den Moderatoren verwendet, um Informationen auszutauschen und Notizen im Raum zu machen. Es unterstützt Rich-Text-Formatierung, und die Notizen können auch (nach Host) aus dem Pod-Menü exportiert werden. Weitere Informationen zum Notes-Pod finden Sie in diesem Adobe-Hilfeartikel und in diesem Video.
 
 SCREENSHOT
 
-Teilnehmer
+Teilnehmende
 
-Der Teilnehmer-Pod wird verwendet, um Teilnehmer, ihre Aktivitäten und Berechtigungen während des Ereignisses zu verwalten. Hosts und Moderatoren können die Namen, Rollen und Status von Teilnehmern überwachen (z. B. &quot;Hände heben&quot;oder &quot;Zustimmen&quot;). Die Werbeunterbrechung wird auch zur Verwaltung von Aufschlüsselungssitzungen verwendet. Weitere Informationen zum Attendees-Pod finden Sie in diesem Adobe-Hilfeartikel und in diesem Video.
+Der Teilnehmer-Pod wird zum Verwalten von Teilnehmern, deren Aktivitäten und Berechtigungen während des Ereignisses verwendet. Moderatoren und Moderatoren können Teilnehmernamen, Rollen und Status überwachen (z. B. Handzeichen nach oben oder Zustimmen). Der Pod wird auch zum Verwalten von Breakout-Sitzungen verwendet. Weitere Informationen zum Teilnehmerbereich finden Sie in diesem Adobe-Hilfeartikel und in diesem Video.
 
 SCREENSHOT
 
 Video
 
-Der Video-Pod wird zum Freigeben von Webcam-Feeds verwendet. Die Webcams können in einer Raster-, Filmstreifen- oder Einzelredneransicht angeordnet werden. Weitere Informationen zum Video-Pod finden Sie in diesem Adobe-Hilfeartikel.
+Der Video-Pod wird verwendet, um Webcam-Feeds zu teilen. Die Webcams können in einer Raster-, Filmstreifen- oder Einzellautsprecheransicht angeordnet sein. Weitere Informationen zum Video-Pod finden Sie in diesem Adobe-Hilfeartikel.
 
 SCREENSHOT
 
 Chat
 
-Der Chat-Pod wird verwendet, um mit anderen Teilnehmern im Raum zu kommunizieren. Chats innerhalb des Chat-Pods bleiben bestehen, bis sie gelöscht werden. Die Chats können per E-Mail an den Host gesendet werden, um sie zu erhalten. Die Teilnehmer können die Schriftgröße der Chats in ihrem Chat-Pod anpassen.
+Der Chat-Pod wird verwendet, um mit anderen Teilnehmern im Raum zu kommunizieren. Chats innerhalb des Chat-Pods bleiben so lange bestehen, bis sie gelöscht werden. Die Chats können per E-Mail an den Host gesendet werden, um sie beizubehalten. Teilnehmer können die Schriftgröße der Chats in ihrem Chat-Pod anpassen.
 
-Ein Chat-Pod, der im Host- und Presenter-Bereich hinzugefügt wird, kann privat mit dem Präsentationsteam kommunizieren. Weitere Informationen zum Chat-Pod finden Sie in diesem Adobe-Hilfeartikel und in diesem Video.
+Ein Chat-Pod, der im Bereich „Host“ und „Presenter“ hinzugefügt wurde, kann für die private Kommunikation mit dem Präsentationsteam verwendet werden. Weitere Informationen zum Chat-Pod finden Sie in diesem Adobe-Hilfeartikel und in diesem Video.
 
-HINWEIS: Ein Chat-Pod wird immer aufgezeichnet. Verwenden Sie ein Chat-Bedienfeld, wenn Sie nicht möchten, dass die Chats Teil der Aufzeichnung sind. Weitere Informationen zum Chat-Pod finden Sie in diesem Adobe-Hilfeartikel. [Verknüpfen Sie dies mit Chats im Abschnitt &quot;Aufzeichnung&quot;der neuen Seite &quot;Bereitstellen eines interaktiven Webinars&quot;].
+HINWEIS: Ein Chat-Pod wird immer aufgezeichnet. Verwenden Sie ein Chat-Panel, wenn Sie nicht möchten, dass die Chats Teil der Aufzeichnung sind. Weitere Informationen zum Chat-Pod finden Sie in diesem Adobe-Hilfeartikel. [Verknüpfen Sie dies mit Chats im Abschnitt Aufzeichnung der neuen Seite „Bereitstellen eines interaktiven Webinars“].
 
 SCREENSHOT
 
 Fragen und Antworten
 
-Ein Fragen-und-Antworten-Pod (Fragen und Antworten) wird verwendet, um moderierte Diskussionen während der Veranstaltung zu führen. Die Teilnehmer können nur die von ihnen gestellten Fragen und die Antworten des Gastgebers oder des Moderators auf ihre Fragen sehen. Wenn jedoch eine Frage öffentlich beantwortet wird, werden sowohl die Frage als auch die Antwort für alle sichtbar.
+Ein Pod mit Fragen und Antworten wird verwendet, um die Diskussionen während der Veranstaltung zu moderieren. Die Teilnehmer können nur die von ihnen gestellten Fragen und die Antworten auf ihre Frage vom Gastgeber oder Moderator sehen. Wenn jedoch eine Frage öffentlich beantwortet wird, werden sowohl die Frage als auch die Antwort für alle sichtbar.
 
-Der Gastgeber kann den Namen des Absenders und des Moderators aus den Zimmereinstellungen ausblenden.
-
-SCREENSHOT
-
-Die Vorschau des Q&amp;A Pods kann auch in den Host &amp; Presenter Bereich verschoben werden, um eine größere Immobilie zur Moderation der Fragen zur Verfügung zu haben.
+Der Moderator kann den Namen des Absenders und des Moderators aus den Raumeinstellungen ausblenden.
 
 SCREENSHOT
 
-Weitere Informationen zum Q&amp;A-Pod finden Sie in diesem Adobe-Hilfeartikel und in diesem Video.
+Die Präsentationsansicht des Fragenpults kann auch in den Host- und Präsentationsbereich verschoben werden, um eine größere Immobilie für die Moderation der Fragen zur Verfügung zu haben.
+
+SCREENSHOT
+
+Weitere Informationen zum Fragen und Antworten-Pod finden Sie in diesem Adobe-Hilfeartikel und in diesem Video.
 
 SCREENSHOT
 
 Umfrage
 
-Der Umfrage-Pod wird verwendet, um während der Sitzung Fragen von Teilnehmern zu stellen. Der Umfrage-Pod unterstützt Fragen vom Typ Mehrfachauswahl, Mehrfachantwort und Kurzantwort. Die Hosts können die Ergebnisse an die Teilnehmer senden. Weitere Informationen zum Umfrage-Pod finden Sie in diesem Adobe-Hilfeartikel und in diesem Video.
+Der Umfrage-Pod wird verwendet, um Fragen von Teilnehmern während der Sitzung zu stellen. Der Umfrage-Pod unterstützt Multiple Choice, Multiple Answer und Short Answer Type Questions. Die Veranstalter können wählen, die Ergebnisse an die Teilnehmer zu senden. Weitere Informationen zu Poll Pod finden Sie in diesem Adobe-Hilfeartikel und in diesem Video.
 
 SCREENSHOT
 
 Dateien
 
-Der Datei-Pod wird verwendet, um herunterladbare Inhalte freizugeben. Dies kann verwendet werden, um Produkt-Whitepapers, Fallstudien, Präsentationen, Videos usw. zu teilen. mit den Teilnehmern. Dateien können hinzugefügt werden, indem Sie auf die Plusschaltfläche klicken oder Dateien direkt in den Pod ziehen und dort ablegen. Weitere Informationen zum Dateipfad finden Sie in diesem Video.
+Der Dateien-Pod wird verwendet, um herunterladbare Inhalte freizugeben. Dies kann verwendet werden, um Produkt-Whitepapers, Fallstudien, Präsentationen, Videos usw. zu teilen. mit Teilnehmern. Dateien können hinzugefügt werden, indem Sie auf die Schaltfläche mit dem Pluszeichen klicken oder Dateien per Drag-and-Drop direkt in den Pod ziehen. Weitere Informationen zum Dateien-Pod finden Sie in diesem Video .
 
 SCREENSHOT
 
 Weblinks
 
-Der Web Links-Pod wird verwendet, um Web-URLs freizugeben. Dies kann verwendet werden, um Links zu Social-Handles, Seiten in der Produktgemeinschaft, Whitepapers, Fallstudien usw. für Teilnehmer freizugeben.
+Der Pod „Weblinks“ wird zum Freigeben von Web-URLs verwendet. Dies kann verwendet werden, um Links zu Social-Media-Handles, Produkt-Community-Seiten, Whitepapers, Fallstudien usw. mit Teilnehmern zu teilen.
 
-Hosts können auch einen Link an Teilnehmer senden, die den Link in einem Browserfenster öffnen.
+Hosts können auch einen Link an Teilnehmer senden, die den Link in einem Browser-Fenster für sie öffnen.
 
-Weitere Informationen zum Weblinks-Pod finden Sie in diesem Video.
+Weitere Informationen zum Weblinks-Pod finden Sie in diesem Video .
 
 SCREENSHOT
 
 Interaktions-Dashboard
 
-Das Interaktions-Dashboard wird von Hosts und Moderatoren verwendet, um die Aufmerksamkeit und Interaktivität der Teilnehmer während einer Sitzung zu überwachen. Auf das Interaktions-Dashboard kann nur innerhalb des Bereichs Host und Moderator zugegriffen werden. Weitere Informationen zum Interaktions-Dashboard finden Sie in diesem Video.
+Das Interaktions-Dashboard wird von Hosts und Moderatoren verwendet, um die Aufmerksamkeit und Interaktivität der Teilnehmer während einer Sitzung zu überwachen. Das Interaktions-Dashboard kann nur im Bereich „Gastgeber und Moderator“ aufgerufen werden. Weitere Informationen zum Interaktions-Dashboard finden Sie in diesem Video.
 
 SCREENSHOT
 
 ### Benutzerdefinierte Pods {#custom-pods}
 
-Benutzerdefinierte Pods erweitern die von Adobe Connect bereitgestellten Funktionen. Einige der beliebten benutzerdefinierten Pods, die kostenlos verfügbar sind, sind Countdown Timer, Clock, House Keeper, Titler und Word Cloud. Benutzerdefinierte Pods können von https://apps.adobeconnect.com/ als .pod- oder .zip-Datei heruntergeladen werden.
+Benutzerdefinierte Pods erweitern die von Adobe Connect bereitgestellten Funktionen. Einige der beliebtesten benutzerdefinierten Pods, die kostenlos verfügbar sind, sind Countdown Timer, Clock, House Keeper, Titler und Word Cloud. Benutzerdefinierte Pods können von https://apps.adobeconnect.com/ als .pod- oder .zip-Datei heruntergeladen werden.
 
 So verwenden Sie einen benutzerdefinierten Pod:
 
@@ -109,36 +109,36 @@ So verwenden Sie einen benutzerdefinierten Pod:
 
 ## Über die Grundlagen hinaus {#beyond-the-basics}
 
-### Verwalten von Aufschlüsselungen {#managing-breakouts}
+### Verwalten von Breakouts {#managing-breakouts}
 
-Breakout-Räume sind Unterräume, die innerhalb einer Meetings- oder Trainings-Sitzung erstellt werden können. Sie sind nützlich, um eine große Gruppe in kleinere Gruppen zu unterteilen, die sprechen oder zusammenarbeiten können. Hosts können bis zu 20 Breakout-Zimmer für eine einzelne Sitzung erstellen.
+Breakout-Räume sind Unterräume, die in einer Besprechungs- oder Schulungssitzung erstellt werden können. Sie sind nützlich, um eine große Gruppe in kleinere Gruppen aufzuteilen, die miteinander sprechen oder zusammenarbeiten können. Hosts können bis zu 20 Breakout-Räume für eine einzelne Sitzung erstellen.
 
-In den Frühstücksräumen können die Teilnehmer sprechen, ihre Webcam teilen, Chat-Pods verwenden, an einem Whiteboard zusammenarbeiten und ihre Bildschirme teilen. Der Gastgeber kann alle Räume des Frühstücks besuchen, um Fragen zu beantworten und zu unterstützen.
+In den Breakout-Räumen können die Teilnehmer sprechen, ihre Webcam teilen, Chat-Pods verwenden, auf einem Whiteboard zusammenarbeiten und ihre Bildschirme teilen. Der Gastgeber kann alle Breakout-Räume besuchen, um zu helfen und Fragen zu beantworten.
 
-Wenn die Arbeit in den Breakout-Zimmern abgeschlossen ist, kann der Gastgeber die Breakout-Sitzung beenden und die Teilnehmer in den Hauptraum zurückbringen. Die Hosts können die Geschehnisse in den Frühstücksräumen für alle freigeben und überprüfen. Wenn Sie den Raum erneut benutzen, können Sie auch das Layout und den Inhalt des Aufschlüsselungsraums wiederverwenden.
+Wenn die Arbeit in den Breakout-Räumen abgeschlossen ist, kann der Host die Breakout-Sitzung beenden und die Teilnehmer zum Hauptraum zurückbringen. Gastgeber können mit allen teilen und überprüfen, was in den Breakout-Räumen passiert ist. Wenn Sie den Raum erneut verwenden, können Sie auch das Layout und den Inhalt des Breakout-Raums wiederverwenden.
 
-Um mehr über die Breakout-Zimmer zu erfahren, sehen Sie sich die Videos in dieser Playlist an.
+Um mehr über Breakout-Räume zu erfahren, schaut euch die Videos in dieser Playlist an.
 
-### Inhalt aus Pods löschen {#clear-content-from-pods}
+### Inhalte aus Pods löschen {#clear-content-from-pods}
 
-Die Option Inhalt aus Pods löschen im Menü PODs kann verwendet werden, um den Inhalt innerhalb der Pods zu löschen, wenn der Raum für eine neue Sitzung wiederverwendet wird. Dadurch wird der Inhalt nur aus dem Raum gelöscht. Die Interaktionsdaten aus der letzten Sitzung werden NICHT gelöscht und stehen weiterhin in Marketo zur Analyse zur Verfügung.
+Die Option Inhalt aus Pods löschen im Menü Pods kann verwendet werden, um den Inhalt aus den Pods zu löschen, wenn der Raum für eine neue Sitzung wiederverwendet wird. Dadurch wird der Inhalt nur aus dem Raum gelöscht. Die Interaktionsdaten aus der letzten Sitzung werden NICHT gelöscht und stehen weiterhin in Marketo zur Analyse zur Verfügung.
 
 ### Umbenennen von Pods {#renaming-pods}
 
-Einige Pods wie Notizen, Chat, Dateien, Web-Links und Freigabe können mehrere Instanziierungen in einem Raum aufweisen und es ist möglich, eine Pod-Instanz in mehreren Layouts wiederzuverwenden. Wenn mehrere Instanzen eines bestimmten Pod-Typs erstellt werden, wird dem Namen standardmäßig eine Zahl als Suffix hinzugefügt, um die Unterscheidung zwischen den verschiedenen Instanzen zu erleichtern. Hosts können solche Pods jedoch einfach umbenennen.
+Einige Pods wie Notizen, Chat, Dateien, Web-Links und Freigabe können mehrere Instanzen in einem Raum haben und es ist möglich, eine Instanz des Pods in mehreren Layouts wiederzuverwenden. Wenn mehrere Instanzen eines bestimmten Pod-Typs erstellt werden, wird standardmäßig eine Zahl als Suffix zum Namen hinzugefügt, damit die verschiedenen Instanzen unterschieden werden können. Hosts können solche Pods jedoch problemlos umbenennen.
 
 Um einen Pod umzubenennen, doppelklicken Sie einfach auf den Namen im Pod-Titel und geben Sie einen neuen ein. Sehen Sie sich dieses Video an, das dies veranschaulicht.
 
-### Pods wechseln {#switching-pods}
+### Switching-Pods {#switching-pods}
 
-Es gibt eine einfache Möglichkeit für Hosts, zwischen Pods zu wechseln, während sie im selben Layout bleiben. Um das Layout zu wechseln, klicken Sie auf das Dropdown-Symbol im Podtitel und wählen Sie aus. Die Änderung wird den Teilnehmern unverzüglich widergespiegelt. Diese Option ist für alle Pods verfügbar, die mehrere Instanzen unterstützen - Chat, Notizen, Umfrage, Freigabe, Dateifreigabe, Weblinks und Quiz.
+Es gibt eine einfache Möglichkeit für Hosts, zwischen Pods zu wechseln, während sie im selben Layout bleiben. Um das Layout zu wechseln, klicken Sie auf das Dropdown-Symbol im Pod-Titel und wählen Sie aus. Die Änderung wird den Teilnehmern sofort angezeigt. Diese Option steht auf allen Pods zur Verfügung, die mehrere Instanzen unterstützen - Chat, Notizen, Umfrage, Freigabe, Dateifreigabe, Weblinks und Quiz.
 
 SCREENSHOT
 
 Erstellen und Verwalten von Layouts
 
-Das Bedienfeld &quot;Layouts&quot;wird zur Verwaltung von Layouts im Raum verwendet. Es ist nur für den Wirt im Zimmer sichtbar. Der Bereich kann zum Erstellen, Löschen, Duplizieren, Umbenennen und Neuanordnen von Layouts verwendet werden. Weitere Informationen zur Verwaltung von Layouts finden Sie in diesem Video.
+Das Bedienfeld „Layouts“ wird zum Verwalten von Layouts im Raum verwendet. Es ist nur für den Gastgeber im Raum sichtbar. Das Bedienfeld kann zum Erstellen, Löschen, Duplizieren, Umbenennen und Neuanordnen von Layouts verwendet werden. Weitere Informationen zum Verwalten von Layouts finden Sie in diesem Video .
 
 Raumeinstellungen und -einstellungen
 
-Auf die Zimmereinstellungen kann über die Option Voreinstellungen im Menü Zimmer zugegriffen werden. Die Einstellungen im Dialogfeld &quot;Voreinstellungen&quot;helfen Hosts, das Erlebnis innerhalb der Sitzung zu steuern. In diesem Video erfahren Sie mehr über die verschiedenen Einstellungen und deren Einfluss auf das Zimmerverhalten.
+Die Zimmereinstellungen sind über die Option Voreinstellungen im Zimmermenü zugänglich. Die Einstellungen im Dialogfeld „Voreinstellungen“ helfen Hosts, das Erlebnis innerhalb der Sitzung zu steuern. In diesem Video erfahren Sie mehr über die verschiedenen Voreinstellungen und wie sie das Raumverhalten beeinflussen.

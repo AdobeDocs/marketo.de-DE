@@ -1,48 +1,48 @@
 ---
-description: CAPTCHA in Marketo Forms aktivieren - Marketo-Dokumente - Produktdokumentation
-title: CAPTCHA in Marketo Forms aktivieren
+description: Aktivieren von CAPTCHA in Marketo Forms - Marketo-Dokumente - Produktdokumentation
+title: Aktivieren von CAPTCHA in Marketo Forms
 exl-id: d83fc2d3-7ae4-4927-9a09-ea6995013b6f
 feature: Forms
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '103'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# CAPTCHA in Marketo Forms aktivieren {#enable-captcha-in-marketo-forms}
+# Aktivieren von CAPTCHA in Marketo Forms {#enable-captcha-in-marketo-forms}
 
-Sie können CAPTCHA pro Formular aktivieren/deaktivieren.
+Sie können CAPTCHA für einzelne Formulare aktivieren/deaktivieren.
 
-1. Wählen Sie das gewünschte Formular aus.
+1. Suchen Sie das gewünschte Formular und wählen Sie es aus.
 
    ![](assets/enable-captcha-in-marketo-forms-1.png)
 
-1. Klicken Sie auf **Entwurf bearbeiten** (Wenn das Formular bereits genehmigt wurde, klicken Sie auf &quot;Entwurf erstellen&quot;).
+1. Klicken Sie **Entwurf bearbeiten** (wenn das Formular bereits genehmigt ist, klicken Sie auf Entwurf erstellen).
 
    ![](assets/enable-captcha-in-marketo-forms-2.png)
 
-1. Klicken Sie auf **Formulareinstellungen** und dann auf **Einstellungen**.
+1. Klicken Sie **Formulareinstellungen** und dann **Einstellungen**.
 
    ![](assets/enable-captcha-in-marketo-forms-3.png)
 
-1. Öffnen Sie die Dropdown-Liste CAPTCHA und wählen Sie **Aktiviert** aus.
+1. Öffnen Sie die CAPTCHA-Dropdown-Liste und wählen Sie **Aktiviert**.
 
    ![](assets/enable-captcha-in-marketo-forms-4.png)
 
-1. Klicken Sie auf **Beenden**.
+1. Klicken Sie auf **Fertigstellen**.
 
    ![](assets/enable-captcha-in-marketo-forms-5.png)
 
-1. Klicken Sie auf **Genehmigen und schließen**.
+1. Klicken Sie **Genehmigen und schließen**.
 
    ![](assets/enable-captcha-in-marketo-forms-6.png)
 
-Es kann einige Minuten dauern, bis Änderungen an dieser Liste von Google übernommen werden.
+Es kann einige Minuten dauern, bis Änderungen an dieser Liste aus Google übernommen werden.
 
 >[!NOTE]
 >
->Zu Ihren CAPTCHA-fähigen Formularen wird ein standardisierter Text hinzugefügt, der auch Links zu den Datenschutzrichtlinien und den Nutzungsbedingungen von Google enthält.
+>In Ihren CAPTCHA-fähigen Formularen wird/werden standardisierter Text eingefügt, einschließlich Links zu den Datenschutzrichtlinien und Nutzungsbedingungen von Google.
 
 >[!MORELIKETHIS]
 >

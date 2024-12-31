@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2360496
-description: Mehrere Werte zu einem Smart-Listenfilter hinzufügen - Marketo Docs - Produktdokumentation
-title: Mehrere Werte zu einem Smart-Listenfilter hinzufügen
+description: Hinzufügen mehrerer Werte zu einem Smart-Listenfilter - Marketo-Dokumente - Produktdokumentation
+title: Hinzufügen mehrerer Werte zu einem Smart-Listen-Filter
 exl-id: 5f9aaf1b-a3a6-4acf-82ea-7d70d1af1763
 feature: Smart Lists
 source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
@@ -11,24 +11,24 @@ ht-degree: 0%
 
 ---
 
-# Mehrere Werte zu einem Smart-Listenfilter hinzufügen {#add-multiple-values-to-a-smart-list-filter}
+# Hinzufügen mehrerer Werte zu einem Smart-Listen-Filter {#add-multiple-values-to-a-smart-list-filter}
 
 >[!PREREQUISITES]
 >
 >* [Erstellen einer Smart-Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
 >* [Filter suchen und zu einer Smart-Liste hinzufügen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}
 
-Angenommen, Sie möchten alle in Kalifornien finden, aber Sie speichern möglicherweise sowohl &quot;Kalifornien&quot;als auch &quot;CA&quot;in Ihrer Datenbank. Um alle entsprechenden Personen einzubeziehen, können Sie zwei [!UICONTROL Status] -Filter verwenden, dies ist jedoch einfacher mit einem.
+Angenommen, Sie möchten alle Personen in Kalifornien finden, aber möglicherweise speichern Sie sowohl „California“ als auch „CA“ in Ihrer Datenbank. Um alle anwendbaren Personen einzubeziehen, können Sie zwei [!UICONTROL state]-Filter verwenden, aber es ist einfacher mit einem.
 
-1. Wechseln Sie zu **[!UICONTROL Marketingaktivitäten]**.
+1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/add-multiple-values-to-a-smart-list-filter-1.png)
 
-1. Suchen und wählen Sie eine Smart-Liste aus und klicken Sie auf die Registerkarte **[!UICONTROL Smart-Liste]** .
+1. Suchen Sie nach einer Smart-Liste, wählen Sie sie aus und klicken Sie auf **[!UICONTROL Registerkarte]** Smart-Liste“.
 
    ![](assets/add-multiple-values-to-a-smart-list-filter-2.png)
 
-1. Klicken Sie auf das Symbol **+** im Filter.
+1. Klicken Sie auf das **+** im Filter.
 
    ![](assets/add-multiple-values-to-a-smart-list-filter-3.png)
 
@@ -40,5 +40,5 @@ Schnelle Arbeit!
 
 >[!MORELIKETHIS]
 >
->* [Eine Beschränkung zu einem Smart-List-Filter hinzufügen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}
->* [Verwenden erweiterter Filter in einer Smart-Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md){target="_blank"}
+>* [Fügen Sie eine Einschränkung zu einem Smart-Listen-Filter hinzu](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}
+>* [Erweiterte Filter in einer Smart-Liste verwenden](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md){target="_blank"}

@@ -11,17 +11,17 @@ ht-degree: 4%
 
 ---
 
-# Microsoft Dynamics Sync-Filter: Zusammenführen {#microsoft-dynamics-sync-filter-merge}
+# Microsoft Dynamics-Synchronisierungsfilter: Zusammenführen {#microsoft-dynamics-sync-filter-merge}
 
-Das Zusammenführen von Leads in Microsoft Dynamics verwendet den Typ Zwei Optionen - Synchronisierungsfilter = Ja (TRUE) und Synchronisierungsfilter = Nein (FALSE). Wenn Sie zwei Datensätze zusammenführen, variiert das Ergebnis je nachdem, welcher Datensatz True und False ist.
+Beim Zusammenführen von Leads in Microsoft Dynamics wird der Typ Zwei Optionen verwendet: Synchronisierungsfilter = Ja (TRUE) und Synchronisierungsfilter = Nein (FALSE). Beim Zusammenführen zweier Datensätze hängt das Ergebnis davon ab, welcher Datensatz den Wert True und welcher den Wert False hat.
 
-Die Lead-Datensätze werden basierend auf den Workflow-Regeln, die vom Administrator zur Bestimmung des Gewinners definiert wurden, zu &quot;true&quot;oder &quot;false&quot;. Der Synchronisierungsfilter für den Gewinnerdatensatz bestimmt letztendlich, ob der MS Dynamics-Datensatz mit Marketo synchronisiert wird.
+Die Lead-Datensätze werden basierend auf den vom Administrator definierten Workflow-Regeln wahr oder falsch, um den Gewinner zu bestimmen. Der Synchronisierungsfilter für den erfolgreichsten Datensatz bestimmt letztendlich, ob der MS Dynamics-Datensatz mit Marketo synchronisiert wird.
 
-Wenn ein Datensatz wahr ist und ein Datensatz falsch ist, wird er schwierig.
+Wenn eine Aufzeichnung wahr ist und die andere falsch ist, wird es schwierig.
 
-| Wenn der Synchronisierungsfilter für den verlorenen Datensatz: | und der Synchronisierungsfilter für den Gewinnerdatensatz lautet: | Dies führt zu Marketo |
+| Wenn der Synchronisierungsfilter für den verlorenen Datensatz wie folgt lautet: | Der Synchronisierungsfilter für den erfolgreichsten Datensatz lautet: | Dies ist das Ergebnis in Marketo |
 |---|---|---|
-| Richtig | Richtig | Der erfolgreichste Rekord wird weiterhin mit Marketo synchronisiert |
-| Falsch | Falsch | Der erfolgreichste Datensatz wird weiterhin mit Marketo synchronisiert (0}nicht _)._ |
-| Falsch | Richtig | Der erfolgreichste Datensatz wird mit Marketo synchronisiert. |
-| Richtig | Falsch | Der erfolgreichste Datensatz wird nicht mit Marketo synchronisiert. |
+| True | True | Der erfolgreichste Datensatz wird weiterhin mit Marketo synchronisiert |
+| Falsch | Falsch | Der erfolgreichste Datensatz wird weiterhin _nicht_ mit Marketo synchronisiert |
+| Falsch | True | Der erfolgreichste Datensatz wird mit Marketo synchronisiert |
+| True | Falsch | Der erfolgreichste Datensatz wird nicht mit Marketo synchronisiert |

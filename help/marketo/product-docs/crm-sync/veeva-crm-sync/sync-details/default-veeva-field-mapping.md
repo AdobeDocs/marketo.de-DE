@@ -1,6 +1,6 @@
 ---
-description: Standardmäßige VEC-Feldzuordnung - Marketo-Dokumente - Produktdokumentation
-title: Standardmäßige VEA-Feldzuordnung
+description: Standard-Veeva-Feldzuordnung - Marketo-Dokumente - Produktdokumentation
+title: Standard-Veeva-Feldzuordnung
 exl-id: 3bf36d50-daea-431f-9537-b3007ad75945
 feature: Veeva CRM
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -10,9 +10,9 @@ ht-degree: 44%
 
 ---
 
-# Standardmäßige VEA-Feldzuordnung {#default-veeva-field-mapping}
+# Standard-Veeva-Feldzuordnung {#default-veeva-field-mapping}
 
-Wenn Sie Ihr Marketo Engage-Konto zum ersten Mal mit Veeva synchronisieren, stellt Marketo diese Verknüpfungen automatisch zwischen Ihren integrierten Feldern von Veeva und Marketo her. Marketo synchronisiert auch Ihre benutzerdefinierten Felder auf Ihren Konten und Kontakten.
+Wenn Sie Ihr Marketo Engage-Konto zum ersten Mal mit Veeva synchronisieren, führt Marketo diese Verknüpfungen automatisch zwischen Ihren integrierten Veeva- und Marketo-Feldern durch. Marketo synchronisiert auch Ihre benutzerdefinierten Felder in Ihren Konten und Kontakten.
 
 ## Kontaktfelder {#contact-fields}
 
@@ -45,7 +45,7 @@ Wenn Sie Ihr Marketo Engage-Konto zum ersten Mal mit Veeva synchronisieren, stel
       <td>E-Mail-Adresse</td>
     </tr>
     <tr>
-      <td>Business Fax</td>
+      <td>Fax (geschäftlich)</td>
       <td>Faxnummer</td>
     </tr>
     <tr>
@@ -70,11 +70,11 @@ Wenn Sie Ihr Marketo Engage-Konto zum ersten Mal mit Veeva synchronisieren, stel
     </tr>
     <tr>
       <td>Lead-Bewertung</td>
-      <td>Bewertung</td>
+      <td>Ergebnis</td>
     </tr>
     <tr>
       <td>MailingCity</td>
-      <td>Ort</td>
+      <td>Stadt</td>
     </tr>
     <tr>
       <td>MailingCountry</td>
@@ -86,7 +86,7 @@ Wenn Sie Ihr Marketo Engage-Konto zum ersten Mal mit Veeva synchronisieren, stel
     </tr>
     <tr>
       <td>MailingState</td>
-      <td>Bundesland</td>
+      <td>Land</td>
     </tr>
     <tr>
       <td>MailingStreet</td>
@@ -138,15 +138,15 @@ Wenn Sie Ihr Marketo Engage-Konto zum ersten Mal mit Veeva synchronisieren, stel
       <td>Abrechnungsland</td>
     </tr>
     <tr>
-      <td>Postleitzahl der Abrechnung</td>
+      <td>Postleitzahl für die Rechnungsstellung</td>
       <td>Postleitzahl für Abrechnung</td>
     </tr>
     <tr>
-      <td>Abrechnungsstaat/Provinz</td>
+      <td>Fakturastaat/Provinz</td>
       <td>Bundesland für Abrechnung</td>
     </tr>
     <tr>
-      <td>Billing Street</td>
+      <td>Abrechnungsstraße</td>
       <td>Rechnungsadresse</td>
     </tr>
     <tr>
@@ -163,14 +163,14 @@ Wenn Sie Ihr Marketo Engage-Konto zum ersten Mal mit Veeva synchronisieren, stel
     </tr>
     <tr>
       <td>Kontoname</td>
-      <td>Unternehmensname</td>
+      <td>Firmenname</td>
     </tr>
     <tr>
       <td>Mitarbeiter</td>
       <td>Anzahl Mitarbeiter</td>
     </tr>
     <tr>
-      <td>Konto-Telefon</td>
+      <td>Telefonnummer des Kontos</td>
       <td>Haupttelefonnummer</td>
     </tr>
     <tr>
@@ -178,7 +178,7 @@ Wenn Sie Ihr Marketo Engage-Konto zum ersten Mal mit Veeva synchronisieren, stel
       <td>SIC-Code</td>
     </tr>
     <tr>
-      <td>Kontoseite</td>
+      <td>Konto-Website</td>
       <td>Seite</td>
     </tr>
     <tr>
@@ -192,9 +192,9 @@ Wenn Sie Ihr Marketo Engage-Konto zum ersten Mal mit Veeva synchronisieren, stel
   </tbody>
 </table>
 
-## VEC-bezogene Systemfelder in Marketo (schreibgeschützt) {#veeva-related-system-fields-in-marketo}
+## Veeva-bezogene Systemfelder in Marketo (schreibgeschützt) {#veeva-related-system-fields-in-marketo}
 
-Diese Felder werden in Marketo erstellt, können jedoch nicht von den Kunden angepasst werden.
+Diese Felder werden in Marketo erstellt, können von Kunden jedoch nicht angepasst werden.
 
 <table>
   <colgroup>
@@ -209,20 +209,20 @@ Diese Felder werden in Marketo erstellt, können jedoch nicht von den Kunden ang
   </thead>
   <tbody>
     <tr>
-      <td>Veeva Id</td>
-      <td>Die Salesforce-ID mit 18 Zeichen</td>
+      <td>Veeva ID</td>
+      <td>Die 18-stellige Salesforce ID</td>
     </tr>
     <tr>
-      <td>Veeva Type</td>
+      <td>Veeva-Typ</td>
       <td>Kontakt. Wenn leer, ist der Lead nur als Person in Marketo vorhanden</td>
     </tr>
     <tr>
-      <td>Erstellungsdatum von Veeva</td>
-      <td>In SFDC erstelltes Datum (kann sich von dem in Marketo erstellten unterscheiden)</td>
+      <td>Veeva Created Date</td>
+      <td>Erstellungsdatum in SFDC (kann sich von dem in Marketo unterscheiden)</td>
     </tr>
     <tr>
       <td>Veeva wird gelöscht</td>
-      <td>Person, die früher Teil des SFDC war, aber gelöscht wurde und jetzt nur noch in Marketo lebt</td>
+      <td>Person war früher in SFDC, wurde jedoch gelöscht und lebt jetzt nur noch in Marketo</td>
     </tr>
   </tbody>
 </table>

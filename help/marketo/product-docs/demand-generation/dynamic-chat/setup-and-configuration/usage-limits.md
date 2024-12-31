@@ -12,16 +12,16 @@ ht-degree: 3%
 
 # Nutzungsbeschränkungen {#usage-limits}
 
-Besuchen Sie die Seite Nutzungsbeschränkungen , um wichtige Informationen wie Paketinformationen und Nutzungsbegrenzungsstatus anzuzeigen.
+Auf der Seite „Nutzungsbeschränkungen“ finden Sie wichtige Informationen wie Paketinformationen und den Status von Nutzungsbeschränkungen.
 
-1. Klicken Sie unter &quot;Konfiguration&quot;auf **[!UICONTROL Nutzungsbeschränkungen]**.
+1. Klicken Sie unter Konfiguration auf **[!UICONTROL Nutzungsbeschränkungen]**.
 
    ![](assets/usage-limits-1.png)
 
-1. Sehen Sie sich Ihr aktuelles Paket, den monatlichen Limit-Status für interaktive Unterhaltungen und den Lebenszeitbegrenzungsstatus für Kalender-/Live-Chat-Plätze an.
+1. Zeigen Sie Ihr aktuelles Paket, den monatlichen Limit-Status für interaktive Unterhaltungen und den Limit-Lebensdauerstatus für Kalender-/Live-Chat-Lizenzen an.
 
    ![](assets/usage-limits-2.png)
 
 >[!NOTE]
 >
->Die monatlichen Beschränkungen werden automatisch am 1. jedes Monats zurückgesetzt.
+>Die monatlichen Limits werden automatisch am 1. jedes Monats zurückgesetzt.

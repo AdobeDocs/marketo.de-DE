@@ -1,18 +1,18 @@
 ---
 description: Standardmäßige Dynamics-Feldzuordnung - Marketo-Dokumente - Produktdokumentation
-title: Standardmäßige Dynamics-Feldzuordnung
+title: Dynamische Standardfeldzuordnung
 exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 feature: Microsoft Dynamics
 source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
 source-wordcount: '823'
-ht-degree: 45%
+ht-degree: 46%
 
 ---
 
-# Standardmäßige Dynamics-Feldzuordnung {#default-dynamics-field-mapping}
+# Dynamische Standardfeldzuordnung {#default-dynamics-field-mapping}
 
-Wenn Sie Ihr Marketo Engage-Konto zum ersten Mal mit Microsoft synchronisieren, führt Marketo diese Verknüpfungen automatisch zwischen Ihren integrierten Dynamics- und Marketo-Feldern durch.  Marketo synchronisiert auch Ihre benutzerdefinierten Felder mit Ihren Leads, Konten, Chancen und Kontakten.
+Wenn Sie Ihr Marketo Engage-Konto zum ersten Mal mit Microsoft synchronisieren, führt Marketo diese Verknüpfungen zwischen Ihren integrierten Dynamics- und Marketo-Feldern automatisch durch.  Marketo synchronisiert auch Ihre benutzerdefinierten Felder für Leads, Konten, Chancen und Kontakte.
 
 ## Lead-Felder {#lead-fields}
 
@@ -31,12 +31,12 @@ Wenn Sie Ihr Marketo Engage-Konto zum ersten Mal mit Microsoft synchronisieren, 
     <tr>
       <td>Microsoft – Erstellungsdatum</td>
       <td>Erstellt am</td>
-      <td>createdon</td>
+      <td>createdOn</td>
     </tr>
     <tr>
       <td>Anrede</td>
       <td>Anrede</td>
-      <td>salutation</td>
+      <td>Begrüßung</td>
     </tr>
     <tr>
       <td>Zuerst</td>
@@ -46,7 +46,7 @@ Wenn Sie Ihr Marketo Engage-Konto zum ersten Mal mit Microsoft synchronisieren, 
     <tr>
       <td>Zweiter Vorname</td>
       <td>Zweiter Vorname</td>
-      <td>middlename</td>
+      <td>MiddleName</td>
     </tr>
     <tr>
       <td>Zuletzt</td>
@@ -56,27 +56,27 @@ Wenn Sie Ihr Marketo Engage-Konto zum ersten Mal mit Microsoft synchronisieren, 
     <tr>
       <td>E-Mail</td>
       <td>E-Mail</td>
-      <td>emailaddress1</td>
+      <td>emailAddress1</td>
     </tr>
     <tr>
       <td>Jobtitel</td>
       <td>Stellenbezeichnung</td>
-      <td>jobtitle</td>
+      <td>Stellenbezeichnung</td>
     </tr>
     <tr>
       <td>Telefon</td>
       <td>Geschäftstelefon</td>
-      <td>telephone1</td>
+      <td>Telefon 1</td>
     </tr>
     <tr>
-      <td>Mobil</td>
+      <td>Mobile</td>
       <td>Mobiltelefon</td>
-      <td>mobilephone</td>
+      <td>Mobiltelefon</td>
     </tr>
     <tr>
       <td>Fax</td>
       <td>Fax</td>
-      <td>fax</td>
+      <td>Fax</td>
     </tr>
     <tr>
       <td>Adresse</td>
@@ -84,14 +84,14 @@ Wenn Sie Ihr Marketo Engage-Konto zum ersten Mal mit Microsoft synchronisieren, 
       <td>address1_line1</td>
     </tr>
     <tr>
-      <td>Ort</td>
-      <td>Ort</td>
+      <td>Stadt</td>
+      <td>Stadt</td>
       <td>address1_city</td>
     </tr>
     <tr>
-      <td>Bundesland</td>
-      <td>Bundesland/Kanton</td>
-      <td>address1_stateorprovinz</td>
+      <td>Land</td>
+      <td>Bundesland/Provinz</td>
+      <td>address1_stateorProvince</td>
     </tr>
     <tr>
       <td>Land</td>
@@ -106,16 +106,16 @@ Wenn Sie Ihr Marketo Engage-Konto zum ersten Mal mit Microsoft synchronisieren, 
     <tr>
       <td>Person – Quelle</td>
       <td>Lead-Quelle</td>
-      <td>leadsourcecode</td>
+      <td>Lead-Quellcode</td>
     </tr>
     <tr>
       <td>Personen-Status</td>
       <td>Status</td>
-      <td>statecode</td>
+      <td>Zustandscode</td>
     </tr>
     <tr>
-      <td>Statusgrund</td>
-      <td>Statusgrund</td>
+      <td>Status – Grund</td>
+      <td>Status – Grund</td>
       <td>statuscode</td>
     </tr>
     <tr>
@@ -125,18 +125,18 @@ Wenn Sie Ihr Marketo Engage-Konto zum ersten Mal mit Microsoft synchronisieren, 
     </tr>
     <tr>
       <td>Nicht aufrufen</td>
-      <td>Telefonaufrufe nicht zulassen</td>
-      <td>donotphone</td>
+      <td>Telefonanrufe nicht zulassen</td>
+      <td>Donotphone</td>
     </tr>
     <tr>
       <td>Abbestellt</td>
-      <td>Massen-E-Mail nicht</td>
+      <td>Keine Massen-E-Mails senden</td>
       <td>donotbulkemail</td>
     </tr>
     <tr>
       <td>Personenbewertung</td>
-      <td>Bewertung</td>
-      <td>Leadqualitätscode</td>
+      <td>Rating</td>
+      <td>LeadQualityCode</td>
     </tr>
     <tr>
       <td>Microsoft – Adresse 2</td>
@@ -160,48 +160,48 @@ Wenn Sie Ihr Marketo Engage-Konto zum ersten Mal mit Microsoft synchronisieren, 
     </tr>
     <tr>
       <td>Microsoft – Kein Marketingmaterial senden</td>
-      <td>Marketing-Material</td>
-      <td>donotsendmm</td>
+      <td>Marketingmaterial</td>
+      <td>donotsendm</td>
     </tr>
     <tr>
       <td>Microsoft – Telefon privat</td>
-      <td>Telefonnummer (privat)</td>
-      <td>telephone2</td>
+      <td>Privates Telefon</td>
+      <td>Telefon2</td>
     </tr>
     <tr>
-      <td>Von Microsoft bevorzugte Kontaktmethode</td>
+      <td>Bevorzugte Kontaktmethode von Microsoft</td>
       <td>Bevorzugte Kontaktmethode</td>
-      <td>preferredContextMethodencode</td>
+      <td>PreferredContactMethodCode</td>
     </tr>
     <tr>
       <td>Microsoft – Thema</td>
       <td>Thema</td>
-      <td>subject</td>
+      <td>Subjekt</td>
     </tr>
     <tr>
-      <td>Letztes interessantes Datum</td>
-      <td>Letztes interessantes Datum</td>
-      <td>mkt_lastinterestingmomentdate</td>
+      <td>Datum des letzten interessanten Moments</td>
+      <td>Datum des letzten interessanten Moments</td>
+      <td>mkt_lastInterestingMomentDate</td>
     </tr>
     <tr>
-      <td>Letzter interessanter Moment desc</td>
-      <td>Letzter interessanter Moment desc</td>
-      <td>mkt_lastinterestingmomentdesc</td>
+      <td>Beschreibung des letzten interessanten Moments</td>
+      <td>Beschreibung des letzten interessanten Moments</td>
+      <td>mkt_lastInterestedMomentdesc</td>
     </tr>
     <tr>
-      <td>Letzte interessante Moment-Quelle</td>
-      <td>Letzte interessante Moment-Quelle</td>
-      <td>mkt_leadinterestingmomentsource</td>
+      <td>Quelle des letzten interessanten Moments</td>
+      <td>Quelle des letzten interessanten Moments</td>
+      <td>mkt_leadInterestedMomentsource</td>
     </tr>
     <tr>
-      <td>Letzter interessanter Moment</td>
-      <td>Letzter interessanter Moment</td>
-      <td>mkt_lastinterestingmomenttype</td>
+      <td>Typ des letzten interessanten Moments</td>
+      <td>Typ des letzten interessanten Moments</td>
+      <td>mkt_lastInterestingMomentType</td>
     </tr>
     <tr>
       <td>Unternehmen</td>
-      <td>Unternehmensname</td>
-      <td>companyname</td>
+      <td>Firmenname</td>
+      <td>companyName</td>
     </tr>
     <tr>
       <td>Relative Bewertung</td>
@@ -216,17 +216,17 @@ Wenn Sie Ihr Marketo Engage-Konto zum ersten Mal mit Microsoft synchronisieren, 
     <tr>
       <td>Relative Dringlichkeit</td>
       <td>Dringlichkeit</td>
-      <td>mkt_frequency</td>
+      <td>mkt_priority</td>
     </tr>
     <tr>
       <td>Betreff</td>
       <td>Thema</td>
-      <td>subject</td>
+      <td>Subjekt</td>
     </tr>
     <tr>
       <td>Jahresumsatz</td>
       <td>Jahresumsatz</td>
-      <td>umsatz</td>
+      <td>Umsatz</td>
     </tr>
   </tbody>
 </table>
@@ -245,11 +245,11 @@ Die folgenden Lead-Felder werden für die interne Verwendung synchronisiert.
     </tr>
     <tr>
       <td>Eigentümer</td>
-      <td>ownerid</td>
+      <td>ownerID</td>
     </tr>
     <tr>
-      <td>created on</td>
-      <td>createdon</td>
+      <td>Erstellt am</td>
+      <td>createdOn</td>
     </tr>
   </tbody>
 </table>
@@ -271,12 +271,12 @@ Die folgenden Lead-Felder werden für die interne Verwendung synchronisiert.
     <tr>
       <td>Microsoft – Erstellungsdatum</td>
       <td>Erstellt am</td>
-      <td>createdon</td>
+      <td>createdOn</td>
     </tr>
     <tr>
       <td>Anrede</td>
       <td>Anrede</td>
-      <td>salutation</td>
+      <td>Begrüßung</td>
     </tr>
     <tr>
       <td>Zuerst</td>
@@ -286,7 +286,7 @@ Die folgenden Lead-Felder werden für die interne Verwendung synchronisiert.
     <tr>
       <td>Zweiter Vorname</td>
       <td>Zweiter Vorname</td>
-      <td>middlename</td>
+      <td>MiddleName</td>
     </tr>
     <tr>
       <td>Zuletzt</td>
@@ -296,22 +296,22 @@ Die folgenden Lead-Felder werden für die interne Verwendung synchronisiert.
     <tr>
       <td>E-Mail</td>
       <td>E-Mail</td>
-      <td>emailaddress1</td>
+      <td>emailAddress1</td>
     </tr>
     <tr>
       <td>Jobtitel</td>
       <td>Jobtitel</td>
-      <td>jobtitle</td>
+      <td>Stellenbezeichnung</td>
     </tr>
     <tr>
       <td>Telefon</td>
       <td>Geschäftstelefon</td>
-      <td>telephone1</td>
+      <td>Telefon 1</td>
     </tr>
     <tr>
-      <td>Mobil</td>
+      <td>Mobile</td>
       <td>Mobiltelefon</td>
-      <td>mobilephone</td>
+      <td>Mobiltelefon</td>
     </tr>
     <tr>
       <td>Adresse</td>
@@ -319,14 +319,14 @@ Die folgenden Lead-Felder werden für die interne Verwendung synchronisiert.
       <td>address1_line1</td>
     </tr>
     <tr>
-      <td>Ort</td>
+      <td>Stadt</td>
       <td>Adresse 1: Ort</td>
       <td>address1_city</td>
     </tr>
     <tr>
-      <td>Bundesland</td>
+      <td>Land</td>
       <td>Adresse 1: Bundesland/Kanton</td>
-      <td>address1_stateorprovinz</td>
+      <td>address1_stateorProvince</td>
     </tr>
     <tr>
       <td>Land</td>
@@ -341,21 +341,21 @@ Die folgenden Lead-Felder werden für die interne Verwendung synchronisiert.
     <tr>
       <td>Personen-Status</td>
       <td>Status</td>
-      <td>statecode</td>
+      <td>Zustandscode</td>
     </tr>
     <tr>
-      <td>Statusgrund</td>
-      <td>Statusgrund</td>
+      <td>Status – Grund</td>
+      <td>Status – Grund</td>
       <td>statuscode</td>
     </tr>
     <tr>
       <td>Nicht aufrufen</td>
-      <td>Telefonaufrufe nicht zulassen</td>
-      <td>donotphone</td>
+      <td>Telefonanrufe nicht zulassen</td>
+      <td>Donotphone</td>
     </tr>
     <tr>
       <td>Abbestellt</td>
-      <td>Massen-E-Mail nicht</td>
+      <td>Keine Massen-E-Mails senden</td>
       <td>donotbulkemail</td>
     </tr>
     <tr>
@@ -375,38 +375,38 @@ Die folgenden Lead-Felder werden für die interne Verwendung synchronisiert.
     </tr>
     <tr>
       <td>Microsoft – Telefon privat</td>
-      <td>Telefonnummer (privat)</td>
-      <td>telephone2</td>
+      <td>Privates Telefon</td>
+      <td>Telefon2</td>
     </tr>
     <tr>
-      <td>Von Microsoft bevorzugte Kontaktmethode</td>
-      <td>bevorzugte Kontaktmethode</td>
-      <td>preferredContextMethodencode</td>
+      <td>Bevorzugte Kontaktmethode von Microsoft</td>
+      <td>Bevorzugte Kontaktmethode</td>
+      <td>PreferredContactMethodCode</td>
     </tr>
     <tr>
-      <td>Letztes interessantes Datum</td>
-      <td>Letztes interessantes Datum</td>
-      <td>mkt_lastinterestingmomentdate</td>
+      <td>Datum des letzten interessanten Moments</td>
+      <td>Datum des letzten interessanten Moments</td>
+      <td>mkt_lastInterestingMomentDate</td>
     </tr>
     <tr>
-      <td>Letzter interessanter Moment</td>
-      <td>Letzter interessanter Moment</td>
-      <td>mkt_lastinterestingmomenttype</td>
+      <td>Typ des letzten interessanten Moments</td>
+      <td>Typ des letzten interessanten Moments</td>
+      <td>mkt_lastInterestingMomentType</td>
     </tr>
     <tr>
-      <td>Letzte interessante Moment-Quelle</td>
-      <td>Letzte interessante Moment-Quelle</td>
-      <td>mkt_leadinterestingmomentsource</td>
+      <td>Quelle des letzten interessanten Moments</td>
+      <td>Quelle des letzten interessanten Moments</td>
+      <td>mkt_leadInterestedMomentsource</td>
     </tr>
     <tr>
-      <td>Letzter interessanter Moment desc</td>
-      <td>Letzter interessanter Moment desc</td>
-      <td>mkt_lastinterestingmomentdesc</td>
+      <td>Beschreibung des letzten interessanten Moments</td>
+      <td>Beschreibung des letzten interessanten Moments</td>
+      <td>mkt_lastInterestedMomentdesc</td>
     </tr>
     <tr>
       <td>Microsoft – Kein Marketingmaterial senden</td>
-      <td>Marketing-Material</td>
-      <td>donotsendmm</td>
+      <td>Marketingmaterial</td>
+      <td>donotsendm</td>
     </tr>
     <tr>
       <td>Microsoft – Kein Fax senden</td>
@@ -421,7 +421,7 @@ Die folgenden Lead-Felder werden für die interne Verwendung synchronisiert.
     <tr>
       <td>Relative Dringlichkeit</td>
       <td>Dringlichkeit</td>
-      <td>mkt_frequency</td>
+      <td>mkt_priority</td>
     </tr>
     <tr>
       <td>Relative Bewertung</td>
@@ -460,15 +460,15 @@ Die folgenden Kontaktfelder werden für die interne Verwendung synchronisiert.
     </tr>
     <tr>
       <td>Eigentümer</td>
-      <td>ownerid</td>
+      <td>ownerID</td>
     </tr>
     <tr>
-      <td>created on</td>
-      <td>createdon</td>
+      <td>Erstellt am</td>
+      <td>createdOn</td>
     </tr>
     <tr>
-      <td>parentcustomerid</td>
-      <td>Unternehmensname</td>
+      <td>parentCustomerID</td>
+      <td>Firmenname</td>
     </tr>
   </tbody>
 </table>
@@ -525,12 +525,12 @@ Die folgenden Kontaktfelder werden für die interne Verwendung synchronisiert.
     <tr>
       <td>Haupttelefonnummer</td>
       <td>Haupttelefonnummer</td>
-      <td>telephone1</td>
+      <td>Telefon 1</td>
     </tr>
     <tr>
       <td>Unternehmenstyp</td>
       <td>Unternehmenstyp</td>
-      <td>businessStypecode</td>
+      <td>BusinessTypeCode</td>
     </tr>
     <tr>
       <td>Microsoft-Kontonummer</td>
@@ -540,12 +540,12 @@ Die folgenden Kontaktfelder werden für die interne Verwendung synchronisiert.
     <tr>
       <td>Microsoft – Unternehmensstatus</td>
       <td>Status</td>
-      <td>statecode</td>
+      <td>Zustandscode</td>
     </tr>
     <tr>
       <td>Jahresumsatz</td>
       <td>Jahresumsatz</td>
-      <td>umsatz</td>
+      <td>Umsatz</td>
     </tr>
     <tr>
       <td>Unternehmenshinweise</td>
@@ -555,7 +555,7 @@ Die folgenden Kontaktfelder werden für die interne Verwendung synchronisiert.
     <tr>
       <td>Branche</td>
       <td>Branche</td>
-      <td>industrycode</td>
+      <td>Branchencode</td>
     </tr>
     <tr>
       <td>SIC-Code</td>
@@ -565,12 +565,12 @@ Die folgenden Kontaktfelder werden für die interne Verwendung synchronisiert.
     <tr>
       <td>Website</td>
       <td>Website</td>
-      <td>website</td>
+      <td>Website</td>
     </tr>
     <tr>
       <td>Anzahl Mitarbeiter</td>
       <td>Anzahl der Mitarbeiter</td>
-      <td>Anzahl der Beschäftigten</td>
+      <td>Anzahl der Mitarbeiter</td>
     </tr>
     <tr>
       <td>SIC-Code</td>
@@ -585,7 +585,7 @@ Die folgenden Kontaktfelder werden für die interne Verwendung synchronisiert.
     <tr>
       <td>Anzahl Mitarbeiter</td>
       <td>Anzahl der Mitarbeiter</td>
-      <td>Anzahl der Beschäftigten</td>
+      <td>Anzahl der Mitarbeiter</td>
     </tr>
   </tbody>
 </table>
@@ -604,11 +604,11 @@ Die folgenden Kontofelder werden für die interne Verwendung synchronisiert.
     </tr>
     <tr>
       <td>Eigentümer</td>
-      <td>ownerid</td>
+      <td>ownerID</td>
     </tr>
     <tr>
-      <td>created on</td>
-      <td>createdon</td>
+      <td>Erstellt am</td>
+      <td>createdOn</td>
     </tr>
   </tbody>
 </table>
@@ -630,17 +630,17 @@ Die folgenden Kontofelder werden für die interne Verwendung synchronisiert.
     <tr>
       <td>Abschlusswahrscheinlichkeit</td>
       <td>Wahrscheinlichkeit</td>
-      <td>nächste Wahrscheinlichkeit</td>
+      <td>Nahwahrscheinlichkeit</td>
     </tr>
     <tr>
       <td>Phase</td>
-      <td>Status</td>
-      <td>statecode</td>
+      <td>status</td>
+      <td>Zustandscode</td>
     </tr>
     <tr>
       <td>Tatsächliches Abschlussdatum</td>
       <td>Tatsächliches Abschlussdatum</td>
-      <td>actualclosedate</td>
+      <td>actualCloseDate</td>
     </tr>
     <tr>
       <td>Name</td>
@@ -674,7 +674,7 @@ Die folgenden Kontofelder werden für die interne Verwendung synchronisiert.
     </tr>
     <tr>
       <td>Eigentümer</td>
-      <td>ownerid</td>
+      <td>ownerID</td>
     </tr>
     <tr>
       <td>Opportunity</td>
@@ -689,7 +689,7 @@ Die folgenden Kontofelder werden für die interne Verwendung synchronisiert.
 
 ## Microsoft-bezogene Systemfelder in Marketo (schreibgeschützt) {#microsoft-related-system-fields}
 
-Die folgenden Felder werden in Marketo erstellt, können jedoch nicht von Benutzern angepasst werden.
+Die folgenden Felder werden in Marketo erstellt, können jedoch von Benutzenden nicht angepasst werden.
 
 <table>
   <colgroup>
@@ -707,11 +707,11 @@ Die folgenden Felder werden in Marketo erstellt, können jedoch nicht von Benutz
     </tr>
     <tr>
       <td>Microsoft – Erstellungsdatum</td>
-      <td>In MS Dynamics erstelltes Datum (kann sich von dem in Marketo erstellten unterscheiden)</td>
+      <td>Erstellungsdatum in MS Dynamics (kann sich von dem in Marketo unterscheiden)</td>
     </tr>
     <tr>
       <td>Microsoft wird gelöscht</td>
-      <td>Person, die früher in Microsoft war, aber gelöscht wurde und jetzt nur noch in Marketo lebt</td>
+      <td>Person war früher in Microsoft, wurde jedoch gelöscht und lebt jetzt nur noch in Marketo</td>
     </tr>
   </tbody>
 </table>

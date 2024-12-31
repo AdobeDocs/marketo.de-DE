@@ -1,7 +1,7 @@
 ---
 unique-page-id: 1146972
-description: Wiederkehrende Batch-Kampagne planen - Marketo Docs - Produktdokumentation
-title: Wiederkehrende Batch-Kampagne planen
+description: Planen einer wiederkehrenden Batch-Kampagne - Marketo-Dokumente - Produktdokumentation
+title: Planen einer wiederkehrenden Batch-Kampagne
 exl-id: b7a931b0-5061-4c4f-8084-4938254a4d9c
 feature: Smart Campaigns
 source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
@@ -11,15 +11,15 @@ ht-degree: 0%
 
 ---
 
-# Wiederkehrende Batch-Kampagne planen {#schedule-a-recurring-batch-campaign}
+# Planen einer wiederkehrenden Batch-Kampagne {#schedule-a-recurring-batch-campaign}
 
-Mit der Wiederholung können Sie eine Batch-Kampagne regelmäßig ausführen. Zum Beispiel - einmal pro Woche, Dienstag um 10:00 Uhr.
+Die Wiederholung ermöglicht Ihnen, eine Batch-Kampagne nach einem regulären Zeitplan auszuführen. Zum Beispiel - einmal pro Woche, dienstags um 10:00 Uhr.
 
-1. Wählen Sie die Smart-Kampagne aus, wechseln Sie zur Registerkarte **[!UICONTROL Plan]** und klicken Sie auf **[!UICONTROL Intervall planen]**.
+1. Wählen Sie die intelligente Kampagne aus, wechseln Sie zur Registerkarte **[!UICONTROL Zeitplan]** und klicken Sie auf **[!UICONTROL Intervall planen]**.
 
    ![](assets/schedule-a-recurring-batch-campaign-1.png)
 
-1. Klicken Sie auf die Dropdownliste **[!UICONTROL Plan]** und wählen Sie **[!UICONTROL Wöchentlich]** aus.
+1. Klicken Sie auf **[!UICONTROL Zeitplan]** und wählen Sie &quot;**[!UICONTROL &quot;]**.
 
    ![](assets/schedule-a-recurring-batch-campaign-2.png)
 
@@ -31,18 +31,18 @@ Mit der Wiederholung können Sie eine Batch-Kampagne regelmäßig ausführen. Zu
 
    ![](assets/schedule-a-recurring-batch-campaign-4.png)
 
-1. Belassen Sie &quot;[!UICONTROL Wiederholen alle]&quot;auf &quot;1&quot;, wählen Sie &quot;Dienstag&quot;aus und klicken Sie auf **[!UICONTROL Speichern]**.
+1. Belassen Sie [!UICONTROL Wiederholen alle] den Wert 1, wählen Sie Dienstag aus und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/schedule-a-recurring-batch-campaign-5.png)
 
    >[!NOTE]
    >
-   >Für eine bestimmte Laufzeit können Sie auf das Kalendersymbol neben **[!UICONTROL Beenden am]** klicken und das Enddatum auswählen.
+   >Klicken Sie für eine bestimmte Ausführungsdauer auf das Kalendersymbol neben **[!UICONTROL Ende am]** und wählen Sie das Enddatum aus.
 
-Die geplanten Wiederholungen werden unten auf der Registerkarte Plan angezeigt.
+Die geplanten Wiederholungen werden unten auf der Registerkarte Zeitplan angezeigt.
 
 ![](assets/schedule-a-recurring-batch-campaign-6.png)
 
 >[!NOTE]
 >
->Auf der Registerkarte &quot;Planung&quot;werden die nächsten drei Vorkommen als Referenz angezeigt. Wenn Sie auf den roten **X** klicken, wird der jeweilige Lauf abgebrochen.
+>Auf der Registerkarte Planung werden die nächsten drei Termine als Referenz angezeigt. Durch Klicken auf das rote **X** wird diese Ausführung abgebrochen.

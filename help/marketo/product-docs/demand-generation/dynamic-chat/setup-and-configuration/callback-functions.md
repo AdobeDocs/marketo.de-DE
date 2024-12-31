@@ -1,6 +1,6 @@
 ---
-description: Callback-Funktionen - Marketo-Dokumente - Produktdokumentation
-title: Callback-Funktionen
+description: Rückruffunktionen - Marketo-Dokumente - Produktdokumentation
+title: Rückruffunktionen
 feature: Dynamic Chat
 exl-id: 5ae7f6cb-5c57-4257-8a1a-992c9602cfaa
 source-git-commit: f355022fb7e6f733bb7485229e395b0fe1a9818f
@@ -10,13 +10,13 @@ ht-degree: 7%
 
 ---
 
-# Callback-Funktionen {#callback-functions}
+# Rückruffunktionen {#callback-functions}
 
-Sie können Dynamic Chat Widget-Callback-Funktionen verwenden, um Konversationsereignisse an Drittanbieterplattformen zu senden.
+Sie können Dynamic Chat-Widget-Rückruffunktionen verwenden, um Konversationsereignisse an Drittanbieterplattformen zu senden.
 
 ## Erste Schritte {#getting-started}
 
-Dieses Ereignis gibt an, dass das Dynamic Chat-Widget einsatzbereit ist und ausgelöst wird, wenn alle Skripte, die sich auf Dynamic Chat beziehen, auf der Webseite geladen werden.
+Dieses Ereignis zeigt an, dass das Dynamic Chat-Widget einsatzbereit ist und ausgelöst wird, wenn alle Dynamic Chat-Skripte auf der Web-Seite geladen werden.
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
@@ -26,11 +26,11 @@ window.addEventListener('adobedx.conversations.ready', () => {
 
 ## Konversationsereignisse {#conversation-events}
 
-Diese Ereignisse beziehen sich auf eine Konversation, die auf eine bestimmte Seite für einen bestimmten Besucher ausgerichtet ist.
+Diese Ereignisse stehen im Zusammenhang mit einer Konversation, die auf einer bestimmten Seite für einen bestimmten Besucher stattfindet.
 
-### Ausgelöste Konversation
+### Konversation ausgelöst
 
-Eine Konversation (z. B. ein Dialogfeld), die für einen Website-Besucher angesprochen wird, wird aufgelöst und ihm der Chatbot angezeigt.
+Ein Gespräch (z. B. ein Dialogfeld), das für einen Website-Besucher vorgesehen ist, wird aufgelöst und ihm der Chatbot angezeigt.
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
@@ -41,9 +41,9 @@ window.addEventListener('adobedx.conversations.ready', () => {
 });  
 ```
 
-### Unterhaltung {#conversation-engaged}
+### Unterhaltung eingestellt {#conversation-engaged}
 
-Besucher interagiert (z. B. mit der ersten Antwort) mit dem Chatbot.
+Der Besucher interagierte (z. B. mit seiner ersten Antwort) mit dem Chatbot.
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
@@ -54,9 +54,9 @@ window.addEventListener('adobedx.conversations.ready', () => {
 }); 
 ```
 
-### Unterhaltung abgeschlossen {#conversation-completed}
+### Konversation abgeschlossen {#conversation-completed}
 
-Der Besucher hat das Ende der Konversation erreicht.
+Der Besucher hat das Ende des Gesprächs erreicht.
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
@@ -69,7 +69,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 
 ### Unterhaltung geschlossen
 
-Der Besucher hat die Konversation abgeschlossen, bevor er das Ende erreicht hat.
+Der Besucher hat das Gespräch geschlossen, bevor er das Ende erreicht.
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
@@ -80,7 +80,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 }); 
 ```
 
-Der Parameter `event` ist ein Objekt mit Metadaten, die sich auf die Konversation beziehen. Sie können auf diese Metadaten zugreifen, indem Sie auf `event.data` zugreifen.
+Der `event` ist ein Objekt mit Metadaten, die sich auf die Konversation beziehen. Sie können auf diese Metadaten zugreifen, indem Sie `event.data`.
 
 Im Folgenden finden Sie einige wichtige Metadatenwerte, auf die Sie zugreifen können:
 
@@ -101,11 +101,11 @@ Im Folgenden finden Sie einige wichtige Metadatenwerte, auf die Sie zugreifen k�
     <td>payload.id</td>
   </tr>
   <tr>
-    <td>Konversationstyp (Dialog-/Konversationsfluss)</td>
+    <td>Unterhaltungstyp (Dialogfeld/Unterhaltungsfluss)</td>
     <td>payload.type</td>
   </tr>
   <tr>
-    <td>UI-Typ (Popup/Chat-Bot/Inline)</td>
+    <td>UI-Typ (Popup/Chatbot/inline)</td>
     <td>payload.uiType</td>
   </tr>
   <tr>
@@ -115,13 +115,13 @@ Im Folgenden finden Sie einige wichtige Metadatenwerte, auf die Sie zugreifen k�
 </tbody>
 </table>
 
-## Besuchereingangsereignisse
+## Besuchereingabeereignisse
 
-Diese Ereignisse werden ausgelöst, wenn ein an einer Konversation beteiligter Besucher seine Kontaktinformationen (z. B. Telefonnummer oder E-Mail-Adresse) bereitstellt. Im Folgenden finden Sie die Ereignisse, die unter diese Kategorie fallen.
+Diese Ereignisse werden ausgelöst, wenn ein Besucher, der an einem Gespräch teilnimmt, seine Kontaktinformationen (z. B. Telefonnummer oder E-Mail-Adresse) bereitstellt. Im Folgenden finden Sie die Ereignisse, die unter diese Kategorie fallen.
 
 ### Telefonnummer {#phone-number}
 
-Dieses Ereignis wird ausgelöst, wenn ein Besucher während der Unterhaltung seine Telefonnummer angibt.
+Dieses Ereignis wird ausgelöst, wenn ein Besucher während des Gesprächs seine Telefonnummer angibt.
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
@@ -134,7 +134,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 
 ### E-Mail-ID {#email-id}
 
-Dieses Ereignis wird ausgelöst, wenn ein Besucher während der Konversation seine E-Mail-Adresse angibt.
+Dieses Ereignis wird ausgelöst, wenn ein Besucher während des Gesprächs seine E-Mail-Adresse angibt.
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
@@ -145,7 +145,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 }); 
 ```
 
-Der Parameter `event` ist ein Objekt mit Metadaten, die sich auf die Konversation beziehen. Sie können auf diese Metadaten zugreifen, indem Sie auf `event.data` zugreifen.
+Der `event` ist ein Objekt mit Metadaten, die sich auf die Konversation beziehen. Sie können auf diese Metadaten zugreifen, indem Sie `event.data`.
 
 Im Folgenden finden Sie einige wichtige Metadatenwerte, auf die Sie zugreifen können:
 
@@ -166,11 +166,11 @@ Im Folgenden finden Sie einige wichtige Metadatenwerte, auf die Sie zugreifen k�
     <td>payload.id</td>
   </tr>
   <tr>
-    <td>Konversationstyp (Dialog-/Konversationsfluss)</td>
+    <td>Unterhaltungstyp (Dialogfeld/Unterhaltungsfluss)</td>
     <td>payload.type</td>
   </tr>
   <tr>
-    <td>UI-Typ (Popup/Chat-Bot/Inline)</td>
+    <td>UI-Typ (Popup/Chatbot/inline)</td>
     <td>payload.uiType</td>
   </tr>
   <tr>
@@ -180,15 +180,15 @@ Im Folgenden finden Sie einige wichtige Metadatenwerte, auf die Sie zugreifen k�
 </tbody>
 </table>
 
-## Konferenzbuchungsereignisse {#meeting-booking-events}
+## Besprechungsbuchungsereignisse {#meeting-booking-events}
 
-Diese Ereignisse werden ausgelöst, wenn ein Besucher ein Treffen mit Ihrem Geschäftsvertreter bucht.
+Diese Ereignisse werden ausgelöst, wenn ein Besucher ein Meeting mit Ihrem Unternehmensvertreter bucht.
 
 Im Folgenden finden Sie die Ereignisse, die unter diese Kategorie fallen.
 
 ### Besprechung gebucht {#meeting-booked}
 
-Dieses Ereignis wird ausgelöst, wenn ein Besucher ein Meeting im Kalender eines Agenten bucht.
+Dieses Ereignis wird ausgelöst, wenn ein Besucher ein Meeting über den Kalender eines Agenten bucht.
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
@@ -199,7 +199,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 }); 
 ```
 
-Der Parameter `event` ist ein Objekt mit Metadaten, die sich auf die Konversation beziehen. Sie können auf diese Metadaten zugreifen, indem Sie auf `event.data` zugreifen.
+Der `event` ist ein Objekt mit Metadaten, die sich auf die Konversation beziehen. Sie können auf diese Metadaten zugreifen, indem Sie `event.data`.
 
 Im Folgenden finden Sie einige wichtige Metadatenwerte, auf die Sie zugreifen können:
 
@@ -220,11 +220,11 @@ Im Folgenden finden Sie einige wichtige Metadatenwerte, auf die Sie zugreifen k�
     <td>payload.id</td>
   </tr>
   <tr>
-    <td>Konversationstyp (Dialog-/Konversationsfluss)</td>
+    <td>Unterhaltungstyp (Dialogfeld/Unterhaltungsfluss)</td>
     <td>payload.type</td>
   </tr>
   <tr>
-    <td>UI-Typ (Popup/Chat-Bot/Inline)</td>
+    <td>UI-Typ (Popup/Chatbot/inline)</td>
     <td>payload.uiType</td>
   </tr>
   <tr>
@@ -240,7 +240,7 @@ Im Folgenden finden Sie einige wichtige Metadatenwerte, auf die Sie zugreifen k�
     <td>payload.agentID</td>
   </tr>
   <tr>
-    <td>Konferenzinformationen</td>
+    <td>Besprechungsinformationen</td>
     <td>payload.meetingInfo</td>
   </tr>
 </tbody>
@@ -248,7 +248,7 @@ Im Folgenden finden Sie einige wichtige Metadatenwerte, auf die Sie zugreifen k�
 
 ## Live-Chat-Ereignisse {#live-chat-events}
 
-Diese Ereignisse werden ausgelöst, wenn sich ein Besucher während seiner Interaktion mit dem Chatbot mit einem Live-Agenten verbindet.
+Diese Ereignisse werden ausgelöst, wenn ein Besucher während seiner Interaktion mit dem Chatbot eine Verbindung zu einem Live-Agenten herstellt.
 
 Im Folgenden finden Sie die Ereignisse, die unter diese Kategorie fallen.
 
@@ -265,9 +265,9 @@ window.addEventListener('adobedx.conversations.ready', () => {
 }); 
 ```
 
-### Live-Chat initiiert {#live-chat-initiated}
+### Live-Chat gestartet {#live-chat-initiated}
 
-Dieses Ereignis wird ausgelöst, wenn ein Besucher die Option zum Chat mit einem Live-Agenten auswählt und ein Agent den Chat akzeptiert.
+Dieses Ereignis wird ausgelöst, wenn ein Besucher die Option auswählt, mit einem Live-Agenten zu chatten, und ein Agent den Chat akzeptiert.
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
@@ -280,7 +280,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 
 ### Live-Chat beendet {#live-chat-ended}
 
-Dieses Ereignis wird ausgelöst, wenn eine Konversation zwischen einem Besucher und dem Live-Agenten beendet wird.
+Dieses Ereignis wird ausgelöst, wenn eine Konversation zwischen einem Besucher und dem Live Agent beendet wird.
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
@@ -291,9 +291,9 @@ window.addEventListener('adobedx.conversations.ready', () => {
 }); 
 ```
 
-### Live-Chat-Timeout {#live-chat-timeout}
+### Live-Chat-Zeitüberschreitung {#live-chat-timeout}
 
-Dieses Ereignis wird ausgelöst, wenn bei einer Live-Chat-Konversation eine Zeitüberschreitung auftritt, da der Besucher nicht mehr antwortet oder sie fallen gelassen wurden.
+Dieses Ereignis wird ausgelöst, wenn ein Live-Chat-Gespräch die zulässige Zeit überschreitet, da der Besucher nicht mehr reagiert oder ihn fallen gelassen hat.
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
@@ -304,7 +304,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 }); 
 ```
 
-Der Parameter `event` ist ein Objekt mit Metadaten, die sich auf die Konversation beziehen. Sie können auf diese Metadaten zugreifen, indem Sie auf `event.data` zugreifen.
+Der `event` ist ein Objekt mit Metadaten, die sich auf die Konversation beziehen. Sie können auf diese Metadaten zugreifen, indem Sie `event.data`.
 
 Im Folgenden finden Sie einige wichtige Metadatenwerte, auf die Sie zugreifen können:
 
@@ -325,11 +325,11 @@ Im Folgenden finden Sie einige wichtige Metadatenwerte, auf die Sie zugreifen k�
     <td>payload.id</td>
   </tr>
   <tr>
-    <td>Konversationstyp (Dialog-/Konversationsfluss)</td>
+    <td>Unterhaltungstyp (Dialogfeld/Unterhaltungsfluss)</td>
     <td>payload.type</td>
   </tr>
   <tr>
-    <td>UI-Typ (Popup/Chat-Bot/Inline)</td>
+    <td>UI-Typ (Popup/Chatbot/inline)</td>
     <td>payload.uiType</td>
   </tr>
   <tr>
@@ -347,7 +347,7 @@ Im Folgenden finden Sie einige wichtige Metadatenwerte, auf die Sie zugreifen k�
 </tbody>
 </table>
 
-Wenn Sie eines dieser Ereignisse an eine Analytics-Plattform wie Adobe Analytics oder Google Analytics senden möchten, müssen Sie deren jeweiligen Tracking-Aufruf in diesen Dynamic Chat-Ereignissen hinzufügen. Es würde ungefähr wie im folgenden Beispiel aussehen.
+Wenn Sie eines dieser Ereignisse an eine Analyseplattform wie Adobe Analytics oder Google Analytics senden möchten, müssen Sie den entsprechenden Tracking-Aufruf innerhalb dieser Dynamic Chat-Ereignisse hinzufügen. Dies würde in etwa wie im folgenden Beispiel aussehen.
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 

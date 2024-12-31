@@ -1,7 +1,7 @@
 ---
 unique-page-id: 1146897
 description: Löschen von Personen in einer Smart-Liste oder Liste - Marketo-Dokumente - Produktdokumentation
-title: Löschen von Personen in einer Smart-Liste oder -Liste
+title: Personen in einer Smart-Liste oder Liste löschen
 exl-id: 192e79e6-d816-44e3-84c4-212cd73eb3ce
 feature: Smart Lists
 source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
@@ -11,27 +11,27 @@ ht-degree: 0%
 
 ---
 
-# Löschen von Personen in einer Smart-Liste oder -Liste {#delete-people-in-a-smart-list-or-list}
+# Personen in einer Smart-Liste oder Liste löschen {#delete-people-in-a-smart-list-or-list}
 
-Sie können schnell und einfach einige/alle Personen löschen, die sich in einer Liste oder Smart List befinden.
+Sie können schnell und einfach einige/alle Personen löschen, die sich in einer Liste oder einer Smart List befinden.
 
 >[!PREREQUISITES]
 >
 >[Erstellen einer Smart-Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
-1. Wechseln Sie zu **[!UICONTROL Marketingaktivitäten]**.
+1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/ma-1.png)
 
-1. Wählen Sie die Liste/Smart-Liste aus, die alle Personen enthält, die Sie löschen möchten, und rufen Sie die Registerkarte **[!UICONTROL Personen]** auf.
+1. Wählen Sie die Liste/Smart-Liste aus, die alle Personen enthält, die Sie löschen möchten, und gehen Sie zur Registerkarte **[!UICONTROL Personen]** .
 
    ![](assets/two-1.png)
 
    >[!CAUTION]
    >
-   >Wenn Sie eine Person löschen, entfernen Sie sie nicht nur aus der Liste, sondern sie wird vollständig aus der Datenbank entfernt.
+   >Wenn Sie eine Person löschen, entfernen Sie sie nicht nur aus der Liste, sondern vollständig aus der Datenbank.
 
-1. Klicken Sie auf **[!UICONTROL Alle auswählen]**. Sie können auch mithilfe der Strg-/Befehlstaste und der Klicks einige Datensätze manuell auswählen.
+1. Klicken Sie **[!UICONTROL Alle auswählen]**. Sie können auch einige Datensätze mit der Hand auswählen, indem Sie Strg/Befehl drücken und klicken.
 
    ![](assets/three-1.png)
 
@@ -43,28 +43,28 @@ Sie können schnell und einfach einige/alle Personen löschen, die sich in einer
 
    ![](assets/four-1.png)
 
-1. Setzen Sie **[!UICONTROL Aus CRM entfernen]** auf **[!UICONTROL true]** , wenn Sie die Datensätze auch aus Ihrem CRM löschen möchten.
+1. Legen Sie **[!UICONTROL Aus CRM entfernen]** auf **[!UICONTROL true]** fest, wenn Sie die Datensätze auch aus Ihrem CRM löschen möchten.
 
    ![](assets/five.png)
 
    >[!CAUTION]
    >
-   >Das Löschen aus Marketo und Ihrem CRM-System bedeutet, dass Sie sich in keinem der beiden Systeme wiederherstellen können. Die Menschen und ihre Geschichte werden für immer verschwunden sein. Wenn Sie sie später wieder hinzufügen, werden sie als brandneue Datensätze behandelt.
+   >Das Löschen aus Marketo und Ihrem CRM bedeutet, dass Sie in keinem der Systeme eine Wiederherstellung durchführen können. Die Menschen und ihre Geschichte werden für immer verschwunden sein. Wenn Sie sie später wieder hinzufügen, werden sie als brandneue Datensätze behandelt.
 
    >[!NOTE]
    >
-   >Wenn Ihre Marketo nicht an Ihr CRM-System gebunden ist, wird die Option wie im Screenshot gezeigt grau dargestellt.
+   >Wenn Ihr Marketo nicht an Ihr CRM gebunden ist, ist die Option wie im Screenshot ausgegraut.
 
-1. Klicken Sie auf **[!UICONTROL Jetzt ausführen]**.
+1. Klicken Sie **[!UICONTROL Jetzt ausführen]**.
 
    ![](assets/image2014-9-24-13-3a0-3a3.png)
 
-1. Wenn Sie mehr als 50 Personen löschen, wird dies angezeigt. Geben Sie die Anzahl der Personen ein, die Sie löschen, aktivieren Sie das Kontrollkästchen **[!UICONTROL Rückgängig nicht möglich]** und klicken Sie dann auf **[!UICONTROL Löschen]**.
+1. Wenn Sie mehr als 50 Personen löschen, sehen Sie dies. Geben Sie die Anzahl der zu löschenden Personen ein, aktivieren Sie das Kontrollkästchen **[!UICONTROL Nicht rückgängig machen]** und klicken Sie dann auf **[!UICONTROL Löschen]**.
 
    ![](assets/seven.png)
 
    >[!NOTE]
    >
-   >Um die Ergebnisse des Massenlöschens anzuzeigen, klicken Sie in der oberen rechten Ecke des Bildschirms im Popup-Feld &quot;Einzelflussaktion&quot;auf **[!UICONTROL Ergebnisse anzeigen]** . Die Löschzeiten können je nach mehreren Faktoren stark variieren.
+   >Um die Ergebnisse der Massenlöschung anzuzeigen, klicken Sie **[!UICONTROL Ergebnisse anzeigen]** in der rechten oberen Ecke des Bildschirms im Popup-Feld Einzelflussaktion . Die Löschzeiten können je nach mehreren Faktoren stark variieren.
 
-   Dies ist eine tolle Funktion, seien Sie vorsichtig bei der Verwendung!
+   Dies ist eine großartige Funktion, seien Sie bei der Verwendung vorsichtig!

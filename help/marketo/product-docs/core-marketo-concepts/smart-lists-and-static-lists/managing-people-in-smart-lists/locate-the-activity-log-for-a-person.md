@@ -1,7 +1,7 @@
 ---
 unique-page-id: 5472404
-description: Suchen Sie das Aktivitätsprotokoll für eine Person - Marketo Docs - Produktdokumentation
-title: Suchen Sie das Aktivitätsprotokoll für eine Person
+description: Suchen Sie das Aktivitätsprotokoll für eine Person - Marketo-Dokumente - Produktdokumentation
+title: Suchen des Aktivitätsprotokolls für eine Person
 exl-id: c4018711-e68d-4684-ac3d-a5e10b138a86
 feature: Smart Lists
 source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
@@ -11,11 +11,11 @@ ht-degree: 0%
 
 ---
 
-# Suchen Sie das Aktivitätsprotokoll für eine Person {#locate-the-activity-log-for-a-person}
+# Suchen des Aktivitätsprotokolls für eine Person {#locate-the-activity-log-for-a-person}
 
-Das Aktivitätsprotokoll ist die ultimative Quelle der Wahrheit. Das ist die komplette Geschichte des Journey einer Person im Marketo Engage.
+Das Aktivitätsprotokoll ist die ultimative Datenquelle. Dies ist die komplette Geschichte des Journey einer Person in Marketo Engage.
 
-1. Wechseln Sie zur **[!UICONTROL Datenbank]**.
+1. Navigieren Sie zur **[!UICONTROL Datenbank]**.
 
    ![](assets/locate-the-activity-log-for-a-person-1.png)
 
@@ -23,11 +23,11 @@ Das Aktivitätsprotokoll ist die ultimative Quelle der Wahrheit. Das ist die kom
 
    ![](assets/locate-the-activity-log-for-a-person-2.png)
 
-1. Klicken Sie auf die Registerkarte **[!UICONTROL Personen]**. Wählen Sie eine Personennummer **[!UICONTROL ID]** aus.
+1. Klicken Sie auf die **[!UICONTROL Personen]**. Wählen Sie eine Personen **[!UICONTROL ID]** Nummer aus.
 
    ![](assets/locate-the-activity-log-for-a-person-3.png)
 
-1. Klicken Sie auf **[!UICONTROL Aktivitätsprotokoll]**.
+1. Klicken Sie **[!UICONTROL Aktivitätsprotokoll]**.
 
    ![](assets/locate-the-activity-log-for-a-person-4.png)
 
@@ -37,9 +37,9 @@ Das Aktivitätsprotokoll ist die ultimative Quelle der Wahrheit. Das ist die kom
 
 ## Aktivitätsprotokoll exportieren {#export-activity-log}
 
-Sie müssen das Aktivitätsprotokoll einer Person in Excel exportieren?
+Möchten Sie das Aktivitätsprotokoll einer Person nach Excel exportieren?
 
-1. Scrollen Sie nach den obigen Schritten zum unteren Seitenrand und wählen Sie das Symbol Exportieren aus.
+1. Scrollen Sie nach den obigen Schritten zum unteren Rand der Seite und wählen Sie das Symbol Exportieren aus.
 
    ![](assets/locate-the-activity-log-for-a-person-6.png)
 
@@ -49,4 +49,4 @@ Sie müssen das Aktivitätsprotokoll einer Person in Excel exportieren?
 
    >[!MORELIKETHIS]
    >
-   >Erfahren Sie mehr über das Filtern des Aktivitätsprotokolls ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md){target="_blank"}, um bestimmte Personaktivitäten anzuzeigen.[
+   >Erfahren Sie mehr über [Filtern des Aktivitätsprotokolls](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md){target="_blank"} um bestimmte Personenaktivitäten anzuzeigen.

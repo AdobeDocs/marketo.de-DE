@@ -1,7 +1,7 @@
 ---
 unique-page-id: 11382858
-description: Grundlagen zu Ad Network Integrations - Marketo Docs - Produktdokumentation
-title: Grundlagen zu Werbenetzwerk-Integrationen
+description: Grundlegendes zu Integrationen mit Werbenetzwerken - Marketo-Dokumente - Produktdokumentation
+title: Grundlegendes zu Ad-Netzwerkintegrationen
 exl-id: c13b5dc2-8fc1-40de-acfb-eede0e1fb099
 feature: Integrations
 source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
@@ -11,40 +11,40 @@ ht-degree: 0%
 
 ---
 
-# Grundlagen zu Werbenetzwerk-Integrationen {#understanding-ad-network-integrations}
+# Grundlegendes zu Ad-Netzwerkintegrationen {#understanding-ad-network-integrations}
 
 ![](assets/hith-golden-gate-144833144-e.jpeg)
 
-## Funktionsweise von Anzeigennetzwerkintegrationen {#how-ad-network-integrations-work}
+## Funktionsweise von Ad-Netzwerkintegrationen {#how-ad-network-integrations-work}
 
-Mit Anzeigennetzwerkintegrationen werden die eindeutigen Zielgruppendaten von Marketo mit Ihren Paid-Media-Systemen verbunden, sodass Sie zielgerichtetere, personalisierte Digital-Advertising-Kampagnen durchführen können. Diese Integrationen funktionieren derzeit mit Facebook, LinkedIn und Google.
+Bei der Integration von Werbenetzwerken werden die individuellen Zielgruppendaten von Marketo mit Ihren Paid-Media-Systemen verbunden, sodass Sie zielgerichtetere, personalisierte digitale Werbekampagnen durchführen können. Diese Integrationen funktionieren derzeit mit Facebook, LinkedIn und Google.
 
 Zu den Funktionen gehören:
 
-* Senden von Zielgruppen an Paid-Media-Systeme, um bekannte potenzielle Kunden mit personalisierten Display-Anzeigen anzusprechen, um sie zu fördern oder zu reaktivieren
+* Senden von Zielgruppen an Paid-Media-Systeme, um bekannte Interessenten mit personalisierten Display-Anzeigen anzusprechen und zu pflegen oder zu reaktivieren
 
-   * Segmentieren nach Käuferstufe, Interaktionsstufe und mehr
-   * Zielgruppen zur Verbesserung der Akquise erweitern
-   * Target-E-Mail-Abonnenten und Nicht-Responder mit Anzeigen
-   * Kanalübergreifend, z. B. E-Mail und digitale Anzeigen
+   * Segment nach Käuferphase, Interaktionsstufe und mehr
+   * Audiences erweitern, um die Akquise zu verbessern
+   * E-Mail-Abonnenten und Nicht-Responder mit Anzeigen ansprechen
+   * Kanalübergreifend pflegen, z. B. E-Mail und digitale Anzeigen
 
-* Erfassen von Leads oder Daten aus Paid Media-Systemen in Marketo
+* Aufnahme von Leads oder Daten aus Paid-Media-Systemen in Marketo
 
-   * Beispielsweise klickt ein Facebook-Benutzer auf die Schaltfläche Abonnieren und gibt einen Namen und eine E-Mail-Adresse ein.
+   * Beispiel: Ein Facebook-Benutzer klickt auf die Schaltfläche Abonnieren und gibt einen Namen und eine E-Mail-Adresse an
 
-* Hochladen von Offline-Konversionsdaten in Paid Media-Systeme, Optimierung von Lead-Akquise und Förderung
+* Hochladen von Offline-Konversionsdaten in Paid-Media-Systeme, Optimierung der Lead-Akquise und Pflege
 
-   * So sucht beispielsweise eine Person, sieht eine Anzeige, klickt darauf und füllt dann ein Formular online aus. Danach erhält er eine Offline-Demo und wird zu einer CRM-Chance. Hier wendet sich der Werber an ihn
+   * Beispiel: Eine Person sucht, sieht und klickt auf eine Anzeige und füllt dann ein Formular online aus. Danach erhält er eine Demo offline und wird eine CRM-Opportunity. Dort zielt der Werbetreibende auf ihn
 
-* Retargeting von Website-Besuchern mithilfe von [Web Personalization](/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md){target="_blank"}, um sie zurück zu Ihrer Website zu führen
+* Retargeting von Website-Besuchenden mithilfe [Web Personalization](/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md){target="_blank"}, um sie zurück auf Ihre Website zu bringen
 
-   * Personalisieren nach Segment oder Vertikal
+   * Personalisieren nach Segment oder vertikal
 
-## Aktuelle Funktionen {#current-functionality}
+## Aktuelle Funktionalität {#current-functionality}
 
-Integrationen können für folgende Zwecke verwendet werden:
+Integrationen können für Folgendes verwendet werden:
 
-* [Hinzufügen von Google AdWords als LaunchPoint-Dienst](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md){target="_blank"}
+* [Hinzufügen von Google AdWords als LaunchPoint-Service](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md){target="_blank"}
 * [Hinzufügen von Leads zu einer benutzerdefinierten Zielgruppe in Facebook](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md){target="_blank"}
 * [Erstellen einer benutzerdefinierten Zielgruppe in Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md){target="_blank"}
 * [Einrichten von Facebook-Offline-Konversionen](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md){target="_blank"}

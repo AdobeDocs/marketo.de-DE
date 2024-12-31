@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Erstellen einer Smart-Liste {#create-a-smart-list}
 
-Mit intelligenten Listen können Sie mithilfe einfacher Filter bestimmte Personengruppen suchen. Hier ist, wie man eine erstellt.
+Mit Smart Lists können Sie mithilfe einfacher Filter bestimmte Personengruppen finden. So wird eine erstellt.
 
-1. Wechseln Sie zu **[!UICONTROL Marketingaktivitäten]**.
+1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/create-a-smart-list-1.png)
 
@@ -23,11 +23,11 @@ Mit intelligenten Listen können Sie mithilfe einfacher Filter bestimmte Persone
 
    ![](assets/create-a-smart-list-2.png)
 
-1. Klicken Sie unter &quot;**[!UICONTROL Neu]**&quot;auf &quot;**[!UICONTROL Neues lokales Asset]**&quot;.
+1. Klicken **[!UICONTROL unter „Neu]** auf **[!UICONTROL Neues lokales Asset]**.
 
    ![](assets/create-a-smart-list-3.png)
 
-1. Wählen Sie **[!UICONTROL Smart List]** aus.
+1. Wählen Sie **[!UICONTROL Smart-Liste]** aus.
 
    ![](assets/create-a-smart-list-4.png)
 
@@ -35,7 +35,7 @@ Mit intelligenten Listen können Sie mithilfe einfacher Filter bestimmte Persone
 
    ![](assets/create-a-smart-list-5.png)
 
-   Ta-da, tolle Arbeit! Nun lassen Sie uns einige Filter hinzufügen und definieren.
+   Ta-da, großartige Arbeit! Fügen wir nun einige Filter hinzu und definieren wir sie.
 
    >[!MORELIKETHIS]
    >

@@ -1,6 +1,6 @@
 ---
-description: Erteilen der Zustimmung für die Client-ID und App-Registrierung - Marketo Docs - Produktdokumentation
-title: Erteilen der Zustimmung für die Kunden-ID und App-Registrierung
+description: Einverständnis für Client-ID und App-Registrierung erteilen - Marketo-Dokumente - Produktdokumentation
+title: Einverständnis für Client-ID und App-Registrierung erteilen
 exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
 feature: Microsoft Dynamics
 source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
@@ -10,13 +10,13 @@ ht-degree: 0%
 
 ---
 
-# Erteilen der Zustimmung für die Kunden-ID und App-Registrierung {#grant-consent-for-client-id-and-app-registration}
+# Einverständnis für Client-ID und App-Registrierung erteilen {#grant-consent-for-client-id-and-app-registration}
 
-Gehen Sie wie folgt vor, um zu erfahren, wie Sie die erforderliche Zustimmung/Berechtigung erteilen.
+Gehen Sie wie folgt vor, um zu erfahren, wie Sie die erforderlichen Einverständnisse/Berechtigungen erteilen.
 
-## Delegierte Benutzerberechtigungen für den Synchronisierungsbenutzer gewähren {#grant-delegated-user-permissions-for-the-sync-user}
+## Gewähren von delegierten Benutzerberechtigungen für den Synchronisierungsbenutzer {#grant-delegated-user-permissions-for-the-sync-user}
 
-1. Verwenden Sie ein sauberes Textprogramm (Notepad für Windows, Textbearbeitung für Mac), um eine URI (Uniform Resource Identifier) für die Autorisierung zu erstellen, indem Sie den unten stehenden Text einfügen und die Werte client_id, redirect_uri und geben.
+1. Verwenden Sie ein Textverarbeitungsprogramm (Editor für Windows, Textbearbeitung für Mac), um einen URI (Uniform Resource Identifier) für die Autorisierung zu erstellen, indem Sie den folgenden Text einfügen und die Werte „client_id“, „redirect_uri“ und „state“ ersetzen.
 
    ```
    https://login.microsoftonline.com/common/oauth2/authorize?
@@ -37,23 +37,23 @@ Gehen Sie wie folgt vor, um zu erfahren, wie Sie die erforderliche Zustimmung/Be
     </colgroup> 
     <tbody> 
      <tr> 
-      <td><strong>client_id-Wert</strong></td> 
-      <td>sollte die im App-Registrierungsprozess generierte client_id sein.</td> 
+      <td><strong>client_id value</strong></td> 
+      <td>sollte die im Prozess zur App-Registrierung generierte client_id sein</td> 
      </tr> 
      <tr> 
-      <td><strong>redirect_uri-Wert</strong></td> 
-      <td>sollte mit dem Wert übereinstimmen, der zum Zeitpunkt der App-Registrierung &gt; Weiterleitungs-URIs eingegeben wurde</td> 
+      <td><strong>Wert für redirect_uri</strong></td> 
+      <td>sollte mit dem Wert übereinstimmen, der zum Zeitpunkt der App-Registrierung &gt; Umleitungs-URIs eingegeben wurde</td> 
      </tr> 
      <tr> 
-      <td><strong>Statuswert</strong></td> 
-      <td>kann eine beliebige ID sein (z. B. 12345).</td> 
+      <td><strong>Zustandswert</strong></td> 
+      <td>kann eine beliebige ID sein (z. B. 12345)</td> 
      </tr> 
     </tbody> 
    </table>
 
-   Die endgültige URL sollte ungefähr so aussehen: `https://login.microsoftonline.com/common/oauth2/authorize?client_id=xxxxxx-xxxx-xxxx-xxxx-xxxxxxxx&response_type=code&redirect_uri=https://www.marketo.com&response_mode=query&state=12345`
+   Die endgültige URL sollte in etwa wie folgt aussehen: `https://login.microsoftonline.com/common/oauth2/authorize?client_id=xxxxxx-xxxx-xxxx-xxxx-xxxxxxxx&response_type=code&redirect_uri=https://www.marketo.com&response_mode=query&state=12345`
 
-1. Öffnen Sie den von Ihnen erstellten URI in einem beliebigen Browser.
+1. Öffnen Sie den erstellten URI in einem beliebigen Browser.
 
    ![](assets/grant-consent-for-client-id-app-registration-1.png)
 
@@ -63,26 +63,26 @@ Gehen Sie wie folgt vor, um zu erfahren, wie Sie die erforderliche Zustimmung/Be
 
    >[!NOTE]
    >
-   >Wenn Sie bereits auf einer anderen Registerkarte bei Azure als Administrator angemeldet sind, müssen Sie einen anderen Browser oder Inkognito-Modus verwenden, um sich als Synchronisierungsbenutzer anzumelden.
+   >Wenn Sie bereits auf einer anderen Registerkarte als Administrator bei Azure angemeldet sind, müssen Sie einen anderen Browser oder Inkognito-Modus verwenden, um sich als Synchronisierungsbenutzer anzumelden.
 
-1. Klicken Sie auf **[!UICONTROL Accept]**.
+1. Klicken Sie **[!UICONTROL Akzeptieren]**.
 
    ![](assets/grant-consent-for-client-id-app-registration-3.png)
 
-## Zustimmung für alle Benutzer erteilen {#grant-consent-for-all-users}
+## Einverständnis für alle Benutzer erteilen {#grant-consent-for-all-users}
 
-Als Administrator können Sie auch die delegierten Berechtigungen einer Anwendung im Namen aller Benutzer in Ihrem Mandanten genehmigen. Die administrative Zustimmung verhindert, dass das Dialogfeld für die Zustimmung für jeden Benutzer im Mandanten angezeigt wird, und kann im Azure-Portal von Benutzern mit der Administratorrolle ausgeführt werden. Erfahren Sie, welche Administratorrollen [delegierten Berechtigungen hier zustimmen können](https://docs.microsoft.com/en-us/azure/active-directory/roles/permissions-reference).
+Als Admin können Sie auch den delegierten Berechtigungen einer Anwendung im Namen aller Benutzenden in Ihrem Mandanten zustimmen. Die administrative Zustimmung verhindert, dass das Einverständnisdialogfeld für jeden Benutzer im Mandanten angezeigt wird, und kann im Azure-Portal von Benutzern mit Administratorrolle vorgenommen werden. Hier erfahren Sie, welche Administratorrollen [hier delegierten Berechtigungen zustimmen](https://docs.microsoft.com/en-us/azure/active-directory/roles/permissions-reference).
 
 1. Navigieren Sie in Ihrem Azure-Portal zur Startseite der Anwendung.
 
-1. Klicken Sie unter &quot;Verwalten&quot;auf **[!UICONTROL API-Berechtigungen]**.
+1. Klicken Sie unter Verwalten auf **[!UICONTROL API-Berechtigungen]**.
 
    ![](assets/grant-consent-for-client-id-app-registration-4.png)
 
-1. Klicken Sie auf die Schaltfläche **[!UICONTROL Administratorzustimmung gewähren]** (für Mandanten).
+1. Klicken Sie auf **[!UICONTROL Schaltfläche „Administratorzustimmung erteilen]** (für Mandanten).
 
    ![](assets/grant-consent-for-client-id-app-registration-5.png)
 
-1. Klicken Sie zur Bestätigung auf **[!UICONTROL Ja]** .
+1. Klicken Sie **[!UICONTROL Ja]** zur Bestätigung.
 
    ![](assets/grant-consent-for-client-id-app-registration-6.png)

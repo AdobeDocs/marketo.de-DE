@@ -1,7 +1,7 @@
 ---
 unique-page-id: 4719294
-description: Aktivitätensynchronisierung anpassen - Marketo-Dokumente - Produktdokumentation
-title: Aktivitätensynchronisierung anpassen
+description: Anpassen der Aktivitätssynchronisierung - Marketo-Dokumente - Produktdokumentation
+title: Aktivitätssynchronisierung anpassen
 exl-id: 938d83dc-b9b1-41d8-bf98-04548b074ec4
 feature: Salesforce Integration
 source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
@@ -11,9 +11,9 @@ ht-degree: 12%
 
 ---
 
-# Aktivitätensynchronisierung anpassen {#customize-activities-sync}
+# Aktivitätssynchronisierung anpassen {#customize-activities-sync}
 
-Wenn Sie Marketo Sales Insight nicht verwenden, kann Marketo Engage für bestimmte Ereignisse Salesforce Activity History Records erstellen. So können sie aktiviert werden.
+Wenn Sie Marketo Sales Insight nicht verwenden, kann Marketo Engage Aktivitätsverlaufsdatensätze für bestimmte Ereignisse in Salesforce erstellen. So aktivieren Sie sie.
 
 1. Wechseln Sie zu **[!UICONTROL Admin]**.
 
@@ -23,13 +23,13 @@ Wenn Sie Marketo Sales Insight nicht verwenden, kann Marketo Engage für bestimm
 
    ![](assets/two-1.png)
 
-1. Aktivieren Sie die Kontrollkästchen neben den Aktivitäten, die Marketo an Salesforce senden soll, und klicken Sie auf **[!UICONTROL Speichern]**.
+1. Aktivieren Sie die Kontrollkästchen neben den Aktivitäten, die Marketo an Salesforce pushen soll, und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >Nach der Aktivierung wird Marketo den Aktivitätsverlauf über einen Zeitraum von drei Monaten nachverfolgen. Je nach Datenmenge kann _es mehrere Tage dauern, bis_ abgeschlossen ist. Aktualisierungen, die während der ersten Aktivitäts-Push-Benachrichtigung auftreten, können bis zum Abschluss der ersten Aktivitätensynchronisierung verzögert sein.
+   >Nach der Aktivierung überträgt Marketo den Aktivitätsverlauf für drei Monate. Je nach Datenmenge (_kann mehrere Tage dauern_. Aktualisierungen, die während der ersten Push-Aktivitäten auftreten, können verzögert werden, bis die Synchronisierung der ersten Aktivitäten abgeschlossen ist.
 
 <table> 
  <colgroup> 
@@ -45,23 +45,23 @@ Wenn Sie Marketo Sales Insight nicht verwenden, kann Marketo Engage für bestimm
  <tbody> 
   <tr> 
    <td>Ausgefülltes Formular</td> 
-   <td>Marketo-Formular ausfüllen</td> 
+   <td>Beliebiges Marketo-Formular ausgefüllt</td> 
   </tr> 
   <tr> 
    <td>Der Liste hinzugefügt</td> 
-   <td><p>Flussschritt: Wurde einer statischen Liste hinzugefügt</p></td> 
+   <td><p>Flussschritt: wurde zu einer statischen Liste hinzugefügt</p></td> 
   </tr> 
   <tr> 
    <td>E-Mail gesendet</td> 
-   <td>Flussschritt: Wurde eine E-Mail gesendet</td> 
+   <td>Flussschritt: Es wurde eine E-Mail gesendet</td> 
   </tr> 
   <tr> 
    <td>E-Mail übermittelt</td> 
-   <td>Eine E-Mail erhalten (nicht abgeschnitten)</td> 
+   <td>Eine E-Mail erhalten (nicht zurückgesendet)</td> 
   </tr> 
   <tr> 
    <td>E-Mail geöffnet</td> 
-   <td>Öffnen einer E-Mail (ohne Bilder zu blockieren)</td> 
+   <td>Geöffnete E-Mails (ohne Bilder zu blockieren)</td> 
   </tr> 
   <tr> 
    <td>Link in E-Mail angeklickt</td> 
@@ -77,27 +77,27 @@ Wenn Sie Marketo Sales Insight nicht verwenden, kann Marketo Engage für bestimm
   </tr> 
   <tr> 
    <td>Verkaufs-E-Mail gesendet</td> 
-   <td>Wurde über Marketo Sales Insight per E-Mail versendet</td> 
+   <td>Eine E-Mail wurde über Marketo Sales Insight gesendet</td> 
   </tr> 
   <tr> 
    <td>Verkaufs-E-Mail geöffnet</td> 
-   <td>Öffnen einer E-Mail, die über Marketo Sales Insight gesendet wurde</td> 
+   <td>hat eine E-Mail geöffnet, die über Marketo Sales Insight gesendet wurde</td> 
   </tr> 
   <tr> 
-   <td>Link in Verkaufs-E-Mail</td> 
-   <td>Auf einen Link in einer E-Mail geklickt, die über Marketo Sales Insight gesendet wurde</td> 
+   <td>Link in Verkaufs-E-Mail klicken</td> 
+   <td>Auf einen Link in einer über Marketo Sales Insight gesendeten E-Mail geklickt</td> 
   </tr> 
   <tr> 
    <td>Verkaufs-E-Mail empfangen</td> 
-   <td>Eine E-Mail wurde vom Vertriebsmitarbeiter im MSI Outlook-Plugin empfangen und protokolliert</td> 
+   <td>Eine E-Mail wurde vom Vertriebsmitarbeiter im MSI Outlook-Plug-in empfangen und protokolliert.</td> 
   </tr> 
  </tbody> 
 </table>
 
 >[!NOTE]
 >
->&quot;E-Mail zum Verkauf empfangen&quot;bedeutet nicht _, dass gesendet wird._ Der Status Zugestellt wird nicht für E-Mails erfasst, die über Sales Insight gesendet werden.
+>„Erhaltene Verkaufs-E-Mail _bedeutet nicht_ Zustellung. Der Status Zugestellt wird für E-Mails, die über Sales Insight gesendet werden, nicht erfasst.
 
 >[!TIP]
 >
->Wenn Sie weitere Marketo-Informationen in Salesforce erhalten möchten, sehen Sie sich unser Produkt [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} an.
+>Wenn Sie weitere Informationen zu Marketo in Salesforce erhalten möchten, lesen Sie unser [Produkt zu Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.

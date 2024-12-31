@@ -1,7 +1,7 @@
 ---
 unique-page-id: 4719291
-description: Standardnamen der Person und des Unternehmens festlegen - Marketo Docs - Produktdokumentation
-title: Standardnamen der Person und des Unternehmens festlegen
+description: Festlegen des Nachnamens der Person und des Firmennamens - Marketo-Dokumente - Produktdokumentation
+title: Standardnamen für Nachnamen und Firmennamen von Personen festlegen
 exl-id: 0216fb41-adf0-4ccf-be22-c064e90be65a
 feature: Salesforce Integration
 source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
@@ -11,24 +11,24 @@ ht-degree: 0%
 
 ---
 
-# Standardnamen der Person und des Unternehmens festlegen {#set-default-person-last-name-and-company-name}
+# Standardnamen für Nachnamen und Firmennamen von Personen festlegen {#set-default-person-last-name-and-company-name}
 
-Salesforce benötigt (mindestens) Nachname und Firmenname für Leads und Kontakte. Unvollständige Datensätze werden nicht mit Salesforce synchronisiert. Wenn Sie partielle Datensätze synchronisieren möchten, müssen Sie Standardwerte für die Verwendung von Marketo mit Salesforce festlegen.
+Salesforce erfordert (mindestens) Nachnamen und Firmennamen für seine Leads und Kontakte. Unvollständige Einträge werden nicht mit Salesforce synchronisiert. Wenn Sie partielle Datensätze synchronisieren möchten, müssen Sie Standardwerte für die Verwendung von Marketo mit Salesforce festlegen.
 
-1. Wechseln Sie zu **[!UICONTROL Admin]** und klicken Sie auf **[!DNL Salesforce]**.
+1. Gehen Sie zu **[!UICONTROL Admin]** und klicken Sie auf **[!DNL Salesforce]**.
 
    ![](assets/image2014-12-9-13-3a41-3a58.png)
 
-1. Klicken Sie auf **[!UICONTROL Synchronisierungsoptionen bearbeiten]**.
+1. Klicken Sie **[!UICONTROL Synchronisierungsoptionen bearbeiten]**.
 
    ![](assets/image2014-12-9-13-3a42-3a6.png)
 
-1. Geben Sie einen **[!UICONTROL Standardnamen der Person]** und ein **[!UICONTROL Standardperson, Firma]** ein und klicken Sie dann auf **[!UICONTROL Speichern]**.
+1. Geben Sie einen **[!UICONTROL Nachnamen der Standardperson]** und eine **[!UICONTROL Standardfirma der Person]** ein und klicken Sie dann auf **[!UICONTROL Speichern]**.
 
    ![](assets/sync-options-hands.png)
 
    >[!NOTE]
    >
-   >Marketo Engage weist nur dann einen Standardwert zu, wenn der Datensatz erstmals mit Salesforce synchronisiert wird, und nur dann, wenn eines der erforderlichen Felder leer ist.
+   >Marketo Engage weist nur dann einen Standardwert zu, wenn der Datensatz anfänglich mit Salesforce synchronisiert wird, und nur dann, wenn eines der erforderlichen Felder leer ist.
 
-Und das ist das! Jedes Mal, wenn einer Person ein Nachname und/oder ein Firmenname fehlt, fügt Marketo den Standardwert hinzu, während der Datensatz synchronisiert wird.
+Und das war&#39;s! Jedes Mal, wenn einer Person ein Nachname und/oder ein Firmenname fehlt, fügt Marketo den Standardwert hinzu, wenn der Datensatz synchronisiert wird.

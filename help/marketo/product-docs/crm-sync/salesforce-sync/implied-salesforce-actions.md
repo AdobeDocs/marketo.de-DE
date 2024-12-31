@@ -1,6 +1,6 @@
 ---
 unique-page-id: 4719304
-description: Implementierte Salesforce-Aktionen - Marketo-Dokumente - Produktdokumentation
+description: Implizite Salesforce-Aktionen - Marketo-Dokumente - Produktdokumentation
 title: Implizite Salesforce-Aktionen
 exl-id: 88533588-77f2-465e-9644-a4f95b87f99d
 feature: Salesforce Integration
@@ -13,7 +13,7 @@ ht-degree: 21%
 
 # Implizite Salesforce-Aktionen {#implied-salesforce-actions}
 
-Wenn ein Salesforce-spezifischer Flussschritt ausgeführt wird, werden manchmal automatisch zusätzliche Schritte ausgeführt. Im Folgenden finden Sie die Regeln, damit Sie Folgendes wissen:
+Wenn ein Salesforce-spezifischer Flussschritt ausgeführt wird, werden manchmal zusätzliche Schritte automatisch ausgeführt. Hier sind die Regeln, also wissen Sie:
 
 Diese Regeln gelten, wenn sich die Person derzeit nicht in [Salesforce.com](https://Salesforce.com){target="_blank"} als Kontakt oder Lead befindet.
 
@@ -21,7 +21,7 @@ Diese Regeln gelten, wenn sich die Person derzeit nicht in [Salesforce.com](http
  <thead> 
   <tr> 
    <th>Marketo-Flussschritt</th> 
-   <th>Automatische Aktion</th> 
+   <th>automatische Handlung</th> 
   </tr> 
  </thead> 
  <tbody> 
@@ -31,7 +31,7 @@ Diese Regeln gelten, wenn sich die Person derzeit nicht in [Salesforce.com](http
   </tr> 
   <tr> 
    <td>Status in SFDC-Kampagne ändern</td> 
-   <td>Person mit SFDC synchronisieren<br>Zu SFDC Campaign hinzufügen</td> 
+   <td>Person mit SFDC synchronisieren<br> Zu SFDC Campaign hinzufügen</td> 
   </tr> 
   <tr> 
    <td>Eigentümer ändern</td> 
@@ -48,6 +48,6 @@ Diese Regeln gelten, wenn sich die Person derzeit nicht in [Salesforce.com](http
  </tbody> 
 </table>
 
-Sie können SFDC-Datensätze in einer Smart-Liste mithilfe des Filters **[!UICONTROL SFDC-Typ]** herausfiltern, wobei der Operator auf &quot;ist nicht leer&quot;festgelegt ist. Alle SFDC-Datensätze haben in diesem Feld einen Wert.
+Sie können SFDC-Datensätze in einer Smart-Liste mithilfe des **[!UICONTROL SFDC-Typs]** filtern, wobei der Operator auf „ist nicht leer“ gesetzt ist. Alle SFDC-Datensätze haben in diesem Feld einen Wert.
 
-Denken Sie daran, dass diese automatischen Aktionen nur stattfinden, wenn der Lead derzeit nicht in [Salesforce.com](https://salesforce.com){target="_blank"} enthalten ist.
+Denken Sie daran, dass diese automatischen Aktionen nur stattfinden, wenn sich der Lead derzeit nicht in [Salesforce.com befindet](https://salesforce.com){target="_blank"}

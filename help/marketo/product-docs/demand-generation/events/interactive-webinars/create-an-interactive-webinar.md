@@ -12,31 +12,31 @@ ht-degree: 0%
 
 # Erstellen eines interaktiven Webinars {#create-an-interactive-webinar}
 
-Erstellen Sie ein interaktives Webinar in wenigen einfachen Schritten.
+Erstellen Sie in wenigen einfachen Schritten ein interaktives Webinar.
 
-1. Wechseln Sie zu **Marketingaktivitäten**.
+1. Navigieren Sie **Marketing-Aktivitäten**.
 
    ![](assets/create-an-interactive-webinar-1.png)
 
-1. Klicken Sie mit der rechten Maustaste auf den gewünschten Ordner und wählen Sie **Neues Programm** aus.
+1. Klicken Sie mit der rechten Maustaste auf den gewünschten Ordner und wählen Sie **Neues Programm**.
 
    ![](assets/create-an-interactive-webinar-2.png)
 
    >[!CAUTION]
    >
-   >[Mobile Push Notification](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md){target="_blank"} -Assets werden in interaktiven Webinaren **nicht** unterstützt.
+   >[Mobile Push-Benachrichtigung](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md){target="_blank"} Assets werden **interaktiven Webinaren** unterstützt.
 
-1. Nennen Sie das Programm. Wählen Sie unter &quot;Programmtyp&quot;die Option **Ereignis** aus.
+1. Benennen Sie das Programm. Wählen Sie unter Programmtyp die Option **Ereignis** aus.
 
    ![](assets/create-an-interactive-webinar-3.png)
 
-1. Klicken Sie auf die Dropdown-Liste Kanal und wählen Sie einen Kanal aus, der über _Ereignis mit Webinar_ in der Spalte &quot;Gilt für&quot;verfügt. In diesem Beispiel wählen wir **Webinar**.
+1. Klicken Sie auf die Dropdown-Liste Kanal und wählen Sie einen beliebigen Kanal aus, der _Ereignis mit Webinar_ in der Spalte „Gilt für“ enthält. In diesem Beispiel wählen wir &quot;**&quot;**.
 
    ![](assets/create-an-interactive-webinar-4.png)
 
    >[!NOTE]
    >
-   >Um zu sehen, welche Kanäle auf _Ereignis mit Webinar_ zutreffen, gehen Sie zu **Admin** > **Tags**. &quot;Wendet auf&quot;sollte die mittlere Spalte sein. Weitere Informationen zu &quot;Gilt für&quot;finden Sie in Schritt 5 von [diesem Artikel](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.
+   >Um zu sehen, welche Kanäle für &quot;_mit Webinar_ gelten, gehen Sie zu **Admin** > **Tags**. „Gilt für“ sollte die mittlere Spalte sein. Weitere Informationen zu „Gilt für“ finden Sie in Schritt 5 [diesem Artikel](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.
 
 1. Wählen Sie **Interaktive Webinare** und klicken Sie auf **Weiter**.
 
@@ -48,11 +48,11 @@ Erstellen Sie ein interaktives Webinar in wenigen einfachen Schritten.
 
    >[!NOTE]
    >
-   >* Der Titel des Webinars ist für Teilnehmer sichtbar, wenn sie Mitglied werden. Es ist wichtig, dass der Titel sich von dem Namen des Interaktiven Webinar-Veranstaltungsprogramms in Ihrer Marketo Engage-Instanz sowie vom Namen des Webinarraums unterscheidet.
+   >* Der Titel des Webinars wird den Teilnehmern angezeigt, wenn sie daran teilnehmen. Es ist wichtig, dass sich der Titel vom Namen des Veranstaltungsprogramms für interaktive Webinare in Ihrer Marketo Engage-Instanz sowie vom Namen des Webinarraums unterscheidet.
    >
-   >* Sie können einen Webinartitel nicht wiederverwenden. Jede Instanz muss in Ihrer Marketo-Instanz eindeutig sein.
+   >* Sie können einen Webinar-Titel nicht wiederverwenden. Jede muss in Ihrer Marketo-Instanz eindeutig sein.
    >
-   >* Sie können den Webinartitel bei Bedarf zu einem späteren Zeitpunkt ändern.
+   >* Falls gewünscht, können Sie den Webinar-Titel zu einem späteren Zeitpunkt ändern.
    >
    >* Wenn Sie ein Test-Webinar erstellen, muss es vor seiner Startzeit gelöscht werden, um sicherzustellen, dass die Lizenz für dieses Webinar nicht genutzt wird.
 
@@ -62,13 +62,13 @@ Erstellen Sie ein interaktives Webinar in wenigen einfachen Schritten.
 
 >[!NOTE]
 >
->Es wird empfohlen, zwei aufeinander folgende Ereignisse um 30 Minuten abzuspalten (es sei denn, die Lizenz unterstützt gleichzeitige Webinare), falls das vorherige Webinar über den geplanten Zeitraum hinaus ausgeführt wird.
+>Es wird empfohlen, zwei aufeinander folgende Events um 30 Minuten voneinander entfernt durchzuführen (es sei denn, die Lizenz unterstützt gleichzeitige Webinare), um einen Puffer zu bilden, falls das vorherige Webinar länger als geplant dauert.
 
 Jetzt ist es an der Zeit, [Ihr Webinar zu entwerfen](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}.
 
 >[!IMPORTANT]
 >
->Es wird dringend empfohlen, Ihr Webinar _vor dem Hinzufügen von Moderatoren oder Co-Hosts durch_ zu erstellen.
+>Es wird dringend empfohlen, dass Sie Ihr Webinar _vor)_ Moderatoren oder Co-Hosts erstellen.
 
 >[!MORELIKETHIS]
 >

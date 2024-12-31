@@ -1,7 +1,7 @@
 ---
 unique-page-id: 4720377
-description: Referenzieren einer Liste oder Smart-Liste über Arbeitsbereiche hinweg - Marketo Docs - Produktdokumentation
-title: Referenzieren einer Liste oder Smart-Liste über Arbeitsbereiche hinweg
+description: Referenzieren einer Liste oder Smart-Liste in Arbeitsbereichen - Marketo-Dokumente - Produktdokumentation
+title: Verweisen auf eine Liste oder Smart-Liste in allen Arbeitsbereichen
 exl-id: c390685c-e51d-4298-ba3b-8e4dd27eb85c
 feature: Smart Lists
 source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
@@ -11,41 +11,41 @@ ht-degree: 0%
 
 ---
 
-# Referenzieren einer Liste oder Smart-Liste über Arbeitsbereiche hinweg {#reference-a-list-or-smart-list-across-workspaces}
+# Verweisen auf eine Liste oder Smart-Liste in allen Arbeitsbereichen {#reference-a-list-or-smart-list-across-workspaces}
 
-Listen und Smart-Listen können in allen Arbeitsbereichen freigegeben und referenziert werden, um eine einfache Wiederverwendung über die Datenbank zu ermöglichen.
+Listen und Smart-Listen können über Arbeitsbereiche hinweg freigegeben und referenziert werden, damit sie einfach aus der Datenbank wiederverwendet werden können.
 
 >[!NOTE]
 >
->Es gelten Regeln zur Personenpartition (Smart Lists und statische Listen in einem Arbeitsbereich zeigen nur Personen an, die beide Mitglieder der Liste _und_ des aktuellen Arbeitsbereichs sind).
+>Es gelten die Regeln für die Personenpartition (in Smart-Listen und statischen Listen in einem Arbeitsbereich werden nur Personen angezeigt, die sowohl Mitglieder der Liste _und_ des aktuellen Arbeitsbereichs sind).
 
-## Liste oder Smart-Liste freigeben {#share-a-list-or-smart-list}
+## Freigeben von Listen oder Smart-Listen {#share-a-list-or-smart-list}
 
-1. Wechseln Sie zur **[!UICONTROL Datenbank]**.
+1. Navigieren Sie zur **[!UICONTROL Datenbank]**.
 
    ![](assets/reference-a-list-or-smart-list-across-workspaces-1.png)
 
-1. Klicken Sie mit der rechten Maustaste auf einen Kampagnenordner. Wählen Sie **Neuer Ordner** aus.
+1. Rechtsklicken Sie auf einen Kampagnenordner. Wählen Sie **Neuer Ordner** aus.
 
    ![](assets/reference-a-list-or-smart-list-across-workspaces-2.png)
 
    >[!NOTE]
    >
-   >Assets kann nur dann für mehrere Arbeitsbereiche freigegeben werden, wenn sie in einem Ordner verschachtelt sind.
+   >Assets kann nur über Arbeitsbereiche hinweg freigegeben werden, wenn sie in einem Ordner verschachtelt sind.
 
-1. Benennen Sie den Ordner und klicken Sie auf **[!UICONTROL Erstellen]**.
+1. Benennen Sie Ihren Ordner und klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/reference-a-list-or-smart-list-across-workspaces-3.png)
 
-1. Ziehen Sie eine Liste oder Smart-Liste, die Sie freigeben möchten, in den neuen Ordner.
+1. Ziehen Sie eine Liste oder Smart List, die Sie freigeben möchten, per Drag-and-Drop in den neuen Ordner.
 
    ![](assets/reference-a-list-or-smart-list-across-workspaces-4.png)
 
-1. Klicken Sie mit der rechten Maustaste auf den neuen Ordner und wählen Sie **[!UICONTROL Ordner freigeben]** aus.
+1. Klicken Sie mit der rechten Maustaste auf den neuen Ordner und wählen Sie **[!UICONTROL Ordner freigeben]**.
 
    ![](assets/reference-a-list-or-smart-list-across-workspaces-5.png)
 
-1. Wählen Sie einen **[!UICONTROL Workspace]** aus, für den Sie eine Freigabe vornehmen möchten, und klicken Sie auf **[!UICONTROL Speichern]**.
+1. Wählen Sie eine **[!UICONTROL Workspace]** für die Freigabe aus und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/reference-a-list-or-smart-list-across-workspaces-6.png)
 
@@ -53,4 +53,4 @@ Listen und Smart-Listen können in allen Arbeitsbereichen freigegeben und refere
 
    >[!NOTE]
    >
-   >In Marketingaktivitäten können Sie nur Ordner der obersten Ebene freigeben. In der Datenbank können Sie Ordner der obersten Ebene sowie eine Ebene nach unten freigeben.
+   >In Marketing-Aktivitäten können Sie nur Ordner der obersten Ebene freigeben. In der -Datenbank können Sie Ordner der obersten Ebene sowie eine Ebene nach unten freigeben.

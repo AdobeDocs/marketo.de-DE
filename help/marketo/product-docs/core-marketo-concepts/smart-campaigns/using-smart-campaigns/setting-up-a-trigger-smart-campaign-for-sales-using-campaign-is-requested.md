@@ -1,7 +1,7 @@
 ---
 unique-page-id: 7514898
-description: Einrichten einer Trigger-Smart-Kampagne für den Vertrieb mit "Campaign is Require"- Marketo Docs - Produktdokumentation
-title: Einrichten einer Trigger-Smart-Kampagne für den Vertrieb mit "Campaign is Require"
+description: Einrichten einer intelligenten Trigger-Kampagne für den Verkauf mithilfe von „Kampagne ist angefordert“ - Marketo-Dokumente - Produktdokumentation
+title: Einrichten einer intelligenten Trigger-Kampagne für den Verkauf mit „Kampagne ist angefordert“
 exl-id: ed6d7c27-d54b-48e3-af67-19503da4ef56
 feature: Smart Campaigns
 source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
@@ -11,20 +11,20 @@ ht-degree: 0%
 
 ---
 
-# Einrichten einer Trigger-Smart-Kampagne für den Vertrieb mit &quot;Campaign is Require&quot; {#setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested}
+# Einrichten einer intelligenten Trigger-Kampagne für den Verkauf mit „Kampagne ist angefordert“ {#setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested}
 
-Eines der coolsten Merkmale von Marketo ist die Möglichkeit, Vertriebsmitarbeitern die Teilnahme an Marketingmaßnahmen zu ermöglichen. Sie sind an der Front und interagieren mit Leuten. Vertriebsmitarbeiter sollten in der Lage sein, das Marketing in die richtige Richtung zu lenken.
+Eine der coolsten Funktionen von Marketo ist die Möglichkeit, Vertriebsmitarbeiter an den Marketingmaßnahmen teilnehmen zu lassen. Sie stehen an vorderster Front und interagieren mit Menschen. Vertriebsmitarbeiter sollten in der Lage sein, das Marketing in die richtige Richtung zu lenken.
 
 >[!NOTE]
 >
->Beispiele für anzufordernde Smart-Kampagnen:
+>Beispiele für anzufragende Smart-Kampagnen:
 >
->1. **Langfristige Pflege** - wenn sie dieses Jahr kein Budget haben und Sie einfach nur auf dem Radar bleiben möchten
->1. **Aktiver Verkaufszyklus** - wenn der Verkäufer außer seiner eigenen keine Nachrichten an die Person erhalten möchte. (verwenden Sie die Markierung für ausgesetzte Marketing, um sie vorübergehend abzumelden)
+>1. **Langfristige Pflege** - wenn sie in diesem Jahr kein Budget haben und man einfach auf dem Radar bleiben möchte
+>1. **Aktiver Verkaufszyklus** - wenn der Verkäufer keine Nachrichten an die Person senden möchte, mit Ausnahme seiner eigenen. (Verwenden Sie die Markierung Marketing ausgesetzt , um das Abonnement vorübergehend zu kündigen.)
 >
->Seien Sie kreativ! Was möchte der Verkäufer automatisieren? Fragen Sie sie einfach und verbinden Sie es!
+>Seien Sie kreativ! Was möchte der Vertriebsmitarbeiter automatisieren? Fragen Sie sie einfach und verkabeln Sie sie!
 
-1. Erstellen Sie eine Smart-Kampagne.
+1. Erstellen Sie eine intelligente Kampagne.
 
    ![](assets/setting-up-a-trigger-smart-campaign-for-sales-1.png)
 
@@ -32,17 +32,17 @@ Eines der coolsten Merkmale von Marketo ist die Möglichkeit, Vertriebsmitarbeit
 
    ![](assets/setting-up-a-trigger-smart-campaign-for-sales-2.png)
 
-1. Die Quellauswahl gibt an, welche Art von Anforderung berücksichtigt wird. Wählen Sie für die Salesforce-Funktion **[!UICONTROL Sales Insight]** aus.
+1. Die Quellenauswahl gibt an, welche Art von Anfrage berücksichtigt wird. Wählen Sie für die Salesforce-Funktionen **[!UICONTROL Sales Insight]**.
 
    >[!TIP]
    >
-   >Die Quell-Operatoren dienen der Sicherheit. Sie können die Kampagne auf Anforderungen beschränken, die nur von bestimmten Quellen, wie z. B. anderen Smart-Kampagnen oder -Entwicklern, gestellt werden. Wählen Sie im ersten Feld **[!UICONTROL Is Any]** aus, wenn Sie Anforderungen aus allen Quellen zulassen möchten.
+   >Die Quelloperatoren dienen der Sicherheit. Sie können die Kampagne auf Anfragen beschränken, die nur von bestimmten Quellen, wie anderen intelligenten Kampagnen oder Entwicklern, gestellt werden. Wählen Sie **[!UICONTROL Ist Beliebig]** im ersten Feld aus, wenn Sie Anfragen aus allen Quellen zulassen möchten.
    >
-   >_Denken Sie daran_: Durch die Auswahl von Sales Insight wird dieser auf magische Weise im Feld für Verkäufe angezeigt. Übertreib es nicht! Zu viele werden von ihnen ignoriert.
+   >_Denken Sie_, durch die Auswahl von Sales Insight wird es auf magische Weise in der Box für den Verkauf angezeigt. Übertreib&#39;s nicht. Zu viele werden von ihnen ignoriert.
 
    ![](assets/setting-up-a-trigger-smart-campaign-for-sales-3.png)
 
-So können Sie Ihre Marketing-Reichweite auf andere Abteilungen ausdehnen. Richten Sie zur Automatisierung alle Arten von Kampagnen ein.
+Dies ist eine hervorragende Möglichkeit, Ihre Marketing-Reichweite auf andere Abteilungen auszudehnen. Richten Sie alle Arten von Kampagnen zur Automatisierung ein.
 
 >[!TIP]
 >

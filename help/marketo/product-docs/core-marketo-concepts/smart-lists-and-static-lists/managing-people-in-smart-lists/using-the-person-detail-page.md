@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2953415
-description: Verwenden der Personendetailseite - Marketo-Dokumente - Produktdokumentation
-title: Verwenden der Seite "Personendetails"
+description: Verwenden der Seite „Personendetails“ - Marketo-Dokumente - Produktdokumentation
+title: Verwenden der Seite „Personendetails“
 exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
 feature: Smart Lists
 source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
@@ -11,22 +11,22 @@ ht-degree: 50%
 
 ---
 
-# Verwenden der Seite &quot;Personendetails&quot; {#using-the-person-detail-page}
+# Verwenden der Seite „Personendetails“ {#using-the-person-detail-page}
 
-Die Personendetailseite enthält alle Informationen, die Marketo über eine Person kennt. Sie können Daten direkt auf dieser Seite bearbeiten.
+Die Seite „Personendetails“ enthält alle Informationen, die Marketo über eine Person kennt. Daten können direkt von dieser Seite aus bearbeitet werden.
 
-## Zur Seite &quot;Personendetails&quot; {#getting-to-person-detail-page}
+## Seite „Personendetails“ aufrufen {#getting-to-person-detail-page}
 
-Es gibt viele Möglichkeiten, bestimmte Personen zu öffnen. Beispiele:
+Es gibt viele Möglichkeiten, bestimmte Leute zu öffnen. Beispiele:
 
-* In der **Datenbank** können Sie in der Schnellsuche suchen.
-* Beliebige **Smart-Liste** oder -Liste
-* Registerkarte **Mitglieder** eines Programms
-* **Anzeigen von Kampagnenmitgliedern** in einer Smart-Kampagne
+* In der **Datenbank** können Sie in der Schnellsuche suchen
+* Beliebige **Smart-Liste** oder Liste
+* **Mitglieder** Registerkarte eines Programms
+* **Anzeigen von Kampagnenmitgliedern** in einer intelligenten Kampagne
 * Einige **Berichte**
   <br> 
 
-1. Doppelklicken Sie auf eine beliebige Person oder klicken Sie mit einem Klick auf die ID auf der linken Seite.
+1. Doppelklicken Sie entweder auf eine beliebige Person oder klicken Sie einfach auf die ID auf der linken Seite.
 
    ![](assets/one-1.png)
 
@@ -38,33 +38,33 @@ Es gibt viele Möglichkeiten, bestimmte Personen zu öffnen. Beispiele:
 
 Personeninformationen werden in die folgenden Registerkarten kategorisiert:
 
-| Registerkarte | Beschreibung |
+| Tab | Beschreibung |
 |---|---|
 | Info | Kontaktinformationen und benutzerdefinierte Felder zu einer Person. |
 | Unternehmensinfo | Unternehmensinformationen und -adresse der Person. |
-| Opportunity-Info | Aus Salesforce synchronisierte Opportunity-Informationen. |
+| Opportunity-Info | Opportunity-Informationen aus Salesforce synchronisiert. |
 | SFDC-Lead-Feld | Integrierte Salesforce-Felder. |
-| SFDC Benutzerdefiniertes Feld | Benutzerdefinierte Salesforce-Felder. |
-| Aktivitätsprotokoll | Alle Aktivitäten, die mit der Person verbunden sind. |
+| Benutzerdefiniertes SFDC-Feld | Benutzerdefinierte Salesforce-Felder. |
+| Aktivitätsprotokoll | Alle mit der Person verbundenen Aktivitäten. |
 
 ## Seitenorganisation - Microsoft Dynamics {#page-organization-microsoft-dynamics}
 
-| Registerkarte | Beschreibung |
+| Tab | Beschreibung |
 |---|---|
 | Info | Kontaktinformationen und benutzerdefinierte Felder zu einer Person. |
 | Unternehmensinfo | Unternehmensinformationen und -adresse der Person. |
-| Opportunity-Info | Aus Microsoft synchronisierte Opportunity-Informationen. |
+| Opportunity-Info | Opportunity-Informationen aus Microsoft synchronisiert. |
 | Benutzerdefinierte Microsoft-Felder | Benutzerdefinierte Microsoft-Felder. |
 | Microsoft-Lead-Feld | Integrierte Microsoft-Felder. |
-| Aktivitätsprotokoll | Alle Aktivitäten, die mit der Person verbunden sind. |
+| Aktivitätsprotokoll | Alle mit der Person verbundenen Aktivitäten. |
 
 >[!NOTE]
 >
->Sie können auch die über API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities) eingefügten Opportunity info [für Instanzen sehen, die nicht mit einem CRM synchronisiert werden.
+>Sie können auch Opportunity-[ (über API eingefügt) für ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities) sehen, die nicht mit einem CRM synchronisiert wurden.
 
 ## Bearbeiten eines Felds {#editing-a-field}
 
-Viele Felder können bearbeitet werden. Um die Informationen einer Person zu aktualisieren, geben Sie einen neuen Wert ein und klicken Sie außerhalb des zu speichernden Felds auf .
+Viele Felder können bearbeitet werden. Um die Informationen einer Person zu aktualisieren, geben Sie einen neuen Wert ein und klicken Sie zum Speichern auf eine Stelle außerhalb des Felds.
 
 ![](assets/image2015-2-27-11-3a14-3a2.png)
 
@@ -73,13 +73,13 @@ Viele Felder können bearbeitet werden. Um die Informationen einer Person zu akt
 |   |  |  |  |  |
 |---|---|---|---|---|
 | Adresse | Jahresumsatz | Anonyme IP | Rechnungsadresse | Abrechnungsort |
-| Abrechnungsland | Postleitzahl für Abrechnung | Bundesland für Abrechnung | Ort | Unternehmensname |
+| Abrechnungsland | Postleitzahl für Abrechnung | Bundesland für Abrechnung | Stadt | Firmenname |
 | Land | Erstellt um | Geburtsdatum | Abteilung | Nicht aufrufen |
 | Nicht aufrufen – Grund | Nicht aufrufen – Ursache | E-Mail-Adresse | E-Mail-Adresse ungültig | Grund für ungültige E-Mail |
 | Externe Unternehmens-ID | Externe Vertriebsmitarbeiter-ID | Faxnummer | Vorname | Vollständiger Name |
 | Branche | Abgeleiteter Ort | Abgeleitetes Unternehmen | Abgeleitetes Land | Abgeleiteter Stadtbereich |
 | Abgeleitete Vorwahl | Abgeleitete Postleitzahl | Abgeleitetes Bundesland/abgeleitete Region | Ist anonym | Ist Kunde |
-| Ist Partner | Jobtitel | Nachname | Bewertung | Bewertung |
+| Ist Partner | Jobtitel | Nachname | Rating | Ergebnis |
 | Person – Quelle | Status | Haupttelefonnummer | Marketo Social – Facebook-Anzeigename | Marketo Social Facebook-ID |
 | Marketo Social – Facebook-Foto-URL | Marketo Social – Facebook-Profil-URL | Marketo Social – Facebook-Reichweite | Marketo Social – bezeichnete Registrierungen bei Facebook | Marketo Social – bezeichnete Besuche bei Facebook |
 | Marketo Social – Geschlecht | Marketo Social – letzte bezeichnete Registrierung | Marketo Social – letzter bezeichneter Besuch | Marketo Social – LinkedIn-Anzeigename | Marketo Social LinkedIn-ID |
@@ -88,20 +88,20 @@ Viele Felder können bearbeitet werden. Um die Informationen einer Person zu akt
 | Marketo Social – Twitter-Foto-URL | Marketo Social – Twitter-Profil-URL | Marketo Social – Twitter-Reichweite | Marketo Social – bezeichnete Registrierungen bei Twitter | Marketo Social – bezeichnete Besuche bei Twitter |
 | Zweiter Vorname | Mobiltelefonnummer | Anzahl Mitarbeiter | Telefonnummer | Postleitzahl |
 | Priorität | Relative Bewertung | Role | Anrede | SIC-Code |
-| Seite | Bundesland | Abgemeldet | Ursache für Abbestellung | Aktualisiert um |
+| Seite | Land | Abgemeldet | Ursache für Abbestellung | Aktualisiert um |
 | Dringlichkeit | Website |  |  |  |
 
 >[!NOTE]
 >
->Einige Felder können bearbeitet werden: _nicht_ :
+>Einige Felder können _nicht_ bearbeitet werden:
 >
 >* Aktivitätsprotokoll
 >* Unternehmensinformationen
 >* Möglichkeiten für SFDC-Kontakte
->* Bestimmte Marketo-spezifische Felder, z. B. Erstellungsdatum und Original Source-Typ.
+>* Bestimmte Marketo-spezifische Felder, z. B. Erstellungsdatum und ursprünglicher Source-Typ.
 >
->Erfahren Sie mehr über [systemverwaltete Felder](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md){target="_blank"}.
+>Weitere Informationen zu [Systemverwalteten Feldern](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->[Erstellen einer benutzerdefinierten Registerkarte für die Seite mit den Personendetails](/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md){target="_blank"}
+>[Erstellen einer benutzerdefinierten Registerkarte für die Personendetailseite](/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md){target="_blank"}

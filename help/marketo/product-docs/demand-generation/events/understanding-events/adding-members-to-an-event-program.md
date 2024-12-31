@@ -1,6 +1,6 @@
 ---
 unique-page-id: 37355758
-description: Hinzufügen von Mitgliedern zu einem Ereignisprogramm - Marketo-Dokumente - Produktdokumentation
+description: Hinzufügen von Mitgliedern zu einem Veranstaltungsprogramm - Marketo-Dokumente - Produktdokumentation
 title: Hinzufügen von Mitgliedern zu einem Veranstaltungsprogramm
 exl-id: 05bd4807-3ab8-452d-a389-b22477cf7445
 feature: Events
@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # Hinzufügen von Mitgliedern zu einem Veranstaltungsprogramm {#adding-members-to-an-event-program}
 
-Dieser Artikel gilt nur für Benutzer, die Event Cap oder Event Goals verwenden.
+Dieser Artikel gilt nur für Benutzer, die Event-Begrenzungs- oder Event-Ziele verwenden.
 
 >[!CAUTION]
 >
->Durch den Import einer Personenliste direkt in ein Ereignisprogramm wird verhindert, dass diese Datensätze in den eigentlichen Registrierungen im Zielverfolgungsbericht und im Bericht zur Event Cap-Progression gezählt werden. Befolgen Sie die nachstehenden Anweisungen, um sicherzustellen, dass Ihre Datensätze gezählt werden.
+>Wenn Sie eine Liste von Personen direkt in ein Veranstaltungsprogramm importieren, werden diese Datensätze bei den tatsächlichen Registrierungen im Zielverfolgungsbericht und im Ereignisbegrenzungs-Fortschrittsbericht nicht gezählt. Folgen Sie den unten stehenden Anweisungen, um sicherzustellen, dass Ihre Datensätze gezählt werden.
 
-1. Erstellen und [fügen Sie Personen zu einer statischen Liste hinzu](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md).
+1. Erstellen und [Hinzufügen von Personen zu einer statischen Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md).
 
-1. [Erstellen Sie eine Smart-Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md).
+1. [Erstellen Sie eine intelligente Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md).
 
-1. Suchen Sie in der Smart-Liste der Smart-Kampagne, die Sie in Schritt 2 erstellt haben, den Filter **Mitglied der Liste** und fügen Sie ihn hinzu.
+1. Suchen Sie in der Smart List der Smart Campaign, die Sie in Schritt 2 erstellt haben, den Filter **Member of List** und fügen Sie ihn hinzu.
 
    ![](assets/three.png)
 
-1. Suchen und wählen Sie die Liste aus, die Sie in Schritt 1 erstellt haben.
+1. Suchen Sie die in Schritt 1 erstellte Liste und wählen Sie sie aus.
 
    ![](assets/four.png)
 
@@ -35,7 +35,7 @@ Dieser Artikel gilt nur für Benutzer, die Event Cap oder Event Goals verwenden.
 
    ![](assets/five.png)
 
-1. Suchen und wählen Sie Ihr Veranstaltungsprogramm aus.
+1. Suchen und wählen Sie Ihr Veranstaltungsprogramm.
 
    ![](assets/six.png)
 
@@ -43,7 +43,7 @@ Dieser Artikel gilt nur für Benutzer, die Event Cap oder Event Goals verwenden.
 
    ![](assets/seven.png)
 
-1. Klicken Sie auf der Registerkarte &quot;Plan&quot;auf **Einmal ausführen**.
+1. Klicken Sie auf der Registerkarte Zeitplan auf **Einmal ausführen**.
 
    ![](assets/eight.png)
 
@@ -51,4 +51,4 @@ Dieser Artikel gilt nur für Benutzer, die Event Cap oder Event Goals verwenden.
 
    ![](assets/nine.png)
 
-1. Nachdem die intelligente Kampagne ausgeführt wurde, werden die Mitglieder zum Programm hinzugefügt und in den Berechnungen Zielverfolgung und Ereignis-Begrenzung berücksichtigt.
+1. Nach der Ausführung der intelligenten Kampagne werden die Mitglieder zum Programm hinzugefügt und in den Berechnungen für die Zielverfolgung und die Ereignisbegrenzungsprogression gezählt.

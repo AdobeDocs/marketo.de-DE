@@ -1,6 +1,6 @@
 ---
 description: Entwerfen interaktiver Webinare - Marketo-Dokumente - Produktdokumentation
-title: Interaktive Webinare erstellen
+title: Entwerfen interaktiver Webinare
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars
 source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
@@ -10,27 +10,27 @@ ht-degree: 0%
 
 ---
 
-# Interaktive Webinare erstellen {#designing-interactive-webinars}
+# Entwerfen interaktiver Webinare {#designing-interactive-webinars}
 
-Erfahren Sie, wie Sie Ihr Webinar entsprechend Ihren Anforderungen entwerfen.
+Erfahren Sie, wie Sie Ihr Webinar an Ihre Anforderungen anpassen.
 
-1. Wählen Sie Ihr Ereignis aus und klicken Sie auf **Design Your Webinar**.
+1. Wählen Sie Ihre Veranstaltung aus und klicken Sie auf **Webinar entwerfen**.
 
    ![](assets/designing-interactive-webinars-1.png)
 
-1. Sie können einen vorhandenen Webinar-Raum auswählen oder einen neuen erstellen. In diesem Beispiel erstellen wir ein neues. Klicken Sie daher auf die Dropdown-Liste **Zimmer auswählen** und wählen Sie **Neuer interaktiver Webinarraum**.
+1. Sie können einen vorhandenen Webinar-Raum auswählen oder einen neuen erstellen. In diesem Beispiel wird ein neues erstellt. Klicken Sie also auf die **Select Room** Dropdown-Liste und wählen Sie **New Interactive Webinar Room**.
 
    ![](assets/designing-interactive-webinars-2.png)
 
    >[!NOTE]
    >
-   >* Ein Raum ist ein Online-Raum, der für Meetings genutzt wird.
+   >* Ein Raum ist ein Online-Raum, in dem Meetings durchgeführt werden.
    >
-   >* Wenn Sie einen vorhandenen Webinarraum auswählen und ihn umbenennen möchten, klicken Sie einfach auf die Schaltfläche **Webinarraum umbenennen** rechts.
+   >* Wenn Sie einen vorhandenen Webinar-Raum auswählen und ihn umbenennen möchten, klicken Sie einfach auf die Schaltfläche **Webinar-Raum umbenennen** rechts.
    >
-   >* In der Dropdown-Liste werden nur die zuvor von Ihnen erstellten Räume und nicht die von anderen Hosts angezeigt.
+   >* Die Dropdown-Liste zeigt nur die vorhandenen Räume an, die Sie zuvor erstellt haben, nicht die der anderen Hosts.
 
-1. Wählen Sie eine Vorlage aus.
+1. Wählen Sie eine Vorlage.
 
    ![](assets/designing-interactive-webinars-3.png)
 
@@ -40,21 +40,21 @@ Erfahren Sie, wie Sie Ihr Webinar entsprechend Ihren Anforderungen entwerfen.
 
    >[!NOTE]
    >
-   >Standardmäßig entspricht der Name des Raums, der im Feld &quot;Name des interaktiven Webinar-Saals&quot;angegeben ist, dem Namen Ihres interaktiven Webinar-Veranstaltungsprogramms. Sie können ihn ändern, um den Titel des Webinars selbst widerzuspiegeln, da dieser Name für Ihre Zielgruppe sichtbar ist.
+   >Standardmäßig ist der Name des Raums, der im Feld „Name des interaktiven Webinar-Raums“ angegeben ist, derselbe Name wie der Name Ihres Veranstaltungsprogramms für das interaktive Webinar. Sie haben die Möglichkeit, ihn zu ändern, um den Titel des Webinars selbst widerzuspiegeln, da dieser Name für Ihre Zielgruppe sichtbar ist.
 
    >[!TIP]
    >
-   >Ihr Webinar wird in Ihrer Marketo Engage-Instanz auf die Standardsprache eingestellt, Sie können jedoch die Sprachen für jedes Webinar ändern, indem Sie die Dropdown-Liste oberhalb der Vorschau verwenden.
+   >Für Ihr Webinar wird die Standardsprache in Ihrer Marketo Engage-Instanz festgelegt, Sie haben jedoch die Möglichkeit, die Sprache pro Webinar zu ändern, indem Sie die Dropdown-Liste über der Vorschau verwenden.
 
-1. Sie können verschiedene Layouts zur Vorschau auswählen. Um fortzufahren, klicken Sie auf **Vorlage verwenden**.
+1. Sie können verschiedene Layouts für die Vorschau auswählen. Klicken Sie auf „Vorlage **&quot;, um**.
 
    ![](assets/designing-interactive-webinars-5.png)
 
-1. Sie können Ihr Webinar sofort oder später verfeinern. Machen wir es jetzt! Klicken Sie auf **Ihr Webinar jetzt verfeinern**.
+1. Sie können Ihr Webinar sofort oder später verfeinern. Lass es uns jetzt tun. Klicken Sie **Webinar jetzt verfeinern**.
 
    ![](assets/designing-interactive-webinars-6.png)
 
-1. Wählen Sie Ihre Audio-/Videovoreinstellungen aus und klicken Sie auf **Raum betreten**.
+1. Wählen Sie Ihre Audio-/Videoeinstellungen aus und klicken Sie auf **Raum eingeben**.
 
    ![](assets/designing-interactive-webinars-7.png)
 
@@ -62,16 +62,16 @@ Erfahren Sie, wie Sie Ihr Webinar entsprechend Ihren Anforderungen entwerfen.
 
    ![](assets/designing-interactive-webinars-8.png)
 
-1. Ausführliche Informationen zu Zimmern und Vorlagen finden Sie im Abschnitt &quot;Vorlagen und Layouts von Meetingräumen&quot;von [diesem Adobe-Hilfeartikel](https://helpx.adobe.com/in/adobe-connect/using/creating-arranging-meetings.html#creating_and_arranging_meetings){target="_blank"}.
+1. Detaillierte Informationen zu Räumen und Vorlagen finden Sie im Abschnitt „Vorlagen und Layouts für Meetingräume“ in [diesem Adobe-Hilfeartikel](https://helpx.adobe.com/in/adobe-connect/using/creating-arranging-meetings.html#creating_and_arranging_meetings){target="_blank"}.
 
-1. Wenn Sie mit der Erstellung Ihres Webinars fertig sind, klicken Sie auf **Ausstiegsraum**.
+1. Wenn Sie mit der Gestaltung Ihres Webinars fertig sind, klicken Sie auf **Raum verlassen**.
 
    ![](assets/designing-interactive-webinars-9.png)
 
 ## Design-Elemente {#design-elements}
 
-**Vorlage**: Struktur, die einem Raum basierend auf dem Ziel des Webinars zur Verfügung gestellt wird. Wenn Sie beispielsweise ein Webinar für Produktpräsentationen planen möchten, ist die Bildschirmfreigabe eine wichtige Komponente für die Präsentation der Demo. Die Vorlage stellt sicher, dass die für eine effektive Bereitstellung eines bestimmten Webinars erforderlichen wesentlichen Komponenten während der Konfiguration des Webinarraums vorhanden sind.
+**Vorlage**: Struktur eines Raums basierend auf dem Ziel des durchgeführten Webinars. Wenn Sie beispielsweise ein Produkt-Showcase-Webinar planen möchten, ist die Freigabe des Bildschirms eine wesentliche Komponente, um die Demo zu präsentieren. Die Vorlage stellt sicher, dass die wesentlichen Komponenten für einen effektiven Versand eines bestimmten Webinar-Typs bei der Konfiguration des Webinar-Raums vorhanden sind.
 
-**Layout**: Verschiedene Arten, wie die verschiedenen Komponenten, die zum Sicherstellen des Erfolgs des Webinars erforderlich sind, in einer bestimmten Vorlage angeordnet werden. Eine einzelne Vorlage kann mehrere Layouts enthalten, aus denen Sie wählen können. Die wesentlichen Komponenten des Webinars bleiben in allen Vorlagen gleich. Die von Ihnen ausgewählte Vereinbarung ist am besten auf den Stil/die Bedürfnisse Ihrer Person oder des Moderators abgestimmt, der das Webinar versendet.
+**Layout**: Bezieht sich auf verschiedene Arten, wie die verschiedenen Komponenten, die für den Erfolg des Webinars erforderlich sind, in einer bestimmten Vorlage angeordnet sind. Eine Vorlage kann mehrere Layouts zur Auswahl haben. Die wesentlichen Komponenten des Webinars bleiben in allen Vorlagen gleich. Das von Ihnen ausgewählte Arrangement ist am besten auf Ihren Stil/Ihre Bedürfnisse oder die des Referenten, der das Webinar hält, abgestimmt.
 
-**Pod**: Eine Komponente in einer Vorlage, die eine bestimmte Aktivität während des Webinars ausführt. So können Sie beispielsweise eine Umfrage einrichten und durchführen, um die Antworten der Teilnehmer in einer Aktivität zu erfassen, die durch einen Umfrage-Pod erfüllt werden kann. Ebenso kann es sich bei dem Chat mit den Teilnehmern um eine Nachricht handeln oder mit ihnen gelegentlich interagieren, um eine Aktivität handeln, die über den Chat-Pod bereitgestellt wird. Es stehen mehrere weitere Pods zur Verfügung, z. B. Freigabe, Hinweise, Video, Chat, Teilnehmerliste, Dateien, Web-Links, Umfragen und Fragen und Antworten.
+**Pod**: Eine Komponente in einer Vorlage, die während des Webinars eine bestimmte Aktivität ausführt. Sie können beispielsweise eine Umfrage einrichten und durchführen, um die Antworten der Teilnehmer in einer Aktivität zu erfassen, die von einem Umfrage-Pod ausgeführt werden kann. Ebenso kann es sich bei dem Chat mit den Teilnehmern zur Vermittlung einer Nachricht oder bei der beiläufigen Interaktion mit ihnen um eine Aktivität handeln, die über den Chat-Pod bereitgestellt wird. Es stehen mehrere weitere Pods zur Verfügung, z. B. Freigabe, Notizen, Video, Chat, Teilnehmerliste, Dateien, Weblinks, Umfragen und Fragen und Antworten.

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 45417322
-description: Löschen eines Leads oder Kontakts - Marketo Docs - Produktdokumentation
+description: Löschen von Leads oder Kontakten - Marketo-Dokumente - Produktdokumentation
 title: Lead oder Kontakt löschen
 exl-id: d561b424-6a2b-4abe-b9bd-81eb23f1a25b
 feature: Microsoft Dynamics
@@ -13,12 +13,12 @@ ht-degree: 0%
 
 # Lead oder Kontakt löschen {#deleting-a-lead-or-contact}
 
-Beim Löschen von Leads/Kontakten in Microsoft Dynamics sind einige Dinge zu beachten.
+Es gibt einige Dinge zu wissen, wenn es um das Löschen von Leads/Kontakten in Microsoft Dynamics geht.
 
-* Marketo Engage löscht Personen nicht automatisch, nur weil Leads in Dynamics gelöscht wurden. Stattdessen wird die Markierung &quot;Microsoft ist gelöscht&quot;auf &quot;true&quot;gesetzt. Sie können dieses Feld bei Bedarf ausblenden, um den Datensatz in Marketo zu löschen.
+* Marketo Engage löscht Personen nicht automatisch, nur weil Leads in Dynamics gelöscht wurden. Stattdessen wird ein Feld-Flag &quot;Microsoft wird gelöscht“ auf „true“ gesetzt. Sie können bei Bedarf einen Trigger aus diesem Feld machen, um den Datensatz in Marketo zu löschen.
 
-* Aktion &quot;Person löschen&quot;: Dadurch wird nur eine Person in Marketo gelöscht (es ist keine Option verfügbar, diese auch in Dynamics zu löschen).
+* Flussaktion „Person löschen“: Dadurch wird nur eine Person in Marketo gelöscht (eine Option, sie auch in Dynamics zu löschen, ist nicht verfügbar).
 
-* Wenn ein Lead in Marketo (aber nicht in Dynamics) gelöscht und anschließend in Dynamics aktualisiert wird, wird in Marketo eine neue Person erstellt (dieselbe E-Mail-Adresse, neue Personen-ID).
+* Wenn ein Lead in Marketo (aber nicht in Dynamics) gelöscht und danach in Dynamics aktualisiert wird, wird eine neue Person in Marketo erstellt (gleiche E-Mail-Adresse, neue Personen-ID).
 
-* Wenn ein Lead in Dynamics gelöscht wird (aber nicht in Marketo) und anschließend die Durchlaufaktion &quot;Person mit Microsoft synchronisieren&quot;ausgeführt wird, würde in Dynamics ein neuer Lead erstellt.
+* Wenn ein Lead in Dynamics gelöscht wird (aber nicht in Marketo) und anschließend die Flussaktion „Person mit Microsoft synchronisieren“ durchläuft, wird ein neuer Lead in Dynamics erstellt.

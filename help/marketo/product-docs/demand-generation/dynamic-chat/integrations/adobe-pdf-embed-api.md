@@ -1,5 +1,5 @@
 ---
-description: Adobe PDF Embed API - Marketo Docs - Produktdokumentation
+description: Adobe PDF-Einbettungs-API - Marketo-Dokumente - Produktdokumentation
 title: Adobe PDF Embed-API
 feature: Dynamic Chat
 exl-id: 27482f55-1bd1-423c-9154-f650532ff1e5
@@ -12,15 +12,15 @@ ht-degree: 5%
 
 # Adobe PDF Embed-API {#adobe-pdf-embed-api}
 
-Mit der Dokumentkarte können Sie PDF-Dokumente in Dialogfelder einbetten und die Aktivität von Besuchern zur Dokumenteninteraktion verfolgen. So richten Sie es ein.
+Mit der Dokumentkarte können Sie PDF-Dokumente in Dialoge einbetten und die Dokumenteninteraktionsaktivität von Besuchern verfolgen. So richten Sie es ein.
 
-1. Navigieren Sie zu [Adobe PDF Embed API](https://udp.adobe.io/document-services/apis/pdf-embed/){target="_blank"}.
+1. Navigieren Sie zur [Adobe PDF Embed API](https://udp.adobe.io/document-services/apis/pdf-embed/){target="_blank"}.
 
-1. Klicken Sie auf **[!UICONTROL Anmeldeinformationen abrufen]**.
+1. Klicken Sie **[!UICONTROL Anmeldedaten abrufen]**.
 
    ![](assets/adobe-pdf-embed-api-1.png)
 
-1. Melden Sie sich bei Ihrem Adobe-Konto an.
+1. Beim Adobe-Konto anmelden.
 
    ![](assets/adobe-pdf-embed-api-2.png)
 
@@ -30,13 +30,13 @@ Mit der Dokumentkarte können Sie PDF-Dokumente in Dialogfelder einbetten und di
 
    >[!IMPORTANT]
    >
-   >Sie müssen die Domäne verwenden, in der Sie den Chat-Bot hosten (z. B. wenn Sie den Chat auf mycompany.com hosten, stellen Sie sicher, dass Sie dies in Schritt 4 eingeben).
+   >Sie müssen die Domain verwenden, auf der Sie den Chatbot hosten (wenn Sie z. B. den Chatbot auf mycompany.com hosten, geben Sie dies in Schritt 4 ein).
 
-1. Klicken Sie auf **[!UICONTROL Kopieren]** , um Ihre Client-ID zu kopieren.
+1. Klicken Sie **[!UICONTROL Kopieren]**, um Ihre Client-ID zu kopieren.
 
    ![](assets/adobe-pdf-embed-api-4.png)
 
-1. Klicken Sie in der Dynamic Chat auf **[!UICONTROL Integrationen]**. Klicken Sie auf der Adobe PDF Embed API-Karte auf **[!UICONTROL Activate]**.
+1. Zurück in Dynamic Chat, klicken Sie auf **[!UICONTROL Integrationen]**. Klicken Sie auf der Karte &quot;Adobe PDF Embed API“ auf **[!UICONTROL Aktivieren]**.
 
    ![](assets/adobe-pdf-embed-api-5.png)
 
@@ -44,4 +44,4 @@ Mit der Dokumentkarte können Sie PDF-Dokumente in Dialogfelder einbetten und di
 
    ![](assets/adobe-pdf-embed-api-6.png)
 
-Sie können jetzt die Dokumentkarte im [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} Ihrer Dialoge verwenden!
+Jetzt können Sie die Dokumentkarte in Ihren Dialogfeldern verwenden [Designer streamen](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}!

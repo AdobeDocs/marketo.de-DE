@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2949891
-description: Statische Listen - Marketo-Dokumente - Produktdokumentation
-title: Grundlegendes zu statischen Listen
+description: Grundlegendes zu statischen Listen - Marketo-Dokumente - Produktdokumentation
+title: Verstehen von statischen Listen
 exl-id: c37c1496-cf19-4e44-aaec-77b10669b9bf
 feature: Static Lists
 source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
@@ -11,15 +11,15 @@ ht-degree: 2%
 
 ---
 
-# Grundlegendes zu statischen Listen {#understanding-static-lists}
+# Verstehen von statischen Listen {#understanding-static-lists}
 
-Statische Listen sind eine der einfachsten und nützlichsten Funktionen von Marketo. Es handelt sich lediglich um eine Liste von Namen aus Ihrer Datenbank. Es gibt viele Gründe, sie zu benutzen.
+Statische Listen sind eine der einfachsten und nützlichsten Funktionen von Marketo. Es handelt sich lediglich um eine Liste mit Namen aus Ihrer Datenbank. Sie werden viele Gründe finden, sie zu verwenden.
 
 >[!NOTE]
 >
->Eine einzelne Person in der Datenbank kann in vielen verschiedenen statischen Listen enthalten sein.
+>Eine einzelne Person in der Datenbank kann sich in vielen verschiedenen statischen Listen befinden.
 
-Der Unterschied zwischen einer statischen und einer intelligenten Liste ist für das Verständnis von entscheidender Bedeutung.
+Der Unterschied zwischen einer statischen und einer Smart List ist wichtig.
 
 | Typ | Logik |
 |---|---|
@@ -28,21 +28,21 @@ Der Unterschied zwischen einer statischen und einer intelligenten Liste ist für
 
 >[!CAUTION]
 >
->Einer der häufigsten Fehler besteht darin, zu denken, dass man eine Person aus einer Liste entfernen kann, indem man einfach &quot;die Person löscht&quot;. **Dies ist falsch**. Wenn Sie die Person löschen, werden sie nicht nur aus der Liste, sondern aus **der gesamten Datenbank** gelöscht.
+>Einer der häufigsten Fehler ist der Gedanke, dass man eine Person aus einer Liste entfernen kann, indem man einfach „die Person löscht“. **Das ist falsch**. Wenn Sie die Person löschen, wird sie aus **der gesamten Datenbank** und nicht nur aus der Liste gelöscht.
 
-## Methoden zum Hinzufügen/Entfernen von Personen aus einer Liste {#ways-to-add-remove-people-from-a-list}
+## Möglichkeiten zum Hinzufügen/Entfernen von Personen aus einer Liste {#ways-to-add-remove-people-from-a-list}
 
-1. Fluss für intelligente Kampagnen ([Zu Liste hinzufügen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md){target="_blank"}, [Aus Liste entfernen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md){target="_blank"})
+1. Schritt des Flusses in Smart Campaign ([Zu Liste hinzufügen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md){target="_blank"}, [Aus Liste entfernen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md){target="_blank"})
 
-1. [Schritt für einen Aktionsfluss ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list.md){target="_blank"}
+1. [Schritt „Einzelner Aktionsfluss“](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list.md){target="_blank"}
 1. Personen in eine Liste im Baum ziehen
-1. [Listenimport](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
+1. [Listen-Import](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
 
 ## Einige Verwendungen einer statischen Liste {#some-uses-of-a-static-list}
 
-* Eine Liste, die für den Empfang einer Marketing-Nachricht vorausgewählt wurde.
-* Eine Liste mit &quot;Konkurrenten&quot;, mit der Sie Unheilmittel-Nachrichten versenden.
-* Eine temporäre Liste von Personen in einem bestimmten Status, die dann von Smart-Kampagnen entfernt werden, wenn sie diesen Status verlassen.
+* Eine Liste, die vorausgewählt wurde, um eine Marketing-Nachricht zu erhalten.
+* Eine Liste der „Konkurrenten“, die Sie zum Senden bösartiger Nachrichten zur Gegenspionage verwenden.
+* Eine temporäre Liste von Personen in einem bestimmten Status, die von Smart-Kampagnen entfernt werden, wenn sie diesen Status verlassen.
 
 Genießen Sie die Kraft der LIST!
 

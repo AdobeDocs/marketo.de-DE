@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # Formular erstellen {#create-a-form}
 
-Erstellen und verwenden Sie ein Formular auf einer Landingpage, um neue Namen zu generieren. Es ist wirklich einfach - hier ist, wie man anfangen kann.
+Erstellen und Verwenden eines Formulars auf einer Landingpage zum Generieren neuer Namen. Es ist wirklich einfach - hier ist der Einstieg.
 
 >[!NOTE]
 >
->Erfahren Sie, was Marketo mit [sicherstellt, dass Ihre Formulare sicher sind](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038).
+>Erfahren Sie, was Marketo tut, um [Ihre Formulare sicher zu ](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038).
 
-1. Wechseln Sie zu **Marketingaktivitäten**.
+1. Navigieren Sie **Marketing-Aktivitäten**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Suchen und wählen Sie Ihr **Programm** aus.
+1. Suchen und wählen Sie Ihr **Programm**.
 
    ![](assets/programseelct.png)
 
-1. Klicken Sie unter **Neu** auf **Neu** **Lokal** **Asset**.
+1. Klicken Sie unter **Neu** auf **Neu** **Lokal****Asset**.
 
    ![](assets/newlocalasset.png)
 
@@ -41,11 +41,11 @@ Erstellen und verwenden Sie ein Formular auf einer Landingpage, um neue Namen zu
 
 >[!TIP]
 >
->Die meisten Kunden erstellen für jede Landingpage ein neues Formular, Sie können aber auch ein Formular erstellen, das mit mehreren Landingpages verwendet werden kann. Es liegt ganz an dir!
+>Die meisten Kunden erstellen für jede Landingpage ein neues Formular. Sie können aber auch ein Formular erstellen, das mit mehreren Landingpages verwendet werden kann. Das hängt ganz von Ihnen ab!
 
-Süß! Nachdem das Formular erstellt wurde, ziehen wir es an.
+Süß! Nachdem das Formular erstellt wurde, feilen wir an ihm an.
 
 >[!MORELIKETHIS]
 >
->* [Wählen Sie ein Formulardesign aus](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md)
->* [Hinzufügen eines Feldsatzes zu einem Formular](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md)
+>* [Formulardesign auswählen](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md)
+>* [Hinzufügen eines FieldSet zu einem Formular](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md)

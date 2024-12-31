@@ -1,7 +1,7 @@
 ---
 unique-page-id: 557318
-description: Liste oder Smart-Liste aktualisieren - Marketo-Dokumente - Produktdokumentation
-title: Liste oder Smart-Liste aktualisieren
+description: Aktualisieren einer Liste oder Smart-Liste - Marketo-Dokumente - Produktdokumentation
+title: Aktualisieren einer Liste oder Smart-Liste
 exl-id: f66adc0f-910f-46d4-a33c-976b061bdce2
 feature: Smart Lists
 source-git-commit: e0106eddf3ed6ecd2d9d90147a56258f61958665
@@ -11,9 +11,9 @@ ht-degree: 0%
 
 ---
 
-# Liste oder Smart-Liste aktualisieren {#refresh-a-list-or-smart-list}
+# Aktualisieren einer Liste oder Smart-Liste {#refresh-a-list-or-smart-list}
 
-Wenn Sie eine Smart-Liste ausgeführt haben und einige Minuten vergangen sind, können die Ergebnisse jetzt anders sein - aktualisieren Sie, um es herauszufinden.
+Wenn Sie eine Smart-Liste ausgeführt haben und einige Minuten vergangen sind, können die Ergebnisse jetzt anders sein - Aktualisieren Sie , um das herauszufinden.
 
 ## Ergebnisse aktualisieren {#refresh-results}
 
@@ -21,14 +21,14 @@ Wenn Sie eine Smart-Liste ausgeführt haben und einige Minuten vergangen sind, k
 
    ![](assets/refresh-a-list-or-smart-list-1.png)
 
-1. Die intelligente Liste wird erneut ausgeführt und zeigt Ihnen einen aktuelleren Ergebnissatz an.
+1. Die Smart-Liste wird erneut ausgeführt und zeigt Ihnen eine aktuellere Ergebnismenge.
 
    ![](assets/refresh-a-list-or-smart-list-2.png)
 
 >[!TIP]
 >
->Wenn Sie eine Smart-Liste ausführen und später darauf zurückkommen, sehen Sie möglicherweise das Wort &quot;Info&quot;vor der Personenanzahl in der rechten unteren Ecke. Dies zeigt an, dass die Zahl ungefähre Werte aufweist. Klicken Sie auf die Zahl selbst, um sie zu aktualisieren und eine aktualisierte, genaue Anzahl zu erhalten.
+>Wenn Sie eine Smart-Liste ausführen und zu einem späteren Zeitpunkt darauf zurückkommen, wird in der unteren rechten Ecke manchmal das Wort „About“ vor der Anzahl der Personen angezeigt. Dies zeigt an, dass die Zahl ungefähr ist. Klicken Sie auf die Zählung selbst, um sie zu aktualisieren und eine aktualisierte, genaue Zählung zu erhalten.
 
 >[!MORELIKETHIS]
 >
->[Personen aus einer Liste oder Smart-Liste nach Excel exportieren](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/export-people-to-excel-from-a-list-or-smart-list.md){target="_blank"}
+>[Personen aus einer Liste oder Smart List nach Excel exportieren](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/export-people-to-excel-from-a-list-or-smart-list.md){target="_blank"}

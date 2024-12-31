@@ -12,22 +12,22 @@ ht-degree: 0%
 
 # Testen eines interaktiven Webinars {#testing-an-interactive-webinar}
 
-Interaktive Webinare beinhalten die Verwendung von Adobe Connect als Webinar-Anbieter-Tool. Es empfiehlt sich, vor dem Hosten Ihres ersten Live-Webinars ein Testwebinar zu erstellen.
+Interaktive Webinare beinhalten die Verwendung von Adobe Connect als Webinar-Provider-Tool. Es empfiehlt sich, ein Test-Webinar zu erstellen, bevor Sie Ihr erstes Live-Webinar hosten.
 
 ## Workflow {#workflow}
 
-Jedes interaktive Webinar kann als Test-Webinar verwendet werden. Der Test kann durch Hinzufügen von maximal 10 Hosts und Moderatoren (Teilnehmer) durchgeführt werden.
+Jedes interaktive Webinar kann als Test-Webinar verwendet werden. Der Test kann durchgeführt werden, indem nicht mehr als 10 Hosts und Moderatoren (Teilnehmer) hinzugefügt werden.
 
-Der Arbeitsablauf zum Erstellen eines Test-Webinars bleibt im Hinblick auf das interaktive Webinar-Veranstaltungsprogramm mit dem Erstellen eines anderen Webinars](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md) identisch. [ Es wird empfohlen, das für den Versand ausgewählte Datum weit in der Zukunft festzulegen.
+Der Workflow zum Erstellen eines Test-Webinars ist im Hinblick auf das Veranstaltungsprogramm für [ Webinare identisch mit ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md) Erstellen eines anderen Webinars. Es wird empfohlen, das für die Lieferung gewählte Datum weit in der Zukunft festzulegen.
 
 >[!CAUTION]
 >
->Wenn Sie das Datum und die Uhrzeit für Ihr Test-Webinar in der Zukunft zu nahe legen und dieses Datum/diese Uhrzeit verstrichen ist, berücksichtigen interaktive Webinare das bereitgestellte Webinar und würden eine Gutschrift von Ihrer Lizenz abziehen.
+>Wenn Sie das Datum und die Uhrzeit für Ihr Test-Webinar zu früh festlegen und dieses Datum/diese Uhrzeit verstreichen, berücksichtigt interaktive Webinare das Webinar und zieht eine Gutschrift von Ihrer Lizenz ab.
 
-Ein Guthaben wird für das Test-Webinar blockiert, kann jedoch entweder durch eine Umschulung des Programms zur Verwendung mit einem tatsächlichen Webinar oder durch einfaches Löschen des Test-Webinar-Programms verwendet werden.
+Eine Gutschrift wird für das Test-Webinar gesperrt. Sie kann jedoch genutzt werden, indem entweder das Programm für die Verwendung mit einem tatsächlichen Webinar neu geplant oder das Test-Webinar-Programm einfach gelöscht wird.
 
-Nach der Erstellung und Konzeption des Webinars können sich der Gastgeber, der Mitwirt und/oder die Moderatoren an der Durchführung beteiligen. Externe eingeladene Personen können auch als Co-Hosts hinzugefügt werden, um an den Tests teilnehmen zu können. Die Tests können auf die gleiche Weise wie das Webinar durchgeführt werden, sodass die Bewerter einen Eindruck davon erhalten, wie das Webinar vor eine tatsächliche Zielgruppe gestellt wird. Alle Funktionen des Live-Webinars wären auch im Test-Webinar verfügbar. Dies kann bis zu 15 Minuten vor Beginn des Webinars erfolgen.
+Nach der Erstellung und Konzeption des Webinars können Moderator, Co-Moderator und/oder Moderator den Versand gemeinsam proben. Externe Einladungen können auch als Co-Hosts hinzugefügt werden, um an den Tests teilnehmen zu können. Die Tests können auf dieselbe Weise durchgeführt werden wie das Webinar, sodass die Gutachter einen Eindruck davon erhalten, wie das Webinar vor einer tatsächlichen Zielgruppe abläuft. Alle Funktionen des Live-Webinars stehen auch im Test-Webinar zur Verfügung. Dies kann bis zu 15 Minuten vor Beginn des Webinars durchgeführt werden.
 
-## Beim Testen nicht verfügbare Funktionen {#features-not-available-when-testing}
+## Funktionen beim Testen nicht verfügbar {#features-not-available-when-testing}
 
-Da es sich um ein Test-Webinar handelt, stehen Ihnen einige Dinge nicht zur Verfügung, die normalerweise nach einem Live-Webinar stattfinden. Dazu gehören die Aufzeichnung des Webinars, der Abruf der Interaktionseinblicke für das Webinar in Form des Interaktions-Dashboards oder das aggregierte Dashboard auf der Registerkarte Dashboard . Das On-Demand-Webinartracking für interaktive Webinare, das für aufgezeichnete Webinare verfügbar ist, ist ebenfalls nicht verfügbar. Da während des Test-Webinars keine Interaktionsdaten verfolgt werden, werden keine Daten von Adobe Connect an Marketo Engage zurückgesendet, sodass keine Pflege nach dem Webinar durchgeführt werden kann.
+Da es sich um ein Test-Webinar handelt, stehen Ihnen nur wenige Dinge zur Verfügung, die normalerweise nach einem Live-Webinar wären. Dazu gehören: das Webinar aufzeichnen, die Interaktionseinblicke für das Webinar in Form eines Interaktions-Dashboards oder das aggregierte Dashboard auf der Registerkarte Dashboard . Das Tracking der On-Demand-Webinare für interaktive Webinare, das für aufgezeichnete Webinare verfügbar ist, steht ebenfalls nicht zur Verfügung. Da während des Test-Webinars keine Interaktionsdaten verfolgt werden, werden keine Daten von Adobe Connect an Marketo Engage zurückgegeben, sodass nach dem Webinar keine Pflege durchgeführt werden kann.

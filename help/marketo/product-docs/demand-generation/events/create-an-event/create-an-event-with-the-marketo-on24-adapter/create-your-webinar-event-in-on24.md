@@ -1,7 +1,7 @@
 ---
 unique-page-id: 10096712
-description: Webinar-Veranstaltung in ON24 erstellen - Marketo-Dokumente - Produktdokumentation
-title: Webinar-Veranstaltung in ON24 erstellen
+description: Erstellen Sie Ihre Webinar-Veranstaltung in ON24 - Marketo Docs - Produktdokumentation
+title: Erstellen Sie Ihre Webinar-Veranstaltung in ON24
 exl-id: a5211f11-c099-44a0-95eb-b43f10fa5c91
 feature: Events
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,24 +11,24 @@ ht-degree: 0%
 
 ---
 
-# Webinar-Veranstaltung in ON24 erstellen {#create-your-webinar-event-in-on}
+# Erstellen Sie Ihre Webinar-Veranstaltung in ON24 {#create-your-webinar-event-in-on}
 
-Nachdem Sie Ihr Webinar in ON24 erstellt haben, können Sie ein Marketo-Ereignis erstellen und es mit dem ON24-Webinar verknüpfen. Dadurch können die Systeme Registrierungs- und Anwesenheitsinformationen gemeinsam nutzen. Notieren Sie sich die URL und andere Informationen zur Verwendung in Ihrer Bestätigungs-E-Mail und der ICS-Datei.
+Nachdem Sie Ihr Webinar in ON24 erstellt haben, können Sie ein Marketo-Ereignis erstellen und es mit dem ON24-Webinar verknüpfen. Dadurch können die Systeme Registrierungs- und Anwesenheitsinformationen austauschen. Notieren Sie sich die URL und andere Informationen zur Verwendung in Ihrer Bestätigungs-E-Mail und ICS-Datei.
 
-Es gibt bestimmte Einstellungen bei der Erstellung Ihres ON24-Webinars, die von Marketo und anderen verwendet werden, die nur von ON24 verwendet werden. Marketo verwendet die folgenden Einstellungen:
+Bei der Erstellung Ihres ON24-Webinars gibt es bestimmte Einstellungen, die von Marketo verwendet werden, und andere, die nur von ON24 verwendet werden. Marketo verwendet die folgenden Einstellungen:
 
 **Titel und Beschreibung**
 
-* Ereignistitel - Der Name des Webinars. Dies ist in Marketo sichtbar.
-* Abstrakte Veranstaltung (optional) - Beschreibung des Webinars. Dies ist in Marketo sichtbar.
+* Veranstaltungstitel - Der Name für das Webinar. Dieser wird in Marketo angezeigt.
+* Ereignis-Zusammenfassung (optional) - Die Beschreibung für das Webinar. Dieser wird in Marketo angezeigt.
 
 **Datum und Uhrzeit**
 
-* Start des Live-Ereignisses - Startdatum und -zeit. Dies ist in Marketo sichtbar.
-* Live-Endzeit - Enddatum und -zeit. Dies ist in Marketo sichtbar.
+* Start des Live-Ereignisses - Startdatum und -zeit. Dieser wird in Marketo angezeigt.
+* Live End Time - Enddatum und -zeit. Dieser wird in Marketo angezeigt.
 
-Der nächste Schritt besteht darin, [ein Ereignis in Marketo](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md){target="_blank"} zu erstellen.
+Ihr nächster Schritt besteht darin, [ein Ereignis in Marketo zu erstellen](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->[Grundlegendes zu Marketo ON24-Adapterereignissen](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}
+>[Informationen zu Marketo ON24-Adapterereignissen](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}

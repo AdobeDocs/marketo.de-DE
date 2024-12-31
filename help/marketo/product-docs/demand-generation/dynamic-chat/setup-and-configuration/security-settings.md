@@ -12,22 +12,22 @@ ht-degree: 3%
 
 # Sicherheitseinstellungen {#security-settings}
 
-In den Sicherheitseinstellungen können Sie einer blockierten oder blockierten Zulassungsliste Domänen hinzufügen.
+In den Sicherheitseinstellungen können Sie einer blockierten oder -Zulassungsliste Domains hinzufügen.
 
 ![](assets/security-settings-1.png)
 
-## Blockierte E-Mail-Domänen {#blocked-email-domains}
+## Blockierte E-Mail-Domains {#blocked-email-domains}
 
-Wenn es Besucher mit E-Mail-Domänen gibt, mit denen Ihre Agenten nicht interagieren sollen (z. B. Konkurrenten), fügen Sie ihre E-Mail-Domäne zur Blockierungsliste hinzu.
+Wenn es Besucher mit E-Mail-Domains gibt, mit denen Ihre Agenten nicht interagieren sollen (z. B. ein Wettbewerber), fügen Sie der Blockierungsliste ihre E-Mail-Domain hinzu.
 
-1. Wählen Sie den Regler **Validierung aktivieren** aus, um Ihre Blockierungsliste zu aktivieren. Geben Sie bis zu 50 Domänen ein und klicken Sie auf **Speichern**.
+1. Wählen Sie den **Validierung aktivieren**, um Ihre Blockierungsliste zu aktivieren. Geben Sie bis zu 50 Domains ein und klicken Sie auf **Speichern**.
 
    ![](assets/security-settings-2.png)
 
-## Zulässige Domänen {#allowed-domains}
+## Zulässige Domains {#allowed-domains}
 
-Durch das Hinzufügen zulässiger Domänen wird sichergestellt, dass Drittanbieter das JavaScript nicht von Ihrer Site löschen und zu ihrer eigenen hinzufügen können.
+Durch das Hinzufügen von zulässigen Domains wird sichergestellt, dass Dritte das JavaScript nicht von Ihrer Site abschöpfen und zu ihren eigenen hinzufügen können.
 
-1. Wählen Sie den Regler **Validierung aktivieren** aus, um Ihre Zulassungsliste zu aktivieren. Geben Sie die zulässigen Domänen ein und klicken Sie auf **Speichern**.
+1. Wählen Sie den **Validierung aktivieren**, um Ihre Zulassungsliste zu aktivieren. Geben Sie die zulässigen Domains ein und klicken Sie auf **Speichern**.
 
    ![](assets/security-settings-3.png)

@@ -1,7 +1,7 @@
 ---
 unique-page-id: 10092977
-description: Microsoft Dynamics Sync Filter - Qualify - Marketo Docs - Produktdokumentation
-title: Synchronisierungsfilter für Microsoft Dynamics - Qualify
+description: Microsoft Dynamics-Synchronisierungsfilter - Qualifizieren - Marketo-Dokumente - Produktdokumentation
+title: Microsoft Dynamics-Synchronisierungsfilter - Qualifizieren
 exl-id: 9b26795c-fc94-478e-a7f0-ac8e602792b1
 feature: Microsoft Dynamics
 source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
@@ -11,21 +11,21 @@ ht-degree: 6%
 
 ---
 
-# Synchronisierungsfilter für Microsoft Dynamics: Qualifizieren {#microsoft-dynamics-sync-filter-qualify}
+# Microsoft Dynamics-Synchronisierungsfilter: Qualifizieren {#microsoft-dynamics-sync-filter-qualify}
 
-Wenn Sie einen Lead in Microsoft Dynamics in einen Kontakt konvertieren möchten, stellen Sie sicher, dass Sie diesen standardmäßigen Qualifizierungsprozess verwenden. Synchronisieren Sie sie dann mit Marketo Engage.
+Wenn Sie einen Lead in einen Kontakt in Microsoft Dynamics konvertieren möchten, verwenden Sie unbedingt diesen standardmäßigen Qualifizierungsprozess. Synchronisieren Sie sie dann mit Marketo Engage.
 
 ## Der Konvertierungsprozess {#the-conversion-process}
 
 So funktionieren die Filter während des Konvertierungsprozesses.
 
-| Wenn der Lead-Synchronisierungsfilter: | und der Filter für die Kontaktsynchronisierung lautet: | Dies führt zu Marketo |
+| Wenn der Lead-Synchronisierungsfilter ist: | Der Filter für die Kontaktsynchronisierung lautet: | Dies ist das Ergebnis in Marketo |
 |---|---|---|
-| Falsch | Falsch | In Marketo wird nichts synchronisiert. |
-| Richtig | Richtig | Der Kontakt wird in Marketo synchronisiert. |
-| Falsch | Richtig | Neuer Kontaktdatensatz wird in Marketo erstellt |
-| Richtig | Falsch | MS Dynamics aktualisiert Lead-Informationen in Marketo, aber Kontaktdatensätze werden nicht synchronisiert |
+| Falsch | Falsch | In Marketo wird nichts synchronisiert |
+| True | True | Der Kontakt wird in Marketo synchronisiert |
+| Falsch | True | Neuer Kontakteintrag wird in Marketo erstellt |
+| True | Falsch | MS Dynamics aktualisiert die Lead-Informationen in Marketo, der Kontaktdatensatz wird jedoch nicht synchronisiert |
 
 >[!CAUTION]
 >
->Wir unterstützen nur den vordefinierten Konvertierungsprozess Qualifizieren .
+>Wir unterstützen nur den vorkonfigurierten Konvertierungsprozess von Qualifikationen.

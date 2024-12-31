@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Manuelles Erstellen einer Person {#create-a-person-manually}
 
-Es gibt viele Möglichkeiten, eine Person ins Marketo Engage zu bringen. Wenn Sie eine manuell erstellen müssen, so können Sie dies folgendermaßen tun:
+Es gibt viele Möglichkeiten, eine Person zum Marketo Engage zu bringen. Wenn Sie eine manuell erstellen müssen, sehen Sie hier, wie das geht.
 
 >[!CAUTION]
 >
 >Marketo unterstützt keine E-Mail-Adressen, die Emojis enthalten.
 
-1. Wechseln Sie zur **[!UICONTROL Datenbank]**.
+1. Navigieren Sie zur **[!UICONTROL Datenbank]**.
 
    ![](assets/create-a-person-manually-1.png)
 
-1. Klicken Sie unter **[!UICONTROL Neu]** auf **[!UICONTROL Neue Person]**.
+1. Klicken **[!UICONTROL unter &quot;]**&quot; auf **[!UICONTROL Neue Person]**.
 
    ![](assets/create-a-person-manually-2.png)
 

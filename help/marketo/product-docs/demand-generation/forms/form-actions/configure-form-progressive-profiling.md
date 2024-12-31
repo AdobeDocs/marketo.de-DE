@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2359646
-description: Konfigurieren des progressiven Profilings von Formularen - Marketo Docs - Produktdokumentation
-title: Konfigurieren des progressiven Profils
+description: Konfigurieren der progressiven Formularprofilerstellung - Marketo-Dokumente - Produktdokumentation
+title: Konfigurieren der progressiven Formularprofilerstellung
 exl-id: 72afe3dc-0688-45ec-ab70-4dc9accf4fc8
 feature: Forms
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,89 +11,89 @@ ht-degree: 0%
 
 ---
 
-# Konfigurieren des progressiven Profils {#configure-form-progressive-profiling}
+# Konfigurieren der progressiven Formularprofilerstellung {#configure-form-progressive-profiling}
 
-Kurze Formulare sind gut! Wenn jemand zu einem Formular zurückkehrt, können Sie neue Felder präsentieren und das Profil des Besuchers nach und nach ausfüllen. So geht es.
+Kurze Formulare sind gut! Wenn jemand zu einem Formular zurückkehrt, können Sie neue Felder präsentieren und schrittweise das Profil des Besuchers ausfüllen. So geht&#39;s.
 
 >[!NOTE]
 >
->Damit diese Funktion ordnungsgemäß funktioniert, stellen Sie sicher, dass das Vorfeld &quot;Formular&quot;für sichtbare Felder aktiviert ist und [deaktiviert](/help/marketo/product-docs/demand-generation/forms/form-fields/disable-pre-fill-for-a-form-field.md) für ausgeblendete Felder.
+>Damit diese Funktion ordnungsgemäß funktioniert, müssen Sie sicherstellen, dass das Vorausfüllen des Formulars für sichtbare Felder und [deaktiviert](/help/marketo/product-docs/demand-generation/forms/form-fields/disable-pre-fill-for-a-form-field.md) für ausgeblendete Felder aktiviert ist.
 
-1. Wechseln Sie zu **Marketingaktivitäten**.
+1. Navigieren Sie **Marketing-Aktivitäten**.
 
    ![](assets/ma-1.png)
 
-1. Wählen Sie das Formular aus und klicken Sie auf **Formular bearbeiten**.
+1. Wählen Sie Ihr Formular aus und klicken Sie auf **Formular bearbeiten**.
 
    ![](assets/image2014-9-15-12-3a31-3a20.png)
 
-1. Klicken Sie unter &quot;**Formulareinstellungen**&quot;auf &quot;**Einstellungen**&quot;.
+1. Klicken **unter &quot;**&quot; auf **Einstellungen**.
 
    ![](assets/image2014-9-15-12-3a31-3a29.png)
 
-1. Setzen Sie **progressives Profiling** auf **aktiviert**.
+1. Legen Sie **Progressive Profiling** auf **Aktiviert** fest.
 
    ![](assets/image2014-9-15-12-3a31-3a47.png)
 
-1. Okay, nun konfigurieren wir es. Wechseln Sie zu **Felddetails**.
+1. Okay, konfigurieren wir es jetzt. Wechseln Sie zu **Felddetails**.
 
    ![](assets/image2014-9-15-12-3a31-3a55.png)
 
-1. Ziehen Sie alle Felder in den Arbeitsbereich, die Teil des progressiven Profilsatzes sind.
+1. Ziehen Sie alle Felder, die Teil des progressiven Profilsatzes sind, per Drag-and-Drop.
 
    ![](assets/image2014-9-15-12-3a32-3a3.png)
 
-1. Wenn Sie alle Felder verschoben haben, sollte dies etwa so aussehen:
+1. Wenn Sie alle Felder verschieben, sollte es in etwa so aussehen:
 
    ![](assets/image2014-9-15-12-3a32-3a12.png)
 
    >[!NOTE]
    >
-   >Die Felder außerhalb des Felds **Progressives Profiling** werden immer im Formular angezeigt, auch wenn sie ausgefüllt sind.
+   >Die Felder außerhalb des Felds **Progressive Profiling** werden immer im Formular angezeigt, auch wenn sie ausgefüllt sind.
 
-1. Wählen Sie das Feld **Progressives Profiling** aus.
+1. Aktivieren Sie das **Progressive Profiling**.
 
    ![](assets/image2014-9-15-12-3a32-3a19.png)
 
    >[!CAUTION]
    >
-   >Seien Sie bei der Verwendung der erforderlichen Felder in der Progressiven Profilerstellung vorsichtig. Diese Felder können weiterhin leer gelassen werden, wenn der Besucher eine neue E-Mail-Adresse eingibt (wodurch eine neue Person erstellt würde), nachdem er zuvor Daten für die anderen Felder gesendet hat, da sie auf dem neuesten Formular unterdrückt würden.
+   >Seien Sie vorsichtig, wenn Sie erforderliche Felder in der progressiven Profilerstellung verwenden. Diese Felder können weiterhin leer gelassen werden, wenn der Besucher eine neue E-Mail-Adresse eingibt (wodurch eine neue Person erstellt wird), nachdem er zuvor Daten für die anderen Felder übermittelt hat, da diese auf dem neuesten Formular unterdrückt würden.
 
-1. Wählen Sie nun aus dem Feld **Progressives Profiling** aus, wie viele leere Felder angezeigt werden sollen.
+1. Wählen Sie jetzt aus dem Feld „Progressive Profiling **aus, wie viele leere Felder** Personen gleichzeitig angezeigt werden sollen.
 
    ![](assets/image2014-9-15-12-3a32-3a26.png)
 
    >[!NOTE]
    >
-   >Wenn Sie **Zahl** **von** **Leer** **Felder** als 1 auswählen, wird dem Besucher beim ersten Mal dieses Formular angezeigt:
+   >Wenn Sie **Number****Of** **Blank** **Fields** als 1 auswählen, sehen die Besucher beim ersten Anzeigen dieses Formulars Folgendes:
    >
    >* Vorname (leer)
    >* Nachname (leer)
    >* E-Mail-Adresse (leer)
    >* Telefonnummer (leer)
    >
-   >Wenn sie jedes Feld ausfüllen, sehen sie beim zweiten Besuch Folgendes:
+   >Wenn sie jedes Feld ausfüllen, werden sie beim zweiten Besuch Folgendes sehen:
    >
-   >* Vorname (vorausgefüllt)
-   >* Nachname (vorausgefüllt)
-   >* E-Mail-Adresse (vorausgefüllt)
+   >* Vorname (vorbefüllt)
+   >* Nachname (vorbefüllt)
+   >* E-Mail-Adresse (vorbefüllt)
    >* Mobiltelefonnummer (leer)
    >
-   >Wenn sie die Mobiltelefonnummer ausfüllen, sehen sie beim dritten Besuch Folgendes:
+   >Wenn sie die Mobiltelefonnummer angeben, sehen sie beim dritten Besuch Folgendes:
    >
-   >* Vorname (vorausgefüllt)
-   >* Nachname (vorausgefüllt)
-   >* E-Mail-Adresse (vorausgefüllt)
+   >* Vorname (vorbefüllt)
+   >* Nachname (vorbefüllt)
+   >* E-Mail-Adresse (vorbefüllt)
    >* Land (leer)
 
-1. Klicken Sie auf **Beenden**.
+1. Klicken Sie auf **Fertigstellen**.
 
    ![](assets/image2014-9-15-12-3a33-3a35.png)
 
-1. Klicken Sie auf **Genehmigen und schließen**.
+1. Klicken Sie **Genehmigen und schließen**.
 
    ![](assets/image2014-9-15-12-3a33-3a45.png)
 
-Gut gemacht! Die Arbeit, die du gerade gemacht hast, wird sich lohnen.
+Gute Arbeit! Die Arbeit, die Sie gerade getan haben, wird sich auszahlen.
 
-Experimentieren Sie mit dieser Funktion und testen Sie unbedingt. Es ist erweitert, aber Sie können Ihre Formulare auf diese Weise sehr dynamisch machen.
+Experimentieren Sie mit dieser Funktion und stellen Sie sicher, dass Sie sie testen. Es ist sehr fortgeschritten, aber Sie können auf diese Weise Ihre Formulare sehr dynamisch machen.

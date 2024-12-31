@@ -1,6 +1,6 @@
 ---
 unique-page-id: 557331
-description: Alle Personen in einer Umsatzphase suchen - Marketo Docs - Produktdokumentation
+description: Alle Personen in einer Umsatzphase suchen - Marketo-Dokumente - Produktdokumentation
 title: Alle Personen in einer Umsatzphase suchen
 exl-id: aa5b30bf-96f1-4c1f-8170-86ba808e9705
 feature: Smart Lists
@@ -19,24 +19,24 @@ ht-degree: 0%
 
 ## Alle Mitglieder einer bestimmten Umsatzstufe suchen {#find-all-members-of-a-specific-revenue-stage}
 
-1. Klicken Sie in einer Smart-Liste auf die Registerkarte **[!UICONTROL Smart-Liste]**, suchen Sie den Filter **[!UICONTROL Umsatzstufe]** und ziehen Sie ihn auf die Arbeitsfläche.
+1. Klicken Sie in einer Smart List auf die Registerkarte **[!UICONTROL Smart List]**, suchen Sie den Filter **[!UICONTROL Umsatzstufe]** und ziehen Sie ihn auf die Arbeitsfläche.
 
    ![](assets/draginrevenuefilter.png)
 
-1. Wählen Sie eine **[!UICONTROL Umsatzstufe]** aus.
+1. Wählen Sie eine **[!UICONTROL Umsatzstufe]**.
 
    ![](assets/two.jpg)
 
-1. Rufen Sie die Registerkarte **[!UICONTROL Personen]** auf, um die Ergebnisse anzuzeigen.
+1. Gehen Sie zur Registerkarte **[!UICONTROL Personen]**, um die Ergebnisse anzuzeigen.
 
    ![](assets/peopleresults.jpg)
 
-## Führen Sie einen Flussschritt für die Mitglieder einer Umsatzstufe aus. {#run-a-flow-step-on-the-members-of-a-revenue-stage}
+## Ausführen eines Flussschritts für die Mitglieder einer Umsatzstufe {#run-a-flow-step-on-the-members-of-a-revenue-stage}
 
-Jetzt, da Sie wissen, welche Personen in welchen Umsatzstufen sind, können Sie sie direkt vermarkten. Neben der Auswahl von **[!UICONTROL Umsatzstufe]** als Filter für intelligente Listen können Sie diese auch als &quot;Wenn&quot;-Filter im Fluss auswählen.
+Da Sie nun wissen, welche Personen in welchen Umsatzstadien tätig sind, können Sie direkt an sie vermarkten. Neben der Auswahl **[!UICONTROL Umsatzstufe]** als Smart-List-Filter können Sie ihn auch als Wenn-Filter im Fluss auswählen.
 
-1. Klicken Sie im gewünschten Flussschritt auf **[!UICONTROL Auswahl hinzufügen]** und wählen Sie **[!UICONTROL Umsatzstufe]** aus der Dropdownliste aus.
+1. Klicken Sie im gewünschten Flussschritt auf **[!UICONTROL Auswahl hinzufügen]** und wählen Sie **[!UICONTROL Umsatzstufe]** aus der Dropdown-Liste aus.
 
    ![](assets/six.png)
 
-   Dort können Sie auswählen, welche Mitglieder von welchem Aspekt des Flussschritts betroffen sind.
+   Dort können Sie auswählen, welche Elemente von welchem Aspekt des Flussschritts betroffen sind.

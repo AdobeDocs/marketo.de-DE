@@ -12,16 +12,16 @@ ht-degree: 7%
 
 # Aktivitätsprotokoll {#activity-log}
 
-Sehen Sie sich eine Liste aller Aufgaben und der zugehörigen Details an, einschließlich Name, Eigentümer, Typ und Zeitpunkt der Bearbeitung.
+Hier finden Sie eine Liste aller Aufgaben und der zugehörigen Details, einschließlich Name, Eigentümer, Typ und wer sie wann bearbeitet hat.
 
-1. Klicken Sie unter &quot;Generative KI&quot;auf **[!UICONTROL Assisted responses]**.
+1. Klicken Sie unter Generative KI auf **[!UICONTROL Unterstützte Antworten]**.
 
    ![](assets/activity-log-1.png)
 
-1. Klicken Sie auf die Registerkarte **[!UICONTROL Aktivitätsprotokoll]** .
+1. Klicken Sie auf **[!UICONTROL Registerkarte]** Aktivitätsprotokoll“.
 
    ![](assets/activity-log-2.png)
 
-1. Alle Aktivitäten Ihrer Instanz werden an einem Ort angezeigt.
+1. Alle Aktivitäten für Ihre Instanz werden an einer Stelle angezeigt.
 
    ![](assets/activity-log-3.png)

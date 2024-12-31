@@ -1,37 +1,37 @@
 ---
 unique-page-id: 2359667
-description: Anwenden der Eingabemaske auf ein Feld in einem Formular - Marketo-Dokumente - Produktdokumentation
-title: Anwenden der Eingabemaske auf ein Feld in einem Formular
+description: Anwenden von Eingabemaskierung auf ein Feld in einem Formular - Marketo-Dokumente - Produktdokumentation
+title: Anwenden von Eingabemaskierung auf ein Feld in einem Formular
 exl-id: cb99bf10-0d0c-4161-a4e9-ec24700b1b31
 feature: Forms
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '185'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Anwenden der Eingabemaske auf ein Feld in einem Formular {#apply-input-masking-to-a-field-in-a-form}
+# Anwenden von Eingabemaskierung auf ein Feld in einem Formular {#apply-input-masking-to-a-field-in-a-form}
 
-Sie können die Eingabe Ihres Besuchers mithilfe einer Eingabemaske einschränken. Beispielsweise können Sie möchten, dass Besucher Telefonnummern nur in einem bestimmten Format eingeben.
+Sie können die Eingabe Ihres Besuchers mithilfe einer Eingabemaske einschränken. Beispielsweise können Sie möchten, dass Besucherinnen und Besucher Telefonnummern nur in einem bestimmten Format eingeben.
 
-1. Wechseln Sie zu **Marketingaktivitäten**.
+1. Navigieren Sie **Marketing-Aktivitäten**.
 
    ![](assets/login-marketing-activities-4.png)
 
-1. Wählen Sie das Formular aus und klicken Sie auf **Formular bearbeiten**.
+1. Wählen Sie Ihr Formular aus und klicken Sie auf **Formular bearbeiten**.
 
    ![](assets/image2014-9-15-13-3a40-3a44.png)
 
-1. Wählen Sie Ihr Feld aus und stellen Sie sicher, dass der **Feldtyp** auf **Text** eingestellt ist.
+1. Wählen Sie Ihr Feld aus und stellen Sie sicher **dass** Feldtyp“ auf &quot;**&quot;**.
 
    >[!NOTE]
    >
-   >Die Eingabemaske funktioniert nur mit **Textfeldtypen**.
+   >Die Eingabemaskierung funktioniert nur mit **Textfeldtypen**.
 
    ![](assets/image2014-9-15-13-3a40-3a53.png)
 
-1. Klicken Sie auf den Link **Eingabe maskieren** .
+1. Klicken Sie auf **Link** Maskeneingabe“.
 
    ![](assets/image2014-9-15-13-3a41-3a3.png)
 
@@ -41,22 +41,22 @@ Sie können die Eingabe Ihres Besuchers mithilfe einer Eingabemaske einschränke
 
    >[!NOTE]
    >
-   >Achten Sie auf die Maskierungsregeln. Sie können die Eingabe auf Zahlen, Buchstaben, beides und/oder sogar auf die Anzahl der eingegebenen Zeichen beschränken.
+   >Achten Sie auf die Maskierungsregeln. Sie können die Eingabe auf Zahlen, Buchstaben und beides beschränken und/oder sogar die Anzahl der eingegebenen Zeichen begrenzen.
 
-1. Klicken Sie auf **Beenden**.
+1. Klicken Sie auf **Fertigstellen**.
 
    ![](assets/image2014-9-15-13-3a41-3a22.png)
 
-1. Klicken Sie auf **Genehmigen und schließen**.
+1. Klicken Sie **Genehmigen und schließen**.
 
    ![](assets/image2014-9-15-13-3a41-3a28.png)
 
-   Schau es dir an! Jetzt bitten Sie den Besucher, Zahlen in einem bestimmten Format einzugeben.
+   Sieh es dir an! Jetzt bitten Sie den Besucher, Zahlen in einem bestimmten Format einzugeben.
 
    ![](assets/image2014-9-15-13-3a41-3a39.png)
 
    >[!NOTE]
    >
-   >Im Feld werden möglicherweise keine vordefinierten Bereiche angezeigt, wie im Bild oben dargestellt. Er kann leer erscheinen, bis der Besucher beginnt, Zahlen einzugeben, und sich dann automatisch an das für das Feld definierte Eingabeformat hält.
+   >Das Feld zeigt möglicherweise keine vordefinierten Bereiche an, wie im Bild oben dargestellt. Er kann leer erscheinen, bis der Besucher mit der Eingabe von Zahlen beginnt, die dann automatisch dem Eingabeformat entsprechen, das Sie für das Feld definiert haben.
 
-Sehr cool, was?
+Ziemlich cool, was?

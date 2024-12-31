@@ -1,7 +1,7 @@
 ---
 unique-page-id: 7504770
-description: Anzeigen der Organisationsdienst-URL - Marketo-Dokumente - Produktdokumentation
-title: Anzeigen der Organisationsdienst-URL
+description: Anzeigen der Organisations-Service-URL - Marketo-Dokumente - Produktdokumentation
+title: Organisations-Service-URL anzeigen
 exl-id: 37c6afa3-ae82-4134-8a00-b4dc08064f5d
 feature: Microsoft Dynamics
 source-git-commit: 4045f262889d06304111288d30da893529396e81
@@ -11,15 +11,15 @@ ht-degree: 0%
 
 ---
 
-# Anzeigen der Organisationsdienst-URL {#view-the-organization-service-url}
+# Organisations-Service-URL anzeigen {#view-the-organization-service-url}
 
-Marketo Engage benötigt die Organisationsdienst-URL, um mit MD-Instanzen zu synchronisieren. Hier erfahren Sie, wie Sie ihn in Dynamics finden.
+Marketo Engage benötigt die Organisations-Service-URL für die Synchronisierung mit MD-Instanzen. So finden Sie sie in Dynamics.
 
 1. Melden Sie sich bei [!DNL Dynamics] an. Klicken Sie auf das Symbol Einstellungen und wählen Sie **[!UICONTROL Erweiterte Einstellungen]** aus.
 
    ![](assets/one.png)
 
-1. Klicken Sie auf **[!UICONTROL Einstellungen]** und wählen Sie **[!UICONTROL Anpassungen]** aus.
+1. Klicken Sie **[!UICONTROL Einstellungen]** und wählen Sie **[!UICONTROL Anpassungen]** aus.
 
    ![](assets/two.png)
 
@@ -27,8 +27,8 @@ Marketo Engage benötigt die Organisationsdienst-URL, um mit MD-Instanzen zu syn
 
    ![](assets/three.png)
 
-1. Die Organisationsdienst-URL befindet sich unter **[!UICONTROL Dienstendpunkte]**.
+1. Die Organisations-Service-URL finden Sie unter **[!UICONTROL Service-Endpunkte]**.
 
    ![](assets/four.png)
 
-1. Kopieren Sie diese URL und fügen Sie sie in Marketo ein. Genießen Sie den Rest der Synchronisierung.
+1. Kopieren Sie diese URL, fügen Sie sie in Marketo ein und genießen Sie den Rest der Synchronisierung.

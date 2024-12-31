@@ -1,7 +1,7 @@
 ---
 unique-page-id: 3571827
-description: 'Schritt 2 von 3: Einrichten der Marketo-Lösung mit Server-zu-Server-Verbindung - Marketo Docs - Produktdokumentation'
-title: 'Schritt 2 von 3: Einrichten der Marketo-Lösung mit Server-zu-Server-Verbindung'
+description: 'Schritt 2 von 3: Einrichten der Marketo-Lösung mit Server-zu-Server-Verbindung - Marketo-Dokumente - Produktdokumentation'
+title: 'Schritt 2 von 3: Einrichten der Marketo-Lösung mit einer Server-zu-Server-Verbindung'
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
 feature: Microsoft Dynamics
 source-git-commit: 4045f262889d06304111288d30da893529396e81
@@ -11,103 +11,103 @@ ht-degree: 0%
 
 ---
 
-# Schritt 2 von 3: Einrichten der Marketo-Lösung mit Server-zu-Server-Verbindung {#step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s}
+# Schritt 2 von 3: Einrichten der Marketo-Lösung mit einer Server-zu-Server-Verbindung {#step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s}
 
 >[!PREREQUISITES]
 >
->[Schritt 1 von 3: Installieren der Marketo-Lösung mit Server-zu-Server-Verbindung](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md){target="_blank"}
+>[Schritt 1 von 3: Installieren Sie die Marketo-Lösung mit einer Server-zu-Server-Verbindung](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md){target="_blank"}
 
 ## Erstellen einer Client-Anwendung in Azure AD {#create-client-application-in-azure-ad}
 
 1. Navigieren Sie zu [diesem Microsoft-Artikel](https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/walkthrough-register-app-azure-active-directory#create-an-application-registration){target="_blank"}.
 
-1. Führen Sie alle Schritte aus. Geben Sie für Schritt 3 einen relevanten Anwendungsnamen ein (z. B. &quot;Marketo Integration&quot;). Wählen Sie unter &quot;Unterstützte Kontotypen&quot;die Option **Nur Konto in diesem Organisationsverzeichnis**.
+1. Befolgen Sie alle Schritte. Geben Sie für Schritt 3 einen entsprechenden Anwendungsnamen ein (z. B. &quot;Marketo-Integration„). Wählen Sie unter Unterstützte Kontotypen die Option **Nur Konto in diesem Organisationsverzeichnis** aus.
 
-1. Notieren Sie sich die Anwendungs-ID (ClientId) und die Mandantenkennung. Sie müssen sie später in Marketo eingeben.
+1. Notieren Sie die Anwendungs-ID (ClientId) und Mandanten-ID. Sie müssen sie später in Marketo eingeben.
 
-1. Erteilen Sie die Admin-Zustimmung, indem Sie die Schritte [in diesem Artikel](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md){target="_blank"} befolgen.
+1. Erteilen Sie die Zustimmung des Administrators, indem Sie die Schritte [in diesem Artikel) ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md){target="_blank"}.
 
 1. Generieren Sie ein Client-Geheimnis im Admin Center, indem Sie auf **[!UICONTROL Zertifikate und Geheimnisse]** klicken.
 
    ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-1.png)
 
-1. Klicken Sie auf die Schaltfläche **[!UICONTROL Neues Client-Geheimnis]** .
+1. Klicken Sie auf **[!UICONTROL Schaltfläche „Neuer geheimer]**&quot;.
 
    ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-2.png)
 
-1. Geben Sie eine Client-Geheimbeschreibung ein und klicken Sie auf **[!UICONTROL Hinzufügen]**.
+1. Geben Sie eine Beschreibung des Client-Geheimnisses ein und klicken Sie auf **[!UICONTROL Hinzufügen]**.
 
    ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-3.png)
 
 >[!CAUTION]
 >
->Beachten Sie den Wert Client Secret (siehe Screenshot unten), da Sie ihn später benötigen werden. Es wird nur einmal angezeigt und Sie werden es nicht erneut abrufen können.
+>Notieren Sie sich den Wert des Client-Geheimnisses (siehe Screenshot unten), da Sie ihn später benötigen werden. Er wird nur einmal angezeigt und kann nicht erneut abgerufen werden.
 
 ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-4.png)
 
-## Anwendungsbenutzer in Microsoft erstellen {#create-application-user-in-microsoft}
+## Programmbenutzer in Microsoft erstellen {#create-application-user-in-microsoft}
 
-1. Führen Sie die folgenden Schritte aus, um [einen Anwendungsbenutzer in Microsoft einzurichten](https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/use-single-tenant-server-server-authentication#application-user-creation){target="_blank"}.
+1. Folgen Sie den Schritten unter dem folgenden Link, um [einen Programmbenutzer in Microsoft einzurichten](https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/use-single-tenant-server-server-authentication#application-user-creation){target="_blank"}.
 
    >[!IMPORTANT]
    >
-   >* Achten Sie beim Gewähren von Berechtigungen für den Anwendungsbenutzer darauf, diese der &quot;Benutzerrolle für Marketo-Synchronisierung&quot;zuzuweisen.
-   >* Notieren Sie die E-Mail-Adresse des Anwendungsbenutzers über die Option [Details anzeigen](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user){target="_blank"} in Power Platform. Diese E-Mail-Adresse wird beim Einrichten der Verbindung zu MS Dynamics in Marketo als Benutzername verwendet.
-   >* Alle vom Synchronisierungsbenutzer in Ihrem CRM-System vorgenommenen Aktualisierungen werden **nicht** mit Marketo synchronisiert.
+   >* Achten Sie darauf, dem Programmbenutzer beim Gewähren von Berechtigungen die Rolle &quot;Marketo-Benutzersynchronisierung“ zuzuweisen.
+   >* Notieren Sie sich die E-Mail-Adresse des Anwendungsbenutzers in der Option [Details anzeigen](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user){target="_blank"} in Power Platform. Diese E-Mail-Adresse wird beim Einrichten der Verbindung zu MS Dynamics in Marketo als Benutzername verwendet.
+   >* Alle Aktualisierungen, die der Synchronisierungsbenutzer in Ihrem CRM vorgenommen hat, **nicht** wieder mit Marketo synchronisiert.
 
 ## Azure AD Federated mit AD FS On-Premise {#azure-ad-federated-with-ad-fs-on-prem}
 
-Federated Azure AD to ADFS Onprem benötigt die Erstellung einer Home Realm Discovery-Richtlinie für die jeweilige Anwendung. Mit dieser Richtlinie leitet Azure AD die Authentifizierungsanforderung an den Föderierungsdienst weiter. Die Synchronisierung von Passwort-Hash muss hierfür in AD Connect aktiviert werden. Weitere Informationen finden Sie unter [OAuth mit ROPC](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth-ropc){target="_blank"} und [Festlegen einer RT-Richtlinie für eine Anwendung](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-authentication-for-federated-users-portal#example-set-an-hrd-policy-for-an-application){target="_blank"}.
+Federated Azure AD zu ADFS OnPrem erfordert die Erstellung einer Richtlinie zur Erkennung von Home Realms für die spezifische Anwendung. Mit dieser Richtlinie leitet Azure AD die Authentifizierungsanfrage an den Verbunddienst weiter. Die Synchronisierung von Passwort-Hash muss hierfür in AD Connect aktiviert werden. Weitere Informationen finden Sie unter [OAuth mit ROPC](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth-ropc){target="_blank"} und [Festlegen einer harten Richtlinie für eine Anwendung](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-authentication-for-federated-users-portal#example-set-an-hrd-policy-for-an-application){target="_blank"}.
 
-Weitere Verweise [finden Sie hier](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=Interactive%20user%20sign%2Dins%20are,as%20the%20Microsoft%20Authenticator%20app.&amp;text=This%20report%20also%20include%20federated,are%20federated%20to%20Azure%20AD.){target="_blank"}.
+Weitere Referenzen [finden Sie hier](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=Interactive%20user%20sign%2Dins%20are,as%20the%20Microsoft%20Authenticator%20app.&amp;text=This%20report%20also%20include%20federated,are%20federated%20to%20Azure%20AD.){target="_blank"}.
 
-## Konfigurieren der Marketo-Lösung {#configure-marketo-solution}
+## Marketo-Lösung konfigurieren {#configure-marketo-solution}
 
-Fast da! Wir haben nur noch die Möglichkeit, Marketo Solution über den neu erstellten Benutzer zu informieren.
+Fast da! Uns bleibt nur noch, die Marketo-Lösung über den neu erstellten Benutzer zu informieren.
 
-1. Gehen Sie zurück zum Abschnitt &quot;Erweiterte Einstellungen&quot;, klicken Sie auf das Symbol &quot;![](assets/image2015-5-13-15-3a49-3a19.png)&quot;neben &quot;Einstellungen&quot;und wählen Sie &quot;**[!UICONTROL Marketo-Konfiguration]**&quot;.
+1. Gehen Sie zurück zum Abschnitt Erweiterte Einstellungen, klicken Sie auf das ![](assets/image2015-5-13-15-3a49-3a19.png) neben Einstellungen und wählen Sie **[!UICONTROL Marketo Config]**.
 
    ![](assets/fourteen.png)
 
    >[!NOTE]
    >
-   >Wenn Sie im Einstellungsmenü &quot;Marketo-Konfiguration&quot;nicht sehen, aktualisieren Sie die Seite. Wenn dies nicht funktioniert, versuchen Sie, die Marketo-Lösung ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md){target="_blank"} erneut zu veröffentlichen oder melden Sie sich ab und wieder an.[
+   >Wenn &quot;Marketo Config“ im Menü Einstellungen nicht angezeigt wird, aktualisieren Sie die Seite. Wenn dies nicht funktioniert, versuchen Sie erneut, [die Marketo-Lösung zu veröffentlichen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md){target="_blank"} oder melden Sie sich ab und wieder an.
 
 1. Klicken Sie auf **[!UICONTROL Standard]**.
 
    ![](assets/fifteen.png)
 
-1. Klicken Sie auf die Suchschaltfläche im Feld **[!UICONTROL Marketo-Benutzer]** und wählen Sie den erstellten Synchronisierungsbenutzer aus.
+1. Klicken Sie im Feld **[!UICONTROL Marketo-Benutzer]** auf die Schaltfläche „Suchen“ und wählen Sie den erstellten Synchronisierungsbenutzer aus.
 
    ![](assets/sixteen.png)
 
-1. Klicken Sie unten rechts auf das Symbol &quot;![](assets/image2015-3-13-15-3a10-3a11.png)&quot;, um die Änderungen zu speichern.
+1. Klicken Sie auf das ![](assets/image2015-3-13-15-3a10-3a11.png) in der rechten unteren Ecke, um die Änderungen zu speichern.
 
    ![](assets/image2015-3-13-15-3a3-3a3.png)
 
-1. Klicken Sie oben rechts auf den **X** , um den Bildschirm zu schließen.
+1. Klicken Sie auf **X** oben rechts, um den Bildschirm zu schließen.
 
    ![](assets/seventeen.png)
 
-1. Klicken Sie auf das Symbol &quot;![](assets/image2015-5-13-15-3a49-3a19-1.png)&quot;neben &quot;Einstellungen&quot;und wählen Sie &quot;**[!UICONTROL Lösungen]**&quot;.
+1. Klicken Sie auf das ![](assets/image2015-5-13-15-3a49-3a19-1.png) neben Einstellungen und wählen Sie **[!UICONTROL Lösungen]** aus.
 
    ![](assets/eighteen.png)
 
-1. Klicken Sie auf die Schaltfläche **[!UICONTROL Alle Anpassungen der Publish]** .
+1. Klicken Sie auf die Schaltfläche **[!UICONTROL Alle Publish]** Anpassungen.
 
    ![](assets/nineteen.png)
 
    >[!NOTE]
    >
-   >Wenn Sie von der einfachen Authentifizierung auf OAuth aktualisieren, können Sie [diesen Artikel](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md){target="_blank"} verwenden, um Ihre Authentifizierung neu zu konfigurieren.
+   >Wenn Sie ein Upgrade von der einfachen Authentifizierung auf OAuth durchführen, können Sie [diesen Artikel](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md){target="_blank"} verwenden, um Ihre Authentifizierung neu zu konfigurieren.
 
 ## Bevor Sie mit Schritt 3 fortfahren {#before-proceeding-to-step}
 
-* Wenn Sie die Anzahl der synchronisierten Datensätze beschränken möchten, richten Sie [jetzt einen benutzerdefinierten Synchronisierungsfilter](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md){target="_blank"} ein.
-* Führen Sie den Prozess [Microsoft Dynamics-Synchronisation überprüfen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md){target="_blank"} aus. Es wird überprüft, ob Ihre ersten Setups ordnungsgemäß durchgeführt wurden.
+* Wenn Sie die Anzahl der zu synchronisierenden Datensätze einschränken möchten, richten [ jetzt einen benutzerdefinierten Synchronisierungsfilter ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md){target="_blank"}.
+* Führen Sie den [Microsoft Dynamics-Synchronisierungsprozess ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md){target="_blank"}. Es stellt sicher, dass die anfänglichen Setups korrekt ausgeführt wurden.
 * Melden Sie sich beim Marketo Sync User in Microsoft Dynamics CRM an.
 
 >[!MORELIKETHIS]
 >
->* [Schritt 3 von 3: Verbinden der Marketo-Lösung mit der Server-Verbindung](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect.md){target="_blank"}
+>* [Schritt 3 von 3: Marketo-Lösung mit Server-zu-Server-Verbindung verbinden](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect.md){target="_blank"}
 >* [Dynamics-Authentifizierungsmethode neu konfigurieren](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md){target="_blank"}

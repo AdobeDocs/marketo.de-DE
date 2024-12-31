@@ -1,6 +1,6 @@
 ---
 unique-page-id: 4719316
-description: Verwenden von Personenkonten - Marketo Docs - Produktdokumentation
+description: Verwenden von Personenkonten - Marketo-Dokumente - Produktdokumentation
 title: Verwenden von Personenkonten
 exl-id: 3cc67ff2-f689-4dfb-8b67-2b5b8d389aaf
 feature: Salesforce Integration
@@ -13,40 +13,40 @@ ht-degree: 0%
 
 # Verwenden von Personenkonten {#using-person-accounts}
 
-Personenkonten können in Salesforce entsprechend den Anforderungen Ihrer Organisation eingerichtet werden. So behandelt Marketo Engage Personenkonten.
+Personenkonten können in Salesforce entsprechend den Anforderungen Ihres Unternehmens eingerichtet werden. So behandelt Marketo Engage Personenkonten.
 
 >[!NOTE]
 >
->Die Salesforce-Standardkonten sind Geschäftskonten. Ihr Salesforce-Administrator muss Personenkonten separat einrichten.
+>Die standardmäßigen Salesforce-Konten sind Geschäftskonten. Ihr Salesforce-Administrator muss Personenkonten separat einrichten.
 
 ## Was ist ein Personenkonto? {#what-is-a-person-account}
 
-Ein Personenkonto ähnelt dem Kontoobjekt in Salesforce sehr. Ein Personenkonto hat jedoch Zugriff auf die Felder des Kontos und der Kontaktfelder.
+Ein Personenkonto ähnelt dem Kontoobjekt in Salesforce. Ein Personenkonto hat jedoch Zugriff sowohl auf Kontofelder als auch auf Kontaktfelder.
 
 ## Was passiert, wenn ein Personenkonto mit Marketo synchronisiert wird? {#what-happens-when-a-person-account-is-synced-to-marketo}
 
-Ein Personenkonto wird als Unternehmen und als Person mit Marketo synchronisiert.
+Ein Personenkonto wird als Firma und als Person mit Marketo synchronisiert.
 
 >[!NOTE]
 >
 >Die benutzerdefinierten Felder für ein Personenkonto werden sowohl in das Unternehmen als auch in die Person in Marketo kopiert.
 
-## Wie kann ich Geschäftskonten und Personenkonten unterscheiden? {#how-do-i-differentiate-business-accounts-and-person-accounts}
+## Wie unterscheide ich zwischen Geschäftskonten und Personenkonten? {#how-do-i-differentiate-business-accounts-and-person-accounts}
 
-Verwenden Sie den Filter &quot;Is Person Account&quot;in Ihrer Smart List, um Personenkonten von standardmäßigen Geschäftskonten zu trennen.
+Verwenden Sie den Filter „Ist-Personen-Konto“ in Ihrer Smart-Liste, um Personenkonten von standardmäßigen Geschäftskonten zu trennen.
 
-## Wo werden die Informationen zu meinen Personenkonten in Marketo Sales Insight angezeigt? {#where-is-my-person-accounts-information-displayed-in-marketo-sales-insight}
+## Wo werden in Marketo Sales Insight Informationen zu persönlichen Konten angezeigt? {#where-is-my-person-accounts-information-displayed-in-marketo-sales-insight}
 
-Aktivitäten im Zusammenhang mit Personenkonten werden im Bereich **[!UICONTROL Konto]** angezeigt.
+Aktivitäten, die sich auf Personenkonten beziehen, werden im Bedienfeld **[!UICONTROL Konto]** angezeigt.
 
 >[!NOTE]
 >
->Die Optionen **[!UICONTROL Zu Marketo Campaign hinzufügen]** und **[!UICONTROL E-Mail senden]** von Marketo Sales Insight stehen derzeit nicht für Personenkonten zur Verfügung.
+>Die Optionen **[!UICONTROL Zu Marketo-Kampagne hinzufügen]** und **[!UICONTROL E-Mail]** von Marketo Sales Insight sind derzeit nicht für Personenkonten verfügbar.
 
-## Wie ordne ich einem Personenkonto Chancen zu? {#how-do-i-associate-opportunities-to-a-person-account}
+## Wie kann ich Opportunities mit einem Personenkonto verknüpfen? {#how-do-i-associate-opportunities-to-a-person-account}
 
-Marketo hängt von der Rolle des Opportunity-Kontakts ab, um zu bestimmen, welcher Person die Möglichkeit zugeordnet werden soll. Sie müssen für jedes Personenkonto die Kontaktrolle hinzufügen, um die Möglichkeit mit der entsprechenden Person in Marketo zu verbinden. Es wird empfohlen, einen Workflow einzurichten, um die Rolle &quot;Opportunity Contact&quot;automatisch hinzuzufügen.
+Marketo hängt von der Rolle des Opportunity-Kontakts ab, um zu bestimmen, mit welcher Person die Opportunity verknüpft werden soll. Sie müssen für jedes Personenkonto die Rolle Opportunity-Kontakt hinzufügen, um die Opportunity mit der entsprechenden Person in Marketo zu verbinden. Es wird empfohlen, einen Workflow einzurichten, um die Rolle Opportunity-Kontakt automatisch hinzuzufügen.
 
 ## Welches E-Mail-Feld sollte ich für Personenkonten verwenden? {#which-email-field-should-i-use-for-person-accounts}
 
-Es gibt zwei E-Mail-Felder für ein Personenkonto. Verwenden Sie das Feld **E-Mail-Adresse** in Ihren Formularen (nicht die **Personen-E-Mail-Adresse**), um sicherzustellen, dass die Deduplizierung von Marketo und andere E-Mail-Verarbeitungen ordnungsgemäß funktionieren.
+Für ein Personenkonto gibt es zwei E-Mail-Felder. Verwenden Sie das Feld **E-Mail** in Ihren Formularen (nicht die **Personen-E-Mail-Adresse**), um sicherzustellen, dass die Deduplizierung und andere E-Mail-Verarbeitungen von Marketo ordnungsgemäß funktionieren.

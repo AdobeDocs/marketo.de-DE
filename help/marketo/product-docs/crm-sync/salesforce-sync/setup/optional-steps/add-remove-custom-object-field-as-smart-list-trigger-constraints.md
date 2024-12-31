@@ -1,7 +1,7 @@
 ---
 unique-page-id: 4719300
-description: Benutzerdefiniertes Objektfeld als Smart-List-/Trigger-Einschränkungen hinzufügen/entfernen - Marketo Docs - Produktdokumentation
-title: Benutzerdefiniertes Objektfeld als Smart-List-/Trigger-Einschränkungen hinzufügen/entfernen
+description: Hinzufügen/Entfernen eines benutzerdefinierten Objektfelds als Smart-Listen-/Trigger-Beschränkungen - Marketo-Dokumente - Produktdokumentation
+title: Hinzufügen/Entfernen eines benutzerdefinierten Objektfelds als Smart-Listen-/Trigger-Beschränkungen
 exl-id: 639e73eb-9a8c-4b10-8e97-892abf5c5db0
 feature: Salesforce Integration
 source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
@@ -11,35 +11,35 @@ ht-degree: 0%
 
 ---
 
-# Benutzerdefiniertes Objektfeld als Smart-List-/Trigger-Einschränkungen hinzufügen/entfernen {#add-remove-custom-object-field-as-smart-list-trigger-constraints}
+# Hinzufügen/Entfernen eines benutzerdefinierten Objektfelds als Smart-Listen-/Trigger-Beschränkungen {#add-remove-custom-object-field-as-smart-list-trigger-constraints}
 
-Marketo Engage bietet eine feine Kontrolle über die Synchronisation benutzerdefinierter Salesforce-Objekte. Auf diese Weise können Sie die Felder auswählen, die in benutzerdefinierten Objektfiltern als Begrenzungen verfügbar sind, und sie in Smart-Kampagnen als Trigger verwenden.
+Marketo Engage bietet eine präzise Kontrolle über die Synchronisierung benutzerdefinierter Salesforce-Objekte. Auf diese Weise können Sie die Felder auswählen, die als Einschränkungen in benutzerdefinierten Objektfiltern verfügbar sind, und sie als Trigger in Smart-Kampagnen verwenden.
 
 >[!NOTE]
 >
->**Erforderliche Administratorberechtigungen**
+>**Administratorberechtigungen erforderlich**
 
 1. Klicken Sie auf **[!UICONTROL Admin]**.
 
    ![](assets/image2014-12-10-13-3a9-3a47.png)
 
-1. Klicken Sie auf **[!UICONTROL Admin]** und dann auf **[!UICONTROL Salesforce-Objektsynchronisierung]**.
+1. Klicken Sie auf **[!UICONTROL Admin]** und dann auf **[!UICONTROL Salesforce-Objekte synchronisieren]**.
 
    ![](assets/image2015-12-11-15-3a11-3a41.png)
 
-1. **[!UICONTROL Salesforce-Objektsynchronisierung]** wird in der linken Spalte angezeigt.
+1. **[!UICONTROL Salesforce-Objekte synchronisieren]** wird in der linken Spalte angezeigt.
 
    ![](assets/image2015-12-11-15-3a15-3a15.png)
 
-1. Wählen Sie das zu ändernde Objekt aus.
+1. Wählen Sie das Objekt aus, das Sie ändern möchten.
 
    ![](assets/image2014-12-10-13-3a10-3a11.png)
 
-1. Klicken Sie auf **[!UICONTROL Sichtbare Felder bearbeiten]**.
+1. Klicken Sie **[!UICONTROL Sichtbare Felder bearbeiten]**.
 
    >[!TIP]
    >
-   >Wenn die Schaltfläche **[!UICONTROL Sichtbare Felder bearbeiten]** ausgegraut ist, wird das Objekt derzeit in einer Smart-Liste oder in einer Smart-Kampagne verwendet. Entfernen Sie alle Zuordnungen, um fortzufahren.
+   >Wenn die Schaltfläche **[!UICONTROL Sichtbare Felder bearbeiten]** ausgegraut ist, wird das Objekt derzeit in einer Smart-Liste oder Smart-Kampagne verwendet. Alle Verknüpfungen entfernen, um fortzufahren.
 
    ![](assets/image2014-12-10-13-3a10-3a25.png)
 
@@ -47,23 +47,23 @@ Marketo Engage bietet eine feine Kontrolle über die Synchronisation benutzerdef
 
    ![](assets/image2014-12-10-13-3a10-3a36.png)
 
-1. Aktivieren Sie die Kontrollkästchen neben den erforderlichen Filter-/Trigger-Begrenzungen und klicken Sie auf **[!UICONTROL Speichern]**.
+1. Aktivieren Sie die Kontrollkästchen neben den erforderlichen Filter-/Trigger-Einschränkungen und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/image2014-12-10-13-3a10-3a47.png)
 
    >[!NOTE]
    >
-   >Alle Felder sind standardmäßig als Filterbegrenzungen ausgewählt.
+   >Alle Felder sind standardmäßig als Einschränkungen für Filter ausgewählt.
 
-1. Klicken Sie auf die Registerkarte **[!UICONTROL Felder]** , um Ihre Änderungen zu bestätigen.
+1. Klicken Sie auf die **[!UICONTROL Felder]**, um Ihre Änderungen zu bestätigen.
 
    ![](assets/image2014-12-10-13-3a10-3a56.png)
 
    >[!NOTE]
    >
-   >Vergessen Sie nicht, Ihre globale Synchronisation erneut zu aktivieren!
+   >Vergessen Sie nicht, die globale Synchronisierung erneut zu aktivieren!
 
-Jetzt haben Ihre Smart-Listen und Smart-Kampagnen noch mehr Leistung.
+Jetzt haben Ihre Smart Lists und Smart Campaign noch mehr Leistung.
 
 >[!MORELIKETHIS]
 >

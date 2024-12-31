@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2953188
-description: Abgeleitete Filter - Marketo Docs - Produktdokumentation
+description: Abgeleitete Filter - Marketo-Dokumente - Produktdokumentation
 title: Abgeleitete Filter
 exl-id: 6db4ff4d-7fab-4722-94b1-1bf92ba4651d
 feature: Smart Lists
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Abgeleitete Filter {#inferred-filters}
 
-Wenn ein Besucher Ihre Website besucht, werden diese von [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} Cookies gesetzt und in das System eingefügt. Wir suchen ihre IP-Adresse in einer speziellen Datenbank und schließen alle möglichen Informationen ab.
+Wenn jemand Ihre Website besucht, ](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} [MunchkinCookies und legt sie im System ab. Wir suchen ihre IP in einer speziellen Datenbank und leiten alle Arten von Informationen ab.
 
 >[!NOTE]
 >
->Um sicherzustellen, dass die abgeleiteten Feldwerte aktuell bleiben, aktualisieren wir regelmäßig die Datenbank, die für die IP-Adressen-Suche verwendet wird. Datenbankaktualisierungen können neue abgeleitete Feldwerte einführen, die Sie möglicherweise zu Filterdefinitionen für Smart-Listen hinzufügen müssen.
+>Um sicherzustellen, dass die abgeleiteten Feldwerte auf dem neuesten Stand bleiben, aktualisieren wir regelmäßig die Datenbank, die für die Suche nach IP-Adressen verwendet wird. Datenbankaktualisierungen können neue abgeleitete Feldwerte einführen, die Sie ggf. den Filterdefinitionen für die Smart-Liste hinzufügen müssen.
 >
->Datenbankaktualisierungen können während einer [Marketo Engage-Produktversion](/help/marketo/release-notes/release-schedule.md){target="_blank"} auftreten. Wenn eine Aktualisierung durchgeführt wird, enthalten die [Marketo Engage-Versionshinweise](/help/marketo/release-notes/current.md){target="_blank"} eine Erläuterung aller Änderungen an den zurückgewiesenen Feldwerten.
+>Datenbankaktualisierungen können während einer [Marketo Engage-Produktversion erfolgen](/help/marketo/release-notes/release-schedule.md){target="_blank"}. Wenn eine Aktualisierung erfolgt, enthalten die [Marketo Engage-Versionshinweise](/help/marketo/release-notes/current.md){target="_blank"} eine Erläuterung aller Änderungen an abgeleiteten Feldwerten.
 
 ![](assets/inferred-filters-1.png)
 
@@ -33,17 +33,17 @@ Wenn ein Besucher Ihre Website besucht, werden diese von [Munchkin](/help/market
 
 ![](assets/inferred-filters-6.png)
 
-Wenn Sie einen dieser Filter in einer Smart-Liste verwenden, liefern die Ergebnisse Personen mit diesen daraus resultierenden Informationen.
+Wenn Sie einen dieser Filter in einer Smart List verwenden, ergeben die Ergebnisse Personen mit diesen abgeleiteten Informationen.
 
 >[!TIP]
 >
->Verwenden Sie diese Filter in einem Webaktivitätsbericht. Verwenden Sie die Territorien der Vertriebsmitarbeiter und melden Sie sie in den letzten 24 Stunden für einen benutzerspezifischen täglichen Bericht mit Website-Besuchern an. Sie werden es lieben!
+>Verwenden Sie diese Filter in einem Web-Aktivitätsbericht. Verwenden Sie die Gebiete der Vertriebsmitarbeiter und abonnieren Sie sie für einen benutzerdefinierten täglichen Bericht mit Website-Besuchern in den letzten 24 Stunden. Sie werden es lieben!
 >
->* Besuchte Webseite - Letzte 24 Stunden
->* Der Status &quot;Abgegrenzt&quot;ist [Auswählen ihres Hoheitsgebiets]
+>* Besuchte Web-Seite - Letzte 24 Stunden
+>* Abgeleiteter Staat ist [wählen Sie ihr Territorium]
 
-Diese anonymen Besucher werden automatisch in Personen umgewandelt, wenn sie auf einen E-Mail-Link klicken oder ein Formular ausfüllen. Sie bewahren jedoch alle enthaltenen Informationen auf.
+Diese anonymen Besucher werden automatisch in Personen umgewandelt, wenn sie auf einen E-Mail-Link klicken oder ein Formular ausfüllen. Sie behalten jedoch alle abgeleiteten Informationen bei.
 
 >[!NOTE]
 >
->Erfahren Sie mehr über [anonyme Aktivitäten und Leads](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md){target="_blank"}.
+>Weitere Informationen über [anonyme Aktivität und Leads](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md){target="_blank"}.

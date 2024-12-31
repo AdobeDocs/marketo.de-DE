@@ -1,5 +1,5 @@
 ---
-description: Analytics - Marketo Docs - Produktdokumentation
+description: Analytics - Marketo-Dokumente - Produktdokumentation
 title: Analytics
 feature: Dynamic Chat
 exl-id: 8130a970-4cf1-4bf6-9403-998460269843
@@ -12,39 +12,39 @@ ht-degree: 2%
 
 # Analytics {#analytics}
 
-Während die Berichterstellung auf Dialogfeldebene verfügbar ist, überprüfen Sie die Gesamtinteraktion mit den drei unten stehenden Dashboards.
+Zwar sind Berichte auf Dialogfeldebene verfügbar, doch können Sie die Interaktion insgesamt mithilfe der drei folgenden Dashboards überprüfen.
 
 Greifen Sie auf jedes Dashboard unter **Analytics** im linken Navigationsbereich zu.
 
 ![](assets/analytics-1.png)
 
-## Dashboard zur globalen Leistung {#global-performance-dashboard}
+## Dashboard für globale Leistung {#global-performance-dashboard}
 
-Erfahren Sie, wie gut Ihre Dialoge funktionieren, einschließlich Interaktions- und Leistungsmetriken (insgesamt und im Laufe der Zeit), Seiten mit der besten Leistung und Dialoge mit der besten Leistung.
+Sehen Sie, wie gut Ihre Dialogfelder funktionieren, einschließlich Interaktions- und Leistungsmetriken (insgesamt und über einen Zeitraum), Seiten mit der besten Leistung und Dialogfelder mit der besten Leistung.
 
 ![](assets/analytics-2.png)
 
-Dialogfelder, Konversationsflüsse oder alles. Sortieren Sie nach bekannten Besuchern, unbekannten Besuchern oder beiden. Wählen Sie einen vordefinierten oder benutzerdefinierten Datumsbereich aus. Exportieren Sie Ihre Ergebnisse per Klick auf eine Schaltfläche.
+Dialoge, Konversationsflüsse oder alle anzeigen. Sortieren Sie nach bekannten Besuchern, unbekannten Besuchern oder beidem. Wählen Sie eine Vorgabe oder einen benutzerdefinierten Datumsbereich aus. Exportieren Sie Ihre Ergebnisse per Klick auf eine Schaltfläche.
 
 ![](assets/analytics-3.png)
 
-## Dashboard zur Konferenzleistung {#meeting-performance-dashboard}
+## Meeting-Leistungs-Dashboard {#meeting-performance-dashboard}
 
-Sehen Sie, wie viele Meetings gebucht werden und mit wem sie gebucht werden.
+Sehen Sie, wie viele Meetings gebucht sind und bei wem sie gebucht sind.
 
 ![](assets/analytics-4.png)
 
-Dialogfelder, Konversationsflüsse oder alles. Wählen Sie einen vordefinierten oder benutzerdefinierten Datumsbereich aus. Exportieren Sie Ihre Ergebnisse per Klick auf eine Schaltfläche.
+Dialoge, Konversationsflüsse oder alle anzeigen. Wählen Sie eine Vorgabe oder einen benutzerdefinierten Datumsbereich aus. Exportieren Sie Ihre Ergebnisse per Klick auf eine Schaltfläche.
 
 ![](assets/analytics-5.png)
 
-## Dashboard zur Live-Chat-Leistung {#live-chat-performance-dashboard}
+## Live-Chat-Leistungs-Dashboard {#live-chat-performance-dashboard}
 
-Sehen Sie sich an, wie viele Konversationen Ihre Live-Verkaufsmitarbeiter hatten und welche Teams die beste Leistung erzielen.
+Erfahren Sie, wie viele Gespräche Ihre Live-Vertriebsmitarbeiter geführt haben und welche Teams die besten Ergebnisse erzielen.
 
 ![](assets/analytics-6.png)
 
-Dialogfelder, Konversationsflüsse oder alles. Wählen Sie einen vordefinierten oder benutzerdefinierten Datumsbereich aus. Exportieren Sie Ihre Ergebnisse mit einem Klick auf eine Schaltfläche.
+Dialoge, Konversationsflüsse oder alle anzeigen. Wählen Sie eine Vorgabe oder einen benutzerdefinierten Datumsbereich aus. Exportieren Sie Ihre Ergebnisse mit einem Klick auf eine Schaltfläche.
 
 ![](assets/analytics-7.png)
 
@@ -55,13 +55,13 @@ Dialogfelder, Konversationsflüsse oder alles. Wählen Sie einen vordefinierten 
 <tbody>
   <tr>
     <td style="width:25%"><b>Abgeschlossen</b></td>
-    <td>Ein abgeschlossenes Ereignis tritt auf, wenn ein Besucher die letzte Eingabeaufforderung in einer Konversation <i>oder </i> erreicht, wenn der gesamte Inhalt einer Konversation durch einen Besucher erschöpft ist.
+    <td>Ein abgeschlossenes Ereignis tritt ein, wenn ein Besucher die letzte Eingabeaufforderung in einer Konversation erreicht <i>oder</i> wenn ein Besucher den gesamten Inhalt einer Konversation erschöpft.
     <br>Ein abgeschlossenes Ereignis pro Besucher und Sitzung.</td>
   </tr>
   <tr>
     <td style="width:25%"><b>Gewonnene Personen</b></td>
-    <td>Tritt auf, wenn ein Besucher seine E-Mail-Adresse sendet.
-    <br>Eine Akquise pro Besucher pro Sitzung.</td>
+    <td>Dies geschieht, wenn ein Besucher seine E-Mail-Adresse eingibt.
+    <br>Eine Akquise pro Besucher und Sitzung.</td>
   </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 description: Reaktionsbibliothek - Marketo-Dokumente - Produktdokumentation
-title: Reaktionsbibliothek
+title: Antwortbibliothek
 feature: Dynamic Chat
 exl-id: 774346fa-f633-48e8-a489-999404b6070b
 source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
@@ -10,21 +10,21 @@ ht-degree: 2%
 
 ---
 
-# Reaktionsbibliothek {#response-library}
+# Antwortbibliothek {#response-library}
 
-Zeigen Sie an einer zentralen Stelle alle Ihre Fragen, ihren Genehmigungsstatus und den ihnen zugewiesenen Aufgabennamen/Themen an.
+Zeigen Sie alle Ihre Fragen, deren Genehmigungsstatus und den/die ihnen zugewiesenen Aufgabennamen/-themen an einem Ort an.
 
 ## Manuelles Hinzufügen einer Frage {#manually-add-a-question}
 
-1. Klicken Sie unter &quot;Generative KI&quot;auf **[!UICONTROL Assisted responses]**.
+1. Klicken Sie unter Generative KI auf **[!UICONTROL Unterstützte Antworten]**.
 
    ![](assets/response-library-1.png)
 
-1. Klicken Sie auf die Registerkarte **[!UICONTROL Antwortbibliothek]** .
+1. Klicken Sie auf die **[!UICONTROL Antwortbibliothek]**.
 
    ![](assets/response-library-2.png)
 
-1. Klicken Sie auf **[!UICONTROL Frage hinzufügen]**.
+1. Klicken Sie **[!UICONTROL Frage hinzufügen]**.
 
    ![](assets/response-library-3.png)
 
@@ -32,31 +32,31 @@ Zeigen Sie an einer zentralen Stelle alle Ihre Fragen, ihren Genehmigungsstatus 
 
    ![](assets/response-library-4.png)
 
-1. Klicken Sie auf &quot;Aktualisieren&quot;. Ihre neue Frage wird oben mit dem Status &quot;[!UICONTROL Verarbeitung]&quot; angezeigt.
+1. Klicken Sie auf „Aktualisieren“. Ihre neue Frage wird oben mit dem Status &quot;[!UICONTROL &quot; ].
 
    ![](assets/response-library-5.png)
 
-1. Nach einigen Minuten aktualisieren Sie erneut und der Status ändert sich in &quot;Genehmigt&quot;.
+1. Nach einigen Minuten müssen Sie die Seite erneut aktualisieren, und der Status ändert sich in „Genehmigt“.
 
    ![](assets/response-library-6.png)
 
-## Bearbeiten einer einzelnen Frage/Antwort {#generate-a-new-question}
+## Einzelne Frage/Antwort bearbeiten {#generate-a-new-question}
 
 >[!NOTE]
 >
->Allen generierten Fragen und Antworten wird standardmäßig der Status &quot;[!UICONTROL need review]&quot; zugewiesen. Chat-Besuchern stehen nur Fragen und Antworten zur Verfügung, die &quot;[!UICONTROL genehmigt]&quot; sind.
+>Allen generierten Fragen und Antworten wird standardmäßig der Status [!UICONTROL Überprüfung erforderlich] zugewiesen. Chatbesuchern werden nur [!UICONTROL genehmigte] Fragen und Antworten zur Verfügung gestellt.
 
-1. Klicken Sie in der **[!UICONTROL Antwortbibliothek]** auf die gewünschte Frage.
+1. Klicken Sie in **[!UICONTROL Antwortbibliothek]** auf die gewünschte Frage.
 
    ![](assets/response-library-7.png)
 
-1. Nehmen Sie Ihre Änderungen vor und klicken Sie auf **[!UICONTROL Speichern]**.
+1. Nehmen Sie die gewünschten Änderungen vor und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/response-library-8.png)
 
-## Massenbearbeitung und Hochladen von Fragen/Antworten {#bulk-edit-and-upload-questions-responses}
+## Fragen/Antworten zur Massenbearbeitung und zum Hochladen {#bulk-edit-and-upload-questions-responses}
 
-Anweisungen zum Durchführen von Massenbearbeitungen in der heruntergeladenen Excel-Datei finden Sie unten. Sie werden auch auf der Registerkarte Aufgabendetails der Datei angezeigt.
+Anweisungen zum Vornehmen von Massenbearbeitungen in der heruntergeladenen Excel-Datei finden Sie unten. Sie werden auch auf der Registerkarte Aufgabendetails der Datei angezeigt.
 
 <table>
 <thead>
@@ -68,37 +68,37 @@ Anweisungen zum Durchführen von Massenbearbeitungen in der heruntergeladenen Ex
 <tbody>
   <tr>
     <td>Frage bearbeiten</td>
-    <td>Geben Sie die neue Frage in die Spalte "bearbeitete Frage"(Spalte H) ein.</td>
+    <td>Neue Frage in Spalte „editierte Frage“ (Spalte H) eingeben</td>
   </tr>
   <tr>
-    <td>Antworten bearbeiten</td>
-    <td>Geben Sie die neue Antwort in die Spalte "editingResponse"(Spalte I) ein.</td>
+    <td>Bearbeiten einer Antwort</td>
+    <td>Neue Antwort in Spalte „editedResponse“ (Spalte I) eingeben</td>
   </tr>
   <tr>
     <td>Neue Frage hinzufügen</td>
-    <td>Geben Sie die neue Frage in die Spalte "bearbeitete Frage"(Spalte H) ein und lassen Sie "Fragebeantwortet"leer. Sie müssen auch ein entsprechendes Thema in die Spalte "Themen"(Spalte C) und eine Quell-URL in die Spalte "sourceUr!" eingeben.</td>
+    <td>Geben Sie die neue Frage in der Spalte „editedQuestion“ (Spalte H) ein und lassen Sie questionResponsed leer. Sie müssen auch ein entsprechendes Thema in der Spalte „Themen“ (Spalte C) und eine Quell-URL in der Spalte „sourceUr!“ eingeben.</td>
   </tr>
   <tr>
     <td>Frage und Antwort hinzufügen</td>
-    <td>Geben Sie die neue Frage in die Spalte "bearbeitete Frage"(Spalte H), die neue Antwort in Spalte "bearbeitete Antwort"(Spalte I) ein und lassen Sie "Fragebeantwortet"leer. Sie müssen auch ein entsprechendes Thema in die Spalte "Themen"(Spalte C) eingeben</td>
+    <td>Geben Sie die neue Frage in der Spalte „editedQuestion“ (Spalte H), die neue Antwort in der Spalte „editedResponse“ (Spalte I) ein und lassen Sie „questionResponsed“ leer. Sie müssen auch ein entsprechendes Thema in der Spalte „Themen“ (Spalte C) eingeben</td>
   </tr>
 </tbody>
 </table>
 
-1. Nachdem Sie die Änderungen in Ihrer Datei vorgenommen haben, kehren Sie zur Registerkarte **[!UICONTROL Antwortbibliothek]** zurück und klicken Sie auf **[!UICONTROL Antworten hochladen]**.
+1. Nachdem Sie die Änderungen in Ihrer Datei vorgenommen haben, wechseln Sie zurück zur Registerkarte **[!UICONTROL Antwortbibliothek]** und klicken Sie auf **[!UICONTROL Antworten hochladen]**.
 
    ![](assets/response-library-9.png)
 
-1. Geben Sie den entsprechenden Aufgabennamen ein. Ziehen Sie die Datei per Drag-and-Drop in den Arbeitsbereich, suchen Sie sie auf Ihrem Gerät und wählen Sie sie aus. Klicken Sie auf **[!UICONTROL Speichern]**, wenn Sie fertig sind.
+1. Geben Sie den entsprechenden Aufgabennamen ein. Datei per Drag-and-Drop ziehen oder auf dem Gerät suchen und auswählen. Klicken Sie auf **[!UICONTROL Speichern]**, wenn Sie fertig sind.
 
    ![](assets/response-library-10.png)
 
-1. Die Bestätigung wird angezeigt und Sie sind alle festgelegt.
+1. Die Bestätigung wird angezeigt und Sie sind fertig.
 
    ![](assets/response-library-11.png)
 
-## Fragen filtern {#filter-your-questions}
+## Filtern Sie Ihre Fragen {#filter-your-questions}
 
-Standardmäßig werden Fragen in der Reihenfolge nach Erstellungszeitpunkt/Erstellungsdatum aufgelistet, wobei die neuesten zuerst angezeigt werden. Wenn Sie nach einer bestimmten Frage suchen, wenden Sie Filter an, um Ihre Suche einzuschränken. Filtern Sie nach Themen, Aufgabennamen und/oder Genehmigungsstatus.
+Standardmäßig werden die Fragen nach Zeit/Erstellungsdatum geordnet aufgelistet, wobei die neuesten zuerst angezeigt werden. Wenn Sie nach einer bestimmten Frage suchen, wenden Sie Filter an, um Ihre Suche einzugrenzen. Filtern Sie nach Themen, Aufgabenname und/oder Genehmigungsstatus.
 
 ![](assets/response-library-12.png)

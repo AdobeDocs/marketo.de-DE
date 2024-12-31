@@ -1,33 +1,33 @@
 ---
 unique-page-id: 10098242
-description: Deaktivieren der Social-Formularausfüllung - Marketo-Dokumente - Produktdokumentation
-title: Social-Formularausfüllung deaktivieren
+description: Ausfüllen von Social Media-Formularen deaktivieren - Marketo-Dokumente - Produktdokumentation
+title: Ausfüllen von Social Media-Formularen deaktivieren
 exl-id: 69b66a7e-c6c9-4e29-a5b3-688da9cae505
 feature: Forms
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '82'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Social-Formularausfüllung deaktivieren {#disable-social-form-fill}
+# Ausfüllen von Social Media-Formularen deaktivieren {#disable-social-form-fill}
 
-Manchmal möchten Sie nicht mehr, dass Besucher der Site Formulare mit einem sozialen Profil senden. So deaktivieren Sie es.
+Manchmal soll es nicht mehr möglich sein, dass Besuchende der Site Formulare über ein Social Media-Profil senden. So deaktivieren Sie es:
 
 >[!AVAILABILITY]
 >
 >Nicht alle Kunden haben diese Funktion erworben.
 
-1. Wechseln Sie zu **Marketingaktivitäten**.
+1. Navigieren Sie **Marketing-Aktivitäten**.
 
    ![](assets/login-marketing-activities-10.png)
 
-1. Wählen Sie das Formular aus und klicken Sie auf **Formular bearbeiten**.
+1. Wählen Sie Ihr Formular aus und klicken Sie auf **Formular bearbeiten**.
 
    ![](assets/image2014-9-15-16-3a35-3a54.png)
 
-1. Klicken Sie unter &quot;Formulareinstellungen&quot;auf **Einstellungen**.
+1. Klicken Sie unter Formulareinstellungen auf **Einstellungen**.
 
    ![](assets/image2014-9-15-16-3a36-3a4.png)
 
@@ -35,11 +35,11 @@ Manchmal möchten Sie nicht mehr, dass Besucher der Site Formulare mit einem soz
 
    ![](assets/image2016-4-28-16-3a49-3a23.png)
 
-1. Klicken Sie auf **Beenden**.
+1. Klicken Sie auf **Fertigstellen**.
 
    ![](assets/image2014-9-15-16-3a36-3a26.png)
 
-1. Klicken Sie auf **Genehmigen und schließen**.
+1. Klicken Sie **Genehmigen und schließen**.
 
    ![](assets/image2014-9-15-16-3a36-3a33.png)
 

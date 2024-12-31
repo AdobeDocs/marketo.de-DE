@@ -12,60 +12,60 @@ ht-degree: 0%
 
 # Konfiguration {#configuration}
 
-Erfahren Sie, wie Sie das Erscheinungsbild Ihres Chatbot-Dialogfensters anpassen können.
+Erfahren Sie, wie Sie das Erscheinungsbild Ihres Chatbot-Dialogfelds anpassen können.
 
-Um zu beginnen, klicken Sie unter **Konfiguration** auf **Chatbot-Einstellungen** .
+Um zu beginnen, klicken Sie auf **Chatbot-Einstellungen** unter **Konfiguration**.
 
 ![](assets/configuration-1.png)
 
-Es gibt verschiedene Anpassungsoptionen.
+Es gibt mehrere verschiedene Anpassungsoptionen.
 
 ![](assets/configuration-2.png)
 
-## Registerkarte &quot;Stil&quot; {#style-tab}
+## Registerkarte „Stil“ {#style-tab}
 
 ### Stil {#style}
 
-Hier definieren Sie das Erscheinungsbild des Chat-Bots, in dem Ihre Dialogfelder angezeigt werden, einschließlich Farben, Schriftarten, Platzierung des Bot-Widgets und Name/Avatar des Chat-Bots.
+Hier definieren Sie das Erscheinungsbild des Chatbots, in dem Ihre Dialoge angezeigt werden, einschließlich: Farben, Schriftarten, Platzierung des Bot-Widgets und Name/Avatar des Chatbots.
 
 Die Farbe jeder Kategorie wird durch einen [hexadezimalen Farbwert](https://color.adobe.com/create/color-wheel){target="_blank"} bestimmt (z. B. weiß = #ffffff, rot = #bf1932 usw.).
 
 ![](assets/configuration-3.png)
 
-Der Anker ermöglicht es Ihrem Site-Besucher, die Chatbox zu öffnen/zu schließen. Sie können auswählen, ob dieses Symbol unten rechts oder unten links angezeigt werden soll. Sie können auch den Abstand zwischen dem Symbol und dem unteren Rand der Webseite erhöhen/verringern.
+Der Anker ermöglicht es dem Site-Besucher, die Chatbox zu öffnen/schließen. Sie können festlegen, ob das Symbol unten rechts oder unten links angezeigt werden soll. Sie können auch den Abstand (den Abstand zwischen dem Symbol und dem unteren Rand der Web-Seite) erhöhen/verringern.
 
 ![](assets/configuration-4.png)
 
 ### Bot-Einstellungen {#agent-settings}
 
-In den Bot-Einstellungen können Sie Ihrer Chatbox einen Titel hinzufügen (z. B. &quot;Adobe-Assistent&quot;), der oben angezeigt wird. Sie können auch die Antwortzeit (in Sekunden) bestimmen und Ihren Chat-Avatar ändern. Um Ihr eigenes Avatarbild hochzuladen, klicken Sie auf die Schaltfläche **+** .
+In den Bot-Einstellungen können Sie Ihrer Chatbox einen Titel hinzufügen (z. B.: &quot;Adobe-Assistent„), der oben angezeigt wird. Sie können auch die Antwortverzögerung (in Sekunden) bestimmen und Ihren Chat-Avatar ändern. Um Ihr eigenes Avatarbild hochzuladen, klicken Sie auf die Schaltfläche **+**.
 
 ![](assets/configuration-5.png)
 
 >[!NOTE]
 >
->Benutzerdefinierte Avatare sollten aus quadratischen Bildern mit einer Auflösung von weniger als 256 KB und aus Bildern mit einer Auflösung von weniger als 200 x 200 Pixel bestehen. Zu den unterstützten Dateitypen gehören: .jpg, .png, .gif, .webp, .svg.
+>Benutzerdefinierte Avatare sollten quadratische Bilder mit einer Größe von weniger als 256 KB und kleiner als 200 x 200 px sein. Zu den unterstützten Dateitypen gehören: .jpg, .png, .gif, .webp, .svg.
 
-Wenn Sie die Änderungen vorgenommen haben, denken Sie daran, auf **Speichern** zu klicken.
+Wenn Sie Ihre Änderungen vorgenommen haben, klicken Sie auf **Speichern**.
 
 ![](assets/configuration-6.png)
 
-## Registerkarte &quot;Datenschutz&quot; {#privacy-tab}
+## Registerkarte „Datenschutz“ {#privacy-tab}
 
-Klicken Sie auf die Registerkarte **Datenschutz** , um die URL der Datenschutzrichtlinie Ihrer Site hinzuzufügen/zu bearbeiten (optional).
+Klicken Sie auf **Datenschutz**, um die URL der Datenschutzrichtlinie Ihrer Site hinzuzufügen bzw. zu bearbeiten (optional).
 
 ![](assets/configuration-7.png)
 
-## Registerkarte &quot;Installation&quot; {#installation-tab}
+## Registerkarte „Installation“ {#installation-tab}
 
-Damit der Chat-Bot auf Ihrer Website erscheint, müssen Sie zunächst das Dynamic Chat JavaScript-Snippet installieren. Klicken Sie auf diese Registerkarte, um den erforderlichen Code zu suchen/zu kopieren. Wenn Sie mit diesem Vorgang nicht vertraut sind, wenden Sie sich an Ihr Webteam oder Ihre IT-Abteilung, um Hilfe zu erhalten.
+Damit der Chatbot auf Ihrer Website angezeigt wird, müssen Sie zunächst das Dynamic Chat-JavaScript-Snippet installieren. Klicken Sie auf diese Registerkarte, um den erforderlichen Code zu suchen/kopieren. Wenn Sie mit diesem Vorgang nicht vertraut sind, wenden Sie sich bitte an Ihr Web-Team oder Ihre IT-Abteilung.
 
 ![](assets/configuration-8.png)
 
 >[!TIP]
 >
->Suchen Sie unter dem Code nach dem hinzuzufügenden Code, wenn Ihre Site Content-Security-Policy (CSP) verwendet.
+>Nachfolgend finden Sie den Code, der hinzugefügt werden soll, wenn Ihre Site Content-Security-Policy (CSP) verwendet.
 
 >[!NOTE]
 >
->Der Marketo-Support ist nicht für die Fehlerbehebung bei HTML eingerichtet. Wenden Sie sich an einen Web-Entwickler, um Hilfe beim HTML zu erhalten.
+>Der Marketo-Support ist nicht für die Fehlerbehebung beim HTML eingerichtet. Wenn Sie Hilfe beim HTML benötigen, wenden Sie sich bitte an einen Web-Entwickler.

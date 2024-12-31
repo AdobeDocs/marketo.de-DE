@@ -18,25 +18,25 @@ Zeigen Sie in der Agentenverwaltung eine Liste der Agenten in Ihrer Dynamic Chat
 
 ## Agentinnen bzw. Agenten {#agents}
 
-Auf diesem Tab werden alle Agenten in Ihrer Dynamic Chat-Instanz aufgelistet und Informationen wie Name, E-Mail-Adresse, Status des Live-Chat und mehr enthalten.
+Auf dieser Registerkarte werden alle Agenten in Ihrer Dynamic Chat-Instanz aufgelistet. Sie enthält Informationen wie Namen, E-Mail-Adresse, Live-Chat-Status und mehr.
 
 ![](assets/agent-management-2.png)
 
 >[!NOTE]
 >
->Siehst du keinen Agenten, den du _gerade_ hinzugefügt hast? Es kann bis zu zwei Stunden dauern, bis sie hier angezeigt werden, nachdem sie in der Adobe Admin Console hinzugefügt wurden.
+>Erscheint kein Agent, den Sie _gerade_ hinzugefügt haben? Es kann bis zu zwei Stunden dauern, bis sie hier angezeigt werden, nachdem sie in der Adobe Admin Console hinzugefügt wurden.
 
 ## Teams {#teams}
 
-Administratoren können Teams von Agenten erstellen, um das Routing zu bestimmten Gruppen von Vertriebsmitarbeitern zu erleichtern.
+Administratoren können Agententeams erstellen, um die Weiterleitung an bestimmte Gruppen von Kundendienstmitarbeitern zu erleichtern.
 
 >[!AVAILABILITY]
 >
->Für den Zugriff auf Teams ist ein Dynamic Chat Prime-Abonnement erforderlich. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).
+>Der Zugriff auf Teams erfordert ein Dynamic Chat Prime-Abonnement. Weitere Informationen erhalten Sie beim Adobe Account Team (Ihrem Account Manager).
 
 ![](assets/agent-management-3.png)
 
-### Team erstellen {#create-a-team}
+### Erstellen eines Teams {#create-a-team}
 
 1. Klicken Sie auf **+ Team erstellen**.
 
@@ -46,7 +46,7 @@ Administratoren können Teams von Agenten erstellen, um das Routing zu bestimmte
 
    ![](assets/agent-management-5.png)
 
-1. Klicken Sie auf die Dropdownliste **Agenten hinzufügen** und wählen Sie die gewünschten Agenten aus.
+1. Klicken Sie auf **Agenten hinzufügen** und wählen Sie die gewünschten Agenten aus.
 
    ![](assets/agent-management-6.png)
 
@@ -56,22 +56,22 @@ Administratoren können Teams von Agenten erstellen, um das Routing zu bestimmte
 
 ## Fallback-Regeln {#fallback-rules}
 
-### Sitzungsausfall {#meeting-fallback}
+### Meeting-Fallback {#meeting-fallback}
 
-Wählen Sie eine Standardnachricht (System) aus oder schreiben Sie eine benutzerdefinierte Nachricht, damit Besucher sehen können, ob die Meetingbuchung nicht verfügbar ist.
+Wählen Sie eine Standard-(System-)Nachricht aus oder schreiben Sie eine benutzerdefinierte Nachricht, die Besucher sehen können, wenn die Besprechungsbuchung nicht verfügbar ist.
 
 ![](assets/agent-management-8.png)
 
-### Fallback beim Live-Chat {#live-chat-fallback}
+### Fallback zum Live-Chat {#live-chat-fallback}
 
-Wählen Sie eine Standardnachricht (System) aus oder schreiben Sie eine benutzerdefinierte Nachricht, damit Besucher sehen können, wann der Live-Chat nicht verfügbar ist.
+Wählen Sie eine Standardnachricht (System) aus oder schreiben Sie eine benutzerdefinierte Nachricht, die Besuchenden angezeigt wird, wenn der Live-Chat nicht verfügbar ist.
 
 ![](assets/agent-management-9.png)
 
 >[!NOTE]
 >
->Wenn Sie das Kontrollkästchen **Sitzungsbuchungsoption einschließen** aktivieren, können Sie dem Chatbesucher die Möglichkeit geben, ein Meeting zu buchen, wenn keine Agenten für den Live-Chat verfügbar sind.
+>Wenn Sie das Kontrollkästchen **Buchungsoption für Besprechungen einschließen** aktivieren, hat der Chat-Besucher die Möglichkeit, ein Meeting zu buchen, wenn keine Agenten für den Live-Chat verfügbar sind.
 
 >[!TIP]
 >
->Beim Erstellen einer benutzerdefinierten Nachricht können Sie die Schriftart formatieren, Links verwenden und sogar Emojis einfügen! `:)`
+>Beim Erstellen einer benutzerdefinierten Nachricht können Sie die Schriftart gestalten, Links verwenden oder sogar Emojis einfügen! `:)`

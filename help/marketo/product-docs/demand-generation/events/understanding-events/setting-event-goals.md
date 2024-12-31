@@ -18,32 +18,32 @@ Geben Sie Ihren Ereignissen spezifische Ziele und sehen Sie, wie sie funktionier
 
 >[!IMPORTANT]
 >
->Nicht jeder hat diese Funktion erworben. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).
+>Nicht jeder hat diese Funktion erworben. Weitere Informationen erhalten Sie beim Adobe Account Team (Ihrem Account Manager).
 
 1. Erstellen Sie ein Veranstaltungsprogramm.
 
    ![](assets/setting-event-goals-1.png)
 
-1. Wählen Sie den Ordner [!UICONTROL Kampagne] aus, geben Sie Ihrem Ereignis den Namen [!UICONTROL 3}, wählen Sie den [!UICONTROL Programmtyp] und den Kanal [!UICONTROL  aus. ]] Klicken Sie abschließend auf **[!UICONTROL Erstellen]** .
+1. Wählen Sie den [!UICONTROL Kampagnenordner], geben Sie Ihrem Ereignis einen [!UICONTROL Namen], wählen Sie den [!UICONTROL Programmtyp] und [!UICONTROL Kanal]. Klicken Sie **[!UICONTROL Erstellen]** wenn Sie fertig sind.
 
    ![](assets/setting-event-goals-2.png)
 
-1. Klicken Sie in Ihrem Ereignis auf die Registerkarte **[!UICONTROL Berichte]** .
+1. Klicken Sie in Ihrem Ereignis auf die Registerkarte **[!UICONTROL Berichte]**.
 
    ![](assets/setting-event-goals-3.png)
 
-1. Geben Sie das Ziel für [!UICONTROL Registriert] ein, indem Sie auf **[!UICONTROL Ziel festlegen]** klicken. Geben Sie die Zahl in ein und drücken Sie die Eingabetaste.
+1. Geben Sie das Ziel für [!UICONTROL Registriert] ein, indem **[!UICONTROL Ziel festlegen]** klicken. Geben Sie die Zahl in ein und drücken Sie die Eingabetaste.
 
    ![](assets/setting-event-goals-4.png)
 
    ![](assets/setting-event-goals-5.png)
 
-1. Wiederholen Sie die gleichen Schritte für [!UICONTROL Geteilt].
+1. Wiederholen Sie die gleichen Schritte für [!UICONTROL Teilgenommen].
 
    ![](assets/setting-event-goals-6.png)
 
 >[!NOTE]
 >
->Sie können für ein Ereignis nach dem Start keine Ziele festlegen.
+>Sie können keine Ziele für ein Ereignis festlegen, nachdem es gestartet wurde.
 
-Und das ist es! Überprüfen Sie den Status Ihres Ereignisziels durch Klicken auf die Registerkarte [!UICONTROL Berichte] .
+Und das war&#39;s! Überprüfen Sie den Status Ihres Ereignisziels, indem Sie auf die Registerkarte [!UICONTROL Berichte] klicken.

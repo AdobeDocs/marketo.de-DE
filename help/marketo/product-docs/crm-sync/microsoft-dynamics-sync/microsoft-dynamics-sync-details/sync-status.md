@@ -13,41 +13,41 @@ ht-degree: 2%
 
 # Synchronisierungsstatus {#sync-status}
 
-Auf den Registerkarten Synchronisierungsstatus und Synchronisierungsfehler können Sie den aktuellen Durchsatz und den Rückstand des Synchronisierungsprozesses im Auge behalten.
+Sie können den aktuellen Durchsatz und den Rückstand des Synchronisierungsprozesses auf den Registerkarten Synchronisierungsstatus und Synchronisierungsfehler überwachen.
 
-## Registerkarte &quot;Synchronisierungsstatus&quot; {#sync-status-tab}
+## Registerkarte „Synchronisierungsstatus“ {#sync-status-tab}
 
-1. Klicken Sie auf **[!UICONTROL Admin]** und dann auf **[!UICONTROL Microsoft Dynamics]**.
+1. Klicken Sie **[!UICONTROL Admin]** gefolgt von **[!UICONTROL Microsoft Dynamics]**.
 
    ![](assets/image2016-1-20-11-3a34-3a14.png)
 
-1. Klicken Sie auf die Registerkarte **[!UICONTROL Synchronisierungsstatus]**.
+1. Klicken Sie auf **[!UICONTROL Registerkarte]** Synchronisierungsstatus“.
 
    ![](assets/image2016-5-19-10-3a1-3a11.png)
 
-   Diese Tabelle zeigt den Rückstand der Einfügungen und Aktualisierungen, die noch nicht synchronisiert wurden, für jedes Objekt.
+   Diese Tabelle zeigt den Rückstand der Einfügungen und Aktualisierungen an, die noch nicht für jedes Objekt synchronisiert wurden.
 
-1. Doppelklicken Sie auf eine beliebige Zeile, um Opportunitätsinformationen anzuzeigen.
+1. Doppelklicken Sie auf eine beliebige Zeile, um Opportunity-Informationen anzuzeigen.
 
    ![](assets/image2016-5-19-10-3a3-3a21.png)
 
-   Die Details des Synchronisierungsstatus werden nach Einfügungen und Aktualisierungen sowie ältesten Einfüge- und Aktualisierungsdatensätzen aufgeschlüsselt.
+   Die Details zum Synchronisierungsstatus werden nach Einfügungen und Aktualisierungen sowie nach den ältesten Einfügungen und Aktualisierungen aufgeschlüsselt.
 
    ![](assets/image2016-1-22-10-3a51-3a10.png)
 
-1. Klicken Sie auf das Dropdown-Menü **[!UICONTROL Ansicht]** und wählen Sie **[!UICONTROL Letzte Stunde]** aus, um Informationen zum Durchsatz anzuzeigen.
+1. Klicken Sie auf **[!UICONTROL Ansicht]** und wählen Sie **[!UICONTROL Letzte Stunde]** aus, um Durchsatzinformationen anzuzeigen.
 
    ![](assets/image2016-5-19-10-3a20-3a7.png)
 
-   Die Anzeige zeigt nun die Anzahl der in der letzten vollen Stunde synchronisierten Datensätze an (z. B. 1-2 Uhr).
+   Im Display wird nun die Anzahl der Datensätze angezeigt, die in der letzten vollen Stunde synchronisiert wurden (z. B. 1-14 Uhr).
 
    ![](assets/image2016-5-19-10-3a22-3a15.png)
 
    >[!NOTE]
    >
-   >Wenn Sie sich die Ansicht &quot;Letzte Stunde&quot;ansehen, wird in den Spalten &quot;Einfügungen und Aktualisierungen&quot;die Option &quot;Nicht zutreffend&quot;angezeigt. Dies ist das erwartete Verhalten.
+   >Wenn Sie die Ansicht „Letzte Stunde“ betrachten, werden in den Spalten Einfügungen und Aktualisierungen K. A. angezeigt. Dies ist das erwartete Verhalten.
 
-## Registerkarte &quot;Fehler synchronisieren&quot; {#sync-errors-tab}
+## Registerkarte Synchronisierungsfehler {#sync-errors-tab}
 
 Durchsuchen, Suchen oder Exportieren von Leads (und anderen Objekten), die nicht mit Details wie Vorgang, Richtung, Fehlercode und Fehlermeldung synchronisiert werden konnten.
 

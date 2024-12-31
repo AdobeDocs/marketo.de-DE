@@ -1,7 +1,7 @@
 ---
 unique-page-id: 4719314
 description: Standardmäßige Salesforce-Feldzuordnung - Marketo-Dokumente - Produktdokumentation
-title: Standardmäßige Zuordnung von Salesforce-Feldern
+title: Standardmäßige Salesforce-Feldzuordnung
 exl-id: d6639733-f85d-4f4c-ac41-5d2a68a9c6b2
 feature: Salesforce Integration
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
@@ -11,17 +11,17 @@ ht-degree: 59%
 
 ---
 
-# Standardmäßige Zuordnung von Salesforce-Feldern {#default-salesforce-field-mapping}
+# Standardmäßige Salesforce-Feldzuordnung {#default-salesforce-field-mapping}
 
-Wenn Sie Ihr Marketo Engage-Konto zum ersten Mal mit Salesforce synchronisieren, stellt Marketo diese Verknüpfungen automatisch zwischen Ihren integrierten Salesforce- und Marketo-Feldern her. Marketo synchronisiert auch Ihre benutzerdefinierten Felder mit Ihren Leads, Konten, Chancen und Kontakten.
+Wenn Sie Ihr Marketo Engage-Konto zum ersten Mal mit Salesforce synchronisieren, führt Marketo diese Verknüpfungen zwischen Ihren integrierten Salesforce- und Marketo-Feldern automatisch durch. Marketo synchronisiert auch Ihre benutzerdefinierten Felder für Leads, Konten, Chancen und Kontakte.
 
 ## Lead-Felder {#lead-fields}
 
 | SFDC-Feld | Marketo-Feld |
 |---|---|
 | Jahresumsatz | Jahresumsatz |
-| Ort | Ort |
-| Unternehmen | Unternehmensname |
+| Stadt | Stadt |
+| Unternehmen | Firmenname |
 | Konvertiertes Datum | SFDC – Konvertiertes Datum |
 | Land | Land |
 | Erstellungsdatum | SFDC-Erstellungsdatum |
@@ -35,14 +35,14 @@ Wenn Sie Ihr Marketo Engage-Konto zum ersten Mal mit Salesforce synchronisieren,
 | Gelöscht | SFDC wurde gelöscht |
 | Nachname | Nachname |
 | Lead-Quelle | Quelle |
-| Lead-Bewertung | Bewertung |
+| Lead-Bewertung | Ergebnis |
 | Mobiltelefon | Mobiltelefonnummer |
 | Mitarbeiter | Anzahl Mitarbeiter |
 | Telefon | Telefonnummer |
 | PLZ | Postleitzahl |
-| Bewertung | Bewertung |
+| Rating | Rating |
 | Anrede | Anrede |
-| Bundesland/Kanton | Bundesland |
+| Bundesland/Provinz | Land |
 | Status | Status |
 | Straße | Adresse |
 | Titel | Jobtitel |
@@ -56,17 +56,17 @@ Wenn Sie Ihr Marketo Engage-Konto zum ersten Mal mit Salesforce synchronisieren,
 | Erstellungsdatum | SFDC Created Date |
 | Kontaktbeschreibung | Personenhinweise |
 | E-Mail | E-Mail-Adresse |
-| Business Fax | Faxnummer |
+| Fax (geschäftlich) | Faxnummer |
 | Vorname | Vorname |
 | E-Mail-Abmeldung | Abbestellt |
 | Gelöscht | SFDC wurde gelöscht |
 | Nachname | Nachname |
 | Lead-Quelle | Quelle |
-| Lead-Bewertung | Bewertung |
-| MailingCity | Ort |
+| Lead-Bewertung | Ergebnis |
+| MailingCity | Stadt |
 | MailingCountry | Land |
 | MailingPostalCode | Postleitzahl |
-| MailingState | Bundesland |
+| MailingState | Land |
 | MailingStreet | Adresse |
 | Mobiltelefon | Mobiltelefonnummer |
 | Geschäftstelefon | Telefonnummer |
@@ -80,27 +80,27 @@ Wenn Sie Ihr Marketo Engage-Konto zum ersten Mal mit Salesforce synchronisieren,
 | Jahresumsatz | Jahresumsatz |
 | Abrechnungsort | Abrechnungsort |
 | Abrechnungsland | Abrechnungsland |
-| Postleitzahl der Abrechnung | Postleitzahl für Abrechnung |
-| Abrechnungsstaat/Provinz | Bundesland für Abrechnung |
-| Billing Street | Rechnungsadresse |
+| Postleitzahl für die Rechnungsstellung | Postleitzahl für Abrechnung |
+| Fakturastaat/Provinz | Bundesland für Abrechnung |
+| Abrechnungsstraße | Rechnungsadresse |
 | Kontobeschreibung | Unternehmenshinweise |
 | Branche | Branche |
 | Gelöscht | SFDC wurde gelöscht |
-| Kontoname | Unternehmensname |
+| Kontoname | Firmenname |
 | Mitarbeiter | Anzahl Mitarbeiter |
-| Konto-Telefon | Haupttelefonnummer |
+| Telefonnummer des Kontos | Haupttelefonnummer |
 | SIC-Code | SIC-Code |
-| Kontoseite | Seite |
+| Konto-Website | Seite |
 | Kontotyp | SFDC-Typ |
 | Website | Website |
 
 ## Salesforce-bezogene Systemfelder in Marketo (schreibgeschützt) {#salesforce-related-system-fields-in-marketo-read-only}
 
-Diese Felder werden in Marketo erstellt, können jedoch nicht von den Kunden angepasst werden.
+Diese Felder werden in Marketo erstellt, können von Kunden jedoch nicht angepasst werden.
 
 | Feld | Beschreibung |
 |---|---|
-| SFDC-ID | Die Salesforce-ID mit 18 Zeichen |
+| SFDC-ID | Die 18-stellige Salesforce ID |
 | SFDC-Typ | Lead oder Kontakt. Wenn leer, ist der Lead nur als Person in Marketo vorhanden |
-| SFDC Created Date | In SFDC erstelltes Datum (kann sich von dem in Marketo erstellten unterscheiden) |
-| SFDC wird gelöscht | Person, die früher Teil des SFDC war, aber gelöscht wurde und jetzt nur noch in Marketo lebt |
+| SFDC Created Date | Erstellungsdatum in SFDC (kann sich von dem in Marketo unterscheiden) |
+| SFDC wird gelöscht | Person war früher in SFDC, wurde jedoch gelöscht und lebt jetzt nur noch in Marketo |

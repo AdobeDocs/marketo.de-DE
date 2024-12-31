@@ -1,58 +1,58 @@
 ---
 unique-page-id: 2359675
-description: Vorbefüllen für ein Formularfeld deaktivieren - Marketo-Dokumente - Produktdokumentation
-title: Vorbefüllen für Formularfelder deaktivieren
+description: Deaktivieren des Vorbefüllens für ein Formularfeld - Marketo-Dokumente - Produktdokumentation
+title: Deaktivieren des Vorbefüllens für ein Formularfeld
 exl-id: c600e0ce-1b94-4f7b-b75d-f550a2904799
 feature: Forms
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '169'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Vorbefüllen für Formularfelder deaktivieren {#disable-pre-fill-for-a-form-field}
+# Deaktivieren des Vorbefüllens für ein Formularfeld {#disable-pre-fill-for-a-form-field}
 
-Wenn ein Webbesucher bekannt ist (Cookie), füllen Marketo-Formulare standardmäßig Felder mit den zugehörigen Informationen aus. Wenn du das ausschalten willst, hier ist, wie man es macht.
+Wenn ein Web-Besucher bekannt ist (Cookies), füllt Marketo Forms Felder standardmäßig mit seinen Informationen vor. Wenn Sie das deaktivieren möchten, sehen Sie hier, wie das geht.
 
 >[!NOTE]
 >
->**Das Vorausfüllen des Formulars** ist standardmäßig aktiviert. Die Einstellungen für das Vorausfüllen auf Landingpage-Ebene und die Einstellungen für das Vorausfüllen auf Administratorebene überspringen die Einstellung auf Formularebene:
+>**Formularvorausfüllung** ist standardmäßig aktiviert. Die Einstellungen für das Vorausfüllen auf Landingpage-Ebene und das Vorausfüllen auf Admin-Ebene übertreffen die Einstellung auf Formularebene:
 >
 >Formular > Landingpage > Admin
 
 ## Deaktivieren der Vorbefüllung {#how-to-disable-pre-fill}
 
-1. Wechseln Sie zu **Marketingaktivitäten**.
+1. Navigieren Sie **Marketing-Aktivitäten**.
 
    ![](assets/login-marketing-activities-7.png)
 
-1. Wählen Sie das Formular aus und klicken Sie auf **Formular bearbeiten**.
+1. Wählen Sie Ihr Formular aus und klicken Sie auf **Formular bearbeiten**.
 
    ![](assets/image2014-9-15-14-3a26-3a46.png)
 
    >[!CAUTION]
    >
-   >Das Vorausfüllen des Formulars funktioniert nicht, wenn Sie ein Formular auf Ihren eigenen Seiten einbetten. Dies funktioniert nur auf Marketo-Landingpages.
+   >Das Vorausfüllen von Formularen funktioniert nicht, wenn Sie ein Formular auf Ihre eigenen Seiten einbetten. Dies funktioniert nur auf Marketo-Landingpages.
 
-1. Wählen Sie eines der Felder aus und setzen Sie **Vorab-Ausfüllen des Formulars** auf **Deaktiviert**.
+1. Wählen Sie eines der Felder aus und setzen **Formularvorausfüllung** auf **Deaktiviert**.
 
    ![](assets/image2014-9-15-14-3a26-3a54.png)
 
    >[!TIP]
    >
-   >Sie können das Vorausfüllen von Formularen auch auf Landingpage-Ebene oder auf Administratorebene deaktivieren.
+   >Sie können das Vorausfüllen von Formularen auch auf der Landingpage-Ebene oder auf der Admin-Ebene deaktivieren.
 
-1. Klicken Sie auf **Beenden**.
+1. Klicken Sie auf **Fertigstellen**.
 
    ![](assets/image2014-9-15-14-3a27-3a1.png)
 
-1. Klicken Sie auf **Genehmigen und schließen**.
+1. Klicken Sie **Genehmigen und schließen**.
 
    ![](assets/image2014-9-15-14-3a27-3a6.png)
 
 ## Sensible Felder {#sensitive-fields}
 
-Wenn Sie [ein Feld als vertraulich markieren](/help/marketo/product-docs/administration/field-management/mark-a-field-as-sensitive.md) und dadurch verhindern, dass seine Werte in Formularen vorausgefüllt werden, wird dies in der Option &quot;Vorausfüllen&quot;angezeigt.
+Wenn Sie [ein Feld als sensibel markieren](/help/marketo/product-docs/administration/field-management/mark-a-field-as-sensitive.md) und so verhindern, dass seine Werte in Formularen vorausgefüllt werden, wird dies in der Option „Vorbefüllen“ angezeigt.
 
 ![](assets/disable-pre-fill.png)

@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2949844
-description: Neues Ereignisprogramm erstellen - Marketo-Dokumente - Produktdokumentation
-title: Neues Ereignisprogramm erstellen
+description: Erstellen eines neuen Veranstaltungsprogramms - Marketo-Dokumente - Produktdokumentation
+title: Erstellen eines neuen Veranstaltungsprogramms
 exl-id: 095d59d7-a4d7-4e0a-b34b-7d25074e6959
 feature: Events
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,19 +11,19 @@ ht-degree: 1%
 
 ---
 
-# Neues Ereignisprogramm erstellen {#create-a-new-event-program}
+# Erstellen eines neuen Veranstaltungsprogramms {#create-a-new-event-program}
 
-Mit Ereignissen können Sie Online- und Offline-Ereignisse automatisieren! Erfassen Sie den Status Ihrer Personen, während sie sich durch verschiedene Phasen bewegen, und erhalten Sie genaue Messungen des ROI für Ihre Marketinginitiativen.
+Mit Events können Sie Online- und Offline-Events automatisieren! Erfassen Sie den Status Ihrer Mitarbeiter, während sie verschiedene Phasen durchlaufen, und erhalten Sie genaue Messwerte für den ROI für Ihre Marketing-Initiativen.
 
-1. Wechseln Sie zu **Marketingaktivitäten**.
+1. Navigieren Sie **Marketing-Aktivitäten**.
 
    ![](assets/ma.png)
 
-1. Wählen Sie den Ordner für das neue Programm aus. Wählen Sie **Neu** und klicken Sie auf **Neues Programm**.
+1. Ordner für das neue Programm auswählen. Wählen Sie **Neu** und klicken Sie auf **Neues Programm**.
 
    ![](assets/image2015-2-26-14-3a24-3a30.png)
 
-1. Wählen Sie einen Namen für Ihr Ereignis aus. Wählen Sie dann unter **Programmtyp** die Option **Ereignis** aus.
+1. Wählen Sie einen Namen für Ihr Ereignis. Wählen Sie dann unter **Programmtyp** die Option **Ereignis** aus.
 
    ![](assets/image2015-2-26-14-3a26-3a6.png)
 
@@ -39,21 +39,21 @@ Mit Ereignissen können Sie Online- und Offline-Ereignisse automatisieren! Erfas
 
    ![](assets/image2015-2-26-14-3a33-3a17.png)
 
-   Ta-da! Ihr neues Ereignis wird jetzt im Baum angezeigt.
+   Ta-da! Ihr neues Ereignis wird jetzt in der Baumstruktur angezeigt.
 
    ![](assets/image2015-2-26-14-3a34-3a33.png)
 
-1. Um Ihr Ereignis zu planen, wählen Sie **Zeitplanansicht** aus und klicken Sie im Kalender auf diese Ansicht, um das Popup zu öffnen. Geben Sie Datum und Uhrzeit ein.
+1. Um das Ereignis zu planen, wählen **Ansicht planen** und klicken Sie im Kalender darauf, um das Popup zu öffnen. Datum und Uhrzeit eingeben.
 
    ![](assets/image2016-3-25-14-3a17-3a33.png)
 
-1. Schieben Sie die Leiste nach Abschluss in **Bestätigt**.
+1. Schieben Sie die Leiste nach **Bestätigt** wenn Sie fertig sind.
 
    ![](assets/image2016-3-25-14-3a18-3a13.png)
 
-Nachdem Ihr Ereignis erstellt wurde, erstellen Sie die [Landingpages](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md), [Formulare](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) und [E-Mails](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md), um Ihre Gäste einzuladen! Außerdem sollten Sie sich mit der [Programmplanungsansicht](https://docs.marketo.com/display/docs/program+schedule+view) vertraut machen.
+Erstellen Sie nach der Erstellung Ihres Ereignisses die [Landingpages](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md), [Formulare](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) und [E-Mails](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md), um Ihre Gäste einzuladen! Sie sollten sich auch mit der Ansicht [Programmzeitplan“ ](https://docs.marketo.com/display/docs/program+schedule+view).
 
 >[!MORELIKETHIS]
 >
->* [Marketingkalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md)
->* [Verwenden von Periodenkosten in einem Programm](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
+>* [Marketing-Kalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md)
+>* [Periodenkosten in einem Programm verwenden](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)

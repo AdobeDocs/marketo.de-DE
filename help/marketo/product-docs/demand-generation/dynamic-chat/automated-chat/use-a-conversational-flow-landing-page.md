@@ -1,6 +1,6 @@
 ---
-description: Landingpage für konversalen Fluss verwenden - Marketo-Dokumente - Produktdokumentation
-title: Landingpage für Konversionsfluss verwenden
+description: Verwenden einer Gesprächsfluss-Landingpage - Marketo-Dokumente - Produktdokumentation
+title: Verwenden einer Landingpage des Dialogflusses
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
@@ -11,25 +11,25 @@ ht-degree: 1%
 
 ---
 
-# Landingpage für Konversionsfluss verwenden{#use-a-conversational-flow-landing-page}
+# Verwenden einer Landingpage des Dialogflusses{#use-a-conversational-flow-landing-page}
 
-Durch das Einbetten eines Dynamic Chat-Konversationsflusses direkt in eine Marketo Engage-Landingpage können Besucher ein Treffen über Dynamic Chat planen, ohne ein Formular ausfüllen oder mit einem Chat-Bot interagieren zu müssen.
+Wenn Sie einen Dynamic Chat-Konversationsfluss direkt in eine Marketo Engage-Landingpage einbetten, können Besuchende ein Meeting per Dynamic Chat planen, ohne ein Formular ausfüllen oder mit einem Chatbot interagieren zu müssen.
 
 >[!PREREQUISITES]
 >
->Erstellen Sie einen einfachen [Konversationsfluss](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md), der nur eine **Sitzungsbuchungskarte** enthält.
+>Erstellen Sie einen einfachen [Konversationsfluss](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md) der nur eine Karte **Meeting-Buchung** enthält.
 
-## Geführte Einstiegsseiten {#guided-landing-pages}
+## Geführte Landingpages {#guided-landing-pages}
 
-Betten Sie den folgenden Code in Ihre Vorlage für die geführte Einstiegsseite ein: `<div class="mktoConversation" id="exampleConversation" mktoName= "Example Conversation"></div>`.
+Betten Sie den folgenden Code in Ihre Vorlage für die geführte Landingpage ein: `<div class="mktoConversation" id="exampleConversation" mktoName= "Example Conversation"></div>`.
 
-Öffnen Sie die Vorlage für die geführte Einstiegsseite im Editor und wählen Sie den Platzhalter für den Konversationsfluss aus.
+Öffnen Sie die Vorlage Geführte Landingpage im Editor und wählen Sie den Platzhalter Konversationsfluss aus.
 
-Klicken Sie auf die Dropdown-Liste Konversionsfluss und wählen Sie den Inhaltsordner aus, den Sie in Schritt 1 erstellt haben.
+Klicken Sie auf die Dropdown-Liste Konversationsfluss und wählen Sie die Inhaltsfragmente aus, die Sie in Schritt 1 erstellt haben.
 
-Behalten Sie den Bereitstellungstyp immer als **In-line** bei. Klicken Sie auf **Einfügen**.
+Versand-Typ immer als **Inline** beibehalten. Klicken Sie auf **Einfügen**.
 
-Der soeben eingegebene Konversationsfluss erscheint als Element auf der rechten Seite.
+Der soeben eingegebene Konversationsfluss wird als Element auf der rechten Seite angezeigt.
 
 SCREENSHOT
 
@@ -37,14 +37,14 @@ SCREENSHOT
 >
 >Zu diesem Zeitpunkt wird der Konversationsfluss nicht im Hauptvorschaufenster angezeigt.
 
-## Freiform-Einstiegsseiten {#free-form-landing-pages}
+## Freiform-Landingpages {#free-form-landing-pages}
 
 Text
 
 
-HINWEISE VON SCHRITTSMEETING
+NOTIZEN VON STEVE MEETING
 
-geführter lp, neue div id für Vorlage, Konvertierungsfluss wählen
+Geführte LP, neue div id für Vorlage, wählen Sie conv flow
 
-Freeform lp, Übermittlungssymbol - Caveat: add note - Wenn Sie cf im Editor platzieren, wird Ihnen keine Vorschau angezeigt (auch kein Platzhalter) - &quot;Sie werden keine Vorschau sehen&quot;- in der Seitenleiste wird angezeigt, dass sich der cf auf der Seite befindet - &quot;Geführte Seite listet ihn als Element auf - verwenden Sie &quot;zu diesem Zeitpunkt&quot; bei der Erläuterung - Funktion wird möglicherweise in der 22. Woche live geschaltet
+Freiform-LP, Symbol „Über“ - Hinweis hinzufügen - Wenn Sie CF im Editor platzieren, wird keine Vorschau angezeigt (auch kein Platzhalter) - „Sie werden keine Vorschau sehen“ - In der Seitenleiste sehen sie, dass sich die CF auf der Seite befindet - Geführte LP listet sie als Element auf - Verwenden Sie „zu diesem Zeitpunkt“, wenn Sie erklären - Funktion wird möglicherweise in der Woche vom 22. verfügbar
 

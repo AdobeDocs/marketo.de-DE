@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Aktivieren der Synchronisierung für eine benutzerdefinierte Entität {#enable-sync-for-a-custom-entity}
 
-Wenn Sie benutzerdefinierte Entitätsdaten aus Dynamics benötigen, um auf Marketo Engage verfügbar zu sein, finden Sie hier eine Möglichkeit, die Synchronisierung dafür zu aktivieren. **Administratorberechtigungen sind erforderlich**.
+Wenn benutzerdefinierte Entitätsdaten von Dynamics auf Marketo Engage verfügbar sein sollen, sehen Sie hier, wie Sie die Synchronisierung dafür aktivieren. **Administratorberechtigungen sind erforderlich**.
 
 >[!PREREQUISITES]
 >
@@ -21,18 +21,18 @@ Wenn Sie benutzerdefinierte Entitätsdaten aus Dynamics benötigen, um auf Marke
 
 >[!NOTE]
 >
->* Wenn Sie die Synchronisierung für eine benutzerdefinierte Entität aktivieren, führt Marketo eine erste Synchronisierung durch, um alle Daten für das benutzerdefinierte Objekt einzubringen.
->* Die Mitglieder der Marketing-Liste und der Marketing-Liste werden derzeit _nicht unterstützt_.
+>* Wenn Sie die Synchronisierung für eine benutzerdefinierte Entität aktivieren, führt Marketo eine Erstsynchronisierung durch, um alle Daten für das benutzerdefinierte Objekt einzubringen.
+>* Mitglieder von Marketing-Listen und Marketing-Listen _derzeit nicht_.
 
 >[!IMPORTANT]
 >
->Der Marketo Sync User benötigt Lesezugriff auf das benutzerdefinierte Objekt, um es aufzulisten und eine Synchronisierung durchzuführen.
+>Der Marketo-Synchronisierungsbenutzer benötigt Lesezugriff auf das benutzerdefinierte Objekt, um es aufzulisten und eine Synchronisierung mit ihm durchzuführen.
 
-1. Wechseln Sie zum Abschnitt **[!UICONTROL Admin]** .
+1. Navigieren Sie zum Abschnitt **[!UICONTROL Admin]**.
 
    ![](assets/enable-sync-for-a-custom-entity-1.png)
 
-1. Wählen Sie **[!UICONTROL Microsoft Dynamics]** und klicken Sie auf **[!UICONTROL Synchronisierung deaktivieren]**.
+1. Wählen Sie **[!UICONTROL Microsoft Dynamics]** aus und klicken Sie auf **[!UICONTROL Synchronisierung deaktivieren]**.
 
    ![](assets/enable-sync-for-a-custom-entity-2.png)
 
@@ -40,27 +40,27 @@ Wenn Sie benutzerdefinierte Entitätsdaten aus Dynamics benötigen, um auf Marke
    >
    >Sie müssen die globale Synchronisierung vorübergehend deaktivieren, um eine benutzerdefinierte Entität zu aktivieren oder zu deaktivieren.
 
-1. Klicken Sie unter &quot;Datenbankverwaltung&quot;auf **[!UICONTROL Synchronisation von Dynamics-Entitäten]**.
+1. Klicken Sie unter „Datenbankverwaltung“ auf **[!UICONTROL Dynamics-Entitäten synchronisieren]**.
 
    ![](assets/enable-sync-for-a-custom-entity-3.png)
 
-1. Klicken Sie auf **[!UICONTROL Schema synchronisieren]**.
+1. Klicken Sie **[!UICONTROL Schema synchronisieren]**.
 
    ![](assets/enable-sync-for-a-custom-entity-4.png)
 
-1. Wählen Sie die Entität aus, die Sie synchronisieren möchten, und klicken Sie auf **[!UICONTROL Synchronisation aktivieren]**.
+1. Wählen Sie die zu synchronisierende Entität aus und klicken Sie auf **[!UICONTROL Synchronisierung aktivieren]**.
 
    ![](assets/enable-sync-for-a-custom-entity-5.png)
 
-1. Wählen Sie die Felder aus, die Sie synchronisieren oder als [Begrenzungen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"} und/oder Trigger (für hinzugefügte Datensätze, _nicht_ aktualisiert) in Smart-Listen verwenden möchten. Klicken Sie abschließend auf **[!UICONTROL Synchronisierung aktivieren]**.
+1. Wählen Sie die Felder aus, die Sie synchronisieren oder als [Einschränkungen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"} und/oder Trigger (für hinzugefügte, _aktualisierte Datensätze_ in Smart Lists verwenden möchten. Klicken Sie abschließend auf **[!UICONTROL Synchronisierung aktivieren]**.
 
    ![](assets/enable-sync-for-a-custom-entity-6.png)
 
    >[!NOTE]
    >
-   >Während des Synchronisierungsprozesses werden Sie möglicherweise feststellen, dass das Element &quot;[!UICONTROL Dynamische Entitäten synchronisieren]&quot; aus der Navigationsstruktur verschwindet. Dies ist das erwartete Verhalten und wird nach Abschluss der Synchronisierung wieder angezeigt.
+   >Während des Synchronisierungsvorgangs werden Sie möglicherweise feststellen, dass das Element [!UICONTROL Dynamische Entitäten synchronisieren] aus der Navigationsstruktur verschwindet. Dieses Verhalten ist zu erwarten und wird nach Abschluss der Synchronisierung erneut angezeigt.
 
-1. Die Entität verfügt jetzt über ein grünes Häkchen.
+1. Die Entität weist jetzt ein grünes Häkchen auf.
 
    ![](assets/enable-sync-for-a-custom-entity-7.png)
 
@@ -70,6 +70,6 @@ Wenn Sie benutzerdefinierte Entitätsdaten aus Dynamics benötigen, um auf Marke
 
    >[!NOTE]
    >
-   >* Marketo unterstützt nur benutzerdefinierte Entitäten, die mit Standardentitäten verknüpft sind, die eine oder zwei Ebenen tief sind.
+   >* Marketo unterstützt nur benutzerdefinierte Entitäten, die mit Standardelementen eine oder zwei Ebenen tief verknüpft sind.
    >
-   >* Die benutzerdefinierte Objektstruktur kann dasselbe Objekt mehrmals anzeigen, da sie direkt mit einem der Hauptobjekte verbunden ist (z. B. Leads, Kontakte oder Konten oder indirekte Verbindungen über ein Intermediarobjekt). Wählen Sie in diesem Fall das Objekt aus, das dem Hauptobjekt am nächsten liegt, und wählen Sie nur eines aus. Die mehrfache Auswahl desselben Objekts kann die Synchronisierung dieses benutzerdefinierten Objekts behindern.
+   >* Der benutzerdefinierte Objektbaum kann dasselbe Objekt mehrmals anzeigen, da es direkt mit einem der Hauptobjekte verbunden ist (z. B. Leads, Kontakte, Konten oder indirekte Verbindungen über ein Zwischenobjekt). Wählen Sie in solchen Fällen das Objekt aus, das dem Hauptobjekt am nächsten ist, und wählen Sie nur eines. Die mehrfache Auswahl desselben Objekts kann die Synchronisierung dieses benutzerdefinierten Objekts beeinträchtigen.

@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2359573
-description: Formular-Dankeseite einrichten - Marketo-Dokumente - Produktdokumentation
-title: Formular-Danksagungsseite festlegen
+description: Einrichten eines Formulars - Dankeseite - Marketo-Dokumente - Produktdokumentation
+title: Einrichten eines Formulars für eine Dankeseite
 exl-id: ed221b1c-d6f0-4ee1-b9d3-41112490e070
 feature: Forms
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,39 +11,39 @@ ht-degree: 2%
 
 ---
 
-# Formular-Danksagungsseite festlegen {#set-a-form-thank-you-page}
+# Einrichten eines Formulars für eine Dankeseite {#set-a-form-thank-you-page}
 
-Was passiert, wenn jemand ein Formular ausfüllt? Wo werden sie weitergeleitet? So konfigurieren Sie es.
+Was passiert, wenn jemand ein Formular ausfüllt? Wohin werden sie weitergeleitet? So wird es konfiguriert.
 
 ## Formular bearbeiten {#edit-form}
 
-1. Wechseln Sie zu **Marketingaktivitäten**.
+1. Navigieren Sie **Marketing-Aktivitäten**.
 
    ![](assets/login-marketing-activities-5.png)
 
-1. Wählen Sie das Formular aus und klicken Sie auf **Formular bearbeiten**.
+1. Wählen Sie Ihr Formular aus und klicken Sie auf **Formular bearbeiten**.
 
    ![](assets/image2014-9-15-17-3a34-3a14.png)
 
-1. Klicken Sie unter **Formulaeinstellungen** auf **Einstellungen**.
+1. Klicken Sie unter **Formulareinstellungen** auf **Einstellungen**.
 
    ![](assets/image2014-9-15-17-3a34-3a21.png)
 
-1. Scrollen Sie nach unten zum Abschnitt **Dankeseite** .
+1. Scrollen Sie nach unten zum Abschnitt **Dankeseite**.
 
 ## Auf Seite bleiben {#stay-on-page}
 
-Mit der Option &quot;Auf Seite bleiben&quot;bleibt der Besucher auf derselben Seite, auf der das Formular gesendet wurde.
+Mit der Option Auf Seite bleiben bleibt der Besucher auf derselben Seite, wenn das Formular gesendet wurde.
 
-1. Wählen Sie **Auf Seite bleiben** für **Follow-up zu**.
+1. Wählen Sie **Auf Seite bleiben** für **Follow-up mit** aus.
 
    ![](assets/image2014-9-15-17-3a34-3a35.png)
 
 ## Externe URL {#external-url}
 
-Mit der Einstellung Externe URL können Sie eine beliebige URL als Nachverfolgungsseite definieren. Nachdem der Benutzer das Formular übermittelt hat, wird er an die angegebene URL weitergeleitet.
+Mit der Einstellung Externe URL können Sie eine beliebige URL als Folgeseite definieren. Nachdem der Benutzer das Formular gesendet hat, wird er an die angegebene URL weitergeleitet.
 
-1. Wählen Sie **Externe URL** für **Follow-up mit** aus.
+1. Wählen Sie **Externe URL** für **Folgenachricht** aus.
 
    ![](assets/image2014-9-15-17-3a34-3a45.png)
 
@@ -53,25 +53,25 @@ Mit der Einstellung Externe URL können Sie eine beliebige URL als Nachverfolgun
 
 >[!TIP]
 >
->Die URL kann die einer Datei sein, die irgendwo gehostet wird. Wenn Sie dies tun, verhält sich die Schaltfläche &quot;Senden&quot;wie eine Schaltfläche &quot;Herunterladen&quot;.
+>Die URL kann die einer irgendwo gehosteten Datei sein - in diesem Fall verhält sich die Schaltfläche „Senden“ wie eine Schaltfläche „Herunterladen“.
 
 ## Landingpage {#landing-page}
 
-Sie können eine beliebige genehmigte Marketo-Landingpage als Folgeseite auswählen.
+Als Folgemaßnahme können Sie jede genehmigte Marketo-Landingpage auswählen.
 
-1. Setzen Sie **Follow-up mit** auf **Landingpage**.
+1. Legen **Folgenachricht mit** auf &quot;**&quot;**.
 
    ![](assets/image2014-9-15-17-3a37-3a52.png)
 
-1. Wählen Sie die gewünschte Landingpage aus.
+1. Suchen Sie die gewünschte Landingpage und wählen Sie sie aus.
 
    ![](assets/image2014-9-15-17-3a37-3a59.png)
 
 ## Dynamische Dankeseiten {#dynamic-thank-you-pages}
 
-Sie können mehrere Optionen hinzufügen und in Optionen integrieren, um Benutzern je nach Antwort unterschiedliche Folgenachrichten anzuzeigen.
+Sie können mehrere Optionen hinzufügen und in Optionen integrieren, um Personen je nach ihren Antworten unterschiedliche Folgemaßnahmen anzuzeigen.
 
-1. Klicken Sie auf **Auswahl hinzufügen**.
+1. Klicken Sie **Auswahl hinzufügen**.
 
    ![](assets/image2014-9-15-17-3a38-3a6.png)
 
@@ -81,7 +81,7 @@ Sie können mehrere Optionen hinzufügen und in Optionen integrieren, um Benutze
 
    >[!TIP]
    >
-   >Hierfür stehen nur die dem Formular hinzugefügten Felder zur Verfügung.
+   >Hierfür stehen nur Felder zur Verfügung, die dem Formular hinzugefügt wurden.
 
 1. Wählen Sie den gewünschten logischen Operator aus.
 
@@ -91,7 +91,7 @@ Sie können mehrere Optionen hinzufügen und in Optionen integrieren, um Benutze
 
    ![](assets/image2014-9-15-17-3a38-3a40.png)
 
-1. Wählen Sie die entsprechende Seite für den Typ **Follow-up mit** aus.
+1. Wählen Sie die entsprechende Seite für den **Follow-up mit**-Typ aus.
 
    ![](assets/image2014-9-15-17-3a38-3a51.png)
 
@@ -101,23 +101,23 @@ Sie können mehrere Optionen hinzufügen und in Optionen integrieren, um Benutze
 
    >[!NOTE]
    >
-   >Sie müssen diese Landingpages zuvor erstellt/genehmigt haben.
+   >Sie müssen diese Landingpages im Voraus erstellt/genehmigt haben.
 
-1. Klicken Sie auf das Symbol **+** , um eine weitere Auswahl hinzuzufügen.
+1. Klicken Sie auf das **+**, um eine weitere Auswahl hinzuzufügen.
 
    ![](assets/image2014-9-15-17-3a39-3a25.png)
 
    >[!NOTE]
    >
-   >Sie können mehrere Auswahlmöglichkeiten hinzufügen. Wenn Sie jedoch zu viele hinzufügen, kann sich dies auf die Ladegeschwindigkeit des Formulars auswirken, sodass nur das hinzugefügt wird, was Sie benötigen.
+   >Sie können mehrere Auswahlmöglichkeiten hinzufügen. Wenn Sie jedoch zu viele hinzufügen, kann sich dies auf die Ladegeschwindigkeit des Formulars auswirken. Fügen Sie also nur das hinzu, was Sie benötigen.
 
-1. Gehen Sie durch und richten Sie **Auswahl 2** ein.
+1. Gehen Sie durch und richten Sie **Choice 2** ein.
 
    ![](assets/image2014-9-15-17-3a39-3a44.png)
 
    >[!TIP]
    >
-   >Sie können beliebig verschiedene Folgetypen mischen und abgleichen. Sie können eine Landingpage für eine Auswahl und eine URL für eine andere verwenden.
+   >Sie können Folgetypen beliebig kombinieren. Sie können für eine Auswahl eine Landingpage und für eine andere eine URL verwenden.
 
 1. Legen Sie eine Standardseite für alle anderen Antworten fest.
 
@@ -131,11 +131,11 @@ Sie können mehrere Optionen hinzufügen und in Optionen integrieren, um Benutze
 
    ![](assets/image2014-9-15-17-3a40-3a34.png)
 
-1. Klicken Sie auf **Beenden**.
+1. Klicken Sie auf **Fertigstellen**.
 
    ![](assets/image2014-9-15-17-3a40-3a42.png)
 
-1. Klicken Sie auf **Genehmigen und schließen**.
+1. Klicken Sie **Genehmigen und schließen**.
 
    ![](assets/image2014-9-15-17-3a41-3a0.png)
 

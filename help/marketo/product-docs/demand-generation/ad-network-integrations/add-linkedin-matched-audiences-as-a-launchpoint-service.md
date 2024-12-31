@@ -1,7 +1,7 @@
 ---
 unique-page-id: 7504163
-description: Hinzufügen von LinkedIn Matched Audiences als LaunchPoint-Dienst - Marketo Docs - Produktdokumentation
-title: Hinzufügen von LinkedIn Matched Audiences als LaunchPoint-Dienst
+description: Hinzufügen von übereinstimmenden Zielgruppen in LinkedIn als LaunchPoint-Service - Marketo-Dokumente - Produktdokumentation
+title: Hinzufügen von übereinstimmenden LinkedIn-Zielgruppen als LaunchPoint-Service
 exl-id: 82096b19-aae9-4086-8fb4-defc5481d382
 feature: Integrations
 source-git-commit: 94ca714d038863ad801551960c66086ea47e6b10
@@ -11,19 +11,19 @@ ht-degree: 1%
 
 ---
 
-# Hinzufügen von LinkedIn Matched Audiences als LaunchPoint-Dienst {#add-linkedin-matched-audiences-as-a-launchpoint-service}
+# Hinzufügen von übereinstimmenden LinkedIn-Zielgruppen als LaunchPoint-Service {#add-linkedin-matched-audiences-as-a-launchpoint-service}
 
 >[!IMPORTANT]
 >
->LinkedIn aktualisiert ihre Marketing-APIs, die von Marketo Engage LinkedIn-Integrationen verwendet werden. Diese Änderungen erfordern eine erneute Authentifizierung aller LinkedIn LaunchPoint-Dienste in Ihrem Menü **Admin** > **LaunchPoint** zwischen dem 7. Juni und dem 15. Dezember 2024, um eine Dienstunterbrechung zu vermeiden. Weitere Informationen finden Sie in den [FAQ zur Migration](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
+>LinkedIn aktualisiert seine Marketing-APIs für das Marketo Engage von LinkedIn-Integrationen. Um eine Unterbrechung des Services zu vermeiden, müssen alle LinkedIn LaunchPoint-Services zwischen dem 7 **. Juni und dem 15. Dezember 2024 erneut im Menü** Admin **> LaunchPoint** authentifiziert werden. Weitere Informationen finden Sie unter [Häufig gestellte Fragen zur Migration](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
 
 >[!NOTE]
 >
->**Erforderliche Administratorberechtigungen**
+>**Administratorberechtigungen erforderlich**
 
-Verbinden Sie Ihr Marketo Engage-Konto mit LinkedIn Matched Audiences , um eine statische Marketo-Liste oder Smart List als LinkedIn-Zielgruppensegment zu verwenden.
+Verbinden Sie Ihr Marketo Engage-Konto mit übereinstimmenden Zielgruppen von LinkedIn, um eine statische Marketo-Liste oder eine Smart-Liste als Zielgruppensegment von LinkedIn zu verwenden.
 
-1. Wechseln Sie zum Abschnitt **[!UICONTROL Admin]** .
+1. Navigieren Sie zum Abschnitt **[!UICONTROL Admin]**.
 
    ![](assets/admin.png)
 
@@ -31,11 +31,11 @@ Verbinden Sie Ihr Marketo Engage-Konto mit LinkedIn Matched Audiences , um eine 
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. Wählen Sie **[!UICONTROL Neu]** und **[!UICONTROL Neuer Dienst]** aus.
+1. Wählen Sie **[!UICONTROL Neu]** und **[!UICONTROL Neuer Service]** aus.
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. Geben Sie einen **[!UICONTROL Anzeigenamen]** ein und wählen Sie **[!UICONTROL LinkedIn Matched Audiences]** aus. Klicken Sie auf **[!UICONTROL Erstellen]**.
+1. Geben Sie einen **[!UICONTROL Anzeigenamen]** ein und wählen Sie **[!UICONTROL LinkedIn Matched Audiences]**. Klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/image2018-2-23-14-3a25-3a39.png)
 
@@ -45,7 +45,7 @@ Verbinden Sie Ihr Marketo Engage-Konto mit LinkedIn Matched Audiences , um eine 
 
    >[!CAUTION]
    >
-   >Damit Marketo Zielgruppen über mehrere LinkedIn-Anzeigenkonten senden kann, muss der LinkedIn-Benutzer, den Sie in den folgenden Schritten autorisieren, Zugriff auf *alle* dieser Anzeigenkonten in seinem Campaign Manager haben.
+   >Damit Marketo Zielgruppen über mehrere LinkedIn-Werbekonten hinweg senden kann, muss der LinkedIn-Benutzer, den Sie in den folgenden Schritten autorisieren, Zugriff auf *alle* dieser Werbekonten in seinem Campaign Manager haben.
 
 1. LinkedIn wird in einer neuen Registerkarte geöffnet. Melden Sie sich von hier aus bei Ihrem LinkedIn-Konto an.
 
@@ -59,7 +59,7 @@ Verbinden Sie Ihr Marketo Engage-Konto mit LinkedIn Matched Audiences , um eine 
 
    ![](assets/image2018-2-23-14-3a35-3a55.png)
 
-   Fantastisch! LinkedIn Matched Audiences werden jetzt auf der Registerkarte Installierte Dienste als LaunchPoint-Dienst aufgelistet.
+   Fantastisch! Auf der Registerkarte Installierte Services werden nun abgeglichene LinkedIn-Zielgruppen als LaunchPoint-Service aufgeführt.
 
    ![](assets/bartholomew2.png)
 

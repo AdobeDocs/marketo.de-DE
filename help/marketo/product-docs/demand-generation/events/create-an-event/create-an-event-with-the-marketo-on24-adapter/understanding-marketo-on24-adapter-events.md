@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10096658
-description: Grundlegendes zu Marketo on24 Adapter-Ereignissen - Marketo Docs - Produktdokumentation
+description: Informationen zu Marketo On24-Adapterereignissen - Marketo-Dokumente - Produktdokumentation
 title: Grundlegendes zu Marketo On24-Adapterereignissen
 exl-id: 00c3ac54-b139-4cff-af53-d4d83d2610f9
 feature: Events
@@ -13,14 +13,14 @@ ht-degree: 0%
 
 # Grundlegendes zu Marketo On24-Adapterereignissen {#understanding-marketo-on-adapter-events}
 
-Wenn Ihr ON24-Webinar nicht mit Marketo verbunden ist, müssen Sie die Informationen, die bereits in Marketo vorhanden sind, abrufen und in ON24 eingeben. Nach dem Webinar müssen Sie die bereits in ON24 vorhandenen Teilnehmerinformationen mitnehmen und sie wieder in Marketo eingeben.
+Wenn Ihr ON24-Webinar nicht mit Marketo verbunden ist, müssen Sie die Teilnehmerinformationen, die sich bereits in Marketo befinden, in ON24 eingeben. Nach dem Webinar müssen Sie Informationen zur Teilnahme, die bereits auf ON24 verfügbar sind, wieder in Marketo eingeben.
 
-Der ON24-Adapter übernimmt die gesamte Informationsübertragung für Sie. Sie überträgt die auf einer Marketo-Landingpage erfassten Registrierungsinformationen auf ON24 und ruft die Anwesenheitsinformationen automatisch in ein Marketo-Ereignis ab.
+Der ON24-Adapter übernimmt die gesamte Informationsübertragung für Sie. Die auf einer Marketo-Landingpage erfassten Registrierungsinformationen werden an ON24 gesendet und die Anwesenheitsdaten werden automatisch in eine Marketo-Veranstaltung übertragen.
 
-Diese Artikel führen Sie durch den Prozess der Erstellung eines Webinars in ON24, der Erstellung einer Veranstaltung in Marketo und der Zuordnung dieser Veranstaltungen.
+Diese Artikel erläutern den Prozess der Erstellung eines Webinars in ON24, der Erstellung eines Ereignisses in Marketo und der Verknüpfung.
 
-Die nachstehende Grafik zeigt den Integrationsprozess.
+Die folgende Grafik zeigt den Integrationsprozess.
 
 ![](assets/image2015-12-16-11-3a26-3a29.png)
 
-Bereit zu beginnen? Beginnen Sie mit [Erstellen Sie ein Ereignis mit dem ON24-Adapter](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md){target="_blank"}.
+Bereit zu beginnen? Beginnen Sie mit [Ereignis mit dem ON24-Adapter erstellen](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md){target="_blank"}.

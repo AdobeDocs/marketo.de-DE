@@ -13,24 +13,24 @@ ht-degree: 0%
 
 # Verwenden von Inaktivitätsfiltern in einer Smart-Liste {#use-inactivity-filters-in-a-smart-list}
 
-Wusstest du, dass du in einer Smart List nach Personen suchen kannst, die _nicht_ etwas getan haben? Sehen Sie sich diese Inaktivitätsfilter an.
+Wussten Sie, dass Sie in einer Smart List nach Personen suchen können _die_ etwas getan haben? Checken Sie diese Inaktivitätsfilter aus.
 
-1. Wechseln Sie zu **[!UICONTROL Marketingaktivitäten]**.
+1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/use-inactivity-filters-in-a-smart-list-1.png)
 
-1. Wählen Sie die Smart-Liste aus, die Sie bearbeiten möchten, und klicken Sie dann auf die Registerkarte **[!UICONTROL Smart-Liste]** .
+1. Wählen Sie die Smart-Liste aus, die Sie bearbeiten möchten, und klicken Sie dann auf die Registerkarte **[!UICONTROL Smart-Liste]**.
 
    ![](assets/use-inactivity-filters-in-a-smart-list-2.png)
 
-1. Suchen und ziehen Sie den Inaktivitätsfilter Ihrer Wahl auf die Arbeitsfläche. Suchen wir beispielsweise Personen, die keine Ihrer Seiten besucht haben.
+1. Suchen Sie den gewünschten Inaktivitätsfilter und ziehen Sie ihn in die Arbeitsfläche. Suchen wir beispielsweise nach Personen, die keine Ihrer Seiten besucht haben.
 
    ![](assets/use-inactivity-filters-in-a-smart-list-3.png)
 
    >[!TIP]
    >
-   >Es gibt viele Filter im Ordner **[!UICONTROL Inaktivitätsfilter]** . Suchen Sie nach &quot;Not&quot; und checken Sie sie aus.
+   >Der Ordner „Inaktivitätsfilter **[!UICONTROL enthält viele]**. Suchen Sie nach „Nicht“ und überprüfen Sie sie.
 
-1. Wählen Sie den Operator **[!UICONTROL ist beliebig]** aus. Hier finden Sie alle Personen, die in den letzten 30 Tagen keine Seite besucht haben.
+1. Wählen Sie den Operator **[!UICONTROL ist beliebig]**. Dadurch werden alle Personen gefunden, die in den letzten 30 Tagen keine Seite besucht haben.
 
    ![](assets/use-inactivity-filters-in-a-smart-list-4.png)

@@ -12,56 +12,56 @@ ht-degree: 0%
 
 # Ereignis-Workflows {#event-workflows}
 
-Gehen Sie nach Abschluss Ihres Webinars zum Tab Dashboard , um die aggregierte Leistung anzuzeigen.
+Nachdem Ihr Webinar abgeschlossen ist, wechseln Sie zur Registerkarte Dashboard , um die aggregierte Leistung anzuzeigen.
 
 ![](assets/event-workflows-1.png)
 
 >[!NOTE]
 >
->Wenn das Webinar noch nicht abgeschlossen ist oder die Daten aus irgendeinem Grund nicht empfangen wurden, ist der Tab Dashboard noch nicht verfügbar.
+>Wenn das Webinar nicht abgeschlossen wurde oder die Daten aus irgendeinem Grund nicht empfangen wurden, ist die Registerkarte Dashboard noch nicht verfügbar.
 
 ## Manuelle Synchronisierung {#manual-sync}
 
-Mit interaktiven Webinaren können Sie die Interaktionsdaten Ihres Webinars aus Adobe Connect abrufen, wenn Sie sie nicht automatisch innerhalb von zwei Stunden nach Abschluss des Webinars erhalten haben. Auf der Übersichtsseite wird die Schaltfläche &quot;Jetzt synchronisieren&quot;angezeigt. Durch Klicken auf **Jetzt synchronisieren** wird ein Abruf von Adobe Connect Trigger, um die Daten im Marketo Engage zu füllen. Nachdem die Synchronisierung abgeschlossen ist, verschwindet die Schaltfläche und die Registerkarte Dashboard wird ausgefüllt.
+Mit interaktiven Webinaren können Sie die Interaktionsdaten Ihres Webinars von Adobe Connect abrufen, wenn Sie sie nicht innerhalb von zwei Stunden nach Abschluss des Webinars automatisch erhalten haben. Auf der Übersichtsseite wird die Schaltfläche „Jetzt synchronisieren“ angezeigt. Trigger Wenn Sie **Jetzt synchronisieren** klicken, wird ein Pull von Adobe Connect ausgeführt, um die Daten in Marketo Engage zu füllen. Nach Abschluss der Synchronisierung wird die Schaltfläche ausgeblendet und die Registerkarte Dashboard wird ausgefüllt.
 
 ## Dashboard-Widgets {#dashboard-widgets}
 
 Das Dashboard besteht aus vier Widgets.
 
-**Programmstatus des Ereignisses**: Zeigt die verschiedenen Programmstatus für dieses Ereignis und die Anzahl der Programmmitglieder an, die derzeit diesen Programmstatus aufweisen.
+**Ereignisprogrammstatus**: Zeigt die verschiedenen Programmstatus für dieses Ereignis und die Anzahl der Mitglieder des Programms an, die derzeit diesen Programmstatuswert halten.
 
-**Teilnahme**: Zeigt die Anwesenheitsdauer verschiedener Mitglieder an, die am Webinar teilgenommen haben, in Bezug auf die Gesamtdauer des Webinars in Prozent.
+**Teilnahme**: Zeigt die Anwesenheitsdauer verschiedener Mitglieder, die am Webinar teilgenommen haben, im Vergleich zur gesamten Webinar-Dauer in Prozent.
 
-**Umfrageleistung**: Zeigt die verschiedenen Umfragen an, die während des von Adobe Connect bereitgestellten Webinars gestartet wurden, und die Verteilung der Teilnehmer, die an der Umfrage teilgenommen haben und auf die Antworten reagiert haben.
+**Umfrageleistung**: Zeigt verschiedene Umfragen an, die während des Webinars auf der Basis von Adobe Connect gestartet wurden, sowie die Verteilung der Mitglieder, die an der Umfrage teilgenommen und auf die einzelnen Antworten geantwortet haben.
 
-**Aktivität &quot;Klick- und Dateidownload&quot;**: Stellt die Download-Anzahl der Dateien und Weblinks bereit, die im Webinar von Adobe Connect von verschiedenen Mitgliedern angeklickt wurden, die am Webinar teilgenommen haben und diese Aktion ausgeführt haben.
+**Datei-Download-Aktivität**: Zeigt die Download-Anzahl der Dateien und Weblinks an, auf die während des Webinars geklickt wurde. Diese werden von Adobe Connect unterstützt, von verschiedenen Mitgliedern, die am Webinar teilgenommen und diese spezifische Aktion durchgeführt haben.
 
 ## Webinar-Aufzeichnung {#webinar-recording}
 
-Gehen Sie zur Registerkarte Übersicht , um das aufgezeichnete Webinar anzuzeigen, den Link zum Freigeben zu erhalten und sogar eine Kopie herunterzuladen.
+Wechseln Sie zur Registerkarte Übersicht , um das aufgezeichnete Webinar anzuzeigen, den Link zu erhalten, um es freizugeben, und sogar eine Kopie herunterzuladen.
 
 ![](assets/event-workflows-2.png)
 
 >[!NOTE]
 >
->* Interaktive Webinare werden nicht automatisch aufgezeichnet. Klicken Sie nach Beginn Ihres Webinars auf das Dropdown-Menü neben dem Namen des Webinars und wählen Sie **Sitzung aufzeichnen** aus.
->* Wenn die Sitzung aufgezeichnet wird, muss der Host die Aufzeichnung manuell beenden oder &quot;Sitzung für alle beenden&quot;auswählen, um die Aufzeichnung zu stoppen. Andernfalls wird die Aufzeichnung automatisch innerhalb von 10 Minuten nach dem letzten Teilnehmer, der den Raum verlässt, beendet.
+>* Interaktive Webinare werden nicht automatisch aufgezeichnet. Klicken Sie nach Beginn des Webinars auf das Dropdown-Menü neben dem Namen des Webinars und wählen Sie **Sitzung aufzeichnen**.
+>* Wenn die Sitzung aufgezeichnet wird, muss der Host die Aufzeichnung manuell beenden oder „Sitzung für alle beenden“ wählen, um die Aufzeichnung zu beenden. Andernfalls wird die Aufzeichnung automatisch innerhalb von 10 Minuten beendet, nachdem der letzte Teilnehmer den Raum verlassen hat.
 >* Die Aufzeichnung wird im MP4-Format heruntergeladen.
->* Wenn Sie die Aufzeichnung freigeben, kann sie von jedem Benutzer mit dem Link angezeigt werden. Stellen Sie daher sicher, dass sie für die gewünschte Zielgruppe freigegeben ist.
+>* Beim Freigeben der Aufzeichnung kann sie von jedem angezeigt werden, der über den Link verfügt. Vergewissern Sie sich also, dass sie für die vorgesehene Zielgruppe freigegeben ist.
 
 ## Trigger und Filter {#triggers-and-filters}
 
-Verwenden Sie interaktive Webinar-bezogene Trigger und Filter, um bestimmte Personengruppen innerhalb Ihres Veranstaltungsprogramms zu finden.
+Verwenden Sie Trigger und Filter für interaktive Webinare, um bestimmte Personengruppen innerhalb Ihres Veranstaltungsprogramms zu finden.
 
 ![](assets/event-workflows-3.png)
 
-Jeder Trigger/Filter enthält zusätzliche Einschränkungen, mit denen Sie eine fokussierte Untergruppe dieser Gruppe erfassen können.
+Jeder Trigger/Filter verfügt über zusätzliche Einschränkungen, mit denen Sie eine fokussierte Teilmenge dieser Gruppe erfassen können.
 
-**Fragen während des Ereignisses stellen** (Filterversion: Hat während des Ereignisses Fragen gestellt)
+**Stellt Fragen während des Ereignisses** (Filterversion: Hat Fragen während des Ereignisses gestellt)
 
 ![](assets/event-workflows-4.png)
 
-**Teilnehmer-Ereignis** (Filterversion: Ereignis &quot;Hat teilgenommen&quot;)
+**Teilnahme an Ereignis** (Filterversion: Hat an Ereignis teilgenommen)
 
 ![](assets/event-workflows-5.png)
 
@@ -69,10 +69,10 @@ Jeder Trigger/Filter enthält zusätzliche Einschränkungen, mit denen Sie eine 
 
 ![](assets/event-workflows-6.png)
 
-**Lädt ein Asset herunter** (Filterversion: Heruntergeladenes Asset)
+**Lädt ein Asset herunter** (Filterversion: Ein Asset heruntergeladen)
 
 ![](assets/event-workflows-7.png)
 
-**Beantwortet eine Umfrage** (Filterversion: Beantwortet eine Umfrage)
+**Antwortet auf eine Abfrage** (Filterversion: Auf eine Abfrage geantwortet)
 
 ![](assets/event-workflows-8.png)

@@ -1,7 +1,7 @@
 ---
 unique-page-id: 7515133
-description: SFDC-Synchronisierung - Zusammenführen von Lead/Kontakt/Person - Marketo-Dokumente - Produktdokumentation
-title: SFDC-Synchronisation - Zusammenführen von Lead/Kontakt/Person
+description: SFDC-Synchronisierung - Zusammenführen von Leads/Kontakten/Personen - Marketo-Dokumente - Produktdokumentation
+title: SFDC-Synchronisierung - Zusammenführen von Leads/Kontakten/Personen
 exl-id: 0e755c80-27cd-4ba3-b540-d7918264c5f6
 feature: Salesforce Integration
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
@@ -11,23 +11,23 @@ ht-degree: 0%
 
 ---
 
-# SFDC-Synchronisation: Zusammenführen von Lead/Kontakt/Person {#sfdc-sync-merging-a-lead-contact-person}
+# SFDC-Synchronisierung: Lead/Kontakt/Person zusammenführen {#sfdc-sync-merging-a-lead-contact-person}
 
-Manchmal ist es am besten, nur die Regeln aufzulisten. Gehen wir hier:
+Manchmal ist es am besten, nur die Regeln aufzulisten. Los geht&#39;s:
 
-* Wenn Sie zwei Leads in **Salesforce** zusammenführen, teilt die normale Synchronisierung Marketo Engage mit und die Leads werden automatisch als Personen in Marketo zusammengeführt.
-* Die Zusammenführung von zwei Personen in **Marketo** führt denselben Prozess auf wie die Zusammenführung als Leads in Salesforce. Es funktioniert weiterhin automatisch.
-* Das Zusammenführen eines **Leads (einer Person) mit einem Kontakt** funktioniert auf die gleiche Weise. Am Ende haben Sie einen einzigen Kontakt auf beiden Seiten.
-* Beim Zusammenführen wird der Standardwert summiert.
+* Wenn Sie zwei Leads in **Salesforce** zusammenführen, werden Marketo Engage und die Leads bei der normalen Synchronisierung automatisch als Personen in Marketo zusammengeführt.
+* Beim Zusammenführen von zwei Personen in **Marketo** wird derselbe Prozess aufgerufen wie beim Zusammenführen als Leads in Salesforce. Es funktioniert weiterhin automatisch.
+* Das Zusammenführen **Leads (Personen) in einem Kontakt** funktioniert genauso. Am Ende haben Sie auf beiden Seiten einen einzigen Kontakt.
+* Beim Zusammenführen wird die Standardpunktzahl summiert.
 
 >[!NOTE]
 >
->Die Zusammenführung von 3 Leads (Personen) mit einem Wert von jeweils 10 ergibt ein Ergebnis von 1 Lead (Person) mit einem Wert von 30.
+>Die Zusammenführung von 3 Leads (Personen) mit Werten von jeweils 10 ergibt ein Ergebnis von 1 Lead (Person) mit einem Score von 30.
 
-* Konfliktfeldwerte werden aus dem &quot;Siegerdatensatz&quot;übernommen. (Datensatz = resultierender Lead oder Kontakt)
-* Wenn der &quot;verlorene Datensatz&quot;(der verschwindet) einen Wert hat und der Gewinnerrekord keinen hat, behalten wir den verlorenen Rekord. Mit anderen Worten: &quot;Ein Wert ist besser als kein Wert.&quot;
+* Widersprüchliche Feldwerte werden dem „erfolgreichsten Datensatz“ entnommen. (Datensatz = der resultierende Lead oder Kontakt)
+* Wenn der „Verlierer-Rekord“ (der, der verschwindet) einen Wert hatte und der Gewinner-Rekord keinen hat, werden wir den Verlierer-Rekord beibehalten. Mit anderen Worten: „Ein Wert ist besser als kein Wert.“
 * Alle Aktivitätsprotokollelemente werden zusammengeführt.
 
 >[!NOTE]
 >
->Tief tauchen für weitere Informationen zum [Zusammenführen von Personen in Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md){target="_blank"}.
+>Detaillierte Einblicke in weitere Informationen zu [Zusammenführen von Personen in Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md){target="_blank"}.

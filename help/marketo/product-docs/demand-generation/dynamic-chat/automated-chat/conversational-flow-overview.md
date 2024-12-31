@@ -1,6 +1,6 @@
 ---
-description: Übersicht über den Verlauf von Konversationen - Marketo-Dokumente - Produktdokumentation
-title: Übersicht über den Konversationsfluss
+description: Konversationsflussübersicht - Marketo-Dokumente - Produktdokumentation
+title: Konversationsfluss - Übersicht
 feature: Dynamic Chat
 exl-id: c741886d-d672-471f-8902-208d25898afa
 source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
@@ -10,15 +10,15 @@ ht-degree: 0%
 
 ---
 
-# Übersicht über den Konversationsfluss {#conversational-flow-overview}
+# Konversationsfluss - Übersicht {#conversational-flow-overview}
 
-Gestalten Sie einen Konversationsfluss und weisen Sie ihn jedem Trigger basierend auf einer bestimmten Aktion zu (z. B. Klicken auf eine Aktionsaufruf-Schaltfläche, beim Laden der Seite, Besuchszeit pro Seite usw.).
+Konversationsfluss entwerfen und ihn für jeden Besucher auf der Grundlage einer bestimmten Aktion (z. B. Klicken auf eine Aktionsaufruf-Schaltfläche, beim Laden der Seite, auf der Seite verbrachte Zeit usw.) Trigger.
 
 ![](assets/conversational-flow-overview-1.png)
 
-## Dialoge im Vergleich zu konversativen Flüssen {#dialogues-vs-conversational-flows}
+## Dialoge im Vergleich zu Gesprächsflüssen {#dialogues-vs-conversational-flows}
 
-Dialoge und Konversationsflüsse weisen zwar mehrere Ähnlichkeiten auf, sind aber zwei separate Funktionen.
+Dialogfelder und Konversationsflüsse weisen zwar einige Ähnlichkeiten auf, sind aber zwei separate Funktionen.
 
 <table> 
  <tbody> 
@@ -27,62 +27,62 @@ Dialoge und Konversationsflüsse weisen zwar mehrere Ähnlichkeiten auf, sind ab
    <th style="width:50%">Konversationsflüsse</th>
   </tr> 
   <tr> 
-   <td>Dialogfelder werden als Zielgruppe ausgewählt - Sie gestalten eine Konversation für eine bestimmte Seite und Zielgruppe basierend auf den von Ihnen implementierten Parametern.</td> 
-   <td>Konversationsflüsse werden ausgelöst - Sie gestalten eine Konversation, die basierend auf der Aktion eines Besuchers ausgelöst werden kann, z. B. das Ausfüllen eines Formulars, das Klicken auf einen Link usw.</td>
+   <td>Dialogfelder sind zielgerichtet: Sie entwerfen eine Konversation für eine bestimmte Seite und Zielgruppe basierend auf den von Ihnen implementierten Parametern.</td> 
+   <td>Konversationsflüsse werden ausgelöst - Sie entwerfen eine Konversation, die basierend auf der Aktion eines Besuchers ausgelöst werden kann, z. B. beim Ausfüllen eines Formulars, beim Klicken auf einen Link usw.</td>
   </tr>
    <tr> 
    <td>Wird nur in der Chatbot-Oberfläche unterstützt.</td> 
-   <td>Aktuell in einer Popup-Oberfläche unterstützt, für die weitere Schnittstellen geplant sind.</td>
+   <td>Derzeit in einer Popup-Oberfläche unterstützt, weitere Schnittstellen sind geplant.</td>
   </tr>
   </tr>
    <tr> 
-   <td>Für dasselbe Lead-Segment können mehrere Dialogfelder mit einer Prioritätsreihenfolge erstellt werden, sodass jeder Besucher das Dialogfeld nach Priorität sieht, während er weiterhin interagiert.</td> 
-   <td>Konversationsflüsse haben keine Prioritätsreihenfolge und können basierend auf dem festgelegten Aktionsaufruf beliebig oft durch denselben Lead ausgelöst werden.</td>
+   <td>Für dasselbe Lead-Segment können mehrere Dialogfelder mit einer Prioritätsreihenfolge erstellt werden, sodass jeder Besucher das Dialogfeld nacheinander nach Priorität sieht, während er weiter interagiert.</td> 
+   <td>Konversationsflüsse haben keine Prioritätsreihenfolge und können beliebig oft von demselben Lead ausgelöst werden, basierend auf der ermittelten Aktionsaufforderung.</td>
   </tr>
   <tr>
-   <td>Chatbot-Konversationen werden durch Dialoge unterstützt.</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Konversationaler Forms</a> in Marketo Engage wird von Konversationsflüssen angetrieben.</td>
+   <td>Chatbot-Unterhaltungen basieren auf Dialogfeldern.</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Conversational Forms</a> in Marketo Engage basieren auf Conversational Flows.</td>
   </tr>
  </tbody> 
 </table>
 
-## Designer-Registerkarte streamen {#stream-designer-tab}
+## Registerkarte Designer streamen {#stream-designer-tab}
 
-Der Stream Designer for Conversational Flows ist fast identisch mit dem für Dialoge. [Hier erfahren Sie alles darüber](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}.
+Die Stream-Designer für Konversationsflüsse ist fast identisch mit der für Dialoge. [Hier erfahren Sie alles darüber](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}.
 
 ![](assets/conversational-flow-overview-2.png)
 
-## Registerkarte &quot;Berichte&quot; {#reports-tab}
+## Registerkarte „Berichte“ {#reports-tab}
 
-Auf der Registerkarte Berichte können Sie Metriken zur Leistung Ihres Konversionsflusses anzeigen.
+Auf der Registerkarte Berichte können Sie Metriken zur Leistung Ihres Konversationsflusses anzeigen.
 
 ![](assets/conversational-flow-overview-3.png)
 
-Anzeigen von Interaktionsrate, Konversionsrate, Filtern nach bekannten und/oder unbekannten Besuchern und mehr.
+Interaktionsrate, Konversionsrate, Filterung nach bekannten und/oder unbekannten Besuchern und mehr anzeigen.
 
 ![](assets/conversational-flow-overview-4.png)
 
-## Registerkarte &quot;Einstellungen&quot; {#settings-tab}
+## Registerkarte „Einstellungen“ {#settings-tab}
 
 ![](assets/conversational-flow-overview-5.png)
 
-In der oberen Hälfte der Registerkarte Einstellungen können Sie den Namen des Konversionsflusses aktualisieren, eine optionale Beschreibung hinzufügen und die Sprache ändern.
+In der oberen Hälfte der Registerkarte Einstellungen können Sie den Namen des Konversationsflusses aktualisieren, eine optionale Beschreibung hinzufügen und die Sprache ändern.
 
 ![](assets/conversational-flow-overview-6.png)
 
 >[!NOTE]
 >
->Wenn Sie eine andere Sprache auswählen, wird nur die Sprache des Systemtextes geändert. Sie sind für die Übersetzung von Inhalten verantwortlich.
+>Wenn Sie eine andere Sprache auswählen, wird nur die Sprache des Systemtexts geändert. Sie sind für die Übersetzung von Inhalten verantwortlich.
 
-### Konversations-SDK {#conversations-sdk}
+### SDK-Unterhaltungen {#conversations-sdk}
 
-Passen Sie in der unteren Hälfte der Registerkarte Einstellungen den Trigger Konversation (auch als Conversations SDK bezeichnet) an. Sie können entscheiden, ob die Konversation auf Ihrer Website ausgelöst wird, wenn ein Besucher auf einen Link klickt, oder ob sie beim Laden der Seite aufgerufen wird.
+Passen Sie in der unteren Hälfte der Registerkarte „Einstellungen“ den Konversations-Trigger an, der auch als Konversations-SDK bezeichnet wird. Sie können entscheiden, ob die Konversation auf Ihrer Website ausgelöst wird, wenn ein Besucher auf einen Link klickt, oder beim Laden der Seite.
 
 ![](assets/conversational-flow-overview-7.png)
 
 >[!TIP]
 >
->Siehe [Conversations SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/){target="_blank"} in Aktion!
+>Sehen Sie [Konversationen SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/){target="_blank"} in Aktion!
 
 >[!MORELIKETHIS]
 >

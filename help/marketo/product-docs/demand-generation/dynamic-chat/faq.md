@@ -1,6 +1,6 @@
 ---
-description: Dynamic Chat FAQ - Marketo Docs - Produktdokumentation
-title: Dynamic Chat-FAQs
+description: Häufig gestellte Fragen zum Dynamic Chat - Marketo-Dokumente - Produktdokumentation
+title: Häufig gestellte Fragen zum Dynamic Chat
 feature: Dynamic Chat
 exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
 source-git-commit: ed833219e5074ae646e07db599e7da50665c453b
@@ -10,94 +10,94 @@ ht-degree: 0%
 
 ---
 
-# Dynamic Chat-FAQs {#dynamic-chat-faq}
+# Häufig gestellte Fragen zum Dynamic Chat {#dynamic-chat-faq}
 
-Nachstehend finden Sie Antworten auf häufig gestellte Fragen zum Dynamic Chat.
+Im Folgenden finden Sie Antworten auf einige häufig gestellte Fragen zum Dynamic Chat.
 
-**Ich habe anscheinend keinen Zugriff auf Dynamic Chat. Wie kann ich es bekommen?**
+**Ich habe anscheinend keinen Zugriff auf Dynamic Chat. Wie bekomme ich es?**
 
-Wenden Sie sich an Ihren Marketo Engage-Administrator und stellen Sie sicher, dass Sie [als Benutzer](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"} in der Adobe Admin Console hinzugefügt wurden.
+Wenden Sie sich an Ihren Marketo Engage-Administrator, und stellen Sie sicher, dass [ Benutzer Sie ](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"} Adobe Admin Console hinzugefügt hat.
 
-**Kann ich Dynamic Chat irgendwo auf meiner Firmenwebsite installieren oder funktioniert es nur auf Marketo-Einstiegsseiten?**
+**Kann ich Dynamic Chat an einer beliebigen Stelle auf meiner Unternehmenswebsite installieren oder funktioniert es nur auf Marketo-Landingpages?**
 
-Das Dynamic Chat JavaScript-Snippet kann auf jeder Website sowie auf Marketo-Landingpages installiert werden.
+Das Dynamic Chat-JavaScript-Snippet kann auf jeder Website sowie auf den Einstiegsseiten von Marketo installiert werden.
 
-**Wie lange werden Daten für die Berichterstellung gespeichert?**
+**Wie lange werden Daten für das Reporting gespeichert?**
 
-90 Tage. Eine vollständige Liste der Einschränkungen/Parameter finden Sie auf der Marketo Engage [Produktbeschreibungsseite](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}.
+90 Tage. Eine vollständige Liste der Grenzwerte/Parameter finden Sie auf der Marketo Engage [Produktbeschreibungsseite](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}.
 
 **Unterstützt Dynamic Chat neben Englisch auch andere Sprachen?**
 
-Ja. Dynamic Chat unterstützt die folgenden Sprachen: Französisch, Spanisch, Deutsch, Japanisch, Niederländisch, Italienisch, Brasilianisches Portugiesisch, Koreanisch, Vereinfachtes Chinesisch und Traditionelles Chinesisch. Weitere Informationen finden Sie unter [Ändern der Sprache](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#changing-the-language){target="_blank"}.
+Ja. Dynamic Chat unterstützt die folgenden Sprachen: Französisch, Spanisch, Deutsch, Japanisch, Niederländisch, Italienisch, Portugiesisch (Brasilien), Koreanisch, Chinesisch (vereinfacht) und Chinesisch (traditionell). Weitere Informationen finden Sie unter [Ändern der ](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#changing-the-language){target="_blank"}.
 
 **Unterstützen Sie KI-/NLP-Funktionen?**
 
-Die KI-/NLP-Funktionalität wird nicht unterstützt.
+KI-/NLP-Funktionen werden nicht unterstützt.
 
 **Wie kann ich anonyme Personen ansprechen?**
 
-In Ihrem Dialogfeld müssen Sie das Attribut _Person Email is Empty_ verwenden.
+In Ihrem Dialogfeld müssten Sie das Attribut _Person E-Mail ist leer_ verwenden.
 
-**Was qualifiziert sich als engagierte Konversation?**
+**Was gilt als engagiertes Gespräch?**
 
-Eine interaktive Konversation tritt auf, sobald ein Besucher in einem Dialogfeld oder einem Konversationsfluss auf den Bot reagiert. Wenn der Besucher den Chat-Bot öffnet, aber nicht auf den Bot reagiert (z. B. Antwort- oder Sendeinformationen), zählt er nicht als Interaktion.
+Eine interaktive Konversation tritt auf, sobald ein Besucher in einem Dialog- oder Konversationsfluss auf den Bot antwortet. Wenn der Besucher den Chat-Bot öffnet, aber nicht auf den Bot reagiert (z. B. eine Antwort auswählen oder Informationen übermitteln), wird dies nicht als Interaktion gezählt.
 
-**Was passiert, wenn ich mein monatliches Limit für aktive Konversationen erreicht habe?**
+**Was passiert, wenn ich mein monatliches Limit für interaktive Gespräche erreicht habe?**
 
-Wenn Sie das monatliche Limit für eingebundene Konversationen erreichen, werden alle veröffentlichten Dialogfelder und Konversationsflüsse nicht mehr ausgelöst, bis Sie Ihr Limit erhöhen oder Ihre Limit zu Beginn des nächsten Monats zurücksetzen.
+Wenn Sie das monatliche Limit für interaktive Konversationen erreicht haben, werden alle veröffentlichten Dialogfelder und Konversationsflüsse nicht mehr ausgelöst, bis Sie Ihr Limit erhöhen oder Ihr Limit zu Beginn des nächsten Monats zurückgesetzt wird.
 
-**Wie erkenne ich, wenn ich mich meinem Limit für die aktive Konversation nähere?**
+**Woher weiß ich, wann ich mich meinem Limit für interaktive Gespräche nähere?**
 
-Wenn Sie 90 % Ihres Limit für interaktive Konversationen erreicht haben, erhalten Dynamic Chat-Administratoren eine E-Mail-Benachrichtigung und allen Benutzern wird eine Bannerbenachrichtigung auf Dynamic Chat angezeigt.
+Wenn Sie 90 % des Limits für interaktive Konversationen erreicht haben, erhalten Dynamic Chat-Admins eine E-Mail-Benachrichtigung und alle Benutzenden sehen eine Bannerbenachrichtigung auf Dynamic Chat.
 
-**Wenn ein Besucher mit einem Dialogfeld interagiert und sich anschließend mit einem Live-Agenten verbindet, zählt dies dann als eine oder zwei Interaktionen?**
+**Wenn ein Besucher mit einem Dialogfeld interagiert und dann anschließend eine Verbindung zu einem Live-Agenten herstellt, zählt dies dann als eine oder zwei Interaktionen?**
 
-Für Kunden, die das Paket auswählen, zählt dies als zwei separate Interaktionen - eine für die Dialoginteraktion und eine für die Live-Chat-Interaktion. Bei Kunden mit dem Prime-Paket werden Live-Chatinteraktionen nicht separat gezählt, sodass dies nur als eine Interaktion gezählt wird.
+Für Kunden mit dem Select-Paket wird dies als zwei separate Interaktionen gezählt - eines für die Interaktion mit dem Dialog und eines für die Interaktion mit dem Live-Chat. Für Kunden mit dem Prime-Package werden Live-Chat-Interaktionen nicht separat gezählt, sodass dies nur als eine Interaktion zählt.
 
-**Wie oft wird die Begrenzung der aktiven Konversation zurückgesetzt?**
+**Wie oft wird das Interaktionslimit zurückgesetzt?**
 
-Das Limit für die aktive Unterhaltung wird am ersten des Kalendermonats zurückgesetzt.
+Das Limit für interaktive Konversationen wird am ersten Tag jedes Kalendermonats zurückgesetzt.
 
-**Warum kommt der Chatbot nicht zurück, nachdem ich eine Unterhaltung beendet habe?**
+**Warum kommt der Chatbot nicht zurück, nachdem ich ein Gespräch beendet habe?**
 
-Dialogfelder sind so konzipiert, dass sie einem Besucher nur einmal angezeigt werden. Sobald ein Besucher das Ende einer bestimmten Verzweigung in einem Dialogfeld erreicht, wird dieses Dialogfeld als abgeschlossen betrachtet und diesem Besucher nie wieder angezeigt.
+Dialogfelder sind so konzipiert, dass sie einem Besucher nur einmal angezeigt werden. Sobald also ein Besucher das Ende einer bestimmten Verzweigung in einem Dialogfeld erreicht, wird dieses Dialogfeld als abgeschlossen betrachtet und diesem Besucher nie wieder angezeigt.
 
-**Warum erhalte ich die folgende Nachricht, wenn ich in My Marketo auf die Kachel Dynamic Chat klicke und mich bei Adobe Experience Cloud anmelde? &quot;_Ihr Adobe ID ist anscheinend nicht mit Ihren Adobe Experience Cloud-Lösungskonten verknüpft_&quot;**.
+**Warum erhalte ich die folgende Meldung, wenn ich in My Marketo auf die Kachel Dynamic Chat klicke und mich bei Adobe Experience Cloud anmelde? &quot;_Es scheint, dass Ihre Adobe ID nicht mit Ihren Adobe Experience Cloud-Lösungskonten verknüpft ist_.“**
 
-Dies weist höchstwahrscheinlich darauf hin, dass Sie in der Adobe Admin Console nicht als Dynamic Chat-Benutzer hinzugefügt wurden. Wenden Sie sich an einen Systemadministrator für Ihre Adobe-Organisation oder an einen Produktadministrator für Dynamic Chat, um Zugriff auf Dynamic Chat anzufordern.
+Dies weist höchstwahrscheinlich darauf hin, dass Sie nicht als Dynamic Chat-Anwender in der Adobe Admin Console hinzugefügt wurden. Wenden Sie sich entweder an einen Systemadministrator für Ihre Adobe-Organisation oder an einen Produktadministrator für Dynamic Chat, um Zugriff auf Dynamic Chat zu erhalten.
 
-**Wie greife ich auf das Transkript für eine aktive Unterhaltung zu?**
+**Wie greife ich auf das Transkript für ein interaktives Gespräch zu?**
 
-Dynamic Chat-Transkripte können für jeden bekannten Lead aufgerufen werden, der über die Aktivität &quot;Mit Dynamic Chat-Dialog interagiert&quot;in Marketo Engage mit einem-Dialog interagiert hat und dessen Konvertierungsstatus entweder &quot;Abgeschlossen&quot;oder &quot;Abgelegt&quot;lautet.
+Auf Dynamic Chat-Transkripte kann für jeden bekannten Lead zugegriffen werden, der mit einem Dynamic Chat-Dialogfeld über die Aktivität „Mit Dialog interagiert“ in Marketo Engage interagiert hat und dessen Konversationsstatus entweder „Abgeschlossen“ oder „Abgebrochen“ lautet.
 
-**Kann ein Besucher die Konversation neu starten oder zu einer vorherigen Frage zurückkehren, sobald er ein Dialogfeld öffnet?**
+**Wenn ein Besucher in ein Dialogfeld eintritt, kann er das Gespräch neu starten oder zu einer vorherigen Frage zurückkehren?**
 
-Es gibt derzeit keinen systematischen Weg, eine Konversation neu zu starten oder zu einem früheren Punkt zurückzukehren, aber dies ist auf der Dynamic Chat-Roadmap.
+Es gibt derzeit keine systematische Möglichkeit, ein Gespräch neu zu starten oder zu einem vorherigen Punkt zurückzukehren, aber dies steht auf der Dynamic Chat-Roadmap.
 
-**Ist Dynamic Chat in Salesforce integriert?**
+**Ist Dynamic Chat mit Salesforce integriert?**
 
-Dynamic Chat kann über die Marketo Engage Salesforce-Integration in Salesforce integriert werden.
+Dynamic Chat lässt sich über die Marketo Engage Salesforce-Integration mit Salesforce integrieren.
 
-**Mein Kalender ist mit Dynamic Chat verbunden und ich bin in die Routing-Regeln eingeschlossen. Warum erhalte ich also keine Sitzungen?**
+**Mein Kalender ist auf Dynamic Chat verbunden und ich bin in den Routing-Regeln enthalten, warum erhalte ich also keine Meetings?**
 
-Dies weist höchstwahrscheinlich darauf hin, dass Ihre Kalenderverbindung erneut authentifiziert werden muss. Dies geschieht meistens, wenn Sie Ihr Kennwort für Ihren Kalenderanbieter ändern und Dynamic Chat die Verbindung verliert. Sie können einfach die Seite Agenteneinstellungen unter Dynamic Chat aufrufen und auf &quot;Kalender erneut authentifizieren&quot;klicken.
+Dies weist höchstwahrscheinlich darauf hin, dass Ihre Kalenderverbindung erneut authentifiziert werden muss. Dies tritt am häufigsten auf, wenn Sie Ihr Kennwort für Ihren Kalenderanbieter ändern und Dynamic Chat die Verbindung verliert. Sie können einfach auf der Seite „Agenteneinstellungen“ in Dynamic Chat auf „Kalender erneut authentifizieren“ klicken.
 
 **Was ist der Unterschied zwischen einem Dialog und einem Konversationsfluss?**
 
-Ein Dialogfeld ist eine Konversation, die Webbesuchern automatisch angezeigt wird, die einen bestimmten Satz von Targeting-Kriterien erfüllen. Ein Konversationsfluss wird nur Besuchern angezeigt, die eine bestimmte Aktion im Internet ausführen, z. B. durch Drücken einer Schaltfläche.
+Ein Dialogfeld ist eine Konversation, die Web-Besuchern, die einen definierten Satz von Zielgruppenbestimmungskriterien erfüllen, automatisch angezeigt wird. Ein Konversationsfluss wird nur Besuchern angezeigt, die eine bestimmte Aktion im Web durchführen, z. B. eine Schaltfläche drücken.
 
-**Gibt es eine Möglichkeit, mit Dynamic Chat Meetings direkt aus einer E-Mail zu buchen?**
+**Gibt es eine Möglichkeit, Dynamic Chat zu verwenden, um Meetings direkt über eine E-Mail zu buchen?**
 
-Ja! [Erfahren Sie, wie ](https://nation.marketo.com/t5/product-blogs/using-dynamic-chat-conversational-flows-for-meeting-booking/ba-p/340936){target="_blank"}.
+Ja! [Erfahren Sie mehr](https://nation.marketo.com/t5/product-blogs/using-dynamic-chat-conversational-flows-for-meeting-booking/ba-p/340936){target="_blank"}.
 
-**Was genau bedeuten Begriffe wie &quot;Verlobt&quot;oder &quot;Erworbene Personen&quot;?**
+**Was genau bedeuten Begriffe wie „Interagiert“ oder „Erworbene Personen“?**
 
-Es werden mehrere Begriffe im Dynamic Chat verwendet. Definitionen für viele von ihnen finden Sie in den Hilfeartikeln ihrer jeweiligen Bereiche.
+Beim Dynamic Chat werden mehrere Begriffe verwendet. Definitionen für viele von ihnen finden Sie in den Hilfeartikeln der jeweiligen Bereiche.
 
-* Analytics-Begriffe wie &quot;Personen, die erworben wurden&quot;[finden Sie hier](/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#definitions){target="_blank"}.
-* Definitionen für Smart List-Trigger/Filter [finden Sie hier ](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md#definitions){target="_blank"}.
-* Beschreibungen der verschiedenen Stream-Designer-Karten [finden Sie hier](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards){target="_blank"}.
+* Analytics-Begriffe wie „Personen erworben[ (finden Sie hier](/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#definitions){target="_blank"}.
+* Trigger-/Filterdefinitionen für Smart-Listen [finden Sie hier](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md#definitions){target="_blank"}.
+* Beschreibungen der verschiedenen Stream Designer-Karten [finden Sie hier](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards){target="_blank"}.
 
 **Kann ich Dynamic Chat ohne Marketo Engage verwenden?**
 
-Nein. Während Dynamic Chat eine separate Anwendung von Marketo Engage ist, sind die beiden untrennbar miteinander verbunden.
+Nein. Während Dynamic Chat eine separate Anwendung von Marketo Engage ist, sind beide untrennbar miteinander verbunden.

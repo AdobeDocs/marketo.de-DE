@@ -1,7 +1,7 @@
 ---
 unique-page-id: 8159286
-description: Opportunity Filters and Trigger - Marketo Docs - Produktdokumentation
-title: Opportunity Filters and Trigger
+description: Opportunity-Filter und -Trigger - Marketo-Dokumente - Produktdokumentation
+title: Opportunity-Filter und -Trigger
 exl-id: 5b372c00-1553-4ac3-a495-53e208371d8d
 feature: Smart Lists
 source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
@@ -11,72 +11,72 @@ ht-degree: 5%
 
 ---
 
-# Opportunity Filters and Trigger {#opportunity-filters-and-triggers}
+# Opportunity-Filter und -Trigger {#opportunity-filters-and-triggers}
 
-Mit Opportunity-Filtern und -Triggern können Sie Opportunity-Ereignisse aus Salesforce verfolgen. Sie unterscheiden sich etwas von anderen Filtern und Triggern.
+Mit Opportunity-Filtern und Triggern können Sie Opportunity-Ereignisse aus Salesforce verfolgen. Sie unterscheiden sich ein wenig von anderen Filtern und Triggern.
 
-## Opportunity Filters {#opportunity-filters}
+## Opportunity Filter {#opportunity-filters}
 
-Mit Opportunity-Filtern können Sie in Ihre Salesforce-Leads vordringen, die Möglichkeiten haben. Sie finden sie beim Bearbeiten einer Smart-Liste im Ordner &quot;Chancen&quot;der Palette. Sie kommen in ein paar Geschmacksrichtungen.
+Mit Opportunity-Filtern können Sie Ihren Salesforce Leads, die Opportunities haben, einen Überblick verschaffen. Sie finden sie im Ordner Opportunities der Palette, wenn Sie eine Smart-Liste bearbeiten. Es gibt sie in verschiedenen Geschmacksrichtungen.
 
 * Anzahl Möglichkeiten
 * Opty-Gesamtbetrag
 * Erwarteter Opty-Gesamtumsatz
 * Hat Opportunity
-* Chancen wurden hinzugefügt
-* Chancen wurden entfernt
+* Gelegenheit wurde hinzugefügt
+* Opportunity wurde entfernt
 * Opportunity wurde aktualisiert
 
-Wenn Sie nach Ihren (benutzerdefinierten oder standardmäßigen) Opportunity-Feldern suchen, verwenden Sie den Filter **Hat Opportunity** oder **Opportunity was`[Added/Removed/Updated]`** -Filter oder -Trigger.
+Wenn Sie nach Ihren Opportunity-Feldern (benutzerdefiniert oder standardmäßig) suchen, verwenden Sie den Filter **Hat Opportunity** oder **Opportunity war`[Added/Removed/Updated]`** Filter oder Trigger.
 
-**Anzahl der Optionen, Gesamtanzahl der Optionen, Gesamtanzahl der Optionen, Gesamtanzahl der erwarteten Gesamteinnahmen der Option**
+**Anzahl der Optys, Gesamtbetrag der Optys, Gesamtbetrag der erwarteten Optys-Einnahmen**
 
-Mit diesen Filtern können Sie Leads auf Grundlage der Gesamtzahl, des Betrags oder des erwarteten Umsatzes aller ihrer Möglichkeiten finden.
+Mit diesen Filtern können Sie Leads basierend auf der Gesamtzahl, dem Betrag oder dem erwarteten Umsatz aller Opportunitys finden.
 
 ![](assets/opportunity-filters-and-triggers-1.png)
 
-**Hat Gelegenheit, wurde der Gelegenheit hinzugefügt, wurde aus der Gelegenheit entfernt**
+**Hat Opportunity, wurde zu Opportunity hinzugefügt, wurde von Opportunity entfernt**
 
-Wenn Sie nach Leads suchen, die Möglichkeiten basierend auf einer Kombination von Kriterien haben, verwenden Sie den Filter **Hat Chancen**, **Wurde der Opportunity** hinzugefügt oder **Aus der Opportunity entfernt** . Sie sagen Ihnen:
+Wenn Sie nach Leads suchen, die Chancen auf der Grundlage einer Kombination von Kriterien haben, verwenden Sie den Filter **Hat Opportunity**, **Wurde zur Opportunity hinzugefügt** oder **Wurde aus Opportunity entfernt**. Sie sagen Ihnen:
 
-* **Hat Gelegenheit**: Wenn dieser Lead derzeit eine übereinstimmende Gelegenheit hat
-* **wurde der Gelegenheit hinzugefügt**: Wenn dieser Lead jemals zu einer übereinstimmenden Gelegenheit hinzugefügt wurde
-* **Wurde aus Opportunity entfernt**: Wenn dieser Lead jemals aus einer übereinstimmenden Gelegenheit entfernt wurde
+* **Hat Opportunity**: Wenn dieser Lead derzeit eine passende Opportunity hat
+* **Wurde zur Opportunity hinzugefügt**: Wenn dieser Lead je zu einer entsprechenden Opportunity hinzugefügt wurde
+* **Wurde aus Opportunity entfernt**: Wenn dieser Lead jemals aus einer entsprechenden Opportunity entfernt wurde
 
-Fügen Sie die Suchkriterien im Filter als **Einschränkungen** hinzu. Zu den Einschränkungen gehören Ihr Opportunity-Standard und Ihre benutzerdefinierten Felder:
+Fügen Sie die Suchkriterien als &quot;**&quot;** Filter hinzu. Zu den Einschränkungen gehören Ihre standardmäßigen Opportunity- und benutzerdefinierten Felder:
 
 ![](assets/opportunity-filters-and-triggers-2.png)
 
 ![](assets/opportunity-filters-and-triggers-3.png)
 
-Angenommen, Sie möchten Leads finden, die Öffnungsmöglichkeiten von mindestens 5.000 $ haben. Ziehen Sie in den Filter **Hat Chancen** und verwenden Sie die Begrenzungen **Ist geschlossen** und **Betrag**:
+Angenommen, Sie möchten Leads finden, die offene Opportunitys von mindestens 5.000 USD haben. Ziehen Sie den Filter **Hat Opportunity** und verwenden Sie die Begrenzungen **Ist geschlossen** und **Betrag**:
 
 ![](assets/opportunity-filters-and-triggers-4.png)
 
 >[!NOTE]
 >
->Wenn Sie mehrere Opportunity-Filter verwenden, erhalten Sie möglicherweise falsche Antworten. Wenn Sie das obige Beispiel mit zwei Opportunity-Filtern erstellt haben, erhalten Sie eine Liste von Leads, die eine Chance von mindestens 5.000 $ haben, und jede Gelegenheit, die geschlossen wird, auch wenn es sich um separate Möglichkeiten handelt.
+>Wenn Sie mehrere Opportunity-Filter verwenden, erhalten Sie möglicherweise falsche Antworten. Wenn Sie das obige Beispiel mit zwei Opportunity-Filtern erstellen, erhalten Sie eine Liste der Leads, die eine Opportunity haben, die mindestens 5.000 US-Dollar beträgt, sowie jede Opportunity, die geschlossen wird, selbst wenn es sich um separate Opportunities handelt.
 
-**Die Gelegenheit wurde aktualisiert**
+**Opportunity wurde aktualisiert**
 
-Der Filter **Gelegenheit wurde aktualisiert** sucht nach Möglichkeiten, wenn ein bestimmtes Opportunity-Feld aktualisiert wurde. Wählen Sie das Feld aus, das mit der Pulldown-Liste &quot;Trigger-Attribut&quot;überprüft werden soll, und verwenden Sie dann die Begrenzungen, um den Änderungssatz einzuschränken.
+Der **Opportunity wurde aktualisiert** Filter sucht nach jeder Opportunity, wenn ein bestimmtes Opportunity-Feld aktualisiert wurde. Trigger Wählen Sie das Feld aus, das mit dem Pulldown-Menü Feldattribut überprüft werden soll, und grenzen Sie dann den Änderungssatz mithilfe der Einschränkungen ein.
 
-Dieser Filter zeigt beispielsweise alle Leads an, deren Datum sich in den letzten 30 Tagen geändert hat:
+Beispielsweise zeigt dieser Filter alle Leads an, deren Abschlussdatum sich in den letzten 30 Tagen geändert hat:
 
 ![](assets/opportunity-filters-and-triggers-5.png)
 
-## Opportunity Trigger {#opportunity-triggers}
+## Opportunity-Trigger {#opportunity-triggers}
 
-Die folgenden Opportunity-Trigger sind verfügbar. Sie funktionieren genau wie die entsprechenden Filter (siehe Beschreibung weiter oben). Sie können jedoch Kampagnen direkt bei Eintreten des Ereignisses Trigger haben:
+Die folgenden Opportunity-Trigger sind verfügbar. Sie funktionieren genau wie die entsprechenden (zuvor beschriebenen) Filter, mit dem Unterschied, dass sie Kampagnen direkt bei Eintritt des Ereignisses in den Trigger aufnehmen können:
 
 * Opportunity wird aktualisiert
 * Zu Opportunity hinzugefügt
 * Aus Opportunity entfernt
 
-Beispielsweise können Sie diese Smart-Liste zum Trigger verwenden, wenn ein Lead einer beliebigen Gelegenheit hinzugefügt wird. Im Fluss können Sie sie der Liste Ausgesetzte Marketing hinzufügen oder ihnen eine zielgerichtete E-Mail senden.
+Beispielsweise können Sie diese Smart-Liste zum Trigger verwenden, wenn einer Opportunity ein Lead hinzugefügt wird. Im Fluss können Sie sie zur Liste ausgesetztes Marketing hinzufügen oder ihnen eine zielgerichtete E-Mail senden.
 
 ![](assets/opportunity-filters-and-triggers-6.png)
 
-Um Ihre Opportunity-benutzerdefinierten Felder Trigger, verwenden Sie den Trigger **Opportunity is Updated** und wählen Sie das Feld im Pulldown aus:
+Verwenden Sie zum Trigger Ihrer benutzerdefinierten Opportunity-Felder den Trigger **Opportunity wird aktualisiert** und wählen Sie das Feld in der Pulldown-Liste aus:
 
 ![](assets/opportunity-filters-and-triggers-7.png)
