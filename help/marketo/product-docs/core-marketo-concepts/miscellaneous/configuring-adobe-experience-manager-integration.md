@@ -1,6 +1,6 @@
 ---
 unique-page-id: 30081815
-description: Konfigurieren der Adobe Experience Manager-Integration - Marketo Docs - Produktdokumentation
+description: Konfigurieren der Adobe Experience Manager-Integration - Marketo-Dokumente - Produktdokumentation
 title: Konfigurieren der Adobe Experience Manager-Integration
 hide: true
 hidefromtoc: true
@@ -15,59 +15,59 @@ ht-degree: 0%
 
 # Konfigurieren der Adobe Experience Manager-Integration {#configuring-adobe-experience-manager-integration}
 
-Konfigurieren Sie Adobe Experience Manager (AEM), damit Sie auf AEM Assets zugreifen, sie auswählen und in Marketo Engage Design Studio importieren können.
+Konfigurieren Sie Adobe Experience Manager (AEM), damit Sie auf AEM-Assets zugreifen, sie auswählen und in Marketo Engage Design Studio importieren können.
 
 >[!NOTE]
 >
->**Erforderliche Administratorberechtigungen**
+>**Administratorberechtigungen erforderlich**
 
 >[!IMPORTANT]
 >
->* Diese Integration funktioniert nur mit On-Premise-Implementierungen von AEM und wird nicht für AEM Cloud Service-Implementierungen unterstützt.
+>* Diese Integration funktioniert nur mit On-Premise-Implementierungen von AEM und wird bei AEM Cloud Service-Implementierungen nicht unterstützt.
 >
->* Diese Funktion wird derzeit nur in Firefox vollständig unterstützt. Sie wird in Safari nicht unterstützt und funktioniert möglicherweise nicht in der neuesten Version von Chrome, je nach Ihren SameSite-Cookie-Einstellungen.
+>* Derzeit wird diese Funktion nur in Firefox vollständig unterstützt. Er wird in Safari nicht unterstützt und funktioniert möglicherweise nicht in der neuesten Version von Chrome, je nach den SameSite-Cookie-Einstellungen.
 
-1. Navigieren Sie zur Adobe Experience Manager (die URL ist unternehmensspezifisch).
+1. Navigieren Sie zur Adobe Experience Manager (die URL ist spezifisch für Ihr Unternehmen).
 
    ![](assets/one.png)
 
-1. Sie können sich mit Adobe anmelden oder sich lokal anmelden. In diesem Beispiel werden wir uns lokal anmelden.
+1. Sie können sich mit Adobe anmelden oder sich lokal anmelden. In diesem Beispiel melden wir uns lokal an.
 
    ![](assets/two.png)
 
-1. Klicken Sie in **[!UICONTROL Tools]** auf **[!UICONTROL Vorgänge]** und wählen Sie **[!UICONTROL Web-Konsole]** aus.
+1. Klicken Sie **[!UICONTROL Tools]** auf **[!UICONTROL Vorgänge]** und wählen Sie **[!UICONTROL Web-Konsole]** aus.
 
    ![](assets/2a.png)
 
-1. Suchen Sie in Ihrem Browser (Strg+f unter Windows, Befehl+F unter Mac) nach &quot;Adobe Granite Cross-Origin Resource Sharing Policy&quot;.
+1. Suchen Sie in Ihrem Browser (Strg+F unter Windows, Befehl+F unter Mac) nach &quot;Adobe Granite Cross-Origin Resource Sharing Policy“.
 
    ![](assets/three.png)
 
-1. Klicken Sie auf das Symbol **+** rechts.
+1. Klicken Sie auf das **+** rechts.
 
    ![](assets/four.png)
 
-1. Geben Sie im Textfeld **[!UICONTROL Zulässiger Ursprung (Regexp)]** den Wert `https://.*\.marketo\.com` ein und klicken Sie auf **[!UICONTROL Speichern]**.
+1. Geben Sie **[!UICONTROL Textfeld „Zulässige Ursprünge (Regexp]** ein und klicken Sie auf `https://.*\.marketo\.com`Speichern ****.
 
    ![](assets/five-psd.png)
 
-1. Klicken Sie in der Kopfzeile oben auf der Seite auf **[!UICONTROL Web-Konsole]** und wählen Sie **[!UICONTROL Systeminformationen]** aus.
+1. Klicken Sie oben auf der Seite in der Kopfzeile auf **[!UICONTROL Web-Konsole]** und wählen Sie **[!UICONTROL Systeminformationen]** aus.
 
    ![](assets/six.png)
 
-1. Klicken Sie unter &quot;Server Information&quot;auf die Schaltfläche **[!UICONTROL Neu starten]** .
+1. Klicken Sie unter „Server Information“ auf die **[!UICONTROL Neustart]**-Schaltfläche.
 
    ![](assets/seven.png)
 
-1. Klicken Sie zur Bestätigung auf **[!UICONTROL OK]** .
+1. Klicken **[!UICONTROL zur Bestätigung]** OK.
 
    ![](assets/eight.png)
 
-1. Klicken Sie unter Marketo Engage auf **[!UICONTROL Admin]**.
+1. Klicken Sie in Marketo Engage auf **[!UICONTROL Admin]**.
 
    ![](assets/nine.png)
 
-1. Wählen Sie unter &quot;Integration&quot;die Option **[!UICONTROL Adobe Experience Manager]**.
+1. Wählen Sie unter Integration die Option **[!UICONTROL Adobe Experience Manager]** aus.
 
    ![](assets/ten.png)
 

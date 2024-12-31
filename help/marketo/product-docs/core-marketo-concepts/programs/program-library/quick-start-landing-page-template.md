@@ -12,77 +12,77 @@ ht-degree: 0%
 
 # Schnellstart-Landingpage-Vorlage {#quick-start-landing-page-template}
 
-Einige der Startprogramme in der Marketo Engage Reference Library enthalten eine einfache, benutzerfreundliche und anpassbare Landingpage-Vorlage, die die schnelle Erstellung von Landingpages in einer Reihe von Marketing-Anwendungsfällen ermöglicht.
+Einige der Startprogramme in der Marketo Engage-Referenzbibliothek enthalten eine einfache, benutzerfreundliche und anpassbare Landingpage-Vorlage, mit der Landingpages in einer Reihe von Marketing-Anwendungsfällen schnell erstellt werden können.
 
 >[!TIP]
 >
->Weitere Informationen zu [Guided Landing Page Templates](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md){target="_blank"}
+>Weitere Informationen zu [Geführte Landingpage-Vorlagen](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md){target="_blank"}
 
-Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Programms an das Adobe-Account-Team oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} .
+Wenden Sie sich für weitere Strategieunterstützung oder Hilfe bei der Anpassung eines Programms an das Adobe-Account-Team oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
-## Bereichszusammenfassung {#sections-summary}
+## Zusammenfassung der Abschnitte {#sections-summary}
 
 ### Logo-Bereich {#logo-section}
 
-* Umfasst Bildelement zum Austauschen des Logos gegen ein anderes Bild
-* Umfasst zu bearbeitende Variablen:
-   * Logogröße
+* Enthält ein Bildelement, um das Logo gegen ein anderes Bild auszutauschen
+* Enthält zu bearbeitende Variablen:
+   * Logo-Größe
    * Logo-Ausrichtung
-   * Hintergrundfarbe für den Logo-Bereich
-   * Bereich ein- oder ausblenden
-   * Auffüllung oben im Abschnitt
+   * Hintergrundfarbe für den Logoabschnitt
+   * Ein- oder Ausblenden des Abschnitts
+   * Oberer Abstand des Abschnitts
    * Unterer Abstand des Abschnitts
 * ![](assets/quick-start-landing-page-template-1.png)
 
-### Bildabschnitt {#image-section}
+### Bildausschnitt {#image-section}
 
-* Umfasst Bildelement zum Austauschen des Logos gegen ein anderes Bild
-* Umfasst zu bearbeitende Variablen:
-   * Link zum Bannerbild
-   * Die Bannerbreite - eine der Schalter unten rechts ermöglicht es Ihnen, das Bild entweder auf die Breite des Inhalts-Containers oder auf die Breite des gesamten Browsers auszurichten
-   * Bereich ein- oder ausblenden
+* Enthält ein Bildelement, um das Logo gegen ein anderes Bild auszutauschen
+* Enthält zu bearbeitende Variablen:
+   * Der Link zum Bannerbild
+   * Die Bannerbreite - einer der Schalter unten rechts ermöglicht es Ihnen, das Bild entweder als Breite des Inhalts-Containers oder als Breite des gesamten Browsers festzulegen
+   * Ein- oder Ausblenden des Abschnitts
 * ![](assets/quick-start-landing-page-template-2.png)
 
-### 2-Spalten-Text links, Formular rechts {#two-col-left-form-right}
+### 2-spaltiger Text links, Formular rechts {#two-col-left-form-right}
 
-* Überschriftentextelement zum Aktualisieren der Überschriftenkopie
-* Absatztext-Element zum Aktualisieren der Absatzkopie
-* Formularelement zum Hinzufügen in einem Formular
-* Textelement unter dem Formular zum Bearbeiten des Textes und der Links für Datenschutzrichtlinien
+* Überschriftentextelement zur Aktualisierung der Überschriftenkopie
+* Absatztextelement zur Aktualisierung der Absatzkopie
+* Formularelement, das einem Formular hinzugefügt werden soll
+* Textelement unter dem Formular zum Bearbeiten von Text und Links für Datenschutzrichtlinien
 * Zu bearbeitende Variablen:
 Hintergrundfarbe für Abschnitt
    * Hintergrundfarbe direkt hinter dem Formular
-   * Rahmenradius für Formularumrandungen (dadurch, dass sie gekrümmte Ecken haben oder, falls auf &quot;0&quot;gesetzt, von Ecken quadrieren)
-   * Anzeigen oder Ausblenden des gesamten Abschnitts
-   * Ein- oder Ausblenden des Formulars (Ausblenden des Formulars) bewirkt, dass der Text in der linken Spalte die Breite der Seite ausfüllt. Dies kann für eine Dankeseite oder Bestätigungsseite verwendet werden, auf der kein Formular vorhanden ist.)
-   * Datenschutz-Richtlinientext ein- oder ausblenden
+   * Rahmenradius für das Feld um das Formular (sodass es gekrümmte Ecken hat oder, falls auf „0“ eingestellt, quadratische Ecken)
+   * Ein- oder Ausblenden des gesamten Abschnitts
+   * Ein- oder Ausblenden des Formulars (das Ausblenden des Formulars bewirkt, dass der Text in der linken Spalte die Seitenbreite ausfüllt). Dies kann für eine Danksagungs- oder Bestätigungsseite verwendet werden, auf der kein Formular vorhanden ist.)
+   * Ein- oder Ausblenden des Datenschutzrichtlinientextes
 * ![](assets/quick-start-landing-page-template-3.png)
 
 ### Videoabschnitt {#video-section}
 
-* Textelement zum Aktualisieren des Überschriftentextes
+* Textelement zum Aktualisieren des Überschrifttexts
 * Zu bearbeitende Variablen:
    * Hintergrundfarbe für Abschnitt
-   * Einbettungscode für Video
-   * Videoüberschrift einblenden/ausblenden
+   * Video-Einbettungs-Code
+   * Video-Überschrift ein-/ausblenden
    * Video ein-/ausblenden
 * ![](assets/quick-start-landing-page-template-4.png)
 
-### Fußzeilenbereich {#footer-section}
+### Fußzeilenabschnitt {#footer-section}
 
 * Textelement zum Bearbeiten des Inhalts in der linken Spalte
-* Textelement zum Aktualisieren der Social-Symbole (Symbole verwenden die Schriftart FontAwesome anstelle von Bildern, können aber durch Bilder ersetzt werden).
+* Textelement zum Aktualisieren der Social-Media-Symbole (Symbole verwenden die FontAwesome-Schriftart anstelle von Bildern, können jedoch durch Bilder ersetzt werden).
 * Zu bearbeitende Variablen:
    * Hintergrundfarbe für Abschnitt
-   * Farbe für Social-Symbole
-   * Bereich einblenden/ausblenden
+   * Social-Media-Symbolfarbe
+   * Abschnitt ein-/ausblenden
 * ![](assets/quick-start-landing-page-template-5.png)
 
 ### Zusätzliche Variablen {#additional-variables}
 
-* **Schaltflächenrahmenradius**: Passt die Formularschaltfläche entweder auf- oder rechteckig an
+* **Rahmenradius der Schaltfläche**: Passt die Formularschaltfläche entweder gerundet oder rechteckig an
 * **Schaltflächenfarbe**: Aktualisiert die Farbe der Schaltfläche im Formular
-* **Farbe des Mauszeigers der Schaltfläche**: ändert die Farbe des Hover-Status für die Schaltfläche im Formular
-* **Linkfarbe**: Aktualisiert die Farbe der Links auf der gesamten Seite
-* **Bereichs-Top-Abstand**: Fügt über jedem Abschnitt Platz hinzu, mit Ausnahme des Logo-Bereichs
-* **Abschnitt &quot;Unterer Abstand&quot;**: Fügt unterhalb jedes Abschnitts mit Ausnahme des Bereichs &quot;Logos&quot;Platz hinzu.
+* **Hover-Farbe für Schaltfläche**: Ändert die Farbe des Hover-Status für die Schaltfläche auf dem Formular
+* **Link-Farbe**: Aktualisiert die Farbe der Links auf der gesamten Seite
+* **Abschnittsoberer Abstand**: Fügt über jedem Abschnitt mit Ausnahme des Logoabschnitts Leerzeichen hinzu.
+* **Abschnitt Abstand unten**: Fügt unterhalb jedes Abschnitts mit Ausnahme des Abschnitts „Logos“ Leerzeichen hinzu

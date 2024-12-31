@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2953348
-description: Einstiege direkt im Marketingkalender erstellen - Marketo-Dokumente - Produktdokumentation
-title: Erstellen von Einträgen direkt im Marketingkalender
+description: Einträge direkt im Marketing-Kalender erstellen - Marketo-Dokumente - Produktdokumentation
+title: Einträge direkt im Marketing-Kalender erstellen
 exl-id: 114b94e8-39f0-4e5d-abb0-27515957b33f
 feature: Marketing Calendar
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
@@ -11,16 +11,16 @@ ht-degree: 3%
 
 ---
 
-# Erstellen von Einträgen direkt im Marketingkalender {#create-entries-directly-in-the-marketing-calendar}
+# Einträge direkt im Marketing-Kalender erstellen {#create-entries-directly-in-the-marketing-calendar}
 
-Marketo ermöglicht es Ihnen, Einträge direkt in Ihrem Marketingkalender mithilfe des Programmfokus-Modus zu erstellen. Sie können die folgenden Eintragstypen erstellen:
+Mit Marketo können Sie mithilfe des Programmfokusmodus Einträge direkt in Ihrem Marketing-Kalender erstellen. Sie können die folgenden Eintragstypen erstellen:
 
-* Einfache Einträge
+* Grundlegende Einträge
 * Benutzerdefinierte Einträge
 * E-Mail-Programme
 * Intelligente Kampagnen
 
-1. Klicken Sie auf die Kachel **[!UICONTROL Kalender]**.
+1. Klicken Sie auf **[!UICONTROL Kachel]** Kalender“.
 
    ![](assets/2017-05-10-15-30-47-2.png)
 
@@ -38,12 +38,12 @@ Marketo ermöglicht es Ihnen, Einträge direkt in Ihrem Marketingkalender mithil
 
    >[!TIP]
    >
-   >Beachten Sie, dass Sie auf dieselbe Weise auch **Smart-Kampagnen**, **E-Mail-Programme** und **einfache Einträge** erstellen können.
+   >Beachten Sie, dass Sie **Smart-Kampagnen**, **E-Mail-** und **Basic Entries** auf dieselbe Weise erstellen können.
 
-1. Schließen Sie nach Abschluss der Bearbeitung den Fokusmodus des Programms.
+1. Wenn Sie die Bearbeitung abgeschlossen haben, schließen Sie den Programmfokusmodus.
 
    ![](assets/image2014-10-20-13-3a8-3a29.png)
 
 >[!MORELIKETHIS]
 >
->[Einträge direkt im Marketingkalender bearbeiten](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"}
+>[Einträge direkt im Marketing-Kalender bearbeiten](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"}

@@ -1,35 +1,35 @@
 ---
 unique-page-id: 1147116
-description: Verwalten von My Tokens - Marketo Docs - Produktdokumentation
-title: Verwalten von My Tokens
+description: Verwalten meiner Token - Marketo-Dokumente - Produktdokumentation
+title: Meine Token verwalten
 exl-id: a2e70c17-a8d4-4723-ac7c-da1979828dc9
 feature: Tokens
 source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '168'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
-# Verwalten von My Tokens {#managing-my-tokens}
+# Meine Token verwalten {#managing-my-tokens}
 
-Die Verwendung von Token kann Ihre Bemühungen in Marketo vereinfachen. Sie können [My Tokens](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"} (benutzerdefinierte Token) in Flussprofilen, Webhooks, E-Mails und Landingpages verwenden. Hier ist, wie man sie macht.
+Die Verwendung von Token kann Ihre Arbeit in Marketo vereinfachen. Sie können [Meine Token](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"} (benutzerdefinierte Token) in Flussschritten, Webhooks, E-Mails und Landingpages verwenden. So stellt man sie her.
 
 >[!TIP]
 >
->Erfahren Sie mehr darüber, welche Token bereits in der [Token-Übersicht](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"} verfügbar sind.
+>Weitere Informationen dazu, welche Token bereits verfügbar sind, finden Sie unter [ von Token ](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
 
-## Erstellen eines My Token {#create-a-my-token}
+## Mein Token erstellen {#create-a-my-token}
 
-1. Wechseln Sie zu **[!UICONTROL Marketingaktivitäten]**.
+1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Wählen Sie ein Programm oder einen Kampagnenordner aus. Klicken Sie auf **[!UICONTROL Meine Token]**.
+1. Programm- oder Kampagnenordner auswählen. Klicken Sie **[!UICONTROL Meine Token]**.
 
    ![](assets/image2014-9-18-12-3a4-3a27.png)
 
-1. Wählen Sie den Typ **[!UICONTROL My Token]** . Ziehen Sie es auf die Arbeitsfläche.
+1. Wählen Sie einen **[!UICONTROL Mein Token]**-Typ aus. Ziehen Sie es auf die Arbeitsfläche.
 
    ![](assets/image2014-9-18-12-3a4-3a39.png)
 
@@ -41,23 +41,23 @@ Die Verwendung von Token kann Ihre Bemühungen in Marketo vereinfachen. Sie kön
 
    ![](assets/image2014-9-18-12-3a5-3a5.png)
 
-   Ja! Du hast ein My Token gemacht.
+   Juhu! Du hast ein My Token gemacht.
 
    ![](assets/image2014-9-18-12-3a5-3a15.png)
 
 ## Mein Token bearbeiten {#edit-a-my-token}
 
-1. Doppelklicken Sie auf das **[!UICONTROL My Token]** und nehmen Sie Ihre Änderungen vor. Klicken Sie auf **Speichern**.
+1. Doppelklicken Sie auf &quot;**[!UICONTROL Token]** und nehmen Sie Ihre Änderungen vor. Klicken Sie auf **Speichern**.
 
    ![](assets/image2014-9-18-12-3a5-3a45.png)
 
-## Löschen eines My Token {#delete-a-my-token}
+## Mein Token löschen {#delete-a-my-token}
 
 >[!CAUTION]
 >
->Wenn Sie ein My Token löschen, stellen Sie sicher, dass Sie in keinem Asset darauf verweisen. Ein leeres Leerzeichen wird an allen Stellen angezeigt, auf die verwiesen wird, wenn es gelöscht wird.
+>Wenn Sie ein Mein Token löschen, stellen Sie sicher, dass Sie in keinem Asset darauf verweisen. Ein Leerzeichen wird an jeder Stelle angezeigt, an der es referenziert wird, wenn es gelöscht wird.
 
-1. Klicken Sie mit der rechten Maustaste auf das **[!UICONTROL My Token]**. Wählen Sie **[!UICONTROL Token löschen]** aus.
+1. Klicken Sie mit der rechten Maustaste auf **[!UICONTROL Mein Token]**. Wählen Sie **[!UICONTROL Token löschen]** aus.
 
    ![](assets/image2014-9-18-12-3a7-3a24.png)
 
@@ -68,5 +68,5 @@ Die Verwendung von Token kann Ihre Bemühungen in Marketo vereinfachen. Sie kön
    >[!MORELIKETHIS]
    >
    >* [Token-Übersicht](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}
-   >* [Grundlegendes zu meinen Token in einem Programm](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"}
+   >* [Verstehen meiner Token in einem Programm](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"}
    >* [Verwenden von URLs in meinen Token](/help/marketo/product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md){target="_blank"}

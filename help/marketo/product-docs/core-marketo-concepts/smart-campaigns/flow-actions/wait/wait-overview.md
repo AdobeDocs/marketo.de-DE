@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # Warteübersicht {#wait-overview}
 
-Halten Sie eine Person in einem Fluss mit intelligenter Kampagne an, indem Sie den praktischen **Warteschritt** verwenden.
+Pausieren Sie eine Person in einem Smart-Campaign-Fluss mit dem praktischen **Warteschritt**.
 
 ![](assets/wait-overview-1.png)
 
-Beachten Sie, wie Sie in natürliche Sprache eingeben können, z. B. &quot;4 Stunden&quot;. Nehmen Sie jedoch **nicht** vor, kürzen Sie die Wörter (d. h. 4 Stunden). Die intelligente Kampagne würde weiterhin laufen, aber der Warteschritt würde ignoriert.
+Beachten Sie, wie Sie in natürlicher Sprache tippen können, z. B. „4 Stunden“. **** die Wörter jedoch nicht abkürzen (d. h. 4 Stunden). Die intelligente Kampagne wird weiterhin ausgeführt, aber der Warteschritt wird ignoriert.
 
 >[!CAUTION]
 >
->Eine Änderung der Dauer eines Warteschritts wirkt sich nicht auf Personen aus, die bereits in diesen Schritt eingetreten sind. Beispiel: Sie haben einen Warteschritt für 5 Tage, eine Person tritt ihn ein, dann ändern Sie den Warteschritt auf 7 Tage - diese Person wartet immer noch die ursprünglichen 5 Tage, bevor sie zum nächsten Flussschritt übergeht.
+>Eine Änderung der Dauer eines Warteschritts wirkt sich nicht auf Personen aus, die bereits daran teilgenommen haben. Beispiel: Sie haben einen Warteschritt für 5 Tage, eine Person tritt in ihn ein, Sie ändern dann den Warteschritt in 7 Tage - diese Person wartet immer noch nur die ursprünglichen 5 Tage, bevor sie zum nächsten Flussschritt fortfährt.
 
 >[!TIP]
 >
->Wenn sich bereits jemand in einem Warteschritt befindet und Sie nicht möchten, dass er nach Ende der Wartezeit fortfährt, fügen Sie &quot;[remove from flow](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md)&quot;direkt nach dem Warteschritt ein. Geben Sie mit der Option [Auswahl hinzufügen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) an, wer entfernt werden soll.
+>Wenn Sie bereits jemanden in einem Warteschritt haben und Sie nicht möchten, dass er nach Ablauf der Wartezeit weiterläuft, fügen Sie [Aus Fluss entfernen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) direkt nach dem Warteschritt ein. Geben Sie mit der Option „Auswahl hinzufügen[ an, wen Sie ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) möchten.
 
-Es gibt drei Möglichkeiten, einen Schritt zum Warten zu verwenden:
+Es gibt drei Möglichkeiten, einen Warteflussschritt zu verwenden:
 
 1. [Verwenden einer Dauer in einem Warteflussschritt](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-duration-in-a-wait-flow-step.md)
 1. [Verwenden eines bestimmten Datums in einem Warteflussschritt](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.md)

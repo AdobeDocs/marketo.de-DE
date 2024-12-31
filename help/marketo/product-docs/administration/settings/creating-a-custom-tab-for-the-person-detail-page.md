@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2360305
-description: Erstellen einer benutzerdefinierten Registerkarte für die Seite "Personendetails"- Marketo-Dokumente - Produktdokumentation
-title: Erstellen einer benutzerdefinierten Registerkarte für die Seite "Personendetails"
+description: Erstellen einer benutzerdefinierten Registerkarte für die Personendetailseite - Marketo-Dokumente - Produktdokumentation
+title: Erstellen einer benutzerdefinierten Registerkarte für die Personendetailseite
 exl-id: 8a8bd4a0-6a18-4576-b4a3-89c31b502cd6
 feature: Administration
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
@@ -11,38 +11,38 @@ ht-degree: 0%
 
 ---
 
-# Erstellen einer benutzerdefinierten Registerkarte für die Seite &quot;Personendetails&quot; {#creating-a-custom-tab-for-the-person-detail-page}
+# Erstellen einer benutzerdefinierten Registerkarte für die Personendetailseite {#creating-a-custom-tab-for-the-person-detail-page}
 
-Wenn Sie einen bestimmten Satz von Feldern in der Person immer wieder suchen, sollten Sie ein benutzerdefiniertes Layout erstellen, um die Dinge zu vereinfachen.
+Wenn Sie immer wieder nach einem bestimmten Satz von Feldern in den Personendetails suchen, sollten Sie zur Vereinfachung ein benutzerdefiniertes Layout erstellen.
 
-1. Wechseln Sie zum Bereich **[!UICONTROL Admin]** .
+1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-1.png)
 
-1. Klicken Sie auf **[!UICONTROL Feldverwaltung]**.
+1. Klicken Sie **[!UICONTROL Feldverwaltung]**.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-2.png)
 
-1. Klicken Sie auf die Registerkarte **[!UICONTROL Designer für benutzerdefiniertes Layout]**.
+1. Klicken Sie auf die **[!UICONTROL Benutzerdefiniertes Layout - Designer]**.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-3.png)
 
-1. Suchen Sie ein Feld, das Sie hinzufügen möchten, und ziehen Sie es per Drag-and-Drop auf die Arbeitsfläche.
+1. Suchen Sie ein Feld, das Sie hinzufügen möchten, und ziehen Sie es dann per Drag-and-Drop auf die Arbeitsfläche.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-4.png)
 
-1. Fügen Sie weitere Felder hinzu, bis das Layout Ihren Vorstellungen entspricht.
+1. Fügen Sie weitere Felder hinzu, bis Sie das Layout Ihren Vorstellungen entsprechend eingerichtet haben.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-5.png)
 
    >[!NOTE]
    >
-   >Sie haben zwei Spalten, mit denen Sie arbeiten können.
+   >Es stehen zwei Spalten zur Verfügung.
 
-   Wenn Sie sich dazu entscheiden, ein Feld zu entfernen, klicken Sie mit der rechten Maustaste auf das Feld, das Sie entfernen möchten, und klicken Sie auf **[!UICONTROL Löschen]**.
+   Wenn Sie ein Feld entfernen möchten, klicken Sie mit der rechten Maustaste auf das zu entfernende Feld und klicken Sie auf **[!UICONTROL Löschen]**.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-6.png)
 
-   Fantastische Arbeit! Wenn Sie jetzt die Details einer Person laden, können Sie Ihr benutzerdefiniertes Layout verwenden, um auf die für Sie wichtigen Informationen zuzugreifen.
+   Tolle Arbeit! Wenn Sie jetzt die Details einer Person laden, können Sie Ihr benutzerdefiniertes Layout verwenden, um auf die für Sie wichtigen Informationen zuzugreifen.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-7.png)

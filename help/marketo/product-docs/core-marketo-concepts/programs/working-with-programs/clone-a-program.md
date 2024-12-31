@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1147110
-description: Programm klonen - Marketo-Dokumente - Produktdokumentation
+description: Klonen eines Programms - Marketo-Dokumente - Produktdokumentation
 title: Klonen eines Programms
 exl-id: 5597007c-8f58-4306-ab78-3e65d6369fbf
 feature: Programs
@@ -15,23 +15,23 @@ ht-degree: 0%
 
 Klonen Sie schnell und einfach ein ganzes Programm und alle zugehörigen Assets, anstatt alles manuell neu zu erstellen.
 
-1. Suchen und wählen Sie das Programm aus, das Sie klonen möchten. Klicken Sie in der Dropdown-Liste **[!UICONTROL Programmaktionen]** auf **[!UICONTROL Klonen]**.
+1. Suchen Sie das Programm, das Sie klonen möchten, und wählen Sie es aus. Klicken **[!UICONTROL in der Dropdown]** Liste „Programmaktionen“ auf **[!UICONTROL Klonen]**.
 
    ![](assets/image2014-9-5-14-3a31-3a49.png)
 
-1. Wählen Sie aus, an welche Stelle das Programm geklont werden soll.
+1. Wählen Sie aus, wohin Sie Ihr Programm klonen möchten.
 
    >[!NOTE]
    >
-   >Programme können in [campaign](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) [folder](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) oder [workspaces](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) geklont werden. Stellen Sie sicher, dass Sie alle zugrunde liegenden abhängigen Assets (E-Mails, Snippets, Landingpage-Vorlagen usw.) durch den Zielarbeitsbereich vor dem Klonen.
+   >Programme können in [Kampagnen](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) [Ordner](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) oder [Arbeitsbereiche](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) geklont werden. Stellen Sie vor dem Klonen sicher, dass Sie alle zugrunde liegenden abhängigen Assets (E-Mails, Snippets, Landingpage-Vorlagen usw.) für den Zielarbeitsbereich freigeben.
 
    ![](assets/cloneto.png)
 
    >[!NOTE]
    >
-   >Sehen Sie diesen HINWEIS im obigen Screenshot? Das bedeutet, wenn Sie ein Programm mit 1000 oder mehr Personen in einer Liste klonen, wird die Liste selbst geklont, aber es ist leer. Wenn Sie ein Programm mit einer Liste klonen, die 999 Personen oder weniger enthält, wird diese Liste zusammen mit allen Mitgliedern im geklonten Programm angezeigt.
+   >Sehen Sie diesen HINWEIS im obigen Screenshot? Das bedeutet, dass beim Klonen eines Programms mit 1000 oder mehr Personen in einer Liste die Liste selbst geklont wird, aber leer bleibt. Wenn Sie ein Programm mit einer Liste von maximal 999 Personen klonen, wird diese Liste zusammen mit allen Mitgliedern im geklonten Programm angezeigt.
 
-1. Geben Sie einen [!UICONTROL Namen] ein.
+1. Geben Sie einen &quot;[!UICONTROL &quot; ].
 
    ![](assets/cloneprogramname.png)
 
@@ -39,14 +39,14 @@ Klonen Sie schnell und einfach ein ganzes Programm und alle zugehörigen Assets,
 
    ![](assets/choosefolderclone.png)
 
-1. Fügen Sie eine optionale Beschreibung hinzu und klicken Sie dann auf **[!UICONTROL Erstellen]**. Schauen Sie, wie schnell Sie ein neues Programm erstellen konnten, in dem alle Assets bereit sind zu starten!
+1. Fügen Sie eine optionale Beschreibung hinzu und klicken Sie dann auf **[!UICONTROL Erstellen]**. Sehen Sie, wie schnell Sie ein neues Programm mit allen Assets erstellen konnten, die einsatzbereit sind!
 
    ![](assets/createclone.png)
 
    >[!TIP]
    >
-   >Verwenden Sie diese Technik zusammen mit Token, um die Erstellung eines neuen Programms zu einem Kinderspiel zu machen.
+   >Verwenden Sie diese Technik zusammen mit Token, um die Erstellung neuer Programme zu einem Kinderspiel zu machen.
 
    >[!CAUTION]
    >
-   >Die Zeitkosten werden nicht übertragen, also fügen Sie diese Ihrem geklonten Programm hinzu, wenn Sie eine im Original eingestellt haben.
+   >Periodenkosten werden nicht übertragen, also stellen Sie sicher, dass Sie dies zu Ihrem geklonten Programm hinzufügen, wenn Sie im Original einen Satz hatten.

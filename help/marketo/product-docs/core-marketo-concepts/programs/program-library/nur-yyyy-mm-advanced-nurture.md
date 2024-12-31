@@ -1,5 +1,5 @@
 ---
-description: NUR-YYYY-MM-Erweiterte Krankenversicherung - Marketo Docs - Produktdokumentation
+description: NUR-YYYY-MM-Advanced Nurture - Marketo-Dokumentation
 title: NUR-YYYY-MM-Advanced Nurture
 feature: Programs
 exl-id: bd9c6605-a13f-4c73-aaa8-eca43cfcc950
@@ -12,9 +12,9 @@ ht-degree: 13%
 
 # NUR-YYYY-MM-Advanced Nurture {#nur-yyyy-mm-advanced-nurture}
 
-Dies ist ein Beispiel für fortschrittliche Nurture-Programme, die das Marketo Engage Engagement-Programm nutzen. Verschachtelte E-Mail-Programme verhindern, dass Benutzer bereits konsumierte Inhalte empfangen, oder steuern, welche Art von Inhalt sie in den einzelnen Streams verwenden sollten. Attributionsberichte können für jedes einzelne verschachtelte E-Mail-Programm ausgeführt werden. Kanäle: &quot;Krankenpflege&quot; und ein spezieller Kanal &quot;E-Mail-Pflege&quot; für die verschachtelten E-Mail-Programme senden eine Newsletter-E-Mail mit einem Marketo Engage-E-Mail-Programm. Die E-Mail kann einen A/B-Test enthalten oder nicht.
+Dies ist ein Beispiel für erweiterte Nurture-Programme, die das Marketo Engage-Engagement-Programm verwenden. Verschachtelte E-Mail-Programme verhindern, dass Personen Inhalte erhalten, die sie bereits konsumiert haben, oder steuern den Typ des Inhalts, den sie in jedem Stream konsumieren sollen. Attributionsberichte können für jedes einzelne verschachtelte E-Mail-Programm ausgeführt werden. Kanäle: „Nurture“ und ein dedizierter Kanal „Nurture Email“ für die verschachtelten E-Mail-Programme senden eine Newsletter-E-Mail mit einem Marketo Engage-E-Mail-Programm. Die E-Mail kann einen A/B-Test enthalten oder nicht.
 
-Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Programms an das Adobe-Account-Team oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} .
+Wenden Sie sich für weitere Strategieunterstützung oder Hilfe bei der Anpassung eines Programms an das Adobe-Account-Team oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Kanal-Zusammenfassung {#channel-summary}
 
@@ -22,7 +22,7 @@ Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Prog
  <tbody> 
   <tr> 
    <th>Kanal</th> 
-   <th>Status der Mitgliedschaft</th>
+   <th>Mitgliedschaftsstatus</th>
    <th>Analytics Behavior</th>
    <th>Programmtyp</th>
   </tr> 
@@ -36,7 +36,7 @@ Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Prog
   <tr> 
    <td>E-Mail-Nurturing</td> 
    <td>01 - Überspringen 
-<br/>02 - Gesendet
+<br/>02 - gesendet
 <br/>03 - Interagiert - Erfolg</td>
    <td>Einschließlich</td>
    <td>Standard</td>
@@ -44,7 +44,7 @@ Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Prog
  </tbody> 
 </table>
 
-## Das Programm enthält die folgende Assets {#program-contains-the-following-assets}
+## Programm enthält die folgenden Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -97,52 +97,52 @@ Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Prog
   <tr> 
    <td>Intelligente Kampagne</td> 
    <td> </td>
-   <td>01 - Zu Krankenpflege hinzufügen</td>
+   <td>01 - Zu Nurture hinzufügen</td>
   </tr>
   <tr> 
    <td>Intelligente Kampagne</td> 
    <td> </td>
-   <td>02 - Anhalten</td>
+   <td>02 - Pause Nurture</td>
   </tr>
   <tr> 
    <td>Intelligente Kampagne</td> 
    <td> </td>
-   <td>03 - Wiederaufnahme der Fortpflanzung</td>
+   <td>03 - Resume Nurture</td>
   </tr>
   <tr> 
    <td>Intelligente Kampagne</td> 
    <td> </td>
-   <td>04 - Interagiert (Programmerfolg)</td>
+   <td>04 - Interagiert (Programm erfolgreich)</td>
   </tr>
   <tr> 
    <td>Intelligente Kampagne</td> 
    <td> </td>
-   <td>00 - E-Mail überspringen (in jedem verschachtelten Programm lokalisiert)</td>
+   <td>00 - E-Mail überspringen (in jedem verschachtelten Programm)</td>
   </tr>
   <tr> 
    <td>Intelligente Kampagne</td> 
    <td> </td>
-   <td>01 - E-Mail senden (in jedem verschachtelten Programm lokalisiert)</td>
+   <td>01 - E-Mail senden (in jedem verschachtelten Programm)</td>
   </tr>
   <tr> 
    <td>Intelligente Kampagne</td> 
    <td> </td>
-   <td>02 - Engaged-Success (in jedem verschachtelten Programm lokalisiert)</td>
+   <td>02 - Engaged-Success (in jedem verschachtelten Programm)</td>
   </tr>
   <tr> 
    <td>Ordner</td> 
    <td> </td>
-   <td>Assets (enthält verschachtelte Programme und Asset-Ordner, die auch in verschachtelten Programmen gespeichert sind, um E-Mails zu enthalten)</td>
+   <td>Assets (enthält verschachtelte Programme und Asset-Ordner, die auch in verschachtelten Programmen vorhanden sind, um E-Mails zu enthalten)</td>
   </tr>
   <tr> 
    <td>Ordner</td> 
    <td> </td>
-   <td>Verschachtelte Programme (Lives under Assets Folder)</td>
+   <td>Verschachtelte Programme (in Assets verfügbar)</td>
   </tr>
   <tr> 
    <td>Ordner</td> 
    <td> </td>
-   <td>Kampagnen - Houses all Smart Campaigns in parent Nurture program and campaign folders are ebenfalls in each Nested Program</td>
+   <td>Kampagnen - Alle Smart-Kampagnen im übergeordneten Nurture-Programm werden gespeichert, und die Kampagnenordner befinden sich ebenfalls in jedem verschachtelten Programm.</td>
   </tr>
   <tr> 
    <td>Ordner</td> 
@@ -154,7 +154,7 @@ Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Prog
 
 ![](assets/nur-yyyy-mm-advanced-nurture-1.png)
 
-## My Tokens Include {#my-tokens-included}
+## Meine Token enthalten {#my-tokens-included}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -181,19 +181,19 @@ Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Prog
  </tbody> 
 </table>
 
-## Konfliktregeln {#conflict-rules}
+## Kollisionsregeln {#conflict-rules}
 
 * **Programm-Tags**
-   * Erstellen von Tags in diesem Abonnement - _Empfohlen_
+   * Tags in diesem Abonnement erstellen - _Empfohlen_
    * Ignorieren
 
-* **Vorlage für Einstiegsseiten mit demselben Namen**
+* **Landingpage-Vorlage mit demselben Namen**
    * Originalvorlage kopieren
-   * Verwenden Sie die Zielvorlage - _Empfohlen_
+   * Zielvorlage verwenden - _Empfohlen_
 
 * **Bilder mit demselben Namen**
    * Beide Dateien beibehalten
-   * Ersetzen des Elements in diesem Abonnement - _Empfohlen_
+   * Element in diesem Abonnement ersetzen - _Empfohlen_
 
 * **E-Mail-Vorlagen mit demselben Namen**
    * Beide Vorlagen beibehalten
@@ -201,16 +201,16 @@ Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Prog
 
 ## Bewährte Methoden {#best-practices}
 
-* Aktualisieren Sie die Vorlagen in Ihrem importierten Programm, um die derzeit verwendeten Vorlagen zu verwenden, oder aktualisieren Sie die neu importierte Vorlage entsprechend Ihrer Marke, indem Sie einen Ausschnitt oder Ihre entsprechenden Logos-/Fußzeileninformationen hinzufügen.
+* Erwägen Sie, die Vorlagen in Ihrem importierten Programm zu aktualisieren, um die aktuellen Markenvorlagen zu verwenden, oder aktualisieren Sie die neu importierte Vorlage, um Ihre Marke widerzuspiegeln, indem Sie einen Ausschnitt oder Ihre entsprechenden Logo-/Fußzeileninformationen hinzufügen.
 
-* Erwägen Sie, die Benennungsregel dieses Programmbeispiels zu aktualisieren, um sie an Ihre Benennungsregel anzupassen.
+* Erwägen Sie, die Namenskonvention dieses Programmbeispiels zu aktualisieren, um sie an Ihre Namenskonvention anzupassen.
 
-* Stellen Sie sicher, dass Sie Regeln eingerichtet haben, um Ihre Pflegekadenz anzuhalten und wieder aufzunehmen. Diese Smart-Kampagnen sollten aktiviert oder geplant werden, bevor das Interaktionsprogramm aktiviert wird.
+* Stellen Sie sicher, dass Sie über Regeln verfügen, um Ihre Kadenz für das Pflegen auszusetzen und wieder aufzunehmen. Diese intelligenten Kampagnen sollten aktiviert oder geplant werden, bevor das Interaktionsprogramm aktiviert wird.
 
 >[!NOTE]
 >
->Denken Sie daran, die &quot;My Token Values&quot;-Werte in der Programmvorlage und jedes Mal, wenn Sie das Programm verwenden, nach Bedarf zu aktualisieren.
+>Denken Sie daran, die Werte für Mein Token in der Programmvorlage und jedes Mal, wenn Sie das Programm verwenden, nach Bedarf zu aktualisieren.
 
 >[!TIP]
 >
->Vergessen Sie nicht, die Kampagne &quot;04 - Interagiert (Programmerfolg)&quot; zu aktivieren, um den Erfolg zu verfolgen! Führen Sie dies _vor_ aus, wenn Ihre E-Mails gesendet werden.
+>Vergessen Sie nicht, die Kampagne „04 - Interagiert (Programmerfolg)“ zu aktivieren, um den Erfolg zu verfolgen! Tun Sie dies _vor_ wenn Ihre E-Mails gesendet werden.

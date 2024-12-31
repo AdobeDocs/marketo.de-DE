@@ -1,7 +1,7 @@
 ---
 unique-page-id: 1146931
-description: Erstellen einer neuen Smart-Kampagne - Marketo-Dokumente - Produktdokumentation
-title: Erstellen einer neuen Smart-Kampagne
+description: Erstellen einer neuen Smart Campaign - Marketo-Dokumente - Produktdokumentation
+title: Erstellen einer neuen intelligenten Kampagne
 exl-id: c24ef00a-1f5c-4d0f-a7ff-131dcb593119
 feature: Smart Campaigns
 source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
@@ -11,19 +11,19 @@ ht-degree: 0%
 
 ---
 
-# Erstellen einer neuen Smart-Kampagne {#create-a-new-smart-campaign}
+# Erstellen einer neuen intelligenten Kampagne {#create-a-new-smart-campaign}
 
-Smart-Kampagnen sind das wichtigste Tool im Marketo Engage. Sie können auf eine Person Trigger werden und Aktionen durchführen oder Millionen von Personen zusammenführen und eine Reihe von Durchsatzschritten ausführen.
+Smart-Kampagnen sind das wichtigste Tool beim Marketo Engage. Sie können Trigger auf eine Person anwenden und Aktionen durchführen oder Millionen von Personen aggregieren und eine Reihe von Flussschritten ausführen.
 
 >[!TIP]
 >
->Erfahren Sie mehr über [Smart-Kampagnen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"}.
+>Weitere Informationen zu [Smart-Kampagnen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"}.
 
-1. Wechseln Sie zu **[!UICONTROL Marketingaktivitäten]**.
+1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/create-a-new-smart-campaign-1.png)
 
-1. Klicken Sie mit der rechten Maustaste auf das gewünschte Programm und wählen Sie **[!UICONTROL Neue Smart-Kampagne]** aus.
+1. Klicken Sie mit der rechten Maustaste auf das gewünschte Programm und wählen Sie **[!UICONTROL Neue Smart-Kampagne]**.
 
    ![](assets/create-a-new-smart-campaign-2.png)
 
@@ -35,9 +35,9 @@ Smart-Kampagnen sind das wichtigste Tool im Marketo Engage. Sie können auf eine
 
    ![](assets/create-a-new-smart-campaign-3.png)
 
-   Als Nächstes erfahren Sie, wie Sie mit einer Smart-Liste definieren, welche Personen durch die Smart-Kampagne ausgeführt werden sollen.
+   Erfahren Sie als Nächstes, wie Sie mit einer Smart-Liste definieren, welche Personen die Smart-Kampagne durchlaufen sollen.
 
    >[!MORELIKETHIS]
    >
-   >* [Definieren einer Smart-Liste für Smart-Campaign | Batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}
-   >* [Definieren einer Smart-Liste für Smart-Campaign | Trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}
+   >* [Definieren der Smart-Liste für intelligente Kampagnen | Batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}
+   >* [Definieren der Smart-Liste für intelligente Kampagnen | Trigger ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}

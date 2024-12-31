@@ -13,7 +13,7 @@ ht-degree: 2%
 
 # Speichern einer Filterdefinition im Marketing-Kalender {#saving-a-filter-definition-in-the-marketing-calendar}
 
-Durch das Speichern eines Filters können Sie zwischen verschiedenen Filterdefinitionen hin und her wechseln.
+Durch Speichern eines Filters können Sie zwischen verschiedenen Filterdefinitionen hin- und herwechseln.
 
 >[!PREREQUISITES]
 >
@@ -23,7 +23,7 @@ Durch das Speichern eines Filters können Sie zwischen verschiedenen Filterdefin
 
    ![](assets/image2014-9-24-10-3a50-3a49.png)
 
-1. Klicken Sie auf das Speichern -Symbol.
+1. Klicken Sie auf das Symbol Speichern .
 
    ![](assets/image2014-9-24-10-3a50-3a57.png)
 
@@ -35,7 +35,7 @@ Durch das Speichern eines Filters können Sie zwischen verschiedenen Filterdefin
 
    ![](assets/image2014-9-24-10-3a51-3a12.png)
 
-   Sie können bei Bedarf [eine Kopie](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md){target="_blank"} der Definition an andere Marketo-Benutzer senden.
+   Bei Bedarf können Sie [eine Kopie) ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md){target="_blank"} Definition an andere Marketo-Benutzer senden.
 
    >[!NOTE]
    >

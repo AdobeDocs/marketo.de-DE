@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2360272
-description: Erstellen neuer Programm-Tag- und Tag-Werte - Marketo-Dokumente - Produktdokumentation
-title: Erstellen neuer Programm-Tag- und Tag-Werte
+description: Erstellen eines neuen Programms mit Tag- und Tag-Werten - Marketo-Dokumente - Produktdokumentation
+title: Erstellen eines neuen Programms mit Tag- und Tag-Werten
 exl-id: 67300761-df6d-45ce-850f-4443789a3be9
 feature: Tags
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
@@ -11,11 +11,11 @@ ht-degree: 0%
 
 ---
 
-# Erstellen neuer Programm-Tag- und Tag-Werte {#create-a-new-program-tag-and-tag-values}
+# Erstellen eines neuen Programms mit Tag- und Tag-Werten {#create-a-new-program-tag-and-tag-values}
 
 >[!NOTE]
 >
->**Erforderliche Administratorberechtigungen**
+>**Administratorberechtigungen erforderlich**
 
 Sie können benutzerdefinierte [Tags](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) für Ihre Programme erstellen und dem Tag Werte zuweisen.
 
@@ -23,11 +23,11 @@ Sie können benutzerdefinierte [Tags](/help/marketo/product-docs/core-marketo-co
 >
 >**Beispiel**
 >
->Programm-Tag: Target-Zielgruppe
+>Programm-Tag: Zielgruppe
 >
->Programm-Tag-Wert: SMB, Enterprise, Mid-Market
+>Programm Tag Wert: SMB, Enterprise, Mid-Market
 
-1. Wechseln Sie zum Bereich **[!UICONTROL Admin]** .
+1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
 
    ![](assets/create-a-new-program-tag-and-tag-values-1.png)
 
@@ -35,7 +35,7 @@ Sie können benutzerdefinierte [Tags](/help/marketo/product-docs/core-marketo-co
 
    ![](assets/create-a-new-program-tag-and-tag-values-2.png)
 
-1. Klicken Sie auf **[!UICONTROL Neu]** und wählen Sie **[!UICONTROL Neuer Tag-Typ]** aus.
+1. Klicken Sie auf **[!UICONTROL Neu]** und wählen Sie **[!UICONTROL Neuer Tag-Typ]**.
 
    ![](assets/create-a-new-program-tag-and-tag-values-3.png)
 
@@ -43,7 +43,7 @@ Sie können benutzerdefinierte [Tags](/help/marketo/product-docs/core-marketo-co
 
    ![](assets/create-a-new-program-tag-and-tag-values-4.png)
 
-1. Geben Sie so viele Werte ein, wie Sie benötigen. Wählen Sie aus, auf welche Programmtypen dieses Tag angewendet werden soll.
+1. Geben Sie beliebig viele Werte ein. Wählen Sie aus, auf welche Programmtypen dieses Tag angewendet werden soll.
 
    ![](assets/create-a-new-program-tag-and-tag-values-5.png)
 
@@ -51,13 +51,13 @@ Sie können benutzerdefinierte [Tags](/help/marketo/product-docs/core-marketo-co
    >
    >Sie können mehrere Programmtypen auswählen. Wenn ein neues Programm erstellt wird, ist dieser Tag-Typ verfügbar.
 
-1. Aktivieren Sie **[!UICONTROL Erforderlich]** und klicken Sie auf **[!UICONTROL Erstellen]**.
+1. Markieren Sie **[!UICONTROL Erforderlich]** und klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/create-a-new-program-tag-and-tag-values-6.png)
 
    >[!NOTE]
    >
-   >Wenn der Tag-Typ **[!UICONTROL Erforderlich]** ist, müssen Benutzer beim Erstellen eines neuen Programms einen Wert für das Tag eingeben.
+   >Wenn der Tag-Typ **[!UICONTROL Erforderlich]** ist, müssen Benutzende beim Erstellen eines neuen Programms einen Wert für das Tag eingeben.
 
    ![](assets/create-a-new-program-tag-and-tag-values-7.png)
 

@@ -1,7 +1,7 @@
 ---
 unique-page-id: 10098479
 description: Erstellen einer benutzerdefinierten Aktivität - Marketo-Dokumente - Produktdokumentation
-title: Benutzerdefinierte Aktivität erstellen
+title: Erstellen einer benutzerdefinierten Aktivität
 exl-id: 5b83663e-8578-4a45-b8f8-4db8c2346372
 feature: Custom Activities
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
@@ -11,15 +11,15 @@ ht-degree: 0%
 
 ---
 
-# Benutzerdefinierte Aktivität erstellen {#create-a-custom-activity}
+# Erstellen einer benutzerdefinierten Aktivität {#create-a-custom-activity}
 
-Führen Sie diese Schritte aus, um eine neue benutzerdefinierte Aktivität zu erstellen.
+Führen Sie die folgenden Schritte aus, um eine neue benutzerdefinierte Aktivität zu erstellen.
 
 >[!NOTE]
 >
->Die meisten Abonnements haben eine Grenze von 10 benutzerdefinierten Aktivitätstypen.
+>Die meisten Abonnements haben ein zugewiesenes Limit von 10 benutzerdefinierten Aktivitätstypen.
 
-1. Wechseln Sie zum Bereich **[!UICONTROL Admin]** .
+1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
 
    ![](assets/create-a-custom-activity-1.png)
 
@@ -37,13 +37,13 @@ Führen Sie diese Schritte aus, um eine neue benutzerdefinierte Aktivität zu er
 
    >[!CAUTION]
    >
-   >Wenn Sie den API-Namen ändern möchten, stellen Sie sicher, dass der Name nicht mit Feldern in anderen benutzerdefinierten Aktivitäten in Konflikt gerät.
+   >Wenn Sie sich entscheiden, den API-Namen zu ändern, stellen Sie sicher, dass der Name nicht mit Feldern in anderen benutzerdefinierten Aktivitäten kollidiert.
 
-1. Definieren Sie den [!UICONTROL Filter] und den [!UICONTROL Trigger] und klicken Sie auf **[!UICONTROL Weiter]**.
+1. Definieren Sie [!UICONTROL Filter] und [!UICONTROL Trigger ] und klicken Sie auf **[!UICONTROL Weiter]**.
 
    ![](assets/create-a-custom-activity-5.png)
 
-1. Geben Sie Ihrem primären Feld einen Namen, der zusammenfasst, wofür die benutzerdefinierte Aktivität dient.
+1. Geben Sie Ihrem Primärfeld einen Namen, der zusammenfasst, wozu die benutzerdefinierte Aktivität dient.
 
    ![](assets/create-a-custom-activity-6.png)
 

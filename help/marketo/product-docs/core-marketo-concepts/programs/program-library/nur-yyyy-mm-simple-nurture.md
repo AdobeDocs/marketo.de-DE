@@ -1,5 +1,5 @@
 ---
-description: NUR-YYYY-MM-Simple Nurture - Marketo Docs - Produktdokumentation
+description: NUR-YYYY-MM-Simple Nurture - Marketo-Dokumentation - Produktdokumentation
 title: NUR-YYYY-MM-Simple Nurture
 feature: Programs
 exl-id: aed11d75-3190-46ea-8b0b-c1494645901d
@@ -12,9 +12,9 @@ ht-degree: 15%
 
 # NUR-YYYY-MM-Simple Nurture {#nur-yyyy-mm-simple-nurture}
 
-Dies ist ein Beispiel für einfache Nurture-Programme, bei denen das Marketo Engage Engagement-Programm verwendet wird, bei dem mithilfe von Kadhierinhalten im Laufe der Zeit auf Ihre Datenbank tropft und gleichzeitig Streams genutzt werden, um Datensätze anhand von Verhaltensweisen durch Journey zu führen.
+Dies ist ein Beispiel für Simple Nurture-Programme, bei denen das Marketo Engage-Interaktionsprogramm verwendet wird. Dabei werden Inhalte im Zeitverlauf in die Datenbank übertragen, während Streams verwendet werden, um Datensätze anhand des Verhaltens durch die Journey zu leiten.
 
-Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Programms an das Adobe-Account-Team oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} .
+Wenden Sie sich für weitere Strategieunterstützung oder Hilfe bei der Anpassung eines Programms an das Adobe-Account-Team oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Kanal-Zusammenfassung {#channel-summary}
 
@@ -22,7 +22,7 @@ Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Prog
  <tbody> 
   <tr> 
    <th>Kanal</th> 
-   <th>Status der Mitgliedschaft</th>
+   <th>Mitgliedschaftsstatus</th>
    <th>Analytics Behavior</th>
    <th>Programmtyp</th>
   </tr> 
@@ -36,7 +36,7 @@ Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Prog
  </tbody> 
 </table>
 
-## Das Programm enthält die folgende Assets {#program-contains-the-following-assets}
+## Programm enthält die folgenden Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -74,33 +74,33 @@ Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Prog
   <tr> 
    <td>Intelligente Kampagne</td> 
    <td> </td>
-   <td>01 - Zu Krankenpflege hinzufügen</td>
+   <td>01 - Zu Nurture hinzufügen</td>
   </tr>
   <tr> 
    <td>Intelligente Kampagne</td> 
    <td> </td>
-   <td>02 - Anhalten</td>
+   <td>02 - Pause Nurture</td>
   </tr>
   <tr> 
    <td>Intelligente Kampagne</td> 
    <td> </td>
-   <td>03 - Wiederaufnahme der Fortpflanzung</td>
+   <td>03 - Resume Nurture</td>
   </tr>
   <tr> 
    <td>Intelligente Kampagne</td> 
    <td> </td>
-   <td>04 - Interagiert (Programmerfolg)</td>
+   <td>04 - Interagiert (Programm erfolgreich)</td>
   </tr>
   <tr> 
    <td>Ordner</td> 
    <td> </td>
-   <td>Assets - Host alle Kreativ-Assets
+   <td>Assets - enthält alle Kreativ-Assets
    <br/>(Unterordner für E-Mails)</td>
   </tr>
   <tr> 
    <td>Ordner</td> 
    <td> </td>
-   <td>Kampagnen - Houses all Smart Campaigns</td>
+   <td>Kampagnen - Alle intelligenten Kampagnen werden gespeichert</td>
   </tr>
   <tr> 
    <td>Ordner</td> 
@@ -112,7 +112,7 @@ Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Prog
 
 ![](assets/nur-yyyy-mm-simple-nurture-1.png)
 
-## My Tokens Include {#my-tokens-included}
+## Meine Token enthalten {#my-tokens-included}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -139,19 +139,19 @@ Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Prog
  </tbody> 
 </table>
 
-## Konfliktregeln {#conflict-rules}
+## Kollisionsregeln {#conflict-rules}
 
 * **Programm-Tags**
-   * Erstellen von Tags in diesem Abonnement - _Empfohlen_
+   * Tags in diesem Abonnement erstellen - _Empfohlen_
    * Ignorieren
 
-* **Vorlage für Einstiegsseiten mit demselben Namen**
+* **Landingpage-Vorlage mit demselben Namen**
    * Originalvorlage kopieren
-   * Verwenden Sie die Zielvorlage - _Empfohlen_
+   * Zielvorlage verwenden - _Empfohlen_
 
 * **Bilder mit demselben Namen**
    * Beide Dateien beibehalten
-   * Ersetzen des Elements in diesem Abonnement - _Empfohlen_
+   * Element in diesem Abonnement ersetzen - _Empfohlen_
 
 * **E-Mail-Vorlagen mit demselben Namen**
    * Beide Vorlagen beibehalten
@@ -159,16 +159,16 @@ Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Prog
 
 ## Bewährte Methoden {#best-practices}
 
-* Aktualisieren Sie die Vorlagen in Ihrem importierten Programm, um die derzeit verwendeten Vorlagen zu verwenden, oder aktualisieren Sie die neu importierte Vorlage entsprechend Ihrer Marke, indem Sie einen Ausschnitt oder Ihre entsprechenden Logos-/Fußzeileninformationen hinzufügen.
+* Erwägen Sie, die Vorlagen in Ihrem importierten Programm zu aktualisieren, um die aktuellen Markenvorlagen zu verwenden, oder aktualisieren Sie die neu importierte Vorlage, um Ihre Marke widerzuspiegeln, indem Sie einen Ausschnitt oder Ihre entsprechenden Logo-/Fußzeileninformationen hinzufügen.
 
-* Erwägen Sie, die Benennungsregel dieses Programmbeispiels zu aktualisieren, um sie an Ihre Benennungsregel anzupassen.
+* Erwägen Sie, die Namenskonvention dieses Programmbeispiels zu aktualisieren, um sie an Ihre Namenskonvention anzupassen.
 
-* Stellen Sie sicher, dass Sie Regeln eingerichtet haben, um Ihre Pflegekadenz anzuhalten und wieder aufzunehmen. Diese Smart-Kampagnen sollten aktiviert oder geplant werden, bevor das Interaktionsprogramm aktiviert wird.
+* Stellen Sie sicher, dass Sie über Regeln verfügen, um Ihre Kadenz für das Pflegen auszusetzen und wieder aufzunehmen. Diese intelligenten Kampagnen sollten aktiviert oder geplant werden, bevor das Interaktionsprogramm aktiviert wird.
 
 >[!NOTE]
 >
->Denken Sie daran, die &quot;My Token Values&quot;-Werte in der Programmvorlage und jedes Mal, wenn Sie das Programm verwenden, nach Bedarf zu aktualisieren.
+>Denken Sie daran, die Werte für Mein Token in der Programmvorlage und jedes Mal, wenn Sie das Programm verwenden, nach Bedarf zu aktualisieren.
 
 >[!TIP]
 >
->Vergessen Sie nicht, die Kampagne &quot;04 - Interagiert (Programmerfolg)&quot; zu aktivieren, um den Erfolg zu verfolgen! Führen Sie dies _vor_ aus, wenn Ihre E-Mails gesendet werden.
+>Vergessen Sie nicht, die Kampagne „04 - Interagiert (Programmerfolg)“ zu aktivieren, um den Erfolg zu verfolgen! Tun Sie dies _vor_ wenn Ihre E-Mails gesendet werden.

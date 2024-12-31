@@ -1,7 +1,7 @@
 ---
 unique-page-id: 1147257
 description: Navigieren im Marketing-Kalender - Marketo-Dokumente - Produktdokumentation
-title: Navigieren im Marketingkalender
+title: Navigieren im Marketing-Kalender
 exl-id: 0a70def5-d98e-4efd-ac3a-36c52c1cbc45
 feature: Marketing Calendar
 source-git-commit: afdf59729f16d27a548fa60a8156c941be54a8a7
@@ -11,37 +11,37 @@ ht-degree: 0%
 
 ---
 
-# Navigieren im Marketingkalender {#navigating-the-marketing-calendar}
+# Navigieren im Marketing-Kalender {#navigating-the-marketing-calendar}
 
-Der Marketingkalender bietet sich an, einfach zu navigieren. So geht es.
+Die Navigation im Marketing-Kalender ist einfach. So geht&#39;s.
 
 >[!PREREQUISITES]
 >
->Vergewissern Sie sich, dass Sie über eine [Marketingkalenderlizenz](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"} verfügen. Andernfalls wird die Kachel Marketing-Kalender nicht in meiner Marketo angezeigt.
+>Vergewissern Sie sich, dass Sie über [Marketing-Kalender-Lizenz](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"} verfügen. Andernfalls wird die Marketing-Kalender-Kachel nicht in My Marketo angezeigt.
 
 >[!NOTE]
 >
->Wiederkehrende Smart-Kampagnen werden im Marketingkalender nicht unterstützt.
+>Wiederkehrende intelligente Kampagnen werden im Marketing-Kalender nicht unterstützt.
 
-1. Wechseln Sie zum **Marketingkalender**.
+1. Navigieren Sie zum **Marketing-Kalender**.
 
    ![](assets/2017-05-10-15-30-47.png)
 
-1. Dies ist eine Vogelperspektive-Ansicht von Assets, die in Ihrer Marketo-Instanz geplant sind.
+1. Dies ist eine Übersicht über die in Ihrer Marketo-Instanz geplanten Assets.
 
    ![](assets/image2014-9-15-16-3a44-3a22.png)
 
-## Wechsel zwischen Modi {#change-between-modes}
+## Wechseln zwischen Modi {#change-between-modes}
 
-1. Klicken Sie auf die Registerkarten **[!UICONTROL 3 Wochen]** oder **[!UICONTROL Monat]** , um zwischen den Modi zu wechseln.
+1. Klicken Sie auf die **[!UICONTROL 3 Wochen]** oder **[!UICONTROL Monat]** Registerkarten, um zwischen den Modi zu wechseln.
 
    ![](assets/image2014-9-15-16-3a46-3a16.png)
 
-## Verwenden der Agenda-Ansicht {#use-the-agenda-view}
+## Verwenden der Tagesordnungsansicht {#use-the-agenda-view}
 
-In der Agenda-Ansicht werden alle Einträge als Liste angezeigt.
+Die Tagesansicht zeigt alle Ihre Einträge als Liste an.
 
-1. Klicken Sie auf die Dropdown-Liste **[!UICONTROL Filter]** .
+1. Klicken Sie auf **[!UICONTROL Dropdown]** Filter“.
 
    ![](assets/image2014-9-26-10-3a29-3a6.png)
 
@@ -49,11 +49,11 @@ In der Agenda-Ansicht werden alle Einträge als Liste angezeigt.
 
    ![](assets/image2014-9-26-10-3a29-3a36.png)
 
-   Fantastisch! Das ist ein toller Ausblick, um alles zu sehen, was geplant ist.
+   Fantastisch! Dies ist eine großartige Ansicht, um alles zu sehen, was geplant ist.
 
    ![](assets/image2014-9-26-10-3a30-3a9.png)
 
-## Navigieren durch die Zeit {#navigate-through-time}
+## Durch die Zeit navigieren {#navigate-through-time}
 
 Ohne DeLorean! Klicken Sie einfach auf die Navigationsschaltflächen.
 
@@ -63,9 +63,9 @@ Sie können auch diese Tastaturbefehle verwenden.
 
 | Aktion | Tastaturbefehl |
 |---|---|
-| Zurück zur Zeit | Alt/Opt+Up |
-| Zeitnah weiterleiten | Alt/Opt-out + Herunterfahren |
-| Wechseln Sie zu &quot;heute&quot; | alt/opt + t |
+| Zurück in der Zeit | Alt/Opt+Up |
+| Zeitvorlauf | Alt/Opt + Down |
+| Gehe zu „Heute“ | Alt/Wahl+T |
 
 Fantastisch! Das sind die Grundlagen. Sie können Ihre Ansicht auch mithilfe von Filtern anpassen.
 

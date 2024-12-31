@@ -13,22 +13,22 @@ ht-degree: 2%
 
 # Erstellen einer Präsentation {#create-a-presentation}
 
-Erstellen Sie eine Präsentation, um die Kalenderansichten und -ziele Ihres Teams auf einem HDTV zu präsentieren. Presentations ist Workspace-spezifisch.
+Erstellen Sie eine Präsentation, um die Kalenderansichten und Ziele Ihres Teams auf einem HDTV zu projizieren. Presentations sind Workspace-spezifisch.
 
 >[!AVAILABILITY]
 >
 >
->Nicht alle Marketo Engage-Benutzer haben diese Funktion erworben. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).
+>Nicht alle Marketo Engage-Benutzer haben diese Funktion erworben. Weitere Informationen erhalten Sie beim Adobe Account Team (Ihrem Account Manager).
 
-1. Wechseln Sie zum **[!UICONTROL Kalender]**.
+1. Navigieren Sie zum **[!UICONTROL Kalender]**.
 
    ![](assets/2017-05-10-15-30-47.png)
 
-1. Klicken Sie unten rechts auf **[!UICONTROL Presentations]** .
+1. Klicken Sie unten ]**rechts auf**[!UICONTROL  Presentations.
 
    ![](assets/image2015-3-18-12-3a29-3a26.png)
 
-1. Klicken Sie auf **[!UICONTROL Darstellungsaktionen]** und wählen Sie **[!UICONTROL Neue Präsentation]** aus.
+1. Klicken Sie **[!UICONTROL Präsentationsaktionen]** und wählen Sie **[!UICONTROL Neue Präsentation]**.
 
    ![](assets/image2015-3-26-12-3a38-3a6.png)
 
@@ -36,8 +36,8 @@ Erstellen Sie eine Präsentation, um die Kalenderansichten und -ziele Ihres Team
 
    ![](assets/image2015-3-18-12-3a32-3a30.png)
 
-   Gut gemacht! Jetzt können Sie Ihre Präsentation anpassen.
+   Gute Arbeit! Jetzt können Sie Ihre Präsentation anpassen.
 
 >[!MORELIKETHIS]
 >
->[Anpassen einer Präsentation](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/customize-a-presentation.md)
+>[Präsentation anpassen](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/customize-a-presentation.md)

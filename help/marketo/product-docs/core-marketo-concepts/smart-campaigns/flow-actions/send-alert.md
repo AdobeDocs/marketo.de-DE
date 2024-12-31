@@ -13,17 +13,17 @@ ht-degree: 2%
 
 # Alarm senden {#send-alert}
 
-Marketo Engage kann einen E-Mail-Warnhinweis mit Personeninformationen an jede Person senden - den Vertriebsmitarbeiter, einen Partner oder eine andere Person. Verwenden Sie den Flussschritt &quot;[!UICONTROL Warnhinweis senden]&quot;.
+Marketo Engage kann einen E-Mail-Warnhinweis mit Personeninformationen an jeden senden - den Verkaufsinhaber, einen Partner oder eine andere Person. Verwenden Sie den Flussschritt [!UICONTROL Warnhinweis senden].
 
 ![](assets/send-alert-1.png)
 
-1. Wählen Sie die zu sendende E-Mail aus.
+1. Suchen Sie die E-Mail, die Sie senden möchten, und wählen Sie sie aus.
 
    ![](assets/send-alert-2.png)
 
    >[!NOTE]
    >
-   >Ihr E-Mail-Warnhinweis muss alle Kopfzeileninformationen enthalten und sich im Status &quot;**[!UICONTROL Genehmigt]**&quot; befinden.
+   >Ihr E-Mail-Warnhinweis muss alle Kopfzeileninformationen enthalten und sich im Status **[!UICONTROL Genehmigt]** befinden.
 
 1. Sie können auf das Vorschausymbol klicken, um sicherzustellen, dass Sie die richtige E-Mail ausgewählt haben.
 
@@ -31,19 +31,19 @@ Marketo Engage kann einen E-Mail-Warnhinweis mit Personeninformationen an jede P
 
    >[!NOTE]
    >
-   >Verwenden Sie unbedingt das Token &quot;[!UICONTROL Warnhinweisinformationen senden]&quot; in Ihrer E-Mail.
+   >Denken Sie daran, in Ihrer E[!UICONTROL Mail das Token &quot;]Warnhinweisinfo senden“ zu verwenden.
 
-1. Wählen Sie den Empfänger der Warnung aus. Sie können [!UICONTROL Vertriebsmitarbeiter] oder [!UICONTROL Kontoinhaber] auswählen.
+1. Wählen Sie den Warnhinweisempfänger aus. Sie können &quot;[!UICONTROL &quot; ] &quot;[!UICONTROL &quot; ].
 
    ![](assets/send-alert-4.png)
 
-1. Fügen Sie optional alle anderen gewünschten E-Mail-Adressen hinzu (durch Kommas oder Semikolons getrennt).
+1. Fügen Sie optional eine beliebige andere E-Mail-Adresse hinzu (durch ein Komma oder ein Semikolon getrennt).
 
    ![](assets/send-alert-5.png)
 
    >[!TIP]
    >
-   >In Trigger-Kampagnen können Sie Token in **[!UICONTROL zu anderen E-Mails]** wie `{{lead.Territory Owner}}` oder `{{my.Alert Recipient}}` verwenden, solange es sich bei den Werten um gültige E-Mail-Adressen handelt. Token in **[!UICONTROL An andere E-Mails]** funktionieren in einer Batch-Kampagne nicht.
+   >In Trigger-Kampagnen können Sie Token in &quot;**[!UICONTROL andere E-Mails“]**. B. `{{lead.Territory Owner}}` oder `{{my.Alert Recipient}}` verwenden, solange die Werte gültige E-Mail-Adressen sind. Token in **[!UICONTROL Zu anderen E]** Mails) funktionieren in einer Batch-Kampagne nicht.
 
 >[!MORELIKETHIS]
 >

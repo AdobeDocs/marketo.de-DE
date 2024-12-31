@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360315
-description: Erstellen einer Personenpartition - Marketo Docs - Produktdokumentation
+description: Erstellen einer Personenpartition - Marketo-Dokumente - Produktdokumentation
 title: Erstellen einer Personenpartition
 exl-id: 097fd314-c3e1-4123-af47-2f7e53a658e3
 feature: Partitions
@@ -13,32 +13,32 @@ ht-degree: 0%
 
 # Erstellen einer Personenpartition {#create-a-person-partition}
 
-Erstellen Sie eine neue Personenpartition gemäß diesen Schritten.
+Erstellen Sie eine neue Personenpartition wie folgt.
 
 >[!NOTE]
 >
->**Erforderliche Administratorberechtigungen**
+>**Administratorberechtigungen erforderlich**
 
 >[!NOTE]
 >
->Machen Sie sich zunächst mit [Grundlegendes zu Arbeitsbereichen und Personen-Partitionen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md) vertraut.
+>Erstes Verständnis mit [Grundlagen zu Arbeitsbereichen und Personenpartitionen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
-1. Wechseln Sie zum Bereich **[!UICONTROL Admin]** .
+1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
 
    ![](assets/create-a-person-partition-1.png)
 
-1. Klicken Sie auf **[!UICONTROL Arbeitsbereiche und Partitionen]**.
+1. Klicken Sie **[!UICONTROL Arbeitsbereiche und Partitionen]**.
 
    ![](assets/create-a-person-partition-2.png)
 
-1. Gehen Sie zur Registerkarte **[!UICONTROL Personenpartitionen]** und klicken Sie auf **[!UICONTROL Neue Personenpartition]**.
+1. Wechseln Sie zur Registerkarte **[!UICONTROL Personenpartitionen]** und klicken Sie auf **[!UICONTROL Neue Personenpartition]**.
 
    ![](assets/create-a-person-partition-3.png)
 
-1. Benennen Sie Ihre Partition, wählen Sie die **[!UICONTROL Arbeitsbereiche]**, wo sie angezeigt werden soll, und klicken Sie auf **[!UICONTROL Erstellen]**.
+1. Benennen Sie Ihre Partition, wählen Sie **[!UICONTROL Arbeitsbereiche]** wo sie angezeigt werden soll, und klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/create-a-person-partition-4.png)
 
-Nach dem Erstellen der Partition sollte das Update angezeigt werden.
+Nachdem Sie die Partition erstellt haben, sollten Sie das Update sehen.
 
 ![](assets/create-a-person-partition-5.png)

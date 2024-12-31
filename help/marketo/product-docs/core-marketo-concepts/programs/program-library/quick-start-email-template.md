@@ -12,26 +12,26 @@ ht-degree: 0%
 
 # Schnellstart-E-Mail-Vorlage {#quick-start-email-template}
 
-Einige der Startprogramme in der Marketo Engage Reference Library enthalten eine einfache, benutzerfreundliche und anpassbare E-Mail-Vorlage, die die schnelle Erstellung von E-Mails in einer Reihe von Marketing-Anwendungsfällen ermöglicht.
+Einige der Einstiegsprogramme in der Marketo Engage-Referenzbibliothek enthalten eine einfache, benutzerfreundliche und anpassbare E-Mail-Vorlage, die die schnelle Erstellung von E-Mails in einer Reihe von Marketing-Anwendungsfällen ermöglicht.
 
-Der Marketo Engage E-Mail-Editor verfügt über Funktionen, mit denen Sie das Layout Ihrer E-Mails ändern und deren Inhalt bearbeiten können.
+Der Marketo Engage-E-Mail-Editor verfügt über Funktionen, mit denen Sie das Layout ändern und den Inhalt Ihrer E-Mails bearbeiten können.
 
-* **Module**: In die Vorlage kodierte ziehbare/ablagefähige Inhaltsbausteine. Sie können neu organisiert und dupliziert werden.
+* **Module**: In die Vorlage codierte Inhaltsblöcke per Drag-and-Drop verschieben. Sie können neu organisiert und dupliziert werden.
 
-* **Textelemente**: Mit dem Editor können Sie das Kopieren aktualisieren, Schriftstile ändern oder Links hinzufügen.
+* **Textelemente**: Sie können den Editor verwenden, um eine Kopie zu aktualisieren, Schriftstile zu ändern oder Links hinzuzufügen.
 
-* **Bildelemente**: Ähnlich wie Textelemente können Bilder ausgetauscht, verknüpft und in der Größe geändert werden.
+* **Bildelemente**: Ähnlich wie Textelemente können Bilder ausgetauscht, verknüpft und in der Größe angepasst werden.
 
 * **Variablen**: Wenn ein Modul ausgewählt ist, werden Variablen auf der rechten Seite des Editors angezeigt. Diese können verwendet werden, um Attribute des Moduls anzupassen, die nicht einfach über Bild- oder Textelemente bearbeitet werden können.
 
-Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Programms an das Adobe-Account-Team oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} .
+Wenden Sie sich für weitere Strategieunterstützung oder Hilfe bei der Anpassung eines Programms an das Adobe-Account-Team oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Modulzusammenfassung {#modules-summary}
 
 ### Logo-Modul {#logo-module}
 
 * Enthält ein Bildelement zum Aktualisieren des Logos
-* Umfasst zu steuerende Variablen:
+* Enthält Variablen zur Steuerung:
    * Oberer Abstand des Moduls
    * Unterer Abstand des Moduls
    * Hintergrundfarbe des Moduls
@@ -41,7 +41,7 @@ Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Prog
 ### Bildmodul {#image-module}
 
 * Enthält ein Bildelement zum Aktualisieren des Bildes
-* Umfasst zu steuerende Variablen:
+* Enthält Variablen zur Steuerung:
    * Oberer Abstand des Moduls
    * Unterer Abstand des Moduls
    * Hintergrundfarbe des Moduls
@@ -50,73 +50,73 @@ Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Prog
 ### Überschriftenmodul {#headline-module}
 
 * Enthält ein Textelement zum Aktualisieren der Überschrift
-* Umfasst zu steuerende Variablen:
+* Enthält Variablen zur Steuerung:
    * Oberer Abstand des Moduls
    * Unterer Abstand des Moduls
    * Hintergrundfarbe des Moduls
    * Schriftgröße der Überschrift (kann auch im Rich-Text-Editor bearbeitet werden)
-   * Schriftfarbe der Überschrift (diese kann auch im Rich-Text-Editor bearbeitet werden)
-   * Ausrichtung des Überschriftentextes (kann auch im Rich-Text-Editor bearbeitet werden)
+   * Schriftfarbe der Überschrift (kann auch im Rich-Text-Editor bearbeitet werden)
+   * Ausrichtung des Überschrifttexts (dieser kann auch im Rich-Text-Editor bearbeitet werden)
 * ![](assets/quick-start-email-template-3.png)
 
-### Subheadline-Modul {#subheadline-module}
+### Unterüberschriften-Modul {#subheadline-module}
 
 * Enthält ein Textelement zum Aktualisieren der Unterüberschrift
-* Umfasst zu steuerende Variablen:
+* Enthält Variablen zur Steuerung:
    * Oberer Abstand des Moduls
    * Unterer Abstand des Moduls
    * Hintergrundfarbe des Moduls
    * Schriftgröße der Unterüberschrift (kann auch im Rich-Text-Editor bearbeitet werden)
    * Schriftfarbe der Unterüberschrift (kann auch im Rich-Text-Editor bearbeitet werden)
-   * Ausrichtung des Unterüberschriftentextes (kann auch im Rich-Text-Editor bearbeitet werden)
+   * Ausrichtung des Textes der Unterüberschrift (kann auch im Rich-Text-Editor bearbeitet werden)
 * ![](assets/quick-start-email-template-4.png)
 
-### Kostenloses Textmodul {#free-text-module}
+### Modul für freien Text {#free-text-module}
 
-* Enthält ein Textelement zum Aktualisieren des Texts
-* Umfasst zu steuerende Variablen:
+* Enthält ein Textelement zum Aktualisieren des Textes
+* Enthält Variablen zur Steuerung:
    * Oberer Abstand des Moduls
    * Unterer Abstand des Moduls
    * Hintergrundfarbe des Moduls
    * Schriftgröße des Textes (kann auch im Rich-Text-Editor bearbeitet werden)
    * Schriftfarbe des Textes (kann auch im Rich-Text-Editor bearbeitet werden)
-   * Ausrichtung des Texts (kann auch im Rich-Text-Editor bearbeitet werden)
+   * Ausrichtung des Textes (kann auch im Rich-Text-Editor bearbeitet werden)
 * ![](assets/quick-start-email-template-5.png)
 
 ### CTA-Modul {#cta-module}
 
-* Umfasst zu steuerende Variablen:
+* Enthält Variablen zur Steuerung:
    * Oberer Abstand des Moduls
    * Unterer Abstand des Moduls
    * Hintergrundfarbe des Moduls
    * CTA-Textfarbe
    * CTA-Hintergrundfarbe
    * CTA-Rahmenfarbe
-   * CTA-Rahmenradius (um die Schaltflächen zu runden - **Hinweis**: Diese Funktion funktioniert nicht in Microsoft Outlook-E-Mail-Clients)
+   * Rahmenradius von CTA (zum Abrunden der Schaltflächen - **Hinweis**: Diese Funktion funktioniert in E-Mail-Clients in Microsoft Outlook nicht)
    * CTA-URL
    * CTA-Text
    * CTA-Ausrichtung
 * ![](assets/quick-start-email-template-6.png)
 
-### Divider Module {#divider-module}
+### Teilermodul {#divider-module}
 
-* Umfasst zu steuerende Variablen:
+* Enthält Variablen zur Steuerung:
    * Oberer Abstand des Moduls
    * Unterer Abstand des Moduls
    * Hintergrundfarbe des Moduls
    * Trennfarbe
-   * Trennhöhe (in Pixel)
-   * Trennbreite (in %)
+   * Höhe des Trennzeichens (in Pixel)
+   * Breite des Trennzeichens (in %)
 * ![](assets/quick-start-email-template-7.png)
 
-### Fußzeilenmodul {#footer-module}
+### Footer-Modul {#footer-module}
 
-* Textelement, das zum Austauschen oder Verknüpfen von Social-Symbolen verwendet werden kann
+* Textelement, das zum Austauschen oder Verknüpfen von Social Media-Symbolen verwendet werden kann
 * Textelement zum Aktualisieren der Fußzeilensprache
-* Umfasst zu steuerende Variablen:
+* Enthält Variablen zur Steuerung:
    * Oberer Abstand des Moduls
    * Unterer Abstand des Moduls
    * Hintergrundfarbe des Moduls
    * Textfarbe
-   * Inhaltsausrichtung
+   * Content-Ausrichtung
 * ![](assets/quick-start-email-template-8.png)

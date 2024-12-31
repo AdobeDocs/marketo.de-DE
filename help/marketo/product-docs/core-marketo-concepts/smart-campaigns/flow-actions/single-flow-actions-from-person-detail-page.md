@@ -1,6 +1,6 @@
 ---
-description: Einzelflussaktionen von der Seite "Personendetails"- Marketo-Dokumente - Produktdokumentation
-title: Einzelflussaktionen auf der Seite "Personendetails"
+description: Einzelflussaktionen auf der Seite „Personendetails“ - Marketo-Dokumente - Produktdokumentation
+title: Einzelne Fluss-Aktionen von der Seite „Personendetails“
 hide: true
 hidefromtoc: true
 exl-id: 3eeb7724-a502-4ea5-a57b-29d03133402f
@@ -12,11 +12,11 @@ ht-degree: 0%
 
 ---
 
-# Einzelflussaktionen auf der Seite &quot;Personendetails&quot; {#single-flow-actions-from-person-detail-page}
+# Einzelne Fluss-Aktionen von der Seite „Personendetails“ {#single-flow-actions-from-person-detail-page}
 
-Sie können nicht nur einzelne Fluss-Aktionen aus einer Smart-Liste ausführen, sondern auch direkt auf einer Seite mit Personendetails ausführen.
+Zusätzlich zur Ausführung von einzelnen Flussaktionen aus einer Smart-Liste können Sie diese auch direkt auf einer Personendetailseite ausführen.
 
-1. Klicken Sie auf **[!UICONTROL Database]**.
+1. Klicken Sie auf **[!UICONTROL Datenbank]**.
 
    ![](assets/single-flow-actions-from-person-detail-page-1.png)
 
@@ -24,7 +24,7 @@ Sie können nicht nur einzelne Fluss-Aktionen aus einer Smart-Liste ausführen, 
 
    ![](assets/single-flow-actions-from-person-detail-page-2.png)
 
-1. Klicken Sie auf das Dropdown-Menü **[!UICONTROL Persönliche Aktionen]** und wählen Sie den Flussschritt Ihrer Wahl aus. In diesem Beispiel verwenden wir [E-Mail senden](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md){target="_blank"}.
+1. Klicken Sie auf **[!UICONTROL Personenaktionen]** und wählen Sie den gewünschten Flussschritt aus. In diesem Beispiel verwenden wir [E-Mail senden](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md){target="_blank"}.
 
    ![](assets/single-flow-actions-from-person-detail-page-3.png)
 
@@ -34,4 +34,4 @@ Sie können nicht nur einzelne Fluss-Aktionen aus einer Smart-Liste ausführen, 
 
 >[!NOTE]
 >
->Wenn Ihre Instanz Arbeitsbereiche/Partitionen enthält und Sie direkt zu einer Seite mit Personendetails navigieren (z. B. über einen Link), anstatt von einer Seite/einem Asset zu kommen, die mit einer Workspace verknüpft ist, müssen Sie auch in Schritt 4 eine Workspace auswählen.
+>Wenn Ihre Instanz Arbeitsbereiche/Partitionen enthält und Sie direkt zu einer Personendetailseite navigieren (z. B. über einen Link), anstatt von einer Seite/einem Asset zu kommen, das mit einer Workspace verknüpft ist, müssen Sie in Schritt 4 auch eine Workspace auswählen.

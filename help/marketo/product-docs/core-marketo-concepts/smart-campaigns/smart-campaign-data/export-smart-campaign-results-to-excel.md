@@ -1,7 +1,7 @@
 ---
 unique-page-id: 1147070
-description: Exportieren von Smart-Campaign-Ergebnissen in Excel - Marketo-Dokumente - Produktdokumentation
-title: Exportieren von Ergebnissen intelligenter Kampagnen nach Excel
+description: Exportieren von Smart Campaign-Ergebnissen nach Excel - Marketo-Dokumente - Produktdokumentation
+title: Exportieren von Smart Campaign-Ergebnissen nach Excel
 exl-id: 32aa55d7-dd10-40b9-b3f8-c767e513f103
 feature: Smart Campaigns
 source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
@@ -11,11 +11,11 @@ ht-degree: 0%
 
 ---
 
-# Exportieren von Ergebnissen intelligenter Kampagnen nach Excel {#export-smart-campaign-results-to-excel}
+# Exportieren von Smart Campaign-Ergebnissen nach Excel {#export-smart-campaign-results-to-excel}
 
-Exportieren Sie Ihre Smart-Campaign-Ergebnisse in Excel, um sie außerhalb von Marketo Engage zu verwenden.
+Exportieren Sie Ihre Smart Campaign-Ergebnisse nach Excel zur Verwendung außerhalb von Marketo Engage.
 
-1. Klicken Sie in Ihrer Smart-Kampagne auf den Tab **[!UICONTROL Ergebnisse]** und dann unten auf das Exportsymbol.
+1. Klicken Sie in Ihrer Smart-Kampagne auf die **[!UICONTROL Ergebnisse]** und dann unten auf das Symbol „Exportieren“.
 
    ![](assets/export-smart-campaign-results-to-excel-1.png)
 
@@ -23,4 +23,4 @@ Exportieren Sie Ihre Smart-Campaign-Ergebnisse in Excel, um sie außerhalb von M
 
    >[!NOTE]
    >
-   >Der Export ist auf 20.000 Zeilen beschränkt. Die Excel-Datei wird im standardmäßigen Download-Ordner Ihres Browsers gespeichert.
+   >Der Export ist auf 20.000 Zeilen beschränkt. Die Excel-Datei wird im Standard-Downloads-Ordner Ihres Browsers gespeichert.

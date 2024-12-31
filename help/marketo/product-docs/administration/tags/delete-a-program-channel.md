@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360281
-description: Löschen eines Programmkanals - Marketo Docs - Produktdokumentation
+description: Löschen eines Programmkanals - Marketo-Dokumente - Produktdokumentation
 title: Löschen eines Programmkanals
 exl-id: 0a46cafb-3f9d-422a-a08c-92bcbb80da8e
 feature: Tags
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Löschen eines Programmkanals {#delete-a-program-channel}
 
-Programmkanäle sind eine Sammlung von Status oder Checkpoints-Leads, die in einem Programm durchlaufen werden sollten.
+Programmkanäle sind eine Sammlung von Status oder Checkpoints, die Leads in einem Programm durchlaufen sollten.
 
-Wenn Sie eine zufällig erstellen oder sie nicht mehr benötigen, können Sie sie löschen.
+Wenn Sie eine versehentlich machen oder nicht mehr benötigen, können Sie sie löschen.
 
-1. Wechseln Sie zum Bereich **[!UICONTROL Admin]** .
+1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
 
    ![](assets/delete-a-program-channel-1.png)
 
@@ -25,7 +25,7 @@ Wenn Sie eine zufällig erstellen oder sie nicht mehr benötigen, können Sie si
 
    ![](assets/delete-a-program-channel-2.png)
 
-1. Wählen Sie den Kanal aus, den Sie löschen möchten. Klicken Sie in der Dropdown-Liste **[!UICONTROL Tag-Aktionen]** auf **[!UICONTROL Löschen]**.
+1. Wählen Sie den Kanal aus, den Sie löschen möchten. Klicken **[!UICONTROL in der Dropdown]** Liste „Tag-Aktionen“ auf **[!UICONTROL Löschen]**.
 
    >[!TIP]
    >

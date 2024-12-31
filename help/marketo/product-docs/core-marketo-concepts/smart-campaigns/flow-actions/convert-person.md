@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1147019
-description: Person konvertieren - Marketo Docs - Produktdokumentation
+description: Person konvertieren - Marketo-Dokumente - Produktdokumentation
 title: Person konvertieren
 exl-id: b0ff0b63-a6a3-48c5-92ef-7ece5c182d28
 feature: Smart Campaigns
@@ -17,22 +17,22 @@ Verwenden Sie diesen Flussschritt, um eine Person in [!DNL Salesforce] in einen 
 
 >[!NOTE]
 >
->Dies ist nur verfügbar, wenn es mit [!DNL Salesforce] integriert ist.
+>Dies ist nur bei Integration mit [!DNL Salesforce] verfügbar.
 
 ![](assets/convert-person-1.png)
 
-1. Wählen Sie aus, wem Sie den resultierenden Kontakt, Konto und Gelegenheit zuweisen möchten.
+1. Wählen Sie aus, wem Sie den resultierenden Kontakt, das Konto und die Opportunity zuweisen möchten.
 
    ![](assets/convert-person-2.png)
 
    >[!CAUTION]
    >
-   >Das Konvertieren einer Person in Marketo führt zu einem neuen Konto und einer neuen Möglichkeit in [!DNL Salesforce]. Wenn Sie keine doppelten Konten haben möchten, verwenden Sie [!DNL Salesforce], um die Konversion vorzunehmen.
+   >Die Konvertierung einer Person in Marketo führt zu einem neuen Konto und einer neuen Opportunity in [!DNL Salesforce]. Wenn Sie keine doppelten Konten wünschen, verwenden Sie [!DNL Salesforce] zum Konvertieren.
 
 1. Wählen Sie aus, ob eine **[!UICONTROL Benachrichtigung]** an den Eigentümer gesendet werden soll oder nicht.
 
    ![](assets/convert-person-3.png)
 
-1. Wählen Sie den **[!UICONTROL konvertierten Status]** aus.
+1. Wählen Sie den **[!UICONTROL Konvertierungsstatus]** aus.
 
    ![](assets/convert-person-4.png)

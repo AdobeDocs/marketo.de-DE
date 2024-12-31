@@ -1,27 +1,27 @@
 ---
 unique-page-id: 1147118
 description: Verwenden von Periodenkosten in einem Programm - Marketo-Dokumente - Produktdokumentation
-title: Verwenden von Zeitraumkosten in einem Programm
+title: Periodenkosten in einem Programm verwenden
 exl-id: 3f00dc09-797a-4f21-bb56-45a1f9b6e5bf
 feature: Programs
 source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
 source-wordcount: '211'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
-# Verwenden von Zeitraumkosten in einem Programm {#using-period-costs-in-a-program}
+# Periodenkosten in einem Programm verwenden {#using-period-costs-in-a-program}
 
-Ein [Zeitraumkosten](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md){target="_blank"} ist der Betrag, den Sie für ein Programm ausgeben. Er kann einen oder mehrere Monate dauern und wird für die Berichterstellung des ROI verwendet.
+Ein [Periodenkosten](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md){target="_blank"} ist der Betrag, den Sie für ein Programm ausgeben. Sie kann ein oder mehrere Monate dauern und wird für die ROI-Berichterstellung verwendet.
 
-## Hinzufügen von Periodenkosten  {#add-a-period-cost}
+## Periodenkosten hinzufügen  {#add-a-period-cost}
 
-1. Navigieren Sie zur Registerkarte **[!UICONTROL Setup]** Ihres Programms.
+1. Wechseln Sie zur **[!UICONTROL Setup]** des Programms.
 
    ![](assets/image2014-9-18-12-3a9-3a46.png)
 
-1. Ziehen Sie **[!UICONTROL Period Cost]** per Drag-and-Drop in die Arbeitsfläche.
+1. Ziehen Sie &quot;**[!UICONTROL Kosten“ per Drag-and]** Drop auf die Arbeitsfläche.
 
    ![](assets/image2014-9-18-12-3a9-3a57.png)
 
@@ -29,11 +29,11 @@ Ein [Zeitraumkosten](/help/marketo/product-docs/core-marketo-concepts/programs/w
 
    ![](assets/image2014-9-18-12-3a10-3a13.png)
 
-1. Geben Sie einen **[!UICONTROL Period Cost]** ein (ohne Dezimalstellen oder Kommas). Klicken Sie auf **[!UICONTROL Speichern]**.
+1. Geben Sie **[!UICONTROL Periodenkosten]** (ohne Dezimalstellen oder Kommas) ein. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    >[!NOTE]
    >
-   >Dies kann eine Schätzung sein. Sobald Sie den genauen Betrag kennen, können Sie die Kosten eines Zeitraums jederzeit bearbeiten (siehe nächsten Abschnitt).
+   >Dies kann eine Schätzung sein. Sie können einen Kostenzeitraum jederzeit bearbeiten, sobald Sie den genauen Betrag kennen (siehe nächster Abschnitt).
 
    ![](assets/image2016-4-1-8-3a54-3a30.png)
 
@@ -43,17 +43,17 @@ Ein [Zeitraumkosten](/help/marketo/product-docs/core-marketo-concepts/programs/w
 
    >[!TIP]
    >
-   >Sie können mehrere Zeitraumkosten per Drag-and-Drop auf die Arbeitsfläche ziehen. Auf diese Weise können Sie Ihrem Programm mehrere Monate mit unterschiedlichen Zeitraumkosten zuordnen.
+   >Sie können mehrere Periodenkosten per Drag-and-Drop auf die Arbeitsfläche ziehen. Auf diese Weise können Sie Ihrem Programm mehrere Monate mit unterschiedlichen Periodenkosten zuordnen.
 
-## Bearbeiten von Periodenkosten {#edit-a-period-cost}
+## Periodenkosten bearbeiten {#edit-a-period-cost}
 
-1. Wenn Sie mehr oder weniger Geld ausgeben als ursprünglich geplant, können Sie die Zeitraumkosten bearbeiten.
+1. Wenn Sie mehr oder weniger Geld ausgeben als ursprünglich geplant, können Sie die Periodenkosten bearbeiten.
 
-1. Navigieren Sie zur Registerkarte **[!UICONTROL Setup]** Ihres Programms.
+1. Wechseln Sie zur **[!UICONTROL Setup]** des Programms.
 
    ![](assets/image2014-9-18-14-3a3-3a6.png)
 
-1. Klicken Sie mit der rechten Maustaste auf die **[!UICONTROL Zeitraumkosten]**. Wählen Sie **[!UICONTROL Bearbeiten]** aus.
+1. Klicken Sie mit der rechten Maustaste auf **[!UICONTROL Periodenkosten]**. Wählen Sie **[!UICONTROL Bearbeiten]** aus.
 
    ![](assets/image2014-9-18-14-3a3-3a23.png)
 
@@ -61,21 +61,21 @@ Ein [Zeitraumkosten](/help/marketo/product-docs/core-marketo-concepts/programs/w
 
    ![](assets/image2014-9-18-14-3a3-3a41.png)
 
-## Löschen von Zeitkosten {#delete-a-period-cost}
+## Periodenkosten löschen {#delete-a-period-cost}
 
-1. Navigieren Sie zur Registerkarte **[!UICONTROL Setup]** Ihres Programms.
+1. Wechseln Sie zur **[!UICONTROL Setup]** des Programms.
 
    ![](assets/image2014-9-18-14-3a4-3a11.png)
 
-1. Klicken Sie mit der rechten Maustaste auf die **[!UICONTROL Zeitraumkosten]**. Wählen Sie **[!UICONTROL Löschen]** aus.
+1. Klicken Sie mit der rechten Maustaste auf **[!UICONTROL Periodenkosten]**. Wählen Sie **[!UICONTROL Löschen]** aus.
 
    ![](assets/image2014-9-18-14-3a4-3a22.png)
 
-1. Klicken Sie zur Bestätigung auf **[!UICONTROL Löschen]** .
+1. Klicken Sie **[!UICONTROL Löschen]** zur Bestätigung.
 
    ![](assets/image2014-9-18-14-3a4-3a35.png)
 
 >[!MORELIKETHIS]
 >
->* [Verstehen der Zeitkosten](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md){target="_blank"}
->* [Filtern eines Programmberichts nach Periodenkosten](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md){target="_blank"}
+>* [Grundlegendes zu Periodenkosten](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md){target="_blank"}
+>* [Filtern Sie einen Programmbericht nach Periodenkosten](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md){target="_blank"}

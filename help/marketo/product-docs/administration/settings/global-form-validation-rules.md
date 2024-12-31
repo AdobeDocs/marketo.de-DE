@@ -12,11 +12,11 @@ ht-degree: 2%
 
 # Globale Formularvalidierungsregeln {#global-form-validation-rules}
 
-Mit dieser Funktion können Sie verhindern, dass bestimmte Domänen an Marketo Engage-Formulare gesendet werden.
+Mit dieser Funktion können Sie verhindern, dass bestimmte Domains Formulare an Marketo Engage senden.
 
 ## Aktivieren des Zugriffs {#how-to-enable-access}
 
-Bevor Sie diese Funktion verwenden können, müssen Sie ihre Berechtigung für jede gewünschte Rolle aktivieren.
+Bevor Sie diese Funktion verwenden können, müssen Sie ihre Berechtigung für die gewünschte Rolle aktivieren.
 
 1. Klicken Sie in Marketo auf **[!UICONTROL Admin]**.
 
@@ -26,23 +26,23 @@ Bevor Sie diese Funktion verwenden können, müssen Sie ihre Berechtigung für j
 
    ![](assets/global-form-validation-rules-2.png)
 
-1. Klicken Sie auf die Registerkarte **[!UICONTROL Rollen]**.
+1. Klicken Sie auf die **[!UICONTROL Rollen]**.
 
    ![](assets/global-form-validation-rules-3.png)
 
-1. Doppelklicken Sie auf die Rolle, der Sie Berechtigungen gewähren möchten.
+1. Doppelklicken Sie auf die Rolle, der Sie Berechtigungen erteilen möchten.
 
    ![](assets/global-form-validation-rules-4.png)
 
-1. Klicken Sie auf das Symbol **+** neben &quot;Zugriff auf Admin&quot;.
+1. Klicken Sie auf das Pluszeichen **+** neben Zugriff auf Admin.
 
    ![](assets/global-form-validation-rules-5.png)
 
-1. Scrollen Sie nach unten, wählen Sie **[!UICONTROL Auf Formularvalidierungsregeln zugreifen]** und klicken Sie auf **[!UICONTROL Speichern]**.
+1. Scrollen Sie nach unten, wählen Sie **[!UICONTROL Formularvalidierungsregeln aufrufen]** und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/global-form-validation-rules-6.png)
 
-## Neue Formularvalidierungsregel erstellen {#create-new-form-validation-rule}
+## Erstellen einer neuen Formularvalidierungsregel {#create-new-form-validation-rule}
 
 >[!IMPORTANT]
 >
@@ -52,36 +52,36 @@ Bevor Sie diese Funktion verwenden können, müssen Sie ihre Berechtigung für j
 
    ![](assets/global-form-validation-rules-7.png)
 
-1. Klicken Sie auf **[!UICONTROL Regel für die globale Formularüberprüfung]**.
+1. Klicken Sie **[!UICONTROL Globale Formularvalidierungsregel]**.
 
    ![](assets/global-form-validation-rules-8.png)
 
-1. Klicken Sie auf **[!UICONTROL Neue Formularvalidierungsregel]**.
+1. Klicken Sie **[!UICONTROL Neue Formularvalidierungsregel]**.
 
    ![](assets/global-form-validation-rules-9.png)
 
    >[!NOTE]
    >
-   >In der Dropdown-Liste Aktionen für Formularvalidierungsregeln können Sie vorhandene Regeln löschen oder bearbeiten.
+   >Im Dropdown-Menü Aktionen für Formularvalidierungsregeln können Sie vorhandene Regeln löschen oder bearbeiten.
 
-1. Benennen Sie Ihre Regel, geben Sie ihr eine optionale Beschreibung und geben Sie die Fehlermeldung ein, die Ihre Formular-Besucher sehen sollen. Geben Sie die Domäne(n) ein, die blockiert werden soll(n), wählen Sie **[!UICONTROL Regel aktivieren]** und klicken Sie auf **[!UICONTROL Erstellen]**.
+1. Benennen Sie Ihre Regel, geben Sie ihr eine optionale Beschreibung und geben Sie die Fehlermeldung ein, die den Besuchern des Formulars angezeigt werden soll. Geben Sie im Feld Regeln die Domain(s) ein, die blockiert werden sollen, wählen Sie **[!UICONTROL Regel aktivieren]** und klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/global-form-validation-rules-10.png)
 
 >[!NOTE]
 >
->Marketo Engage verfügt über eine definierte Blockierungsliste kostenloser E-Mail-Domains, die blockiert werden, wenn die &quot;Consumer Email Domain pre-Domain&quot;-Regel verwendet wird, die von Auf die Blockierungsliste setzen geladen wird. [Sehen Sie sich diese Liste hier an](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv) (zum Herunterladen stellen Sie sicher, dass Ihr Browser auf dem neuesten Stand ist und Downloads akzeptieren kann).
+>Marketo Engage verfügt über eine definierte Blockierungsliste-Blockierungsliste mit einer  von kostenlosen E-Mail-Domains von Privatkunden, die bei Verwendung unserer vorab geladenen Regel „Privatkunden-E-Mail-Domain-&quot; blockiert werden. [Diese Liste hier anzeigen](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv) (Zum Herunterladen stellen Sie sicher, dass Ihr Browser auf dem neuesten Stand ist und Downloads akzeptieren kann).
 
 ## Deaktivieren des Zugriffs pro Formular{#how-to-disable-access-per-form}
 
-Nach der Aktivierung gelten Regeln für alle Formulare. Wenn Sie jedoch ein Formular mit bestimmten Anforderungen haben und nichts zurückgewiesen werden soll, können Sie [!UICONTROL Regeln für die globale Formularüberprüfung] in den Einstellungen des Formulars deaktivieren.
+Nach der Aktivierung gelten die Regeln für alle Formulare. Wenn Sie jedoch ein Formular mit bestimmten Anforderungen haben und Sie keine Zurückweisungen wünschen, können Sie [!UICONTROL Globale Formularvalidierungsregeln] in den Formulareinstellungen deaktivieren.
 
-1. Klicken Sie in dem gewünschten Formular auf **[!UICONTROL Formulareinstellungen]** und dann auf **[!UICONTROL Einstellungen]**.
+1. Klicken Sie im gewünschten Formular auf **[!UICONTROL Formulareinstellungen]** und dann auf **[!UICONTROL Einstellungen]**.
 
    ![](assets/global-form-validation-rules-11.png)
 
-1. Klicken Sie auf das Dropdown-Menü **[!UICONTROL Regeln für die globale Formularüberprüfung]** und wählen Sie **[!UICONTROL Deaktiviert]** aus.
+1. Klicken Sie auf die **[!UICONTROL Globale Formularvalidierungsregeln]** und wählen Sie **[!UICONTROL Deaktiviert]**.
 
    ![](assets/global-form-validation-rules-12.png)
 
-Wenn Sie Ihr Formular genehmigen und posten, werden Ihre [!UICONTROL Regeln zur globalen Formularüberprüfung] ignoriert.
+Wenn Sie Ihr Formular genehmigen und senden, werden Ihre [!UICONTROL globalen Formularvalidierungsregeln] ignoriert.

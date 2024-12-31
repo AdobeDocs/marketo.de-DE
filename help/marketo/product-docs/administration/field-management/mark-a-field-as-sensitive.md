@@ -1,6 +1,6 @@
 ---
-description: Kennzeichnen eines Felds als vertraulich - Marketo-Dokumente - Produktdokumentation
-title: Feld als vertraulich markieren
+description: Markieren eines Felds als sensibel - Marketo-Dokumente - Produktdokumentation
+title: Markieren eines Felds als sensibel
 exl-id: 23af8344-4808-4f91-95e8-9c246153c8b3
 feature: Field Management
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
@@ -10,28 +10,28 @@ ht-degree: 0%
 
 ---
 
-# Feld als vertraulich markieren {#mark-a-field-as-sensitive}
+# Markieren eines Felds als sensibel {#mark-a-field-as-sensitive}
 
-Als Marketo-Administrator können Sie ein bestimmtes Feld als &quot;sensibel&quot;markieren, sodass die zugehörigen Werte nie vorab in Formularen ausgefüllt werden, wodurch die sensiblen Daten der Benutzer geschützt werden.
+Als Marketo-Administrator können Sie ein bestimmtes Feld als „sensibel“ markieren, sodass seine Werte nie in Formularen vorausgefüllt werden, wodurch die sensiblen Daten der Benutzenden geschützt werden.
 
 >[!NOTE]
 >
->Diese Funktion wird am Dienstag, den 11. Mai, für alle Marketo-Instanzen aktiviert.
+>Diese Funktion wird am Dienstagabend, dem 11. Mai, für alle Marketo-Instanzen aktiviert.
 
 1. Klicken Sie auf **[!UICONTROL Admin]**.
 
    ![](assets/mark-a-field-as-sensitive-1.png)
 
-1. Klicken Sie auf **[!UICONTROL Feldverwaltung]**.
+1. Klicken Sie **[!UICONTROL Feldverwaltung]**.
 
    ![](assets/mark-a-field-as-sensitive-2.png)
 
-1. Suchen und wählen Sie das gewünschte Feld aus.
+1. Suchen Sie das gewünschte Feld und wählen Sie es aus.
 
    ![](assets/mark-a-field-as-sensitive-3.png)
 
-1. Aktivieren Sie das Kontrollkästchen **[!UICONTROL Feld als vertraulich markieren]** .
+1. Aktivieren Sie **[!UICONTROL Kontrollkästchen]** Feld als sensibel markieren“.
 
    ![](assets/mark-a-field-as-sensitive-4.png)
 
-Und das ist es! In Zukunft werden bei allen Marketo-Formularen, die für das Vorausfüllen aktiviert sind, keine Daten für das ausgewählte Feld angezeigt.
+Und das war&#39;s! Künftig werden in Marketo-Formularen, für die „Vorausfüllen“ aktiviert ist, keine Daten für das ausgewählte Feld angezeigt.

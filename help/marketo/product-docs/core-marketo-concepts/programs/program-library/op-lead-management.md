@@ -1,6 +1,6 @@
 ---
 description: OP-Lead-Management - Marketo-Dokumente - Produktdokumentation
-title: OP-Lead-Management
+title: OP-Lead Management
 feature: Programs
 exl-id: bde644fe-d40b-4c9c-925d-a0f522e6de01
 source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
@@ -10,15 +10,15 @@ ht-degree: 13%
 
 ---
 
-# OP-Lead-Management {#op-lead-management}
+# OP-Lead Management {#op-lead-management}
 
-Dies ist ein Beispiel für Best Practice-Workflows für die Lead-Verwaltung, die ein Marketo Engage-Standardprogramm verwenden, um Sie bei der Verwaltung von Datensätzen in Ihrer Marketo Engage-Datenbank in Ihrem CRM-System zu unterstützen.
+Dies ist ein Beispiel für Best Practice-Workflows für das Lead-Management, bei denen ein Marketo Engage-Standardprogramm verwendet wird, um Sie bei der Verwaltung von Datensätzen innerhalb Ihrer Marketo Engage-Datenbank in Ihrem CRM-System zu unterstützen.
 
 >[!NOTE]
 >
->In Marketo Engage werden Datensätze in Ihrer Datenbank als Personen/Personen bezeichnet. Die Lead-Verwaltung in diesem Beispiel bezieht sich auf die Datensätze in Ihrem CRM-System.
+>Beim Marketo Engage werden Datensätze in Ihrer Datenbank als Personen/Personen bezeichnet. Die Lead-Verwaltung in diesem Beispiel bezieht sich auf die Datensätze in Ihrem CRM.
 
-Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Programms an das Adobe-Account-Team oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html) .
+Wenden Sie sich für weitere Strategieunterstützung oder Hilfe bei der Anpassung eines Programms an das Adobe-Account-Team oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html).
 
 ## Kanal-Zusammenfassung {#channel-summary}
 
@@ -26,7 +26,7 @@ Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Prog
  <tbody> 
   <tr> 
    <th>Kanal</th> 
-   <th>Status der Mitgliedschaft</th>
+   <th>Mitgliedschaftsstatus</th>
    <th>Analytics Behavior</th>
    <th>Programmtyp</th>
   </tr> 
@@ -39,7 +39,7 @@ Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Prog
  </tbody> 
 </table>
 
-## Das Programm enthält die folgende Assets {#program-contains-the-following-assets}
+## Programm enthält die folgenden Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -51,7 +51,7 @@ Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Prog
   <tr> 
    <td>Intelligente Kampagne</td> 
    <td> </td>
-   <td>01 - Synchronisieren neuer Personen mit CRM</td>
+   <td>01 - Neue Personen mit CRM synchronisieren</td>
   </tr>
   <tr> 
    <td>Intelligente Kampagne</td> 
@@ -61,7 +61,7 @@ Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Prog
   <tr> 
    <td>E-Mail</td> 
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Schnellstart-E-Mail-Vorlage</a></td>
-   <td>01 - E-Mail - WARNUNG - MQL</td>
+   <td>01 - E-MAIL - WARNHINWEIS - MQL</td>
   </tr>
   <tr> 
    <td>Ordner</td> 
@@ -71,33 +71,33 @@ Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Prog
   <tr> 
    <td>Ordner</td> 
    <td> </td>
-   <td>Email Alert</td>
+   <td>E-Mail-Warnung</td>
   </tr>
  </tbody> 
 </table>
 
 ![](assets/op-lead-management-1.png)
 
-## Konfliktregeln {#conflict-rules}
+## Kollisionsregeln {#conflict-rules}
 
 * **Programm-Tags**
-   * Erstellen von Tags in diesem Abonnement - _Empfohlen_
+   * Tags in diesem Abonnement erstellen - _Empfohlen_
    * Ignorieren
 
-* **Vorlage für Einstiegsseiten mit demselben Namen**
+* **Landingpage-Vorlage mit demselben Namen**
    * Originalvorlage kopieren - _Empfohlen_
    * Zielvorlage verwenden
 
 * **Bilder mit demselben Namen**
-   * Beides beibehalten - _Empfohlen_
+   * Beide Dateien beibehalten - _Empfohlen_
    * Element in diesem Abonnement ersetzen
 
 * **E-Mail-Vorlagen mit demselben Namen**
-   * Beides beibehalten - _Empfohlen_
+   * Beide Vorlagen beibehalten - _Empfohlen_
    * Vorhandene Vorlage ersetzen
 
 ## Bewährte Methoden {#best-practices}
 
-* Ziehen Sie das Hinzufügen zusätzlicher intelligenter Kampagnen in Erwägung, um alle Lebenszyklusstatus-Anforderungen zu erfüllen, die Sie möglicherweise in Ihrem Unternehmen verfolgen. Jede in diesem Programm erstellte Kampagne soll ein Beispiel für den Best Practice-Build sein und nicht für alle Anwendungsfälle spezifisch sein. Denken Sie daran, die Smart-Kampagnen zu aktualisieren, um Ihren spezifischen Prozess des Lead-Lebenszyklusmanagements zu berücksichtigen.
+* Erwägen Sie das Hinzufügen zusätzlicher intelligenter Kampagnen, um alle Lebenszyklusstatus-Anforderungen zu erfüllen, die Sie in Ihrer Organisation möglicherweise verfolgen. Jede in diesem Programm erstellte Kampagne ist als Beispiel für die Erstellung von Best Practices gedacht und ist nicht für alle Anwendungsfälle spezifisch. Denken Sie daran, die Smart-Kampagnen entsprechend Ihrem spezifischen Lead-Lebenszyklus-Management-Prozess zu aktualisieren.
 
-* Erwägen Sie, die Namenskonvention für dieses Programmbeispiel zu aktualisieren und sie an Ihre anzupassen.
+* Erwägen Sie, die Namenskonvention dieses Programmbeispiels zu aktualisieren, damit sie mit Ihrer übereinstimmt.

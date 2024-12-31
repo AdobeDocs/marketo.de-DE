@@ -1,6 +1,6 @@
 ---
-description: Hinzufügen oder Entfernen von Personen aus Ihrer Dynamics Campaign - Marketo Docs - Produktdokumentation
-title: Hinzufügen oder Entfernen von Personen aus Ihrer Dynamics-Kampagne
+description: Personen zu Ihrer Dynamics Campaign hinzufügen oder daraus entfernen - Marketo-Dokumente - Produktdokumentation
+title: Personen zu Ihrer Dynamics-Kampagne hinzufügen oder daraus entfernen
 exl-id: 4fea2f7c-0655-4816-8640-76878f760b6e
 feature: Smart Campaigns, Microsoft Dynamics
 source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
@@ -10,17 +10,17 @@ ht-degree: 0%
 
 ---
 
-# Hinzufügen oder Entfernen von Personen aus Ihrer Dynamics-Kampagne {#add-or-remove-people-from-your-dynamics-campaign}
+# Personen zu Ihrer Dynamics-Kampagne hinzufügen oder daraus entfernen {#add-or-remove-people-from-your-dynamics-campaign}
 
 ## Zu Dynamics Campaign hinzufügen {#add-to-dynamics-campaign}
 
-Dieser Flussschritt kann in Marketo Engage-Smart-Kampagnen verwendet werden, um Personen als Leads oder Kontakte in einer Microsoft-Kampagne hinzuzufügen. Wenn der Lead noch nicht in Dynamics vorhanden ist, wird er automatisch synchronisiert und zur Kampagne hinzugefügt.
+Dieser Flussschritt kann in Marketo Engage-Smart-Kampagnen verwendet werden, um Personen als Leads oder Kontakte in eine Microsoft-Kampagne einzufügen. Wenn der Lead noch nicht in Dynamics vorhanden ist, wird er automatisch synchronisiert und der Kampagne hinzugefügt.
 
 >[!NOTE]
 >
 >Diese Flussaktion ist nur für Trigger-Kampagnen verfügbar.
 
-Suchen und wählen Sie in Ihrer Smart-Kampagne die Dynamics-Kampagne aus, der Sie Ihre Personen hinzufügen möchten.
+Suchen Sie in Ihrer Smart-Kampagne die Dynamics-Kampagne, der Sie Ihre Mitarbeiter hinzufügen möchten, und wählen Sie sie aus.
 
 ![](assets/add-or-remove-people-from-your-dynamics-campaign-1.png)
 
@@ -28,28 +28,28 @@ Suchen und wählen Sie in Ihrer Smart-Kampagne die Dynamics-Kampagne aus, der Si
 >
 >Wenn eine Dynamics-Kampagne nicht in der Kampagnenliste angezeigt wird:
 >
->* Sicherstellen, dass die Kampagnensynchronisierung funktioniert
+>* Stellen Sie sicher, dass die Kampagnensynchronisierung funktioniert
 >* Die Kampagne ist in [!DNL Microsoft Dynamics] nicht aktiv
 
-Das System erstellt automatisch eine kampagnenspezifische statische Marketing-Liste, die jeweils für Leads und Kontakte verwendet wird, um die Person hinzuzufügen. Es handelt sich um eine einmalige Aktion, bei der für nachfolgende Synchronisierungen mit der Kampagne dieselbe Marketing-Liste verwendet wird. Der für den statischen Namen der Marketing-Liste verwendete Namensstandard lautet `Mkto-leads-<uniqueID>` für Leads und `Mkto-contacts-<uniqueID>` für Kontakte.
+Das System erstellt automatisch für jede Kampagne eine statische Marketing-Liste für Leads und Kontakte, um die Person hinzuzufügen. Es handelt sich um eine einmalige Aktion und einmal für nachfolgende Synchronisationen mit der Kampagne wird dieselbe Marketing-Liste verwendet. Der für den statischen Namen der Marketing-Liste verwendete Benennungsstandard ist für Leads und `Mkto-contacts-<uniqueID>` für Kontakte `Mkto-leads-<uniqueID>`.
 
-Die Zuordnung dieser von Marketo generierten Marketinglisten zu anderen Kampagnen könnte zu Verwirrung führen. Beispiel: Wenn Sie eine Kampagne hinzufügen, wird auch die zweite Kampagne hinzugefügt. Ebenso ist es nicht empfehlenswert, die von Marketo generierte Marketingliste von der Kampagne in Dynamics zu trennen.
+Die Zuordnung dieser von Marketo generierten Marketing-Listen zu anderen Kampagnen könnte zu verwirrendem Verhalten führen. Das Hinzufügen zu einer Kampagne führt beispielsweise auch zum Hinzufügen zu der zweiten Kampagne. Es wird auch nicht empfohlen, die von Marketo generierte Marketing-Liste von der Campaign-Liste in Dynamics zu trennen.
 
 ## Aus Dynamics Campaign entfernen {#remove-from-dynamics-campaign}
 
-Dieser Flussschritt kann in Marketo-Smart-Kampagnen verwendet werden, um Personen aus einer Microsoft-Kampagne zu entfernen. Dadurch werden nur die Leads aus einer Kampagne entfernt, die zuvor über die Flussaktion &quot;Hinzugefügt zu Microsoft Campaign&quot;zur Kampagne hinzugefügt wurden.
+Dieser Flussschritt kann in Marketo Smart-Kampagnen verwendet werden, um Personen aus einer Microsoft-Kampagne zu entfernen. Dadurch werden nur die Leads aus einer Kampagne entfernt, die zuvor über die Flussaktion „Zu Microsoft Campaign hinzugefügt“ zur Kampagne hinzugefügt wurden.
 
 >[!NOTE]
 >
 >Diese Flussaktion ist nur für Trigger-Kampagnen verfügbar.
 
-Suchen und wählen Sie in Ihrer Smart-Kampagne die Dynamics-Kampagne aus, aus der Ihre Personen entfernt werden sollen.
+Suchen Sie in Ihrer Smart-Kampagne die Dynamics-Kampagne, aus der Sie Ihre Personen entfernen möchten, und wählen Sie sie aus.
 
 ![](assets/add-or-remove-people-from-your-dynamics-campaign-2.png)
 
 >[!NOTE]
 >
->Wenn keine Dynamics-Kampagne in der Kampagnenliste angezeigt wird:
+>Wenn in der Kampagnenliste keine Dynamics-Kampagne angezeigt wird:
 >
->* Sicherstellen, dass die Kampagnensynchronisierung funktioniert
+>* Stellen Sie sicher, dass die Kampagnensynchronisierung funktioniert
 >* Die Kampagne ist in [!DNL Microsoft Dynamics] nicht aktiv

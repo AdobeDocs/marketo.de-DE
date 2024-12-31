@@ -13,25 +13,25 @@ ht-degree: 1%
 
 # Zuweisen von Personenpartitionen zu Arbeitsbereichen {#assign-person-partitions-to-workspaces}
 
-Hier erfahren Sie, wie Sie die Personenpartition/Workspace-Zuweisungen bearbeiten:
+So bearbeiten Sie die Zuweisungen für die Personenpartition/den Arbeitsbereich:
 
 >[!NOTE]
 >
->**Erforderliche Administratorberechtigungen**
+>**Administratorberechtigungen erforderlich**
 
 >[!PREREQUISITES]
 >
->[Erstellen einer neuen Workspace](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md){target="_blank"}
+>[Erstellen Sie eine neue Workspace](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md){target="_blank"}
 
 >[!CAUTION]
 >
->Arbeitsbereiche und Personen-Partitionen können komplex sein. Wenden Sie sich an den [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"} , um Hilfe bei der Einrichtung zu erhalten.
+>Arbeitsbereiche und Personenpartitionen können komplex sein. Wenden Sie sich an den [Marketo](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}Support, um Hilfe bei der Einrichtung zu erhalten.
 
-1. Wechseln Sie zum Bereich **[!UICONTROL Admin]** .
+1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
 
    ![](assets/assign-person-partitions-to-workspaces-1.png)
 
-1. Klicken Sie auf **[!UICONTROL Arbeitsbereiche und Partitionen]**.
+1. Klicken Sie **[!UICONTROL Arbeitsbereiche und Partitionen]**.
 
    ![](assets/assign-person-partitions-to-workspaces-2.png)
 
@@ -39,15 +39,15 @@ Hier erfahren Sie, wie Sie die Personenpartition/Workspace-Zuweisungen bearbeite
 
    ![](assets/assign-person-partitions-to-workspaces-3.png)
 
-1. Bearbeiten Sie die personenbezogenen Partitionsinformationen, die Sie ändern möchten.
+1. Bearbeiten Sie die Informationen zur Personenpartition, die Sie ändern möchten.
 
    ![](assets/assign-person-partitions-to-workspaces-4.png)
 
    >[!NOTE]
    >
-   >* Das Kontrollkästchen &quot;[!UICONTROL Alle Personen-Partitionen]&quot; gibt an, dass dieser Arbeitsbereich Zugriff auf alle Personen-Partitionen im System hat.
+   >* Das Kontrollkästchen [!UICONTROL Alle Personenpartitionen] gibt an, dass dieser Arbeitsbereich Zugriff auf alle Personenpartitionen im System hat.
    >
-   >* Partitionen von Primären Personen sind die Standardeinstellung, in der alle Völker eingetragen werden. Verwenden Sie [Fluss-Schritte](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) oder [Zuweisungsregeln](/help/marketo/product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md){target="_blank"}, um Personen zu bewegen.
+   >* Primäre Personenpartitionen sind die Standardpartitionen, in die alle Völker eingegeben werden. Verwenden [Flussschritte](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) oder [Zuweisungsregeln](/help/marketo/product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md){target="_blank"} um Personen zu verschieben.
 
 1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
@@ -61,4 +61,4 @@ Sie haben Ihren Arbeitsbereich erfolgreich bearbeitet!
 
 >[!MORELIKETHIS]
 >
->[Grundlegendes zu Arbeitsbereichen und Personen-Partitionen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.
+>[Arbeitsbereiche und Personenpartitionen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.

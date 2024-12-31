@@ -13,12 +13,12 @@ ht-degree: 12%
 
 # Aus Liste entfernen {#remove-from-list}
 
-Da Sie die Möglichkeit haben, [Zu Liste hinzufügen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md){target="_blank"}, müssen Sie auch eine Möglichkeit haben, Personen aus Listen zu entfernen.
+Da Sie die Möglichkeit haben, [Zu Liste hinzufügen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md){target="_blank"}, benötigen Sie auch eine Möglichkeit, Personen aus Listen zu entfernen.
 
 ![](assets/remove-from-list-1.png)
 
-1. Suchen und wählen Sie die Liste aus, aus der die Personen entfernt werden sollen.
+1. Suchen Sie die Liste, aus der die Personen entfernt werden sollen, und wählen Sie sie aus.
 
    ![](assets/remove-from-list-2.png)
 
-Das ist es!
+Das war&#39;s!

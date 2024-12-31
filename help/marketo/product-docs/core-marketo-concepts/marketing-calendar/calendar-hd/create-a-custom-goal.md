@@ -1,7 +1,7 @@
 ---
 unique-page-id: 7504130
-description: Benutzerdefiniertes Ziel erstellen - Marketo-Dokumente - Produktdokumentation
-title: Benutzerdefiniertes Ziel erstellen
+description: Erstellen eines benutzerdefinierten Ziels - Marketo-Dokumente - Produktdokumentation
+title: Erstellen eines benutzerdefinierten Ziels
 exl-id: 5e97fb4c-c779-46c7-83ed-de07d27770c7
 feature: Marketing Calendar
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
@@ -11,37 +11,37 @@ ht-degree: 0%
 
 ---
 
-# Benutzerdefiniertes Ziel erstellen {#create-a-custom-goal}
+# Erstellen eines benutzerdefinierten Ziels {#create-a-custom-goal}
 
-Ziele sind Wege, Fortschritte zu verfolgen und Ihr Team zu motivieren. Nach der Erstellung müssen sie manuell aktualisiert werden.
+Ziele sind Möglichkeiten, den Fortschritt zu verfolgen und Ihr Team zu motivieren. Nach der Erstellung müssen sie manuell aktualisiert werden.
 
 Wie Präsentationen sind Ziele [Workspace](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)-spezifisch.
 
-1. Wechseln Sie zum **[!UICONTROL Kalender]**.
+1. Navigieren Sie zum **[!UICONTROL Kalender]**.
 
    ![](assets/2017-05-10-15-30-47-2.png)
 
-1. Klicken Sie unten rechts auf **[!UICONTROL Presentations]** .
+1. Klicken Sie unten ]**rechts auf**[!UICONTROL  Presentations.
 
    ![](assets/image2015-3-24-12-3a2-3a55.png)
 
-1. Wählen Sie die Registerkarte **[!UICONTROL Ziele]** aus.
+1. Wählen Sie die **[!UICONTROL Ziele]** aus.
 
    ![](assets/image2015-3-26-12-3a24-3a49.png)
 
-1. Ziehen Sie **[!UICONTROL Benutzerdefiniertes Ziel]** in die Arbeitsfläche.
+1. Ziehen Sie „Benutzerdefiniertes **[!UICONTROL &quot; per Drag-and]** Drop auf die Arbeitsfläche.
 
    ![](assets/image2015-3-24-12-3a32-3a45.png)
 
-1. Geben Sie einen Namen für das Ziel ein. Wählen Sie eine **[!UICONTROL Währung]** aus.
+1. Geben Sie einen Namen für das Ziel ein. Wählen Sie eine **[!UICONTROL Währung]**.
 
    >[!NOTE]
    >
-   >Wenn das Ziel kein Geldwert ist, können Sie **[!UICONTROL Keine]** auswählen.
+   >Wenn das Ziel kein Geldwert ist, können Sie &quot;**[!UICONTROL &quot;]**.
 
    ![](assets/image2015-3-24-12-3a36-3a0.png)
 
-1. Geben Sie einen Wert für das **[!UICONTROL Ziel-Ziel]** und den **[!UICONTROL aktuellen Wert]** ein (geben Sie, wenn kein Wert vorhanden ist, **0** ein). Klicken Sie dann auf **[!UICONTROL Erstellen]**.
+1. Geben Sie einen Wert für das **[!UICONTROL Ziel]** und den **[!UICONTROL aktuellen Wert]** ein (wenn es keinen gibt, geben Sie **0** ein). Klicken Sie dann auf **[!UICONTROL Erstellen]**.
 
    ![](assets/image2015-3-24-12-3a39-3a28.png)
 

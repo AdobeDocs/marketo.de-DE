@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2360333
-description: Ein Feld ausblenden und ausblenden - Marketo-Dokumente - Produktdokumentation
-title: Ein Feld ausblenden und ausblenden
+description: Ein- und Ausblenden eines Felds - Marketo-Dokumente - Produktdokumentation
+title: Ein- und Ausblenden eines Felds
 exl-id: 14395c31-d0f4-4aec-8592-a60a764a7263
 feature: Field Management
 source-git-commit: 37e6f60d2f26ce2c7a8c7564f33c6121a6a507a1
@@ -11,21 +11,21 @@ ht-degree: 2%
 
 ---
 
-# Ein Feld ausblenden und ausblenden {#hide-and-unhide-a-field}
+# Ein- und Ausblenden eines Felds {#hide-and-unhide-a-field}
 
-Wenn Sie kein Feld mehr im Marketo Engage verwenden, können Sie es über die Benutzeroberfläche ausblenden, damit es nicht mehr in der Anwendung angezeigt wird.
+Wenn Sie ein Feld auf dem Marketo Engage nicht mehr verwenden, können Sie es in der Benutzeroberfläche ausblenden, sodass es nicht mehr in der Anwendung angezeigt wird.
 
 ## Feld ausblenden {#hide-a-field}
 
 >[!NOTE]
 >
->**Erforderliche Administratorberechtigungen**
+>**Administratorberechtigungen erforderlich**
 
-1. Wechseln Sie zum Bereich **[!UICONTROL Admin]** .
+1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
 
    ![](assets/hide-and-unhide-a-field-1.png)
 
-1. Klicken Sie auf **[!UICONTROL Feldverwaltung]**.
+1. Klicken Sie **[!UICONTROL Feldverwaltung]**.
 
    ![](assets/hide-and-unhide-a-field-2.png)
 
@@ -35,11 +35,11 @@ Wenn Sie kein Feld mehr im Marketo Engage verwenden, können Sie es über die Be
 
    >[!NOTE]
    >
-   >* Um ein Feld auszublenden, darf es nicht mit anderen Assets (einschließlich archivierter Assets) verknüpft werden. Achten Sie darauf, das Feld aus allen Smart-Listen, Flussschrittoptionen, Formularen, E-Mails usw. zu entfernen, bevor Sie es ausblenden.
-   >* Standardfelder (System) können nicht ausgeblendet werden.
-   >* Sie können die Informationsfelder für Chancen nicht verbergen.
+   >* Um ein Feld auszublenden, darf es mit keinem anderen Asset (einschließlich archivierter Assets) verknüpft sein. Stellen Sie sicher, dass Sie das Feld aus allen Smart-Listen, Flussschritt-Auswahlmöglichkeiten, Formularen, E-Mails usw. entfernen, bevor Sie es ausblenden.
+   >* Sie können keine Standardfelder (System) ausblenden.
+   >* Informationsfelder für Opportunities können nicht ausgeblendet werden.
 
-1. Klicken Sie zur Bestätigung auf **[!UICONTROL Ausblenden]** .
+1. Klicken Sie zum **[!UICONTROL auf]** Ausblenden“.
 
    ![](assets/hide-and-unhide-a-field-4.png)
 
@@ -47,19 +47,19 @@ Wenn Sie kein Feld mehr im Marketo Engage verwenden, können Sie es über die Be
 
    ![](assets/hide-and-unhide-a-field-5.png)
 
-## Einblenden eines Felds {#unhide-a-field}
+## Ein Feld einblenden {#unhide-a-field}
 
-1. Wechseln Sie zum Bereich **[!UICONTROL Admin]** .
+1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
 
    ![](assets/hide-and-unhide-a-field-6.png)
 
-1. Klicken Sie auf **[!UICONTROL Feldverwaltung]**.
+1. Klicken Sie **[!UICONTROL Feldverwaltung]**.
 
    ![](assets/hide-and-unhide-a-field-7.png)
 
-1. Wählen Sie das Feld aus. Klicken Sie in der Dropdownliste [!UICONTROL Feldaktionen] auf **[!UICONTROL Feld einblenden]**.
+1. Suchen Sie das Feld und wählen Sie es aus. Klicken Sie in [!UICONTROL  Dropdown]Liste Feldaktionen“ auf **[!UICONTROL Feld einblenden]**.
 
    ![](assets/hide-and-unhide-a-field-8.png)
 
-   Tolle Arbeit! Jetzt wissen Sie, wie Sie Felder wieder einblenden und wieder einblenden können.
+   Tolle Arbeit! Jetzt wissen Sie, wie Sie Felder einblenden und wieder sichtbar machen können.
 

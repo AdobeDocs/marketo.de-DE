@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Freigeben einer Filterdefinition im Marketing-Kalender {#sharing-a-filter-definition-in-the-marketing-calendar}
 
-Filter können für verschiedene Benutzer freigegeben werden.
+Filter können von verschiedenen Benutzern gemeinsam genutzt werden.
 
 >[!PREREQUISITES]
 >
@@ -22,20 +22,20 @@ Filter können für verschiedene Benutzer freigegeben werden.
 
 >[!NOTE]
 >
-> Wenn Sie eine Änderung an einem gespeicherten Filter vornehmen, stellen Sie sicher, dass Sie ihn erneut freigeben. Ihre Änderungen werden erst dann für andere Benutzer übernommen, wenn Sie dies tun.
+> Wenn Sie Änderungen an einem gespeicherten Filter vornehmen, müssen Sie ihn erneut freigeben. Ihre Änderungen werden erst dann für andere Benutzer übernommen.
 
 1. Wählen Sie den Filter aus, den Sie freigeben möchten.
 
    ![](assets/image2014-9-24-11-3a31-3a19.png)
 
-1. Klicken Sie unten rechts auf das Freigabesymbol.
+1. Klicken Sie auf das Freigabesymbol in der rechten unteren Ecke.
 
    ![](assets/image2014-9-24-11-3a31-3a24.png)
 
-1. Kopieren Sie die URL und geben Sie sie für andere Marketo-Benutzer frei.
+1. Kopieren Sie die URL und geben Sie sie für andere Marketo-Benutzende frei.
 
    ![](assets/image2014-9-24-11-3a31-3a29.png)
 
    >[!NOTE]
    >
-   >Benutzerberechtigungen beeinflussen die Sichtbarkeit.
+   >Benutzerberechtigungen wirken sich auf die Sichtbarkeit aus.

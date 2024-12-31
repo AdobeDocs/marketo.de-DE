@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2360253
-description: Bearbeiten Sie die Meldung "Als Webseite anzeigen"- Marketo Docs - Produktdokumentation
-title: Bearbeiten Sie die Meldung "Als Webseite anzeigen"
+description: Bearbeiten der Nachricht „Als Web-Seite anzeigen“ - Marketo-Dokumente - Produktdokumentation
+title: Bearbeiten der Nachricht „Als Web-Seite anzeigen“
 exl-id: 5541fe6c-7297-4277-8355-ba7b4ac73e2e
 feature: Email Setup
 source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
@@ -11,17 +11,17 @@ ht-degree: 0%
 
 ---
 
-# Bearbeiten Sie die Meldung &quot;Als Webseite anzeigen&quot; {#edit-the-view-as-web-page-message}
+# Bearbeiten der Nachricht „Als Web-Seite anzeigen“ {#edit-the-view-as-web-page-message}
 
-Wenn Sie den Text &quot;[Als Webseite anzeigen](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)&quot; bearbeiten müssen, sehen Sie wie:
+Wenn Sie den Text &quot;[ als Web-Seite anzeigen](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md) bearbeiten müssen, sehen Sie folgendes:
 
 >[!NOTE]
 >
->**Erforderliche Administratorberechtigungen**
+>**Administratorberechtigungen erforderlich**
 
-## Bearbeiten Sie die Meldung &quot;Als Webseite anzeigen&quot; {#edit-the-view-as-web-page-message-1}
+## Bearbeiten der Nachricht „Als Web-Seite anzeigen“ {#edit-the-view-as-web-page-message-1}
 
-1. Wechseln Sie zum Bereich **[!UICONTROL Admin]** .
+1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
 
    ![](assets/edit-the-view-as-web-page-message-1.png)
 
@@ -35,9 +35,9 @@ Wenn Sie den Text &quot;[Als Webseite anzeigen](/help/marketo/product-docs/email
    >
    >`%mkt_webview_url%?mkt_tok=##MKT_TOK##`
    >
-   >Der zweite Teil `##MKT_TOK##` ist das Cookie [!UICONTROL munchkin] dieser Person. Dadurch wird sichergestellt, dass die Cookies beim Klicken auf den Link entsprechend Cookies erhalten.
+   >Der zweite Teil `##MKT_TOK##` ist der [!UICONTROL -]-Keks dieser Person. Dadurch wird sichergestellt, dass sie beim Klicken auf den Link entsprechend gecoacht werden.
 
-1. Bearbeiten Sie die Versionen **[!UICONTROL Als Webseiten-HTML anzeigen]** und **[!UICONTROL Als Webseiten-Text anzeigen]** nach Ihren Vorstellungen und klicken Sie auf **[!UICONTROL Änderungen speichern]**.
+1. HTML Bearbeiten Sie die Versionen **[!UICONTROL Als Webseite anzeigen]** und **[!UICONTROL Als Webseite anzeigen]** nach Ihren Wünschen und klicken Sie auf **[!UICONTROL Änderungen speichern]**.
 
    ![](assets/edit-the-view-as-web-page-message-3.png)
 
@@ -45,22 +45,22 @@ Wenn Sie den Text &quot;[Als Webseite anzeigen](/help/marketo/product-docs/email
 >
 >Vermeiden Sie Folgendes:
 >
->* Hinzufügen zusätzlicher URLs zu einem der HTML-Felder
->* HTML in Textversion platzieren
+>* Hinzufügen zusätzlicher URLs zu einem der HTML-Boxen
+>* HTML in der Textversion einfügen
 
-Da hast du es. Senden Sie Test-E-Mails, um die Formatierung sicherzustellen.
+Da haben Sie es. Senden Sie Test-E-Mails, um die Formatierung sicherzustellen.
 
-## Standardtext &quot;Als Webseite anzeigen&quot; {#default-view-as-web-page-text}
+## Standardtext „Als Web-Seite anzeigen“ {#default-view-as-web-page-text}
 
-Wenn Sie jemals zum Standardsystem &quot;[!UICONTROL Als Webseite anzeigen]&quot;zurückkehren müssen, kopieren/fügen Sie Folgendes ein:
+Wenn Sie jemals zum Standardsystem „Als Web-Seite anzeigen[!UICONTROL  zurückkehren müssen] kopieren Sie Folgendes:
 
-**[!UICONTROL Als HTML der Webseite anzeigen]**:
+**[!UICONTROL Als Webseite anzeigen HTML]**:
 
 `<div style="text-align: center"><font face="Verdana" size="1">To view this email as a web page, <a href="%mkt_webview_url%?mkt_tok=##MKT_TOK##">click here</a></font></div>`
 
-**[!UICONTROL Als Webseiten-Text anzeigen]**:
+**[!UICONTROL Als Webseitentext anzeigen]**:
 
-Um diese E-Mail als Webseite anzuzeigen, gehen Sie zur folgenden Adresse:
+Um diese E-Mail als Web-Seite anzuzeigen, gehen Sie zu der folgenden Adresse:
 `%mkt_webview_url%?mkt_tok=##MKT_TOK##`
 
-Das ist es!
+Das war&#39;s!

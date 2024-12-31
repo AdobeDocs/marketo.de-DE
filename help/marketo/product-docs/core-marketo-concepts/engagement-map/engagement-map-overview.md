@@ -1,6 +1,6 @@
 ---
-description: Interaktionsübersicht - Marketo-Dokumente - Produktdokumentation
-title: Interaktionsübersicht
+description: Übersicht über die Interaktionskarte - Marketo-Dokumente - Produktdokumentation
+title: Interaktionskarte - Übersicht
 exl-id: 01cb283d-06c2-4a99-86a9-39dea9550c08
 source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
@@ -9,95 +9,95 @@ ht-degree: 0%
 
 ---
 
-# Interaktionsübersicht {#engagement-map-overview}
+# Interaktionskarte - Übersicht {#engagement-map-overview}
 
-Mit der Interaktionskarte können Sie Ihre Smart-Kampagnen intuitiv visualisieren. Es bietet vollständige Abwärtskompatibilität mit allen bestehenden Marketo Engage-Smart-Kampagnen, ohne dass aktuelle Funktionen verloren gehen.
+Mit der Interaktionskarte können Sie Ihre Smart-Kampagnen intuitiv visualisieren. Es bietet vollständige Abwärtskompatibilität mit allen bestehenden Marketo Engage Smart-Kampagnen, ohne dass aktuelle Funktionen verloren gehen.
 
 >[!NOTE]
 >
->Interaktionszuordnung ist derzeit in Smart-Kampagnen verfügbar. Sie ist nicht in Programme verfügbar.
+>Interaktionszuordnung ist derzeit in intelligenten Kampagnen verfügbar. Es ist nicht in Programmen verfügbar.
 
 ![](assets/engagement-map-overview-1.png)
 
 ## Zugriff auf Interaktionszuordnung {#accessing-engagement-map}
 
-Navigieren Sie zu einer vorhandenen Kampagne und klicken Sie auf die Schaltfläche **Interaktionszuordnung** .
+Navigieren Sie zu einer beliebigen vorhandenen Kampagne und klicken Sie auf **Schaltfläche** Interaktionszuordnung“.
 
 ![](assets/engagement-map-overview-2.png)
 
-In der Interaktionszuordnung werden zwei Registerkarten angezeigt: [Interaktionszuordnung](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} und [Einstellungen](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}.
+In der Interaktionskarte werden zwei Registerkarten angezeigt: [Interaktionskarte](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} und [Einstellungen](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}.
 
 ![](assets/engagement-map-overview-3.png)
 
 ## Kartenbeschreibungen {#card-descriptions}
 
-**Trigger**: In Kampagnen, die Trigger enthalten, wird die Karte über die Karte &quot;Trigger-Übersicht&quot;verfügen. Wenn Sie darauf klicken, werden eine Karte für jeden Trigger sowie ein Slide-out-Bedienfeld mit zusätzlichen Informationen angezeigt.
+**Trigger**: In Kampagnen, die Trigger enthalten, verfügt die Zuordnung über eine Karte &quot;Trigger-Übersicht“. Wenn Sie darauf klicken, wird für jeden Trigger eine Karte sowie ein ausklappbares Bedienfeld mit zusätzlichen Informationen angezeigt.
 
-**Filter**: In Kampagnen, die Filter enthalten, enthält die Zuordnung eine Karte Filterübersicht . Wenn Sie darauf klicken, wird ein Slide-out-Bedienfeld mit zusätzlichen Informationen zu den einzelnen Filtern angezeigt.
+**Filter**: In Kampagnen, die Filter enthalten, enthält die Zuordnung eine Karte „Filterübersicht“. Wenn Sie darauf klicken, wird ein ausklappbares Bedienfeld mit zusätzlichen Informationen zu jedem Filter angezeigt.
 
-**Flussschritte**: Jede Kampagne enthält eine Karte für jeden Flussschritt. Wenn Sie darauf klicken, wird ein Slide-out-Bedienfeld mit zusätzlichen Informationen angezeigt.
+**Flussschritte**: Jede Kampagne enthält eine Karte für jeden Flussschritt. Wenn Sie darauf klicken, wird ein ausklappbares Bedienfeld mit zusätzlichen Informationen angezeigt.
 
-**Auswahlmöglichkeiten**: Wenn ein Flussschritt eine oder mehrere Optionen enthält, werden beim Klicken auf die Flusskarte eine Karte für jede Auswahl sowie ein Dias-out-Bedienfeld mit zusätzlichen Informationen angezeigt.
+**Wahlen**: Wenn ein Flussschritt eine oder mehrere Auswahlmöglichkeiten enthält, wird beim Klicken auf die Flusskarte für jede Auswahl eine Karte sowie ein ausklappbares Bedienfeld mit zusätzlichen Informationen angezeigt.
 
 ## Verschachtelte Kampagnen {#nested-campaigns}
 
-* Wenn eine Kampagne einen Schritt zum Anfordern oder Ausführen des Kampagnenflusses enthält, werden beim Klicken auf die Flusskarte Details zur aufgerufenen Kampagne sowie ein Slide-out-Bedienfeld mit zusätzlichen Informationen angezeigt.
+* Wenn eine Kampagne den Schritt Kampagnenfluss anfordern oder ausführen enthält, werden beim Klicken auf die Flusskarte Details zur aufgerufenen Kampagne sowie ein ausklappbares Bedienfeld mit zusätzlichen Informationen angezeigt.
 
-* Wenn eine Kampagne einen Schritt zum Anfordern oder Ausführen eines Kampagnenflusses mit einer Auswahl enthält, wird durch Klicken auf die Flusskarte eine Karte für jede Auswahl sowie ein Slide-out-Fenster mit weiteren Informationen zu den Optionen angezeigt. Wenn Sie auf jede Auswahlkarte klicken, werden Details zur aufgerufenen Kampagne sowie ein Slide-out-Bedienfeld mit weiteren Informationen angezeigt.
+* Wenn eine Kampagne den Schritt Kampagnenfluss anfordern oder ausführen mit Auswahlmöglichkeiten enthält, wird beim Klicken auf die Flusskarte für jede Auswahl eine Karte sowie ein ausklappbares Bedienfeld mit weiteren Informationen zu den Auswahlmöglichkeiten angezeigt. Wenn Sie auf eine Auswahlkarte klicken, werden Details zur aufgerufenen Kampagne sowie ein ausklappbares Bedienfeld mit weiteren Informationen angezeigt.
 
-* Wenn außerdem eine der verschachtelten Kampagnen einen Schritt zum Anfordern oder Ausführen des Kampagnenflusses aufweist, werden beim Klicken auf die Flusskarte Details zur Kampagne angezeigt. Dasselbe gilt, wenn der Flussschritt Optionen enthält.
+* Wenn eine der verschachtelten Kampagnen über den Schritt Kampagnenfluss anfordern oder ausführen verfügt, werden beim Klicken auf die Flusskarte außerdem Details zur Kampagne angezeigt. Dasselbe gilt, wenn der Flussschritt Auswahlmöglichkeiten enthält.
 
-## Obere Navigation {#top-navigation}
+## Navigation oben {#top-navigation}
 
 Die obere Navigationsleiste enthält die folgenden Funktionen:
 
-* Kampagnenname und Zugriff auf das Modal &quot;Kampagne bearbeiten&quot;, können Sie hier den Kampagnennamen und die Beschreibung bearbeiten.
+* Kampagnenname und Zugriff auf das Modal „Kampagne bearbeiten“. Der Kampagnenname und die Beschreibung können hier bearbeitet werden.
 
-* Kampagnenstatus und -typ werden unter dem Kampagnennamen angezeigt
+* Der Kampagnenstatus und der Kampagnentyp werden unter dem Kampagnennamen angezeigt.
 
-* Schaltfläche &quot;Aktivieren/Deaktivieren&quot;für Trigger-Kampagnen
+* Schaltfläche „Aktivieren/Deaktivieren“ für Trigger-Kampagnen
 
-* Smart-Liste bearbeiten - Sie werden in einer neuen Registerkarte zur Benutzeroberfläche der Smart-Liste navigieren, auf der Sie Filter und/oder Trigger hinzufügen oder bearbeiten können
+* Smart-Liste bearbeiten - Sie werden in einer neuen Registerkarte zur Benutzeroberfläche der Smart-Liste navigiert, wo Sie Ihre Filter und/oder Trigger hinzufügen oder bearbeiten können
 
-* Fluss bearbeiten - Sie werden auf einer neuen Registerkarte zur Fluss-Oberfläche navigieren, auf der Sie Ihre Flussschritte hinzufügen oder bearbeiten können.
+* Fluss bearbeiten - Sie werden in einer neuen Registerkarte zur Fluss -Oberfläche navigiert, wo Sie Ihre Flussschritte hinzufügen oder bearbeiten können.
 
-* Export - Hiermit wird ein Bild der Kampagnenvisualisierung heruntergeladen. Die heruntergeladene Version spiegelt alle Verzweigungen wider, die Sie erweitert haben
+* Exportieren : Dadurch wird ein Bild der Kampagnenvisualisierung heruntergeladen. Die heruntergeladene Version spiegelt alle Verzweigungen wider, die Sie erweitert haben
 
-* Anzeigen von Kampagnenmitgliedern : Dadurch wird eine neue Registerkarte mit Details zu Kampagnenmitgliedern geöffnet.
+* Kampagnenmitglieder anzeigen - Dadurch wird eine neue Registerkarte mit Details zum Kampagnenmitglied geöffnet.
 
 >[!NOTE]
 >
->Änderungen, die in einer geöffneten Registerkarte Smart List und Fluss vorgenommen wurden, werden bei der Aktualisierung auf der Registerkarte Interaktionszuordnung angezeigt. Es wird nicht automatisch aktualisiert. Aktualisierungen und Bearbeitungen, die automatisch gespeichert werden, werden bei der Aktualisierung der Registerkarte Interaktionszuordnung angezeigt.
+>Änderungen, die in einer geöffneten Smart-Liste und auf einer geöffneten Fluss-Registerkarte vorgenommen wurden, werden bei der Aktualisierung auf der Registerkarte Interaktionszuordnung angezeigt. Sie wird nicht automatisch aktualisiert. Aktualisierungen und Bearbeitungen, die automatisch gespeichert werden, werden nach der Aktualisierung der Registerkarte Interaktionszuordnung angezeigt.
 
 ## FAQs {#faq}
 
 **Muss ich alle meine Kampagnen in der Interaktionskarte neu erstellen?**
 
-Anz. Interaktionszuordnung ist vollständig abwärtskompatibel. Mit einem Klick auf eine Schaltfläche können Sie jede Ihrer vorhandenen Kampagnen auf der visuellen Interaktionszuordnungsoberfläche anzeigen.
+Nein. Interaktionszuordnung ist vollständig abwärtskompatibel. Mit einem Klick auf eine Schaltfläche können Sie jede Ihrer vorhandenen Kampagnen in der visuellen Interaktionskarte anzeigen.
 
-**Bedeutet die Verwendung von Interaktionskarten auf Marketo Engage, dass ich den Zugriff auf die Ordnerstruktur verliert und neu lernen muss, wie eine Smart-Kampagne erstellt wird?**
+**Bedeutet Engagement Map auf Marketo Engage, dass ich den Zugriff auf die Ordnerstruktur verliere und erneut lernen muss, wie man eine Smart Campaign erstellt?**
 
-Anz. Das Tolle an Interaktionskarten ist, dass sie Ihnen das Beste aus beiden Welten bieten. Sie ergänzen die aktuelle Art und Weise, wie Sie Kampagnen erstellen. Alle Benutzer erhalten weiterhin ein leistungsstarkes Marketo Engage-Feature Set, das jetzt durch klare Visualisierungen ergänzt wird.
+Nein. Das Tolle an Engagement Map ist, dass sie das Beste aus beiden Welten bietet. Sie ergänzt die derzeitige Art und Weise, wie Kampagnen erstellt werden. Alle Anwender erhalten weiterhin leistungsstarke Marketo Engage-Funktionen, die nun durch klare Visualisierungen ergänzt werden.
 
-**Ist Interaktionszuordnung ein kostenpflichtiges Add-on?**
+**Ist Engagement Map ein kostenpflichtiges Add-on?**
 
-Anz. Alle bestehenden und neuen Marketo Engage-Benutzer unter allen Abonnements haben Zugriff auf diese ergänzende Funktion.
+Nein. Alle bestehenden und neuen Marketo Engage-Nutzer unter allen Abonnements haben Zugang zu dieser kostenlosen Funktion.
 
-**Bin ich als Marketo Engage-Administrator dafür verantwortlich, die Interaktionszuordnung ein-/auszuschalten?**
+**Bin ich als Marketo Engage-Administrator dafür verantwortlich, die Interaktionskarte zu aktivieren/deaktivieren?**
 
-Anz. Interaktionszuordnung steht allen Benutzern in ihren Instanzen zur Verfügung. Für bestimmte Benutzer, Arbeitsbereiche usw. können Sie sie nicht aktivieren/deaktivieren.
+Nein. Interaktionszuordnung steht allen Benutzern in ihren Instanzen zur Verfügung. Sie können sie für bestimmte Benutzer, Arbeitsbereiche usw. nicht aktivieren/deaktivieren.
 
-**Inwiefern unterscheidet sich dies von anderen visuellen Buildern?**
+**Wie unterscheidet sich dies von anderen visuellen Buildern?**
 
-Es gibt drei wichtige Dinge, die Interaktionskarten auseinander setzen:
+Die Interaktionskarte zeichnet sich durch drei Schlüsselelemente aus:
 
-* Flexibilität: Einfache Verwaltung und Validierung von miteinander verbundenen oder tief verschachtelten Kampagnen mit Visualisierung.
+* Flexibilität: Einfaches Verwalten und Validieren von verbundenen oder tief verschachtelten Kampagnen mit Visualisierung.
 
-* Funktionalität: Alle Visualisierungen sind vorkonfiguriert, was die Bedienung erleichtert. Die verschachtelte Struktur ermöglicht es Ihnen, einzutauchen und das ganze Bild zu erhalten.
+* Funktionalität: Alle Visualisierungen sind vorkonfiguriert, was die Verwendung erleichtert. Die verschachtelte Struktur ermöglicht es Ihnen, einzutauchen und das gesamte Bild zu erhalten.
 
-* Macht: Sie behalten die gesamte bestehende Komplexität von Marketo Engage, jetzt in einem visuellen Format.
+* Leistung: Sie behalten die gesamte Raffinesse des Marketo Engage, jetzt in einem visuellen Format.
 
 >[!MORELIKETHIS]
 >
->* [Registerkarte &quot;Interaktionszuordnung&quot;](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"}
->* [Registerkarte &quot;Einstellungen&quot;](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}
+>* [Registerkarte Interaktionszuordnung](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"}
+>* [Registerkarte „Einstellungen](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}

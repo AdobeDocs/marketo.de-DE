@@ -1,7 +1,7 @@
 ---
 unique-page-id: 1147245
-description: Benutzerdefinierte Einstiegstypen erstellen - Marketo-Dokumente - Produktdokumentation
-title: Benutzerdefinierte Einstiegstypen erstellen
+description: Erstellen benutzerdefinierter Eintragstypen - Marketo-Dokumente - Produktdokumentation
+title: Erstellen benutzerdefinierter Eintragstypen
 exl-id: 75a0fb0d-a0d4-472d-9ac1-53e2f2831221
 feature: Programs
 source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
@@ -11,19 +11,19 @@ ht-degree: 2%
 
 ---
 
-# Benutzerdefinierte Einstiegstypen erstellen {#create-custom-entry-types}
+# Erstellen benutzerdefinierter Eintragstypen {#create-custom-entry-types}
 
-Sie können benutzerdefinierte Eintrittstypen erstellen, die in Ihrer Programmplanungsansicht verwendet werden. Auf diese Weise können Sie alle Ihre Punkte der Agenda verfolgen, die sich nicht auf das Marketo-Programm auswirken.
+Sie können benutzerdefinierte Eintragstypen erstellen, um sie in Ihrer Programmplanansicht zu verwenden. Auf diese Weise können Sie alle Tagesordnungspunkte verfolgen, die nicht von Marketo stammen und sich auf Ihr Programm auswirken.
 
-1. Wechseln Sie zum Abschnitt **[!UICONTROL Admin]** und klicken Sie auf **[!UICONTROL Tags]**.
+1. Gehen Sie zum Abschnitt **[!UICONTROL Admin]** und klicken Sie auf **[!UICONTROL Tags]**.
 
    ![](assets/admintags.png)
 
-1. Klicken Sie auf **[!UICONTROL Kalendereintrittstyp]**.
+1. Klicken Sie **[!UICONTROL Kalendereintragstyp]**.
 
    ![](assets/image2014-9-15-15-3a41-3a33.png)
 
-1. Klicken Sie auf die Dropdownliste **[!UICONTROL Neu]** und wählen Sie **[!UICONTROL Einstiegstyp]** aus.
+1. Klicken Sie auf **[!UICONTROL Neu]** und wählen Sie **[!UICONTROL Eintragstyp]**.
 
    ![](assets/image2014-9-15-15-3a41-3a58.png)
 
@@ -31,7 +31,7 @@ Sie können benutzerdefinierte Eintrittstypen erstellen, die in Ihrer Programmpl
 
    ![](assets/image2014-9-15-16-3a11-3a24.png)
 
-1. Wählen Sie eine **[!UICONTROL Einstiegsfarbe]** aus.
+1. Wählen Sie eine **[!UICONTROL Eintragsfarbe]** aus.
 
    ![](assets/image2014-9-15-16-3a3-3a55.png)
 

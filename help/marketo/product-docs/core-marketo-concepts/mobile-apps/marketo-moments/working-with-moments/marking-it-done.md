@@ -1,23 +1,23 @@
 ---
 unique-page-id: 8783557
-description: Markieren abgeschlossen - Marketo Docs - Produktdokumentation
-title: Markieren abgeschlossen
+description: Als erledigt markieren - Marketo-Dokumente - Produktdokumentation
+title: Als erledigt markieren
 exl-id: 0abac320-da3b-4ab8-a1ce-28e5e17f4d15
 feature: Mobile Marketing
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
 source-wordcount: '135'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Markieren abgeschlossen {#marking-it-done}
+# Als erledigt markieren {#marking-it-done}
 
-Markieren Sie eine E-Mail-Programm-, Ereignis- oder Analysekarte als [!UICONTROL Fertig] , um sie aus Ihrem Stream zu entfernen. Es gibt zwei Möglichkeiten, das zu tun.
+Markieren Sie ein E-Mail-Programm, ein Ereignis oder eine Analytics-Karte als [!UICONTROL Fertig], um sie aus Ihrem Stream zu entfernen. Es gibt zwei Möglichkeiten, das zu tun.
 
 >[!IMPORTANT]
 >
->Am 2. Oktober 2023 hat Adobe die Marketo Moments-App aus allen App Stores entfernt. Wenn Sie die App bereits auf Ihrem Tablet/Mobilgerät installiert haben, können Sie sie vorerst weiter verwenden. Sobald Ihre Marketo Engage-Instanz zur Authentifizierung von Marketo zu Adobe Identity migriert wurde, können Sie nicht mehr auf die App zugreifen. [Weitere Infos](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+>Am 2. Oktober 2023 entfernte Adobe die Marketo Moments-App aus allen App Stores. Wenn Sie die App bereits auf Ihrem Tablet/Mobilgerät installiert haben, können Sie sie vorerst weiter verwenden. Nachdem Ihre Marketo Engage-Instanz zur Authentifizierung von Marketo auf Adobe Identity migriert wurde, können Sie nicht mehr auf die App zugreifen. [Weitere Informationen](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 1. Tippen Sie auf das Aktionsmenü.
 
@@ -33,4 +33,4 @@ Markieren Sie eine E-Mail-Programm-, Ereignis- oder Analysekarte als [!UICONTROL
 
    >[!NOTE]
    >
-   >Durch das Markieren einer Karte als Fertig wird die E-Mail, das Ereignis oder die Smart-Kampagne nicht gelöscht. Er verschiebt ihn nur vom Stream &quot;Momente/Später&quot;in den Stream &quot;Fertig&quot;.
+   >Wenn Sie eine Karte als „Fertig“ markieren, wird die E-Mail, das Ereignis oder die Smart-Kampagne nicht gelöscht. Er verschiebt sie nur aus dem Stream „Moments/Later“ in den Stream „Done“.

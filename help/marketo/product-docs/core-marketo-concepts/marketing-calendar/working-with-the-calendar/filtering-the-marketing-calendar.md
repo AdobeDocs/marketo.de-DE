@@ -1,7 +1,7 @@
 ---
 unique-page-id: 1147294
 description: Filtern des Marketing-Kalenders - Marketo-Dokumente - Produktdokumentation
-title: Filtern des Marketing-Kalenders
+title: Marketing-Kalender filtern
 exl-id: 94cbe35b-2b87-4c8f-86c6-11a0d12b2a12
 feature: Marketing Calendar
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
@@ -11,19 +11,19 @@ ht-degree: 0%
 
 ---
 
-# Filtern des Marketing-Kalenders {#filtering-the-marketing-calendar}
+# Marketing-Kalender filtern {#filtering-the-marketing-calendar}
 
-Verwenden Sie Eingabetypen, Programm-Tags oder Arbeitsbereiche, um die im Kalender angezeigten Informationen zu filtern.
+Verwenden Sie Eintragstypen, Programm-Tags oder Arbeitsbereiche, um die im Kalender angezeigten Informationen zu filtern.
 
-1. Klicken Sie auf die Kachel **[!UICONTROL Kalender]**.
+1. Klicken Sie auf **[!UICONTROL Kachel]** Kalender“.
 
 ![](assets/2017-05-10-15-30-47.png)
 
-1. Klicken Sie auf die Dropdown-Liste **[!UICONTROL Einstiegstyp]** .
+1. Klicken Sie auf **[!UICONTROL Dropdown-]** „Eintragstyp“.
 
    >[!NOTE]
    >
-   >Die Standardeingabetypen sind **[!UICONTROL E-Mail]** **[!UICONTROL Programme]** und **[!UICONTROL Smart-Kampagnen mit E-Mail]**.
+   >Die Standardeintragstypen sind **[!UICONTROL E-Mail]** **[!UICONTROL Programme]** und **[!UICONTROL Smart-Kampagnen mit E-Mail]**.
 
    ![](assets/image2014-9-24-10-3a46-3a54.png)
 
@@ -33,9 +33,9 @@ Verwenden Sie Eingabetypen, Programm-Tags oder Arbeitsbereiche, um die im Kalend
 
    >[!TIP]
    >
-   >Beschreibungen der standardmäßigen Eintragstypen finden Sie unter [Programmplanungsansicht für Eintrittstypen](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md){target="_blank"}.
+   >Beschreibungen der standardmäßigen Eintragstypen finden Sie unter [Programmplanungsansicht - Eintragstypen](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md){target="_blank"}.
 
-1. Wählen Sie die für Sie interessanten Programm-Tags aus.
+1. Wählen Sie die Programm-Tags aus, die Sie interessieren.
 
    ![](assets/image2014-9-24-10-3a47-3a5.png)
 
@@ -43,7 +43,7 @@ Verwenden Sie Eingabetypen, Programm-Tags oder Arbeitsbereiche, um die im Kalend
 
    ![](assets/image2014-9-24-10-3a47-3a9.png)
 
-   Fantastisch! Es werden jetzt nur Einträge angezeigt, die für den soeben definierten Filter gelten.
+   Fantastisch! Es werden jetzt nur noch Einträge angezeigt, die für den soeben definierten Filter gelten.
 
    >[!NOTE]
    >

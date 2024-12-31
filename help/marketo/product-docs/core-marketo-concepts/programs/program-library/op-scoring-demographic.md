@@ -1,6 +1,6 @@
 ---
-description: OP-Scoring-Demographic - Marketo-Dokumente - Produktdokumentation
-title: OP-Scoring-Demographie
+description: OP-Scoring-Demografisch - Marketo-Dokumente - Produktdokumentation
+title: OP-Scoring-Demografie
 feature: Programs
 exl-id: ed11616e-b587-4d03-b293-9cc9fa3c1699
 source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
@@ -10,11 +10,11 @@ ht-degree: 34%
 
 ---
 
-# OP-Scoring-Demographie {#op-scoring-demographic}
+# OP-Scoring-Demografie {#op-scoring-demographic}
 
-Dies ist ein Beispiel für ein erweitertes (tokenisiertes) operationelles Programm, das ein Marketo Engage-Standardprogramm für demografische Auswertungen verwendet. Zeigen Sie die Scoring-Werte auf der Registerkarte &quot;My Tokens&quot;des Programms an und bearbeiten Sie sie. Erfordert ein benutzerdefiniertes Punktfeld namens &quot;Demografische Punktzahl&quot;.
+Dies ist ein Beispiel für ein erweitertes (Token-basiertes) operationelles Programm, das ein Marketo Engage-Standardprogramm für die demografische Bewertung verwendet. Zeigen Sie die Scoring-Werte auf der Registerkarte „Meine Token“ des Programms an und bearbeiten Sie sie. Erfordert ein benutzerdefiniertes Bewertungsfeld namens „Demografische Bewertung“.
 
-Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Programms an das Adobe-Account-Team oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} .
+Wenden Sie sich für weitere Strategieunterstützung oder Hilfe bei der Anpassung eines Programms an das Adobe-Account-Team oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Kanal-Zusammenfassung {#channel-summary}
 
@@ -22,7 +22,7 @@ Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Prog
  <tbody> 
   <tr> 
    <th>Kanal</th> 
-   <th>Status der Mitgliedschaft</th>
+   <th>Mitgliedschaftsstatus</th>
    <th>Analytics Behavior</th>
    <th>Programmtyp</th>
   </tr> 
@@ -45,14 +45,14 @@ Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Prog
    <th>API-Name</th>
   </tr>
   <tr> 
-   <td>Bewertung</td> 
+   <td>Ergebnis</td> 
    <td>Demografische Bewertung</td>
-   <td>DemographicScore</td>
+   <td>Demografische Bewertung</td>
   </tr>
  </tbody> 
 </table>
 
-## Das Programm enthält die folgende Assets {#program-contains-the-following-assets}
+## Programm enthält die folgenden Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -64,7 +64,7 @@ Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Prog
   <tr> 
    <td>Intelligente Kampagne</td> 
    <td> </td>
-   <td>Allgemeine E-Mail-Domäne</td>
+   <td>Allgemeine E-Mail-Domain</td>
   </tr>
   <tr> 
    <td>Intelligente Kampagne</td> 
@@ -114,7 +114,7 @@ Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Prog
   <tr> 
    <td>Ordner</td> 
    <td> </td>
-   <td>Allgemeine E-Mail-Domäne</td>
+   <td>Allgemeine E-Mail-Domain</td>
   </tr>
   <tr> 
    <td>Ordner</td> 
@@ -131,7 +131,7 @@ Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Prog
 
 ![](assets/op-scoring-demographic-1.png)
 
-## My Tokens Include {#my-tokens-included}
+## Meine Token enthalten {#my-tokens-included}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -141,118 +141,118 @@ Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Prog
    <th>Wert</th>
   </tr>
   <tr> 
-   <td>Bewertung</td> 
+   <td>Ergebnis</td> 
    <td><code>{{my.Annual Revenue - High}}</code></td>
    <td>+15</td>
   </tr>
   <tr> 
-   <td>Bewertung</td> 
+   <td>Ergebnis</td> 
    <td><code>{{my.Annual Revenue - Low}}</code></td>
    <td>+5</td>
   </tr>
   <tr> 
-   <td>Bewertung</td> 
+   <td>Ergebnis</td> 
    <td><code>{{my.Annual Revenue - Mid}}</code></td>
    <td>+10</td>
   </tr>
    <tr> 
-   <td>Bewertung</td> 
+   <td>Ergebnis</td> 
    <td><code>{{my.Generic Email Domain}}</code></td>
    <td>-2</td>
   </tr>
   <tr> 
-   <td>Bewertung</td> 
+   <td>Ergebnis</td> 
    <td><code>{{my.Industry - High}}</code></td>
    <td>+10</td>
   </tr>
   <tr> 
-   <td>Bewertung</td> 
+   <td>Ergebnis</td> 
    <td><code>{{my.Industry - Low}}</code></td>
    <td>+6</td>
   </tr>
    <tr> 
-   <td>Bewertung</td> 
+   <td>Ergebnis</td> 
    <td><code>{{my.Industry - Mid}}</code></td>
    <td>+8</td>
   </tr>
   <tr> 
-   <td>Bewertung</td> 
+   <td>Ergebnis</td> 
    <td><code>{{my.Invalid First Name}}</code></td>
    <td>-5</td>
   </tr>
    <tr> 
-   <td>Bewertung</td> 
+   <td>Ergebnis</td> 
    <td><code>{{my.Invalid First Name Updated}}</code></td>
    <td>+5</td>
   </tr>
   <tr> 
-   <td>Bewertung</td> 
+   <td>Ergebnis</td> 
    <td><code>{{my.Invalid Last Name}}</code></td>
    <td>-5</td>
   </tr>
   <tr> 
-   <td>Bewertung</td> 
+   <td>Ergebnis</td> 
    <td><code>{{my.Invalid Last Name Updated}}</code></td>
    <td>+5</td>
   </tr>
   <tr> 
-   <td>Bewertung</td> 
+   <td>Ergebnis</td> 
    <td><code>{{my.Job Title - High}}</code></td>
    <td>+15</td>
   </tr>
    <tr> 
-   <td>Bewertung</td> 
+   <td>Ergebnis</td> 
    <td><code>{{my.Job Title - Low}}</code></td>
    <td>+5</td>
   </tr>
   <tr> 
-   <td>Bewertung</td> 
+   <td>Ergebnis</td> 
    <td><code>{{my.Job Title - Mid}}</code></td>
    <td>+10</td>
   </tr>
   <tr> 
-   <td>Bewertung</td> 
+   <td>Ergebnis</td> 
    <td><code>{{my.Lead Source - High}}</code></td>
    <td>+20</td>
   </tr>
   <tr> 
-   <td>Bewertung</td> 
+   <td>Ergebnis</td> 
    <td><code>{{my.Lead Source - Low}}</code></td>
    <td>+8</td>
   </tr>
   <tr> 
-   <td>Bewertung</td> 
+   <td>Ergebnis</td> 
    <td><code>{{my.Lead Source - Mid}}</code></td>
    <td>+10</td>
   </tr>
   <tr> 
-   <td>Bewertung</td> 
+   <td>Ergebnis</td> 
    <td><code>{{my.Number of Employees}}</code></td>
    <td>+5</td>
   </tr>
  </tbody> 
 </table>
 
-## Konfliktregeln {#conflict-rules}
+## Kollisionsregeln {#conflict-rules}
 
 * **Programm-Tags**
-   * Erstellen von Tags in diesem Abonnement - _Empfohlen_
+   * Tags in diesem Abonnement erstellen - _Empfohlen_
    * Ignorieren
 
-* **Vorlage für Einstiegsseiten mit demselben Namen**
+* **Landingpage-Vorlage mit demselben Namen**
    * Originalvorlage kopieren - _Empfohlen_
    * Zielvorlage verwenden
 
 * **Bilder mit demselben Namen**
-   * Beides beibehalten - _Empfohlen_
+   * Beide Dateien beibehalten - _Empfohlen_
    * Element in diesem Abonnement ersetzen
 
 * **E-Mail-Vorlagen mit demselben Namen**
-   * Beides beibehalten - _Empfohlen_
+   * Beide Vorlagen beibehalten - _Empfohlen_
    * Vorhandene Vorlage ersetzen
 
 ## Bewährte Methoden {#best-practices}
 
-* Jede erstellte Kampagne soll ein Beispiel für den Best Practice-Build sein und nicht speziell für Ihre Anwendungsfälle. Denken Sie daran, die Smart-Kampagnen zu aktualisieren, um Ihre spezifischen Schmerzpunkte und Datenherausforderungen zu beheben.
+* Jede erstellte Kampagne ist als Beispiel für den Build von Best Practices gedacht und nicht spezifisch für Ihre Anwendungsfälle. Denken Sie daran, die Smart Campaign zu aktualisieren, um Ihre spezifischen Probleme und Herausforderungen bezüglich der Daten zu bewältigen.
 
-* Erwägen Sie, die Benennungsregel dieses Programmbeispiels zu aktualisieren, um sie an Ihre Benennungsregel anzupassen.
+* Erwägen Sie, die Namenskonvention dieses Programmbeispiels zu aktualisieren, um sie an Ihre Namenskonvention anzupassen.

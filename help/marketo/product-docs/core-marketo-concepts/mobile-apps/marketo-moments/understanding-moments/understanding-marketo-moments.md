@@ -1,7 +1,7 @@
 ---
 unique-page-id: 8781845
-description: Verstehen von Marketo-Momenten - Marketo-Dokumente - Produktdokumentation
-title: Grundlagen zu Marketo-Momenten
+description: Grundlegendes zu Marketo-Momenten - Marketo-Dokumente - Produktdokumentation
+title: Grundlegendes zu Marketo Moments
 exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
 feature: Mobile Marketing
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
@@ -11,21 +11,21 @@ ht-degree: 3%
 
 ---
 
-# Grundlagen zu Marketo-Momenten {#understanding-marketo-moments}
+# Grundlegendes zu Marketo Moments {#understanding-marketo-moments}
 
-Sie haben jetzt die leistungsstarken Funktionen von Marketo in der Hand – in jeder Hinsicht! Sie können eine Vorschau von E-Mails direkt von Ihrem Telefon oder iPad aus ansehen und sie neu planen.
+Sie haben jetzt die leistungsstarken Funktionen von Marketo in der Hand – in jeder Hinsicht! Vorschau und Neuplanung von E-Mails direkt von Ihrem Smartphone oder iPad aus.
 
 >[!IMPORTANT]
 >
->Am 2. Oktober 2023 hat Adobe die Marketo Moments-App aus allen App Stores entfernt. Wenn Sie die App bereits auf Ihrem Tablet/Mobilgerät installiert haben, können Sie sie vorerst weiter verwenden. Sobald Ihre Marketo Engage-Instanz zur Authentifizierung von Marketo zu Adobe Identity migriert wurde, können Sie nicht mehr auf die App zugreifen. [Weitere Infos](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+>Am 2. Oktober 2023 entfernte Adobe die Marketo Moments-App aus allen App Stores. Wenn Sie die App bereits auf Ihrem Tablet/Mobilgerät installiert haben, können Sie sie vorerst weiter verwenden. Nachdem Ihre Marketo Engage-Instanz zur Authentifizierung von Marketo auf Adobe Identity migriert wurde, können Sie nicht mehr auf die App zugreifen. [Weitere Informationen](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 >[!NOTE]
 >
->Die Berechtigung _Zugriff auf Mobile Apps_ ist erforderlich. Wenden Sie sich an Ihren Marketo-Administrator, um [Ihre Rolle zu aktualisieren](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+>_Zugriff auf mobile_&quot; ist erforderlich. Wenden Sie sich an Ihren Marketo-Administrator[ um Ihre Rolle zu ](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
 ## Streams {#streams}
 
-Hier sind die verschiedenen Ströme in Moments.
+Hier sind die verschiedenen Ströme in Momenten.
 
 ![](assets/image2015-7-15-15-3a6-3a10.png)
 
@@ -33,32 +33,32 @@ Hier sind die verschiedenen Ströme in Moments.
 >
 >**Definition**
 >
->* [!UICONTROL Moments]: Alles, was gerade ausgeführt wurde oder gerade ausgeführt wird, geht hierher.
->* [!UICONTROL Favoriten]: Alles, was Sie als Favoriten bezeichnen, geht hier rein.
+>* [!UICONTROL Moments]: Alles, was gerade lief oder gleich laufen wird, geht hier los.
+>* [!UICONTROL Favoriten]: Alles, was man als Favorit markiert, geht hier rein.
 >* [!UICONTROL Später]: Alles, was später als dieser Moment stattfindet, geht hier rein.
->* [!UICONTROL Fertig]: Alles, was ausgeführt wurde oder als fertig markiert wurde, geht hierher.
+>* [!UICONTROL Fertig]: Alles, was ausgeführt oder als erledigt markiert wurde, ist hier aufgeführt.
 
-Ok, jetzt, da wir das im Weg stehen, lassen Sie uns einen Blick auf Marketo Moments werfen!
+Okay, jetzt, da wir das aus dem Weg geräumt haben, werfen wir einen kurzen Blick auf Marketo Moments auf ein Handy!
 
 ## Drei Arten von Karten {#three-kinds-of-cards}
 
-Marketo Moments bietet Ihnen drei verschiedene Karten, die dem Fortschritt Ihrer E-Mail folgen:
+Marketo Moments bietet Ihnen drei verschiedene Karten, um den Fortschritt Ihrer E-Mail zu verfolgen:
 
-**[!UICONTROL On-Deck]** - Diese E-Mail wird gerade gesendet. Es ist Ihre letzte Chance, eine Vorschau anzuzeigen, ein Muster zu senden oder es sogar abzubrechen, wenn Sie müssen.
+**[!UICONTROL On-Deck]** - Diese E-Mail ist im Begriff, zu verschicken. Es ist Ihre letzte Chance, eine Vorschau anzuzeigen, eine Probe zu senden oder sie sogar abzubrechen, wenn Sie es müssen.
 
 ![](assets/image2015-7-17-11-3a25-3a48.png)
 
-**[!UICONTROL Herzschlag]** - Hey - Diese E-Mail wird jetzt zugestellt! Und hier sind auch Statistiken. Machen Sie weiter und teilen Sie es.
+**[!UICONTROL Heart-beat]** - Hey - Diese E-Mail wird jetzt zugestellt! Und hier sind auch Statistiken. Teilen Sie es einfach.
 
 ![](assets/image2015-7-17-11-3a27-3a22.png)
 
-**[!UICONTROL Ergebnisse]** - So hat die E-Mail funktioniert. Nach Abschluss der E-Mail-Ausführung zeigt die Karte Ergebnisse den Interaktionswert und andere Statistiken an.
+**[!UICONTROL Ergebnisse]** - So war die E-Mail. Nachdem die E-Mail ausgeführt wurde, zeigt die Karte Ergebnisse den Interaktionswert und andere Statistiken an.
 
 ![](assets/image2015-7-17-11-3a43-3a28.png)
 
 ## Moments Stream {#moments-stream}
 
-Wenn Sie die App zum ersten Mal öffnen oder im Menü auf **[!UICONTROL Momente]** tippen, werden die entsprechenden Karten zuerst angezeigt. Jede enthält Informationen zu dieser spezifischen Marketing-Initiative und ihrer Gesamtleistung.
+Wenn Sie die App zum ersten Mal öffnen oder **[!UICONTROL Momente]** im Menü tippen, werden zuerst die entsprechenden Karten angezeigt. Jede dieser Initiativen enthält Informationen über diese spezifische Marketing-Initiative und ihre Gesamtleistung.
 
 ![](assets/image2015-7-15-10-3a46-3a19.png)
 
@@ -66,15 +66,15 @@ Durch Tippen auf die Karte wird ein Detailbildschirm geöffnet.
 
 >[!NOTE]
 >
->Orangefarbene Karten werden bestätigt; graue Karten sind vorläufig.
+>Orange Karten werden bestätigt, graue Karten sind provisorisch.
 
 ![](assets/image2015-9-25-9-3a37-3a26.png)
 
-Durch Tippen auf die drei Punkte wird ein Aktionsmenü für Karten geöffnet.
+Durch Tippen auf die drei Punkte wird ein Kartenaktionsmenü geöffnet.
 
 ![](assets/image2015-7-15-10-3a47-3a34.png)
 
-Sehr gut! Sie können etwas geschehen lassen, indem Sie auf Folgendes tippen:
+Sehr gut! Jetzt können Sie etwas bewirken, indem Sie tippen:
 
 ![](assets/image2015-7-15-10-3a49-3a20.png)
 
@@ -82,17 +82,17 @@ Sehr gut! Sie können etwas geschehen lassen, indem Sie auf Folgendes tippen:
 >
 >**Definition**
 >
->* [!UICONTROL Favorit]: Es ist einfach, auf die Dinge zu achten, die am aktuellsten und am wichtigsten sind, wenn Sie sie zu Favoriten machen.
->* [!UICONTROL Fertig]: Fertig löst sie die Ansicht &quot;Marketo Moments&quot;aus (lässt sie jedoch in Marketo, sicher und Ton stehen).
+>* [!UICONTROL Favorit]: Es ist einfach, auf die Dinge zu achten, die am aktuellsten und wichtigsten sind, wenn man sie zu Favoriten macht.
+>* [!UICONTROL Fertig]: Fertig holt es von Ihrer Marketo Moments-Ansicht (lässt es aber in Marketo, sicher und solide).
 >* [!UICONTROL Freigeben]: Senden Sie ein Bild, um Ihr Team zu motivieren oder zu beglückwünschen.
->* [!UICONTROL Beispiel senden] (nur E-Mail): Verwenden Sie diese Option, damit andere überprüfen können, wie Ihre E-Mails aussehen, bevor Sie sie senden.
->* [!UICONTROL E-Mail-Vorschau anzeigen] (nur E-Mails): Es ist immer empfehlenswert, Ihre E-Mails im Voraus auszuchecken.
+>* [!UICONTROL Beispiel senden] (nur E-Mail): Verwenden Sie diese Option, damit andere überprüfen können, wie Ihre E-Mails aussehen, bevor Sie sie versenden.
+>* [!UICONTROL Vorschau der E]Mail (nur E-Mails): Es empfiehlt sich immer, die E-Mails im Voraus zu überprüfen.
 
 ## Spätere Momente {#later-moments}
 
-Im Abschnitt Später werden die bevorstehenden Aktivitäten angezeigt.
+Im Abschnitt Letzter werden bevorstehende Aktivitäten angezeigt.
 
-1. Tippen Sie zunächst auf das Hamburger-Menü.
+1. Tippen Sie zunächst auf das Menü „Hamburger“.
 
    ![](assets/image2015-7-15-10-3a52-3a5.png)
 
@@ -100,13 +100,13 @@ Im Abschnitt Später werden die bevorstehenden Aktivitäten angezeigt.
 
    ![](assets/image2015-7-15-10-3a54-3a47.png)
 
-   Sehen Sie sich eine Liste der bevorstehenden Aktivitäten an.
+   Siehe eine Liste der bevorstehenden Aktivitäten.
 
    ![](assets/image2015-6-29-15-3a24-3a3.png)
 
 ## E-Mail-Programmkarten {#email-program-cards}
 
-E-Mail-Programmkarten zeigen wichtige Dinge wie Zeitplan, Zielgruppe, Status und andere nützliche Dinge, selbst wenn Sie nicht zu Mittag essen.
+E-Mail-Programmkarten zeigen wichtige Dinge wie Zeitplan, Zielgruppe, Status und andere nützliche Dinge, auch wenn Sie mittags draußen sind.
 
 ![](assets/image2015-6-29-15-3a31-3a57.png)
 
@@ -118,7 +118,7 @@ Bei Ereignissen sehen Sie die Gesamtzahl der Mitglieder und ihren Status.
 
 ## Analytics-Karten {#analytics-cards}
 
-Die Analytics-Ereigniskarten zeigen Ihnen, wie Ihre E-Mails und Ereignisse in den letzten sechs Monaten monatlich abschneiden, zum Beispiel:
+Auf Analytics-Momentkarten wird angezeigt, wie Ihre E-Mails und Ereignisse in den letzten sechs Monaten monatlich abgeschnitten haben, zum Beispiel:
 
 1. Erworbene Leads
 1. New Leads
@@ -126,21 +126,21 @@ Die Analytics-Ereigniskarten zeigen Ihnen, wie Ihre E-Mails und Ereignisse in de
 
 ![](assets/image2015-7-6-13-3a26-3a33.png)
 
-## Ausführungskarten für intelligente Kampagnen {#smart-campaign-run-cards}
+## Smart Campaign - ausgeführte Karten {#smart-campaign-run-cards}
 
-Smart-Kampagnenkarten stellen einen einzelnen Ablauf einer Kampagne dar. Bei jeder Ausführung der Smart-Kampagne wird eine neue Karte angezeigt. Tippen Sie auf , um die verwendeten Filter für die intelligente Liste, den Kampagnenfluss und jede in der Kampagne verwendete E-Mail anzuzeigen.
+Smart-Campaign-Karten stellen eine einzelne Ausführung einer Kampagne dar. Bei jeder Ausführung der Smart-Kampagne wird eine neue Karte angezeigt. Tippen Sie, um die verwendeten Filter der Smart-Liste, den Kampagnenfluss und die einzelnen in der Kampagne verwendeten E-Mails anzuzeigen.
 
 ![](assets/image2015-9-23-11-3a0-3a54.png)
 
-## Aktion bestätigen oder abbrechen {#confirm-or-cancel-an-action}
+## Bestätigen oder Abbrechen einer Aktion {#confirm-or-cancel-an-action}
 
-In jedem Schritt des Verfahrens können Sie eine Aktion bestätigen oder abbrechen. Wenn Sie Ihre Meinung ändern, tippen Sie einfach auf **[!UICONTROL Nie stören]**.
+Bei jedem Schritt können Sie eine Aktion bestätigen oder abbrechen. Wenn Sie Ihre Meinung ändern, tippen Sie einfach auf **[!UICONTROL Never Mind]**.
 
 ![](assets/image2015-7-14-17-3a11-3a29.png)
 
 ## Unterstützte Versionen {#supported-versions}
 
-Marketo Moments unterstützt diese Betriebssystemversionen:
+Marketo Moments unterstützt die folgenden Betriebssystemversionen:
 
 * [!DNL Apple] iOS 8.0 und höher.
 * [!DNL Android] Version 4.1 und höher (im Grunde Jellybean und höher).
@@ -149,7 +149,7 @@ Sind Sie bereit für mehr?
 
 >[!MORELIKETHIS]
 >
->* [Grundlagen zu E-Mail-Programmkarten](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
->* [Grundlagen zu Ereigniskarten](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
->* [Grundlegendes zu Analytics Cards](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)
->* [Grundlagen zu Smart-Campaign-Karten](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-smart-campaign-cards.md)
+>* [Grundlegendes zu E-Mail-Programmkarten](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
+>* [Grundlegendes zu Ereigniskarten](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
+>* [Analytics-Karten](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)
+>* [Grundlegendes zu Smart Campaign-Karten](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-smart-campaign-cards.md)

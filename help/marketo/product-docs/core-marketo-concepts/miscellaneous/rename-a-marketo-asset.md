@@ -14,7 +14,7 @@ ht-degree: 2%
 
 Ordner, Programme und lokale Assets können einfach umbenannt werden.
 
-1. Wählen Sie ein Asset aus, das Sie umbenennen möchten, und klicken Sie auf den Namensblock des rechten Bedienfelds.
+1. Wählen Sie ein Asset aus, das Sie umbenennen möchten, und klicken Sie auf den Namensblock des Bedienfelds auf der rechten Seite.
 
    ![](assets/image2015-4-10-17-19-48.png)
 
@@ -24,4 +24,4 @@ Ordner, Programme und lokale Assets können einfach umbenannt werden.
 
    >[!NOTE]
    >
-   >Es ist nicht möglich, hochgeladene Dateien und Bilder oder Assets, auf die in einer Smart-Liste oder Smart-Kampagne verwiesen wird (in Filtern, Triggern, Flussschritten usw.), umzubenennen.
+   >Hochgeladene Dateien und Bilder sowie Assets, die derzeit in einer Smart-Liste oder Smart-Kampagne referenziert werden (in Filtern, Triggern, Flussschritten usw.), können nicht umbenannt werden.

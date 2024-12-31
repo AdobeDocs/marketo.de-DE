@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1147084
-description: Aus Fluss entfernen - Marketo Docs - Produktdokumentation
+description: Aus dem Fluss entfernen - Marketo-Dokumente - Produktdokumentation
 title: Aus Flow entfernen
 exl-id: 98b3664a-dd40-4859-a74d-0a9e84113225
 feature: Smart Campaigns
@@ -13,22 +13,22 @@ ht-degree: 4%
 
 # Aus Flow entfernen {#remove-from-flow}
 
-Angenommen, Sie verfügen über einen Fluss mit intelligenter Kampagne, der &quot;Warnhinweis senden&quot;verwendet, um einen Vertriebsmitarbeiter daran zu erinnern, einen potenziellen Kunden aufzurufen. Es wird täglich eine Nachricht gesendet, bis der Rep den -Aufruf durchführt. Sie können &quot;Aus dem Fluss entfernen&quot;in einer Trigger-Kampagne verwenden, sobald der Interessent kontaktiert wurde, um weitere Warnhinweise zu stoppen. Es ist wie ein Smart-Campaign-Projektorsitz für eine Person.
+Angenommen, Sie verfügen über einen intelligenten Kampagnenfluss, der „Warnhinweis senden“ verwendet, um einen Vertriebsmitarbeiter daran zu erinnern, einen potenziellen Kunden anzurufen. Er sendet jeden Tag eine Nachricht, bis der Vertriebsmitarbeiter den Anruf tätigt. Sie können in einer Trigger-Kampagne „Aus Fluss entfernen“ verwenden, sobald der Interessent kontaktiert wurde, um weitere Warnhinweise zu stoppen. Es ist wie ein Klugscheißer-Sitz für eine Person.
 
 ![](assets/remove-from-flow-1.png)
 
 >[!NOTE]
 >
->Dies würde normalerweise Personen betreffen, die im Warteschritt eines Kampagnenflusses sitzen.
+>Dies würde normalerweise Personen betreffen, die sich im Warteschritt eines Kampagnenflusses befinden.
 
-1. Wählen Sie die Smart-Kampagne aus, aus der Benutzer entfernt werden sollen.
+1. Suchen Sie die Smart Campaign, aus der Sie Personen entfernen möchten, und wählen Sie sie aus.
 
    ![](assets/remove-from-flow-2.png)
 
 >[!NOTE]
 >
->Sie können eine bestimmte intelligente Kampagne auswählen oder &quot;diese Kampagne&quot;in der Dropdown-Liste **[!UICONTROL Kampagne]** auswählen, um die Kampagne auszuwählen, in der Sie sich zu diesem Zeitpunkt physisch befinden.
+>Sie können eine bestimmte intelligente Kampagne auswählen oder „Diese Kampagne“ in der **[!UICONTROL Kampagne]** Dropdown-Liste wählen, um die Kampagne auszuwählen, der Sie sich zu dem Zeitpunkt physisch anschließen.
 
 >[!NOTE]
 >
->Diese Funktion ist für die Verwendung in den Workflow-Schritten einer Smart-Kampagne vorgesehen.
+>Diese Funktion ist für die Verwendung in den Flussschritten einer intelligenten Kampagne vorgesehen.

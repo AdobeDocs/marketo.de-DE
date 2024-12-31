@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1146952
-description: Zu Liste hinzufügen - Marketo-Dokumente - Produktdokumentation
+description: Zur Liste hinzufügen - Marketo-Dokumente - Produktdokumentation
 title: Zu Liste hinzufügen
 exl-id: 30673b95-4eed-4aa5-bca2-5ed5350d28a7
 feature: Smart Campaigns
@@ -13,12 +13,12 @@ ht-degree: 16%
 
 # Zu Liste hinzufügen {#add-to-list}
 
-Dieser Flussschritt wird zum Hinzufügen von Personen zu Listen verwendet.
+Mit diesem Flussschritt werden Personen zu Listen hinzugefügt.
 
 ![](assets/add-to-list-1.png)
 
-Suchen und wählen Sie die Liste aus, der Sie Ihre Personen hinzufügen möchten.
+Suchen Sie die Liste, der Sie Ihre Mitarbeiter hinzufügen möchten, und wählen Sie sie aus.
 
 ![](assets/add-to-list-2.png)
 
-Ganz einfach!
+Ziemlich einfach!

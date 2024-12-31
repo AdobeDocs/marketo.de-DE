@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2360337
-description: Erstellen und Verwenden eines verketteten Zeichenfolgenfelds (Formel) - Marketo Docs - Produktdokumentation
-title: Erstellen und Verwenden eines Felds mit verketteten Zeichenfolgen (Formel)
+description: Erstellen und Verwenden eines verketteten Zeichenfolgenfelds (Formel) - Marketo-Dokumente - Produktdokumentation
+title: Erstellen und Verwenden eines verketteten Zeichenfolgenfelds (Formel)
 exl-id: 779fbc56-a913-422a-a778-d86cc3ed7d48
 feature: Field Management
 source-git-commit: 9181a599ae715e9ffcfd84d8316dfa1c094329a6
@@ -11,15 +11,15 @@ ht-degree: 0%
 
 ---
 
-# Erstellen und Verwenden eines Felds mit verketteten Zeichenfolgen (Formel) {#create-and-use-a-concatenated-string-formula-field}
+# Erstellen und Verwenden eines verketteten Zeichenfolgenfelds (Formel) {#create-and-use-a-concatenated-string-formula-field}
 
-Sie können Werte aus mehreren Feldern kombinieren oder mithilfe eines Marketo Engage-Formelfelds einen bedingten Wert erstellen.
+Sie können Werte aus mehreren Feldern kombinieren oder einen bedingten Wert mithilfe eines Marketo Engage-Formelfelds erstellen.
 
-1. Wechseln Sie zum Bereich **[!UICONTROL Admin]** .
+1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-1.png)
 
-1. Klicken Sie auf **[!UICONTROL Feldverwaltung]**.
+1. Klicken Sie **[!UICONTROL Feldverwaltung]**.
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-2.png)
 
@@ -27,7 +27,7 @@ Sie können Werte aus mehreren Feldern kombinieren oder mithilfe eines Marketo E
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-3.png)
 
-1. Wählen Sie **[!UICONTROL Formel]** für den **[!UICONTROL Typ]** aus.
+1. Wählen Sie **[!UICONTROL Formel]** für den **[!UICONTROL Typ]**.
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-4.png)
 
@@ -35,17 +35,17 @@ Sie können Werte aus mehreren Feldern kombinieren oder mithilfe eines Marketo E
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-5.png)
 
-1. Suchen Sie nach Ihrem Formelfeld und wählen Sie es aus und klicken Sie auf **[!UICONTROL Regeln bearbeiten]** .
+1. Suchen Sie Ihr Formelfeld, wählen Sie es aus und klicken Sie auf **[!UICONTROL Regeln bearbeiten]**.
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-6.png)
 
-1. Fügen Sie zwei Auswahlmöglichkeiten hinzu und definieren Sie sie wie im folgenden Screenshot.
+1. Fügen Sie zwei Auswahlmöglichkeiten hinzu und definieren Sie sie wie den folgenden Screenshot.
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-7.png)
 
    >[!TIP]
    >
-   >Erfahren Sie mehr über [Token für Flussschritte](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md).
+   >Weitere Informationen zu [Token für Flussschritte](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md).
 
 1. Jetzt können Sie das Formelfeld als Token in einer E-Mail hinzufügen.
 
@@ -53,6 +53,6 @@ Sie können Werte aus mehreren Feldern kombinieren oder mithilfe eines Marketo E
 
 >[!NOTE]
 >
->Formelfelder können in den Spalten Landingpages, E-Mails und Smart-Listen verwendet werden. E-Mails mit Formelfeldern können mit einer Batch-Kampagne _nicht_ gesendet werden. Verwenden Sie in diesem Szenario ein [E-Mail-Skript-Token](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md).
+>Formelfelder können in Landingpages, E-Mails und Smart-Listen-Spalten verwendet werden. E-Mails mit Formelfeldern können _nicht_ mithilfe einer Batch-Kampagne gesendet werden. Verwenden Sie in [ Szenario ein ](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)E-Mail-Skript-Token“.
 
-Gute Arbeit! Jetzt haben Sie ein intelligentes Feld, das weiß, welche Anrede auf Grundlage des Geschlechts aufgenommen werden soll. Viel Spaß damit und kreativ.
+Gute Arbeit! Jetzt haben Sie ein intelligentes Feld, das weiß, welche Anrede basierend auf dem Geschlecht enthalten sein soll. Viel Spaß damit und kreativ werden.

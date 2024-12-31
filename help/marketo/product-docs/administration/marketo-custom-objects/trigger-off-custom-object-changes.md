@@ -1,7 +1,7 @@
 ---
 unique-page-id: 11378713
-description: Trigger von benutzerdefinierten Objektänderungen - Marketo Docs - Produktdokumentation
-title: Trigger von benutzerdefinierten Objektänderungen
+description: Trigger von benutzerdefinierten Objektänderungen - Marketo-Dokumente - Produktdokumentation
+title: Trigger der benutzerdefinierten Objektänderungen
 exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
 feature: Custom Objects
 source-git-commit: acaf2b421ed65f74bedf18b121ce54e30c19c721
@@ -11,24 +11,24 @@ ht-degree: 0%
 
 ---
 
-# Trigger von benutzerdefinierten Objektänderungen {#trigger-off-custom-object-changes}
+# Trigger der benutzerdefinierten Objektänderungen {#trigger-off-custom-object-changes}
 
 >[!NOTE]
 >
 >Diese Funktion ist nur verfügbar:
 >
->* Nur für die Verwendung mit benutzerdefinierten Marketo-Objekten, nicht jedoch für benutzerdefinierte Objekte, die durch die native [!DNL Salesforce] - oder [!DNL Microsoft Dynamics] -Integration synchronisiert werden
->* Trigger, kein Filter
+>* Zur Verwendung nur mit benutzerdefinierten Marketo-Objekten, nicht mit benutzerdefinierten Objekten, die über die native [!DNL Salesforce]- oder [!DNL Microsoft Dynamics]-Integration synchronisiert werden
+>* Als Trigger, nicht als Filter
 >
->Wenden Sie sich an den [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support) , damit benutzerdefinierte Trigger zur Objektänderung aktiviert sind.
+>Wenden Sie sich an den [Marketo](https://nation.marketo.com/t5/Support/ct-p/Support)Support, um die Trigger für benutzerdefinierte Objektänderungen zu aktivieren.
 
-In der Smart-Liste einer Smart-Kampagne können Sie eine Flow-Aktion Trigger haben, wenn ein benutzerdefiniertes Objekt zu einer Person oder einem Unternehmen hinzugefügt wird. Sie können auch eine Smart-Liste erstellen, die eine _change_ in einem benutzerdefinierten Objekt als Trigger verwendet. Beispielsweise können Sie damit eine E-Mail senden, wenn ein Kursname aktualisiert wird.
+In der Smart-Liste einer Smart-Kampagne können Sie eine Flussaktion mit Trigger versehen, wenn ein benutzerdefiniertes Objekt einer Person oder einem Unternehmen hinzugefügt wird. Sie können auch eine Smart-Liste erstellen, die eine _Änderung_ in einem benutzerdefinierten Objekt als Trigger verwendet. Verwenden Sie sie beispielsweise, um eine E-Mail zu senden, wenn ein Kursname aktualisiert wird.
 
 >[!NOTE]
 >
->Ein Aktivitätsprotokolleintrag wird nicht erstellt, wenn ein benutzerdefinierter Objektdatensatz geändert wird.
+>Wenn ein benutzerdefinierter Objektdatensatz geändert wird, wird kein Aktivitätsprotokolleintrag erstellt.
 
-1. Wechseln Sie unter Marketo Engage zu **[!UICONTROL Marketingaktivitäten]**.
+1. Gehen Sie in Marketo Engage zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/trigger-off-custom-object-changes-1.png)
 
@@ -36,19 +36,19 @@ In der Smart-Liste einer Smart-Kampagne können Sie eine Flow-Aktion Trigger hab
 
    ![](assets/trigger-off-custom-object-changes-2.png)
 
-1. Suchen Sie nach dem benötigten Trigger und ziehen Sie ihn auf die Arbeitsfläche.
+1. Suchen Sie nach dem gewünschten Trigger und ziehen Sie ihn auf die Arbeitsfläche.
 
    ![](assets/trigger-off-custom-object-changes-3.png)
 
-1. Wählen Sie das Attribut [!UICONTROL Trigger] aus.
+1. Wählen Sie das Attribut [!UICONTROL Trigger ].
 
    ![](assets/trigger-off-custom-object-changes-4.png)
 
-1. Optional können Sie eine Einschränkung festlegen.
+1. Legen Sie optional eine Einschränkung fest.
 
    ![](assets/trigger-off-custom-object-changes-5.png)
 
-1. Und da bist du. Die Änderung wird automatisch gespeichert.
+1. Und hier sind sie. Die Änderung wird automatisch gespeichert.
 
    ![](assets/trigger-off-custom-object-changes-6.png)
 

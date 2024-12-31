@@ -7,45 +7,45 @@ feature: Programs
 source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
 workflow-type: tm+mt
 source-wordcount: '134'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 # Hinzufügen von Programmstatusspalten zu einem Programmbericht {#add-program-status-columns-to-a-program-report}
 
-Fügen Sie Ihrem [Programmleistungsbericht](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"} Statistiken zum Programmstatus hinzu.
+Fügen Sie Ihrem [Programmleistungsbericht“ Statistiken zum ](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"} hinzu.
 
-1. Wechseln Sie zu **[!UICONTROL Marketingaktivitäten]** (oder **[!UICONTROL Analytics]**).
+1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]** (oder **[!UICONTROL Analytics]**).
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Wählen Sie Ihren Bericht aus.
+1. Wählen Sie Ihren Bericht.
 
    ![](assets/emailperformance.jpg)
 
-1. Klicken Sie auf die Registerkarte **[!UICONTROL Einrichtung]** und ziehen Sie über das Tag **[!UICONTROL Kanal]**.
+1. Klicken Sie auf **[!UICONTROL Setup]** und ziehen Sie per Drag-and-Drop über das **[!UICONTROL Channel]**-Tag.
 
    ![](assets/image2014-9-23-16-3a26-3a38.png)
 
-1. Wählen Sie einen Kanal aus, nach dem gefiltert werden soll.
+1. Einen Kanal auswählen, nach dem gefiltert werden soll.
 
    ![](assets/image2014-9-23-16-3a26-3a48.png)
 
    >[!TIP]
    >
-   >Um Spalten mit dem Programmstatus anzuzeigen, muss Ihr Bericht nach _nur einem_ -Kanal gefiltert werden.
+   >Um die Spalten für den Programmstatus anzuzeigen, muss der Bericht nach _nur einem)_ gefiltert werden.
 
-1. Aktivieren Sie die Option Spalten mit Programmstatus anzeigen . Klicken Sie auf **[!UICONTROL Anwenden]**.
+1. Aktivieren Sie die Option, um die Spalten für den Programmstatus anzuzeigen. Klicken Sie auf **[!UICONTROL Übernehmen]**.
 
    ![](assets/image2014-9-23-16-3a26-3a53.png)
 
-1. Du hast es getan! Klicken Sie auf die Registerkarte [!UICONTROL Bericht] , um Ihren Bericht mit den Spalten zum Programmstatus anzuzeigen.
+1. Du hast es geschafft! Klicken Sie auf [!UICONTROL Bericht], um Ihren Bericht mit den Spalten des Programmstatus anzuzeigen.
 
    ![](assets/programreport.jpg)
 
 >[!NOTE]
 >
->Wenn nicht für jeden Status im Programm eine Spalte angezeigt wird, vergewissern Sie sich, dass Sie die Spalten mit [ausgewählt haben, um ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md){target="_blank"} im Bericht anzuzeigen.
+>Wenn nicht für jeden Status im Programm eine Spalte angezeigt wird, stellen Sie sicher, dass Sie [ Bericht die anzuzeigenden ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md){target="_blank"} ausgewählt haben.
 
 >[!MORELIKETHIS]
 >

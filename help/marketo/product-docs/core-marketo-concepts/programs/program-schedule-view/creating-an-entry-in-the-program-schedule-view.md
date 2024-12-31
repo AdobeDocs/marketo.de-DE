@@ -13,27 +13,27 @@ ht-degree: 0%
 
 # Erstellen eines Eintrags in der Programmplanansicht {#creating-an-entry-in-the-program-schedule-view}
 
-Sie können in der Programmplanungsansicht Einträge erstellen, um ein bestehendes Programm zu ergänzen.
+Sie können Einträge in der Programmplanungsansicht erstellen, um ein vorhandenes Programm zu ergänzen.
 
-## Erstellen eines einfachen Eintrags {#create-a-basic-entry}
+## Erstellen eines Basiseintrags {#create-a-basic-entry}
 
-1. Wechseln Sie zu **[!UICONTROL Marketingaktivitäten]**.
+1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Wählen Sie Ihr Programm aus. Klicken Sie auf das Dropdown-Menü **[!UICONTROL Ansicht]** . Wählen Sie **[!UICONTROL Plan]** aus.
+1. Wählen Sie Ihr Programm. Klicken Sie auf **[!UICONTROL Dropdown-]** Ansicht“. Wählen Sie **[!UICONTROL Zeitplan]** aus.
 
    ![](assets/image2014-9-16-9-3a22-3a7.png)
 
-1. Klicken Sie auf einen Tag, um den Eintrag hinzuzufügen.
+1. Klicken Sie auf einen Tag, um den Eintrag zu hinzuzufügen.
 
    ![](assets/image2014-9-16-9-3a22-3a33.png)
 
-1. Benennen Sie den Eintrag. Drücken Sie **[!UICONTROL Enter]** , um den Namen zu bestätigen.
+1. Benennen Sie den Eintrag. Drücken Sie **[!UICONTROL Eingabetaste]**, um den Namen zu bestätigen.
 
    ![](assets/image2014-9-16-9-3a22-3a59.png)
 
-1. Wählen Sie das Start- und Enddatum/-uhrzeit für Ihren neuen Eintrag aus.
+1. Wählen Sie das Start- und Enddatum/-uhrzeit Ihres neuen Eintrags aus.
 
    ![](assets/image2014-9-16-9-3a23-3a39.png)
 
@@ -45,21 +45,21 @@ Sie können in der Programmplanungsansicht Einträge erstellen, um ein bestehend
 
    ![](assets/image2014-9-16-9-3a25-3a39.png)
 
-1. Bewegen Sie den Mauszeiger über das Beschreibungssymbol, um die Beschreibung der Einsendung anzuzeigen.
+1. Bewegen Sie den Mauszeiger über das Symbol Beschreibung , um die Beschreibung des Eintrags anzuzeigen.
 
    ![](assets/image2014-9-16-9-3a25-3a51.png)
 
 ## Eintragstyp ändern {#change-entry-type}
 
-1. Wählen Sie einen einfachen Eintrag in der Ansicht **[!UICONTROL Agenda]** aus.
+1. Wählen Sie einen einfachen Eintrag aus der **[!UICONTROL Agenda]**-Ansicht aus.
 
    ![](assets/image2014-9-16-9-3a26-3a5.png)
 
-1. Wählen Sie die Dropdownliste **[!UICONTROL Typ]** aus. Wählen Sie einen neuen Eintragstyp aus.
+1. Wählen Sie die **[!UICONTROL Typ]** aus. Wählen Sie einen neuen Eintragstyp.
 
    >[!NOTE]
    >
-   >Zu erledigen ist ein [benutzerdefinierter Eintrag](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md){target="_blank"}. Sie können eine Aufgabenliste und andere benutzerdefinierte Einträge erstellen, um nicht-Marketo-Tagesordnungspunkte zu verfolgen.
+   >Eine Aufgabe ist ein [benutzerdefinierter Eintrag](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md){target="_blank"}. Sie können eine Aufgabe und andere benutzerdefinierte Einträge erstellen, um nicht in Marketo enthaltene Tagesordnungspunkte im Auge zu behalten.
 
    ![](assets/image2014-9-16-9-3a26-3a36.png)
 
@@ -69,4 +69,4 @@ Sie können in der Programmplanungsansicht Einträge erstellen, um ein bestehend
 
 >[!NOTE]
 >
-> Sie können auch eine [Smart-Kampagne](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-batch-smart-campaign-in-the-program-schedule-view.md){target="_blank"} oder ein [E-Mail-Programm](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-new-email-program-in-the-schedule-view.md){target="_blank"} aus der Planansicht erstellen.
+> Sie können auch eine [Smart-Kampagne](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-batch-smart-campaign-in-the-program-schedule-view.md){target="_blank"} oder ein [E-Mail-Programm](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-new-email-program-in-the-schedule-view.md){target="_blank"} in der Ansicht Zeitplan erstellen.

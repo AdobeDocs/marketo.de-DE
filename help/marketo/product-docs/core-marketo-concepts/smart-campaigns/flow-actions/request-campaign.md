@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2951703
-description: Anforderungskampagne - Marketo-Dokumente - Produktdokumentation
+description: Campaign anfragen - Marketo-Dokumente - Produktdokumentation
 title: Kampagne anfordern
 exl-id: 5deecb56-c25f-4e3b-bd85-f9cac1c7149e
 feature: Smart Campaigns
@@ -13,34 +13,34 @@ ht-degree: 3%
 
 # Kampagne anfordern {#request-campaign}
 
-Mit dem Schritt &quot;[!UICONTROL Kampagne anfordern]&quot; können Sie Personen in einer bestimmten Kampagne platzieren.
+Sie können Personen mithilfe des Schritts „Kampagne anfragen[!UICONTROL  in eine bestimmte Kampagne ].
 
 >[!NOTE]
 >
->Die Kampagne, in der die Person platziert wird, muss aktiv sein und den Trigger [Kampagne ist angefordert](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md){target="_blank"} haben.
+>Die Kampagne, in der Sie die Person platzieren, muss aktiv sein und den Trigger [Kampagne ist angefordert](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md){target="_blank"} aufweisen.
 
-1. Suchen und wählen Sie in der **[!UICONTROL Datenbank]** die gewünschte(n) Person(en) aus.
+1. Suchen Sie in **[!UICONTROL Datenbank]** nach der/den gewünschten Person/Personen und wählen Sie diese aus.
 
    ![](assets/request-campaign-1.png)
 
-1. Klicken Sie auf &quot;**[!UICONTROL Personenaktionen]**&quot;, bewegen Sie den Mauszeiger über &quot;**[!UICONTROL Sonderaktion]**&quot;und wählen Sie &quot;**[!UICONTROL Kampagne anfordern]**&quot;.
+1. Klicken Sie auf **[!UICONTROL Personenaktionen]** bewegen Sie den Mauszeiger über **[!UICONTROL Special]** und wählen Sie **[!UICONTROL Kampagne anfordern]** aus.
 
    ![](assets/request-campaign-2.png)
 
-1. Wählen Sie die Kampagne aus, in der die Person platziert werden soll, und klicken Sie auf **[!UICONTROL Jetzt ausführen]**.
+1. Wählen Sie die Kampagne aus, in die die Person aufgenommen werden soll, und klicken Sie auf **[!UICONTROL Jetzt ausführen]**.
 
    ![](assets/request-campaign-3.png)
 
-1. Oben rechts auf dem Bildschirm sehen Sie, wann es fertig ist. Klicken Sie auf **[!UICONTROL Ergebnisse anzeigen]**.
+1. Oben rechts auf dem Bildschirm sehen Sie, wann es fertig ist. Klicken Sie **[!UICONTROL Ergebnisse anzeigen]**.
 
    ![](assets/request-campaign-4.png)
 
-   Ihre Person befindet sich nun in der gewünschten Kampagne.
+   Ihre Person befindet sich jetzt in der angeforderten Kampagne.
 
    ![](assets/request-campaign-5.png)
 
-   Fantastische Arbeit!
+   Tolle Arbeit!
 
 >[!TIP]
 >
->Verwenden Sie den Trigger &quot;[!UICONTROL Kampagne ist angefordert]&quot; oder filtern Sie nach Personen, die von diesem Flussschritt betroffen sind.
+>Verwenden Sie den Trigger [!UICONTROL Kampagne ist angefordert] oder den Filter, um Personen zu finden, die von diesem Flussschritt betroffen sind.

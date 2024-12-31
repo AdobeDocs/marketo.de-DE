@@ -7,25 +7,25 @@ feature: Programs
 source-git-commit: 271b3f9a6c526e343f04d4d05d4c03f2ae32d146
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 4%
+ht-degree: 5%
 
 ---
 
 # Verwenden von Tags in einem Programm {#use-tags-in-a-program}
 
-Tags sind Attribute, die Ihre Programme beschreiben und zur Gruppierung von Programmtypen in Berichten verwendet werden.
+Tags sind Attribute, die Ihre Programme beschreiben und zum Gruppieren von Programmtypen in Berichten verwendet werden.
 
 >[!NOTE]
 >
->Wenn Sie den Umsatz-Cycle-Explorer verwenden, müssen die Kosten eines Zeitraums definiert werden (auch wenn es 0 ist), damit die Berichterstellung für das Programm verfügbar ist.
+>Wenn Sie den Umsatzzyklus-Explorer verwenden, müssen Periodenkosten definiert werden (selbst wenn sie bei 0 liegen), damit Berichte für das Programm verfügbar sind.
 
 ## Verwenden eines Tags in einem Programm {#use-a-tag-in-a-program}
 
-1. Wählen Sie Ihr Programm aus. Klicken Sie auf **Einrichten**.
+1. Wählen Sie Ihr Programm. Klicken Sie **Setup**.
 
    ![](assets/use-tags-in-a-program-1.png)
 
-1. Ziehen Sie ein Tag per Drag-and-Drop auf die Arbeitsfläche.
+1. Ziehen Sie ein Tag auf die Arbeitsfläche.
 
    ![](assets/use-tags-in-a-program-2.png)
 
@@ -37,17 +37,17 @@ Tags sind Attribute, die Ihre Programme beschreiben und zur Gruppierung von Prog
 
    ![](assets/use-tags-in-a-program-4.png)
 
-1. Gleich. Das neue Tag wird auf der Arbeitsfläche angezeigt.
+1. Gleich. Sie sehen das neue Tag auf der Arbeitsfläche.
 
    ![](assets/use-tags-in-a-program-5.png)
 
 ## Tag bearbeiten {#edit-a-tag}
 
-1. Gehen Sie zur Registerkarte **Setup** . Klicken Sie mit der rechten Maustaste auf das Tag. Wählen Sie **Bearbeiten** aus.
+1. Wechseln Sie zur Registerkarte **Setup**. Klicken Sie mit der rechten Maustaste auf das Tag. Wählen Sie **Bearbeiten** aus.
 
    ![](assets/use-tags-in-a-program-6.png)
 
-1. Klicken Sie auf die Dropdown-Liste. Wählen Sie einen neuen Wert aus.
+1. Klicken Sie auf die Dropdown-Liste. Einen neuen Wert auswählen.
 
    ![](assets/use-tags-in-a-program-7.png)
 
@@ -55,18 +55,18 @@ Tags sind Attribute, die Ihre Programme beschreiben und zur Gruppierung von Prog
 
    ![](assets/use-tags-in-a-program-8.png)
 
-1. Sehr gut! Sie sollten die Änderungen auf der Arbeitsfläche sehen.
+1. Sehr gut! Die Bearbeitungen sollten auf der Arbeitsfläche sichtbar sein.
 
    ![](assets/use-tags-in-a-program-9.png)
 
-## Tag löschen  {#delete-a-tag}
+## Löschen eines Tags  {#delete-a-tag}
 
-1. Gehen Sie zur Registerkarte **Setup** . Klicken Sie mit der rechten Maustaste auf das Tag und wählen Sie **Löschen** aus.
+1. Wechseln Sie zur Registerkarte **Setup**. Klicken Sie mit der rechten Maustaste auf das Tag und wählen Sie **Löschen**.
 
    ![](assets/use-tags-in-a-program-10.png)
 
-1. Klicken Sie zur Bestätigung auf **Löschen** .
+1. Klicken Sie **Löschen** zur Bestätigung.
 
    ![](assets/use-tags-in-a-program-11.png)
 
-Gut gemacht! Programme mit konsistenten Tags vereinfachen die Ausführung Ihrer Berichte erheblich.
+Gut gemacht! Programme mit konsistenten Tags erleichtern das Ausführen von Berichten erheblich.

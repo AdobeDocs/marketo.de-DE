@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147042
 description: Daten an ein Feld anhängen - Marketo-Dokumente - Produktdokumentation
-title: Daten an ein Feld anhängen
+title: Anfügen von Daten an ein Feld
 exl-id: 62d68efd-b2df-48bd-925e-f9a95907f33c
 feature: Smart Campaigns
 source-git-commit: 7dd2e21969b71a50bfd4643ab15459150ca07c92
 workflow-type: tm+mt
 source-wordcount: '109'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Daten an ein Feld anhängen {#append-data-to-a-field}
+# Anfügen von Daten an ein Feld {#append-data-to-a-field}
 
-Es gibt eine einfache Möglichkeit, Daten an ein Feld anzuhängen. So geht es.
+Es gibt eine einfache Möglichkeit, Daten an ein Feld anzuhängen. So geht&#39;s.
 
 >[!PREREQUISITES]
 >
@@ -21,22 +21,22 @@ Es gibt eine einfache Möglichkeit, Daten an ein Feld anzuhängen. So geht es.
 
 >[!NOTE]
 >
->Die folgenden Schritte gelten auch für [Ändern der Daten der Programmteilnehmer](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md){target="_blank"}.
+>Die folgenden Schritte gelten auch für [Ändern von Programmteilnehmerdaten](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md){target="_blank"}.
 
-1. Ziehen Sie auf der Registerkarte **[!UICONTROL Fluss]** den Fluss **[!UICONTROL Datenwert ändern]** in den Schritt.
+1. Ziehen Sie auf **[!UICONTROL Registerkarte]** Fluss **[!UICONTROL den Schritt Datenwert ändern]**.
 
    ![](assets/append-data-to-a-field-1.png)
 
-1. Suchen und wählen Sie das Feld aus, an das Sie Daten anhängen möchten.
+1. Suchen Sie das Feld, an das Sie Daten anhängen möchten, und wählen Sie es aus.
 
    ![](assets/append-data-to-a-field-2.png)
 
-1. Suchen und wählen Sie das Token für dasselbe Feld aus, an das Sie Daten anhängen möchten.
+1. Suchen Sie das Token für dasselbe Feld, an das Sie Daten anhängen möchten, und wählen Sie es aus.
 
    ![](assets/append-data-to-a-field-3.png)
 
-1. Fügen Sie nun den Wert hinzu, den Sie an den bereits im Feld vorhandenen anhängen möchten.
+1. Fügen Sie nun den Wert, den Sie anhängen möchten, zu dem hinzu, was bereits im Feld vorhanden ist.
 
    ![](assets/append-data-to-a-field-4.png)
 
-Das ist es! Sie können kreativ sein und mehrere Token hinzufügen.
+Das ist alles! Sie können kreativ werden und mehrere Token darin hinzufügen.

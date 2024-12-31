@@ -12,24 +12,24 @@ ht-degree: 0%
 
 # Übersicht über Adobe Experience Cloud-Integrationen{#adobe-experience-cloud-integrations-overview}
 
-Adobe bietet eine robuste Demand-Marketing-Lösung, die mit der systemeigenen Zielgruppensynchronisierung über die Adobe Experience Cloud-Produkte hinweg beginnt. Nutzen einzigartiger B2B-zentrierter Daten in Adobe Audience Manager, Erschließen leistungsstarker Demand Marketing-Anwendungsfälle und ungenutzten Potenzials für bestehende Adobe-Anwendungen.
+Adobe bietet eine robuste Demand-Marketing-Lösung, die mit der nativen Zielgruppensynchronisierung der Adobe Experience Cloud-Produkte beginnt. Nutzen Sie einzigartige B2B-zentrierte Daten in Adobe Audience Manager und erschließen Sie leistungsstarke Anwendungsfälle für Demand Marketing sowie ungenutztes Potenzial für bestehende Adobe-Anwendungen.
 
 >[!NOTE]
 >
->Die Integrationen, die Audience Manager und [!DNL Adobe Real-Time CDP Marketo Connecter] enthalten, können eine Zuordnung der IMS-Organisation in Marketo Engage erfordern. [Erfahren Sie, wie Sie die Adobe-Organisationszuordnung einrichten](/help/marketo/product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md){target="_blank"}.
+>Für die Integrationen, zu denen Audience Manager und [!DNL Adobe Real-Time CDP Marketo Connecter] gehören, kann die Zuordnung der IMS-Organisation in Marketo Engage erforderlich sein. [Erfahren Sie, wie Sie die Adobe-Organisationszuordnung einrichten](/help/marketo/product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md){target="_blank"}.
 
 ## Adobe Experience Cloud-Integrationen {#adobe-experience-cloud-integrations}
 
 **Marketo-Integration mit Adobe Audience Manager**
 
-* [Zielgruppe von Adobe Experience Cloud synchronisieren](/help/marketo/product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md){target="_blank"}
+* [Synchronisieren einer Zielgruppe aus Adobe Experience Cloud](/help/marketo/product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md){target="_blank"}
 
-* [Eine Liste an Adobe Experience Cloud senden](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md){target="_blank"}
+* [Senden einer Liste an Adobe Experience Cloud](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md){target="_blank"}
 
-Ermöglicht die Synchronisierung statischer Listen bekannter Personen von Marketo Engage zu mehreren AEC-Anwendungen, wodurch bestehende Programme verbessert, neue Anwendungsfälle freigeschaltet und Multi-Channel-Kampagnen koordiniert werden. Diese Integration umfasst: Adobe Analytics, Adobe Target, Adobe Experience Manager, Adobe Audience Manager und Adobe Advertising Cloud.
+Ermöglicht die Synchronisierung von statischen Listen bekannter Personen vom Marketo Engage mit mehreren AEC-Programmen, wodurch bestehende Programme verbessert, neue Anwendungsfälle freigeschaltet und Multi-Channel-Kampagnen orchestriert werden. Diese Integration umfasst: Adobe Analytics, Adobe Target, Adobe Experience Manager, Adobe Audience Manager und Adobe Advertising Cloud.
 
 **Marketo-Integration mit Adobe Experience Manager**
 
 * [Importieren von Assets mit Adobe Experience Manager](/help/marketo/product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md){target="_blank"}
 
-* [Integrieren mit Adobe Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-with-adobe-analytics.md){target="_blank"}
+* [Integration mit Adobe Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-with-adobe-analytics.md){target="_blank"}

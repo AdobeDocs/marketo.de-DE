@@ -13,7 +13,7 @@ ht-degree: 16%
 
 # Grundlegendes zu systemverwalteten Feldern {#understanding-system-managed-fields}
 
-Möglicherweise haben Sie bemerkt, dass die [Personen-Detailseite](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"} eine Reihe von nicht bearbeitbaren Feldern enthält, die von Marketo erstellt wurden. Diese Daten stammen aus verschiedenen Quellen, und es gibt unzählige Werte, die angezeigt werden können.
+Möglicherweise haben Sie bemerkt, dass die [Personendetailseite](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"} eine Reihe von nicht bearbeitbaren Feldern enthält, die von Marketo erstellt wurden. Diese Daten stammen aus verschiedenen Quellen und es gibt unzählige Werte, die angezeigt werden könnten.
 
 ## Feldtypen {#field-types}
 
@@ -25,31 +25,31 @@ Möglicherweise haben Sie bemerkt, dass die [Personen-Detailseite](/help/marketo
 <tbody>
   <tr>
     <td>Ursprünglicher Quellentyp</td>
-    <td>Der Ort, an dem eine Person oder ein Website-Besucher zuerst entdeckt wurde (Beispiel: Listenimport, Webseitenbesuch)</td>
+    <td>Der Ort, an dem eine Person oder ein Website-Besucher zum ersten Mal erkannt wurde (Beispiel: Listen-Import, Web-Seitenbesuch)</td>
   </tr>
   <tr>
     <td>Ursprüngliche Quelleninfo</td>
-    <td>Details zu dieser Position (Beispiel: Name der Liste, URL der Webseite)</td>
+    <td>Besonderheiten in Bezug auf diesen Speicherort (Beispiel: Name der Liste, URL der Web-Seite)</td>
   </tr>
   <tr>
     <td>Ursprüngliche Such-Engine</td>
-    <td>Gegebenenfalls die Suchmaschine, die die Person an die ursprüngliche Einstiegsquelle verwiesen hat</td>
+    <td>Gegebenenfalls die Suchmaschine, die die Person an die ursprüngliche Einreisequelle verwiesen hat</td>
   </tr>
   <tr>
     <td>Ursprünglicher Suchausdruck</td>
-    <td>Falls zutreffend, der verwendete Suchbegriff, der die Person an die ursprüngliche Quelle der Einsendung verwiesen hat</td>
+    <td>Falls zutreffend, der verwendete Suchbegriff, der die Person auf die ursprüngliche Einstiegsquelle verwies</td>
   </tr>
   <tr>
     <td>Ursprünglicher Verweis</td>
-    <td>URL, die die ursprüngliche Einstiegsquelle hostet</td>
+    <td>URL, die die ursprüngliche Eintragsquelle gehostet hat</td>
   </tr>
   <tr>
     <td>Registrierungsquellentyp</td>
-    <td>Der Ort, an dem eine Aktivität zuerst zu einer Person wurde (Beispiel: Listenimport, Webseitenbesuch)</td>
+    <td>Der Ort, an dem eine Aktivität erstmals eine Person wurde (Beispiel: Listen-Import, Web-Seitenbesuch)</td>
   </tr>
   <tr>
     <td>Registrierungsquelleninfo</td>
-    <td>Details zu dieser Position (Beispiel: Name der Liste, URL der Webseite)</td>
+    <td>Besonderheiten in Bezug auf diesen Speicherort (Beispiel: Name der Liste, URL der Web-Seite)</td>
   </tr>
   <tr>
     <td>Anonyme IP</td>
@@ -57,37 +57,37 @@ Möglicherweise haben Sie bemerkt, dass die [Personen-Detailseite](/help/marketo
   </tr>
   <tr>
     <td>Abgeleitetes Unternehmen</td>
-    <td>Die beste Schätzung von Marketo (basierend auf IP) für das Unternehmen der Person</td>
+    <td>Marketos beste Schätzung (basierend auf IP) des Unternehmens der Person</td>
   </tr>
   <tr>
     <td>Abgeleiteter Ort</td>
-    <td>Die beste Schätzung von Marketo (basierend auf IP) für die Stadt der Person</td>
+    <td>Marketos beste Schätzung (basierend auf IP) der Stadt der Person</td>
   </tr>
   <tr>
     <td>Abgeleitetes Bundesland/abgeleitete Region</td>
-    <td>Die beste Schätzung von Marketo (basierend auf IP) des Bundesstaates oder der Region der Person</td>
+    <td>Marketos beste Schätzung (basierend auf IP) des Bundesstaats oder der Region der Person</td>
   </tr>
   <tr>
     <td>Abgeleitete Postleitzahl</td>
-    <td>Die beste Schätzung von Marketo (basierend auf IP) für die Postleitzahl der Person</td>
+    <td>Marketos beste Schätzung (basierend auf IP) der Postleitzahl der Person</td>
   </tr>
   <tr>
     <td>Abgeleitetes Land</td>
-    <td>Die beste Schätzung von Marketo (basierend auf IP) für das Land der Person</td>
+    <td>Marketos beste Schätzung (basierend auf IP) des Landes der Person</td>
   </tr>
   <tr>
     <td>Abgeleiteter Stadtbereich</td>
-    <td>Die beste Schätzung (basierend auf IP) der Metropolregion der Person durch Marketo</td>
+    <td>Marketos beste Schätzung (basierend auf IP) des Ballungsraums der Person</td>
   </tr>
   <tr>
     <td>Abgleitete Vorwahl</td>
-    <td>Die beste Schätzung von Marketo (basierend auf IP) des Gebietscodes der Person</td>
+    <td>Marketos beste Schätzung (basierend auf IP) des Gebietscodes der Person</td>
   </tr>
 </tbody></table>
 
-## Mögliche Werte für den Source-Typ Original und Registrierung {#possible-values-for-original-and-registration-source-type}
+## Mögliche Werte für den Source-Typ „Original“ und „Registrierung“ {#possible-values-for-original-and-registration-source-type}
 
-Im Folgenden finden Sie einige mögliche Werte und deren Bedeutung.
+Im Folgenden finden Sie einige mögliche Werte und ihre Bedeutung.
 
 <table><thead>
   <tr>
@@ -97,19 +97,19 @@ Im Folgenden finden Sie einige mögliche Werte und deren Bedeutung.
 <tbody>
   <tr>
     <td>Salesforce.com</td>
-    <td>Person wurde bei der Salesforce-Synchronisation entdeckt</td>
+    <td>Person wurde bei der Salesforce-Synchronisierung erkannt</td>
   </tr>
   <tr>
-    <td>Webseitenbesuche</td>
-    <td>Person wurde auf einer Webseite entdeckt</td>
+    <td>Web-Seitenbesuche</td>
+    <td>Person wurde von einer Webseite entdeckt</td>
   </tr>
   <tr>
-    <td>Webformularausfüllung</td>
-    <td>Person wurde nach dem Ausfüllen eines Formulars entdeckt</td>
+    <td>Web-Formular-Filllout</td>
+    <td>Person wurde nach dem Ausfüllen eines Formulars erkannt</td>
   </tr>
   <tr>
     <td>Listenimport</td>
-    <td>Person wurde beim Listenimport entdeckt</td>
+    <td>Person wurde von einem Listenimport entdeckt</td>
   </tr>
   <tr>
     <td>Neue Person</td>
@@ -120,8 +120,8 @@ Im Folgenden finden Sie einige mögliche Werte und deren Bedeutung.
     <td>Person wurde nach dem Klicken auf einen Link erkannt</td>
   </tr>
   <tr>
-    <td>Sales Email</td>
-    <td>Person wurde über das Sales Insight E-Mail-Add-In eine E-Mail gesendet</td>
+    <td>Verkaufs-E-Mail</td>
+    <td>Person wurde eine E-Mail über Sales Insight Email Add-In gesendet</td>
   </tr>
   <tr>
     <td>Person</td>
@@ -129,11 +129,11 @@ Im Folgenden finden Sie einige mögliche Werte und deren Bedeutung.
   </tr>
   <tr>
     <td>Kontakt</td>
-    <td>Person wurde über Webhook als Kontakt synchronisiert</td>
+    <td>Person wurde von Webhook als Kontakt synchronisiert</td>
   </tr>
   <tr>
     <td>Munchkin-API</td>
-    <td>Person wurde von der Marketo Engage Munchkin-API entdeckt</td>
+    <td>Person wurde von der Marketo Engage Munchkin-API erkannt</td>
   </tr>
   <tr>
     <td>Social App</td>
@@ -141,15 +141,15 @@ Im Folgenden finden Sie einige mögliche Werte und deren Bedeutung.
   </tr>
   <tr>
     <td>Webdienst-API</td>
-    <td>Person wurde von einer Web-Service-API entdeckt</td>
+    <td>Person wurde von einer Webservice-API erkannt</td>
   </tr>
   <tr>
     <td>Veranstaltungspartner</td>
-    <td>Person wurde über einen synchronisierten Webinardienst entdeckt</td>
+    <td>Person wurde durch einen synchronisierten Webinar-Service erkannt</td>
   </tr>
   <tr>
     <td>Lead verknüpfen</td>
-    <td>Person, die über den API-Aufruf "Associate Lead"zusammengeführt wurde</td>
+    <td>Person, die über den Aufruf der Associate Lead-API zusammengeführt wurde</td>
   </tr>
 </tbody></table>
 
@@ -161,19 +161,19 @@ Im Folgenden finden Sie einige mögliche Werte und deren Bedeutung.
 <tbody>
   <tr>
     <td>Listenimport</td>
-    <td>Person durch Listenimport werden</td>
+    <td>Durch einen Listenimport zu einer Person geworden</td>
   </tr>
   <tr>
     <td>Salesforce.com</td>
-    <td>Person durch Salesforce-Synchronisation werden</td>
+    <td>Durch Salesforce-Synchronisierung zu einer Person wurde</td>
   </tr>
   <tr>
-    <td>Webformularausfüllung</td>
-    <td>Person werden, nachdem ein Formular ausgefüllt wurde</td>
+    <td>Web-Formular-Filllout</td>
+    <td>Person wurde, nachdem ein Formular ausgefüllt wurde</td>
   </tr>
   <tr>
-    <td>Sales Email</td>
-    <td>Person wurde über das Sales Insight E-Mail-Add-In eine E-Mail gesendet</td>
+    <td>Verkaufs-E-Mail</td>
+    <td>Person wurde eine E-Mail über Sales Insight Email Add-In gesendet</td>
   </tr>
   <tr>
     <td>Webdienst-API</td>
@@ -185,15 +185,15 @@ Im Folgenden finden Sie einige mögliche Werte und deren Bedeutung.
   </tr>
   <tr>
     <td>Munchkin-API</td>
-    <td>Werden Sie durch die Marketo Munchkin-API zu einer Person</td>
+    <td>Person über die Munchkin-API von Marketo</td>
   </tr>
   <tr>
     <td>Social App</td>
-    <td>Person über ein Social Widget werden</td>
+    <td>Über ein soziales Widget zu einer Person geworden</td>
   </tr>
   <tr>
     <td>Veranstaltungspartner</td>
-    <td>Person über einen verknüpften Webinar-Dienst werden</td>
+    <td>Person durch einen verknüpften Webinar-Service geworden</td>
   </tr>
 </tbody>
 </table>

@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2360247
-description: Ändern Sie die Standardeinstellung von E-Mail und von Titel - Marketo Docs - Produktdokumentation
-title: Standard von E-Mail und Titel ändern
+description: Ändern des Standardtitels „Von E-Mail“ und „Von“ - Marketo-Dokumente - Produktdokumentation
+title: Ändern der Standardbeschriftung Von E-Mail und Von
 exl-id: ad0fa157-28f9-4008-a46c-84749c1987a9
 feature: Email Setup
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,15 +11,15 @@ ht-degree: 0%
 
 ---
 
-# Standard von E-Mail und Titel ändern {#change-the-default-from-email-and-from-label}
+# Ändern der Standardbeschriftung Von E-Mail und Von {#change-the-default-from-email-and-from-label}
 
-Jeder Admin-Benutzer kann die Standardwerte für **[!UICONTROL Aus E-Mail]** und **[!UICONTROL Aus Titel]** ändern, sodass beim Erstellen neuer E-Mails diese Standardwerte verwendet werden.
+Jeder Admin-Benutzer kann die Standardwerte für &quot;**[!UICONTROL -E-Mail]** und &quot;**[!UICONTROL -Label“]**, sodass beim Erstellen neuer E-Mails diese Standardwerte verwendet werden.
 
 >[!NOTE]
 >
->**Erforderliche Administratorberechtigungen**
+>**Administratorberechtigungen erforderlich**
 
-1. Wechseln Sie zum Abschnitt **[!UICONTROL Admin]** .
+1. Navigieren Sie zum Abschnitt **[!UICONTROL Admin]**.
 
    ![](assets/change-the-default-from-email-and-from-label-1.png)
 
@@ -27,12 +27,12 @@ Jeder Admin-Benutzer kann die Standardwerte für **[!UICONTROL Aus E-Mail]** und
 
    ![](assets/change-the-default-from-email-and-from-label-2.png)
 
-1. Geben Sie die Standardwerte für **[!UICONTROL Von E-Mail]** und **[!UICONTROL Von Titel]** ein und klicken Sie dann auf **[!UICONTROL Änderungen speichern]**.
+1. Geben Sie die gewünschten Standardwerte für **[!UICONTROL Von E-Mail]** und **[!UICONTROL Von Beschriftung]** ein und klicken Sie dann auf **[!UICONTROL Änderungen speichern]**.
 
    ![](assets/change-the-default-from-email-and-from-label-3.png)
 
 >[!NOTE]
 >
->Die Änderung gilt nur für Sie und nicht für andere Marketo-Benutzer.
+>Die Änderung gilt nur für Sie und nicht für andere Marketo-Benutzende.
 
 Gute Arbeit! Jedes Mal, wenn Sie eine neue E-Mail erstellen, werden die von Ihnen festgelegten Standardwerte verwendet.

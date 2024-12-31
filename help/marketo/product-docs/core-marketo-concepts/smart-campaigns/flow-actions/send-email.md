@@ -13,22 +13,22 @@ ht-degree: 4%
 
 # E-Mail senden {#send-email}
 
-Der Schritt &quot;[!UICONTROL E-Mail senden]&quot; kann im Rahmen von Kampagnen oder als ein Schritt mit einem Fluss zum Senden von E-Mails an Ihre Personen verwendet werden.
+Der Flussschritt [!UICONTROL E-] senden“ kann als Teil von Kampagnen oder als einzelner Flussschritt zum Senden von E-Mails an Ihre Personen verwendet werden.
 
 ![](assets/send-email-1.png)
 
 Sie können die ausgewählte E-Mail direkt im Flussschritt in der Vorschau anzeigen.
 
-1. Wählen Sie die zu sendende E-Mail aus.
+1. Suchen Sie die E-Mail, die Sie senden möchten, und wählen Sie sie aus.
 
    ![](assets/send-email-2.png)
 
    >[!NOTE]
    >
-   >Ihre E-Mail muss genehmigt werden, wenn Sie sie im Schritt Fluss auswählen möchten.
+   >Ihre E-Mail muss genehmigt sein, wenn Sie sie im Flussschritt auswählen möchten.
 
 1. Klicken Sie auf das Vorschausymbol, um die aktuell ausgewählte E-Mail anzuzeigen.
 
    ![](assets/send-email-3.png)
 
-Ein neuer Tab/Fenster wird geöffnet, in dem die E-Mail angezeigt wird.
+Eine neue Registerkarte/ein neues Fenster wird geöffnet, in der/dem Sie die E-Mail sehen können.

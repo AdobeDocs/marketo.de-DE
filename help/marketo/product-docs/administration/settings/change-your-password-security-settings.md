@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2360185
-description: Kennwortsicherheitseinstellungen ändern - Marketo-Dokumente - Produktdokumentation
-title: Kennwortsicherheitseinstellungen ändern
+description: Ändern der Kennwortsicherheitseinstellungen - Marketo-Dokumente - Produktdokumentation
+title: Ändern der Kennwortsicherheitseinstellungen
 exl-id: cda7ec70-32aa-4e0a-86b2-eb9bea70ef72
 feature: Administration
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
@@ -11,46 +11,46 @@ ht-degree: 0%
 
 ---
 
-# Kennwortsicherheitseinstellungen ändern {#change-your-password-security-settings}
+# Ändern der Kennwortsicherheitseinstellungen {#change-your-password-security-settings}
 
-Steuern Sie die Kennwortrichtlinie Ihres Abonnements. So geht es.
+Steuern Sie die Passwortrichtlinie Ihres Abonnements. So geht&#39;s.
 
 >[!NOTE]
 >
->**Erforderliche Administratorberechtigungen**
+>**Administratorberechtigungen erforderlich**
 
-1. Wechseln Sie zum Bereich **[!UICONTROL Admin]** .
+1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
 
    ![](assets/change-your-password-security-settings-1.png)
 
-1. Klicken Sie auf **[!UICONTROL Anmeldeeinstellungen]**.
+1. Klicken Sie **[!UICONTROL Anmeldeeinstellungen]**.
 
    ![](assets/change-your-password-security-settings-2.png)
 
-1. Klicken Sie unter **[!UICONTROL Sicherheitseinstellungen]** auf **[!UICONTROL Bearbeiten]**.
+1. Klicken **[!UICONTROL unter &quot;]**&quot; auf **[!UICONTROL Bearbeiten]**.
 
    ![](assets/change-your-password-security-settings-3.png)
 
-1. Wählen Sie eine **[!UICONTROL Vorlage]** aus. Klicken Sie für erweiterte Optionen auf die Dropdown-Liste **[!UICONTROL Erweitert]** .
+1. Wählen Sie eine **[!UICONTROL Vorlage]** aus. Erweiterte Optionen finden Sie **[!UICONTROL der Dropdown-Liste]** Erweitert“.
 
    ![](assets/change-your-password-security-settings-4.png)
 
    >[!NOTE]
    >
-   >Eine Vorlage ist nur eine vordefinierte Konfiguration. Standard ist gut. Hohe Sicherheit ist die stärkste. Mit Benutzerdefiniert können Sie Ihre eigenen erstellen.
+   >Eine Vorlage ist nur eine vordefinierte Konfiguration. Standard ist gut. Hohe Sicherheit ist die stärkste. Mit „Benutzerdefiniert“ können Sie eigene erstellen.
 
    >[!TIP]
    >
-   >Aktivieren Sie in **[!UICONTROL Benutzerdefiniert]** die Kontrollkästchen, um anzugeben, welche Eigenschaften Benutzer beim Erstellen von Kennwörtern einbeziehen sollen.
+   >Aktivieren **[!UICONTROL in &quot;]**&quot; die Kontrollkästchen, um anzugeben, welche Merkmale Benutzerinnen und Benutzer beim Erstellen von Kennwörtern einbeziehen sollen.
 
-1. Legen Sie die **[!UICONTROL Gültigkeit]** fest. Für diese Funktion müssen Benutzer ihre Kennwörter nach einer bestimmten Zeitdauer automatisch zurücksetzen. Dies schließt auch den Admin-Benutzer ein.
+1. Legen Sie die **[!UICONTROL Gültigkeit]** fest. Diese Funktion erfordert automatisch, dass Benutzer ihre Kennwörter nach einer bestimmten Zeit zurücksetzen. Dazu gehört auch der Admin-Benutzer.
 
    ![](assets/change-your-password-security-settings-5.png)
 
    >[!CAUTION]
    >
-   >Vorhandene Benutzer werden nicht über die Änderungen informiert. Setzen Sie **[!UICONTROL Ablauf]** zunächst auf 30 Tage, um sicherzustellen, dass alle auf die neuen Einstellungen aktualisiert haben, und ändern Sie dann diese zurück in Ihre ursprüngliche Kadenz.
+   >Bestehende Benutzer werden nicht über die Änderungen benachrichtigt. Legen Sie **[!UICONTROL Ablauf]** zuerst auf 30 Tage fest, um sicherzustellen, dass alle Benutzer auf die neuen Einstellungen aktualisiert haben, und ändern Sie dies dann wieder in Ihre ursprüngliche Kadenz.
 
-1. Legen Sie den Wert **[!UICONTROL Inaktives Sitzungs-Timeout]** fest. Dadurch wird bestimmt, wie lange ein Benutzer inaktiv sein kann, bevor er sich erneut bei Marketo anmelden muss.
+1. Legen Sie die Einstellung **[!UICONTROL Inaktives Sitzungs-Timeout]** fest. Dadurch wird festgelegt, wie lange Benutzende inaktiv sein können, bevor sie sich erneut bei Marketo anmelden müssen.
 
    ![](assets/change-your-password-security-settings-6.png)

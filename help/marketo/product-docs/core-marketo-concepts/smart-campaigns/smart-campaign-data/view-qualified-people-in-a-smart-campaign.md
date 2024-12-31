@@ -1,7 +1,7 @@
 ---
 unique-page-id: 1146966
 description: Anzeigen qualifizierter Personen in einer Smart-Kampagne - Marketo-Dokumente - Produktdokumentation
-title: Qualifizierte Personen in einer Smart-Kampagne anzeigen
+title: Anzeigen qualifizierter Personen in einer Smart-Kampagne
 exl-id: 84fb5c85-d794-4eb3-b74c-242c76ecdd1d
 feature: Smart Campaigns
 source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
@@ -11,34 +11,34 @@ ht-degree: 0%
 
 ---
 
-# Qualifizierte Personen in einer Smart-Kampagne anzeigen {#view-qualified-people-in-a-smart-campaign}
+# Anzeigen qualifizierter Personen in einer Smart-Kampagne {#view-qualified-people-in-a-smart-campaign}
 
-Personen anzeigen, die sich für den Durchlauf bei der Ausführung einer Smart-Kampagne qualifizieren.
+Personen anzeigen, die sich für den Fluss qualifizieren, wenn Sie eine intelligente Kampagne ausführen.
 
-1. Klicken Sie in Ihrer Smart-Kampagne auf die Registerkarte **[!UICONTROL Plan]** . Klicken Sie im Status der intelligenten Liste auf den ersten Link.
+1. Klicken Sie in Ihrer Smart-Kampagne auf die Registerkarte **[!UICONTROL Zeitplan]** . Klicken Sie unter Smart-Listenstatus auf den ersten Link.
 
 ![](assets/view-qualified-people-in-a-smart-campaign-1.png)
 
 >[!NOTE]
 >
->Trigger-Kampagnen zeigen keine qualifizierten Personen an, da sie auf der Basis von Live-Ereignissen ausgeführt werden.
+>Trigger-Kampagnen zeigen keine qualifizierten Personen an, da sie auf Live-Ereignissen basieren.
 
-1. Auf der Registerkarte **[!UICONTROL Qualifizierte Personen]** werden die Personen aufgelistet, die sich dazu qualifizieren, den Fluss zu durchlaufen, wenn die Kampagne ausgeführt wird.
+1. Auf **[!UICONTROL Registerkarte]** Qualifizierte Personen“ werden die Personen aufgelistet, die sich für den Fluss qualifizieren, wenn die Kampagne ausgeführt wird.
 
    ![](assets/view-qualified-people-in-a-smart-campaign-2.png)
 
    >[!CAUTION]
    >
-   >Die Liste Qualifizierte Personen enthält keine Angaben zu blockierten oder erreichten Kommunikationsbeschränkungen.
+   >Die Liste Qualifizierte Personen berücksichtigt keine Personen, die blockiert sind oder ihre Kommunikationsbeschränkungen erreicht haben.
 
    >[!NOTE]
    >
-   >Die Anzahl qualifizierter Personen hängt auch von den Qualifikationsregeln für Smart-Campaign ab. Erfahren Sie, wie Sie [Qualifizierungsregeln bearbeiten](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md){target="_blank"}.
+   >Die Anzahl der qualifizierten Personen hängt auch von den Qualifizierungsregeln für Smart Campaign ab. Erfahren Sie, wie [Qualifizierungsregeln bearbeiten](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md){target="_blank"}.
 
-Gut! Anhand dieser Liste können Sie überprüfen, welche Personen den Fluss durchlaufen können, bevor Sie eine Smart-Kampagne ausführen.
+Schön! Mithilfe dieser Liste können Sie überprüfen, welche Personen den Fluss durchlaufen, bevor Sie eine intelligente Kampagne ausführen.
 
 >[!MORELIKETHIS]
 >
->* [Smart-Campaign-Mitglieder anzeigen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md){target="_blank"}
->* [Anzeigen blockierter Personen in einer Smart-Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-blocked-people-in-a-smart-campaign.md){target="_blank"}
+>* [Anzeigen von Smart-Kampagnenmitgliedern](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md){target="_blank"}
+>* [Blockierte Personen in einer Smart-Kampagne anzeigen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-blocked-people-in-a-smart-campaign.md){target="_blank"}
 >* [Hinzufügen eines Flussschritts zu einer Smart-Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}

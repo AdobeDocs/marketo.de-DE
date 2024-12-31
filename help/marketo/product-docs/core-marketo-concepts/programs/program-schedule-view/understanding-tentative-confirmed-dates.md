@@ -1,7 +1,7 @@
 ---
 unique-page-id: 1147140
-description: Grundlegendes zu entativen/bestätigten Daten - Marketo Docs - Produktdokumentation
-title: Grundlegendes zu entativen/bestätigten Daten
+description: Informationen zu voraussichtlichen/bestätigten Daten - Marketo-Dokumente - Produktdokumentation
+title: Informationen zu voraussichtlichen/bestätigten Daten
 exl-id: af6b907f-e4d8-432f-b1da-dd7c04376ba8
 feature: Programs
 source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
@@ -11,23 +11,23 @@ ht-degree: 1%
 
 ---
 
-# Grundlegendes zu entativen/bestätigten Daten {#understanding-tentative-confirmed-dates}
+# Informationen zu voraussichtlichen/bestätigten Daten {#understanding-tentative-confirmed-dates}
 
-Smart-Kampagnen und E-Mail-Programme verfügen über eine leistungsstarke Funktion, die als **[!UICONTROL Tentative]** oder **[!UICONTROL Confirmed]** markiert werden kann. So funktionieren sie.
+Intelligente Kampagnen und E-Mail-Programme verfügen über eine leistungsstarke Funktion, die als **[!UICONTROL Vorläufig]** oder **[!UICONTROL Bestätigt]** gekennzeichnet werden kann. So funktionieren sie.
 
 ## Vorläufig {#tentative}
 
-Vorsätzliche Datumsangaben vermitteln die Absicht. Stellen Sie sich dies als _Ping_ etwas im Kalender vor. Tentative Einträge werden nicht ausgeführt - sie sind nur Platzhalter.
+Vorläufige Termine vermitteln Absicht. Stellen Sie sich das als _Bleistift_ etwas im Kalender vor. Vorläufige Einträge werden nicht ausgeführt - sie sind nur Platzhalter.
 
 ![](assets/image2014-9-23-15-3a22-3a23.png)
 
 >[!NOTE]
 >
->Nur Batch-Smart-Kampagnen und E-Mail-Programme können vorläufig sein.
+>Nur Batch-Kampagnen und E-Mail-Programme können provisorisch sein.
 
-## Bestätigung von Einträgen {#confirming-entries}
+## Einträge bestätigen {#confirming-entries}
 
-Dies entspricht dem Genehmigen eines Assets. Daher müssen die Einträge vollständig eingerichtet sein, bevor Sie sie bestätigen können. Sobald alle Enten in einer Reihe sind, können Sie die Einsendungen bestätigen, indem Sie den entsprechenden Tab nach rechts schieben.
+Dies entspricht der Genehmigung eines Assets. Daher müssen die Einträge vollständig eingerichtet sein, bevor Sie sie bestätigen können. Sobald sich alle Enten in einer Reihe befinden, können Sie die Eingaben bestätigen, indem Sie die Registerkarte „Tentative“ nach rechts verschieben.
 
 ![](assets/image2014-9-23-15-3a23-3a2.png)
 
@@ -37,18 +37,18 @@ Dies entspricht dem Genehmigen eines Assets. Daher müssen die Einträge vollst�
 
 >[!NOTE]
 >
->Warum der Hund? Er ist Retriever. Er ruft Ihre Daten ab.
+>Warum der Hund? Er ist ein Retriever. Er holt Ihre Daten.
 
 ## Bestätigt {#confirmed}
 
-Bestätigte Einträge werden definitiv ausgeführt. Sie verfügen über Regeln, genehmigte Assets sowie ein bestätigtes Datum und eine bestätigte Uhrzeit.
+Bestätigte Einträge werden auf jeden Fall ausgeführt. Sie verfügen über Regeln, genehmigte Assets und ein bestätigtes Datum und eine bestätigte Uhrzeit.
 
 ![](assets/image2014-9-23-15-3a23-3a30.png)
 
 ## Beendet  {#finished}
 
-Abgeschlossene Einträge wurden bereits ausgeführt. Sie können nur in der Vergangenheit sein (offensichtlich). Sobald ein Eintrag ausgeführt wurde und den Wert **[!UICONTROL Abgeschlossen]** aufweist, können Sie ihn nicht mehr verschieben oder vorläufig machen. (Keine Änderung der Realität und Störung des Zeitstrom-Kontinuums.)
+Abgeschlossene Einträge wurden bereits ausgeführt. Sie können nur in der Vergangenheit sein (offensichtlich). Sobald ein Eintrag ausgeführt wurde und &quot;**[!UICONTROL &quot;]**, können Sie ihn nicht mehr verschieben oder als provisorisch festlegen. (Keine Änderung der Realität und Störung des Zeitstromkontinuums.)
 
 ![](assets/image2014-9-23-15-3a25-3a53.png)
 
-Diese Staaten sind mächtige Werkzeuge. Wenn Sie ein Programm klonen, sind alle Daten der intelligenten Kampagne und des E-Mail-Programms vorläufig. Sie können alle direkt in der Zeitplanansicht bestätigt werden. Cool, nicht wahr?
+Diese Zustände sind mächtige Werkzeuge. Wenn Sie ein Programm klonen, sind alle Daten der intelligenten Kampagne und des E-Mail-Programms provisorisch. Sie können alle direkt über die Zeitplanansicht bestätigt werden. Cool, oder?

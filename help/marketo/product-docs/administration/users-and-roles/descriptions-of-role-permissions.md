@@ -1,7 +1,7 @@
 ---
 unique-page-id: 6848747
 description: Beschreibungen der Rollenberechtigungen - Marketo-Dokumente - Produktdokumentation
-title: Beschreibung der Rollenberechtigungen
+title: Beschreibungen der Rollenberechtigungen
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles
 source-git-commit: 548f3f84bf6a7d39dadbf1eb5069618c4f4d44b5
@@ -11,67 +11,67 @@ ht-degree: 16%
 
 ---
 
-# Beschreibung der Rollenberechtigungen {#descriptions-of-role-permissions}
+# Beschreibungen der Rollenberechtigungen {#descriptions-of-role-permissions}
 
-Im Folgenden finden Sie eine Liste aller verfügbaren Berechtigungen, die Sie Ihren Rollen zuweisen können. Berechtigungen sind im Allgemeinen bestimmten Funktionsbereichen in Marketo zugeordnet und können Ihnen dabei helfen, zu steuern, auf welche Bereiche und Funktionen verschiedene Benutzer Zugriff haben.
+Nachfolgend finden Sie eine Liste aller verfügbaren Berechtigungen, die Sie Ihren Rollen zuweisen können. Berechtigungen sind im Allgemeinen mit bestimmten Funktionsbereichen in Marketo verknüpft und können Ihnen dabei helfen zu steuern, auf welche Bereiche und Funktionen verschiedene Benutzende Zugriff haben.
 
-Weitere Informationen zu Berechtigungen:
+Einige zusätzliche Informationen zu Berechtigungen:
 
-* Die Berechtigung &quot;Zugriff&quot;gibt einer Rolle die Berechtigung, diesen Teil der Anwendung anzuzeigen und zu bearbeiten.
-* Damit eine Rolle Zugriff auf die Unterberechtigungen (&quot;Erstellen&quot;, &quot;Löschen&quot;usw.) hat, muss diese Rolle über die Berechtigung &quot;Zugriff&quot;für diesen Teil der Anwendung verfügen. Wenn Sie beispielsweise jemandem die Berechtigung zum Bearbeiten von Kampagnen erteilen möchten, muss er über die Gesamtberechtigung für den Zugriff auf Marketingaktivitäten verfügen.
-* Möglicherweise können Sie Aktionen oder Assets anzeigen, für die Sie keine Berechtigung haben. Wenn Sie jedoch versuchen, auf sie zuzugreifen, wird Ihnen eine Warnung bezüglich Ihres eingeschränkten Zugriffs angezeigt.
+* Die Zugriffsberechtigung gibt einer Rolle die Berechtigung zum Anzeigen und manchmal Bearbeiten dieses Teils der Anwendung.
+* Damit eine Rolle Zugriff auf die Unterberechtigungen („Erstellen“, „Löschen“ usw.) hat, muss sie über die Zugriffsberechtigung für diesen Teil der Anwendung verfügen. Wenn Sie beispielsweise jemandem die Berechtigung zum Bearbeiten von Kampagnen erteilen möchten, muss er über eine Gesamtberechtigung für den Zugriff auf Marketing-Aktivitäten verfügen.
+* Möglicherweise können Sie Aktionen oder Assets anzeigen, für die Sie nicht über die entsprechenden Berechtigungen verfügen. Wenn Sie jedoch versuchen, auf sie zuzugreifen, wird eine Meldung angezeigt, die Sie vor Ihrem eingeschränkten Zugriff warnt.
 
 ## Verfügbare Berechtigungen {#available-permissions}
 
-Wenn Sie [eine Rolle erstellen oder bearbeiten](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md), können Sie festlegen, welche der folgenden Berechtigungen für diese Rolle zulässig ist, indem Sie die entsprechenden Kontrollkästchen aktivieren.
+Wenn Sie [eine Rolle erstellen oder bearbeiten](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md) können Sie durch Aktivieren der entsprechenden Kontrollkästchen auswählen, welche der folgenden Berechtigungen für diese Rolle zulässig sein sollen.
 
 ![](assets/descriptions-of-role-permissions-1.png)
 
 ## Auf Administrator zugreifen  {#access-admin}
 
-Zeigen Sie die Einstellungen an und nehmen Sie sie im Abschnitt Mein Konto unter Admin vor.
+Einstellungen im Abschnitt Mein Konto von Admin anzeigen und ändern.
 
-* Zugriff auf Adobe Connect - Ermöglicht Benutzern den Zugriff auf den Bildschirm &quot;Adobe Connect&quot;
-* Zugriff auf Adobe Experience Manager&#42; - Ermöglicht Benutzern Zugriff auf den Adobe Experience Manager-Bildschirm
-* Adobe-Organisationszuordnung aufrufen&#42; - Ermöglicht Benutzern Zugriff auf den Bildschirm &quot;Adobe-Organisationszuordnung&quot;
-* Auf Admin Audit-Protokoll zugreifen&#42; - Ermöglicht Benutzern Zugriff auf den Bildschirm &quot;Admin Audit-Protokoll&quot;
-* Access Access Audit Trail&#42; - Ermöglicht Benutzern Zugriff auf das Audit-Protokoll
-* Zugreifen auf das Audit-Protokoll - Ermöglicht Benutzern den Zugriff auf das Asset-Audit-Protokoll und das Admin Audit-Protokoll
+* Zugriff auf Adobe Connect : Ermöglicht Benutzenden den Zugriff auf den Adobe Connect-Bildschirm
+* Zugriff auf Adobe Experience Manager&#42; - Ermöglicht Benutzenden den Zugriff auf den Adobe Experience Manager-Bildschirm
+* Zugriff auf die Adobe-Organisationszuordnung&#42; : Ermöglicht Benutzenden Zugriff auf den Bildschirm &quot;Adobe-Organisationszuordnung“
+* Admin-Audit-Protokoll &#42;: Ermöglicht Benutzenden Zugriff auf den Bildschirm Admin-Audit-Protokoll .
+* Zugriff auf Audit-Protokoll&#42; - Ermöglicht Benutzern Zugriff auf das Audit-Protokoll
+* Zugriff auf Audit-Protokoll - Ermöglicht Benutzenden Zugriff auf Asset-Audit-Protokoll und Admin-Audit-Protokoll
 * Zugriff auf CAPTCHA - Zugriff auf den CAPTCHA-Bildschirm
-* Auf Kanäle zugreifen - Ermöglicht Benutzern Zugriff nur auf die Änderung des Kanal-Tags, nicht auf andere benutzerdefinierte Tags
-* Kommunikationsbeschränkung für Zugriff - Ermöglicht Benutzern Zugriff auf die Aktivierung einer Kommunikationsbeschränkung in Admin
-* Zugriff auf CRM - Gewährt Benutzern Zugriff auf das CRM-System, z. B. [!DNL Salesforce] oder [!DNL Microsoft Dynamics], in der Admin-Konsole
-* Zugriff auf [[!DNL Data.com]](https://data.com) - Ermöglicht Benutzern den Zugriff auf die Data.com Flow-Aktion
-* Zugriff auf E-Mail-Admin - Ermöglicht Benutzern Zugriff auf E-Mail-Admin, um Standardeinstellungen wie Abmeldung und Branding-Domänen zu ändern.
-* Zugriff auf Ereignispartner - Ermöglicht Benutzern den Zugriff auf LaunchPoint in Admin
-* Zugriff auf Feldverwaltung - Ermöglicht Benutzern Zugriff auf die Feldverwaltung in der Admin-Konsole
-* Zugriff auf Datei-Upload - Ermöglicht Benutzern das Hochladen von Bildern und Dateien in Design Studio
-* Zugriff auf Landingpages - Ermöglicht Benutzern den Zugriff auf Landingpages in Admin
-* Zugriffsposition - Ermöglicht Benutzern den Zugriff auf den Standort in Admin zum Festlegen von Standardsprache, Gebietsschema, Zeitzone und Währung
-* Anmeldeverlauf aufrufen - Ermöglicht Benutzern Zugriff auf den Verlauf der Benutzeranmeldung im Audit-Protokoll
-* Zugriffsprotokolleinstellungen - Ermöglicht Benutzern Zugriff auf die Anmeldeeinstellungen in Admin für Sicherheit, IP-Einschränkungen und Einstellungen für Smart-List-Berichte
-* Zugriff auf neues Erlebnis&#42; - Ermöglicht Benutzern Zugriff auf den Bildschirm &quot;Neues Erlebnis&quot;
-* Zugriff auf benutzerdefinierte Marketo-Aktivitäten - Ermöglicht Benutzern den Zugriff auf benutzerdefinierte Marketo-Aktivitäten in Admin
-* Zugriff auf das benutzerdefinierte Marketo-Objekt - Ermöglicht Benutzern den Zugriff auf benutzerdefinierte Marketo-Objekte in Admin
-* Zugriff auf [!DNL Munchkin] - GI ermöglicht Benutzern den Zugriff auf [!DNL Munchkin] in Admin zum Festlegen von Trackingcode, Personen-Tracking und Aktivieren der API-Konfiguration
-* Zugriff auf vorausschauende Zielgruppen&#42; - Ermöglicht Benutzern Zugriff auf den Bildschirm &quot;Vorhersagekräftige Zielgruppen&quot;
-* Zugriff auf die Umsatzzyklusanalyse - Ermöglicht Benutzern den Zugriff auf die Umsatzzyklusanalyse in Admin zum Festlegen der Synchronisierungszusammenfassung und -zuordnung
-* Zugriffsrollen - Ermöglicht Benutzern Zugriff auf die Verwaltung und Bearbeitung von Rollen, nicht jedoch von Benutzern
-* Auf Sales Insight zugreifen - Ermöglicht Benutzern Zugriff auf die Verwaltung von Sales Insight in Admin, um Status, API-Konfiguration, Personensortierung und andere Einstellungen festzulegen.
-* Zugriff auf Single Sign-on - Ermöglicht Benutzern Zugriff auf Single Sign-on in Admin, um SAML zu aktivieren und mit SAML-Einstellungen zu arbeiten und Seiten-URLs umzuleiten
-* Zugriff auf Smart Campaign - Ermöglicht Benutzern Zugriff auf Smart Campaign in Admin, um Beschränkungen für qualifizierte Personen einzuschränken.
-* Zugriff auf SOAP API - Ermöglicht Benutzern den Zugriff auf die Verwaltung von SOAP-APIs in Web Services in Admin
-* Auf Tags zugreifen - Ermöglicht Benutzern den Zugriff auf alle benutzerdefinierten Tags außer dem Kanal-Tag
-* Zugriff auf Schatztruhe - Ermöglicht Benutzern Zugriff auf die experimentellen Funktionen in der Schatztruhe in Admin
-* Zugriff auf Benutzer - Ermöglicht Benutzern den Zugriff auf die Bearbeitung und Verwaltung von Benutzern (aber keine Rollen) in Admin
-* Zugriff auf Webhooks - Ermöglicht Benutzern, Webhooks in Admin zu verwenden, um Details und Antwortzuordnungen festzulegen.
-* Zugriff auf Arbeitsbereiche und Partitionen - Ermöglicht Benutzern den Zugriff auf das Erstellen, Bearbeiten und Löschen von Arbeitsbereichen und Partitionen in Admin
+* Zugriff auf Kanäle - Ermöglicht Benutzenden nur Zugriff, um das Kanal-Tag zu ändern, nicht auf andere benutzerdefinierte Tags
+* Kommunikationsbeschränkung - Ermöglicht Benutzenden Zugriff, um eine Kommunikationsbeschränkung in Admin zu aktivieren
+* Zugriff auf CRM : Ermöglicht Benutzenden in Admin Zugriff auf das CRM, z. B. [!DNL Salesforce] oder [!DNL Microsoft Dynamics]
+* [[!DNL Data.com]](https://data.com) - Ermöglicht Benutzern Zugriff auf die Flussaktion Data.com
+* Zugriff auf E-Mail-Admin : Ermöglicht Benutzenden den Zugriff auf E-Mail-Admin, um Standardeinstellungen wie Abmelde- und Branding-Domains zu ändern
+* Zugriff auf Event-Partner : Ermöglicht Benutzern Zugriff auf LaunchPoint in Admin
+* Verwaltung von Zugriffsfeldern : Ermöglicht Benutzern Zugriff auf die Verwaltung von Feldern in Admin
+* Zugriff auf den Datei-Upload : Ermöglicht Benutzern das Hochladen von Bildern und Dateien in Design Studio
+* Zugriff auf Landingpages : Ermöglicht Benutzern Zugriff auf Landingpages in Admin
+* Zugriffsstandort : Ermöglicht Benutzenden den Zugriff auf den Standort in Admin, um Standardsprache, Gebietsschema, Zeitzone und Währung festzulegen
+* Zugriff auf Anmeldeverlauf - Ermöglicht Benutzern Zugriff auf den Anmeldeverlauf des Benutzers im Audit-Protokoll
+* Zugriff auf Anmeldeeinstellungen : Ermöglicht Benutzern Zugriff auf Anmeldeeinstellungen in Admin für Sicherheit, IP-Einschränkungen und Berichteinstellungen für Smart-Listen
+* Auf neues Erlebnis zugreifen&#42; - Ermöglicht Benutzern Zugriff auf den Bildschirm Neues Erlebnis
+* Zugriff auf benutzerdefinierte Marketo-Aktivitäten - Ermöglicht Benutzenden Zugriff auf benutzerdefinierte Marketo-Aktivitäten in Admin
+* Zugriff auf benutzerdefiniertes Marketo-Objekt - Ermöglicht Benutzern Zugriff auf benutzerdefinierte Marketo-Objekte in Admin
+* [!DNL Munchkin] - Ermöglicht Benutzern Zugriff auf [!DNL Munchkin] in Admin, um Trackingcode, Personenverfolgung und die Aktivierung der API-Konfiguration festzulegen
+* Zugriff auf prädiktive &#42;: Ermöglicht Benutzern Zugriff auf den Bildschirm Prädiktive Zielgruppen .
+* Zugriff auf die Analyse des Umsatzzyklus : Ermöglicht Benutzern den Zugriff auf die Analyse des Umsatzzyklus in Admin, um die Synchronisierungszusammenfassung und -zuordnung festzulegen
+* Zugriffsrollen - Ermöglicht Benutzenden Zugriff zum Verwalten und Bearbeiten von Rollen, jedoch nicht Benutzern
+* Zugriff auf Sales Insights : Ermöglicht Benutzern den Zugriff zur Verwaltung von Sales Insights in Admin, um Status, API-Konfiguration, Personen-Scoring und andere Einstellungen festzulegen
+* Zugriff Single Sign-on : Ermöglicht Benutzenden Zugriff zur Verwaltung von Single Sign-on als Administrator, zur Aktivierung von SAML und zum Arbeiten mit SAML-Einstellungen und URLs von Umleitungsseiten
+* Zugriff auf intelligente Kampagnen - Ermöglicht Benutzenden Zugriff auf intelligente Kampagnen in Admin, um die Anzahl qualifizierter Personen zu begrenzen
+* Zugriff auf SOAP-API - Ermöglicht Benutzern den Zugriff auf die Verwaltung von SOAP-APIs in Web Services in Admin
+* Zugriff auf Tags - Ermöglicht Benutzenden Zugriff auf alle benutzerdefinierten Tags mit Ausnahme des Kanal-Tags
+* Zugriff auf die Schatztruhe - Ermöglicht Benutzern Zugriff auf die experimentellen Funktionen der Schatztruhe in Admin
+* Auf Benutzer zugreifen : Ermöglicht Benutzern das Bearbeiten und Verwalten von Benutzern (nicht jedoch von Rollen) in der Admin Console
+* Zugriff auf Webhooks : Ermöglicht Benutzern Webhooks in Admin, um Details festzulegen und Antwortzuordnungen vorzunehmen.
+* Zugriff auf Arbeitsbereiche und Partitionen - Ermöglicht Benutzern das Erstellen, Bearbeiten und Löschen von Arbeitsbereichen und Partitionen in Admin
 
-_&#42;Um Störungen für bestehende Benutzer zu vermeiden, wird diese Berechtigung im passiven Modus eingeführt und ist zwar sichtbar, aber derzeit nicht zugänglich. Wir werden mitteilen, wie es implementiert werden kann, wenn es Mitte 2024 aktiv wird._
+_&#42;Um eine Unterbrechung für bestehende Benutzer zu vermeiden, wird diese Berechtigung im passiven Modus eingeführt und ist derzeit sichtbar, aber nicht zugänglich. Wir werden mitteilen, wie dies implementiert werden kann, wenn es Mitte 2024 aktiv wird._
 
 ## Auf API zugreifen  {#access-api}
 
-Ermöglicht Benutzern nur mit der **API** **Rolle** Zugriff auf die einzelnen unten aufgeführten APIs.
+Ermöglicht Benutzenden mit der **Nur API** **Rolle** Zugriff auf die unten aufgeführten einzelnen APIs.
 
 * Assets genehmigen
 * Kampagne ausführen
@@ -98,32 +98,32 @@ Ermöglicht Benutzern nur mit der **API** **Rolle** Zugriff auf die einzelnen un
 
 ## Auf Analytics zugreifen {#access-analytics}
 
-Ermöglicht Benutzern Zugriff auf die Analytics-Registerkarten, E-Mail-Einblicke, Berichte und die drei unten aufgeführten Elemente, es sei denn, sie sind deaktiviert.
+Ermöglicht Benutzenden Zugriff auf die Analytics-Registerkarten, E-Mail-Einblicke, Berichte und die drei folgenden Elemente, es sei denn, sie sind deaktiviert.
 
-* Zugriff auf Umsatz Explorer - Durch Deaktivieren der Option wird der Zugriff des Benutzers auf Umsatz-Explorer entfernt
-* Bericht erstellen&#42; - Ermöglicht Benutzern den Zugriff auf das Erstellen, Klonen, Lesen, Aktualisieren und Verschieben von Bericht-Assets in Analytics- und Marketingaktivitäten sowie auf Modeler-Assets mit Umsatzzyklen
-* Bericht löschen - Deaktivieren entfernt die Möglichkeit zum Löschen von Berichten
-* Analytics-Daten exportieren - Deaktivieren entfernt die Möglichkeit des Benutzers, Analytics-Daten zu exportieren
+* Zugriff auf den Umsatz-Explorer - Durch Deaktivieren der Option wird der Zugriff des Benutzers auf den Umsatz-Explorer entfernt
+* Bericht erstellen&#42; - Ermöglicht Benutzenden das Erstellen, Klonen, Lesen, Aktualisieren und Verschieben von Berichts-Assets in Analytics- und Marketing-Aktivitäten sowie von Modeler-Assets im Umsatzzyklus
+* Bericht löschen - Durch Aufheben der Markierung kann der Benutzer Berichte löschen
+* Analytics-Daten exportieren - Durch Deaktivieren der Option wird die Möglichkeit des Benutzers entfernt, Analytics-Daten zu exportieren
 
-_&#42;Um Störungen für bestehende Benutzer zu vermeiden, wird diese Berechtigung im passiven Modus eingeführt und ist zwar sichtbar, aber derzeit nicht zugänglich. Wir werden mitteilen, wie es implementiert werden kann, wenn es Mitte 2024 aktiv wird._
+_&#42;Um eine Unterbrechung für bestehende Benutzer zu vermeiden, wird diese Berechtigung im passiven Modus eingeführt und ist derzeit sichtbar, aber nicht zugänglich. Wir werden mitteilen, wie dies implementiert werden kann, wenn es Mitte 2024 aktiv wird._
 
 ## Auf Kalenderpräsentationen zugreifen {#access-calendar-presentations}
 
-Gewährt Benutzern Zugriff auf Kalenderpräsentationen - ermöglicht die Anzeige der Presentations-Schaltfläche unten.
+Ermöglicht Benutzenden Zugriff auf Kalenderpräsentationen - Aktiviert die Anzeige der Schaltfläche &quot;Presentations&quot; unten.
 
 * Kalender bearbeiten Presentations - Ermöglicht Benutzern das Bearbeiten von Präsentationen im Kalender
 
 ## Auf Design-Studio zugreifen {#access-design-studio}
 
-Ermöglicht Benutzern Zugriff auf die Registerkarte &quot;Design Studio&quot;und die Ansicht des Baums, jedoch nicht auf Details.
+Ermöglicht Benutzenden den Zugriff auf die Registerkarte „Design Studio“ und die Ansicht der Baumstruktur, jedoch nicht auf Details.
 
 * Auf E-Mail zugreifen
    * E-Mail bearbeiten - Ermöglicht Benutzern das Bearbeiten, Erstellen und Klonen von E-Mails
-      * E-Mail betriebsfähig machen - Ermöglicht Benutzern, eine E-Mail betriebsfähig zu machen. Siehe: [E-Mail betriebsfähig machen](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
+      * E-Mail betriebsbereit machen : Erteilt Benutzern die Berechtigung, eine E-Mail funktionsfähig zu machen. Siehe: [E-Mail funktionsfähig machen](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
 
-      * E-Mail genehmigen - Ermöglicht Benutzern die Genehmigung von E-Mails.
+      * E-Mail genehmigen - Ermöglicht Benutzern das Genehmigen von E-Mails.
       * E-Mail löschen - Ermöglicht Benutzern das Löschen von E-Mails.
-      * Branded Domain festlegen - Ermöglicht Benutzern die Arbeit mit Branding-Domänen. Siehe: [Hinzufügen einer zusätzlichen Branding-Domäne](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md)
+      * Branded Domain festlegen - Ermöglicht Benutzern die Arbeit mit Branding-Domains. Siehe: [Hinzufügen einer zusätzlichen Branding-Domain](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md)
 
 * Auf E-Mail-Vorlage zugreifen
 
@@ -168,7 +168,7 @@ Ermöglicht Benutzern Zugriff auf die Registerkarte &quot;Design Studio&quot;und
 
 ## Auf Datenbank zugreifen {#access-database}
 
-Zeigen Sie die Datenbank an sowie Smart-/statische Listen an und bearbeiten Sie sie.
+Anzeigen der Datenbank sowie Anzeigen und Bearbeiten von Smart-/Static-Listen.
 
 * Auf Segmentierung zugreifen
 
@@ -178,23 +178,23 @@ Zeigen Sie die Datenbank an sowie Smart-/statische Listen an und bearbeiten Sie 
 
 * Person löschen
 * Liste erstellen&#42;
-   * Zugriff auf das Erstellen eines Listen-Assets in Datenbank- und Marketingaktivitäten
-   * Zugriff auf das Erstellen eines Smart-List-Assets in Datenbank- und Marketingaktivitäten
+   * Zugriff zum Erstellen einer Asset-Liste in Datenbank- und Marketing-Aktivitäten
+   * Zugriff zum Erstellen von Smart-Listen-Assets in Datenbank- und Marketing-Aktivitäten
 * Liste löschen
-* Person bearbeiten - Verhindert die manuelle Bearbeitung und Ausführung von Einzeldurchsatzschritten. Sie können Personen dennoch bearbeiten, indem Sie Kampagnen für sie ausführen
-* Person exportieren - Exportieren Sie Tabellen mit aus Ihren Datenbanklisten
+* Person bearbeiten - Verhindert die manuelle Bearbeitung und Ausführung von Einzelflussschritten. Personen können dennoch bearbeitet werden, indem Kampagnen für sie ausgeführt werden.
+* Person exportieren - Kalkulationstabellen mit aus Ihren Datenbanklisten exportieren
 * Benutzerdefiniertes Objekt importieren
 * Liste importieren
 * Personen zusammenführen
-* Ausführen von Einzelflussaktionen - Ermöglicht Benutzern, den Flussschritt **Datenwert ändern** für Personen aus der Datenbank auszuführen.
+* Einzelflussaktionen ausführen - Ermöglicht Benutzern das Ausführen **Flussschritts „Datenwert ändern** für Personen aus der Datenbank
 
-* Opportunity Data anzeigen - Blendet die Opportunity-Informationen auf der Personendetailseite aus.
+* Opportunity-Daten anzeigen - Blendet die Opportunity-Informationen auf der Personendetailseite aus.
 
-_&#42;Um Störungen für bestehende Benutzer zu vermeiden, wird diese Berechtigung im passiven Modus eingeführt und ist zwar sichtbar, aber derzeit nicht zugänglich. Wir werden mitteilen, wie es implementiert werden kann, wenn es Mitte 2024 aktiv wird._
+_&#42;Um eine Unterbrechung für bestehende Benutzer zu vermeiden, wird diese Berechtigung im passiven Modus eingeführt und ist derzeit sichtbar, aber nicht zugänglich. Wir werden mitteilen, wie dies implementiert werden kann, wenn es Mitte 2024 aktiv wird._
 
 ## Auf Marketingaktivitäten zugreifen {#access-marketing-activities}
 
-Anzeigen der Registerkarte Marketingaktivitäten , Kampagnen und Kampagnenordner.
+Zeigen Sie die Registerkarte Marketing-Aktivitäten, Kampagnen und Kampagnenordner an.
 
 * Auf SMS-Nachricht zugreifen
 
@@ -225,7 +225,7 @@ Auf SEO zugreifen
 * SEO verwalten
 * SEO-Standard
 
-_&#42;Um Störungen für bestehende Benutzer zu vermeiden, wird diese Berechtigung im passiven Modus eingeführt und ist zwar sichtbar, aber derzeit nicht zugänglich. Wir werden mitteilen, wie es implementiert werden kann, wenn es Mitte 2024 aktiv wird._
+_&#42;Um eine Unterbrechung für bestehende Benutzer zu vermeiden, wird diese Berechtigung im passiven Modus eingeführt und ist derzeit sichtbar, aber nicht zugänglich. Wir werden mitteilen, wie dies implementiert werden kann, wenn es Mitte 2024 aktiv wird._
 
 ## Zielgruppe und Personalisierung {#targeting-and-personalization}
 
@@ -237,5 +237,5 @@ _&#42;Um Störungen für bestehende Benutzer zu vermeiden, wird diese Berechtigu
 
 Arbeitsbereichverwaltung
 
-* Administratorzugriff für eine bestimmte Workspace (nur, wenn Workspace aktiviert ist)
+* Administratorzugriff für eine bestimmte Workspace (nur bei aktivierten Arbeitsbereichen)
 * Verschieben von Assets zwischen Arbeitsbereichen (nur bei aktivierten Arbeitsbereichen)

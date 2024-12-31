@@ -1,7 +1,7 @@
 ---
 unique-page-id: 10100269
 description: Bearbeiten einer benutzerdefinierten Aktivität - Marketo-Dokumente - Produktdokumentation
-title: Bearbeiten einer benutzerdefinierten Aktivität
+title: Benutzerdefinierte Aktivität bearbeiten
 exl-id: bdfbf0aa-0035-46d2-80dd-21a1366c6514
 feature: Custom Activities
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
@@ -11,11 +11,11 @@ ht-degree: 0%
 
 ---
 
-# Bearbeiten einer benutzerdefinierten Aktivität {#edit-a-custom-activity}
+# Benutzerdefinierte Aktivität bearbeiten {#edit-a-custom-activity}
 
-Müssen Sie Änderungen an einer bereits erstellten benutzerdefinierten Aktivität vornehmen? So geht es.
+Müssen Sie Änderungen an einer benutzerdefinierten Aktivität vornehmen, die Sie bereits erstellt haben? So geht&#39;s.
 
-1. Wechseln Sie zum Bereich **[!UICONTROL Admin]** .
+1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
 
    ![](assets/edit-a-custom-activity-1.png)
 
@@ -31,7 +31,7 @@ Müssen Sie Änderungen an einer bereits erstellten benutzerdefinierten Aktivit�
 
    ![](assets/edit-a-custom-activity-4.png)
 
-   &quot;Aktivitätstyp bearbeiten&quot;wird angezeigt. In diesem Beispiel reparieren wir einen Tippfehler.
+   Aktivitätstyp bearbeiten wird angezeigt. In diesem Beispiel bringen wir einen Tippfehler in Ordnung.
 
    ![](assets/edit-a-custom-activity-5.png)
 
@@ -39,8 +39,8 @@ Müssen Sie Änderungen an einer bereits erstellten benutzerdefinierten Aktivit�
 
    ![](assets/edit-a-custom-activity-6.png)
 
-   Ihre benutzerdefinierte Aktivität wurde bearbeitet.
+   Ihre benutzerdefinierte Aktivität wurde jetzt bearbeitet!
 
    >[!NOTE]
    >
-   >Wenn Ihre Aktivität zum Zeitpunkt der Bearbeitung ein Entwurf war, bleibt sie ein Entwurf. Wenn sie veröffentlicht wurde, ändert sich der Status in Mit Entwurf veröffentlicht .
+   >Wenn es sich bei Ihrer Aktivität zum Zeitpunkt der Bearbeitung um einen Entwurf handelte, bleibt sie ein Entwurf. Wenn er veröffentlicht wurde, ändert sich der Status in Mit Entwurf veröffentlicht .

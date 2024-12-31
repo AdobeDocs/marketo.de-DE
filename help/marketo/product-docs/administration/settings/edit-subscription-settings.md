@@ -13,22 +13,22 @@ ht-degree: 0%
 
 # Abonnementeinstellungen bearbeiten {#edit-subscription-settings}
 
-Wenn Sie Zugriff auf mehrere Marketo-Abonnements haben und sicher sein möchten, welches Sie verwenden, geben Sie jedem einen eindeutigen Namen. Dieser Name wird dann oben auf Ihrer Anmeldeseite angezeigt.
+Wenn Sie Zugriff auf mehrere Marketo-Abonnements haben und sicher sein möchten, welches Sie verwenden, versuchen Sie, jedem einen eindeutigen Namen zu geben. Dieser Name wird dann oben auf der Abonnementseite angezeigt.
 
-Wenn Sie beispielsweise sowohl in Produktions- als auch in Sandbox-Instanzen arbeiten, können Sie einem Abonnement den Namen **Marketo Production** und der anderen **Marketo Sandbox** geben.
+Wenn Sie beispielsweise sowohl in Produktions- als auch in Sandbox-Instanzen arbeiten, können Sie ein Abonnement **Marketo Production** und das andere **Marketo Sandbox** benennen.
 
 1. Wechseln Sie zu **[!UICONTROL Admin]**.
 
    ![](assets/edit-subscription-settings-1.png)
 
-1. Klicken Sie auf **[!UICONTROL Mein Konto]**.
+1. Klicken Sie **[!UICONTROL Mein Konto]**.
 
    ![](assets/edit-subscription-settings-2.png)
 
-1. Klicken Sie auf **[!UICONTROL Abonnementinformationen bearbeiten]**.
+1. Klicken Sie **[!UICONTROL Abonnementinformationen bearbeiten]**.
 
    ![](assets/edit-subscription-settings-3.png)
 
-1. Nehmen Sie Ihre Änderungen vor und klicken Sie auf **[!UICONTROL Speichern]**.
+1. Nehmen Sie die gewünschten Änderungen vor und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/edit-subscription-settings-4.png)

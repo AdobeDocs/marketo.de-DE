@@ -13,23 +13,23 @@ ht-degree: 2%
 
 # Benutzerdefinierte Feld-Token für Programmteilnehmer {#program-member-custom-field-tokens}
 
-## Token-Unterstützung für benutzerdefinierte Felder für Programmmitglieder {#token-support-for-program-member-custom-fields}
+## Token-Unterstützung für benutzerdefinierte Felder von Programmmitgliedern {#token-support-for-program-member-custom-fields}
 
-Auf der Rückseite der Funktionen für benutzerdefinierte Felder des Programmmitglieds wird die Unterstützung für benutzerdefinierte Felder des Programmmitglieds in Token-Frameworks erweitert.
+Auf der Rückseite der Funktionen für benutzerdefinierte Felder von Programmmitgliedern wird die Unterstützung für benutzerdefinierte Felder von Programmmitgliedern in Token-Frameworks erweitert.
 
-Die PMCF-Token werden unter der Mitgliederdomäne der Token-Familie unterstützt.
+Die PMCF-Token werden unter der Mitglieddomäne der Token-Familie unterstützt.
 
-Mitglieder-Token werden für Felder verwendet, die unter den Geltungsbereich des Programmmitglieds fallen. Ab dem aktuellen Status werden Member Tokens auch verwendet, um eindeutige Werte von integrierten Servicepartnern einzufügen. `{{member.webinar url}}` -Token löst automatisch die eindeutige Bestätigungs-URL der Person auf, die vom Dienstleister generiert wurde. {{member.registration code}} wird in den vom Dienstleister bereitgestellten Registrierungs-Code aufgelöst.
+Mitglieder-Token werden für Felder verwendet, die in den Bereich „Programmteilnehmer“ fallen. Ab dem aktuellen Status werden Mitglieder-Token auch verwendet, um eindeutige Werte von integrierten Service-Partnern einzufügen. `{{member.webinar url}}` Token löst automatisch die eindeutige Bestätigungs-URL der Person auf, die vom Dienstleister generiert wurde. {{member.registration code}} wird zum Registrierungs-Code aufgelöst, der vom Dienstleister bereitgestellt wird.
 
 >[!NOTE]
 >
->* Benutzerdefinierte Felder für Programmmitglieder können nur im Kontext eines Programms verwendet werden.
->* Benutzerdefinierte Felder des Programmmitglieds können nicht in verwendet werden: E-Mail-Preheader, Datum-Token in Warteschritten oder Snippets.
->* Der Status der Programmteilnehmer wird in den Mitglieds-Token nicht unterstützt.
+>* Benutzerdefinierte Felder für Programmteilnehmer können nur im Kontext eines Programms verwendet werden.
+>* Benutzerdefinierte Felder für Programmteilnehmer können nicht in folgenden Bereichen verwendet werden: E-Mail-Preheader, Datums-Token in Warteschritten oder Snippets.
+>* Der Status des Programmmitglieds wird in Mitglieds-Token nicht unterstützt.
 
-## Verwenden von benutzerdefinierten Feld-Token für Programmteilnehmer in Assets {#using-program-member-custom-field-tokens-in-assets}
+## Verwenden der benutzerdefinierten Feld-Token für Programmteilnehmer in Assets {#using-program-member-custom-field-tokens-in-assets}
 
-Sie können Token für benutzerdefinierte Felder des Programmmitglieds in E-Mails, Landingpages, SMS, Push-Benachrichtigungen und Webhooks einfügen.
+Benutzerdefinierte Felder für Programmteilnehmer können in E-Mails, Landingpages, SMS, Push-Benachrichtigungen und Webhooks eingefügt werden.
 
 **E-Mails**
 
@@ -41,7 +41,7 @@ Sie können Token für benutzerdefinierte Felder des Programmmitglieds in E-Mail
 
    ![](assets/program-member-custom-field-tokens-2.png)
 
-1. Suchen und wählen Sie das gewünschte benutzerdefinierte Feld-Token für Programmteilnehmer aus, geben Sie einen Standardwert ein und klicken Sie auf **[!UICONTROL Einfügen]**.
+1. Suchen Sie das gewünschte Token im Feld Benutzerdefiniertes Programmmitglied, wählen Sie es aus, geben Sie einen Standardwert ein und klicken Sie auf **[!UICONTROL Einfügen]**.
 
    ![](assets/program-member-custom-field-tokens-3.png)
 
@@ -53,7 +53,7 @@ Sie können Token für benutzerdefinierte Felder des Programmmitglieds in E-Mail
 >
 >Vergessen Sie nicht, Ihre E-Mail zu genehmigen.
 
-**Einstiegsseiten**
+**Landingpages**
 
 1. Wählen Sie Ihre Landingpage aus und klicken Sie auf **[!UICONTROL Entwurf bearbeiten]**.
 
@@ -67,7 +67,7 @@ Sie können Token für benutzerdefinierte Felder des Programmmitglieds in E-Mail
 
    ![](assets/program-member-custom-field-tokens-6.png)
 
-1. Klicken Sie auf die Stelle, an der das Token platziert werden soll, und klicken Sie dann auf das Symbol Token einfügen .
+1. Klicken Sie an die Stelle, an der das Token sein soll, und klicken Sie dann auf das Symbol Token einfügen .
 
    ![](assets/program-member-custom-field-tokens-7.png)
 
@@ -93,11 +93,11 @@ Sie können Token für benutzerdefinierte Felder des Programmmitglieds in E-Mail
 
    ![](assets/program-member-custom-field-tokens-12.png)
 
-1. Suchen und wählen Sie das gewünschte benutzerdefinierte Feld-Token für Programmteilnehmer aus. Geben Sie einen Standardwert ein und klicken Sie auf Einfügen.
+1. Suchen Sie das gewünschte Token für das benutzerdefinierte Feld Programmteilnehmer und wählen Sie es aus. Geben Sie einen Standardwert ein und klicken Sie auf Einfügen.
 
    ![](assets/program-member-custom-field-tokens-13.png)
 
-1. Klicken Sie auf das Dropdown-Menü SMS-Aktionen und wählen Sie **[!UICONTROL Genehmigen und schließen]** aus.
+1. Klicken Sie auf die Dropdown-Liste SMS-Aktionen und wählen Sie **[!UICONTROL Genehmigen und schließen]**.
 
    ![](assets/program-member-custom-field-tokens-14.png)
 
@@ -107,29 +107,29 @@ Sie können Token für benutzerdefinierte Felder des Programmmitglieds in E-Mail
 
    ![](assets/program-member-custom-field-tokens-15.png)
 
-1. Klicken Sie auf **[!UICONTROL Push Notification]**.
+1. Klicken Sie auf **[!UICONTROL Push-Benachrichtigung]**.
 
    ![](assets/program-member-custom-field-tokens-16.png)
 
-1. Klicken Sie auf die Nachricht im Editor und klicken Sie auf die Schaltfläche `{{` , um die Token-Auswahl abzurufen.
+1. Klicken Sie im Editor auf die Nachricht und dann auf die Schaltfläche `{{` , um die Token-Auswahl aufzurufen.
 
    ![](assets/program-member-custom-field-tokens-17.png)
 
-1. Suchen und wählen Sie das gewünschte benutzerdefinierte Feld-Token für Programmteilnehmer aus. Geben Sie einen Standardwert ein und klicken Sie auf **[!UICONTROL Einfügen]**.
+1. Suchen Sie das gewünschte Token für das benutzerdefinierte Feld Programmteilnehmer und wählen Sie es aus. Geben Sie einen Standardwert ein und klicken Sie auf **[!UICONTROL Einfügen]**.
 
    ![](assets/program-member-custom-field-tokens-18.png)
 
-1. Klicken Sie auf **[!UICONTROL Beenden]** , um zu speichern und zu beenden (oder auf **[!UICONTROL Weiter]** , um zuerst zu überprüfen).
+1. Klicken Sie auf **[!UICONTROL Beenden]**, um zu speichern und zu beenden (oder **[!UICONTROL Weiter]**, um zuerst zu überprüfen).
 
    ![](assets/program-member-custom-field-tokens-19.png)
 
 >[!NOTE]
 >
->Wenn das benutzerdefinierte Feld &quot;Programmteilnehmer&quot;für ein Programmmitglied keinen Wert aufweist, wird das Token durch den Standardwert ersetzt, sofern er angegeben wurde.
+>Wenn das benutzerdefinierte Feld Programmteilnehmer für ein Programmmitglied keinen Wert hat, wird das Token durch den Standardwert ersetzt, sofern dieser angegeben wurde.
 
-## Verwenden von benutzerdefinierten Feld-Token für Programmteilnehmer in Kampagnen {#using-program-member-custom-field-tokens-in-campaigns}
+## Verwenden der Token für benutzerdefinierte Felder von Programmmitgliedern in Kampagnen {#using-program-member-custom-field-tokens-in-campaigns}
 
-Benutzerdefinierte Feld-Token für Programmmitglieder können in folgenden Bereichen verwendet werden:
+Benutzerdefinierte Feld-Token für Programmteilnehmer können in folgenden Bereichen verwendet werden:
 
 * Aufgabe erstellen
 * Aufgabe in Microsoft erstellen

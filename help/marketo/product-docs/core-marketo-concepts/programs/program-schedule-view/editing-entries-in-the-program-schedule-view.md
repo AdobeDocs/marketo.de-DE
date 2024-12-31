@@ -13,25 +13,25 @@ ht-degree: 2%
 
 # Bearbeiten von Einträgen in der Programmplanansicht {#editing-entries-in-the-program-schedule-view}
 
-Sie können die verschiedenen Elemente Ihres Programms in der Planungsansicht bearbeiten.
+Sie können die verschiedenen Elemente Ihres Programms in der Zeitplanansicht bearbeiten.
 
-## Name eines Eintrags bearbeiten {#edit-an-entrys-name}
+## Namen eines Eintrags bearbeiten {#edit-an-entrys-name}
 
 1. Wählen Sie den Eintrag aus, den Sie bearbeiten möchten.
 
    ![](assets/image2014-9-18-18-3a1-3a36.png)
 
-1. Geben Sie einen neuen Namen ein und drücken Sie **[!UICONTROL Enter/Return]** auf der Tastatur, um die Änderung zu bestätigen.
+1. Geben Sie einen neuen Namen ein und drücken Sie **[!UICONTROL Eingabetaste/]**) auf der Tastatur, um die Änderung zu bestätigen.
 
    ![](assets/image2014-9-18-18-3a1-3a53.png)
 
 >[!CAUTION]
 >
->Dadurch wird nur der Anzeigename in der Planungsansicht geändert. Der Name des Assets in Ihrem Programm bleibt derselbe.
+>Dadurch wird nur der Anzeigename in der Zeitplanansicht geändert. Der Name des Assets in Ihrem Programm bleibt gleich.
 
 ## Beschreibung eines Eintrags bearbeiten {#edit-an-entrys-description}
 
-1. Klicken Sie auf das Beschreibungssymbol.
+1. Klicken Sie auf das Symbol Beschreibung .
 
    ![](assets/image2014-9-18-18-3a3-3a7.png)
 
@@ -49,8 +49,8 @@ Sie können die verschiedenen Elemente Ihres Programms in der Planungsansicht be
 
    ![](assets/image2014-9-18-18-3a4-3a39.png)
 
-Du rock! Jetzt wurde das Datum Ihres Eintrags in ein neues Datum verschoben.
+Du Rock! Jetzt wurde das Datum Ihres Eintrags auf ein neues Datum verschoben.
 
 >[!NOTE]
 >
-> Smart-Campaign- und E-Mail-Programmeinträge, die bereits ausgeführt wurden, können nicht in die Vergangenheit verschoben werden.
+> Einträge im Smart Campaign- und E-Mail-Programm, die bereits ausgeführt wurden, können nicht in die Vergangenheit verschoben werden.

@@ -1,5 +1,5 @@
 ---
-description: Ändern der Daten der Programmteilnehmer - Marketo-Dokumente - Produktdokumentation
+description: Ändern der Daten von Programmmitgliedern - Marketo-Dokumente - Produktdokumentation
 title: Programmmitgliedsdaten ändern
 exl-id: 2ed8468e-0dbb-48c1-be60-7b51e92f9095
 feature: Smart Campaigns
@@ -12,17 +12,17 @@ ht-degree: 5%
 
 # Programmmitgliedsdaten ändern {#change-program-member-data}
 
-Sie können Marketo verwenden, um den Feldwert zu aktualisieren, indem Sie die Workflow-Aktion &quot;Datenwert ändern&quot;verwenden.
+Sie können Marketo verwenden, um den Wert eines Felds mithilfe der Flussaktion „Datenwert ändern“ zu aktualisieren.
 
 >[!NOTE]
 >
->Sie können die Aktualisierung eines Felds auch verhindern. Weitere Informationen finden Sie unter Blockaktualisierungen für ein Feld .
+>Sie können auch verhindern, dass ein Feld aktualisiert wird. Siehe Blockaktualisierungen für ein Feld für Details.
 
-1. Rufen Sie im Tab Fluss Ihrer Smart-Kampagne den Fluss **[!UICONTROL Daten der Programmteilnehmer ändern]** auf und wählen Sie das gewünschte Programm aus.
+1. Bewegen Sie in der Registerkarte Fluss Ihrer Smart-Kampagne den Fluss **[!UICONTROL Änderung der]**) und wählen Sie das gewünschte Programm aus.
 
    ![](assets/change-program-member-data-1.png)
 
-1. Suchen und wählen Sie das Attribut aus, dessen Wert Sie ändern möchten.
+1. Suchen Sie das Attribut, dessen Wert Sie ändern möchten, und wählen Sie es aus.
 
    ![](assets/change-program-member-data-2.png)
 
@@ -32,15 +32,15 @@ Sie können Marketo verwenden, um den Feldwert zu aktualisieren, indem Sie die W
 
 >[!NOTE]
 >
->Sie können auch Token in [!UICONTROL Neuer Wert] verwenden.
+>Sie können Token auch in &quot;[!UICONTROL  Wert“ ].
 
-Führen Sie einfach die Smart-Kampagne aus und Sie sind fertig!
+Führen Sie jetzt einfach die Smart Campaign aus und Sie sind fertig!
 
 >[!TIP]
 >
->Wenn Sie die Felder löschen möchten, anstatt sie zu aktualisieren, können Sie &quot;NULL&quot;(ohne Anführungszeichen, Großbuchstaben) als [!UICONTROL Neuer Wert] eingeben.
+>Wenn Sie die Felder löschen möchten, anstatt sie zu aktualisieren, können Sie „NULL“ (keine Anführungszeichen, alle Begrenzungen) als [!UICONTROL Neuer Wert“ ].
 
 >[!MORELIKETHIS]
 >
->* [Verwenden von Token in den Flussschritten](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"}
+>* [Verwenden von Token in Flussschritten](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"}
 >* [Daten an ein Feld anhängen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/append-data-to-a-field.md){target="_blank"}

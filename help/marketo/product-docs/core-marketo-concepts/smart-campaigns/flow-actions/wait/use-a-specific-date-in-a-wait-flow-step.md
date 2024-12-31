@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1146976
-description: Verwenden eines bestimmten Datums in einem Warteflussschritt - Marketo Docs - Produktdokumentation
+description: Verwenden eines bestimmten Datums in einem Warteflussschritt - Marketo-Dokumente - Produktdokumentation
 title: Verwenden eines bestimmten Datums in einem Warteflussschritt
 exl-id: d6ef26a4-8c9a-4f40-9e80-dcb3921a427f
 feature: Smart Campaigns
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Verwenden eines bestimmten Datums in einem Warteflussschritt {#use-a-specific-date-in-a-wait-flow-step}
 
-Mit dem Flussschritt &quot;[!UICONTROL Warten]&quot; können Sie das Journey einer Person durch eine Smart-Kampagne bis zu einem bestimmten Datum anhalten.
+Mit dem Flussschritt &quot;[!UICONTROL Warten] können Sie den Journey einer Person durch eine Smart-Kampagne bis zu einem bestimmten Datum anhalten.
 
-1. Ziehen Sie in der Registerkarte **[!UICONTROL Fluss]** Ihrer Smart-Kampagne über den Flussschritt **[!UICONTROL Warten]**.
+1. Ziehen Sie in der Registerkarte **[!UICONTROL Fluss]** der Smart-Kampagne den **[!UICONTROL Warten]**-Flussschritt.
 
    ![](assets/use-a-specific-date-in-a-wait-flow-step-1.png)
 
@@ -23,7 +23,7 @@ Mit dem Flussschritt &quot;[!UICONTROL Warten]&quot; können Sie das Journey ein
 
    ![](assets/use-a-specific-date-in-a-wait-flow-step-2.png)
 
-1. Wählen Sie aus der Dropdownliste **[!UICONTROL Typ]** die Option **[!UICONTROL Datum]** aus.
+1. Wählen Sie in **[!UICONTROL Dropdown]** Typ“ die Option **[!UICONTROL Datum]** aus.
 
    ![](assets/use-a-specific-date-in-a-wait-flow-step-3.png)
 
@@ -37,5 +37,5 @@ Mit dem Flussschritt &quot;[!UICONTROL Warten]&quot; können Sie das Journey ein
 
 >[!MORELIKETHIS]
 >
->* [Verwenden einer Dauer in einem Warteflussschritt](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-duration-in-a-wait-flow-step.md){target="_blank"}
+>* [Verwenden Sie eine Dauer in einem Warteflussschritt](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-duration-in-a-wait-flow-step.md){target="_blank"}
 >* [Verwenden eines Datums-Tokens in einem Warteflussschritt](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-date-token-in-a-wait-flow-step.md){target="_blank"}

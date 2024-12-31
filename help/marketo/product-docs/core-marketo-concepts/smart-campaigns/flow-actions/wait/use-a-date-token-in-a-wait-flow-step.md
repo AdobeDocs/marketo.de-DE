@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1146997
-description: Verwenden eines Datums-Tokens in einem Warteflussschritt - Marketo Docs - Produktdokumentation
+description: Verwenden eines Datums-Tokens in einem Warteflussschritt - Marketo-Dokumente - Produktdokumentation
 title: Verwenden eines Datums-Tokens in einem Warteflussschritt
 exl-id: d161922b-ce90-4e65-9282-d3bb866c1d94
 feature: Smart Campaigns
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Verwenden eines Datums-Tokens in einem Warteflussschritt {#use-a-date-token-in-a-wait-flow-step}
 
-Mit dem Schritt Wartefluss können Sie das Journey einer Person durch eine Smart-Kampagne anhalten, bis zu einem bestimmten Datum, an dem ein Datums-Token verwendet wird. Sie können das Enddatum auch um einige Tage ändern.
+Sie können den Schritt „Fluss warten“ verwenden, um den Journey einer Person über eine Smart-Kampagne bis zu einem bestimmten Datum anzuhalten, das ein Datums-Token verwendet. Sie können das Enddatum auch nach einer bestimmten Anzahl von Tagen ändern.
 
 >[!NOTE]
 >
 >Dies gilt nur für Trigger-Kampagnen. Sie können diese Funktion nicht in Batch-Kampagnen verwenden.
 
-1. Ziehen Sie in der Registerkarte **[!UICONTROL Fluss]** Ihrer Smart-Kampagne über den Flussschritt **[!UICONTROL Warten]**.
+1. Ziehen Sie in der Registerkarte **[!UICONTROL Fluss]** der Smart-Kampagne den **[!UICONTROL Warten]**-Flussschritt.
 
    ![](assets/use-a-date-token-in-a-wait-flow-step-1.png)
 
@@ -27,11 +27,11 @@ Mit dem Schritt Wartefluss können Sie das Journey einer Person durch eine Smart
 
    ![](assets/use-a-date-token-in-a-wait-flow-step-2.png)
 
-1. Wählen Sie aus der Dropdownliste **[!UICONTROL Typ]** die Option **[!UICONTROL Datum-Token]** aus.
+1. Wählen Sie in **[!UICONTROL Dropdown]** Typ“ die Option **[!UICONTROL Datumstoken]** aus.
 
    ![](assets/use-a-date-token-in-a-wait-flow-step-3.png)
 
-1. Wählen Sie ein Datum-Token aus, um anzugeben, wann der Warten-Schritt beendet werden soll:
+1. Wählen Sie ein Datums-Token aus, um anzugeben, wann der Warteschritt beendet werden soll:
 
    * `{{my._____}}`
    * `{{lead.______}}`
@@ -46,15 +46,15 @@ Mit dem Schritt Wartefluss können Sie das Journey einer Person durch eine Smart
 
    >[!TIP]
    >
-   >Verwenden Sie diese Option für Datums-Token, die auf Daten aus der Vergangenheit verweisen, wie z. B. Geburtstag oder Vertragsstartdatum.
+   >Verwenden Sie diese Option für Datumstoken, die auf frühere Daten verweisen, z. B. ein Geburtstags- oder Vertragsstartdatum.
 
-1. Optional können Sie das Enddatum um eine angegebene Anzahl von Tagen ändern.
+1. Optional können Sie das Enddatum um eine bestimmte Anzahl von Tagen ändern.
 
    ![](assets/use-a-date-token-in-a-wait-flow-step-6.png)
 
    >[!NOTE]
    >
-   >Sie können die Anzahl der Tage auch mithilfe eines `{{lead.` - oder `{{company.` -Tokens angeben, das ein ganzzahliges Feld oder ein `{{my.` -Token des Zahlentyps darstellt.
+   >Sie können die Anzahl der Tage auch mithilfe eines `{{lead.`- oder `{{company.`-Tokens angeben, das ein ganzzahliges Feld darstellt, oder mithilfe eines `{{my.`-Tokens vom Typ Zahl .
 
 1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
@@ -62,5 +62,5 @@ Mit dem Schritt Wartefluss können Sie das Journey einer Person durch eine Smart
 
    >[!MORELIKETHIS]
    >
-   >* [Verwenden einer Dauer in einem Warteflussschritt](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-duration-in-a-wait-flow-step.md){target="_blank"}
+   >* [Verwenden Sie eine Dauer in einem Warteflussschritt](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-duration-in-a-wait-flow-step.md){target="_blank"}
    >* [Verwenden eines bestimmten Datums in einem Warteflussschritt](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.md){target="_blank"}

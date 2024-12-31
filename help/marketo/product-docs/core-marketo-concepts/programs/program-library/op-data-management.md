@@ -1,6 +1,6 @@
 ---
-description: OP-Data Management - Marketo-Dokumente - Produktdokumentation
-title: OP-Data Management
+description: OP-Daten-Management - Marketo-Dokumente - Produktdokumentation
+title: OP-Daten-Management
 feature: Programs
 exl-id: ac4a522b-37a7-4080-83d6-fbc2203a568b
 source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
@@ -10,11 +10,11 @@ ht-degree: 26%
 
 ---
 
-# OP-Data Management {#op-data-management}
+# OP-Daten-Management {#op-data-management}
 
-Dies ist ein Beispiel für einen einfachen Workflow mit Best Practices für das Betriebsdatenmanagement, der ein Standardprogramm verwendet, um Ihnen bei der Verwaltung der Datenkonsistenz für Datensätze in Ihrer Marketo Engage-Datenbank zu helfen.
+Dies ist ein Beispiel für einfache Best Practice-Workflows für das Betriebsdaten-Management unter Verwendung eines Standardprogramms, das Sie bei der Verwaltung der Datenkonsistenz für Datensätze in Ihrer Marketo Engage-Datenbank unterstützt.
 
-Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Programms an das Adobe-Account-Team oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} .
+Wenden Sie sich für weitere Strategieunterstützung oder Hilfe bei der Anpassung eines Programms an das Adobe-Account-Team oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Kanal-Zusammenfassung {#channel-summary}
 
@@ -22,7 +22,7 @@ Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Prog
  <tbody> 
   <tr> 
    <th>Kanal</th> 
-   <th>Status der Mitgliedschaft</th>
+   <th>Mitgliedschaftsstatus</th>
    <th>Analytics Behavior</th>
    <th>Programmtyp</th>
   </tr> 
@@ -35,7 +35,7 @@ Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Prog
  </tbody> 
 </table>
 
-## Das Programm enthält die folgende Assets {#program-contains-the-following-assets}
+## Programm enthält die folgenden Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -47,22 +47,22 @@ Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Prog
   <tr> 
    <td>Intelligente Kampagne</td> 
    <td> </td>
-   <td>Land normalisieren - USA</td>
+   <td>Land normalisieren - Vereinigte Staaten</td>
   </tr>
   <tr> 
    <td>Intelligente Kampagne</td> 
    <td> </td>
-   <td>Normalize Country - United Kingdom</td>
+   <td>Normalisierungsland - Vereinigtes Königreich</td>
   </tr>
   <tr> 
    <td>Intelligente Kampagne</td> 
    <td> </td>
-   <td>Auf die Blockierungsliste gesetzt auf True setzen</td>
+   <td>Auf die Blockierungsliste setzen Auf „True“ festlegen</td>
   </tr>
   <tr> 
    <td>Intelligente Kampagne</td> 
    <td> </td>
-   <td>Ist Partner auf "True"setzen</td>
+   <td>Ist Partner auf „true“ gesetzt</td>
   </tr>
   <tr> 
    <td>Intelligente Kampagne</td> 
@@ -107,27 +107,27 @@ Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Prog
   <tr> 
    <td>Intelligente Kampagne</td> 
    <td> </td>
-   <td>Neue Person aus Live-Ereignis</td>
+   <td>Neue Person vom Live-Ereignis</td>
   </tr>
   <tr> 
    <td>Intelligente Kampagne</td> 
    <td> </td>
-   <td>Neue Person aus Online Advertising</td>
+   <td>Neue Person von Online Advertising</td>
   </tr>
   <tr> 
    <td>Intelligente Kampagne</td> 
    <td> </td>
-   <td>Neue Person aus der Fachmesse</td>
+   <td>Neue Person von der Messe</td>
   </tr>
    <tr> 
    <td>Intelligente Kampagne</td> 
    <td> </td>
-   <td>Neue Person aus Web-Inhalten</td>
+   <td>Neue Person aus Webinhalten</td>
   </tr>
    <tr> 
    <td>Intelligente Kampagne</td> 
    <td> </td>
-   <td>Neue Person aus Web-Anforderung</td>
+   <td>Neue Person aus Web-Anfrage</td>
   </tr>
    <tr> 
    <td>Intelligente Kampagne</td> 
@@ -142,12 +142,12 @@ Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Prog
   <tr> 
    <td>Ordner</td> 
    <td> </td>
-   <td>Person Source ausgelöst (für Instanzen mit geringem Traffic)</td>
+   <td>Ausgelöste Personen-Source (für Instanzen mit geringem Traffic)</td>
   </tr>
   <tr> 
    <td>Ordner</td> 
    <td> </td>
-   <td>Person Source erfassen</td>
+   <td>Person-Source erfassen</td>
   </tr>
   <tr> 
    <td>Ordner</td> 
@@ -169,26 +169,26 @@ Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Prog
 
 ![](assets/op-data-management-1.png)
 
-## Konfliktregeln {#conflict-rules}
+## Kollisionsregeln {#conflict-rules}
 
 * **Programm-Tags**
-   * Erstellen von Tags in diesem Abonnement - _Empfohlen_
+   * Tags in diesem Abonnement erstellen - _Empfohlen_
    * Ignorieren
 
-* **Vorlage für Einstiegsseiten mit demselben Namen**
+* **Landingpage-Vorlage mit demselben Namen**
    * Originalvorlage kopieren - _Empfohlen_
    * Zielvorlage verwenden
 
 * **Bilder mit demselben Namen**
-   * Beides beibehalten - _Empfohlen_
+   * Beide Dateien beibehalten - _Empfohlen_
    * Element in diesem Abonnement ersetzen
 
 * **E-Mail-Vorlagen mit demselben Namen**
-   * Beides beibehalten - _Empfohlen_
+   * Beide Vorlagen beibehalten - _Empfohlen_
    * Vorhandene Vorlage ersetzen
 
 ## Bewährte Methoden {#best-practices}
 
-* Jede erstellte Kampagne soll ein Beispiel für den Best Practice-Build sein und nicht speziell für Ihre Anwendungsfälle. Denken Sie daran, die Smart-Kampagnen zu aktualisieren, um Ihre spezifischen Schmerzpunkte und Datenherausforderungen zu beheben.
+* Jede erstellte Kampagne ist als Beispiel für den Best-Practice-Build gedacht und nicht spezifisch für Ihre Anwendungsfälle. Denken Sie daran, die Smart Campaign zu aktualisieren, um Ihre spezifischen Probleme und Herausforderungen bezüglich der Daten zu bewältigen.
 
-* Erwägen Sie, die Benennungsregel dieses Programmbeispiels zu aktualisieren, um sie an Ihre Benennungsregel anzupassen.
+* Erwägen Sie, die Namenskonvention dieses Programmbeispiels zu aktualisieren, um sie an Ihre Namenskonvention anzupassen.

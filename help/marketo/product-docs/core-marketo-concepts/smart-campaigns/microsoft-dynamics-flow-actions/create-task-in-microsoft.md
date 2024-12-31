@@ -1,6 +1,6 @@
 ---
 unique-page-id: 37356429
-description: Aufgabe in Microsoft erstellen - Marketo Docs - Produktdokumentation
+description: Aufgabe in Microsoft erstellen - Marketo-Dokumente - Produktdokumentation
 title: Aufgabe in Microsoft erstellen
 exl-id: b9ae425b-edf1-4aae-92f4-e7c6cf647cdc
 feature: Smart Campaigns, Microsoft Dynamics
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Aufgabe in Microsoft erstellen {#create-task-in-microsoft}
 
-Als Marketing-Experte verfügen Sie über Informationen, die dem Vertrieb beim Abschluss von Geschäften helfen können. Sie können Aufgaben erstellen, um ihnen mitzuteilen, was sie tun und wann sie es tun sollten.
+Als Marketing-Experte verfügen Sie über Informationen, die den Vertrieb beim Abschluss von Abschlüssen unterstützen können. Sie können Aufgaben erstellen, um ihnen mitzuteilen, was und wann sie tun sollten.
 
-Aufgabe erstellen in Microsoft erstellt eine Aufgabe unter Aktivitäten, die mit der Person (Lead oder Kontakt) in [!DNL Microsoft] in Verbindung stehen.
+Aufgabe erstellen in Microsoft erstellt eine Aufgabe unter Aktivitäten, die sich auf die Person (Lead oder Kontakt) in [!DNL Microsoft] beziehen.
 
 >[!NOTE]
 >
->Dieser Flussschritt funktioniert in Ihrer Smart-Kampagne nur bei Verwendung mit Triggern _, nicht mit Filtern._
+>Dieser Flussschritt funktioniert _nur bei Verwendung mit Triggern_ nicht mit Filtern in Ihrer Smart-Kampagne.
 
 Standardmäßig sieht der Flussschritt wie folgt aus:
 
@@ -27,7 +27,7 @@ Standardmäßig sieht der Flussschritt wie folgt aus:
 
 >[!NOTE]
 >
->Wenn der Marketo-Synchronisierungsbenutzer Aufgaben erstellt, ist **[!UICONTROL Fällig in]** ein erforderliches Feld, damit die Aufgabe in [!DNL Microsoft] erstellt werden kann. Marketo gibt standardmäßig fünf Tage ein, wenn kein Wert eingegeben wird.
+>Wenn der Marketo-Synchronisierungsbenutzer Aufgaben erstellt **[!UICONTROL ist &quot;]**&quot; ein erforderliches Feld, damit die Aufgabe in [!DNL Microsoft] erstellt wird. Marketo gibt standardmäßig fünf Tage ein, wenn kein Wert eingegeben wird.
 
 Passen Sie alle Felder an, um die Aufgabe wie gewünscht zu erstellen.
 
@@ -35,8 +35,8 @@ Passen Sie alle Felder an, um die Aufgabe wie gewünscht zu erstellen.
 
 >[!NOTE]
 >
->Das Feld &quot;Status&quot;, das für die Aufgabe in der Flow-Aktion angegeben ist, aktualisiert das Feld: &quot;Status Reason&quot;in [!DNL Microsoft].
+>Das Feld „Status“, das für die Aufgabe in der Flussaktion angegeben ist, aktualisiert das Feld „Statusgrund“ in [!DNL Microsoft].
 
 >[!TIP]
 >
->Sie können `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` und `{{system.tokens}}` im **[!UICONTROL Betreff]** und in **[!UICONTROL Beschreibung]** verwenden. Weitere Informationen finden Sie unter [Token für Flussschritte](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"} .
+>Sie können `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` und `{{system.tokens}}` in den **[!UICONTROL Betreff]** und **[!UICONTROL Beschreibung]**. Weitere [ finden Sie unter ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"} für Flussschritte .

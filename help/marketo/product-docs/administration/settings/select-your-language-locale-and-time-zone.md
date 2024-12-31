@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359904
-description: Sprache, Gebietsschema und Zeitzone auswählen - Marketo Docs - Produktdokumentation
+description: Sprache, Gebietsschema und Zeitzone auswählen - Marketo-Dokumente - Produktdokumentation
 title: Sprache, Gebietsschema und Zeitzone auswählen
 exl-id: d11f376f-618c-4fa8-a6b5-e11d29e8d728
 feature: Administration
@@ -13,11 +13,11 @@ ht-degree: 4%
 
 # Sprache, Gebietsschema und Zeitzone auswählen {#select-your-language-locale-and-time-zone}
 
-Englisch nicht deine Muttersprache? Keine Sorge! Wir haben dich bedeckt. Hier erfahren Sie, wie Sie die Sprache, das Gebietsschema und die Zeitzone Ihres Marketo Engage-Abonnements ändern.
+Englisch ist nicht Ihre Muttersprache? Keine Sorge, wir haben dich im Griff. So ändern Sie die Sprache, das Gebietsschema und die Zeitzone Ihres Marketo Engage-Abonnements.
 
 >[!IMPORTANT]
 >
->Wenn Ihr Marketo Engage-Abonnement auf [Marketo mit Adobe Identity](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} migriert wurde, gilt für Sie nur die [Zeitzone](#change-your-time-zone) in diesem Artikel. Um Ihre Sprache und/oder Ihr Gebietsschema zu ändern, müssen Sie auf diese Einstellungen in Ihrem [Adobe-Kontoprofil](https://account.adobe.com/profile){target="_blank"} zugreifen.
+>Wenn Ihr Marketo Engage-Abonnement auf [Marketo mit Adobe Identity](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} migriert wurde, gilt nur [Zeitzone](#change-your-time-zone) in diesem Artikel für Sie. Um Ihre Sprache und/oder Ihr Gebietsschema zu ändern, müssen diese Einstellungen in Ihrem [Adobe-Kontoprofil aufgerufen werden](https://account.adobe.com/profile){target="_blank"}.
 
 ## Unterstützte Sprachen {#supported-languages}
 
@@ -28,11 +28,11 @@ Englisch nicht deine Muttersprache? Keine Sorge! Wir haben dich bedeckt. Hier er
 * Portugiesisch
 * Spanisch
 
-## Sprache, Gebietsschema und Zeitzone ändern {#change-user-language-locale-and-time-zone}
+## Benutzersprache, Gebietsschema und Zeitzone ändern {#change-user-language-locale-and-time-zone}
 
 Führen Sie diese Schritte aus, um zum richtigen Bereich zu gelangen, und wählen Sie dann die Einstellung aus, die Sie ändern möchten.
 
-1. Wechseln Sie zum Bereich **[!UICONTROL Admin]** .
+1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
 
    ![](assets/select-your-language-locale-and-time-zone-1.png)
 
@@ -40,36 +40,36 @@ Führen Sie diese Schritte aus, um zum richtigen Bereich zu gelangen, und wähle
 
    ![](assets/select-your-language-locale-and-time-zone-2.png)
 
-1. Klicken Sie unter &quot;Mein Konto&quot;auf **[!UICONTROL Standorteinstellungen bearbeiten]**.
+1. Klicken Sie unter Mein Konto auf **[!UICONTROL Standorteinstellungen bearbeiten]**.
 
    ![](assets/select-your-language-locale-and-time-zone-3.png)
 
-### Sprache ändern {#change-your-language}
+### Ändern der Sprache {#change-your-language}
 
-1. Klicken Sie auf das Dropdown-Menü **[!UICONTROL Sprache]** und wählen Sie die Sprache aus.
+1. Klicken Sie auf **[!UICONTROL Sprache]** und wählen Sie aus.
 
    ![](assets/select-your-language-locale-and-time-zone-4.png)
 
    >[!TIP]
    >
-   >Sie haben auch die Möglichkeit, nur Ihre Sprache zu ändern, indem Sie oben auf der Anmeldeseite auf das Dropdown-Menü Sprache klicken.
+   >Sie haben auch die Möglichkeit, nur Ihre Sprache zu ändern, indem Sie auf die Dropdown-Liste Sprache oben auf der Anmeldeseite klicken.
 
-### Gebietsschema ändern {#change-your-locale}
+### Ändern des Gebietsschemas {#change-your-locale}
 
-1. Klicken Sie auf das Dropdown-Menü **[!UICONTROL Gebietsschema]** und wählen Sie aus.
+1. Klicken Sie auf **[!UICONTROL Gebietsschema]** und wählen Sie aus.
 
    ![](assets/select-your-language-locale-and-time-zone-5.png)
 
 ### Zeitzone ändern {#change-your-time-zone}
 
-1. Klicken Sie auf das Dropdown-Menü **[!UICONTROL Zeitzone]** und wählen Sie Ihre Zeitzone aus.
+1. Klicken Sie auf **[!UICONTROL Zeitzone]** und wählen Sie aus.
 
    ![](assets/select-your-language-locale-and-time-zone-6.png)
 
 ## Speichern Sie. {#save}
 
-1. Klicken Sie nach dem Ändern der gewünschten Einstellungen einfach auf **[!UICONTROL Speichern]**.
+1. Klicken Sie nach der Änderung der gewünschten Einstellungen einfach auf **[!UICONTROL Speichern]**.
 
    ![](assets/select-your-language-locale-and-time-zone-7.png)
 
-Das ist alles! Ihr Browser wird aktualisiert und Sie sollten die Änderungen sehen.
+Das ist alles! Ihr Browser wird aktualisiert, und die Änderungen sollten angezeigt werden.

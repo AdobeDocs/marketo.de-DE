@@ -1,5 +1,5 @@
 ---
-description: TS-YYYY-MM-DD-Tradeshow-Programm - Marketo Docs - Produktdokumentation
+description: TS-YYYY-MM-DD-Tradeshow-Programm - Marketo-Dokumentation
 title: TS-YYYY-MM-DD-Tradeshow-Programm
 feature: Programs
 exl-id: 39ef8d6e-392b-456e-a925-b1f6c2cb81d8
@@ -12,9 +12,9 @@ ht-degree: 15%
 
 # TS-YYYY-MM-DD-Tradeshow-Programm {#ts-yyyy-mm-dd-tradeshow-program}
 
-Dies ist ein Beispiel für ein Messeprogramm mit Einladungs- und Follow-up-E-Mails unter Verwendung eines Marketo Engage Event Program.
+Dies ist ein Beispiel für ein Messeprogramm mit Einladungen und Follow-up-E-Mails unter Verwendung eines Marketo Engage-Veranstaltungsprogramms.
 
-Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Programms an das Adobe-Account-Team oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} .
+Wenden Sie sich für weitere Strategieunterstützung oder Hilfe bei der Anpassung eines Programms an das Adobe-Account-Team oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Kanal-Zusammenfassung {#channel-summary}
 
@@ -22,25 +22,25 @@ Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Prog
  <tbody> 
   <tr> 
    <th>Kanal</th> 
-   <th>Status der Mitgliedschaft</th>
+   <th>Mitgliedschaftsstatus</th>
    <th>Analytics Behavior</th>
    <th>Programmtyp</th>
   </tr> 
   <tr> 
    <td>Veranstaltung</td> 
-   <td>01 - Eingeladen 
-   <br/>02-Waitlisted
-   <br/>03-Registered
+   <td>01-Invited 
+   <br/>02-waitlisted
+   <br/>03-registriert
    <br/>04-Besuchter Stand
-   <br/>05-Interagiert bei Sendung - Erfolg
-   <br/>06-Interagiert bei Beitragsshow - Erfolg</td>
+   <br/>05-Engaged auf der Messe - Erfolg
+   <br/>06-Engaged auf der Post Show - Erfolg</td>
    <td>Einschließlich</td>
    <td>Veranstaltung</td>
   </tr>
  </tbody> 
 </table>
 
-## Das Programm enthält die folgende Assets {#program-contains-the-following-assets}
+## Programm enthält die folgenden Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -52,7 +52,7 @@ Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Prog
   <tr> 
    <td>E-Mail</td> 
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Schnellstart-E-Mail-Vorlage</a></td>
-   <td>01-Email-Vielen Dank</td>
+   <td>01-email-thank you</td>
   </tr>
    <tr> 
    <td>E-Mail</td> 
@@ -73,7 +73,7 @@ Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Prog
   <tr> 
    <td>Intelligente Kampagne</td> 
    <td> </td>
-   <td>00 - Akquiseprogramm erfassen</td>
+   <td>00 - Erfassungsprogramm</td>
   </tr>
   <tr> 
    <td>Intelligente Kampagne</td> 
@@ -83,23 +83,23 @@ Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Prog
    <tr> 
    <td>Intelligente Kampagne</td> 
    <td> </td>
-   <td>02 - Folgenachrichten senden</td>
+   <td>02 - Senden von Folge-E-Mails</td>
   </tr>
    <tr> 
    <td>Intelligente Kampagne</td> 
    <td> </td>
-   <td>03 - Interagiert durch Follow-up-E-Mail (Erfolg)</td>
+   <td>03 - Interagiert mit Follow-up-E-Mail (Erfolg)</td>
   </tr>
   <tr> 
    <td>Ordner</td> 
    <td> </td>
-   <td>Assets - Host alle Kreativ-Assets 
+   <td>Assets - enthält alle Kreativ-Assets 
 <br/>(Unterordner für E-Mail und Landingpages)</td>
   </tr>
   <tr> 
    <td>Ordner</td> 
    <td> </td>
-   <td>Kampagnen - Houses all Smart Campaigns</td>
+   <td>Kampagnen - Alle intelligenten Kampagnen werden gespeichert</td>
   </tr>
   <tr> 
    <td>Ordner</td> 
@@ -111,7 +111,7 @@ Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Prog
 
 ![](assets/ts-yyyy-mm-dd-tradeshow-program-1.png)
 
-## My Tokens Include {#my-tokens-included}
+## Meine Token enthalten {#my-tokens-included}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -123,7 +123,7 @@ Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Prog
   <tr> 
    <td>Kalenderdatei</td> 
    <td><code>{{my.AddToCalendar}}</code></td>
-   <td>Doppelklicken Sie auf Details</td>
+   <td>Für Details doppelklicken</td>
   </tr>
   <tr> 
    <td>Text</td> 
@@ -178,19 +178,19 @@ Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Prog
  </tbody> 
 </table>
 
-## Konfliktregeln {#conflict-rules}
+## Kollisionsregeln {#conflict-rules}
 
 * **Programm-Tags**
-   * Erstellen von Tags in diesem Abonnement - _Empfohlen_
+   * Tags in diesem Abonnement erstellen - _Empfohlen_
    * Ignorieren
 
-* **Vorlage für Einstiegsseiten mit demselben Namen**
+* **Landingpage-Vorlage mit demselben Namen**
    * Originalvorlage kopieren
-   * Verwenden Sie die Zielvorlage - _Empfohlen_
+   * Zielvorlage verwenden - _Empfohlen_
 
 * **Bilder mit demselben Namen**
    * Beide Dateien beibehalten
-   * Ersetzen des Elements in diesem Abonnement - _Empfohlen_
+   * Element in diesem Abonnement ersetzen - _Empfohlen_
 
 * **E-Mail-Vorlagen mit demselben Namen**
    * Beide Vorlagen beibehalten
@@ -198,21 +198,21 @@ Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Prog
 
 ## Bewährte Methoden {#best-practices}
 
-* Verschieben Sie das Formular nach dem Import des Webinarprogramms von einem lokalen Asset in ein globales Asset in Design Studio.
-   * Die Verringerung der Anzahl von Formularen und die Verwendung von mehr globalen Assets aus Design Studio ermöglichen eine größere Skalierbarkeit in der Programmentwicklung und Verwaltungsführung. Es bietet außerdem Flexibilität bei regelmäßigen Aktualisierungen der Kompatibilität für Felder, Opt-in-Sprache usw.
+* Verschieben Sie das Formular nach dem Import des Webinar-Programms von einem lokalen Asset in ein globales Asset im Design Studio.
+   * Das Verringern der Anzahl von Formularen und die Verwendung von mehr globalen Assets aus dem Design Studio ermöglicht mehr Skalierbarkeit in Ihrem Programmdesign und der administrativen Governance. Außerdem bietet es Flexibilität bei regelmäßigen Compliance-Aktualisierungen für Felder, Opt-in-Sprache usw.
 
-* Aktualisieren Sie die Vorlagen in Ihrem importierten Programm, um die derzeit verwendeten Vorlagen zu verwenden, oder aktualisieren Sie die neu importierte Vorlage entsprechend Ihrer Marke, indem Sie einen Ausschnitt oder Ihre entsprechenden Logos-/Fußzeileninformationen hinzufügen.
+* Erwägen Sie, die Vorlagen in Ihrem importierten Programm zu aktualisieren, um die aktuellen Markenvorlagen zu verwenden, oder aktualisieren Sie die neu importierte Vorlage, um Ihre Marke widerzuspiegeln, indem Sie einen Ausschnitt oder Ihre entsprechenden Logo-/Fußzeileninformationen hinzufügen.
 
-* Erwägen Sie, die Benennungsregel dieses Programmbeispiels zu aktualisieren, um sie an Ihre Benennungsregel anzupassen.
+* Erwägen Sie, die Namenskonvention dieses Programmbeispiels zu aktualisieren, um sie an Ihre Namenskonvention anzupassen.
 
 >[!NOTE]
 >
->Denken Sie daran, die &quot;My Token Values&quot;-Werte in der Programmvorlage und jedes Mal, wenn Sie das Programm verwenden, nach Bedarf zu aktualisieren.
+>Denken Sie daran, die Werte für Mein Token in der Programmvorlage und jedes Mal, wenn Sie das Programm verwenden, nach Bedarf zu aktualisieren.
 
 >[!TIP]
 >
->Vergessen Sie nicht, die Kampagne &quot;03 - Interagiert mit Folgenachrichten (Programm-Erfolg)&quot; zu aktivieren, um den Erfolg zu verfolgen! Führen Sie dies _vor_ aus, wenn Ihre E-Mails gesendet werden.
+>Vergessen Sie nicht, die Kampagne „03 - Interagiert von Folgenachricht (Programmerfolg)“ zu aktivieren, um den Erfolg zu verfolgen! Tun Sie dies _vor_ wenn Ihre E-Mails gesendet werden.
 
 >[!IMPORTANT]
 >
->Meine Token, die auf eine URL verweisen, können http:// oder https:// nicht enthalten. Andernfalls funktioniert der Link im Asset nicht ordnungsgemäß.
+>Meine Token, die auf eine URL verweisen, dürfen die URL http:// oder https:// nicht enthalten. Andernfalls funktioniert der Link innerhalb des Assets nicht ordnungsgemäß.

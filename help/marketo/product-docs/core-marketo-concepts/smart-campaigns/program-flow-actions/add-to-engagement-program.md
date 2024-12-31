@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1147011
-description: Hinzufügen zum Interaktionsprogramm - Marketo-Dokumente - Produktdokumentation
+description: Zum Interaktionsprogramm hinzufügen - Marketo-Dokumente - Produktdokumentation
 title: Zu Engagement-Programm hinzufügen
 exl-id: 67b8ddaa-2f00-4702-a10d-0b7c896877a1
 feature: Smart Campaigns
@@ -13,7 +13,7 @@ ht-degree: 11%
 
 # Zu Engagement-Programm hinzufügen {#add-to-engagement-program}
 
-Die Smart-Kampagne, die Sie mit diesem Flussschritt erstellen, ist das Gateway zu Ihrem Interaktionsprogramm.
+Die intelligente Kampagne, die Sie mit diesem Flussschritt erstellen, ist das Tor zu Ihrem Interaktionsprogramm.
 
 ![](assets/add-to-engagement-program-1.png)
 
@@ -21,7 +21,7 @@ Die Smart-Kampagne, die Sie mit diesem Flussschritt erstellen, ist das Gateway z
 
    ![](assets/add-to-engagement-program-2.png)
 
-1. Wählen Sie den Stream aus, in dem die Personen platziert werden sollen.
+1. Wählen Sie den Stream aus, in dem Sie die Personen platzieren möchten.
 
    ![](assets/add-to-engagement-program-3.png)
 

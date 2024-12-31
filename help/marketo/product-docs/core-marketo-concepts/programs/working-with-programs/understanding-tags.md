@@ -13,9 +13,9 @@ ht-degree: 3%
 
 # Grundlegendes zu Tags {#understanding-tags}
 
-Sie wissen inzwischen wahrscheinlich, dass Programme wie Bausteine im Marketo Engage sind. Die Verwendung von Tags und Kanälen hilft Ihnen beim Filtern von Daten zu Berichtszwecken.
+Sie wissen wahrscheinlich mittlerweile, dass Programme wie Bausteine im Marketo Engage sind. Die Verwendung von Tags und Kanälen hilft Ihnen beim Filtern von Daten zu Berichtszwecken.
 
-Tags dienen zur Beschreibung von Programmen. Sie können so viele erstellen, wie Sie benötigen, mit jeweils eindeutigen Werten. Kanäle identifizieren den Bereitstellungsmechanismus in einem Programm, z. B. Webinar, Sponsoring oder Online-Anzeige.
+Tags werden verwendet, um Programme zu beschreiben. Sie können beliebig viele davon mit jeweils eindeutigen Werten erstellen. Die Kanäle identifizieren den Bereitstellungsmechanismus in einem Programm, z. B. Webinar, Sponsoring oder Online-Anzeige.
 
 ## Tag-Typ {#tag-type}
 
@@ -23,19 +23,19 @@ Tag-Typen identifizieren die Art von Informationen, nach denen Sie sortieren mö
 
 >[!TIP]
 >
->Wenden Sie sich an Ihren Marketo-Administrator, wenn Sie [benutzerdefinierte Tags](/help/marketo/product-docs/administration/tags/create-custom-tags.md){target="_blank"} erstellen möchten.
+>Wenden Sie sich an Ihren Marketo-Administrator, wenn Sie &quot;[ Tags“ erstellen ](/help/marketo/product-docs/administration/tags/create-custom-tags.md){target="_blank"}.
 
 >[!NOTE]
 >
 >**Beispiel**
 >
->* Tag-Typ = Programmeigentümer
+>* Tag-Typ = Programm-Inhaber
 
 ![](assets/image2014-9-17-15-3a12-3a46.png)
 
 ## Tag-Wert {#tag-value}
 
-Jeder Tag-Typ verfügt über Werte, aus denen Sie auswählen können.
+Jeder Tag-Typ verfügt über Werte zur Auswahl.
 
 >[!NOTE]
 >
@@ -47,15 +47,15 @@ Jeder Tag-Typ verfügt über Werte, aus denen Sie auswählen können.
 
 ## Kanal {#channel}
 
-Kanäle werden verwendet, um Berichte darüber zu erstellen, wie sich Ihre [Mitglieder](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"} durch Ihr Programm bewegt haben. Jeder Kanal verfügt über eine Reihe von Fortschrittsstatus und einen Status, der auf &quot;gleicher Erfolg&quot;festgelegt ist.
+Kanäle werden verwendet, um zu berichten, wie Ihre [Mitglieder](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"} Ihr Programm durchlaufen haben. Jeder Kanal verfügt über eine Reihe von Fortschrittsstatus und einen Status, der auf „Gleicher Erfolg“ eingestellt ist.
 
 >[!NOTE]
 >
 >**Beispiel**
 >
 >* Kanal = Roadshow
->* Progressionsstatus = Eingeladen, Registriert, Angewendet, Keine Anzeige
->* Erfolg = Teilnehmer
+>* Fortschrittsstatus = Eingeladen, Registriert, Teilgenommen, Nicht angezeigt
+>* Erfolg = Teilgenommen
 
 ![](assets/image2015-2-5-16-3a57-3a59.png)
 

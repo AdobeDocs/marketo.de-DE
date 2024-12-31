@@ -1,47 +1,47 @@
 ---
 unique-page-id: 10095453
-description: Bearbeiten und Löschen von benutzerdefinierten Marketo-Objektfeldern - Marketo Docs - Produktdokumentation
+description: Bearbeiten und Löschen von benutzerdefinierten Marketo-Objektfeldern - Marketo-Dokumente - Produktdokumentation
 title: Benutzerdefinierte Marketo-Objektfelder bearbeiten und löschen
 exl-id: 42fb7a24-0669-440b-a15e-3b8f0f4c5105
 feature: Custom Objects
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '130'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 # Benutzerdefinierte Marketo-Objektfelder bearbeiten und löschen {#edit-and-delete-marketo-custom-object-fields}
 
-## Feld bearbeiten {#edit-a-field}
+## Bearbeiten eines Felds {#edit-a-field}
 
-Manchmal müssen Sie ein Feld bearbeiten, das noch nicht genehmigt wurde.
+Manchmal muss ein Feld bearbeitet werden, das noch nicht genehmigt ist.
 
 1. Klicken Sie auf ein benutzerdefiniertes Objekt und das Feld, das Sie bearbeiten möchten.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-1.png)
 
-1. Klicken Sie auf der Registerkarte [!UICONTROL Felder] auf **[!UICONTROL Feldaktionen]** und **[!UICONTROL Feld bearbeiten]**.
+1. Klicken Sie auf der [!UICONTROL Felder] auf **[!UICONTROL Feldaktionen]** und **[!UICONTROL Feld bearbeiten]**.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-2.png)
 
-1. Nehmen Sie Ihre Änderungen vor und klicken Sie auf **[!UICONTROL Speichern]**.
+1. Nehmen Sie die gewünschten Änderungen vor und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-3.png)
 
    >[!NOTE]
    >
-   >Sie können den API-Namen nicht bearbeiten.
+   >Der API-Name kann nicht bearbeitet werden.
 
-1. Die Änderungen werden in der Feldliste angezeigt.
+1. Die Änderungen werden in der Liste Felder angezeigt.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-4.png)
 
-## Feld löschen {#delete-a-field}
+## Löschen eines Felds {#delete-a-field}
 
 Wenn Sie ein Feld in einem benutzerdefinierten Objekt nicht mehr benötigen, können Sie es löschen.
 
-1. Klicken Sie auf der Registerkarte &quot;Felder&quot;auf **[!UICONTROL Feldaktionen]** und **[!UICONTROL Feld löschen]**.
+1. Klicken Sie auf der Registerkarte Felder auf **[!UICONTROL Feldaktionen]** und **[!UICONTROL Feld löschen]**.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-5.png)
 

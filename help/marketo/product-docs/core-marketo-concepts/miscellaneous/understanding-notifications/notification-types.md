@@ -12,41 +12,41 @@ ht-degree: 5%
 
 # Benachrichtigungstypen {#notification-types}
 
-Es gibt mehrere Benachrichtigungstypen.
+Es gibt verschiedene Arten von Benachrichtigungen.
 
 ## Kampagnenfehler  {#campaign-failure}
 
-Kampagnenfehler melden Fehler in Ihren Smart-Kampagnen.
+Kampagnenfehler informieren Sie über Fehler in Ihren Smart-Kampagnen.
 
 ## CRM-Synch {#crm-sync}
 
-Benachrichtigungen zur CRM-Synchronisierung informieren Sie über kritische Probleme bei der CRM-Synchronisierung, z. B. falsche Berechtigungen oder die Synchronisierung.
+CRM-Synchronisierungsbenachrichtigungen informieren Sie über kritische Probleme, die bei der CRM-Synchronisierung festgestellt wurden, z. B. falsche Berechtigungen oder dass die Synchronisierung unterbrochen wird.
 
 **[!DNL Microsoft Dynamics]**
 
-Dynamics-Benachrichtigungen werden alle 24 Stunden einmal gesendet und enthalten Leads, die in diesem Zeitraum nicht synchronisiert werden konnten. Typische Gründe für einen Fehler sind doppelte Leads (wie oben) oder Fehler bei der Feldlänge.
+Dynamics-Benachrichtigungen werden einmal alle 24 Stunden gesendet und enthalten Leads, die in diesem Zeitraum nicht synchronisiert werden konnten. Typische Fehlerursachen sind doppelte Leads (wie oben) oder Fehler wegen nicht übereinstimmender Feldlängen.
 
 ![](assets/image2016-1-20-11-3a19-3a58.png)
 
 **[!DNL Salesforce]**
 
-Wenn Sie Salesforce verwenden, sehen Synchronisierungsfehlerbenachrichtigungen etwa wie folgt aus: Typische Fehler umfassen abgelaufene Anmeldeinformationen und überschrittene API-Beschränkungen.
+Wenn Sie Salesforce verwenden, sehen die Benachrichtigungen zu Synchronisierungsfehlern etwa wie folgt aus. Typische Fehler sind abgelaufene Anmeldeinformationen und Überschreitungen von API-Limits.
 
 ![](assets/salesforcesyncerror.png)
 
 ## Interaktion {#engagement}
 
-Wenn die Leute in einem Stream erschöpft sind, senden wir eine Benachrichtigung. Die Mitteilung enthält die Anzahl der Personen, die erschöpft sind, sowie einige andere Informationen.
+Wenn ein Stream die volle Popularität erzeugt, senden wir eine Benachrichtigung. Die Benachrichtigung enthält die Anzahl der Personen, die erschöpft wurden, und einige andere Informationen.
 
 ![](assets/image2014-10-14-10-3a57-3a9.png)
 
 ## Facebook {#facebook}
 
-Wenn Sie versuchen, Personen nach Facebook zu senden, ohne die Nutzungsbedingungen zu akzeptieren, oder versuchen, Personen nach dem Entfernen der Marketo-App nach Facebook zu senden.
+Wenn Sie versuchen, Personen an Facebook zu senden, ohne die Nutzungsbedingungen zu akzeptieren, oder wenn Sie versuchen, Personen nach dem Entfernen der Marketo-App an Facebook zu senden.
 
 ## Leerlauf-Auslöser-Kampagnenbereinigung {#idle-trigger-campaign-cleanup}
 
-Deaktivieren Sie ausgelöste Smart-Kampagnen, die keine Aktivität mehr erhalten. Erfahren Sie mehr über die [automatische Bereinigung der Trigger-Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md).
+Ausgelöste Smart-Kampagnen deaktivieren, die keine Aktivität mehr erhalten. Weitere Informationen über [automatische Trigger-Kampagnenbereinigung](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md).
 
 ## LinkedIn {#linkedin}
 
@@ -56,8 +56,8 @@ Wenn Marketo nach drei Versuchen nicht in der Lage ist, eine neue Zielgruppe zu 
 
 ## Webdienste {#web-services}
 
-Sie werden benachrichtigt, wenn Sie Ihr tägliches Kontingent erreichen. Die Quote wird jede Nacht um Mitternacht, Central Time, zurückgesetzt.
+Sie werden benachrichtigt, wenn Sie Ihr tägliches Kontingent erreichen. Das Kontingent wird jede Nacht um Mitternacht, Central Time, zurückgesetzt.
 
 >[!NOTE]
 >
->Einige der Fehlercodes, die Sie möglicherweise erhalten, sind in unserer [Entwicklerdokumentation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/error-codes) beschrieben.
+>Einige der Fehler-Codes, die Sie möglicherweise erhalten, sind in unserer [Entwicklerdokumentation“ ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/error-codes).

@@ -13,30 +13,30 @@ ht-degree: 0%
 
 # Präsentation starten {#launch-a-presentation}
 
-Sobald Sie die Ansichten und die Drehfrequenz für Ihre Präsentation festgelegt haben, ist es Zeit zum Hochfahren!
+Nachdem Sie die Ansichten und die Drehfrequenz für Ihre Präsentation festgelegt haben, ist es Zeit für einen Blastoff!
 
 >[!AVAILABILITY]
 >
 >
->Nicht alle Marketo Engage-Benutzer haben diese Funktion erworben. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).
+>Nicht alle Marketo Engage-Benutzer haben diese Funktion erworben. Weitere Informationen erhalten Sie beim Adobe Account Team (Ihrem Account Manager).
 
 >[!PREREQUISITES]
 >
 >* [Erstellen einer Präsentation](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-presentation.md)
->* [Anpassen einer Präsentation](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/customize-a-presentation.md)
+>* [Präsentation anpassen](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/customize-a-presentation.md)
 
 >[!TIP]
 >
->Stellen Sie sicher, dass Sie _eine Vorschau einer Präsentation anzeigen_ , bevor Sie starten.
+>Stellen Sie sicher _dass Sie „Vorschau einer_&quot; vor dem Start anzeigen.
 
-1. Klicken Sie auf **[!UICONTROL Launch]**.
+1. Klicken Sie **[!UICONTROL Starten]**.
 
    ![](assets/image2015-3-20-14-3a4-3a18.png)
 
-1. Klicken Sie erneut auf **[!UICONTROL Starten]** . Dadurch werden Sie von Marketo abgemeldet, damit die Präsentation sicher angezeigt werden kann.
+1. Klicken **[!UICONTROL noch]** auf „Starten“. Dadurch werden Sie von Marketo abgemeldet, damit die Präsentation sicher angezeigt werden kann.
 
    ![](assets/image2015-3-20-14-3a5-3a34.png)
 
    >[!TIP]
    >
-   >Ihre Präsentation wird in einem neuen Tab erscheinen. Verschieben Sie bei Bedarf die Registerkarte auf einen externen Monitor für die Anzeige und klicken Sie auf **[!UICONTROL Vollbild]**.
+   >Ihre Präsentation wird auf einer neuen Registerkarte gestartet. Verschieben Sie bei Bedarf die Registerkarte zur Anzeige auf einen externen Monitor und klicken Sie auf **[!UICONTROL Vollbild]**.

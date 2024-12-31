@@ -12,21 +12,21 @@ ht-degree: 8%
 
 # Informationen zur Massenexport-API {#bulk-export-api-information}
 
-Erfahren Sie, wie Sie überprüfen können, wie viel [Massenextraktions-API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"}-Kapazität Ihre Marketo Engage-Instanz in den letzten sieben Tagen genutzt hat.
+Erfahren Sie, wie Sie überprüfen können[ wie viel Kapazität (](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"}-API) Ihre Marketo Engage-Instanz in den letzten sieben Tagen in Anspruch genommen hat.
 
 >[!NOTE]
 >
->Wenn Sie zusätzliche Kapazitäten benötigen, wenden Sie sich an Ihren Kundenbetreuer.
+>Wenn Sie zusätzliche Kapazität benötigen, wenden Sie sich bitte an Ihren Kundenbetreuer.
 
-1. Wechseln Sie zum Bereich **[!UICONTROL Admin]** .
+1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
 
    ![](assets/bulk-export-api-information-1.png)
 
-1. Klicken Sie auf **[!UICONTROL Webdienste]**.
+1. Klicken Sie auf **[!UICONTROL Web-Services]**.
 
    ![](assets/bulk-export-api-information-2.png)
 
-1. Scrollen Sie nach unten zur Karte Massen-Export-API-Informationen . Klicken Sie auf die Zahl neben &quot;Letzte 7 Tage&quot;, um die Nutzung pro Tag/API-Benutzer anzuzeigen.
+1. Scrollen Sie nach unten zur Karte Bulk Export API Information . Klicken Sie auf die Zahl neben „Letzte 7 Tage“, um die Nutzung pro Tag/API-Benutzer anzuzeigen.
 
    ![](assets/bulk-export-api-information-3.png)
 
@@ -34,4 +34,4 @@ Erfahren Sie, wie Sie überprüfen können, wie viel [Massenextraktions-API](htt
 
 >[!NOTE]
 >
->Die Zuordnung für Ihre Marketo Engage-Instanz wird täglich um 12:00 Uhr CST zurückgesetzt.
+>Die Zuordnung für Ihre Marketo Engage-Instanz wird täglich um 0:00 Uhr CST zurückgesetzt.

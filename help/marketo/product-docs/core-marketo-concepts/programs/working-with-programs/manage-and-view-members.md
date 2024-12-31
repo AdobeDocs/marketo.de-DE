@@ -13,47 +13,47 @@ ht-degree: 0%
 
 # Mitglieder verwalten und anzeigen {#manage-and-view-members}
 
-Über den Tab Mitglieder können Sie Ihre Mitglieder in Ihren Programmen verwalten und anzeigen.
+Sie können Ihre Mitglieder in Ihren Programmen über die Registerkarte Mitglieder verwalten und anzeigen.
 
 >[!NOTE]
 >
->Tauchen Sie ein in die [Programmmitgliedschaft](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}.
+>Tauchen Sie tiefer in [Programmmitgliedschaft](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"} ein.
 
-## Nach einem Mitglied suchen {#search-for-a-member}
+## Mitglied suchen {#search-for-a-member}
 
-Verwenden Sie unten im Bereich Mitglieder das Suchfeld, um nach Programmmitgliedern nach Name, E-Mail-Adresse, Berufsbezeichnung oder Unternehmen zu suchen.
+Verwenden Sie das Suchfeld unten im Abschnitt Mitglieder , um nach Programmmitgliedern anhand von Name, E-Mail-Adresse, Stellenbezeichnung oder Firma zu suchen.
 
-1. Klicken Sie auf die Registerkarte **[!UICONTROL Mitglieder]** Ihres Programms.
+1. Klicken Sie auf **[!UICONTROL Registerkarte]** Mitglieder“ Ihres Programms.
 
    ![](assets/image2014-10-1-16-3a0-3a29.png)
 
-1. Durchsuchen Sie mithilfe des Suchfelds die Mitgliederliste.
+1. Verwenden Sie das Suchfeld, um die Liste der Mitglieder zu durchsuchen.
 
    ![](assets/image2014-10-1-16-3a7-3a20.png)
 
-## Mitgliederraster exportieren {#export-the-members-grid}
+## Exportieren des Mitgliederrasters {#export-the-members-grid}
 
 Sie können Ihre Mitgliederliste exportieren, indem Sie auf das Excel-Symbol neben dem Suchfeld klicken.
 
 ![](assets/image2014-10-1-16-3a9-3a55.png)
 
-## Spalten im Mitgliederraster verwalten {#manage-columns-in-the-members-grid}
+## Verwalten von Spalten im Mitgliederraster {#manage-columns-in-the-members-grid}
 
-Verschieben Sie Spalten per Drag-and-Drop, um ihre Reihenfolge zu ändern. Die blauen Pfeile zeigen an, wohin die Spalte geht.
+Spalten per Drag-and-Drop verschieben, um ihre Reihenfolge zu ändern. Das blaue Pfeilpaar gibt an, wohin die Spalte gehen soll.
 
 ![](assets/image2014-10-1-16-3a25-3a30.png)
 
-Klicken Sie mit der rechten Maustaste auf die Spaltenüberschrift, um die Sortierung alphabetisch (aufsteigend oder absteigend) durchzuführen.
+Klicken Sie mit der rechten Maustaste auf die Spaltenüberschrift, um eine alphabetische Sortierung auf- oder absteigend vorzunehmen.
 
 ![](assets/image2014-10-1-17-3a3-3a28.png)
 
-## Festlegen, welche Spalten im Raster sichtbar sind {#choose-which-columns-are-visible-in-the-grid}
+## Wählen Sie aus, welche Spalten im Raster sichtbar sind {#choose-which-columns-are-visible-in-the-grid}
 
-1. Klicken Sie auf die Dropdownliste **[!UICONTROL Ansicht]** und wählen Sie **[!UICONTROL Ansicht erstellen]** aus.
+1. Klicken Sie auf **[!UICONTROL Ansicht]** und wählen Sie **[!UICONTROL Ansicht erstellen]** aus.
 
    ![](assets/image2014-10-1-16-3a32-3a43.png)
 
-1. Benennen Sie Ihre benutzerdefinierte Ansicht. Wählen Sie Spaltentitel aus. Klicken Sie auf **[!UICONTROL Hinzufügen]** und **[!UICONTROL Entfernen]** , um Spalten zu verschieben und eine Ansicht zu erstellen.
+1. Benennen Sie Ihre benutzerdefinierte Ansicht. Spaltentitel auswählen. Klicken Sie auf **[!UICONTROL Hinzufügen]** und **[!UICONTROL Entfernen]**, um Spalten zu verschieben und eine Ansicht zu erstellen.
 
    ![](assets/image2014-10-1-16-3a36-3a52.png)
 
@@ -63,7 +63,7 @@ Klicken Sie mit der rechten Maustaste auf die Spaltenüberschrift, um die Sortie
 
 ## Filtern des Mitgliederrasters  {#filter-the-members-grid}
 
-1. Klicken Sie auf das Dropdown-Menü **[!UICONTROL Filter]** und wählen Sie einen Schritt zum Sortieren nach Fortschritt aus.
+1. Klicken Sie auf **[!UICONTROL Filter]** und wählen Sie einen Progressionsschritt aus, nach dem sortiert werden soll.
 
    ![](assets/image2014-10-1-16-3a42-3a4.png)
 
@@ -75,16 +75,16 @@ Sie können den Status Ihrer Personen im Mitgliederraster ändern.
 
    ![](assets/image2014-10-1-16-3a44-3a27.png)
 
-1. Klicken Sie auf die Dropdownliste **[!UICONTROL Status ändern]** und wählen Sie einen Status aus.
+1. Klicken Sie auf **[!UICONTROL Status ändern]** und wählen Sie einen Status aus.
 
    ![](assets/image2014-10-1-16-3a47-3a45.png)
 
-   Das kann einen Moment dauern. Sie werden die folgende Nachricht sehen, wenn alles erledigt ist!
+   Dies kann einen Moment dauern. Wenn alles erledigt ist, sehen Sie die unten stehende Nachricht!
 
    ![](assets/changestatusconfirm.png)
 
-So viele Funktionen, aber sie sind alle ziemlich einfach. Viel Spaß!
+Es gibt so viele Funktionen, aber die sind alle ziemlich unkompliziert. Viel Spaß!
 
 >[!MORELIKETHIS]
 >
->[Erstellen eines Berichts zur Programmleistung](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"}
+>[Erstellen eines Programmleistungsberichts](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"}

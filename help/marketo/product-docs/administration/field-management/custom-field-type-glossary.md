@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2951259
-description: Glossar zu benutzerdefinierten Feldtypen - Marketo-Dokumente - Produktdokumentation
-title: Glossar zum benutzerdefinierten Feldtyp
+description: Glossar für benutzerdefinierten Feldtyp - Marketo-Dokumente - Produktdokumentation
+title: Glossar für benutzerdefinierten Feldtyp
 exl-id: 495d4deb-28f1-4044-98d3-27c20756fe73
 feature: Field Management
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
@@ -11,128 +11,128 @@ ht-degree: 2%
 
 ---
 
-# Glossar zum benutzerdefinierten Feldtyp {#custom-field-type-glossary}
+# Glossar für benutzerdefinierten Feldtyp {#custom-field-type-glossary}
 
-Wenn Sie ein benutzerdefiniertes Feld in Marketo erstellen, haben Sie eine Liste von Typen zur Auswahl.
+Wenn Sie ein benutzerdefiniertes Feld in Marketo erstellen, können Sie aus einer Liste von Typen auswählen.
 
 >[!PREREQUISITES]
 >
->[Benutzerdefiniertes Feld in Marketo erstellen](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
+>[Erstellen eines benutzerdefinierten Felds in Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
 
 >[!TIP]
 >
->Je nach Feldtyp unterscheiden sich der Filter/Trigger [Operatoren](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md).
+>Je nach Feldtyp sind Filter/Trigger [Operatoren](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md) unterschiedlich.
 
 >[!NOTE]
 >
->Die meisten Felder überschreiten nicht die maximale Zeichenanzahl, sondern die maximale Byteanzahl. Daher können wir für jedes Feld keine endgültige Zeichenbegrenzung festlegen. Die Ausnahme ist **String**, der bei 255 Zeichen vorkommt.
+>Die meisten Felder überschreiten nicht die maximale Anzahl an Zeichen, sondern die Anzahl an Bytes. Aus diesem Grund können wir keine endgültige Zeichenbeschränkung für jedes Feld angeben. Die Ausnahme ist **String**, der maximal 255 Zeichen lang ist.
 
 ## Boolesch {#boolean}
 
-**Beispielname:** Ist Kunde - Kennzeichnen Ihrer Personen als Kunden
+**Beispielname:** Ist Kunde - Markieren Sie Ihre Mitarbeiter als Kunden
 
-**Beispielwerte:** True (aktiviert) / False (deaktiviert)
+**Beispielwerte:** true (aktiviert) / false (deaktiviert)
 
 **Operatoren**: Keine
 
 ## Währung {#currency}
 
-**Beispielname:** Budget - Store a number value for a company&#39;s budget
+**Beispielname:** Budget - Speichern eines Zahlenwerts für das Budget einer Firma
 
 **Beispielwerte:** 100
 
-**Operatoren**: ist, ist nicht zwischen, größer als, kleiner als, zumindest höchstens leer, ist nicht leer.
+**Operatoren**: ist, ist nicht, zwischen, größer als, kleiner als, mindestens, ist leer, ist nicht leer
 
 ## Datum {#date}
 
-**Beispielname:** Verlängerungsdatum - Speichern Sie die Verlängerungsdaten Ihrer Kunden.
+**Beispielname:** Verlängerungsdatum - Speichern Sie die Verlängerungsdaten Ihrer Kunden
 
-**Beispielwerte:** 19.8.14
+**Beispielwerte:** 8/19/14
 
-**Operatoren**: ist, ist nicht dazwischen, in der Vergangenheit, in der Vergangenheit, in Zukunft, nachdem, im Zeitrahmen, nachdem, bevor, an oder danach, an oder davor, leer ist, nicht leer ist.
+**Operatoren**: ist, ist nicht, zwischen, in der Vergangenheit, in der Vergangenheit vor, in der Zukunft, in der Zukunft nach, im Zeitrahmen, nach, vor, am oder nach, an oder vor, ist leer, ist nicht leer
 
 ## Datum/Uhrzeit {#datetime}
 
-**Beispielname:** Erstellungsdatum - Speichern Sie das Datum und die Uhrzeit, zu der eine Person erstellt wird
+**Beispielname:** Erstellungsdatum - Speichern Sie Datum und Uhrzeit der Erstellung einer Person
 
-**Beispielwerte:** 19.8.14 2:00
+**Beispielwerte:** 8/19/14 2:00
 
-**Operatoren**: ist, ist nicht dazwischen, in der Vergangenheit, in der Vergangenheit, in Zukunft, nachdem, im Zeitrahmen, nachdem, bevor, an oder danach, an oder davor, leer ist, nicht leer ist.
+**Operatoren**: ist, ist nicht, zwischen, in der Vergangenheit, in der Vergangenheit vor, in der Zukunft, in der Zukunft nach, im Zeitrahmen, nach, vor, am oder nach, an oder vor, ist leer, ist nicht leer
 
 ## E-Mail {#email}
 
-**Beispielname:** Alternative E-Mail - Behalten Sie eine alternative E-Mail-Adresse für Ihre Personen bei (E-Mails können nicht tatsächlich an dieses Feld gesendet werden, z. B. das standardmäßige Feld für die E-Mail-Adresse; diese Adresse ist spezifisch).
+**Beispielname:** Alternative E-Mail - Verwenden Sie eine alternative E-Mail-Adresse für Ihre Mitarbeiter (Sie können tatsächlich keine E-Mails an dieses Feld senden, wie das Feld Standard-E-Mail-Adresse, das speziell ist)
 
 **Beispielwerte:** name@company.com
 
-**Operatoren**: ist, ist nicht, beginnt mit, beginnt nicht mit, enthält, nicht enthält, ist leer, ist nicht leer
+**Operatoren**: is, is not, starts with, not starts with, contains, not contains, is empty, is not empty
 
 ## Gleitkomma {#float}
 
-**Beispielname:** Durchschnittswert des Punkts der Bewertung - Behalten Sie den Durchschnittswert des Punktstands einer Person oder einen anderen numerischen Wert mit Dezimalstellen bei.
+**Beispielname:** Notendurchschnitt - Notendurchschnitt einer Person oder ein anderer numerischer Wert mit Dezimalstellen beibehalten
 
 **Beispielwerte:** 2.47
 
-**Operatoren**: zwischen, größer als, kleiner als, zumindest höchstens leer ist, nicht leer ist
+**Operatoren**: zwischen, größer als, kleiner als, mindestens, ist leer, ist nicht leer
 
 ## Formel {#formula}
 
-**Beispielname:** Aufrufe - Verwenden Sie dieses spezielle Feld in einer [Lösung, um die richtige Anrede](/help/marketo/product-docs/administration/field-management/create-and-use-a-concatenated-string-formula-field.md) basierend auf dem Geschlecht zu erhalten.
+**Beispielname:** Anrede - Verwenden Sie dieses spezielle Feld in einer [Lösung, um die richtige Anrede basierend ](/help/marketo/product-docs/administration/field-management/create-and-use-a-concatenated-string-formula-field.md) Geschlecht zu erhalten
 
-**Beispielwerte:** prüfen die verknüpfte Lösung
+**Beispielwerte:** Überprüfen der verknüpften Lösung
 
-## Ganze Zahl {#integer}
+## Ganzzahl {#integer}
 
-**Beispielname:** Anzahl der Mitarbeiter - speichern Sie einen Zahlenwert, der keine Dezimalstellen erfordert
+**Beispielname:** Anzahl der Mitarbeiter - Speichern Sie einen Zahlenwert, für den keine Dezimalstellen erforderlich sind
 
 **Beispielwerte:** 600
 
-**Operatoren**: ist, ist nicht zwischen, größer als, kleiner als, zumindest höchstens leer, ist nicht leer.
+**Operatoren**: ist, ist nicht, zwischen, größer als, kleiner als, mindestens, ist leer, ist nicht leer
 
 ## Prozent {#percent}
 
-**Beispielname:** Wahrscheinlich zu kaufen - einen Prozentwert speichern (möglicherweise auf CRM-Seite berechnet)
+**Beispielname:** Kaufwahrscheinlich - Speichern eines Prozentwerts (möglicherweise auf CRM-Seite berechnet)
 
-**Beispielwerte:** 85 %
+**Beispielwerte:** 85%
 
-**Operatoren**: ist, ist nicht zwischen, größer als, kleiner als, zumindest höchstens leer, ist nicht leer.
+**Operatoren**: ist, ist nicht, zwischen, größer als, kleiner als, mindestens, ist leer, ist nicht leer
 
 ## Telefon {#phone}
 
-**Beispielname:** Alternatives Telefon - Speichern Sie eine zusätzliche Telefonnummer für Ihre Personen.
+**Beispielname:** Alternative Telefonnummer - Speichern Sie eine zusätzliche Telefonnummer für Ihre Mitarbeiter
 
 **Beispielwert:** 650-555-5555
 
-**Operatoren**: ist, ist nicht, beginnt mit, beginnt nicht mit, enthält, nicht enthält, ist leer, ist nicht leer
+**Operatoren**: is, is not, starts with, not starts with, contains, not contains, is empty, is not empty
 
-## Bewertung {#score}
+## Ergebnis {#score}
 
-**Beispielname:** Verhaltensbewertung/demografische Bewertung - Erstellen Sie mehrere Punktzahlfelder, um verschiedene Attribute zu verfolgen.
+**Beispielname:** Verhaltensbewertung/Demografischer Wert - Erstellen Sie mehrere Bewertungsfelder, um verschiedene Attribute zu verfolgen
 
 **Beispielwert:** 14
 
-**Operatoren**: ist, ist nicht zwischen, größer als, kleiner als, zumindest höchstens leer, ist nicht leer.
+**Operatoren**: ist, ist nicht, zwischen, größer als, kleiner als, mindestens, ist leer, ist nicht leer
 
-## Zeichenfolge {#string}
+## String {#string}
 
-**Beispielname:** Vorname - Speichern eines zusätzlichen Textattributs
+**Beispielname:** Zweiter Vorname - Speichern eines zusätzlichen Textattributs
 
 **Beispielwert:** Rose
 
-**Operatoren**: ist, ist nicht, beginnt mit, beginnt nicht mit, enthält, nicht enthält, ist leer, ist nicht leer
+**Operatoren**: is, is not, starts with, not starts with, contains, not contains, is empty, is not empty
 
 ## Textbereich {#text-area}
 
-**Beispielname:** Kommentare - Fügen Sie ein Kommentarfeld zu Ihren Formularen hinzu, um mehrzeiligen Texteintrag zuzulassen
+**Beispielname:** Kommentare - Fügen Sie Ihren Formularen ein Kommentarfeld hinzu, um die mehrzeilige Texteingabe zu ermöglichen
 
 **Beispielwert:** Dieser Artikel ist fantastisch!
 
-**Operatoren**: ist, ist nicht, beginnt mit, beginnt nicht mit, enthält, nicht enthält, ist leer, ist nicht leer
+**Operatoren**: is, is not, starts with, not starts with, contains, not contains, is empty, is not empty
 
 ## URL {#url}
 
-**Beispielname:** Blog - Erstellen Sie ein Feld zum Speichern von Personen-Blog-URLs
+**Beispielname:** Blog - Erstellen eines Felds zum Speichern von Personen-Blog-URLs
 
 **Beispielwert:** www.myblog.com
 
-**Operatoren**: ist, ist nicht, beginnt mit, beginnt nicht mit, enthält, nicht enthält, ist leer, ist nicht leer
+**Operatoren**: is, is not, starts with, not starts with, contains, not contains, is empty, is not empty

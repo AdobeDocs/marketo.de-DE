@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360293
-description: Umbenennen eines Felds - Marketo Docs - Produktdokumentation
+description: Umbenennen eines Felds - Marketo-Dokumente - Produktdokumentation
 title: Umbenennen eines Felds
 exl-id: 3c9558b6-df08-4687-94ac-61a2f70628a4
 feature: Field Management
@@ -15,34 +15,34 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Sie können ein benutzerdefiniertes Feld in Marketo umbenennen, es gibt jedoch einen einzigen Catch: Sie müssen die gesamte Verwendung im System entfernen, bevor Sie dies tun. Dazu gehören Formulare, Smart-Listen und Smart-Kampagnen.
+>Sie können ein benutzerdefiniertes Feld in Marketo umbenennen, es gibt jedoch einen Haken: Sie müssen zuerst alle Verwendungen im System entfernen. Dazu gehören Formulare, Smart Lists und Smart-Kampagnen.
 
 >[!NOTE]
 >
->**Erforderliche Administratorberechtigungen**
+>**Administratorberechtigungen erforderlich**
 
-1. Wechseln Sie zum Bereich **[!UICONTROL Admin]** .
+1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
 
    ![](assets/rename-a-field-1.png)
 
-1. Klicken Sie auf **[!UICONTROL Feldverwaltung]**.
+1. Klicken Sie **[!UICONTROL Feldverwaltung]**.
 
    ![](assets/rename-a-field-2.png)
 
-1. Suchen und wählen Sie das Feld aus, das Sie umbenennen möchten, und klicken Sie dann auf den Feldnamen auf der Arbeitsfläche.
+1. Suchen Sie das Feld, das Sie umbenennen möchten, wählen Sie es aus und klicken Sie dann auf der Arbeitsfläche auf den Feldnamen.
 
    ![](assets/rename-a-field-3.png)
 
    >[!TIP]
    >
-   >Klicken Sie auf den Link **[!UICONTROL Verwendet von]** , um nach Assets zu suchen, die auf dieses Feld verweisen.
+   >Klicken Sie auf den **[!UICONTROL Verwendet von]**, um Assets zu finden, die auf dieses Feld verweisen.
 
 1. Benennen Sie das Feld um und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/rename-a-field-4.png)
 
-Gut gemacht! Sie wissen jetzt, wie Sie Felder in Marketo umbenennen können.
+Gute Arbeit! Sie wissen jetzt, wie Sie Felder in Marketo umbenennen.
 
 >[!CAUTION]
 >
->Wenn Sie den API-Namen in Salesforce umbenennen, erstellt Marketo ein ganz neues Feld und lässt das alte zurück!
+>Wenn Sie den API-Namen in Salesforce umbenennen, erstellt Marketo ein brandneues Feld und lässt das alte Feld zurück!

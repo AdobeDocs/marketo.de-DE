@@ -1,6 +1,6 @@
 ---
-description: WR-YYYY-MM-Web Request Program - Marketo Docs - Product Documentation
-title: WR-YYYY-MM-Web Request Program
+description: WR-YYYY-MM-Web Request-Programm - Marketo-Dokumente - Produktdokumentation
+title: WR-YYYY-MM-Web-Anfrage-Programm
 feature: Programs
 exl-id: 4acaa2d0-3329-4027-acbd-ae2e0ec6f7c5
 source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
@@ -10,11 +10,11 @@ ht-degree: 13%
 
 ---
 
-# WR-YYYY-MM-Web Request Program {#wr-yyyy-mm-web-request-program}
+# WR-YYYY-MM-Web-Anfrage-Programm {#wr-yyyy-mm-web-request-program}
 
-Dies ist ein Beispielprogramm, das sich ideal für Kontaktanfragen, Anführungsanfragen, Demoanfragen oder Testanfragen mit einem Marketo Engage-Standardprogramm eignet. Kann mit Marketo-Landingpages oder als eingebettetes Formular auf Nicht-Marketo-Landingpages verwendet werden. Bei der Übermittlung des Formulars wird eine Warnhinweis-E-Mail an eine bestimmte Person gesendet.
+Dies ist ein Beispielprogramm, das sich ideal für Formulare für Kontaktanfragen, Angebotsanfragen, Demoanfragen oder Testanfragen mit einem Marketo Engage-Standardprogramm eignet. Kann mit Marketo-Landingpages oder als eingebettetes Formular auf Landingpages verwendet werden, bei denen es sich nicht um Marketo handelt. Bei der Übermittlung eines Formulars wird eine Benachrichtigungs-E-Mail an eine bestimmte Person gesendet.
 
-Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Programms an das Adobe-Account-Team oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} .
+Wenden Sie sich für weitere Strategieunterstützung oder Hilfe bei der Anpassung eines Programms an das Adobe-Account-Team oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Kanal-Zusammenfassung {#channel-summary}
 
@@ -22,7 +22,7 @@ Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Prog
  <tbody> 
   <tr> 
    <th>Kanal</th> 
-   <th>Status der Mitgliedschaft</th>
+   <th>Mitgliedschaftsstatus</th>
    <th>Analytics Behavior</th>
    <th>Programmtyp</th>
   </tr> 
@@ -35,7 +35,7 @@ Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Prog
  </tbody> 
 </table>
 
-## Das Programm enthält die folgende Assets {#program-contains-the-following-assets}
+## Programm enthält die folgenden Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -52,7 +52,7 @@ Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Prog
   <tr> 
    <td>E-Mail</td> 
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Schnellstart-E-Mail-Vorlage</a></td>
-   <td>Alert-WebRequest</td>
+   <td>alert-webRequest</td>
   </tr>
   <tr> 
    <td>Landingpage</td> 
@@ -62,7 +62,7 @@ Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Prog
   <tr> 
    <td>Landingpage</td> 
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Schnellstart-LP-Vorlage</a></td>
-   <td>02 - LP - Vielen Dank</td>
+   <td>02 - LP - Danke</td>
   </tr>
   <tr> 
    <td>Lokaler Bericht</td> 
@@ -72,7 +72,7 @@ Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Prog
    <tr> 
    <td>Intelligente Kampagne</td> 
    <td> </td>
-   <td>Neue Person aus Web-Anforderung</td>
+   <td>Neue Person aus Web-Anfrage</td>
   </tr>
    <tr> 
    <td>Intelligente Kampagne</td> 
@@ -82,13 +82,13 @@ Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Prog
   <tr> 
    <td>Ordner</td> 
    <td> </td>
-   <td>Assets - Host alle Kreativ-Assets 
+   <td>Assets - enthält alle Kreativ-Assets 
 <br/>(Unterordner für Warnhinweise und Landingpages)</td>
   </tr>
   <tr> 
    <td>Ordner</td> 
    <td> </td>
-   <td>Kampagnen - Houses all Smart Campaigns</td>
+   <td>Kampagnen - Alle intelligenten Kampagnen werden gespeichert</td>
   </tr>
   <tr> 
    <td>Ordner</td> 
@@ -100,7 +100,7 @@ Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Prog
 
 ![](assets/wr-yyyy-mm-web-request-program-1.png)
 
-## My Tokens Include {#my-tokens-included}
+## Meine Token enthalten {#my-tokens-included}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -132,24 +132,24 @@ Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Prog
   <tr> 
    <td>Text</td> 
    <td><code>{{my.PageURL-ThankYou}}</code></td>
-   <td>My.Vielen DankYouPageURL?ohne http://</td>
+   <td>My.DankePageURL?ohne die http://</td>
   </tr>
  </tbody> 
 </table>
 
-## Konfliktregeln {#conflict-rules}
+## Kollisionsregeln {#conflict-rules}
 
 * **Programm-Tags**
-   * Erstellen von Tags in diesem Abonnement - _Empfohlen_
+   * Tags in diesem Abonnement erstellen - _Empfohlen_
    * Ignorieren
 
-* **Vorlage für Einstiegsseiten mit demselben Namen**
+* **Landingpage-Vorlage mit demselben Namen**
    * Originalvorlage kopieren
-   * Verwenden Sie die Zielvorlage - _Empfohlen_
+   * Zielvorlage verwenden - _Empfohlen_
 
 * **Bilder mit demselben Namen**
    * Beide Dateien beibehalten
-   * Ersetzen des Elements in diesem Abonnement - _Empfohlen_
+   * Element in diesem Abonnement ersetzen - _Empfohlen_
 
 * **E-Mail-Vorlagen mit demselben Namen**
    * Beide Vorlagen beibehalten
@@ -157,17 +157,17 @@ Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Prog
 
 ## Bewährte Methoden {#best-practices}
 
-* Verschieben Sie das Formular nach dem Import des Webinarprogramms von einem lokalen Asset in ein globales Asset in Design Studio.
-   * Die Verringerung der Anzahl von Formularen und die Verwendung von mehr globalen Assets aus Design Studio ermöglichen eine größere Skalierbarkeit in der Programmentwicklung und Verwaltungsführung. Es bietet außerdem Flexibilität für regelmäßige Aktualisierungen der Kompatibilität für Felder, Opt-in-Sprache usw.
+* Verschieben Sie das Formular nach dem Import des Webinar-Programms von einem lokalen Asset in ein globales Asset im Design Studio.
+   * Das Verringern der Anzahl von Formularen und die Verwendung von mehr globalen Assets aus dem Design Studio ermöglicht mehr Skalierbarkeit in Ihrem Programmdesign und der administrativen Governance. Es bietet außerdem Flexibilität für regelmäßige Compliance-Aktualisierungen für Felder, Opt-in-Sprache usw.
 
-* Aktualisieren Sie die Vorlagen in Ihrem importierten Programm, um die derzeit verwendeten Vorlagen zu verwenden, oder aktualisieren Sie die neu importierte Vorlage entsprechend Ihrer Marke, indem Sie einen Ausschnitt oder Ihre entsprechenden Logos-/Fußzeileninformationen hinzufügen.
+* Erwägen Sie, die Vorlagen in Ihrem importierten Programm zu aktualisieren, um die aktuellen Markenvorlagen zu verwenden, oder aktualisieren Sie die neu importierte Vorlage, um Ihre Marke widerzuspiegeln, indem Sie einen Ausschnitt oder Ihre entsprechenden Logo-/Fußzeileninformationen hinzufügen.
 
-* Erwägen Sie, die Benennungsregel dieses Programmbeispiels zu aktualisieren, um sie an Ihre Benennungskonvention anzupassen.
+* Erwägen Sie, die Namenskonvention dieses Programmbeispiels zu aktualisieren, um sie an Ihre Namenskonvention anzupassen.
 
 >[!NOTE]
 >
->Denken Sie daran, die &quot;My Token Values&quot;-Werte in der Programmvorlage und jedes Mal, wenn Sie das Programm verwenden, nach Bedarf zu aktualisieren.
+>Denken Sie daran, die Werte für Mein Token in der Programmvorlage und jedes Mal, wenn Sie das Programm verwenden, nach Bedarf zu aktualisieren.
 
 >[!IMPORTANT]
 >
->Meine Token, die auf eine URL verweisen, können http:// oder https:// nicht enthalten. Andernfalls funktioniert der Link im Asset nicht ordnungsgemäß.
+>Meine Token, die auf eine URL verweisen, dürfen die URL http:// oder https:// nicht enthalten. Andernfalls funktioniert der Link innerhalb des Assets nicht ordnungsgemäß.

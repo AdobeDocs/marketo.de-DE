@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7504060
-description: Präsentation löschen - Marketo-Dokumente - Produktdokumentation
+description: Löschen einer Präsentation - Marketo-Dokumente - Produktdokumentation
 title: Löschen einer Präsentation
 exl-id: 027d6d68-c2b6-4424-bc69-77d047d62359
 feature: Marketing Calendar
@@ -13,16 +13,16 @@ ht-degree: 0%
 
 # Löschen einer Präsentation {#delete-a-presentation}
 
-Manchmal kann man zu viel von einer guten Sache haben. Löschen Sie alte Präsentationen, um Platz für neue zu machen!
+Manchmal kann man zu viel des Guten haben. Löschen Sie alte Präsentationen, um Platz für neue zu schaffen!
 
-1. Wählen Sie eine Präsentation aus.
+1. Präsentation auswählen.
 
    ![](assets/image2015-3-26-12-3a26-3a41.png)
 
-1. Klicken Sie mit der rechten Maustaste und wählen Sie **[!UICONTROL Löschen]** aus.
+1. Klicken Sie mit der rechten Maustaste und wählen Sie **[!UICONTROL Löschen]**.
 
    ![](assets/image2015-3-26-12-3a26-3a51.png)
 
-1. Klicken Sie zur Bestätigung auf **[!UICONTROL Löschen]** .
+1. Klicken Sie **[!UICONTROL Löschen]** zur Bestätigung.
 
    ![](assets/image2015-3-20-16-3a21-3a10.png)

@@ -1,6 +1,6 @@
 ---
-description: EM-JJJJ-MM-TT-Einzelversand einer E-Mail - Marketo-Dokumente - Produktdokumentation
-title: EM-JJJJ-MM-TT-Einzelner E-Mail-Versand
+description: EM-JJJJ-MM-TT-E-Mail senden - Marketo-Dokumente - Produktdokumentation
+title: EM-JJJJ-MM-TT-E-Mail senden
 feature: Programs
 exl-id: 58782d4c-658b-42cd-9ca3-fa53c7476e48
 source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
@@ -10,11 +10,11 @@ ht-degree: 16%
 
 ---
 
-# EM-JJJJ-MM-TT-Einzelner E-Mail-Versand {#em-yyyy-mm-dd-single-email-send}
+# EM-JJJJ-MM-TT-E-Mail senden {#em-yyyy-mm-dd-single-email-send}
 
-In diesem Beispiel wird eine E-Mail mit einem Marketo Engage-E-Mail-Programm gesendet. Die E-Mail kann einen A/B-Test enthalten oder nicht.
+In diesem Beispiel wird eine einzige E-Mail mit einem Marketo Engage-E-Mail-Programm gesendet. Die E-Mail kann einen A/B-Test enthalten oder nicht.
 
-Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Programms an das Adobe-Account-Team oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} .
+Wenden Sie sich für weitere Strategieunterstützung oder Hilfe bei der Anpassung eines Programms an das Adobe-Account-Team oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Kanal-Zusammenfassung {#channel-summary}
 
@@ -22,21 +22,21 @@ Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Prog
  <tbody> 
   <tr> 
    <th>Kanal</th> 
-   <th>Status der Mitgliedschaft</th>
+   <th>Mitgliedschaftsstatus</th>
    <th>Analytics Behavior</th>
    <th>Programmtyp</th>
   </tr> 
   <tr> 
    <td>E-Mail</td> 
    <td>01-Mitglied 
-<br/>02-Engaged-Success</td>
+<br/>02-ENGAGED-SUCCESS</td>
    <td>Einschließlich</td>
    <td>E-Mail</td>
   </tr>
  </tbody> 
 </table>
 
-## Das Programm enthält die folgende Assets {#program-contains-the-following-assets}
+## Programm enthält die folgenden Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -48,7 +48,7 @@ Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Prog
   <tr> 
    <td>E-Mail</td> 
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Schnellstart-E-Mail-Vorlage</a></td>
-   <td>01-Email-Vielen Dank</td>
+   <td>01-email-thank you</td>
   </tr>
   <tr> 
    <td>Lokaler Bericht</td> 
@@ -64,18 +64,18 @@ Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Prog
   <tr> 
    <td>Intelligente Kampagne</td> 
    <td> </td>
-   <td>01-Engagiert (Programmerfolg)</td>
+   <td>01-Engaged (Programm-Erfolg)</td>
   </tr>
   <tr> 
    <td>Ordner</td> 
    <td> </td>
-   <td>Assets - Host alle Kreativ-Assets 
+   <td>Assets - enthält alle Kreativ-Assets 
 <br/>(Unterordner für E-Mail und Landingpages)  </td>
   </tr>
   <tr> 
    <td>Ordner</td> 
    <td> </td>
-   <td>Kampagnen - Houses all Smart Campaigns</td>
+   <td>Kampagnen - Alle intelligenten Kampagnen werden gespeichert</td>
   </tr>
   <tr> 
    <td>Ordner</td> 
@@ -87,7 +87,7 @@ Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Prog
 
 ![](assets/em-yyyy-mm-dd-single-email-send-1.png)
 
-## My Tokens Include {#my-tokens-included}
+## Meine Token enthalten {#my-tokens-included}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -114,19 +114,19 @@ Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Prog
  </tbody> 
 </table>
 
-## Konfliktregeln {#conflict-rules}
+## Kollisionsregeln {#conflict-rules}
 
 * **Programm-Tags**
-   * Erstellen von Tags in diesem Abonnement - _Empfohlen_
+   * Tags in diesem Abonnement erstellen - _Empfohlen_
    * Ignorieren
 
-* **Vorlage für Einstiegsseiten mit demselben Namen**
+* **Landingpage-Vorlage mit demselben Namen**
    * Originalvorlage kopieren
-   * Verwenden Sie die Zielvorlage - _Empfohlen_
+   * Zielvorlage verwenden - _Empfohlen_
 
 * **Bilder mit demselben Namen**
    * Beide Dateien beibehalten
-   * Ersetzen des Elements in diesem Abonnement - _Empfohlen_
+   * Element in diesem Abonnement ersetzen - _Empfohlen_
 
 * **E-Mail-Vorlagen mit demselben Namen**
    * Beide Vorlagen beibehalten
@@ -134,14 +134,14 @@ Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Prog
 
 ## Bewährte Methoden {#best-practices}
 
-* Aktualisieren Sie die Vorlagen in Ihrem importierten Programm, um die derzeit verwendeten Vorlagen zu verwenden, oder aktualisieren Sie die neu importierte Vorlage entsprechend Ihrer Marke, indem Sie einen Ausschnitt oder Ihre entsprechenden Logos-/Fußzeileninformationen hinzufügen.
+* Erwägen Sie, die Vorlagen in Ihrem importierten Programm zu aktualisieren, um die aktuellen Markenvorlagen zu verwenden, oder aktualisieren Sie die neu importierte Vorlage, um Ihre Marke widerzuspiegeln, indem Sie einen Ausschnitt oder Ihre entsprechenden Logo-/Fußzeileninformationen hinzufügen.
 
-* Erwägen Sie, die Benennungsregel dieses Programmbeispiels zu aktualisieren, um sie an Ihre Benennungsregel anzupassen.
+* Erwägen Sie, die Namenskonvention dieses Programmbeispiels zu aktualisieren, um sie an Ihre Namenskonvention anzupassen.
 
 >[!NOTE]
 >
->Denken Sie daran, die &quot;My Token Values&quot;-Werte in der Programmvorlage und jedes Mal, wenn Sie das Programm verwenden, nach Bedarf zu aktualisieren.
+>Denken Sie daran, die Werte für Mein Token in der Programmvorlage und jedes Mal, wenn Sie das Programm verwenden, nach Bedarf zu aktualisieren.
 
 >[!TIP]
 >
->Vergessen Sie nicht, die Kampagne &quot;01-engagiert&quot;zu aktivieren, um den Erfolg zu verfolgen! Führen Sie diesen Schritt _vor_ aus, wenn Ihr Formular live ist und E-Mails gesendet werden.
+>Vergessen Sie nicht, die Kampagne „01-Engaged“ zu aktivieren, um den Erfolg zu verfolgen! Tun Sie dies _vor_ wenn Ihr Formular live ist und E-Mails gesendet werden.

@@ -1,5 +1,5 @@
 ---
-description: Campaign Inspector - Marketo Docs - Produktdokumentation
+description: Campaign-Inspektor - Marketo-Dokumente - Produktdokumentation
 title: Kampagnenprüfung
 exl-id: bac4a24d-9177-4a03-b8c3-e3836676a3ad
 feature: Campaign Inspector
@@ -12,37 +12,37 @@ ht-degree: 3%
 
 # Kampagnenprüfung {#campaign-inspector}
 
-Mit dem Kampagneninspektor können Sie alle Ihre Smart-Kampagnen an einem Ort anzeigen/durchsuchen.
+Mit dem Kampagnen-Inspektor können Sie alle Ihre Smart-Kampagnen an einem Ort anzeigen/durchsuchen.
 
 ## Campaign Inspector aktivieren {#enable-campaign-inspector}
 
-1. Wechseln Sie zum Bereich **[!UICONTROL Admin]** .
+1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
 
    ![](assets/campaign-inspector-1.png)
 
-1. Klicken Sie auf **[!UICONTROL Schatztruhe]**.
+1. Klicken Sie **[!UICONTROL Schatztruhe]**.
 
    ![](assets/campaign-inspector-2.png)
 
-1. Klicken Sie neben dem Kampagnen-Inspektor auf **[!UICONTROL Bearbeiten]** .
+1. Klicken Sie **[!UICONTROL Bearbeiten]** neben Campaign Inspector.
 
    ![](assets/campaign-inspector-3.png)
 
-1. Aktivieren Sie das Kontrollkästchen **[!UICONTROL Aktiviert]** und klicken Sie auf **[!UICONTROL Speichern]**.
+1. Aktivieren Sie das **[!UICONTROL Aktiviert]** und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/campaign-inspector-4.png)
 
    >[!NOTE]
    >
-   >Der gewünschte Arbeitsbereich muss im Baum ausgewählt werden, damit die Registerkarte &quot;Kampagneninspektor&quot;angezeigt wird, nachdem sie aktiviert wurde.
+   >Der gewünschte Arbeitsbereich muss in der Baumstruktur ausgewählt werden, damit die Registerkarte „Campaign-Inspektor“ nach der Aktivierung angezeigt werden kann.
 
-## Verwenden des Campaign-Inspektors {#using-campaign-inspector}
+## Campaign Inspector verwenden {#using-campaign-inspector}
 
-Nach der Aktivierung befindet sich die Registerkarte Kampagneninspektor neben der Registerkarte Marketingaktivitäten .
+Nach der Aktivierung befindet sich die Registerkarte Kampagneninspektor neben der Registerkarte Marketing-Aktivitäten .
 
 ![](assets/campaign-inspector-5.png)
 
-Klicken Sie auf das Dropdown-Menü **[!UICONTROL Aktive Kampagnen]** , um nach verschiedenen Kampagnentypen zu filtern.
+Klicken Sie auf **[!UICONTROL Aktive Kampagnen]**, um nach verschiedenen Kampagnentypen zu filtern.
 
 ![](assets/campaign-inspector-6.png)
 

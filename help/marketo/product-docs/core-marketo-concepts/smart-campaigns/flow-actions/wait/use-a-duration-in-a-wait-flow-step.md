@@ -1,33 +1,33 @@
 ---
 unique-page-id: 1146978
-description: Verwenden einer Dauer in einem Warteflussschritt - Marketo Docs - Produktdokumentation
+description: Verwenden einer Dauer in einem Warteflussschritt - Marketo-Dokumente - Produktdokumentation
 title: Verwenden einer Dauer in einem Warteflussschritt
 exl-id: 7b13d225-78ba-4ef1-9ff5-0f6acde6e5ff
 feature: Smart Campaigns
 source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
 source-wordcount: '205'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
 # Verwenden einer Dauer in einem Warteflussschritt {#use-a-duration-in-a-wait-flow-step}
 
-Mit dem Schritt Wartefluss können Sie das Journey einer Person über eine Smart-Kampagne für eine bestimmte Dauer anhalten. Sie können auch Kriterien für den Wochentag und die Uhrzeit des Endes festlegen.
+Mit dem Schritt Fluss warten können Sie den Journey einer Person über eine Smart-Kampagne für einen bestimmten Zeitraum anhalten. Sie können auch Kriterien für den Wochentag und den Zeitpunkt, zu dem er endet, angeben.
 
-1. Ziehen Sie in der Registerkarte **[!UICONTROL Fluss]** Ihrer Smart-Kampagne über den Flussschritt **[!UICONTROL Warten]**.
+1. Ziehen Sie in der Registerkarte **[!UICONTROL Fluss]** der Smart-Kampagne den **[!UICONTROL Warten]**-Flussschritt.
 
    ![](assets/use-a-duration-in-a-wait-flow-step-1.png)
 
-1. Geben Sie an, wie lange Sie anhalten möchten.
+1. Geben Sie ein, wie lange Sie pausieren möchten.
 
    ![](assets/use-a-duration-in-a-wait-flow-step-2.png)
 
-1. Das ist es! Der Fluss wird für die angegebene Dauer angehalten. Für erweiterte Optionen klicken Sie auf das Zahnradsymbol rechts.
+1. Das ist alles! Der Fluss wird für die angegebene Dauer angehalten. Klicken Sie bei erweiterten Optionen auf das Zahnradsymbol rechts.
 
    ![](assets/use-a-duration-in-a-wait-flow-step-3.png)
 
-1. Geben Sie den Wochentag an, an dem der Warteschritt enden soll.
+1. Geben Sie den Wochentag an, an dem der Warteschritt beendet werden soll.
 
    ![](assets/use-a-duration-in-a-wait-flow-step-4.png)
 
@@ -39,13 +39,13 @@ Mit dem Schritt Wartefluss können Sie das Journey einer Person über eine Smart
    >
    >**Beispiel**
    >
-   >Eine Person Trigger am Freitag um 17 Uhr eine Smart-Kampagne. Der Warteschritt ist fortgeschritten: 48 Stunden und muss am Montag um 9 Uhr enden.
+   >Eine Person Trigger am Freitag um 17 Uhr eine Smart Campaign. Der Warteschritt ist fortgeschritten: 48 Stunden und muss am Mo-Fr um 9 Uhr morgens enden.
    >
-   >Das Ergebnis wäre, dass die Person am **Montag, 9.00 Uhr** im Fluss bleiben würde. Dies ist das erste M-F-Datum nach 48 Stunden.
+   >Das Ergebnis wäre, dass die Person am (Montag **9 Uhr morgens) im Fluss**. Dies ist das erste M-F-Datum nach 48 Stunden.
 
    >[!NOTE]
    >
-   >Dauer, Datum, Uhrzeit und Tage basieren alle auf der Zeitzone Ihres Abonnements.
+   >Die Dauer, das Datum, die Uhrzeit und die verwendeten Tage basieren alle auf der Zeitzone Ihres Abonnements.
 
    >[!MORELIKETHIS]
    >

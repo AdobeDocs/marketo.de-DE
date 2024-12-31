@@ -1,6 +1,6 @@
 ---
-description: EV-JJJJ-MM-TT-Event-Programm - Marketo Docs - Produktdokumentation
-title: EV-JJJJ-MM-TT-Veranstaltungsprogramm
+description: EV-YYYY-MM-DD-Event Program - Marketo Docs - Produktdokumentation
+title: EV-YYYY-MM-DD-Event Programm
 feature: Programs
 exl-id: 999a82ae-6637-40bf-96c0-62183cb0a197
 source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
@@ -10,11 +10,11 @@ ht-degree: 16%
 
 ---
 
-# EV-JJJJ-MM-TT-Veranstaltungsprogramm {#ev-yyyy-mm-dd-event-program}
+# EV-YYYY-MM-DD-Event Programm {#ev-yyyy-mm-dd-event-program}
 
-Dies ist ein Beispiel für ein Veranstaltungsprogramm mit einer Registrierungsseite, drei Einladungs-E-Mails und Follow-up-E-Mails, die ein Marketo Engage Event Program verwenden. Geeignet für alle Veranstaltungen, bei denen Sie sich registrieren lassen müssen, einschließlich Roadshows, Mittagessen, Abendessen oder Präsentationen bei Messen.
+Dies ist ein Beispiel für ein Veranstaltungsprogramm mit einer Registrierungsseite, drei Einladungs-E-Mails und Folge-E-Mails mit einem Marketo Engage-Veranstaltungsprogramm. Geeignet für alle Veranstaltungen, bei denen Sie sich anmelden müssen, einschließlich Roadshows, Mittagessen, Abendessen oder Präsentationen auf Messen.
 
-Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Programms an das Adobe-Account-Team oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} .
+Wenden Sie sich für weitere Strategieunterstützung oder Hilfe bei der Anpassung eines Programms an das Adobe-Account-Team oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Kanal-Zusammenfassung {#channel-summary}
 
@@ -22,24 +22,24 @@ Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Prog
  <tbody> 
   <tr> 
    <th>Kanal</th> 
-   <th>Status der Mitgliedschaft</th>
+   <th>Mitgliedschaftsstatus</th>
    <th>Analytics Behavior</th>
    <th>Programmtyp</th>
   </tr> 
   <tr> 
    <td>Veranstaltung</td> 
-   <td>01 - Eingeladen 
-<br/>02-Waitlisted
-<br/>03-Registered
-<br/>04-No Show
-<br/>05-Bewerbeter-Erfolg</td>
+   <td>01-Invited 
+<br/>02-waitlisted
+<br/>03-registriert
+<br/>04-Keine Anzeige
+<br/>05-Attended-Success</td>
    <td>Einschließlich</td>
    <td>Veranstaltung</td>
   </tr>
  </tbody> 
 </table>
 
-## Das Programm enthält die folgende Assets {#program-contains-the-following-assets}
+## Programm enthält die folgenden Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -51,7 +51,7 @@ Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Prog
   <tr> 
    <td>E-Mail</td> 
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Schnellstart-E-Mail-Vorlage</a></td>
-   <td>01-Email-Vielen Dank</td>
+   <td>01-email-thank you</td>
   </tr>
    <tr> 
    <td>E-Mail</td> 
@@ -61,22 +61,22 @@ Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Prog
   <tr> 
    <td>E-Mail</td> 
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Schnellstart-E-Mail-Vorlage</a></td>
-   <td>02b - E-Mail - Erinnerung an Einladung</td>
+   <td>02b - E-Mail - Einladungs-Erinnerung</td>
   </tr>
   <tr> 
    <td>E-Mail</td> 
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Schnellstart-E-Mail-Vorlage</a></td>
-   <td>02c- E-Mail - Einladungs-Erinnerung letzte Chance</td>
+   <td>02c- E-Mail - Einladungs-Erinnerung - Letzte Chance</td>
   </tr>
   <tr> 
    <td>E-Mail</td> 
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Schnellstart-E-Mail-Vorlage</a></td>
-   <td>03 - E-Mail - An Erinnerung teilnehmen</td>
+   <td>03 - E-Mail - Erinnerung</td>
   </tr>
   <tr> 
    <td>E-Mail</td> 
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Schnellstart-E-Mail-Vorlage</a></td>
-   <td>04a - E-Mail - Follow-up - teilgenommen</td>
+   <td>04a - E-Mail - Follow-up - Teilgenommen</td>
   </tr>
   <tr> 
    <td>E-Mail</td> 
@@ -91,12 +91,12 @@ Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Prog
   <tr> 
    <td>Landingpage</td> 
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Schnellstart-LP-Vorlage</a></td>
-   <td>01b - LP - Vielen Dank</td>
+   <td>01b - LP - Danke</td>
   </tr>
   <tr> 
    <td>Formular</td> 
    <td> </td>
-   <td>FM-Ereignisregistrierung</td>
+   <td>FM-Event-Registrierung</td>
   </tr>
   <tr> 
    <td>Lokaler Bericht</td> 
@@ -111,7 +111,7 @@ Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Prog
   <tr> 
    <td>Intelligente Kampagne</td> 
    <td> </td>
-   <td>00 - Akquiseprogramm erfassen</td>
+   <td>00 - Erfassungsprogramm</td>
   </tr>
   <tr> 
    <td>Intelligente Kampagne</td> 
@@ -126,38 +126,38 @@ Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Prog
    <tr> 
    <td>Intelligente Kampagne</td> 
    <td> </td>
-   <td>02b - Erinnerung senden</td>
+   <td>02b - Erinnerung an Einladung senden</td>
   </tr>
    <tr> 
    <td>Intelligente Kampagne</td> 
    <td> </td>
-   <td>02c - Einladung letzten Zufall senden</td>
+   <td>02c - Letzte Chance zum Einladen senden</td>
   </tr>
    <tr> 
    <td>Intelligente Kampagne</td> 
    <td> </td>
-   <td>03 - Erinnerung zum Senden senden</td>
+   <td>03. Erinnerung senden</td>
   </tr>
    <tr> 
    <td>Intelligente Kampagne</td> 
    <td> </td>
-   <td>04 - Eingestiegen (Programmerfolg)</td>
+   <td>04 - Teilgenommen (Programm erfolgreich)</td>
   </tr>
    <tr> 
    <td>Intelligente Kampagne</td> 
    <td> </td>
-   <td>05 - Folgenachrichten senden</td>
+   <td>05 - Senden von Folge-E-Mails</td>
   </tr>
   <tr> 
    <td>Ordner</td> 
    <td> </td>
-   <td>Assets - Host alle Kreativ-Assets 
+   <td>Assets - enthält alle Kreativ-Assets 
 <br/>(Unterordner für E-Mail und Landingpages)</td>
   </tr>
   <tr> 
    <td>Ordner</td> 
    <td> </td>
-   <td>Kampagnen - Houses all Smart Campaigns</td>
+   <td>Kampagnen - Alle intelligenten Kampagnen werden gespeichert</td>
   </tr>
   <tr> 
    <td>Ordner</td> 
@@ -169,7 +169,7 @@ Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Prog
 
 ![](assets/ev-yyyy-mm-dd-event-program-1.png)
 
-## My Tokens Include {#my-tokens-included}
+## Meine Token enthalten {#my-tokens-included}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -181,7 +181,7 @@ Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Prog
   <tr> 
    <td>Kalenderdatei</td> 
    <td><code>{{my.AddToCalendar}}</code></td>
-   <td>Doppelklicken Sie auf Details</td>
+   <td>Für Details doppelklicken</td>
   </tr>
   <tr> 
    <td>Text</td> 
@@ -206,10 +206,10 @@ Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Prog
    <tr> 
    <td>RTF</td> 
    <td><code>{{my.Content-Description}}</code></td>
-   <td>Doppelklicken für Details  
+   <td>Für Details doppelklicken  
 <br/><code><--My Content Description Here--></code> 
-<br/>Bearbeiten Sie diese Inhaltsbeschreibung auf Programmebene auf der Registerkarte My Tokens . 
-<br/>Sie werden Folgendes lernen: 
+<br/>Bearbeiten Sie diese Inhaltsbeschreibung auf Programmebene auf der Registerkarte Meine Token . 
+<br/>Sie werden lernen: 
 <li>Aufzählungszeichen 1</li>
 <li>Aufzählungszeichen 2</li>
 <li>Aufzählungszeichen 3</li></td>
@@ -297,19 +297,19 @@ Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Prog
  </tbody> 
 </table>
 
-## Konfliktregeln {#conflict-rules}
+## Kollisionsregeln {#conflict-rules}
 
 * **Programm-Tags**
-   * Erstellen von Tags in diesem Abonnement - _Empfohlen_
+   * Tags in diesem Abonnement erstellen - _Empfohlen_
    * Ignorieren
 
-* **Vorlage für Einstiegsseiten mit demselben Namen**
+* **Landingpage-Vorlage mit demselben Namen**
    * Originalvorlage kopieren
-   * Verwenden Sie die Zielvorlage - _Empfohlen_
+   * Zielvorlage verwenden - _Empfohlen_
 
 * **Bilder mit demselben Namen**
    * Beide Dateien beibehalten
-   * Ersetzen des Elements in diesem Abonnement - _Empfohlen_
+   * Element in diesem Abonnement ersetzen - _Empfohlen_
 
 * **E-Mail-Vorlagen mit demselben Namen**
    * Beide Vorlagen beibehalten
@@ -317,21 +317,21 @@ Wenden Sie sich für weitere Strategiehilfen oder Hilfe beim Anpassen eines Prog
 
 ## Bewährte Methoden {#best-practices}
 
-* Verschieben Sie das Formular nach dem Import des Webinarprogramms von einem lokalen Asset in ein globales Asset in Design Studio.
-   * Die Verringerung der Anzahl von Formularen und die Verwendung von mehr globalen Assets aus Design Studio ermöglichen eine größere Skalierbarkeit in der Programmentwicklung und Verwaltungsführung. Es bietet außerdem Flexibilität bei regelmäßigen Aktualisierungen der Kompatibilität für Felder, Opt-in-Sprache usw.
+* Verschieben Sie das Formular nach dem Import des Webinar-Programms von einem lokalen Asset in ein globales Asset im Design Studio.
+   * Das Verringern der Anzahl von Formularen und die Verwendung von mehr globalen Assets aus dem Design Studio ermöglicht mehr Skalierbarkeit in Ihrem Programmdesign und der administrativen Governance. Außerdem bietet es Flexibilität bei regelmäßigen Compliance-Aktualisierungen für Felder, Opt-in-Sprache usw.
 
-* Aktualisieren Sie die Vorlagen in Ihrem importierten Programm, um die derzeit verwendeten Vorlagen zu verwenden, oder aktualisieren Sie die neu importierte Vorlage entsprechend Ihrer Marke, indem Sie einen Ausschnitt oder Ihre entsprechenden Logos-/Fußzeileninformationen hinzufügen.
+* Erwägen Sie, die Vorlagen in Ihrem importierten Programm zu aktualisieren, um die aktuellen Markenvorlagen zu verwenden, oder aktualisieren Sie die neu importierte Vorlage, um Ihre Marke widerzuspiegeln, indem Sie einen Ausschnitt oder Ihre entsprechenden Logo-/Fußzeileninformationen hinzufügen.
 
-* Erwägen Sie, die Benennungsregel dieses Programmbeispiels zu aktualisieren, um sie an Ihre Benennungsregel anzupassen.
+* Erwägen Sie, die Namenskonvention dieses Programmbeispiels zu aktualisieren, um sie an Ihre Namenskonvention anzupassen.
 
 >[!NOTE]
 >
->Denken Sie daran, die &quot;My Token Values&quot;-Werte in der Programmvorlage und jedes Mal, wenn Sie das Programm verwenden, nach Bedarf zu aktualisieren.
+>Denken Sie daran, die Werte für Mein Token in der Programmvorlage und jedes Mal, wenn Sie das Programm verwenden, nach Bedarf zu aktualisieren.
 
 >[!TIP]
 >
->Vergessen Sie nicht, die Kampagne &quot;06-Teilnehmer (Programmerfolg)&quot; zu aktivieren, um den Erfolg zu verfolgen! Führen Sie diesen Schritt _vor_ aus, wenn Ihr Formular live ist und E-Mails gesendet werden.
+>Vergessen Sie nicht, die Kampagne „06-Attended (Program Success)“ zu aktivieren, um den Erfolg zu verfolgen! Tun Sie dies _vor_ wenn Ihr Formular live ist und E-Mails gesendet werden.
 
 >[!IMPORTANT]
 >
->Meine Token, die auf eine URL verweisen, können http:// oder https:// nicht enthalten. Andernfalls funktioniert der Link im Asset nicht ordnungsgemäß.
+>Meine Token, die auf eine URL verweisen, dürfen die URL http:// oder https:// nicht enthalten. Andernfalls funktioniert der Link innerhalb des Assets nicht ordnungsgemäß.

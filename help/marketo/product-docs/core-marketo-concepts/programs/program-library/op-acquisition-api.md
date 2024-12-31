@@ -1,5 +1,5 @@
 ---
-description: OP-Akquise-API - Marketo-Dokumente - Produktdokumentation
+description: OP-Acquisition-API - Marketo-Dokumente - Produktdokumentation
 title: OP-Akquise-API
 feature: Programs
 exl-id: abf7c4a0-c363-4e92-9a1f-197c3953c515
@@ -12,7 +12,7 @@ ht-degree: 19%
 
 # OP-Akquise-API {#op-acquisition-api}
 
-Dieses Beispielprogramm dient zur Verfolgung der Akquise von Datensätzen aus API-Quellen mithilfe eines Marketo Engage-Standardprogramms.
+Dieses Beispielprogramm ist für operative Prozesse gedacht, um die Akquise von Datensätzen aus API-Quellen mithilfe eines Marketo Engage-Standardprogramms zu verfolgen.
 
 ## Kanal-Zusammenfassung {#channel-summary}
 
@@ -20,7 +20,7 @@ Dieses Beispielprogramm dient zur Verfolgung der Akquise von Datensätzen aus AP
  <tbody> 
   <tr> 
    <th>Kanal</th> 
-   <th>Status der Mitgliedschaft</th>
+   <th>Mitgliedschaftsstatus</th>
    <th>Analytics Behavior</th>
    <th>Programmtyp</th>
   </tr> 
@@ -33,7 +33,7 @@ Dieses Beispielprogramm dient zur Verfolgung der Akquise von Datensätzen aus AP
  </tbody> 
 </table>
 
-## Das Programm enthält die folgende Assets {#program-contains-the-following-assets}
+## Programm enthält die folgenden Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -45,12 +45,12 @@ Dieses Beispielprogramm dient zur Verfolgung der Akquise von Datensätzen aus AP
   <tr> 
    <td>Intelligente Kampagne</td> 
    <td> </td>
-   <td>Akquise festlegen - Batch</td>
+   <td>Set-Akquise - Batch</td>
   </tr>
   <tr> 
    <td>Intelligente Kampagne</td> 
    <td> </td>
-   <td>Akquise festlegen - Trigger</td>
+   <td>Set Acquisition - Trigger</td>
   </tr>
   <tr> 
    <td>Ordner</td> 
@@ -62,28 +62,28 @@ Dieses Beispielprogramm dient zur Verfolgung der Akquise von Datensätzen aus AP
 
 ![](assets/op-acquisition-api-1.png)
 
-## Konfliktregeln {#conflict-rules}
+## Kollisionsregeln {#conflict-rules}
 
 * **Programm-Tags**
-   * Erstellen von Tags in diesem Abonnement - _Empfohlen_
+   * Tags in diesem Abonnement erstellen - _Empfohlen_
    * Ignorieren
 
-* **Vorlage für Einstiegsseiten mit demselben Namen**
+* **Landingpage-Vorlage mit demselben Namen**
    * Originalvorlage kopieren - _Empfohlen_
    * Zielvorlage verwenden
 
 * **Bilder mit demselben Namen**
-   * Beides beibehalten - _Empfohlen_
+   * Beide Dateien beibehalten - _Empfohlen_
    * Element in diesem Abonnement ersetzen
 
 * **E-Mail-Vorlagen mit demselben Namen**
-   * Beides beibehalten - _Empfohlen_
+   * Beide Vorlagen beibehalten - _Empfohlen_
    * Vorhandene Vorlage ersetzen
 
 ## Bewährte Methoden {#best-practices}
 
-* Führen Sie zuerst die Batch-Kampagne aus, wenn Sie in Ihrer Datenverwaltung aufholen müssen.
+* Führen Sie zuerst die Batch-Kampagne aus, wenn Sie in Ihrem Daten-Management Nachholbedarf haben.
 
-* Erwägen Sie die Verwendung ähnlicher Programme, um die Abstimmung an Best Practices für alle Eingabequellen sicherzustellen, damit Ihre CRM- oder Datenintegrationen einbezogen werden.
+* Erwägen Sie die Verwendung ähnlicher Programme, um sicherzustellen, dass diese über alle Eingabequellen hinweg an Best Practices ausgerichtet sind, um Ihre CRM- oder Datenintegrationen einzuschließen.
 
-* Erfassen Sie bei kanalspezifischen Marketinginitiativen bei Bedarf die Akquise.
+* Achten Sie darauf, bei Bedarf im Rahmen kanalspezifischer Marketing-Initiativen Akquise zu erfassen.

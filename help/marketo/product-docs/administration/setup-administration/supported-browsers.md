@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359893
-description: Unterstützte Browser - Marketo Docs - Produktdokumentation
+description: Unterstützte Browser - Marketo-Dokumente - Produktdokumentation
 title: Unterstützte Browser
 exl-id: 58c35407-ddc5-4932-9853-aeb4d47bab7f
 feature: Administration, Getting Started
@@ -17,14 +17,14 @@ Marketo unterstützt derzeit die folgenden Browser:
 
 | Browser | Unterstützte Versionen |
 |---|---|
-| [[!DNL Google Chrome]](https://www.google.com/intl/en/chrome/browser/){target="_blank"} | latest |
-| [[!DNL Mozilla Firefox]](https://www.mozilla.org/en-US/firefox/new/){target="_blank"} | latest |
-| [[!DNL Apple Safari]](https://www.apple.com/safari/){target="_blank"} | latest |
-| [[!DNL Microsoft Edge]](https://www.microsoft.com/en-us/windows/microsoft-edge){target="_blank"} | latest |
+| [[!DNL Google Chrome]](https://www.google.com/intl/en/chrome/browser/){target="_blank"} | Neueste Version |
+| [[!DNL Mozilla Firefox]](https://www.mozilla.org/en-US/firefox/new/){target="_blank"} | Neueste Version |
+| [[!DNL Apple Safari]](https://www.apple.com/safari/){target="_blank"} | Neueste Version |
+| [[!DNL Microsoft Edge]](https://www.microsoft.com/en-us/windows/microsoft-edge){target="_blank"} | Neueste Version |
 
 
 >[!NOTE]
 >
->Für Benutzer, die mit Adobe Identity](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} in [Marketo migriert wurden, werden alle Browser sowohl unter Mac als auch unter Windows unterstützt, mit Ausnahme von Microsoft Edge im strikten Modus.
+>Für Benutzende, die auf [Marketo mit Adobe Identity](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} migriert wurden, werden alle Browser sowohl auf Mac als auch auf Windows unterstützt, mit Ausnahme von Microsoft Edge im strikten Modus.
 
-Um das beste Erlebnis zu erzielen, halten Sie Ihren Browser auf dem neuesten Stand **!**
+Für ein optimales Erlebnis **halten Sie Ihren Browser auf dem neuesten Stand**!

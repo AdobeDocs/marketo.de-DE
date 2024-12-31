@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2953362
-description: Einsendungen direkt im Marketingkalender bestätigen - Marketo Docs - Produktdokumentation
-title: Einsendungen direkt im Marketingkalender bestätigen
+description: Einträge direkt im Marketing-Kalender bestätigen - Marketo-Dokumente - Produktdokumentation
+title: Einträge direkt im Marketing-Kalender bestätigen
 exl-id: f0074982-0cdc-44b9-b6f9-eb47407aba58
 feature: Marketing Calendar
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
@@ -11,11 +11,11 @@ ht-degree: 0%
 
 ---
 
-# Einsendungen direkt im Marketingkalender bestätigen {#confirm-entries-directly-in-the-marketing-calendar}
+# Einträge direkt im Marketing-Kalender bestätigen {#confirm-entries-directly-in-the-marketing-calendar}
 
-Intelligente Kampagnen und E-Mail-Programme können als vorläufige Einträge erstellt werden und müssen bestätigt werden, damit alles tatsächlich geschieht. So geht es.
+Smart-Kampagnen und E-Mail-Programme können als provisorische Einträge erstellt werden und müssen bestätigt werden, damit alles tatsächlich geschieht. So geht&#39;s.
 
-1. Wechseln Sie zum **[!UICONTROL Kalender]**.
+1. Navigieren Sie zum **[!UICONTROL Kalender]**.
 
    ![](assets/2017-05-10-15-30-47-5.png)
 
@@ -23,10 +23,10 @@ Intelligente Kampagnen und E-Mail-Programme können als vorläufige Einträge er
 
    ![](assets/image2014-10-20-13-3a22-3a15.png)
 
-1. Bestätigen Sie den Eintrag.
+1. Bestätigen Sie die Eingabe.
 
    ![](assets/image2014-10-20-13-3a22-3a26.png)
 
-   Beim Bestätigen wird eine Reihe von Validierungsprozessen ausgeführt. Wenn alles ausgecheckt wird, wird der Eintrag bestätigt.
+   Bei der Bestätigung wird eine Reihe von Validierungsprozessen ausgeführt. Wenn alles überprüft wird, wird der Eintrag bestätigt.
 
    ![](assets/image2014-10-20-13-3a22-3a36.png)

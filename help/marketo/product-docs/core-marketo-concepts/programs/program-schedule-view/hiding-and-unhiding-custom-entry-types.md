@@ -1,7 +1,7 @@
 ---
 unique-page-id: 1147247
-description: Ausblenden und Aufheben der Ausblendung benutzerdefinierter Einstiegstypen - Marketo-Dokumente - Produktdokumentation
-title: Ausblenden und Aufheben der Ausblendung benutzerdefinierter Einstiegstypen
+description: Ausblenden und Aufheben von benutzerdefinierten Eintragstypen - Marketo-Dokumente - Produktdokumentation
+title: Ein- und Ausblenden benutzerdefinierter Eintragstypen
 exl-id: 3e41b47d-86dd-4fb3-ab87-0be0b534fc0a
 feature: Programs
 source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
@@ -11,30 +11,30 @@ ht-degree: 0%
 
 ---
 
-# Ausblenden und Aufheben der Ausblendung benutzerdefinierter Einstiegstypen {#hiding-and-unhiding-custom-entry-types}
+# Ein- und Ausblenden benutzerdefinierter Eintragstypen {#hiding-and-unhiding-custom-entry-types}
 
-Benutzerdefinierte Eintragstypen können im Admin-Abschnitt ausgeblendet werden. Nach dem Ausblenden wird der Eintragstyp nicht mehr als Option angezeigt.
+Benutzerdefinierte Eintragstypen können im Administratorbereich ausgeblendet werden. Nach dem Ausblenden wird der Eintragstyp nicht mehr als Option angezeigt.
 
-## Ausblenden eines benutzerdefinierten Einstiegstyps {#hide-a-custom-entry-type}
+## Ausblenden eines benutzerdefinierten Eintragstyps {#hide-a-custom-entry-type}
 
-1. Wechseln Sie zum Abschnitt **[!UICONTROL Admin]** und klicken Sie auf **[!UICONTROL Kalendereintrittstypen]**.
+1. Gehen Sie zum Abschnitt **[!UICONTROL Admin]** und klicken Sie auf **[!UICONTROL Kalendereintragstypen]**.
 
    ![](assets/image2014-9-24-10-3a11-3a49.png)
 
-1. Klicken Sie mit der rechten Maustaste auf Ihren benutzerdefinierten Eintrag und klicken Sie auf **[!UICONTROL Ausblenden]**.
+1. Klicken Sie mit der rechten Maustaste auf den benutzerdefinierten Eintrag und klicken Sie auf **[!UICONTROL Ausblenden]**.
 
    ![](assets/image2014-9-24-10-3a11-3a54.png)
 
    Fantastisch. Dieser Eintragstyp ist nicht mehr verfügbar.
 
-## Einblenden eines benutzerdefinierten Einstiegstyps {#unhide-a-custom-entry-type}
+## Benutzerdefinierten Eintragstyp einblenden {#unhide-a-custom-entry-type}
 
-Wenn Sie einen benutzerdefinierten Eingabetyp wieder einblenden möchten, ist dies ebenfalls einfach.
+Wenn Sie einen benutzerdefinierten Eintragstyp einblenden möchten, ist das auch einfach.
 
-1. Klicken Sie mit der rechten Maustaste auf Ihren Eintrag und wählen Sie **[!UICONTROL Einblenden]** aus.
+1. Klicken Sie mit der rechten Maustaste auf den Eintrag und wählen Sie **[!UICONTROL Einblenden]**.
 
    ![](assets/image2014-9-24-10-3a12-3a14.png)
 
-   Ta-da! Ihr benutzerdefinierter Eingabetyp ist jetzt nicht mehr ausgeblendet.
+   Ta-da! Ihr benutzerdefinierter Eintragstyp ist jetzt nicht mehr ausgeblendet.
 
    ![](assets/image2014-9-24-10-3a12-3a19.png)
