@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2949168
-description: Verwenden von Vorlagen zum Erstellen von Web-Kampagnen - Marketo Docs - Produktdokumentation
-title: Verwenden von Vorlagen zum Erstellen von Webkampagnen
+description: Verwenden von Vorlagen zum Erstellen von Web-Kampagnen - Marketo-Dokumente - Produktdokumentation
+title: Verwenden von Vorlagen zur Erstellung von Web-Kampagnen
 exl-id: 1d4f24c7-27c7-4eb6-9377-dc6853d13fa3
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,19 +11,19 @@ ht-degree: 1%
 
 ---
 
-# Verwenden von Vorlagen zum Erstellen von Webkampagnen {#using-templates-to-create-web-campaigns}
+# Verwenden von Vorlagen zur Erstellung von Web-Kampagnen {#using-templates-to-create-web-campaigns}
 
-Beschleunigen und vereinfachen Sie den Erstellungsprozess Ihrer Web-Kampagne, indem Sie unsere integrierten Vorlagen verwenden oder [Ihre eigenen speichern](save-your-campaign-as-a-template.md).
+Beschleunigen und vereinfachen Sie die Erstellung von Web-Kampagnen mithilfe unserer integrierten Vorlagen oder durch [Speichern Ihrer eigenen](save-your-campaign-as-a-template.md).
 
 >[!NOTE]
 >
->Vorlagen sind für alle Geräte und Browsing-Erlebnisse sowohl für Desktop- als auch für Mobilgeräte optimiert.
+>Vorlagen sind für alle Geräte und Browser-Erlebnisse sowohl für Desktop als auch für Mobilgeräte optimiert.
 
-1. Wechseln Sie zu **Web-Kampagnen**.
+1. Gehen Sie zu **Web-Kampagnen**.
 
    ![](assets/web-campaigns-hand.jpg)
 
-1. Klicken Sie auf **Neue Webkampagne erstellen**.
+1. Klicken Sie **Neue Web-Kampagne erstellen**.
 
    ![](assets/create-new-web-campaign-create-hand.jpg)
 
@@ -31,7 +31,7 @@ Beschleunigen und vereinfachen Sie den Erstellungsprozess Ihrer Web-Kampagne, in
 
    ![](assets/set-web-campaign-my-campaign-hand.jpg)
 
-1. Wählen Sie ein Zielsegment aus.
+1. Zielsegment auswählen.
 
    ![](assets/set-web-campaign-education.jpg)
 
@@ -39,17 +39,17 @@ Beschleunigen und vereinfachen Sie den Erstellungsprozess Ihrer Web-Kampagne, in
 
    ![](assets/templates.png)
 
-1. Wählen Sie den entsprechenden Bereich für Ihre Kampagne aus, um eine Vorlage zu sehen, die für Sie funktioniert.
+1. Wählen Sie den entsprechenden Bereich für Ihre Kampagne aus, um eine Vorlage anzuzeigen und auszuwählen, die für Sie geeignet ist.
 
    >[!NOTE]
    >
-   >Es gibt einige coole Vorlagen, aus denen wir wählen können, und wir werden in Zukunft weitere hinzufügen.
+   >Es gibt einige coole Vorlagen zur Auswahl, und wir werden in Zukunft weitere hinzufügen.
 
    ![](assets/select.png)
 
    >[!TIP]
    >
-   >Wählen Sie für mobile Kampagnen eine Vorlage aus dem Abschnitt **mobile** aus.
+   >Wählen Sie für Mobile-Kampagnen eine Vorlage aus dem Abschnitt **Mobile** aus.
 
 1. Anpassen der Vorlage.
 
@@ -59,8 +59,8 @@ Beschleunigen und vereinfachen Sie den Erstellungsprozess Ihrer Web-Kampagne, in
 
    ![](assets/click-save-hand.jpg)
 
-Schön gemacht! Haben Sie gesehen, wie viel Zeit Sie mit einer Vorlage gespart haben?
+Gut gemacht! Haben Sie gesehen, wie viel Zeit Sie durch die Verwendung einer Vorlage gespart haben?
 
 >[!MORELIKETHIS]
 >
->[Speichern einer Kampagne als Vorlage](/help/marketo/product-docs/web-personalization/using-templates/save-your-campaign-as-a-template.md)
+>[Kampagne als Vorlage speichern](/help/marketo/product-docs/web-personalization/using-templates/save-your-campaign-as-a-template.md)

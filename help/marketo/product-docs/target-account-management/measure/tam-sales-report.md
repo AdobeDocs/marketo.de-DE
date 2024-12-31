@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11385183
-description: TAM Sales Report - Marketo Docs - Produktdokumentation
+description: TAM-Verkaufsbericht - Marketo-Dokumente - Produktdokumentation
 title: TAM-Verkaufsbericht
 exl-id: db4680df-74fd-41a4-9e9c-bf405da97bf0
 feature: Target Account Management
@@ -13,22 +13,22 @@ ht-degree: 4%
 
 # TAM-Verkaufsbericht {#tam-sales-report}
 
-Sie erhalten eine wöchentliche E-Mail mit Ihren Top-Konten und ihren wöchentlichen Trends.
+Erhalten Sie eine wöchentliche E-Mail mit Ihren wichtigsten Konten und deren wöchentlichen Trends.
 
 >[!NOTE]
 >
->Erfahren Sie, wie Sie diesen Bericht [hier](/help/marketo/product-docs/target-account-management/measure/tam-report-setup.md) einrichten.
+>Erfahren Sie (hier[, wie Sie diesen Bericht ](/help/marketo/product-docs/target-account-management/measure/tam-report-setup.md).
 
 Der Bericht teilt:
 
-* Spezifische Konten, sortiert nach der von Ihnen ausgewählten Kontobewertung
-* Topbeteiligte Personen
+* Benannte Konten sortiert nach dem von Ihnen ausgewählten Kontostand
+* Am häufigsten engagierte Personen
 * Wichtige Trends und interessante Momente
-* Link zum Herunterladen einer CSV-Datei mit zusätzlichen Details
+* Ein Link zum Herunterladen einer CSV-Datei mit zusätzlichen Details
 
 ![](assets/tam-sales-report-1.png)
 
-## Schlüssel zum Verkaufsbericht {#sales-report-key}
+## Verkaufsberichtschlüssel {#sales-report-key}
 
 <table> 
  <tbody> 
@@ -36,14 +36,14 @@ Der Bericht teilt:
    <td><strong>Kontobewertung</strong></td> 
    <td> 
     <div>
-      Wöchentlicher Trend nach Kontobewertung (in der Einrichtung ausgewählt), gefolgt von der aktuellen Kontobewertung 
+      Wöchentlicher Trend nach Kontobewertung (im Setup ausgewählt), gefolgt vom aktuellen Kontowert 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>Verkaufspipelines</strong></td> 
+   <td><strong>Vertriebspipeline</strong></td> 
    <td> 
     <div>
-      Wöchentlicher Trend nach Pipeline, gefolgt von der gesamten aktuellen Pipeline und der Anzahl der offenen Möglichkeiten 
+      Wöchentlicher Trend nach Pipeline, gefolgt von der Gesamtzahl der aktuellen Pipeline und der Anzahl der offenen Opportunities 
     </div></td> 
   </tr> 
   <tr> 
@@ -57,7 +57,7 @@ Der Bericht teilt:
    <td><strong>Interessante Momente</strong></td> 
    <td> 
     <div>
-      Gesamtzahl interessanter Momente während der Woche 
+      Gesamtzahl der interessanten Momente während der Woche 
     </div></td> 
   </tr> 
  </tbody> 

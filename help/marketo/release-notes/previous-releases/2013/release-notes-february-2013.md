@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2951103
-description: Versionshinweise - Februar 2013 - Marketo-Dokumente - Produktdokumentation
-title: Februar 2013 - Versionshinweise
+description: Versionshinweise - Februar 2013 - Marketo-Dokumentation - Produktdokumentation
+title: Versionshinweise Februar 2013
 exl-id: 9adfa676-09ea-497a-bcce-42300848b9d8
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,26 +11,26 @@ ht-degree: 0%
 
 ---
 
-# Februar 2013 - Versionshinweise {#release-notes-february}
+# Versionshinweise: Februar 2013 {#release-notes-february}
 
-Die Februar-Version enthält eine dringend benötigte Funktion, Unterstützung für Apple Safari und andere kleine Verbesserungen.
+Die Februarversion enthält eine dringend angeforderte Funktion, Unterstützung für Apple Safari und andere kleine Verbesserungen.
 
 ## Offizieller Support für Apple Safari {#official-support-for-apple-safari}
 
-Die neuesten Versionen von Apple Safari für Mac und Windows werden vollständig für die Verwendung mit Marketo Lead Management unterstützt. Hinweis: Safari in iOS ist nicht vollständig kompatibel.
+Die neuesten Versionen von Apple Safari für Mac und Windows werden vollständig zur Verwendung mit Marketo Lead Management unterstützt. Hinweis: Safari auf iOS ist nicht vollständig kompatibel.
 
-## Verbesserungen bei Webhooks {#webhooks-enhancements}
+## Webhooks - Verbesserungen {#webhooks-enhancements}
 
-Webhooks wurden verbessert, um Escape-Token in der URL/Payload zu erhalten. Außerdem können Marketo-Lead-Felder aktualisiert werden, indem XML-/JSON-Antworten von Drittanbietersystemen analysiert werden (nicht in der Spark SMB Edition verfügbar).
+Webhooks wurden verbessert, um Token in der URL/Payload zu escapen, und können auch Marketo-Lead-Felder aktualisieren, indem XML-/JSON-Antworten von Drittanbietersystemen analysiert werden (in der Spark SMB Edition nicht verfügbar).
 
 ## Aktualisierter SOAP-API-Endpunkt {#updated-soap-api-endpoint}
 
-Der bevorzugte SOAP-API-Endpunkt wurde aktualisiert und wird unter Admin -> SOAP API angezeigt. Bitte aktualisieren Sie Ihre Aufrufe, um diesen neuen Endpunkt zu verwenden. API-Aufrufe an den alten Endpunkt werden nicht mehr unterstützt, funktionieren jedoch weiterhin. (SOAP API ist in der Spark SMB Edition nicht verfügbar.)
+Der bevorzugte SOAP-API-Endpunkt wurde aktualisiert und wird unter Admin > SOAP-API angezeigt. Aktualisieren Sie Ihre Aufrufe, um diesen neuen Endpunkt zu verwenden. API-Aufrufe an den alten Endpunkt sind veraltet, funktionieren aber weiterhin. (SOAP-API in der Spark SMB Edition nicht verfügbar)
 
-## Mobilgerät - Support für Facebook-Tabs {#mobile-support-for-facebook-tabs}
+## Mobile-Unterstützung für Facebook-Registerkarten {#mobile-support-for-facebook-tabs}
 
-Facebook-Tabs, die von Marketo veröffentlicht werden, erkennen Mobilgeräte und leiten sie zu einer Landingpage weiter. Dadurch wird sichergestellt, dass der Benutzer die richtigen Inhalte auf Mobilgeräten erhält, auf denen die Facebook-Registerkarten nicht unterstützt werden (verfügbar in Spark, Standard, Select SMB Editions und Marketo Social Marketing).
+Von Marketo veröffentlichte facebook-Registerkarten erkennen Mobilgeräte und leiten sie an eine Landingpage weiter. Dadurch wird sichergestellt, dass der Benutzer die richtigen Inhalte auf Mobilgeräten erhält, auf denen Facebook-Registerkarten nicht unterstützt werden (verfügbar in Spark, Standard, Select SMB Editions und Marketo Social Marketing).
 
-## In Kürze: Unterstützung für mehrere Modelle {#coming-soon-support-for-multiple-models}
+## In Kürze verfügbar: Unterstützung für mehrere Modelle {#coming-soon-support-for-multiple-models}
 
-Wir legen die Grundlagen für die Unterstützung mehrerer Modelle für den Umsatzzyklus, der in einer zukünftigen Version als 1. Idee für RCA in der Gemeinschaft gewählt wurde. In dieser Version werden Sie einige Änderungen bemerken, darunter [Smart List-Filter und &quot;Add Choices in Flow Steps](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md)&quot;, um die Auswahl eines Modells und einer Bühne zu unterstützen. Außerdem verschieben wir die Felder &quot;Lead-Umsatzstufe&quot;und &quot;Lead-Umsatzzyklusmodell&quot;aus der Registerkarte &quot;Smart List Lead Grid&quot;.
+Wir legen den Grundstein für die Unterstützung mehrerer Umsatzzyklusmodelle, die in einer zukünftigen Version #1 Idee für RCA in der Community gewählt wurden. In dieser Version werden Sie einige Änderungen feststellen, darunter [Filter für Smart-Listen und Auswahl hinzufügen in Flussschritten](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md) um die Auswahl eines Modells und einer Phase zu unterstützen. Außerdem verschieben wir die Felder „Lead-Umsatzschritt“ und „Lead-Umsatzzyklusmodell“ aus der Registerkarte „Smartes Listen-Lead-Raster“.

@@ -1,7 +1,7 @@
 ---
 unique-page-id: 12615749
-description: Web-Kampagnendaten exportieren - Marketo-Dokumente - Produktdokumentation
-title: Web-Kampagnendaten exportieren
+description: Exportieren von Web-Kampagnendaten - Marketo-Dokumente - Produktdokumentation
+title: Exportieren von Web-Kampagnendaten
 exl-id: 04c33b2a-a314-486d-b72d-5618d7c0ed0d
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,11 +11,11 @@ ht-degree: 0%
 
 ---
 
-# Web-Kampagnendaten exportieren {#export-web-campaign-data}
+# Exportieren von Web-Kampagnendaten {#export-web-campaign-data}
 
-Führen Sie diese einfachen Schritte aus, um Ihre Webkampagnendaten zu exportieren.
+Führen Sie diese einfachen Schritte aus, um Ihre Web-Kampagnendaten zu exportieren.
 
-1. Wechseln Sie zu **Web-Kampagnen**.
+1. Gehen Sie zu **Web-Kampagnen**.
 
    ![](assets/one-2.png)
 
@@ -27,6 +27,6 @@ Führen Sie diese einfachen Schritte aus, um Ihre Webkampagnendaten zu exportier
 
    ![](assets/three-2.png)
 
-1. Zeigen Sie Ihre Datei an, um sich nützliche Statistiken anzusehen.
+1. In der Datei finden Sie hilfreiche Statistiken.
 
    ![](assets/four-1.png)

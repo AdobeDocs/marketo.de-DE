@@ -1,6 +1,6 @@
 ---
 unique-page-id: 17728380
-description: Versionshinweise - Frühjahr 2019 - Marketo-Dokumente - Produktdokumentation
+description: Versionshinweise - Frühjahr 2019 - Marketo-Dokumentation - Produktdokumentation
 title: Versionshinweise - Frühjahr 2019
 exl-id: eb7a9ac4-5c3d-4d98-9b06-e3f11147bc6d
 feature: Release Information
@@ -13,21 +13,21 @@ ht-degree: 6%
 
 # Versionshinweise: Frühjahr 2019 {#release-notes-spring}
 
-Die folgenden Funktionen sind in der Frühlingsversion 19 enthalten. Überprüfen Sie Ihre Marketo-Edition auf Funktionsverfügbarkeit.
+Die folgenden Funktionen sind in der Version vom Frühjahr 1919 enthalten. Überprüfen Sie Ihre Marketo Edition auf die Verfügbarkeit der Funktionen.
 
-Klicken Sie auf die Titel-Links, um detaillierte Artikel zu den einzelnen Funktionen anzuzeigen, sofern verfügbar.
+Bitte klicken Sie auf die Titel-Links, um detaillierte Artikel für jede Funktion anzuzeigen, falls verfügbar.
 
-***Vierteljährliche Versionen_**
+***Quartalsveröffentlichungen_**
 
 Die folgenden Funktionen wurden am 15. März 2019 veröffentlicht.
 
 ## Verbesserungen der Kernplattform {#core-platform-enhancements}
 
-* **Auf die Warteliste gesetzt:** Neuer Programm-/Ereignisstatus für die Warteliste eines Mitglieds, wenn Sie diese [auf die Wartezeit setzen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) möchten, bis sich ein Leerzeichen öffnet. Dies gilt für Kanäle, die Ereignisprogrammen in Marketo Classic zugeordnet sind, sowie für Event- und Event-Programme mit Webinar-Programmen in Marketo Sky. Standardmäßig hat &quot;Waitlisted&quot;denselben Schrittwert wie &quot;Registered&quot;.
-* **[Benutzerdefiniertes Kommunikationslimit](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)**: Administratoren können jetzt benutzerdefinierte tägliche oder wöchentliche Kommunikationsbeschränkungen festlegen.
-* **[Asset-APIs für intelligente Kampagnen](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**: Reichern Sie Ihre Analysen außerhalb von Marketo mit dem Abrufen von Smart-Campaign-Datensätzen nach aktualisiertem Datum und Kennung an.
-* **HTTPS-Tracking-Links für E-Mails:** Kunden, die &quot;sichere Domänen für Tracking-Links&quot;gekauft haben, können jetzt in Ihren E-Mails als HTTPS-Links für Tracking-Links mit Marken angezeigt werden.
-* **E-Mail-Zustellbarkeits-Powerpack-Updates**: Fähigkeit, bestimmte Testergebnisse zu kennzeichnen und zu kommentieren, Ergebnisse über eine URL mit Interessengruppen zu teilen und Änderungen zu verfolgen, um die Evolution einer E-Mail zu sehen, wenn Stakeholder Inhalte bearbeiten.
+* **Warteliste:** Neuer Programm-/Ereignisstatus für die Warteliste für ein Mitglied, wenn Sie es [ „zurückstellen“ möchten](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) bis eine freie Stelle geöffnet wird. Dies gilt für Kanäle, die mit Veranstaltungsprogrammen in Marketo Classic verknüpft sind, und sowohl für Veranstaltungen als auch für Veranstaltungen mit Webinar-Programmen in Marketo Sky. Standardmäßig hat die Warteliste denselben Schrittwert wie „Registriert“.
+* **[Benutzerdefiniertes Kommunikationslimit](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)**: Administratoren können jetzt benutzerdefinierte tägliche oder wöchentliche Kommunikationslimits festlegen.
+* **[Smart Campaign Asset-APIs](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**: Reichern Sie Ihre Analysen außerhalb von Marketo mit dem Abruf von intelligenten Kampagnendatensätzen nach aktualisiertem Datum und aktualisierter ID an.
+* **HTTPS-Tracking-Links für E-Mail**: Kunden, die „Sichere Domains für Tracking-Links“ erworben haben, können jetzt Marken-Tracking-Links in Ihren E-Mails als HTTPS anzeigen.
+* **Aktualisierungen des E-Mail-Zustellbarkeits-Powerpacks**: Möglichkeit, bestimmte Testergebnisse zu kennzeichnen und zu kommentieren, Ergebnisse über eine URL für Interessengruppen freizugeben und Änderungen zu verfolgen, um die Entwicklung einer E-Mail zu verfolgen, während Interessengruppen Inhalte bearbeiten.
 
 Kundenbezogenes Marketing
 
@@ -35,24 +35,24 @@ Kundenbezogenes Marketing
 
 <br> 
 
-**_Nicht vierteljährliche Versionen_**
+**_Nicht-vierteljährliche Versionen_**
 
-Die folgenden Funktionen werden voraussichtlich im ersten Kalenderquartal und Anfang des zweiten Quartals 2019 veröffentlicht.
+Die folgenden Funktionen werden voraussichtlich im ersten Kalenderquartal und bis zum Beginn des zweiten Quartals 2019 veröffentlicht.
 
 ## Marketo Sky {#marketo-sky}
 
-* **Vollständige E-Mail-Programmfunktionen**: Senden Sie E-Mails, erstellen Sie A/B-Tests und verfolgen Sie die Ergebnisse in einem benutzerfreundlichen Erlebnis.
-* **Funktionen intelligenter Kampagnen**: Nutzen Sie die verbesserte Stabilität in einer neuen Benutzeroberfläche, da die intelligente Kampagnenfunktion weiterhin in Sky eingeführt wird.
-* **Verwalten von Design Studio Assets**: Es wurde die Möglichkeit hinzugefügt, Vorlagen, Bilder, Forms, Snippets, Dateien, E-Mails und Landingpages stapelweise aus der Listenansicht von Design Studio zu verwalten.
-* **Versand im Zeitzonen-Dashboard der Empfänger**: Verstehen Sie das Kundenverhalten mit der Berichterstellung für E-Mails, die über die Funktion In der Zeitzone der Empfänger versenden werden.
+* **Vollständige E-Mail** Programmfunktionalität: Senden Sie E-Mails, erstellen Sie A/B-Tests und verfolgen Sie die Ergebnisse in einem benutzerfreundlichen Erlebnis.
+* **Smart Campaign-Funktionalität**: Eine neue Benutzeroberfläche bietet verbesserte Stabilität, da die Funktion für intelligente Kampagnen auch in Sky weiter eingeführt wird.
+* **Design Studio Assets verwalten**: Es wurde die Möglichkeit hinzugefügt, Vorlagen, Bilder, Forms, Snippets, Dateien, E-Mails und Landingpages stapelweise aus den Listenansichten von Design Studio zu verwalten.
+* **Dashboard für Empfänger-Zeitzonen**: Verstehen Sie das Kundenverhalten mit Berichten für E-Mails, die mit der Zeitzonenfunktion „Versand in Empfänger“ in Sky gesendet werden.
 
 ## Marketo Sales Engage {#marketo-sales-engage}
 
-* **Verbesserte Prüfung**: Neue Sichtbarkeit für alle Personen, E-Mails und [Inhalt](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md) in einer Instanz mit zusätzlicher Fähigkeit, [bestehende Kampagnen zu beenden](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md), die von anderen Benutzern erstellt wurden.
-* **[Unsubscribe Management](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md)**: Maximieren Sie die Zustellbarkeit und die Einhaltung der Bedingungen, damit [E-Mail-Domains blockieren](/help/marketo/product-docs/marketo-sales-connect/admin/blocked-domains.md) nicht mehr kontaktiert werden können. Marketo verweist vor dem Versand einer E-Mail auch auf die Lead-Datenbank, um sich abzumelden.
+* **Verbesserte Prüfung**: Neue Sichtbarkeit aller Personen, E-Mails und [Inhalte](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md) in einer Instanz mit zusätzlicher Möglichkeit, [ von anderen Benutzern ](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md) Kampagnen zu beenden.
+* **[Abmeldeverwaltung](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md)**: Maximieren Sie die Zustellbarkeit und Einhaltung der Möglichkeit, E[Mail-Domains ](/help/marketo/product-docs/marketo-sales-connect/admin/blocked-domains.md) blockieren. Marketo wird vor dem Senden einer E-Mail auch einen Querverweis auf die Lead-Datenbank für Abmeldungen durchführen.
 
 ## Bizible von Marketo {#bizible-by-marketo}
 
-* **Bizible Discover - Funktionsverbesserungen**: Neue Funktionen zur Dashboard-Segmentierung ermöglichen es Marketing-Experten, die Leistung besser zu verstehen.
-* **Unterstützung für mehrere Währungen**: Wechseln Sie zwischen Ihrer Unternehmenswährung und einer beliebigen lokalen Währung mit der neuen automatischen Währungskonvertierungsfunktion von Bizible, die auf CRM-Währungstabellen basiert.
-* **CRM-Kampagnenkosten**: Messen Sie die Ausgaben und den ROI von Offline-Marketingaktivitäten mit der Möglichkeit, automatisch Kostendaten aus dem CRM-Kampagnenobjekt abzurufen.
+* **Funktionsverbesserungen für Bizible Discover**: Neue Funktionen zur Dashboard-Segmentierung ermöglichen es Marketing-Experten, die Leistung besser zu verstehen.
+* **Unterstützung mehrerer Währungen**: Wechseln Sie zwischen Ihrer Unternehmenswährung und einer beliebigen lokalen Währung mit der neuen automatischen Währungsumrechnungsfunktion von Bizible, die auf CRM-Währungstabellen basiert.
+* **CRM-Kampagnenkosten**: Messen Sie die Ausgaben und den ROI von Offline-Marketing-Aktivitäten mit der Möglichkeit, automatisch Kostendaten aus dem CRM-Kampagnenobjekt abzurufen.

@@ -1,7 +1,7 @@
 ---
 unique-page-id: 3571888
-description: Aktivieren der benutzerdefinierten Feldsynchronisierung für die Umsatzzyklusanalyse - Marketo Docs - Produktdokumentation
-title: Aktivieren der benutzerdefinierten Feldsynchronisierung für die Umsatzzyklusanalyse
+description: Aktivieren der Synchronisierung benutzerdefinierter Felder für die Umsatzzyklusanalyse - Marketo-Dokumente - Produktdokumentation
+title: Aktivieren der Synchronisierung benutzerdefinierter Felder für die Umsatzzyklusanalyse
 exl-id: 5656db8f-fce5-47c3-b35d-4faebbdcaa44
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# Aktivieren der benutzerdefinierten Feldsynchronisierung für die Umsatzzyklusanalyse {#enabling-custom-field-sync-for-revenue-cycle-analytics}
+# Aktivieren der Synchronisierung benutzerdefinierter Felder für die Umsatzzyklusanalyse {#enabling-custom-field-sync-for-revenue-cycle-analytics}
 
 Mit den folgenden Schritten können Sie benutzerdefinierte Felder in RCA-Berichten verwenden.
 
@@ -19,11 +19,11 @@ Mit den folgenden Schritten können Sie benutzerdefinierte Felder in RCA-Bericht
 
    ![](assets/one.png)
 
-1. Klicken Sie auf **Umsatzzyklusanalysen** und dann auf **Benutzerdefinierte Feldsynchronisierung**.
+1. Klicken Sie auf **Umsatzzyklusanalyse** und dann auf **Benutzerdefinierte Feldsynchronisierung**.
 
    ![](assets/two.png)
 
-1. Wählen Sie Ihren **Feldnamen** aus und klicken Sie dann auf **Option &quot;Synchronisierung bearbeiten&quot;**.
+1. Wählen Sie **Feldname** aus und klicken Sie dann auf **Synchronisierungsoption bearbeiten**.
 
    ![](assets/three.png)
 
@@ -31,11 +31,11 @@ Mit den folgenden Schritten können Sie benutzerdefinierte Felder in RCA-Bericht
 
    ![](assets/four.png)
 
-1. Die grüne Prüfung zeigt an, dass das Feld für die Synchronisierung eingerichtet ist.
+1. Bei der grünen Prüfung wird angezeigt, dass das Feld für die Synchronisierung eingerichtet wurde.
 
    ![](assets/five.png)
 
-   Und das ist das!
+   Und das war&#39;s!
 
    >[!NOTE]
    >

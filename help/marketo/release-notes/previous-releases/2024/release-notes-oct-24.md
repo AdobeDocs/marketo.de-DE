@@ -2,7 +2,8 @@
 description: Oktober 2024 - Versionshinweise zu Marketo - Produktdokumentation
 title: Oktober 2024 – Versionshinweise
 feature: Release Information
-source-git-commit: 4e13fbba90efcecf8f22e4d8cdc5173e6f6f43a4
+exl-id: 2e28ae7f-51de-4510-b3e8-79a989f0daf5
+source-git-commit: 718aca9da7748a265f1f24524e46cdef3dc651b3
 workflow-type: tm+mt
 source-wordcount: '548'
 ht-degree: 3%

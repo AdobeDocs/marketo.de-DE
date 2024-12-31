@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2951111
-description: September 2012 - Versionshinweise - Marketo-Dokumente - Produktdokumentation
+description: Versionshinweise - September 2012 - Marketo-Dokumentation - Produktdokumentation
 title: September 2012 - Versionshinweise
 exl-id: c81da5ef-11ec-4015-a820-691fa314f369
 feature: Release Information
@@ -11,51 +11,51 @@ ht-degree: 0%
 
 ---
 
-# September 2012 - Versionshinweise {#release-notes-september}
+# Versionshinweise: September 2012 {#release-notes-september}
 
-Diese Version beinhaltet hoch erwartete, integrierte soziale Funktionen und Lead-Management-Strategien! Hinweis: Social-Funktionen sind als Add-on oder als Teil ausgewählter Bundles verfügbar.
+Diese Version enthält mit Spannung erwartete, integrierte Social-Media-Funktionen und gute Tipps für das Lead-Management! Hinweis: Social-Media-Funktionen sind als Add-on oder als Teil ausgewählter Bundles verfügbar.
 
-## Publish - YouTube-Video mit Social Sharing {#publish-a-youtube-video-with-social-sharing}
+## Publish a YouTube-Video mit Social Sharing {#publish-a-youtube-video-with-social-sharing}
 
-Mithilfe der neuen Videofreigabe auf Ihren Landingpages können Sie die Zielgruppe für Ihre Videos erweitern, indem Sie Ihre Besucher dazu anregen, diese in sozialen Netzwerken zu teilen.
+Verstärken Sie die Zielgruppe für Ihre Videos, indem Sie Ihre Besucher mithilfe der neuen Videofreigabe auf Ihren Landingpages dazu ermutigen, sie in sozialen Netzwerken zu teilen.
 
 ![](assets/image2014-9-23-10-3a39-3a21.png)
 
-## Hinzufügen einer Freigabeschaltfläche {#add-a-share-button}
+## Schaltfläche „Freigeben“ hinzufügen {#add-a-share-button}
 
-Passen Sie die Freigabe von Nachrichten und das Erscheinungsbild eines neuen Sets von Schaltflächen für die Freigabe in sozialen Netzwerken vollständig an. Erfassen Sie außerdem Social-Profildaten, während Ihre Leads Ihre Inhalte gemeinsam nutzen.
+Geben Sie Nachrichten und das Erscheinungsbild eines neuen Satzes von Schaltflächen zum Teilen in sozialen Netzwerken vollständig an. Erfassen Sie außerdem Social-Media-Profildaten, wenn Ihre Leads Ihre Inhalte freigeben.
 
 ![](assets/image2014-9-23-10-3a39-3a46.png)
 
 ## Social-Anmeldung {#social-sign-on}
 
-Gewinnen Sie Einblicke und verringern Sie Reibungen, indem Sie es Leads ermöglichen, Formulare mit Informationen aus ihren sozialen Netzwerken vorab auszufüllen.
+Gewinnen Sie Einblicke und reduzieren Sie Reibungen, indem Sie es Leads ermöglichen, Formulare mit Informationen aus ihren sozialen Netzwerken vorzubefüllen.
 
 ![](assets/image2014-9-23-10-3a40-3a2.png)
 
-## Publish-Einstiegsseiten in Facebook {#publish-landing-pages-to-facebook}
+## Publish-Landingpages in Facebook {#publish-landing-pages-to-facebook}
 
-Erweitern Sie die Reichweite Ihrer Landingpages, indem Sie sie direkt in Facebook veröffentlichen, einschließlich sozialer Apps, Formularen und der vollständigen Funktionalität der Landingpages von Marketo.
+Erweitern Sie die Reichweite Ihrer Landingpages, indem Sie diese direkt in Facebook veröffentlichen - mit Social-Media-Apps, Formularen und dem vollen Funktionsumfang der Landingpages von Marketo.
 
 ## ReadyTalk-Ereignisadapter {#readytalk-event-adapter}
 
-Verbinden Sie nahtlos ein Marketo-Ereignis mit einem ReadyTalk-Meeting. Verwenden Sie ein Marketo-Formular, um Registrierungspflichtige zu erfassen und sie automatisch in ReadyTalk zu registrieren. Eine bidirektionale Synchronisation ermöglicht es, Anwesenheitsinformationen in Marketo zu füllen.
+Nahtlose Verbindung eines Marketo-Ereignisses mit einem ReadyTalk-Meeting. Verwenden Sie ein Marketo-Formular, um Registrierende zu erfassen und automatisch in ReadyTalk zu registrieren. Bei einer bidirektionalen Synchronisierung können Anwesenheitsinformationen in Marketo eingefügt werden.
 
 ![](assets/image2014-9-23-10-3a40-3a16.png)
 
-## Microsoft Dynamics On Premise {#microsoft-dynamics-on-premise}
+## Microsoft Dynamics On-Premise {#microsoft-dynamics-on-premise}
 
-Microsoft Dynamics 2011 wird jetzt On-Premise mit einer Internet-Facing-Implementierung unterstützt.
+Wir unterstützen nun Microsoft Dynamics 2011 On-Premise mit einer Bereitstellung mit Internetzugriff.
 
 ## Webhooks (Schatztruhe) {#webhooks-treasure-chest}
 
-Ein Webhook ist ein benutzerdefinierter HTTP-Rückruf. Es ist eine großartige Möglichkeit, Daten von Marketo an einen anderen Dienst zu übertragen. Diese Funktion ist derzeit in der Schatzkiste verfügbar und wird derzeit nur in Trigger-Kampagnen unterstützt.
+Ein Webhook ist ein benutzerdefinierter HTTP-Callback. Dies ist eine hervorragende Möglichkeit, Daten von Marketo an einen anderen Service zu übertragen. Diese Funktion ist derzeit in der Schatztruhe verfügbar und wird derzeit nur in Trigger-Kampagnen unterstützt.
 
-Beispiele für die Verwendung von Webhooks sind: das Posten von Benutzername- und Passwortinformationen in einem anderen System, um ein Testkonto zu erstellen; das Senden einer SMS-Textnachricht, wenn Sie einen neuen Lead erhalten.
+Beispiele für die Verwendung von Webhooks sind: Senden von Benutzernamen- und Kennwortinformationen an ein anderes System, um ein Testkonto zu erstellen, und Senden einer SMS-Textnachricht, wenn Sie einen neuen Lead erhalten.
 
-## Aktualisierung der getMultipleLeads-API {#update-to-getmultipleleads-api}
+## Aktualisierung für getMultipleLeads-API {#update-to-getmultipleleads-api}
 
-Wir haben dem API-Aufruf getMultipleLeads neue Filterkriterien hinzugefügt. Zusätzlich zum Filtern nach Datum unterstützen wir jetzt zusätzliche Kriterien:
+Wir haben dem Aufruf der getMultipleLeads-API neue Filterkriterien hinzugefügt. Zusätzlich zur Filterung nach Datum unterstützen wir jetzt weitere Kriterien:
 
 * Datumsbereiche
 * Statische Listennamen

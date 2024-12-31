@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2951099
-description: Versionshinweise - April 2013 - Marketo-Dokumente - Produktdokumentation
+description: Versionshinweise - April 2013 - Marketo-Dokumentation - Produktdokumentation
 title: April 2013 - Versionshinweise
 exl-id: 5b202877-b501-4cd2-9fe2-e8663dd5792f
 feature: Release Information
@@ -11,9 +11,9 @@ ht-degree: 3%
 
 ---
 
-# April 2013 - Versionshinweise {#release-notes-april}
+# Versionshinweise: April 2013 {#release-notes-april}
 
-Die folgenden Funktionen sind in der April-Version enthalten.
+Die folgenden Funktionen sind in der Version vom April enthalten.
 
 ## Box-Integration {#box-integration}
 
@@ -23,22 +23,22 @@ Verbinden Sie Marketo mit Ihrem Box-Konto, um Dateien einfach in das Design-Stud
 
 ## Gmail-Plugin {#gmail-plugin}
 
-Wenn Sie Marketo Sales Insight sowie Gmail verwenden, können Sie unser neues Gmail-Plugin über den Chrome Store installieren. Mit dem -Plug-in können Sie Nachrichten mit Marketo protokollieren, Marketo-E-Mail-Vorlagen laden und Nachrichten mit Marketo-Tracking-Funktionen senden.
+Wenn Sie Marketo Sales Insight sowie Gmail verwenden, können Sie unser neues Gmail-Plug-in über den Chrome Store installieren. Mit dem Plug-in können Sie Nachrichten mit Marketo protokollieren, Marketo-E-Mail-Vorlagen laden und Nachrichten mit Marketo-Tracking-Funktionen senden.
 
 ![](assets/image2014-9-22-15-3a48-3a57.png)
 
 ## E-Mail-Analyse {#email-analysis}
 
-Erstellen Sie erweiterte E-Mail-Berichte im Umsatz-Explorer, z. B. den Bericht &quot;Klickaktivität - Kopfzeilenraster&quot;. Dieser Bericht gibt Aufschluss über den Tag und die Uhrzeit, zu der Benutzer auf Links in E-Mails klicken.
+Erweiterte E-Mail-Berichte im Umsatz-Explorer erstellen, z. B. den Bericht zum Klick-Aktivitäts-Wärmenraster . Dieser Bericht gibt einen Einblick in den Tag und die Uhrzeit, zu der Personen auf Links in Ihren E-Mails klicken.
 
-Die Funktion E-Mail-Analyse wird im April und Mai bei der Migration Ihrer E-Mail-Daten für 2012 und 2013 stufenweise aktiviert. Anders ausgedrückt: Einige Kunden werden eher auf diese Funktion zugreifen können als andere.
+Die E-Mail-Analysefunktion wird während der Migration Ihrer E-Mail-Daten für 2012 und 2013 schrittweise im April und Mai aktiviert. Mit anderen Worten, einige Kunden werden früher Zugriff auf diese Funktion haben als andere.
 
 ![](assets/image2014-9-22-15-3a49-3a16.png)
 
 ## Programm-APIs {#program-apis}
 
-Unterstützung von Programmen im SOAP API-Aufruf, einschließlich schreibgeschützter Zugriffsrechte auf Programmdaten wie: Anzahl der Programmmitgliedschaften, erworben von, Erfolg, Einstellungen, Kanäle, Tags, Token und Kosten. Weitere Informationen finden Sie in der Dokumentation zur SOAP-API .
+Unterstützung für Programme im SOAP-API-Aufruf, einschließlich Nur-Lese-Zugriff auf Programmdaten wie: Anzahl der Programmmitgliedschaften, Erworben von, Erfolg, Einstellungen, Kanäle, Tags, Token und Kosten. Weitere Informationen finden Sie in der SOAP-API-Dokumentation .
 
 ## ON24-Verbesserung {#on-enhancement}
 
-Vorgangstitel und Firmenname werden von Ihrem Marketo-Registrierungsformular mit ON24 synchronisiert.
+Tätigkeitsbezeichnung und Firmenname werden mit ON24 aus Ihrem Marketo-Registrierungsformular synchronisiert.

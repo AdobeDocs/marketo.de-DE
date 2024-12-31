@@ -1,27 +1,27 @@
 ---
 unique-page-id: 4720232
-description: Erstellen einer neuen Kontoliste - Marketo Docs - Produktdokumentation
-title: Neue Kontoliste erstellen
+description: Erstellen einer neuen Kontoliste - Marketo-Dokumente - Produktdokumentation
+title: Erstellen einer neuen Kontoliste
 exl-id: 644c5b3b-852a-4dd9-8e55-b434505504ea
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '405'
-ht-degree: 7%
+ht-degree: 8%
 
 ---
 
-# Neue Kontoliste erstellen {#create-a-new-account-list}
+# Erstellen einer neuen Kontoliste {#create-a-new-account-list}
 
-Erstellen Sie eine Liste mit Organisations- und Domänennamen und laden Sie sie hoch, um diese wichtigen Konten mit personalisierten Kampagnen anzusprechen.
+Erstellen Sie eine Liste mit Organisations- und Domain-Namen und laden Sie sie hoch, um diese wichtigen Konten mit personalisierten Kampagnen anzusprechen.
 
 >[!NOTE]
 >
->Dieser Artikel gilt nur für ältere Web-ABM-Kunden. Wenn Sie nach September 2016 Web ABM erworben haben, führen Sie stattdessen die Schritte in [diesem Artikel](https://docs.marketo.com/display/DOCS/Account+Lists#AccountLists-CreateaNewAccountList) aus.
+>Dieser Artikel gilt nur für ältere Web ABM-Kunden. Wenn Sie Web ABM nach September 2016 erworben haben, führen Sie stattdessen die Schritte in [diesem Artikel](https://docs.marketo.com/display/DOCS/Account+Lists#AccountLists-CreateaNewAccountList) aus.
 
-## Neue Kontoliste erstellen {#create-a-new-account-list-1}
+## Erstellen einer neuen Kontoliste {#create-a-new-account-list-1}
 
-1. Wechseln Sie zu **Kontolisten**.
+1. Navigieren Sie zu **Kontolisten**.
 
    ![](assets/dropdown-account-lists-hand.jpg)
 
@@ -29,22 +29,22 @@ Erstellen Sie eine Liste mit Organisations- und Domänennamen und laden Sie sie 
 
    ![](assets/create-new-account-list-hand.jpg)
 
-1. Wählen Sie **Durchsuchen** aus und laden Sie Ihre CSV-Datei hoch (stellen Sie sicher, dass die CSV-Datei die Kriterien erfüllt). Fügen Sie einen **Namen** und eine **Beschreibung** hinzu. Klicken Sie auf **Speichern**.
+1. Wählen Sie **Durchsuchen** aus und laden Sie Ihre CSV-Datei hoch (stellen Sie sicher, dass die CSV-Datei die Kriterien erfüllt). Fügen Sie **Name** und &quot;**&quot;**. Klicken Sie auf **Speichern**.
 
    ![](assets/create-account-list-hands.jpg)
 
    >[!NOTE]
    >
-   >**Welches Format hat die CSV-Datei?**
+   >**Was ist das Format für die CSV-Datei?**
    >
-   >Stellen Sie sicher, dass die CSV-Datei mit dem spezifischen Konto die folgenden Anforderungen erfüllt:
+   >Stellen Sie sicher, dass die CSV-Datei des benannten Kontos die folgenden Anforderungen erfüllt:
    >
    >* Als CSV-Format gespeichert
-   >* Höchstens 10 MB
-   >* Nur 4 Spalten mit der Kopfzeile Spalte A: Name, Spalte B: Domäne, Spalte C: Land, Spalte D: US-Bundesstaat.
+   >* 10 MB nicht überschreiten
+   >* Nur 4 Spalten mit der Überschrift Spalte A: Name, Spalte B: Domäne, Spalte C: Land, Spalte D: US-Bundesstaat.
    >* Bis zur Genehmigung hochgeladener Dateien können bis zu 2 Werktage vergehen.
    >* Sie erhalten per E-Mail eine Genehmigung, oder prüfen Sie den Dateistatus auf der Seite für benannte Konten.
-   >* Die Gesamtzahl der Datensätze/Zeilen, die für alle hochgeladenen Listen gesammelt wurden, beginnt bei 10.000, das größte Paket insgesamt 100.000.
+   >* Die Gesamtzahl der gesammelten Datensätze/Zeilen für alle hochgeladenen Listen beginnt bei 10.000, wobei das größte Paket 100.000 umfasst.
 
    >[!NOTE]
    >
@@ -53,30 +53,30 @@ Erstellen Sie eine Liste mit Organisations- und Domänennamen und laden Sie sie 
    >* Zeile 1 Spalte A Wert = Organisation
    >* Zeile 1 Spalte B Wert = Domäne
    >* Zeile 1 Spalte C Wert = Land
-   >* Zeile 1 Spalte D Wert = US-Status
-   >* Einer der Spaltenwerte ist obligatorisch. Wenn Sie jedoch sowohl Organisations- als auch Domänennamen angeben, werden die Übereinstimmungsraten der Kontoliste verbessert.
+   >* Zeile 1 Spalte D Wert = US-Bundesstaat
+   >* Einer der Spaltenwerte ist obligatorisch. Durch die Angabe von Organisations- und Domain-Namen werden jedoch die Übereinstimmungsraten der Kontenliste verbessert.
    >* Land und Bundesland sind optionale Werte.
    >
-   >   * Verwenden Sie für den Ländernamen den vollständigen Ländernamen oder die Abkürzungsnummer. Z. B. USA oder USA.
-   >   * Verwenden Sie für einen US-Bundesstaat den 2-Buchstaben-Abkürzungscode, d. h. CA. Nur US-Staaten werden anerkannt.
+   >   * Für den Ländernamen verwenden Sie den vollständigen Ländernamen oder den Abkürzungscode. Z. B. Vereinigte Staaten oder USA.
+   >   * Für einen US-Bundesstaat verwenden Sie den aus zwei Buchstaben bestehenden Abkürzungscode, d. h. CA. Nur US-Bundesstaaten werden anerkannt.
    >
    >![](assets/image2015-2-25-12-3a19-3a10.png)
 
 ## Bearbeiten einer Kontoliste {#edit-an-account-list}
 
-Klicken Sie auf der Seite **Kontolisten** auf das Symbol **Bearbeiten** in der Liste.
+Klicken Sie auf der **Kontolisten** auf das Symbol **Bearbeiten** in der Liste.
 
 ![](assets/create-new-account-list-edit.jpg)
 
-Wählen Sie **Durchsuchen** aus und laden Sie Ihre neue CSV-Datei hoch. Diese Datei ersetzt die Originaldatei. Klicken Sie auf **Speichern**. Die neu hochgeladene Datei befindet sich im Status &quot;Ausstehend&quot;, bis sie vom Marketo-Support genehmigt wurde. Sobald sich der Status &quot;Ausstehend&quot; befindet, bleibt die Originaldatei aktiv.
+Wählen Sie **Durchsuchen** aus und laden Sie Ihre neue CSV-Datei hoch. Diese Datei ersetzt die Originaldatei. Klicken Sie auf **Speichern**. Die neue hochgeladene Datei befindet sich im Status „Ausstehend“, bis sie vom Marketo-Support genehmigt wurde. Im Status „Ausstehend“ bleibt die Originaldatei aktiv.
 
 ![](assets/set-account-list-edit-hands.jpg)
 
 Die CSV-Datei ersetzt die vorhandene Datei. Die vorhandene Liste bleibt aktiv, bis die Verarbeitung der neuen Datei abgeschlossen ist.
 
-## Eine Liste mit benannten Konten löschen {#delete-a-named-account-list}
+## Löschen einer benannten Kontoliste {#delete-a-named-account-list}
 
-1. Klicken Sie auf der Seite **Kontolisten** auf das Symbol Löschen der Liste, die Sie löschen möchten.
+1. Klicken Sie auf **Seite &quot;**&quot; auf das Symbol Löschen der Liste, die Sie löschen möchten.
 
    ![](assets/create-new-account-list-delete.jpg)
 
@@ -86,4 +86,4 @@ Die CSV-Datei ersetzt die vorhandene Datei. Die vorhandene Liste bleibt aktiv, b
 
 >[!MORELIKETHIS]
 >
->[Erstellen eines Segments mit einer Kontoliste](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-segment-using-an-account-list.md)
+>[Erstellen eines Segments mithilfe einer Kontoliste](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-segment-using-an-account-list.md)

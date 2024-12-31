@@ -13,19 +13,19 @@ ht-degree: 3%
 
 # Attributionsbeispiel 4 {#attribution-example}
 
-Lesen Sie das folgende Szenario und versuchen Sie, die Zahlen zu ermitteln, die im Raster angezeigt werden sollen.
+Lesen Sie das folgende Szenario und versuchen Sie, die Zahlen zu bestimmen, die im Raster enthalten sein sollen.
 
-* 11. April | Michelle downloads e-Book (Content) - Erfolg
-* 15. April | John besucht (Webinar) - Erfolg
-* 22. April | (Chance 1) erstellt für 3.000 $
-* 24. April | (Chancen 2) erstellt für 5.000 $
-* 25. April | John und Michelle sind **beide** Optionen zugeordnet
-* 29. April | [Opty 1] is Closed-Won
+* 11. April | Michelle lädt E-Book herunter (Inhalt) - Erfolg
+* 15. April | John nimmt teil (Webinar) - Erfolg
+* 22. April | (Opportunity 1) für 3.000 $ erstellt
+* 24. April | (Opportunity 2) für 5.000 $ erstellt
+* 25. April | John und Michelle sind mit Optys **beide** verbunden
+* 29. April | [Opty 1] ist abgeschlossen gewonnen
 
 | Programmname | (Inhalt) | (Webinar) |
 |---|---|---|
-|   | (Option 1) | (Option 2) | (Option 1) | (Option 2) |
-| (MT) Opty Created | `<pre>0.5</pre>` | `<pre>0.5</pre>` | `<pre>0.5</pre>` | `<pre>0.5</pre>` |
+|   | (leer 1) | (leer 2) | (leer 1) | (leer 2) |
+| (MT) leer erstellt | `<pre>0.5</pre>` | `<pre>0.5</pre>` | `<pre>0.5</pre>` | `<pre>0.5</pre>` |
 | (MT) Erstellte Pipeline | `<pre>$1,500</pre>` | `<pre>$2,500</pre>` | `<pre>$1,500</pre>` | `<pre>$2,500</pre>` |
 | (MT) Opty Won | `<pre>0.5</pre>` | `<pre>0</pre>` | `<pre>0.5</pre>` | `<pre>0</pre>` |
 | (MT) Gewonnener Ertrag | `<pre>$1,500</pre>` | `<pre>$0</pre>` | `<pre>$1,500</pre>` | `<pre>$0</pre>` |
@@ -34,21 +34,21 @@ Lesen Sie das folgende Szenario und versuchen Sie, die Zahlen zu ermitteln, die 
 
 >[!NOTE]
 >
->**Erklärung**
+>**Erläuterung**
 >
->Wenn Sie mehrere Möglichkeiten und mehrere Personen mit Programmerfolg haben, müssen Sie die Gewichtung zwischen Personen und Programmen aufteilen. Beachten Sie jedoch, dass die Gutschrift für die Chancen 1 und 2 nicht kombiniert wird. Jede ist eine eigene Bonitätsbeurteilung.
+>Wenn Sie mehrere Opportunities und mehrere Personen mit Programmerfolg haben, müssen Sie die Gutschrift auf die Personen und Programme aufteilen. Beachten Sie jedoch, dass die Gutschrift für Opportunity 1 und Opportunity 2 nicht kombiniert wird. Jedes ist eine eigene Bonitätsbeurteilung.
 >
->Wenn viele Personen beteiligt sind, berechnet Marketo automatisch die Bruchteile einer Chance, die man sich zutraut.
+>Wenn viele Personen involviert sind, berechnet Marketo automatisch den Teil einer Chance, für den man Anerkennung zollen kann.
 
 >[!NOTE]
 >
 >**Attributionsregeln**
 >
->1. Die Gewichtung wird gleichmäßig aufgeteilt
->1. Du kannst nicht mehr Guthaben als du verdient hast
->1. Man kann etwas, das in der Vergangenheit passiert ist, nicht zuschreiben
+>1. Die Kredite werden gleichmäßig aufgeteilt
+>1. Man kann nicht mehr zuschreiben, als man verdient
+>1. Man kann nicht für etwas verantwortlich machen, das in der Vergangenheit passiert ist
 
-Probieren Sie alle Beispiele aus und Sie werden ein Attributionsprofi sein!
+Probieren Sie alle Beispiele aus und Sie werden ein Attribution-Profi!
 
 >[!MORELIKETHIS]
 >

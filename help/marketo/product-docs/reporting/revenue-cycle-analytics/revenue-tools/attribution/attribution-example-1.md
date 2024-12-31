@@ -13,16 +13,16 @@ ht-degree: 4%
 
 # Attributionsbeispiel 1 {#attribution-example}
 
-Lesen Sie das folgende Szenario und versuchen Sie, die Zahlen zu ermitteln, die im Raster angezeigt werden sollen.
+Lesen Sie das folgende Szenario und versuchen Sie, die Zahlen zu bestimmen, die im Raster enthalten sein sollen.
 
-* 11. April | Fred wird von (Tradeshow) erworben
-* 15. April | Margo-Teilnehmer (Webinar) - Erfolg
-* 22. April | Fred wird (Rolle) mit der Gelegenheit verknüpft
-* 22. April | Die Chance wird für 3.000 $ geschaffen
+* 11. April | Fred wird erworben von (Fachmesse)
+* 15. April | Margo nimmt teil (Webinar) - Erfolg
+* 22. April | Fred ist mit der Opportunity verknüpft (Rolle).
+* 22. April | Opportunity wird für 3.000 $ erstellt
 
-| Programmname | (Gewerbeproben) | (Webinar) |
+| Programmname | (Fachmesse) | (Webinar) |
 |---|---|---|
-| (FT) Option erstellt | `<pre>1</pre>` | `<pre>0</pre>` |
+| (FT) leer erstellt | `<pre>1</pre>` | `<pre>0</pre>` |
 | (FT) Erstellte Pipeline | `<pre>$3,000</pre>` | `<pre>$0</pre>` |
 | (FT) Opty Won | `<pre>0</pre>` | `<pre>0</pre>` |
 | (FT) Gewonnener Ertrag | `<pre>0</pre>` | `<pre>0</pre>` |
@@ -31,21 +31,21 @@ Lesen Sie das folgende Szenario und versuchen Sie, die Zahlen zu ermitteln, die 
 
 >[!NOTE]
 >
->**Erklärung**
+>**Erläuterung**
 >
->Zunächst muss man verstehen, dass einige Typen ZÄHLEN und andere WÄHRUNGEN sind. Option erstellt ist eine Zählung, eine Ganzzahl. Die Pipeline ist eine Währung. In Marketo entspricht die Währung Ihren Gebietsschemaeinstellungen für Administratoren.
+>Zunächst ist zu verstehen, dass einige Typen COUNTS und andere WÄHRUNG sind. „Opty Created“ ist eine Zahl, eine Ganzzahl. Pipeline ist eine Währung. In Marketo entspricht die Währung den Einstellungen für Ihr Admin-Gebietsschema.
 >
->Der Grund, warum die Tradeshow alle Anerkennung erhielt, ist, dass Margo nicht mit einer Rolle in der Gelegenheit verbunden war. Keine Rolle, keine Gutschrift.
+>Der Grund, warum die Messe alle Anerkennung erhielt, ist, dass Margo nicht mit einer Rolle in der Opportunity in Verbindung gebracht wurde. Keine Rolle, keine Anerkennung.
 
 >[!NOTE]
 >
 >**Attributionsregeln**
 >
->1. Die Gewichtung wird gleichmäßig aufgeteilt
->1. Du kannst nicht mehr Guthaben als du verdient hast
->1. Man kann etwas, das in der Vergangenheit passiert ist, nicht zuschreiben
+>1. Die Kredite werden gleichmäßig aufgeteilt
+>1. Man kann nicht mehr zuschreiben, als man verdient
+>1. Man kann nicht für etwas verantwortlich machen, das in der Vergangenheit passiert ist
 
-Probieren Sie alle Beispiele aus und Sie werden ein Attributionsprofi sein!
+Probieren Sie alle Beispiele aus und Sie werden ein Attribution-Profi!
 
 >[!MORELIKETHIS]
 >

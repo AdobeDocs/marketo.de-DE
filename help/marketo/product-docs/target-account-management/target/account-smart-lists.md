@@ -1,7 +1,7 @@
 ---
 unique-page-id: 11378814
-description: Intelligente Kontolisten - Marketo-Dokumente - Produktdokumentation
-title: Intelligente Kontolisten
+description: Smart-Listen für Konten - Marketo-Dokumente - Produktdokumentation
+title: Smart-Listen für Konten
 exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
 feature: Target Account Management
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
@@ -11,29 +11,29 @@ ht-degree: 1%
 
 ---
 
-# Intelligente Kontolisten {#account-smart-lists}
+# Smart-Listen für Konten {#account-smart-lists}
 
-So können Sie Ihre hochwertigen Konten schnell und präzise identifizieren.
+So können Sie schnell und präzise Ihre hochwertigen Konten identifizieren.
 
 >[!NOTE]
 >
->Diese Funktion ist nur für Benutzer verfügbar, die sowohl über das Target Account Management-Add-on als auch über eine lizenzierte TAM verfügen.
+>Diese Funktion steht nur jenen zur Verfügung, die sowohl über das Add-on „Target Account Management“ als auch über eine TAM-Lizenz verfügen.
 
-## Erstellen einer intelligenten Kontoliste {#create-an-account-smart-list}
+## Erstellen einer Smart-Liste für Konten {#create-an-account-smart-list}
 
-1. Wechseln Sie in Marketo zu **Marketingaktivitäten**.
+1. Navigieren Sie in Marketo zu **Marketing-Aktivitäten**.
 
    ![](assets/account-smart-lists-1.png)
 
-1. Wählen Sie das gewünschte Programm aus.
+1. Suchen und wählen Sie Ihr gewünschtes Programm aus.
 
    ![](assets/account-smart-lists-2.png)
 
-1. Klicken Sie auf die Dropdownliste **Neu** und wählen Sie **Neues lokales Asset** aus.
+1. Klicken Sie auf **Neu** und wählen Sie **Neues lokales Asset**.
 
    ![](assets/account-smart-lists-3.png)
 
-1. Klicken Sie auf **Intelligente Kontoliste**.
+1. Klicken Sie **Smart-Liste Konto**.
 
    ![](assets/account-smart-lists-4.png)
 
@@ -41,17 +41,17 @@ So können Sie Ihre hochwertigen Konten schnell und präzise identifizieren.
 
    ![](assets/account-smart-lists-5.png)
 
-Ihre Konto-Smart-Liste wurde erstellt! Anweisungen zum Definieren der Regeln finden Sie unten.
+Die Smart List Ihres Kontos wurde erstellt! Anweisungen zum Definieren der Regeln finden Sie unten.
 
 ## Konto-Smart-List-Regeln {#account-smart-list-rules}
 
-Smart-Listen für Konten funktionieren ähnlich wie standardmäßige Smart-Listen, mit einer wichtigen Ausnahme: Container.
+Account-Smart-Listen funktionieren ähnlich wie Standard-Smart-Listen, mit einer bemerkenswerten Ausnahme: Container.
 
-1. Um Ihre intelligente Kontoliste zu definieren, klicken Sie auf die Registerkarte **Regeln für intelligente Kontoliste** .
+1. Um Ihre Smart-Liste für Konten zu definieren, klicken Sie auf die Registerkarte **Regeln für Smart-Listen für**.
 
    ![](assets/account-smart-lists-6.png)
 
-1. Wählen Sie die gewünschten Kontofilter aus. In diesem Beispiel wählen wir _Branche ist Gesundheitsfürsorge_.
+1. Wählen Sie Ihre gewünschten Kontofilter aus. In diesem Beispiel wählen wir &quot;_ist Healthcare_.
 
    ![](assets/account-smart-lists-7.png)
 
@@ -59,50 +59,50 @@ Smart-Listen für Konten funktionieren ähnlich wie standardmäßige Smart-Liste
 
    >[!NOTE]
    >
-   >ICP-Indikatordaten, die in Ihrer [Konto-Profiling-Ranking und -Optimierung](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md) verwendet wurden, werden als benutzerdefinierte Kontoattribute zur Verwendung in Ihrer Konto-Smart-Liste angezeigt. Diese benutzerdefinierten Attributdaten basieren auf dem Zeitpunkt, zu dem das Kontoprofilmodell erstellt/aktualisiert wurde.
+   >Die ICP-Indikatordaten, die in Ihrem [Account-Profiling, Ranking und Tuning](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md) verwendet wurden, werden als benutzerdefinierte Kontoattribute zur Verwendung in Ihrer Account-Smart-Liste angezeigt. Diese benutzerdefinierten Attributdaten basieren auf dem Zeitpunkt, zu dem das Kontoprofilmodell erstellt/aktualisiert wurde.
 
-1. Wählen Sie die Filter für übereinstimmende Personen aus. In diesem Beispiel wählen wir &quot;_Bundesstaat ist Kalifornien_&quot;.
+1. Wählen Sie Ihre passenden Personenfilter aus. In diesem Beispiel wählen wir &quot;_ist Kalifornien_.
 
    ![](assets/account-smart-lists-9.png)
 
-**OPTIONALER SCHRITT**: Hier kommen Container herein. Wenn Sie einen zusätzlichen Filter für übereinstimmende Personen auswählen, können Sie ihn unter den ersten oder unter _in_ ablegen und so einen Container erstellen. In diesem Beispiel erstellen wir einen Container, indem wir _Auftragstitel ist CFO_ hinzufügen.
+**OPTIONALER SCHRITT**: Hier kommen Container ins Spiel. Wenn Sie einen zusätzlichen Filter für übereinstimmende Personen auswählen, können Sie ihn unter dem ersten Filter ablegen oder _in_ einen Container erstellen. In diesem Beispiel erstellen wir einen Container, indem wir _Auftragstitel ist CFO_ hinzufügen.
 
 ![](assets/account-smart-lists-10.png)
 
-So sieht der Container aus.
+So wird der Container aussehen.
 
 ![](assets/account-smart-lists-11.png)
 
 >[!NOTE]
 >
->Beim Erstellen eines Containers mit Filtern wird eine &quot;und&quot;-Regel erstellt, d. h., es werden nur alle kombinierten Ergebnisse zurückgegeben. In diesem Beispiel wird eine Branche der Gesundheitsversorgung mit Standorten in Kalifornien _und_ und einer als CFO gelisteten Person erfasst. Wenn Sie keine Container verwenden möchten, legen Sie einfach den Filter unter/über dem vorhandenen ab.
+>Beim Erstellen eines Containers mit Filtern wird eine „Und“-Regel erstellt, d. h. es werden nur alle Ergebnisse kombiniert zurückgegeben. In diesem Beispiel Konten bei einer Branche des Gesundheitswesens zusammen mit einem Standort in Kalifornien _und_ mit einer Person, die als CFO aufgeführt ist. Wenn Sie keine Container verwenden möchten, legen Sie den Filter einfach unter/über dem vorhandenen ab.
 
-Und das ist es! Im folgenden Abschnitt erfahren Sie, wie Sie Ihre intelligente Kontoliste nutzen können.
+Und das war&#39;s! Im folgenden Abschnitt erfahren Sie, wie Sie Ihre Smart List für Konten nutzen können.
 
 >[!TIP]
 >
->Wie bei standardmäßigen Smart-Listen können Sie auch erweiterte Logik verwenden, um Ihre Ergebnisse weiter zu verfeinern. Dazu benötigen Sie mindestens drei Filter. In den Konto-Smart-Listen entspricht ein Container (unabhängig von der Anzahl der darin enthaltenen Filter) einem Filter.
+>Genau wie bei standardmäßigen Smart Lists können Sie erweiterte Logik verwenden, um Ihre Ergebnisse weiter zu verfeinern. Dazu benötigen Sie mindestens drei Filter. Bei Smart Lists für Konten entspricht ein Container (unabhängig davon, wie viele Filter er enthält) einem Filter.
 
 ## Konto-Smart-List-Aktionen {#account-smart-list-actions}
 
-Auf der Registerkarte Übersicht Ihrer Smart-Liste Konto werden Ihnen einige Aktionsoptionen angezeigt.
+Auf der Registerkarte Übersicht Ihrer Smart List für das Konto werden Sie einige Aktionsoptionen feststellen.
 
-**Exportieren**: Dadurch werden die Ergebnisse Ihrer Konto-Smart-Liste als CSV exportiert.
+**Exportieren**: Dadurch werden die Ergebnisse Ihrer Smart-Liste „Konto“ als CSV-Datei exportiert.
 
-**Klonen**: Kopiert Ihre intelligente Kontoliste.
+**Klonen**: Erstellt eine Kopie der Smart-Liste Ihres Kontos.
 
-**An Anzeigennetzwerk senden**: Sendet die Liste als neue übereinstimmende Zielgruppe an LinkedIn.
+**An Werbenetzwerk senden**: Sendet die Liste als neue übereinstimmende Zielgruppe an LinkedIn.
 
-Sie können Ihre intelligente Kontoliste auch in einer standardmäßigen Smart-Kampagne/Liste referenzieren, indem Sie den Filter _Personen, die Mitglied der intelligenten Kontoliste sind_ sind, verwenden.
+Sie können auch in einer standardmäßigen Smart-Kampagne/Liste auf Ihre Smart-Liste für Konten verweisen, indem Sie den Filter _Personen Mitglied der Smart-Liste_ Kontos“ verwenden.
 
 ![](assets/account-smart-lists-12.png)
 
 >[!NOTE]
 >
->Die Ergebnisse der Smart-Liste &quot;Personen mit Konto&quot;zeigen jede Person in den identifizierten Konten an, nicht nur Personen, die über die Filter für übereinstimmende Personen in der Konto-Smart-Liste gefunden wurden.
+>Die Ergebnisse der Smart-Liste Personen Mitglied des Kontos zeigen jede Person in den identifizierten Konten an, nicht nur Personen, die über Filter für übereinstimmende Personen in der Smart-Liste des Kontos gefunden werden.
 
 >[!NOTE]
 >
 >**Definition**
 >
->**Personen, die der intelligenten Kontoliste angehören**: In diesem Fall bezieht sich das Wort &quot;Mitglied&quot;auf das Konto selbst, sodass &quot;Mitglied des Kontos&quot;die tatsächlichen Personen (Marketo-Datensätze) in diesen Konten bezeichnet.
+>**Personen-Mitglied der Konto-Smart-**: In diesem Fall bezieht sich das Wort „Mitglied“ auf das Konto selbst, sodass „Personen-Mitglied“ die tatsächlichen Personen (Marketo-Einträge) in diesen Konten bedeutet.

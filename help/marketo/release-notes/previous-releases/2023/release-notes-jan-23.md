@@ -1,54 +1,54 @@
 ---
-description: Januar 2023 - Versionshinweise - Marketo-Dokumente - Produktdokumentation
-title: Januar 2023 - Versionshinweise
+description: Januar 2023 - Versionshinweise zu Marketo - Produktdokumentation
+title: Versionshinweise – Januar 2023
 exl-id: 584f74e5-ed0a-4f2f-9a1e-93cb8804dec8
 feature: Release Information
 source-git-commit: 206952c2aaa9b568a9312def6d36b15f699791b3
 workflow-type: tm+mt
 source-wordcount: '626'
-ht-degree: 6%
+ht-degree: 10%
 
 ---
 
-# Januar 2023 - Versionshinweise {#release-notes-jan-23}
+# Versionshinweise: Januar 2023 {#release-notes-jan-23}
 
-Unten finden Sie alle Funktionen der Version vom 23. Januar. Überprüfen Sie Ihre Adobe Marketo Engage-Edition auf Funktionsverfügbarkeit.
+Im Folgenden finden Sie alle Funktionen, die in der Version vom Januar 2023 enthalten sind. Überprüfen Sie Ihre Adobe Marketo Engage Edition auf die Verfügbarkeit der Funktionen.
 
 >[!AVAILABILITY]
 >
->Mit einem Stern (![Stern](assets/yellow-star.png)) gekennzeichnete Funktionen sind kostenpflichtige Add-ons. Wenden Sie sich an Ihren Marketo Engage-Support-Mitarbeiter, um mehr zu erfahren.
+>Mit einem Stern (![star](assets/yellow-star.png) gekennzeichnete Funktionen sind kostenpflichtige Add-ons. Weitere Informationen erhalten Sie von Ihrem Marketo Engage-Support-Mitarbeiter.
 
-## Standardfunktionen des Versionszyklus {#standard-release-cycle-features}
+## Standardfunktionen des Veröffentlichungszyklus {#standard-release-cycle-features}
 
-Die folgenden Funktionen fallen unter den standardmäßigen Versionszyklus und werden am 20. Januar 2023 veröffentlicht. **(mit einem stufenweisen Rollout der verbleibenden Funktionen in den nachfolgenden Wochen).** Die Veröffentlichungsfunktionen und -daten können sich ändern. Bitte prüfen Sie unten jedes Feature nach seinem Status.
+Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszyklus und werden ab dem 20. **2023 veröffentlicht** wobei die verbleibenden Funktionen in den folgenden Wochen schrittweise eingeführt werden. Veröffentlichungsfunktionen und -daten können sich ändern. Bitte überprüfen Sie im Folgenden jede Funktion auf ihren Status.
 
 ### Marketo Engage Modern UX {#modern-ux}
 
 </br>
 
-* **Aktualisierte Screens in moderner Benutzeroberfläche**: In moderner Benutzeroberfläche (früher bekannt als Erlebnis der nächsten Generation) stellen wir zusätzliche, aktualisierte Bildschirme bereit, die aktualisierte Design- und Benutzerfreundlichkeitsverbesserungen bieten, auf die über einen Umschalter zugegriffen werden kann:
+* **Aktualisierter Screens in Modern UX**: In Modern UX (früher als „Erlebnis der nächsten Generation“ bezeichnet) stellen wir zusätzliche, aktualisierte Bildschirme bereit, die aktualisierte Design- und Benutzerfreundlichkeitsverbesserungen bieten, die über einen Umschalter zugänglich sind:
 
-   * Ansicht &quot;Snippet List&quot;
-   * Liste der Landingpage-Vorlagen
+   * Snippet-Listenansicht
+   * Vorlagenliste für Landingpages
 
   <table> 
   <tr> 
    <td><b>Status</b></td>
-   <td><b>Aktualisierungen der Dokumentation</b></td>
+   <td><b>Dokumentation – Aktualisierungen</b></td>
   </tr>
   <tr> 
    <td>Versendet</td>
-   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Umschalten</a></td>
+   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Kippschalter</a></td>
   </tr>
   </tbody>
 </table>
 
-* **Verbesserte Verwendung durch Komponente für Details von E-Mail-Vorlagen und Codedetails**: Die Registerkarte &quot;Neu verwendet von Benutzeroberfläche&quot;enthält zusätzliche Informationen zu den einzelnen von Assets verwendeten Assets, z. B. wann und von wem sie zuletzt geändert wurde. Mithilfe der Such-, Sortierungs- und Filterfunktionen können Sie mühelos Analysen durchführen. Diese neue UI-Komponente wird mit den Assets E-Mail-Vorlage und Snippet integriert.
+* **Verbessert von Komponente für E-Mail-Vorlagendetails und Snippet-Details verwendet**: Die Registerkarte Neu von der Benutzeroberfläche verwendet enthält zusätzliche Informationen zu den einzelnen von Assets verwendeten Assets, z. B. wann und von wem sie zuletzt geändert wurde. Sie können Analysen einfach durch die Such-, Sortier- und Filterfunktionen durchführen. Diese neue UI-Komponente wird ab der E-Mail-Vorlage und den Snippet-Assets integriert.
 
 <table> 
   <tr> 
    <td><b>Status</b></td>
-   <td><b>Aktualisierungen der Dokumentation</b></td>
+   <td><b>Dokumentation – Aktualisierungen</b></td>
   </tr>
   <tr> 
    <td>Versendet</td>
@@ -57,16 +57,16 @@ Die folgenden Funktionen fallen unter den standardmäßigen Versionszyklus und w
   </tbody>
 </table>
 
-### Marketing Impact Analytics {#marketing-impact-analytics}
+### Analyse der Marketing-Auswirkungen {#marketing-impact-analytics}
 
 </br>
 
-* **Neu gestaltete Modelle für Report Assets**: Neues Design für Berichtkonfigurationsmodelle in der modernen Benutzeroberfläche, das ein aktualisiertes Erscheinungsbild sowie eine verbesserte Barrierefreiheit bietet.
+* **Neu gestaltete Modale für Report Assets**: Neues Design für Berichtskonfigurationsmodale in der modernen Benutzeroberfläche mit aktualisiertem Erscheinungsbild sowie verbesserter Barrierefreiheit.
 
 <table> 
   <tr> 
    <td><b>Status</b></td>
-   <td><b>Aktualisierungen der Dokumentation</b></td>
+   <td><b>Dokumentation – Aktualisierungen</b></td>
   </tr>
   <tr> 
    <td>Versendet</td>
@@ -79,12 +79,12 @@ Die folgenden Funktionen fallen unter den standardmäßigen Versionszyklus und w
 
 </br>
 
-* **Marketo Measure Ultimate**: Ermöglicht die vollständige B2B-Zuordnung für Unternehmen mit mehreren CRM- und/oder Marketo Engage-Instanzen und vielfältigen Quelldatenanforderungen. Es bietet außerdem eine B2B-Attributionslösung für Adobe RT-CDP über freigegebene AEP-Daten.
+* **Marketo Measure Ultimate**: Ermöglicht die vollständige B2B-Attribution für Unternehmen mit mehreren CRM- und/oder Marketo Engage-Instanzen und unterschiedlichen Quelldatenanforderungen. Es bietet außerdem eine B2B-Attributionslösung für das Adobe von RT-CDP über freigegebene AEP-Daten.
 
 <table> 
   <tr> 
    <td><b>Status</b></td>
-   <td><b>Aktualisierungen der Dokumentation</b></td>
+   <td><b>Dokumentation – Aktualisierungen</b></td>
   </tr>
   <tr> 
    <td>Versendet</td>
@@ -97,12 +97,12 @@ Die folgenden Funktionen fallen unter den standardmäßigen Versionszyklus und w
 
 </br>
 
-* **Registerkarte &quot;Erweiterte Webdienste&quot;durch Hinzufügen von Bulk Export API-Informationen**: Sie können jetzt die tägliche Kapazitätszuordnung für Ihre Abonnements anzeigen und die Menge der täglichen Kapazitätszuweisung anzeigen, die in den letzten sieben Tagen verwendet wurde.
+* **Registerkarte Erweiterte Web-Services durch Hinzufügen von API-Informationen zum Massenexport**: Sie können jetzt die tägliche Kapazitätszuweisung für Ihre Abonnements und die Menge der täglichen Kapazitätszuweisung anzeigen, die in den letzten sieben Tagen verwendet wurde.
 
 <table> 
   <tr> 
    <td><b>Status</b></td>
-   <td><b>Aktualisierungen der Dokumentation</b></td>
+   <td><b>Dokumentation – Aktualisierungen</b></td>
   </tr>
   <tr> 
    <td>Versendet</td>
@@ -111,20 +111,20 @@ Die folgenden Funktionen fallen unter den standardmäßigen Versionszyklus und w
   </tbody>
 </table>
 
-## Agile Release-Funktionen
+## Funktionen für Agile Versionen
 
-Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiedenen Daten vor oder nach dem standardmäßigen Veröffentlichungsdatum veröffentlicht. Bitte prüfen Sie unten jedes Feature nach seinem Status.
+Die folgenden Funktionen folgen einem Agile-Format und werden an verschiedenen Daten vor oder nach dem standardmäßigen Veröffentlichungsdatum veröffentlicht. Bitte überprüfen Sie im Folgenden jede Funktion auf ihren Status.
 
 ### Dynamic Chat {#dynamic-chat}
 
 </br>
 
-* **Picklist in Info Capture Card für Dynamic Chat definieren**: Um Datenbereinigungen sicherzustellen, können Sie Picklists für Datenerfassungskarten definieren, sodass Besucher nur aus einer vordefinierten Optionsliste auswählen können.
+* **Auswahlliste in der Informationserfassungskarte für Dynamic Chat definieren**: Um die Datenbereinigung sicherzustellen, können Sie Auswahllisten für Informationserfassungskarten definieren, damit Besuchende nur aus einer vordefinierten Liste von Optionen auswählen können.
 
 <table> 
   <tr> 
    <td><b>Status</b></td>
-   <td><b>Aktualisierungen der Dokumentation</b></td>
+   <td><b>Dokumentation – Aktualisierungen</b></td>
   </tr>
   <tr> 
    <td>Versendet</td>
@@ -133,12 +133,12 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
   </tbody>
 </table>
 
-* **Personalization in Meeting Confirmation for Dynamic Chat**: Kundendienstmitarbeiter können E-Mail-Bestätigungen zur Sitzungsbuchung mithilfe von Marketo Engage-Personen- und Firmenfeldern personalisieren, um die Interaktion mit Besuchern zu verbessern (z. B.: Besucher mit Vornamen in der E-Mail zur automatischen Sitzungsbuchung begrüßen).
+* **Personalization in Besprechungsbestätigung für Dynamic Chat**: Kundendienstmitarbeiter können E-Mail-Bestätigungen für die Besprechungsbuchung mithilfe von Marketo Engage-Personen- und Firmenfeldern personalisieren, um eine bessere Interaktion mit Besuchern zu ermöglichen (z. B.: Besucher mit ihrem Vornamen in der E-Mail mit der automatisierten Besprechungsbuchungsbenachrichtigung begrüßen).
 
 <table> 
   <tr> 
    <td><b>Status</b></td>
-   <td><b>Aktualisierungen der Dokumentation</b></td>
+   <td><b>Dokumentation – Aktualisierungen</b></td>
   </tr>
   <tr> 
    <td>Versendet</td>
@@ -147,12 +147,12 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
   </tbody>
 </table>
 
-* **Im Stream-Designer suchen**: Einfache Suche nach Inhalten im Stream-Designer, um Inhalte schnell über alle Karten/Knoten in einem Stream hinweg zu finden (z. B. Suche &quot;SEO&quot;, wodurch alle Knoten hervorgehoben werden, die diese Zeichenfolge enthalten).
+* **Suchen in Stream-Designer**: Einfaches Suchen nach Inhalten in Stream-Designer, um Inhalte schnell auf allen Karten/Knoten in einem Stream zu finden (z. B. Suche in „SEO“, wobei alle Knoten mit dieser Zeichenfolge hervorgehoben werden).
 
 <table> 
   <tr> 
    <td><b>Status</b></td>
-   <td><b>Aktualisierungen der Dokumentation</b></td>
+   <td><b>Dokumentation – Aktualisierungen</b></td>
   </tr>
   <tr> 
    <td>Versendet</td>
@@ -161,12 +161,12 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
   </tbody>
 </table>
 
-* **Chatbot-Datums-/Uhrzeitauswahl für Dynamic Chat**: Webbesucher können mit der Kalenderauswahl ein Datum und eine Uhrzeit auswählen, anstatt das Datum manuell einzugeben.
+* **Chatbot-Datums-/Zeitauswahl für Dynamic Chat**: Web-Besuchende können die Kalenderauswahl verwenden, um ein Datum und eine Uhrzeit auszuwählen, anstatt das Datum manuell einzugeben.
 
 <table> 
   <tr> 
    <td><b>Status</b></td>
-   <td><b>Aktualisierungen der Dokumentation</b></td>
+   <td><b>Dokumentation – Aktualisierungen</b></td>
   </tr>
   <tr> 
    <td>Versendet</td>
@@ -175,12 +175,12 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
   </tbody>
 </table>
 
-* **E-Mail-Benachrichtigungen bezüglich geplanter Meetings für Dynamic Chat**: Wenn ein Meeting im Kalender eines Agenten gebucht wird, erhält der Agent eine E-Mail-Benachrichtigung über die Buchung, einschließlich detaillierter Informationen zur Interaktion des Dynamic Chat mit dem Besucher.
+* **E-Mail-Benachrichtigungen zu geplanten Meetings für Dynamic Chat**: Wenn ein Meeting über den Kalender eines Agenten gebucht wird, erhält der Agent eine E-Mail-Benachrichtigung über die Buchung, einschließlich detaillierter Informationen über das Dynamic Chat-Engagement des Besuchers.
 
 <table> 
   <tr> 
    <td><b>Status</b></td>
-   <td><b>Aktualisierungen der Dokumentation</b></td>
+   <td><b>Dokumentation – Aktualisierungen</b></td>
   </tr>
   <tr> 
    <td>Versendet</td>
@@ -191,6 +191,6 @@ Die folgenden Funktionen entsprechen einem Agile-Format und werden an verschiede
 
 ## Ankündigungen {#announcements}
 
-* **Marketo REST API change**: Mit der Version vom Oktober 2022 haben wir eine geringfügige Änderung an der Marketo REST API-Antwortmeldung eingeführt. Weitere Informationen finden Sie in diesem [Marketo Nation Post](https://nation.marketo.com/t5/product-documents/upcoming-change-to-marketo-rest-api/ta-p/331698){target="_blank"} .
+* **Änderung der Marketo REST-**: Mit der Version vom Oktober 2022 haben wir eine geringfügige Änderung an der Antwortnachricht der Marketo REST-API vorgenommen. Weitere Informationen finden Sie in diesem [Beitrag ](https://nation.marketo.com/t5/product-documents/upcoming-change-to-marketo-rest-api/ta-p/331698){target="_blank"} Marketo Nation.
 
-* **_Webinar zur Produktversion_**: [Oktober 2022 und Januar 2023 Marketo Engage-Release Webinar](https://engage.marketo.com/2023_January_Release_Webinar_OnDemandPage.html){target="_blank"}
+* **_Webinar zur Produktversion_**: [Oktober 2022 und Januar 2023 Webinar zur Marketo Engage-Version](https://engage.marketo.com/2023_January_Release_Webinar_OnDemandPage.html){target="_blank"}

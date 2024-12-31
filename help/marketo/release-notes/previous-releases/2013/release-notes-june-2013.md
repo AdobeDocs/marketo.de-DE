@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2951095
-description: Versionshinweise - Juni 2013 - Marketo-Dokumente - Produktdokumentation
-title: Juni 2013 - Versionshinweise
+description: Versionshinweise - Juni 2013 - Marketo-Dokumentation - Produktdokumentation
+title: Versionshinweise - Juni 2013
 exl-id: c4f022f2-e579-42ed-9e47-00dcd96d0e6f
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,31 +11,31 @@ ht-degree: 1%
 
 ---
 
-# Juni 2013 - Versionshinweise {#release-notes-june}
+# Versionshinweise: Juni 2013 {#release-notes-june}
 
-Die folgenden Funktionen sind in der Juni-Version enthalten.
+Die folgenden Funktionen sind in der Version vom Juni enthalten.
 
 ## Zusätzliche Benutzersprachen {#additional-user-languages}
 
-Zeigen Sie die Marketo-Benutzeroberfläche für die Lead-Verwaltung in Ihrer bevorzugten Sprache an - unterstützt jetzt Spanisch und Portugiesisch.
+Sehen Sie sich die Marketo-Lead-Management-Oberfläche in Ihrer bevorzugten Sprache an - jetzt wird Spanisch und Portugiesisch unterstützt.
 
 ![](assets/image2014-9-22-16-3a25-3a54.png)
 
 ## Cobalt-Benutzeroberfläche {#cobalt-user-interface}
 
-In den nächsten Monaten werden Sie ein neues Thema sehen, das in verschiedenen Teilen der Anwendung eingeführt wurde, z. B. mit Auswirkungen auf modale Fenster.
+In den nächsten Monaten wird ein neues Design in verschiedenen Teilen des Programms eingeführt werden, was sich beispielsweise auf modale Fenster auswirkt.
 
 ![](assets/image2014-9-22-16-3a26-3a8.png)
 
-## Unterordnerklonen {#subfolder-cloning}
+## Klonen von Unterordnern {#subfolder-cloning}
 
-Klonen Sie Assets in Unterordnern.
+Klonen von Assets in Unterordnern.
 
 ![](assets/image2014-9-22-16-3a26-3a25.png)
 
 ## Mehrere Modelle {#multiple-models}
 
-Diese Funktion ist die beste Idee für die Umsatzzyklusanalyse (RCA) in der Community. Mit dieser Funktion können Sie mehrere Modelle erstellen, um ein detaillierteres Verständnis Ihres Umsatzes nach Produktlinie, Geschäftseinheit oder Region zu erhalten. Die Berichte Leads nach Umsatzstufe, Erfolgspfad-Analyzer, Programm-Analyzer und Umsatz-Explorer unterstützen jetzt die Möglichkeit, ein bestimmtes Modell für die Berichterstellung auszuwählen.
+Diese Funktion ist eine Top-Idee für die Analyse des Umsatzzyklus (Revenue Cycle Analytics, RCA) in der Community und ermöglicht Ihnen die Erstellung mehrerer Modelle, um einen detaillierteren Überblick über Ihren Umsatztrichter nach Produktlinie, Geschäftseinheit oder Region zu erhalten. Die Berichte Leads nach Umsatzstadium, Erfolgspfad-Analyzer, Programm-Analyzer und Umsatz-Explorer unterstützen jetzt die Möglichkeit, ein bestimmtes Berichtsmodell auszuwählen.
 
 Standardmäßig sind zwei Modelle für Select SMB Edition und fünfzehn Modelle für Enterprise Edition verfügbar. Sie können auch zusätzliche Modelle erwerben.
 

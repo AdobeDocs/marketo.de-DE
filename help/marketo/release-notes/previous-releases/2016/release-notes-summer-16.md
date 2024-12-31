@@ -1,7 +1,7 @@
 ---
 unique-page-id: 11380218
-description: Versionshinweise - sommer '16 - Marketo-Dokumente - Produktdokumentation
-title: Versionshinweise - sommer '16
+description: Versionshinweise - 16. Sommer - Marketo-Dokumentation - Produktdokumentation
+title: Versionshinweise - Sommer '16
 exl-id: 3843668e-c729-42aa-b05c-55c33ee0d783
 feature: Release Information
 source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
@@ -13,25 +13,25 @@ ht-degree: 3%
 
 # Versionshinweise: Sommer &#39;16 {#release-notes-summer}
 
-Die folgenden Funktionen sind in der Sommerversion 16 enthalten. Überprüfen Sie Ihre Marketo-Edition auf Funktionsverfügbarkeit. Klicken Sie auf die Titel-Links, um detaillierte Artikel zu den einzelnen Funktionen anzuzeigen.
+Die folgenden Funktionen sind in der Version vom Sommer 1916 enthalten. Überprüfen Sie Ihre Marketo Edition auf die Verfügbarkeit der Funktionen. Bitte klicken Sie auf die Titel-Links, um detaillierte Artikel für jede Funktion anzuzeigen.
 
 ## [Account-based Marketing](https://docs.marketo.com/display/docs/account+based+marketing) {#account-based-marketing}
 
-Marketo Account-basiertes Marketing bietet alle wesentlichen Funktionen einer einheitlichen Plattform:
+Account-Based-Marketing von Marketo bietet alle Grundlagen in einer zentralen Plattform:
 
-* **Ziel** - Kontoermittlung, Kontoübersicht und Namenskontenliste
-* **Interagieren** - Kontobasierte Personalization, kanalübergreifende Interaktion und kontospezifische Workflows
-* **Messen** - Insights auf Konto- und Listenebene, Interaktionsbewertung des Kontos sowie Auswirkungen auf Pipeline und Umsatz
+* **Target** - Kontoerkennung, Lead-Konto-Zuordnung und spezifische Kontolisten
+* **Engage** - Account-basierte Personalization, kanalübergreifende Interaktion und Account-spezifische Workflows
+* **Kennzahlen** - Einblicke auf Konto- und Listenebene, Kontointeraktionswert und Auswirkungen auf Pipeline und Umsatz
 
 ![](assets/abm-5-acme.png)
 
 >[!NOTE]
 >
->ABM ist als Add-on für Ihr Marketo-Abonnement verfügbar. Wenden Sie sich daher an Ihren Vertriebsmitarbeiter, um es implementieren zu lassen.
+>ABM ist als Add-on zu Ihrem Marketo-Abonnement verfügbar. Wenden Sie sich daher zur Implementierung an Ihren Vertriebsmitarbeiter.
 
-## [Audit-Trail](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md) {#audit-trail}
+## [Audit-Protokoll](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md) {#audit-trail}
 
-Das Audit-Protokoll bietet einen umfassenden Verlauf der Änderungen, die innerhalb Ihres Marketo-Abonnements vorgenommen wurden. Es wird eine Rechenschaftspflicht unter Benutzern und Administratoren schaffen, dazu beitragen, die Ursache für unerwartetes Verhalten zu identifizieren, und die Sicherheit bieten, zu wissen, wer was und wann tut. Diese Informationen sind jederzeit verfügbar und können zur Beantwortung von Fragen wie:
+Das Audit-Protokoll enthält einen umfassenden Verlauf der Änderungen, die in Ihrem Marketo-Abonnement vorgenommen wurden. Sie schafft Rechenschaftspflicht zwischen Benutzern und Administratoren, hilft bei der Identifizierung der Ursache von unerwartetem Verhalten und bietet die Sicherheit zu wissen, wer was und wann tut. Diese Informationen stehen zu jedem Zeitpunkt zur Verfügung und können zur Beantwortung von Fragen verwendet werden, wie z. B.:
 
 * Was ist mit diesem Asset oder dieser Einstellung passiert und wer hat es zuletzt aktualisiert?
 * Was hat Benutzer X so gemacht?
@@ -41,11 +41,11 @@ Das Audit-Protokoll bietet einen umfassenden Verlauf der Änderungen, die innerh
 
 ## [Marketo-Vibes SMS LaunchPoint-Integration](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md) {#marketo-vibes-sms-launchpoint-integration}
 
-Erstellen Sie einfach SMS-Nachrichten direkt in Marketo. Personalisieren und zielen Sie Ihre Nachricht mit Ihren umfangreichen Marketo-Daten ab und überwachen Sie sie einfach über das Dashboard für SMS-Nachrichten.
+Einfaches Erstellen von SMS-Nachrichten direkt in Marketo. Personalisieren und Targeting Ihrer Nachricht mit Ihren umfangreichen Marketo-Daten und einfache Überwachung der Leistung mithilfe des SMS-Nachrichten-Dashboards.
 
 >[!NOTE]
 >
->Für diese Funktion ist es erforderlich, dass Sie über ein vorhandenes Konto für Vibes SMS verfügen.
+>Für diese Funktion müssen Sie über ein vorhandenes Vibes-SMS-Konto verfügen.
 
 ![](assets/vibes-sms2.png)
 
@@ -53,63 +53,63 @@ Erstellen Sie einfach SMS-Nachrichten direkt in Marketo. Personalisieren und zie
 
 **Variablen auf Modulebene**
 
-Zuvor waren alle in E-Mail 2.0-Vorlagen spezifizierten Variablen im Umfang &quot;global&quot;. Bei Verwendung von Variablen in Modulen ist dies nicht immer wünschenswert, wenn Sie mehrere Instanzen des Moduls verwenden möchten. Mit dieser Version können Variablen jetzt als &quot;Modulebene&quot;angegeben werden, sodass Sie angeben können, dass der Benutzer eindeutige Werte für jedes Modul festlegen kann, in dem er verwendet wird.
+Zuvor waren alle in E-Mail 2.0-Vorlagen angegebenen Variablen im Umfang „global“. Bei der Verwendung von Variablen innerhalb von Modulen ist dies nicht immer wünschenswert, wenn Sie mehrere Instanzen des Moduls verwenden möchten. Mit dieser Version können Variablen jetzt als „Modulebene“ angegeben werden, was Ihnen ermöglicht anzugeben, dass der Benutzer in der Lage sein sollte, eindeutige Werte für jedes Modul festzulegen, in dem er verwendet wird.
 
 ![](assets/module-level-variables.png)
 
 **Syntaxaktualisierungen**
 
-* Sie können jetzt &quot;mktoAddByDefault&quot;für Module verwenden, die in E-Mail 2.0-Vorlagen angegeben sind, um anzugeben, welche Module standardmäßig in neuen E-Mails angezeigt werden sollen. Dies ist viel bequemer, wenn Sie eine E-Mail-Vorlage mit einer großen Anzahl von Modulen erstellen.
-* Bei Bildelementen können Sie jetzt angeben, ob die Eigenschaften &quot;height&quot;und &quot;width&quot;des zugrunde liegenden `<img>`-HTML-Elements für den Endbenutzer gesperrt oder bearbeitbar sein sollen. mktoLockImgSize=&quot;true&quot; bewirkt, dass Höhe/Breite gesperrt wird (auch wenn das Bild geändert wird). Auf ähnliche Weise bewirkt mktoLockImgStyle=&quot;true&quot;, dass die Eigenschaft &quot;style&quot;gesperrt wird.
+* Sie können jetzt „mktoAddByDefault“ für Module verwenden, die in E-Mail-2.0-Vorlagen angegeben sind, um anzugeben, welche Module standardmäßig in neuen E-Mails angezeigt werden sollen. Dies ist viel praktischer, wenn Sie eine E-Mail-Vorlage mit einer großen Anzahl von Modulen erstellen.
+* Bei Bildelementen können Sie jetzt angeben, ob die Eigenschaften „height“ und „width“ des zugrunde liegenden `<img>` HTML-Elements gesperrt werden sollen oder für den Endbenutzer bzw. die Endbenutzerin bearbeitbar sein sollen. motoLockImgSize=„true“ bewirkt, dass Höhe/Breite gesperrt werden (auch wenn das Bild geändert wird). Ähnlich führt motoLockImgStyle=„true“ dazu, dass die Eigenschaft „style“ gesperrt wird.
 
-**Codesuche**
+**Code-Suche**
 
-Verwenden Sie neue Suchfunktionen, um effizient Inhalte im Code Ihrer E-Mail zu finden und zu ersetzen. Diese Funktion ist auch im E-Mail-Vorlageneditor verfügbar.
+Verwenden Sie neue Suchfunktionen, um Inhalte im Code Ihrer E-Mail effizient zu finden und zu ersetzen. Diese Funktion ist auch im E-Mail-Vorlageneditor verfügbar.
 
 ![](assets/2nd-screenshot.png)
 
 **Token-Unterstützung in Bildelementen**
 
-Token können jetzt im Bereich &quot;Externe URL&quot;des Einfügebild-Erlebnisses verwendet werden! Wenn Sie Bilder mit `{{my.tokens}}` angegeben haben, können Sie jetzt auf diese Token in Email Editor 2.0 verweisen. Beachten Sie, dass das Bild auf der Arbeitsfläche des E-Mail-Editors 2.0 weiterhin fehlerhaft angezeigt wird. Sie werden jedoch vor dem Versand Ihrer E-Mail in der Vorschau und im Beispiel gerendert.
+Token können jetzt im Bereich „Externe URL“ des Bilderlebnisses zum Einfügen verwendet werden! Wenn Sie Bilder mit `{{my.tokens}}` angegeben haben, können Sie jetzt diese Token im E-Mail-Editor 2.0 referenzieren. Beachten Sie, dass das Bild auf der Arbeitsfläche des E-Mail-Editors 2.0 weiterhin beschädigt angezeigt wird. Sie sehen sie jedoch in der Vorschau gerendert und Beispiele senden , bevor Sie Ihre E-Mail versenden.
 
 ## Mehrmarken-Domainen {#multiple-branding-domains}
 
-Vorbei sind die Tage, an denen E-Mail-Tracking-Links nur mit einer einzigen Branding-Domäne versehen werden konnten. Sie können jetzt mehrere Branding-Domänen hinzufügen, um das Vertrauen der Verbraucher zu steigern, ein optimiertes Erscheinungsbild zu schaffen, das sich auf die Marke konzentriert, die Zustellbarkeit von E-Mails zu verbessern und auf E-Mail-Basis zu wählen, welche Branding-Domäne für die Tracking-Links jeder E-Mail verwendet werden soll.
+Vorbei sind die Zeiten, in denen E-Mail-Tracking-Links nur mit einer Branding-Domain gebrandet werden konnten. Sie können jetzt mehrere Branding-Domains hinzufügen, um das Vertrauen der Verbraucher zu wecken, einen optimierten Look zu erstellen, sich auf die Marke zu konzentrieren, die E-Mail-Zustellbarkeit zu verbessern und für jede E-Mail zu wählen, welche Branding-Domain für die Tracking-Links der einzelnen E-Mails verwendet werden soll.
 
 ![](assets/multiple-branding-domains.png)
 
 ## [Programm-Token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) {#program-tokens}
 
-Wir haben einen neuen Token-Typ für Programme erstellt. Sie können jetzt Programmname, Beschreibung und ID in Assets und Schritten zum intelligenten Kampagnenfluss rendern.
+Wir haben einen neuen Token-Typ für Programme erstellt. Sie können jetzt Programmname, Beschreibung und ID in den Schritten Assets und Smart-Campaign-Fluss rendern.
 
 ![](assets/program-tokens.png)
 
 ## [Konzernschlüssel](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/authorize-the-marketo-outlook-plugin.md) {#enterprise-key}
 
-Es kann mühsam sein, jede Person in Ihrem Verkaufsteam zu verpflichten, unser Sales Insight-Plugin für Outlook zu installieren. Wir haben eine neue Möglichkeit eingeführt, das Plug-in für Outlook remote mithilfe eines Unternehmensschlüssels zu installieren. Senden Sie Ihrem IT-Team Ihren eindeutigen Schlüssel im Marketo Sales Insight -Abschnitt von Admin und lassen Sie ihn den Rest erledigen.
+Es kann mühsam sein, von jeder Person in Ihrem Vertriebsteam zu verlangen, unser Sales Insight-Plug-in für Outlook zu installieren. Wir haben eine neue Möglichkeit eingeführt, das Plug-in für Outlook remote mit einem Unternehmensschlüssel zu installieren. Senden Sie Ihrem IT-Team den eindeutigen Schlüssel, den Sie im Abschnitt &quot;Marketo Sales Insights“ von Admin finden, und überlassen Sie ihm den Rest.
 
 ![](assets/enterprise-key.png)
 
 ## [Kampagnen zur Web-Personalisierung](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) {#web-personalization-campaigns}
 
-Geben Sie eine Zeitverzögerung für Webkampagnen an, die auf Ihrer Website reagieren sollen.
+Geben Sie eine Zeitverzögerung an, damit Web-Kampagnen auf Ihrer Website reagieren.
 
 ![](assets/dialog-campaign-delay.png)
 
-## [Inhaltsanalyse und Recommendations-Export](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) {#content-analytics-and-recommendations-export}
+## [Export von Content Analytics und Recommendations](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) {#content-analytics-and-recommendations-export}
 
-Inhaltsanalysen und Empfehlungsdaten offline anzeigen.
+Anzeigen von Inhaltsanalysen und Recommendations-Daten offline.
 
 ## [API-Support für Email Editor 2.0](https://developer.adobe.com/marketo-apis/api/asset/) {#api-support-for-email-editor}
 
 Vorhandene Asset-APIs, die zuvor nur mit E-Mails und Vorlagen der Version 1.0 kompatibel waren, sind jetzt für E-Mail-Assets der Version 2.0 aktiviert.
 
-## [Marketo-Entwicklersite](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home) {#marketo-developers-site}
+## [Marketo Developers-Website](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home) {#marketo-developers-site}
 
 Neu und noch besser!
 
 ## [Datenschutzeinstellungen](/help/marketo/product-docs/administration/settings/understanding-privacy-settings.md) {#privacy-settings}
 
-Marketingexperten können Datenschutzeinstellungen verwenden, um zu entscheiden, ob sie Besucher mit den Funktionen Munchkin und Web Personalization verfolgen. Die Tracking-Ebene wird mithilfe der Einstellung Nicht verfolgen des Browsers, eines Opt-out-Cookies oder einer unspezifischen IP-Adresse gesteuert. Diese Methoden können sich auf den Wert und die Funktionalität von Marketo in bestimmten Bereichen auswirken. Wenn der Marketing-Experte jedoch nichts ändert, bleiben die Marketo-Funktionen unverändert.
+Marketing-Experten können anhand von Datenschutzeinstellungen entscheiden, ob Besuchende mithilfe von Munchkin- und Web Personalization-Funktionen verfolgt werden sollen oder nicht. Die Tracking-Stufe wird mithilfe der Einstellung „Nicht verfolgen“ des Browsers, eines Opt-out-Cookies oder einer unspezifischen IP-Adresse gesteuert. Diese Methoden können sich auf den Wert und die Funktionalität von Marketo in bestimmten Bereichen auswirken. Wenn der Marketer jedoch nichts ändert, bleibt die Marketo-Funktionalität unverändert.
 
-Diese Funktion wird Kunden über einen Zeitraum von sechs Wochen schrittweise zur Verfügung gestellt. Wenn Sie es sofort benötigen, wenden Sie sich an den Marketo-Support.
+Diese Funktion wird über einen Zeitraum von sechs Wochen schrittweise für Kunden veröffentlicht. Wenn Sie es sofort benötigen, wenden Sie sich an den Marketo-Support.

@@ -13,7 +13,7 @@ ht-degree: 6%
 
 # Kontofilter {#account-filters}
 
-Identifizieren und interagieren Sie benannte Konten und die darin enthaltenen Rollen mithilfe neuer kontozentrierter Filter.
+Identifizieren und interagieren Sie benannte Konten und die darin enthaltenen Personas mithilfe neuer kontozentrierter Filter.
 
 ## TAM-Filter {#tam-filters}
 
@@ -21,7 +21,7 @@ Identifizieren und interagieren Sie benannte Konten und die darin enthaltenen Ro
 
    ![](assets/one.png)
 
-1. Klicken Sie auf **+** , um den Ordner **Kontofilter** zu erweitern.
+1. Klicken Sie auf **+**, um den Ordner **Kontofilter** zu erweitern.
 
    ![](assets/two.png)
 
@@ -31,40 +31,40 @@ Identifizieren und interagieren Sie benannte Konten und die darin enthaltenen Ro
 
 ## Mitglied der Kontoliste {#member-of-account-list}
 
-Um diesen Filter zu verwenden, klicken Sie auf das Dropdown-Menü Kontoliste ...
+Um diesen Filter zu verwenden, klicken Sie auf das Dropdown-Menü Kontoliste …
 
 ![](assets/four.png)
 
-... und wählen Sie die gewünschten Kontolisten aus.
+…und wählen Sie Ihre gewünschte(n) Account-Liste(n) aus.
 
 ![](assets/five.png)
 
 >[!NOTE]
 >
->Für den Filter Mitglied der Kontoliste gibt es nur einen Qualifikator: &quot;is&quot;- Zusätzliche Qualifikatoren (wie &quot;is not&quot; und &quot;is any&quot;) sind nicht verfügbar.
+>Für den Filter „Mitglied der Kontenliste“ gibt es nur einen Qualifizierer: „is“ - Zusätzliche Qualifizierer (wie „is not“ und „is any„) sind nicht verfügbar.
 
 ## Mitglied des benannten Kontos {#member-of-named-account}
 
-Wählen Sie zunächst einen Qualifizierer aus. **Ist** für ein bestimmtes(n) benanntes(s) Konto(en) oder **ist beliebig** für ein beliebiges benanntes Konto.
+Wählen Sie zunächst einen Qualifizierer aus. **Ist** für ein bestimmtes benanntes Konto oder **ist ein beliebiges** für ein beliebiges benanntes Konto.
 
 ![](assets/six.png)
 
-Klicken Sie auf die Dropdown-Liste Konto mit Namen ...
+Klicken Sie auf die Dropdown-Liste Benanntes Konto…
 
 ![](assets/seven.png)
 
-... und wählen Sie die gewünschten spezifischen Konten aus.
+…und wählen Sie Ihr(e) gewünschte(n) Konto(e).
 
 ![](assets/eight.png)
 
-Wenn Sie den Qualifikator &quot;ist vorhanden&quot;verwenden, sollten Sie [Begrenzungen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) verwenden, um Ihre Suchergebnisse einzuschränken. Fügen Sie so viele hinzu, wie Sie möchten!
+Wenn Sie den Qualifizierer „is any“ verwenden, können Sie &quot;[&quot; ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md), um Ihre Suchergebnisse einzugrenzen. Fügen Sie so viele hinzu, wie Sie möchten!
 
 ![](assets/nine.png)
 
-Setzen Sie &quot;Untergeordnete Elemente einschließen&quot;auf &quot;false&quot;, wenn Sie nur Mitglieder aus dem einzelnen Konto der obersten Ebene wünschen. Wählen Sie &quot;true&quot;, wenn Mitglieder aus allen untergeordneten Konten ausgewählt werden sollen.
+Legen Sie „Untergeordnete Elemente einbeziehen“ auf „false“ fest, wenn Sie nur Mitglieder aus dem einzelnen Konto der obersten Ebene möchten. Wählen Sie „true“ aus, wenn Mitglieder aus allen untergeordneten Konten einbezogen werden sollen.
 
 ![](assets/ten.png)
 
 >[!MORELIKETHIS]
 >
->[Account-Trigger](/help/marketo/product-docs/target-account-management/engage/account-triggers.md)
+>[Account-Trigger ](/help/marketo/product-docs/target-account-management/engage/account-triggers.md)

@@ -1,28 +1,28 @@
 ---
-description: April 2024 - Versionshinweise - Marketo-Dokumente - Produktdokumentation
-title: April 2024 - Versionshinweise
+description: April 2024 - Versionshinweise zu Marketo - Produktdokumentation
+title: Versionshinweise – April 2024
 feature: Release Information
 exl-id: d87474f8-fc47-407b-bc97-e343b56c1f8f
 source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '447'
-ht-degree: 8%
+ht-degree: 9%
 
 ---
 
-# April 2024 - Versionshinweise {#release-notes-apr-24}
+# Versionshinweise: April 2024 {#release-notes-apr-24}
 
-Unten finden Sie alle Funktionen der Version vom 24. April. Überprüfen Sie Ihre Adobe Marketo Engage-Edition auf Funktionsverfügbarkeit.
+Unten finden Sie alle Funktionen, die in der Version vom April 2024 enthalten sind. Überprüfen Sie Ihre Adobe Marketo Engage Edition auf die Verfügbarkeit der Funktionen.
 
 Die Versionshinweise speziell für Adobe Dynamic Chat [finden Sie hier](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 >[!AVAILABILITY]
 >
->Mit einem Stern (![Stern](assets/yellow-star.png)) gekennzeichnete Funktionen sind kostenpflichtige Add-ons. Wenden Sie sich an Ihren Marketo Engage-Support-Mitarbeiter, um mehr zu erfahren.
+>Mit einem Stern (![star](assets/yellow-star.png) gekennzeichnete Funktionen sind kostenpflichtige Add-ons. Weitere Informationen erhalten Sie von Ihrem Marketo Engage-Support-Mitarbeiter.
 
-## Standardfunktionen des Versionszyklus {#standard-release-cycle-features}
+## Standardfunktionen des Veröffentlichungszyklus {#standard-release-cycle-features}
 
-Die folgenden Funktionen fallen unter den standardmäßigen Versionszyklus und werden am 26. April 2024 veröffentlicht. Am 26. April 2024 wird eine schrittweise Einführung der verbleibenden Funktionen in den darauffolgenden Wochen erfolgen. **** Die Veröffentlichungsfunktionen und -daten können sich ändern. Bitte überprüfen Sie neben den einzelnen Funktionen nach ihrem Status.
+Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszyklus und werden ab dem 26. **2024 veröffentlicht** wobei die verbleibenden Funktionen in den folgenden Wochen schrittweise bereitgestellt werden. Veröffentlichungsfunktionen und -daten können sich ändern. Überprüfen Sie neben jeder Funktion auf ihren Status.
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -32,7 +32,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Versionszyklus und w
    <th style="width:25%">Dokumentation</th>
   </tr>
      <tr> 
-   <td><strong>Verbesserungen an interaktiven Webinaren</strong>: Sie können Hosts und Moderatoren jetzt die Möglichkeit geben, einen Webinartitel hinzuzufügen, einen Raum umzubenennen und Interaktionsdaten nach der Ereignisbereitstellung manuell zu synchronisieren.</td> 
+   <td><strong>Verbesserungen bei interaktiven Webinaren</strong>: Sie können jetzt Hosts und Moderatoren die Möglichkeit geben, einen Webinar-Titel hinzuzufügen, einen Raum umzubenennen und Interaktionsdaten nach dem Versand des Ereignisses manuell zu synchronisieren.</td> 
    <td>Versendet</td>
    <td><li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md">Erstellen eines interaktiven Webinars</a></li>
    <li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md#manual-sync">Manuelle Synchronisierung</a></li></td>
@@ -44,7 +44,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Versionszyklus und w
   </tr>
     <tr> 
    <td><strong>Verbesserungen am Audit-Protokoll</strong>: 
-   Im Audit-Protokoll können jetzt neue Aktionstypen erfasst werden, um Änderungen an der Feldverwaltung, Änderungen an Benutzern und Rollen sowie die Anzahl der aus Listen und Smart-Listen exportierten Personen zu erhalten.</td> 
+   Neue Aktionstypen können jetzt im Audit-Protokoll erfasst werden. Dies betrifft Änderungen im Feld-Management, Änderungen an Benutzenden und Rollen sowie die Anzahl der aus Listen und Smart Lists exportierten Personen.</td> 
    <td><i>Demnächst verfügbar</i></td>
    <td><i>Demnächst verfügbar</i></td>
   </tr>
@@ -54,20 +54,20 @@ Die folgenden Funktionen fallen unter den standardmäßigen Versionszyklus und w
    <td> </td>
   </tr>
     <tr> 
-   <td><strong>Neue Benutzer- und Benutzerberechtigungen</strong>: Es sind neue Berechtigungen verfügbar, die Benutzern detaillierteren Zugriff auf Marketo Engage bieten. Kontrollteile von Admin, die noch nicht erfasst wurden, wie z. B. neue Erlebnisse und vorausschauende Zielgruppen, teilen Berechtigungen auf, um Zugriff auf das Asset-Audit-Protokoll und das Admin Audit-Protokoll separat zu gewähren, und verwenden neue Berechtigungen zum Erstellen und Verschieben für Assets und Ordner, um schreibgeschützte Benutzer daran zu hindern, Änderungen vorzunehmen. 
-   <p>Während die neuen Berechtigungen ab dem 26. April in Ihrer Marketo Engage-Instanz erscheinen, sind sie zunächst passiv und werden später in diesem Quartal verfügbar sein.
+   <td><strong>Berechtigungen für neue Benutzende und Rollen</strong>: Neue Berechtigungen sind verfügbar, die Benutzenden einen granulareren Zugriff auf Marketo Engage ermöglichen. Steuern Sie Teile von Admin, die zuvor nicht kategorisiert wurden, z. B. „Neues Erlebnis“ und „Prädiktive Zielgruppen“, teilen Sie die Berechtigungen auf, um Zugriff auf das Asset-Audit-Protokoll und das Admin-Audit-Protokoll separat zu gewähren, und verwenden Sie neue Berechtigungen zum Erstellen und Verschieben von Assets und Ordnern, um zu verhindern, dass schreibgeschützte Benutzer Änderungen vornehmen. 
+   <p>Die neuen Berechtigungen werden zwar ab dem 26. April in Ihrer Marketo Engage-Instanz angezeigt, sind aber vorerst passiv und werden im Laufe dieses Quartals verfügbar sein.
    <li>Zugriff auf Adobe Experience Manager</li>
-   <li>Adobe-Organisationszuordnung aufrufen</li>
-   <li>Auf Admin Audit-Protokoll zugreifen</li>
-   <li>Asset-Audit-Protokoll aufrufen</li>
-   <li>Auf neues Erlebnis zugreifen</li>
-   <li>Zugriff auf vorausschauende Zielgruppen</li>
+   <li>Zugriff auf die Adobe-Organisationszuordnung</li>
+   <li>Zugriff auf das Admin-Audit-Protokoll</li>
+   <li>Zugriff auf das Asset-Audit-Protokoll</li>
+   <li>Neues Erlebnis</li>
+   <li>Zugriff auf prädiktive Zielgruppen</li>
    <li>Bericht erstellen</li>
    <li>Liste erstellen</li>
    <li>Kampagnenaktivität exportieren</li>
    </td> 
    <td>Versendet</td>
-   <td><a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md">Beschreibung der Rollenberechtigungen</a></td>
+   <td><a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md">Beschreibungen der Rollenberechtigungen</a></td>
   </tr>
  </tbody> 
 </table>
@@ -75,7 +75,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Versionszyklus und w
 
 ## Ankündigungen {#announcements}
 
-* **Aktualisierung der Aktivitäts-API**: Am 26. April fügen wir webbasierten und E-Mail-basierten Aktivitäten mehrere neue Attribute hinzu, die zurückgegeben werden, wenn Sie Aktivitäten mit der [Marketo REST API](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities){target="_blank"} abrufen. Die unten aufgeführten Aktivitäten umfassen jetzt Attribute zu Browser, Plattform, Gerät und Benutzeragenten. Rufen Sie den Endpunkt [Aktivitätstypen abrufen](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities/operation/getAllActivityTypesUsingGET){target="_blank"} auf, um die Attributdetails für jede Aktivität zu überprüfen.
+* **Aktivitäts-API-Aktualisierung**: Am 26. April fügen wir mehrere neue Attribute zu Web- und E-Mail-basierten Aktivitäten hinzu, die zurückgegeben werden, wenn Sie Aktivitäten mit der [Marketo-REST-API abrufen](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities){target="_blank"}. Die unten aufgeführten Aktivitäten umfassen jetzt Browser-, Plattform-, Geräte- und Benutzeragenten-Attribute. Rufen Sie den Endpunkt [Aktivitätstypen abrufen](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities/operation/getAllActivityTypesUsingGET){target="_blank"} auf, um Attributdetails für jede Aktivität zu überprüfen.
 
 **Web-basierte Aktivitäten**
 

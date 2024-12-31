@@ -13,13 +13,13 @@ ht-degree: 3%
 
 # Kontobewertung {#account-score}
 
-Die Kontobewertung ist ein wichtiger Bestandteil der Target-Kontoverwaltung. Dies hilft Ihnen bei der Bestimmung der Interaktionsstufe Ihrer Konten.
+Die Kontobewertung ist ein wichtiger Bestandteil der Verwaltung von Target-Konten. Damit können Sie den Grad der Interaktion mit Ihren Konten ermitteln.
 
-## Was ist Kontobewertung? {#what-is-account-scoring}
+## Was ist die Kontobewertung? {#what-is-account-scoring}
 
-Es handelt sich dabei um einen systematischen Ansatz, der Vertriebs- und Marketingteams dabei hilft, Unternehmen (einschließlich Interessenten) zu identifizieren und zu priorisieren, die am ehesten einen Kauf tätigen.
+Dieser systematische Ansatz unterstützt Vertriebs- und Marketing-Teams bei der Identifizierung und Priorisierung der Unternehmen (einschließlich Interessenten), die mit hoher Wahrscheinlichkeit einen Kauf tätigen werden.
 
-In der komplexen Welt von B2B-Kaufprozessen ist es selten, dass eine Einzelperson eine Kaufentscheidung trifft. Es gibt oft verschiedene Rollen, die jeweils eigene Bedürfnisse haben. Bei der kontobasierten Auswertung wird dies berücksichtigt, indem die Lead-Bewertungen aus mehreren Leads aggregiert und eine Bewertung auf Kontoebene bereitgestellt wird.
+In der komplexen Welt der B2B-Kaufprozesse ist es selten, dass eine einzelne Person eine Kaufentscheidung trifft. Häufig sind verschiedene Rollen mit jeweils eigenen Bedürfnissen beteiligt. Die kontobasierte Bewertung berücksichtigt dies, indem die Lead-Bewertungen aus mehreren Leads aggregiert und eine Bewertung auf Kontoebene bereitgestellt werden.
 
 ## Häufige Beispiele {#common-examples}
 
@@ -27,15 +27,15 @@ In der komplexen Welt von B2B-Kaufprozessen ist es selten, dass eine Einzelperso
  <tbody>
   <tr>
    <td><strong>Kundeninteraktions-Score</strong></td> 
-   <td>Tiefe der Interaktion basierend auf Verhaltensaktivitäten, die über verschiedene Kanäle (z. B. E-Mail, Web und Anzeige) von Personen in bestimmten Zielkonten verfolgt werden.</td>
+   <td>Interaktionstiefe basierend auf Verhaltensaktivitäten, die über verschiedene Kanäle (z. B. E-Mail, Internet und Werbung) von Personen in bestimmten Zielkonten verfolgt werden.</td>
   </tr>
   <tr>
-   <td><strong>Bewertung der Kundenproduktinteressen</strong></td>
-   <td>Personen aus Zielkonten, die von einem bestimmten Produkt aus Interesse an dem Inhalt zeigen (z. B. das Herunterladen eines Whitepaper).</td> 
+   <td><strong>Kontoprodukt-Interessensbewertung</strong></td>
+   <td>Personen aus Zielkonten, die Interesse an den Inhalten eines bestimmten Produkts zeigen (z. B. Herunterladen eines Whitepapers).</td> 
   </tr>
   <tr>
-   <td><strong>Bewertung der Web-Interaktion des Kontos</strong></td>
-   <td>Personen aus Zielkonten, die den Webkanal besuchen. Dieselbe Punktzahl kann erstellt werden, um die Kanalinteraktion aus E-Mail, Anzeigen oder anderen Kanälen zu messen.</td> 
+   <td><strong>Web-Interaktionswert für Konto</strong></td>
+   <td>Personen aus Zielkonten, die den Web-Kanal besuchen. Derselbe Score kann erstellt werden, um die Kanalinteraktion in E-Mails, Anzeigen oder anderen Kanälen zu messen.</td> 
   </tr>
  </tbody>
 </table>
@@ -44,43 +44,43 @@ In der komplexen Welt von B2B-Kaufprozessen ist es selten, dass eine Einzelperso
 
 >[!NOTE]
 >
->Um Kontobewertungen zu berechnen, müssen Sie zunächst Lead-Bewertungen erstellen. Marketo TAM aggregiert automatisch Lead-Bewertungen zu Kontobewertungen. Als Beispiel nehmen wir zwei der oben genannten Beispiele (_Account Product Interest Score_ und _Account Web Engagement Score_).
+>Zur Berechnung der Kontobewertungen müssen Sie zunächst Lead-Bewertungen erstellen. Marketo TAM aggregiert Lead-Bewertungen automatisch zu Konto-Bewertungen. Als Beispiel nehmen wir zwei der oben genannten Beispiele (_Account Product Interest Score_ und _Account Web Engagement Score_).
 >
->Erstellen Sie zunächst Lead-Punktfelder, die relevante Details aus jedem Lead eines Zielkontos erfassen.\
->Weisen Sie dann diese Lead-Bewertungen ihren jeweiligen Kontobewertungen zu:\
->Account Product Interest Score = SUM (Lead Product Interest Score)\
->Bewertung der Web-Interaktion des Kontos = SUM (Lead Web Engagement Score)
+>Erstellen Sie zunächst Lead-Bewertungsfelder, die relevante Details aus jedem Lead eines Zielkontos erfassen.\
+>Weisen Sie dann diese Lead-Bewertungen ihren jeweiligen Account-Bewertungen zu:\
+>Kontobewertung für Produktzinsen = SUM (Bewertung für Lead-Produktzinsen)\
+>Account Web Engagement Score = SUM (Lead Web Engagement Score)
 
 >[!NOTE]
 >
->Benutzer können mehrere Kontointeraktionsbewertungen erstellen und unterschiedliche Personenergebnisse verschiedenen Kontobewertungen zuweisen.
+>Benutzer können mehrere Kontointeraktionswerte erstellen und verschiedene Personenwerte verschiedenen Kontobewertungen zuweisen.
 
-Nachdem Sie die Lead-Punktzahl konfiguriert haben, fahren Sie mit den folgenden Schritten fort.
+Nachdem Sie die Lead-Bewertung konfiguriert haben, fahren Sie mit den folgenden Schritten fort.
 
 1. Klicken Sie auf **Admin**.
 
    ![](assets/account-score-1.png)
 
-1. Klicken Sie auf **Target Account Management**.
+1. Klicken Sie **Target-Kontoverwaltung**.
 
    ![](assets/account-score-2.png)
 
-1. Klicken Sie in den Scoring-Feldern auf **Bearbeiten**.
+1. Klicken Sie in den Bewertungsfeldern auf **Bearbeiten**.
 
    ![](assets/account-score-3.png)
 
    >[!NOTE]
    >
-   >Sie können bis zu **5** Felder auswählen, um die Kontobewertung zu berechnen.
+   >Sie können bis zu **fünf Felder**, um die Kontobewertung zu berechnen.
 
-1. Geben Sie den Namen der Kontobewertung ein, klicken Sie auf das Dropdown-Menü **Personenbewertung auswählen** und wählen Sie die entsprechende Punktzahl aus.
+1. Geben Sie den Namen der Kontobewertung ein, klicken Sie auf **Dropdown-Liste &quot;** auswählen“ und wählen Sie den entsprechenden Wert aus.
 
    ![](assets/account-score-4.png)
 
-1. Klicken Sie auf **+Hinzufügen** , um weitere Bewertungen hinzuzufügen.
+1. Klicken Sie auf **+**, um weitere Scores hinzuzufügen.
 
    ![](assets/account-score-5.png)
 
-1. Fügen Sie alle gewünschten Bewertungen hinzu. Klicken Sie auf **Speichern**, wenn Sie fertig sind.
+1. Fügen Sie alle gewünschten Werte hinzu. Klicken Sie auf **Speichern**, wenn Sie fertig sind.
 
    ![](assets/account-score-6.png)

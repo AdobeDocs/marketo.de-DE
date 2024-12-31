@@ -13,43 +13,43 @@ ht-degree: 1%
 
 # Benutzereinstellungen {#user-settings}
 
-Ändern Sie Einstellungen wie Zeitzone oder Web Personalization-E-Mail-Berichte.
+Einstellungen wie Zeitzone oder E-Mail-Berichte zu Web Personalization ändern.
 
-## Benutzerprofil/Passwörter/Zeitzonen {#user-profile-passwords-time-zones}
+## Benutzerprofil/Kennwörter/Zeitzonen {#user-profile-passwords-time-zones}
 
 1. Klicken Sie auf Ihren Namen und wählen Sie **Benutzereinstellungen** aus.
 
    ![](assets/one.png)
 
-1. Die Seite &quot;Benutzereinstellungen&quot;wird angezeigt.
+1. Die Seite Benutzereinstellungen wird angezeigt.
 
    ![](assets/two.png)
 
-   Auf der Seite &quot;Benutzereinstellungen&quot;haben Sie folgende Möglichkeiten:
+   Auf der Seite Benutzereinstellungen haben Sie folgende Möglichkeiten:
 
    * E-Mail-Adresse ändern
    * Persönliche Daten hinzufügen (Vor- und Nachname, Mobiltelefonnummer und Zeitzone)
-   * Wählen Sie die Anzahl der Zeilen aus, die beim Exportieren von Tabellen in die Plattform exportiert werden sollen. Siehe Feld: &quot;Maximale Anzahl von Zeilen im Excel-Export (auf 10.000 begrenzt)&quot;
-   * Wählen Sie Ihre Mobile-Benachrichtigungen für eine neue Person oder Überwachungsliste im Zusammenhang mit der Mobile App aus.
+   * Wählen Sie die Anzahl der Zeilen aus, die beim Exportieren von Tabellen in Platform exportiert werden sollen. Siehe Feld: „Maximale Zeilenanzahl im Excel-Export (begrenzt auf 10.000)“
+   * Wählen Sie Ihre Mobile-Benachrichtigungen für eine neue Person oder Beobachtungsliste im Zusammenhang mit der Mobile App aus.
    * Passen Sie die Einstellungen für die persönliche Region an, indem Sie auf **Regionen bearbeiten** klicken.
    * Passwort ändern
-   * Wählen Sie Ihre Einstellungen für E-Mail-Berichtsbenachrichtigungen für E-Mail-Berichte zu Organisationen, Personen, Kampagnen und Asset-Leistung aus.
+   * Wählen Sie Ihre Benachrichtigungseinstellungen für E-Mail-Berichte zu Organisationen, Personen, Kampagnen und Asset-Leistung
 
-   Klicken Sie auf **Speichern** , nachdem Sie Änderungen vorgenommen haben.
+   Klicken Sie **Speichern** nachdem Sie Änderungen vorgenommen haben.
 
    >[!NOTE]
    >
-   >Bei der Auswahl Ihrer Region werden nur Daten angezeigt und E-Mail-Berichte zu Organisationen und Personen aus der definierten Region gesendet.
+   >Wenn Sie Ihre Region auswählen, werden nur Daten angezeigt und E-Mail-Berichte zu Organisationen und Personen aus der definierten Region gesendet.
 
 ## E-Mail-Berichte auswählen {#select-email-reports}
 
-Wählen Sie aus, welcher [E-Mail-Bericht](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) Ihrem Benutzer zugeordnet werden soll, und geben Sie die Häufigkeit (täglich, wöchentlich oder vierteljährlich) an, zu der der Bericht gesendet wird.
+Wählen Sie [E-Mail-Bericht](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) aus, der mit Ihrem Benutzer verknüpft werden soll, und die Häufigkeit (täglich, wöchentlich oder vierteljährlich), mit der der Bericht gesendet wird.
 
 ![](assets/three.png)
 
 >[!NOTE]
 >
->Wenn Sie auf **Speichern** klicken, werden Sie nicht aus den Benutzereinstellungen ausgeschlossen. Klicken Sie zum Beenden auf das Marketo -Logo oben links und wählen Sie Ihr Ziel aus.
+>Wenn Sie **Speichern** klicken, werden Sie nicht aus den Benutzereinstellungen entfernt. Um den Vorgang zu beenden, klicken Sie auf das Marketo-Logo oben links und wählen Sie Ihr Ziel aus.
 
 >[!MORELIKETHIS]
 >

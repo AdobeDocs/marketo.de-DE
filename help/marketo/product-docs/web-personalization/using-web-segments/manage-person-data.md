@@ -1,7 +1,7 @@
 ---
 unique-page-id: 7504051
-description: Personendaten verwalten - Marketo-Dokumente - Produktdokumentation
-title: Personendaten verwalten
+description: Verwalten von Personendaten - Marketo-Dokumente - Produktdokumentation
+title: Verwalten von Personendaten
 exl-id: 40f4aac8-c6e5-4cf3-9573-cac2fdf9bcad
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,11 +11,11 @@ ht-degree: 23%
 
 ---
 
-# Personendaten verwalten {#manage-person-data}
+# Verwalten von Personendaten {#manage-person-data}
 
-Nutzen Sie Personendaten für Web Personalization, indem Sie Personenfelder für Ihre Segmentierung auswählen.
+Nutzen Sie Personendaten für Web Personalization, indem Sie Personenfelder auswählen, die in Ihrer Segmentierung verwendet werden sollen.
 
-1. Wechseln Sie zu **Kontoeinstellungen**.
+1. Navigieren Sie **Kontoeinstellungen**.
 
    ![](assets/image2015-5-7-15-3a17-3a23.png)
 
@@ -23,28 +23,28 @@ Nutzen Sie Personendaten für Web Personalization, indem Sie Personenfelder für
 
    ![](assets/account-settings-dropdown-database.jpg)
 
-## Feld &quot;Neue Person&quot;hinzufügen {#adding-a-new-person-field}
+## Hinzufügen eines Felds „Neue Person“ {#adding-a-new-person-field}
 
-1. Wählen Sie **Feld zum Hinzufügen von** aus der Dropdown-Liste aus, um ein Personendatenfeld zur Liste hinzuzufügen.
+1. Wählen Sie **Feld zum Hinzufügen** aus der Dropdown-Liste aus, um der Liste ein Personendatenfeld hinzuzufügen.
 
    ![](assets/add-a-person-field-hand.jpg)
 
    >[!NOTE]
    >
-   >Ein neues Feld wird in einem ausstehenden Status hinzugefügt und kann bis zu 24 Stunden dauern, bis es aktiviert wird.
+   >Ein neues Feld wird im Status Ausstehend hinzugefügt und kann bis zu 24 Stunden dauern, bis es aktiviert ist.
 
-## Löschen eines Personalisierungsfelds {#deleting-a-person-field}
+## Löschen eines Personenfelds {#deleting-a-person-field}
 
-1. Klicken Sie auf das Löschsymbol ( ![—](assets/image2015-3-24-13-3a45-3a56.png)), um ein Feld aus der Liste zu entfernen. Klicken Sie auf **Ja** , um zu bestätigen, dass Sie das Feld löschen möchten.
+1. Klicken Sie auf das Löschsymbol ( ![—](assets/image2015-3-24-13-3a45-3a56.png)), um ein Feld aus der Liste zu entfernen. Klicken Sie **Ja**, um zu bestätigen, dass Sie das Feld löschen möchten.
 
    ![](assets/web-engagement-settings-delete.jpg)
 
    >[!NOTE]
    >
-   >**Verwalten der Personendaten-Felder**
+   >**Verwalten von Personendatenfeldern**
    >
-   >* Nur Personendatenfelder können eingeschlossen werden
-   >* Sie können bis zu 30 Personen-Datenfelder hinzufügen
+   >* Nur Personendatenfelder können einbezogen werden
+   >* Sie können bis zu 30 Personendatenfelder hinzufügen
    >* Bis zum Aktivieren hinzugefügter neuer Felder können bis zu 24 Stunden vergehen
    >* Die maximal zulässige Länge der String-Typen ist 255 Zeichen
    >* Ausgeblendete Felder werden automatisch entfernt
@@ -68,13 +68,13 @@ Nutzen Sie Personendaten für Web Personalization, indem Sie Personenfelder für
   </tr> 
   <tr> 
    <td><p>Bewertung</p></td> 
-   <td><p>Bewertung</p></td> 
-   <td><p>Bewertung</p></td> 
+   <td><p>Rating</p></td> 
+   <td><p>Rating</p></td> 
   </tr> 
   <tr> 
-   <td><p>leadScore</p></td> 
    <td><p>LeadScore</p></td> 
-   <td><p>Bewertung</p></td> 
+   <td><p>LeadScore</p></td> 
+   <td><p>Ergebnis</p></td> 
   </tr> 
   <tr> 
    <td><p>leadStatus</p></td> 
@@ -92,15 +92,15 @@ Nutzen Sie Personendaten für Web Personalization, indem Sie Personenfelder für
    <td><p>Role</p></td> 
   </tr> 
   <tr> 
-   <td><p>unsubscribed</p></td> 
+   <td><p>Abgemeldet</p></td> 
    <td><p>Abbestellt</p></td> 
    <td><p>Abbestellt</p></td> 
   </tr> 
  </tbody> 
 </table>
 
-Für neue Web Personalization-Konten stehen standardmäßig die folgenden Lead-Felder zur Verfügung:
+Die folgenden Lead-Felder sind für neue Web Personalization-Konten standardmäßig bereitgestellt:
 
 >[!MORELIKETHIS]
 >
->[Erstellen eines Segments mit Daten bekannter Personen](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-known-person-data.md)
+>[Erstellen eines Segments mithilfe von Daten zu bekannten Personen](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-known-person-data.md)

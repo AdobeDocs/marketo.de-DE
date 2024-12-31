@@ -12,49 +12,49 @@ ht-degree: 2%
 
 # Versionshinweise zu Dynamic Chat {#dynamic-chat-release}
 
-Adobe Dynamic Chat-Releases basieren auf einem kontinuierlichen Bereitstellungsmodell, das einen skalierbareren Ansatz für die Implementierung von Funktionen ermöglicht. Manchmal gibt es mehrere Versionen in einem Monat. Schauen Sie daher regelmäßig nach, um aktuelle Informationen zu erhalten.
+Adobe Dynamic Chat-Versionen basieren auf einem kontinuierlichen Bereitstellungsmodell, das einen besser skalierbaren Ansatz für die Implementierung von Funktionen ermöglicht. Manchmal gibt es mehrere Versionen in einem Monat, daher schauen Sie regelmäßig nach den aktuellsten Informationen.
 
-Die standardmäßige Seite mit Versionshinweisen für Marketo Engage [finden Sie hier ](/help/marketo/release-notes/current.md){target="_blank"}.
+Die standardmäßige Versionshinweise für Marketo Engage [finden Sie hier](/help/marketo/release-notes/current.md){target="_blank"}.
 
 ## Version September/Oktober 2024 {#sep-oct-release}
 
-### Verbesserte Live-Chat-Analyse {#enhanced-live-chat-analytics}
+### Erweiterte Live-Chat-Analyse {#enhanced-live-chat-analytics}
 
-Am Analytics-Dashboard wurden verschiedene Verbesserungen vorgenommen, darunter:
+Das Analytics-Dashboard wurde u. a. in folgenden Punkten verbessert:
 
-* Gesamtzahl der angeforderten Live-Chat-Anzahl: Anzahl der Besucher, die für einen &quot;Chat mit Agenten&quot;angefordert wurden
+* Gesamtzahl der angeforderten Live-Chats: Anzahl der Besucher, die für einen „Chat mit dem Agenten“ angefordert wurden
 
-* Gesamter vernetzter Live-Chat: Anzahl der verbundenen Besucher im Vergleich zur Gesamtanzahl der angeforderten Besucher für einen &quot;Chat mit Agenten&quot;
+* Total Connected Live Chat: Anzahl der verbundenen Besucher im Vergleich zur Gesamtzahl der angeforderten Besucher für einen „Chat mit Agent“
 
-* Gesamtzahl der fehlenden Live-Chat-Anfragen: Anzahl der Besucher, die unbeaufsichtigt sind, im Vergleich zur Gesamtanzahl der angeforderten Kontakte für einen &quot;Chat mit Agent&quot;
+* Gesamtzahl der verpassten Live-Chat-Anfragen: Anzahl der Besucher ohne Anwesenheit im Vergleich zur Gesamtzahl der Anfragen für einen „Chat mit Agent“
 
-* Durchschnittliche Chat-Länge in Minuten: Analyse der &quot;durchschnittlichen Chat-Länge&quot;zwischen Besuchern und Ihren Agenten
+* Durchschnittliche Chatlänge in Minuten: Analysieren Sie die „durchschnittliche Chatlänge“ zwischen Besuchern und Ihren Agenten
 
-* Durchschnittliche Agent-Reaktionszeit in Sekunden: Analysieren Sie die &quot;durchschnittliche Zeit, die von den Agenten benötigt wird, um auf ihre Live-Chat-Fragen und Antworten zu antworten.
+* Durchschnittliche Reaktionszeit des Agenten in Sekunden: Analysieren Sie die „durchschnittliche Zeit“, die Agenten benötigen, um auf Fragen und Antworten zum Live-Chat zu reagieren.
 
-* Tägliches Dashboard: erfolgreich verbundene Live-Chat-Anfragen, fehlende Live-Chat-Anfragen, Sortierung und Filterung der aktuellen Live-Chat-Aktivitäten
+* Tägliches Dashboard: Live-Chat-Anfragen erfolgreich verbunden, Live-Chat-Anfragen verpasst, letzte Live-Chat-Aktivitäten sortiert und gefiltert
 
 ![](assets/dynamic-chat-sep-oct-2024-release-1.png)
 
-### Unterhaltsscoring {#conversation-scoring}
+### Konversationsbewertung {#conversation-scoring}
 
-Quantifizieren Sie Ihre Leads anhand der Qualität ihrer Chat-Interaktion und verwenden Sie diese Metrik als Trigger/Filter in Marketo Engage-Smart-Kampagnen. Verwenden Sie das neue Attribut _Konversationsbewertung_ für die folgenden Aktivitäten:
+Quantifizieren Sie Ihre Leads basierend auf der Qualität ihrer Chat-Interaktion und verwenden Sie diese Metrik als Trigger/Filter beim Marketo Engage von Smart Campaign. Verwenden Sie das neue Attribut _Konversationswert_ für die folgenden Aktivitäten:
 
 * Hat einen Dialog geführt
-* Gesprächsfluss
+* Interagiert mit einem Gesprächsfluss
 * Interagiert mit einem Agenten
 
-**Zu beachtende Dinge:**
+**Zu beachten:**
 
-* Der Punktwert liegt zwischen 0, 1, 2, 3 (der Standardwert ist null).
+* Der Wert der Punktzahl liegt zwischen 0, 1, 2, 3 (der Standardwert ist null)
 
-* Wenn die Konversation abgeschlossen oder abgebrochen wurde, kann der Scoring-Wert nicht bearbeitet werden
+* Nach Abschluss oder Ablegen des Gesprächs kann der Scoring-Wert nicht mehr bearbeitet werden
 
-* Festlegen einer Punktzahl:
+* Punktzahl festlegen:
 
-   * Im Posteingang des Agenten - während eines Live-Chat kann der Agent eine Punktzahl für die Konversation aktualisieren oder festlegen, die in der Konversationsaktivität gespeichert wird
+   * Im Posteingang des Agenten - Während eines Live-Chats kann der Agent einen Wert für die Konversation aktualisieren oder festlegen, der in der Konversationsaktivität gespeichert wird
 
-   * Im Stream-Designer - auf der Zielkarte kann der Benutzer eine Konversationsbewertung aktualisieren oder festlegen
+   * Im Stream-Designer - auf der Zielkarte kann der Benutzer eine Punktzahl für die Konversation aktualisieren oder festlegen
 
 ![](assets/dynamic-chat-sep-oct-2024-release-2.png)
 
@@ -62,85 +62,85 @@ Quantifizieren Sie Ihre Leads anhand der Qualität ihrer Chat-Interaktion und ve
 
 ![](assets/dynamic-chat-sep-oct-2024-release-4.png)
 
-### Neue Lead-Erstellungslogik {#new-lead-creation-logic}
+### Neue Logik zur Lead-Erstellung {#new-lead-creation-logic}
 
-Wenn ein Lead ein Formular mit der E-Mail &quot;`abc@test.com`&quot;ausfüllt und als xyz gekocht ist, dann später dasselbe Formular mit der E-Mail &quot;`def@test.com`&quot;ausfüllt, wird ein neuer Personendatensatz erstellt, aber Cookie xyz wird mit der neuen Person verknüpft und aus der Person &quot;`abc@test.com`&quot;entfernt.
+Wenn ein Lead ein Formular mit der E-Mail-`abc@test.com` ausfüllt und als „xyz“ gekocht wird, füllt er dasselbe Formular später mit der E-Mail-`def@test.com` aus, es wird ein neuer Personendatensatz erstellt, aber das Cookie „xyz“ wird mit der neuen Person verknüpft und aus der `abc@test.com` entfernt.
 
-Wenn also ein Besucher mit Cookie abc auf eine Seite gelangt und eine E-Mail-ID als `abc@test.com` angibt:
+Wenn also ein Besucher mit dem Cookie abc auf einer Seite landet und eine E-Mail-ID wie `abc@test.com` bereitstellt:
 
 <table><thead>
   <tr>
     <th>Visitor</th>
     <th>Cookie</th>
-    <th>Email provided</th>
+    <th>E-Mail bereitgestellt</th>
     <th>Erwartetes Verhalten</th>
   </tr></thead>
 <tbody>
   <tr>
     <td>Anonym</td>
-    <td>abc</td>
-    <td>Existiert nicht in Datenbank</td>
+    <td>ABC</td>
+    <td>Existiert nicht in der Datenbank</td>
     <td>Neue Person erstellen</td>
   </tr>
   <tr>
     <td>Anonym</td>
-    <td>abc</td>
-    <td>Vorhanden in Datenbank</td>
-    <td>Person zusammenführen</td>
+    <td>ABC</td>
+    <td>Existiert in Datenbank</td>
+    <td>Person fusionieren</td>
   </tr>
   <tr>
     <td>Anonym</td>
     <td>xyz</td>
-    <td>Vorhanden in Datenbank</td>
-    <td>Person zusammenführen</td>
+    <td>Existiert in Datenbank</td>
+    <td>Person fusionieren</td>
   </tr>
   <tr>
     <td>Bekannte Person</td>
-    <td>abc</td>
-    <td>Identisch mit bestehender Person</td>
+    <td>ABC</td>
+    <td>Gleich wie vorhandene Person</td>
     <td>Person aktualisieren</td>
   </tr>
   <tr>
     <td>Bekannte Person</td>
-    <td>abc</td>
-    <td>Differenz zur bestehenden Person</td>
-    <td>Wenn bereits eine bekannte Person vorhanden ist, übertragen Sie das Cookie und lösen Sie dieses Profil auf. Wenn mit dieser E-Mail keine Person vorhanden ist, erstellen Sie einen neuen Personendatensatz und übertragen Sie das Cookie</td>
+    <td>ABC</td>
+    <td>Anders als bei vorhandener Person</td>
+    <td>Wenn bereits eine bekannte Person vorhanden ist, übertragen Sie das Cookie und lösen Sie dieses Profil auf. Wenn mit dieser E-Mail keine Person existiert, erstellen Sie einen neuen Personendatensatz und übertragen Sie das Cookie</td>
   </tr>
   <tr>
     <td>Bekannte Person</td>
     <td>xyz</td>
-    <td>Identisch mit bestehender Person</td>
-    <td>Hinzufügen eines neuen Cookies zur selben Person</td>
+    <td>Gleich wie vorhandene Person</td>
+    <td>Hinzufügen eines neuen Cookies zu derselben Person</td>
   </tr>
   <tr>
     <td>Bekannte Person</td>
     <td>xyz</td>
-    <td>Differenz zur bestehenden Person</td>
-    <td>Dieses Szenario ist nicht möglich, da es sich um ein neues Cookie von   Standard als neues anonymes Profil betrachtet</td>
+    <td>Anders als bei vorhandener Person</td>
+    <td>Dieses Szenario ist nicht möglich, als wäre es ein neues Cookie von   Standard als neues anonymes Profil betrachtet</td>
   </tr>
 </tbody></table>
 
-### Option zum Vererben der Schriftart {#option-to-inherit-font}
+### Option zum Übernehmen der Schriftart {#option-to-inherit-font}
 
-Sie können jetzt den Chat-Bot aktivieren, um die Schriftart direkt von der Webseite zu übernehmen, auf der sie gehostet wird, anstatt die Markenschriftart im Dynamic Chat zu verwalten. Wenn Sie diese Option aktivieren, nimmt der Chatbot die Schriftart an, die im Tag `<body>` der Seite definiert ist.
+Sie können jetzt den Chatbot aktivieren, um die Schriftart direkt von der Web-Seite zu erben, auf der sie gehostet wird, anstatt die Markenschriftart in Dynamic Chat zu verwalten. Wenn Sie diese Option aktivieren, übernimmt der Chatbot die Schriftart, die für `<body>` Tag der Seite definiert ist.
 
 ![](assets/dynamic-chat-sep-oct-2024-release-5.png)
 
 ### Demandbase-Integration mit Dynamic Chat {#demandbase-integration-with-dynamic-chat}
 
-Demandbase-Benutzer können ihre eigene Demandbase-Lizenz mitbringen und die Integration aktivieren. Verwenden Sie Demandbase-Personenattribute für Dialog-Targeting, bedingtes Branding und benutzerdefiniertes Routing.
+Demandbase-Benutzer können ihre eigene Lizenz von Demandbase mitbringen und die Integration aktivieren. Verwenden Sie Demandbase-Personenattribute für Dialog-Targeting, bedingtes Branding und benutzerdefiniertes Routing.
 
-Die Auflösung dieser Attributwerte gegenüber einer Person erfolgt in Echtzeit und wird im entsprechenden Personenprofil gespeichert.
+Die Auflösung dieser Attributwerte gegenüber einer Person erfolgt in Echtzeit und wird im jeweiligen Personenprofil gespeichert.
 
 ### Optimierte Ladezeit des Konversationsflusses {#optimized-conversation-flow-load-time}
 
-Um das Benutzererlebnis zu verbessern, wird jetzt anstelle eines Leerraums ein Shimmer-Ladeprogramm angezeigt, während der Konvertierungsfluss geladen wird.
+Um das Benutzererlebnis zu verbessern, wird jetzt beim Laden des Konversationsflusses anstelle eines Leerraums ein Schimmerlader angezeigt.
 
-**before**
+**vor**
 
 ![](assets/dynamic-chat-sep-oct-2024-release-6.png)
 
-**Nach**
+**nachher**
 
 ![](assets/dynamic-chat-sep-oct-2024-release-7.gif)
 
@@ -148,61 +148,61 @@ Um das Benutzererlebnis zu verbessern, wird jetzt anstelle eines Leerraums ein S
 
 **Veröffentlichungsdatum: Samstag, 23. August 2024**
 
-### Benutzerdefiniertes Format für Konversationsnachrichten {#custom-format-conversation-messages}
+### Benutzerdefiniertes Formatieren Ihrer Konversationsnachrichten {#custom-format-conversation-messages}
 
-Stream-Designer unterstützen jetzt das Einfügen von [HTML](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"}, um das Erscheinungsbild Ihrer Konversationen anzupassen.
+Stream-Designer unterstützen jetzt [Einfügen von HTML](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"}, um das Erscheinungsbild Ihrer Unterhaltungen anzupassen.
 
 ![](assets/dynamic-chat-aug-2024-release-1.png)
 
-### ChatBot scrollen zum unteren Rand {#chatbot-scroll-to-bottom}
+### Chatbot scrollen nach unten {#chatbot-scroll-to-bottom}
 
-Im Chat-Bot wurde ein Symbol hinzugefügt, über das Webbesucher direkt zur letzten Nachricht springen können. So können Besucher durch den Text scrollen, um schnell zur Konversation zurückzukehren.
+Im Chatbot wurde ein Symbol hinzugefügt, über das Web-Besucher direkt zur letzten Nachricht springen können. Auf diese Weise können Besucher den Text durchscrollen, um schnell zur Konversation zurückzukehren.
 
 ![](assets/dynamic-chat-aug-2024-release-2.png)
 
-### Core-Pulsbenachrichtigungen {#core-pulse-notifications}
+### Core-Puls-Benachrichtigungen {#core-pulse-notifications}
 
-Benutzer erhalten jetzt eine [E-Mail-Benachrichtigung](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#failed-action-notifications){target="_blank"}, wenn die Buchung eines Meetings oder ein Live-Chat fehlschlägt.
+Benutzer erhalten jetzt eine [E-Mail-Benachrichtigung](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#failed-action-notifications){target="_blank"} wenn eine Besprechungsbuchung oder ein Live-Chat fehlschlägt.
 
 ![](assets/dynamic-chat-aug-2024-release-3.png)
 
-### Unterstützung mehrerer Konversationen {#support-for-multiple-conversations}
+### Unterstützung für mehrere Konversationen {#support-for-multiple-conversations}
 
-Der Chatbot unterstützt jetzt mehrere Konversationen. Website-Besucher können auf verschiedenen Seiten gleichzeitig verschiedene Gespräche führen, mit der Möglichkeit, zwischen ihnen zu wechseln.
+Der Chatbot unterstützt jetzt mehrere Konversationen. Website-Besucherinnen und -Besucher können sich gleichzeitig an verschiedenen Konversationen auf verschiedenen Seiten beteiligen und zwischen ihnen wechseln.
 
 ![](assets/dynamic-chat-aug-2024-release-4.png)
 
-### Standardmäßige Sortierung für Inhalte {#default-sorting-for-content}
+### Standardsortierung für Inhalte {#default-sorting-for-content}
 
-Standardmäßig werden Ihre Konversationslogs, unbeantwortete Fragen und Tabellen zur Fragengenerierung nach dem Erstellungsdatum (vom letzten zum ältesten) sortiert.
+Standardmäßig werden Ihre Konversationsprotokolle, unbeantwortete Fragen und Fragenerierungstabellen nach Erstellungsdatum (vom letzten zum ältesten) sortiert.
 
 ### Echtzeit-Lead-Auflösung {#real-time-lead-resolution}
 
-Bei einer Konversation mit einem anonymen Lead und einer E-Mail-ID lösen wir auf, ob ein bekannter Lead-Datensatz mit dieser E-Mail-ID vorhanden ist, und verwenden diesen Datensatz zur Personalisierung in Echtzeit. Wenn wir mehrere Datensätze finden, führen wir sie in Echtzeit zusammen. Dieses Verhalten ist sowohl für Dialogfelder als auch für Konversationsflüsse implementiert.
+Während eines Gesprächs mit einem anonymen Lead und einer E-Mail-ID klären wir, ob ein bekannter Lead-Datensatz mit dieser E-Mail-ID vorhanden ist, und verwenden diesen Datensatz für die Personalisierung in Echtzeit. Wenn wir mehrere Datensätze finden, führen wir sie in Echtzeit zusammen. Dieses Verhalten ist sowohl für Dialogfelder als auch für Konversationsflüsse implementiert.
 
 ### Synchronisieren von Leads ohne Cookies von Marketo Engage {#syncing-leads-without-cookies}
 
-Bisher wurden bei Aktivierung der Marketo Engage-Synchronisation nur bekannte Leads von Dynamic Chat mit einer oder mehreren Cookie-IDs von Marketo Engage synchronisiert. Jetzt werden alle bekannten Leads (Cookie-ID vorhanden oder nicht) mit Dynamic Chat synchronisiert und können für die Personalisierung von Konversationen verwendet werden.
+Zuvor, als die Marketo Engage-Synchronisierung aktiviert wurde, synchronisierte Dynamic Chat nur bekannte Leads mit einer oder mehreren Cookie-IDs von Marketo Engage. Jetzt werden alle bekannten Leads (Cookie-ID vorhanden oder nicht) mit Dynamic Chat synchronisiert und können für die Personalisierung von Konversationen verwendet werden.
 
-### Übergeben zusätzlicher Besucherdaten an Konversationsflüsse {#pass-additional-visitor-data}
+### Weitergeben zusätzlicher Besucherdaten an Konversationsflüsse {#pass-additional-visitor-data}
 
-Wenn Sie Besucherinformationen über andere Kanäle wie Formulare oder Anmeldedaten erfassen, können Sie diese Informationen jetzt direkt an Dynamic Chat weitergeben.
+Wenn Sie Besucherinformationen über andere Kanäle wie Formulare oder Anmeldung erfassen, können Sie diese Informationen jetzt direkt an Dynamic Chat weitergeben.
 
 ![](assets/dynamic-chat-aug-2024-release-5.png)
 
-### Aktualisierte abgeleitete Daten {#refreshed-inferred-data}
+### Abgeleitete Daten aktualisiert {#refreshed-inferred-data}
 
-Die meisten Unterhaltungen auf einer Website erfolgen mit anonymen Besuchern. Sie können sie weiterhin mithilfe von abgeleiteten Daten ansprechen, die auf Besucher-IPs angewiesen sind. Wir haben unsere Datenbank mit IPs und entsprechenden abgeleiteten Daten aktualisiert, die jetzt viermal mehr IPs unterstützt.
+Die meisten Gespräche auf einer Website werden mit anonymen Besuchern geführt. Sie können sie weiterhin über abgeleitete Daten ansprechen, die auf Besucher-IPs angewiesen sind. Wir haben unsere IP-Datenbank und die entsprechenden abgeleiteten Daten aktualisiert, sodass jetzt viermal so viele IP-Adressen unterstützt werden.
 
-### Ton zur Agent-Browserbenachrichtigung hinzugefügt {#sound-added-to-agent-browser-notification}
+### Ton zur Browser-Benachrichtigung des Agenten hinzugefügt {#sound-added-to-agent-browser-notification}
 
-Wenn einem Agenten ein Live-Chat zugewiesen wird, erhält er eine Browserbenachrichtigung. Aber gelegentlich sehen sie sie nicht. Wir haben einen [Benachrichtigungs-Sound](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#when-a-live-chat-is-routed-to-an-agent){target="_blank"} hinzugefügt, um zu verhindern, dass in Zukunft verpasste Benachrichtigungen gesendet werden.
+Wenn ein Live-Chat einem Agenten zugewiesen wird, erhält er eine Browser-Benachrichtigung. Aber gelegentlich sehen sie sie nicht. Wir haben einen [Benachrichtigungston“ hinzugefügt](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#when-a-live-chat-is-routed-to-an-agent){target="_blank"} um verpasste Benachrichtigungen in Zukunft zu vermeiden.
 
 ![](assets/dynamic-chat-aug-2024-release-6.png)
 
-### Möglichkeit, das Lead-Profil während des Live-Chat zu aktualisieren {#update-lead-profile-during-live-chat}
+### Möglichkeit, das Lead-Profil während des Live-Chats zu aktualisieren {#update-lead-profile-during-live-chat}
 
-Während eines Live-Chat möchten Agenten Informationen über den Besucher erfassen und das entsprechende Profil aktualisieren. Es gibt jetzt die Möglichkeit, die Attributwerte von Lead- und Firmenobjekten zu aktualisieren.
+Während eines Live-Chats möchten Kundendienstmitarbeiter Informationen über den Besucher erfassen und das jeweilige Profil aktualisieren. Es gibt jetzt eine Option, um Attributwerte von Lead- und Unternehmensobjekten zu aktualisieren.
 
 ![](assets/dynamic-chat-aug-2024-release-7.png)
 
@@ -210,19 +210,19 @@ Während eines Live-Chat möchten Agenten Informationen über den Besucher erfas
 
 **Veröffentlichungsdatum: Freitag, 6. Juni 2024**
 
-### Konversionsflusskarte {#conversational-flow-card}
+### Dialogfeldkarte {#conversational-flow-card}
 
-Straffen Sie mehrere Schritte in einem Fluss innerhalb Ihrer Dialoge, indem Sie die Karte Konversionsfluss nutzen.
+Optimieren Sie mehrere Schritte in einem Fluss in Ihren Dialogfeldern, indem Sie die Karte „Konversativer Fluss“ verwenden.
 
-Beispiel: Wenn Sie die Registrierung für Ihr Webinar über mehrere Dialoge durchführen möchten, müssen Sie denselben Fluss über alle Dialoge mit diesem Ziel neu erstellen. Und wenn Sie jedes Detail aktualisieren müssen, müssen Sie jedes einzelne Dialogfeld einzeln bearbeiten. Das ist nicht mehr der Fall, dank der Karte &quot;Conversational Flow&quot;.
+Beispiel: Wenn Ihr Ziel darin besteht, Registrierungen für Ihr Webinar über mehrere Dialogfelder voranzutreiben, müssen Sie denselben Fluss über alle Dialogfelder hinweg neu erstellen, die dieses Ziel haben. Und wenn Sie Details aktualisieren müssen, müssen Sie jedes einzelne Dialogfeld einzeln bearbeiten. Das ist dank der Conversational Flow-Karte nicht mehr der Fall.
 
-Sie können nicht nur die Weiterverwendung von Flüssen über mehrere Dialogfelder hinweg ermöglichen, sondern auch denselben Übergangsprozess zum Trigger über andere Kanäle wie Formulare und Landingpages verwenden.
+Zusätzlich zur Neuverwendung von Flüssen über mehrere Dialogfelder hinweg können Sie denselben Übergangsfluss auch für Trigger über andere Kanäle wie Formulare und Landingpages verwenden.
 
 ![](assets/dynamic-chat-june-2024-release-1.png)
 
 ### Nutzungsbeschränkungen {#usage-limits}
 
-Auf der Seite Nutzungsbeschränkungen werden wichtige Informationen angezeigt, wie Paketdetails und Ihr Nutzungsbegrenzungsstatus.
+Die Seite „Nutzungsbeschränkungen“ enthält wichtige Informationen wie Paketdetails und den Status Ihrer Nutzungsbeschränkung.
 
 ![](assets/dynamic-chat-june-2024-release-2.png)
 
@@ -230,37 +230,37 @@ Auf der Seite Nutzungsbeschränkungen werden wichtige Informationen angezeigt, w
 
 **Veröffentlichungsdatum: Donnerstag, 15. Mai 2024**
 
-### Vorab genehmigte Antwortbibliothek {#pre-approved-response-library}
+### Bibliothek mit vorab genehmigten Antworten {#pre-approved-response-library}
 
-[Erstellen Sie eine Bibliothek, die für das Marketing genehmigt wurde](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md){target="_blank"} mit KI-generierten Fragen und Antworten, um den Generativen KI-Chat in Minuten einzurichten.
+[Erstellen Sie eine vom Marketing genehmigte Bibliothek](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md){target="_blank"} mit von KI generierten Fragen und Antworten, um in Minutenschnelle einen Chat mit generativer KI einzurichten.
 
 ![](assets/dynamic-chat-may-2024-release-1.png)
 
 ### Unbeantwortete Fragen {#unanswered-questions}
 
-[Verwenden Sie ein Repository mit unbeantworteten Fragen](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md){target="_blank"} aus früheren Konversationen, um neue vorab genehmigte Antworten zu generieren und dabei eine Antwortbibliothek mit den neuesten Informationen zu verwalten.
+[Verwenden Sie ein Repository mit unbeantworteten Fragen](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md){target="_blank"} aus früheren Unterhaltungen, um neue vorab genehmigte Antworten zu generieren und eine Antwortbibliothek mit den neuesten Informationen zu verwalten.
 
 ![](assets/dynamic-chat-may-2024-release-2.png)
 
-### Konversationszusammenfassungen {#conversation-summaries}
+### Zusammenfassung der Unterhaltung {#conversation-summaries}
 
-[Geben Sie Vertriebsmitarbeitern zusammengefasste Gespräche](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#conversation-summary){target="_blank"}, einschließlich Einblicken in wichtige Diskussionsthemen im Vorfeld von Sitzungen, um die Vorbereitungszeit zu verkürzen und Vertriebsmitarbeiter mit den neuesten Informationen besser zu rüsten.
+[Geben Sie den Vertriebsmitarbeitern zusammengefasste ](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#conversation-summary){target="_blank"}, einschließlich Einblicken in wichtige Diskussionsthemen, bevor Meetings stattfinden, um die Vorbereitungszeit zu verkürzen und die Vertriebsmitarbeiter besser mit den neuesten Informationen zu versorgen.
 
 ![](assets/dynamic-chat-may-2024-release-3.png)
 
-### Tastenkombinationen für GenAI {#genai-sales-shortcuts}
+### Vertriebs-Shortcuts für GenAI {#genai-sales-shortcuts}
 
-[Bieten Sie Live-Chat-Agenten schnellere Möglichkeiten](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#shortcuts){target="_blank"}, um auf KI-generierte Antworten zuzugreifen, vorhandene generierte Antworten zu bearbeiten und nach zusätzlichen Inhalten zu suchen, die während der Konversation an Käufer gesendet werden.
+[Liefern Sie Live-Chat-Agenten schnellere Möglichkeiten](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#shortcuts){target="_blank"} um auf KI-generierte Antworten zuzugreifen, vorhandene generierte Antworten zu bearbeiten und nach zusätzlichen Inhalten zu suchen, die während des Gesprächs an Käufer gesendet werden können.
 
 ![](assets/dynamic-chat-may-2024-release-4.png)
 
 ### Unterhaltungshilfe {#conversation-assist}
 
-Hilfe für Vertriebsmitarbeiter bei Live-Unterhaltungen mit von Ihrem Marketing-Team vorab genehmigten Antworten.
+Helfen Sie den Vertriebsmitarbeitern, bei Live-Gesprächen mithilfe von Antworten, die vorab von Ihrem Marketing-Team genehmigt wurden, genau zu reagieren.
 
-### Diskussionsforen {#conversation-nudges}
+### Unterhaltungs-Stupser {#conversation-nudges}
 
-Fügen Sie Webbesuchern einen Aktionsaufruf hinzu, um Gespräche zum Abschluss zu bringen.
+Ermutigen Sie Web-Besucher mit einem Aktionsaufruf, die Gespräche zum Abschluss zu bringen.
 
 <p>
 
@@ -268,39 +268,39 @@ Fügen Sie Webbesuchern einen Aktionsaufruf hinzu, um Gespräche zum Abschluss z
 
 **Veröffentlichungsdatum: Mittwoch, 23. April 2024**
 
-### Konversationsflüsse jetzt für alle Benutzer verfügbar {#conversational-flows-available-to-all-users}
+### Konversationsflüsse sind jetzt für alle Benutzer verfügbar {#conversational-flows-available-to-all-users}
 
-Gestalten Sie Ihre Formulare und Landingpages kommunikativer und verkürzen Sie den Verkaufstrichter, indem Sie qualifizierten Leads erlauben, ein Meeting oder einen Chat mit Sales unmittelbar nach der Formularübermittlung mit Conversational Forms zu buchen, der jetzt für alle Dynamic Chat-Benutzer voll verfügbar ist.&#42;
+Machen Sie Ihre Formulare und Landingpages gesprächsbereiter und verkürzen Sie den Verkaufstrichter, indem Sie qualifizierten Leads erlauben, sofort nach einer Formularübermittlung mit Conversational Forms, die jetzt für alle Dynamic Chat-Nutzer &#42; ist, ein Meeting zu buchen oder mit zu chatten.
 
-_&#42;Zuvor als Testfunktion mit 100 Lebensdauerinteraktionen verfügbar. Die Interaktionen mit dem Konversationsfluss werden jetzt auf die monatliche Begrenzung von 250 Interaktionen angerechnet, die für Benutzer mit dem Select-Paket erforderlich sind._
+_&#42;Zuvor als Testfunktion mit 100 lebenslangen Interaktionen verfügbar. Gespräche werden jetzt für das monatliche Limit von 250 Gesprächen gezählt, die Benutzende mit dem Select-Paket führen._
 
-### Callback-Funktionen {#callback-functions}
+### Rückruffunktionen {#callback-functions}
 
-[Callback-Funktionen](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md){target="_blank"} ermöglichen es Ihnen, Dynamic Chat-Analytics-Ereignisse in externen Systemen wie Adobe Analytics oder Google Analytics zu erfassen, wenn Besucher mit Dynamic Chat-Konversationen interagieren. Sie aktivieren Dynamic Chat-Analytics-Ereignisse, indem Sie einen Callback mit der API registrieren, um die Ereignisse zu überwachen. Auf diese Weise können Sie eine ganzheitlichere Sicht auf Ihre Dynamic Chat-Interaktion im Zusammenhang mit anderen wichtigen Daten wie dem Web-Traffic haben.
+[Rückruffunktionen](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md){target="_blank"} ermöglichen es Ihnen, Dynamic Chat-Analyseereignisse in externen Systemen wie Adobe Analytics oder Google Analytics zu erfassen, wenn Besucherinnen und Besucher Dynamic Chat-Gespräche führen. Sie aktivieren das Dynamic Chat von Analytics-Ereignissen, indem Sie einen Callback bei der -API registrieren, um auf die Ereignisse zu warten. Auf diese Weise können Sie einen ganzheitlicheren Überblick über Ihre Dynamic Chat-Interaktion erhalten, da sie sich auf andere wichtige Daten wie Web-Traffic bezieht.
 
-### Verfügbarkeitsbedingungen für Live-Agenten zu bedingter Verzweigung hinzugefügt {#live-agent-availability-conditional-branching}
+### Live Agent-Verfügbarkeitsbedingungen zu bedingter Verzweigung hinzugefügt {#live-agent-availability-conditional-branching}
 
-Zusätzlich zu nativen und benutzerdefinierten Marketo Engage-Feldern können Sie jetzt bedingte Verzweigungen verwenden, um Verzweigungen basierend auf der Verfügbarkeit von Agenten zu erstellen. Dies ist nützlich, wenn Sie Besuchern nur die Möglichkeit bieten möchten, mit einem Live-Agenten zu sprechen, wenn Live-Agenten verfügbar sind.
+Zusätzlich zu nativen und benutzerdefinierten Marketo Engage-Feldern können Sie jetzt eine bedingte Verzweigung verwenden, um je nach Verfügbarkeit des Agenten Verzweigungen zu erstellen. Dies ist nützlich, wenn Sie Besuchern nur die Möglichkeit bieten möchten, mit einem Live Agent zu sprechen, wenn Live Agents verfügbar sind.
 
 ![](assets/dynamic-chat-release-1.png)
 
-### Bedingung für intelligente Liste zu bedingter Verzweigung hinzugefügt {#smart-list-condition}
+### Smart-List-Bedingung zur bedingten Verzweigung hinzugefügt {#smart-list-condition}
 
-Durch das Hinzufügen der neuen Marketo Engage-Smart-List-Bedingung zur bedingten Verzweigung können Sie Verzweigungen erstellen, die auf bereits in Marketo Engage erstellten bereits bestehenden Zielgruppen basieren, anstatt die Verzweigungsbedingungen für Zielgruppen im Dynamic Chat zu definieren.
+Durch Hinzufügen der neuen Marketo Engage-Smart-List-Bedingung in der bedingten Verzweigung können Sie Verzweigungen basierend auf bereits vorhandenen Zielgruppen erstellen, die Sie bereits im Marketo Engage erstellt haben, anstatt die Bedingungen für die Zielgruppenverzweigung im Dynamic Chat zu definieren.
 
 ![](assets/dynamic-chat-release-2.png)
 
-### Bedingte Verzweigung für konversale Flüsse {#conditional-branching-for-conversational-flows}
+### Bedingte Verzweigung für Konversationsflüsse {#conditional-branching-for-conversational-flows}
 
-Wir haben Anfang dieses Jahres bedingte Verzweigungen für Dialoge veröffentlicht, und jetzt können Sie auch die bedingte Verzweigung in Konversationsflüssen nutzen! Bedingte Verzweigungen ermöglichen es Ihnen, Verzweigungen in Ihrem Fluss basierend auf unterschiedlichen Bedingungen zu erstellen.
+Wir haben in diesem Jahr bedingte Verzweigungen für Dialoge veröffentlicht, und jetzt können Sie auch die bedingte Verzweigung in Conversational Flows nutzen! Mit bedingter Verzweigung können Sie basierend auf verschiedenen Bedingungen Verzweigungen in Ihrem Fluss erstellen.
 
 ### Live-Chat für Konversationsflüsse {#live-chat-for-conversational-flows}
 
-Wir haben 2023 die Live-Chatfunktion für Dialoge veröffentlicht und jetzt können Sie auch Live-Chatinteraktionen zu Ihren Konversationsflüssen hinzufügen. Wenn Sie Konversionsflüsse mit Ihren Marketo Engage-Formularen verwenden, können Sie jetzt qualifizierten Besuchern erlauben, unmittelbar nach der Formularübermittlung mit einem Live-Agenten zu chatten!
+Im Jahr 2023 haben wir Live-Chat-Funktionen für Dialoge veröffentlicht. Jetzt können Sie auch Live-Chat-Interaktionen zu Ihren Gesprächsflüssen hinzufügen. Wenn Sie Konversationsflüsse mit Ihren Marketo Engage-Formularen verwenden, können Sie jetzt qualifizierten Besuchern erlauben, sofort nach der Formularübermittlung mit einem Live-Agenten zu chatten!
 
-### Letzte Marketo Engage-Aktivitäten im Agent-Posteingang {#recent-marketo-engage-activities-in-agent-inbox}
+### Letzte Marketo Engage-Aktivitäten im Agenten-Posteingang {#recent-marketo-engage-activities-in-agent-inbox}
 
-Wir haben die letzten Marketo Engage-Aktivitäten zum Abschnitt &quot;Letzte Aktivitäten&quot;des Agenten-Posteingangs hinzugefügt. Wenn ein Site-Besucher also einen Chat mit einem Agenten anfordert, kann der Agent schnell erkennen, ob der Besucher kürzlich eine der folgenden Marketo Engage-Aktivitäten ausgeführt hat (letzte 25 Aktivitäten):
+Wir haben dem Abschnitt Letzte Aktivitäten des Agenten-Posteingangs kürzlich Marketo Engage-Aktivitäten hinzugefügt. Wenn also ein Site-Besucher einen Chat mit einem Agenten anfordert, kann der Agent schnell sehen, ob der Besucher kürzlich eine der folgenden Marketo Engage-Aktivitäten ausgeführt hat (letzte 25 Aktivitäten):
 
 * Hat E-Mail geöffnet
 * Besuchte Webseite
@@ -309,59 +309,59 @@ Wir haben die letzten Marketo Engage-Aktivitäten zum Abschnitt &quot;Letzte Akt
 
 ![](assets/dynamic-chat-release-3.png)
 
-### Verbindungsstatus des Kalenders in der Agentenverwaltung {#calendar-connection-status-in-agent-management}
+### Kalenderverbindungsstatus in der Agentenverwaltung {#calendar-connection-status-in-agent-management}
 
-Administratoren können nun leicht erkennen, welche Agenten mit Buchungsberechtigungen für Meetings ihre Kalender in Dynamic Chat verbunden haben. Dadurch können Sie sicherstellen, dass Ihr gesamtes Vertriebsteam verbunden ist und die Möglichkeit hat, Besprechungsanfragen von Dynamic Chat zu akzeptieren.
+Administratoren können jetzt leicht erkennen, welche Agenten mit Besprechungsbuchungsberechtigungen ihre Kalender in Dynamic Chat miteinander verbunden haben. Auf diese Weise können Sie sicherstellen, dass Ihr gesamtes Vertriebsteam verbunden ist und Besprechungsanfragen von Dynamic Chat akzeptiert.
 
 ![](assets/dynamic-chat-release-4.png)
 
-### Mindestmeldeeinstellung in der Konfiguration des Agentkalenkalenders {#minimum-notice-setting-in-agent-calendar-configuration}
+### Einstellung „Mindest-Hinweis“ in der Agentenkalender-Konfiguration {#minimum-notice-setting-in-agent-calendar-configuration}
 
-Benutzer berichteten, dass Webbesucher mit nur 10 Minuten erweiterter Benachrichtigung Sitzungen in ihrem Kalender buchten. Daher haben wir in die Agentenkalenderkonfiguration eine Mindestwarnungseinstellung eingeführt und die standardmäßige Vorlaufzeit auf 24 Stunden festgelegt.
+Benutzer berichteten, dass Web-Besucher Meetings in ihrem Kalender mit nur 10 Minuten Vorankündigung buchten. Daher haben wir in der Konfiguration des Agentenkalenders eine Mindestankündigungseinstellung eingeführt und die standardmäßige Vorlaufzeit auf 24 Stunden festgelegt.
 
 ![](assets/dynamic-chat-release-5.png)
 
-### Benutzerverhalten aktualisiert hinzufügen/entfernen {#add-remove-user-behavior-updated}
+### Aktualisiertes Benutzerverhalten hinzufügen/entfernen {#add-remove-user-behavior-updated}
 
-Einige Benutzer gaben an, dass beim Hinzufügen und Entfernen von Agenten im dynamischen Chat Probleme aufgetreten seien. Daher haben wir einige Änderungen vorgenommen, um diese Probleme zu beheben.
+Einige Benutzer gaben an, dass sie Probleme mit dem Hinzufügen und Entfernen von Agenten im dynamischen Chat haben. Daher haben wir einige Änderungen vorgenommen, um diese Probleme zu beheben.
 
-Wenn ein Benutzer zur Admin Console mit einer Live-Chat- oder Sitzungsbuchungsberechtigung hinzugefügt wird, wird er sofort in der Liste der Agentenverwaltung angezeigt und kann zu Dialogfeldern, Gesprächsflüssen, Routing-Regeln und Teams hinzugefügt werden.
+Wenn ein(e) Benutzende(r) der Admin Console mit der Berechtigung Live-Chat oder Besprechungsbuchung hinzugefügt wird, wird er/sie sofort in der Agentenverwaltungsliste angezeigt und steht Dialogen, Gesprächsflüssen, Routing-Regeln und Teams zur Verfügung.
 
-Wenn ein Benutzer mit einer Sitzungsbuchung oder Live-Chat-Berechtigung aus der Admin Console entfernt wird, wird er sofort aus dem Dynamic Chat entfernt, ist nicht mehr für Live-Chat oder Meeting-Routing verfügbar und wird nicht mehr mit Lizenzbeschränkungen gezählt.
+Wenn ein(e) Benutzende(r) mit Berechtigungen zum Buchen von Meetings oder zum Live-Chat von der Admin Console entfernt wird, wird er/sie sofort vom Dynamic Chat entfernt, ist nicht mehr für den Live-Chat oder das Meeting-Routing verfügbar und wird nicht mehr auf die Lizenzbeschränkungen angerechnet.
 
-### Verbesserte Berichtleistung auf Konversationsebene {#improved-conversation-level-report-performance}
+### Verbesserte Berichtsleistung auf Konversationsebene {#improved-conversation-level-report-performance}
 
-Berichte auf Ebene einzelner Dialogfelder und Konversationsflüsse sind jetzt leistungsfähiger und genauer. Bisher konnte das Laden von Dialogfeldberichten mehrere Sekunden dauern und die Daten waren gelegentlich nicht mit den globalen Leistungsberichten konsistent. Jetzt werden Ihre einzelnen Dialogfeldberichte sofort geladen und die Daten werden immer mit den globalen Berichtsdaten abgestimmt.
+Die Berichte auf individueller Dialog- und Gesprächsebene sind jetzt leistungsfähiger und genauer. Zuvor dauerte das Laden von Dialogberichten mehrere Sekunden, und die Daten waren gelegentlich nicht mit den globalen Leistungsberichten konsistent. Jetzt werden Ihre individuellen Dialogberichte im Handumdrehen geladen und die Daten werden immer mit den globalen Berichtsdaten abgestimmt.
 
 ![](assets/dynamic-chat-release-6.png)
 
 ### Berechtigungsaktualisierungen {#permission-updates}
 
-Wir haben die Berechtigungsstruktur und -benennung in Adobe Admin Console bereinigt, um die Berechtigungsverwaltung intuitiver zu gestalten.
+Die Berechtigungsstruktur und die Benennung in Adobe Admin Console wurden bereinigt, um die Berechtigungsverwaltung intuitiver zu gestalten.
 
-* Die Kategorie &quot;Unterhaltungsverwaltung&quot;heißt nun &quot;Konversationen&quot;.
-* Die Kategorie &quot;Meetings&quot;heißt jetzt &quot;Aktivitäten&quot;
-* Die Kategorie &quot;Agenteneinstellungen&quot;heißt jetzt &quot;Agenten&quot;.
-* Die Kategorie &quot;Admin-Einstellungen&quot;heißt jetzt &quot;Konfiguration&quot;
-* Die Kategorie &quot;Live-Chat&quot;wurde entfernt und alle Live-Chat-Berechtigungen wurden in die Kategorie &quot;Agenten&quot;verschoben.
+* Die Kategorie „Konversationsverwaltung“ heißt jetzt „Konversationen“
+* Die Kategorie „Meetings“ heißt jetzt „Aktivitäten“
+* Die Kategorie „Agenteneinstellungen“ heißt jetzt „Agenten“
+* Die Kategorie „Admin-Einstellungen“ heißt jetzt „Konfiguration“
+* Die Kategorie „Live-Chat“ wurde entfernt und alle Live-Chat-Berechtigungen wurden in die Kategorie Agenten verschoben
 
 ![](assets/dynamic-chat-release-7.png)
 
-### Unterstützung für Hyperlinks im Agent Inbox {#support-for-hyperlinks-in-agent-inbox}
+### Unterstützung für Hyperlinks im Agenten-Posteingang {#support-for-hyperlinks-in-agent-inbox}
 
-Wenn jetzt Live-Chat-Agenten URLs mit Besuchern im Chat teilen, werden diese URLs per Hyperlink verknüpft, sodass Besucher einfach auf sie klicken können, um zur Seite zu navigieren, anstatt die URL kopieren und in ihren Browser einfügen zu müssen.
+Wenn Live-Chat-Agenten jetzt URLs für Besucher im Chat freigeben, werden diese URLs mit Hyperlinks versehen, sodass Besucher einfach darauf klicken können, um zur Seite zu navigieren, anstatt die URL kopieren und in ihren Browser einfügen zu müssen.
 
-### Eingabe des Schlüsselverhaltens, das im Agent-Posteingang aktualisiert wurde {#enter-key-behavior-updated-in-agent-inbox}
+### Aktualisiertes Schlüsselverhalten im Agenten-Posteingang eingeben {#enter-key-behavior-updated-in-agent-inbox}
 
-Wir haben das Verhalten der Eingabetaste im Agent Inbox umgestellt. Drücken Sie also die Eingabe- oder Eingabetaste, um Ihre Nachricht zu senden, und drücken Sie Umschalt+Eingabetaste, um einen Zeilenumbruch zu erzeugen.
+Das Verhalten der Eingabetaste im Agenten-Posteingang wurde geändert. Wenn Sie die Eingabetaste drücken, wird die Nachricht gesendet, und durch Drücken von Umschalt+Eingabetaste wird ein Zeilenumbruch erstellt.
 
 ![](assets/dynamic-chat-release-8.png)
 
-### Round Robin-Seite entfernt {#round-robin-page-removed}
+### Round-Robin-Seite entfernt {#round-robin-page-removed}
 
-Mach dir keine Sorgen! Das Round Robin Routing ist noch voll funktionsfähig und funktioniert genauso wie immer. Wir haben gerade die Seite entfernt, die eine häufig ungenaue Liste von Agenten und deren Reihenfolge in der Round Robin Routing-Warteschlange anzeigte.
+Keine Sorge! Das Round Robin Routing ist immer noch voll funktionsfähig und funktioniert genauso wie immer. Wir haben gerade die Seite entfernt, die eine oft ungenaue Liste von Agenten und ihre Reihenfolge in der Routing-Warteschlange der Round Robins zeigte.
 
-Als wir 2022 Dynamic Chat herausbrachten, gab es keine Unterstützung für Live-Chat, nur Meetingbuchungen, und die Round Robin Routing-Seite wurde nur unter Berücksichtigung der Buchung konzipiert. Mit der Einführung des Live-Chat im letzten Jahr wurde die Round Robin-Seite überholt, da sie nicht genau die komplexere Art des Round Robin Routing zwischen Agenten mit sowohl Sitzungsbuchung als auch Live-Chat-Berechtigungen widerspiegelt. Wir haben verschiedene Möglichkeiten untersucht, um dieses Problem zu lösen, aber letztlich beschlossen wir, dass die vollständige Abschaffung die beste Option ist, um Verwirrung zu minimieren.
+Als wir Dynamic Chat im Jahr 2022 veröffentlichten, gab es keine Unterstützung für Live-Chat, sondern nur für die Besprechungsbuchung, und die Routing-Seite für Round Robin wurde nur mit Blick auf die Besprechungsbuchung entwickelt. Mit der Einführung des Live-Chats im letzten Jahr wurde die Round-Robin-Seite veraltet, da sie die komplexere Natur des Round-Robin-Routings zwischen Agenten mit sowohl Besprechungsbuchungs- als auch Live-Chat-Berechtigungen nicht genau widerspiegelt. Wir haben ein paar verschiedene Möglichkeiten untersucht, um das anzugehen, sind aber letztlich zu dem Schluss gekommen, dass die beste Möglichkeit, Verwirrung zu minimieren, darin besteht, es ganz zu beseitigen.
 
 ![](assets/dynamic-chat-release-9.png)
 
@@ -369,26 +369,26 @@ Als wir 2022 Dynamic Chat herausbrachten, gab es keine Unterstützung für Live-
 
 **Versionsdatum: Freitag, 22. Februar 2024**
 
-### Seite &quot;Konversationen&quot; {#conversations-page}
+### Seite „Unterhaltungen“ {#conversations-page}
 
-Auf der neuen Seite &quot;Konversationen&quot;finden Sie eine zentrale Anlaufstelle, um Transkripte für alle Konversationen (automatisiert und live) anzuzeigen, die für Ihre Instanz stattgefunden haben, sowohl für bekannte als auch für anonyme Leads. So erhalten Sie eine bessere Übersicht darüber, wie Ihre Kunden mit Ihren Dialogfeldern, Konversationsflüssen und Live-Agenten interagieren.
+Die neue Seite Konversationen bietet eine zentrale Anlaufstelle, um Transkripte aller Konversationen (automatisiert und live) anzuzeigen, die für Ihre Instanz stattgefunden haben, und zwar sowohl von bekannten als auch von anonymen Leads. So erhalten Sie einen besseren Einblick in die Interaktion Ihrer Kunden mit Ihren Dialogen, Konversationsflüssen und Live-Agenten.
 
 ![](assets/dynamic-chat-release-10.png)
 
-### Der Datumsbereich im globalen Dashboard wurde von 90 Tagen auf 24 Monate erhöht {#date-range-in-global-dashboard}
+### Datumsbereich im globalen Dashboard wurde von 90 Tagen auf 24 Monate erhöht {#date-range-in-global-dashboard}
 
-Du hast gefragt, und wir haben geliefert. Sie können jetzt Dynamic Chat-Interaktionsdaten für bis zu zwei Jahre in allen Analyse-Dashboards sehen.
+Du hast gefragt und wir haben geliefert. Sie können jetzt Dynamic Chat-Interaktionsdaten für bis zu zwei Jahre in allen Analytics-Dashboards sehen.
 
 ### Bedingte Verzweigung in Dialogfeldern {#conditional-branching-in-dialogues}
 
-Die bedingte Verzweigung ermöglicht es Ihnen, Verzweigungen in Ihren Dialogfeldern basierend auf unterschiedlichen Bedingungen zu erstellen. Jetzt können Sie verschiedene Inhalte für verschiedene Personen im selben Dialogfeld darstellen, basierend auf den Lead- und Firmenattributen in Marketo Engage.
+Mit bedingter Verzweigung können Sie basierend auf verschiedenen Bedingungen Verzweigungen in Ihren Dialogfeldflüssen erstellen. Jetzt können Sie verschiedene Inhalte in demselben Dialogfeld verschiedenen Personen präsentieren, basierend auf Lead- und Unternehmensattributen in Marketo Engage.
 
 ## Version Januar 2024 {#january-release}
 
 **Versionsdatum: Donnerstag, 24. Januar 2024**
 
-### Begrenzung für gleichzeitige Live-Chat-Vorgänge in der Agentenverwaltung {#Concurrent-live-chat-limit-setting}
+### Limit für gleichzeitigen Live-Chat in der Agentenverwaltung festgelegt {#Concurrent-live-chat-limit-setting}
 
-Standardmäßig kann jeder Live-Chat-Agent in Ihrer Instanz maximal fünf Live-Chat-Sitzungen gleichzeitig abhalten. Wir haben eine neue Einstellung für die Agentenverwaltung eingeführt, mit der Sie diese Grenze von 1 auf 10 anpassen können.
+Standardmäßig kann jeder Live-Chat-Agent in Ihrer Instanz maximal fünf Live-Chat-Sitzungen gleichzeitig durchführen. Wir haben eine neue Einstellung für die Agentenverwaltung eingeführt, mit der Sie diese Grenze von 1 bis 10 anpassen können.
 
 ![](assets/dynamic-chat-release-11.png)

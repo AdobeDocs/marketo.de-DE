@@ -1,80 +1,80 @@
 ---
-description: Juni 2022 - Versionshinweise - Marketo-Dokumente - Produktdokumentation
-title: Juni 2022 - Versionshinweise
+description: Versionshinweise - Juni 2022 - Marketo-Dokumente - Produktdokumentation
+title: Versionshinweise – Juni 2022
 exl-id: f4438ea8-1657-4955-9f9f-640b3ecf5caa
 feature: Release Information
 source-git-commit: cf4dcb6a316eba631ccb73a991c09e83c80b82ca
 workflow-type: tm+mt
 source-wordcount: '640'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Juni 2022 - Versionshinweise {#release-notes-june-22}
+# Versionshinweise: Juni 2022 {#release-notes-june-22}
 
-Unten finden Sie alle Funktionen der Version vom 22. Juni. Überprüfen Sie Ihre Adobe Marketo Engage-Edition auf Funktionsverfügbarkeit.
+Im Folgenden finden Sie alle Funktionen, die in der Version vom Juni 2022 enthalten sind. Überprüfen Sie Ihre Adobe Marketo Engage Edition auf die Verfügbarkeit der Funktionen.
 
 >[!AVAILABILITY]
 >
->Mit einem Stern (![Stern](assets/yellow-star.png)) gekennzeichnete Funktionen sind kostenpflichtige Add-ons. Wenden Sie sich an Ihren Marketo Engage-Support-Mitarbeiter, um mehr zu erfahren.
+>Mit einem Stern (![star](assets/yellow-star.png) gekennzeichnete Funktionen sind kostenpflichtige Add-ons. Weitere Informationen erhalten Sie von Ihrem Marketo Engage-Support-Mitarbeiter.
 
-Die folgenden Funktionen werden am 24. Juni 2022 veröffentlicht. Der Rollout der verbleibenden Funktionen erfolgt schrittweise über die folgenden Wochen (sofern nicht anders angegeben).****
+Die folgenden Funktionen werden ab dem 24. **2022 veröffentlicht** wobei die verbleibenden Funktionen in den darauffolgenden Wochen schrittweise bereitgestellt werden (sofern nicht anders angegeben).
 
 ## Marketing-Datenumgebung {#marketing-data-environment}
 
-* **ErstellteAt/UpdatedAt-Felder für benutzerdefinierte Objekte verfügbar machen**: Ermöglicht Ihnen die Überprüfung dieser Felder auf dem Bildschirm &quot;Personendetails&quot;, um weitere Einblicke zu erhalten.
+* **Verfügbarmachen von CreatedAt/UpdatedAt-Feldern für benutzerdefinierte Objekte**: Ermöglicht es Ihnen, diese Felder im Bildschirm „Personendetails“ zu überprüfen, um zusätzliche Einblicke zu erhalten.
 
 ## Kanalübergreifende Orchestrierung {#cross-channel-orchestration}
 
-* **Verbesserte Nutzung der Stream-Designer für Dynamic Chat**: Fügen Sie Karten direkt aus der Stream-Designer-Arbeitsfläche hinzu, ohne sie per Drag-and-Drop verschieben zu müssen. Die Dynamic Chat-Oberfläche wurde ebenfalls verbessert, um eine bessere Sichtbarkeit des Inhalts auf einzelnen Karten zu ermöglichen.
+* **Verbesserte Stream Designer-Benutzerfreundlichkeit für Dynamic Chat**: Fügen Sie Karten direkt von der Stream Designer-Arbeitsfläche hinzu, ohne dass Sie sie per Drag-and-Drop verschieben müssen. Außerdem wurde die Dynamic Chat-Oberfläche verbessert, um den Inhalt auf Einzelkarten besser sichtbar zu machen.
 
-* **Erweiterte Einstellungsregeln für Dynamic Chat**: Dynamic Chat bietet mehr Optionen für zielgerichtetes Terminierungsrouting. Geben Sie an, welche Agententermine auf der Grundlage von Marketo Engage-Attributen weitergeleitet werden sollen, und stellen Sie sicher, dass Leads an die entsprechenden Agenten weitergeleitet werden.
+* **Erweiterte Terminrouting-Regeln für Dynamic Chat**: Dynamic Chat bietet mehr Optionen für zielgerichtetes Terminrouting. Geben Sie an, welche Agententermine auf der Grundlage von Marketo Engage-Attributen weitergeleitet werden sollen, um sicherzustellen, dass Leads an die entsprechenden Agenten weitergeleitet werden.
 
-* **Fortschrittliche Dialogberichte für Dynamic Chat**: Zeigen Sie die Leistung Ihrer Dynamic Chat-Kampagnen mithilfe der neuen Datenvisualisierungen für Interaktions- und Konversionsmetriken detaillierter an.
+* **Erweiterte Dialogfeldberichte für Dynamic Chat**: Sehen Sie sich die Performance Ihrer Dynamic Chat-Kampagnen genauer an, indem Sie völlig neue Datenvisualisierungen für Interaktions- und Konversionsmetriken verwenden.
 
-* **Nicht verwendete Marketo Engage-Attribute für Dynamic Chat aufheben**: Synchronisieren Sie Marketo Engage-Attribute aus Ihrem Dynamic Chat-Abonnement, die nicht verwendet werden, und erleichtern Sie die Datenbereinigung und ermöglichen Sie die Synchronisierung alternativer Attribute nach Bedarf.
+* **Nicht verwendete Marketo Engage-Attribute für Dynamic Chat synchronisieren**: Heben Sie die Synchronisierung von nicht verwendeten Marketo Engage-Attributen mit Ihrem Dynamic Chat-Abonnement auf. Dies erleichtert die Datenbereinigung und ermöglicht die Synchronisierung von Ersatzattributen nach Bedarf.
 
 ## Erlebnis der nächsten Generation
 
-**Neue Umschalter-Ansichten**: Die folgenden Ansichten sind jetzt im Erlebnis der nächsten Generation verfügbar:
+**Neue Umschaltansichten ein/aus**: Die folgenden Ansichten sind jetzt in der nächsten Generation verfügbar:
 
-* [Ansicht &quot;E-Mail-Details&quot;](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-details-view){target="_blank"}
+* [E-Mail-Detailansicht](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-details-view){target="_blank"}
 * [E-Mail-Listenansicht](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-list-view){target="_blank"}
 
-## Erlebnisautomatisierung {#experience-automation}
+## Experience Automation {#experience-automation}
 
-* **Ausschlüsse von globalen Formularfeldvalidierungsregeln**: Schließen Sie bestimmte Formulare aus globalen Formularvalidierungsregeln aus, damit Abonnementzentren und andere geschäftskritische Workflows alle Werte akzeptieren können.
+* **Ausschlüsse für globale Formularfeldvalidierungsregeln**: Schließen Sie bestimmte Formulare von globalen Formularvalidierungsregeln aus, damit Abonnementzentren und andere geschäftskritische Workflows alle Werte akzeptieren können.
 
-* **Schritte zum Selbstbedienungsfluss**: Erweitern Sie die Konnektivität zwischen Marketo Engage und dem Rest Ihres Stapels mit der Möglichkeit, benutzerdefinierte Flussschritte zur Verwendung in Smart-Kampagnen zu erstellen. Sowohl Marketo Engage-Benutzer als auch -Partner können diese Funktion nutzen, um die Verwendung externer Webdienste in Trigger-, Batch- und ausführbaren Kampagnen im Gegensatz zu Webhooks zu ermöglichen, die nur in Trigger-Kampagnen verwendet werden können.
+* **Self-Service-Flussschritte**: Erweitern Sie die Konnektivität zwischen Marketo Engage und dem Rest Ihres Stacks mit der Möglichkeit, benutzerdefinierte Flussschritte für die Verwendung in Smart-Kampagnen zu erstellen. Sowohl Marketo Engage-Benutzer als auch -Partner können diese Funktion nutzen, um die Verwendung externer Web-Services in Trigger-, Batch- und ausführbaren Kampagnen zu ermöglichen, im Gegensatz zu Webhooks, die nur in Trigger-Kampagnen verwendet werden können.
 
-* **Munchkin Protocol Agnostic Link Tracking**: Erweitern Sie die Unterstützung für das Tracking von `tel` - und `mailto` -Links mit Munchkin, um erweiterte Web-Verhaltensweisen zu verfolgen.
+* **Munchkin Protocol Agnostic Link Tracking**: Erweitern Sie die Unterstützung für das Tracking von `tel`- und `mailto`-Links mit Munchkin, um erweiterte Webverhaltensweisen zu verfolgen.
 
-* **Zusätzliche HTTP-Methoden für Webhooks**: Geben Sie PUT, PATCH und DELETE als Anfragetypen an, um mit Webdiensten zu interagieren.
+* **Zusätzliche HTTP-Methoden für Webhooks**: Geben Sie PUT, PATCH und DELETE als Anfragetypen für die Interaktion mit Webservices an.
 
 ## Sales Insight {#sales-insight}
 
-![(star)](assets/yellow-star.png)
+![(Stern)](assets/yellow-star.png)
 
-* **Zugriffsberechtigungen für Sales Insight in Salesforce**: Administratoren können über den Berechtigungssatz der Marketo-App, der Teil des Salesforce-Pakets von Sales Insight ist, Sales Insight-Zugriff auf eine begrenzte Anzahl von Personen auf Benutzerebene und nicht auf Profilebene gewähren.
+* **Berechtigungssatz für Sales Insight in Salesforce**: Administratoren können über den Berechtigungssatz für Marketo-Apps, der Teil des Salesforce-Pakets für Sales Insight ist, Sales Insight einer begrenzten Gruppe von Personen auf Benutzerebene statt auf Profilebene Zugriff gewähren.
 
-* **Meine Marketo-Kachelaktualisierung - Sales Insight-Aktionen**: Marketo-Administratoren (und die von ihnen benannten Benutzer) können jetzt über eine neue Kachel &quot;Sales Insight-Aktionen&quot;auf der Seite &quot;My Marketo&quot;schnell zu ihrer Sales Insight-Aktionsinstanz navigieren.
+* **Mein Marketo-Kachel-Update - Sales Insight-Aktionen**: Marketo-Administratoren (und von ihnen benannte Benutzer) können jetzt über eine neue Kachel „Sales Insight-Aktionen“ auf der Seite Mein Marketo schnell zu ihrer Sales Insight-Aktionsinstanz navigieren.
 
 ## Sales Connect {#sales-connect}
 
-![(star)](assets/yellow-star.png)
+![(Stern)](assets/yellow-star.png)
 
-* **Salesforce-API-Update**: Mit der Salesforce Summer 22-Version werden API-ältere Versionen 21-30 von Salesforce nicht mehr unterstützt. Mit dieser Marketo Engage-Version wurden alle Sales Connect-Anfragen, die ältere API-Versionen verwenden, aktualisiert, damit sie auf eine unterstützte Version passen. Klicken Sie für ausführliche Informationen zu den Salesforce API-Pensionsplänen auf [hier](https://help.salesforce.com/s/articleView?language=en_US&amp;type=1&amp;id=000354473){target="_blank"}.
+* **Salesforce-API-Update**: Mit der Salesforce-Version Sommer 2022 werden ältere API-Versionen 21-30 von Salesforce nicht mehr unterstützt. Mit dieser Marketo Engage-Version wurden alle Sales Connect-Anfragen, die ältere API-Versionen verwenden, so aktualisiert, dass sie innerhalb einer unterstützten Version bleiben. Ausführliche Informationen zu Salesforce-API-Pensionsplänen finden Sie [hier](https://help.salesforce.com/s/articleView?language=en_US&amp;type=1&amp;id=000354473){target="_blank"}.
 
 ## API-Verbesserungen {#api-enhancements}
 
-* **Neue Filterfunktionen für die Bulk Program Member Extract API**: Filtern Sie nach Status der Programmmitgliedschaft, updatedAt, Cadence oder erschöpftem Inhalt, um den extrahierten Datensatz zu verfeinern.
+* **Neue Filterfunktionen für die API zum Extrahieren von Massenprogrammmitgliedern**: Filtern nach Programmmitgliedschaftsstatus, updatedAt, Kadenz oder erschöpftem Inhalt, um den extrahierten Datensatz zu verfeinern.
 
-* **Verbesserung der Bulk Program Member Extract API**: Geben Sie bis zu 10 Programme während der Auftragserstellung an, um den Durchsatz zu verbessern.
+* **Verbesserung der API für die Massenprogrammextraktion**: Geben Sie während der Auftragserstellung bis zu 10 Programme an, um den Durchsatz zu verbessern.
 
 ## Ankündigungen {#announcements}
 
-* **Forms-Einstellung - Forms 1.0, Lead-Capture-/Speicherendpunkt und Nicht-Skriptversionen von Formularen**: Die Unterstützung für Forms 1.0-Assets wird bis Oktober 2022 vollständig aus dem Marketo Engage entfernt. Alle vorhandenen Forms 1.0-Assets funktionieren nicht mehr. Für Marketo Engage-Formulare muss JavaScript auf Landingpages und Websites geladen werden.
+* **Einstellung von Forms - Forms 1.0, Lead-Erfassungs-/Speicherendpunkt und No-Script-Versionen von Forms**: Die Unterstützung für Forms 1.0-Assets wird bis Oktober 2022 vollständig vom Marketo Engage entfernt. Alle vorhandenen Forms 1.0-Assets funktionieren nicht mehr. Beim Marketo Engage von Formularen muss JavaScript auf Landingpages und Websites geladen werden.
 
 **_Webinar zur Produktversion_**
 
-[Marketo Engage-Release-Webinar vom Juni und August 2022](https://engage.marketo.com/2022_June_August_Release_Webinar_OnDemandPage.html){target="_blank"}
+[Webinar zur Marketo Engage-Version vom Juni und August 2022](https://engage.marketo.com/2022_June_August_Release_Webinar_OnDemandPage.html){target="_blank"}

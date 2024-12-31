@@ -11,43 +11,43 @@ ht-degree: 3%
 
 ---
 
-# Versionshinweise: 19. August {#release-notes-august}
+# Versionshinweise: August &#39;19 {#release-notes-august}
 
-Die folgenden Funktionen sind in der Version vom 19. August enthalten. Überprüfen Sie Ihre Marketo-Edition auf Funktionsverfügbarkeit.
+Die folgenden Funktionen sind in der Version vom 19. August enthalten. Überprüfen Sie Ihre Marketo Edition auf die Verfügbarkeit der Funktionen.
 
-**_Vierteljährliche Versionen_**
+**_Quartalsveröffentlichungen_**
 
 Die folgenden Funktionen wurden am 16. August 2019 veröffentlicht.
 
 ## Kern-Marketo-Einbindung {#core-marketo-engage}
 
-* **Erweiterbares Webinar-Framework**: Sparen Sie Zeit mit dem neuen vordefinierten Webinar-Framework von Marketo (eingeführt in den Winter-&quot;19-Versionshinweisen&quot;), das Daten von Webinar-Anbietern nahtlos an Marketo übergibt und umgekehrt. In diesem neuen Framework sind jetzt Cvent und Zoom verfügbar.
-* **Aktualisierung der Smart-Campaign-API**: Verwalten Sie die Lebenszyklusfunktionen intelligenter Kampagnen, während wir die CRUD-Benutzeroberfläche (Erstellen, Lesen, Aktualisieren, Löschen) abrunden.
-* **API-Änderung für E-Mail-Kopfzeilen aktualisieren**: Für die API &quot;E-Mail-Kopfzeile aktualisieren&quot;ist es nicht mehr erforderlich, dass eine E-Mail über eine angehängte Vorlage verfügt, um Kopfzeilenfelder wie die Betreffzeile zu aktualisieren.
+* **Erweiterbares Webinar-Framework**: Sparen Sie Zeit mit dem neuen vorkonfigurierten Webinar-Framework von Marketo (eingeführt in den Winter-Versionshinweisen für 19), das Daten von Webinar-Anbietern nahtlos an Marketo weiterleitet und umgekehrt. Cvent und Zoom sind jetzt in diesem neuen Framework verfügbar.
+* **Aktualisierung der Smart Campaign-API**: Verwalten Sie die Lebenszyklusfunktionen von Smart Campaign, während wir die CRUD-Schnittstelle (Erstellen, Lesen, Aktualisieren, Löschen) abrunden.
+* **API-Änderung für E-Mail-Header aktualisieren**: Für die API zum Aktualisieren von E-Mail-Headern ist keine E-Mail mehr mit einer angehängten Vorlage erforderlich, um Header-Felder wie die Betreffzeile zu aktualisieren.
 
-**Account-Based Marketing** ![(star)](assets/yellow-star.png)
+**Account-Based Marketing** ![(Stern)](assets/yellow-star.png)
 
-* **LinkedIn-Kontoübereinstimmung**, die zuvor in der Beta-Phase erfolgte, ist jetzt allgemein verfügbar.
-* **AccountAI** wird offiziell als **Kontoprofiling** umbenannt.
+* **LinkedIn Account Matching**, das sich zuvor in der Beta-Phase befand, ist jetzt allgemein verfügbar.
+* **AccountAI** wird offiziell in &quot;**Profiling“**.
 
 <br> 
 
-**_Herausgabe während des gesamten Quartals_**
+**_Veröffentlichung im gesamten Quartal_**
 
-Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus und werden im dritten Kalenderquartal und Anfang Q4 2019 veröffentlicht.
+Die folgenden Funktionen befinden sich in einem nicht-vierteljährlichen Zyklus und werden im dritten Kalenderquartal und Anfang des 4. Quartals 2019 veröffentlicht.
 
-**Marketo Sales Connect** ![(star)](assets/yellow-star.png)
+**Marketo Sales Connect** ![(Stern)](assets/yellow-star.png)
 
-* **Verbesserung des Seiten-Layouts für Personen:** Verwalten Sie Ihre Personen und Gruppen durch Listenimporte und Massenaktionen im neuen Personen-Seitenlayout.
+* **Verbesserung des Seiten-Layouts für Personen** Verwalten Sie Personen und Gruppen durch Listenimporte und Massenaktionen im neuen Seiten-Layout für Personen.
 
 >[!AVAILABILITY]
 >
->Mit einem Stern ( ![(star)](assets/yellow-star.png)) gekennzeichnete Funktionen sind kostenpflichtige Add-ons. Weitere Informationen erhalten Sie von Ihrem Marketo-Support-Mitarbeiter.
+>Mit einem Stern ( ![(Stern)](assets/yellow-star.png) gekennzeichnete Funktionen sind kostenpflichtige Add-ons. Weitere Informationen erhalten Sie vom Marketo-Support.
 
 >[!NOTE]
 >
->**Einstellung von TLS 1.0 und 1.1**: Um dem Weltsicherheitsstandard von Adobe zu entsprechen, wird die Unterstützung für Transport Layer Security (TLS) 1.0 und 1.1 ab dem 13. Dezember 2019 eingestellt. Systeme, die mit Marketo integriert werden und nicht mit dem 1.2-Protokoll kompatibel sind, könnten möglicherweise den Zugriff auf Marketo Engage-Dienste verlieren.
+>**Einstellung von TLS 1.0 und 1.1**: Um die Anpassung an den erstklassigen Sicherheitsstandard von Adobe zu gewährleisten, werden wir die Unterstützung für Transport Layer Security (TLS) 1.0 und 1.1 ab dem 13. Dezember 2019 einstellen. Bei Systemen, die mit Marketo integriert werden und nicht dem Protokoll 1.2 entsprechen, kann der Zugriff auf Marketo Engage-Services verloren gehen.
 >
->**Um Ihren Marketo Engage-Zugriff zu erhalten, stellen Sie sicher, dass alle Client-Systeme vor dem 13. Dezember 2019 mit TLS 1.2 kompatibel sind.** Weitere Informationen finden Sie [hier](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq).
+>**Um Ihren Marketo Engage-Zugriff beizubehalten, stellen Sie bitte sicher, dass alle Client-Systeme vor dem 13. Dezember 2019 TLS 1.2-kompatibel**. Weitere Informationen finden Sie [hier](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq).
 
-**_Produkt-Release-Webinar_** [Nehmen Sie am 28. August um 13:00 Uhr PT/16:00 Uhr ET an einem Live-Webinar teil, das von unserem Produktteam gehostet wird, und erfahren Sie mehr über die Funktionen in dieser Version.](https://engage.marketo.com/August_19_Release_Webinar.html)
+**_Webinar zur Produktversion_** [Nehmen Sie am 28. ](https://engage.marketo.com/August_19_Release_Webinar.html) um 13:00 Uhr PT/16:00 Uhr ET an einem Live-Webinar teil, das von unserem Produktteam gehostet wird, und erfahren Sie mehr über die in dieser Version enthaltenen Funktionen.

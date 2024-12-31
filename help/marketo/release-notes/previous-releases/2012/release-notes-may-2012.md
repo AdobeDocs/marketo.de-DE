@@ -1,93 +1,93 @@
 ---
 unique-page-id: 2951117
-description: Versionshinweise - Mai 2012 - Marketo-Dokumente - Produktdokumentation
+description: Mai 2012 - Versionshinweise zu Marketo - Produktdokumentation
 title: Mai 2012 - Versionshinweise
 exl-id: b951e986-359d-4da0-8654-4d9f1416cebb
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '660'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
 # Mai 2012 - Versionshinweise {#release-notes-may}
 
-## Neugestaltung von E-Mail-Leistungsberichten {#email-performance-report-redesign}
+## Umgestaltung des E-Mail-Leistungsberichts {#email-performance-report-redesign}
 
-Hinweis: Dies ist ein statisches Rollout, beginnend mit der Mai-Version
+Hinweis: Dies wird ein gestaffelter Rollout sein, beginnend mit der Mai-Version
 
-Die Berichte E-Mail-Leistung und E-Mail-Leistung von Campaign wurden schneller ausgeführt. Wir haben auch die Definitionen bestimmter Metriken verbessert und die Metriken &quot;Gesendete Nachrichten&quot;und &quot;Gesendete Nachrichten&quot;zu einer einzigen Metrik, &quot;Gesendet&quot;, zusammengefasst. Wir haben &quot;Zugestellte Nachrichten&quot; und &quot;Zugestellte Interessenten&quot; zu &quot;Zugestellt&quot; zusammengeführt.
+Die Berichte E-Mail-Performance und Kampagnen-E-Mail-Performance wurden beschleunigt. Außerdem haben wir die Definitionen bestimmter Metriken verbessert und die Metriken „Gesendete Nachrichten“ und „Leads gesendet“ zu einer einzigen Metrik, „Gesendet“, zusammengefasst. Wir haben „Zugestellte Nachrichten“ und „Leads zugestellt“ zu „Zugestellt“ zusammengeführt.
 
-## Verbesserungen beim Warten {#wait-step-enhancements}
+## Verbesserungen bei Warteschritten {#wait-step-enhancements}
 
-Mit den neuen erweiterten Warteeigenschaften können Sie den Warteschritt in einer Aktion mit intelligentem Kampagnenfluss so konfigurieren, dass bis zu einem bestimmten Wochentag, dem nächsten Geschäftstag, einem bestimmten Datum oder einer bestimmten Uhrzeit gewartet wird. Diese Verbesserungen stellen sicher, dass Ihre Pflege-E-Mails während der Geschäftszeiten im Posteingang ankommen!
+Mit den neuen erweiterten Warteeigenschaften können Sie den Warteschritt in einer Smart Campaign Flow-Aktion so konfigurieren, dass er bis zu einem bestimmten Wochentag, dem nächsten Werktag, einem bestimmten Datum oder einer bestimmten Uhrzeit „wartet“. Diese Verbesserungen stellen sicher, dass Ihre Pflege-E-Mails während der Geschäftszeiten im Posteingang eingehen!
 
 ![](assets/image2014-9-23-10-3a14-3a13.png)
 
-Abbildung 1. Festlegen des Warteschritts zum Beenden am Geschäftstag
+Abbildung 1. Angeben, welcher Warteschritt an einem Geschäftstag beendet werden soll
 
-## Archivierter Assets ausgeblendet {#archived-assets-hidden}
+## Archivierte Assets ausgeblendet {#archived-assets-hidden}
 
-Archivierte Assets werden automatisch aus automatischen Vorschlägen, Dropdown-Menüs und Berichten gefiltert, um die Suche nach dem, was Sie suchen, zu vereinfachen!
+Archivierte Assets werden automatisch aus AutoSuggest, Dropdown-Menüs und Berichten gefiltert, was das Auffinden Ihrer gesuchten Inhalte erleichtert!
 
 ![](assets/image2014-9-23-10-3a14-3a28.png)
 
-Abbildung 2. Beispiel des archivierten E-Mail-Filters
+Abbildung 2. Beispiel für den Filter „Archivierte E-Mails“
 
-## Neue Ereigniseincheckanwendung für iPad {#new-event-check-in-app-for-ipad}
+## Neue App zum Einchecken von Ereignissen für iPad {#new-event-check-in-app-for-ipad}
 
-Vereinfachen Sie Ihren Ereigniseincheckvorgang mit unserer neuen iPad-App! Die Check-in-App für Ereignisse wird mit Ihrem Marketo-Programm synchronisiert und ermöglicht es Ihnen, Registrierungspflichtige einfach in ein Ereignis einzuchecken sowie direkt neue Leads hinzuzufügen.
+Vereinfachen Sie Ihren Check-in-Prozess für Veranstaltungen mit unserer neuen iPad-App! Die Event Check-in-App synchronisiert sich mit Ihrem Marketo-Programm und ermöglicht Ihnen das einfache Einchecken von Teilnehmern in eine Veranstaltung sowie das spontane Hinzufügen neuer Leads.
 
 Erfordert iOS 5.1 oder höher; nur iPad.
 
 ![](assets/image2014-9-23-10-3a14-3a46.png)
 
-Abbildung 3. Startseite für Ereigniseinchecken
+Abbildung 3. Startseite zum Einchecken von Ereignissen
 
 ![](assets/image2014-9-23-10-3a15-3a6.png)
 
-Abbildung 4. Event Check In: Wählen Sie Ihr Event aus!
+Abbildung 4. Event-Check-In: Wählen Sie Ihre Veranstaltung!
 
 ![](assets/image2014-9-23-10-3a15-3a27.png)
 
-Abbildung 5. Einchecken
+Abbildung 5. Check sie in
 
-## Verbesserte Bestätigungs-URL des Webinars {#enhanced-webinar-confirmation-url}
+## URL zur Bestätigung von erweiterten Webinaren {#enhanced-webinar-confirmation-url}
 
-Jetzt erhältlich für ON24 und Adobe Connect! Fügen Sie für jeden registrierten Teilnehmer mithilfe des neuen `{{member.webinar URL}}` -Tokens einen eindeutigen Link in die Bestätigungs-E-Mail ein. Adobe Connect-Verbesserungen umfassen auch die Möglichkeit, die E-Mail mit den Adobe-Kontoinformationen, die die Anmelde-ID und das Kennwort für den Benutzer enthält, zu aktivieren bzw. zu deaktivieren.
+Jetzt für ON24 und Adobe Connect verfügbar! Fügen Sie für jeden registrierten Teilnehmer mithilfe des neuen `{{member.webinar URL}}`-Tokens einen eindeutigen Link in die Bestätigungs-E-Mail ein. Zu den Adobe Connect-Verbesserungen gehört auch die Möglichkeit, die E-Mail mit den Adobe-Kontoinformationen, die die Anmelde-ID und das Passwort für den Benutzer enthalten, ein-/auszuschalten.
 
 ![](assets/image2014-9-23-10-3a15-3a44.png)
 
-Abbildung 6. Personen in Ihr Webinar holen
+Abbildung 6. Personen zu Ihrem Webinar hinzufügen
 
 ## Vorlagenvorschau {#template-preview}
 
-Suchen Sie beim Erstellen Ihrer E-Mail oder Landingpage nach einer bestimmten Vorlage, aber nicht sicher, wie sie aussieht? Mit der neuen Vorlagenvorschaufunktion können Sie die ausgewählte Vorlage vor dem Speichern eines neuen Assets überprüfen!
+Sie suchen beim Erstellen Ihrer E-Mail oder Landingpage nach einer bestimmten Vorlage, sind sich aber nicht sicher, wie sie aussieht? Mit der neuen Vorlagenvorschau-Funktion können Sie die ausgewählte Vorlage überprüfen, bevor Sie ein neues Asset speichern!
 
 ![](assets/image2014-9-23-10-3a16-3a4.png)
 
-Abbildung 7. Vorschau der ausgewählten Vorlage anzeigen
+Abbildung 7. Vorschau der ausgewählten Vorlage
 
-## Konfigurierbare Formularvorfüllung {#configurable-form-prefill}
+## Konfigurierbares Vorbefüllen von Formularen {#configurable-form-prefill}
 
-Steuerung der Vorpopulation von Formulardaten auf Abonnementebene und Überschreiben auf Landingpage-Ebene. Ohne Vorbelegung können Sie sicherstellen, dass der Lead die aktuellsten Informationen bereitstellt.
+Steuern Sie das Vorausfüllen von Formulardaten auf Abonnementebene und das Überschreiben auf der Landingpage-Ebene. Ohne Vorausfüllen können Sie sicherstellen, dass der Lead die aktuellsten Informationen bereitstellt.
 
 ![](assets/image2014-9-23-10-3a16-3a22.png)
 
-Abbildung 8. Vorfüllungskonfiguration für Formulare in Admin
+Abbildung 8. Konfiguration zum Vorbefüllen von Formularen in Admin
 
 ![](assets/image2014-9-23-10-3a16-3a34.png)
 
-Abbildung 9. Vorausgefüllte Formulareinstellung auf einer Landingpage bearbeiten
+Abbildung 9. Bearbeiten der Einstellung zum Vorbefüllen von Formularen auf einer Landingpage
 
-## Marketo Schatztruhe {#marketo-treasure-chest}
+## Marketo Treasure Chest {#marketo-treasure-chest}
 
-Erhalten Sie Zugriff auf experimentelle Funktionen, die von Marketo-Technikern entwickelt wurden, um Ihr Benutzererlebnis zu verbessern. Diese Version beinhaltet E-Mail-Rückgängig sowie die Möglichkeit, Kommentare einzugeben und mit anderen Benutzern auf Ihren Landingpages zusammenzuarbeiten.
+Zugriff auf experimentelle Funktionen, die von Marketo-Technikern entwickelt wurden, um das Anwendererlebnis zu verbessern. Diese Version umfasst das Rückgängigmachen von E-Mails sowie die Möglichkeit, Kommentare einzugeben und mit anderen Benutzern auf Ihren Landingpages zusammenzuarbeiten.
 
 ![](assets/image2014-9-23-10-3a16-3a51.png)\
 
-Abbildung 10. Manager Treasure-Brustfunktionen in Admin
+Abbildung 10. Manager Treasure Chest-Funktionen in Admin
 
 ## Microsoft Dynamics® CRM-Integration {#microsoft-dynamics-crm-integration}
 
@@ -99,42 +99,42 @@ Abbildung 11. Microsoft Dynamics-Konfiguration
 
 ## Verbesserungen bei Marketo Sales Insight {#marketo-sales-insight-enhancements}
 
-**Fußzeilenoptionen abmelden**
+**Optionen für Fußzeile abmelden**
 
 Konfigurieren Sie, wann und ob die Abmelde-Fußzeile für E-Mails angezeigt wird, die über Sales Insight gesendet werden.
 
 ![](assets/image2014-9-23-10-3a17-3a20.png)
 
-Abbildung 12. Sales Insight-Einstellungen in Admin
+Abbildung 12. Einstellungen für Sales Insights in Admin
 
-## Ordner für E-Mail-Vorlagen für Vertrieb {#folders-for-sales-email-templates}
+## Ordner für Verkaufs-E-Mail-Vorlagen {#folders-for-sales-email-templates}
 
-Sie können jetzt die mit Marketo Sales Insight geteilten E-Mail-Vorlagen in bestimmten Ordnern organisieren, sodass Ihre Vertriebsmitarbeiter die richtige E-Mail finden können.
+Sie können jetzt die mit Marketo Sales Insight freigegebenen E-Mail-Vorlagen in bestimmten Ordnern organisieren, um Ihren Vertriebsmitarbeitern die Suche nach der richtigen E-Mail zu erleichtern.
 
 ![](assets/image2014-9-23-10-3a17-3a35.png)
 
 Abbildung 13. Ordner für E-Mails auswählen
 
-## Zugriff auf Opportunity Analyzer aus Sales Insight {#access-opportunity-analyzer-from-sales-insight}
+## Zugriff auf Opportunity Analyzer über Sales Insight {#access-opportunity-analyzer-from-sales-insight}
 
-Stellen Sie Ihren Vertriebsmitarbeitern mithilfe des direkten Zugriffs auf Opportunity Analyzer aus Marketo Sales Insight Einblicke in die Marketingaktivitäten bereit, die die Interaktion fördern. Hinweis: Erfordert eine Analytics-Lizenz für den Umsatzzyklus.
+Bieten Sie Ihren Vertriebsmitarbeitern einen Einblick in die Marketing-Aktivitäten, die die Interaktion fördern, indem Sie direkt auf den Opportunity Analyzer von Marketo Sales Insight zugreifen. Hinweis. Erfordert die Lizenz für Revenue Cycle Analytics.
 
-## Benutzerdefiniertes Feld für den Kontaktstatus {#custom-field-for-contact-status}
+## Benutzerdefiniertes Feld für Kontaktstatus {#custom-field-for-contact-status}
 
-Sie können jetzt ein benutzerdefiniertes Feld in Salesforce zuordnen, um das Feld Status für Kontakte in den &quot;Meine besten Bets&quot;, &quot;Besten Beten meines Teams&quot;und benutzerdefinierten Ansichten auszufüllen.
+Sie können jetzt in Salesforce ein benutzerdefiniertes Feld zuordnen, um das Statusfeld für Kontakte in den Meine besten Bets, Die besten Bets meines Teams und die benutzerdefinierten Ansichten auszufüllen.
 
 ![](assets/image2014-9-23-10-3a17-3a47.png)
 
-Abbildung 14. Benutzerdefiniertes Feld Kontakten zuordnen
+Abbildung 14. Zuordnen eines benutzerdefinierten Felds zu Kontakten
 
-Siehe Von anonymen Leads besuchte Seiten
+Siehe von anonymen Leads besuchte Seiten
 
-Führen Sie über die Ansicht &quot;Anonyme Web-Aktivität&quot;einen Drilldown zu den von einem anonymen Lead angezeigten Seiten durch.
+Führen Sie einen Drilldown zu den Seiten durch, die von einem anonymen Lead in der Ansicht Anonyme Web-Aktivität angezeigt wurden.
 
 ![](assets/image2014-9-23-10-3a17-3a59.png)
 
-Abbildung 15. Siehe Anonyme Web-Aktivität .
+Abbildung 15. Siehe Anonyme Web-Aktivität
 
-## Verbessertes Lead- und Kontaktabonnement {#enhanced-lead-and-contact-subscribe}
+## Verbesserter Lead und Kontakt Abonnieren {#enhanced-lead-and-contact-subscribe}
 
-Verwenden Sie die neue Schaltfläche Abonnieren auf der Seite mit den Datensatzdetails , um einen Lead zu folgen oder sich jederzeit an Sie zu wenden.
+Folgen Sie einem Lead oder Kontakt jederzeit über die neue Schaltfläche Abonnieren auf der Seite Datensatzdetails .

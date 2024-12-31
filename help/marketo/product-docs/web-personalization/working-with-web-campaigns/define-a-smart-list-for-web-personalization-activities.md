@@ -1,7 +1,7 @@
 ---
 unique-page-id: 10097867
-description: Definieren einer Smart-Liste für Web-Personalization-Aktivitäten - Marketo-Dokumente - Produktdokumentation
-title: Definieren einer Smart-Liste für Web-Personalization-Aktivitäten
+description: Definieren einer Smart List für Web-Personalization-Aktivitäten - Marketo-Dokumente - Produktdokumentation
+title: Definieren einer Smart List für Web Personalization-Aktivitäten
 exl-id: 9987f922-f50c-47b3-aef6-230326b094fc
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,11 +11,11 @@ ht-degree: 0%
 
 ---
 
-# Definieren einer Smart-Liste für Web-Personalization-Aktivitäten {#define-a-smart-list-for-web-personalization-activities}
+# Definieren einer Smart List für Web Personalization-Aktivitäten {#define-a-smart-list-for-web-personalization-activities}
 
-Sie können Web-Personalization-Aktivitäten in Filtern und Triggern verwenden, wenn Sie eine Smart-Liste in einer Smart-Kampagne definieren. Hier möchten Sie jeden erfassen, der auf einen Web-Personalization-Aktionsaufruf (Kampagne) geklickt hat.
+Sie können Web Personalization-Aktivitäten in Filtern und Triggern verwenden, wenn Sie eine Smart-Liste in einer Smart-Kampagne definieren. Hier möchten Sie alle erfassen, die auf einen Web Personalization-Aktionsaufruf (Campaign) geklickt haben.
 
-Verwenden Sie einen Trigger, um eine E-Mail oder einen Warnhinweis zu senden, oder ändern Sie einen Wert oder eine Punktzahl entsprechend den Besuchern, die auf einen Web Personalization-Aktionsaufruf geklickt und damit interagiert haben. Sie können auch jene Leads filtern und anzeigen, die auf einen Web Personalization-Aktionsaufruf geklickt haben.
+Verwenden Sie einen Trigger, um eine E-Mail oder einen Warnhinweis zu senden oder einen Wert oder eine Punktzahl basierend auf den Besucherinnen und Besuchern zu ändern, die auf einen Web Personalization-Aktionsaufruf geklickt und sich mit diesem befasst haben. Sie können auch die Leads filtern und anzeigen, die auf einen Aktionsaufruf von Web Personalization geklickt haben.
 
 1. Klicken Sie in Ihrer Smart-Kampagne auf die Registerkarte **Smart-Liste** .
 
@@ -23,7 +23,7 @@ Verwenden Sie einen Trigger, um eine E-Mail oder einen Warnhinweis zu senden, od
 
    >[!NOTE]
    >
-   >Intelligente Listen können erstaunliche Dinge tun. Weitere Informationen finden Sie im [tiefen Einblick in die Smart-Liste](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
+   >Intelligente Listen können erstaunliche Dinge tun. Weitere Informationen finden Sie unter [Smart List Deep Dive](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
 
 1. Suchen Sie nach dem Trigger und ziehen Sie den Trigger per Drag-and-Drop auf die Arbeitsfläche.
 
@@ -31,36 +31,36 @@ Verwenden Sie einen Trigger, um eine E-Mail oder einen Warnhinweis zu senden, od
 
    >[!NOTE]
    >
-   >Eine Smart-Kampagne mit Triggern wird im Trigger-Modus ausgeführt. Er wird basierend auf den ausgelösten Ereignissen und den hinzugefügten Filtern für jeweils eine Person ausgeführt.
+   >Eine Smart-Kampagne mit Triggern wird im Trigger-Modus ausgeführt. Sie wird immer nur für eine Person ausgeführt, basierend auf den ausgelösten Ereignissen und den hinzugefügten Filtern.
 
-1. Klicken Sie auf die Dropdown-Liste und wählen Sie einen Operator aus.
+1. Klicken Sie auf das Dropdown-Menü und wählen Sie einen Operator aus.
 
    ![](assets/image2016-6-7-11-3a10-3a8.png)
 
    >[!CAUTION]
    >
-   >Rote eckige Linien weisen auf einen Fehler hin. Wenn die Kampagne nicht korrigiert wird, wird sie ungültig und nicht ausgeführt.
+   >Rote schielende Linien zeigen einen Fehler an. Wenn er nicht korrigiert wird, wird die Kampagne ungültig und sie wird nicht ausgeführt.
 
 1. Definieren Sie den Trigger.
 
    ![](assets/image2016-6-7-11-3a12-3a23.png)
 
-1. Fügen Sie nach Bedarf Filter hinzu.
+1. Fügen Sie Filter nach Bedarf hinzu.
 
    ![](assets/image2016-6-7-11-3a14-3a20.png)
 
    >[!TIP]
    >
-   >In einer intelligenten Kampagne mit Triggern und Filtern stehen die Trigger ganz oben. Wenn sie ausgelöst wird, durchlaufen nur Personen, die die Filterkriterien erfüllen, den Fluss.
+   >In einer intelligenten Kampagne mit sowohl Triggern als auch Filtern gehen die Trigger an die Spitze. Wenn sie ausgelöst wird, durchlaufen nur Personen den Fluss, die die Filterkriterien erfüllen.
 
    >[!NOTE]
    >
-   >Bei mehreren Triggern durchläuft eine Person den Fluss, wenn einer der Trigger aktiviert wird.
+   >Bei mehreren Triggern wechselt eine Person in den Fluss, wenn einer der Trigger aktiviert wird.
 
-   Um die Kampagne für mehrere Personen gleichzeitig auszuführen, erfahren Sie, wie Sie [Smart-Liste für Smart-Campaign definieren | Batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
+   Wenn Sie die Kampagne für mehrere Personen gleichzeitig ausführen möchten, erfahren Sie hier, wie Sie [ Smart-Liste für Smart-Kampagnen definieren | Batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
 
    >[!MORELIKETHIS]
    >
-   >* [Definieren einer Smart-Liste für Smart-Campaign | Batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
+   >* [Definieren der Smart-Liste für intelligente Kampagnen | Batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
    >* [Hinzufügen eines Flussschritts zu einer Smart-Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
-   >* [Definieren einer intelligenten Liste für Aktivitäten mit vorausschauenden Inhalten](/help/marketo/product-docs/predictive-content/define-a-smart-list-for-predictive-content-activities.md)
+   >* [Definieren einer Smart-Liste für Aktivitäten mit prädiktiven Inhalten](/help/marketo/product-docs/predictive-content/define-a-smart-list-for-predictive-content-activities.md)

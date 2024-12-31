@@ -13,16 +13,16 @@ ht-degree: 3%
 
 # Attributionsbeispiel 3 {#attribution-example}
 
-Lesen Sie das folgende Szenario und versuchen Sie, die Zahlen zu ermitteln, die im Raster angezeigt werden sollen.
+Lesen Sie das folgende Szenario und versuchen Sie, die Zahlen zu bestimmen, die im Raster enthalten sein sollen.
 
-* 11. April | Steve-Downloads (Inhalt) - Erfolg
-* 22. April | Die Möglichkeit wird für 3.000 USD geschaffen (sowohl Steve als auch Jason haben Rollen)
-* 25. April | Jason attends (Webinar) - success
-* 30. April | Chancen sind geschlossen
+* 11. April | Steve Downloads (Inhalt) - Erfolg
+* 22. April | Opportunity wird für 3.000 $ erstellt (sowohl Steve als auch Jason haben Rollen)
+* 25. April | Jason nimmt teil (Webinar) - Erfolg
+* 30. April | Opportunity ist abgeschlossen gewonnen
 
 | Attributionsmetrik | (Inhalt) | (Webinar) |
 |---|---|---|
-| (MT) Opty Created | `<pre>1</pre>` | `<pre>0</pre>` |
+| (MT) leer erstellt | `<pre>1</pre>` | `<pre>0</pre>` |
 | (MT) Erstellte Pipeline | `<pre>$3,000</pre>` | `<pre>$0</pre>` |
 | (MT) Opty Won | `<pre>0.5</pre>` | `<pre>0.5</pre>` |
 | (MT) Gewonnener Ertrag | `<pre>$1,500</pre>` | `<pre>$1,500</pre>` |
@@ -31,21 +31,21 @@ Lesen Sie das folgende Szenario und versuchen Sie, die Zahlen zu ermitteln, die 
 
 >[!NOTE]
 >
->**Erklärung**
+>**Erläuterung**
 >
->Merken Sie sich die Zuordnungsregel Nr. 3. Jason hatte Programmerfolg NACH der Erstellung der Option. Daher kann das Webinar nicht für die Schaffung der Chance angesetzt werden. Nur für die &quot;Opty&quot;wird der Gewinn gutgeschrieben.
+>#3 der Attributionsregel speichern. Jason hatte Programmerfolg, NACHDEM das Opty erstellt wurde. Daher wird dem Webinar die Entstehung der Opportunity nicht angerechnet. Nur die Anerkennung für den Opty gewonnen.
 >
->Daher wird (Inhalt) 100 % der Gutschrift für die Erstellung und Pipeline von Opty zugeschrieben, aber nur 50 % der Gutschrift für die erzielte Opty.
+>Daher erhält (Content) 100 % der Credits für die Opty-Erstellung und Pipeline, aber nur 50 % der Credits für den gewonnenen Opty.
 
 >[!NOTE]
 >
 >**Attributionsregeln**
 >
->1. Die Gewichtung wird gleichmäßig aufgeteilt
->1. Du kannst nicht mehr Guthaben als du verdient hast
->1. Man kann etwas, das in der Vergangenheit passiert ist, nicht zuschreiben
+>1. Die Kredite werden gleichmäßig aufgeteilt
+>1. Man kann nicht mehr zuschreiben, als man verdient
+>1. Man kann nicht für etwas verantwortlich machen, das in der Vergangenheit passiert ist
 
-Probieren Sie alle Beispiele aus und Sie werden ein Attributionsprofi sein!
+Probieren Sie alle Beispiele aus und Sie werden ein Attribution-Profi!
 
 >[!MORELIKETHIS]
 >

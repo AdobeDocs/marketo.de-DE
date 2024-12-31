@@ -1,7 +1,7 @@
 ---
 unique-page-id: 11378812
-description: Discover Accounts - Marketo Docs - Produktdokumentation
-title: Discover-Konten
+description: Erkunden von Konten - Marketo-Dokumente - Produktdokumentation
+title: Erkunden von Konten
 exl-id: 90da4ae0-0a12-48bd-8bae-a7431d2cf4f4
 feature: Target Account Management
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,91 +11,91 @@ ht-degree: 1%
 
 ---
 
-# Discover-Konten {#discover-accounts}
+# Erkunden von Konten {#discover-accounts}
 
-Verwenden Sie die Discover -Option, um potenzielle Zielkonten zu identifizieren.
+Verwenden Sie die Option „Entdecken“, um potenzielle Zielkonten zu identifizieren.
 
 ## CRM-Kontos entdecken {#discover-crm-accounts}
 
-Identifizieren Sie potenzielle Zielkonten aus Ihrem CRM-System.
+Identifizieren Sie potenzielle Zielkonten in Ihrem CRM.
 
 >[!NOTE]
 >
->Nachdem Sie Ihr CRM-System mit Marketo TAM verbunden haben, zeigt **Discover CRM-Konten** alle CRM-Konten und relevanten Informationen an, anhand derer Sie die richtigen benannten Konten auswählen können. Marketo fügt zusätzlich zu den vom CRM-System empfangenen Informationen weitere Informationen hinzu.
+>Nachdem Sie Ihr CRM mit dem Marketo-TAM verbunden haben, zeigt **Entdecken von CRM** Konten) alle CRM-Konten und relevante Informationen an, um Ihnen bei der Auswahl der richtigen benannten Konten zu helfen. Marketo fügt zusätzlich zu den vom CRM erhaltenen Informationen weitere Informationen hinzu.
 
-**Personen** (in Discover CRM-Konten und Discover Marketo-Unternehmen): Umfasst sowohl Kontakte als auch Leads. Leads können mit dem Marketo-Abgleich [Lead-zu-Konto](/help/marketo/product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md) gefunden werden.
+**Personen** (in „CRM-Konten entdecken“ und &quot;Marketo-Unternehmen entdecken„): Umfasst sowohl Kontakte als auch Leads. Leads können mit der Marketo-Funktion [Lead-Konto-Zuordnung](/help/marketo/product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md) erkannt werden.
 
-**Potenzielle Personen** (In Discover CRM-Konten und Discover Marketo-Unternehmen): Zeigt an, wie viele Leads Marketo gefunden hat, die möglicherweise zu einem CRM-Konto gehören könnten.
+**Potenzielle Personen** (in CRM-Konten entdecken und Marketo-Unternehmen entdecken): Zeigt, wie viele Leads Marketo gefunden hat, die möglicherweise zu einem CRM-Konto gehören könnten.
 
-**Benutzerdefiniertes CRM-Feld** (Nur in Discover CRM-Konten): Dies hilft Ihnen, Ihre Verkaufs- und Marketingorganisation auf die Auswahl der richtigen Zielkonten auszurichten. Nachdem Sie [das benutzerdefinierte CRM-Feld](/help/marketo/product-docs/target-account-management/setup-tam/create-a-custom-field-for-crm-discovery.md) mit dem Marketo-TAM zugeordnet haben, zeigen wir Ihnen die zugeordneten Daten an, um Sie bei der Identifizierung Ihrer Zielkonten zu unterstützen.
+**Benutzerdefiniertes CRM-Feld** (nur in „CRM-Konten erkennen„): Auf diese Weise können Sie Ihre Vertriebs- und Marketing-Organisation für die Auswahl der richtigen Zielkonten abstimmen. Nachdem Sie [das benutzerdefinierte CRM-Feld ](/help/marketo/product-docs/target-account-management/setup-tam/create-a-custom-field-for-crm-discovery.md) Marketo TAM zugeordnet haben, zeigen wir Ihnen die zugeordneten Daten, damit Sie Ihre Zielkonten identifizieren können.
 
-1. Klicken Sie in &quot;Spezifische Konten&quot;auf das Dropdown-Menü **Neu** und wählen Sie **CRM-Konten entdecken** aus.
+1. Klicken Sie unter Benannte Konten auf die **Neu** und wählen Sie **CRM-Konten suchen**.
 
    ![](assets/disc-crm-one.png)
 
-1. Daraufhin wird ein neues Fenster/eine neue Registerkarte geöffnet. Wählen Sie die CRM-Konten aus, die Sie Ihren spezifischen Konten hinzufügen möchten, und klicken Sie auf **Weiter**.
+1. Ein neues Fenster/eine neue Registerkarte wird geöffnet. Wählen Sie die CRM-Konten aus, die Sie Ihren spezifischen Konten hinzufügen möchten, und klicken Sie auf **Weiter**.
 
    ![](assets/disc-crm-two.png)
 
-1. Der Vorschaubildschirm bestätigt die Anzahl der ausgewählten Optionen. Klicken Sie auf **Erstellen**.
+1. Der Bildschirm Vorschau bestätigt die Anzahl der ausgewählten Elemente. Klicken Sie auf **Erstellen**.
 
    ![](assets/disc-three.png)
 
-   Das ist alles!
+   Das ist alles, was dazu gehört!
 
    ![](assets/disc-four.png)
 
 ## Marketo-Unternehmen entdecken {#discover-marketo-companies}
 
-Identifizieren Sie die richtigen Unternehmen für die Zielgruppenbestimmung.
+Identifizieren Sie die richtigen Unternehmen für das Targeting.
 
 >[!NOTE]
 >
->In Discover Marketo-Unternehmen sehen Sie Marketo-Unternehmen, die nicht aus Ihrem CRM-System stammen.
+>In Entdecken Sie Marketo-Unternehmen werden Sie Marketo-Unternehmen sehen, die nicht aus Ihrem CRM stammen.
 
-1. Klicken Sie in &quot;Spezifische Konten&quot;auf das Dropdown-Menü **Neu** und wählen Sie **Marketo-Unternehmen kennenlernen**.
+1. Klicken Sie unter Benannte Konten auf die **Neu** und wählen Sie **Marketo-Unternehmen entdecken** aus.
 
    ![](assets/one-1.png)
 
-1. Daraufhin wird ein neues Fenster/eine neue Registerkarte geöffnet. Wählen Sie die Unternehmen aus, die Sie Ihren spezifischen Konten hinzufügen möchten, und klicken Sie auf **Weiter**.
+1. Ein neues Fenster/eine neue Registerkarte wird geöffnet. Wählen Sie die Firmen aus, die Sie Ihren Named Accounts hinzufügen möchten, und klicken Sie auf **Weiter**.
 
    ![](assets/disc-comp-two.png)
 
    >[!NOTE]
    >
-   >In Discover Marketo-Unternehmen und Discover-CRM wird Marketo automatisch:
+   >In &quot;Marketo-Unternehmen entdecken“ und „CRM entdecken“ führt Marketo automatisch folgende Schritte durch:
    >
-   >* Findet Personen aus Ihrer Marketo-Datenbank, bei denen dieses Unternehmen in seinem Datensatz aufgeführt ist. Wenn mehrere Werte für einige der Attribute (z. B. &quot;Branche&quot;) angezeigt werden, liegt dies daran, dass Marketo für diese Personen unterschiedliche Werte gefunden hat. Das Attribut mit den meisten Treffern gewinnt
+   >* Sucht Personen in Ihrer Marketo-Datenbank, die diese Firma in ihrem Datensatz aufgelistet haben. Wenn für einige der Attribute (z. B. „Branche„) mehrere Werte angezeigt werden, liegt dies daran, dass Marketo verschiedene Werte für diese einzelnen Personen gefunden hat. Das Attribut mit den meisten Treffern gewinnt
    >
-   >Nur in **Discover CRM**: Marketo:
+   >Nur in **CRM entdecken** wird Marketo automatisch:
    >
    >* Synchronisiert und verknüpft CRM-Kontakte mit dem benannten Konto
    >
-   >Nur in **Discover Marketo-Unternehmen**: Marketo:
+   >Nur **Marketo-Unternehmen entdecken** Marketo automatisch:
    >
-   >* Filtert die meisten Internet Service Provider und Public Domains (z. B. yahoo.com, gmail.com) als Unternehmensnamen heraus
+   >* Filtert die meisten Internet-Dienstleister und öffentlichen Domains (z. B. yahoo.com, gmail.com) als Firmennamen heraus
    >
-   >* Dedupliziert CRM-Konten. Wenn Sie &quot;Acme&quot;in einem Datensatz und &quot;Acme Inc&quot; (oder eines der folgenden Suffixe: Co, Corp, Corporation, GmbH, Inc, Incorporated, LLC, LLP, LP, Ltd, PA, PC, PLC, PLLC) haben, werden wir sie in TAM als &quot;Acme&quot;zusammenführen.
+   >* Dedupliziert CRM-Konten. Wenn Sie „Acme“ in einem Datensatz und „Acme Inc“ (oder eines der folgenden Suffixe: Co, Corp, Corporation, GmbH, Inc, Incorporated, LLC, LLP, LP, Ltd, PA, PC, PLC, PLC) haben, werden wir diese in TAM als „Acme“ zusammenführen
    >
-   >Wenn Sie möchten, dass Marketo Konten nach CRM-ID oder Kontoinhaber anstatt nach Unternehmensname dedupliziert, wenden Sie sich an den [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support).
+   >Wenn Marketo Konten nach CRM-ID oder Kontoinhaber anstatt nach Firmenname deduplizieren soll, wenden Sie sich an den [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support).
 
-1. Klicken Sie unter der Spalte &quot;Spezifisches Konto&quot;auf den Abwärtspfeil, um die Dropdown-Liste anzuzeigen.
+1. Klicken Sie unter der Spalte Benanntes Konto auf den Abwärtspfeil, um die Dropdown-Liste anzuzeigen.
 
    ![](assets/disc-comp-three.png)
 
    >[!CAUTION]
    >
-   >Künftig werden alle neuen Personen aus diesen ausgewählten Unternehmen automatisch ihren jeweiligen benannten Konten zugewiesen. Überprüfen Sie diese Unternehmen und stellen Sie sicher, dass sie dem richtigen benannten Konto zugewiesen sind.
+   >Künftig werden alle neuen Personen aus diesen ausgewählten Unternehmen automatisch ihren jeweiligen benannten Konten zugewiesen. Bitte überprüfen Sie diese Unternehmen und stellen Sie sicher, dass sie dem richtigen benannten Konto zugewiesen sind.
 
-1. Um ein vorhandenes Konto auszuwählen, klicken Sie auf die Dropdownliste **Benanntes Konto**, wählen Sie das gewünschte Konto aus und klicken Sie dann auf **Weiter**.
+1. Um ein vorhandenes Konto auszuwählen, klicken Sie auf die **Benanntes Konto**, wählen Sie das gewünschte Konto aus und klicken Sie dann auf **Weiter**.
 
    ![](assets/disc-comp-four.png)
 
-   Sie können auch ein neues benanntes Konto erstellen, indem Sie den gewünschten Namen direkt in das Dropdown-Feld eingeben. Klicken Sie nach Abschluss des Vorgangs aus dem Feld..
+   Sie haben auch die Möglichkeit, ein neues benanntes Konto zu erstellen, indem Sie den gewünschten Namen direkt in das Dropdown-Feld eingeben. Wenn Sie fertig sind, klicken Sie auf eine Stelle außerhalb des Felds…
 
    ![](assets/disc-comp-five.png)
 
-   ... und Sie sehen Ihr neues benanntes Konto. Klicken Sie an diesem Punkt einfach auf **Weiter** wie in Schritt 4.
+   …und Sie sehen Ihr neues benanntes Konto. Klicken Sie dann einfach auf **Weiter** wie in Schritt 4.
 
    ![](assets/disc-comp-six.png)
 
@@ -109,11 +109,11 @@ Identifizieren Sie die richtigen Unternehmen für die Zielgruppenbestimmung.
 
 >[!NOTE]
 >
->Wenn zwischen den von Ihnen ausgewählten CRM-Konten und den Elementen im Discover CRM-Raster Abweichungen auftreten, liegt dies wahrscheinlich an einer oder mehreren der folgenden Ursachen:
+>Wenn zwischen den von Ihnen ausgewählten CRM-Konten und den Elementen im Discover CRM-Raster eine Diskrepanz auftritt, liegt dies wahrscheinlich an einem oder mehreren der folgenden Gründe:
 >
->* Verschiedene CRM-Konten mit ähnlichen Namen, die dedupliziert wurden
->* Die nächste geplante Synchronisation ist noch nicht erfolgt.
+>* Unterschiedliche CRM-Konten mit ähnlichen Namen, die dedupliziert wurden
+>* Die nächste geplante Synchronisierung ist noch nicht erfolgt
 
 >[!MORELIKETHIS]
 >
->[ Lead to Account Match](/help/marketo/product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md)
+>[Lead-Konto-Zuordnung](/help/marketo/product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md)

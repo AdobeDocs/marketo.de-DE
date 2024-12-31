@@ -1,19 +1,19 @@
 ---
 unique-page-id: 37355609
-description: Neue Kontoerkennung - Marketo-Dokumente - Produktdokumentation
-title: Neue Kontoerkennung
+description: Ermittlung neuer Konten - Marketo-Dokumente - Produktdokumentation
+title: Erkennung eines neuen Kontos
 exl-id: 0d07cd0d-abf6-4daf-b818-21b91919bd9d
 feature: Target Account Management
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '281'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Neue Kontoerkennung {#new-account-discovery}
+# Erkennung eines neuen Kontos {#new-account-discovery}
 
-Mit der neuen Kontoerkennung können Sie mithilfe von KI-gestützten Empfehlungen aus Ihrem idealen Kundenprofil neue Zielkonten finden.
+Die Erkennung neuer Konten kann Ihnen dabei helfen, neue Konten zu finden, die angesprochen werden sollen, indem Sie KI-gestützte Empfehlungen aus Ihrem idealen Kundenprofil verwenden.
 
 >[!PREREQUISITES]
 >
@@ -21,35 +21,35 @@ Mit der neuen Kontoerkennung können Sie mithilfe von KI-gestützten Empfehlunge
 
 >[!TIP]
 >
->Es wird empfohlen, die Schaltfläche **Vorhandene Konten aktualisieren** zu betätigen, bevor Sie eine neue Kontosuche durchführen, um sicherzustellen, dass Sie sich die neuesten Daten ansehen. Diese Aktualisierung kann bis zu 24 Stunden dauern.
+>Es wird empfohlen, auf die Schaltfläche **Vorhandene Konten aktualisieren** zu klicken, bevor Sie eine neue Kontosuche durchführen, um sicherzustellen, dass Sie die neuesten Daten anzeigen. Dieses Update kann bis zu 24 Stunden dauern.
 
-1. Klicken Sie in My Marketo auf **Target Account Management**.
+1. Klicken Sie in My Marketo **Target Account Management**.
 
    ![](assets/new-account-discovery-1.png)
 
-1. Klicken Sie auf die Registerkarte **Kontoprofil erstellen** .
+1. Klicken Sie auf **Registerkarte** Kontoprofilerstellung“.
 
    ![](assets/two-2.png)
 
-1. Klicken Sie auf die Registerkarte **Neue Konten**.
+1. Klicken Sie auf die **Neue Konten**.
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >Neue Konten zeigen eine Liste der Konten an, die noch nicht in TAM vorhanden sind. Dies sind Konten, die basierend auf von Ihnen ausgewählten Filtern für Sie möglicherweise neu sein können.
+   >„Neue Konten“ zeigt eine Liste von Konten an, die noch nicht zu Ihren Konten in TAM gehören. Hierbei handelt es sich um Konten, die basierend auf von Ihnen ausgewählten Filtern neu für Sie sein können.
 
-1. Wählen Sie alle zutreffenden Filter aus (dieser Teil ist stark anpassbar, im Folgenden finden Sie nur ein Beispiel für die Veranschaulichung der Filterung).
+1. Wählen Sie alle anwendbaren Filter aus (dieser Teil kann umfassend angepasst werden, im Folgenden finden Sie nur ein Beispiel, um das Filtern zu demonstrieren).
 
    ![](assets/four-1.png)
 
-1. Klicken Sie unten rechts auf der Seite auf **Alle speichern und Liste erstellen** .
+1. Klicken **unten rechts auf** Seite auf „Alle speichern und Liste erstellen“.
 
    ![](assets/five-1.png)
 
    >[!NOTE]
    >
-   >Wenn Sie nur einige der gewünschten Konten sehen, können Sie nach Abschluss auf einzelne Konten klicken und auf **Ausgewählte Konten speichern** klicken.
+   >Wenn Sie nur einige Konten sehen, die Sie möchten, haben Sie die Möglichkeit, einzelne Konten anzuklicken und **Ausgewählte Konten speichern** zu klicken.
 
 1. Sie können Ihre Liste zu einer eigenen neuen Kontoliste machen oder sie zu einer vorhandenen hinzufügen. In diesem Beispiel erstellen wir ein neues.
 
@@ -57,7 +57,7 @@ Mit der neuen Kontoerkennung können Sie mithilfe von KI-gestützten Empfehlunge
 
    >[!NOTE]
    >
-   >Um es in einer vorhandenen Kontoliste zu speichern, wählen Sie diese Option aus, klicken Sie auf das Dropdown-Menü, wählen Sie die gewünschte Kontoliste aus und klicken Sie auf **Weiter**.
+   >Um sie in einer bestehenden Kontoliste zu speichern, wählen Sie diese Option aus, klicken Sie auf die Dropdown-Liste, wählen Sie die gewünschte Kontoliste aus und klicken Sie auf **Weiter**.
 
 1. Klicken Sie auf **Speichern**.
 
@@ -65,7 +65,7 @@ Mit der neuen Kontoerkennung können Sie mithilfe von KI-gestützten Empfehlunge
 
    >[!NOTE]
    >
-   >Sie können bis zu 5.000 Konten gleichzeitig speichern. Wenn Ihre Suche 10.000 Ergebnisse liefert, müssen Sie die ersten 5.000 (Top) speichern, dann die Filter zurücksetzen und die nächsten 5.000 speichern. Die Kontobegrenzung für **total** beträgt eine Million.
+   >Sie können nur bis zu 5.000 Konten gleichzeitig speichern. Wenn Ihre Suche 10.000 Ergebnisse liefert, müssen Sie die ersten (obersten) 5.000 speichern, dann die Filter zurücksetzen und die nächsten 5.000 speichern. Das **Gesamtkonto** Limit beträgt eine Million.
 
 1. Klicken Sie auf **OK**.
 
@@ -73,4 +73,4 @@ Mit der neuen Kontoerkennung können Sie mithilfe von KI-gestützten Empfehlunge
 
    >[!TIP]
    >
-   >Nachdem Sie Ihre Konten gespeichert haben, können Sie eine mit [ übereinstimmende Zielgruppe auf LinkedIn](/help/marketo/product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md) verwenden, um sie als Ziel festzulegen.
+   >Nachdem Ihre Konten gespeichert wurden, können Sie eine [übereinstimmende Zielgruppe in LinkedIn&quot; verwenden](/help/marketo/product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md) um sie anzusprechen.

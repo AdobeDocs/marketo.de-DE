@@ -13,30 +13,30 @@ ht-degree: 0%
 
 # TAM-Haupt-Dashboard {#tam-main-dashboard}
 
-Das Haupt-Dashboard bietet eine Zusammenfassung Ihrer Target-Kontoverwaltungsbemühungen. Sie können die Zielkonten oder Kontolisten sehen, die erfolgreich sind, und diejenigen, die mehr Aufmerksamkeit benötigen.
+Das Haupt-Dashboard bietet eine Zusammenfassung Ihrer Target-Kontoverwaltungsmaßnahmen. Sie können die Zielkonten oder Account-Listen sehen, die Erfolg zeigen, sowie die Konten, die mehr Aufmerksamkeit benötigen.
 
 ![](assets/one.png)
 
-Um nach Kontoliste zu filtern, klicken Sie auf das Dropdown-Menü Ansicht ...
+Um nach Kontoliste zu filtern, klicken Sie auf die Dropdown-Liste Ansicht…
 
 ![](assets/two.png)
 
-...und wählen Sie aus. In diesem Beispiel wählen wir unsere &quot;High-Tech&quot;-Kontoliste.
+…und eine Auswahl treffen. In diesem Beispiel wählen wir unsere „High Tech“-Kontoliste aus.
 
 ![](assets/three.png)
 
-Um das Dashboard der [Kontoliste](/help/marketo/product-docs/target-account-management/measure/account-list-insights.md#account-list-dashboard) anzuzeigen, klicken Sie auf den Namen der von Ihnen ausgewählten Kontoliste..
+Um das Dashboard [Kontenliste](/help/marketo/product-docs/target-account-management/measure/account-list-insights.md#account-list-dashboard) anzuzeigen, klicken Sie auf den Namen der ausgewählten Kontenliste…
 
 ![](assets/four.png)
 
-... und das Dashboard wird geladen.
+…und das Dashboard wird geladen.
 
 ![](assets/five.png)
 
-Wenn Sie das Dashboard &quot;Kontoliste&quot;nicht anzeigen, sondern einen Drilldown in ein benanntes Konto durchführen möchten, klicken Sie unter dessen Namen auf **Mehr Details** ...
+Wenn Sie nicht das Dashboard der Kontenliste anzeigen möchten, sondern ein benanntes Konto aufschlüsseln möchten, klicken Sie auf **Weitere Details** unter seinem Namen…
 
 ![](assets/six.png)
 
-... und sehen Sie sich die Einblicke des [benannten Kontos](/help/marketo/product-docs/target-account-management/measure/named-account-insights.md) an.
+…und die Einblicke des [benannten Kontos anzeigen](/help/marketo/product-docs/target-account-management/measure/named-account-insights.md).
 
 ![](assets/seven.png)

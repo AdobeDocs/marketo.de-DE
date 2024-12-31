@@ -13,15 +13,15 @@ ht-degree: 14%
 
 # Versionsplanung {#release-schedule}
 
-**Version**: Der Monat/das Jahr jeder Version. Sobald die Versionshinweise verfügbar sind, werden sie in der folgenden Tabelle verlinkt.
+**Release**: Der Monat/das Jahr jeder Veröffentlichung. Sobald verfügbar, werden die Versionshinweise in der folgenden Tabelle verknüpft.
 
-**Releasedatum**: Die Rollout beginnt normalerweise am Dienstag der Release-Woche, wobei mehr der Aktualisierung Freitagabend stattfindet. Das angegebene Datum ist für das Freitagsupdate.
+**Veröffentlichungsdatum**: Der Rollout beginnt in der Regel am Dienstag der Veröffentlichungswoche, wobei ein größerer Teil des Upgrades Freitagabend stattfindet. Das angegebene Datum gilt für das Freitag-Update.
 
 **Status**:
 
-* Zeitplan - Wir planen die Veröffentlichung der Funktionen und Verbesserungen am angegebenen Datum
-* In Bearbeitung - Die Funktionen der Version werden derzeit eingeführt.
-* Versand - Die Version ist abgeschlossen.
+* Planmäßig : Die Funktionen und Verbesserungen werden planmäßig zum angegebenen Datum veröffentlicht.
+* In Bearbeitung : Wir sind dabei, die Funktionen der Version einzuführen
+* Versendet - Die Version ist abgeschlossen
 
 _Veröffentlichungstermine/-funktionen können sich ändern_
 
@@ -38,14 +38,14 @@ _Veröffentlichungstermine/-funktionen können sich ändern_
    <td>Versendet</td>
   </tr>
   <tr> 
-   <td><a href="/help/marketo/release-notes/current.md">Oktober 24</td>
+   <td><a href="/help/marketo/release-notes/current.md">Oktober '24</td>
    <td>4. Oktober 2024</td>
    <td>Im Gange</td>
   </tr>
   <tr> 
-   <td>Januar 25</td>
+   <td>Januar '25</td>
    <td>Samstag, 17. Januar 2025</td>
-   <td>Zeitplan</td>
+   <td>Planmäßig</td>
   </tr>
  </tbody>
 </table>

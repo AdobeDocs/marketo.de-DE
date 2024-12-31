@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7511815
-description: Versionshinweise - April 2015 - Marketo-Dokumente - Produktdokumentation
+description: Versionshinweise - April 2015 - Marketo-Dokumentation - Produktdokumentation
 title: April 2015 - Versionshinweise
 exl-id: 754e3abf-d5e7-447f-a032-6ed66723f837
 feature: Release Information
@@ -11,9 +11,9 @@ ht-degree: 9%
 
 ---
 
-# April 2015 - Versionshinweise {#release-notes-april}
+# Versionshinweise: April 2015 {#release-notes-april}
 
-Die folgenden Funktionen sind in der Version vom April 2015 enthalten. Informationen zur Verfügbarkeit von Funktionen finden Sie in Ihrer Marketo Edition. Stellen Sie nach der Veröffentlichung sicher, dass Sie zu den einzelnen Funktionen Links zu detaillierten Artikeln finden!
+Die folgenden Funktionen sind in der Version vom April 2015 enthalten. Bitte überprüfen Sie Ihre Marketo Edition auf Funktionsverfügbarkeit. Nach der Veröffentlichung sollten Sie unbedingt zurückkommen, um Links zu detaillierten Artikeln für jede Funktion zu finden!
 
 ## Überarbeitetes Design der Analysen-Startseite
 
@@ -21,19 +21,19 @@ Die folgenden Funktionen sind in der Version vom April 2015 enthalten. Informati
 
 >[!NOTE]
 >
->Diese Funktion wird am Dienstag, den 28. April veröffentlicht.
+>Diese Funktion wird am Dienstag, dem 28. April veröffentlicht.
 
-Die neue [Analytics-Startseite](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) ermöglicht einen schnellen Zugriff für die Ausführung von Ad-hoc-Berichten über verfügbare Berichtstypen hinweg.
+Die neue [Analytics-Startseite](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) ermöglicht den schnellen Zugriff auf die Ausführung von Ad-hoc-Berichten über alle verfügbaren Berichtstypen hinweg.
 
 ![](assets/image2015-4-20-11-3a18-3a8.png)
 
-Darüber hinaus ist die Organisation privater oder freigegebener Berichte jetzt verfügbar. Erstellen oder ziehen Sie Berichte in Ihren Ordner Meine Berichte , um sie vom Anzeigen, Bearbeiten oder Löschen durch andere Benutzer abzuschränken. Gruppenberichte werden für alle Benutzer freigegeben.
+Darüber hinaus ist jetzt die Berichtsorganisation „Privat“ im Vergleich „Freigegeben“ verfügbar. Erstellen oder ziehen Sie Berichte in den Ordner Meine Berichte , um sie für andere Benutzer unzugänglich zu machen, zu bearbeiten oder zu löschen. Gruppenberichte werden für alle Benutzer freigegeben.
 
 ## Marketo Mobile Engagement {#marketo-mobile-engagement}
 
-**Marketo-Interaktion mit Mobilgeräten**
+**Marketo Mobile-Interaktion**
 
-Mit Marketo Mobile Interaktion ist es einfach, ansprechende mobile Erlebnisse bereitzustellen. Erstellen Sie hochpersonalisierte Kampagnen, die ansprechende Inhalte bereitstellen, ohne sich je auf ein App-Entwicklungsteam verlassen zu müssen. Neue Filter und Trigger ermöglichen es Ihnen, über Push-Benachrichtigungen auf dem Mobile-Kanal zu überwachen und darauf zu reagieren.
+Mit Marketo Mobile Engagement können Sie mühelos überzeugende mobile Erlebnisse bereitstellen. Erstellen Sie hochgradig personalisierte Kampagnen, die überzeugende Inhalte liefern, ohne auf ein App-Entwicklungs-Team angewiesen zu sein. Mit neuen Filtern und Triggern können Sie über Push-Benachrichtigungen auf dem mobilen Kanal zuhören und darauf reagieren.
 
 ![](assets/image2015-4-20-11-3a16-3a55.png)
 
@@ -41,13 +41,13 @@ Mit Marketo Mobile Interaktion ist es einfach, ansprechende mobile Erlebnisse be
 
 [Integration von LinkedIn Lead Accelerator](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
 
-Erweitern Sie Ihre Lead-Pflegestrategie auf bezahlte Display- und Social-Anzeigen. Mit der [Anzeigennetzwerkintegration](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md) mit LinkedIn Lead Accelerator können Sie sicher ein Zielgruppensegment in LinkedIn erstellen, das auf den Mitgliedern einer beliebigen Smart- oder statischen Liste basiert. Mitglieder in einem LinkedIn-Zielgruppensegment können dann mit einer Sequenz relevanter Anzeigen gepflegt werden.
+Erweitern Sie Ihre Lead-Nurture-Strategie auf bezahlte Display- und Social-Media-Anzeigen. Die [Anzeigennetzwerkintegration](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md) mit LinkedIn Lead Accelerator ermöglicht die sichere Erstellung eines Zielgruppensegments in LinkedIn basierend auf den Mitgliedern einer beliebigen Smart- oder Static-Liste. Mitglieder innerhalb eines LinkedIn-Zielgruppensegments können dann mit einer Sequenz relevanter Anzeigen gepflegt werden.
 
 ![](assets/image2015-4-20-11-3a3-3a27.png)
 
 ## Marketo Sales Insight für Salesforce1 {#marketo-sales-insight-for-salesforce}
 
-Ihre bevorzugten Sales Insight-Funktionen - Lead-Feed, Best-Wetten, interessante Momente und Hinzufügen zu Marketo Campaign - alle in der Salesforce1-App verfügbar.
+Ihre bevorzugten Sales Insight-Funktionen - Lead-Feed, Best Bets, interessante Momente und Hinzufügen zu Marketo Campaign - sind alle in der Salesforce1-App verfügbar.
 
 ![](assets/image2015-4-20-11-3a11-3a37.png) ![](assets/image2015-4-20-11-3a15-3a16.png)
 
@@ -55,4 +55,4 @@ Ihre bevorzugten Sales Insight-Funktionen - Lead-Feed, Best-Wetten, interessante
 
 **RTP: Kontobasierte Marketinganalysen**
 
-Erhalten Sie sofort einen Überblick über die Leistung Ihrer wichtigsten Listen mit benannten Konten, die auf jeder Phase des Kaufzyklus basieren, mit dem neuen Leistungsdiagramm für Ihre Listen mit benannten Konten. Das Diagramm zeigt die Phase des Besuchs aus der Schlüsselorganisation, angefangen beim Bewusstsein bis hin zur Aktion, basierend auf der Anzahl der Besuche und dem Status des Besuchers.
+Mit dem neuen Leistungsdiagramm für die Liste der spezifischen Accounts erhalten Sie sofortigen Einblick in die Leistung Ihrer wichtigsten Named Account Listen, basierend auf jedem Stadium des Kaufzyklus. Das Diagramm zeigt die Phase des Besuchs in der wichtigsten Organisation, beginnend mit der Wahrnehmung bis hin zur Aktion, basierend auf der Anzahl der Besuche und dem Status des Besuchers.

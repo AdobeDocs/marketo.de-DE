@@ -1,6 +1,6 @@
 ---
 unique-page-id: 8783189
-description: Versionshinweise - Juli 2015 - Marketo-Dokumente - Produktdokumentation
+description: Versionshinweise - Juli 2015 - Marketo-Dokumentation - Produktdokumentation
 title: Juli 2015 - Versionshinweise
 exl-id: d7658718-27fd-4699-8fac-c30a59802dfd
 feature: Release Information
@@ -11,28 +11,28 @@ ht-degree: 3%
 
 ---
 
-# Juli 2015 - Versionshinweise {#release-notes-july}
+# Versionshinweise: Juli 2015 {#release-notes-july}
 
 ## Marketo Moments {#marketo-moments}
 
-Mittag essen, aber eine E-Mail neu planen müssen? Die Marketo Moments-App, die über die App Store oder Google Play verfügbar ist, bietet Ihnen die Möglichkeit zu sehen, wie Ihre E-Mail- und Ereigniskampagnen in Echtzeit funktionieren und was in Zukunft von Ihrem iPhone-, iPad- oder Android-Telefon aus geschieht.
+Sie sind zum Mittagessen unterwegs und müssen eine E-Mail neu planen? Mit der Marketo Moments-App, die über die App Store oder Google Play verfügbar ist, können Sie die Leistung Ihrer E-Mail- und Ereigniskampagnen in Echtzeit sehen und sehen, was in der Zukunft auf Ihrem iPhone-, iPad- oder Android-Smartphone kommt.
 
 ![](assets/image2015-7-10-9-3a42-3a29.png)
 
-## Rich-Text-Editor-Update {#rich-text-editor-update}
+## Rich-Text-Editor aktualisieren {#rich-text-editor-update}
 
-Der Texteditor wurde mit modernem Erscheinungsbild aktualisiert, einschließlich optimierter Textformatierung, Bildbearbeitung, Link-Einfügung und HTML-Bearbeitung. Der HTML-Editor verfügt jetzt über eine minimale Validierung, was eine weniger restriktive Codebearbeitung ermöglicht.
-`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Dieses Update wird innerhalb weniger Tage nach der Juli-Version automatisch veröffentlicht. Danach können Sie zwischen den neuen und alten Versionen des Editors über **Admin > E-Mail > Editor-Einstellungen bearbeiten** wechseln.
+Aktualisierter Texteditor mit modernem Look-and-Feel, einschließlich optimierter Textformatierung, Bildbearbeitung, Link-Einfügen und HTML-Bearbeitung. Der HTML-Editor verfügt jetzt über eine minimale Validierung, was eine weniger restriktive Code-Bearbeitung ermöglicht.
+`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Dieses Update wird automatisch innerhalb weniger Tage nach der Juli-Version eingeführt. Danach können Sie unter „Admin“ > „E-Mail“ > „Editor-Einstellungen bearbeiten“ zwischen **neuen und Legacy-Version**.
 
 ![](assets/image2015-7-10-9-3a42-3a44.png)
 
-Link- und Bilddialogfelder wurden aktualisiert.
+Die Dialogfelder für Links und Bilder wurden aktualisiert.
 
 ![](assets/image2015-7-10-9-3a42-3a57.png)
 
 ![](assets/image2015-7-10-9-3a43-3a20.png)
 
-Wechsel zur Texteditorversion.
+Schalten Sie die Texteditorversion um.
 
 ![](assets/image2015-7-10-9-3a43-3a32.png)
 
@@ -42,16 +42,16 @@ Wenn Sie auf die Kachel E-Mail-Zustellbarkeit klicken, müssen Sie Ihre Anmelded
 
 ## Kampagnenpriorisierung {#campaign-prioritization}
 
-Haben Sie mehrere personalisierte RTP-Kampagnen eingerichtet und festgestellt, dass sich einige von ihnen mit anderen überschneiden können? Legen Sie eine Priorität fest, für welche Kampagnen RTP andere anzeigen soll.
+Haben Sie mehrere personalisierte RTP-Kampagnen eingerichtet und festgestellt, dass sich einige von ihnen mit anderen überschneiden können? Legen Sie eine Priorität fest, für die der RTP von Kampagnen Vorrang vor anderen haben soll.
 
 ![](assets/image2015-7-9-20-3a20-3a58.png)
 
-## Firmen-API {#company-api}
+## Unternehmens-API {#company-api}
 
-**Zugriff auf Unternehmensobjekte über die REST-API**: Die REST-API bietet jetzt Zugriff auf das Marketo Company-Objekt (auch Konto genannt). Das bedeutet, dass Sie in Marketo erstellte Unternehmensobjekte lesen, aktualisieren und löschen und mit diesen Unternehmen Leads über die aktualisierte Lead-API verknüpfen können.
+**Zugriff auf Unternehmensobjekte über die REST-**: Die REST-API bietet jetzt Zugriff auf das Objekt des Unternehmens Marketo (auch als Kontoobjekt bezeichnet). Das bedeutet, dass Sie Unternehmensobjekte, die Sie in Marketo erstellt haben, lesen, aktualisieren und löschen und mithilfe der aktualisierten Lead-API Leads mit diesen Unternehmen verknüpfen können.
 
-Weitere Informationen [mehr]https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies) finden Sie in unserem Referenzhandbuch für die Firmen-API.
+Weitere []https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies) finden Sie in unserem Referenzhandbuch für die Unternehmens-API.
 
-## Email Deliverability aufrufen {#access-email-deliverability}
+## Zugriff auf die E-Mail-Zustellbarkeit {#access-email-deliverability}
 
-**Auf Email Deliverability Tool zugreifen**: Diese neue Berechtigung ermöglicht es Administratoren, Benutzern Zugriff auf das Email Deliverability-Tool zu gewähren.
+**Access Email Deliverability Tool**: Mit dieser neuen Berechtigung können Administratoren Benutzern Zugriff auf das E-Mail-Zustellbarkeits-Tool gewähren.

@@ -1,7 +1,7 @@
 ---
 unique-page-id: 11384433
-description: Einrichten des Kontoteams - Marketo-Dokumente - Produktdokumentation
-title: Einrichten des Kontoteams
+description: Einrichten des Account-Teams - Marketo-Dokumente - Produktdokumentation
+title: Konto-Team-Setup
 exl-id: a4aee37f-5e39-4296-b720-b1c73c98df9e
 feature: Target Account Management
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,33 +11,33 @@ ht-degree: 2%
 
 ---
 
-# Einrichten des Kontoteams {#account-team-setup}
+# Konto-Team-Setup {#account-team-setup}
 
-Ein Account-Team ist eine Gruppe von Stakeholdern, die mit einem benannten Konto zusammenarbeiten. Führen Sie diese Schritte aus, um festzulegen, welche CRM-Konto-Rollen hinzugefügt werden sollen.
+Ein Account-Team ist eine Gruppe von Stakeholdern, die gemeinsam an einem benannten Account arbeiten. Führen Sie die folgenden Schritte aus, um festzulegen, welche CRM-Kontorollen hinzugefügt werden sollen.
 
 1. Klicken Sie auf **Admin**.
 
    ![](assets/one-3.png)
 
-1. Klicken Sie auf **Target Account Management**.
+1. Klicken Sie **Target-Kontoverwaltung**.
 
    ![](assets/account-team-setup-2.png)
 
-1. Klicken Sie unter &quot;Account Team Members&quot;auf **Edit**.
+1. Klicken Sie unter „Account-Team-Mitglieder“ auf **Bearbeiten**.
 
    ![](assets/3.png)
 
    >[!NOTE]
    >
-   >Geben Sie für Kontorolle einen Namen an und ordnen Sie ihn dem gewünschten Feld für die Benutzersuche in Ihrem CRM-System zu.
+   >Geben Sie für die Kontorolle einen Namen und ordnen Sie ihn dem gewünschten Benutzer-Lookup-Feld in Ihrem CRM zu.
 
-1. Geben Sie den Namen Ihrer Kontorolle ein und wählen Sie das Feld **CRM** aus. Fügen Sie bis zu 10 hinzu.
+1. Geben Sie den Namen Ihrer Kontorolle ein und wählen Sie das Feld **CRM** aus. Bis zu 10 hinzufügen.
 
    ![](assets/four-2.png)
 
    >[!NOTE]
    >
-   >Sie können Kontoinhaber nicht auswählen. Er wird standardmäßig aus der Kontoebene in Ihrem CRM-System ausgewählt.
+   >Es kann kein Kontoinhaber ausgewählt werden. Sie wird standardmäßig auf der Kontoebene in Ihrem CRM ausgewählt.
 
 1. Klicken Sie auf **Speichern**, wenn Sie fertig sind.
 
@@ -49,6 +49,6 @@ Ein Account-Team ist eine Gruppe von Stakeholdern, die mit einem benannten Konto
 
    >[!NOTE]
    >
-   >* Wenn mehrere CRM-Konten mit unterschiedlichen Kontoinhabern zu einem benannten Konto zusammengeführt werden, wählt Marketo einen &quot;Kontoinhaber&quot;aus und fügt andere Kontoinhaber als &quot;KontoCo-Inhaber&quot;hinzu.
+   >* Wenn mehrere CRM-Konten mit unterschiedlichen Kontoinhabern zu einem benannten Konto zusammengeführt werden, wählt Marketo einen „Kontoinhaber“ aus und fügt andere Kontoinhaber als „Kontoinhaber“ hinzu
    >
-   >* Wenn ein CRM-Feld &quot;Rolle&quot;später umbenannt oder gelöscht wird, stoppt Marketo TAM die Synchronisierung der aktualisierten Werte, bis der Benutzer die Einrichtung in TAM manuell aktualisiert
+   >* Wenn ein CRM-Rollenfeld später umbenannt oder gelöscht wird, hört Marketo TAM mit der Synchronisierung der aktualisierten Werte auf, bis die Benutzerin bzw. der Benutzer die Einrichtung in TAM manuell aktualisiert

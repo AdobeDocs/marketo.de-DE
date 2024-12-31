@@ -13,19 +13,19 @@ ht-degree: 0%
 
 # Verwenden von Dashboards im Umsatz-Explorer {#using-dashboards-in-revenue-explorer}
 
-Ein Dashboard ist eine Kombination aus Umsatz-Explorer-Berichten, um einen schnellen Überblick über Ihre Leads, Kampagnen, Chancen und/oder Modelle zu erhalten.
+Ein Dashboard ist eine Kombination aus Umsatz-Explorer-Berichten, die einen schnellen Überblick über Ihre Leads, Kampagnen, Chancen und/oder Modelle bieten.
 
-## Erstellen eines neuen Dashboards {#creating-a-new-dashboard}
+## Neues Dashboard erstellen {#creating-a-new-dashboard}
 
 1. Klicken Sie auf **Umsatz-Explorer**.
 
    ![](assets/one.png)
 
-1. Klicken Sie auf **Neu erstellen** und dann auf **Dashboard**.
+1. Klicken Sie **Neu erstellen** und dann **Dashboard**.
 
    ![](assets/two.png)
 
-1. Am unteren Seitenrand werden Vorlagen standardmäßig ausgewählt. Klicken Sie auf das Layout, das Sie verwenden möchten. &quot;2 Spalte&quot;wird hier verwendet.
+1. Vorlagen werden standardmäßig am unteren Rand der Seite ausgewählt. Klicken Sie auf das gewünschte Layout. „2 Spalte“ wird hier verwendet.
 
    ![](assets/three.png)
 
@@ -33,7 +33,7 @@ Ein Dashboard ist eine Kombination aus Umsatz-Explorer-Berichten, um einen schne
    >
    >Sie können das Erscheinungsbild Ihres Dashboards weiter anpassen, indem Sie auf **Designs** klicken und Ihren Favoriten auswählen.
 
-1. Klicken Sie im ersten Abschnitt Ihres Dashboards auf das Symbol **Einfügen** und wählen Sie **Datei** aus.
+1. Klicken Sie im ersten Abschnitt Ihres Dashboards auf das Symbol **Einfügen** und wählen Sie **Datei**.
 
    ![](assets/four.png)
 
@@ -45,7 +45,7 @@ Ein Dashboard ist eine Kombination aus Umsatz-Explorer-Berichten, um einen schne
 
    ![](assets/six.png)
 
-1. Doppelklicken Sie auf den Ordner, in dem sich der Bericht befindet, den Sie verwenden möchten.
+1. Doppelklicken Sie auf den Ordner, in dem sich der gewünschte Bericht befindet.
 
    ![](assets/seven.png)
 
@@ -61,17 +61,17 @@ Ein Dashboard ist eine Kombination aus Umsatz-Explorer-Berichten, um einen schne
 
    ![](assets/ten.png)
 
-1. Klicken Sie zum Speichern auf das Symbol &quot;Speichern&quot;, geben Sie einen Dateinamen ein, doppelklicken Sie auf den Ordner &quot;Umsatz Explorer&quot;, bis Sie zum gewünschten Ordner für Ihr Dashboard gelangen, und klicken Sie auf &quot;**Speichern**&quot;.
+1. Klicken Sie zum Speichern auf das Symbol Speichern , geben Sie einen Dateinamen ein, doppelklicken Sie auf den Ordner „Umsatz-Explorer“, bis Sie zum gewünschten Ordner für Ihr Dashboard gelangen, und klicken Sie auf **Speichern**.
 
    ![](assets/eleven.png)
 
-## Bearbeiten eines Dashboards {#editing-a-dashboard}
+## Dashboard bearbeiten {#editing-a-dashboard}
 
 1. Klicken Sie auf **Umsatz-Explorer**.
 
    ![](assets/one.png)
 
-1. Doppelklicken Sie auf den Ordner **Umsatz-Explorer** . Navigieren Sie zu der Stelle, an der sich Ihr Dashboard befindet.
+1. Doppelklicken Sie auf den Ordner **Revenue Explorer**. Navigieren Sie zu dem Ort, an dem Ihr Dashboard angezeigt wird.
 
    ![](assets/thirteen.png)
 
@@ -79,16 +79,16 @@ Ein Dashboard ist eine Kombination aus Umsatz-Explorer-Berichten, um einen schne
 
    ![](assets/fourteen.png)
 
-## Löschen eines Dashboards {#deleting-a-dashboard}
+## Dashboard löschen {#deleting-a-dashboard}
 
 1. Klicken Sie auf **Umsatz-Explorer**.
 
    ![](assets/one.png)
 
-1. Doppelklicken Sie auf den Ordner **Umsatz-Explorer** . Navigieren Sie zu der Stelle, an der sich Ihr Dashboard befindet.
+1. Doppelklicken Sie auf den Ordner **Revenue Explorer**. Navigieren Sie zu dem Ort, an dem Ihr Dashboard angezeigt wird.
 
    ![](assets/thirteen.png)
 
-1. Wählen Sie das Dashboard aus, das Sie löschen möchten, und klicken Sie dann auf **In den Papierkorb verschieben**.
+1. Wählen Sie das zu löschende Dashboard aus und klicken Sie dann auf **In den Papierkorb verschieben**.
 
    ![](assets/fifteen.png)

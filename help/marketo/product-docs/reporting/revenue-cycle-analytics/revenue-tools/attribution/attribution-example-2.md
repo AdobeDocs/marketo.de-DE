@@ -13,18 +13,18 @@ ht-degree: 4%
 
 # Attributionsbeispiel 2 {#attribution-example}
 
-Lesen Sie das folgende Szenario und versuchen Sie, die Zahlen zu ermitteln, die im Raster angezeigt werden sollen.
+Lesen Sie das folgende Szenario und versuchen Sie, die Zahlen zu bestimmen, die im Raster enthalten sein sollen.
 
-* 11. April | Bill wird von (Tradeshow) erworben
-* 15. April | Joan wird von (Webinar) erworben
-* 22. April | (Chance 1) erstellt für 6.000 $
-* 24. April | (Chancen 2) erstellt für 10.000 $
-* 25. April | Bill und Joan sind mit den Rollen **BEIDE** Optionen verknüpft.
-* 29. April | (Chancen 1) ist geschlossen
+* 11. April | Rechnung wird erworben von (Fachmesse)
+* 15. April | Joan wurde erworben von (Webinar)
+* 22. April | (Opportunity 1) für 6.000 $ erstellt
+* 24. April | (Opportunity 2) für 10.000 $ erstellt
+* 25. April | Bill und Joan sind Rollen von (**)** zugeordnet
+* 29. April | (Opportunity 1) wurde abgeschlossen
 
-| Programmname | (Gewerbeproben) | (Webinar) |
+| Programmname | (Fachmesse) | (Webinar) |
 |---|---|---|
-| (FT) Option erstellt | `<pre>1</pre>` | `<pre>1</pre>` |
+| (FT) leer erstellt | `<pre>1</pre>` | `<pre>1</pre>` |
 | (FT) Erstellte Pipeline | `<pre>$8,000</pre>` | `<pre>$8,000</pre>` |
 | (FT) Opty Won | `<pre>0.5</pre>` | `<pre>0.5</pre>` |
 | (FT) Gewonnener Ertrag | `<pre>$3,000</pre>` | `<pre>$3,000</pre>` |
@@ -33,21 +33,21 @@ Lesen Sie das folgende Szenario und versuchen Sie, die Zahlen zu ermitteln, die 
 
 >[!NOTE]
 >
->**Erklärung**
+>**Erläuterung**
 >
->Da sowohl Bill als auch Joan mit den Rollen verknüpft waren, um **BEIDE** Gelegenheiten zu bieten, teilte das System (gemäß den Regeln) den Kredit gleichmäßig zwischen ihnen auf.
+>Da sowohl Bill als auch Joan Rollen zugeordnet wurden, um **BEIDE** Opportunitys, teilte das System (gemäß den Regeln) die Gutschrift gleichmäßig zwischen ihnen auf.
 >
->Die für jedes Programm erstellte Pipeline ($ 8.000) entspricht der Hälfte der insgesamt als Gutschrift verfügbaren Pipeline ($16.000).
+>Die für jedes Programm erstellte Pipeline (8.000 $) entspricht der Hälfte der insgesamt verfügbaren Pipeline (16.000 $), die als Gutschrift vergeben werden kann.
 
 >[!NOTE]
 >
 >**Attributionsregeln**
 >
->1. Die Gewichtung wird gleichmäßig aufgeteilt
->1. Du kannst nicht mehr Guthaben als du verdient hast
->1. Man kann etwas, das in der Vergangenheit passiert ist, nicht zuschreiben
+>1. Die Kredite werden gleichmäßig aufgeteilt
+>1. Man kann nicht mehr zuschreiben, als man verdient
+>1. Man kann nicht für etwas verantwortlich machen, das in der Vergangenheit passiert ist
 
-Probieren Sie alle Beispiele aus und Sie werden ein Attributionsprofi sein!
+Probieren Sie alle Beispiele aus und Sie werden ein Attribution-Profi!
 
 >[!MORELIKETHIS]
 >

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2951050
-description: Versionshinweise - Januar 2014 - Marketo-Dokumente - Produktdokumentation
+description: Versionshinweise - Januar 2014 - Marketo-Dokumentation - Produktdokumentation
 title: Januar 2014 - Versionshinweise
 exl-id: 1507aa40-9bd7-42be-8c85-deae8dd45234
 feature: Release Information
@@ -11,42 +11,42 @@ ht-degree: 2%
 
 ---
 
-# Januar 2014 - Versionshinweise {#release-notes-january}
+# Versionshinweise: Januar 2014 {#release-notes-january}
 
-Die folgenden Funktionen sind in der Version vom Januar 2014 enthalten. Überprüfen Sie Ihre [Marketo Edition](https://www.marketo.com/pricing/) auf Verfügbarkeit der Funktionen.
+Die folgenden Funktionen sind in der Version vom Januar 2014 enthalten. Bitte überprüfen Sie Ihre [Marketo Edition](https://www.marketo.com/pricing/) auf Funktionsverfügbarkeit.
 
 ## Formulare 2.0 {#forms}
 
-Köpfe hoch: Die Dokumentation für Forms 2.0 ist in Kürze verfügbar!
+Heads Up: Die Dokumentation für Forms 2.0 ist in Kürze verfügbar!
 
-Übernehmen Sie die Kontrolle über den Formularerstellungsprozess und geben Sie Ihren Webentwicklern eine Pause. Forms 2.0 wurde entwickelt, um Marketingexperten die Möglichkeit zu geben, visuell und funktional robuste Formulare zu erstellen, ohne Programmierkenntnisse zu benötigen.
+Übernehmen Sie die Kontrolle über den Prozess der Formularerstellung und gönnen Sie Ihren Webentwicklern eine Pause. Forms 2.0 wurde entwickelt, um es Marketing-Experten zu ermöglichen, sowohl visuell als auch funktionell robuste Formulare zu erstellen, ohne Programmierkenntnisse zu benötigen.
 
-**Geben Sie Ihrer Forms den gewünschten visuellen Makeover:**
+**Verleihen Sie Ihrer Forms das visuelle Makeover, das sie verdienen:**
 
-Designentwürfe, Schaltflächenanpassungen und flexible Layouts ermöglichen es Ihnen, moderne Formulare zu entwerfen, die genau an das Erscheinungsbild Ihrer Website angepasst sind.
+Designdesigns, Schaltflächenanpassung und flexible Layouts ermöglichen es Ihnen, moderne Formulare zu entwerfen, die genau in das Erscheinungsbild Ihrer Site passen.
 
-**Bedingte Sichtbarkeit und Folgenachricht:**
+**Bedingte Sichtbarkeit und Folgeseitenlogik:**
 
 ![](assets/image2014-9-22-10-3a30-3a52.png)
 
-Möchten Sie, dass &quot;State&quot;nur angezeigt wird, wenn ein Benutzer USA als &quot;Country&quot;auswählt? Wie wäre es, Kunden verschiedene Whitepapers zu präsentieren, basierend darauf, wie sie auf Fragen in Ihrem Formular antworten? Erstellen Sie eine Bedingungslogik in Ihren Formularen direkt vom Editor aus. Kein JavaScript erforderlich!
+Möchten Sie, dass „Bundesland“ nur angezeigt wird, wenn ein Benutzer USA als „Land“ auswählt? Wie wäre es, wenn Kunden verschiedene Whitepaper präsentiert werden, die darauf basieren, wie sie Fragen in Ihrem Formular beantworten? Erstellen Sie eine bedingte Logik direkt im Editor in Ihre Formulare. Kein JavaScript erforderlich!
 
 ![](assets/image2014-9-22-10-3a31-3a54.png)
 
-**Einbetten von Forms einfach in Ihre eigenen Landingpages:**
+**Einfaches Einbetten von Forms auf eigenen Landingpages:**
 
-Vorbei sind die Tage, in denen HTML-Code aus Formularen auf Marketo-Landingpages entfernt und in einem iFrame abgelegt wird. Erfassen Sie einfach den Einbettungscode und platzieren Sie ihn auf der Einstiegsseite an der Stelle, an der das Formular wiedergegeben werden soll. Zwei Modi - Normal und Lightbox - bieten Ihnen noch mehr Flexibilität bei Marketo-Formularen auf Ihrer Site.
+Die Zeiten, in denen HTML-Code aus Formularen auf Marketo-Landingpages entfernt und in einem iFrame abgelegt wurde, sind vorbei. Nehmen Sie einfach den Einbettungs-Code und platzieren Sie ihn auf der Landingpage an der Stelle, an der das Formular gerendert werden soll. Zwei Modi - normal und Lightbox - bieten Ihnen noch mehr Flexibilität bei Marketo-Formularen auf Ihrer Site.
 
 ![](assets/image2014-9-22-10-3a38-3a2.png)
 
 ## Kommunikationsbeschränkungen für das E-Mail-Programm {#communication-limits-for-email-program}
 
-[Legen Sie Kommunikationsbeschränkungen für ein E-Mail-Programm fest](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/enable-disable-communication-limits-in-an-email-program.md), um sicherzustellen, dass Sie nicht zu häufig mit Ihrer Datenbank kommunizieren. Wenn eine Person den festgelegten Grenzwert überschreitet, erhält sie die E-Mail nicht.
+[Legen Sie Kommunikationsbeschränkungen für ein E-Mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/enable-disable-communication-limits-in-an-email-program.md)Programm fest, um sicherzustellen, dass Sie mit Ihrer Datenbank nicht übermäßig kommunizieren. Wenn eine Person das festgelegte Limit überschreitet, erhält sie die E-Mail nicht.
 
 ![](assets/image2014-9-22-10-3a38-3a31.png)
 
 ## Zusätzliche Felder in Programmmitgliedschafts-Analyse {#additional-fields-in-program-membership-analysis}
 
-Jetzt können Sie Ihre Metriken zur [Programmteilnahmeanalyse](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) nach Lead- und Unternehmensattributen hinzufügen und gruppieren. Beispielsweise können Sie das Feld Branche hinzufügen, um die Aufteilung Ihrer Programmmitglieder und Erfolge anzuzeigen.
+Jetzt können Sie Ihre Metriken zur [Programmmitgliedschaftsanalyse](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) nach Lead- und Unternehmensattributen hinzufügen und gruppieren. Sie können beispielsweise das Feld Branche hinzufügen, um die Aufteilung Ihrer Programmmitglieder und Erfolge anzuzeigen.
 
 ![](assets/image2014-9-22-10-3a39-3a1.png)

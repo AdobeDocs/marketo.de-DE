@@ -19,12 +19,12 @@ Möchten Sie die regionalen Benutzereinstellungen ändern, damit nur Daten für 
 
    ![](assets/image2014-12-1-23-3a8-3a40.png)
 
-1. Klicken Sie auf **Regionen bearbeiten**.
+1. Klicken Sie **Regionen bearbeiten**.
 
    ![](assets/image2014-12-3-18-3a55-3a25.png)
 
-1. Überprüfen Sie Ihre mit Ihrer Region in Verbindung stehenden Länder oder Bundesstaaten.
+1. Überprüfen Sie Ihre Länder oder Bundesstaaten, die mit Ihrer Region verbunden sind.
 
 >[!NOTE]
 >
->Wenn Sie die USA auswählen, werden unten auf der Seite alle US-amerikanischen Optionen angezeigt, die ausgewählt werden sollen.
+>Wenn Sie die USA auswählen, werden unten auf der Seite alle US-Bundesstaaten -Optionen zur Auswahl geöffnet.

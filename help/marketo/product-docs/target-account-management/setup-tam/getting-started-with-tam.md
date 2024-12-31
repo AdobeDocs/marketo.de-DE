@@ -13,23 +13,23 @@ ht-degree: 0%
 
 # Erste Schritte mit TAM {#getting-started-with-tam}
 
-Marketo Engage TAM zu Ihrer Instanz hinzugefügt werden? Sehr gut! Sehen wir uns an, was du als Nächstes tun musst.
+Marketo Engage TAM zu Ihrer Instanz hinzufügen lassen? Sehr gut! Sehen wir uns an, was Sie als Nächstes tun müssen.
 
-**Schritt 1: [Erteilung einer Lizenz](/help/marketo/product-docs/target-account-management/setup-tam/issue-a-license.md){target="_blank"}** - Entscheiden Sie, wer in Ihrem Team TAM verwenden wird.
+**Schritt 1: [Lizenz erteilen](/help/marketo/product-docs/target-account-management/setup-tam/issue-a-license.md){target="_blank"}** - Entscheiden Sie, wer in Ihrem Team TAM verwenden wird.
 
-**Schritt 2: Legen Sie [Berechtigungen](/help/marketo/product-docs/target-account-management/setup-tam/permissions.md){target="_blank"}** fest - Weisen Sie bestimmte Aspekte von TAM bestimmten Benutzern zu oder gewähren Sie einfach vollständigen TAM-Zugriff.
+**Schritt 2: Festlegen [Berechtigungen](/help/marketo/product-docs/target-account-management/setup-tam/permissions.md){target="_blank"}** - Weisen Sie bestimmten Benutzern bestimmte Aspekte von TAM zu oder gewähren Sie einfach vollständigen TAM-Zugriff.
 
-**Schritt 3: Konfigurieren Sie Ihre [Kontobewertung](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md){target="_blank"}** - Die Kontobewertung ist eines der Schlüsselelemente der Target-Kontoverwaltung. Dies hilft Ihnen bei der Bestimmung der Interaktionsstufe jedes Kontos.
+**Schritt 3: Konfigurieren Sie Ihren [Kontostand](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md){target="_blank"}** - Kontobewertung ist eines der Schlüsselelemente in der Verwaltung des Target-Kontos. Damit können Sie den Interaktionsgrad der einzelnen Konten ermitteln.
 
-**Schritt 4: [Benutzerdefiniertes Feld für CRM-Erkennung erstellen](/help/marketo/product-docs/target-account-management/setup-tam/create-a-custom-field-for-crm-discovery.md){target="_blank"}** - Ordnen Sie ein vorhandenes CRM-Konto-Feld einem neuen benutzerdefinierten Feld namens Konto zu (überspringen Sie diesen Schritt, wenn Sie kein CRM verwenden).
+**Schritt 4: [Benutzerdefiniertes Feld für CRM-Erkennung erstellen](/help/marketo/product-docs/target-account-management/setup-tam/create-a-custom-field-for-crm-discovery.md){target="_blank"}** - Ordnen Sie ein vorhandenes CRM-Konto einem neuen benutzerdefinierten Feld für benannte Konten zu (wenn Sie kein CRM verwenden, überspringen Sie diesen Schritt).
 
-**Schritt 5:** **_Spezifische Konten erstellen_** - Namensspezifische Konten enthalten die Personen aus den Unternehmen, die Sie als Ziel auswählen. Es gibt vier Möglichkeiten, ein benanntes Konto zu erstellen:
+**Schritt 5** **_Benannte Konten erstellen_** - Benannte Konten enthalten die Personen von den Unternehmen, an die Sie sich wenden. Es gibt vier Möglichkeiten, ein benanntes Konto zu erstellen:
 
-* [Spezifische Konten importieren](/help/marketo/product-docs/target-account-management/target/named-accounts/import-named-accounts.md){target="_blank"} - Laden Sie eine Liste der potenziellen Zielkonten direkt in TAM hoch (dies kann eine Liste sein, die Sie aus Ihrem CRM-System exportiert haben).
-* [CRM-Konten kennenlernen](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts){target="_blank"} - Zeigen Sie eine Liste aller in Marketo synchronisierten CRM-Konten an und filtern Sie mithilfe von Schlüsselattributen (d. h. der Branche) nach benannten Konten.
-* [Marketo-Unternehmen kennenlernen](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-marketo-companies){target="_blank"} - Zeigen Sie eine Liste von Unternehmen aus anderen Quellen als Ihrem CRM an und filtern Sie mithilfe von Schlüsselattributen nach benannten Konten.
-* [Manuelles Erstellen eines benannten Kontos](/help/marketo/product-docs/target-account-management/target/named-accounts/create-a-named-account.md){target="_blank"} - Wenn Sie ein benanntes Konto manuell erstellen, besteht der nächste Schritt darin, es mit Personen](/help/marketo/product-docs/target-account-management/target/named-accounts/add-people-to-a-named-account.md){target="_blank"} manuell zu füllen.[
+* [Spezifische Konten importieren](/help/marketo/product-docs/target-account-management/target/named-accounts/import-named-accounts.md){target="_blank"} - Laden Sie eine Liste potenzieller Zielkonten direkt in TAM hoch (dabei kann es sich um eine Liste handeln, die Sie aus Ihrem CRM exportiert haben).
+* [CRM-Konten identifizieren](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts){target="_blank"} - Eine Liste aller mit Marketo synchronisierten CRM-Konten anzeigen und mithilfe von Schlüsselattributen (d. h. der Branche) filtern, um benannte Konten zu erstellen
+* [Marketo-Unternehmen entdecken](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-marketo-companies){target="_blank"} - Zeigen Sie eine Liste von Unternehmen aus anderen Quellen als Ihrem CRM an und filtern Sie mithilfe von Schlüsselattributen, um benannte Konten zu erstellen.
+* [Benanntes Konto manuell erstellen](/help/marketo/product-docs/target-account-management/target/named-accounts/create-a-named-account.md){target="_blank"} - Wenn Sie ein benanntes Konto manuell erstellen, besteht der nächste Schritt darin, [es manuell mit Personen auszufüllen](/help/marketo/product-docs/target-account-management/target/named-accounts/add-people-to-a-named-account.md){target="_blank"}
 
-**OPTIONALER SCHRITT: [Erstellen und Einrichten von Kontolisten](/help/marketo/product-docs/target-account-management/target/account-lists.md#create-a-new-account-list){target="_blank"}** - Gruppieren Sie Konten in Listen, um spezifische Konten nach Branche, Standort oder Größe des Unternehmens auszuwählen.
+**OPTIONALER SCHRITT: [Kontolisten erstellen und einrichten](/help/marketo/product-docs/target-account-management/target/account-lists.md#create-a-new-account-list){target="_blank"}** - Konten in Listen gruppieren, mit denen Sie benannte Konten nach Branche, Standort oder Größe des Unternehmens auswählen können.
 
-Nachdem Sie die obigen Schritte ausgeführt haben, können Sie mit TAM beginnen!
+Nachdem Sie die oben genannten Schritte ausgeführt haben, können Sie mit der Verwendung von TAM beginnen!
