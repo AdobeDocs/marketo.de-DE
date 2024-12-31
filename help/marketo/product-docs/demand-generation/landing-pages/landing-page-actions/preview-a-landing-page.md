@@ -17,13 +17,13 @@ Sie möchten wahrscheinlich sehen, wie Ihre Landingpage aussieht, bevor Sie sie 
 
 ## Vorschau einer Landingpage {#preview-a-landing-page-1}
 
-1. Wählen Sie eine Landingpage aus und klicken Sie auf **Vorschau der Seite anzeigen**.
+1. Wählen Sie eine Landingpage aus und klicken Sie auf **Vorschau der Seite**.
 
    ![](assets/image2014-9-16-16-3a21-3a10.png)
 
    >[!NOTE]
    >
-   >Der Entwurf ist die Version, an der Sie arbeiten, nicht die Live-Version, die Kunden sehen.
+   >Der Entwurf ist die Version, an der Sie arbeiten, nicht die Live-Version, die Kundinnen und Kunden sehen.
 
 1. Sie können auch mit der rechten Maustaste auf Ihre Landingpage klicken und **Vorschau** auswählen.
 
@@ -31,7 +31,7 @@ Sie möchten wahrscheinlich sehen, wie Ihre Landingpage aussieht, bevor Sie sie 
 
 ## Vorschau eines Landingpage-Entwurfs {#preview-a-landing-page-draft}
 
-1. Klicken Sie mit der rechten Maustaste auf eine genehmigte Landingpage mit Entwurfsversion und klicken Sie auf **Vorschau des Entwurfs anzeigen**.
+1. Klicken Sie mit der rechten Maustaste auf eine genehmigte Landingpage mit einer Entwurfsversion und klicken Sie auf **Vorschau des Entwurfs**.
 
    ![](assets/image2014-9-17-10-3a9-3a56.png)
 
@@ -41,12 +41,12 @@ Sie möchten wahrscheinlich sehen, wie Ihre Landingpage aussieht, bevor Sie sie 
 
    ![](assets/image2014-9-17-10-3a10-3a4.png)
 
-1. Sie können jederzeit während Ihrer Arbeit im Landingpage-Editor auf **Vorschau für Entwurf anzeigen** klicken.
+1. Sie können während Ihrer Arbeit im Landingpage-Editor jederzeit auf „Entwurf **&quot;**.
 
    ![](assets/image2015-5-21-15-3a48-3a59.png)
 
-1. Durch Klicken auf **Entwurf bearbeiten** können Sie schnell zur Bearbeitung zurückkehren.
+1. Sie können schnell zur Bearbeitung zurückkehren, indem Sie auf **Entwurf bearbeiten** klicken.
 
    ![](assets/image2014-9-17-10-3a10-3a20.png)
 
-Gut gemacht! Jetzt wissen Sie, wie Sie eine Vorschau der Landingpages anzeigen können.
+Gut gemacht! Jetzt wissen Sie, wie Sie eine Vorschau von Landingpages anzeigen.

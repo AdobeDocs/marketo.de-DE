@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359537
-description: Hinzufügen eines Snippets zu einer Landingpage - Marketo Docs - Produktdokumentation
+description: Hinzufügen eines Snippets zu einer Landingpage - Marketo-Dokumente - Produktdokumentation
 title: Hinzufügen eines Snippets zu einer Landingpage
 exl-id: 35290bef-cb6f-4477-995c-d4571712b866
 feature: Landing Pages
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Hinzufügen eines Snippets zu einer Landingpage {#add-a-snippet-to-a-landing-page}
 
-Snippets sind kleine Teile von HTML, die Regeln folgen und personalisierte Inhalte enthalten können.
+Snippets sind kleine HTML-Stücke, die Regeln folgen und personalisierte Inhalte enthalten können.
 
 >[!PREREQUISITES]
 >
@@ -23,7 +23,7 @@ Snippets sind kleine Teile von HTML, die Regeln folgen und personalisierte Inhal
 
    ![](assets/image2014-9-16-15-3a4-3a28.png)
 
-1. Ziehen Sie im Landingpage-Editor über das Element **Ausschnitt** .
+1. Ziehen Sie im Landingpage-Editor über das **Snippet**-Element.
 
    ![](assets/image2015-5-21-12-3a46-3a34.png)
 
@@ -33,10 +33,10 @@ Snippets sind kleine Teile von HTML, die Regeln folgen und personalisierte Inhal
 
    >[!TIP]
    >
-   >Wenn Sie Ihr Snippet nicht finden können, stellen Sie sicher, dass es zuerst genehmigt ist.
+   >Wenn Sie Ihren Code-Ausschnitt nicht finden können, stellen Sie sicher, dass er zuerst genehmigt wurde.
 
    >[!NOTE]
    >
    >Wenn Sie ein Snippet zu einer geführten Landingpage hinzufügen möchten, lesen Sie [diesen Artikel](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
 
-Fantastische Arbeit! Jetzt wissen Sie, wie Sie Ihren Landingpages Snippets hinzufügen.
+Tolle Arbeit! Jetzt wissen Sie, wie Sie Ihren Landingpages Snippets hinzufügen.

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7516478
-description: Vorlage 2D - Marketo Docs - Produktdokumentation
+description: Vorlage 2D - Marketo-Dokumente - Produktdokumentation
 title: Vorlage 2D
 exl-id: 365cc108-ed50-4229-b267-9688ed31056e
 feature: Landing Pages, Guided Landing Page Templates
@@ -13,20 +13,20 @@ ht-degree: 0%
 
 # Vorlage 2D {#template-2d}
 
-Klicken Sie mit der rechten Maustaste auf [Vorlage herunterladen 2D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html)
+Rechtsklick zum Herunterladen [Vorlage 2D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html)
 
 ![](assets/image2015-6-4-9-3a38-3a47.png)
 
 Diese Vorlage enthält den folgenden Inhalt:
 
-* Kopfzeile mit Logo und Schaltfläche (optional)
+* Eine Kopfzeile mit Logo und Schaltfläche (optional)
 * Ein primärer Abschnitt
 
-   * enthält Hero-Hintergrundbild, Kopfzeile, Tagline, Aufzählungsliste und Formular.
+   * Enthält Hero-Hintergrundbild, Kopfzeile, Slogan, Aufzählungsliste und Formular.
 
-* Ein Textabschnitt mit Text und Umfrage (optional)
+* Ein Hauptteil mit Text und Abfrage (optional)
 * Fußzeile (optional)
 
-**Klicken Sie mit der rechten Maustaste unten, um diese Vorlage herunterzuladen:**
+**Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
 [Vorlage 2D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html)

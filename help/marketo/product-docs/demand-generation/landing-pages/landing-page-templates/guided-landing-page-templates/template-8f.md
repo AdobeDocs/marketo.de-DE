@@ -1,7 +1,7 @@
 ---
 unique-page-id: 8783975
-description: Vorlage 8F - Marketo Docs - Produktdokumentation
-title: Vorlage 8F
+description: Vorlage 8f - Marketo-Dokumente - Produktdokumentation
+title: Vorlage 8f
 exl-id: aaabe488-80a8-4cc6-a76f-8e1845921bc9
 feature: Landing Pages, Guided Landing Page Templates
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
@@ -11,22 +11,22 @@ ht-degree: 0%
 
 ---
 
-# Vorlage 8F {#template-8f}
+# Vorlage 8f {#template-8f}
 
-Rechtsklicken Sie auf [Vorlage herunterladen 8F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8f.html) .
+Rechtsklick zum Herunterladen [Vorlage 8F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8f.html)
 
 ![](assets/image2015-7-29-14-3a45-3a45.png)
 
 Diese Vorlage enthält den folgenden Inhalt:
 
-* Kopfzeile (optional)
+* Eine Kopfzeile (optional)
 * Ein primärer Abschnitt
 
-   * enthält einen Helden-Header, Hero-Text und einen Gewinnspiel
+   * Enthält eine Hero-Kopfzeile, einen Hero-Text und einen Gewinneinsatz
 
-* Fünf Hauptabschnitte (optional)
-* Fußzeile (optional)
+* Fünf Hauptteilabschnitte (optional)
+* Eine Fußzeile (optional)
 
-**Klicken Sie mit der rechten Maustaste unten, um diese Vorlage herunterzuladen:**
+**Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
 [Vorlage 8F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8f.html)

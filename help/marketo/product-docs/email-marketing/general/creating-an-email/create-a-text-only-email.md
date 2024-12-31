@@ -1,7 +1,7 @@
 ---
 unique-page-id: 1900556
 description: Erstellen einer Nur-Text-E-Mail - Marketo-Dokumente - Produktdokumentation
-title: Erstellen einer E-Mail "Nur Text"
+title: Erstellen einer Nur-Text-E-Mail
 exl-id: ac0b43cb-4cef-4079-ad97-4ec6b92a2139
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,19 +11,19 @@ ht-degree: 0%
 
 ---
 
-# Erstellen einer E-Mail &quot;Nur Text&quot; {#create-a-text-only-email}
+# Erstellen einer Nur-Text-E-Mail {#create-a-text-only-email}
 
-Wenn Sie nur Text-E-Mails versenden möchten, können Sie hier eine E-Mail erstellen, die ohne HTML-Inhalt ausgeht.
+Wenn Sie jemals nur Text-E-Mails senden möchten, finden Sie hier eine E-Mail, die ohne HTML-Inhalt gesendet wird.
 
 >[!NOTE]
 >
->Da Öffnungen vom Empfänger nachverfolgt werden, der die Bilder der E-Mail herunterlädt (die ein unsichtbares Tracking-Pixel enthalten), können Öffnungen für E-Mails vom Typ &quot;Nur Text&quot; **nicht** verfolgt werden.
+>Da Öffnungen von dem Empfänger verfolgt werden, der die Bilder der E-Mail herunterlädt (die ein unsichtbares Tracking-Pixel enthalten), können Öffnungen **nicht** für Nur-Text-E-Mails verfolgt werden.
 
-1. Wechseln Sie zum Bereich **Marketingaktivitäten** .
+1. Navigieren Sie zum Bereich **Marketing** Aktivitäten.
 
    ![](assets/one-1.png)
 
-1. Wählen Sie Ihr Programm aus, klicken Sie auf die Dropdownliste **Neu** und wählen Sie **Neues lokales Asset** aus.
+1. Wählen Sie Ihr Programm aus, klicken Sie auf **Neu** und wählen Sie **Neues lokales Asset**.
 
    ![](assets/two-1.png)
 
@@ -45,19 +45,19 @@ Wenn Sie nur Text-E-Mails versenden möchten, können Sie hier eine E-Mail erste
 
    >[!CAUTION]
    >
-   >Links werden nicht automatisch in nur Text-E-Mails verfolgt. Erfahren Sie, wie Sie [Getrackte Links zu einer Text-E-Mail hinzufügen](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md).
+   >Links werden nicht automatisch in Nur-Text-E-Mails nachverfolgt. Siehe „Hinzufügen [ getrackten Links zu einer Text-E-Mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md).
 
    >[!TIP]
    >
    >Sie können auch eine vorhandene E-Mail bearbeiten und diese Einstellung ändern. Vergiss nicht, den Entwurf zu genehmigen.
 
-1. Deaktivieren Sie das Kontrollkästchen **Automatisch von HTML** kopieren .
+1. Deaktivieren Sie das Kontrollkästchen **Automatisch vom HTML kopieren**.
 
    ![](assets/seven.png)
 
    >[!NOTE]
    >
-   >Alle Inhalte, die zum HTML-Bereich der E-Mail hinzugefügt werden, werden beim Versand ignoriert.
+   >Alle Inhalte, die zum Abschnitt HTML der E-Mail hinzugefügt wurden, werden beim Versand ignoriert.
 
 1. Doppelklicken Sie auf den Textbereich.
 
@@ -67,4 +67,4 @@ Wenn Sie nur Text-E-Mails versenden möchten, können Sie hier eine E-Mail erste
 
    ![](assets/nine.png)
 
-So einfach ist es.
+So einfach ist das.

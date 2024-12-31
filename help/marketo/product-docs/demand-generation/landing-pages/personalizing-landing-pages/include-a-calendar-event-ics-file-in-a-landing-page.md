@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2359540
-description: Kalenderereignis-ICS-Datei in eine Landingpage einschließen - Marketo-Dokumente - Produktdokumentation
-title: Kalenderereignis-ICS-Datei in eine Landingpage einschließen
+description: Einbinden einer ICS-Datei für Kalenderereignisse in eine Landingpage - Marketo-Dokumente - Produktdokumentation
+title: Einbinden einer ICS-Datei für Kalenderereignisse in eine Landingpage
 exl-id: 3975f5ba-f514-4708-b51e-bc20d1eed6b4
 feature: Landing Pages
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,19 +11,19 @@ ht-degree: 1%
 
 ---
 
-# Kalenderereignis-ICS-Datei in eine Landingpage einschließen {#include-a-calendar-event-ics-file-in-a-landing-page}
+# Einbinden einer ICS-Datei für Kalenderereignisse in eine Landingpage {#include-a-calendar-event-ics-file-in-a-landing-page}
 
-Mit dem Token **Kalenderdatei** können Sie einen Kalenderereignis-Link (.ics) zu Ihren Marketo-Landingpages hinzufügen.
+Mit **Token &quot;**&quot; können Sie einen Kalenderereignis-Link (.ics) zu Ihren Marketo-Landingpages hinzufügen.
 
 >[!PREREQUISITES]
 >
->* [Erstellen einer Kalenderereignis-Datei (.ics)](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
+>* [Erstellen einer Kalenderereignisdatei (.ics)](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
 
-1. Klicken Sie in Ihrem Landingpage-Editor auf **{..}** , um ein Token einzufügen.
+1. Klicken Sie im Landingpage-Editor auf **{…}**, um ein Token einzufügen.
 
    ![](assets/image2015-7-8-17-3a51-3a29.png)
 
-1. Wählen Sie das Token **Kalenderdatei** aus und klicken Sie auf **Einfügen**.
+1. Wählen Sie das Token **Kalenderdatei** und klicken Sie auf **Einfügen**.
 
    >[!CAUTION]
    >
@@ -35,11 +35,11 @@ Mit dem Token **Kalenderdatei** können Sie einen Kalenderereignis-Link (.ics) z
 
 1. Klicken Sie auf **Speichern**.
 
-   Personen sehen eine Landingpage, die wie folgt aussieht:
+   Personen wird eine Landingpage angezeigt, die wie folgt aussieht:
 
    ![](assets/image2015-1-6-16-3a42-3a51.png)
 
-Süß! Jetzt sollte alles gut funktionieren. Testen Sie unbedingt.
+Süß! Alles sollte jetzt gut funktionieren. Stellen Sie sicher, zu testen.
 
 >[!MORELIKETHIS]
 >

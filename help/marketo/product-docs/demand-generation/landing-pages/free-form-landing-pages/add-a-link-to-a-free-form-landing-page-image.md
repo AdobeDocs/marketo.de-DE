@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2359736
-description: Einen Link zu einem Freiform-Landingpage-Bild hinzufügen - Marketo Docs - Produktdokumentation
-title: Link zu einem Freiform-Landingpage-Bild hinzufügen
+description: Hinzufügen eines Links zu einem Freiform-Landingpage-Bild - Marketo-Dokumente - Produktdokumentation
+title: Hinzufügen eines Links zu einem Freiform-Landingpage-Bild
 exl-id: 74560863-b135-4e0e-b84d-9462aacbb902
 feature: Landing Pages
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,7 +11,7 @@ ht-degree: 2%
 
 ---
 
-# Link zu einem Freiform-Landingpage-Bild hinzufügen {#add-a-link-to-a-free-form-landing-page-image}
+# Hinzufügen eines Links zu einem Freiform-Landingpage-Bild {#add-a-link-to-a-free-form-landing-page-image}
 
 >[!PREREQUISITES]
 >
@@ -19,13 +19,13 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->Dies gilt nur für freie Landingpages.
+>Dies gilt nur für Freiform-Landingpages.
 
-1. Wählen Sie das Bild aus, das Sie Ihrer Landingpage hinzugefügt haben, und erweitern Sie das **Eigenschaftenblatt**.
+1. Wählen Sie das Bild aus, das Sie Ihrer Landingpage hinzugefügt haben, und erweitern Sie das **Eigenschaftenblatt“**
 
    ![](assets/image2014-9-18-15-3a29-3a0.png)
 
-1. Geben Sie Ihren Mailto-Link in die **Link-URL** ein.
+1. Geben Sie Ihren mailto-Link in die **Link-URL ein**
 
    ![](assets/image2014-9-18-15-3a29-3a21.png)
 

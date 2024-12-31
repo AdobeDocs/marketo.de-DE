@@ -1,7 +1,7 @@
 ---
 unique-page-id: 9438206
-description: Vorlage 18A - Marketo Docs - Produktdokumentation
-title: Vorlage 18A
+description: Vorlage 18a - Marketo-Dokumente - Produktdokumentation
+title: Meldebogen 18a
 exl-id: fe3008b5-cef3-4b9e-a0a1-7e596d855a8f
 feature: Landing Pages, Guided Landing Page Templates
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
@@ -11,22 +11,22 @@ ht-degree: 0%
 
 ---
 
-# Vorlage 18A {#template-18a}
+# Meldebogen 18a {#template-18a}
 
-Rechtsklicken Sie auf [Vorlage 18A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18a.html) herunterladen
+Klicken Sie mit der rechten Maustaste, um [Vorlage 18A herunterzuladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18a.html)
 
 ![](assets/image2015-8-17-17-3a57-3a23.png)
 
 Diese Vorlage enthält den folgenden Inhalt:
 
-* Kopfzeile (optional)
+* Eine Kopfzeile (optional)
 * Ein primärer Abschnitt
 
-   * enthält Hero-Text und zwei Schaltflächen
+   * Enthält Hero-Text und zwei Schaltflächen
 
-* Fünf Hauptabschnitte (optional)
+* Fünf Hauptteilabschnitte (optional)
 * Fußzeile (optional)
 
-**Klicken Sie mit der rechten Maustaste unten, um diese Vorlage herunterzuladen:**
+**Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
-[Vorlage 18A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18a.html)
+[template 18a.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18a.html)

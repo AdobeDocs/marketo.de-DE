@@ -1,7 +1,7 @@
 ---
 unique-page-id: 9437837
-description: Vorlage 16B - Marketo Docs - Produktdokumentation
-title: Vorlage 16B
+description: Vorlage 16b - Marketo-Dokumente - Produktdokumentation
+title: Meldebogen 16b
 exl-id: 99bdd484-e2c2-412d-b309-1681d27025e1
 feature: Landing Pages, Guided Landing Page Templates
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
@@ -11,21 +11,21 @@ ht-degree: 0%
 
 ---
 
-# Vorlage 16B {#template-16b}
+# Meldebogen 16b {#template-16b}
 
-Rechtsklicken Sie auf [Vorlage 16B herunterladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16b.html) .
+Klicken Sie mit der rechten Maustaste, um [Vorlage 16B herunterzuladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16b.html)
 
 ![](assets/image2015-8-14-11-3a2-3a51.png)
 
 Diese Vorlage enthält den folgenden Inhalt:
 
-* Kopfzeile (optional)
+* Eine Kopfzeile (optional)
 * Ein primärer Abschnitt
 
    * Enthält Hero-Titel und Video
 
-* Sechs Hauptabschnitte
+* Sechs Karosserieabschnitte
 
-**Klicken Sie mit der rechten Maustaste unten, um diese Vorlage herunterzuladen:**
+**Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
 [Vorlage 16B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16b.html)

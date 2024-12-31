@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Hinzufügen eines Bildes zu einer geführten Landingpage {#add-an-image-to-a-guided-landing-page}
 
-Im Gegensatz zu Landingpages mit Freiform-Landingpages verfügen geführte Landingpages über vordefinierte, gesperrte Bereiche, in denen Sie Bilder hinzufügen.
+Im Gegensatz zu den Freiform-Landingpages verfügen geführte Landingpages über vordefinierte, gesperrte Bereiche, in denen Sie Bilder hinzufügen.
 
-1. Wählen Sie eine geführte Landingpage aus. Klicken Sie auf **Entwurf bearbeiten**.
+1. Auswahl einer geführten Landingpage. Klicken Sie **Entwurf bearbeiten**.
 
    ![](assets/image2015-5-19-14-3a1-3a26.png)
 
-1. Klicken Sie auf das Bild, das Sie bearbeiten möchten. Der Platzhalter für Elemente wird auf der Arbeitsfläche der Landingpage angezeigt.
+1. Klicken Sie auf das Bild, das Sie bearbeiten möchten. Der Platzhalter für das Element wird auf der Arbeitsfläche der Landingpage aufleuchten.
 
    ![](assets/image2015-5-19-14-3a4-3a29.png)
 
@@ -27,11 +27,11 @@ Im Gegensatz zu Landingpages mit Freiform-Landingpages verfügen geführte Landi
 
    ![](assets/image2015-5-20-10-3a37-3a33.png)
 
-1. Der Inhalt wird im Elementplatzierungsinhaber angezeigt.
+1. Der Inhalt wird im Platzhalter des Elements angezeigt.
 
    >[!NOTE]
    >
-   >Die Größe des Bildes hängt von der Vorlage ab. Erfahren Sie mehr über [Geführte Landingpage-Vorlagen](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
+   >Wie die Bildgröße geändert wird, hängt von der Vorlage ab. Weitere Informationen zu [Geführte Landingpage-Vorlagen](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
 
    ![](assets/image2015-5-20-10-3a39-3a34.png)
 

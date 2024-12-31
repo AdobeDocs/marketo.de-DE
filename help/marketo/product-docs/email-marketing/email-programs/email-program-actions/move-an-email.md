@@ -13,28 +13,28 @@ ht-degree: 0%
 
 # Verschieben einer E-Mail {#move-an-email}
 
-Sie müssen eine E-Mail von einem Programm in ein anderes verschieben? So geht es.
+Sie möchten eine E-Mail von einem Programm in ein anderes verschieben? So geht&#39;s.
 
-1. Wechseln Sie zu **Marketingaktivitäten**.
+1. Navigieren Sie **Marketing-Aktivitäten**.
 
    ![](assets/move-an-email-1.png)
 
-1. Suchen Sie die E-Mail, die Sie verschieben möchten, klicken Sie mit der rechten Maustaste darauf und wählen Sie **Verschieben** aus.
+1. Suchen Sie die zu verschiebende E-Mail, klicken Sie mit der rechten Maustaste darauf und wählen Sie **Verschieben**.
 
    ![](assets/move-an-email-2.png)
 
-1. Wählen Sie den Ordner **Ziel**, **Programm** und optional **Ordner** aus. Wählen Sie **Verschieben** aus.
+1. Wählen Sie **Ziel**, **Programm** und optional **Ordner** aus. Wählen Sie **Verschieben** aus.
 
    ![](assets/move-an-email-3.png)
 
    >[!NOTE]
    >
-   >In diesem Beispiel verschieben wir eine E-Mail in ein anderes Programm, aber Sie können auch eine E-Mail in einen Ordner in Design Studio verschieben.
+   >In diesem Beispiel verschieben wir eine E-Mail in ein anderes Programm, aber Sie können eine E-Mail auch in einen Ordner im Design Studio verschieben.
 
-   Sie werden sehen, dass Ihre E-Mail jetzt im anderen Programm lebt.
+   Ihre E-Mail wird jetzt im anderen Programm angezeigt.
 
    ![](assets/move-an-email-4.png)
 
    >[!NOTE]
    >
-   >Sie können Ihre E-Mail auch einfach per Drag &amp; Drop an ein neues Ziel im Baum verschieben.
+   >Sie können Ihre E-Mail auch einfach per Drag-and-Drop an ein neues Ziel innerhalb der Baumstruktur ziehen.

@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2359798
-description: Zusätzliche CNAMEs der Einstiegsseite hinzufügen - Marketo-Dokumente - Produktdokumentation
-title: Zusätzliche CNAMEs der Einstiegsseite hinzufügen
+description: Hinzufügen zusätzlicher Landingpage-CNAMEs - Marketo-Dokumente - Produktdokumentation
+title: Hinzufügen zusätzlicher Landingpage-CNAMEs
 exl-id: eb5a7f69-552e-49a2-91db-a784f4639cd0
 feature: Landing Pages
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,37 +11,37 @@ ht-degree: 0%
 
 ---
 
-# Zusätzliche CNAMEs der Einstiegsseite hinzufügen {#add-additional-landing-page-cnames}
+# Hinzufügen zusätzlicher Landingpage-CNAMEs {#add-additional-landing-page-cnames}
 
-Möglicherweise möchten Sie Landingpage-CNAMEs hinzufügen, damit unterschiedliche URLs auf Ihre Marketo-Landingpages verweisen können. Die folgenden Schritte helfen Ihnen bei der Verwaltung mehrerer Domänen.
+Sie können CNAMEs für Landingpages hinzufügen, damit verschiedene URLs auf Ihre Marketo-Landingpages verweisen können. Die folgenden Schritte helfen Ihnen bei der Verwaltung mehrerer Domains.
 
 >[!CAUTION]
 >
->Cookies können nicht domänenübergreifend verwendet werden.
+>Cookies können nicht domänenübergreifend freigegeben werden.
 
 >[!TIP]
 >
->**Dieselbe Domäne auf oberster Ebene - Gut! Cookies werden freigegeben**.<br/> **go**.mycompany.com > **info**.mycompany.com
+>**Gleiche Top-Level-Domain - Gut! Cookies werden freigegeben**.<br/> **go**.mycompany.com > **info**.mycompany.com
 >
->**Verschiedene Top-Level-Domänen - Schlecht! Cookies sind _nicht_ freigegeben**.<br/> los.**mycompany**.com > go.**mynewcompany**.com
+>**Verschiedene Domains auf oberster Ebene - Schlecht! Cookies werden _nicht_ freigegeben**.<br/> los.**mycompany**.com > GO.**mynewcompany**.com
 
 >[!NOTE]
 >
->**Erforderliche Administratorberechtigungen**
+>**Administratorberechtigungen erforderlich**
 
-1. Wechseln Sie zum Bereich **Admin** .
+1. Navigieren Sie zum Bereich **Admin**.
 
    ![](assets/add-additional-landing-page-cnames-1.png)
 
-1. Klicken Sie auf **Mein Konto**.
+1. Klicken Sie **Mein Konto**.
 
    ![](assets/add-additional-landing-page-cnames-2.png)
 
-1. Scrollen Sie nach unten zu &quot;Support-Informationen&quot;und kopieren Sie Ihre Munchkin-ID.
+1. Scrollen Sie nach unten zu „Support-Informationen“ und kopieren Sie Ihre Munchkin ID.
 
    ![](assets/add-additional-landing-page-cnames-3.png)
 
-## Anfrage an IT senden {#send-request-to-it}
+## Anforderung an IT senden {#send-request-to-it}
 
 1. Bitten Sie Ihre IT-Abteilung, den folgenden CNAME einzurichten: (Ersetzen Sie das Wort [CNAME] durch den CNAME Ihrer Wahl und [Munchkin ID] durch den Text aus dem vorherigen Schritt).
 
@@ -49,7 +49,7 @@ Möglicherweise möchten Sie Landingpage-CNAMEs hinzufügen, damit unterschiedli
 
 ## Neuen CNAME hinzufügen {#add-a-new-cname}
 
-1. Nachdem Ihre IT-Abteilung den CNAME erstellt hat, wechseln Sie zum Bereich **Admin** .
+1. Sobald Ihre IT-Abteilung den CNAME erstellt hat, wechseln Sie zum Bereich **Admin**.
 
    ![](assets/add-additional-landing-page-cnames-4.png)
 
@@ -57,11 +57,11 @@ Möglicherweise möchten Sie Landingpage-CNAMEs hinzufügen, damit unterschiedli
 
    ![](assets/add-additional-landing-page-cnames-5.png)
 
-1. Klicken Sie auf **Neu** und wählen Sie dann **Neuer Domänenname** aus.
+1. Klicken Sie auf **Neu** und wählen Sie **Neuer Domain-Alias**.
 
    ![](assets/add-additional-landing-page-cnames-6.png)
 
-1. Geben Sie Ihren **Domänennamen-Alias ein.** Die **Standardseite** wird angezeigt, wenn der Besucher keine URL eingibt. Geben Sie an, wohin der Benutzer in diesem Fall wechseln sollte.
+1. Geben Sie Ihren **Domain-Alias“ ein.** Die **Standardseite** wird angezeigt, wenn der Besucher keine URL eingibt. Geben Sie an, wohin sie in diesem Fall gehen sollen.
 
    >[!NOTE]
    >
@@ -73,4 +73,4 @@ Möglicherweise möchten Sie Landingpage-CNAMEs hinzufügen, damit unterschiedli
 
    ![](assets/add-additional-landing-page-cnames-8.png)
 
-Gut! Jetzt wissen Sie, was zu tun ist, wenn Sie jemals einen CNAME hinzufügen möchten.
+Schön! Jetzt wissen Sie, was zu tun ist, wenn Sie jemals einen CNAME hinzufügen möchten.

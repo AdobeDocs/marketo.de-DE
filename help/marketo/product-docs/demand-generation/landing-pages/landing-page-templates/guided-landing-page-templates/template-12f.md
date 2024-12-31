@@ -1,7 +1,7 @@
 ---
 unique-page-id: 9437589
-description: Vorlage 12F - Marketo Docs - Produktdokumentation
-title: Vorlage 12F
+description: Vorlage 12f - Marketo-Dokumente - Produktdokumentation
+title: Meldebogen 12f
 exl-id: 397f5942-70ec-47f4-bfe6-9c6944ed1a3f
 feature: Landing Pages, Guided Landing Page Templates
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
@@ -11,22 +11,22 @@ ht-degree: 0%
 
 ---
 
-# Vorlage 12F {#template-12f}
+# Meldebogen 12f {#template-12f}
 
-Rechtsklicken Sie auf [Vorlage 12F herunterladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12f.html) .
+Rechtsklick zum Herunterladen [Vorlage 12F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12f.html)
 
 ![](assets/image2015-8-4-14-3a51-3a6.png)
 
 Diese Vorlage enthält den folgenden Inhalt:
 
-* Kopfzeile (optional)
+* Eine Kopfzeile (optional)
 * Ein primärer Abschnitt
 
-   * enthält Herd-Bild und Link Weitere Informationen
+   * enthält Hero-Bild und Link „Mehr erfahren“
 
-* Sechs Hauptteilabschnitte (optional)
+* Sechs Karosserieabschnitte (optional)
 * Fußzeile (optional)
 
-**Klicken Sie mit der rechten Maustaste unten, um diese Vorlage herunterzuladen:**
+**Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
 [Vorlage 12F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12f.html)

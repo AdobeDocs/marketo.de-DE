@@ -1,6 +1,6 @@
 ---
 unique-page-id: 9438200
-description: Vorlage 17-D - Marketo Docs - Produktdokumentation
+description: Vorlage 17-D - Marketo-Dokumente - Produktdokumentation
 title: Vorlage 17-D
 exl-id: 32ee7caa-3053-4375-9267-c25337f83901
 feature: Landing Pages, Guided Landing Page Templates
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Vorlage 17-D {#template-17d}
 
-Rechtsklicken Sie auf [Vorlage 17-D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17d.html) herunterladen
+Rechtsklick zum Herunterladen [Vorlage 17-D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17d.html)
 
 ![](assets/image2015-8-17-17-3a22-3a19.png)
 
@@ -21,11 +21,11 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 * Ein primärer Abschnitt
 
-   * enthält Hero-Titel, Hero-Text und Preisausschreiben
+   * Enthält Hero-Titel, Hero-Text und Gewinnspiele
 
-* Sechs Hauptteilabschnitte (optional)
+* Sechs Karosserieabschnitte (optional)
 * Fußzeile (optional)
 
-**Klicken Sie mit der rechten Maustaste unten, um diese Vorlage herunterzuladen:**
+**Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
-[Vorlage 17-D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17d.html)
+[Vorlage 17-d.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17d.html)

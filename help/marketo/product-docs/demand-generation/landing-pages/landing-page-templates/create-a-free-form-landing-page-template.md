@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10097969
-description: Erstellen einer Freiform-Landingpage-Vorlage - Marketo Docs - Produktdokumentation
+description: Erstellen einer Freiform-Landingpage-Vorlage - Marketo-Dokumente - Produktdokumentation
 title: Erstellen einer Freiform-Landingpage-Vorlage
 exl-id: bf633c86-6087-44bf-aaa2-63173154f0aa
 feature: Landing Pages
@@ -13,41 +13,41 @@ ht-degree: 0%
 
 # Erstellen einer Freiform-Landingpage-Vorlage {#create-a-free-form-landing-page-template}
 
-Landingpages mit Freiform erfordern weniger technische Kenntnisse als ihre geführten Kollegen. Gehen Sie wie folgt vor, um eine Vorlage für künftige Landingpages zu erstellen.
+Freiform-Landingpages erfordern weniger technisches Wissen als deren geführte Gegenstücke. Gehen Sie wie folgt vor, um eine Vorlage für zukünftige Landingpages zu erstellen.
 
 1. Wechseln Sie zu **Design Studio**.
 
    ![](assets/one.png)
 
-1. Klicken Sie auf **Neu** und wählen Sie dann **Neue Einstiegsseitenvorlage** aus.
+1. Klicken Sie **Neu** und wählen Sie **Neue Landingpage-Vorlage**.
 
    ![](assets/two.png)
 
-1. Wählen Sie den Ordner aus und geben Sie Ihrer Vorlage einen Namen. &quot;Freiform&quot;ist der standardmäßige Bearbeitungsmodus. Klicken Sie nach dem Namen Ihrer Vorlage auf **Erstellen**.
+1. Wählen Sie Ihren Ordner aus und geben Sie Ihrer Vorlage einen Namen. Der Standardbearbeitungsmodus ist Freiform. Nachdem Sie Ihre Vorlage benannt haben, klicken Sie auf **Erstellen**.
 
    ![](assets/three.png)
 
-1. Ihre Vorlage sollte in einer neuen Registerkarte geöffnet werden. Es ist jetzt für jeden, der mit CSS/HTML vertraut ist, bearbeitbar.
+1. Ihre Vorlage sollte auf einer neuen Registerkarte geöffnet werden. Sie kann jetzt von jedem bearbeitet werden, der mit CSS/HTML vertraut ist.
 
    ![](assets/four.png)
 
    >[!NOTE]
    >
-   >Der Marketo-Support ist nicht für die Fehlerbehebung bei benutzerdefiniertem HTML eingerichtet. Wenden Sie sich an einen Web-Entwickler, um Hilfe beim HTML zu erhalten.
+   >Der Marketo-Support ist nicht für die Fehlerbehebung beim benutzerdefinierten HTML eingerichtet. Wenn Sie Hilfe beim HTML benötigen, wenden Sie sich bitte an einen Web-Entwickler.
 
-1. Klicken Sie nach Abschluss der Bearbeitung auf **Vorlagenaktionen** und wählen Sie dann **Genehmigen und schließen**.
+1. Wenn Sie Ihre Änderungen vorgenommen haben, klicken Sie auf **Vorlagenaktionen** und wählen Sie dann **Genehmigen und schließen**.
 
    ![](assets/five.png)
 
-   Sie haben jetzt eine neue Vorlage für die freie Landingpage!
+   Sie haben jetzt eine neue Freiform-Landingpage-Vorlage!
 
    >[!NOTE]
    >
-   >Wählen Sie &quot;**Munchkin-Verfolgung deaktivieren**&quot;, wenn Sie verhindern möchten, dass Formulare vorab ausgefüllt werden, oder Sie möchten einfach nicht das Webverhalten auf einer bestimmten Seite verfolgen.\
-   >Wählen Sie **Mobilkompatibilität überprüfen** aus, um sicherzustellen, dass Ihr Code mit Mobilgeräten kompatibel ist.
+   >Wählen Sie **Munchkin-Tracking deaktivieren** aus, wenn Sie verhindern möchten, dass Formulare vorab ausgefüllt werden, oder wenn Sie nur das Webverhalten auf einer bestimmten Seite nicht verfolgen möchten.\
+   >Wählen Sie **Kompatibilität für Mobilgeräte überprüfen**, um sicherzustellen, dass Ihr Code mit Mobilgeräten kompatibel ist.
 
    >[!MORELIKETHIS]
    >
    >* [Erstellen einer Freiform-Landingpage](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
    >* [Erstellen einer geführten Landingpage-Vorlage](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)
-   >* [Grundlegendes zu Freiform- und geführten Landingpages](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md)
+   >* [Grundlegendes zu Freiform und geführten Landingpages](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md)

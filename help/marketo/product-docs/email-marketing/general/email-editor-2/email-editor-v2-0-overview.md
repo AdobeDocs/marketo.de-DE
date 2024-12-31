@@ -13,79 +13,79 @@ ht-degree: 0%
 
 # Übersicht über Email Editor v2.0 {#email-editor-v2-overview}
 
-Wenn Sie den E-Mail-Editor v2.0 aktivieren, werden Ihnen einige neue Funktionen angezeigt.
+Wenn Sie sich für die Aktivierung des E-Mail-Editors 2.0 entscheiden, werden Sie mehrere neue Funktionen feststellen.
 
 **Auswahl der E-Mail-Vorlagen**
 
-Wenn Sie eine neue E-Mail erstellen, gelangen Sie zum [E-Mail-Vorlagenwähler](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md).
+Wenn Sie eine neue E-Mail erstellen, gelangen Sie zur [E-Mail-Vorlagenauswahl](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md).
 
 ![](assets/email-editor-v2-overview-1.png)
 
-**E-Mail-Editor**
+**Email Editor**
 
-Wenn Sie mit der Bearbeitung Ihrer E-Mail beginnen, werden Sie feststellen, dass der Editor einen völlig neuen Look hat.
+Wenn Sie mit der Bearbeitung Ihrer E-Mail beginnen, werden Sie feststellen, dass der Editor ein völlig neues Aussehen hat.
 
 ![](assets/email-editor-v2-overview-2.png)
 
 **Module**
 
-Diese Elemente auf der rechten Seite des Editors werden als Module bezeichnet. Erfahren Sie, wie Sie [Ihrer E-Mail Module hinzufügen](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md).
+Diese Dinge auf der rechten Seite des Editors werden Module genannt. Erfahren Sie, wie Sie [Module zu Ihrer E-Mail hinzufügen](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md).
 
 ![](assets/email-editor-v2-overview-3.png)
 
 **Textversion**
 
-Der Wechsel zwischen der HTML-Version und der Textversion Ihrer E-Mail ist jetzt in einem praktischen Tab am unteren Rand möglich. Erfahren Sie, wie Sie [die Textversion einer E-Mail bearbeiten](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md).
+Der Wechsel zwischen der HTML- und der Textversion Ihrer E-Mail erfolgt jetzt auf einer praktischen Registerkarte am unteren Rand. Erfahren Sie, wie [ die Textversion einer E-Mail bearbeiten ](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md).
 
 ![](assets/email-editor-v2-overview-4.png)
 
-**E-Mail-Header**
+**E-Mail-Kopfzeile**
 
-Möchten Sie mehr Design-Raum? Der E-Mail-Header kann ausgeblendet werden, nachdem Sie [ihn bearbeitet haben](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md). Klicken Sie einfach auf dieses Symbol...
+Möchten Sie mehr Platz im Design? Die E-Mail-Kopfzeile kann ausgeblendet werden, nachdem Sie fertig sind [sie bearbeiten](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md). Klicken Sie einfach auf dieses Symbol…
 
 ![](assets/email-editor-v2-overview-5.png)
 
-... und die Kopfzeile wird reduziert.
+…und die Kopfzeile wird reduziert.
 
 ![](assets/email-editor-v2-overview-6.png)
 
-**Vorschau Ihrer E-Mail anzeigen**
+**Vorschau Ihrer E-Mail**
 
-Standardmäßig zeigt die E-Mail an, wie sie auf einem Desktop aussehen würde, wie durch das hervorgehobene blaue Symbol angegeben. Wenn Sie auf das Symbol rechts klicken...
+Standardmäßig zeigt die E-Mail an, wie sie auf einem Desktop aussehen würde, wie durch das hervorgehobene blaue Symbol gekennzeichnet. Wenn Sie auf das Symbol rechts daneben klicken…
 
 ![](assets/email-editor-v2-overview-7.png)
 
-... sehen Sie, wie Ihre E-Mail auf einem Mobilgerät dargestellt wird.
+…Sie sehen, wie Ihre E-Mail auf einem Mobilgerät gerendert wird.
 
 ![](assets/email-editor-v2-overview-8.png)
 
-Für eine größere Vorschau klicken Sie oben rechts in der E-Mail auf **Vorschau** .
+Um eine größere Vorschau anzuzeigen, klicken **oben** in der E-Mail auf „Vorschau“.
 
 ![](assets/email-editor-v2-overview-9.png)
 
-Die Standardansicht dort ist Desktop...
+Die Standardansicht dort ist Desktop…
 
 ![](assets/email-editor-v2-overview-10.png)
 
-...aber Sie können auch sehen, wie es auf einem Mobilgerät aussehen wird. Sie können auch eine Vorschau der Textversion anzeigen! Klicken Sie einfach oben rechts auf **Entwurf bearbeiten** , um die Bearbeitung fortzusetzen.
+…aber Sie können auch sehen, wie es auf einem Mobilgerät aussieht. Sie können auch eine Vorschau der Textversion anzeigen! Klicken Sie einfach **Entwurf bearbeiten** oben rechts, um mit der Bearbeitung fortzufahren.
 
 ![](assets/email-editor-v2-overview-11.png)
 
 **E-Mail-Aktionen**
 
-Unter **E-Mail-Aktionen** werden Sie einige neue Funktionen bemerken. **Laden Sie ein Bild oder eine Datei hoch** und **Bilder aus Web abrufen**. Sie können die E-Mail selbst auch als neue E-Mail-Vorlage speichern. Du musst nichts weiter tun, als ihm einen Namen und ein Ziel zu geben.
+Unter **E-Mail** Aktionen) werden Sie einige neue Funktionen bemerken. **Laden Sie ein Bild oder eine Datei hoch** und **erfassen Sie Bilder aus dem Web**. Sie können die E-Mail auch selbst als neue E-Mail-Vorlage speichern. Sie müssen ihm nur einen Namen und ein Ziel geben.
 
 ![](assets/email-editor-v2-overview-12.png)
 
 >[!CAUTION]
 >
->Beim Speichern einer E-Mail als Vorlage werden Variablenwerte nicht übernommen. Variablen verwenden weiterhin die in der zugrunde liegenden Vorlage angegebenen Standardwerte. Die in der E-Mail verfügbaren Module werden nur übertragen, wenn sie in den E-Mail-Textkörper eingefügt wurden.
+>Beim Speichern einer E-Mail als Vorlage werden die Variablenwerte nicht übernommen. Variablen verwenden weiterhin die in der zugrunde liegenden Vorlage angegebenen Standardwerte. Verfügbare Module in der E-Mail werden ebenfalls nur übernommen, wenn sie in den E-Mail-Textkörper eingefügt wurden.
 
 >[!NOTE]
 >
->**[Grab Images from Web](/help/marketo/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)** funktioniert genauso wie in Design Studio.
+>**[Bilder aus dem Web](/help/marketo/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)**, funktioniert genauso wie im Design Studio.
 
-**Deaktivieren Sie das Öffnungs-Tracking** unter **E-Mail-Einstellungen**. Sie können das Öffnungs-Tracking bei Bedarf deaktivieren.
+**Öffnungs-Tracking deaktivieren** Unter **E-Mail-Einstellungen** können Sie das Öffnungs-Tracking bei Bedarf deaktivieren.
 
 ![](assets/email-editor-v2-overview-13.png)
 
@@ -97,14 +97,14 @@ Sie haben die Möglichkeit, einen Preheader hinzuzufügen. Ein Preheader ist der
 
 >[!CAUTION]
 >
->Token funktionieren im Preheader nicht, wenn der E-Mail-Editor verwendet wird. Um ein Token im Preheader zu verwenden, muss es über Ihre eigene HTML in einer E-Mail-Vorlage sein.
+>Token funktionieren nicht im Preheader, wenn Sie den E-Mail-Editor verwenden. Um ein Token im Preheader zu verwenden, muss dies über Ihren eigenen HTML in einer E-Mail-Vorlage erfolgen.
 
-Viele tolle neue Features! Viel Spaß!
+Viele tolle neue Funktionen! Viel Spaß!
 
 >[!NOTE]
 >
->Wenn Sie noch tiefer gehen möchten, sehen Sie sich dieses [Video](https://nation.marketo.com/videos/1463) an.
+>Wenn Sie noch tiefer eintauchen möchten, sehen Sie sich dieses [Video](https://nation.marketo.com/videos/1463) an.
 
 >[!MORELIKETHIS]
 >
->[Syntax der E-Mail-Vorlage](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
+>[E-Mail-Vorlagensyntax](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)

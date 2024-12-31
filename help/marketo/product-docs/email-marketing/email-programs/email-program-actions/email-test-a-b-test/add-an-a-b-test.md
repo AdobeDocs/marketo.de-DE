@@ -18,35 +18,35 @@ ht-degree: 0%
 >* [E-Mail-Programm erstellen](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 >* [Definieren einer Zielgruppe mit einer Smart-Liste](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) oder [Definieren einer Zielgruppe durch Importieren einer Liste](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 >
->* [Wählen Sie eine vorhandene E-Mail aus](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) oder [Erstellen einer E-Mail für ein E-Mail-Programm](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>* [Wählen Sie eine vorhandene E](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)Mail aus oder [Erstellen einer E-Mail für ein E-Mail-Programm](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
-Mit Tests können Sie Ihre E-Mails für eine bessere Interaktion optimieren. So geht es los.
+Testen ist eine hervorragende Möglichkeit, Ihre E-Mails für eine bessere Interaktion zu optimieren. So geht&#39;s los.
 
-1. Wechseln Sie zu **Marketingaktivitäten**.
+1. Navigieren Sie **Marketing-Aktivitäten**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Wählen Sie Ihr E-Mail-Programm aus.
+1. Wählen Sie Ihr E-Mail-Programm.
 
    ![](assets/selectemailprogram.jpg)
 
-1. Klicken Sie unter der Kachel **E-Mail** auf **A/B-Test hinzufügen**.
+1. Klicken Sie unter **Kachel** E-Mail“ auf **A/B-Test hinzufügen**.
 
    ![](assets/image2014-9-12-14-3a39-3a29.png)
 
    >[!NOTE]
    >
-   >Beim Hinzufügen eines A/B-Tests ist die ausgewählte E-Mail nicht mehr für die Verwendung in einem anderen Programm verfügbar.
+   >Beim Hinzufügen eines A/B-Tests ist die ausgewählte E-Mail nicht mehr für die Verwendung in anderen Programmen verfügbar.
 
-1. Ein neues Fenster wird mit verschiedenen **Testtypen** geöffnet, aus denen Sie wählen können. Sehen Sie sich einen der folgenden verwandten Artikel an, um fortzufahren.
+1. Es öffnet sich ein neues Fenster mit verschiedenen **Testtypen** zur Auswahl. Entdecken Sie einen der folgenden verwandten Artikel, um fortzufahren.
 
    >[!CAUTION]
    >
-   >Wenn Sie doppelte Datensätze in Ihrer Datenbank haben, erhalten diese Datensätze **sowohl** die Test- als auch die Gewinner-E-Mails. Um dies zu verhindern, stellen Sie sicher, dass Sie [ doppelte Personen finden und zusammenführen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md) in Ihrer Datenbank.
+   >Wenn Sie doppelte Datensätze in Ihrer Datenbank haben, erhalten diese Datensätze **sowohl** Test- als auch Erfolgs-E-Mails. Um dies zu verhindern, stellen Sie sicher, [ Sie in Ihrer Datenbank doppelte Personen ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md) und zusammenführen.
 
 >[!MORELIKETHIS]
 >
->* [Verwenden der A/B-Tests mit &quot;Betreffzeile&quot;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-subject-line-a-b-testing.md)
->* [Verwenden des A/B-Tests &quot;Gesamte E-Mail&quot;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-whole-email-a-b-testing.md)
->* [A/B-Tests mit &quot;Von Adresse&quot;verwenden](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-from-address-a-b-testing.md)
->* [Verwenden Sie den A/B-Test &quot;Datum/Uhrzeit&quot;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-date-time-a-b-testing.md)
+>* [Verwenden Sie A/B-Tests der „Betreffzeile“](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-subject-line-a-b-testing.md)
+>* [A/B-Tests für die gesamte E-Mail verwenden](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-whole-email-a-b-testing.md)
+>* [A/B-Tests der Absenderadresse verwenden](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-from-address-a-b-testing.md)
+>* [Verwenden Sie A/B-Tests vom Typ „Datum/Uhrzeit“](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-date-time-a-b-testing.md)

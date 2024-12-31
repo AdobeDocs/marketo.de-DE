@@ -1,7 +1,7 @@
 ---
 unique-page-id: 9437846
-description: Vorlage 16-E - Marketo Docs - Produktdokumentation
-title: Vorlage 16-E
+description: Vorlage 16-E - Marketo-Dokumente - Produktdokumentation
+title: Meldebogen 16-E
 exl-id: 063cd16b-e697-4631-9c53-5bde216f9d98
 feature: Landing Pages, Guided Landing Page Templates
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
@@ -11,22 +11,22 @@ ht-degree: 0%
 
 ---
 
-# Vorlage 16-E {#template-16e}
+# Meldebogen 16-E {#template-16e}
 
-Rechtsklicken Sie auf [Vorlage 16-E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16e.html) herunterladen
+Klicken Sie mit der rechten Maustaste, um [Vorlage 16-E herunterzuladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16e.html)
 
 ![](assets/image2015-8-14-13-3a27-3a39.png)
 
 Diese Vorlage enthält den folgenden Inhalt:
 
-* Kopfzeile (optional)
+* Eine Kopfzeile (optional)
 * Ein primärer Abschnitt
 
-   * enthält Herd-Bild und Schaltfläche &quot;Mehr erfahren&quot;
+   * enthält Hero-Bild und Schaltfläche „Weitere Informationen“
 
-* Sechs Hauptteilabschnitte (optional)
+* Sechs Karosserieabschnitte (optional)
 * Fußzeile (optional)
 
-**Klicken Sie mit der rechten Maustaste unten, um diese Vorlage herunterzuladen:**
+**Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
 [Vorlage 16-E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16e.html)

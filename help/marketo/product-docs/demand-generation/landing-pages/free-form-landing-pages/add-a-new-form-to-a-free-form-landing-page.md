@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359705
-description: Hinzufügen eines neuen Formulars zu einer Freiform-Landingpage - Marketo Docs - Produktdokumentation
+description: Hinzufügen eines neuen Formulars zu einer Freiform-Landingpage - Marketo-Dokumente - Produktdokumentation
 title: Hinzufügen eines neuen Formulars zu einer Freiform-Landingpage
 exl-id: cfdcf4b1-5391-4eff-b4dd-ebeb6670a933
 feature: Landing Pages
@@ -13,14 +13,14 @@ ht-degree: 1%
 
 # Hinzufügen eines neuen Formulars zu einer Freiform-Landingpage {#add-a-new-form-to-a-free-form-landing-page}
 
-Formular, Landingpage kennenlernen. Landingpage, Formular erfüllen.
+Formular, Landingpage treffen. Landingpage, Formular treffen.
 
 >[!PREREQUISITES]
 >
 >* [Erstellen eines Formulars](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
 >* [Erstellen einer Freiform-Landingpage](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
 
-1. Wechseln Sie zu **Marketingaktivitäten**.
+1. Navigieren Sie **Marketing-Aktivitäten**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -28,30 +28,30 @@ Formular, Landingpage kennenlernen. Landingpage, Formular erfüllen.
 
    ![](assets/image2014-9-16-14-3a44-3a15.png)
 
-1. Ziehen Sie das Element **Formular** auf die Seite.
+1. Ziehen Sie das **Formular**-Element auf die Seite.
 
    ![](assets/image2015-5-21-15-3a43-3a30.png)
 
-1. Wählen Sie das Formular aus, das Sie hinzufügen möchten.
+1. Suchen Sie das Formular, das Sie hinzufügen möchten, und wählen Sie es aus.
 
    ![](assets/image2014-9-16-14-3a44-3a30.png)
 
-1. Sie haben bei der Auswahl Ihrer Nachverfolgungsseite drei Optionen:
+1. Bei der Auswahl Ihrer Folgenachricht stehen Ihnen drei Optionen zur Verfügung:
 
-   * **Landingpage** - zum Auswählen einer Marketo-Landingpage
-   * **Externe URL** - zur Auswahl einer beliebigen URL
-   * **Definiertes Formular** - zur Verwendung der auf Formularebene definierten Einstellungen
+   * **Landingpage** - zur Auswahl einer Marketo-Landingpage
+   * **Externe URL** - zum Auswählen einer beliebigen URL
+   * **Formular definiert** - zur Verwendung der auf Formularebene definierten Einstellungen
 
    >[!NOTE]
    >
    >**Definition**
    >
-   >Die Folgenachricht ist die Seite, die Benutzer sehen, nachdem sie das Formular gesendet haben.
+   >Die Folgeseite ist die Seite, die die Personen sehen, nachdem sie das Formular gesendet haben.
 
 1. Klicken Sie auf **Einfügen**.
 
    ![](assets/image2014-9-16-14-3a44-3a38.png)
 
-   Schön gemacht!
+   Gut gemacht!
 
-Schließen Sie einfach den Landingpage-Editor und [genehmigen Sie den Landingpage-Entwurf](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+Schließen Sie einfach den Landingpage-Editor und [ Sie den Landingpage-Entwurf ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).

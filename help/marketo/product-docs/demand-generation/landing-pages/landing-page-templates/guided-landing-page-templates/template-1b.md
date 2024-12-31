@@ -1,7 +1,7 @@
 ---
 unique-page-id: 7515886
-description: Vorlage 1B - Marketo Docs - Produktdokumentation
-title: Vorlage 1B
+description: Vorlage 1b - Marketo-Dokumente - Produktdokumentation
+title: Meldebogen 1b
 exl-id: b6085e44-b40c-4f09-a301-057179f5fe0b
 feature: Landing Pages, Guided Landing Page Templates
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
@@ -11,9 +11,9 @@ ht-degree: 0%
 
 ---
 
-# Vorlage 1B {#template-1b}
+# Meldebogen 1b {#template-1b}
 
-Rechtsklicken Sie auf [Vorlage 1B herunterladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1b.html) .
+Rechtsklick zum Herunterladen [Vorlage 1B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1b.html)
 
 ![](assets/image2015-5-28-13-3a6-3a5.png)
 
@@ -21,11 +21,11 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 * Ein primärer Abschnitt
 
-   * enthält Hero-Bild, Kopfzeile und Formular.
+   * Enthält Hero-Bild, Header und Formular.
 
 * Drei Hauptteilabschnitte (optional)
 * Fußzeile (optional)
 
-**Klicken Sie mit der rechten Maustaste unten, um diese Vorlage herunterzuladen:**
+**Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
 [Vorlage 1B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1b.html)

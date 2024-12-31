@@ -13,22 +13,22 @@ ht-degree: 0%
 
 # Bearbeiten einer Marketo-Landingpage-Vorlage {#edit-a-marketo-landing-page-template}
 
-Sie können jede Landingpage-Vorlage in Marketo bearbeiten.
+Sie können in Marketo jede Landingpage-Vorlage bearbeiten.
 
 1. Wechseln Sie zu **Design Studio**.
 
    ![](assets/designstudio.png)
 
-1. Erweitern Sie **Einstiegsseiten** , um die Vorlagen anzuzeigen.
+1. Erweitern Sie **Landingpages**, um die Vorlagen anzuzeigen.
 
    ![](assets/image2015-5-21-12-3a40-3a3.png)
 
-1. Wählen Sie die zu bearbeitende **Vorlage** aus. Klicken Sie auf **Entwurf bearbeiten**.
+1. Wählen Sie die **Vorlage** aus, die Sie bearbeiten möchten. Klicken Sie **Entwurf bearbeiten**.
 
    ![](assets/image2015-5-21-12-3a37-3a54.png)
 
-   Fertig! Jetzt können Sie das CSS der Vorlage bearbeiten und das Erscheinungsbild und Layout vollständig steuern.
+   Fertig! Jetzt können Sie das CSS der Vorlage bearbeiten und volle Kontrolle über ihr Erscheinungsbild und Layout haben.
 
    >[!NOTE]
    >
-   >Wenn Sie eine Landingpage-Vorlage bearbeiten, wird ein Entwurf eines beliebigen Landingpage-Assets mit dieser Vorlage erstellt.
+   >Wenn Sie eine Landingpage-Vorlage bearbeiten, wird mit dieser Vorlage ein Entwurf eines beliebigen Landingpage-Assets erstellt.

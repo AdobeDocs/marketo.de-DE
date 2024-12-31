@@ -15,19 +15,19 @@ ht-degree: 0%
 
 Wenn Sie jemals einen Stream aus Ihrem Interaktionsprogramm löschen müssen, führen Sie diese schnellen und einfachen Schritte aus.
 
-1. Wechseln Sie zu **Marketingaktivitäten**.
+1. Navigieren Sie **Marketing-Aktivitäten**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Wählen Sie Ihr Interaktionsprogramm aus und gehen Sie zu **Streams**.
+1. Wählen Sie Ihr Interaktionsprogramm aus und navigieren Sie zu **Streams**.
 
    ![](assets/cloneasteam-2.jpg)
 
    >[!CAUTION]
    >
-   >Das Löschen eines Streams führt zum Verlust von historischen Daten für den Inhalt in diesem Stream.
+   >Durch das Löschen eines Streams gehen historische Daten für den Inhalt in diesem Stream verloren.
 
-1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Löschen** aus.
+1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Löschen**.
 
    ![](assets/image2014-9-15-17-3a47-3a27.png)
 
@@ -37,4 +37,4 @@ Wenn Sie jemals einen Stream aus Ihrem Interaktionsprogramm löschen müssen, f�
 
    >[!NOTE]
    >
-   >Wenn im Stream Personen enthalten sind, werden Sie aufgefordert, diese zuerst zu [verschieben](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md).
+   >Wenn der Stream Personen enthält, werden Sie aufgefordert, diese zuerst [](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md)zu verschieben“.

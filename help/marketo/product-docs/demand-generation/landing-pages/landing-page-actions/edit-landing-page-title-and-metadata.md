@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2359726
-description: Bearbeiten von Landingpage-Titel und -Metadaten - Marketo-Dokumente - Produktdokumentation
-title: Bearbeiten von Landingpage-Titel und -Metadaten
+description: Bearbeiten des Landingpage-Titels und der Metadaten - Marketo-Dokumente - Produktdokumentation
+title: Bearbeiten des Landingpage-Titels und der Metadaten
 exl-id: dc31eeee-fd96-4721-b346-c3cde0383fea
 feature: Landing Pages
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,9 +11,9 @@ ht-degree: 1%
 
 ---
 
-# Bearbeiten von Landingpage-Titel und -Metadaten {#edit-landing-page-title-and-metadata}
+# Bearbeiten des Landingpage-Titels und der Metadaten {#edit-landing-page-title-and-metadata}
 
-Mit Marketo können Sie Ihre Landingpage [meta-Tags für SEO-Zwecke](https://www.w3schools.com/tags/tag_meta.asp) bearbeiten und den `<head>` -Teil der HTML anpassen.
+Mit Marketo können Sie Ihre Landingpage [Meta-Tags für SEO](https://www.w3schools.com/tags/tag_meta.asp)Zwecke bearbeiten und den `<head>` Teil der HTML anpassen.
 
 1. Wählen Sie eine Landingpage aus und klicken Sie auf **Entwurf bearbeiten**.
 
@@ -23,11 +23,11 @@ Mit Marketo können Sie Ihre Landingpage [meta-Tags für SEO-Zwecke](https://www
    >
    >Der Landingpage-Designer wird in einem neuen Fenster geöffnet.
 
-1. Klicken Sie unter &quot;**Landingpage-Aktionen**&quot;auf &quot;**Meta-Tags der Seite bearbeiten**&quot;.
+1. Klicken **unter „Landingpage-**&quot; auf **Bearbeiten von Seiten-Meta-Tags**.
 
    ![](assets/image2014-9-17-11-3a39-3a32.png)
 
-1. Geben Sie den **Titel**, **Suchbegriffe** und **Beschreibung** für Ihre Seite ein. Wählen Sie die gewünschte Option **Robots** aus und geben Sie den gewünschten benutzerdefinierten Inhalt für den Bereich HTML `<head>` ein. Klicken Sie auf **Speichern**.
+1. Geben Sie **Titel**, **Keywords** und **Beschreibung** für Ihre Seite ein. Wählen Sie die gewünschte Option **Robots** aus und geben Sie benutzerdefinierte Inhalte ein, die Sie für den Abschnitt HTML-`<head>` verwenden möchten. Klicken Sie auf **Speichern**.
 
    ![](assets/image2014-9-17-11-3a39-3a50.png)
 
@@ -35,6 +35,6 @@ Mit Marketo können Sie Ihre Landingpage [meta-Tags für SEO-Zwecke](https://www
    >
    >**Was bedeutet [Roboter](https://www.robotstxt.org/meta.html)?**
    >
-   >**index**: Die Seite kann im Web durchsucht werden. **Follow**: Suchmaschinen können Links auf indizierten Seiten folgen.
+   >**index**: Die Seite kann im Web durchsucht werden. **follow**: Suchmaschinen können Links auf indizierten Seiten folgen.
 
-1. Bearbeiten Sie die Tags jederzeit und validieren Sie die Landingpage.
+1. Bearbeiten Sie die Tags jederzeit und genehmigen Sie die Landingpage.

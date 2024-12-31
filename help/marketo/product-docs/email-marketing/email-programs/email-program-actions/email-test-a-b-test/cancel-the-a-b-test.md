@@ -13,22 +13,22 @@ ht-degree: 0%
 
 # Abbrechen des A/B-Tests {#cancel-the-a-b-test}
 
-Wenn Sie [Ihrem E-Mail-Programm einen A/B-Test](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) hinzugefügt haben und entschieden haben, dass Sie ihn nicht mehr benötigen, kann er einfach rückgängig gemacht werden. So geht es.
+Wenn Sie Ihrem E[Mail-Programm einen A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)Test hinzugefügt haben und entschieden haben, dass Sie ihn nicht mehr benötigen, können Sie ihn einfach rückgängig machen. So geht&#39;s.
 
-1. Wechseln Sie zu **Marketingaktivitäten**.
+1. Navigieren Sie **Marketing-Aktivitäten**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Wählen Sie Ihr E-Mail-Programm aus.
+1. Wählen Sie Ihr E-Mail-Programm.
 
    ![](assets/selectemailprogram-1.jpg)
 
-1. Klicken Sie unter der Kachel **E-Mail** auf **A/B-Test entfernen**.
+1. Klicken Sie unter **Kachel** E-Mail“ auf **A/B-Test entfernen**.
 
    ![](assets/image2015-5-6-14-3a27-3a58.png)
 
    >[!NOTE]
    >
-   >Ihr E-Mail-Programm muss nicht genehmigt werden, bevor Sie den A/B-Test entfernen können. Weitere Informationen finden Sie unter [Genehmigen/Aufheben der Genehmigung eines E-Mail-Programms](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md) .
+   >Ihr E-Mail-Programm muss nicht genehmigt sein, bevor Sie den A/B-Test entfernen können. Weitere [ finden Sie unter „Genehmigen/](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md) eines E-Mail-Programms“.
 
-Einfach pitasie!
+Einfach, bequem!

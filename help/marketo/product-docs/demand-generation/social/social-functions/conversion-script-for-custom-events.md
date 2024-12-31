@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2950561
 description: Konversionsskript für benutzerspezifische Ereignisse - Marketo-Dokumente - Produktdokumentation
-title: Konversionsskript für benutzerspezifische Ereignisse
+title: Konvertierungsskript für benutzerdefinierte Ereignisse
 exl-id: 202b7e66-af83-42fd-8067-a5808eba7c32
 feature: Social
 source-git-commit: 6c3f803104c550227aec25376778147ff92aaab9
@@ -11,56 +11,56 @@ ht-degree: 1%
 
 ---
 
-# Konversionsskript für benutzerspezifische Ereignisse {#conversion-script-for-custom-events}
+# Konvertierungsskript für benutzerdefinierte Ereignisse {#conversion-script-for-custom-events}
 
-Sie definieren das Erfüllungsziel beim Erstellen eines Verweisangebots. Wenn die Aktion, die auf das Ziel angerechnet wird, ein bestimmtes Ereignis auf Ihrer eigenen Webseite ist, können Sie ein Konversionsskript verwenden, um unsere JavaScript-API aufzurufen.
+Sie definieren das Erfüllungsziel beim Erstellen eines Empfehlungsangebots. Wenn die Aktion, die für das Ziel zählt, ein bestimmtes Ereignis auf Ihrer eigenen Web-Seite ist, können Sie ein Konversionsskript verwenden, um unsere JavaScript-API aufzurufen.
 
 >[!IMPORTANT]
 >
->Am 31. Juli 2024 begannen wir mit der Einstellung dieser Funktion. Neue Assets können nicht mehr erstellt werden. Vorhandene Assets werden bis zum 31. Januar 2025 weiterhin funktionieren. [Weitere Informationen](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
+>Am 31. Juli 2024 haben wir mit der Einstellung dieser Funktion begonnen. Neue Assets können nicht mehr erstellt werden. Vorhandene Assets funktionieren bis zum 31. Januar 2025 weiterhin. [Weitere Informationen](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
-## Konvertierungsskript abrufen {#retrieve-the-conversion-script}
+## Abrufen des Konvertierungsskripts {#retrieve-the-conversion-script}
 
-1. Klicken Sie im Angebotseditor auf **Angebotsdetails** und wählen Sie dann **JavaScript-Kundenereignis** aus der Dropdown-Liste für das Erfüllungsziel aus.
+1. Klicken Sie im Editor für Empfehlungsangebote auf **Angebotsdetails** und wählen Sie dann **Customer JavaScript Event** aus der Dropdown-Liste „Erfüllungsziel“ aus.
 
    ![](assets/image2015-4-20-17-3a22-3a15.png)
 
-1. Kopieren Sie das obere Skript in das graue Feld und platzieren Sie es auf Ihrer Webseite innerhalb der `<body>` -Tags. Das untere Skript wird innerhalb der `<header>` -Tags platziert.
+1. Kopieren Sie das Top-Skript in das graue Feld und platzieren Sie es auf Ihrer Web-Seite innerhalb der `<body>` Tags. Das untere Skript wird innerhalb der `<header>` Tags platziert.
 
    ![](assets/image2015-4-20-17-3a29-3a7.png)
 
    >[!NOTE]
    >
-   >Denken Sie daran, beide Skripte zu kopieren und einzufügen, wenn sie sich auf einer Nicht-Marketo-Website befinden.
+   >Denken Sie daran, beide Skripte zu kopieren und einzufügen, wenn sie auf einer Nicht-Marketo-Website verwendet werden.
 
 ## Loader-Skript abrufen {#retrieve-the-loader-script}
 
-1. Wählen Sie das Verweisangebot aus dem Baum aus und klicken Sie dann auf **Verweisangebotsaktionen** und **Einbettungscode**.
+1. Wählen Sie das Empfehlungsangebot aus der Baumstruktur aus und klicken Sie dann auf **Verweisangebotsaktionen** und **Einbettungs-Code**.
 
    ![](assets/image2015-4-20-17-3a34-3a46.png)
 
-1. Klicken Sie mit der rechten Maustaste auf den **Kopfzeilencode** und fügen Sie ihn in den Webseitenkopf ein. Führen Sie dann dasselbe für den **Textkörpercode** aus.
+1. Klicken Sie mit der rechten Maustaste auf **Kopfzeilen-Code** und fügen Sie ihn in die Kopfzeile Ihrer Web-Seite ein. Führen Sie dann dasselbe für den **Textkörper-Code** aus.
 
    ![](assets/image2015-4-20-20-3a49-3a19.png)
 
-## Einfügen der Skripte in Ihre Webseite {#pasting-the-scripts-onto-your-webpage}
+## Einfügen der Skripte auf Ihrer Web-Seite {#pasting-the-scripts-onto-your-webpage}
 
-Fügen Sie die Konvertierungsskripte in die HTML für den Hauptteil und die Kopfzeile ein. Platzieren Sie anschließend die Lader-Skripte in die HTML für den Hauptteil und die Kopfzeile.
+Fügen Sie die Konvertierungsskripte für den Hauptteil und die Kopfzeile in die HTML ein. Platzieren Sie als Nächstes die Laderskripte in der HTML für den Hauptteil und die Kopfzeile.
 
 ![](assets/image2015-4-20-21-3a0-3a16.png)
 
 ## Verbinden des Konvertierungsskripts {#connecting-the-conversion-script}
 
-Hier schreiben Sie eine JavaScript-Funktion, die die spezifische HTML-ID des Seitenelements verwendet, für das das Trigger-Ziel abgeschlossen werden soll. Beispiel:
+Hier schreiben Sie eine JavaScript-Funktion, die die spezifische HTML-ID des Seitenelements verwendet, für das Sie einen Trigger zum Abschluss des Ziels erstellen möchten. Beispiel:
 
 `<pre><em><!-- Referral offer conversion script --></em> <script> cf_scripts.afterload(function (){ jQuery("#myButtonId").click(function (){ CF.insight.conversion(); }); }); </script></pre>` `<pre>`
 
-In diesem Beispiel gibt es eine Schaltfläche auf der Webseite mit der ID &quot;#myButtonId&quot;. Wenn auf diese Schaltfläche geklickt wird, wird die Person registriert, als habe sie das Ziel erreicht.
+In diesem Beispiel befindet sich eine Schaltfläche auf der Web-Seite mit der ID &quot;#myButtonId“. Wenn auf diese Schaltfläche geklickt wird, wird die Person registriert, die das Ziel erreicht hat.
 
-Fantastisch! Ihre Website erfasst jetzt benutzerdefinierte Ziele für die Social-Media-Werbung mit Marketo.
+Fantastisch! Ihre Website erfasst jetzt benutzerdefinierte Social-Media-Werbeziele mit Marketo.
 
 >[!MORELIKETHIS]
 >
->* [Ziel für Verweisangebot angeben](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)
->* [Erstellen eines Verweisangebots](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
->* [Social auf Ihrer Website bereitstellen](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
+>* [Ziel für Empfehlungsangebot angeben](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)
+>* [Erstellen eines Empfehlungsangebots](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
+>* [Bereitstellen von Social Media auf Ihrer Website](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)

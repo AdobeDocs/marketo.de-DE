@@ -1,7 +1,7 @@
 ---
 unique-page-id: 1900560
-description: Hinzufügen eines Links Als Webseite anzeigen zu einer E-Mail - Marketo-Dokumente - Produktdokumentation
-title: Hinzufügen einer E-Mail als Webseitenlink anzeigen
+description: Hinzufügen einer Ansicht als Web-Seitenlink zu einer E-Mail - Marketo-Dokumente - Produktdokumentation
+title: Hinzufügen einer Ansicht als Web-Seitenlink zu einer E-Mail
 exl-id: 0f420d1b-6c12-4e66-9dfa-3c8f6145dc89
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,15 +11,15 @@ ht-degree: 0%
 
 ---
 
-# Hinzufügen einer E-Mail als Webseitenlink anzeigen {#add-a-view-as-web-page-link-to-an-email}
+# Hinzufügen einer Ansicht als Web-Seitenlink zu einer E-Mail {#add-a-view-as-web-page-link-to-an-email}
 
-E-Mails verfügen über eingeschränkte Funktionen (eingeschränktes CSS und keine JavaScript oder Formulare). Verwenden Sie Als Webseite anzeigen , um einen Link zur Anzeige Ihrer E-Mail in einem Browser bereitzustellen. Dadurch wird der Empfänger mit dem Munchkin Cookie gesetzt.
+E-Mails verfügen über eingeschränkte Funktionen (eingeschränktes CSS und keine JavaScript oder Formulare). Verwenden Sie Als Web-Seite anzeigen , um einen Link bereitzustellen, über den Ihre E-Mail in einem Browser angezeigt werden kann. Dadurch wird der Empfänger mithilfe der Munchkin Cookies gesetzt.
 
 >[!NOTE]
 >
->Beim Erstellen einer neuen E-Mail ist Als Webseite anzeigen nicht aktiviert. Wenn Sie sie aktivieren und die E-Mail klonen, wird diese Einstellung kopiert.
+>Beim Erstellen einer neuen E-Mail ist „Als Web-Seite anzeigen“ nicht aktiviert. Wenn Sie sie aktivieren und die E-Mail klonen, wird diese Einstellung kopiert.
 
-1. Wählen Sie Ihre E-Mail aus und klicken Sie auf **Entwurf bearbeiten**.
+1. Wählen Sie Ihre E-Mail aus und klicken Sie **Entwurf bearbeiten**.
 
    ![](assets/one-5.png)
 
@@ -27,16 +27,16 @@ E-Mails verfügen über eingeschränkte Funktionen (eingeschränktes CSS und kei
 
    ![](assets/two-5.png)
 
-1. Aktivieren Sie das Feld **Ansicht als Webseite einschließen** und klicken Sie auf **Speichern**.
+1. Aktivieren Sie das **Als Webseite anzeigen** und klicken Sie auf **Speichern**.
 
    ![](assets/three-4.png)
 
-Hier ist ein Beispiel dafür, wie es aussieht:
+Im Folgenden finden Sie ein Beispiel dafür, wie sie aussieht:
 
 ![](assets/four-3.png)
 
 >[!TIP]
 >
->Der Link Als Webseite anzeigen wird erst angezeigt, wenn Sie die E-Mail gesendet haben. Senden Sie sich einen Test zur Ansicht.
+>Der Link Als Web-Seite anzeigen wird erst angezeigt, wenn Sie die E-Mail senden. Senden Sie sich einen Test, um ihn anzuzeigen.
 
-Informationen zum Ändern des Standardtexts finden Sie unter [Bearbeiten der Meldung &quot;Als Webseite anzeigen&quot;](/help/marketo/product-docs/administration/email-setup/edit-the-view-as-web-page-message.md).
+Um den Standardtext zu ändern, siehe [Bearbeiten der Nachricht „Als Web-Seite anzeigen“](/help/marketo/product-docs/administration/email-setup/edit-the-view-as-web-page-message.md).

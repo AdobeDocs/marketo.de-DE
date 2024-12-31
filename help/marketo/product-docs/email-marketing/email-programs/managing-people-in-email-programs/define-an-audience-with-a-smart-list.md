@@ -13,7 +13,7 @@ ht-degree: 2%
 
 # Definieren einer Zielgruppe mit einer Smart-Liste {#define-an-audience-with-a-smart-list}
 
-Nachdem Sie [ein E-Mail-Programm erstellt haben](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md), möchten Sie ihm mitteilen, an wen die E-Mail gesendet werden soll. Sie können dies durch den Import einer Personenliste [ oder einer intelligenten Liste tun. ](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md) Hier ist, wie man dies mit einer intelligenten Liste erreicht.
+Nachdem Sie [E-Mail-Programm erstellen](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) sollten Sie ihm mitteilen, an wen die E-Mail gesendet werden soll. Sie können dies tun, indem Sie [eine Liste von Personen ](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md) oder eine Smart-Liste importieren. So erreichen Sie dies mit einer Smart-Liste.
 
 >[!PREREQUISITES]
 >
@@ -21,19 +21,19 @@ Nachdem Sie [ein E-Mail-Programm erstellt haben](/help/marketo/product-docs/emai
 
 >[!NOTE]
 >
->Die Bestimmung der Audience funktioniert nur, wenn das E-Mail-Programm nicht genehmigt wurde.
+>Die Definition Ihrer Audience funktioniert nur, wenn das E-Mail-Programm nicht genehmigt ist.
 
-1. Wechseln Sie zu **Marketingaktivitäten**.
+1. Navigieren Sie **Marketing-Aktivitäten**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Wählen Sie Ihr E-Mail-Programm aus und klicken Sie dann unter der Kachel **Zielgruppe** auf **Smart-Liste bearbeiten** .
+1. Wählen Sie Ihr E-Mail-Programm aus und klicken **dann unter der Kachel** Audience **auf „Smart-Liste bearbeiten**.
 
    ![](assets/2017-05-22-09-46-37.png)
 
    >[!TIP]
    >
-   >Stellen Sie sicher, dass die Ansicht auf **Control Panel** eingestellt ist, um diese Einstellung zu finden.
+   >Stellen Sie sicher, dass die Ansicht auf **Systemsteuerung** eingestellt ist, um diese Einstellung zu finden.
 
 1. Suchen Sie die gewünschten Filter und ziehen Sie sie auf die Arbeitsfläche.
 
@@ -43,17 +43,17 @@ Nachdem Sie [ein E-Mail-Programm erstellt haben](/help/marketo/product-docs/emai
 
    ![](assets/image2014-9-12-11-3a1-3a14.png)
 
-1. Gehen Sie nach dem Hinzufügen und Definieren von Filtern zurück zum Hauptprogramm-Tab. Sie werden sehen, wie viele sich qualifizieren.
+1. Wenn Sie mit dem Hinzufügen und Definieren von Filtern fertig sind, gehen Sie zurück zur Registerkarte Hauptprogramm . Sie werden sehen, wie viele Personen sich qualifizieren.
 
    ![](assets/myemailprogram.jpg)
 
-   Exzellente Arbeit! Jetzt ist es an der Zeit, [eine vorhandene E-Mail auszuwählen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) oder [eine E-Mail zu erstellen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md), die an diese Personen gesendet werden soll.
+   Hervorragende Arbeit! Jetzt ist es an der Zeit, [eine vorhandene E-Mail auszuwählen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) oder [eine E-Mail zu erstellen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) an diese Leute zu senden.
 
 >[!NOTE]
 >
 >**Definition**
 >
->Haben Sie die Blockierungsnummer bemerkt? Diese Zahl ist eine Teilmenge der Personen, die sich qualifiziert haben, und repräsentiert Personen, die diese E-Mail nicht senden können, weil sie:
+>Ist Ihnen die Blockierungsnummer aufgefallen? Diese Zahl ist eine Teilmenge der Personen, die sich qualifiziert haben, und steht für Personen, die diese E-Mail nicht senden können, weil sie:
 >
 >* Abbestellt
 >* Marketing eingestellt
@@ -61,11 +61,11 @@ Nachdem Sie [ein E-Mail-Programm erstellt haben](/help/marketo/product-docs/emai
 >* E-Mail-Adresse ungültig
 >* Leere E-Mail
 >
->Klicken Sie auf die Nummer für eine detaillierte Liste der Personen, die von Mailings ausgeschlossen sind. **Bitte beachten Sie:** Operative E-Mails werden weiterhin an Personen gesendet, die als abgemeldet und Marketing ausgesetzt gekennzeichnet sind.
+>Klicken Sie auf die Nummer für eine detaillierte Liste der Personen, die vom Versand blockiert sind. **Bitte beachten Sie:** operative E-Mails werden weiterhin an Personen gesendet, die als abgemeldet und Marketing ausgesetzt gekennzeichnet sind.
 >
->Verwenden Sie die Schaltfläche ![—](assets/image2014-10-23-16-3a32-3a36.png) auf der Kachel Zielgruppe , um zu sehen, wie viele Personen die E-Mail erhalten werden.
+>Verwenden Sie die Schaltfläche ![—](assets/image2014-10-23-16-3a32-3a36.png) auf der Kachel Zielgruppe , um anzuzeigen, wie viele Personen die E-Mail erhalten werden.
 
 >[!MORELIKETHIS]
 >
 >* [Vorhandene E-Mail auswählen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
->* [E-Mail für ein E-Mail-Programm erstellen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>* [Erstellen einer E-Mail für ein E-Mail-Programm](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)

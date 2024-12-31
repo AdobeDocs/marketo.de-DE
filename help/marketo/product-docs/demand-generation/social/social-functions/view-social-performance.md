@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Soziale Leistung anzeigen {#view-social-performance}
 
-Sehen Sie sich die von Ihren Social-Apps generierten Social-Aktivitäten an. Das Social-Dashboard bietet Ihnen Einblicke in die verschiedenen sozialen Interaktionen, die von Ihren Social-Apps generiert werden, und ermöglicht es Ihnen, die Leistung einer Social-App zu verfolgen.
+Die von Ihren Social-Media-Apps generierten Social-Media-Aktivitäten anzeigen. Das Social Dashboard bietet Ihnen Einblicke in die verschiedenen sozialen Interaktionen, die von Ihren Social-Media-Apps generiert werden, und ermöglicht es Ihnen, die Leistung einer Social-Media-App zu verfolgen.
 
 >[!IMPORTANT]
 >
->Am 31. Juli 2024 begannen wir mit der Einstellung dieser Funktion. Neue Assets können nicht mehr erstellt werden. Vorhandene Assets werden bis zum 31. Januar 2025 weiterhin funktionieren. [Weitere Informationen](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
+>Am 31. Juli 2024 haben wir mit der Einstellung dieser Funktion begonnen. Neue Assets können nicht mehr erstellt werden. Vorhandene Assets funktionieren bis zum 31. Januar 2025 weiterhin. [Weitere Informationen](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!AVAILABILITY]
 >
->Nicht alle Marketo Engage-Benutzer haben diese Funktion erworben. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).
+>Nicht alle Marketo Engage-Benutzer haben diese Funktion erworben. Weitere Informationen erhalten Sie beim Adobe Account Team (Ihrem Account Manager).
 
-1. Wechseln Sie zu **Marketingaktivitäten**.
+1. Navigieren Sie **Marketing-Aktivitäten**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -31,49 +31,49 @@ Sehen Sie sich die von Ihren Social-Apps generierten Social-Aktivitäten an. Das
 
    ![](assets/image2014-9-23-17-3a10-3a13.png)
 
-1. Klicken Sie auf **Datum der Aktivität**.
+1. Klicken Sie **Datum der Aktivität**.
 
    ![](assets/image2014-9-23-17-3a10-3a22.png)
 
-1. Wählen Sie den Zeitraum aus.
+1. Wählen Sie das Zeitintervall.
 
    ![](assets/image2014-9-23-17-3a10-3a35.png)
 
    >[!NOTE]
    >
-   >Wenn Sie &quot;**Letzte 24 Stunden**&quot; auswählen, werden die Metriken stündlich am oberen Rand der Stunde berechnet. Für alle anderen Intervalle werden die Metriken täglich um Mitternacht des Vortags ausgeführt.
+   >Wenn Sie **Letzte 24 Stunden** auswählen, werden die Metriken stündlich zu Beginn der Stunde berechnet. Für alle anderen Intervalle werden die Metriken täglich um Mitternacht des Vortages ausgeführt.
 
-1. Verwenden Sie den **Social-Trichter** , um den sozialen Fortschritt und die Effektivität Ihrer Promotion zu überprüfen.
+1. Verwenden Sie den **Social Funnel**, um den sozialen Fortschritt und die Effektivität Ihrer Promotion zu überprüfen.
 
-   * **Kampagnenbesuche**: Wie oft potenzielle Kunden eine Seite laden, die Ihre Social-App enthält.
-   * **Interaktionen**: Wie oft potenzielle Kunden mit Ihrer Social-App interagiert haben, z. B. die Anmeldung für ein [Verweisangebot](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), die Abstimmung in einer [Umfrage](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md), die [Freigabe eines Videos](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md) usw.
-   * **Teilen**: Gibt an, wie oft potenzielle Kunden eine Nachricht aus Ihrer Social App in ihrem sozialen Netzwerk teilen.
-   * **Resultierende Klicks**: Wie oft potenzielle Kunden auf Links in Teilen von Ihrer Social App geklickt haben.
-   * **Registrierung**: Die Anzahl der Interessenten, die sich für Ihre Promotion angemeldet haben, nachdem sie einen freigegebenen Link zu Ihrer App zurückverfolgt haben.
+   * **Kampagnenbesuche**: Die Häufigkeit, mit der Interessenten eine Seite laden, die Ihre Social-Media-App enthält.
+   * **Interaktionen**: Die Häufigkeit, mit der potenzielle Kunden mit Ihrer Social-Media-Anwendung interagiert haben, z. B. [ Anmeldung für ein Empfehlungsangebot](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), Abstimmung in einer [Umfrage](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md), [Freigabe eines Videos](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md) usw.
+   * **Shares**: Die Häufigkeit, mit der Interessenten eine Nachricht über Ihre soziale App in ihrem sozialen Netzwerk teilen.
+   * **Resultierende Klicks**: Die Häufigkeit, mit der Interessenten in Ihrer Social-Media-App auf Links in Shares geklickt haben.
+   * **Registrierung**: Die Anzahl der potenziellen Kunden, die sich für Ihre Promotion anmelden, nachdem sie einem freigegebenen Link zurück zu Ihrer App gefolgt sind.
 
    >[!NOTE]
    >
-   >Besuche auf einer Seite mit mehreren sozialen Apps zählen als ein Besuch bei jedem einzelnen Besuch. Besuche auf mehreren Seiten innerhalb derselben App zählen als ein Besuch. Besuche nach mehr als 30 Minuten oder ein Neustart des Browsers werden als neu gezählt.
+   >Besuche auf einer Seite mit mehreren Social-Media-Apps zählen als ein Besuch pro Seite. Besuche auf mehreren Seiten innerhalb derselben App zählen als ein Besuch. Besuche nach mehr als 30 Minuten oder ein Neustart des Browsers werden als neu gezählt.
 
    ![](assets/image2014-9-23-17-3a11-3a16.png)
 
-1. Verwenden Sie das Bedienfeld **Zielgruppe** , um zu überprüfen, wie Ihre potenziellen Kunden Ihnen dabei helfen, das Wort herauszuholen.
+1. Verwenden Sie das **Audience**-Bedienfeld, um zu überprüfen, wie Ihre potenziellen Kunden Sie dabei unterstützen, Ihre Meinung zu sagen.
 
-   * **Profile insgesamt**: Die Gesamtzahl der potenziellen Benutzer, die sich von Ihrer Social App aus bei sozialen Netzwerken angemeldet haben.
-   * **Einflussnehmer**: Die Anzahl der Interessenten, die mindestens einen Klick auf eine App-Freigabe generiert haben.
-   * **Social-Reichweite**: Die Summe der Verbindungen aller Interessenten. Für Interessenten, die soziale Netzwerke nutzen, ist dies die Anzahl der Freunde, die sie zu dem Zeitpunkt haben, zu dem sie von Ihrer Social App geteilt haben. Bei der E-Mail-Freigabe ist dies die Anzahl der Empfänger der E-Mail, die sie aus Ihrer App generieren.
-   * **Social-Impressionen**: Gibt an, wie oft Ihre Social-App insgesamt in den Feeds der potenziellen Kunden-Verbindungen angezeigt wurde.
+   * **Profile insgesamt**: Die Gesamtzahl der potenziellen Kunden, die sich über Ihre soziale App bei sozialen Netzwerken angemeldet haben.
+   * **Influencer**: Die Anzahl der Interessenten, die mindestens einen Klick aus einer App-Freigabe generiert haben.
+   * **Soziale Reichweite**: Die Summe aller Verbindungen der potenziellen Kunden. Für potenzielle Kunden, die über soziale Netzwerke teilen, ist dies die Anzahl der Freunde, die sie zum Zeitpunkt der Freigabe über Ihre soziale App haben. Bei der E-Mail-Freigabe ist dies die Anzahl der Empfänger der E-Mail, die sie aus Ihrer App generieren.
+   * **Soziale Impressionen**: Die Gesamtzahl der Male, wie oft Ihre soziale App in den Feeds der Verbindungen potenzieller Kundinnen und Kunden angezeigt wurde.
 
    ![](assets/image2014-9-23-17-3a11-3a26.png)
 
-1. Überprüfen Sie im Bedienfeld **Metriken freigeben** die von Ihrer Social-App generierte aggregierte Social-Aktivität.
+1. Verwenden Sie das Bedienfeld **Metriken freigeben**, um die aggregierte soziale Aktivität zu überprüfen, die von Ihrer Social-Media-Anwendung generiert wurde.
 
-   * **Freigaberate**: Der Prozentsatz der Besuche Ihrer App, die eine Freigabe generieren.
-   * **Klickrate**: Die Anzahl der resultierenden Klicks pro Aktie.
-   * **Social Lift**: Das Verhältnis der Besuche Ihrer App (die vom Link in Teilen stammen) zur Anzahl der nicht sozialen Besuche (von anderen Quellen als Ihrer Social App).
+   * **Freigaberate**: Der Prozentsatz der Besuche in Ihrer App, die eine Freigabe generieren.
+   * **Klickback-Rate**: Die Anzahl der resultierenden Klicks pro Freigabe.
+   * **Soziale Steigerung**: Das Verhältnis der Besuche in Ihrer App (die vom Link in Shares stammen) zur Anzahl der nicht-sozialen Besuche (aus anderen Quellen als Ihrer sozialen App).
 
    ![](assets/image2014-9-23-17-3a11-3a35.png)
 
 >[!MORELIKETHIS]
 >
->Sie können auch Trigger und Filter verwenden, um zu sehen, wer Ihre Inhalte teilt und mit Ihren Social-Apps interagiert, sodass Sie auf diese Interaktionen reagieren können. Siehe [Verwenden von Triggern und Filtern für Social-Aktivitäten](/help/marketo/product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md).
+>Sie können auch Trigger und Filter verwenden, um zu sehen, wer Ihre Inhalte teilt und mit Ihren Social Media-Apps interagiert, damit Sie auf diese Interaktionen reagieren können. Siehe [Verwenden von Triggern und Filtern für Social-Media-Aktivitäten](/help/marketo/product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md).

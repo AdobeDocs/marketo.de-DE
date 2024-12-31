@@ -1,25 +1,25 @@
 ---
 unique-page-id: 2359930
-description: Archivieren und Archivieren von Stream-Inhalten - Marketo-Dokumente - Produktdokumentation
-title: Archivieren und Archivieren von Stream-Inhalten aufheben
+description: Archivieren und Aufheben der Archivierung von Stream-Inhalten - Marketo-Dokumente - Produktdokumentation
+title: Archivieren und Aufheben der Archivierung von Stream-Inhalten
 exl-id: 45a7fec2-a98d-4a3f-8033-543cc88c499f
 feature: Engagement Programs
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '152'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Archivieren und Archivieren von Stream-Inhalten aufheben {#archive-and-unarchive-stream-content}
+# Archivieren und Aufheben der Archivierung von Stream-Inhalten {#archive-and-unarchive-stream-content}
 
-Wenn Sie ein Inhaltselement nicht mehr in einem Stream verwenden möchten, können Sie es entweder [entfernen](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md) oder archivieren. Hier erfahren Sie, wie Sie Inhalte archivieren.
+Wenn Sie ein Inhaltselement nicht mehr in einem Stream verwenden möchten, können Sie es entweder [entfernen](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md) oder archivieren. So archivieren Sie Inhalte.
 
 >[!TIP]
 >
->Durch das Entfernen werden alle verknüpften Verläufe zerstört. Durch die Archivierung bleibt sie erhalten.
+>Durch Entfernen wird der gesamte verknüpfte Verlauf zerstört, er bleibt bei der Archivierung erhalten.
 
-## Archiv-Stream-Inhalt {#archive-stream-content}
+## Stream-Inhalte archivieren {#archive-stream-content}
 
 1. Wählen Sie Ihr Interaktionsprogramm aus und wechseln Sie zur Registerkarte **Streams** .
 
@@ -29,9 +29,9 @@ Wenn Sie ein Inhaltselement nicht mehr in einem Stream verwenden möchten, könn
 
    ![](assets/image2014-9-15-17-3a42-3a7.png)
 
-   Das ist es! Denken Sie daran, archivieren Sie, wenn Sie die Geschichte beibehalten möchten.
+   Das ist alles! Denken Sie daran, Archiv, wenn Sie die Geschichte bewahren wollen.
 
-## Archivierung von Stream-Inhalt aufheben {#unarchive-stream-content}
+## Archivierung von Stream-Inhalten aufheben {#unarchive-stream-content}
 
 1. Wählen Sie Ihr Interaktionsprogramm aus und wechseln Sie zur Registerkarte **Streams** .
 
@@ -41,8 +41,8 @@ Wenn Sie ein Inhaltselement nicht mehr in einem Stream verwenden möchten, könn
 
    ![](assets/image2014-9-15-17-3a42-3a15.png)
 
-1. Nachdem Sie nun den archivierten Inhalt sehen können, klicken Sie auf das Zahnradsymbol für den Inhalt, dessen Archivierung Sie aufheben möchten, und klicken Sie dann auf **Archivierung aufheben**.
+1. Jetzt, da Sie den archivierten Inhalt sehen können, klicken Sie auf das Zahnradsymbol für den Inhalt, dessen Archivierung Sie aufheben möchten, und klicken Sie dann auf **Archivierung aufheben**.
 
    ![](assets/image2014-9-15-17-3a42-3a24.png)
 
-   Perfekt! Dieser Inhalt kann jetzt priorisiert und aktiviert werden.
+   Perfekt! Jetzt kann dieser Inhalt priorisiert und aktiviert werden.

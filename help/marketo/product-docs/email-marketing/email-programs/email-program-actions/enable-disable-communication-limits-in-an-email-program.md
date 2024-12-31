@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2359596
-description: Kommunikationsbeschränkungen in einem E-Mail-Programm aktivieren/deaktivieren - Marketo-Dokumente - Produktdokumentation
-title: Kommunikationsbeschränkungen in einem E-Mail-Programm aktivieren/deaktivieren
+description: Aktivieren/Deaktivieren von Kommunikationsbeschränkungen in einem E-Mail-Programm - Marketo-Dokumente - Produktdokumentation
+title: Aktivieren/Deaktivieren von Kommunikationsbeschränkungen in einem E-Mail-Programm
 exl-id: 25427978-33a0-4153-ad66-b34f9549e794
 feature: Email Programs
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,28 +11,28 @@ ht-degree: 0%
 
 ---
 
-# Kommunikationsbeschränkungen in einem E-Mail-Programm aktivieren/deaktivieren {#enable-disable-communication-limits-in-an-email-program}
+# Aktivieren/Deaktivieren von Kommunikationsbeschränkungen in einem E-Mail-Programm {#enable-disable-communication-limits-in-an-email-program}
 
-Beim Ausführen eines E-Mail-Programms können Sie die Kommunikationsbeschränkungen auf [Administratorebene](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md) ignorieren oder beachten. Hier ist, wie man das macht.
+Wenn Sie ein E-Mail-Programm ausführen, können Sie die [Kommunikationsbeschränkungen auf Administratorebene“ ignorieren oder ](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md). So geht das.
 
 >[!NOTE]
 >
->Kommunikationsbeschränkungen werden im Admin-Abschnitt ](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md) mit [festgelegt und helfen Ihnen, zu viele E-Mails nicht an eine Person zu senden.
+>Kommunikationsbeschränkungen werden [im Admin-Abschnitt festgelegt](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md) sodass Sie vermeiden können, eine Person zu viele E-Mails zu senden.
 
-1. Wechseln Sie zu **Marketingaktivitäten**.
+1. Navigieren Sie **Marketing-Aktivitäten**.
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Wählen Sie Ihr E-Mail-Programm aus.
+1. Suchen und wählen Sie Ihr E-Mail-Programm.
 
    ![](assets/selectemailprogram-3.jpg)
 
-1. Doppelklicken Sie auf der Registerkarte **Setup** auf das Zeilenelement &quot;Kommunikationslimit&quot;.
+1. Doppelklicken Sie **der Registerkarte** Setup“ auf den Zeileneintrag Kommunikationsbeschränkung .
 
    ![](assets/blockoperational.png)
 
-1. Standardmäßig werden nicht operative E-Mails blockiert, wenn Kommunikationsbeschränkungen erreicht werden, aber wenn Sie sie umgehen möchten, deaktivieren Sie das Kontrollkästchen und klicken Sie auf **Speichern**.
+1. Standardmäßig werden nicht-operative E-Mails blockiert, wenn die Kommunikationsbeschränkungen erreicht werden. Wenn Sie sie jedoch umgehen möchten, deaktivieren Sie das Kontrollkästchen und klicken Sie auf **Speichern**.
 
    ![](assets/ifaperson.jpg)
 
-   Wenn Sie **Nicht operative E-Mails blockieren** aktivieren lassen, wird verhindert, dass die E-Mail an alle gesendet wird, die mehr E-Mails erhalten haben, als Ihre Admin-Einstellungen zulassen.
+   Wenn **Nicht-operative E-Mails blockieren** aktiviert bleibt, wird der Versand der E-Mail an alle verhindert, die mehr E-Mails erhalten haben, als in den Admin-Einstellungen zulässig ist.

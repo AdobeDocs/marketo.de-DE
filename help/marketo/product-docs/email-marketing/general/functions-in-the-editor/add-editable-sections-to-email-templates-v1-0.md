@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1900585
-description: Hinzufügen bearbeitbarer Abschnitte zu E-Mail-Vorlagen v1.0 - Marketo Docs - Produktdokumentation
+description: Hinzufügen bearbeitbarer Abschnitte zu E-Mail-Vorlagen v1.0 - Marketo-Dokumente - Produktdokumentation
 title: Hinzufügen bearbeitbarer Abschnitte zu E-Mail-Vorlagen v1.0
 exl-id: f397aa8e-0d0b-4007-91e1-9b9158bd6432
 feature: Email Editor
@@ -13,7 +13,7 @@ ht-degree: 2%
 
 # Hinzufügen bearbeitbarer Abschnitte zu E-Mail-Vorlagen v1.0 {#add-editable-sections-to-email-templates-v1.0}
 
-Wenn Sie eine Vorlage in Version 1.0 des E-Mail-Vorlageneditors erstellen, können Sie jeden Abschnitt bearbeitbar machen, indem Sie eine spezielle &quot;`<div>`&quot;-Einstellung dafür festlegen.
+Wenn Sie eine Vorlage im E-Mail-Vorlageneditor v1.0 erstellen, können Sie jeden Bereich bearbeiten, indem Sie ihn mit einem speziellen `<div>` versehen.
 
 >[!NOTE]
 >
@@ -24,12 +24,12 @@ Wenn Sie eine Vorlage in Version 1.0 des E-Mail-Vorlageneditors erstellen, könn
 Regeln:
 
 1. Die HTML muss immer gültig sein.
-1. Die Klasse von **mktEditable** muss enthalten sein.
-1. Die ID muss in dieser HTML eindeutig sein.
+1. Die Klasse **mktEditable** muss enthalten sein.
+1. Die ID muss auf dieser HTML eindeutig sein.
 1. Keine Leerzeichen in der ID.
 
 >[!CAUTION]
 >
->mktEditable -Anweisungen können nicht verschachtelt werden.
+>mktEditable-Anweisungen können nicht verschachtelt werden.
 
-Wenn Sie erfahren möchten, wie Sie dies im E-Mail-Vorlageneditor v2.0 durchführen, sehen Sie sich die [Syntax der E-Mail-Vorlage](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md) an.
+Wenn Sie erfahren möchten, wie Sie dies im E-Mail-Vorlageneditor v2.0 tun können, lesen Sie [E-Mail-Vorlagensyntax](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md).

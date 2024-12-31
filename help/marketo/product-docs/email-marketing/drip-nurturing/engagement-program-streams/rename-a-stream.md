@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Umbenennen eines Streams {#rename-a-stream}
 
-Wenn Sie gerne organisiert bleiben, können Sie Ihre Streams umbenennen. Hier ist, wie man das macht.
+Wenn Sie organisiert bleiben möchten, können Sie Ihre Streams umbenennen. So geht das.
 
-1. Suchen und wählen Sie Ihr Interaktionsprogramm aus und klicken Sie dann auf **Streams**.
+1. Suchen Sie Ihr Interaktionsprogramm, wählen Sie es aus und klicken Sie dann auf **Streams**.
 
    ![](assets/cloneasteam-1.jpg)
 
-1. Doppelklicken Sie auf den aktuellen Stream-Namen.
+1. Doppelklicken Sie auf den Namen des aktuellen Streams.
 
    ![](assets/image2014-9-15-17-3a4-3a10.png)
 
-1. Geben Sie den neuen Stream **Name** ein und klicken Sie auf **Speichern**.
+1. Geben Sie den neuen Stream (**) ein** klicken Sie auf **Speichern**.
 
    ![](assets/image2014-9-15-17-3a4-3a14.png)
 

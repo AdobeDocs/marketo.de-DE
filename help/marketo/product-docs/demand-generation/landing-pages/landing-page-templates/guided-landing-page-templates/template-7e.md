@@ -1,7 +1,7 @@
 ---
 unique-page-id: 8783954
-description: Vorlage 7E - Marketo Docs - Produktdokumentation
-title: Vorlage 7E
+description: Vorlage 7e - Marketo-Dokumente - Produktdokumentation
+title: Meldebogen 7e
 exl-id: 5f15e2c5-8206-4de1-b952-0e85f8864715
 feature: Landing Pages, Guided Landing Page Templates
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
@@ -11,22 +11,22 @@ ht-degree: 0%
 
 ---
 
-# Vorlage 7E {#template-7e}
+# Meldebogen 7e {#template-7e}
 
-Klicken Sie mit der rechten Maustaste auf [Vorlage herunterladen 7E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7e.html)
+Rechtsklick zum Herunterladen [Vorlage 7E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7e.html)
 
 ![](assets/image2015-7-29-15-3a11-3a34.png)
 
 Diese Vorlage enthält den folgenden Inhalt:
 
-* Kopfzeile (optional)
+* Eine Kopfzeile (optional)
 * Ein primärer Abschnitt
 
-   * enthält einen Header und einen Gewinnspiel
+   * Enthält eine Kopfzeile und einen Gewinneinsatz
 
-* Vier Hauptteilabschnitte (optional)
-* Fußzeile (optional)
+* Vier Karosserieabschnitte (optional)
+* Eine Fußzeile (optional)
 
-**Klicken Sie mit der rechten Maustaste unten, um diese Vorlage herunterzuladen:**
+**Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
 [Vorlage 7E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7e.html)

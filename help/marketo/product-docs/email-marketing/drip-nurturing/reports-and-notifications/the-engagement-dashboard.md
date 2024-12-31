@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Das Interaktions-Dashboard {#the-engagement-dashboard}
 
-Das Interaktions-Dashboard bietet die einfachste Möglichkeit, die Leistung des Inhalts in Ihrem Interaktionsprogramm zu ermitteln.
+Das Interaktions-Dashboard ist die einfachste Möglichkeit, um zu sehen, wie die Inhalte in Ihrem Interaktionsprogramm funktionieren.
 
 >[!NOTE]
 >
->Der Interaktionswert enthält Daten aus Ihren letzten drei Beiträgen. Eine neue wird 72 Stunden nach jedem Spiel berechnet. Erfahren Sie mehr über den [Interaktionswert](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
+>Der Interaktionswert enthält Daten aus Ihren letzten drei Prüfungen. Eine neue wird 72 Stunden nach jedem Cast berechnet. Weitere Informationen zum [Interaktionswert](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
 
-## Anzeigen des Interaktions-Dashboards {#view-the-engagement-dashboard}
+## Interaktions-Dashboard anzeigen {#view-the-engagement-dashboard}
 
 Wählen Sie Ihr Interaktionsprogramm aus und klicken Sie auf **Anzeigen** > **Dashboard**.
 
@@ -27,39 +27,39 @@ Wählen Sie Ihr Interaktionsprogramm aus und klicken Sie auf **Anzeigen** > **Da
 
 >[!TIP]
 >
->Detailliertere Statistiken finden Sie im [ Interaktionsstream-Leistungsbericht](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) .
+>Ausführlichere Statistiken finden Sie im [Bericht zur ](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) des Interaktionsstroms“.
 
-## Erschöpfungs-Widget {#understand-the-exhaustion-widget}
+## Erläuterung des Erschöpfungs-Widgets {#understand-the-exhaustion-widget}
 
-Mit diesem Widget können Sie vorhersehen, wann Leads alle Inhalte erschöpft haben. Der Erschöpfungswert wird unmittelbar nach jedem Guss berechnet. Das folgende Beispiel zeigt, dass 195 Leads im 1. Takt alle Inhalte ausgeschöpft haben.
+Dieses Widget hilft Ihnen dabei, vorauszusehen, wann die Leads alle Inhalte erschöpft haben werden. Die Erschöpfungsbewertung wird unmittelbar nach jedem Gips berechnet. Das folgende Beispiel zeigt, dass in einer Besetzung 195 Leads alle Inhalte erschöpft haben.
 
 ![](assets/image2014-9-15-16-3a45-3a10.png)
 
 >[!NOTE]
 >
->Sie müssen auf die Registerkarte Einrichtung gehen und sicherstellen, dass abgelaufene Inhaltsbenachrichtigungen **Ein** sind, um das Diagramm oben anzuzeigen. Wenn sie deaktiviert sind, sieht das Diagramm anders aus.
+>Sie müssen auf der Registerkarte Setup sicherstellen, dass die Option Erschöpfte Inhaltsbenachrichtigungen aktiviert **,** das obige Diagramm angezeigt wird. Wenn sie deaktiviert sind, sieht das Diagramm anders aus.
 
 >[!CAUTION]
 >
->Personen, die &quot;erschöpft&quot; sind, werden keine Kommunikation in der nächsten Besetzung erhalten.
+>Personen, die „erschöpft“ sind, erhalten in der nächsten Besetzung keine Nachricht.
 
-## Widget &quot;Interaktion im Zeitverlauf&quot; {#understand-the-engagement-over-time-widget}
+## Grundlegendes zum Widget „Interaktion im Zeitverlauf“ {#understand-the-engagement-over-time-widget}
 
-Zeigt den durchschnittlichen Interaktionswert im Zeitverlauf und die Auswirkungen von Inhaltsbearbeitungen an.
+Zeigt die durchschnittliche Interaktionsbewertung im Zeitverlauf und die Auswirkungen von Inhaltsbearbeitungen an.
 
 >[!AVAILABILITY]
 >
->Diese Funktion ist als Add-on für Kunden verfügbar, die Marketo Umsatz-Cycle Explorer verwenden. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).
+>Diese Funktion ist als Add-on für Kunden verfügbar, die den Umsatzzyklus-Explorer von Marketo verwenden. Weitere Informationen erhalten Sie beim Adobe Account Team (Ihrem Account Manager).
 
 ![](assets/image2014-9-15-16-3a45-3a50.png)
 
-Um anstelle eines Durchschnitts nur ein einzelnes Inhaltselement anzuzeigen, klicken Sie auf das Zahnradsymbol und wählen Sie dann das Inhaltselement aus.
+Um ein einzelnes Inhaltselement anstelle eines Durchschnitts anzuzeigen, klicken Sie auf das Zahnradsymbol und wählen Sie dann das Inhaltselement aus.
 
 ![](assets/image2014-9-15-16-3a46-3a45.png)
 
-## Das Widget zur höchsten Interaktion {#understand-the-highest-engagement-widget}
+## Das Widget „Höchste Interaktion“ {#understand-the-highest-engagement-widget}
 
-Eine Liste aller Inhalte, sortiert nach dem höchsten Interaktionswert.
+Eine Liste aller Inhalte, sortiert nach der höchsten Interaktionsbewertung.
 
 ![](assets/image2014-9-15-16-3a46-3a54.png)
 
@@ -71,4 +71,4 @@ _Neueste_ und _Älteste_ basieren auf dem Zeitpunkt der letzten Genehmigung.
 
 >[!NOTE]
 >
->Weitere Informationen finden Sie im tiefen Tauchgang [Erstellen eines Interaktionsprogramms](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md) .
+>Weitere Informationen finden Sie in der [Erstellen eines Interaktionsprogramms](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md) Vertiefung.

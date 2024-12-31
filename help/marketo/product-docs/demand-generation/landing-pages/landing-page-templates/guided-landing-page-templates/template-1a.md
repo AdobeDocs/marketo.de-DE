@@ -1,7 +1,7 @@
 ---
 unique-page-id: 7515620
-description: Vorlage 1A - Marketo-Dokumente - Produktdokumentation
-title: Vorlage 1A
+description: Vorlage 1a - Marketo-Dokumente - Produktdokumentation
+title: Meldebogen 1a
 exl-id: e2dd3c0a-405b-414a-bdbc-bd1cb85d6d13
 feature: Landing Pages, Guided Landing Page Templates
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
@@ -11,9 +11,9 @@ ht-degree: 0%
 
 ---
 
-# Vorlage 1A {#template-1a}
+# Meldebogen 1a {#template-1a}
 
-Rechtsklicken Sie auf [Vorlage 1A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1a.html) herunterladen
+Rechtsklick zum Herunterladen [Vorlage 1A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1a.html)
 
 ![](assets/image2015-5-28-10-3a1-3a40.png)
 
@@ -21,11 +21,11 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 * Ein primärer Abschnitt
 
-   * enthält Hero-Bild, Kopfzeile, Textkörper und Schaltfläche.
+   * Enthält Hero-Bild, Kopfzeile, Textkörper und Schaltfläche.
 
 * Drei Hauptteilabschnitte (optional)
 * Fußzeile (optional)
 
-**Klicken Sie mit der rechten Maustaste unten, um diese Vorlage herunterzuladen:**
+**Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
-[Vorlage 1a.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1a.html)
+[Vorlage 1A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1a.html)

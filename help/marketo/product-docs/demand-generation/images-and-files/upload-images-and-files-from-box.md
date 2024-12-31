@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359868
-description: Hochladen von Bildern und Dateien von Box - Marketo Docs - Produktdokumentation
-title: Hochladen von Bildern und Dateien aus dem Feld
+description: Hochladen von Bildern und Dateien aus Box - Marketo-Dokumente - Produktdokumentation
+title: Hochladen von Bildern und Dateien aus Box
 exl-id: 08596026-ce25-4076-957a-d069aa44b85a
 feature: Image Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '109'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Hochladen von Bildern und Dateien aus dem Feld {#upload-images-and-files-from-box}
+# Hochladen von Bildern und Dateien aus Box {#upload-images-and-files-from-box}
 
 Sie können Dateien von Box hochladen, um sie auf Landingpages und E-Mails zu verwenden.
 
@@ -19,11 +19,11 @@ Sie können Dateien von Box hochladen, um sie auf Landingpages und E-Mails zu ve
 
    ![](assets/designstudio-3.png)
 
-1. Wechseln Sie zu **Bilder und Dateien**. Klicken Sie auf **Dateiaktionen** und wählen Sie **Bilder aus Web abrufen** aus.
+1. Navigieren Sie zu **Bilder und Dateien**. Klicken Sie auf **Dateiaktionen** und wählen Sie **Bilder aus dem Web**.
 
    ![](assets/image2014-9-16-12-3a50-3a40.png)
 
-1. Klicken Sie auf **Feld**.
+1. Klicken Sie auf **Box**.
 
    ![](assets/image2014-9-16-12-3a50-3a56.png)
 
@@ -35,11 +35,11 @@ Sie können Dateien von Box hochladen, um sie auf Landingpages und E-Mails zu ve
 
    ![](assets/image2014-9-16-12-3a51-3a28.png)
 
-1. Wählen Sie aus, wo Sie die Dateien speichern möchten. Wählen Sie dann den Ordner **Feld** aus, aus dem Sie hochladen möchten. Klicken Sie auf **Weiter**.
+1. Wählen Sie aus, wo Sie die Dateien speichern möchten. Wählen Sie dann den **Box**-Ordner aus, aus dem Sie hochladen möchten. Klicken Sie auf **Weiter**.
 
    ![](assets/image2014-9-16-12-3a51-3a59.png)
 
-1. Wählen Sie die Dateien aus, die Sie hochladen möchten. Klicken Sie auf **Importieren**.
+1. Wählen Sie die Dateien aus, die Sie hochladen möchten. Klicken Sie **Importieren**.
 
    ![](assets/image2014-9-16-12-3a52-3a15.png)
 

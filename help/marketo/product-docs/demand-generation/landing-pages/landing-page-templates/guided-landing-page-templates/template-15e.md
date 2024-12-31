@@ -1,7 +1,7 @@
 ---
 unique-page-id: 9437831
-description: Vorlage 15E - Marketo Docs - Produktdokumentation
-title: Vorlage 15E
+description: Vorlage 15e - Marketo-Dokumente - Produktdokumentation
+title: Meldebogen 15e
 exl-id: 4f0b474d-b347-4ce9-bc6c-0479468cf6e6
 feature: Landing Pages, Guided Landing Page Templates
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
@@ -11,9 +11,9 @@ ht-degree: 0%
 
 ---
 
-# Vorlage 15E {#template-15e}
+# Meldebogen 15e {#template-15e}
 
-Rechtsklicken Sie auf [Vorlage 15E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15e.html) herunterladen
+Rechtsklick zum Herunterladen [Vorlage 15E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15e.html)
 
 ![](assets/image2015-8-13-14-3a8-3a14.png)
 
@@ -21,11 +21,11 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 * Ein primärer Abschnitt
 
-   * enthält ein Hero-Bild und die Schaltfläche &quot;Mehr erfahren&quot;
+   * enthält ein Hero-Bild und die Schaltfläche „Mehr erfahren“
 
-* Fünf Hauptabschnitte (optional)
+* Fünf Hauptteilabschnitte (optional)
 * Fußzeile (optional)
 
-**Klicken Sie mit der rechten Maustaste unten, um diese Vorlage herunterzuladen:**
+**Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
 [Vorlage 15E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15e.html)

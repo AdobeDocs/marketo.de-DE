@@ -1,7 +1,7 @@
 ---
 unique-page-id: 1900558
-description: Elemente in einer E-Mail bearbeiten - Marketo-Dokumente - Produktdokumentation
-title: Elemente in einer E-Mail bearbeiten
+description: Bearbeiten von Elementen in einer E-Mail - Marketo-Dokumente - Produktdokumentation
+title: Bearbeiten von Elementen in einer E-Mail
 exl-id: 915b4a45-f92e-40ff-9a4c-65c52f19f1ec
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,9 +11,9 @@ ht-degree: 0%
 
 ---
 
-# Elemente in einer E-Mail bearbeiten {#edit-elements-in-an-email}
+# Bearbeiten von Elementen in einer E-Mail {#edit-elements-in-an-email}
 
-E-Mails können vier verschiedene Elemente enthalten: Rich-Text, Bilder, Snippets und Video. Hier finden Sie, wie Sie sie bearbeiten können.
+E-Mails können vier verschiedene Elemente enthalten: Rich-Text, Bilder, Snippets und Videos. So bearbeiten Sie jede Datei.
 
 ## Bearbeiten des Rich-Text-Elements {#how-to-edit-the-rich-text-element}
 
@@ -21,7 +21,7 @@ E-Mails können vier verschiedene Elemente enthalten: Rich-Text, Bilder, Snippet
 
    ![](assets/one-edited.png)
 
-1. Der E-Mail-Editor wird geöffnet. Wählen Sie den Text Rich aus, klicken Sie auf das Zahnradsymbol und wählen Sie **Bearbeiten** aus.
+1. Der E-Mail-Editor wird geöffnet. Wählen Sie den Rich-Text aus, klicken Sie auf das Zahnradsymbol und wählen Sie **Bearbeiten** aus.
 
    ![](assets/two.png)
 
@@ -29,7 +29,7 @@ E-Mails können vier verschiedene Elemente enthalten: Rich-Text, Bilder, Snippet
 
    ![](assets/three.png)
 
-1. Fügen Sie Ihren Text hinzu/bearbeiten Sie ihn und drücken Sie **Speichern**.
+1. Fügen Sie Ihren Text hinzu bzw. bearbeiten Sie ihn und drücken Sie **Speichern**.
 
    ![](assets/four.png)
 
@@ -39,15 +39,15 @@ E-Mails können vier verschiedene Elemente enthalten: Rich-Text, Bilder, Snippet
 
    >[!CAUTION]
    >
-   >Kopieren und Einfügen von Text aus einer Rich-Text-Quelle wie einer Website oder einem Word-Dokument vermeiden. Fügen Sie stattdessen Rich-Text zuerst in einen Nur-Text-Editor ein, z. B. Notepad (Windows) oder TextEdit (Mac). Sobald es &quot;sauber&quot;ist, können Sie es aus dem Texteditor kopieren und in Ihre E-Mail einfügen.
+   >Vermeiden Sie das Kopieren und Einfügen von Text aus einer Rich-Text-Quelle, z. B. einer Website oder einem Word-Dokument. Fügen Sie stattdessen Rich-Text zuerst in einen Nur-Text-Editor ein, z. B. Editor (Windows) oder TextEdit (Mac). Sobald er „sauber“ ist, können Sie ihn aus dem Texteditor kopieren und in Ihre E-Mail einfügen.
 
 ## Bearbeiten des Bildelements {#how-to-edit-the-image-element}
 
-1. Klicken Sie in das Modul mit dem Bildelement, um es auszuwählen.
+1. Klicken Sie in das Modul mit dem Element Bild , um es auszuwählen.
 
    ![](assets/five.png)
 
-1. Klicken Sie auf das Bildelement, das Sie bearbeiten möchten, klicken Sie auf das Zahnradsymbol und wählen Sie **Bearbeiten** aus.
+1. Klicken Sie auf das Bildelement, das Sie bearbeiten möchten, dann auf das Zahnradsymbol und wählen Sie **Bearbeiten** aus.
 
    ![](assets/six.png)
 
@@ -59,53 +59,53 @@ E-Mails können vier verschiedene Elemente enthalten: Rich-Text, Bilder, Snippet
 
    ![](assets/seven.png)
 
-   Sie haben drei Optionen zum Einfügen eines Bildes. Schauen wir uns jeden an.
+   Sie haben drei Möglichkeiten, ein Bild einzufügen. Schauen wir uns die an.
 
    **Externe URL**
 
    >[!NOTE]
    >
-   >Wenn Sie ein Marketo-Token verwenden möchten, verwenden Sie diese Option. Beachten Sie, dass bei Verwendung eines Tokens das Bild im Editor beschädigt erscheint, aber im Vorschaumodus und in der E-Mail zum Senden eines Beispiels gerendert wird.
+   >Wenn Sie ein Marketo-Token verwenden möchten, verwenden Sie diese Option. Beachten Sie, dass bei Verwendung eines Tokens das Bild im Editor beschädigt aussieht, aber im Vorschaumodus und in der E-Mail „Beispiel senden“ gerendert wird.
 
-   Um eine externe URL zu verwenden, fügen Sie zuerst die URL des Bildes ein. Ändern Sie die Dimensionen entsprechend Ihren Anforderungen und fügen Sie einen Alternativtext hinzu (optional). Drücken Sie dann **Swap**.
+   Um eine externe URL zu verwenden, fügen Sie zuerst die URL des Bildes ein. Ändern Sie die Abmessungen entsprechend Ihren Anforderungen und fügen Sie alternativen Text hinzu (optional). Drücken Sie dann **Swap**.
 
    ![](assets/eight.png)
 
    **Arbeitsplatz**
 
-   Um ein Bild von Ihrem Computer hochzuladen, klicken Sie auf **Durchsuchen**.
+   Um ein Bild von Ihrem Computer hochzuladen, klicken Sie auf &quot;**&quot;**.
 
    ![](assets/nine.png)
 
-   Navigieren Sie an die Stelle, an der sich das Bild auf Ihrem Computer befindet, und fügen Sie es ein.
+   Navigieren Sie zu der Stelle, an der sich das Bild auf Ihrem Computer befindet, und fügen Sie es ein.
 
    ![](assets/ten.png)
 
-   Ändern Sie die Dimensionen entsprechend Ihren Anforderungen, ändern Sie den ALT-Text (optional) und drücken Sie dann **Swap** .
+   Ändern Sie die Abmessungen entsprechend Ihren Anforderungen, ändern Sie den Alt-Text (optional) und drücken Sie dann **Swap**.
 
    ![](assets/eleven.png)
 
    >[!NOTE]
    >
-   >Wenn Sie ein Bild ersetzen, müssen Sie das Feld **Vorhandenes Bild überschreiben** aktivieren, das unter der Bild-URL/-Namen angezeigt wird.
+   >Wenn Sie ein Bild ersetzen, müssen Sie das Kästchen **Vorhandenes Bild überschreiben** aktivieren, das unter der Bild-URL/-name angezeigt wird.
 
    **Design Studio**
 
-   Wenn Sie ein Bild aus der Design Studio-Anwendung einfügen möchten, suchen Sie es einfach..
+   Um ein Bild aus dem Design Studio einzufügen, suchen Sie es einfach…
 
    ![](assets/twelve.png)
 
-   ... und fügen Sie es ein. Ändern Sie die Dimensionen entsprechend Ihren Anforderungen, ändern Sie den ALT-Text (optional) und drücken Sie dann **Swap** .
+   …und fügen Sie es ein. Ändern Sie die Abmessungen entsprechend Ihren Anforderungen, ändern Sie den Alt-Text (optional) und drücken Sie dann **Swap**.
 
    ![](assets/thirteen.png)
 
 ## Bearbeiten des Snippet-Elements {#how-to-edit-the-snippet-element}
 
-1. Klicken Sie in das Modul mit dem Element Snippet .
+1. Klicken Sie in das Modul mit dem Snippet-Element.
 
    ![](assets/fourteen.png)
 
-1. Klicken Sie auf das Element &quot;Ausschnitt&quot;, dann auf das Zahnradsymbol und wählen Sie **Bearbeiten** aus.
+1. Klicken Sie auf das Snippet-Element, dann auf das Zahnradsymbol und wählen Sie **Bearbeiten**.
 
    ![](assets/fifteen.png)
 
@@ -113,26 +113,26 @@ E-Mails können vier verschiedene Elemente enthalten: Rich-Text, Bilder, Snippet
 
    ![](assets/sixteen.png)
 
-1. Ihr Snippet wird dann ausgefüllt.
+1. Ihr Code-Ausschnitt wird dann ausgefüllt.
 
    ![](assets/eighteen.png)
 
-## Bearbeiten des Videoelements {#how-to-edit-the-video-element}
+## Anleitung zum Bearbeiten des Videoelements {#how-to-edit-the-video-element}
 
-1. Klicken Sie in das Modul mit dem Element Video .
+1. Klicken Sie in das Modul mit dem Videoelement.
 
    ![](assets/nineteen.png)
 
-1. Klicken Sie auf das Element Video , dann auf das Zahnradsymbol und wählen Sie **Bearbeiten** aus.
+1. Klicken Sie auf das Videoelement und dann auf das Zahnradsymbol und wählen Sie **Bearbeiten**.
 
    ![](assets/twenty.png)
 
-1. Fügen Sie die Video-URL aus Vimeo oder YouTube ein. Klicken Sie dann in das URL-Feld, damit die Vorschau geladen werden kann. Ändern Sie die Dimensionen entsprechend Ihren Anforderungen, fügen Sie ALT-Text hinzu (optional) und drücken Sie dann **Einfügen**.
+1. Fügen Sie die Video-URL aus Vimeo oder YouTube ein. Klicken Sie dann in das URL-Feld, damit die Vorschau geladen wird. Ändern Sie die Abmessungen entsprechend Ihren Anforderungen, fügen Sie Alt-Text hinzu (optional) und drücken Sie dann **Einfügen**.
 
    ![](assets/twentyone.png)
 
    >[!NOTE]
    >
-   >Für YouTube-Videos verwenden Sie die vollständige URL aus der Adressleiste, nicht die in der Option Freigeben enthaltene URL.
+   >Verwenden Sie für YouTube-Videos die vollständige URL aus der Adressleiste, nicht die Verknüpfungs-URL aus der Freigabeoption.
 
 Viel Spaß beim Entwerfen der perfekten E-Mail!

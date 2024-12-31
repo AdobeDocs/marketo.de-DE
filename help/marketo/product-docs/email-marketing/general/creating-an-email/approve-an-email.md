@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1147342
-description: E-Mail genehmigen - Marketo-Dokumente - Produktdokumentation
+description: Genehmigen einer E-Mail - Marketo-Dokumente - Produktdokumentation
 title: E-Mail genehmigen
 exl-id: dec8ce3e-e11c-4edc-8c81-82a95fc8ed13
 feature: Email Editor
@@ -13,24 +13,24 @@ ht-degree: 0%
 
 # E-Mail genehmigen {#approve-an-email}
 
-E-Mails beginnen im Entwurfsstatus. Sie sind im System in der Regel nicht verfügbar, bis Sie sie genehmigen. Es gibt verschiedene Möglichkeiten, eine E-Mail zu validieren.
+E-Mails beginnen im Entwurfsstatus. Sie sind im Allgemeinen im System erst verfügbar, nachdem Sie sie genehmigt haben. Es gibt mehrere Möglichkeiten, eine E-Mail zu genehmigen.
 
-## Validierung über das Menü E-Mail-Aktionen {#approve-it-using-the-email-actions-menu}
+## Genehmigen mithilfe des Menüs E-Mail-Aktionen . {#approve-it-using-the-email-actions-menu}
 
-1. Suchen und wählen Sie Ihre E-Mail aus, klicken Sie auf das Dropdown-Menü **E-Mail-Aktionen** und wählen Sie **Genehmigen** aus.
+1. Suchen Sie Ihre E-Mail, wählen Sie sie aus, klicken Sie auf **E-Mail** Aktionen) und wählen Sie **Genehmigen**.
 
    ![](assets/one.png)
 
-## Direkte Genehmigung im Baum {#approve-it-directly-in-the-tree}
+## Direkt in der Baumstruktur genehmigen {#approve-it-directly-in-the-tree}
 
-1. Suchen und wählen Sie Ihre E-Mail aus, klicken Sie mit der rechten Maustaste darauf und wählen Sie **Genehmigen** aus.
+1. Suchen Sie Ihre E-Mail, wählen Sie sie aus, klicken Sie mit der rechten Maustaste darauf und wählen Sie **Genehmigen**.
 
    ![](assets/approveemail.png)
 
 ## E-Mail im E-Mail-Editor genehmigen {#approve-your-email-in-the-email-editor}
 
-1. Klicken Sie in Ihrer E-Mail auf das Dropdown-Menü **E-Mail-Aktionen** und wählen Sie **Genehmigen und schließen** aus.
+1. Klicken Sie in Ihrer E-Mail auf **E-Mail-Aktionen** und wählen Sie **Genehmigen und schließen**.
 
    ![](assets/three.png)
 
-Nach der Validierung ist Ihre E-Mail einsatzbereit!
+Nach der Genehmigung ist Ihre E-Mail einsatzbereit!

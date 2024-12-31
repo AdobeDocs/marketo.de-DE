@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1147328
-description: Hard- und Softbounces in E-Mail - Marketo-Dokumente - Produktdokumentation
+description: Hardbounces und Softbounces in E-Mails - Marketo-Dokumente - Produktdokumentation
 title: Hard- und Softbounces in E-Mails
 exl-id: 53298562-76b6-473a-bf9f-2bec682f4d35
 feature: Deliverability
@@ -13,32 +13,32 @@ ht-degree: 0%
 
 # Hard- und Softbounces in E-Mails {#hard-and-soft-bounces-in-email}
 
-Bei einem Hardbounce kann die E-Mail-Adresse einer Person ungültig werden, wenn ein Mailserver Marketo mitteilt, dass die E-Mail-Adresse der Person nicht zugestellt werden kann. Ein Softbounce bedeutet, dass bei der Zustellung der E-Mail an die Person etwas schief gelaufen ist. Dies wird automatisch behoben und kann manchmal Tage in Anspruch nehmen. Sowohl Hard- als auch Softbounces bestehen aus [mehreren Kategorien](https://nation.marketo.com/t5/Knowledgebase/Maintaining-a-Directory-of-Leads-Bouncing-Emails/ta-p/300838).
+Ein Hardbounce kann die E-Mail-Adresse einer Person ungültig machen, wenn ein Mail-Server Marketo mitteilt, dass die E-Mail der Person nicht zugestellt werden kann. Ein Softbounce bedeutet, dass beim Versand der E-Mail an die Person etwas schiefgelaufen ist. Dies wird automatisch behoben und kann manchmal Tage dauern. Sowohl Hard- als auch Softbounces bestehen aus [mehreren ](https://nation.marketo.com/t5/Knowledgebase/Maintaining-a-Directory-of-Leads-Bouncing-Emails/ta-p/300838).
 
-## Bounce-Classification {#bounce-classification}
+## Bounce-Klassifizierung {#bounce-classification}
 
-In Marketo gibt es fünf Personenketten, die sich auf den problemlosen E-Mail-Versand beziehen.
+Es gibt 5 Personen-Zeichenfolgen in Marketo, die mit einem problematischen E-Mail-Versand zusammenhängen.
 
-1. **E-Mail ausgesetzt** - Auf &quot;True&quot;setzen, wenn ein bestimmter Hardbounce-Typ auftritt.
-1. **E-Mail-angehaltene Ursache** - Es kann viele Gründe geben. In diesem Feld wird versucht, die Ursache zu erklären.
-1. **E-Mail ausgesetzt am** - Wenn der fehlerhafte Bounce auftritt, setzt Marketo den Versand an die Person für 24 Stunden ab diesem Zeitstempel aus.
-1. **E-Mail ungültig** - Auf &quot;True&quot;setzen, wenn ein bestimmter Hardbounce-Typ auftritt.
-1. **E-Mail ungültige Ursache** - Der Grund für die Hardbounce.
+1. **E-Mail ausgesetzt** - Auf „True“ gesetzt, wenn ein bestimmter Hardbounce auftritt.
+1. **Grund für ausgesetztes E-Mail** - Es kann viele Gründe geben. Dieses Feld versucht, die Ursache zu erklären.
+1. **E-Mail ausgesetzt um** - Wenn der fehlerhafte Bounce auftritt, setzt Marketo den Versand an die Person für 24 Stunden ab diesem Zeitstempel aus.
+1. **E-Mail ungültig** - Auf „True“ gesetzt, wenn ein bestimmter Typ von Hardbounce auftritt.
+1. **Ungültige E-Mail-**: Der Grund für den Hardbounce.
 
 >[!NOTE]
 >
->Nachdem eine Person den Status **E-Mail ausgesetzt** erreicht hat, gibt es keine Möglichkeit, das Kontrollkästchen für die ausgesetzte E-Mail zu deaktivieren. Die Person wird jedoch noch 24 Stunden nach der ersten Aussetzung in Mailboxen versenden.
+>Nachdem eine Person den Status **E-Mail ausgesetzt** erreicht hat, gibt es keine Möglichkeit, das Kontrollkästchen „E-Mail ausgesetzt“ zu deaktivieren. Die Person wird jedoch 24 Stunden nach der ersten Aussetzung noch per E-Mail erreichbar sein.
 >
->Wenn eine Person als **ungültige E-Mail** markiert ist, kann sie nur manuell zurückgesetzt werden (was wir Ihnen empfehlen, dies nur zu tun, wenn Sie wissen, dass ihre E-Mail gültig ist), indem Sie auf der Registerkarte &quot;Persönliche Informationen&quot;ihres Datensatzes das Kontrollkästchen &quot;E-Mail ungültig&quot;deaktivieren.
+>Wenn eine Person als **E-Mail ungültig** markiert wird, kann sie nur manuell zurückgesetzt werden (was wir nur empfehlen, wenn Sie wissen, dass ihre E-Mail-Adresse mit Sicherheit gültig ist), indem Sie das Kontrollkästchen „E-Mail ungültig“ auf der Registerkarte Personeninformationen ihres Datensatzes deaktivieren.
 
 >[!PREREQUISITES]
 >
 >Führen Sie [diese Schritte](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) aus, um einen E-Mail-Leistungsbericht zu erstellen, der Bounce-Daten generiert.
 
-Nach der Erstellung Ihres E-Mail-Leistungsberichts sollte Ihr Bildschirm in etwa wie folgt aussehen:
+Nach der Erstellung des E-Mail-Leistungsberichts sollte Ihr Bildschirm etwa wie folgt aussehen:
 
 ![](assets/soft-hard-bounce.png)
 
 >[!NOTE]
 >
->Spamfilter erzeugen manchmal Hardbounces. Diese &quot;Falsch-Positiv-Werte&quot;sind kein Hinweis auf die wahre Gültigkeit der E-Mail-Adresse der Person.
+>Spam-Filter verursachen manchmal Hardbounces. Diese „falsch-positiven Ergebnisse“ sind kein Hinweis auf die wahre Gültigkeit der E-Mail-Adresse der Person.

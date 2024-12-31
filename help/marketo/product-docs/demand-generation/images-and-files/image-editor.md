@@ -11,20 +11,20 @@ ht-degree: 7%
 
 # Bildeditor {#image-editor}
 
-Mit dem Bildeditor können Sie Ihre Bilder in Marketo Engage schnell und einfach bearbeiten.
+Mit dem Bildeditor können Sie Ihre Bilder in Marketo Engage schnell und leicht bearbeiten.
 
-1. Wechseln Sie zu **[!UICONTROL Design Studio]**.
+1. Gehen Sie zum **[!UICONTROL Design Studio]**.
 
    ![](assets/image-editor-1.png)
 
-1. Suchen und wählen Sie das Bild aus.
+1. Suchen und wählen Sie Ihr Bild aus.
 
    ![](assets/image-editor-2.png)
 
-1. Klicken Sie auf die Schaltfläche **[!UICONTROL Bild bearbeiten]** .
+1. Klicken Sie auf **[!UICONTROL Schaltfläche]** Bild bearbeiten“.
 
    ![](assets/image-editor-3.png)
 
-1. Wählen Sie in der Symbolleiste am oberen Rand eine Vielzahl von Funktionen aus. Klicken Sie auf **[!UICONTROL Speichern]**, wenn Sie fertig sind.
+1. Wählen Sie in der Symbolleiste oben aus einer Vielzahl von Funktionen. Klicken Sie auf **[!UICONTROL Speichern]**, wenn Sie fertig sind.
 
    ![](assets/image-editor-4.png)

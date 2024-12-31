@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359652
-description: Interaktionsprogramm erstellen - Marketo-Dokumente - Produktdokumentation
+description: Erstellen eines Interaktionsprogramms - Marketo-Dokumente - Produktdokumentation
 title: Erstellen eines Interaktionsprogramms
 exl-id: 90f76d04-79cf-4fa1-999b-54d4ae34223f
 feature: Engagement Programs
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Erstellen eines Interaktionsprogramms {#create-an-engagement-program}
 
-Sie können Interaktionsprogramme in Marketo verwenden, um E-Mail-Pflege zu erleichtern.
+Sie können in Marketo Interaktionsprogramme verwenden, um E-Mail-Pflege einfach durchzuführen.
 
-1. Wechseln Sie zu **Marketingaktivitäten**.
+1. Navigieren Sie **Marketing-Aktivitäten**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -27,11 +27,11 @@ Sie können Interaktionsprogramme in Marketo verwenden, um E-Mail-Pflege zu erle
 
    ![](assets/image2014-9-15-15-3a35-3a32.png)
 
-1. Gut, jetzt, da Sie ein Interaktionsprogramm haben, lassen Sie uns fortfahren und es anziehen.
+1. Okay, jetzt, da Sie ein Interaktionsprogramm haben, machen wir weiter und verkleiden es.
 
    ![](assets/image2014-9-15-15-3a35-3a38.png)
 
    >[!MORELIKETHIS]
    >
    >* [Inhalt zu einem Stream hinzufügen](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
-   >* [Stream-Kadenz festlegen](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
+   >* [Festlegen der Stream-Kadenz](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7515616
-description: Geführte Vorlagenliste für Landingpages - Marketo-Dokumente - Produktdokumentation
+description: Liste der geführten Landingpage-Vorlagen - Marketo-Dokumente - Produktdokumentation
 title: Liste der geführten Landingpage-Vorlagen
 exl-id: 93893c9c-dda2-4d18-b74c-e47388ed552c
 feature: Landing Pages, Guided Landing Page Templates
@@ -13,27 +13,27 @@ ht-degree: 0%
 
 # Liste der geführten Landingpage-Vorlagen {#guided-landing-page-template-list}
 
-Durchsuchen Sie unsere Sammlung von Beispielvorlagen zur Verwendung mit dem [geführten Landingpage-Editor](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Jede Vorlage ist vollständig responsiv und basiert auf dem Bootstrap-Framework.
+Durchsuchen Sie unsere Sammlung von Beispielvorlagen zur Verwendung mit dem [Geführte Landingpage-Editor](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Jede Vorlage reagiert vollständig und basiert auf dem Bootstrap-Framework.
 
 >[!NOTE]
 >
->Der Marketo-Support ist nicht für die Fehlerbehebung bei HTML eingerichtet. Wenn Sie Hilfe beim Ändern dieser Vorlagen benötigen, wenden Sie sich an einen Webentwickler.
+>Der Marketo-Support ist nicht für die Fehlerbehebung beim HTML eingerichtet. Wenn Sie Hilfe beim Ändern einer dieser Vorlagen benötigen, wenden Sie sich bitte an einen Web-Entwickler.
 
 So importieren Sie eine Vorlage in Marketo:
 
-1. Klicken Sie für eine größere Ansicht auf den Namen der Vorlage.
-1. Laden Sie die ausgewählte Vorlage herunter.
+1. Klicken Sie auf den Namen der Vorlage, um die Ansicht zu vergrößern.
+1. Herunterladen der ausgewählten Vorlage.
 1. Navigieren Sie in Marketo zu **Design Studio.**
-1. Klicken Sie im linken Baum auf **Landingpages** und wählen Sie dann **Vorlagen** aus.
+1. Klicken Sie **der linken** auf „Landingpages“ und wählen Sie dann **Vorlagen.**
 
-1. Klicken Sie in der Menüleiste auf **Vorlage importieren**.
-1. Wählen Sie die heruntergeladene Datei aus, geben Sie einen Vorlagennamen ein und klicken Sie auf **Importieren** (wählen Sie einen beschreibenden Namen aus und geben Sie an, dass der Bearbeitungsmodus **Geführt** ist).
+1. Klicken Sie in der Menüleiste auf **Vorlage importieren.**
+1. Wählen Sie die heruntergeladene Datei aus, geben Sie einen Vorlagennamen ein und klicken Sie auf **Importieren** (stellen Sie sicher, dass Sie einen beschreibenden Namen auswählen und angeben, dass der Bearbeitungsmodus &quot;**&quot;**.
 
 <table>
 <tr>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-1a.md">Vorlage 1A</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-1b.md">Vorlage 1B</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-1c.md">Vorlage 1C</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-1a.md">Meldebogen 1a</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-1b.md">Meldebogen 1b</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-1c.md">Meldebogen 1c</a></td>
 <tr>
 <td><img src="assets/1a.jpg"></td>
 <td><img src="assets/1b.jpg"></td>
@@ -41,7 +41,7 @@ So importieren Sie eine Vorlage in Marketo:
 </tr>
 <tr>
 <td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-1d.md">Vorlage 1D</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-1e.md">Vorlage 1E</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-1e.md">Meldebogen 1e</a></td>
 <td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-1f.md">Vorlage 1f</a></td>
 </tr>
 <tr>
@@ -50,9 +50,9 @@ So importieren Sie eine Vorlage in Marketo:
 <td><img src="assets/1f.jpg"></td>
 </tr>
 <tr>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-2a.md">Vorlage 2A</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-2b.md">Vorlage 2B</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-2c.md">Vorlage 2C</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-2a.md">Meldebogen 2a</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-2b.md">Meldebogen 2b</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-2c.md">Meldebogen 2c</a></td>
 </tr>
 <tr>
 <td><img src="assets/2a.jpg"></td>
@@ -61,8 +61,8 @@ So importieren Sie eine Vorlage in Marketo:
 </tr>
 <tr>
 <td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-2d.md">Vorlage 2D</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-3a.md">Vorlage 3A</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-3b.md">Vorlage 3B</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-3a.md">Meldebogen 3a</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-3b.md">Meldebogen 3b</a></td>
 </tr>
 <tr>
 <td><img src="assets/2d.jpg"></td>
@@ -70,9 +70,9 @@ So importieren Sie eine Vorlage in Marketo:
 <td><img src="assets/3b.jpg"></td>
 </tr>
 <tr>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-3c.md">Vorlage 3C</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-3c.md">Meldebogen 3c</a></td>
 <td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-3d.md">Vorlage 3D</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-4a.md">Vorlage 4A</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-4a.md">Meldebogen 4a</a></td>
 </tr>
 <tr>
 <td><img src="assets/3c.jpg"></td>
@@ -80,9 +80,9 @@ So importieren Sie eine Vorlage in Marketo:
 <td><img src="assets/4a.jpg"></td>
 </tr>
 <tr>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-4b.md">Vorlage 4B</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-4c.md">Vorlage 4C</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-5a.md">Vorlage 5A</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-4b.md">Meldebogen 4b</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-4c.md">Meldebogen 4c</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-5a.md">Meldebogen 5a</a></td>
 </tr>
 <tr>
 <td><img src="assets/4b.jpg"></td>
@@ -90,9 +90,9 @@ So importieren Sie eine Vorlage in Marketo:
 <td><img src="assets/5a.jpg"></td>
 </tr>
 <tr>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-5b.md">Vorlage 5B</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-5c.md">Vorlage 5C</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-5d.md">Vorlage 5D</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-5b.md">Meldebogen 5b</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-5c.md">Meldebogen 5c</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-5d.md">Vorlage 5d</a></td>
 </tr>
 <tr>
 <td><img src="assets/5b.jpg"></td>
@@ -100,9 +100,9 @@ So importieren Sie eine Vorlage in Marketo:
 <td><img src="assets/5d.jpg"></td>
 </tr>
 <tr>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-5e.md">Vorlage 5E</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-6a.md">Vorlage 6A</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-6b.md">Vorlage 6B</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-5e.md">Meldebogen 5e</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-6a.md">Meldebogen 6a</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-6b.md">Meldebogen 6b</a></td>
 </tr>
 <tr>
 <td><img src="assets/5e.jpg"></td>
@@ -110,9 +110,9 @@ So importieren Sie eine Vorlage in Marketo:
 <td><img src="assets/6b.jpg"></td>
 </tr>
 <tr>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-6c.md">Vorlage 6C</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-6d.md">Vorlage 6D</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-6e.md">Vorlage 6E</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-6c.md">Vorlage 6c</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-6d.md">Vorlage 6d</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-6e.md">Meldebogen 6e</a></td>
 </tr>
 <tr>
 <td><img src="assets/6c.jpg"></td>
@@ -120,9 +120,9 @@ So importieren Sie eine Vorlage in Marketo:
 <td><img src="assets/6e.jpg"></td>
 </tr>
 <tr>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-7a.md">Vorlage 7A</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-7b.md">Vorlage 7B</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-7c.md">Vorlage 7C</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-7a.md">Meldebogen 7a</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-7b.md">Meldebogen 7b</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-7c.md">Meldebogen 7c</a></td>
 </tr>
 <tr>
 <td><img src="assets/7a.jpg"></td>
@@ -130,9 +130,9 @@ So importieren Sie eine Vorlage in Marketo:
 <td><img src="assets/7c.jpg"></td>
 </tr>
 <tr>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-7d.md">Vorlage 7D</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-7e.md">Vorlage 7E</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-7f.md">Vorlage 7F</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-7d.md">Vorlage 7d</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-7e.md">Meldebogen 7e</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-7f.md">Meldebogen 7f</a></td>
 </tr>
 <tr>
 <td><img src="assets/7d.jpg"></td>
@@ -140,9 +140,9 @@ So importieren Sie eine Vorlage in Marketo:
 <td><img src="assets/7f.jpg"></td>
 </tr>
 <tr>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-8a.md">Vorlage 8A</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-8b.md">Vorlage 8B</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-8c.md">Vorlage 8C</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-8a.md">Meldebogen 8a</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-8b.md">Vorlage 8b</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-8c.md">Vorlage 8c</a></td>
 </tr>
 <tr>
 <td><img src="assets/8a.jpg"></td>
@@ -150,9 +150,9 @@ So importieren Sie eine Vorlage in Marketo:
 <td><img src="assets/8c.jpg"></td>
 </tr>
 <tr>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-8d.md">Vorlage 8D</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-8e.md">Vorlage 8E</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-8f.md">Vorlage 8F</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-8d.md">Vorlage 8d</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-8e.md">Vorlage 8e</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-8f.md">Vorlage 8f</a></td>
 </tr>
 <tr>
 <td><img src="assets/8d.jpg"></td>
@@ -160,9 +160,9 @@ So importieren Sie eine Vorlage in Marketo:
 <td><img src="assets/8f.jpg"></td>
 </tr>
 <tr>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-8g.md">Vorlage 8G</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-9a.md">Vorlage 9A</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-9b.md">Vorlage 9B</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-8g.md">Vorlage 8g</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-9a.md">Meldebogen 9a</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-9b.md">Meldebogen 9b</a></td>
 </tr>
 <tr>
 <td><img src="assets/8g.jpg"></td>
@@ -170,9 +170,9 @@ So importieren Sie eine Vorlage in Marketo:
 <td><img src="assets/9b.jpg"></td>
 </tr>
 <tr>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-9c.md">Vorlage 9C</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-9d.md">Vorlage 9D</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-9e.md">Vorlage 9E</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-9c.md">Meldebogen 9c</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-9d.md">Vorlage 9d</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-9e.md">Meldebogen 9e</a></td>
 </tr>
 <tr>
 <td><img src="assets/9c.jpg"></td>
@@ -180,9 +180,9 @@ So importieren Sie eine Vorlage in Marketo:
 <td><img src="assets/9e.jpg"></td>
 </tr>
 <tr>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-9f.md">Vorlage 9F</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-10a.md">Vorlage 10A</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-10b.md">Vorlage 10B</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-9f.md">Meldebogen 9f</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-10a.md">Meldebogen 10a</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-10b.md">Meldebogen 10b</a></td>
 </tr>
 <tr>
 <td><img src="assets/9f.jpg"></td>
@@ -190,9 +190,9 @@ So importieren Sie eine Vorlage in Marketo:
 <td><img src="assets/10b.jpg"></td>
 </tr>
 <tr>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-10c.md">Vorlage 10C</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-10d.md">Vorlage 10D</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-10e.md">Vorlage 10E</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-10c.md">Meldebogen 10c</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-10d.md">Vorlage 10d</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-10e.md">Meldebogen 10e</a></td>
 </tr>
 <tr>
 <td><img src="assets/10c.jpg"></td>
@@ -202,9 +202,9 @@ So importieren Sie eine Vorlage in Marketo:
 </table>
 <table>
 <tr>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-10f.md">Vorlage 10F</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-11a.md">Vorlage 11A</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-11b.md">Vorlage 11B</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-10f.md">Meldebogen 10f</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-11a.md">Meldebogen 11a</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-11b.md">Meldebogen 11b</a></td>
 </tr>
 <tr>
 <td><img src="assets/10f.jpg"></td>
@@ -212,9 +212,9 @@ So importieren Sie eine Vorlage in Marketo:
 <td><img src="assets/11b.jpg"></td>
 </tr>
 <tr>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-11c.md">Vorlage 11C</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-11d.md">Vorlage 11D</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-11e.md">Vorlage 11E</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-11c.md">Meldebogen 11c</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-11d.md">Vorlage 11d</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-11e.md">Meldebogen 11e</a></td>
 </tr>
 <tr>
 <td><img src="assets/11c.jpg"></td>
@@ -222,9 +222,9 @@ So importieren Sie eine Vorlage in Marketo:
 <td><img src="assets/11e.jpg"></td>
 </tr>
 <tr>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-11f.md">Vorlage 11F</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12a.md">Vorlage 12A</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12b.md">Vorlage 12B</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-11f.md">Meldebogen 11f</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12a.md">Meldebogen 12a</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12b.md">Meldebogen 12b</a></td>
 </tr>
 <tr>
 <td><img src="assets/11f.jpg"></td>
@@ -232,9 +232,9 @@ So importieren Sie eine Vorlage in Marketo:
 <td><img src="assets/12b.jpg"></td>
 </tr>
 <tr>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12c.md">Vorlage 12C</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12d.md">Vorlage 12D</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12e.md">Vorlage 12E</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12c.md">Meldebogen 12c</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12d.md">Vorlage 12d</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12e.md">Meldebogen 12e</a></td>
 </tr>
 <tr>
 <td><img src="assets/12c.jpg"></td>
@@ -242,9 +242,9 @@ So importieren Sie eine Vorlage in Marketo:
 <td><img src="assets/12e.jpg"></td>
 </tr>
 <tr>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12f.md">Vorlage 12F</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13a.md">Vorlage 13A</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13b.md">Vorlage 13B</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12f.md">Meldebogen 12f</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13a.md">Meldebogen 13a</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13b.md">Meldebogen 13b</a></td>
 </tr>
 <tr>
 <td><img src="assets/12f.jpg"></td>
@@ -252,9 +252,9 @@ So importieren Sie eine Vorlage in Marketo:
 <td><img src="assets/13b.jpg"></td>
 </tr>
 <tr>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13c.md">Vorlage 13C</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13d.md">Vorlage 13D</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13e.md">Vorlage 13E</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13c.md">Meldebogen 13c</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13d.md">Vorlage 13d</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13e.md">Meldebogen 13e</a></td>
 </tr>
 <tr>
 <td><img src="assets/13c.jpg"></td>
@@ -262,9 +262,9 @@ So importieren Sie eine Vorlage in Marketo:
 <td><img src="assets/13e.jpg"></td>
 </tr>
 <tr>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14a.md">Vorlage 14A</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14b.md">Vorlage 14B</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14c.md">Vorlage 14C</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14a.md">Meldebogen 14a</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14b.md">Meldebogen 14b</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14c.md">Meldebogen 14c</a></td>
 </tr>
 <tr>
 <td><img src="assets/14a.jpg"></td>
@@ -272,9 +272,9 @@ So importieren Sie eine Vorlage in Marketo:
 <td><img src="assets/14c.jpg"></td>
 </tr>
 <tr>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14d.md">Vorlage 14D</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14e.md">Vorlage 14E</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-15a.md">Vorlage 15A</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14d.md">Vorlage 14d</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14e.md">Meldebogen 14e</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-15a.md">Meldebogen 15a</a></td>
 </tr>
 <tr>
 <td><img src="assets/14d.jpg"></td>
@@ -282,9 +282,9 @@ So importieren Sie eine Vorlage in Marketo:
 <td><img src="assets/15a.jpg"></td>
 </tr>
 <tr>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-15b.md">Vorlage 15B</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-15c.md">Vorlage 15C</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-15d.md">Vorlage 15D</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-15b.md">Meldebogen 15b</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-15c.md">Meldebogen 15c</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-15d.md">Vorlage 15d</a></td>
 </tr>
 <tr>
 <td><img src="assets/15b.jpg"></td>
@@ -292,9 +292,9 @@ So importieren Sie eine Vorlage in Marketo:
 <td><img src="assets/15d.jpg"></td>
 </tr>
 <tr>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-15e.md">Vorlage 15E</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-16a.md">Vorlage 16A</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-16b.md">Vorlage 16B</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-15e.md">Meldebogen 15e</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-16a.md">Meldebogen 16a</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-16b.md">Meldebogen 16b</a></td>
 </tr>
 <tr>
 <td><img src="assets/15e.jpg"></td>
@@ -302,9 +302,9 @@ So importieren Sie eine Vorlage in Marketo:
 <td><img src="assets/16b.jpg"></td>
 </tr>
 <tr>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-16c.md">Vorlage 16C</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-16d.md">Vorlage 16D</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-16e.md">Vorlage 16E</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-16c.md">Meldebogen 16c</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-16d.md">Vorlage 16d</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-16e.md">Meldebogen 16e</a></td>
 </tr>
 <tr>
 <td><img src="assets/16c.jpg"></td>
@@ -312,9 +312,9 @@ So importieren Sie eine Vorlage in Marketo:
 <td><img src="assets/16e.jpg"></td>
 </tr>
 <tr>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-17a.md">Vorlage 17A</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-17b.md">Vorlage 17B</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-17c.md">Vorlage 17C</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-17a.md">Meldebogen 17a</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-17b.md">Meldebogen 17b</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-17c.md">Meldebogen 17c</a></td>
 </tr>
 <tr>
 <td><img src="assets/17a.jpg"></td>
@@ -322,9 +322,9 @@ So importieren Sie eine Vorlage in Marketo:
 <td><img src="assets/17c.jpg"></td>
 </tr>
 <tr>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-17d.md">Vorlage 17D</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-17e.md">Vorlage 17E</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-18a.md">Vorlage 18A</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-17d.md">Vorlage 17d</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-17e.md">Meldebogen 17e</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-18a.md">Meldebogen 18a</a></td>
 </tr>
 <tr>
 <td><img src="assets/17d.jpg"></td>
@@ -332,9 +332,9 @@ So importieren Sie eine Vorlage in Marketo:
 <td><img src="assets/18a.jpg"></td>
 </tr>
 <tr>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-18b.md">Vorlage 18B</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-18c.md">Vorlage 18C</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-18d.md">Vorlage 18D</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-18b.md">Meldebogen 18b</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-18c.md">Meldebogen 18c</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-18d.md">Vorlage 18d</a></td>
 </tr>
 <tr>
 <td><img src="assets/18b.jpg"></td>
@@ -342,9 +342,9 @@ So importieren Sie eine Vorlage in Marketo:
 <td><img src="assets/18d.jpg"></td>
 </tr>
 <tr>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-18e.md">Vorlage 18E</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-19a.md">Vorlage 19A</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-19b.md">Vorlage 19B</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-18e.md">Meldebogen 18e</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-19a.md">Meldebogen 19a</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-19b.md">Meldebogen 19b</a></td>
 </tr>
 <tr>
 <td><img src="assets/18e.jpg"></td>
@@ -352,9 +352,9 @@ So importieren Sie eine Vorlage in Marketo:
 <td><img src="assets/19b.jpg"></td>
 </tr>
 <tr>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-19c.md">Vorlage 19C</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-19d.md">Vorlage 19D</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-19e.md">Vorlage 19E</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-19c.md">Meldebogen 19c</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-19d.md">Vorlage 19d</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-19e.md">Meldebogen 19e</a></td>
 </tr>
 <tr>
 <td><img src="assets/19c.jpg"></td>
@@ -362,9 +362,9 @@ So importieren Sie eine Vorlage in Marketo:
 <td><img src="assets/19e.jpg"></td>
 </tr>
 <tr>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-20a.md">Vorlage 20A</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-20b.md">Vorlage 20B</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-20c.md">Vorlage 20C</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-20a.md">Meldebogen 20a</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-20b.md">Meldebogen 20b</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-20c.md">Meldebogen 20c</a></td>
 </tr>
 <tr>
 <td><img src="assets/20a.jpg"></td>
@@ -372,8 +372,8 @@ So importieren Sie eine Vorlage in Marketo:
 <td><img src="assets/20c.jpg"></td>
 </tr>
 <tr>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-20d.md">Vorlage 20D</a></td>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-20e.md">Vorlage 20E</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-20d.md">Vorlage 20d</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-20e.md">Meldebogen 20e</a></td>
 <td> </td>
 </tr>
 <tr>

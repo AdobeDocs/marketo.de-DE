@@ -1,7 +1,7 @@
 ---
 unique-page-id: 13795727
-description: Abbruch des Versands von E-Mail-Programmen, die mit der Zeitzone der Empfänger geplant sind - Marketo Docs - Produktdokumentation
-title: Abbruch des Versands von E-Mail-Programmen mit Zeitzone des Empfängers
+description: Abbruch des Versands von E-Mail-Programmen mit Zeitzone des Empfängers - Marketo-Dokumente - Produktdokumentation
+title: Versand von E-Mail-Programmen mit Zeitzone des Empfängers abbrechen
 exl-id: e69afa4a-32fb-4791-a9b6-683d64d610d6
 feature: Email Programs
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,33 +11,33 @@ ht-degree: 0%
 
 ---
 
-# Abbruch des Versands von E-Mail-Programmen mit Zeitzone des Empfängers {#abort-delivery-of-email-programs-scheduled-with-recipient-time-zone}
+# Versand von E-Mail-Programmen mit Zeitzone des Empfängers abbrechen {#abort-delivery-of-email-programs-scheduled-with-recipient-time-zone}
 
-In Notfällen können Sie den Versand eines E-Mail-Programms abbrechen, das bereits mit aktivierter Zeitzone für Empfänger gestartet wurde.
+In Notfällen können Sie den Versand eines E-Mail-Programms abbrechen, das bereits mit aktivierter Zeitzone des Empfängers ausgeführt wird.
 
-Da E-Mail-Programme, die mit der Zeitzone der Empfänger geplant sind, bis zu 24 Stunden lang laufen können, werden nach dem Abbruch des Programmversands alle nachfolgenden Sendungen abgebrochen.
+Da E-Mail-Programme, die mit der Zeitzone des Empfängers geplant sind, bis zu 24 Stunden laufen können, werden bei Abbruch der Bereitstellung des Programms alle nachfolgenden Sendungen nach diesem Zeitpunkt abgebrochen.
 
-1. Wählen Sie das E-Mail-Programm aus, das Sie abbrechen möchten, und klicken Sie dann unter der Kachel Genehmigung im Control Panel auf **Versand abbrechen** .
+1. Wählen Sie das E-Mail-Programm aus, das Sie abbrechen möchten, und klicken Sie dann **Versand abbrechen** unter der Kachel Validierung im Control Panel.
 
    ![](assets/ptz-abortdelivery.png)
 
-1. Bestätigen Sie, dass Sie den Versand abbrechen möchten, indem Sie auf **Abbruch** klicken.
+1. Bestätigen Sie, dass Sie den Versand abbrechen möchten, indem Sie auf **Abbrechen** klicken.
 
    ![](assets/image2018-2-23-11-3a20-3a27.png)
 
-1. Nach dem Abbruch sieht das Raster **Ergebnisse** Ihres E-Mail-Programms ungefähr so aus: Alle nachfolgenden Sendungen werden abgebrochen und in der Spalte **Aktivitätstyp** als &quot;E-Mail-Bounce Soft&quot; angezeigt.
+1. Nach dem Abbruch sieht **Raster** Ergebnisse“ Ihres E-Mail-Programms in etwa wie folgt aus: Alle nachfolgenden Sendungen werden abgebrochen und in der Spalte **Aktivitätstyp“ als „E-Mail-Softbounce** angezeigt.
 
    ![](assets/image2018-2-23-11-3a22-3a11.png)
 
    >[!NOTE]
    >
-   >Abgebrochene E-Mails werden **nicht** als Softbounce *angezeigt, bis* der Zeitpunkt erreicht ist, zu dem sie ursprünglich in ihrer jeweiligen Zeitzone zur Auslieferung geplant waren. Bis zu diesem Zeitpunkt werden sie weiterhin als &quot;E-Mail senden&quot;angezeigt.
+   >Abgebrochene E **Mails werden (**) als Softbounce angezeigt *bis)* dem Zeitpunkt, zu dem sie ursprünglich in ihren jeweiligen Zeitzonen zugestellt werden sollten. Bis zu diesem Zeitpunkt werden sie weiterhin als „E-Mail senden“ angezeigt.
 
-1. Im Raster können Sie auf eine beliebige E-Mail klicken, um Aktivitätsdetails anzuzeigen. Bei einem abgebrochenen Versand sieht das Popup-Fenster mit Details wie folgt aus:
+1. Im Raster können Sie auf eine beliebige E-Mail klicken, um Aktivitätsdetails anzuzeigen. Bei einem abgebrochenen Versand sieht das Popup-Fenster mit den Details wie folgt aus:
 
    ![](assets/image2018-2-23-11-3a30-3a46.png)
 
 >[!MORELIKETHIS]
 >
->* [Verstehen der Zeitzone des Empfängers](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
->* [E-Mail-Programme mit der Zeitzone des Empfängers planen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
+>* [Informationen zur Zeitzone des Empfängers](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
+>* [Planen von E-Mail-Programmen mit Zeitzone des Empfängers](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)

@@ -1,7 +1,7 @@
 ---
 unique-page-id: 1900587
-description: Verwenden Ihrer dedizierten IP-Adressen zum Senden von E-Mails - Marketo Docs - Produktdokumentation
-title: Verwenden Ihrer dedizierten IP-Adressen zum Senden von E-Mails
+description: Verwenden Ihrer dedizierten IP-Adressen zum Senden von E-Mails - Marketo-Dokumente - Produktdokumentation
+title: Dedizierte IP-Adressen zum Senden von E-Mails verwenden
 exl-id: cc83cf43-8b6d-4869-9c4f-7f3d2cd82dfa
 feature: Deliverability
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,35 +11,35 @@ ht-degree: 0%
 
 ---
 
-# Verwenden Ihrer dedizierten IP-Adressen zum Senden von E-Mails {#use-your-dedicated-ip-addresses-to-send-emails}
+# Dedizierte IP-Adressen zum Senden von E-Mails verwenden {#use-your-dedicated-ip-addresses-to-send-emails}
 
-Durch das Senden von einer oder mehreren dedizierten IP-Adressen erhalten Sie die vollständige Kontrolle über die Reputation Ihres Versands.
+Durch den Versand von einer oder mehreren dedizierten IP-Adressen erhalten Sie vollständige Kontrolle über Ihre Versandreputation.
 
 >[!AVAILABILITY]
 >
->Eine dedizierte IP ist ein Zusatzprodukt. Nicht jeder kann eine dedizierte IP zu seinem Programm hinzufügen. Sie müssten monatlich mehr als 100.000 E-Mails versenden und über eine stabile Kampagnenkadenz verfügen, um eine dedizierte IP-Adresse zu verwalten. Wenden Sie sich an das Adobe Account Team (Ihren Kundenbetreuer), um weitere Informationen zum Hinzufügen einer dedizierten IP zu Ihrem Marketo-Programm zu erhalten.
+>Eine dedizierte IP ist ein Add-on-Produkt. Nicht jeder ist berechtigt, seinem Programm eine dedizierte IP hinzuzufügen. Sie müssten monatlich mehr als 100.000 E-Mails senden und eine stabile Kampagnenkadenz haben, um eine dedizierte IP zu verwalten. Wenden Sie sich an das Adobe-Account-Team (Ihren Account Manager), um weitere Informationen zum Hinzufügen einer dedizierten IP zu Ihrem Marketo-Programm zu erhalten.
 >
->Wenn Sie weniger als 100.000 E-Mails pro Monat versenden und/oder ein unterschiedliches Kampagnenvolumen haben und/oder saisonaler Absender sind, können Sie keine dedizierte IP-Adresse verwalten. Marketo verwaltet einen separaten freigegebenen vertrauenswürdigen IP-Pool für Kunden, die sich an die Best Practices halten. Wenn Sie Interesse haben, füllen Sie [diesen Fragebogen](https://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html) aus, um ihn auf das vertrauenswürdige IP-Programm von Marketo anzuwenden.
+>Wenn Sie weniger als 100.000 E-Mails pro Monat senden und/oder ein variables Kampagnenvolumen haben und/oder ein saisonaler Absender sind, können Sie keine dedizierte IP-Adresse verwalten. Marketo unterhält einen separaten gemeinsamen Pool vertrauenswürdiger IP-Adressen für Kunden, die strikte Best Practices einhalten. Wenn Sie Interesse haben, füllen Sie bitte [diesen Fragebogen](https://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html) aus, um sich für das Trusted IP Program von Marketo zu bewerben.
 
-Alle Marketo-Konten beginnen mit einer freigegebenen IP-Adresse, sodass Sie sofort mit dem Versand beginnen können. Wenn Sie eine dedizierte IP hinzufügen, wenden Sie sich an Zustellbarkeitsberater, um die IP-Bereitstellung zu planen.
+Alle Marketo-Konten beginnen auf einer gemeinsam genutzten IP-Adresse, sodass Sie sofort mit dem Versand beginnen können. Wenn Sie eine dedizierte IP hinzufügen, planen Sie die Bereitstellung der IP gemeinsam mit Zustellbarkeitsberatern.
 
-Ein spezieller Zustellbarkeitsberater stellt Folgendes bereit:
+Ein dedizierter Berater für Zustellbarkeit bietet:
 
-* Beratung zur IP-Aufwärmung
-* DNS-Einträge, die zur Marke der neuen dedizierten IP erforderlich sind
-* Einrichtung und Aktivierung der dedizierten IP-Adresse
+* Coaching und Beratung zum IP-Warm-up
+* DNS-Einträge, die zum Branding der neuen dedizierten IP erforderlich sind
+* Einrichtung und Aktivierung der dedizierten IP
 * Ein Check-in während der Aufwärmphase, um Ihren Erfolg zu unterstützen
 
-## Dedizierter IP-Ramp-Up {#dedicated-ip-ramp-up}
+## Dedizierte IP-Anwärmphase {#dedicated-ip-ramp-up}
 
-Um die langfristige Zustellbarkeit zu maximieren, bieten die Zustellbarkeits-Berater benutzerdefinierte Empfehlungen, um das E-Mail-Kampagnenvolumen langsam auf Ihre dedizierte IP-Adresse zu erhöhen. Wir nennen das &quot;Aufwärmen Ihrer IP&quot;. Es beginnt kalt zu werden, und der Versand von Post erwärmt es. Bei kalten IPs, die eine große Menge an E-Mails versenden, werden die Übertragungsgeschwindigkeiten häufig gedrosselt und in der Regel als Spam kategorisiert.
+Um die langfristige Zustellbarkeit zu maximieren, bieten die Zustellbarkeitsberater benutzerdefinierte Empfehlungen, um das Volumen der E-Mail-Kampagnen auf Ihrer dedizierten IP-Adresse langsam zu erhöhen. Wir nennen das „Aufwärmen der IP“. Es fängt an zu kalt, und das Senden von E-Mails wärmt es auf. Cold-IPs, die eine große Anzahl von E-Mails versenden, sehen oft ihre Versandgeschwindigkeiten gedrosselt und werden in der Regel als Spam kategorisiert.
 
-**Wichtig**: Im Allgemeinen erhalten Sie eine einheitliche Anzahl von E-Mails pro Monat. Dies hilft bei der Festlegung eines Musters für Reputation und Zustellbarkeit. Ein drastischer Anstieg oder Rückgang des E-Mail-Volumens, selbst bei einer &quot;warmen&quot;IP, kann dazu führen, dass E-Mails von E-Mail-Anbietern verdächtig angezeigt werden.
+**Wichtig**: Im Allgemeinen eine konsistente Anzahl von E-Mails pro Monat beibehalten. Dies hilft beim Festlegen eines Musters für die Reputation und Zustellbarkeit. Sogar bei einer „warmen“ IP-Adresse kann es vorkommen, dass E-Mails von E-Mail-Anbietern verdächtig angesehen werden, wenn das E-Mail-Volumen drastisch ansteigt oder abnimmt.
 
 >[!TIP]
 >
->Halten Sie Ihre Datenbank sauber, um die Zustellbarkeit Ihrer E-Mails zu verbessern. [Adobe erfordert ](https://www.adobe.com/legal/terms/aup.html) , dass Kunden Marketingnachrichten nur an Personen senden, die sich für den Erhalt von E-Mails entschieden haben bzw. diese erhalten haben. Kein Spam!
+>Halten Sie Ihre Datenbank sauber, um Ihre Zustellbarkeit hoch zu halten. [Adobe erfordert](https://www.adobe.com/de/legal/terms/aup.html) dass Kundinnen und Kunden Marketing-Nachrichten nur an Personen senden, die sich für den Erhalt von E-Mails entschieden haben bzw. ihn angefordert haben. Nicht spammen!
 
 >[!CAUTION]
 >
->Wenn Sie eine hohe Anzahl von Bounces oder andere Probleme sehen, wenden Sie sich an den [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support). Wenn Sie gezieltere Unterstützung benötigen, um mehr über die Pflege einer sauberen Datenbank zu erfahren und die Interaktion mit Ihrem Programm zu steigern, können Marketos Berater für die Zustellbarkeit von E-Mails für ein Custom Services-Paket eingebunden werden.
+>Wenn eine hohe Anzahl von Bounces oder andere Probleme auftreten, wenden Sie sich an den [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support). Wenn Sie mehr zielgerichteten Support benötigen, um zu erfahren, wie Sie eine saubere Datenbank pflegen und die Interaktion mit Ihrem Programm verbessern können, können Sie die E-Mail-Zustellbarkeitsberater von Marketo für ein individuelles Service-Paket kontaktieren.

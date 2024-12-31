@@ -1,7 +1,7 @@
 ---
 unique-page-id: 9437568
-description: Vorlage 11E - Marketo Docs - Produktdokumentation
-title: Vorlage 11E
+description: Vorlage 11e - Marketo-Dokumente - Produktdokumentation
+title: Meldebogen 11e
 exl-id: fd45b28b-1d2c-489b-a16d-810ab0a43873
 feature: Landing Pages, Guided Landing Page Templates
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
@@ -11,22 +11,22 @@ ht-degree: 0%
 
 ---
 
-# Vorlage 11E {#template-11e}
+# Meldebogen 11e {#template-11e}
 
-Rechtsklicken Sie auf [Vorlage 11E herunterladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11e.html) .
+Klicken Sie mit der rechten Maustaste, um [Vorlage 11E herunterzuladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11e.html)
 
 ![](assets/image2015-8-4-10-3a34-3a30.png)
 
 Diese Vorlage enthält den folgenden Inhalt:
 
-* Kopfzeile (optional)
+* Eine Kopfzeile (optional)
 * Ein primärer Abschnitt
 
-   * Enthält Titel, Text und Preisausschreiben
+   * Enthält Titel, Text und Gewinnspiele
 
-* Vier Hauptteilabschnitte (optional)
+* Vier Karosserieabschnitte (optional)
 * Fußzeile (optional)
 
-**Klicken Sie mit der rechten Maustaste unten, um diese Vorlage herunterzuladen:**
+**Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
 [Vorlage 11E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11e.html)

@@ -1,7 +1,7 @@
 ---
 unique-page-id: 10092896
-description: Vorlage 19C - Marketo Docs - Produktdokumentation
-title: Vorlage 19C
+description: Vorlage 19c - Marketo-Dokumente - Produktdokumentation
+title: Meldebogen 19c
 exl-id: 9f518caf-2270-46d8-b9ce-3b11b10af338
 feature: Landing Pages, Guided Landing Page Templates
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
@@ -11,9 +11,9 @@ ht-degree: 0%
 
 ---
 
-# Vorlage 19C {#template-19c}
+# Meldebogen 19c {#template-19c}
 
-Klicken Sie mit der rechten Maustaste auf [Vorlage 19C herunterladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19c.html)
+Rechtsklick zum Herunterladen [Vorlage 19C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19c.html)
 
 ![](assets/image2015-9-16-16-3a52-3a26.png)
 
@@ -21,11 +21,11 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 * Ein primärer Abschnitt
 
-   * enthält Hero-Titel, Hero-Text, Hero-Umfrage
+   * Enthält Hero-Titel, Hero-Text, Hero-Umfrage
 
-* Fünf Hauptabschnitte (optional)
+* Fünf Hauptteilabschnitte (optional)
 * Fußzeile (optional)
 
-**Klicken Sie mit der rechten Maustaste unten, um diese Vorlage herunterzuladen:**
+**Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
 [Vorlage 19C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19c.html)

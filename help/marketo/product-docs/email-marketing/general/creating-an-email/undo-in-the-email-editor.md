@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1900567
-description: Rückgängig im E-Mail-Editor - Marketo-Dokumente - Produktdokumentation
+description: Rückgängigmachen im E-Mail-Editor - Marketo-Dokumente - Produktdokumentation
 title: Rückgängig im E-Mail-Editor
 exl-id: 5542defb-84cd-49a7-b2d0-5cd7e4df95d7
 feature: Email Editor
@@ -19,14 +19,14 @@ ht-degree: 0%
 
 >[!TIP]
 >
->Rückgängig kann bis zu 50 Änderungen zurückgeben.
+>Rückgängig kann bis zu 50 Änderungen zurückgesetzt werden.
 
-1. Um eine Änderung erneut vorzunehmen, klicken Sie auf den Pfeil nach rechts.
+1. Um eine Änderung wiederherzustellen, klicken Sie auf den Pfeil nach rechts.
 
    ![](assets/two-2.png)
 
    >[!NOTE]
    >
-   >Beim Bearbeiten von Text können Sie die Aktion nicht rückgängig machen. Danach können Sie alle Änderungen von der ersten Bearbeitung rückgängig machen, um sie zu speichern.
+   >Sie können die Bearbeitung von Text nicht rückgängig machen. Danach können Sie alle Änderungen von der ersten Bearbeitung rückgängig machen, um sie zu speichern.
 
-   Gut! Jetzt können Sie wie ein Profi rückgängig machen und wiederherstellen.
+   Schön! Jetzt können Sie wie ein Profi rückgängig machen und wiederholen.

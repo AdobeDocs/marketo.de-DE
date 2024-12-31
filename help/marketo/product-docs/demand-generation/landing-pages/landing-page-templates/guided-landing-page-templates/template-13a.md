@@ -1,7 +1,7 @@
 ---
 unique-page-id: 9437783
-description: Vorlage 13A - Marketo-Dokumente - Produktdokumentation
-title: Vorlage 13A
+description: Vorlage 13a - Marketo-Dokumente - Produktdokumentation
+title: Meldebogen 13a
 exl-id: 4a6bc6ec-cb81-4b2f-8b0f-43f3f907142d
 feature: Landing Pages, Guided Landing Page Templates
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
@@ -11,9 +11,9 @@ ht-degree: 0%
 
 ---
 
-# Vorlage 13A {#template-13a}
+# Meldebogen 13a {#template-13a}
 
-Rechtsklicken Sie auf [Vorlage 13A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13a.html) herunterladen
+Klicken Sie mit der rechten Maustaste, um [Vorlage 13A herunterzuladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13a.html)
 
 ![](assets/image2015-8-11-10-3a15-3a39.png)
 
@@ -21,11 +21,11 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 * Ein primärer Abschnitt
 
-   * enthält einen Hero-Titel und ein Bild
+   * Enthält einen Hero-Titel und ein Bild
 
-* Fünf Hauptabschnitte (optional)
+* Fünf Hauptteilabschnitte (optional)
 * Fußzeile (optional)
 
-**Klicken Sie mit der rechten Maustaste unten, um diese Vorlage herunterzuladen:**
+**Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
-[Vorlage 13A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13a.html)
+[template 13a.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13a.html)

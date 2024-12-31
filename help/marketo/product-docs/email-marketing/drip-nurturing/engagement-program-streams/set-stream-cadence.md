@@ -7,25 +7,25 @@ feature: Engagement Programs
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '380'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
 # Stream-Kadenz festlegen {#set-stream-cadence}
 
-Sie können Interaktionsinhalte in jedem gewünschten Intervall senden. Beispiel: einmal pro Woche oder jeden dritten Dienstag im Monat.
+Sie können Interaktionsinhalte in jedem gewünschten Intervall senden. Zum Beispiel: einmal pro Woche oder jeden dritten Dienstag im Monat.
 
 ## Frequenz einstellen {#set-cadence}
 
-1. Wechseln Sie zu **Marketingaktivitäten**.
+1. Navigieren Sie **Marketing-Aktivitäten**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Suchen und wählen Sie Ihr Interaktionsprogramm aus, klicken Sie auf die Registerkarte **Streams** und dann auf **Stream-Kadenz festlegen**.
+1. Suchen Sie Ihr Interaktionsprogramm, wählen Sie es aus, klicken Sie auf **Streams** und dann auf **Stream-Kadenz festlegen**.
 
    ![](assets/selectstreamcadence.jpg)
 
-1. Wählen Sie aus, wie oft die Kadenz wiederholt werden soll. Sie können **Wöchentlich** oder **Monatlich** auswählen.
+1. Wählen Sie aus, wie oft die Kadenz wiederholt werden soll. Sie können zwischen **Wöchentlich** oder **Monatlich** wählen.
 
 ## Wöchentlich {#weekly}
 
@@ -35,53 +35,53 @@ Sie können Interaktionsinhalte in jedem gewünschten Intervall senden. Beispiel
 
    >[!NOTE]
    >
-   >Wenn Sie **Keine** auswählen, wird der Stream geschlossen.
+   >Wenn Sie **Keine** auswählen, wird der Stream abgeschaltet.
 
-1. Wählen Sie das Datum der ersten Besetzung aus.
+1. Wählen Sie das Datum der ersten Besetzung.
 
    ![](assets/image2017-12-5-14-3a10-3a17.png)
 
-1. Entscheiden Sie jetzt, ob die Kadenz wöchentlich oder mit größeren Abständen stattfinden soll. Lasst uns alle zwei Wochen aussuchen.
+1. Wählen Sie jetzt aus, ob die Kadenz jede Woche oder in größeren Abständen erfolgen soll. Wählen wir alle 2 Wochen.
 
    ![](assets/image2017-12-5-14-3a10-3a56.png)
 
-1. Entscheiden Sie, an welchen Tagen der Woche. In diesem Fall machen wir Dienstag, Mittwoch und Donnerstag.
+1. Entscheide, an welchen Wochentagen. In diesem Fall machen wir Dienstag, Mittwoch und Donnerstag.
 
    ![](assets/image2017-12-5-14-3a12-3a29.png)
 
    >[!TIP]
    >
-   >Sie können Ihre Kadenz so einstellen, dass sie jeden Tag ausgeführt wird, indem Sie **Wiederholungen: Wöchentlich** / **Alle: 1 Woche** / **An**: Alle Tage auswählen.
+   >Sie können die Kadenz so einstellen, dass sie jeden Tag ausgeführt wird, indem Sie **Wiederholungen: Wöchentlich** / **Alle: 1 Woche** / **Ein** auswählen.
 
-   Wählen Sie jetzt die Zeit aus. Aktivieren Sie das Kontrollkästchen, wenn Sie [Zeitzone des Empfängers](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md) verwenden möchten (d. h. die Bereitstellung entsprechend den lokalen Zeitzonen), und klicken Sie dann auf **Speichern**.
+   Jetzt wähle die Zeit. Aktivieren Sie das Kontrollkästchen, wenn Sie [Zeitzone des Empfängers](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md) verwenden möchten (d. h. Versand entsprechend den lokalen Zeitzonen), und klicken Sie dann auf **Speichern**.
 
    ![](assets/image2017-12-5-14-3a20-3a11.png)
 
    >[!CAUTION]
    >
-   >Der Inhalt wird an dem Datum versendet, an dem Sie für die erste Wiedergabe auswählen. Stellen Sie also sicher, dass er dem Wochentag entspricht, den Sie auswählen. Andernfalls wird er in der ersten Woche zweimal gesendet.
+   >Der Inhalt wird an dem Datum ausgegeben, das Sie für die erste Besetzung ausgewählt haben. Stellen Sie daher sicher, dass er mit dem Wochentag übereinstimmt, den Sie auswählen. Andernfalls wird der Inhalt in der ersten Woche zweimal angezeigt.
 
-1. Bewegen Sie den Mauszeiger über die Kadenz. Du wirst sehen, welche Tage zukünftige Kasten ausgehen werden.
+1. Bewegen Sie den Mauszeiger über die Kadenz. Du wirst sehen, an welchen Tagen zukünftige Castings ausgehen werden.
 
    ![](assets/image2017-12-5-14-3a17-3a29.png)
 
    >[!NOTE]
    >
-   >In diesem Beispiel wird am Donnerstag eine E-Mail gesendet. Dann überspringen wir eine Woche und schicken es am Dienstag, Mittwoch und Donnerstag der folgenden Woche erneut. Und dann schleichen wir uns wieder.
+   >In diesem Beispiel wird am Donnerstag eine E-Mail gesendet. Wir überspringen dann eine Woche und senden am Dienstag, Mittwoch und Donnerstag der folgenden Woche erneut. Und dann wiederholen wir den Vorgang.
 
-Das ist es! Lesen Sie weiter, wenn Sie einen monatlichen Cadence einrichten möchten.
+Das ist alles! Lesen Sie weiter, wenn Sie eine monatliche Kadenz einrichten möchten.
 
 ## Monatlich {#monthly}
 
-1. Wählen Sie **Monatlich** aus, wie oft es wiederholt wird.
+1. Wählen Sie **Monatlich** aus, wie oft sie sich wiederholt.
 
    ![](assets/image2014-9-15-16-3a30-3a15.png)
 
-1. Wählen Sie das Datum der ersten Besetzung aus.
+1. Wählen Sie das Datum der ersten Besetzung.
 
    ![](assets/image2014-9-15-16-3a30-3a11.png)
 
-1. Wählen Sie aus, ob der Abstand pro Monat oder größer sein soll... Lasst uns jeden vierten Monat aussuchen.
+1. Wählen Sie aus, ob sie jeden Monat oder in größeren Abständen angezeigt werden soll… Lasst uns alle vier Monate auswählen.
 
    ![](assets/image2014-9-15-16-3a30-3a7.png)
 
@@ -91,23 +91,23 @@ Das ist es! Lesen Sie weiter, wenn Sie einen monatlichen Cadence einrichten möc
 
    >[!TIP]
    >
-   >Alternativ können Sie auch einen Wochentag wählen.
+   >Alternativ können Sie den Wochentag auswählen.
 
-1. Wählen Sie eine **Zeit** aus und klicken Sie auf **Speichern**.
+1. Wählen Sie eine **Zeit** und klicken Sie auf **Speichern**.
 
    ![](assets/image2014-9-15-16-3a29-3a42.png)
 
-1. Bewegen Sie den Mauszeiger über die Kadenz. Du wirst sehen, welche Tage zukünftige Kasten ausgehen werden.
+1. Bewegen Sie den Mauszeiger über die Kadenz. Du wirst sehen, an welchen Tagen zukünftige Castings ausgehen werden.
 
    ![](assets/image2014-9-15-16-3a29-3a38.png)
 
    >[!CAUTION]
    >
-   >Wenn Sie sich dazu entscheiden, Ihren Interaktionsstrom-Kadenz später zu ändern, stellen Sie sicher, dass der erste Guss auf ein zukünftiges Datum eingestellt ist.
+   >Wenn Sie sich entscheiden, Ihre Interaktions-Stream-Kadenz später zu ändern, stellen Sie sicher, dass die erste Besetzung auf ein Datum in der Zukunft festgelegt ist.
 
-Jetzt wissen Sie, wie man eine Stream-Kadenz einrichtet!
+Jetzt wissen Sie, wie Sie eine Stream-Kadenz einrichten!
 
 >[!MORELIKETHIS]
 >
->* [Verstehen der Zeitzone des Empfängers](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
->* [Planen von Interaktionsprogrammen mit der Zeitzone der Empfänger](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)
+>* [Informationen zur Zeitzone des Empfängers](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
+>* [Planen von Interaktionsprogrammen mit der Zeitzone des Empfängers](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)

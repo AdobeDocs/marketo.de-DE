@@ -15,24 +15,24 @@ ht-degree: 0%
 
 Rechtecke auf Landingpages eignen sich hervorragend zum Hervorheben eines Textbereichs.
 
-1. Wählen Sie eine freie Landingpage aus und klicken Sie auf **Entwurf bearbeiten**.
+1. Wählen Sie eine Freiform-Landingpage aus und klicken Sie auf **Entwurf**.
 
    ![](assets/image2014-9-16-14-3a50-3a51.png)
 
    >[!NOTE]
    >
-   >Der Landingpage-Designer für Formulare wird in einem neuen Fenster geöffnet.
+   >Der Freiform-Landingpage-Designer wird in einem neuen Fenster geöffnet.
 
-1. Ziehen Sie über das Element **Rechteck**.
+1. Ziehen Sie über das **Rechteck**-Element.
 
    ![](assets/image2015-5-21-14-3a48-3a45.png)
 
-1. Wählen Sie Ihr Rechteck aus und verwenden Sie das **Eigenschaftenblatt**, um erforderliche Änderungen vorzunehmen.
+1. Wählen Sie Ihr Rechteck aus und verwenden Sie das **Eigenschaftenblatt**, um die erforderlichen Änderungen vorzunehmen.
 
    >[!TIP]
    >
-   >Sie können das Rechteck durch Ziehen und Ablegen verschieben und seine Größe ändern. Versuchen Sie auch die Pfeile auf der Tastatur! Tipp: Drücken Sie die Umschalt-Taste, um das Rechteck 10px gleichzeitig zu verschieben.
+   >Sie können das Rechteck per Drag-and-Drop verschieben und in der Größe ändern. Probieren Sie auch die Pfeile auf der Tastatur aus! Hinweis: Drücken Sie die Umschalt-Taste, um das Rechteck um jeweils 10 Pixel zu verschieben.
 
    ![](assets/image2015-5-21-14-3a50-3a24.png)
 
-Herzlichen Glückwunsch! Sie können jetzt auf Ihren Freiform-Landingpages Rechtecke erstellen.
+Herzlichen Glückwunsch! Jetzt können Sie auf Ihren Freiform-Landingpages Rechtecke erstellen.

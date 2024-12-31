@@ -1,7 +1,7 @@
 ---
 unique-page-id: 8783972
-description: Vorlage 8E - Marketo Docs - Produktdokumentation
-title: Vorlage 8E
+description: Vorlage 8e - Marketo-Dokumente - Produktdokumentation
+title: Vorlage 8e
 exl-id: 4e3c3b18-0a4f-4d5c-8535-77ca063b98b9
 feature: Landing Pages, Guided Landing Page Templates
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
@@ -11,22 +11,22 @@ ht-degree: 0%
 
 ---
 
-# Vorlage 8E {#template-8e}
+# Vorlage 8e {#template-8e}
 
-Rechtsklicken Sie auf [Vorlage 8E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8e.html) herunterladen
+Rechtsklick zum Herunterladen [Vorlage 8E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8e.html)
 
 ![](assets/image2015-7-29-14-3a39-3a0.png)
 
 Diese Vorlage enthält den folgenden Inhalt:
 
-* Kopfzeile (optional)
+* Eine Kopfzeile (optional)
 * Ein primärer Abschnitt
 
-   * enthält eine Heldenüberschrift, einen Heldentext und ein Formular
+   * Enthält eine Hero-Kopfzeile, einen Hero-Text und ein Formular
 
-* Fünf Hauptabschnitte (optional)
-* Fußzeile (optional)
+* Fünf Hauptteilabschnitte (optional)
+* Eine Fußzeile (optional)
 
-**Klicken Sie mit der rechten Maustaste unten, um diese Vorlage herunterzuladen:**
+**Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
 [Vorlage 8E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8e.html)

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7516002
-description: Vorlage 1D - Marketo Docs - Produktdokumentation
+description: Vorlage 1d - Marketo-Dokumente - Produktdokumentation
 title: Vorlage 1D
 exl-id: ae46a81e-fd40-459c-937e-cdc58add7838
 feature: Landing Pages, Guided Landing Page Templates
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Vorlage 1D {#template-1d}
 
-Rechtsklicken Sie auf [Vorlage 1D herunterladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1d.html) .
+Rechtsklick zum Herunterladen [Vorlage 1D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1d.html)
 
 ![](assets/image2015-5-28-13-3a36-3a44.png)
 
@@ -21,11 +21,11 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 * Ein primärer Abschnitt
 
-   * enthält eine Umfrage, Kopfzeile, Textkörper und Schaltfläche.
+   * Enthält eine Abfrage, eine Kopfzeile, einen Textkörper und eine Schaltfläche.
 
 * Drei Hauptteilabschnitte (optional)
 * Fußzeile (optional)
 
-**Klicken Sie mit der rechten Maustaste unten, um diese Vorlage herunterzuladen:**
+**Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
-[Template1 1d.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1d.html)
+[Template1 1D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1d.html)

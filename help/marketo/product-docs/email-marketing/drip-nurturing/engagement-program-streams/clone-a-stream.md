@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Klonen eines Streams {#clone-a-stream}
 
-Klonen Sie einen Stream aus verschiedenen Gründen, einschließlich Testen verschiedener Bestellungen und Kadenzen.
+Klonen Sie einen Stream aus verschiedenen Gründen, einschließlich dem Testen verschiedener Reihenfolgen und Kadenzen.
 
 1. Wählen Sie Ihr Interaktionsprogramm aus und wechseln Sie zur Registerkarte **Streams** .
 
    ![](assets/cloneasteam.jpg)
 
-1. Klicken Sie auf das Stream-Zahnradsymbol und dann auf **Klonen**.
+1. Klicken Sie auf das Zahnradsymbol und dann auf **Klonen**.
 
    ![](assets/image2014-9-15-17-3a0-3a23.png)
 
@@ -27,10 +27,10 @@ Klonen Sie einen Stream aus verschiedenen Gründen, einschließlich Testen versc
    >
    >Sie können bis zu 25 Streams pro Interaktionsprogramm haben.
 
-   Schön gemacht! Liebst du nicht Dinge, die dir das Leben erleichtern?
+   Gut gemacht! Liebst du nicht Dinge, die dir das Leben erleichtern?
 
    ![](assets/image2014-9-15-17-3a1-3a20.png)
 
    >[!CAUTION]
    >
-   >Alles im Fluss wird geklont, außer der Kadenz. Denken Sie daran, es festzulegen.
+   >Alles im Stream wird geklont, mit Ausnahme der Kadenz. Vergiss nicht, es festzulegen.

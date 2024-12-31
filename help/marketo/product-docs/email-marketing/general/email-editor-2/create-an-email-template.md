@@ -1,7 +1,7 @@
 ---
 unique-page-id: 10096400
-description: Erstellen einer E-Mail-Vorlage - Marketo Docs - Produktdokumentation
-title: Erstellen einer E-Mail-Vorlage
+description: Erstellen einer E-Mail-Vorlage - Marketo-Dokumente - Produktdokumentation
+title: E-Mail-Vorlage erstellen
 exl-id: dfd91254-03fa-4f91-995d-ae4fe549a98d
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,68 +11,68 @@ ht-degree: 0%
 
 ---
 
-# Erstellen einer E-Mail-Vorlage {#create-an-email-template}
+# E-Mail-Vorlage erstellen {#create-an-email-template}
 
-Führen Sie die folgenden Schritte aus, um eine neue E-Mail-Vorlage zu erstellen.
+Gehen Sie wie folgt vor, um eine neue E-Mail-Vorlage zu erstellen.
 
 >[!NOTE]
 >
->Der Marketo-Support ist nicht für die Fehlerbehebung bei benutzerdefiniertem HTML eingerichtet. Wenden Sie sich an einen Web-Entwickler, um Hilfe beim HTML zu erhalten.
+>Der Marketo-Support ist nicht für die Fehlerbehebung beim benutzerdefinierten HTML eingerichtet. Wenn Sie Hilfe beim HTML benötigen, wenden Sie sich bitte an einen Web-Entwickler.
 
 >[!CAUTION]
 >
->Der von uns verwendete Editor konvertiert die Werte der CSS-Eigenschaften für Farbe und Hintergrundfarbe in Kleinbuchstaben. Vermeiden Sie daher die Verwendung von Binnenmajuskel-Schreibweise und verwenden Sie stattdessen Namen oder Bindestriche in Kleinbuchstaben.
+>Der von uns verwendete Editor konvertiert die Werte von Farb- und Hintergrundfarbe-CSS-Eigenschaften in Kleinbuchstaben. Vermeiden Sie daher die Verwendung von Binnenbuchstaben und verwenden Sie stattdessen Namen oder Bindestriche in Kleinbuchstaben.
 
-## Neue E-Mail-Vorlage erstellen {#create-a-new-email-template}
+## Erstellen einer neuen E-Mail-Vorlage {#create-a-new-email-template}
 
 1. Klicken Sie auf **Design Studio**.
 
    ![](assets/designstudio.png)
 
-1. Klicken Sie auf **Neu** und wählen Sie dann **Neue E-Mail-Vorlage** aus.
+1. Klicken Sie **Neu** und wählen Sie **Neue E-Mail-Vorlage**.
 
    ![](assets/ds-two.png)
 
-1. Geben Sie der neuen Vorlage einen Namen und klicken Sie auf **Erstellen** .
+1. Benennen Sie Ihre neue Vorlage und klicken Sie auf **Erstellen**.
 
    ![](assets/three-1.png)
 
-1. Um mit der Bearbeitung der neuen Vorlage zu beginnen, klicken Sie auf **Entwurf bearbeiten**.
+1. Um mit der Bearbeitung der neuen Vorlage zu beginnen, klicken Sie **Entwurf bearbeiten**.
 
    ![](assets/4.png)
 
    >[!CAUTION]
    >
-   >Wenn eine E-Mail-Vorlage von mehr als 500 E-Mails verwendet wird, gibt es zwar keine feste Begrenzung, aber die erneute Validierung dieser Vorlage nach einer Aktualisierung kann zu Leistungsproblemen führen. Es wird empfohlen, eine neue Vorlage zu erstellen, sobald 500 E-Mails einer E-Mail-Vorlage zugeordnet sind.
+   >Es gibt zwar keine feste Grenze, aber sobald eine E-Mail-Vorlage von über 500 E-Mails verwendet wird, kann eine erneute Genehmigung dieser Vorlage nach einer Aktualisierung zu Leistungsproblemen führen. Es wird empfohlen, eine neue Vorlage zu erstellen, sobald einer E-Mail-Vorlage 500 E-Mails zugeordnet sind.
 
-## E-Mail als Vorlage speichern {#save-an-email-as-a-template}
+## Speichern einer E-Mail als Vorlage {#save-an-email-as-a-template}
 
 Wenn Sie eine E-Mail erstellt haben, die Sie als Vorlage für die zukünftige Verwendung speichern möchten, führen Sie die folgenden einfachen Schritte aus.
 
-1. Klicken Sie auf **Marketingaktivitäten**.
+1. Klicken Sie **Marketing-Aktivitäten**.
 
    ![](assets/one.png)
 
-1. Suchen und wählen Sie Ihre E-Mail aus und klicken Sie dann auf **Entwurf bearbeiten**.
+1. Suchen Sie Ihre E-Mail, wählen Sie sie aus und klicken Sie auf **Entwurf bearbeiten**.
 
    ![](assets/two-1.png)
 
-1. Klicken Sie auf das Dropdown-Menü **E-Mail-Aktionen** und wählen Sie **Als Vorlage speichern** aus.
+1. Klicken Sie auf **E-Mail** Aktionen) und wählen Sie **Als Vorlage speichern**.
 
    ![](assets/four-1.png)
 
-1. Klicken Sie auf die Dropdownliste **Ordner**, wählen Sie aus, wo die Vorlage live sein soll, und klicken Sie auf **Speichern**.
+1. Klicken Sie auf **Ordner**, wählen Sie aus, wo die Vorlage gespeichert werden soll, und klicken Sie auf **Speichern**.
 
    ![](assets/five-1.png)
 
-   Und das ist es!
+   Und das war&#39;s!
 
    >[!CAUTION]
    >
-   >Beim Speichern einer E-Mail als Vorlage werden Variablenwerte nicht übernommen. Variablen verwenden weiterhin die in der zugrunde liegenden Vorlage angegebenen Standardwerte. Die in der E-Mail verfügbaren Module werden nur übertragen, wenn sie in den E-Mail-Textkörper eingefügt wurden.
+   >Beim Speichern einer E-Mail als Vorlage werden die Variablenwerte nicht übernommen. Variablen verwenden weiterhin die in der zugrunde liegenden Vorlage angegebenen Standardwerte. Verfügbare Module in der E-Mail werden ebenfalls nur übernommen, wenn sie in den E-Mail-Textkörper eingefügt wurden.
 
-Um Ihre E-Mail-Vorlage anzupassen, sehen Sie sich den unten stehenden Artikel an.
+Um Ihre E-Mail-Vorlage anzupassen, lesen Sie den folgenden Artikel.
 
 >[!MORELIKETHIS]
 >
->[Syntax der E-Mail-Vorlage](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
+>[E-Mail-Vorlagensyntax](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)

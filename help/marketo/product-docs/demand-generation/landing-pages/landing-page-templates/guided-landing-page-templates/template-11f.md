@@ -1,7 +1,7 @@
 ---
 unique-page-id: 9437571
-description: Vorlage 11F - Marketo Docs - Produktdokumentation
-title: Vorlage 11F
+description: Vorlage 11f - Marketo-Dokumente - Produktdokumentation
+title: Meldebogen 11f
 exl-id: db5aa680-3fe1-408c-adaf-0e16e64f0032
 feature: Landing Pages, Guided Landing Page Templates
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
@@ -11,22 +11,22 @@ ht-degree: 0%
 
 ---
 
-# Vorlage 11F {#template-11f}
+# Meldebogen 11f {#template-11f}
 
-Rechtsklicken Sie auf [Vorlage 11F herunterladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11f.html) .
+Rechtsklick zum Herunterladen [Vorlage 11F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11f.html)
 
 ![](assets/image2015-8-4-13-3a57-3a13.png)
 
 Diese Vorlage enthält den folgenden Inhalt:
 
-* Kopfzeile (optional)
+* Eine Kopfzeile (optional)
 * Ein primärer Abschnitt
 
-   * enthält Hero-Bild
+   * Enthält Hero-Bild
 
-* Vier Hauptteilabschnitte (optional)
+* Vier Karosserieabschnitte (optional)
 * Fußzeile (optional)
 
-**Klicken Sie mit der rechten Maustaste unten, um diese Vorlage herunterzuladen:**
+**Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
 [Vorlage 11F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11f.html)

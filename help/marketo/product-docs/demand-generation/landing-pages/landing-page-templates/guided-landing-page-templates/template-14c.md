@@ -1,7 +1,7 @@
 ---
 unique-page-id: 9437807
-description: Vorlage 14C - Marketo Docs - Produktdokumentation
-title: Vorlage 14C
+description: Vorlage 14c - Marketo-Dokumente - Produktdokumentation
+title: Meldebogen 14c
 exl-id: d8a66bbc-9795-42d3-81fc-d70039856f92
 feature: Landing Pages, Guided Landing Page Templates
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
@@ -11,22 +11,22 @@ ht-degree: 0%
 
 ---
 
-# Vorlage 14C {#template-14c}
+# Meldebogen 14c {#template-14c}
 
-Klicken Sie mit der rechten Maustaste auf [Vorlage 14C herunterladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14c.html)
+Rechtsklick zum Herunterladen [Vorlage 14C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14c.html)
 
 ![](assets/image2015-8-11-17-3a23-3a54.png)
 
 Diese Vorlage enthält den folgenden Inhalt:
 
-* Kopfzeile (optional)
+* Eine Kopfzeile (optional)
 * Ein primärer Abschnitt
 
-   * enthält Hero-Titel, Hero-Text und Umfrage
+   * Enthält Hero-Titel, Hero-Text und Umfrage
 
-* Sive-Textabschnitte (optional)
+* Fünf Aufbauteile (optional)
 * Fußzeile (optional)
 
-**Klicken Sie mit der rechten Maustaste unten, um diese Vorlage herunterzuladen:**
+**Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
 [Vorlage 14C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14c.html)

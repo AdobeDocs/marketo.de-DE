@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Übersicht über die E-Mail-Vorlagenauswahl {#email-template-picker-overview}
 
-Wenn Sie [eine E-Mail erstellen](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md), haben Sie mehrere freie Vorlagen zur Auswahl. Sie können auch eine eigene Vorlage erstellen und für die zukünftige Verwendung speichern.
+Wenn Sie [E-Mail erstellen](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md) haben Sie mehrere kostenlose Vorlagen zur Auswahl. Sie können auch Ihre eigene Vorlage erstellen und sie für die zukünftige Verwendung speichern.
 
 ![](assets/email-template-picker-overview-1.png)
 
@@ -21,35 +21,35 @@ Wenn Sie [eine E-Mail erstellen](/help/marketo/product-docs/email-marketing/gene
 
 ![](assets/two-2.png)
 
-Wenn Ihre E-Mail wichtig ist und Sie möchten, dass Kommunikationsbeschränkungen umgangen werden, aktivieren Sie das Kontrollkästchen, indem Sie [sie betriebsbereit machen](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md). **Im Editor öffnen** ist standardmäßig ausgewählt, was bedeutet, dass Sie sofort mit der Bearbeitung Ihrer neuen E-Mail beginnen möchten. **Erstellen** bedeutet, erstellen!
+Wenn Ihre E-Mail wichtig ist und Sie Kommunikationsbeschränkungen umgehen möchten, aktivieren [ das Kontrollkästchen, um ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) E-Mail funktionsfähig zu machen. **Im Editor öffnen** ist standardmäßig ausgewählt und bedeutet, dass Sie Ihre neue E-Mail sofort bearbeiten möchten. **Erstellen** bedeutet, erstellen!
 
 ![](assets/three-2.png)
 
-**Startvorlagen** enthält eine Sammlung vordefinierter responsiver E-Mail-Vorlagen. Sie können sie unverändert verwenden oder nach Ihren Wünschen anpassen.
+**Starter-Vorlagen** enthält eine Sammlung einsatzbereiter responsiver E-Mail-Vorlagen. Sie können sie unverändert verwenden oder nach Ihren Wünschen anpassen.
 
 ![](assets/email-template-picker-overview-4.png)
 
-**Meine Vorlagen** bestehen aus allen von Ihnen erstellten Vorlagen. Sie können auch Ordner haben.
+**Meine Vorlagen** besteht aus allen von Ihnen erstellten Vorlagen. Möglicherweise sind auch Ordner vorhanden.
 
 ![](assets/five-2.png)
 
-Alle Ordner, die unter E-Mails > Vorlagen in Ihrer Design Studio-Struktur angezeigt werden, sind in **Meine Vorlagen** verfügbar.
+Alle Ordner, die in Ihrer Design Studio-Baumstruktur unter E-Mails > Vorlagen angezeigt werden, stehen unter &quot;**Vorlagen“ zur**.
 
 ![](assets/six-1.png)
 
-Um eine Vorlage in der Vorschau anzuzeigen, bewegen Sie den Mauszeiger über die Miniaturansicht und klicken Sie auf **Vorschau** . Sie können auch einfach darauf doppelklicken.
+Um eine Vorlage in der Vorschau anzuzeigen, bewegen Sie den Mauszeiger über die Miniaturansicht und klicken Sie auf **Vorschau**. Sie können auch einfach doppelt darauf klicken.
 
 ![](assets/seven-1.png)
 
-Die Vorschau zeigt, wie die Vorlage auf einem Desktop-Computer dargestellt wird..
+Die Vorschau zeigt an, wie die Vorlage auf einem Desktop-Computer gerendert wird.
 
 ![](assets/eight-1.png)
 
-... und ein Mobilgerät.
+…und ein mobiles Gerät.
 
 ![](assets/nine-1.png)
 
-Wenn Ihnen diese Vorlage gefällt, wählen Sie sie aus, indem Sie unten rechts auf **Auswählen** klicken. Willst du weiter suchen? Klicken Sie oben rechts auf den **X**. Verwenden Sie die Links- und Rechtspfeile, um durch Vorlagen zu blättern.
+Wenn Ihnen diese Vorlage gefällt, wählen Sie sie aus, indem **rechts unten auf** Auswählen“ klicken. Willst du weiter suchen? Klicken Sie auf **X** oben rechts. Verwenden Sie die Pfeile nach links und rechts, um durch Vorlagen zu scrollen.
 
 ![](assets/ten-1.png)
 
@@ -59,11 +59,11 @@ Sie können auch mit der rechten Maustaste auf eine Vorlagenminiatur klicken, um
 
 >[!NOTE]
 >
->Eine tolle Sache mit Vorlagenminiaturansichten ist, dass sie live sind. Wenn Sie also eine Vorlage ändern, ändert sich die Miniaturansicht mit ihr.
+>Ein cooles an Vorlagenminiaturen ist, sie sind live. Wenn Sie also eine Änderung an einer Vorlage vornehmen, wird auch die Miniaturansicht geändert.
 
-Ziemlich nett!
+Ziemlich ordentlich!
 
 >[!MORELIKETHIS]
 >
->* [Syntax der E-Mail-Vorlage](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
+>* [E-Mail-Vorlagensyntax](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
 >* [E-Mail erstellen](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)

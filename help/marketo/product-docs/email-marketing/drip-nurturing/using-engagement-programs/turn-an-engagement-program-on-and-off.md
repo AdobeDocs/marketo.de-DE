@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2359856
-description: Interaktionsprogramm aktivieren und deaktivieren - Marketo-Dokumente - Produktdokumentation
-title: Ein- und Ausschalten eines Interaktionsprogramms
+description: Aktivieren und Deaktivieren eines Interaktionsprogramms - Marketo-Dokumente - Produktdokumentation
+title: Aktivieren und Deaktivieren eines Interaktionsprogramms
 exl-id: 4fe68ca1-7a54-44b0-ab3b-06f482f65304
 feature: Engagement Programs
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,19 +11,19 @@ ht-degree: 0%
 
 ---
 
-# Ein- und Ausschalten eines Interaktionsprogramms {#turn-an-engagement-program-on-and-off}
+# Aktivieren und Deaktivieren eines Interaktionsprogramms {#turn-an-engagement-program-on-and-off}
 
-Sie können ein Interaktionsprogramm mit dem Klick auf einen Schalter deaktivieren. Dadurch wird verhindert, dass Inhalte gesendet werden. So geht es.
+Sie können ein Interaktionsprogramm mit einem Mausklick deaktivieren. Dadurch wird verhindert, dass Inhalte gesendet werden. So geht&#39;s.
 
-1. Wechseln Sie zu **Marketingaktivitäten**.
+1. Navigieren Sie **Marketing-Aktivitäten**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Wählen Sie das Interaktionsprogramm aus und klicken Sie auf **Einrichten**.
+1. Wählen Sie das Interaktionsprogramm aus und klicken Sie auf **Setup**.
 
    >[!NOTE]
    >
-   >Interaktionsprogramme sind standardmäßig aktiviert, es sei denn, Sie überschreiten die Anmeldegrenze.
+   >Interaktionsprogramme sind standardmäßig aktiviert, es sei denn, Sie überschreiten Ihr Abonnementlimit.
 
    ![](assets/image2014-9-15-17-3a14-3a56.png)
 
@@ -35,4 +35,4 @@ Sie können ein Interaktionsprogramm mit dem Klick auf einen Schalter deaktivier
 
    ![](assets/image2014-9-15-17-3a15-3a2.png)
 
-Los geht&#39;s! Sie können es mit denselben Schritten wieder aktivieren.
+Los geht&#39;s! Sie können sie in den gleichen Schritten wieder aktivieren.

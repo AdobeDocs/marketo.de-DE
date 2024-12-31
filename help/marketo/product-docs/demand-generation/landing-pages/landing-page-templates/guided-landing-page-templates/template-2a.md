@@ -1,7 +1,7 @@
 ---
 unique-page-id: 7516467
 description: Vorlage 2A - Marketo-Dokumente - Produktdokumentation
-title: Vorlage 2A
+title: Meldebogen 2a
 exl-id: dcffaab5-8944-425b-aac3-2906ce3718b1
 feature: Landing Pages, Guided Landing Page Templates
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
@@ -11,22 +11,22 @@ ht-degree: 0%
 
 ---
 
-# Vorlage 2A {#template-2a}
+# Meldebogen 2a {#template-2a}
 
-Rechtsklicken Sie auf [Vorlage 2A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2a.html) herunterladen
+Rechtsklick zum Herunterladen [Vorlage 2A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2a.html)
 
 ![](assets/image2015-6-2-15-3a17-3a17.png)
 
 Diese Vorlage enthält den folgenden Inhalt:
 
-* Kopfzeile mit Logo und Schaltfläche (optional)
+* Eine Kopfzeile mit Logo und Schaltfläche (optional)
 * Ein primärer Abschnitt
 
-   * enthält Hero-Hintergrundbild, Kopfzeile, Tagline, Aufzählungsliste und Formular.
+   * Enthält Hero-Hintergrundbild, Kopfzeile, Slogan, Aufzählungsliste und Formular.
 
-* Ein Textabschnitt (optional)
+* Ein Hauptteil (optional)
 * Fußzeile (optional)
 
-**Klicken Sie mit der rechten Maustaste unten, um diese Vorlage herunterzuladen:**
+**Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
 [Vorlage 2A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2a.html)

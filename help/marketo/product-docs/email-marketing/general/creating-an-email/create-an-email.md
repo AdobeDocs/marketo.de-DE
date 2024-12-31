@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10912163
-description: Erstellen einer E-Mail - Marketo Docs - Produktdokumentation
+description: E-Mail erstellen - Marketo-Dokumente - Produktdokumentation
 title: E-Mail erstellen
 exl-id: 58388c21-d3f7-4101-a375-05e9b68a278e
 feature: Email Editor
@@ -13,31 +13,31 @@ ht-degree: 0%
 
 # E-Mail erstellen {#create-an-email}
 
-Es gibt zwei Möglichkeiten, eine E-Mail in Marketo zu erstellen. Sehen wir uns beide an.
+Es gibt zwei Möglichkeiten, eine E-Mail in Marketo zu erstellen. Schauen wir uns beides an.
 
 ## Erstellen einer E-Mail in Design Studio {#create-an-email-in-the-design-studio}
 
-1. Wechseln Sie zu **Design Studio**.
+1. Gehen Sie zum **Design Studio**.
 
    ![](assets/create-an-email-1.png)
 
-1. Klicken Sie auf das Dropdownfeld **Neu** und wählen Sie **Neue E-Mail** aus.
+1. Klicken Sie auf **Neu** und wählen Sie **Neue E-Mail**.
 
    ![](assets/create-an-email-2.png)
 
    >[!NOTE]
    >
-   >Wenn Sie eine E-Mail in Design Studio erstellen, finden Sie sie im Baum unter &quot;E-Mails&quot;.
+   >Wenn Sie eine E-Mail im Design Studio erstellen, befindet sie sich in der Baumstruktur unter „E-Mails“.
 
-Einfach! Für den anderen Weg...
+Einfach! Jetzt für den anderen Weg…
 
-## Erstellen einer E-Mail in Marketingaktivitäten {#create-an-email-in-marketing-activities}
+## Erstellen einer E-Mail in Marketing-Aktivitäten {#create-an-email-in-marketing-activities}
 
-1. Wechseln Sie zu **Marketingaktivitäten**.
+1. Navigieren Sie **Marketing-Aktivitäten**.
 
    ![](assets/create-an-email-3.png)
 
-1. Wählen Sie das Programm aus, dem Sie die E-Mail hinzufügen möchten, klicken Sie auf die Dropdownliste **Neu** und wählen Sie **Neues lokales Asset** aus.
+1. Wählen Sie das Programm aus, dem Sie die E-Mail hinzufügen möchten, klicken Sie auf die **Neu** und wählen Sie **Neues lokales Asset**.
 
    ![](assets/create-an-email-4.png)
 
@@ -45,26 +45,26 @@ Einfach! Für den anderen Weg...
 
    ![](assets/create-an-email-5.png)
 
-   Und das ist es!
+   Und das war&#39;s!
 
-Welche Methode Sie auswählen, führt Sie zur Vorlagenauswahl.
+Die von Ihnen gewählte Methode bringt Sie zur Vorlagenauswahl.
 
-1. Geben Sie Ihrer E-Mail einen Namen, klicken Sie auf die Vorlage, die Sie verwenden möchten, und klicken Sie dann auf **Erstellen**.
+1. Geben Sie Ihrer E-Mail einen Namen, klicken Sie auf die gewünschte Vorlage und dann auf **Erstellen**.
 
    ![](assets/create-an-email-6.png)
 
    >[!NOTE]
    >
-   >Sie können aus einer Sammlung vordefinierter responsiver E-Mail-Vorlagen oder aus einer Vorlage auswählen, die Sie gespeichert haben, indem Sie zunächst **Meine Vorlagen** auswählen und dieselben Schritte ausführen.
+   >Sie können aus einer Sammlung einsatzbereiter responsiver E-Mail-Vorlagen oder einer Vorlage wählen, die Sie gespeichert haben, indem Sie zunächst **Meine Vorlagen** auswählen und die gleichen Schritte ausführen.
 
-1. Geben Sie eine Betreffzeile ein. Die empfohlene Zeichenbegrenzung beträgt 50.
+1. Geben Sie einen Betreff ein. Die empfohlene Zeichenbeschränkung ist 50.
 
    ![](assets/create-an-email-7.png)
 
-   Je nach ausgewählter Vorlage stehen verschiedene Optionen zur Bearbeitung der E-Mail zur Verfügung. Sehen Sie sich für E-Mails mit Modulen [Module zu Ihrer E-Mail hinzufügen](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md) an.
+   Je nach ausgewählter Vorlage haben Sie verschiedene Optionen, um Ihre E-Mail zu bearbeiten. E-Mails mit Modulen finden Sie unter [Hinzufügen von Modulen zu Ihrer E-Mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md).
 
-Ihre E-Mail ist jetzt erstellt, also bearbeiten Sie sie weg!
+Ihre E-Mail wurde erstellt, also bearbeiten Sie sie!
 
 >[!MORELIKETHIS]
 >
->[E-Mail-Header bearbeiten](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md)
+>[E-Mail-Kopfzeile bearbeiten](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md)

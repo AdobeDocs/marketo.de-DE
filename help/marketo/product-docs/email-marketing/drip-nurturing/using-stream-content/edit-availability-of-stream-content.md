@@ -13,24 +13,24 @@ ht-degree: 0%
 
 # Verfügbarkeit von Stream-Inhalten bearbeiten {#edit-availability-of-stream-content}
 
-Sie können einen Zeitrahmen festlegen, innerhalb dessen der Inhalt in Ihrem Stream aktiv sein soll. So geht es.
+Sie können einen Zeitrahmen festlegen, in dem der Inhalt in Ihrem Stream aktiv sein soll. So geht&#39;s.
 
 1. Wählen Sie Ihr Interaktionsprogramm aus und wechseln Sie zur Registerkarte **Streams** .
 
    ![](assets/cloneasteam-2.jpg)
 
-1. Klicken Sie auf das Zahnradsymbol für das Inhaltselement, das Sie planen möchten, und wählen Sie dann **Verfügbarkeit bearbeiten** aus.
+1. Klicken Sie auf das Zahnradsymbol für das Inhaltselement, das Sie planen möchten, und wählen Sie dann **Verfügbarkeit bearbeiten**.
 
    ![](assets/image2014-9-15-17-3a35-3a56.png)
 
-1. Wählen Sie das Datum **Aktiv ab** aus, dann das Datum **Aktiv bis** und klicken Sie auf **Speichern**.
+1. Wählen Sie Ihr **Aktives Von**-Datum und dann das **Aktiv** Bis-Datum aus und klicken Sie auf **Speichern**.
 
    ![](assets/image2014-9-15-17-3a36-3a0.png)
 
    >[!TIP]
    >
-   >Sie können **Aktiv bis** leer lassen, um Inhalte für immer verfügbar zu machen.
+   >Sie können **Aktiv durch** leer lassen, um Inhalte für immer verfügbar zu machen.
 
-   Perfekt! Neben dem geplanten Inhalt wird das Uhrensymbol angezeigt. Sie wird entsprechend dem von Ihnen festgelegten Zeitplan aktiv und inaktiv.
+   Perfekt! Neben dem geplanten Inhalt wird das Uhrensymbol angezeigt. Er wird gemäß dem von Ihnen festgelegten Zeitplan aktiv und inaktiv.
 
    ![](assets/image2014-9-15-17-3a36-3a4.png)

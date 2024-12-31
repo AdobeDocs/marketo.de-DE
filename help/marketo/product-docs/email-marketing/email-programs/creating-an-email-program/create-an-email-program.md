@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # E-Mail-Programm erstellen {#create-an-email-program}
 
-Verwenden Sie E-Mail-Programme, um schnell und einfach eine E-Mail an eine Personengruppe zu senden.
+Verwenden Sie E-Mail-Programme, um schnell und einfach eine E-Mail an eine Gruppe von Personen zu senden.
 
-1. Wechseln Sie zu **Marketingaktivitäten**.
+1. Navigieren Sie **Marketing-Aktivitäten**.
 
    ![](assets/one.png)
 
-1. Wählen Sie den Ordner aus, in dem Sie das Programm erstellen möchten, klicken Sie auf die Dropdownliste **Neu** und wählen Sie **Neues Programm** aus.
+1. Wählen Sie den Ordner aus, in dem Sie das Programm erstellen möchten, klicken Sie auf die **Neu** und wählen Sie **Neues Programm**.
 
    ![](assets/two.png)
 
@@ -29,11 +29,11 @@ Verwenden Sie E-Mail-Programme, um schnell und einfach eine E-Mail an eine Perso
 
    >[!NOTE]
    >
-   >Wenn Sie **E-Mail** als Programmtyp auswählen, wird der Kanal automatisch auf **E-Mail-Versand** eingestellt. Du kannst es ändern, wenn du willst.
+   >Bei Auswahl von **E** als Programmtyp wird der Kanal automatisch auf „E **Mail senden“**. Du kannst es ändern, wenn du willst.
 
    ![](assets/four.png)
 
-Gut! Beachten Sie, dass sich das Programm jetzt im Baum befindet und einsatzbereit ist. Der nächste Schritt besteht darin, Ihre Audience zu definieren. Weitere Informationen finden Sie unten in den Marketo-bezogenen Artikeln.
+Schön! Beachten Sie, dass sich das Programm jetzt in der Baumstruktur befindet und verwendet werden kann. Der nächste Schritt besteht darin, Ihre Audience zu definieren. Siehe die Marketo-bezogenen Artikel unten.
 
 >[!MORELIKETHIS]
 >

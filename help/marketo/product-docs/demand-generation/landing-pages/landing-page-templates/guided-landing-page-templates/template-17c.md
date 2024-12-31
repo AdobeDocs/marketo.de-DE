@@ -1,7 +1,7 @@
 ---
 unique-page-id: 9438197
-description: Vorlage 17C - Marketo Docs - Produktdokumentation
-title: Vorlage 17C
+description: Vorlage 17c - Marketo-Dokumente - Produktdokumentation
+title: Meldebogen 17c
 exl-id: d9d1079d-2adf-4b6e-befc-42e913ce8b2c
 feature: Landing Pages, Guided Landing Page Templates
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
@@ -11,9 +11,9 @@ ht-degree: 0%
 
 ---
 
-# Vorlage 17C {#template-17c}
+# Meldebogen 17c {#template-17c}
 
-Klicken Sie mit der rechten Maustaste auf [Vorlage 17C herunterladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17c.html)
+Rechtsklick zum Herunterladen [Vorlage 17C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17c.html)
 
 ![](assets/image2015-8-17-17-3a6-3a47.png)
 
@@ -21,11 +21,11 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 * Ein primärer Abschnitt
 
-   * enthält Hero-Titel, Hero-Text und eine Umfrage
+   * Enthält Hero-Titel, Hero-Text und eine Umfrage
 
-* Sechs Hauptteilabschnitte (optional)
+* Sechs Karosserieabschnitte (optional)
 * Fußzeile (optional)
 
-**Klicken Sie mit der rechten Maustaste unten, um diese Vorlage herunterzuladen:**
+**Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
-[Vorlage 17C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17c.html)
+[Vorlage 17c.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17c.html)

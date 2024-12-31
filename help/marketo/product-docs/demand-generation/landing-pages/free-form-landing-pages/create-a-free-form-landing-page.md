@@ -13,15 +13,15 @@ ht-degree: 2%
 
 # Erstellen einer Freiform-Landingpage {#create-a-free-form-landing-page}
 
-Landingpages mit Freiform können als lokale Assets eines Programms oder in Design Studio erstellt werden, um global verwendet zu werden.
+Freiform-Landingpages können als lokale Assets eines Programms oder im Design Studio erstellt und global verwendet werden.
 
 >[!NOTE]
 >
->Landingpage-Modi werden durch ihre Vorlage definiert. [Erfahren Sie mehr](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) über Vorlagen für freie und geführte Landingpages.
+>Landingpage-Modi werden durch ihre Vorlage definiert. [Weitere Informationen](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) über Freiform- und geführte Landingpage-Vorlagen.
 
 ## Erstellen einer Freiform-Landingpage in einem Programm {#create-a-free-form-landing-page-in-a-program}
 
-1. Wechseln Sie zu **Marketingaktivitäten**.
+1. Navigieren Sie **Marketing-Aktivitäten**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -29,7 +29,7 @@ Landingpages mit Freiform können als lokale Assets eines Programms oder in Desi
 
    ![](assets/image2015-5-19-12-3a46-3a47.png)
 
-1. Klicken Sie auf **Neu**. Wählen Sie **Neues lokales Asset** aus.
+1. Klicken Sie auf **Neu**. Wählen Sie **Neues lokales Asset**.
 
    ![](assets/image2015-5-19-12-3a47-3a27.png)
 
@@ -37,11 +37,11 @@ Landingpages mit Freiform können als lokale Assets eines Programms oder in Desi
 
    ![](assets/image2014-9-16-12-3a58-3a49.png)
 
-1. Benennen Sie Ihre Landingpage und wählen Sie in der Dropdown-Liste eine Freiformvorlage aus.
+1. Benennen Sie Ihre Landingpage und wählen Sie aus der Dropdown-Liste Freiformvorlage aus.
 
    >[!NOTE]
    >
-   >Vorlagen ohne Symbol sind frei formbar. Freiformvorlagen ermöglichen eine vollständige Anpassung.
+   >Vorlagen ohne Symbol sind Freiformvorlagen. Freiformvorlagen ermöglichen eine vollständige Anpassung.
 
    ![](assets/image2015-5-19-12-3a51-3a13.png)
 
@@ -51,19 +51,19 @@ Landingpages mit Freiform können als lokale Assets eines Programms oder in Desi
 
 >[!TIP]
 >
->Die URL wird automatisch aus den Namen des Programms und der Landingpage erstellt. Um die URL zu ändern, bearbeiten Sie das Feld **Seiten-URL** .
+>Die URL wird automatisch aus den Programm- und Landingpage-Namen erstellt. Um die URL zu ändern, bearbeiten Sie das Feld **Seiten-URL** .
 
 ## Erstellen einer Freiform-Landingpage in Design Studio {#create-a-free-form-landing-page-in-design-studio}
 
-1. Wechseln Sie zu **Design Studio**.
+1. Gehen Sie zum **Design Studio**.
 
    ![](assets/designstudio.png)
 
-1. Klicken Sie auf **Neu** und dann auf **Neue Landingpage**.
+1. Klicken Sie **Neu** und dann **Neue Landingpage**.
 
    ![](assets/image2014-9-16-13-3a0-3a43.png)
 
-1. Benennen Sie Ihre Landingpage und wählen Sie in der Dropdown-Liste eine Freiformvorlage aus.
+1. Benennen Sie Ihre Landingpage und wählen Sie aus der Dropdown-Liste Freiformvorlage aus.
 
    ![](assets/image2015-5-19-13-3a30-3a25.png)
 
@@ -73,4 +73,4 @@ Landingpages mit Freiform können als lokale Assets eines Programms oder in Desi
 
 >[!TIP]
 >
->Deaktivieren Sie &quot;Landingpage-Editor für neue Seite öffnen&quot;, wenn Sie nicht möchten, dass der Editor sofort nach dem Klicken auf **Erstellen** geöffnet wird.
+>Deaktivieren Sie „Landingpage-Editor für neue Seite öffnen“, wenn der Editor nicht sofort nach dem Klicken auf &quot;**&quot; geöffnet** soll.

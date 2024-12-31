@@ -1,7 +1,7 @@
 ---
 unique-page-id: 1900597
-description: Definieren einer Zielgruppe durch Importieren einer Liste - Marketo Docs - Produktdokumentation
-title: Definieren einer Zielgruppe durch Importieren einer Liste
+description: Definieren einer Zielgruppe durch Importieren einer Liste - Marketo-Dokumente - Produktdokumentation
+title: Definieren einer Audience durch Importieren einer Liste
 exl-id: 9a63f4a5-1d76-4671-9622-19eb368d196f
 feature: Email Programs
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,21 +11,21 @@ ht-degree: 1%
 
 ---
 
-# Definieren einer Zielgruppe durch Importieren einer Liste {#define-an-audience-by-importing-a-list}
+# Definieren einer Audience durch Importieren einer Liste {#define-an-audience-by-importing-a-list}
 
 >[!PREREQUISITES]
 >
->[E-Mail für ein E-Mail-Programm erstellen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>[Erstellen einer E-Mail für ein E-Mail-Programm](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
-Nachdem Sie ein E-Mail-Programm erstellt haben, möchten Sie ihm mitteilen, an wen die E-Mail gesendet werden soll. Erstellen Sie dazu eine Smart-Liste ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) oder importieren Sie eine Liste. [ Hier erfahren Sie, wie Sie dies durch Importieren einer Liste erreichen.
+Nachdem Sie ein E-Mail-Programm erstellt haben, sollten Sie ihm mitteilen, an wen Sie die E-Mail senden sollen. Dies können Sie tun, indem Sie [eine Smart-Liste erstellen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) oder eine Liste importieren. Gehen Sie dazu wie folgt vor, indem Sie eine Liste importieren.
 
 >[!NOTE]
 >
->Die Bestimmung der Audience funktioniert nur, wenn das E-Mail-Programm nicht genehmigt wurde.
+>Die Definition Ihrer Audience funktioniert nur, wenn das E-Mail-Programm nicht genehmigt ist.
 >
->Alle Datums-/Uhrzeitfelder, die importiert werden, werden als Central Time behandelt. Wenn Sie Datums-/Uhrzeitfelder in einer anderen Zeitzone haben, können Sie eine Excel-Formel verwenden, um sie in Central Time (America/Chicago) umzuwandeln.
+>Alle Datums-/Uhrzeitfelder, die importiert werden, werden als zentrale Zeit behandelt. Wenn Sie Datums-/Zeitfelder in einer anderen Zeitzone haben, können Sie eine Excel-Formel verwenden, um sie in Central Time (America/Chicago) umzuwandeln.
 
-1. Wechseln Sie zu **Marketingaktivitäten**.
+1. Navigieren Sie **Marketing-Aktivitäten**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -39,21 +39,21 @@ Nachdem Sie ein E-Mail-Programm erstellt haben, möchten Sie ihm mitteilen, an w
 
    >[!CAUTION]
    >
-   >Stellen Sie sicher, dass die Liste UTF-8-, UTF-16-, Shift-JIS- oder EUC-JP-kodiert ist und die Dateigröße 50 MB nicht überschreitet.
+   >Stellen Sie sicher, dass die Liste UTF-8, UTF-16, Shift-JIS oder EUC-JP kodiert ist und 50 MB an Dateigröße nicht überschreitet.
 
-1. Vergewissern Sie sich, dass die Felder in Ihrer Datei korrekt zugeordnet sind, und klicken Sie auf **Weiter**.
+1. Stellen Sie sicher, dass die Felder in Ihrer Datei korrekt zugeordnet sind, und klicken Sie auf **Weiter**.
 
    ![](assets/image2014-9-12-11-3a10-3a7.png)
 
    >[!TIP]
    >
-   >Marketo wird sich an die Zuordnungen für zukünftige Importe erinnern!
+   >Marketo wird sich die Zuordnungen für zukünftige Importe merken!
 
-1. Geben Sie einen **Namen** für Ihre Liste ein und klicken Sie auf **Importieren**.
+1. Geben Sie **Namen** Ihrer Liste ein und klicken Sie auf **Importieren**.
 
    ![](assets/image2014-9-12-11-3a10-3a13.png)
 
-1. Gehen Sie nach Abschluss des Imports in den Tab Hauptprogramm . Du wirst sehen, wie viele Leute dich qualifizieren werden.
+1. Nachdem der Import abgeschlossen ist, kehren Sie zur Registerkarte Hauptprogramm zurück. Sie werden sehen, wie viele Leute sich qualifizieren werden.
 
    ![](assets/myemailprogram-1.jpg)
 
@@ -61,7 +61,7 @@ Nachdem Sie ein E-Mail-Programm erstellt haben, möchten Sie ihm mitteilen, an w
 >
 >**Definition**
 >
->Haben Sie die Blockierungsnummer bemerkt? Diese Zahl ist eine Untergruppe der qualifizierten Personen und stellt Personen dar, die diese E-Mail nicht erhalten können, weil sie:
+>Ist Ihnen die Blockierungsnummer aufgefallen? Diese Zahl ist eine Teilmenge der qualifizierten Personen und stellt Personen dar, die aus folgenden Gründen nicht an diese E-Mail gesendet werden können:
 >
 >* Abbestellt
 >* Marketing eingestellt
@@ -69,17 +69,17 @@ Nachdem Sie ein E-Mail-Programm erstellt haben, möchten Sie ihm mitteilen, an w
 >* E-Mail-Adresse ungültig
 >* Leere E-Mail
 >
->Klicken Sie auf die Nummer für eine detaillierte Liste der Personen, die von Mailings ausgeschlossen sind.
+>Klicken Sie auf die Nummer für eine detaillierte Liste der Personen, die vom Versand blockiert sind.
 >
->Verwenden Sie die Schaltfläche ![—](assets/image2014-10-23-16-3a32-3a36-1.png) auf der Kachel **Zielgruppe** , um zu sehen, wie viele Personen sich für den Erhalt der E-Mail anhand von Kriterien mit intelligenten Listen qualifiziert haben. Ziehen Sie die Zahl Blockiert von der Zahl Personen ab, um die Gesamtzahl der Personen zu erhalten, die die E-Mail erhalten werden.
+>Verwenden Sie die Schaltfläche ![—](assets/image2014-10-23-16-3a32-3a36-1.png) auf der Kachel **Audience**, um anzuzeigen, wie viele Personen sich anhand der Smart-List-Kriterien für den Empfang der E-Mail qualifiziert haben. Subtrahieren Sie die Zahl Blockiert von der Zahl Personen , um die Gesamtzahl der Personen abzurufen, die die E-Mail erhalten werden.
 
 >[!TIP]
 >
->Sie müssen nicht warten, bis der Listenimport abgeschlossen ist. Du kannst weiterarbeiten, wenn du willst.
+>Sie müssen nicht warten, bis der Import der Liste abgeschlossen ist. Du kannst weiterarbeiten, wenn du möchtest.
 
-Fantastisch! Jetzt ist es an der Zeit, eine bereits existierende E-Mail auszuwählen oder eine neue E-Mail zu erstellen, die an diese Personen gesendet wird.
+Fantastisch! Jetzt ist es an der Zeit, eine bereits vorhandene E-Mail auszuwählen oder eine neue E-Mail zu erstellen, die an diese Personen gesendet werden soll.
 
 >[!MORELIKETHIS]
 >
 >* [Vorhandene E-Mail auswählen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
->* [E-Mail für ein E-Mail-Programm erstellen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>* [Erstellen einer E-Mail für ein E-Mail-Programm](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)

@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2359476
-description: Verwenden des Dashboards "E-Mail-Programm"- Marketo-Dokumente - Produktdokumentation
-title: Verwenden des Dashboards E-Mail-Programm
+description: Verwenden des E-Mail-Programm-Dashboards - Marketo-Dokumente - Produktdokumentation
+title: Verwenden des E-Mail-Programm-Dashboards
 exl-id: 47c1925a-144b-4277-a08d-1af660ed3d50
 feature: Email Programs
 source-git-commit: b2ceefb068005d916027fb71be0dc4e25849ae23
@@ -11,37 +11,37 @@ ht-degree: 0%
 
 ---
 
-# Verwenden des Dashboards E-Mail-Programm {#use-the-email-program-dashboard}
+# Verwenden des E-Mail-Programm-Dashboards {#use-the-email-program-dashboard}
 
-In dieser Dashboard-Ansicht erfahren Sie, wie Ihre E-Mail-Programme funktionieren.
+Sehen Sie sich mit dieser Dashboard-Ansicht an, wie Ihre E-Mail-Programme funktionieren.
 
 >[!CAUTION]
 >
->Vermeiden Sie für eine genaue Berichterstellung die _Wiederverwendung_ einer E-Mail aus einem E-Mail-Programm, indem Sie entweder in einer Smart-Kampagne darauf verweisen oder das Asset aus dem gestarteten E-Mail-Programm in ein neues verschieben. Auf diese Weise werden alle Daten in jedem Bericht-Dashboard, das an diese E-Mail angehängt ist, aggregiert. Wenn Sie eine E-Mail wiederverwenden müssen, klonen Sie sie stattdessen mit [1}, da diese die E-Mail kopiert, aber eine neue E-Mail-Adresse mit einer neuen ID erstellt.](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"}
+>Um präzise Berichte zu erstellen, vermeiden Sie _Wiederverwendung_ einer E-Mail aus einem E-Mail-Programm, indem Sie entweder in einer Smart-Kampagne darauf verweisen oder das Asset aus dem gestarteten E-Mail-Programm in ein neues verschieben. Dadurch werden alle Daten in jedem Reporting-Dashboard aggregiert, das an diese E-Mail angehängt ist. Wenn Sie eine E-Mail wiederverwenden müssen, [ Sie sie stattdessen ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"}, da diese die E-Mail kopiert, aber eine neue mit einer neuen E-Mail-ID erstellt.
 
 >[!NOTE]
 >
->Wenn Ihr Programm über einen A/B-Test verfügt, sehen Sie sich das [E-Mail-Programm-Dashboard - A/B-Testansicht](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md){target="_blank"} an.
+>Wenn Ihr Programm über einen A/B-Test verfügt, finden Sie weitere Informationen unter [E-Mail-Programm-Dashboard - A/B-Testansicht](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md){target="_blank"}.
 
 ![](assets/image2014-9-12-14-3a12-3a56.png)
 
 >[!NOTE]
 >
->Alle Daten in dieser Ansicht sind aggregiert (einschließlich A/B-Test und E-Mail-Versand).
+>Alle Daten in dieser Ansicht sind aggregiert (einschließlich A/B-Test und endgültigem E-Mail-Versand).
 
 ## E-Mail gesendet {#email-send}
 
-Hier können Sie sehen, wie viele E-Mails gesendet, abgeschnitten und zugestellt wurden.
+Hier können Sie sehen, wie viele E-Mails gesendet, zurückgeschickt und zugestellt wurden.
 
 ![](assets/image2014-9-12-14-3a13-3a3.png)
 
 >[!NOTE]
 >
->Aufgrund von E-Mail-Zustellbarkeitsstandards, die außerhalb der Kontrolle von Marketo liegen, sind die Statistiken &quot;Bounce&quot;und &quot;Delivered&quot;ungefährlich und nicht exakt.
+>Aufgrund von E-Mail-Zustellbarkeitsstandards, die außerhalb der Kontrolle von Marketo liegen, sind die Statistiken „Bounce“ und „Zugestellt“ Näherungswerte und nicht exakt.
 
 ## Öffnungen/Klicks {#opens-clicks}
 
-Diese Grafik zeigt die Anzahl der geöffneten/angeklickten E-Mails während eines bestimmten Zeitraums nach der Ausführung des E-Mail-Programms.
+Dieses Diagramm zeigt die Anzahl der E-Mails, die während bestimmter Zeiträume nach der Ausführung des E-Mail-Programms geöffnet/angeklickt wurden.
 
 ![](assets/image2014-9-12-14-3a13-3a7.png)
 
@@ -51,27 +51,27 @@ Diese Grafik zeigt die Anzahl der geöffneten/angeklickten E-Mails während eine
 
 ## Zusammenfassung - Interaktion {#summary-engagement}
 
-Dies zeigt Ihnen die Gesamtpunktzahl [Interaktion](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md){target="_blank"}.
+Dies zeigt den Gesamtergebnis [Interaktion](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md){target="_blank"}.
 
 ![](assets/image2014-9-12-14-3a13-3a11.png)
 
-## Zusammenfassung - Rest {#summary-rest}
+## Zusammenfassung - REST {#summary-rest}
 
-Der Rest der Daten zeigt Öffnungen, Klicks, Klick-/Öffnungsverhältnis und Abmeldungen an.
+Der Rest der Daten zeigt Öffnungen, Klicks, Klick/Offen-Verhältnis und Abmeldungen an.
 
 ![](assets/image2014-9-12-14-3a13-3a15.png)
 
 >[!TIP]
 >
->Die **Abmelderate** -Rate im obigen Beispiel war so klein, dass Marketo hineingezoomt wurde, um Ihnen einen besseren Einblick zu geben. Die zweite Zahl innerhalb der Leiste wird lediglich als Skalierungswert hinzugefügt.
+>Die **Abo beenden** im obigen Beispiel war so klein, dass Marketo heranzoomte, um Ihnen ein besseres Aussehen zu geben. Die zweite Zahl innerhalb des Balkens wird lediglich für die Skalierung hinzugefügt.
 
 >[!NOTE]
 >
 >**Definition**
 >
->**Öffnungen** werden gezählt, wenn der E-Mail-Empfänger die E-Mail-Bilder herunterlädt, die ein von Marketo eingefügtes Tracking-Pixel enthalten. Wenn der Empfänger die E-Mail anzeigt, aber keine Bilder herunterlädt, zählt dies nicht als Öffnung. Wenn die Bilder im Vorschaufenster des Empfängers geladen werden, zählt dies normalerweise als Öffnung, doch variiert dies je nach E-Mail-Client.
+>**Öffnungen** werden gezählt, wenn der E-Mail-Empfänger die Bilder der E-Mail herunterlädt, die ein von Marketo eingefügtes Tracking-Pixel enthalten. Wenn der Empfänger die E-Mail ansieht, aber seine Bilder nicht herunterlädt, gilt dies nicht als Öffnung. Wenn die Bilder im Vorschaufenster des Empfängers geladen werden, gilt dies in der Regel als geöffnete E-Mail, sie variiert jedoch je nach E-Mail-Client.
 >
->**Click to Open** misst den Prozentsatz der E-Mails, die sowohl geöffnet als auch in der E-Mail auf einen Link geklickt wurden. Wir nehmen die Anzahl der Einzelklicks dividiert durch die Anzahl der Einzelöffnungen und multiplizieren sie dann mit 100, um sie als Prozentsatz anzuzeigen.
+>**Zum Öffnen klicken** misst den Prozentsatz der E-Mails, die sowohl geöffnet wurden als auch auf einen Link in der E-Mail geklickt wurde. Die Anzahl der eindeutigen Klicks dividiert durch die Anzahl der eindeutigen Öffnungen, wird mit 100 multipliziert, um den Prozentsatz anzuzeigen.
 
 ## Dashboard aktualisieren {#refresh-dashboard}
 
@@ -81,4 +81,4 @@ Um die aktuellsten Daten anzuzeigen, klicken Sie einfach auf das Aktualisierungs
 
 >[!MORELIKETHIS]
 >
->[Verwenden des Dashboards &quot;E-Mail-Programm&quot;- A/B-Testansicht](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md){target="_blank"}
+>[Verwenden des E-Mail-Programm-Dashboards - A/B-Testansicht](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md){target="_blank"}
