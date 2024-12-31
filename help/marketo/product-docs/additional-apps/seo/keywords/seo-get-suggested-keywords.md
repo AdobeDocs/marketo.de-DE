@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2949202
-description: SEO - Vorgeschlagene Keywords - Marketo-Dokumente - Produktdokumentation
-title: SEO - Vorgeschlagene Suchbegriffe abrufen
+description: SEO - Empfohlene Keywords abrufen - Marketo-Dokumente - Produktdokumentation
+title: SEO - Vorschläge für Keywords
 exl-id: 6631b389-039a-40f1-8445-3971576e9f65
 feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,69 +11,69 @@ ht-degree: 1%
 
 ---
 
-# SEO - Vorgeschlagene Suchbegriffe abrufen {#seo-get-suggested-keywords}
+# SEO - Vorschläge für Keywords {#seo-get-suggested-keywords}
 
-Marketo SEO kann vorschlagen, welche Suchbegriffe Sie verfolgen sollten. Wir können Vorschläge basierend auf einem Suchbegriff oder der URL einer Site unterbreiten. Lass es mal!
+Marketo SEO kann vorschlagen, welche Keywords Sie verfolgen sollten. Wir können Vorschläge basierend auf einem Keyword oder der URL einer Website geben. Probier es mal!
 
-## Suchbegriffvorschläge mit einem Suchbegriff abrufen {#get-keyword-suggestions-using-a-keyword}
+## Abrufen von Keyword-Vorschlägen mit einem Keyword {#get-keyword-suggestions-using-a-keyword}
 
-1. Wechseln Sie zum Abschnitt **[!UICONTROL Suchbegriffe]** .
+1. Navigieren Sie zum Abschnitt **[!UICONTROL Keywords]**.
 
    ![](assets/image2014-9-18-10-3a51-3a41.png)
 
-1. Klicken Sie auf **[!UICONTROL Empfehlungen abrufen]**.
+1. Klicken Sie **[!UICONTROL Vorschläge abrufen]**.
 
    ![](assets/image2014-9-18-10-3a52-3a42.png)
 
-1. Geben Sie einen **[!UICONTROL Suchbegriff]** ein. Klicken Sie auf **[!UICONTROL Suchbegriffe vorschlagen]**.
+1. Geben Sie ein **[!UICONTROL Keyword]** ein. Klicken Sie auf **[!UICONTROL Keywords vorschlagen]**.
 
    ![](assets/image2014-9-18-10-3a53-3a14.png)
 
    >[!TIP]
    >
-   >Wussten Sie, dass Sie Ihren Suchbegriff [hier in eine neue oder vorhandene Liste einfügen können](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)?
+   >Wussten Sie, [ Sie Ihr Keyword direkt hier zu einer neuen oder ](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) Liste hinzufügen können?
 
-1. Wählen Sie vorgeschlagene Suchbegriffe aus. Klicken Sie auf **[!UICONTROL Ausgewählte hinzufügen]**.
+1. Vorgeschlagene Keywords auswählen. Klicken Sie **[!UICONTROL Ausgewählte hinzufügen]**.
 
    ![](assets/image2014-9-18-10-3a54-3a12.png)
 
-   Sehr gut! Ihr Suchbegriff wurde hinzugefügt.
+   Sehr gut! Ihr Keyword wurde hinzugefügt.
 
    ![](assets/image2014-9-18-10-3a54-3a16.png)
 
-   Ja! Nachdem Sie nun wissen, wie Sie Suchbegriffvorschläge basierend auf einem Suchbegriff erhalten, versuchen Sie, Vorschläge basierend auf einer URL zu erhalten.
+   Oh, ja! Nachdem Sie nun wissen, wie Sie Keyword-Vorschläge basierend auf einem Keyword erhalten, versuchen Sie, Vorschläge basierend auf einer URL zu erhalten.
 
-## Suchbegriffvorschläge von einer URL abrufen  {#get-keyword-suggestions-from-a-url}
+## Keyword-Vorschläge von einer URL abrufen  {#get-keyword-suggestions-from-a-url}
 
-1. Wechseln Sie zum Abschnitt **[!UICONTROL Suchbegriffe]** .
+1. Navigieren Sie zum Abschnitt **[!UICONTROL Keywords]**.
 
    ![](assets/image2014-9-18-10-3a54-3a26.png)
 
-1. Klicken Sie auf **[!UICONTROL Empfehlungen abrufen]**.
+1. Klicken Sie **[!UICONTROL Vorschläge abrufen]**.
 
    ![](assets/image2014-9-18-11-3a4-3a43.png)
 
-1. Setzen Sie **[!UICONTROL Suggest by]** auf **[!UICONTROL URL]**.
+1. Legen Sie **[!UICONTROL Vorschlagen von]** auf **[!UICONTROL URL]** fest.
 
    ![](assets/image2014-9-18-11-3a4-3a52.png)
 
-1. Geben Sie eine **[!UICONTROL URL]** ein und klicken Sie auf **[!UICONTROL Suchbegriffe vorschlagen]**.
+1. Geben Sie eine **[!UICONTROL URL]** ein und klicken Sie auf **[!UICONTROL Keywords vorschlagen]**.
 
    ![](assets/image2014-9-18-11-3a5-3a7.png)
 
    >[!TIP]
    >
-   >Wussten Sie, dass Sie Ihren Suchbegriff [hier in eine neue oder vorhandene Liste einfügen können](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)?
+   >Wussten Sie, [ Sie Ihr Keyword direkt hier zu einer neuen oder ](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) Liste hinzufügen können?
 
-1. Wählen Sie vorgeschlagene Suchbegriffe aus. Klicken Sie auf **[!UICONTROL Ausgewählte hinzufügen]**.
+1. Vorgeschlagene Keywords auswählen. Klicken Sie **[!UICONTROL Ausgewählte hinzufügen]**.
 
    ![](assets/image2014-9-18-11-3a8-3a3.png)
 
-Sehr gut! Ihr Suchbegriff wurde hinzugefügt.
+Sehr gut! Ihr Keyword wurde hinzugefügt.
 
 ![](assets/image2014-9-18-11-3a8-3a25.png)
 
 >[!MORELIKETHIS]
 >
->* [Grundlegendes zu Suchbegriffen (Zusammenfassungsansicht)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
->* [Suchbegriffe aus einer Liste hinzufügen/entfernen](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
+>* [Schlüsselwörter verstehen (Zusammenfassungsansicht)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
+>* [Keywords zu einer Liste hinzufügen/daraus entfernen](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)

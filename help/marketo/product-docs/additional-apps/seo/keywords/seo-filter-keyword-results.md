@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2949208
-description: SEO - Filtern von Suchbegriffergebnissen - Marketo-Dokumente - Produktdokumentation
-title: SEO - Filtern von Suchbegriffsergebnissen
+description: SEO - Filtern von Keyword-Ergebnissen - Marketo-Dokumente - Produktdokumentation
+title: SEO - Keyword-Ergebnisse filtern
 exl-id: 8f237814-09b7-4041-9fe7-bb9a6ce016ca
 feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,13 +11,13 @@ ht-degree: 0%
 
 ---
 
-# SEO - Filtern von Suchbegriffsergebnissen {#seo-filter-keyword-results}
+# SEO - Keyword-Ergebnisse filtern {#seo-filter-keyword-results}
 
-Sie können viele [Schlüsselwörter](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md) haben. Es gibt verschiedene Möglichkeiten, sie zu filtern:
+Sie haben vielleicht viele [Keywords](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md). Im Folgenden finden Sie verschiedene Möglichkeiten, sie zu filtern:
 
 ## Nach Liste filtern {#filter-by-list}
 
-1. Wechseln Sie zum Abschnitt **[!UICONTROL Suchbegriffe]** .
+1. Navigieren Sie zum Abschnitt **[!UICONTROL Keywords]**.
 
    ![](assets/image2014-9-18-11-3a55-3a8.png)
 
@@ -27,27 +27,27 @@ Sie können viele [Schlüsselwörter](/help/marketo/product-docs/additional-apps
 
    >[!NOTE]
    >
-   >Wenn keine Listen angezeigt werden, erfahren Sie [darin, wie Sie eine Suchbegriffliste erstellen](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md).
+   >Wenn keine Listen angezeigt werden, [Erfahren Sie, wie Sie eine Keyword-Liste erstellen](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md).
 
-Süß! Sie werden jetzt nur noch Suchbegriffe auf dieser Liste sehen.
+Süß! Sie sehen nun nur noch die Keywords auf dieser Liste.
 
 ## Nach SERP-Rang filtern {#filter-by-serp-rank}
 
-1. Wechseln Sie zum Abschnitt [!UICONTROL Suchbegriffe] .
+1. Navigieren Sie zum Abschnitt [!UICONTROL Keywords].
 
    ![](assets/image2014-9-18-12-3a0-3a10.png)
 
-   Die orangefarbenen Quadrate definieren die oberen (linken) und unteren (rechten) Grenzen. Der Filter arbeitet mit dem [SERP-Rang](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) des Suchbegriffs.
+   Die orangefarbenen Quadrate definieren den oberen (linken) und unteren (rechten) Grenzwert. Der Filter funktioniert nach dem [SERP-Rang](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) des Keywords.
 
-1. Schieben Sie die orangefarbenen Quadrate nach links/rechts, um die Ergebnisse zu filtern.
+1. Schieben Sie die orangen Quadrate nach links/rechts, um die Ergebnisse zu filtern.
 
    ![](assets/image2014-9-18-12-3a0-3a15.png)
 
 ## Nach Suche filtern {#filter-by-search}
 
-Die gesuchten Suchbegriffe finden Sie auch im Suchfeld oben rechts.
+Die gesuchten Keywords finden Sie auch im Suchfeld oben rechts.
 
-1. Wechseln Sie zum Abschnitt **[!UICONTROL Suchbegriffe]** .
+1. Navigieren Sie zum Abschnitt **[!UICONTROL Keywords]**.
 
    ![](assets/image2014-9-18-12-3a0-3a50.png)
 

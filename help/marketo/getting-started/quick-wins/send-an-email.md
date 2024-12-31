@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2359410
-description: E-Mail senden - Marketo-Dokumente - Produktdokumentation
-title: E-Mail senden
+description: Senden einer E-Mail - Marketo-Dokumente - Produktdokumentation
+title: Senden einer E-Mail
 exl-id: 1f80fc08-3587-41f0-9c51-2feea10dff0d
 feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,21 +11,21 @@ ht-degree: 0%
 
 ---
 
-# E-Mail senden {#send-an-email}
+# Senden einer E-Mail {#send-an-email}
 
-Das ist das Erste, was jeder tun will. Senden wir eine E-Mail aus Marketo!
+Das ist das Erste, was jeder machen will. Senden wir eine E-Mail aus Marketo!
 
 >[!PREREQUISITES]
 >
->[Einrichten und Hinzufügen einer Person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+>[Einrichten und Person hinzufügen](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 
 ## E-Mail-Programm erstellen {#create-an-email-program}
 
-1. Wechseln Sie zum Bereich **[!UICONTROL Marketingaktivitäten]** .
+1. Navigieren Sie zum Bereich **[!UICONTROL Marketing]** Aktivitäten.
 
    ![](assets/send-an-email-1.png)
 
-1. Wählen Sie den Ordner **[!UICONTROL Lernen]** aus. Klicken Sie auf die Dropdownliste **[!UICONTROL Neu]** und wählen Sie **[!UICONTROL Neues Programm]** aus.
+1. Wählen Sie Ihren **[!UICONTROL Lernplan]** Ordner aus. Klicken Sie auf **[!UICONTROL Neu]** und wählen Sie **[!UICONTROL Neues Programm]**.
 
    ![](assets/send-an-email-2.png)
 
@@ -33,45 +33,45 @@ Das ist das Erste, was jeder tun will. Senden wir eine E-Mail aus Marketo!
 
    >[!TIP]
    >
-   >Fügen Sie Ihre Initialen am Ende des Programmnamens hinzu, um sie eindeutig zu machen.
+   >Fügen Sie Ihre Initialen am Ende des Programmnamens hinzu, um ihn eindeutig zu machen.
 
    ![](assets/send-an-email-3.png)
 
-1. Wählen Sie unter **[!UICONTROL Kanal]** die Option **[!UICONTROL E-Mail-Versand]** aus und klicken Sie auf **[!UICONTROL Erstellen]**.
+1. Wählen **[!UICONTROL unter]** Kanal **[!UICONTROL die Option E-Mail senden]** klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/send-an-email-4.png)
 
-## Zielgruppe definieren {#define-your-audience}
+## Definieren der Audience {#define-your-audience}
 
-1. Klicken Sie unter der Kachel [!UICONTROL Zielgruppe] auf **[!UICONTROL Smart-Liste bearbeiten]** .
+1. Klicken Sie **[!UICONTROL der Kachel [!UICONTROL Zielgruppe]** auf Smart-Liste ].
 
    ![](assets/send-an-email-5.png)
 
-1. Suchen und ziehen Sie den Filter [!UICONTROL E-Mail-Adresse] auf die Arbeitsfläche.
+1. Suchen Sie den Filter [!UICONTROL E-Mail-Adresse] und ziehen Sie ihn auf die Arbeitsfläche.
 
    ![](assets/send-an-email-6.png)
 
    >[!TIP]
    >
-   >Verwenden Sie die Funktion **[!UICONTROL Suchen]** , um Filter leichter zu finden.
+   >Verwenden Sie die **[!UICONTROL Suche]**, um Filter leichter zu finden.
 
-1. Wählen Sie Ihre E-Mail-Adresse aus.
+1. Suchen Sie Ihre E-Mail-Adresse und wählen Sie sie aus.
 
    ![](assets/send-an-email-7.png)
 
    >[!NOTE]
    >
-   >Wenn Ihre E-Mail nicht automatisch ausgefüllt wird, haben Sie möglicherweise vergessen, [Einrichten und Lead hinzufügen](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}.
+   >Wenn Ihre E-Mail nicht automatisch ausgefüllt wird, haben Sie möglicherweise vergessen, [Einrichten und einen Lead hinzufügen“](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 
    >[!NOTE]
    >
-   >In diesem Beispiel senden Sie die E-Mail nur selbst, aber Sie können die Audience nach Bedarf anpassen.
+   >In diesem Beispiel senden Sie die E-Mail nur an sich selbst. Sie können die Zielgruppe jedoch nach Belieben anpassen.
 
-1. Gehen Sie zurück zur Hauptprogrammregisterkarte und klicken Sie auf das Aktualisierungssymbol für **[!UICONTROL Person]**.
+1. Gehen Sie zurück zur Registerkarte Hauptprogramm und klicken Sie auf das Aktualisierungssymbol für **[!UICONTROL Person]**.
 
    ![](assets/send-an-email-8.png)
 
-   Sie sollten sehen, dass die Personenanzahl auf 1 steigt. Das bist du!
+   Die Personenanzahl sollte bis zu 1 betragen. Das bist du!
 
 ## E-Mail erstellen {#create-an-email}
 
@@ -79,19 +79,19 @@ Das ist das Erste, was jeder tun will. Senden wir eine E-Mail aus Marketo!
 
    ![](assets/send-an-email-9.png)
 
-1. Geben Sie einen **[!UICONTROL Namen]** ein, wählen Sie eine **Vorlage** aus und klicken Sie auf **[!UICONTROL Erstellen]**.
+1. Geben Sie **[!UICONTROL Name]** ein, wählen Sie **Vorlage** und klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/send-an-email-10.png)
 
-1. Daraufhin wird das Fenster des E-Mail-Editors geöffnet. Geben Sie einen Betreff mit maximal 50 Zeichen ein (empfohlen).
+1. Das Fenster E-Mail-Editor wird geöffnet. Geben Sie einen Betreff mit höchstens 50 Zeichen ein (empfohlen).
 
    ![](assets/send-an-email-11.png)
 
    >[!NOTE]
    >
-   >Wenn Sie einen Popup-Blocker haben, klicken Sie auf **[!UICONTROL Entwurf bearbeiten]** , um den E-Mail-Editor einzugeben.
+   >Wenn Sie über einen Popup-Blocker verfügen, klicken Sie auf **[!UICONTROL Entwurf bearbeiten]**, um den E-Mail-Editor aufzurufen.
 
-1. Wählen Sie den Bereich aus, den Sie bearbeiten möchten, klicken Sie auf das Zahnradsymbol auf der rechten Seite und wählen Sie dann **[!UICONTROL Bearbeiten]** aus (Sie können auch auf den bearbeitbaren Bereich doppelklicken, um ihn zu bearbeiten).
+1. Wählen Sie den zu bearbeitenden Bereich aus, klicken Sie auf das Zahnradsymbol rechts und wählen Sie **[!UICONTROL Bearbeiten]** (Sie können zum Bearbeiten auch auf den bearbeitbaren Abschnitt doppelklicken).
 
    ![](assets/send-an-email-12.png)
 
@@ -99,44 +99,44 @@ Das ist das Erste, was jeder tun will. Senden wir eine E-Mail aus Marketo!
 
    ![](assets/send-an-email-13.png)
 
-1. Klicken Sie auf das Dropdown-Menü **[!UICONTROL E-Mail-Aktionen]** und wählen Sie **[!UICONTROL Genehmigen und schließen]** aus.
+1. Klicken Sie auf die **[!UICONTROL E-Mail]** Aktionen) und wählen Sie **[!UICONTROL Genehmigen und schließen]**.
 
    ![](assets/send-an-email-14.png)
 
    >[!TIP]
    >
-   >Sie möchten sich ein kurzes Beispiel senden, um zu sehen, wie Ihre E-Mail vor dem Start aussieht? Wählen Sie im Menü oben **[!UICONTROL Beispiel senden]** aus oder klicken Sie auf **[!UICONTROL E-Mail-Aktionen]** und dann auf [**[!UICONTROL Beispiel senden]**](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md){target="_blank"}.
+   >Möchten Sie sich vor dem Start ein kurzes Beispiel senden, um zu sehen, wie Ihre E-Mail aussieht? Wählen Sie **[!UICONTROL obigen Menü]** Beispiel senden“ aus oder klicken Sie auf **[!UICONTROL E-Mail-]** und dann [**[!UICONTROL Beispiel senden]**](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md){target="_blank"}.
 
-1. Wählen Sie im linken Baum das E-Mail-Programm aus.
+1. Wählen Sie das E-Mail-Programm in der linken Struktur aus.
 
    ![](assets/send-an-email-15.png)
 
-1. Legen Sie unter der Kachel [!UICONTROL Planung] den Starttag für die E-Mail auf **[!UICONTROL Heute]** fest.
+1. Legen Sie unter [!UICONTROL  Kachel ] den Launch-Tag für die E-Mail auf **[!UICONTROL Heute]** fest.
 
    ![](assets/send-an-email-16.png)
 
    >[!NOTE]
    >
-   >Erfahren Sie mehr über die [Zeitzone des Empfängers](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md){target="_blank"} und den [Head Start](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md){target="_blank"}.
+   >Weitere Informationen zu [Zeitzone des Empfängers](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md){target="_blank"} und [Kopfstart](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md){target="_blank"}.
 
-1. Wählen Sie einen Zeitpunkt aus, der in der Zukunft mindestens 15 Minuten beträgt.
+1. Wählen Sie eine Zeit aus, die mindestens 15 Minuten in der Zukunft liegt.
 
    ![](assets/send-an-email-17.png)
 
    >[!TIP]
    >
-   >Ist die Standardzeitzone nicht Ihre? Erfahren Sie, wie Sie [es hier aktualisieren](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md){target="_blank"}.
+   >Ist die Standardzeitzone nicht Ihre? Hier erfahren Sie, wie [ aktualisiert ](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md){target="_blank"}.
 
-1. Klicken Sie unter der Kachel [!UICONTROL Genehmigung] auf **[!UICONTROL Programm genehmigen]** und Sie sind fertig!
+1. Klicken Sie **** der Kachel [!UICONTROL Genehmigung] auf Programm genehmigen und Sie sind fertig!
 
    ![](assets/send-an-email-18.png)
 
-Sie sollten die E-Mail kurz nach dem geplanten Tag/der geplanten Uhrzeit erhalten.
+Sie sollten die E-Mail kurz nach dem geplanten Tag/zur geplanten Uhrzeit erhalten.
 
-## Auftrag abgeschlossen! {#mission-complete}
+## Mission abgeschlossen! {#mission-complete}
 
 <br> 
 
-[Einrichten und Hinzufügen einer Person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+[◄ Einrichten und Person hinzufügen](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
-[Auftrag 2: Landingpage mit einem Formular ►](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
+[Mission 2: Landingpage mit ►](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)

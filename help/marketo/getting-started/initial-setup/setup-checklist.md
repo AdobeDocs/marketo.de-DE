@@ -15,42 +15,42 @@ ht-degree: 0%
 
 # Checkliste einrichten {#setup-checklist}
 
-Willkommen in Marketo! Sie können die folgende Checkliste als visuelle Aufgabenliste verwenden, um die ersten Schritte einzuleiten. Details finden Sie unter [Schritte zum Einrichten](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}.
+Willkommen in Marketo! Verwenden Sie die folgende Checkliste als visuelle Aufgabenliste, um Ihre ersten Schritte zu unternehmen. Weitere Informationen finden Sie unter [Setup-Schritte](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}.
 
-## Melden Sie sich bei Marketo an und erstellen Sie weitere Benutzer {#log-in-to-marketo-and-create-additional-users}
+## Melden Sie sich bei Marketo an und erstellen Sie zusätzliche Benutzer {#log-in-to-marketo-and-create-additional-users}
 
 1. Bei Marketo anmelden
-1. Zusätzliche Benutzer erstellen
+1. Erstellen zusätzlicher Benutzer
 
 ## Einrichten eines autorisierten Support-Kontakts {#set-up-an-authorized-support-contact}
 
 1. Einrichten eines autorisierten Support-Kontakts
 1. Landingpage-URLs anpassen
 1. Landingpage-CNAME auswählen
-1. Bitten Sie die IT, einen DNS-Eintrag für Ihren CNAME der Einstiegsseite zu erstellen.
-1. Richten Sie nach Abschluss der IT-Arbeit Ihren Landingpage-Domänennamen in Marketo ein.
+1. Bitten Sie die IT, einen DNS-Eintrag für Ihren Landingpage-CNAME zu erstellen.
+1. Richten Sie anschließend Ihren Landingpage-Domain-Namen in Marketo ein
 
-## E-Mail-Zustellbarkeit sicherstellen {#ensure-email-deliverability}
+## Sicherstellen der E-Mail-Zustellbarkeit {#ensure-email-deliverability}
 
-1. E-Mail-CNAME für Marken-Tracking-Links auswählen
+1. E-Mail-CNAME für markenspezifische Tracking-Links auswählen
 1. Bitten Sie die IT, einen DNS-Eintrag für Ihren E-Mail-CNAME einzurichten.
-1. Fragen Sie die IT nach der Marketo-Zulassungsliste.
+1. Auf die Zulassungsliste setzen IT-Abteilung um Marketos bitten
 1. Einrichten von DKIM und SPF im Bereich [!UICONTROL Admin]
 1. Einrichten von MX für `[FromDomain1]`
-1. Wenn dies mit dem E-Mail-CNAME abgeschlossen ist, richten Sie Ihren E-Mail-CNAME in Marketo ein.
+1. Wenn IT mit dem E-Mail-CNAME fertig ist, richten Sie Ihren E-Mail-CNAME in Marketo ein
 
-## Senden einer URL für Landingpage- und E-Mail-Vorlagen {#submit-a-url-for-landing-page-and-email-templates}
+## Senden einer URL für Landingpage und E-Mail-Vorlagen {#submit-a-url-for-landing-page-and-email-templates}
 
-1. Füllen Sie das Formular aus, um eine URL für neue Vorlagen zu senden
+1. Formular ausfüllen, um eine URL für neue Vorlagen zu senden
 
 ## CRM-Synch {#crm-sync}
 
-1. Synchronisieren aller CRM-Kontakte mit Marketo mit Ihrem CRM-Administrator
+1. Wenden Sie sich an Ihren CRM-Administrator, um alle CRM-Kontakte mit Marketo zu synchronisieren
 
 ## Hinzufügen von Trackingcode zu Ihrer Website {#add-tracking-code-to-your-website}
 
-1. Arbeiten Sie mit einem Webentwickler zusammen, um Ihrer Website Trackingcode hinzuzufügen.
+1. Arbeiten Sie mit einem Web-Entwickler zusammen, um Tracking-Code zu Ihrer Website hinzuzufügen.
 
 >[!MORELIKETHIS]
 >
->[Schritte zur Einrichtung](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}
+>[Einrichtungsschritte](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}

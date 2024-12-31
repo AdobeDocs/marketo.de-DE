@@ -1,7 +1,7 @@
 ---
 unique-page-id: 10098433
-description: Erstellen einer Zulassungsliste für IP-basierten API-Zugriff - Marketo Docs - Produktdokumentation
-title: Erstellen einer Zulassungsliste für IP-basierten API-Zugriff
+description: Erstellen einer Zulassungsliste für den IP-basierten API-Zugriff - Marketo-Dokumente - Produktdokumentation
+title: Erstellen einer Zulassungsliste für den IP-basierten API-Zugriff
 exl-id: 1a2f2216-07ee-4d37-b883-458ea39fc452
 feature: Administration
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,27 +11,27 @@ ht-degree: 1%
 
 ---
 
-# Erstellen einer Zulassungsliste für IP-basierten API-Zugriff {#create-an-allowlist-for-ip-based-api-access}
+# Erstellen einer Zulassungsliste für den IP-basierten API-Zugriff {#create-an-allowlist-for-ip-based-api-access}
 
-Manchmal möchten Sie API-Zugriff nur auf eine bestimmte IP-Adresse oder eine Reihe von Adressen gewähren. Dazu aktivieren Sie zunächst die Einschränkungen und geben dann die IP-Adressen an, die die APIs verwenden dürfen.
+Manchmal soll der API-Zugriff nur auf eine bestimmte IP-Adresse oder einen Adressenbereich gewährt werden. Dazu aktivieren Sie zunächst die Einschränkungen und geben dann die IP-Adressen an, die die APIs verwenden dürfen.
 
 >[!NOTE]
 >
->**Erforderliche Administratorberechtigungen**
+>**Administratorberechtigungen erforderlich**
 
-1. Wechseln Sie zum Bereich **[!UICONTROL Admin]** .
+1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-1.png)
 
-1. Klicken Sie auf **[!UICONTROL Webdienste]**.
+1. Klicken Sie auf **[!UICONTROL Web-Services]**.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-2.png)
 
-1. Klicken Sie im Bereich **[!UICONTROL IP-Einschränkungen]** auf **[!UICONTROL Bearbeiten],** oder klicken Sie oben links auf **[!UICONTROL IP-Einschränkungen bearbeiten]** .
+1. Klicken Sie **[!UICONTROL Bereich „IP]** Einschränkungen“ auf **[!UICONTROL Bearbeiten] oder** oder klicken Sie **[!UICONTROL IP-Einschränkungen bearbeiten]** oben links.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-3.png)
 
-1. Aktivieren Sie das Feld **[!UICONTROL IP-Einschränkungen aktivieren]** und geben Sie die IP-Adressen ein, die Sie in das Zulassungsliste aufnehmen möchten.
+1. Auf die Zulassungsliste setzen Markieren Sie das **[!UICONTROL IP-Beschränkungen aktivieren]** und geben Sie die IP-Adressen ein, die Sie ändern möchten.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-4.png)
 
@@ -39,7 +39,7 @@ Manchmal möchten Sie API-Zugriff nur auf eine bestimmte IP-Adresse oder eine Re
    >
    >Sie können eine einzelne IP-Adresse oder einen Bereich davon eingeben oder einen Platzhalter verwenden.
 
-1. Klicken Sie auf **[!UICONTROL Hinzufügen]** , um weitere Felder zur Eingabe weiterer IP-Adressen zu öffnen.
+1. Klicken Sie auf **[!UICONTROL Hinzufügen]**, um zusätzliche Felder zu öffnen und weitere IP-Adressen einzugeben.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-5.png)
 

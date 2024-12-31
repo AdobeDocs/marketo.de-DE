@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11379928
-description: Details im Audit-Protokoll ändern - Marketo-Dokumente - Produktdokumentation
+description: Änderungsdetails im Audit-Protokoll - Marketo-Dokumente - Produktdokumentation
 title: Details im Audit-Protokoll ändern
 exl-id: 5583be62-46a6-42f9-b4b3-0df63a171b2d
 feature: Audit Trail
@@ -13,7 +13,7 @@ ht-degree: 14%
 
 # Details im Audit-Protokoll ändern {#change-details-in-audit-trail}
 
-Audit Trail bietet einen umfassenden Einblick in die Aktivitäten Ihres Marketo-Abonnements. Hier sind die Details.
+Das Audit-Protokoll bietet zahlreiche Einblicke in die Aktivitäten in Ihrem Marketo-Abonnement. Im Folgenden finden Sie die Details.
 
 ## Audit-Trail-Asset {#asset-audit-trail}
 
@@ -32,15 +32,15 @@ Audit Trail bietet einen umfassenden Einblick in die Aktivitäten Ihres Marketo-
   <tr> 
    <td rowspan="15"><strong>Standardprogramm</strong><br><br><br><br><br><br><br><br><br><br><br></td> 
    <td>Erstellen</td> 
-   <td>Kanaltyp "channel type"<br>oder <br>Cloned from "program name"</td> 
+   <td>Kanaltyp „Kanaltyp“ (<br>. <br>. „Programmname„)</td> 
   </tr> 
   <tr> 
    <td>Umbenennen</td> 
-   <td>Neuer Name "new name", vorheriger Name "previous name"</td> 
+   <td>Neuer Name „neuer Name“, vorheriger Name „vorheriger Name“</td> 
   </tr> 
   <tr> 
    <td>Klonen</td> 
-   <td>In Arbeitsbereich "Workspace name" <br>Standort "Campaign folder"oder "Engagement program"<br>geklonter Programmname "new name"</td> 
+   <td>In Arbeitsbereich geklonter „Arbeitsbereichsname“ <br>Speicherort „Kampagnenordner“ oder „Interaktionsprogramm“ <br>Klonierter Programmname „neuer Name“</td> 
   </tr> 
   <tr> 
    <td>Löschen</td> 
@@ -48,43 +48,43 @@ Audit Trail bietet einen umfassenden Einblick in die Aktivitäten Ihres Marketo-
   </tr> 
   <tr> 
    <td>Kanal bearbeiten</td> 
-   <td>Neuer Kanal "Name des neuen Kanals"Alter Kanal "Name des alten Kanals" </td> 
+   <td>Neuer Kanal „neuer Kanalname“ Alter Kanal „alter Kanalname“ </td> 
   </tr> 
   <tr> 
    <td>Programm-Token ändern</td> 
-   <td>Token "token name"-Wert "token value" hinzufügen</td> 
+   <td>Token „Token-Name“ Wert „Token-Wert“ hinzufügen</td> 
   </tr> 
   <tr> 
    <td>Programm-Token ändern</td> 
-   <td>Token "Token name"bearbeiten neuer Wert "new value" alter Wert "old value"</td> 
+   <td>Token „Token-Name“ bearbeiten Neuer Wert „Neuer Wert“ Alter Wert „Alter Wert“</td> 
   </tr> 
   <tr> 
    <td>Programm-Token ändern</td> 
-   <td>Token "Tokenname"löschen</td> 
+   <td>Token „Token-Name“ löschen</td> 
   </tr> 
   <tr> 
    <td>Programmeinrichtung ändern</td> 
-   <td>Analytics-Verhalten "Verhaltensname"hinzufügen</td> 
+   <td>Analytics-Verhalten „Verhaltensname“ hinzufügen</td> 
   </tr> 
   <tr> 
    <td>Programmeinrichtung ändern</td> 
-   <td><p>Bearbeiten des Analyseverhaltens "Verhaltensname"</p><p>Alter Verhalten "Name des Verhaltens"</p></td> 
+   <td><p>Analytics-Verhalten „Verhaltensname“ bearbeiten</p><p>Alter Name des Verhaltens</p></td> 
   </tr> 
   <tr> 
    <td>Programmeinrichtung ändern</td> 
-   <td>Löschen des Analyseverhaltens "Name des Verhaltens"</td> 
+   <td>Analytics-Verhalten „Verhaltensname“ löschen</td> 
   </tr> 
   <tr> 
    <td colspan="1">Programmeinrichtung ändern</td> 
-   <td colspan="1">Zeitraumkostenwert "#" Programmmonat "jjj-mm" hinzufügen</td> 
+   <td colspan="1">Periodenkostenwert "#" Programmmonat „jjjj-mm“ hinzufügen</td> 
   </tr> 
   <tr> 
    <td colspan="1">Programmeinrichtung ändern</td> 
-   <td colspan="1">Bearbeitungszeitraum Kosten Neuer Kostenwert "#", Neuer Programmmonat "jjjj-mm", Alter Kostenwert "#", Alter Programmmonat "jjjj-mm"</td> 
+   <td colspan="1">Bearbeitungszeitraum Kosten Neuer Kostenwert "#", Neuer Programmmonat „jjjj-mm“, Alter Kostenwert "#", Alter Programmmonat „jjjj-mm“</td> 
   </tr> 
   <tr> 
    <td colspan="1">Programmeinrichtung ändern</td> 
-   <td colspan="1">Kostenzeitraum löschen. Wert "#" Programmmonat "jjj-mm"</td> 
+   <td colspan="1">Kostenzeitraum löschen. Wert "#" Programm Monat „jjjj-mm“</td> 
   </tr> 
   <tr> 
    <td>Exportieren</td> 
@@ -93,27 +93,27 @@ Audit Trail bietet einen umfassenden Einblick in die Aktivitäten Ihres Marketo-
   <tr> 
    <td rowspan="19"><strong>E-Mail</strong><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td> 
    <td>Erstellen</td> 
-   <td>Erstellt mit Vorlage "Vorlagenname" <br>oder <br>Aus "Asset-Name"geklont</td> 
+   <td>Erstellt mit der Vorlage „Vorlagenname“ <br>oder <br>geklont aus „Asset-Name“</td> 
   </tr> 
   <tr> 
    <td>Bearbeiten</td> 
-   <td>Aktualisierung von "Von Name"auf "neu von Name"</td> 
+   <td>„Absendername“ wurde in „neuer Absendername“ aktualisiert</td> 
   </tr> 
   <tr> 
    <td>Bearbeiten</td> 
-   <td>Aktualisierung von "Von E-Mail"auf "newemail@name.com"</td> 
+   <td>„Von E-Mail“ wurde auf "newemail@name.com" aktualisiert</td> 
   </tr> 
   <tr> 
    <td>Bearbeiten</td> 
-   <td>"Antwort an"wurde auf "newreplytoemail@name.com"aktualisiert.</td> 
+   <td>„Antwort an“ wurde in "newreplytoemail@name.com" aktualisiert</td> 
   </tr> 
   <tr> 
    <td>Bearbeiten</td> 
-   <td>"Betreff"wurde zu "neue Betreffzeile"aktualisiert.</td> 
+   <td>„Betreff“ wurde in „neue Betreffzeile“ aktualisiert</td> 
   </tr> 
   <tr> 
    <td>Bearbeiten</td> 
-   <td>Segmentierung "segmentation_name"hinzugefügt</td> 
+   <td>Segmentierung hinzugefügt „segmentation_name“</td> 
   </tr> 
   <tr> 
    <td>Bearbeiten</td> 
@@ -121,7 +121,7 @@ Audit Trail bietet einen umfassenden Einblick in die Aktivitäten Ihres Marketo-
   </tr> 
   <tr> 
    <td>Bearbeiten</td> 
-   <td>Snippet "snippet_name"hinzugefügt</td> 
+   <td>Snippet „snippet_name“ hinzugefügt</td> 
   </tr> 
   <tr> 
    <td>Bearbeiten</td> 
@@ -129,15 +129,15 @@ Audit Trail bietet einen umfassenden Einblick in die Aktivitäten Ihres Marketo-
   </tr> 
   <tr> 
    <td>Bearbeiten</td> 
-   <td>Bearbeitungen fehlerhafter E-Mails aus der Vorlage "template_name"(HINWEIS: Dies geschieht heute, wenn Sie den Code direkt bearbeiten)</td> 
+   <td>Bearbeitungen von fehlerhaften E-Mails aus der Vorlage „template_name“ (HINWEIS: Dies geschieht heute, wenn Sie den Code direkt bearbeiten)</td> 
   </tr> 
   <tr> 
    <td>Bearbeiten</td> 
-   <td>Neue Beschreibung "new description"Alte Beschreibung "old description"</td> 
+   <td>Neue Beschreibung „neue Beschreibung“ Alte Beschreibung „alte Beschreibung“</td> 
   </tr> 
   <tr> 
    <td>Bearbeiten</td> 
-   <td>Modul bearbeiten <module name><attribute> auf "value"</td> 
+   <td>Modul bearbeiten <module name><attribute> in „Wert“</td> 
   </tr> 
   <tr> 
    <td>Löschen</td> 
@@ -145,39 +145,39 @@ Audit Trail bietet einen umfassenden Einblick in die Aktivitäten Ihres Marketo-
   </tr> 
   <tr> 
    <td>Umbenennen</td> 
-   <td>Neuer Name "new name", vorheriger Name "previous name"</td> 
+   <td>Neuer Name „neuer Name“, vorheriger Name „vorheriger Name“</td> 
   </tr> 
   <tr> 
    <td>Klonen</td> 
-   <td>"Design Studio"in Ordner "folderName" <br>geklonter Asset-Name "name"<br>oder <br>In "Marketing Activities"in Programm "Programmname"<br>geklonter Asset-Name "name" geklont</td> 
+   <td>In „Design Studio“ in Ordner „Ordnername“ geklont <br>Name des geklonten Assets „Name“<br>oder<br>geklont in „Marketing-Aktivitäten“ in Programm „Programmname“<br>Name des geklonten Assets“</td> 
   </tr> 
   <tr> 
    <td>Verschieben</td> 
-   <td>In "Design Studio"in den Ordner "Ordnername"<br>oder<br>In "Marketing-Aktivitäten"in "Programmname"verschoben</td> 
+   <td>In „Design-Studio“ in Ordner „Ordnername“ <br>oder <br> „Marketing-Aktivitäten“ in Programm „Programmname“ verschoben</td> 
   </tr> 
   <tr> 
    <td>Genehmigen</td> 
    <td>Nicht zutreffend</td> 
   </tr> 
   <tr> 
-   <td>Nicht genehmigen</td> 
+   <td>Genehmigung aufheben</td> 
    <td>Nicht zutreffend</td> 
   </tr> 
   <tr> 
    <td>Entwurf</td> 
-   <td>E-Mail wurde entworfen, weil das Ausschnitt "Snippet Name"genehmigt wurde<br>oder<br>E-Mail entworfen wurde, weil die Vorlage "Vorlagenname"genehmigt wurde</td> 
+   <td>E-Mail wurde entworfen, weil der Ausschnitt „Snippet name“ genehmigt wurde<br> oder <br>E-Mail entworfen wurde, weil die Vorlage „template name“ genehmigt wurde</td> 
   </tr> 
    <td rowspan="17">E-Mail-Programm</td> 
    <td>Erstellen</td> 
-   <td>Kanaltyp "channel type"<br>oder <br>Cloned from "program name"</td> 
+   <td>Kanaltyp „Kanaltyp“ (<br>. <br>. „Programmname„)</td> 
   </tr> 
   <tr> 
    <td colspan="1">Umbenennen</td> 
-   <td colspan="1">Neuer Name "new name", vorheriger Name "previous name"</td> 
+   <td colspan="1">Neuer Name „neuer Name“, vorheriger Name „vorheriger Name“</td> 
   </tr> 
   <tr> 
    <td>Klonen</td> 
-   <td>Unter Arbeitsbereich "Arbeitsbereichsname" <br>Speicherort "Kampagnenordner oder Interaktionsprogramm" <br>geklonter Programmname "neuer Name"</td> 
+   <td>In Arbeitsbereich geklonter „Arbeitsbereichsname“ <br>Speicherort „Kampagnenordner oder Interaktionsprogramm“ <br>Klonierter Programmname „neuer Name“</td> 
   </tr> 
   <tr> 
    <td>Löschen</td> 
@@ -189,60 +189,60 @@ Audit Trail bietet einen umfassenden Einblick in die Aktivitäten Ihres Marketo-
   </tr> 
   <tr> 
    <td>Kanal bearbeiten</td> 
-   <td>Neuer Kanal "neuer Kanal"Alter Kanal "alter Kanal"</td> 
+   <td>Neuer Kanal „neuer Kanal“ Alter Kanal „alter Kanal“</td> 
   </tr> 
   <tr> 
    <td>Programm-Token ändern</td> 
-   <td>Token "token name"-Wert "token value" hinzufügen</td> 
+   <td>Token „Token-Name“ Wert „Token-Wert“ hinzufügen</td> 
   </tr> 
   <tr> 
    <td>Programm-Token ändern</td> 
-   <td>Token "Token name"bearbeiten Neuer Wert "new value" Alter Wert "old value"</td> 
+   <td>Token „Token-Name“ bearbeiten Neuer Wert „neuer Wert“ alter Wert „alter Wert“</td> 
   </tr> 
   <tr> 
    <td>Programm-Token ändern</td> 
-   <td>Token "Tokenname"löschen</td> 
+   <td>Token „Token-Name“ löschen</td> 
   </tr> 
   <tr> 
-   <td>Programmplanung ändern</td> 
-   <td>Legen Sie den Zeitplan so fest, dass er am "Startdatum, Startzeit"beginnt und am "Enddatum, Endzeit"endet.</td> 
+   <td>Programmzeitplan ändern</td> 
+   <td>Zeitplan so festlegen, dass er am „Startdatum, Startzeit“ beginnt und am „Enddatum, Endzeit“ endet</td> 
   </tr> 
   <tr> 
-   <td>Programmplanung ändern</td> 
-   <td>Der Zeitplan wurde zu "neues Datum, neue Uhrzeit"geändert.</td> 
-  </tr> 
-  <tr> 
-   <td>Programmeinrichtung ändern</td> 
-   <td>Analytics-Verhalten "Verhaltensname"hinzufügen</td> 
+   <td>Programmzeitplan ändern</td> 
+   <td>Zeitplan in „Neues Datum, neue Uhrzeit“ geändert</td> 
   </tr> 
   <tr> 
    <td>Programmeinrichtung ändern</td> 
-   <td>Bearbeiten des Analyseverhaltens "Verhaltensname"<br>Alter Verhaltensname "Verhaltensname"</td> 
+   <td>Analytics-Verhalten „Verhaltensname“ hinzufügen</td> 
   </tr> 
   <tr> 
    <td>Programmeinrichtung ändern</td> 
-   <td>Löschen des Analyseverhaltens "Name des Verhaltens"</td> 
+   <td>Analytics-Verhalten bearbeiten „Name des Verhaltens“<br>Alter Verhaltensname“</td> 
+  </tr> 
+  <tr> 
+   <td>Programmeinrichtung ändern</td> 
+   <td>Analytics-Verhalten „Verhaltensname“ löschen</td> 
   </tr> 
   <tr> 
    <td colspan="1">Programmeinrichtung ändern</td> 
-   <td colspan="1">Zeitraumkostenwert "#" Programmmonat "jjj-mm" hinzufügen</td> 
+   <td colspan="1">Periodenkostenwert "#" Programmmonat „jjjj-mm“ hinzufügen</td> 
   </tr> 
   <tr> 
    <td colspan="1">Programmeinrichtung ändern</td> 
-   <td colspan="1">Bearbeitungszeitraum Kosten Neuer Kostenwert "#", Neuer Programmmonat "jjjj-mm", Alter Kostenwert "#", Alter Programmmonat "jjjj-mm"</td> 
+   <td colspan="1">Bearbeitungszeitraum Kosten Neuer Kostenwert "#", Neuer Programmmonat „jjjj-mm“, Alter Kostenwert "#", Alter Programmmonat „jjjj-mm“</td> 
   </tr> 
   <tr> 
    <td colspan="1">Programmeinrichtung ändern</td> 
-   <td colspan="1">Kostenzeitraum löschen. Wert "#" Programmmonat "jjj-mm"</td> 
+   <td colspan="1">Kostenzeitraum löschen. Wert "#" Programm Monat „jjjj-mm“</td> 
   </tr> 
   <tr> 
    <td rowspan="8">E-Mail-Vorlage</td> 
    <td>Erstellen</td> 
-   <td>Leer oder geklont aus "Vorlagenname"</td> 
+   <td>Leer oder geklont aus „Vorlagenname“</td> 
   </tr> 
   <tr> 
    <td>Bearbeiten</td> 
-   <td>Neue Beschreibung "new description", vorherige Beschreibung "previous description"</td> 
+   <td>Neue Beschreibung „neue Beschreibung“, vorherige Beschreibung „vorherige Beschreibung“</td> 
   </tr> 
   <tr> 
    <td>Bearbeiten</td> 
@@ -254,32 +254,32 @@ Audit Trail bietet einen umfassenden Einblick in die Aktivitäten Ihres Marketo-
   </tr> 
   <tr> 
    <td>Umbenennen</td> 
-   <td>Neuer Name "new name", vorheriger Name "previous name"</td> 
+   <td>Neuer Name „neuer Name“, vorheriger Name „vorheriger Name“</td> 
   </tr> 
   <tr> 
    <td>Klonen</td> 
-   <td>In "Ordnername"<br> Klonter Asset-Name "Name"</td> 
+   <td>In „Ordnername“ geklont <br> Name des geklonten Assets „Name“</td> 
   </tr> 
   <tr> 
    <td>Genehmigen</td> 
    <td>Nicht zutreffend</td> 
   </tr> 
   <tr> 
-   <td>Nicht genehmigen</td> 
+   <td>Genehmigung aufheben</td> 
    <td>Nicht zutreffend</td> 
   </tr> 
   <tr> 
    <td rowspan="23">Engagementprogramm</td> 
    <td>Erstellen</td> 
-   <td>Kanaltyp "Kanaltyp"<br> oder <br> Von "Programmname"kloniert</td> 
+   <td>Kanaltyp „Kanaltyp“ oder <br><br> geklont aus „Programmname“</td> 
   </tr> 
   <tr> 
    <td>Umbenennen</td> 
-   <td>Neuer Name "new name", vorheriger Name "previous name"</td> 
+   <td>Neuer Name „neuer Name“, vorheriger Name „vorheriger Name“</td> 
   </tr> 
   <tr> 
    <td>Klonen</td> 
-   <td>Unter Arbeitsbereich "Arbeitsbereichsname" <br>Speicherort "Kampagnenordner oder Interaktionsprogramm" <br>geklonter Programmname "neuer Name"</td> 
+   <td>In Arbeitsbereich geklonter „Arbeitsbereichsname“ <br>Speicherort „Kampagnenordner oder Interaktionsprogramm“ <br>Klonierter Programmname „neuer Name“</td> 
   </tr> 
   <tr> 
    <td>Löschen</td> 
@@ -287,75 +287,75 @@ Audit Trail bietet einen umfassenden Einblick in die Aktivitäten Ihres Marketo-
   </tr> 
   <tr> 
    <td>Kanal bearbeiten</td> 
-   <td>Neuer Kanal "neuer Kanal"Alter Kanal "alter Kanal"</td> 
+   <td>Neuer Kanal „neuer Kanal“ Alter Kanal „alter Kanal“</td> 
   </tr> 
   <tr> 
-   <td>Ändern des Programmstreams</td> 
-   <td><p>Stream hinzufügen</p><p>Name "name" Platzierung "#"</p></td> 
+   <td>Programmdatenstrom ändern</td> 
+   <td><p>Stream hinzufügen</p><p>Name „name“ Platzierung "#"</p></td> 
   </tr> 
   <tr> 
-   <td>Ändern des Programmstreams</td> 
-   <td><p>Stream bearbeiten</p><p>Neuer Stream-Name: "new name" Alter Stream-Name: "old name"</p><p>Neue Platzierung: "new #" Alte Platzierung: "old #"</p></td> 
+   <td>Programmdatenstrom ändern</td> 
+   <td><p>Stream bearbeiten</p><p>Neuer Stream-Name: „neuer Name“ Alter Stream-Name: „alter Name“</p><p>Neue Platzierung: „new #" Alte Platzierung: „old #"</p></td> 
   </tr> 
   <tr> 
-   <td>Ändern des Programmstreams</td> 
-   <td>Löschen des Stream-Namens "name"</td> 
+   <td>Programmdatenstrom ändern</td> 
+   <td>Stream-Namen „name“ löschen</td> 
   </tr> 
   <tr> 
-   <td>Ändern des Programmstreams</td> 
-   <td>Fügen Sie Inhalt hinzu<br>Name des Streams "Name des Streams"<br>Typ "E-Mail" oder "Programm"<br>Name "E-Mail-Name"oder "Programmname"<br>Smart-Kampagne "Name der intelligenten Kampagne"</td> 
+   <td>Programmdatenstrom ändern</td> 
+   <td>Inhalt hinzufügen<br>Stream-Name „Stream-Name<br>Typ „E-Mail“ oder „Programm<br>Name „E-Mail-Name“ oder „Programmname“<br>Smart-Kampagne „Smart-Kampagnenname“</td> 
   </tr> 
   <tr> 
-   <td>Ändern des Programmstreams</td> 
-   <td>Inhalt aktivieren<br>Streamname "Stream-Name"<br>Inhaltsname "E-Mail-Name"oder "Programmname"</td> 
+   <td>Programmdatenstrom ändern</td> 
+   <td>Namen <br> Inhalts-Streams „Name des Streams“<br>Inhaltsname „E-Mail-Name“ oder „Programmname“ aktivieren</td> 
   </tr> 
   <tr> 
-   <td>Ändern des Programmstreams</td> 
-   <td>Deaktivieren von Inhalt<br>Streamname "Stream name"<br>Inhaltsname "E-Mail-Name"oder "Programmname"</td> 
+   <td>Programmdatenstrom ändern</td> 
+   <td>Deaktivierung <br> Inhalts-Stream-Namens „Stream-Name<br>Inhaltsname „E-Mail-Name“ oder „Programmname“</td> 
   </tr> 
   <tr> 
-   <td>Ändern des Programmstreams</td> 
-   <td>Entfernen Sie den Inhalt<br>Streamname "Stream name"<br>Inhaltsname "E-Mail-Name"oder "Programmname"</td> 
-  </tr> 
-  <tr> 
-   <td>Programm-Token ändern</td> 
-   <td>Token "token name"-Wert "token value" hinzufügen</td> 
+   <td>Programmdatenstrom ändern</td> 
+   <td>Remove content<br>stream name „stream name“<br>content name „email name“ or „program name“</td> 
   </tr> 
   <tr> 
    <td>Programm-Token ändern</td> 
-   <td>Token "Token name"bearbeiten Neuer Wert "new value" Alter Wert "old value"</td> 
+   <td>Token „Token-Name“ Wert „Token-Wert“ hinzufügen</td> 
   </tr> 
   <tr> 
    <td>Programm-Token ändern</td> 
-   <td>Token "Tokenname"löschen</td> 
+   <td>Token „Token-Name“ bearbeiten Neuer Wert „neuer Wert“ alter Wert „alter Wert“</td> 
+  </tr> 
+  <tr> 
+   <td>Programm-Token ändern</td> 
+   <td>Token „Token-Name“ löschen</td> 
   </tr> 
   <tr> 
    <td>Programmeinrichtung ändern</td> 
-   <td>Analytics-Verhalten "Verhaltensname"hinzufügen</td> 
+   <td>Analytics-Verhalten „Verhaltensname“ hinzufügen</td> 
   </tr> 
   <tr> 
    <td>Programmeinrichtung ändern</td> 
-   <td>Bearbeiten des Analyseverhaltens "Verhaltensname"<br>Alter Verhaltensname "Verhaltensname"</td> 
+   <td>Analytics-Verhalten bearbeiten „Name des Verhaltens“<br>Alter Verhaltensname“</td> 
   </tr> 
   <tr> 
    <td>Programmeinrichtung ändern</td> 
-   <td>Löschen des Analyseverhaltens "Name des Verhaltens"</td> 
+   <td>Analytics-Verhalten „Verhaltensname“ löschen</td> 
   </tr> 
   <tr> 
    <td>Programmeinrichtung ändern</td> 
-   <td>Programmstatus ändern. Neuer Wert "ein/aus" Alter Wert "aus/ein"</td> 
+   <td>Programmstatus ändern. Neuer Wert „on/off“ Alter Wert „off/on“</td> 
   </tr> 
   <tr> 
    <td colspan="1">Programmeinrichtung ändern</td> 
-   <td colspan="1">Zeitraumkostenwert "#" Programmmonat "jjj-mm" hinzufügen</td> 
+   <td colspan="1">Periodenkostenwert "#" Programmmonat „jjjj-mm“ hinzufügen</td> 
   </tr> 
   <tr> 
    <td colspan="1">Programmeinrichtung ändern</td> 
-   <td colspan="1">Bearbeitungszeitraum Kosten Neuer Kostenwert "#", Neuer Programmmonat "jjjj-mm", Alter Kostenwert "#", Alter Programmmonat "jjjj-mm"</td> 
+   <td colspan="1">Bearbeitungszeitraum Kosten Neuer Kostenwert "#", Neuer Programmmonat „jjjj-mm“, Alter Kostenwert "#", Alter Programmmonat „jjjj-mm“</td> 
   </tr> 
   <tr> 
    <td colspan="1">Programmeinrichtung ändern</td> 
-   <td colspan="1">Kostenzeitraum löschen. Wert "#" Programmmonat "jjj-mm"</td> 
+   <td colspan="1">Kostenzeitraum löschen. Wert "#" Programm Monat „jjjj-mm“</td> 
   </tr> 
   <tr> 
    <td>Exportieren</td> 
@@ -364,11 +364,11 @@ Audit Trail bietet einen umfassenden Einblick in die Aktivitäten Ihres Marketo-
   <tr> 
    <td rowspan="18">Veranstaltungsprogramm</td> 
    <td>Erstellen</td> 
-   <td>Kanaltyp "channel type"<br>oder <br>Cloned from "program name"</td> 
+   <td>Kanaltyp „Kanaltyp“ (<br>. <br>. „Programmname„)</td> 
   </tr> 
   <tr> 
    <td>Umbenennen</td> 
-   <td>Neuer Name "new name", vorheriger Name "previous name"</td> 
+   <td>Neuer Name „neuer Name“, vorheriger Name „vorheriger Name“</td> 
   </tr> 
   <tr> 
    <td>Löschen</td> 
@@ -376,59 +376,59 @@ Audit Trail bietet einen umfassenden Einblick in die Aktivitäten Ihres Marketo-
   </tr> 
   <tr> 
    <td>Klonen</td> 
-   <td>Klont in Arbeitsbereich "Arbeitsbereichname" <br>Standort "Kampagnenordner"oder "Interaktionsprogramm" <br>Kloner Programmname "neuer Name"</td> 
+   <td>In Arbeitsbereich geklonter „Arbeitsbereichsname“ <br>Speicherort „Kampagnenordner“ oder „Interaktionsprogramm“ <br>Klonierter Programmname „neuer Name“</td> 
   </tr> 
   <tr> 
    <td>Kanal bearbeiten</td> 
-   <td>Neuer Kanal "neuer Kanal"Alter Kanal "alter Kanal" </td> 
+   <td>Neuer Kanal „neuer Kanal“ Alter Kanal „alter Kanal“ </td> 
   </tr> 
   <tr> 
    <td>Programm-Token ändern</td> 
-   <td>Token "token name"-Wert "token value" hinzufügen</td> 
+   <td>Token „Token-Name“ Wert „Token-Wert“ hinzufügen</td> 
   </tr> 
   <tr> 
    <td>Programm-Token ändern</td> 
-   <td>Token "Token name"bearbeiten Neuer Wert "new value" Alter Wert "old value"</td> 
+   <td>Token „Token-Name“ bearbeiten Neuer Wert „neuer Wert“ alter Wert „alter Wert“</td> 
   </tr> 
   <tr> 
    <td>Programm-Token ändern</td> 
-   <td>Token "Tokenname"löschen</td> 
+   <td>Token „Token-Name“ löschen</td> 
   </tr> 
   <tr> 
-   <td>Programmplanung ändern</td> 
-   <td>Legen Sie den Zeitplan so fest, dass er am "Startdatum, Startzeit"beginnt und am "Enddatum, Endzeit"endet.</td> 
+   <td>Programmzeitplan ändern</td> 
+   <td>Zeitplan so festlegen, dass er am „Startdatum, Startzeit“ beginnt und am „Enddatum, Endzeit“ endet</td> 
   </tr> 
   <tr> 
-   <td>Programmplanung ändern</td> 
-   <td>Der Zeitplan wurde zu "neues Datum, neue Uhrzeit"geändert.</td> 
-  </tr> 
-  <tr> 
-   <td>Programmeinrichtung ändern</td> 
-   <td>Analytics-Verhalten "Verhaltensname"hinzufügen</td> 
+   <td>Programmzeitplan ändern</td> 
+   <td>Zeitplan in „Neues Datum, neue Uhrzeit“ geändert</td> 
   </tr> 
   <tr> 
    <td>Programmeinrichtung ändern</td> 
-   <td>Bearbeiten des Analyseverhaltens "Verhaltensname"<br>Alter Verhaltensname "Verhaltensname"</td> 
+   <td>Analytics-Verhalten „Verhaltensname“ hinzufügen</td> 
   </tr> 
   <tr> 
    <td>Programmeinrichtung ändern</td> 
-   <td>Löschen des Analytics-Verhaltens "Name des Verhaltens"</td> 
+   <td>Analytics-Verhalten bearbeiten „Name des Verhaltens“<br>Alter Verhaltensname“</td> 
+  </tr> 
+  <tr> 
+   <td>Programmeinrichtung ändern</td> 
+   <td>Analytics-Verhalten „Verhaltensname“ löschen</td> 
   </tr> 
   <tr> 
    <td colspan="1">Programmeinrichtung ändern</td> 
-   <td colspan="1">Zeitraumkostenwert "#" Programmmonat "jjj-mm" hinzufügen</td> 
+   <td colspan="1">Periodenkostenwert "#" Programmmonat „jjjj-mm“ hinzufügen</td> 
   </tr> 
   <tr> 
    <td colspan="1">Programmeinrichtung ändern</td> 
-   <td colspan="1">Bearbeitungszeitraum Kosten Neuer Kostenwert "#", Neuer Programmmonat "jjjj-mm", Alter Kostenwert "#", Alter Programmmonat "jjjj-mm"</td> 
+   <td colspan="1">Bearbeitungszeitraum Kosten Neuer Kostenwert "#", Neuer Programmmonat „jjjj-mm“, Alter Kostenwert "#", Alter Programmmonat „jjjj-mm“</td> 
   </tr> 
   <tr> 
    <td colspan="1">Programmeinrichtung ändern</td> 
-   <td colspan="1">Kostenzeitraum löschen. Wert "#" Programmmonat "jjj-mm"</td> 
+   <td colspan="1">Kostenzeitraum löschen. Wert "#" Programm Monat „jjjj-mm“</td> 
   </tr> 
   <tr> 
    <td colspan="1">Programmeinrichtung ändern</td> 
-   <td colspan="1">Ereignispartner "partner_name" hinzugefügt</td> 
+   <td colspan="1">Veranstaltungspartner „Partnername“ hinzugefügt</td> 
   </tr> 
   <tr> 
    <td>Exportieren</td> 
@@ -445,20 +445,20 @@ Audit Trail bietet einen umfassenden Einblick in die Aktivitäten Ihres Marketo-
   </tr> 
   <tr> 
    <td>Bearbeiten</td> 
-   <td>Token "token_name", Wert "value" hinzugefügt</td> 
+   <td>Token „token_name“, Wert „value“ hinzugefügt</td> 
   </tr> 
   <tr> 
    <td>Bearbeiten</td> 
-   <td>Das Token "token_name"wurde mit dem neuen Wert "token_value"und dem alten Wert "old_token_value"bearbeitet.</td> 
+   <td>Bearbeitetes Token „token_name“ neuer Wert „token_value“ alter Wert „old_token_value“</td> 
   </tr> 
   <tr> 
    <td>Bearbeiten</td> 
-   <td>Gelöschtes Token "token_name"</td> 
+   <td>Token „token_name“ gelöscht</td> 
   </tr> 
   <tr> 
    <td rowspan="8">Formulare</td> 
    <td>Erstellen</td> 
-   <td>Demnächst verfügbar. Erfahren Sie mehr über "Formularname"oder "Klonisch"</td> 
+   <td>Demnächst verfügbar. Weitere Informationen oder geklont aus „Formularname“</td> 
   </tr> 
   <tr> 
    <td>Löschen</td> 
@@ -466,11 +466,11 @@ Audit Trail bietet einen umfassenden Einblick in die Aktivitäten Ihres Marketo-
   </tr> 
   <tr> 
    <td>Umbenennen</td> 
-   <td>Neuer Name "new name", vorheriger Name "previous name"</td> 
+   <td>Neuer Name „neuer Name“, vorheriger Name „vorheriger Name“</td> 
   </tr> 
   <tr> 
    <td>Bearbeiten</td> 
-   <td>Neue Beschreibung "new description"Alte Beschreibung "old description"</td> 
+   <td>Neue Beschreibung „neue Beschreibung“ Alte Beschreibung „alte Beschreibung“</td> 
   </tr> 
   <tr> 
    <td>Bearbeiten</td> 
@@ -482,11 +482,11 @@ Audit Trail bietet einen umfassenden Einblick in die Aktivitäten Ihres Marketo-
   </tr> 
   <tr> 
    <td>Klonen</td> 
-   <td>"Design Studio"in Ordner "folderName" <br>geklonter Asset-Name "name"<br>oder <br>In "Marketing Activities"in Programm "Programmname"<br>geklonter Asset-Name "name" geklont</td> 
+   <td>In „Design Studio“ in Ordner „Ordnername“ geklont <br>Name des geklonten Assets „Name“<br>oder<br>geklont in „Marketing-Aktivitäten“ in Programm „Programmname“<br>Name des geklonten Assets“</td> 
   </tr> 
   <tr> 
    <td>Verschieben</td> 
-   <td>In "Design Studio"in den Ordner "Ordnername"<br>oder<br>In "Marketing-Aktivitäten"in "Programmname"verschoben</td> 
+   <td>In „Design-Studio“ in Ordner „Ordnername“ <br>oder <br> „Marketing-Aktivitäten“ in Programm „Programmname“ verschoben</td> 
   </tr> 
   <tr> 
    <td>Formulare</td> 
@@ -496,7 +496,7 @@ Audit Trail bietet einen umfassenden Einblick in die Aktivitäten Ihres Marketo-
   <tr> 
    <td rowspan="9">Landingpage</td> 
    <td>Erstellen</td> 
-   <td>Erstellt mit Vorlage "Vorlagenname" <br>oder <br>Aus "Asset-Name"geklont</td> 
+   <td>Erstellt mit der Vorlage „Vorlagenname“ <br>oder <br>geklont aus „Asset-Name“</td> 
   </tr> 
   <tr> 
    <td>Löschen</td> 
@@ -504,27 +504,27 @@ Audit Trail bietet einen umfassenden Einblick in die Aktivitäten Ihres Marketo-
   </tr> 
   <tr> 
    <td>Umbenennen</td> 
-   <td>Neuer Name "new name", vorheriger Name "previous name"</td> 
+   <td>Neuer Name „neuer Name“, vorheriger Name „vorheriger Name“</td> 
   </tr> 
   <tr> 
    <td>Bearbeiten</td> 
-   <td>Neue Beschreibung "neue Beschreibung" Vorherige "vorherige Beschreibung"</td> 
+   <td>Neue Beschreibung „neue Beschreibung“ Vorherige „vorherige Beschreibung“</td> 
   </tr> 
   <tr> 
    <td>Bearbeiten</td> 
-   <td>"Bild"hinzugefügt, "Bild"entfernt, Bildkomponente bearbeitet</td> 
+   <td>„Bild“ hinzugefügt, „Bild“ entfernt, Bildkomponente bearbeitet</td> 
   </tr> 
   <tr> 
    <td>Bearbeiten</td> 
-   <td>"Rich-Text"hinzugefügt, "Rich-Text"entfernt, bearbeitete Rich-Text-Komponente</td> 
+   <td>Rich-Text hinzugefügt, Rich-Text entfernt, Rich-Text bearbeitet</td> 
   </tr> 
   <tr> 
    <td>Klonen</td> 
-   <td>"Design Studio"im Ordner "Ordnername"<br>Geklielter Asset-Name "name"<br>Geklielte Asset-URL "www.url.com"<br>oder <br>Geklickt in "Marketing-Aktivitäten"im Programm "Programmname"<br>Geklielter Asset-Name "name"<br>Getrennte Asset-URL "www.url.com"</td> 
+   <td>In „Design Studio“ in Ordner „Ordnername“ geklont<br>geklonter Asset-Name „Name“<br>geklonte Asset-URL "www.url.com"<br>oder<br>geklont in „Marketing-Aktivitäten“ in Programm „Programmname“ <br>geklonter Asset-Name „Name“<br>geklonte Asset-URL "www.url.com"</td> 
   </tr> 
   <tr> 
    <td>Verschieben</td> 
-   <td>In "Design Studio"in den Ordner "folder name"<br> oder <br> Nach "Marketing activities"in "program"name verschoben</td> 
+   <td>In „Design Studio“ in Ordner „Ordnername“ <br> oder <br> „Marketing-Aktivitäten“ in Programm „Programmname“ verschoben</td> 
   </tr> 
   <tr> 
    <td>Genehmigen</td> 
@@ -532,16 +532,16 @@ Audit Trail bietet einen umfassenden Einblick in die Aktivitäten Ihres Marketo-
   </tr> 
   <tr> 
    <td>Entwurf</td> 
-   <td>Die Landingpage wurde entworfen, weil die Vorlage "Vorlagenname"genehmigt wurde.</td> 
+   <td>Landingpage wurde entworfen, weil die Vorlage „Vorlagenname“ genehmigt wurde</td> 
   </tr> 
   <tr> 
-   <td>Nicht genehmigen</td> 
+   <td>Genehmigung aufheben</td> 
    <td>Nicht zutreffend</td> 
   </tr> 
   <tr> 
    <td rowspan="8">Landing Page-Vorlage</td> 
    <td>Erstellen</td> 
-   <td><p>Leer<br>oder <br>Aus "Asset-Name"geklont</p></td> 
+   <td><p>Leer<br>oder<br>geklont aus „Asset-Name“</p></td> 
   </tr> 
   <tr> 
    <td>Löschen</td> 
@@ -549,15 +549,15 @@ Audit Trail bietet einen umfassenden Einblick in die Aktivitäten Ihres Marketo-
   </tr> 
   <tr> 
    <td>Umbenennen</td> 
-   <td>Neuer Name "new name", vorheriger Name "previous name"</td> 
+   <td>Neuer Name „neuer Name“, vorheriger Name „vorheriger Name“</td> 
   </tr> 
   <tr> 
    <td>Bearbeiten</td> 
-   <td>Neue Beschreibung "new description"vorherige Beschreibung "previous description"</td> 
+   <td>Neue Beschreibung „Neue Beschreibung“ Vorherige Beschreibung „Vorherige Beschreibung“</td> 
   </tr> 
   <tr> 
    <td>Klonen</td> 
-   <td>In "Ordnername" <br>geklonter Asset-Name "Name" geklont</td> 
+   <td>In „Ordnername“ geklont <br>Name des geklonten Assets „Name“</td> 
   </tr> 
   <tr> 
    <td>Exportieren</td> 
@@ -568,7 +568,7 @@ Audit Trail bietet einen umfassenden Einblick in die Aktivitäten Ihres Marketo-
    <td>Von # Assets verwendet </td> 
   </tr> 
   <tr> 
-   <td>Nicht genehmigen</td> 
+   <td>Genehmigung aufheben</td> 
    <td>Nicht zutreffend</td> 
   </tr> 
   <tr> 
@@ -582,7 +582,7 @@ Audit Trail bietet einen umfassenden Einblick in die Aktivitäten Ihres Marketo-
   </tr> 
   <tr> 
    <td>Klonen</td> 
-   <td>In Ordner "Ordnername" <br>geklonter Asset-Name "Name"<br>oder <br>In Programm "Programmname"unter "Marketingaktivitäten"geklont<br>Der geklonte Asset-Name "Name"wurde in "Name"geklont</td> 
+   <td>In „Personendatenbank“ in Ordner „Ordnername“ geklont <br>Name des geklonten Assets "<br>" oder <br>geklont in „Marketing-Aktivitäten“ in Programm „Programmname“<br>Name des geklonten Assets“</td> 
   </tr> 
   <tr> 
    <td>Löschen</td> 
@@ -590,7 +590,7 @@ Audit Trail bietet einen umfassenden Einblick in die Aktivitäten Ihres Marketo-
   </tr> 
   <tr> 
    <td>Umbenennen</td> 
-   <td>Neuer Name "new name", vorheriger Name "previous name"</td> 
+   <td>Neuer Name „neuer Name“, vorheriger Name „vorheriger Name“</td> 
   </tr> 
   <tr> 
    <td rowspan="12">Intelligente Kampagne</td> 
@@ -611,15 +611,15 @@ Audit Trail bietet einen umfassenden Einblick in die Aktivitäten Ihres Marketo-
   </tr> 
   <tr> 
    <td>Verschieben</td> 
-   <td>In "Programme"in "Programmname"<br>oder<br>In "Ordner"in Ordner "Ordnername"verschoben</td> 
+   <td>In „Programme“ in „Programmname“ <br> oder in "<br>" in „Ordnername“ verschoben</td> 
   </tr> 
   <tr> 
    <td>Umbenennen</td> 
-   <td>Neuer Name "new name", vorheriger Name "previous name"</td> 
+   <td>Neuer Name „neuer Name“, vorheriger Name „vorheriger Name“</td> 
   </tr> 
   <tr> 
    <td>Bearbeiten</td> 
-   <td>Neue Beschreibung "neue Beschreibung" Vorherige "vorherige Beschreibung"</td> 
+   <td>Neue Beschreibung „neue Beschreibung“ Vorherige „vorherige Beschreibung“</td> 
   </tr> 
   <tr> 
    <td>Löschen</td> 
@@ -627,24 +627,24 @@ Audit Trail bietet einen umfassenden Einblick in die Aktivitäten Ihres Marketo-
   </tr> 
   <tr> 
    <td>Klonen</td> 
-   <td>In Programm "Programmname" <br>geklonter Asset-Name "Name"<br>oder <br>In Ordner "Ordner"unter "Ordnername"<br>geklonter Asset-Name "Name"geklont zu "Programme"geklont</td> 
+   <td>In „Programme“ geklont in Programm „Programmname“ <br>Name des geklonten Assets "<br>„oder<br>geklont in „Ordner“ in Ordner „Ordnername“<br>Name des geklonten Assets“</td> 
   </tr> 
   <tr> 
-   <td>smartlist-Einrichtung ändern</td> 
-   <td>Zeigt eine Momentaufnahme des aktuellen Status an, einschließlich der Namen und Werte von Filtern und Triggern</td> 
+   <td>Smart-Listen-Setup ändern</td> 
+   <td>Zeigt den aktuellen Status einschließlich der Namen und Werte von Filtern und Triggern an</td> 
   </tr> 
   <tr> 
-   <td>Kampagnenzeitplan ändern</td> 
+   <td>Kampagnenkalender ändern</td> 
    <td>Nicht zutreffend</td> 
   </tr> 
   <tr> 
-   <td>Aktion für Fluss-Schritt ändern</td> 
-   <td>Zeigt eine Momentaufnahme des aktuellen Status an, einschließlich der Namen und Werte der einzelnen Flussschritte</td> 
+   <td>Fluss-Schrittaktion ändern</td> 
+   <td>Zeigt den aktuellen Status einschließlich der Namen und Werte der einzelnen Flussschritte an</td> 
   </tr> 
   <tr> 
    <td rowspan="7">Smart List</td> 
    <td>Erstellen</td> 
-   <td>Aus "Name der intelligenten Liste"geklont</td> 
+   <td>Aus „Smart List Name“ geklont</td> 
   </tr> 
   <tr> 
    <td>Exportieren</td> 
@@ -652,11 +652,11 @@ Audit Trail bietet einen umfassenden Einblick in die Aktivitäten Ihres Marketo-
   </tr> 
   <tr> 
    <td>Umbenennen</td> 
-   <td>Neuer Name "new name", vorheriger Name "previous name"</td> 
+   <td>Neuer Name „neuer Name“, vorheriger Name „vorheriger Name“</td> 
   </tr> 
   <tr> 
    <td>Bearbeiten</td> 
-   <td>Neue Beschreibung "neue Beschreibung" Vorherige "vorherige Beschreibung"</td> 
+   <td>Neue Beschreibung „neue Beschreibung“ Vorherige „vorherige Beschreibung“</td> 
   </tr> 
   <tr> 
    <td>Löschen</td> 
@@ -664,20 +664,20 @@ Audit Trail bietet einen umfassenden Einblick in die Aktivitäten Ihres Marketo-
   </tr> 
   <tr> 
    <td>Klonen</td> 
-   <td>In Ordner "folderName" <br>geklonter Asset-Name "name"<br>oder <br>Klont zu "Marketing Activities" im Programm "Programmname" <br>geklonter Asset-Name "name"</td> 
+   <td>In „Personendatenbank“ in Ordner „Ordnername“ geklont <br>Name des geklonten Assets "<br>" oder "<br>" in Programm „Programmname“ geklont <br>Name des geklonten Assets“</td> 
   </tr> 
   <tr> 
-   <td>smartlist-Einrichtung ändern</td> 
-   <td>Zeigt eine Momentaufnahme des aktuellen Status an, einschließlich der Namen und Werte von Filtern und Triggern </td> 
+   <td>Smart-Listen-Setup ändern</td> 
+   <td>Zeigt den aktuellen Status einschließlich der Namen und Werte von Filtern und Triggern an </td> 
   </tr> 
   <tr> 
    <td rowspan="11">Ausschnitt</td> 
    <td>Erstellen</td> 
-   <td><p>Leer<br>oder <br>aus "Snippet-Name"geklont</p></td> 
+   <td><p>Leer<br>oder<br>geklont aus „Snippet-Name“</p></td> 
   </tr> 
   <tr> 
    <td>Bearbeiten</td> 
-   <td>Segmentierung "segmentation_name"hinzugefügt</td> 
+   <td>Segmentierung hinzugefügt „segmentation_name“</td> 
   </tr> 
   <tr> 
    <td>Bearbeiten</td> 
@@ -693,15 +693,15 @@ Audit Trail bietet einen umfassenden Einblick in die Aktivitäten Ihres Marketo-
   </tr> 
   <tr> 
    <td>Umbenennen</td> 
-   <td>Neuer Name "new name", vorheriger Name "previous name"</td> 
+   <td>Neuer Name „neuer Name“, vorheriger Name „vorheriger Name“</td> 
   </tr> 
   <tr> 
    <td>Bearbeiten</td> 
-   <td>Neue Beschreibung "neue Beschreibung" Vorherige "vorherige Beschreibung"</td> 
+   <td>Neue Beschreibung „neue Beschreibung“ Vorherige „vorherige Beschreibung“</td> 
   </tr> 
   <tr> 
    <td>Klonen</td> 
-   <td>In "Ordnername" <br>geklonter Snippet-Name "Name" geklont</td> 
+   <td>In „Ordnername“ geklont <br>Klonter Snippet-Name „Name“</td> 
   </tr> 
   <tr> 
    <td>Genehmigen</td> 
@@ -712,7 +712,7 @@ Audit Trail bietet einen umfassenden Einblick in die Aktivitäten Ihres Marketo-
    <td>Nicht zutreffend</td> 
   </tr> 
   <tr> 
-   <td>Nicht genehmigen</td> 
+   <td>Genehmigung aufheben</td> 
    <td><p>Nicht zutreffend</p></td> 
   </tr> 
  </tbody> 
@@ -735,77 +735,77 @@ Audit Trail bietet einen umfassenden Einblick in die Aktivitäten Ihres Marketo-
   <tr> 
    <td>IP-Einschränkungen</td> 
    <td>Bearbeiten</td> 
-   <td>IP-Einschränkungen wurden wie folgt geändert: Zulässiger/blockierter "Block", IP-Adresse "#", IP-Einschränkungen deaktiviert ""</td> 
+   <td>IP-Einschränkungen wurden wie folgt bearbeitet: Zulässig/blockiert „block“, IP-Adresse "#", Deaktiviert IP-Einschränkungen ""</td> 
   </tr> 
   <tr> 
    <td rowspan="2">Partitionen</td> 
    <td>Erstellen</td> 
-   <td>Partition, erstellt mit dem Namen "partition name"</td> 
+   <td>Partition mit dem Namen „partition name“ erstellt</td> 
   </tr> 
   <tr> 
    <td>Löschen</td> 
-   <td>Partitionsname gelöscht</td> 
+   <td>Partition „Partitionsname“ gelöscht</td> 
   </tr> 
   <tr> 
    <td>Passwortsicherheit</td> 
    <td>Bearbeiten</td> 
-   <td>Passwortsicherheit wurde in Vorlage geändert: Standardsicherheit, Mindestlänge: #, untergeordnetes Oberteil: #, Zahl: #, Groß-/Kleinschreibung: #, Ablauf : #, Sitzungs-Timeout: #</td> 
+   <td>Passwortsicherheit in Vorlage geändert: Standardsicherheit, Mindestlänge: #, Untere-Obere: #, Zahl: #, Gemischte Groß-/Kleinschreibung: #, Gültigkeit: #, Sitzungs-Timeout: #</td> 
   </tr> 
   <tr> 
    <td rowspan="3">Role<br><br></td> 
    <td>Erstellen</td> 
-   <td>Rolle, die mit "Rollenname"erstellt wurde (HINWEIS: Wenn Sie Details zu hinzugefügten Berechtigungen benötigen, wenden Sie sich an den Support) - <br>zeigt eine Momentaufnahme der der Rolle zugewiesenen Berechtigungen an</td> 
+   <td>Mit „Rollenname“ erstellte Rolle (HINWEIS: Wenn Sie Details zu hinzugefügten Berechtigungen benötigen, wenden Sie sich an den Support) - <br>zeigt eine Momentaufnahme der der Rolle zugewiesenen Berechtigungen an</td> 
   </tr> 
   <tr> 
    <td>Löschen</td> 
-   <td>Die Rolle "Rollenname"wurde gelöscht</td> 
+   <td>Rolle „Rollenname“ wurde gelöscht</td> 
   </tr> 
   <tr> 
    <td>Bearbeiten</td> 
-   <td>Rolle Von "vorheriger Name"in "neuer Name"geändert (HINWEIS: Wenn Sie Details zu Berechtigungen bearbeiten müssen, wenden Sie sich an den Support) - <br>zeigt eine Momentaufnahme der Berechtigungen an, die der Rolle zugewiesen sind<br></td> 
+   <td>Rolle von „früherer Name“ in „neuer Name“ bearbeitet (HINWEIS: Wenn Sie Details zu bearbeiteten Berechtigungen benötigen, wenden Sie sich an den Support) - <br>zeigt eine Momentaufnahme der der Rolle zugewiesenen Berechtigungen an.<br></td> 
   </tr> 
   <tr> 
    <td>Smartlist-Bericht</td> 
    <td>Bearbeiten</td> 
-   <td>SmarList wurde für die Anmeldung zum Download bearbeitet: "true or false"</td> 
+   <td>SmartList für Anmeldung zum Herunterladen bearbeitet: „true or false“</td> 
   </tr> 
   <tr> 
    <td rowspan="7">Benutzer<br><br><br><br></td> 
    <td>Erstellen (einladen)</td> 
-   <td>Benutzer eingeladen mit: E-Mail-Adresse "E-Mail-Adresse", Name "Vor- und Nachname", Zugriff läuft "leer oder mit einem Datum", API-Benutzer "true or false"- <br>zeigt eine Momentaufnahme der dem Benutzer zugewiesenen Rollen und Arbeitsbereiche an</td> 
+   <td>Eingeladener Benutzer mit: E-Mail-Adresse, Name „Vor- und Nachname“, Zugriff läuft „leer oder mit einem Datum“ ab, API-Benutzer „true oder false“ - <br>zeigt den Schnappschuss der dem Benutzer zugewiesenen Rollen und Arbeitsbereiche an</td> 
   </tr> 
   <tr> 
    <td colspan="1">Löschen</td> 
-   <td colspan="1">"Benutzername" Benutzer gelöscht</td> 
+   <td colspan="1">„Benutzername“-Benutzer gelöscht</td> 
   </tr> 
   <tr> 
    <td>Bearbeiten</td> 
-   <td>Der Benutzer wurde von "alter Name"in "neuer Name"mit E-Mail-Adresse "email", apiUser: "true or false"-Zugriff läuft ab: "blank or with a date"</td> 
+   <td>Benutzer wurde von „alter Name“ in „neuer Name“ mit E-Mail-Adresse umbenannt: „E-Mail“, apiBenutzer: „true oder false“ Zugriff läuft ab: „leer oder mit einem Datum“</td> 
   </tr> 
   <tr> 
    <td>Bearbeiten</td> 
-   <td>Benutzer wurde für E-Mail bearbeitet: "email", apiUser: "true or false", access expires: "blank or with a date"</td> 
+   <td>Benutzer wurde für E-Mail bearbeitet: „email“, apiUser: „true or false“, Zugriff läuft ab: „blank or with a date“</td> 
   </tr> 
   <tr> 
    <td colspan="1">Bearbeiten</td> 
-   <td colspan="1">Zeigt eine Momentaufnahme des aktuellen Status an, einschließlich der dem Benutzer zugewiesenen Rollen und Arbeitsbereiche</td> 
+   <td colspan="1">Zeigt den aktuellen Status an, einschließlich der dem Benutzer zugewiesenen Rollen und Arbeitsbereiche</td> 
   </tr> 
   <tr> 
    <td>Problem</td> 
-   <td>Kalenderlizenz für E-Mail: Name der E-Mail des Benutzers: "Benutzername"</td> 
+   <td>Kalenderlizenz ausgestellt für E-Mail: „E-Mail des Benutzers“ Name: „Benutzername“</td> 
   </tr> 
   <tr> 
    <td>Zurücksetzen</td> 
-   <td>Kennwortrücksetzung für den Namen "name"und die E-Mail "email"</td> 
+   <td>Kennwortzurücksetzung für Name „name“ und E-Mail „email“</td> 
   </tr> 
   <tr> 
    <td rowspan="2">Arbeitsbereich</td> 
    <td>Erstellen</td> 
-   <td>Workspace mit dem Namen "Workspace name" erstellt</td> 
+   <td>Workspace mit dem Namen „Workspace-Name“ erstellt</td> 
   </tr> 
   <tr> 
    <td>Löschen</td> 
-   <td>"Arbeitsbereichname"Arbeitsbereich gelöscht</td> 
+   <td>Workspace „Workspace-Name“ gelöscht</td> 
   </tr> 
  </tbody> 
 </table>

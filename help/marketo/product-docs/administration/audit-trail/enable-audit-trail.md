@@ -13,7 +13,7 @@ ht-degree: 1%
 
 # Audit-Protokoll aktivieren {#enable-audit-trail}
 
-Audit-Protokoll ist für alle Kunden verfügbar und wird von zwei Administratorberechtigungen gesteuert.
+Das Audit-Protokoll steht allen Kunden zur Verfügung und wird von zwei Administratorberechtigungen gesteuert.
 
 >[!NOTE]
 >
@@ -25,7 +25,7 @@ Audit-Protokoll ist für alle Kunden verfügbar und wird von zwei Administratorb
 
    ![](assets/enable-audit-trail-1.png)
 
-1. Wählen Sie **[!UICONTROL Benutzer und Rollen]** und klicken Sie auf **[!UICONTROL Rollen]**.
+1. Wählen Sie **[!UICONTROL Benutzer und Rollen]** aus und klicken Sie auf **[!UICONTROL Rollen]**.
 
    ![](assets/enable-audit-trail-2.png)
 
@@ -35,9 +35,9 @@ Audit-Protokoll ist für alle Kunden verfügbar und wird von zwei Administratorb
 
    >[!NOTE]
    >
-   >Sie können hier auch eine neue Rolle erstellen und ihr den Audit-Protokoll-Zugriff gewähren.
+   >Hier haben Sie auch die Möglichkeit, eine neue Rolle zu erstellen und ihr Zugriff auf das Audit-Protokoll zu gewähren.
 
-1. Erweitern Sie die Berechtigung **[!UICONTROL Zugriff auf Admin]** . Wählen Sie je nach Ihren Anforderungen **[!UICONTROL Auf Audit-Protokoll zugreifen]** und/oder **[!UICONTROL Anmeldeverlauf aufrufen]** aus. Klicken Sie auf **[!UICONTROL Speichern]**.
+1. Erweitern Sie die **[!UICONTROL Zugriff auf Admin]**-Berechtigung. Wählen Sie **[!UICONTROL Zugriffs-Audit]** Protokoll und/oder **[!UICONTROL Zugriffs-Anmeldeverlauf]** aus, je nach Ihren Anforderungen. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/enable-audit-trail-4.png)
 
@@ -45,35 +45,35 @@ Audit-Protokoll ist für alle Kunden verfügbar und wird von zwei Administratorb
    >
    >**Definition**
    >
-   >**[!UICONTROL Zugreifen auf das Audit-Protokoll]**: Ermöglicht Benutzern den Zugriff auf das [!UICONTROL Asset-Audit-Protokoll] und das [!UICONTROL Audit-Protokoll für Administratoren].
+   >**[!UICONTROL Zugriffs-Audit-Protokoll]**: Ermöglicht Benutzern Zugriff auf [!UICONTROL Asset-Audit-Protokoll] und [!UICONTROL Admin-Audit-Protokoll].
    >
-   >**[!UICONTROL Anmeldeverlauf aufrufen]**: Ermöglicht Benutzern Zugriff auf den [Anmeldeverlauf für Benutzer](/help/marketo/product-docs/administration/audit-trail/user-login-history.md).
+   >**[!UICONTROL Zugriff auf Anmeldeverlauf]**: Ermöglicht Benutzern Zugriff auf [Benutzeranmeldeverlauf](/help/marketo/product-docs/administration/audit-trail/user-login-history.md).
 
-## Zuweisen einer Audit-Protokollrolle zu einem Benutzer {#assign-audit-trail-role-to-a-user}
+## Audit-Protokoll-Rolle einem Benutzer zuweisen {#assign-audit-trail-role-to-a-user}
 
 >[!PREREQUISITES]
 >
->[Erstellen Sie ](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#create-a-role) oder [aktivieren](#enable-audit-trail) eine vorhandene Rolle, die ihr Audit-Protokoll-Berechtigungen erteilt.
+>[Erstellen](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#create-a-role) oder [Aktivieren](#enable-audit-trail) einer vorhandenen Rolle, der Berechtigungen für das Audit-Protokoll erteilt werden.
 
-1. Klicken Sie in **[!UICONTROL Benutzer und Rollen]** auf **[!UICONTROL Benutzer]**.
+1. Klicken **[!UICONTROL unter „Benutzer]** Rollen“ auf **[!UICONTROL Benutzer]**.
 
    ![](assets/enable-audit-trail-5.png)
 
-1. Wählen Sie den Benutzer aus, dem Sie den Audit-Protokoll-Zugriff gewähren möchten, und klicken Sie auf **[!UICONTROL Benutzer bearbeiten]**.
+1. Wählen Sie den Benutzer aus, dem Sie Zugriff auf das Audit-Protokoll gewähren möchten, und klicken Sie auf **[!UICONTROL Benutzer bearbeiten]**.
 
    ![](assets/enable-audit-trail-6.png)
 
    >[!NOTE]
    >
-   >Dieser Prozess gilt auch bei der Erstellung eines neuen Benutzers.
+   >Dieser Prozess gilt auch, wenn Sie einen neuen Benutzer erstellen.
 
-1. Wählen Sie die von Ihnen erstellten Audit-Protokoll-Rollen aus. In diesem Beispiel haben wir &quot;Audit-Protokoll - Asset und Admin&quot;und &quot;Audit-Protokoll - mit Anmeldeverlauf&quot;erstellt.
+1. Wählen Sie die erstellten Audit-Protokoll-Rollen aus. In diesem Beispiel haben wir „Audit-Protokoll - Asset und Admin“ und „Audit-Protokoll - mit Anmeldeverlauf“ erstellt.
 
    ![](assets/enable-audit-trail-7.png)
 
    >[!CAUTION]
    >
-   >Wenn Sie Arbeitsbereiche aktiviert haben, aktivieren Sie das Kontrollkästchen der Rolle, mit dem alle Arbeitsbereiche ausgewählt werden. Wenn Sie die Auswahl eines einzelnen Arbeitsbereichs aufheben, wird das Audit-Protokoll ausgeblendet. Das bedeutet, dass Sie Audit-Protokolldaten für jeden Arbeitsbereich sehen. Sie haben die Möglichkeit, Arbeitsbereiche beim [Filtern](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md) auszublenden.
+   >Wenn Arbeitsbereiche aktiviert sind, aktivieren Sie das Kontrollkästchen der Rolle, wodurch alle Arbeitsbereiche ausgewählt werden. Wenn Sie die Auswahl eines einzelnen Arbeitsbereichs aufheben, wird das Audit-Protokoll ausgeblendet. Das bedeutet, dass Audit-Protokoll-Daten für jeden Arbeitsbereich angezeigt werden. Sie haben die Möglichkeit, Arbeitsbereiche beim [Filtern“ ](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md).
 
 1. Klicken Sie auf **[!UICONTROL Speichern]**.
 

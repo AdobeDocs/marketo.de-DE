@@ -7,53 +7,53 @@ feature: SEO
 source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
 source-wordcount: '196'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 # SEO - Hinzufügen einer Site/Löschen einer Site {#seo-add-a-site-delete-a-site}
 
-Damit Marketo Daten (eingehende Links und Empfehlungen) abrufen kann, die für die Seiten Ihrer Site relevant sind, müssen Sie hier die URL der Site definieren.
+Damit Marketo Daten (eingehende Links und Empfehlungen) abrufen kann, die für die Seiten Ihrer Site relevant sind, müssen Sie die URL der Site hier definieren.
 
 >[!AVAILABILITY]
 >
->Nicht alle Marketo Engage-Benutzer haben diese Funktion erworben. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Kundenbetreuer).
+>Nicht alle Marketo Engage-Benutzer haben diese Funktion erworben. Weitere Informationen erhalten Sie beim Adobe Account Team (Ihrem Account Manager).
 
-## [!UICONTROL Hinzufügen einer Site] {#add-a-site}
+## [!UICONTROL Website hinzufügen] {#add-a-site}
 
-1. Klicken Sie auf das Dropdown-Menü Admin und wählen Sie **[!UICONTROL Admin]** aus.
+1. Klicken Sie auf das Dropdown-Menü „Admin“ und wählen Sie **[!UICONTROL Admin]**.
 
    >[!NOTE]
    >
-   >**Erforderliche Administratorberechtigungen**
+   >**Administratorberechtigungen erforderlich**
 
    ![](assets/one.png)
 
-1. Klicken Sie auf **[!UICONTROL Site hinzufügen]**.
+1. Klicken Sie **[!UICONTROL Website hinzufügen]**.
 
    ![](assets/two.png)
 
-1. Geben Sie den **[!UICONTROL Namen], die [!UICONTROL Website-URL]** ein und klicken Sie auf **[!UICONTROL Speichern]**.
+1. Geben Sie **[!UICONTROL Name], [!UICONTROL Website-URL]** ein und klicken Sie auf **[!UICONTROL Speichern]**.
 
    >[!TIP]
    >
-   >Sie können auch eine **[!UICONTROL Blog-URL]** hinzufügen, wenn Sie eine haben.
+   >Sie können auch eine „Blog **[!UICONTROL URL hinzufügen]** wenn Sie eine haben.
 
    ![](assets/image2014-9-17-21-3a19-3a51.png)
 
-   Sehr gut! Sie haben gerade eine andere Website hinzugefügt.
+   Sehr gut! Sie haben soeben eine weitere Site hinzugefügt.
 
    ![](assets/four.png)
 
 ## Löschen einer Site {#delete-a-site}
 
-Wenn Sie mehr als eine Site verfolgen, können Sie auch eine Site löschen, die Sie nicht mehr für die Optimierung interessieren.
+Wenn Sie mehr als eine Site nachverfolgen, können Sie auch eine Site löschen, die Sie nicht mehr optimieren möchten.
 
-1. Klicken Sie auf das Dropdown-Menü Admin und wählen Sie **[!UICONTROL Admin]** aus.
+1. Klicken Sie auf das Dropdown-Menü „Admin“ und wählen Sie **[!UICONTROL Admin]**.
 
    ![](assets/one.png)
 
-1. Klicken Sie auf die Website, die Sie entfernen möchten.
+1. Klicken Sie auf die Site, die Sie entfernen möchten.
 
    ![](assets/six.png)
 
@@ -61,10 +61,10 @@ Wenn Sie mehr als eine Site verfolgen, können Sie auch eine Site löschen, die 
 
    ![](assets/seven.png)
 
-1. Bestätigen Sie, dass Sie **[!UICONTROL Löschen]** verwenden möchten.
+1. Bestätigen Sie, dass Sie &quot;**[!UICONTROL &quot;]** möchten.
 
    ![](assets/image2014-9-17-21-3a21-3a22.png)
 
    >[!NOTE]
    >
-   >Sie können eine Site nur löschen, wenn Sie mehr als eine haben. Wenn Sie nur eine haben, können Sie eine Zurücksetzung durchführen, indem Sie die Site auswählen und auf **[!UICONTROL Zurücksetzen]** klicken. Durch das Zurücksetzen einer Site werden _alle Site-Daten gelöscht_ und die Site neu erstellt.
+   >Sie können eine Site nur löschen, wenn Sie über mehr als eine verfügen. Wenn Sie nur über eine verfügen, können Sie eine Zurücksetzung durchführen, indem Sie die Site auswählen und auf **[!UICONTROL Zurücksetzen]** klicken. Wenn Sie eine Site zurücksetzen _werden alle Site-Daten gelöscht_ die Site wird neu erstellt.

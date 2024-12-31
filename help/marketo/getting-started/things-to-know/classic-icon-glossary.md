@@ -1,6 +1,6 @@
 ---
-description: Klassisches Symbol-Glossar - Marketo Docs - Produktdokumentation
-title: Glossar zu klassischen Symbolen
+description: Klassisches Symbolglossar - Marketo-Dokumente - Produktdokumentation
+title: Glossar des klassischen Symbols
 feature: Getting Started
 exl-id: 05706dc2-9e8b-4f10-89cf-996a69bc4816
 source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
@@ -10,9 +10,9 @@ ht-degree: 34%
 
 ---
 
-# Glossar zu klassischen Symbolen {#classic-icon-glossary}
+# Glossar des klassischen Symbols {#classic-icon-glossary}
 
-Nachstehend finden Sie die alten Symbole der Benutzeroberfläche von Marketo Classic. Das aktuelle Symbolglossar kann [hier gefunden](/help/marketo/getting-started/things-to-know/icon-glossary.md){target="_blank"} sein.
+Nachfolgend finden Sie die alten Symbole der Marketo Classic-Benutzeroberfläche. Das aktuelle Symbolglossar finden Sie [hier](/help/marketo/getting-started/things-to-know/icon-glossary.md){target="_blank"}.
 
 **Allgemeine Symbole**
 
@@ -49,17 +49,17 @@ Nachstehend finden Sie die alten Symbole der Benutzeroberfläche von Marketo Cla
   <tr> 
    <td><img width="25" src="assets/share-from.png"> 
     </td> 
-   <td>Zielordner, der über einen anderen Arbeitsbereich freigegeben wurde <br> (Vorhängeschloss gibt an, dass keine Änderungen vorgenommen werden können)</td> 
+   <td>Zielordner, der von einem anderen Workspace-<br> freigegeben wurde (Vorhängeschloss bedeutet, dass keine Änderungen vorgenommen werden können)</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-9-9-3a23-3a11.png"> 
     </td> 
-   <td>Archivordner oder In Archivordner konvertieren (dies kann für jeden Ordner und alle archivierten Programme angezeigt werden)</td> 
+   <td>Archivordner oder In Archivordner konvertieren (dies kann für jeden Ordner und jedes archivierte Programm angezeigt werden)</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-9-9-3a35-3a59.png"> 
     </td> 
-   <td>Erfolg! (Häufig als "Programmerfolg", "Erfolgreicher Lauf"oder "Aktiv"angezeigt)</td> 
+   <td>Erfolg! (häufig als „Programm erfolgreich“, „Erfolgreiche Ausführung“ oder „Aktiv“ angezeigt)</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-9-10-3a34-3a57.png"> 
@@ -230,7 +230,7 @@ Nachstehend finden Sie die alten Symbole der Benutzeroberfläche von Marketo Cla
  </tbody> 
 </table>
 
-### Symbole für Marketingaktivitäten {#marketing-activities-icons}
+### Symbole für Marketing-Aktivitäten {#marketing-activities-icons}
 
 <table> 
  <tbody> 
@@ -266,27 +266,27 @@ Nachstehend finden Sie die alten Symbole der Benutzeroberfläche von Marketo Cla
   <tr> 
    <td><img src="assets/image2014-12-23-11-3a40-3a19.png"> 
     </td> 
-   <td>Interaktionsrate ändern (angehalten, normal)</td> 
+   <td>Interaktionskadenz ändern (angehalten, normal)</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2014-12-23-11-3a42-3a5.png"> 
     </td> 
-   <td>Interaktionsstream ändern</td> 
+   <td>Interaktionsverlauf ändern</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-11-3a11-3a29.png"> 
     </td> 
-   <td>Smart Campaign - aktiv und ausgelöst</td> 
+   <td>Intelligente Kampagne - aktiv und ausgelöst</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-11-3a12-3a45.png"> 
     </td> 
-   <td>Angeforderte intelligente Kampagne (durch Sales Insight- oder Marketo Flow-Aktion)</td> 
+   <td>Intelligente Kampagne, die angefordert wird (von Sales Insight oder Marketo Flow Action)</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-11-3a14-3a24.png"> 
     </td> 
-   <td>Smart Campaign - Batch(wurde bereits ausgeführt)</td> 
+   <td>Smart Campaign - Batch (wurde bereits ausgeführt)</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-11-3a43-3a30.png"> 
@@ -301,17 +301,17 @@ Nachstehend finden Sie die alten Symbole der Benutzeroberfläche von Marketo Cla
   <tr> 
    <td><img src="assets/image2015-1-5-11-3a45-3a39.png"> 
     </td> 
-   <td>E-Mail-Programm <br>(Rote Markierung = E-Mail wurde noch nicht gesendet)</td> 
+   <td>E-Mail-Programm <br>(Rote Markierung unten = E-Mail wurde noch nicht gesendet)</td> 
   </tr> 
   <tr> 
    <td><img src="assets/hs-icon.png"> 
     </td> 
-   <td>E-Mail-Programm geplant für Head Start</td> 
+   <td>E-Mail-Programm mit geplantem Headstart</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-11-3a51-3a1.png"> 
     </td> 
-   <td>Smart Campaign - Geplanter Batch (Häkchen zeigen an, dass er zuvor ausgeführt wurde)</td> 
+   <td>Intelligente Kampagne - Geplanter Batch (Häkchen bedeutet, dass er zuvor ausgeführt wurde)</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-9-11-3a6-3a26.png"> 
@@ -356,7 +356,7 @@ Nachstehend finden Sie die alten Symbole der Benutzeroberfläche von Marketo Cla
   <tr> 
    <td><img src="assets/image2015-1-9-14-3a43-3a17.png"> 
     </td> 
-   <td>Social-Schaltflächen-Aktionen</td> 
+   <td>Aktionen mit sozialen Schaltflächen</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-9-14-3a44-3a8.png"> 
@@ -416,7 +416,7 @@ Nachstehend finden Sie die alten Symbole der Benutzeroberfläche von Marketo Cla
   <tr> 
    <td><img src="assets/image2015-1-9-15-3a15-3a42.png"> 
     </td> 
-   <td>Preisausschreiben</td> 
+   <td>Gewinnspiel-Aktionen</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-9-15-3a16-3a27.png"> 
@@ -547,7 +547,7 @@ Nachstehend finden Sie die alten Symbole der Benutzeroberfläche von Marketo Cla
   <tr> 
    <td><img src="assets/image2015-1-12-11-3a10-3a10.png"> 
     </td> 
-   <td>URL-Tools/URL-Aufbau</td> 
+   <td>URL-Tools/URL Builder</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-12-11-3a12-3a22.png"> 
@@ -562,7 +562,7 @@ Nachstehend finden Sie die alten Symbole der Benutzeroberfläche von Marketo Cla
   <tr> 
    <td><img src="assets/image2015-1-5-12-3a38-3a15.png"> 
     </td> 
-   <td>Landingpage - Genehmigt</td> 
+   <td>Landingpage - genehmigt</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-12-3a41-3a12.png"> 
@@ -577,7 +577,7 @@ Nachstehend finden Sie die alten Symbole der Benutzeroberfläche von Marketo Cla
   <tr> 
    <td><img src="assets/image2015-1-5-12-3a45-3a13.png"> 
     </td> 
-   <td>E-Mail - nicht genehmigt oder Entwurf</td> 
+   <td>E-Mail - Nicht genehmigt oder Entwurf</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-12-3a46-3a24.png"> 
@@ -592,12 +592,12 @@ Nachstehend finden Sie die alten Symbole der Benutzeroberfläche von Marketo Cla
   <tr> 
    <td><img src="assets/image2015-1-5-12-3a52-3a44.png"> 
     </td> 
-   <td>Vorlage - Genehmigt mit Entwurf</td> 
+   <td>Vorlage - Mit Entwurf genehmigt</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-12-3a53-3a55.png"> 
     </td> 
-   <td>Entwurf eines genehmigten Assets (nicht aktiv, bis der Entwurf genehmigt wurde)</td> 
+   <td>Entwurf eines genehmigten Assets (erst verfügbar, wenn Entwurf genehmigt wurde)</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-13-3a6-3a44.png"> 
@@ -607,12 +607,12 @@ Nachstehend finden Sie die alten Symbole der Benutzeroberfläche von Marketo Cla
   <tr> 
    <td><img src="assets/image2015-1-5-13-3a11-3a50.png"> 
     </td> 
-   <td>Snippet: Nicht genehmigt oder Entwurf</td> 
+   <td>Snippet - Nicht genehmigt oder Entwurf</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-13-3a29-3a18.png"> 
     </td> 
-   <td>Snippet - Genehmigt</td> 
+   <td>Snippet - genehmigt</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-14-13-3a8-3a40.png"> 
@@ -658,7 +658,7 @@ Nachstehend finden Sie die alten Symbole der Benutzeroberfläche von Marketo Cla
   <tr> 
    <td><img src="assets/image2015-1-9-9-3a58-3a14.png"> 
     </td> 
-   <td>Umsatzzyklusmodell (RCM) - Genehmigt mit Entwurf</td> 
+   <td>Umsatzzyklusmodell (RCM) - Mit Entwurf genehmigt</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-9-12-3a55-3a23.png"> 
@@ -703,7 +703,7 @@ Nachstehend finden Sie die alten Symbole der Benutzeroberfläche von Marketo Cla
   <tr> 
    <td><img src="assets/image2015-1-9-13-3a43-3a15.png"> 
     </td> 
-   <td>GruppenLeads nach</td> 
+   <td>Leads gruppieren nach</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-9-13-3a45-3a48.png"> 
@@ -713,7 +713,7 @@ Nachstehend finden Sie die alten Symbole der Benutzeroberfläche von Marketo Cla
  </tbody> 
 </table>
 
-### My Tokens Icons {#my-tokens-icons}
+### Meine Token-Symbole {#my-tokens-icons}
 
 <table> 
  <tbody> 
@@ -724,12 +724,12 @@ Nachstehend finden Sie die alten Symbole der Benutzeroberfläche von Marketo Cla
   <tr> 
    <td><img src="assets/image2015-1-5-13-3a53-3a27.png"> 
     </td> 
-   <td>Kalender ICS - Kalender (integrierte Kalender)</td> 
+   <td>Kalender ICS - iCalendars, (Integrierte Kalender)</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-14-3a20-3a45.png"> 
     </td> 
-   <td>Rich Text (keine Landingpage)</td> 
+   <td>Rich-Text (keine Landingpage)</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-14-3a27-3a2.png"> 
@@ -739,7 +739,7 @@ Nachstehend finden Sie die alten Symbole der Benutzeroberfläche von Marketo Cla
   <tr> 
    <td><img src="assets/image2015-1-5-14-3a31-3a7.png"> 
     </td> 
-   <td>Salesforce (auch bei allen SFDC-bezogenen Elementen)</td> 
+   <td>Salesforce (auch für alle SFDC-bezogenen Elemente)</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-15-3a44-3a30.png"> 
@@ -754,7 +754,7 @@ Nachstehend finden Sie die alten Symbole der Benutzeroberfläche von Marketo Cla
   <tr> 
    <td><img src="assets/image2015-1-5-15-3a47-3a48.png"> 
     </td> 
-   <td>Aktualisieren (in der Regel Anzahl ausführen, Bericht, Smart-Liste)</td> 
+   <td>Aktualisieren (normalerweise Anzahl, Bericht, Smart-Liste ausführen)</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-16-3a1-3a29.png"> 
@@ -775,12 +775,12 @@ Nachstehend finden Sie die alten Symbole der Benutzeroberfläche von Marketo Cla
   <tr> 
    <td><img src="assets/image2015-1-5-15-3a18-3a8.png"> 
     </td> 
-   <td>Intervall für Campaign planen (mehrere Ausführungen)</td> 
+   <td>Planen der Wiederholung einer Kampagne (mehrere Durchgänge)</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-15-3a21-3a29.png"> 
     </td> 
-   <td>Abbrechen des Ablaufs, der Aktion oder des Löschvorgangs</td> 
+   <td>Ausführen, Aktion oder Löschen abbrechen</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-16-3a10-3a6.png"> 
@@ -790,7 +790,7 @@ Nachstehend finden Sie die alten Symbole der Benutzeroberfläche von Marketo Cla
   <tr> 
    <td><img src="assets/image2015-1-5-14-3a31-3a7.png"> 
     </td> 
-   <td>Salesforce (auch bei allen SFDC-bezogenen Elementen)</td> 
+   <td>Salesforce (auch für alle SFDC-bezogenen Elemente)</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-14-3a33-3a11.png"> 
@@ -800,7 +800,7 @@ Nachstehend finden Sie die alten Symbole der Benutzeroberfläche von Marketo Cla
   <tr> 
    <td><img src="assets/image2015-1-12-11-3a33-3a51.png"> 
     </td> 
-   <td>Relative Bewertung (auch bei allen Aktionen mit Scoring-Fluss sichtbar)</td> 
+   <td>Relative Bewertung (auch in allen Scoring-Fluss-Aktionen sichtbar)</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-12-11-3a34-3a22.png"> 
@@ -810,12 +810,12 @@ Nachstehend finden Sie die alten Symbole der Benutzeroberfläche von Marketo Cla
   <tr> 
    <td><img src="assets/image2015-1-5-14-3a43-3a28.png"> 
     </td> 
-   <td>Email Script (nur für Velocity)</td> 
+   <td>E-Mail-Script (nur für Velocity)</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-14-3a48-3a34.png"> 
     </td> 
-   <td>Datum - formatiert als "MM-TT-JJJJ"</td> 
+   <td>Datum - formatiert als „MM-TT-JJJJ“</td> 
   </tr> 
  </tbody> 
 </table>
@@ -836,17 +836,17 @@ Nachstehend finden Sie die alten Symbole der Benutzeroberfläche von Marketo Cla
   <tr> 
    <td><img src="assets/image2015-1-5-16-3a27-3a35.png"> 
     </td> 
-   <td>Smart List - Cached</td> 
+   <td>Smart-Liste - zwischengespeichert</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-16-3a37-3a48.png"> 
     </td> 
-   <td>Segmentierung oder Segment - Nicht genehmigt</td> 
+   <td>Segmentierung oder Segment - nicht genehmigt</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-16-3a39-3a5.png"> 
     </td> 
-   <td>Segmentierung oder Segment - Genehmigt oder Entwurf</td> 
+   <td>Segmentierung oder Segment - Genehmigt für Entwurf</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-16-3a40-3a49.png"> 
@@ -861,7 +861,7 @@ Nachstehend finden Sie die alten Symbole der Benutzeroberfläche von Marketo Cla
   <tr> 
    <td><img src="assets/image2015-1-5-14-3a43-3a28.png"> 
     </td> 
-   <td>Email Script (nur für Velocity)</td> 
+   <td>E-Mail-Script (nur für Velocity)</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-16-3a54-3a4.png"> 

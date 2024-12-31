@@ -7,19 +7,19 @@ feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '111'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 # SEO - Seiten hinzufügen {#seo-add-pages}
 
-Du hast Seiten! Marketo SEO durchsucht Ihre Site automatisch und verfolgt sie. Falls wir ein paar verpasst haben, rufen Sie sie in die SEO-App wie folgt ab:
+Du hast Seiten! Marketo SEO durchsucht automatisch Ihre Site und verfolgt sie. Falls wir ein paar verpasst haben, besorgen Sie sie sich in der SEO-App wie folgt:
 
-1. Wechseln Sie zum Abschnitt **[!UICONTROL Seiten]** .
+1. Navigieren Sie zum Abschnitt **[!UICONTROL Seiten]**.
 
    ![](assets/image2014-9-18-12-3a55-3a19.png)
 
-1. Klicken Sie auf **[!UICONTROL Seiten hinzufügen]**.
+1. Klicken Sie **[!UICONTROL Seiten hinzufügen]**.
 
    ![](assets/image2014-9-18-12-3a55-3a53.png)
 
@@ -29,10 +29,10 @@ Du hast Seiten! Marketo SEO durchsucht Ihre Site automatisch und verfolgt sie. F
 
    >[!TIP]
    >
-   >Wusstest du, dass du [deine Seite zu einer neuen oder vorhandenen Liste hinzufügen kannst](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)? Schau es dir an!
+   >Wussten Sie, dass Sie [Ihre Seite zu einer neuen oder vorhandenen Liste hinzufügen](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)? Sieh es dir an!
 
-   Es kann einen Moment dauern, bis Ihre Seitendaten geladen werden. Warten Sie auf die grüne Warnmeldung und aktualisieren Sie Ihre Seite, um die Anzeige zu aktualisieren.
+   Es kann einen Moment dauern, bis Ihre Seitendaten geladen sind. Warten Sie auf die grüne Warnmeldung und aktualisieren Sie Ihre Seite, um die Anzeige zu aktualisieren.
 
    ![](assets/image2014-9-18-12-3a57-3a10.png)
 
-   Sie können jetzt verfolgen, wie diese Seite bei der Suche funktioniert.
+   Sie können jetzt verfolgen, wie diese Seite in der Suche funktioniert.

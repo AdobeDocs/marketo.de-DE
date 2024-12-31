@@ -13,7 +13,7 @@ ht-degree: 5%
 
 # Marketo Engage-Glossar {#marketo-engage-glossary}
 
-Im Folgenden finden Sie Definitionen für viele der Begriffe, auf die Sie bei der Verwendung von Marketo Engage stoßen können. Um einen Begriff anzufordern, senden Sie uns bitte eine E-Mail an [1}.](mailto:GRP-Marketo-articlefeedback@adobe.com)
+Nachstehend finden Sie Definitionen für viele Begriffe, die Sie bei der Verwendung von Marketo Engage finden. Um einen Begriff hinzuzufügen, senden Sie [uns eine E-Mail](mailto:GRP-Marketo-articlefeedback@adobe.com).
 
 ## A {#a}
 
@@ -25,59 +25,59 @@ Im Folgenden finden Sie Definitionen für viele der Begriffe, auf die Sie bei de
  <tbody> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md" target="_blank">A/B-Tests</a></strong></td>
-   <td colspan="1">Dient der Änderung von Komponenten Ihrer E-Mail (z. B. Betreffzeile, Adresszeile etc.) und legen Testkriterien fest, um festzustellen, welche Inhaltspakete besser sind.</td> 
+   <td colspan="1">Ermöglicht es Ihnen, Komponenten Ihrer E-Mail zu ändern (z. B. Betreffzeile, Absenderadresse usw.) und Testkriterien festzulegen, um zu bestimmen, welche Inhalte besser funktionieren.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Konto</strong></td> 
-   <td colspan="1">Dieser Begriff kann unterschiedliche Bedeutungen haben:<br> - Ihre Marketo-Instanz selbst kann als Ihr Marketo-Konto bezeichnet werden.<br>-In <strong>TAM</strong> ist ein <strong>benanntes Konto</strong> ein Konto, für das der Benutzer festgelegt hat, dass es sich um ein Zielkonto handelt, das er verfolgen möchte.<br>-In-TAM ist ein CRM-Konto ein Konto, das von Ihrem verknüpften <strong>CRM</strong> zugeordnet ist (Konto in <strong><span class="dnl">Salesforce</span></strong>, <strong><span class="dnl">MS Dynamics</span></strong> oder <strong>API</strong>).<br>-In Ihrem CRM-System sind Konten das Unternehmen/Unternehmen, mit dem Leads und Kontakte verknüpft sind.</td> 
+   <td colspan="1">Dieser Begriff kann unterschiedliche Bedeutungen haben: <br>-Ihre Marketo-Instanz selbst kann als Ihr Marketo-Konto bezeichnet werden.<br>-In <strong>TAM</strong>, ein <strong>Benanntes Konto</strong> ist ein Konto, das die Benutzerin oder der Benutzer als Zielkonto bestimmt hat, das sie verfolgen möchten.<br>-In-TAM ist ein CRM-Konto ein Konto, das von Ihrem verknüpften <strong>CRM</strong> (Konto in <strong><span class="dnl">Salesforce</span></strong>, <strong><span class="dnl">MS Dynamics</span></strong> oder <strong>API</strong>) zugeordnet ist.<br> Ihrem CRM-System sind Konten das Unternehmen, mit dem Leads und Kontakte verknüpft sind.</td> 
   </tr> 
   <tr> 
    <td><strong>Kontoliste</strong></td> 
-   <td>Eine Liste der wichtigsten Konto-/Organisationsnamen. Auch als Target-Kontoverwaltungsliste (<strong>TAM</strong>) bezeichnet.</td> 
+   <td>Eine Liste der Namen wichtiger Konten/Organisationen. Wird auch als Target Account Management-Liste <strong>TAM</strong> bezeichnet.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Kontoprofilerstellung</strong></td> 
-   <td colspan="1">(ehemals AccountAI) In <strong>TAM</strong> werden mithilfe Ihres Idealen Kundenprofils (ICP) bestehende Unternehmen in Ihrer Datenbank nach Rang geordnet und die Ränge als Bewertungen in Ihren Konten hinzugefügt.</td> 
+   <td colspan="1">(ehemals AccountAI) In <strong>TAM</strong> werden mithilfe Ihres Ideal Customer Profile (ICP) vorhandene Unternehmen in Ihrer Datenbank eingestuft und die Rankings werden als Bewertungen auf Ihren Konten hinzugefügt.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/account-score.md" rel="nofollow">Kontobewertung</a></strong></td> 
-   <td colspan="1">In <strong>TAM</strong> ist dies eine Punktzahl, die einem Konto zugewiesen wird, um Sie bei der Bestimmung des Interaktionsniveaus zu unterstützen.</td> 
+   <td colspan="1">Bei <strong>TAM</strong> handelt es sich um einen Wert, der einem Konto zugewiesen wird, damit Sie den Grad der Interaktion ermitteln können.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Akquisitionsdatum</strong></td> 
-   <td colspan="1">Das Datum, an dem eine Person in Marketo bekannt wird. Dieses Datum entspricht dem <strong>Akquise-Programm</strong> , das die Person erworben hat.</td> 
+   <td colspan="1">Das Datum, an dem eine Person in Marketo bekannt wird. Dieses Datum entspricht dem "<strong>", </strong> die Person erworben hat.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Akquirierungsprogramm</strong></td> 
-   <td colspan="1">Das Programm, das für den Erwerb einer Person verantwortlich war. Die Person war möglicherweise anonym und dieses Programm war für die Umwandlung in eine bekannte Person verantwortlich. Dies hilft bei der Erstellung der Erstkontaktzuordnung.</td> 
+   <td colspan="1">Das Programm, das für die Akquise einer Person verantwortlich war. Die Person war möglicherweise anonym und dieses Programm war für die Konvertierung in eine bekannte Person verantwortlich. Dies hilft bei der Einrichtung einer Attribution auf Erstkontakt.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md" rel="nofollow"><strong>Anzeigennetzwerkintegrationen </strong></a></td> 
-   <td colspan="1">(ehemals Ad Bridge) Eine Möglichkeit, die eindeutigen Zielgruppendaten von Marketo mit Ihren Paid-Media-Systemen zu verbinden, damit Sie zielgerichtetere, personalisierte Digital-Advertising-Kampagnen durchführen können.</td> 
+   <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md" rel="nofollow"><strong>Netzwerkintegrationen hinzufügen </strong></a></td> 
+   <td colspan="1">(ehemals Ad Bridge) Eine Möglichkeit, die eindeutigen Zielgruppendaten von Marketo mit Ihren Paid-Media-Systemen zu verbinden, damit Sie zielgerichtetere, personalisierte digitale Werbekampagnen durchführen können.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Adobe Marketo Engage</strong></td> 
-   <td colspan="1">Der offizielle Markenname für das Aggregat aller Marketo-Produktangebote innerhalb der Adobe Experience Cloud.</td> 
+   <td colspan="1">Der offizielle Markenname für die Zusammenfassung aller Marketo-Produktangebote in Adobe Experience Cloud.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md" rel="nofollow">Warnhinweis</a></strong></td> 
-   <td colspan="1">Eine Benachrichtigung, mit der die von Ihnen bestimmte Person per E-Mail über eine Transaktion informiert wird.</td> 
+   <td colspan="1">Eine Benachrichtigung, mit der eine Person, die Sie bestimmt haben, über den Erhalt einer Transaktion informiert wird.</td> 
   </tr> 
   <tr> 
    <td><strong>Anonymer Besucher</strong></td> 
-   <td>Ein Webbesucher, der nie ein Formular ausgefüllt oder seine Details auf der Website gelassen hat.</td> 
+   <td>Ein Web-Besucher, der nie ein Formular ausgefüllt oder seine Details auf der Website hinterlassen hat.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="https://developer.adobe.com/marketo-apis/" rel="nofollow">Anwendungsprogrammierschnittstelle</a> (API)</strong></td> 
-   <td colspan="1">Eine Reihe vordefinierter Protokolle, die zur Ausführung von Einzel- oder Massenfunktionen in einem Betriebssystem oder einer Anwendung (in diesem Fall Marketo) verwendet werden.</td> 
+   <td colspan="1">Eine Reihe vordefinierter Protokolle, die zum Ausführen von Einzel- oder Massenfunktionen in einem Betriebssystem oder einer Anwendung (in diesem Fall Marketo) verwendet werden.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Genehmigt</strong></td> 
-   <td colspan="1">Wird verwendet, um zu bestätigen, wann ein <strong>Asset</strong> für den Verbrauch bereit ist. Assets kann erst dann öffentlich angezeigt werden, wenn sie genehmigt wurden.</td> 
+   <td colspan="1">Wird verwendet, um zu bestätigen<strong> wann ein </strong>Asset“ einsatzbereit ist. Assets kann erst dann öffentlich angezeigt werden, nachdem es genehmigt wurde.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Asset</strong></td> 
-   <td colspan="1">Ein Element, das als Inhalt in Ihrer Marketo-Instanz dient (z. B. <strong>email</strong>, <strong>landing page</strong>, <strong>smart campaign</strong> usw.).</td> 
+   <td colspan="1">Ein Element, das als Inhalt in Ihrer Marketo-Instanz dient (z. B. <strong>E</strong>, <strong>Landingpage</strong>, <strong>Smart Campaign</strong> usw.).</td> 
   </tr> 
  </tbody> 
 </table>
@@ -95,26 +95,26 @@ Im Folgenden finden Sie Definitionen für viele der Begriffe, auf die Sie bei de
     <div> 
      <p><strong><a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md#batch-smart-campaign" rel="nofollow">Stapel-Kampagne</a></strong></p> 
     </div></td> 
-   <td><p>Eine <strong>Kampagne</strong> , die qualifizierte Mitglieder mithilfe von Filtern oder Listenmitgliedschaften auswählt. Batch-Kampagnen werden zu einem bestimmten Zeitpunkt gestartet und wirken sich auf eine bestimmte Gruppe von Personen gleichzeitig aus. Batch-Kampagnen können so eingestellt werden, dass sie wiederholt werden oder nur einmal ausgeführt werden.<br></p></td> 
+   <td><p>Eine <strong>Kampagne</strong> die qualifizierte Mitglieder mithilfe von Filtern oder Listenmitgliedschaften anspricht. Batch-Kampagnen werden zu einem bestimmten Zeitpunkt gestartet und wirken sich auf eine bestimmte Gruppe von Personen gleichzeitig aus. Batch-Kampagnen können so eingestellt werden, dass sie wiederkehren, oder einmal ausgeführt werden.<br></p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Verhaltensbewertung</strong></td> 
-   <td colspan="1">Ein Punktwert, der einer Person basierend auf ihren Handlungen/Verhaltensweisen zugewiesen wird (z. B. Besuch einer Webseite, Klick auf einen Link in einer E-Mail, Ausfüllen eines Formulars usw.). Wird normalerweise verwendet, um das Interesse einer Person an Ihrem Produkt oder Unternehmen zu messen.</td> 
+   <td colspan="1">Ein Punktwert, der einer Person auf Grundlage ihrer Aktionen/ihres Verhaltens zugewiesen wird (z. B. Besuch einer Web-Seite, Klicken auf einen Link in einer E-Mail, Ausfüllen eines Formulars usw.). Wird in der Regel verwendet, um das Interesse einer Person an Ihrem Produkt oder Unternehmen zu messen.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Sperrliste</strong></td> 
-   <td colspan="1">Eine Liste der IP-Adressen oder Domänen, die mit dem Versand von <strong>Spam</strong> verknüpft sind.</td> 
+   <td colspan="1">Eine Liste der IP-Adressen oder Domains, die mit dem Versand von <strong>Spam“ verknüpft </strong>.</td> 
   </tr> 
   <tr> 
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md" rel="nofollow"><strong>Auf der Sperrliste</strong></a></td> 
-   <td> Ein Feld für eine Marketo-Person, die Ihr Marketingmaterial nicht erhalten möchte (z. B. ein Konkurrent). Wenn Sie das Auf die Blockierungsliste gesetzt Feld auf "true"setzen, erhält die Person keine E-Mails von Ihrer Marketo-Instanz, einschließlich operativer E-Mails.</td> 
+   <td> Ein Feld für eine Marketo-Person, die Ihr Marketing-Material nicht erhalten soll (z. B. ein Wettbewerber). Wenn Sie das Auf die Blockierungsliste gesetzt Feld auf „true“ setzen, erhält die Person keine E-Mails von Ihrer Marketo-Instanz, einschließlich operativer E-Mails.</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <p><strong><a href="/help/marketo/product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.md" rel="nofollow">Bounce</a></strong></p> 
+     <p><strong><a href="/help/marketo/product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.md" rel="nofollow">abprallen</a></strong></p> 
     </div></td> 
-   <td>Wenn eine an einen Empfänger gesendete E-Mail zurückgegeben wird. Es gibt harte und weiche Bounces. Bei einem Hardbounce kann die E-Mail-Adresse einer Person ungültig werden, wenn ein Mailserver Marketo mitteilt, dass die E-Mail-Adresse der Person nicht zugestellt werden kann. Ein Softbounce bedeutet, dass bei der Zustellung der E-Mail an die Person etwas schief gelaufen ist; dies wird automatisch behoben. Sowohl Hard- als auch Softbounces bestehen aus <a href="https://nation.marketo.com/docs/DOC-2752" rel="nofollow">mehreren Kategorien</a>.</td> 
+   <td>Wenn eine an einen Empfänger gesendete E-Mail zurückgegeben wird. Es kommt zu Hard- und Softbounces. Ein Hardbounce kann die E-Mail-Adresse einer Person ungültig machen, wenn ein Mail-Server Marketo mitteilt, dass die E-Mail der Person nicht zugestellt werden kann. Ein Softbounce bedeutet, dass beim Versand der E-Mail an die Person ein Fehler aufgetreten ist. Dies wird automatisch behoben. Sowohl Hard- als auch Softbounces bestehen aus <a href="https://nation.marketo.com/docs/DOC-2752" rel="nofollow">mehreren </a>.</td> 
   </tr> 
  </tbody> 
 </table>
@@ -129,39 +129,39 @@ Im Folgenden finden Sie Definitionen für viele der Begriffe, auf die Sie bei de
  <tbody> 
   <tr> 
    <td colspan="1"><strong>Kampagne</strong></td> 
-   <td colspan="1">"Kampagne"könnte in Marketo einige Dinge bedeuten. Eine <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md" rel="nofollow">Kampagne</a> ist ein kürzerer Begriff für intelligente Kampagnen. In <strong>Marketo Sales Connect</strong> sind <a href="/help/marketo/product-docs/marketo-sales-connect/campaigns/create-a-campaign.md" rel="nofollow">campaigns</a> eine Reihe von Schritten zur kanalübergreifenden Korrespondenz. In <strong>Web Personalization</strong> sind Web <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow">campaigns</a> benutzerdefinierte Reaktionen, die mit einem bestimmten Segment verknüpft sind.</td> 
+   <td colspan="1">„Kampagne“ könnte in Marketo einiges bedeuten. Eine <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md" rel="nofollow">Kampagne</a> ist ein kürzerer Begriff für eine intelligente Kampagne. In <strong>Marketo Sales Connect</strong> sind <a href="/help/marketo/product-docs/marketo-sales-connect/campaigns/create-a-campaign.md" rel="nofollow">Kampagnen</a> eine Reihe von kanalübergreifenden Korrespondenzschritten. In <strong>Web Personalization</strong> sind <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow">Kampagnen</a> benutzerspezifische Reaktionen, die mit einem bestimmten Segment verknüpft sind.</td> 
   </tr>
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md" rel="nofollow">Bericht zur E-Mail-Leistung von Campaign</a></strong></td> 
-   <td colspan="1">Berichtstyp, der Metriken zur E-Mail-Leistung anzeigt, gruppiert nach <strong>Smart-Kampagne</strong>.</td> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md" rel="nofollow">Bericht zur E-Mail-Leistung in Campaign</a></strong></td> 
+   <td colspan="1">Berichtstyp, der nach (intelligenter Kampagne) gruppierte Metriken <strong> E-Mail</strong>Leistung anzeigt.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md" rel="nofollow">Kampagnenordner</a></strong></td> 
-   <td colspan="1">Eine Organisationseinheit, die mehrere <strong>Programme</strong> und/oder <strong>Smart-Kampagnen</strong> enthalten kann. Wie ein Ordner auf Ihrem Desktop werden Ordner in Marketo für die Organisation und Berichterstellung verwendet.</td> 
+   <td colspan="1">Eine Organisationseinheit, die mehrere <strong>Programme</strong> und/oder <strong>Smart-Kampagnen</strong> aufnehmen kann. Wie Ordner auf Ihrem Desktop werden Ordner in Marketo für die Organisation und Berichterstellung verwendet.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md#cast" rel="nofollow"><strong>Cast</strong></a></td> 
-   <td colspan="1">Ein Posting ist das Ereignis des Versands von E-Mails aus einem <strong>Interaktionsprogramm</strong>.</td> 
+   <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md#cast" rel="nofollow"><strong>gießen</strong></a></td> 
+   <td colspan="1">Eine Besetzung ist das Ereignis des Versands von E-Mails aus einem <strong>Interaktionsprogramm</strong>.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/administration/tags/create-a-program-channel.md" rel="nofollow"><strong>Kanal</strong></a></td> 
-   <td colspan="1">Art der mit einem <strong>Programm</strong> verknüpften Marketing-Aktivität (z. B. E-Mail, <strong>Webinar, </strong>Tradeshow, Roadshow, Online-Werbung usw.). </td> 
+   <td colspan="1">Art der Marketing-Aktivität, die mit einem <strong>Programm</strong> verbunden ist (z. B. E-Mail<strong>Webinar, </strong>Fachmesse, Roadshow, Online-Werbung usw.). </td> 
   </tr> 
   <tr> 
    <td><strong>Zum Öffnen klicken %</strong></td> 
-   <td>Prozentsatz der E-Mails, die geöffnet wurden und auf die ein Link in der E-Mail geklickt wurde Auf diese Weise wird die Relevanz und der Kontext einer E-Mail gemessen, indem die Anzahl der Einzelklicks dividiert durch die Anzahl der Einzelöffnungen und anschließend durch 100 multipliziert wird, um den Prozentsatz anzuzeigen.</td> 
+   <td>Prozentsatz der E-Mails, die geöffnet wurden und bei denen auf einen Link in der E-Mail geklickt wurde. Dabei werden Relevanz und Kontext einer E-Mail gemessen. Hierzu wird die Anzahl der Einzelklicks dividiert durch die Anzahl der Einzelöffnungen mit 100 multipliziert, um den Wert als Prozentsatz anzuzeigen.</td> 
   </tr> 
   <tr> 
    <td><strong>Klicks</strong></td> 
-   <td>Standardmäßig sind Links in E-Mails mit eingebettetem Tracking versehen, sodass Sie sehen können, wer auf welchen Link geklickt hat, wie viele Links insgesamt angeklickt wurden usw.</td> 
+   <td>Standardmäßig sind die Tracking-Funktionen für Links in E-Mails integriert, sodass Sie sehen können, wer auf welchen Link geklickt hat, wie viele Links insgesamt angeklickt wurden usw.</td> 
   </tr> 
   <tr> 
    <td><strong>Clickstream</strong></td> 
-   <td>die Aktivität und den URL-Pfad des Besuchers auf der Site und die Dauer des Besuchs auf den einzelnen Seiten.</td> 
+   <td>Die Aktivität und der URL-Pfad des Besuchers auf der Website und wie lange er die einzelnen Seiten besucht hat.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Klonen</strong></td> 
-   <td colspan="1">In Marketo können Sie Duplikate verschiedener Entitätstypen innerhalb Ihrer Instanz erstellen. Sie können <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md" rel="nofollow">Programme</a>, ein <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md" rel="nofollow">Asset innerhalb eines Programms</a>, einen <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md" rel="nofollow">Stream</a> und mehr klonen.</td> 
+   <td colspan="1">In Marketo können Sie innerhalb Ihrer Instanz Duplikate verschiedener Entitätstypen erstellen. Sie können <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md" rel="nofollow">Programme</a> ein <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md" rel="nofollow">Asset innerhalb eines Programms</a>, einen <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md" rel="nofollow">Stream</a> und mehr klonen.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md" rel="nofollow"><strong>CNAME</strong></a></td> 
@@ -173,11 +173,11 @@ Im Folgenden finden Sie Definitionen für viele der Begriffe, auf die Sie bei de
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md" rel="nofollow"><strong>Beschränkung</strong></a></td> 
-   <td colspan="1">Eine zusätzliche Bedingung, die Sie der Smart-Liste <strong>filter</strong>/<strong>Trigger </strong> hinzufügen können, um Ihre Suche einzuschränken.</td> 
+   <td colspan="1">Eine zusätzliche Bedingung, die Sie der Smart-Liste (<strong>) </strong><strong>Trigger hinzufügen können</strong> um Ihre Suche einzugrenzen.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Inhalt</strong></td> 
-   <td colspan="1">Ein Teil von Informationen, der zu <strong>assets</strong> hinzugefügt wurde, z. B. <strong>E-Mails</strong> oder <strong>Landingpages</strong>. In <strong>Interaktionsprogrammen</strong> gibt es zwei Inhaltstypen, die Sie <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md#content" rel="nofollow">zu Streams hinzufügen können</a>: E-Mails und <strong>Programme</strong>.</td> 
+   <td colspan="1">Eine Information, die zu <strong>Assets“ hinzugefügt wird</strong> z. B<strong> E-</strong> oder <strong>Landingpages</strong>. In <strong>Interaktionsprogrammen</strong> gibt es zwei Arten von Inhalten, die Sie <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md#content" rel="nofollow">zu Streams hinzufügen</a> - E-Mails und <strong>Programme</strong>.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>ContentAI</strong></td> 
@@ -185,34 +185,34 @@ Im Folgenden finden Sie Definitionen für viele der Begriffe, auf die Sie bei de
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md" rel="nofollow"><strong>Inhaltsanalyse</strong></a></td> 
-   <td colspan="1">Ein Bereich von <strong>Web Personalization</strong> , der erkannte vorhandene Inhalte von Ihrer Website sowie die Inhaltsleistung anzeigt.</td> 
+   <td colspan="1">Ein Bereich von <strong>Web Personalization</strong> in dem entdeckte vorhandene Inhalte Ihrer Website sowie die Leistung von Inhalten angezeigt werden.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Interaktionsstufe</strong></td> 
-   <td colspan="1">Ein 0 bis 100-Punkt-Ergebnis, mit dem Marketo Ihren Inhalt in einem <strong>Interaktionsprogramm</strong> bereitstellt. Das Ergebnis wird durch eine ausgefeilte Formel bestimmt, die <strong>opens</strong>, <strong>clicks</strong>, <strong>unsubscribes</strong>, Programmerfolg und mehr verwendet.</td> 
+   <td colspan="1"><strong>Ebene der Inhaltsinteraktion</strong></td> 
+   <td colspan="1">Ein Punktwert von 0 bis 100, den Marketo Ihren Inhalt in einem "<strong>" </strong>. Die Punktzahl wird anhand einer ausgefeilten Formel bestimmt, die <strong>Öffnungen</strong>, <strong>Klicks</strong>, <strong>Abmeldungen</strong>, den Programmerfolg und mehr verwendet.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Cookie</strong></td> 
-   <td colspan="1"><span>Ein Cookie ist ein kleines Datenelement, das von einer Website an den Webbrowser eines Benutzers gesendet wird, um das Erlebnis zu personalisieren (speichert Anmelde-Informationen, Voreinstellungen usw.). </span></td> 
+   <td colspan="1"><span>Ein Cookie ist ein kleines Datenelement, das an den Webbrowser eines Benutzers von einer Website gesendet wird, um das Erlebnis zu personalisieren (speichert Anmeldeinformationen, Voreinstellungen usw.). </span></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md" rel="nofollow">Benutzerdefinierte Zielgruppe</a></strong></td> 
-   <td colspan="1">Erstellen Sie in Facebook zum Zwecke der direkten Zielgruppenbestimmung eine Liste aus bestimmten, bereits vorhandenen Personen (aus Ihrer Marketo-Datenbank).</td> 
+   <td colspan="1">Erstellen Sie in Facebook eine Liste mit spezifischen, vorhandenen Personen (aus Ihrer Marketo-Datenbank) für die direkte Zielgruppenbestimmung.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" rel="nofollow">Benutzerdefiniertes Feld</a></strong></td> 
-   <td colspan="1">Ein nicht standardmäßiges Feld, das der Benutzer erstellt, um bestimmten Anforderungen gerecht zu werden. Benutzerdefinierte Feldtypen <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md" rel="nofollow"> verfügen über ein eigenes Glossar</a>.</td> 
+   <td colspan="1">Ein nicht standardmäßiges Feld, das der Benutzer erstellt, um bestimmte Anforderungen zu erfüllen. Benutzerdefinierte Feldtypen <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md" rel="nofollow">verfügen über ein eigenes Glossar</a>.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md" rel="nofollow">Benutzerdefiniertes Objekt</a></strong></td> 
-   <td colspan="1">Mit benutzerdefinierten Objekten können Sie Metriken verfolgen, die für Ihr Unternehmen spezifisch sind.</td> 
+   <td colspan="1">Mithilfe benutzerdefinierter Objekte können Sie für Ihr Unternehmen spezifische Metriken verfolgen.</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
      <p><strong> CRM (Customer Relationship Management)</strong></p> 
     </div></td> 
-   <td colspan="1">Ein System, das Unternehmen die Verwaltung von Informationen ermöglicht, die mit ihren Kunden/potenziellen Kunden in Verbindung stehen. Marketo ermöglicht nur die native Integration mit zwei CRMs: <strong>Salesforce</strong> und <strong>Microsoft Dynamics</strong>.</td> 
+   <td colspan="1">Ein System, mit dem Unternehmen Informationen zu ihren Kunden/potenziellen Kunden verwalten können. Marketo ermöglicht nur die native Integration mit zwei CRMs: <strong>Salesforce</strong> und <strong>Microsoft Dynamics</strong>.</td> 
   </tr> 
  </tbody> 
 </table>
@@ -230,62 +230,62 @@ Im Folgenden finden Sie Definitionen für viele der Begriffe, auf die Sie bei de
     <div> 
      <p><strong> Datenbank</strong></p> 
     </div></td> 
-   <td>Einer der Kernbereiche von <strong>Adobe Marketo Engage</strong>. In der Datenbank befinden sich all Ihre <strong>person</strong>-Datensätze.</td> 
+   <td>Einer der Kernabschnitte von <strong>Adobe Marketo Engage</strong>. In der Datenbank befinden sich alle Ihre <strong>Person</strong>-Datensätze.</td> 
   </tr> 
   <tr> 
-   <td><strong>Duplizieren</strong></td> 
-   <td>Wird auch als Deduplizierung bezeichnet. Verfahren zur Identifizierung und Konsolidierung von Informationen (z. B. Personen), um Doppelarbeit zu vermeiden. Marketo dedupliziert beispielsweise automatisch, wenn neue Personen in Ihre Instanz eintreten.</td> 
+   <td><strong>Deduplizierung</strong></td> 
+   <td>Wird auch als Deduplizierung bezeichnet. Verfahren zur Identifizierung und Konsolidierung von Informationen (z. B. Personen), um Duplizierungen zu vermeiden. Beispielsweise dedupliziert Marketo automatisch, wenn neue Personen in Ihre Instanz eintreten.</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
      <p><strong> Standardprogramm</strong></p> 
     </div></td> 
-   <td colspan="1">Ein Programmtyp in Marketo. Ein generisches Programm, das Sie verwenden, wenn ein E-Mail-, Ereignis- oder Interaktionsprogramm nicht relevant ist. <br></td> 
+   <td colspan="1">Ein Programmtyp in Marketo. Ein generisches Programm, das Sie verwenden, wenn eine E-Mail, ein Ereignis oder ein Interaktionsprogramm nicht relevant ist. <br></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Strategie und Definition</strong></td> 
-   <td colspan="1">Die Fähigkeit einer E-Mail-Nachricht, den Posteingang des Empfängers zu erreichen, was durch <strong>Spam</strong> und clientseitige Filter beeinträchtigt werden kann. Im Unterschied zu "Zugestellt", der nur angibt, dass die E-Mail an den Empfänger-Server gesendet wurde.</td> 
+   <td colspan="1">Die Möglichkeit einer E-Mail-Nachricht, in den Posteingang des vorgesehenen Empfängers zu gelangen, was durch (Spam<strong>- </strong> Client-seitige Filter beeinträchtigt werden kann. Anders als „Zugestellt“, was nur anzeigt, dass die E-Mail an den Empfänger-Server weitergeleitet wurde.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Nachfragesteigerung</strong></td> 
-   <td colspan="1">Der Akt der Verwendung von zielgerichtetem Marketing mit der Absicht, die Nachfrage nach Produkten oder Dienstleistungen Ihres Unternehmens zu erhöhen.</td> 
+   <td colspan="1">Der Akt des gezielten Marketings mit der Absicht, die Nachfrage nach den Produkten oder Dienstleistungen Ihres Unternehmens zu steigern.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Demografische Bewertung</strong></td> 
-   <td colspan="1">Ein Punktwert, der basierend auf bestimmten Attributen der Person zugewiesen wird, wie z. B. der Berufsbezeichnung, der Umsatzgröße oder der Zielbranche. Wird normalerweise verwendet, um die Eignung einer Person für Ihr Produkt oder Unternehmen zu messen. </td> 
+   <td colspan="1">Ein Punktwert, der basierend auf bestimmten Attributen der Person zugewiesen wird, wie z. B. Berufsbezeichnung, Umsatzgröße oder Zielbranche. Wird in der Regel verwendet, um die Passform einer Person zu Ihrem Produkt oder Unternehmen zu messen. </td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Design-Studio</strong></td> 
-   <td colspan="1">Einer der Kernbereiche von <strong>Adobe Marketo Engage</strong>. In Design Studio befinden sich Ihre <strong>Assets</strong>, z. B.: <strong>Landingpages</strong>, Formulare, <strong>E-Mails</strong>, <strong>Snippets</strong> und Bilder/Dateien.</td> 
+   <td colspan="1">Einer der Kernabschnitte von <strong>Adobe Marketo Engage</strong>. Design Studio ist die Heimat Ihrer <strong>Assets</strong>, z. B.: <strong>Landingpages</strong>, Formulare <strong>E-</strong>, <strong>Snippets</strong> und Bilder/Dateien.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Dokumente</strong></td> 
-   <td colspan="1">Kurz für Dokumente: Dokumente sind Hilfemeldungen für Kunden, um das Produkt besser zu verstehen. Marketo verfügt über verschiedene Dokumenttypen: Produktdokumentation (die Site, auf der Sie sich gerade befinden), Dokumente für <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home" rel="nofollow">Entwickler</a> und Dokumente für <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">Support</a>.</td> 
+   <td colspan="1">Kurzfassung für Dokumente: Dokumente sind Hilfeartikel für Kundinnen und Kunden, um das Produkt besser zu verstehen. Marketo verfügt über verschiedene Dokumenttypen: Produktdokumente (die Site, auf der Sie sich derzeit befinden), <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home" rel="nofollow">Entwickler</a> Dokumente und <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">Support</a> Dokumente.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Domänenbasierte Nachrichtenauthentifizierung, Berichterstellung und Konformität (DMARC)</strong></td> 
-   <td colspan="1">Eine DNS-basierte E-Mail-Sicherheitsrichtlinie, die den Betrieb und die Interpretation von <strong>SPF</strong> und <strong>DKIM</strong> standardisiert, sodass Postfachanbieter überprüfen können, ob E-Mails, die behaupten, von einer Domäne stammen, aus gültigen Quellen für diese Domäne stammen. Außerdem können Absender angeben, wie E-Mails, die bei der Validierung fehlschlagen, behandelt werden sollen.</td> 
+   <td colspan="1"><strong>Domain-basierte Nachrichtenauthentifizierung, Reporting und Konformität (DMARC)</strong></td> 
+   <td colspan="1">Eine DNS-basierte E-Mail-Sicherheitsrichtlinie, die den Betrieb und die Interpretation von <strong>SPF</strong> und <strong>DKIM</strong> standardisiert, sodass Postfachanbieter überprüfen können, ob E-Mails, die behaupten, von einer Domain zu sein, von gültigen Quellen für diese Domain stammen. Darüber hinaus können Absender angeben, wie E-Mails, bei denen die Validierung fehlschlägt, behandelt werden sollen.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md" rel="nofollow">Domain Keys Identified Mail</a> (DKIM)</strong></td> 
-   <td colspan="1">Ein Authentifizierungsmechanismus, der die Übertragungsdomäne sichert und es Absendern ermöglicht, den Domänennamen in der Absenderadresse einer bestimmten E-Mail-Nachricht zuzuordnen. Dadurch kann der Empfänger wissen, dass die E-Mail vom Besitzer der Domain rechtmäßig gesendet wurde. Ein Absender signiert die E-Mail mit einer digitalen Signatur im Nachrichtenkopf. Der Empfänger kann diese Signatur mithilfe eines öffentlichen Schlüssels entschlüsseln, der vom Eigentümer der Domain im DNS veröffentlicht wurde, um sicherzustellen, dass die E-Mail vom Eigentümer der Domain rechtmäßig gesendet wurde.</td> 
+   <td colspan="1">Ein Authentifizierungsmechanismus, der die Versand-Domain sichert und es Absendern ermöglicht, den Domain-Namen in der Absenderadresse mit einer bestimmten E-Mail-Nachricht zu verknüpfen. Dadurch weiß der Empfänger, dass die E-Mail vom Eigentümer der Domain rechtmäßig gesendet wurde. Ein Absender signiert die E-Mail mit einer digitalen Signatur in der Kopfzeile der Nachricht. Der Empfänger kann diese Signatur mithilfe eines öffentlichen Schlüssels entschlüsseln, der vom Eigentümer der Domain im DNS veröffentlicht wurde, um sicherzustellen, dass die E-Mail vom Eigentümer der Domain rechtmäßig gesendet wurde.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Entwurf</strong></td> 
-   <td colspan="1"><p>Eine <strong>E-Mail</strong> oder <strong>Landingpage</strong>, die noch nicht <strong>genehmigt</strong> wurde. Entwürfe können erst dann öffentlich angezeigt werden, wenn sie genehmigt wurden. Sie können einen Entwurf als Test-E-Mail (Beispiel) senden, er zeichnet jedoch keine Analysen auf. <br></p></td> 
+   <td colspan="1"><p>Eine <strong>E</strong>Mail oder <strong>Landingpage</strong> die noch nicht <strong>genehmigt</strong> wurde. Entwürfe können erst nach ihrer Genehmigung öffentlich eingesehen werden. Sie können einen Entwurf als Test-E-Mail (Beispiel) senden, es werden jedoch keine Analysen aufgezeichnet. <br></p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Drip Campaign</strong></td> 
-   <td colspan="1"><span>Eine direkte Marketing-Methode, bei der Kunden/potenzielle Kunden über einen langen Zeitraum eine Reihe von Korrespondenz erhalten.</span></td> 
+   <td colspan="1"><strong>Dropdown-Kampagne</strong></td> 
+   <td colspan="1"><span>Eine Direkt-Marketing-Methode, bei der Kunden/potenziellen Kunden über einen langen Zeitraum eine Korrespondenzserie gesendet wird.</span></td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/deliverability/durable-unsubscribe.md" rel="nofollow"><strong>Dauerhafte Abmeldung</strong></a></td> 
-   <td colspan="1">Ein Master-Abmeldestatus, der sicherstellt, dass ein <strong>unsubscribed</strong> -Benutzer entfernt und neu erstellt wird oder ein neuer Datensatz mit einer vorhandenen abgemeldeten E-Mail-Adresse erstellt wird, dieser Datensatz abgemeldet bleibt.</td> 
+   <td colspan="1">Ein Master-Abmeldestatus, der sicherstellt, dass ein <strong>abgemeldete</strong> Person entfernt und neu erstellt wird oder ein neuer Datensatz mit einer vorhandenen abgemeldeten E-Mail-Adresse erstellt wird, dieser Datensatz weiterhin abgemeldet bleibt.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md" rel="nofollow">Dynamischer Inhalt</a></strong></td> 
-   <td colspan="1">Inhalt (z. B. Bilder, Snippets, Text usw.) , die anhand der von Ihnen angegebenen Kriterien in eine <strong>E-Mail</strong> oder eine <strong>Landingpage</strong> gefüllt wird, sodass Sie das Erlebnis für den Leser personalisieren können. </td> 
+   <td colspan="1">Inhalte (z. B. Bilder, Snippets, Text usw.), die in eine <strong>E-Mail</strong> oder <strong>Landingpage</strong> basierend auf von Ihnen angegebenen Kriterien eingefügt werden, sodass Sie das Erlebnis für den Leser personalisieren können. </td> 
   </tr> 
  </tbody> 
 </table>
@@ -300,52 +300,52 @@ Im Folgenden finden Sie Definitionen für viele der Begriffe, auf die Sie bei de
  <tbody> 
   <tr> 
    <td colspan="1"><strong>E-Mail</strong></td> 
-   <td colspan="1">In Marketo ist eines der <strong>Assets</strong> verfügbar, das für die Kommunikation mit Ihren Kunden verfügbar ist. E-Mails können HTML (Grafiken, benutzerdefinierte Schriftart usw.) oder Nur Text (Nur-Text-Nachrichten ohne spezielle Formatierung) sein. Nur HTML-E-Mails können "Öffnungen"aufzeichnen.</td> 
+   <td colspan="1">In Marketo ist eines der <strong>Assets</strong> verfügbar, um mit Ihren Kunden zu kommunizieren. Bei E-Mails kann es sich um HTML (Grafiken, benutzerdefinierte Schriftarten usw.) oder Nur Text (Nur-Text-Nachrichten ohne besondere Formatierung) handeln. Nur HTML-E-Mails können „Öffnungen“ aufzeichnen.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>E-Mail-Adresse ungültig</strong></td> 
-   <td colspan="1">Ein Standardfeld in Marketo, das angibt, ob die E-Mail-Adresse einer Person in Ihrer <strong>Datenbank</strong> zugestellt werden kann.</td> 
+   <td colspan="1">Ein Standardfeld in Marketo, das angibt, ob die E-Mail-Adresse einer Person in Ihrer <strong>Datenbank</strong> zustellbar ist.</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
      <p><a href="/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md" rel="nofollow"><strong> E-Mail-Programm</strong></a></p> 
     </div></td> 
-   <td colspan="1">Ein Programmtyp in Marketo. E-Mail-Programme werden für einmalige E-Mail-Sendungen verwendet. Sie können <strong><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md" rel="nofollow">A/B-Tests</a></strong> verwenden und Ihre E-Mail-Ergebnisse verfolgen.<br></td> 
+   <td colspan="1">Ein Programmtyp in Marketo. E-Mail-Programme werden für einmalige E-Mail-Sendungen verwendet. Sie können <strong><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md" rel="nofollow">A/B-Tests </a></strong> Ihre E-Mail-Ergebnisse verfolgen.<br></td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md#email-suspended" rel="nofollow"><strong>E-Mail angehalten</strong></a></td> 
-   <td colspan="1">Ein Status, der eine Person daran hindert, E-Mails 24 Stunden lang nach dem Auftreten eines <strong>Hardbounce</strong> zu empfangen. Nach 24 Stunden wird die Person wieder mailbar. </td> 
+   <td colspan="1">Ein Status, der eine Person für 24 Stunden daran hindert, E-Mails zu erhalten, nachdem ein <strong>Hardbounce</strong> aufgetreten ist. Nach 24 Stunden wird die Person wieder versandfähig. </td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
      <p><strong><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md" rel="nofollow">Engagementprogramm</a></strong></p> 
     </div></td> 
-   <td colspan="1">Ein Programmtyp in Marketo. Mithilfe von Interaktionsprogrammen können Sie neue Menschen auf den Markt bringen, indem Sie systematisch Inhalte bereitstellen (auch als Pflegeprogramm bezeichnet).<br></td> 
+   <td colspan="1">Ein Programmtyp in Marketo. Interaktionsprogramme ermöglichen es Ihnen, neue Personen zu vermarkten, indem Sie Inhalte systematisch bereitstellen (auch als „Nurture-Programm“ bezeichnet).<br></td> 
   </tr> 
   <tr> 
    <td><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md" rel="nofollow"><strong>Engagement-Bewertung</strong></a></td> 
-   <td>Bewertung basierend auf einem proprietären Algorithmus, der Folgendes berücksichtigt: interaktives Verhalten (<strong>opens</strong>, <strong>clicks</strong>, Programmerfolg) und disloziertes Verhalten (unsubscribes).</td> 
+   <td>Bewerten auf der Grundlage eines proprietären Algorithmus, der Folgendes berücksichtigt: Interaktionsverhalten (<strong>Öffnungen</strong>, <strong>Klicks</strong>, Programmerfolg) und Interaktionsverhalten (Abmeldungen).</td> 
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md" rel="nofollow">Veranstaltung</a></strong></td> 
-   <td>Etwas, das auftritt, damit Sie mit Ihren Kunden und potenziellen Kunden kommunizieren können. Offline-Ereignisse bestehen in der Regel aus Sammlungen oder Messen, und Online-Ereignisse sind in der Regel <strong>Webinare</strong>.</td> 
+   <td>Etwas, das passiert, damit Sie mit Ihren Kunden und potenziellen Kunden kommunizieren können. Offline-Events bestehen in der Regel aus Treffen oder Messen und Online-Events sind in der Regel <strong>Webinare</strong>.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md" rel="nofollow">Veranstaltungspartner</a></strong></td> 
-   <td colspan="1">Eine Drittanbieterintegration, die die Automatisierung Ihrer Online-Ereignisse unterstützt.</td> 
+   <td colspan="1">Eine Integration von Drittanbietern, die bei der Automatisierung Ihrer Online-Ereignisse hilft.</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
      <p><strong><a href="/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md" rel="nofollow">Veranstaltungsprogramm</a></strong></p> 
     </div></td> 
-   <td colspan="1">Ein Programmtyp in Marketo. Mit Veranstaltungsprogrammen können Sie Ihre <strong>Ereignisse</strong> sowohl online als auch offline automatisieren (z. B. Webinare, Besprechungen, Messen usw.).  </td> 
+   <td colspan="1">Ein Programmtyp in Marketo. Veranstaltungsprogramme werden verwendet, um Ihre <strong>Ereignisse</strong> sowohl online als auch offline zu automatisieren (z.B. Webinare, Meetups, Messen usw.).  </td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md" rel="nofollow"><strong>Erschöpft</strong></a></td> 
-   <td colspan="1">Wenn eine Person alle Inhalte in einem Interaktionsstream erhalten hat. Personen, die als erschöpft markiert sind, bleiben als solche bestehen, bis zusätzliche <strong>Inhalte</strong> hinzugefügt werden.</td> 
+   <td colspan="1">Wenn eine Person alle Inhalte in einem Interaktions-Stream erhalten hat. Personen, die als erschöpft gekennzeichnet sind, bleiben als solche, bis zusätzliche <strong>Inhalte</strong> hinzugefügt werden.</td> 
   </tr> 
  </tbody> 
 </table>
@@ -359,20 +359,20 @@ Im Folgenden finden Sie Definitionen für viele der Begriffe, auf die Sie bei de
  </colgroup> 
  <tbody> 
   <tr> 
-   <td colspan="1"><strong>Feedback Loop</strong></td> 
+   <td colspan="1"><strong>Rückkopplungsschleife</strong></td> 
    <td colspan="1">Wenn der ISP Beschwerden von Empfängern an die Organisation weiterleitet, die die E-Mail gesendet hat.</td> 
   </tr> 
   <tr> 
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md" rel="nofollow"><strong>Filter</strong></a></td> 
-   <td>Ein in <strong>Smart-Listen</strong> verwendetes Tool, mit dem Sie Ihre Zielgruppe einschränken können (z. B. alle in Ihrer Datenbank in Kalifornien lebenden Benutzer). Filter können sowohl in <strong>Batch</strong>- als auch in <strong>Trigger-Kampagnen</strong> verwendet werden.</td> 
+   <td>Ein in <strong>Smart Lists“ verwendetes Tool</strong> mit dem Sie Ihre Zielgruppe eingrenzen können (z. B. alle Personen in Ihrer Datenbank, die in Kalifornien leben). Filter können sowohl in Batch- als <strong> in {</strong>}Trigger-Kampagnen</strong> verwendet werden.<strong></td> 
   </tr> 
   <tr> 
-   <td><strong>Flow</strong></td> 
-   <td><p>Der Bereich einer <strong>Smart-Kampagne</strong> , der bestimmt, was mit den Personen geschieht, die Sie anhand der in der <strong>Smart-Liste</strong> festgelegten Kriterien ausgewählt haben. Der Fluss besteht aus einem oder mehreren <strong>Flussschritten</strong>.</p></td> 
+   <td><strong>Fluss</strong></td> 
+   <td><p>Der Bereich einer <strong>intelligenten Kampagne</strong> der anhand der in der „intelligenten Liste“ festgelegten Kriterien bestimmt, was mit <strong> ausgewählten Personen </strong>. Der Fluss besteht aus einem oder mehreren <strong>Flussschritten</strong>.</p></td> 
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md" rel="nofollow">Flow-Schritt</a></strong></td> 
-   <td>Wird auch als Fluss-Aktion bezeichnet: eine Aktion, die für die gewählte Person(en) stattfindet (entweder als Teil einer <strong>intelligenten Kampagne</strong>, einer Einzelstrom-Aktion aus einer <strong><a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list.md" rel="nofollow">intelligenten Liste</a></strong> oder einer Einzelstrom-Aktion für eine Person).</td> 
+   <td>Auch als Flussaktion bezeichnet: eine Aktion, die für die von Ihnen ausgewählte Person/die ausgewählten Personen stattfindet (entweder im Rahmen einer <strong>Smart-Kampagne</strong> einer einzelnen Flussaktion aus einer <strong><a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list.md" rel="nofollow">Smart-Liste</a></strong> oder einer einzelnen Flussaktion für eine Person).</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Freiform-Landingpage</strong></td> 
@@ -390,12 +390,12 @@ Im Folgenden finden Sie Definitionen für viele der Begriffe, auf die Sie bei de
  </colgroup> 
  <tbody> 
   <tr> 
-   <td><a href="/help/marketo/product-docs/marketo-sales-connect/people/sales-connect-and-gdpr-compliance.md" rel="nofollow"><strong>Die Datenschutz-Grundverordnung (DSGVO)</strong></a></td> 
-   <td><p>Die am 25. Mai 2018 in Kraft getretenen Rechtsvorschriften der Europäischen Union zielten darauf ab, EU-Bürgern mehr Kontrolle über ihre personenbezogenen Daten zu geben.</p></td> 
+   <td><a href="/help/marketo/product-docs/marketo-sales-connect/people/sales-connect-and-gdpr-compliance.md" rel="nofollow"><strong>Datenschutz-Grundverordnung (DSGVO)</strong></a></td> 
+   <td><p>EU-Rechtsvorschriften, die am 25. Mai 2018 in Kraft getreten sind, sollen EU-Bürgern mehr Kontrolle über ihre personenbezogenen Daten geben.</p></td> 
   </tr> 
   <tr> 
    <td><strong>Globale Assets</strong></td> 
-   <td>Assets wurde in <strong>Design Studio</strong> für die Verwendung in <strong>Programmen</strong> in Ihrer Marketo-Instanz erstellt. </td> 
+   <td>Assets wurde in <strong>Design Studio</strong> zur Verwendung in <strong>Programmen</strong> in Ihrer Marketo-Instanz erstellt. </td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Geführte Landingpage</strong></td> 
@@ -419,7 +419,7 @@ Im Folgenden finden Sie Definitionen für viele der Begriffe, auf die Sie bei de
  </tbody> 
 </table>
 
-## I {#i}
+## Ich {#i}
 
 <table> 
  <colgroup> 
@@ -429,7 +429,7 @@ Im Folgenden finden Sie Definitionen für viele der Begriffe, auf die Sie bei de
  <tbody> 
   <tr> 
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md" rel="nofollow"><strong>Interessanter Moment</strong></a></td> 
-   <td><p>In <strong>Marketo Sales Insight</strong> ein Vorkommen, das Sie für besonders relevant halten (z. B. wenn ein Besucher eine bestimmte Seite auf Ihrer Site besucht, auf einen bestimmten Link in einer E-Mail klickt usw.) dass Sie möchten, dass Ihr Sales-Team sich dessen bewusst ist.</p></td> 
+   <td><p>In <strong>Marketo Sales Insight</strong> ein Ereignis, das Sie als besonders relevant erachten (z. B. wenn jemand eine bestimmte Seite auf Ihrer Site besucht, auf einen bestimmten Link in einer E-Mail klickt usw.) und das Ihr Vertriebs-Team kennen sollte.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -444,7 +444,7 @@ Im Folgenden finden Sie Definitionen für viele der Begriffe, auf die Sie bei de
  <tbody> 
   <tr> 
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md" rel="nofollow"><strong>Bekannte Person</strong></a></td> 
-   <td><p>Personendaten in der Marketo <strong>datenbank</strong> gelten als Personendaten. Es gibt verschiedene Möglichkeiten, wie jemand in Ihre Datenbank eintreten kann: CRM-Synchronisation, Ausfüllen eines Formulars, Listenimport/ manueller Eintrag, programmatische (Rest-API/Partner-Integrationen) und mehr. Webbesucher werden zunächst über das Marketo-Webtracking <strong>Munchkin</strong> mit Cookies </strong> (und anonym) versehen und anschließend dem entsprechenden Datensatz der bekannten Person zugeordnet, wenn eine identifizierbare Aktion auftritt (z. B. durch Klicken auf einen verfolgten Link in einer Marketo-E-Mail, Ausfüllen eines Formulars mit ihrer E-Mail-Adresse oder manuelles Zuordnen über die Marketo-Lead-APIs in beiden <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking#known-and-anonymous-leads">Munchkin</a>) und <a href="https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/associateLeadUsingPOST">Rest-API</a><strong></p></td> 
+   <td><p>Personendaten in der Marketo <strong>Datenbank</strong> werden als „Personendaten“ betrachtet. Es gibt verschiedene Möglichkeiten, wie jemand in Ihre Datenbank eintreten kann, darunter: CRM-Synchronisierung, Ausfüllen eines Formulars, Listen-Import/manuelle Eingabe, programmgesteuerte (REST-API-/Partnerintegrationen) und mehr. Web-Besuchende werden zunächst <strong>Cookies</strong> (und anonym) über das Webtracking <strong>Munchkin</strong> von Marketo gespeichert und dann dem entsprechenden Datensatz für bekannte Personen zugeordnet, wenn identifizierbare Aktionen auftreten (z. B. Klicken auf einen verfolgten Link in einer Marketo-E-Mail, Ausfüllen eines Formulars mit ihrer E-Mail-Adresse oder manuelle Zuordnung über die Lead-APIs von Marketo Associate sowohl in der <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking#known-and-anonymous-leads">Munchkin</a>- als auch in der <a href="https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/associateLeadUsingPOST">Rest-API</a></p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -462,30 +462,30 @@ Im Folgenden finden Sie Definitionen für viele der Begriffe, auf die Sie bei de
     <div> 
      <p><strong>Landingpage</strong></p> 
     </div></td> 
-   <td>Eine von Marketo gehostete Seite, auf der Sie <strong>content</strong> anzeigen und Besucher verfolgen können. Es gibt zwei verschiedene Typen: Freiform und Guided. Mit den Einstiegsseiten mit Freiform </a> können Sie beliebige Inhalte an beliebigen Stellen per Drag-and-Drop verschieben. <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md#free-form-pages" rel="nofollow"> <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md#guided-pages" rel="nofollow">Geführte Landingpages</a> sind strenger, wobei ein vordefiniertes Layout/eine vordefinierte Struktur durch die <strong>Vorlage</strong> bestimmt wird.</td> 
+   <td>Eine von Marketo gehostete Seite, auf der Sie <strong>Inhalte“ anzeigen </strong> Besucher verfolgen können. Es gibt zwei verschiedene Typen: Freiform und Geführt. <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md#free-form-pages" rel="nofollow">Freiform-Landingpages</a> ermöglichen es Ihnen, beliebige Inhalte per Drag-and-Drop an eine beliebige Stelle zu ziehen. <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md#guided-pages" rel="nofollow">Geführte Landingpages</a> sind strenger, wobei ein vordefiniertes Layout/eine vordefinierte Struktur durch die (Vorlage<strong> bestimmt </strong>.</td> 
   </tr> 
   <tr> 
    <td><strong><a href="https://launchpoint.marketo.com/" rel="nofollow">LaunchPoint</a></strong></td> 
-   <td>Zuhause zu erstklassigen Marketo-integrierten Lösungen mit Hunderten von Technologiepartnern und Partnern für digitale Dienstleistungen.</td> 
+   <td>Heimat erstklassiger Marketo-integrierter Lösungen mit Hunderten von Technologie- und Digital-Service-Partnern.</td> 
   </tr> 
   <tr> 
    <td><strong>Lead</strong></td> 
-   <td>In <strong>Adobe Marketo Engage</strong> ist "Lead"der vorherige Begriff (ersetzt durch <strong>person</strong>), der zur Beschreibung einer Person in Ihrer Marketo <strong>datenbank</strong> verwendet wurde, mit der Sie über Ihre Marketingkampagnen interagieren. In Ihrem <strong>CRM</strong> kann ein Lead ein anderes Konzept darstellen (d. h. eine Person, die mit einer <strong>Opportunity</strong> verknüpft ist), unabhängig von der Funktionalität von Marketo.</td> 
+   <td>In <strong>Adobe Marketo Engage</strong> ist Lead der vorherige Begriff (ersetzt durch <strong>person</strong>), der verwendet wird, um eine Person in Ihrer Marketo-<strong>Datenbank</strong> zu beschreiben, mit der Sie über Ihre Marketing-Kampagnen interagieren. In Ihrem <strong>CRM</strong> kann ein Lead ein anderes Konzept (d. h. eine Person, die mit einer Opportunity verbunden ist<strong> darstellen, </strong> von der Funktionalität von Marketo.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Lead-Datenbank</strong></td> 
-   <td colspan="1">Vorheriger Name für Datenbank (siehe <a href="#d"><strong>Datenbank</strong></a>).</td> 
+   <td colspan="1">Vorheriger Name für die Datenbank (siehe <a href="#d"><strong>Datenbank</strong></a>).</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
      <p><strong> Liste</strong></p> 
     </div></td> 
-   <td colspan="1">Eine Sammlung von Personen. In Marketo gibt es Smart-Listen und statische Listen. Eine <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" rel="nofollow">Smart-Liste</a> ist eine dynamische Liste von Personen, die sich ständig ändern können, da sie auf von Ihnen definierten Filtern basiert (z. B. jedem in Ihrer Datenbank, der in Kalifornien lebt). Wenn neue Personen die Kriterien erfüllen (oder bestehende Personen die Kriterien nicht mehr erfüllen), ändert sich die Liste. Eine <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" rel="nofollow">statische Liste</a> ist nun statisch. Es ändert sich nur, wenn Sie manuell jemanden hinzufügen/löschen.</td> 
+   <td colspan="1">Eine Ansammlung von Menschen. In Marketo gibt es Smart- und Static-Listen. Eine <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" rel="nofollow">Smart List</a> ist eine dynamische Liste von Personen, die sich ständig ändern können, da sie auf von Ihnen definierten Filtern basiert (z. B. alle Personen in Ihrer Datenbank, die in Kalifornien leben). Wenn sich neue Personen für die Kriterien qualifizieren (oder vorhandene Personen nicht mehr qualifizieren), ändert sich die Liste. Eine <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" rel="nofollow">statische Liste</a> ist nun mal statisch. Es ändert sich nur, wenn Sie jemanden manuell hinzufügen/löschen.</td> 
   </tr> 
   <tr> 
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md" rel="nofollow"><strong>Lokaler Assets</strong></a></td> 
-   <td><strong>Assets</strong> wird in einem bestimmten <strong>Programm</strong> verwendet.</td> 
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md" rel="nofollow"><strong>Lokale Assets</strong></a></td> 
+   <td><strong>Assets</strong> wird innerhalb eines bestimmten <strong>Programms</strong> verwendet.</td> 
   </tr> 
  </tbody> 
 </table>
@@ -500,39 +500,39 @@ Im Folgenden finden Sie Definitionen für viele der Begriffe, auf die Sie bei de
  <tbody> 
   <tr> 
    <td><strong>Marketingaktivitäten</strong></td> 
-   <td><p>Einer der Kernbereiche von Adobe Marketo Engage. Hier erfolgt die Orchestrierung der <strong>Kampagne</strong>. Alle Ihre <strong>Programme</strong>, Kampagnen und <strong>Kampagnenordner</strong> (sowie ihre <strong>lokalen Assets</strong>) sind hier verfügbar.</p></td> 
+   <td><p>Einer der Kernbereiche von Adobe Marketo Engage. Hier erfolgt die Orchestrierung <strong>Kampagne</strong>. Alle Ihre <strong>Programme</strong> Kampagnen und <strong>Kampagnenordner</strong> (sowie deren <strong>lokale Assets</strong>) leben hier.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="https://www.marketo.com/marketing-automation/" rel="nofollow"><strong>Marketing-Automatisierung</strong></a></td> 
-   <td colspan="1">Eine Technologiekategorie, die es Unternehmen ermöglicht, Marketing-Aufgaben und -Workflows zu optimieren, zu automatisieren und zu messen, sodass sie die betriebliche Effizienz steigern und Umsätze schneller steigern können.</td> 
+   <td colspan="1">Eine Technologiekategorie, mit der Unternehmen Marketing-Aufgaben und -Workflows optimieren, automatisieren und messen können, um die betriebliche Effizienz zu steigern und den Umsatz schneller zu steigern.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Marketing Qualified Lead (MQL)</strong></td> 
-   <td colspan="1">Nachdem Sie ein Segment Ihrer Zielgruppe gefördert haben, können einige Personen zu Marketing-qualifizierten Leads werden. Das bedeutet, dass sie das Verhalten und die Merkmale gezeigt haben, die Ihren Erfolgskriterien entsprechen, damit sie zur Nachverfolgung an Ihre Vertriebsorganisation weitergeleitet werden können.</td> 
+   <td colspan="1"><strong>Marketing-qualifizierter Lead (MQL)</strong></td> 
+   <td colspan="1">Nachdem Sie ein Segment Ihrer Zielgruppe gepflegt haben, können einige Personen zu Marketing-qualifizierten Leads werden, d. h. sie haben das Verhalten und die Merkmale gezeigt, die Ihren Erfolgskriterien entsprechen, um zur Nachbereitung an Ihre Vertriebsorganisation weitergeleitet zu werden.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md#marketing-suspended" rel="nofollow"><strong>Marketing eingestellt</strong></a></td> 
-   <td colspan="1">Dieses Feld wird vom <strong>Benutzer</strong> manuell festgelegt, damit eine Person in ihrer Marketo <strong>datenbank</strong> vorübergehend unMailbar wird.</td> 
+   <td colspan="1">Dieses Feld wird vom <strong>Benutzer) manuell festgelegt, </strong> eine Person in ihrer Marketo-<strong>Datenbank</strong> vorübergehend unmailable zu machen.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Marketo Lead Management (MLM)</strong></td> 
-   <td colspan="1">Kolloquialer Begriff, der zur Beschreibung der klassischen Benutzeroberfläche der Marketo-Hauptanwendung verwendet wird.</td> 
+   <td colspan="1">Umgangssprachlicher Begriff zur Beschreibung der klassischen Hauptbenutzeroberfläche von Marketo.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Marketo Performance Insights (MPI)</strong></td> 
-   <td colspan="1">(siehe <strong><a href="#p">Leistungseinblicke</a></strong>)</td> 
+   <td colspan="1">(siehe <strong><a href="#p">Performance Insights</a></strong>)</td> 
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md" rel="nofollow">Marketo Sales Connect</a> (MSC)</strong></td> 
-   <td>Ein zusätzliches, facettenreiches Verkaufstool, mit dem Marketing-Experten mit potenziellen Kunden interagieren und die Performance verfolgen können.</td> 
+   <td>Ein zusätzliches, facettenreiches Verkaufstool, das Marketing-Experten dabei hilft, mit potenziellen Kunden zu interagieren und die Leistung zu verfolgen.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Marketo Sales Insight (MSI)</strong></td> 
-   <td colspan="1">Eine Add-on-Funktion, mit der Marketing-Experten ihren Verkäufern Marketing-Einblicke aus ihrem <strong>CRM</strong> bieten können.</td> 
+   <td colspan="1">Eine Add-on-Funktion, mit der Marketing-Fachleute ihre Verkäufer mit Marketing-Einblicken aus ihrem <strong>CRM) </strong> können.</td> 
   </tr>
   <tr> 
    <td><strong>Microsoft Dynamics</strong></td> 
-   <td>Wird auch als MSD bezeichnet. Eines der beiden CRMs Marketo verfügt über eine native Integration mit (siehe <a href="#c"><strong>CRM</strong></a>).</td> 
+   <td>Auch als MSD bekannt. Eines der beiden CRMs, mit denen Marketo integriert ist, ist nativ (siehe <a href="#c"><strong>CRM</strong></a>).</td> 
   </tr> 
   <tr> 
    <td><strong><a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking" rel="nofollow">Munchkin</a></strong></td> 
@@ -540,11 +540,11 @@ Im Folgenden finden Sie Definitionen für viele der Begriffe, auf die Sie bei de
   </tr> 
   <tr> 
    <td colspan="1"><strong>Mein Marketo</strong></td> 
-   <td colspan="1">Einer der Standardabschnitte von Adobe Marketo Engage. fungiert als Marketo-Homepage, auf der Kacheln für alle Bereiche von Marketo angezeigt werden, auf die Sie Zugriff haben.</td> 
+   <td colspan="1">Einer der Standardabschnitte von Adobe Marketo Engage. Fungiert als Marketo-Homepage und zeigt Kacheln für alle Bereiche von Marketo an, auf die Sie Zugriff haben.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md" rel="nofollow"><strong>Meine Token</strong></a></td> 
-   <td colspan="1">Benutzerdefinierte Variablen, die jeder erstellen kann. Sie werden <a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md" rel="nofollow">erstellt</a>, entweder in den <strong>Kampagnenordnern</strong> oder in den <strong>Programmen</strong>.</td> 
+   <td colspan="1">Benutzerdefinierte Variablen, die jeder erstellen kann. Sie werden <a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md" rel="nofollow">erstellt</a> entweder <strong>Kampagnenordner</strong> oder <strong>Programme</strong>.</td> 
   </tr> 
  </tbody> 
 </table>
@@ -559,7 +559,7 @@ Im Folgenden finden Sie Definitionen für viele der Begriffe, auf die Sie bei de
  <tbody> 
   <tr> 
    <td><strong>Genanntes Konto</strong></td> 
-   <td><p>In <strong>TAM</strong> ist ein Konto, das der Benutzer ermittelt hat, ein Zielkonto, das er verfolgen möchte.</p></td> 
+   <td><p>In <strong>TAM</strong> ist ein Konto, das der Benutzer als Zielkonto bestimmt hat, das er verfolgen möchte.</p></td> 
   </tr> 
   <tr> 
    <td><strong>Nurturing-Programm</strong></td> 
@@ -578,23 +578,23 @@ Im Folgenden finden Sie Definitionen für viele der Begriffe, auf die Sie bei de
  <tbody> 
   <tr> 
    <td><strong>Geöffnet</strong></td> 
-   <td><p>Ein geöffnetes Element registriert sich, wenn Bilder in eine <strong>E-Mail</strong> heruntergeladen werden. Auch wenn Sie kein Bild angeben, fügt Marketo standardmäßig ein einzelnes Tracking-Pixel in alle HTML-E-Mails ein. Nur Text-E-Mails können nicht registriert und geöffnet werden.</p></td> 
+   <td><p>Ein geöffnetes registriert beim Herunterladen von Bildern in eine <strong>E-Mail</strong>. Auch wenn Sie kein Bild einbeziehen, fügt Marketo standardmäßig ein einziges Tracking-Pixel in alle HTML-E-Mails ein. Nur-Text-E-Mails können eine Öffnung nicht registrieren.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" rel="nofollow">Betriebliche E-Mail</a></strong></td> 
-   <td colspan="1"> Eine E-Mail, die den Status <strong>Abgemeldet</strong> und <strong>Marketing ausgesetzt</strong> ignoriert. Dient zur Verwendung für kritische oder automatische Antwort-E-Mails. Nicht für das Marketing bestimmt. Operative E-Mails werden nicht an Personen gesendet, die den Status <strong>Auf die Blockierungsliste gesetzt</strong> oder <strong>E-Mail ungültig</strong> haben. <br></td> 
+   <td colspan="1"> Eine E-Mail, <strong> den Status </strong>Abgemeldet“ und <strong>Marketing ausgesetzt</strong> ignoriert. Für kritische oder automatische Antwort-E-Mails vorgesehen. Nicht für Marketing vorgesehen. Operative E-Mails dürfen nicht an Personen mit dem Status <strong>Auf die Blockierungsliste gesetzt </strong> oder <strong>E-Mail ungültig</strong> gesendet werden. <br></td> 
   </tr> 
   <tr> 
    <td><strong>Opportunitys</strong></td> 
-   <td>Eine Chance kann als potenzieller künftiger Verkauf mit einer <strong>Person</strong> oder einem <strong>Konto</strong> verknüpft werden. Normalerweise gelangen sie über ein <strong>CRM</strong> oder eine <strong>API</strong> in Marketo.</td> 
+   <td>Eine Opportunity kann mit einer <strong> (Person</strong> oder <strong>Account</strong> als potenzieller künftiger Verkauf verknüpft werden. Sie gelangen normalerweise über ein <strong>CRM</strong> oder über <strong>API</strong> in Marketo.</td> 
   </tr> 
   <tr> 
    <td><strong>Opt-in</strong></td> 
-   <td>Wenn eine Person ihre Berechtigung zum Empfang von Marketing-E-Mails erteilt.</td> 
+   <td>Wenn eine Person ihre Erlaubnis zum Empfang von Marketing-E-Mails erteilt.</td> 
   </tr> 
   <tr> 
    <td><strong>Opt-out</strong></td> 
-   <td>(siehe <a href="#u"><strong>unsubscribe</strong></a>)</td> 
+   <td>(Siehe <a href="#u"><strong>Abmelden</strong></a>)</td> 
   </tr> 
  </tbody> 
 </table>
@@ -608,54 +608,54 @@ Im Folgenden finden Sie Definitionen für viele der Begriffe, auf die Sie bei de
  </colgroup> 
  <tbody> 
   <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md" rel="nofollow"><strong>Personenleistungsbericht</strong></a></td> 
+   <td colspan="1"><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md" rel="nofollow"><strong>People Performance Report</strong></a></td> 
    <td colspan="1">Ein Berichtstyp in Marketo. Damit können Sie das Wachstum Ihrer <strong>Datenbank</strong> im Zeitverlauf messen.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md" rel="nofollow"><strong>Kosten für Zeitraum</strong></a></td> 
-   <td colspan="1">Das Geld, das Sie in einem bestimmten Monat für ein <strong>Programm</strong> ausgeben.</td> 
+   <td colspan="1">Das Geld, das Sie in einem bestimmten Monat für ein <strong>Programm“ </strong>.</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
      <p><a href="/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md" rel="nofollow"><strong> Leistungs-Insights</strong></a></p> 
     </div></td> 
-   <td colspan="1">Zuvor als Marketo Performance Insights (MPI) bezeichnet. Eine zusätzliche Analysefunktion, mit der Sie Trends erkennen und konsistente Gewinnstrategien ermitteln können.</td> 
+   <td colspan="1">Zuvor als Marketo Performance Insights (MPI) bezeichnet. Eine Add-on-Analysefunktion, die verschiedene Tools verwendet, um Trends zu erkennen und konsistente Gewinnstrategien zu identifizieren.</td> 
   </tr> 
   <tr> 
    <td><strong>Person</strong></td> 
-   <td>Eine Person in Ihrer Marketo <strong>datenbank</strong>, mit der Sie über Marketingkampagnen interagieren.</td> 
+   <td>Eine Person in Ihrer Marketo <strong>Datenbank</strong> mit der Sie über Marketing-Kampagnen interagieren.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md#person-partitions" rel="nofollow">Personen-Partition</a></strong></td> 
-   <td colspan="1">Personenpartitionen verhalten sich wie separate <strong>Datenbanken</strong>. Jede Partition hat eigene Personen, die nicht deduplizieren oder mit anderen Partitionen mischen.</td> 
+   <td colspan="1">Personenpartitionen funktionieren wie separate <strong>Datenbanken</strong>. Jede Partition hat ihre eigenen Leute, die nicht deduplizieren oder mit anderen Partitionen mischen.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/target-account-management/using-personas.md" rel="nofollow"><strong>Persona</strong></a></td> 
-   <td colspan="1">In der <strong>Target-Kontoverwaltung</strong> von Marketo sind Personas eine Untergruppe einer Zielgruppe, die spezifischeres Targeting ermöglicht.</td> 
+   <td colspan="1">In Marketo <strong>Target Account Management</strong> sind Personas eine Teilmenge einer Zielgruppe, was eine spezifischere Zielgruppenbestimmung ermöglicht.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md" rel="nofollow"><strong>Umfrage</strong></a></td> 
-   <td colspan="1">Eine Umfrage in Marketo ist genau wie eine normale Umfrage. Erstellen Sie ein Thema, über das Personen abstimmen und es auf Ihren Marketo-<strong>Landingpages</strong>, Ihrer Website und/oder sozialen Medien teilen können.</td> 
+   <td colspan="1">Eine Wahl in Marketo ist genau wie eine normale Wahl. Erstellen Sie ein Thema, über das Personen abstimmen und das sie auf Ihrer Marketo <strong>Landingpage</strong>, Ihrer Website und/oder in den sozialen Medien teilen können.</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <p><strong>Predictive Content</strong></p> 
     </div></td> 
-   <td>(ehemals ContentAI) Eine Add-On-Funktion, mit der Marketo-Benutzer Web-Besuchern und E-Mail-Empfängern mithilfe von Empfehlungen, die auf maschinellem Lernen und prädiktiven Analysen basieren, besser mit den relevantesten <strong>Inhalten</strong> interagieren können.</td> 
+   <td>(früher als ContentAI bezeichnet) Eine Add-on-Funktion, mit der Marketo-Benutzende Web-Besuchende und E-Mail-Empfangende besser mit den relevantesten <strong>Inhalten</strong> interagieren können, indem sie Empfehlungen auf der Grundlage von maschinellem Lernen und prädiktiver Analyse verwenden.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md" rel="nofollow">Programm</a></strong></td> 
-   <td colspan="1">Ein Container, der alles enthält, was Sie für eine Marketing-Initiative benötigen. Es gibt vier verschiedene Typen: <strong>Ereignisprogramme</strong>, <strong>Interaktionsprogramme</strong>, <strong>E-Mail-Programme</strong> und <strong>Standardprogramme</strong>)</td> 
+   <td colspan="1">Ein Container, der alles enthält, was Sie für die Durchführung einer Marketing-Initiative benötigen. Es gibt vier verschiedene Typen: <strong>Veranstaltungsprogramme</strong>, <strong>Interaktionsprogramme</strong>, <strong>E-Mail-</strong> und <strong>Standardprogramme</strong>)</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Programmmonat</strong></td> 
-   <td colspan="1"> Der Monat, der mit den <strong>Zeitraumkosten</strong> eines <strong>Programms</strong> verknüpft ist.</td> 
+   <td colspan="1"> Der Monat, der mit dem <strong>Periodenkosten</strong> eines <strong>Programms</strong> verbunden ist.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md" rel="nofollow"><strong>Bericht zur Programmleistung</strong></a></td> 
-   <td colspan="1">Ein Berichtstyp in Marketo. Damit können Sie sehen, wie Ihre Programme funktionieren. Filtern Sie nach <strong>tags</strong>, <strong>period cost</strong> usw.</td> 
+   <td colspan="1"><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md" rel="nofollow"><strong>Programmvollzugsbericht</strong></a></td> 
+   <td colspan="1">Ein Berichtstyp in Marketo. So können Sie sehen, wie Ihre Programme funktionieren. Filtern nach <strong>Tags</strong>, <strong>Periodenkosten</strong> usw.</td> 
   </tr> 
  </tbody> 
 </table>
@@ -670,7 +670,7 @@ Im Folgenden finden Sie Definitionen für viele der Begriffe, auf die Sie bei de
  <tbody> 
   <tr> 
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md" rel="nofollow"><strong>Qualifizierungsregeln</strong></a></td> 
-   <td>Wenn eine Person die vorab festgelegten Kriterien in einer <strong>Smart-Kampagne</strong> erfüllt, qualifiziert sie sich dafür. Sie können Qualifizierungsregeln festlegen, um zu bestimmen, wie oft sie den <strong>Fluss</strong> in der intelligenten Kampagne durchlaufen können.</p></td> 
+   <td>Wenn eine Person die vordefinierten Kriterien in einer <strong>intelligenten Kampagne</strong> erfüllt, ist sie dafür qualifiziert. Sie können Qualifizierungsregeln festlegen, um zu bestimmen, wie oft sie den <strong>Fluss“ in </strong> intelligenten Kampagne durchlaufen können.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -685,27 +685,27 @@ Im Folgenden finden Sie Definitionen für viele der Begriffe, auf die Sie bei de
  <tbody> 
   <tr> 
    <td colspan="1"><strong>Reputation</strong></td> 
-   <td colspan="1"><p>Leistungsbewertung im Zeitverlauf, bestehend aus verschiedenen Signalen und/oder Datenpunkten. Die Reputation kann an die Domäne eines Absenders, den <strong>Inhalt</strong> oder die IP-Adresse gebunden sein und sich auf die <strong>Zustellbarkeit</strong> auswirkt.</p></td> 
+   <td colspan="1"><p>Ein Leistungswert im Zeitverlauf, der aus verschiedenen Signalen und/oder Datenpunkten besteht. Die Reputation kann an die Domain, den <strong>Inhalt“ oder die IP</strong>Adresse eines Absenders gebunden sein und sich auf die <strong>Zustellbarkeit</strong> auswirken.</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Rückgabepfadadresse</strong></td> 
-   <td colspan="1">Die tatsächliche E-Mail-Adresse, von der eine Nachricht stammt, unterscheidet sich von der E-Mail im Feld "Von". </td> 
+   <td colspan="1"><strong>Adresse des Rücksendepfads</strong></td> 
+   <td colspan="1">Die tatsächliche E-Mail-Adresse, von der eine Nachricht stammt, unterscheidet sich von der E-Mail im Feld „Von“. </td> 
   </tr> 
   <tr> 
-   <td><strong>Umsatzzyklusanalysen (RCA)</strong></td> 
-   <td>Eine zusätzliche Funktion enthält verschiedene Tools, die Ihnen bei der Verbesserung der Berichterstellung in Ihrer gesamten Instanz helfen.</td> 
+   <td><strong>Umsatzzyklusanalyse (RCA)</strong></td> 
+   <td>Eine Add-on-Funktion enthält verschiedene Tools, die Ihnen dabei helfen, das Reporting in Ihrer gesamten Instanz zu verbessern.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md" rel="nofollow"><strong>Umsatzmodell</strong></a></td> 
-   <td colspan="1">Ein Tool, das in <strong>Umsatz-Zyklusanalysen (RCA)</strong> verwendet wird und eine Reihe von Phasen verwendet, mit dem Sie verfolgen können, wo sich Ihr <strong>Lead</strong> zu einem beliebigen Zeitpunkt während des Konvertierungsprozesses befindet.</td> 
+   <td colspan="1">Ein in <strong>Revenue Cycle Analytics (RCA) verwendetes Tool</strong> das eine Reihe von Phasen verwendet, mit denen Sie verfolgen können, wo sich Ihr <strong>Lead</strong> zu einem bestimmten Zeitpunkt während Ihrer Konvertierung befindet.</td> 
   </tr> 
   <tr> 
    <td><strong>Role</strong></td> 
-   <td>Ein Titel, der einem Benutzer zugewiesen ist, der eine Reihe von Berechtigungen gruppiert (z. B. Administrator, Marketing-Benutzer).</td> 
+   <td>Ein Titel, der einem Benutzer zugewiesen wurde, der eine Reihe von Berechtigungen gruppiert (z. B. Administrator, Marketing-Benutzer).</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Rollenkonto</strong></td> 
-   <td colspan="1">Eine E-Mail-Adresse, die zu einer Abteilung oder Position gehört (z. B. security@, sysadmin@ usw.), nicht zu einer einzelnen Person. Marketo verhindert, dass E-Mails an <a href="https://nation.marketo.com/t5/Support-Blogs/Suppressing-addresses-to-protect-customers-amp-The-Network/ba-p/241295" rel="nofollow">bestimmte Rollenkonten</a> gesendet werden, die keinem einzelnen Abonnenten zugeordnet werden können.</td> 
+   <td colspan="1">Eine E-Mail-Adresse, die zu einer Abteilung oder Position (z. B. security@, sysadmin@ usw.) und nicht zu einer einzelnen Person gehört. Marketo blockiert den Versand von E-Mails an <a href="https://nation.marketo.com/t5/Support-Blogs/Suppressing-addresses-to-protect-customers-amp-The-Network/ba-p/241295" rel="nofollow">bestimmte Rollenkonten</a> die nicht mit einem einzelnen Abonnenten verknüpft werden können.</td> 
   </tr> 
  </tbody> 
 </table>
@@ -720,11 +720,11 @@ Im Folgenden finden Sie Definitionen für viele der Begriffe, auf die Sie bei de
  <tbody> 
   <tr> 
    <td colspan="1"><strong>Salesforce</strong></td> 
-   <td colspan="1">Wird auch als SFDC bezeichnet. Eines der beiden CRMs Marketo verfügt über eine native Integration mit (siehe <a href="#c"><strong>CRM</strong></a>).</td> 
+   <td colspan="1">Auch als SFDC bekannt. Eines der beiden CRMs, mit denen Marketo integriert ist, ist nativ (siehe <a href="#c"><strong>CRM</strong></a>).</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md" rel="nofollow"><strong>Beispielemail</strong></a></td> 
-   <td colspan="1">Ein Test <strong>email</strong> , den Sie sich (und/oder andere) senden, um zu sehen, wie er aussieht, bevor Sie ihn an Ihre Kunden senden. Sie können auch Beispiele verwenden, um <strong>dynamischen Inhalt</strong> zu testen.</td> 
+   <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md" rel="nofollow"><strong>Beispiel-E-Mail</strong></a></td> 
+   <td colspan="1">Eine Test<strong>E-Mail</strong> die Sie an sich selbst (und/oder andere) senden, um zu sehen, wie sie aussieht, bevor Sie sie an Ihre Kunden senden. Sie können auch Beispiele verwenden, um (<strong> Inhalte zu </strong>.</td> 
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md" rel="nofollow">Segment</a></strong></td> 
@@ -732,15 +732,15 @@ Im Folgenden finden Sie Definitionen für viele der Begriffe, auf die Sie bei de
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md#segmentation" rel="nofollow">Segmentierung</a></strong></td> 
-   <td colspan="1">Die Gruppierung von Personen in Ihrer <strong>Datenbank</strong> basierend auf einer von Ihnen festgelegten <strong>Smart-Liste</strong> -Regel. Sie können beispielsweise eine Segmentierung mit dem Namen "Branche"erstellen und die Kategorien darin können lauten: Gesundheitswesen, Technologie, Finanzen usw. Durch die Segmentierung können Sie basierend auf einer ausgewählten demografischen Gruppe ganze Personengruppen vermarkten.</td> 
+   <td colspan="1">Die Gruppierung von Personen in Ihrer <strong>Datenbank</strong> basierend auf einer <strong>Smart List</strong>Regel, die Sie festlegen. Sie können beispielsweise eine Segmentierung namens Branche verwenden, wobei die darin enthaltenen Kategorien Folgendes sein können: Gesundheitswesen, Technologie, Finanzen usw. Mit der Segmentierung können Sie basierend auf einer ausgewählten Demografie an ganze Personengruppen vermarkten.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md" rel="nofollow">Sender Policy Framework</a> (SPF)</strong></td> 
-   <td colspan="1"><p>Ein Authentifizierungsmechanismus, der die E-Mail-Server identifiziert, die E-Mails für eine bestimmte Domäne senden dürfen.</p></td> 
+   <td colspan="1"><p>Ein Authentifizierungsmechanismus, der die E-Mail-Server identifiziert, die E-Mails für eine bestimmte Domain senden dürfen.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="https://docs.marketo.com/x/oA8t" rel="nofollow"><strong>Intelligente Kampagne</strong></a></td> 
-   <td colspan="1">Eines der wichtigsten Tools in Marketo. Sie führen Aktionen durch, die Sie anhand von von Ihnen festgelegten Kriterien festlegen. (siehe auch <strong><a href="#b">Batch-Kampagne</a></strong> und <strong><a href="#t">Trigger-Kampagne</a></strong>)</td> 
+   <td colspan="1">Eines der wichtigsten Tools in Marketo. Sie führen Aktionen durch, die Sie auf der Grundlage von von Ihnen festgelegten Kriterien festlegen. (Siehe auch <strong><a href="#b">Batch-Kampagne</a></strong> und <strong><a href="#t">Trigger-Kampagne</a></strong>)</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Smart List</strong></td> 
@@ -748,7 +748,7 @@ Im Folgenden finden Sie Definitionen für viele der Begriffe, auf die Sie bei de
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md" rel="nofollow">Ausschnitt</a></strong></td> 
-   <td colspan="1">Ein Block von <strong>Inhalt</strong> (Text, Bild), der vorab erstellt und in Zukunft schnell in <strong>Landingpages</strong>/<strong>E-Mails</strong> eingefügt werden kann.</td> 
+   <td colspan="1">Ein Block mit <strong>Inhalten</strong> (Text, Bild), der vorab erstellt und schnell in <strong>Landingpages</strong>/<strong>E-</strong> eingefügt werden kann.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Softbounce</strong></td> 
@@ -756,19 +756,19 @@ Im Folgenden finden Sie Definitionen für viele der Begriffe, auf die Sie bei de
   </tr> 
   <tr> 
    <td colspan="1"><strong>Software as a Service (SaaS)</strong></td> 
-   <td colspan="1">Eine Methode der Softwarebereitstellung, die keinen Download erfordert, sondern nur ein Gerät mit Webbrowser und Internetverbindung (z. B. Marketo). </td> 
+   <td colspan="1">Eine Methode zur Bereitstellung von Software, für die kein Download erforderlich ist, sondern lediglich ein Gerät mit einem Webbrowser und einer Internetverbindung (z. B. Marketo). </td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Spam</strong></td> 
-   <td colspan="1">Der häufigste Begriff für unerbetene E-Mails.</td> 
+   <td colspan="1">Der häufigste Begriff für unerwünschte E-Mails.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Spamfallen</strong></td> 
-   <td colspan="1">E-Mail-Adressen, die von ISPs und E-Mail-Sicherheitsanbietern speziell überwacht werden, um Spammer zu erfassen. Dazu können Adressen gehören, die nie verwendet werden, Typo-Domänen und abgelaufene Domänen. Die verschiedenen Arten von Spam-Fallen können auf unterschiedliche Probleme bei der Akquise hinweisen, beispielsweise auf Probleme mit Formularen (typo-Spam-Fallen), die falsche Pflege einer Datenbank oder das Entfernen ungültiger Adressen (abgelaufene Domain-Spam-Fallen) oder das häufige Erfassen von Adressen ohne Berechtigung durch den Kauf von Listen (unsaubere Spamfallen). Alle an diese Adressen gesendeten E-Mails werden als <strong>Spam</strong> gekennzeichnet.</td> 
+   <td colspan="1"><strong>Spam-Fallen</strong></td> 
+   <td colspan="1">E-Mail-Adressen, die ISPs und E-Mail-Sicherheitsanbieter speziell überwachen, um Spammer zu fangen. Dazu können nie verwendete Adressen, Tippfehler-Domains und abgelaufene Domains gehören. Die verschiedenen Arten von Spam-Fallen können auf verschiedene Probleme bei der Akquise durch Probleme mit Formularen hinweisen (Tippfehler, Spam-Fallen), auf eine unsachgemäße Wartung einer Datenbank oder das Entfernen ungültiger Adressen (abgelaufene Domain-Spam-Fallen) oder auf die Akquise von Adressen ohne Erlaubnis, häufig durch den Kauf von Listen (unberührte Spam-Fallen). Alle an diese Adressen gesendeten E-Mails werden als "<strong>" </strong>.</td> 
   </tr> 
   <tr> 
-   <td><strong>Aufspaltungstests</strong></td> 
-   <td>Ein Testexperiment mit zwei oder mehr Varianten, um den Unterschied in den Ergebnissen zu messen. Das Ziel besteht darin, Änderungen an Webseiten zu identifizieren, die ein Interessenergebnis steigern oder maximieren.</td> 
+   <td><strong>Split-Tests</strong></td> 
+   <td>Ein Testexperiment mit zwei oder mehr Varianten zur Messung der Differenz der Ergebnisse. Das Ziel ist es, Änderungen an Web-Seiten zu identifizieren, die ein interessantes Ergebnis steigern oder maximieren.</td> 
   </tr> 
   <tr> 
    <td><strong>Statische Liste</strong></td> 
@@ -776,7 +776,7 @@ Im Folgenden finden Sie Definitionen für viele der Begriffe, auf die Sie bei de
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md" rel="nofollow">Stream</a></strong></td> 
-   <td colspan="1">Eine Sammlung von priorisierten <strong>Inhalten</strong>, die in einem <strong>Interaktionsprogramm</strong> verwendet werden, um Menschen zu fördern. <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md" rel="nofollow">Inhalt</a> wird in der angegebenen Reihenfolge verteilt.</td> 
+   <td colspan="1">Eine Sammlung priorisierter <strong>Inhalte</strong> die in einem „Interaktionsprogramm<strong> verwendet werden, </strong> Menschen zu fördern. <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md" rel="nofollow">Inhalt</a> wird in der von Ihnen festgelegten Reihenfolge verteilt.</td> 
   </tr> 
  </tbody> 
 </table>
@@ -791,39 +791,39 @@ Im Folgenden finden Sie Definitionen für viele der Begriffe, auf die Sie bei de
  <tbody> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md" rel="nofollow">Tags</a></strong></td> 
-   <td>Kennungen, die zur Beschreibung von <strong>Programmen</strong> verwendet werden.</td> 
+   <td>Kennungen zur Beschreibung von <strong>Programmen</strong>.</td> 
   </tr>
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md" rel="nofollow">Verwaltung von Target-Konten</a> (TAM)</strong></td> 
-   <td colspan="1">(ehemals kontobasiertes Marketing/ABM) Eine Add-On-Funktion, mit der Sie wichtige Konten in höchst koordinierter Weise ansprechen und ansprechen können.</td> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md" rel="nofollow">Target-Kontoverwaltung</a> (TAM)</strong></td> 
+   <td colspan="1">(ehemals Account-Based Marketing/ABM): Eine Add-on-Funktion, mit der Sie wichtige Accounts ansprechen und auf hochgradig koordinierte Weise ansprechen können.</td> 
   </tr>
   <tr> 
    <td><strong>Vorlage</strong></td> 
-   <td>Eine <strong>E-Mail</strong> oder <strong>Landingpage</strong>, die als Ausgangspunkt für die Erstellung zusätzlicher E-Mails oder Landingpages verwendet wird.</td> 
+   <td>Eine <strong>E</strong> oder <strong>Landingpage</strong> die als Ausgangspunkt für die Erstellung zusätzlicher E-Mails oder Landingpages verwendet wird.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md" rel="nofollow">Token</a></strong></td> 
-   <td colspan="1">Eine Variable, die für eine Vielzahl von Assets/Funktionen in Marketo verwendet werden kann, die das automatische Einfügen personalisierter Daten ermöglichen.</td> 
+   <td colspan="1">Eine Variable, die in einer Vielzahl von Assets/Funktionen in Marketo verwendet werden kann und das automatische Einfügen personalisierter Daten ermöglicht.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Baumstruktur</strong></td> 
-   <td colspan="1">Die Spalte links in Marketo, die Elemente in einer hierarchischen Struktur anzeigt. Es zeigt alles, was sich in Ihrer Marketo-Instanz befindet (z. B. <strong>Arbeitsbereiche</strong>, <strong>Programme</strong>, <strong>lokale Assets</strong> usw.).</td> 
+   <td colspan="1">Die Spalte links in Marketo, die Elemente in einer hierarchischen Struktur anzeigt. Sie enthält alle Elemente in Ihrer Marketo-Instanz (z. B. <strong>Arbeitsbereiche</strong>, <strong>Programme</strong>, <strong>lokale </strong> usw.).</td> 
   </tr> 
   <tr> 
    <td><strong>Auslöser</strong></td> 
-   <td>Eine Aktivität oder ein Ereignis, die bzw. das die <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md" rel="nofollow">Flussschritte einer Trigger-Kampagne</a> aktiviert, wenn dieses Ereignis eintritt (z. B. besucht eine Person eine Webseite, klickt auf einen Link in einer E-Mail usw.). </td> 
+   <td>Eine Aktivität oder ein Ereignis, die bzw. das die <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md" rel="nofollow">Flussschritte einer Trigger-Kampagne</a> aktiviert, wenn das Ereignis eintritt (z. B. wenn eine Person eine Web-Seite besucht, auf einen Link in einer E-Mail klickt usw.). </td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <p><a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md#trigger-smart-campaign" rel="nofollow"><strong> Auslöser-Kampagne</strong></a></p> 
     </div></td> 
-   <td>Eine <strong>Smart-Kampagne</strong>, die mindestens einen Trigger enthält.</td> 
+   <td>Eine <strong>intelligente Kampagne</strong> die mindestens einen Trigger enthält.</td> 
   </tr> 
  </tbody> 
 </table>
 
-## U {#u}
+## U-{#u}
 
 <table> 
  <colgroup> 
@@ -836,11 +836,11 @@ Im Folgenden finden Sie Definitionen für viele der Begriffe, auf die Sie bei de
     <div> 
      <p><strong> Abbestellen</strong></p> 
     </div></td> 
-   <td colspan="1">Wenn sich eine <strong>Person</strong> dafür entscheidet, keine Marketing-E-Mails mehr zu erhalten, wird ein weiterer Begriff für die Abmeldung verwendet.</td> 
+   <td colspan="1">Wenn eine <strong>Person</strong> Marketing-E-Mails nicht mehr erhält, ein weiterer Begriff für die Abmeldung.</td> 
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md#unsubscribed" rel="nofollow">Abbestellt</a></strong></td> 
-   <td>Ein Status, der anzeigt, dass der Empfänger ausgewählt hat, keine Marketing-E-Mails mehr zu empfangen. Personen, die als abgemeldet gekennzeichnet sind, erhalten weiterhin <strong>operative E-Mails</strong>.</td> 
+   <td>Ein Status, der anzeigt, dass der Empfänger entschieden hat, keine Marketing-E-Mails mehr zu erhalten. Personen, die als abgemeldet sind, erhalten möglicherweise weiterhin <strong>operative E-Mails</strong>.</td> 
   </tr> 
   <tr> 
    <td><strong>Benutzer</strong></td> 
@@ -862,39 +862,39 @@ Im Folgenden finden Sie Definitionen für viele der Begriffe, auf die Sie bei de
     <div> 
      <p><strong> Webkampagne</strong></p> 
     </div></td> 
-   <td colspan="1">Eine benutzerspezifische Reaktion, die mit einem bestimmten Segment verknüpft ist. In <strong>Web Personalization</strong> umfassen Webkampagnen <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow">Dialogfelder</a>, <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md" rel="nofollow">in Bereiche</a> und <strong><a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md" rel="nofollow">Widgets</a></strong>.</td> 
+   <td colspan="1">Eine benutzerdefinierte Reaktion, die mit einem bestimmten Segment verknüpft ist. In <strong>Web Personalization</strong> umfassen Web-Kampagnen <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow">Dialogfelder</a>, <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md" rel="nofollow">In-</a> und <strong><a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md" rel="nofollow">Widgets</a></strong>.</td> 
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" rel="nofollow">Webseitenaktivitätsbericht</a></strong></td> 
-   <td>Ein Berichtstyp in Marketo. Sie können die bekannten anonymen <i>oder</i> Personen sehen, die Ihre Website besuchen.</td> 
+   <td>Ein Berichtstyp in Marketo. Dadurch können Sie die bekannten (<i>) </i> Personen sehen, die Ihre Website besuchen.</td> 
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md" rel="nofollow">Web-Personalisierung</strong></td> 
-   <td>Eine Zusatzfunktion, die eine Targeting- und Personalisierungsplattform bietet und Marketo-Benutzern dabei hilft, bekannte und anonyme Besucher in Echtzeit zu binden, je nachdem, wer sie sind und was sie tun.</td> 
+   <td>Eine Add-on-Funktion, die eine Targeting- und Personalisierungsplattform bietet, mit der Marketo-Benutzende in Echtzeit bekannte und anonyme Besuchende einbinden können, je nachdem, wer sie sind und was sie tun.</td> 
   </tr>
   <tr> 
    <td><strong>Webinar</strong></td> 
-   <td>Ein webbasiertes Seminar. In Marketo können Webinare über verschiedene <strong><a href="/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md" rel="nofollow">Ereignispartner</a></strong> durchgeführt werden.</td> 
+   <td>Ein webbasiertes Seminar. In Marketo können Webinare über eine Reihe verschiedener <strong><a href="/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md" rel="nofollow"> durchgeführt werden</a></strong></td> 
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md" rel="nofollow">Website-Retargeting</a></strong></td> 
-   <td>Eine Add-On-Funktion, mit der Marketo-Benutzer bekannte und anonyme Besucher (über Facebook und Google) mit relevanten Anzeigen auf Basis der Branche, benannten Konten und bekannten Daten ansprechen können.</td> 
+   <td>Eine Add-on-Funktion, mit der Benutzende von Marketo bekannte und anonyme Besuchende (über Facebook und Google) mit relevanten Anzeigen ansprechen können, die auf der Branche, benannten Konten und bekannten Daten basieren.</td> 
   </tr> 
   <tr> 
-   <td><strong>Was Sie sehen ist was Sie bekommen (WYSIWYG)</strong></td> 
-   <td>Ein allgemeiner Begriff, der sich auf eine Anwendung oder einen Editor bezieht, mit der Sie das Endergebnis Ihres <strong>Inhalts</strong> beim Erstellen anzeigen können. Marketo verfügt über einen WYSIWYG-Editor.</td> 
+   <td><strong>What You See Is What You Get (WYSIWYG)</strong></td> 
+   <td>Ein häufig verwendeter Begriff, der auf eine Anwendung oder einen Editor verweist, mit dem Sie das Endergebnis Ihres <strong>Inhalts</strong> beim Erstellen anzeigen können. Marketo verfügt über einen WYSIWYG-Editor.</td> 
   </tr> 
   <tr> 
    <td><strong>Widget</strong></td> 
-   <td>Ein kleines, grafisches Element in einer Anwendung, das eine bestimmte Interaktion ermöglicht. Widgets sind nur in Marketo Sky verfügbar (anders als eine <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md" rel="nofollow">Widget-Webkampagne)</a></td> 
+   <td>Ein kleines grafisches Element in einer Anwendung, das eine bestimmte Interaktion ermöglicht. Widgets sind nur als Marketo Sky verfügbar (nicht als <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md" rel="nofollow">Widget-Web-Kampagne)</a></td> 
   </tr> 
   <tr> 
    <td><strong>Platzhalter</strong></td> 
-   <td>Ein Zeichen (* wird in <strong>Web Personalization</strong>) verwendet, das vor oder nach einer Zeichenfolge verwendet wird, um andere Zeichen in einer Zeichenfolge zu ersetzen.</td> 
+   <td>Ein Zeichen (*) wird in <strong>Web Personalization</strong>) verwendet, das vor oder nach einer Zeichenfolge verwendet wird, um andere Zeichen in einer Zeichenfolge zu ersetzen.</td> 
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" rel="nofollow">Arbeitsbereich</a></strong></td> 
-   <td>Ein separater Bereich in Marketo, der die Marketing-Assets <strong>1} enthält. </strong> Sie können beispielsweise einen Arbeitsbereich mit dem Namen "Nordamerika"verwenden, den Sie ausschließlich für das Marketing in dieser Region verwenden. Europa, Asien usw.</td> 
+   <td>Ein separater Bereich in Marketo, der Marketing-<strong> (Assets</strong> enthält. Sie können beispielsweise einen Arbeitsbereich namens „Nordamerika“ verwenden, den Sie ausschließlich für das Marketing in dieser Region verwenden. Europa, Asien usw.</td> 
   </tr>  
  </tbody> 
 </table>

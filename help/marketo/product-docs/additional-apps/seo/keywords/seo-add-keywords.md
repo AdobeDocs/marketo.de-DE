@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2949204
-description: SEO - Suchbegriffe hinzufügen - Marketo-Dokumente - Produktdokumentation
-title: SEO - Suchbegriffe hinzufügen
+description: SEO - Keywords hinzufügen - Marketo-Dokumente - Produktdokumentation
+title: SEO - Keywords hinzufügen
 exl-id: 95e7907a-62f7-40c7-85a9-97728fbe40eb
 feature: SEO
 source-git-commit: d9ea30742b6ef3b6299284a1f446a69f15105379
@@ -11,34 +11,34 @@ ht-degree: 0%
 
 ---
 
-# SEO - Suchbegriffe hinzufügen {#seo-add-keywords}
+# SEO - Keywords hinzufügen {#seo-add-keywords}
 
-Suchbegriffe sind Ausdrücke, die von Personen in Suchmaschinen eingegeben werden. Fügen Sie die Suchbegriffe hinzu, die für Ihr Unternehmen am relevantesten sind.
+Keywords sind Phrasen, die in Suchmaschinen eingegeben werden. Fügen Sie die Schlüsselwörter hinzu, die für Ihr Unternehmen am relevantesten sind.
 
 >[!NOTE]
 >
->Wenn Sie viele Suchbegriffe haben, können Sie diese mit einer CSV-Datei ](/help/marketo/product-docs/additional-apps/seo/keywords/seo-importing-keywords-with-a-csv.md) importieren.[
+>Wenn Sie viele Keywords haben, können Sie [mit einer CSV-Datei importieren](/help/marketo/product-docs/additional-apps/seo/keywords/seo-importing-keywords-with-a-csv.md).
 
-1. Wechseln Sie zum Abschnitt **[!UICONTROL Suchbegriffe]** .
+1. Navigieren Sie zum Abschnitt **[!UICONTROL Keywords]**.
 
    ![](assets/image2014-9-18-11-3a28-3a39.png)
 
-1. Geben Sie die Suchbegriffe ein, die Sie als Ziel auswählen möchten, und klicken Sie auf **[!UICONTROL Speichern]**.
+1. Geben Sie die Keywords ein, die Sie ansprechen möchten, und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/image2014-9-18-11-3a28-3a51.png)
 
    >[!TIP]
    >
-   >Trennen Sie die Suchbegriffe durch Zeilenumbrüche oder Kommas.
+   >Trennen Sie die Schlüsselwörter durch Zeilenumbrüche oder Kommas.
 
    ![](assets/image2014-9-18-11-3a29-3a12.png)
 
-Gute Arbeit! Jetzt sollten Ihre neuen Ergänzungen zur Suchbegriffliste angezeigt werden.
+Gute Arbeit! Sie sollten nun Ihre neuen Einträge in der Keyword-Liste sehen.
 
 >[!NOTE]
 >
->Daten werden nur für Suchbegriffe angezeigt, die den Rang 1 bis 100 aufweisen.
+>Daten werden nur für Schlüsselwörter der Rangfolgen 1-100 angezeigt.
 
 >[!MORELIKETHIS]
 >
->[Grundlegendes zu Suchbegriffen (Zusammenfassungsansicht)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
+>[Schlüsselwörter verstehen (Zusammenfassungsansicht)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)

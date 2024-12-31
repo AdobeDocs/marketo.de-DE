@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2949243
-description: SEO - Hinzufügen/Entfernen von Spalten aus der Suchbegriffansicht - Marketo-Dokumente - Produktdokumentation
-title: SEO - Hinzufügen/Entfernen von Spalten aus der Suchbegriffansicht
+description: SEO - Hinzufügen/Entfernen von Spalten aus der Keyword-Ansicht - Marketo-Dokumente - Produktdokumentation
+title: SEO - Hinzufügen/Entfernen von Spalten aus der Keyword-Ansicht
 exl-id: e1a360da-cfe1-41b2-82ab-d2d7a1c0e410
 feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,11 +11,11 @@ ht-degree: 2%
 
 ---
 
-# SEO - Hinzufügen/Entfernen von Spalten aus der Suchbegriffansicht {#seo-add-remove-columns-from-your-keywords-view}
+# SEO - Hinzufügen/Entfernen von Spalten aus der Keyword-Ansicht {#seo-add-remove-columns-from-your-keywords-view}
 
-Sie können Ihre Suchbegriffansicht so anpassen, dass die Daten angezeigt werden, die Sie am meisten interessieren.
+Sie können Ihre Keyword-Ansicht anpassen, um die Daten anzuzeigen, die Sie am meisten interessieren.
 
-1. Wechseln Sie zum Abschnitt **[!UICONTROL Suchbegriffe]** .
+1. Navigieren Sie zum Abschnitt **[!UICONTROL Keywords]**.
 
    ![](assets/image2014-9-18-13-3a37-3a31.png)
 
@@ -31,10 +31,10 @@ Sie können Ihre Suchbegriffansicht so anpassen, dass die Daten angezeigt werden
 
    ![](assets/image2014-9-18-13-3a37-3a42.png)
 
-   Fantastisch! Sie haben jetzt Ihre Suchbegriffansicht angepasst.
+   Fantastisch! Sie haben jetzt Ihre Keyword-Ansicht angepasst.
 
    ![](assets/image2014-9-18-13-3a37-3a46.png)
 
    >[!MORELIKETHIS]
    >
-   >[Grundlegendes zu Suchbegriffen - Zusammenfassungsansicht](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
+   >[Grundlegendes zu Keywords - Zusammenfassungsansicht](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)

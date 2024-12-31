@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2949264
-description: SEO - Entfernen/Löschen eines Seitenproblems - Marketo Docs - Produktdokumentation
+description: SEO - Problem mit dem Entfernen/Löschen einer Seite - Marketo-Dokumente - Produktdokumentation
 title: SEO - Entfernen/Löschen eines Seitenproblems
 exl-id: cc1e5318-5c64-4022-bb56-6a96607ced7d
 feature: SEO
@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # SEO - Entfernen/Löschen eines Seitenproblems {#seo-remove-delete-a-page-issue}
 
-Nicht alle Seitenprobleme können für Sie von Nutzen sein. So kann man eine entfernen.
+Möglicherweise sind nicht alle Seitenprobleme für Sie von Nutzen. So entfernen Sie eine:
 
-1. Wechseln Sie zum Abschnitt **[!UICONTROL Seiten]** .
+1. Navigieren Sie zum Abschnitt **[!UICONTROL Seiten]**.
 
    ![](assets/image2014-9-18-14-3a0-3a16.png)
 
-1. Klicken Sie im Abschnitt [!UICONTROL Seiten] auf **[!UICONTROL Probleme]**.
+1. Klicken [!UICONTROL  Abschnitt &quot;]&quot; auf **[!UICONTROL Probleme]**.
 
    ![](assets/image2014-9-18-14-3a0-3a30.png)
 
-1. Bewegen Sie den Mauszeiger über das zu entfernende Seitenproblem. Klicken Sie auf **[!UICONTROL Entfernen]**.
+1. Bewegen Sie den Mauszeiger über das Seitenproblem, das Sie entfernen möchten. Klicken Sie auf **[!UICONTROL Entfernen]**.
 
    ![](assets/image2014-9-18-14-3a0-3a38.png)
 
@@ -31,8 +31,8 @@ Nicht alle Seitenprobleme können für Sie von Nutzen sein. So kann man eine ent
 
    >[!CAUTION]
    >
-   >Sie können diese Aktion nicht rückgängig machen. Nachdem ein Problem behoben wurde, können Sie die Probleme neu erstellen, indem Sie die Seite entfernen und wieder hinzufügen.
+   >Sie können diese Aktion nicht rückgängig machen. Nachdem ein Problem entfernt wurde, können Sie die Probleme neu erstellen, indem Sie die Seite entfernen und wieder in hinzufügen.
 
    ![](assets/image2014-9-18-14-3a1-3a28.png)
 
-Ihr Seitenproblem wurde jetzt entfernt.
+Ihr Problem mit der Seite wurde entfernt.

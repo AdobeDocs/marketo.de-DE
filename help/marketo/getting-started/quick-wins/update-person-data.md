@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359426
-description: Persönliche Daten aktualisieren - Marketo-Dokumente - Produktdokumentation
+description: Personendaten aktualisieren - Marketo-Dokumente - Produktdokumentation
 title: Personendaten aktualisieren
 exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
 feature: Getting Started
@@ -13,40 +13,40 @@ ht-degree: 1%
 
 # Personendaten aktualisieren {#update-person-data}
 
-## Auftrag: Aktualisierung der Kontaktinformationen einer Person oder anderer Daten {#mission-update-a-persons-contact-info-or-other-data}
+## Mission: Aktualisieren der Kontaktinformationen einer Person oder anderer Daten {#mission-update-a-persons-contact-info-or-other-data}
 
 >[!PREREQUISITES]
 >
->* [Einrichten und Hinzufügen einer Person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
->* [Eine Personenliste importieren](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
+>* [Einrichten und Person hinzufügen](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+>* [Liste mit Personen importieren](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
 
-Stellen wir uns vor, dass Ihnen auf Ihrer aktuellen Fachmesse eine Person zusätzliche Kontaktinformationen gegeben hat. So aktualisieren Sie Personendaten:
+Stellen wir uns vor, dass Ihnen auf Ihrer letzten Messe eine Person zusätzliche Kontaktinformationen gegeben hat. So aktualisieren Sie Personendaten.
 
-## Suchen Sie die Person, die Sie aktualisieren müssen {#find-the-person-you-need-to-update}
+## Die Person finden, die Sie aktualisieren müssen {#find-the-person-you-need-to-update}
 
-1. Rufen Sie Ihre **[!UICONTROL Datenbank]** auf.
+1. Gehen Sie zu Ihrer **[!UICONTROL Datenbank]**.
 
    ![](assets/update-person-data-1.png)
 
-1. Suchen Sie den Namen oder die E-Mail-Adresse der Person.
+1. Den Namen oder die E-Mail-Adresse der Person durchsuchen.
 
    >[!TIP]
    >
-   >Die Verwendung der E-Mail-Adresse zur Suche führt zu einer schnelleren Suche.
+   >Die Verwendung der zu suchenden E-Mail-Adresse führt zu einer schnelleren Suche.
 
    ![](assets/update-person-data-2.png)
 
-1. Doppelklicken Sie auf , um die Personendetails zu öffnen.
+1. Doppelklicken Sie, um die Personendetails zu öffnen.
 
    ![](assets/update-person-data-3.png)
 
    >[!TIP]
    >
-   >Es gibt viele Möglichkeiten, Personendaten in Marketo zu aktualisieren. Siehe [Importieren einer Liste von Personen](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} und [Ändern des Datenwerts](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}.
+   >Es gibt viele Möglichkeiten, Personendaten in Marketo zu aktualisieren. Siehe [Importieren einer Personenliste](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} und [Ändern des ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}&quot;.
 
-## Personendaten aktualisieren {#update-the-person-data}
+## Aktualisieren der Personendaten {#update-the-person-data}
 
-1. Geben Sie die neuen Informationen ein, die Sie erhalten haben, und schließen Sie dann die Registerkarte .
+1. Geben Sie die neuen Informationen ein, die Sie erhalten haben, und schließen Sie dann die Registerkarte.
 
 ![](assets/update-person-data-4.png)
 
@@ -58,14 +58,14 @@ Stellen wir uns vor, dass Ihnen auf Ihrer aktuellen Fachmesse eine Person zusät
 
 >[!NOTE]
 >
->Sobald Sie die Daten geändert haben, erkennen Smart-Listen und Smart-Kampagnen die neuen Informationen sofort.
+>Sobald Sie die Daten ändern, erkennen Smart Lists und Smart Campaign die neuen Informationen sofort.
 
 ## Aufgabe abgeschlossen {#mission-complete}
 
-Gut gemacht! Sie haben Ihre Personendaten aktualisiert.
+Gute Arbeit! Sie haben Ihre Personendaten aktualisiert.
 
 <br> 
 
-[Auftrag 8: Warnung](/help/marketo/getting-started/quick-wins/alert-the-sales-rep.md)
+[◄ Mission 8: Benachrichtigung des Vertriebsmitarbeiters](/help/marketo/getting-started/quick-wins/alert-the-sales-rep.md)
 
-[Auftrag 10: Eine Landingpage umleiten ►](/help/marketo/getting-started/quick-wins/redirect-a-landing-page.md)
+[Mission 10: Umleiten einer Landingpage-►](/help/marketo/getting-started/quick-wins/redirect-a-landing-page.md)

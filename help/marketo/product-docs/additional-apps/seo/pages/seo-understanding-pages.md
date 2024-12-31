@@ -1,33 +1,33 @@
 ---
 unique-page-id: 2949184
-description: SEO - Verstehen von Seiten - Marketo-Dokumente - Produktdokumentation
-title: SEO - Grundlagen zu Seiten
+description: SEO - Seitenverstehen - Marketo-Dokumente - Produktdokumentation
+title: SEO - Grundlegendes zu Seiten
 exl-id: c0fa5408-4b4f-4981-b4ba-20f40c475244
 feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '289'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# SEO - Grundlagen zu Seiten {#seo-understanding-pages}
+# SEO - Grundlegendes zu Seiten {#seo-understanding-pages}
 
-## Bewertung der Seitenoptimierung/Aufgaben eines Widgets {#page-optimization-score-to-do-widget}
+## Widget „Bewertung der Seitenoptimierung/Aufgaben“ {#page-optimization-score-to-do-widget}
 
 ![](assets/image2014-9-17-21-3a52-3a3.png)
 
-Die Seite [!UICONTROL Optimierungsbewertung] ist ein allgemeines Ranking der Optimierung Ihrer Seite für die Suche im Maßstab 1 bis 100. Es basiert auf Dutzenden von Best Practices in SEO.
+Der [!UICONTROL Optimierungswert] ist ein allgemeines Ranking der Suchoptimierung einer Seite auf einer Skala von 1 bis 100. Es basiert auf Dutzenden von Best Practices in SEO.
 
-* 0 - 35 = Nicht gut optimiert
-* 35 - 70 = Auf dem richtigen Weg
-* 70 - 100 = Tu großartig!
+* 0 - 35= Nicht gut optimiert
+* 35 - 70 = Auf der richtigen Spur
+* 70 - 100 = Großartig!
 
 >[!TIP]
 >
->Klicken Sie auf den Link [!UICONTROL Hohe Auswirkung] im Feld [!UICONTROL Zu tun]. Dadurch werden Sie zur Registerkarte [!UICONTROL Probleme] weitergeleitet und Ihnen werden Probleme mit hoher Priorität angezeigt, die gelöst werden müssen.
+>Klicken Sie auf den [!UICONTROL Hoch]-Link im Feld [!UICONTROL Aufgaben], der Sie zur Registerkarte [!UICONTROL Probleme] weiterleitet und Ihnen eine hohe Priorität für zu lösende Probleme anzeigt.
 
-## Registerkarte [!UICONTROL Seiten] {#pages-tab}
+## [!UICONTROL Seiten] Registerkarte {#pages-tab}
 
 Die Registerkarte **[!UICONTROL Seiten]** zeigt an, wie gut einzelne Seiten auf Ihrer Site für die Suche optimiert sind.
 
@@ -35,22 +35,22 @@ Die Registerkarte **[!UICONTROL Seiten]** zeigt an, wie gut einzelne Seiten auf 
 
 | Spaltenname | Beschreibung |
 |---|---|
-| [!UICONTROL Titel] | Titel und URL aller Seiten in Ihrer Domäne. Überprüfen Sie Ihre Domäne. |
-| [!UICONTROL Optimierungsbewertung] | Die geheime Soße, die Ihnen zeigt, wie gut Ihre Seite für die Suche auf einer Skala von 1 bis 100 optimiert ist. |
-| [!UICONTROL Links] | Anzahl der verschiedenen Domänen mit mindestens einem eingehenden Link zu Ihrer Site. |
-| [!UICONTROL Target-Keywords] | Die Suchbegriffe, für die Sie die einzelnen Seiten optimieren möchten. [Dies erfordert Ihre Eingabe](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md). |
+| [!UICONTROL Titel] | Titel und URL aller Seiten in Ihrer Domain. Verifizieren Sie Ihre Domain. |
+| [!UICONTROL Optimierungsergebnis] | Die verwendete geheime Sauce, die zeigt, wie gut Ihre Seite für die Suche auf einer Skala von 1 bis 100 optimiert ist. |
+| [!UICONTROL Links] | Anzahl verschiedener Domains mit mindestens einem eingehenden Link zu Ihrer Site. |
+| [!UICONTROL Target-Schlüsselwörter] | Die Keywords, für die Sie jede Seite optimieren möchten. [Dies erfordert Ihre Eingabe](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md). |
 
-## Registerkarte [!UICONTROL Probleme] {#issues-tab}
+## [!UICONTROL Probleme] Registerkarte {#issues-tab}
 
-Auf der Registerkarte **[!UICONTROL Probleme]** erfahren Sie, welche Verbesserungen Sie vornehmen können, um Ihren Optimierungswert und -rang zu erhöhen.
+Auf **[!UICONTROL Registerkarte ]Probleme** können Sie festlegen, welche Verbesserungen Sie vornehmen können, um Ihren Optimierungswert und Ihr Ranking zu erhöhen.
 
 ![](assets/image2014-9-17-21-3a53-3a15.png)
 
 | Spaltenname | Beschreibung |
 |---|---|
-| [!UICONTROL Probleme] | Liste der ausführbaren Elemente, die zur Verbesserung der Optimierungsbewertung beitragen. |
-| [!UICONTROL Impact] | Wie wichtig es für Ihr Gesamtergebnis ist. Korrigieren Sie zuerst die wirkungsvollen Elemente! |
+| [!UICONTROL Probleme] | Liste der umsetzbaren Elemente, die zur Verbesserung Ihres Optimierungswerts beitragen. |
+| [!UICONTROL Impact] | Wie wichtig dies für Ihre Gesamtbewertung ist. Reparieren Sie zuerst die wirkungsvollen Elemente! |
 | [!UICONTROL Kategorie] | Die Art des gemeldeten Problems. |
-| [!UICONTROL Status] | Ist die Aufgabe abgeschlossen oder ist noch geöffnet. Sobald Sie und Ihr Webmaster das Problem auf Ihrer Site beheben, sollte sich der Status in behoben ändern (grüne Prüfung). |
+| [!UICONTROL Status] | Ist die Aufgabe abgeschlossen oder noch offen? Sobald Sie und Ihr Webmaster das Problem auf Ihrer Site behoben haben, sollte sich der Status in „Gelöst“ ändern (grüne Prüfung). |
 
-Genial, jetzt, da Sie die Grundlagen von Seiten kennen, sehen Sie sich den Artikel [Seitendetails-Drilldown](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md) an, um mehr coole Dinge zu erfahren, die Sie tun können.
+Da Sie nun die Grundlagen von Seiten kennen, können Sie sich den Artikel [Seitendetails Drill Down](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md) ansehen, um mehr über coole Dinge zu erfahren, die Sie tun können.

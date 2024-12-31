@@ -1,5 +1,5 @@
 ---
-description: Help Center - Marketo Engage Docs - Produktdokumentation
+description: Hilfe-Center - Marketo Engage-Dokumente - Produktdokumentation
 title: Hilfezentrum
 feature: Getting Started
 exl-id: 3dd7c005-a416-4808-9418-9114df76d963
@@ -12,43 +12,43 @@ ht-degree: 5%
 
 # Hilfezentrum {#help-center}
 
-Das Help Center in Adobe Marketo Engage dient als zentralisierter Ort, um Hilfe zu erhalten. Zusätzlich zur Verknüpfung mit verschiedenen Ressourcen (z. B. [Produktdokumentation](/help/marketo/home.md){target="_blank"}, [Versionsinformationen](/help/marketo/release-notes/current.md){target="_blank"}, die [Community der Marketing-Nationen](https://nation.marketo.com/){target="_blank"}) können Sie auf hilfreiche produktinterne Umgehungen zugreifen, die nach Erlebnisebene organisiert sind.
+Das Hilfezentrum in Adobe Marketo Engage dient als zentraler Ort, um Hilfe zu erhalten. Zusätzlich zu Verknüpfungen zu verschiedenen Ressourcen (z. B. [Produktdokumentation](/help/marketo/home.md){target="_blank"}, [Versionsinformationen](/help/marketo/release-notes/current.md){target="_blank"}, die [Marketing Nation Community](https://nation.marketo.com/){target="_blank"}) können Sie auf hilfreiche produktinterne Exemplare zugreifen, die nach Erlebnisebene organisiert sind.
 
 ## Zugriff {#how-to-access}
 
-Nachdem Sie sich bei Marketo Engage angemeldet haben, klicken Sie auf das Hilfesymbol.
+Nachdem Sie sich beim Marketo Engage angemeldet haben, klicken Sie auf das Hilfesymbol.
 
 ![](assets/help-center-1.png)
 
-### Anleitungen {#guides}
+### Handbücher {#guides}
 
 Handbücher dienen als schnelle Anleitungen für beliebte Funktionen.
 
 ![](assets/help-center-2.png)
 
-1. Klicken Sie auf das gewünschte Handbuch, um es anzuzeigen.
+1. Klicken Sie auf die gewünschte Anleitung, um sie anzuzeigen.
 
    ![](assets/help-center-3.png)
 
-1. Klicken Sie auf **Erste Schritte**.
+1. Klicken Sie **Erste Schritte**.
 
    ![](assets/help-center-4.png)
 
-1. Klicken Sie auf **Weiter** , um fortzufahren.
+1. Klicken Sie **Weiter** um fortzufahren.
 
    ![](assets/help-center-5.png)
 
-1. Klicken Sie auf **Fertig** , um die exemplarische Vorgehensweise zu beenden.
+1. Klicken Sie **Fertig**, um die exemplarische Vorgehensweise zu beenden.
 
    ![](assets/help-center-6.png)
 
    >[!TIP]
    >
-   >Beenden Sie das Handbuch jederzeit, indem Sie auf **Beenden** klicken.
+   >Sie können das Handbuch jederzeit verlassen, indem Sie auf **Verwerfen** klicken.
 
-### Neue Funktionen {#whats-new}
+### Neuerungen {#whats-new}
 
-Der Tab Neue Funktionen enthält alle Details der neuesten Version von Marketo Engage.
+Die Registerkarte Neue Funktionen enthält alle Details der neuesten Version von Marketo Engage.
 
 ![](assets/help-center-7.png)
 
@@ -58,6 +58,6 @@ Der Tab Neue Funktionen enthält alle Details der neuesten Version von Marketo E
 
 ### Ressourcen {#resources}
 
-Im Tab Ressourcen haben Sie schnellen und direkten Zugriff auf verschiedene Möglichkeiten, zusätzliche Hilfe bei Ihrer Marketo Engage-Instanz zu erhalten.
+Die Registerkarte Ressourcen bietet Ihnen schnellen und direkten Zugriff auf verschiedene Möglichkeiten, zusätzliche Hilfe zu Ihrer Marketo Engage-Instanz zu erhalten.
 
 ![](assets/help-center-8.png)
