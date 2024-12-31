@@ -12,6 +12,6 @@ ht-degree: 0%
 
 # E-Mail-Aktivitäten {#email-activities}
 
-Auf dem Tab E-Mail-Aktivitäten werden alle E-Mails angezeigt, die von Verkäufen an die Leads und Kontakte unter dem Inhaber Verkauf gesendet werden. Prüfen Sie das Sendedatum und ob die E-Mail vom Empfänger geöffnet oder angeklickt wurde.
+Die Registerkarte E-Mail-Aktivitäten zeigt alle E-Mails an, die vom Verkauf an die Leads und Kontakte unter dem Vertriebsverantwortlichen gesendet wurden. Überprüfen Sie das Sendedatum und ob die E-Mail vom Empfänger geöffnet oder angeklickt wurde.
 
 ![](assets/email-activities-1.png)

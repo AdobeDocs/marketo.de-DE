@@ -1,7 +1,7 @@
 ---
 unique-page-id: 7514956
-description: Aktivieren prädiktiver Inhalte für Web Rich Media - Marketo Docs - Produktdokumentation
-title: Aktivieren prädiktiver Inhalte für Web Rich Media
+description: Aktivieren von prädiktivem Inhalt für Web-Rich-Media - Marketo-Dokumente - Produktdokumentation
+title: Aktivieren von prädiktivem Inhalt für Web-Rich-Media
 exl-id: 030f1dd7-8fe7-4c82-be5e-052f0a259e3c
 feature: Predictive Content
 source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
@@ -11,55 +11,55 @@ ht-degree: 0%
 
 ---
 
-# Aktivieren prädiktiver Inhalte für Web Rich Media {#enable-predictive-content-for-web-rich-media}
+# Aktivieren von prädiktivem Inhalt für Web-Rich-Media {#enable-predictive-content-for-web-rich-media}
 
-Prognostizierende Inhalte binden Ihre Webbesucher mit den relevantesten Inhalten, gestützt auf maschinelles Lernen und prädiktive Analysen. Mit Web Rich Media können Sie Ihren Inhalt mit Textbeschreibungen und Bildern verbessern und mehrere Empfehlungen für prädiktive Inhalte auf Ihrer Website einbetten.
+Prädiktive Inhalte interagieren Ihre Web-Besucher mit den relevantesten Inhalten, basierend auf maschinellem Lernen und prädiktiver Analyse. Mit Web-Rich-Media können Sie Ihre Inhalte mit Textbeschreibungen und Bildern verbessern und mehrere prädiktive Inhaltsempfehlungen in Ihre Website einbetten.
 
 >[!NOTE]
 >
->Es wird empfohlen, mehr als fünf Inhaltselemente pro Kategorie und Quelle (E-Mail, Rich-Media, Balken) zu aktivieren, bevor Predictive Content getestet und verwendet wird. Mehr Inhalte geben Ihnen ein besseres Prognoseergebnis.
+>Es wird empfohlen, mehr als fünf Inhaltselemente pro Kategorie und Quelle (E-Mail, Rich-Media, Balken) zu aktivieren, bevor Sie prädiktive Inhalte testen und verwenden. Mehr Inhalte bieten ein besseres prognostiziertes Ergebnis.
 
 >[!PREREQUISITES]
 >
->Vor der Aktivierung des prädiktiven Inhalts müssen Sie:
+>Bevor Sie prädiktive Inhalte aktivieren, müssen Sie:
 >
->* **Bereiten Sie Ihren prädiktiven Inhalt vor**
+>* **Prädiktive Inhalte vorbereiten**
 >
 >   * [Prädiktiven Inhalt für E-Mails bearbeiten](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md){target="_blank"} oder
->   * [Prädiktiven Inhalt für Rich Media bearbeiten](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md){target="_blank"} oder
->   * [Prädiktiven Inhalt für die Empfehlungsleiste bearbeiten](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md){target="_blank"}
+>   * [Bearbeiten prädiktiver Inhalte für Rich Media](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md){target="_blank"} oder
+>   * [Bearbeiten prädiktiver Inhalte für die Empfehlungsleiste](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md){target="_blank"}
 >
->* [Genehmigen eines Titels für prädiktiven Inhalt](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md){target="_blank"}
+>* [Genehmigen eines Titels für Prognoseinhalte](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md){target="_blank"}
 
 Nachdem Sie den Inhaltstitel, die Beschreibung und das Bild für Rich Media vorbereitet haben, können Sie einzelne oder mehrere Inhaltselemente aktivieren.
 
-1. Um einen einzelnen Titel zu aktivieren, klicken Sie auf einen Titel, um den Editor zu öffnen. Klicken Sie auf &quot;Rich Media&quot;, aktivieren Sie dann das Feld **Aktiviert für prädiktive Inhalte in Rich Media** und klicken Sie auf **Speichern**.
+1. Um einen einzelnen Titel zu aktivieren, klicken Sie auf einen Titel, um den Editor zu öffnen. Klicken Sie auf Rich Media, aktivieren Sie dann das **Aktiviert für prädiktiven Inhalt in Rich Media** und klicken Sie auf **Speichern**.
 
    ![](assets/image2017-10-3-9-3a50-3a29.png)
 
-1. Aktivieren Sie für mehrere Inhaltselemente auf der Seite **Prädiktiver Inhalt** die Kontrollkästchen neben den Titeln.
+1. Aktivieren Sie bei mehreren Inhalten auf der Seite **Prädiktiver Inhalt** die Kontrollkästchen neben den Titeln.
 
    ![](assets/image2017-10-3-10-3a0-3a42.png)
 
-1. Klicken Sie auf die Dropdownliste **Inhaltsaktionen** und wählen Sie **Für Web-Rich-Media aktivieren** aus.
+1. Klicken Sie auf die **Inhaltsaktionen** und wählen Sie **Für Web-Rich-Media aktivieren** aus.
 
    ![](assets/image2017-10-3-10-3a2-3a6.png)|
 
 ## Anpassen des JavaScript-Codes und Einbetten in Ihre Website  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-Weitere Informationen finden Sie in der Dokumentation zur Rich-Media-Empfehlungsvorlage [auf der Marketo Developers-Site](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. In diesem Abschnitt wird beschrieben, wie Sie die Vorlage für Ihre Website anpassen.
+Weitere Informationen finden Sie in der Dokumentation zur Vorlage für Rich-Media-Empfehlungen [auf der Marketo Developers-](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. Hier wird beschrieben, wie Sie die Vorlage für Ihre Website anpassen.
 
-Fügen Sie den JavaScript-Code an der Stelle auf Ihrer Website ein, an der die Vorlage angezeigt werden soll.
+Fügen Sie den JavaScript-Code an der Stelle in Ihre Website ein, an der die Vorlage angezeigt werden soll.
 
 **Vorlagenbeispiele**
 
-* Vorlage1: Drei horizontale Inhaltselemente mit Bildern, Kopfzeilen und Beschreibungen
-* Vorlage 2: Drei vertikale Inhaltselemente mit Bildern, Kopfzeilen und Beschreibungen
+* Vorlage 1: Drei horizontale Inhaltselemente mit Bildern, Kopfzeile und Beschreibung
+* Vorlage 2: Drei vertikale Inhaltselemente mit Bildern, Kopfzeile und Beschreibung
 
-Hier ist ein Beispiel für die Rich-Media-Empfehlungsvorlage1:
+Im Folgenden finden Sie ein Beispiel für die Rich-Media-Empfehlungsvorlage1:
 
 ![](assets/image2015-6-1-17-3a8-3a33.png)
 
-Hier ist ein Beispiel für die Rich-Media-Empfehlungsvorlage2:
+Im Folgenden finden Sie ein Beispiel für die Rich-Media-Empfehlungsvorlage2:
 
 ![](assets/image2015-12-20-10-3a35-3a12.png)

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 4718654
-description: Verstehen der Umsatzmodelle - Marketo-Dokumente - Produktdokumentation
+description: Grundlegendes zu Umsatzmodellen - Marketo-Dokumente - Produktdokumentation
 title: Grundlagen zu Umsatzmodellen
 exl-id: e8d1e7e9-caea-43a0-b87a-428a649e95d2
 feature: Reporting, Revenue Cycle Analytics
@@ -13,96 +13,96 @@ ht-degree: 0%
 
 # Grundlagen zu Umsatzmodellen {#understanding-revenue-models}
 
-Umsatzzyklusmodelle bringen das Marketing auf die nächste Stufe. Sie modellieren alle Phasen Ihres gesamten Umsatzes-Trichters - von der ersten Interaktion mit einem Lead bis hin zum erfolgreichen Kunden.
+Umsatzzyklusmodelle bringen Marketing auf die nächste Stufe. Sie modellieren alle Phasen Ihres gesamten Umsatztrichters - vom ersten Kontakt mit einem Lead bis hin zum gewonnenen Kunden.
 
-## Psychisches Modell (Wie man darüber nachdenkt) {#mental-model-how-to-think-about-this-thing}
+## Mentales Modell (Wie man über dieses Ding denkt) {#mental-model-how-to-think-about-this-thing}
 
-Die Modeler ist wie eine Reihe von Eimern mit Wasser in ihnen. Es sind Löcher am Boden der Eimer.
+Der Modeler ist wie eine Serie von Eimern mit Wasser darin. Da sind Löcher im Boden der Eimer.
 
 ![](assets/image2015-6-12-10-3a14-3a4.png)
 
-Der Modeler misst, wie viel Wasser (Leads) pro Tag in den Eimer gelangt und wie viel aus den Löchern herausgeht. (Es kann mehr als ein Loch geben.)
+Der Modellierer misst, wie viel Wasser (Zuleitungen) pro Tag in den Eimer gelangt und wie viel aus den Löchern herauskommt. (Es kann mehr als ein Loch geben)
 
-Der Modellierer misst die Anzahl der Leads im Behälter zu einem bestimmten Zeitpunkt. Das nennt man das Bühnengleichgewicht.
+Der Modellierer misst alle Lead-Mengen im Bucket zu einem bestimmten Zeitpunkt. Das nennt man Stadium-Balance.
 
 >[!TIP]
 >
->Für diejenigen, die finanziell engagierter sind, können Sie sich diese Bühnen als Konten vorstellen, deren Geld am Ende jedes Tages ins- und abgefließt wird.
+>Für diejenigen, die finanziell besser gestellt sind, können Sie sich die Stadien als Konten vorstellen, in denen Geld am Ende jedes Tages ein- und ausfließt, wobei das Gleichgewicht wiederhergestellt wird.
 
-Modelle eignen sich im Allgemeinen für Kunden, die mit intelligenten Kampagnen und Programmen vertraut sind und ihre Analysen auf die nächste Stufe bringen möchten.
+Modelle richten sich in der Regel an Kunden, die sich mit intelligenten Kampagnen und Programmen auskennen und ihre Analysen auf ein höheres Niveau bringen möchten.
 
-## Einstieg in ein neues Modell {#starting-with-a-new-model}
+## Beginnen mit einem neuen Modell {#starting-with-a-new-model}
 
-Standardmäßig startet ein neues Modell mit sechs Umsatzstufen. Dieses Modell ist eigentlich alles in Ordnung, aber es kann tief angepasst werden.
+Standardmäßig startet ein neues Modell mit sechs Umsatzstufen. Dieses Modell ist für sich genommen in Ordnung, kann aber umfassend angepasst werden.
 
 ![](assets/image2015-6-12-9-3a43-3a11.png)
 
-Beachten Sie, dass alle auf grünem Hintergrund sind. Dies wird als **Erfolgspfad** bezeichnet. Erfahren Sie mehr über den Erfolgspfad [hier](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-success-path.md).
+Beachten Sie, dass sie alle auf einem grünen Hintergrund sind. Dies wird als **Erfolgspfad“**. Erfahren Sie mehr über den Erfolgspfad [hier](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-success-path.md).
 
-**Phasen** sind die Meilensteine auf einem Lead, der Fortschritte in Richtung seiner Ziele macht.
+**Stadien** sind die Meilensteine auf einem, der Fortschritte auf dem Weg zu ihren Zielen bringt.
 
-**Transitionen** werden als Pfeile angezeigt und steuern, wie Leads zwischen Bühnen bewegt werden.
+**Übergänge** werden als Pfeile angezeigt und steuern, wie Leads zwischen den Stadien wechseln.
 
 >[!NOTE]
 >
->Die anonyme Bühne ist etwas Besonderes. Es sind alle Personen, die Ihre Website besuchen, aber Sie sind sich nicht sicher, wer sie sind. Sie können diese Phase nicht ändern.
+>Das anonyme Stadium ist etwas Besonderes. Es sind all die Leute, die Ihre Website besuchen, aber Sie sind sich nicht sicher, wer sie sind. Dieser Schritt kann nicht geändert werden.
 
 ## Anpassung {#customization}
 
-Jedes Unternehmen ist anders. Sie können Elemente zum Modell hinzufügen, indem Sie es von oben rechts ziehen.
+Jede Firma ist anders. Sie können dem Modell Elemente hinzufügen, indem Sie sie von oben rechts ziehen.
 
 ![](assets/image2015-6-12-9-3a45-3a36.png)
 
-## Lagerbestandsstatus {#inventory-stage}
+## Lagerstufe {#inventory-stage}
 
-Das sieht wie eine Kiste aus und ist die einfachste von Bühnen. Analytics verfolgt den Zufluss, den Abfluss und das Gleichgewicht in dieser Phase.
+Dies sieht aus wie eine Box und ist die grundlegendste aller Phasen. Analytics erfasst den Zufluss, den Abfluss und das Gleichgewicht in diesem Stadium.
 
-## SLA-Bühne {#sla-stage}
+## SLA-Phase {#sla-stage}
 
-Dies ist die Abkürzung für die Stufe **Service Level Agreement** . Hier geht es darum, dass Sie in einigen Phasen eine Zeitbegrenzung durchsetzen möchten.
-
->[!NOTE]
->
->**Beispiel**
->
->Wenn ein Lead ein Formular &quot;Kontaktaufnahme&quot;ausfüllt und Sie eine Warnung an einen Vertriebsmitarbeiter senden, ist möglicherweise eine SLA-Anfrage von 72 Stunden erforderlich. Sie werden in der Lage sein, die Infrastruktur zu verfolgen und den Rep wegen eines guten Leads in der Kommunikation zu beschimpfen.
-
-## Gate Stage {#gate-stage}
-
-Eine Gate-Phase ist für Situationen vorgesehen, in denen Sie Leads in eine von mehreren Optionen filtern möchten. Dies ist eine erweiterte Option. Anfänger sollten Tore vermeiden.
+Dies ist eine Kurzversion für das Stadium **Service level agreement**. In einigen Phasen soll ein Zeitlimit erzwungen werden.
 
 >[!NOTE]
 >
 >**Beispiel**
 >
->Ein Gate kann für Leads verwendet werden, die Teil einer **benannten Kontoliste** sind, um dies vom normalen Prozess zu trennen.
+>Wenn ein Lead ein Kontaktformular ausfüllt und Sie einen Warnhinweis an einen Vertriebsmitarbeiter senden, benötigen Sie möglicherweise eine 72-Stunden-SLA. Du wirst in der Lage sein, den Überblick über Verstöße zu behalten und den Vertreter zu beschimpfen, weil er einen guten Lead in Communicado hinterlassen hat.
+
+## Gatterstufe {#gate-stage}
+
+Eine Angussstufe ist für Situationen gedacht, in denen Sie Leads in eine von mehreren Auswahlmöglichkeiten filtern möchten. Dies ist eine erweiterte Option. Anfänger sollten Tore vermeiden.
+
+>[!NOTE]
+>
+>**Beispiel**
+>
+>Ein Gate kann für Leads verwendet werden, die Teil einer (benannten **) sind** um dies vom normalen Prozess zu trennen.
 
 ## Transitionen {#transitions}
 
-Präzisieren Sie genau, wie sich ein Lead mithilfe intelligenter Kampagnen von einer Bühne zur anderen bewegt, und stellen Sie sicher, dass Leads in keiner Phase stecken bleiben. Verwenden Sie unbedingt Trigger-Filter für Transitionen in (dies ist eine Möglichkeit zur Auswertung).
+Klären Sie mithilfe intelligenter Kampagnen genau, wie ein Lead von einem Stadium zum anderen wechselt, und stellen Sie sicher, dass Leads nicht in einem Stadium hängen bleiben. Stellen Sie sicher, dass Sie Trigger-Filter für die Übergänge zu verwenden (dies ist eine Möglichkeit, sie auszuwerten).
 
 >[!NOTE]
 >
 >**Beispiel**
 >
->Eine Transition kann durch das Ausfüllen eines Formulars durch einen Lead definiert werden.
+>Eine Transition kann durch einen Lead definiert werden, der ein Formular ausfüllt.
 
-Hinzufügen einer Phase des glücklichen Erfolgspfads
+Eine Phase des Erfolgspfads hinzufügen
 
 ![](assets/image2015-6-12-10-3a10-3a26.png)
 
-Verloren ist eine gute, die hinzugefügt werden kann, aber beachten Sie, dass sie sich nicht auf dem grünen Pfad befindet. Das liegt daran, dass es kein &quot;Erfolg&quot;ist.
+Lost ist eine gute Ergänzung, aber beachten Sie, dass es nicht auf dem grünen Pfad ist. Das liegt daran, dass es kein „Erfolg“ ist.
 
 >[!MORELIKETHIS]
 >
->* [Neues Umsatzmodell erstellen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
+>* [Erstellen eines neuen Umsatzmodells](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
 >
->* [Verwenden der Lagerbestandsstatus des Umsatzmodells](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
+>* [Verwendung der Umsatzmodell-Inventarstadien](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
 >
->* [Verwenden der Gate-Phasen des Umsatzmodells](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-gate-stages.md)
+>* [Verwenden der Umsatzmodell-Gate-Stadien](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-gate-stages.md)
 >
->* [Verwenden von SLA-Phasen des Umsatzmodells](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
+>* [Verwenden des Umsatzmodells SLA Stages](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
 >
->* [Bericht zu Ihrem Umsatzmodell](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/report-on-your-revenue-model.md)
+>* [Bericht über Ihr Umsatzmodell](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/report-on-your-revenue-model.md)
 >
->* [Genehmigen/Aufheben der Genehmigung eines Umsatzmodells](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)
+>* [Genehmigung eines Umsatzmodells erteilen/aufheben](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)

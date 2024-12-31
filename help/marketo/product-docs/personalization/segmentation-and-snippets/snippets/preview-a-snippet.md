@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2359498
-description: Vorschau eines Snippets - Marketo Docs - Produktdokumentation
-title: Vorschau eines Snippets anzeigen
+description: Vorschau eines Snippets - Marketo-Dokumente - Produktdokumentation
+title: Vorschau eines Snippets
 exl-id: 757e14ef-af7b-44d8-9c73-89b281df3d42
 feature: Snippets
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,24 +11,24 @@ ht-degree: 0%
 
 ---
 
-# Vorschau eines Snippets anzeigen {#preview-a-snippet}
+# Vorschau eines Snippets {#preview-a-snippet}
 
 >[!PREREQUISITES]
 >
->[Inhalt zu einem Snippet hinzufügen](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
+>[Hinzufügen von Inhalt zu einem Snippet](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
 
-Snippets sind Blöcke von dynamischen Inhalten, die sich basierend auf Segmentierungsregeln ändern.
+Snippets sind Blöcke mit dynamischem Inhalt, die sich auf der Grundlage von Segmentierungsregeln ändern.
 
-1. Wechseln Sie zu **Design Studio**.
+1. Gehen Sie zum **Design Studio**.
 
    ![](assets/designstudio-3.png)
 
-1. Klicken Sie auf Ihr Snippet und dann auf **Snippet in der Vorschau anzeigen**.
+1. Klicken Sie auf das Snippet und dann **Vorschau des Snippets**.
 
    ![](assets/image2014-9-16-9-3a48-3a32.png)
 
-Die Vorschau eignet sich hervorragend, um sicherzustellen, dass Ihr Inhalt für jedes Segment richtig aussieht.
+Die Vorschau ist großartig, um sicherzustellen, dass Ihr Inhalt für jedes Segment richtig aussieht.
 
 >[!MORELIKETHIS]
 >
->[Einen Snippet genehmigen](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet.md)
+>[Genehmigen eines Snippets](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet.md)

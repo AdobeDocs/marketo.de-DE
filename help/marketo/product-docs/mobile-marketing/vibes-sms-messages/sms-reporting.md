@@ -1,5 +1,5 @@
 ---
-description: SMS Reporting - Marketo Docs - Produktdokumentation
+description: SMS-Reporting - Marketo-Dokumente - Produktdokumentation
 title: SMS-Reporting
 feature: Mobile Marketing
 exl-id: c4429cb0-01e1-4176-ae14-b8ce38fa1baa
@@ -12,11 +12,11 @@ ht-degree: 4%
 
 # SMS-Reporting {#sms-reporting}
 
-Das Dashboard für SMS-Nachrichten bietet nützliche Analysen Ihrer Nachrichten.
+Das SMS-Nachrichten-Dashboard bietet nützliche Analysen zu Ihren Nachrichten.
 
 ## Zugriff auf das Dashboard {#access-the-dashboard}
 
-1. Um die Berichterstellung anzuzeigen, wählen Sie die gewünschte SMS-Nachricht aus. Klicken Sie auf die Dropdownliste **Ansicht** und wählen Sie **Dashboard** aus.
+1. Um die Berichte anzuzeigen, wählen Sie die gewünschte SMS-Nachricht aus. Klicken Sie auf **Ansicht** und wählen Sie **Dashboard**.
 
    ![](assets/sms-reporting-1.png)
 
@@ -28,18 +28,18 @@ Das Dashboard für SMS-Nachrichten bietet nützliche Analysen Ihrer Nachrichten.
 
 ### SMS-Entwicklung {#sms-progression}
 
-Zeigt die Gesamtzahl der gesendeten Nachrichten und der zugestellten Nachrichten an. Die Beträge befinden sich auf der rechten Seite. Wenn Sie den Mauszeiger über einen Balken bewegen, wird der Prozentsatz angezeigt.
+Zeigt die Gesamtzahl der gesendeten und zugestellten Nachrichten an. Die Beträge werden rechts angezeigt. Wenn Sie den Mauszeiger über einen Balken bewegen, wird der Prozentsatz angezeigt.
 
 ![](assets/sms-reporting-3.png)
 
 ### Zusammenfassung  {#summary}
 
-Zeigt die berechnete Absprungrate als Prozentsatz an. Bewegen Sie den Mauszeiger über die Suchleiste, um die Versandrate nach Menge und Prozentsatz anzuzeigen. Bewegen Sie den Mauszeiger über den Bereich &quot;Orange Bounce Rate&quot;(orangefarbene Absprungrate) der Leiste, um die Beträge/Prozentsätze der Softbounce- und Hardbounce-Rate anzuzeigen.
+Zeigt die berechnete Absprungrate in Prozent. Bewegen Sie den Mauszeiger über die Symbolleiste, um die Versandrate nach Betrag und Prozentsatz anzuzeigen. Bewegen Sie den Mauszeiger über den orangefarbenen Abschnitt Absprungrate des Balkens, um die Beträge/Prozentsätze der Soft- und Hardbounce-Rate anzuzeigen.
 
 ![](assets/sms-reporting-4.png)
 
 ### Aktivität im Zeitablauf {#activity-over-time}
 
-Ermöglicht die Auswahl der Option &quot;Gesendet gesamt&quot;oder &quot;Zugestellt insgesamt&quot;. Wählen Sie in der Datumsbereichsauswahl einen entsprechenden Bereich aus.
+Ermöglicht die Auswahl von Insgesamt gesendet oder Zugestellt. Wählen Sie einen geeigneten Bereich aus der Datumsbereichsauswahl aus.
 
 ![](assets/sms-reporting-5.png)

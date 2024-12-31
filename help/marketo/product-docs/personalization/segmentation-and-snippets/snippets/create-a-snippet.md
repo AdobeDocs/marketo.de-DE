@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2359459
-description: Erstellen eines Snippets - Marketo Docs - Produktdokumentation
-title: Snippet erstellen
+description: Erstellen eines Snippets - Marketo-Dokumente - Produktdokumentation
+title: Erstellen eines Snippets
 exl-id: 8483ed35-3763-42b6-bfd9-55e0a69a66cc
 feature: Snippets
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,11 +11,11 @@ ht-degree: 0%
 
 ---
 
-# Snippet erstellen {#create-a-snippet}
+# Erstellen eines Snippets {#create-a-snippet}
 
-Snippets können als dynamische Inhaltsbausteine für **E-Mails** und **Landingpages** verwendet werden.
+Snippets können als dynamische Inhaltsbausteine für (E **Mails** und **Landingpages)** werden.
 
-1. Wechseln Sie zu **Design Studio**.
+1. Navigieren Sie zum **Design Studio.**
 
    ![](assets/designstudio.png)
 
@@ -27,9 +27,9 @@ Snippets können als dynamische Inhaltsbausteine für **E-Mails** und **Landingp
 
    ![](assets/image2014-9-16-8-3a50-3a14.png)
 
-Gute Arbeit! Vereinfachen Sie Ihre Arbeit, indem Sie Snippets für Ihren dynamischen Inhalt erstellen. Nun können Sie fortfahren und [Inhalt zu Ihrem neuen Snippet hinzufügen](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md).
+Gute Arbeit! Vereinfachen Sie Ihre Arbeit, indem Sie Ausschnitte für Ihre dynamischen Inhalte erstellen. Jetzt können Sie fortfahren und [Inhalt zu Ihrem neuen Snippet hinzufügen](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md).
 
 >[!MORELIKETHIS]
 >
->* [Inhalt zu einem Snippet hinzufügen](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
->* [Dynamische Inhalte verstehen](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md)
+>* [Hinzufügen von Inhalt zu einem Snippet](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
+>* [Verstehen dynamischer Inhalte](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md)

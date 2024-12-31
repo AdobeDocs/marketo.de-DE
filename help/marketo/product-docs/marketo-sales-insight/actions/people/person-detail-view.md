@@ -1,5 +1,5 @@
 ---
-description: Personendetailansicht - Marketo-Dokumente - Produktdokumentation
+description: Personen-Detailansicht - Marketo-Dokumente - Produktdokumentation
 title: Personendetailansicht
 hide: true
 hidefromtoc: true
@@ -14,44 +14,44 @@ ht-degree: 0%
 
 # Personendetailansicht {#person-detail-view}
 
-Die Personendetailansicht bietet ein detailliertes Profil jeder Person in Ihrem Marketo-Verkaufskonto.
+Die Personendetailansicht bietet ein detailliertes Profil jeder Person in Ihrem Marketo-Kundenkonto.
 
 ## Zugriff {#how-to-access}
 
-1. Um auf die Personendetailansicht zuzugreifen, klicken Sie auf die Registerkarte **Personen** .
+1. Um auf die Personendetailansicht zuzugreifen, klicken Sie auf die Registerkarte **Personen**.
 
    ![](assets/person-detail-view-1.png)
 
-1. Wählen Sie die gewünschte Person aus.
+1. Wählen Sie die gewünschte Person.
 
    ![](assets/person-detail-view-2.png)
 
    >[!TIP]
    >
-   >Überall, wo Sie den Namen einer Person sehen, können Sie darauf klicken und zu ihrer Personendetailansicht gelangen.
+   >Fast überall, wo Sie den Namen einer Person sehen, können Sie darauf klicken und zu ihrer Personendetailansicht gelangen.
 
-## Registerkarte &quot;Info&quot; {#about-tab}
+## Registerkarte „Info“ {#about-tab}
 
-Umfasst alle Kontaktinformationen der Person.
+Enthält alle Kontaktinformationen der Person.
 
 ![](assets/person-detail-view-3.png)
 
 **Kontaktkarte**
 
-* Enthält Kontaktinformationen wie E-Mail-Adresse, Name, Unternehmen, Titel, Telefonnummer und Social-Media-Links
+* Enthält Kontaktinformationen wie: E-Mail-Adresse, Name, Firma, Titel, Telefonnummer und Social-Media-Links
 
 **Gruppen**
 
-* Zeigt an und verwaltet, welchen Gruppen diese Person angehört
+* Zeigt an und verwaltet, zu welchen Gruppen diese Person gehört
 
 **Kontoinformationen**
 
 * Kann eine Person zu Salesforce hinzufügen
-* Pull-Konto- und Lead-/Kontaktinformationen von Salesforce
+* Abrufen von Konto- und Lead-/Kontaktinformationen aus Salesforce
 
 **Benutzerdefinierte Felder**
 
-* Fügen Sie benutzerdefinierte Felder hinzu oder entfernen Sie sie, die in Ihren Vorlagen und Kampagnen als dynamische Felder verwendet werden können
+* Hinzufügen oder Entfernen von benutzerdefinierten Feldern, die als dynamische Felder in Ihren Vorlagen und Kampagnen verwendet werden können
 
 **Compliance**
 
@@ -59,53 +59,53 @@ Umfasst alle Kontaktinformationen der Person.
 
 **Hinweise**
 
-* Benutzerdefinierte Notizen erstellen
+* Erstellen benutzerdefinierter Notizen
 
-## Registerkarte &quot;Interaktion&quot; {#engagement-tab}
+## Registerkarte „Interaktion“ {#engagement-tab}
 
 Erfahren Sie, wie diese Person mit Ihrer Kontaktaufnahme interagiert.
 
 PICC
 
-**Marketo Sales Activity**
+**Verkaufsaktivität für Marketo**
 
-* Anzeigen von Interaktionsaktivitäten aus Ihren Verkaufs-E-Mails und Kampagnen
+* Interaktionsaktivitäten in Ihren Verkaufs-E-Mails und -Kampagnen anzeigen
 
-**Marketingaktivität**
+**Marketing-Aktivität**
 
 * Erfahren Sie, wie Ihre Person mit Marketing-Kampagnen interagiert
 
-## Verlauf {#history-tab}
+## Registerkarte „Verlauf“ {#history-tab}
 
-Zeigt Ihren Kontaktverlauf an. Umfasst E-Mails, Kampagnen und Aufrufe.
+Zeigt den Verlauf der Kontakte an. Enthält E-Mails, Kampagnen und Aufrufe.
 
 PICC
 
 **Verkaufskampagnen**
 
-* Alle aktiven oder abgeschlossenen Kampagnen anzeigen, zu denen diese Person gehört
+* Anzeigen aller aktiven oder abgeschlossenen Kampagnen, zu denen diese Person gehört
 
 **Marketing-Kampagnen**
 
-* Alle Marketing-Kampagnen anzeigen, denen diese Person angehört
+* Anzeigen aller Marketing-Kampagnen, in denen diese Person Mitglied ist
 
-**E-Mails zum Verkauf**
+**E-Mails**
 
-* Alle E-Mails anzeigen, die Sie an diese Person gesendet haben, sowie die Interaktionsmetriken
+* Zeigen Sie alle E-Mails an, die Sie dieser Person gesendet haben, und die Interaktionsmetriken
 
-**Verkaufsaufrufe**
+**Verkaufsanrufe**
 
-* Alle Anrufe anzeigen, die Sie an diese Person getätigt haben
+* Alle Aufrufe anzeigen, die Sie an diese Person getätigt haben
 
-## Registerkarte &quot;Aufgaben&quot; {#tasks-tab}
+## Registerkarte „Aufgaben“ {#tasks-tab}
 
-Verwalten Sie Aufgaben, die dieser Person zugeordnet sind.
+Aufgaben verwalten, die mit dieser Person verknüpft sind.
 
 PICC
 
 Aktionen, die Sie ausführen können:
 
 * Aufgabe bearbeiten oder löschen
-* Siehe Fälligkeitsdatum .
-* Klicken Sie auf den Typ , um das Verkaufsgespräch bei Aufruf, E-Mail erstellen bei E-Mail, LinkedIn bei E-Mail und benutzerdefinierten Hinweis bei Benutzerdefiniert zu starten.
-* Aufgabe als abgeschlossen markieren
+* Fälligkeitsdatum anzeigen
+* Klicken Sie auf den Typ, um den Verkauf per Telefon zu starten, wenn Sie anrufen, auf E-Mail erstellen, auf LinkedIn, wenn Sie inMail sind, und auf Benutzerdefinierte Notiz, wenn sie benutzerdefiniert ist.
+* Markieren einer Aufgabe als abgeschlossen

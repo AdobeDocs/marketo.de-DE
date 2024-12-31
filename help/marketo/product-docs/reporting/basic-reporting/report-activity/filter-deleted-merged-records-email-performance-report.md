@@ -1,35 +1,36 @@
 ---
-description: Zusammengeführte/gelöschte Datensätze in einem E-Mail-Bericht filtern - Marketo Docs - Produktdokumentation
-title: Zusammengeführte/gelöschte Datensätze in einem E-Mail-Bericht filtern
+description: Filtern von zusammengeführten/gelöschten Datensätzen in einem E-Mail-Bericht - Marketo-Dokumente - Produktdokumentation
+title: Filtern von zusammengeführten/gelöschten Datensätzen in einem E-Mail-Bericht
 feature: Reporting
-source-git-commit: 26c97890c945978a37d98ca7e3f04e28ca41ea19
+exl-id: f62047cf-35a4-4b63-9328-3d5f7b778711
+source-git-commit: fa18730e9a7ce60f8a2e4f7069ea6b82976549aa
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%
 
 ---
 
-# Gelöschte/zusammengeführte Datensätze in einem E-Mail-Leistungsbericht filtern {#filter-deleted-merged-records-in-an-email-performance-report}
+# Filtern gelöschter/zusammengeführter Datensätze in einem E-Mail-Leistungsbericht {#filter-deleted-merged-records-in-an-email-performance-report}
 
-Konzentrieren Sie Ihren Bericht zur E-Mail-Leistung auf E-Mails in Ihren Programmen (&#39;lokale Assets&#39;), auf E-Mails in Design Studio (&#39;globale Assets&#39;) oder auf archivierte E-Mails.
+Konzentrieren Sie Ihren E-Mail-Leistungsbericht auf E-Mails in Ihren Programmen („lokale Assets„), auf E-Mails in Design Studio („globale Assets„) oder auf E-Mails, die archiviert wurden.
 
 >[!NOTE]
 >
->Das Filtern von Assets in Berichten wird im Satellitenmodus nicht unterstützt (das Symbol &quot;In einem neuen Fenster öffnen&quot;rechts auf der Asset-Detailseite).
+>Das Filtern von Assets in Berichten wird im Satellitenmodus nicht unterstützt (das Symbol „In einem neuen Fenster öffnen“ rechts neben der Asset-Detailseite).
 
-1. Wechseln Sie zum Bereich **Analytics** (oder &quot;Marketingaktivitäten&quot;).
+1. Wechseln Sie zum **Analytics**-Bereich (oder Marketing-Aktivitäten).
 
    ![](assets/filter-deleted-merged-records-in-an-email-performance-report-1.png)
 
-1. Wählen Sie Ihren E-Mail-Leistungsbericht aus.
+1. Wählen Sie Ihren E-Mail-Leistungsbericht.
 
    ![](assets/filter-deleted-merged-records-in-an-email-performance-report-2.png)
 
-1. Klicken Sie auf die Registerkarte **Einrichtung** und wählen Sie **Gelöschte/zusammengeführte Personen ausblenden** aus.
+1. Klicken Sie auf **Setup** und wählen Sie **Gelöschte/Zusammengeführte Personen ausblenden**.
 
    ![](assets/filter-deleted-merged-records-in-an-email-performance-report-3.png)
 
-1. Klicken Sie auf das Dropdown-Menü, wählen Sie **Aktiviert** und klicken Sie auf **Speichern**.
+1. Klicken Sie auf die Dropdown-Liste, wählen Sie **Aktiviert** und klicken Sie auf **Speichern**.
 
    ![](assets/filter-deleted-merged-records-in-an-email-performance-report-4.png)
 

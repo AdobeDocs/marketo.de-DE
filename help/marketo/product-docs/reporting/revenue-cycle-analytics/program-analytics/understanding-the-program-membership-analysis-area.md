@@ -1,7 +1,7 @@
 ---
 unique-page-id: 4718640
-description: Grundlegendes zum Programmteilnahmebereich - Marketo-Dokumente - Produktdokumentation
-title: Grundlegendes zum Bereich für die Programmzugehörigkeitsanalyse
+description: Grundlegendes zum Bereich der Programmmitgliedschaftsanalyse - Marketo-Dokumente - Produktdokumentation
+title: Grundlegendes zum Bereich für die Analyse der Programmmitgliedschaft
 exl-id: dab55802-9a6c-447c-99fc-bc4fece6d674
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
@@ -11,25 +11,25 @@ ht-degree: 16%
 
 ---
 
-# Grundlegendes zum Bereich für die Programmzugehörigkeitsanalyse {#understanding-the-program-membership-analysis-area}
+# Grundlegendes zum Bereich für die Analyse der Programmmitgliedschaft {#understanding-the-program-membership-analysis-area}
 
-Im Bereich Programmteilnahmeanalyse können Sie die Effektivität einzelner Programme analysieren oder die zusammengefassten Ergebnisse für einen bestimmten Zeitraum nach Kanal anzeigen.
+Im Bereich Analyse der Programmmitgliedschaft können Sie die Effektivität einzelner Programme analysieren oder zusammengefasste Ergebnisse nach Kanal für einen bestimmten Zeitraum anzeigen.
 
-## Beispiele für Geschäftsfragen {#example-business-questions}
+## Beispiele für geschäftliche Fragen {#example-business-questions}
 
-Wie viele Personen nahmen an einem Programm nach Kanal in einem bestimmten Monat teil?
+Wie viele Personen nahmen an einem Programm pro Kanal in einem bestimmten Monat teil?
 
 ![](assets/one-2.png)
 
-Wie viele Personen haben die Erfolgskriterien für ein bestimmtes Programm erreicht?
+Wie viele Personen haben die Erfolgskriterien eines bestimmten Programms erreicht?
 
 ![](assets/two-2.png)
 
-Wie viele neue Namen haben die einzelnen Programme/Kanäle pro Monat generiert?
+Wie viele neue Namen hat jedes Programm/jeder Kanal pro Monat generiert?
 
 ![](assets/three-2.png)
 
-## Dimensionen und Maßnahmen der Programmzugehörigkeitsanalyse {#program-membership-analysis-dimensions-and-measures}
+## Dimensionen und Maßnahmen zur Analyse der Programmmitgliedschaft {#program-membership-analysis-dimensions-and-measures}
 
 >[!NOTE]
 >
@@ -37,22 +37,22 @@ Wie viele neue Namen haben die einzelnen Programme/Kanäle pro Monat generiert?
 
 ### Mitgliedschaft {#membership}
 
-| Messung | Beschreibung |
+| Maßnahme | Beschreibung |
 |---|---|
-| Anteil neuer Namen | Prozentsatz der im Rahmen eines Programms erworbenen Leads |
-| Mitglieder | Gesamtzahl der Leads im Programm |
-| Neue Namen | Gesamtzahl der durch ein Programm erworbenen neuen Namen |
+| Anteil neuer Namen | Prozentsatz der Leads, die in einem Programm erworben wurden |
+| Mitglieder | Leads in einem Programm insgesamt |
+| Neue Namen | Gesamtzahl der von einem Programm erworbenen neuen Namen |
 
 ### Programmattribute {#program-attributes}
 
-| Abmessung | Beschreibung |
+| Dimension | Beschreibung |
 |---|---|
 | Programmkanal | Programmkanal |
 | Programmname | Programmname |
 
-### Zeitrahmen der Programmmitgliedschaft {#program-membership-timeframe}
+### Zeitraum für die Programmmitgliedschaft {#program-membership-timeframe}
 
-| Abmessung | Beschreibung |
+| Dimension | Beschreibung |
 |---|---|
 | Jahr | Zeitrahmen der Programmmitgliedschaft |
 | Quartal | Zeitrahmen der Programmmitgliedschaft |
@@ -60,11 +60,11 @@ Wie viele neue Namen haben die einzelnen Programme/Kanäle pro Monat generiert?
 | Woche | Zeitrahmen der Programmmitgliedschaft |
 | Datum | Zeitrahmen der Programmmitgliedschaft |
 
-### Erfolg {#success}
+### Erfolgreich {#success}
 
-| Messung | Beschreibung |
+| Maßnahme | Beschreibung |
 |---|---|
-| Erfolg in % (Neue Namen) | Prozentsatz der Leads, die durch das Programm erworben wurden UND im Fortgang des Programms erfolgreich waren |
-| % Erfolg (Summe) | Prozentsatz der Leads, die im Verlauf eines Programms erfolgreich waren |
-| Erfolg (Neue Namen) | Gesamtzahl der neuen Namen, die im Verlauf eines Programms erfolgreich waren |
-| Erfolg (Summe) | Gesamtzahl der Leads, die im Verlauf eines Programms erfolgreich waren |
+| Erfolg in % (Neue Namen) | Prozentsatz der Leads, die vom Programm akquiriert UND im Verlauf des Programms erfolgreich waren |
+| % Erfolg (Summe) | Prozentsatz der Leads, die beim Fortschreiten eines Programms erfolgreich waren |
+| Erfolg (Neue Namen) | Gesamtzahl der neuen Namen, die beim Fortschreiten eines Programms erfolgreich waren |
+| Erfolg (Summe) | Gesamtzahl der Leads, die beim Fortschreiten eines Programms erfolgreich waren |

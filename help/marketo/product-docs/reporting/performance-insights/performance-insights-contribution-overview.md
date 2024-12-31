@@ -1,7 +1,7 @@
 ---
 unique-page-id: 12979008
-description: Leistungseinblicke - Beitragsübersicht - Marketo-Dokumente - Produktdokumentation
-title: Leistungseinblicke - Beitragsübersicht
+description: Performance Insights-Beitragsübersicht - Marketo-Dokumente - Produktdokumentation
+title: Performance Insights-Beitrag - Übersicht
 exl-id: 52d97100-b811-4f43-9833-b18ae098a0f3
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,13 +11,13 @@ ht-degree: 0%
 
 ---
 
-# Leistungseinblicke - Beitragsübersicht {#performance-insights-contribution-overview}
+# Performance Insights-Beitrag - Übersicht {#performance-insights-contribution-overview}
 
-In Marketo Performance Insights wird die Beitragsansicht standardmäßig angezeigt.
+In Marketo Performance Insights wird standardmäßig die Beitragsansicht angezeigt.
 
 ![](assets/one-1.png)
 
-Wählen Sie die Metrik aus, nach der Sie die Leistung anzeigen möchten. In diesem Beispiel werden wir uns die Chancen ansehen, die durch Multi-Touch im Umsatz-Dashboard gewonnen wurden.
+Wählen Sie die Metrik aus, nach der Sie die Leistung anzeigen möchten. In diesem Beispiel werden wir uns die über Multi-Touch im Umsatz-Dashboard gewonnenen Vertriebschancen ansehen.
 
 ![](assets/2.png)
 
@@ -25,53 +25,53 @@ Wählen Sie die Metrik aus, nach der Sie die Leistung anzeigen möchten. In dies
 >
 >Erfahren Sie mehr über [Erstkontakt und Multi-Touch](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
-Wählen Sie aus, für welchen Zeitraum Metriken angezeigt werden sollen. In diesem Beispiel betrachten wir das aktuelle Jahr (Jahr bis heute).
+Wählen Sie aus, für welchen Zeitraum Sie Metriken anzeigen möchten. In diesem Beispiel sehen wir das aktuelle Jahr (vom aktuellen Datum bis zum aktuellen Datum).
 
 ![](assets/3-1.png)
 
 >[!NOTE]
 >
->Die Auswahl &quot;Vorheriges Jahr&quot;wurde vorübergehend entfernt. Sie haben weiterhin die Möglichkeit, die Leistungsdaten des gesamten Vorjahres über die Auswahl des benutzerdefinierten Bereichs anzuzeigen.
+>Wir haben die Auswahl „Vorjahr“ vorübergehend entfernt. Sie haben weiterhin die Möglichkeit, die gesamten Leistungsdaten des Vorjahres mithilfe der Auswahl „Benutzerdefinierter Bereich“ anzuzeigen.
 
-Die Metriken werden in zwei Diagrammen dargestellt: Doppel- und Balkendiagramm.
+Die Metriken werden in zwei Diagrammen angezeigt: Ringdiagramm und Balkendiagramm.
 
 ![](assets/four.png)
 
-Das Doppeldiagramm zeigt die Top-10-Kanäle für die ausgewählte Metrik an.
+Das Ringdiagramm zeigt die zehn wichtigsten Kanäle für die ausgewählte Metrik.
 
 ![](assets/5-1.png)
 
-Das Balkendiagramm zeigt die Programmleistung über alle Kanäle (zehn Programme gleichzeitig) für die ausgewählte Metrik an. Um weitere Informationen anzuzeigen, klicken Sie auf den Pfeil rechts, um zur nächsten Gruppe zu scrollen.
+Das Balkendiagramm zeigt die Programmleistung für alle Kanäle (zehn Programme gleichzeitig) für die ausgewählte Metrik an. Um weitere Informationen anzuzeigen, klicken Sie auf den Pfeil rechts, um zur nächsten Gruppe zu scrollen.
 
 ![](assets/six.png)
 
 >[!TIP]
 >
->Wenn die Balken im Diagramm beim Scrollen durch die Gruppen vergrößert werden sollen, aktivieren Sie das Kontrollkästchen **Y-Achse passend skalieren** .
+>Wenn Sie möchten, dass die Balken im Diagramm beim Scrollen durch die Gruppen nach oben skaliert werden, aktivieren Sie das Kontrollkästchen **Y-Achse anpassen**.
 
 Bewegen Sie den Mauszeiger über eine Leiste, um weitere Details anzuzeigen.
 
 ![](assets/seven.png)
 
-Wählen Sie einen oder mehrere Kanäle in der Doppelt-Grafik aus, und alle mit diesen Kanälen verknüpften Programme werden in der Balkendiagramm auf der rechten Seite angezeigt. Klicken Sie erneut auf die Kanäle, um die Auswahl aufzuheben.
+Wählen Sie einen oder mehrere Kanäle im Ringdiagramm aus, und alle mit diesen Kanälen verknüpften Programme werden im Balkendiagramm rechts angezeigt. Klicken Sie erneut auf den/die Kanal/Kanäle, um die Auswahl aufzuheben.
 
 ![](assets/eight.png)
 
-Das unten stehende Datenraster funktioniert wie eine Tabelle und zeigt alle verfügbaren Metriken unter dem ausgewählten Attributionsmodell (Erstkontakt/Multi-Touch) an. Die Spalte mit der ausgewählten Metrik wird hervorgehoben.
+Das nachstehende Datenraster funktioniert wie eine Tabelle und zeigt alle verfügbaren Metriken unter dem ausgewählten Attributionsmodell (Erstkontakt/Mehrfachkontakt). Die Spalte mit der ausgewählten Metrik ist hervorgehoben.
 
 ![](assets/9.png)
 
-| **Opportunities Won** | Der Teil der Gutschrift (in numerischem Wert), den das Programm zur Beeinflussung der gewann Gelegenheit erhalten hat |
+| **Opportunities gewonnen** | Der Anteil des Guthabens (in numerischem Wert), den das Programm zur Beeinflussung der gewonnenen Opportunity erhalten hat |
 |---|---|
-| **Umsatz erzielt** | Der Teil des Kredits (in Geldwert), den das Programm zur Beeinflussung der gewann Chance erhalten hat |
+| **Umsatz gewonnen** | Der Teil des Kredits (in monetärer Höhe), den das Programm zur Beeinflussung der gewonnenen Opportunity erhalten hat |
 | **Kosten** | Gesamtkosten des Programms |
-| **Kosten pro Opportunity Won** | Verhältnis der Programmkosten und des (numerischen) Kreditbetrags, den das Programm erhalten hat, um die Schaffung neuer Möglichkeiten zu beeinflussen |
-| **Umsatz in Kostenverhältnis** | Verhältnis des Kreditanteils (in Geldwert) des Programms zur Beeinflussung der eigenen Chancen und der Kosten des Programms |
+| **Kosten pro gewonnener Opportunity** | Das Verhältnis zwischen den Programmkosten und dem Anteil des Kredits (in numerischem Wert), den das Programm erhalten hat, um die Schaffung neuer Möglichkeiten zu beeinflussen |
+| **Umsatz gewonnen zu Kostenverhältnis** | Das Verhältnis des Kreditanteils (in monetärer Höhe), den das Programm zur Beeinflussung der gewonnenen Chancen erhalten hat, und die Kosten des Programms |
 
-Erweitern Sie einen Kanal, um die zehn wichtigsten Programme zu sehen, wobei die restlichen Programme kombiniert werden.
+Erweitern Sie einen Kanal, um die zehn wichtigsten Programme anzuzeigen, wobei die verbleibenden Programme kombiniert werden.
 
 ![](assets/10.png)
 
 >[!NOTE]
 >
->Wenn Sie auf das Kontrollkästchen neben einem Kanal klicken, wird dieser im Diagramm oben aktiviert/deaktiviert.
+>Wenn Sie auf das Kontrollkästchen neben einem Kanal klicken, wird dieser im Ringdiagramm oben aktiviert/deaktiviert.

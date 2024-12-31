@@ -13,23 +13,23 @@ ht-degree: 0%
 
 # Kategorien einrichten {#set-up-categories}
 
-Erstellen Sie Kategorien im prädiktiven Inhalt, um Ihre prognostizierten Ergebnisse im Web oder in der E-Mail zu gruppieren. Sie können beispielsweise nur mit Blogs oder mit Inhalten in einer bestimmten Sprache arbeiten. Außerdem können Sie damit Ihre Seitenansicht durchsuchen und filtern.  Kategorien werden auf den Seiten &quot;Alle Inhalte&quot;und &quot;Prädiktive Inhalte&quot;zur einfachen Referenz angezeigt.
+Erstellen Sie Kategorien in prädiktiven Inhalten, um Ihre prädiktiven Ergebnisse im Web oder in E-Mails zu gruppieren. Sie können beispielsweise nur mit Blogs oder mit Inhalten in einer bestimmten Sprache arbeiten. Außerdem können Sie damit Ihre Seitenansicht durchsuchen und filtern.  Kategorien werden auf den Seiten „Alle Inhalte“ und „Prädiktiver Inhalt“ angezeigt.
 
 ![](assets/image2017-10-3-9-3a3-3a44.png)
 
-Wenn Sie erkannten Inhalt bearbeiten, fügen Sie auf dem Bearbeitungsbildschirm Kategorien hinzu. Klicken Sie auf das Feld **Kategorien** und wählen Sie sie aus der Dropdown-Liste aus.
+Wenn Sie erkannte Inhalte bearbeiten, fügen Sie Kategorien im Bearbeitungsbildschirm hinzu. Klicken Sie auf **Kategorien** und wählen Sie diese aus der Dropdown-Liste aus.
 
 ![](assets/two.png)
 
-Wenn Sie Inhalte hinzufügen, können Sie sie mit den im Popup-Fenster ausgewählten Kategorien taggen.
+Wenn Sie Inhalte hinzufügen, können Sie sie mit Kategorien taggen, die im Popup-Fenster ausgewählt werden.
 
 ![](assets/add-new-content-dropdown-hand.png)
 
-## Erstellen von Kategorie-Tags {#create-category-tags}
+## Kategorie-Tags erstellen {#create-category-tags}
 
-So erstellen Sie Kategorie-Tags:
+So erstellen Sie Kategorie-Tags.
 
-1. Navigieren Sie zu **Inhaltseinstellungen**.
+1. Navigieren Sie **Inhaltseinstellungen**.
 
    ![](assets/settings-dropdown-hand-1.png)
 
@@ -37,15 +37,15 @@ So erstellen Sie Kategorie-Tags:
 
    ![](assets/content-discovery-categories-hand.png)
 
-1. Bestehende Kategorie-Tags werden angezeigt. Geben Sie ein neues Kategorie-Tag ein und klicken Sie auf **Neu erstellen**.
+1. Vorhandene Kategorie-Tags werden angezeigt. Geben Sie ein neues Kategorie-Tag ein und klicken Sie auf **Neu erstellen**.
 
    ![](assets/content-settings-create-cat-tags-hand.png)
 
-1. Sie können ein Kategorie-Tag entfernen, indem Sie neben dem Tag auf **x** klicken.
+1. Sie können ein Kategorie-Tag entfernen, indem Sie auf das **x** daneben klicken.
 
    ![](assets/remove-category-tag-updated.png)
 
-1. Klicken Sie auf **Speichern** , wenn Sie fertig sind.
+1. Klicken **abschließend** Speichern“.
 
    ![](assets/save-new.png)
 

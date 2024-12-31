@@ -1,7 +1,7 @@
 ---
 unique-page-id: 4718675
-description: Ändern des Namens einer Bühne - Marketo Docs - Produktdokumentation
-title: Ändern des Namens einer Bühne
+description: Ändern des Namens eines Stadiums - Marketo-Dokumente - Produktdokumentation
+title: Name eines Stadiums ändern
 exl-id: 03e2a648-8524-4d10-ba6c-f422d9da5a40
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
@@ -11,19 +11,19 @@ ht-degree: 2%
 
 ---
 
-# Ändern des Namens einer Bühne {#changing-the-name-of-a-stage}
+# Name eines Stadiums ändern {#changing-the-name-of-a-stage}
 
-Verändere deine Meinung? Kein Problem. Das Umbenennen einer Phase im Modell für den Umsatzzyklus ist einfach.
+Ihre Meinung ändern? Kein Problem. Das Umbenennen eines Stadiums im Umsatzzyklusmodellierer ist einfach.
 
-1. Wechseln Sie zum Bereich **Analytics** .
+1. Wechseln Sie zum Bereich **Analytics**.
 
    ![](assets/image2015-4-27-23-3a18-3a34.png)
 
-1. Wählen Sie ein zu aktualisierendes Umsatzzyklusmodell aus. Klicken Sie auf **Entwurf bearbeiten**.
+1. Wählen Sie einen zu aktualisierenden Umsatzzyklusmodellierer aus. Klicken Sie **Entwurf bearbeiten**.
 
    ![](assets/image2015-4-27-17-3a36-3a33.png)
 
-1. Wählen Sie die zu aktualisierende Phase aus und geben Sie einen neuen **Namen** ein.
+1. Wählen Sie die Phase aus, die Sie aktualisieren möchten, und geben Sie einen neuen **Namen** ein.
 
    ![](assets/image2015-4-27-17-3a40-3a46.png)
 
@@ -31,4 +31,4 @@ Verändere deine Meinung? Kein Problem. Das Umbenennen einer Phase im Modell fü
 
    ![](assets/image2015-4-27-17-3a41-3a51.png)
 
-   Siehe? Einfach! Denken Sie daran, [Ihr Modell genehmigen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md).
+   Siehst du? Einfach! Denken Sie daran[ Ihr Modell zu ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md).

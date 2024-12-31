@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360205
-description: Freigabe eines Modells für alle Arbeitsbereiche - Marketo-Dokumente - Produktdokumentation
+description: Modell über Arbeitsbereiche hinweg freigeben - Marketo-Dokumente - Produktdokumentation
 title: Modell über Arbeitsbereiche hinweg freigeben
 exl-id: 3a118f63-a97d-432a-a50c-3e08d934405e
 feature: Reporting
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Modell über Arbeitsbereiche hinweg freigeben {#share-a-model-across-workspaces}
 
-Marketo bietet Ihnen die Möglichkeit, ein oder mehrere Modelle über Arbeitsbereiche hinweg freizugeben. So geht es.
+Marketo bietet die Möglichkeit, ein Modell(e) über Arbeitsbereiche hinweg freizugeben. So geht&#39;s.
 
-1. Wechseln Sie zum Abschnitt **Analytics** .
+1. Navigieren Sie zum Abschnitt **Analytics**.
 
    ![](assets/analytics.png)
 
-1. Klicken Sie mit der rechten Maustaste auf den Ordner **Meine Modelle** und klicken Sie auf **Neuer Ordner**.
+1. Klicken Sie mit der rechten Maustaste auf **Ordner** Meine Modelle **und dann auf Neuer Ordner**.
 
    ![](assets/image2014-10-3-14-3a5-3a23.png)
 
@@ -27,20 +27,20 @@ Marketo bietet Ihnen die Möglichkeit, ein oder mehrere Modelle über Arbeitsber
 
    ![](assets/image2014-10-3-14-3a5-3a38.png)
 
-1. Ziehen Sie die Modelle, die Sie freigeben möchten, in den Ordner **Freigeben**.
+1. Ziehen Sie das/die Modell(e), das/die Sie freigeben möchten, in den **Freigabeordner**.
 
    ![](assets/image2014-10-3-14-3a5-3a52.png)
 
-1. Klicken Sie mit der rechten Maustaste auf Ihren Ordner und klicken Sie auf **Ordner freigeben**.
+1. Klicken Sie mit der rechten Maustaste auf den Ordner und **Sie auf Ordner freigeben**.
 
    ![](assets/image2014-10-3-14-3a6-3a9.png)
 
    >[!NOTE]
    >
-   >Durch die Freigabe eines Modells für einen anderen Arbeitsbereich können diese Benutzer Berichte auf der Grundlage des Modells ausführen.
+   >Durch die Freigabe eines Modells mit einem anderen Arbeitsbereich können diese Benutzer auf Grundlage des Modells Berichte ausführen.
 
 1. Wählen Sie die Arbeitsbereiche aus, für die Sie den Ordner freigeben möchten, und klicken Sie auf **Speichern**.
 
    ![](assets/image2014-10-3-14-3a6-3a22.png)
 
-So einfach ist es! Jetzt können Personen aus anderen Arbeitsbereichen durch das gemeinsam genutzte Modell navigieren.
+So einfach ist das! Jetzt können sich Personen aus anderen Arbeitsbereichen durch das freigegebene Modell bewegen.

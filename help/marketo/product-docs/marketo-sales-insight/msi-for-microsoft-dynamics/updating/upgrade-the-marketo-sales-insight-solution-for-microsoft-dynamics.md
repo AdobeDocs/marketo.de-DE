@@ -1,6 +1,6 @@
 ---
 unique-page-id: 6849099
-description: Upgrade der Marketo Sales Insight-Lösung für Microsoft Dynamics - Marketo Docs - Produktdokumentation
+description: Upgrade der Marketo Sales Insight-Lösung für Microsoft Dynamics - Marketo-Dokumente - Produktdokumentation
 title: Upgrade der Marketo Sales Insight-Lösung für Microsoft Dynamics
 exl-id: ddc26dc6-7552-4fac-8102-657ecd8c9445
 feature: Marketo Sales Insights
@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Upgrade der Marketo Sales Insight-Lösung für Microsoft Dynamics {#upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics}
 
-Wenn eine neue Microsoft Dynamics-Lösung für Sales Insight veröffentlicht wird, können Sie das Upgrade vom Admin-Bereich in Ihrem Konto herunterladen.
+Wenn neue Microsoft Dynamics-Lösungen für Sales Insight veröffentlicht werden, können Sie das Upgrade über den Administratorbereich Ihres Kontos herunterladen.
 
 >[!NOTE]
 >
->**Erforderliche Administratorberechtigungen**
+>**Administratorberechtigungen erforderlich**
 
-1. Wechseln Sie zum Bereich **Admin** .
+1. Navigieren Sie zum Bereich **Admin**.
 
    ![](assets/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics-1.png)
 
-1. Klicken Sie auf **Microsoft Dynamics**.
+1. Auf **Microsoft Dynamics**.
 
    ![](assets/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics-2.png)
 
@@ -31,7 +31,7 @@ Wenn eine neue Microsoft Dynamics-Lösung für Sales Insight veröffentlicht wir
 
    ![](assets/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics-3.png)
 
-1. Wählen Sie die passende Lösung für Ihre Microsoft Dynamics-Version aus.
+1. Wählen Sie die entsprechende Lösung für Ihre Microsoft Dynamics-Version aus.
 
    ![](assets/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics-4.png)
 
@@ -39,8 +39,8 @@ Wenn eine neue Microsoft Dynamics-Lösung für Sales Insight veröffentlicht wir
 
 ## Durchführen des Upgrades {#performing-the-upgrade}
 
-1. Importieren Sie die neueste Version der Lösung über die vorhandene Version Ihres Dynamics CRM (z. B.: Wenn Ihr Dynamics CRM-System über Version 1.4 verfügt und die neueste Version 1.5 ist, importieren Sie _über_ Version 1.4).
+1. Importieren Sie die neueste Version der Lösung über die vorhandene Version Ihres Dynamics CRM (z. B.: Wenn Ihr Dynamics CRM über Version 1.4 verfügt und die neueste Version 1.5 ist, importieren Sie _über_ Version 1.4).
 
-2. Das folgende Popup wird angezeigt. Wählen Sie **Stage for Upgrade** und **Maintain customizations** aus und klicken Sie dann auf **Import**.
+2. Daraufhin wird das folgende Popup angezeigt. Wählen Sie **Phase für Upgrade** und **Anpassungen beibehalten** und klicken Sie dann auf **Importieren**.
 
 ![](assets/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics-5.png)

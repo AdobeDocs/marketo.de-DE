@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Es ist einfach zu sehen, wie Ihre Push-Benachrichtigungen funktionieren.
 
-1. Wechseln Sie zum Bereich **Marketingaktivitäten** .
+1. Navigieren Sie zum Bereich **Marketing** Aktivitäten.
 
    ![](assets/image2015-12-11-12-3a57-3a48.png)
 
@@ -23,19 +23,19 @@ Es ist einfach zu sehen, wie Ihre Push-Benachrichtigungen funktionieren.
 
    ![](assets/image2015-12-11-13-3a1-3a56.png)
 
-1. Klicken Sie auf **Ansicht: Zusammenfassung** und wählen Sie **Dashboard** aus.
+1. Klicken Sie auf **Anzeigen: Zusammenfassung** und wählen Sie **Dashboard**.
 
    ![](assets/image2015-12-11-13-3a4-3a23.png)
 
-1. Sie können die Gesamtanzahl der gesendeten Nachrichten und die Gesamtübersichten für iOS und Android in Kreisdiagrammen anzeigen. Scrollen Sie nach unten, um in Balkendiagrammen auf Verfall zu tippen.
+1. Sie können die Diagramme Insgesamt gesendet und Gesamtzahl der Öffnungen für iOS und Android in Kreisdiagrammen anzeigen. Scrollen Sie nach unten, um zu sehen, dass Sie auf Verfall in Balkendiagrammen tippen.
 
    ![](assets/image2015-12-15-15-3a23-3a47.png)
 
    >[!NOTE]
    >
-   >Die Metrik _Gesendet_ kann mehr Sendungen als die genaue Anzahl der Personen widerspiegeln, an die die Push-Benachrichtigung gesendet wurde. Dies liegt daran, dass die Berechnung auf der Grundlage der *Anzahl der Geräte* erfolgt, die für den Empfang Ihrer Push-Benachrichtigung qualifiziert sind. Wenn eine Person beispielsweise über drei Geräte verfügt, registriert das Dashboard drei Sendungen, nicht eine.
+   >Die Metrik _Gesendet_ spiegelt möglicherweise mehr Sendungen wider als die genaue Anzahl der Personen, an die die Push-Benachrichtigung gesendet wurde. Das liegt daran, dass die Berechnung auf der Grundlage der *Anzahl der Geräte* erfolgt, die für den Empfang Ihrer Push-Benachrichtigung qualifiziert sind. Wenn beispielsweise eine Person über drei Geräte verfügt, registriert das Dashboard drei Sendungen und nicht einen.
 
    >[!MORELIKETHIS]
    >
-   >* [Grundlegendes zu Push-Benachrichtigungen](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md)
+   >* [Push-Benachrichtigungen verstehen](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md)
    >* [Mobile Push-Benachrichtigung senden](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md)

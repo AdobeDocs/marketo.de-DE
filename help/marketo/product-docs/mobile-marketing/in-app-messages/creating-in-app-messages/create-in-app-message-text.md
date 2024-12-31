@@ -1,7 +1,7 @@
 ---
 unique-page-id: 10100642
 description: In-App-Nachrichtentext erstellen - Marketo-Dokumente - Produktdokumentation
-title: In-App-Nachrichtentext erstellen
+title: Erstellen von In-App-Nachrichtentext
 exl-id: 8fe5f004-dafb-4e03-9628-bd92fcb3fd44
 feature: Mobile Marketing
 source-git-commit: ea9bf2a002415936cdfb5bfb723ce80723003da5
@@ -11,19 +11,19 @@ ht-degree: 0%
 
 ---
 
-# In-App-Nachrichtentext erstellen {#create-in-app-message-text}
+# Erstellen von In-App-Nachrichtentext {#create-in-app-message-text}
 
-Klicken Sie auf den Textbereich, um Ihren Textstil und Ihren Inhalt zu bearbeiten.
+Klicken Sie auf den Textbereich, um Ihren Textstil und -inhalt zu bearbeiten.
 
 >[!CAUTION]
 >
->Es wird empfohlen, Emojis nicht in Ihrem Text zu verwenden, da sie derzeit nicht vollständig unterstützt werden.
+>Es wird empfohlen, keine Emojis in Ihrem Text zu verwenden, da sie derzeit nicht vollständig unterstützt werden.
 
 1. Klicken Sie auf den Haupttext, um ihn inline zu bearbeiten.
 
    ![](assets/image2016-5-6-9-3a56-3a56.png)
 
-1. Wählen Sie die Textfarbe aus, indem Sie darauf klicken oder die Hex- oder RGB-Nummer in die Farbauswahl eingeben.
+1. Wählen Sie die Textfarbe aus, indem Sie darauf klicken oder die Hex- oder RGB-Zahlen in der Farbauswahl eingeben.
 
    ![](assets/image2016-5-6-9-3a59-3a1.png)
 
@@ -33,13 +33,13 @@ Klicken Sie auf den Textbereich, um Ihren Textstil und Ihren Inhalt zu bearbeite
 
    >[!CAUTION]
    >
-   >Eine zu große Textgröße kann Ihren Inhalt über die maximal drei sichtbaren Textzeilen verschieben.
+   >Bei einer zu großen Textgröße wird der Inhalt möglicherweise über die maximal drei sichtbaren Textzeilen hinausgeschoben.
 
-1. Wählen Sie einen optionalen Schriftstil für die Hervorhebung aus: **Fett**, _Kursiv_ oder Unterstrichen.
+1. Wählen Sie einen optionalen Typstil für die Hervorhebung aus **„Fett**, _Kursiv_ oder Unterstreichen.
 
    ![](assets/image2016-5-6-10-3a15-3a32.png)
 
-1. Wählen Sie die Textausrichtung: Links, zentriert, Rechts. Zentriert ist die Standardeinstellung.
+1. Textausrichtung auswählen: Links, zentriert, rechts. Zentriert ist der Standardwert.
 
    ![](assets/image2016-5-6-10-3a18-3a45.png)
 
@@ -47,43 +47,43 @@ Klicken Sie auf den Textbereich, um Ihren Textstil und Ihren Inhalt zu bearbeite
    >
    >Die in der Anzeige gerenderte Textschriftart ist die Standardschriftart für jede Plattform: Helvetica für Apple und Roboto für Android
 
-1. Aktivieren Sie das Kontrollkästchen, um die Aktion Text durch Tippen auszuwählen.
+1. Markieren Sie das Kästchen, um Text auszuwählen und auf Aktion zu tippen.
 
    ![](assets/image2016-5-6-10-3a20-3a41.png)
 
-1. Wählen Sie für jede Plattform die Option Tippen-Aktion aus: Apple oder Android.
+1. Wählen Sie für jede Plattform eine Tipp-Aktion aus: Apple oder Android.
 
    ![](assets/image2016-5-6-10-3a22-3a12.png)
 
    >[!NOTE]
    >
-   >Für Tipp-Aktionen können Sie verschiedene Aktionen für Apple- und Android-Plattformen einrichten. Deep-Links werden beispielsweise für Apple und Android unterschiedlich gehandhabt. Wenn Ihre Nachricht nur auf die eine oder die andere Plattform gesendet wird, können Sie die andere Plattform in der Standardeinstellung belassen oder Keine auswählen.
+   >Für Tipp-Aktionen können Sie verschiedene Aktionen für Apple- und Android-Plattformen einrichten. Deep-Links werden beispielsweise für Apple und Android unterschiedlich gehandhabt. Wenn Ihre Nachricht nur zu einer bestimmten Plattform gesendet wird, können Sie die andere in der Standardeinstellung belassen oder Keine auswählen.
 
-1. Klicken Sie auf Unterstützender Text , um ihn inline zu bearbeiten. Sie funktioniert genauso wie die Bearbeitung des Haupttexts, aber die standardmäßige Textgröße ist kleiner.
+1. Klicken Sie auf den unterstützenden Text, um ihn inline zu bearbeiten. Dies funktioniert genauso wie die Bearbeitung des Haupttexts, aber die standardmäßige Textgröße ist kleiner.
 
    ![](assets/image2016-5-6-10-3a26-3a27.png)
 
-1. Klicken Sie für den Text Main oder Supporting auf das Token -Symbol, um ein Token hinzuzufügen.
+1. Klicken Sie für den Haupt- oder den unterstützenden Text auf das Token-Symbol, um ein Token hinzuzufügen.
 
    ![](assets/image2016-5-6-10-3a29-3a2.png)
 
-1. Wählen Sie aus der Dropdown-Liste ein My Token aus, fügen Sie einen Standardwert hinzu und klicken Sie auf **Insert**.
+1. Wählen Sie ein Mein Token aus der Dropdown-Liste aus, fügen Sie einen Standardwert hinzu und klicken Sie auf **Einfügen**.
 
    ![](assets/mytoken.png)
 
    >[!NOTE]
    >
-   >Als Optionen sind nur My Tokens verfügbar. Wenn keine My Tokens im Programm eingerichtet wurden, ist die Dropdown-Liste Token leer.
+   >Nur „Meine Token“ sind als Optionen verfügbar. Wenn keine Meine Token im Programm eingerichtet wurden, ist die Dropdown-Liste Token leer.
 
    >[!TIP]
    >
-   >Beachten Sie dabei die Länge der Zeichen, auf die ein Token aufgelöst wird, wenn es von Ihrer Zielgruppe angezeigt wird. Lassen Sie genügend Platz, um potenziell längere Werte zu berücksichtigen, um zu verhindern, dass sie abgeschnitten werden.
+   >Denken Sie daran, wie lange ein Token aufgelöst werden soll, wenn es von Ihrer Zielgruppe angezeigt wird. Lassen Sie genügend Platz, um potenziell längere Werte zu berücksichtigen, damit sie nicht abgeschnitten werden.
 
-   Änderungen an Token, die in einem genehmigten In-App-Nachrichtenprogramm verwendet werden, werden erst dann in der In-App-Nachricht wirksam, wenn das Programm angehalten und dann wieder aufgenommen wurde.
+   Änderungen an Token, die in einem genehmigten In-App-Nachrichtenprogramm verwendet werden, werden in der In-App-Nachricht erst wirksam, wenn das Programm angehalten und dann fortgesetzt wird.
 
-Du bist Golden. Als Nächstes müssen Sie [Ihre In-App-Nachrichtenschaltfläche ](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-button.md) einrichten.
+Du bist golden. Als Nächstes müssen Sie [die In-App-Nachrichtenschaltfläche einrichten](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-button.md).
 
 >[!MORELIKETHIS]
 >
->* [Grundlegendes zu In-App-Nachrichten](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->* [Layout für Ihre In-App-Nachricht auswählen](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
+>* [Verstehen von In-App-Nachrichten](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+>* [Wählen Sie ein Layout für Ihre In-App-Nachricht aus](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)

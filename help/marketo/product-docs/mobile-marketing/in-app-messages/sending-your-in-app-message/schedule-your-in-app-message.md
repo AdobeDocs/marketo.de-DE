@@ -1,7 +1,7 @@
 ---
 unique-page-id: 11370503
-description: In-App-Nachricht planen - Marketo-Dokumente - Produktdokumentation
-title: In-App-Nachricht planen
+description: Planen Ihrer In-App-Nachricht - Marketo-Dokumente - Produktdokumentation
+title: Planen der In-App-Nachricht
 exl-id: 2ff785b4-a0c9-4c04-869b-86fba7b997d7
 feature: Mobile Marketing
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,11 +11,11 @@ ht-degree: 0%
 
 ---
 
-# In-App-Nachricht planen {#schedule-your-in-app-message}
+# Planen der In-App-Nachricht {#schedule-your-in-app-message}
 
 Senden Sie Ihre Nachricht jetzt oder planen Sie sie für später.
 
-1. Um eine In-App-Nachricht zu planen, wählen Sie **Zukünftiges Datum festlegen** und wählen Sie ein Startdatum aus dem Dropdownkalender aus.
+1. Um eine In-App-Nachricht zu planen, wählen **„Zukünftiges Datum festlegen** und wählen Sie ein Startdatum aus dem Dropdown-Kalender.
 
    ![](assets/schedule-your-in-app-message-1.png)
 
@@ -27,8 +27,8 @@ Senden Sie Ihre Nachricht jetzt oder planen Sie sie für später.
 
    ![](assets/schedule-your-in-app-message-3.png)
 
-1. Oder wählen Sie **Sofort ausführen** , um das Programm sofort auszuführen. Die Felder Startdatum werden nicht mehr angezeigt.
+1. Oder wählen Sie „Sofort ausführen“ aus, um das Programm **auszuführen**. Die Felder Startdatum verschwinden.
 
    ![](assets/schedule-your-in-app-message-4.png)
 
-Einfach! Nicht zuletzt ist der Schritt [Genehmigung](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/approve-your-in-app-message.md) .
+Einfach! Zu guter Letzt ist der Schritt [Genehmigung](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/approve-your-in-app-message.md) zu nennen.

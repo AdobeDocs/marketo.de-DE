@@ -1,7 +1,7 @@
 ---
 unique-page-id: 11378845
-description: Hinzufügen von Marketo als LaunchPoint-Dienst - Docs - Produktdokumentation
-title: Hinzufügen von Assets als LaunchPoint-Dienst
+description: Hinzufügen von Vibes als LaunchPoint-Service - Marketo-Dokumente - Produktdokumentation
+title: Hinzufügen von Vibes als LaunchPoint-Service
 exl-id: 13f153c1-609e-4bee-a588-eb4665755acc
 feature: Mobile Marketing
 source-git-commit: c0e2c460559860a22a649e67624db0ad717ae327
@@ -11,42 +11,42 @@ ht-degree: 1%
 
 ---
 
-# Hinzufügen von Assets als LaunchPoint-Dienst {#add-vibes-as-a-launchpoint-service}
+# Hinzufügen von Vibes als LaunchPoint-Service {#add-vibes-as-a-launchpoint-service}
 
-Sie können SMS-Nachrichten an die Personen senden, die sich für Ihre Vibes-SMS-Kampagnen angemeldet haben, indem Sie SMS-Aktivitäten nutzen, um Trigger- und Filterkampagnen dynamisch in Ihrer Marketo Engage-Instanz durchzuführen. Zunächst müssen Sie Vibes als LaunchPoint-Dienst hinzufügen.
+Sie können SMS-Nachrichten an Personen senden, die sich für Ihre Vibes-SMS-Kampagnen angemeldet haben, und dabei die SMS-Aktivität nutzen, um Kampagnen zu Triggern und in Ihrer Marketo Engage-Instanz nativ zu filtern. Zunächst müssen Sie Vibes als LaunchPoint-Service hinzufügen.
 
 >[!NOTE]
 >
->**Erforderliche Administratorberechtigungen**
+>**Administratorberechtigungen erforderlich**
 
 >[!AVAILABILITY]
 >
->Sie müssen über ein aktives Vibes-Konto und eine Adobe-Lizenz für Vibes SMS verfügen. Die native Integration von Marketo Vibes SMS ist in den USA und Kanada verfügbar. Für andere Länder kann eine Verbindung über Marketo Webhooks verwendet werden, indem [Vibes direkt kontaktieren](https://www.vibes.com/talk-to-sales){target="_blank"}.
+>Sie müssen über ein aktives Vibes-Konto und eine Adobe-Lizenz für Vibes SMS verfügen. Die native Integration von Marketo Vibes SMS ist in den USA und Kanada verfügbar. Für andere Länder kann eine Verbindung über Marketo Webhooks genutzt werden, indem man sich [direkt an Vibes](https://www.vibes.com/talk-to-sales){target="_blank"}.
 
-1. Wechseln Sie in My Marketo zum Bereich **[!UICONTROL Admin]** .
+1. Navigieren Sie in My Marketo zum Bereich **[!UICONTROL Admin]** .
 
    ![](assets/add-vibes-as-a-launchpoint-service-1.png)
 
-1. Klicken Sie auf **[!UICONTROL LaunchPoint]**.
+1. Klicken Sie **[!UICONTROL LaunchPoint]**.
 
    ![](assets/add-vibes-as-a-launchpoint-service-2.png)
 
-1. Klicken Sie auf **[!UICONTROL Neu]** und dann auf **[!UICONTROL Neuer Dienst]**.
+1. Klicken Sie auf **[!UICONTROL Neu]** und dann auf **[!UICONTROL Neuer Service]**.
 
    ![](assets/add-vibes-as-a-launchpoint-service-3.png)
 
-1. Geben Sie einen Anzeigenamen ein und wählen Sie in der Dropdown-Liste **[!UICONTROL Vibes]** aus.
+1. Geben Sie einen Anzeigenamen ein und wählen Sie in der Dropdown-Liste **[!UICONTROL Vibes]**.
 
    ![](assets/add-vibes-as-a-launchpoint-service-4.png)
 
-1. Geben Sie unter &quot;Einstellungen&quot;Ihre Besuche [!UICONTROL Benutzername], [!UICONTROL Passwort] und [!UICONTROL Firmenschlüssel] ein (alle finden Sie in Ihrem Vibes-Konto). Klicken Sie auf **[!UICONTROL Erstellen]**.
+1. Geben Sie unter Einstellungen Ihre Vibes [!UICONTROL Benutzername], [!UICONTROL Passwort] und [!UICONTROL Unternehmensschlüssel] ein (die alle in Ihrem Vibes-Konto zu finden sind). Klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/add-vibes-as-a-launchpoint-service-5.png)
 
-   Der neue SMS-Dienst wird jetzt in der Liste [!UICONTROL Installierte Dienste] angezeigt.
+   Der neue SMS-Service wird jetzt in der Liste [!UICONTROL Installierte Services] angezeigt.
 
    ![](assets/add-vibes-as-a-launchpoint-service-6.png)
 
 >[!MORELIKETHIS]
 >
->Video-Demo ](https://vimeo.com/215233767/1ed136adbc){target="_blank"} [Vibes
+>[Video-Demo zu Vibes](https://vimeo.com/215233767/1ed136adbc){target="_blank"}

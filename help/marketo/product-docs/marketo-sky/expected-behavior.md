@@ -13,40 +13,40 @@ ht-degree: 0%
 
 # Erwartetes Verhalten {#expected-behavior}
 
-In diesem Artikel finden Sie Informationen zum erwarteten Verhalten im Zusammenhang mit Predictive Audiences (PA).
+In diesem Artikel finden Sie Informationen zum erwarteten Verhalten im Zusammenhang mit prädiktiven Zielgruppen (Predictive Audiences, PA).
 
-## Aspekte zu Daten und Datenschutz
+## Überlegungen zu Daten und Datenschutz
 
-* Die gesamte für die KI/ML-Modelle erforderliche Datenverarbeitung findet in Nordamerika statt.
-* KI-/ML-Modelle verwenden keine bestimmten Lead-Informationen wie Vor- oder Nachnamen, Geschlecht, E-Mails, Kontaktnummern usw. Modelle verwenden nur allgemeine Attribute, die aus firmographischen Daten und Aktivitätsprotokollen abgeleitet werden.
+* Die gesamte erforderliche Datenverarbeitung für die KI/ML-Modelle findet in Nordamerika statt.
+* KI/ML-Modelle verwenden keine spezifischen Lead-Informationen wie Vor- oder Nachnamen, Geschlecht, E-Mails, Kontaktnummern usw. Die Modelle verwenden nur allgemeine Attribute, die aus Firmographie- und Aktivitätsprotokollen abgeleitet wurden.
 
-**Für Predictive Audiences können Sie das folgende Verhalten erwarten**
+**Bei prädiktiven Zielgruppen ist das folgende Verhalten zu erwarten**
 
-* Der Zugriff auf PA erfolgt sowohl über Marketo Sky als auch über das Marketo Classic-Erlebnis. Spezifische Funktionen sind wie folgt verfügbar:
+* Der Zugriff auf die SPA ist sowohl auf Marketo Sky als auch in Marketo Classic möglich. Spezifische Funktionen sind wie folgt verfügbar:
    * Prädiktive Filter - [!DNL Sky/Classic]
-   * Projizierte Registrierungen - [!DNL Sky/Classic]
-   * Wahrscheinlichkeitsprognosen auf Lead-Ebene - [!DNL Sky/Classic]
+   * Voraussichtliche Registrierungen - [!DNL Sky/Classic]
+   * Prognosen der Lead-Ebene - [!DNL Sky/Classic]
    * Ziele und Tracking - nur [!DNL Sky]
    * Einblicke und Empfehlungen - nur [!DNL Sky]
-* Die anfängliche Aktivierung dauert **24-48 Stunden**, bis alle Prozesse abgeschlossen sind, nachdem PA aktiviert wurde. Auf der Benutzeroberfläche werden alle Funktionen für Predictive Audiences und Predictive Filters angezeigt. Es kann jedoch bis zu 24 Stunden dauern, bis diese Funktionen funktionieren.
-* **Prognosen werden nur für neue Kampagnen generiert, die erstellt werden, nachdem die Funktion aktiviert wurde.**
+* Die anfängliche Aktivierung dauert **24-48 Stunden** bis alle Prozesse abgeschlossen sind, nachdem PA aktiviert wurde. In der Benutzeroberfläche werden alle Funktionen für prädiktive Zielgruppen und prädiktive Filter angezeigt. Es kann jedoch bis zu 24 Stunden dauern, bis diese Funktionen funktionieren.
+* **Prognosen werden nur für neue Kampagnen generiert, die nach Aktivierung der Funktion erstellt werden.**
 
-**Es gibt einige zusätzliche Aspekte, die spezifisch für prädiktive Filter sind**:
+**Es gibt einige zusätzliche Aspekte, die sich speziell auf prädiktive Filter beziehen**:
 
-* Registrierungs- und Besuchswahrscheinlichkeitsfilter können nur mit Ereignis- oder Webinarprogrammen verwendet werden. Lookalike- und Unsubscribe-Filter können in E-Mail-, Ereignis- und Webinarprogrammen verwendet werden.
-* Sie können auf eine Smart-Kampagne Predictive Filter anwenden, selbst wenn das übergeordnete Programm erstellt wurde, bevor Prädiktive Filter aktiviert wurden.
-* Für Trigger-Kampagnen stehen keine Predictive Filter zur Verfügung.
-* Um eine intelligente Kampagne durchzuführen, müssen Wahrscheinlichkeitsfilter zusammen mit anderen regulären Filtern verwendet werden.
-* Die Funktion &quot;Gespeicherte Regeln&quot;ist nicht zur Verwendung in Kampagnen verfügbar, die Vorhersagefilter enthalten.
-* Sie können in einer intelligenten Liste mit &quot;**bis zu 5**&quot;-Vorhersagefiltern verwenden.
-* Prädiktive Filter können maximal 1 Million qualifizierte Leads verarbeiten **.**
-* Sie können **bis zu 50 aktive Programme** mit Prädiktivfiltern haben. Ein aktives Programm ist ein Programm, das prädiktive Filter verwendet und mindestens einmal geplant wurde.
+* Registrierungs- und Anwesenheitsfilter können nur mit Ereignis- oder Webinar-Programmen verwendet werden. Lookalike- und Abmelde-Filter können in E-Mail-, Ereignis- und Webinar-Programmen verwendet werden.
+* Sie können auf eine intelligente Kampagne prädiktive Filter anwenden, selbst wenn das übergeordnete Programm erstellt wird, bevor prädiktive Filter aktiviert werden.
+* Prädiktive Filter sind für Trigger-Kampagnen nicht verfügbar.
+* Um eine intelligente Kampagne auszuführen, müssen Wahrscheinlichkeitsfilter in Verbindung mit anderen regulären Filtern verwendet werden.
+* Die Funktion Gespeicherte Regeln ist nicht für die Verwendung in Kampagnen verfügbar, die prädiktive Filter enthalten.
+* Sie können **bis zu 5 %** in einer Smart-Liste verwenden.
+* Prädiktive Filter können **(maximal 1 Million qualifizierte Leads** verarbeiten.
+* Sie können (**50 aktive Programme)** prädiktive Filter verwenden. Ein aktives Programm ist ein Programm, das prädiktive Filter verwendet und mindestens einmal geplant wurde.
 
-## Wann sind die geplanten Registrierungen nicht verfügbar?
+## Wann sind geplante Registrierungen nicht verfügbar?
 
-In den folgenden Anwendungsfällen sind keine geplanten Registrierungen verfügbar:
+Voraussichtliche Registrierungen sind in den folgenden Anwendungsfällen nicht verfügbar:
 
-* wenn das Programm vor dem Hinzufügen von Predictive Audiences erstellt wurde
-* wenn der Programmstatus nicht den Systemstatus zugeordnet ist
-* wenn keine Mitglieder im Programm enthalten sind
-* wenn es in den letzten 6 Monaten keine ähnlichen Programme gibt, die den erforderlichen Kriterien entsprechen
+* ob das Programm erstellt wurde, bevor prädiktive Zielgruppen hinzugefügt wurden
+* Wenn Programmstatus nicht auf Systemstatus abgebildet werden
+* Wenn das Programm keine Mitglieder enthält
+* wenn es in den letzten sechs Monaten keine ähnlichen Programme in der Vergangenheit gibt, die den erforderlichen Kriterien entsprechen

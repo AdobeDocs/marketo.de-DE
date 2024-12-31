@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11383877
-description: Clone a Program Analyzer - Marketo Docs - Produktdokumentation
+description: Klonen eines Programm-Analyzers - Marketo-Dokumente - Produktdokumentation
 title: Klonen eines Programm-Analyzers
 exl-id: 90a335b3-dd55-47e7-b4f7-b45c49671d11
 feature: Reporting, Revenue Cycle Analytics
@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # Klonen eines Programm-Analyzers {#clone-a-program-analyzer}
 
-Nachdem Sie einen Analyzer gespeichert haben, ist es einfach, ihn zu klonen, um einen neuen zu erstellen. Öffnen Sie dann das neue und bearbeiten Sie es, wenn es Änderungen erfordert.
+Nachdem Sie einen Analyzer gespeichert haben, können Sie ihn einfach klonen, um einen neuen zu erstellen. Gehen Sie dann in und bearbeiten Sie die neue , falls Änderungen erforderlich sind.
 
-1. Klicken Sie auf die Kachel **Analytics** .
+1. Klicken Sie auf **Kachel** Analytics“.
 
    ![](assets/2017-05-01-08-20-37.png)
 
-1. Klicken Sie auf die Kachel **Programm-Analyzer** .
+1. Klicken Sie auf **Kachel** Programm-Analyzer“.
 
    ![](assets/program-analyzer-icon-hand.png)
 
-1. Wenn der gespeicherte Analyzer geöffnet ist, öffnen Sie das Dropdown-Menü Analyzer-Aktionen und wählen Sie **Analyzer klonen** aus.
+1. Öffnen Sie das Dropdown-Menü Analyzer-Aktionen , während der gespeicherte Analyzer geöffnet ist, und wählen Sie **Analyzer klonen**.
 
    ![](assets/image2016-10-31-16-3a12-3a6.png)
 
-1. Wählen Sie den Speicherort für den geklonten Analyzer aus den Dropdown-Listen **Klon bis** und **Ordner** aus.
+1. Wählen Sie in den Dropdown-Listen **Klonen in** und **Ordner** den Speicherort für das geklonte Analyseprogramm aus.
 
    ![](assets/image2016-10-31-16-3a13-3a42.png)
 
@@ -35,7 +35,7 @@ Nachdem Sie einen Analyzer gespeichert haben, ist es einfach, ihn zu klonen, um 
 
    ![](assets/image2016-10-31-16-3a15-3a15.png)
 
-1. Jetzt haben Sie zwei identische Analyzer mit unterschiedlichen Namen. Öffnen Sie den Klon, um die erforderlichen Änderungen vorzunehmen.
+1. Nun, Sie haben zwei identische Analyzer mit unterschiedlichen Namen. Öffnen Sie den Klon, um alle erforderlichen Änderungen vorzunehmen.
 
    ![](assets/image2016-10-31-16-3a17-3a11.png)
 

@@ -12,32 +12,32 @@ ht-degree: 0%
 
 # Lokale Präsenz {#local-presence}
 
-&quot;Lokale Präsenz&quot;bietet Ihnen die Möglichkeit, den Aufruf so zu gestalten, als ob Sie von Ihrem Empfänger aus den gleichen Gebietscode aus aufrufen.
+„Lokale Präsenz“ gibt Ihnen die Möglichkeit, es so aussehen zu lassen, als ob Sie von der gleichen Vorwahl Ihres Empfängers anrufen.
 
 ## Lokale Präsenz auswählen {#select-local-presence}
 
-1. Klicken Sie auf das Telefonsymbol, um den Verkaufsdialer zu öffnen.
+1. Klicken Sie auf das Telefonsymbol, um die Verkaufswahl zu öffnen.
 
    ![](assets/local-presence-1.png)
 
-1. Aktivieren Sie das Kontrollkästchen **Lokale Präsenz verwenden** .
+1. Aktivieren **das Kontrollkästchen „Lokale Präsenz**&quot;.
 
    ![](assets/local-presence-2.png)
 
 ## FAQs {#faq}
 
-**Kann mein Kontakt mich unter dieser neuen Nummer zurückrufen?**
+**Kann mich mein Ansprechpartner unter dieser neuen Nummer zurückrufen?**
 
-Nein, die lokale Präsenz funktioniert nur bei ausgehenden Aufrufen. Der Anrufer kann Sie unter dieser &quot;neuen&quot;Nummer nicht zurückrufen.
+Nein, die lokale Präsenz funktioniert nur für ausgehende Anrufe. Der Anrufer kann Sie unter dieser „neuen“ Nummer nicht zurückrufen.
 
-**Kann ich mit der lokalen Präsenz irgendwo aufrufen?**
+**Kann ich mit lokaler Präsenz anrufen?**
 
-Wir bieten alle Funktionen für Verkaufs-Telefonanrufe nur in den USA an.
+Wir bieten alle Sales Phone-Funktionen nur für Anrufe in den USA.
 
-**Ist die lokale Präsenznummer immer gleich, wenn ich einen Gebietscode aufrufe?**
+**Ist die lokale Anwesenheitsnummer beim Aufruf einer Ortsvorwahl immer gleich?**
 
-Die Zahl ist wahrscheinlich immer gleich, wenn Sie in einen Bereichscode aufrufen.
+Die Nummer ist wahrscheinlich immer dieselbe, wenn Sie eine Ortsvorwahl anrufen.
 
-**Ändert sich meine gesamte Zahl oder nur der Bereichscode bei Verwendung der lokalen Präsenz?**
+**Ändert sich meine ganze Nummer oder nur die Ortsvorwahl, wenn ich eine lokale Präsenz verwende?**
 
-Ihre ganze Zahl wird sich ändern.
+Ihre gesamte Nummer wird sich ändern.

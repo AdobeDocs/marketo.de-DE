@@ -1,7 +1,7 @@
 ---
 unique-page-id: 4718636
-description: Grundlegendes zum Programmkostenanalysebereich - Marketo-Dokumente - Produktdokumentation
-title: Grundlegendes zum Programmkostenanalysebereich
+description: Grundlegendes zum Bereich „Programmkostenanalyse“ - Marketo-Dokumente - Produktdokumentation
+title: Grundlegendes zum Bereich „Programmkostenanalyse“
 exl-id: b59e07a2-c804-46a2-b0ca-127191fd2188
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
@@ -11,29 +11,29 @@ ht-degree: 22%
 
 ---
 
-# Grundlegendes zum Programmkostenanalysebereich {#understanding-the-program-cost-analysis-area}
+# Grundlegendes zum Bereich „Programmkostenanalyse“ {#understanding-the-program-cost-analysis-area}
 
-Im Bereich Programmkostenanalyse können Sie die Effektivität einzelner Programme analysieren oder die zusammengefassten Ergebnisse für einen bestimmten Zeitraum nach Kanal anzeigen.
+Im Bereich „Programm-Kosten-Analyse“ können Sie die Effektivität einzelner Programme analysieren oder zusammengefasste Ergebnisse für einen bestimmten Zeitraum nach Kanal anzeigen.
 
-## Beispiele für Geschäftsfragen {#example-business-questions}
+## Beispiele für geschäftliche Fragen {#example-business-questions}
 
-Wie viele neue Namen haben die einzelnen Kanäle pro Monat generiert?
+Wie viele neue Namen hat jeder Kanal pro Monat generiert?
 
 ![](assets/image2015-5-6-14-3a13-3a47.png)
 
-Wie hoch waren meine Kosten pro Neuname pro Kanal und Monat?
+Wie hoch waren meine Kosten pro neuem Namen nach Kanal und Monat?
 
 ![](assets/image2015-5-6-14-3a16-3a28.png)
 
-Welcher Prozentsatz der neuen Namen hat in einem Programm Erfolg erzielt?
+Welcher Prozentsatz der neu generierten Namen hat einen Erfolg in einem Programm erreicht?
 
 ![](assets/image2015-5-6-14-3a31-3a15.png)
 
-Wie viel habe ich pro Programm pro Monat ausgegeben?
+Wie viel habe ich pro Programm und Monat ausgegeben?
 
 ![](assets/image2015-5-6-14-3a36-3a34.png)
 
-## Dimensionen und Maßnahmen zur Programmkostenanalyse {#program-cost-analysis-dimensions-and-measures}
+## Dimensionen und Maßnahmen zur Kostenanalyse des Programms {#program-cost-analysis-dimensions-and-measures}
 
 >[!NOTE]
 >
@@ -41,12 +41,12 @@ Wie viel habe ich pro Programm pro Monat ausgegeben?
 
 ## Investition {#investment}
 
-| Messung | Beschreibung |
+| Maßnahme | Beschreibung |
 |---|---|
-| Kosten pro Mitglied | Durchschnittliche Kosten pro Programmteilnehmer |
-| Kosten pro neuem Namen | Durchschnittliche Kosten pro durch das Programm erworbenem Lead |
-| Kosten pro Erfolg | Durchschnittliche Kosten pro Interessent, die im Verlauf eines Programms einen Erfolg erzielt haben |
-| Kosten pro Erfolg (Neuer Name) | Durchschnittliche Kosten pro Interessent, die durch das Programm erworben wurden UND im Verlauf des Programms erfolgreich waren |
+| Kosten pro Mitglied | Durchschnittliche Kosten je Programmteilnehmer |
+| Kosten pro neuem Namen | Durchschnittliche Kosten pro erworbenem Lead durch das Programm |
+| Kosten pro Erfolg | Durchschnittliche Kosten pro Lead, der während der Laufzeit eines Programms erfolgreich war |
+| Kosten pro Erfolg (Neuer Name) | Durchschnittliche Kosten pro erworbenem Lead des Programms UND erfolgreicher Verlauf des Programms |
 | Programmkosten | Gesamtkosten des Programmzeitraums |
 
 ## Mitgliedschaft {#membership}
@@ -54,34 +54,34 @@ Wie viel habe ich pro Programm pro Monat ausgegeben?
 <table> 
  <tbody> 
   <tr> 
-   <th>Messung</th> 
+   <th>Maßnahme</th> 
    <th>Beschreibung</th> 
   </tr> 
   <tr> 
    <td>Anteil neuer Namen</td> 
-   <td>Prozentsatz der Leads, die durch ein Programm erworben wurden</td> 
+   <td>Prozentsatz der Leads, die von einem Programm erworben wurden</td> 
   </tr> 
   <tr> 
    <td>Mitglieder</td> 
-   <td>Gesamtzahl der Leads im Programm</td> 
+   <td>Leads in einem Programm insgesamt</td> 
   </tr> 
   <tr> 
    <td>Neue Namen</td> 
-   <td>Gesamtzahl der durch ein Programm erworbenen neuen Namen</td> 
+   <td>Gesamtzahl der von einem Programm erworbenen neuen Namen</td> 
   </tr> 
  </tbody> 
 </table>
 
 ## Programmattribute {#program-attributes}
 
-| Abmessung | Beschreibung |
+| Dimension | Beschreibung |
 |---|---|
 | Programmkanal | Programmkanal |
 | Programmname | Programmname |
 
-## Zeitrahmen für Programmkosten {#program-cost-timeframe}
+## Zeitrahmen der Programmkosten {#program-cost-timeframe}
 
-| Abmessung | Beschreibung |
+| Dimension | Beschreibung |
 |---|---|
 | Jahr | Zeitrahmen der Programmkosten |
 | Quartal | Zeitrahmen der Programmkosten |
@@ -89,18 +89,18 @@ Wie viel habe ich pro Programm pro Monat ausgegeben?
 
 ## Programm-Tags {#program-tags}
 
-| Messung | Beschreibung |
+| Maßnahme | Beschreibung |
 |---|---|
 | Branche | Programm-Tag |
 | Produktlinie | Programm-Tag |
 | Programmeigentümer | Programm-Tag |
 | Region | Programm-Tag |
 
-## Erfolg {#success}
+## Erfolgreich {#success}
 
-| Messung | Beschreibung |
+| Maßnahme | Beschreibung |
 |---|---|
-| Erfolg in % (Neue Namen) | Prozentsatz der Leads, die durch das Programm erworben wurden UND im Fortgang des Programms erfolgreich waren |
-| % Erfolg (Summe) | Prozentsatz der Leads, die im Verlauf eines Programms erfolgreich waren |
-| Erfolg (Neue Namen) | Gesamtzahl der neuen Namen, die im Verlauf eines Programms erfolgreich waren |
-| Erfolg (Summe) | Gesamtzahl der Leads, die im Verlauf eines Programms erfolgreich waren |
+| Erfolg in % (Neue Namen) | Prozentsatz der Leads, die vom Programm akquiriert UND im Verlauf des Programms erfolgreich waren |
+| % Erfolg (Summe) | Prozentsatz der Leads, die beim Fortschreiten eines Programms erfolgreich waren |
+| Erfolg (Neue Namen) | Gesamtzahl der neuen Namen, die beim Fortschreiten eines Programms erfolgreich waren |
+| Erfolg (Summe) | Gesamtzahl der Leads, die beim Fortschreiten eines Programms erfolgreich waren |

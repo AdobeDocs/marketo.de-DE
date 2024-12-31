@@ -1,6 +1,6 @@
 ---
 unique-page-id: 4718672
-description: Verwenden von Umsatzmodellübergängen - Marketo Docs - Produktdokumentation
+description: Verwenden von Umsatzmodellübergängen - Marketo-Dokumente - Produktdokumentation
 title: Verwenden von Umsatzmodellübergängen
 exl-id: c658b631-b849-438a-b412-63ffd41e4c85
 feature: Reporting, Revenue Cycle Analytics
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Neues Umsatzmodell erstellen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
+>[Erstellen eines neuen Umsatzmodells](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
 
-Wenn Sie Ihr Modell erstellen und Ihre Inventarphasen auswählen und organisieren, ist es an der Zeit, die Transitionen festzulegen.
+Wenn Sie Ihr Modell erstellen und Ihre Inventarphasen auswählen und organisieren, ist es an der Zeit, die Übergänge festzulegen.
 
 ![](assets/one-2.png)
 
@@ -27,21 +27,21 @@ Wenn Sie Ihr Modell erstellen und Ihre Inventarphasen auswählen und organisiere
 
    >[!NOTE]
    >
-   >Die Übergangsregeln &quot;Anonym für &quot;&quot;können nicht bearbeitet werden.
+   >Übergangsregeln für &#39;Anonyme ⇒ bekannte&#39; können nicht bearbeitet werden.
 
-1. Für die ausgewählte Transition wird eine neue Registerkarte geöffnet.
+1. Daraufhin wird eine neue Registerkarte für die ausgewählte Transition geöffnet.
 
    ![](assets/three-1.png)
 
-1. Transitionen steuern, wie Leads zwischen Phasen wechseln. Ziehen Sie den gewünschten Trigger (oder Filter) von rechts und lassen Sie ihn an einer beliebigen Stelle auf der Arbeitsfläche frei. In diesem Beispiel wählen wir den Trigger Formular ausfüllen aus.
+1. Übergänge steuern, wie Leads zwischen den Stadien wechseln. Ziehen Sie den Trigger (oder Filter) Ihrer Wahl von rechts und lassen Sie ihn an einer beliebigen Stelle auf der Arbeitsfläche los. In diesem Beispiel wählen wir den Trigger Formular ausfüllen .
 
    >[!TIP]
    >
-   >Da das Umsatzmodell Sie für die Berichterstellung einrichtet, wird empfohlen, dass die Transitionen immer Trigger enthalten. Auf diese Weise spiegeln Ihre Berichte die wahre Geschwindigkeit Ihres Modell-/Staging-Flusses wider. Für zusätzliche Einschränkungen können mit den Triggern Filter hinzugefügt werden.
+   >Da der Umsatzmodellierer Sie für das Reporting einrichtet, wird empfohlen, dass die Transitionen immer Trigger enthalten. Auf diese Weise spiegeln Ihre Berichte die tatsächliche Geschwindigkeit Ihres Modell-/Staging-Flusses wider. Filter können mit den Triggern für zusätzliche Einschränkungen hinzugefügt werden.
 
    ![](assets/four-2.png)
 
-1. Wählen Sie die Parameter für den ausgewählten Trigger/Filter aus.
+1. Wählen Sie die Parameter für Ihren ausgewählten Trigger aus.
 
    ![](assets/five-2.png)
 
@@ -53,11 +53,11 @@ Wenn Sie Ihr Modell erstellen und Ihre Inventarphasen auswählen und organisiere
 
    ![](assets/seven.png)
 
-1. Nachdem Sie die Regeln für alle Ihre Transitionen konfiguriert haben, klicken Sie zur Überprüfung auf **Validieren** .
+1. Nachdem Sie Regeln für alle Ihre Transitionen konfiguriert haben, klicken Sie auf **Validieren** um sie zu überprüfen.
 
    ![](assets/eight.png)
 
-1. Wenn Sie die Funktion korrekt ausgeführt haben, wird die folgende Meldung angezeigt.
+1. Wenn Sie dies richtig machen, wird die folgende Meldung angezeigt.
 
    ![](assets/nine.png)
 
@@ -65,4 +65,4 @@ Gut gemacht! Sie haben Ihre Modellübergänge erfolgreich geändert.
 
 >[!MORELIKETHIS]
 >
->[Genehmigen/Aufheben der Genehmigung eines Umsatzmodells](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)
+>[Genehmigung eines Umsatzmodells erteilen/aufheben](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)

@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2949279
-description: Upgrade Ihres Marketo-E-Mail-Add-ins für Outlook - Marketo Docs - Produktdokumentation
-title: Upgrade Ihres Marketo-E-Mail-Add-ins für Outlook
+description: Aktualisieren des Marketo-E-Mail-Add-ins für Outlook - Marketo-Dokumente - Produktdokumentation
+title: Aktualisieren des Marketo E-Mail-Add-ins für Outlook
 exl-id: 079f1142-8062-448c-aa07-59ecd89a718f
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '335'
-ht-degree: 15%
+ht-degree: 16%
 
 ---
 
-# Upgrade Ihres Marketo-E-Mail-Add-ins für Outlook {#upgrade-your-marketo-email-add-in-for-outlook}
+# Aktualisieren des Marketo E-Mail-Add-ins für Outlook {#upgrade-your-marketo-email-add-in-for-outlook}
 
-Wenn eine neue Version des Marketo-E-Mail-Add-ins für Outlook verfügbar ist, befolgen Sie diese Anweisungen zum Aktualisieren.
+Wenn eine neue Version des Marketo E-Mail-Add-ins für Outlook verfügbar ist, befolgen Sie diese Anweisungen zum Upgrade.
 
 >[!NOTE]
 >
->Ab dem 20.1.20 unterstützt die neueste Version des Outlook-Plug-ins den Offline-Modus nicht mehr. Dies wird nach der Installation/Aktualisierung am oder nach dem 10.10.10 wirksam.
+>Ab dem 10/1/20 unterstützt die neueste Version des Outlook-Plug-ins den Offline-Modus nicht mehr. Dies wird nach der Installation/Aktualisierung am oder nach dem 10/1 wirksam.
 
 ## Installationsprogramm herunterladen {#download-installer}
 
@@ -34,15 +34,15 @@ Laden Sie das für Ihre Version von Microsoft Outlook geeignete Installationspro
  <tbody> 
   <tr> 
    <th><br></th> 
-   <th colspan="2">Einladungs-Installation für einen Benutzer</th> 
-   <th colspan="2">Installation von Unternehmensschlüsseln</th> 
+   <th colspan="2">Installation der Einladung für einen Benutzer</th> 
+   <th colspan="2">Installation des Unternehmensschlüssels</th> 
   </tr> 
   <tr> 
    <td><strong>Outlook-Version</strong></td> 
-   <td><strong>32 Bit</strong></td> 
-   <td><strong>64 Bit</strong></td> 
-   <td><strong>32 Bit</strong></td> 
-   <td><strong>64 Bit</strong></td> 
+   <td><strong>32-Bit</strong></td> 
+   <td><strong>64-Bit</strong></td> 
+   <td><strong>32-Bit</strong></td> 
+   <td><strong>64-Bit</strong></td> 
   </tr> 
   <tr> 
    <td>Outlook 2000</td> 
@@ -119,7 +119,7 @@ Laden Sie das für Ihre Version von Microsoft Outlook geeignete Installationspro
 
 &#42;Office 365-Version: Nur Windows-Client (unter Windows 10, Enterprise oder Pro).
 
-## Aktualisierung {#upgrade}
+## Upgrade {#upgrade}
 
 1. Identifizieren Sie Ihre [Microsoft Outlook-Version](https://support.microsoft.com/en-us/office/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c?ui=en-us&amp;rs=en-us&amp;ad=us).
 
@@ -141,7 +141,7 @@ Laden Sie das für Ihre Version von Microsoft Outlook geeignete Installationspro
 
    ![](assets/ent-key-close-outlook-hand.png)
 
-1. Sie werden feststellen, dass alle Ihre Informationen vorausgefüllt sind. Klicken Sie einfach auf **Weiter**.
+1. Sie werden feststellen, dass alle Ihre Informationen vorausgefüllt sind. Klicken Sie einfach **Weiter**.
 
    ![](assets/image2014-9-23-16-3a54-3a40.png)
 
@@ -149,7 +149,7 @@ Laden Sie das für Ihre Version von Microsoft Outlook geeignete Installationspro
    >
    >Wenn die Installation fehlschlägt, wenden Sie sich an Ihre IT-Abteilung, um sicherzustellen, dass der HTTPS-Traffic nicht blockiert wird. Für das Installationsprogramm muss HTTPS-Traffic geöffnet sein.
 
-1. Klicken Sie auf **Weiter** , um die Installation am Standardspeicherort durchzuführen.
+1. Klicken Sie **Weiter**, um die Installation am Standardspeicherort durchzuführen.
 
    ![](assets/image2014-9-23-16-3a54-3a55.png)
 
@@ -161,11 +161,11 @@ Laden Sie das für Ihre Version von Microsoft Outlook geeignete Installationspro
 
    ![](assets/image2014-9-23-16-3a55-3a34.png)
 
-1. Öffnen Sie jetzt Microsoft Outlook , um die neueste Version der Marketo-Schaltflächen anzuzeigen.
+1. Öffnen Sie jetzt Microsoft Outlook, um die neueste Version der Marketo-Schaltflächen anzuzeigen.
 
    ![](assets/image2016-8-24-15-3a47-3a38.png)
 
 >[!MORELIKETHIS]
 >
->* [Senden und Verfolgen einer E-Mail mit dem Marketo-E-Mail-Add-in für Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
->* [Versand und Tracking aus Outlook mit einer Marketo-Vorlage](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
+>* [Senden und Verfolgen einer E-Mail mit dem Marketo E-Mail-Add-in für Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
+>* [Senden und Verfolgen aus Outlook mithilfe einer Marketo-Vorlage](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)

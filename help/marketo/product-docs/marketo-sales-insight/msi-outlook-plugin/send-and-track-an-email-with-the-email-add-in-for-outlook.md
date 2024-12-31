@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2949716
-description: Senden und Verfolgen einer E-Mail mit dem E-Mail-Add-In für Outlook - Marketo Docs - Produktdokumentation
-title: Senden und Verfolgen einer E-Mail mit dem E-Mail-Add-In für Outlook
+description: Senden und Verfolgen einer E-Mail mit dem E-Mail-Add-In für Outlook - Marketo-Dokumente - Produktdokumentation
+title: Senden und Verfolgen einer E-Mail mit dem E-Mail-Add-in für Outlook
 exl-id: 81c2ce86-1528-48ad-8848-ee5a828f9ff7
 feature: Marketo Sales Insights
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
@@ -11,17 +11,17 @@ ht-degree: 0%
 
 ---
 
-# Senden und Verfolgen einer E-Mail mit dem E-Mail-Add-In für Outlook {#send-and-track-an-email-with-the-email-add-in-for-outlook}
+# Senden und Verfolgen einer E-Mail mit dem E-Mail-Add-in für Outlook {#send-and-track-an-email-with-the-email-add-in-for-outlook}
 
-Sie können E-Mails mit Marketo direkt von Outlook aus senden und verfolgen.
+Sie können E-Mails mit Marketo direkt über Outlook senden und verfolgen.
 
 >[!PREREQUISITES]
 >
->Installieren Sie, falls noch nicht geschehen, das [Marketo-E-Mail-Add-in für Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
+>Falls noch nicht geschehen, installieren Sie das [Marketo-E-Mail-Add-in für Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
 
 >[!NOTE]
 >
->Die Funktionen von Sales Insight-Aktionen, einschließlich &quot;E-Mail an Vertrieb senden&quot;, &quot;Zu Vertriebskampagne hinzufügen&quot;und &quot;Aufgaben&quot;, sind nicht in den Sales Insight-E-Mail-Plugins für Gmail und Outlook verfügbar. Derzeit können Benutzer von ihrem E-Mail-Client aus nur trackbare E-Mails mit oder ohne Marketo-E-Mail-Vorlage senden, wenn sie die Sales Insight-E-Mail-Plugins verwenden.
+>Die Funktionen für Sales Insights-Aktionen, einschließlich „Sales E-Mail senden“, „Zu Sales-Kampagne hinzufügen“ und „Aufgaben“, sind in den E-Mail-Plug-ins für Sales Insights für Gmail und Outlook nicht verfügbar. Derzeit haben Benutzer nur die Möglichkeit, über ihren E-Mail-Client eine verfolgbare E-Mail mit oder ohne Marketo-E-Mail-Vorlage zu senden, wenn sie die Plug-ins für Sales Insight verwenden.
 
 1. Öffnen Sie Microsoft Outlook und erstellen Sie eine neue E-Mail.
 
@@ -29,7 +29,7 @@ Sie können E-Mails mit Marketo direkt von Outlook aus senden und verfolgen.
 
    >[!CAUTION]
    >
-   >Wenn Sie mehrere Empfänger in die E-Mail aufnehmen, werden alle Aktivitäten unter dem ersten Empfänger nachverfolgt.
+   >Wenn Sie mehrere Empfänger in die E-Mail einbeziehen, wird jede Aktivität unter dem ersten Empfänger verfolgt.
 
 1. Erstellen Sie Ihre E-Mail wie gewohnt und klicken Sie dann auf **Senden und Verfolgen**.
 
@@ -37,11 +37,11 @@ Sie können E-Mails mit Marketo direkt von Outlook aus senden und verfolgen.
 
    >[!NOTE]
    >
-   >Wenn Sie eine E-Mail an eine Person senden, die nicht in Ihrer Marketo-Instanz vorhanden ist, wird automatisch ein Personendatensatz für diese Benutzer erstellt. Ihr Nachname lautet immer &quot;mktUnknown&quot;, damit Sie sie leicht finden können.
+   >Wenn Sie eine E-Mail an eine Person senden, die nicht in Ihrer Marketo-Instanz vorhanden ist, wird automatisch ein Personendatensatz für diese Person erstellt. Ihr Nachname lautet immer „mktUnknown“, damit Sie sie leicht finden können.
 
    >[!TIP]
    >
-   >Wenn Sie eine Marketo-Vorlage verwenden möchten, finden Sie weitere Informationen unter [Versand und Tracking aus Outlook mit einer Vorlage](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md).
+   >Wenn Sie eine Marketo-Vorlage verwenden möchten, lesen Sie [Senden und Verfolgen aus Outlook mithilfe einer Vorlage](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md).
 
 1. Sehen Sie sich die Vorschau an und klicken Sie auf **Senden**.
 
@@ -49,14 +49,14 @@ Sie können E-Mails mit Marketo direkt von Outlook aus senden und verfolgen.
 
    >[!CAUTION]
    >
-   >Anti-Spam-Technologie lehnt Öffnungen und Klicks, die innerhalb von 20 Sekunden nach dem Versand der E-Mail auftreten, oft ab. Warten Sie also mindestens so lange, bis Sie beim Testen geöffnet/klicken.
+   >Die Anti-Spam-Technologie lehnt häufig Öffnungen und Klicks ab, die innerhalb von 20 Sekunden nach dem Versand der E-Mail auftreten. Warten Sie also beim Testen mindestens so lange, bis sie geöffnet/geklickt hat.
 
-   Um zu sehen, wer Ihre über Outlook gesendeten E-Mails erhalten hat, erstellen Sie eine intelligente Liste mit dem Filter &quot;E-Mail zum Versand an Kunden&quot;.
+   Um zu sehen, wer Ihre über Outlook gesendeten E-Mails erhalten hat, erstellen Sie eine Smart-Liste mit dem Filter „Wurde als Verkaufs-E-Mail gesendet“.
 
    ![](assets/was-sent-sales-email.png)
 
-So einfach ist es! Obwohl diese E-Mail von einem Outlook eines Verkäufers gesendet wurde, wird sie in Marketo verfolgt.
+So einfach ist das! Obwohl diese E-Mail von Outlook eines Vertriebsmitarbeiters gesendet wurde, wird sie in Marketo verfolgt.
 
 >[!MORELIKETHIS]
 >
->[Eingehende E-Mails von Ihren Leads in Marketo anmelden](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
+>[Eingehende E-Mails von Ihren Leads in Marketo protokollieren](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)

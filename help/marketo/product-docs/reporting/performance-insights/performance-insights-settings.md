@@ -1,7 +1,7 @@
 ---
 unique-page-id: 13795492
-description: Performance Insights-Einstellungen - Marketo-Dokumente - Produktdokumentation
-title: Leistungseinblicke - Einstellungen
+description: Einstellungen für Performance Insights - Marketo-Dokumente - Produktdokumentation
+title: Einstellungen für Performance Insights
 exl-id: 894df9de-d416-44f7-8253-ebf3c2a36c90
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,7 +11,7 @@ ht-degree: 9%
 
 ---
 
-# Leistungseinblicke - Einstellungen {#performance-insights-settings}
+# Einstellungen für Performance Insights {#performance-insights-settings}
 
 Erfahren Sie mehr über die verschiedenen Einstellungsoptionen in MPI.
 
@@ -19,7 +19,7 @@ Erfahren Sie mehr über die verschiedenen Einstellungsoptionen in MPI.
 
 >[!NOTE]
 >
->Je nachdem, in welchem Dashboard Sie sich befinden, werden Ihnen unterschiedliche Einstellungsoptionen angezeigt.
+>Je nachdem, in welchem Dashboard Sie sich befinden, werden unterschiedliche Einstellungsoptionen angezeigt.
 
 ## Anzeigen des Programmerfolgs nach {#view-program-success-by}
 
@@ -29,24 +29,24 @@ Erfahren Sie mehr über die verschiedenen Einstellungsoptionen in MPI.
  <tbody> 
   <tr> 
    <td><strong>Kostenzeitraum</strong></td> 
-   <td>Wenn Sie diese Option aktivieren, aggregieren Performance Insights alle neuen Namen und Erfolge zurück zu dem Monat, der als Kostenzeitraum eingerichtet wurde.</td> 
+   <td>Wenn Sie dies aktivieren, aggregieren Performance Insights alle neuen Namen und Erfolge zurück zum Monat, der als Kostenzeitraum eingerichtet wurde.</td> 
   </tr> 
   <tr> 
    <td><strong>Aktivitätszeitraum</strong></td> 
-   <td>Wenn Sie diese Option aktivieren, aggregieren Performance Insights alle neuen Namen, Erfolge und Mitgliedschaften nach Aktivitätsdatum, unabhängig vom Programmkostenzeitraum.</td> 
+   <td>Wenn Sie dies aktivieren, aggregieren Performance Insights alle neuen Namen, Erfolge und Zugehörigkeiten nach Aktivitätsdatum, unabhängig vom Programmkostenzeitraum.</td> 
   </tr> 
  </tbody> 
 </table>
 
 ## Konfiguration vorheriger Zeitraum {#previous-period-configuration}
 
-**Interaktion, Pipeline, Umsatz-Dashboards - Nur Beitrag**
+**Interaktions-, Pipeline-, Umsatz-Dashboards - nur Beitrag**
 
 <table> 
  <tbody> 
   <tr> 
    <td><strong>Kalenderzeitraum</strong></td> 
-   <td>Setzen Sie den vorherigen Zeitraum auf: Vorheriger Kalendermonat, -quartal oder -jahr.</td> 
+   <td>Legen Sie die vorherige Periode wie folgt fest: vorherigen Kalendermonat, Quartal oder Jahr.</td> 
   </tr> 
   <tr> 
    <td><strong>Jahresübergreifender Zeitraum</strong></td> 
@@ -55,19 +55,19 @@ Erfahren Sie mehr über die verschiedenen Einstellungsoptionen in MPI.
  </tbody> 
 </table>
 
-## Von Marketing beeinflusste Chancen {#marketing-influenced-opportunities}
+## Marketing-beeinflusste Opportunities {#marketing-influenced-opportunities}
 
 **Pipeline-Dashboard - Beitrag und Trend**
 
 <table> 
  <tbody> 
   <tr> 
-   <td><strong>Erstkontakt anzeigen, bevor eine Gelegenheit erstellt wurde</strong></td> 
-   <td><p>Wenn Sie dies überprüfen, umfasst MPI Chancen, die mit mindestens einem Lead verknüpft sind, der von einem Marketo-Programm vor der Schaffung der Gelegenheit erworben wurde (Erstkontakt/FT). Die Attributionseinstellungen Explizit, Implizit und Hybrid gelten.</p></td> 
+   <td><strong>Erstkontakt anzeigen, bevor Opportunity erstellt wird</strong></td> 
+   <td><p>Wenn Sie diese Option aktivieren, enthält das MPI Opportunities, die mit mindestens einem Lead verknüpft sind, der vor der Erstellung der Opportunity von einem Marketo-Programm erworben wurde (Erstkontakt/FTP). Es gelten die Einstellungen für explizite, implizite und hybride Attribution .</p></td> 
   </tr> 
   <tr> 
-   <td><strong>Multi-Touch anzeigen, bevor eine Gelegenheit erstellt wurde</strong></td> 
-   <td><p>Wenn Sie dies überprüfen, bietet MPI Möglichkeiten mit mindestens einem Lead, der von einem Marketo-Programm erworben wurde (Multi-Touch/MT), bevor die Gelegenheit geschaffen wurde. Die Attributionseinstellungen Explizit, Implizit und Hybrid gelten.</p></td> 
+   <td><strong>Multi-Touch anzeigen, bevor Opportunity erstellt wird</strong></td> 
+   <td><p>Wenn Sie diese Option aktivieren, enthält das MPI Opportunities mit mindestens einem Lead, der vor der Erstellung der Opportunity von einem Marketo-Programm erworben wurde (Multi-Touch/MT). Es gelten die Einstellungen für explizite, implizite und hybride Attribution .</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -77,12 +77,12 @@ Erfahren Sie mehr über die verschiedenen Einstellungsoptionen in MPI.
 <table> 
  <tbody> 
   <tr> 
-   <td><strong>Erstkontakt anzeigen, bevor die Gelegenheit geschlossen wird</strong></td> 
-   <td><p>Wenn Sie dies überprüfen, umfasst MPI Chancen, die mit mindestens einem Lead verbunden sind, der von einem Marketo-Programm erworben wurde (Erstkontakt/FT), bevor die Gelegenheit geschlossen wurde. Die Attributionseinstellungen Explizit, Implizit und Hybrid gelten.</p></td> 
+   <td><strong>Erstkontakt anzeigen, vor Abschluss der Opportunity</strong></td> 
+   <td><p>Wenn Sie diese Option aktivieren, enthält das MPI Opportunities, die mit mindestens einem Lead verbunden sind, der vor Abschluss der Opportunity von einem Marketo-Programm erworben wurde (Erstkontakt/FTP). Es gelten die Einstellungen für explizite, implizite und hybride Attribution .</p></td> 
   </tr> 
   <tr> 
-   <td><strong>Multi-Touch anzeigen, bevor die Gelegenheit geschlossen wird</strong></td> 
-   <td><p>Wenn Sie dies überprüfen, bietet MPI Möglichkeiten mit mindestens einem Lead, der von einem Marketo-Programm erworben wurde (Multi-Touch/MT), bevor die Gelegenheit geschlossen wurde. Die Attributionseinstellungen Explizit, Implizit und Hybrid gelten.</p></td> 
+   <td><strong>Multi-Touch anzeigen, bevor die Opportunity geschlossen wird</strong></td> 
+   <td><p>Wenn Sie diese Option aktivieren, enthält das MPI Opportunities mit mindestens einem Lead, der vor Abschluss der Opportunity von einem Marketo-Programm erworben wurde (Multi-Touch/MT). Es gelten die Einstellungen für explizite, implizite und hybride Attribution .</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -99,7 +99,7 @@ Erfahren Sie mehr über die verschiedenen Einstellungsoptionen in MPI.
   </tr> 
   <tr> 
    <td><strong>Basierend auf der Programmzuweisung</strong></td> 
-   <td>Die zugewiesenen Kosten basieren auf einem Anteil der Programmkosten, der durch Leads oder Kontakte bestimmt wird, die im Programm erworben wurden oder Erfolg erzielt haben und letztendlich zu einer erfolgreichen Möglichkeit geführt haben.</td> 
+   <td>Die zugewiesenen Kosten basieren auf einem Teil der Programmkosten, der durch Leads oder Kontakte bestimmt wird, die im Programm erworben oder erfolgreich abgeschlossen wurden und letztendlich zu einer gewonnenen Opportunity geführt haben.</td> 
   </tr> 
  </tbody> 
 </table>

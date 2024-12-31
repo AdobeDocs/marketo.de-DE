@@ -1,7 +1,7 @@
 ---
 unique-page-id: 11382829
-description: Marketo Outlook-Plugin deinstallieren durch IT - Marketo Docs - Produktdokumentation
-title: Marketo Outlook-Plug-in-Deinstallation durch IT
+description: Marketo Outlook-Plug-in durch IT deinstallieren - Marketo-Dokumente - Produktdokumentation
+title: Marketo Outlook-Plug-in durch IT deinstallieren
 exl-id: 678684da-3e99-462f-9950-504df1c1bb1e
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,11 +11,11 @@ ht-degree: 2%
 
 ---
 
-# Marketo Outlook-Plug-in-Deinstallation durch IT {#marketo-outlook-plugin-uninstall-by-it}
+# Marketo Outlook-Plug-in durch IT deinstallieren {#marketo-outlook-plugin-uninstall-by-it}
 
-So kann IT das Marketo Outlook-Plugin remote deinstallieren.
+So kann die IT das Marketo Outlook-Plug-in remote deinstallieren.
 
-Führen Sie die folgende Befehlszeile als &quot;System&quot;oder ein Administrator-Benutzerkonto mit dem /x-Switch aus, um es zu deinstallieren.
+Führen Sie die folgende Befehlszeile als „System“ oder als administratives Benutzerkonto mit dem Schalter /x zur Deinstallation aus.
 
 `<pre>msiexec.exe /x [File Name] /qn </pre>`
 
@@ -47,6 +47,6 @@ Um einen Speicherort für die Protokolldateien anzugeben, können Sie den Dateip
 
 >[!CAUTION]
 >
->Durch das Deinstallieren des Plug-ins wird Outlook auf dem Computer des Benutzers erzwungen.
+>Wenn Sie das Plug-in remote deinstallieren, wird Outlook auf dem Computer des Benutzers zwangsweise geschlossen.
 
-Wenn Sie verschiedene Protokollierungsstufen oder Benutzeroberflächenebenen ausprobieren möchten, lesen Sie bitte die vollständige Liste der Switches von Microsoft[1.](https://support.microsoft.com/en-us/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6)
+Siehe die vollständige Liste der Schalter von [Microsoft](https://support.microsoft.com/en-us/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6) wenn Sie verschiedene Protokollierungsebenen oder Benutzeroberflächenebenen ausprobieren möchten.

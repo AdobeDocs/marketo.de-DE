@@ -25,12 +25,12 @@ ht-degree: 12%
 
    ![](assets/image2015-4-22-17-3a22-3a11.png)
 
-1. Klicken Sie auf **Mobile-App-Aktionen** und wählen Sie **App löschen** aus.
+1. Klicken Sie auf **Aktionen für Mobile Apps** und wählen Sie **App löschen** aus.
 
    ![](assets/image2015-4-22-17-3a21-3a51.png)
 
-1. Bestätigen Sie dies durch Klicken auf **Löschen**.
+1. Bestätigen Sie mit **Löschen**.
 
    ![](assets/image2015-4-22-17-3a23-3a18.png)
 
-Ta-da! Push-Benachrichtigungen können nicht mehr von dieser Mobile App gesendet werden.
+Ta-da! Push-Benachrichtigungen können nicht mehr über diese Mobile App gesendet werden.

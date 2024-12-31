@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2949283
-description: Versand und Tracking aus Outlook mit einer Marketo-Vorlage - Marketo-Dokumente - Produktdokumentation
-title: Senden und Verfolgen aus Outlook mit einer Marketo-Vorlage
+description: Senden und Verfolgen aus Outlook mithilfe einer Marketo-Vorlage - Marketo-Dokumente - Produktdokumentation
+title: Senden und Verfolgen aus Outlook mithilfe einer Marketo-Vorlage
 exl-id: 72514b21-f10f-4958-8ee1-0e7f46429e6e
 feature: Marketo Sales Insights
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
@@ -11,23 +11,23 @@ ht-degree: 0%
 
 ---
 
-# Senden und Verfolgen aus Outlook mit einer Marketo-Vorlage {#send-and-track-from-outlook-using-a-marketo-template}
+# Senden und Verfolgen aus Outlook mithilfe einer Marketo-Vorlage {#send-and-track-from-outlook-using-a-marketo-template}
 
-Wenn Ihr Marketing-Team Ihnen Vorlagen zur Verfügung gestellt hat, können Sie damit Zeit sparen, wenn Sie E-Mails erstellen.
+Wenn Ihr Marketing-Team Ihnen Vorlagen zur Verfügung gestellt hat, können Sie diese verwenden, um beim Erstellen Ihrer E-Mails Zeit zu sparen.
 
 >[!NOTE]
 >
->Die Funktionen von Sales Insight-Aktionen, einschließlich &quot;E-Mail an Vertrieb senden&quot;, &quot;Zu Vertriebskampagne hinzufügen&quot;und &quot;Aufgaben&quot;, sind nicht in den Sales Insight-E-Mail-Plugins für Gmail und Outlook verfügbar. Derzeit können Benutzer von ihrem E-Mail-Client aus nur trackbare E-Mails mit oder ohne Marketo-E-Mail-Vorlage senden, wenn sie die Sales Insight-E-Mail-Plugins verwenden.
+>Die Funktionen für Sales Insights-Aktionen, einschließlich „Sales E-Mail senden“, „Zu Sales-Kampagne hinzufügen“ und „Aufgaben“, sind in den E-Mail-Plug-ins für Sales Insights für Gmail und Outlook nicht verfügbar. Derzeit haben Benutzer nur die Möglichkeit, über ihren E-Mail-Client eine verfolgbare E-Mail mit oder ohne Marketo-E-Mail-Vorlage zu senden, wenn sie die Plug-ins für Sales Insight verwenden.
 
-1. Öffnen Sie Microsoft Outlook und klicken Sie auf **Marketo Message**.
+1. Öffnen Sie Microsoft Outlook und klicken Sie auf **Marketo-Nachricht**.
 
    ![](assets/image2014-9-23-17-3a8-3a33.png)
 
-1. Wählen Sie die gewünschte Vorlage aus, zeigen Sie sie in der Vorschau an und klicken Sie auf **OK**.
+1. Wählen Sie die gewünschte Vorlage aus, zeigen Sie eine Vorschau an und klicken Sie auf **OK**.
 
    ![](assets/image2014-9-23-17-3a8-3a45.png)
 
-1. Nehmen Sie alle Änderungen vor und klicken Sie dann auf **Senden und Verfolgen**.
+1. Nehmen Sie alle Ihre Änderungen vor und klicken Sie dann auf **Senden und verfolgen**.
 
    ![](assets/image2014-9-23-17-3a8-3a58.png)
 
@@ -35,12 +35,12 @@ Wenn Ihr Marketing-Team Ihnen Vorlagen zur Verfügung gestellt hat, können Sie 
    >
    >Token werden vom Add-in nicht unterstützt. Entfernen Sie alle Elemente, die sich möglicherweise in der Vorlage befinden.
 
-1. Sehen Sie sich die Vorschau an, stellen Sie sicher, dass sie gut aussieht, und klicken Sie dann auf **Senden**.
+1. Überprüfen Sie die Vorschau, stellen Sie sicher, dass sie gut aussieht, und klicken Sie dann auf **Senden**.
 
    ![](assets/image2014-9-23-17-3a9-3a11.png)
 
-   Und da geht&#39;s! Sie konnten mit Vorlagen, die Ihr supertolles Marketing-Team für Sie erstellt hat, viel Zeit sparen.
+   Und los geht&#39;s! Sie konnten eine Menge Zeit sparen, indem Sie Vorlagen verwendeten, die Ihr super tolles Marketing-Team für Sie gemacht hat.
 
 >[!MORELIKETHIS]
 >
->[Eingehende E-Mails von Ihren Leads in Marketo anmelden](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
+>[Eingehende E-Mails von Ihren Leads in Marketo protokollieren](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)

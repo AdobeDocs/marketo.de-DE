@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2359996
-description: Sortieren von Berichten über Spalten - Marketo-Dokumente - Produktdokumentation
-title: Bericht nach Spalten sortieren
+description: Sortierbericht für Spalten - Marketo-Dokumente - Produktdokumentation
+title: Bericht zu Spalten sortieren
 exl-id: a31383b5-bb18-400b-945a-abecd2b19340
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,15 +11,15 @@ ht-degree: 1%
 
 ---
 
-# Bericht nach Spalten sortieren {#sort-report-on-columns}
+# Bericht zu Spalten sortieren {#sort-report-on-columns}
 
-Verwenden Sie Spalten, um die Daten in Ihrem Bericht zu sortieren und die wichtigsten Zahlen leichter zu finden.
+Sortieren Sie mithilfe von Spalten die Daten in Ihrem Bericht und machen Sie die wichtigsten Zahlen leicht auffindbar.
 
-1. Gehen Sie zu **Analytics** (oder **Marketingaktivitäten**).
+1. Navigieren Sie **Analytics** (oder **Marketing-Aktivitäten**).
 
    ![](assets/login-marketing-activities.png)
 
-1. Wählen Sie Ihren Bericht in der Navigationsstruktur aus und klicken Sie auf die Registerkarte **Bericht** .
+1. Wählen Sie in der Navigationsstruktur Ihren Bericht aus und klicken Sie auf die Registerkarte **Bericht**.
 
    ![](assets/reports2.jpg)
 
@@ -33,4 +33,4 @@ Verwenden Sie Spalten, um die Daten in Ihrem Bericht zu sortieren und die wichti
 
    >[!MORELIKETHIS]
    >
-   >[Berichtspalten auswählen](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)
+   >[Berichtsspalten auswählen](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)

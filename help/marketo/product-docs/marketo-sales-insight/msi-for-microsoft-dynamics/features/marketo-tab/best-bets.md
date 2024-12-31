@@ -1,5 +1,5 @@
 ---
-description: Best Bets - Marketo Docs - Produktdokumentation
+description: Best Practices - Marketo-Dokumente - Produktdokumentation
 title: Vielversprechende Kontakte
 exl-id: 748e2ad8-9d01-4e44-a0b4-c6869456a799
 feature: Marketo Sales Insights
@@ -12,12 +12,12 @@ ht-degree: 14%
 
 # Vielversprechende Kontakte {#best-bets}
 
-Der Tab Beste Einsätze enthält eine Liste aller Hot Leads basierend auf ihrer Priorität, berechnet anhand der Dringlichkeit und des relativen Punktes.
+Die Registerkarte Beste Einsätze enthält eine Liste aller Ihrer Hot Leads basierend auf ihrer Priorität, berechnet unter Verwendung von Dringlichkeit und relativem Score.
 
 Durch Klicken auf das Punktmenü unter der Spalte Aktionen können Sie Interaktionsoptionen wie die folgenden verwenden:
 * Marketo-E-Mail senden
 * Zu Marketo-Kampagne hinzufügen
 
-Sie können auch mehrere Leads auf der Registerkarte &quot;Beste Betten&quot;auswählen und die Optionen _Marketo-E-Mail senden_ oder _Zu Marketo-Kampagne hinzufügen_ auswählen.
+Sie können auch mehrere Leads auf Ihrer Registerkarte Best Bets auswählen und _Marketo-E-Mail senden_ oder _Zu Marketo-Kampagne hinzufügen_ wählen.
 
 ![](assets/best-bets-1.png)

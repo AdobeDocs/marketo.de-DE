@@ -1,59 +1,59 @@
 ---
 unique-page-id: 4718670
-description: Verwenden der Gate Stages des Umsatzmodells - Marketo Docs - Produktdokumentation
-title: Verwenden von Gate-Phasen für Umsatzmodelle
+description: Verwenden von Umsatzmodell-Gate-Stadien - Marketo-Dokumente - Produktdokumentation
+title: Verwenden der Umsatzmodell-Gate-Phasen
 exl-id: a69a4efd-76de-4bfa-81f2-6e74048f30f7
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '272'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Verwenden von Gate-Phasen für Umsatzmodelle {#using-revenue-model-gate-stages}
+# Verwenden der Umsatzmodell-Gate-Phasen {#using-revenue-model-gate-stages}
 
-Eine Gate-Stufe dient als Qualifizierungsprüfung.
+Eine Torstufe dient als Qualifikationsprüfung.
 
 >[!TIP]
 >
->Es ist eine gute Idee, ein Übungsmodell in einem Grafik- oder Präsentationsprogramm zu erstellen und es mit Ihren Kollegen zu bestätigen.
+>Es empfiehlt sich, ein Übungsmodell in einem Grafik- oder Präsentationsprogramm zu erstellen und es mit den Kollegen zu bestätigen.
 
-## Hinzufügen einer Gate-Phase {#add-a-gate-stage}
+## Eine Gate-Phase hinzufügen {#add-a-gate-stage}
 
-1. Wechseln Sie zum Bereich **Analytics** .
+1. Wechseln Sie zum Bereich **Analytics**.
 
    ![](assets/image2015-4-27-23-3a27-3a43.png)
 
-1. Wählen Sie ein vorhandenes Modell aus oder [erstellen Sie ein neues](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
+1. Wählen Sie ein vorhandenes Modell aus oder [ Sie ein neues ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
 
    ![](assets/image2015-4-27-15-3a6-3a30.png)
 
-1. Klicken Sie auf **Entwurf bearbeiten**.
+1. Klicken Sie **Entwurf bearbeiten**.
 
    ![](assets/image2015-4-27-12-3a10-3a49.png)
 
-1. Klicken Sie auf die Schaltfläche **Gate** und ziehen Sie dann eine beliebige Stelle auf der Arbeitsfläche.
+1. Klicken Sie auf **Gate**-Schaltfläche und ziehen Sie per Drag-and-Drop an eine beliebige Stelle auf der Arbeitsfläche.
 
    ![](assets/image2015-4-27-16-3a54-3a19.png)
 
-1. Bearbeiten Sie den **Namen** und wählen Sie einen **Typ** aus.
+1. Bearbeiten Sie den **Name** und wählen Sie einen **Type** aus.
 
    >[!NOTE]
    >
-   >Wählen Sie zu diesem Zeitpunkt [Tracking nach Konto starten](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md) aus, um Einblicke in die Leistung Ihrer Konten zu erhalten, während sie durch Ihr Modell laufen.
+   >Wählen Sie [Tracking nach Konto starten](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md) um einen Einblick in die Leistung Ihrer Konten zu erhalten, während sie Ihr Modell durchlaufen.
 
    ![](assets/image2015-4-28-12-3a1-3a7.png)
 
 >[!NOTE]
 >
->Die Gate Stage teilt Leads basierend auf Kriterien auf, die Sie in die Übergangsregeln eingeben. **Sie enthält keine Leads.** Eine Standardtransition ist erforderlich, damit Leads, die nicht von den anderen Transitionen ausgewählt werden, den Standard durchlaufen.
+>Die Gate-Phase teilt Leads auf der Grundlage der Kriterien, die Sie in die Übergangsregeln eingeben (**enthält keine Leads**. Ein Standardübergang ist erforderlich, damit Leads, die nicht von den anderen Übergängen ausgewählt wurden, den Standard durchlaufen.
 
-## Eine Gate-Phase bearbeiten {#edit-a-gate-stage}
+## Gate-Phase bearbeiten {#edit-a-gate-stage}
 
-Bearbeiten Sie den Namen und die Beschreibung und passen Sie den Typ Ihrer Gate-Phase an. Sie können auch die Option [Tracking mit Konto starten](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md) auswählen.
+Bearbeiten Sie den Namen und die Beschreibung und passen Sie den Typ Ihres Gate-Schritts an. Sie können auch [Tracking nach Konto starten](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md).
 
-1. Klicken Sie auf ein Staging-Symbol für **Gate**.
+1. Klicken Sie auf **Staging** Symbol „Gate“.
 
    ![](assets/image2015-4-27-17-3a11-3a41.png)
 
@@ -61,28 +61,28 @@ Bearbeiten Sie den Namen und die Beschreibung und passen Sie den Typ Ihrer Gate-
 
    ![](assets/image2015-4-28-12-3a17-3a22.png)
 
-1. Wählen Sie das Dropdown-Menü **Typ** aus, um es zu bearbeiten.
+1. Wählen Sie die **Typ** aus, um sie zu bearbeiten.
 
    ![](assets/image2015-4-27-17-3a14-3a7.png)
 
 ## Eine Gate-Phase löschen {#delete-a-gate-stage}
 
-1. Sie können eine Gate Stage löschen, indem Sie mit der rechten Maustaste auf das Gate Stage-Symbol klicken und **Löschen** auswählen.
+1. Sie können eine Gate-Phase löschen, indem Sie mit der rechten Maustaste auf das Gate-Stadium-Symbol klicken und **Löschen** auswählen.
 
    ![](assets/image2015-4-28-12-3a30-3a19.png)
 
-1. Sie können eine Gate-Phase auch löschen, indem Sie darauf klicken und dann in der Dropdown-Liste **Staging-Aktionen** die Option **Löschen** auswählen.
+1. Sie können ein Gate-Stadium auch löschen, indem Sie darauf klicken und dann in der Dropdown **Liste „Stadienaktionen** die Option **Löschen** auswählen.
 
    ![](assets/image2015-4-28-12-3a56-3a28.png)
 
-1. Bei beiden Löschmethoden müssen Sie Ihre Auswahl bestätigen. Klicken Sie auf **Löschen**.
+1. Bei beiden Löschmethoden werden Sie aufgefordert, Ihre Auswahl zu bestätigen. Klicken Sie auf **Löschen**.
 
    ![](assets/image2015-4-28-12-3a52-3a22.png)
 
-Herzlichen Glückwunsch! Jetzt verstehen Sie die wunderbare Welt der Gate Stages.
+Herzlichen Glückwunsch! Jetzt versteht ihr die wunderbare Welt der Gate Stages.
 
 >[!MORELIKETHIS]
 >
->* [Verwenden der Lagerbestandsstatus des Umsatzmodells](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
->* [Verwenden von SLA-Phasen des Umsatzmodells](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
+>* [Verwendung der Umsatzmodell-Inventarstadien](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
+>* [Verwenden des Umsatzmodells SLA Stages](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
 >* [Erstellen Sie ein neues Umsatzmodell](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).

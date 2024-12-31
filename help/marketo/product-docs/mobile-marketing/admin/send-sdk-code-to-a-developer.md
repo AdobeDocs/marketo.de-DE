@@ -1,7 +1,7 @@
 ---
 unique-page-id: 7512448
-description: SDK-Code an einen Entwickler senden - Marketo-Dokumente - Produktdokumentation
-title: SDK-Code an einen Entwickler senden
+description: Senden von SDK-Code an einen Entwickler - Marketo-Dokumente - Produktdokumentation
+title: Senden von SDK-Code an einen Entwickler
 exl-id: 0c32b9af-8d86-40d7-b1f3-9aaa53b9b730
 feature: Mobile Marketing
 source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
@@ -11,20 +11,20 @@ ht-degree: 0%
 
 ---
 
-# SDK-Code an einen Entwickler senden {#send-sdk-code-to-a-developer}
+# Senden von SDK-Code an einen Entwickler {#send-sdk-code-to-a-developer}
 
-Bevor Sie In-App-Nachrichten oder Push-Benachrichtigungen erstellen können, müssen Sie den Entwickler bitten, das Mobile App SDK für die Plattformen Android und iOS einzurichten und zu initialisieren.
+Bevor Sie In-App-Nachrichten oder Push-Benachrichtigungen erstellen können, müssen Sie die Mobile App SDK für die Android- und iOS-Plattformen einrichten und initialisieren.
 
-* [Anweisungen für Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)
-* [Anweisungen für iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-ios)
+* [Anleitung für Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)
+* [Anleitung für iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-ios)
 
-## SDK-Code an einen Entwickler senden {#send-sdk-code-to-a-developer-1}
+## Senden von SDK-Code an einen Entwickler {#send-sdk-code-to-a-developer-1}
 
-Manchmal muss ein Administrator einen SDK-Code an einen Entwickler senden.
+Manchmal muss ein Administrator SDK-Code an einen Entwickler senden.
 
 ![](assets/image2016-3-9-16-3a24-3a14.png)
 
-So machst du das.
+So macht man das.
 
 1. Klicken Sie auf **Admin**.
 
@@ -38,7 +38,7 @@ So machst du das.
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-1. Klicken Sie auf **Mobile-App-Aktionen** und wählen Sie **An Entwickler senden** aus.
+1. Klicken Sie auf **Aktionen für Mobile Apps** und wählen Sie **An Entwickler senden** aus.
 
    ![](assets/image2015-4-22-17-3a13-3a30.png)
 
@@ -46,4 +46,4 @@ So machst du das.
 
    ![](assets/image2015-4-22-18-3a51-3a54.png)
 
-   Der SDK-Code wird jetzt an Ihren Entwickler gesendet.
+   Der SDK-Code wird jetzt an die Entwicklerin bzw. den Entwickler gesendet.

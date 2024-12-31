@@ -1,7 +1,7 @@
 ---
 unique-page-id: 11384634
-description: Die prädiktive Inhaltszusammenfassung - Marketo-Dokumente - Produktdokumentation
-title: Die Zusammenfassung der vorausschauenden Inhalte
+description: Die Zusammenfassung prädiktiver Inhalte - Marketo-Dokumente - Produktdokumentation
+title: Die Zusammenfassung des prädiktiven Inhalts
 exl-id: 74663e07-39c6-40e5-bb49-e222c3c16034
 feature: Predictive Content
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,40 +11,40 @@ ht-degree: 1%
 
 ---
 
-# Die Zusammenfassung der vorausschauenden Inhalte {#the-predictive-content-summary}
+# Die Zusammenfassung des prädiktiven Inhalts {#the-predictive-content-summary}
 
-In der Zusammenfassung der prädiktiven Inhalte werden die Informationen, die Sie über Ihren prädiktiven Inhalt benötigen, auf einen Blick mit Tabellen, Diagrammen und aktuellen Zahlen angezeigt.
+Die Zusammenfassung des prädiktiven Inhalts zeigt auf einen Blick die Informationen an, die Sie über Ihren prädiktiven Inhalt benötigen - mit Tabellen, Diagrammen und aktuellen Zahlen.
 
-## Oberer Balken {#top-bar}
+## Obere Leiste {#top-bar}
 
-In der oberen Leiste werden die aktuellen Zahlen für Inhalte und Ansichten sowie die Anzahl der aktivierten Teile angezeigt. Wählen Sie oben rechts eine Ansicht der letzten 7 oder 30 Tage für die gesamte Seite aus.
+In der oberen Leiste werden die aktuellen Zahlen für Inhalte und Ansichten sowie die Anzahl der aktivierten Elemente angezeigt. Wählen Sie oben rechts eine Ansicht der letzten 7 oder 30 Tage für die gesamte Seite aus.
 
 ![](assets/image2017-10-17-14-3a10-3a22.png)
 
 ## Leistungstabelle {#performance-table}
 
-Hier können Sie Ihre 10 wichtigsten entdeckten Inhalte sehen, einschließlich Ansichten, direkter Leads und Konversionsrate.
+Hier sehen Sie Ihre 10 wichtigsten entdeckten Inhalte, einschließlich Ansichten, direkten Leads und Konversionsraten.
 
 ![](assets/image2017-10-3-10-3a4-3a40.png)
 
 ## Prädiktive Kundenbindung {#predictive-engagement}
 
-Sehen Sie sich Ihre Konversionsrate an, indem Sie Klicks und Leads insgesamt vergleichen und die Leistung der verschiedenen Quellen vergleichen.
+Vergleichen Sie Ihre Konversionsrate durch Vergleich der Gesamtklicks und der direkten Leads und durch Vergleich der Leistung der verschiedenen Quellen.
 
 ![](assets/predictive-engagement-actual.png)
 
 ## Inhaltstrend nach Ansichten  {#content-trend-by-views}
 
-Vergleichen Sie, wie Ihre Ansichten aller Inhalte mit Ihrem prädiktiven Inhalt übereinstimmen.
+Vergleichen Sie, wie Ihre Ansichten aller Inhalte mit Ihren prädiktiven Inhalten übereinstimmen.
 
 ![](assets/4.png)
 
-## Topkategorien nach Interaktion {#top-categories-by-engagement}
+## Top-Kategorien nach Interaktion {#top-categories-by-engagement}
 
-Welche Inhaltskategorien sind am ansprechendsten? Siehe es in diesem Diagramm.
+Welche Inhaltskategorien sind am ansprechendsten? Sehen Sie es in diesem Diagramm.
 
 ![](assets/5.png)
 
 >[!NOTE]
 >
->Wenn Sie auf einen Kategorienlink klicken (Beispiele im obigen Bild: Leader, E-Mail usw.) Dadurch wird die Seite Alle Inhalte mit der Kategorie, auf die Sie geklickt haben, zum Filter geöffnet und die Inhaltsanalyse in dieser Kategorie angezeigt.
+>Wenn Sie auf einen Kategorie-Link klicken (Beispiele im obigen Bild: Lead, E-Mail usw.), wird die Seite Alle Inhalte mit der Kategorie, auf die Sie geklickt haben, zum Filter hinzugefügt und die Inhaltsanalyse in dieser Kategorie angezeigt.

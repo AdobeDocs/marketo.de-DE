@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2360421
-description: Analytics-Verhalten auf Programmebene außer Kraft setzen - Marketo Docs - Produktdokumentation
-title: Analytics-Verhalten auf Programmebene überschreiben
+description: Überschreiben des Analytics-Verhaltens auf Programmebene - Marketo-Dokumente - Produktdokumentation
+title: Überschreiben des Analytics-Verhaltens auf Programmebene
 exl-id: 2fd86279-99ae-494d-a6f8-2572b7dcd892
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
@@ -11,34 +11,34 @@ ht-degree: 1%
 
 ---
 
-# Analytics-Verhalten auf Programmebene überschreiben {#override-analytics-behavior-at-the-program-level}
+# Überschreiben des Analytics-Verhaltens auf Programmebene {#override-analytics-behavior-at-the-program-level}
 
-Sie können das Analytics-Verhalten [auf Admin-Ebene auf Kanälen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) festlegen, es aber auch auf Programmebene überschreiben. Gehen Sie wie folgt vor:
+Sie können das [Analytics-Verhalten auf der Admin-Ebene für Kanäle ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md), es kann aber auch auf Programmebene überschrieben werden. So geht&#39;s:
 
-1. Wechseln Sie zum Bereich **Marketingaktivitäten** .
+1. Navigieren Sie zum Bereich **Marketing** Aktivitäten.
 
    ![](assets/image2014-9-24-11-3a40-3a46.png)
 
-1. Wählen Sie Ihr Programm aus.
+1. Suchen und wählen Sie Ihr Programm aus.
 
    ![](assets/image2014-9-24-11-3a40-3a57.png)
 
-1. Ziehen Sie unter der Registerkarte **Einrichtung** das Analytics-Verhalten auf die Arbeitsfläche.
+1. Ziehen Sie auf **Registerkarte** Setup“ Analytics Behavior auf die Arbeitsfläche.
 
    ![](assets/image2014-9-24-11-3a41-3a2.png)
 
-1. Wählen Sie das gewünschte Analytics-Verhalten aus.
+1. Wählen Sie das gewünschte Analyseverhalten aus.
 
    >[!NOTE]
    >
    >**Definition**
    >
-   >* **Einschließlich** - Mit dieser Option wird sichergestellt, dass das Programm für die Berichterstellung in Umsatz-Explorer und Analyzern verfügbar ist, unabhängig davon, ob Sie einen Zeitraumpreis angegeben haben oder nicht.
-   >* **Operativ** - Diese Option führt dazu, dass das Programm weder in den Umsatz-Explorer noch in den Analyzern angezeigt wird.
+   >* **Einschließlich** - Mit dieser Option wird sichergestellt, dass das Programm für das Reporting im Umsatz-Explorer und in Analyzern verfügbar ist, unabhängig davon, ob Sie einen Kostenzeitraum einbezogen haben oder nicht.
+   >* **Operativ** - Diese Option führt dazu, dass das Programm weder im Umsatz-Explorer noch in Analyzern angezeigt wird.
 
    >[!NOTE]
    >
-   >Das Standardverhalten (wenn diese Einstellung nicht angewendet wird) besteht darin, dass das Programm NUR dann in Analytics **enthalten ist, wenn mindestens ein Zeitraumkosten** vorliegt, selbst wenn einem Wert 0 zugewiesen ist.
+   >Das Standardverhalten (wenn diese Einstellung nicht angewendet wird) besteht darin, dass das Programm in Analytics eingeschlossen wird **NUR bei Kosten für mindestens einen Zeitraum** auch nur für einen mit null Dollar.
 
    ![](assets/image2014-9-24-11-3a42-3a0.png)
 
@@ -46,8 +46,8 @@ Sie können das Analytics-Verhalten [auf Admin-Ebene auf Kanälen](/help/marketo
 
    ![](assets/image2014-9-24-11-3a42-3a6.png)
 
-Schön gemacht! Jetzt wissen Sie, wie Sie das Analyseverhalten auf Programmebene überschreiben können.
+Gut gemacht! Jetzt wissen Sie, wie Sie das Analytics-Verhalten auf Programmebene überschreiben.
 
 >[!NOTE]
 >
->Die Änderungen werden am nächsten Tag wirksam und entweder bereitgestellt oder aus dem Umsatz-Explorer und den Analyzern abgerufen.
+>Die Änderungen treten am nächsten Tag in Kraft und werden entweder bereitgestellt oder aus dem Revenue Explorer und Analyzer abgerufen.

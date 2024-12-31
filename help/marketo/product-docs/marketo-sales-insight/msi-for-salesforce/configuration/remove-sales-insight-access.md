@@ -1,22 +1,22 @@
 ---
-description: Entfernen von Sales Insight Access - Marketo Docs - Produktdokumentation
-title: Entfernen von Sales Insight Access
+description: Zugriff auf Sales Insights entfernen - Marketo-Dokumente - Produktdokumentation
+title: Zugriff auf Sales Insights entfernen
 exl-id: 3cda112a-524e-469b-a222-c0192b2f5301
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '407'
-ht-degree: 4%
+ht-degree: 6%
 
 ---
 
-# Entfernen von Sales Insight Access {#remove-sales-insight-access}
+# Zugriff auf Sales Insights entfernen {#remove-sales-insight-access}
 
-Führen Sie die folgenden Schritte aus, um den Zugriff auf Sales Insight-Funktionen in Salesforce zu entfernen. Gilt für Salesforce Classic und Lightning.
+Gehen Sie wie folgt vor, um den Zugriff auf Sales Insight-Funktionen in Salesforce zu entfernen. Gilt für Salesforce Classic und Lightning.
 
 ## Überblick {#overview}
 
-Für den Zugriff auf alle Sales Insight-Funktionen ist eine Berechtigung für die unten genannten Objekte, Apex-Klassen und visualforce-Seiten erforderlich. Wenn Sie diese entfernen, wird der Zugriff auf Sales Insight entfernt.
+Für den Zugriff auf alle Sales Insight-Funktionen ist eine Berechtigung für die unten genannten Objekte, Apex-Klassen und VisualForce-Seiten erforderlich. Wenn Sie diese entfernen, wird der Zugriff auf Sales Insights entfernt.
 
 **Objekteinstellungen**
 
@@ -31,7 +31,7 @@ Für den Zugriff auf alle Sales Insight-Funktionen ist eine Berechtigung für di
    <td>Lesen, Erstellen, Bearbeiten, Löschen, Alle anzeigen, Alle ändern</td> 
   </tr> 
   <tr> 
-   <td>Best-Bets-Ansichten</td> 
+   <td>Beste Ansichten</td> 
    <td>Lesen, Erstellen, Bearbeiten, Löschen, Alle anzeigen, Alle ändern</td> 
   </tr> 
   <tr> 
@@ -47,7 +47,7 @@ Für den Zugriff auf alle Sales Insight-Funktionen ist eine Berechtigung für di
    <td>Lesen, Erstellen, Bearbeiten, Löschen, Alle anzeigen, Alle ändern</td> 
   </tr> 
   <tr> 
-   <td>InteressantMomentsCache</td> 
+   <td>InterestingMomentsCache</td> 
    <td>Lesen, Erstellen, Bearbeiten, Löschen, Alle anzeigen, Alle ändern</td> 
   </tr> 
   <tr> 
@@ -55,7 +55,7 @@ Für den Zugriff auf alle Sales Insight-Funktionen ist eine Berechtigung für di
    <td>Lesen, Erstellen, Bearbeiten, Löschen, Alle anzeigen, Alle ändern</td> 
   </tr> 
   <tr> 
-   <td>ScoringCache</td> 
+   <td>Scoring-Cache</td> 
    <td>Lesen, Erstellen, Bearbeiten, Löschen, Alle anzeigen, Alle ändern</td> 
   </tr> 
   <tr> 
@@ -69,68 +69,68 @@ Für den Zugriff auf alle Sales Insight-Funktionen ist eine Berechtigung für di
  </tbody> 
 </table>
 
-* Apex-Klassenzugriff: 159 Apex-Klassen, die mit &quot;mkto_si&quot;beginnen
-* Visualforce-Seitenzugriff: 64 Visualforce-Seiten, die mit &quot;mkto_si&quot;beginnen
-* Benutzerdefinierte Einstellungsdefinitionen: mkto_si.Marketo-Einstellungen und mkto_si.Benutzereinstellungen
+* Apex Class Access: 159 Apex-Klassen, die mit „mkto_si“ beginnen
+* VisualForce Seitenzugriff: 64 VisualForce-Seiten, die mit „mkto_si“ beginnen
+* Benutzerdefinierte Einstellungsdefinitionen: mkto_si.Marketo Settings &amp; mkto_si.User Preferences
 
 ## Entfernen des Zugriffs auf Sales Insight {#removing-access-to-sales-insight}
 
 1. Melden Sie sich bei Ihrem Salesforce-Konto an.
 
-1. Klicken Sie auf **Einrichten**.
+1. Klicken Sie **Setup**.
 
    ![](assets/remove-sales-insight-access-1.png)
 
-1. Klicken Sie unter &quot;Administrator&quot;auf **Benutzer verwalten** und dann auf **Profile**.
+1. Klicken Sie unter „Administrator **auf** Benutzer verwalten **und dann auf**.
 
 1. Klicken Sie auf das Profil, das Sie aktualisieren möchten, und dann auf **Bearbeiten**.
 
-1. Scrollen Sie nach unten zu &quot;Benutzerdefinierte Registerkarteneinstellungen&quot;unter &quot;Registerkarteneinstellungen&quot;.
+1. Scrollen Sie unter Registerkarteneinstellungen nach unten zu „Benutzerdefinierte Registerkarteneinstellungen“.
 
-1. Wählen Sie die Option &quot;Tab ausgeblendet&quot;aus der Dropdown-Liste für Marketo Sales Insight Config und MSI Marketo Sales Outbox aus.
+1. Wählen Sie die Option „Tab Hidden“ aus der Dropdown-Liste für Marketo Sales Insight Config und MSI Marketo Sales Outbox.
 
    ![](assets/remove-sales-insight-access-2.png)
 
    ![](assets/remove-sales-insight-access-3.png)
 
-1. Scrollen Sie nach unten zu &quot;Benutzerdefinierte Objektberechtigungen&quot;.
+1. Scrollen Sie nach unten zu „Benutzerdefinierte Objektberechtigungen“.
 
-1. Entfernen Sie den Zugriff &quot;Lesen, Erstellen, Bearbeiten, Löschen&quot;aus den folgenden Objekten:
+1. Entfernen Sie den Zugriff „Lesen, Erstellen, Bearbeiten, Löschen“ aus folgenden Objekten:
 
    * BestBetsCache
    * Details zur Ansicht mit vielversprechenden Kontakten
-   * Best-Bets-Ansichten
+   * Beste Ansichten
    * EmailActivityCache
    * GetMethodArgus
    * GroupedWebActivityCache
-   * InteressantMomentsCache
+   * InterestingMomentsCache
    * Marketo Sales Insight-Konfig.
-   * ScoringCache
+   * Scoring-Cache
    * Werte
    * WebActivityCache
 
-1. Scrollen Sie nach unten zum Abschnitt &quot;Aktivierter Apex-Klassenzugriff&quot;. Klicken Sie auf **Bearbeiten**.
+1. Scrollen Sie nach unten zum Abschnitt „Aktivierter Apex-Klassenzugriff“. Klicken Sie auf **Bearbeiten**.
 
-1. Wählen Sie im Abschnitt &quot;Aktivierte Apex-Klassen&quot;alle Klassen aus, die mit &quot;mkto_si&quot;beginnen. Dies sollte bis zu 159 Klassen ergeben.
+1. Wählen Sie im Abschnitt „Aktivierte Apex-Klassen“ alle Klassen aus, die mit „mkto_si“ beginnen. Dies sollte bis zu 159 Klassen umfassen.
 
-1. Klicken Sie auf **Entfernen** und dann auf **Speichern**.
+1. Klicken Sie **Entfernen** und dann **Speichern**.
 
    ![](assets/remove-sales-insight-access-4.png)
 
-1. Scrollen Sie nach unten zum Abschnitt &quot;Aktivierter visueller Seitenzugriff&quot;. Klicken Sie auf **Bearbeiten**.
+1. Scrollen Sie nach unten zum Abschnitt „Seitenzugriff erzwingen“. Klicken Sie auf **Bearbeiten**.
 
-1. Wählen Sie im Abschnitt &quot;Aktivierte Visualisierungsseiten&quot;alle Seiten aus, die mit &quot;mkto_si&quot;beginnen. Dies sollte bis zu 64 Seiten umfassen.
+1. Wählen Sie im Abschnitt „Aktivierte VisualForce-Seiten“ alle Seiten aus, die mit „mkto_si“ beginnen. Dadurch sollten bis zu 64 Seiten hinzugefügt werden.
 
-1. Klicken Sie auf **Entfernen** und dann auf **Speichern**.
+1. Klicken Sie **Entfernen** und dann **Speichern**.
 
    ![](assets/remove-sales-insight-access-5.png)
 
-1. Scrollen Sie nach unten zum Abschnitt &quot;Zugriff auf aktivierte benutzerdefinierte Einstellungen - Zugriff&quot;. Klicken Sie auf **Bearbeiten**.
+1. Scrollen Sie nach unten zum Abschnitt „Zugriff auf benutzerdefinierte Einstellungsdefinitionen aktiviert“. Klicken Sie auf **Bearbeiten**.
 
-1. Wählen Sie &quot;Marketo Sales Insight.mkto_si.Marketo Settings&quot;und &quot;Marketo Sales Insight.mkto_si.User Preferences&quot;.
+1. Wählen Sie &quot;Marketo Sales Insight.mkto_si.Marketo Settings“ und &quot;Marketo Sales Insight.mkto_si.User Preferences“ aus.
 
-1. Klicken Sie auf **Entfernen** und dann auf **Speichern**.
+1. Klicken Sie **Entfernen** und dann **Speichern**.
 
    ![](assets/remove-sales-insight-access-6.png)
 
-Das ist alles! Sie haben den Zugriff auf Sales Insight erfolgreich entfernt. Wiederholen Sie die gleichen Schritte für jedes andere Profil, für das Sie den Zugriff entfernen möchten.
+Das ist alles! Sie haben den Zugriff auf Sales Insight erfolgreich entfernt. Wiederholen Sie die gleichen Schritte für jedes andere Profil, dem Sie den Zugriff entziehen möchten.

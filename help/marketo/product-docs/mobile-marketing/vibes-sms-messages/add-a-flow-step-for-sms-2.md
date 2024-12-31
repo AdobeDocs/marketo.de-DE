@@ -1,67 +1,67 @@
 ---
 description: Flussschritt für SMS hinzufügen - Marketo-Dokumente - Produktdokumentation
-title: Flussschritt für SMS hinzufügen
+title: Hinzufügen eines Flussschritts für SMS
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
 source-git-commit: fee2d692acd8d54f2e308e2d5edc9876d13d5a4d
 workflow-type: tm+mt
 source-wordcount: '377'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
-# Flussschritt für SMS hinzufügen {#add-a-flow-step-for-sms}
+# Hinzufügen eines Flussschritts für SMS {#add-a-flow-step-for-sms}
 
-Marketo Engage verfügt über drei Flussschritte, die Sie in Ihren SMS-Smart-Kampagnen verwenden können:
+Marketo Engage verfügt über drei Flussschritte, die Sie in Ihren SMS Smart-Kampagnen verwenden können:
 
 <table>
 <tbody>
   <tr>
     <td style="width:25%">SMS-Nachricht senden</td>
-    <td>Mit dieser Flussaktion werden Nachrichten an Personen aus der Smart-Liste von Marketo gesendet, die sich für eine angemeldete Abonnementliste von Vibes angemeldet haben. Der Abonnementprozess wird nicht initiiert. <a href="/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-a-vibes-sms-message.md">Weitere Infos</a>.</td>
+    <td>Diese Flussaktion sendet Nachrichten an Personen aus der Smart-Liste von Marketo, die sich für eine Abonnement-Liste mit angemeldeten Benutzern von Vibes angemeldet haben. Der Anmeldevorgang wird nicht initiiert. <a href="/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-a-vibes-sms-message.md">Weitere Informationen</a>.</td>
   </tr>
 
 <tr>
     <td style="width:25%">Abonnement der Vibes-Liste</td>
-    <td>Mit dieser Flussaktion wird der SMS-Abonnementprozess über eine vom Benutzer ausgewählte Vibes-Akquise-Kampagne initiiert. Vibes sendet dann eine Bestätigungsnachricht und der Empfänger muss innerhalb von 24 Stunden mit "Y"antworten, um die Anmeldung zu bestätigen. Nachdem sich der Benutzer angemeldet hat, wird er Mitglied Ihrer zugehörigen Vibes-Abonnementliste.</td>
+    <td>Diese Flussaktion initiiert den SMS-Abonnementprozess über eine vom Benutzer ausgewählte Vibes-Akquise-Kampagne. Vibes sendet dann eine Bestätigungsnachricht, und der Empfänger muss innerhalb von 24 Stunden mit „Y“ antworten, um die Anmeldung zu bestätigen. Nachdem sich der Benutzer angemeldet hat, wird er Mitglied der zugehörigen Vibes-Abonnement-Liste.</td>
   </tr>
   <tr>
     <td style="width:25%">Abbestelltes Abonnement der Vibes-Liste</td>
-    <td>Mit dieser Flussaktion wird die Anmeldung jeder Person von einer angemeldeten Benutzer-Abonnementliste für Vibes aufgehoben. Wenn ein Benutzer "STOP"in Ihren Code schreibt, wird sein Personendatensatz aktualisiert, um anzuzeigen, dass er nicht mehr Mitglied der Vibes-Abonnementliste ist.</td>
+    <td>Mit dieser Flussaktion wird jede Person von einer Abonnement-Liste für angemeldete Benutzer abgemeldet. Wenn ein(e) Benutzende(r) „STOP“ zu Ihrem Code per SMS sendet, wird sein/ihr Personendatensatz aktualisiert, um anzugeben, dass er/sie nicht mehr zur Vibes-Abonnement-Liste gehört.</td>
   </tr>
   </tbody>
 </table>
 
 >[!NOTE]
 >
->Beim Senden von SMS-Nachrichten:
+>Beim Versand von SMS-Nachrichten:
 >
->* Marketo dedupliziert nach Telefonnummer. Wenn also mehrere Personen über dieselbe Telefonnummer verfügen, erhält nur eine Person die Nachricht, wenn sie nur einer Vibes-Abonnementliste angehört. Die Deduplizierung erfolgt auf der Ebene der Vibes-Abonnement-Liste, nicht auf der Programmebene von Marketo.
->* Marketo sendet keine Nachrichten an Personen, die auf die Blockierungsliste gesetzt oder Marketing ausgesetzt sind.
+>* Marketo dedupliziert nach Telefonnummer. Wenn also mehrere Personen dieselbe Telefonnummer haben, erhält nur eine Person die Nachricht, wenn sie nur Mitglied einer einzigen Vibes-Abonnement-Liste sind. Die Deduplizierung erfolgt auf der Ebene der Vibes-Abonnement-Liste, nicht auf der Ebene des Marketo-Programms.
+>* Marketo sendet keine Nachrichten an Personen, die auf die Blockierungsliste setzte oder Marketing ausgesetzt sind.
 
 Allgemeine Informationen zum Einrichten von Flussschritten finden Sie unter [Hinzufügen eines Flussschritts zu einer Smart-Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md).
 
-Hier finden Sie die Grundlagen zur Verwendung von SMS.
+Im Folgenden finden Sie die Grundlagen zur Verwendung von SMS.
 
-1. Klicken Sie in My Marketo auf **Marketingaktivitäten**.
+1. Klicken Sie in My Marketo auf **Marketing-Aktivitäten**.
 
    ![](assets/add-a-flow-step-for-sms-1.png)
 
-1. Wählen Sie die Smart-Kampagne aus, der Sie den SMS-Fluss hinzufügen möchten.
+1. Suchen Sie die Smart Campaign, der Sie den SMS-Fluss hinzufügen möchten, und wählen Sie sie aus.
 
    SCREENSHOT
 
-1. Wählen Sie auf der Registerkarte Smart-Liste die gewünschten Trigger aus (z. B. &quot;ausgefülltes Formular&quot;).
+1. Wählen Sie auf der Registerkarte Smart-Liste die gewünschten Trigger aus (z. B. „Ausgefülltes Formular„).
 
    SCREENSHOT
 
-1. Ziehen Sie auf der Registerkarte **Fluss** den Fluss-Schritt (z. B. **SMS-Nachricht senden**). Wählen Sie aus den Dropdown-Listen die Liste SMS-Nachricht und die Adressen aus.
+1. Ziehen Sie auf **Registerkarte** Fluss“ den Fluss-Schritt (z. B. &quot;**-Nachricht senden**). Wählen Sie die SMS-Nachricht und die Liste Vibes aus den Dropdown-Listen aus.
 
    ![](assets/send-sms-message-hands.jpg)
 
    >[!NOTE]
    >
-   >Der Wähler &quot;Besuchsliste&quot;dient als weiterer Filter für die bereits in der Smart-Liste identifizierte Zielgruppe, sodass nur die Leads als Ziel ausgewählt werden, die zu dieser Vibes-Liste gehören.
+   >Der Selektor Vibes-Liste dient als weiterer Filter für die bereits in der Smart-Liste identifizierte Audience, um nur die Leads anzusprechen, die zu dieser Vibes-Liste gehören.
    >
-   >Die Flüsse **Abonnieren der Vibes-Liste** und **Abmelden von der Vibes-Liste** haben unterschiedliche Anforderungen. Für **Abonnieren** müssen Sie die Vibes-Liste und die Vibes-Akquise-Kampagne auswählen. Für **Unsubscribe** ist nur die Vibes-Liste erforderlich.
+   >Die **Abonnieren einer Vibes-Liste** und **Abmelden von einer Vibes-Liste** haben unterschiedliche Anforderungen. Für **Abonnieren** müssen Sie die Vibes-Liste und die Vibes-Akquise-Kampagne auswählen. Für **Abmelden** ist nur die Liste Vibes erforderlich.

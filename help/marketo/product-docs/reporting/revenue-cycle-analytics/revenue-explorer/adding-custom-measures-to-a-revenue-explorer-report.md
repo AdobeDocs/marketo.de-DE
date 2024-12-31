@@ -13,25 +13,25 @@ ht-degree: 0%
 
 # Hinzufügen benutzerdefinierter Kennzahlen zu einem Umsatz-Explorer-Bericht {#adding-custom-measures-to-a-revenue-explorer-report}
 
-Manchmal möchten Sie eine benutzerdefinierte Kennzahl in einem Bericht haben. Es ist einfach, eigene zu erstellen.
+Manchmal soll eine benutzerdefinierte Kennzahl in einem Bericht enthalten sein. Es ist einfach, eigene zu erstellen.
 
-Im folgenden Beispiel erstellen Sie eine berechnete Kennzahl für Softbounces, die bereits im Bericht enthaltene Metriken verwendet und eine neue Metrik anhand der Grundlagen erstellt. Sie können auch andere Kennzahlentypen erstellen.
+Im folgenden Beispiel erstellen Sie eine berechnete Kennzahl für Softbounces, bei der bereits im Bericht enthaltene Metriken verwendet werden und eine neue Metrik anhand einfacher Mathematik erstellt wird. Sie können auch andere Kennzahlentypen erstellen.
 
 >[!PREREQUISITES]
 >
->Sie benötigen mindestens eine Metrik in Ihrem Bericht, sie muss jedoch nicht zu den Kennzahlen gehören, die Sie zur Definition Ihrer benutzerdefinierten Kennzahl verwenden.
+>Sie benötigen mindestens eine Metrik in Ihrem Bericht, sie muss jedoch nicht zu den Kennzahlen gehören, die Sie zum Definieren Ihrer benutzerdefinierten Kennzahl verwenden.
 
-1. Rufen Sie die Felder ab, die Sie für Ihren Bericht benötigen. Weitere Informationen finden Sie unter [Hinzufügen von Feldern zu einem Umsatz-Explorer-Bericht](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md) .
+1. Überziehen Sie die Felder, die Sie für Ihren Bericht benötigen. Weitere [ finden Sie unter „Hinzufügen von Feldern zu einem ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)&quot;.
 
-1. Klicken Sie mit der rechten Maustaste auf eine vorhandene Metrik (blaue Zelle), klicken Sie auf **Benutzerdefinierte Messung** und wählen Sie **Berechnete Messung** aus.
+1. Klicken Sie mit der rechten Maustaste auf eine vorhandene Metrik (blaue Zelle), klicken Sie auf **Benutzerdefinierte Kennzahl** und wählen Sie **Berechnete Kennzahl**.
 
    ![](assets/image2016-1-26-11-3a7-3a49.png)
 
-1. Benennen Sie die benutzerdefinierte Kennzahl und wählen Sie ein Format aus.
+1. Benennen Sie Ihre benutzerdefinierte Kennzahl und wählen Sie ein Format aus.
 
    ![](assets/image2016-1-26-11-3a26-3a23.png)
 
-1. Klicken Sie links auf jedes benötigte Element und klicken Sie auf den Pfeil, um es zu verschieben. Fügen Sie nach Bedarf mathematische Symbole hinzu.
+1. Klicken Sie auf der linken Seite auf die einzelnen Elemente, die Sie benötigen, und klicken Sie auf den Pfeil, um sie zu verschieben. Fügen Sie bei Bedarf mathematische Symbole hinzu.
 
    ![](assets/image2016-1-26-11-3a16-3a55.png)
 
@@ -43,7 +43,7 @@ Im folgenden Beispiel erstellen Sie eine berechnete Kennzahl für Softbounces, d
 
    ![](assets/image2016-1-26-11-3a37-3a27.png)
 
-   Ihre neue benutzerdefinierte Kennzahl erscheint als neue Spalte im Bericht.
+   Die neue benutzerdefinierte Kennzahl wird im Bericht als neue Spalte angezeigt.
 
    ![](assets/image2016-1-26-11-3a29-3a16.png)
 

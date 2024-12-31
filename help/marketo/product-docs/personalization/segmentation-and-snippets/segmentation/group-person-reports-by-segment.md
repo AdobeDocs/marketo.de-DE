@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2359492
-description: Gruppenberichte nach Segment - Marketo-Dokumente - Produktdokumentation
-title: Gruppenberichte nach Segment
+description: Personenberichte nach Segment gruppieren - Marketo-Dokumente - Produktdokumentation
+title: Personenberichte nach Segment gruppieren
 exl-id: 38c77548-3bfd-484e-ba0a-ccedc2ed6205
 feature: Segmentation
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,34 +11,34 @@ ht-degree: 0%
 
 ---
 
-# Gruppenberichte nach Segment {#group-person-reports-by-segment}
+# Personenberichte nach Segment gruppieren {#group-person-reports-by-segment}
 
-Sie können Ihre Personenberichte nach jedem Segment gruppieren, das Sie in Ihren Segmenten definiert haben.
+Sie können Ihre Personenberichte nach beliebigen Segmenten gruppieren, die Sie in Ihren Segmentierungen definiert haben.
 
-1. Wechseln Sie zum Abschnitt **Marketingaktivitäten** (oder **Analytics**).
+1. Wechseln Sie **Abschnitt** Marketing-Aktivitäten“ (oder **Analytics**).
 
    ![](assets/image2017-3-28-8-3a43-3a9.png)
 
-1. Wählen Sie in der Navigationsstruktur den Personenbericht aus.
+1. Wählen Sie Ihren Personenbericht aus dem Navigationsbaum aus.
 
    ![](assets/image2017-3-28-9-3a25-3a0.png)
 
-1. Klicken Sie auf die Registerkarte **Einrichtung** und doppelklicken Sie auf **Personen gruppieren nach**.
+1. Klicken Sie auf **Setup** und doppelklicken Sie auf **Personen gruppieren nach**.
 
    ![](assets/image2017-3-28-9-3a25-3a22.png)
 
    >[!NOTE]
    >
-   >Sie können auch [Ihre Personenberichte nach Person oder Unternehmensattribut gruppieren](/help/marketo/product-docs/reporting/basic-reporting/report-activity/group-person-reports-by-attribute.md).
+   >Sie können auch [Personenberichte nach Personen- oder Firmenattribut gruppieren](/help/marketo/product-docs/reporting/basic-reporting/report-activity/group-person-reports-by-attribute.md).
 
-1. Geben Sie im Dialogfeld **Personen nach** gruppieren im Textfeld &quot;Segmentierung&quot;ein. Wenn die Überschrift **Segmentierungen** angezeigt wird, wählen Sie eine aus der Liste unter der Überschrift aus.
+1. Beginnen Sie **Dialogfeld „Personen gruppieren nach** mit der Eingabe von „Segmentierung“ in das Textfeld. Wenn die Überschrift **Segmentierungen** angezeigt wird, wählen Sie eine aus der Liste unter der Überschrift aus.
 
    ![](assets/image2017-3-28-9-3a25-3a55.png)
 
-1. Klicken Sie auf die Registerkarte **Bericht** , um den Bericht nach dem ausgewählten Segment gruppiert anzuzeigen.
+1. Klicken Sie auf **Bericht**, um den Bericht gruppiert nach dem ausgewählten Segment anzuzeigen.
 
    ![](assets/image2017-3-28-9-3a26-3a13.png)
 
 >[!MORELIKETHIS]
 >
->[Benutzerdefinierte Spalten zu einem Personenbericht hinzufügen](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report.md)
+>[Hinzufügen benutzerdefinierter Spalten zu einem Personenbericht](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report.md)

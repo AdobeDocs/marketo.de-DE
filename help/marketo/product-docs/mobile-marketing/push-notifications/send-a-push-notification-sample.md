@@ -1,7 +1,7 @@
 ---
 unique-page-id: 8783141
-description: Beispiel für Push-Benachrichtigungen senden - Marketo Docs - Produktdokumentation
-title: Beispiel für Push-Benachrichtigung senden
+description: Beispiel für das Senden einer Push-Benachrichtigung - Marketo-Dokumente - Produktdokumentation
+title: Beispiel für das Senden einer Push-Benachrichtigung
 exl-id: 1d2d9f6e-32c5-41f5-8744-33373c3b42e0
 feature: Mobile Marketing
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# Beispiel für Push-Benachrichtigung senden {#send-a-push-notification-sample}
+# Beispiel für das Senden einer Push-Benachrichtigung {#send-a-push-notification-sample}
 
 Sie können ein Beispiel senden, um zu überprüfen, ob Ihre Push-Benachrichtigung ordnungsgemäß funktioniert!
 
@@ -21,15 +21,15 @@ Sie können ein Beispiel senden, um zu überprüfen, ob Ihre Push-Benachrichtigu
 
 1. Sie können ein Beispiel auf drei Arten senden:
 
-   Klicken Sie im Baum auf der linken Seite mit der rechten Maustaste auf das Asset für Push-Benachrichtigungen und klicken Sie auf **Beispiel senden**.
+   Klicken Sie in der Baumstruktur links mit der rechten Maustaste auf das Push-Benachrichtigungs-Asset und dann auf **Beispiel senden**.
 
    ![](assets/image2015-7-13-11-3a26-3a15.png)
 
-   Oder klicken Sie im Menü &quot;Aktionen für Push-Benachrichtigungen&quot;auf **Beispiel senden**.
+   Oder klicken Sie im Menü Push-Benachrichtigungsaktionen auf **Beispiel senden**.
 
    ![](assets/image2015-7-13-11-3a28-3a37.png)
 
-   Oder klicken Sie im Push-Benachrichtigungs-Editor auf **Beispiel senden**.
+   Oder klicken Sie im Editor für Push-Benachrichtigungen auf **Beispiel senden**.
 
    ![](assets/image2015-7-20-13-3a29-3a3.png)
 
@@ -37,25 +37,25 @@ Sie können ein Beispiel senden, um zu überprüfen, ob Ihre Push-Benachrichtigu
 
    ![](assets/image2015-7-29-8-3a25-3a17.png)
 
-   Oder klicken Sie auf **Gerät hinzufügen** zu [fügen Sie ein neues Testgerät hinzu](/help/marketo/product-docs/mobile-marketing/push-notifications/adding-a-new-test-device.md), an das das Beispiel gesendet werden soll.
+   Oder klicken Sie auf **Gerät hinzufügen**, um [ein neues Testgerät hinzuzufügen](/help/marketo/product-docs/mobile-marketing/push-notifications/adding-a-new-test-device.md) um die Stichprobe an zu senden.
 
    ![](assets/image2015-7-13-11-3a34-3a21.png)
 
 1. Sie haben zwei Möglichkeiten, Ihr Gerät mit der App zu verbinden.
 
-   Klicken Sie bei der ersten Option auf die Schaltfläche **URL mit Gerät besuchen** , kopieren Sie die URL aus dem Feld und senden Sie sie in einer E-Mail oder Textnachricht an Ihr Gerät. Tippen Sie auf dem Gerät auf die URL. Wenn der Status die Verbindung anzeigt, klicken Sie auf **Senden**.
+   Klicken Sie bei der ersten Option auf die Schaltfläche **URL mit Gerät**, kopieren Sie die URL aus dem Feld und senden Sie sie in einer E-Mail oder Textnachricht an Ihr Gerät. Tippen Sie auf dem Gerät auf die URL. Wenn der Status die Verbindung anzeigt, klicken Sie auf **Senden**.
 
    ![](assets/image2015-7-29-8-3a29-3a18.png)
 
-   Oder klicken Sie mit der zweiten Option auf die Schaltfläche **QR-Code mit Gerät scannen** und scannen Sie den QR-Code mit Ihrem Gerät. Wenn der Status die Verbindung anzeigt, klicken Sie auf **Senden**.
+   Oder klicken Sie mit der zweiten Option auf die Schaltfläche **QR-Code mit Gerät** und scannen Sie den QR-Code mit Ihrem Gerät. Wenn der Status die Verbindung anzeigt, klicken Sie auf **Senden**.
 
    ![](assets/image2015-7-29-8-3a31-3a20.png)
 
    >[!TIP]
    >
-   >Haben Sie erfolgreich ein Testgerät hinzugefügt, sehen es jedoch nicht im Feld **Senden an** aufgeführt? Überprüfen Sie diese zur Fehlerbehebung:
+   >Sie haben ein Testgerät erfolgreich hinzugefügt, es wird jedoch nicht im Feld **Senden an** angezeigt? Überprüfen Sie diese zur Fehlerbehebung:
    >
-   >* Push-Benachrichtigungen werden für die App aktiviert, die mit der Push-Benachrichtigung verknüpft ist.
+   >* Push-Benachrichtigungen sind für die App aktiviert, die mit der Push-Benachrichtigung verknüpft ist.
    >
    >* Die Push-Benachrichtigung ist für die Plattform Ihres Testgeräts konfiguriert. Wenn Sie beispielsweise gerade eine iPhone als Testgerät hinzugefügt haben, stellen Sie sicher, dass die Push-Benachrichtigung für iOS aktiviert ist.
 

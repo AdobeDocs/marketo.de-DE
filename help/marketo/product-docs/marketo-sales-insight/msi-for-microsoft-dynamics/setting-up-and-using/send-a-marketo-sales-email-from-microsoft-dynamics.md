@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2953338
-description: Senden einer Marketo Sales-E-Mail von Microsoft Dynamics - Marketo Docs - Produktdokumentation
-title: Senden einer Marketo Sales-E-Mail aus Microsoft Dynamics
+description: Senden einer Marketo-Verkaufs-E-Mail von Microsoft Dynamics - Marketo-Dokumente - Produktdokumentation
+title: Senden einer Marketo-Verkaufs-E-Mail von Microsoft Dynamics
 exl-id: 9ee53a3e-8bbe-458a-9905-a1e1503f9553
 feature: Marketo Sales Insights
 source-git-commit: 22385fc545378f8835c36564b1029bedbdbb3848
@@ -11,43 +11,43 @@ ht-degree: 0%
 
 ---
 
-# Senden einer Marketo Sales-E-Mail aus Microsoft Dynamics {#send-a-marketo-sales-email-from-microsoft-dynamics}
+# Senden einer Marketo-Verkaufs-E-Mail von Microsoft Dynamics {#send-a-marketo-sales-email-from-microsoft-dynamics}
 
-Ihr Verkaufsteam kann E-Mails senden und sie auf Öffnungen und Klicks direkt in Microsoft Dynamics verfolgen lassen. So geht es.
+Ihr Vertriebsteam kann E-Mails senden und diese direkt von Microsoft Dynamics aus auf Öffnungen und Klicks tracken lassen. So geht&#39;s.
 
-1. Wechseln Sie in Dynamics zum Bereich **Verkauf** .
+1. Wechseln Sie in Dynamics zum Bereich **Vertrieb**.
 
    ![](assets/image2014-10-20-11-3a56-3a9.png)
 
-1. Wählen Sie eine **Systemansicht** aus.
+1. Wählen Sie eine **Systemansicht**.
 
    ![](assets/image2014-10-20-11-3a56-3a20.png)
 
-1. Wählen Sie einen oder mehrere Leads aus.
+1. Einen oder mehrere Leads auswählen.
 
    ![](assets/image2014-10-20-11-3a56-3a35.png)
 
-1. Klicken Sie auf die Registerkarte **...** und dann auf **Marketo-E-Mail senden**.
+1. Klicken Sie auf die Registerkarte **…** und dann auf **Marketo-E-Mail senden**.
 
    ![](assets/image2014-10-20-11-3a56-3a57.png)
 
    >[!TIP]
    >
-   >Sie können [E-Mails als Vorlagen veröffentlichen](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) , damit Ihr Verkaufsteam sie verwenden kann.
+   >Sie können [E-Mails als Vorlagen veröffentlichen](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) damit Ihr Vertriebsteam sie verwenden kann.
 
-1. Fügen Sie einen Betreff hinzu, erstellen Sie Ihre E-Mail und klicken Sie auf **E-Mail senden**. (Wählen Sie eine Vorlage aus, wenn Sie eine benötigen.)
+1. Fügen Sie einen Betreff hinzu, erstellen Sie Ihre E-Mail und klicken Sie auf **E-Mail senden**. (Wählen Sie eine Vorlage aus, falls Sie eine benötigen.)
 
    ![](assets/image2014-10-20-11-3a57-3a8.png)
 
    >[!TIP]
    >
-   >Sie können zuerst auf **Test-E-Mail senden** klicken, und die E-Mail wird Ihnen gesendet (primäre E-Mail-Adresse in Microsoft Dynamics), bevor die eigentliche E-Mail gesendet wird.
+   >Sie können zuerst auf **Test-E-Mail**. Die E-Mail wird an Sie gesendet (primäre E-Mail-Adresse in Microsoft Dynamics), bevor Sie die eigentliche E-Mail versenden.
 
    >[!NOTE]
    >
-   >Sie können bis zu 2000 Marketo-E-Mails gleichzeitig versenden.
+   >Sie können bis zu 2.000 Marketo-E-Mails gleichzeitig senden.
 
-Schön gemacht! Jetzt wissen Sie, wie Sie getrackte E-Mails von Marketo direkt aus Microsoft Dynamics senden können.
+Gut gemacht! Jetzt wissen Sie, wie Sie getrackte E-Mails von Marketo direkt aus Microsoft Dynamics senden.
 
 >[!MORELIKETHIS]
 >

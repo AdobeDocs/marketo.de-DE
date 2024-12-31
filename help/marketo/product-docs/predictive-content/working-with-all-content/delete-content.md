@@ -13,14 +13,14 @@ ht-degree: 8%
 
 # Inhalte löschen {#delete-content}
 
-Wenn Sie kein Stück Inhalt mehr brauchen, ist es einfach, es loszuwerden.
+Wenn Sie ein Stück Inhalt nicht mehr benötigen, ist es einfach, es loszuwerden.
 
-1. Markieren Sie das Kästchen neben dem Inhaltselement, das Sie entfernen möchten.
+1. Aktivieren Sie das Kontrollkästchen neben dem Inhaltselement, das Sie entfernen möchten.
 
    ![](assets/image2017-10-3-9-3a8-3a39.png)
 
-1. Klicken Sie auf die Dropdownliste **Inhaltsaktionen** und wählen Sie **Inhalt löschen** aus.
+1. Klicken Sie auf die **Inhaltsaktionen** und wählen Sie **Inhalt löschen** aus.
 
    ![](assets/image2017-10-3-9-3a9-3a12.png)
 
-   Das ist es.
+   Das war&#39;s.

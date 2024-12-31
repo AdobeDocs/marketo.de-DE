@@ -1,35 +1,35 @@
 ---
 unique-page-id: 1146999
 description: Trigger-Token für interessante Momente - Marketo-Dokumente - Produktdokumentation
-title: Trigger-Token für interessante Momente
+title: Trigger-Token für Interessante Momente
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
 feature: Marketo Sales Insights
 source-git-commit: a9aa55184a7971d3c82d106481f1f83593a7dd99
 workflow-type: tm+mt
 source-wordcount: '546'
-ht-degree: 33%
+ht-degree: 67%
 
 ---
 
-# Trigger-Token für interessante Momente {#trigger-tokens-for-interesting-moments}
+# Trigger-Token für Interessante Momente {#trigger-tokens-for-interesting-moments}
 
 >[!PREREQUISITES]
 >
->Erfahren Sie, wie Sie den Schritt [Interessanter Ablauf des Moments](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) verwenden.
+>Erfahren Sie, wie Sie den Schritt &quot;[ Momentfluss“ ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
 
 ## Verfügbare Token {#available-tokens}
 
-Sehen Sie sich die [Token-Übersicht](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) an, um alle Token zu sehen, die Sie in einen interessanten Moment stecken können.
+Sehen Sie sich [Token-Übersicht](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) an, um alle Token zu sehen, die Sie in einen interessanten Moment setzen können.
 
 ## Trigger-Token {#trigger-tokens}
 
-Basierend auf dem in einer Smart-Kampagne verwendeten Trigger werden zusätzliche Trigger-Token bereitgestellt.
+Je nach in einer Smart-Kampagne verwendetem Trigger werden zusätzliche Trigger-Token bereitgestellt.
 
-* `{{trigger.Trigger Name}}` ist immer der eigentliche Trigger selbst. Beispiel: Klicks auf Link in E-Mail.
-* `{{trigger.Name}}` ist der Name des Assets, das die Kampagne ausgelöst hat. Beispiel: Klicks Link auf der Webseite ist die URL selbst, Betreff für Salesforce-Trigger usw.
-* Zusätzliche Trigger sind basierend auf Einschränkungen verfügbar, die unten aufgeführt sind.
+* `{{trigger.Trigger Name}}` ist immer der eigentliche Trigger. Beispiel: Klicks auf Link in E-Mail.
+* `{{trigger.Name}}` ist der Name des Assets, das die Kampagne ausgelöst hat. Beispiel: Klicks auf Link auf einer Web-Seite ist die URL selbst, Betreff für Salesforce-Trigger usw.
+* Weitere Trigger sind aufgrund von Einschränkungen verfügbar, die unten aufgeführt sind.
 
-### Email Trigger {#email-triggers}
+### E-Mail-Trigger {#email-triggers}
 
 <table style="table-layout:auto">
  <colgroup> 
@@ -84,7 +84,7 @@ Basierend auf dem in einer Smart-Kampagne verwendeten Trigger werden zusätzlich
    <td><br></td>
   </tr> 
   <tr> 
-   <td>Hard-E-Mail-Bounces</td> 
+   <td>E-Mail-Hardbounces</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -118,7 +118,7 @@ Basierend auf dem in einer Smart-Kampagne verwendeten Trigger werden zusätzlich
    <td><br></td>
   </tr> 
   <tr> 
-   <td>E-Mail wird bereitgestellt</td> 
+   <td>E-Mail wird zugestellt</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -205,7 +205,7 @@ Basierend auf dem in einer Smart-Kampagne verwendeten Trigger werden zusätzlich
  </tbody> 
 </table>
 
-### Salesforce-Trigger {#salesforce-triggers}
+### Salesforce Trigger {#salesforce-triggers}
 
 <table style="table-layout:auto"> 
  <colgroup> 
@@ -962,7 +962,7 @@ Basierend auf dem in einer Smart-Kampagne verwendeten Trigger werden zusätzlich
 </tbody>
 </table>
 
-### Verschiedenes {#miscellaneous}
+### Sonstiges {#miscellaneous}
 
 <table style="table-layout:auto"> 
  <colgroup> 
@@ -1055,9 +1055,9 @@ Basierend auf dem in einer Smart-Kampagne verwendeten Trigger werden zusätzlich
 
 >[!NOTE]
 >
->Wenn kein Häkchen ![(Häkchen)](assets/check.png) vorhanden ist, wird im interessanten Moment eine leere Zeichenfolge (nichts) zurückgegeben.
+>Wenn er kein Häkchen ![Häkchen) hat](assets/check.png) wird im interessanten Moment eine leere Zeichenfolge (nichts) zurückgegeben.
 
-&#42;Der Trigger **Besuche der Webseite** verfügt über einige zusätzliche Token:
+&#42;Der Trigger **Besuche Web-**) verfügt über einige zusätzliche Token:
 
 * `{{trigger.Referrer}}`
 * `{{trigger.Search Engine}}`
@@ -1065,6 +1065,6 @@ Basierend auf dem in einer Smart-Kampagne verwendeten Trigger werden zusätzlich
 
 >[!TIP]
 >
->Testen Sie immer Ihre interessanten Momente, um sicherzustellen, dass sie wie gewünscht rendern.
+>Testen Sie immer Ihre interessanten Momente, um sicherzustellen, dass sie das wiedergeben, was Sie beabsichtigen.
 >
 >Stellen Sie außerdem sicher, dass es für den Vertriebsmitarbeiter interessant ist, nicht nur für Sie!

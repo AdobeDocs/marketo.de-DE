@@ -13,9 +13,9 @@ ht-degree: 2%
 
 # Inhaltsmutter erstellen {#create-content-patterns}
 
-Wenn Sie Inhaltsmuster festlegen, werden Inhalte automatisch erkannt, wenn ein Webbesucher auf die für das Inhaltsmuster relevante HTML-Web-Seite klickt. Sie wird verwendet, um HTML-Seiten (Blog-Beiträge, Pressemitteilungen, News-Artikel) als Inhaltselemente zur Seite &quot;Alle Inhalte&quot;hinzuzufügen. Wenn die automatische Erkennung auf Inhaltsmustern basiert, erkennt und verfolgt sie HTML-Seiten, die mit dem definierten URL-Muster in Zusammenhang stehen, wenn ein Webbesucher einen Link zur Seite anzeigt oder darauf klickt. Dieses Inhaltselement (URL, Seitenname und Metadaten, einschließlich Bild-URL und Beschreibung) wird der Seite &quot;Alle Inhalte&quot;hinzugefügt, um prädiktive Inhalte vorzubereiten. Für die automatische Erkennung anderer Inhalte wie PDF und eingebettetes Video müssen Sie [die Inhaltserkennung aktivieren](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md).
+Wenn Sie Inhaltsmuster festlegen, wird der Inhalt automatisch erkannt, wenn ein Web-Besucher auf die für das Inhaltsmuster relevante HTML-Webseite klickt. Es wird verwendet, um HTML-Seiten (Blog-Beiträge, Pressemitteilungen, Nachrichtenartikel) als Inhaltselemente zur Seite „Alle Inhalte“ hinzuzufügen. Wenn die automatische Erkennung auf Inhaltsmustern basiert, erkennt und verfolgt sie HTML-Seiten, die mit dem definierten URL-Muster zusammenhängen, wenn ein Web-Besucher eine Seite anzeigt oder auf einen Link zu ihr klickt. Dieser Teil des Inhalts (URL, Seitenname und Metadaten, einschließlich Bild-URL und Beschreibung) wird der Seite „Alle Inhalte“ hinzugefügt, um prädiktive Inhalte vorzubereiten. Für die automatische Erkennung anderer Inhalte, z. B. PDFs und eingebettete Videos, müssen Sie [Inhaltssuche aktivieren](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md).
 
-1. Navigieren Sie zu **Inhaltseinstellungen**.
+1. Navigieren Sie **Inhaltseinstellungen**.
 
    ![](assets/settings-dropdown-hand-2.png)
 
@@ -23,34 +23,34 @@ Wenn Sie Inhaltsmuster festlegen, werden Inhalte automatisch erkannt, wenn ein W
 
    ![](assets/click-url-patterns-hand.png)
 
-1. Klicken Sie auf **+** , um eine Zeile zu öffnen, in der Sie Ihre Informationen eingeben können.
+1. Klicken Sie auf das **+**, um eine Zeile zu öffnen, in der Sie Ihre Informationen eingeben können.
 
    ![](assets/content-settings-create-patterns-hand.png)
 
-1. Fügen Sie die URL-Erweiterung der Domäne hinzu, in der die Webseite vorhanden ist. Wählen Sie die Kategorie aus (z. B. Blog, Artikel, Datenblatt, Pressemitteilung).
+1. Fügen Sie die URL-Erweiterung der Domain hinzu, in der sich die Webseite befindet. Kategorie auswählen (z. B. Blog, Artikel, Datenblatt, Pressemitteilung).
 
    ![](assets/content-settings-create-content-patterns-dm-hands.png)
 
    >[!NOTE]
    >
-   >Elemente in der Dropdown-Liste auf der rechten Seite spiegeln die Kategorien wider, die Sie bei der [Erstellung der Kategorien](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md) eingerichtet haben.
+   >Die Elemente in der Dropdown-Liste auf der rechten Seite spiegeln die Kategorien wider, die Sie beim Erstellen [ Kategorien festgelegt ](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md).
 
-1. Klicken Sie auf **+** , um einen weiteren Pfad hinzuzufügen.
+1. Klicken Sie auf **+**, um einen weiteren Pfad hinzuzufügen.
 
    ![](assets/url-patterns-add2.png)
 
-1. Fügen Sie die Erweiterung und Kategorie für den zusätzlichen Pfad hinzu und klicken Sie auf **Speichern**.
+1. Fügen Sie die Erweiterung und die Kategorie für den zusätzlichen Pfad hinzu und klicken Sie auf **Speichern**.
 
    ![](assets/url-patterns-save.png)
 
-## Inhaltsmuster-Regeln {#content-pattern-rules}
+## Regeln für Inhaltsmuster {#content-pattern-rules}
 
 * Sie können einen Platzhalter überall in einem Ausdruck verwenden (Beispiel: _domain.com/&#42;_, _domain.com/&#42;blog&#42;_)
 
-* Es wird empfohlen, /&#42; am Ende eines Ausdrucks zu verwenden, um die Mustererkennung fortzusetzen (Beispiel: _domain.com/blog/&#42;_ findet alle Beiträge im Blog-Ordner).
+* Es wird empfohlen, /&#42; am Ende eines Ausdrucks zu verwenden, um die Mustererkennung fortzusetzen (Beispiel: _domain.com/blog/&#42;_ erkennt alle Beiträge im Blog-Ordner)
 * Bei Inhaltsmustern wird nicht zwischen Groß- und Kleinschreibung unterschieden (Beispiel: _domain.com/Blog/&#42;_ erkennt alle HTML-Seiten auf _domain.com/Blog_ und _domain.com/blog_)
 
-* URL-Parameter werden nicht erkannt (dies verhindert, dass mehrere Elemente mit derselben Inhalts-URL, aber verschiedenen Parametern gefunden werden)
+* URL-Parameter werden nicht erkannt (dadurch werden mehrere Elemente mit derselben Inhalts-URL, aber unterschiedlichen Parametern vermieden)
 
 ## Beispiele {#examples}
 
@@ -63,20 +63,20 @@ Für _domain.com_:
    <th>Ergebnis</th> 
   </tr> 
   <tr> 
-   <td>blog/*</td> 
+   <td>Blog/*</td> 
    <td><p>Ermittelt alle Inhalte, die dem Muster domain.com/blog/ entsprechen:</p><p>domain.com/blog/5-top-tricks</p><p>domain.com/blog/2017/new-year-solutions</p><p>domain.com/Blog/3-best-recipes</p></td> 
   </tr> 
   <tr> 
-   <td>Artikel 217/2017*</td> 
+   <td>Artikel/2017/*</td> 
    <td><p>Ermittelt alle Inhalte, die dem Muster domain.com/article/2017/ entsprechen:</p><p>domain.com/article/2017/5-top-tricks</p></td> 
   </tr> 
   <tr> 
    <td><img alt="—" width="80" src="assets/image2017-3-24-10-3a38-3a46.png" data-linked-resource-id="12976559" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11385579" title="--"></td> 
-   <td><p>Ermittelt alle URLs, die das Wort "datasheets:"enthalten.</p><p>domain.com/datasheets/5-top-tricks</p><p>domain.com/blog/5-top-datasheets</p></td> 
+   <td><p>Ermittelt alle URLs, die das Wort „Datenblätter“ enthalten:</p><p>domain.com/datasheets/5-top-tricks</p><p>domain.com/blog/5-top-datasheets</p></td> 
   </tr> 
   <tr> 
    <td>Pressemitteilung</td> 
-   <td><p>Es wird nur eine exakte HTML-Seite mit einer Übereinstimmung gefunden:</p><p>domain.com/press-release</p></td> 
+   <td><p>Es wird nur eine exakte HTML-Übereinstimmungsseite erkannt:</p><p>domain.com/press-release</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"> </td> 

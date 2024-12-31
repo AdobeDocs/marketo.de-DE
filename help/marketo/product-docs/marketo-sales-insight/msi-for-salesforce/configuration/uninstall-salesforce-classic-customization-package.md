@@ -1,5 +1,5 @@
 ---
-description: Deinstallieren des Salesforce-Anpassungspakets - Marketo Docs - Produktdokumentation
+description: Salesforce-Anpassungspaket deinstallieren - Marketo-Dokumente - Produktdokumentation
 title: Salesforce-Anpassungspaket deinstallieren
 hide: true
 hidefromtoc: true
@@ -12,4 +12,4 @@ ht-degree: 0%
 
 # Salesforce-Anpassungspaket deinstallieren {#uninstall-salesforce-classic-customization-package}
 
-Bald.
+Bald verfügbar.

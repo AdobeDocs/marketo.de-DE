@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2360188
-description: Campaign-Bericht zur E-Mail-Leistung - Marketo-Dokumente - Produktdokumentation
-title: Bericht zur E-Mail-Leistung von Campaign
+description: E-Mail-Leistungsbericht für Campaign - Marketo-Dokumente - Produktdokumentation
+title: Bericht zur E-Mail-Leistung in Campaign
 exl-id: 524222c6-7cf6-4e6d-a1a5-20a771cd9da5
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,15 +11,15 @@ ht-degree: 4%
 
 ---
 
-# Bericht zur E-Mail-Leistung von Campaign {#campaign-email-performance-report}
+# Bericht zur E-Mail-Leistung in Campaign {#campaign-email-performance-report}
 
-Um Ihre E-Mail-Leistungsstatistiken nach [Smart-Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md) zu gruppieren, führen Sie einen Bericht zur E-Mail-Leistung von Campaign aus.
+Führen Sie einen E-Mail-Leistungsbericht für Campaign aus, um Ihre E[Mail-Leistungsstatistiken nach ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md)Smart Campaign“ gruppiert anzuzeigen.
 
-1. [Erstellen Sie einen Bericht](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) und wählen Sie den Berichtstyp **E-Mail-Leistung der Kampagne** [](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md) aus.
+1. [Erstellen Sie einen Bericht](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) und wählen Sie den **Kampagnen-E-Mail-Leistung**[Berichtstyp](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
-1. [Legen Sie den Zeitrahmen für Ihren Bericht fest](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) und klicken Sie auf die Registerkarte **Bericht** .
+1. [Legen Sie den Zeitrahmen Ihres Berichts fest](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) und klicken Sie auf die Registerkarte **Bericht**.
 
-1. Sehen Sie sich nun den Bericht an, um zu sehen, wie die einzelnen E-Mails in Ihren Kampagnen abschneiden.
+1. Erkunden Sie nun den Bericht, um zu sehen, wie die einzelnen E-Mails in Ihren Kampagnen abgeschnitten haben.
 
    ![](assets/image2014-9-16-16-3a19-3a59.png)
 
@@ -27,19 +27,19 @@ Um Ihre E-Mail-Leistungsstatistiken nach [Smart-Kampagne](/help/marketo/product-
    >
    >Klicken Sie auf den Namen einer E-Mail, um sie in der E-Mail-Vorschau zu öffnen.
 
-   [Spalten, die Sie für einen Kampagnen-E-Mail-Leistungsbericht auswählen können, umfassen:](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)
+   [Spalten, die Sie für ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) Kampagnen-E-Mail-Leistungsbericht auswählen können, umfassen:
 
    | Spalte | Beschreibung |
    |---|---|
-   | Hard Bounce-Ereignis aufgetreten | E-Mail wurde wegen einer permanenten Bedingung wie einer nicht vorhandenen E-Mail-Adresse abgelehnt. |
-   | Soft Bounce-Ereignis aufgetreten | E-Mail wurde wegen einer temporären Bedingung wie einem Server ausgeschaltet oder einem vollständigen Posteingang abgelehnt. |
+   | Hard Bounce-Ereignis aufgetreten | E-Mail wurde aufgrund einer permanenten Bedingung, z. B. einer nicht vorhandenen E-Mail-Adresse, abgelehnt. |
+   | Soft Bounce-Ereignis aufgetreten | E-Mail wurde aufgrund einer temporären Bedingung abgelehnt, z. B. weil ein Server ausgefallen ist oder weil der Posteingang voll ist. |
    | Ausstehend | E-Mail wird noch zugestellt. |
-   | Angeklickter Link | Anzahl der E-Mail-Empfänger, die auf einen Link in der E-Mail geklickt haben |
-   | Abbestellt | Anzahl der E-Mail-Empfänger, die auf den Link **Abmeldung** in der E-Mail geklickt und das Formular ausgefüllt haben. |
+   | Angeklickter Link | Die Anzahl der E-Mail-Empfänger, die auf einen Link in der E-Mail geklickt haben. |
+   | Abbestellt | Die Anzahl der E-Mail-Empfänger, die auf den **Abmelden**-Link in der E-Mail geklickt und das Formular ausgefüllt haben. |
 
    >[!NOTE]
    >
-   >Im Allgemeinen versuchen wir, diese Statistiken mit gesundem Menschenverstand aufzuzeichnen. Wenn beispielsweise jemand in einer E-Mail auf einen Link geklickt hat, hat er ihn offensichtlich zuerst geöffnet. Die spezifischen Regeln, die wir befolgen, finden Sie im [E-Mail-Leistungsbericht](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md).
+   >Im Allgemeinen versuchen wir, den gesunden Menschenverstand zu verwenden, um diese Statistiken aufzuzeichnen. Wenn beispielsweise jemand auf einen Link in einer E-Mail geklickt hat, hat er ihn offensichtlich zuerst geöffnet. Die spezifischen Regeln, die wir befolgen, finden Sie im [E-Mail-Leistungsbericht](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md).
 
    >[!MORELIKETHIS]
    >

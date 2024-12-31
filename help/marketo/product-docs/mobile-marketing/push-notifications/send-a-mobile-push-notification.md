@@ -7,20 +7,20 @@ feature: Mobile Marketing
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '98'
-ht-degree: 5%
+ht-degree: 7%
 
 ---
 
 # Mobile Push-Benachrichtigung senden {#send-a-mobile-push-notification}
 
-Senden Sie eine Push-Benachrichtigung an Personen, die Ihre mobile App verwenden.
+Senden Sie eine Push-Benachrichtigung an Personen, die Ihre Mobile App verwenden.
 
 >[!PREREQUISITES]
 >
->* [Erstellen einer neuen Smart-Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
+>* [Erstellen Sie eine neue intelligente Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
 >* [Push-Benachrichtigung erstellen](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
 
-1. Wechseln Sie zum Bereich **Marketingaktivitäten** .
+1. Navigieren Sie zum Bereich **Marketing** Aktivitäten.
 
    ![](assets/image2015-4-22-18-3a31-3a54.png)
 
@@ -28,11 +28,11 @@ Senden Sie eine Push-Benachrichtigung an Personen, die Ihre mobile App verwenden
 
    ![](assets/image2015-4-23-17-3a57-3a46.png)
 
-1. Definieren Sie Ihre Smart-Liste und klicken Sie dann auf **Fluss**.
+1. Definieren Sie Ihre Smart-Liste und klicken Sie auf **Fluss**.
 
    ![](assets/image2015-4-22-18-3a33-3a13.png)
 
-1. Wählen Sie eine Push-Benachrichtigung. Klicken Sie auf **Zeitplan**.
+1. Push-Benachrichtigung auswählen. Klicken Sie auf **Zeitplan**.
 
    ![](assets/image2015-4-22-18-3a33-3a38.png)
 
@@ -44,8 +44,8 @@ Senden Sie eine Push-Benachrichtigung an Personen, die Ihre mobile App verwenden
 
    ![](assets/image2015-4-23-18-3a0-3a54.png)
 
-1. Wählen Sie ein Datum und eine Uhrzeit. Klicken Sie auf **Speichern**.
+1. Datum und Uhrzeit wählen. Klicken Sie auf **Speichern**.
 
    ![](assets/image2015-4-23-18-3a1-3a33.png)
 
-Setzen Sie sich zurück und warten Sie, bis Ihre Push-Benachrichtigung gesendet wird.
+Lehnen Sie sich zurück und warten Sie, bis Ihre Push-Benachrichtigung erlischt.

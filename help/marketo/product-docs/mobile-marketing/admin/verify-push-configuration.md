@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7512445
-description: Push-Konfiguration überprüfen - Marketo-Dokumente - Produktdokumentation
+description: Überprüfen der Push-Konfiguration - Marketo-Dokumente - Produktdokumentation
 title: Push-Konfiguration überprüfen
 exl-id: 5a391087-9d4a-4b06-bc0d-25cd8237e4df
 feature: Mobile Marketing
@@ -15,9 +15,9 @@ ht-degree: 7%
 
 >[!PREREQUISITES]
 >
->Ihr Mobile-Entwickler muss den SDK-Code von Marketo zu Ihrer Mobile App hinzugefügt haben.
+>Ihr Mobilentwickler muss den SDK-Code von Marketo zu Ihrer Mobile App hinzugefügt haben.
 
-Überprüfen Sie die Push-Konfiguration, um sicherzustellen, dass alles gut synchronisiert wird.
+Überprüfen Sie die Push-Konfiguration, um sicherzustellen, dass alles gut synchronisiert ist.
 
 1. Klicken Sie auf **Admin**.
 
@@ -31,15 +31,15 @@ ht-degree: 7%
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-1. Klicken Sie auf **Mobile-App-Aktionen** und wählen Sie **Push-Konfiguration überprüfen** aus.
+1. Klicken Sie auf **Mobile App-Aktionen** und wählen Sie **Push-Konfiguration überprüfen**.
 
    ![](assets/image2015-4-22-17-3a25-3a8.png)
 
-1. Bestätigen Sie die gelesenen Plattformen und klicken Sie auf **Schließen**.
+1. Bestätigen Sie, dass die gewünschten Plattformen überprüft gelesen wurden, und klicken Sie auf **Schließen**.
 
    ![](assets/image2015-4-22-18-3a52-3a38.png)
 
-Alles fertig! Jetzt können Sie mit dem Versand von Push-Benachrichtigungen beginnen.
+Alles bereit! Jetzt können Sie mit dem Senden von Push-Benachrichtigungen beginnen.
 
 >[!MORELIKETHIS]
 >

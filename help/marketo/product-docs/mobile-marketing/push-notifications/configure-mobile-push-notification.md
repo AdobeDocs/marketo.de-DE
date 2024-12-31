@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Mobile Push-Benachrichtigung konfigurieren {#configure-mobile-push-notification}
 
-1. Wechseln Sie zum Bereich **Marketingaktivitäten** .
+1. Navigieren Sie zum Bereich **Marketing** Aktivitäten.
 
 ![](assets/2fbf1ab6-2247-40c8-980d-be56b9d94890.png)
 
@@ -25,11 +25,11 @@ ht-degree: 0%
 
    ![](assets/image2016-8-23-16-3a51-3a56.png)
 
-1. Wählen Sie die gewünschte App aus. Android- und Apple-Plattformen sind standardmäßig aktiviert.
+1. Wählen Sie Ihre gewünschte App aus. Android- und Apple-Plattformen sind standardmäßig aktiviert.
 
    ![](assets/image2016-8-23-16-3a53-3a33.png)
 
-1. Wenn Ihre Push-Nachricht nur für eine Plattform gilt (z. B. für iPhones), können Sie die andere Plattform ausschließen, indem Sie deren Auswahl auf Deaktiviert verschieben.
+1. Wenn Ihre Push-Benachrichtigung nur für eine Plattform gilt (z. B. für iPhones), können Sie die andere Plattform ausschließen, indem Sie deren Selektor auf Deaktiviert verschieben.
 
    ![](assets/image2016-8-23-16-3a41-3a48.png)
 
@@ -37,49 +37,49 @@ ht-degree: 0%
 
    ![](assets/image2016-8-23-16-3a43-3a28.png)
 
-1. Geben Sie den Nachrichtentext ein oder wählen Sie das Tokensymbol aus, um Token hinzuzufügen. Wählen Sie dann eine **Tippen-Aktion** aus.
+1. Geben Sie den Nachrichtentext ein oder wählen Sie das Token-Symbol aus, um Token hinzuzufügen. Wählen Sie dann eine **Tipp-Aktion** aus.
 
    ![](assets/image2015-9-14-16-3a7-3a43.png)
 
    >[!NOTE]
    >
-   >Wenn eine Plattform aktiviert ist, wird sie auf der linken Seite des Telefonbildschirms angezeigt. Er wird bei seiner Auswahl farbig angezeigt.
+   >Wenn eine Plattform aktiviert ist, wird sie auf der linken Seite des Telefonbildschirms angezeigt. Es wird farbig angezeigt, wenn es ausgewählt ist.
 
    >[!NOTE]
    >
-   >Es gibt drei Arten von Tippen-Aktionen:
+   >Es gibt drei Arten von Tipp-Aktionen:
    >
-   >**App starten** - **Diese App** öffnet die Startseite Ihrer App, wenn auf die Benachrichtigung getippt wird. **Benutzerspezifisch** verwendet einen Deep-Link, um andere Bereiche Ihrer App oder anderer Apps zu öffnen, mit denen Sie den Link verknüpft haben (weitere Informationen finden Sie unter [Deep-Link-URIs](#Deeplink) unten).
+   >**Launch App** - **Diese App** öffnet die Startseite Ihrer App, wenn auf die Benachrichtigung getippt wird. **Benutzerdefiniert** verwendet einen Deep-Link, um andere Bereiche Ihrer App oder einer anderen App zu öffnen, zu der Sie den Link haben (weitere Informationen finden [ unter Deep-Link-](#Deeplink)).
    >
-   >**Landingpage** - Sie gelangen zu einer bestimmten Marketo-Landingpage.
+   >**Landingpage** - Bringt Sie zu einer bestimmten Marketo-Landingpage.
    >
-   >**Externe URL**: Sie gelangen zu einer Landingpage, die nicht von Marketo stammt.
+   >**Externe URL** - Bringt Sie zu einer Landingpage, die nicht zu Marketo gehört.
 
-1. Um einen Deep-Link für eine benutzerdefinierte Tipp-Aktion einzufügen, klicken Sie auf Benutzerdefiniert und geben Sie den [Deep-Link-URI](#Deeplink) in das Feld ein.
+1. Um einen Deep-Link für eine benutzerdefinierte Tipp-Aktion einzufügen, klicken Sie auf Benutzerdefiniert und geben [Deep-Link-URI](#Deeplink) in das Feld ein.
 
    ![](assets/image2016-7-28-16-3a19-3a13.png)
 
-1. Um Token einzufügen, wählen Sie ein Token aus, geben Sie einen Standardwert ein und klicken Sie auf &quot;Einfügen&quot;.
+1. Um Token einzufügen, wählen Sie ein Token aus, geben Sie einen Standardwert ein und klicken Sie auf „Einfügen“.
 
    >[!NOTE]
    >
-   >Token werden dort angezeigt, wo Sie den Cursor in das Textfeld setzen. Sie können mehr als ein Token verwenden.
+   >Token werden an der Stelle angezeigt, an der Sie den Cursor in das Textfeld setzen. Sie können mehr als ein Token verwenden.
 
    ![](assets/image2015-8-10-14-3a48-3a52.png)
 
    >[!NOTE]
    >
-   >Nachrichten und Tippen-Aktionen sehen auf beiden Plattformen gleich aus.
+   >Nachrichten und Tipp-Aktionen sehen auf beiden Plattformen gleich aus.
 
-1. Aktivieren Sie nur für iOS das Kontrollkästchen, damit die App beim Eintreffen der Nachricht einen Ton abspielen kann. Android gibt den Ton automatisch wieder.
+1. Markieren Sie nur für iOS das Kontrollkästchen, um der App mitzuteilen, dass bei Eintreffen der Nachricht ein Ton abgespielt werden soll. Android spielt den Ton automatisch ab.
 
    ![](assets/ios-tap-and-notification-hand.png)
 
-1. Zeigen Sie die Vorschau der anderen Plattform an und klicken Sie auf **Beenden**.
+1. Zeigen Sie eine Vorschau der anderen Plattform an und klicken Sie auf **Beenden**.
 
    ![](assets/image2015-9-14-16-3a12-3a34.png)
 
-1. Klicken Sie auf **Genehmigen und schließen**.
+1. Klicken Sie **Genehmigen und schließen**.
 
    ![](assets/323dda12-0543-4558-8562-563eed5fa0e0.png)
 
@@ -87,13 +87,13 @@ Herzlichen Glückwunsch! Jetzt kann die Push-Benachrichtigung gesendet werden.
 
 ## Deep-Link-URIs {#deep-link-uris}
 
-Wenn Abonnenten auf eine Schaltfläche in einer Push-Nachricht klicken, gelangen sie entweder zur Startseite Ihrer App oder direkt zu einer bestimmten Seite in der App. Ein Deep-Link ist ein eindeutiger Verweis auf eine bestimmte Seite in Ihrer App und ähnelt sehr stark einem Website-Link.
+Wenn Abonnentinnen und Abonnenten in einer Push-Nachricht auf eine Schaltfläche klicken, können sie entweder zur Startseite Ihrer App oder direkt zu einer bestimmten Seite innerhalb der App geleitet werden. Ein Deep-Link ist ein eindeutiger Verweis auf eine bestimmte Seite in Ihrer App und sieht einem Website-Link sehr ähnlich.
 
-Ein Deep-Link-URI besteht aus drei Teilen: Schemaname, Pfad und Kennung. Im folgenden Beispiel ist &quot;myappname&quot;das Schema. &quot;products&quot;ist der Pfad und &quot;lilafarbenes Shirt&quot;ist die Kennung. Wenn der Kunde tippt, werden diese speziell zum lilafarbenen Shirt-Element auf den Produktseiten Ihrer App geleitet.
+Ein Deep-Link-URI besteht aus drei Teilen: Schemaname, Pfad und Kennung. Im folgenden Beispiel ist „myappname“ das Schema. Der Pfad lautet „products“ und die Kennung lautet „purple-shirt“. Wenn der Kunde auf tippt, wird er speziell zum lilafarbenen Hemdenartikel auf den Produktseiten Ihrer App weitergeleitet.
 
 ![](assets/image2016-7-29-12-3a49-3a1.png)
 
-Allerdings unterscheidet sich die Deep-Link-Struktur Ihrer App möglicherweise vom obigen Beispiel. Ihr Entwickler hat viele Möglichkeiten, Deep-Link-URIs zu definieren. Bitten Sie daher Ihren Entwickler, Ihnen die URIs (Links) für die Seiten zu senden, die Sie verwenden möchten. Dadurch wird sichergestellt, dass die in Push-Nachrichten eingegebenen URIs an die richtigen Stellen verweisen. Ihr Entwickler kann [hier weitere Informationen finden](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
+Die Deep-Link-Struktur Ihrer App kann sich jedoch vom obigen Beispiel unterscheiden. Ihr Entwickler hat viele Optionen zum Definieren von Deep-Link-URIs. Bitten Sie Ihren Entwickler daher, Ihnen die URIs (Links) für die Seiten zu senden, die Sie verwenden möchten. Dadurch wird sichergestellt, dass die URIs, die Sie in Push-Nachrichten eingeben, an die richtigen Stellen zeigen. Ihr Entwickler kann [weitere Informationen finden Sie hier](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
 
 >[!MORELIKETHIS]
 >

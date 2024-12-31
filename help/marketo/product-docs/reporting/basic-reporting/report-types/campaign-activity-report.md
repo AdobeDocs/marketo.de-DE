@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2360057
-description: Bericht zur Kampagnenaktivität - Marketo-Dokumente - Produktdokumentation
-title: Bericht zur Kampagnenaktivität
+description: Kampagnenaktivitätsbericht - Marketo-Dokumente - Produktdokumentation
+title: Bericht zu Kampagnenaktivitäten
 exl-id: 13904129-c7e2-4bfa-b545-c85656d4262e
 feature: Reporting
 source-git-commit: 0fded7d82543f221c96ad08f1486728a39f495e7
@@ -11,27 +11,27 @@ ht-degree: 12%
 
 ---
 
-# Bericht zur Kampagnenaktivität {#campaign-activity-report}
+# Bericht zu Kampagnenaktivitäten {#campaign-activity-report}
 
-Erfahren Sie mehr über die Leistung Ihrer [Smart-Kampagnen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md){target="_blank"}.
+Erfahren Sie[ wie Ihre „Smart](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md){target="_blank"}Kampagnen“ funktionieren.
 
-1. [Erstellen Sie einen Bericht](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) und wählen Sie den Berichtstyp **Kampagnenaktivität** [](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"} aus.
+1. [Erstellen Sie einen Bericht](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) und wählen Sie den **Kampagnenaktivität**[Berichtstyp](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}.
 
-1. [Legen Sie den Zeitrahmen für Ihren Bericht fest](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md){target="_blank"} und klicken Sie auf die Registerkarte **Bericht** .
+1. [Legen Sie den Zeitrahmen Ihres Berichts fest](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md){target="_blank"} und klicken Sie auf die Registerkarte **Bericht**.
 
-1. Sehr gut! Untersuchen Sie Ihren Bericht, um die effektivsten Kampagnen nach Kampagnentyp zu identifizieren.
+1. Sehr gut! Durchsuchen Sie Ihren Bericht, um Ihre effektivsten Kampagnen zu identifizieren, gruppiert nach Kampagnentyp.
 
 >[!NOTE]
 >
->Alle [ausführbaren Kampagnen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign.md){target="_blank"} werden in Berichten zur Kampagnenaktivität als &quot;inaktiv ausgelöste Kampagnen&quot;angezeigt.
+>Alle [ausführbaren Kampagnen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign.md){target="_blank"} werden in den Kampagnenaktivitätsberichten als „inaktive ausgelöste Kampagnen“ angezeigt.
 
 ![](assets/campaign-activity-report-1.png)
 
 >[!TIP]
 >
->Um die Kampagnen zu finden, die die meisten Personen verarbeitet haben, z. B. [sortieren Sie Ihren Bericht](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"} nach _Gesamtzahl der verarbeiteten Personen_ und wählen Sie **Absteigende Sortierung** aus.
+>Um die Kampagnen zu finden, die die meisten Personen verarbeitet haben, z. B. [Bericht sortieren](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"} unter _Gesamtzahl der verarbeiteten Personen_ und wählen Sie **Absteigend sortieren**.
 
-**[Spalten, die Sie für einen Bericht zur Kampagnenaktivität auswählen können, umfassen**:](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)
+**[Sie können für ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) Kampagnenaktivitätsbericht Spalten auswählen**:
 
 <table><thead>
   <tr>
@@ -41,7 +41,7 @@ Erfahren Sie mehr über die Leistung Ihrer [Smart-Kampagnen](/help/marketo/produ
 <tbody>
   <tr>
     <td>Stapelausführungsanzahl</td>
-    <td>Gibt an, wie oft die Kampagne ausgeführt wurde.</td>
+    <td>Anzahl der Ausführungen der Kampagne.</td>
   </tr>
   <tr>
     <td>Gesamtanzahl Personen – Verarbeitet</td>
@@ -49,7 +49,7 @@ Erfahren Sie mehr über die Leistung Ihrer [Smart-Kampagnen](/help/marketo/produ
   </tr>
   <tr>
     <td>Personen im Warteschritt</td>
-    <td>Wenn eine Kampagne weiterhin ausgeführt wird, die Anzahl der Personen, die im Schritt Warten verbleiben.</td>
+    <td>Wenn eine Kampagne noch ausgeführt wird, die Anzahl der Personen, die im Warteschritt verbleiben.</td>
   </tr>
   <tr>
     <td>Aus Flow entfernt</td>
@@ -72,7 +72,7 @@ Erfahren Sie mehr über die Leistung Ihrer [Smart-Kampagnen](/help/marketo/produ
 <tbody>
   <tr>
     <td>Batch</td>
-    <td>Batch-Kampagnen auf der Registerkarte Marketingaktivitäten .</td>
+    <td>Batch-Kampagnen auf der Registerkarte Marketing-Aktivitäten .</td>
   </tr>
   <tr>
     <td>Aktion ausführen</td>
@@ -80,15 +80,15 @@ Erfahren Sie mehr über die Leistung Ihrer [Smart-Kampagnen](/help/marketo/produ
   </tr>
   <tr>
     <td>Ausgelöst (aktiv)</td>
-    <td>Aktuell ausgelöste Kampagnen auf der Registerkarte Marketingaktivitäten .</td>
+    <td>Aktuell ausgelöste Kampagnen auf der Registerkarte Marketing-Aktivitäten .</td>
   </tr>
   <tr>
     <td>Ausgelöst (inaktiv)</td>
-    <td>Inaktiv ausgelöste Kampagnen auf der Registerkarte Marketingaktivitäten .</td>
+    <td>Inaktiv ausgelöste Kampagnen auf der Registerkarte Marketing-Aktivitäten .</td>
   </tr>
 </tbody>
 </table>
 
 >[!MORELIKETHIS]
 >
->[Filtern eines Berichts zur Kampagnenaktivität](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report.md){target="_blank"}
+>[Kampagnenaktivitätsbericht filtern](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report.md){target="_blank"}

@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2951877
-description: Grundlegendes zum Bereich "Analyse der Programmangebote"- Marketo-Dokumente - Produktdokumentation
-title: Grundlegendes zum Programm-Opportunity Analysis Area
+description: Grundlegendes zum Bereich „Programm-Opportunity-Analyse“ - Marketo-Dokumente - Produktdokumentation
+title: Grundlegendes zum Bereich „Programm-Opportunity-Analyse“
 exl-id: 6105df93-b3de-4929-85e3-fd328372bd24
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
@@ -11,15 +11,15 @@ ht-degree: 20%
 
 ---
 
-# Grundlegendes zum Programm-Opportunity Analysis Area {#understanding-the-program-opportunity-analysis-area}
+# Grundlegendes zum Bereich „Programm-Opportunity-Analyse“ {#understanding-the-program-opportunity-analysis-area}
 
 ## Überblick {#overview}
 
-Im Bereich Analyse der Programmangebote können Sie die Effektivität einzelner Programme analysieren oder die zusammengefassten Ergebnisse nach Programmkanal anzeigen.
+Im Bereich Opportunity-Analyse des Programms können Sie die Effektivität einzelner Programme analysieren oder nach Programmkanal zusammengefasste Ergebnisse anzeigen.
 
-**Beispiele für Geschäftsfragen, die Sie mit diesem Analysebereich beantworten können, sind**:
+**Beispielhafte Geschäftsfragen, die Sie mit diesem Analysebereich beantworten können, sind**:
 
-Wie viele Möglichkeiten wurden mit einem bestimmten Programm verbunden und wie viele davon haben wir gewonnen?
+Wie viele Opportunities waren mit einem bestimmten Programm verbunden und wie viele haben wir gewonnen?
 
 ![](assets/one-1.png)
 
@@ -27,7 +27,7 @@ Wie viel Umsatz hat ein bestimmtes Programm oder ein bestimmter Kanal generiert?
 
 ![](assets/two-1.png)
 
-Was ist mein Umsatz aus Investitionen für ein bestimmtes Programm oder einen bestimmten Kanal?
+Wie hoch sind meine Einnahmen aus Investitionen für ein bestimmtes Programm oder einen bestimmten Kanal?
 
 ![](assets/three-1.png)
 
@@ -35,54 +35,54 @@ Welche Möglichkeiten hat ein bestimmtes Programm beeinflusst?
 
 ![](assets/four-1.png)
 
-## Attributionsmessungen der Programmangebotsanalyse (blaue Punkte) {#program-opportunity-analysis-attribution-measures-blue-dots}
+## Programm-Opportunity-Analyse Attributionsmaßnahmen (blaue Punkte) {#program-opportunity-analysis-attribution-measures-blue-dots}
 
-Bei den für die Analyse verfügbaren Maßnahmen handelt es sich im Allgemeinen um Zahlen, die durch blaue Punkte dargestellt werden. Dimensionen sind Attribute, die unterschiedliche Ansichten der Kennzahlen liefern und durch gelbe Punkte dargestellt werden.
+Für die Analyse verfügbare Kennzahlen sind im Allgemeinen Zahlen und werden durch blaue Punkte dargestellt. Dimensionen sind Attribute, die unterschiedliche Auffassungen zu den Kennzahlen vermitteln und durch gelbe Punkte dargestellt werden.
 
-Alle Kennzahlen (blaue Punkte) beziehen sich auf die Attribution - die &quot;Gutschrift&quot;für die Lead-Akquise oder den mit einem Lead verbundenen Verkaufserfolg.
+Alle Kennzahlen (blaue Punkte) beziehen sich auf die Attribution - die „Gutschrift“ für die Lead-Akquise oder für den mit einem Lead verbundenen Verkaufserfolg.
 
 ![](assets/six.five.png) ![](assets/seven-1.png)
 
-Es gibt drei Arten von Messungen:
+Es gibt drei Arten von Maßnahmen:
 
-* Akquise-bezogene Kennzahlen, die Erstkontakt-Attribution (FT) erhalten.
+* Akquisitionsbezogene Kennzahlen, die eine Attribution auf Erstkontakt (First-Touch Attribution, FT) erhalten.
 * Erfolgsbezogene Kennzahlen, die eine Multi-Touch-Attribution (MT) erhalten.
-* Verschiedene programmbezogene Maßnahmen, einschließlich der durchschnittlichen Anzahl von Marketing-Touches, bevor Chancen geschaffen oder geschlossen werden.
+* Verschiedene programmbezogene Maßnahmen, einschließlich der durchschnittlichen Anzahl der Marketing-Kontakte vor der Erstellung oder dem Abschluss von Opportunities.
 
-## Akquise und Erfolgsbezogene Maßnahmen {#acquisition-and-success-related-measures}
+## Akquise und erfolgsbezogene Maßnahmen {#acquisition-and-success-related-measures}
 
-Akquisebezogene Maßnahmen geben dem Programm Anerkennung, über das die Kontaktinformationen eines Interessenten zuerst abgerufen werden. Ein Lead muss keinen Erfolg bei einem Programm für die Vergabe von Akquise-Krediten erzielen.
+Akquisitionsbezogene Maßnahmen verleihen dem Programm Anerkennung, über das die Kontaktinformationen eines Leads zunächst abgerufen werden. Ein Lead muss in einem Programm für die Vergabe von Akquisitionskrediten keinen Erfolg erzielen.
 
-Der Wert des Erwerbs eines bestimmten Leads ändert sich im Laufe der Zeit. Es ist null, bis ein Kauf durch den Lead getätigt wird. Sie kann dann mit zusätzlichen Käufen zunehmen.
+Der Wert der Akquise eines bestimmten Leads ändert sich im Laufe der Zeit. Es ist null, bis ein Kauf vom Lead getätigt wird. Sie kann dann mit zusätzlichen Käufen zunehmen.
 
-Erfolgsbezogene Maßnahmen verleihen allen Programmen Anerkennung, die zum Fortschritt eines Führers auf dem Weg zu einem Kauf beitragen.
+Erfolgsbezogene Maßnahmen rechnen alle Programme an, die zum Fortschritt eines Leads im Hinblick auf einen Kauf beitragen.
 
-Wie bei der Akquise ändert sich der Wert des Beitrags zu den Verkäufen an einen Lead im Laufe der Zeit und ist null, bis ein Kauf durch den Lead getätigt wird.
+Wie bei der Akquise ändert sich der Wert des Beitrags zu den Umsätzen, die an einem Lead getätigt werden, im Laufe der Zeit und beträgt null, bis ein Kauf vom Lead getätigt wird.
 
 <table> 
  <tbody> 
   <tr> 
-   <th>Attributionsmessung - Opportunity-Related (FT oder MT)*</th> 
+   <th>Attributionskennzahl - Opportunity-bezogen (FT oder MT)*</th> 
    <th>Beschreibung</th> 
   </tr> 
   <tr> 
    <td>Opportunity-Kosten</td> 
-   <td>Der Teil der Kosten des Programms, der die Gelegenheit beeinflusste. Die Kosten können aufgeteilt werden, wenn mehrere Leads beteiligt waren.</td> 
+   <td>Der Teil der Kosten des Programms, der die Opportunity beeinflusst hat. Die Kosten können aufgeteilt werden, wenn mehrere Leads beteiligt waren.</td> 
   </tr> 
   <tr> 
-   <td>Erstellte Chancen</td> 
-   <td>Der Teil des Kredits, den das Programm erhielt, um die Schaffung der Gelegenheit zu beeinflussen. Es kann sich um einen Bruchteil handeln, falls mehrere Leads beteiligt waren.</td> 
+   <td>Opportunities erstellt</td> 
+   <td>Der Teil der Gutschrift, den das Programm für die Beeinflussung der Erstellung der Opportunity erhalten hat. Es kann sich um einen Bruchteil handeln, falls mehrere Leads beteiligt waren.</td> 
   </tr> 
   <tr> 
    <td>Gewonnene Chancen</td> 
-   <td>Der Teil des Kredits, den das Programm für die Beeinflussung der gewann Chance erhalten hat. Es kann sich um einen Bruchteil handeln, falls mehrere Leads beteiligt waren.</td> 
+   <td>Der Anteil des Werts, den das Programm für die Beeinflussung der gewonnenen Opportunity erhalten hat. Es kann sich um einen Bruchteil handeln, falls mehrere Leads beteiligt waren.</td> 
   </tr> 
   <tr> 
    <td>Pipeline erstellt</td> 
    <td>Der Gutschriftanteil (als Geldwert), den das Programm für seine Einflussnahme auf die Schaffung einer neuen Chance erhalten hat. Es kann sich um einen Bruchteil handeln, falls mehrere Leads beteiligt waren.</td> 
   </tr> 
   <tr> 
-   <td>Pipeline erstellt - trotzdem geöffnet</td> 
+   <td>Pipeline erstellt - noch offen</td> 
    <td>Der Gutschriftanteil (als Geldwert), den das Programm für seine Einflussnahme auf die Schaffung der aktuell offenen Chance erhalten hat. Es kann sich um einen Bruchteil handeln, falls mehrere Leads beteiligt waren.</td> 
   </tr> 
   <tr> 
@@ -90,7 +90,7 @@ Wie bei der Akquise ändert sich der Wert des Beitrags zu den Verkäufen an eine
    <td>Der Gutschriftanteil (als Geldwert), den das Programm für seine Einflussnahme auf die Schaffung einer neuen Chance erhalten hat. Der erwartete Umsatz ist die Chancenwahrscheinlichkeit multipliziert mit dem Chancenwert. Es kann sich um einen Bruchteil handeln, falls mehrere Leads beteiligt waren.</td> 
   </tr> 
   <tr> 
-   <td>Einnahmen aus Investitionen</td> 
+   <td>Ertrag aus Investitionen</td> 
    <td>Dies ist das Verhältnis von Programmkosten zum Gutschriftanteil (als Geldwert), den das Programm für die Einflussnahme gewonnener Chancen erhalten hat.</td> 
   </tr> 
   <tr> 
@@ -100,9 +100,9 @@ Wie bei der Akquise ändert sich der Wert des Beitrags zu den Verkäufen an eine
  </tbody> 
 </table>
 
-_&#42;(FT) = Erstkontakt-Zuordnung, verwendet für Messungen der Lead-Akquise; (MT) = Multi-Touch-Zuordnung, verwendet für Messungen des Lead-Erfolgs_
+_&#42;(FT) = Erstkontakt-Attribution, verwendet für Messwerte der Lead-Akquise; (MT) = Mehrkontakt-Attribution, verwendet für Messwerte des Lead-Erfolgs_
 
-Nachstehend finden Sie ein Szenario, in dem beschrieben wird, wie Opportunity Units berechnet werden, wenn zwei Programme Leads generieren, aber diese dazu führten, dass aus demselben Konto eine Chance bestand.
+Im Folgenden finden Sie ein Szenario, das beschreibt, wie Opportunity-Einheiten berechnet werden, wenn es zwei Programme gibt, die Leads generiert haben, die jedoch zu einer Opportunity aus demselben Konto führen.
 
 **Programm 1**
 
@@ -112,13 +112,13 @@ Nachstehend finden Sie ein Szenario, in dem beschrieben wird, wie Opportunity Un
 **Programm 2**
 
 * Erstellt einen weiteren Lead: Lead 2
-* Lead 2 stammt auch aus Konto 1
+* Lead 2 stammt auch von Konto 1
 
 **Konto 1**
 
-* Generiert eine Chance: Chancen 1
+* Erzeugt eine Opportunity: Opportunity 1
 
-Marketo gibt gebührend Gutschriften ohne doppelte Zählung von Chancen für alle Programme. In diesem Fall erhält jedes Programm 0,5 Opportunity Units. Das heißt, jedes Programm erhält die Hälfte der Gutschrift für die generierte Chance. Außerdem wird die Hälfte der mit der Gelegenheit verbundenen Einnahmen jedem Programm zugewiesen.
+Marketo schreibt Chancen angemessen zu, ohne sie programmübergreifend zu verdoppeln. In diesem Fall erhält also jedes Programm 0,5 Opportunity-Einheiten. Das heißt, jedes Programm erhält die Hälfte der Gutschrift für die generierte Opportunity. Außerdem wird jedem Programm die Hälfte des mit der Opportunity verbundenen Umsatzes zugewiesen.
 
 ## Verschiedene programmbezogene Maßnahmen {#miscellaneous-program-related-measures}
 
@@ -127,20 +127,20 @@ Die anderen verfügbaren Maßnahmen spiegeln die Gesamtleistung des Programms wi
 <table> 
  <tbody> 
   <tr> 
-   <th>Attributionsmessung - programmbezogen</th> 
+   <th>Attributionsmaßnahme - programmbezogen</th> 
    <th>Beschreibung</th> 
   </tr> 
   <tr> 
-   <td>Anzahl der mit dem Programm verbundenen Möglichkeiten</td> 
-   <td><p>Die Anzahl der Gesamtchancen, die einem Programm eine Art von Attributionsguthaben zugeteilt haben. Chancen können durch einen oder mehrere Leads und durch ein oder mehrere Programme beeinflusst werden.</p></td> 
+   <td>Anzahl der mit dem Programm verknüpften Opportunitys</td> 
+   <td><p>Die Gesamtzahl der Opportunitys, die einem Programm irgendeine Art von Attribution zugeschrieben hatten. Opportunities können durch eine oder mehrere Leads und ein oder mehrere Programme beeinflusst werden.</p></td> 
   </tr> 
   <tr> 
-   <td>Durchschnittliche Anzahl der Erfolge pro geschlossener Gelegenheit</td> 
-   <td>Die durchschnittliche Anzahl der Programmerfolge, bevor die Gelegenheit geschlossen wurde. <br></td> 
+   <td>Durchschn. Anzahl der Erfolge pro abgeschlossener Opportunity</td> 
+   <td>Die durchschnittliche Anzahl der Programmerfolge vor Abschluss der Opportunity. <br></td> 
   </tr> 
   <tr> 
-   <td>Durchschnittliche Anzahl der Erfolge pro erstellter Chance</td> 
-   <td>Die durchschnittliche Anzahl von Programmerfolgen vor der Erstellung der Opportunity.</td> 
+   <td>Durchschn. Anzahl der Erfolge pro erstellter Opportunity</td> 
+   <td>Die durchschnittliche Anzahl der Programmerfolge vor der Erstellung der Opportunity.</td> 
   </tr> 
   <tr> 
    <td>Neue Namen</td> 
@@ -152,14 +152,14 @@ Die anderen verfügbaren Maßnahmen spiegeln die Gesamtleistung des Programms wi
   </tr> 
   <tr> 
    <td>Erfolg (Summe)</td> 
-   <td>Die Gesamtzahl der Programmmitglieder, die einen Erfolg erzielt haben.</td> 
+   <td>Die Gesamtzahl der Programmmitglieder, die erfolgreich waren.</td> 
   </tr> 
  </tbody> 
 </table>
 
-## Dimensionen zur Analyse von Programmchancen (Gelbe Punkte) {#program-opportunity-analysis-dimensions-yellow-dots}
+## Dimensionen zur Analyse von Programmchancen (gelbe Punkte) {#program-opportunity-analysis-dimensions-yellow-dots}
 
-Während Messungen (blaue Punkte) berechnet werden und einige Überlegungen und Erläuterungen erforderlich sind, sind Dimensionen (gelbe Punkte) beschreibend. Im Folgenden finden Sie die verfügbaren Dimensionen.
+Während Kennzahlen (blaue Punkte) berechnet werden und etwas Nachdenken und Erklärungen erfordern, sind Dimensionen (gelbe Punkte) beschreibend. Im Folgenden finden Sie die verfügbaren Dimensionen.
 
 <table> 
  <tbody> 
@@ -169,25 +169,25 @@ Während Messungen (blaue Punkte) berechnet werden und einige Überlegungen und 
   </tr> 
   <tr> 
    <td>Opportunity-Attribute</td> 
-   <td>Opportunity closed<br>Opportunity name*<br>Opportunity Owner Name<br>Opportunity Stage<br>Opportunity Type</td> 
+   <td>Opportunity geschlossen<br>Opportunity-Name*<br>Opportunity-Eigentümername<br>Opportunity-Stadium<br>Opportunity-Typ</td> 
   </tr> 
   <tr> 
-   <td>Opportunity Timeframe</td> 
-   <td>Geschlossene Chancen Jahr/Quartal/Monat<br>Erstellte Chance Jahr/Quartal/Monat</td> 
+   <td>Opportunity-Zeitrahmen</td> 
+   <td>Opportunity geschlossen Jahr/Quartal/Monat<br>Opportunity erstellt Jahr/Quartal/Monat</td> 
   </tr> 
   <tr> 
    <td>Programmattribute</td> 
-   <td>Programmkanal<br> Programmname</td> 
+   <td>Programmkanal<br>Programmname</td> 
   </tr> 
   <tr> 
-   <td>Zeitrahmen für Programmkosten</td> 
-   <td>Kostenjahr/Quartal/Monat</td> 
+   <td>Zeitrahmen der Programmkosten</td> 
+   <td>Kosten Jahr/Quartal/Monat</td> 
   </tr> 
  </tbody> 
 </table>
 
-*&#42;Alle Möglichkeiten, die einem Programm eine beliebige Art von Attribution gutgeschrieben haben. Die Möglichkeiten können durch einen oder mehrere Leads und durch ein oder mehrere Programme beeinflusst werden.*
+*&#42;Alle Opportunities, die einem Programm eine beliebige Art von Attribution zugeschrieben haben. Opportunities können durch eine oder mehrere Leads und ein oder mehrere Programme beeinflusst werden.*
 
 >[!MORELIKETHIS]
 >
->[Erstellen eines Berichts zum Umsatz-Explorer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
+>[Erstellen eines Revenue Explorer-Berichts](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)

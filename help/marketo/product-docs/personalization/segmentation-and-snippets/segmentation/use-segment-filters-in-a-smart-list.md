@@ -16,11 +16,11 @@ ht-degree: 1%
 >[!PREREQUISITES]
 >
 >* [Erstellen einer Smart-Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
->* [Erstellen einer Segmentierung](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>* [Segmentierung erstellen](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 
-Optimieren Sie die Leistung Ihrer Smart-Listen mithilfe von Segmentfiltern.
+Optimieren Sie die Leistung Ihrer Smart Lists mithilfe von Segmentfiltern.
 
-1. Suchen Sie in der von Ihnen erstellten Smart-Liste nach dem Wort **Segment**, ziehen Sie den Filter und legen Sie ihn ab.
+1. Suchen Sie in der erstellten Smart-Liste nach dem Wort **Segment** und ziehen Sie den Filter per Drag-and-Drop hinüber.
 
    ![](assets/image2014-9-16-10-3a30-3a47.png)
 

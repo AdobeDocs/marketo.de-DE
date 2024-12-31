@@ -1,7 +1,7 @@
 ---
 unique-page-id: 12981145
-description: Einrichten von Leistungseinblicken - Marketo-Dokumente - Produktdokumentation
-title: Einrichten von Leistungseinblicken
+description: Einrichten von Performance Insights - Marketo-Dokumente - Produktdokumentation
+title: Einrichten von Performance Insights
 exl-id: f87bbaba-c2c1-4b83-9e07-f8a5d1f1738b
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,76 +11,76 @@ ht-degree: 3%
 
 ---
 
-# Einrichten von Leistungseinblicken {#setting-up-performance-insights}
+# Einrichten von Performance Insights {#setting-up-performance-insights}
 
 Gehen Sie wie folgt vor, um MPI einzurichten.
 
-## Einrichtung von Chancen {#opportunity-setup}
+## Opportunity-Setup {#opportunity-setup}
 
 1. Klicken Sie auf **Admin**.
 
    ![](assets/admin.png)
 
-1. Klicken Sie auf **Umsatzzyklusanalysen**.
+1. Klicken Sie **Umsatzzyklusanalyse**.
 
    ![](assets/two-2.png)
 
    >[!NOTE]
    >
-   >Wenn Sie keine RCA haben, müssen Sie für Schritt 2 die Option **Programmanalyse** auswählen.
+   >Wenn Sie keine RCA haben, müssen Sie für Schritt 2 **Programmanalyse** auswählen.
 
-1. Klicken Sie unter &quot;Attribution&quot;auf **Bearbeiten**.
+1. Klicken Sie unter Attribution auf **Bearbeiten**.
 
    ![](assets/three-1.png)
 
-1. Die Attributionseinstellungen werden angezeigt.
+1. Attributionseinstellungen werden angezeigt.
 
    ![](assets/four-2.png)
 
-   Wenn die Attribution explizit ist, stellen Sie sicher, dass die Kontaktrolle &quot;Chancen&quot;ausgefüllt wurde (entweder über den Endpunkt &quot;Angebotsrolle&quot;oder über die CRM-Integration).
+   Wenn die Attribution explizit ist, stellen Sie sicher, dass die Rolle des Opportunity-Kontakts ausgefüllt wurde (entweder über den Opportunity-Rollenendpunkt oder über die CRM-Integration).
 
-   Wenn Attribution implizit ist, stellen Sie sicher, dass das Unternehmensfeld auf dem Lead/Kontakt mit dem Kontonamen der Opportunity übereinstimmt.
+   Wenn die Attribution implizit ist, stellen Sie sicher, dass das Unternehmensfeld auf dem Lead/Kontakt mit dem Kontonamen der Opportunity übereinstimmt.
 
    >[!NOTE]
    >
-   >Stellen Sie sicher, dass alle Möglichkeiten die entsprechenden Felder ausgefüllt haben:
+   >Stellen Sie sicher, dass bei allen Opportunitys die entsprechenden Felder ausgefüllt sind:
    >
    >* Opportunity-Betrag
    >* Ist geschlossen
    >* Ist gewonnen
-   >* Erstellungsdatum (in Ihrem Fall kann dies nicht festgelegt werden)
-   >* Geschlossenes Datum (in Ihrem Fall kann dies nicht festgelegt werden)
+   >* Erstellungsdatum (wird in Ihrem Fall möglicherweise nicht festgelegt)
+   >* Abschlussdatum (wird in Ihrem Fall möglicherweise nicht festgelegt)
    >* Opportunity-Typ
 
 ## Programm-Installation {#program-setup}
 
 Aktualisieren Sie die Programmkosten für mindestens 12 Monate. Sie können dies manuell oder mithilfe der Programm-API tun. In diesem Beispiel machen wir es manuell.
 
-1. Klicken Sie auf **Marketingaktivitäten**.
+1. Klicken Sie **Marketing-Aktivitäten**.
 
    ![](assets/ma.png)
 
-1. Wählen Sie Ihr Programm aus.
+1. Suchen und wählen Sie Ihr Programm aus.
 
    ![](assets/select-program.png)
 
-1. Klicken Sie auf die Registerkarte **Setup**.
+1. Klicken Sie auf **Registerkarte** Setup“.
 
    ![](assets/setup-tab.png)
 
-1. Ziehen Sie **Period Cost** auf die Arbeitsfläche.
+1. Ziehen Sie **Periodenkosten** auf die Arbeitsfläche.
 
    ![](assets/period-cost.png)
 
-1. Legen Sie den Programmmonat vor mindestens 12 Monaten fest und klicken Sie auf **OK**.
+1. Legen Sie den Programmmonat auf mindestens 12 Monate fest und klicken Sie auf **OK**.
 
    ![](assets/set-period.png)
 
-1. Legen Sie die Zeitraumkosten fest und klicken Sie auf **Speichern**.
+1. Legen Sie die Periodenkosten fest und klicken Sie auf **Speichern**.
 
    ![](assets/set-cost.png)
 
-Überprüfen Sie anschließend das Analytics-Verhalten, um anzugeben, ob ein bestimmter Kanal in die Analyse einbezogen werden soll. Legen Sie das Analytics-Verhalten fest (Normal, Einschließen, Operativ).
+Überprüfen Sie anschließend das Analytics-Verhalten, um anzugeben, ob ein bestimmter Kanal in Analytics einbezogen werden soll. Legen Sie das Analytics-Verhalten fest (normal, einschließlich, betriebsbereit).
 
 1. Klicken Sie auf **Admin**.
 
@@ -90,7 +90,7 @@ Aktualisieren Sie die Programmkosten für mindestens 12 Monate. Sie können dies
 
    ![](assets/tags.png)
 
-1. Klicken Sie auf &quot;**+**&quot;, um die Kanalliste zu erweitern.
+1. Klicken Sie auf **+**, um die Kanalliste zu erweitern.
 
    ![](assets/channel.png)
 
@@ -98,7 +98,7 @@ Aktualisieren Sie die Programmkosten für mindestens 12 Monate. Sie können dies
 
    ![](assets/channel-click.png)
 
-1. Klicken Sie auf die Dropdownliste **Analytics-Verhalten** und wählen Sie das gewünschte Verhalten aus.
+1. Klicken Sie auf die **Analytics-Verhalten** und wählen Sie das gewünschte Verhalten aus.
 
    ![](assets/edit-channel.png)
 
@@ -110,11 +110,11 @@ Aktualisieren Sie die Programmkosten für mindestens 12 Monate. Sie können dies
 
    ![](assets/save.png)
 
-## das Programm an die Person binden {#tie-the-program-to-the-person}
+## Programm mit der Person verknüpfen {#tie-the-program-to-the-person}
 
-1. Stellen Sie sicher, dass das Akquiseprogramm und das Akquisedatum für jede Person in Ihrer Datenbank festgelegt wurden, damit die Erstkontaktzuordnung funktioniert.
-1. Stellen Sie sicher, dass Ihre Programme Erfolgsstatus für Ihre Menschen festlegen.
+1. Stellen Sie sicher, dass das Akquiseprogramm und das Akquisedatum für jede Person in Ihrer Datenbank festgelegt wurden, damit die Erstkontakt-Attribution funktioniert.
+1. Stellen Sie sicher, dass Ihre Programme Erfolgsstatus für Ihre Mitarbeiter festlegen.
 
 >[!NOTE]
 >
->Die vorgenommenen Änderungen sind nicht unmittelbar. Bevor Änderungen wirksam werden, ist eine Übernachtungsperiode erforderlich.
+>Vorgenommene Änderungen werden nicht sofort wirksam. Bevor Änderungen in Kraft treten, ist ein Übernachtungszeitraum erforderlich.

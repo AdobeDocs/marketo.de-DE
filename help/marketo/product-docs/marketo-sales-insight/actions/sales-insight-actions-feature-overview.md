@@ -1,6 +1,6 @@
 ---
-description: Sales Insight-Aktionen Funktionsübersicht - Marketo-Dokumente - Produktdokumentation
-title: Übersicht über die Funktionen von Sales Insight-Aktionen
+description: Funktionsübersicht für Sales Insight-Aktionen - Marketo-Dokumente - Produktdokumentation
+title: Übersicht über die Funktion „Sales Insights-Aktionen“
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
 feature: Sales Insight Actions
 source-git-commit: 1f228323c18204149630a7cb77d6ae0a88b425e3
@@ -10,180 +10,180 @@ ht-degree: 1%
 
 ---
 
-# Übersicht über die Funktionen von Sales Insight-Aktionen {#msi-actions-feature-overview}
+# Übersicht über die Funktion „Sales Insights-Aktionen“ {#msi-actions-feature-overview}
 
-Mit Marketing-gestützten Intelligenz- und Interaktionswerkzeugen können Sie mithilfe von Sales Insight-Aktionen die Prospektionsbemühungen in einem einzigen Workflow beschleunigen.
+Beschleunigen Sie die Akquise mit Marketing-gestützten Intelligence- und Interaktions-Tools in einem einzigen Workflow mithilfe von Sales Insight-Aktionen.
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions ist eine webbasierte Anwendung, die ausschließlich über das [Marketo Sales Insight-Paket](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} in das Salesforce CRM integriert wird. Dies wird manchmal als &quot;Marketo-Verkäufe&quot;oder einfach als &quot;Aktionen&quot;bezeichnet.
+>Marketo Sales Insight Actions ist eine Web-basierte Anwendung, die über das [Marketo Sales Insight Package} ausschließlich mit Salesforce CRM integriert ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. Dies wird manchmal als &quot;Marketo-Vertrieb“ oder einfach als „Aktionen“ bezeichnet.
 
-Eine Videoübersicht zu Sales Insight-Aktionen erhalten Sie, wenn Sie [hier klicken](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html){target="_blank"}.
+Eine Videoübersicht zu Sales Insight-Aktionen finden Sie [hier](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html){target="_blank"}.
 
 ![](assets/sales-insight-actions-feature-overview-1.png)
 
-## Lead-Layout und Kontaktlayout {#lead-layout-and-contact-layout}
+## Lead-Layout und Kontakt-Layout {#lead-layout-and-contact-layout}
 
-Die folgenden Aktionen sind in der Dropdown-Liste &quot;Aktionen auswählen&quot;in der oberen Navigationsleiste verfügbar:
+Die folgenden Aktionen sind im Dropdown-Menü „Aktionen auswählen“ im oberen Navigationsbereich verfügbar:
 
 * Verkaufs-E-Mail senden
-   * E-Mails zum Verkauf verfügen über Anzeigen, Klick und Antwort-Tracking (wenn der Versandkanal eingerichtet ist).
-   * Umfasst E-Mail-Personalization, benutzerdefinierte Signatur und Anlagen
+   * Verkaufs-E-Mails verfügen über Ansicht-, Klick- und Antwort-Tracking (wenn der Versandkanal eingerichtet ist)
+   * Enthält E-Mail-Personalization, benutzerdefinierte Signatur und Anhänge
    * Vorlagenfreigabe und Berichte
-   * Teamfreigabe, Gruppierung von E-Mails und CC/BCC-Fähigkeit
-   * Die E-Mail-Aktivität Vertrieb wird im Marketo-Personendatensatz protokolliert
-   * Entsprechende Filter und Trigger in Marketo Smart Campaigns (Details unten)
+   * Team-Freigabe, Gruppen-E-Mails und CC/BCC-Funktion
+   * Die E-Mail-Aktivität für den Verkauf wird im Personendatensatz von Marketo protokolliert.
+   * Entsprechende Filter und Trigger in Marketo Smart Campaign (Details unten)
 
 * Zur Verkaufskampagne hinzufügen
-   * Hinzufügen von Leads zu Verkaufsbüchern, die eine Folge von E-Mails und Aufgaben sind
-   * Enthält Teamzugriff und -freigabe, Aufgabenerstellung, Wochenenden überspringen, OOO-E-Mails als Antworten ignorieren und automatisches Ende
-   * Die Kampagnenaktivität wird im Marketo-Personendatensatz protokolliert
-   * Entsprechende Filter und Trigger in Marketo Smart Campaigns (Details unten)
+   * Leads zu Verkaufs-Playbooks hinzufügen, das aus einer Abfolge von E-Mails und Aufgaben besteht
+   * Umfasst Zugriff und Freigabe durch das Team, Aufgabenerstellung, Überspringen von Wochenenden, Ignorieren von OOO-E-Mails als Antworten und automatisches Ende
+   * Die Kampagnenaktivität wird im Marketo-Personendatensatz protokolliert.
+   * Entsprechende Filter und Trigger in Marketo Smart Campaign (Details unten)
 
-* Vertriebsfachhändler
-   * Verkaufsaufrufe über den Dialer im CRM-System durchführen
-   * Enthält lokale Präsenz, voraufgezeichnet
-   * Ergebnis der Protokollaufrufe, Aufrufaufzeichnung im Bedienfeld und Aktivitätsverlauf
-   * Die Aufrufaktivität wird im Marketo-Personendatensatz protokolliert
-   * Filter und Trigger in Marketo Smart Campaigns
+* Wählhilfe
+   * Verkaufsanrufe mit dem Dialer im CRM tätigen
+   * Einschließlich lokaler Präsenz, voraufgezeichnet
+   * Aufrufergebnis, Aufrufaufzeichnung im Bedienfeld und Aktivitätsverlauf protokollieren
+   * Die Aufruffaktivität wird im Marketo-Personendatensatz protokolliert.
+   * Filter und Trigger in Marketo Smart Campaign
 
 * Aufgabe hinzufügen
-   * Erstellen Sie E-Mail-, Call-, InMail- und benutzerdefinierte Aufgaben für Ihre Leads.
+   * E-Mail, Anruf, InMail und benutzerdefinierte Aufgaben für Ihre Leads erstellen
    * Automatisieren der Aufgabenerstellung mit Verkaufskampagnen
    * Synchronisieren von Aufgaben mit Salesforce
-   * Protokollaufgaben im Abschnitt &quot;Salesforce-Aktivitätsverlauf&quot;
+   * Aufgaben im Salesforce-Aktivitätsverlauf protokollieren
 
-Sie können auf den Live Feed zugreifen, indem Sie auf das Symbol ((0)) in der oberen Navigationsleiste klicken. Dazu gehören die Möglichkeit, Live-Updates zu Verkaufsaktivitäten zusammen mit der Funktion zum Andocken des Bildschirms anzuzeigen.
+Sie können auf den Live-Feed zugreifen, indem Sie auf das Symbol (0) in der oberen Navigationsleiste klicken. Dazu gehört die Möglichkeit, Live-Updates zu Vertriebsaktivitäten zusammen mit der Bildschirm-Dockingfunktion anzuzeigen.
 
 ![](assets/sales-insight-actions-feature-overview-2.png)
 
 Die folgenden Daten sind auf den Registerkarten im MSI-Bedienfeld verfügbar:
 
 * Insights-Dashboard
-   * Das Interaktions-Velocity-Raster umfasst Aktivitäten aus Verkaufs-E-Mails, Verkaufskampagnen-Aktionen und Vertriebs-Dialer.
-   * Bevorstehende Verkaufskampagnen - Wenn ein Lead Teil einer laufenden Kampagne ist, stehen diese Informationen im Tab Bevorstehende Verkaufskampagnen zur Verfügung
-   * Bevorstehende Aufgaben - Wenn eine Aufgabe für einen Lead ansteht, stehen diese Informationen auf der Registerkarte &quot;Bevorstehende Aufgaben&quot;zur Verfügung
+   * Das Interaktionsgeschwindigkeitsraster enthält Aktivitäten aus Sales-E-Mails, Sales-Kampagnen-Aktionen und Sales-Dialer
+   * Anstehende Verkaufskampagnen : Wenn ein Lead Teil einer laufenden Kampagne ist, sind diese Informationen auf der Registerkarte Anstehende Verkaufskampagnen verfügbar
+   * Anstehende Aufgaben - Wenn eine anstehende Aufgabe in Bezug auf einen Lead vorhanden ist, sind diese Informationen auf der Registerkarte Anstehende Aufgaben verfügbar.
 
-* E-Mail-Tab
-   * Alle versandten E-Mails werden hier protokolliert. Die Aktivitäten werden auch im Marketo-Personendatensatz protokolliert
-   * Die Spalten umfassen Betreff, Öffnen, Klicken, Antworten (nur für E-Mails mit eingerichtetem Versandkanal verfügbar), Absender, Datum
-   * Umfasst die Karte mit zusätzlichen Details wie Sender, Vorlage, Vertriebskampagne und Vorschau-E-Mail
+* Registerkarte „E-Mail“
+   * Alle gesendeten Verkaufs-E-Mails werden hier protokolliert. Die Aktivitäten werden auch im Marketo-Personendatensatz protokolliert.
+   * Die Spalten umfassen Betreff, Öffnen, Klicken, Antworten (nur für Verkaufs-E-Mails mit eingerichtetem Versandkanal verfügbar), Absender, Datum
+   * Enthält eine ausziehbare Karte mit zusätzlichen Details wie Absender, Vorlage, Verkaufskampagne und Vorschau der E-Mail
 
-* Registerkarte &quot;Aufruf&quot;
-   * Alle Anrufe, die über die Verkaufsdialfunktion platziert werden, werden hier protokolliert. Die Aktivitäten werden auch im Marketo-Personendatensatz protokolliert
-   * Zu den Spalten gehören Name, Ergebnis, Hinweise, Angerufen am, Dauer und Link zur Aufzeichnung
-   * Enthält die Karte für die Abschiebung mit zusätzlichen Details wie &quot;Anruf durchgeführt von&quot;, &quot;Anruf beantwortet von&quot;, &quot;Telefonnummer und Status&quot;
+* Registerkarte „Aufruf“
+   * Hier werden alle Anrufe protokolliert, die über die Sales Dialer-Funktion getätigt werden. Die Aktivitäten werden auch im Marketo-Personendatensatz protokolliert.
+   * Zu den Spalten gehören Name, Ergebnis, Notizen, Aufgerufenes Datum, Dauer und Link zur Aufzeichnung
+   * Enthält eine Erweiterungskarte mit zusätzlichen Details wie „Anruf von“, „Angenommen von“, „Telefonnummer“ und „Status“
 
 ## Konto- und Opportunity-Layout {#account-and-opportunity-layout}
 
 Die folgenden Aktionen sind in der oberen Navigationsleiste verfügbar:
 
-* Verkaufs-E-Mail senden - Möglichkeit, personalisierte oder vorlagenbasierte Gruppen-E-Mails mit Ansicht-, Klick- und Antworttracking an alle Kontakte zu senden, die mit einem Konto/einer Gelegenheit verknüpft sind
-   * E-Mails zum Verkauf verfügen über Anzeigen, Klick und Antwort-Tracking (wenn der Versandkanal eingerichtet ist).
-   * Umfasst E-Mail-Personalization, benutzerdefinierte Signatur und Anlagen
+* Verkaufs-E-Mail senden - Möglichkeit, personalisierte oder vorlagenbasierte Gruppen-E-Mails mit Ansicht-, Klick- und Antwort-Tracking an alle Kontakte zu senden, die mit einem Konto/einer Opportunity verbunden sind
+   * Verkaufs-E-Mails verfügen über Ansicht-, Klick- und Antwort-Tracking (wenn der Versandkanal eingerichtet ist)
+   * Enthält E-Mail-Personalization, benutzerdefinierte Signatur und Anhänge
    * Vorlagenfreigabe und Berichte
-   * Teamfreigabe, Gruppierung von E-Mails und CC/BCC-Fähigkeit
-   * Die E-Mail-Aktivität Vertrieb wird im Marketo-Personendatensatz protokolliert
-   * Entsprechende Filter und Trigger in Marketo Smart Campaigns (Details unten)
+   * Team-Freigabe, Gruppen-E-Mails und CC/BCC-Funktion
+   * Die E-Mail-Aktivität für den Verkauf wird im Personendatensatz von Marketo protokolliert.
+   * Entsprechende Filter und Trigger in Marketo Smart Campaign (Details unten)
 
-* Zu Verkaufskampagne hinzufügen - Fügen Sie allen mit einem Konto/einer Gelegenheit verbundenen Kontakten zu Verkaufsbüchern hinzu, die eine Folge von E-Mails und Aufgaben sind.
-   * Hinzufügen von Leads zu Verkaufsbüchern, die eine Folge von E-Mails und Aufgaben sind
-   * Enthält Teamzugriff und -freigabe, Aufgabenerstellung, Wochenenden überspringen, OOO-E-Mails als Antworten ignorieren und automatisches Ende
-   * Die Kampagnenaktivität wird im Marketo-Personendatensatz protokolliert
-   * Entsprechende Filter und Trigger in Marketo Smart Campaigns (Details unten)
+* Zu Vertriebskampagne hinzufügen - Alle Kontakte, die mit einem Konto/einer Opportunity verbunden sind, werden zu Vertriebs-Playbooks hinzugefügt, d. h. zu einer Abfolge von E-Mails und Aufgaben
+   * Leads zu Verkaufs-Playbooks hinzufügen, das aus einer Abfolge von E-Mails und Aufgaben besteht
+   * Umfasst Zugriff und Freigabe durch das Team, Aufgabenerstellung, Überspringen von Wochenenden, Ignorieren von OOO-E-Mails als Antworten und automatisches Ende
+   * Die Kampagnenaktivität wird im Marketo-Personendatensatz protokolliert.
+   * Entsprechende Filter und Trigger in Marketo Smart Campaign (Details unten)
 
-Sie können auf den Live-Feed zugreifen, indem Sie in der oberen Navigationsleiste auf das Symbol ((0)) klicken. Dazu gehören die Möglichkeit, Live-Updates zu Verkaufsaktivitäten zusammen mit der Funktion zum Andocken des Bildschirms anzuzeigen.
+Sie können auf den Live-Feed zugreifen, indem Sie auf das Symbol (0) in der oberen Navigationsleiste klicken. Dazu gehört die Möglichkeit, Live-Updates zu Vertriebsaktivitäten zusammen mit der Bildschirm-Dockingfunktion anzuzeigen.
 
-Die folgenden Daten sind in den Registerkarten verfügbar:
+Folgende Daten sind auf den Registerkarten verfügbar:
 
 * Insights-Dashboard
-   * Das Interaktions-Velocity-Raster umfasst Aktivitäten aus Verkaufs-E-Mails, Verkaufskampagnen-Aktionen und dem Vertriebspartner.
-   * Bevorstehende Verkaufskampagnen - Wenn ein Kontakt aus dem Konto/der Gelegenheit Teil einer laufenden Kampagne ist, stehen diese Informationen im Tab Bevorstehende Verkaufskampagnen zur Verfügung
-   * Bevorstehende Aufgaben - Wenn es eine bevorstehende Aufgabe gibt, die einen Kontakt aus dem Konto/der Gelegenheit betrifft, werden diese Informationen im Tab Bevorstehende Aufgaben verfügbar sein.
+   * Das Interaktionsgeschwindigkeitsraster enthält Aktivitäten aus Sales-E-Mails, Sales-Kampagnen-Aktionen und dem Sales Dialer
+   * Anstehende Verkaufskampagnen : Wenn ein Kontakt aus dem Konto/der Opportunity Teil einer laufenden Kampagne ist, sind diese Informationen auf der Registerkarte Anstehende Verkaufskampagnen verfügbar
+   * Anstehende Aufgaben - Wenn eine anstehende Aufgabe mit einem Kontakt aus dem Konto/der Opportunity verknüpft ist, sind diese Informationen auf der Registerkarte Anstehende Aufgaben verfügbar.
 
-* E-Mail-Tab
-   * Alle Verkaufs-E-Mails, die an Kontakte aus dem Konto/der Gelegenheit gesendet werden, werden hier protokolliert. Die Aktivitäten werden auch im Marketo-Personendatensatz protokolliert
-   * Die Spalten umfassen Betreff, Öffnung, Klick, Antworten (nur für E-Mails mit eingerichtetem Versandkanal verfügbar), Absender und Datum
-   * Umfasst die Karte mit zusätzlichen Details wie Sender, Vorlage, Vertriebskampagne und Vorschau-E-Mail
+* Registerkarte „E-Mail“
+   * Alle Verkaufs-E-Mails, die von dem Konto/der Opportunity an Kontakte gesendet werden, werden hier protokolliert. Die Aktivitäten werden auch im Marketo-Personendatensatz protokolliert.
+   * Die Spalten umfassen Betreff, Öffnen, Klicken, Antworten (nur für Verkaufs-E-Mails mit eingerichtetem Versandkanal verfügbar), Absender und Datum
+   * Enthält eine ausziehbare Karte mit zusätzlichen Details wie Absender, Vorlage, Verkaufskampagne und Vorschau der E-Mail
 
-* Registerkarte &quot;Aufruf&quot;
-   * Alle Anrufe an Kontakte aus dem Konto/der Möglichkeit, die über die Funktion des Vertriebs-Dialers durchgeführt werden, werden hier protokolliert. Die Aktivitäten werden auch im Marketo-Personendatensatz protokolliert
-   * Zu den Spalten gehören Name, Ergebnis, Hinweise, Anrufbeantworter, Dauer und Link zur Aufzeichnung
-   * Enthält die Karte für die Abschiebung mit zusätzlichen Details wie &quot;Anruf durchgeführt von&quot;, &quot;Anruf beantwortet von&quot;, &quot;Telefonnummer und Status&quot;
+* Registerkarte „Aufruf“
+   * Hier werden alle Aufrufe an Kontakte aus dem Konto/der Opportunity, die die Funktion „Vertriebs-Dialer“ verwenden, protokolliert. Die Aktivitäten werden auch im Marketo-Personendatensatz protokolliert.
+   * Zu den Spalten gehören Name, Ergebnis, Notizen, Abrufzeit, Dauer und Link zur Aufzeichnung
+   * Enthält eine Erweiterungskarte mit zusätzlichen Details wie „Anruf von“, „Angenommen von“, „Telefonnummer“ und „Status“
 
-## Lead- und Kontaktlisten-Ansicht (Massenaktionen) {#lead-and-contact-list-view}
+## Lead- und Kontaktlistenansicht (Massenaktionen) {#lead-and-contact-list-view}
 
-* Verkaufs-E-Mail senden - Möglichkeit, personalisierte oder vorlagenbasierte E-Mails mit Ansicht, Klick und Antwort-Tracking an eine Liste von Kontakten/Leads zu senden
-* Vertriebskampagne senden - Fügen Sie zu Verkaufsbüchern hinzu, die eine Abfolge von E-Mails und Aufgaben zu einer Liste von Kontakten/Leads darstellen.
+* Verkaufs-E-Mail senden - Möglichkeit, personalisierte oder vorlagenbasierte E-Mails mit Ansicht-, Klick- und Antwort-Tracking an eine Liste von Kontakten/Leads zu senden
+* Verkaufskampagne senden - Zu Verkaufs-Playbooks hinzufügen, das ist eine Abfolge von E-Mails und Aufgaben zu einer Liste von Kontakten/Leads
 
-## Registerkarte &quot;Marketo Global&quot; {#marketo-global-tab}
+## Registerkarte &quot;Marketo Global“ {#marketo-global-tab}
 
-**Registerkarte &quot;Beste Betten&quot;**
+**Registerkarte „Best Bets“**
 
 ![](assets/sales-insight-actions-feature-overview-3.png)
 
-Die folgenden Massenaktionen sind in der Dropdown-Liste auf der Registerkarte Beste Betten verfügbar:
+Die folgenden Massenaktionen sind aus der Dropdown-Liste auf der Registerkarte Best Practices verfügbar:
 
-* Verkaufs-E-Mail senden - Möglichkeit, personalisierte oder vorlagenbasierte E-Mails mit Ansicht-, Klick- und Antworttracking zu senden
-* Verkaufskampagne senden - Fügen Sie Leads zu Verkaufsbüchern hinzu, die eine Folge von E-Mails und Aufgaben sind.
+* Verkaufs-E-Mail senden - Möglichkeit zum Senden personalisierter oder vorlagenbasierter E-Mails mit Ansicht-, Klick- und Antwort-Tracking
+* Verkaufskampagne senden - Fügen Sie Leads zu Verkaufs-Playbooks hinzu, was eine Sequenz von E-Mails und Aufgaben ist
 
   ![](assets/sales-insight-actions-feature-overview-4.png)
 
-Die folgenden Inline-Aktionen sind für einzelne Leads/Kontakte auf der Registerkarte Beste Betas verfügbar:
+Die folgenden Inline-Aktionen sind für einzelne Leads/Kontakte auf der Registerkarte Best Bets verfügbar:
 
-* Verkaufs-E-Mail senden - Möglichkeit, personalisierte oder vorlagenbasierte E-Mails mit Ansicht-, Klick- und Antworttracking zu senden
-* Verkaufskampagne senden - Fügen Sie Leads zu Verkaufsbüchern hinzu, die eine Folge von E-Mails und Aufgaben sind.
-* Vertriebspartner - Verkaufen Sie über den im CRM-System verfügbaren Dialer Verkaufsanrufe.
-* Aufgabe hinzufügen - Erstellen von E-Mail-, Aufruf-, Kunden- oder LinkedIn-Aufgaben für potenzielle Leads
+* Verkaufs-E-Mail senden - Möglichkeit zum Senden personalisierter oder vorlagenbasierter E-Mails mit Ansicht-, Klick- und Antwort-Tracking
+* Verkaufskampagne senden - Fügen Sie Leads zu Verkaufs-Playbooks hinzu, was eine Sequenz von E-Mails und Aufgaben ist
+* Verkaufs-Dialer - Führen Sie Verkaufsanrufe mit dem Dialer im CRM durch.
+* Aufgabe hinzufügen : Erstellen von E-Mail-, Anruf-, Kunden- oder LinkedIn-Aufgaben für potenzielle Leads
 
   ![](assets/sales-insight-actions-feature-overview-5.png)
 
-**Registerkarte &quot;E-Mail&quot;**
+**Registerkarte „E-Mail“**
 
-* Alle versandten E-Mails werden hier protokolliert. Die Aktivitäten werden auch im Marketo-Personendatensatz protokolliert
-* Die Spalten umfassen Betreff, Öffnung, Klick, Antworten (nur für E-Mails mit eingerichtetem Versandkanal verfügbar), Absender und Datum
-* Umfasst die Karte mit zusätzlichen Details wie Sender, Vorlage, Vertriebskampagne und Vorschau-E-Mail
+* Alle gesendeten Verkaufs-E-Mails werden hier protokolliert. Die Aktivitäten werden auch im Marketo-Personendatensatz protokolliert.
+* Die Spalten umfassen Betreff, Öffnen, Klicken, Antworten (nur für Verkaufs-E-Mails mit eingerichtetem Versandkanal verfügbar), Absender und Datum
+* Enthält eine ausziehbare Karte mit zusätzlichen Details wie Absender, Vorlage, Verkaufskampagne und Vorschau der E-Mail
 
-**Tab aufrufen**
+**Registerkarte „Aufruf“**
 
-* Alle Anrufe, die über die Verkaufsdialfunktion platziert werden, werden hier protokolliert. Die Aktivitäten werden auch im Marketo-Personendatensatz protokolliert
-* Zu den Spalten gehören Name, Ergebnis, Hinweise, Anrufbeantworter, Dauer und Link zur Aufzeichnung
-* Enthält die Karte für die Abschiebung mit zusätzlichen Details wie &quot;Anruf durchgeführt von&quot;, &quot;Anruf beantwortet von&quot;, &quot;Telefonnummer und Status&quot;
+* Hier werden alle Anrufe protokolliert, die über die Sales Dialer-Funktion getätigt werden. Die Aktivitäten werden auch im Marketo-Personendatensatz protokolliert.
+* Zu den Spalten gehören Name, Ergebnis, Notizen, Abrufzeit, Dauer und Link zur Aufzeichnung
+* Enthält eine Erweiterungskarte mit zusätzlichen Details wie „Anruf von“, „Angenommen von“, „Telefonnummer“ und „Status“
 
-**Registerkarte &quot;Aufgabe&quot;**
+**Registerkarte „Aufgabe“**
 
-* E-Mail-, Anruf-, InMail- und benutzerdefinierte Aufgaben, die erstellt und abgeschlossen wurden, stehen in diesem Tab zur Aufgabenverwaltung zur Verfügung. Möglichkeit zum Hinzufügen von Aufgaben
+* Erstellte und abgeschlossene E-Mail-, Anruf-, InMail- und benutzerdefinierte Aufgaben stehen auf dieser Registerkarte für die Aufgabenverwaltung zur Verfügung. Umfasst die Möglichkeit, Aufgaben hinzuzufügen
 * Automatisieren der Aufgabenerstellung mit Verkaufskampagnen
 * Synchronisieren von Aufgaben mit Salesforce
-* Protokollaufgaben im Abschnitt &quot;Salesforce-Aktivitätsverlauf&quot;
+* Aufgaben im Salesforce-Aktivitätsverlauf protokollieren
 
   ![](assets/sales-insight-actions-feature-overview-6.png)
 
 **Live-Feed**
 
-* Möglichkeit, Live-Updates zu Verkaufsaktivitäten zusammen mit der Funktion zum Andocken des Bildschirms anzuzeigen
-* Eingebettete Schaltflächen für E-Mails, Aufrufe und Kadenz ermöglichen es jedem Kunden, Einblicke zu erhalten.
+* Möglichkeit, Live-Updates zu Vertriebsaktivitäten zusammen mit der Bildschirm-Dockingfunktion anzuzeigen
+* Eingebettete E-Mail-, Anruf- und Kadenz-Schaltflächen machen jeden Kundeneinblick umsetzbar
 
 ## In Marketo verfügbare Funktionen {#features-available-in-marketo}
 
-In Marketo erfasste Verkaufsaktivitäten:
+Vertriebsaktivitäten, die in Marketo erfasst werden:
 
 * Verkaufs-E-Mail senden - Benutzer hat eine Verkaufs-E-Mail an einen Lead gesendet
-* E-Mail zum offenen Vertrieb - Lead öffnet eine E-Mail zum Vertrieb
-* Klicken Sie auf Sales Email - Lead klickt auf einen Link in einer Verkaufs-E-Mail
-* Antwort-E-Mail für Vertrieb - Lead beantwortet eine E-Mail für Vertrieb
-* Verkaufsaufruf empfangen - Lead erhielt einen Anruf von einem Verkäufer, der den Vertriebspartner nutzt.
-* Zu Vertriebskampagne hinzufügen - Lead wurde zu einer erstellten Verkaufskampagne hinzugefügt.
-* Aus Vertriebskampagne entfernt - Lead wurde aus einer erstellten Verkaufskampagne entfernt
+* Verkaufs-E-Mail öffnen - Lead hat eine gesendete Verkaufs-E-Mail geöffnet
+* Auf Verkaufs-E-Mail klicken - Lead hat auf einen Link in einer Verkaufs-E-Mail geklickt
+* E-Mail zum Verkauf beantwortet - Lead hat auf E-Mail zum Verkauf geantwortet
+* Verkaufsanruf empfangen - Der Lead hat einen Anruf von einem Vertriebsmitarbeiter über die Verkaufs-Wählhilfe erhalten.
+* Zur Verkaufskampagne hinzufügen - Lead wurde zu einer erstellten Verkaufskampagne hinzugefügt
+* Aus Vertriebskampagne entfernt - Lead wurde aus einer erstellten Vertriebskampagne entfernt
 
 Zu den Filtern und Triggern gehören:
 
 * Verkaufs-E-Mail senden
 * Geöffnete Verkaufs-E-Mail
-* angeklickte E-Mail zum Vertrieb
+* Verkaufs-E-Mail angeklickt
 * Hat auf Vertriebsemail geantwortet
 * Hat Verkaufsanruf empfangen
-* Zur Vertriebskampagne hinzugefügt
+* Zu Kampagne hinzugefügt
 * Aus Verkaufskampagne entfernt
 
   ![](assets/sales-insight-actions-feature-overview-7.png)

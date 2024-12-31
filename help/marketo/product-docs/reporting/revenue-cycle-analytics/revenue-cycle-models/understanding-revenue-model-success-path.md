@@ -1,7 +1,7 @@
 ---
 unique-page-id: 4718664
-description: Erfolgspfad für Umsatzmodelle - Marketo Docs - Produktdokumentation
-title: Erfolgspfad des Umsatzmodells verstehen
+description: Grundlagen zum Erfolgspfad zum Umsatzmodell - Marketo-Dokumente - Produktdokumentation
+title: Grundlagen zum Erfolgspfad des Umsatzmodells
 exl-id: aeb85e5e-0377-40b5-a7c9-ee9c1322ee66
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
@@ -11,41 +11,41 @@ ht-degree: 1%
 
 ---
 
-# Erfolgspfad des Umsatzmodells verstehen {#understanding-revenue-model-success-path}
+# Grundlagen zum Erfolgspfad des Umsatzmodells {#understanding-revenue-model-success-path}
 
 ## Erfolgspfad {#success-path}
 
-Im Modell ist der grüne Pfad, auch **Erfolgspfad** genannt, der optimale Pfad dafür, wie ein Lead linear zu einem geschlossenen/erfolgreichen Unternehmen wechselt.
+Im Modell ist der grüne Pfad, auch **Erfolgspfad** der optimale Pfad, wie ein Lead linear zu einem geschlossenen/gewonnenen Unternehmen übergeht.
 
 ![—](assets/image2015-6-12-17-3a12-3a18.png)
 
-Beispielschritte für einen Erfolgspfad:
+Beispielphasen auf einem Erfolgspfad:
 
-| **NAMEN DER ERFOLGSPFADSTAGUNG** | **DEFINITION** |
+| **NAME DER ERFOLGSPFADPHASE** | **DEFINITION** |
 |---|---|
-| **Neue Namen überprüfen** | Überprüfen Sie, ob neue Namen qualifiziert sind. |
-| **prospect** | Qualifizierte Interessenten, die noch nicht verkaufsbereit sind |
-| **Lead** | Marketing-qualifizierte Leads (&quot;sales ready&quot;) |
-| **Opportunity** | Vom Vertrieb akzeptierte Leads, aktiv arbeiten |
-| **Kunde** | Geschlossene Sonderangebote |
+| **Neue Namen überprüfen** | Überprüfen, ob neue Namen qualifiziert sind |
+| **Interessent** | Qualifizierte Interessenten, die noch nicht verkaufsbereit sind |
+| **Lead** | Vom Marketing qualifizierte Leads („verkaufsbereit„) |
+| **Opportunity** | Vom Verkauf akzeptierte Leads, aktiv arbeitend |
+| **Kunde** | Abgeschlossene gewonnene Angebote |
 
 >[!TIP]
 >
->Grün ist für Geld. Alles auf dem Weg des Grünen ist auf dem Weg zum Erfolg! Aus diesem Grund gibt es nur grüne Pfeile im [Erfolgspfad-Analyzer](using-the-success-path-analyzer.md).
+>Grün ist für Geld. Alles auf dem Weg der Grünen ist auf dem Weg zum Erfolg! Aus diesem Grund gibt es nur grüne Pfeile im [Success Path Analyzer](using-the-success-path-analyzer.md).
 
 ## Umwege {#detours}
 
-Da nicht alle Leads einem linearen &quot;Erfolgspfad&quot;folgen, sollten Sie auch Ihre &quot;Umstiegsphasen&quot;definieren, um Leads zu erfassen, die nicht qualifiziert sind oder die einige Runden der Pflege erfordern, bevor sie bereit sind. Beispiel:
+Da nicht alle Leads einem linearen „Erfolgspfad“ folgen, sollten Sie auch Ihre „Umleitungsstadien“ definieren, um Leads zu erfassen, die nicht qualifiziert sind oder die erst nach einigen Pflegerunden bereit sein müssen. Beispiel:
 
-| **DETOUR STAGE NAME** | **DEFINITION** |
+| **NAME DER UMLEITUNGSPHASE** | **DEFINITION** |
 |---|---|
-| **disqualifiziert** | Namen, die als nicht in Profil markiert sind |
-| **inactive** | Perspektiven, die nicht reagiert haben |
-| **Recycled** | Qualifiziert, aber benötigt mehr Pflege (in Verbindung mit der Perspektive) |
-| **Lost** | Verlorene Chancen (fortlaufende Pflege) |
+| **disqualifiziert** | Namen, die als nicht im Profil enthalten gekennzeichnet sind |
+| **Inaktiv** | Interessenten, die nicht mehr reagieren |
+| **Recycelt** | Qualifiziert, aber mit verstärkter Betreuung (in Verbindung mit dem potenziellen Kunden) |
+| **Verloren** | Verlorene Chancen (fortlaufende Pflege) |
 
 >[!TIP]
 >
->Diese befinden sich nicht auf dem grünen Pfad. Diese Schritte werden in der Erfolgspfad-Analyse nicht angezeigt.
+>Diese sind nicht auf dem grünen Weg. Diese Phasen werden nicht im Erfolgspfad-Analyzer angezeigt.
 
-So viel einfacher wird es sein, zu sehen, wie Leads in der Zukunft fließen werden! Grüß deinen neuen kleinen Freund von mir.
+So viel einfacher wird es sein zu sehen, wie Leads in Zukunft fließen werden! Grüß deinen neuen kleinen Freund.

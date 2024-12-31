@@ -12,35 +12,35 @@ ht-degree: 1%
 
 # Einrichten von MSI-Ansichten {#setting-up-msi-views}
 
-Durch die Installation des Plug-ins Sales Insight in Dynamics werden der Site-Map automatisch die Best-Bets- und zugehörigen Dashboards hinzugefügt. Wenn die Dashboards aus irgendeinem Grund nicht hinzugefügt werden, können Sie sie hier manuell hinzufügen.
+Durch die Installation des Sales Insight-Plug-ins in Dynamics werden automatisch die besten Wetten und zugehörigen Dashboards zur Sitemap hinzugefügt. Wenn die Dashboards aus irgendeinem Grund nicht hinzugefügt werden, erfahren Sie hier, wie Sie sie manuell hinzufügen.
 
-1. Klicken Sie in Dynamics auf das Zahnradsymbol und wählen Sie **Erweiterte Einstellungen** aus der Dropdownliste aus.
+1. Klicken Sie in Dynamics auf das Zahnradsymbol und wählen Sie **Erweiterte Einstellungen** aus der Dropdown-Liste aus.
 
-1. Klicken Sie oben links im Bildschirm auf **Einstellungen**. Wählen Sie unter &quot;Anpassung&quot;die Option **Anpassungen**.
+1. Klicken Sie oben links im Bildschirm auf **Einstellungen**. Wählen Sie unter Anpassung **Anpassungen** aus.
 
-1. Klicken Sie auf **Anpassen des Systems**.
+1. Klicken Sie **System anpassen**.
 
-1. Klicken Sie im Baum auf der linken Seite auf **Client-Erweiterungen** und doppelklicken Sie auf **Site-Zuordnung**.
+1. Klicken Sie in der Baumstruktur links auf **Client-Erweiterungen** und doppelklicken Sie auf **Siteübersicht**.
 
-1. Klicken Sie auf den Pfeil nach rechts, um zur nächsten Seite zu gelangen. Unter &quot;Verkauf&quot;sollte Marketo angezeigt werden. Ist dies nicht der Fall, stellen Sie sicher, dass Sie das Paket ordnungsgemäß importiert haben.
+1. Klicken Sie auf den Pfeil nach rechts, um zur nächsten Seite zu gelangen. Unter „Vertrieb“ sollte Marketo angezeigt werden. Andernfalls müssen Sie sicherstellen, dass Sie das Paket ordnungsgemäß importiert haben.
 
    >[!NOTE]
    >
-   >Unter Marketo sollten Sie Folgendes haben: Best-Bets, Meine E-Mail, Web-Aktivität und Anonyme Web-Aktivität. Wenn eines dieser Dashboards fehlt, klicken Sie auf das Pluszeichen (+) über &quot;Verkauf&quot;und fügen Sie es als Unterbereich hinzu.
+   >Unter Marketo sollten Sie Folgendes besitzen: Best Bets, Meine E-Mail, Web-Aktivität und Anonyme Web-Aktivität. Wenn eines dieser Dashboards fehlt, klicken Sie auf das Pluszeichen (+) über „Verkauf“ und fügen Sie es als Unterbereich hinzu.
 
-1. Klicken Sie auf ein Dashboard, um es auszuwählen. Geben Sie in der Spalte rechts für jede Spalte die entsprechenden Informationen ein. Sie können alle nicht aufgeführten Kategorien ignorieren.
+1. Klicken Sie auf ein Dashboard, um es auszuwählen. Geben Sie in der Spalte rechts für jede Komponente die entsprechenden Informationen ein. Sie können alle nicht aufgelisteten Kategorien ignorieren.
 
-   **Beste Einsätze**</br>
-URL: MainviewBests.html</br>
+   **Best Bets**</br>
+URL: mainviewBestbets.html</br>
 Symbol: /WebResources/mkt_/_MainView/_imgs/icons/bestbets.svg</br>
-ID: marketo_bests</br>
+ID: marketo_bestbets</br>
 Titel: Best Bets
 
    **Meine E-Mail**</br>
 URL: mkt_/MainViewMyEmail.html</br>
 Symbol: /WebResources/mkt_/_MainView/_imgs/icons/email.svg</br>
 ID: marketo_myemail</br>
-Titel: My Email
+Titel: Meine E-Mail
 
    **Web-Aktivität**</br>
 URL: mkt_/MainViewWebActivity.html</br>

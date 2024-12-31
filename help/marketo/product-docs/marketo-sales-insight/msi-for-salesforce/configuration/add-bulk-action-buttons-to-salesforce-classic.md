@@ -1,6 +1,6 @@
 ---
-description: Hinzufügen von Massen-Aktionsschaltflächen zu Salesforce Classic - Marketo Docs - Produktdokumentation
-title: Hinzufügen von Massen-Aktionsschaltflächen zu Salesforce Classic
+description: Hinzufügen von Massenaktionsschaltflächen zu Salesforce Classic - Marketo-Dokumente - Produktdokumentation
+title: Hinzufügen von Massenaktionsschaltflächen zu Salesforce Classic
 exl-id: ed3881ca-1ce6-469b-9b77-b8c35f28e847
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -10,21 +10,21 @@ ht-degree: 0%
 
 ---
 
-# Hinzufügen von Massen-Aktionsschaltflächen zu Salesforce Classic{#add-bulk-action-buttons-to-salesforce-classic}
+# Hinzufügen von Massenaktionsschaltflächen zu Salesforce Classic{#add-bulk-action-buttons-to-salesforce-classic}
 
-Sie können Ihren Salesforce-Layouts Marketo-Schaltflächen hinzufügen. Im Folgenden finden Sie ein Beispiel:
+Sie können Ihren Salesforce-Layouts Marketo-Schaltflächen hinzufügen. Hier ein Beispiel:
 
 ![](assets/add-bulk-action-buttons-to-salesforce-classic-1.png)
 
-1. Klicken Sie auf **Einrichten**. Suchen Sie nach &quot;Suchlayout&quot;und klicken Sie unter **Leads** auf &quot;**Layouts suchen**&quot;.
+1. Klicken Sie **Setup**. Suchen Sie nach „Such-Layout“ und klicken Sie auf **Such-**&quot; unter **Leads**.
 
    ![](assets/add-bulk-action-buttons-to-salesforce-classic-2.png)
 
-1. Klicken Sie in der Zeile **Leads - Listenansicht** auf **Bearbeiten** .
+1. Klicken Sie **Bearbeiten** in der Zeile **Leads-**).
 
    ![](assets/add-bulk-action-buttons-to-salesforce-classic-3.png)
 
-1. Fügen Sie die Schaltflächen **Zu Marketo-Kampagne hinzufügen**, **Marketo-E-Mail senden** und **Zu Überwachungsliste hinzufügen** zu den Schaltflächen **Ausgewählte Schaltflächen** und **Speichern** hinzu.
+1. Fügen Sie **Schaltflächen Zu Marketo-Kampagne hinzufügen**, **Marketo-E-Mail senden** und **Zu Überwachungsliste hinzufügen** zu den **Ausgewählte Schaltflächen** und **Speichern** hinzu.
 
    ![](assets/add-bulk-action-buttons-to-salesforce-classic-4.png)
 
@@ -36,4 +36,4 @@ Sie können Ihren Salesforce-Layouts Marketo-Schaltflächen hinzufügen. Im Folg
 
    >[!NOTE]
    >
-   >Marketo-Schaltflächen können den Opportunities nicht hinzugefügt werden.
+   >Sie können Marketo-Schaltflächen nicht zu Opportunities hinzufügen.

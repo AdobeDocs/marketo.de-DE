@@ -1,7 +1,7 @@
 ---
 unique-page-id: 4718651
-description: Informationen zum E-Mail-Analysebereich - Marketo-Dokumente - Produktdokumentation
-title: Der Bereich "E-Mail-Analyse"
+description: Grundlegendes zum E-Mail-Analysebereich - Marketo-Dokumente - Produktdokumentation
+title: Grundlegendes zum Bereich „E-Mail-Analyse“
 exl-id: a8219a4d-d240-432d-a7ef-bcfa0b4a82fa
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
@@ -11,52 +11,52 @@ ht-degree: 1%
 
 ---
 
-# Der Bereich &quot;E-Mail-Analyse&quot; {#understanding-the-email-analysis-area}
+# Grundlegendes zum Bereich „E-Mail-Analyse“ {#understanding-the-email-analysis-area}
 
-Der Bereich &quot;E-Mail-Analyse&quot;konzentriert sich auf E-Mail-Metriken. In diesem Artikel werden alle darin verfügbaren Berichte vorgestellt.
+Der Bereich E-Mail-Analyse konzentriert sich auf E-Mail-Metriken. Dieser Artikel stellt alle darin verfügbaren Berichte vor.
 
 >[!AVAILABILITY]
 >
->Dies ist für Benutzer mit dem Add-on Select Edition oder dem Add-on [Umsatz-Zyklusanalysen](https://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/) verfügbar. Detaillierte Informationen erhalten Sie vom zuständigen Vertriebsmitarbeiter.
+>Dies ist für Benutzende mit dem Add-on &quot;[ Edition“ oder &quot;](https://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/)&quot; verfügbar. Detaillierte Informationen erhalten Sie vom zuständigen Vertriebsmitarbeiter.
 
-## E-Mail-Klick-Aktivitäts-Heatraster {#email-click-activity-heat-grid}
+## Heatgrid für E-Mail-Klick-Aktivität {#email-click-activity-heat-grid}
 
-Dieser Bericht zeigt Ihnen, an welchem Wochentag und zu welcher Uhrzeit Ihre Leads auf E-Mails klicken. Je grüner die Kiste ist, desto mehr Klicks sind an diesem bestimmten Tag und zu dieser bestimmten Uhrzeit zu sehen. Der aktuelle Filter enthält alle E-Mails, die in den letzten sieben Tagen gesendet wurden. Die Zeit ist im CST-Format.
+Dieser Bericht zeigt Ihnen, an welchem Wochentag und zu welcher Tageszeit Ihre Leads auf E-Mails klicken. Je grüner das Kästchen, desto mehr Klicks an diesem bestimmten Tag und zu dieser Zeit. Der aktuelle Filter enthält alle E-Mails, die in den letzten 7 Tagen gesendet wurden. Die Zeit ist in CST.
 
 ![](assets/image2015-5-6-17-3a17-3a34.png)
 
-## E-Mail angeklickte Zeitverteilung {#email-clicked-time-distribution}
+## Zeitverteilung für angeklickte E-Mails {#email-clicked-time-distribution}
 
-Dieser Bericht zeigt Ihnen den Prozentsatz der E-Mail-Klicks insgesamt für jede Tageszeit. Der aktuelle Filter enthält alle E-Mails, die in den letzten sieben Tagen gesendet wurden. Die Zeit ist im CST-Format.
+Dieser Bericht zeigt den Prozentsatz der gesamten E-Mail-Klicks für jede Tageszeit an. Der aktuelle Filter enthält alle E-Mails, die in den letzten 7 Tagen gesendet wurden. Die Zeit ist in CST.
 
 ![](assets/image2015-5-6-17-3a20-3a55.png)
 
-## Rückgang der E-Mail-Klickrate {#email-click-rate-decay}
+## E-Mail-Klickrate Abfall {#email-click-rate-decay}
 
-Dieser Bericht zeigt Ihnen, wie hoch der Prozentsatz der E-Mail-Klicks insgesamt ist, die an dem Tag stattgefunden haben, an dem eine E-Mail gesendet wird, sowie an den darauf folgenden Tagen. Der aktuelle Filter enthält alle E-Mails, die vor 7 Tagen gesendet wurden.
+Dieser Bericht zeigt den Prozentsatz der gesamten E-Mail-Klicks an, die an dem Tag stattfanden, an dem eine E-Mail gesendet wurde, sowie an den folgenden Tagen. Der aktuelle Filter enthält alle E-Mails, die vor 7 Tagen gesendet wurden.
 
 ![](assets/image2015-5-6-17-3a26-3a50.png)
 
-## Offenes Aktivitäts-Heattraster per E-Mail {#email-open-activity-heat-grid}
+## E-Mail-Aktivitäts-Wärmenetz öffnen {#email-open-activity-heat-grid}
 
-Dieser Bericht zeigt Ihnen, an welchem Wochentag und zu welcher Tageszeit Ihre Leads E-Mails öffnen. Je grüner die Kiste ist, desto mehr wird an diesem bestimmten Tag und zu dieser bestimmten Uhrzeit geöffnet. Der aktuelle Filter enthält alle E-Mails, die in den letzten sieben Tagen gesendet wurden. Die Zeit ist im CST-Format.
+Dieser Bericht zeigt Ihnen, an welchem Wochentag und zu welcher Tageszeit Ihre Leads E-Mails öffnen. Je grüner die Kiste, desto mehr Öffnungen an diesem bestimmten Tag und zu dieser Zeit. Der aktuelle Filter enthält alle E-Mails, die in den letzten 7 Tagen gesendet wurden. Die Zeit ist in CST.
 
 ![](assets/image2015-5-6-17-3a30-3a35.png)
 
-## Abnahme der Öffnungsrate {#open-rate-decay}
+## Abklingrate {#open-rate-decay}
 
-Dieser Bericht zeigt Ihnen, wie hoch der Prozentsatz der E-Mail-Öffnungen ist, die an dem Tag, an dem eine E-Mail gesendet wird, und an den darauf folgenden Tagen stattgefunden haben. Der aktuelle Filter enthält alle E-Mails, die vor 7 Tagen gesendet wurden.
+Dieser Bericht zeigt an, wie viel Prozent der gesamten E-Mail-Öffnungen an demselben Tag stattfanden, an dem eine E-Mail gesendet wurde, sowie an nachfolgenden Tagen. Der aktuelle Filter enthält alle E-Mails, die vor 7 Tagen gesendet wurden.
 
 ![](assets/image2015-5-6-17-3a37-3a25.png)
 
-## Open Time Distribution {#open-time-distribution}
+## Offene Zeitverteilung {#open-time-distribution}
 
-Dieser Bericht zeigt Ihnen den Prozentsatz der Gesamt-E-Mail-Öffnungen für jede Tageszeit. Der aktuelle Filter enthält alle E-Mails, die in den letzten sieben Tagen gesendet wurden. Die Zeit ist im CST-Format.
+Dieser Bericht zeigt den Prozentsatz der gesamten E-Mail-Öffnungen für jede Tageszeit. Der aktuelle Filter enthält alle E-Mails, die in den letzten 7 Tagen gesendet wurden. Die Zeit ist in CST.
 
 ![](assets/image2015-5-6-17-3a39-3a15.png)
 
-## Gesendetes Aktivitäts-Heattraster {#sent-activity-heat-grid}
+## Wärmenetz der gesendeten Aktivität {#sent-activity-heat-grid}
 
-Dieser Bericht zeigt Ihnen, an welchem Wochentag und zu welcher Uhrzeit Sie Ihre E-Mails versenden. Je grüner die Box ist, desto mehr gesendete E-Mails an dem jeweiligen Tag und zur bestimmten Uhrzeit. Der aktuelle Filter enthält alle E-Mails, die in den letzten sieben Tagen gesendet wurden. Die Zeit ist im CST-Format.
+Dieser Bericht zeigt an, an welchem Wochentag und zu welcher Uhrzeit Sie Ihre E-Mails versenden. Je grüner das Kästchen, desto mehr E-Mails werden an diesem bestimmten Tag und zu dieser Uhrzeit gesendet. Der aktuelle Filter enthält alle E-Mails, die in den letzten 7 Tagen gesendet wurden. Die Zeit ist in CST.
 
 ![](assets/seven.png)

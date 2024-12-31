@@ -12,7 +12,7 @@ ht-degree: 1%
 
 # SMS-Glossar {#sms-glossary}
 
-Im Folgenden finden Sie einige häufig verwendete Begriffe, auf die Sie bei der Verwendung von Vibes SMS-Nachrichten mit Marketo Engage stoßen.
+Im Folgenden finden Sie einige allgemeine Begriffe, die bei der Verwendung von Vibes-SMS-Nachrichten mit Marketo Engage auftreten können.
 
 <table>
 <thead>
@@ -24,85 +24,85 @@ Im Folgenden finden Sie einige häufig verwendete Begriffe, auf die Sie bei der 
 <tbody>
   <tr>
     <td>Akquisekampagne</td>
-    <td>Eine Kampagne zum Erwerb neuer Abonnenten auf Ihren Abonnementlisten. Ein Abonnent kann über ein Marketo-Webformular oder durch SMS zu einer Akquisekampagne hinzugefügt werden.</td>
+    <td>Eine Kampagne zur Akquise neuer Abonnenten auf Ihren Abonnement-Listen. Ein Abonnent kann einer Akquisekampagne über ein Marketo-Web-Formular oder durch SMS an ein Keyword hinzugefügt werden.</td>
   </tr>
   <tr>
     <td>Kampagnen-Manager</td>
-    <td>In Campaign Manager auf der Plattform "Vibes"können Sie eine Abonnementliste und eine Akquisekampagne einrichten. Benutzer mit einer vollständigen Vibes-Plattformlizenz haben Zugriff auf zusätzliche Kampagnentypen.</td>
+    <td>Campaign Manager befindet sich auf der Vibes-Plattform, wo Sie eine Abonnement-Liste und eine Akquise-Kampagne einrichten können. Benutzer mit einer vollständigen Vibes Platform-Lizenz haben Zugriff auf zusätzliche Kampagnentypen.</td>
   </tr>
   <tr>
     <td>Unternehmensschlüssel</td>
-    <td>Der company_key ist eine eindeutige alphanumerische Kennung für Ihr Plattformkonto. Wenn Sie über mehrere Unternehmenskonten in der Vibes-Plattform verfügen (z. B. untergeordnete Konten), können Sie über mehrere company_keys verfügen. Jede Instanz von Marketo Engage kann nur einem Vibes company_key zugeordnet werden.</td>
+    <td>Der company_key ist eine eindeutige alphanumerische Kennung für Ihr Platform-Konto. Wenn Sie mehrere Unternehmenskonten in der Vibes-Plattform haben (z. B. untergeordnete Konten), können Sie mehrere company_keys haben. Jede Marketo Engage-Instanz kann nur einem Vibes-Unternehmensschlüssel zugeordnet werden.</td>
   </tr>
   <tr>
-    <td>CTA (Aktionsaufruf)</td>
-    <td>Digitale oder physische Beschilderung oder verbale Skripte zum Erwerb von Abonnenten in einem wiederkehrenden Textnachrichtenprogramm oder einer Abonnementliste. Können online, in sozialen Medien, in E-Mails, in Druckform usw. platziert werden.</td>
+    <td>CTA (Handlungsaufforderung)</td>
+    <td>Digitale oder physische Beschilderung oder verbales Script zur Aufnahme von Abonnenten in ein wiederkehrendes Textnachrichtenprogramm oder Abonnementliste. Kann online, in sozialen Medien, in E-Mails, in gedruckten Medien usw. platziert werden.</td>
   </tr>
   <tr>
-    <td>Benutzerdefinierte kurze Domäne</td>
-    <td>Wenn Sie den Link-Shortener "Vibes"verwenden, wird die gekürzte URL standardmäßig unter der kurzen URL "Vibes"angezeigt: https://vbs.cm/xxxxxx. Eine benutzerdefinierte kurze Domäne ist eine Domäne, die für Ihre Marke eindeutig ist. <a href="https://developer-platform.vibes.com/docs/creating-a-custom-short-domain">Erfahren Sie mehr über benutzerdefinierte kurze Domänen</a>.<p>
-    Dies gilt nur für Nachrichten, die von der Vibes-Plattform gesendet werden, insbesondere Akquise-Kampagnennachrichten und Standardnachrichten mit Kurzwahlnummern.<p>
-    Es wird empfohlen, den Marketo-URL-Shortener zu verwenden, um Klickdaten in Ihrem Marketo-Programm zu haben.</td>
+    <td>Benutzerdefinierte kurze Domain</td>
+    <td>Wenn Sie den gekürzten Link Vibes verwenden, wird die gekürzte URL standardmäßig unter der kurzen URL Vibes angezeigt: https://vbs.cm/xxxxxx. Eine benutzerdefinierte kurze Domain ist eine Domain, die eindeutig für Ihre Marke ist. <a href="https://developer-platform.vibes.com/docs/creating-a-custom-short-domain">Weitere Informationen zu benutzerdefinierten kurzen Domains</a>.<p>
+    Dies gilt nur für Nachrichten, die von der Vibes-Plattform gesendet werden, insbesondere für die Akquise-Kampagnen-Nachrichten und die Standard-Kurzwahlnummern.<p>
+    Der Marketo-URL-Kürzer wird empfohlen, um Klickdaten in Ihrem Marketo-Programm zu haben.</td>
   </tr>
   <tr>
-    <td>Standardmeldungen</td>
-    <td>Obligatorische Meldungen für die Kurzwahlnummer zur Beantwortung von HELP-, STOP- und nicht erkannten Nachrichtenanfragen.</td>
+    <td>Standardnachrichten</td>
+    <td>Obligatorische Nachrichten für die Kurzwahlnummer, um auf HILFE-, STOP- und nicht erkannte Nachrichtenanfragen zu antworten.</td>
   </tr>
   <tr>
     <td>Verbindung trennen</td>
-    <td>Trennzeichen sind eine Form des Opt-outs, da die Mobiltelefonnummer aus einem Mobilfunknetz entfernt wird. Gründe für eine Abschaltung sind unter anderem die vollständige Schließung eines Kontos, das Auslaufen eines Guthabenkontos oder die Streichung der Nummer aus dem Betreibernetz aus anderen unbekannten Gründen. Mobiltelefonnummern, die getrennt und nicht auf einen anderen Mobilnetzbetreiber portiert werden, werden von allen Abonnementlisten auf der Vibes-Plattform abgemeldet.</td>
+    <td>Trennungen sind eine Form des Opt-outs, da die Mobilfunknummer aus einem Betreibernetz entfernt wird. Gründe für eine Unterbrechung sind: Ein Konto wurde vollständig geschlossen, einem Prepaid-Konto ging das Geld aus oder die Nummer wurde aus anderen unbekannten Gründen aus dem Betreibernetz entfernt. Mobiltelefonnummern, die nicht mit einem anderen Mobilnetzbetreiber verbunden sind, werden von allen Abonnementlisten in der Vibes-Plattform abgemeldet.</td>
   </tr>
   <tr>
-    <td>Double Opt-in</td>
-    <td>Eine Akquisemethode, bei der ein potenzieller Abonnent seine Zustimmung zum Hinzufügen zu einer Abonnementliste mit einem Antwortbefehl wie "Y"oder seiner Postleitzahl bestätigen muss. Die Verwendung einer doppelten Anmeldeaufforderung kann Ihnen bei der Einhaltung der Richtlinien für den staatlichen und föderalen Textnachrichtenversand helfen.</td>
+    <td>Double-Opt-in</td>
+    <td>Eine Akquise-Methode, bei der ein potenzieller Abonnent seine Zustimmung zum Hinzufügen zu einer Abonnement-Liste mit einem Antwortbefehl wie „Y“ oder seiner Postleitzahl bestätigen muss. Die Verwendung einer doppelten Opt-in-Eingabeaufforderung kann Ihnen bei der Einhaltung der bundesstaatlichen und bundesstaatlichen Richtlinien für Textnachrichten helfen.</td>
   </tr>
   <tr>
     <td>Veranstaltung</td>
-    <td>Ein Ereignis ist ein definiertes Ereignis, das an die Vibes-Plattform gesendet und zum Trigger API-gesteuerter Aktionen verwendet werden kann, einschließlich Nachrichtensendungen. Jedes Ereignis enthält ereignisspezifische Daten, einschließlich event_type, mit denen bestimmt wird, welcher API-ausgelösten Nachrichtenkampagne es entspricht. Die Ereignis-API kann über Webhook in Marketo Engage ausgelöst werden. Weitere Informationen finden Sie in der <a href="https://developer-platform.vibes.com/reference/event-api">Ereignis-API-Referenz</a>.</td>
+    <td>Ein Ereignis ist ein definiertes Ereignis, das an die Vibes-Plattform gesendet und für Trigger-API-ausgelöste Aktionen, einschließlich Nachrichtensendungen, verwendet werden kann. Jedes Ereignis enthält ereignisspezifische Daten, einschließlich event_type , mit denen bestimmt wird, welcher API-ausgelösten Nachrichtenkampagne es entspricht. Die Ereignis-API kann über einen Webhook im Marketo Engage ausgelöst werden. Weitere Informationen finden Sie in unserer <a href="https://developer-platform.vibes.com/reference/event-api">Ereignis-API-</a>.</td>
   </tr>
   <tr>
     <td>Keyword</td>
-    <td>Ein kurzes Wort oder eine alphanumerische Zeichenfolge, die vom Verbraucher an die Kurzwahlnummer gesendet wird, um ein mobiles Erlebnis zu initiieren.</td>
+    <td>Ein kurzes Wort oder eine alphanumerische Zeichenfolge, die vom Kunden an die Kurzwahlnummer gesendet wird, um ein mobiles Erlebnis zu initiieren.</td>
   </tr>
   <tr>
     <td>Long Code (10DLC)</td>
-    <td>Eine Absender-ID, mit der zwischen Marke und Verbraucher Nachrichten in beide Richtungen gesendet werden. US-lange Codes sind 10 numerische Ziffern.</td>
+    <td>Eine Absender-ID, von der aus bidirektionale Nachrichten zwischen der Marke und dem Verbraucher gesendet werden. US-Langcodes sind 10 numerische Ziffern.</td>
   </tr>
   <tr>
     <td>MDN</td>
-    <td>Mobiltelefonnummer oder Telefonnummer einer Person. MDN- und Mobiltelefonnummern sind in Marketo keine eindeutigen Kennungen.</td>
+    <td>Mobiltelefonnummer oder die Telefonnummer einer Person. MDN- und Mobiltelefonnummern sind in Marketo keine eindeutigen Kennungen.</td>
   </tr>
   <tr>
-    <td>Mobile Datenbank</td>
-    <td>Die mobile Datenbank ist die Datenbank, in der Vibes Abonnentendaten speichert. Jeder Abonnent verfügt über einen eindeutigen "Personendatensatz", in dem die Mobiltelefonnummer und alle zugehörigen benutzerdefinierten Felder ausgefüllt sind.</td>
+    <td>Mobile-Datenbank</td>
+    <td>Die Mobile-Datenbank ist die Datenbank, in der die Abonnentendaten von Vibes gespeichert werden. Jeder Abonnent verfügt über einen eindeutigen „Personendatensatz“, in dem die Mobilfunknummer und alle zugehörigen benutzerdefinierten Felder ausgefüllt sind.</td>
   </tr>
   <tr>
-    <td>Teilnehmer</td>
-    <td>Eine Person, die über eine oder mehrere mobile Interaktionen (z. B. das Senden einer Textnachricht) mit Ihrem Mobilprogramm verfügt, sich jedoch nicht für eine Abonnementliste angemeldet hat.</td>
+    <td>Teilnehmer/in</td>
+    <td>Eine Person, die über eine oder mehrere mobile Interaktionen (z. B. das Senden einer Textnachricht) mit Ihrem mobilen Programm verfügt, sich jedoch nicht für eine Abonnement-Liste angemeldet hat.</td>
   </tr>
   <tr>
-    <td>Personenaufzeichnung</td>
-    <td>Ein Personendatensatz ist eine Sammlung von Daten für eine bestimmte Mobiltelefonnummer. Jedem Personendatensatz wird auch ein eindeutiger person_key zur Identifizierung zugewiesen. Marketo-IDs werden über das Feld external_person_id mit Vibes verknüpft. Weitere Informationen zu Personendatensätzen finden Sie in der Dokumentation zur Personen-API </a> von <a href="https://developer-platform.vibes.com/reference/person-api">Vibes Person.</td>
+    <td>Personendatensatz</td>
+    <td>Ein Personendatensatz ist eine Sammlung von Daten für eine bestimmte Mobiltelefonnummer. Jedem Personendatensatz wird außerdem ein eindeutiger Personenschlüssel zur Identifizierung zugewiesen. Marketo-IDs werden über das Feld external_person_id mit Vibes verknüpft. Weitere Informationen zu Personendatensätzen finden Sie in der <a href="https://developer-platform.vibes.com/reference/person-api">Dokumentation zur Personen-API</a>.</td>
   </tr>
   <tr>
     <td>Kurzwahlnummer</td>
-    <td>Eine Absender-ID, mit der zwischen Marke und Verbraucher Nachrichten in beide Richtungen gesendet werden. US-Kurzwahlnummern sind 5 bis 6 numerische Ziffern. Kanadische Kurzwahlnummern sind 4 bis 6 numerische Ziffern. Die Marketo LaunchPoint-Integration in Vibes unterstützt eine Kurzwahlnummer pro Instanz.</td>
+    <td>Eine Absender-ID, von der aus bidirektionale Nachrichten zwischen der Marke und dem Verbraucher gesendet werden. US-Kurzwahlnummern sind 5-6 numerische Ziffern. Kanadische Kurzwahlnummern sind 4-6 numerische Ziffern. Die Marketo LaunchPoint-Integration in Vibes unterstützt eine Kurzwahlnummer pro Instanz.</td>
   </tr>
   <tr>
     <td>SMS</td>
-    <td>Kurznachrichtendienst. Dies ist eine Nachricht, die nur Text enthält.</td>
+    <td>Short Message Service. Dies ist eine Nachricht, die nur Text enthält.</td>
   </tr>
   <tr>
-    <td>Abonnementlisten</td>
-    <td>Eine Liste der Mobiltelefonnummern (und der zugehörigen Personendatensätze), die die Zustimmung zum Erhalt wiederkehrender Nachrichten von Ihrem Programm gegeben haben.</td>
+    <td>Abonnement-Listen</td>
+    <td>Eine Liste der Mobilfunknummern (und der zugehörigen Personendatensätze), die dem Empfang wiederkehrender Nachrichten von Ihrem Programm zugestimmt haben.</td>
   </tr>
   <tr>
     <td>Abonnent</td>
-    <td>Eine Mobiltelefonnummer, die für eine oder mehrere Abonnementlisten angemeldet ist.</td>
+    <td>Eine Mobiltelefonnummer, die von einer oder mehreren Abonnement-Listen abonniert wurde.</td>
   </tr>
   <tr>
-    <td>Vibes Platform</td>
-    <td>Die Website, bei der Sie sich zur Verwaltung Ihrer Kampagnen anmelden. Rufen Sie <a href="https://nexus.us.vibes.com/">https://nexus.us.vibes.com/</a> auf, um auf die Plattform "Vibes"zuzugreifen.</td>
+    <td>Vibes-Plattform</td>
+    <td>Die Website, bei der Sie sich anmelden, um Ihre Kampagnen zu verwalten. Wechseln Sie zu <a href="https://nexus.us.vibes.com/">https://nexus.us.vibes.com/</a>, um auf die Vibes-Plattform zuzugreifen.</td>
   </tr>
 </tbody>
 </table>

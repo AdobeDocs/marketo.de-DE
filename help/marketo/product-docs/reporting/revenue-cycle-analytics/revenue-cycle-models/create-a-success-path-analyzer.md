@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360411
-description: Erstellen eines Erfolgspfad-Analyzers - Marketo Docs - Produktdokumentation
+description: Erstellen eines Erfolgspfad-Analyzers - Marketo-Dokumente - Produktdokumentation
 title: Erstellen eines Erfolgspfad-Analyzers
 exl-id: bcf3075c-4de6-428c-aebf-8191076169c0
 feature: Reporting, Revenue Cycle Analytics
@@ -13,33 +13,33 @@ ht-degree: 0%
 
 # Erstellen eines Erfolgspfad-Analyzers {#create-a-success-path-analyzer}
 
-Erhalten Sie eine visuelle Darstellung der Geschwindigkeit und des Durchflusses durch Ihr Umsatzzyklusmodell.
+Erhalten Sie eine visuelle Darstellung von Geschwindigkeit und Fluss durch Ihr Umsatzzyklusmodell.
 
 >[!PREREQUISITES]
 >
->[Neues Umsatzmodell erstellen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
+>[Erstellen eines neuen Umsatzmodells](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
 
-1. Klicken Sie auf die Kachel **Analytics** .
+1. Klicken Sie auf **Kachel** Analytics“.
 
    ![](assets/one.png)
 
-1. Klicken Sie auf das Symbol **Erfolgspfad-Analyzer** .
+1. Klicken Sie auf **Symbol** Erfolgspfadanalysator“.
 
    ![](assets/two.png)
 
    >[!NOTE]
    >
-   >Wenn Sie eine Warnung erhalten, dass im angegebenen Zeitraum keine Daten gefunden wurden, klicken Sie einfach auf **Schließen** , um den Zeitrahmen zu ändern. Wenn Sie nicht aufgefordert werden, aber den Zeitrahmen ändern möchten, gehen Sie zu **Einrichtung** und doppelklicken Sie auf **Zeitrahmen**.
+   >Wenn Sie eine Warnung erhalten, dass im angegebenen Zeitrahmen keine Daten gefunden wurden, klicken Sie einfach auf **Schließen**, um Ihren Zeitrahmen zu ändern. Wenn Sie nicht dazu aufgefordert werden, aber Ihren Zeitrahmen ändern möchten, gehen Sie zu **Setup** und doppelklicken Sie auf **Zeitrahmen**.
 
-1. Wenn keine Daten vorhanden sind oder Sie den Zeitrahmen ändern, wählen Sie einen aus der Dropdown-Liste aus und klicken Sie auf Speichern.
+1. Wenn Sie keine Daten hatten oder Ihren Zeitrahmen ändern, wählen Sie einen aus der Dropdown-Liste aus und klicken Sie auf Speichern.
 
    ![](assets/timeframe.png)
 
    >[!TIP]
    >
-   >Um einen bestimmten Bereich auszuwählen, wählen Sie **Benutzerdefiniert** und verwenden Sie die Felder **Von** und **bis** .
+   >Um einen bestimmten Bereich auszuwählen, wählen Sie **Benutzerdefiniert** und verwenden Sie die Felder **Von** und **Bis**.
 
-1. Wenn Sie mehr als ein Umsatzzyklusmodell haben, wählen Sie das Modell auf der Registerkarte **Setup** aus.
+1. Wenn Sie über mehr als ein Umsatzzyklusmodell verfügen, wählen Sie das gewünschte Modell auf der Registerkarte **Einrichtung** aus.
 
    ![](assets/four.png)
 
@@ -47,15 +47,15 @@ Erhalten Sie eine visuelle Darstellung der Geschwindigkeit und des Durchflusses 
 
    ![](assets/five.png)
 
-1. Klicken Sie auf die Registerkarte **Erfolgspfad-Analyzer** .
+1. Klicken Sie auf **Registerkarte** Erfolgspfadanalysator“.
 
    ![](assets/success-tab.png)
 
-Jetzt können Sie Bewegung von jeder Bühne zur nächsten erforschen!
+Jetzt können Sie die Bewegung von jedem Stadium zum nächsten erkunden!
 
 >[!TIP]
 >
->Willst du deinen Bericht speichern? Klicken Sie auf die Dropdownliste **Analyzer-Aktionen** und wählen Sie **Speichern unter** aus.
+>Möchten Sie Ihren Bericht speichern? Klicken Sie auf **Analyzer Aktionen** und wählen Sie **Speichern unter**.
 
 >[!MORELIKETHIS]
 >

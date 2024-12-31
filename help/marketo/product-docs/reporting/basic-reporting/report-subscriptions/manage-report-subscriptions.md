@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2359991
-description: Berichtabos verwalten - Marketo-Dokumente - Produktdokumentation
-title: Berichtanmeldungen verwalten
+description: Berichtsabonnements verwalten - Marketo-Dokumente - Produktdokumentation
+title: Berichtabonnements verwalten
 exl-id: 0d303b1c-3cc9-42f6-a76a-db6a022c471a
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,46 +11,46 @@ ht-degree: 1%
 
 ---
 
-# Berichtanmeldungen verwalten {#manage-report-subscriptions}
+# Berichtabonnements verwalten {#manage-report-subscriptions}
 
-Berichtanmeldungen konfigurieren und löschen.
+Konfigurieren und Löschen von Berichtsabonnements.
 
-1. Wechseln Sie zum Bereich **Analytics** .
+1. Wechseln Sie zum Bereich **Analytics**.
 
    ![](assets/image2014-9-16-10-3a35-3a25.png)
 
-1. Klicken Sie auf die Registerkarte **Abonnements**.
+1. Klicken Sie auf **Registerkarte** Abonnements“.
 
    ![](assets/image2014-9-16-10-3a35-3a32.png)
 
-   Auf dieser Seite werden die Abonnements für alle Berichte in Ihrem Konto angezeigt, gruppiert nach [Berichtstyp](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md). Dazu gehören [Abonnements für grundlegende Berichte](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md) und für Berichte zu Umsatzzyklen-Explorer.
+   Auf dieser Seite werden die Abonnements aller Berichte in Ihrem Konto nach [Berichtstyp](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md) angezeigt. Dazu gehören [Abonnements für Basisberichte](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md) und Umsatzzyklus-Explorer-Berichte.
 
    >[!TIP]
    >
-   >Sie können Abonnements für einen einzelnen Bericht auch in **Marketingaktivitäten** verwalten. Wählen Sie den Bericht aus und klicken Sie auf die Registerkarte **Abonnements** .
+   >Sie können auch Abonnements für einen einzelnen Bericht in **Marketing-Aktivitäten“**. Wählen Sie den Bericht aus und klicken Sie auf **Registerkarte** Abonnements“.
 
-   Um zu ändern, wie oft ein Bericht per E-Mail versendet wird, klicken Sie auf das Feld Häufigkeit und wählen Sie eine neue Option aus dem Dropdown-Menü aus.
+   Um zu ändern, wie oft ein Bericht per E-Mail gesendet wird, klicken Sie auf das Feld Häufigkeit und wählen Sie eine neue Option aus dem Dropdown-Menü aus.
 
    ![](assets/image2014-9-16-10-3a36-3a4.png)
 
-1. Um die E-Mail-Adressen in einem Abonnement zu ändern, klicken Sie auf das Feld **E-Mail-Empfänger** und bearbeiten Sie die E-Mail-Adressen.
+1. Um die E-Mail-Adressen in einem Abonnement zu ändern, klicken Sie auf das Feld **E-Mail** Empfänger und bearbeiten Sie die E-Mail-Adressen.
 
    ![](assets/image2014-9-16-10-3a36-3a11.png)
 
    >[!TIP]
    >
    >* Verwenden Sie Kommas zwischen E-Mail-Adressen.
-   >* Um Ihre Änderungen zu speichern, klicken Sie in einen Bereich _außerhalb_ der Abonnementliste.
+   >* Um Ihre Änderungen zu speichern, klicken Sie in einen Bereich _außerhalb_ der Abonnement-Liste.
 
-   Außerdem können Sie:
+   Alternativ können Sie auch folgendermaßen vorgehen:
 
-   * Klicken Sie auf die Schaltfläche **Anzeigen** , um einen Bericht zu öffnen.
-   * Deaktivieren Sie das Kontrollkästchen **Aktiv** , um das Abonnement zu deaktivieren.
+   * Klicken Sie auf **Ansicht**, um einen Bericht zu öffnen.
+   * Deaktivieren Sie das **Aktiv**-Kontrollkästchen, um das Abonnement zu deaktivieren.
    * Klicken Sie auf das Feld **Zusammenfassung** und bearbeiten Sie es, um zu ändern, wie viele Vorschauzeilen in der E-Mail angezeigt werden.
-   * Deaktivieren Sie das Kontrollkästchen **Excel** , um Berichtszusammenfassungen ohne die Tabellenanlage zu senden.
-   * Klicken Sie auf die Schaltfläche **Senden** , um die Bericht-E-Mail sofort zu senden.
+   * Deaktivieren Sie das **Excel**-Kontrollkästchen, um Berichtszusammenfassungen ohne Tabellenanhang zu senden.
+   * Klicken Sie auf **Senden**, um die Berichts-E-Mail sofort zu senden.
 
-1. Um ein Abonnement ganz zu löschen, wählen Sie die Zeile aus und klicken Sie auf **Abonnement löschen**.
+1. Um ein Abonnement vollständig zu löschen, wählen Sie die Zeile aus und klicken Sie auf **Abonnement löschen**.
 
    ![](assets/image2014-9-16-10-3a36-3a38.png)
 
@@ -60,5 +60,5 @@ Berichtanmeldungen konfigurieren und löschen.
 
    >[!MORELIKETHIS]
    >
-   >* [Einen einfachen Bericht abonnieren](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
-   >* [Abonnieren eines Berichts über den Umsatz-Explorer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
+   >* [Abonnieren eines Basisberichts](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
+   >* [Abonnieren eines Revenue Explorer-Berichts](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)

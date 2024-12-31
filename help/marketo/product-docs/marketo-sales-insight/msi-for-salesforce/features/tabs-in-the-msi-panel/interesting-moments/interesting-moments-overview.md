@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2949720
-description: Interessante Momente - Überblick - Marketo Docs - Produktdokumentation
+description: Überblick über Interessante Momente - Marketo-Dokumente - Produktdokumentation
 title: Interessante Momente - Überblick
 exl-id: 6611fb4b-fbc7-42ad-b26e-543a79798ff1
 feature: Marketo Sales Insights
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Interessante Momente - Überblick {#interesting-moments-overview}
 
-Sie können den interessanten Moment-Flow-Schritt nutzen, um Ihrem Verkaufsteam einen Einblick in die coolen Dinge zu geben, die Ihre Leads in einer Smart-Kampagne machen.
+Sie können den interessanten Moment-Flow-Schritt verwenden, um Ihrem Vertriebsteam Einblicke in die coolen Dinge zu geben, die Ihre Leads in einer intelligenten Kampagne tun.
 
 ![](assets/image2016-1-27-11-3a1-3a53.png)
 
-1. Wählen Sie den interessanten Moment-Typ aus, den Sie verwenden möchten.
+1. Wählen Sie den interessanten Momententyp aus, den Sie verwenden möchten.
 
    ![](assets/image2014-9-23-16-3a30-3a33.png)
 
@@ -29,9 +29,9 @@ Sie können den interessanten Moment-Flow-Schritt nutzen, um Ihrem Verkaufsteam 
 >
 >**Weniger ist mehr**. Arbeiten Sie mit Ihrem Verkaufsteam zusammen, um sicherzustellen, dass interessante Momente tatsächlich interessant sind.
 
-Sie können auch Token in interessanten Momenten verwenden, um wirklich nützliche dynamische Beschreibungen zu erstellen.
+Sie können Token auch in interessanten Momenten verwenden, um wirklich nützliche dynamische Beschreibungen zu erstellen.
 
 >[!MORELIKETHIS]
 >
->* [Verwenden interessanter Momente](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)
+>* [Mit interessanten Momenten](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)
 >* [Token für interessante Momente](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)

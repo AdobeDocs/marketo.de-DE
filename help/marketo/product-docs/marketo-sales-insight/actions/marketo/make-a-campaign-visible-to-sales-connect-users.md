@@ -1,6 +1,6 @@
 ---
-description: Sichtbarmachen einer Kampagne für Sales Connect-Benutzer - Marketo Docs - Produktdokumentation
-title: Sichtbarkeit einer Kampagne für Benutzer von Sales Connect
+description: Eine Kampagne für Sales Connect-Benutzende sichtbar machen - Marketo-Dokumente - Produktdokumentation
+title: Kampagne für Sales Connect-Benutzer sichtbar machen
 hide: true
 hidefromtoc: true
 exl-id: 223baca3-159e-4f0d-b26f-f4c924a39fc3
@@ -12,6 +12,6 @@ ht-degree: 3%
 
 ---
 
-# Sichtbarkeit einer Kampagne für Benutzer von Sales Connect {#make-a-campaign-visible-to-sales-connect-users}
+# Kampagne für Sales Connect-Benutzer sichtbar machen {#make-a-campaign-visible-to-sales-connect-users}
 
 Text

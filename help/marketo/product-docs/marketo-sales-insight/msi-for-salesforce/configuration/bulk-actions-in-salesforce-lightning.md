@@ -1,7 +1,7 @@
 ---
 unique-page-id: 37356282
-description: Massenaktionen in Salesforce-Blitzen - Marketo-Dokumente - Produktdokumentation
-title: Massenaktionen beim Salesforce-Blitzen
+description: Massenaktionen in Salesforce Lightning - Marketo-Dokumente - Produktdokumentation
+title: Massenaktionen in Salesforce Lightning
 exl-id: 8e07e870-158f-4072-8122-9f4b440f5f7c
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,31 +11,31 @@ ht-degree: 1%
 
 ---
 
-# Massenaktionen beim Salesforce-Blitzen {#bulk-actions-in-salesforce-lightning}
+# Massenaktionen in Salesforce Lightning {#bulk-actions-in-salesforce-lightning}
 
-So richten Sie Massenaktionen in Salesforce Lightning ein.
+Gehen Sie wie folgt vor, um Massenaktionen in Salesforce Lightning einzurichten.
 
-1. Klicken Sie in Salesforce auf das Symbol &quot;Einrichtung&quot;und wählen Sie **Einrichtung** aus.
+1. Klicken Sie in Salesforce auf das Symbol Setup und wählen Sie **Setup** aus.
 
    ![](assets/bulk-actions-in-salesforce-lightning-1.png)
 
-1. Klicken Sie auf die Registerkarte **Objektmanager**.
+1. Klicken Sie auf die **Objekt-Manager**-Registerkarte.
 
    ![](assets/bulk-actions-in-salesforce-lightning-2.png)
 
-1. Suchen und wählen Sie die Bezeichnung **Lead** aus.
+1. Suchen Sie die Beschriftung **Lead** und wählen Sie sie aus.
 
    ![](assets/bulk-actions-in-salesforce-lightning-3.png)
 
-1. Klicken Sie auf **Layouts für Salesforce Classic durchsuchen**.
+1. Klicken Sie **Layouts für Salesforce Classic suchen**.
 
    ![](assets/bulk-actions-in-salesforce-lightning-4.png)
 
-   Suchen Sie das Layout Listenansicht . Klicken Sie auf das Dropdown-Menü rechts und wählen Sie **Bearbeiten** aus.
+   Suchen des Layouts der Listenansicht. Klicken Sie auf das Dropdown-Menü rechts und wählen Sie **Bearbeiten**.
 
    ![](assets/bulk-actions-in-salesforce-lightning-5.png)
 
-1. Wählen Sie unter &quot;Benutzerdefinierte Schaltflächen&quot;die Optionen **Zu Marketo Campaign hinzufügen (Blitzen)** und **Marketo-E-Mail senden (Blitzen)** aus. Klicken Sie auf die Schaltfläche **Hinzufügen** .
+1. Suchen Sie unter „Benutzerdefinierte Schaltflächen“ nach „Zu Marketo Campaign hinzufügen **und wählen Sie diese Option aus** und **E-Mail an Marketo senden (Blitz)**. Klicken Sie auf die **Hinzufügen**-Schaltfläche.
 
    ![](assets/bulk-actions-in-salesforce-lightning-6.png)
 
@@ -43,8 +43,8 @@ So richten Sie Massenaktionen in Salesforce Lightning ein.
 
    ![](assets/bulk-actions-in-salesforce-lightning-7.png)
 
-   In der Lead-Listen-Ansicht können Sie nun die Massen-Aktionsschaltflächen sehen.
+   Jetzt können Sie Massenaktionsschaltflächen in Ihrer Lead-Listenansicht sehen.
 
    >[!NOTE]
    >
-   >Wiederholen Sie die gleichen Schritte, um in der Ansicht &quot;Kontaktliste&quot;Massenaktionen hinzuzufügen.
+   >Wiederholen Sie die gleichen Schritte, um Ihrer Kontaktlistenansicht Massenaktionen hinzuzufügen.

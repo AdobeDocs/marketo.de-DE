@@ -1,7 +1,7 @@
 ---
 unique-page-id: 7512654
-description: Anzeigen von Lead-Feeds in Salesforce1 - Marketo Docs - Produktdokumentation
-title: Anzeigen von Lead-Feeds in Salesforce1
+description: Anzeigen des Lead-Feeds in Salesforce1 - Dokumentation zu Marketo - Produktdokumentation
+title: Anzeigen des Lead-Feeds in Salesforce1
 exl-id: c6811752-0e60-4b38-88bb-7b1061ee6f7b
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,11 +11,11 @@ ht-degree: 0%
 
 ---
 
-# Anzeigen von Lead-Feeds in Salesforce1 {#seeing-lead-feed-in-salesforce}
+# Anzeigen des Lead-Feeds in Salesforce1 {#seeing-lead-feed-in-salesforce}
 
 Der Lead-Feed ist eine aktuelle Liste interessanter Ereignisse, die von Ihren Leads durchgeführt werden.
 
-1. Wechseln Sie in Salesforce1 zum Bereich **Marketo** .
+1. Wechseln Sie zum Bereich **Marketo** in Salesforce1.
 
    ![](assets/image2015-4-20-15-3a14-3a15.png)
 
@@ -34,5 +34,5 @@ Der Lead-Feed ist eine aktuelle Liste interessanter Ereignisse, die von Ihren Le
 >[!MORELIKETHIS]
 >
 >* [Interessante Momente in Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
->* [Senden von Marketo-E-Mail- und -Campaign- und Watchlist-Aktionen in Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
->* [Beste Einsätze in Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)
+>* [Senden von Marketo-E-Mail- und Kampagnen- und Watchlist-Aktionen in Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
+>* [Beste Wetten in Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)

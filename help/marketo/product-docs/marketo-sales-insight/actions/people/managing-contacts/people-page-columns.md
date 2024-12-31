@@ -1,6 +1,6 @@
 ---
-description: Benutzerseitenspalten - Marketo-Dokumente - Produktdokumentation
-title: Benutzerseitenspalten
+description: Spalten der Personenseite - Marketo-Dokumente - Produktdokumentation
+title: Spalten der Personenseite
 hide: true
 hidefromtoc: true
 exl-id: 29870197-81e1-4f88-a129-b1ff6da34924
@@ -12,17 +12,17 @@ ht-degree: 11%
 
 ---
 
-# Benutzerseitenspalten {#people-page-columns}
+# Spalten der Personenseite {#people-page-columns}
 
-Sie können anpassen, welche Kontaktinformationen Ihnen angezeigt werden, indem Sie auswählen, welche Spalten angezeigt werden.
+Sie haben die Möglichkeit, die angezeigten Kontaktinformationen anzupassen, indem Sie auswählen, welche Spalten angezeigt werden sollen.
 
-## Auswählen von Spalten {#how-to-select-columns}
+## So wählen Sie Spalten aus {#how-to-select-columns}
 
-1. Klicken Sie auf der Seite &quot;Personen&quot;auf das Symbol Listeneinstellungen .
+1. Klicken Sie auf der Seite „Personen“ auf das Symbol Listeneinstellungen .
 
    ![](assets/people-page-columns-1.png)
 
-1. Blättern Sie durch und wählen Sie die gewünschten Spalten aus (Sie können auch auf **Alle auswählen** klicken, wenn Sie jede Spalte verwenden möchten). Klicken Sie abschließend auf die Liste.
+1. Scrollen Sie durch die gewünschten Spalten und wählen Sie sie aus. (Sie können auch auf **Alle auswählen** klicken, wenn jede Spalte ausgewählt werden soll.) Klicken Sie abschließend aus der Liste.
 
    ![](assets/people-page-columns-2.png)
 
@@ -64,15 +64,15 @@ Sie können anpassen, welche Kontaktinformationen Ihnen angezeigt werden, indem 
   </tr> 
   <tr> 
    <td>Kampagne (Standard)</td> 
-   <td>Vertriebskampagne der Person, die sich derzeit befindet</td> 
+   <td>Verkaufskampagne, in der sich die Person derzeit befindet</td> 
   </tr> 
   <tr> 
    <td>Anz. Kampagnen</td> 
-   <td>Gesamtzahl der Verkaufskampagnen, zu denen die Person gehörte</td> 
+   <td>Gesamtzahl der Vertriebskampagnen, an denen die Person teilgenommen hat</td> 
   </tr> 
   <tr> 
    <td>Anz. Anrufe</td> 
-   <td>Gesamtzahl der Aufrufe an diese Person</td> 
+   <td>Gesamtzahl der Anrufe, die an diese Person getätigt wurden</td> 
   </tr> 
   <tr> 
    <td>Anz. E-Mails</td> 
@@ -88,15 +88,15 @@ Sie können anpassen, welche Kontaktinformationen Ihnen angezeigt werden, indem 
   </tr> 
   <tr> 
    <td># Aktivitäten (Standard)</td> 
-   <td>Gesamtzahl der vom Benutzer für diesen Lead durchgeführten Aktivitäten (E-Mails, Aufrufe und Aufgaben)</td> 
+   <td>Gesamtzahl der Aktivitäten, die der Benutzer für diesen Lead durchgeführt hat (E-Mails, Aufrufe und Aufgaben)</td> 
   </tr> 
   <tr> 
    <td>Einverständnis</td> 
-   <td><p>Rechtliche Interessen, Ausführung eines Vertrags, Erfüllung gesetzlicher Verpflichtungen, Schutz wesentlicher Interessen, öffentliches Interesse/öffentliche Behörde und andere</p></td> 
+   <td><p>Berechtigtes Interesse, Erfüllung eines Vertrags, Einhaltung gesetzlicher Verpflichtungen, Schutz lebenswichtiger Interessen, öffentliches Interesse/öffentliche Gewalt und andere</p></td> 
   </tr> 
   <tr> 
    <td>Offene Aufgaben</td> 
-   <td>Anzahl der offenen Aufgaben für diese Person</td> 
+   <td>Anzahl offener Aufgaben für diese Person</td> 
   </tr> 
   <tr> 
    <td>Anz. Ansichten</td> 
@@ -104,7 +104,7 @@ Sie können anpassen, welche Kontaktinformationen Ihnen angezeigt werden, indem 
   </tr> 
   <tr> 
    <td>Anz. Klicks</td> 
-   <td>Gesamtzahl der Klicks von dieser Person</td> 
+   <td>Gesamtzahl der Klicks dieser Person</td> 
   </tr> 
   <tr> 
    <td>Anz. Antworten</td> 
@@ -112,7 +112,7 @@ Sie können anpassen, welche Kontaktinformationen Ihnen angezeigt werden, indem 
   </tr> 
   <tr> 
    <td>Zuletzt aktualisiert</td> 
-   <td>Datum der letzten Aktualisierung des Personendatensatzes am</td> 
+   <td>Datum, an dem der Personendatensatz zuletzt aktualisiert wurde</td> 
   </tr> 
   <tr> 
    <td>Ersteller</td> 
@@ -120,7 +120,7 @@ Sie können anpassen, welche Kontaktinformationen Ihnen angezeigt werden, indem 
   </tr> 
   <tr> 
    <td>Quelle</td> 
-   <td>Source, aus der die Person erstellt wurde</td> 
+   <td>Source, aus dem die Person erstellt wurde</td> 
   </tr> 
   <tr> 
    <td>Gruppen (Standard)</td> 
@@ -128,7 +128,7 @@ Sie können anpassen, welche Kontaktinformationen Ihnen angezeigt werden, indem 
   </tr> 
   <tr> 
    <td colspan="1">Abbestellt</td> 
-   <td colspan="1">Status der Abmeldung von Vertrieb</td> 
+   <td colspan="1">Abmeldestatus für Verkauf</td> 
   </tr> 
  </tbody> 
 </table>

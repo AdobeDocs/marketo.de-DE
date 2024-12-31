@@ -1,7 +1,7 @@
 ---
 unique-page-id: 11375276
-description: Benutzerdefinierte Dimensionen für E-Mail-Insights - Marketo-Dokumente - Produktdokumentation
-title: Benutzerdefinierte Dimensionen für E-Mail-Insights
+description: Benutzerdefinierte Dimensionen für E-Mail-Einblicke - Marketo-Dokumente - Produktdokumentation
+title: Benutzerdefinierte Dimensionen für E-Mail-Einblicke
 exl-id: e648a788-50da-495b-b195-f287bcbaeecb
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,19 +11,19 @@ ht-degree: 0%
 
 ---
 
-# Benutzerdefinierte Dimensionen für E-Mail-Insights {#custom-dimensions-for-email-insights}
+# Benutzerdefinierte Dimensionen für E-Mail-Einblicke {#custom-dimensions-for-email-insights}
 
-Alle standardmäßigen Marketo-Dimensionen sind enthalten, Sie können jedoch bis zu 10 benutzerdefinierte Dimensionen hinzufügen. Benutzerdefinierte Dimensionen bestehen aus Segmentierungen und Programm-Tags. So fügen Sie sie hinzu:
+Alle standardmäßigen Marketo-Dimensionen sind enthalten, Sie haben jedoch die Möglichkeit, bis zu 10 benutzerdefinierte Dimensionen hinzuzufügen. Benutzerdefinierte Dimensionen bestehen aus Segmentierungen und Programm-Tags. So fügen Sie sie hinzu:
 
 >[!NOTE]
 >
->**Erforderliche Administratorberechtigungen**
+>**Administratorberechtigungen erforderlich**
 
 >[!CAUTION]
 >
->Benutzerdefinierte Dimensionen **können nicht** gelöscht oder ersetzt werden. Wählen Sie daher Ihre 10 sorgfältig aus.
+>Benutzerdefinierte Dimensionen **können** nicht gelöscht oder ersetzt werden. Wählen Sie daher Ihre 10 sorgfältig aus.
 
-1. Klicken Sie in Email Insights auf das Zahnradsymbol oben rechts auf der Seite.
+1. Klicken Sie in E-Mail-Einblicke oben rechts auf der Seite auf das Zahnradsymbol.
 
    ![](assets/cd1.png)
 
@@ -31,16 +31,16 @@ Alle standardmäßigen Marketo-Dimensionen sind enthalten, Sie können jedoch bi
 
    ![](assets/cd2.png)
 
-1. Klicken Sie auf **+** neben **Dimension hinzufügen**.
+1. Klicken Sie auf das **+** neben **Dimension hinzufügen**.
 
    ![](assets/cd3.png)
 
-1. Starten Sie die Auswahl!
+1. Beginnen Sie auszuwählen!
 
    ![](assets/cd4.png)
 
    >[!NOTE]
    >
-   >**Nach Zielgruppe**: Zeigt alle genehmigten Segmente an (aus der Datenbank heraus).
+   >**Nach Zielgruppe**: Zeigt alle genehmigten Segmentierungen an (aus der Datenbank)
    >
    >**Nach Inhalt**: Zeigt alle Programm-Tags an

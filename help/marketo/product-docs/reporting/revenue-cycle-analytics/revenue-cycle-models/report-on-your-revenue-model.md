@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2360429
-description: Bericht zu Ihrem Umsatzmodell - Marketo Docs - Produktdokumentation
-title: Bericht zu Ihrem Umsatzmodell
+description: Bericht zu Ihrem Umsatzmodell - Marketo-Dokumente - Produktdokumentation
+title: Berichte zu Ihrem Umsatzmodell
 exl-id: a9abbfcb-b4ee-402c-9092-c2e0d388f7a4
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
@@ -11,23 +11,23 @@ ht-degree: 0%
 
 ---
 
-# Bericht zu Ihrem Umsatzmodell {#report-on-your-revenue-model}
+# Berichte zu Ihrem Umsatzmodell {#report-on-your-revenue-model}
 
-Für jedes Umsatzzyklusmodell können Sie einen Bericht darüber generieren, wie viele Leads sich in jeder Phase befinden.
+Für jedes Umsatzzyklusmodell können Sie einen Bericht darüber generieren, wie viele Leads in den einzelnen Phasen vorhanden sind.
 
 >[!NOTE]
 >
->Leads müssen Mitglieder des Modells sein, das in den Bericht aufgenommen werden soll.
+>Leads müssen Mitglieder des Modells sein, damit sie in den Bericht aufgenommen werden können.
 
-1. Wechseln Sie zu **Analytics**.
+1. Navigieren Sie zu **Analytics**.
 
    ![](assets/image2015-4-29-16-3a8-3a14.png)
 
-1. Klicken Sie auf **Leads nach Umsatzstufe**.
+1. Klicken Sie **Leads nach Umsatzstufe**.
 
    ![](assets/image2015-4-29-16-3a15-3a3.png)
 
-1. Klicken Sie auf die Registerkarte **Einrichtung** und doppelklicken Sie unter dem Filterabschnitt auf **Umsatzzyklusmodell**.
+1. Klicken Sie auf die **Setup** und doppelklicken Sie dann unter dem Filterabschnitt auf **Umsatzzyklusmodell**.
 
    ![](assets/image2015-4-29-16-3a37-3a57.png)
 
@@ -37,10 +37,10 @@ Für jedes Umsatzzyklusmodell können Sie einen Bericht darüber generieren, wie
 
    >[!NOTE]
    >
-   >Um in diesem Dropdown-Menü verfügbar zu sein, muss das Modell genehmigt sein oder zumindest über genehmigte Phasen verfügen.
+   >Um in diesem Dropdown-Menü verfügbar zu sein, muss das Modell genehmigt sein oder mindestens über genehmigte Phasen verfügen.
 
-1. Klicken Sie auf die Registerkarte **Bericht** , um zu sehen, wie viele Leads sich in den einzelnen Phasen Ihres Umsatzzyklusmodells befinden.
+1. Klicken Sie auf **Bericht**, um anzuzeigen, wie viele Leads sich in den einzelnen Phasen Ihres Umsatzzyklusmodells befinden.
 
    ![](assets/image2015-4-29-16-3a51-3a29.png)
 
-Warum ist das nützlich? Das Modell zeigt Ihren Verkaufs- und Marketing-Trichter an. Behalten Sie ihre Gleichgewichte im Laufe der Zeit im Auge, um Engpässe zu erkennen, bevor sie zu einem Problem werden.
+Warum ist das nützlich? Das Modell zeigt Ihren Verkaufs- und Marketing-Trichter. Verfolgen Sie ihre Salden im Laufe der Zeit, um Engpässe zu identifizieren, bevor sie zu einem Problem werden.

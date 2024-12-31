@@ -15,69 +15,69 @@ ht-degree: 30%
 
 Die folgenden Funktionen sind in der neuen MSI MSD-Lösung verfügbar.
 
-## Bedienfeld &quot;Marketo Sales Insight&quot;im Lead-Layout  {#marketo-sales-insight-panel-in-lead-layout}
+## Bedienfeld &quot;Marketo Sales Insight“ im Lead-Layout  {#marketo-sales-insight-panel-in-lead-layout}
 
 * Sterne und Flammen
 * Interessanter Moment
 * Webaktivität
-* Bewertung
-* E-Mail (öffnen und klicken)
+* Ergebnis
+* E-Mail (Öffnen und Klicken)
 
-## Benutzerdefinierte Felder von Marketo Sales Insight im Lead-Layout  {#marketo-sales-insight-custom-fields-in-lead-layout}
+## Benutzerdefinierte Felder für Marketo Sales Insight im Lead-Layout  {#marketo-sales-insight-custom-fields-in-lead-layout}
 
 * Lead-Bewertung
 * Relative Bewertung
 * Priorität
 * Dringlichkeit
 
-## Marketo Sales Insight - Aktionsschaltfläche im Lead-Layout  {#marketo-sales-insight-call-to-action-button-in-lead-layout}
+## Schaltfläche für Aktionsaufruf in Marketo Sales Insight im Lead-Layout  {#marketo-sales-insight-call-to-action-button-in-lead-layout}
 
 * Zu Marketo-Kampagne hinzufügen
 * Marketo-E-Mail senden
 
-## Marketo Sales Insight-Massenaktion in der Lead-Listenansicht  {#marketo-sales-insight-bulk-action-button-in-lead-list-view}
+## Massenaktion-Schaltfläche für Marketo Sales Insight in der Lead-Listenansicht  {#marketo-sales-insight-bulk-action-button-in-lead-list-view}
 
 * Zu Marketo-Kampagne hinzufügen
 * Marketo-E-Mail senden
 
-## Bedienfeld &quot;Marketo Sales Insight&quot;im Kontaktlayout  {#marketo-sales-insight-panel-in-contact-layout}
+## Bedienfeld &quot;Marketo Sales Insight“ im Kontakt-Layout  {#marketo-sales-insight-panel-in-contact-layout}
 
 * Sterne und Flammen
 * Interessanter Moment
 * Webaktivität
-* Bewertung
-* E-Mail (öffnen und klicken)
+* Ergebnis
+* E-Mail (Öffnen und Klicken)
 
-## Benutzerdefinierte Felder von Marketo Sales Insight im Kontaktlayout  {#marketo-sales-insight-custom-fields-in-contact-layout}
+## Benutzerdefinierte Marketo Sales Insight-Felder im Kontakt-Layout  {#marketo-sales-insight-custom-fields-in-contact-layout}
 
 * Lead-Bewertung
 * Relative Bewertung
 * Priorität
 * Dringlichkeit
 
-## Schaltfläche &quot;Marketo Sales Insight-Aktionsaufruf&quot;im Kontaktlayout  {#marketo-sales-insight-call-to-action-button-in-contact-layout}
+## Schaltfläche für Aktionsaufruf in Marketo Sales Insight im Kontakt-Layout  {#marketo-sales-insight-call-to-action-button-in-contact-layout}
 
 * Zu Marketo-Kampagne hinzufügen
 * Marketo-E-Mail senden
 
-## Marketo Sales Insight-Bulk-Aktionsschaltfläche in der Ansicht &quot;Kontaktliste&quot;  {#marketo-sales-insight-bulk-action-button-in-contact-list-view}
+## Massenaktion-Schaltfläche für Marketo Sales Insight in der Kontaktlistenansicht  {#marketo-sales-insight-bulk-action-button-in-contact-list-view}
 
 * Zu Marketo-Kampagne hinzufügen
 * Marketo-E-Mail senden
 
-## Bedienfeld &quot;Marketo Sales Insight&quot;im Kontolayout {#marketo-sales-insight-panel-in-account-layout}
+## Bedienfeld &quot;Marketo Sales Insights“ im Konto-Layout {#marketo-sales-insight-panel-in-account-layout}
 
 * Sterne und Flammen
 * Interessanter Moment
 * Webaktivität
-* Bewertung
-* E-Mail (öffnen und klicken)
+* Ergebnis
+* E-Mail (Öffnen und Klicken)
 
-## Marketo Best-Beta-Seite {#marketo-best-bets-page}
+## Marketo Best Bets-Seite {#marketo-best-bets-page}
 
 * Priorität (Sterne und Flammen)
-* Name (Hyperlink zur Lead-/Kontaktseite)
+* Name (per Hyperlink zur Lead-/Kontaktseite)
 * Konto
 * Interessanter Moment
 * Status
-* Lead-Feed - Bietet die Möglichkeit, IM zu abonnieren
+* Lead-Feed - Umfasst die Möglichkeit, IM zu abonnieren

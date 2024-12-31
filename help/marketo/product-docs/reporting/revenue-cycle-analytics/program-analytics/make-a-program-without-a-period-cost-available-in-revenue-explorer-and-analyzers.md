@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2360389
-description: Bereitstellen eines Programms ohne Periodenkosten in Umsatz-Explorer und Analyzern - Marketo-Dokumente - Produktdokumentation
-title: Bereitstellen eines Programms ohne Periodenkosten in Umsatz-Explorer und Analyzern
+description: Erstellen Sie ein Programm ohne Kostenzeitraum in Revenue Explorer und Analyzer - Marketo-Dokumente - Produktdokumentation
+title: Ein Programm ohne Kostenperiode in Revenue Explorer und Analyzer verfügbar machen
 exl-id: 45a24b9f-d92f-4f48-a7d1-0be14cd128b1
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
@@ -11,42 +11,42 @@ ht-degree: 0%
 
 ---
 
-# Bereitstellen eines Programms ohne Periodenkosten in Umsatz-Explorer und Analyzern {#make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers}
+# Ein Programm ohne Kostenperiode in Revenue Explorer und Analyzer verfügbar machen {#make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers}
 
-Die Kosten des Programmzeitraums ermöglichen es Ihnen, &quot;Wie viel Geld&quot;und &quot;Wann&quot;für ein Programm zu definieren. Dies wird in &quot;Umsatz - Zyklus - Explorer&quot;und in &quot;[Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)&quot;angezeigt.
-
->[!NOTE]
->
->**Erforderliche Administratorberechtigungen**
-
-Einige Programme müssen möglicherweise auch ohne Zeitraumkosten eingeschlossen werden. Obwohl Sie für die Zeitraumkosten 0 eingeben können, wurde es uns erleichtert, diese Programme einzubeziehen.
+Mit Kosten für den Programmzeitraum können Sie festlegen, „wie viel Geld“ und „wann“ für ein Programm ausgegeben werden soll. Dies wird im Umsatzzyklus-Explorer und in [Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md) angezeigt.
 
 >[!NOTE]
 >
->Der Programm-Analyzer erfasst den Erfolg des Programms nach Zeitraumkosten. Wenn keine Zeitraumkosten verfügbar sind, wird der Erfolg des Programms unabhängig vom Analyseverhalten des Programms nicht angezeigt. Wenn das Analytics-Verhalten eingerichtet ist, werden Daten für Opportunitätsmetriken angezeigt (Pipeline-Chancen, Umsatz usw.).
+>**Administratorberechtigungen erforderlich**
 
-1. Klicken Sie im Abschnitt &quot;Admin&quot;auf **Tags**.
+Einige Programme müssen möglicherweise einbezogen werden, auch wenn sie keine Periodenkosten haben. Obwohl Sie für den Kostenzeitraum 0 eingeben können, haben wir die Einbeziehung dieser Programme vereinfacht.
+
+>[!NOTE]
+>
+>Der Programm-Analyzer erfasst den Programmerfolg nach Kostenzeitraum. Wenn keine Periodenkosten verfügbar sind, wird der Programmerfolg unabhängig vom Analyseverhalten des Programms nicht angezeigt. Wenn das Analytics-Verhalten eingerichtet ist, werden Daten für Opportunity-Metriken angezeigt (Pipeline-Opportunities, gewonnener Umsatz usw.).
+
+1. Klicken Sie im Abschnitt Admin auf **Tags**.
 
    ![](assets/image2014-9-17-12-3a35-3a32.png)
 
-1. Erweitern Sie Ihre Kanäle und doppelklicken Sie auf den gewünschten Kanal.
+1. Erweitern Sie Ihre Kanäle und doppelklicken Sie auf den Kanal Ihrer Wahl.
 
    >[!NOTE]
    >
-   >Alle Programme, die diesen Kanal verwenden, stehen unabhängig von den Zeitraumkosten für den Umsatz-Explorer und Analyzer zur Verfügung. Diese Änderung wird am folgenden Tag wirksam.
+   >Alle Programme, die diesen Kanal verwenden, werden unabhängig von den Periodenkosten für Revenue Explorer und Analyzer verfügbar. Diese Änderung wird am folgenden Tag wirksam.
 
    ![](assets/image2014-9-17-12-3a36-3a7.png)
 
-1. Ändern Sie das Analytics-Verhalten in &quot;Einschließen&quot;und klicken Sie auf **Speichern**.
+1. Ändern Sie das Analytics-Verhalten in Inclusive und klicken Sie auf **Speichern**.
 
    ![](assets/image2014-9-17-12-3a36-3a13.png)
 
 >[!TIP]
 >
->Haben Sie die Betriebsoption bemerkt? Das tut das Gegenteil. Diese Programme werden unabhängig von den Zeitraumkosten ausgeschlossen.
+>Haben Sie die Option „Operativ“ bemerkt? Dies bewirkt das Gegenteil. Sie schließt diese Programme unabhängig von den Periodenkosten aus.
 
-Gut gemacht! Jetzt werden alle Programme, die den modifizierten Kanal verwenden, in den Umsatz-Explorer und Analyzer aufgenommen, ohne dass Zeitraumkosten erforderlich sind.
+Gute Arbeit! Jetzt werden alle Programme, die den geänderten Kanal verwenden, in den Umsatz-Explorer und -Analyzer einbezogen, ohne dass ein Kostenzeitraum erforderlich ist.
 
 >[!MORELIKETHIS]
 >
->[Analytics-Verhalten auf Programmebene überschreiben](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/override-analytics-behavior-at-the-program-level.md)
+>[Überschreiben des Analytics-Verhaltens auf Programmebene](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/override-analytics-behavior-at-the-program-level.md)
