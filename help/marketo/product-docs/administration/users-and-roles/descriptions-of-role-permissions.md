@@ -4,10 +4,10 @@ description: Beschreibungen der Rollenberechtigungen - Marketo-Dokumente - Produ
 title: Beschreibungen der Rollenberechtigungen
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles
-source-git-commit: 548f3f84bf6a7d39dadbf1eb5069618c4f4d44b5
+source-git-commit: c79de5b87d75c26aeec5f8d39252dc303dabeac8
 workflow-type: tm+mt
-source-wordcount: '1429'
-ht-degree: 16%
+source-wordcount: '1448'
+ht-degree: 15%
 
 ---
 
@@ -44,6 +44,7 @@ Einstellungen im Abschnitt Mein Konto von Admin anzeigen und ändern.
 * [[!DNL Data.com]](https://data.com) - Ermöglicht Benutzern Zugriff auf die Flussaktion Data.com
 * Zugriff auf E-Mail-Admin : Ermöglicht Benutzenden den Zugriff auf E-Mail-Admin, um Standardeinstellungen wie Abmelde- und Branding-Domains zu ändern
 * Zugriff auf Event-Partner : Ermöglicht Benutzern Zugriff auf LaunchPoint in Admin
+* Zugriff auf die Freigabe einer Experience Cloud-Zielgruppe : Ermöglicht Benutzenden den Zugriff zum Synchronisieren einer Zielgruppe von Adobe Experience Cloud auf Marketo Engage
 * Verwaltung von Zugriffsfeldern : Ermöglicht Benutzern Zugriff auf die Verwaltung von Feldern in Admin
 * Zugriff auf den Datei-Upload : Ermöglicht Benutzern das Hochladen von Bildern und Dateien in Design Studio
 * Zugriff auf Landingpages : Ermöglicht Benutzern Zugriff auf Landingpages in Admin
