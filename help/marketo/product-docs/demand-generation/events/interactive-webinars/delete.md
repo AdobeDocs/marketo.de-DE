@@ -2,16 +2,17 @@
 description: Durchführen eines interaktiven Webinars - Marketo-Dokumente - Produktdokumentation
 title: Bewerben eines interaktiven Webinars
 feature: Interactive Webinars
+exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
 source-git-commit: 75035e6ae7989aaf3ed6cedd7fdab42c79ab8f37
 workflow-type: tm+mt
-source-wordcount: '776'
+source-wordcount: '654'
 ht-degree: 0%
 
 ---
 
 # Bewerben eines interaktiven Webinars {#promoting-an-interactive-webinar}
 
-Die Förderung eines interaktiven Webinars ähnelt der Förderung eines Partner-Webinars über Launchpoint. Beim Erstellen eines Veranstaltungsprogramms für ein interaktives Webinar können Sie Mitglieder hinzufügen, indem Sie entweder eine Kampagne ausführen oder Mitglieder in das Programm importieren. Um die Mitglieder zu überprüfen, die zum Veranstaltungsprogramm der interaktiven Webinare hinzugefügt wurden, klicken Sie auf die Registerkarte **[!UICONTROL Mitglieder]**.
+Die Förderung eines interaktiven Webinars ähnelt der Förderung eines Partner-Webinars über Launchpoint. Beim Erstellen eines Veranstaltungsprogramms für ein interaktives Webinar können Sie Mitglieder hinzufügen, indem Sie entweder eine Kampagne ausführen oder Mitglieder in das Programm importieren. Um die Mitglieder zu überprüfen, die zum Veranstaltungsprogramm der interaktiven Webinare hinzugefügt wurden, klicken Sie auf die Registerkarte **Mitglieder**.
 
 ![](assets/promoting-an-interactive-webinar-1.png)
 
@@ -49,50 +50,13 @@ Verwenden Sie Token, um interaktive Webinare in E-Mails und Landingpages zu bewe
 
 **Liste der Token**
 
-<table><thead>
-  <tr>
-    <th>Token</th>
-    <th>Definition</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td>program.webinarCapacity</td>
-    <td>Die maximale Anzahl von Teilnehmern, die am interaktiven Webinar teilnehmen können.</td>
-  </tr>
-  <tr>
-    <td>program.webinarDuration</td>
-    <td>Die Dauer, für die das interaktive Webinar geplant ist.</td>
-  </tr>
-  <tr>
-    <td>program.webinarEndDate</td>
-    <td>Das Enddatum für das geplante interaktive Webinar.</td>
-  </tr>
-  <tr>
-    <td>program.webinarEndTime</td>
-    <td>Die geplante Endzeit des interaktiven Webinars.</td>
-  </tr>
-  <tr>
-    <td>program.webinarGenericURL</td>
-    <td>Die allgemeine Aufzeichnungs-URL, die nach dem Webinar für die Zielgruppe freigegeben werden kann. Diese URL ist nicht für die Live-Teilnahme am Webinar vorgesehen und verfolgt nicht die Aktivität der Zielgruppe.</td>
-  </tr>
-  <tr>
-    <td>program.webinarLanguage</td>
-    <td>Die Sprache, in der das Webinar durchgeführt werden soll.</td>
-  </tr>
-  <tr>
-    <td>program.webinarStartDate</td>
-    <td>Das Startdatum des geplanten interaktiven Webinars.</td>
-  </tr>
-  <tr>
-    <td>program.webinarStartTime</td>
-    <td>Die geplante Startzeit des interaktiven Webinars.</td>
-  </tr>
-  <tr>
-    <td>program.webinarTimezone</td>
-    <td>Die Zeitzone, in der das interaktive Webinar geplant ist.</td>
-  </tr>
-  <tr>
-    <td>program.webinarTitle</td>
-    <td>Der Titel des interaktiven Webinars, das für die Zielgruppe auf dem Webinar-Eintrag Screens sichtbar ist.</td>
-  </tr>
-</tbody></table>
+* program.webinarCapacity
+* program.webinarDuration
+* program.webinarEndDate
+* program.webinarEndTime
+* program.webinarGenericURL
+* program.webinarLanguage
+* program.webinarStartDate
+* program.webinarStartTime
+* program.webinarTimezone
+* program.webinarTitle
