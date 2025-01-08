@@ -2,9 +2,10 @@
 description: Durchführen eines interaktiven Webinars - Marketo-Dokumente - Produktdokumentation
 title: Bewerben eines interaktiven Webinars
 feature: Interactive Webinars
-source-git-commit: 75035e6ae7989aaf3ed6cedd7fdab42c79ab8f37
+exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
+source-git-commit: f5b66521f678b2aa618d270077292ddd9b8775c3
 workflow-type: tm+mt
-source-wordcount: '776'
+source-wordcount: '777'
 ht-degree: 0%
 
 ---
@@ -14,6 +15,8 @@ ht-degree: 0%
 Die Förderung eines interaktiven Webinars ähnelt der Förderung eines Partner-Webinars über Launchpoint. Beim Erstellen eines Veranstaltungsprogramms für ein interaktives Webinar können Sie Mitglieder hinzufügen, indem Sie entweder eine Kampagne ausführen oder Mitglieder in das Programm importieren. Um die Mitglieder zu überprüfen, die zum Veranstaltungsprogramm der interaktiven Webinare hinzugefügt wurden, klicken Sie auf die Registerkarte **[!UICONTROL Mitglieder]**.
 
 ![](assets/promoting-an-interactive-webinar-1.png)
+
+## Überblick {#overview}
 
 Nachdem die Mitglieder hinzugefügt oder importiert wurden, können Sie im Veranstaltungsprogramm Interaktives Webinar eine E-Mail-Kampagne erstellen, um eine Einladung an alle Programmmitglieder zu senden, und ihren Status in „Eingeladen“ ändern, sobald die E-Mail zugestellt wurde.
 
