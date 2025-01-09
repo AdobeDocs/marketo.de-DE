@@ -3,10 +3,10 @@ description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokument
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: bf6525359d8bc206ed01220823b6c1de5734df55
+source-git-commit: fa149bb386e98a5b9daa1c7b8933d66b708047c1
 workflow-type: tm+mt
-source-wordcount: '395'
-ht-degree: 6%
+source-wordcount: '471'
+ht-degree: 7%
 
 ---
 
@@ -61,6 +61,16 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
 <br/>
 
 ## Ankündigungen {#announcements}
+
+* **Einstellung von Social**: Am Mittwoch, 31. Juli 2024, begann Marketo Engage mit der Einstellung der folgenden Social-Media-Funktionen im Produkt:
+
+   * Umfragen
+   * Social-Schaltfläche
+   * Empfehlungsangebot
+   * Videofreigabe
+   * Gewinnspiele
+
+Ab diesem Zeitpunkt war es den Nutzern nicht mehr möglich, diese Social-Media-Funktionen in Marketo Engage zu erstellen, zu klonen oder einzubetten. Vorhandene soziale Assets funktionieren bis zum 31. Januar 2025 weiterhin. Am 1. Februar 2025 werden soziale Assets nicht mehr funktionieren. In Landingpages eingebettete Social-Media-Funktionen müssen entfernt werden. [Weitere Informationen](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 * **API-Aktualisierung für Programmmitglieder abrufen**: Wir haben die API [Programmmitglieder abrufen](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/program-members#query){target="_blank"} verbessert, um die Möglichkeit zum Abrufen der Kennung von Programmmitgliedern zu unterstützen. Dies geschieht, indem die ID zur Liste der Felder hinzugefügt wird, die im Feld-Parameter der API-Anfrage angegeben sind.
 
