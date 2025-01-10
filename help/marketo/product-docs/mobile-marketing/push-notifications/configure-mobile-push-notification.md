@@ -4,7 +4,7 @@ description: Mobile Push-Benachrichtigung konfigurieren - Marketo-Dokumente - Pr
 title: Mobile Push-Benachrichtigung konfigurieren
 exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
 feature: Mobile Marketing
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 736e21d45d8a62e50f449e0ee6d0fc4df5963dfb
 workflow-type: tm+mt
 source-wordcount: '466'
 ht-degree: 0%
@@ -49,13 +49,13 @@ ht-degree: 0%
    >
    >Es gibt drei Arten von Tipp-Aktionen:
    >
-   >**Launch App** - **Diese App** öffnet die Startseite Ihrer App, wenn auf die Benachrichtigung getippt wird. **Benutzerdefiniert** verwendet einen Deep-Link, um andere Bereiche Ihrer App oder einer anderen App zu öffnen, zu der Sie den Link haben (weitere Informationen finden [ unter Deep-Link-](#Deeplink)).
+   >**Launch App** - **Diese App** öffnet die Startseite Ihrer App, wenn auf die Benachrichtigung getippt wird. **Benutzerdefiniert** verwendet einen Deep-Link, um andere Bereiche Ihrer App oder einer anderen App zu öffnen, zu der Sie den Link haben (weitere Informationen finden [ unter Deep-Link-](#deep-link-uris)).
    >
    >**Landingpage** - Bringt Sie zu einer bestimmten Marketo-Landingpage.
    >
    >**Externe URL** - Bringt Sie zu einer Landingpage, die nicht zu Marketo gehört.
 
-1. Um einen Deep-Link für eine benutzerdefinierte Tipp-Aktion einzufügen, klicken Sie auf Benutzerdefiniert und geben [Deep-Link-URI](#Deeplink) in das Feld ein.
+1. Um einen Deep-Link für eine benutzerdefinierte Tipp-Aktion einzufügen, klicken Sie auf Benutzerdefiniert und geben [Deep-Link-URI](#deep-link-uris) in das Feld ein.
 
    ![](assets/image2016-7-28-16-3a19-3a13.png)
 
