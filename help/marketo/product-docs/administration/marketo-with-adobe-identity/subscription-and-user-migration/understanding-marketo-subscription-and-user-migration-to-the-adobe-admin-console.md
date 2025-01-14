@@ -3,9 +3,9 @@ description: Grundlegendes zu Marketo-Abonnements und Benutzermigration zur Adob
 title: Grundlegendes zu Marketo-Abonnements und Benutzermigration zur Adobe Admin Console
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: 63db7cfd9d93191d83214dc4e107ab4835ddd730
+source-git-commit: df7b29f9b7bb31b2762dd6a6d48eb237f4ccb9f0
 workflow-type: tm+mt
-source-wordcount: '1553'
+source-wordcount: '1573'
 ht-degree: 0%
 
 ---
@@ -106,9 +106,9 @@ Alle Marketo-Abonnements mit einer Zeitzone in den USA werden ab Mitternacht (Pa
 
 >[!NOTE]
 >
->Während der Benutzermigration erfolgt kein Verlust des Zugriffs auf das Produkt. Wenn ein(e) Benutzende(r) während der Migration angemeldet ist, wird der/die Benutzende abgemeldet und aufgefordert, sich innerhalb von Minuten nach Abschluss der Migration mithilfe von Adobe Identity erneut anzumelden.
+>Während der Benutzermigration erfolgt kein Verlust des Zugriffs auf das Produkt. Wenn ein(e) Benutzende(r) während der Migration angemeldet ist, wird der/die Benutzende abgemeldet und aufgefordert, sich innerhalb von Minuten nach Abschluss der Migration mithilfe von Adobe Identity erneut anzumelden. Der Benutzer muss die Einladung annehmen, indem er auf den Link in der Berechtigungs-E-Mail klickt, die am Ende einer erfolgreichen Benutzermigration gesendet wurde.
 
-Wenn Benutzerinnen und Benutzer migriert werden, erhalten sie eine E-Mail von Adobe, in der sie über die Änderung der Art und Weise, wie sie sich bei Marketo anmelden, informiert werden. Die Benutzer werden aufgefordert, eine Einladung zur erstmaligen Anmeldung mit Adobe Identity anzunehmen, entweder durch Anmeldung mit einer bestehenden Adobe ID oder durch Einrichtung einer neuen Adobe ID mit derselben E-Mail-Adresse.
+Wenn Benutzerinnen und Benutzer migriert werden, erhalten sie eine E-Mail von Adobe, in der sie über die Änderung der Art und Weise, wie sie sich bei Marketo anmelden, informiert werden. Benutzende **müssen** eine Einladung zur erstmaligen Anmeldung mit Adobe Identity annehmen, entweder durch Anmeldung mit einer bestehenden Adobe ID oder durch Einrichtung einer neuen Adobe ID mit derselben E-Mail-Adresse
 
 Weitere Informationen finden Sie unter [Migrieren zur Adobe-Identität](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md){target="_blank"}, [Benutzeranmeldung mit Adobe](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"} und [Häufig gestellte Fragen zum Adobe von Identity Management](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
 

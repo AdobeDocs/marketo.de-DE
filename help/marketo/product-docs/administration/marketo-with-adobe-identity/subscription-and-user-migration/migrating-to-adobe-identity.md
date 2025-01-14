@@ -3,9 +3,9 @@ description: Migration zur Adobe-Identität - Marketo-Dokumente - Produktdokumen
 title: Migration zur Adobe-Identität
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
-source-git-commit: 7a5440b3673c3ebbb181ee5e81ee202463291fe7
+source-git-commit: df7b29f9b7bb31b2762dd6a6d48eb237f4ccb9f0
 workflow-type: tm+mt
-source-wordcount: '2300'
+source-wordcount: '2317'
 ht-degree: 0%
 
 ---
@@ -35,6 +35,10 @@ Der Administrator kann ein Datum zwischen 8 und 30 Tagen in der Zukunft auswähl
 Alle Marketo-Abonnements mit einer Zeitzone in den USA werden ab Mitternacht (Pacific Standard Time) des Startdatums der Benutzermigration migriert. Die Benutzermigration für alle anderen Abonnements beginnt um Mitternacht in der angegebenen Zeitzone des Abonnements. Wenn die Benutzermigration eines Abonnements beginnt, ist die Benutzerverwaltung nicht mehr im Marketo-Admin-Bereich verfügbar und erfolgt nur noch in der Adobe Admin Console. Die Rollenverwaltung verbleibt auf der Registerkarte „Benutzer und Rollen“ im Marketo-Administratorbereich sowie auf der lokalen Benutzerverwaltung (nur API).
 
 Adobe migriert automatisch zuerst alle Marketo-Administratoren mit verifizierten E-Mails. Wenn Marketo-Admins zum Adobe-Identitätsabonnement migriert werden, werden sie dem Adobe Admin Console des Abonnements als Produktadministrator für das Marketo-Abonnement hinzugefügt und erhalten die Adobe-Produktadministratorrolle innerhalb des Marketo-Programms (zusammen mit allen anderen Rollen, die sie zuvor hatten) und haben ihre Adobe ID-Berechtigung für das Abonnement. Die Administratoren erhalten zwei E-Mails. Eine gibt an, dass sie als Adobe-Produktadministrator zugewiesen werden, und die andere gibt an, dass ihre Adobe ID berechtigt ist, das Marketo-Produkt zu verwenden.
+
+>[!IMPORTANT]
+>
+>Sie müssen in der Berechtigungs **E-Mail auf die Schaltfläche** Einladung annehmen“ klicken, um mit Ihrer Adobe ID auf Marketo Engage zugreifen zu können.
 
 **E-Mail an Marketo-Produktadministrator**
 
@@ -177,7 +181,7 @@ Produktadministratoren von Marketo können Benutzende auswählen, die stapelweis
 
 Beispielsweise kann ein Administrator eine Gruppe von „Hauptbenutzern“ auswählen, die zuerst migriert werden sollen. Sobald diese Benutzermigrationen erfolgreich abgeschlossen sind, können sie verschiedene Benutzergruppen basierend auf Variablen wie Arbeitsbereich/Unternehmen oder Funktion/Rolle auswählen, um weitere Batch-Benutzermigrationen durchzuführen. Oder sie können sich entscheiden, die restlichen Benutzenden in den Abonnements nach dem Erfolg des ersten Batches zu migrieren. Ziel ist es, Anwendern die größte Flexibilität beim Rollout von Adobe-IDs zu bieten.
 
-Alle Benutzermigrationen finden gleichzeitig statt und sollten innerhalb von sechzig Sekunden erfolgreich abgeschlossen werden. Während die Benutzermigration für eine bestimmte Benutzerin oder einen bestimmten Benutzer erfolgt, kann die Benutzerin oder der Benutzer für bis zu 1 Minute den Zugriff verlieren, und zwar nur, wenn die Benutzerin oder der Benutzer bei der Anwendung angemeldet ist. Nach Abschluss der Benutzermigration erhält der Benutzer eine E-Mail, wie er sich mit einer Adobe-Identität bei Marketo Engage anmeldet. Der Benutzer muss die Einladung über den Button-Link in der E-Mail annehmen. Nachdem der Benutzer die Einladung akzeptiert hat, sollte er sich mit einer Adobe ID anmelden. Eine Anleitung zum Anmelden bei Marketo Engage mit einem Adobe ID [finden Sie hier](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md).
+Alle Benutzermigrationen finden gleichzeitig statt und sollten innerhalb von sechzig Sekunden erfolgreich abgeschlossen werden. Während die Benutzermigration für eine bestimmte Benutzerin oder einen bestimmten Benutzer erfolgt, kann die Benutzerin oder der Benutzer für bis zu 1 Minute den Zugriff verlieren, und zwar nur, wenn die Benutzerin oder der Benutzer bei der Anwendung angemeldet ist. Nach Abschluss der Benutzermigration erhält der Benutzer eine E-Mail, wie er sich mit einer Adobe-Identität bei Marketo Engage anmeldet. Der Benutzer muss die Einladung über den Button-Link in der E-Mail annehmen __ er kann sich mit einer Adobe ID anmelden Anweisungen zur Anmeldung bei Marketo Engage mit einer Adobe ID [finden Sie hier](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md).
 
 ![](assets/migrating-to-adobe-identity-18.png)
 
