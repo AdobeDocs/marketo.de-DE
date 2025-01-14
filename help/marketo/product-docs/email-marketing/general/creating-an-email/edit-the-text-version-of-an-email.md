@@ -4,9 +4,9 @@ description: Bearbeiten der Textversion einer E-Mail - Marketo-Dokumente - Produ
 title: Bearbeiten der Textversion einer E-Mail
 exl-id: 6973ccdd-6ae1-4051-ab7e-ff7da40baf97
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: d903c7d8adf817bd3aae2ea6bebc291a3f8bffb5
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
@@ -39,4 +39,6 @@ Wenn Sie eine E-Mail erstellen, sollte deren Textversion möglicherweise anders 
 
    ![](assets/five-3.png)
 
-Jetzt weißt du es!
+>[!CAUTION]
+>
+>Wenn Sie **Von HTML kopieren** auswählen oder **Automatisch von HTML kopieren** in E-Mails mit dynamischem Inhalt erneut auswählen, wird das Flag „Geprüft“ für _Segmente sowohl in der HTML- als auch in der Textversion der E-Mail auf true_ gesetzt.
