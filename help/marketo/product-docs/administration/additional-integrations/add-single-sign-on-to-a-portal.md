@@ -4,10 +4,10 @@ description: Hinzufügen von Single Sign-on zu einem Portal - Marketo-Dokumente 
 title: Hinzufügen von Single Sign-On zu einem Portal
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: c46800149cc517e3684db150e1f7b415f0a5783e
+source-git-commit: 573a40c7d2ee7329d82d209bfefc284497295239
 workflow-type: tm+mt
-source-wordcount: '564'
-ht-degree: 1%
+source-wordcount: '606'
+ht-degree: 0%
 
 ---
 
@@ -25,7 +25,7 @@ Sobald SSO aktiviert ist, kann der IdP die Anmeldeinformationen eines Benutzers 
 
 >[!IMPORTANT]
 >
->Dies gilt nicht für Abonnements, die in Adobe Identity integriert sind. Bei Abonnements, die in Adobe Identity integriert sind, wird Single Sign-On auf Adobe-Org-Ebene in Adobe Admin Console eingerichtet. [Weitere Informationen finden Sie hier](https://helpx.adobe.com/de/enterprise/using/set-up-identity.html){target="_blank"}.
+>Dies gilt nicht für Abonnements, die in Adobe Identity integriert sind. Bei Abonnements, die in Adobe Identity integriert sind, wird Single Sign-On auf Adobe-Org-Ebene in Adobe Admin Console eingerichtet. Adobe Admin Console unterstützt derzeit nur SP-initiierte . [Weitere Informationen finden Sie hier](https://helpx.adobe.com/de/enterprise/using/set-up-identity.html){target="_blank"}.
 
 >[!NOTE]
 >
@@ -40,7 +40,7 @@ Sobald SSO aktiviert ist, kann der IdP die Anmeldeinformationen eines Benutzers 
 
 >[!NOTE]
 >
->Marketo unterstützt nur vom Identitätsanbieter initiierte (auch als „IdP-initiiert“ bezeichnet), bei denen der Benutzer zuerst die IDP-Anmeldeseite startet, sich authentifiziert und dann zu „Meine Marketo&quot; navigiert.
+>Marketo unterstützt nur vom Identitätsanbieter initiierte (auch als „IdP-initiiert“ bezeichnet), bei denen der Benutzer zuerst die IdP-Anmeldeseite startet, sich authentifiziert und dann zu „Meine Marketo&quot; navigiert. Wenn Ihr Marketo-Abonnement in die Admin Console verschoben wurde, unterstützt Adobe Admin Console derzeit nur vom Dienstleister initiierte (auch als SP-initiiert bezeichnet). Möglicherweise wurde Ihr SSO-Erlebnis geändert.
 
 ## Zusätzliche Hinweise {#additional-notes}
 

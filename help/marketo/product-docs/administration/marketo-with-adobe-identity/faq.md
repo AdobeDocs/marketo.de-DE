@@ -3,10 +3,10 @@ description: Häufig gestellte Fragen zum Adobe von Identity Management - Market
 title: Häufig gestellte Fragen zum Adobe von Identity Management
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: 989804463f44afbf35ab11c0f23c37b0d328e652
+source-git-commit: 573a40c7d2ee7329d82d209bfefc284497295239
 workflow-type: tm+mt
-source-wordcount: '1521'
-ht-degree: 0%
+source-wordcount: '1595'
+ht-degree: 1%
 
 ---
 
@@ -35,6 +35,10 @@ Nein. URLs sehen nach der Migration anders aus.
 Ja. Nach der Migration wird Marketo Engage von experience.adobe.com an Adobe Experience Cloud übermittelt. Auf die Zulassungsliste setzen Sie müssen mit Ihrem IT-Team zusammenarbeiten, um alle Adobe-Domains ([ Anfang dieses Artikels) zu ](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"}, um eine Unterbrechung des Marketo Engage-Zugriffs zu verhindern.
 
 Bisherige Links und Lesezeichen zum Marketo Engage von Assets auf der Domain engage-xx.marketo.com _werden_ weiterhin funktionieren. Sie müssen sich jedoch zuerst bei der Marketo Engage-Instanz für die URL anmelden, zu der Sie navigieren. Um beispielsweise zu einem Lesezeichen für eine Smart-Campaign-Instanz mit der Munchkin-ID 123-ABC-456 zu navigieren, müssen Sie sich zuerst mit der Munchkin-ID 123-ABC-456 bei der Marketo Engage-Instanz anmelden.
+
+**Funktioniert dies mit SSO?**
+
+Ja. Die Integration mit Adobe IMS unterstützt Benutzer mit universeller ID und SSO. SSO wird jetzt von Adobe IMS gesteuert und auf Unternehmensebene in der Adobe Admin Console eingerichtet. Es gibt jedoch Unterschiede zwischen der Marketo Engage-IDp-initiierten und der Adobe-SP-initiierten Unterstützung ([ Informationen finden Sie hier](https://helpx.adobe.com/de/enterprise/using/set-up-identity.html){target="_blank"}). Wenn Sie Hilfe zu SSO-Unterschieden nach der Migration zu Admin Console benötigen, wenden Sie sich an die [Adobe-Kundenunterstützung](https://helpx.adobe.com/contact.html){target="_blank"}.
 
 **Was ist der Unterschied zwischen einem Adobe-Produkt-Administrator und einem Marketo Engage-Administrator?**
 
