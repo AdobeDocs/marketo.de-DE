@@ -5,10 +5,10 @@ hide: true
 hidefromtoc: true
 feature: Email Editor
 exl-id: 9e1d81fb-28f5-47d4-b813-950462fee81d
-source-git-commit: fa18730e9a7ce60f8a2e4f7069ea6b82976549aa
+source-git-commit: 7837499e74558e6e48bf7b1e681f936f63d2843f
 workflow-type: tm+mt
-source-wordcount: '1683'
-ht-degree: 5%
+source-wordcount: '1732'
+ht-degree: 4%
 
 ---
 
@@ -19,6 +19,10 @@ Für einen beschleunigten und verbesserten Design-Prozess können Sie eigenstän
 >[!IMPORTANT]
 >
 >Dieser Artikel ist nur für Mitglieder der neuen Marketo Engage Email Designer Beta. Bitte nicht verbreiten.
+
+>[!PREREQUISITES]
+>
+>Um auf den neuen E-Mail-Designer zugreifen zu können, muss Ihr Marketo Engage-Abonnement auf das [Adobe Identity Management System (IMS) migriert ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Wenn Ihre Anfrage noch nicht bearbeitet wurde und Sie eine Beschleunigung anfordern möchten, wenden Sie sich bitte an das Adobe-Account-Team (Ihren Account Manager) oder an den [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support).
 
 >[!NOTE]
 >
