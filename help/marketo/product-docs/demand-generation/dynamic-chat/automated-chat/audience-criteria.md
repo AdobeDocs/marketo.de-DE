@@ -3,9 +3,9 @@ description: Zielgruppenkriterien - Marketo-Dokumente - Produktdokumentation
 title: Zielgruppenkriterien
 feature: Dynamic Chat
 exl-id: 95c4558e-0c0c-4623-bb7d-b6ac2f455c01
-source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
+source-git-commit: d255c1c4c15d5aca5d89687f50ee0e6f0dedfb7d
 workflow-type: tm+mt
-source-wordcount: '597'
+source-wordcount: '605'
 ht-degree: 1%
 
 ---
@@ -129,7 +129,9 @@ Zulässige Formate:
 
 >[!NOTE]
 >
->Die Verwendung eines Sternchens dient als Platzhalter für alle Fälle. `https://*.website.com` würde den Dialog also auf jeder Seite der Website, einschließlich Subdomains (z. B.: `support.website.com`). Und `https://website.com/folder/*` würde den Dialog auf jeder HTML-Seite in den nachfolgenden Ordner setzen (z. B.: in diesem Fall sagen wir, dass der Ordner „sports“ ist, also: website.com/sports/baseball.html, website.com/sports/football.html, etc.).
+>* Die Verwendung eines Sternchens dient als Platzhalter für alle Fälle. `https://*.website.com` würde den Dialog also auf jeder Seite der Website, einschließlich Subdomains (z. B.: `support.website.com`). Und `https://website.com/folder/*` würde den Dialog auf jeder HTML-Seite in den nachfolgenden Ordner setzen (z. B.: in diesem Fall sagen wir, dass der Ordner „sports“ ist, also: website.com/sports/baseball.html, website.com/sports/football.html, etc.).
+>
+>* URL-Parameter werden derzeit nicht unterstützt.
 
 **Ausschlüsse**
 
