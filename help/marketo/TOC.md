@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 4e13fbba90efcecf8f22e4d8cdc5173e6f6f43a4
+source-git-commit: bd3c3a9252c47b868ad64f69da42a552015e6b11
 workflow-type: tm+mt
-source-wordcount: '9383'
+source-wordcount: '9388'
 ht-degree: 4%
 
 ---
@@ -802,6 +802,7 @@ ht-degree: 4%
       + Bilder und Dateien {#images-and-files}
          + [Neues Dokument Bilder hinzufügen](product-docs/demand-generation/images-and-files/new-add-images-doc.md)
          + [Hinzufügen von Bildern und Dateien zu Marketo](product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
+         + [Assets mit Adobe Expreß bearbeiten](product-docs/demand-generation/images-and-files/edit-assets-with-adobe-express.md)
          + [Hochgeladene Bilder oder Dateien löschen](product-docs/demand-generation/images-and-files/delete-an-uploaded-image-or-file.md)
          + [Suchen der URL eines hochgeladenen Bildes oder einer hochgeladenen Datei](product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
          + [Erfassen der Bilder von einer Web-Seite](product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)
