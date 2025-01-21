@@ -4,7 +4,7 @@ description: Benutzerdefinierte RTP-Dashboards in Google Universal Analytics - D
 title: Benutzerdefinierte RTP-Dashboards in Google Universal Analytics
 exl-id: 712c71b6-74eb-4743-9ca8-50c912278e62
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 89995b2cd6fdc2f2e4ea43906304bdf16d367de1
 workflow-type: tm+mt
 source-wordcount: '759'
 ht-degree: 0%
@@ -132,7 +132,7 @@ Das Dashboard besteht aus drei Spalten
      <li>Typ: Balken<br></li> 
      <li>Erstellen Sie ein Balkendiagramm mit folgenden Informationen: Sitzungen</li> 
      <li>Gruppiert nach: RTP-Group</li> 
-    </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a35-3a54.png" data-linked-resource-id="7504256" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></th> 
+    </ul><p><img width="350" src="assets/image2015-3-23-11-3a35-3a54.png" data-linked-resource-id="7504256" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></th> 
   </tr> 
   <tr> 
    <th> </th> 
@@ -142,7 +142,7 @@ Das Dashboard besteht aus drei Spalten
      <li>Typ: Tabelle<br></li> 
      <li>Zeigt die folgenden Spalten an: <br>Ereignisbeschriftung | Sitzungen | Zielkonversionsrate</li> 
      <li>Filter: <br>nur anzeigen | Ereigniskategorie (enthält) RTP-Segmente</li> 
-    </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a36-3a15.png" data-linked-resource-id="7504257" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></th> 
+    </ul><p><img width="350" src="assets/image2015-3-23-11-3a36-3a15.png" data-linked-resource-id="7504257" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></th> 
    <th> </th> 
   </tr> 
  </tbody> 
@@ -181,15 +181,15 @@ Erstellen Sie ein neues Dashboard mit dem Namen **RTP-Interaktions** Dashboard u
      <li>Name: <strong>Total CTA (Engagement)</strong></li> 
      <li>Typ: <strong>2.1 Metrik </strong></li> 
      <li>Die folgende Metrik anzeigen: <strong>Ereignisse insgesamt</strong></li> 
-     <li>Filter:<br><strong>[nur anzeigen] Ereigniskategorie (enthält): RTP-Kampagnen</strong><br><strong>[nur anzeigen] Ereignisaktion (exakt übereinstimmend): </strong><strong>[nicht anzeigen] Ereignisbezeichnung (enthält): #</strong></li> 
-    </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a37-3a55.png" data-linked-resource-id="7504259" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
+     <li>Filter:<br><strong>[nur anzeigen] Ereigniskategorie (enthält): RTP-Kampagnen</strong><br><strong>[nur anzeigen] Ereignisaktion (exakt übereinstimmend): </strong>[nicht anzeigen] Ereignisbezeichnung (enthält): #</li> 
+    </ul><p><img width="350" src="assets/image2015-3-23-11-3a37-3a55.png" data-linked-resource-id="7504259" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> 
     <ul> 
      <li>Name: <strong>Total CTA (Clickthrough)</strong></li> 
      <li>Typ: <strong>2.1 Metrik </strong></li> 
      <li>Die folgende Metrik anzeigen: <strong>Ereignisse insgesamt</strong></li> 
      <li>Filter:<br><strong>[nur anzeigen] Ereigniskategorie (enthält): RTP-Kampagnen</strong><br><strong>[nur anzeigen] Ereignisaktion (exakt übereinstimmend): </strong><strong>[nicht anzeigen] Ereignisbezeichnung (enthält): #</strong></li> 
-    </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a38-3a12.png" data-linked-resource-id="7504261" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
+    </ul><p><img width="350" src="assets/image2015-3-23-11-3a38-3a12.png" data-linked-resource-id="7504261" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> 
     <ul> 
      <li>Name: <strong>CRE - Klicks insgesamt</strong></li> 
@@ -205,14 +205,14 @@ Erstellen Sie ein neues Dashboard mit dem Namen **RTP-Interaktions** Dashboard u
      <li>Typ: <strong>2.1 Metrik </strong></li> 
      <li>Die folgende Metrik anzeigen: <strong>Durchschnitt. Sitzungsdauer</strong></li> 
      <li>Filter:<br><strong>[nur anzeigen] Ereigniskategorie (exakt übereinstimmend): RTP-Kampagnen</strong><br><strong>[nur anzeigen] Ereignisaktion (exakt übereinstimmend): Impression</strong><strong>[nicht anzeigen] Ereignisbezeichnung (enthalten): #</strong></li> 
-    </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a41-3a21.png" data-linked-resource-id="7504264" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
+    </ul><p><img width="350" src="assets/image2015-3-23-11-3a41-3a21.png" data-linked-resource-id="7504264" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td colspan="1"> 
     <ul> 
      <li>Name: <strong>avg. Sitzungsdauer (Clickthrough)</strong></li> 
      <li>Typ: <strong>2.1 Metrik </strong></li> 
      <li>Die folgende Metrik anzeigen: <strong>Durchschnitt. Sitzungsdauer</strong></li> 
      <li>Filter:<br><strong>[nur anzeigen] Ereigniskategorie (exakt übereinstimmend): RTP-Kampagnen</strong><br><strong>[nur anzeigen] Ereignisaktion (exakt übereinstimmend): </strong><strong>[nicht anzeigen] Ereignisbezeichnung (enthalten): #</strong></li> 
-    </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a41-3a37.png" data-linked-resource-id="7504265" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
+    </ul><p><img width="350" src="assets/image2015-3-23-11-3a41-3a37.png" data-linked-resource-id="7504265" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td colspan="1"> 
     <ul> 
      <li>Name: <strong>CRE - Top Recommended Content</strong></li> 
@@ -239,7 +239,7 @@ Erstellen Sie ein neues Dashboard mit dem Namen **RTP-Interaktions** Dashboard u
      <li>Filter:<br><strong>[nur anzeigen] Ereigniskategorie (exakt passend): RTP-Kampagnen</strong></li> 
      <li><strong>[nur anzeigen] Ereignisaktion (exakt passend): Klicks</strong></li> 
      <li><strong>[Nicht anzeigen] Ereignisbezeichnung (enthält): #</strong></li> 
-    </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a42-3a32.png" data-linked-resource-id="7504268" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
+    </ul><p><img width="350" src="assets/image2015-3-23-11-3a42-3a32.png" data-linked-resource-id="7504268" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> </td> 
   </tr> 
   <tr> 

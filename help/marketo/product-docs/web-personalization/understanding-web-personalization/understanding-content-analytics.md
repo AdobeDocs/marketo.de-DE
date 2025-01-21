@@ -4,7 +4,7 @@ description: Grundlegendes zur Inhaltsanalyse - Marketo-Dokumente - Produktdokum
 title: Grundlagen zur Inhaltsanalyse
 exl-id: 9266fdfe-2a12-43b0-84ad-d12eb8589ed4
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 89995b2cd6fdc2f2e4ea43906304bdf16d367de1
 workflow-type: tm+mt
 source-wordcount: '374'
 ht-degree: 2%
@@ -48,7 +48,7 @@ Die Analytics-Tabelle enthält die folgenden Details:
    <td colspan="1" rowspan="1">Name des Assets mit digitalen Inhalten. Klicken Sie <strong>Titel</strong>, um die Inhalts-URL in einer neuen Registerkarte zu öffnen.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p><strong>Recommendation </strong><strong>icon</strong></p><p><strong><img alt="—" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></strong></p></td> 
+   <td colspan="1"><p><strong>Recommendation </strong><strong>icon</strong></p><p><img alt="—" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></p></td> 
    <td colspan="1">Gibt an, ob das Inhaltselement für „Content Recommendations<a href="#"> hinzugefügt </a>.</td> 
   </tr> 
   <tr> 
@@ -60,7 +60,7 @@ Die Analytics-Tabelle enthält die folgenden Details:
    <td colspan="1" rowspan="1">Web-Besucherinnen und -Besucher, die den Inhalt angesehen und ein Formular während desselben Besuchs ausgefüllt haben</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p><strong>Analytics-Symbol</strong></p><p><strong><img alt="--" width="17" src="assets/analytics-icon.png" data-linked-resource-id="10097027" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></strong></p></td> 
+   <td colspan="1"><p><strong>Analytics-Symbol</strong></p><p><img alt="--" width="17" src="assets/analytics-icon.png" data-linked-resource-id="10097027" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></p></td> 
    <td colspan="1">Weitere Analysen zum Inhaltsteil anzeigen</td> 
   </tr> 
   <tr> 

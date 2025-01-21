@@ -4,7 +4,7 @@ description: Versionshinweise - 20. Oktober - Marketo-Dokumente - Produktdokumen
 title: Versionshinweise - Oktober 2020
 exl-id: da6a3de5-5ef0-4ce3-8ee1-6ca3dd482fdc
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 89995b2cd6fdc2f2e4ea43906304bdf16d367de1
 workflow-type: tm+mt
 source-wordcount: '957'
 ht-degree: 1%
@@ -29,7 +29,7 @@ Die folgenden Funktionen sind in der Version vom Oktober 2020 enthalten. Überpr
 
 ## E-Mail-Marketing {#email-marketing}
 
-* **Batch Email Boost ![(star)](assets/yellow-star.png)**: Senden Sie mehr E-Mails mit einem erhöhten Durchsatz von bis zu 5 Millionen Batch-E-Mails pro Stunde. Dank der erweiterten E-Mail-Zustellbarkeitsoptionen ist es nicht mehr notwendig, zwischen E-Mail-Batches zu warten. So können Sie alle E-Mails pünktlich und planmäßig senden.
+* **Batch Email Boost** ![(star)](assets/yellow-star.png): Senden Sie mehr E-Mails mit einem erhöhten Durchsatz von bis zu 5 Millionen Batch-E-Mails pro Stunde. Dank der erweiterten E-Mail-Zustellbarkeitsoptionen ist es nicht mehr notwendig, zwischen E-Mail-Batches zu warten. So können Sie alle E-Mails pünktlich und planmäßig senden.
 
 ## Website-Marketing {#website-marketing}
 
@@ -57,7 +57,7 @@ Die folgenden Funktionen sind in der Version vom Oktober 2020 enthalten. Überpr
 
 * **Feldverwaltung**: Mit der neuen Metadaten-Eingabefunktion im Felddatensatz können API-Feldnamen problemlos gefunden werden. Es müssen nicht alle Felder in Tabellen exportiert werden, um den Feldnamen zu ermitteln. Erstellen Sie Integrationen mit Apps aus LaunchPoint, verbinden Sie Datenbanken oder verwenden Sie unsere offenen APIs auf eine Weise, die zu Ihrem Unternehmen passt.
 
-* **Neue Metadaten-Exportoptionen**: Exportieren Sie benutzerdefinierte Objektmetadaten für ausgewählte benutzerdefinierte Objekte in eine Tabelle, um die Freigabe zu erleichtern. Darüber hinaus können die Metadaten eines oder aller Abonnementobjekte exportiert werden, z. B. Lead-, Unternehmens-, Standard- und benutzerdefinierte Aktivitäten, Tags und Kanäle. Daten können von Administratoren extrahiert und schnell für Analyse- und Design-Zwecke an Entwicklungsteams weitergegeben werden.
+* **Neue Metadaten-Exportoptionen**: Exportieren Sie benutzerdefinierte Objektmetadaten für ausgewählte benutzerdefinierte Objekte in eine Tabelle, um die Freigabe zu erleichtern. Darüber hinaus können die Metadaten eines oder aller Abonnementobjekte exportiert werden, z. B. Lead, Unternehmen, Standard- und benutzerdefinierte Aktivitäten, Tags und Kanäle. Daten können von Administratoren extrahiert und schnell für Analyse- und Design-Zwecke an Entwicklungsteams weitergegeben werden.
 
 * **Benutzerdefiniertes Feld für Opportunity**: Erhalten Sie mehr Einblick in Opportunity-Datensätze, wenn benutzerdefinierte Felder für Opportunities auf Marketo Engage angezeigt werden. Zeigen Sie Daten zu benutzerdefinierten Opportunity-Feldern aus Salesforce CRM, Microsoft Dynamics 365 CRM, nativen Sales-Integrationen oder über andere API-Integrationen an. Durch umfassende Einblicke in Opportunity-Details und die Pipeline können Sie die Interaktion in Abstimmung mit dem Vertrieb koordinieren, Konversionen erhöhen und helfen, Angebote schneller abzuschließen.
 

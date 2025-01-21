@@ -4,7 +4,7 @@ description: Versionshinweise - Januar 2020 - Marketo-Dokumente - Produktdokumen
 title: Versionshinweise - Januar 2020
 exl-id: 7b011c1a-1161-42f8-8bd0-4ee273928b59
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 89995b2cd6fdc2f2e4ea43906304bdf16d367de1
 workflow-type: tm+mt
 source-wordcount: '827'
 ht-degree: 1%
@@ -40,7 +40,7 @@ Die folgenden Funktionen werden am (**. Januar 2020)**.
 
 ![(Stern)](assets/yellow-star.png)
 
-* **[New Account Discovery (BETA)](https://docs.marketo.com/x/WQA6Ag) ![(star)](assets/yellow-star.png)**: Verwenden Sie die Kontoprofilierung, um neue Zielkonten für Ihre ABM-Strategie zu finden, die auf Ihrem KI-gestützten idealen Kundenprofilmodell basieren. Empfohlene neue Konten zusammen mit ihren KI-basierten Anpassungs- und Intent-Datenindikatoren, die noch nicht in Ihrer Marketo Engage-Lead- und Kontodatenbank für das ABM-Targeting vorhanden sind, anzeigen, auswählen und importieren. Sofort für qualifizierte Kunden von Account Profiling verfügbar.
+* [New Account Discovery (BETA)](https://docs.marketo.com/x/WQA6Ag) ![(star)](assets/yellow-star.png): Verwenden Sie die Kontoprofilierung, um neue Zielkonten für Ihre ABM-Strategie zu finden, die auf Ihrem KI-gestützten idealen Kundenprofilmodell basieren. Empfohlene neue Konten zusammen mit ihren KI-basierten Anpassungs- und Intent-Datenindikatoren, die noch nicht in Ihrer Marketo Engage-Lead- und Kontodatenbank für das ABM-Targeting vorhanden sind, anzeigen, auswählen und importieren. Sofort für qualifizierte Kunden von Account Profiling verfügbar.
 
 <br> 
 
