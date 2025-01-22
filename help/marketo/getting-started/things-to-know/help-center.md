@@ -3,10 +3,10 @@ description: Hilfe-Center - Marketo Engage-Dokumente - Produktdokumentation
 title: Hilfezentrum
 feature: Getting Started
 exl-id: 3dd7c005-a416-4808-9418-9114df76d963
-source-git-commit: f0885ae2fcc1fe51768edc34bc4e814c19b9c315
+source-git-commit: 78497d45949d40486ee87bd888477ba6a85d76ba
 workflow-type: tm+mt
-source-wordcount: '158'
-ht-degree: 5%
+source-wordcount: '312'
+ht-degree: 3%
 
 ---
 
@@ -16,11 +16,17 @@ Das Hilfezentrum in Adobe Marketo Engage dient als zentraler Ort, um Hilfe zu er
 
 ## Zugriff {#how-to-access}
 
-Nachdem Sie sich beim Marketo Engage angemeldet haben, klicken Sie auf das Hilfesymbol.
+Es gibt zwei verschiedene Erlebnisse, je nachdem, ob Ihr Abonnement bereits auf das Adobe Identity Management System (IMS) migriert wurde.
+
+### IMS-Migration vor Adobe {#pre-adobe-ims-integration}
+
+Diese Schritte richten sich an Marketo Engage-Benutzende _die noch_ zu [Adobe IMS](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md) migriert wurden.
+
+[Anmelden](http://login.marketo.com/) auf Marketo Engage und klicken Sie auf das Hilfesymbol.
 
 ![](assets/help-center-1.png)
 
-### Handbücher {#guides}
+#### Handbücher {#guides}
 
 Handbücher dienen als schnelle Anleitungen für beliebte Funktionen.
 
@@ -46,9 +52,9 @@ Handbücher dienen als schnelle Anleitungen für beliebte Funktionen.
    >
    >Sie können das Handbuch jederzeit verlassen, indem Sie auf **Verwerfen** klicken.
 
-### Neuerungen {#whats-new}
+#### Neuerungen {#whats-new}
 
-Die Registerkarte Neue Funktionen enthält alle Details der neuesten Version von Marketo Engage.
+Die Registerkarte Neue Funktionen enthält die Details der neuesten Version von Marketo Engage.
 
 ![](assets/help-center-7.png)
 
@@ -56,8 +62,32 @@ Die Registerkarte Neue Funktionen enthält alle Details der neuesten Version von
 >
 >Klicken Sie unten auf das Pfeilsymbol, um die Seite im Experience League anzuzeigen.
 
-### Ressourcen {#resources}
+#### Ressourcen {#resources}
 
 Die Registerkarte Ressourcen bietet Ihnen schnellen und direkten Zugriff auf verschiedene Möglichkeiten, zusätzliche Hilfe zu Ihrer Marketo Engage-Instanz zu erhalten.
 
 ![](assets/help-center-8.png)
+
+### Nach der Adobe IMS-Migration {#post-adobe-ims-integration}
+
+Diese Schritte richten sich an Marketo Engage-Benutzende, die bereits zu [Adobe IMS) migriert ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md).
+
+[Anmelden](https://experience.adobe.com/) auf Marketo Engage und klicken Sie auf das Hilfesymbol.
+
+![](assets/help-center-9.png)
+
+Das Hilfezentrum wird angezeigt. Klicken Sie auf eine der aufgelisteten Hilferessourcen, um sie in den entsprechenden Bereich zu übernehmen. Sie können auch nach bestimmten Begriffen suchen.
+
+![](assets/help-center-10.png)
+
+Handbücher (ehemals Teil des Hilfe-Centers vor der Adobe IMS-Migration) befinden sich jetzt im linken Navigationsbereich.
+
+![](assets/help-center-11.png)
+
+Das Guide Center verfügt über zwei Registerkarten: Guides und Neue Funktionen. Handbücher dienen als schnelle Anleitungen für beliebte Funktionen in Marketo Engage. Klicken Sie auf einen gewünschten Guide oder suchen Sie nach einem bestimmten Guide.
+
+![](assets/help-center-12.png)
+
+Die Registerkarte Neue Funktionen enthält die Details der neuesten Version von Marketo Engage.
+
+![](assets/help-center-13.png)
