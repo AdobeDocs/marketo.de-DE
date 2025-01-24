@@ -3,9 +3,9 @@ description: Eine Marketing-Kampagne in Sales-Insight-Aktionen anzeigen - Market
 title: Marketing-Kampagnen in Sales-Insight-Aktionen sichtbar machen
 exl-id: 223baca3-159e-4f0d-b26f-f4c924a39fc3
 feature: Sales Insight Actions
-source-git-commit: 696353c74fd14fe72699fb53a87cfed5e9c42d51
+source-git-commit: c6132bf5b393df38700ad9dd6f0c6414860e8bb6
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '300'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Mit Sales Insight-Aktionen haben Benutzer Zugriff auf eine neue Verkaufs-App nam
 
    >[!NOTE]
    >
-   >Wenn Sie die Marketing-Kampagne Benutzern anzeigen möchten, die _Zur Marketing-Kampagne hinzufügen_ aus der Web-Anwendung toutapp.com verwenden (dies gilt auch, wenn die Web-Anwendung über das Marketo-Verkaufs-Postausgangsobjekt in das CRM eingebettet ist), setzen Sie sie auf „Web-Service-API“. Wenn die Marketing-Kampagne angezeigt werden soll, wenn Benutzende die Aktionen des MSI-Bedienfelds in Salesforce für den Lead, den Kontakt, die Kontoseite oder die Massenaktionsschaltflächen in den Lead- und Kontaktlistenansichten verwenden, aktualisieren Sie sie auf „Verkaufsinsights“
+   >Wenn Sie die Marketing-Kampagne Benutzern anzeigen möchten, die _Zur Marketing-Kampagne hinzufügen_ aus der Web-Anwendung toutapp.com verwenden (dies gilt auch, wenn die Web-Anwendung über das Marketo-Objekt „Verkaufsausgang“ in das CRM eingebettet ist), setzen Sie die angeforderte Kampagnenquelle auf „Web-Service-API“. Wenn die Marketing-Kampagne angezeigt werden soll, wenn Benutzende die Aktionen des MSI-Bedienfelds in Salesforce für den Lead, den Kontakt, die Kontoseite oder die Massenaktionsschaltflächen in den Lead- und Kontaktlistenansichten verwenden, aktualisieren Sie die angeforderte Kampagnenquelle in „Verkaufsinsights“
 
 1. Klicken Sie auf **Registerkarte** Fluss“.
 
