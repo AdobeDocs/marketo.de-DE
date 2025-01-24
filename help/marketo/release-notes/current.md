@@ -3,10 +3,10 @@ description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokument
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 7837499e74558e6e48bf7b1e681f936f63d2843f
+source-git-commit: 50c60e6b82215f59ec20e4872ff7a72edbb3681f
 workflow-type: tm+mt
-source-wordcount: '523'
-ht-degree: 7%
+source-wordcount: '551'
+ht-degree: 6%
 
 ---
 
@@ -32,8 +32,8 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <th style="width:25%">Dokumentation</th>
   </tr>
     <tr> 
-   <td><strong>Neue E-Mail-Designer</strong>: Erstellen Sie moderne und effiziente E-Mails mit der neuen nativen E-Mail-Designer in Marketo Engage. Greifen Sie auf eine der vordefinierten E-Mail-Vorlagen zu oder erstellen Sie einfach Ihre eigenen. Verwenden Sie dynamische Inhalte und greifen Sie über Adobe Experience Manager Cloud Services auf Bilder zu.
-   <p><img src="assets/note-icon.png" alt="Notizensymbol"> HINWEIS: Um auf den neuen E-Mail-Designer zugreifen zu können, muss Ihr Marketo Engage-Abonnement auf das <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview">Adobe Identity Management System (IMS) migriert </a>. Wenn Ihre Anfrage noch nicht bearbeitet wurde und Sie eine Beschleunigung anfordern möchten, wenden Sie sich bitte an das Adobe-Account-Team (Ihren Account Manager) oder an den <a href="https://nation.marketo.com/t5/support/ct-p/Support">Marketo-Support</a>.</td> 
+   <td><strong>Neue E-Mail-Designer</strong>: Erstellen Sie moderne und effiziente E-Mails mit der neuen nativen E-Mail-Designer in Marketo Engage. Greifen Sie auf eine der vordefinierten E-Mail-Vorlagen zu oder erstellen Sie einfach Ihre eigenen. Verwenden Sie dynamische Inhalte und greifen Sie über Adobe Experience Manager Cloud Services auf Bilder zu. Verwenden Sie die Funktion Content Accelerator Gen-AI , um innovative und leistungsstarke E-Mails in großem Umfang zu erstellen.
+   <p><img src="assets/note-icon.png" alt="Notizensymbol"> HINWEIS: Um auf den neuen E-Mail-Designer zugreifen zu können, muss Ihr Marketo Engage-Abonnement auf das <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview">Adobe Identity Management System (IMS) migriert </a>. Wenn Ihre Anfrage noch nicht bearbeitet wurde und Sie eine Beschleunigung anfordern möchten, wenden Sie sich bitte an das Adobe-Account-Team (Ihren Account Manager) oder an den <a href="https://nation.marketo.com/t5/support/ct-p/Support">Marketo-Support</a>. Um auf die Funktion Content Accelerator Gen-AI zugreifen zu können, wenden Sie sich bitte an das Adobe-Account-Team.</td>
    <td><i>Demnächst verfügbar</i></td>
    <td><i>Demnächst verfügbar</i></td>
   </tr>
