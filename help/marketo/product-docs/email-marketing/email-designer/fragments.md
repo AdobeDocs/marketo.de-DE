@@ -3,7 +3,7 @@ title: Fragmente
 description: Erfahren Sie, wie Sie visuelle Inhaltsfragmente als wiederverwendbare Komponenten für E-Mails und E-Mail-Vorlagen erstellen und verwenden.
 hide: true
 hidefromtoc: true
-source-git-commit: b9c1ffef43f18aa504d23b3101cfab896800537f
+source-git-commit: 402f8da4fdb92619d561fe4acb8aead0d9701c51
 workflow-type: tm+mt
 source-wordcount: '2428'
 ht-degree: 4%
@@ -76,13 +76,13 @@ SCREENSHOT
 
 ### Filtern der Fragmentliste {#filter-the-fragments-list}
 
-Verwenden Sie die Suchleiste, um ein Fragment anhand des Namens zu finden. Klicken Sie auf _Filter_-Symbol ( ![Filtersymbol ein- oder ausblenden](../assets/do-not-localize/icon-filter.svg) ), um die verfügbaren Filteroptionen anzuzeigen und die gewünschten Einstellungen auszuwählen.
+Verwenden Sie die Suchleiste, um ein Fragment anhand des Namens zu finden. Klicken Sie auf _Filter_-Symbol ( ![Filtersymbol ein- oder ausblenden](assets/icon-filter.svg) ), um die verfügbaren Filteroptionen anzuzeigen und die gewünschten Einstellungen auszuwählen.
 
 SCREENSHOT
 
 ### Spaltenanzeige anpassen {#customize-the-column-display}
 
-Passen Sie die Spalten an, die Sie in der Tabelle anzeigen möchten, indem Sie auf das Symbol _Tabelle anpassen_ ( ![Symbol Tabelle anpassen](../assets/do-not-localize/icon-column-settings.svg) ) oben rechts klicken.
+Passen Sie die Spalten an, die Sie in der Tabelle anzeigen möchten, indem Sie auf das Symbol _Tabelle anpassen_ ( ![Symbol Tabelle anpassen](assets/icon-column-settings.svg) ) oben rechts klicken.
 
 Wählen Sie im Dialogfeld die gewünschten Spalten aus und klicken Sie auf **[!UICONTROL Anwenden]**.
 
