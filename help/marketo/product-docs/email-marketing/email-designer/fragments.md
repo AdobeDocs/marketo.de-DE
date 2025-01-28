@@ -3,9 +3,9 @@ title: Fragmente
 description: Erfahren Sie, wie Sie visuelle Inhaltsfragmente als wiederverwendbare Komponenten für E-Mails und E-Mail-Vorlagen erstellen und verwenden.
 hide: true
 hidefromtoc: true
-source-git-commit: 402f8da4fdb92619d561fe4acb8aead0d9701c51
+source-git-commit: 32aff679ec2de3f4ff93f89ac298b1fec3cb9792
 workflow-type: tm+mt
-source-wordcount: '2428'
+source-wordcount: '2429'
 ht-degree: 4%
 
 ---
@@ -236,7 +236,7 @@ SCREENSHOT
 
 1. Wenn Sie den Inhalt aktualisieren möchten, klicken Sie oben **[!UICONTROL auf „Entwurfsversion]**&quot;.
 
-   Klicken Sie **[!UICONTROL Dialogfeld]** OK“, um die Entwurfsversion im visuellen Designer zu öffnen. Sie können bei [ die ](./assets-overview.md#choose-an-asset-source) ändern.
+   Klicken Sie **[!UICONTROL Dialogfeld]** OK“, um die Entwurfsversion im visuellen Designer zu öffnen. Sie können bei Bedarf die `image source` KG - LINK HERE ändern.
 
 SCREENSHOT
 
