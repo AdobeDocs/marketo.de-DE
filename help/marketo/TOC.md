@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: ace80b7c19979c48927f37adf0d09471fec3f93b
+source-git-commit: b9c1ffef43f18aa504d23b3101cfab896800537f
 workflow-type: tm+mt
-source-wordcount: '9394'
+source-wordcount: '9406'
 ht-degree: 4%
 
 ---
@@ -1061,6 +1061,12 @@ ht-degree: 4%
             + [Verfügbarkeit von Stream-Inhalten bearbeiten](product-docs/email-marketing/drip-nurturing/using-stream-content/edit-availability-of-stream-content.md)
             + [Priorisieren von Stream-Inhalten](product-docs/email-marketing/drip-nurturing/using-stream-content/prioritize-stream-content.md)
             + [Stream-Inhalt entfernen](product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
+      + E-Mail an Designer {#email-designer}
+         + [Überblick](product-docs/email-marketing/email-designer/overview.md)
+         + [E-Mail-Erstellung](product-docs/email-marketing/email-designer/email-authoring.md)
+         + [E-Mail-Vorlagen](product-docs/email-marketing/email-designer/email-templates.md)
+         + [Arbeiten mit AEM Assets](product-docs/email-marketing/email-designer/aem-assets.md)
+         + [Fragmente](product-docs/email-marketing/email-designer/fragments.md)
       + E-Mail-Programme {#email-programs}
          + E-Mail-Programm erstellen {#creating-an-email-program}
             + [E-Mail-Programm erstellen](product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
