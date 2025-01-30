@@ -4,9 +4,10 @@ title: E-Mail-Erstellung
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 723caafc41da6d4aeb9101bb6f9a999b45d72dd9
+exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
+source-git-commit: 783a5baa5961ea899b41c8d4a329598fbeb5e58f
 workflow-type: tm+mt
-source-wordcount: '1486'
+source-wordcount: '1611'
 ht-degree: 3%
 
 ---
@@ -20,6 +21,12 @@ Erfahren Sie, wie Sie E-Mails in der neuen Marketo Engage-E-Mail-Designer erstel
 >Um auf den neuen E-Mail-Designer zugreifen zu können, muss Ihr Marketo Engage-Abonnement auf das [Adobe Identity Management System (IMS) migriert ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Wenn Ihre Anfrage noch nicht bearbeitet wurde und Sie eine Beschleunigung anfordern möchten, wenden Sie sich bitte an das Adobe-Account-Team (Ihren Account Manager) oder an den [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ## Erstellen einer E-Mail {#create-an-email}
+
+E-Mails aus der E-Mail-Designer können derzeit nur im Design Studio erstellt und in Smart-Kampagnen/Listen referenziert oder direkt in E-Mail-Programmen erstellt/verwendet werden.
+
+>[!BEGINTABS]
+
+>[!TAB Design Studio]
 
 1. Melden Sie sich über die [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"} bei Marketo Engage an.
 
@@ -38,6 +45,28 @@ Erfahren Sie, wie Sie E-Mails in der neuen Marketo Engage-E-Mail-Designer erstel
 1. Geben Sie einen E-Mail-Namen und eine Betreffzeile ein. Klicken Sie auf **Erstellen**.
 
    ![](assets/create-an-email-4.png)
+
+>[!TAB E-Mail-Programm]
+
+1. Melden Sie sich über die [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"} bei Marketo Engage an.
+
+1. Suchen und wählen Sie Ihr E-Mail-Programm aus (oder erstellen Sie es).
+
+   ![](assets/create-an-email-5.png)
+
+1. Sie haben zwei Möglichkeiten, eine neue E-Mail zu erstellen. Klicken Sie mit der rechten Maustaste auf den Namen Ihres E-Mail-Programms und wählen Sie **Neues lokales Asset**, oder klicken Sie auf die Schaltfläche **+Neue E-Mail** im Feld E-Mail im Dashboard. In diesem Beispiel werden wir ersteres tun.
+
+   ![](assets/create-an-email-6.png)
+
+1. Wählen Sie **E-Mail (neuer Editor)**.
+
+   ![](assets/create-an-email-7.png)
+
+1. Geben Sie einen E-Mail-Namen und eine Betreffzeile ein. Klicken Sie auf **Erstellen**.
+
+   ![](assets/create-an-email-8.png)
+
+>[!ENDTABS]
 
 Das war&#39;s. Jetzt ist es an der Zeit, Ihre E-Mail zu entwerfen.
 
@@ -308,7 +337,7 @@ Um eine Vorschau Ihres E-Mail-Inhalts anzuzeigen, klicken Sie **Inhalt simuliere
 
 ## Referenzieren einer E-Mail {#reference-an-email}
 
-Nachdem Sie eine E-Mail im neuen Editor erstellt haben, können Sie sie in Smart-Kampagnen und/oder Smart-Listen wie bei jeder anderen E-Mail referenzieren.
+Wenn Sie Ihre E-Mail in einem E-Mail-Programm erstellt haben, kann sie nur in diesem Programm verwendet werden. Wenn Sie Ihre E-Mail im Design Studio erstellt haben, kann sie von Smart-Kampagnen und/oder Smart-Listen wie jede andere E-Mail referenziert werden.
 
 * Verweisen Sie in einer Smart List darauf, indem [ die üblichen Schritte ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md).
 
@@ -320,4 +349,4 @@ Nachdem Sie eine E-Mail im neuen Editor erstellt haben, können Sie sie in Smart
 
 >[!MORELIKETHIS]
 >
->[E-Mail-Vorlagen](/help/marketo/product-docs/email-marketing/general/beta-new-email-designer/email-templates.md){target="_blank"}: Erfahren Sie, wie Sie im neuen Designer eine E-Mail-Vorlage erstellen, gestalten und darauf zugreifen.
+>[E-Mail-Vorlagen](/help/marketo/product-docs/email-marketing/email-designer/email-templates.md){target="_blank"}: Erfahren Sie, wie Sie im neuen Designer eine E-Mail-Vorlage erstellen, gestalten und darauf zugreifen.

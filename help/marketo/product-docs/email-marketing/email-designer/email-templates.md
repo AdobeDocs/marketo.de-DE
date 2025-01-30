@@ -4,7 +4,8 @@ title: E-Mail-Vorlagen
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 723caafc41da6d4aeb9101bb6f9a999b45d72dd9
+exl-id: 92af4ba4-f214-423c-ab2d-ade07b368797
+source-git-commit: 783a5baa5961ea899b41c8d4a329598fbeb5e58f
 workflow-type: tm+mt
 source-wordcount: '1714'
 ht-degree: 5%
@@ -352,4 +353,4 @@ Wählen Sie auf der _E_ Mail-Vorlagen“-Listenseite mehrere Vorlagen aus, indem
 
 >[!MORELIKETHIS]
 >
->[E-Mail-Authoring](/help/marketo/product-docs/email-marketing/general/beta-new-email-designer/email-authoring.md){target="_blank"}: Erfahren Sie, wie Sie eine E-Mail im neuen Designer erstellen, gestalten und referenzieren.
+>[E-Mail-Authoring](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"}: Erfahren Sie, wie Sie eine E-Mail im neuen Designer erstellen, gestalten und referenzieren.

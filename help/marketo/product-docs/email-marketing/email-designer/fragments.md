@@ -3,10 +3,11 @@ title: Fragmente
 description: Erfahren Sie, wie Sie visuelle Inhaltsfragmente als wiederverwendbare Komponenten für E-Mails und E-Mail-Vorlagen erstellen und verwenden.
 hide: true
 hidefromtoc: true
-source-git-commit: 32aff679ec2de3f4ff93f89ac298b1fec3cb9792
+exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
+source-git-commit: 783a5baa5961ea899b41c8d4a329598fbeb5e58f
 workflow-type: tm+mt
-source-wordcount: '2429'
-ht-degree: 4%
+source-wordcount: '2371'
+ht-degree: 2%
 
 ---
 
@@ -25,13 +26,13 @@ Visuelle Fragmente sind vordefinierte visuelle Blöcke, die mit dem visuellen In
 
 ## Zugreifen auf und Verwalten von Fragmenten {#access-and-manage-fragments}
 
-Um auf visuelle Fragmente zuzugreifen, navigieren Sie zur linken Navigationsleiste und klicken Sie auf **[!UICONTROL Content-Management]** > **[!UICONTROL Fragmente]**. Diese Aktion öffnet eine Listenseite mit allen in der Instanz erstellten Fragmenten, die in einer Tabelle aufgeführt sind.
+Um auf visuelle Fragmente zuzugreifen, wechseln Sie zum Design Studio. Klicken Sie in der Baumstruktur links auf **[!UICONTROL Fragmente (Neu)]**.
 
 SCREENSHOT
 
-Die Tabelle wird nach der Spalte _[!UICONTROL Geändert]_ sortiert, wobei die zuletzt aktualisierten Fragmente standardmäßig oben stehen. Klicken Sie auf den Spaltentitel, um zwischen aufsteigender und absteigender Reihenfolge zu wechseln.
+Standardmäßig wird die Tabelle nach der Spalte _[!UICONTROL Geändert]_ sortiert, wobei die zuletzt aktualisierten Fragmente oben stehen. Klicken Sie auf Andere Spaltentitel, um die Sortierung zu ändern. Klicken Sie erneut, um zwischen aufsteigender und absteigender Reihenfolge zu wechseln.
 
-### Fragmentstatus und -lebenszyklus
+### Fragmentstatus {#fragment-status}
 
 Der Fragmentstatus bestimmt seine Verfügbarkeit zur Verwendung in einer E-Mail oder E-Mail-Vorlage und die Änderungen, die Sie daran vornehmen können.
 
@@ -121,17 +122,7 @@ SCREENSHOT
 
 ### Hinzufügen von Struktur und Inhalt {#add-structure-and-content}
 
->[!CONTEXTUALHELP]
->id="ajo-b2b_structure_components_fragment"
->title="Hinzufügen von Strukturkomponenten"
->abstract="Strukturkomponenten definieren das Layout des Fragments. Ziehen Sie eine **Struktur**-Komponente per Drag-and-Drop auf die Arbeitsfläche, um mit der Gestaltung Ihres Fragmentinhalts zu beginnen."
-
->[!CONTEXTUALHELP]
->id="ajo-b2b_content_components_fragment"
->title="Über Inhaltskomponenten"
->abstract="Inhaltskomponenten sind leere Platzhalter für Inhalte, mit denen Sie das Layout eines Fragments erstellen können."
-
-{{$include /help/_includes/content-design-components.md}}
+{{$include /help/marketo/_includes/content-design-components.md}}
 
 ### Hinzufügen von Assets
 
@@ -327,7 +318,7 @@ Fragmente sind zur Wiederverwendung konzipiert und Sie können bis zu 30 in eine
 
 1. Navigieren Sie zu **[!UICONTROL Account-Journey]** und öffnen Sie eine bestehende Journey oder erstellen Sie eine neue Journey. &lt;— ÜBERPRÜFEN SIE DIES
 
-----------BEARBEITUNG HIER ANGEHALTEN---------
+---------BEARBEITUNG HIER ANGEHALTEN---------
 
 1. Erstellen Sie einen [_[!UICONTROL E-Mail senden ]_-Knoten](./email-authoring.md#add-an-email-action-in-an-account-journey).
 
