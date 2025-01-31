@@ -1,13 +1,11 @@
 ---
 description: Übersicht - Marketo-Dokumente - Produktdokumentation
 title: Überblick
-hide: true
-hidefromtoc: true
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: b8e8f81217b2addc4bc7dcd49be4cb852679d3b2
+source-git-commit: 861d4673fc173a9ce9d50f080cf0d85b6247155b
 workflow-type: tm+mt
-source-wordcount: '547'
+source-wordcount: '545'
 ht-degree: 0%
 
 ---
@@ -20,7 +18,7 @@ Willkommen bei der neuen Adobe Marketo Engage E-Mail-Designer.
 >
 >Um auf den neuen E-Mail-Designer zugreifen zu können, muss Ihr Marketo Engage-Abonnement auf das [Adobe Identity Management System (IMS) migriert ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Wenn Ihre Anfrage noch nicht bearbeitet wurde und Sie eine Beschleunigung anfordern möchten, wenden Sie sich bitte an das Adobe-Account-Team (Ihren Account Manager) oder an den [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support).
 
-Der neue E-Mail-Designer ist die neueste Marketo Engage-Innovation. Er bietet ein überarbeitetes Erlebnis bei der Erstellung von E-Mail- und E-Mail-Vorlagen, das durch einen visuellen Drag-and-Drop-Editor und vordefinierte Standardvorlagen die Produktivität und Effizienz verbessert. Erstellen Sie ganz einfach benutzerdefinierte E-Mail-Vorlagen, ohne Geld für Anbieter ausgeben zu müssen.
+Der neue E-Mail-Designer ist die neueste Marketo Engage-Innovation. Er bietet ein überarbeitetes Erlebnis bei der Erstellung von E-Mail- und E-Mail-Vorlagen und verbessert so Produktivität und Effizienz, indem er einen visuellen Drag-and-Drop-Editor zusammen mit standardmäßigen Vorlagen bereitstellt. Erstellen Sie ganz einfach benutzerdefinierte E-Mail-Vorlagen, ohne Geld für Anbieter ausgeben zu müssen.
 
 Mit dem neuen Designer erstellte E-Mails können in E-Mail-Programmen sowie in Smart Lists/Kampagnen verwendet werden. Leistungsstarke neue Verbesserungen des Designers werden bald verfügbar sein.
 
@@ -55,7 +53,7 @@ Vorlagen im Designer, wodurch der Bedarf an externen Web-Entwicklern reduziert w
 
 **Unterstützt der neue E-Mail-Designer die AMP-Sprache?**
 
-Die Basisversion bietet derzeit keine Unterstützung für AMP.
+AMP wird derzeit nicht unterstützt.
 
 **Der dynamische Inhalt nach Attribut ist großartig, aber funktioniert der dynamische Inhalt nach Segment weiterhin?**
 

@@ -1,11 +1,9 @@
 ---
 description: E-Mail-Authoring - Marketo-Dokumente - Produktdokumentation
 title: E-Mail-Erstellung
-hide: true
-hidefromtoc: true
 feature: Email Editor
 exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
-source-git-commit: 35b5638ff62a25630a273ad320ee6d6c40191cc2
+source-git-commit: 861d4673fc173a9ce9d50f080cf0d85b6247155b
 workflow-type: tm+mt
 source-wordcount: '1739'
 ht-degree: 3%
@@ -22,7 +20,7 @@ Erfahren Sie, wie Sie E-Mails in der neuen Marketo Engage-E-Mail-Designer erstel
 
 ## Erstellen einer E-Mail {#create-an-email}
 
-E-Mails aus der E-Mail-Designer können derzeit nur im Design Studio erstellt und in Smart-Kampagnen/Listen referenziert oder direkt in E-Mail-Programmen erstellt/verwendet werden.
+E-Mails aus Email Designer können derzeit nur im Design Studio erstellt und in Smart Campaign/Listen referenziert oder direkt in E-Mail-Programmen erstellt/verwendet werden.
 
 >[!BEGINTABS]
 
