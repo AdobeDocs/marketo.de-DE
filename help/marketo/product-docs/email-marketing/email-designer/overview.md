@@ -3,7 +3,7 @@ description: Übersicht - Marketo-Dokumente - Produktdokumentation
 title: Überblick
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 861d4673fc173a9ce9d50f080cf0d85b6247155b
+source-git-commit: 009388b94208729c85ec3b72117b3e0daf4149c5
 workflow-type: tm+mt
 source-wordcount: '545'
 ht-degree: 0%
@@ -38,7 +38,7 @@ Ja, der alte (klassische) E-Mail-Editor wird mit dem neuen E-Mail-Designer koexi
 
 Nein, E-Mail-Vorlagen aus dem klassischen Editor können im neuen Designer nicht referenziert werden. Sie müssen neue Vorlagen im neuen Designer erstellen. Sie _jedoch_ Vorlagen-HTML in den neuen Designer importieren und dann die erforderlichen Anpassungen vornehmen. Wir arbeiten auch an einer Möglichkeit, Vorlagen einfach vom klassischen Editor zum neuen Designer zu migrieren.
 
-**Gibt es eine Möglichkeit, das Branding (Schriftarten, Logo und Farben) durchzusetzen?**
+**Gibt es eine Möglichkeit, das Branding (Schriftarten, Logos und Farben) durchzusetzen?**
 
 Sperren von Inhaltsabschnitten ist Teil des neuen Designers, und Sperren von Stilen, Farben usw. werden in diesem Jahr kommen.
 
