@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: f6a8f9ec79240a10549adb12ca8b1b4124f683a3
+source-git-commit: b8e8f81217b2addc4bc7dcd49be4cb852679d3b2
 workflow-type: tm+mt
-source-wordcount: '543'
+source-wordcount: '547'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Mit dem neuen Designer erstellte E-Mails können in E-Mail-Programmen sowie in S
 
 * [E-Mail-Authoring](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"}: Erfahren Sie, wie Sie eine E-Mail im neuen Editor erstellen, gestalten und referenzieren.
 
-* [E-Mail-Vorlagen](/help/marketo/product-docs/email-marketing/email-designer/email-templates.md){target="_blank"}: Erfahren Sie, wie Sie im neuen Editor eine E-Mail-Vorlage erstellen, gestalten und darauf zugreifen.
+* [E-Mail-Vorlagen](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md){target="_blank"}: Erfahren Sie, wie Sie im neuen Editor eine E-Mail-Vorlage erstellen, gestalten und darauf zugreifen.
 
 ## FAQs {#faq}
 
@@ -63,4 +63,4 @@ Derzeit unterstützt der neue Designer nur Attribute, wir arbeiten jedoch daran,
 
 **Wie kann ich feststellen, ob unser Marketo Engage-Abonnement auf IMS (die Adobe Admin Console) migriert wurde?**
 
-Wenn Sie sich über [experience.adobe.com](experience.adobe.com) bei Marketo Engage anmelden, wurde Ihr Abonnement migriert.
+Wenn Sie sich über die [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"} beim Marketo Engage anmelden, wurde Ihr Abonnement migriert.
