@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie visuelle Inhaltsfragmente als wiederverwendba
 hide: true
 hidefromtoc: true
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: f6a8f9ec79240a10549adb12ca8b1b4124f683a3
+source-git-commit: 7076f020035b5751328e34620f3992f49da82290
 workflow-type: tm+mt
-source-wordcount: '2395'
+source-wordcount: '2396'
 ht-degree: 2%
 
 ---
@@ -28,7 +28,7 @@ Visuelle Fragmente sind vordefinierte visuelle Blöcke, die (mit dem Visual Cont
 
 Um auf visuelle Fragmente zuzugreifen, wechseln Sie zum Design Studio. Klicken Sie in der Baumstruktur links auf **[!UICONTROL Fragmente (Neu)]**.
 
-SCREENSHOT
+![Zugriff auf Fragmente](assets/fragments-1.png){width="600" zoomable="yes"}
 
 Standardmäßig wird die Tabelle nach der Spalte _[!UICONTROL Geändert]_ sortiert. Klicken Sie auf Andere Spaltentitel, um zu ändern, nach welchem Element die Tabelle sortiert wird. Klicken Sie erneut, um zwischen aufsteigender und absteigender Reihenfolge zu wechseln.
 
