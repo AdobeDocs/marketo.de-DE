@@ -1,106 +1,66 @@
 ---
-description: E-Mail-Authoring - Marketo-Dokumente - Produktdokumentation
-title: E-Mail-Erstellung
+description: E-Mail-Vorlagen - Marketo-Dokumente - Produktdokumentation
+title: E-Mail-Vorlagen
 hide: true
 hidefromtoc: true
 feature: Email Editor
-exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
+exl-id: 92af4ba4-f214-423c-ab2d-ade07b368797
 source-git-commit: f6a8f9ec79240a10549adb12ca8b1b4124f683a3
 workflow-type: tm+mt
-source-wordcount: '1739'
-ht-degree: 3%
+source-wordcount: '1842'
+ht-degree: 4%
 
 ---
 
-# E-Mail-Erstellung {#email-authoring}
+# E-Mail-Vorlagen {#email-templates}
 
-Erfahren Sie, wie Sie E-Mails in der neuen Marketo Engage-E-Mail-Designer erstellen, personalisieren und in der Vorschau anzeigen.
+Für einen beschleunigten und verbesserten Design-Prozess können Sie eigenständige E-Mail-Vorlagen erstellen, um benutzerdefinierte Inhalte einfach wiederzuverwenden.
 
 >[!PREREQUISITES]
 >
 >Um auf den neuen E-Mail-Designer zugreifen zu können, muss Ihr Marketo Engage-Abonnement auf das [Adobe Identity Management System (IMS) migriert ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Wenn Ihre Anfrage noch nicht bearbeitet wurde und Sie eine Beschleunigung anfordern möchten, wenden Sie sich bitte an das Adobe-Account-Team (Ihren Account Manager) oder an den [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support).
 
-## Erstellen einer E-Mail {#create-an-email}
+>[!NOTE]
+>
+>E-Mail-Vorlagen im neuen E-Mail-Designer können nur zum Erstellen von E-Mails im neuen E-Mail-Designer verwendet werden. Sie können im alten E-Mail-Editor nicht referenziert werden.
 
-E-Mails aus der E-Mail-Designer können derzeit nur im Design Studio erstellt und in Smart-Kampagnen/Listen referenziert oder direkt in E-Mail-Programmen erstellt/verwendet werden.
-
->[!BEGINTABS]
-
->[!TAB Design Studio]
+## E-Mail-Vorlage erstellen {#create-an-email-template}
 
 1. Melden Sie sich über die [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"} bei Marketo Engage an.
 
 1. Wählen Sie in My Marketo **Design Studio** aus.
 
-   ![](assets/create-an-email-1.png)
+   ![](assets/create-an-email-template-1.png)
 
-1. Wählen Sie in der Struktur **E-Mails (Neuer Editor)**.
+1. Wählen Sie in der Struktur **E-Mail-Vorlagen (Neuer Editor)**.
 
-   ![](assets/create-an-email-2.png)
+   ![](assets/create-an-email-template-2.png)
 
-1. Klicken Sie auf die **E-Mail erstellen**.
+1. Klicken Sie auf **Schaltfläche „Vorlage erstellen**.
 
-   ![](assets/create-an-email-3.png)
+   ![](assets/create-an-email-template-3.png)
 
-1. Geben Sie einen E-Mail-Namen und eine Betreffzeile ein. Klicken Sie auf **Erstellen**.
+1. Geben Sie einen Vorlagennamen und eine optionale Beschreibung ein. Klicken Sie auf **Erstellen**.
 
-   ![](assets/create-an-email-4.png)
+   ![](assets/create-an-email-template-4.png)
 
->[!TAB E-Mail-Programm]
+## Entwerfen einer Vorlage {#design-your-template}
 
-1. Melden Sie sich über die [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"} bei Marketo Engage an.
+Auf der _Vorlage entwerfen_ können Sie aus einigen Optionen auswählen. [Erstellen Sie von Grund ](#design-from-scratch), [importieren Sie Ihre eigene HTML](#import-html) oder [wählen Sie eine vorhandene Vorlage aus](#choose-a-template) (eines unserer Beispiele oder eines, das Sie bereits gespeichert haben).
 
-1. Suchen und wählen Sie Ihr E-Mail-Programm aus (oder erstellen Sie es).
-
-   ![](assets/create-an-email-5.png)
-
-1. Sie haben zwei Möglichkeiten, eine neue E-Mail zu erstellen. Klicken Sie mit der rechten Maustaste auf den Namen Ihres E-Mail-Programms und wählen Sie **Neues lokales Asset**, oder klicken Sie auf die Schaltfläche **+Neue E-Mail** im Feld E-Mail im Dashboard. In diesem Beispiel werden wir ersteres tun.
-
-   ![](assets/create-an-email-6.png)
-
-1. Wählen Sie **E-Mail (neuer Editor)**.
-
-   ![](assets/create-an-email-7.png)
-
-1. Geben Sie einen E-Mail-Namen und eine Betreffzeile ein. Klicken Sie auf **Erstellen**.
-
-   ![](assets/create-an-email-8.png)
-
->[!ENDTABS]
-
-Das war&#39;s. Jetzt ist es an der Zeit, Ihre E-Mail zu entwerfen.
-
-## Wählen des Inhaltstyps {#choose-your-content-type}
-
-1. Klicken Sie in der soeben erstellten E-Mail auf **E-Mail-Inhalt hinzufügen**.
-
-   ![](assets/choose-your-content-type-1.png)
-
-1. Die _E-Mail erstellen_ wird geladen. Sie können aus mehreren Optionen wählen:
-
-* [Erstellen von neuen Inhalten](#design-from-scratch) mithilfe des visuellen E-Mail-Editors
-
-* [Eigene HTML importieren](#import-html) über eine HTML- oder ZIP-Datei
-
-* [Vorhandene Vorlage auswählen](#choose-a-template) (eines unserer Beispiele oder eines, das Sie bereits gespeichert haben)
+![](assets/design-your-template-1.png)
 
 ### Von Grund auf gestalten {#design-from-scratch}
 
-Verwenden Sie die folgenden Optionen, um Ihren Inhalt zu definieren, wenn Sie im E-Mail-Editor von Grund auf neu beginnen.
+Definieren Sie Ihre Inhalte, indem Sie strukturelle Elemente mit einfachen Drag-and-Drop-Aktionen hinzufügen und verschieben.
 
-1. Wählen Sie auf _Seite „E_ Mail erstellen“ die Option **Erstellen von neuen Inhalten** aus.
+1. Wählen Sie auf _Seite_ Vorlage entwerfen“ **Erstellen von neuen Inhalten** aus.
 
-1. Fügen Sie [Struktur und Inhalt](#add-structure-and-content) zu Ihrer E-Mail hinzu.
+1. Fügen Sie [Struktur und Inhalt](#add-structure-and-content) hinzu.
 
-1. Fügen Sie [images](#add-assets) hinzu.
+### HTML importieren {#import-your-html}
 
-1. [Personalisieren](#personalize-content) Ihres Inhalts.
-
-1. Links überprüfen und [Tracking bearbeiten](#edit-url-tracking).
-
-### Importieren von HTML {#import-html}
-
-Sie können vorhandenen HTML-Inhalt importieren, um Ihre E-Mail zu gestalten. Der Inhalt kann wie folgt lauten:
+Sie können vorhandenen HTML-Inhalt importieren, um Ihre E-Mail-Vorlagen zu entwerfen. Der Inhalt kann wie folgt lauten:
 
 * Eine HTML-Datei mit integriertem Stylesheet
 
@@ -110,17 +70,23 @@ Sie können vorhandenen HTML-Inhalt importieren, um Ihre E-Mail zu gestalten. De
 >
 >Die Dateistruktur des komprimierten Ordners ist freigestellt. Verweise müssen jedoch relativ sein und mit der Baumstruktur des ZIP-Ordners übereinstimmen.
 
-1. Wählen Sie auf der Seite Vorlage entwerfen die Option **HTML importieren** aus.
+1. Wählen Sie auf _Seite „Vorlage_&quot; die Option **HTML importieren** aus.
 
 1. Ziehen Sie die gewünschte HTML- oder ZIP-Datei per Drag-and-Drop (oder wählen Sie eine Datei auf Ihrem Computer aus) und klicken Sie auf **Importieren**.
 
-   ![](assets/authoring-import-your-html-1.png)
+   ![](assets/import-your-html-1.png)
 
->[!NOTE]
->
->Wenn der HTML-Inhalt hochgeladen wird, befindet sich der Inhalt im Kompatibilitätsmodus . In diesem Modus können Sie nur Ihren Text personalisieren, Links hinzufügen oder Assets zu Ihren Inhalten hinzufügen.
+   >[!NOTE]
+   >
+   >Wenn der HTML-Inhalt hochgeladen wird, befindet sich der Inhalt im Kompatibilitätsmodus . In diesem Modus können Sie nur Ihren Text personalisieren, Links hinzufügen oder Assets zu Ihren Inhalten hinzufügen.
 
-Sie können die gewünschten Änderungen am importierten Inhalt mit den [visuellen E-Mail-Editor-Tools](#add-structure-and-content) vornehmen.
+1. Um die Inhaltskomponenten von Email Designer nutzen zu können, klicken Sie auf die Registerkarte **HTML-Konverter** und anschließend auf **Konvertieren**.
+
+   >[!CAUTION]
+   >
+   >Einen `<table>`-Tag als erste Ebene in einer HTML-Datei zu verwenden kann zum Verlust des Stils führen, einschließlich der Einstellungen für Hintergrund und Breite im Tag der obersten Ebene.
+
+Sie können jetzt Ihre importierte Datei nach Bedarf mit dem visuellen E-Mail-Editor personalisieren.
 
 ### Vorlage wählen {#choose-a-template}
 
@@ -140,11 +106,11 @@ Wählen Sie eine der vordefinierten Vorlagen für einen Vorsprung beim Design Ih
 
 1. Wählen Sie die Vorlage aus, die Sie verwenden möchten.
 
-   ![](assets/authoring-sample-templates-1.png)
+   ![](assets/sample-templates-1.png)
 
 1. Klicken Sie auf **Diese Vorlage verwenden**.
 
-   ![](assets/authoring-sample-templates-2.png)
+   ![](assets/sample-templates-2.png)
 
 1. Bearbeiten Sie den Inhalt nach Bedarf mit dem visuellen Content Designer.
 
@@ -152,11 +118,11 @@ Wählen Sie eine der vordefinierten Vorlagen für einen Vorsprung beim Design Ih
 
 1. Klicken Sie auf **Gespeicherte Vorlagen** und wählen Sie die gewünschte Vorlage aus.
 
-   ![](assets/authoring-saved-templates-1.png)
+   ![](assets/saved-templates-1.png)
 
 1. Klicken Sie auf **Diese Vorlage verwenden**.
 
-   ![](assets/authoring-saved-templates-2.png)
+   ![](assets/saved-templates-2.png)
 
 1. Bearbeiten Sie den Inhalt nach Bedarf mit dem visuellen Content Designer.
 
@@ -170,7 +136,7 @@ Wählen Sie eine der vordefinierten Vorlagen für einen Vorsprung beim Design Ih
    >
    >Wählen Sie die Komponente n:n Spalte aus, um die Anzahl der Spalten zu definieren (3 bis 10). Sie können auch die Breite jeder Spalte definieren, indem Sie die Pfeile unter die Spalte verschieben.
 
-   ![](assets/authoring-add-structure-and-content-1.png)
+   ![](assets/add-structure-and-content-1.png)
 
    >[!NOTE]
    >
@@ -178,7 +144,7 @@ Wählen Sie eine der vordefinierten Vorlagen für einen Vorsprung beim Design Ih
 
 1. Ziehen Sie aus dem Abschnitt Inhalte die gewünschten Elemente per Drag-and-Drop in eine oder mehrere Strukturkomponenten.
 
-   ![](assets/authoring-add-structure-and-content-2.png)
+   ![](assets/add-structure-and-content-2.png)
 
 1. Jede Komponente kann über die Registerkarten Einstellungen oder Stil angepasst werden. Ändern Sie Schriftart, Textstil, Rand und mehr.
 
@@ -208,11 +174,11 @@ Fügen Sie Bilder hinzu, die im Abschnitt [Bilder und Dateien](/help/marketo/pro
 
 1. Um auf Ihre Bilder zuzugreifen, klicken Sie auf das Symbol Asset-Wähler .
 
-   ![](assets/authoring-add-assets-1.png)
+   ![](assets/add-assets-1.png)
 
 1. Ziehen Sie das gewünschte Bild per Drag-and-Drop in eine Strukturkomponente .
 
-   ![](assets/authoring-add-assets-2.png)
+   ![](assets/add-assets-2.png)
 
    >[!NOTE]
    >
@@ -222,7 +188,7 @@ Fügen Sie Bilder hinzu, die im Abschnitt [Bilder und Dateien](/help/marketo/pro
 
 Öffnen Sie den Navigationsbaum, um auf bestimmte Strukturen und deren Spalten/Komponenten zuzugreifen und so eine präzisere Bearbeitung zu ermöglichen. Um darauf zuzugreifen, klicken Sie auf das Symbol Navigationsbaum .
 
-![](assets/authoring-layers-settings-styles-1.png)
+![](assets/layers-settings-styles-1.png)
 
 Im folgenden Beispiel werden Schritte zum Anpassen des Abstands und der vertikalen Ausrichtung innerhalb einer aus Spalten zusammengesetzten Strukturkomponente beschrieben.
 
@@ -232,7 +198,7 @@ Im folgenden Beispiel werden Schritte zum Anpassen des Abstands und der vertikal
 
    Sie können sie auch aus dem Strukturbaum auswählen. Die bearbeitbaren Parameter für diese Spalte werden auf den Registerkarten _[!UICONTROL Einstellungen]_ und _[!UICONTROL Stile]_ auf der rechten Seite angezeigt.
 
-   ![](assets/authoring-layers-settings-styles-2.png)
+   ![](assets/layers-settings-styles-2.png)
 
 1. Um die Spalteneigenschaften zu bearbeiten, klicken Sie auf die _[!UICONTROL Stile]_ Registerkarte auf der rechten Seite und ändern Sie sie entsprechend Ihren Anforderungen:
 
@@ -247,7 +213,7 @@ Im folgenden Beispiel werden Schritte zum Anpassen des Abstands und der vertikal
 
    * Erweitern Sie den Abschnitt **[!UICONTROL Erweitert]**, um Inline-Stile für die Spalte zu definieren.
 
-   ![](assets/authoring-layers-settings-styles-3.png)
+   ![](assets/layers-settings-styles-3.png)
 
 1. Wiederholen Sie diese Schritte nach Bedarf, um die Ausrichtung und den Abstand für die anderen Spalten in der Komponente anzupassen.
 
@@ -259,15 +225,15 @@ Token funktionieren im neuen Editor genauso wie im alten, aber das Symbol sieht 
 
 1. Wählen Sie die Textkomponente aus. Platzieren Sie den Cursor an der gewünschten Stelle, und klicken Sie auf das Symbol **Personalisierung hinzufügen**.
 
-   ![](assets/authoring-personalize-content-1.png)
+   ![](assets/personalize-content-1.png)
 
 1. Klicken Sie auf den gewünschten [Tokentyp](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
 
-   ![](assets/authoring-personalize-content-2.png)
+   ![](assets/personalize-content-2.png)
 
 1. Suchen Sie das gewünschte Token und klicken Sie auf das Symbol **…** (durch Klicken auf das Symbol + wird stattdessen ein Token ohne Fallback-Text hinzugefügt).
 
-   ![](assets/authoring-personalize-content-3.png)
+   ![](assets/personalize-content-3.png)
 
    >[!NOTE]
    >
@@ -275,7 +241,7 @@ Token funktionieren im neuen Editor genauso wie im alten, aber das Symbol sieht 
 
 1. Legen Sie Ihren Fallback-Text fest und klicken Sie auf **Hinzufügen**.
 
-   ![](assets/authoring-personalize-content-4.png)
+   ![](assets/personalize-content-4.png)
 
 1. Klicken Sie auf **Speichern**.
 
@@ -285,13 +251,13 @@ Manchmal soll die Marketo-Tracking-URL nicht für einen Link in einer E-Mail akt
 
 1. Klicken Sie auf das Symbol Links , um alle URLs in Ihrer E-Mail anzuzeigen.
 
-   ![](assets/authoring-edit-url-tracking-1.png)
+   ![](assets/edit-url-tracking-1.png)
 
 1. Klicken Sie auf das Stiftsymbol, um das Tracking für beliebige Links zu bearbeiten.
 
 1. Klicken Sie auf **Tracking-Typ** und treffen Sie Ihre Auswahl.
 
-   ![](assets/authoring-edit-url-tracking-2.png)
+   ![](assets/edit-url-tracking-2.png)
 
    <table><tbody>
      <tr>
@@ -313,56 +279,94 @@ Manchmal soll die Marketo-Tracking-URL nicht für einen Link in einer E-Mail akt
 
 1. Klicken Sie auf **Speichern**, wenn Sie fertig sind.
 
-## Prüfen von Warnhinweisen {#check-alerts}
+### Optionen anzeigen {#view-options}
 
-Während Sie Ihre Inhalte entwerfen, werden Warnhinweise oben rechts im Bildschirm angezeigt, wenn wichtige Einstellungen fehlen.
+Nutzen Sie die Ansicht- und Inhaltsvalidierungsoptionen, die im visuellen E-Mail-Editor verfügbar sind.
 
-Es gibt zwei Arten von Warnhinweisen:
+* Zoomen Sie den Inhalt mit den voreingestellten Zoom-Optionen ein/aus.
 
-**Warnungen**
+* Inhalte auf Desktop-, Mobile- oder Nur-Text-/Nur-Text-Kanälen anzeigen.
 
-Warnhinweise geben Hinweise auf Empfehlungen und zeigen Best Practices, wie etwa:
+   * Klicken Sie auf das Symbol Live-Ansicht (Auge) für die geräteübergreifende Inhaltsvorschau.
 
-* **Der Ausschluss-Link ist nicht im E-Mail-Textkörper vorhanden**: Obwohl Abmelde-Links eine Voraussetzung sind, empfiehlt es sich, sie dem Textkörper Ihrer E-Mail hinzuzufügen.
+   * Wählen Sie eines der standardmäßigen Geräte aus oder geben Sie benutzerdefinierte Dimensionen ein, um eine Vorschau Ihres Inhalts anzuzeigen.
 
->[!NOTE]
->
->Das Hinzufügen einer Abmelde-Option ist für [operative E-Mails](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) (Nicht-Marketing) nicht erforderlich.
+### Mehr Optionen {#more-options}
 
-* **Textversion von HTML ist leer**: Sie müssen eine Textversion Ihres E-Mail-Textkörpers definieren, für den Fall, dass HTML-Inhalte nicht angezeigt werden können.
+Über die **Mehr**-Optionen im Inhaltseditor können Sie die folgenden Aktionen ausführen:
 
-* **Leerer Link ist im E-Mail-Text vorhanden**: Überprüfen Sie, ob alle Links in Ihrer E-Mail korrekt sind.
+![](assets/more-options-1.png)
 
-* **Die E-Mail-Größe überschreitet den Grenzwert von 100 KB**: Stellen Sie sicher, dass die Größe Ihrer E-Mail 100 KB nicht überschreitet, um einen optimalen Versand zu erzielen.
+* **Vorlage zurücksetzen**: Wählen Sie diese Option, um die visuelle E-Mail-Designer-Arbeitsfläche zu leeren und die Inhaltserstellung neu zu starten.
 
-**Fehler**
+* **Design ändern**: Kehren Sie zur Seite _Design Ihrer Vorlage_ zurück. Von hier aus können Sie jede Aktion ausführen, die im Abschnitt [Gestalten Ihrer Vorlage](#design-your-template) beschrieben wird.
 
-Fehler verhindern, dass Sie die E-Mail senden oder testen, bis sie behoben sind:
+* **HTML exportieren**: Laden Sie den Inhalt auf der visuellen Arbeitsfläche auf Ihr lokales System im HTML-Format herunter, das als ZIP-Datei verpackt ist.
 
-* **Betreffzeile fehlt**: Eine E-Mail-Betreffzeile ist erforderlich.
+## Vorlagendetails anzeigen {#view-template-details}
 
-* **E-Mail-Version der Nachricht ist leer**: Dieser Fehler tritt auf, wenn der E-Mail-Inhalt nicht konfiguriert wurde.
+Klicken Sie auf _Listenseite „E_ Mail-Vorlagen“ auf den Namen einer E-Mail-Vorlage, um deren Details anzuzeigen.
 
-## E-Mail testen {#test-your-email}
+(assets/view-template-details-1.png
 
-Wenn der Nachrichteninhalt definiert ist, können Sie ihn mithilfe von Testprofilen in der Vorschau anzeigen, einen Testversand durchführen und steuern, wie er in gängigen Desktop-, Mobile- und Web-basierten Clients gerendert wird. Wenn Sie personalisierte Inhalte eingefügt haben, können Sie mithilfe von Testprofildaten überprüfen, wie diese in der Nachricht angezeigt werden.
+Grundlegende Details wie Name und Beschreibung können bearbeitet werden. Klicken Sie auf eine Stelle außerhalb des bearbeiteten Felds, um die Änderungen zu speichern.
 
-Um eine Vorschau Ihres E-Mail-Inhalts anzuzeigen, klicken Sie **Inhalt simulieren** und fügen Sie dann ein Testprofil hinzu, um Ihre Nachricht mithilfe der Testprofildaten zu überprüfen.
+Klicken Sie auf **Mehr**, um Ihre Vorlage schnell zu löschen oder zu duplizieren.
 
-![](assets/test-your-email-1.png)
-
-## Referenzieren einer E-Mail {#reference-an-email}
-
-Wenn Sie Ihre E-Mail in einem E-Mail-Programm erstellt haben, kann sie nur in diesem Programm verwendet werden. Wenn Sie Ihre E-Mail im Design Studio erstellt haben, kann sie von Smart-Kampagnen und/oder Smart-Listen wie jede andere E-Mail referenziert werden.
-
-* Verweisen Sie in einer Smart List darauf, indem [ die üblichen Schritte ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md).
-
-* Verweisen Sie in einer Smart Campaign darauf, [ Sie die üblichen Schritte ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md).
+Wenn aktive Warnhinweise vorhanden sind (Fehler/Warnungen für die E-Mail-Vorlage), klicken Sie auf Warnhinweise , um die Informationen anzuzeigen.
 
 >[!NOTE]
 >
->Es können nur gespeicherte E-Mails referenziert werden. Im neuen E-Mail-Designer gibt es keinen Status „Genehmigt“.
+>Diese Warnhinweise verbieten zwar nicht die Verwendung der E-Mail-Vorlage für die E-Mail-Erstellung, die Informationen bieten jedoch Einblick in die Funktionen, die möglicherweise nicht funktionieren, und in die erforderlichen Aktualisierungen, bevor die E-Mail für den Versand verwendet werden kann.
+
+## Anzeigen der von Verweisen verwendeten E-Mail-Vorlage {#email-template-used-by-references}
+
+Klicken Sie in der E-Mail-Vorlagenübersicht auf die Registerkarte **Verwendet von**, um Details dazu anzuzeigen, wo diese E-Mail-Vorlage auf dem Marketo Engage verwendet wurde.
+
+![](assets/email-template-used-by-references-1.png)
+
+## E-Mail-Vorlagen bearbeiten {#edit-email-templates}
+
+Diese Aktion kann übernommen werden aus:
+
+* Klicken Sie auf der Registerkarte Details **E-Mail-Vorlage bearbeiten**.
+
+Diese Aktion führt Sie je _zuletzt gespeicherten Status der E_ Mail-Vorlage zur Seite „Vorlage gestalten“ oder zur Seite „Visual Content Editor“. Von hier aus können Sie den Inhalt Ihrer E-Mail-Vorlage nach Bedarf bearbeiten. Informationen zu den Bearbeitungsoptionen finden Sie unter Erstellen von E-Mail-Vorlagen .
+
+## E-Mail-Vorlagen duplizieren {#duplicate-email-templates}
+
+Es gibt zwei Möglichkeiten, eine E-Mail-Vorlage zu duplizieren:
+
+* Klicken Sie in den E-Mail-Vorlagendetails auf der rechten Seite auf **Mehr** und wählen Sie **Duplizieren**.
+
+  ![](assets/duplicate-email-templates-1.png)
+
+* Klicken Sie auf _Listenseite E_ Mail-Vorlagen auf das Symbol Mehr Aktionen (drei Punkte) der gewünschten E-Mail-Vorlage und wählen Sie **Duplizieren**.
+
+Geben Sie im Dialogfeld einen eindeutigen Namen und optional eine Beschreibung ein. Klicken Sie abschließend **Duplizieren**.
+
+Die duplizierte E-Mail-Vorlage wird dann auf der _E-Mail-Vorlagen_ Auflistungsseite angezeigt.
+
+## E-Mail-Vorlagen löschen {#delete-email-templates}
+
+Es gibt zwei Möglichkeiten, eine E-Mail-Vorlage zu löschen.
+
+>[!CAUTION]
+>
+>Das Löschen einer E-Mail-Vorlage kann nicht rückgängig gemacht werden.
+
+* Klicken Sie in den E-Mail-Vorlagendetails auf der rechten Seite auf **Mehr** und wählen Sie **Löschen**.
+
+  ![](assets/delete-email-templates-1.png)
+
+* Klicken Sie auf _Listenseite E_ Mail-Vorlagen auf das Symbol Mehr Aktionen (drei Punkte) der gewünschten E-Mail-Vorlage und wählen Sie **Löschen**.
+
+## Massenaktionen {#bulk-actions}
+
+Wählen Sie auf der _E_ Mail-Vorlagen“-Listenseite mehrere Vorlagen aus, indem Sie die Kontrollkästchen links auswählen. Unten wird ein Banner angezeigt.
+
+**Löschen**: Sie können maximal 20 Vorlagen gleichzeitig löschen. In einem Bestätigungsdialogfeld können Sie die Aktion abbrechen oder den Löschvorgang bestätigen.
 
 >[!MORELIKETHIS]
 >
->[E-Mail-Vorlagen](/help/marketo/product-docs/email-marketing/email-designer/email-templates.md){target="_blank"}: Erfahren Sie, wie Sie im neuen Designer eine E-Mail-Vorlage erstellen, gestalten und darauf zugreifen.
+>[E-Mail-Authoring](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"}: Erfahren Sie, wie Sie eine E-Mail im neuen Designer erstellen, gestalten und referenzieren.

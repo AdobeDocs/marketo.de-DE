@@ -4,25 +4,25 @@ description: Erfahren Sie, wie Sie visuelle Inhaltsfragmente als wiederverwendba
 hide: true
 hidefromtoc: true
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 783a5baa5961ea899b41c8d4a329598fbeb5e58f
+source-git-commit: f6a8f9ec79240a10549adb12ca8b1b4124f683a3
 workflow-type: tm+mt
-source-wordcount: '2371'
+source-wordcount: '2395'
 ht-degree: 2%
 
 ---
 
 # Fragmente
 
-Ein Fragment ist eine wiederverwendbare Komponente, die in einer oder mehreren E-Mails und E-Mail-Vorlagen referenziert werden kann. Normalerweise handelt es sich dabei um einen Inhaltsblock (Text, Bild oder beides), der schnell erstellt und in Ihr Projekt eingefügt werden kann. Mit dieser Funktion können Sie mehrere benutzerdefinierte Inhaltsbausteine vorab erstellen, die von Ihren Mitgliedern des Marketing-Teams verwendet werden können, um E-Mail-Inhalte für einen verbesserten Design-Prozess zusammenzustellen. Häufige Anwendungsfälle sind u. a. Kopf-/Fußzeilen-Inhaltsbausteine für E-Mails, Einladungsbanner für Veranstaltungen, saisonale Nachrichten und mehr.
+Ein Fragment ist eine wiederverwendbare Komponente, die in einer oder mehreren E-Mails und E-Mail-Vorlagen referenziert werden kann. Normalerweise handelt es sich dabei um einen Inhaltsblock (Text, Bild oder beides), der schnell erstellt und in Ihr Projekt eingefügt werden kann. Mit dieser Funktion können Sie mehrere benutzerdefinierte Inhaltsbausteine vorab erstellen, um E-Mail-Inhalte für einen verbesserten Design-Prozess zusammenzustellen. Häufige Anwendungsfälle sind u. a. Kopf-/Fußzeilen-Inhaltsbausteine für E-Mails, Einladungsbanner für Veranstaltungen, saisonale Nachrichten und mehr.
 
 So verwenden Sie Fragmente in Ihren Workflows optimal:
 
-* _Eigene Fragmente erstellen_ - Erstellen Sie visuelle Fragmente von Grund auf neu oder indem Sie Inhalte als Fragment aus dem visuellen Inhaltseditor speichern.
+* _Erstellen von Fragmenten_ - Erstellen Sie visuelle Fragmente, entweder von Grund auf neu oder indem Sie Inhalte als Fragment aus dem Visual Content Editor speichern.
 * _Fragmente wiederverwenden_ - Verwenden Sie sie so oft wie nötig in Ihren Inhalten.
 
 ## Visuelle Fragmente {#visual-fragments}
 
-Visuelle Fragmente sind vordefinierte visuelle Blöcke, die mit dem visuellen Inhaltseditor erstellt wurden und die Sie in mehreren E-Mails oder E-Mail-Vorlagen wiederverwenden können.
+Visuelle Fragmente sind vordefinierte visuelle Blöcke, die (mit dem Visual Content Editor) erstellt wurden und die in mehreren E-Mail- oder E-Mail-Vorlagen wiederverwendet werden können.
 
 ## Zugreifen auf und Verwalten von Fragmenten {#access-and-manage-fragments}
 
@@ -30,7 +30,7 @@ Um auf visuelle Fragmente zuzugreifen, wechseln Sie zum Design Studio. Klicken S
 
 SCREENSHOT
 
-Standardmäßig wird die Tabelle nach der Spalte _[!UICONTROL Geändert]_ sortiert, wobei die zuletzt aktualisierten Fragmente oben stehen. Klicken Sie auf Andere Spaltentitel, um die Sortierung zu ändern. Klicken Sie erneut, um zwischen aufsteigender und absteigender Reihenfolge zu wechseln.
+Standardmäßig wird die Tabelle nach der Spalte _[!UICONTROL Geändert]_ sortiert. Klicken Sie auf Andere Spaltentitel, um zu ändern, nach welchem Element die Tabelle sortiert wird. Klicken Sie erneut, um zwischen aufsteigender und absteigender Reihenfolge zu wechseln.
 
 ### Fragmentstatus {#fragment-status}
 
@@ -73,13 +73,11 @@ Der Fragmentstatus bestimmt seine Verfügbarkeit zur Verwendung in einer E-Mail 
   </tr>
 </tbody></table>
 
-SCREENSHOT
-
 ### Filtern der Fragmentliste {#filter-the-fragments-list}
 
 Verwenden Sie die Suchleiste, um ein Fragment anhand des Namens zu finden. Klicken Sie auf _Filter_-Symbol ( ![Filtersymbol ein- oder ausblenden](assets/icon-filter.svg) ), um die verfügbaren Filteroptionen anzuzeigen und die gewünschten Einstellungen auszuwählen.
 
-SCREENSHOT
+![Filtern Sie die angezeigten Fragmente](assets/fragments-list-filtered.png){width="700" zoomable="yes"}
 
 ### Spaltenanzeige anpassen {#customize-the-column-display}
 
@@ -148,7 +146,7 @@ Klicken Sie auf den Namen eines beliebigen Fragments auf der Listenseite, um die
 >
 >Wenn ein veröffentlichtes Fragment von einer E-Mail- oder E-Mail-Vorlage verwendet wird, können Sie seinen Namen nicht ändern oder den Inhalt bearbeiten. Sie können eine Entwurfsversion erstellen, wenn Sie Änderungen am Fragment vornehmen möchten.
 
-SCREENSHOT
+![Details für ein veröffentlichtes Fragment anzeigen](assets/fragment-details-published.png){width="600" zoomable="yes"}
 
 Klicken Sie **[!UICONTROL Fragment bearbeiten]**, um das Fragment im visuellen Inhaltseditor zu öffnen.
 
@@ -164,7 +162,7 @@ Klicken Sie auf der Seite mit den Fragmentdetails auf **[!UICONTROL Registerkart
 
 Verweise werden nach Kategorie angezeigt: _E-_ oder _E-Mail-Vorlage_. E-Mails in Journey Optimizer B2B edition sind in Account Journey eingebettet und verfasst, sodass die übergeordnete Journey der E-Mail, die das Fragment verwendet, als Referenzen angezeigt wird. &lt;— WAS IST MIT DIESEM TEIL, NILESH
 
-SCREENSHOT
+![Wird von Verweisen für das Fragment verwendet](assets/fragment-used-by-published.png){width="600" zoomable="yes"}
 
 Klicken Sie auf den Link, um die entsprechende E-Mail oder E-Mail-Vorlage zu öffnen, in der das Fragment verwendet wird.
 
@@ -179,9 +177,9 @@ Sie können ein Fragment mit einer der folgenden Methoden löschen:
 
 Diese Aktion öffnet ein Bestätigungsdialogfeld. Sie können den Vorgang abbrechen, indem Sie auf **[!UICONTROL Abbrechen]** klicken oder auf **[!UICONTROL Löschen]** klicken, um den Löschvorgang zu bestätigen.
 
-SCREENSHOT
+![Dialogfeld „Fragment löschen“](assets/fragment-delete-dialog.png){width="400"}
 
-## Bearbeiten von Fragmenten
+## Bearbeiten von Fragmenten {#edit-fragments}
 
 Änderungen an einem Fragment hängen vom aktuellen Status ab:
 
@@ -199,7 +197,7 @@ SCREENSHOT
 
 1. Nehmen Sie die gewünschten Änderungen vor.
 
-SCREENSHOT
+   ![Details für Fragment mit Entwurfsstatus](assets/fragment-draft-details.png){width="600" zoomable="yes"}
 
 1. Um Änderungen am Inhalt im visuellen Designer vorzunehmen, klicken Sie auf **[!UICONTROL Fragment bearbeiten]**.
 
@@ -229,17 +227,17 @@ SCREENSHOT
 
    Klicken Sie **[!UICONTROL Dialogfeld]** OK“, um die Entwurfsversion im visuellen Designer zu öffnen. Sie können bei Bedarf die `image source` KG - LINK HERE ändern.
 
-SCREENSHOT
+   ![Dialogfeld „Entwurfsversion erstellen“](assets/fragments-create-draft-version.png){width="300"}
 
-Verwenden Sie nach Bedarf die visuellen Designer-Tools:
+   Verwenden Sie nach Bedarf die visuellen Designer-Tools:
 
-* [Hinzufügen von Struktur und Inhalt](#add-structure-and-content)
-* [Assets hinzufügen](#add-assets)
-* [Navigieren in den Ebenen, Einstellungen und Stilen](#navigate-the-layers-settings-and-styles)
-* [Inhalt personalisieren](#personalize-content)
-* [Verknüpftes URL-Tracking bearbeiten](#edit-linked-url-tracking)
+   * [Hinzufügen von Struktur und Inhalt](#add-structure-and-content)
+   * [Assets hinzufügen](#add-assets)
+   * [Navigieren in den Ebenen, Einstellungen und Stilen](#navigate-the-layers-settings-and-styles)
+   * [Inhalt personalisieren](#personalize-content)
+   * [Verknüpftes URL-Tracking bearbeiten](#edit-linked-url-tracking)
 
-Klicken Sie **[!UICONTROL Speichern]** oder **[!UICONTROL Speichern und schließen]** um zu den Fragmentdetails zurückzukehren.
+   Klicken Sie **[!UICONTROL Speichern]** oder **[!UICONTROL Speichern und schließen]** um zu den Fragmentdetails zurückzukehren.
 
 1. Wenn das Entwurfsfragment Ihren Kriterien entspricht und Sie die Änderungen zur Verwendung in einer E-Mail oder E-Mail-Vorlage bereitstellen möchten, klicken Sie auf **[!UICONTROL Publish]**.
 
@@ -251,7 +249,7 @@ Es gibt zwei Möglichkeiten, die Entwurfsversion zur Bearbeitung über die Liste
 
 * Klicken Sie auf das _Mehr_-Symbol (**…**) neben dem Fragmentnamen und wählen Sie **[!UICONTROL Entwurfsversion öffnen]**.
 
-SCREENSHOT
+  ![Entwurfsversion öffnen](assets/fragments-create-draft-version.png){width="300"}
 
 * Klicken Sie auf den Fragmentnamen, um das Fragment zu öffnen. Klicken Sie dann oben **[!UICONTROL auf]** Entwurfsversion öffnen“.
 
@@ -282,11 +280,11 @@ Sie können ein Fragment mit einer der folgenden Methoden duplizieren:
 * Klicken Sie auf _[!UICONTROL Listenseite]_ Fragmente“ auf das Symbol _Mehr_ (**…**) neben dem Fragmentnamen und wählen Sie **[!UICONTROL Duplizieren]**.
 * Klicken Sie oben rechts auf der Seite mit den Fragmentdetails auf **[!UICONTROL … Mehr]** und wählen Sie **[!UICONTROL Duplizieren]**.
 
-SCREENSHOT
+![Duplizieren Sie das Fragment](assets/fragment-details-duplicate.png){width="600" zoomable="yes"}
 
 Geben Sie im Dialogfeld einen eindeutigen Namen und optional eine Beschreibung ein. Klicken Sie **[!UICONTROL Duplizieren]**, um die Aktion abzuschließen.
 
-SCREENSHOT
+![Geben Sie einen Namen und eine Beschreibung für das duplizierte Fragment ein](assets/fragment-duplicate-dialog.png){width="400"}
 
 Das duplizierte Fragment wird dann in der Liste _Fragmente_ angezeigt.
 
@@ -394,4 +392,4 @@ Wenn ein Fragment zu einer E-Mail oder E-Mail-Vorlage hinzugefügt wird, kann de
 
 Wenn Sie das Fragment auf der Editor-Seite auswählen, sind diese Aktionen in der Kontextsymbolleiste und im Bedienfeld Eigenschaften auf der rechten Seite verfügbar.
 
-SCREENSHOT
+![Aktionen auf das ausgewählte Fragment anwenden](assets/fragment-actions-email-authoring.png){width="600" zoomable="yes"}
