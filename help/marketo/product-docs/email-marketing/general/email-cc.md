@@ -4,9 +4,9 @@ description: E-Mail-CC - Marketo-Dokumente - Produktdokumentation
 title: E-Mail CC
 exl-id: 00550e98-916d-4e66-91f8-7394c242a29b
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 94b458ee7138f90bd243d2d2a8b761dabff23a66
 workflow-type: tm+mt
-source-wordcount: '548'
+source-wordcount: '554'
 ht-degree: 0%
 
 ---
@@ -49,7 +49,7 @@ Diese Funktion ist für alle Marketo-E-Mail-Assets verfügbar, unabhängig davon
 
    ![](assets/six.png)
 
-1. Wählen Sie bis zu fünf Felder aus, in denen CC-Benutzer verwendet werden sollen. In diesem Beispiel möchten wir nur die Lead Owner-CC. Klicken Sie **Speichern** wenn Sie fertig sind.
+1. Wählen Sie die Felder aus, die Sie zum Erstellen von CC-Personen verwenden möchten. _Pro E-Mail sind maximal fünf zulässig_. In diesem Beispiel möchten wir nur die Lead Owner-CC. Klicken Sie **Speichern** wenn Sie fertig sind.
 
    ![](assets/seven.png)
 
