@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie visuelle Inhaltsfragmente als wiederverwendba
 hide: true
 hidefromtoc: true
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 7076f020035b5751328e34620f3992f49da82290
+source-git-commit: aefdb7360ca4c687d05f4695afc618815b08c336
 workflow-type: tm+mt
-source-wordcount: '2396'
+source-wordcount: '2402'
 ht-degree: 2%
 
 ---
@@ -314,7 +314,7 @@ Fragmente sind zur Wiederverwendung konzipiert und Sie können bis zu 30 in eine
 
 >[!TAB Hinzufügen von Fragmenten zu einer E-Mail]
 
-1. Navigieren Sie zu **[!UICONTROL Account-Journey]** und öffnen Sie eine bestehende Journey oder erstellen Sie eine neue Journey. &lt;— ÜBERPRÜFEN SIE DIES
+1. Navigieren Sie zu **[!UICONTROL Account-Journey]** und öffnen Sie eine bestehende Journey oder erstellen Sie eine neue Journey. &lt;— NUR INNERHALB DER E-MAIL- ODER E-MAIL-VORLAGE
 
 ---------BEARBEITUNG HIER ANGEHALTEN---------
 

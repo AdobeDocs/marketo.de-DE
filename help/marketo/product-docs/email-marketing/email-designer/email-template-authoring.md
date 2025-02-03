@@ -2,8 +2,10 @@
 description: E-Mail-Vorlagen - Marketo-Dokumente - Produktdokumentation
 title: E-Mail-Vorlagen
 feature: Email Editor
+hide: true
+hidefromtoc: true
 exl-id: 92af4ba4-f214-423c-ab2d-ade07b368797
-source-git-commit: 4ebefa5eff49d2b703f0b4885c663945b215fa5c
+source-git-commit: aefdb7360ca4c687d05f4695afc618815b08c336
 workflow-type: tm+mt
 source-wordcount: '1843'
 ht-degree: 4%
@@ -162,7 +164,7 @@ Der Editor rendert das Fragment innerhalb des Abschnitts/Elements der E-Mail-Str
 
 Nachdem die E-Mail gespeichert wurde, wird sie auf der Registerkarte _[!UICONTROL Verwendet von]_ der Seite mit den Fragmentdetails angezeigt. Fragmente, die einer E-Mail-Vorlage hinzugefügt wurden, können innerhalb der Vorlage nicht bearbeitet werden. Das Quellfragment definiert den Inhalt.
 
-### Assets hinzufügen {#add-assets}
+### Hinzufügen von Assets {#add-assets}
 
 Fügen Sie Bilder hinzu, die im Abschnitt [Bilder und Dateien](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} Ihrer Marketo Engage-Instanz gespeichert sind.
 

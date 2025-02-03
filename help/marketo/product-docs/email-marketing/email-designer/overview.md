@@ -2,10 +2,12 @@
 description: Übersicht - Marketo-Dokumente - Produktdokumentation
 title: Überblick
 feature: Email Editor
+hide: true
+hidefromtoc: true
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 009388b94208729c85ec3b72117b3e0daf4149c5
+source-git-commit: aefdb7360ca4c687d05f4695afc618815b08c336
 workflow-type: tm+mt
-source-wordcount: '545'
+source-wordcount: '546'
 ht-degree: 0%
 
 ---
@@ -26,7 +28,7 @@ Mit dem neuen Designer erstellte E-Mails können in E-Mail-Programmen sowie in S
 
 * [E-Mail-Authoring](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"}: Erfahren Sie, wie Sie eine E-Mail im neuen Editor erstellen, gestalten und referenzieren.
 
-* [E-Mail-Vorlagen](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md){target="_blank"}: Erfahren Sie, wie Sie im neuen Editor eine E-Mail-Vorlage erstellen, gestalten und darauf zugreifen.
+* [Erstellen von E-Mail](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md){target="_blank"}Vorlagen: Erfahren Sie, wie Sie im neuen Editor eine E-Mail-Vorlage erstellen, gestalten und darauf zugreifen.
 
 ## FAQs {#faq}
 
