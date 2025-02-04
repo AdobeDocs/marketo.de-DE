@@ -3,26 +3,31 @@ title: Arbeiten mit Experience Manager Assets
 description: Erfahren Sie, wie Sie Bild-Assets aus einem verbundenen AEM Assets-Repository beim Erstellen von Inhalten in Adobe Marketo Engage verwenden.
 hide: true
 hidefromtoc: true
-source-git-commit: 402f8da4fdb92619d561fe4acb8aead0d9701c51
+exl-id: c2172042-a35c-4179-bf81-6e96323bd4d4
+source-git-commit: 1676c9049c61a637faede4751ea49bbcfa018be5
 workflow-type: tm+mt
-source-wordcount: '626'
+source-wordcount: '617'
 ht-degree: 1%
 
 ---
 
 # Arbeiten mit Experience Manager-Assets {#work-with-experience-manager-assets}
 
-Wenn _Adobe Experience Manager Assets as a Cloud Service_ mit Adobe Marketo Engage integriert ist, können Sie einfach auf digitale Assets zugreifen, um sie für Ihre Marketing-Inhalte zu verwenden. Während Sie Ihre Inhalte erstellen, können Sie über das Element _[!UICONTROL Assets]_ im linken Navigationsbereich und beim Erstellen von E-Mail-Inhalten auf die Assets zugreifen. Sie können Assets auch direkt von der Marketo Engage in das verbundene _AEM Assets as a Cloud Service_-Repository hochladen. &lt;------- NILESH WIRD FOLGENDES PRÜFEN
+Wenn _Adobe Experience Manager Assets as a Cloud Service_ mit Adobe Marketo Engage integriert ist, können Sie einfach auf digitale Assets zugreifen, um sie für Ihre Marketing-Inhalte zu verwenden. Während Sie Ihre Inhalte erstellen, können Sie über das Element _[!UICONTROL Experience Manager Assets]_ im linken Navigationsbereich auf die Assets zugreifen.
+
+>[!PREREQUISITES]
+>
+>MKTO/AEM-Dokument verbinden.
 
 >[!NOTE]
 >
->Derzeit werden nur Bild-Assets von _Adobe Experience Manager Assets_ in Marketo Engage unterstützt. &lt;---- NILESH WIRD ÜBERPRÜFEN - Änderungen an den Assets müssen über das Adobe Experience Manager Assets Central Repository vorgenommen werden. [Weitere Informationen](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets)
+>Derzeit werden nur Bild-Assets von _Adobe Experience Manager Assets_ in Marketo Engage unterstützt. Änderungen an den Assets müssen über das zentrale Adobe Experience Manager Assets-Repository vorgenommen werden. [Weitere Informationen](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets)
 
 Wenn Sie diese digitalen Assets verwenden, werden die neuesten Änderungen in _Assets as a Cloud Service_ über verknüpfte Verweise automatisch an Live-E-Mail-Kampagnen weitergegeben. Wenn Bilder in _Adobe Experience Manager Assets as a Cloud Service_ gelöscht werden, werden sie in den E-Mails mit einer beschädigten Referenz angezeigt. Wenn Assets, die derzeit auf dem Marketo Engage verwendet werden, geändert oder gelöscht werden, werden die E-Mail-Autoren über die Bildänderungen benachrichtigt. Alle Änderungen an den Assets müssen im Adobe Experience Manager Assets Central Repository vorgenommen werden.
 
 ## Verwenden von AEM Assets als Bildquelle {#use-aem-assets-as-the-image-source}
 
-Wenn Ihre Umgebung über eine oder mehrere Assets-Repository-Verbindungen verfügt, können Sie AEM Assets als Quelle für Assets festlegen, wenn Sie Details für eine E-Mail, E-Mail-Vorlage oder ein visuelles Fragment erstellen oder anzeigen.
+Wenn Ihre Umgebung über eine oder mehrere Asset-Repository-Verbindungen verfügt, können Sie AEM Assets als Quelle für Assets festlegen, wenn Sie Details für eine E-Mail, E-Mail-Vorlage oder ein visuelles Fragment erstellen oder anzeigen.
 
 * Wählen Sie beim Erstellen neuer Inhalte `AEM Assets` als **[!UICONTROL Image Source]**-Element im Dialogfeld aus.
 
@@ -32,19 +37,23 @@ Wenn Ihre Umgebung über eine oder mehrere Assets-Repository-Verbindungen verfü
 
 ![Wählen Sie AEM Assets als Bildquelle in den Eigenschaften aus](assets/work-with-experience-manager-assets-2.png){width="700" zoomable="yes"}
 
-## Zugriff auf Assets für das Authoring
+## Zugriff auf Assets für das Authoring {#access-assets-for-authoring}
 
 >[!IMPORTANT]
 >
 >Ein Administrator muss Benutzer, die Zugriff auf Assets benötigen, zu den Produktprofilen &quot;Assets Consumer Users“ und/oder &quot;Assets Users“ hinzufügen. [Weitere Informationen](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/security/ims-support#managing-products-and-user-access-in-admin-console)
 
-Klicken Sie im visuellen Inhaltseditor auf das Symbol _Asset-Auswahl_ in der linken Seitenleiste. Dadurch wird das Bedienfeld „Tools“ in eine Liste der verfügbaren Assets im ausgewählten Repository geändert.
+Klicken Sie im Visual Content Editor auf das Symbol _Experience Manager-Asset_ Auswahl“ in der linken Seitenleiste. Dadurch wird das Bedienfeld „Tools“ in eine Liste der verfügbaren Assets im ausgewählten Repository geändert.
 
 ![Klicken Sie auf das Symbol Assets-Selektor , um auf die Bild-Assets zuzugreifen](assets/work-with-experience-manager-assets-3.png){width="700" zoomable="yes"}
 
-Wenn Sie über mehr als ein verbundenes AEM-Repository verfügen, klicken Sie auf den Menüpfeil für **[!UICONTROL Repository]**, um das Repository auszuwählen, das Sie verwenden möchten.
+Wenn Sie über mehr als ein verbundenes AEM-Repository verfügen, klicken Sie auf die Schaltfläche **[!UICONTROL Verwalten als]**, um das Repository auszuwählen, das Sie verwenden möchten.
 
 ![Wählen Sie ein AEM Assets-Repository, um auf die Bild-Assets zuzugreifen](assets/work-with-experience-manager-assets-4.png){width="700" zoomable="yes"}
+
+Wählen Sie das gewünschte Repository aus.
+
+![Wählen Sie ein AEM Assets-Repository, um auf die Bild-Assets zuzugreifen](assets/work-with-experience-manager-assets-five.png)
 
 Es gibt mehrere Methoden zum Hinzufügen eines Bild-Assets zur visuellen Arbeitsfläche:
 

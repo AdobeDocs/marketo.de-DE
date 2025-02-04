@@ -4,9 +4,9 @@ description: Liste von Personen importieren - Marketo-Dokumente - Produktdokumen
 title: Liste mit Personen importieren
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 feature: Getting Started
-source-git-commit: 6733bca40fbe09fd1c5b6166aef7a74759d7808e
+source-git-commit: 1676c9049c61a637faede4751ea49bbcfa018be5
 workflow-type: tm+mt
-source-wordcount: '508'
+source-wordcount: '565'
 ht-degree: 4%
 
 ---
@@ -44,6 +44,8 @@ In diesem Tutorial erfahren Sie, wie Sie Personen aus einer Tabellenkalkulations
    >* Stellen Sie sicher, dass E-Mail-Adressen nur ASCII-Zeichen enthalten.
    >
    >* Marketo unterstützt **nicht** E-Mail-Adressen, die Emojis enthalten.
+   >
+   >* Der Import von `NULL` über CSV könnte zu einer „Änderung des Datenwerts“ für numerische Felder im „Aktivitätsprotokoll[ einer Person führen ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"}auch _wenn die Felder bereits leer sind_. Trigger Wenn Sie über &quot;[ Kampagnen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"} mit dem Filter „Datenwertänderung“ oder „Datenwertänderungen“ verfügen, stellen Sie sicher, dass Sie [Beschränkungen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"} verwenden, um sicherzustellen, dass sie bei der Durchführung von Importen nicht unnötig ausgelöst werden.
 
 ## Schritt 2: Programm erstellen {#step-create-a-program}
 
