@@ -4,7 +4,7 @@ description: Erfahren Sie, wie Sie Bild-Assets aus einem verbundenen AEM Assets-
 hide: true
 hidefromtoc: true
 exl-id: c2172042-a35c-4179-bf81-6e96323bd4d4
-source-git-commit: 1676c9049c61a637faede4751ea49bbcfa018be5
+source-git-commit: 292626741d3b2334da104a515c3e968fb340706a
 workflow-type: tm+mt
 source-wordcount: '617'
 ht-degree: 1%
@@ -53,13 +53,13 @@ Wenn Sie über mehr als ein verbundenes AEM-Repository verfügen, klicken Sie au
 
 Wählen Sie das gewünschte Repository aus.
 
-![Wählen Sie ein AEM Assets-Repository, um auf die Bild-Assets zuzugreifen](assets/work-with-experience-manager-assets-five.png)
+![Wählen Sie ein AEM Assets-Repository, um auf die Bild-Assets zuzugreifen](assets/work-with-experience-manager-assets-5.png)
 
 Es gibt mehrere Methoden zum Hinzufügen eines Bild-Assets zur visuellen Arbeitsfläche:
 
 * Ziehen Sie eine Miniaturansicht per Drag-and-Drop aus dem linken Navigationsbereich.
 
-![Wählen Sie ein AEM Assets-Repository, um auf die Bild-Assets zuzugreifen](assets/work-with-experience-manager-assets-5.png){width="700" zoomable="yes"}
+![Wählen Sie ein AEM Assets-Repository, um auf die Bild-Assets zuzugreifen](assets/work-with-experience-manager-assets-6.png){width="700" zoomable="yes"}
 
 * Fügen Sie der Arbeitsfläche eine Bildkomponente hinzu und klicken Sie auf **[!UICONTROL Durchsuchen]**, um das Dialogfeld _[!UICONTROL Assets auswählen]_ zu öffnen.
 
@@ -67,7 +67,7 @@ Es gibt mehrere Methoden zum Hinzufügen eines Bild-Assets zur visuellen Arbeits
 
   Es stehen mehrere Tools zur Verfügung, mit denen Sie das benötigte Asset finden können.
 
-![Verwenden Sie das Tool im Dialogfeld &quot;Assets auswählen“, um ein Bild-Asset zu suchen und auszuwählen](assets/work-with-experience-manager-assets-6.png){width="700" zoomable="yes"}
+![Verwenden Sie das Tool im Dialogfeld &quot;Assets auswählen“, um ein Bild-Asset zu suchen und auszuwählen](assets/work-with-experience-manager-assets-7.png){width="700" zoomable="yes"}
 
 * Ändern Sie **[!UICONTROL Repository]** oben rechts.
 
@@ -83,4 +83,4 @@ Es gibt mehrere Methoden zum Hinzufügen eines Bild-Assets zur visuellen Arbeits
 
 * Geben Sie im Suchfeld Text ein, um die angezeigten Elemente nach einer Übereinstimmung mit dem Asset-Namen zu filtern.
 
-![Verwenden Sie das Filter- und Suchfeld, um das Asset zu finden](assets/work-with-experience-manager-assets-7.png){width="700" zoomable="yes"}
+![Verwenden Sie das Filter- und Suchfeld, um das Asset zu finden](assets/work-with-experience-manager-assets-8.png){width="700" zoomable="yes"}
