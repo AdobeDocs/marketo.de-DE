@@ -4,16 +4,16 @@ description: Erfahren Sie, wie Sie Bild-Assets aus einem verbundenen AEM Assets-
 hide: true
 hidefromtoc: true
 exl-id: c2172042-a35c-4179-bf81-6e96323bd4d4
-source-git-commit: 292626741d3b2334da104a515c3e968fb340706a
+source-git-commit: 233c50c0539131c21e913cbd6ba5471f1a41f407
 workflow-type: tm+mt
-source-wordcount: '617'
+source-wordcount: '598'
 ht-degree: 1%
 
 ---
 
 # Arbeiten mit Experience Manager-Assets {#work-with-experience-manager-assets}
 
-Wenn _Adobe Experience Manager Assets as a Cloud Service_ mit Adobe Marketo Engage integriert ist, können Sie einfach auf digitale Assets zugreifen, um sie für Ihre Marketing-Inhalte zu verwenden. Während Sie Ihre Inhalte erstellen, können Sie über das Element _[!UICONTROL Experience Manager Assets]_ im linken Navigationsbereich auf die Assets zugreifen.
+Wenn _Adobe Experience Manager Assets as a Cloud Service_ mit Adobe Marketo Engage integriert ist, können Sie einfach auf digitale Assets zugreifen, um sie für Ihre Marketing-Inhalte zu verwenden.
 
 >[!PREREQUISITES]
 >

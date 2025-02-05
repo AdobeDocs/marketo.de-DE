@@ -4,16 +4,16 @@ description: Erfahren Sie, wie Sie visuelle Inhaltsfragmente als wiederverwendba
 hide: true
 hidefromtoc: true
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: aefdb7360ca4c687d05f4695afc618815b08c336
+source-git-commit: 233c50c0539131c21e913cbd6ba5471f1a41f407
 workflow-type: tm+mt
-source-wordcount: '2402'
+source-wordcount: '2029'
 ht-degree: 2%
 
 ---
 
 # Fragmente
 
-Ein Fragment ist eine wiederverwendbare Komponente, die in einer oder mehreren E-Mails und E-Mail-Vorlagen referenziert werden kann. Normalerweise handelt es sich dabei um einen Inhaltsblock (Text, Bild oder beides), der schnell erstellt und in Ihr Projekt eingefügt werden kann. Mit dieser Funktion können Sie mehrere benutzerdefinierte Inhaltsbausteine vorab erstellen, um E-Mail-Inhalte für einen verbesserten Design-Prozess zusammenzustellen. Häufige Anwendungsfälle sind u. a. Kopf-/Fußzeilen-Inhaltsbausteine für E-Mails, Einladungsbanner für Veranstaltungen, saisonale Nachrichten und mehr.
+Ein Fragment ist eine wiederverwendbare Komponente, die in einer oder mehreren E-Mails und E-Mail-Vorlagen referenziert werden kann. Normalerweise handelt es sich dabei um einen Inhaltsblock (Text, Bild oder beides), der schnell in Ihr Projekt eingefügt werden kann. Mit dieser Funktion können Sie mehrere benutzerdefinierte Inhaltsbausteine vorab erstellen, um E-Mail-Inhalte für einen verbesserten Design-Prozess zusammenzustellen. Häufige Anwendungsfälle sind u. a. Kopf-/Fußzeilen-Inhaltsbausteine für E-Mails, Einladungsbanner für Veranstaltungen, saisonale Nachrichten und mehr.
 
 So verwenden Sie Fragmente in Ihren Workflows optimal:
 
@@ -26,11 +26,11 @@ Visuelle Fragmente sind vordefinierte visuelle Blöcke, die (mit dem Visual Cont
 
 ## Zugreifen auf und Verwalten von Fragmenten {#access-and-manage-fragments}
 
-Um auf visuelle Fragmente zuzugreifen, wechseln Sie zum Design Studio. Klicken Sie in der Baumstruktur links auf **[!UICONTROL Fragmente (Neu)]**.
+Um auf visuelle Fragmente zuzugreifen, navigieren Sie zu **Design Studio**. Klicken Sie in der Baumstruktur links auf **[!UICONTROL Fragmente (Neu)]**.
 
 ![Zugriff auf Fragmente](assets/fragments-1.png){width="600" zoomable="yes"}
 
-Standardmäßig wird die Tabelle nach der Spalte _[!UICONTROL Geändert]_ sortiert. Klicken Sie auf Andere Spaltentitel, um zu ändern, nach welchem Element die Tabelle sortiert wird. Klicken Sie erneut, um zwischen aufsteigender und absteigender Reihenfolge zu wechseln.
+Standardmäßig wird die Tabelle nach der Spalte _[!UICONTROL Geändert]_ sortiert. Klicken Sie auf Andere Spaltentitel, um zu ändern, nach welchem Element die Tabelle sortiert wird. Klicken Sie erneut auf denselben Titel, um zwischen aufsteigender und absteigender Reihenfolge zu wechseln.
 
 ### Fragmentstatus {#fragment-status}
 
@@ -75,7 +75,7 @@ Der Fragmentstatus bestimmt seine Verfügbarkeit zur Verwendung in einer E-Mail 
 
 ### Filtern der Fragmentliste {#filter-the-fragments-list}
 
-Verwenden Sie die Suchleiste, um ein Fragment anhand des Namens zu finden. Klicken Sie auf _Filter_-Symbol ( ![Filtersymbol ein- oder ausblenden](assets/icon-filter.svg) ), um die verfügbaren Filteroptionen anzuzeigen und die gewünschten Einstellungen auszuwählen.
+Verwenden Sie die Suchleiste, um ein Fragment anhand des Namens zu finden. Klicken Sie auf _Filter_-Symbol ( ![Filtersymbol](assets/icon-filter.svg) ), um die verfügbaren Filteroptionen anzuzeigen und die gewünschten Einstellungen auszuwählen.
 
 ![Filtern Sie die angezeigten Fragmente](assets/fragments-list-filtered.png){width="700" zoomable="yes"}
 
@@ -140,13 +140,13 @@ SCREENSHOT
 
 ## Anzeigen von Fragmentdetails {#view-fragment-details}
 
-Klicken Sie auf den Namen eines beliebigen Fragments auf der Listenseite, um die Fragmentdetailseite zu öffnen. Sie können wählen, ob Sie das Fragment bearbeiten, das Fragment umbenennen oder die Fragmentbeschreibung aktualisieren möchten. Nehmen Sie Aktualisierungen vor und klicken Sie außerhalb des Namens- oder Beschreibungsfelds, um Änderungen automatisch zu speichern.
+Klicken Sie auf den Namen eines beliebigen Fragments auf der Listenseite, um die Fragmentdetailseite zu öffnen. Sie können wählen, ob Sie das Fragment bearbeiten, umbenennen oder seine Beschreibung aktualisieren möchten. Nehmen Sie Aktualisierungen vor und klicken Sie außerhalb des Namens- oder Beschreibungsfelds, um Ihre Änderungen zu speichern.
 
 >[!NOTE]
 >
 >Wenn ein veröffentlichtes Fragment von einer E-Mail- oder E-Mail-Vorlage verwendet wird, können Sie seinen Namen nicht ändern oder den Inhalt bearbeiten. Sie können eine Entwurfsversion erstellen, wenn Sie Änderungen am Fragment vornehmen möchten.
 
-![Details für ein veröffentlichtes Fragment anzeigen](assets/fragment-details-published.png){width="600" zoomable="yes"}
+![Details für ein veröffentlichtes Fragment anzeigen](assets/view-fragment-details-1.png){width="600" zoomable="yes"}
 
 Klicken Sie **[!UICONTROL Fragment bearbeiten]**, um das Fragment im visuellen Inhaltseditor zu öffnen.
 
@@ -160,9 +160,7 @@ Klicken Sie auf der Seite mit den Fragmentdetails auf **[!UICONTROL Registerkart
 >
 >Ein Fragment, das derzeit von einer E-Mail oder E-Mail-Vorlage verwendet wird, kann nicht gelöscht werden.
 
-Verweise werden nach Kategorie angezeigt: _E-_ oder _E-Mail-Vorlage_. E-Mails in Journey Optimizer B2B edition sind in Account Journey eingebettet und verfasst, sodass die übergeordnete Journey der E-Mail, die das Fragment verwendet, als Referenzen angezeigt wird. &lt;— WAS IST MIT DIESEM TEIL, NILESH
-
-![Wird von Verweisen für das Fragment verwendet](assets/fragment-used-by-published.png){width="600" zoomable="yes"}
+![Wird von Verweisen für das Fragment verwendet](assets/view-fragment-used-by-1.png){width="600" zoomable="yes"}
 
 Klicken Sie auf den Link, um die entsprechende E-Mail oder E-Mail-Vorlage zu öffnen, in der das Fragment verwendet wird.
 
@@ -290,7 +288,7 @@ Das duplizierte Fragment wird dann in der Liste _Fragmente_ angezeigt.
 
 ## Speichern eines neuen Fragments aus E-Mail- oder Vorlageninhalten {#save-a-new-fragment-from-email-or-template-content}
 
-Wenn Sie eine E-Mail- oder E-Mail-Vorlage im visuellen Inhaltseditor erstellen/bearbeiten, können Sie den gesamten Inhalt oder Teile davon als Fragment speichern, damit er wiederverwendet werden kann.
+Wenn Sie eine E-Mail- oder E-Mail-Vorlage im visuellen Inhaltseditor erstellen/bearbeiten, können Sie den gesamten Inhalt oder einen Teil davon als Fragment speichern, damit er wiederverwendet werden kann.
 
 1. Um Inhalte als Fragment zu speichern, klicken Sie auf **[!UICONTROL Mehr]** und wählen Sie **[!UICONTROL Als Fragment speichern]**.
 
@@ -302,41 +300,17 @@ Wenn Sie eine E-Mail- oder E-Mail-Vorlage im visuellen Inhaltseditor erstellen/b
 
 1. Klicken Sie bei ausgewähltem Inhalt oben **[!UICONTROL auf]** Erstellen“.
 
-1. Geben Sie im Dialogfeld einen Namen und optional eine Beschreibung für das Fragment ein. Klicken Sie dann auf **[!UICONTROL Erstellen]**.
+1. Geben Sie im Dialogfeld einen Namen und eine optionale Beschreibung für das Fragment ein und klicken Sie auf **[!UICONTROL Erstellen]**.
 
    Das Fragment wird dann auf der Seite _Fragmente_ angezeigt und ist auch für die Verwendung in E-Mails und E-Mail-Vorlagen verfügbar.
 
 ## Hinzufügen visueller Fragmente zu E-Mail- oder Vorlageninhalten {#add-visual-fragments-to-your-email-or-template-content}
 
-Fragmente sind zur Wiederverwendung konzipiert und Sie können bis zu 30 in einer E-Mail- oder E-Mail-Vorlage hinzufügen. Fragmente können nur bis zu einer Ebene verschachtelt werden.
+Fragmente sind zur Wiederverwendung vorgesehen. Sie können einer E-Mail- oder E-Mail-Vorlage bis zu 30 hinzufügen. Diese können dann nur bis zu einer Ebene verschachtelt werden.
 
->[!BEGINTABS]
+* [Fragment zu einer E-Mail hinzufügen](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-fragments)
 
->[!TAB Hinzufügen von Fragmenten zu einer E-Mail]
-
-1. Navigieren Sie zu **[!UICONTROL Account-Journey]** und öffnen Sie eine bestehende Journey oder erstellen Sie eine neue Journey. &lt;— NUR INNERHALB DER E-MAIL- ODER E-MAIL-VORLAGE
-
----------BEARBEITUNG HIER ANGEHALTEN---------
-
-1. Erstellen Sie einen [_[!UICONTROL E-Mail senden ]_-Knoten](./email-authoring.md#add-an-email-action-in-an-account-journey).
-
-1. Erstellen oder bearbeiten [E-Mail-Inhalt für den Knoten](./email-authoring.md#create-the-email-content).
-
-1. Ziehen Sie ein Element per Drag-and-Drop aus dem **[!UICONTROL Komponenten]**-Menü, um eine _Struktur_ für das Fragment bereitzustellen.
-
-1. Um die Liste der veröffentlichten Fragmente zu öffnen, klicken Sie auf das Symbol _Fragmente_ .
-
-   Sie haben folgende Möglichkeiten:
-   * Sortieren Sie die Liste.
-   * Durchsuchen, Durchsuchen und Filtern der Liste.
-   * Wechseln zwischen Karten- (Miniatur-) und Listenansicht.
-   * Aktualisieren Sie die Liste, um die kürzlich erstellten Fragmente anzuzeigen.
-
-SCREENSHOT
-
-1. Ziehen Sie eines der Fragmente in den Platzhalter der Strukturkomponente.
-
-   Der Editor rendert das Fragment innerhalb des Abschnitts/Elements der E-Mail-Struktur.
+* [Hinzufügen eines Fragments zu einer E-Mail-Vorlage](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#add-fragments)
 
 Der Inhalt des Fragments wird innerhalb der Struktur dynamisch aktualisiert, um eine visuelle Darstellung des Inhalts in der E-Mail zu rendern.
 
@@ -344,51 +318,17 @@ Der Inhalt des Fragments wird innerhalb der Struktur dynamisch aktualisiert, um 
 >
 >Wenn Sie möchten, dass das Fragment das gesamte horizontale Layout in der E-Mail einnimmt, fügen Sie eine [!UICONTROL 1:1-] hinzu und ziehen Sie das Fragment dann per Drag-and-Drop hinein.
 
-Nachdem die E-Mail gespeichert wurde, wird sie auf der Seite mit den Fragmentdetails angezeigt, wenn die Registerkarte _[!UICONTROL Verwendet von]_ ausgewählt ist. Fragmente, die einer E-Mail hinzugefügt wurden, können innerhalb der E-Mail oder Vorlage nicht bearbeitet werden — das veröffentlichte Quellfragment definiert den Inhalt.
+Nachdem die E-Mail-/E-Mail-Vorlage gespeichert wurde, wird sie auf der Seite mit den Fragmentdetails angezeigt, wenn die Registerkarte _[!UICONTROL Verwendet von]_ ausgewählt ist. Hinzugefügte Fragmente können innerhalb der E-Mail oder Vorlage nicht bearbeitet werden. Das veröffentlichte Quellfragment definiert den Inhalt.
 
->[!TAB Hinzufügen von Fragmenten zu einer E-Mail-Vorlage]
+## Fragmentaktionen beim Verfassen von E-Mails und Vorlagen {#fragment-actions-during-email-and-template-authoring}
 
-1. Klicken Sie in der linken Navigation auf **[!UICONTROL Content-]** > **[!UICONTROL Vorlagen]**.
+Wenn ein Fragment zu einer E-Mail oder E-Mail-Vorlage hinzugefügt wird, kann sein Inhalt nicht innerhalb der E-Mail oder Vorlage bearbeitet werden. Sie können jedoch die folgenden Aktionen anwenden:
 
-1. Erstellen Sie eine neue Vorlage oder öffnen Sie eine vorhandene E-Mail-Vorlage und klicken Sie auf **[!UICONTROL E-Mail-Vorlage bearbeiten]**.
-
-1. Ziehen Sie ein Element per Drag-and-Drop aus dem **[!UICONTROL Komponenten]**-Menü, um eine _Struktur_ für das Fragment bereitzustellen.
-
-1. Um die Fragmentliste zu öffnen, klicken Sie auf das Symbol _Fragmente_ .
-
-   Sie haben folgende Möglichkeiten:
-   * Sortieren Sie die Liste.
-   * Durchsuchen, Durchsuchen und Filtern der Liste.
-   * Wechseln zwischen Karten- (Miniatur-) und Listenansicht.
-   * Aktualisieren Sie die Liste, um die kürzlich erstellten Fragmente anzuzeigen.
-
-SCREENSHOT
-
-1. Ziehen Sie eines der Fragmente in den Platzhalter der Strukturkomponente.
-
-   Der Editor rendert das Fragment innerhalb des Abschnitts/Elements der E-Mail-Vorlagenstruktur.
-
-1. Ziehen Sie eines der Fragmente in den Platzhalter der Strukturkomponente.
-
-   Der Editor rendert das Fragment innerhalb des Abschnitts/Elements der E-Mail-Vorlagenstruktur.
-
->[!TIP]
->
->Wenn das Fragment das gesamte horizontale Layout in der E-Mail-Vorlage einnehmen soll, fügen Sie eine _[!UICONTROL 1:1-]_ hinzu und ziehen Sie das Fragment dann per Drag-and-Drop hinein.
-
-Nachdem die E-Mail-Vorlage gespeichert wurde, wird sie auf der Seite mit Fragmentdetails angezeigt, wenn die Registerkarte _[!UICONTROL Verwendet von]_ ausgewählt ist. Fragmente, die einer E-Mail-Vorlage hinzugefügt wurden, können innerhalb der Vorlage nicht bearbeitet werden — das veröffentlichte Quellfragment definiert den Inhalt.
-
->[!ENDTABS]
-
-## Fragmentaktionen beim Verfassen von E-Mails und Vorlagen
-
-Wenn ein Fragment zu einer E-Mail oder E-Mail-Vorlage hinzugefügt wird, kann der Fragmentinhalt nicht innerhalb der E-Mail oder Vorlage bearbeitet werden. Sie können jedoch die folgenden Aktionen anwenden:
-
-* **[!UICONTROL Löschen]** - Mit dieser Aktion wird das Fragment aus dem aktuellen Inhalt der E-Mail oder E-Mail-Vorlage entfernt (die Fragmentquelle ist nicht betroffen).
-* **[!UICONTROL Aktualisieren]** - Mit dieser Aktion wird der Inhalt des Fragments in der aktuellen E-Mail- oder E-Mail-Vorlage aktualisiert. Eine Aktualisierung ist nützlich, wenn Sie die letzten Änderungen am Fragment nach dem Hinzufügen zur E-Mail- oder E-Mail-Vorlage berücksichtigen möchten.
-* **[!UICONTROL Duplizieren]** - Mit dieser Aktion wird das Fragment innerhalb derselben E-Mail- oder E-Mail-Vorlage im Editor mit denselben Dimensionen dupliziert und direkt darunter hinzugefügt.
-* **[!UICONTROL Fragment öffnen]** - Diese Aktion öffnet eine neue Browser-Registerkarte mit der Fragment-Editor-Seite und Details.
-* **[!UICONTROL Vererbung unterbrechen]** - Mit dieser Aktion wird die Vererbung des Fragments (und seiner Änderungen) von der Quelle unterbrochen. Verwenden Sie diese Aktion, um den Fragmentinhalt als unabhängigen und bearbeitbaren Inhalt in der E-Mail- oder E-Mail-Vorlage verfügbar zu machen. Diese Aktion entfernt auch die E-Mail- oder E-Mail-Vorlage aus der Referenz _Verwendet von_ für das ursprüngliche Fragment.
+* **[!UICONTROL Löschen]** - Dadurch wird das Fragment aus dem aktuellen Inhalt der E-Mail oder E-Mail-Vorlage entfernt (die Fragmentquelle ist nicht betroffen).
+* **[!UICONTROL Aktualisieren]** - aktualisiert den Inhalt des Fragments in der aktuellen E-Mail oder E-Mail-Vorlage. Eine Aktualisierung ist nützlich, wenn Sie die letzten Änderungen am Fragment nach dem Hinzufügen zur E-Mail- oder E-Mail-Vorlage berücksichtigen möchten.
+* **[!UICONTROL Duplizieren]** - Dadurch wird das Fragment in derselben E-Mail oder E-Mail-Vorlage im Editor dupliziert. Das duplizierte Fragment wird direkt unter dem Original hinzugefügt.
+* **[!UICONTROL Fragment öffnen]** - Dadurch wird eine neue Browser-Registerkarte mit der Fragment-Editor-Seite und Details geöffnet.
+* **[!UICONTROL Vererbung unterbrechen]** - Hiermit wird die Vererbung des Fragments (und seiner Änderungen) von der Quelle unterbrochen. Verwenden Sie diese Aktion, um den Fragmentinhalt als unabhängigen und bearbeitbaren Inhalt in der E-Mail- oder E-Mail-Vorlage verfügbar zu machen. Diese Aktion entfernt auch die E-Mail- oder E-Mail-Vorlage aus der Referenz _Verwendet von_ für das ursprüngliche Fragment.
 
 Wenn Sie das Fragment auf der Editor-Seite auswählen, sind diese Aktionen in der Kontextsymbolleiste und im Bedienfeld Eigenschaften auf der rechten Seite verfügbar.
 
