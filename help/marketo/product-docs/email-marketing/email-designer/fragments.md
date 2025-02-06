@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie visuelle Inhaltsfragmente als wiederverwendba
 hide: true
 hidefromtoc: true
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 233c50c0539131c21e913cbd6ba5471f1a41f407
+source-git-commit: 92404e10771920862cd147c09e2ada37484e6118
 workflow-type: tm+mt
-source-wordcount: '2029'
+source-wordcount: '2052'
 ht-degree: 2%
 
 ---
@@ -26,11 +26,25 @@ Visuelle Fragmente sind vordefinierte visuelle Blöcke, die (mit dem Visual Cont
 
 ## Zugreifen auf und Verwalten von Fragmenten {#access-and-manage-fragments}
 
-Um auf visuelle Fragmente zuzugreifen, navigieren Sie zu **Design Studio**. Klicken Sie in der Baumstruktur links auf **[!UICONTROL Fragmente (Neu)]**.
+Um auf visuelle Fragmente zuzugreifen, wechseln Sie zum **Design Studio** in Marketo Engage. Klicken Sie in der Baumstruktur links auf **[!UICONTROL Fragmente (Neu)]**.
 
-![Zugriff auf Fragmente](assets/fragments-1.png){width="600" zoomable="yes"}
+![Zugriff auf Fragmente](assets/access-and-manage-fragments-1.png){width="600" zoomable="yes"}
 
 Standardmäßig wird die Tabelle nach der Spalte _[!UICONTROL Geändert]_ sortiert. Klicken Sie auf Andere Spaltentitel, um zu ändern, nach welchem Element die Tabelle sortiert wird. Klicken Sie erneut auf denselben Titel, um zwischen aufsteigender und absteigender Reihenfolge zu wechseln.
+
+### Suchen und Filtern
+
+Verwenden Sie die Suchleiste, um ein Fragment anhand des Namens zu finden. Klicken Sie auf _Filter_-Symbol ( ![Filtersymbol](assets/icon-filter.svg) ), um die verfügbaren Filteroptionen anzuzeigen und die gewünschten Einstellungen auszuwählen.
+
+![Filtern Sie die angezeigten Fragmente](assets/access-and-manage-fragments-2.png){width="700" zoomable="yes"}
+
+### Anpassen der Spalten {#customize-the-column-display}
+
+Passen Sie die Spalten an, die Sie in der Tabelle anzeigen möchten, indem Sie auf das Symbol _Tabelle anpassen_ ( ![Symbol Tabelle anpassen](assets/icon-column-settings.svg) ) oben rechts klicken.
+
+Wählen Sie die gewünschten Spalten aus und klicken Sie auf **[!UICONTROL Anwenden]**.
+
+![Modal „Tabelle anpassen](assets/access-and-manage-fragments-3.png){width="400" zoomable="yes"}
 
 ### Fragmentstatus {#fragment-status}
 
@@ -73,36 +87,30 @@ Der Fragmentstatus bestimmt seine Verfügbarkeit zur Verwendung in einer E-Mail 
   </tr>
 </tbody></table>
 
-### Filtern der Fragmentliste {#filter-the-fragments-list}
-
-Verwenden Sie die Suchleiste, um ein Fragment anhand des Namens zu finden. Klicken Sie auf _Filter_-Symbol ( ![Filtersymbol](assets/icon-filter.svg) ), um die verfügbaren Filteroptionen anzuzeigen und die gewünschten Einstellungen auszuwählen.
-
-![Filtern Sie die angezeigten Fragmente](assets/fragments-list-filtered.png){width="700" zoomable="yes"}
-
-### Spaltenanzeige anpassen {#customize-the-column-display}
-
-Passen Sie die Spalten an, die Sie in der Tabelle anzeigen möchten, indem Sie auf das Symbol _Tabelle anpassen_ ( ![Symbol Tabelle anpassen](assets/icon-column-settings.svg) ) oben rechts klicken.
-
-Wählen Sie im Dialogfeld die gewünschten Spalten aus und klicken Sie auf **[!UICONTROL Anwenden]**.
-
-SCREENSHOT
-
 ## Erstellen von Fragmenten {#create-fragments}
 
-Erstellen Sie ein neues visuelles Fragment, indem **[!UICONTROL oben]** auf „Fragment erstellen“ klicken.
+1. Um ein neues visuelles Fragment zu erstellen, klicken **[!UICONTROL oben rechts]** der Seite mit der Fragmentliste auf „Fragment erstellen“.
 
-1. Geben _[!UICONTROL im Dialogfeld „Fragment erstellen]_ einen **[!UICONTROL Namen]** und eine optionale **[!UICONTROL Beschreibung]** ein.
+   ![Schaltfläche „Fragment erstellen“](assets/create-fragments-1.png){width="700" zoomable="yes"}
 
-   Fragmentanforderungen:
+1. Geben Sie Ihrem Fragment **[!UICONTROL Name]** und eine optionale **[!UICONTROL Beschreibung]**.
 
-   * Name - max. 100 Zeichen, muss eindeutig sein, Groß-/Kleinschreibung wird nicht beachtet
-   * Beschreibung - max. 300 Zeichen
-   * Alpha-, numerische und Sonderzeichen sind in Ordnung
+   _Fragmentanforderungen_
+
+   * Name: max. 100 Zeichen, muss eindeutig sein, darf nicht zwischen Groß- und Kleinschreibung unterschieden werden
+   * Beschreibung: max. 300 Zeichen
+   * Zeichen: Alpha-, numerische und Sonderzeichen sind in Ordnung
    * Reservierte Zeichen sind **_nicht zulässig_**: `\ / : * ? " < > |`
 
-SCREENSHOT
+   ![Modal „Fragment erstellen“](assets/create-fragments-2.png){width="400" zoomable="yes"}
 
 1. Klicken Sie auf **[!UICONTROL Erstellen]**.
+
+   ![Modal „Fragment erstellen“](assets/create-fragments-3.png){width="400" zoomable="yes"}
+
+   >[!NOTE]
+   >
+   >Der &quot;**&quot; eines Fragments** derzeit nicht geändert werden.
 
    Der visuelle Designer wird mit einer leeren Arbeitsfläche geöffnet.
 

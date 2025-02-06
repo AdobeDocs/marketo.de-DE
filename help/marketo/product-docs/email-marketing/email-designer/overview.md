@@ -3,9 +3,9 @@ description: Übersicht - Marketo-Dokumente - Produktdokumentation
 title: Überblick
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 4b6d3c4f91fe117511ad3235f757ec904d9bafa2
+source-git-commit: 92404e10771920862cd147c09e2ada37484e6118
 workflow-type: tm+mt
-source-wordcount: '546'
+source-wordcount: '564'
 ht-degree: 0%
 
 ---
@@ -27,6 +27,8 @@ Mit dem neuen Designer erstellte E-Mails können in E-Mail-Programmen sowie in S
 * [E-Mail-Authoring](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"}: Erfahren Sie, wie Sie eine E-Mail im neuen Editor erstellen, gestalten und referenzieren.
 
 * [Erstellen von E-Mail](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md){target="_blank"}Vorlagen: Erfahren Sie, wie Sie im neuen Editor eine E-Mail-Vorlage erstellen, gestalten und darauf zugreifen.
+
+* [Arbeiten mit AEM Assets](product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}: Erfahren Sie, wie Sie einfach auf Ihre digitalen AEM-Assets zugreifen können, um sie beim Marketo Engage zu verwenden.
 
 ## FAQs {#faq}
 

@@ -1,12 +1,10 @@
 ---
 title: Arbeiten mit Experience Manager Assets
 description: Erfahren Sie, wie Sie Bild-Assets aus einem verbundenen AEM Assets-Repository beim Erstellen von Inhalten in Adobe Marketo Engage verwenden.
-hide: true
-hidefromtoc: true
 exl-id: c2172042-a35c-4179-bf81-6e96323bd4d4
-source-git-commit: 233c50c0539131c21e913cbd6ba5471f1a41f407
+source-git-commit: 92404e10771920862cd147c09e2ada37484e6118
 workflow-type: tm+mt
-source-wordcount: '598'
+source-wordcount: '607'
 ht-degree: 1%
 
 ---
@@ -17,13 +15,13 @@ Wenn _Adobe Experience Manager Assets as a Cloud Service_ mit Adobe Marketo Enga
 
 >[!PREREQUISITES]
 >
->MKTO/AEM-Dokument verbinden.
+>[Verbinden Sie Ihre Adobe Experience Manager-Cloud Service mit Ihrer Adobe Marketo Engage-Instanz](/help/marketo/product-docs/email-marketing/email-designer/aem-cloud-services.md){target="_blank"}
 
 >[!NOTE]
 >
->Derzeit werden nur Bild-Assets von _Adobe Experience Manager Assets_ in Marketo Engage unterstützt. Änderungen an den Assets müssen über das zentrale Adobe Experience Manager Assets-Repository vorgenommen werden. [Weitere Informationen](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets)
+>Derzeit werden nur Bild-Assets von _Adobe Experience Manager Assets_ in Marketo Engage unterstützt. Änderungen an den Assets müssen über das zentrale Adobe Experience Manager Assets-Repository vorgenommen werden. [Weitere Informationen](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
 
-Wenn Sie diese digitalen Assets verwenden, werden die neuesten Änderungen in _Assets as a Cloud Service_ über verknüpfte Verweise automatisch an Live-E-Mail-Kampagnen weitergegeben. Wenn Bilder in _Adobe Experience Manager Assets as a Cloud Service_ gelöscht werden, werden sie in den E-Mails mit einer beschädigten Referenz angezeigt. Wenn Assets, die derzeit auf dem Marketo Engage verwendet werden, geändert oder gelöscht werden, werden die E-Mail-Autoren über die Bildänderungen benachrichtigt. Alle Änderungen an den Assets müssen im Adobe Experience Manager Assets Central Repository vorgenommen werden.
+Wenn Sie diese digitalen Assets verwenden, werden die neuesten Änderungen in _Assets as a Cloud Service_ über verknüpfte Verweise automatisch an Live-E-Mail-Kampagnen weitergegeben. Wenn Bilder in _Adobe Experience Manager Assets as a Cloud Service_ gelöscht werden, werden sie in Ihren E-Mails mit einem beschädigten Verweis angezeigt. Wenn Assets, die derzeit auf dem Marketo Engage verwendet werden, geändert oder gelöscht werden, werden die E-Mail-Autoren über die Bildänderungen benachrichtigt. Alle Änderungen an den Assets müssen im Adobe Experience Manager Assets Central Repository vorgenommen werden.
 
 ## Verwenden von AEM Assets als Bildquelle {#use-aem-assets-as-the-image-source}
 
