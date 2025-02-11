@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
-source-git-commit: 5b31abc52e9bba690e908d9ee6018cecad0080e7
+source-git-commit: a5fafa0fb218a366b6e2c9b3adfb785791b52447
 workflow-type: tm+mt
-source-wordcount: '864'
+source-wordcount: '804'
 ht-degree: 1%
 
 ---
@@ -44,11 +44,11 @@ Es gibt zwei Möglichkeiten, auf den Adobe Express-Editor zuzugreifen.
 
    >[!NOTE]
    >
-   >* Um die Assets nach Arbeitsbereich und Ordner anzuzeigen, öffnen Sie die Struktur, indem Sie oben links auf **Ordner anzeigen** klicken.
+   >* Um die Assets nach Arbeitsbereich und Ordner anzuzeigen, öffnen Sie die Struktur, indem Sie oben links auf **[!UICONTROL Ordner anzeigen]** klicken.
    >
    >* Um die Tabelle nach einer der Spalten zu sortieren, klicken Sie auf den Spaltentitel. Der Pfeil in der Titelzeile zeigt die aktuelle Sortierspalte und -reihenfolge an.
 
-1. Klicken Sie auf der Registerkarte _Details_ auf **Bearbeiten in Adobe Express**.
+1. Klicken Sie auf der Registerkarte _Details_ auf **[!UICONTROL Bearbeiten in Adobe Express]**.
 
    SCREENSHOT 3a
 
@@ -64,7 +64,7 @@ Es gibt zwei Möglichkeiten, auf den Adobe Express-Editor zuzugreifen.
 
    >[!NOTE]
    >
-   >* Um die Assets nach Arbeitsbereich und Ordner anzuzeigen, öffnen Sie die Struktur, indem Sie oben links auf **Ordner anzeigen** klicken.
+   >* Um die Assets nach Arbeitsbereich und Ordner anzuzeigen, öffnen Sie die Struktur, indem Sie oben links auf **[!UICONTROL Ordner anzeigen]** klicken.
    >
    >* Um die Tabelle nach einer der Spalten zu sortieren, klicken Sie auf den Spaltentitel. Der Pfeil in der Titelzeile zeigt die aktuelle Sortierspalte und -reihenfolge an.
 
@@ -90,7 +90,7 @@ Wenn Sie über eine Enterprise-Lizenz für Adobe Express verfügen, haben Sie Zu
 >
 >Die erworbene Lizenz muss unter derselben IMS-Org wie Ihr Marketo Engage-Abonnement erfolgen, um auf alle Adobe Express-Bearbeitungsfunktionen zugreifen zu können. Außerdem muss jeder einzelne Benutzer über eine Lizenz in Adobe Express verfügen. Benutzende [ohne Lizenz](#users-without-an-enterprise-license) können nur auf die Schnellaktionen in Adobe Express zugreifen.
 
-## Benutzer ohne Enterprise-Lizenz {#users-without-an-enterprise-license}
+### Benutzer ohne Enterprise-Lizenz {#users-without-an-enterprise-license}
 
 Für Benutzer ohne Enterprise-Lizenz haben Sie weiterhin Zugriff auf mehrere Schnellbearbeitungs-Funktionen. Diese Funktionen sind:
 
@@ -103,9 +103,11 @@ Die Funktionen sind oben links auf der Bildseite verfügbar.
 
 SCREENSHOT
 
-### Bildgröße ändern {#resize-image}
+#### Bildgröße ändern {#resize-image}
 
-Nehmen Sie die gewünschten Änderungen vor und klicken Sie **auf &quot;**&quot;.
+1. Klicken Sie **Bildgröße ändern**.
+
+1. Nehmen Sie die gewünschten Änderungen vor und klicken Sie **auf &quot;**&quot;.
 
 SCREENSHOT
 
@@ -124,22 +126,42 @@ SCREENSHOT
   </tr>
   <tr>
     <td><b>Zoomen und zuschneiden</b></td>
-    <td>Klicken Sie auf Zoom und Zuschneiden , um in bestimmte Bereiche des Bildes zu zoomen.</td>
+    <td>Klicken Sie <b>Zoom und Zuschneiden</b>, um bestimmte Bereiche des Bildes einzuzoomen.</td>
   </tr>
 </tbody>
 </table>
 
+#### Hintergrund entfernen {#remove-background}
 
+1. Klicken Sie **Hintergrund entfernen**.
 
-### Hintergrund entfernen {#remove-background}
+1. Adobe Express zeigt das Bild ohne Hintergrund an. Klicken Sie auf **Übernehmen**.
 
-Text
+BILD
 
-### Bild zuschneiden {#crop-image}
+>[!TIP]
+>
+>Um den Hintergrund wiederherzustellen, wählen Sie das Bild aus und wählen Sie erneut **Hintergrund**.
 
-Text
+#### Bild zuschneiden {#crop-image}
 
-### In PNG/JPEG konvertieren {#convert-to-png-jpeg}
+1. Klicken Sie auf Bild zuschneiden.
+
+1. Ziehen Sie die Ecken des Bildes, um den gewünschten Zuschnitt zu erstellen.
+
+SCREENSHOT
+
+1. Klicken Sie **Anwenden** wenn Sie fertig sind.
+
+#### In PNG/JPEG konvertieren {#convert-to-png-jpeg}
+
+Konvertieren Sie ein PNG in ein JPEG oder ein JPEG in ein PNG.
+
+1. Klicken Sie **Nach PNG/JPEG konvertieren**.
+
+1. Klicken Sie auf **Übernehmen**.
+
+SCHNEIDEN SIE ZEUG UNTEN AN
 
 Klicken Sie auf der Seite auf Bild zuschneiden .
 
@@ -151,21 +173,10 @@ Sie können eine weitere Aktualisierung mit einer anderen Option im linken Berei
 
 Klicken Sie auf Speichern , um die Aktion abzuschließen.
 
-Zugreifen auf den Editor über die Seite mit den Bilddateien und der Auflistung
-Wählen Sie auf der Listenseite das Bild aus, das Sie bearbeiten möchten, und klicken Sie auf den Pfeil auf der Seite Aktionsschaltfläche Bilddateien .
+## Speichern Sie Ihre Arbeit {#save-your-work}
 
-Klicken Sie auf Mit Adobe Express bearbeiten .
+Wenn Sie mit allen Änderungen fertig sind, klicken Sie auf Speichern , um Ihre Arbeit zu speichern.
 
-Zugriff auf den Editor in der E-Mail-Designer
+SCREENSHOT
 
-Wählen Sie in der neuen E-Mail-Designer ein Bild aus, das Sie bearbeiten möchten.
-
-Eine Option zum Bearbeiten mit Adobe Express wird angezeigt. Klicken Sie auf die Schaltfläche, um fortzufahren.
-
-Hinweis: Diese Aktion steht für Bilder zur Verfügung, die ursprünglich aus dem Marketo Design Studio-Repository bezogen wurden.
-
-Wenn das Bild verwendet wird, werden Sie in einem Warndialogfeld darüber informiert, dass alle von Ihnen vorgenommenen Änderungen sich auf diesen Inhalt auswirken. Klicken Sie auf Weiter , um mit dem Adobe Express-Editor fortzufahren.
-
-Beenden der Bearbeitung auf der Adobe Express
-
-Klicken Sie auf Speichern , um die Aktion abzuschließen.  Das bearbeitete Bild wird im selben Ordner wie das Originalbild gespeichert und auch auf der Arbeitsfläche für die E-Mail-Bearbeitung aktualisiert.
+Das bearbeitete Bild wird im selben Ordner wie das Originalbild gespeichert.
