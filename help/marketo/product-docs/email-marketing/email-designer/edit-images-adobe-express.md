@@ -2,13 +2,14 @@
 solution: Marketo Engage
 product: marketo engage
 title: Bearbeiten von Bildern mit Adobe Express
-description: Erfahren Sie, wie Sie Bilder im Adobe Marketo Engage-E-Mail-Editor mithilfe von Adobe Express bearbeiten.
+description: Erfahren Sie, wie Sie Bilder im Adobe Marketo Engage-E-Mail-Editor mit Adobe Express bearbeiten.
 level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
-source-git-commit: 803ab5d02f1e2f66ca0fe9176a8dd248fd91b564
+exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
+source-git-commit: e9a412d0786a0dbeb6f743a90bcaf735032561a6
 workflow-type: tm+mt
-source-wordcount: '764'
+source-wordcount: '763'
 ht-degree: 1%
 
 ---
@@ -17,23 +18,23 @@ ht-degree: 1%
 
 Adobe Marketo Engage ist nativ mit Adobe Express integriert, sodass Sie Zugriff auf eine Vielzahl von Bildbearbeitungs-Tools haben. Sie können diese Tools verwenden, um Ihre Bilder im Marketo Engage Design Studio zu ändern. Die Integration bietet die folgenden zentralen Vorteile:
 
-* Erhöhte Wiederverwendung von Inhalten durch Bearbeiten und Speichern neuer Bilder im Marketo Engage.
+* Erhöhte Wiederverwendung von Inhalten durch Bearbeiten und Speichern neuer Bilder in Marketo Engage.
 
 * Weniger Zeit und Aufwand beim Aktualisieren von Bildern oder Erstellen neuer Versionen vorhandener Bilder.
 
 >[!NOTE]
 >
->Adobe Expreß unterstützt derzeit nur PNG- und JPEG-Bilddateiformate.
+>Adobe Express unterstützt derzeit nur PNG- und JPEG-Bilddateiformate.
 
-## Zugriff auf den Adobe Expreß-Editor {#access-the-adobe-express-editor}
+## Zugriff auf den Adobe Express-Editor {#access-the-adobe-express-editor}
 
-Es gibt zwei Möglichkeiten, auf den Adobe Expreß-Editor zuzugreifen.
+Es gibt zwei Möglichkeiten, auf den Adobe Express-Editor zuzugreifen.
 
 >[!BEGINTABS]
 
 >[!TAB Klicken Sie auf den Bildnamen]
 
-1. Gehen Sie in Marketo Engage zum **[!UICONTROL Design Studio]** und wählen Sie **[!UICONTROL Images and Files]** aus.
+1. Navigieren Sie in Marketo Engage zu **[!UICONTROL Design Studio]** und wählen Sie **[!UICONTROL Bilder und Dateien]** aus.
 
    ![Auswählen von Bildern und Dateien im linken Navigationsbereich von Design Studio](assets/edit-images-with-adobe-express-1.png){width="600" zoomable="yes"}
 
@@ -47,7 +48,7 @@ Es gibt zwei Möglichkeiten, auf den Adobe Expreß-Editor zuzugreifen.
    >
    >* Um die Tabelle nach einer der Spalten zu sortieren, klicken Sie auf den Spaltentitel. Der Pfeil in der Titelzeile zeigt die aktuelle Sortierspalte und -reihenfolge an.
 
-1. Klicken Sie auf der _„Details_ auf **Im Adobe Expreß bearbeiten**.
+1. Klicken Sie auf der Registerkarte _Details_ auf **Bearbeiten in Adobe Express**.
 
    SCREENSHOT
 
@@ -57,7 +58,7 @@ Es gibt zwei Möglichkeiten, auf den Adobe Expreß-Editor zuzugreifen.
 
 >[!TAB Bild- und Dateiaktionen]
 
-1. Gehen Sie in Marketo Engage zum **[!UICONTROL Design Studio]** und wählen Sie **[!UICONTROL Images and Files]** aus.
+1. Navigieren Sie in Marketo Engage zu **[!UICONTROL Design Studio]** und wählen Sie **[!UICONTROL Bilder und Dateien]** aus.
 
    ![Auswählen von Bildern und Dateien im linken Navigationsbereich von Design Studio](assets/edit-images-with-adobe-express-1.png){width="600" zoomable="yes"}
 
@@ -71,7 +72,7 @@ Es gibt zwei Möglichkeiten, auf den Adobe Expreß-Editor zuzugreifen.
 
    SCREENSHOT
 
-1. Wählen Sie in **[!UICONTROL Dropdown-Liste „Bild]** und Dateiaktionen“ die Option **[!UICONTROL Im Adobe Expreß bearbeiten]**.
+1. Wählen Sie in **[!UICONTROL Dropdown-Liste „Bild]** und Dateiaktionen“ die Option **[!UICONTROL In Adobe Express bearbeiten]**.
 
    >[!CAUTION]
    >
@@ -81,13 +82,13 @@ Es gibt zwei Möglichkeiten, auf den Adobe Expreß-Editor zuzugreifen.
 
 ## Benutzer mit einer Enterprise-Lizenz {#users-with-an-enterprise-license}
 
-Wenn Sie über eine Enterprise-Lizenz für Adobe Expreß verfügen, haben Sie Zugriff auf den Express-Editor. Sie können Einstellungen wie die Farbe, Helligkeit, Schärfe, den Kontrast, die Größe und mehr eines Bildes anpassen. Mit der Option KI-Magie können Sie Hintergründe entfernen, Objekte einfügen und entfernen und Teile des Bildes löschen.
+Wenn Sie über eine Enterprise-Lizenz für Adobe Express verfügen, haben Sie Zugriff auf den vollständigen Express-Editor. Sie können Bildeinstellungen wie Farbe, Helligkeit, Schärfe, Kontrast, Größe und mehr anpassen. Mit der Option KI-Magie können Sie Hintergründe entfernen, Objekte einfügen und entfernen und Teile eines Bildes löschen.
 
 >[!IMPORTANT]
 >
->Die erworbene Lizenz muss unter derselben IMS-Org wie Ihr Marketo Engage-Abonnement erfolgen, um auf alle Adobe Expreß-Bearbeitungsfunktionen zugreifen zu können. Außerdem muss jede Person über eine Lizenz in Adobe Express verfügen. Benutzende [ohne Lizenz](#users-without-an-enterprise-license) können nur im Adobe Expreß auf die Schnellaktionen zugreifen.
+>Die erworbene Lizenz muss unter derselben IMS-Org wie Ihr Marketo Engage-Abonnement erfolgen, um auf alle Adobe Express-Bearbeitungsfunktionen zugreifen zu können. Außerdem muss jeder einzelne Benutzer über eine Lizenz in Adobe Express verfügen. Benutzende [ohne Lizenz](#users-without-an-enterprise-license) können nur auf die Schnellaktionen in Adobe Express zugreifen.
 
-Klicken Sie auf Mit Adobe Expreß bearbeiten , um das Bild zu öffnen.
+Klicken Sie auf Mit Adobe Express bearbeiten , um das Bild zu öffnen.
 
 SCREENSHOT
 
@@ -109,7 +110,7 @@ Für Benutzer ohne Enterprise-Lizenz haben Sie weiterhin Zugriff auf mehrere Sch
 
 Klicken Sie auf der Seite auf Bild zuschneiden .
 
-Schneiden Sie das Adobe Expreß im Bildeditor aus und klicken Sie auf Speichern.
+Führen Sie im Adobe Express-Editor einen Zuschnitt des Bildes durch und klicken Sie auf Speichern.
 
 Hinweis: Mit dieser Aktion wird das Bild nicht überschrieben, sondern es wird für weitere Bearbeitungen angezeigt.
 
@@ -120,18 +121,18 @@ Klicken Sie auf Speichern , um die Aktion abzuschließen.
 Zugreifen auf den Editor über die Seite mit den Bilddateien und der Auflistung
 Wählen Sie auf der Listenseite das Bild aus, das Sie bearbeiten möchten, und klicken Sie auf den Pfeil auf der Seite Aktionsschaltfläche Bilddateien .
 
-Klicken Sie auf Mit Adobe Expreß bearbeiten .
+Klicken Sie auf Mit Adobe Express bearbeiten .
 
 Zugriff auf den Editor in der E-Mail-Designer
 
 Wählen Sie in der neuen E-Mail-Designer ein Bild aus, das Sie bearbeiten möchten.
 
-Eine Option zum Bearbeiten mit Adobe Expreß wird angezeigt. Klicken Sie auf die Schaltfläche, um fortzufahren.
+Eine Option zum Bearbeiten mit Adobe Express wird angezeigt. Klicken Sie auf die Schaltfläche, um fortzufahren.
 
 Hinweis: Diese Aktion steht für Bilder zur Verfügung, die ursprünglich aus dem Marketo Design Studio-Repository bezogen wurden.
 
-Wenn das Bild verwendet wird, werden Sie in einem Warndialogfeld darüber informiert, dass alle von Ihnen vorgenommenen Änderungen sich auf diesen Inhalt auswirken. Klicken Sie auf Weiter , um mit dem Adobe Expreß-Editor fortzufahren.
+Wenn das Bild verwendet wird, werden Sie in einem Warndialogfeld darüber informiert, dass alle von Ihnen vorgenommenen Änderungen sich auf diesen Inhalt auswirken. Klicken Sie auf Weiter , um mit dem Adobe Express-Editor fortzufahren.
 
-Bearbeitung auf dem Adobe Expreß abschließen
+Beenden der Bearbeitung auf der Adobe Express
 
 Klicken Sie auf Speichern , um die Aktion abzuschließen.  Das bearbeitete Bild wird im selben Ordner wie das Originalbild gespeichert und auch auf der Arbeitsfläche für die E-Mail-Bearbeitung aktualisiert.
