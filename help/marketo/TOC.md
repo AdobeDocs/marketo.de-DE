@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: dd0da9d57331cf82055b0caca80b8610dbddca57
+source-git-commit: dbdd1e1f50203e7122219aab55780761d9df99e3
 workflow-type: tm+mt
-source-wordcount: '9411'
+source-wordcount: '9416'
 ht-degree: 4%
 
 ---
@@ -1066,6 +1066,7 @@ ht-degree: 4%
          + [E-Mail-Erstellung](product-docs/email-marketing/email-designer/email-authoring.md)
          + [Erstellen von E-Mail-Vorlagen](product-docs/email-marketing/email-designer/email-template-authoring.md)
          + [Arbeiten mit AEM Assets](product-docs/email-marketing/email-designer/aem-assets.md)
+         + [Bearbeiten von Bildern mit Adobe Express](product-docs/email-marketing/email-designer/edit-images-adobe-express.md)
          + [Fragmente](product-docs/email-marketing/email-designer/fragments.md)
          + [Sperren von Inhalten](product-docs/email-marketing/email-designer/content-locking.md)
          + [Content Accelerator](product-docs/email-marketing/email-designer/content-accelerator.md)
