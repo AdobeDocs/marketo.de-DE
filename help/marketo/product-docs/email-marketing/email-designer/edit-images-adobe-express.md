@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
-source-git-commit: e9a412d0786a0dbeb6f743a90bcaf735032561a6
+source-git-commit: 5b31abc52e9bba690e908d9ee6018cecad0080e7
 workflow-type: tm+mt
-source-wordcount: '763'
+source-wordcount: '864'
 ht-degree: 1%
 
 ---
@@ -36,11 +36,11 @@ Es gibt zwei Möglichkeiten, auf den Adobe Express-Editor zuzugreifen.
 
 1. Navigieren Sie in Marketo Engage zu **[!UICONTROL Design Studio]** und wählen Sie **[!UICONTROL Bilder und Dateien]** aus.
 
-   ![Auswählen von Bildern und Dateien im linken Navigationsbereich von Design Studio](assets/edit-images-with-adobe-express-1.png){width="600" zoomable="yes"}
+   ![Auswählen von Bildern und Dateien im linken Navigationsbereich von Design Studio](assets/edit-images-with-adobe-express-1a.png){width="600" zoomable="yes"}
 
 1. Wählen Sie das Bild aus, das Sie bearbeiten möchten (oder erstellen Sie ein neues).
 
-   SCREENSHOT
+   SCREENSHOT 2a
 
    >[!NOTE]
    >
@@ -50,7 +50,7 @@ Es gibt zwei Möglichkeiten, auf den Adobe Express-Editor zuzugreifen.
 
 1. Klicken Sie auf der Registerkarte _Details_ auf **Bearbeiten in Adobe Express**.
 
-   SCREENSHOT
+   SCREENSHOT 3a
 
    >[!CAUTION]
    >
@@ -60,7 +60,7 @@ Es gibt zwei Möglichkeiten, auf den Adobe Express-Editor zuzugreifen.
 
 1. Navigieren Sie in Marketo Engage zu **[!UICONTROL Design Studio]** und wählen Sie **[!UICONTROL Bilder und Dateien]** aus.
 
-   ![Auswählen von Bildern und Dateien im linken Navigationsbereich von Design Studio](assets/edit-images-with-adobe-express-1.png){width="600" zoomable="yes"}
+   ![Auswählen von Bildern und Dateien im linken Navigationsbereich von Design Studio](assets/edit-images-with-adobe-express-1b.png){width="600" zoomable="yes"}
 
    >[!NOTE]
    >
@@ -70,7 +70,7 @@ Es gibt zwei Möglichkeiten, auf den Adobe Express-Editor zuzugreifen.
 
 1. Aktivieren Sie das Kontrollkästchen neben dem Bild, das Sie bearbeiten möchten.
 
-   SCREENSHOT
+   SCREENSHOT 2b
 
 1. Wählen Sie in **[!UICONTROL Dropdown-Liste „Bild]** und Dateiaktionen“ die Option **[!UICONTROL In Adobe Express bearbeiten]**.
 
@@ -80,7 +80,9 @@ Es gibt zwei Möglichkeiten, auf den Adobe Express-Editor zuzugreifen.
 
 >[!ENDTABS]
 
-## Benutzer mit einer Enterprise-Lizenz {#users-with-an-enterprise-license}
+## Adobe Express Enterprise-Lizenz {#adobe-express-enterprise-license}
+
+### Benutzer mit einer Enterprise-Lizenz {#users-with-an-enterprise-license}
 
 Wenn Sie über eine Enterprise-Lizenz für Adobe Express verfügen, haben Sie Zugriff auf den vollständigen Express-Editor. Sie können Bildeinstellungen wie Farbe, Helligkeit, Schärfe, Kontrast, Größe und mehr anpassen. Mit der Option KI-Magie können Sie Hintergründe entfernen, Objekte einfügen und entfernen und Teile eines Bildes löschen.
 
@@ -88,25 +90,56 @@ Wenn Sie über eine Enterprise-Lizenz für Adobe Express verfügen, haben Sie Zu
 >
 >Die erworbene Lizenz muss unter derselben IMS-Org wie Ihr Marketo Engage-Abonnement erfolgen, um auf alle Adobe Express-Bearbeitungsfunktionen zugreifen zu können. Außerdem muss jeder einzelne Benutzer über eine Lizenz in Adobe Express verfügen. Benutzende [ohne Lizenz](#users-without-an-enterprise-license) können nur auf die Schnellaktionen in Adobe Express zugreifen.
 
-Klicken Sie auf Mit Adobe Express bearbeiten , um das Bild zu öffnen.
-
-SCREENSHOT
-
-Nehmen Sie die erforderlichen Änderungen vor und speichern Sie die Datei.
-
-SCREENSHOT
-
-Klicken Sie auf Speichern , um die Aktion abzuschließen.
-
 ## Benutzer ohne Enterprise-Lizenz {#users-without-an-enterprise-license}
 
 Für Benutzer ohne Enterprise-Lizenz haben Sie weiterhin Zugriff auf mehrere Schnellbearbeitungs-Funktionen. Diese Funktionen sind:
 
-* Bildgröße ändern
-* Hintergrund entfernen
-* Bild zuschneiden
-* In PNG konvertieren
-* In JPEG konvertieren
+* [Bildgröße ändern](#resize-image)
+* [Hintergrund entfernen](#remove-background)
+* [Bild zuschneiden](#crop-image)
+* [In PNG/JPEG konvertieren](#convert-to-png-jpeg)
+
+Die Funktionen sind oben links auf der Bildseite verfügbar.
+
+SCREENSHOT
+
+### Bildgröße ändern {#resize-image}
+
+Nehmen Sie die gewünschten Änderungen vor und klicken Sie **auf &quot;**&quot;.
+
+SCREENSHOT
+
+<table><tbody>
+  <tr>
+    <td><b>Seitenverhältnis</b></td>
+    <td>Wählen Sie in <b> Dropdown-</b> „Seitenverhältnis“ die Option <b>Standard</b> zu LEER oder <b>Benutzerdefiniert</b>, um Ihre eigene Breite/Höhe festzulegen.</td>
+  </tr>
+  <tr>
+    <td><b>Breite und Höhe</b></td>
+    <td>Standardmäßig ist das Seitenverhältnis gesperrt, sodass die Bildproportionen beim Anpassen der Größe gleich bleiben. Bei Bedarf können Sie die Schaltfläche Sperren auswählen, um das Seitenverhältnis zu entsperren.</td>
+  </tr>
+  <tr>
+    <td><b>Zurücksetzen</b></td>
+    <td>Klicken Sie <b>Zurücksetzen</b>, um alle Änderungen am Bild zu entfernen und es in den Originalzustand zurückzuversetzen.</td>
+  </tr>
+  <tr>
+    <td><b>Zoomen und zuschneiden</b></td>
+    <td>Klicken Sie auf Zoom und Zuschneiden , um in bestimmte Bereiche des Bildes zu zoomen.</td>
+  </tr>
+</tbody>
+</table>
+
+
+
+### Hintergrund entfernen {#remove-background}
+
+Text
+
+### Bild zuschneiden {#crop-image}
+
+Text
+
+### In PNG/JPEG konvertieren {#convert-to-png-jpeg}
 
 Klicken Sie auf der Seite auf Bild zuschneiden .
 
