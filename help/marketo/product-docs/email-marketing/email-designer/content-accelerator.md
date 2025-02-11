@@ -2,10 +2,10 @@
 solution: Marketo Engage
 product: marketo engage
 title: Verwenden des KI-Assistenten-Inhaltsbeschleunigers
-description: Nutzen Sie die generative KI-Technologie von Adobe, um Ihren E-Mails hilfreichen Text oder beeindruckende Bilder hinzuzufügen.
+description: Nutzen Sie die generative KI-Technologie von Adobe, um Ihren E-Mails hilfreichen Text und/oder Bilder hinzuzufügen.
 feature: Email Editor
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
-source-git-commit: a60fad2162ee963c37124fbeedab561dfd52884f
+source-git-commit: b8d878ce37218e4fd2afcd52fd07162d110e1c21
 workflow-type: tm+mt
 source-wordcount: '746'
 ht-degree: 3%
@@ -46,27 +46,27 @@ Zu den Texteinstellungen gehören:
 
 <table><tbody>
   <tr>
-    <td><b>Käufergruppe</b></td>
+    <td style="width:25%"><b>Käufergruppe</b></td>
     <td>Spezifische Einkaufsgruppe, an die Sie sich wenden (z. B. Anwender, Influencer, Entscheidungsträger).</td>
   </tr>
   <tr>
-    <td><b>Marketing-Journey-Schritt</b></td>
+    <td style="width:25%"><b>Marketing-Journey-Schritt</b></td>
     <td>Empfängerinnen und Empfänger in einer bestimmten Marketing-Journey-Phase (z. B. Entdecken, Auswerten, Bestätigen).</td>
   </tr>
   <tr>
-    <td><b>Kommunikationsstrategie</b></td>
+    <td style="width:25%"><b>Kommunikationsstrategie</b></td>
     <td>Das Ziel der Mitteilung (z. B. Dringlichkeit, sozialer Beweis, informativ).</td>
   </tr>
   <tr>
-    <td><b>Sprache</b></td>
+    <td style="width:25%"><b>Sprache</b></td>
     <td>Sprache, in der die Betreffzeile generiert werden soll.</td>
   </tr>
   <tr>
-    <td><b>Ton</b></td>
+    <td style="width:25%"><b>Ton</b></td>
     <td>Ton, in dem der Inhalt generiert werden soll (z. B. inspirierend, aufregend, humorvoll).</td>
   </tr>
   <tr>
-    <td><b>Emojis</b></td>
+    <td style="width:25%"><b>Emojis</b></td>
     <td>Ermöglicht das Einfügen von Emojis in den generierten Inhalt.</td>
   </tr>
 </tbody>

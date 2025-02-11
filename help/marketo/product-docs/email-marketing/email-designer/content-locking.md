@@ -3,13 +3,12 @@ solution: Marketo Engage
 product: marketo engage
 title: Sperren von Inhalt in E-Mail-Vorlagen
 description: Erfahren Sie, wie Sie Inhalte in Ihren E-Mail-Vorlagen sperren.
-hide: true
-hidefromtoc: true
 level: Beginner, Intermediate
-source-git-commit: dd0da9d57331cf82055b0caca80b8610dbddca57
+exl-id: 7ccff4f0-5db5-4dd7-91e0-d2081b74ad18
+source-git-commit: b8d878ce37218e4fd2afcd52fd07162d110e1c21
 workflow-type: tm+mt
-source-wordcount: '919'
-ht-degree: 92%
+source-wordcount: '891'
+ht-degree: 75%
 
 ---
 
@@ -41,11 +40,9 @@ Inhaltssperren können entweder auf der Ebene **Struktur** oder auf der Ebene **
 
 Sie können die Inhaltssperre für eine E-Mail-Vorlage direkt in der E-Mail-Designer aktivieren, unabhängig davon, ob Sie eine neue Vorlage erstellen oder eine vorhandene bearbeiten.
 
-—BEARBEITUNG HIER ANGEHALTEN—
-
 1. Öffnen oder erstellen Sie eine E-Mail-Vorlage und rufen Sie im E-Mail-Designer den Bildschirm zur Inhaltsbearbeitung auf.
 
-1. Aktivieren Sie im Bereich **[!UICONTROL Hauptteil]** auf der rechten Seite die Option **[!UICONTROL Governance]**.
+1. Aktivieren Sie **[!UICONTROL Bereich]** Hauptteil“ auf der rechten Seite die Option **[!UICONTROL Governance]**.
 
 1. Wählen Sie in der Dropdown-Liste **[!UICONTROL Modus]** den gewünschten Sperrmodus für die Vorlage aus:
 
@@ -54,20 +51,20 @@ Sie können die Inhaltssperre für eine E-Mail-Vorlage direkt in der E-Mail-Desi
 
    ![](assets/content-locking-1.png){width="800" zoomable="yes"}
 
-1. Wenn Sie den Modus **[!UICONTROL Inhaltssperre]** ausgewählt haben, können Sie weiter definieren, wie Benutzende mit der Vorlage interagieren können. Aktivieren Sie die Option **[!UICONTROL Inhaltsbearbeitung aktivieren]** und wählen Sie eine der folgenden Optionen:
+1. Wenn Sie den Modus **[!UICONTROL Inhaltssperre]** ausgewählt haben, können Sie weiter definieren, wie Benutzende mit der Vorlage interagieren können. Aktivieren Sie **[!UICONTROL Option „Inhaltsbearbeitung aktivieren]** und wählen Sie eine der folgenden Optionen:
 
    * **[!UICONTROL Hinzufügen von Struktur und Inhalten zulassen]**: Benutzende können Strukturen zwischen vorhandenen Strukturen hinzufügen und Inhaltskomponenten oder Fragmente in bearbeitbaren Strukturen hinzufügen.
 
    * **[!UICONTROL Nur Hinzufügen von Inhalten zulassen]**: Benutzende können Inhaltskomponenten oder Fragmente innerhalb bearbeitbarer Strukturen hinzufügen, aber keine Strukturen hinzufügen oder duplizieren.
 
-1. Nach Auswahl des Sperrmodus können Sie festlegen, welche Strukturen und/oder Komponenten gesperrt werden sollen, wenn Sie den Modus **[!UICONTROL Inhaltssperre]** ausgewählt haben:
+1. Nach Auswahl des Sperrmodus können Sie festlegen, welche Strukturen und/oder Komponenten gesperrt werden sollen, wenn Sie den Modus **[!UICONTROL Inhaltssperrung]** ausgewählt haben:
 
    * [Erfahren Sie, wie Sie Strukturen sperren.](#lock-structures)
    * [Erfahren Sie, wie Sie Komponenten sperren.](#lock-components)
 
-   Wenn Sie den Modus **[!UICONTROL Schreibgeschützt]** auswählen, können Sie Ihre Vorlage wie gewohnt fertigstellen und speichern.
+   Wenn Sie den Modus **[!UICONTROL Schreibgeschützt]** ausgewählt haben, können Sie mit dem Fertigstellen und Speichern Ihrer Vorlage fortfahren.
 
-Sie können die Einstellungen für **[!UICONTROL Governance]** jederzeit beim Entwerfen Ihrer Vorlage anpassen, indem Sie den Hauptteil der Vorlage auswählen. Klicken Sie hierzu in der Navigationsleiste oben im rechten Fensterbereich auf den Link **[!UICONTROL Hauptteil]**.
+Sie können die Einstellungen für **[!UICONTROL Governance]** jederzeit beim Entwerfen Ihrer Vorlage anpassen, indem Sie den Hauptteil der Vorlage auswählen. Klicken Sie dazu auf den **[!UICONTROL Textkörper]** in der Navigationsleiste oben im rechten Bereich.
 
 ![](assets/content-locking-2.png){width="800" zoomable="yes"}
 
@@ -89,7 +86,7 @@ Nach dem Sperren einer Struktur können keine weiteren Inhaltskomponenten oder -
 
 1. Wählen Sie die Komponente aus, die entsperrt werden soll.
 
-1. Aktivieren Sie die Option **[!UICONTROL Spezifische Sperre verwenden]**.
+1. Aktivieren Sie **[!UICONTROL Option „Spezifische Sperre verwenden]**.
 
 1. Wählen Sie in der Dropdownliste **[!UICONTROL Art der Sperre]** die Option **[!UICONTROL Bearbeitbar]** aus. Um das Bearbeiten von Inhalten beim Sperren von Stilen zu ermöglichen, wählen Sie **[!UICONTROL Nur bearbeitbare Inhalte]** aus. [Informationen zum Sperren von Komponenten](#lock-components)
 
@@ -126,18 +123,13 @@ Im folgenden Beispiel ist „Governance“ für den Vorlagentext aktiviert. *Str
 
 Bei Verwendung einer Vorlage mit gesperrtem Inhalt wird im rechten Bereich die Meldung **[!UICONTROL Governance aktiviert]** angezeigt.
 
-Je nach Typ der auf die Vorlage angewendeten Sperre können Sie verschiedene Aktionen für die Strukturen und Komponenten der Vorlage ausführen. Um alle bearbeitbaren Bereiche in der Vorlage schnell zu identifizieren, schalten Sie die Option **[!UICONTROL Bearbeitbare Bereiche markieren]** ein.
+Je nach Typ der auf die Vorlage angewendeten Sperre können Sie verschiedene Aktionen für die Strukturen und Komponenten der Vorlage ausführen. Um alle bearbeitbaren Bereiche in der Vorlage schnell zu identifizieren, aktivieren Sie die Option **[!UICONTROL Bearbeitbare Bereiche hervorheben]**.
 
-In der folgenden Vorlage können beispielsweise alle Bereiche bearbeitet werden, mit Ausnahme des obersten Bildes, das gesperrt wurde. Das bedeutet, dass Sie es weder bearbeiten noch entfernen können.
+In der folgenden Vorlage können beispielsweise alle Bereiche bearbeitet werden. Eine Ausnahme stellt das obere Bild dar, das gesperrt wurde, sodass Sie es nicht bearbeiten oder entfernen können.
 
 ![](assets/content-locking-7.png){width="800" zoomable="yes"}
 
-Ausführliche Informationen zu den verschiedenen Arten der Sperrung, die angewendet werden können, finden Sie in diesen Abschnitten:
-
-* [Sperren von Strukturen](#lock-structures)
-* [Sperren von Komponenten](#lock-components)
-
-Im Folgenden finden Sie einige Beispiele für die Bearbeitung von E-Mails und die zugehörige Konfiguration für die Sperrung von Inhalten, die eingerichtet wurde:
+Im Folgenden finden Sie einige Beispiele für die E-Mail-Bearbeitung und die zugehörige Konfiguration zum Sperren von Inhalten, die eingerichtet wurde:
 
 <table>
 <thead>
