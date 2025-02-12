@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
-source-git-commit: 844f9c9b7402974b8e0f2e54159b451818b505c6
+source-git-commit: 6756e292fc8955529ad1ece8f08fb6206717d929
 workflow-type: tm+mt
-source-wordcount: '804'
+source-wordcount: '851'
 ht-degree: 1%
 
 ---
@@ -38,9 +38,9 @@ Es gibt zwei Möglichkeiten, auf den Adobe Express-Editor zuzugreifen.
 
    ![Auswählen von Bildern und Dateien im linken Navigationsbereich von Design Studio](assets/edit-images-with-adobe-express-1a.png){width="600" zoomable="yes"}
 
-1. Wählen Sie das Bild aus, das Sie bearbeiten möchten (oder erstellen Sie ein neues).
+1. Wählen Sie das Bild aus, das Sie bearbeiten möchten.
 
-   SCREENSHOT 2a
+   ![Klicken auf den Namen des Bildes](assets/edit-images-with-adobe-express-2a.png){width="600" zoomable="yes"}
 
    >[!NOTE]
    >
@@ -50,7 +50,7 @@ Es gibt zwei Möglichkeiten, auf den Adobe Express-Editor zuzugreifen.
 
 1. Klicken Sie auf der Registerkarte _Details_ auf **[!UICONTROL Bearbeiten in Adobe Express]**.
 
-   SCREENSHOT 3a
+   ![Klicken auf die Schaltfläche Bearbeiten in Adobe Express](assets/edit-images-with-adobe-express-3a.png){width="600" zoomable="yes"}
 
    >[!CAUTION]
    >
@@ -68,11 +68,9 @@ Es gibt zwei Möglichkeiten, auf den Adobe Express-Editor zuzugreifen.
    >
    >* Um die Tabelle nach einer der Spalten zu sortieren, klicken Sie auf den Spaltentitel. Der Pfeil in der Titelzeile zeigt die aktuelle Sortierspalte und -reihenfolge an.
 
-1. Aktivieren Sie das Kontrollkästchen neben dem Bild, das Sie bearbeiten möchten.
+1. Aktivieren Sie das Kontrollkästchen neben dem Bild, das Sie bearbeiten möchten. Wählen Sie in **[!UICONTROL Dropdown-Liste „Bild]** und Dateiaktionen“ die Option **[!UICONTROL In Adobe Express bearbeiten]**.
 
-   SCREENSHOT 2b
-
-1. Wählen Sie in **[!UICONTROL Dropdown-Liste „Bild]** und Dateiaktionen“ die Option **[!UICONTROL In Adobe Express bearbeiten]**.
+   ![Aktivieren des Kontrollkästchens neben dem Bildnamen und Verwenden der Dropdown-Liste „Bilder und Dateiaktionen“](assets/edit-images-with-adobe-express-2b.png){width="600" zoomable="yes"}
 
    >[!CAUTION]
    >
@@ -99,9 +97,9 @@ Für Benutzer ohne Enterprise-Lizenz haben Sie weiterhin Zugriff auf mehrere Sch
 * [Bild zuschneiden](#crop-image)
 * [In PNG/JPEG konvertieren](#convert-to-png-jpeg)
 
-Die Funktionen sind oben links auf der Bildseite verfügbar.
+Die Funktionen sind auf der linken Seite der Bildseite verfügbar.
 
-SCREENSHOT
+![Bildseite mit Bearbeitungsoptionen für Adobe Express](assets/edit-images-with-adobe-express-4.png){width="800" zoomable="yes"}
 
 #### Bildgröße ändern {#resize-image}
 
@@ -109,24 +107,24 @@ SCREENSHOT
 
 1. Nehmen Sie die gewünschten Änderungen vor und klicken Sie **auf &quot;**&quot;.
 
-SCREENSHOT
+![TEXTTEXTTEXT](assets/edit-images-with-adobe-express-5.png){width="800" zoomable="yes"}
 
 <table><tbody>
   <tr>
-    <td><b>Seitenverhältnis</b></td>
+    <td style="width:25%"><b>Seitenverhältnis</b></td>
     <td>Wählen Sie in <b> Dropdown-</b> „Seitenverhältnis“ die Option <b>Standard</b> zu LEER oder <b>Benutzerdefiniert</b>, um Ihre eigene Breite/Höhe festzulegen.</td>
   </tr>
   <tr>
-    <td><b>Breite und Höhe</b></td>
+    <td style="width:25%"><b>Breite und Höhe</b></td>
     <td>Standardmäßig ist das Seitenverhältnis gesperrt, sodass die Bildproportionen beim Anpassen der Größe gleich bleiben. Bei Bedarf können Sie die Schaltfläche Sperren auswählen, um das Seitenverhältnis zu entsperren.</td>
   </tr>
   <tr>
-    <td><b>Zurücksetzen</b></td>
+    <td style="width:25%"><b>Zurücksetzen</b></td>
     <td>Klicken Sie <b>Zurücksetzen</b>, um alle Änderungen am Bild zu entfernen und es in den Originalzustand zurückzuversetzen.</td>
   </tr>
   <tr>
-    <td><b>Zoomen und zuschneiden</b></td>
-    <td>Klicken Sie <b>Zoom und Zuschneiden</b>, um bestimmte Bereiche des Bildes einzuzoomen.</td>
+    <td style="width:25%"><b>Zoomen und zuschneiden</b></td>
+    <td>Klicken Sie <b>Zoom und Zuschneiden</b>, um bestimmte Bereiche des Bildes einzuzoomen. Durch Klicken <b>Anwenden</b> nach dem Vergrößern wird das Bild auf das aktuell angezeigte Bild zugeschnitten.</td>
   </tr>
 </tbody>
 </table>
@@ -135,9 +133,9 @@ SCREENSHOT
 
 1. Klicken Sie **Hintergrund entfernen**.
 
-1. Adobe Express zeigt das Bild ohne Hintergrund an. Klicken Sie auf **Übernehmen**.
+1. Adobe Express zeigt das Bild ohne Hintergrund an. Wenn es Ihren Anforderungen entspricht, klicken Sie auf **Anwenden**.
 
-BILD
+![TEXTTEXTTEXT](assets/edit-images-with-adobe-express-6.png){width="800" zoomable="yes"}
 
 >[!TIP]
 >
@@ -145,21 +143,23 @@ BILD
 
 #### Bild zuschneiden {#crop-image}
 
-1. Klicken Sie auf Bild zuschneiden.
+1. Klicken Sie **[!UICONTROL Bild zuschneiden]**.
 
 1. Ziehen Sie die Ecken des Bildes, um den gewünschten Zuschnitt zu erstellen.
 
-SCREENSHOT
+![TEXTTEXTTEXT](assets/edit-images-with-adobe-express-7.png){width="800" zoomable="yes"}
 
-1. Klicken Sie **Anwenden** wenn Sie fertig sind.
+1. Klicken Sie **[!UICONTROL Anwenden]** wenn Sie fertig sind.
 
 #### In PNG/JPEG konvertieren {#convert-to-png-jpeg}
 
-Konvertieren Sie ein PNG in ein JPEG oder ein JPEG in ein PNG.
+Konvertieren Sie eine PNG-Datei in eine JPEG-Datei oder eine JPEG-Datei in eine PNG-Datei.
 
-1. Klicken Sie **Nach PNG/JPEG konvertieren**.
+1. Klicken Sie **[!UICONTROL Nach PNG/JPEG konvertieren]**.
 
-1. Klicken Sie auf **Übernehmen**.
+![TEXTTEXTTEXT](assets/edit-images-with-adobe-express-8.png){width="800" zoomable="yes"}
+
+1. Klicken Sie auf **[!UICONTROL Übernehmen]**.
 
 —SACHEN UNTEN ZUSCHNEIDEN—
 
