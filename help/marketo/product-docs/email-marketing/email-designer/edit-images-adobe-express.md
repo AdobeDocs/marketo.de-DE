@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
-source-git-commit: a5fafa0fb218a366b6e2c9b3adfb785791b52447
+source-git-commit: 844f9c9b7402974b8e0f2e54159b451818b505c6
 workflow-type: tm+mt
 source-wordcount: '804'
 ht-degree: 1%
@@ -161,7 +161,7 @@ Konvertieren Sie ein PNG in ein JPEG oder ein JPEG in ein PNG.
 
 1. Klicken Sie auf **Übernehmen**.
 
-SCHNEIDEN SIE ZEUG UNTEN AN
+—SACHEN UNTEN ZUSCHNEIDEN—
 
 Klicken Sie auf der Seite auf Bild zuschneiden .
 
