@@ -5,9 +5,9 @@ description: Übersicht - Marketo-Dokumente - Produktdokumentation
 title: Überblick
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: e9a412d0786a0dbeb6f743a90bcaf735032561a6
+source-git-commit: e5d02f0a288cbd5c3f234c9bd5d202b60fdc629e
 workflow-type: tm+mt
-source-wordcount: '661'
+source-wordcount: '699'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,11 @@ Um auf den neuen E-Mail-Designer zugreifen zu können, muss Ihr Marketo Engage-A
 
 * [Erstellen von E-Mail](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md){target="_blank"}Vorlagen: Erfahren Sie, wie Sie im neuen Editor eine E-Mail-Vorlage erstellen, gestalten und darauf zugreifen.
 
+* [Fragments](/help/marketo/product-docs/email-marketing/email-designer/fragments.md){target="_blank"}: Erfahren Sie, wie Sie visuelle Inhaltsfragmente als wiederverwendbare Komponenten für E-Mails und E-Mail-Vorlagen erstellen und verwenden.
+
 * [Arbeiten mit AEM-Assets](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}: Erfahren Sie, wie Sie zur Verwendung in Marketo Engage einfach auf Ihre digitalen AEM-Assets zugreifen können.
+
+* [Bearbeiten von Bildern mit Adobe Express](/help/marketo/product-docs/email-marketing/email-designer/edit-images-adobe-express.md){target="_blank"}: Erfahren Sie, wie Sie Bilder im Adobe Marketo Engage-E-Mail-Editor mithilfe von Adobe Express bearbeiten.
 
 * [KI-Assistenten verwenden](/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md){target="_blank"}: Nutzen Sie die generative KI-Technologie von Adobe, um Ihren E-Mails hilfreichen Text und/oder Bilder hinzuzufügen.
 
