@@ -1,12 +1,13 @@
 ---
+solution: Marketo Engage
+product: marketo engage
 title: Fragmente
-description: Erfahren Sie, wie Sie visuelle Inhaltsfragmente als wiederverwendbare Komponenten für E-Mails und E-Mail-Vorlagen erstellen/verwenden.
-hide: true
-hidefromtoc: true
+description: Erfahren Sie, wie Sie visuelle Inhaltsfragmente als wiederverwendbare Komponenten für E-Mails und E-Mail-Vorlagen erstellen und verwenden.
+level: Beginner, Intermediate
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 45961ce486231ab2512d65ffa934369a014fe016
+source-git-commit: a8e8640a8fe69bd0ae40329a915fe89a3a90854d
 workflow-type: tm+mt
-source-wordcount: '1908'
+source-wordcount: '1909'
 ht-degree: 1%
 
 ---
@@ -54,7 +55,7 @@ Der Fragmentstatus bestimmt seine Verfügbarkeit zur Verwendung in einer E-Mail 
 <tbody>
   <tr>
     <td width="25%"><b>Entwurf</b></td>
-    <td width="70%">Wenn Sie ein Fragment erstellen, befindet es sich im Entwurfsstatus . Er bleibt ein Entwurf, bis Sie ihn zur Verwendung in einer E-Mail oder E-Mail-Vorlage veröffentlichen.
+    <td width="75%">Wenn Sie ein Fragment erstellen, befindet es sich im Entwurfsstatus . Er bleibt ein Entwurf, bis Sie ihn zur Verwendung in einer E-Mail oder E-Mail-Vorlage veröffentlichen.
     <p>Verfügbare Aktionen:
     <li>Alle Details bearbeiten</li>
     <li>In Visual Designer bearbeiten</li>
@@ -74,8 +75,8 @@ Der Fragmentstatus bestimmt seine Verfügbarkeit zur Verwendung in einer E-Mail 
     </td>
   </tr>
   <tr>
-    <td><b>Mit Entwurf veröffentlicht</b></td>
-    <td>Wenn Sie einen Entwurf aus einem veröffentlichten Fragment erstellen, bleibt die veröffentlichte Version zur Verwendung in einer E-Mail- oder E-Mail-Vorlage verfügbar und der Entwurfsinhalt kann im visuellen Designer geändert werden. Wenn Sie die Entwurfsversion veröffentlichen, ersetzt sie die aktuelle veröffentlichte Version, und der Inhalt wird in <i>allen) E</i>Mails und E-Mail-Vorlagen, in denen sie verwendet wird, aktualisiert. 
+    <td style="width:25%"><b>Mit Entwurf veröffentlicht</b></td>
+    <td style="width:75%">Wenn Sie einen Entwurf aus einem veröffentlichten Fragment erstellen, bleibt die veröffentlichte Version zur Verwendung in einer E-Mail- oder E-Mail-Vorlage verfügbar und der Entwurfsinhalt kann im visuellen Designer geändert werden. Wenn Sie die Entwurfsversion veröffentlichen, ersetzt sie die aktuelle veröffentlichte Version, und der Inhalt wird in <i>allen) E</i>Mails und E-Mail-Vorlagen, in denen sie verwendet wird, aktualisiert. 
     <p>Verfügbare Aktionen:
     <li>Beschreibung bearbeiten.</li>
     <li>Hinzufügen zu einer E-Mail oder Vorlage</li>
@@ -85,7 +86,8 @@ Der Fragmentstatus bestimmt seine Verfügbarkeit zur Verwendung in einer E-Mail 
     <li>Löschen (wenn nicht in Gebrauch)</li>
     </td>
   </tr>
-</tbody></table>
+</tbody>
+</table>
 
 ## Erstellen von Fragmenten {#create-fragments}
 
