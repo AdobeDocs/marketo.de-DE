@@ -1,6 +1,6 @@
 ---
 solution: Marketo Engage
-product: marketo engage
+product: marketo
 title: Parametrisierte Fragmente
 description: Erfahren Sie, wie Sie Fragmente anpassen, indem Sie einige der zugehörigen Felder als bearbeitbar festlegen.
 feature: Email Editor
@@ -8,10 +8,10 @@ role: User
 level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
-source-git-commit: f50fe3ff6ce2d9e98fa98cc72fd756844d55660c
+source-git-commit: 76d854176c3c462596596689b43d3567517fee63
 workflow-type: tm+mt
-source-wordcount: '648'
-ht-degree: 74%
+source-wordcount: '637'
+ht-degree: 70%
 
 ---
 
@@ -23,7 +23,7 @@ Durch die Verwendung parametrisierter Fragmente können Sie Ihre Inhalte effizie
 
 Sowohl visuelle Fragmente als auch Ausdrucksfragmente können als anpassbar markiert werden. Detaillierte Anweisungen zum weiteren Vorgehen mit den einzelnen Fragmenttypen finden Sie in den folgenden Abschnitten.
 
-SCREENSHOT
+SCREENSHOT - GIF?
 
 —BEARBEITUNG HIER ANGEHALTEN—
 
@@ -45,17 +45,17 @@ Gehen Sie wie folgt vor, um Teile eines visuellen Fragments als bearbeitbar fest
 
    Im folgenden Beispiel wird es ermöglicht, die URL der Schaltfläche „Hier klicken“ zu bearbeiten.
 
-SCREENSHOT
+   ![](assets/fragment-param-enable.png){width="800" zoomable="yes"}
 
 1. Klicken Sie auf **Überblick**, um alle bearbeitbaren Felder und deren Standardwerte zu überprüfen.
 
    In diesem Beispiel wird das Feld für die Schaltflächen-URL mit dem in der Komponente definierten Standardwert angezeigt. Dieser Wert kann von Benutzenden angepasst werden, nachdem sie das Fragment zu ihrem Inhalt hinzugefügt haben.
 
-SCREENSHOT
+   ![](assets/fragment-param-preview.png){width="800" zoomable="yes"}
 
 1. Wenn Sie fertig sind, speichern Sie die Änderungen, um das Fragment zu aktualisieren.
 
-1. Nach dem Hinzufügen des Fragments zu einer E-Mail können Benutzende alle im Fragment konfigurierten bearbeitbaren Felder anpassen. [Informationen dazu, wie Sie bearbeitbare Felder in einem visuellen Fragment anpassen](../email/use-visual-fragments.md#customize-fields)
+1. Nachdem Sie das Fragment zu einer E-Mail hinzugefügt haben, können Benutzer alle bearbeitbaren Felder anpassen, die im Fragment konfiguriert sind.
 
 ## Hinzufügen bearbeitbarer Felder in HTML-Komponenten und Ausdrucksfragmenten {#expression}
 
@@ -75,6 +75,6 @@ Die folgenden Elemente können in einer HTML-Komponente zu bearbeitbaren Feldern
 
 Im folgenden Code kann beispielsweise jedes rot hervorgehobene Element zu einer Eigenschaft gemacht werden:
 
-![](assets/fragment-html.png){width="70%"}
+![](assets/fragment-html.png){width="500" zoomable="yes"}
 
 +++
