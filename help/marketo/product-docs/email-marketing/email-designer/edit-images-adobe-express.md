@@ -4,12 +4,10 @@ product: marketo engage
 title: Bearbeiten von Bildern mit Adobe Express
 description: Erfahren Sie, wie Sie Bilder im Adobe Marketo Engage-E-Mail-Editor mit Adobe Express bearbeiten.
 level: Beginner, Intermediate
-hide: true
-hidefromtoc: true
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
-source-git-commit: 6756e292fc8955529ad1ece8f08fb6206717d929
+source-git-commit: 7ff2a4f48fb871e91e45889cce10aa0a0fd7051f
 workflow-type: tm+mt
-source-wordcount: '851'
+source-wordcount: '841'
 ht-degree: 1%
 
 ---
@@ -28,7 +26,10 @@ Adobe Marketo Engage ist nativ mit Adobe Express integriert, sodass Sie Zugriff 
 
 ## Zugriff auf den Adobe Express-Editor {#access-the-adobe-express-editor}
 
-Es gibt zwei Möglichkeiten, auf den Adobe Express-Editor zuzugreifen.
+Es gibt zwei Möglichkeiten, auf den Adobe Express-Editor zuzugreifen:
+
+* Klicken Sie auf den Bildnamen
+* _Dropdown-Menü &quot;_ und Bilddateien“
 
 >[!BEGINTABS]
 
@@ -82,7 +83,7 @@ Es gibt zwei Möglichkeiten, auf den Adobe Express-Editor zuzugreifen.
 
 ### Benutzer mit einer Enterprise-Lizenz {#users-with-an-enterprise-license}
 
-Wenn Sie über eine Enterprise-Lizenz für Adobe Express verfügen, haben Sie Zugriff auf den vollständigen Express-Editor. Sie können Bildeinstellungen wie Farbe, Helligkeit, Schärfe, Kontrast, Größe und mehr anpassen. Mit der Option KI-Magie können Sie Hintergründe entfernen, Objekte einfügen und entfernen und Teile eines Bildes löschen.
+Wenn Sie über eine Enterprise-Lizenz für Adobe Express verfügen, haben Sie Zugriff auf den vollständigen Express-Editor. Sie können Bildeinstellungen wie Farbe, Helligkeit, Schärfe, Kontrast, Größe und mehr anpassen. Mit der Option KI-Magie können Sie Hintergründe entfernen, Objekte einfügen und entfernen und Teile eines Bildes löschen. Besuchen Sie das [Adobe Express-Benutzerhandbuch](https://helpx.adobe.com/express/user-guide.html){target="_blank"} um mehr über die einzelnen Einstellungen zu erfahren.
 
 >[!IMPORTANT]
 >
@@ -107,12 +108,12 @@ Die Funktionen sind auf der linken Seite der Bildseite verfügbar.
 
 1. Nehmen Sie die gewünschten Änderungen vor und klicken Sie **auf &quot;**&quot;.
 
-![TEXTTEXTTEXT](assets/edit-images-with-adobe-express-5.png){width="800" zoomable="yes"}
+![Bildfenster mit allen verfügbaren Optionen ändern](assets/edit-images-with-adobe-express-5.png){width="800" zoomable="yes"}
 
 <table><tbody>
   <tr>
     <td style="width:25%"><b>Seitenverhältnis</b></td>
-    <td>Wählen Sie in <b> Dropdown-</b> „Seitenverhältnis“ die Option <b>Standard</b> zu LEER oder <b>Benutzerdefiniert</b>, um Ihre eigene Breite/Höhe festzulegen.</td>
+    <td>Wählen Sie in <b> Dropdown</b>Seitenverhältnis“ <b>Standard</b>, um vorberechnete gemeinsame Bildgrößen auszuwählen, oder <b>Benutzerdefiniert</b>, um Ihre eigene Breite/Höhe festzulegen. Sie können auch die Standardgröße einer bestimmten Social-Media-Plattform auswählen (Pinterest, Snapchat usw.).</td>
   </tr>
   <tr>
     <td style="width:25%"><b>Breite und Höhe</b></td>
@@ -135,11 +136,11 @@ Die Funktionen sind auf der linken Seite der Bildseite verfügbar.
 
 1. Adobe Express zeigt das Bild ohne Hintergrund an. Wenn es Ihren Anforderungen entspricht, klicken Sie auf **Anwenden**.
 
-![TEXTTEXTTEXT](assets/edit-images-with-adobe-express-6.png){width="800" zoomable="yes"}
+![Bild von nur Hund mit Hintergrund entfernt](assets/edit-images-with-adobe-express-6.png){width="800" zoomable="yes"}
 
 >[!TIP]
 >
->Um den Hintergrund wiederherzustellen, wählen Sie das Bild aus und wählen Sie erneut **Hintergrund**.
+>Wenn Sie mit dem Ergebnis nicht zufrieden sind, klicken Sie einfach auf das **X**, um das Fenster zu schließen.
 
 #### Bild zuschneiden {#crop-image}
 
@@ -147,7 +148,7 @@ Die Funktionen sind auf der linken Seite der Bildseite verfügbar.
 
 1. Ziehen Sie die Ecken des Bildes, um den gewünschten Zuschnitt zu erstellen.
 
-![TEXTTEXTTEXT](assets/edit-images-with-adobe-express-7.png){width="800" zoomable="yes"}
+![Ziehen von Fotoecken, um das Bild zuzuschneiden](assets/edit-images-with-adobe-express-7.png){width="800" zoomable="yes"}
 
 1. Klicken Sie **[!UICONTROL Anwenden]** wenn Sie fertig sind.
 
@@ -157,26 +158,14 @@ Konvertieren Sie eine PNG-Datei in eine JPEG-Datei oder eine JPEG-Datei in eine 
 
 1. Klicken Sie **[!UICONTROL Nach PNG/JPEG konvertieren]**.
 
-![TEXTTEXTTEXT](assets/edit-images-with-adobe-express-8.png){width="800" zoomable="yes"}
+![In PNG/JPEG-Fenster konvertieren](assets/edit-images-with-adobe-express-8.png){width="800" zoomable="yes"}
 
 1. Klicken Sie auf **[!UICONTROL Übernehmen]**.
 
-—SACHEN UNTEN ZUSCHNEIDEN—
-
-Klicken Sie auf der Seite auf Bild zuschneiden .
-
-Führen Sie im Adobe Express-Editor einen Zuschnitt des Bildes durch und klicken Sie auf Speichern.
-
-Hinweis: Mit dieser Aktion wird das Bild nicht überschrieben, sondern es wird für weitere Bearbeitungen angezeigt.
-
-Sie können eine weitere Aktualisierung mit einer anderen Option im linken Bereich durchführen, auf Speichern klicken, um das vorhandene Bild zu überschreiben, oder auf Als neues Asset speichern, um es als neues Bild zu speichern.
-
-Klicken Sie auf Speichern , um die Aktion abzuschließen.
-
 ## Speichern Sie Ihre Arbeit {#save-your-work}
 
-Wenn Sie mit allen Änderungen fertig sind, klicken Sie auf Speichern , um Ihre Arbeit zu speichern.
+Wenn Sie mit allen Änderungen fertig sind, klicken Sie auf **Speichern**, um Ihre Arbeit zu speichern.
 
-SCREENSHOT
+![Schaltfläche „Speichern](assets/edit-images-with-adobe-express-9.png){width="800" zoomable="yes"}
 
 Das bearbeitete Bild wird im selben Ordner wie das Originalbild gespeichert.

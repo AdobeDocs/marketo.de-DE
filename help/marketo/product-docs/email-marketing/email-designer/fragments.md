@@ -4,10 +4,10 @@ description: Erfahren Sie, wie Sie visuelle Inhaltsfragmente als wiederverwendba
 hide: true
 hidefromtoc: true
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 92404e10771920862cd147c09e2ada37484e6118
+source-git-commit: 7ff2a4f48fb871e91e45889cce10aa0a0fd7051f
 workflow-type: tm+mt
-source-wordcount: '2052'
-ht-degree: 2%
+source-wordcount: '1909'
+ht-degree: 1%
 
 ---
 
@@ -26,7 +26,7 @@ Visuelle Fragmente sind vordefinierte visuelle Blöcke, die (mit dem Visual Cont
 
 ## Zugreifen auf und Verwalten von Fragmenten {#access-and-manage-fragments}
 
-Um auf visuelle Fragmente zuzugreifen, wechseln Sie zum **Design Studio** in Marketo Engage. Klicken Sie in der Baumstruktur links auf **[!UICONTROL Fragmente (Neu)]**.
+Um auf visuelle Fragmente zuzugreifen, navigieren Sie zu **Design Studio** in Marketo Engage. Klicken Sie in der Baumstruktur links auf **[!UICONTROL Fragmente (Neu)]**.
 
 ![Zugriff auf Fragmente](assets/access-and-manage-fragments-1.png){width="600" zoomable="yes"}
 
@@ -53,7 +53,7 @@ Der Fragmentstatus bestimmt seine Verfügbarkeit zur Verwendung in einer E-Mail 
 <table>
 <tbody>
   <tr>
-    <td><b>Entwurf</b></td>
+    <td style="width:25%"><b>Entwurf</b></td>
     <td>Wenn Sie ein Fragment erstellen, befindet es sich im Entwurfsstatus . Er bleibt ein Entwurf, bis Sie ihn zur Verwendung in einer E-Mail oder E-Mail-Vorlage veröffentlichen.
     <p>Verfügbare Aktionen:
     <li>Alle Details bearbeiten</li>
@@ -63,7 +63,7 @@ Der Fragmentstatus bestimmt seine Verfügbarkeit zur Verwendung in einer E-Mail 
     <li>Löschen</li>
   </td>
   <tr>
-    <td><b>Veröffentlicht</b></td>
+    <td style="width:25%"><b>Veröffentlicht</b></td>
     <td>Wenn Sie ein Fragment veröffentlichen, wird es zur Verwendung in einer E-Mail oder E-Mail-Vorlage verfügbar. Veröffentlichte Fragmentinhalte können im visuellen Designer nicht geändert werden.
     <p>Verfügbare Aktionen:
     <li>Beschreibung bearbeiten.</li>
@@ -74,13 +74,13 @@ Der Fragmentstatus bestimmt seine Verfügbarkeit zur Verwendung in einer E-Mail 
     </td>
   </tr>
   <tr>
-    <td><b>Mit Entwurf veröffentlicht</b></td>
+    <td style="width:25%"><b>Mit Entwurf veröffentlicht</b></td>
     <td>Wenn Sie einen Entwurf aus einem veröffentlichten Fragment erstellen, bleibt die veröffentlichte Version zur Verwendung in einer E-Mail- oder E-Mail-Vorlage verfügbar und der Entwurfsinhalt kann im visuellen Designer geändert werden. Wenn Sie die Entwurfsversion veröffentlichen, ersetzt sie die aktuelle veröffentlichte Version, und der Inhalt wird in <i>allen) E</i>Mails und E-Mail-Vorlagen, in denen sie verwendet wird, aktualisiert. 
     <p>Verfügbare Aktionen:
     <li>Beschreibung bearbeiten.</li>
     <li>Hinzufügen zu einer E-Mail oder Vorlage</li>
     <li>Bearbeiten der Entwurfsversion in Visual Designer</li>
-    <li>Entwurfsversion von Publish</li>
+    <li>Entwurfsversion veröffentlichen</li>
     <li>Doppelt</li>
     <li>Löschen (wenn nicht in Gebrauch)</li>
     </td>
@@ -114,37 +114,11 @@ Der Fragmentstatus bestimmt seine Verfügbarkeit zur Verwendung in einer E-Mail 
 
    Der visuelle Designer wird mit einer leeren Arbeitsfläche geöffnet.
 
-1. Verwenden Sie die Inhaltserstellungs-Tools, um den visuellen Fragmentinhalt zu erstellen:
-
-   * [Hinzufügen von Struktur und Inhalt](#add-structure-and-content)
-   * [Assets hinzufügen](#add-assets)
-   * [Navigieren in den Ebenen, Einstellungen und Stilen](#navigate-the-layers-settings-and-styles)
-   * [Inhalt personalisieren](#personalize-content)
-   * [Verknüpftes URL-Tracking bearbeiten](#edit-linked-url-tracking)
+1. Verwenden Sie die [Inhaltserstellungs-Tools](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-structure-and-content){target="_blank"}, um den visuellen Fragmentinhalt zu erstellen.
 
 1. Klicken Sie **[!UICONTROL auf &quot;]**&quot;, um das Entwurfsfragment zu speichern.
 
-1. Wenn Sie bereit sind, das Fragment für die Verwendung in einer E-Mail- oder E-Mail-Vorlage verfügbar zu machen, klicken Sie auf **[!UICONTROL Publish]**.
-
-### Hinzufügen von Struktur und Inhalt {#add-structure-and-content}
-
-{{$include /help/marketo/_includes/content-design-components.md}}
-
-### Hinzufügen von Assets
-
-{{$include /help/_includes/content-design-assets.md}}
-
-### Navigieren in den Ebenen, Einstellungen und Stilen
-
-{{$include /help/_includes/content-design-navigation.md}}
-
-### Inhalt personalisieren
-
-{{$include /help/_includes/content-design-personalization.md}}
-
-### Verknüpftes URL-Tracking bearbeiten
-
-{{$include /help/_includes/content-design-links.md}}
+1. Wenn Sie bereit sind, das Fragment für die Verwendung in einer E-Mail- oder E-Mail-Vorlage verfügbar zu machen, klicken Sie auf **[!UICONTROL Veröffentlichen]**.
 
 ## Anzeigen von Fragmentdetails {#view-fragment-details}
 
@@ -162,7 +136,7 @@ Sie können die Ansicht jederzeit verlassen, indem Sie oben links auf _Zurück_-
 
 ## Anzeigen von durch Verweise verwendeten Fragmenten {#view-fragment-used-by-references}
 
-Klicken Sie auf der Seite mit den Fragmentdetails auf **[!UICONTROL Registerkarte]** Verwendet von“, um Details dazu anzuzeigen, wo das Fragment auf dem Marketo Engage verwendet wird.
+Klicken Sie auf der Seite mit den Fragmentdetails auf **[!UICONTROL Registerkarte]** Verwendet von“, um Details zum Verwendungsort des Fragments in Marketo Engage anzuzeigen.
 
 >[!IMPORTANT]
 >
@@ -205,19 +179,11 @@ Diese Aktion öffnet ein Bestätigungsdialogfeld. Sie können den Vorgang abbrec
 
    ![Details für Fragment mit Entwurfsstatus](assets/fragment-draft-details.png){width="600" zoomable="yes"}
 
-1. Um Änderungen am Inhalt im visuellen Designer vorzunehmen, klicken Sie auf **[!UICONTROL Fragment bearbeiten]**.
+1. Um Änderungen am Inhalt im visuellen Designer vorzunehmen, klicken Sie auf **[!UICONTROL Fragment bearbeiten]**. Klicken Sie auf **Speichern**, wenn Sie fertig sind.
 
-   Verwenden Sie nach Bedarf die visuellen Designer-Tools:
+1. Klicken Sie **[!UICONTROL Speichern]** oder **[!UICONTROL Speichern und schließen]** um zu den Fragmentdetails zurückzukehren.
 
-   * [Hinzufügen von Struktur und Inhalt](#add-structure-and-content)
-   * [Assets hinzufügen](#add-assets)
-   * [Navigieren in den Ebenen, Einstellungen und Stilen](#navigate-the-layers-settings-and-styles)
-   * [Inhalt personalisieren](#personalize-content)
-   * [Verknüpftes URL-Tracking bearbeiten](#edit-linked-url-tracking)
-
-   Klicken Sie **[!UICONTROL Speichern]** oder **[!UICONTROL Speichern und schließen]** um zu den Fragmentdetails zurückzukehren.
-
-1. Wenn das Fragment Ihren Kriterien entspricht und Sie es für die Verwendung in einer E-Mail oder E-Mail-Vorlage bereitstellen möchten, klicken Sie auf **[!UICONTROL Publish]**.
+1. Wenn Sie das Fragment für die Verwendung in einer E-Mail oder E-Mail-Vorlage verfügbar machen möchten, klicken Sie auf **[!UICONTROL Veröffentlichen]**.
 
 >[!TAB Veröffentlicht]
 
@@ -235,19 +201,13 @@ Diese Aktion öffnet ein Bestätigungsdialogfeld. Sie können den Vorgang abbrec
 
    ![Dialogfeld „Entwurfsversion erstellen“](assets/fragments-create-draft-version.png){width="300"}
 
-   Verwenden Sie nach Bedarf die visuellen Designer-Tools:
+1. Klicken Sie **[!UICONTROL Speichern]** oder **[!UICONTROL Speichern und schließen]** um zu den Fragmentdetails zurückzukehren.
 
-   * [Hinzufügen von Struktur und Inhalt](#add-structure-and-content)
-   * [Assets hinzufügen](#add-assets)
-   * [Navigieren in den Ebenen, Einstellungen und Stilen](#navigate-the-layers-settings-and-styles)
-   * [Inhalt personalisieren](#personalize-content)
-   * [Verknüpftes URL-Tracking bearbeiten](#edit-linked-url-tracking)
+1. Wenn Sie das Fragment für die Verwendung in einer E-Mail oder E-Mail-Vorlage verfügbar machen möchten, klicken Sie auf **[!UICONTROL Veröffentlichen]**.
 
-   Klicken Sie **[!UICONTROL Speichern]** oder **[!UICONTROL Speichern und schließen]** um zu den Fragmentdetails zurückzukehren.
-
-1. Wenn das Entwurfsfragment Ihren Kriterien entspricht und Sie die Änderungen zur Verwendung in einer E-Mail oder E-Mail-Vorlage bereitstellen möchten, klicken Sie auf **[!UICONTROL Publish]**.
-
-   Wenn Sie die Entwurfsversion veröffentlichen, ersetzt sie die aktuelle veröffentlichte Version, und der Inhalt wird in den E-Mails und E-Mail-Vorlagen aktualisiert, in denen sie bereits verwendet wird.
+>[!NOTE]
+>
+>Wenn Sie die Entwurfsversion veröffentlichen, ersetzt sie die aktuelle veröffentlichte Version, und der Inhalt wird in den E-Mails und E-Mail-Vorlagen aktualisiert, in denen sie bereits verwendet wird.
 
 >[!TAB Veröffentlicht mit Entwurf]
 
@@ -259,23 +219,19 @@ Es gibt zwei Möglichkeiten, die Entwurfsversion zur Bearbeitung über die Liste
 
 * Klicken Sie auf den Fragmentnamen, um das Fragment zu öffnen. Klicken Sie dann oben **[!UICONTROL auf]** Entwurfsversion öffnen“.
 
-  Eine Vorschau des visuellen Inhalts für die Entwurfsversion wird mit den Fragmentdetails auf der rechten Seite angezeigt.
+Eine Vorschau des visuellen Inhalts für die Entwurfsversion wird mit den Fragmentdetails auf der rechten Seite angezeigt.
 
 So aktualisieren Sie den Inhalt:
 
-1. Klicken **[!UICONTROL oben]** auf „Fragment bearbeiten“. Verwenden Sie nach Bedarf die visuellen Designer-Tools:
+1. Klicken **[!UICONTROL oben]** auf „Fragment bearbeiten“. Klicken Sie auf **Speichern**, wenn Sie fertig sind.
 
-   * [Hinzufügen von Struktur und Inhalt](#add-structure-and-content)
-   * [Assets hinzufügen](#add-assets)
-   * [Navigieren in den Ebenen, Einstellungen und Stilen](#navigate-the-layers-settings-and-styles)
-   * [Inhalt personalisieren](#personalize-content)
-   * [Verknüpftes URL-Tracking bearbeiten](#edit-linked-url-tracking)
+1. Klicken Sie **[!UICONTROL Speichern]** oder **[!UICONTROL Speichern und schließen]** um zu den Fragmentdetails zurückzukehren.
 
-   Klicken Sie **[!UICONTROL Speichern]** oder **[!UICONTROL Speichern und schließen]** um zu den Fragmentdetails zurückzukehren.
+1. Wenn Sie das Fragment für die Verwendung in einer E-Mail oder E-Mail-Vorlage verfügbar machen möchten, klicken Sie auf **[!UICONTROL Veröffentlichen]**.
 
-1. Wenn das Entwurfsfragment Ihren Kriterien entspricht und Sie die Änderungen zur Verwendung in einer E-Mail oder E-Mail-Vorlage bereitstellen möchten, klicken Sie auf **[!UICONTROL Publish]**.
-
-   Wenn Sie die Entwurfsversion veröffentlichen, ersetzt sie die aktuelle veröffentlichte Version, und der Inhalt wird in den E-Mails und E-Mail-Vorlagen aktualisiert, in denen sie bereits verwendet wird.
+>[!NOTE]
+>
+>Wenn Sie die Entwurfsversion veröffentlichen, ersetzt sie die aktuelle veröffentlichte Version, und der Inhalt wird in den E-Mails und E-Mail-Vorlagen aktualisiert, in denen sie bereits verwendet wird.
 
 >[!ENDTABS]
 
@@ -288,7 +244,7 @@ Sie können ein Fragment mit einer der folgenden Methoden duplizieren:
 
 ![Duplizieren Sie das Fragment](assets/fragment-details-duplicate.png){width="600" zoomable="yes"}
 
-Geben Sie im Dialogfeld einen eindeutigen Namen und optional eine Beschreibung ein. Klicken Sie **[!UICONTROL Duplizieren]**, um die Aktion abzuschließen.
+Geben Sie im Dialogfeld einen eindeutigen Namen und optional eine Beschreibung ein. Klicken Sie **[!UICONTROL Duplizieren]**.
 
 ![Geben Sie einen Namen und eine Beschreibung für das duplizierte Fragment ein](assets/fragment-duplicate-dialog.png){width="400"}
 
@@ -296,7 +252,7 @@ Das duplizierte Fragment wird dann in der Liste _Fragmente_ angezeigt.
 
 ## Speichern eines neuen Fragments aus E-Mail- oder Vorlageninhalten {#save-a-new-fragment-from-email-or-template-content}
 
-Wenn Sie eine E-Mail- oder E-Mail-Vorlage im visuellen Inhaltseditor erstellen/bearbeiten, können Sie den gesamten Inhalt oder einen Teil davon als Fragment speichern, damit er wiederverwendet werden kann.
+Wenn Sie eine E-Mail- oder E-Mail-Vorlage im visuellen Inhaltseditor erstellen/bearbeiten, können Sie den gesamten Inhalt oder einen Teil davon zur Wiederverwendung als Fragment speichern.
 
 1. Um Inhalte als Fragment zu speichern, klicken Sie auf **[!UICONTROL Mehr]** und wählen Sie **[!UICONTROL Als Fragment speichern]**.
 
@@ -304,13 +260,13 @@ Wenn Sie eine E-Mail- oder E-Mail-Vorlage im visuellen Inhaltseditor erstellen/b
 
    Wählen Sie mehrere Strukturen aus, indem Sie die Umschalt- oder die Strg-Taste gedrückt halten.
 
-   Sie können nur nebeneinanderliegende Strukturen auswählen, und die Schnittstelle erlaubt es Ihnen nicht, nicht benachbarte Elemente auszuwählen.
+   Sie können nur nebeneinander liegende Strukturen auswählen.
 
 1. Klicken Sie bei ausgewähltem Inhalt oben **[!UICONTROL auf]** Erstellen“.
 
 1. Geben Sie im Dialogfeld einen Namen und eine optionale Beschreibung für das Fragment ein und klicken Sie auf **[!UICONTROL Erstellen]**.
 
-   Das Fragment wird dann auf der Seite _Fragmente_ angezeigt und ist auch für die Verwendung in E-Mails und E-Mail-Vorlagen verfügbar.
+Das Fragment wird dann auf der Seite _Fragmente_ angezeigt und ist für die Verwendung in E-Mails und E-Mail-Vorlagen verfügbar.
 
 ## Hinzufügen visueller Fragmente zu E-Mail- oder Vorlageninhalten {#add-visual-fragments-to-your-email-or-template-content}
 
