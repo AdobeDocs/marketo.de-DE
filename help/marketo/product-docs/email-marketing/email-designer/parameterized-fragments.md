@@ -8,10 +8,11 @@ role: User
 level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
-source-git-commit: 76d854176c3c462596596689b43d3567517fee63
+exl-id: 3e0232c7-13bd-49e2-b7c7-cd389b5f0704
+source-git-commit: ec442823dde75f071220208a7e8edd24355d063f
 workflow-type: tm+mt
-source-wordcount: '637'
-ht-degree: 70%
+source-wordcount: '627'
+ht-degree: 62%
 
 ---
 
@@ -22,10 +23,6 @@ Wenn Fragmente in einer E-Mail oder E-Mail-Vorlage verwendet werden, sind sie au
 Durch die Verwendung parametrisierter Fragmente können Sie Ihre Inhalte effizient verwalten und personalisieren, ohne völlig neue Inhaltsbausteine zu erstellen oder die Vererbung vom ursprünglichen Fragment zu unterbrechen. Dadurch wird sichergestellt, dass Änderungen, die auf Fragmentebene vorgenommen werden, weiterhin weitergegeben werden. Gleichzeitig wird die erforderliche Anpassung auf E-Mail-/E-Mail-Vorlagenebene ermöglicht.
 
 Sowohl visuelle Fragmente als auch Ausdrucksfragmente können als anpassbar markiert werden. Detaillierte Anweisungen zum weiteren Vorgehen mit den einzelnen Fragmenttypen finden Sie in den folgenden Abschnitten.
-
-SCREENSHOT - GIF?
-
-—BEARBEITUNG HIER ANGEHALTEN—
 
 ## Hinzufügen bearbeitbarer Felder in visuellen Fragmenten {#visual}
 
@@ -39,7 +36,7 @@ Gehen Sie wie folgt vor, um Teile eines visuellen Fragments als bearbeitbar fest
 
 1. Wählen Sie die Komponente in Ihrem Fragment aus, für die Sie bearbeitbare Felder konfigurieren möchten.
 
-1. Der Bereich „Komponenteneigenschaften“ wird auf der rechten Seite geöffnet. Wählen Sie die Registerkarte **Bearbeitbare Felder** aus und aktivieren Sie die Option **Bearbeitung aktivieren**.
+1. Der Bereich „Komponenteneigenschaften“ wird auf der rechten Seite geöffnet. Wählen Sie die Registerkarte **[!UICONTROL Bearbeitbare Felder]** aus und aktivieren Sie die Option **[!UICONTROL Bearbeitung aktivieren]**.
 
 1. Alle Felder, die für die ausgewählte Komponente bearbeitet werden können, werden im Bereich aufgelistet. Welche Felder zur Bearbeitung verfügbar sind, hängt vom ausgewählten Komponententyp ab.
 
@@ -47,21 +44,21 @@ Gehen Sie wie folgt vor, um Teile eines visuellen Fragments als bearbeitbar fest
 
    ![](assets/fragment-param-enable.png){width="800" zoomable="yes"}
 
-1. Klicken Sie auf **Überblick**, um alle bearbeitbaren Felder und deren Standardwerte zu überprüfen.
+1. Klicken Sie **[!UICONTROL Übersicht]**, um alle bearbeitbaren Felder und ihre Standardwerte zu überprüfen.
 
    In diesem Beispiel wird das Feld für die Schaltflächen-URL mit dem in der Komponente definierten Standardwert angezeigt. Dieser Wert kann von Benutzenden angepasst werden, nachdem sie das Fragment zu ihrem Inhalt hinzugefügt haben.
 
    ![](assets/fragment-param-preview.png){width="800" zoomable="yes"}
 
-1. Wenn Sie fertig sind, speichern Sie die Änderungen, um das Fragment zu aktualisieren.
+1. Speichern Sie abschließend Ihre Änderungen.
 
-1. Nachdem Sie das Fragment zu einer E-Mail hinzugefügt haben, können Benutzer alle bearbeitbaren Felder anpassen, die im Fragment konfiguriert sind.
+Nachdem Sie das Fragment zu einer E-Mail hinzugefügt haben, können Benutzer alle bearbeitbaren Felder anpassen, die im Fragment konfiguriert sind.
 
 ## Hinzufügen bearbeitbarer Felder in HTML-Komponenten und Ausdrucksfragmenten {#expression}
 
-Damit Teile einer HTML-Komponente oder eines Ausdrucksfragments bearbeitbar sind, müssen Sie im Ausdruckseditor eine bestimmte Syntax verwenden. Dazu gehört die Deklarierung einer **Variablen** mit einem Standardwert, den Benutzende überschreiben können, nachdem sie das Fragment zu ihrem Inhalt hinzugefügt haben.
+Damit Teile einer HTML-Komponente oder eines Ausdrucksfragments bearbeitbar sind, müssen Sie im Ausdruckseditor eine bestimmte Syntax verwenden. Dazu gehört die Deklarierung einer _Variablen_ mit einem Standardwert, den Benutzende überschreiben können, nachdem sie das Fragment zu ihrem Inhalt hinzugefügt haben.
 
-Angenommen, Sie möchten zum einen ein Fragment erstellen, das Ihren E-Mails hinzugefügt werden soll, und zum anderen den Benutzenden ermöglichen, eine bestimmte Farbe anzupassen, die an verschiedenen Stellen verwendet wird, z. B. die Hintergrundfarbe von Rahmen oder Schaltflächen. Beim Erstellen des Fragments müssen Sie eine Variable mit einer **eindeutigen ID**, beispielsweise „Farbe“, deklarieren, und diese an den Stellen im Fragmentinhalt aufrufen, an denen diese Farbe angewendet werden soll. Beim Hinzufügen des Fragments zum Inhalt können Benutzende die Farbe anpassen, die dann überall dort verwendet wird, wo auf die Variable verwiesen wird.
+Angenommen, Sie möchten zum einen ein Fragment erstellen, das Ihren E-Mails hinzugefügt werden soll, und zum anderen den Benutzenden ermöglichen, eine bestimmte Farbe anzupassen, die an verschiedenen Stellen verwendet wird, z. B. die Hintergrundfarbe von Rahmen oder Schaltflächen. Beim Erstellen Ihres Fragments müssen Sie eine Variable mit einer _eindeutigen ID_ (z. B. „color„) deklarieren und sie an den gewünschten Stellen im Fragmentinhalt aufrufen, an denen Sie diese Farbe anwenden möchten. Beim Hinzufügen des Fragments zum Inhalt können Benutzende die Farbe anpassen, die dann überall dort verwendet wird, wo auf die Variable verwiesen wird.
 
 Im Falle von HTML-Komponenten können nur bestimmte Elemente zu bearbeitbaren Feldern gemacht werden. Erweitern Sie den folgenden Abschnitt, um weitere Informationen zu erhalten:
 
@@ -78,3 +75,7 @@ Im folgenden Code kann beispielsweise jedes rot hervorgehobene Element zu einer 
 ![](assets/fragment-html.png){width="500" zoomable="yes"}
 
 +++
+
+>[!MORELIKETHIS]
+>
+>[Fragmente](/help/marketo/product-docs/email-marketing/email-designer/fragments.md){target="_blank"}
