@@ -1,12 +1,12 @@
 ---
 title: Fragmente
-description: Erfahren Sie, wie Sie visuelle Inhaltsfragmente als wiederverwendbare Komponenten für E-Mails und E-Mail-Vorlagen erstellen und verwenden.
+description: Erfahren Sie, wie Sie visuelle Inhaltsfragmente als wiederverwendbare Komponenten für E-Mails und E-Mail-Vorlagen erstellen/verwenden.
 hide: true
 hidefromtoc: true
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 7ff2a4f48fb871e91e45889cce10aa0a0fd7051f
+source-git-commit: 45961ce486231ab2512d65ffa934369a014fe016
 workflow-type: tm+mt
-source-wordcount: '1909'
+source-wordcount: '1908'
 ht-degree: 1%
 
 ---
@@ -53,8 +53,8 @@ Der Fragmentstatus bestimmt seine Verfügbarkeit zur Verwendung in einer E-Mail 
 <table>
 <tbody>
   <tr>
-    <td style="width:25%"><b>Entwurf</b></td>
-    <td>Wenn Sie ein Fragment erstellen, befindet es sich im Entwurfsstatus . Er bleibt ein Entwurf, bis Sie ihn zur Verwendung in einer E-Mail oder E-Mail-Vorlage veröffentlichen.
+    <td width="25%"><b>Entwurf</b></td>
+    <td width="70%">Wenn Sie ein Fragment erstellen, befindet es sich im Entwurfsstatus . Er bleibt ein Entwurf, bis Sie ihn zur Verwendung in einer E-Mail oder E-Mail-Vorlage veröffentlichen.
     <p>Verfügbare Aktionen:
     <li>Alle Details bearbeiten</li>
     <li>In Visual Designer bearbeiten</li>
@@ -63,7 +63,7 @@ Der Fragmentstatus bestimmt seine Verfügbarkeit zur Verwendung in einer E-Mail 
     <li>Löschen</li>
   </td>
   <tr>
-    <td style="width:25%"><b>Veröffentlicht</b></td>
+    <td><b>Veröffentlicht</b></td>
     <td>Wenn Sie ein Fragment veröffentlichen, wird es zur Verwendung in einer E-Mail oder E-Mail-Vorlage verfügbar. Veröffentlichte Fragmentinhalte können im visuellen Designer nicht geändert werden.
     <p>Verfügbare Aktionen:
     <li>Beschreibung bearbeiten.</li>
@@ -74,7 +74,7 @@ Der Fragmentstatus bestimmt seine Verfügbarkeit zur Verwendung in einer E-Mail 
     </td>
   </tr>
   <tr>
-    <td style="width:25%"><b>Mit Entwurf veröffentlicht</b></td>
+    <td><b>Mit Entwurf veröffentlicht</b></td>
     <td>Wenn Sie einen Entwurf aus einem veröffentlichten Fragment erstellen, bleibt die veröffentlichte Version zur Verwendung in einer E-Mail- oder E-Mail-Vorlage verfügbar und der Entwurfsinhalt kann im visuellen Designer geändert werden. Wenn Sie die Entwurfsversion veröffentlichen, ersetzt sie die aktuelle veröffentlichte Version, und der Inhalt wird in <i>allen) E</i>Mails und E-Mail-Vorlagen, in denen sie verwendet wird, aktualisiert. 
     <p>Verfügbare Aktionen:
     <li>Beschreibung bearbeiten.</li>
