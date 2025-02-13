@@ -3,10 +3,10 @@ description: Analytics - Marketo-Dokumente - Produktdokumentation
 title: Analytics
 feature: Dynamic Chat
 exl-id: 8130a970-4cf1-4bf6-9403-998460269843
-source-git-commit: 79b439a9bb3d3cd130eb5a7b52cea13988e7b88e
+source-git-commit: 24d5c7f1135857e387031d043a3855e1779233e6
 workflow-type: tm+mt
-source-wordcount: '218'
-ht-degree: 2%
+source-wordcount: '242'
+ht-degree: 3%
 
 ---
 
@@ -54,14 +54,22 @@ Dialoge, Konversationsflüsse oder alle anzeigen. Wählen Sie eine Vorgabe oder 
 <thead>
 <tbody>
   <tr>
-    <td style="width:25%"><b>Abgeschlossen</b></td>
+    <td style="width:30%"><b>Abgeschlossen</b></td>
     <td>Ein abgeschlossenes Ereignis tritt ein, wenn ein Besucher die letzte Eingabeaufforderung in einer Konversation erreicht <i>oder</i> wenn ein Besucher den gesamten Inhalt einer Konversation erschöpft.
     <br>Ein abgeschlossenes Ereignis pro Besucher und Sitzung.</td>
   </tr>
   <tr>
-    <td style="width:25%"><b>Gewonnene Personen</b></td>
+    <td style="width:30%"><b>Gewonnene Personen</b></td>
     <td>Dies geschieht, wenn ein Besucher seine E-Mail-Adresse eingibt.
     <br>Eine Akquise pro Besucher und Sitzung.</td>
+  </tr>
+  <tr>
+    <td style="width:30%"><b>Interaktionsquote</b></td>
+    <td>Anzahl der beantworteten Benutzer (erste Eingabe durch den Benutzer)/Anzahl der Trigger (angezeigter Chatbot).</td>
+  </tr>
+  <tr>
+    <td style="width:30%"><b>Konversionsrate</b></td>
+    <td>Erworbener Benutzer (neue E-Mails werden erfasst)/Benutzerinteraktion.</td>
   </tr>
 </tbody>
 </table>
