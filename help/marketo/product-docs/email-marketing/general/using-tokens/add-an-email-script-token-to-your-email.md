@@ -4,9 +4,9 @@ description: Hinzufügen eines E-Mail-Skript-Tokens zu Ihrer E-Mail - Marketo-Do
 title: Hinzufügen eines E-Mail-Skript-Tokens zu Ihrer E-Mail
 exl-id: 41ef7c21-06af-4950-a19e-017e2417044e
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9d6dd17ea20fb75a2931254addff570787ee2f8b
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '164'
 ht-degree: 2%
 
 ---
@@ -42,10 +42,6 @@ Nachdem Sie [E-Mail-Skript erstellt](/help/marketo/product-docs/email-marketing/
 1. Suchen Sie das zuvor erstellte E-Mail-Skript-Token, wählen Sie es aus und klicken Sie auf **Einfügen**.
 
    ![](assets/five-1.png)
-
-   >[!TIP]
-   >
-   >Fügen Sie bei Bedarf einen Standardwert hinzu.
 
 1. Klicken Sie auf **Speichern**.
 
