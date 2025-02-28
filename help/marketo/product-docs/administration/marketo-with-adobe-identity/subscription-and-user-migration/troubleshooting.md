@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Marketo with Adobe Identity
 exl-id: 921d9d45-c5c2-405c-bd3b-be8aa6d11e2f
-source-git-commit: a2186f054e7b7a780098157927651a084e353bd8
+source-git-commit: 2a01045abbc23bce9531c64e3494fb12a9adf1bd
 workflow-type: tm+mt
 source-wordcount: '602'
 ht-degree: 0%
@@ -32,7 +32,7 @@ Nach der Migration: Der Benutzer muss dem Active Directory mit entsprechenden Be
 
 ### Ungültiges Gmail-Zeichen {#gmail-invalid-character}
 
-_Grundursache_: Gemäß der Adobe-Sicherheitsrichtlinie sind die Zeichen `.` und `+` in einer Gmail-E-Mail-Adresse nicht zulässig. Beide Zeichen sind nur in Nicht-Gmail-E-Mail-Adressen zulässig.
+_Grundursache_: Gemäß der Adobe-Sicherheitsrichtlinie sind die Zeichen `.` und `+` in einer Gmail-E-Mail-Adresse nicht zulässig. Beide Zeichen sind in Nicht-Gmail-E-Mail-Adressen zulässig.
 
 _Auflösungen_:
 

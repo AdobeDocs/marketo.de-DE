@@ -5,9 +5,9 @@ title: Fragmente
 description: Erfahren Sie, wie Sie visuelle Inhaltsfragmente als wiederverwendbare Komponenten für E-Mails und E-Mail-Vorlagen erstellen und verwenden.
 level: Beginner, Intermediate
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 76d854176c3c462596596689b43d3567517fee63
+source-git-commit: 2a01045abbc23bce9531c64e3494fb12a9adf1bd
 workflow-type: tm+mt
-source-wordcount: '1909'
+source-wordcount: '1911'
 ht-degree: 1%
 
 ---
@@ -299,3 +299,7 @@ Wenn ein Fragment zu einer E-Mail oder E-Mail-Vorlage hinzugefügt wird, kann se
 Wenn Sie das Fragment auf der Editor-Seite auswählen, sind diese Aktionen in der Kontextsymbolleiste und im Bedienfeld Eigenschaften auf der rechten Seite verfügbar.
 
 ![Aktionen auf das ausgewählte Fragment anwenden](assets/fragment-actions-email-authoring.png){width="600" zoomable="yes"}
+
+>[!MORELIKETHIS]
+>
+>[Anpassbare Fragmente](/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md)
