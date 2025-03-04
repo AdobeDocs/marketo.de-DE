@@ -4,9 +4,9 @@ description: Erkunden von Konten - Marketo-Dokumente - Produktdokumentation
 title: Erkunden von Konten
 exl-id: 90da4ae0-0a12-48bd-8bae-a7431d2cf4f4
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: dd4c8472ec3f453462bd8046daf70c89c587724a
 workflow-type: tm+mt
-source-wordcount: '581'
+source-wordcount: '558'
 ht-degree: 1%
 
 ---
@@ -76,8 +76,6 @@ Identifizieren Sie die richtigen Unternehmen für das Targeting.
    >* Filtert die meisten Internet-Dienstleister und öffentlichen Domains (z. B. yahoo.com, gmail.com) als Firmennamen heraus
    >
    >* Dedupliziert CRM-Konten. Wenn Sie „Acme“ in einem Datensatz und „Acme Inc“ (oder eines der folgenden Suffixe: Co, Corp, Corporation, GmbH, Inc, Incorporated, LLC, LLP, LP, Ltd, PA, PC, PLC, PLC) haben, werden wir diese in TAM als „Acme“ zusammenführen
-   >
-   >Wenn Marketo Konten nach CRM-ID oder Kontoinhaber anstatt nach Firmenname deduplizieren soll, wenden Sie sich an den [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 1. Klicken Sie unter der Spalte Benanntes Konto auf den Abwärtspfeil, um die Dropdown-Liste anzuzeigen.
 
