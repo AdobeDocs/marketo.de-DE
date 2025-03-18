@@ -4,7 +4,7 @@ title: GenAI-Funktionen
 feature: Interactive Webinars
 hide: true
 hidefromtoc: true
-source-git-commit: 251efc77361ce7d90b6a74ec86b184ac0060663a
+source-git-commit: 5aba776dc5e6b324eb6c6aacc398b7c7c0adc96e
 workflow-type: tm+mt
 source-wordcount: '454'
 ht-degree: 0%
@@ -39,7 +39,7 @@ Automatische Generierung von Kapiteln und Zusammenfassungen für aufgezeichnete 
 
 1. Überprüfen der generierten Kapitel und der Zusammenfassung.
 
-2. Wenn Änderungen erforderlich sind, klicken Sie auf die Schaltfläche **Bearbeiten**.
+1. Wenn Änderungen erforderlich sind, klicken Sie auf die Schaltfläche **Bearbeiten**.
 
    So nehmen Sie Änderungen vor:
 
