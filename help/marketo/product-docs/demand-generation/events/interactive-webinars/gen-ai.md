@@ -5,9 +5,9 @@ feature: Interactive Webinars
 hide: true
 hidefromtoc: true
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: 827e5acdf901201c16a4265f35e9be0fc45cdf2f
+source-git-commit: c00d6bbe7b7c4589446a42bbd31087bf6d4e8ddf
 workflow-type: tm+mt
-source-wordcount: '476'
+source-wordcount: '484'
 ht-degree: 0%
 
 ---
@@ -90,4 +90,4 @@ Nachdem Sie den gewünschten Inhalt kopiert haben, fügen Sie ihn in den Editor 
 
 * Durch Löschen des Webinars werden auch die GenAI-Inhalte gelöscht.
 
-* Wenden Sie sich für weitere Informationen oder eine Anfrage zur Datenlöschung an das Adobe-Account-Team (Ihren Account Manager) oder senden Sie eine E-Mail an: `marketo-webinar-genai-alerts@adobe.com`.
+* Wenn Sie den GenAI-Inhalt löschen möchten, ohne das Webinar zu löschen, wenden Sie sich an das Adobe Account Team (Ihren Account Manager) oder senden Sie eine Anfrage zur Datenlöschung an: `marketo-webinar-genai-alerts@adobe.com`.
