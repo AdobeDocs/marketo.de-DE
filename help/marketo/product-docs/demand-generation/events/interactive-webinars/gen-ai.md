@@ -4,7 +4,7 @@ title: GenAI-Funktionen
 feature: Interactive Webinars
 hide: true
 hidefromtoc: true
-source-git-commit: 5aba776dc5e6b324eb6c6aacc398b7c7c0adc96e
+source-git-commit: 0008359ee2299cc9158151320bc8752be49e3821
 workflow-type: tm+mt
 source-wordcount: '454'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Automatische Generierung von Kapiteln und Zusammenfassungen für aufgezeichnete 
 
 1. Klicken Sie **Generieren**.
 
-   ![](assets/gen-ai-features-1.png){width="600" zoomable="yes"}
+   ![](assets/gen-ai-features-1.png){width="750" zoomable="yes"}
 
 1. Eine neue Registerkarte wird geöffnet, auf der KI-generierte Kapitel und eine Textzusammenfassung angezeigt werden.
 
@@ -41,7 +41,7 @@ Automatische Generierung von Kapiteln und Zusammenfassungen für aufgezeichnete 
 
 1. Wenn Änderungen erforderlich sind, klicken Sie auf die Schaltfläche **Bearbeiten**.
 
-   So nehmen Sie Änderungen vor:
+   Vornehmen von Änderungen:
 
    * Bearbeiten Sie den Text in der Zusammenfassung und/oder den Kapiteltiteln.
 
@@ -55,14 +55,14 @@ Automatische Generierung von Kapiteln und Zusammenfassungen für aufgezeichnete 
 
       * Um mehrere Kapitel zusammenzuführen, müssen Sie zwei gleichzeitig durchführen
 
-     ![](assets/gen-ai-features-2.png){width="800" zoomable="yes"}
+     ![](assets/gen-ai-features-2.png){width="600" zoomable="yes"}
 
 
    >[!NOTE]
    >
    >Bei Bedarf können Sie die Qualität der generierten Kapitel/Zusammenfassungen mit den Symbolen __ Daumen hoch![ ](assets/icon-thumbs-up.png) oder _Daumen runter_![Daumen runter](assets/icon-thumbs-down.png) bewerten. Sie können auch alle problematischen Inhalte markieren, indem Sie auf das Markierungssymbol (![) ](assets/icon-flag.png).
 
-1. Speichern Sie Ihre Änderungen, indem Sie auf **Speichern** oben links im Bildschirm klicken.
+1. Speichern Sie Ihre Änderungen, indem Sie auf **Speichern** oben rechts auf dem Bildschirm klicken.
 
 ## Verwenden generierter Inhalte {#use-generated-content}
 
@@ -88,4 +88,4 @@ Nachdem Sie den gewünschten Inhalt kopiert haben, fügen Sie ihn in den Editor 
 
 * Durch Löschen des Webinars werden auch die GenAI-Inhalte gelöscht.
 
-* Wenden Sie sich für weitere Informationen oder eine Anfrage zur Löschung von Daten an das Adobe Account Team (Ihren Account Manager) oder senden Sie uns eine E-Mail an: `marketo-webinar-genai-alerts@adobe.com`.
+* Wenden Sie sich für weitere Informationen oder eine Anfrage zur Datenlöschung an das Adobe-Account-Team (Ihren Account Manager) oder senden Sie eine E-Mail an: `marketo-webinar-genai-alerts@adobe.com`.
