@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 709c5f3c0009763f8ab7778278c6a2fe6db10a08
+source-git-commit: 251efc77361ce7d90b6a74ec86b184ac0060663a
 workflow-type: tm+mt
-source-wordcount: '9425'
+source-wordcount: '9427'
 ht-degree: 4%
 
 ---
@@ -739,6 +739,7 @@ ht-degree: 4%
             + [Bewerben eines interaktiven Webinars](product-docs/demand-generation/events/interactive-webinars/promoting-an-interactive-webinar.md)
             + [Ändern oder Löschen eines interaktiven Webinars](product-docs/demand-generation/events/interactive-webinars/modify-or-delete-an-interactive-webinar.md)
             + [On-Demand-Webinare](product-docs/demand-generation/events/interactive-webinars/on-demand-webinars.md)
+            + [Funktionen von GenAI](product-docs/demand-generation/events/interactive-webinars/gen-ai.md)
             + [Ereignis-Workflows](product-docs/demand-generation/events/interactive-webinars/event-workflows.md)
             + [Interaktions-Dashboard](product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md)
             + [Interaktive Webinare in Marketo Sales Insight](product-docs/demand-generation/events/interactive-webinars/interactive-webinars-in-marketo-sales-insight.md)
