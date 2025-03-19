@@ -4,7 +4,7 @@ description: Änderungsdetails im Audit-Protokoll - Marketo-Dokumente - Produktd
 title: Details im Audit-Protokoll ändern
 exl-id: 5583be62-46a6-42f9-b4b3-0df63a171b2d
 feature: Audit Trail
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 1477b889f74597396b3467371229a511e4390f91
 workflow-type: tm+mt
 source-wordcount: '1902'
 ht-degree: 14%
@@ -137,7 +137,7 @@ Das Audit-Protokoll bietet zahlreiche Einblicke in die Aktivitäten in Ihrem Mar
   </tr> 
   <tr> 
    <td>Bearbeiten</td> 
-   <td>Modul bearbeiten <module name><attribute> in „Wert“</td> 
+   <td>Modul <code>"&lt;module name&gt;" &lt;attribute&gt;</code> in „Wert“ bearbeiten</td> 
   </tr> 
   <tr> 
    <td>Löschen</td> 
