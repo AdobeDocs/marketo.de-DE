@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Marketo with Adobe Identity
 exl-id: 921d9d45-c5c2-405c-bd3b-be8aa6d11e2f
-source-git-commit: c5b05cf7d1131c9d98d89c12a4a8bd04d215886d
+source-git-commit: 251f84b2dff6b7c0706c0f08fe8b51d8d4d897f0
 workflow-type: tm+mt
-source-wordcount: '807'
+source-wordcount: '796'
 ht-degree: 1%
 
 ---
@@ -66,11 +66,9 @@ _Wenn der Benutzer nicht ****migriert werden muss_ - Marketo Engage-Administrato
 
 _Wenn der Benutzer migriert werden muss_ (und die Domain-Durchsetzung in der migrierenden Organisation aktiviert ist) - Die E-Mail-Adresse muss in Marketo Engage aktualisiert werden, um die Domain Enforcement (DE)-Richtlinie zu erfüllen. Alternativ kann der Systemadministrator die Domain entweder [in einen anderen ](https://helpx.adobe.com/enterprise/using/manage-domains-directories.html#move-domains-across-directories){target="_blank"}-Ordner (DE) verschieben oder [einen neuen Ordner erstellen](https://helpx.adobe.com/de/enterprise/using/set-up-identity.html){target="_blank"} der nicht unter der DE-Richtlinie steht. Marketo Engage Admin, um die Benutzermigration für diesen Benutzer über die Migrationskonsole erneut auszuführen.
 
-_Wenn der Benutzer migriert werden muss_ (und die Domain-Durchsetzung in einer anderen Organisation aktiviert ist): Ein Systemadministrator der Organisation, in der die Domain beansprucht wurde, muss die E-Mail-Adresse des Benutzers zur Ausnahmeliste hinzufügen. Marketo Engage Admin, um die Benutzermigration für diesen Benutzer über die Migrationskonsole erneut auszuführen.
+_Wenn der Benutzer migriert werden muss_ (und die Domain-Durchsetzung in einer anderen Organisation aktiviert ist) - Ein Systemadministrator der Organisation, in der die Domain beansprucht wurde, muss die E-Mail-Adresse des Benutzers zur Ausnahmeliste hinzufügen. Marketo Engage Admin, um die Benutzermigration für diesen Benutzer über die Migrationskonsole erneut auszuführen.
 
 _Wenn der Benutzer nicht ****migriert werden muss_ - Marketo Engage-Administrator, um den Benutzer in der Migrationskonsole zu überspringen. Die Schaltfläche „Migration abgeschlossen“ wird angezeigt, wenn alle Benutzer durch Migration oder Überspringen berücksichtigt werden. Klicken Sie auf die Schaltfläche , um den Prozess der Benutzermigration abzuschließen.
-
-**Die folgenden Fehlermeldungen haben alle dieselbe Ursache/Auflösung…**
 
 ### Benutzererstellung fehlgeschlagen {#user-creation-failed}
 
