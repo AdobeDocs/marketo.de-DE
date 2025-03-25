@@ -3,8 +3,10 @@ unique-page-id: 11373011
 description: Wechsel zum E-Mail-Editor 2.0 - Marketo-Dokumente - Produktdokumentation
 title: Wechsel zum E-Mail-Editor 2.0
 exl-id: eb9ec8cc-d6e8-4839-a4d9-608d2f264cbb
+hide: true
+hidefromtoc: true
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b3bc6a7ec14a513e4b294852d066f9e3d0f74ef8
 workflow-type: tm+mt
 source-wordcount: '642'
 ht-degree: 0%
@@ -19,7 +21,7 @@ E-Mails und E-Mail-Vorlagen innerhalb Ihres Abonnements sollten eine Versionsnum
 
 ![](assets/five-5.png)
 
-Standardmäßig werden alle Ihre vorhandenen E-Mails und E-Mail-Vorlagen als v1.0 gekennzeichnet, wenn sie entweder vor der Version vom Frühjahr 2016 oder nach der Veröffentlichung erstellt wurden, wenn der E-Mail-Editor 2.0 deaktiviert ist. Wenn der E-Mail-Editor 2.0 jetzt automatisch aktiviert ist, wird das folgende Verhalten angezeigt:
+Standardmäßig werden alle Ihre vorhandenen E-Mails und E-Mail-Vorlagen als v1.0 gekennzeichnet, wenn sie entweder vor der Version vom Frühjahr 16 oder nach der Veröffentlichung erstellt wurden, wenn der E-Mail-Editor 2.0 deaktiviert ist. Wenn der E-Mail-Editor 2.0 jetzt automatisch aktiviert ist, wird das folgende Verhalten angezeigt:
 
 * Wenn Sie eine neue E-Mail erstellen, wird [E-Mail](email-template-picker-overview.md)Vorlagenauswahl) angezeigt und Sie können eine E-Mail-Vorlage der Version 2.0 auswählen.
 * Wenn Sie eine E-Mail mit E-Mail-Editor 2.0 erstellen oder bearbeiten, wird die resultierende E-Mail **immer** als v2.0 gekennzeichnet (auch wenn Sie eine E-Mail-Vorlage der Version 1.0 verwendet haben).

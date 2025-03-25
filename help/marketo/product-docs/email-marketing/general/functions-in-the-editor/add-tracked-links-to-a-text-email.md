@@ -4,9 +4,9 @@ description: Hinzufügen getrackter Links zu einer Text-E-Mail - Marketo-Dokumen
 title: Hinzufügen getrackter Links zu einer Text-E-Mail
 exl-id: 10b4e029-de23-4054-83f7-b68fea68c838
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b3bc6a7ec14a513e4b294852d066f9e3d0f74ef8
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '157'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,9 @@ ht-degree: 0%
 >* [Erstellen einer reinen Text-E-Mail](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)
 >* [Elemente in einer E-Mail bearbeiten](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md)
 
-E-Mail-Links in Textform können in Marketo nachverfolgt werden. Sehen wir uns an, wie das funktioniert. 1. Wählen Sie Ihre E-Mail und klicken Sie auf Entwurf bearbeiten.
+E-Mail-Links in Textform können in Marketo nachverfolgt werden. Sehen wir uns an, wie das funktioniert.
+
+1. Wählen Sie Ihre E-Mail aus und klicken Sie **Entwurf bearbeiten**.
 
 ![](assets/one-9.png)
 
@@ -30,16 +32,14 @@ E-Mail-Links in Textform können in Marketo nachverfolgt werden. Sehen wir uns a
 
    ![](assets/three-8.png)
 
+   >[!CAUTION]
+   >
+   >Wenn eine E-Mail vor mehr als 365 Tagen gesendet wurde **und** niemand in den letzten 180 Tagen auf einen ihrer Links geklickt hat, bereinigt Marketo Engage die Route zur URL aus unserer Datenbank, was dazu führt, dass der Link unterbrochen wird. Wenn der Link dauerhaft sein soll, verwenden Sie kein Tracking.
+
 1. Schließen Sie den Editor und vergessen Sie nicht, den Entwurf zu genehmigen.
 
    ![](assets/four-6.png)
 
 >[!NOTE]
 >
->Die mktNoTok-Klassenfunktionalität funktioniert nicht mit verfolgbaren Links in Text-E-Mails. Nur zum HTML von E-Mails.
-
->[!TIP]
->
->Testen Sie es, um es zu überprüfen. Stellen Sie sicher, dass Sie die Klammern korrekt eingegeben haben.
-
-Gute Arbeit!
+>Die mktNoTok-Klassenfunktionalität funktioniert nicht mit verfolgbaren Links in Text-E-Mails. Nur für HTML-E-Mails.
