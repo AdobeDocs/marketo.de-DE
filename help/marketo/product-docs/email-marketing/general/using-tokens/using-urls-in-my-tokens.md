@@ -4,9 +4,9 @@ description: Verwenden von URLs in meinen Token - Marketo-Dokumente - Produktdok
 title: Verwenden von URLs in meinen Token
 exl-id: 6830c621-4d94-4f31-a608-2f7b2aced88c
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 165dca2573f340ede147866c3a30707bbfb6857c
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,11 @@ Gehen Sie wie folgt vor, um mit meinen Token URLs in Ihre E-Mails einzufügen.
 
    >[!CAUTION]
    >
-   >Um sicherzustellen, dass Klicks in Ihrer E-Mail verfolgt werden, geben **nicht** https:// im Token-Wert ein.
+   >**Verwenden von http/https…**
+   >
+   >* Um sicherzustellen, dass Klicks in Ihrer E-Mail verfolgt werden **geben Sie** nicht _https://inside_ den Wert des Tokens ein. Verwenden Sie sie außerhalb des Tokens, wie in Schritt 7 gezeigt.
+   >
+   >* Es wird dringend empfohlen, http/https nicht auszuschließen. Andernfalls wird die [Web-Version](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md){target="_blank"} Ihrer E-Mail möglicherweise falsch gerendert.
 
 1. Wählen Sie die E-Mail in Ihrem Programm aus.
 
@@ -43,13 +47,13 @@ Gehen Sie wie folgt vor, um mit meinen Token URLs in Ihre E-Mails einzufügen.
 
    ![](assets/six-1.png)
 
-1. Geben Sie an einer beliebigen Stelle in Ihrer E-Mail &quot;https://&quot; ein (ohne danach ein Leerzeichen zu hinterlassen) und klicken Sie auf das Symbol Token einfügen .
+1. Geben Sie an einer beliebigen Stelle in Ihrer E-Mail `https://` ein (ohne danach ein Leerzeichen zu hinterlassen) und klicken Sie auf das Symbol Token einfügen .
 
    ![](assets/seven.png)
 
    >[!NOTE]
    >
-   >Sie haben natürlich auch die Möglichkeit, „https“ einzugeben, wenn Ihre Website es verwendet.
+   >Sie haben natürlich auch die Möglichkeit, `http://` einzugeben, wenn Ihre Website kein https verwendet.
 
 1. Suchen Sie Ihr Mein Token, wählen Sie es aus und klicken Sie auf **Einfügen**.
 
