@@ -3,7 +3,7 @@ description: Erste Schritte für Sales Connect-Administratoren - Marketo-Dokumen
 title: Erste Schritte für Sales Connect-Administratoren
 exl-id: 8c866fff-3252-4564-a229-bbe4e17190fd
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9a43f9bce9664523334b55dcca3d9ea79d5f5093
 workflow-type: tm+mt
 source-wordcount: '479'
 ht-degree: 0%
@@ -20,7 +20,7 @@ In diesem Dokument werden die ersten Schritte zur Einrichtung Ihrer neuen Sales 
 
 ## Zugriff auf Ihr neues Marketo Sales Connect-Konto {#accessing-your-new-marketo-sales-connect-account}
 
-Wenn Sie Marketo Sales Connect erworben haben, wird der Zugriff auf Ihre Instanz über den Administratorbereich von Marketo gewährt. [Klicken Sie hier](/help/marketo/product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance.md) um Anweisungen anzuzeigen, wie ein Marketo-Administrator Zugriff auf Ihre neue Instanz gewähren kann.
+Wenn Sie Marketo Sales Connect erworben haben, wird der Zugriff auf Ihre Instanz über den Marketo-Administratorbereich gewährt. [Klicken Sie hier](/help/marketo/product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance.md) um Anweisungen anzuzeigen, wie ein Marketo-Administrator Zugriff auf Ihre neue Instanz gewähren kann.
 
 ![](assets/getting-started-guide-for-sales-connect-admins-1.png)
 
@@ -46,7 +46,7 @@ Durch die Verbindung mit Marketo können Ihre Verkäufer die Vorteile der Market
 * &quot;[ Momente“ ](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md) den Live-Feed pushen
 * Protokollieren von Vertriebsaktivitäten in Marketo
 
-Um mehr darüber zu erfahren, wie Sie eine Verbindung zu Marketo herstellen und Vertriebsbenutzern Zugriff auf die Verbindung gewähren, klicken Sie hier.
+Um mehr darüber zu erfahren, wie Sie eine Verbindung zu Marketo herstellen und Vertriebsbenutzern Zugriff auf die Verbindung gewähren, [hier klicken](/help/marketo/product-docs/marketo-sales-connect/marketo/set-up-your-marketo-connection.md).
 
 ## Installieren des Salesforce-Anpassungspakets {#installing-salesforce-customization-package}
 
