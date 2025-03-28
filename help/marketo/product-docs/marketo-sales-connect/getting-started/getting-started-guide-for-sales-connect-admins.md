@@ -3,7 +3,7 @@ description: Erste Schritte für Sales Connect-Administratoren - Marketo-Dokumen
 title: Erste Schritte für Sales Connect-Administratoren
 exl-id: 8c866fff-3252-4564-a229-bbe4e17190fd
 feature: Marketo Sales Connect
-source-git-commit: 9a43f9bce9664523334b55dcca3d9ea79d5f5093
+source-git-commit: 7005be3c62987e1f8beb7301fbb28293d96aad18
 workflow-type: tm+mt
 source-wordcount: '479'
 ht-degree: 0%
@@ -20,13 +20,13 @@ In diesem Dokument werden die ersten Schritte zur Einrichtung Ihrer neuen Sales 
 
 ## Zugriff auf Ihr neues Marketo Sales Connect-Konto {#accessing-your-new-marketo-sales-connect-account}
 
-Wenn Sie Marketo Sales Connect erworben haben, wird der Zugriff auf Ihre Instanz über den Marketo-Administratorbereich gewährt. [Klicken Sie hier](/help/marketo/product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance.md) um Anweisungen anzuzeigen, wie ein Marketo-Administrator Zugriff auf Ihre neue Instanz gewähren kann.
+Wenn Sie Marketo Sales Connect erworben haben, wird der Zugriff auf Ihre Instanz über den Marketo-Administratorbereich gewährt. [Klicken Sie hier](/help/marketo/product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance.md){target="_blank"} um Anweisungen anzuzeigen, wie ein Marketo-Administrator Zugriff auf Ihre neue Instanz gewähren kann.
 
 ![](assets/getting-started-guide-for-sales-connect-admins-1.png)
 
 ## Einladen und Verwalten von Benutzern {#inviting-and-managing-users}
 
-Nachdem Sie Ihr Marketo Sales Connect-Konto von Marketo bereitgestellt und Ihren ersten Admin-Benutzer eingeladen haben, kann dieser Admin-Benutzer weitere Benutzende über die Benutzerverwaltungsseite von Marketo Sales Connect einladen. [Klicken Sie hier](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md) um zu sehen, wie Sie Benutzer von der Seite „Benutzerverwaltung“ einladen.
+Nachdem Sie Ihr Marketo Sales Connect-Konto von Marketo bereitgestellt und Ihren ersten Admin-Benutzer eingeladen haben, kann dieser Admin-Benutzer weitere Benutzende über die Benutzerverwaltungsseite von Marketo Sales Connect einladen. [Klicken Sie hier](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md){target="_blank"} um zu sehen, wie Sie Benutzer von der Seite „Benutzerverwaltung“ einladen.
 
 ![](assets/getting-started-guide-for-sales-connect-admins-2.png)
 
@@ -34,7 +34,7 @@ Nachdem Sie Ihr Marketo Sales Connect-Konto von Marketo bereitgestellt und Ihren
 
 Alle Benutzenden müssen einzeln eine Verbindung zu Salesforce herstellen, um Verkaufsaktivitäten wie E-Mails, Anrufe und Aufgaben für Salesforce protokollieren zu können. Wenn Sie jedoch als Administrator eine Verbindung zu Salesforce herstellen, haben Sie die Möglichkeit, Ihre Aktivitätsprotokollierungseinstellungen für Ihr gesamtes Team zu konfigurieren, sodass globale Protokollierungseinstellungen auf alle Sales Connect-Benutzenden angewendet werden.
 
-Um Ihre Sales Connect-Instanz mit Ihrer Salesforce-Instanz als Admin oder Nicht-Admin zu verbinden, führen Sie die Schritte in [diesem Artikel](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md) aus.
+Um Ihre Sales Connect-Instanz mit Ihrer Salesforce-Instanz als Admin oder Nicht-Admin zu verbinden, führen Sie die Schritte in [diesem Artikel](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md){target="_blank"} aus.
 
 ![](assets/getting-started-guide-for-sales-connect-admins-3.png)
 
@@ -42,17 +42,17 @@ Um Ihre Sales Connect-Instanz mit Ihrer Salesforce-Instanz als Admin oder Nicht-
 
 Durch die Verbindung mit Marketo können Ihre Verkäufer die Vorteile der Marketing-Automatisierung und der Marketing-Erkenntnisse bei der Kundenakquise nutzen. Für die folgenden Funktionen müssen Sie eine Integration mit Marketo einrichten.
 
-* Freigeben [Marketing-Kampagnen](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md) für Verkäufer
-* &quot;[ Momente“ ](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md) den Live-Feed pushen
+* Freigeben [Marketing-Kampagnen](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md){target="_blank"} für Verkäufer
+* &quot;[ Momente“ ](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md){target="_blank"} den Live-Feed pushen
 * Protokollieren von Vertriebsaktivitäten in Marketo
 
-Um mehr darüber zu erfahren, wie Sie eine Verbindung zu Marketo herstellen und Vertriebsbenutzern Zugriff auf die Verbindung gewähren, [hier klicken](/help/marketo/product-docs/marketo-sales-connect/marketo/set-up-your-marketo-connection.md).
+Um mehr darüber zu erfahren, wie Sie eine Verbindung zu Marketo herstellen und Vertriebsbenutzern Zugriff auf die Verbindung gewähren, [hier klicken](/help/marketo/product-docs/marketo-sales-connect/marketo/set-up-your-marketo-connection.md){target="_blank"}.
 
 ## Installieren des Salesforce-Anpassungspakets {#installing-salesforce-customization-package}
 
 Um sicherzustellen, dass der Verkauf erfolgreich ist, müssen Sie auch die richtigen Funktionen in Ihrem primären Arbeitsbereich haben. Das Sales Connect-Anpassungspaket ermöglicht den Zugriff auf Interaktionsfunktionen und wichtige Vertriebsaktivitätsattribute über Salesforce.
 
-Weitere Informationen zur Installation der Sales Connect-Anpassung [hier ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md).
+Weitere Informationen zur Installation der Sales Connect-Anpassung [hier ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md){target="_blank"}.
 
 ## Testen in Sandbox {#testing-in-sandbox}
 
@@ -64,4 +64,4 @@ Für Teams, die Marketo Sales Connect mit ihrer Marketo Sandbox testen möchten,
 
 >[!MORELIKETHIS]
 >
->[Administratorrechte](/help/marketo/product-docs/marketo-sales-connect/admin/user-access-details.md)
+>[Administratorrechte](/help/marketo/product-docs/marketo-sales-connect/admin/user-access-details.md){target="_blank"}
