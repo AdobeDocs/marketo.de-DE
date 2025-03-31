@@ -4,7 +4,7 @@ description: Dauerhafte Abmeldung - Marketo-Dokumente - Produktdokumentation
 title: Dauerhafte Abmeldung
 exl-id: e03a5a01-7395-45b3-8351-7931ec413236
 feature: Deliverability
-source-git-commit: 366de1bf0ec858da50aa19dcea1cb5b36b624394
+source-git-commit: 020e35ad6763240d968ef3fe8e8fff544b77b96f
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 0%
@@ -25,15 +25,15 @@ Wenn für das Abmelde-Flag „false“ die Einstellung „true“ festgelegt ist
 
 Es gibt mehrere Möglichkeiten, wie eine Person erneut abonniert werden kann.
 
-Löschen **in Salesforce** Feld E-Mail-Abmeldung im Datensatz des Leads/Kontakts. Dadurch wird mit Marketo synchronisiert.
+Löschen Sie in Salesforce das Feld E-Mail-Abmeldung im Datensatz des Leads/Kontakts. Dadurch wird mit Marketo synchronisiert.
 
 ![Salesforce-Bildschirm](assets/durable-unsubscribe-1.png)
 
-Deaktivieren **in Marketo** Feld Abgemeldet auf der Registerkarte Info des Datensatzes der Person.
+Deaktivieren Sie in Marketo das Feld Abgemeldet auf der Registerkarte Info des Datensatzes der Person.
 
 ![Löschen des Abmeldefelds in einem Personendatensatz](assets/durable-unsubscribe-2.png)
 
-Führen Sie einen **Datenwert ändern**-Flussschritt wie unten gezeigt auf einem oder mehreren Personen aus.
+Führen Sie einen _Datenwert ändern_-Flussschritt wie unten gezeigt auf einem oder mehreren Personen aus.
 
 ![Schritt „Datenwert-Fluss ändern“](assets/durable-unsubscribe-3.png)
 
