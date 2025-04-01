@@ -3,9 +3,9 @@ description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokument
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: f8d75117254b20672fde3bcfd4fbbd4d8a6506e1
+source-git-commit: cf4df30b575061bde18cf38e355604b970b7c51e
 workflow-type: tm+mt
-source-wordcount: '446'
+source-wordcount: '445'
 ht-degree: 8%
 
 ---
@@ -33,8 +33,8 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tr>
     <tr> 
    <td><strong>E-Mail-Designer in allen Programmen verfügbar</strong>: Die neuen E-Mails von E-Mail-Designer sind jetzt für alle Interaktions-, Standard- und Veranstaltungsprogramme verfügbar (mit Ausnahme interaktiver Webinar-Programme). Zuvor waren sie nur in E-Mail-Programmen verfügbar. Mit diesem Update wird auch das Klonen verfügbar.</td>
-   <td><i>Demnächst verfügbar</i></td>
-   <td><i>Demnächst verfügbar</i></td>
+   <td>Versendet</td>
+   <td>k. A.</td>
   </tr>
   <tr> 
    <td> </td> 

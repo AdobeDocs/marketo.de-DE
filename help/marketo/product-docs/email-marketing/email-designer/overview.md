@@ -5,9 +5,9 @@ description: Willkommen bei der neuen Adobe Marketo Engage E-Mail-Designer.
 title: Überblick
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: b7e378af0d606202f022848d2a099d5170061024
+source-git-commit: cf4df30b575061bde18cf38e355604b970b7c51e
 workflow-type: tm+mt
-source-wordcount: '744'
+source-wordcount: '750'
 ht-degree: 0%
 
 ---
@@ -17,8 +17,6 @@ ht-degree: 0%
 Willkommen bei der neuen Adobe Marketo Engage E-Mail-Designer.
 
 Der E-Mail-Designer ist die neueste Innovation in Marketo Engage und bietet ein überarbeitetes Erlebnis bei der Erstellung von E-Mail- und E-Mail-Vorlagen. Er verbessert die Produktivität und Effizienz, indem er einen visuellen Drag-and-Drop-Editor zusammen mit standardmäßigen Vorlagen bereitstellt. Erstellen Sie ganz einfach benutzerdefinierte E-Mail-Vorlagen, ohne Geld für Anbieter ausgeben zu müssen.
-
-Mit dem neuen Designer erstellte E-Mails können in E-Mail-Programmen sowie in Smart Lists/Kampagnen verwendet werden. Leistungsstarke neue Verbesserungen des Designers werden bald verfügbar sein.
 
 ## Zugriff {#how-to-access}
 
@@ -65,6 +63,10 @@ Um auf den neuen E-Mail-Designer zugreifen zu können, muss Ihr Marketo Engage-A
 **Wird der alte E-Mail-Editor weiterhin funktionieren? Wenn ja, für wie lange?**
 
 Ja, der alte (klassische) E-Mail-Editor wird mit dem neuen E-Mail-Designer koexistieren. Im klassischen Editor erstellte E-Mails bleiben erhalten. Es gibt derzeit kein Datum, ab dem der klassische Editor eingestellt wird, er wird jedoch 2025 weiterhin funktionieren.
+
+**In welchen Programmen kann ich die neuen E-Mail-Designer-E-Mails verwenden?**
+
+Auf neue E-Mail-Designer-E-Mails kann in allen Programmen zugegriffen werden (mit Ausnahme von interaktiven Webinar-Programmen). Klonen ist ebenfalls verfügbar.
 
 **Funktionieren unsere vorhandenen E-Mail-Vorlagen im neuen Designer? Falls nicht, müssen wir Vorlagen mit dem neuen Designer erstellen, damit alle Abschnitte/Module entsprechen, wie unser Inhalt aussehen soll?**
 

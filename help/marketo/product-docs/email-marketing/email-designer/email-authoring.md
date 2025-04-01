@@ -3,20 +3,20 @@ description: E-Mail-Authoring - Marketo-Dokumente - Produktdokumentation
 title: E-Mail-Erstellung
 feature: Email Editor
 exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
-source-git-commit: 4b6d3c4f91fe117511ad3235f757ec904d9bafa2
+source-git-commit: cf4df30b575061bde18cf38e355604b970b7c51e
 workflow-type: tm+mt
-source-wordcount: '1739'
+source-wordcount: '1742'
 ht-degree: 3%
 
 ---
 
 # E-Mail-Erstellung {#email-authoring}
 
-Erfahren Sie, wie Sie E-Mails in der neuen Marketo Engage-E-Mail-Designer erstellen, personalisieren und in der Vorschau anzeigen.
+Erfahren Sie, wie Sie E-Mails in der neuen Marketo Engage E-Mail-Designer erstellen, personalisieren und in der Vorschau anzeigen.
 
 >[!PREREQUISITES]
 >
->Um auf den neuen E-Mail-Designer zugreifen zu können, muss Ihr Marketo Engage-Abonnement auf das [Adobe Identity Management System (IMS) migriert ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Wenn Ihre Anfrage noch nicht bearbeitet wurde und Sie eine Beschleunigung anfordern möchten, wenden Sie sich bitte an das Adobe-Account-Team (Ihren Account Manager) oder an den [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support).
+>Um auf den neuen E-Mail-Designer zugreifen zu können, muss Ihr Marketo Engage-Abonnement auf das [Adobe Identity Management System (IMS) migriert ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Wenn Ihre Anfrage noch nicht bearbeitet wurde und Sie eine Beschleunigung anfordern möchten, wenden Sie sich bitte an das Adobe Account Team (Ihren Account Manager) oder an den [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ## Erstellen einer E-Mail {#create-an-email}
 
@@ -78,7 +78,7 @@ Das war&#39;s. Jetzt ist es an der Zeit, Ihre E-Mail zu entwerfen.
 
 * [Erstellen von neuen Inhalten](#design-from-scratch) mithilfe des visuellen E-Mail-Editors
 
-* [Eigene HTML importieren](#import-html) über eine HTML- oder ZIP-Datei
+* [Importieren Sie Ihre eigene HTML ](#import-html) eine HTML- oder ZIP-Datei
 
 * [Vorhandene Vorlage auswählen](#choose-a-template) (eines unserer Beispiele oder eines, das Sie bereits gespeichert haben)
 
@@ -160,7 +160,7 @@ Wählen Sie eine der vordefinierten Vorlagen für einen Vorsprung beim Design Ih
 
 >[!ENDTABS]
 
-## Hinzufügen von Struktur und Inhalt {#add-structure-and-content}
+## Hinzufügen von Struktur und Inhalten {#add-structure-and-content}
 
 1. Um mit dem Erstellen oder Ändern von Inhalten zu beginnen, ziehen Sie ein Element per Drag-and-Drop aus „Strukturen“ auf die Arbeitsfläche. Bearbeiten Sie die Einstellungen im Bereich auf der rechten Seite.
 
@@ -327,7 +327,7 @@ Warnhinweise geben Hinweise auf Empfehlungen und zeigen Best Practices, wie etwa
 >
 >Das Hinzufügen einer Abmelde-Option ist für [operative E-Mails](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) (Nicht-Marketing) nicht erforderlich.
 
-* **Textversion von HTML ist leer**: Sie müssen eine Textversion Ihres E-Mail-Textkörpers definieren, für den Fall, dass HTML-Inhalte nicht angezeigt werden können.
+* **Textversion von HTML ist leer**: Sie müssen eine Textversion Ihres E-Mail-Textkörpers für den Fall definieren, dass HTML-Inhalte nicht angezeigt werden können.
 
 * **Leerer Link ist im E-Mail-Text vorhanden**: Überprüfen Sie, ob alle Links in Ihrer E-Mail korrekt sind.
 
@@ -351,7 +351,7 @@ Um eine Vorschau Ihres E-Mail-Inhalts anzuzeigen, klicken Sie **Inhalt simuliere
 
 ## Referenzieren einer E-Mail {#reference-an-email}
 
-Wenn Sie Ihre E-Mail in einem E-Mail-Programm erstellt haben, kann sie nur in diesem Programm verwendet werden. Wenn Sie Ihre E-Mail im Design Studio erstellt haben, kann sie von Smart-Kampagnen und/oder Smart-Listen wie jede andere E-Mail referenziert werden.
+E-Mail-Designer-E-Mails sind in allen E-Mail-, Interaktions-, Standard- und Veranstaltungsprogrammen verfügbar (mit Ausnahme von interaktiven Webinar-Programmen). Wenn Sie Ihre E-Mail im Design Studio erstellt haben, kann sie von Smart-Kampagnen und/oder Smart-Listen wie jede andere E-Mail referenziert werden.
 
 * Verweisen Sie in einer Smart List darauf, indem [ die üblichen Schritte ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md).
 

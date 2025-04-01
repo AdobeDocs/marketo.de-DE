@@ -3,9 +3,9 @@ description: E-Mail-Vorlagen - Marketo-Dokumente - Produktdokumentation
 title: E-Mail-Vorlagen
 feature: Email Editor
 exl-id: 92af4ba4-f214-423c-ab2d-ade07b368797
-source-git-commit: 4b6d3c4f91fe117511ad3235f757ec904d9bafa2
+source-git-commit: cf4df30b575061bde18cf38e355604b970b7c51e
 workflow-type: tm+mt
-source-wordcount: '1843'
+source-wordcount: '1840'
 ht-degree: 4%
 
 ---
@@ -16,7 +16,7 @@ Für einen beschleunigten und verbesserten Design-Prozess können Sie eigenstän
 
 >[!PREREQUISITES]
 >
->Um auf den neuen E-Mail-Designer zugreifen zu können, muss Ihr Marketo Engage-Abonnement auf das [Adobe Identity Management System (IMS) migriert ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Wenn Ihre Anfrage noch nicht bearbeitet wurde und Sie eine Beschleunigung anfordern möchten, wenden Sie sich bitte an das Adobe-Account-Team (Ihren Account Manager) oder an den [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support).
+>Um auf den neuen E-Mail-Designer zugreifen zu können, muss Ihr Marketo Engage-Abonnement auf das [Adobe Identity Management System (IMS) migriert ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Wenn Ihre Anfrage noch nicht bearbeitet wurde und Sie eine Beschleunigung anfordern möchten, wenden Sie sich bitte an das Adobe Account Team (Ihren Account Manager) oder an den [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support).
 
 >[!NOTE]
 >
@@ -58,7 +58,7 @@ Definieren Sie Ihre Inhalte, indem Sie strukturelle Elemente mit einfachen Drag-
 
 ### HTML importieren {#import-your-html}
 
-Sie können vorhandenen HTML-Inhalt importieren, um Ihre E-Mail-Vorlagen zu entwerfen. Der Inhalt kann wie folgt lauten:
+Sie können vorhandene HTML-Inhalte importieren, um Ihre E-Mail-Vorlagen zu entwerfen. Der Inhalt kann wie folgt lauten:
 
 * Eine HTML-Datei mit integriertem Stylesheet
 
@@ -68,7 +68,7 @@ Sie können vorhandenen HTML-Inhalt importieren, um Ihre E-Mail-Vorlagen zu entw
 >
 >Die Dateistruktur des komprimierten Ordners ist freigestellt. Verweise müssen jedoch relativ sein und mit der Baumstruktur des ZIP-Ordners übereinstimmen.
 
-1. Wählen Sie auf _Seite „Vorlage_&quot; die Option **HTML importieren** aus.
+1. Wählen Sie auf _Seite „Vorlage_&quot; **HTML importieren** aus.
 
 1. Ziehen Sie die gewünschte HTML- oder ZIP-Datei per Drag-and-Drop (oder wählen Sie eine Datei auf Ihrem Computer aus) und klicken Sie auf **Importieren**.
 
@@ -78,7 +78,7 @@ Sie können vorhandenen HTML-Inhalt importieren, um Ihre E-Mail-Vorlagen zu entw
    >
    >Wenn der HTML-Inhalt hochgeladen wird, befindet sich der Inhalt im Kompatibilitätsmodus . In diesem Modus können Sie nur Ihren Text personalisieren, Links hinzufügen oder Assets zu Ihren Inhalten hinzufügen.
 
-1. Um die Inhaltskomponenten von Email Designer nutzen zu können, klicken Sie auf die Registerkarte **HTML-Konverter** und anschließend auf **Konvertieren**.
+1. Um die Inhaltskomponenten von Email Designer nutzen zu können, klicken Sie auf die Registerkarte **HTML Converter** und dann auf **Convert**.
 
    >[!CAUTION]
    >
@@ -126,7 +126,7 @@ Wählen Sie eine der vordefinierten Vorlagen für einen Vorsprung beim Design Ih
 
 >[!ENDTABS]
 
-## Hinzufügen von Struktur und Inhalt {#add-structure-and-content}
+## Hinzufügen von Struktur und Inhalten {#add-structure-and-content}
 
 1. Um mit dem Erstellen oder Ändern von Inhalten zu beginnen, ziehen Sie ein Element per Drag-and-Drop aus „Strukturen“ auf die Arbeitsfläche. Bearbeiten Sie die Einstellungen im Bereich auf der rechten Seite.
 
@@ -299,13 +299,13 @@ Nutzen Sie die Ansicht- und Inhaltsvalidierungsoptionen, die im visuellen E-Mail
 
 * **Design ändern**: Kehren Sie zur Seite _Design Ihrer Vorlage_ zurück. Von hier aus können Sie jede Aktion ausführen, die im Abschnitt [Gestalten Ihrer Vorlage](#design-your-template) beschrieben wird.
 
-* **HTML exportieren**: Laden Sie den Inhalt auf der visuellen Arbeitsfläche auf Ihr lokales System im HTML-Format herunter, das als ZIP-Datei verpackt ist.
+* **HTML exportieren**: Laden Sie den Inhalt auf der visuellen Arbeitsfläche im HTML-Format in Form einer ZIP-Datei auf Ihr lokales System herunter.
 
 ## Vorlagendetails anzeigen {#view-template-details}
 
 Klicken Sie auf _Listenseite „E_ Mail-Vorlagen“ auf den Namen einer E-Mail-Vorlage, um deren Details anzuzeigen.
 
-(assets/view-template-details-1.png
+![](assets/view-template-details-1.png)
 
 Grundlegende Details wie Name und Beschreibung können bearbeitet werden. Klicken Sie auf eine Stelle außerhalb des bearbeiteten Felds, um die Änderungen zu speichern.
 
@@ -319,7 +319,7 @@ Wenn aktive Warnhinweise vorhanden sind (Fehler/Warnungen für die E-Mail-Vorlag
 
 ## Anzeigen der von Verweisen verwendeten E-Mail-Vorlage {#email-template-used-by-references}
 
-Klicken Sie in der E-Mail-Vorlagenübersicht auf die Registerkarte **Verwendet von**, um Details dazu anzuzeigen, wo diese E-Mail-Vorlage auf dem Marketo Engage verwendet wurde.
+Klicken Sie in der E-Mail-Vorlagenübersicht auf die Registerkarte **Verwendet von**, um Details dazu anzuzeigen, wo diese E-Mail-Vorlage in Marketo Engage verwendet wurde.
 
 ![](assets/email-template-used-by-references-1.png)
 
