@@ -5,9 +5,9 @@ feature: Interactive Webinars
 hide: true
 hidefromtoc: true
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: 232b7a513be6ad9d4c3a524d2f78cd02df5abe6f
+source-git-commit: 374226d3b12cdffe1d0f2e04a1cb00d2f3135d22
 workflow-type: tm+mt
-source-wordcount: '518'
+source-wordcount: '556'
 ht-degree: 0%
 
 ---
@@ -15,10 +15,6 @@ ht-degree: 0%
 # GenAI-Funktionen {#gen-ai-features}
 
 Automatische Generierung von Kapiteln und Zusammenfassungen für aufgezeichnete Webinare, wodurch die Zugänglichkeit verbessert und die Navigation für Ihre Zielgruppe erleichtert werden.
-
->[!PREREQUISITES]
->
->Bevor Sie diese Funktionen verwenden können, müssen Sie zunächst die Adobe GenAI-Nutzungsbedingungen akzeptieren. Falls Sie dies noch nicht getan haben, wenden Sie sich bitte an das Adobe Account Team (Ihren Account Manager), um weitere Informationen zu erhalten.
 
 * **Automatische Kapitelgenerierung**: KI-gestützte Technologie erstellt Kapitel für Ihre Webinar-Inhalte.
 
@@ -28,15 +24,25 @@ Automatische Generierung von Kapiteln und Zusammenfassungen für aufgezeichnete 
 
 * **Einfache Integration**: Fügen Sie Ihren Landingpages mühelos Kapitel und Zusammenfassungen hinzu, indem Sie den HTML-Code in den gewünschten Web-Seiten-Editor kopieren.
 
+## GenAI aktivieren {#enable-genai}
+
+>[!PREREQUISITES]
+>
+>Bevor Sie diese Funktionen verwenden können, müssen Sie zunächst die Adobe GenAI-Nutzungsbedingungen akzeptieren. Falls Sie dies noch nicht getan haben, wenden Sie sich bitte an das Adobe Account Team (Ihren Account Manager), um weitere Informationen zu erhalten.
+
+Nachdem Sie die Adobe GenAI-Nutzungsbedingungen akzeptiert haben, müssen Sie sie für einzelne Benutzer aktivieren. Gehen Sie dazu zu **[!UICONTROL Admin]** > **[!UICONTROL Interaktive Webinare]** und wählen Sie aus, welche Benutzer Zugriff auf GenAI haben sollen.
+
+![](assets/gen-ai-features-1.png){width="600" zoomable="yes"}
+
 ## Zugriff {#how-to-access}
 
 1. Navigieren Sie zur Seite „Webinar-Übersicht“ in Interaktive Webinare in Marketo Engage.
 
 1. Warten Sie nach der Durchführung Ihres On-Demand-Webinars 30 bis 60 Minuten, bis die KI Ihre Aufzeichnung verarbeitet hat. Die Schaltfläche Generieren wird anklickbar, sobald sie verfügbar ist.
 
-1. Klicken Sie **Generieren**.
+1. Klicken Sie **[!UICONTROL Generieren]**.
 
-   ![](assets/gen-ai-features-1.png){width="800" zoomable="yes"}
+   ![](assets/gen-ai-features-2.png){width="800" zoomable="yes"}
 
 1. Eine neue Registerkarte wird geöffnet, auf der KI-generierte Kapitel und eine Textzusammenfassung angezeigt werden.
 
@@ -44,7 +50,7 @@ Automatische Generierung von Kapiteln und Zusammenfassungen für aufgezeichnete 
 
 1. Überprüfen der generierten Kapitel und der Zusammenfassung.
 
-1. Wenn Änderungen erforderlich sind, klicken Sie auf die Schaltfläche **Bearbeiten**.
+1. Wenn Änderungen erforderlich sind, klicken Sie auf die Schaltfläche **[!UICONTROL Bearbeiten]**.
 
    Vornehmen von Änderungen:
 
@@ -52,23 +58,23 @@ Automatische Generierung von Kapiteln und Zusammenfassungen für aufgezeichnete 
 
    * Passen Sie bei Bedarf Zeitstempel an, indem Sie die Werte in den Zeitstempelfeldern bearbeiten.
 
-   * Löschen Sie unerwünschte Kapitel, indem Sie sie auswählen und auf **Löschen** klicken.
+   * Löschen Sie unerwünschte Kapitel, indem Sie sie auswählen und auf **[!UICONTROL Löschen]** klicken.
 
-   * Führen Sie zwei aufeinander folgende Kapitel zusammen, indem Sie sie auswählen und auf **Zusammenführen** klicken.
+   * Führen Sie zwei aufeinander folgende Kapitel zusammen, indem Sie sie auswählen und auf **[!UICONTROL Zusammenführen]** klicken.
 
       * AI generiert ein zusammengesetztes Kapitel, das aus den beiden ausgewählten Kapiteln besteht
 
       * Um mehrere Kapitel zusammenzuführen, müssen Sie zwei gleichzeitig durchführen
 
-     ![](assets/gen-ai-features-2.png){width="800" zoomable="yes"}
+     ![](assets/gen-ai-features-3.png){width="800" zoomable="yes"}
 
    >[!NOTE]
    >
    >* Bei Bedarf können Sie die Qualität der generierten Kapitel/Zusammenfassungen mit den Symbolen __ Daumen hoch![ ](assets/icon-thumbs-up.png) oder _Daumen runter_![Daumen runter](assets/icon-thumbs-down.png) bewerten. Sie können auch alle problematischen Inhalte markieren, indem Sie auf das Markierungssymbol (![) ](assets/icon-flag.png).
    >
-   >* Wenn Sie mit der ursprünglichen Zusammenfassung nicht zufrieden sind, können Sie auf die Schaltfläche **Zusammenfassung neu erstellen** klicken, und es wird eine andere Version generiert.
+   >* Wenn Sie mit der ursprünglichen Zusammenfassung nicht zufrieden sind, können Sie auf die Schaltfläche **[!UICONTROL Zusammenfassung neu erstellen]** klicken, und es wird eine andere Version generiert.
 
-1. Speichern Sie Ihre Änderungen, indem Sie auf **Speichern** oben rechts auf dem Bildschirm klicken.
+1. Speichern Sie Ihre Änderungen, indem Sie auf **[!UICONTROL Speichern]** oben rechts auf dem Bildschirm klicken.
 
 ## Verwenden generierter Inhalte {#use-generated-content}
 
@@ -76,13 +82,13 @@ Nachdem Sie den gewünschten Inhalt kopiert haben, fügen Sie ihn in den Editor 
 
 ### Zusammenfassung {#summary}
 
-**HTML kopieren** - Klicken Sie auf die Schaltfläche **HTML kopieren**, um den gesamten Text abzurufen, wobei der HTML-Code ihn in einer Tabelle formatieren muss.
+**HTML kopieren** - Klicken Sie auf die Schaltfläche **[!UICONTROL HTML kopieren]**, um den gesamten Text abzurufen, wobei der HTML-Code ihn in einer Tabelle formatieren muss.
 
 **Nur Text** - Wenn Sie nur den Text kopieren möchten, markieren Sie ihn einfach und klicken Sie bei gedrückter Strg-/Befehlstaste+C mit der rechten Maustaste darauf.
 
 ### Kapitel {#chapters}
 
-**HTML kopieren** - Klicken Sie auf die Schaltfläche **HTML kopieren**, um die Aufzeichnung und ihre Kapitel in einem Videoplayer zu formatieren.
+**HTML kopieren** - Klicken Sie auf die Schaltfläche **[!UICONTROL HTML kopieren]**, um die Aufzeichnung und ihre Kapitel in einem Videoplayer zu formatieren.
 
 ## Zu beachtende Punkte {#things-to-note}
 
