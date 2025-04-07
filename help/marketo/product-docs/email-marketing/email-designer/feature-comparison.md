@@ -6,10 +6,8 @@ description: In dieser Tabelle können Sie die Verfügbarkeit der Funktionen in 
 feature: Email Editor
 role: User
 level: Beginner, Intermediate
-hide: true
-hidefromtoc: true
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 659fca6a02251b35fc8443d235b831a383a43d35
+source-git-commit: f41d0595db695fc485a209aa2f9646a76e57acdf
 workflow-type: tm+mt
 source-wordcount: '916'
 ht-degree: 13%
@@ -32,7 +30,7 @@ Bitte überprüfen Sie diese Seite (sowie die [aktuellen Versionshinweise](/help
 <tbody>
   <tr>
     <td>OOTB-Starter-E-Mail-Vorlagen</td>
-    <td>Möglichkeit zur Verwendung von OOTB-Vorlagen, die von E-Mail-Designer bereitgestellt werden.</td>
+    <td>Möglichkeit zur Verwendung von nativen Vorlagen, die von E-Mail-Designer bereitgestellt werden.</td>
     <td>Verfügbar</td>
     <td>Verfügbar</td>
   </tr>
@@ -98,7 +96,7 @@ Bitte überprüfen Sie diese Seite (sowie die [aktuellen Versionshinweise](/help
   </tr>
   <tr>
     <td>KI-Assistent</td>
-    <td>Möglichkeit, Betreffzeile, Teil des Inhalts oder gesamte E-Mail über generative KI-Modelle zu generieren.</td>
+    <td>Möglichkeit, Betreffzeile, Teil des Inhalts oder gesamte E-Mail über <a href="/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md">Generative KI</a>-Modelle zu generieren.</td>
     <td>Nicht verfügbar</td>
     <td>Verfügbar</td>
   </tr>
@@ -110,7 +108,7 @@ Bitte überprüfen Sie diese Seite (sowie die [aktuellen Versionshinweise](/help
   </tr>
   <tr>
     <td>Sperren von Inhalten</td>
-    <td>Möglichkeit, Inhalte in einer E-Mail-Vorlage zu sperren, damit sie beim Erstellen von E-Mails nicht geändert werden kann.</td>
+    <td>Möglichkeit zum <a href="/help/marketo/product-docs/email-marketing/email-designer/content-locking.md"> (Sperren von </a>) in einer E-Mail-Vorlage, sodass sie beim Erstellen von E-Mails nicht geändert werden kann.</td>
     <td>Nicht verfügbar</td>
     <td>Verfügbar</td>
   </tr>
@@ -164,7 +162,7 @@ Bitte überprüfen Sie diese Seite (sowie die [aktuellen Versionshinweise](/help
   </tr>
   <tr>
     <td>Integration mit Adobe Express</td>
-    <td>Möglichkeit zum Erstellen/Ändern von Bildern mit Adobe Express.</td>
+    <td>Möglichkeit zum Erstellen/Ändern von Bildern mit <a href="/help/marketo/product-docs/email-marketing/email-designer/edit-images-adobe-express.md">Adobe Express</a>.</td>
     <td>Nicht verfügbar</td>
     <td>Verfügbar</td>
   </tr>
@@ -178,7 +176,7 @@ Bitte überprüfen Sie diese Seite (sowie die [aktuellen Versionshinweise](/help
     <td>Module</td>
     <td>Möglichkeit zur Vorab-Erstellung spezifischer Struktur- und Inhaltsvorgaben, die in E-Mails wiederverwendet werden sollen.</td>
     <td>Verfügbar</td>
-    <td>Verfügbar als anpassbares Fragment</td>
+    <td>Verfügbar als <a href="/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md">anpassbares Fragment</a></td>
   </tr>
   <tr>
     <td>Integration von AEM Assets Cloud Service</td>
@@ -241,6 +239,18 @@ Bitte überprüfen Sie diese Seite (sowie die [aktuellen Versionshinweise](/help
     <td>Demnächst</td>
   </tr>
   <tr>
+    <td>Velocity Scripting</td>
+    <td>Möglichkeit zur Verwendung von Velocity-Skripten in E-Mails.</td>
+    <td>Verfügbar</td>
+    <td>Nicht benötigt</td>
+  </tr>
+   <tr>
+    <td>Handlebar-Skript</td>
+    <td>Möglichkeit zur Verwendung von Handlebar-Skripten in E-Mails.</td>
+    <td>Nicht verfügbar</td>
+    <td>Geplant für Q3 '25</td>
+  </tr>
+  <tr>
     <td>Litmus-Integration</td>
     <td>Möglichkeit zur Integration mit Litmus, um zu sehen, wie Ihre E-Mails in verschiedenen E-Mail-Clients dargestellt werden.</td>
     <td>Nicht verfügbar</td>
@@ -255,12 +265,6 @@ Bitte überprüfen Sie diese Seite (sowie die [aktuellen Versionshinweise](/help
   <tr>
     <td>Spam Assassin-Integration</td>
     <td>Die Möglichkeit, potenzielle E-Mails zu erkennen, die vor dem Versand als Spam gekennzeichnet werden.</td>
-    <td>Nicht verfügbar</td>
-    <td>Geplant für Q3 '25</td>
-  </tr>
-  <tr>
-    <td>Handlebar-Skript</td>
-    <td>Möglichkeit zur Verwendung von Handlebar-Skripten in E-Mails.</td>
     <td>Nicht verfügbar</td>
     <td>Geplant für Q3 '25</td>
   </tr>
@@ -300,10 +304,5 @@ Bitte überprüfen Sie diese Seite (sowie die [aktuellen Versionshinweise](/help
     <td>Verfügbar</td>
     <td>Nicht verfügbar</td>
   </tr>
-  <tr>
-    <td>Velocity Scripting</td>
-    <td>Möglichkeit zur Verwendung von Velocity-Skripten in E-Mails.</td>
-    <td>Verfügbar</td>
-    <td>Nicht benötigt</td>
-  </tr>
 </tbody></table>
+
