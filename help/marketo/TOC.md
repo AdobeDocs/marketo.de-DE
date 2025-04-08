@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 9bb15816314b3803969334306a62302543a04ae1
+source-git-commit: 0e73866a4187d7bff67ce199e8d01e55081bcbef
 workflow-type: tm+mt
-source-wordcount: '9429'
+source-wordcount: '9433'
 ht-degree: 4%
 
 ---
@@ -543,7 +543,7 @@ ht-degree: 4%
             + Microsoft Dynamics 2016/Dynamics 365 On-Premise-{#microsoft-dynamics-2016-dynamics-365-on-premises}
                + [Schritt 1 von 3: Installieren der Marketo-Lösung - On-Premise 2015/On-Premise 2016 Dynamics 365](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md)
                + [Schritt 2 von 3: Einrichten des Marketo Sync-Benutzers in Dynamics 2015 On-Premise / 2016 Dynamics 365 On-Premise](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
-               + [Schritt 3 von 3: Marketo und Dynamics 2015 On-Premises / 2016 Dynamics 365 On-Premises verbinden](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-3-of-3-connect.md)
+               + [Schritt 3 von 3: Marketo und Dynamics 2015 On-Premise / 2016 Dynamics 365 On-Premise verbinden](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-3-of-3-connect.md)
             + Microsoft Dynamics 365 mit ROPC-Anschluss{#microsoft-dynamics-365-with-ropc-connection}
                + [Schritt 1 von 4: Marketo-Lösung mit ROPC-Verbindung installieren](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md)
                + [Schritt 2 von 4: Einrichten der Marketo-Lösung mit ROPC-Verbindung](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md)
@@ -964,6 +964,7 @@ ht-degree: 4%
             + [Hinzufügen eines Snippets zu einer Landingpage](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md)
             + [Hinzufügen zusätzlicher Landingpage-CNAMEs](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-additional-landing-page-cnames.md)
             + [Hinzufügen von SSL zu Ihren Landingpages](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-ssl-to-your-landing-pages.md)
+            + [TEMP. SSL-DOC hinzufügen](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-ssl-temp-doc.md)
             + [Hinzufügen von Text und Token zu einer Landingpage](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-text-and-tokens-to-a-landing-page.md)
             + [Aktivieren personalisierter URLs für eine Landingpage](product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)
             + [Aktivieren personalisierter URLs für Ihr Konto](product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
@@ -1208,7 +1209,7 @@ ht-degree: 4%
          + [Zur Marketing-Kampagne hinzufügen](product-docs/marketo-sales-connect/campaigns/add-to-marketing-campaign.md)
          + [Kampagnen-Schritttypen](product-docs/marketo-sales-connect/campaigns/campaign-step-types.md)
          + [Erstellen einer Kampagne](product-docs/marketo-sales-connect/campaigns/create-a-campaign.md)
-         + [Entfernen Personen aus einem Kampagne](product-docs/marketo-sales-connect/campaigns/remove-people-from-a-campaign.md)
+         + [Personen aus einer Kampagne entfernen](product-docs/marketo-sales-connect/campaigns/remove-people-from-a-campaign.md)
          + [Planen einer Kampagne](product-docs/marketo-sales-connect/campaigns/schedule-a-campaign.md)
          + [Wochenenden überspringen](product-docs/marketo-sales-connect/campaigns/skip-weekends.md)
          + [Deaktivieren einer Kampagne](product-docs/marketo-sales-connect/campaigns/turn-off-a-campaign.md)
@@ -1632,8 +1633,8 @@ ht-degree: 4%
    + Marketo Sky {#marketo-sky}
       + [Erwartetes Verhalten](product-docs/marketo-sky/expected-behavior.md)
    + Mobile Marketing-{#mobile-marketing}
-      + Administrator {#admin}
-         + [hinzufügen eines mobilen Applikation](product-docs/mobile-marketing/admin/add-a-mobile-app.md)
+      + Admin {#admin}
+         + [Hinzufügen einer Mobile App](product-docs/mobile-marketing/admin/add-a-mobile-app.md)
          + [Hinzufügen von Vibes als LaunchPoint-Service](product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md)
          + [Mobile Zugriffssicherheit authentifizieren](product-docs/mobile-marketing/admin/authenticate-mobile-access-security.md)
          + [Vor dem Erstellen von Push-Benachrichtigungen und In-App-Nachrichten](product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md)
@@ -1647,16 +1648,16 @@ ht-degree: 4%
          + Erstellen von In-App-Nachrichten {#creating-in-app-messages}
             + [Erstellen einer In-App-Nachricht](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message.md)
             + [Hinzufügen von In-App-Nachrichtenbildern](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/add-in-app-message-images.md)
-            + [Layout für Ihre In-Applikation-Nachricht auswählen](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
-            + [Erstellen Applikation Message Text](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-in-app-message-text.md)
-            + [Festlegen auf die Schaltfläche &quot;Verwerfen&quot; und bestätigen Sie die Nachricht.](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-dismiss-button-and-approve-the-message.md)
-            + [Festlegen Applikation Nachricht Hintergrund](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md)
-            + [Festlegen auf die Schaltfläche &quot;In-Applikation-Nachricht&quot;](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-button.md)
-         + In-Applikation-Nachricht senden {#sending-your-in-app-message}
+            + [Layout für Ihre In-App-Nachricht auswählen](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
+            + [Erstellen von In-App-Nachrichtentext](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-in-app-message-text.md)
+            + [Schaltfläche „Schließen“ einrichten und Nachricht genehmigen](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-dismiss-button-and-approve-the-message.md)
+            + [Einrichten des In-App-Nachrichten-Hintergrunds](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md)
+            + [Einrichten der In-App-Nachrichtenschaltfläche](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-button.md)
+         + In-App-Nachrichten-{#sending-your-in-app-message} senden
             + [In-App-Nachricht senden](product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md)
             + [Genehmigen Ihrer In-App-Nachricht](product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/approve-your-in-app-message.md)
             + [Planen der In-App-Nachricht](product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/schedule-your-in-app-message.md)
-            + [Wählen Sie Ihre In-Applikation Nachricht aus](product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/select-your-in-app-message.md)
+            + [In-App-Nachricht auswählen](product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/select-your-in-app-message.md)
             + [Festlegen der Audience für In-App-Nachrichten](product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/set-your-in-app-message-audience.md)
       + Push-Benachrichtigungen {#push-notifications}
          + [Hinzufügen eines neuen Testgeräts](product-docs/mobile-marketing/push-notifications/adding-a-new-test-device.md)
@@ -2074,16 +2075,16 @@ ht-degree: 4%
          + [Versionshinweise: Juli 2013](release-notes/previous-releases/2013/release-notes-july-2013.md)
          + [Versionshinweise: Juni 2013](release-notes/previous-releases/2013/release-notes-june-2013.md)
          + [Versionshinweise: März 2013](release-notes/previous-releases/2013/release-notes-march-2013.md)
-         + [Versionshinweise: Mai 2013](release-notes/previous-releases/2013/release-notes-may-2013.md)
+         + [Mai 2013 - Versionshinweise](release-notes/previous-releases/2013/release-notes-may-2013.md)
          + [Versionshinweise: Oktober 2013](release-notes/previous-releases/2013/release-notes-october-2013.md)
          + [Versionshinweise: September 2013](release-notes/previous-releases/2013/release-notes-september-2013.md)
       + {#2012} 2012
          + [Versionshinweise: April 2012](release-notes/previous-releases/2012/release-notes-april-2012.md)
          + [Versionshinweise: Dezember 2012](release-notes/previous-releases/2012/release-notes-december-2012.md)
-         + [Versionshinweise: Jan/Feb 2012](release-notes/previous-releases/2012/release-notes-jan-feb-2012.md)
+         + [Versionshinweise: Januar/Februar 2012](release-notes/previous-releases/2012/release-notes-jan-feb-2012.md)
          + [Versionshinweise: Juni 2012](release-notes/previous-releases/2012/release-notes-june-2012.md)
          + [Versionshinweise: März 2012](release-notes/previous-releases/2012/release-notes-march-2012.md)
-         + [Versionshinweise: Mai 2012](release-notes/previous-releases/2012/release-notes-may-2012.md)
+         + [Mai 2012 - Versionshinweise](release-notes/previous-releases/2012/release-notes-may-2012.md)
          + [Versionshinweise: Oktober 2012](release-notes/previous-releases/2012/release-notes-october-2012.md)
          + [Versionshinweise: September 2012](release-notes/previous-releases/2012/release-notes-september-2012.md)
       + [2010-2011](release-notes/previous-releases/2010-2011.md)

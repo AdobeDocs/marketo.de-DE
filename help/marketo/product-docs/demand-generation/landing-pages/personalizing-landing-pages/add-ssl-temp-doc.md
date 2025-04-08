@@ -4,9 +4,9 @@ title: Hinzufügen von SSL zu Ihren Landingpages
 hide: true
 hidefromtoc: true
 feature: Landing Pages
-source-git-commit: f41d0595db695fc485a209aa2f9646a76e57acdf
+source-git-commit: 0e73866a4187d7bff67ce199e8d01e55081bcbef
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -41,8 +41,8 @@ SCREENSHOT
 
 SCREENSHOT
 
-Hinweis:
-
-Die Spalte SSL-Zertifikat in der Liste zeigt den SSL-Zertifikatstatus für den gesamten Domain-Alias an, der nach der Veröffentlichung dieser Funktion erstellt wurde. Wenn Sie SSL für eine Domain über die Unterstützung aktiviert haben, ist das entsprechende SSL-Zertifikat weiterhin vorhanden, aber diese Tabelle enthält nur SSL-Zertifikate für Domains, die mit dieser Funktion hinzugefügt wurden
-
-Es kann bis zu 3 Minuten dauern, bis SSL im STATUS BEREIT ist, und es muss die Seite aktualisiert werden, damit Änderungen in der Benutzeroberfläche propagiert werden.
+>[!NOTE]
+>
+>* Die Spalte SSL-Zertifikat in der Liste zeigt den Zertifikatstatus für den gesamten Domain-Alias an, der nach der Veröffentlichung dieser Funktion erstellt wurde (DATUM). Wenn Sie SSL für eine Domain über den Marketo-Support aktiviert haben, ist das Zertifikat weiterhin vorhanden, wird aber nicht in der Tabelle angezeigt. Diese Tabelle enthält nur SSL-Zertifikate für Domains, die mithilfe der Schritte in diesem Artikel hinzugefügt wurden.
+>
+>* Es kann bis zu drei Minuten dauern, bis SSL BEREIT ist. Sie müssen die Seite aktualisieren, damit die Änderungen angezeigt werden.
