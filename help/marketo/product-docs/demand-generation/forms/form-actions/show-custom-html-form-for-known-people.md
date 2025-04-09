@@ -4,16 +4,16 @@ description: Benutzerdefiniertes HTML-Formular für Bekannte Personen anzeigen -
 title: Benutzerdefiniertes HTML-Formular für Bekannte Personen anzeigen
 exl-id: 668216ea-7c2b-4204-81a5-56547c3baf1d
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 55964499f5d49258539492f952513833af5692b5
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '254'
 ht-degree: 1%
 
 ---
 
 # Benutzerdefiniertes HTML-Formular für Bekannte Personen anzeigen {#show-custom-html-form-for-known-people}
 
-Wenn ein Besucher Cookies erhält (bekannte Person, die in der Vergangenheit eine E-Mail-Adresse angegeben hat), warum sollte man sich dann mit dem Formular beschäftigen? Gib ihnen einfach die Download-Schaltfläche. So geht&#39;s.
+Wenn ein Besucher in der Vergangenheit seinen vollständigen Namen und seine E-Mail-Adresse angegeben hat und Sie nicht möchten, dass er/sie das gesamte Formular erhält, erfahren Sie, wie Sie ihm/ihr einige benutzerdefinierte HTML zeigen (z. B. nur eine Download-Schaltfläche).
 
 1. Navigieren Sie **Marketing-Aktivitäten**.
 
@@ -27,7 +27,7 @@ Wenn ein Besucher Cookies erhält (bekannte Person, die in der Vergangenheit ein
 
    ![](assets/image2014-9-15-12-3a24-3a36.png)
 
-1. Wenn **Bekannter Besucher, Anzeigen**: auf **Benutzerdefiniertes HTML** setzen
+1. HTML Wenn &quot;**Besucher, Anzeigen“** „Benutzerdefinierte **&quot;**.
 
    ![](assets/image2014-9-15-12-3a24-3a59.png)
 
