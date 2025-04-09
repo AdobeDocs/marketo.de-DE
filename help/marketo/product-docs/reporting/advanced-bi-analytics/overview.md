@@ -1,13 +1,11 @@
 ---
 description: Übersicht über die erweiterte BI-Analyse - Marketo-Dokumente - Produktdokumentation
 title: Erweiterte BI-Analytics-Übersicht
-hide: true
-hidefromtoc: true
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: a3c3b3d56282092a81b888bdd41969d2b7c3d0d6
+source-git-commit: 93d1d33e4f4874612269e1b89151a78181193c62
 workflow-type: tm+mt
-source-wordcount: '1021'
+source-wordcount: '996'
 ht-degree: 1%
 
 ---
@@ -42,33 +40,33 @@ Diese Verbesserungen helfen Ihnen, Zeit zu sparen, wertvollere Einblicke zu gewi
 
 1. Klicken Sie in My Marketo auf die Kachel **[!UICONTROL Advanced BI Analytics (Beta]**.
 
-   ![](assets/advanced-bi-analytics-overview-1.png){width=„800“ zoomable=„yes“}
+   ![](assets/advanced-bi-analytics-overview-1.png)
 
 1. Klicken Sie auf der **[!UICONTROL Berichte]** auf **[!UICONTROL Bericht erstellen]**.
 
-   ![](assets/advanced-bi-analytics-overview-2.png){width=„800“ zoomable=„yes“}
+   ![](assets/advanced-bi-analytics-overview-2.png)
 
-1. Wählen Sie die gewünschten Kennzahlen aus.
+1. Die gewünschten Kennzahlen auswählen.
 
-   ![](assets/advanced-bi-analytics-overview-3.png){width=&quot;800&quot; zoomable=&quot;yes&quot;}
+   ![](assets/advanced-bi-analytics-overview-3.png)
 
 1. Wählen Sie die gewünschten Dimensionen aus.
 
-   ![](assets/advanced-bi-analytics-overview-4.png){width=&quot;800&quot; zoomable=&quot;yes&quot;}
+   ![](assets/advanced-bi-analytics-overview-4.png)
 
 1. Wählen Sie Ihre bevorzugte Visualisierung aus.
 
-   ![](assets/advanced-bi-analytics-overview-5.png){width=&quot;800&quot; zoomable=&quot;yes&quot;}
+   ![](assets/advanced-bi-analytics-overview-5.png)
 
-1. hinzufügen Filter, indem Sie ein Dimension Attribut per Drag-and-Drop verschieben.
+1. Fügen Sie Filter hinzu, indem Sie ein Dimensionsattribut per Drag-and-Drop ziehen.
 
-   ![](assets/advanced-bi-analytics-overview-6.png){width=&quot;800&quot; zoomable=&quot;yes&quot;}
+   ![](assets/advanced-bi-analytics-overview-6.png)
 
-## Demo Video {#video}
+## Video-Demo {#video}
 
-Ansehen folgenden Video sehen Sie ein Beispiel für eine Seite Drillthrough-Bericht-Erlebnis.
+Sehen Sie sich das folgende Video an, um ein Beispiel für ein mehrseitiges Drill-Through-Berichtserlebnis zu sehen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on)
 
 ## Standardberichte in Advanced BI Analytics {#standard-reports}
 
@@ -84,10 +82,10 @@ Die folgenden Standardberichte sind als Beispiele für Ihre benutzerdefinierten 
   <tbody>
     <tr>
       <td rowspan="8">E-Mail-Analyse</td>
-      <td>E-Mail - Gesendet Aktivität (in CST)</td>
+      <td>E-Mail - Aktivität „Gesendet“ (in CST)</td>
     </tr>
     <tr>
-      <td>E-Mail – Klickaktivität (in CST)</td>
+      <td>E-Mail - Klick-Aktivität (in CST)</td>
     </tr>
     <tr>
       <td>E-Mail - Aktivität öffnen (in CST)</td>
@@ -134,7 +132,7 @@ Die folgenden Standardberichte sind als Beispiele für Ihre benutzerdefinierten 
     </tr>
     <tr>
       <td rowspan="5">Programmanalyse</td>
-      <td>Top 10 Programme nach Erfolg</td>
+      <td>Top 10 der Programme nach Erfolg</td>
     </tr>
     <tr>
       <td>Top 10 der Programme nach Pipeline</td>
@@ -198,23 +196,23 @@ _Während der öffentlichen Betaversion:_
 
 * Ihre E-Mail-Abonnements in der klassischen -Version werden auf die neue -Version repliziert. Die E-Mail-Abonnements für das klassische Erlebnis funktionieren bis zur Einstellung des klassischen Erlebnisses am 1. Juni 2025.
 
-* Bestehende Benutzer von Revenue Explorer haben automatisch Zugriff auf die neue Erlebnis von Erweitert BI Analytics (Beta).
+* Bestehende Benutzer von Revenue Explorer haben automatisch Zugriff auf das neue Beta-Erlebnis (Advanced BI Analytics).
 
-## Den neuen Erlebnis kennenlernen {#learning-the-new-experience}
+## Lernen der neuen Erfahrung {#learning-the-new-experience}
 
-Die neue Erlebnis wird über einen eingebetteten Power BI-Dienst bereitgestellt.
+Das neue Visualisierungserlebnis wird über den eingebetteten Power BI-Service bereitgestellt.
 
-Eine kurze Anleitung zum Erlebnis der Visualisierung finden Sie Visit der [Dokumentation Microsoft Verwenden von Visuals in Power BI](https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/){Target-Komponente=&quot;_blank&quot;}. Bitte beachten Sie, dass Sie möglicherweise nicht alle diese Funktionen in Marketo Engage sehen.
+Ein kurzes Tutorial zum Visualisierungserlebnis finden Sie in der Dokumentation [Verwenden von Visualisierungen in Power BI](https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/) von Microsoft. Beachten Sie, dass möglicherweise nicht alle diese Funktionen in Marketo Engage angezeigt werden.
 
-### Wichtige Erlebnis Änderungen {#notable-experience-changes}
+### Wesentliche Erlebnisänderungen {#notable-experience-changes}
 
-Im Folgenden finden Sie Änderungen im neuen Erlebnis (Erweitert BI-Analytics) gegenüber dem klassischen Erlebnis (Revenue Explorer/Erweitert Report Builder).
+Im Folgenden finden Sie Änderungen am neuen Erlebnis (Advanced BI Analytics) im klassischen Erlebnis (Revenue Explorer/Advanced Report Builder).
 
-* Der Datumsfilter funktioniert gleichwertig. Allerdings hat sich die Syntax für die Angabe von Werten geändert. In Ihren vorhandenen benutzerspezifischen Berichten werden alle Datumsfilterwerte – mit Ausnahme von &quot;Tag der Woche&quot; – automatisch in die entsprechenden Entsprechungen in der neuen Erlebnis konvertiert. Die Unterstützung für &quot;Tag der Woche&quot;-Werte wurde eingestellt.
+* Der Datumsfilter funktioniert entsprechend, die Syntax zur Angabe von Werten hat sich jedoch geändert. In Ihren vorhandenen benutzerdefinierten Berichten werden alle Filterwerte vom Typ Datum - mit Ausnahme von „Tag der Woche“ - in der neuen -Version automatisch in ihre entsprechenden Entsprechungen konvertiert. Die Unterstützung für die Werte „Tag der Woche“ wurde eingestellt.
 
-* Bei den Filter vom Typ Zeichenfolge wird nun zwischen Groß- und Kleinschreibung unterschieden.
+* Bei den Filtern vom Typ Zeichenfolge wird jetzt zwischen Groß- und Kleinschreibung unterschieden.
 
-* Das Feld &quot;Laufzeitformel&quot; wird im klassischen Erlebnis nicht mehr unterstützt.
+* Das Feld Laufzeitformel in der klassischen -Version wird nicht mehr unterstützt.
 
 * Das E-Mail-Abonnement umfasst den PDF-Export anstelle der HTML des Berichts. Das neue E-Mail-Abonnement enthält nicht die Berichtsdefinition.
 
@@ -227,3 +225,7 @@ Im Folgenden finden Sie Änderungen im neuen Erlebnis (Erweitert BI-Analytics) g
 >[!NOTE]
 >
 >Sie können nicht mehr als ein Feld für benutzerdefinierte Feldergruppen in einen Berichtsbereich für die visuelle Formularmodell-Leistungsanalyse (Leads) aufnehmen.
+
+>[!MORELIKETHIS]
+>
+>[Metriken und Dimensionen](/help/marketo/product-docs/reporting/advanced-bi-analytics/metrics-and-dimensions.md)
