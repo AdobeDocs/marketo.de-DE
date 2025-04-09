@@ -4,16 +4,21 @@ title: Hinzufügen von SSL zu Ihren Landingpages
 hide: true
 hidefromtoc: true
 feature: Landing Pages
-source-git-commit: 0e73866a4187d7bff67ce199e8d01e55081bcbef
+exl-id: 00ec2d91-3d4f-4671-af9d-9750c1642d40
+source-git-commit: 1112af01c08835876f4a2385f304a33e2ddd48ff
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '313'
 ht-degree: 0%
 
 ---
 
 # Hinzufügen von SSL zu Ihren Landingpages {#add-ssl-to-your-landing-pages}
 
-Erfahren Sie, wie Sie den Alias Ihrer Marken-Domain (z. B. `http://business.adobe.com`) zu in Marketo Engage erstellten Landingpages hinzufügen, damit der Zugriff unter den jeweiligen Marken-Domains möglich ist.
+Mit der SSL-Verschlüsselung (Secure Socket Layer) können Sie alle Landingpages für eine Marketo Engage-Instanz sicher machen.
+
+Wenn Sie ein Web-Formular ausfüllen oder eine Landingpage besuchen, die von Marketo Engage gehostet wird, werden die Informationen standardmäßig über ein nicht sicheres Protokoll (HTTP) gesendet. Gemäß der Richtlinie Ihres Unternehmens möchten Sie möglicherweise die an Marketo gesendeten Informationen über (HTTPS) sichern. Wenn Sie beispielsweise `http://info.mydomain.com/` besuchen, wird es jetzt `https://info.mydomain.com/`.
+
+Marketo Engage verfolgt „Besuchte Web-Seite“ und „Link auf Web-Seite klicken“ standardmäßig über das nicht sichere HTTP-Protokoll. Wenn Sie möchten, dass Ihre Tracking-Links mit einem eigenen Zertifikat gesichert werden, müssen Sie Marketo einen separaten, nicht freigegebenen Server erstellen lassen, um ihn zu aktivieren. Um alle Aspekte der Interaktion eines Kontakts mit Ihnen zu sichern, müssen in der Regel sowohl Landingpages als auch Tracking-Links gesichert werden.
 
 SCREENSHOT
 
@@ -37,7 +42,7 @@ Dadurch wird automatisch ein SSL-Zertifikat für diese Domain hinzugefügt.
 
 SCREENSHOT
 
-## SSL für Standard-Domain aktivieren
+## SSL für Standard-Domain aktivieren {#enable-ssl-default-domain}
 
 SCREENSHOT
 
