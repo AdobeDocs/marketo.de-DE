@@ -4,9 +4,9 @@ description: Aktivieren/Deaktivieren der Synchronisierung benutzerdefinierter Ob
 title: Benutzerdefinierte Objektsynchronisierung aktivieren/deaktivieren
 exl-id: f17d9135-b33e-48c0-9220-131fb437e9e5
 feature: Salesforce Integration
-source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
+source-git-commit: 6293a11b9d48a20da4cb2448c8374c469679abdb
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -21,17 +21,17 @@ Benutzerdefinierte Objekte, die in Ihrer Salesforce-Instanz erstellt wurden, kö
 >
 >**Administratorberechtigungen erforderlich**
 
-1. Klicken Sie auf **[!UICONTROL Admin]**.
+1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
 
-   ![](assets/one.png)
+   ![](assets/enable-disable-custom-object-sync-1.png)
 
 1. Klicken Sie im Menü „Datenbankverwaltung“ auf **[!UICONTROL Salesforce-Objekte synchronisieren]**.
 
-   ![](assets/two-2.png)
+   ![](assets/enable-disable-custom-object-sync-2.png)
 
 1. Wenn dies das erste benutzerdefinierte Objekt ist, klicken Sie auf **[!UICONTROL Schema synchronisieren]**. Klicken Sie andernfalls auf **[!UICONTROL Schema aktualisieren]**, um sicherzustellen, dass Sie über die neueste verfügen.
 
-   ![](assets/image2014-12-10-10-3a14-3a44.png)
+   ![](assets/enable-disable-custom-object-sync-3.png)
 
 1. Wenn die globale Synchronisierung ausgeführt wird, müssen Sie sie deaktivieren, indem Sie auf **[!UICONTROL Globale Synchronisierung deaktivieren]** klicken.
 

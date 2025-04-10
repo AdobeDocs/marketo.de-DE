@@ -4,7 +4,7 @@ description: Hinzufügen/Entfernen eines benutzerdefinierten Objektfelds als Sma
 title: Hinzufügen/Entfernen eines benutzerdefinierten Objektfelds als Smart-Listen-/Trigger-Beschränkungen
 exl-id: 639e73eb-9a8c-4b10-8e97-892abf5c5db0
 feature: Salesforce Integration
-source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
+source-git-commit: 6293a11b9d48a20da4cb2448c8374c469679abdb
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
@@ -19,11 +19,11 @@ Marketo Engage bietet eine präzise Kontrolle über die Synchronisierung benutze
 >
 >**Administratorberechtigungen erforderlich**
 
-1. Klicken Sie auf **[!UICONTROL Admin]**.
+1. Zum Bereich **[!UICONTROL Admin]** gelangt.
 
-   ![](assets/image2014-12-10-13-3a9-3a47.png)
+   ![](assets/add-remove-custom-object-field-1.png)
 
-1. Klicken Sie auf **[!UICONTROL Admin]** und dann auf **[!UICONTROL Salesforce-Objekte synchronisieren]**.
+1. Klicken Sie auf **[!UICONTROL Salesforce-Objekte synchronisieren]**.
 
    ![](assets/image2015-12-11-15-3a11-3a41.png)
 

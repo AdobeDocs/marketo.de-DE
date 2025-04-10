@@ -4,20 +4,24 @@ description: Anpassen der Aktivitätssynchronisierung - Marketo-Dokumente - Prod
 title: Aktivitätssynchronisierung anpassen
 exl-id: 938d83dc-b9b1-41d8-bf98-04548b074ec4
 feature: Salesforce Integration
-source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
+source-git-commit: 6293a11b9d48a20da4cb2448c8374c469679abdb
 workflow-type: tm+mt
-source-wordcount: '272'
-ht-degree: 12%
+source-wordcount: '294'
+ht-degree: 11%
 
 ---
 
 # Aktivitätssynchronisierung anpassen {#customize-activities-sync}
 
-Wenn Sie Marketo Sales Insight nicht verwenden, kann Marketo Engage Aktivitätsverlaufsdatensätze für bestimmte Ereignisse in Salesforce erstellen. So aktivieren Sie sie.
+Wenn Sie Marketo Sales Insight nicht verwenden, kann Marketo Engage Salesforce-Aktivitätsverlaufsdatensätze für bestimmte Ereignisse erstellen. So aktivieren Sie sie.
+
+>[!NOTE]
+>
+>Die Salesforce-/Marketo Engage-Synchronisierung überträgt keine Aktivitäten an Salesforce, die stattgefunden haben, bevor die Person an Salesforce gepusht wurde.
 
 1. Wechseln Sie zu **[!UICONTROL Admin]**.
 
-   ![](assets/admin.png)
+   ![](assets/customize-activities-sync-1.png)
 
 1. Klicken Sie auf **[!DNL Salesforce]** und dann auf **[!UICONTROL Synchronisierungsoptionen bearbeiten]**.
 
@@ -81,7 +85,7 @@ Wenn Sie Marketo Sales Insight nicht verwenden, kann Marketo Engage Aktivitätsv
   </tr> 
   <tr> 
    <td>Verkaufs-E-Mail geöffnet</td> 
-   <td>hat eine E-Mail geöffnet, die über Marketo Sales Insight gesendet wurde</td> 
+   <td>hat eine über Marketo Sales Insight gesendete E-Mail geöffnet</td> 
   </tr> 
   <tr> 
    <td>Link in Verkaufs-E-Mail klicken</td> 
