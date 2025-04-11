@@ -3,7 +3,7 @@ description: Metriken und Dimensionen - Marketo-Dokumente - Produktdokumentation
 title: Metriken und Dimensionen
 feature: Reporting
 exl-id: 5f348007-ed0d-4900-ba4b-ecc9b935c6d2
-source-git-commit: 978bbe4de06a0e269b60108e5a91edc5499dc9c1
+source-git-commit: 90242f8b08b0c4773ae73134d67f571f66730878
 workflow-type: tm+mt
 source-wordcount: '1040'
 ht-degree: 28%
@@ -12,11 +12,11 @@ ht-degree: 28%
 
 # Metriken und Dimensionen {#metrics-and-dimensions}
 
-Im Folgenden finden Sie alle Metriken und Dimensionen, die für den Bericht zur Umsatzzyklusanalyse verfügbar sind.
+Unten finden Sie alle Metriken und Dimensionen, die für den Bericht &quot;Revenue Cycle Explorer Analyse&quot; verfügbar sind.
 
 >[!TIP]
 >
->Wenn eine der Tabellen zu stark gekratzt erscheint, können Sie die Ansicht erweitern, indem Sie auf die Pfeile nach links (![](assets/icon-left-arrow.png)) und nach rechts (![](assets/icon-right-arrow.png)) oben auf dieser Seite klicken und die linken und rechten Seitenleisten reduzieren.
+>Wenn eine der Tabellen zu eng erscheint, können Sie die Ansicht erweitern, indem Sie auf die Pfeile nach links (![](assets/icon-left-arrow.png)) und rechts (![](assets/icon-right-arrow.png)) am oberen Rand dieser Seite klicken, um die linke und rechte Seitenleiste auszublenden.
 
 ## Dimensionen und Kennzahlen {#dimensions-and-measures}
 
@@ -39,11 +39,11 @@ Im Folgenden finden Sie alle Metriken und Dimensionen, die für den Bericht zur 
       <td>
         <ul>
           <li>Quartalszeitrahmen</li>
-          <li>Zeitraum des Monats</li>
-          <li>Zeitraum der Woche</li>
-          <li>Datums-/Zeitrahmen</li>
-          <li>Wochentag</li>
-          <li>Stunde des Tages</li>
+          <li>Monat Zeitrahmen</li>
+          <li>Woche Zeitrahmen</li>
+          <li>Datum Zeitrahmen</li>
+          <li>Tag der Woche</li>
+          <li>Stunde der Tag</li>
         </ul>
       </td>
       <td>
@@ -130,13 +130,13 @@ Im Folgenden finden Sie alle Metriken und Dimensionen, die für den Bericht zur 
       </td>
       <td>
         <ul>
-          <li>Leitung Attribute → von Admin &gt; RCA</li>
+          <li>Lead-Attribute → von Admin &gt; RCA</li>
         </ul>
       </td>
       <td>
         <ul>
-          <li>Maße über Stufe (M)</li>
-          <li>Maßnahmen zwischen den Stufen (M)</li>
+          <li>Maßnahmen bezüglich Stufe (M)</li>
+          <li>Maßnahmen zwischen den Stadien (M)</li>
         </ul>
       </td>
     </tr>
@@ -144,14 +144,14 @@ Im Folgenden finden Sie alle Metriken und Dimensionen, die für den Bericht zur 
       <td>Opportunity-Analyse</td>
       <td>
         <ul>
-          <li>Zeitrahmen für Vorlauf Erstellt</li>
-          <li>Opportunity Erstellt Zeitrahmen</li>
-          <li>Geschlossener Zeitrahmen für Opportunity</li>
+          <li>Zeitraum für Lead-Erstellung</li>
+          <li>Opportunity hat Zeitrahmen erstellt</li>
+          <li>Geschlossener Zeitrahmen der Opportunity</li>
         </ul>
       </td>
       <td>
         <ul>
-          <li>ABM-Konto Attribute</li>
+          <li>ABM-Kontoattribute</li>
           <li>Unternehmensattribute</li>
           <li>Lead-Attribute</li>
           <li>Opportunity-Attribute</li>
@@ -167,7 +167,7 @@ Im Folgenden finden Sie alle Metriken und Dimensionen, die für den Bericht zur 
       </td>
       <td>
         <ul>
-          <li>Maßnahmen (m)</li>
+          <li>Maße (M)</li>
         </ul>
       </td>
     </tr>
@@ -189,24 +189,24 @@ Im Folgenden finden Sie alle Metriken und Dimensionen, die für den Bericht zur 
         <ul>
           <li>Investitionen (M)</li>
           <li>Mitgliedschaft (M)</li>
-          <li>Erfolg (m)</li>
+          <li>Erfolg (M)</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>Analyse der Programmzugehörigkeit</td>
+      <td>Analyse der Programmmitgliedschaft</td>
       <td>
         <ul>
           <li>Zeitraum für die Programmmitgliedschaft</li>
           <li>Zeitraum für den Programmerfolg</li>
           <li>Zeitrahmen für die Programmakquise</li>
-          <li>Programmstatus-Zeitrahmen</li>
+          <li>Programm Status Zeitrahmen</li>
         </ul>
       </td>
       <td>
         <ul>
-          <li>Programmattribute</li>
-          <li>Programmstatusattribute</li>
+          <li>Programm-Attribute</li>
+          <li>Programm Status Attribute</li>
           <li>Unternehmensattribute</li>
           <li>Lead-Attribute</li>
           <li>ABM-Kontoattribute</li>
@@ -262,15 +262,15 @@ Im Folgenden finden Sie alle Metriken und Dimensionen, die für den Bericht zur 
       </td>
       <td>
         <ul>
-          <li>Modell-Attribute</li>
-          <li>Programm-Attribute</li>
+          <li>Modellattribute</li>
+          <li>Programmattribute</li>
           <li>Programm-Tags</li>
         </ul>
       </td>
       <td> </td>
       <td>
         <ul>
-          <li>Bühnenmitgliedschaft (M)</li>
+          <li>Stadienzugehörigkeit (M)</li>
         </ul>
       </td>
     </tr>
@@ -288,10 +288,10 @@ Im Folgenden finden Sie alle Metriken und Dimensionen, die für den Bericht zur 
       <th>Lead-Attribute</th>
       <th>Unternehmensattribute</th>
       <th>Opportunity-Attribute</th>
-      <th>Programm-Attribute</th>
-      <th>Programm Status Attribute</th>
-      <th>ABM-Konto Attribute</th>
-      <th>Modell-Attribute</th>
+      <th>Programmattribute</th>
+      <th>Programmstatusattribute</th>
+      <th>ABM-Kontoattribute</th>
+      <th>Modellattribute</th>
       <th>Opportunity-Rolle</th>
     </tr>
     <tr>
@@ -344,10 +344,10 @@ Im Folgenden finden Sie alle Metriken und Dimensionen, die für den Bericht zur 
       <td>
           <ul>
             <li>(FT) vor Abschluss der Opportunity</li>
-            <li>(FT) vor Erstellung der Opportunity</li>
-            <li>Marketing beeinflusst</li>
-            <li>(MT) vor Abschluss der Opportunity</li>
-            <li>(MT) vor der Erstellung der Opportunity</li>
+            <li>(FT) vor Opportunity Erstellt</li>
+            <li>Marketing-beeinflusste</li>
+            <li>(MT) vor Abschluss der Verkaufschance</li>
+            <li>(MT) vor der Verkaufschance Erstellt</li>
             <li>Opportunity geschlossen</li>
             <li>Opportunity-Prognosekategorie</li>
             <li>Opportunity-Name</li>
@@ -380,19 +380,19 @@ Im Folgenden finden Sie alle Metriken und Dimensionen, die für den Bericht zur 
       </td>
       <td>MPA_C
         <ul>
-            <li>Ist Modell Aktiv</li>
-            <li>Ist Stufe Aktiv</li>
-            <li>In Erfolg Pfad</li>
+            <li>Ist Modell aktiv</li>
+            <li>Ist Phase aktiv</li>
+            <li>Auf Erfolgspfad</li>
             <li>Ist Firma nachverfolgen</li>
             <li>Modell</li>
             <li>Phase</li>
-            <li>Bühnentyp</li>
+            <li>Staging-Typ</li>
          </ul>
           <p>
           MPA_L
           <ul>
-            <li>Alle oben genannten und einige zusätzliche</li>
-            <li>Ist ein direkter Übergang</li>
+            <li>Alles oben und einige zusätzliche</li>
+            <li>Ist direkter Übergang</li>
             <li>Ist Phase aktiv (Zu Phase)
             <li>Auf Erfolgspfad (zur Phase)</li>
             <li>Staging-Typ (zu Staging)</li>
@@ -419,7 +419,7 @@ Im Folgenden finden Sie alle Metriken und Dimensionen, die für den Bericht zur 
       <th>Zeitraum der Woche</th>
       <th>Datums-/Zeitrahmen</th>
       <th>Wochentag</th>
-      <th>Stunde des Tages</th>
+      <th>Stunde der Tag</th>
     </tr>
     <tr>
       <td>
@@ -448,7 +448,7 @@ Im Folgenden finden Sie alle Metriken und Dimensionen, die für den Bericht zur 
           <ul>
             <li>Gesendet (Woche)</li>
             <li>Zugestellt (Woche)</li>
-            <li>Hardbounce (Woche)</li>
+            <li>Hardbounced (Woche)</li>
             <li>Geöffnet (Woche)</li>
             <li>Angeklickt (Woche)</li>
             <li>Abgemeldet (Woche)</li>
@@ -463,15 +463,15 @@ Im Folgenden finden Sie alle Metriken und Dimensionen, die für den Bericht zur 
             <li>Geöffnet (Datum)</li>
             <li>Angeklickt (Datum)</li>
             <li>Abgemeldet (Datum)</li>
-            <li>Beanstandung (Datum)</li>
+            <li>Beschwerde (Datum)</li>
           </ul>
       </td>
       <td>
           <ul>
-            <li>Gesendet (Tag der Woche)</li>
-            <li>Zugestellt (Tag der Woche)</li>
-            <li>Hardbounced (Tag der Woche)</li>
-            <li>Geöffnet (Tag der Woche)</li>
+            <li>Gesendet (Wochentag )</li>
+            <li>Zugestellt (Wochentag)</li>
+            <li>Hardbounce (Wochentag)</li>
+            <li>Geöffnet (Wochentag)</li>
             <li>Angeklickt (Wochentag)</li>
             <li>Abgemeldet (Wochentag)</li>
             <li>Beschwerde (Wochentag)</li>
@@ -481,11 +481,11 @@ Im Folgenden finden Sie alle Metriken und Dimensionen, die für den Bericht zur 
           <ul>
             <li>Gesendet (Stunde des Tages)</li>
             <li>Zugestellt (Stunde des Tages)</li>
-            <li>Hardbounced (Stunde der Tag)</li>
-            <li>Geöffnet (Tag Stunde)</li>
-            <li>Geklickt (Stunde der Tag)</li>
-            <li>Abbestellt (Tag Stunde)</li>
-            <li>Beschwerde (Stunde der Tag)</li>
+            <li>Hardbounce (Stunde des Tages)</li>
+            <li>Geöffnet (Stunde des Tages)</li>
+            <li>Angeklickt (Stunde des Tages)</li>
+            <li>Abgemeldet (Stunde des Tages)</li>
+            <li>Beschwerde (Stunde des Tages)</li>
           </ul>
       </td>
     </tr>
@@ -498,11 +498,11 @@ Im Folgenden finden Sie alle Metriken und Dimensionen, die für den Bericht zur 
   <tbody>
     <tr>
       <th>Zeitrahmen</th>
-      <th>Zeitrahmen für Vorlauf Erstellt</th>
-      <th>Opportunity Erstellt Zeitrahmen</th>
-      <th>Geschlossener Zeitrahmen für Opportunity</th>
-      <th>Zeitrahmen für Programmkosten</th>
-      <th>Zeitrahmen für die Programmmitgliedschaft</th>
+      <th>Zeitraum für Lead-Erstellung</th>
+      <th>Opportunity hat Zeitrahmen erstellt</th>
+      <th>Geschlossener Zeitrahmen der Opportunity</th>
+      <th>Zeitrahmen der Programmkosten</th>
+      <th>Zeitraum für die Programmmitgliedschaft</th>
       <th>Zeitraum für den Programmerfolg</th>
       <th>Zeitrahmen für die Programmakquise</th>
       <th>Programmstatus-Zeitrahmen</th>
@@ -557,13 +557,13 @@ Im Folgenden finden Sie alle Metriken und Dimensionen, die für den Bericht zur 
             <li>Mitgliederviertel</li>
             <li>Mitgliedschaft Monat</li>
             <li>Mitgliederwoche</li>
-            <li>Abo-Datum</li>
+            <li>Mitgliedschaft Datum</li>
           </ul>
       </td>
       <td>
           <ul>
-            <li>Erfolgsjahr</li>
-            <li>Erfolgsquartal</li>
+            <li>Erfolg Jahr</li>
+            <li>Erfolg Quartal</li>
             <li>Erfolg Monat</li>
             <li>Erfolgswoche</li>
             <li>Erfolg am</li>
@@ -580,7 +580,7 @@ Im Folgenden finden Sie alle Metriken und Dimensionen, die für den Bericht zur 
       </td>
       <td>
           <ul>
-            <li>Status Jahr</li>
+            <li>Statusjahr</li>
             <li>Status Quartal</li>
             <li>Status Monat</li>
             <li>Status Woche</li>
@@ -601,7 +601,7 @@ Im Folgenden finden Sie alle Metriken und Dimensionen, die für den Bericht zur 
       <th>E-Mail-Kennzahlen</th>
       <th>Lead-Kennzahlen</th>
       <th>Kennzahlen zu Stadien</th>
-      <th>Maßnahmen zwischen den Stufen</th>
+      <th>Maßnahmen zwischen den Phasen</th>
       <th>Investition</th>
       <th>Mitgliedschafts-/Programmmitgliedschaftsmaßnahme</th>
       <th>Erfolgs-/Programm-Erfolgskennzahl</th>
@@ -610,7 +610,7 @@ Im Folgenden finden Sie alle Metriken und Dimensionen, die für den Bericht zur 
       <td>
         <ul>
             <li>% Angeklickt</li>
-            <li>% Clicked To Open</li>
+            <li>% zum Öffnen angeklickt</li>
             <li>% Beschwerden</li>
             <li>% Übermittelt</li>
             <li>% Geöffnet</li>
@@ -621,7 +621,7 @@ Im Folgenden finden Sie alle Metriken und Dimensionen, die für den Bericht zur 
             <li>Hard Bounce-Ereignis aufgetreten</li>
             <li>Wurden geöffnet</li>
             <li>Gesendet</li>
-            <li>Eindeutige Klicks</li>
+            <li>Einzelklicks</li>
             <li>Abgemeldet</li>
           </ul>
       </td>
@@ -660,9 +660,9 @@ Im Folgenden finden Sie alle Metriken und Dimensionen, die für den Bericht zur 
       <td>
           <ul>
             <li>Durchschn. Transition (Tage)</li>
-            <li>Konversionsrate (alle Typen)</li>
-            <li>Konversationsrate (vorhanden)</li>
-            <li>Konversionsrate (neu)</li>
+            <li>Konversationsverhältnis (Alle Typen)</li>
+            <li>Konversationsration (vorhanden)</li>
+            <li>Konversationsverhältnis (Neu)</li>
             <li>Fluss</li>
             <li>Fluss (vorhanden)</li>
             <li>Fluss (nur neu)</li>
@@ -701,24 +701,24 @@ Im Folgenden finden Sie alle Metriken und Dimensionen, die für den Bericht zur 
 <table>
   <tbody>
     <tr>
-      <th>Stadienzugehörigkeit (M)</th>
+      <th>Bühnenmitgliedschaft (M)</th>
       <th>Attribution</th>
-      <th>Programmstatusmaßnahmen</th>
+      <th>Programm Status Maßnahmen</th>
     </tr>
     <tr>
       <td>
           <ul>
             <li>% neuer Name (aktuell)</li>
             <li>% neuer Name (immer)</li>
-            <li>Durchschn. Tage bis Staging</li>
+            <li>Durchschn. Tage bis Bereitstellen</li>
             <li>Kosten pro neuem Namen</li>
-            <li>Neuer Name (aktuell)</li>
-            <li>Neuer Name (immer)</li>
+            <li>Name der Neu (aktuell)</li>
+            <li>Neu Name (jemals)</li>
           </ul>
       </td>
       <td>
           <ul>
-            <li>Anzahl der mit dem Programm verknüpften Opportunitys</li>
+            <li># der mit dem Programm verbundenen Chancen</li>
             <li>(FT) Opportunitätskosten</li>
             <li>(FT) Opportunities erstellt</li>
             <li>(FT) Generierte Opportunities</li>
