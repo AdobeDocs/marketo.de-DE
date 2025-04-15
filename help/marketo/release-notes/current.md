@@ -3,9 +3,9 @@ description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokument
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 44ea3d408cf460b41f3fa92c639ca089a195a4bc
+source-git-commit: 618aeadcdc032b005514387eb0a0e5f61990ed5d
 workflow-type: tm+mt
-source-wordcount: '474'
+source-wordcount: '473'
 ht-degree: 7%
 
 ---
@@ -53,8 +53,8 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tr>
   <tr> 
    <td><strong>Meine Token für Global und Workspace</strong>: Konfigurieren Sie meine Token sowohl auf Arbeitsbereich- als auch auf globaler Ebene, um eine verbesserte Produktivität und Kontrolle über Marken- und Marketingmaterialien in Marketo Engage-Arbeitsbereichen und sogar ganzen Instanzen zu ermöglichen.</td> 
-   <td><i>Demnächst verfügbar</i></td>
-   <td><i>Demnächst verfügbar</i></td>
+   <td>Versendet</td>
+   <td>k. A.</td>
   </tr>
   </tbody> 
 </table>
