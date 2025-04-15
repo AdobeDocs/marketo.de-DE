@@ -1,36 +1,36 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: Funktionen von Email Designer und E-Mail-Editor im Vergleich
-description: Verwenden Sie diese Tabelle, um die Verfügbarkeit von Funktionen in unserem vorherigen E-Mail-Bearbeiter (E-Mail-Editor 2.0) und unserem neuen E-Mail-Designer zu vergleichen.
+title: Vergleich der Funktionen von Email Designer und Email Editor
+description: In dieser Tabelle können Sie die Verfügbarkeit der Funktionen in unserem vorherigen E-Mail-Editor (E-Mail-Editor 2.0) und unserer neuen E-Mail-Designer vergleichen.
 feature: Email Editor
 role: User
 level: Beginner, Intermediate
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: d8e833e5997f1b9cfeef8ecf8b88ca81151041c2
+source-git-commit: f5d0e85ab6aa4227c15685de337afa12f7d8f761
 workflow-type: tm+mt
 source-wordcount: '916'
 ht-degree: 13%
 
 ---
 
-# Funktionen von Email Designer und E-Mail-Editor im Vergleich {#feature-comparison}
+# Vergleich der Funktionen von E-Mail-Designer und E-Mail-Editor {#feature-comparison}
 
-Verwenden Sie die folgende Tabelle, um die Verfügbarkeit von Funktionen in unserem vorherigen E-Mail-Bearbeiter (E-Mail-Editor 2.0) und unserem neuen E-Mail-Designer zu vergleichen.
+In der folgenden Tabelle können Sie die Verfügbarkeit der Funktionen in unserem vorherigen E-Mail-Editor (E-Mail-Editor 2.0) und unserer neuen E-Mail-Designer vergleichen.
 
-Bitte überprüfen Sie diese Seite (sowie die [aktuelle Versionshinweise](/help/marketo/release-notes/current.md){target="_blank"}) auf Updates.
+Bitte überprüfen Sie diese Seite (sowie die [aktuellen Versionshinweise](/help/marketo/release-notes/current.md){target="_blank"} auf Aktualisierungen.
 
 <table><thead>
   <tr>
     <th style="width:20%">Funktion</th>
     <th style="width:40%">Beschreibung</th>
     <th style="width:20%">Alter Editor</th>
-    <th style="width:20%">Neu Designer</th>
+    <th style="width:20%">Neue Designer</th>
   </tr></thead>
 <tbody>
   <tr>
-    <td>OOTB Starter-E-Mail-Vorlagen</td>
-    <td>Möglichkeit zur Verwendung <a href="/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#choose-a-template" target="_blank">vorkonfigurierter Vorlagen</a> , die von Email Designer bereitgestellt werden.</td>
+    <td>OOTB-Starter-E-Mail-Vorlagen</td>
+    <td>Möglichkeit zur Verwendung <a href="/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#choose-a-template" target="_blank">vordefinierten Vorlagen</a> bereitgestellt von E-Mail-Designer.</td>
     <td>Verfügbar</td>
     <td>Verfügbar</td>
   </tr>
@@ -41,8 +41,8 @@ Bitte überprüfen Sie diese Seite (sowie die [aktuelle Versionshinweise](/help/
     <td>Verfügbar</td>
   </tr>
   <tr>
-    <td>Vorschau E-Mail-Vorlagen</td>
-    <td>Möglichkeit, E-Mail-Vorlagen vor der Verwendung in einer E-Mail zu Vorschau.</td>
+    <td>Vorschau von E-Mail-Vorlagen</td>
+    <td>Möglichkeit, E-Mail-Vorlagen vor ihrer Verwendung in einer E-Mail in der Vorschau anzuzeigen.</td>
     <td>Verfügbar</td>
     <td>Verfügbar</td>
   </tr>
@@ -66,7 +66,7 @@ Bitte überprüfen Sie diese Seite (sowie die [aktuelle Versionshinweise](/help/
   </tr>
   <tr>
     <td>Umschalter anzeigen (Desktop/Smartphone/Tablet)</td>
-    <td>Möglichkeit, zu sehen, wie die E-Mail auf allen Geräten aussehen würde.</td>
+    <td>Möglichkeit, zu sehen, wie die E-Mail geräteübergreifend aussehen würde.</td>
     <td>Verfügbar</td>
     <td>Verfügbar</td>
   </tr>
@@ -84,7 +84,7 @@ Bitte überprüfen Sie diese Seite (sowie die [aktuelle Versionshinweise](/help/
   </tr>
   <tr>
     <td>Design Studio Assets</td>
-    <td>Möglichkeit, auf Ihre Design Studio-Bilder und Dateien im Bearbeiter/Designer zuzugreifen.</td>
+    <td>Zugriff auf Ihre Design Studio-Bilder und -Dateien im Editor/Designer.</td>
     <td>Verfügbar</td>
     <td>Verfügbar</td>
   </tr>
@@ -107,37 +107,37 @@ Bitte überprüfen Sie diese Seite (sowie die [aktuelle Versionshinweise](/help/
     <td>Verfügbar</td>
   </tr>
   <tr>
-    <td>Inhaltssperre</td>
-    <td>Möglichkeit, Inhalte</a> in einer E-Mail-Vorlage zu <a href="/help/marketo/product-docs/email-marketing/email-designer/content-locking.md" target="_blank">sperren, sodass sie bei der Erstellung von E-Mails nicht geändert werden können.</td>
+    <td>Sperren von Inhalten</td>
+    <td>Möglichkeit zum <a href="/help/marketo/product-docs/email-marketing/email-designer/content-locking.md" target="_blank"> (Sperren von </a>) in einer E-Mail-Vorlage, sodass sie beim Erstellen von E-Mails nicht geändert werden kann.</td>
     <td>Nicht verfügbar</td>
     <td>Verfügbar</td>
   </tr>
   <tr>
     <td>HTML herunterladen</td>
-    <td>Möglichkeit, die HTML Inhalte von E-Mails, E-Mail-Vorlagen und Fragmenten zu herunterladen.</td>
+    <td>Möglichkeit, den HTML-Inhalt von E-Mails, E-Mail-Vorlagen und Fragmenten herunterzuladen.</td>
     <td>Verfügbar</td>
     <td>Verfügbar</td>
   </tr>
   <tr>
-    <td>Abschnitts-/Komponente-Bewegung innerhalb einer E-Mail</td>
-    <td>Möglichkeit, einen Abschnitt/Modul innerhalb der E-Mail nach oben oder unten zu verschieben.</td>
+    <td>Verschieben von Abschnitten/Komponenten innerhalb von E-Mails</td>
+    <td>Möglichkeit, einen Abschnitt/ein Modul innerhalb der E-Mail nach oben oder unten zu verschieben.</td>
     <td>Verfügbar</td>
     <td>Verfügbar</td>
   </tr>
   <tr>
-    <td>Senden Probe/Proof</td>
+    <td>Beispiel/Testversand durchführen</td>
     <td>Möglichkeit, E-Mails als Testversand zu senden, der vor dem endgültigen Versand validiert werden soll.</td>
     <td>Verfügbar</td>
     <td>Verfügbar</td>
   </tr>
   <tr>
-    <td>Speichern E-Mail als Vorlage</td>
-    <td>Möglichkeit, eine E-Mail als E-Mail-Vorlage zu speichern.</td>
+    <td>E-Mail als Vorlage speichern</td>
+    <td>Möglichkeit zum Speichern einer E-Mail als E-Mail-Vorlage.</td>
     <td>Verfügbar</td>
     <td>Verfügbar</td>
   </tr>
   <tr>
-    <td>Inhalt als Fragment Speichern</td>
+    <td>Inhalt als Fragment speichern</td>
     <td>Möglichkeit zum Speichern eines Teils des <a href="/help/marketo/product-docs/email-marketing/email-designer/fragments.md#save-a-new-fragment-from-email-or-template-content" target="_blank">Inhalts als Fragment</a>.</td>
     <td>Nicht verfügbar</td>
     <td>Verfügbar</td>
@@ -149,6 +149,12 @@ Bitte überprüfen Sie diese Seite (sowie die [aktuelle Versionshinweise](/help/
     <td>Verfügbar</td>
   </tr>
   <tr>
+    <td>E-Mail-Berichte</td>
+    <td>Möglichkeit zum Anzeigen von E-Mails in Marketo Engage Analytics.</td>
+    <td>Verfügbar</td>
+    <td>Verfügbar</td>
+  </tr>
+  <tr>
     <td>Verwendung von E-Mails in Kampagnen und Programmen</td>
     <td>Möglichkeit zur Verwendung der neuen Designer-E-Mails in Kampagnen und Programmen.</td>
     <td>Verfügbar</td>
@@ -156,7 +162,7 @@ Bitte überprüfen Sie diese Seite (sowie die [aktuelle Versionshinweise](/help/
   </tr>
   <tr>
     <td>Unterstützung für das Klonen von Assets in Programmen</td>
-    <td>Möglichkeit, Assets in einer Programm zu klonen.</td>
+    <td>Möglichkeit zum Klonen von Assets in einem Programm.</td>
     <td>Verfügbar</td>
     <td>Verfügbar</td>
   </tr>
@@ -194,23 +200,23 @@ Bitte überprüfen Sie diese Seite (sowie die [aktuelle Versionshinweise](/help/
     <td>Mit Ausschnitt ersetzen</td>
     <td>Möglichkeit, einen Teil des Inhalts durch Snippet zu ersetzen.</td>
     <td>Verfügbar</td>
-    <td>Fragment per Drag &amp; Drop verschieben</td>
+    <td>Fragment per Drag-and-Drop verschieben</td>
   </tr>
   <tr>
     <td>Globale Designs</td>
-    <td>Möglichkeit, genehmigte Themen im gesamten Unternehmen anzuwenden, um die Konsistenz von Elementen wie Stil, Farbe, Font Größe usw. sicherzustellen.</td>
+    <td>Möglichkeit, genehmigte Designs im gesamten Unternehmen anzuwenden, um Konsistenz in Elementen wie Stil, Farbe, Schriftgröße usw. sicherzustellen.</td>
     <td>Nicht verfügbar</td>
     <td>Demnächst</td>
   </tr>
   <tr>
-    <td>Dynamischer/bedingter Inhalt</td>
-    <td>Möglichkeit, auf der Grundlage der Target-Komponente Zielgruppe Varianten von E-Mails zu erstellen.</td>
+    <td>Dynamischer Inhalt/Bedingter Inhalt</td>
+    <td>Möglichkeit, Varianten von E-Mails basierend auf der Zielgruppe zu erstellen.</td>
     <td>Verfügbar</td>
     <td>Demnächst</td>
   </tr>
   <tr>
-    <td>Bild zu HTML</td>
-    <td>Möglichkeit, ein Bild zu konvertieren, um es zu HTML und dann zum Erstellen von E-Mails zu verwenden.</td>
+    <td>Bild in HTML</td>
+    <td>Möglichkeit, ein Bild in HTML zu konvertieren und es dann zum Erstellen von E-Mails zu verwenden.</td>
     <td>Nicht verfügbar</td>
     <td>Demnächst</td>
   </tr>
@@ -221,13 +227,13 @@ Bitte überprüfen Sie diese Seite (sowie die [aktuelle Versionshinweise](/help/
     <td>Demnächst</td>
   </tr>
   <tr>
-    <td>Unterstützung für Verschieben, Löschen und Importieren von Programmen mit E-Mail-Assets</td>
+    <td>Unterstützung für das Verschieben, Löschen und Importieren von Programmen mit E-Mail-Assets</td>
     <td>Möglichkeit zum Verschieben, Löschen und Importieren von E-Mail-Programmen zusammen mit E-Mail-Assets.</td>
     <td>Verfügbar</td>
     <td>Demnächst</td>
   </tr>
   <tr>
-    <td>Marketo Vorlage Converter/Importieren</td>
+    <td>Marketo Template Converter/Import</td>
     <td>Möglichkeit, vorhandene Marketo-Vorlagen für die neue E-Mail-Designer zu konvertieren.</td>
     <td>Nicht erforderlich</td>
     <td>Demnächst</td>
@@ -239,20 +245,20 @@ Bitte überprüfen Sie diese Seite (sowie die [aktuelle Versionshinweise](/help/
     <td>Demnächst</td>
   </tr>
   <tr>
-    <td>Geschwindigkeit Scripting</td>
-    <td>Möglichkeit, Velocity-Scripting in E-Mails zu verwenden.</td>
+    <td>Velocity Scripting</td>
+    <td>Möglichkeit zur Verwendung von Velocity-Skripten in E-Mails.</td>
     <td>Verfügbar</td>
-    <td>Überflüssig</td>
+    <td>Nicht benötigt</td>
   </tr>
    <tr>
     <td>Handlebar-Skript</td>
-    <td>Möglichkeit, Handlebar-Scripting in E-Mails zu verwenden.</td>
+    <td>Möglichkeit zur Verwendung von Handlebar-Skripten in E-Mails.</td>
     <td>Nicht verfügbar</td>
     <td>Geplant für Q3 '25</td>
   </tr>
   <tr>
     <td>Litmus-Integration</td>
-    <td>Möglichkeit, Litmus zu integrieren mit, um zu sehen, wie Ihre E-Mails in verschiedenen E-Mail-Clients dargestellt werden.</td>
+    <td>Möglichkeit zur Integration mit Litmus, um zu sehen, wie Ihre E-Mails in verschiedenen E-Mail-Clients dargestellt werden.</td>
     <td>Nicht verfügbar</td>
     <td>Geplant für Q3 '25</td>
   </tr>
@@ -276,31 +282,25 @@ Bitte überprüfen Sie diese Seite (sowie die [aktuelle Versionshinweise](/help/
   </tr>
   <tr>
     <td>Experimentieren (A/B-Tests)</td>
-    <td>Möglichkeit, E-Mails vor dem Versand an Ihr Zielgruppe zu Test.</td>
+    <td>Möglichkeit, E-Mails zu testen, bevor sie an Ihre Audience gesendet werden.</td>
     <td>Verfügbar</td>
     <td>TBD</td>
   </tr>
   <tr>
-    <td>E-Mail-Berichte</td>
-    <td>Möglichkeit zum Anzeigen von E-Mails in Marketo Engage Analytics.</td>
+    <td>E-Mails im CRM</td>
+    <td>Möglichkeit, Informationen zu E-Mails an Ihr CRM-System zu senden.</td>
     <td>Verfügbar</td>
     <td>TBD</td>
   </tr>
   <tr>
-    <td>E-Mails in CRM</td>
-    <td>Möglichkeit, Informationen zu E-Mails an Ihre CRM zu senden.</td>
-    <td>Verfügbar</td>
-    <td>TBD</td>
-  </tr>
-  <tr>
-    <td>Symbol Editor</td>
-    <td>Möglichkeit, die HTML Inhalte von E-Mails, E-Mail-Vorlagen und Fragmenten zu ändern.</td>
+    <td>Code-Editor</td>
+    <td>Möglichkeit, den HTML-Inhalt von E-Mails, E-Mail-Vorlagen und Fragmenten zu ändern.</td>
     <td>Verfügbar</td>
     <td>TBD</td>
   </tr>
   <tr>
     <td>Predictive Content</td>
-    <td>Fähigkeit, Inhalte von einem Knowledgebase in der E-Mail basierend auf der Target-Komponente Zielgruppe vorherzusagen.</td>
+    <td>Möglichkeit, Inhalte aus einer Wissensdatenbank innerhalb der E-Mail basierend auf der Zielgruppe vorherzusagen.</td>
     <td>Verfügbar</td>
     <td>Nicht verfügbar</td>
   </tr>
