@@ -5,9 +5,9 @@ title: Fragmente
 description: Erfahren Sie, wie Sie visuelle Inhaltsfragmente als wiederverwendbare Komponenten für E-Mails und E-Mail-Vorlagen erstellen und verwenden.
 level: Beginner, Intermediate
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 2a01045abbc23bce9531c64e3494fb12a9adf1bd
+source-git-commit: d8e833e5997f1b9cfeef8ecf8b88ca81151041c2
 workflow-type: tm+mt
-source-wordcount: '1911'
+source-wordcount: '1922'
 ht-degree: 1%
 
 ---
@@ -15,6 +15,10 @@ ht-degree: 1%
 # Fragmente
 
 Ein Fragment ist eine wiederverwendbare Komponente, die in einer oder mehreren E-Mails und E-Mail-Vorlagen referenziert werden kann. Normalerweise handelt es sich dabei um einen Inhaltsblock (Text, Bild oder beides), der schnell in Ihr Projekt eingefügt werden kann. Mit dieser Funktion können Sie mehrere benutzerdefinierte Inhaltsbausteine vorab erstellen, um E-Mail-Inhalte für einen verbesserten Design-Prozess zusammenzustellen. Häufige Anwendungsfälle sind u. a. Kopf-/Fußzeilen-Inhaltsbausteine für E-Mails, Einladungsbanner für Veranstaltungen, saisonale Nachrichten und mehr.
+
+>[!NOTE]
+>
+>Fragmente entsprechen den [Snippets](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md){target="_blank"} im alten E-Mail-Editor.
 
 So verwenden Sie Fragmente in Ihren Workflows optimal:
 
@@ -59,8 +63,8 @@ Der Fragmentstatus bestimmt seine Verfügbarkeit zur Verwendung in einer E-Mail 
     <p>Verfügbare Aktionen:
     <li>Alle Details bearbeiten</li>
     <li>In Visual Designer bearbeiten</li>
-    <li>Veröffentlichen Sie</li>
-    <li>Doppelt</li>
+    <li>Veröffentlichen</li>
+    <li>Duplizieren</li>
     <li>Löschen</li>
   </td>
   <tr>
@@ -69,8 +73,8 @@ Der Fragmentstatus bestimmt seine Verfügbarkeit zur Verwendung in einer E-Mail 
     <p>Verfügbare Aktionen:
     <li>Beschreibung bearbeiten.</li>
     <li>Hinzufügen zu einer E-Mail oder Vorlage</li>
-    <li>Entwurfsversion erstellen</li>
-    <li>Doppelt</li>
+    <li>Versionsentwurf erstellen</li>
+    <li>Duplizieren</li>
     <li>Löschen (wenn nicht in Gebrauch)</li>
     </td>
   </tr>
@@ -82,7 +86,7 @@ Der Fragmentstatus bestimmt seine Verfügbarkeit zur Verwendung in einer E-Mail 
     <li>Hinzufügen zu einer E-Mail oder Vorlage</li>
     <li>Bearbeiten der Entwurfsversion in Visual Designer</li>
     <li>Entwurfsversion veröffentlichen</li>
-    <li>Doppelt</li>
+    <li>Duplizieren</li>
     <li>Löschen (wenn nicht in Gebrauch)</li>
     </td>
   </tr>
