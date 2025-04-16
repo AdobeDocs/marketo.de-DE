@@ -4,16 +4,16 @@ short-description: Lernen Sie Marketo Engage-Begriffe und ihre Definitionen kenn
 title: Marketo Engage-Glossar
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
-source-git-commit: 384740fdfc1f6950369116bd77ee49f9e745bdf1
+source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
 workflow-type: tm+mt
-source-wordcount: '4098'
+source-wordcount: '4065'
 ht-degree: 5%
 
 ---
 
 # Marketo Engage-Glossar {#marketo-engage-glossary}
 
-Nachstehend finden Sie Definitionen für viele Begriffe, die Sie bei der Verwendung von Marketo Engage finden. Um einen Begriff hinzuzufügen, senden Sie [uns eine E-Mail](mailto:GRP-Marketo-articlefeedback@adobe.com).
+Im Folgenden finden Sie Definitionen für viele Begriffe, die bei der Verwendung von Marketo Engage auftreten können. Um einen Begriff hinzuzufügen, senden Sie [uns eine E-Mail](mailto:GRP-Marketo-articlefeedback@adobe.com).
 
 ## A {#a}
 
@@ -197,7 +197,7 @@ Nachstehend finden Sie Definitionen für viele Begriffe, die Sie bei der Verwend
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md" rel="nofollow">Benutzerdefinierte Zielgruppe</a></strong></td> 
-   <td colspan="1">Erstellen Sie in Facebook eine Liste mit spezifischen, vorhandenen Personen (aus Ihrer Marketo-Datenbank) für die direkte Zielgruppenbestimmung.</td> 
+   <td colspan="1">Erstellen Sie in Facebook eine Liste mit spezifischen, vorhandenen Personen (aus Ihrer Marketo-Datenbank) für das direkte Targeting.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" rel="nofollow">Benutzerdefiniertes Feld</a></strong></td> 
@@ -300,7 +300,7 @@ Nachstehend finden Sie Definitionen für viele Begriffe, die Sie bei der Verwend
  <tbody> 
   <tr> 
    <td colspan="1"><strong>E-Mail</strong></td> 
-   <td colspan="1">In Marketo ist eines der <strong>Assets</strong> verfügbar, um mit Ihren Kunden zu kommunizieren. Bei E-Mails kann es sich um HTML (Grafiken, benutzerdefinierte Schriftarten usw.) oder Nur Text (Nur-Text-Nachrichten ohne besondere Formatierung) handeln. Nur HTML-E-Mails können „Öffnungen“ aufzeichnen.</td> 
+   <td colspan="1">In Marketo ist eines der <strong>Assets</strong> verfügbar, um mit Ihren Kunden zu kommunizieren. E-Mails können HTML (Grafiken, benutzerdefinierte Schriftarten usw.) oder Nur Text (Nur-Text-Nachrichten ohne spezielle Formatierung) sein. Nur HTML-E-Mails können „Öffnungen“ aufzeichnen.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>E-Mail-Adresse ungültig</strong></td> 
@@ -320,12 +320,12 @@ Nachstehend finden Sie Definitionen für viele Begriffe, die Sie bei der Verwend
   <tr> 
    <td colspan="1"> 
     <div> 
-     <p><strong><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md" rel="nofollow">Engagementprogramm</a></strong></p> 
+     <p><strong><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md" rel="nofollow">Interaktionsprogramm</a></strong></p> 
     </div></td> 
    <td colspan="1">Ein Programmtyp in Marketo. Interaktionsprogramme ermöglichen es Ihnen, neue Personen zu vermarkten, indem Sie Inhalte systematisch bereitstellen (auch als „Nurture-Programm“ bezeichnet).<br></td> 
   </tr> 
   <tr> 
-   <td><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md" rel="nofollow"><strong>Engagement-Bewertung</strong></a></td> 
+   <td><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md" rel="nofollow"><strong>Interaktionsbewertung</strong></a></td> 
    <td>Bewerten auf der Grundlage eines proprietären Algorithmus, der Folgendes berücksichtigt: Interaktionsverhalten (<strong>Öffnungen</strong>, <strong>Klicks</strong>, Programmerfolg) und Interaktionsverhalten (Abmeldungen).</td> 
   </tr> 
   <tr> 
@@ -419,7 +419,7 @@ Nachstehend finden Sie Definitionen für viele Begriffe, die Sie bei der Verwend
  </tbody> 
 </table>
 
-## Ich {#i}
+## I {#i}
 
 <table> 
  <colgroup> 
@@ -429,7 +429,7 @@ Nachstehend finden Sie Definitionen für viele Begriffe, die Sie bei der Verwend
  <tbody> 
   <tr> 
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md" rel="nofollow"><strong>Interessanter Moment</strong></a></td> 
-   <td><p>In <strong>Marketo Sales Insight</strong> ein Ereignis, das Sie als besonders relevant erachten (z. B. wenn jemand eine bestimmte Seite auf Ihrer Site besucht, auf einen bestimmten Link in einer E-Mail klickt usw.) und das Ihr Vertriebs-Team kennen sollte.</p></td> 
+   <td><p>In <strong>Marketo Sales Insight</strong> ein Ereignis, das Sie als besonders relevant erachten (z. B. wenn jemand eine bestimmte Seite auf Ihrer Site besucht, auf einen bestimmten Link in einer E-Mail klickt usw.) und das Ihr Vertriebsteam kennen soll.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -578,7 +578,7 @@ Nachstehend finden Sie Definitionen für viele Begriffe, die Sie bei der Verwend
  <tbody> 
   <tr> 
    <td><strong>Geöffnet</strong></td> 
-   <td><p>Ein geöffnetes registriert beim Herunterladen von Bildern in eine <strong>E-Mail</strong>. Auch wenn Sie kein Bild einbeziehen, fügt Marketo standardmäßig ein einziges Tracking-Pixel in alle HTML-E-Mails ein. Nur-Text-E-Mails können eine Öffnung nicht registrieren.</p></td> 
+   <td><p>Ein geöffnetes registriert beim Herunterladen von Bildern in eine <strong>E-Mail</strong>. Auch wenn Sie kein Bild einbeziehen, fügt Marketo standardmäßig ein einzelnes Tracking-Pixel in alle HTML-E-Mails ein. Nur-Text-E-Mails können eine Öffnung nicht registrieren.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" rel="nofollow">Betriebliche E-Mail</a></strong></td> 
@@ -633,11 +633,7 @@ Nachstehend finden Sie Definitionen für viele Begriffe, die Sie bei der Verwend
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/target-account-management/using-personas.md" rel="nofollow"><strong>Persona</strong></a></td> 
    <td colspan="1">In Marketo <strong>Target Account Management</strong> sind Personas eine Teilmenge einer Zielgruppe, was eine spezifischere Zielgruppenbestimmung ermöglicht.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md" rel="nofollow"><strong>Umfrage</strong></a></td> 
-   <td colspan="1">Eine Wahl in Marketo ist genau wie eine normale Wahl. Erstellen Sie ein Thema, über das Personen abstimmen und das sie auf Ihrer Marketo <strong>Landingpage</strong>, Ihrer Website und/oder in den sozialen Medien teilen können.</td> 
-  </tr> 
+  </tr>
   <tr> 
    <td> 
     <div> 
@@ -781,7 +777,7 @@ Nachstehend finden Sie Definitionen für viele Begriffe, die Sie bei der Verwend
  </tbody> 
 </table>
 
-## T {#t}
+## D {#t}
 
 <table> 
  <colgroup> 
@@ -823,7 +819,7 @@ Nachstehend finden Sie Definitionen für viele Begriffe, die Sie bei der Verwend
  </tbody> 
 </table>
 
-## U-{#u}
+## U {#u}
 
 <table> 
  <colgroup> 
@@ -886,7 +882,7 @@ Nachstehend finden Sie Definitionen für viele Begriffe, die Sie bei der Verwend
   </tr> 
   <tr> 
    <td><strong>Widget</strong></td> 
-   <td>Ein kleines grafisches Element in einer Anwendung, das eine bestimmte Interaktion ermöglicht. Widgets sind nur als Marketo Sky verfügbar (nicht als <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md" rel="nofollow">Widget-Web-Kampagne)</a></td> 
+   <td>Ein kleines grafisches Element in einer Anwendung, das eine bestimmte Interaktion ermöglicht. Widgets sind nur in Marketo Sky verfügbar (nicht in einer <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md" rel="nofollow">Widget-Web-Kampagne)</a></td> 
   </tr> 
   <tr> 
    <td><strong>Platzhalter</strong></td> 

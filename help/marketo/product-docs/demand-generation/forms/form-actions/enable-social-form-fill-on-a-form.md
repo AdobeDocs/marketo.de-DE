@@ -3,8 +3,10 @@ unique-page-id: 2359616
 description: Ausfüllen eines Formulars mit Social Media-Inhalten aktivieren - Marketo-Dokumente - Produktdokumentation
 title: Ausfüllen eines Formulars mit Social Media aktivieren
 exl-id: 0ca4941c-dbad-477b-b9c1-387876615c33
+hide: true
+hidefromtoc: true
 feature: Forms
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 1%
@@ -37,7 +39,7 @@ Erlauben Sie Ihren Besuchern, das Formular über ihr soziales Netzwerk auszufül
 
    >[!TIP]
    >
-   >Sehen Sie sich an, welche [Daten Marketo erfassen wird](/help/marketo/product-docs/demand-generation/social/social-functions/manage-social-profile-data.md) wenn Personen die Social-Media-Schaltflächen verwenden.
+   >Sehen Sie sich an, welche _Daten Marketo erfassen wird_ wenn Personen die Social-Media-Schaltflächen verwenden.
 
 1. Klicken Sie auf **Fertigstellen**.
 

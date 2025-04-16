@@ -4,44 +4,44 @@ description: Verwenden einer Marketo-Liste oder Smart-Liste als LinkedIn-Zielgru
 title: Verwenden einer Marketo-Liste oder Smart-Liste als LinkedIn-Zielgruppensegment
 exl-id: 9a7943fe-b2e7-443a-87e0-da01001682de
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '194'
 ht-degree: 1%
 
 ---
 
 # Verwenden einer Marketo-Liste oder Smart-Liste als LinkedIn-Zielgruppensegment {#use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment}
 
-Integrieren Sie Ihre Marketo-Mitarbeiter mit Ihren LinkedIn-Zielgruppen.
+Integrieren Sie Ihre Marketo Engage-Mitarbeiter mit Ihren LinkedIn-Zielgruppen.
 
 >[!PREREQUISITES]
 >
->[Hinzufügen von übereinstimmenden LinkedIn-Zielgruppen als LaunchPoint-Service](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
+>[Hinzufügen von abgeglichenen LinkedIn-Zielgruppen als LaunchPoint-Service](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md){target="_blank"}
 
 1. Navigieren Sie zur **Datenbank**.
 
-   ![](assets/db.png)
+   ![](assets/list-as-a-linkedin-audience-segment-1.png)
 
 1. Smart-Liste auswählen.
 
-   ![](assets/two.png)
+   ![](assets/list-as-a-linkedin-audience-segment-2.png)
 
 1. Klicken Sie auf die **Personen**.
 
-   ![](assets/three-1.png)
+   ![](assets/list-as-a-linkedin-audience-segment-3.png)
 
 1. Klicken Sie auf das **Über Ad Bridge senden** Symbol ![—](assets/image2015-4-20-18-3a18-3a41.png) unten in der Liste.
 
-   ![](assets/four-1.png)
+   ![](assets/list-as-a-linkedin-audience-segment-4.png)
 
    >[!NOTE]
    >
-   >Wenn Sie Anzeigennetzwerkintegrationen verwenden, um eine Zielgruppe an LinkedIn zu senden, sendet Marketo nur die E-Mail-Adresse.
+   >Bei Verwendung von Anzeigennetzwerkintegrationen zum Senden einer Zielgruppe an LinkedIn sendet Marketo nur die E-Mail-Adresse.
 
 1. Wählen Sie **LinkedIn** aus und klicken Sie auf **Weiter**.
 
-   ![](assets/image2015-4-20-18-3a7-3a19.png)
+   ![](assets/list-as-a-linkedin-audience-segment-5.png)
 
 1. Wählen Sie eine **LinkedIn-Zielgruppe**.
 
@@ -49,7 +49,7 @@ Integrieren Sie Ihre Marketo-Mitarbeiter mit Ihren LinkedIn-Zielgruppen.
    >
    >Durch Klicken auf **+Neue Zielgruppe** eine Zielgruppe in LinkedIn Campaign Manager erstellt.
 
-   ![](assets/6.png)
+   ![](assets/list-as-a-linkedin-audience-segment-6.png)
 
    >[!NOTE]
    >
@@ -57,10 +57,10 @@ Integrieren Sie Ihre Marketo-Mitarbeiter mit Ihren LinkedIn-Zielgruppen.
 
 1. Wählen Sie einen **Push-Typ** aus. Klicken Sie auf **Aktualisieren**.
 
-   ![](assets/7.png)
+   ![](assets/list-as-a-linkedin-audience-segment-7.png)
 
    >[!NOTE]
    >
    >Bitte warten Sie 15 Minuten, bis die Synchronisierung stattfindet.
 
-High Five! Ihre Daten werden jetzt mit den Zielgruppen von LinkedIn übereinstimmen. Informationen zum Hochladen von Listen für das Konto- und Kontakt-Targeting in LinkedIn finden Sie im Hilfesystem zu Marketing-Lösungen von [LinkedIn](https://www.linkedin.com/help/lms/answer/73938?query=ad%20segment).
+High Five! Ihre Daten werden jetzt mit den LinkedIn-Zielgruppen übereinstimmen. Informationen zum Hochladen von Listen für Konto- und Kontakt-Targeting in LinkedIn finden Sie [LinkedIn&#39;s Marketing Solutions Help Center](https://www.linkedin.com/help/lms/answer/73938?query=ad%20segment){target="_blank"}.

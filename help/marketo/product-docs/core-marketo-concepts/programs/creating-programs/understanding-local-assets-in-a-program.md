@@ -4,10 +4,10 @@ description: Grundlegendes zur lokalen Assets in einem Programm - Marketo-Dokume
 title: Grundlegendes zur lokalen Assets in einem Programm
 exl-id: aa577b2b-f77c-41cc-aa47-59ce2d189530
 feature: Programs
-source-git-commit: 5e2d1979abcafd8e4a37e55b843be932125c954e
+source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 4%
+source-wordcount: '96'
+ht-degree: 5%
 
 ---
 
@@ -19,7 +19,7 @@ Lokale Assets sind die Inhalte, aus denen Ihr Programm besteht. Assets sind anpa
 
 >[!NOTE]
 >
->Nicht jeder hat Zugriff auf alle verfügbaren Assets. Wenden Sie sich an das Adobe-Account-Team (Ihren Account Manager), um mehr zu erfahren.
+>Nicht jeder hat Zugriff auf alle verfügbaren Assets. Wenden Sie sich an das Adobe Account Team (Ihren Account Manager), um mehr zu erfahren.
 
 * [Intelligente Kampagnen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md){target="_blank"}
 * [Listen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md){target="_blank"}
@@ -31,9 +31,4 @@ Lokale Assets sind die Inhalte, aus denen Ihr Programm besteht. Assets sind anpa
 * [Landingpage](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md){target="_blank"}
 * [Formulare](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md){target="_blank"}
 * [Testgruppe](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md){target="_blank"}
-* [Schaltfläche „Social“](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md){target="_blank"}
-* [YouTube-Video](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-video.md){target="_blank"}
-* [Abfrage](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md){target="_blank"}
-* [Überweisungsangebot](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md){target="_blank"}
-* [Gewinnspiele](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md){target="_blank"}
 * [Vibes SMS-Nachrichten](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}

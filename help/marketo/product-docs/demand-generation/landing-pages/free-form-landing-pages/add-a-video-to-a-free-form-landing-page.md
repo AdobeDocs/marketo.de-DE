@@ -3,8 +3,10 @@ unique-page-id: 2359722
 description: Hinzufügen eines Videos zu einer Freiform-Landingpage - Marketo-Dokumente - Produktdokumentation
 title: Hinzufügen eines Videos zu einer Freiform-Landingpage
 exl-id: 3a3bbb56-1fd9-48dd-84e8-8750032bd984
+hide: true
+hidefromtoc: true
 feature: Landing Pages
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
 workflow-type: tm+mt
 source-wordcount: '240'
 ht-degree: 0%
@@ -43,8 +45,8 @@ Legen Sie Videos mit Social-Sharing-Optionen auf Ihren Landingpages ab.
 >
 >Um Zeit zu sparen, können Sie die Option **Klonen von** verwenden, um alle Einstellungen aus einer vorhandenen Videofreigabe zu kopieren.
 
-Herzlichen Glückwunsch! Sie haben Ihrer Freiform-Landingpage eine Videofreigabe hinzugefügt. Genehmigen Sie die Landingpage, und Ihre Videofreigabe ist live. Sie können [ Landingpage auch in Facebook veröffentlichen ](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) die Videofreigabe [ Ihrer Website ](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
+Herzlichen Glückwunsch! Sie haben Ihrer Freiform-Landingpage eine Videofreigabe hinzugefügt. Genehmigen Sie die Landingpage, und Ihre Videofreigabe ist live. Sie können [ ](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) Landingpage auch auf Facebook veröffentlichen oder _die Videofreigabe auf Ihre Website_.
 
 >[!MORELIKETHIS]
 >
->Sie sind fertig, können jedoch bei Bedarf die Einstellungen Ihrer Videofreigabe ändern. Beginnen Sie mit [Anpassen des Freigabeflusses](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md) (wann und wo die Eingabeaufforderung zur Freigabe geöffnet wird).
+>Sie sind fertig, können jedoch bei Bedarf die Einstellungen Ihrer Videofreigabe ändern. Beginnen Sie mit _Anpassen des Freigabeflusses_ (wann und wo die Eingabeaufforderung zur Freigabe geöffnet wird).
