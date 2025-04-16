@@ -4,7 +4,7 @@ description: Verwenden einer Marketo-Liste oder Smart-Liste als LinkedIn-Zielgru
 title: Verwenden einer Marketo-Liste oder Smart-Liste als LinkedIn-Zielgruppensegment
 exl-id: 9a7943fe-b2e7-443a-87e0-da01001682de
 feature: Social
-source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
+source-git-commit: f205014ef4b1446c1c532e28910fab0c5fdaabcb
 workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 1%
@@ -19,7 +19,7 @@ Integrieren Sie Ihre Marketo Engage-Mitarbeiter mit Ihren LinkedIn-Zielgruppen.
 >
 >[Hinzufügen von abgeglichenen LinkedIn-Zielgruppen als LaunchPoint-Service](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md){target="_blank"}
 
-1. Navigieren Sie zur **Datenbank**.
+1. Navigieren Sie zur **[!UICONTROL Datenbank]**.
 
    ![](assets/list-as-a-linkedin-audience-segment-1.png)
 
@@ -27,11 +27,11 @@ Integrieren Sie Ihre Marketo Engage-Mitarbeiter mit Ihren LinkedIn-Zielgruppen.
 
    ![](assets/list-as-a-linkedin-audience-segment-2.png)
 
-1. Klicken Sie auf die **Personen**.
+1. Klicken Sie auf die **[!UICONTROL Personen]**.
 
    ![](assets/list-as-a-linkedin-audience-segment-3.png)
 
-1. Klicken Sie auf das **Über Ad Bridge senden** Symbol ![—](assets/image2015-4-20-18-3a18-3a41.png) unten in der Liste.
+1. Klicken Sie auf das _Über Ad Bridge senden_ Symbol ![—](assets/icon-ad-bridge.png) unten in der Liste.
 
    ![](assets/list-as-a-linkedin-audience-segment-4.png)
 
@@ -39,15 +39,15 @@ Integrieren Sie Ihre Marketo Engage-Mitarbeiter mit Ihren LinkedIn-Zielgruppen.
    >
    >Bei Verwendung von Anzeigennetzwerkintegrationen zum Senden einer Zielgruppe an LinkedIn sendet Marketo nur die E-Mail-Adresse.
 
-1. Wählen Sie **LinkedIn** aus und klicken Sie auf **Weiter**.
+1. Wählen Sie **[!UICONTROL LinkedIn]** aus und klicken Sie auf **[!UICONTROL Weiter]**.
 
    ![](assets/list-as-a-linkedin-audience-segment-5.png)
 
-1. Wählen Sie eine **LinkedIn-Zielgruppe**.
+1. Wählen Sie eine _LinkedIn-Zielgruppe_.
 
    >[!NOTE]
    >
-   >Durch Klicken auf **+Neue Zielgruppe** eine Zielgruppe in LinkedIn Campaign Manager erstellt.
+   >Durch Klicken auf **[!UICONTROL +Neue Zielgruppe]** eine Zielgruppe in LinkedIn Campaign Manager erstellt.
 
    ![](assets/list-as-a-linkedin-audience-segment-6.png)
 
@@ -55,7 +55,7 @@ Integrieren Sie Ihre Marketo Engage-Mitarbeiter mit Ihren LinkedIn-Zielgruppen.
    >
    >LinkedIn hat die APIs für den Push-Typ „Zielgruppe löschen und Leads hinzufügen“ im März 2018 eingestellt. Diese Option ist ab Marketos Version 1. Quartal 2018 nicht mehr verfügbar.
 
-1. Wählen Sie einen **Push-Typ** aus. Klicken Sie auf **Aktualisieren**.
+1. Wählen Sie einen _[!UICONTROL Push-Typ]_ aus. Klicken Sie auf **[!UICONTROL Aktualisieren]**.
 
    ![](assets/list-as-a-linkedin-audience-segment-7.png)
 
