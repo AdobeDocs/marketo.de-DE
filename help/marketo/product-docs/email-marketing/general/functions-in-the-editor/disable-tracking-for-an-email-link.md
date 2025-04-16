@@ -1,54 +1,50 @@
 ---
 unique-page-id: 1900579
-description: Tracking für einen E-Mail-Link deaktivieren - Marketo-Dokumente - Produktdokumentation
+description: Disable Tracking for an Email Link - Marketo Docs - Product Documentation
 title: Tracking für einen E-Mail-Link deaktivieren
 exl-id: 841ef605-1664-4457-bc83-50bbe5d44853
 feature: Email Editor
-source-git-commit: b3bc6a7ec14a513e4b294852d066f9e3d0f74ef8
+source-git-commit: ac2f8bf38b32344dd9414cf3611b69747e3587d4
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '288'
 ht-degree: 1%
 
 ---
 
 # Tracking für einen E-Mail-Link deaktivieren {#disable-tracking-for-an-email-link}
 
-Manchmal möchten Sie die **Marketo-Tracking-URL** nicht für einen Link in einer E-Mail aktivieren. Dies ist nützlich, wenn die Zielseite URL-Parameter nicht unterstützt und zu einem fehlerhaften Link führen kann.
+Sometimes you don&#39;t want to enable the **Marketo Tracking URL** on a link in an email. Dies ist nützlich, wenn die Zielseite URL-Parameter nicht unterstützt und zu einem fehlerhaften Link führen kann.
 
-Wenn eine E-Mail vor mehr als 365 Tagen gesendet wurde **und** niemand in den letzten 180 Tagen auf einen ihrer Links geklickt hat, bereinigt Marketo Engage die Route zur URL aus unserer Datenbank, was dazu führt, dass der Link unterbrochen wird. Wenn der Link also dauerhaft sein soll, sollten Sie das Tracking deaktivieren.
+Also, if an email was sent over 365 days ago **and** no one has clicked on any of its links in the last 180 days, Marketo Engage prunes the route to the URL from our database, which will cause the link to break. So, if you need the link to be permanent, you should disable tracking.
 
 1. Wählen Sie Ihre E-Mail aus und klicken Sie **Entwurf bearbeiten**.
 
    ![](assets/one-7.png)
 
-1. Doppelklicken Sie auf den bearbeitbaren Abschnitt, der den Link enthält.
+1. Double-click the editable section that contains the link.
 
    ![](assets/two-6.png)
 
-1. Klicken Sie auf den betreffenden Link und dann auf die Schaltfläche **Link einfügen/bearbeiten**.
+1. Click the link in question, then click the **Insert/Edit Link** button.
 
    ![](assets/three-6.png)
 
-1. Deaktivieren Sie im Popup Link bearbeiten das Kontrollkästchen **Link nachverfolgen**.
+1. In the Edit Link pop-up, uncheck the **Track Link** checkbox.
 
    ![](assets/four-4.png)
 
-1. Sie werden feststellen, dass die **Include mkt_tok-Box** verschwindet. Klicken Sie auf **Übernehmen**.
+1. You&#39;ll notice the **Include mkt_tok box** disappears. Klicken Sie auf **Übernehmen**.
 
    ![](assets/five-3.png)
 
    >[!TIP]
    >
-   >Wenn Sie nur **Include mkt_tok** deaktivieren, kann der Link weiterhin verfolgt werden, aber nach der Umleitung enthält die Ziel-URL den Abfragezeichenfolgenparameter mkt_tok nicht. Dieser Parameter wird von Marketo Landingpages und Munchkin verwendet, um eine ordnungsgemäße Verfolgung von Personenaktivitäten sicherzustellen (z. B. wenn eine Person sich von einer E-Mail abmeldet). Sie sollten die Verwendung dieser Funktion vermeiden, es sei denn, Sie sehen ein seltsames Verhalten auf Ihrer Website, aufgrund des vorhandenen Parameters.
+   >Unchecking just **Include mkt_tok** will still allow the link to be tracked, but after redirect, the destination URL will not include the mkt_tok query string parameter. This parameter is used by Marketo Landing Pages and Munchkin to ensure proper tracking of person activities (like when a person unsubscribes from an email). You should avoid using this feature unless you&#39;re seeing weird behavior on your website due to the parameter being present.
 
 1. Klicken Sie auf **Speichern**.
 
    ![](assets/image2014-9-17-22-3a25-3a20.png)
 
-   >[!TIP]
+   >[!CAUTION]
    >
-   >Möchten Sie das Klick-Tracking für einen Link in einer E-Mail deaktivieren **Vorlage**? Dieses Format verwenden:
-   >`<a class="mktNoTrack" href="https://www.mywebsite.com">This link does not have tracking</a>`\
-   >Wenn Sie Hilfe bei der Implementierung benötigen, wenden Sie sich bitte an Ihren Web-Entwickler.
-
-Schön! Sie haben jetzt das Tracking für einen Link deaktiviert.
+   >If you want to disable click-tracking for a link in an Email Template, or the [text version](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md){target="_blank"} of an email, add the `mktNoTrack` at the *beginning* of the string, not the end, like in this example: `<a class="mktNoTrack" href="https://www.mywebsite.com">This link does not have tracking</a>`. Otherwise, it could cause the link to disappear. If you need help implementing the above code, please consult your web developer.
