@@ -3,7 +3,7 @@ description: Live-Chat - Übersicht - Marketo-Dokumente - Produktdokumentation
 title: Live-Chat - Übersicht
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: d88406c1f9d72c57a6d4f09934cbf685499ed198
+source-git-commit: 8e26cd1920fe66b63238c8b6e51ec424d1dda1fb
 workflow-type: tm+mt
 source-wordcount: '697'
 ht-degree: 1%
@@ -16,7 +16,7 @@ Live-Chat ermöglicht Besuchenden der Website, mit Ihren Vertriebsmitarbeitern i
 
 >[!NOTE]
 >
->Live-Chat ist eine Testfunktion mit einer Lebenszeitbegrenzung von 100 Interaktionen für Benutzer des Dynamic Chat Select-Pakets. Wenn diese Grenze erreicht ist, werden alle Besucherinnen und Besucher, die einen Chat mit einem Live-Agenten anfordern, nicht verbunden sein und stattdessen die globale Fallback-Nachricht erhalten. Wenden Sie sich zur Erhöhung des Limits an Ihren Adobe-Kundenbetreuer, um die Paket-Upgrade-Optionen zu besprechen.
+>Für diejenigen, die zum Dynamic Chat Select-Paket gehören, ist der Live-Chat eine Testfunktion mit einer Lebenszeitbegrenzung von 100 Interaktionen. Wenn diese Grenze erreicht ist, werden alle Besucherinnen und Besucher, die einen Chat mit einem Live-Agenten anfordern, nicht verbunden sein und stattdessen die globale Fallback-Nachricht erhalten. Wenden Sie sich zur Erhöhung des Limits an Ihren Adobe-Kundenbetreuer, um die Paketupgradeoptionen zu besprechen.
 
 ## Live-Chat-Agenten hinzufügen {#add-live-chat-agents}
 
@@ -74,7 +74,7 @@ Wenn Sie im Stream auf die Live-Chat-Karte klicken, können Sie auswählen, wie 
 
 >[!IMPORTANT]
 >
->Um Browser-Benachrichtigungen für Live-Chat zu erhalten, müssen alle Live-Chat-Agenten Browser-Benachrichtigungen für das Dynamic Chat aktivieren, wenn sie dazu aufgefordert werden.
+>Um Browser-Benachrichtigungen für den Live-Chat zu erhalten, müssen alle Live-Chat-Agenten Browser-Benachrichtigungen für Dynamic Chat aktivieren, wenn sie dazu aufgefordert werden.
 
 ### Aktivieren von Benachrichtigungen {#enabling-notifications}
 
@@ -100,7 +100,7 @@ Wenn ein Live-Chat an einen Agenten weitergeleitet wird, sehen sie ein blaues Ba
 
 >[!TIP]
 >
->Sie haben auch die Möglichkeit, Browser-Benachrichtigungen einzurichten, die Sie warnen, falls Sie nicht beim Dynamic Chat angemeldet sind.
+>Sie haben auch die Möglichkeit, Browser-Benachrichtigungen einzurichten, die Sie warnen, falls Sie nicht bei Dynamic Chat angemeldet sind.
 >
 >* Aktivieren von Browser-Benachrichtigungen in [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop){target="_blank"}
 >* Aktivieren von Browser-Benachrichtigungen in [Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}
@@ -113,7 +113,7 @@ Wenn eine Aktion wie eine Besprechungsbuchung oder ein Live-Chat fehlschlägt, w
 
 ### Zu beachtende Punkte {#things-to-note}
 
-* Die Kundendienstmitarbeiter müssen innerhalb von 45 Sekunden antworten, bevor die Nachricht „Chat akzeptieren“ ihre Zeit verliert. Danach erhalten Besucher die [Fallback-Nachricht](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback){target="_blank"}. Beim Dynamic Chat von Prime-Abonnenten, bei denen die Routing-Option auf **Team** eingestellt ist, wird ein weiterer Agent versucht, bevor die Fallback-Nachricht angezeigt wird.
+* Die Kundendienstmitarbeiter müssen innerhalb von 100 Sekunden antworten, bevor die Nachricht „Chat akzeptieren“ ihre Zeit verliert. Danach erhalten Besucher die [Fallback-Nachricht](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback){target="_blank"}. Bei Dynamic Chat Prime-Abonnentinnen und -Abonnenten, bei denen die Routing-Option auf **Team** eingestellt ist, wird ein weiterer Agent ausprobiert, bevor die Fallback-Nachricht angezeigt wird.
 * Derzeit gibt es eine Beschränkung von 10 Live-Chats pro Agent.
 
 >[!MORELIKETHIS]
