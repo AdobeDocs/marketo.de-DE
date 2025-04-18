@@ -4,10 +4,10 @@ description: Versionsplanung – Marketo-Dokumente – Produktdokumentation
 title: Versionsplanung
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: ddf573b97a963728da4561d4521c1b2cb25d4bc5
+source-git-commit: f21d9356f00f8ea50819b591d15ca06d61256d8b
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 11%
+ht-degree: 10%
 
 ---
 
@@ -38,13 +38,13 @@ _Veröffentlichungstermine/-funktionen können sich ändern_
    <td>Versendet</td>
   </tr>
    <tr> 
-   <td><a href="/help/marketo/release-notes/current.md">25. März</a></td>
+   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-mar-25.md">25. März</a></td>
    <td>28. März 2025</td>
-   <td>Im Gange</td>
+   <td>Versendet</td>
   </tr>
   <tr> 
+   <td><a href="/help/marketo/release-notes/current.md">April '25</a></td>
    <td>April '25</td>
-   <td>25. April 2025</td>
    <td>Planmäßig</td>
   </tr>
   <tr> 

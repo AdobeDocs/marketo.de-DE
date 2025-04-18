@@ -4,22 +4,22 @@ description: Grundlegendes zu meinen Token in einem Programm - Marketo-Dokumente
 title: Grundlegendes zu meinen Token in einem Programm
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: f21d9356f00f8ea50819b591d15ca06d61256d8b
 workflow-type: tm+mt
-source-wordcount: '416'
+source-wordcount: '417'
 ht-degree: 4%
 
 ---
 
 # Grundlegendes zu meinen Token in einem Programm {#understanding-my-tokens-in-a-program}
 
-Ein Token ist eine Variable, die Sie in E-Mails, Landingpages und intelligenten Kampagnen verwenden können, um Ihr Leben zu vereinfachen.
+Ein Token ist eine Variable, die Sie in E-Mails, Landingpages und Smart-Kampagnen verwenden können, um Ihr Leben zu vereinfachen.
 
 Zusätzlich zu „Meine Token“ können Sie auch eines der integrierten Token in Ihren Programmen verwenden. Sehen Sie sich die [Token-Übersicht](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"} an.
 
 ## Meine Token  {#my-tokens}
 
-Meine Token sind benutzerdefinierte Variablen, die jeder erstellen kann. Sie [ entweder ](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"} Kampagnenordnern oder in Programmen erstellt.
+Meine Token sind benutzerdefinierte Variablen, die jeder erstellen kann. Lokal werden sie [ Kampagnenordnern ](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"} Programmen erstellt.
 
 Meine Token werden wie folgt angezeigt: `{{my.Name Of Token}}`
 
@@ -66,14 +66,14 @@ Beispiele:
   </tr> 
   <tr> 
    <td>Text <img alt="--" src="assets/image2014-9-25-16-3a46-3a54.png" data-linked-resource-id="3083236" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>Nur Text. Verwenden Sie es, wenn HTML zu viel ist. Die Größenbeschränkung für Text-Token beträgt 524.288 Zeichen (UTF-8) oder 2 MB.</td> 
+   <td>Nur Text. Verwenden Sie es, wenn HTML zu viel Arbeit erfordert. Die Größenbeschränkung für Text-Token beträgt 524.288 Zeichen (UTF-8) oder 2 MB.</td> 
   </tr> 
  </tbody> 
 </table>
 
 >[!CAUTION]
 >
->Meine Token werden beim Senden einer E-Mail von Sales Insight zu Microsoft Dynamics oder Salesforce nicht aufgelöst. Nur Standard-Token werden ausgefüllt (Lead, Unternehmen usw.). Die Standardwerte für Token _werden_ funktionieren jedoch.
+>Meine Token werden beim Senden einer E-Mail von Sales Insight auf Microsoft Dynamics oder Salesforce nicht aufgelöst. Nur Standard-Token werden ausgefüllt (Lead, Unternehmen usw.). Die Standardwerte für Token _werden_ funktionieren jedoch.
 
 ## Verschachteln von Token {#nesting-tokens}
 
