@@ -3,16 +3,16 @@ description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokument
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 618aeadcdc032b005514387eb0a0e5f61990ed5d
+source-git-commit: 38ec4726dece1695a15104fdb7fa7592b298d4a9
 workflow-type: tm+mt
-source-wordcount: '473'
+source-wordcount: '429'
 ht-degree: 7%
 
 ---
 
-# März 2025 - Versionshinweise {#release-notes-mar-25}
+# Versionshinweise: April 2025 {#release-notes-apr-25}
 
-Nachstehend finden Sie alle Funktionen, die in der Version vom 25. März enthalten sind. Überprüfen Sie Ihre Adobe Marketo Engage Edition auf die Verfügbarkeit der Funktionen.
+Im Folgenden finden Sie alle Funktionen, die in der Version vom April 2025 enthalten sind. Überprüfen Sie Ihre Adobe Marketo Engage Edition auf die Verfügbarkeit der Funktionen.
 
 Die Versionshinweise speziell für Adobe Dynamic Chat [finden Sie hier](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
@@ -22,7 +22,7 @@ Die Versionshinweise speziell für Adobe Dynamic Chat [finden Sie hier](/help/ma
 
 ## Standardfunktionen des Veröffentlichungszyklus {#standard-release-cycle-features}
 
-Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszyklus und werden ab dem 28. **2025 veröffentlicht** wobei die verbleibenden Funktionen in den folgenden Wochen schrittweise bereitgestellt werden. Veröffentlichungsfunktionen und -daten können sich ändern. Überprüfen Sie neben jeder Funktion auf ihren Status.
+Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszyklus und werden ab dem 25. **2025 veröffentlicht** wobei die verbleibenden Funktionen in den folgenden Wochen schrittweise bereitgestellt werden. Veröffentlichungsfunktionen und -daten können sich ändern. Überprüfen Sie neben jeder Funktion auf ihren Status.
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -31,18 +31,8 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <th style="width:10%">Status</th>
    <th style="width:25%">Dokumentation</th>
   </tr>
-    <tr> 
-   <td><strong>E-Mail-Designer in allen Programmen verfügbar</strong>: Die neuen E-Mails von E-Mail-Designer sind jetzt für alle Interaktions-, Standard- und Veranstaltungsprogramme verfügbar (mit Ausnahme interaktiver Webinar-Programme). Zuvor waren sie nur in E-Mail-Programmen verfügbar. Mit diesem Update wird auch das Klonen verfügbar.</td>
-   <td>Versendet</td>
-   <td>k. A.</td>
-  </tr>
   <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr> 
-   <td><strong>GenAI-Funktionen in interaktiven Webinaren</strong>: Sie können jetzt Kapitel sowie eine Zusammenfassung für On-Demand-Webinare erstellen. Bearbeiten und exportieren Sie eine HTML-Datei Ihrer Daten.</td>
+   <td><strong>Vorlagenkompatibilität für E-Mail-Designer</strong>: E-Mail-Vorlagen aus dem klassischen E-Mail-Editor sind jetzt mit der neuen E-<a href="/help/marketo/product-docs/email-marketing/email-designer/overview.md">-Designer </a>.</td>
    <td><i>Demnächst verfügbar</i></td>
    <td><i>Demnächst verfügbar</i></td>
   </tr>
@@ -52,15 +42,23 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>Meine Token für Global und Workspace</strong>: Konfigurieren Sie meine Token sowohl auf Arbeitsbereich- als auch auf globaler Ebene, um eine verbesserte Produktivität und Kontrolle über Marken- und Marketingmaterialien in Marketo Engage-Arbeitsbereichen und sogar ganzen Instanzen zu ermöglichen.</td> 
-   <td>Versendet</td>
-   <td>k. A.</td>
+   <td><strong>SSL-Self-Service (Secure Socket Layer</strong>: Mit der SSL-Verschlüsselung können Sie Landingpages für eine Marketo Engage-Instanz sicher machen. Die Aktivierung dieser Funktion erforderte in der Regel die Unterstützung des Adobe-Supportteams. Marketo-Anwender können sie jetzt selbst aktivieren und so wertvolle Zeit sparen.</td> 
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
   </tr>
-  </tbody> 
+ </tbody> 
 </table>
 <br/>
 
 ## Ankündigungen {#announcements}
+
+* **Neue Analytics-Funktion - Öffentliche Beta**: [Advanced BI Analytics](/help/marketo/product-docs/reporting/advanced-bi-analytics/overview.md){target="_blank"} (früher als Revenue Explorer und Advanced Report Builder bezeichnet) wird ab Mitte April für alle aktuellen Benutzenden des Umsatzzyklus-Explorers bereitgestellt. Dieses neue Tool bietet eine flexible Reporting- und Visualisierungsschnittstelle zu Marketo Engage-Daten und liefert detaillierte Informationen zu Fortschritt, Leistung und mehr. Er bietet mehr Interaktivität und Visualisierung, schnellere Leistung und ein nahtloseres und intuitiveres Benutzererlebnis.
+
+Um auf diese Funktion zugreifen zu können, müssen Sie das Add-on „Advanced BI Analytics“ erworben haben. Weitere Informationen erhalten Sie beim Adobe Account Team (Ihrem Account Manager).
+
+* **Einstellung von REST-API-„access_token“-**: Der `access_token` Abfrageparameter, der zum Authentifizieren von Marketo REST-API-Aufrufen verwendet wird, wird nicht mehr unterstützt und ist nach dem 30. Juni 2025 nicht mehr verfügbar. Alle neuen und vorhandenen Integrationen sollten REST-API-Aufrufe mit dem Header „Authorization“ authentifizieren [wie hier beschrieben](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+
+* **Einstellung der SOAP-**: Die Unterstützung für die Marketo SOAP-API endet am 31. Oktober 2025. Services, die SOAP-API-Funktionen verwenden, sollten zur [REST-API“ migriert ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
 
 * **Einstellung von Social**: Am Mittwoch, 31. Juli 2024, begann Marketo Engage mit der Einstellung der folgenden Social-Media-Funktionen innerhalb des Produkts:
 
@@ -71,11 +69,3 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    * Gewinnspiele
 
 Ab diesem Zeitpunkt waren Benutzende nicht mehr in der Lage, diese Social-Media-Funktionen in Marketo Engage zu erstellen, zu klonen oder einzubetten. Vorhandene soziale Assets funktionieren bis zum 31. Januar 2025 weiterhin. Am 1. Februar 2025 hörten die sozialen Assets auf zu funktionieren. Alle in Landingpages eingebetteten Social-Media-Funktionen müssen entfernt werden. [Weitere Informationen](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
-
-* **Einstellung von REST-API-„access_token“-**: Der `access_token` Abfrageparameter, der zum Authentifizieren von Marketo REST-API-Aufrufen verwendet wird, wird nicht mehr unterstützt und ist nach dem 30. Juni 2025 nicht mehr verfügbar. Alle neuen und vorhandenen Integrationen sollten REST-API-Aufrufe mit dem Header „Authorization“ authentifizieren [wie hier beschrieben](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
-
-* **Einstellung der SOAP-**: Die Unterstützung für die Marketo SOAP-API endet am 31. Oktober 2025. Services, die SOAP-API-Funktionen verwenden, sollten zur [REST-API“ migriert ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
-
-* **Neue Analytics-Funktion - Öffentliche Beta**: [Advanced BI Analytics](/help/marketo/product-docs/reporting/advanced-bi-analytics/overview.md){target="_blank"} (früher als Revenue Explorer und Advanced Report Builder bezeichnet) wird ab Mitte April für alle aktuellen Benutzenden des Umsatzzyklus-Explorers bereitgestellt. Dieses neue Tool bietet eine flexible Reporting- und Visualisierungsschnittstelle zu Marketo Engage-Daten und liefert detaillierte Informationen zu Fortschritt, Leistung und mehr. Er bietet mehr Interaktivität und Visualisierung, schnellere Leistung und ein nahtloseres und intuitiveres Benutzererlebnis.
-
-Um auf diese Funktion zugreifen zu können, müssen Sie das Add-on „Advanced BI Analytics“ erworben haben. Weitere Informationen erhalten Sie beim Adobe Account Team (Ihrem Account Manager).

@@ -4,10 +4,10 @@ title: Aktuelle Versionshinweise
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 44ea3d408cf460b41f3fa92c639ca089a195a4bc
+source-git-commit: 38ec4726dece1695a15104fdb7fa7592b298d4a9
 workflow-type: tm+mt
-source-wordcount: '393'
-ht-degree: 9%
+source-wordcount: '429'
+ht-degree: 7%
 
 ---
 
@@ -43,17 +43,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>TITLE</strong>: Text.</td> 
-   <td><i>Demnächst verfügbar</i></td>
-   <td><i>Demnächst verfügbar</i></td>
-  </tr>
-  <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr> 
-   <td><strong>TITLE</strong>: Text.</td> 
+   <td><strong>SSL-Self-Service (Secure Socket Layer</strong>: Mit der SSL-Verschlüsselung können Sie Landingpages für eine Marketo Engage-Instanz sicher machen. Die Aktivierung dieser Funktion erforderte in der Regel die Unterstützung des Adobe-Supportteams. Marketo-Anwender können sie jetzt selbst aktivieren und so wertvolle Zeit sparen.</td> 
    <td><i>Demnächst verfügbar</i></td>
    <td><i>Demnächst verfügbar</i></td>
   </tr>
