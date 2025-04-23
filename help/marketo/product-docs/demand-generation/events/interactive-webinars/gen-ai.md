@@ -3,9 +3,9 @@ description: GenAI-Funktionen - Marketo-Dokumente - Produktdokumentation
 title: GenAI-Funktionen
 feature: Interactive Webinars
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: 58ccf430a1bf05e93ce9ba5bef4315c6e4ccad2d
+source-git-commit: ce79145d8186e6d17dbe579aceb90d3c209f1b31
 workflow-type: tm+mt
-source-wordcount: '628'
+source-wordcount: '630'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,7 @@ Nachdem Sie die Adobe GenAI-Nutzungsbedingungen akzeptiert haben, müssen Sie si
 
 1. Warten Sie nach der Durchführung Ihres On-Demand-Webinars 30 bis 60 Minuten, bis die KI Ihre Aufzeichnung verarbeitet hat. Die Schaltfläche Generieren wird anklickbar, sobald sie verfügbar ist.
 
-1. Klicken Sie **[!UICONTROL Generieren]**.
+1. Klicken Sie **[!UICONTROL GenAI-Inhalt anzeigen]**.
 
    ![](assets/gen-ai-features-2.png){width="800" zoomable="yes"}
 

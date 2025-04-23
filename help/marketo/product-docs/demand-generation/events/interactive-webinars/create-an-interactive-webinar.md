@@ -3,9 +3,9 @@ description: Erstellen eines interaktiven Webinars - Marketo-Dokumente - Produkt
 title: Erstellen eines interaktiven Webinars
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: de95149324a5841a21876598ae1cd06e1fbef6e6
+source-git-commit: ce79145d8186e6d17dbe579aceb90d3c209f1b31
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '306'
 ht-degree: 0%
 
 ---
@@ -42,13 +42,13 @@ Erstellen Sie in wenigen einfachen Schritten ein interaktives Webinar.
 
    ![](assets/create-an-interactive-webinar-5.png)
 
-1. Geben Sie Ihrem Webinar einen Titel. Legen Sie die maximale Zielgruppengröße und die Dauer fest.
+1. Geben Sie Ihrem Webinar einen Titel und entscheiden Sie, wie lange es dauern wird.
 
    ![](assets/create-an-interactive-webinar-6.png)
 
    >[!NOTE]
    >
-   >* Der Titel des Webinars wird den Teilnehmern angezeigt, wenn sie daran teilnehmen. Es ist wichtig, dass sich der Titel vom Namen des Veranstaltungsprogramms für interaktive Webinare in Ihrer Marketo Engage-Instanz sowie vom Namen des Webinarraums unterscheidet.
+   >* Der Titel des Webinars **ist für** sichtbar, wenn sie teilnehmen. Es ist wichtig, dass sich der Titel vom Namen des Veranstaltungsprogramms für interaktive Webinare in Ihrer Marketo Engage-Instanz sowie vom Namen des Webinarraums unterscheidet.
    >
    >* Sie können einen Webinar-Titel nicht wiederverwenden. Jede muss in Ihrer Marketo-Instanz eindeutig sein.
    >
@@ -56,7 +56,7 @@ Erstellen Sie in wenigen einfachen Schritten ein interaktives Webinar.
    >
    >* Wenn Sie ein Test-Webinar erstellen, muss es vor seiner Startzeit gelöscht werden, um sicherzustellen, dass die Lizenz für dieses Webinar nicht genutzt wird.
 
-1. Planen Sie das Datum/die Uhrzeit Ihres Webinars und klicken Sie auf **Erstellen**.
+1. Planen Sie das Datum/die Uhrzeit Ihres Webinars, ändern Sie bei Bedarf die Zeitzone und legen Sie die maximale Zielgruppengröße fest. Klicken Sie **Erstellen** wenn Sie fertig sind.
 
    ![](assets/create-an-interactive-webinar-7.png)
 
