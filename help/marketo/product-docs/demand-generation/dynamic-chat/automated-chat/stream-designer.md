@@ -3,7 +3,7 @@ description: Streamen von Designer - Marketo-Dokumente - Produktdokumentation
 title: Entwerferin bzw. Entwerfer des Streams
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: d8c6ff5b54b9cee26456ec7539168a5ee0c8190f
+source-git-commit: d73ff37236abbd0d97631ad66b8eb34473650554
 workflow-type: tm+mt
 source-wordcount: '1250'
 ht-degree: 2%
@@ -12,11 +12,11 @@ ht-degree: 2%
 
 # Entwerferin bzw. Entwerfer des Streams {#stream-designer}
 
-Es _(viele_ Stream-Kombinationen möglich. Dieser Artikel enthält ein Beispiel, bei dem der Marketing-Experte den Site-Besucher fragt, ob er Produktfragen hat. Wenn ja, kann der Besucher einen Termin vereinbaren. Ist dies nicht der Fall, hat der Besucher die Möglichkeit, einer Mailingliste für die zukünftige Korrespondenz beizutreten. Ihnen steht auch eine kostenlose PDF zur Verfügung. Das letztendliche Ziel besteht darin, entweder einen Termin zu vereinbaren oder die E-Mail des Besuchers zu erfassen.
+Es _(viele_ Stream-Kombinationen möglich. Dieser Artikel enthält ein Beispiel, bei dem der Marketing-Experte den Site-Besucher fragt, ob er Produktfragen hat. Wenn ja, kann der Besucher einen Termin vereinbaren. Ist dies nicht der Fall, hat der Besucher die Möglichkeit, einer Mailingliste für die zukünftige Korrespondenz beizutreten. Ihnen wird auch ein kostenloser PDF angeboten. Das letztendliche Ziel besteht darin, entweder einen Termin zu vereinbaren oder die E-Mail des Besuchers zu erfassen.
 
 >[!PREREQUISITES]
 >
->Bevor Sie die Dokumentkarte verwenden können, müssen Sie sie zunächst [in ](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md){target="_blank"} Adobe-Konto einrichten).
+>Bevor Sie die Dokumentkarte verwenden können, müssen Sie sie [ in ](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md){target="_blank"} Adobe-Konto einrichten.
 
 ## Streamen von Designer-Karten {#stream-designer-cards}
 
@@ -25,7 +25,7 @@ Die Stream-Designer enthält mehrere Karten, die Sie hinzufügen können, um die
 <table>
  <tr>
   <td style="width:25%"><strong>Nachricht</strong></td>
-  <td>Verwenden Sie , wenn Sie eine Aussage machen möchten, ohne dass eine Antwort erforderlich ist (z. B.: „Hallo! Alle Artikel erhalten heute 25 % Rabatt mit dem Code SAVE25„).
+  <td style="width:75%">Verwenden Sie , wenn Sie eine Aussage machen möchten, ohne dass eine Antwort erforderlich ist (z. B.: „Hallo! Alle Artikel erhalten heute 25 % Rabatt mit dem Code SAVE25„).
 </td>
  </tr>
  <tr>
@@ -51,7 +51,7 @@ Die Stream-Designer enthält mehrere Karten, die Sie hinzufügen können, um die
  <tr>
   <td style="width:25%"><strong>Aktion*</strong></td>
   <td>Ähnlich wie bei ausgeblendeten Feldern in einem Formular können Sie mit der Aktionskarte jedes Lead- oder Firmenattribut (das einen <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">Datentyp Zeichenfolge</a> aufweist) mit impliziten Werten füllen, die Sie für einen Lead-Datensatz erfassen möchten. Sie können die Aktionskarte zu einem beliebigen Zeitpunkt in der Konversation hinzufügen und die entsprechenden Attribute mit einem Wert oder nativen Token aktualisieren, die den entsprechenden Wert automatisch ausfüllen.
-  <p><i>* Diese Karte erfordert Dynamic Chat Prime. Weitere Informationen erhalten Sie beim Adobe Account Team (Ihrem Account Manager).</i></td>
+  <p><i>* Für diese Karte ist Dynamic Chat Prime erforderlich. Weitere Informationen erhalten Sie beim Adobe Account Team (Ihrem Account Manager).</i></td>
  </tr>
  <tr>
   <td style="width:25%"><strong>Live-Chat</strong></td>
@@ -62,7 +62,7 @@ Die Stream-Designer enthält mehrere Karten, die Sie hinzufügen können, um die
  <tr>
   <td style="width:25%"><strong>Erzeugte Antworten*</strong></td>
   <td>Erstellen Sie eine Nachricht für den Besucher, wenn er einen bestimmten Punkt in der Konversation erreicht. Legen Sie eine Reihe von Fragen fest, die sie in einem Schritt stellen können, um Ihren gewünschten Key Performance Indicator zu erzielen.
-  <p><i>* Diese Karte erfordert Dynamic Chat Prime. Weitere Informationen erhalten Sie beim Adobe Account Team (Ihrem Account Manager).</i></td>
+  <p><i>* Für diese Karte ist Dynamic Chat Prime erforderlich. Weitere Informationen erhalten Sie beim Adobe Account Team (Ihrem Account Manager).</i></td>
  </tr>
  <tr>
   <td style="width:25%"><strong>Bedingte Verzweigung</strong></td>
@@ -109,7 +109,7 @@ Sie können Streams für Dialoge oder [Conversational Forms](/help/marketo/produ
 
    ![](assets/stream-designer-6.png)
 
-1. Ziehen Sie die Karte [!UICONTROL Frage] per Drag-and-Drop.
+1. Ziehen Sie die Karte _[!UICONTROL Frage]_ per Drag-and-Drop.
 
    ![](assets/stream-designer-7.png)
 
@@ -121,7 +121,7 @@ Sie können Streams für Dialoge oder [Conversational Forms](/help/marketo/produ
    >
    >Sie können das Erlebnis für Chat-Besucher anpassen!
    >
-   >* Klicken Sie auf das Symbol &quot;HTML einfügen“ `</>`, um Ihre eigene HTML für das gewünschte Look-and-Feel des Gesprächs einzufügen.
+   >* Klicken Sie auf das `</>` &quot;HTML einfügen“, um Ihre eigene HTML für das gewünschte Look-and-Feel der Unterhaltung einzufügen.
    >
    >* Verwenden Sie Token für bekannte Chat-Besucher, um ihr Erlebnis zu personalisieren (z. B.: Hello `{{lead.leadFirstName:""}}`). Klicken Sie auf das Symbol Geschweifte Klammer `{}` und wählen Sie aus. Fügen Sie zwischen den Anführungszeichen einen Standardwert hinzu, wenn anonyme Besucher etwas Allgemeines sehen sollen (z. B.: Hallo `{{lead.leadFirstName:"there"}}`).
 
@@ -137,7 +137,7 @@ Sie können Streams für Dialoge oder [Conversational Forms](/help/marketo/produ
    >
    >**[!UICONTROL Gespeicherte Werte bearbeiten]** ist ein optionaler Schritt für diejenigen, die einen anderen Wert in der Datenbank speichern möchten als den, der Besuchern im Chatbot für zugeordnete Attribute in der Fragekarte angezeigt wird (z. B.: Besucher sieht „Suchmaschinenoptimierung“, Sie speichern diesen Wert als „SEO„).
 
-1. Bei „Ja“ möchten wir einen Termin planen. Ziehen Sie also unterhalb dieser Option die Karte Terminplanung auf den Tisch.
+1. Wenn Sie mit „Ja“ eine Besprechung buchen möchten, ziehen Sie unterhalb dieser Option über die Karte _Besprechungsbuchung_.
 
    ![](assets/stream-designer-10.png)
 
@@ -204,11 +204,11 @@ Sie können Streams für Dialoge oder [Conversational Forms](/help/marketo/produ
 
    ![](assets/stream-designer-20.png)
 
-1. Denken Sie daran, eine Antwort hinzuzufügen, wenn sie „Nein“ sagen. Eine Möglichkeit besteht darin, eine Nachrichtenkarte unten zu ziehen und „Trotzdem danke“ zu sagen. In diesem Beispiel stellen wir ihnen stattdessen ein kostenloses PDF-Dokument zur Verfügung.
+1. Denken Sie daran, eine Antwort hinzuzufügen, wenn sie „Nein“ sagen. Eine Möglichkeit besteht darin, eine Nachrichtenkarte unten zu ziehen und „Trotzdem danke“ zu sagen. In diesem Beispiel stellen wir ihnen jedoch stattdessen ein kostenloses PDF-Dokument zur Verfügung.
 
    ![](assets/stream-designer-21.png)
 
-1. In diesem Beispiel erstellen wir ein neues Dokument. Geben Sie einen Namen für die bereits gehostete PDF ein, und klicken Sie auf **[!UICONTROL Speichern]**.
+1. In diesem Beispiel erstellen wir ein neues Dokument. Geben Sie einen Namen für das Konto ein, geben Sie die URL für das bereits gehostete PDF ein und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/stream-designer-22.png)
 
@@ -216,13 +216,13 @@ Sie können Streams für Dialoge oder [Conversational Forms](/help/marketo/produ
 
    ![](assets/stream-designer-23.png)
 
-1. Wenn Sie Ihr Dialogfeld aktivieren möchten, klicken Sie auf **[!UICONTROL Publish]**.
+1. Wenn Sie Ihr Dialogfeld aktivieren möchten, klicken Sie auf **[!UICONTROL Veröffentlichen]**.
 
    ![](assets/stream-designer-24.png)
 
 >[!NOTE]
 >
->Bevor Sie auf [!UICONTROL Publish] klicken, vergewissern Sie sich, dass [ Ihre Ziel-URL(s) eingegeben haben](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"}.
+>Bevor Sie auf [!UICONTROL Veröffentlichen] klicken, vergewissern Sie sich, dass Sie [ Ziel-URL(s) ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"} haben.
 
 >[!MORELIKETHIS]
 >
