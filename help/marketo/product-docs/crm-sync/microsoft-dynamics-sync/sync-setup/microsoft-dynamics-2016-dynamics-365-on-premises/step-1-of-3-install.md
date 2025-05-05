@@ -30,7 +30,7 @@ Bevor Sie Microsoft Dynamics 2016 On-Premise/Dynamics 365 mit Marketo Engage syn
 >
 >Sie benötigen CRM-Administratorrechte, um diese Synchronisierung durchzuführen.
 
-1. Melden Sie sich bei Dynamics an. Klicken Sie auf das Dropdown-]****[!UICONTROL  Microsoft Dynamics CRM und wählen Sie **[!UICONTROL Einstellungen]**.
+1. Melden Sie sich bei Dynamics an. Klicken Sie auf das Dropdown-**&#x200B;** Microsoft Dynamics CRM und wählen Sie **[!UICONTROL Einstellungen]**.
 
    ![](assets/image2015-3-19-8-33-29.png)
 

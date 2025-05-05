@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Verwenden Sie das Dashboard, um einen allgemeinen Überblick darüber zu erhalten, wie Keyword-Ränge im Trend liegen und wie gut Ihre Site für SEO optimiert ist.
 
-Im Abschnitt [!UICONTROL Recommendations} erfahren Sie, wie Sie ] verbessern können. Lasst uns eintauchen!
+Im Abschnitt [!UICONTROL Recommendations&rbrace; erfahren Sie, wie Sie &#x200B;] verbessern können. Lasst uns eintauchen!
 
 ![](assets/image2014-9-17-21-3a39-3a57.png)
 

@@ -47,7 +47,7 @@ Zusätzlich zum Marketing-Kalender können Sie Ihre Ereignisse und Standardprogr
 
 ## Auflisten von Vorgängen in der REST-API {#list-operations-in-the-rest-api}
 
-Wir haben die folgenden Aufrufe im Zusammenhang mit Listenvorgängen in ReST hinzugefügt. Die vollständige Dokumentation finden Sie ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api) [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api.
+Wir haben die folgenden Aufrufe im Zusammenhang mit Listenvorgängen in ReST hinzugefügt. Die vollständige Dokumentation finden Sie [&#128279;](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api) https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api.
 
 * Liste nach ID abrufen
 * Abrufen mehrerer Listen

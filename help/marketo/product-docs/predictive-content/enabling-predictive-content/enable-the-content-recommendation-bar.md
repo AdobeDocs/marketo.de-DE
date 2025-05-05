@@ -52,9 +52,9 @@ Die Inhaltsempfehlungs-Engine verwendet prädiktive Analysen und Algorithmen des
    >* Anzeige-URL sollte der Pfad der Domain sein
    >* Schließen Sie weder https:// noch https:// ein.
    >* &#42; für Platzhalter verwenden
-   * Semikolon als Trennzeichen verwenden
-   * Beispiel: /contact_us&#42;; &#42;action=logout&#42;
-   * Bei diesem Feld wird zwischen Groß- und Kleinschreibung unterschieden
+   >* Semikolon als Trennzeichen verwenden
+   >* Beispiel: /contact_us&#42;; &#42;action=logout&#42;
+   >* Bei diesem Feld wird zwischen Groß- und Kleinschreibung unterschieden
 
 ## Überlegungen zur Empfehlungsleiste {#recommendation-bar-considerations}
 
@@ -65,4 +65,4 @@ Die Inhaltsempfehlungs-Engine verwendet prädiktive Analysen und Algorithmen des
 
 >[!MORELIKETHIS]
 >
-[Prädiktive Inhalte für Web-Rich-Media aktivieren](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
+>[Prädiktive Inhalte für Web-Rich-Media aktivieren](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)

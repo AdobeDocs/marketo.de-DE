@@ -41,7 +41,7 @@ Wenn Sie [SSO verwenden](/help/marketo/product-docs/administration/additional-in
 
 >[!NOTE]
 >
->Es empfiehlt sich, die Benutzer einzuladen und die Einladung anzunehmen. _Nachdem_ Einladung angenommen wurde, sollten Administratoren sie auf &quot;[!UICONTROL SSO erforderlich“ ].
+>Es empfiehlt sich, die Benutzer einzuladen und die Einladung anzunehmen. _Nachdem_ Einladung angenommen wurde, sollten Administratoren sie auf &quot;[!UICONTROL SSO erforderlich“ &#x200B;].
 
 >[!TIP]
 >

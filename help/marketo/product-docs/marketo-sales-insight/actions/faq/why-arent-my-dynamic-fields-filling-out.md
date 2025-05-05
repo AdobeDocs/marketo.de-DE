@@ -22,7 +22,7 @@ Es gibt drei Arten von dynamischen Feldern in Sales-Insight-Aktionen: „Standar
 
 Salesforce-Felder: z. B. `{{sfdc_account_name}}`
 
-* Stellen Sie sicher, dass sie ordnungsgemäß mit Sales Insight-Aktionen verbunden ist. Navigieren Sie zur Seite [Einstellungen](https://toutapp.com/login{target="_blank"} und klicken Sie auf **Verwalten** neben Ihrem CRM.
+* Stellen Sie sicher, dass sie ordnungsgemäß mit Sales Insight-Aktionen verbunden ist. Navigieren Sie zur Seite [Einstellungen] (https://toutapp.com/login{target="_blank"} und klicken Sie auf **Verwalten** neben Ihrem CRM.
 
 **Fehlerbehebung bei grundlegenden und benutzerdefinierten Feldern**
 

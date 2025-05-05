@@ -15,10 +15,10 @@ ht-degree: 3%
 
 Lesen Sie das folgende Szenario und versuchen Sie, die Zahlen zu bestimmen, die im Raster enthalten sein sollen.
 
-* 11. April | Steve Downloads (Inhalt) - Erfolg
-* 22. April | Opportunity wird für 3.000 $ erstellt (sowohl Steve als auch Jason haben Rollen)
-* 25. April | Jason nimmt teil (Webinar) - Erfolg
-* 30. April | Opportunity ist abgeschlossen gewonnen
+* &#x200B;11. April | Steve Downloads (Inhalt) - Erfolg
+* &#x200B;22. April | Opportunity wird für 3.000 $ erstellt (sowohl Steve als auch Jason haben Rollen)
+* &#x200B;25. April | Jason nimmt teil (Webinar) - Erfolg
+* &#x200B;30. April | Opportunity ist abgeschlossen gewonnen
 
 | Attributionsmetrik | (Inhalt) | (Webinar) |
 |---|---|---|

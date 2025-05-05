@@ -29,4 +29,4 @@ Synchronisieren Sie zusätzliche Felder von BrightTALK mit Marketo, einschließl
 
 ## Android Tablet-Ereignis-Check-in-App {#android-tablet-event-check-in-app}
 
-Checken Sie Teilnehmer mit unserer neuen [Android-basierten Check-in-App, die auf {](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)}Google Play} verfügbar ist, in Ihre Veranstaltung ](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en).[
+Checken Sie Teilnehmer mit unserer neuen [Android-basierten Check-in-App, die auf {](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)}Google Play&rbrace; verfügbar ist, in Ihre Veranstaltung [&#128279;](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en).

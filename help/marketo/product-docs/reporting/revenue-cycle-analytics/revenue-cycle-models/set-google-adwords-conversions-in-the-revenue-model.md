@@ -19,7 +19,7 @@ Verknüpfen Sie Ihr Google AdWords-Konto mit Marketo, um Offline-Konversionsdate
 >
 >Dies ist eine Push-Integration von Marketo in Google AdWords. Konversionsdaten werden _nur_ in Ihrem Google AdWords-Portal angezeigt, _nicht in der Marketo-Benutzeroberfläche_.
 
-Google Erfahren Sie mehr über die Offline-Konversions-Importfunktion von [](https://support.google.com/adwords/answer/2998031?hl=en). Ordnen Sie Offline-Konversionen von AdWords einem oder mehreren Phasen in einem Umsatzmodell zu. Es gibt drei Möglichkeiten für die Zuordnung:
+Google Erfahren Sie mehr über die Offline-Konversions-Importfunktion von [&#128279;](https://support.google.com/adwords/answer/2998031?hl=en). Ordnen Sie Offline-Konversionen von AdWords einem oder mehreren Phasen in einem Umsatzmodell zu. Es gibt drei Möglichkeiten für die Zuordnung:
 
 * AdWords-Conversion
 * Bühnenaktion

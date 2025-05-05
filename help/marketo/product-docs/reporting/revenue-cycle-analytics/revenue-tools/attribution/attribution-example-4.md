@@ -15,12 +15,12 @@ ht-degree: 3%
 
 Lesen Sie das folgende Szenario und versuchen Sie, die Zahlen zu bestimmen, die im Raster enthalten sein sollen.
 
-* 11. April | Michelle lädt E-Book herunter (Inhalt) - Erfolg
-* 15. April | John nimmt teil (Webinar) - Erfolg
-* 22. April | (Opportunity 1) für 3.000 $ erstellt
-* 24. April | (Opportunity 2) für 5.000 $ erstellt
-* 25. April | John und Michelle sind mit Optys **beide** verbunden
-* 29. April | [Opty 1] ist abgeschlossen gewonnen
+* &#x200B;11. April | Michelle lädt E-Book herunter (Inhalt) - Erfolg
+* &#x200B;15. April | John nimmt teil (Webinar) - Erfolg
+* &#x200B;22. April | (Opportunity 1) für 3.000 $ erstellt
+* &#x200B;24. April | (Opportunity 2) für 5.000 $ erstellt
+* &#x200B;25. April | John und Michelle sind mit Optys **beide** verbunden
+* &#x200B;29. April | [Opty 1] ist abgeschlossen gewonnen
 
 | Programmname | (Inhalt) | (Webinar) |
 |---|---|---|

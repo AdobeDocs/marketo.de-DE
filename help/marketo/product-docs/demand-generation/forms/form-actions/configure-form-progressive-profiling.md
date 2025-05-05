@@ -65,7 +65,7 @@ Kurze Formulare sind gut! Wenn jemand zu einem Formular zurückkehrt, können Si
 
    >[!NOTE]
    >
-   >Wenn Sie **Number****Of** **Blank** **Fields** als 1 auswählen, sehen die Besucher beim ersten Anzeigen dieses Formulars Folgendes:
+   >Wenn Sie **Number**&#x200B;**Of** **Blank** **Fields** als 1 auswählen, sehen die Besucher beim ersten Anzeigen dieses Formulars Folgendes:
    >
    >* Vorname (leer)
    >* Nachname (leer)

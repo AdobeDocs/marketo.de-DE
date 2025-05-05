@@ -21,7 +21,7 @@ Wie Präsentationen sind Ziele [Workspace](/help/marketo/product-docs/administra
 
    ![](assets/2017-05-10-15-30-47-1.png)
 
-1. Klicken Sie unten ]**rechts auf**[!UICONTROL  Presentations.
+1. Klicken Sie unten **rechts auf** Presentations.
 
    ![](assets/image2015-3-24-12-3a2-3a55.png)
 

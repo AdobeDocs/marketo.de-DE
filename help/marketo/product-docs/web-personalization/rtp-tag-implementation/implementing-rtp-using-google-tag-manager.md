@@ -17,9 +17,9 @@ Um Ihr RTP-Tag zu implementieren, folgen Sie bitte den unten stehenden Installat
 
 1. Melden Sie sich bei Ihrem Google Tag Manager-Konto an.
 
-1. Fügen Sie ein neues Tag hinzu > Tag-Konfigurationen > Benutzerdefiniertes HTML-Tag**.** nenne es **RTP**.
+1. Fügen Sie ein neues Tag hinzu > Tag-Konfigurationen > Benutzerdefiniertes HTML-Tag&#x200B;**.** nenne es **RTP**.
 
-1. Melden Sie sich bei Ihrem RTP-** an.**
+1. Melden Sie sich bei Ihrem RTP-**&#x200B; an.**
 
 1. Navigieren Sie **Kontoeinstellungen**.
 

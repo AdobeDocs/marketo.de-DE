@@ -31,7 +31,7 @@ Sie haben Ihre benutzerdefinierte Aktivität genau so, wie Sie sie möchten. Jet
 
    ![](assets/publish-a-custom-activity-4.png)
 
-   Der Status Ihrer benutzerdefinierten Aktivität wird [!UICONTROL von ]Entwurf[!UICONTROL  angezeigt]…
+   Der Status Ihrer benutzerdefinierten Aktivität wird [!UICONTROL von &#x200B;]Entwurf[!UICONTROL &#x200B; angezeigt]…
 
    ![](assets/publish-a-custom-activity-5.png)
 

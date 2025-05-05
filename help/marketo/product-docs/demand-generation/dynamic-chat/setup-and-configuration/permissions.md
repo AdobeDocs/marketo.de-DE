@@ -16,7 +16,7 @@ Es gibt fünf Standardprofile mit vordefinierten Berechtigungen, die Sie im Dyna
 
 ## Bearbeiten vorhandener Berechtigungen {#edit-existing-permissions}
 
-1. Adobe Admin Console Klicken Sie in der [](https://adminconsole.adobe.com/){target="_blank"} auf **Dynamic Chat**.
+1. Adobe Admin Console Klicken Sie in der [&#128279;](https://adminconsole.adobe.com/){target="_blank"} auf **Dynamic Chat**.
 
    ![](assets/permissions-1.png)
 
@@ -50,7 +50,7 @@ Sie können diesen Vorgang nun für alle anderen Dynamic Chat-Bereiche wiederhol
 
 ## Profil erstellen {#create-a-profile}
 
-1. Adobe Admin Console Klicken Sie in der [](https://adminconsole.adobe.com/){target="_blank"} auf **Dynamic Chat**.
+1. Adobe Admin Console Klicken Sie in der [&#128279;](https://adminconsole.adobe.com/){target="_blank"} auf **Dynamic Chat**.
 
    ![](assets/permissions-8.png)
 

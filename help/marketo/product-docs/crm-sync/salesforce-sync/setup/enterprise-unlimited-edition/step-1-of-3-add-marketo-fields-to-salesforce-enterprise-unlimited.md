@@ -35,7 +35,7 @@ Führen Sie die folgenden Schritte für jedes der drei benutzerdefinierten Felde
 
    ![](assets/image2016-5-23-13-3a15-3a21.png)
 
-1. Klicken Sie [!UICONTROL  Menü ] auf der linken Seite auf **[!UICONTROL Anpassen]** und wählen Sie **[!UICONTROL Leads]**. Klicken Sie auf **[!UICONTROL Felder]**.
+1. Klicken Sie [!UICONTROL &#x200B; Menü &#x200B;] auf der linken Seite auf **[!UICONTROL Anpassen]** und wählen Sie **[!UICONTROL Leads]**. Klicken Sie auf **[!UICONTROL Felder]**.
 
    ![](assets/image2016-5-23-13-3a20-3a5.png)
 

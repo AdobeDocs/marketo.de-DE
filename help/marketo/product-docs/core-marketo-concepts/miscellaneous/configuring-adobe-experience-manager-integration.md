@@ -47,7 +47,7 @@ Konfigurieren Sie Adobe Experience Manager (AEM), damit Sie auf AEM-Assets zugre
 
    ![](assets/four.png)
 
-1. Geben Sie **[!UICONTROL Textfeld „Zulässige Ursprünge (Regexp]** ein und klicken Sie auf `https://.*\.marketo\.com`Speichern ****.
+1. Geben Sie **[!UICONTROL Textfeld „Zulässige Ursprünge (Regexp]** ein und klicken Sie auf `https://.*\.marketo\.com`Speichern **&#x200B;**.
 
    ![](assets/five-psd.png)
 

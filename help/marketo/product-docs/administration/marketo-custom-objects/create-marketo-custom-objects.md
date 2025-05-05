@@ -49,7 +49,7 @@ Dieses Beispiel zeigt ein benutzerdefiniertes Auto-Objekt zur Verwendung in eine
 
    >[!NOTE]
    >
-   >Sie können diese Felder beim Erstellen bearbeiten, aber nach dem Speichern können Sie nur das Feld „Pluraler Name[!UICONTROL  und ] Regler **[!UICONTROL In Lead-Detail anzeigen]** bearbeiten.
+   >Sie können diese Felder beim Erstellen bearbeiten, aber nach dem Speichern können Sie nur das Feld „Pluraler Name[!UICONTROL &#x200B; und &#x200B;] Regler **[!UICONTROL In Lead-Detail anzeigen]** bearbeiten.
 
 1. Ziehen Sie den **[!UICONTROL „In Lead-Detail anzeigen]** auf den Regler, um **[!UICONTROL Anzeigen]** anzuzeigen, wenn Sie benutzerdefinierte Objektdaten auf der Seite „Datenbank“ anzeigen möchten. Klicken Sie auf **[!UICONTROL Speichern]**.
 
@@ -91,7 +91,7 @@ Dieses Beispiel zeigt ein benutzerdefiniertes Kursobjekt, das Sie zum Erstellen 
 
    >[!NOTE]
    >
-   >Sie können diese Felder beim Erstellen bearbeiten, aber nach dem Speichern können Sie nur das Feld „Pluraler Name[!UICONTROL  und ] Regler **[!UICONTROL In Lead-Detail anzeigen]** bearbeiten.
+   >Sie können diese Felder beim Erstellen bearbeiten, aber nach dem Speichern können Sie nur das Feld „Pluraler Name[!UICONTROL &#x200B; und &#x200B;] Regler **[!UICONTROL In Lead-Detail anzeigen]** bearbeiten.
 
 1. Ziehen Sie den **[!UICONTROL „In Lead-Detail anzeigen]** auf den Regler, um **[!UICONTROL Anzeigen]** anzuzeigen, wenn Sie benutzerdefinierte Objektdaten auf der Seite „Datenbank“ anzeigen möchten. Klicken Sie auf **[!UICONTROL Speichern]**.
 
@@ -133,7 +133,7 @@ Verwenden Sie ein Zwischenobjekt, um ein benutzerdefiniertes Objekt mit Personen
 
    >[!NOTE]
    >
-   >Sie können diese Felder beim Erstellen bearbeiten, aber nach dem Speichern können Sie nur das Feld „Pluraler Name[!UICONTROL  und ] Regler [!UICONTROL In Lead-Detail anzeigen] bearbeiten.
+   >Sie können diese Felder beim Erstellen bearbeiten, aber nach dem Speichern können Sie nur das Feld „Pluraler Name[!UICONTROL &#x200B; und &#x200B;] Regler [!UICONTROL In Lead-Detail anzeigen] bearbeiten.
 
 1. Ziehen Sie den **[!UICONTROL „In Lead-Detail anzeigen]** auf den Regler, um **Anzeigen** anzuzeigen, wenn Sie benutzerdefinierte Objektdaten auf der Seite „Datenbank“ anzeigen möchten. Klicken Sie auf **Speichern**.
 

@@ -36,7 +36,7 @@ Administratoren können die von Marketo Engage festgelegte Priorität für Trigg
 
    ![](assets/priority-override-for-trigger-campaigns-2.png)
 
-1. Wählen [!UICONTROL  unter „Marketing-Aktivitäten ]&quot; die Option **[!UICONTROL Trigger-Kampagnenpriorität bearbeiten]** aus. Klicken Sie auf **[!UICONTROL Speichern]**.
+1. Wählen [!UICONTROL &#x200B; unter „Marketing-Aktivitäten &#x200B;]&quot; die Option **[!UICONTROL Trigger-Kampagnenpriorität bearbeiten]** aus. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/priority-override-for-trigger-campaigns-3.png)
 
@@ -56,6 +56,6 @@ Administratoren können die von Marketo Engage festgelegte Priorität für Trigg
 
 >[!NOTE]
 >
->* Sie können die Standardpriorität Ihrer Kampagne in der [!UICONTROL Kampagnenwarteschlange“ unter ]Marketing[!UICONTROL Aktivitäten) ]. Um die Ausführungsrate zu erhöhen, empfehlen wir, die Kampagnenpriorität eine Ebene höher als die Standardpriorität festzulegen.
+>* Sie können die Standardpriorität Ihrer Kampagne in der [!UICONTROL Kampagnenwarteschlange“ unter &#x200B;]Marketing[!UICONTROL Aktivitäten) &#x200B;]. Um die Ausführungsrate zu erhöhen, empfehlen wir, die Kampagnenpriorität eine Ebene höher als die Standardpriorität festzulegen.
 >* Die Priorität für Benutzereinstellungen gilt nur für neue Personen, die sich für die Kampagne qualifizieren. Personen, die sich bereits in der Warteschlange befinden, sind davon nicht betroffen.
 >* Prioritätsüberschreibungen werden im [Audit-Protokoll](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md){target="_blank"} erfasst.

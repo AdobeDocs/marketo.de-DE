@@ -45,11 +45,11 @@ Sie können Ihre E-Mails einfach mit A/B-Tests überprüfen. Ein großartiger Te
 
 1. Wählen Sie Ihre zweite E-Mail aus.
 
-   [](assets/image2014-9-12-15-3a23-3a49.png)
+   [&#128279;](assets/image2014-9-12-15-3a23-3a49.png)
 
 1. Klicken Sie auf **Hinzufügen**, um die zweite E-Mail anzuwenden. Ziehen Sie den Schieberegler, um den Prozentsatz der Zielgruppe auszuwählen, den Sie Ihren A/B-Test erhalten möchten, und klicken Sie auf **Weiter**.
 
-   [](assets/image2014-9-12-15-3a24-3a1.png)
+   [&#128279;](assets/image2014-9-12-15-3a24-3a1.png)
 
    >[!NOTE]
    >

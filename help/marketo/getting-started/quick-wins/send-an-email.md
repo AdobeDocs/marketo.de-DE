@@ -43,7 +43,7 @@ Das ist das Erste, was jeder machen will. Senden wir eine E-Mail aus Marketo!
 
 ## Definieren der Audience {#define-your-audience}
 
-1. Klicken Sie **[!UICONTROL der Kachel [!UICONTROL Zielgruppe]** auf Smart-Liste ].
+1. Klicken Sie **[!UICONTROL der Kachel [!UICONTROL Zielgruppe]** auf Smart-Liste &#x200B;].
 
    ![](assets/send-an-email-5.png)
 
@@ -111,7 +111,7 @@ Das ist das Erste, was jeder machen will. Senden wir eine E-Mail aus Marketo!
 
    ![](assets/send-an-email-15.png)
 
-1. Legen Sie unter [!UICONTROL  Kachel ] den Launch-Tag für die E-Mail auf **[!UICONTROL Heute]** fest.
+1. Legen Sie unter [!UICONTROL &#x200B; Kachel &#x200B;] den Launch-Tag für die E-Mail auf **[!UICONTROL Heute]** fest.
 
    ![](assets/send-an-email-16.png)
 
@@ -127,7 +127,7 @@ Das ist das Erste, was jeder machen will. Senden wir eine E-Mail aus Marketo!
    >
    >Ist die Standardzeitzone nicht Ihre? Hier erfahren Sie, wie [ aktualisiert ](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md){target="_blank"}.
 
-1. Klicken Sie **** der Kachel [!UICONTROL Genehmigung] auf Programm genehmigen und Sie sind fertig!
+1. Klicken Sie **&#x200B;**&#x200B;der Kachel [!UICONTROL Genehmigung] auf Programm genehmigen und Sie sind fertig!
 
    ![](assets/send-an-email-18.png)
 

@@ -33,7 +33,7 @@ Marketo Engage kann einen E-Mail-Warnhinweis mit Personeninformationen an jeden 
    >
    >Denken Sie daran, in Ihrer E[!UICONTROL Mail das Token &quot;]Warnhinweisinfo senden“ zu verwenden.
 
-1. Wählen Sie den Warnhinweisempfänger aus. Sie können &quot;[!UICONTROL &quot; ] &quot;[!UICONTROL &quot; ].
+1. Wählen Sie den Warnhinweisempfänger aus. Sie können &quot;[!UICONTROL &quot; &#x200B;] &quot;[!UICONTROL &quot; &#x200B;].
 
    ![](assets/send-alert-4.png)
 

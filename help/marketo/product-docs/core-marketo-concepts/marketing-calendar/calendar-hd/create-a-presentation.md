@@ -24,7 +24,7 @@ Erstellen Sie eine Präsentation, um die Kalenderansichten und Ziele Ihres Teams
 
    ![](assets/2017-05-10-15-30-47.png)
 
-1. Klicken Sie unten ]**rechts auf**[!UICONTROL  Presentations.
+1. Klicken Sie unten **rechts auf** Presentations.
 
    ![](assets/image2015-3-18-12-3a29-3a26.png)
 

@@ -38,7 +38,7 @@ Eine statische Liste ist genau das: statisch. In Adobe Experience Cloud werden k
 
    ![](assets/send-a-list-to-adobe-experience-cloud-1.png)
 
-1. Audience Manager Klicken Sie auf die Dropdown-]****[!UICONTROL  Zielordner und wählen Sie den gewünschten Zielordner auf der Experience Cloud aus.
+1. Audience Manager Klicken Sie auf die Dropdown-**&#x200B;** Zielordner und wählen Sie den gewünschten Zielordner auf der Experience Cloud aus.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-2.png)
 
@@ -94,7 +94,7 @@ Sie können die Synchronisierung Ihrer Liste jederzeit beenden.
 
 **Für Adobe Analytics freigeben**
 
-* Kunden, die sowohl Adobe Audience Manager als auch Adobe Analytics besitzen, können durch diese Integration Zielgruppen aus Marketo für Ihre Adobe Analytics Report Suites freigeben. Es müssen jedoch einige zusätzliche Konfigurationsschritte in Adobe Audience Manager vorgenommen werden, um dies zu aktivieren. Weitere Informationen zum Einrichten finden Sie in ](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html){target="_blank"} Dokumentation zu [Adobe Audience Manager.
+* Kunden, die sowohl Adobe Audience Manager als auch Adobe Analytics besitzen, können durch diese Integration Zielgruppen aus Marketo für Ihre Adobe Analytics Report Suites freigeben. Es müssen jedoch einige zusätzliche Konfigurationsschritte in Adobe Audience Manager vorgenommen werden, um dies zu aktivieren. Weitere Informationen zum Einrichten finden Sie in [&#128279;](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html){target="_blank"} Dokumentation zu Adobe Audience Manager.
 
 * Wenn eine Liste leer ist oder keine Personen mit ECID-Werten hat, wird der Listenname nicht an einen externen Ort weitergeleitet, um außerhalb von Marketo Engage referenziert zu werden.
 

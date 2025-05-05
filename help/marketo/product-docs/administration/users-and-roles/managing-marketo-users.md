@@ -15,7 +15,7 @@ ht-degree: 1%
 
 >[!IMPORTANT]
 >
->Dieser Artikel ist nur für diejenigen, die {_}Marketo_ Adobe Identity verwenden](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. [ Wenn Sie dies tun, befolgen Sie bitte die Schritte in [diesem Artikel](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"}.
+>Dieser Artikel ist nur für diejenigen, die {_}Marketo_ Adobe Identity verwenden[&#128279;](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}.  Wenn Sie dies tun, befolgen Sie bitte die Schritte in [diesem Artikel](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"}.
 
 ## Benutzer erstellen {#create-users}
 

@@ -17,7 +17,7 @@ Die Asset-Arbeitsfläche ist eine visuelle Darstellung Ihres Standard- oder Erei
 
 ## Hinzufügen von Assets {#adding-assets}
 
-Klicken Sie im ]**Programm auf die Registerkarte**[!UICONTROL  Assets. Wählen Sie eines der folgenden Assets aus und fügen Sie es zu Ihrem Programm hinzu.
+Klicken Sie im **Programm auf die Registerkarte** Assets. Wählen Sie eines der folgenden Assets aus und fügen Sie es zu Ihrem Programm hinzu.
 
 ![](assets/programassets.png)
 

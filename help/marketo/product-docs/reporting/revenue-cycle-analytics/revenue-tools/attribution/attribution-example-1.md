@@ -15,10 +15,10 @@ ht-degree: 4%
 
 Lesen Sie das folgende Szenario und versuchen Sie, die Zahlen zu bestimmen, die im Raster enthalten sein sollen.
 
-* 11. April | Fred wird erworben von (Fachmesse)
-* 15. April | Margo nimmt teil (Webinar) - Erfolg
-* 22. April | Fred ist mit der Opportunity verknüpft (Rolle).
-* 22. April | Opportunity wird für 3.000 $ erstellt
+* &#x200B;11. April | Fred wird erworben von (Fachmesse)
+* &#x200B;15. April | Margo nimmt teil (Webinar) - Erfolg
+* &#x200B;22. April | Fred ist mit der Opportunity verknüpft (Rolle).
+* &#x200B;22. April | Opportunity wird für 3.000 $ erstellt
 
 | Programmname | (Fachmesse) | (Webinar) |
 |---|---|---|

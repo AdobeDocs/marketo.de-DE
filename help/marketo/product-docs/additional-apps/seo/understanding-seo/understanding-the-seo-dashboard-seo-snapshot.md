@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Verwenden Sie das Dashboard, um einen Überblick darüber zu erhalten, wie der Keyword-Rang im Trend liegt und wie gut Ihre Site für SEO optimiert ist.
 
-Im Abschnitt [[!UICONTROL Recommendations} dieses Dashboards erfahren Sie, worauf Sie sich bei der Verbesserung Ihrer SEO]](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)Aktivitäten konzentrieren sollten.
+Im Abschnitt [[!UICONTROL Recommendations&rbrace; dieses Dashboards erfahren Sie, worauf Sie sich bei der Verbesserung Ihrer SEO]](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)Aktivitäten konzentrieren sollten.
 
 ![](assets/image2014-9-17-21-3a32-3a22.png)
 

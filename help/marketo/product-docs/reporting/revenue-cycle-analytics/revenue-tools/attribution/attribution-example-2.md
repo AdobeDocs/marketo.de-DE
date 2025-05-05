@@ -15,12 +15,12 @@ ht-degree: 4%
 
 Lesen Sie das folgende Szenario und versuchen Sie, die Zahlen zu bestimmen, die im Raster enthalten sein sollen.
 
-* 11. April | Rechnung wird erworben von (Fachmesse)
-* 15. April | Joan wurde erworben von (Webinar)
-* 22. April | (Opportunity 1) für 6.000 $ erstellt
-* 24. April | (Opportunity 2) für 10.000 $ erstellt
-* 25. April | Bill und Joan sind Rollen von (**)** zugeordnet
-* 29. April | (Opportunity 1) wurde abgeschlossen
+* &#x200B;11. April | Rechnung wird erworben von (Fachmesse)
+* &#x200B;15. April | Joan wurde erworben von (Webinar)
+* &#x200B;22. April | (Opportunity 1) für 6.000 $ erstellt
+* &#x200B;24. April | (Opportunity 2) für 10.000 $ erstellt
+* &#x200B;25. April | Bill und Joan sind Rollen von (**)** zugeordnet
+* &#x200B;29. April | (Opportunity 1) wurde abgeschlossen
 
 | Programmname | (Fachmesse) | (Webinar) |
 |---|---|---|

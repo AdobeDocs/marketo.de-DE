@@ -17,7 +17,7 @@ Pausieren Sie eine Person in einem Smart-Campaign-Fluss mit dem praktischen **Wa
 
 ![](assets/wait-overview-1.png)
 
-Beachten Sie, wie Sie in natürlicher Sprache tippen können, z. B. „4 Stunden“. **** die Wörter jedoch nicht abkürzen (d. h. 4 Stunden). Die intelligente Kampagne wird weiterhin ausgeführt, aber der Warteschritt wird ignoriert.
+Beachten Sie, wie Sie in natürlicher Sprache tippen können, z. B. „4 Stunden“. **&#x200B;**&#x200B;die Wörter jedoch nicht abkürzen (d. h. 4 Stunden). Die intelligente Kampagne wird weiterhin ausgeführt, aber der Warteschritt wird ignoriert.
 
 >[!CAUTION]
 >

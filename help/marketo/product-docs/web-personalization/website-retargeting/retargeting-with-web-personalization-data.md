@@ -76,7 +76,7 @@ Web Personalization sendet die folgenden Daten an die Remarketing-Plattformen, u
 
    >[!NOTE]
    >
-   >Damit diese Funktion funktioniert, muss die Website ](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Facebook Custom Audience Pixel“ installiert sein.
+   >Damit diese Funktion funktioniert, muss die Website [&#128279;](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) Facebook Custom Audience Pixel“ installiert sein.
 
    ![](assets/three.png)
 

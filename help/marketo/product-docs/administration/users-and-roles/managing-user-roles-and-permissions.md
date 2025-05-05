@@ -103,7 +103,7 @@ Wenn Sie die Berechtigungen ändern müssen, die einer vorhandenen Rolle zugeord
 
    ![](assets/managing-user-roles-and-permissions-13.png)
 
-1. Ändern Sie bei ]**den**[!UICONTROL  Rollenname ]**und**[!UICONTROL  Beschreibung ändern Sie die Auswahl der zugehörigen **[!UICONTROL Berechtigungen]** und klicken Sie abschließend auf **[!UICONTROL Speichern]**.
+1. Ändern Sie bei **den**&#x200B;[!UICONTROL &#x200B; Rollenname &#x200B;]&#x200B;**und** Beschreibung ändern Sie die Auswahl der zugehörigen **[!UICONTROL Berechtigungen]** und klicken Sie abschließend auf **[!UICONTROL Speichern]**.
 
    ![](assets/managing-user-roles-and-permissions-14.png)
 

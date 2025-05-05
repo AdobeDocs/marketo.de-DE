@@ -314,13 +314,13 @@ Sie können die von Ihnen erstellten Segmente löschen.
 
 >[!NOTE]
 >
-Ein Segment, das einer Kampagne zugeordnet ist, kann nicht gelöscht werden. Zunächst müssen Sie die Kampagne und dann das Segment löschen.
+>Ein Segment, das einer Kampagne zugeordnet ist, kann nicht gelöscht werden. Zunächst müssen Sie die Kampagne und dann das Segment löschen.
 
 Sehr gut! Nachdem Sie sich mit dem Abschnitt Segmente vertraut gemacht haben, erfahren Sie mehr über Kampagnen.
 
 >[!MORELIKETHIS]
 >
-* [Erstellen eines einfachen Web-Segments](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)
-* [Erstellen eines neuen Dialogfelds für eine Web-Kampagne](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
-* [Erstellen einer neuen Zone in einer Web-Kampagne](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
-* [Erstellen einer neuen Widget-Web-Kampagne](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+>* [Erstellen eines einfachen Web-Segments](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)
+>* [Erstellen eines neuen Dialogfelds für eine Web-Kampagne](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+>* [Erstellen einer neuen Zone in einer Web-Kampagne](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [Erstellen einer neuen Widget-Web-Kampagne](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)

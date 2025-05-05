@@ -86,7 +86,7 @@ Zu den zusätzlichen Inhaltsanalysen gehören:
 
 * **Ansichten**: Ansichten dieses Inhaltselements für den ausgewählten Zeitraum
 * **Direkte Konversionen**: Web-Besucher, die den Inhalt angesehen und ein Formular während desselben Besuchs ausgefüllt haben.
-* **Konversionsrate****:** Eine prozentuale Konversionsrate, berechnet durch direkte Konversionen dividiert durch Klicks
+* **Konversionsrate**&#x200B;**:** Eine prozentuale Konversionsrate, berechnet durch direkte Konversionen dividiert durch Klicks
 
 **Trends**
 

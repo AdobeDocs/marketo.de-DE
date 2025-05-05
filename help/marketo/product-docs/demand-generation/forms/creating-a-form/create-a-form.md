@@ -27,7 +27,7 @@ Erstellen und Verwenden eines Formulars auf einer Landingpage zum Generieren neu
 
    ![](assets/programseelct.png)
 
-1. Klicken Sie unter **Neu** auf **Neu** **Lokal****Asset**.
+1. Klicken Sie unter **Neu** auf **Neu** **Lokal**&#x200B;**Asset**.
 
    ![](assets/newlocalasset.png)
 

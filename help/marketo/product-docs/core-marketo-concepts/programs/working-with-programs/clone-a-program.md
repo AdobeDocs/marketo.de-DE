@@ -31,7 +31,7 @@ Klonen Sie schnell und einfach ein ganzes Programm und alle zugehörigen Assets,
    >
    >Sehen Sie diesen HINWEIS im obigen Screenshot? Das bedeutet, dass beim Klonen eines Programms mit 1000 oder mehr Personen in einer Liste die Liste selbst geklont wird, aber leer bleibt. Wenn Sie ein Programm mit einer Liste von maximal 999 Personen klonen, wird diese Liste zusammen mit allen Mitgliedern im geklonten Programm angezeigt.
 
-1. Geben Sie einen &quot;[!UICONTROL &quot; ].
+1. Geben Sie einen &quot;[!UICONTROL &quot; &#x200B;].
 
    ![](assets/cloneprogramname.png)
 

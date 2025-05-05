@@ -57,7 +57,7 @@ Wenn Sie ein Feld auf dem Marketo Engage nicht mehr verwenden, können Sie es in
 
    ![](assets/hide-and-unhide-a-field-7.png)
 
-1. Suchen Sie das Feld und wählen Sie es aus. Klicken Sie in [!UICONTROL  Dropdown]Liste Feldaktionen“ auf **[!UICONTROL Feld einblenden]**.
+1. Suchen Sie das Feld und wählen Sie es aus. Klicken Sie in [!UICONTROL &#x200B; Dropdown]Liste Feldaktionen“ auf **[!UICONTROL Feld einblenden]**.
 
    ![](assets/hide-and-unhide-a-field-8.png)
 
