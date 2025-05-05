@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Meldebogen 17e {#template-17e}
 
-Klicken Sie mit der rechten Maustaste, um [Vorlage 17E herunterzuladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17e.html)
+Klicken Sie mit der rechten Maustaste, um [Vorlage 17E herunterzuladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17e.html?lang=de)
 
 ![](assets/image2015-8-17-17-3a43-3a20.png)
 
@@ -28,4 +28,4 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 **Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
-[Vorlage 17E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17e.html)
+[Vorlage 17E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17e.html?lang=de)

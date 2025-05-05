@@ -29,26 +29,26 @@ Denken Sie daran[ die Checklisten herunterzuladen ](/help/marketo/getting-starte
   <tr>
     <td>Alle Personen</td>
     <td><li>Bestimmen Sie die Implementierung einer 1:1-Synchronisierung mit Ihrem CRM oder wenden Sie Filter an, um zu begrenzen, wer wann von System zu System wechselt.</li> 
-    <li>Überprüfen Sie die Gesamtzahl der Personen und vermarktbaren Personen in Ihrer <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.html" target="_blank">Marketo Engage-Datenbank</a>.</li></td>
+    <li>Überprüfen Sie die Gesamtzahl der Personen und vermarktbaren Personen in Ihrer <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.html?lang=de" target="_blank">Marketo Engage-Datenbank</a>.</li></td>
   </tr>
   <tr>
     <td>Sperrliste</td>
-    <td><li>Definieren Sie die Kriterien für die Blockierungsliste. Erwägen Sie, Ihrer <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.html" target="_blank">Blockierungsliste Domänen von Mitbewerbern hinzuzufügen, </a> sie keine Ihrer E-Mails erhalten können.</li></td>
+    <td><li>Definieren Sie die Kriterien für die Blockierungsliste. Erwägen Sie, Ihrer <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.html?lang=de" target="_blank">Blockierungsliste Domänen von Mitbewerbern hinzuzufügen, </a> sie keine Ihrer E-Mails erhalten können.</li></td>
   </tr>
   <tr>
     <td>Marketing eingestellt</td>
-    <td><li>Definieren Sie <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe#marketing-suspended" target="_blank">Marketing ausgesetzt</a>-Kriterien.</li></td>
+    <td><li>Definieren Sie <a href="https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe#marketing-suspended" target="_blank">Marketing ausgesetzt</a>-Kriterien.</li></td>
   </tr>
   <tr>
     <td>Adressen für aufgrund von Bounce-Ereignissen unzustellbare E-Mails </td>
     <td><li>Definieren Sie Ihre Kriterien für unzustellbare E-Mail-Adressen.</li>
-    <li>Überprüfen Sie die Personen in der Kategorie „E-Mail ungültig“ und stellen Sie fest, ob ihre E<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.html" target="_blank">Mails manuell zurückgesetzt werden </a>.</li></td>
+    <li>Überprüfen Sie die Personen in der Kategorie „E-Mail ungültig“ und stellen Sie fest, ob ihre E<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.html?lang=de" target="_blank">Mails manuell zurückgesetzt werden </a>.</li></td>
   </tr>
   <tr>
     <td>Mögliche Duplikate</td>
     <td><li>Personen in der Liste der möglichen Duplikate überprüfen.</li> 
-    <li>Definieren Sie Ihre Strategie zur Duplikatverwaltung, um zu bestimmen, ob Sie <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.html" target="_blank">Personen manuell zusammenführen</a>.</li>  
-    <li>Wenn Sie über eine CRM-Integration verfügen, definieren Sie einen Prozess und ein Konto für <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people#effect-in-salesforce" target="_blank">die Auswirkung der Zusammenführung von Leads in Ihrem CRM</a>.</li></td>
+    <li>Definieren Sie Ihre Strategie zur Duplikatverwaltung, um zu bestimmen, ob Sie <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.html?lang=de" target="_blank">Personen manuell zusammenführen</a>.</li>  
+    <li>Wenn Sie über eine CRM-Integration verfügen, definieren Sie einen Prozess und ein Konto für <a href="https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people#effect-in-salesforce" target="_blank">die Auswirkung der Zusammenführung von Leads in Ihrem CRM</a>.</li></td>
   </tr>
   <tr>
     <td>Kein Akquisitionsprogramm</td>
@@ -56,7 +56,7 @@ Denken Sie daran[ die Checklisten herunterzuladen ](/help/marketo/getting-starte
   </tr>
   <tr>
     <td>Abbestellte Personen</td>
-    <td><li>Überprüfen Sie Ihre Kriterien für <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe.html" target="_blank">Abgemeldete Personen</a>.</li></td>
+    <td><li>Überprüfen Sie Ihre Kriterien für <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe.html?lang=de" target="_blank">Abgemeldete Personen</a>.</li></td>
   </tr>
 </tbody>
 </table>
@@ -91,7 +91,7 @@ Denken Sie daran[ die Checklisten herunterzuladen ](/help/marketo/getting-starte
 <tbody>
   <tr>
     <td>Segmentierung</td>
-    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.html" target="_blank">Erstellen Sie </a> Ihren Geschäftsanforderungen entsprechende Segmentierungen. Jedes Abonnement ist auf 20 Segmentierungen und 100 Segmente innerhalb jeder Segmentierung beschränkt.</li></td>
+    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.html?lang=de" target="_blank">Erstellen Sie </a> Ihren Geschäftsanforderungen entsprechende Segmentierungen. Jedes Abonnement ist auf 20 Segmentierungen und 100 Segmente innerhalb jeder Segmentierung beschränkt.</li></td>
   </tr>
 </tbody>
 </table>

@@ -35,7 +35,7 @@ Die Zeiten, in denen veraltete Vorlagen in Sales Insight bereinigt wurden, sind 
 
 ![](assets/four-281-29.png)
 
-## [Massenextraktions-APIs für Personen und Aktivitäten](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract) {#bulk-extract-apis-for-people-and-activities}
+## [Massenextraktions-APIs für Personen und Aktivitäten](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract) {#bulk-extract-apis-for-people-and-activities}
 
 Übertragen Sie auf einfache Weise große Mengen an Personen- und Aktivitätsdaten von Marketo auf Ihre externen Systeme.
 
@@ -49,7 +49,7 @@ Mit Marketo ABM können Sie jetzt bis zu 10 benutzerdefinierte Felder für Ihre 
 
 Die Werte für benannte Konten können stark variieren. Marketo ABM berechnet jetzt automatisch ein Perzentil für jede Ihrer Bewertungen, sodass Sie auf einen Blick sehen können, wo jedes benannte Konto zu Ihren anderen benannten Konten gehört.
 
-**[APIs für die ABM-Kontoliste](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-account-lists)**
+**[APIs für die ABM-Kontoliste](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/lead-database/named-account-lists)**
 
 Profitieren Sie von umfangreichen und robusten ABM-Partnerintegrationen mit verbesserter API-Unterstützung für Named Account Lists.
 

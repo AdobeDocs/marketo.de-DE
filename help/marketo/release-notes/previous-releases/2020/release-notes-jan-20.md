@@ -57,7 +57,7 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 
 ## Marketo Sky {#marketo-sky}
 
-* [Bildbearbeitung](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=en#design-studio): Zugriff auf die Bearbeitungsfunktionen von Adobe-Dateien, ohne das Marketo Engage verlassen zu müssen. Mit dieser neuen Funktion können Sie Bilder direkt in Design Studio einfach verbessern, zuschneiden und Text hinzufügen.
+* [Bildbearbeitung](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=de#design-studio): Zugriff auf die Bearbeitungsfunktionen von Adobe-Dateien, ohne das Marketo Engage verlassen zu müssen. Mit dieser neuen Funktion können Sie Bilder direkt in Design Studio einfach verbessern, zuschneiden und Text hinzufügen.
 
 ## Sales Insight {#sales-insight}
 

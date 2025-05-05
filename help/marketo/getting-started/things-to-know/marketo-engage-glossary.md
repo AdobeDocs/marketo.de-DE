@@ -261,7 +261,7 @@ Im Folgenden finden Sie Definitionen für viele Begriffe, die bei der Verwendung
   </tr> 
   <tr> 
    <td colspan="1"><strong>Dokumente</strong></td> 
-   <td colspan="1">Kurzfassung für Dokumente: Dokumente sind Hilfeartikel für Kundinnen und Kunden, um das Produkt besser zu verstehen. Marketo verfügt über verschiedene Dokumenttypen: Produktdokumente (die Site, auf der Sie sich derzeit befinden), <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home" rel="nofollow">Entwickler</a> Dokumente und <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">Support</a> Dokumente.</td> 
+   <td colspan="1">Kurzfassung für Dokumente: Dokumente sind Hilfeartikel für Kundinnen und Kunden, um das Produkt besser zu verstehen. Marketo verfügt über verschiedene Dokumenttypen: Produktdokumente (die Site, auf der Sie sich derzeit befinden), <a href="https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/home" rel="nofollow">Entwickler</a> Dokumente und <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">Support</a> Dokumente.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Domain-basierte Nachrichtenauthentifizierung, Reporting und Konformität (DMARC)</strong></td> 

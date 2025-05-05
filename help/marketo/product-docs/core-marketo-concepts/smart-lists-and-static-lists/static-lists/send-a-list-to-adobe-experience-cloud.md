@@ -94,7 +94,7 @@ Sie können die Synchronisierung Ihrer Liste jederzeit beenden.
 
 **Für Adobe Analytics freigeben**
 
-* Kunden, die sowohl Adobe Audience Manager als auch Adobe Analytics besitzen, können durch diese Integration Zielgruppen aus Marketo für Ihre Adobe Analytics Report Suites freigeben. Es müssen jedoch einige zusätzliche Konfigurationsschritte in Adobe Audience Manager vorgenommen werden, um dies zu aktivieren. Weitere Informationen zum Einrichten finden Sie in [&#128279;](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html){target="_blank"} Dokumentation zu Adobe Audience Manager.
+* Kunden, die sowohl Adobe Audience Manager als auch Adobe Analytics besitzen, können durch diese Integration Zielgruppen aus Marketo für Ihre Adobe Analytics Report Suites freigeben. Es müssen jedoch einige zusätzliche Konfigurationsschritte in Adobe Audience Manager vorgenommen werden, um dies zu aktivieren. Weitere Informationen zum Einrichten finden Sie in [&#128279;](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=de){target="_blank"} Dokumentation zu Adobe Audience Manager.
 
 * Wenn eine Liste leer ist oder keine Personen mit ECID-Werten hat, wird der Listenname nicht an einen externen Ort weitergeleitet, um außerhalb von Marketo Engage referenziert zu werden.
 

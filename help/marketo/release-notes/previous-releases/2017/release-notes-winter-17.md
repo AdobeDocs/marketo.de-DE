@@ -81,7 +81,7 @@ Die Inhaltsvorbereitung wird durch ein verbessertes Bearbeitungserlebnis und Lay
 
 Bild-URL und Metadaten werden jetzt im Prozess zur automatischen Erkennung von Inhalten verwendet.
 
-## [SDK-Verbesserungen](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/mobile) {#sdk-enhancements}
+## [SDK-Verbesserungen](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/mobile/mobile) {#sdk-enhancements}
 
 Entwickler haben jetzt zusätzliche Kontrolle über den Versand von Push-Benachrichtigungen, indem sie einen neuen SDK-API-Aufruf hinzufügen, mit dem Entwickler Push-Token entfernen können.
 

@@ -25,7 +25,7 @@ Das Strukturieren von Vorlagen und das Erstellen globaler Formulare, Snippets so
   <tr> 
    <td>Globale Landing Pages</td> 
    <td><li>Wie viele globale <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md" target="_blank">Landingpages</a> gibt es? Werden sie von Programmen verwendet?</li>
-   <li>Haben Sie ein <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html" target="_blank">Abonnementzentrum</a> eingerichtet?
+   <li>Haben Sie ein <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html?lang=de" target="_blank">Abonnementzentrum</a> eingerichtet?
    <br/>     Wenn nicht, sollten Sie eine erstellen.</li></td>
   </tr>
   <tr> 

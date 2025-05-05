@@ -47,7 +47,7 @@ Nachdem Sie den Inhaltstitel, die Beschreibung und das Bild für Rich Media vorb
 
 ## Anpassen des JavaScript-Codes und Einbetten in Ihre Website  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-Weitere Informationen finden Sie in der Dokumentation zur Vorlage für Rich-Media-Empfehlungen [auf der Marketo Developers-](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. Hier wird beschrieben, wie Sie die Vorlage für Ihre Website anpassen.
+Weitere Informationen finden Sie in der Dokumentation zur Vorlage für Rich-Media-Empfehlungen [auf der Marketo Developers-](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. Hier wird beschrieben, wie Sie die Vorlage für Ihre Website anpassen.
 
 Fügen Sie den JavaScript-Code an der Stelle in Ihre Website ein, an der die Vorlage angezeigt werden soll.
 

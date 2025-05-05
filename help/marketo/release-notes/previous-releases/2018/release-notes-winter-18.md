@@ -87,7 +87,7 @@ Inhalte, die über die optimierten ContentAI-Algorithmen von Marketo empfohlen w
 
 ## Integration {#integration}
 
-**[Campaign-API aktivieren/deaktivieren](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**
+**[Campaign-API aktivieren/deaktivieren](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**
 
 Mit dieser neuen API können Sie Trigger-Kampagnen per Fernzugriff aktivieren und deaktivieren, sodass Sie jetzt vollständig automatisierte Programmvorlagen erstellen können. Erstellen Sie einmal eine Programmvorlage und automatisieren Sie dann das Klonen, die Aktualisierung von Marketing-Marketingmaterial und jetzt die Aktivierung/Planung von Smart-Kampagnen.
 

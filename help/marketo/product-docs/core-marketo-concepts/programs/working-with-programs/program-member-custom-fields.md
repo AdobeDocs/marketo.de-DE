@@ -68,7 +68,7 @@ Sie können diese programmspezifischen Daten in Smart Lists über [Trigger ](/he
 * Das Objekt Programmteilnehmer kann bis zu 20 benutzerdefinierte Felder enthalten. Diese Felder stehen jedem Programm zur Verfügung.
 * Wenn Sie ein Mitglied eines Programms entfernen und im benutzerdefinierten Feld Programmteilnehmer Daten vorhanden sind, werden die Daten aus diesem Feld bereinigt.
 * Um die Daten anzuzeigen, klicken Sie im Programm auf die Registerkarte Mitglieder und erstellen Sie eine benutzerdefinierte Ansicht, die diese Felder enthält.
-* Import und Export über [list](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} und [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home){target="_blank"} werden unterstützt. Exportiert nur Arbeiten aus Programmteilnehmerlisten, keine statischen Listen.
+* Import und Export über [list](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} und [API](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/home){target="_blank"} werden unterstützt. Exportiert nur Arbeiten aus Programmteilnehmerlisten, keine statischen Listen.
 * Wenn Sie zwei Personen zusammenführen, werden die benutzerdefinierten Felddaten des Programmmitglieds des Gewinners verwendet. Hat der Gewinner jedoch keinen, wird der Wert des Verlierers verwendet.
 * Der Änderungstyp ist in den Informationsfeldern für Programmteilnehmer nicht zulässig.
 * Die Smart-Listen-Einschränkung „enthält“ wird für benutzerdefinierte Felder von Programmmitgliedern nicht unterstützt.

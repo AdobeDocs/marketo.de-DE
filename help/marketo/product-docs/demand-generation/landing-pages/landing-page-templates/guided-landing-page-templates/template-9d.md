@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Vorlage 9d {#template-9d}
 
-Rechtsklick zum Herunterladen [Vorlage 9D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9d.html)
+Rechtsklick zum Herunterladen [Vorlage 9D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9d.html?lang=de)
 
 ![](assets/image2015-7-28-15-3a54-3a21.png)
 
@@ -28,4 +28,4 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 **Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
-[Vorlage 9D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9d.html)
+[Vorlage 9D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9d.html?lang=de)

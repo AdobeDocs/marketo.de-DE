@@ -104,7 +104,7 @@ Anzeigen von Inhaltsanalysen und Recommendations-Daten offline.
 
 Vorhandene Asset-APIs, die zuvor nur mit E-Mails und Vorlagen der Version 1.0 kompatibel waren, sind jetzt für E-Mail-Assets der Version 2.0 aktiviert.
 
-## [Marketo Developers-Website](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home) {#marketo-developers-site}
+## [Marketo Developers-Website](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/home) {#marketo-developers-site}
 
 Neu und noch besser!
 

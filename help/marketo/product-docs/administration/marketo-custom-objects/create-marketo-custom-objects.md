@@ -63,7 +63,7 @@ Dieses Beispiel zeigt ein benutzerdefiniertes Auto-Objekt zur Verwendung in eine
 
    >[!NOTE]
    >
-   >Sie können benutzerdefinierte Marketo-Objekte nur über einen Listen-Import oder die [API) ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
+   >Sie können benutzerdefinierte Marketo-Objekte nur über einen Listen-Import oder die [API) ](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api).
 
 ## Erstellen eines benutzerdefinierten Objekts für eine Viele-zu-viele-Struktur {#create-a-custom-object-for-a-many-to-many-structure}
 
@@ -103,7 +103,7 @@ Dieses Beispiel zeigt ein benutzerdefiniertes Kursobjekt, das Sie zum Erstellen 
 
    >[!NOTE]
    >
-   >Sie können benutzerdefinierte Marketo-Objekte nur über einen Listen-Import oder die [API) ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
+   >Sie können benutzerdefinierte Marketo-Objekte nur über einen Listen-Import oder die [API) ](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api).
 
 Im nächsten Schritt erstellen Sie Ihr Zwischenobjekt (siehe unten). Zuvor müssen Sie jedoch ein Feld erstellen, mit dem eine Verknüpfung hergestellt werden kann.
 

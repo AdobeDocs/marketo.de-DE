@@ -47,7 +47,7 @@ Wenn Sie [einen Bericht in einem Programm erstellen](/help/marketo/product-docs/
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md">Personen nach Umsatz - Stadienbericht</a></strong></td> 
-   <td>Grundlegende Berichte für Ihr Umsatzmodell. Siehe <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">Umsatzzyklusanalyse</a> für detailliertere Berichte.</td> 
+   <td>Grundlegende Berichte für Ihr Umsatzmodell. Siehe <a href="https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">Umsatzzyklusanalyse</a> für detailliertere Berichte.</td> 
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md">Landing Page-Leistung</a>  </strong></td> 
@@ -55,7 +55,7 @@ Wenn Sie [einen Bericht in einem Programm erstellen](/help/marketo/product-docs/
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md">Programmleistung</a>  </strong></td> 
-   <td>Grundlegende Programmmetriken wie Mitglieder und Erfolg. Siehe <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">Umsatzzyklusanalyse</a> für detailliertere Berichte.</td> 
+   <td>Grundlegende Programmmetriken wie Mitglieder und Erfolg. Siehe <a href="https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">Umsatzzyklusanalyse</a> für detailliertere Berichte.</td> 
   </tr> 
   <tr> 
    <td><strong><a href="company-web-activity-report.md">Unternehmens-Webaktivität</a></strong></td> 
@@ -67,11 +67,11 @@ Wenn Sie [einen Bericht in einem Programm erstellen](/help/marketo/product-docs/
   </tr>
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md">Interaktionsverlauf - Leistungsbericht</a> </strong></td> 
-   <td>Erfahren Sie, wie <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs"> Ihr </a> funktioniert.</td> 
+   <td>Erfahren Sie, wie <a href="https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs"> Ihr </a> funktioniert.</td> 
   </tr>
    <tr> 
    <td><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md">Kampagnen-E-Mail-Leistung</a> </strong></td> 
-   <td>Erfahren Sie, wie <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs"> Ihr </a> funktioniert.</td> 
+   <td>Erfahren Sie, wie <a href="https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs"> Ihr </a> funktioniert.</td> 
   </tr>
  </tbody> 
 </table>

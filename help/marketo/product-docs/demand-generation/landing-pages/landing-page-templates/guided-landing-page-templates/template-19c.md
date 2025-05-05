@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Meldebogen 19c {#template-19c}
 
-Rechtsklick zum Herunterladen [Vorlage 19C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19c.html)
+Rechtsklick zum Herunterladen [Vorlage 19C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19c.html?lang=de)
 
 ![](assets/image2015-9-16-16-3a52-3a26.png)
 
@@ -28,4 +28,4 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 **Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
-[Vorlage 19C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19c.html)
+[Vorlage 19C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19c.html?lang=de)

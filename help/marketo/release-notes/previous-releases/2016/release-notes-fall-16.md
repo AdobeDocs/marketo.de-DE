@@ -53,7 +53,7 @@ Jetzt können Sie Account-Teams benannten Accounts in Account Based Marketing (A
 
 **REST-API**
 
-Mit dieser Version können Sie auch benannte Kontoattribute und Kontobewertungen in ABM mithilfe der Marketo REST-API verwalten. Weitere Informationen zu den API-Vorgängen finden Sie auf der [Marketo Developers-Website](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-accounts).
+Mit dieser Version können Sie auch benannte Kontoattribute und Kontobewertungen in ABM mithilfe der Marketo REST-API verwalten. Weitere Informationen zu den API-Vorgängen finden Sie auf der [Marketo Developers-Website](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/lead-database/named-accounts).
 
 ## [Verbesserungen am Audit-Protokoll](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
 
@@ -84,11 +84,11 @@ Verleihen Sie Ihrer iOS-Push-Benachrichtigung zusätzliche Reichweite, indem Sie
 
 Market Sales Insight ist jetzt mit Salesforce Shield Encryption kompatibel. Alle Sales Insight-Kunden sollten auf dieses neueste verwaltete Paket (Version 1.4359.2) aktualisieren, das [auf der AppExchange verfügbar) ](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO).
 
-## [APIs für benannte Konten](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-accounts) {#named-accounts-apis}
+## [APIs für benannte Konten](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/lead-database/named-accounts) {#named-accounts-apis}
 
 Mit dieser Version können Marketo ABM-Benutzende benannte Konten über die API für benannte Konten verwalten. Benutzer können benannte Konten erstellen, aktualisieren und löschen sowie ABM-spezifische Kontobewertungen lesen und aktualisieren.
 
-## [API-Unterstützung für Email Editor v2.0](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting) {#email-editor-v-api-support}
+## [API-Unterstützung für Email Editor v2.0](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/email-scripting) {#email-editor-v-api-support}
 
 Verwalten von Variablen und Modulen für E-Mails im Format v2.0 mithilfe der Marketo REST-API.
 

@@ -83,7 +83,7 @@ Es gibt zwei Möglichkeiten, auf den Adobe Express-Editor zuzugreifen:
 
 ### Benutzer mit einer Enterprise-Lizenz {#users-with-an-enterprise-license}
 
-Wenn Sie über eine Enterprise-Lizenz für Adobe Express verfügen, haben Sie Zugriff auf den vollständigen Express-Editor. Sie können Bildeinstellungen wie Farbe, Helligkeit, Schärfe, Kontrast, Größe und mehr anpassen. Mit der Option KI-Magie können Sie Hintergründe entfernen, Objekte einfügen und entfernen und Teile eines Bildes löschen. Besuchen Sie das [Adobe Express-Benutzerhandbuch](https://helpx.adobe.com/express/user-guide.html){target="_blank"} um mehr über die einzelnen Einstellungen zu erfahren.
+Wenn Sie über eine Enterprise-Lizenz für Adobe Express verfügen, haben Sie Zugriff auf den vollständigen Express-Editor. Sie können Bildeinstellungen wie Farbe, Helligkeit, Schärfe, Kontrast, Größe und mehr anpassen. Mit der Option KI-Magie können Sie Hintergründe entfernen, Objekte einfügen und entfernen und Teile eines Bildes löschen. Besuchen Sie das [Adobe Express-Benutzerhandbuch](https://helpx.adobe.com/de/express/user-guide.html){target="_blank"} um mehr über die einzelnen Einstellungen zu erfahren.
 
 >[!IMPORTANT]
 >

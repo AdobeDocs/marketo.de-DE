@@ -24,7 +24,7 @@ Das Dynamic Chat-JavaScript-Snippet kann auf jeder Website sowie auf den Einstie
 
 **Wie lange werden Daten für das Reporting gespeichert?**
 
-90 Tage. Eine vollständige Liste der Grenzwerte/Parameter finden Sie auf der Marketo Engage [Produktbeschreibungsseite](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}.
+90 Tage. Eine vollständige Liste der Grenzwerte/Parameter finden Sie auf der Marketo Engage [Produktbeschreibungsseite](https://helpx.adobe.com/de/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}.
 
 **Unterstützt Dynamic Chat neben Englisch auch andere Sprachen?**
 

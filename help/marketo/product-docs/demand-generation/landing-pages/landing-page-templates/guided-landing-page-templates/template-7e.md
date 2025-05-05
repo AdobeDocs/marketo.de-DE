@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Meldebogen 7e {#template-7e}
 
-Rechtsklick zum Herunterladen [Vorlage 7E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7e.html)
+Rechtsklick zum Herunterladen [Vorlage 7E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7e.html?lang=de)
 
 ![](assets/image2015-7-29-15-3a11-3a34.png)
 
@@ -29,4 +29,4 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 **Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
-[Vorlage 7E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7e.html)
+[Vorlage 7E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7e.html?lang=de)

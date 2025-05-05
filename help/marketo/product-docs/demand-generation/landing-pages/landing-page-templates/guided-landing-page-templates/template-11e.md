@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Meldebogen 11e {#template-11e}
 
-Klicken Sie mit der rechten Maustaste, um [Vorlage 11E herunterzuladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11e.html)
+Klicken Sie mit der rechten Maustaste, um [Vorlage 11E herunterzuladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11e.html?lang=de)
 
 ![](assets/image2015-8-4-10-3a34-3a30.png)
 
@@ -29,4 +29,4 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 **Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
-[Vorlage 11E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11e.html)
+[Vorlage 11E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11e.html?lang=de)

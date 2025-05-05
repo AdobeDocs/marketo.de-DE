@@ -82,7 +82,7 @@ Passen Sie in der unteren Hälfte der Registerkarte „Einstellungen“ den Konv
 
 >[!TIP]
 >
->Sehen Sie [Konversationen SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/){target="_blank"} in Aktion!
+>Sehen Sie [Konversationen SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/?lang=de){target="_blank"} in Aktion!
 
 >[!MORELIKETHIS]
 >

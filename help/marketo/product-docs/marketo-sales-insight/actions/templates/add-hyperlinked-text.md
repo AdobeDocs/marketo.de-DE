@@ -26,7 +26,7 @@ Gehen Sie wie folgt vor, um zu erfahren, wie Sie Ihren E-Mail-Vorlagen Hyperlink
 
    ![](assets/add-hyperlinked-text-3.png)
 
-1. Geben Sie die URL ein, mit der sie verknüpft werden soll (d. h. `https://experienceleague.adobe.com/docs/marketo/using/home.html`). Wählen Sie aus, ob die URL im selben oder einem neuen Fenster geöffnet werden soll, und klicken Sie auf **Speichern**.
+1. Geben Sie die URL ein, mit der sie verknüpft werden soll (d. h. `https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=de`). Wählen Sie aus, ob die URL im selben oder einem neuen Fenster geöffnet werden soll, und klicken Sie auf **Speichern**.
 
    ![](assets/add-hyperlinked-text-4.png)
 
