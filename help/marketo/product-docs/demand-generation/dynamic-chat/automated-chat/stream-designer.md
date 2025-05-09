@@ -3,9 +3,9 @@ description: Streamen von Designer - Marketo-Dokumente - Produktdokumentation
 title: Entwerferin bzw. Entwerfer des Streams
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: d73ff37236abbd0d97631ad66b8eb34473650554
+source-git-commit: 11006e3244fd7a145a955dd08b669a897dae826b
 workflow-type: tm+mt
-source-wordcount: '1250'
+source-wordcount: '1199'
 ht-degree: 2%
 
 ---
@@ -113,7 +113,7 @@ Sie können Streams für Dialoge oder [Conversational Forms](/help/marketo/produ
 
    ![](assets/stream-designer-7.png)
 
-1. Stellen [!UICONTROL &#x200B; unter „Chatbot Response] Ihre Frage, wie Sie möchten.
+1. Stellen [!UICONTROL  unter „Chatbot Response] Ihre Frage, wie Sie möchten.
 
    ![](assets/stream-designer-8.png)
 
@@ -141,15 +141,15 @@ Sie können Streams für Dialoge oder [Conversational Forms](/help/marketo/produ
 
    ![](assets/stream-designer-10.png)
 
-1. Klicken Sie in der Spalte rechts auf **[!UICONTROL Speichern]**.
+1. Wählen Sie Ihre Routing-Option aus und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/stream-designer-11.png)
 
-1. Da dies ein Ziel ist, ziehen Sie die Karte [!UICONTROL Ziel] unter die Terminplanung.
+1. Da dies ein Ziel ist, ziehen Sie die _[!UICONTROL Ziel]_-Karte unter die Besprechungsbuchung.
 
    ![](assets/stream-designer-12.png)
 
-1. Benennen Sie Ihr Ziel (oder wählen Sie ein vorhandenes aus) und klicken Sie auf **[!UICONTROL Speichern]**.
+1. Benennen Sie Ihr Ziel (oder wählen Sie ein vorhandenes aus) und klicken Sie auf **[!UICONTROL Speichern]**. Die Zuweisung eines Konversationswerts ist optional.
 
    ![](assets/stream-designer-13.png)
 
@@ -165,38 +165,19 @@ Sie können Streams für Dialoge oder [Conversational Forms](/help/marketo/produ
    >
    >Sie können weitere Antworten hinzufügen, indem Sie auf **[!UICONTROL Antwort hinzufügen]** klicken.
 
-1. Ziehen Sie die Maus unter die Antwort „Ja“ über die Karte „Informationserfassung“, damit Sie die E-Mail-Adresse des Besuchers erfassen können.
+1. Ziehen Sie die Maus unter die Antwort „Ja _über die Karte &quot;_&quot;, damit Sie die E-Mail-Adresse des Besuchers erfassen können.
 
    ![](assets/stream-designer-16.png)
 
-1. Klicken Sie auf die **[!UICONTROL Typ]** und wählen Sie **[!UICONTROL E-Mail]**.
+1. Klicken Sie auf die Dropdown-Liste und wählen Sie **[!UICONTROL E-Mail-Adresse]** aus.
 
    ![](assets/stream-designer-17.png)
 
-1. Geben Sie eine Chat-Bot-Nachricht und einen Platzhalter ein. Stellen Sie sicher, dass das Attribut dem entsprechenden Feld in Marketo Engage zugeordnet ist, und klicken Sie auf **[!UICONTROL Speichern]**.
+1. Geben Sie eine Chat-Bot-Nachricht und einen Platzhalter ein. Wenn bereits ein Wert für dieses Attribut in Ihrer Datenbank vorhanden ist, wählen Sie aus, ob Sie es überspringen möchten oder diese Daten überschreiben sollen. Klicken Sie auf **[!UICONTROL Speichern]**, wenn Sie fertig sind.
 
    ![](assets/stream-designer-18.png)
 
-   <table>
-    <tr>
-     <td style="width:30%"><strong>Typ</strong></td>
-     <td>Die Art der Informationen, die erfasst werden sollen: Telefon, Text, E-Mail.</td>
-    </tr>
-    <tr>
-     <td style="width:30%"><strong>Chatbot-Nachricht</strong></td>
-     <td>Die Nachricht, die der Besucher sieht und in der er aufgefordert wird, die Informationen anzugeben.</td>
-    </tr>
-    <tr>
-     <td style="width:30%"><strong>Platzhalter</strong></td>
-     <td>Beispieltext, der dem Besucher hilft zu sehen, was er eingeben soll.</td>
-    </tr>
-    <tr>
-     <td style="width:30%"><strong>Antwort einem Attribut zuordnen</strong></td>
-     <td>Ermöglicht die Synchronisierung der Besucherantwort mit dem entsprechenden Feld im Personendatensatz in Ihrem Marketo Engage-Abonnement.</td>
-    </tr>
-   </table>
-
-1. Da das Erfassen von E-Mails ein Ziel ist, ziehen Sie die Karte [!UICONTROL Ziel] unter „Informationserfassung“.
+1. Da das Erfassen von E-Mails ein Ziel ist, ziehen Sie die Karte _[!UICONTROL Ziel]_ unter „Informationserfassung“.
 
    ![](assets/stream-designer-19.png)
 
@@ -212,13 +193,9 @@ Sie können Streams für Dialoge oder [Conversational Forms](/help/marketo/produ
 
    ![](assets/stream-designer-22.png)
 
-1. Wählen Sie den Umschalter **[!UICONTROL Vorschau]** aus, um eine Vorschau Ihres Dialogfelds anzuzeigen.
-
-   ![](assets/stream-designer-23.png)
-
 1. Wenn Sie Ihr Dialogfeld aktivieren möchten, klicken Sie auf **[!UICONTROL Veröffentlichen]**.
 
-   ![](assets/stream-designer-24.png)
+   ![](assets/stream-designer-23.png)
 
 >[!NOTE]
 >
