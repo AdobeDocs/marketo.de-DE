@@ -1,18 +1,18 @@
 ---
 description: Übersicht über Generative KI - Marketo-Dokumente - Produktdokumentation
-title: Generative KI - Übersicht
+title: Generative KI in Dynamic Chat
 feature: Dynamic Chat
 exl-id: 2ec6409b-f2c8-42a4-94e0-5d2cd331a0a6
-source-git-commit: 338f7ab16b3eea1a5d9777ca5283a1b1629376e6
+source-git-commit: a027acc6da55fb9316f4e34c0445b17dba9f60f1
 workflow-type: tm+mt
-source-wordcount: '445'
+source-wordcount: '449'
 ht-degree: 3%
 
 ---
 
-# Generative KI - Übersicht {#generative-ai-overview}
+# Generative KI in Dynamic Chat {#generative-ai-overview}
 
-Generative KI-gestützte Funktionen in Adobe Dynamic Chat ermöglichen es Ihnen, die Produktivität für Ihre Vertriebsmitarbeiter zu optimieren, Einblicke in die Besucherabsichten Ihrer Website zu erhalten und Besucherfragen sicher zu beantworten.
+Die Generative AI-gestützten Funktionen in Adobe Dynamic Chat ermöglichen es Ihnen, die Produktivität Ihrer Vertriebsmitarbeiter zu optimieren, Einblicke in die Besucherabsichten Ihrer Website zu erhalten und Besucherfragen sicher zu beantworten.
 
 ## Berechtigungen {#permissions}
 
@@ -28,7 +28,7 @@ Erstellen Sie eine Nachricht für den Besucher, wenn er einen bestimmten Punkt i
 
 ## Zusammenfassung des Gesprächs {#conversation-summary}
 
-Um den vollständigen Kontext eines Besuchergesprächs zu erhalten, müssen Sie in der Regel durch das gesamte Chat-Transkript scrollen. Konversationszusammenfassung generiert eine Zusammenfassung für Sie in Echtzeit und enthält sogar Themen, an denen der Besucher Interesse gezeigt hat. Dies ist besonders nützlich für Chat-Agenten, die schnellen Kontext eines Gesprächs benötigen, wenn sie zwischen Chats mit mehreren Besuchern wechseln. Die fertigen Konversationszusammenfassungen sind nicht nur im Chat-Bildschirm des Agenten-Posteingangs sichtbar, sondern auch im Aktivitätsprotokoll des Personendatensatzes des Besuchers in Ihrer Marketo Engage-Datenbank zu finden.
+Um den vollständigen Kontext eines Besuchergesprächs zu erhalten, müssen Sie in der Regel durch das gesamte Chat-Transkript scrollen. Konversationszusammenfassung generiert eine Zusammenfassung für Sie in Echtzeit und enthält sogar Themen, an denen der Besucher Interesse gezeigt hat. Dies ist besonders nützlich für Chat-Agenten, die schnellen Kontext eines Gesprächs benötigen, wenn sie zwischen Chats mit mehreren Besuchern wechseln. Eine vollständige Konversationszusammenfassung ist nicht nur im Chat-Bildschirm des Agenten-Posteingangs sichtbar, sondern auch im Aktivitätsprotokoll des Personendatensatzes des Besuchers in Ihrer Marketo Engage-Datenbank.
 
 ![](assets/generative-ai-overview-3.png)
 
@@ -74,9 +74,9 @@ Erörterte Themen sind in Smart List-Triggern und -Filtern als Einschränkung ve
 
 ## FAQs {#faq}
 
-**Ist generative KI für alle Dynamic Chat-Anwender verfügbar?**
+**Ist generative KI für alle Dynamic Chat-Benutzenden verfügbar?**
 
-Generative KI steht nur Dynamic Chat Prime-Abonnenten zur Verfügung. Weitere Informationen erhalten Sie beim Adobe Account Team (Ihrem Account Manager).
+Generative KI steht nur Abonnenten von Dynamic Chat Prime zur Verfügung. Weitere Informationen erhalten Sie beim Adobe Account Team (Ihrem Account Manager).
 
 **Gibt es ein Limit für die Anzahl der Fragen und Antworten, die ich generieren kann?**
 
