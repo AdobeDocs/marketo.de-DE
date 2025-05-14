@@ -4,7 +4,7 @@ description: Senden einer Marketo-Verkaufs-E-Mail von Microsoft Dynamics - Marke
 title: Senden einer Marketo-Verkaufs-E-Mail von Microsoft Dynamics
 exl-id: 9ee53a3e-8bbe-458a-9905-a1e1503f9553
 feature: Marketo Sales Insights
-source-git-commit: 22385fc545378f8835c36564b1029bedbdbb3848
+source-git-commit: a571a312477c6c1b08241ef2cfb011ce525fba07
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%
@@ -45,7 +45,7 @@ Ihr Vertriebsteam kann E-Mails senden und diese direkt von Microsoft Dynamics au
 
    >[!NOTE]
    >
-   >Sie können bis zu 2.000 Marketo-E-Mails gleichzeitig senden.
+   >Sie können bis zu 300 Marketo-E-Mails gleichzeitig senden.
 
 Gut gemacht! Jetzt wissen Sie, wie Sie getrackte E-Mails von Marketo direkt aus Microsoft Dynamics senden.
 
