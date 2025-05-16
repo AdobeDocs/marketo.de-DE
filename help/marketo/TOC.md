@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 38ec4726dece1695a15104fdb7fa7592b298d4a9
+source-git-commit: 7ec3687c0c16738805394377b2080295c2f18032
 workflow-type: tm+mt
-source-wordcount: '9265'
+source-wordcount: '9261'
 ht-degree: 6%
 
 ---
@@ -257,7 +257,7 @@ ht-degree: 6%
       + [Einrichten der Adobe-Organisationszuordnung](product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md)
       + [Synchronisieren einer Zielgruppe aus Adobe Experience Cloud](product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md)
       + [Importieren von Assets mit Adobe Experience Manager](product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md)
-      + [Übersicht über die Adobe Experience Cloud-Benutzeroberfläche](product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md)
+      + Übersicht über die [Adobe Experience Cloud-Benutzeroberfläche](product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md)
    + Grundlegende Marketo-Konzepte {#core-marketo-concepts}
       + Intelligente Kampagnen {#smart-campaigns}
          + [Grundlegendes zu Smart-Kampagnen](product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
@@ -964,7 +964,6 @@ ht-degree: 6%
             + [Hinzufügen eines Snippets zu einer Landingpage](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md)
             + [Hinzufügen zusätzlicher Landingpage-CNAMEs](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-additional-landing-page-cnames.md)
             + [Hinzufügen von SSL zu Ihren Landingpages](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-ssl-to-your-landing-pages.md)
-            + [TEMP. SSL-DOC hinzufügen](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-ssl-temp-doc.md)
             + [Hinzufügen von Text und Token zu einer Landingpage](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-text-and-tokens-to-a-landing-page.md)
             + [Aktivieren personalisierter URLs für eine Landingpage](product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)
             + [Aktivieren personalisierter URLs für Ihr Konto](product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
@@ -980,7 +979,7 @@ ht-degree: 6%
             + [Verwenden einer Marketo-Liste oder Smart-Liste als LinkedIn-Zielgruppensegment](product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
             + [Verwenden von LinkedIn-Lead-Gen-Formularfiltern und -Triggern in einer Smart-Kampagne](product-docs/demand-generation/social/social-functions/use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
    + E-Mail-Marketing {#email-marketing}
-      + Strategie und Definition {#deliverability}
+      + Zustellbarkeit {#deliverability}
          + [Dauerhafte Abmeldung](product-docs/email-marketing/deliverability/durable-unsubscribe.md)
          + [E-Mail Zustellbarkeit Power Pack: So importieren Sie eine Testadressenliste](product-docs/email-marketing/deliverability/email-deliverability-power-pack-how-to-import-a-seed-list.md)
          + [Hard- und Softbounces in E-Mails](product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.md)

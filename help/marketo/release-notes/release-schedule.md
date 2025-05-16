@@ -4,10 +4,10 @@ description: Versionsplanung – Marketo-Dokumente – Produktdokumentation
 title: Versionsplanung
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: f21d9356f00f8ea50819b591d15ca06d61256d8b
+source-git-commit: 7ec3687c0c16738805394377b2080295c2f18032
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 10%
+source-wordcount: '144'
+ht-degree: 11%
 
 ---
 
@@ -39,13 +39,13 @@ _Veröffentlichungstermine/-funktionen können sich ändern_
   </tr>
    <tr> 
    <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-mar-25.md">25. März</a></td>
-   <td>28. März 2025</td>
+   <td>Samstag, 28. März 2025</td>
    <td>Versendet</td>
   </tr>
   <tr> 
    <td><a href="/help/marketo/release-notes/current.md">April '25</a></td>
    <td>April '25</td>
-   <td>Planmäßig</td>
+   <td>Im Gange</td>
   </tr>
   <tr> 
    <td>Mai '25</td>
@@ -60,6 +60,21 @@ _Veröffentlichungstermine/-funktionen können sich ändern_
   <tr> 
    <td>Juli '25</td>
    <td>25. Juli 2025</td>
+   <td>Planmäßig</td>
+  </tr>
+  <tr> 
+   <td>August '25</td>
+   <td>22. August 2025</td>
+   <td>Planmäßig</td>
+  </tr>
+  <tr> 
+   <td>September '25</td>
+   <td>19. September 2025</td>
+   <td>Planmäßig</td>
+  </tr>
+  <tr> 
+   <td>Oktober '25</td>
+   <td>17. Oktober 2025</td>
    <td>Planmäßig</td>
   </tr>
  </tbody>
