@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 7ec3687c0c16738805394377b2080295c2f18032
+source-git-commit: 93d6e498ee69a1a9fdee7956ac351764cf18a87a
 workflow-type: tm+mt
-source-wordcount: '9261'
+source-wordcount: '9265'
 ht-degree: 6%
 
 ---
@@ -257,7 +257,7 @@ ht-degree: 6%
       + [Einrichten der Adobe-Organisationszuordnung](product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md)
       + [Synchronisieren einer Zielgruppe aus Adobe Experience Cloud](product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md)
       + [Importieren von Assets mit Adobe Experience Manager](product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md)
-      + [Übersicht über die Adobe Experience Cloud-Benutzeroberfläche](product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md)
+      + Übersicht über die [Adobe Experience Cloud-Benutzeroberfläche](product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md)
    + Grundlegende Marketo-Konzepte {#core-marketo-concepts}
       + Intelligente Kampagnen {#smart-campaigns}
          + [Grundlegendes zu Smart-Kampagnen](product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
@@ -1958,6 +1958,7 @@ ht-degree: 6%
       + 2025 {#2025}
          + [Versionshinweise: Januar &#39;25](release-notes/previous-releases/2025/release-notes-jan-25.md)
          + [Versionshinweise: 25. März](release-notes/previous-releases/2025/release-notes-mar-25.md)
+         + [Versionshinweise: April &#39;25](release-notes/previous-releases/2025/release-notes-apr-25.md)
       + 2024 {#2024}
          + [Versionshinweise: Januar &#39;24](release-notes/previous-releases/2024/release-notes-jan-24.md)
          + [Versionshinweise: 24. März](release-notes/previous-releases/2024/release-notes-mar-24.md)

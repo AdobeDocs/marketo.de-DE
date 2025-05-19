@@ -4,18 +4,14 @@ description: Grundlagen zur Programmmitgliedschaft - Marketo-Dokumente - Produkt
 title: Grundlegendes zur Programmmitgliedschaft
 exl-id: 02480a93-b499-4e0f-8a1c-a22f7d3b7178
 feature: Programs
-source-git-commit: eb6d834c1f430beebf0666d7694203a268be93f2
+source-git-commit: 93d6e498ee69a1a9fdee7956ac351764cf18a87a
 workflow-type: tm+mt
-source-wordcount: '309'
-ht-degree: 1%
+source-wordcount: '266'
+ht-degree: 0%
 
 ---
 
 # Grundlegendes zur Programmmitgliedschaft {#understanding-program-membership}
-
->[!NOTE]
->
->Marketo standardisiert jetzt die Sprache für alle Abonnements, sodass Sie Leads/Leads in Ihrem Abonnement und Personen/Personen in unseren Dokumenten sehen können. Diese Begriffe bedeuten dasselbe; sie wirken sich nicht auf die Artikelanweisungen aus. Es gibt noch weitere Änderungen. [Weitere Informationen](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md){target="_blank"}.
 
 >[!NOTE]
 >
@@ -25,11 +21,11 @@ ht-degree: 1%
 
 1. Eine Person füllt ein [Formular auf einer Landingpage](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} im Programm aus.
 
-   1. Die Person hat automatisch den ersten Status in der Progression.
+   * Die Person hat automatisch den ersten Status in der Progression.
 
 1. Sie [ Mitglieder aus einer CSV](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-members-from-a-spreadsheet-into-a-program.md){target="_blank"}Datei in das Programm importieren.
 
-   1. Die Person hat automatisch den ersten Status in der Progression.
+   * Die Person hat automatisch den ersten Status in der Progression.
 
 1. Sie verwenden den [Programmstatus ändern](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md){target="_blank"} Flussschritt.
 1. Eine Person registriert sich oder nimmt an einem [Webinar teil, das mit einem Veranstaltungsprogramm synchronisiert ](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md){target="_blank"}.
