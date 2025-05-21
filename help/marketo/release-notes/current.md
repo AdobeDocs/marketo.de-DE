@@ -3,10 +3,10 @@ description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokument
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 701155a5beccf3725fe26d2bc75c541c989d4af4
+source-git-commit: fddc2f24d9a66146f567c762305ab2825c2f29ae
 workflow-type: tm+mt
-source-wordcount: '329'
-ht-degree: 6%
+source-wordcount: '473'
+ht-degree: 8%
 
 ---
 
@@ -42,7 +42,47 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>Trigger-Token für beliebige Attribute</strong>: Erweiterte Liste von Trigger-Token zur Unterstützung der Verwendung von Daten aus beliebigen Aktivitätsattributen in Smart-Kampagnenfeldern.</td> 
+   <td><strong>Trigger-Token für beliebiges Attribut</strong>: Erweiterte Liste von Trigger-Token zur Unterstützung der Verwendung von Daten aus beliebigen Aktivitätsattributen in Smart-Kampagnenfeldern.</td> 
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>E-Mail-Inhalt Personalization</strong>: Marketo Engage folgt jetzt derselben Binnenmajuskeln-Syntax wie die anderen AEP-Anwendungstoken, sodass für alle Adobe DX-Produkte ein konsistentes Erlebnis bereitgestellt wird. Alle Standard-Token sowie Marketo Engage-spezifische Token wie Mitglieds-, Programm- und Meine-Token werden in der neuen E-Mail-Designer zur Verfügung gestellt.</td> 
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>Rollenbasierte Zugriffssteuerung für E-Mail-Designer Assets</strong>: Eine neue Erweiterung des rollenbasierten Zugriffssteuerungssystems (RBAC) bietet detailliertere Berechtigungen und eine verbesserte Benutzerverwaltung für Assets, die von der neuen E-Mail-Designer unterstützt werden.</td> 
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>In der E-Mail-Designer erstellte E-Mails klonen</strong>: Sie können jetzt eine bestehende E-Mail klonen, die mit der neuen E-Mail-Designer erstellt wurde.</td> 
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>GenStudio-Integration</strong>: Integrieren Sie GenStudio für Leistungsmarketing aus E-Mails heraus, um die Marketing-Effizienz zu verbessern und die Markenkonsistenz zu wahren.</td> 
    <td><i>Demnächst verfügbar</i></td>
    <td><i>Demnächst verfügbar</i></td>
   </tr>
@@ -56,6 +96,6 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
 
 Um auf diese Funktion zugreifen zu können, müssen Sie das Add-on „Advanced BI Analytics“ erworben haben. Weitere Informationen erhalten Sie beim Adobe Account Team (Ihrem Account Manager).
 
-* **Einstellung von REST-API-„access_token“-**: Der `access_token` Abfrageparameter, der zum Authentifizieren von Marketo REST-API-Aufrufen verwendet wird, wird nicht mehr unterstützt und wird nach dem 31. Oktober 2025 nicht mehr verfügbar sein. Alle neuen und vorhandenen Integrationen sollten REST-API-Aufrufe mit dem Header „Authorization“ authentifizieren [wie hier beschrieben](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Einstellung von REST-API-„access_token“-**: Der `access_token` Abfrageparameter, der zum Authentifizieren von Marketo REST-API-Aufrufen verwendet wird, wird nicht mehr unterstützt und wird nach dem 31. Oktober 2025 nicht mehr verfügbar sein. Alle neuen und vorhandenen Integrationen sollten REST-API-Aufrufe mit dem Header „Authorization“ authentifizieren [wie hier beschrieben](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **Einstellung der SOAP-**: Die Unterstützung für die Marketo SOAP-API endet am 31. Oktober 2025. Services, die SOAP-API-Funktionen verwenden, sollten zur [REST-API“ migriert ](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+* **Einstellung der SOAP-**: Die Unterstützung für die Marketo SOAP-API endet am 31. Oktober 2025. Services, die SOAP-API-Funktionen verwenden, sollten zur [REST-API“ migriert ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.

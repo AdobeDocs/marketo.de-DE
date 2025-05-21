@@ -2,26 +2,26 @@
 title: Arbeiten mit Experience Manager Assets
 description: Erfahren Sie, wie Sie Bild-Assets aus einem verbundenen AEM Assets-Repository beim Erstellen von Inhalten in Adobe Marketo Engage verwenden.
 exl-id: c2172042-a35c-4179-bf81-6e96323bd4d4
-source-git-commit: 87dfe8e1f3f10940a9079e22a056ccb4f5ea9a95
+source-git-commit: fddc2f24d9a66146f567c762305ab2825c2f29ae
 workflow-type: tm+mt
 source-wordcount: '791'
-ht-degree: 2%
+ht-degree: 1%
 
 ---
 
 # Arbeiten mit Experience Manager-Assets {#work-with-experience-manager-assets}
 
-Verbinden Sie Ihr _Adobe Experience Manager Assets as a Cloud Service_-Konto mit Ihrer Adobe Marketo Engage-Instanz, damit Sie Ihr AEM Asset-Repository auf der Marketo Engage-E-Mail-Designer nutzen können.
+Verbinden Sie Ihr _Adobe Experience Manager Assets as a Cloud Service_-Konto mit Ihrer Adobe Marketo Engage-Instanz, damit Sie Ihr AEM Asset-Repository in der Marketo Engage E-Mail-Designer nutzen können.
 
 >[!NOTE]
 >
->Derzeit werden nur Bild-Assets von _Adobe Experience Manager Assets_ in Marketo Engage unterstützt. Änderungen an den Assets müssen über das zentrale Adobe Experience Manager Assets-Repository vorgenommen werden. [Weitere Informationen](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
+>Derzeit werden in Marketo Engage nur Bild-Assets von _0}Adobe Experience Manager Assets unterstützt._ Änderungen an den Assets müssen über das zentrale Adobe Experience Manager Assets-Repository vorgenommen werden. [Weitere Informationen](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
 
-## Zugriff auf den Content Accelerator des KI-Assistenten {#access-the-ai-assistant-content-accelerator}
+## Link zu Ihren AEM Cloud Services {#link-to-your-aem-cloud-services}
 
-Bevor Sie diese Funktion verwenden können, müssen Sie zunächst AEM-Cloud Service mit Adobe Marketo Engage verknüpfen.
+Bevor Sie diese Funktion verwenden können, müssen Sie zunächst AEM Cloud Services mit Adobe Marketo Engage verknüpfen.
 
-+++Link AEM Cloud Service und Marketo Engage
++++Verknüpfen von AEM Cloud Services und Marketo Engage
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ Bevor Sie diese Funktion verwenden können, müssen Sie zunächst AEM-Cloud Serv
 
    ![Wählen Sie Adobe Experience Manager im Administratorbereich aus](assets/access-the-ai-assistant-content-accelerator-1.png){width="800" zoomable="yes"}
 
-1. Klicken Sie **Bearbeiten** neben _Adobe Experience Manager Cloud Service_.
+1. Klicken Sie **Bearbeiten** neben _Adobe Experience Manager Cloud Services_.
 
    ![KLICKEN SIE AUF BEARBEITEN](assets/access-the-ai-assistant-content-accelerator-2.png){width="400" zoomable="yes"}
 
@@ -55,13 +55,13 @@ Bevor Sie diese Funktion verwenden können, müssen Sie zunächst AEM-Cloud Serv
 
    ![Das Zertifikat wurde hinzugefügt](assets/access-the-ai-assistant-content-accelerator-6.png){width="700" zoomable="yes"}
 
-Jetzt können alle Bilder aus der Digital Asset Management-Bibliothek in diesem Repository über die Marketo Engage-E-Mail-Designer aufgerufen werden.
+Jetzt können alle Bilder aus der Digital Asset Management-Bibliothek in diesem Repository über die Marketo Engage E-Mail-Designer aufgerufen werden.
 
 +++
 
 ## Arbeiten mit AEM-Assets {#working-with-aem-assets}
 
-Wenn Sie diese digitalen Assets verwenden, werden die neuesten Änderungen in _Assets as a Cloud Service_ über verknüpfte Verweise automatisch an Live-E-Mail-Kampagnen weitergegeben. Wenn Bilder in _Adobe Experience Manager Assets as a Cloud Service_ gelöscht werden, werden sie in Ihren E-Mails mit einem beschädigten Verweis angezeigt. Wenn Assets, die derzeit auf dem Marketo Engage verwendet werden, geändert oder gelöscht werden, werden die E-Mail-Autoren über die Bildänderungen benachrichtigt. Alle Änderungen an den Assets müssen im Adobe Experience Manager Assets Central Repository vorgenommen werden.
+Wenn Sie diese digitalen Assets verwenden, werden die neuesten Änderungen in _Assets as a Cloud Service_ über verknüpfte Verweise automatisch an Live-E-Mail-Kampagnen weitergegeben. Wenn Bilder in _Adobe Experience Manager Assets as a Cloud Service_ gelöscht werden, werden sie in Ihren E-Mails mit einem beschädigten Verweis angezeigt. Wenn Assets, die derzeit in Marketo Engage verwendet werden, geändert oder gelöscht werden, werden die E-Mail-Autoren über die Bildänderungen benachrichtigt. Alle Änderungen an den Assets müssen im Adobe Experience Manager Assets Central Repository vorgenommen werden.
 
 ### Verwenden von AEM Assets als Bildquelle {#use-aem-assets-as-the-image-source}
 
@@ -79,9 +79,9 @@ Wenn Ihre Umgebung über eine oder mehrere Asset-Repository-Verbindungen verfüg
 
 >[!IMPORTANT]
 >
->Ein Administrator muss Benutzer, die Zugriff auf Assets benötigen, zu den Produktprofilen &quot;Assets Consumer Users“ und/oder &quot;Assets Users“ hinzufügen. [Weitere Informationen](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/security/ims-support#managing-products-and-user-access-in-admin-console)
+>Ein Administrator muss Benutzer, die Zugriff auf Assets benötigen, zu den Produktprofilen &quot;Assets Consumer Users“ und/oder &quot;Assets Users“ hinzufügen. [Weitere Informationen](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/security/ims-support#managing-products-and-user-access-in-admin-console)
 
-Klicken Sie im Visual Content Editor auf das Symbol _Experience Manager-Asset_ Auswahl“ in der linken Seitenleiste. Dadurch wird das Bedienfeld „Tools“ in eine Liste der verfügbaren Assets im ausgewählten Repository geändert.
+Klicken Sie im visuellen Inhaltseditor auf das Symbol _Experience Manager Asset-_ in der linken Seitenleiste. Dadurch wird das Bedienfeld „Tools“ in eine Liste der verfügbaren Assets im ausgewählten Repository geändert.
 
 ![Klicken Sie auf das Symbol Assets-Selektor , um auf die Bild-Assets zuzugreifen](assets/work-with-experience-manager-assets-3.png){width="700" zoomable="yes"}
 

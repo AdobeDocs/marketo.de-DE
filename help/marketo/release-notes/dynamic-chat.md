@@ -3,18 +3,36 @@ description: Dynamic Chat-Versionshinweise – Marketo-Dokumente – Produktdoku
 title: Versionshinweise zu Dynamic Chat
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: c0ccf1c515dbde48a131242939c077b44ffd5c1b
+source-git-commit: fddc2f24d9a66146f567c762305ab2825c2f29ae
 workflow-type: tm+mt
-source-wordcount: '2427'
+source-wordcount: '2571'
 ht-degree: 2%
 
 ---
 
 # Versionshinweise zu Dynamic Chat {#dynamic-chat-release}
 
-Adobe Dynamic Chat-Versionen basieren auf einem kontinuierlichen Bereitstellungsmodell, das einen besser skalierbaren Ansatz für die Implementierung von Funktionen ermöglicht. Manchmal gibt es mehrere Versionen in einem Monat, daher schauen Sie regelmäßig nach den aktuellsten Informationen.
+Adobe Dynamic Chat-Versionen basieren auf einem kontinuierlichen Bereitstellungsmodell, das einen besser skalierbaren Ansatz für die Bereitstellung von Funktionen ermöglicht. Manchmal gibt es mehrere Versionen in einem Monat, daher schauen Sie regelmäßig nach den aktuellsten Informationen.
 
-Die standardmäßige Versionshinweise für Marketo Engage [finden Sie hier](/help/marketo/release-notes/current.md){target="_blank"}.
+Die Seite mit den standardmäßigen Versionshinweisen für Marketo Engage [finden Sie hier](/help/marketo/release-notes/current.md){target="_blank"}.
+
+## Version April/Mai 2025 {#apr-may-25-release}
+
+### Benachrichtigungssound {#message-notification-sound}
+
+Jetzt haben Sie die Möglichkeit, jedes Mal, wenn der Chatbot in einer Sitzung ausgelöst wird, einen Ton für den Besucher zu aktivieren. Es stehen mehrere Sounds zur Auswahl.
+
+### POKE-Nachrichten auf Mobilgeräten aktivieren {#enable-poke-messages-on-mobile}
+
+„Poke“, der die Eröffnungsfrage neben dem Chat-Symbol anzeigt, ohne dass der Besucher darauf klicken muss, um es zu sehen, ist jetzt eine Option, die für Besucher, die ein Mobilgerät verwenden, aktiviert werden kann.
+
+### Standardmäßige Fallback-Aktualisierung {#default-fallback-update}
+
+Für benutzerdefinierte Regeln/Teams als Live-Chat-Karte - wenn keine Agenten verfügbar sind (oder der Chat keine Verbindung herstellen kann), wird für verfügbare Agenten (alle, die zu diesem Zeitpunkt verfügbar sind, unabhängig davon, welche Routing-Logik/Regel im Stream platziert wurde) auf Round Robin zurückgesetzt.
+
+### Demandbase-Integration {#demandbase-integration}
+
+Demandbase-Benutzer können Demandbase-Personenattribute für Dialog-Targeting, bedingtes Branding und benutzerdefiniertes Routing in Dynamic Chat verwenden.
 
 ## Version September/Oktober 2024 {#sep-oct-release}
 
@@ -38,7 +56,7 @@ Das Analytics-Dashboard wurde u. a. in folgenden Punkten verbessert:
 
 ### Konversationsbewertung {#conversation-scoring}
 
-Quantifizieren Sie Ihre Leads basierend auf der Qualität ihrer Chat-Interaktion und verwenden Sie diese Metrik als Trigger/Filter beim Marketo Engage von Smart Campaign. Verwenden Sie das neue Attribut _Konversationswert_ für die folgenden Aktivitäten:
+Quantifizieren Sie Ihre Leads basierend auf der Qualität ihrer Chat-Interaktion und verwenden Sie diese Metrik als Trigger/Filter in Marketo Engage Smart Campaign. Verwenden Sie das neue Attribut _Konversationswert_ für die folgenden Aktivitäten:
 
 * Hat einen Dialog geführt
 * Interagiert mit einem Gesprächsfluss
@@ -150,7 +168,7 @@ Um das Benutzererlebnis zu verbessern, wird jetzt beim Laden des Konversationsfl
 
 ### Benutzerdefiniertes Formatieren Ihrer Konversationsnachrichten {#custom-format-conversation-messages}
 
-Stream-Designer unterstützen jetzt [Einfügen von HTML](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"}, um das Erscheinungsbild Ihrer Unterhaltungen anzupassen.
+Stream-Designer unterstützen jetzt [Einfügen von HTML](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"} um das Erscheinungsbild Ihrer Unterhaltungen anzupassen.
 
 ![](assets/dynamic-chat-aug-2024-release-1.png)
 
@@ -260,7 +278,7 @@ Helfen Sie den Vertriebsmitarbeitern, bei Live-Gesprächen mithilfe von Antworte
 
 ### Unterhaltungs-Stupser {#conversation-nudges}
 
-Ermutigen Sie Web-Besucher mit einem Aktionsaufruf, die Gespräche zum Abschluss zu bringen.
+Anspornen Sie Web-Besucher mit einer call-to-action, um die Gespräche zum Abschluss zu bringen.
 
 <p>
 
@@ -270,13 +288,13 @@ Ermutigen Sie Web-Besucher mit einem Aktionsaufruf, die Gespräche zum Abschluss
 
 ### Konversationsflüsse sind jetzt für alle Benutzer verfügbar {#conversational-flows-available-to-all-users}
 
-Machen Sie Ihre Formulare und Landingpages gesprächsbereiter und verkürzen Sie den Verkaufstrichter, indem Sie qualifizierten Leads erlauben, sofort nach einer Formularübermittlung mit Conversational Forms, die jetzt für alle Dynamic Chat-Nutzer &#42; ist, ein Meeting zu buchen oder mit zu chatten.
+Gestalten Sie Ihre Formulare und Landingpages dialogfähiger und verkürzen Sie den Verkaufstrichter, indem Sie qualifizierten Leads erlauben, sofort nach einer Formularübermittlung mit Conversational Forms, die jetzt für alle Dynamic Chat-Benutzenden vollständig verfügbar ist, ein Meeting zu buchen &#42; mit dem Vertrieb zu chatten.
 
 _&#42;Zuvor als Testfunktion mit 100 lebenslangen Interaktionen verfügbar. Gespräche werden jetzt für das monatliche Limit von 250 Gesprächen gezählt, die Benutzende mit dem Select-Paket führen._
 
 ### Rückruffunktionen {#callback-functions}
 
-[Rückruffunktionen](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md){target="_blank"} ermöglichen es Ihnen, Dynamic Chat-Analyseereignisse in externen Systemen wie Adobe Analytics oder Google Analytics zu erfassen, wenn Besucherinnen und Besucher Dynamic Chat-Gespräche führen. Sie aktivieren das Dynamic Chat von Analytics-Ereignissen, indem Sie einen Callback bei der -API registrieren, um auf die Ereignisse zu warten. Auf diese Weise können Sie einen ganzheitlicheren Überblick über Ihre Dynamic Chat-Interaktion erhalten, da sie sich auf andere wichtige Daten wie Web-Traffic bezieht.
+[Rückruffunktionen](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md){target="_blank"} ermöglichen es Ihnen, Dynamic Chat-Analyseereignisse in externen Systemen wie Adobe Analytics oder Google Analytics zu erfassen, wenn Besucherinnen und Besucher mit Dynamic Chat-Konversationen interagieren. Sie aktivieren Dynamic Chat-Analyseereignisse, indem Sie einen Callback bei der -API registrieren, um auf die Ereignisse zu warten. Auf diese Weise erhalten Sie einen ganzheitlicheren Überblick über Ihre Dynamic Chat-Interaktion, da sie sich auf andere wichtige Daten wie Web-Traffic bezieht.
 
 ### Live Agent-Verfügbarkeitsbedingungen zu bedingter Verzweigung hinzugefügt {#live-agent-availability-conditional-branching}
 
@@ -286,7 +304,7 @@ Zusätzlich zu nativen und benutzerdefinierten Marketo Engage-Feldern können Si
 
 ### Smart-List-Bedingung zur bedingten Verzweigung hinzugefügt {#smart-list-condition}
 
-Durch Hinzufügen der neuen Marketo Engage-Smart-List-Bedingung in der bedingten Verzweigung können Sie Verzweigungen basierend auf bereits vorhandenen Zielgruppen erstellen, die Sie bereits im Marketo Engage erstellt haben, anstatt die Bedingungen für die Zielgruppenverzweigung im Dynamic Chat zu definieren.
+Durch Hinzufügen der neuen Smart-List-Bedingung von Marketo Engage in der bedingten Verzweigung können Sie Verzweigungen basierend auf bereits vorhandenen Zielgruppen erstellen, die Sie bereits in Marketo Engage erstellt haben, anstatt die Bedingungen für die Verzweigung von Zielgruppen in Dynamic Chat zu definieren.
 
 ![](assets/dynamic-chat-release-2.png)
 
@@ -296,14 +314,14 @@ Wir haben in diesem Jahr bedingte Verzweigungen für Dialoge veröffentlicht, un
 
 ### Live-Chat für Konversationsflüsse {#live-chat-for-conversational-flows}
 
-Im Jahr 2023 haben wir Live-Chat-Funktionen für Dialoge veröffentlicht. Jetzt können Sie auch Live-Chat-Interaktionen zu Ihren Gesprächsflüssen hinzufügen. Wenn Sie Konversationsflüsse mit Ihren Marketo Engage-Formularen verwenden, können Sie jetzt qualifizierten Besuchern erlauben, sofort nach der Formularübermittlung mit einem Live-Agenten zu chatten!
+Im Jahr 2023 haben wir Live-Chat-Funktionen für Dialoge veröffentlicht. Jetzt können Sie auch Live-Chat-Interaktionen zu Ihren Gesprächsflüssen hinzufügen. Wenn Sie Konversationsflüsse mit Ihren Marketo Engage-Formularen verwenden, können Sie jetzt qualifizierten Besucherinnen und Besuchern erlauben, sofort nach der Formularübermittlung mit einem Live-Agenten zu chatten!
 
-### Letzte Marketo Engage-Aktivitäten im Agenten-Posteingang {#recent-marketo-engage-activities-in-agent-inbox}
+### Kürzliche Marketo Engage-Aktivitäten im Agenten-Posteingang {#recent-marketo-engage-activities-in-agent-inbox}
 
 Wir haben dem Abschnitt Letzte Aktivitäten des Agenten-Posteingangs kürzlich Marketo Engage-Aktivitäten hinzugefügt. Wenn also ein Site-Besucher einen Chat mit einem Agenten anfordert, kann der Agent schnell sehen, ob der Besucher kürzlich eine der folgenden Marketo Engage-Aktivitäten ausgeführt hat (letzte 25 Aktivitäten):
 
 * Hat E-Mail geöffnet
-* Besuchte Webseite
+* Web-Seite besucht
 * Ausgefülltes Formular
 * Hatte interessanten Moment
 
@@ -311,7 +329,7 @@ Wir haben dem Abschnitt Letzte Aktivitäten des Agenten-Posteingangs kürzlich M
 
 ### Kalenderverbindungsstatus in der Agentenverwaltung {#calendar-connection-status-in-agent-management}
 
-Administratoren können jetzt leicht erkennen, welche Agenten mit Besprechungsbuchungsberechtigungen ihre Kalender in Dynamic Chat miteinander verbunden haben. Auf diese Weise können Sie sicherstellen, dass Ihr gesamtes Vertriebsteam verbunden ist und Besprechungsanfragen von Dynamic Chat akzeptiert.
+Administratoren können jetzt leicht erkennen, welche Agenten mit Besprechungsbuchungsberechtigungen ihre Kalender in Dynamic Chat verbunden haben. Auf diese Weise können Sie sicherstellen, dass Ihr gesamtes Vertriebsteam verbunden ist und Besprechungsanfragen von Dynamic Chat akzeptiert.
 
 ![](assets/dynamic-chat-release-4.png)
 
@@ -325,9 +343,9 @@ Benutzer berichteten, dass Web-Besucher Meetings in ihrem Kalender mit nur 10 Mi
 
 Einige Benutzer gaben an, dass sie Probleme mit dem Hinzufügen und Entfernen von Agenten im dynamischen Chat haben. Daher haben wir einige Änderungen vorgenommen, um diese Probleme zu beheben.
 
-Wenn ein(e) Benutzende(r) der Admin Console mit der Berechtigung Live-Chat oder Besprechungsbuchung hinzugefügt wird, wird er/sie sofort in der Agentenverwaltungsliste angezeigt und steht Dialogen, Gesprächsflüssen, Routing-Regeln und Teams zur Verfügung.
+Wenn ein(e) Benutzende(r) mit der Berechtigung Live-Chat oder Besprechungsbuchung zu Admin Console hinzugefügt wird, wird er/sie sofort in der Agentenverwaltungsliste angezeigt und kann zu Dialogen, Gesprächsflüssen, Routing-Regeln und Teams hinzugefügt werden.
 
-Wenn ein(e) Benutzende(r) mit Berechtigungen zum Buchen von Meetings oder zum Live-Chat von der Admin Console entfernt wird, wird er/sie sofort vom Dynamic Chat entfernt, ist nicht mehr für den Live-Chat oder das Meeting-Routing verfügbar und wird nicht mehr auf die Lizenzbeschränkungen angerechnet.
+Wenn ein(e) Benutzende(r) mit Berechtigungen zum Buchen von Meetings oder zum Live-Chat aus Admin Console entfernt wird, wird er/sie sofort aus Dynamic Chat entfernt, ist nicht mehr für den Live-Chat oder das Meeting-Routing verfügbar und wird nicht mehr auf die Lizenzbeschränkungen angerechnet.
 
 ### Verbesserte Berichtsleistung auf Konversationsebene {#improved-conversation-level-report-performance}
 
@@ -381,7 +399,7 @@ Du hast gefragt und wir haben geliefert. Sie können jetzt Dynamic Chat-Interakt
 
 ### Bedingte Verzweigung in Dialogfeldern {#conditional-branching-in-dialogues}
 
-Mit bedingter Verzweigung können Sie basierend auf verschiedenen Bedingungen Verzweigungen in Ihren Dialogfeldflüssen erstellen. Jetzt können Sie verschiedene Inhalte in demselben Dialogfeld verschiedenen Personen präsentieren, basierend auf Lead- und Unternehmensattributen in Marketo Engage.
+Mit bedingter Verzweigung können Sie basierend auf verschiedenen Bedingungen Verzweigungen in Ihren Dialogfeldflüssen erstellen. Jetzt können Sie verschiedene Inhalte basierend auf Lead- und Unternehmensattributen in Marketo Engage verschiedenen Personen im selben Dialogfeld präsentieren.
 
 ## Version Januar 2024 {#january-release}
 
