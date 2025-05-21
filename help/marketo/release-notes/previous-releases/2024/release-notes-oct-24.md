@@ -3,7 +3,7 @@ description: Oktober 2024 - Versionshinweise zu Marketo - Produktdokumentation
 title: Oktober 2024 – Versionshinweise
 feature: Release Information
 exl-id: 2e28ae7f-51de-4510-b3e8-79a989f0daf5
-source-git-commit: 718aca9da7748a265f1f24524e46cdef3dc651b3
+source-git-commit: 701155a5beccf3725fe26d2bc75c541c989d4af4
 workflow-type: tm+mt
 source-wordcount: '548'
 ht-degree: 3%
@@ -18,7 +18,7 @@ Die Versionshinweise speziell für Adobe Dynamic Chat [finden Sie hier](/help/ma
 
 >[!AVAILABILITY]
 >
->Mit einem Stern (![star](assets/yellow-star.png) gekennzeichnete Funktionen sind kostenpflichtige Add-ons. Weitere Informationen erhalten Sie von Ihrem Marketo Engage-Support-Mitarbeiter.
+>Mit einem Stern (![star](assets/yellow-star.png) gekennzeichnete Funktionen sind kostenpflichtige Add-ons. Weitere Informationen erhalten Sie vom Marketo Engage-Support.
 
 ## Standardfunktionen des Veröffentlichungszyklus {#standard-release-cycle-features}
 
@@ -45,7 +45,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <tr> 
    <td><strong>Smart List „Set to Affect“ Count</strong>: Zeigt an, wie viele Personen von der Bearbeitung der Qualifizierungsregeln einer Smart-Kampagne betroffen sein werden.</td> 
    <td>Versendet</td>
-   <td>Nicht zutreffend</td>
+   <td>k. A.</td>
   </tr>
   <tr> 
    <td> </td> 
@@ -54,9 +54,9 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tr>
   </tr>
    <tr> 
-   <td><strong>Schaltfläche „Mein Konto“ in der Navigationsleiste</strong>: Für diejenigen, die zum Adobe Identity Management System migriert haben, ermöglicht eine neue Schaltfläche „Mein Konto“ in der linken Navigationsleiste die Konfiguration Ihrer Zeitzone und den Zugriff auf Abonnementdetails.</td> 
+   <td><strong>Schaltfläche „Mein Konto“ in der Navigationsleiste</strong>: Für diejenigen, die zu Adobe Identity Management System migriert haben, ermöglicht eine neue Schaltfläche „Mein Konto“ in der linken Navigationsleiste die Konfiguration Ihrer Zeitzone und den Zugriff auf Abonnementdetails.</td> 
    <td>Versendet</td>
-   <td>Nicht zutreffend</td>
+   <td>k. A.</td>
   </tr>
   <tr> 
    <td> </td> 
@@ -92,13 +92,13 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
 
 * **Aktualisierung der Massenextraktions-API**: Es wurde ein Problem in der Massenextraktions-API behoben, das die Option columnHeaderNames betraf, mit der Sie benutzerdefinierte Spaltenkopfzeilennamen in der exportierten Datei angeben können. Zuvor konnten Spaltenkopfzeilennamen, die Nicht-ASCII-Zeichen enthielten, beschädigt werden.
 
-* **Einstellung von REST-API-Zugriffs-Token**: Der Abfrageparameter „access_token“, der zum Authentifizieren von Marketo-REST-API-Aufrufen verwendet wird, wird nicht mehr unterstützt und ist nach dem 30. Juni 2025 nicht mehr verfügbar. Alle neuen und vorhandenen Integrationen sollten REST-API-Aufrufe mit dem Header „Authorization“ authentifizieren [wie hier beschrieben](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/authentication#using-an-access-token).
+* **Einstellung von REST-API-Zugriffs-Token**: Der Abfrageparameter „access_token“, der zum Authentifizieren von Marketo-REST-API-Aufrufen verwendet wird, wird nicht mehr unterstützt und ist nach dem 31. Oktober 2025 nicht mehr verfügbar. Alle neuen und vorhandenen Integrationen sollten REST-API-Aufrufe mit dem Header „Authorization“ authentifizieren [wie hier beschrieben](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication#using-an-access-token).
 
 
-* **QR-Code veraltet**: Am 4. Oktober 2024 wird die QR-Code-Funktion, die in Push-Benachrichtigungen und In-App-Messaging-Assets verwendet wird, eingestellt. Dazu gehört die Verwendung von QR-Codes für ein neues Testgerät sowie die Erstellung neuer Assets mit QR-Codes. Das Verwerfen von Funktionen mit geringerer Nutzung ermöglicht es uns, ihre Ressourcen für die Gesamtwartung von Marketo Engage neu zuzuweisen.
+* **QR-Code veraltet**: Am 4. Oktober 2024 wird die QR-Code-Funktion, die in Push-Benachrichtigungen und In-App-Messaging-Assets verwendet wird, eingestellt. Dazu gehört die Verwendung von QR-Codes für ein neues Testgerät sowie die Erstellung neuer Assets mit QR-Codes. Wenn Funktionen mit geringerer Nutzung verworfen werden, können wir ihre Ressourcen für die Gesamtwartung von Marketo Engage neu zuweisen.
 
 * **Munchkin-Änderungen**
 
-   * **Neue Version**: Am 17. September 2024 beginnt das Rollout von [Munchkin](/help/marketo/product-docs/administration/setup-administration/munchkin.md){target="_blank"} v.164 auf Marketo Engage-Instanzen, bei denen die Einstellung &quot;Munchkin Beta&quot; in **Admin** > **Schatztruhe** aktiviert ist. Der Rollout zu allen anderen Instanzen soll am 29. Oktober beginnen. Diese Version aktualisiert die Erstellung von Munchkin-Cookies. An der Funktionalität gibt es keine Änderungen.
+   * **Neue Version**: Am 17. September 2024 beginnt das Rollout von [Munchkin](/help/marketo/product-docs/administration/setup-administration/munchkin.md){target="_blank"} v.164 auf Marketo Engage-Instanzen, bei denen die Einstellung &quot;Munchkin Beta&quot; in **Admin** > **Treasure Chest** aktiviert ist. Der Rollout zu allen anderen Instanzen soll am 29. Oktober beginnen. Diese Version aktualisiert die Erstellung von Munchkin-Cookies. An der Funktionalität gibt es keine Änderungen.
 
-   * **Zeichen aus URL entfernt**: Die von Munchkin JS erstellten Aktivitäten „Besuche auf Web-Seite“ und „Klicks auf Link“ entfernen jetzt nicht URL-codierte Steuerzeichen aus allen URL-Feldern. Durch diese Änderung sollen Fehler im Zusammenhang mit der Übertragung dieser Zeichentypen auf Systeme verhindert werden, die diese nicht unterstützen und für die keine gültige Verwendung innerhalb von Marketo Engage besteht.
+   * **Zeichen aus URL entfernt**: Die von Munchkin JS erstellten Aktivitäten „Besuche auf Web-Seite“ und „Klicks auf Link“ entfernen jetzt nicht URL-codierte Steuerzeichen aus allen URL-Feldern. Durch diese Änderung sollen Fehler im Zusammenhang mit der Übertragung dieser Zeichentypen in Systeme verhindert werden, die diese Zeichen nicht unterstützen und für die in Marketo Engage keine gültige Verwendung besteht.
