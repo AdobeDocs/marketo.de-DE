@@ -3,7 +3,7 @@ description: Demandbase - Marketo Docs - Produktdokumentation
 title: Demandbase
 feature: Dynamic Chat
 exl-id: 2623eef2-0b15-4821-a23e-12eed613d6b6
-source-git-commit: d73ff37236abbd0d97631ad66b8eb34473650554
+source-git-commit: 14bf3ca81a3732c2687f66ca71ac832ae3177623
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 2%
@@ -19,6 +19,8 @@ Demandbase-Benutzer können Demandbase-Personenattribute für Dialog-Targeting, 
 Die folgenden Schritte sind (in _Demandbase-Konto)_.
 
 1. Klicken Sie in Demandbase auf das Symbol _Einstellungen_ .
+
+   ![](assets/demandbase-1.png)
 
 1. Wählen _unter_ die Option **Konto-Connector** aus.
 
@@ -42,12 +44,12 @@ Die folgenden Schritte sind (in _Demandbase-Konto)_.
 
 Targeting Ihrer Zielgruppe basierend auf Demandbase-Attributen zusätzlich zu nativen und benutzerdefinierten Attributen beim Erstellen eines Dialogfelds oder eines Gesprächsflusses.
 
-![](assets/demandbase-1.png)
+![](assets/demandbase-2.png)
 
 Verwenden Sie Demandbase-Attribute als Bedingung in Ihrer bedingten Verzweigung, einem Dialogfeld oder einem Gesprächsfluss.
 
-![](assets/demandbase-2.png)
+![](assets/demandbase-3.png)
 
 Verwenden Sie Demandbase-Attribute beim Definieren einer benutzerdefinierten Routing-Logik.
 
-![](assets/demandbase-3.png)
+![](assets/demandbase-4.png)
