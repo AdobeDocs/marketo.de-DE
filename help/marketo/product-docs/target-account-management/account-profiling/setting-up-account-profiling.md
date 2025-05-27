@@ -4,9 +4,9 @@ description: Einrichten der Kontoprofilerstellung - Marketo-Dokumente - Produktd
 title: Einrichten der Kontoprofilerstellung
 exl-id: 6f3af2e7-f820-473b-8ed6-ff0982672e54
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2f978d814f4cf2d4d2ca9ead0c1a3e5c15430520
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '169'
 ht-degree: 2%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 2%
 # Einrichten der Kontoprofilerstellung {#setting-up-account-profiling}
 
 Führen Sie diese Schritte aus, um mit der Verwendung der Kontoprofilerstellung zu beginnen.
+
+>[!IMPORTANT]
+>
+>Ab 2025 ist die Kontoprofilerstellung für neue Benutzer nicht mehr verfügbar. Dies funktioniert weiterhin für bestehende Benutzer.
 
 >[!CAUTION]
 >
