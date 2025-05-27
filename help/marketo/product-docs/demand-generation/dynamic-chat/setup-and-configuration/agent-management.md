@@ -3,16 +3,16 @@ description: Agentenverwaltung - Marketo-Dokumente - Produktdokumentation
 title: Agentenverwaltung
 feature: Dynamic Chat
 exl-id: 151d8cf2-a5b7-43c4-8418-cc22252108b2
-source-git-commit: 5aaf7081bbe96ff49753a7e142b0f3b38a70ea10
+source-git-commit: 42e2a23c1c451c61fd62237fd1305924b51437b2
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '284'
 ht-degree: 1%
 
 ---
 
 # Agentenverwaltung {#agent-management}
 
-Zeigen Sie in der Agentenverwaltung eine Liste der Agenten in Ihrer Dynamic Chat-Instanz an, verwalten Sie Teams und legen Sie Ihre Ausweichregeln fest.
+Zeigen Sie in der Agentenverwaltung eine Liste der Agenten in Ihrer Dynamic Chat-Instanz an, verwalten Sie Teams und legen Sie Fallback-Regeln fest.
 
 ![](assets/agent-management-1.png)
 
@@ -20,7 +20,7 @@ Zeigen Sie in der Agentenverwaltung eine Liste der Agenten in Ihrer Dynamic Chat
 
 Auf dieser Registerkarte werden alle Agenten in Ihrer Dynamic Chat-Instanz aufgelistet. Sie enthält Informationen wie Namen, E-Mail-Adresse, Live-Chat-Status und mehr.
 
-![](assets/agent-management-2.png)
+![](assets/agent-management-2.png){width="800" zoomable="yes"}
 
 >[!NOTE]
 >
@@ -70,7 +70,9 @@ Wählen Sie eine Standardnachricht (System) aus oder schreiben Sie eine benutzer
 
 >[!NOTE]
 >
->Wenn Sie das Kontrollkästchen **Buchungsoption für Besprechungen einschließen** aktivieren, hat der Chat-Besucher die Möglichkeit, ein Meeting zu buchen, wenn keine Agenten für den Live-Chat verfügbar sind.
+>* Wenn Sie das Kontrollkästchen _Buchungsoption für Besprechungen einschließen_ aktivieren, hat der Chat-Besucher die Möglichkeit, ein Meeting zu buchen, wenn keine Agenten für den Live-Chat verfügbar sind.
+>
+>* **Für benutzerdefinierte Regeln/Teams als Live-Chat-Karte**: Wenn Agenten gesucht werden, wenn sie nicht verfügbar sind oder keine Verbindung herstellen konnten, wird auf Round Robin zurückgegriffen, um nach „Verfügbare Agenten“ zu suchen (alle, die zu diesem Zeitpunkt verfügbar sind, unabhängig davon, welche Routing-Logik/Regel im Stream platziert wurde).
 
 >[!TIP]
 >
