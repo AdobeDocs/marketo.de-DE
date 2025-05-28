@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: bc0d69105d7848e6068e552245dabbf28a69bacb
+source-git-commit: 0abb2a7499541b8efbf3000bcd9fc9c1a79e43e1
 workflow-type: tm+mt
-source-wordcount: '9259'
+source-wordcount: '9261'
 ht-degree: 6%
 
 ---
@@ -257,7 +257,7 @@ ht-degree: 6%
       + [Einrichten der Adobe-Organisationszuordnung](product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md)
       + [Synchronisieren einer Zielgruppe aus Adobe Experience Cloud](product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md)
       + [Importieren von Assets mit Adobe Experience Manager](product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md)
-      + [Übersicht über die Adobe Experience Cloud-Benutzeroberfläche](product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md)
+      + Übersicht über die [Adobe Experience Cloud-Benutzeroberfläche](product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md)
    + Grundlegende Marketo-Konzepte {#core-marketo-concepts}
       + Intelligente Kampagnen {#smart-campaigns}
          + [Grundlegendes zu Smart-Kampagnen](product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
@@ -1028,6 +1028,7 @@ ht-degree: 6%
          + [Funktionsvergleich](product-docs/email-marketing/email-designer/feature-comparison.md)
          + [E-Mail-Erstellung](product-docs/email-marketing/email-designer/email-authoring.md)
          + [Erstellen von E-Mail-Vorlagen](product-docs/email-marketing/email-designer/email-template-authoring.md)
+         + [Personalization-Token](product-docs/email-marketing/email-designer/personalization-tokens.md)
          + [Arbeiten mit AEM Assets](product-docs/email-marketing/email-designer/aem-assets.md)
          + [Bearbeiten von Bildern mit Adobe Express](product-docs/email-marketing/email-designer/edit-images-adobe-express.md)
          + [Fragmente](product-docs/email-marketing/email-designer/fragments.md)
