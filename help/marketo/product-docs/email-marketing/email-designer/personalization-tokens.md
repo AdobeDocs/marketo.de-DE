@@ -4,18 +4,17 @@ product: marketo
 title: Personalization-Token
 description: Erfahren Sie, wie Sie in der neuen Marketo Engage Email Designer Personalisierungs-Token verwenden.
 level: Beginner, Intermediate
-hide: true
-hidefromtoc: true
-source-git-commit: 0abb2a7499541b8efbf3000bcd9fc9c1a79e43e1
+exl-id: 4828e1a5-822f-48a9-bbb8-b1ffe8421e4f
+source-git-commit: c31f338d7f784258a120c90a9d5016366d5a1095
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
 
 # Personalization-Token {#personalization-tokens}
 
-Die E-Mail-Designer hat ein anderes Format als der klassische E-Mail-Editor, wenn es um E-Mail-Personalisierungs-Token geht. Die Änderung wurde implementiert, um die Kompatibilität mit Handlebar-Skripten zu verbessern und den E-Mail-Erstellungsprozess zu optimieren.
+E-Mail-Designer hat ein anderes Format als der klassische E-Mail-Editor, wenn es um E-Mail-Personalisierungs-Token geht. Die Änderung wurde implementiert, um die Kompatibilität mit Handlebar-Skripten zu verbessern und den E-Mail-Erstellungsprozess zu optimieren.
 
 >[!AVAILABILITY]
 >
@@ -23,7 +22,7 @@ Die E-Mail-Designer hat ein anderes Format als der klassische E-Mail-Editor, wen
 
 ## Primärer Anwendungsfall {#primary-use-case}
 
-Diese Verbesserung kommt in erster Linie denjenigen zugute, die von [Velocity-Skripterstellung](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/email-scripting){target="_blank"} zu Handlebar-Skripterstellung wechseln. Die neue E-Mail-Designer unterstützt nur das neue Token-Format. Das aktualisierte Format beseitigt Leerzeichen und führt eine überarbeitete Standardtextstruktur ein, um ein reibungsloseres und effizienteres Skripterlebnis zu gewährleisten.
+Diese Verbesserung kommt in erster Linie denjenigen zugute, die von [Velocity-Skripterstellung](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting){target="_blank"} zu Handlebar-Skripterstellung wechseln. Der neue E-Mail-Designer unterstützt nur das neue Token-Format. Das aktualisierte Format beseitigt Leerzeichen und führt eine überarbeitete Standardtextstruktur ein, um ein reibungsloseres und effizienteres Skripterlebnis zu gewährleisten.
 
 ## Token-Erlebnis {#token-experience}
 
@@ -37,7 +36,7 @@ Im klassischen E-Mail-Editor können Sie Token mit Leerzeichen wie `lead.Anonymo
 
 ### Neues Format {#new-format}
 
-Im E-Mail-Designer müssen Sie sich an [Binnenmajuskel-Schreibweise](https://developer.mozilla.org/en-US/docs/Glossary/Camel_case) oder Unterstriche für Token (z. B. `lead.anonymousIP` oder `member.registration_code`) anpassen. Das Format für den Standardtext ändert sich ebenfalls in `{%=lead.city ?: "fallback" %}`.
+In E-Mail-Designer müssen Sie [Binnenmajuskel-Schreibweise](https://developer.mozilla.org/en-US/docs/Glossary/Camel_case) oder Unterstriche für Token (z. B. `lead.anonymousIP` oder `member.registration_code`) verwenden. Das Format für den Standardtext ändert sich ebenfalls in `{%=lead.city ?: "fallback" %}`.
 
 ![](assets/personalization-tokens-2.png){width="600" zoomable="yes"}
 
