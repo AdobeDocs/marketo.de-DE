@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 0abb2a7499541b8efbf3000bcd9fc9c1a79e43e1
+source-git-commit: f3bc58c0d65e8110c5366269fdb4abf817370aee
 workflow-type: tm+mt
-source-wordcount: '9261'
+source-wordcount: '9264'
 ht-degree: 6%
 
 ---
@@ -215,6 +215,7 @@ ht-degree: 6%
          + [Aktivieren personalisierter URLs für Ihr Konto](product-docs/administration/settings/enable-personalized-urls-for-your-account.md)
          + [Globale Formularvalidierungsregeln](product-docs/administration/settings/global-form-validation-rules.md)
          + [Kopfzeilen der Landingpage](product-docs/administration/settings/landing-page-headers.md)
+         + [Produktnutzungs-Dashboards](product-docs/administration/settings/product-usage-dashboards.md)
          + [Beschränken von Marketo-Anmeldungen auf der Grundlage von IP-Adressen](product-docs/administration/settings/restrict-marketo-logins-based-on-ip.md)
          + [Sprache, Gebietsschema und Zeitzone auswählen](product-docs/administration/settings/select-your-language-locale-and-time-zone.md)
          + [Festlegen einer Fallback-Seite](product-docs/administration/settings/set-a-fallback-page.md)
@@ -257,7 +258,7 @@ ht-degree: 6%
       + [Einrichten der Adobe-Organisationszuordnung](product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md)
       + [Synchronisieren einer Zielgruppe aus Adobe Experience Cloud](product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md)
       + [Importieren von Assets mit Adobe Experience Manager](product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md)
-      + [Übersicht über die Adobe Experience Cloud-Benutzeroberfläche](product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md)
+      + Übersicht über die [Adobe Experience Cloud-Benutzeroberfläche](product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md)
    + Grundlegende Marketo-Konzepte {#core-marketo-concepts}
       + Intelligente Kampagnen {#smart-campaigns}
          + [Grundlegendes zu Smart-Kampagnen](product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
