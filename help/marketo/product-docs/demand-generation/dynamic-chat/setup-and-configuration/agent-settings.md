@@ -3,9 +3,9 @@ description: Agenteneinstellungen - Marketo-Dokumente - Produktdokumentation
 title: Agenteneinstellungen
 feature: Dynamic Chat
 exl-id: a782ef9b-6a89-448a-8bd9-f127ceea3bf5
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 19f7a38a6a87bc66084e7e45f5bf49cd0d29c3cd
 workflow-type: tm+mt
-source-wordcount: '498'
+source-wordcount: '543'
 ht-degree: 2%
 
 ---
@@ -42,14 +42,14 @@ Benutzer können auch den Textkörper der Einladung anpassen, die an den Besuche
 
 ### Berechtigungen {#permissions}
 
-Durch die Konfiguration mit Outlook werden die folgenden Berechtigungen für das Dynamic Chat gewährt:
+Durch die Konfiguration mit Outlook werden Dynamic Chat die folgenden Berechtigungen gewährt:
 
 * Vollständiger Zugriff auf Ihre Kalender
 * Anmelden und Profil lesen
 * Beibehaltung des Zugriffs auf Daten, auf die Sie Zugriff gewährt haben
 * Mailbox-Einstellungen lesen
 
-Durch die Konfiguration mit Google werden dem Dynamic Chat die folgenden Berechtigungen gewährt:
+Durch die Konfiguration mit Google werden Dynamic Chat die folgenden Berechtigungen gewährt:
 
 * Kalender erstellen, ändern oder löschen
 * Aktualisieren einzelner Kalenderereignisse
@@ -95,3 +95,11 @@ Wenn Sie bei der App eingeloggt sind, erhalten Sie eine In-App-Benachrichtigung 
 >[!TIP]
 >
 >Sie können mehrere Zeitblöcke am selben Tag auswählen (z. B. Freitag von 8a-12p _und_ 1p-5p), indem Sie auf das **+** rechts klicken.
+
+## Agentprofil-Foto
+
+Ein Agent kann zwar sein eigenes Profilfoto hochladen, diese Aktion wird jedoch nicht in Dynamic Chat ausgeführt. Sie müssten zu `account.adobe.com/profile` navigieren. Weitere Informationen finden Sie [Kontoprofil aktualisieren](https://helpx.adobe.com/de/manage-account/using/edit-adobe-account-personal-profile.html).
+
+>[!NOTE]
+>
+>Das in `experience.adobe.com` angezeigte Profilbild wird **nicht**.

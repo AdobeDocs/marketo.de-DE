@@ -3,10 +3,10 @@ description: Routing - Marketo-Dokumente - Produktdokumentation
 title: Routing
 feature: Dynamic Chat
 exl-id: e20193b9-55c1-40f2-9e42-5b5dc9b88144
-source-git-commit: 42e2a23c1c451c61fd62237fd1305924b51437b2
+source-git-commit: 19f7a38a6a87bc66084e7e45f5bf49cd0d29c3cd
 workflow-type: tm+mt
-source-wordcount: '270'
-ht-degree: 1%
+source-wordcount: '338'
+ht-degree: 2%
 
 ---
 
@@ -64,13 +64,47 @@ Identifizieren und hochladen Ihres Zielkontos und der jeweiligen Vertriebsinhabe
 
 ![](assets/routing-9.png)
 
+>[!PREREQUISITES]
+>
+>Bevor _Konto-Routing_ in Dynamic Chat angezeigt wird, müssen Berechtigungen in der Admin Console aktiviert werden. Siehe [Berechtigungen aktivieren](#enable-permissions) unten.
+
+### Berechtigungen aktivieren {#enable-permissions}
+
++++ Konto-Routing-Berechtigungen aktivieren
+
+1. Anmelden bei [https://adminconsole.adobe.com/](https://adminconsole.adobe.com/){target="_blank"}.
+
+1. Wählen _unter &quot;_&quot; die Option **Dynamic Chat**.
+
+   ![](assets/routing-10.png)
+
+1. Wählen _unter &quot;_&quot; das gewünschte Profil aus.
+
+   ![](assets/routing-11.png)
+
+1. Klicken Sie auf **Registerkarte** Berechtigungen“.
+
+   ![](assets/routing-12.png)
+
+1. Klicken Sie auf das Bearbeitungssymbol (![Bearbeiten](assets/icon-routing-edit.png)) neben _Konfiguration_.
+
+   ![](assets/routing-13.png)
+
+1. Klicken Sie auf das Pluszeichen **+** neben _Konto-Routing anzeigen_.
+
+   ![](assets/routing-14.png){width="600" zoomable="yes"}
+
+1. Klicken Sie auf **Speichern**, wenn Sie fertig sind.
+
++++
+
 ### Konto hinzufügen {#add-an-account}
 
 In diesem Beispiel leiten wir alle Mitarbeiter von Lego direkt zu Agent Steven weiter.
 
 1. Klicken Sie auf der Registerkarte Konto-Routing auf **+ Konto hinzufügen**.
 
-   ![](assets/routing-10.png)
+   ![](assets/routing-15.png)
 
    >[!TIP]
    >
@@ -78,4 +112,4 @@ In diesem Beispiel leiten wir alle Mitarbeiter von Lego direkt zu Agent Steven w
 
 1. Geben Sie den Namen und die Domain des Unternehmens ein und wählen Sie den gewünschten Agenten aus.
 
-   ![](assets/routing-11.png)
+   ![](assets/routing-16.png)

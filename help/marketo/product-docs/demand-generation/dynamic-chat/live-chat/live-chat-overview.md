@@ -3,10 +3,10 @@ description: Live-Chat - Übersicht - Marketo-Dokumente - Produktdokumentation
 title: Live-Chat - Übersicht
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 8e26cd1920fe66b63238c8b6e51ec424d1dda1fb
+source-git-commit: 19f7a38a6a87bc66084e7e45f5bf49cd0d29c3cd
 workflow-type: tm+mt
-source-wordcount: '697'
-ht-degree: 1%
+source-wordcount: '842'
+ht-degree: 0%
 
 ---
 
@@ -115,6 +115,10 @@ Wenn eine Aktion wie eine Besprechungsbuchung oder ein Live-Chat fehlschlägt, w
 
 * Die Kundendienstmitarbeiter müssen innerhalb von 100 Sekunden antworten, bevor die Nachricht „Chat akzeptieren“ ihre Zeit verliert. Danach erhalten Besucher die [Fallback-Nachricht](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback){target="_blank"}. Bei Dynamic Chat Prime-Abonnentinnen und -Abonnenten, bei denen die Routing-Option auf **Team** eingestellt ist, wird ein weiterer Agent ausprobiert, bevor die Fallback-Nachricht angezeigt wird.
 * Derzeit gibt es eine Beschränkung von 10 Live-Chats pro Agent.
+* Der Agent-Posteingang ist nur für Live-Chat-Unterhaltungen. Wenn der Chat von einem Agenten nicht akzeptiert wird, wird er nicht im Agenten-Posteingang angezeigt, da er nicht als Live-Chat gilt.
+* Auf der Registerkarte Konversation wird die gesamte Konversation angezeigt, sowohl Live- als auch automatisierter Chat. Wenn also eine Konversation vom Agenten nicht akzeptiert wird, wird diese auf der Registerkarte Konversation aufgeführt. Auf der Registerkarte Konversation gibt es eine Verzögerung von bis zu 24 Stunden, da es nicht in Echtzeit geschieht. Der Agent-Posteingang ist jedoch in Echtzeit.
+* Wenn nach 10 Minuten keine Chataktivität mehr stattfindet (entweder durch den Agenten oder den Besucher), wird der Chat durch eine Zeitüberschreitung unterbrochen.
+* Wenn ein Agent sein Profilbild (in account.adobe.com) _während_ eines Live-Chats ändert, wird dem Besucher immer noch das alte Bild angezeigt, bis der Chat beendet ist. Der Besucher sieht das neue Bild, wenn er sich das nächste Mal anmeldet und den Agenten erhält.
 
 >[!MORELIKETHIS]
 >

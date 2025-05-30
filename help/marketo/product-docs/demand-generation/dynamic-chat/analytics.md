@@ -3,9 +3,9 @@ description: Analytics - Marketo-Dokumente - Produktdokumentation
 title: Analytics
 feature: Dynamic Chat
 exl-id: 8130a970-4cf1-4bf6-9403-998460269843
-source-git-commit: 24d5c7f1135857e387031d043a3855e1779233e6
+source-git-commit: 19f7a38a6a87bc66084e7e45f5bf49cd0d29c3cd
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '259'
 ht-degree: 3%
 
 ---
@@ -13,6 +13,10 @@ ht-degree: 3%
 # Analytics {#analytics}
 
 Zwar sind Berichte auf Dialogfeldebene verfügbar, doch können Sie die Interaktion insgesamt mithilfe der drei folgenden Dashboards überprüfen.
+
+>[!NOTE]
+>
+>Es kann bis zu 24 Stunden dauern, bis Daten aus Dynamic Chat in Ihrer Marketo Engage-Instanz dargestellt werden.
 
 Greifen Sie auf jedes Dashboard unter **Analytics** im linken Navigationsbereich zu.
 
