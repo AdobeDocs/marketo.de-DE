@@ -3,9 +3,9 @@ description: Übersicht über die erweiterte BI-Analyse - Marketo-Dokumente - Pr
 title: Erweiterte BI-Analytics-Übersicht
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: 93d1d33e4f4874612269e1b89151a78181193c62
+source-git-commit: acf1070ff8e29f77677d9dba0f79ba45b48b1ee8
 workflow-type: tm+mt
-source-wordcount: '996'
+source-wordcount: '994'
 ht-degree: 1%
 
 ---
@@ -19,10 +19,6 @@ Diese Verbesserungen helfen Ihnen, Zeit zu sparen, wertvollere Einblicke zu gewi
 >[!PREREQUISITES]
 >
 >Um auf diese Funktion zugreifen zu können, müssen Sie das Add-on „Advanced BI Analytics“ erworben haben. Weitere Informationen erhalten Sie beim Adobe Account Team (Ihrem Account Manager).
-
->[!NOTE]
->
->Wenn Sie Fragen zu dieser Funktion haben, während sie sich in der Beta-Phase befindet (bis zum 1. Juni 2025), senden Sie bitte eine E-Mail an: `adobe-marketo-advanced-bi-analytics-public-beta@adobe.com`.
 
 ## Wichtigste Funktionen und Vorteile {#key-features-and-benefits}
 
@@ -38,35 +34,35 @@ Diese Verbesserungen helfen Ihnen, Zeit zu sparen, wertvollere Einblicke zu gewi
 
 ## Erstellen eines Berichts {#create-a-report}
 
-1. Klicken Sie in My Marketo auf die Kachel **[!UICONTROL Advanced BI Analytics (Beta]**.
+1. Klicken Sie in My Marketo auf die Kachel **[!UICONTROL Erweiterte BI-]**&quot;.
 
-   ![](assets/advanced-bi-analytics-overview-1.png)
+   ![](assets/advanced-bi-analytics-overview-1.png){width="800" zoomable="yes"}
 
 1. Klicken Sie auf der **[!UICONTROL Berichte]** auf **[!UICONTROL Bericht erstellen]**.
 
-   ![](assets/advanced-bi-analytics-overview-2.png)
+   ![](assets/advanced-bi-analytics-overview-2.png){width="800" zoomable="yes"}
 
 1. Die gewünschten Kennzahlen auswählen.
 
-   ![](assets/advanced-bi-analytics-overview-3.png)
+   ![](assets/advanced-bi-analytics-overview-3.png){width="800" zoomable="yes"}
 
 1. Wählen Sie die gewünschten Dimensionen aus.
 
-   ![](assets/advanced-bi-analytics-overview-4.png)
+   ![](assets/advanced-bi-analytics-overview-4.png){width="800" zoomable="yes"}
 
 1. Wählen Sie Ihre bevorzugte Visualisierung aus.
 
-   ![](assets/advanced-bi-analytics-overview-5.png)
+   ![](assets/advanced-bi-analytics-overview-5.png){width="800" zoomable="yes"}
 
 1. Fügen Sie Filter hinzu, indem Sie ein Dimensionsattribut per Drag-and-Drop ziehen.
 
-   ![](assets/advanced-bi-analytics-overview-6.png)
+   ![](assets/advanced-bi-analytics-overview-6.png){width="800" zoomable="yes"}
 
 ## Video-Demo {#video}
 
 Sehen Sie sich das folgende Video an, um ein Beispiel für ein mehrseitiges Drill-Through-Berichtserlebnis zu sehen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
 
 ## Standardberichte in Advanced BI Analytics {#standard-reports}
 
@@ -177,11 +173,8 @@ Die folgenden Standardberichte sind als Beispiele für Ihre benutzerdefinierten 
 
 ## Zu beachtende Punkte {#note}
 
-Die öffentliche Beta-Version läuft bis zum 1. Juni 2025. Ab diesem Zeitpunkt wird das klassische Erlebnis über „Revenue Explorer“ dauerhaft eingestellt.
+* Das klassische Erlebnis „Revenue Explorer“ wird am 10. Juni 2025 dauerhaft eingestellt. In der Zwischenzeit können Sie in beiden Erlebnissen auf Berichte zugreifen, Berichte erstellen, aktualisieren und löschen.
 
-_Während der öffentlichen Betaversion:_
-
-* Sie können in beiden Erlebnissen auf Berichte zugreifen und Berichte erstellen, aktualisieren und löschen.
 * Ihre benutzerdefinierten Berichte werden vom klassischen Erlebnis auf das neue Erlebnis repliziert, wobei die wesentlichen Verhaltensänderungen im Abschnitt [Lernen des neuen Erlebnisses](#learning-the-new-experience) unten erwähnt werden.
 
   >[!IMPORTANT]
@@ -194,15 +187,19 @@ _Während der öffentlichen Betaversion:_
      >
      >Das Dashboard in der neuen -Version ist lediglich eine Sammlung von Berichten auf einer einzelnen Seite. Der primäre Wert von Dashboard in der neuen -Version besteht darin, Ihnen analytische Einblicke in verschiedene Reporting-Bereiche zu ermöglichen.
 
-* Ihre E-Mail-Abonnements in der klassischen -Version werden auf die neue -Version repliziert. Die E-Mail-Abonnements für das klassische Erlebnis funktionieren bis zur Einstellung des klassischen Erlebnisses am 1. Juni 2025.
+* Ihre E-Mail-Abonnements in der klassischen -Version werden auf die neue -Version repliziert. Die E-Mail-Abonnements für das klassische Erlebnis funktionieren weiterhin, bis das klassische Erlebnis am 10. Juni 2025 eingestellt wird.
 
-* Bestehende Benutzer von Revenue Explorer haben automatisch Zugriff auf das neue Beta-Erlebnis (Advanced BI Analytics).
+* Vorhandene Benutzer von Revenue Explorer haben automatisch Zugriff auf das neue erweiterte BI-Analytics-Erlebnis.
+
+* In Advanced BI Analytics können Sie bis zu 700 Berichte erstellen.
+
+* Bei jeder Visualisierung gibt es eine Beschränkung von 1 Million Zeilen pro Abfrage. Wenn Ihre Abfrage diesen Wert überschreitet, erhalten Sie den folgenden Fehler: `The resultset of a query to external data source has exceeded the maximum allowed size of '1000000' rows`. Um dies zu beheben, reduzieren Sie Ihren Datumsbereich und/oder passen Sie die Filter in Ihrem Bericht an, um die Anzahl der Zeilen in Ihrem Abfrageergebnis zu reduzieren.
 
 ## Lernen der neuen Erfahrung {#learning-the-new-experience}
 
 Das neue Visualisierungserlebnis wird über den eingebetteten Power BI-Service bereitgestellt.
 
-Ein kurzes Tutorial zum Visualisierungserlebnis finden Sie in der Dokumentation [Verwenden von Visualisierungen in Power BI](https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/) von Microsoft. Beachten Sie, dass möglicherweise nicht alle diese Funktionen in Marketo Engage angezeigt werden.
+Ein kurzes Tutorial zum Visualisierungserlebnis finden Sie in der Dokumentation [Verwenden von Visualisierungen in Power BI](https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/){target="_blank"} von Microsoft. Beachten Sie, dass möglicherweise nicht alle diese Funktionen in Marketo Engage angezeigt werden.
 
 ### Wesentliche Erlebnisänderungen {#notable-experience-changes}
 
@@ -218,8 +215,6 @@ Im Folgenden finden Sie Änderungen am neuen Erlebnis (Advanced BI Analytics) im
 
 * Deep-Link des Berichts wird derzeit nicht unterstützt.
 
-* Das Berichtordnererlebnis ist derzeit nicht verfügbar und wurde vorübergehend durch eine reduzierte Liste mit automatischer Textvervollständigung ersetzt. Der Name des replizierten Berichts enthält den Ordnerpfad, z. B. `/folder1/folder2/report`.
-
 * Der PDF-Export verläuft in der neuen -Version synchron, im Vergleich zur klassischen -Version.
 
 >[!NOTE]
@@ -228,4 +223,4 @@ Im Folgenden finden Sie Änderungen am neuen Erlebnis (Advanced BI Analytics) im
 
 >[!MORELIKETHIS]
 >
->[Metriken und Dimensionen](/help/marketo/product-docs/reporting/advanced-bi-analytics/metrics-and-dimensions.md)
+>[Metriken und Dimensionen](/help/marketo/product-docs/reporting/advanced-bi-analytics/metrics-and-dimensions.md){target="_blank"}
