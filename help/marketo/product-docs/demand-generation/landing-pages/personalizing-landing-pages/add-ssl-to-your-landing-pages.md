@@ -4,9 +4,9 @@ description: Hinzufügen von SSL zu Ihren Landingpages - Marketo-Dokumente - Pro
 title: Hinzufügen von SSL zu Ihren Landingpages
 exl-id: 8271d9fe-0575-430c-97c7-407e4b78cf1d
 feature: Landing Pages
-source-git-commit: fddc2f24d9a66146f567c762305ab2825c2f29ae
+source-git-commit: de396f08c50a1862fbdd3ae1e435ac5671d96b0e
 workflow-type: tm+mt
-source-wordcount: '794'
+source-wordcount: '765'
 ht-degree: 1%
 
 ---
@@ -97,15 +97,13 @@ Unten finden Sie Fehlermeldungen, die Sie möglicherweise zusammen mit ihren Def
 
 ## Zu beachtende Punkte {#things-to-note}
 
-* **DNS-Zuordnung für Domain zu Marketo Engage**: Bevor Sie Domains in der Benutzeroberfläche hinzufügen, müssen Sie [CNAMEs einer von Marketo bereitgestellten Domain zuordnen](https://experienceleague.adobe.com/de/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
+* **DNS-Zuordnung für Domain zu Marketo Engage**: Bevor Sie Domains in der Benutzeroberfläche hinzufügen, müssen Sie [CNAMEs einer von Marketo bereitgestellten Domain zuordnen](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
 
 * **Benutzerdefinierte SSLs**: Wenn Sie eine benutzerdefinierte SSL benötigen, senden Sie ein [Support-Ticket](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. Verwenden Sie nicht das Kontrollkästchen „Self-Service“ für die SSL-Erstellung.
 
 * **Vorhandene SSLs**: Beim Hinzufügen einer Domain sucht das System nach bereits vorhandenen SSLs, die möglicherweise zuvor manuell erstellt wurden. Wenn diese Validierung auftritt, erstellen Sie Ihre Domain, ohne die SSL-Erstellung auszuwählen, und wir werden sie für Sie verbinden. [Support kontaktieren](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} weitere Details/Optionen.
 
 * **Domain für die Erstverfolgung**: Bei der erstmaligen Erstellung von Domains für E-Mail-Tracking-Links ist ein manuelles Eingreifen des [Marketo-Supports erforderlich](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. Die nachfolgende Erstellung einer Subdomain unter derselben Domain ist in der Benutzeroberfläche zulässig.
-
-* **Nur Marketo On-Premise**: Diese Funktion ist derzeit nur On-Premise verfügbar. Marketo Engage on Cloud Services muss SSL einrichten, indem Sie sich an den [Marketo-Support wenden](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
 
 * **Hinzufügen von Zertifikaten zu vorhandenen Domains**: Das Hinzufügen von Zertifikaten zu vorhandenen Domains wird derzeit nicht unterstützt. Für bereits bestehende Domains oder für Fälle, in denen Sie das Kontrollkästchen „SSL-Zertifikat“ nicht aktiviert haben, müssen Sie sich an den [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} wenden, um das Zertifikat hinzuzufügen.
 

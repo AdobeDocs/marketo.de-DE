@@ -4,16 +4,17 @@ title: Produktnutzungs-Dashboards
 hide: true
 hidefromtoc: true
 feature: Administration
-source-git-commit: f3bc58c0d65e8110c5366269fdb4abf817370aee
+exl-id: a0fa5cd0-a61d-4383-88c0-9f2a4b2c717a
+source-git-commit: de396f08c50a1862fbdd3ae1e435ac5671d96b0e
 workflow-type: tm+mt
-source-wordcount: '652'
+source-wordcount: '656'
 ht-degree: 0%
 
 ---
 
 # Produktnutzungs-Dashboards {#product-usage-dashboards}
 
-Marketo Engage-Dashboards zur Produktnutzung bieten die Möglichkeit, die Produkt- und Plattformnutzung anhand bestimmter Beschränkungen oder Rückstände des Datendurchsatzes, der Nutzung im Hinblick auf das tägliche Kontingent und der Schlüsselmetriken eines Abonnements anzuzeigen. Die Infrastruktur wird zugewiesen, um Leistungsgrenzen bereitzustellen, die für Produktebenen für bestimmte Attribute definiert sind. Einige dieser Beschränkungen, z. B. die API-Nutzung, sind vertraglich festgelegte Beschränkungen, die als Teil Ihres Pakets oder Ihrer Produktebene erworben werden.
+Marketo Engage-Produktnutzungs-Dashboards bieten die Möglichkeit, die Produkt- und Plattformnutzung anhand bestimmter Beschränkungen oder Rückstände des Datendurchsatzes, der Nutzung im Hinblick auf das tägliche Kontingent und der Schlüsselmetriken in Ihrem Abonnement anzuzeigen. Die Infrastruktur wird zugewiesen, um Leistungsgrenzen bereitzustellen, die für Produktebenen für bestimmte Attribute definiert sind. Einige dieser Beschränkungen, z. B. die API-Nutzung, sind vertraglich festgelegte Beschränkungen, die als Teil Ihres Pakets oder Ihrer Produktebene erworben werden.
 
 ## Zugriff {#how-to-access}
 
@@ -31,7 +32,11 @@ Marketo Engage-Dashboards zur Produktnutzung bieten die Möglichkeit, die Produk
 
 Das Dashboard zur wöchentlichen Aktivitätsnutzung zeigt eine wöchentliche Anzahl der Aktivitätstypen über einen rollierenden Zeitraum von 52 Wochen an. Wöchentlich durchgeführte Aktivitäten sind ein guter Indikator dafür, wie viel Marketing Sie in Marketo Engage betreiben. Aktivitäten dienen als Proxy für die verschiedenen Systemprozesse und verfolgbaren Ereignisse, die in Marketo stattfinden.
 
-Aktivitätstypen umfassen sowohl die Anzahl der Aktivitäten, die erfasst werden, wenn Personen mit Marketing-Ereignissen interagieren, als auch systembasierte Aktivitäten, die durch Flussaktionen ausgelöst werden. Beispiele für von einer Person initiierte Aktivitäten sind das Öffnen einer E-Mail oder das Klicken auf einen Link in einer E-Mail. Ein Beispiel für systembasierte Aktivitäten, die von einer Flussaktion ausgelöst werden, ist „An SFDC senden“, wenn der Trigger initiiert wird. Um eine Anzahl der Aktivitätstypen für eine bestimmte Woche anzuzeigen, bewegen Sie den Mauszeiger über eine Woche und zeigen Sie die Anzahl an.
+Aktivitätstypen umfassen sowohl die Anzahl der Aktivitäten, die erfasst werden, wenn Personen/Leads mit Marketing-Ereignissen interagieren, als auch systembasierte Aktivitäten, die durch Fluss-Aktionen ausgelöst werden. Beispiele für von Personen initiierte Aktivitäten sind das Öffnen einer E-Mail durch einen Empfänger oder das Klicken auf einen Link in einer E-Mail. Ein Beispiel für eine systembasierte Aktivität, die von einer Flussaktion ausgelöst wird, ist _An SFDC senden_ wenn der Trigger initiiert wird.
+
+>[!TIP]
+>
+>Um eine Anzahl von Aktivitätstypen für eine bestimmte Woche anzuzeigen, bewegen Sie den Mauszeiger über die gewünschte Woche, und die Anzahl wird angezeigt.
 
 ![](assets/product-usage-dashboards-3.png){width="800" zoomable="yes"}
 
@@ -41,7 +46,7 @@ Aktivitätstypen umfassen sowohl die Anzahl der Aktivitäten, die erfasst werden
 
 Es hängt davon ab, welche Aktivitäten in der Pipeline enthalten sind.
 
-**Sind sowohl bekannte als auch anonyme Lead/Personen-Aktivitäten enthalten?**
+**Sind sowohl bekannte als auch anonyme Personen-/Lead-Aktivitäten enthalten?**
 
 Nur bekannte Personen/Leads.
 
@@ -51,21 +56,21 @@ Aktivitätszähler werden jeden Morgen aktualisiert.
 
 ## Aktivitätsverteilung {#activity-breakdown}
 
-Hier erhalten wir Zahlen der Aktivitäten der letzten sieben Tage basierend auf aussagekräftigen Teilen der Daten. Gruppieren Sie Aktivitäten nach den häufigsten Aktivitätstypen der letzten sieben Tage. Dies kann Kategorien wie „Datenwert ändern“, „Zu Liste hinzufügen“ oder „E-Mail senden“ umfassen. Auf diese Weise können Sie sehen, welche Aktivitäten im System am häufigsten ausgeführt werden. Die Verwendung des Aktivitätstyps ist ein wichtiger Indikator für die Bestimmung des Wachstums oder für den Fall, dass Optimierungen zur Verringerung der Nutzung erforderlich sind.
+Hier erhalten wir Zahlen der Aktivitäten der letzten sieben Tage basierend auf aussagekräftigen Teilen der Daten. Gruppieren Sie Aktivitäten nach den häufigsten Aktivitätstypen der letzten sieben Tage. Dies kann Kategorien wie _Datenwert ändern_, _Zu Liste hinzufügen_ oder _E-Mail senden_ umfassen. Auf diese Weise können Sie sehen, welche Aktivitäten im System am häufigsten ausgeführt werden. Die Verwendung des Aktivitätstyps ist ein wichtiger Indikator für die Bestimmung des Wachstums oder für den Fall, dass Optimierungen zur Verringerung der Nutzung erforderlich sind.
 
 >[!NOTE]
 >
->* Bei allen unten aufgeführten Aufschlüsselungen handelt es sich um eine Summe von „rollierenden sieben Tagen“, wobei **aktuelle** nicht enthalten ist. Stellen Sie es sich also wie „Gestern + sechs Tage davor“ vor.
+>* Bei allen unten aufgeführten Aufschlüsselungen handelt es sich um eine rollierende 7-Tage-Summe, bei der **nicht** den aktuellen Tag eingeschlossen ist. Stellen Sie es sich also wie „Gestern + sechs Tage davor“ vor.
 >
 >* Das Dashboard zeigt nur die 20 wichtigsten Aktivitätstypen an, während die übrigen in eine Kategorie mit dem Titel „Sonstige“ sortiert sind.
 
 ![](assets/product-usage-dashboards-4.png){width="800" zoomable="yes"}
 
-Die Aktivitätsnutzung ist ein wichtiger Indikator dafür, wie viel Marketing durchgeführt wird, und hilft bei der Visualisierung des Wachstums im Vergleich zur identifizierten Produktebene, für die Verträge geschlossen wurden. Dashboards können auch als Anleitung verwendet werden, um zu bestimmen, wie viel Optimierung durch Reduzieren der zu aktualisierenden Felder durchgeführt werden kann/sollte.
+Die Aktivitätsnutzung zeigt an, wie viel Marketing durchgeführt wird, und hilft, das Wachstum anhand der für die vertraglich vereinbarte Produktebene identifizierten Produkte zu visualisieren. Dashboards können auch als Anleitung verwendet werden, um zu bestimmen, wie viel Optimierung durch Reduzieren der zu aktualisierenden Felder durchgeführt werden kann/sollte.
 
 ### Nach Typ {#by-type}
 
-Gruppieren Sie Aktivitäten nach den häufigsten Aktivitätstypen der letzten sieben Tage. Dies kann Kategorien wie _Datenwert ändern_, _Zu Liste hinzufügen_ oder _E-Mail senden_ umfassen. Auf diese Weise können Sie sehen, welche Aktivitäten in Marketo Engage am häufigsten ausgeführt werden.
+Gruppieren Sie Aktivitäten nach den häufigsten Aktivitätstypen der letzten sieben Tage. Dies kann Kategorien wie _Datenwert ändern_, _Zu Liste hinzufügen_ oder _E-Mail senden_ umfassen. Auf diese Weise können Sie sehen, welche Aktivitäten in Ihrem Marketo Engage-Konto am häufigsten ausgeführt werden.
 
 ### Durch Datenwertattribut ändern {#by-change-data-value-attribute}
 
@@ -73,7 +78,7 @@ _Datenwert ändern_ ist der häufigste Aktivitätstyp. Es zeigt an, wann eine In
 
 ### Nach Kampagne {#by-campaign}
 
-Gruppe, nach der die Kampagnen die meisten Aktivitäten produzieren. Auf diese Weise kann insight sehen, ob besonders laute Kampagnen erstellt werden, die mehr Aktivität als nötig erzeugen. Schnelles Erfahren Sie mehr über Kampagnen, die eingestellt werden sollten, oder über Kampagnen, die mehr Arbeit leisten als beabsichtigt.
+Gruppe, nach der die Kampagnen die meisten Aktivitäten produzieren. Auf diese Weise können Sie sehen, ob besonders laute Kampagnen vorhanden sind, die mehr Aktivität als nötig erzeugen. Schnelles Erfahren Sie mehr über Kampagnen, die eingestellt werden sollten, oder über Kampagnen, die mehr Arbeit leisten als beabsichtigt.
 
 ### Von Source (IN KÜRZE VERFÜGBAR) {#by-source}
 
