@@ -5,7 +5,7 @@ title: Personalization-Token
 description: Erfahren Sie, wie Sie in der neuen Marketo Engage Email Designer Personalisierungs-Token verwenden.
 level: Beginner, Intermediate
 exl-id: 4828e1a5-822f-48a9-bbb8-b1ffe8421e4f
-source-git-commit: c31f338d7f784258a120c90a9d5016366d5a1095
+source-git-commit: 5575ab0d7141d4bfc610430db625439c9f52e231
 workflow-type: tm+mt
 source-wordcount: '243'
 ht-degree: 0%
@@ -22,7 +22,7 @@ E-Mail-Designer hat ein anderes Format als der klassische E-Mail-Editor, wenn es
 
 ## Primärer Anwendungsfall {#primary-use-case}
 
-Diese Verbesserung kommt in erster Linie denjenigen zugute, die von [Velocity-Skripterstellung](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/email-scripting){target="_blank"} zu Handlebar-Skripterstellung wechseln. Der neue E-Mail-Designer unterstützt nur das neue Token-Format. Das aktualisierte Format beseitigt Leerzeichen und führt eine überarbeitete Standardtextstruktur ein, um ein reibungsloseres und effizienteres Skripterlebnis zu gewährleisten.
+Diese Verbesserung kommt in erster Linie denjenigen zugute, die von [Velocity-Skripterstellung](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting){target="_blank"} zu Handlebar-Skripterstellung wechseln. Der neue E-Mail-Designer unterstützt nur das neue Token-Format. Das aktualisierte Format beseitigt Leerzeichen und führt eine überarbeitete Standardtextstruktur ein, um ein reibungsloseres und effizienteres Skripterlebnis zu gewährleisten.
 
 ## Token-Erlebnis {#token-experience}
 
@@ -32,13 +32,13 @@ Ein Blick auf das Token-Erlebnis, alt und neu.
 
 Im klassischen E-Mail-Editor können Sie Token mit Leerzeichen wie `lead.Anonymous IP` oder `member.registration code` hinzufügen. Das Format für den Standardtext war: `{{lead.City:default=fallback}}`
 
-![](assets/personalization-tokens-1.png){width="500" zoomable="yes"}
+![](assets/personalization-tokens-1.png){width="800" zoomable="yes"}
 
 ### Neues Format {#new-format}
 
 In E-Mail-Designer müssen Sie [Binnenmajuskel-Schreibweise](https://developer.mozilla.org/en-US/docs/Glossary/Camel_case) oder Unterstriche für Token (z. B. `lead.anonymousIP` oder `member.registration_code`) verwenden. Das Format für den Standardtext ändert sich ebenfalls in `{%=lead.city ?: "fallback" %}`.
 
-![](assets/personalization-tokens-2.png){width="600" zoomable="yes"}
+![](assets/personalization-tokens-2.png){width="800" zoomable="yes"}
 
 ## Zu beachtende Punkte {#things-to-note}
 

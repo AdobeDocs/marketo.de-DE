@@ -3,14 +3,17 @@ title: GenStudio-Integration für Marketo Engage
 description: Erfahren Sie, wie Sie GenStudio in Marketo Engage verwenden.
 hide: true
 hidefromtoc: true
-source-git-commit: f236f2cf73637ee1a0ee6062c1ecbf82f0e02130
+feature: Email Editor
+solution: Marketo Engage
+product: marketo
+source-git-commit: 5575ab0d7141d4bfc610430db625439c9f52e231
 workflow-type: tm+mt
-source-wordcount: '358'
-ht-degree: 14%
+source-wordcount: '346'
+ht-degree: 8%
 
 ---
 
-# GenStudio-Integration für Marketo Engage {#work-with-experience-manager-assets}
+# GenStudio-Integration für Marketo Engage {#genstudio-integration-for-marketo-engage}
 
 Adobe GenStudio for Performance Marketing ist eine generative KI-First-Anwendung, mit der Sie Ihre eigenen Anzeigen und E-Mails erstellen können, um wirkungsvolle, personalisierte Marketing-Kampagnen zu entwickeln, die Ihren Markenstandards entsprechen und Ihren Unternehmensrichtlinien entsprechen. Es bietet eine Vielzahl von Tools, die die Komplexität der Inhaltserstellung vereinfachen.
 
@@ -30,41 +33,39 @@ Exportieren Sie ganz einfach eine Vorlage mit den Richtlinien Ihrer Marke nach G
 
 1. Klicken Sie in der E-Mail-Designer auf die Schaltfläche **Mehr** und wählen Sie **HTML exportieren**.
 
-   SCREENSHOT
+   ![Exportieren von HTML](assets/genstudio-integration-1.png)
 
 1. [Laden Sie die exportierte ](https://experienceleague.adobe.com/de/docs/genstudio-for-performance-marketing/user-guide/content/templates/use-templates#templates-from-ajo-and-marketo){target="_blank"} HTML in GenStudio for Performance Marketing hoch.
 
-1. Verwenden Sie in GenStudio diese Vorlage, um mehrere E-Mail-Varianten mit KI-Prompts zu erstellen und zu speichern.
-
->[!NOTE]
->
->Wie Sie E-Mail-Erlebnisse erstellen, erfahren Sie im entsprechenden Abschnitt zu [GenStudio](https://experienceleague.adobe.com/de/docs/genstudio-for-performance-marketing/user-guide/create/create-email-experience){target="_blank"}.
+1. Verwenden Sie in GenStudio diese Vorlage, um [mehrere E-Mail-Varianten zu erstellen](https://experienceleague.adobe.com/de/docs/genstudio-for-performance-marketing/user-guide/create/create-email-experience){target="_blank"} mit KI-Eingabeaufforderungen und speichern Sie sie.
 
 ## Nutzen von GenStudio-Erlebnissen in Marketo Engage {#leverage-genstudio-experiences}
 
 Gehen Sie wie folgt vor, um die von Ihnen erstellten GenStudio-E-Mail-Varianten durch Importieren in Marketo Engage zu nutzen.
 
-1. Erstellen Sie in Marketo Engage eine E-Mail.
+1. Erstellen Sie in Marketo Engage [eine E-Mail](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#create-an-email).
 
-1. Klicken Sie auf der E-Mail-Detailseite auf **E-Mail-Textkörper bearbeiten**, um die E-Mail-Designer zu öffnen.
+1. Klicken Sie auf der E-Mail-Detailseite auf **E-Mail-Inhalt bearbeiten**.
 
-1. Wählen **HTML importieren** und klicken Sie auf die Schaltfläche **Adobe GenStudio for Performance Marketing**.
+   ![Schaltfläche E-Mail-Inhalt bearbeiten](assets/genstudio-integration-2.png)
 
-   SCREENSHOT
+1. Wählen Sie **HTML importieren**.
+
+   ![Schaltfläche &quot;HTML importieren“](assets/genstudio-integration-3.png)
+
+1. Klicken Sie auf die Schaltfläche **Adobe GenStudio for Performance Marketing**.
+
+   Schaltfläche ![Adobe GenStudio for Performance Marketing](assets/genstudio-integration-4.png)
 
 1. Durchsuchen Sie die GenStudio-Erlebnisse, um mit der Erstellung Ihrer Inhalte zu beginnen. Sie können die Erlebnisse nach Kriterien wie Produkten, Rollen, Marken oder sogar Farben filtern.
 
 1. Wählen Sie ein Erlebnis aus und klicken Sie auf **Verwenden**.
 
-SCREENSHOT
+   ![Wählen Sie das gewünschte Erlebnis aus](assets/genstudio-integration-5.png){width="800" zoomable="yes"}
 
-1. Wählen Sie den Ordner aus, in den das GenStudio-Erlebnis importiert werden soll.
+1. Der ausgewählte Inhalt wird im E-Mail-Designer angezeigt.
 
-SCREENSHOT
-
-Der ausgewählte Inhalt wird im E-Mail-Designer angezeigt.
-
-SCREENSHOT
+   ![E-Mail-Designer](assets/genstudio-integration-6.png){width="800" zoomable="yes"}
 
 >[!NOTE]
 >
