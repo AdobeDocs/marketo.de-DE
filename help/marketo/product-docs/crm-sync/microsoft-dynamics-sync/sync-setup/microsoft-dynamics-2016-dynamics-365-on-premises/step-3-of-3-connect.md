@@ -3,9 +3,9 @@ description: Installieren von Marketo für Microsoft Dynamics 2016/Dynamics 365 
 title: Installieren von Marketo für Microsoft Dynamics 2016/Dynamics 365 On-Premise, Schritt 3 von 3
 exl-id: ae801a59-8e29-479c-84c5-a18c7511f21f
 feature: Microsoft Dynamics
-source-git-commit: 15cb3ddcd82fa1ba60fae3aa1adaac3d5964a0fa
+source-git-commit: 2d3264ab75d2327f9226373aad383e7a51508589
 workflow-type: tm+mt
-source-wordcount: '404'
+source-wordcount: '414'
 ht-degree: 3%
 
 ---
@@ -101,8 +101,6 @@ Wenn Sie einen benutzerdefinierten Filter erstellt haben, müssen Sie die neuen 
 
    ![](assets/image2015-3-30-14-3a23-3a13.png)
 
-1. Die erste Synchronisierung kann einige Stunden dauern. Nachdem der Vorgang abgeschlossen ist, erhalten Sie eine E-Mail-Benachrichtigung.
+1. Je nach Anzahl der Datensätze kann die erste Synchronisierung einige Stunden bis zu einige Tage dauern. Nach Abschluss erhalten Sie eine E-Mail-Benachrichtigung.
 
    ![](assets/image2015-3-16-9-59-51.png)
-
-Hervorragende Arbeit!

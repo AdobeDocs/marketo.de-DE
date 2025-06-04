@@ -3,10 +3,10 @@ description: 'Schritt 4 von 4: Verbinden der Marketo-Lösung mit der Kennwortkon
 title: 'Schritt 4 von 4: Verbinden der Marketo-Lösung mit der Kennwortsteuerungsverbindung des Ressourceneigentümers'
 exl-id: 71a52a3e-f31e-45ee-8196-d536528e42ca
 feature: Microsoft Dynamics
-source-git-commit: 4045f262889d06304111288d30da893529396e81
+source-git-commit: 2d3264ab75d2327f9226373aad383e7a51508589
 workflow-type: tm+mt
-source-wordcount: '422'
-ht-degree: 4%
+source-wordcount: '432'
+ht-degree: 3%
 
 ---
 
@@ -106,11 +106,9 @@ Wenn Sie einen benutzerdefinierten Filter erstellt haben, müssen Sie die neuen 
 
    ![](assets/image2015-3-16-9-3a55-3a10.png)
 
-1. Die erste Synchronisierung kann einige Stunden dauern. Sobald er abgeschlossen ist, erhalten Sie eine E-Mail-Benachrichtigung.
+1. Je nach Anzahl der Datensätze kann die erste Synchronisierung einige Stunden bis zu einige Tage dauern. Nach Abschluss erhalten Sie eine E-Mail-Benachrichtigung.
 
    ![](assets/image2015-3-16-9-3a59-3a51.png)
-
-Hervorragende Arbeit!
 
 >[!MORELIKETHIS]
 >

@@ -4,9 +4,9 @@ description: 'Schritt 3 von 3: Marketo-Lösung mit Server-zu-Server-Verbindung v
 title: 'Schritt 3 von 3: Marketo-Lösung mit Server-zu-Server-Verbindung verbinden'
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
 feature: Microsoft Dynamics
-source-git-commit: 4045f262889d06304111288d30da893529396e81
+source-git-commit: 2d3264ab75d2327f9226373aad383e7a51508589
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '448'
 ht-degree: 2%
 
 ---
@@ -106,8 +106,6 @@ Wenn Sie einen benutzerdefinierten Filter erstellt haben, müssen Sie die neuen 
 
    ![](assets/image2015-3-16-9-3a55-3a10.png)
 
-1. Die erste Synchronisierung kann einige Stunden dauern. Sobald er abgeschlossen ist, erhalten Sie eine E-Mail-Benachrichtigung.
+1. Je nach Anzahl der Datensätze kann die erste Synchronisierung einige Stunden bis zu einige Tage dauern. Nach Abschluss erhalten Sie eine E-Mail-Benachrichtigung.
 
    ![](assets/image2015-3-16-9-3a59-3a51.png)
-
-Hervorragende Arbeit!

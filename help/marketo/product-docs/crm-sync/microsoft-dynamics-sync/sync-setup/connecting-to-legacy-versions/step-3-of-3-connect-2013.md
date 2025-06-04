@@ -4,9 +4,9 @@ description: Schritt 3 von 3 - Marketo und Dynamics verbinden (2013 On-Premise) 
 title: 'Schritt 3 von 3: Verbinden von Marketo und Dynamics (2013 On-Premise)'
 exl-id: e28f1cc3-ee15-4981-a537-6c4a1682c4c1
 feature: Microsoft Dynamics
-source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
+source-git-commit: 2d3264ab75d2327f9226373aad383e7a51508589
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '394'
 ht-degree: 2%
 
 ---
@@ -101,11 +101,10 @@ Wenn Sie einen benutzerdefinierten Filter erstellt haben, müssen Sie die neuen 
 
    ![](assets/image2015-3-30-14-3a23-3a13.png)
 
-1. Die erste Synchronisierung kann einige Stunden dauern. Nachdem der Vorgang abgeschlossen ist, erhalten Sie eine E-Mail-Benachrichtigung.
+1. Je nach Anzahl der Datensätze kann die erste Synchronisierung einige Stunden bis zu einige Tage dauern. Nach Abschluss erhalten Sie eine E-Mail-Benachrichtigung.
 
    ![](assets/image2014-12-11-11-3a55-3a15.png)
 
-Hervorragende Arbeit! Sie haben soeben die Leistungsfähigkeit der bidirektionalen Synchronisation zwischen Marketo und Microsoft Dynamics entfesselt. Wenn Sie Marketo Sales Insight erworben haben, können Sie mehr Spaß haben:
 
 >[!MORELIKETHIS]
 >

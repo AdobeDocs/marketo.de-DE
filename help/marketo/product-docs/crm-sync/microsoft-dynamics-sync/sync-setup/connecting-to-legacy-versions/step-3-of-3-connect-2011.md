@@ -4,9 +4,9 @@ description: Schritt 3 von 3 - Microsoft Dynamics mit Marketo verbinden (2011 On
 title: 'Schritt 3 von 3: Microsoft Dynamics mit Marketo verbinden (2011 On-Premise)'
 exl-id: e6a5d49d-025a-4899-9e92-7a4c32086c67
 feature: Microsoft Dynamics
-source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
+source-git-commit: 2d3264ab75d2327f9226373aad383e7a51508589
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '383'
 ht-degree: 2%
 
 ---
@@ -101,8 +101,6 @@ Wenn Sie einen benutzerdefinierten Filter erstellt haben, müssen Sie die neuen 
 
    ![](assets/image2015-3-30-14-3a23-3a13.png)
 
-1. Die erste Synchronisierung kann einige Stunden dauern. Nachdem der Vorgang abgeschlossen ist, erhalten Sie eine E-Mail-Benachrichtigung.
+1. Je nach Anzahl der Datensätze kann die erste Synchronisierung einige Stunden bis zu einige Tage dauern. Nach Abschluss erhalten Sie eine E-Mail-Benachrichtigung.
 
    ![](assets/image2014-12-11-11-3a55-3a15.png)
-
-   Hervorragende Arbeit!
