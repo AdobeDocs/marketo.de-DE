@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Administration
 exl-id: a0fa5cd0-a61d-4383-88c0-9f2a4b2c717a
-source-git-commit: de396f08c50a1862fbdd3ae1e435ac5671d96b0e
+source-git-commit: 73e5b80de146512bc2f00cc7a6891911be20d9fc
 workflow-type: tm+mt
 source-wordcount: '656'
 ht-degree: 0%
@@ -64,21 +64,26 @@ Hier erhalten wir Zahlen der Aktivitäten der letzten sieben Tage basierend auf 
 >
 >* Das Dashboard zeigt nur die 20 wichtigsten Aktivitätstypen an, während die übrigen in eine Kategorie mit dem Titel „Sonstige“ sortiert sind.
 
-![](assets/product-usage-dashboards-4.png){width="800" zoomable="yes"}
-
 Die Aktivitätsnutzung zeigt an, wie viel Marketing durchgeführt wird, und hilft, das Wachstum anhand der für die vertraglich vereinbarte Produktebene identifizierten Produkte zu visualisieren. Dashboards können auch als Anleitung verwendet werden, um zu bestimmen, wie viel Optimierung durch Reduzieren der zu aktualisierenden Felder durchgeführt werden kann/sollte.
 
 ### Nach Typ {#by-type}
 
 Gruppieren Sie Aktivitäten nach den häufigsten Aktivitätstypen der letzten sieben Tage. Dies kann Kategorien wie _Datenwert ändern_, _Zu Liste hinzufügen_ oder _E-Mail senden_ umfassen. Auf diese Weise können Sie sehen, welche Aktivitäten in Ihrem Marketo Engage-Konto am häufigsten ausgeführt werden.
 
+![](assets/product-usage-dashboards-4.png){width="600" zoomable="yes"}
+
+
 ### Durch Datenwertattribut ändern {#by-change-data-value-attribute}
 
 _Datenwert ändern_ ist der häufigste Aktivitätstyp. Es zeigt an, wann eine Information zu einem Personen-/Lead-Datensatz aktualisiert wird. Hier gruppieren wir nach den Feldern, die am häufigsten geändert werden, damit Sie feststellen können, welche Informationen für Ihre Marketing-Vorgänge nützlich sind, ob Möglichkeiten zur Optimierung der Plattformnutzung vorhanden sind usw.
 
+![](assets/product-usage-dashboards-5.png){width="600" zoomable="yes"}
+
 ### Nach Kampagne {#by-campaign}
 
 Gruppe, nach der die Kampagnen die meisten Aktivitäten produzieren. Auf diese Weise können Sie sehen, ob besonders laute Kampagnen vorhanden sind, die mehr Aktivität als nötig erzeugen. Schnelles Erfahren Sie mehr über Kampagnen, die eingestellt werden sollten, oder über Kampagnen, die mehr Arbeit leisten als beabsichtigt.
+
+![](assets/product-usage-dashboards-6.png){width="600" zoomable="yes"}
 
 ### Von Source (IN KÜRZE VERFÜGBAR) {#by-source}
 
