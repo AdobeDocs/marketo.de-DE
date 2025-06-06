@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Administration
 exl-id: a0fa5cd0-a61d-4383-88c0-9f2a4b2c717a
-source-git-commit: 73e5b80de146512bc2f00cc7a6891911be20d9fc
+source-git-commit: d7a7e6f7fd9c9009a058578f6027698a181226f5
 workflow-type: tm+mt
-source-wordcount: '656'
+source-wordcount: '610'
 ht-degree: 0%
 
 ---
@@ -84,7 +84,3 @@ _Datenwert ändern_ ist der häufigste Aktivitätstyp. Es zeigt an, wann eine In
 Gruppe, nach der die Kampagnen die meisten Aktivitäten produzieren. Auf diese Weise können Sie sehen, ob besonders laute Kampagnen vorhanden sind, die mehr Aktivität als nötig erzeugen. Schnelles Erfahren Sie mehr über Kampagnen, die eingestellt werden sollten, oder über Kampagnen, die mehr Arbeit leisten als beabsichtigt.
 
 ![](assets/product-usage-dashboards-6.png){width="600" zoomable="yes"}
-
-### Von Source (IN KÜRZE VERFÜGBAR) {#by-source}
-
-Gruppieren Sie nach der Quelle der Aktivitäten (_CRM-_), _Kampagnenflussaktion_, _API-_, _Landingpage-Formular ausfüllen_ usw.). Auf diese Weise lässt sich erkennen, ob die meisten Ihrer Aktivitäten durch Marketing-Aktionen, CRM-Synchronisationen oder durch die Personen/Leads selbst produziert werden.
