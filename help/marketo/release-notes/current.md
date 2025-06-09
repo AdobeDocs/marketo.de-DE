@@ -3,9 +3,9 @@ description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokument
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 633a29897a2683ba7e325c68c41c66ee14a8f806
+source-git-commit: 5bd67c4692ed6a383597947fa40d83947f4ca9ff
 workflow-type: tm+mt
-source-wordcount: '543'
+source-wordcount: '536'
 ht-degree: 6%
 
 ---
@@ -63,8 +63,8 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tr>
   <tr> 
    <td><strong>Rollenbasierte Zugriffssteuerung für E-Mail-Designer Assets</strong>: Eine neue Erweiterung des rollenbasierten Zugriffssteuerungssystems (RBAC) bietet detailliertere Berechtigungen und eine verbesserte Benutzerverwaltung für Assets, die von der neuen E-Mail-Designer unterstützt werden.</td> 
-   <td>Versendet</td>
-   <td><a href="https://nation.marketo.com/t5/latest-product-innovations/product-updates-granular-permissions-to-new-email-designer/ba-p/357057">Granulare Berechtigungen für neue E-Mail-Designer (Blogpost)</a></td>
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -73,8 +73,8 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tr>
   <tr> 
    <td><strong>In der E-Mail-Designer erstellte E-Mails klonen</strong>: Sie können jetzt eine bestehende E-Mail klonen, die mit der neuen E-Mail-Designer erstellt wurde.</td> 
-   <td><i>Demnächst verfügbar</i></td>
-   <td><i>Demnächst verfügbar</i></td>
+   <td>Versendet</td>
+   <td>k. A.</td>
   </tr>
   <tr> 
    <td> </td> 
@@ -92,12 +92,12 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
 
 ## Ankündigungen {#announcements}
 
-* **Aktualisierung der Facebook-Offline-Konversionsintegration**: Am 29. Mai 2025 wird die [Facebook-Offline-Konversions](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions){target="_blank"}-Integration für Marketo Engage in die neue Meta [Conversions-API](https://developers.facebook.com/docs/marketing-api/conversions-api){target="_blank"} migriert, da Meta die [Offline-Konversions-API](https://developers.facebook.com/docs/marketing-api/offline-conversions/){target="_blank"} im Einklang mit der Graph-API-Versionierung einstellt. Weitere Informationen finden Sie im Meta-Handbuch zu [Senden von Offline-Ereignissen über die Konversions-API](https://developers.facebook.com/docs/marketing-api/conversions-api/offline-events/){target="_blank"} (CAPI für Offline).
+* **Aktualisierung der Facebook-Offline-Konversionsintegration**: Am 29. Mai 2025 wird die [Facebook-Offline-Konversions](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions){target="_blank"}-Integration für Marketo Engage in die neue Meta [Conversions-API](https://developers.facebook.com/docs/marketing-api/conversions-api){target="_blank"} migriert, da Meta die [Offline-Konversions-API](https://developers.facebook.com/docs/marketing-api/offline-conversions/){target="_blank"} im Einklang mit der Graph-API-Versionierung einstellt. Weitere Informationen finden Sie im Meta-Handbuch zu [Senden von Offline-Ereignissen über die Konversions-API](https://developers.facebook.com/docs/marketing-api/conversions-api/offline-events/){target="_blank"} (CAPI für Offline).
 
 * **Neue Analytics-Funktion - Öffentliche Beta**: [Advanced BI Analytics](/help/marketo/product-docs/reporting/advanced-bi-analytics/overview.md){target="_blank"} (früher als Revenue Explorer und Advanced Report Builder bezeichnet) begann Mitte April mit dem Rollout an alle aktuellen Benutzenden des Umsatzzyklus-Explorers. Dieses neue Tool bietet eine flexible Reporting- und Visualisierungsschnittstelle zu Marketo Engage-Daten und liefert detaillierte Informationen zu Fortschritt, Leistung und mehr. Er bietet mehr Interaktivität und Visualisierung, schnellere Leistung und ein nahtloseres und intuitiveres Benutzererlebnis.
 
 Um auf diese Funktion zugreifen zu können, müssen Sie das Add-on „Advanced BI Analytics“ erworben haben. Weitere Informationen erhalten Sie beim Adobe Account Team (Ihrem Account Manager).
 
-* **Einstellung von REST-API-„access_token“-**: Der `access_token` Abfrageparameter, der zum Authentifizieren von Marketo REST-API-Aufrufen verwendet wird, wird nicht mehr unterstützt und wird nach dem 31. Oktober 2025 nicht mehr verfügbar sein. Alle neuen und vorhandenen Integrationen sollten REST-API-Aufrufe mit dem Header „Authorization“ authentifizieren [wie hier beschrieben](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Einstellung von REST-API-„access_token“-**: Der `access_token` Abfrageparameter, der zum Authentifizieren von Marketo REST-API-Aufrufen verwendet wird, wird nicht mehr unterstützt und wird nach dem 31. Oktober 2025 nicht mehr verfügbar sein. Alle neuen und vorhandenen Integrationen sollten REST-API-Aufrufe mit dem Header „Authorization“ authentifizieren [wie hier beschrieben](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **Einstellung der SOAP-**: Die Unterstützung für die Marketo SOAP-API endet am 31. Oktober 2025. Services, die SOAP-API-Funktionen verwenden, sollten zur [REST-API“ migriert ](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+* **Einstellung der SOAP-**: Die Unterstützung für die Marketo SOAP-API endet am 31. Oktober 2025. Services, die SOAP-API-Funktionen verwenden, sollten zur [REST-API“ migriert ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
