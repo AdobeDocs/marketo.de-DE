@@ -5,9 +5,9 @@ description: Willkommen bei der neuen Adobe Marketo Engage E-Mail-Designer.
 title: Überblick
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 8c1e165a1d1d3fc00bf34c983a8edcb974294150
+source-git-commit: d7cb61fabcf82bb5fe9a0411cc94abf5445de689
 workflow-type: tm+mt
-source-wordcount: '825'
+source-wordcount: '834'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Der E-Mail-Designer ist die neueste Innovation in Marketo Engage und bietet ein 
 
 +++Erfahren Sie, wie Sie auf Email Designer zugreifen können
 
-Um auf den neuen E-Mail-Designer zugreifen zu können, muss Ihr Marketo Engage-Abonnement auf das [Adobe Identity Management System (IMS) migriert ](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Wenn Ihre Anfrage noch nicht bearbeitet wurde und Sie eine Beschleunigung anfordern möchten, wenden Sie sich bitte an das Adobe Account Team (Ihren Account Manager) oder an den [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support).
+Um auf den neuen E-Mail-Designer zugreifen zu können, muss Ihr Marketo Engage-Abonnement auf das [Adobe Identity Management System (IMS) migriert ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Wenn Ihre Anfrage noch nicht bearbeitet wurde und Sie eine Beschleunigung anfordern möchten, wenden Sie sich bitte an das Adobe Account Team (Ihren Account Manager) oder an den [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ### Benutzer hinzufügen {#add-users}
 
@@ -76,11 +76,19 @@ Auf neue E-Mail-Designer-E-Mails kann in allen Programmen zugegriffen werden (mi
 
 **Funktionieren unsere vorhandenen E-Mail-Vorlagen im neuen Designer? Falls nicht, müssen wir Vorlagen mit dem neuen Designer erstellen, damit alle Abschnitte/Module entsprechen, wie unser Inhalt aussehen soll?**
 
-Nein, E-Mail-Vorlagen aus dem klassischen Editor können im neuen Designer nicht referenziert werden. Sie müssen neue Vorlagen im neuen Designer erstellen. Sie _jedoch_ Vorlage &quot;HTML&quot; in den neuen Designer importieren und dann die erforderlichen Anpassungen vornehmen. Wir arbeiten auch an einer Möglichkeit, Vorlagen einfach vom klassischen Editor zum neuen Designer zu migrieren.
+E-Mail-Vorlagen aus dem klassischen Editor können im neuen Designer nicht referenziert werden. Sie müssen neue Vorlagen im neuen Designer erstellen. Sie _jedoch_ Vorlage &quot;HTML&quot; in den neuen Designer importieren und dann die erforderlichen Anpassungen vornehmen. **Hinweis**: Die Kompatibilität der klassischen Editor-Vorlage mit dem neuen Designer wird in Kürze verfügbar sein.
+
+**Kann ich neue Designer-Assets einfach in ein anderes Programm verschieben?**
+
+Zurzeit nicht. Aber diese Funktionalität wird bald verfügbar sein.
+
+**Können Assets im neuen E-Mail-Designer über die API bearbeitet werden?**
+
+Assets, das über eine API bearbeitet wird, wird derzeit im neuen E-Mail-Designer nicht unterstützt.
 
 **Gibt es eine Möglichkeit, das Branding (Schriftarten, Logos und Farben) durchzusetzen?**
 
-Sperren von Inhaltsabschnitten ist Teil des neuen Designers, und Sperren von Stilen, Farben usw. werden in diesem Jahr kommen.
+Sperren von Inhaltsabschnitten ist Teil des neuen Designers, und Sperren von Stilen, Farben usw. wird bald verfügbar sein.
 
 **Können Module für Vorlagen besser angepasst und skaliert werden?**
 
@@ -88,16 +96,11 @@ Ja, absolut anpassbar mit unserem WYSIWYG-Editor (What-you-see-is-what-you-get).
 
 **Wie funktioniert der Erstellungsprozess von E-Mail-Vorlagen im neuen Designer? Ist es WYSIWYG oder sind dafür Kenntnisse über HTML erforderlich?**
 
-Es ist WYSIWYG; HTML-Kenntnisse sind nicht erforderlich. Sie können ganz einfach Folgendes erstellen
-Vorlagen im Designer, wodurch der Bedarf an externen Web-Entwicklern reduziert wird. Sie haben jedoch weiterhin die Möglichkeit, CSS zu aktualisieren und einzelne Abschnitte über HTML zu bearbeiten. Wir arbeiten auch an einer Möglichkeit, Vorlagen einfach vom klassischen Editor zum neuen Designer zu migrieren.
+Es ist WYSIWYG; HTML-Kenntnisse sind nicht erforderlich. Sie können auf einfache Weise Vorlagen im Designer erstellen, wodurch der Bedarf an externen Web-Entwicklern reduziert wird. Sie haben jedoch weiterhin die Möglichkeit, CSS zu aktualisieren und einzelne Abschnitte über HTML zu bearbeiten. Wir arbeiten auch an einer Möglichkeit, Vorlagen einfach vom klassischen Editor zum neuen Designer zu migrieren.
 
 **Unterstützt der neue E-Mail-Designer die AMP-Sprache?**
 
 AMP wird derzeit nicht unterstützt.
-
-**Können Assets im neuen E-Mail-Designer über die API bearbeitet werden?**
-
-Assets, das über eine API bearbeitet wird, wird derzeit im neuen E-Mail-Designer nicht unterstützt.
 
 **Der dynamische Inhalt nach Attribut ist großartig, aber funktioniert der dynamische Inhalt nach Segment weiterhin?**
 
