@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Administration
 exl-id: a0fa5cd0-a61d-4383-88c0-9f2a4b2c717a
-source-git-commit: d7a7e6f7fd9c9009a058578f6027698a181226f5
+source-git-commit: 8a4f0015f99e62127f8b690263fb07de6a0a6e6f
 workflow-type: tm+mt
 source-wordcount: '610'
 ht-degree: 0%
@@ -38,8 +38,6 @@ Aktivitätstypen umfassen sowohl die Anzahl der Aktivitäten, die erfasst werden
 >
 >Um eine Anzahl von Aktivitätstypen für eine bestimmte Woche anzuzeigen, bewegen Sie den Mauszeiger über die gewünschte Woche, und die Anzahl wird angezeigt.
 
-![](assets/product-usage-dashboards-3.png){width="800" zoomable="yes"}
-
 #### FAQs {#faq}
 
 **Welche Aktivitätstypen werden gezählt?**
@@ -70,17 +68,10 @@ Die Aktivitätsnutzung zeigt an, wie viel Marketing durchgeführt wird, und hilf
 
 Gruppieren Sie Aktivitäten nach den häufigsten Aktivitätstypen der letzten sieben Tage. Dies kann Kategorien wie _Datenwert ändern_, _Zu Liste hinzufügen_ oder _E-Mail senden_ umfassen. Auf diese Weise können Sie sehen, welche Aktivitäten in Ihrem Marketo Engage-Konto am häufigsten ausgeführt werden.
 
-![](assets/product-usage-dashboards-4.png){width="600" zoomable="yes"}
-
-
 ### Durch Datenwertattribut ändern {#by-change-data-value-attribute}
 
 _Datenwert ändern_ ist der häufigste Aktivitätstyp. Es zeigt an, wann eine Information zu einem Personen-/Lead-Datensatz aktualisiert wird. Hier gruppieren wir nach den Feldern, die am häufigsten geändert werden, damit Sie feststellen können, welche Informationen für Ihre Marketing-Vorgänge nützlich sind, ob Möglichkeiten zur Optimierung der Plattformnutzung vorhanden sind usw.
 
-![](assets/product-usage-dashboards-5.png){width="600" zoomable="yes"}
-
 ### Nach Kampagne {#by-campaign}
 
 Gruppe, nach der die Kampagnen die meisten Aktivitäten produzieren. Auf diese Weise können Sie sehen, ob besonders laute Kampagnen vorhanden sind, die mehr Aktivität als nötig erzeugen. Schnelles Erfahren Sie mehr über Kampagnen, die eingestellt werden sollten, oder über Kampagnen, die mehr Arbeit leisten als beabsichtigt.
-
-![](assets/product-usage-dashboards-6.png){width="600" zoomable="yes"}
