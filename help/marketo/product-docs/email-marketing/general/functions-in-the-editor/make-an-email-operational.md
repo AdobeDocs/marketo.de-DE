@@ -4,20 +4,20 @@ description: Funktionsweise einer E-Mail festlegen - Marketo-Dokumente - Produkt
 title: E-Mail funktionsfähig machen
 exl-id: e36c6a7b-2c50-4d9f-9e6d-0828ab3af5a8
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 7c1bf673c2f7917c244dafdd3e8207203cd56bfb
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
 
 # E-Mail funktionsfähig machen {#make-an-email-operational}
 
-Operative E-Mails ignorieren den Status Abgemeldet und Marketing ausgesetzt . Sie senden, egal was kommt.
+Operative E-Mails ignorieren den Status Abgemeldet und Marketing ausgesetzt . Sie unterliegen auch keinen Kommunikationsbeschränkungen. Sie senden, egal was kommt.
 
 >[!NOTE]
 >
->Operative E-Mails unterliegen keinen Kommunikationsbeschränkungen.
+>Operative E-Mails zählen nicht zu den Kommunikationsbeschränkungen. Wenn jemand beispielsweise nur eine E-Mail pro Woche erhalten kann und Sie ihm bereits eine Marketing-E-Mail gesendet haben, können Sie ihm bei Bedarf trotzdem eine operative E-Mail senden.
 
 1. Suchen Sie Ihre E-Mail, wählen Sie sie aus und klicken Sie auf **Entwurf bearbeiten**.
 
