@@ -3,10 +3,10 @@ description: Übersicht über die erweiterte BI-Analyse - Marketo-Dokumente - Pr
 title: Erweiterte BI-Analytics-Übersicht
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: acf1070ff8e29f77677d9dba0f79ba45b48b1ee8
+source-git-commit: 896a4d16f6f2133b2d5311735143f4aab348dbf6
 workflow-type: tm+mt
-source-wordcount: '994'
-ht-degree: 1%
+source-wordcount: '1144'
+ht-degree: 0%
 
 ---
 
@@ -57,6 +57,69 @@ Diese Verbesserungen helfen Ihnen, Zeit zu sparen, wertvollere Einblicke zu gewi
 1. Fügen Sie Filter hinzu, indem Sie ein Dimensionsattribut per Drag-and-Drop ziehen.
 
    ![](assets/advanced-bi-analytics-overview-6.png){width="800" zoomable="yes"}
+
+## Exportieren eines Berichts {#export-a-report}
+
+Beim Exportieren eines vollständigen Berichts sind Ihre Exportoptionen PDF und PPT. Wenn Sie Ihre Daten in XLS oder CSV benötigen, können Sie dies tun, indem Sie einzelne Visualisierungen exportieren ([ unten](#export-a-visualization)).
+
+>[!BEGINTABS]
+
+>[!TAB Auf der Seite „Berichte“]
+
+1. Klicken Sie auf der Seite „Berichte“ auf das Symbol „Mehr“ (…) des gewünschten Berichts und wählen Sie **Exportieren**.
+
+   ![](assets/export-a-report-1a.png)
+
+1. Wählen Sie PDF oder PPT und klicken Sie **Exportieren**.
+
+   ![](assets/export-a-report-2a.png)
+
+>[!TAB Innerhalb des Berichts]
+
+1. Klicken Sie im Bericht selbst auf das Symbol „Mehr“ (**…**) oben rechts und wählen Sie **Exportieren**.
+
+   ![](assets/export-a-report-1b.png)
+
+1. Wählen Sie PDF oder PPT und klicken Sie **Exportieren**.
+
+   ![](assets/export-a-report-2b.png)
+
+>[!ENDTABS]
+
+### Exportieren einer Visualisierung {#export-a-visualization}
+
+Erfahren Sie, wie Sie bestimmte Abschnitte Ihres Berichts exportieren.
+
+1. Wählen Sie den gewünschten Bericht aus.
+
+   ![](assets/export-a-visualization-1.png){width="600" zoomable="yes"}
+
+1. Bewegen Sie den Mauszeiger über die angezeigte Visualisierung, um drei Symbole anzuzeigen.
+
+   ![](assets/export-a-visualization-2.png){width="600" zoomable="yes"}
+
+1. Klicken Sie auf das Symbol „Mehr“ (**…**)
+
+   ![](assets/export-a-visualization-3.png)
+
+1. Wählen **Daten exportieren**.
+
+   ![](assets/export-a-visualization-4.png)
+
+1. Wählen Sie das gewünschte Datenformat aus.
+
+   ![](assets/export-a-visualization-5.png)
+
+   >[!NOTE]
+   >
+   >* _Daten mit aktuellem Layout_ sind nur für visuelle Tabellen und Matrizen verfügbar.
+   * _Zugrunde liegende Daten_ sind in Marketo Engage nicht verfügbar.
+
+1. Wählen Sie das gewünschte Dateiformat aus (.XLS, .CSV).
+
+   ![](assets/export-a-visualization-6.png)
+
+1. Klicken Sie **Exportieren**.
 
 ## Video-Demo {#video}
 
