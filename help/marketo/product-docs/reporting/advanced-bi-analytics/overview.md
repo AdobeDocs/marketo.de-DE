@@ -113,7 +113,7 @@ Erfahren Sie, wie Sie bestimmte Abschnitte Ihres Berichts exportieren.
    >[!NOTE]
    >
    >* _Daten mit aktuellem Layout_ sind nur für visuelle Tabellen und Matrizen verfügbar.
-   * _Zugrunde liegende Daten_ sind in Marketo Engage nicht verfügbar.
+   >* _Zugrunde liegende Daten_ sind in Marketo Engage nicht verfügbar.
 
 1. Wählen Sie das gewünschte Dateiformat aus (.XLS, .CSV).
 
