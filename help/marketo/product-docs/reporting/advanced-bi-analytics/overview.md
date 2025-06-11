@@ -3,7 +3,7 @@ description: Übersicht über die erweiterte BI-Analyse - Marketo-Dokumente - Pr
 title: Erweiterte BI-Analytics-Übersicht
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: 896a4d16f6f2133b2d5311735143f4aab348dbf6
+source-git-commit: 4e9b830d350f0c8b50873b359e64be281af226fa
 workflow-type: tm+mt
 source-wordcount: '1144'
 ht-degree: 0%
@@ -60,7 +60,7 @@ Diese Verbesserungen helfen Ihnen, Zeit zu sparen, wertvollere Einblicke zu gewi
 
 ## Exportieren eines Berichts {#export-a-report}
 
-Beim Exportieren eines vollständigen Berichts sind Ihre Exportoptionen PDF und PPT. Wenn Sie Ihre Daten in XLS oder CSV benötigen, können Sie dies tun, indem Sie einzelne Visualisierungen exportieren ([ unten](#export-a-visualization)).
+Beim Exportieren eines vollständigen Berichts sind Ihre Exportoptionen PDF und PPT. Wenn Sie Ihre Daten in .XLS oder .CSV benötigen, können Sie dies tun, indem Sie einzelne Visualisierungen exportieren ([ unten](#export-a-visualization)).
 
 >[!BEGINTABS]
 
@@ -113,7 +113,7 @@ Erfahren Sie, wie Sie bestimmte Abschnitte Ihres Berichts exportieren.
    >[!NOTE]
    >
    >* _Daten mit aktuellem Layout_ sind nur für visuelle Tabellen und Matrizen verfügbar.
-   >* _Zugrunde liegende Daten_ sind in Marketo Engage nicht verfügbar.
+   * _Zugrunde liegende Daten_ sind in Marketo Engage nicht verfügbar.
 
 1. Wählen Sie das gewünschte Dateiformat aus (.XLS, .CSV).
 
