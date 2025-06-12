@@ -3,7 +3,7 @@ description: Übersicht über die erweiterte BI-Analyse - Marketo-Dokumente - Pr
 title: Erweiterte BI-Analytics-Übersicht
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: 4e9b830d350f0c8b50873b359e64be281af226fa
+source-git-commit: fbb323d2518bcc8278370a0e1c5ea87143f87a36
 workflow-type: tm+mt
 source-wordcount: '1144'
 ht-degree: 0%
