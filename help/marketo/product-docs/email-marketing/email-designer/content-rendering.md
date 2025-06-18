@@ -18,7 +18,7 @@ ht-degree: 7%
 
 Nutzen Sie Ihr [Litmus](https://www.litmus.com/email-testing)-Konto in Marketo Engage, um sofort zu sehen, wie Ihre E-Mail in gängigen E-Mail-Clients gerendert wird.
 
-## Informationen zur Verwendung {how-to-use}
+## Informationen zur Verwendung &lbrace;how-to-use&rbrace;
 
 1. Klicken Sie auf dem Bildschirm Inhalt bearbeiten Ihrer Nachricht oder in der E-Mail-Designer auf die Schaltfläche Inhalt simulieren .
 
