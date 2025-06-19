@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 feature: Email Editor
 hide: true
 hidefromtoc: true
-source-git-commit: 0157bc64444151a43bf464158d508e84d75b3427
+source-git-commit: c10984c5c4076103a4ccc81e94d595e0ec41c535
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 7%
@@ -18,7 +18,7 @@ ht-degree: 7%
 
 Nutzen Sie Ihr [Litmus](https://www.litmus.com/email-testing)-Konto in Marketo Engage, um sofort zu sehen, wie Ihre E-Mail in gängigen E-Mail-Clients gerendert wird.
 
-## Informationen zur Verwendung &lbrace;how-to-use&rbrace;
+## Informationen zur Verwendung {#how-to-use}
 
 1. Klicken Sie auf dem Bildschirm Inhalt bearbeiten Ihrer Nachricht oder in der E-Mail-Designer auf die Schaltfläche Inhalt simulieren .
 
