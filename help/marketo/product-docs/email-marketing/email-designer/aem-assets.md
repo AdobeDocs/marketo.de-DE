@@ -17,7 +17,7 @@ Verbinden Sie Ihr _Adobe Experience Manager Assets as a Cloud Service_-Konto mit
 
 >[!NOTE]
 >
->Derzeit werden in Marketo Engage nur Bild-Assets von _0&rbrace;Adobe Experience Manager Assets unterstützt._ Änderungen an den Assets müssen über das zentrale Adobe Experience Manager Assets-Repository vorgenommen werden. [Weitere Informationen](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
+>Derzeit werden in Marketo Engage nur Bild-Assets von _0&rbrace;Adobe Experience Manager Assets unterstützt._ Änderungen an den Assets müssen über das zentrale Adobe Experience Manager Assets-Repository vorgenommen werden. [Weitere Informationen](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
 
 ## Link zu Ihren AEM Cloud Services {#link-to-your-aem-cloud-services}
 
@@ -81,7 +81,7 @@ Wenn Ihre Umgebung über eine oder mehrere Asset-Repository-Verbindungen verfüg
 
 >[!IMPORTANT]
 >
->Ein Administrator muss Benutzer, die Zugriff auf Assets benötigen, zu den Produktprofilen &quot;Assets Consumer Users“ und/oder &quot;Assets Users“ hinzufügen. [Weitere Informationen](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/security/ims-support#managing-products-and-user-access-in-admin-console)
+>Ein Administrator muss Benutzer, die Zugriff auf Assets benötigen, zu den Produktprofilen &quot;Assets Consumer Users“ und/oder &quot;Assets Users“ hinzufügen. [Weitere Informationen](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/security/ims-support#managing-products-and-user-access-in-admin-console)
 
 Klicken Sie im visuellen Inhaltseditor auf das Symbol _Experience Manager Asset-_ in der linken Seitenleiste. Dadurch wird das Bedienfeld „Tools“ in eine Liste der verfügbaren Assets im ausgewählten Repository geändert.
 

@@ -23,7 +23,7 @@ E-Mail-Designer hat ein anderes Format als der klassische E-Mail-Editor, wenn es
 
 ## Primärer Anwendungsfall {#primary-use-case}
 
-Diese Verbesserung kommt in erster Linie denjenigen zugute, die von [Velocity-Skripterstellung](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting){target="_blank"} zu Handlebar-Skripterstellung wechseln. Der neue E-Mail-Designer unterstützt nur das neue Token-Format. Das aktualisierte Format beseitigt Leerzeichen und führt eine überarbeitete Standardtextstruktur ein, um ein reibungsloseres und effizienteres Skripterlebnis zu gewährleisten.
+Diese Verbesserung kommt in erster Linie denjenigen zugute, die von [Velocity-Skripterstellung](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/email-scripting){target="_blank"} zu Handlebar-Skripterstellung wechseln. Der neue E-Mail-Designer unterstützt nur das neue Token-Format. Das aktualisierte Format beseitigt Leerzeichen und führt eine überarbeitete Standardtextstruktur ein, um ein reibungsloseres und effizienteres Skripterlebnis zu gewährleisten.
 
 ## Token-Erlebnis {#token-experience}
 
