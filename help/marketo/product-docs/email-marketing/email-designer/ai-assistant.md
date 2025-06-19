@@ -3,12 +3,13 @@ solution: Marketo Engage
 product: marketo
 title: Verwenden des KI-Assistenten
 description: Nutzen Sie die generative KI-Technologie von Adobe, um Ihren E-Mails hilfreichen Text und/oder Bilder hinzuzufügen.
-feature: Email Editor
+level: Beginner, Intermediate
+feature: Email Designer
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
-source-git-commit: 76d854176c3c462596596689b43d3567517fee63
+source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
 workflow-type: tm+mt
 source-wordcount: '734'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -36,7 +37,7 @@ Nachdem die E-Mail erstellt wurde, befindet sich die Betreffzeile in der Spalte 
 
 ![](assets/use-the-ai-assistant-2.png)
 
-Aktivieren Sie die Option **Referenzinhalt verwenden** für den KI-Assistenten, um neue Inhalte basierend auf den ausgewählten Inhalten zu personalisieren.
+Aktivieren Sie die Option **Referenzinhalt verwenden** für den KI-Assistenten, um neue Inhalte basierend auf dem ausgewählten Inhalt zu personalisieren.
 
 Geben Sie die Eingabeaufforderung ein, um die Betreffzeile anzupassen. Geben Sie relevante Texteinstellungen ein und laden Sie alle Marken-Assets hoch, die Sie als Referenz zum Erstellen einer entsprechenden Betreffzeile verwenden möchten.
 

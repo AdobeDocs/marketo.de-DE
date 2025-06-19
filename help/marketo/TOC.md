@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 5575ab0d7141d4bfc610430db625439c9f52e231
+source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
 workflow-type: tm+mt
-source-wordcount: '9269'
+source-wordcount: '9279'
 ht-degree: 6%
 
 ---
@@ -258,7 +258,7 @@ ht-degree: 6%
       + [Einrichten der Adobe-Organisationszuordnung](product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md)
       + [Synchronisieren einer Zielgruppe aus Adobe Experience Cloud](product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md)
       + [Importieren von Assets mit Adobe Experience Manager](product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md)
-      + [Übersicht über die Adobe Experience Cloud-Benutzeroberfläche](product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md)
+      + Übersicht über die [Adobe Experience Cloud-Benutzeroberfläche](product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md)
    + Grundlegende Marketo-Konzepte {#core-marketo-concepts}
       + Intelligente Kampagnen {#smart-campaigns}
          + [Grundlegendes zu Smart-Kampagnen](product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
@@ -1029,6 +1029,7 @@ ht-degree: 6%
          + [Funktionsvergleich](product-docs/email-marketing/email-designer/feature-comparison.md)
          + [E-Mail-Erstellung](product-docs/email-marketing/email-designer/email-authoring.md)
          + [Erstellen von E-Mail-Vorlagen](product-docs/email-marketing/email-designer/email-template-authoring.md)
+         + [E-Mail-Rendering mit Litmus testen](product-docs/email-marketing/email-designer/test-email-rendering.md)
          + [Personalization-Token](product-docs/email-marketing/email-designer/personalization-tokens.md)
          + [Arbeiten mit AEM Assets](product-docs/email-marketing/email-designer/aem-assets.md)
          + [Bearbeiten von Bildern mit Adobe Express](product-docs/email-marketing/email-designer/edit-images-adobe-express.md)
@@ -1037,6 +1038,7 @@ ht-degree: 6%
          + [GenStudio-Integration für Marketo Engage](product-docs/email-marketing/email-designer/genstudio.md)
          + [Sperren von Inhalten](product-docs/email-marketing/email-designer/content-locking.md)
          + [KI-Assistent](product-docs/email-marketing/email-designer/ai-assistant.md)
+         + [E-Mail-Spam-Bericht mit SpamAssassin](product-docs/email-marketing/email-designer/spam-report.md)
       + E-Mail-Programme {#email-programs}
          + E-Mail-Programm erstellen {#creating-an-email-program}
             + [E-Mail-Programm erstellen](product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)

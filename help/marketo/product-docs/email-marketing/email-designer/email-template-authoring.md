@@ -1,22 +1,23 @@
 ---
 description: E-Mail-Vorlagen - Marketo-Dokumente - Produktdokumentation
 title: E-Mail-Vorlagen
-feature: Email Editor
+level: Beginner, Intermediate
+feature: Email Designer
 exl-id: 92af4ba4-f214-423c-ab2d-ade07b368797
-source-git-commit: cf4df30b575061bde18cf38e355604b970b7c51e
+source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
 workflow-type: tm+mt
 source-wordcount: '1840'
 ht-degree: 4%
 
 ---
 
-# Erstellen von E-Mail-Vorlagen {#email-template-authoring}
+# Erstellung von E-Mail-Vorlagen {#email-template-authoring}
 
 Für einen beschleunigten und verbesserten Design-Prozess können Sie eigenständige E-Mail-Vorlagen erstellen, um benutzerdefinierte Inhalte einfach wiederzuverwenden.
 
 >[!PREREQUISITES]
 >
->Um auf den neuen E-Mail-Designer zugreifen zu können, muss Ihr Marketo Engage-Abonnement auf das [Adobe Identity Management System (IMS) migriert ](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Wenn Ihre Anfrage noch nicht bearbeitet wurde und Sie eine Beschleunigung anfordern möchten, wenden Sie sich bitte an das Adobe Account Team (Ihren Account Manager) oder an den [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support).
+>Um auf den neuen E-Mail-Designer zugreifen zu können, muss Ihr Marketo Engage-Abonnement auf das [Adobe Identity Management System (IMS) migriert ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Wenn Ihre Anfrage noch nicht bearbeitet wurde und Sie eine Beschleunigung anfordern möchten, wenden Sie sich bitte an das Adobe Account Team (Ihren Account Manager) oder an den [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support).
 
 >[!NOTE]
 >
@@ -217,7 +218,7 @@ Im folgenden Beispiel werden Schritte zum Anpassen des Abstands und der vertikal
 
 1. Speichern Sie Ihre Änderungen.
 
-### Inhalt personalisieren {#personalize-content}
+### Personalisieren von Inhalten {#personalize-content}
 
 Token funktionieren im neuen Editor genauso wie im alten, aber das Symbol sieht anders aus. Im folgenden Beispiel wird das Hinzufügen eines Vornamen-Tokens mit Fallback-Text beschrieben.
 

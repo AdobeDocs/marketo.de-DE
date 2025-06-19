@@ -1,18 +1,20 @@
 ---
 title: Experience Manager-Dokument verbinden
-description: Erfahren Sie, wie Sie Adobe Experience Manager Cloud Service mit Adobe Marketo Engage verbinden, damit Sie Ihre AEM-Assets nutzen können.
+description: Erfahren Sie, wie Sie Adobe Experience Manager Cloud Services mit Adobe Marketo Engage verbinden, damit Sie Ihre AEM-Assets nutzen können.
+level: Beginner, Intermediate
+feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 3a3c3dae689760b720c4823bc1d11bf39da998fe
+source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 0%
 
 ---
 
-# Adobe Experience Manager Cloud Service verbinden {#connect-adobe-experience-manager-cloud-services}
+# Adobe Experience Manager Cloud Services verbinden {#connect-adobe-experience-manager-cloud-services}
 
-Erfahren Sie, wie Sie Ihr AEM Assets Cloud Service-Konto mit Ihrer Adobe Marketo Engage-Instanz verbinden, um Ihr AEM Asset-Repository in der Marketo Engage-E-Mail-Designer nutzen zu können.
+Erfahren Sie, wie Sie Ihr AEM Assets Cloud Services-Konto mit Ihrer Adobe Marketo Engage-Instanz verbinden, um Ihr AEM Asset-Repository in der Marketo Engage E-Mail-Designer nutzen zu können.
 
 >[!NOTE]
 >
@@ -22,7 +24,7 @@ Erfahren Sie, wie Sie Ihr AEM Assets Cloud Service-Konto mit Ihrer Adobe Marketo
 
 SCREENSHOT
 
-1. Klicken Sie **Bearbeiten** neben _Adobe Experience Manager Cloud Service_.
+1. Klicken Sie **Bearbeiten** neben _Adobe Experience Manager Cloud Services_.
 
 SCREENSHOT
 
@@ -46,7 +48,7 @@ SCREENSHOT
 
 SCREENSHOT
 
-Jetzt können alle Bilder aus der Digital Asset Management-Bibliothek in diesem Repository über die Marketo Engage-E-Mail-Designer aufgerufen werden.
+Jetzt können alle Bilder aus der Digital Asset Management-Bibliothek in diesem Repository über die Marketo Engage E-Mail-Designer aufgerufen werden.
 
 >[!MORELIKETHIS]
 >

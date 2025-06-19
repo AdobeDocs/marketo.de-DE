@@ -4,11 +4,12 @@ product: marketo
 title: Fragmente
 description: Erfahren Sie, wie Sie visuelle Inhaltsfragmente als wiederverwendbare Komponenten für E-Mails und E-Mail-Vorlagen erstellen und verwenden.
 level: Beginner, Intermediate
+feature: Email Designer
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: d8e833e5997f1b9cfeef8ecf8b88ca81151041c2
+source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
 workflow-type: tm+mt
 source-wordcount: '1922'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -250,7 +251,7 @@ Sie können ein Fragment mit einer der folgenden Methoden duplizieren:
 
 ![Duplizieren Sie das Fragment](assets/fragment-details-duplicate.png){width="600" zoomable="yes"}
 
-Geben Sie im Dialogfeld einen eindeutigen Namen und optional eine Beschreibung ein. Klicken Sie **[!UICONTROL Duplizieren]**.
+Geben Sie im Dialogfeld einen eindeutigen Namen und optional eine Beschreibung ein. Klicken Sie auf **[!UICONTROL Duplizieren]**.
 
 ![Geben Sie einen Namen und eine Beschreibung für das duplizierte Fragment ein](assets/fragment-duplicate-dialog.png){width="400"}
 

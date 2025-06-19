@@ -4,11 +4,12 @@ product: marketo
 title: Bearbeiten von Bildern mit Adobe Express
 description: Erfahren Sie, wie Sie Bilder im Adobe Marketo Engage-E-Mail-Editor mit Adobe Express bearbeiten.
 level: Beginner, Intermediate
+feature: Email Designer
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
-source-git-commit: 76d854176c3c462596596689b43d3567517fee63
+source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
 workflow-type: tm+mt
 source-wordcount: '841'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
