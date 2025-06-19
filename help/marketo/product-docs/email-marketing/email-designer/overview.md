@@ -5,14 +5,14 @@ description: Willkommen bei der neuen Adobe Marketo Engage E-Mail-Designer.
 title: Überblick
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
+source-git-commit: 3717cba468ed7f1a916fa0eefa2ff50708d95c34
 workflow-type: tm+mt
-source-wordcount: '834'
+source-wordcount: '871'
 ht-degree: 0%
 
 ---
 
-# Überblick {#overview}
+# Übersicht über E-Mail-Designer {#overview}
 
 Willkommen bei der neuen Adobe Marketo Engage E-Mail-Designer.
 
@@ -26,7 +26,7 @@ Der E-Mail-Designer ist die neueste Innovation in Marketo Engage und bietet ein 
 
 +++Erfahren Sie, wie Sie auf Email Designer zugreifen können
 
-Um auf den neuen E-Mail-Designer zugreifen zu können, muss Ihr Marketo Engage-Abonnement auf das [Adobe Identity Management System (IMS) migriert ](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Wenn Ihre Anfrage noch nicht bearbeitet wurde und Sie eine Beschleunigung anfordern möchten, wenden Sie sich bitte an das Adobe Account Team (Ihren Account Manager) oder an den [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support).
+Um auf den neuen E-Mail-Designer zugreifen zu können, muss Ihr Marketo Engage-Abonnement auf das [Adobe Identity Management System (IMS) migriert ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Wenn Ihre Anfrage noch nicht bearbeitet wurde und Sie eine Beschleunigung anfordern möchten, wenden Sie sich bitte an das Adobe Account Team (Ihren Account Manager) oder an den [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ### Benutzer hinzufügen {#add-users}
 
@@ -54,6 +54,8 @@ Um auf den neuen E-Mail-Designer zugreifen zu können, muss Ihr Marketo Engage-A
 
 * [Anpassbare Fragmente](/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md){target="_blank"}: Erfahren Sie, wie Sie Fragmente anpassen können, indem Sie einige ihrer Felder bearbeitbar machen.
 
+* [Personalization-Token](/help/marketo/product-docs/email-marketing/email-designer/personalization-tokens.md){target="_blank"}: Erfahren Sie mehr über das neue Format für Personalisierungs-Token im neuen E-Mail-Designer.
+
 * [Arbeiten mit AEM-Assets](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}: Erfahren Sie, wie Sie zur Verwendung in Marketo Engage einfach auf Ihre digitalen AEM-Assets zugreifen können.
 
 * [Bearbeiten von Bildern mit Adobe Express](/help/marketo/product-docs/email-marketing/email-designer/edit-images-adobe-express.md){target="_blank"}: Erfahren Sie, wie Sie Bilder im Adobe Marketo Engage-E-Mail-Editor mithilfe von Adobe Express bearbeiten.
@@ -61,6 +63,8 @@ Um auf den neuen E-Mail-Designer zugreifen zu können, muss Ihr Marketo Engage-A
 * [KI-Assistenten verwenden](/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md){target="_blank"}: Nutzen Sie die generative KI-Technologie von Adobe, um Ihren E-Mails hilfreichen Text und/oder Bilder hinzuzufügen.
 
 * [Inhalt in E-Mail-Vorlagen sperren](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md){target="_blank"}: Erfahren Sie, wie Sie Inhalte in E-Mail-Vorlagen sperren, um zu verhindern, dass Inhalte versehentlich bearbeitet oder gelöscht werden.
+
+* [E-Mail-Rendering mit Litmus testen](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md){target="_blank"}: Nutzen Sie Ihr Litmus-Konto in Marketo Engage, um sofort zu sehen, wie Ihre E-Mail in gängigen E-Mail-Clients gerendert wird.
 
 * [Funktionsvergleich](/help/marketo/product-docs/email-marketing/email-designer/feature-comparison.md){target="_blank"}: Vergleichen der Verfügbarkeit der Funktionen im vorherigen E-Mail-Editor (E-Mail-Editor 2.0) und im neuen E-Mail-Designer.
 
@@ -112,4 +116,4 @@ Wenn Sie sich über die [Adobe Experience Cloud](https://experiencecloud.adobe.c
 
 **Welche Browser kann ich mit der neuen E-Mail-Designer verwenden?**
 
-Es wird empfohlen, Google Chrome, Apple Safari oder Microsoft Edge zu verwenden. Die volle Unterstützung für Mozilla Firefox wird zu einem späteren Zeitpunkt verfügbar sein.
+Es wird empfohlen, Google Chrome, Apple Safari oder Microsoft Edge zu verwenden. Vollständige Unterstützung für Mozilla Firefox wird bald verfügbar sein.

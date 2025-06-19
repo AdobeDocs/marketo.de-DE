@@ -3,9 +3,9 @@ description: Durchführen eines interaktiven Webinars - Marketo-Dokumente - Prod
 title: Bewerben eines interaktiven Webinars
 feature: Interactive Webinars
 exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
-source-git-commit: f5b66521f678b2aa618d270077292ddd9b8775c3
+source-git-commit: 3717cba468ed7f1a916fa0eefa2ff50708d95c34
 workflow-type: tm+mt
-source-wordcount: '777'
+source-wordcount: '786'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,13 @@ Mit interaktiven Webinaren können Sie sich vor, während oder nach einem Webina
 
 ## Token für interaktive Webinare {#interactive-webinars-tokens}
 
-Verwenden Sie Token, um interaktive Webinare in E-Mails und Landingpages zu bewerben, ohne Webinar-Details manuell hinzufügen zu müssen. Dies verbessert die Gesamteffizienz, da alle Änderungen an den Webinar-Metadaten (wie Webinar-Titel, Startdatum usw.) automatisch in Ihren Assets widergespiegelt werden.
+Verwenden Sie Token, um interaktive Webinare in E-Mails zu bewerben, ohne Webinar-Details manuell hinzufügen zu müssen. Dies verbessert die Gesamteffizienz, da alle Änderungen an den Webinar-Metadaten (wie Webinar-Titel, Startdatum usw.) automatisch in Ihren Assets widergespiegelt werden.
 
 ![](assets/promoting-an-interactive-webinar-3.png)
+
+>[!NOTE]
+>
+>Interaktive Webinar-Token werden derzeit auf Landingpages nicht unterstützt.
 
 **Liste der Token**
 

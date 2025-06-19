@@ -5,9 +5,10 @@ title: E-Mail-Rendering mit Litmus testen
 description: Marketo Engage-Anwender können ihr Litmus -Konto integrieren, um das Rendern von Inhalten in verschiedenen E-Mail-Clients nahtlos zu testen.
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
+exl-id: ccef36af-362a-4ac0-9030-492e9d7f10b5
+source-git-commit: ac1a80c3f337b71109f29583fdfd318e43fd3c79
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '259'
 ht-degree: 4%
 
 ---
@@ -22,7 +23,7 @@ Nutzen Sie Ihr [Litmus](https://www.litmus.com/email-testing)-Konto in Marketo E
 
 ## Informationen zur Verwendung {#how-to-use}
 
-1. Klicken Sie im Bildschirm _E_ Mail-Inhalt bearbeiten) auf die Schaltfläche **Inhalt simulieren**.
+1. Klicken Sie auf dem _E-Mail_ Inhalt bearbeiten) auf die Schaltfläche **Inhalt simulieren**.
 
    ![](assets/test-email-rendering-with-litmus-1.png)
 
@@ -54,10 +55,10 @@ Nutzen Sie Ihr [Litmus](https://www.litmus.com/email-testing)-Konto in Marketo E
    >
    >Erfahren Sie, wie [Ihre Standard-E-Mail-Client-Liste anpassen](https://help.litmus.com/article/227-change-your-default-email-clients-list).
 
-1. Wenn Sie den Test abgeschlossen haben, klicken Sie auf den Rückwärtspfeil oben links im Bildschirm, um zum Bildschirm _Inhalt simulieren_ zurückzukehren.
+1. Wenn Sie den Test abgeschlossen haben, klicken Sie auf den Rückwärtspfeil oben links, um zum Bildschirm _Inhalt simulieren_ zurückzukehren.
 
    ![](assets/test-email-rendering-with-litmus-6.png)
 
-**OPTIONALER SCHRITT**: Wenn Sie Änderungen an Ihrer E-Mail vornehmen möchten, klicken Sie nach dem Klicken auf **E-Mail rendern**, um diese Änderungen anzuzeigen, klicken Sie **auch auf die Schaltfläche Erneut testen** oben rechts im Litmus-Bildschirm.
+**OPTIONALER SCHRITT**: Wenn Sie Änderungen an Ihrer E-Mail vornehmen möchten, klicken Sie nach dem Klicken auf **E-Mail rendern**, um sie anzuzeigen, stellen Sie sicher, dass Sie auch auf die Schaltfläche **Erneut testen** oben rechts im Bildschirm Litmus _E-Mail-Vorschau_ klicken.
 
 ![](assets/test-email-rendering-with-litmus-7.png)
