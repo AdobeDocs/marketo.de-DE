@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie Bild-Assets aus einem verbundenen AEM Assets-
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: c2172042-a35c-4179-bf81-6e96323bd4d4
-source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
+source-git-commit: f2f9a3aeae8bd4857675df46ad5522c37154431c
 workflow-type: tm+mt
-source-wordcount: '791'
+source-wordcount: '819'
 ht-degree: 1%
 
 ---
@@ -17,7 +17,7 @@ Verbinden Sie Ihr _Adobe Experience Manager Assets as a Cloud Service_-Konto mit
 
 >[!NOTE]
 >
->Derzeit werden in Marketo Engage nur Bild-Assets von _0&rbrace;Adobe Experience Manager Assets unterstützt._ Änderungen an den Assets müssen über das zentrale Adobe Experience Manager Assets-Repository vorgenommen werden. [Weitere Informationen](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
+>Derzeit werden in Marketo Engage nur Bild-Assets von _0}Adobe Experience Manager Assets unterstützt._ Änderungen an den Assets müssen über das zentrale Adobe Experience Manager Assets-Repository vorgenommen werden. [Weitere Informationen](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
 
 ## Link zu Ihren AEM Cloud Services {#link-to-your-aem-cloud-services}
 
@@ -43,7 +43,9 @@ Bevor Sie diese Funktion verwenden können, müssen Sie zunächst AEM Cloud Serv
 
    >[!NOTE]
    >
-   >Es werden nur Repositorys aufgelistet, die derselben IMS-Organisation zugeordnet wurden wie Ihr Marketo Engage-Abonnement.
+   >* Es werden nur Repositorys aufgelistet, die derselben IMS-Organisation zugeordnet wurden wie Ihr Marketo Engage-Abonnement.
+   >
+   >* Marketo Engage unterstützt nur Repositorys aus der Bereitstellungsebene. Wenn Sie die Autorenebene verwenden und diese konvertieren möchten, wenden Sie sich an den [Adobe Experience Manager-Support](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-manager/content/overview/help-resources).
 
 1. Sie müssen ein [Dienstanmeldeinformationszertifikat“ hinzufügen](https://experienceleague.adobe.com/de/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/service-credentials) um das Repository zu konfigurieren. Klicken Sie auf die Schaltfläche **+ Zertifikat hinzufügen**.
 
@@ -81,7 +83,7 @@ Wenn Ihre Umgebung über eine oder mehrere Asset-Repository-Verbindungen verfüg
 
 >[!IMPORTANT]
 >
->Ein Administrator muss Benutzer, die Zugriff auf Assets benötigen, zu den Produktprofilen &quot;Assets Consumer Users“ und/oder &quot;Assets Users“ hinzufügen. [Weitere Informationen](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/security/ims-support#managing-products-and-user-access-in-admin-console)
+>Ein Administrator muss Benutzer, die Zugriff auf Assets benötigen, zu den Produktprofilen &quot;Assets Consumer Users“ und/oder &quot;Assets Users“ hinzufügen. [Weitere Informationen](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/security/ims-support#managing-products-and-user-access-in-admin-console)
 
 Klicken Sie im visuellen Inhaltseditor auf das Symbol _Experience Manager Asset-_ in der linken Seitenleiste. Dadurch wird das Bedienfeld „Tools“ in eine Liste der verfügbaren Assets im ausgewählten Repository geändert.
 
