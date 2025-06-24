@@ -65,7 +65,7 @@ Drei neue Aufrufe für die Lead &amp; Activity REST-API:
 
 ・ Lead zusammenführen
 
-Alle Details werden nach der Veröffentlichung unter [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home verfügbar sein](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/home)
+Alle Details werden nach der Veröffentlichung unter [https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/home verfügbar sein](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/home)
 
 ## [!DNL Munchkin Javascript] {#munchkin-javascript-compatibility-enhancements}
 
