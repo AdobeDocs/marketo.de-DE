@@ -59,6 +59,6 @@ Anzeigenamen in Feldern können Text in verschiedenen Sprachen anzeigen (z. B. w
 
 ## Programmdaten ändern {#change-program-data}
 
-Mit [!UICONTROL  Schritt &quot;] ändern“ können Sie den [!UICONTROL Erfolgsstatus] und das [!UICONTROL Erfolgsdatum] eines Programmmitglieds manuell über eine Kampagne ändern. Sie können diesen Flussschritt verwenden, um einen Fehler zu korrigieren oder ein Mitglied, das möglicherweise nicht wie vorgesehen am Programm teilgenommen hat, manuell zu ändern.
+Mit [!UICONTROL &#x200B; Schritt &quot;] ändern“ können Sie den [!UICONTROL Erfolgsstatus] und das [!UICONTROL Erfolgsdatum] eines Programmmitglieds manuell über eine Kampagne ändern. Sie können diesen Flussschritt verwenden, um einen Fehler zu korrigieren oder ein Mitglied, das möglicherweise nicht wie vorgesehen am Programm teilgenommen hat, manuell zu ändern.
 
 ![](assets/image2014-9-22-15-3a23-3a23.png)

@@ -35,7 +35,7 @@ Ein Gewinnspiel gibt Ihren Leads die Chance, einen Preis zu gewinnen und ihre Fr
 
 ![](assets/image2014-9-22-15-3a36-3a55.png)
 
-## Zusätzliche [!UICONTROL  (Fehlermeldung] Sprachen {#additional-form-error-message-languages}
+## Zusätzliche [!UICONTROL &#x200B; (Fehlermeldung] Sprachen {#additional-form-error-message-languages}
 
 Mehr als ein Dutzend Sprachen wurden zu den Formularfehlermeldungen hinzugefügt!
 

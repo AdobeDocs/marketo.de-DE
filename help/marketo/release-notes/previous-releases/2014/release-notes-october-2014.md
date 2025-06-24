@@ -70,4 +70,4 @@ Verwenden Sie einen neuen Aufruf, der den Verlauf der letzten Besuche eines Besu
 * Interessierte Produkte
 * Welche RTP-Kampagnen sie gesehen haben
 
-Ausführliche Informationen finden Sie ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation.
+Ausführliche Informationen finden Sie [&#128279;](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation.

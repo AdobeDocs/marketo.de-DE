@@ -56,7 +56,7 @@ Verwenden [!UICONTROL Benanntes Konto] oder [!UICONTROL Kontoliste] als Dimensio
 
 ![](assets/ei.png)
 
-## [!UICONTROL Verbesserungen bei prädiktiven ]) {#predictive-content-enhancements}
+## [!UICONTROL Verbesserungen bei prädiktiven &#x200B;]) {#predictive-content-enhancements}
 
 **[Filtern nach [!UICONTROL Source aktiviert]](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
 
