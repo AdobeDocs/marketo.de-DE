@@ -4,9 +4,9 @@ description: Oktober 2013 - Marketo-Dokumentation - Produktdokumentation
 title: Oktober 2013 – Versionshinweise
 exl-id: f392521e-a5bd-47cd-af5c-d801718ca4e0
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '132'
 ht-degree: 3%
 
 ---
@@ -29,4 +29,4 @@ Synchronisieren Sie zusätzliche Felder von [!DNL BrightTALK] mit Marketo, einsc
 
 ## Android Tablet-Ereignis-Check-in-App {#android-tablet-event-check-in-app}
 
-Checken Sie Teilnehmer mit unserer neuen [Android-basierten Check-in-App, die auf {](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)}Google Play&rbrace; verfügbar ist, in Ihre Veranstaltung [&#128279;](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&hl=en).
+Checken Sie Teilnehmer mit unserer neuen Android-basierten Check-in-App, die auf Google Play verfügbar ist, in Ihre Veranstaltung ein.

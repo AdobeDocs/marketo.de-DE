@@ -3,9 +3,9 @@ description: Einrichten der ON24-Integration mit Marketo - Dokumentation zu Mark
 title: Einrichten der ON24-Integration mit Marketo
 exl-id: 395ffa37-b87d-4eb4-bf9f-72aa96dc819c
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '263'
 ht-degree: 3%
 
 ---
@@ -84,4 +84,4 @@ So richten Sie Ihre ON24-Ereignisintegration ein.
 
    ![](assets/set-up-the-on24-integration-with-marketo-15.png)
 
-1. Navigieren Sie mit Ihrer gespeicherten Client-ID, Ihrem Client-Geheimnis und Ihrer Identität zu Ihrem ON24-Konto. Die restlichen Schritte werden dort ausgeführt und sind [hier beschrieben](https://on24support.force.com/Support/s/article/Connect-Marketo-ON24-Connect-Data-Integration#Step6){target="_blank"}.
+1. Navigieren Sie mit Ihrer gespeicherten Client-ID, Ihrem Client-Geheimnis und Ihrer Identität zu Ihrem ON24-Konto. Die restlichen Schritte werden dort ausgeführt und finden Sie in der [ON24-Dokumentation](https://support.on24.com/hc/en-us/articles/21420762650523-Data-Integration-Setup-Instructions-When-Using-Marketo-Registration-Option-1){target="_blank"}.

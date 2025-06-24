@@ -3,9 +3,9 @@ description: Installieren von Marketo für Microsoft Dynamics 2016/Dynamics 365 
 title: Installieren von Marketo für Microsoft Dynamics 2016/Dynamics 365 On-Premise, Schritt 2 von 3
 exl-id: c789b977-7ada-4f5d-8488-e1b58963f7e3
 feature: Microsoft Dynamics
-source-git-commit: 15cb3ddcd82fa1ba60fae3aa1adaac3d5964a0fa
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '495'
 ht-degree: 0%
 
 ---
@@ -74,7 +74,7 @@ Weisen Sie die Rolle Marketo-Synchronisierungsbenutzer nur dem Marketo-Synchroni
 
 >[!IMPORTANT]
 >
->Die Spracheinstellung des Synchronisierungsbenutzers [sollte auf Englisch festgelegt werden](https://portal.dynamics365support.com/knowledgebase/article/KA-01201/en-us){target="_blank"}.
+>Die Spracheinstellung des Synchronisierungsbenutzers [sollte auf Englisch festgelegt werden](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"}.
 
 1. Klicken **[!UICONTROL unter „Einstellungen]** auf **[!UICONTROL Sicherheit]**.
 
@@ -128,7 +128,7 @@ Fast fertig! Wir haben nur noch ein paar letzte Konfigurationsschritte, bevor wi
 
    ![](assets/configure4.png)
 
-1. Klicken Sie auf **[!UICONTROL Alle Anpassungen von Publish]**.
+1. Klicken Sie **[!UICONTROL Alle Anpassungen veröffentlichen]**.
 
    ![](assets/publish-all-customizations1.png)
 

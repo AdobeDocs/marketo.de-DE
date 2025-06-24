@@ -4,9 +4,9 @@ description: Erstellen einer benutzerdefinierten Zielgruppe in Facebook - Market
 title: Erstellen einer benutzerdefinierten Zielgruppe in Facebook
 exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
 feature: Integrations
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Hinzufügen benutzerdefinierter Facebook-Zielgruppen als LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md){target="_blank"}Service im Administratorbereich.
+>* [Hinzufügen von benutzerdefinierten Facebook-Zielgruppen als LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md){target="_blank"}Service im Administratorbereich.
 >* [Akzeptieren der benutzerdefinierten Zielgruppenbedingungen von Facebook](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"} in Ihrem Facebook-Konto.
 
 >[!TIP]
@@ -58,17 +58,13 @@ ht-degree: 0%
 
    ![](assets/create-a-custom-audience-in-facebook-6.png)
 
-   Und das war&#39;s! In Facebook sehen Sie die neue Zielgruppe unter **Anzeigen-** > **Zielgruppen**.
+   Und das war&#39;s! In Facebook sehen Sie die neue Audience unter **Ads Manager** > **Audiences**.
 
    ![](assets/create-a-custom-audience-in-facebook-7.png)
 
    >[!NOTE]
    >
-   >Alle Listen, die Sie an Facebook pushen, werden statisch. Smart-Listen in Marketo aktualisieren die Audience-Liste in Facebook nicht automatisch, um Änderungen widerzuspiegeln, die nach der Übertragung vorgenommen wurden.
-
-   >[!TIP]
-   >
-   >Siehe den [Facebook-Lernpfad für Marketo-Kunden](https://facebook.exceedlms.com/student/enrollments/create_enrollment_from_token/BF9TqSaCvM73PP4ScjhCm4fi){target="_blank"}. Es deckt alles ab, was Sie wissen müssen, von der Erstellung einer Facebook-Seite bis zum Targeting Ihrer Facebook-Anzeigen mithilfe der Ad-Network-Integrationen von Marketo.
+   >Alle Listen, die Sie auf Facebook pushen, werden statisch. Smart-Listen in Marketo aktualisieren die Audience-Liste in Facebook nicht automatisch, um Änderungen widerzuspiegeln, die nach der Übertragung vorgenommen wurden.
 
    >[!MORELIKETHIS]
    >

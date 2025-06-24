@@ -3,9 +3,9 @@ description: 'Schritt 2 von 4: Einrichten der Marketo-Lösung mit der Kennwortko
 title: 'Schritt 2 von 4: Einrichten der Marketo-Lösung mit der Kennwortsteuerungsverbindung für Ressourcenbesitzer'
 exl-id: 41c05910-d8e3-4fb7-8f68-17ee10294e57
 feature: Microsoft Dynamics
-source-git-commit: 2eb61d43f2f470d42e1b50ab8edc99e4e25c23cf
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
-source-wordcount: '446'
+source-wordcount: '445'
 ht-degree: 0%
 
 ---
@@ -74,7 +74,7 @@ Weisen Sie die Rolle Marketo-Synchronisierungsbenutzer nur dem Marketo-Synchroni
 
 >[!IMPORTANT]
 >
->Die Spracheinstellung des Synchronisierungsbenutzers [sollte auf Englisch festgelegt werden](https://portal.dynamics365support.com/knowledgebase/article/KA-01201/en-us){target="_blank"}.
+>Die Spracheinstellung des Synchronisierungsbenutzers [sollte auf Englisch festgelegt werden](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"}.
 
 1. Gehen Sie zurück zur Registerkarte **[!UICONTROL Aktivierte Benutzer]** und aktualisieren Sie die Benutzerliste.
 
@@ -128,7 +128,7 @@ Fast da! Uns bleibt nur noch, die Marketo-Lösung über den neu erstellten Benut
 
    ![](assets/eighteen.png)
 
-1. Klicken Sie auf die Schaltfläche **[!UICONTROL Alle Publish]** Anpassungen.
+1. Klicken Sie auf **[!UICONTROL Schaltfläche Alle Anpassungen]**.
 
    ![](assets/nineteen.png)
 

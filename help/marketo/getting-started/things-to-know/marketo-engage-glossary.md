@@ -4,7 +4,7 @@ short-description: Lernen Sie Marketo Engage-Begriffe und ihre Definitionen kenn
 title: Marketo Engage-Glossar
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
-source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
 source-wordcount: '4065'
 ht-degree: 5%
@@ -244,7 +244,7 @@ Im Folgenden finden Sie Definitionen für viele Begriffe, die bei der Verwendung
    <td colspan="1">Ein Programmtyp in Marketo. Ein generisches Programm, das Sie verwenden, wenn eine E-Mail, ein Ereignis oder ein Interaktionsprogramm nicht relevant ist. <br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Strategie und Definition</strong></td> 
+   <td colspan="1"><strong>Zustellbarkeit</strong></td> 
    <td colspan="1">Die Möglichkeit einer E-Mail-Nachricht, in den Posteingang des vorgesehenen Empfängers zu gelangen, was durch (Spam<strong>- </strong> Client-seitige Filter beeinträchtigt werden kann. Anders als „Zugestellt“, was nur anzeigt, dass die E-Mail an den Empfänger-Server weitergeleitet wurde.</td> 
   </tr> 
   <tr> 
@@ -329,7 +329,7 @@ Im Folgenden finden Sie Definitionen für viele Begriffe, die bei der Verwendung
    <td>Bewerten auf der Grundlage eines proprietären Algorithmus, der Folgendes berücksichtigt: Interaktionsverhalten (<strong>Öffnungen</strong>, <strong>Klicks</strong>, Programmerfolg) und Interaktionsverhalten (Abmeldungen).</td> 
   </tr> 
   <tr> 
-   <td><strong><a href="/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md" rel="nofollow">Veranstaltung</a></strong></td> 
+   <td><strong><a href="/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md" rel="nofollow">Ereignis</a></strong></td> 
    <td>Etwas, das passiert, damit Sie mit Ihren Kunden und potenziellen Kunden kommunizieren können. Offline-Events bestehen in der Regel aus Treffen oder Messen und Online-Events sind in der Regel <strong>Webinare</strong>.</td> 
   </tr> 
   <tr> 
@@ -444,7 +444,7 @@ Im Folgenden finden Sie Definitionen für viele Begriffe, die bei der Verwendung
  <tbody> 
   <tr> 
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md" rel="nofollow"><strong>Bekannte Person</strong></a></td> 
-   <td><p>Personendaten in der Marketo <strong>Datenbank</strong> werden als „Personendaten“ betrachtet. Es gibt verschiedene Möglichkeiten, wie jemand in Ihre Datenbank eintreten kann, darunter: CRM-Synchronisierung, Ausfüllen eines Formulars, Listen-Import/manuelle Eingabe, programmgesteuerte (REST-API-/Partnerintegrationen) und mehr. Web-Besuchende werden zunächst <strong>Cookies</strong> (und anonym) über das Webtracking <strong>Munchkin</strong> von Marketo gespeichert und dann dem entsprechenden Datensatz für bekannte Personen zugeordnet, wenn identifizierbare Aktionen auftreten (z. B. Klicken auf einen verfolgten Link in einer Marketo-E-Mail, Ausfüllen eines Formulars mit ihrer E-Mail-Adresse oder manuelle Zuordnung über die Lead-APIs von Marketo Associate sowohl in der <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking#known-and-anonymous-leads">Munchkin</a>- als auch in der <a href="https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/associateLeadUsingPOST">Rest-API</a></p></td> 
+   <td><p>Personendaten in der Marketo <strong>Datenbank</strong> werden als „Personendaten“ betrachtet. Es gibt verschiedene Möglichkeiten, wie jemand in Ihre Datenbank eintreten kann, darunter: CRM-Synchronisierung, Ausfüllen eines Formulars, Listen-Import/manuelle Eingabe, programmgesteuerte (REST-API-/Partnerintegrationen) und mehr. Web-Besuchende werden zunächst <strong>Cookies</strong> (und anonym) über das Webtracking <strong>Munchkin</strong> von Marketo gespeichert und dann dem entsprechenden Datensatz für bekannte Personen zugeordnet, wenn identifizierbare Aktionen auftreten (z. B. Klicken auf einen verfolgten Link in einer Marketo-E-Mail, Ausfüllen eines Formulars mit ihrer E-Mail-Adresse oder manuelle Zuordnung über die Lead-APIs von Marketo Associate sowohl in der <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking#known-and-anonymous-leads">Munchkin</a>- als auch in der <a href="https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/associateLeadUsingPOST">Rest-API</a></p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -535,7 +535,7 @@ Im Folgenden finden Sie Definitionen für viele Begriffe, die bei der Verwendung
    <td>Auch als MSD bekannt. Eines der beiden CRMs, mit denen Marketo integriert ist, ist nativ (siehe <a href="#c"><strong>CRM</strong></a>).</td> 
   </tr> 
   <tr> 
-   <td><strong><a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking" rel="nofollow">Munchkin</a></strong></td> 
+   <td><strong><a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking" target="_blank">Munchkin</a></strong></td> 
    <td>Marketos benutzerdefinierter JavaScript-Trackingcode. Es verfolgt alle Personen, die Ihre Website besuchen. Dazu gehören anonyme Besucher (zusammen mit ihren IP-Adressen und anderen Informationen). </td> 
   </tr> 
   <tr> 
@@ -696,7 +696,7 @@ Im Folgenden finden Sie Definitionen für viele Begriffe, die bei der Verwendung
    <td colspan="1">Ein in <strong>Revenue Cycle Analytics (RCA) verwendetes Tool</strong> das eine Reihe von Phasen verwendet, mit denen Sie verfolgen können, wo sich Ihr <strong>Lead</strong> zu einem bestimmten Zeitpunkt während Ihrer Konvertierung befindet.</td> 
   </tr> 
   <tr> 
-   <td><strong>Role</strong></td> 
+   <td><strong>Rolle</strong></td> 
    <td>Ein Titel, der einem Benutzer zugewiesen wurde, der eine Reihe von Berechtigungen gruppiert (z. B. Administrator, Marketing-Benutzer).</td> 
   </tr> 
   <tr> 

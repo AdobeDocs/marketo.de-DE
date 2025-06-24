@@ -4,7 +4,7 @@ description: Installieren von Marketo für Microsoft Dynamics 2015 On-Premise - 
 title: Installieren von Marketo für Microsoft Dynamics 2015 On-Premise - Schritt 1 von 3
 exl-id: c9b6d365-15c1-4eff-938c-8433b1fe7f24
 feature: Microsoft Dynamics
-source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
 source-wordcount: '296'
 ht-degree: 1%
@@ -21,7 +21,7 @@ Bevor Sie Microsoft Dynamics 2015 On-Premise mit Marketo Engage synchronisieren 
 
 >[!PREREQUISITES]
 >
->Wenn Sie Microsoft Dynamics On-Premise verwenden, müssen Sie [Internet Facing Deployment](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701){target="_blank"} (IFD) mit [Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} 2.0+ (ADFS) konfiguriert haben. Hinweis: Das IFD-Dokument wird beim Klicken auf den Link automatisch heruntergeladen.
+>Wenn Sie Microsoft Dynamics On-Premise verwenden, müssen Sie [Internet Facing Deployment](https://learn.microsoft.com/en-us/dynamics365/customerengagement/on-premises/deploy/configure-an-internet-facing-deployment){target="_blank"} (IFD) mit [Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} 2.0+ (ADFS) konfiguriert haben. Hinweis: Das IFD-Dokument wird beim Klicken auf den Link automatisch heruntergeladen.
 >
 >[Laden Sie die Marketo-Lead-Management](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}Lösung herunter, bevor Sie beginnen.
 
@@ -31,7 +31,7 @@ Bevor Sie Microsoft Dynamics 2015 On-Premise mit Marketo Engage synchronisieren 
 >
 >Sie benötigen CRM-Administratorrechte, um diese Synchronisierung durchzuführen.
 
-1. Melden Sie sich bei Dynamics an. Klicken Sie auf das Dropdown-**&#x200B;** Microsoft Dynamics CRM und wählen Sie **[!UICONTROL Einstellungen]**.
+1. Melden Sie sich bei Dynamics an. Klicken Sie auf das Dropdown-]****[!UICONTROL  Microsoft Dynamics CRM und wählen Sie **[!UICONTROL Einstellungen]**.
 
    ![](assets/image2015-3-19-8-33-29.png)
 
@@ -83,7 +83,7 @@ Bevor Sie Microsoft Dynamics 2015 On-Premise mit Marketo Engage synchronisieren 
 
    ![](assets/image2015-3-19-8-40-38.png)
 
-1. Wählen Sie die Marketo-Lösung aus und klicken Sie auf **[!UICONTROL Publish - Alle Anpassungen]**.
+1. Wählen Sie die Marketo-Lösung aus und klicken Sie auf **[!UICONTROL Alle Anpassungen veröffentlichen]**.
 
    ![](assets/image2015-3-19-8-41-21.png)
 

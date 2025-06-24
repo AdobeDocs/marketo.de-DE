@@ -4,9 +4,9 @@ description: Schritt 2 von 3 - Synchronisierungsbenutzer für Marketo konfigurie
 title: Schritt 2 von 3 - Synchronisierungsbenutzer für Marketo konfigurieren (2013 On-Premise)
 exl-id: 27c4407e-0623-4ae0-8aa1-0b28c6c5c4f8
 feature: Microsoft Dynamics
-source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
-source-wordcount: '358'
+source-wordcount: '357'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ Weisen Sie die Rolle Marketo-Synchronisierungsbenutzer nur dem Marketo-Synchroni
 
 >[!IMPORTANT]
 >
->Die Spracheinstellung des Synchronisierungsbenutzers [sollte auf Englisch festgelegt werden](https://portal.dynamics365support.com/knowledgebase/article/KA-01201/en-us){target="_blank"}.
+>Die Spracheinstellung des Synchronisierungsbenutzers [sollte auf Englisch festgelegt werden](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"}.
 
 1. Klicken **unter „Einstellungen** auf **Administration**.
 
@@ -83,7 +83,7 @@ Fast fertig! Wir haben nur noch ein paar letzte Konfigurationsschritte, bevor wi
 
    ![](assets/image2014-12-11-11-3a15-3a32.png)
 
-1. Klicken Sie auf **[!UICONTROL Alle Anpassungen von Publish]**.
+1. Klicken Sie **[!UICONTROL Alle Anpassungen veröffentlichen]**.
 
    ![](assets/publish-all-customizations1.png)
 

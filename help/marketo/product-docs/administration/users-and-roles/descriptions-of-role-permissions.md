@@ -4,9 +4,9 @@ description: Beschreibungen der Rollenberechtigungen - Marketo-Dokumente - Produ
 title: Beschreibungen der Rollenberechtigungen
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles
-source-git-commit: c79de5b87d75c26aeec5f8d39252dc303dabeac8
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
-source-wordcount: '1448'
+source-wordcount: '1447'
 ht-degree: 15%
 
 ---
@@ -33,7 +33,7 @@ Einstellungen im Abschnitt Mein Konto von Admin anzeigen und ändern.
 
 * Zugriff auf Adobe Connect : Ermöglicht Benutzenden den Zugriff auf den Adobe Connect-Bildschirm
 * Zugriff auf Adobe Experience Manager&#42; - Ermöglicht Benutzenden den Zugriff auf den Adobe Experience Manager-Bildschirm
-* Zugriff auf die Adobe-Organisationszuordnung&#42; : Ermöglicht Benutzenden Zugriff auf den Bildschirm &quot;Adobe-Organisationszuordnung“
+* Zugriff auf die Adobe-Organisationszuordnung&#42; : Ermöglicht Benutzenden Zugriff auf den Bildschirm für die Adobe-Organisationszuordnung
 * Admin-Audit-Protokoll &#42;: Ermöglicht Benutzenden Zugriff auf den Bildschirm Admin-Audit-Protokoll .
 * Zugriff auf Audit-Protokoll&#42; - Ermöglicht Benutzern Zugriff auf das Audit-Protokoll
 * Zugriff auf Audit-Protokoll - Ermöglicht Benutzenden Zugriff auf Asset-Audit-Protokoll und Admin-Audit-Protokoll
@@ -41,10 +41,10 @@ Einstellungen im Abschnitt Mein Konto von Admin anzeigen und ändern.
 * Zugriff auf Kanäle - Ermöglicht Benutzenden nur Zugriff, um das Kanal-Tag zu ändern, nicht auf andere benutzerdefinierte Tags
 * Kommunikationsbeschränkung - Ermöglicht Benutzenden Zugriff, um eine Kommunikationsbeschränkung in Admin zu aktivieren
 * Zugriff auf CRM : Ermöglicht Benutzenden in Admin Zugriff auf das CRM, z. B. [!DNL Salesforce] oder [!DNL Microsoft Dynamics]
-* [[!DNL Data.com]](https://data.com) - Ermöglicht Benutzern Zugriff auf die Flussaktion Data.com
+* `Data.com` - Ermöglicht Benutzern Zugriff auf die Flussaktion Data.com
 * Zugriff auf E-Mail-Admin : Ermöglicht Benutzenden den Zugriff auf E-Mail-Admin, um Standardeinstellungen wie Abmelde- und Branding-Domains zu ändern
 * Zugriff auf Event-Partner : Ermöglicht Benutzern Zugriff auf LaunchPoint in Admin
-* Zugriff auf die Freigabe einer Experience Cloud-Zielgruppe : Ermöglicht Benutzenden den Zugriff zum Synchronisieren einer Zielgruppe von Adobe Experience Cloud auf Marketo Engage
+* Zugriff auf Experience Cloud-Zielgruppenfreigabe : Ermöglicht Benutzenden den Zugriff zum Synchronisieren einer Zielgruppe von Adobe Experience Cloud mit Marketo Engage
 * Verwaltung von Zugriffsfeldern : Ermöglicht Benutzern Zugriff auf die Verwaltung von Feldern in Admin
 * Zugriff auf den Datei-Upload : Ermöglicht Benutzern das Hochladen von Bildern und Dateien in Design Studio
 * Zugriff auf Landingpages : Ermöglicht Benutzern Zugriff auf Landingpages in Admin
@@ -58,10 +58,10 @@ Einstellungen im Abschnitt Mein Konto von Admin anzeigen und ändern.
 * Zugriff auf prädiktive &#42;: Ermöglicht Benutzern Zugriff auf den Bildschirm Prädiktive Zielgruppen .
 * Zugriff auf die Analyse des Umsatzzyklus : Ermöglicht Benutzern den Zugriff auf die Analyse des Umsatzzyklus in Admin, um die Synchronisierungszusammenfassung und -zuordnung festzulegen
 * Zugriffsrollen - Ermöglicht Benutzenden Zugriff zum Verwalten und Bearbeiten von Rollen, jedoch nicht Benutzern
-* Zugriff auf Sales Insights : Ermöglicht Benutzern den Zugriff zur Verwaltung von Sales Insights in Admin, um Status, API-Konfiguration, Personen-Scoring und andere Einstellungen festzulegen
+* Zugriff auf Sales Insight : Ermöglicht Benutzenden die Verwaltung von Sales Insight in Admin, um Status, API-Konfiguration, Personen-Scoring und andere Einstellungen festzulegen
 * Zugriff Single Sign-on : Ermöglicht Benutzenden Zugriff zur Verwaltung von Single Sign-on als Administrator, zur Aktivierung von SAML und zum Arbeiten mit SAML-Einstellungen und URLs von Umleitungsseiten
 * Zugriff auf intelligente Kampagnen - Ermöglicht Benutzenden Zugriff auf intelligente Kampagnen in Admin, um die Anzahl qualifizierter Personen zu begrenzen
-* Zugriff auf SOAP-API - Ermöglicht Benutzern den Zugriff auf die Verwaltung von SOAP-APIs in Web Services in Admin
+* Zugriff auf die SOAP-API - Ermöglicht Benutzenden den Zugriff, SOAP-APIs in Web Services in Admin zu verwalten
 * Zugriff auf Tags - Ermöglicht Benutzenden Zugriff auf alle benutzerdefinierten Tags mit Ausnahme des Kanal-Tags
 * Zugriff auf die Schatztruhe - Ermöglicht Benutzern Zugriff auf die experimentellen Funktionen der Schatztruhe in Admin
 * Auf Benutzer zugreifen : Ermöglicht Benutzern das Bearbeiten und Verwalten von Benutzern (nicht jedoch von Rollen) in der Admin Console
@@ -110,9 +110,9 @@ _&#42;Um eine Unterbrechung für bestehende Benutzer zu vermeiden, wird diese Be
 
 ## Auf Kalenderpräsentationen zugreifen {#access-calendar-presentations}
 
-Ermöglicht Benutzenden Zugriff auf Kalenderpräsentationen - Aktiviert die Anzeige der Schaltfläche &quot;Presentations&quot; unten.
+Ermöglicht Benutzenden Zugriff auf Kalenderpräsentationen - Aktiviert die Anzeige der Schaltfläche „Präsentationen“ unten.
 
-* Kalender bearbeiten Presentations - Ermöglicht Benutzern das Bearbeiten von Präsentationen im Kalender
+* Kalenderpräsentationen bearbeiten - Ermöglicht Benutzern das Bearbeiten von Präsentationen im Kalender
 
 ## Auf Design-Studio zugreifen {#access-design-studio}
 
@@ -146,7 +146,7 @@ Ermöglicht Benutzenden den Zugriff auf die Registerkarte „Design Studio“ un
 * Auf Landing Page zugreifen
 
    * Landing Page genehmigen
-   * Landing Page löschen
+   * Landingpage löschen
    * Landingpage bearbeiten - Landingpages bearbeiten, erstellen und klonen
 
 * Auf Landing Page-Vorlage zugreifen

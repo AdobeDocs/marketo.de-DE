@@ -4,7 +4,7 @@ description: Hinzufügen von Single Sign-on zu einem Portal - Marketo-Dokumente 
 title: Hinzufügen von Single Sign-On zu einem Portal
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: 573a40c7d2ee7329d82d209bfefc284497295239
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
 source-wordcount: '606'
 ht-degree: 0%
@@ -25,11 +25,11 @@ Sobald SSO aktiviert ist, kann der IdP die Anmeldeinformationen eines Benutzers 
 
 >[!IMPORTANT]
 >
->Dies gilt nicht für Abonnements, die in Adobe Identity integriert sind. Bei Abonnements, die in Adobe Identity integriert sind, wird Single Sign-On auf Adobe-Org-Ebene in Adobe Admin Console eingerichtet. Adobe Admin Console unterstützt derzeit nur SP-initiierte . [Weitere Informationen finden Sie hier](https://helpx.adobe.com/de/enterprise/using/set-up-identity.html){target="_blank"}.
+>Dies gilt nicht für Abonnements, die in Adobe Identity integriert wurden. Für Abonnements, die in Adobe Identity integriert sind, wird Single Sign-On auf Adobe-Organisationsebene in Adobe Admin Console eingerichtet. Adobe Admin Console unterstützt derzeit nur SP-initiierte . [Weitere Informationen finden Sie hier](https://helpx.adobe.com/de/enterprise/using/set-up-identity.html){target="_blank"}.
 
 >[!NOTE]
 >
->Benutzt du [!DNL Microsoft Azure]? Sehen Sie sich das [Integrations-Tutorial](https://azure.microsoft.com/en-us/documentation/articles/active-directory-saas-marketo-tutorial/){target="_blank"} an. Zu Ihrer Information: In Schritt 5c des Tutorials gibt es einen Tippfehler. Bitte den Relaisstatus auf `https://<munchkinid>.mktoweb.com` setzen, **_nicht_** `https://<munchkinid>.marketo.com`.
+>Benutzt du [!DNL Microsoft Azure]? Sehen Sie sich das [Integrations-Tutorial](https://learn.microsoft.com/en-us/entra/identity/saas-apps/marketo-tutorial){target="_blank"} an. Zu Ihrer Information: In Schritt 5c des Tutorials gibt es einen Tippfehler. Bitte den Relaisstatus auf `https://<munchkinid>.mktoweb.com` setzen, **_nicht_** `https://<munchkinid>.marketo.com`.
 
 ## So senden Sie die Anfrage {#how-to-send-the-request}
 
