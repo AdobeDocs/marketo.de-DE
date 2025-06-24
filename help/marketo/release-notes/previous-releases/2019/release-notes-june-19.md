@@ -4,10 +4,10 @@ description: Versionshinweise - 19. Juni - Marketo-Dokumente - Produktdokumentat
 title: Versionshinweise - Juni '19
 exl-id: 292710f4-0072-4355-93c1-115c9b0ef723
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '639'
-ht-degree: 2%
+source-wordcount: '616'
+ht-degree: 0%
 
 ---
 
@@ -30,7 +30,7 @@ Die folgenden Funktionen wurden am 14. Juni 2019 veröffentlicht.
 
 ## Kundenbezogenes Marketing {#account-based-marketing}
 
-* **LinkedIn Account Matching (BETA)** : Eine neue ABM-Funktion ist jetzt in der Beta-Phase verfügbar, mit der Sie Listen bekannter Konten und Leerzeichen-Konten direkt von Marketo an LinkedIn senden können. Diese Funktion ist automatisch für alle Marketo ABM-Kunden enthalten.
+* **[!DNL LinkedIn]Account Matching (BETA)** : Eine neue ABM-Funktion ist jetzt in der Beta-Phase verfügbar und bietet Ihnen die Möglichkeit, Listen bekannter und Leerraum-Konten direkt von Marketo an LinkedIn zu senden. Diese Funktion ist automatisch für alle Marketo ABM-Kunden enthalten.
 
 <br> 
 
@@ -38,9 +38,9 @@ Die folgenden Funktionen wurden am 14. Juni 2019 veröffentlicht.
 
 Die folgenden Funktionen werden voraussichtlich im zweiten Kalenderquartal und bis zum Beginn des dritten Quartals 2019 veröffentlicht.
 
-## Marketo Sky {#marketo-sky}
+## [!DNL Marketo Sky] {#marketo-sky}
 
-* **Event Caps** und **Event Goals** sind allgemein als Marketo Sky unter dem Premium Events Add-on verfügbar.
+* **Ereignisbegrenzungen** und **Ereignisziele** sind im Allgemeinen in [!DNL Marketo Sky] unter dem Premium-Ereignis-Add-on verfügbar.
 
    * Event-Caps: Optimieren Sie das Kundenerlebnis für Ihre Veranstaltungen und Webinare mit Registrierungs-Caps, Seitenumleitungen und Wartelistenfunktionen.
    * Veranstaltungsziele: Legen Sie Veranstaltungsregistrierungs- und -teilnahmeziele fest und verfolgen Sie den Fortschritt in Echtzeit.
@@ -53,19 +53,19 @@ Die folgenden Funktionen werden voraussichtlich im zweiten Kalenderquartal und b
 * **Weitere Smart List Cards**: Segmentieren und ansprechen Sie sie entsprechend mit zusätzlichen Smart List Cards, einschließlich des Flussschritts „Aufgabe erstellen“, CRM-Smart List-Regeln und mehr.
 * **E-Mail-Champion/Challenger-Detailseite**: Sehen Sie Daten wie Gewinnkriterien, Erstellt in usw. von Ihren E-Mail-Champion-/Challenger-Tests.
 
-## Marketo Sales Connect {#marketo-sales-connect}
+## Marketo [!DNL Sales Connect] {#marketo-sales-connect}
 
-* **Massenaktionen bei der Anpassung von Salesforce**: Maximieren Sie die Produktivität, indem Sie E-Mails senden und Kontakte per Salesforce-Anpassung stapelweise zu Kampagnen hinzufügen.
-* **Einstellungen - Salesforce-Seite für Administratoren und Nicht-Administratoren**: Verwalten Sie Ihre Sales Connect-Instanz mit einer besseren Übersicht über die Salesforce-Instanz, die mit Sales Connect verbunden ist, sowie über Meine E-Mail an Salesforce-Updates. Die erweiterten Synchronisierungseinstellungen für Admins, Nicht-Admins und Team Wide Sync werden in den kommenden Monaten veröffentlicht.
+* **Massenaktionen bei der [!DNL Salesforce]-Anpassung**: Maximieren Sie die Produktivität, indem Sie E-Mails senden und Kontakte per [!DNL Salesforce]-Anpassung stapelweise zu Kampagnen hinzufügen.
+* **Einstellungen - [!DNL Salesforce] für Administratoren und Nicht-Administratoren**: Verwalten Sie Ihre [!DNL Sales Connect]-Instanz mit einer klaren Ansicht der mit [!DNL Sales Connect] verbundenen [!DNL Salesforce]-Instanz sowie Meine E-Mail, um Aktualisierungen zu [!DNL Salesforce]. Die erweiterten Synchronisierungseinstellungen für Admins, Nicht-Admins und Team Wide Sync werden in den kommenden Monaten veröffentlicht.
 * **Einstellungen - Integrationsseite**: Eine zentrale Anlaufstelle für all Ihre Integrationen, damit Sie unser offenes Ökosystem optimal nutzen können.
 * **Einstellungen - Profilseite**: Zeigen Sie Ihre Kontodetails an, aktualisieren Sie sie, ändern Sie Ihr Passwort und überprüfen Sie den Status der Implementierung Ihrer Instanz auf dieser neuen Profilseite.
 
 * **System-E-**: Aktualisiertes Design, verbesserte Reaktionsfähigkeit und Internationalisierungsfunktionen.
 
-## Bizible von Marketo {#bizible-by-marketo}
+## [!DNL Bizible] von Marketo {#bizible-by-marketo}
 
-* **Unterstützung mehrerer Währungen für Dynamics**: Bizible passt sich jetzt den Microsoft Dynamics-Währungstabellen an, sodass Sie einfach zwischen Unternehmens- und Landeswährung wechseln können. (Hinweis: Die Unterstützung für SFDC wurde im 1. Quartal 2019 veröffentlicht.)
-* **Drift-Integration**: Erfahren Sie, wie sich Drift-Unterhaltungen auf den Journey Ihres Kunden auswirken. Bizible ruft auch E-Mail-Adressen aus Gesprächen ab, um entweder einen neuen Lead zu erstellen oder den Touchpoint mit einem bestehenden Lead zu verbinden.
-* **Lokalisierung**: Bizible ist jetzt in allen von Marketo unterstützten Sprachen verfügbar (Englisch, Japanisch, Deutsch, Spanisch, Französisch und Portugiesisch).
+* **Unterstützung mehrerer Währungen für[!DNL Dynamics]**: [!DNL Bizible] passt sich jetzt [!DNL Microsoft Dynamics] Währungstabellen an, sodass Sie einfach zwischen Unternehmens- und lokalen Währungen wechseln können. (Hinweis: Die Unterstützung für SFDC wurde im 1. Quartal 2019 veröffentlicht.)
+* **Drift-Integration**: Erfahren Sie, wie sich Drift-Unterhaltungen auf den Journey Ihres Kunden auswirken. [!DNL Bizible] werden auch E-Mail-Adressen aus Konversationen abrufen, um entweder einen neuen Lead zu erstellen oder den Touchpoint mit einem vorhandenen Lead zu verbinden.
+* **Lokalisierung**: [!DNL Bizible] ist jetzt in allen von Marketo unterstützten Sprachen verfügbar (Englisch, Japanisch, Deutsch, Spanisch, Französisch und Portugiesisch).
 
 ***Webinar zur Produktversion*** Sehen Sie sich die Aufzeichnung unseres Webinars mit den Versionsinnovationen vom 19. Juni [hier](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html) an.

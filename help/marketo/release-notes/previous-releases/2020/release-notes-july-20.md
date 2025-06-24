@@ -4,10 +4,10 @@ description: Versionshinweise - 20. Juli - Marketo-Dokumente - Produktdokumentat
 title: Versionshinweise - Juli '20
 exl-id: 3c9b1f1d-961c-4bf8-8b99-37b483230506
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '659'
-ht-degree: 1%
+source-wordcount: '629'
+ht-degree: 0%
 
 ---
 
@@ -17,7 +17,7 @@ Die folgenden Funktionen sind in der Version vom Juli 2020 enthalten. Überprüf
 
 >[!AVAILABILITY]
 >
->Bitte beachten Sie, dass je nach aktuellem Paket für Artikel mit einem Stern ( ![(Stern)](assets/yellow-star.png) der Kauf eines Mehrwert-Add-ons erforderlich sein kann. Weitere Informationen erhalten Sie von Ihrem Marketo Engage-Support-Mitarbeiter.
+>Bitte beachten Sie, dass je nach aktuellem Paket für Artikel mit einem Stern ( ![(Stern)](assets/yellow-star.png) der Kauf eines Mehrwert-Add-ons erforderlich sein kann. Weitere Informationen erhalten Sie vom Marketo Engage-Support.
 
 **_Vierteljährliche Versionen_** Die folgenden Funktionen werden am 31. **2020 veröffentlicht**.
 
@@ -45,13 +45,13 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 
 * **Erhöhte Größenbeschränkung für Asset-API-URI**: Die Größenbeschränkung für den Uniform Resource Identifier (URI) wird von 8 KB auf 65 KB erhöht, bevor der Parameter „_method“ entfernt wird. Bei der Durchführung langer Abfragezeichenfolgen ermöglicht diese Größenbeschränkung eine einfachere Weitergabe der Daten. Das Entfernen des Parameters „_method“ ist Teil eines bevorstehenden Sicherheits-Upgrades.
 
-## Sales Insight {#sales-insight}
+## [!DNL Sales Insight] {#sales-insight}
 
 ![(Stern)](assets/yellow-star.png)
 
-* **[Sales Insight aktiviert für Kunden mit nicht-nativer Salesforce CRM-Integration](/help/marketo/product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md) (Beta)**: Marketo Engage-Kunden mit nicht-nativen Salesforce CRM-Integrationen können jetzt Sales Insight verwenden, um ihre Vertriebsteams dabei zu unterstützen, die aktivsten Leads und Chancen zu verstehen, zu priorisieren und mit ihnen zu interagieren, um smartes Verkaufen und schnellere Angebote zu ermöglichen.
+* **[[!DNL Sales Insight] Für Kunden mit nicht-nativer CRM [!DNL Salesforce] Integration](/help/marketo/product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md) (Beta)**: Marketo Engage-Kunden mit nicht-nativen [!DNL Salesforce] CRM-Integrationen können jetzt [!DNL Sales Insight] verwenden, um ihren Vertriebsteams zu helfen, die aktivsten Leads und Chancen zu verstehen, zu priorisieren und mit ihnen zu interagieren, um intelligentes Verkaufen und schnellere Angebote zu ermöglichen.
 
-## Sales Connect {#sales-connect}
+## [!DNL Sales Connect] {#sales-connect}
 
 ![(Stern)](assets/yellow-star.png)
 
@@ -61,8 +61,8 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 
 ## Ankündigungen und Veraltungen {#announcements-deprecations}
 
-* **Entfernen von Asset-API-Parametern „_method“**: Nach September 2020 akzeptieren Asset-API-Endpunkte keine „_method“ mehr zum Übergeben von Abfrageparametern in einem POST-Hauptteil, um URI-Längenbeschränkungen zu umgehen. Um Anfragen nachzukommen, für die dieser Parameter erforderlich ist, werden die URI-Beschränkungen für Asset-APIs von 8 KB auf 65 KB erhöht.
-* **[Munchkin Associate-Lead](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/)**: Mit dieser Version des Munchkin JavaScript-Clients, Version 159, werden wir die Lead-Methode von Munchkin Associate einstellen. Wenn aufgerufen wird, erhalten Sie einen Warnhinweis, dass die Methode in einer zukünftigen Version entfernt wird. Nach dem Entfernen ist die Methode nicht mehr funktionsfähig und Versuche, sie zu verwenden, schlagen fehl. Marketo Engage-Kunden, die diese Methode kürzlich verwendet haben, werden einzeln über ihre Verwendung informiert.
-* **Unterstützung für Internet Explorer**: Wie bereits angekündigt, endet die Marketo Engage-Unterstützung für Internet Explorer 11 am **31. Juli 2020**. Wir werden weiterhin Google Chrome, Mozilla Firefox, Apple Safari und Microsoft Edge unterstützen.
-* **Sky Default Experience**: Die Option für Administratoren oder Benutzer, Marketo Sky als Standarderlebnis festzulegen, wird in dieser Version entfernt, um eine Aktualisierung des Primärbenutzererlebnisses vorzubereiten. Weitere Informationen zur Aktualisierung des primären Erlebnisses, die für später in diesem Jahr geplant ist, werden im Juli verfügbar sein. Benutzende, die Marketo Sky als Standarderlebnis festgelegt haben oder Zugriff auf Marketo Sky erhalten haben, können weiterhin über eine Kachel auf der Startseite von My Marketo auf Marketo Sky zugreifen.
-* **EdgeHTML-(Nicht-Chromium) Microsoft Edge-Unterstützung**: Marketo Engage wird Ende 2020 keine EdgeHTML-Versionen von Microsoft Edge mehr unterstützen. Ab dem 1. Januar 2021 unterstützen wir nur die neueste Chromium-Version von Microsoft Edge.
+* **Entfernen von Asset-API-Parametern „_method“**: Nach September 2020 akzeptieren Asset-API-Endpunkte keine „_method“ mehr zum Übergeben von Abfrageparametern in einem POST-Text, um URI-Längenbeschränkungen zu umgehen. Um Anfragen nachzukommen, für die dieser Parameter erforderlich ist, werden die URI-Beschränkungen für Asset-APIs von 8 KB auf 65 KB erhöht.
+* **[[!DNL Munchkin] Lead verknüpfen](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/)**: Mit dieser Version des Munchkin JavaScript-Clients, Version 159, werden wir die [!DNL Munchkin] Associate-Lead-Methode einstellen. Wenn aufgerufen wird, erhalten Sie einen Warnhinweis, dass die Methode in einer zukünftigen Version entfernt wird. Nach dem Entfernen ist die Methode nicht mehr funktionsfähig und Versuche, sie zu verwenden, schlagen fehl. Marketo Engage-Kunden, die diese Methode kürzlich verwendet haben, werden einzeln über ihre Verwendung benachrichtigt.
+* **Unterstützung für Internet Explorer**: Wie bereits angekündigt, endet die Marketo Engage-Unterstützung für Internet Explorer 11 am **. Juli 2020**. Wir werden [!DNL Google Chrome], [!DNL Mozilla Firefox], [!DNL  Apple Safari] und [!DNL Microsoft Edge] weiterhin unterstützen.
+* **Sky Default Experience**: Die Option für Administratoren oder Benutzer, [!DNL Marketo Sky] als Standarderlebnis festzulegen, wird in dieser Version entfernt, um eine Aktualisierung des primären Benutzererlebnisses vorzubereiten. Weitere Informationen zur Aktualisierung des primären Erlebnisses, die für später in diesem Jahr geplant ist, werden im Juli verfügbar sein. Benutzer, die [!DNL Marketo Sky] als Standarderlebnis festgelegt haben oder Zugriff auf [!DNL Marketo Sky] erhalten haben, können weiterhin über eine Kachel auf der Startseite von My Marketo auf [!DNL Marketo Sky] zugreifen.
+* **EdgeHTML (nicht-Chromium) [!DNL Microsoft Edge] Unterstützung**: Marketo Engage wird Ende 2020 keine EdgeHTML-Versionen von Microsoft Edge mehr unterstützen. Ab dem 1. Januar 2021 unterstützen wir nur die neueste Chromium-Version von Microsoft Edge.

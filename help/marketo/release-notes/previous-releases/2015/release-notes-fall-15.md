@@ -4,10 +4,10 @@ description: Versionshinweise - Herbst 2015 - Marketo-Dokumentation - Produktdok
 title: Versionshinweise - Herbst 2015
 exl-id: b8a43086-a4d8-432d-89ac-14c75c6f0609
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '999'
-ht-degree: 2%
+source-wordcount: '967'
+ht-degree: 1%
 
 ---
 
@@ -41,17 +41,17 @@ Einfaches Erstellen benutzerdefinierter Objekte über die Admin-Benutzeroberflä
 
 ![](assets/image2015-10-1-13-3a55-3a21.png)
 
-## Marketo Insights für Google Chrome {#marketo-insights-for-google-chrome}
+## Marketo Insights für [!DNL Google Chrome] {#marketo-insights-for-google-chrome}
 
-[Marketo Insights für Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
+[Marketo Insights für [!DNL Google Chrome]](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
 
-Wir freuen uns, die Veröffentlichung eines Updates für unsere Google Mail Sales Insight-Erweiterung bekannt geben zu können! Sie finden sie im [Chrome Store](https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb).
+Wir freuen uns, die Veröffentlichung eines Updates für unsere [!DNL Google Mail] [!DNL Sales Insight]-Erweiterung bekannt geben zu können! Sehen Sie es sich in der [[!DNL Chrome Store]](https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb) an.
 
 Dieses Update enthält viele neue Funktionen:
 
-* Vor der Kontaktaufnahme können Vertriebsmitarbeiter direkt in Google Mail relevante Informationen über ihre potenziellen Kunden sehen, darunter Berufsbezeichnungen, twitter-Profile, Unternehmensinformationen, Fotos und mehr.
+* Vor der Kontaktaufnahme können Vertriebsmitarbeiter relevante Informationen über ihre potenziellen Kunden direkt in [!DNL Google Mail] sehen, einschließlich Stellenbezeichnungen, Twitter-Profile, Unternehmensinformationen, Fotos und mehr.
 * Vertriebsmitarbeiter können in Echtzeit sehen, mit welchen Inhalten Interessenten kanalübergreifend interagieren, wie z. B. geöffnete oder angeklickte E-Mails, Online- oder persönliche Veranstaltungen, besuchte Webseiten, heruntergeladene eBooks und vieles mehr.
-* E-Mails, die über Google Mail gesendet werden, werden in Marketo protokolliert und in Echtzeit verfolgt. Auf diese Weise können Vertriebsmitarbeiter sehen, wann potenzielle Kunden ihre E-Mails ansehen, damit sie genau zur richtigen Zeit nachfassen können. Marketo Sales Insight für Google Mail erleichtert es Vertriebsmitarbeitern außerdem, von Marketing-Experten erstellte Vorlagen zu nutzen, um wunderschöne Einladungen, Angebote und andere Inhaltstypen zu versenden.
+* E-Mails, die über [!DNL Google Mail] gesendet werden, werden in Marketo protokolliert und in Echtzeit verfolgt. Auf diese Weise können Vertriebsmitarbeiter sehen, wann potenzielle Kunden ihre E-Mails ansehen, damit sie genau zur richtigen Zeit nachfassen können. Marketo [!DNL Sales Insight] for [!DNL Google Mail] erleichtert es Vertriebsmitarbeitern außerdem, von Marketing-Experten erstellte Vorlagen zu nutzen, um aussagekräftige Einladungen, Angebote und andere Inhaltstypen zu versenden.
 
 ![](assets/image2015-10-2-14-3a47-3a53.png)
 
@@ -86,7 +86,7 @@ Statistiken zu E-Mails, die über Smart Campaign gesendet werden, sind jetzt in 
 
 ## RTP - Content Analytics und Recommendations {#rtp-content-analytics-and-recommendations}
 
-[Inhaltsanalyse](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) und Recommendations
+[Content Analytics](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) und Recommendations
 
 RTP Content Analytics zeigt die Performance Ihrer Web-Content-Assets durch regelmäßige Web-Besuche sowie durch Besuche, die von der Content Recommendation-Engine von RTP generiert werden.
 
@@ -96,8 +96,8 @@ RTP Content Analytics zeigt die Performance Ihrer Web-Content-Assets durch regel
 
 Die Assets-Seite von RTP ist jetzt in Content Analytics und Content Recommendations unterteilt.
 
-* **Inhaltsanalyse:** Zeigt die Ansichten und direkten Leads aller erkannten und definierten Web-Inhalte an und hilft Ihnen bei der Analyse Ihrer Inhalte mit der besten Leistung
-* **Content Recommendations**: Zeigt Impressionen und Klicks aus dem empfohlenen Inhalt von RTP und der zugehörigen Lead-Attribution an. Sie können Inhaltsempfehlungen auch auf dieser Seite für die Empfehlungen [Leiste](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md) und [Rich-Media](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md) bearbeiten und aktivieren.
+* **Content Analytics:** Zeigt die Ansichten und direkten Leads aller erkannten und definierten Web-Inhalte an und hilft Ihnen bei der Analyse Ihrer Inhalte mit der besten Leistung
+* **Inhaltsempfehlungen**: Zeigt Impressionen und Klicks aus dem empfohlenen Inhalt von RTP und der zugehörigen Lead-Attribution an. Sie können Inhaltsempfehlungen auch auf dieser Seite für die Empfehlungen [Leiste](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md) und [Rich-Media](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md) bearbeiten und aktivieren.
 
 * Alle direkten Lead-Daten auf diesen beiden Seiten wurden seit Jahresbeginn (1. Januar 2015) rückwirkend aktualisiert.
 
@@ -127,7 +127,7 @@ Der Rich-Text-Editor wird derzeit in mehreren Punkten verbessert. Nach der Verö
 
 * Leere Tabellenzellen nicht mit `&nbsp;` auffüllen
 
-* Schaltfläche Maximieren/Minimieren zum HTML-Quell-Editor hinzugefügt
+* Schaltfläche „Maximieren/Minimieren“ zum HTML-Quell-Editor hinzugefügt
 * Bereits vorhandene Tabelleneigenschaften werden jetzt im Dialogfeld Tabelleneigenschaften identifiziert und angezeigt
 * Standardmäßig werden nun beide Schaltflächenzeilen angezeigt.
 * Der Editor akzeptiert jetzt alle Elemente (selbst veraltete oder nicht standardmäßige Elemente):
@@ -141,9 +141,9 @@ Der Rich-Text-Editor wird derzeit in mehreren Punkten verbessert. Nach der Verö
 <td background="someImage.png"> 
 ```
 
-## Microsoft Dynamics - Synchronisierung validieren {#microsoft-dynamics-validate-sync}
+## [!DNL Microsoft Dynamics] - Synchronisierung validieren {#microsoft-dynamics-validate-sync}
 
-[Microsoft Dynamics - Synchronisierung validieren](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
+[[!DNL Microsoft Dynamics] - Synchronisierung validieren](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
 
 Dieses neue Admin-Tool führt eine Reihe von Prüfungen durch, um festzustellen, ob Ihre Synchronisierungskonfigurationen korrekt eingerichtet wurden.
 
@@ -151,7 +151,7 @@ Dieses neue Admin-Tool führt eine Reihe von Prüfungen durch, um festzustellen,
 
 ## Felder zur Synchronisierung benutzerdefinierter CRM-Objekte hinzufügen {#add-fields-to-crm-custom-object-sync}
 
-Einfaches Hinzufügen neuer Felder zu benutzerdefinierten Objekten, die mit Salesforce und Dynamics synchronisiert werden. Sie können jetzt neue Felder zu Ihrer benutzerdefinierten Objektsynchronisierung hinzufügen, ohne Ihr gesamtes benutzerdefiniertes Objekt zu deaktivieren und zu aktivieren.
+Einfaches Hinzufügen neuer Felder zu benutzerdefinierten Objekten, die mit [!DNL Salesforce] und [!DNL Dynamics] synchronisiert werden. Sie können jetzt neue Felder zu Ihrer benutzerdefinierten Objektsynchronisierung hinzufügen, ohne Ihr gesamtes benutzerdefiniertes Objekt zu deaktivieren und zu aktivieren.
 
 ## Änderungen an Sicherheitsfunktionen {#changes-to-security-features}
 
@@ -162,13 +162,13 @@ Einfaches Hinzufügen neuer Felder zu benutzerdefinierten Objekten, die mit Sale
 
 ## IE 11-Unterstützung (und veraltete Unterstützung für IE 9) {#ie-support-and-deprecating-support-for-ie}
 
-Wir unterstützen jetzt offiziell den Microsoft Internet Explorer 11-Browser und entfernen die Unterstützung für den Microsoft Internet Explorer 9-Browser.
+Wir unterstützen jetzt offiziell den [!DNL Microsoft Internet Explorer] 11-Browser und entfernen die Unterstützung für den [!DNL Microsoft Internet Explorer] 9-Browser.
 
 ## Unterstützung der Lightning-Benutzeroberfläche für MSI {#lightning-ui-support-for-msi}
 
-Das neueste MSI-Paket in App Exchange funktioniert sowohl mit Lightning- als auch mit Legacy-Versionen der Salesforce-Benutzeroberfläche.
+Das neueste MSI-Paket in App Exchange funktioniert sowohl mit Lightning- als auch mit Legacy-Versionen der [!DNL Salesforce]-Benutzeroberfläche.
 
-## Neues Dynamics-Plug-in {#new-dynamics-plug-in}
+## Neues [!DNL Dynamics]-Plug-in {#new-dynamics-plug-in}
 
 Dieses neue Plug-in führt verschiedene Aktionen asynchron aus, um die Leistung zu steigern.
 

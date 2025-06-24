@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2951101
 description: März 2013 - Marketo-Dokumentation - Produktdokumentation
-title: März 2013 – Versionshinweise
+title: Versionshinweise – März 2013
 exl-id: 4036380a-c4a1-44be-8bf3-87253181e5c8
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
 source-wordcount: '230'
-ht-degree: 4%
+ht-degree: 2%
 
 ---
 
@@ -35,7 +35,7 @@ Ein Gewinnspiel gibt Ihren Leads die Chance, einen Preis zu gewinnen und ihre Fr
 
 ![](assets/image2014-9-22-15-3a36-3a55.png)
 
-## Neue Sprachen für Formularfehler-Meldungen {#additional-form-error-message-languages}
+## Zusätzliche [!UICONTROL  (Fehlermeldung] Sprachen {#additional-form-error-message-languages}
 
 Mehr als ein Dutzend Sprachen wurden zu den Formularfehlermeldungen hinzugefügt!
 

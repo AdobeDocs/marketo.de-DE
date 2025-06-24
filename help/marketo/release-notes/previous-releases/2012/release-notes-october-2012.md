@@ -4,9 +4,9 @@ description: Oktober 2012 - Marketo-Dokumentation - Produktdokumentation
 title: Oktober 2012 – Versionshinweise
 exl-id: 60ad7d45-ddf6-4f0c-a0c6-5f5a9bdc2998
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '352'
 ht-degree: 2%
 
 ---
@@ -47,14 +47,14 @@ Finden Sie heraus, wer Ihre Inhalte und Ihre Stimme in Ihren Umfragen geteilt ha
 
 ## Soziale Profile {#social-profiles}
 
-Sie können jetzt Informationen über Ihre Leads sammeln, wenn diese Inhalte teilen oder Formulare mithilfe ihrer Social-Media-Profile ausfüllen. Dazu gehören Facebook-, LinkedIn- und Twitter-Handles, die Anzahl der Freunde, die sie haben, und mehr.
+Sie können jetzt Informationen über Ihre Leads sammeln, wenn diese Inhalte teilen oder Formulare mithilfe ihrer Social-Media-Profile ausfüllen. Dazu gehören [!DNL Facebook]-, [!DNL LinkedIn]- und [!DNL Twitter]-Griffe, die Anzahl der Freunde und mehr.
 
-## Abonnements für den Revenue Explorer-Bericht {#revenue-explorer-report-subscriptions}
+## [!UICONTROL Revenue Explorer] Berichtsabonnements {#revenue-explorer-report-subscriptions}
 
-Erstellen Sie Berichtsabonnements und senden Sie regelmäßig Revenue Explorer-Berichte an Ihre wichtigsten Stakeholder, einschließlich Nicht-Marketo-Benutzender. Die E-Mail enthält eine Vorschau Ihrer Berichtsdatentabelle oder Berichtsdiagramme sowie eine Excel-Tabelle mit allen Berichtsdaten.
+Erstellen Sie Berichtsabonnements und senden Sie [!UICONTROL Revenue Explorer]-Berichte regelmäßig an Ihre wichtigsten Stakeholder, einschließlich Nicht-Marketo-Benutzender. Die E-Mail enthält eine Vorschau Ihrer Berichtsdatentabelle(n) und eine [!DNL Excel] Tabelle mit allen Berichtsdaten.
 
 ![](assets/image2014-9-23-10-3a47-3a33.png)
 
 >[!NOTE]
 >
->Nur für Benutzer verfügbar, die Revenue Explorer haben, indem sie Revenue Cycle Analytics mit Enterprise oder Select Edition erwerben.
+>Nur für Benutzer verfügbar, die [!UICONTROL Umsatz-Explorer] durch den Kauf von Umsatzzyklusanalysen mit Enterprise oder Select Edition haben.

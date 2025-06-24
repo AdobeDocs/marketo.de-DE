@@ -3,10 +3,9 @@ unique-page-id: 11384018
 description: Versionshinweise - Herbst '16 - Marketo-Dokumente - Produktdokumentation
 title: Versionshinweise - Herbst '16
 exl-id: da935951-162e-426c-acf2-12c55ff706b4
-feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 2b72932606a93d061eb2f57c0ff3256b94a0c20c
 workflow-type: tm+mt
-source-wordcount: '661'
+source-wordcount: '651'
 ht-degree: 1%
 
 ---
@@ -15,9 +14,9 @@ ht-degree: 1%
 
 Die folgenden Funktionen sind in der Version vom Herbst 16 enthalten. Überprüfen Sie Ihre Marketo Edition auf die Verfügbarkeit der Funktionen. Bitte klicken Sie auf die Titel-Links, um detaillierte Artikel für jede Funktion anzuzeigen.
 
-## Prädiktiver Inhalt in E-Mails {#predictive-content-in-email}
+## [!UICONTROL Prädiktiver Inhalt] in E-Mails {#predictive-content-in-email}
 
-Mit unserem Programm für prädiktive Inhalte erhalten Sie ein neues Benutzererlebnis, um Ihre Inhalte mithilfe unseres maschinellen Lernens und unserer prädiktiven Algorithmen im Web und in E-Mail-Kanälen zu verfolgen, zu verwalten und zu empfehlen.
+Mit unserem Programm [!UICONTROL Predictive Content] können Sie Ihre Inhalte über maschinelles Lernen und Prognosealgorithmen im Web und in E-Mail-Kanälen verfolgen, verwalten und empfehlen.
 
 >[!NOTE]
 >
@@ -31,7 +30,7 @@ Sie können Ihrer E-Mail jetzt prädiktive Inhalte hinzufügen. Wenn die E-Mail 
 
 ## [Facebook Offline-Conversions](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md) {#facebook-offline-conversions}
 
-Bei der Integration von Facebook-Offline-Konversionen werden Konversionsdaten in Marketo (für Lead-Anzeigen-Leads) automatisch an Facebook zurückgesendet, damit Ihr Werbe-Team seine Werbeausgaben besser optimieren kann. In diesem Facebook Ad Manager-Bericht sind die Offline-Konversionen hervorgehoben.
+Mit [!DNL Facebook] Integration von Offline-Konversionen werden Konversionsdaten in Marketo (für Lead-Anzeigen-Leads) automatisch an [!DNL Facebook] zurückgesendet, damit Ihr Werbe-Team seine Werbeausgaben besser optimieren kann. In diesem [!DNL Facebook] Ad Manager-Bericht sind die Offline-Konversionen hervorgehoben.
 
 ![](assets/facebook.png)
 
@@ -47,19 +46,19 @@ Mit einer universellen ID können Sie mit einer einzigen Anmeldung auf mehrere M
 
 ## Verbesserungen beim Account-basierten Marketing in Marketo {#marketo-account-based-marketing-enhancements}
 
-Jetzt können Sie Account-Teams benannten Accounts in Account Based Marketing (ABM) zuweisen, z. B. Account Owner, Sales Development Repräsentant, Business Development Repräsentant und Account Manager. Sie können auch Account-Owner-spezifische Account-Listen erstellen und personalisierte wöchentliche ABM-Berichte an das Account-Team senden.
+Jetzt können Sie Account-Teams benannten Accounts in Account Based Marketing (ABM) zuweisen, z. B. Account Owner, Sales Development Repräsentant, Business Development Repräsentant und Customer Success Manager. Sie können auch Account-Owner-spezifische Account-Listen erstellen und personalisierte wöchentliche ABM-Berichte an das Account-Team senden.
 
 ![](assets/account-team-11-15-16.png)
 
 **REST-API**
 
-Mit dieser Version können Sie auch benannte Kontoattribute und Kontobewertungen in ABM mithilfe der Marketo REST-API verwalten. Weitere Informationen zu den API-Vorgängen finden Sie auf der [Marketo Developers-Website](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/lead-database/named-accounts).
+Mit dieser Version können Sie auch benannte Kontoattribute und Kontobewertungen in ABM mithilfe der Marketo REST-API verwalten. Weitere Informationen zu den API-Vorgängen finden Sie auf der [Marketo Developers-Website](https://developers.marketo.com/rest-api/lead-database/named-accounts).
 
 ## [Verbesserungen am Audit-Protokoll](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
 
 Das Audit-Protokoll enthält einen umfassenden Verlauf der Änderungen, die in Ihrem Marketo-Abonnement vorgenommen wurden. Wir haben zusätzliche Tracking-Funktionen für Programme hinzugefügt und wichtige Änderungsdetails für intelligente Kampagnen, intelligente Listen und Änderungen an Benutzern und Rollen angezeigt.
 
-## [Neuzulassungen](/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md) {#new-permissions}
+## Neuzulassungen
 
 **E-Mail funktionsfähig machen**
 
@@ -82,16 +81,16 @@ Verleihen Sie Ihrer iOS-Push-Benachrichtigung zusätzliche Reichweite, indem Sie
 
 ## [Sales Insight kompatibel mit Salesforce Encryption](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) {#sales-insight-compatible-with-salesforce-encryption}
 
-Market Sales Insight ist jetzt mit Salesforce Shield Encryption kompatibel. Alle Sales Insight-Kunden sollten auf dieses neueste verwaltete Paket (Version 1.4359.2) aktualisieren, das [auf der AppExchange verfügbar) ](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO).
+Market [!DNL Sales Insight] ist jetzt mit [!DNL Salesforce] Shield Encryption kompatibel. Alle [!DNL Sales Insight]-Kunden sollten ein Upgrade auf dieses neueste verwaltete Paket (Version 1.4359.2) durchführen, das [auf dem verfügbar [!DNL Appexchange]](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO).
 
-## [APIs für benannte Konten](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/lead-database/named-accounts) {#named-accounts-apis}
+## [APIs für benannte Konten](https://developers.marketo.com/rest-api/lead-database/named-accounts/) {#named-accounts-apis}
 
 Mit dieser Version können Marketo ABM-Benutzende benannte Konten über die API für benannte Konten verwalten. Benutzer können benannte Konten erstellen, aktualisieren und löschen sowie ABM-spezifische Kontobewertungen lesen und aktualisieren.
 
-## [API-Unterstützung für Email Editor v2.0](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/email-scripting) {#email-editor-v-api-support}
+## [API-Unterstützung für Email Editor v2.0](https://developers.marketo.com/rest-api/assets/emails/) {#email-editor-v-api-support}
 
 Verwalten von Variablen und Modulen für E-Mails im Format v2.0 mithilfe der Marketo REST-API.
 
 ## [Änderungen an Marketo Salesforce Sync](https://nation.marketo.com/docs/DOC-3840) {#changes-to-marketo-salesforce-sync}
 
-Die Salesforce-Integration von Marketo entwickelt sich weiter, um die Art und Weise zu verbessern, wie Marketo-Felder mit Salesforce synchronisiert werden. Jetzt können Sie, anstatt eine große Gruppe von Feldern synchronisieren zu müssen, die Sie möglicherweise benötigen oder nicht, auswählen, welche Felder Sie einbeziehen möchten. Weitere Informationen finden Sie in unserer Dokumentation: [https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840).
+Die [!DNL Salesforce] Integration von Marketo entwickelt sich weiter, um die Art und Weise zu verbessern, wie Marketo-Felder mit [!DNL Salesforce] synchronisiert werden. Jetzt können Sie, anstatt eine große Gruppe von Feldern synchronisieren zu müssen, die Sie möglicherweise benötigen oder nicht, auswählen, welche Felder Sie einbeziehen möchten. Weitere Informationen finden Sie in unserer Dokumentation: [https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840).

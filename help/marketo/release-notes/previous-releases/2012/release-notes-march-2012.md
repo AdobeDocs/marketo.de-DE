@@ -4,9 +4,9 @@ description: März 2012 - Marketo-Dokumentation - Produktdokumentation
 title: März 2012 - Versionshinweise
 exl-id: 8dce59bf-6349-4e47-b07b-8302b5039739
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Vorschau für Editor:
 
 ## Snippet-Vorschau {#snippet-previewer}
 
-Wenn Sie im Menü „Ausschnitt in der Vorschau“ auswählen, können Sie einen Ausschnitt anzeigen, ohne ihn zu einem Entwurf zu machen. Wenn Sie außerdem nur Lesezugriff auf einen freigegebenen Ausschnitt (über Arbeitsbereiche) haben, können Sie den Ausschnitt mit dieser Aktion anzeigen
+Wenn Sie im Menü „Ausschnitt in der Vorschau“ auswählen, können Sie einen Ausschnitt anzeigen, ohne ihn zu einem Entwurf zu machen. Wenn Sie nur Lesezugriff auf einen freigegebenen Ausschnitt (über Arbeitsbereiche) haben, können Sie den Ausschnitt mit dieser Aktion anzeigen.
 
 ![](assets/image2014-9-23-10-3a0-3a37.png)
 

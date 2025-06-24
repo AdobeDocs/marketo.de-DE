@@ -3,10 +3,9 @@ unique-page-id: 11380218
 description: Versionshinweise - 16. Sommer - Marketo-Dokumentation - Produktdokumentation
 title: Versionshinweise - Sommer '16
 exl-id: 3843668e-c729-42aa-b05c-55c33ee0d783
-feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 2b72932606a93d061eb2f57c0ff3256b94a0c20c
 workflow-type: tm+mt
-source-wordcount: '783'
+source-wordcount: '774'
 ht-degree: 3%
 
 ---
@@ -39,13 +38,13 @@ Das Audit-Protokoll enthält einen umfassenden Verlauf der Änderungen, die in I
 
 ![](assets/audit-trail.png)
 
-## [Marketo-Vibes SMS LaunchPoint-Integration](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md) {#marketo-vibes-sms-launchpoint-integration}
+## Marketo-Vibes SMS LaunchPoint-Integration
 
 Einfaches Erstellen von SMS-Nachrichten direkt in Marketo. Personalisieren und Targeting Ihrer Nachricht mit Ihren umfangreichen Marketo-Daten und einfache Überwachung der Leistung mithilfe des SMS-Nachrichten-Dashboards.
 
 >[!NOTE]
 >
->Für diese Funktion müssen Sie über ein vorhandenes Vibes-SMS-Konto verfügen.
+>Für diese Funktion müssen Sie über ein vorhandenes [!DNL Vibes SMS] verfügen.
 
 ![](assets/vibes-sms2.png)
 
@@ -86,7 +85,7 @@ Wir haben einen neuen Token-Typ für Programme erstellt. Sie können jetzt Progr
 
 ## [Konzernschlüssel](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/authorize-the-marketo-outlook-plugin.md) {#enterprise-key}
 
-Es kann mühsam sein, von jeder Person in Ihrem Vertriebsteam zu verlangen, unser Sales Insight-Plug-in für Outlook zu installieren. Wir haben eine neue Möglichkeit eingeführt, das Plug-in für Outlook remote mit einem Unternehmensschlüssel zu installieren. Senden Sie Ihrem IT-Team den eindeutigen Schlüssel, den Sie im Abschnitt &quot;Marketo Sales Insights“ von Admin finden, und überlassen Sie ihm den Rest.
+Es kann mühsam sein, von jeder Person in Ihrem Vertriebsteam zu verlangen, unser [!DNL Sales Insight]-Plug-in für [!DNL Outlook] zu installieren. Wir haben eine neue Möglichkeit eingeführt, das Plug-in für [!DNL Outlook] remote mit einem Unternehmensschlüssel zu installieren. Senden Sie Ihrem IT-Team den eindeutigen Schlüssel, der im Abschnitt &quot;Marketo-[!DNL Sales Insight]&quot; von [!UICONTROL Admin] zu finden ist, und überlassen Sie ihm den Rest.
 
 ![](assets/enterprise-key.png)
 
@@ -100,16 +99,16 @@ Geben Sie eine Zeitverzögerung an, damit Web-Kampagnen auf Ihrer Website reagie
 
 Anzeigen von Inhaltsanalysen und Recommendations-Daten offline.
 
-## [API-Support für Email Editor 2.0](https://developer.adobe.com/marketo-apis/api/asset/) {#api-support-for-email-editor}
+## [API-Support für Email Editor 2.0](https://developers.marketo.com/documentation/asset-api/) {#api-support-for-email-editor}
 
 Vorhandene Asset-APIs, die zuvor nur mit E-Mails und Vorlagen der Version 1.0 kompatibel waren, sind jetzt für E-Mail-Assets der Version 2.0 aktiviert.
 
-## [Marketo Developers-Website](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/home) {#marketo-developers-site}
+## [Marketo Developers-Website](https://developers.marketo.com/) {#marketo-developers-site}
 
 Neu und noch besser!
 
 ## [Datenschutzeinstellungen](/help/marketo/product-docs/administration/settings/understanding-privacy-settings.md) {#privacy-settings}
 
-Marketing-Experten können anhand von Datenschutzeinstellungen entscheiden, ob Besuchende mithilfe von Munchkin- und Web Personalization-Funktionen verfolgt werden sollen oder nicht. Die Tracking-Stufe wird mithilfe der Einstellung „Nicht verfolgen“ des Browsers, eines Opt-out-Cookies oder einer unspezifischen IP-Adresse gesteuert. Diese Methoden können sich auf den Wert und die Funktionalität von Marketo in bestimmten Bereichen auswirken. Wenn der Marketer jedoch nichts ändert, bleibt die Marketo-Funktionalität unverändert.
+Marketing-Experten können anhand von Datenschutzeinstellungen entscheiden, ob Besucher mithilfe von [!DNL Munchkin]- und Web Personalization-Funktionen verfolgt werden sollen oder nicht. Die Tracking-Stufe wird mithilfe der Einstellung „Nicht verfolgen“ des Browsers, eines Opt-out-Cookies oder einer unspezifischen IP-Adresse gesteuert. Diese Methoden können sich auf den Wert und die Funktionalität von Marketo in bestimmten Bereichen auswirken. Wenn der Marketer jedoch nichts ändert, bleibt die Marketo-Funktionalität unverändert.
 
 Diese Funktion wird über einen Zeitraum von sechs Wochen schrittweise für Kunden veröffentlicht. Wenn Sie es sofort benötigen, wenden Sie sich an den Marketo-Support.

@@ -4,9 +4,9 @@ description: Personendaten aktualisieren - Marketo-Dokumente - Produktdokumentat
 title: Personendaten aktualisieren
 exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
 feature: Getting Started
-source-git-commit: 6733bca40fbe09fd1c5b6166aef7a74759d7808e
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '181'
 ht-degree: 1%
 
 ---
@@ -24,7 +24,7 @@ Stellen wir uns vor, dass Ihnen auf Ihrer letzten Messe eine Person zusätzliche
 
 ## Die Person finden, die Sie aktualisieren müssen {#find-the-person-you-need-to-update}
 
-1. Gehen Sie zu Ihrer **[!UICONTROL Datenbank]**.
+1. Gehen Sie zu Ihrer [!UICONTROL Datenbank].
 
    ![](assets/update-person-data-1.png)
 

@@ -4,10 +4,10 @@ description: Versionshinweise - Dezember 2014 - Marketo-Dokumentation - Produktd
 title: Versionshinweise - Dezember 2014
 exl-id: b4dd365d-a2a2-416e-a226-5515203a41f8
 feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '477'
-ht-degree: 2%
+source-wordcount: '461'
+ht-degree: 1%
 
 ---
 
@@ -15,17 +15,17 @@ ht-degree: 2%
 
 Die folgenden Funktionen sind in der Version vom Dezember 2014 enthalten. Bitte überprüfen Sie Ihre Marketo Edition auf Funktionsverfügbarkeit. Nach der Veröffentlichung sollten Sie unbedingt zurückkommen, um Links zu detaillierten Artikeln für jede Funktion zu finden!
 
-## Berichte zu Sales Insights {#sales-insight-reports}
+## [!DNL Sales Insight] Berichte {#sales-insight-reports}
 
-Der [Sales Insight Email Performance Report](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md) ermöglicht die Anzeige von E-Mail-Metriken nach E-Mail-Adresse und Vertriebsmitarbeiter. Es unterstützt E-Mails, die über Salesforce, Microsoft Dynamics, das Outlook-Plug-in und das Gmail-Plug-in gesendet werden.
+Mit [[!DNL Sales Insight] E-Mail-Leistungsbericht](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md) können Sie E-Mail-Metriken nach E-Mail-Adresse und Vertriebsmitarbeiter anzeigen. Es unterstützt E-Mails, die über [!DNL Salesforce], [!DNL Microsoft Dynamics], das [!DNL Outlook]-Plug-in und das [!DNL Gmail]-Plug-in gesendet werden.
 
 ![](assets/image2014-12-5-11-3a5-3a46.png)
 
 ![](assets/image2014-12-5-11-3a5-3a55.png)
 
-## Benutzerdefinierte Facebook-Zielgruppen {#facebook-custom-audiences}
+## Benutzerdefinierte Zielgruppen [!DNL Facebook] {#facebook-custom-audiences}
 
-Nachdem Ihr Marketo-Administrator [Facebook über Admin > Launchpoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) hinzugefügt hat, können Sie eine benutzerdefinierte Facebook-Zielgruppe einfach erstellen, aktualisieren oder [durch Leads aus einer statischen oder Smart-Liste von Marketo ersetzen](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md). Suchen Sie das neue Facebook-Symbol am unteren Rand des Lead-Rasters einer beliebigen statischen oder intelligenten Liste.
+Nachdem Ihr Marketo-Administrator [[!DNL Facebook] über [!UICONTROL Admin] > [!UICONTROL LaunchPoint]](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) hinzugefügt hat, können Sie eine benutzerdefinierte Zielgruppe einfach erstellen, aktualisieren oder [durch  [!DNL Facebook]  einer statischen oder intelligenten Marketo-Liste ersetzen](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md). Suchen Sie nach dem neuen [!DNL Facebook] am unteren Rand des Lead-Rasters einer statischen oder intelligenten Liste.
 
 ![](assets/image2014-12-5-11-3a6-3a28.png)
 
@@ -53,9 +53,9 @@ Links in E-Mail-Skripten werden jetzt verfolgt und sind im E-Mail-Link-Leistungs
 
 ## Einstellung für Token-Kodierung {#token-encoding-setting}
 
-Wir haben eine neue Sicherheitsfunktion zum automatischen HTML-Kodieren von Token eingeführt, die ab März 2015 standardmäßig aktiviert sein wird. Bis dahin können Sie diese Funktion in der Feldverwaltung umschalten, um das Verhalten im Voraus zu testen. Alle Lead- und Unternehmens-Token werden beim Einfügen in E-Mails oder Landingpages kodiert. Optionen stehen auch für einzelne Felder zur Verfügung.
+Wir haben eine neue Sicherheitsfunktion zur automatischen Kodierung von HTML-Token eingeführt, die ab März 2015 standardmäßig aktiviert sein wird. Bis dahin können Sie diese Funktion in der Feldverwaltung umschalten, um das Verhalten im Voraus zu testen. Alle Lead- und Unternehmens-Token werden beim Einfügen in E-Mails oder Landingpages kodiert. Optionen stehen auch für einzelne Felder zur Verfügung.
 
-## Neue ReST API-Aufrufe {#new-rest-api-calls}
+## Neue REST API-Aufrufe {#new-rest-api-calls}
 
 Drei neue Aufrufe für die Lead &amp; Activity REST-API:
 
@@ -65,15 +65,15 @@ Drei neue Aufrufe für die Lead &amp; Activity REST-API:
 
 ・ Lead zusammenführen
 
-Alle Details werden nach der Veröffentlichung unter [https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/home verfügbar sein](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/home)
+Alle Details werden nach der Veröffentlichung unter [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home verfügbar sein](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/home)
 
-## Verbesserte Munchkin JavaScript-Kompatibilität {#munchkin-javascript-compatibility-enhancements}
+## [!DNL Munchkin Javascript] {#munchkin-javascript-compatibility-enhancements}
 
-Wir haben einige kleinere Verbesserungen an Munchkin vorgenommen, um sicherzustellen, dass es weiterhin schnell geladen wird und in Fällen mit anderen JavaScript auf der Seite wie gewünscht funktioniert.
+Wir haben einige kleinere Verbesserungen an [!DNL Munchkin] vorgenommen, um sicherzustellen, dass es weiterhin schnell geladen wird und in Fällen mit anderen JavaScript auf der Seite wie gewünscht funktioniert.
 
 Der Rollout wird Mitte Dezember beginnen und in den nächsten Monaten fortgesetzt.
 
-## Aktualisiertes Look-and-Feel für Umsatz-Explorer {#revenue-explorer-upgraded-look-and-feel}
+## [!UICONTROL Umsatz-Explorer] Verbessertes Erscheinungsbild {#revenue-explorer-upgraded-look-and-feel}
 
 ![](assets/image2014-12-5-11-3a8-3a4.png)
 
@@ -83,7 +83,7 @@ Der Rollout wird Mitte Dezember beginnen und in den nächsten Monaten fortgesetz
 
 ## RTP: Modul Benutzerdefinierte Kontenliste {#rtp-named-account-list-module}
 
-Verwalten und überwachen Sie Ihre wichtigsten Konten mit hoher Rentabilität auf der neuen Seite „Benannte Konten“. Laden Sie neue Listen mit benannten Konten hoch, um diese Organisationen zu identifizieren und anzusprechen. Wir haben den Prozess automatisiert und bieten Ihnen mehr Kontrolle und Flexibilität, um Ihre Account-basierten Marketing-Pläne zu implementieren und Ihre wichtigen Accounts auf verschiedenen Kanälen (Web und Werbung) auszurichten.
+Verwalten und überwachen Sie Ihre wichtigsten Konten mit hoher Rendite auf der neuen Seite [!UICONTROL Benannte Konten]. Laden Sie neue Listen mit benannten Konten hoch, um diese Organisationen zu identifizieren und anzusprechen. Wir haben den Prozess automatisiert und bieten Ihnen mehr Kontrolle und Flexibilität, um Ihre Account-basierten Marketing-Pläne zu implementieren und Ihre wichtigen Accounts auf verschiedenen Kanälen (Web und Werbung) auszurichten.
 
 ![](assets/image2014-12-5-11-3a8-3a56.png)
 

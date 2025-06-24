@@ -4,9 +4,9 @@ description: Automatische E-Mail-Antwort - Marketo-Dokumente - Produktdokumentat
 title: Automatische Antwort-E-Mail
 exl-id: c9c0a154-65ec-4845-97a0-a2100223cb13
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '384'
+source-wordcount: '380'
 ht-degree: 10%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 10%
 
 ## Schritt 1: E-Mail erstellen {#step-create-an-email}
 
-1. Navigieren Sie zum Bereich **[!UICONTROL Marketing]** Aktivitäten.
+1. Navigieren Sie zum Bereich [!UICONTROL Marketing]Aktivitäten.
 
    ![](assets/email-auto-response-1.png)
 
@@ -128,9 +128,7 @@ ht-degree: 10%
 
 ## Aufgabe abgeschlossen {#mission-complete}
 
-Innerhalb weniger Minuten sollten Sie die automatische Antwort-E-Mail in Ihrem Posteingang sehen. Großartig gemacht!
-
-<br> 
+Innerhalb weniger Minuten sollten Sie die automatische Antwort-E-Mail in Ihrem Posteingang sehen.
 
 [◄ Mission 3: Einfache Bewertung](/help/marketo/getting-started/quick-wins/simple-scoring.md)
 

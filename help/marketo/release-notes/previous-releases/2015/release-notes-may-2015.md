@@ -4,9 +4,9 @@ description: Mai 2015 - Versionshinweise zu Marketo - Produktdokumentation
 title: Mai 2015 – Versionshinweise
 exl-id: 29f42b17-58e3-4e45-a871-79d91a47fb9f
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '253'
 ht-degree: 10%
 
 ---
@@ -31,11 +31,11 @@ Haben Sie „Senden“ gedrückt, bevor ein E-Mail-Programm bereit war, auszugeh
 
 ## E-Mail-Zustellbarkeit  {#email-deliverability}
 
-Marketo führt nun wöchentliche automatisierte SPF- und DKIM-Prüfungen für die hinzugefügten Domains durch. Bleiben Sie auf dem Laufenden, indem Sie Ihre Benachrichtigungen überprüfen.
+Marketo führt nun wöchentlich automatisierte [!DNL SPF]- und [!DNL DKIM] für die hinzugefügten Domains durch. Bleiben Sie auf dem Laufenden, indem Sie Ihre Benachrichtigungen überprüfen.
 
 ## Verhaltensänderung E-Mail-Vorlage {#email-template-behavior-change}
 
-Ab dieser Version sind gültige HTML-Kommentare jetzt erlaubt und werden beim Erstellen neuer E-Mails nicht entfernt.
+Ab dieser Version sind gültige HTML-Kommentare jetzt zulässig und werden beim Erstellen neuer E-Mails nicht entfernt.
 
 ## RTP: Drag-and-drop-Segment-Editor {#rtp-drag-and-drop-segment-editor}
 

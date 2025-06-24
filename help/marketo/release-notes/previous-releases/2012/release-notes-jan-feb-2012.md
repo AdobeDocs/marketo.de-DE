@@ -4,9 +4,9 @@ description: Versionshinweise - Januar/Februar 2012 - Marketo-Dokumentation - Pr
 title: Versionshinweise - Januar/Februar 2012
 exl-id: 4d1ca9b6-e269-4982-9c0c-cf12363feafb
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '441'
+source-wordcount: '432'
 ht-degree: 2%
 
 ---
@@ -69,10 +69,10 @@ Die Felder Absendername, Absender-E-Mail, Antwort an (NEU) und Betreff werden im
 
 ## Browser-Unterstützung {#browser-support}
 
-* Mozilla Firefox 9.0
-* Google Chrome 16
-* Microsoft Internet Explorer 8 und 9
-* **Hinweis**: Internet Explorer 7 wird nicht mehr unterstützt
+* [!DNL Mozilla Firefox] 9,0
+* [!DNL Google Chrome] 16
+* [!DNL Microsoft Internet Explorer] 8 und 9
+* **Hinweis**: [!DNL Internet Explorer] 7 wird nicht mehr unterstützt
 
 ## Programm-Management {#program-management}
 
@@ -96,6 +96,6 @@ Verstehen des Marketing-Beitrags zum individuellen Opportunity-Umsatz
 
 ## Stadienanalyse zum Programmumsatz {#program-revenue-stage-analysis}
 
-Gewinnen Sie Einblicke in die Lead-Geschwindigkeit von Programmen, indem Sie verstehen, welche Programme die Fast Mover erworben haben
+Gewinnen Sie insight in die Geschwindigkeit der Programmleitung, indem Sie verstehen, welche Programme die schnellen Einsteiger erworben haben
 
 ![](assets/image2014-9-23-9-3a52-3a47.png)

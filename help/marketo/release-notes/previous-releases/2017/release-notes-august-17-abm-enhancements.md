@@ -4,9 +4,9 @@ description: Versionshinweise - 17. August - ABM-Verbesserungen - Marketo-Dokume
 title: Versionshinweise - 17. August - ABM-Verbesserungen
 exl-id: 3ba6319a-c5a3-4623-8d8e-0b246b29f17e
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ Die folgenden Funktionen sind in der ABM-Erweiterungsversion vom 17. August enth
 
 Bitte klicken Sie auf die Titel-Links, um detaillierte Artikel für jede Funktion anzuzeigen.
 
-## Account Insight {#account-insight}
+## [!DNL Account Insight] {#account-insight}
 
-**[Account Insight](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)** ist ein Plug-in für Google Chrome, mit dem Sie umsetzbare ABM- und Account-Insights für Ihre Vertriebsteams bereitstellen und so eng mit dem Marketing zusammenarbeiten können, um Accounts effektiv zu interagieren. Vertriebsteams erhalten Einblicke in die Daten und Einblicke, die für jedes der benannten Konten generiert wurden, deren Inhaber sie sind. Dazu gehören die Perzentile der Kontobewertung, eine priorisierte Liste ihrer benannten Konten, die mit diesen Konten interagierenden Personen und ein Live-Aktivitäts-Stream der letzten Aktivitäten aus dem Konto.
+**[[!DNL Account Insight]](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)** ist ein [!DNL Google Chrome]-Plug-in, das Ihren Vertriebsteams umsetzbare ABM- und Account-Insights zur Verfügung stellt. So können diese eng mit dem Marketing zusammenarbeiten, um Accounts effektiv anzusprechen. Vertriebsteams erhalten Einblicke in die Daten und Einblicke, die für jedes der benannten Konten generiert wurden, deren Inhaber sie sind. Dazu gehören die Perzentile der Kontobewertung, eine priorisierte Liste ihrer benannten Konten, die mit diesen Konten interagierenden Personen und ein Live-Aktivitäts-Stream der letzten Aktivitäten aus dem Konto.
 
 ![](assets/image001.png) ![](assets/image002.png)
 

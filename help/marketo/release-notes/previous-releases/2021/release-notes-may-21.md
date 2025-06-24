@@ -3,9 +3,9 @@ description: Mai 2021 - Versionshinweise zu Marketo - Produktdokumentation
 title: Mai 2021 - Versionshinweise
 exl-id: e3de60a2-17bd-4760-848e-6e931ad85b3c
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '1450'
+source-wordcount: '1440'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Die folgenden Funktionen sind in der Version vom Mai 2021 enthalten. Überprüfe
 
 >[!AVAILABILITY]
 >
->Mit einem Stern (![](assets/yellow-star.png)) gekennzeichnete Funktionen sind kostenpflichtige Add-ons. Weitere Informationen erhalten Sie von Ihrem Marketo Engage-Support-Mitarbeiter.
+>Mit einem Stern (![](assets/yellow-star.png)) gekennzeichnete Funktionen sind kostenpflichtige Add-ons. Weitere Informationen erhalten Sie vom Marketo Engage-Support.
 
 **_Quartalsveröffentlichungen_**
 
@@ -28,7 +28,7 @@ Die folgenden Funktionen werden am (7 **Mai 2021)**.
 
 ## Benutzererlebnis der nächsten Generation {#next-generation-user-experience}
 
-Mit der globalen Suchvorschau können Marketing-Experten schnell erkennen, wo ein freigegebenes Asset in ihrer Instanz vorhanden ist. Browser-Registerkarten zeigen den Speicherort an, um die Navigation in Marketing-Aktivitäten oder Design Studio zu verbessern. Zusätzliche Baumstruktur- und globale Suchfilter helfen, Ihre Suchkriterien zu verfeinern. Die Drag-and-Drop-Funktion innerhalb der Baumstruktur wurde wiederhergestellt, sodass Sie Ordner und Assets schnell und effizient in die Hauptbereiche der App verschieben können. Neu aktualisierte Symbole (die den Barrierefreiheitsstandards von Adobe entsprechen) und Statusabzeichen ermöglichen es Marketing-Experten, schnell und einfach in der Baumstruktur zwischen Ordnern und Assets zu unterscheiden und den Status von Programmen und Assets zu identifizieren.
+Mit der globalen Suchvorschau können Marketing-Experten schnell erkennen, wo ein freigegebenes Asset in ihrer Instanz vorhanden ist. Browser-Registerkarten zeigen den Speicherort an, um die Navigation in [!UICONTROL Marketing-Aktivitäten] oder [!UICONTROL Design Studio] zu verbessern. Zusätzliche Baumstruktur- und globale Suchfilter helfen, Ihre Suchkriterien zu verfeinern. Die Drag-and-Drop-Funktion innerhalb der Baumstruktur wurde wiederhergestellt, sodass Sie Ordner und Assets schnell und effizient in die Hauptbereiche der App verschieben können. Neu aktualisierte Symbole (die den Barrierefreiheitsstandards von Adobe entsprechen) und Statusabzeichen ermöglichen es Marketing-Experten, schnell und einfach in der Baumstruktur zwischen Ordnern und Assets zu unterscheiden und den Status von Programmen und Assets zu identifizieren.
 
 ## Experience Automation {#experience-automation}
 
@@ -36,9 +36,9 @@ Mit der globalen Suchvorschau können Marketing-Experten schnell erkennen, wo ei
 
 ## Kanalübergreifende Orchestrierung {#cross-channel-orchestration}
 
-* **Sensible Datenfelder in Forms**: Die personenbezogenen Daten (PII) des Protect-Kunden werden in Adobe Marketo Engage-Formularen angezeigt, indem Datenfelder als sensibel definiert und das Vorbefüllen der Formulare für diese Felder eingeschränkt werden. Wenn ein Besucher ein Formular auf der Landingpage aufruft, werden in den als sensibel definierten Feldern keine vorausgefüllten Daten angezeigt.
+* **Sensible Datenfelder in Forms**: Schützen Sie die personenbezogenen Daten (PII) des Kunden vor der Anzeige in Adobe Marketo Engage-Formularen, indem Sie Datenfelder als sensibel definieren und das Vorbefüllen der Formulare für diese Felder einschränken. Wenn ein Besucher ein Formular auf der Landingpage aufruft, werden in den als sensibel definierten Feldern keine vorausgefüllten Daten angezeigt.
 
-* **Blockieren von Spam-Formularübermittlungen**: Protect stellt Ihre Adobe Marketo Engage-Datenbank vor Junk-Daten, die zu ungültigen Warnhinweisen an den Vertrieb, Trigger-Kampagnenrückständen und unerwünschten Aktivitäten führen können. Der neue Validierungsmechanismus lehnt ungültige Formularübermittlungen ab und stoppt Bot-Angriffe. Ihre Daten sind sauberer, und Ihre Marketing-Kampagnen laufen wie beabsichtigt, wodurch das Risiko minimiert wird, unqualifizierte Leads an den Verkauf zu senden.
+* **Spam-Formularübermittlungen blockieren**: Schützen Sie Ihre Adobe Marketo Engage-Datenbank vor Junk-Daten, die zu ungültigen Warnhinweisen an den Vertrieb, Trigger-Kampagnenrückständen und unerwünschten Aktivitäten führen können. Der neue Validierungsmechanismus lehnt ungültige Formularübermittlungen ab und stoppt Bot-Angriffe. Ihre Daten sind sauberer, und Ihre Marketing-Kampagnen laufen wie beabsichtigt, wodurch das Risiko minimiert wird, unqualifizierte Leads an den Verkauf zu senden.
 
 * **Warnhinweis zur Programmvalidierung per E-Mail senden**: Verhindern Sie das Senden fehlerhafter E-Mails, wenn die neuen Änderungen an einem zuvor genehmigten Programm vorgenommen wurden.  Die Warnung dient als Schutzmaßnahme, wenn ein Marketer Änderungen auf eine bereits genehmigte E-Mail anwendet, dann aber vergisst, die neuesten Änderungen zu genehmigen, und die E-Mail an eine große Audience ohne Inhalt, schlechten Inhalt oder alten Inhalt sendet.
 
@@ -64,7 +64,7 @@ Mehrere wichtige Aktualisierungen der Bulk- und Lead-APIs, einschließlich der M
 
 * **API für den Massenimport von Leads**: Kontrollieren Sie den Massenimport von Leads und die dafür erforderlichen Ressourcen. Diese Verbesserung schafft eine Verbindung zwischen Lead und Unternehmen während des Massenimport-Prozesses des Leads. Erhöhen Sie die Effizienz und den Nutzen der Arbeit mit -Daten und verringern Sie die Nutzung von API-Aufrufen.
 
-* **Web API-basierte Integration für Microsoft Dynamics Online-Kunden**: Die MS Dynamics-Web-API wurde mit dem REST-Protokoll Version 8.0 eingeführt und implementiert OData (Open Data Protocol) v4. OData ist ein OASIS-Standard (Organization for the Advancement of Structured Information Standards) zum Erstellen und Verwenden von RESTful-Services über umfangreiche Daten. Adobe Marketo Engage-Kunden, die mithilfe dieser Methode eine Integration mit Microsoft Dynamics benötigen, werden derzeit von SOAP (Simple Object Access Protocol) zu einer Web-API-basierten Verbindung migriert.
+* **Web API-basierte Integration für die [!DNL Microsoft Dynamics Online] Kunden**: [!DNL MS Dynamics] Web API wurde mit Version 8.0 REST-Protokoll eingeführt und implementiert OData (Open Data Protocol) v4. OData ist ein OASIS-Standard (Organization for the Advancement of Structured Information Standards) zum Erstellen und Verwenden von RESTful-Services über umfangreiche Daten. Adobe Marketo Engage-Kunden, die mithilfe dieser Methode eine Integration mit [!DNL Microsoft Dynamics] benötigen, werden derzeit von SOAP (Simple Object Access Protocol) zu einer Web-API-basierten Verbindung migriert.
 
 ## Marketing-Datenumgebung {#marketing-data-environment}
 
@@ -76,13 +76,13 @@ Mehrere wichtige Aktualisierungen der Bulk- und Lead-APIs, einschließlich der M
 
 ![](assets/yellow-star.png)
 
-* **Integration mit LinkedIn Lead Gen Forms (Beta)**: Mit der Premium-Attributionslösung von Bizible erhalten Sie einen tiefen Einblick in Ihre Ausgaben und den ROI für den LinkedIn-Kanal. Durch die neueste Integration mit der Lead Gen-Forms von LinkedIn erhält Bizible Einblick in Formulare, die innerhalb der LinkedIn-Plattform eingereicht wurden. Diese ausgefüllten Formulare werden mit Leads aus Ihrer CRM- (Customer Relationship Management) oder Adobe Marketo Engage-Instanz abgeglichen, sodass sie für die Attribution in Frage kommen und anhand Ihrer anderen Marketing-Engagements verfolgt werden können.
+* **Integration mit [!DNL LinkedIn] Lead Gen Forms (Beta)**: Mit der Premium-Attributionslösung von Bizible erhalten Sie einen tiefen Einblick in Ihre [!DNL LinkedIn] Kanalausgaben und den ROI. Durch die neueste Integration mit der Lead Gen-Forms von [!DNL LinkedIn] erhält Bizible insight in Formulare, die innerhalb der [!DNL LinkedIn]-Plattform eingereicht wurden. Diese ausgefüllten Formulare werden mit Leads aus Ihrer CRM- (Customer Relationship Management) oder Adobe Marketo Engage-Instanz abgeglichen, sodass sie für die Attribution in Frage kommen und anhand Ihrer anderen Marketing-Engagements verfolgt werden können.
 
 ## Ankündigungen {#announcements}
 
 * **Wechselplattformen für Marketo-Produktdokumente**: Wir freuen uns, bekannt geben zu können, dass die Marketo-Produktdokumente ab Freitag, dem 7. Mai, in die Adobe Experience League aufgenommen wurden. Sie können weiterhin die URL docs.marketo.com verwenden. Wenn Sie bereits Artikel mit Lesezeichen versehen haben, werden Sie umgeleitet. Alle Produktdokumente sind auf der neuen Plattform verfügbar, mit Verbesserungen, die für später in diesem Jahr geplant sind.
 
-* **Optimierte Benutzerverwaltung und Single Sign-on auf Basis des Adobe-Identitätssystems**: Ab Juli 2021 werden die neuen Adobe Marketo Engage-Kunden mithilfe von Adobe-Benutzeranmeldeinformationen integriert. Die Migration von Bestandskunden zum integrierten Identitätssystem erfolgt erst Mitte 2022. Bis auf Weiteres ist keine Kundenaktion erforderlich. Mit Single Sign-on können IT-/Sicherheitsadministratoren mehrere Adobe Marketo Engage-Produktinstanzen zusammen mit anderen Experience Cloud-Lösungen verwalten und SSO (Shared Services Organization) über eine gemeinsame Konsole konfigurieren. Administratoren können Benutzergruppen und Benutzerberechtigungen über eine gemeinsame Admin Console verwalten.
+* **Optimierte Benutzerverwaltung und Single Sign-on auf Basis des Adobe Identity Systems**: Ab Juli 2021 werden die neuen Adobe Marketo Engage-Kunden mit den Adobe-Benutzeranmeldeinformationen integriert. Die Migration von Bestandskunden zum integrierten Identitätssystem erfolgt erst Mitte 2022. Bis auf Weiteres ist keine Kundenaktion erforderlich. Mit Single Sign-on können IT-/Sicherheitsadministratoren mehrere Adobe Marketo Engage-Produktinstanzen zusammen mit anderen Experience Cloud-Lösungen verwalten und SSO (Shared Services Organization) über eine gemeinsame Konsole konfigurieren. Administratoren können über eine gemeinsame Admin Console Benutzergruppen und Benutzerberechtigungen bequem verwalten.
 
 **_Webinar zur Produktversion_**
 

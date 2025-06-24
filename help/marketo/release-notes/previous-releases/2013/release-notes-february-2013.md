@@ -4,32 +4,32 @@ description: Versionshinweise - Februar 2013 - Marketo-Dokumentation - Produktdo
 title: Versionshinweise Februar 2013
 exl-id: 9adfa676-09ea-497a-bcce-42300848b9d8
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '252'
 ht-degree: 0%
 
 ---
 
 # Versionshinweise: Februar 2013 {#release-notes-february}
 
-Die Februarversion enthält eine dringend angeforderte Funktion, Unterstützung für Apple Safari und andere kleine Verbesserungen.
+Die Februarversion enthält eine stark nachgefragte Funktion, Unterstützung für [!DNL Apple Safari] und andere kleine Verbesserungen.
 
-## Offizieller Support für Apple Safari {#official-support-for-apple-safari}
+## Öffentliche Unterstützung für [!DNL Apple Safari] {#official-support-for-apple-safari}
 
-Die neuesten Versionen von Apple Safari für Mac und Windows werden vollständig zur Verwendung mit Marketo Lead Management unterstützt. Hinweis: Safari auf iOS ist nicht vollständig kompatibel.
+Die neuesten Versionen von [!DNL Apple Safari] für Mac und [!DNL Windows] werden vollständig zur Verwendung mit der Marketo-Lead-Verwaltung unterstützt. Hinweis: [!DNL Safari] auf iOS ist nicht vollständig kompatibel.
 
 ## Webhooks - Verbesserungen {#webhooks-enhancements}
 
-Webhooks wurden verbessert, um Token in der URL/Payload zu escapen, und können auch Marketo-Lead-Felder aktualisieren, indem XML-/JSON-Antworten von Drittanbietersystemen analysiert werden (in der Spark SMB Edition nicht verfügbar).
+Webhooks wurden verbessert, um Token in der URL/Payload zu escapen, und können auch Marketo-Lead-Felder aktualisieren, indem XML-/JSON-Antworten aus Drittanbietersystemen analysiert werden (in der [!DNL Spark SMB Edition] nicht verfügbar).
 
 ## Aktualisierter SOAP-API-Endpunkt {#updated-soap-api-endpoint}
 
-Der bevorzugte SOAP-API-Endpunkt wurde aktualisiert und wird unter Admin > SOAP-API angezeigt. Aktualisieren Sie Ihre Aufrufe, um diesen neuen Endpunkt zu verwenden. API-Aufrufe an den alten Endpunkt sind veraltet, funktionieren aber weiterhin. (SOAP-API in der Spark SMB Edition nicht verfügbar)
+Der bevorzugte SOAP-API-Endpunkt wurde aktualisiert und wird unter &quot;[!UICONTROL &quot; ] &quot;SOAP-API“ angezeigt. Aktualisieren Sie Ihre Aufrufe, um diesen neuen Endpunkt zu verwenden. API-Aufrufe an den alten Endpunkt sind veraltet, funktionieren aber weiterhin. (SOAP-API in der [!DNL Spark SMB Edition] nicht verfügbar)
 
-## Mobile-Unterstützung für Facebook-Registerkarten {#mobile-support-for-facebook-tabs}
+## Mobile-Unterstützung für [!DNL Facebook] Registerkarten {#mobile-support-for-facebook-tabs}
 
-Von Marketo veröffentlichte facebook-Registerkarten erkennen Mobilgeräte und leiten sie an eine Landingpage weiter. Dadurch wird sichergestellt, dass der Benutzer die richtigen Inhalte auf Mobilgeräten erhält, auf denen Facebook-Registerkarten nicht unterstützt werden (verfügbar in Spark, Standard, Select SMB Editions und Marketo Social Marketing).
+[!DNL Facebook] von Marketo veröffentlichten Registerkarten erkennen Mobilgeräte und leiten sie an eine Landingpage weiter. Dadurch wird sichergestellt, dass Benutzende die richtigen Inhalte auf Mobilgeräten erhalten, auf denen [!DNL Facebook] Registerkarten nicht unterstützt werden (verfügbar in [!DNL Spark], [!DNL Standard], [!DNL Select SMB Editions] und [!DNL Marketo Social Marketing]).
 
 ## In Kürze verfügbar: Unterstützung für mehrere Modelle {#coming-soon-support-for-multiple-models}
 

@@ -4,9 +4,9 @@ description: August 2014 - Marketo-Dokumentation - Produktdokumentation
 title: August 2014 - Versionshinweise
 exl-id: 789af65d-f42a-4500-bebc-fc4dd709379d
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '404'
+source-wordcount: '400'
 ht-degree: 4%
 
 ---
@@ -33,7 +33,7 @@ Die folgenden neuen Benutzerberechtigungen wurden hinzugefügt:
 | Auslöser-Kampagne aktivieren | Legen Sie fest, wer Trigger-Kampagnen aktivieren darf und wer nicht. |
 | Stapel-Kampagne planen | Kontrollieren, wer Batch-Kampagnendurchgänge planen kann und wer nicht. |
 
-## Benutzer und Rollen aus Admin exportieren {#export-users-and-roles-from-admin}
+## Exportieren von Benutzern und Rollen aus [!UICONTROL Admin] {#export-users-and-roles-from-admin}
 
 Sie können jetzt [Liste der Benutzer und Rollen exportieren](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md) aus Marketo. Sie können auch einen Zeitstempel „Letzte Anmeldung“ einfügen, der in den Export aufgenommen wird.
 
@@ -47,15 +47,15 @@ Sie können jetzt alle nicht verwendeten Kanäle und Status löschen. Wie immer 
 
 ![](assets/image2014-9-16-12-3a23-3a4.png)
 
-## Automated DKIM {#automated-dkim}
+## Automatisierte [!DNL DKIM] {#automated-dkim}
 
-Um die Zustellbarkeit zu verbessern, werden alle ausgehenden E-Mails mit DKIM (DomainKeys Identified Mail) signiert. Standardmäßig verwenden E-Mails die freigegebene DKIM-Signatur von Marketo. Sie haben die Möglichkeit, diese Signatur anzupassen.
+Zur Verbesserung der Zustellbarkeit werden alle ausgehenden E-Mails [!DNL DKIM] (DomainKeys Identified Mail) signiert. Standardmäßig verwenden E-Mails die freigegebene [!DNL DKIM]-Signatur von Marketo. Sie haben die Möglichkeit, diese Signatur anzupassen.
 
 ![](assets/image2014-9-16-12-3a23-3a16.png)
 
 >[!NOTE]
 >
->DKIM wird langsam eingeführt. Sie werden es möglicherweise erst in einigen Wochen sehen.
+>[!DNL DKIM] wird langsam ausgerollt, Sie werden sie möglicherweise erst nach einigen Wochen sehen.
 
 ## Echtzeit-Personalization-Updates {#real-time-personalization-updates}
 
@@ -65,7 +65,7 @@ Wir haben der Kampagnenseite Kennzeichnungen hinzugefügt, damit Sie Ihren Heart
 
 ## Mobile Targeting {#mobile-targeting}
 
-Du hast nach der Community gefragt und wir haben geliefert! Sie können jetzt einen bestimmten Aktionsaufruf für Mobil- und Tablet-Benutzer ein- oder ausschließen oder festlegen.
+Du hast nach der Community gefragt und wir haben geliefert! Sie können jetzt eine bestimmte call to action für Mobil- und Tablet-Benutzer ein- oder ausschließen oder festlegen.
 
 ![](assets/image2014-9-16-12-3a23-3a43.png)
 

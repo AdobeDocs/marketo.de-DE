@@ -4,10 +4,10 @@ description: Versionshinweise - Februar 2014 - Marketo-Dokumentation - Produktdo
 title: Versionshinweise - Februar 2014
 exl-id: 5fcac75d-4e09-4f4d-9fd0-7c89f890d63e
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '365'
-ht-degree: 3%
+source-wordcount: '364'
+ht-degree: 2%
 
 ---
 
@@ -15,19 +15,19 @@ ht-degree: 3%
 
 Die folgenden Funktionen sind in der Version vom Februar 2014 enthalten. Bitte überprüfen Sie Ihre Marketo Edition auf Funktionsverfügbarkeit. Kehren Sie nach der Veröffentlichung immer wieder zu Links zu detaillierten Knowledge Base-Artikeln für jede Funktion zurück!
 
-## Engagement-Bewertung als entscheidendes Kriterium {#engagement-score-as-winning-criteria}
+## [!UICONTROL Engagement Score] als Gewinnkriterium {#engagement-score-as-winning-criteria}
 
 [Verwenden Sie den Interaktionswert](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md) um die Gewinnervariante in Ihrem A/B-Split-Test oder Champion-/Challenger-Test zu bestimmen. Der Test muss mindestens 24 Stunden laufen, um einen angemessenen Interaktionswert zu erhalten.
 
 ![](assets/image2014-9-22-10-3a46-3a49.png)
 
-## Registerkarte „Ergebnisse des E-Mail-Programms“ {#email-program-results-tab}
+## Registerkarte [!UICONTROL Ergebnisse] des E-Mail-Programms {#email-program-results-tab}
 
 [Ergebnisse anzeigen](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/view-email-program-results.md) und Aktivitäten protokolliert für das E-Mail-Programm.
 
 ![](assets/image2014-9-22-10-3a47-3a19.png)
 
-## Personen/Leads vom Versand blockiert {#people-leads-blocked-from-mailing}
+## Personen/[!UICONTROL Leads] vom Mailing blockiert {#people-leads-blocked-from-mailing}
 
 [Klicken Sie auf die Personen/Leads, die von der ](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) gesperrt sind, um anzuzeigen, wer die E-Mail nicht erhalten wird, da er sich abgemeldet hat, auf der schwarzen Liste steht, eine ungültige oder leere E-Mail-Adresse hat oder vom Marketing suspendiert wurde.
 
@@ -35,7 +35,7 @@ Die folgenden Funktionen sind in der Version vom Februar 2014 enthalten. Bitte �
 
 ## Exportieren von E-Mail-Programmdaten {#export-email-program-data}
 
-[Exportieren von E-Mail-Metriken nach Excel](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/export-email-program-dashboard-to-excel.md) einschließlich AB-Testvariantendaten.
+[Exportieren von E-Mail-Metriken nach [!DNL Excel]](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/export-email-program-dashboard-to-excel.md), einschließlich AB-Testvariantendaten.
 
 ## [!UICONTROL Engagement Score] im [!UICONTROL Engagement Stream Performance] Bericht {#engagement-score-in-engagement-stream-performance-report}
 
@@ -53,9 +53,9 @@ Wir haben die Interaktionsbewertung zum Bericht [[!UICONTROL Interaktionsstrom-L
 
 Die folgenden Filter- und Trigger-Namen wurden aktualisiert:
 
-* Klicks Link zu Klicks Link auf Webseite
-* Auf Link zu geklicktem Link auf Web-Seite geklickt
-* Nicht angeklickter Link zu nicht angeklicktem Link auf der Web-Seite
+* Klicks Link zu [!UICONTROL Klicks Link auf Web-Seite]
+* Auf Link geklickt [!UICONTROL auf Link auf Webseite geklickt]
+* Nicht geklickt Link zu [!UICONTROL Nicht geklickt Link auf Webseite]
 
 ![](assets/image2014-9-22-10-3a51-3a31.png)
 

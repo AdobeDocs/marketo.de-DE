@@ -4,10 +4,10 @@ description: Versionshinweise - Juni 2014 - Marketo-Dokumentation - Produktdokum
 title: Versionshinweise - Juni 2014
 exl-id: 690c4e41-831b-47b4-a0c6-d29cf607b179
 feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '260'
-ht-degree: 20%
+source-wordcount: '252'
+ht-degree: 11%
 
 ---
 
@@ -17,15 +17,15 @@ Die folgenden Funktionen sind in der Version vom Juni 2014 enthalten. Bitte übe
 
 ## Aktualisierte Benutzeroberfläche - in Kürze verfügbar! {#updated-ui-coming-soon}
 
-Ein neues Look-and-Feel, einschließlich der Navigation für die Marketo-Lead-Verwaltung, wird bald in einer späteren Version veröffentlicht!
+Ein neues Look-and-Feel, einschließlich Navigation für [!DNL Marketo Lead Management], wird bald in einer späteren Version veröffentlicht!
 
-## Sales Insight Plugin für Outlook 2013 {#sales-insight-plugin-for-outlook}
+## [!DNL Sales Insight] für [!DNL Outlook] 2013 {#sales-insight-plugin-for-outlook}
 
 Dazu muss das neue Plug-in heruntergeladen werden. Sie können ihn von [hier](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) herunterladen.
 
 ## Token-Auflösung {#token-resolution}
 
-Wenn Sie eine Test-E-Mail aus Sales Insight senden, werden Token in der E-Mail momentan nicht aufgelöst und der Standardwert wird versendet. Diese Erweiterung gewährleistet, dass Token in Test-E-Mails aufgelöst werden.
+Wenn Sie eine Test-E-Mail von [!DNL Sales Insight] senden, werden die Token in der E-Mail derzeit nicht aufgelöst, und der Standardwert wird gesendet. Diese Erweiterung gewährleistet, dass Token in Test-E-Mails aufgelöst werden.
 
 ## Prozentsätze für Sterne und Flammen anpassen {#customize-percentages-for-stars-and-flames}
 
@@ -33,7 +33,7 @@ Wenn Sie eine Test-E-Mail aus Sales Insight senden, werden Token in der E-Mail m
 
 ![](assets/image2014-9-22-13-3a50-3a31.png)
 
-## Lead ReST API {#lead-rest-api}
+## Lead REST-API {#lead-rest-api}
 
 Erstellen, lesen und aktualisieren Sie Leads programmatisch mithilfe unserer neuen ReST API. Um mit ReST zu beginnen, müssen Sie [einen benutzerdefinierten Service erstellen](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) in Marketo. Navigieren Sie dann zur [Entwickler-Site](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api/), um Details zur Verwendung dieser API zu erhalten.
 

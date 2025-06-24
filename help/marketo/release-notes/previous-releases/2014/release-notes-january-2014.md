@@ -4,9 +4,9 @@ description: Versionshinweise - Januar 2014 - Marketo-Dokumentation - Produktdok
 title: Januar 2014 - Versionshinweise
 exl-id: 1507aa40-9bd7-42be-8c85-deae8dd45234
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '297'
 ht-degree: 2%
 
 ---
@@ -29,13 +29,13 @@ Designdesigns, Schaltflächenanpassung und flexible Layouts ermöglichen es Ihne
 
 ![](assets/image2014-9-22-10-3a30-3a52.png)
 
-Möchten Sie, dass „Bundesland“ nur angezeigt wird, wenn ein Benutzer USA als „Land“ auswählt? Wie wäre es, wenn Kunden verschiedene Whitepaper präsentiert werden, die darauf basieren, wie sie Fragen in Ihrem Formular beantworten? Erstellen Sie eine bedingte Logik direkt im Editor in Ihre Formulare. Kein JavaScript erforderlich!
+Möchten Sie, dass „Bundesland“ nur angezeigt wird, wenn ein Benutzer USA als „Land“ auswählt? Wie wäre es, wenn Kunden verschiedene Whitepaper präsentiert werden, die darauf basieren, wie sie Fragen in Ihrem Formular beantworten? Erstellen Sie eine bedingte Logik direkt im Editor in Ihre Formulare. Keine [!DNL javascript] erforderlich!
 
 ![](assets/image2014-9-22-10-3a31-3a54.png)
 
 **Einfaches Einbetten von Forms auf eigenen Landingpages:**
 
-Die Zeiten, in denen HTML-Code aus Formularen auf Marketo-Landingpages entfernt und in einem iFrame abgelegt wurde, sind vorbei. Nehmen Sie einfach den Einbettungs-Code und platzieren Sie ihn auf der Landingpage an der Stelle, an der das Formular gerendert werden soll. Zwei Modi - normal und Lightbox - bieten Ihnen noch mehr Flexibilität bei Marketo-Formularen auf Ihrer Site.
+Die Zeiten, in denen HTML-Code aus Formularen auf Marketo-Landingpages entfernt und in einem [!DNL iFrame] abgelegt wurde, sind vorbei. Nehmen Sie einfach den Einbettungs-Code und platzieren Sie ihn auf der Landingpage an der Stelle, an der das Formular gerendert werden soll. Zwei Modi - normal und Lightbox - bieten Ihnen noch mehr Flexibilität bei Marketo-Formularen auf Ihrer Site.
 
 ![](assets/image2014-9-22-10-3a38-3a2.png)
 

@@ -3,10 +3,9 @@ unique-page-id: 17727823
 description: Versionshinweise - Winter '19 - Marketo-Dokumentation - Produktdokumentation
 title: Versionshinweise - Winter '19
 exl-id: 0cb3b3a1-472e-41d4-84f4-47f06e65017c
-feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '1079'
+source-wordcount: '1050'
 ht-degree: 3%
 
 ---
@@ -19,11 +18,11 @@ Bitte klicken Sie auf die Titel-Links, um detaillierte Artikel für jede Funktio
 
 >[!NOTE]
 >
->Facebook erfordert jetzt ein Business Manager-Konto, um Ihre benutzerdefinierte Audience-Integration nutzen zu können. Ihr Facebook LaunchPoint *Service (*) einem Business Manager-Konto zugeordnet sein oder **Ihre Integration funktioniert nach dem 14. Januar 2019 nicht mehr**. Informationen zum Einrichten eines Business Manager-Kontos finden Sie in der [Facebook-Hilfe](https://www.facebook.com/business/help/1710077379203657).
+>[!DNL Facebook] benötigt jetzt ein Business Manager-Konto, um Ihre benutzerdefinierte Audience-Integration nutzen zu können. Ihr [!DNL Facebook] LaunchPoint *Service muss* einem Business Manager-Konto zugeordnet sein oder **Ihre Integration funktioniert nach dem 14. Januar 2019 nicht mehr**. Informationen zum Einrichten eines Business Manager-Kontos finden Sie unter [[!DNL Facebook] Hilfe](https://www.facebook.com/business/help/1710077379203657).
 
 >[!NOTE]
 >
->Microsoft drängt alle Online-Kunden, auf die neueste Version von Microsoft Dynamics zu aktualisieren. Wenn Sie Ihre Marketo-Instanz mit Dynamics Online integrieren, müssen Sie vor dem 31. **2019 ein [Upgrade auf die neueste Version ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md) Marketo-Lösung** durchführen, um sicherzustellen, dass Ihre Integration weiterhin funktioniert.
+>Microsoft drängt alle Online-Kunden, auf die neueste Version von [!DNL Microsoft Dynamics] zu aktualisieren. Wenn Sie Ihre Marketo-Instanz mit [!DNL Dynamics Online] integrieren, müssen Sie vor dem 31. [ 2019 ein Upgrade auf ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md) neueste Version der Marketo-**durchführen** um sicherzustellen, dass Ihre Integration weiterhin funktioniert.
 
 >[!NOTE]
 >
@@ -40,33 +39,33 @@ Fügen Sie E-Mails, die über Marketo gesendet werden, bis zu fünf CC-Adressen 
 * **Unterstützung von Multi-Branding-Domains für die Asset-API:** Das Genehmigen und Klonen von Assets führt innerhalb der API und Benutzeroberfläche zu denselben Ergebnissen.
 * **E-Mail-CC-Unterstützung für Asset**-API: Benutzer, die E-Mails über die API klonen, genehmigen und verarbeiten, bleiben mit den Benutzeroberflächeneinstellungen paritätisch.
 
-**[Munchkin v155 (Beta)](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking)**
+**[[!DNL Munchkin] v155 (Beta)](https://developers.marketo.com/javascript-api/lead-tracking/configuration/)**
 
 * **Nur-API-Modus**: Benutzerinnen und Benutzer können jetzt bestimmen, wann und wie Mitglieder ihrer Datenbank verfolgt werden, indem sie zulassen, dass Single Page Web Apps explizit aufrufen, wenn sie einen Web-Seitenbesuch aufzeichnen möchten, anstatt sich auf das automatische Tracking von Marketo zu verlassen.
-* **Opt-out-Verwaltung**: Einfaches Verwalten von Opt-outs durch Abgleich der Opt-out-Cookie-Domain mit der Tracking-Cookie-Domain von Munchkin.
+* **Opt-out-Verwaltung**: Einfaches Verwalten von Opt-outs durch Abgleich der Opt-out-Cookie-Domain mit der [!DNL Munchkin] Tracking-Cookie-Domain.
 * **Entscheidungsparameter auf Domain-Ebene**: Zwei-Buchstaben-Domains (d. h. &quot;[website.io](https://website.io)„) werden in Marketo automatisch ohne zusätzliche Setup-Anforderungen verfolgt.
 
 ## Marketo Sales Engage {#marketo-sales-engage}
 
-* **Benutzerdefiniertes Salesforce-Profil**: Sales Engage unterstützt jetzt unbegrenzte benutzerdefinierte Profile.
+* **[!DNL Salesforce]Benutzerdefiniertes Profil**: Sales Engage unterstützt jetzt unbegrenzt benutzerdefinierte Profile.
 
-* **Anpassung von Salesforce**: Durch das Entfernen nicht kritischer benutzerdefinierter Aktivitätsfelder können Benutzende Sales Engage effizienter in der CRM-Plattform einrichten.
-* **E-Mail-**: Bessere Zustellbarkeit sowie verbessertes Antwort-Tracking, Funktionen für geplante E-Mails und Massen-E-Mails durch Herstellen einer Verbindung zu Microsoft Outlook (entweder über Office365 oder On-Premise über die Registerkarte E-Mail-Verbindung ).
+* **[!DNL Salesforce]Anpassung**: Durch das Entfernen nicht kritischer benutzerdefinierter Aktivitätsfelder können Benutzer Sales Engage effizienter in der CRM-Plattform einrichten.
+* **E-Mail-**: Bessere Zustellbarkeit sowie verbessertes Antwort-Tracking, Funktionen für geplante E-Mails und Funktionen für Massen-E-Mails durch Herstellen einer Verbindung zu [!DNL Microsoft Outlook] (entweder über Office365 oder On-Premise über die Registerkarte E-Mail-Verbindung ).
 * **Neue Admin-**: Es wurden zwei Admin-Seiten hinzugefügt, um Ihre Sales Engage-Instanz zu optimieren
 
    * _Team-Management_ unterstützt einen nahtlosen Prozess zur Kontoeinrichtung, indem es Administratoren ermöglicht, Abonnements und Teams zu bearbeiten.
    * _Salesforce-Admin-_: Hilft Teams beim schnelleren und einfacheren Einrichten der SFDC-Synchronisierung als je zuvor.
 
-* **OWA-Plug-in für Windows**: Mit einem einzigen Add-in werden alle Windows Office365-Clients in Sales Engage unterstützt, sodass Live-Feed in Outlook verwendet werden kann. Das neue Plug-in wird im Microsoft Store verfügbar sein.
+* **OWA-Plug-in für[!DNL Windows]**: Mit einem einzigen Add-in werden alle [!DNL Windows Office365]-Clients in Sales Engage unterstützt, sodass Live-Feed in Outlook verwendet werden kann. Das neue Plug-in wird im Microsoft Store verfügbar sein.
 * **Pusher-Aktivitäten**: Synchronisieren Sie Sales Engage mit der Marketo-Kernplattform, um Echtzeit-Marketing-Erkenntnisse zu nutzen.
 
-## Marketo Sky {#marketo-sky}
+## [!DNL Marketo Sky] {#marketo-sky}
 
 >[!NOTE]
 >
->Marketo Sky-Versionen treten häufiger auf. Die folgenden Funktionen und Verbesserungen werden voraussichtlich im späten 4. und frühen 1. Quartal veröffentlicht. Weitere Informationen und Updates finden Sie in unserer [Sky-Dokumentation](https://help.marketo.com/).
+>[!DNL Marketo Sky] Versionen erfolgen häufiger. Die folgenden Funktionen und Verbesserungen werden voraussichtlich im späten 4. und frühen 1. Quartal veröffentlicht. Weitere Informationen und Updates finden Sie in unserer [Sky-Dokumentation](https://help.marketo.com/).
 
-* **Optionales Standarderlebnis**: Marketo-Benutzende können Marketo Sky als Standarderlebnis festlegen, wenn ihnen von einem Administrator Zugriff gewährt wurde.
+* **Optionales Standarderlebnis**: Marketo-Benutzende können [!DNL Marketo Sky] als Standarderlebnis festlegen, wenn ihnen der Zugriff durch einen Administrator gewährt wurde.
 
 * **Neu gestaltete meine Marketo**: Passen Sie Ihr Erlebnis an, indem Sie Widgets hinzufügen, die wichtige Informationen, Benachrichtigungen und Links zu Ihren am häufigsten besuchten Bereichen bereitstellen.
 
@@ -74,10 +73,10 @@ Fügen Sie E-Mails, die über Marketo gesendet werden, bis zu fünf CC-Adressen 
 
 * **Globale Suche**: Marketo bietet jetzt eine schnellere und robustere globale Suchfunktion für die gesamte Plattform. Suchanfragen erstrecken sich jetzt auf alle barrierefreien Arbeitsbereiche und können nach Assets (aktiv und archiviert), Kennzeichnungen, Kampagnen und Programmen suchen. Suchergebnisse werden über eine Überlagerung bereitgestellt und jedes Ergebnis enthält sein Dateispeicherort-Protokoll, um anzugeben, wo sich das Asset befindet.
 
-* **Verbesserte Benutzeroberfläche**: Neue Symbole, Modale und Schaltflächen sowie eine neue Farbpalette, die unsere Markenaktualisierung widerspiegelt und das Marketo Sky noch beeindruckender und funktioneller macht.
+* **Verbesserte Benutzeroberfläche**: Neue Symbole, Modale und Schaltflächen sowie eine neue Farbpalette, die unsere Markenerneuerung widerspiegelt und [!DNL Marketo Sky] noch beeindruckender und funktioneller macht.
 
-* **Verbesserungen der Benutzerfreundlichkeit des E-Mail** Programms: Wir arbeiten kontinuierlich an der Parität der E-Mail-Programmfunktionen zwischen unserer klassischen Marketo-Lead-Management-Plattform und dem neuen Marketo Sky-Erlebnis.
-* **Event-With-Webinar Programme**: Event-With-Webinar Programme sind jetzt als Marketo Sky verfügbar (Hinweis: Nur GoToWebinar wird in dieser Version unterstützt, wobei im Laufe der Zeit weitere Integrationen etabliert werden).
+* **Verbesserungen der Benutzerfreundlichkeit des E-Mail** Programms: Wir arbeiten kontinuierlich an der Parität der E-Mail-Programmfunktionen zwischen unserer klassischen Marketo-Lead-Management-Plattform und dem neuen [!DNL Marketo Sky].
+* **Event-With-Webinar Programme**: Event-With-Webinar Programme sind jetzt in [!DNL Marketo Sky] verfügbar (Hinweis: Nur GoToWebinar wird in dieser Version unterstützt, wobei im Laufe der Zeit weitere Integrationen etabliert werden).
 
 ## Kundenbezogenes Marketing {#account-based-marketing}
 
@@ -87,13 +86,13 @@ Personalisieren Sie Ihre ABM-Kampagnen für bestimmte Personas in benannten Kont
 
 ## Analytics {#analytics}
 
-**Bizible**
+**[!DNL Bizible]**
 
-* **Benutzerdefinierte berechnete Felder**: Verwenden Sie ein beliebiges Bizible-Attribut, um benutzerdefinierte Felder zu erstellen, die für die Dashboard-Berichterstellung und -Segmentierung verwendet werden können.
+* **Benutzerdefinierte berechnete Felder**: Verwenden Sie ein beliebiges [!DNL Bizible]-Attribut, um benutzerdefinierte Felder zu erstellen, die für die Dashboard-Berichterstellung und -Segmentierung verwendet werden können.
 
 * **SOC II Typ II Zertifizierung**: Die neue Sicherheits- und Datenschutzzertifizierung baut auf der Akkreditierung Typ I von Anfang dieses Jahres auf.
 
-## Web-Personalisierung {#web-personalization}
+## [!DNL Web Personalization] {#web-personalization}
 
 **[In den Kontoeinstellungen Subdomänen hinzufügen](/help/marketo/product-docs/web-personalization/getting-started/workspaces-in-web-personalization.md)**
 
@@ -105,7 +104,8 @@ Um Domains und Subdomains effizienter zu verwalten, können Benutzer jetzt Subdo
 
 Wir haben unser SDK für Android auf ein moderneres, stabileres und skalierbareres Framework aktualisiert, das mehr Flexibilität und neue technische Funktionen bietet. Entwickler von Android-Apps können jetzt mit diesem neuen SDK direkt [Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging/) (FCM) von Google verwenden.
 
-* [Entwickleranweisungen]https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)
+* [Entwickleranweisungen](https://developers.marketo.com/mobile/installation/#android_adding_fcm_to_your_application)
+* [Häufig gestellte Fragen für Entwickler](https://developers.marketo.com/mobile/installation/#android_fcm_faq)
 
 >[!NOTE]
 >

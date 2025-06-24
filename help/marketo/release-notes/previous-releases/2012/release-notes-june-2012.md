@@ -4,7 +4,7 @@ description: Versionshinweise - Juni 2012 - Marketo-Dokumentation - Produktdokum
 title: Versionshinweise - Juni 2012
 exl-id: c22eda86-da7a-4c76-9cea-1ce23ff0f3e8
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
 source-wordcount: '670'
 ht-degree: 0%
@@ -25,13 +25,13 @@ Und als Bonus haben wir die Eingabe und Anzeige von Beschreibungstexten für Ass
 
 ## Feldzuordnung importieren {#import-field-mapping}
 
-Wir haben den Import einer Liste in Marketo erheblich vereinfacht! Während des Importvorgangs können Sie den Namen des Marketo-Felds dem Namen der Spaltenüberschrift in der Importdatei zuordnen. Darüber hinaus können Sie in Admin Aliasnamen einrichten, die dem Feldnamen in Marketo zugeordnet sind, sodass Ihre Benutzerinnen und Benutzer jedes Mal das richtige Feld auswählen können.
+Wir haben den Import einer Liste in Marketo erheblich vereinfacht! Während des Importvorgangs können Sie den Namen des Marketo-Felds dem Namen der Spaltenüberschrift in der Importdatei zuordnen. Darüber hinaus können Sie in [!UICONTROL Admin] Aliasnamen einrichten, die dem Feldnamen in Marketo zugeordnet sind, sodass Ihre Benutzerinnen und Benutzer jedes Mal das richtige Feld auswählen.
 
 Wenn Sie weiterhin Felder importieren und zuordnen, speichert Marketo die Zuordnungen und zeigt sie während des Imports an, um die Verwendung zu erleichtern. Und um das Leben noch einfacher zu gestalten, können Sie auf die Kopfzeile Beispielwert klicken, um die verschiedenen Werte anzuzeigen, die in das Feld eingefügt würden. Dadurch wird sichergestellt, dass Sie jedes Mal das richtige Feld zuordnen!
 
 ![](assets/image2014-9-23-10-3a23-3a27.png)
 
-## Zusammenfassungsseite für Smart- und statische Listen {#summary-page-for-smart-lists-and-static-lists}
+## [!UICONTROL Zusammenfassung] Seite für Smart- und statische Listen {#summary-page-for-smart-lists-and-static-lists}
 
 Haben Sie sich schon einmal gefragt, wo Ihre Listen verwendet werden? Oder wer hat die Liste erstellt oder zuletzt geändert? Die neue Zusammenfassungsseite, die für Smart-Listen und statische Listen verfügbar ist, bietet Ihnen diese wichtigen Details.
 
@@ -41,13 +41,13 @@ Auf den bestehenden Übersichtsseiten für Programme und Kampagnen wurden das Er
 
 ![](assets/image2014-9-23-10-3a23-3a54.png)
 
-## Von für Assets verwendet {#used-by-for-assets}
+## [!UICONTROL Von] für Assets verwendet {#used-by-for-assets}
 
-Wir haben eine neue Registerkarte mit dem Namen „Verwendet von“ zu unseren Asset-Zusammenfassungsseiten hinzugefügt!
+Wir haben eine neue Registerkarte zu unseren Asset[!UICONTROL Zusammenfassungs-] namens &quot;[!UICONTROL  von“ ]!
 
 ![](assets/image2014-9-23-10-3a24-3a5.png)
 
-Beispiel: von für statische Listen verwendet
+Beispiel: [!UICONTROL Verwendet von] für statische Listen
 
 ## Gitternetzlinien für Landingpages {#landing-page-gridlines}
 
@@ -63,13 +63,13 @@ Bei der Planung einer Kampagne können Sie auf den Link klicken, um die Liste de
 
 ![](assets/image2014-9-23-10-3a24-3a51.png)
 
-## Schritt warten - Lead-Token und mein Token {#wait-step-lead-token-and-my-token}
+## [!UICONTROL Warten] Schritt - Lead-Token und mein Token {#wait-step-lead-token-and-my-token}
 
-In unserer Mai-Version haben wir erweiterte Optionen zum Schritt Wartefluss hinzugefügt. Mit diesen Änderungen können Sie einen Geschäftstag, ein Datum und eine Uhrzeit angeben. In dieser Version haben wir die Möglichkeit hinzugefügt, im Warteschritt ein Token zu verwenden. Beispielsweise können Sie `{{lead.Birthday}}` verwenden, um eine E-Mail an den Geburtstag zu senden, oder `{{my.Event Date}}`, um eine endgültige Webinar-Erinnerung zu senden.
+In unserer Mai-Version haben wir erweiterte Optionen zum [!UICONTROL Warten]-Flussschritt hinzugefügt. Mit diesen Änderungen können Sie einen Geschäftstag, ein Datum und eine Uhrzeit angeben. In dieser Version haben wir die Möglichkeit hinzugefügt, im Warteschritt ein Token zu verwenden. Beispielsweise können Sie `{{lead.Birthday}}` verwenden, um eine E-Mail an den Geburtstag zu senden, oder `{{my.Event Date}}`, um eine endgültige Webinar-Erinnerung zu senden.
 
 ![](assets/image2014-9-23-10-3a25-3a57.png)
 
-## Als Miniaturansichten in Design Studio anzeigen {#view-as-thumbnails-in-design-studio}
+## [!UICONTROL Anzeigen] als [!UICONTROL Miniaturansichten] in Design Studio {#view-as-thumbnails-in-design-studio}
 
 Wechseln Sie Ihre Ansicht von einer Bildliste zu einer Miniaturansicht!
 

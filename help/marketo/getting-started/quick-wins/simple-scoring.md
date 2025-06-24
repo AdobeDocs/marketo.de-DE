@@ -4,9 +4,9 @@ description: Einfache Bewertung - Marketo-Dokumente - Produktdokumentation
 title: Einfache Bewertung
 exl-id: 6129d46a-e6d2-4819-9b6c-ccbf37060712
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '375'
 ht-degree: 4%
 
 ---
@@ -66,7 +66,7 @@ ht-degree: 4%
 
    ![](assets/simple-scoring-9.png)
 
-1. Ziehen Sie **Flussaktion** Score ändern“ auf die linke Arbeitsfläche.
+1. Ziehen Sie **[!UICONTROL Flussaktion]** Score ändern“ auf die linke Arbeitsfläche.
 
    ![](assets/simple-scoring-10.png)
 

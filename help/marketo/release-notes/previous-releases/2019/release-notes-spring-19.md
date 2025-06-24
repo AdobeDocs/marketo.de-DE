@@ -3,11 +3,10 @@ unique-page-id: 17728380
 description: Versionshinweise - Frühjahr 2019 - Marketo-Dokumentation - Produktdokumentation
 title: Versionshinweise - Frühjahr 2019
 exl-id: eb7a9ac4-5c3d-4d98-9b06-e3f11147bc6d
-feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '460'
-ht-degree: 6%
+source-wordcount: '454'
+ht-degree: 5%
 
 ---
 
@@ -23,9 +22,9 @@ Die folgenden Funktionen wurden am 15. März 2019 veröffentlicht.
 
 ## Verbesserungen der Kernplattform {#core-platform-enhancements}
 
-* **Warteliste:** Neuer Programm-/Ereignisstatus für die Warteliste für ein Mitglied, wenn Sie es [ „zurückstellen“ möchten](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) bis eine freie Stelle geöffnet wird. Dies gilt für Kanäle, die mit Veranstaltungsprogrammen in Marketo Classic verknüpft sind, und sowohl für Veranstaltungen als auch für Veranstaltungen mit Webinar-Programmen in Marketo Sky. Standardmäßig hat die Warteliste denselben Schrittwert wie „Registriert“.
+* **Warteliste:** Neuer Programm-/Ereignisstatus für die Warteliste für ein Mitglied, wenn Sie es [ „zurückstellen“ möchten](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) bis eine freie Stelle geöffnet wird. Dies gilt für Kanäle, die mit Veranstaltungsprogrammen in Marketo Classic verknüpft sind, und sowohl für Ereignis- als auch für Ereignis-mit-Webinar-Programmen in [!DNL Marketo Sky]. Standardmäßig hat die Warteliste denselben Schrittwert wie „Registriert“.
 * **[Benutzerdefiniertes Kommunikationslimit](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)**: Administratoren können jetzt benutzerdefinierte tägliche oder wöchentliche Kommunikationslimits festlegen.
-* **[Smart Campaign Asset-APIs](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**: Reichern Sie Ihre Analysen außerhalb von Marketo mit dem Abruf von intelligenten Kampagnendatensätzen nach aktualisiertem Datum und aktualisierter ID an.
+* **[Smart Campaign Asset-APIs](https://developers.marketo.com/rest-api/assets/smart-campaigns/)**: Reichern Sie Ihre Analysen außerhalb von Marketo mit dem Abruf von intelligenten Kampagnendatensätzen nach aktualisiertem Datum und aktualisierter ID an.
 * **HTTPS-Tracking-Links für E-Mail**: Kunden, die „Sichere Domains für Tracking-Links“ erworben haben, können jetzt Marken-Tracking-Links in Ihren E-Mails als HTTPS anzeigen.
 * **Aktualisierungen des E-Mail-Zustellbarkeits-Powerpacks**: Möglichkeit, bestimmte Testergebnisse zu kennzeichnen und zu kommentieren, Ergebnisse über eine URL für Interessengruppen freizugeben und Änderungen zu verfolgen, um die Entwicklung einer E-Mail zu verfolgen, während Interessengruppen Inhalte bearbeiten.
 
@@ -39,7 +38,7 @@ Kundenbezogenes Marketing
 
 Die folgenden Funktionen werden voraussichtlich im ersten Kalenderquartal und bis zum Beginn des zweiten Quartals 2019 veröffentlicht.
 
-## Marketo Sky {#marketo-sky}
+## [!DNL Marketo Sky] {#marketo-sky}
 
 * **Vollständige E-Mail** Programmfunktionalität: Senden Sie E-Mails, erstellen Sie A/B-Tests und verfolgen Sie die Ergebnisse in einem benutzerfreundlichen Erlebnis.
 * **Smart Campaign-Funktionalität**: Eine neue Benutzeroberfläche bietet verbesserte Stabilität, da die Funktion für intelligente Kampagnen auch in Sky weiter eingeführt wird.
@@ -51,8 +50,8 @@ Die folgenden Funktionen werden voraussichtlich im ersten Kalenderquartal und bi
 * **Verbesserte Prüfung**: Neue Sichtbarkeit aller Personen, E-Mails und [Inhalte](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md) in einer Instanz mit zusätzlicher Möglichkeit, [ von anderen Benutzern ](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md) Kampagnen zu beenden.
 * **[Abmeldeverwaltung](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md)**: Maximieren Sie die Zustellbarkeit und Einhaltung der Möglichkeit, E[Mail-Domains ](/help/marketo/product-docs/marketo-sales-connect/admin/blocked-domains.md) blockieren. Marketo wird vor dem Senden einer E-Mail auch einen Querverweis auf die Lead-Datenbank für Abmeldungen durchführen.
 
-## Bizible von Marketo {#bizible-by-marketo}
+## [!DNL Bizible] von Marketo {#bizible-by-marketo}
 
-* **Funktionsverbesserungen für Bizible Discover**: Neue Funktionen zur Dashboard-Segmentierung ermöglichen es Marketing-Experten, die Leistung besser zu verstehen.
-* **Unterstützung mehrerer Währungen**: Wechseln Sie zwischen Ihrer Unternehmenswährung und einer beliebigen lokalen Währung mit der neuen automatischen Währungsumrechnungsfunktion von Bizible, die auf CRM-Währungstabellen basiert.
+* **[!DNL Bizible]Funktionsverbesserungen entdecken**: Neue Dashboard-Segmentierungsfunktionen ermöglichen es Marketing-Experten, die Leistung besser zu verstehen.
+* **Unterstützung mehrerer Währungen**: Wechseln Sie zwischen Ihrer Unternehmenswährung und einer beliebigen lokalen Währung mit der neuen automatischen Währungsumrechnungsfunktion von [!DNL Bizible], die auf CRM-Währungstabellen basiert.
 * **CRM-Kampagnenkosten**: Messen Sie die Ausgaben und den ROI von Offline-Marketing-Aktivitäten mit der Möglichkeit, automatisch Kostendaten aus dem CRM-Kampagnenobjekt abzurufen.

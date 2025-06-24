@@ -4,10 +4,10 @@ description: Versionshinweise - September 2013 - Marketo-Dokumentation - Produkt
 title: September 2013 - Versionshinweise
 exl-id: 43428813-0405-4c35-9165-f189fbb5ffb7
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '502'
-ht-degree: 11%
+source-wordcount: '496'
+ht-degree: 10%
 
 ---
 
@@ -31,15 +31,15 @@ Verwenden Sie Daten aus benutzerdefinierten Marketo-Objekten oder fügen Sie Ihr
 
 Die Aktion Test senden wurde in Beispiel senden umbenannt
 
-## Personalisierte Beispiel-E-Mail senden {#personalized-send-sample-email}
+## Personalisiert [!UICONTROL Beispiel-E-Mail senden] {#personalized-send-sample-email}
 
 Wenn Sie ein E-Mail-Beispiel senden, können Sie den Namen eines Leads auswählen, um die Beispiel-E-Mail zu personalisieren.
 
 ![](assets/image2014-9-22-17-3a11-3a22.png)
 
-## Synchronisierung zusätzlicher Felder für GoToWebinar {#additional-field-sync-for-gotowebinar}
+## Zusätzliche Feldsynchronisierung für [!DNL GoToWebinar] {#additional-field-sync-for-gotowebinar}
 
-Sie können den Firmennamen und die Stellenbezeichnung aus Ihrem Marketo-Formular mit GoToWebinar synchronisieren. Um diese zusätzlichen Felder zu aktivieren, gehen Sie zu Ereignispartner und aktivieren Sie „Zusätzliche Felder aktivieren“.
+Sie können den Firmennamen und die Stellenbezeichnung aus Ihrem Marketo-Formular mit [!DNL GoToWebinar] synchronisieren. Um diese zusätzlichen Felder zu aktivieren, gehen Sie zu Ereignispartner und aktivieren Sie „Zusätzliche Felder aktivieren“.
 
 ![](assets/image2014-9-22-17-3a11-3a53.png)
 
@@ -53,13 +53,13 @@ Die in Design Studio hochgeladenen Dateien werden nun automatisch überprüft un
 
 ## Analyzer für Opportunity-Einfluss exportieren {#export-opportunity-influence-analyzer}
 
-Sie können jetzt die Daten im Opportunity Influence Analyzer nach Excel exportieren. Jede exportierte Excel-Datei enthält alle Marketing-Interaktionen für alle Leads (einschließlich derjenigen ohne Rolle in der Opportunity) sowie alle Opportunitys unter dem ausgewählten Konto im Analyzer. Die Opportunity-Zeilen sind grün hervorgehoben. Sie können die nativen Datenfilterfunktionen von Excel verwenden, wenn Sie sich auf bestimmte Leads oder Marketing-Aktivitäten konzentrieren müssen.
+Sie können die Daten jetzt im Opportunity Influence Analyzer nach [!DNL Excel] exportieren. Jede exportierte [!DNL Excel]-Datei enthält alle Marketing-Interaktionen für alle Leads (einschließlich der Leads ohne Rolle in der Opportunity) sowie alle Opportunitys unter dem im Analyzer ausgewählten Konto. Die Opportunity-Zeilen sind grün hervorgehoben. Sie können die nativen Datenfilterfunktionen von [!DNL Excel] verwenden, wenn Sie sich auf bestimmte Leads oder Marketing-Aktivitäten konzentrieren müssen.
 
 ![](assets/image2014-9-22-17-3a12-3a23.png)
 
 ## Programmzuordnung – Einstellungen {#program-attribution-settings}
 
-Sie können die Art und Weise ändern, wie Marketo Kontakte und Chancen für Erstkontakt- und Multi-Touch-Attributionsmetriken verknüpft, einschließlich der Möglichkeit, kontobasierte Attributionen durchzuführen. Diese Einstellungen wirken sich auf Attributionsmetriken in Umsatz-Explorer-Berichten im Programm-Opportunity-Analysebereich und im Opportunity-Analysebereich aus. Dies wirkt sich auch auf die Attributionsmetriken in Program Analyzer aus.
+Sie können die Art und Weise ändern, wie Marketo Kontakte und Chancen für Erstkontakt- und Multi-Touch-Attributionsmetriken verknüpft, einschließlich der Möglichkeit, kontobasierte Attributionen durchzuführen. Diese Einstellungen wirken sich auf Attributionsmetriken in [!UICONTROL Umsatz-Explorer]-Berichten im Bereich „Programm-Opportunity-Analyse“ und im Bereich „Opportunity-Analyse“ aus. Dies wirkt sich auch auf die Attributionsmetriken in Program Analyzer aus.
 
 Sie können die Einstellungen für die Programmzuordnung in eine von drei Optionen ändern. Wenn Sie diese Einstellung ändern, werden keine Marketo- oder CRM-Daten geändert. Sie ändern lediglich die Ausführung Ihrer Berichte und können jederzeit rückgängig gemacht werden.
 
@@ -67,9 +67,9 @@ Mit der Einstellung Explizit werden nur Kontakte mit Rollen geprüft (aktuelles 
 
 ![](assets/image2014-9-22-17-3a12-3a43.png)
 
-## Sales Insight auf Französisch und Deutsch verfügbar (nur Salesforce) {#sales-insight-available-in-french-and-german-salesforce-only}
+## [!UICONTROL Sales Insight] nur auf Französisch und Deutsch verfügbar ([!DNL Salesforce]) {#sales-insight-available-in-french-and-german-salesforce-only}
 
-Laden Sie die neueste Version von Marketo Lead Management und Marketo Sales Insight von AppExchange herunter, damit Ihre französischen und deutschen Vertriebsmitarbeiter Sales Insights in ihrer bevorzugten Sprache anzeigen können.
+Laden Sie die neueste Version von Marketo Lead Management und Marketo [!UICONTROL Sales Insight] von [!DNL AppExchange] herunter, damit Ihre französischen und deutschen Vertriebsmitarbeiter [!UICONTROL Sales Insight] Inhalte in ihrer bevorzugten Sprache sehen können.
 
 ![](assets/image2014-9-22-17-3a13-3a12.png)
 

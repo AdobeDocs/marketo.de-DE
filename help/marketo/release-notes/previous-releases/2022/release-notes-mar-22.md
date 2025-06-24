@@ -3,10 +3,10 @@ description: März 2022 - Versionshinweise zu Marketo - Produktdokumentation
 title: März 2022 – Versionshinweise
 exl-id: 91826d56-a38e-44af-b798-17bfc016c311
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '759'
-ht-degree: 1%
+source-wordcount: '750'
+ht-degree: 0%
 
 ---
 
@@ -16,7 +16,7 @@ Die folgenden Funktionen sind in der Version vom 22. März enthalten. Überprüf
 
 >[!AVAILABILITY]
 >
->Mit einem Stern (![star](assets/yellow-star.png) gekennzeichnete Funktionen sind kostenpflichtige Add-ons. Weitere Informationen erhalten Sie von Ihrem Marketo Engage-Support-Mitarbeiter.
+>Mit einem Stern (![star](assets/yellow-star.png) gekennzeichnete Funktionen sind kostenpflichtige Add-ons. Weitere Informationen erhalten Sie vom Marketo Engage-Support.
 
 **_Quartalsveröffentlichungen_**
 
@@ -24,7 +24,7 @@ Die folgenden Funktionen werden ab dem 11. **2022 veröffentlicht** wobei in den
 
 ## Kanalübergreifende Orchestrierung {#cross-channel-orchestration}
 
-* **Dynamic Chat**: Maximieren Sie jede Chance auf Ihrer Website, indem Sie sowohl Leads als auch Accounts mit proaktiven, ansprechenden und 1:1 personalisierten Konversationen ansprechen. Mit [Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} können Marketo Engage-Benutzer Chat als wichtigen Teil integrierter kanalübergreifender Erlebnisse für B2B-Marketing- und -Verkaufs-Anwendungsfälle nutzen. Zu den Funktionen gehören: die Möglichkeit, Meetings direkt im Chat zu buchen, Lead-Routing, Starter-Vorlagen, Erstellung von Konversationen per Drag-and-Drop und vieles mehr. Dynamic Chat ist in allen Marketo Engage-Paketen enthalten und wird in diesem Jahr für alle Marketo Engage-Nutzer eingeführt.
+* **[!DNL Dynamic Chat]**: Maximieren Sie jede Gelegenheit auf Ihrer Website, indem Sie sowohl Leads als auch Konten mit proaktiven, ansprechenden und 1:1 personalisierten Gesprächen ansprechen. [Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} ermöglicht es Marketo Engage-Benutzern, Chat als wichtigen Teil integrierter kanalübergreifender Erlebnisse für B2B-Marketing- und -Verkaufs-Anwendungsfälle zu nutzen. Zu den Funktionen gehören: die Möglichkeit, Meetings direkt im Chat zu buchen, Lead-Routing, Starter-Vorlagen, Erstellung von Konversationen per Drag-and-Drop und vieles mehr. Dynamic Chat ist in allen Marketo Engage-Paketen enthalten und wird in diesem Jahr für alle Marketo Engage-Benutzer eingeführt.
 
 * **Verbesserung der Filterung von E-Mail** Bot-Aktivitäten: Als Erweiterung der zuvor veröffentlichten Funktion [Filterung von E-Mail-Bot-Aktivitäten](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"} können Sie sich jetzt für die Protokollierung von Aktivitäten anmelden, die als Bots identifiziert werden. Anschließend können Sie Aktionen filtern und mit Triggern versehen, die auf Aktivitäten basieren, die als von Bots ausgeführt identifiziert wurden.
 
@@ -32,7 +32,7 @@ Die folgenden Funktionen werden ab dem 11. **2022 veröffentlicht** wobei in den
 
 * **Aktualisierter Screens im Erlebnis der nächsten Generation**: Wir bieten zusätzliche, aktualisierte Bildschirme im Erlebnis der nächsten Generation, die aktualisierte Design- und Benutzerfreundlichkeitsverbesserungen bieten, die über einen Umschalter zugänglich sind:
 
-   * Formularlistenansicht in Design Studio (einschließlich neuer Massenaktionen)
+   * Formularlistenansicht in [!UICONTROL Design Studio] (einschließlich neuer Massenaktionen)
 
 * **Programm-Workflow-Aktualisierung importieren**: Der Workflow für das Importprogramm wird in der nächsten Generation mit einem aktualisierten Design und Verbesserungen bei der Benutzerfreundlichkeit bereitgestellt. Dies ist eine automatische Änderung ohne Umschalter.
 
@@ -60,22 +60,22 @@ Die folgenden Funktionen werden ab dem 11. **2022 veröffentlicht** wobei in den
 
 Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus und werden in den kommenden Monaten veröffentlicht.
 
-## Bizible {#bizible}
+## [!DNL Bizible] {#bizible}
 
 ![(Stern)](assets/yellow-star.png)
 
-* **BI-Vorlagen**: Bizible stellt jetzt herunterladbare, grundlegende Reporting-Artefakte und Beispielberichte für Tableau und Power BI bereit, um eine schnelle Entwicklung benutzerdefinierter Berichte zu ermöglichen, die auf Ihre spezifischen Geschäftsanforderungen zugeschnitten sind.
+* **BI-Vorlagen**: [!DNL Bizible] bietet jetzt herunterladbare, grundlegende Reporting-Artefakte und Beispielberichte für Tableau und Power BI, um eine schnelle Entwicklung benutzerdefinierter Berichte zu ermöglichen, die auf Ihre spezifischen Geschäftsanforderungen zugeschnitten sind.
 
-## Sales Connect {#sales-connect}
+## [!DNL Sales Connect] {#sales-connect}
 
 ![(Stern)](assets/yellow-star.png)
 
-* **Drosselung der E-Mail-Verbindung (GA)**: Mit der Drosselung der E-Mail-Verbindung können Sales Connect-Admins die Versandrate von E-Mails konfigurieren, wenn Gmail oder Exchange als Versandkanal verwendet wird, sodass die Rate, mit der E-Mails an den Versandkanalanbieter übergeben werden, die erzwungenen Grenzwerte nicht überschreitet.
+* **Drosselung der E-Mail-Verbindung (GA)**: Mit der Drosselung der E-Mail-Verbindung können [!DNL Sales Connect]-Admins die Versandrate von E-Mails konfigurieren, wenn Gmail oder [!DNL Exchange] als Versandkanal verwendet wird, sodass die Rate, mit der E-Mails an den Anbieter des Versandkanals übergeben werden, die erzwungenen Grenzwerte nicht überschreitet.
 
 ## Ankündigungen {#announcements}
 
-* **Einstellung von Marketo Sky**: Im März wird Marketo Sky nicht mehr verfügbar sein, da wir unsere Ressourcen auf die Bereitstellung des Benutzererlebnisses der nächsten Generation konzentrieren. Im Bestreben, den Zugriff auf Funktionen aufrechtzuerhalten, die heute nur beim Marketo Sky verfügbar sind, bringen wir Asset-Ablauf und Smart Campaign Priority Override in das klassische Erlebnis ein. [Hier klicken](https://nation.marketo.com/t5/the-modern-ux/marketo-sky-deprecation-notice/ba-p/320115#M33) um mehr zu erfahren.
+* **Einstellung von Marketo Sky**: Im März wird Marketo Sky nicht mehr verfügbar sein, da wir unsere Ressourcen auf die Bereitstellung des Benutzererlebnisses der nächsten Generation konzentrieren. Im Bestreben, den Zugriff auf Funktionen aufrechtzuerhalten, die derzeit nur Marketo Sky zur Verfügung stehen, bringen wir Asset-Ablauf und Smart Campaign Priority Override in die klassische Version ein. [Hier klicken](https://nation.marketo.com/t5/the-modern-ux/marketo-sky-deprecation-notice/ba-p/320115#M33) um mehr zu erfahren.
 
 **_Webinar zur Produktversion_**
 
-[Webinar zur Marketo Engage vom März und Mai 2022](https://engage.marketo.com/2022_March_May_Release_Webinar_DemandPage.html){target="_blank"}
+[Webinar zur Marketo Engage-Version vom März und Mai 2022](https://engage.marketo.com/2022_March_May_Release_Webinar_DemandPage.html){target="_blank"}

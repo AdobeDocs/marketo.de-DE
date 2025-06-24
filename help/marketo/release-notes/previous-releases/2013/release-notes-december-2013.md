@@ -4,10 +4,10 @@ description: Versionshinweise - Dezember 2013 - Marketo-Dokumentation - Produktd
 title: Versionshinweise - Dezember 2013
 exl-id: 145e2706-c770-4f39-a1ef-77b7912b1b70
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '312'
-ht-degree: 4%
+source-wordcount: '310'
+ht-degree: 1%
 
 ---
 
@@ -35,14 +35,14 @@ Führen Sie im neuen E-Mail-Programm einen [A/B-Test](/help/marketo/product-docs
 
 [Champion-/Challenger-Tests](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md) ähneln A/B-Tests, aber der Unterschied besteht darin, dass sie für ausgelöste E-Mails verwendet werden und Sie nicht automatisch einen Gewinner senden. Dieser Test ermöglicht es, eine etablierte Methode herauszufordern, etwas zu tun, das Champion genannt wird, und Sie testen, ob es immer noch die beste ist, indem Sie einen Challenger vorstellen. Darüber hinaus können Champion-/Challenger-E-Mail-Tests innerhalb von Interaktions-Programm-Streams verwendet werden.
 
-## Lead-Details in der E-Mail-Analyse {#lead-details-in-email-analysis}
+## Lead-Details in [!UICONTROL E-Mail-] {#lead-details-in-email-analysis}
 
-Wir haben in E-Mail-Analyse zusätzliche Lead- und Unternehmensattribute eingeführt. Sie können jetzt Ihre E-Mail-Statistiken gruppiert nach neuen Attributen wie „Branche“ und „Lead Source&quot; anzeigen.
+Wir haben in „E-Mail-Analyse[!UICONTROL  zusätzliche Lead- und ] eingeführt. Sie können jetzt Ihre E-Mail-Statistiken gruppiert nach neuen Attributen wie [!UICONTROL Branche] und [!UICONTROL Lead Source] anzeigen.
 
 ![](assets/image2014-9-22-17-3a20-3a43.png)
 
 ![](assets/image2014-9-22-17-3a21-3a18.png)
 
-## Erweiterter BrightTALK-Veranstaltungsadapter {#enhanced-brighttalk-event-adapter}
+## Erweiterter [!DNL BrightTALK] Ereignisadapter {#enhanced-brighttalk-event-adapter}
 
-Jetzt können Sie Teilnehmer von Ihrem BrightTALK-Kanal und Ihrer Veranstaltung aus nach Marketo ziehen. Sie können diese Informationen verwenden, um andere Marketing-Kampagnen zu informieren!
+Jetzt können Sie aus Ihrem [!DNL BrightTALK] Kanal und Ihrer Veranstaltung Teilnehmer in Marketo abrufen. Sie können diese Informationen verwenden, um andere Marketing-Kampagnen zu informieren!

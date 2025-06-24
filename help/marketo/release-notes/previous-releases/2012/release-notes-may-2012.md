@@ -4,9 +4,9 @@ description: Mai 2012 - Versionshinweise zu Marketo - Produktdokumentation
 title: Mai 2012 - Versionshinweise
 exl-id: b951e986-359d-4da0-8654-4d9f1416cebb
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '660'
+source-wordcount: '641'
 ht-degree: 4%
 
 ---
@@ -55,7 +55,7 @@ Abbildung 5. Check sie in
 
 ## URL zur Bestätigung von erweiterten Webinaren {#enhanced-webinar-confirmation-url}
 
-Jetzt für ON24 und Adobe Connect verfügbar! Fügen Sie für jeden registrierten Teilnehmer mithilfe des neuen `{{member.webinar URL}}`-Tokens einen eindeutigen Link in die Bestätigungs-E-Mail ein. Zu den Adobe Connect-Verbesserungen gehört auch die Möglichkeit, die E-Mail mit den Adobe-Kontoinformationen, die die Anmelde-ID und das Passwort für den Benutzer enthalten, ein-/auszuschalten.
+Jetzt für [!DNL ON24] und Adobe Connect verfügbar! Fügen Sie für jeden registrierten Teilnehmer mithilfe des neuen `{{member.webinar URL}}`-Tokens einen eindeutigen Link in die Bestätigungs-E-Mail ein. Zu den Adobe Connect-Verbesserungen gehört auch die Möglichkeit, die E-Mail mit den Adobe-Kontoinformationen, die die Anmelde-ID und das Passwort für den Benutzer enthalten, ein-/auszuschalten.
 
 ![](assets/image2014-9-23-10-3a15-3a44.png)
 
@@ -89,39 +89,39 @@ Zugriff auf experimentelle Funktionen, die von Marketo-Technikern entwickelt wur
 
 Abbildung 10. Manager Treasure Chest-Funktionen in Admin
 
-## Microsoft Dynamics® CRM-Integration {#microsoft-dynamics-crm-integration}
+## [!DNL Microsoft Dynamics]® CRM-Integration {#microsoft-dynamics-crm-integration}
 
-Synchronisieren Sie Konten, Kontakte und Leads zwischen Marketo und Microsoft Dynamics CRM Online mithilfe unserer neuen vordefinierten Integration!
+Synchronisieren Sie Konten, Kontakte und Leads zwischen Marketo und [!DNL Microsoft Dynamics] CRM Online mithilfe unserer neuen vordefinierten Integration!
 
 ![](assets/image2014-9-23-10-3a17-3a6.png)
 
-Abbildung 11. Microsoft Dynamics-Konfiguration
+Abbildung 11. [!DNL Microsoft Dynamics]
 
-## Verbesserungen bei Marketo Sales Insight {#marketo-sales-insight-enhancements}
+## Marketo[!DNL Sales Insight]Produktverbesserungen {#marketo-sales-insight-enhancements}
 
 **Optionen für Fußzeile abmelden**
 
-Konfigurieren Sie, wann und ob die Abmelde-Fußzeile für E-Mails angezeigt wird, die über Sales Insight gesendet werden.
+Konfigurieren Sie, wann und ob die Abmelde-Fußzeile für E-Mails angezeigt wird, die über [!DNL Sales Insight] gesendet werden.
 
 ![](assets/image2014-9-23-10-3a17-3a20.png)
 
-Abbildung 12. Einstellungen für Sales Insights in Admin
+Abbildung 12. [!DNL Sales Insight] in Admin
 
 ## Ordner für Verkaufs-E-Mail-Vorlagen {#folders-for-sales-email-templates}
 
-Sie können jetzt die mit Marketo Sales Insight freigegebenen E-Mail-Vorlagen in bestimmten Ordnern organisieren, um Ihren Vertriebsmitarbeitern die Suche nach der richtigen E-Mail zu erleichtern.
+Sie können jetzt die mit Marketo [!DNL Sales Insight] freigegebenen E-Mail-Vorlagen in bestimmten Ordnern organisieren, um Ihren Vertriebsmitarbeitern die Suche nach der richtigen E-Mail zu erleichtern.
 
 ![](assets/image2014-9-23-10-3a17-3a35.png)
 
 Abbildung 13. Ordner für E-Mails auswählen
 
-## Zugriff auf Opportunity Analyzer über Sales Insight {#access-opportunity-analyzer-from-sales-insight}
+## Zugriff auf Opportunity Analyzer über [!DNL Sales Insight] {#access-opportunity-analyzer-from-sales-insight}
 
-Bieten Sie Ihren Vertriebsmitarbeitern einen Einblick in die Marketing-Aktivitäten, die die Interaktion fördern, indem Sie direkt auf den Opportunity Analyzer von Marketo Sales Insight zugreifen. Hinweis. Erfordert die Lizenz für Revenue Cycle Analytics.
+Stellen Sie Ihren Vertriebsmitarbeitern insight zur Verfügung, in das die Marketing-Aktivitäten die Interaktion fördern, indem Sie direkten Zugriff auf den Opportunity Analyzer von Marketo [!DNL Sales Insight] aus nutzen. Hinweis. Erfordert die Lizenz für Revenue Cycle Analytics.
 
 ## Benutzerdefiniertes Feld für Kontaktstatus {#custom-field-for-contact-status}
 
-Sie können jetzt in Salesforce ein benutzerdefiniertes Feld zuordnen, um das Statusfeld für Kontakte in den Meine besten Bets, Die besten Bets meines Teams und die benutzerdefinierten Ansichten auszufüllen.
+Sie können jetzt ein benutzerdefiniertes Feld in zuordnen, [!DNL Salesforce] das Feld Status für Kontakte in den Meine besten Bets, Die besten Bets meines Teams und die benutzerdefinierten Ansichten auszufüllen.
 
 ![](assets/image2014-9-23-10-3a17-3a47.png)
 
@@ -129,7 +129,7 @@ Abbildung 14. Zuordnen eines benutzerdefinierten Felds zu Kontakten
 
 Siehe von anonymen Leads besuchte Seiten
 
-Führen Sie einen Drilldown zu den Seiten durch, die von einem anonymen Lead in der Ansicht Anonyme Web-Aktivität angezeigt wurden.
+Führen Sie einen Drilldown zu den Seiten durch, die von einem anonymen Lead in der Ansicht [!UICONTROL Anonyme Web-Aktivität] angezeigt wurden.
 
 ![](assets/image2014-9-23-10-3a17-3a59.png)
 

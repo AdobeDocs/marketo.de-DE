@@ -4,9 +4,9 @@ description: Versionshinweise - September 2012 - Marketo-Dokumentation - Produkt
 title: September 2012 - Versionshinweise
 exl-id: c81da5ef-11ec-4015-a820-691fa314f369
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '302'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Diese Version enthält mit Spannung erwartete, integrierte Social-Media-Funktionen und gute Tipps für das Lead-Management! Hinweis: Social-Media-Funktionen sind als Add-on oder als Teil ausgewählter Bundles verfügbar.
 
-## Publish a YouTube-Video mit Social Sharing {#publish-a-youtube-video-with-social-sharing}
+## Veröffentlichen eines YouTube-Videos mit Social Sharing {#publish-a-youtube-video-with-social-sharing}
 
 Verstärken Sie die Zielgruppe für Ihre Videos, indem Sie Ihre Besucher mithilfe der neuen Videofreigabe auf Ihren Landingpages dazu ermutigen, sie in sozialen Netzwerken zu teilen.
 
@@ -29,23 +29,23 @@ Geben Sie Nachrichten und das Erscheinungsbild eines neuen Satzes von Schaltflä
 
 ## Social-Anmeldung {#social-sign-on}
 
-Gewinnen Sie Einblicke und reduzieren Sie Reibungen, indem Sie es Leads ermöglichen, Formulare mit Informationen aus ihren sozialen Netzwerken vorzubefüllen.
+Gewinnen Sie insight und reduzieren Sie Reibungen, indem Sie Leads erlauben, Formulare mit Informationen aus ihren sozialen Netzwerken vorzufüllen.
 
 ![](assets/image2014-9-23-10-3a40-3a2.png)
 
-## Publish-Landingpages in Facebook {#publish-landing-pages-to-facebook}
+## Veröffentlichen von Landingpages in [!DNL Facebook] {#publish-landing-pages-to-facebook}
 
-Erweitern Sie die Reichweite Ihrer Landingpages, indem Sie diese direkt in Facebook veröffentlichen - mit Social-Media-Apps, Formularen und dem vollen Funktionsumfang der Landingpages von Marketo.
+Erweitern Sie die Reichweite Ihrer Landingpages, indem Sie diese direkt in [!DNL Facebook] veröffentlichen - mit Social-Media-Apps, Formularen und allen Funktionen der Landingpages von Marketo.
 
-## ReadyTalk-Ereignisadapter {#readytalk-event-adapter}
+## [!DNL ReadyTalk] Ereignisadapter {#readytalk-event-adapter}
 
-Nahtlose Verbindung eines Marketo-Ereignisses mit einem ReadyTalk-Meeting. Verwenden Sie ein Marketo-Formular, um Registrierende zu erfassen und automatisch in ReadyTalk zu registrieren. Bei einer bidirektionalen Synchronisierung können Anwesenheitsinformationen in Marketo eingefügt werden.
+Nahtlose Verbindung eines Marketo-Ereignisses mit einem [!DNL ReadyTalk]. Verwenden Sie ein Marketo-Formular, um Registrierende zu erfassen und automatisch in [!DNL ReadyTalk] zu registrieren. Bei einer bidirektionalen Synchronisierung können Anwesenheitsinformationen in Marketo eingefügt werden.
 
 ![](assets/image2014-9-23-10-3a40-3a16.png)
 
-## Microsoft Dynamics On-Premise {#microsoft-dynamics-on-premise}
+## Microsoft [!DNL Dynamics] On-Premise {#microsoft-dynamics-on-premise}
 
-Wir unterstützen nun Microsoft Dynamics 2011 On-Premise mit einer Bereitstellung mit Internetzugriff.
+Wir unterstützen jetzt Microsoft [!DNL Dynamics] 2011 On-Premise mit einer Bereitstellung mit Internetzugriff.
 
 ## Webhooks (Schatztruhe) {#webhooks-treasure-chest}
 
