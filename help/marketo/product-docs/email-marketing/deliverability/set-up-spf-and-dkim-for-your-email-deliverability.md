@@ -4,9 +4,9 @@ description: Einrichten von SPF und DKIM für die Zustellbarkeit Ihrer E-Mails -
 title: Einrichten von SPF und DKIM für die Zustellbarkeit Ihrer E-Mails
 exl-id: a0f88e94-3348-4f48-bbd2-963e2af93dc0
 feature: Deliverability
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b95458ffab422901ef5e674756ae5e413ec542fd
 workflow-type: tm+mt
-source-wordcount: '425'
+source-wordcount: '421'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Eine schnelle Methode zur Verbesserung der E-Mail-Versandraten besteht darin, **
 
 **Wenn Sie keinen SPF-Eintrag in Ihrer Domain haben**
 
-Bitten Sie Ihren Netzwerkadministrator, die folgende Zeile zu Ihren DNS-Einträgen hinzuzufügen. Ersetzen [Domain] durch die Haupt-Domain Ihrer Website (z. B. „company.com„) und [corpIP] mit der IP-Adresse Ihres E-Mail-Servers (z.B. „255.255.255.255„) Wenn Sie E-Mails von mehreren Domains über Marketo senden, sollten Sie diese zu jeder Domain hinzufügen (in einer Zeile).
+Bitten Sie Ihren Netzwerkadministrator, die folgende Zeile zu Ihren DNS-Einträgen hinzuzufügen. Ersetzen [Domain] durch die Haupt-Domain Ihrer Website (z. B. „company.com„) und [corpIP] mit der IP-Adresse Ihres E-Mail-Servers (z.B. &quot;255.255.255.255„) Wenn Sie E-Mails von mehreren Domains über Marketo senden, sollten Sie diese zu jeder Domain hinzufügen (in einer Zeile).
 
 `[domain] IN TXT v=spf1 mx ip4:[corpIP] include:mktomail.com ~all`
 
@@ -51,6 +51,6 @@ Siehe [Einrichten einer benutzerdefinierten DKIM-Signatur](/help/marketo/product
 
 >[!MORELIKETHIS]
 >
->* [Erfahren Sie mehr über SPF und seine Funktionsweise](http://www.open-spf.org/Introduction/){target="_blank"}
->* [Ist meine SPF korrekt eingerichtet?](https://www.kitterman.com/spf/validate.html){target="_blank"}
->* [Habe ich die richtige Syntax verwendet?](http://www.open-spf.org/SPF_Record_Syntax/){target="_blank"}
+>* Erfahren Sie mehr über SPF und wie es funktioniert`: http://www.open-spf.org/Introduction/`
+>* Ist mein SPF korrekt eingerichtet?: `https://www.kitterman.com/spf/validate.html`
+>* Habe ich die richtige Syntax verwendet?: `http://www.open-spf.org/SPF_Record_Syntax/`

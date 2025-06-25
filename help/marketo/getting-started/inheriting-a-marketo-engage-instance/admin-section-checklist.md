@@ -3,7 +3,7 @@ description: Checkliste für geerbte Instanzen - Marketo-Dokumente - Produktdoku
 title: Checkliste für geerbte Instanzadministratoren
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: b95458ffab422901ef5e674756ae5e413ec542fd
 workflow-type: tm+mt
 source-wordcount: '1858'
 ht-degree: 3%
@@ -16,7 +16,7 @@ Die folgenden Checklisten (nachfolgende Checklisten, die am Ende jedes Artikels 
 
 >[!TIP]
 >
->Wenn Sie ein(e) neue Marketo Engage-Anwender sind und mit vielen der Begriffe nicht vertraut sind, lesen Sie bitte das [Marketo Engage-Glossar](/help/marketo/getting-started/things-to-know/marketo-engage-glossary.md){target="_blank"}.
+>Wenn Sie ein(e) neue(r) Marketo Engage-Benutzer(in) sind und mit vielen der Begriffe nicht vertraut sind, lesen Sie bitte das [Marketo Engage-Glossar](/help/marketo/getting-started/things-to-know/marketo-engage-glossary.md){target="_blank"}.
 
 ## Adobe Identity Management {#adobe-identity-management}
 
@@ -33,13 +33,13 @@ Die folgenden Checklisten (nachfolgende Checklisten, die am Ende jedes Artikels 
   <tr> 
    <td>Abonnement und Marketo Engage-Produktadministrator</td> 
    <td><li>Wurde Ihr Marketo Engage-Abonnement bereits zu <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank">Adobe IMS</a> migriert? 
-<br/>     Wenn ja, wurde Ihnen von Ihrem Adobe Admin Console-Systemadministrator die Rolle "Adobe Admin Console-Produktadministrator“ zugewiesen? Wenn Sie sich nicht sicher sind, wer in Ihrem Unternehmen über Administratorrechte in der Konsole verfügt, wenden Sie sich an die <a href="https://helpx.adobe.com/de/contact.html" target="_blank">Adobe-Kundenunterstützung</a>.</li>
-<li>Haben Sie die Einladung zum "Marketo Engage Product Admin“ akzeptiert? Die E-Mail wird gesendet, wenn die Rolle in der Adobe Admin Console zugewiesen wird.
+<br/>     Wenn ja, wurde Ihnen von Ihrem Adobe Admin Console-Systemadministrator die Rolle "Adobe Admin Console-Produktadministrator“ zugewiesen? Wenn Sie sich nicht sicher sind, wer in Ihrem Unternehmen über Administratorrechte in der Konsole verfügt, wenden Sie sich an die <a href="https://helpx.adobe.com/contact.html" target="_blank">Adobe-Kundenunterstützung</a>.</li>
+<li>Haben Sie die Einladung zum "Marketo Engage Product Admin“ angenommen? Die E-Mail wird gesendet, wenn die Rolle in der Adobe Admin Console zugewiesen wird.
 <br/>     Suchen Sie andernfalls in Ihrem Posteingang nach der <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#initial-setup" target="_blank">Begrüßungs-E</a>Mail) und akzeptieren Sie die Einladung zur Aktivierung Ihrer Adobe ID.</li></td>
   </tr>
   <tr> 
    <td>Produktprofil</td> 
-   <td><li>Sind alle entsprechenden Benutzenden dem Produktprofil Marketo Engage in Adobe Admin Console zugewiesen?
+   <td><li>Sind alle entsprechenden Benutzenden dem Produktprofil von Marketo Engage in Adobe Admin Console zugewiesen?
 <br/>     Ist dies nicht der Fall, stellen Sie sicher<a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md" target="_blank"> dass Sie Benutzende </a> Marketo Engage-Produktprofilen in der Adobe Admin Console hinzufügen und/oder entfernen. Benutzerrollen können unter "Marketo Engage" &gt; „Admin“ &gt; „Benutzer und Rollen“ nicht zugewiesen werden, wenn sie einem Produktprofil hinzugefügt werden.</li>
 <p><img src="assets/note-icon.png" alt="Notizensymbol"> HINWEIS: Wenn ein unerwünschter Benutzer mehreren Produktprofilen hinzugefügt wird, müssen Sie ihn aus allen Produktprofilen entfernen. Andernfalls haben sie weiterhin Zugriff auf Marketo Engage.</td>
   </tr>
@@ -47,7 +47,7 @@ Die folgenden Checklisten (nachfolgende Checklisten, die am Ende jedes Artikels 
    <td>User Management-API</td> 
    <td><li>Verwendet Ihr Abonnement Marketo User Management-APIs?
 <br/>     In diesem Fall müssen Sie die <a href="https://www.adobe.io/apis/experienceplatform/umapi-new.html" target="_blank">Adobe IMS-APIs</a> verwenden, um künftig Benutzer einzuladen, zu aktualisieren und zu löschen.</li>
-<p><img src="assets/note-icon.png" alt="Notizensymbol"> HINWEIS: „Rollenverwaltung“ verbleibt im Marketo Engage und Marketo User Management-APIs können weiterhin für die Rollenverwaltung verwendet werden.</td>
+<p><img src="assets/note-icon.png" alt="Notizensymbol"> HINWEIS: „Rollenverwaltung“ verbleibt in Marketo Engage und Marketo User Management-APIs können weiterhin für die Rollenverwaltung verwendet werden.</td>
   </tr>
  </tbody> 
 </table>
@@ -73,13 +73,13 @@ Die folgenden Checklisten (nachfolgende Checklisten, die am Ende jedes Artikels 
   </tr>
   <tr> 
    <td>Rollen</td> 
-   <td><img src="assets/note-icon.png" alt="Notizensymbol"> HINWEIS: Unabhängig davon, ob Sie Marketo mit Adobe-Identität verwenden oder nicht, überprüfen Sie unter „Admin“ &gt; „Benutzer und Rollen“ &gt; „Rollen“ die Rollenberechtigungen auf der Marketo Engage.
+   <td><img src="assets/note-icon.png" alt="Notizensymbol"> HINWEIS: Unabhängig davon, ob Sie Marketo mit Adobe Identity verwenden oder nicht, überprüfen Sie in Marketo Engage unter „Admin“ &gt; „Benutzer und Rollen“ &gt; „Rollen“ die Rollenberechtigungen.
    <p><li>Wie viele Rollen gibt es?</li>  
 <li>Welche <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">Berechtigungen/Zugriff</a> verfügt jede Rolle? Sollte einer angepasst werden?</li>
 <li>Wie viele Benutzer gibt es pro Rolle?</li>
 <li>Wie oft <a href="/help/marketo/product-docs/administration/audit-trail/user-login-history.md" target="_blank"> sich Benutzer </a>?</li>
 <li>Hat jeder API-Benutzer seine <a href="/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md" target="_blank"> Benutzerrolle</a>? Wenn nicht, sollten Sie dies implementieren, um die Fehlerbehebung zu vereinfachen.</li> 
-<li>Stimmen Ihre Benutzerrollen und -berechtigungen mit Ihren Datenschutzrichtlinien für Unternehmen hinsichtlich der Einhaltung von Vorschriften (z. B. <a href="https://gdpr-info.eu/" target="_blank">DSGVO</a>) überein? Erlauben die Unternehmensdaten <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md" target="_blank">Datenschutzrichtlinien</a> Nutzern das Herunterladen und Freigeben von Marketo Engage-Benutzerdaten? Ist die Geschäftsgenehmigung nötig?</li></td>
+<li>Stimmen Ihre Benutzerrollen und -berechtigungen mit Ihren Datenschutzrichtlinien für Unternehmen hinsichtlich der Einhaltung von Vorschriften (z. B. <a href="https://gdpr-info.eu/" target="_blank">DSGVO</a>) überein? Erlauben die Unternehmensdaten <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md" target="_blank">Datenschutzrichtlinien</a> Benutzern das Herunterladen und Freigeben von Marketo Engage-Benutzerdaten? Ist die Geschäftsgenehmigung nötig?</li></td>
   </tr>
   <tr> 
    <td>Support-Benutzer</td> 
@@ -190,7 +190,7 @@ Die folgenden Checklisten (nachfolgende Checklisten, die am Ende jedes Artikels 
 <li>Sind Ihre Kanäle mit bestimmten Programmtypen verbunden?</li>
 <li>Welche Status werden für jeden Kanal als erfolgreich erachtet? Stimmen diese mit Ihren Marketing-Zielen überein?</li>
 <li>Wird der operative Kanal ordnungsgemäß verwendet?</li>
-<li>Ist Ihr Channel Analytics-Verhalten im erweiterten Report Builder (Revenue Cycle Explorer/RCE) so eingestellt, dass es mit Ihren Programmpraktiken übereinstimmt und die Periodenkosten berücksichtigt?</li></td>
+<li>Ist Ihr Kanalanalyseverhalten für Advanced Report Builder (Revenue Cycle Explorer/RCE) so eingestellt, dass es mit Ihren Programmpraktiken übereinstimmt und die Periodenkosten berücksichtigt?</li></td>
   </tr>
   <tr> 
    <td>Marketing-Kalender (falls zutreffend)</td> 
@@ -214,7 +214,7 @@ Die folgenden Checklisten (nachfolgende Checklisten, die am Ende jedes Artikels 
 <li>Wie viele <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">benutzerdefinierte Felder</a> gibt es?</li>
 <li>Wie viele Felder werden verwendet? 
 <br/>     Wählen <a href="/help/marketo/product-docs/administration/field-management/export-used-by-data-for-a-field.md" target="_blank"> im Dropdown-Menü Feldaktionen die Option </a>Export von verwendet von) aus, um die zugehörigen Assets eines Felds zu überprüfen.</li>
-<li>Wie viele Felder werden zwischen Marketo Engage und dem CRM-System synchronisiert?</li>
+<li>Wie viele Felder werden zwischen Marketo Engage und Ihrem CRM-System synchronisiert?</li>
 <li>Werden CRM-Felder mit den entsprechenden Objekten synchronisiert?</li>
 <li>Gibt es eine <a href="/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md" target="_blank">benutzerdefinierte Ansicht</a> für Personendetails? Sollte es sie geben?</li>
 <li>Gibt es für Ihre Felder eine Namenskonvention, die auf der Quelle basiert? 
@@ -266,7 +266,7 @@ Die folgenden Checklisten (nachfolgende Checklisten, die am Ende jedes Artikels 
 <p><img src="assets/note-icon.png" alt="Notizensymbol"> HINWEIS: Wenden Sie sich an den Marketo-Support, um benutzerdefinierte Synchronisierungsfilter zu identifizieren, oder fordern Sie die Implementierung einer benutzerdefinierten Synchronisierungsregel an.</li></td>
   </tr>
   <tr> 
-   <td>Landing Page</td> 
+   <td>Landingpages</td> 
    <td><li>Wie lautet <a href="/help/marketo/product-docs/administration/settings/edit-landing-page-settings.md" target="_blank">Domain-</a>?</li>
    <li>Wie ist die Homepage festgelegt?</li>
 <li>Was ist der <a href="/help/marketo/product-docs/administration/settings/set-a-fallback-page.md" target="_blank">Fallback-</a>?</li>
@@ -281,7 +281,7 @@ Die folgenden Checklisten (nachfolgende Checklisten, die am Ende jedes Artikels 
    <td>Munchkin</td> 
    <td><li>Ist Ihr <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Munchkin-Trackingcode</a> auf Ihrer Website (keine Marketo Engage-Landingpage)?</li>
 <li>Ist eine <a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank">Do Not Track</a>-Browser-Anfrage aktiviert?</li>
-<li>Ist Ihre <a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/javascriptapi/lead-tracking.html" target="_blank">Munchkin-API</a> konfiguriert? 
+<li>Ist Ihre <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking" target="_blank">Munchkin-API</a> konfiguriert? 
 <p><img src="assets/tip-icon.png" alt="Tipp-Symbol">TIPP: Wenn Sie keine Dokumentation darüber haben, wo sich der Munchkin-Code auf Ihrer Website befindet, können Sie alle URLs anzeigen, indem Sie einen <a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">Web Page Activity Report</a> erstellen.</li></td>
   </tr>
   <tr> 
@@ -293,28 +293,28 @@ Die folgenden Checklisten (nachfolgende Checklisten, die am Ende jedes Artikels 
   </tr>
   <tr> 
    <td>Adobe Dynamic Chat (falls anwendbar)</td> 
-<td>Für die folgenden Schritte ist der Zugriff auf die <a href="https://adminconsole.adobe.com/" target="_blank">Adobe Admin Console</a> erforderlich. Wenn Sie noch kein Adobe ID eingerichtet haben, finden <a href="https://helpx.adobe.com/de/manage-account/using/create-update-adobe-id.html" target="_blank"> hier Informationen dazu</a>.
+<td>Für die folgenden Schritte ist der Zugriff auf die <a href="https://adminconsole.adobe.com/" target="_blank">Adobe Admin Console</a> erforderlich. Wenn Sie noch kein Adobe ID eingerichtet haben, finden <a href="https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html" target="_blank"> hier Informationen dazu</a>.
 <br/>
-<li>Haben Sie die Einladung zum <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md" target="_blank">Dynamic Chat-Produkt</a>Administrator angenommen? Die E-Mail wird gesendet, wenn Dynamic Chat in Ihrer Marketo Engage-Instanz aktiviert ist und Sie als Systemadministrator bestimmt werden.
+<li>Haben Sie die Einladung zum <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md" target="_blank">Dynamic Chat-</a> angenommen? Die E-Mail wird gesendet, wenn Dynamic Chat in Ihrer Marketo Engage-Instanz aktiviert ist und Sie als Systemadministrator bestimmt werden.
 <br/>     Suchen Sie andernfalls in Ihrem Posteingang nach der Begrüßungs-E-Mail und akzeptieren Sie die Einladung zum Einrichten Ihrer Adobe ID.</li>   
 <li>Haben Sie die <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user" target="_blank">gewünschten Benutzer</a> zum Dynamic Chat-Produktprofil in Adobe Admin Console hinzugefügt?
-<li>Stellen Sie sicher, dass Ihre berechtigten Benutzenden das Dynamic Chat-Produktprofil zu ihrer Adobe-Identität hinzugefügt haben. Rollen vom Typ „Zugriff auf Dynamic Chat" können nicht in "Marketo Engage" &gt; „Admin“ &gt; „Benutzer und Rollen“ zugewiesen werden, wenn sie einem Produktprofil hinzugefügt werden.</li>
+<li>Stellen Sie sicher, dass Ihren berechtigten Benutzenden das Dynamic Chat-Produktprofil zu ihrer Adobe-Identität hinzugefügt wurde. Rollen vom Typ „Zugriff auf Dynamic Chat" können nicht in Marketo Engage &gt; „Admin“ &gt; „Benutzer und Rollen“ zugewiesen werden, wenn sie einem Produktprofil hinzugefügt werden.</li>
 <li>Sind auf der Registerkarte „Produktprofile“ die Standardberechtigungen für Profile an die Anforderungen Ihres Unternehmens angepasst?<br/> 
 Ist dies nicht der Fall, bearbeiten Sie die Berechtigungen für das jeweilige Profil. </li>
 <li>Wenn Sie mehr als ein Abonnement haben, werden Ihre Benutzer zu den richtigen Abonnements hinzugefügt?</li>
 <br>
 Nachdem Sie die Prüfung der Einstellungen für Benutzer und Rollen abgeschlossen haben, melden Sie sich bei Dynamic Chat an, um mit der Prüfung fortzufahren.  
-<li>Haben Sie <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md" target="_blank">Ihre Marketo Engage-Instanz) </a> Dynamic Chat verbunden?</li>
+<li>Haben Sie <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md" target="_blank">Ihre Marketo Engage-Instanz</a> mit Dynamic Chat verbunden?</li>
 <li>Sind die fünf Standardprofile mit vordefinierten Berechtigungen auf Ihre Organisation anwendbar?<br/> 
-     Wenn nicht, können Sie <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md#edit-existing-permissions" target="_blank">auf Dynamic Chat bearbeiten</a>. Sie können auch <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md#create-a-profile" target="_blank">Benutzerdefiniertes Profil erstellen</a> mit einem benutzerdefinierten Berechtigungssatz.</li>
-<li>Um Ihren Benutzerinnen und Benutzern Zugriff auf Dynamic Chat zu gewähren, haben Sie „Zugriff auf Dynamic Chat" für die entsprechende Marketo Engage-Rolle unter „Admin“ &gt; „Benutzerinnen und Benutzer &amp; Rollen“ &gt; „Rollen“ aktiviert?
+     Andernfalls können Sie sie <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md#edit-existing-permissions" target="_blank">in Dynamic Chat bearbeiten</a>. Sie können auch <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md#create-a-profile" target="_blank">Benutzerdefiniertes Profil erstellen</a> mit einem benutzerdefinierten Berechtigungssatz.</li>
+<li>Um Ihren Benutzerinnen und Benutzern Zugriff auf Dynamic Chat zu gewähren, haben Sie in „Zugriff auf Dynamic Chat" die entsprechende Marketo Engage-Rolle unter „Admin“ &gt; „Benutzerinnen und Benutzer &amp; Rollen“ &gt; „Rollen“ ausgewählt?
 <br/><img src="assets/note-icon.png" alt="Notizensymbol"> HINWEIS: Die Rollen „Admin“ und „Marketing-Benutzer“ sollten Zugriff auf Dynamic Chat haben.</li>
 </td>
   </tr>
   <td>Marketo Sales Insight (falls zutreffend)</td> 
    <td><li>Wurde das <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md" target="_blank">MSI-Paket installiert</a>?</li>
 <li>Haben <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md" target="_blank"> ein Upgrade auf die neueste Version von Sales Insight </a>?</li>
-<li>Haben Sie die Konfiguration von Sales Insight abgeschlossen? <br/>     Enterprise/Unlimited Users <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md" target="_blank">hier klicken</a>, Professional Users <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md" target="_blank">hier klicken</a>.</li>
+<li>Haben Sie die Sales Insight-Konfiguration abgeschlossen? <br/>     Enterprise/Unlimited Users <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md" target="_blank">hier klicken</a>, Professional Users <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md" target="_blank">hier klicken</a>.</li>
 <li>Haben Sie <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md" target="_blank">Zugriff auf Ihre Benutzer erteilt</a> basierend auf der Anzahl der erworbenen Lizenzen?</li>
 <li>Sind <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md" target="_blank">Sterne und Flammen</a> angepasst?</li></td>
   </tr>
@@ -367,12 +367,12 @@ Nachdem Sie die Prüfung der Einstellungen für Benutzer und Rollen abgeschlosse
    <th>Review Focus</th>
   </tr> 
   <tr> 
-   <td>Marketo Engage-Statusaktualisierungen</td> 
-   <td><li>Hat Ihre Instanz <a href="https://nation.marketo.com/t5/knowledgebase/how-to-subscribe-to-status-page-notifications/ta-p/296749" target="_blank">Marketo Engage-Statusaktualisierungen abonniert</a>?</li></td>
+   <td>Statusaktualisierungen zu Marketo Engage</td> 
+   <td><li>Ist Ihre Instanz für <a href="https://nation.marketo.com/t5/knowledgebase/how-to-subscribe-to-status-page-notifications/ta-p/296749" target="_blank">Marketo Engage-Statusaktualisierungen abonniert</a>?</li></td>
   </tr>
   <tr> 
    <td>Warnhinweise</td> 
-   <td><li>Werden <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md" target="_blank">aktive Warnhinweise</a> von Marketo Engage an interne Teams gesendet?</li>
+   <td><li>Gibt es <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md" target="_blank">aktive Warnhinweise</a> die von Marketo Engage an interne Teams gesendet werden?</li>
 <li>Wenn ja, funktionieren diese Warnhinweise ordnungsgemäß?</li></td>
   </tr>
   <tr> 
