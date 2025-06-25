@@ -35,7 +35,7 @@ Wenn Sie eine Test-E-Mail von [!DNL Sales Insight] senden, werden die Token in d
 
 ## Lead REST-API {#lead-rest-api}
 
-Erstellen, lesen und aktualisieren Sie Leads programmatisch mithilfe unserer neuen ReST API. Um mit ReST zu beginnen, müssen Sie [einen benutzerdefinierten Service erstellen](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) in Marketo. Navigieren Sie dann zur [Entwickler-Site](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api), um Details zur Verwendung dieser API zu erhalten.
+Erstellen, lesen und aktualisieren Sie Leads programmatisch mithilfe unserer neuen ReST API. Um mit ReST zu beginnen, müssen Sie [einen benutzerdefinierten Service erstellen](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) in Marketo. Navigieren Sie dann zur [Entwickler-Site](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api), um Details zur Verwendung dieser API zu erhalten.
 
 ## Real-Time Personalization (RTP, Echtzeit-Personalisierung) – Aktualisierung der Kampagnenseite {#marketo-real-time-personalization-rtp-campaigns-page-update}
 
