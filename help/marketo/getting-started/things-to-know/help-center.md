@@ -3,7 +3,7 @@ description: Hilfe-Center - Marketo Engage-Dokumente - Produktdokumentation
 title: Hilfezentrum
 feature: Getting Started
 exl-id: 3dd7c005-a416-4808-9418-9114df76d963
-source-git-commit: 78497d45949d40486ee87bd888477ba6a85d76ba
+source-git-commit: 8ff62b372b4d0f98ab88c569bdc3608eb63b70c7
 workflow-type: tm+mt
 source-wordcount: '312'
 ht-degree: 3%
@@ -16,13 +16,13 @@ Das Hilfezentrum in Adobe Marketo Engage dient als zentraler Ort, um Hilfe zu er
 
 ## Zugriff {#how-to-access}
 
-Es gibt zwei verschiedene Erlebnisse, je nachdem, ob Ihr Abonnement bereits auf das Adobe Identity Management System (IMS) migriert wurde.
+Es gibt zwei verschiedene Erlebnisse, je nachdem, ob Ihr Abonnement bereits auf Adobe Identity Management System (IMS) migriert wurde.
 
 ### IMS-Migration vor Adobe {#pre-adobe-ims-integration}
 
-Diese Schritte richten sich an Marketo Engage-Benutzende _die noch_ zu [Adobe IMS](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md) migriert wurden.
+Diese Schritte richten sich an Marketo Engage-Benutzende _die noch_ zu [Adobe IMS](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} migriert wurden.
 
-[Anmelden](http://login.marketo.com/) auf Marketo Engage und klicken Sie auf das Hilfesymbol.
+[Anmelden](https://login.marketo.com/){target="_blank"} bei Marketo Engage und klicken Sie auf das Hilfesymbol.
 
 ![](assets/help-center-1.png)
 
@@ -60,7 +60,7 @@ Die Registerkarte Neue Funktionen enthält die Details der neuesten Version von 
 
 >[!TIP]
 >
->Klicken Sie unten auf das Pfeilsymbol, um die Seite im Experience League anzuzeigen.
+>Klicken Sie unten auf das Pfeilsymbol, um die Seite in Experience League anzuzeigen.
 
 #### Ressourcen {#resources}
 
@@ -70,9 +70,9 @@ Die Registerkarte Ressourcen bietet Ihnen schnellen und direkten Zugriff auf ver
 
 ### Nach der Adobe IMS-Migration {#post-adobe-ims-integration}
 
-Diese Schritte richten sich an Marketo Engage-Benutzende, die bereits zu [Adobe IMS) migriert ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md).
+Diese Schritte richten sich an Marketo Engage-Benutzende, die bereits zu [Adobe IMS) migriert ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}.
 
-[Anmelden](https://experience.adobe.com/) auf Marketo Engage und klicken Sie auf das Hilfesymbol.
+[Anmelden](https://experience.adobe.com/){target="_blank"} bei Marketo Engage und klicken Sie auf das Hilfesymbol.
 
 ![](assets/help-center-9.png)
 

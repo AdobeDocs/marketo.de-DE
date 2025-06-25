@@ -1,21 +1,21 @@
 ---
 unique-page-id: 4720433
-description: Konfigurieren von Protokollen für das Marketo Engage - Marketo Engage-Dokumente - Produktdokumentation
-title: Konfigurieren von Protokollen für das Marketo Engage
+description: Konfigurieren von Protokollen für Marketo Engage - Marketo Engage-Dokumente - Produktdokumentation
+title: Konfigurieren von Protokollen für Marketo Engage
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: ed42e3662dc1f9c3b3b27d86d1df816ce26e1076
+source-git-commit: 8ff62b372b4d0f98ab88c569bdc3608eb63b70c7
 workflow-type: tm+mt
-source-wordcount: '2148'
-ht-degree: 0%
+source-wordcount: '2131'
+ht-degree: 8%
 
 ---
 
-# Konfigurieren von Protokollen für das Marketo Engage{#configure-protocols-for-marketo-engage}
+# Konfigurieren von Protokollen für Marketo Engage{#configure-protocols-for-marketo-engage}
 
 Auf die Zulassungsliste setzen Wenn Sie oder Ihr Unternehmen restriktive Firewall- oder Proxy-Server-Einstellungen verwenden, müssen Sie bzw. Ihr Netzwerkadministrator möglicherweise bestimmte Domains und IP-Adressbereiche ändern, um sicherzustellen, dass Adobe Marketo Engage erwartungsgemäß funktioniert.
 
-Wenn Sie Hilfe bei der Implementierung der folgenden Protokolle benötigen, teilen Sie diesen Artikel bitte mit Ihrer IT-Abteilung. Wenn der Web-Zugriff mithilfe einer -Zulassungsliste eingeschränkt wird, stellen Sie sicher, dass die folgenden Domains (einschließlich des Sternchens) hinzugefügt werden, um alle Marketo Engage-Ressourcen und Websockets zuzulassen:
+Wenn Sie Hilfe bei der Implementierung der folgenden Protokolle benötigen, teilen Sie diesen Artikel bitte mit Ihrer IT-Abteilung. Wenn der Web-Zugriff mithilfe einer -Zulassungsliste eingeschränkt wird, stellen Sie sicher, dass die folgenden Domains (einschließlich des Sternchens) hinzugefügt werden, um alle Marketo Engage-Ressourcen und -Websockets zuzulassen:
 
 * `*.marketo.com`
 * `*.marketodesigner.com`
@@ -27,11 +27,11 @@ Wenn Sie Hilfe bei der Implementierung der folgenden Protokolle benötigen, teil
 
 **Tracking-Link-CNAMEs**
 
-Ihr Marketing-Team hätte Ihnen zwei Anfragen für neue CNAME-Einträge senden sollen. Die erste Option ist für Landingpage-URLs, damit die Landingpages in URLs angezeigt werden, die Ihre Domain widerspiegeln, und nicht in Marketo Engage (der eigentliche Host). Zweitens für die Tracking-Links, die in den E-Mails enthalten sind, die sie von Marketo Engage senden.
+Ihr Marketing-Team hätte Ihnen zwei Anfragen für neue CNAME-Einträge senden sollen. Der erste gilt für Landingpage-URLs, damit die Landingpages in URLs angezeigt werden, die Ihre Domain widerspiegeln, und nicht in Marketo Engage (der eigentliche Host). Der zweite betrifft Tracking-Links, die in den von Marketo Engage gesendeten E-Mails enthalten sind.
 
 `1` **CNAME für Landingpages hinzufügen**
 
-Fügen Sie den Landingpage-CNAME, den sie Ihnen gesendet haben, Ihrem DNS-Eintrag hinzu, sodass `[YourLandingPageCNAME]` auf die eindeutige Kontozeichenfolge verweist, die Ihren Marketo Engage-Landingpages zugewiesen ist. Melden Sie sich bei der Website Ihrer Domain-Registrierungsstelle an und geben Sie den CNAME der Landingpage und die Kontozeichenfolge ein. Normalerweise umfasst dies drei Felder:
+Fügen Sie den Landingpage-CNAME, den sie Ihnen gesendet haben, zu Ihrem DNS-Eintrag hinzu, sodass `[YourLandingPageCNAME]` auf die eindeutige Kontozeichenfolge verweist, die Ihren Marketo Engage-Landingpages zugewiesen ist. Melden Sie sich bei der Website Ihrer Domain-Registrierungsstelle an und geben Sie den CNAME der Landingpage und die Kontozeichenfolge ein. Normalerweise umfasst dies drei Felder:
 
 * Alias: `[YourLandingPageCNAME]` eingeben (bereitgestellt von Marketing)
 * Typ: CNAME
@@ -40,7 +40,7 @@ Fügen Sie den Landingpage-CNAME, den sie Ihnen gesendet haben, Ihrem DNS-Eintra
 `2` **CNAME für E-Mail-Tracking-Links hinzufügen**
 
 Fügen Sie die von CNAME-Marketing gesendete E-Mail hinzu, sodass `[YourEmailCNAME]` auf [MktoTrackingLink], den von Marketo Engage zugewiesenen Standard-Tracking-Link, im folgenden Format verweist:\
-`[YourEmailCNAME].[YourDomain].com` IN CNAME-`[MktoTrackingLink]`
+`[YourEmailCNAME].[YourDomain].com` IN CNAME `[MktoTrackingLink]`
 
 Beispiel:
 
@@ -58,9 +58,9 @@ Benachrichtigen Sie Ihr Marketing-Team, wenn Sie diesen Prozess abgeschlossen ha
 
 Dieser Vorgang kann bis zu 3 Werktage dauern.
 
-## Schritt 2: Marketo Engage-IPs Auf die Zulassungsliste setzen {#step-allowlist-marketo-ips}
+## Auf die Zulassungsliste setzen Schritt 2: Marketo Engages der IPs {#step-allowlist-marketo-ips}
 
-Wenn Ihre Marketing-Gruppe Marketo Engage zum Senden von Test-E-Mails verwendet (eine Best Practice vor dem Senden von E-Mail-Blasts), werden die Test-E-Mails manchmal von Anti-Spam-Systemen blockiert, die auf Absender-IP-Adressen angewiesen sind, um die Gültigkeit der E-Mail zu überprüfen. Um sicherzustellen, dass diese Test-E-Mails ankommen, fügen Sie Ihrer Marketo Engage auf die Zulassungsliste setzen-Datei hinzu.
+Wenn Ihre Marketing-Gruppe Marketo Engage zum Senden von Test-E-Mails verwendet (eine Best Practice vor dem Senden von E-Mail-Blasts), werden die Test-E-Mails manchmal von Anti-Spam-Systemen blockiert, die auf Absender-IP-Adressen angewiesen sind, um die Gültigkeit der E-Mail zu überprüfen. Um sicherzustellen, dass diese Test-E-Mails ankommen, fügen Sie Ihrer Marketo Engages auf die Zulassungsliste setzen hinzu.
 
 Auf die Zulassungsliste setzen Fügen Sie diese IP-Adressen zu Ihrer Unternehmensadresse hinzu:
 
@@ -80,7 +80,7 @@ Auf die Zulassungsliste setzen Fügen Sie diese IP-Adressen zu Ihrer Unternehmen
 
 199.15.212.0/22
 
-Einige Anti-Spam-Systeme verwenden für die Zulassungsauflistung das Feld E-Mail-Rückgabepfad anstelle der IP-Adresse. In diesen Fällen ist der beste Ansatz die Zulassungsliste von &quot;&#42;.mktomail.com“, da Marketo Engage mehrere Mailbox-Subdomains verwendet. Andere Anti-Spam-Systeme werden anhand der Absenderadresse auf die Zulassungsliste gesetzt. In diesen Fällen müssen Sie alle Versand- („Von„) Domains einbeziehen, die Ihre Marketing-Gruppe für die Kommunikation mit Personen/Leads verwendet.
+Einige Anti-Spam-Systeme verwenden für die Zulassungsauflistung das Feld E-Mail-Rückgabepfad anstelle der IP-Adresse. In diesen Fällen ist der beste Ansatz die Zulassungsliste von &quot;&#42;.mktomail.com“, da Marketo Engage mehrere Postfach-Subdomains verwendet. Andere Anti-Spam-Systeme werden anhand der Absenderadresse auf die Zulassungsliste gesetzt. In diesen Fällen müssen Sie alle Versand- („Von„) Domains einbeziehen, die Ihre Marketing-Gruppe für die Kommunikation mit Personen/Leads verwendet.
 
 >[!NOTE]
 >
@@ -98,13 +98,13 @@ Ihr Marketing-Team hätte Ihnen auch Informationen zu DKIM (Domain Keys Identifi
    Wenn wir bereits einen SPF-Eintrag in unserem DNS-Eintrag haben, fügen Sie einfach Folgendes hinzu:\
    Einschließen: mktomail.com
 
-   Ersetzen Sie CompanyDomain durch die Haupt-Domain Ihrer Website (z.B.: &quot;`(company.com/)`„) und CorpIP durch die IP-Adresse Ihres Unternehmens-E-Mail-Servers (z.B. „255.255.255.255„) Wenn Sie E-Mails von mehreren Domains über Marketo Engage senden, sollten Ihre IT-Mitarbeiter diese Zeile für jede Domain hinzufügen (in einer Zeile).
+   Ersetzen Sie CompanyDomain durch die Haupt-Domain Ihrer Website (z.B.: &quot;`(company.com/)`„) und CorpIP durch die IP-Adresse Ihres Unternehmens-E-Mail-Servers (z.B. &quot;255.255.255.255„) Wenn Sie E-Mails von mehreren Domains über Marketo Engage senden möchten, sollten Ihre IT-Mitarbeiter diese Zeile für jede Domain hinzufügen (in einer Zeile).
 
 1. Erstellen Sie für DKIM DNS-Ressourceneinträge für jede Domain, die wir einrichten möchten. Nachfolgend finden Sie die Host-Einträge und TXT-Werte für jede Domain, die wir signieren werden:
 
-   `[DKIMDomain1]`: Hosteintrag ist `[HostRecord1]` und der TXT-Wert ist `[TXTValue1]`.
+   `[DKIMDomain1]`: Der Host-Eintrag lautet `[HostRecord1]` und der TXT-Wert `[TXTValue1]`.
 
-   `[DKIMDomain2]`: Hosteintrag ist `[HostRecord2]` und der TXT-Wert ist `[TXTValue2]`.
+   `[DKIMDomain2]`: Der Host-Eintrag lautet `[HostRecord2]` und der TXT-Wert `[TXTValue2]`.
 
    Kopieren Sie den HostRecord und den TXTValue für jede DKIMDomain, die Sie eingerichtet haben, nachdem Sie die [Anweisungen hier](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"} befolgt haben. Vergessen Sie nicht, jede Domain unter Admin > E-Mail > DKIM zu überprüfen, nachdem Ihr IT-Personal diesen Schritt abgeschlossen hat.
 
@@ -114,8 +114,8 @@ DMARC (Domain-based Message Authentication, Reporting &amp; Conformance - Domain
 
 Damit DMARC funktioniert, müssen Sie über mindestens einen der folgenden DNS-TXT-Einträge verfügen:
 
-* Ein gültiger SPF
-* Ein gültiger DKIM-Eintrag für Ihre VON-Domain: (für Marketo Engage empfohlen)
+* Einen gültigen SPF-Eintrag
+* Ein gültiger DKIM-Eintrag für Ihre VON-Domain: (empfohlen für Marketo Engage)
 
 Darüber hinaus müssen Sie über einen DMARC-spezifischen DNS-TXT-Eintrag für Ihre FROM: -Domain verfügen. Optional kann eine E-Mail-Adresse Ihrer Wahl definiert werden, um anzugeben, wohin DMARC-Berichte innerhalb Ihres Unternehmens gehen sollen, damit Sie Berichte überwachen können.
 
@@ -129,7 +129,7 @@ Als Best Practice wird empfohlen, die DMARC-Implementierung langsam einzuführen
 
    II. Überprüfen und beheben Sie Probleme mit SPF/DKIM, wenn die Authentifizierung für legitime Nachrichten fehlschlägt.
 
-   III. Prüfen Sie, ob SPF oder DKIM abgestimmt sind und die Authentifizierung für alle legitimen E-Mails weitergegeben wird.
+   III. Prüfen Sie, ob SPF oder DKIM entsprechend abgestimmt sind und die Authentifizierungsprüfung für alle legitimen E-Mails bestehen.
 
    IV. Überprüfen Sie Berichte, um sicherzustellen, dass die Ergebnisse den Erwartungen entsprechen, die Sie basierend auf Ihren SPF-/DKIM-Richtlinien haben.
 
@@ -141,7 +141,7 @@ Als Best Practice wird empfohlen, die DMARC-Implementierung langsam einzuführen
 
 >[!CAUTION]
 >
->Verwenden Sie diese Richtlinie mit Vorsicht und ermitteln Sie, ob sie für Ihr Unternehmen geeignet ist.
+>Verwenden Sie diese Richtlinie mit Vorsicht und ermitteln Sie, ob sie für Ihre Organisation geeignet ist.
 
 ### DMARC-Berichte {#dmarc-reporting}
 
@@ -151,7 +151,7 @@ DMARC bietet die Möglichkeit, Berichte zu E-Mails zu erhalten, bei denen SPF/DK
 
 * Forensische Berichte (RUF): Enthält E-Mail-Adressen, die DSGVO-sensibel sind. Vor der Nutzung von sollten Sie sich intern erkundigen, wie Sie mit Informationen umgehen, die die DSGVO einhalten müssen.
 
-Diese Berichte dienen hauptsächlich dazu, einen Überblick über E-Mails zu erhalten, bei denen ein Spoofing-Versuch unternommen wird. Hierbei handelt es sich um hochtechnische Berichte, die am besten über ein Tool eines Drittanbieters verdaut werden können.
+Diese Berichte dienen hauptsächlich dazu, einen Überblick über die E-Mails mit Spoofing-Versuchen zu erhalten. Hierbei handelt es sich um hochtechnische Berichte, die am besten über ein Tool eines Drittanbieters verdaut werden können.
 
 ### Beispiel für DMARC-Einträge {#example-dmarc-records}
 
@@ -161,7 +161,7 @@ Diese Berichte dienen hauptsächlich dazu, einen Überblick über E-Mails zu erh
 
 ### DMARC-Tags und ihre Funktionen {#dmarc-tags-and-what-they-do}
 
-DMARC-Datensätze enthalten mehrere Komponenten, die als DMARC-Tags bezeichnet werden. Jedes Tag hat einen -Wert, der einen bestimmten Aspekt von DMARC angibt.
+DMARC-Datensätze enthalten mehrere Komponenten, die als DMARC-Tags bezeichnet werden. Jedes Tag hat einen Wert, der einen bestimmten Aspekt von DMARC festlegt.
 
 <table>
 <thead>
@@ -178,7 +178,7 @@ DMARC-Datensätze enthalten mehrere Komponenten, die als DMARC-Tags bezeichnet w
     <td>v</td>
     <td>Erforderlich</td>
     <td>Dieses DMARC-Tag gibt die Version an. Es gibt derzeit nur eine Version, daher hat diese einen festen Wert von v=DMARC1</td>
-    <td>v=DMARC1 DMARC1</td>
+    <td>V=DMARC1 DMARC1</td>
     <td>DMARC1</td>
   </tr>
   <tr>
@@ -191,7 +191,7 @@ DMARC-Datensätze enthalten mehrere Komponenten, die als DMARC-Tags bezeichnet w
   <tr>
     <td>fo</td>
     <td>Optional</td>
-    <td>Ermöglicht dem Domain-Inhaber das Festlegen von Berichtsoptionen.</td>
+    <td>Ermöglicht der oder dem Domain-Verantwortlichen das Festlegen von Berichtsoptionen.</td>
     <td>0: Generieren eines Berichts, wenn alles fehlschlägt 
     <br>1: Generieren eines Berichts, wenn etwas fehlschlägt 
     <br>d: Generieren eines Berichts, wenn DKIM fehlschlägt 
@@ -251,7 +251,7 @@ Es gibt zwei Arten der Ausrichtung für DMARC: DKIM-Ausrichtung und SPF-Ausricht
 
 >[!NOTE]
 >
->Es wird empfohlen, die DMARC-Ausrichtung auf DKIM und SPF für Marketo Engage durchzuführen.
+>Es wird empfohlen, die DMARC-Ausrichtung auf DKIM vs. SPF für Marketo Engage durchzuführen.
 
 * DKIM-abgestimmte DMARC - Zum Einrichten von DKIM-abgestimmter DMARC müssen Sie Folgendes tun:
 
@@ -266,23 +266,23 @@ Es gibt zwei Arten der Ausrichtung für DMARC: DKIM-Ausrichtung und SPF-Ausricht
 
    * Konfigurieren von DMARC für die gebrandete Rückgabepfad-Domain
 
-* Wenn Sie E-Mails von Marketo Engage über eine dedizierte IP-Adresse senden und den gebrandeten Rücksendepfad noch nicht implementiert haben oder nicht sicher sind, ob Sie dies haben, eröffnen Sie bitte ein Ticket beim [Adobe-Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+* Wenn Sie E-Mails von Marketo Engage über eine dedizierte IP-Adresse senden und den gebrandeten Rückgabepfad noch nicht implementiert haben oder nicht sicher sind, ob Sie dies haben, eröffnen Sie bitte ein Ticket beim [Adobe-Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
 
-* Wenn Sie E-Mails von Marketo Engage über einen freigegebenen IP-Pool senden, können Sie sehen, ob Sie sich für vertrauenswürdige IPs qualifizieren, indem Sie [hier ](http://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html){target="_blank"}. Der gebrandete Rückgabepfad wird kostenlos denjenigen angeboten, die von vertrauenswürdigen Marketo Engage-IPs senden. Wenn Sie für dieses Programm genehmigt wurden, wenden Sie sich an den Adobe-Support, um einen gebrandeten Rückgabepfad einzurichten.
+* Wenn Sie E-Mails von Marketo Engage über einen freigegebenen IP-Pool senden, können Sie durch [hier ](https://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html){target="_blank"} sehen, ob Sie sich für vertrauenswürdige IPs qualifizieren. Der gebrandete Rückgabepfad wird denjenigen kostenlos angeboten, die von vertrauenswürdigen Marketo Engage-IPs senden. Wenden Sie sich bei Genehmigung für dieses Programm an den Adobe-Support, um einen gebrandeten Rückgabepfad einzurichten.
 
    * Vertrauenswürdige IPs: Ein freigegebener IP-Pool, der Benutzern mit einem geringeren Volumen vorbehalten ist, die weniger als 75 KB/Monat senden und sich nicht für eine dedizierte IP qualifizieren. Diese Benutzenden müssen auch die Best-Practice-Anforderungen erfüllen.
 
-* Wenn Sie E-Mails von Marketo Engage über freigegebene IPs senden und sich nicht für vertrauenswürdige IPs qualifizieren und monatlich mehr als 100.000 Nachrichten senden, müssen Sie sich an das Adobe-Account-Team (Ihren Account Manager) wenden, um eine dedizierte IP zu erwerben.
+* Wenn Sie E-Mails von Marketo Engage über freigegebene IPs senden und sich nicht für vertrauenswürdige IPs qualifizieren und monatlich mehr als 100.000 Nachrichten senden, müssen Sie sich an das Adobe Account Team (Ihren Account Manager) wenden, um eine dedizierte IP zu erwerben.
 
-* Eine strikte Ausrichtung der SPF wird beim Marketo Engage nicht unterstützt und wird auch nicht empfohlen.
+* Eine strikte SPF-Ausrichtung wird in Marketo Engage weder unterstützt noch empfohlen.
 
 ## Schritt 5: Richten Sie MX-Einträge für Ihre Domain ein {#step-set-up-mx-records-for-your-domain}
 
-Mit einem MX-Eintrag können Sie E-Mails an die Domain empfangen, von der Sie E-Mails senden, um Antworten und automatische Antworten zu verarbeiten. Wenn Sie von Ihrer Unternehmens-Domain aus senden, haben Sie dies wahrscheinlich bereits konfiguriert. Andernfalls können Sie ihn für gewöhnlich so einrichten, dass er dem MX-Eintrag Ihrer Unternehmens-Domain zugeordnet wird.
+Ein MX-Eintrag ermöglicht es Ihnen, E-Mails über die Domain zu empfangen, von der aus Sie E-Mails senden, um Antworten und Abwesenheitsnachrichten zu verarbeiten. Wenn Sie von Ihrer Unternehmens-Domain aus senden, haben Sie dies wahrscheinlich bereits konfiguriert. Andernfalls können Sie ihn für gewöhnlich so einrichten, dass er dem MX-Eintrag Ihrer Unternehmens-Domain zugeordnet wird.
 
 ## Ausgehende IP-Adressen {#outbound-ip-addresses}
 
-Eine ausgehende Verbindung wird durch Marketo Engage an einen Server im Internet in Ihrem Namen hergestellt. Einige Partner/Anbieter, mit denen Sie zusammenarbeiten, oder Ihre eigene IT-Organisation können Zulassungslisten verwenden, um den Zugriff auf Server zu beschränken. In diesem Fall müssen Sie ihnen Marketo Engage ausgehende IP-Adressblöcke zuweisen, um sie zu ihren Zulassungsliste-hinzuzufügen.
+Eine ausgehende Verbindung wird von Marketo Engage zu einem Server im Internet in Ihrem Namen hergestellt. Einige Partner/Anbieter, mit denen Sie zusammenarbeiten, oder Ihre eigene IT-Organisation können Zulassungslisten verwenden, um den Zugriff auf Server zu beschränken. In diesem Fall müssen Sie ihnen die Blöcke ausgehender Marketo Engage-IP-Adressen bereitstellen, damit sie sie ihren Zulassungslisten hinzufügen können.
 
 **Webhooks**
 
@@ -292,9 +292,9 @@ Marketo Engage [Webhooks](/help/marketo/product-docs/administration/additional-i
 
 Marketo Engage [Salesforce CRM Sync](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target="_blank"} und [Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target="_blank"} sind Integrationsmechanismen, die ausgehende HTTP-Anfragen an APIs senden, die von Ihrem CRM-Anbieter veröffentlicht wurden. Sie müssen sicherstellen, dass Ihre IT-Organisation keinen der unten aufgeführten IP-Adressblöcke vom Zugriff auf Ihre CRM-APIs blockiert.
 
-**Marketo Engage ausgehende IP-Adressblöcke**
+**Ausgehende IP-Adressblöcke in Marketo Engage**
 
-Die folgenden Tabellen decken alle Marketo Engage-Server ab, die ausgehende Aufrufe ausführen. Auf die Zulassungsliste setzen Verwenden Sie die folgenden Listen, wenn Sie IP-Adressen, Server, Firewalls, Zugriffssteuerungslisten, Sicherheitsgruppen oder Drittanbieterdienste konfigurieren, um ausgehende Verbindungen von Marketo Engage zu empfangen.
+Die folgenden Tabellen decken alle Marketo Engage-Server ab, die ausgehende Aufrufe ausführen. Verwenden Sie die folgenden Listen, wenn Sie eine IP-Zulassungsliste, einen Server, eine Firewall, eine Zugriffssteuerungsliste, eine Sicherheitsgruppe oder einen Drittanbieterdienst konfigurieren, um ausgehende Verbindungen von Marketo Engage zu erhalten.
 
 <table>
  <tbody>
@@ -331,7 +331,7 @@ Die folgenden Tabellen decken alle Marketo Engage-Server ab, die ausgehende Aufr
 <table>
  <tbody>
   <tr>
-   <th>Individuelle IP-Adresse</th>
+   <th>Einzelne IP-Adresse</th>
   </tr>
   <tr>
    <td>13.237.155.207</td>

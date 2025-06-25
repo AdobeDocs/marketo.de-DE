@@ -4,7 +4,7 @@ description: Ändern der Formularschriftfamilie - Marketo-Dokumente - Produktdok
 title: Ändern der Formularschriftfamilie
 exl-id: eb5e861b-6e0b-4291-9944-828ea00f1869
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 8ff62b372b4d0f98ab88c569bdc3608eb63b70c7
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 1%
@@ -35,7 +35,7 @@ Google Fonts sind großartig, und wir haben sie direkt in den Formulareditor int
 
    >[!TIP]
    >
-   >Es stehen eine Reihe von [Google](https://www.google.com/fonts)Schriftarten zur Verwendung zur Verfügung.
+   >Es stehen eine Reihe von [Google](https://fonts.google.com/){target="_blank"}Schriftarten zur Verwendung zur Verfügung.
 
    ![](assets/image2014-9-15-16-3a0-3a8.png)
 
