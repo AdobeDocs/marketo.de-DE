@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
+source-git-commit: ce7142e471271dfb33b265e226b67bcc3b35594b
 workflow-type: tm+mt
-source-wordcount: '9279'
+source-wordcount: '9283'
 ht-degree: 6%
 
 ---
@@ -258,7 +258,7 @@ ht-degree: 6%
       + [Einrichten der Adobe-Organisationszuordnung](product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md)
       + [Synchronisieren einer Zielgruppe aus Adobe Experience Cloud](product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md)
       + [Importieren von Assets mit Adobe Experience Manager](product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md)
-      + [Übersicht über die Adobe Experience Cloud-Benutzeroberfläche](product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md)
+      + Übersicht über die [Adobe Experience Cloud-Benutzeroberfläche](product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md)
    + Grundlegende Marketo-Konzepte {#core-marketo-concepts}
       + Intelligente Kampagnen {#smart-campaigns}
          + [Grundlegendes zu Smart-Kampagnen](product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
@@ -818,7 +818,7 @@ ht-degree: 6%
          + Grundlegendes zu Landingpages {#understanding-landing-pages}
             + [Genehmigen, Aufheben der Genehmigung oder Löschen einer Landingpage](product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)
             + [Bericht zur Leistung der Landingpage](product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md)
-            + [Startseite Testgruppen](product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md)
+            + [Landingpage-Testgruppen](product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md)
             + [Grundlegendes zu Freiform und geführten Landingpages](product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md)
          + Freiform-Landingpages {#free-form-landing-pages}
             + [Hinzufügen eines Links zu einem Freiform-Landingpage-Bild](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-link-to-a-free-form-landing-page-image.md)
@@ -848,7 +848,7 @@ ht-degree: 6%
             + [Vorschau einer Landingpage mit dynamischen Inhalten](product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
             + [Vorschau einer Landingpage](product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)
             + [Umleiten einer Marketo-Landingpage zu einer anderen Seite](product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md)
-         + Landing Page-Vorlagen {#landing-page-templates}
+         + Landingpage-Vorlagen {#landing-page-templates}
             + [Erstellen einer Freiform-Landingpage-Vorlage](product-docs/demand-generation/landing-pages/landing-page-templates/create-a-free-form-landing-page-template.md)
             + [Erstellen einer geführten Landingpage-Vorlage](product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)
             + [Bearbeiten einer Marketo-Landingpage-Vorlage](product-docs/demand-generation/landing-pages/landing-page-templates/edit-a-marketo-landing-page-template.md)
@@ -1958,6 +1958,7 @@ ht-degree: 6%
    + [Versionsplanung](release-notes/release-schedule.md)
    + [Aktuelle Version](release-notes/current.md)
    + [Dynamic Chat-Version](release-notes/dynamic-chat.md)
+   + [Dynamic Chat-VERSIONSTEMPERATUR](release-notes/dynamic-chat-temp.md)
    + Frühere Versionen {#previous-releases}
       + 2025 {#2025}
          + [Versionshinweise: Januar &#39;25](release-notes/previous-releases/2025/release-notes-jan-25.md)
