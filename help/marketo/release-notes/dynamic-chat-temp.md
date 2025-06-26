@@ -35,7 +35,7 @@ Die Live-Chat-Routing-Logik in Dynamic Chat wurde überarbeitet, um ein intellig
 
 * **Routingregelspezifisches Verhalten**
 
-_**Konto-Routing**_
+_&#x200B;**Konto-Routing**&#x200B;_
 
 Wenn die E-Mail-Domain eines Besuchers einem bekannten Konto zugeordnet ist, wird der zugeordnete Agent immer priorisiert.
 
@@ -53,7 +53,7 @@ Kehrt zu einer Standardmeldung zurück (im schlimmsten Fall).
 
 Die Routing-Regel auf Kartenebene (z. B. Team, Benutzerdefiniert) wird nur berücksichtigt, wenn das Konto-Routing nicht zulässig ist (keine übereinstimmende Domain oder Agent).
 
-_**Benutzerdefiniertes/Team-Routing**_
+_&#x200B;**Benutzerdefiniertes/Team-Routing**&#x200B;_
 
 Diese Regeln können mehrere geeignete Agenten zurückgeben.
 
@@ -67,7 +67,7 @@ Das System zeigt den Kalender des ersten Agenten an (falls aktiviert) oder
 
 Zeigt die standardmäßige Fallback-Nachricht an.
 
-_**Round Robin-Routing**_
+_&#x200B;**Round Robin-Routing**&#x200B;_
 
 Bei Verwendung als primäre Routingregel führt das System Folgendes durch:
 
