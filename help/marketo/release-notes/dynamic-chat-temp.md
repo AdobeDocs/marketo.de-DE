@@ -5,7 +5,7 @@ feature: Release Information, Dynamic Chat
 hide: true
 hidefromtoc: true
 exl-id: 0a7e5cc9-f2a6-4721-bbdc-661249a2e2b6
-source-git-commit: d646dbb2eeeb7ec6e1dbeb30d1fa02aa380a794c
+source-git-commit: 5dbc3add8acaae02f25c1f9b9ae39ecfc1aaf259
 workflow-type: tm+mt
 source-wordcount: '900'
 ht-degree: 3%
@@ -36,7 +36,7 @@ Die Live-Chat-Routing-Logik in Dynamic Chat wurde überarbeitet, um ein intellig
 
 * **Routingregelspezifisches Verhalten**
 
-_&#x200B;**Konto-Routing**&#x200B;_
+_**Konto-Routing**_
 
 Wenn die E-Mail-Domain eines Besuchers einem bekannten Konto zugeordnet ist, wird der zugeordnete Agent immer priorisiert.
 
@@ -49,12 +49,12 @@ Wenn der Agent nicht verfügbar ist, führt das System Folgendes aus:
 * Stattdessen gilt Folgendes:
 
    * Zeigt den Besprechungskalender des zugeordneten Agenten an (falls aktiviert),
-&#x200B;- oder -
+- oder -
    * Kehrt zu einer Standardmeldung zurück (im schlimmsten Fall).
 
 Die Routing-Regel auf Kartenebene (z. B. Team, Benutzerdefiniert) wird nur berücksichtigt, wenn das Konto-Routing nicht zulässig ist (keine übereinstimmende Domain oder Agent).
 
-_&#x200B;**Benutzerdefiniertes/Team-Routing**&#x200B;_
+_**Benutzerdefiniertes/Team-Routing**_
 
 Diese Regeln können mehrere geeignete Agenten zurückgeben.
 
@@ -65,10 +65,10 @@ Ein Round-Robin-Fallback wird nicht ausgelöst, nur weil ein Agent nicht reagier
 Wenn keiner der Agenten eingreift:
 
 * Das System zeigt den Kalender des ersten Agenten an (falls aktiviert).
-&#x200B;- oder -
+- oder -
 * Zeigt die standardmäßige Fallback-Nachricht an.
 
-_&#x200B;**Round Robin-Routing**&#x200B;_
+_**Round Robin-Routing**_
 
 Bei Verwendung als primäre Routingregel führt das System Folgendes durch:
 
@@ -78,7 +78,7 @@ Bei Verwendung als primäre Routingregel führt das System Folgendes durch:
 
 Wenn Round Robin als Fallback verwendet wird, wird er nur aktiviert, wenn keine Agenten von der primären Regel aufgelöst werden.
 
-_&#x200B;**Besuchererlebnis-Fluss**&#x200B;_
+_**Besuchererlebnis-Fluss**_
 
 Das System prüft, ob Konto-Routing anwendbar ist.
 
@@ -95,14 +95,14 @@ Routingregel auf Kartenebene (benutzerdefiniert, Team, Round Robin) wird ausgewe
 * Wenn keine Interaktion erfolgreich ist, wird eine Ausweichlogik angewendet:
 
    * Kalender-Fallback (falls aktiviert),
-&#x200B;- oder -
+- oder -
    * Standardnachricht.
 
 Ein Round-Robin-Fallback wird nur berücksichtigt, wenn keine geeigneten Agenten aus der primären Routing-Regel gefunden werden, nicht, wenn einzelne Agenten nicht reagieren.
 
 ##### Anwendungsfälle {#use-cases}
 
-_&#x200B;**Konto-Routing**&#x200B;_
+_**Konto-Routing**_
 
 <table><thead>
   <tr>
@@ -128,7 +128,7 @@ _&#x200B;**Konto-Routing**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Benutzerdefiniertes Routing**&#x200B;_
+_**Benutzerdefiniertes Routing**_
 
 <table><thead>
   <tr>
@@ -154,7 +154,7 @@ _&#x200B;**Benutzerdefiniertes Routing**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Team-Routing**&#x200B;_
+_**Team-Routing**_
 
 <table><thead>
   <tr>
@@ -180,7 +180,7 @@ _&#x200B;**Team-Routing**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Round Robin-Routing**&#x200B;_
+_**Round Robin-Routing**_
 
 <table><thead>
   <tr>
