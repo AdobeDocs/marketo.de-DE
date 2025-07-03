@@ -4,10 +4,11 @@ title: Aktuelle Versionshinweise
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 67b1c61d9051043cb9fb6e4252ffd94c77ff6f22
+exl-id: 0ca5e844-c30b-4c86-a23d-d8f2c1bdddf5
+source-git-commit: 320be450e0dcf0d1bcbeeb590b1a3207b5e79955
 workflow-type: tm+mt
-source-wordcount: '450'
-ht-degree: 13%
+source-wordcount: '562'
+ht-degree: 11%
 
 ---
 
@@ -113,7 +114,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>TITLE</strong>: DESCRIPTION.</td> 
+   <td><strong>Integration von E-Mail-Designer mit GenStudio</strong>: Integrieren Sie GenStudio für Leistungsmarketing aus E-Mails heraus, um die Marketing-Effizienz zu verbessern und die Markenkonsistenz zu wahren.</td> 
    <td><i>Demnächst verfügbar</i></td>
    <td><i>Demnächst verfügbar</i></td>
   </tr>
@@ -123,7 +124,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>TITLE</strong>: DESCRIPTION.</td> 
+   <td><strong>Aktualisierungen der REST-API-Fehlercode-Benachrichtigung</strong>: Zwei zusätzliche Klassen von REST-API-Fehlern in In-App-Benachrichtigungen wurden hinzugefügt: 606 - Max. Ratenlimit überschritten und 607 - Tägliches Kontingent erreicht.</td> 
    <td><i>Demnächst verfügbar</i></td>
    <td><i>Demnächst verfügbar</i></td>
   </tr>
@@ -133,7 +134,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>TITLE</strong>: DESCRIPTION.</td> 
+   <td><strong>Standardfelder für Programmteilnehmer anzeigen in der </strong>: Die Felder für standardmäßige und benutzerdefinierte Programmteilnehmer in <i>Feldverwaltung</i> sind jetzt sichtbar.</td> 
    <td><i>Demnächst verfügbar</i></td>
    <td><i>Demnächst verfügbar</i></td>
   </tr>
@@ -143,7 +144,17 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>TITLE</strong>: DESCRIPTION.</td> 
+   <td><strong>REST-API-Namen in der </strong>-Verwaltung: Diese Aktualisierung ermöglicht es Administratoren, REST-API-Feldnamen anzuzeigen, ohne die Liste exportieren zu müssen.</td> 
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>Meine Token nach Liste verwendet</strong>: Zeigt die Liste der Assets an, die ein „Mein Token“ verwenden (bis zu 50 Assets gleichzeitig).</td> 
    <td><i>Demnächst verfügbar</i></td>
    <td><i>Demnächst verfügbar</i></td>
   </tr>
@@ -153,6 +164,6 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
 
 ## Ankündigungen {#announcements}
 
-* **Einstellung von REST-API-„access_token“-**: Der `access_token` Abfrageparameter, der zum Authentifizieren von Marketo REST-API-Aufrufen verwendet wird, wird nicht mehr unterstützt und wird nach dem 31. Oktober 2025 nicht mehr verfügbar sein. Alle neuen und vorhandenen Integrationen sollten REST-API-Aufrufe mit dem Header „Authorization“ authentifizieren [wie hier beschrieben](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Einstellung von REST-API-„access_token“-**: Der `access_token` Abfrageparameter, der zum Authentifizieren von Marketo REST-API-Aufrufen verwendet wird, wird nicht mehr unterstützt und wird nach dem 31. Oktober 2025 nicht mehr verfügbar sein. Alle neuen und vorhandenen Integrationen sollten REST-API-Aufrufe mit dem Header „Authorization“ authentifizieren [wie hier beschrieben](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **Einstellung der SOAP-**: Die Unterstützung für die Marketo SOAP-API endet am 31. Oktober 2025. Services, die SOAP-API-Funktionen verwenden, sollten zur [REST-API“ migriert ](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+* **Einstellung der SOAP-**: Die Unterstützung für die Marketo SOAP-API endet am 31. Oktober 2025. Services, die SOAP-API-Funktionen verwenden, sollten zur [REST-API“ migriert ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.

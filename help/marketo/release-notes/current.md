@@ -3,16 +3,16 @@ description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokument
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 6da797bc91de018e789f1e5980523a02e38eba30
+source-git-commit: 5dea84390b7d008ad0b19c5bc0e113f2a886ca72
 workflow-type: tm+mt
-source-wordcount: '517'
-ht-degree: 5%
+source-wordcount: '562'
+ht-degree: 11%
 
 ---
 
-# Mai 2025 - Versionshinweise {#release-notes-may-25}
+# Versionshinweise: Juli 2025 {#release-notes-july-25}
 
-Im Folgenden finden Sie alle Funktionen, die in der Version vom Mai 2025 enthalten sind. Überprüfen Sie Ihre Adobe Marketo Engage Edition auf die Verfügbarkeit der Funktionen.
+Unten finden Sie alle Funktionen, die in der Version vom 25. Juli enthalten sind. Überprüfen Sie Ihre Adobe Marketo Engage Edition auf die Verfügbarkeit der Funktionen.
 
 Die Versionshinweise speziell für Adobe Dynamic Chat [finden Sie hier](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
@@ -22,7 +22,7 @@ Die Versionshinweise speziell für Adobe Dynamic Chat [finden Sie hier](/help/ma
 
 ## Standardfunktionen des Veröffentlichungszyklus {#standard-release-cycle-features}
 
-Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszyklus und werden ab dem 23. **2025 veröffentlicht** wobei die verbleibenden Funktionen in den folgenden Wochen schrittweise bereitgestellt werden. Veröffentlichungsfunktionen und -daten können sich ändern. Überprüfen Sie neben jeder Funktion auf ihren Status.
+Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszyklus und werden ab dem 11. **2025 veröffentlicht** wobei die verbleibenden Funktionen in den folgenden Wochen schrittweise bereitgestellt werden. Veröffentlichungsfunktionen und -daten können sich ändern. Überprüfen Sie neben jeder Funktion auf ihren Status.
 
 <table style="table-layout:auto"> 
  <tbody>
@@ -32,37 +32,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <th style="width:25%">Dokumentation</th>
   </tr>
   <tr> 
-   <td><strong>E-Mail-Inhalt Personalization</strong>: Marketo Engage folgt jetzt derselben Binnenmajuskeln-Syntax wie die anderen AEP-Anwendungstoken, sodass für alle Adobe DX-Produkte ein konsistentes Erlebnis bereitgestellt wird. Alle Standard-Token sowie Marketo Engage-spezifische Token wie Mitglieds-, Programm- und Meine-Token werden in der neuen E-Mail-Designer zur Verfügung gestellt.</td> 
-   <td>Versendet</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/personalization-tokens.md">Personalization-Token</a></td>
-  </tr>
-  <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr> 
-   <td><strong>Rollenbasierte Zugriffssteuerung für E-Mail-Designer Assets</strong>: Eine neue Erweiterung des rollenbasierten Zugriffssteuerungssystems (RBAC) bietet detailliertere Berechtigungen und eine verbesserte Benutzerverwaltung für Assets, die von der neuen E-Mail-Designer unterstützt werden.</td> 
-   <td>Versendet</td>
-   <td><a href="https://nation.marketo.com/t5/latest-product-innovations/product-updates-granular-permissions-to-new-email-designer/ba-p/357057">Granulare Berechtigungen für neue E-Mail-Designer (Blogpost)</a></td>
-  </tr>
-  <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr> 
-   <td><strong>In der E-Mail-Designer erstellte E-Mails klonen</strong>: Sie können jetzt eine bestehende E-Mail klonen, die mit der neuen E-Mail-Designer erstellt wurde.</td> 
-   <td>Versendet</td>
-   <td>k. A.</td>
-  </tr>
-  <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr> 
-   <td><strong>GenStudio-Integration in E-Mail-Designer</strong>: Integrieren Sie GenStudio für Leistungsmarketing aus E-Mails heraus, um die Marketing-Effizienz zu verbessern und die Markenkonsistenz zu wahren.</td> 
+   <td><strong>E-Mail-Designer - Marken-Kit mit KI-</strong>: Die Markenkonsistenz aller E-Mail-Assets wird gewahrt, indem Marken-Assets wie Farben, Schriftarten, Logos, Designs, visuelle Inhalte, Compliance-Richtlinien usw. an einem Ort gespeichert und verwaltet werden.</td> 
    <td><i>Demnächst verfügbar</i></td>
    <td><i>Demnächst verfügbar</i></td>
   </tr>
@@ -72,7 +42,117 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>Trigger-Token für beliebiges Attribut</strong>: Erweiterte Liste von Trigger-Token zur Unterstützung der Verwendung von Daten aus beliebigen Aktivitätsattributen in Smart-Kampagnenfeldern.</td> 
+   <td><strong>E-Mail-Designer - Benutzerdefinierte CSS</strong>-Unterstützung: Beim Entwerfen von E-Mails können Sie jetzt Ihr eigenes benutzerdefiniertes CSS direkt in der E-Mail-Designer hinzufügen.</td> 
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>E-Mail-Designer - Unterstützung für das Verschieben von Assets und das Löschen von </strong>: Schnelles Verschieben eines E-Mail-Assets programmübergreifend. Sie können jetzt auch Programme löschen, die neue Designer-E-Mail-Assets enthalten.</td> 
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>E-Mail-Designer - Firefox-</strong>: Die E-Mail-Designer wird jetzt von Mozilla Firefox vollständig unterstützt. Halten Sie Ihren Browser immer auf dem neuesten Stand, um ein optimales Erlebnis zu erzielen.</td> 
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>E-Mail-Designer - Inhalt auf der Eigenschaftsseite simulieren</strong>: Inhalt für E-Mail-Assets aus <i>E-Mail-Eigenschaften</i> simulieren, ohne zum Bearbeitungsbildschirm zurückkehren zu müssen.</td> 
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
+  </tr>
+   <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>E-Mail-Designer - Rollenbasierte Zugriffssteuerung für Assets</strong>: In der Mai-Version wurde rollenbasierte Zugriffssteuerung (RBAC) für die Berechtigungen Bearbeiten, Genehmigen und Löschen implementiert. Leseberechtigungen sind jetzt in dieser Version verfügbar.</td> 
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>E-Mail-Designer - E-Mail-Eigenschaften für veröffentlichte E</strong>Mails bearbeiten: Nehmen Sie Änderungen in <i>E-Mail-Eigenschaften</i> auch nach der Veröffentlichung der E-Mail vor.</td> 
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>E-Mail-Designer - Branding-Domain und Domain-IP-Konfiguration auswählen</strong>: Sie können jetzt für jedes E-Mail-Asset eine Branding-Domain und eine Domain-IP-Konfiguration auswählen.</td> 
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>Integration von E-Mail-Designer mit GenStudio</strong>: Integrieren Sie GenStudio für Leistungsmarketing aus E-Mails heraus, um die Marketing-Effizienz zu verbessern und die Markenkonsistenz zu wahren.</td> 
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>Aktualisierungen der REST-API-Fehlercode-Benachrichtigung</strong>: Zwei zusätzliche Klassen von REST-API-Fehlern in In-App-Benachrichtigungen wurden hinzugefügt: 606 - Max. Ratenlimit überschritten und 607 - Tägliches Kontingent erreicht.</td> 
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>Standardfelder für Programmteilnehmer anzeigen in der </strong>: Die Felder für standardmäßige und benutzerdefinierte Programmteilnehmer in <i>Feldverwaltung</i> sind jetzt sichtbar.</td> 
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>REST-API-Namen in der </strong>-Verwaltung: Diese Aktualisierung ermöglicht es Administratoren, REST-API-Feldnamen anzuzeigen, ohne die Liste exportieren zu müssen.</td> 
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>Meine Token nach Liste verwendet</strong>: Zeigt die Liste der Assets an, die ein „Mein Token“ verwenden (bis zu 50 Assets gleichzeitig).</td> 
    <td><i>Demnächst verfügbar</i></td>
    <td><i>Demnächst verfügbar</i></td>
   </tr>
@@ -82,12 +162,6 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
 
 ## Ankündigungen {#announcements}
 
-* **Aktualisierung der Facebook-Offline-Konversionsintegration**: Am 29. Mai 2025 wird die [Facebook-Offline-Konversions](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions){target="_blank"}-Integration für Marketo Engage in die neue Meta [Conversions-API](https://developers.facebook.com/docs/marketing-api/conversions-api){target="_blank"} migriert, da Meta die [Offline-Konversions-API](https://developers.facebook.com/docs/marketing-api/offline-conversions/){target="_blank"} im Einklang mit der Graph-API-Versionierung einstellt. Weitere Informationen finden Sie im Meta-Handbuch zu [Senden von Offline-Ereignissen über die Konversions-API](https://developers.facebook.com/docs/marketing-api/conversions-api/offline-events/){target="_blank"} (CAPI für Offline).
+* **Einstellung von REST-API-„access_token“-**: Der `access_token` Abfrageparameter, der zum Authentifizieren von Marketo REST-API-Aufrufen verwendet wird, wird nicht mehr unterstützt und wird nach dem 31. Oktober 2025 nicht mehr verfügbar sein. Alle neuen und vorhandenen Integrationen sollten REST-API-Aufrufe mit dem Header „Authorization“ authentifizieren [wie hier beschrieben](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **Neue Analytics-Funktion - Öffentliche Beta**: [Advanced BI Analytics](/help/marketo/product-docs/reporting/advanced-bi-analytics/overview.md){target="_blank"} (früher als Revenue Explorer und Advanced Report Builder bezeichnet) begann Mitte April mit dem Rollout an alle aktuellen Benutzenden des Umsatzzyklus-Explorers. Dieses neue Tool bietet eine flexible Reporting- und Visualisierungsschnittstelle zu Marketo Engage-Daten und liefert detaillierte Informationen zu Fortschritt, Leistung und mehr. Er bietet mehr Interaktivität und Visualisierung, schnellere Leistung und ein nahtloseres und intuitiveres Benutzererlebnis.
-
-Um auf diese Funktion zugreifen zu können, müssen Sie das Add-on „Advanced BI Analytics“ erworben haben. Weitere Informationen erhalten Sie beim Adobe Account Team (Ihrem Account Manager).
-
-* **Einstellung von REST-API-„access_token“-**: Der `access_token` Abfrageparameter, der zum Authentifizieren von Marketo REST-API-Aufrufen verwendet wird, wird nicht mehr unterstützt und wird nach dem 31. Oktober 2025 nicht mehr verfügbar sein. Alle neuen und vorhandenen Integrationen sollten REST-API-Aufrufe mit dem Header „Authorization“ authentifizieren [wie hier beschrieben](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
-
-* **Einstellung der SOAP-**: Die Unterstützung für die Marketo SOAP-API endet am 31. Oktober 2025. Services, die SOAP-API-Funktionen verwenden, sollten zur [REST-API“ migriert ](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+* **Einstellung der SOAP-**: Die Unterstützung für die Marketo SOAP-API endet am 31. Oktober 2025. Services, die SOAP-API-Funktionen verwenden, sollten zur [REST-API“ migriert ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.

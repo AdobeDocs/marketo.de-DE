@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 67b1c61d9051043cb9fb6e4252ffd94c77ff6f22
+source-git-commit: 5dea84390b7d008ad0b19c5bc0e113f2a886ca72
 workflow-type: tm+mt
-source-wordcount: '9286'
+source-wordcount: '9290'
 ht-degree: 6%
 
 ---
@@ -258,7 +258,7 @@ ht-degree: 6%
       + [Einrichten der Adobe-Organisationszuordnung](product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md)
       + [Synchronisieren einer Zielgruppe aus Adobe Experience Cloud](product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md)
       + [Importieren von Assets mit Adobe Experience Manager](product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md)
-      + [Übersicht über die Adobe Experience Cloud-Benutzeroberfläche](product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md)
+      + Übersicht über die [Adobe Experience Cloud-Benutzeroberfläche](product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md)
    + Grundlegende Marketo-Konzepte {#core-marketo-concepts}
       + Intelligente Kampagnen {#smart-campaigns}
          + [Grundlegendes zu Smart-Kampagnen](product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
@@ -1965,6 +1965,7 @@ ht-degree: 6%
          + [Versionshinweise: Januar &#39;25](release-notes/previous-releases/2025/release-notes-jan-25.md)
          + [Versionshinweise: 25. März](release-notes/previous-releases/2025/release-notes-mar-25.md)
          + [Versionshinweise: April &#39;25](release-notes/previous-releases/2025/release-notes-apr-25.md)
+         + [Versionshinweise: Mai &#39;25](release-notes/previous-releases/2025/release-notes-may-25.md)
       + 2024 {#2024}
          + [Versionshinweise: Januar &#39;24](release-notes/previous-releases/2024/release-notes-jan-24.md)
          + [Versionshinweise: 24. März](release-notes/previous-releases/2024/release-notes-mar-24.md)
