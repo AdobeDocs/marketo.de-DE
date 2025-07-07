@@ -7,10 +7,10 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 1bb3bfdef8a74c0f990c5e274391348c9c111f28
+source-git-commit: 25a218896c84a7145f05079fe8adcf3d657adcad
 workflow-type: tm+mt
 source-wordcount: '1260'
-ht-degree: 86%
+ht-degree: 85%
 
 ---
 
@@ -107,7 +107,7 @@ SCREENSHOT
 
 Sie können eine Standardmarke festlegen, die beim Generieren von Inhalten und Berechnen der Ausrichtungswerte während der Kampagnenerstellung automatisch angewendet wird.
 
-Um eine Standardmarke festzulegen, gehen Sie zum Dashboard **[!UICONTROL Marken]**. Öffnen Sie das erweiterte Menü, indem Sie auf das Symbol ![](assets/do-not-localize/Smock_More_18_N.svg) klicken und **[!UICONTROL Als Standardmarke markieren]** auswählen.
+Um eine Standardmarke festzulegen, gehen Sie zum Dashboard **[!UICONTROL Marken]**. Öffnen Sie das erweiterte Menü, indem Sie auf das Symbol klicken und **[!UICONTROL Als Standardmarke markieren]** auswählen.
 
 SCREENSHOT
 
