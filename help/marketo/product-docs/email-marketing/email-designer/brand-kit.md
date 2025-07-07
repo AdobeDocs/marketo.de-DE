@@ -7,10 +7,10 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: e0e739054c6389e0a3ab638097491e6c24f5e30c
+source-git-commit: 1bb3bfdef8a74c0f990c5e274391348c9c111f28
 workflow-type: tm+mt
-source-wordcount: '1258'
-ht-degree: 87%
+source-wordcount: '1260'
+ht-degree: 86%
 
 ---
 
@@ -246,7 +246,7 @@ Im Abschnitt **[!UICONTROL Schreibstil]** werden die Standards zum Verfassen von
 
 So personalisieren Sie Ihren **[!UICONTROL Schreibstil]**:
 
-1. Klicken Sie auf der Registerkarte **[!UICONTROL Schreibstil]** auf ![](assets/do-not-localize/Smock_Add_18_N.svg), um eine Richtlinie, eine Ausnahme oder einen Ausschluss hinzuzufügen.
+1. Klicken Sie auf der Registerkarte **[!UICONTROL Schreibstil]** auf DIESES SYMBOL, um eine Richtlinie, eine Ausnahme oder einen Ausschluss hinzuzufügen.
 
 1. Geben Sie die Richtlinie, die Ausnahme oder den Ausschluss ein und klicken Sie auf **[!UICONTROL Hinzufügen]**.
 
