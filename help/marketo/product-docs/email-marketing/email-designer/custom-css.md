@@ -7,10 +7,10 @@ level: Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: e0e739054c6389e0a3ab638097491e6c24f5e30c
+source-git-commit: 55c0e4f011944eb30f5f48bf99ba9558185ca46d
 workflow-type: tm+mt
-source-wordcount: '664'
-ht-degree: 72%
+source-wordcount: '667'
+ht-degree: 69%
 
 ---
 
@@ -22,7 +22,7 @@ Beim Entwerfen Ihrer E-Mails können Sie Ihr eigenes benutzerdefiniertes CSS dir
 
 Gehen Sie wie folgt vor, um benutzerdefiniertes CSS zu Ihren E-Mail-Inhalten hinzuzufügen.
 
-1. Stellen Sie sicher, dass im E-Mail-Designer ein Inhalt definiert ist, indem Sie mindestens eine [Komponente](content-components.md) hinzufügen.
+1. Stellen Sie sicher, dass in der E-Mail-Designer ein Inhalt definiert ist, indem Sie mindestens eine Komponente hinzufügen. LINK - DAS BEHALTEN?
 
 1. Wählen Sie entweder über den **[!UICONTROL Navigationsbaum]** links oder oben im rechten Bereich **[!UICONTROL Hauptteil]** aus. Der Abschnitt **[!UICONTROL CSS-Stile]** wird auf der rechten Seite angezeigt.
 
