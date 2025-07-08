@@ -47,7 +47,7 @@ Wenn Sie diesen Filter bereits in einer Smart-Liste verwenden (z. B. in einer Sm
 >
 >**Trigger**: Besucht die Web-Seite, die Web-Seite ist die Preisseite\
 >**Fluss**: Punktzahl ändern +10 und Interessanter Moment
->>**Web**: Seite mit angezeigten Preisen
+>&#x200B;>**Web**: Seite mit angezeigten Preisen
 >
 >Bei [!DNL Munchkin] V2 tritt eine anonyme Person, die die Preisseite besucht, nicht sofort in die Kampagne ein. Sobald die anonyme Person bekannt wird, führen wir diese Kampagne auf ihr durch. Sie wird:
 >
