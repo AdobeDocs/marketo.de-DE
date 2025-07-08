@@ -3,9 +3,9 @@ description: Übersicht über die erweiterte BI-Analyse - Marketo-Dokumente - Pr
 title: Erweiterte BI-Analytics-Übersicht
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: fbb323d2518bcc8278370a0e1c5ea87143f87a36
+source-git-commit: c5f0e8ef41618ec0723e4c6ca534e6ed3c1ec1f9
 workflow-type: tm+mt
-source-wordcount: '1144'
+source-wordcount: '1228'
 ht-degree: 0%
 
 ---
@@ -254,7 +254,17 @@ Die folgenden Standardberichte sind als Beispiele für Ihre benutzerdefinierten 
 
 * Vorhandene Benutzer von Revenue Explorer haben automatisch Zugriff auf das neue erweiterte BI-Analytics-Erlebnis.
 
-* In Advanced BI Analytics können Sie bis zu 700 Berichte erstellen.
+* Sie können **bis zu 700 Berichte** Advanced BI Analytics erstellen.
+
+  >[!NOTE]
+  >
+  >Wenn Sie im Umsatzexplorer über mehr als 700 Berichte verfügten, wurden einige Berichte mit anderen kombiniert und über Seiten im Bericht konsolidiert.
+  >
+  >* Wenn ein Bericht über ein E-Mail-Abonnement verfügte, wurde er nicht kombiniert.
+  >
+  >* Der Rest der Berichte im _Ordner_ nach Berichtsbereich zu einem oder mehreren Berichten zusammengefasst. Wenn es mehr als fünf Berichte für den Berichtsbereich gab, wurden diese in mehr als einen kombinierten Bericht konsolidiert.
+  >
+  >* Jeder kombinierte Bericht hat nicht mehr als fünf Seiten.
 
 * Bei jeder Visualisierung gibt es eine Beschränkung von 1 Million Zeilen pro Abfrage. Wenn Ihre Abfrage diesen Wert überschreitet, erhalten Sie den folgenden Fehler: `The resultset of a query to external data source has exceeded the maximum allowed size of '1000000' rows`. Um dies zu beheben, reduzieren Sie Ihren Datumsbereich und/oder passen Sie die Filter in Ihrem Bericht an, um die Anzahl der Zeilen in Ihrem Abfrageergebnis zu reduzieren.
 
