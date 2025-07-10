@@ -7,32 +7,31 @@ level: Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 55c0e4f011944eb30f5f48bf99ba9558185ca46d
+exl-id: c191b44a-47ab-41f8-aa95-9268e359e5db
+source-git-commit: ca8644c43cfbdbaf7be9f21c5e440949b796cfdb
 workflow-type: tm+mt
-source-wordcount: '667'
-ht-degree: 69%
+source-wordcount: '620'
+ht-degree: 30%
 
 ---
 
 # Hinzufügen von benutzerdefinierten CSS zu E-Mail-Inhalten {#email-metadata}
 
-Beim Entwerfen Ihrer E-Mails können Sie Ihr eigenes benutzerdefiniertes CSS direkt in der Marketo Engage E-Mail-Designer hinzufügen. Mit dieser Funktion können Sie erweiterte und spezifische Stile anwenden, um die Flexibilität und Kontrolle über das Erscheinungsbild Ihrer Inhalte zu erhöhen.
+Fügen Sie Ihr eigenes benutzerdefiniertes CSS direkt in der Marketo Engage E-Mail-Designer hinzu, um erweiterte und spezifische Stile zu erhalten.
 
 ## Definieren von benutzerdefiniertem CSS {#define-custom-css}
 
-Gehen Sie wie folgt vor, um benutzerdefiniertes CSS zu Ihren E-Mail-Inhalten hinzuzufügen.
+1. Stellen Sie sicher, dass in der E-Mail-Designer ein Inhalt definiert ist, indem Sie mindestens eine Komponente hinzufügen.
 
-1. Stellen Sie sicher, dass in der E-Mail-Designer ein Inhalt definiert ist, indem Sie mindestens eine Komponente hinzufügen. LINK - DAS BEHALTEN?
-
-1. Wählen Sie entweder über den **[!UICONTROL Navigationsbaum]** links oder oben im rechten Bereich **[!UICONTROL Hauptteil]** aus. Der Abschnitt **[!UICONTROL CSS-Stile]** wird auf der rechten Seite angezeigt.
+1. Wählen Sie **[!UICONTROL Textkörper]** entweder über den **[!UICONTROL Navigationsbaum]** auf der linken oder im rechten Bereich aus. **[!UICONTROL CSS-]**&quot; wird auf der rechten Seite angezeigt.
 
    SCREENSHOT
 
    >[!NOTE]
    >
-   >Der Abschnitt **[!UICONTROL CSS-Stile]** ist nur verfügbar, wenn bereits Inhalt im Editor vorhanden ist.
+   >Der Abschnitt **[!UICONTROL CSS]** Stile“ ist nur verfügbar, wenn im Editor Inhalte vorhanden sind.
 
-1. Klicken Sie auf **[!UICONTROL Schaltfläche Benutzerdefiniertes CSS]**.
+1. Klicken Sie auf die Schaltfläche **[!UICONTROL + Benutzerdefiniertes CSS hinzufügen]**.
 
    >[!NOTE]
    >
@@ -44,27 +43,27 @@ Gehen Sie wie folgt vor, um benutzerdefiniertes CSS zu Ihren E-Mail-Inhalten hin
 
    >[!NOTE]
    >
-   >Bei Verwendung einer [Vorlage mit gesperrtem Inhalt](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md) können Sie keine benutzerdefinierte CSS zu Ihrem Inhalt hinzufügen. Die Schaltflächenbeschriftung ändert sich in **[!UICONTROL Benutzerdefiniertes CSS anzeigen]** und jedes bereits im Inhalt vorhandene benutzerdefinierte CSS ist schreibgeschützt.
+   >Sie können kein benutzerdefiniertes CSS zu Ihrem Inhalt hinzufügen, wenn Sie eine [Vorlage mit gesperrtem Inhalt](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md) verwenden. Die Schaltflächenbeschriftung ändert sich in **[!UICONTROL Benutzerdefiniertes CSS anzeigen]** und jedes angezeigte benutzerdefinierte CSS ist schreibgeschützt.
 
-1. Speichern Sie das benutzerdefinierte CSS und überprüfen Sie, ob das benutzerdefinierte CSS korrekt auf Ihren Inhalt angewendet wird. Ist dies nicht der Fall, lesen Sie den Abschnitt [Fehlerbehebung](#troubleshooting).
+1. Speichern Sie Ihr benutzerdefiniertes CSS und stellen Sie sicher, dass es auf Ihren Inhalt zutrifft. Ist dies nicht der Fall, lesen Sie den Abschnitt [Fehlerbehebung](#troubleshooting).
 
    SCREENSHOT
 
-1. Wenn Sie den gesamten Inhalt entfernen, wird der Abschnitt ausgeblendet und das zuvor definierte benutzerdefinierte CSS wird nicht mehr angewendet.
+   >[!NOTE]
+   >
+   >Wenn Sie den gesamten Inhalt entfernen, wird der Abschnitt ausgeblendet und das zuvor definierte benutzerdefinierte CSS wird nicht mehr angewendet. Fügen Sie Inhalte wieder hinzu, damit der Abschnitt **[!UICONTROL CSS-Stile]** wieder angezeigt wird. Das benutzerdefinierte CSS wird erneut angewendet.
 
-1. Fügen Sie dem Editor wieder Inhalte hinzu, damit der Abschnitt **[!UICONTROL CSS-Stile]** wieder angezeigt wird. Das benutzerdefinierte CSS wird erneut angewendet.
-
-## Sicherstellen, dass gültiges CSS verwendet wird {#use-valid-css}
+## Verwenden von gültigem CSS {#using-valid-css}
 
 Sie können eine beliebige gültige CSS-Zeichenfolge im Textbereich **[!UICONTROL Benutzerdefiniertes CSS hinzufügen]** eingeben. Richtig formatiertes CSS wird sofort auf den Inhalt angewendet.
 
 >[!CAUTION]
 >
->Benutzende sind für die Sicherheit ihres benutzerdefinierten CSS verantwortlich. Stellen Sie sicher, dass durch Ihr CSS keine Sicherheitslücken entstehen und dass es nicht mit den vorhandenen Inhalten in Konflikt steht.
+>Sie sind für die Sicherheit Ihres benutzerdefinierten CSS verantwortlich. Stellen Sie sicher, dass Ihr CSS keine Sicherheitslücken enthält oder mit den vorhandenen Inhalten in Konflikt steht.
 >
 >Vermeiden Sie die Verwendung von CSS, das unbeabsichtigt das Layout oder die Funktionalität des Inhalts beeinträchtigen könnte.
 
-+++ Beispiele für CSS
++++ Beispiele für gültiges CSS
 
 Im Folgenden finden Sie Beispiele für gültiges CSS.
 
@@ -138,7 +137,7 @@ Im Folgenden finden Sie Beispiele für gültiges CSS.
 
 +++ Beispiele für ungültiges CSS
 
-Wenn ungültiges CSS eingegeben wird, wird eine Fehlermeldung mit dem Hinweis angezeigt, dass das CSS nicht gespeichert werden kann. Im Folgenden finden Sie Beispiele für ungültiges CSS.
+Wenn ungültiges CSS eingegeben wird, wird eine Fehlermeldung angezeigt, die darauf hinweist, dass das CSS nicht gespeichert werden kann. Im Folgenden finden Sie Beispiele für ungültiges CSS.
 
 Die Verwendung von `<style>`-Tags wird nicht akzeptiert:
 
@@ -165,7 +164,7 @@ body {
 
 ## Technische Implementierung {#implementation}
 
-Ihr benutzerdefiniertes CSS wird am Ende des Abschnitts `<head>` als Teil eines `<style>`-Tags mit dem Attribut `data-name="global-custom"` hinzugefügt, wie im folgenden Beispiel dargestellt. Dadurch wird sichergestellt, dass die benutzerdefinierten Stile global auf die Inhalte angewendet werden.
+Ihr benutzerdefiniertes CSS wird am Ende des Abschnitts `<head>` als Teil eines `<style>`-Tags mit dem Attribut `data-name="global-custom"` hinzugefügt, wie im folgenden Beispiel dargestellt. Dadurch wird sichergestellt, dass die benutzerdefinierten Stile global auf den Inhalt angewendet werden.
 
 +++ Beispiel anzeigen
 
@@ -207,19 +206,19 @@ Ihr benutzerdefiniertes CSS wird am Ende des Abschnitts `<head>` als Teil eines 
 
 Das benutzerdefinierte CSS wird nicht vom Bereich **[!UICONTROL Einstellungen]** des E-Mail-Designers interpretiert oder überprüft. Es ist vollkommen unabhängig und kann nur über die Option **[!UICONTROL Benutzerdefiniertes CSS hinzufügen]** geändert werden.
 
-### Schutzmechanismen - Importierte Inhalte
+### Schutzmechanismen - Importierte Inhalte {#guardrails}
 
 Wenn Sie benutzerdefiniertes CSS mit Inhalten verwenden möchten, die in den E-Mail-Designer importiert wurden, sollten Sie Folgendes beachten:
 
-* Wenn [externe HTML importieren](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#import-html)-Inhalte einschließlich CSS, sofern sie nicht konvertiert werden, befinden sie sich im **[!UICONTROL Kompatibilitätsmodus]**, wobei der Abschnitt **[!UICONTROL CSS-]**&quot; nicht verfügbar ist.
+* Wenn [externe HTML-](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#import-html) einschließlich CSS importieren, befindet sich dieser Inhalt, sofern Sie ihn nicht konvertieren, im **[!UICONTROL Kompatibilitätsmodus]**, wobei der Abschnitt **[!UICONTROL CSS-]**&quot; nicht verfügbar ist.
 
-* Beim Importieren von mit dem E-Mail-Designer erstellten Inhalten, einschließlich CSS, das über die Option **[!UICONTROL Benutzerdefiniertes CSS hinzufügen]** angewendet wurde, ist das zuvor angewendete CSS über dieselbe Option sichtbar und bearbeitbar.
+* Wenn der Import von mit der E-Mail-Designer erstellten Inhalten CSS enthält, das über die Option **[!UICONTROL Benutzerdefiniertes CSS hinzufügen]** angewendet wurde, ist das zuvor angewendete CSS in derselben Option sichtbar und kann bearbeitet werden.
 
 ## Fehlerbehebung {#troubleshooting}
 
-Wenn Ihr benutzerdefiniertes CSS nicht angewendet wird, sollten Sie die folgenden Optionen in Betracht ziehen.
+Wenn Ihr benutzerdefiniertes CSS nicht angewendet wird, versuchen Sie es mit den folgenden Vorschlägen.
 
-* Stellen Sie sicher, dass Ihr CSS gültig und frei von Syntaxfehlern ist (z. B. fehlende Klammern, falsche Eigenschaftsnamen). [Weitere Informationen](#use-valid-css)
+* Stellen Sie sicher, dass Ihr CSS gültig und frei von Syntaxfehlern (z. B. fehlende Klammern, falsche Eigenschaftsnamen) ist. [Weitere Informationen](#use-valid-css)
 
 * Stellen Sie sicher, dass Ihr CSS zum `<style>`-Tag mit dem `data-name="global-custom"` hinzugefügt wird.
 
@@ -233,9 +232,9 @@ Wenn Ihr benutzerdefiniertes CSS nicht angewendet wird, sollten Sie die folgende
 
 +++
 
-* Stellen Sie sicher, dass Ihre CSS-Datei nicht durch andere CSS-Regeln überschrieben wird.
+* Stellen Sie sicher, dass Ihr CSS nicht durch andere CSS-Regeln überschrieben wird.
 
-   * Verwenden Sie die Entwickler-Tools Ihres Browsers, um den Inhalt zu überprüfen und sicherzustellen, dass Ihr CSS auf die richtige Auswahl abzielt.
+   * Verwenden Sie Ihre Browser-Entwickler-Tools, um den Inhalt zu überprüfen und zu überprüfen, ob Ihr CSS auf die richtigen Selektoren abzielt.
 
    * Erwägen Sie, Ihren Deklarationen `!important` hinzuzufügen, um sicherzustellen, dass sie Vorrang haben.
 
@@ -248,3 +247,7 @@ Wenn Ihr benutzerdefiniertes CSS nicht angewendet wird, sollten Sie die folgende
      ```
 
 +++
+
+>[!NOTE]
+>
+>Der Marketo Engage-Support ist nicht für die Fehlerbehebung bei benutzerdefiniertem CSS eingerichtet. Unterstützung bei CSS erhalten Sie von einem Web-Entwickler.

@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2359730
-description: Hinzufügen einer benutzerdefinierten HTML zu einer Freiform-Landingpage - Marketo-Dokumente - Produktdokumentation
-title: Hinzufügen von benutzerdefiniertem HTML zu einer Freiform-Landingpage
+description: Hinzufügen benutzerdefinierter HTML zu einer Freiform-Landingpage - Marketo-Dokumente - Produktdokumentation
+title: Hinzufügen benutzerdefinierter HTML zu einer Freiform-Landingpage
 exl-id: 1bcb215b-d291-42a5-be74-2c78f151384e
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ca8644c43cfbdbaf7be9f21c5e440949b796cfdb
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
 
-# Hinzufügen von benutzerdefiniertem HTML zu einer Freiform-Landingpage {#adding-custom-html-to-a-free-form-landing-page}
+# Hinzufügen benutzerdefinierter HTML zu einer Freiform-Landingpage {#adding-custom-html-to-a-free-form-landing-page}
 
-Sie können Landingpages benutzerdefinierte Skripte, CSS oder andere HTML hinzufügen.
+Sie können benutzerdefinierte Skripte, CSS oder andere HTML-Elemente zu Landingpages hinzufügen.
 
 >[!NOTE]
 >
->Der Marketo-Support ist nicht für die Fehlerbehebung beim benutzerdefinierten HTML eingerichtet. Wenn Sie Hilfe beim HTML benötigen, wenden Sie sich bitte an einen Web-Entwickler.
+>Der Marketo Engage-Support ist nicht für die Fehlerbehebung bei benutzerdefiniertem HTML eingerichtet. Wenn Sie Hilfe zu HTML benötigen, wenden Sie sich bitte an einen Web-Entwickler.
 
 1. Wählen Sie Ihre Landingpage aus und klicken Sie auf **Entwurf bearbeiten**.
 
@@ -39,4 +39,4 @@ Schön! Fügen Sie alle gewünschten Skripte oder CSS hinzu.
 
 >[!CAUTION]
 >
->Wenn Ihr benutzerdefinierter HTML nicht gerendert werden kann (z. B. eine unsichtbare JavaScript-Funktion oder CSS), platzieren Sie das Element an einer einprägsamen Stelle, z. B. oben links. Die Elementkontur wird nur angezeigt, wenn Sie in ihren Bereich klicken.
+>Wenn die benutzerdefinierte HTML nicht gerendert werden kann (z. B. eine unsichtbare JavaScript-Funktion oder CSS), platzieren Sie das Element an einer einprägsamen Stelle, z. B. oben links. Die Elementkontur wird nur angezeigt, wenn Sie in ihren Bereich klicken.
