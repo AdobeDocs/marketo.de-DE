@@ -1,23 +1,23 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: TITEL
+title: Hinzufügen von benutzerdefinierten CSS zu E-Mail-Inhalten
 description: Erfahren Sie, wie Sie Ihrem E-Mail-Inhalt direkt in der E-Mail-Designer in Marketo Engage benutzerdefiniertes CSS hinzufügen.
 level: Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
 exl-id: c191b44a-47ab-41f8-aa95-9268e359e5db
-source-git-commit: ca8644c43cfbdbaf7be9f21c5e440949b796cfdb
+source-git-commit: 37938db9eafbe7860448d438e2fa03adccd043ec
 workflow-type: tm+mt
 source-wordcount: '620'
-ht-degree: 30%
+ht-degree: 29%
 
 ---
 
-# Hinzufügen von benutzerdefinierten CSS zu E-Mail-Inhalten {#email-metadata}
+# Hinzufügen von benutzerdefinierten CSS zu E-Mail-Inhalten {#custom-css}
 
-Fügen Sie Ihr eigenes benutzerdefiniertes CSS direkt in der Marketo Engage E-Mail-Designer hinzu, um erweiterte und spezifische Stile zu erhalten.
+Fügen Sie Ihr eigenes benutzerdefiniertes CSS direkt in der Marketo Engage E-Mail-Designer hinzu, um erweiterte, spezifische Stile zu erhalten.
 
 ## Definieren von benutzerdefiniertem CSS {#define-custom-css}
 
@@ -25,7 +25,7 @@ Fügen Sie Ihr eigenes benutzerdefiniertes CSS direkt in der Marketo Engage E-Ma
 
 1. Wählen Sie **[!UICONTROL Textkörper]** entweder über den **[!UICONTROL Navigationsbaum]** auf der linken oder im rechten Bereich aus. **[!UICONTROL CSS-]**&quot; wird auf der rechten Seite angezeigt.
 
-   SCREENSHOT
+   ![](assets/custom-css-1.png){width="800" zoomable="yes"}
 
    >[!NOTE]
    >
@@ -37,17 +37,17 @@ Fügen Sie Ihr eigenes benutzerdefiniertes CSS direkt in der Marketo Engage E-Ma
    >
    >Die Schaltfläche **[!UICONTROL Benutzerdefiniertes CSS hinzufügen]** ist nur verfügbar, wenn **[!UICONTROL Body]** ausgewählt ist. Sie können jedoch benutzerdefinierte CSS-Stile auf alle Komponenten in Ihrem Inhalt anwenden.
 
-1. Geben Sie Ihren CSS-Code in den entsprechenden Textbereich ein, der angezeigt wird. Stellen Sie sicher, dass das benutzerdefinierte CSS gültig ist und der richtigen Syntax folgt. [Weitere Informationen](#use-valid-css)
+1. Geben Sie Ihren CSS-Code in den entsprechenden Textbereich ein, der angezeigt wird. Stellen Sie sicher, dass das benutzerdefinierte CSS [gültig ist und der richtigen Syntax folgt](#use-valid-css). Klicken Sie auf **Speichern**, wenn Sie fertig sind.
 
-   SCREENSHOT
+   ![](assets/custom-css-2.png)
 
    >[!NOTE]
    >
    >Sie können kein benutzerdefiniertes CSS zu Ihrem Inhalt hinzufügen, wenn Sie eine [Vorlage mit gesperrtem Inhalt](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md) verwenden. Die Schaltflächenbeschriftung ändert sich in **[!UICONTROL Benutzerdefiniertes CSS anzeigen]** und jedes angezeigte benutzerdefinierte CSS ist schreibgeschützt.
 
-1. Speichern Sie Ihr benutzerdefiniertes CSS und stellen Sie sicher, dass es auf Ihren Inhalt zutrifft. Ist dies nicht der Fall, lesen Sie den Abschnitt [Fehlerbehebung](#troubleshooting).
+1. Stellen Sie sicher, dass das CSS für Ihren Inhalt gilt. Ist dies nicht der Fall, lesen Sie den Abschnitt [Fehlerbehebung](#troubleshooting).
 
-   SCREENSHOT
+   ![](assets/custom-css-3.png)
 
    >[!NOTE]
    >
