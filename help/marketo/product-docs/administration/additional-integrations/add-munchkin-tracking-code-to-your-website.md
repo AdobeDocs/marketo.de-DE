@@ -59,7 +59,7 @@ Der benutzerdefinierte JavaScript-Trackingcode von Marketo namens [!DNL Munchkin
 
    >[!TIP]
    >
-   >Bei Websites mit hohem Traffic-Volumen (d. h. Hunderttausende von Besuchen pro Monat) empfehlen wir, keine anonymen Personen zu verfolgen. [Weitere Informationen](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"}.
+   >Bei Websites mit hohem Traffic-Volumen (d. h. Hunderttausende von Besuchen pro Monat) empfehlen wir, keine anonymen Personen zu verfolgen. [Weitere Informationen](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"}.
 
 ## Hinzufügen von Trackingcode bei Verwendung mehrerer Arbeitsbereiche {#add-tracking-code-when-using-multiple-workspaces}
 

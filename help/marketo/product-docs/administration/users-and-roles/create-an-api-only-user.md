@@ -13,7 +13,7 @@ ht-degree: 3%
 
 # Nur API-Benutzer erstellen {#create-an-api-only-user}
 
-Wenn Sie eine Integration mit Marketo über die [REST-API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} durchführen möchten, müssen Sie nur einen API-Benutzer erstellen. So geht&#39;s.
+Wenn Sie eine Integration mit Marketo über die [REST-API](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} durchführen möchten, müssen Sie nur einen API-Benutzer erstellen. So geht&#39;s.
 
 >[!IMPORTANT]
 >

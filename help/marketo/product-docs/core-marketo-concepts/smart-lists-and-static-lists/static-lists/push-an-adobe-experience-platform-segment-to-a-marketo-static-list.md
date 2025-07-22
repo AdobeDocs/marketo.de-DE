@@ -100,7 +100,7 @@ Mit dieser Funktion können Sie Segmente, die sich in Ihrer Adobe Experience Pla
 
    >[!NOTE]
    >
-   >Sie können Attribute aus Experience Platform jedem der Attribute zuordnen, auf die Ihr Unternehmen in Marketo Engage Zugriff hat. Verwenden Sie die [API-Anfrage beschreiben](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} um Attributfelder abzurufen, auf die Ihre Organisation Zugriff hat.
+   >Sie können Attribute aus Experience Platform jedem der Attribute zuordnen, auf die Ihr Unternehmen in Marketo Engage Zugriff hat. Verwenden Sie die [API-Anfrage beschreiben](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} um Attributfelder abzurufen, auf die Ihre Organisation Zugriff hat.
 
 1. Ordnen Sie den Nachnamen und den Firmennamen zu, indem Sie erneut auf **[!UICONTROL Neue Zuordnung hinzufügen]** klicken und Schritt 15 zweimal wiederholen. Wählen Sie **[!UICONTROL lastName]** und dann **[!UICONTROL companyName]** aus.
 

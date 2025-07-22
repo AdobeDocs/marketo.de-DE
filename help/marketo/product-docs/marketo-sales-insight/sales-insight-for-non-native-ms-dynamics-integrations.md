@@ -19,7 +19,7 @@ Wenn Ihr Adobe Marketo Engage-Konto über eine benutzerdefinierte oder nicht nat
 >* Die Funktion „MSI Non-Native“ wurde für Ihre Marketo-Instanz aktiviert, bevor Sie mit der Einrichtung von MSI beginnen. Wenn dies nicht der Fall ist und Sie die Funktion bereits erworben haben, wenden Sie sich an den [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. Wenn Sie diese Funktion noch nicht erworben haben, wenden Sie sich an das Adobe Account Team (Ihren Account Manager).
 >* Laden Sie [MSI-Paket für benutzerdefinierte Synchronisierung](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"} herunter.
 >* Ein MS Dynamics-Abonnement mit MSI-Setup (derzeit wird [Dynamics Online](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online.md){target="_blank"} nur unterstützt).
->* Marketo REST-API [erfolgreich eingerichtet](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}. Die offen gelegten CRUD-APIs sind die Grundlage für die Durchführung der nicht nativen Synchronisierung.
+>* Marketo REST-API [erfolgreich eingerichtet](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}. Die offen gelegten CRUD-APIs sind die Grundlage für die Durchführung der nicht nativen Synchronisierung.
 >* Lesen Sie [diesen Blogpost](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/){target="_blank"}, um ein Verständnis des Objekts und der Beziehungen zu erhalten.
 
 ## Für eine erfolgreiche nicht-native Synchronisation für MSI ist Folgendes erforderlich {#successful-non-native-sync-for-msi-requires-the-following}
@@ -48,7 +48,7 @@ Wenn Ihr Adobe Marketo Engage-Konto über eine benutzerdefinierte oder nicht nat
     </tbody> 
    </table>
 
-   * [API-Dokumentation für Vertriebsmitarbeiter](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/sales-persons){target="_blank"}
+   * [API-Dokumentation für Vertriebsmitarbeiter](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/lead-database/sales-persons){target="_blank"}
    * [API-Dokumentation zum Synchronisieren des Vertriebspersonals](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Sales-Persons/operation/syncSalesPersonsUsingPOST){target="_blank"}
 
 1. Synchronisieren Sie die MS [!DNL Dynamics]-Konten mit Marketo.
@@ -80,7 +80,7 @@ Wenn Ihr Adobe Marketo Engage-Konto über eine benutzerdefinierte oder nicht nat
     </tbody> 
    </table>
 
-   * API-Dokumentation für Unternehmen: [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/companies](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/companies){target="_blank"}
+   * API-Dokumentation für Unternehmen: [https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/lead-database/companies](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/lead-database/companies){target="_blank"}
    * API-Dokumentation für das Synchronisieren von Unternehmen: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Sales-Persons/operation/syncSalesPersonsUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Sales-Persons/operation/syncSalesPersonsUsingPOST){target="_blank"}
 
 1. Synchronisieren Sie die MS [!DNL Dynamics]-Leads/-Kontakte mit Marketo.
@@ -117,7 +117,7 @@ Wenn Ihr Adobe Marketo Engage-Konto über eine benutzerdefinierte oder nicht nat
     </tbody> 
    </table>
 
-   * API-Dokumentation für Leads: [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database){target="_blank"}
+   * API-Dokumentation für Leads: [https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/lead-database/lead-database](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/lead-database/lead-database){target="_blank"}
    * API-Dokumentation zum Synchronisieren von Leads: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST){target="_blank"}
 
 1. MS [!DNL Dynamics] Opportunities mit Marketo synchronisieren.
@@ -154,7 +154,7 @@ Wenn Ihr Adobe Marketo Engage-Konto über eine benutzerdefinierte oder nicht nat
     </tbody> 
    </table>
 
-   * API-Dokumentation für Opportunity: [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
+   * API-Dokumentation für Opportunity: [https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
    * API-Dokumentation zum Synchronisieren von Opportunities: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST){target="_blank"}
 
 1. MS [!DNL Dynamics] Kontaktrollen mit Marketo synchronisieren.
@@ -191,7 +191,7 @@ Wenn Ihr Adobe Marketo Engage-Konto über eine benutzerdefinierte oder nicht nat
     </tbody> 
    </table>
 
-   * API-Dokumentation für Opportunity: [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
+   * API-Dokumentation für Opportunity: [https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
    * API-Dokumentation zum Synchronisieren von Opportunities: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST){target="_blank"}
 
 1. Letzten interessanten Moment/MSI-Bewertungsfelder mit MS [!DNL Dynamics] synchronisieren.
