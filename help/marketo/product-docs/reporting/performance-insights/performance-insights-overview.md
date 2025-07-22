@@ -31,7 +31,7 @@ Bewerten Sie den [Umsatzbeitrag](/help/marketo/product-docs/reporting/performanc
 
 ![](assets/two.png)
 
-Standardmäßig spiegeln die angezeigten Daten die Leistung nach &quot;[!UICONTROL &quot; ]. Sie können zur Leistung wechseln, indem **[!UICONTROL Pipeline]** oder **[!UICONTROL Umsatz]** einfach durch Klicken auf eine dieser Optionen auswählen.
+Standardmäßig spiegeln die angezeigten Daten die Leistung nach &quot;[!UICONTROL &quot; &#x200B;]. Sie können zur Leistung wechseln, indem **[!UICONTROL Pipeline]** oder **[!UICONTROL Umsatz]** einfach durch Klicken auf eine dieser Optionen auswählen.
 
 ![](assets/3.png)
 

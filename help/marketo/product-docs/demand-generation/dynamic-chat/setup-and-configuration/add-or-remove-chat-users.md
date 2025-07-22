@@ -40,7 +40,7 @@ Gehen Sie wie folgt vor, um Chat-Benutzer hinzuzufügen oder zu entfernen.
 
    ![](assets/add-or-remove-chat-users-4.png)
 
-1. Geben Sie [!UICONTROL  Namen, die Benutzergruppe oder die E]Mail-Adresse des Benutzers ein, den Sie hinzufügen möchten. Vor- und Nachname sind optional.
+1. Geben Sie [!UICONTROL &#x200B; Namen, die Benutzergruppe oder die E]Mail-Adresse des Benutzers ein, den Sie hinzufügen möchten. Vor- und Nachname sind optional.
 
    ![](assets/add-or-remove-chat-users-5.png)
 

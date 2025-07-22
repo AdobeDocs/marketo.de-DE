@@ -20,7 +20,7 @@ So richten Sie Ihre ON24-Ereignisintegration ein.
 
    ![](assets/set-up-the-on24-integration-with-marketo-1.png)
 
-1. Klicken [!UICONTROL  unter ] auf **[!UICONTROL Benutzer und Rollen]**.
+1. Klicken [!UICONTROL &#x200B; unter &#x200B;] auf **[!UICONTROL Benutzer und Rollen]**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-2.png)
 
@@ -64,7 +64,7 @@ So richten Sie Ihre ON24-Ereignisintegration ein.
 
    ![](assets/set-up-the-on24-integration-with-marketo-10.png)
 
-1. Wählen Sie einen [!UICONTROL Anzeigenamen]. Klicken Sie auf die **[!UICONTROL Dienst]** und wählen Sie **[!UICONTROL Benutzerdefiniert]**. Geben Sie eine [!UICONTROL Beschreibung] ein. Klicken Sie auf [!UICONTROL  Dropdown-Liste Nur ]-Benutzer und wählen Sie den Benutzer aus[ den Sie in den obigen Schritten erstellt ](#create-a-new-user). Klicken Sie auf **[!UICONTROL Erstellen]**.
+1. Wählen Sie einen [!UICONTROL Anzeigenamen]. Klicken Sie auf die **[!UICONTROL Dienst]** und wählen Sie **[!UICONTROL Benutzerdefiniert]**. Geben Sie eine [!UICONTROL Beschreibung] ein. Klicken Sie auf [!UICONTROL &#x200B; Dropdown-Liste Nur &#x200B;]-Benutzer und wählen Sie den Benutzer aus[ den Sie in den obigen Schritten erstellt ](#create-a-new-user). Klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-11.png)
 
@@ -80,7 +80,7 @@ So richten Sie Ihre ON24-Ereignisintegration ein.
 
    ![](assets/set-up-the-on24-integration-with-marketo-14.png)
 
-1. Markieren Sie unter &quot;[!UICONTROL REST API] den ersten Teil der [!UICONTROL  (bis zum „m“ in .com], klicken Sie mit der rechten Maustaste darauf, kopieren Sie ihn und speichern Sie ihn.
+1. Markieren Sie unter &quot;[!UICONTROL REST API] den ersten Teil der [!UICONTROL &#x200B; (bis zum „m“ in .com], klicken Sie mit der rechten Maustaste darauf, kopieren Sie ihn und speichern Sie ihn.
 
    ![](assets/set-up-the-on24-integration-with-marketo-15.png)
 

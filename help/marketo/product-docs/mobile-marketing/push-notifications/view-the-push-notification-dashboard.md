@@ -27,7 +27,7 @@ Es ist einfach zu sehen, wie Ihre Push-Benachrichtigungen funktionieren.
 
    ![](assets/image2015-12-11-13-3a4-3a23.png)
 
-1. Sie können die Diagramme [!UICONTROL Insgesamt gesendet] und [!UICONTROL Total Taps] für iOS und Android in Kreisdiagrammen anzeigen. Scrollen Sie nach unten, um [!UICONTROL Tippen Sie auf ] in Balkendiagrammen zu sehen.
+1. Sie können die Diagramme [!UICONTROL Insgesamt gesendet] und [!UICONTROL Total Taps] für iOS und Android in Kreisdiagrammen anzeigen. Scrollen Sie nach unten, um [!UICONTROL Tippen Sie auf &#x200B;] in Balkendiagrammen zu sehen.
 
    ![](assets/image2015-12-15-15-3a23-3a47.png)
 

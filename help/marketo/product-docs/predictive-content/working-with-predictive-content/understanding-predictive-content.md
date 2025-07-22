@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Prädiktive Inhalte verstehen {#understanding-predictive-content}
 
-Nachdem Sie [einen Titel für Prognoseinhalte genehmigt haben](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) bearbeiten Sie ihn hier. Auf [!UICONTROL  Seite ]Prädiktiver Inhalt“ werden alle Titel angezeigt, die Sie für prädiktiven Inhalt genehmigt haben.
+Nachdem Sie [einen Titel für Prognoseinhalte genehmigt haben](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) bearbeiten Sie ihn hier. Auf [!UICONTROL &#x200B; Seite &#x200B;]Prädiktiver Inhalt“ werden alle Titel angezeigt, die Sie für prädiktiven Inhalt genehmigt haben.
 
 ![](assets/image2017-10-3-9-3a21-3a38.png)
 
@@ -58,7 +58,7 @@ In der Tabelle können Sie sehen, welche Quellen für prädiktive Inhalte aktivi
 
 ![](assets/image2017-10-3-9-3a26-3a25.png)
 
-Bewegen Sie den Mauszeiger über den Balken in [!UICONTROL  Spalte &quot;]&quot;, um die Konversionsrate, die direkte Konversion und die angeklickten Daten anzuzeigen.
+Bewegen Sie den Mauszeiger über den Balken in [!UICONTROL &#x200B; Spalte &quot;]&quot;, um die Konversionsrate, die direkte Konversion und die angeklickten Daten anzuzeigen.
 
 ![](assets/predictive-content-conversion-rate-popup-hand.png)
 

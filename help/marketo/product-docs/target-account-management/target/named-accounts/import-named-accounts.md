@@ -103,6 +103,6 @@ Szenarien bei der Deduplizierung [!UICONTROL nach Domain-Name]:
 
 >[!NOTE]
 >
->Wenn Marketo ein benanntes Konto anhängt, aktualisieren wir eine Regel (hinter den Kulissen), mit der wir Personen identifizieren können, die Teil des [!UICONTROL benannten Kontos“ sein ]. Beispiel: Wenn Sie &quot;IBM&quot; in &quot;IBM, USA“ aktualisieren, werden Personen mit einem der Firmennamen mit dem &quot;[!UICONTROL  Konto“ ].
+>Wenn Marketo ein benanntes Konto anhängt, aktualisieren wir eine Regel (hinter den Kulissen), mit der wir Personen identifizieren können, die Teil des [!UICONTROL benannten Kontos“ sein &#x200B;]. Beispiel: Wenn Sie &quot;IBM&quot; in &quot;IBM, USA“ aktualisieren, werden Personen mit einem der Firmennamen mit dem &quot;[!UICONTROL &#x200B; Konto“ &#x200B;].
 
 Wenn Marketo Datensätze findet, die wir als Duplikate sehen, wird nur der erste verarbeitet.

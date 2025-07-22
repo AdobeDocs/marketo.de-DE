@@ -25,7 +25,7 @@ Einige Programme müssen möglicherweise einbezogen werden, auch wenn sie keine 
 >
 >Der Programm-Analyzer erfasst den Programmerfolg nach Kostenzeitraum. Wenn keine Periodenkosten verfügbar sind, wird der Programmerfolg unabhängig vom Analyseverhalten des Programms nicht angezeigt. Wenn das Analytics-Verhalten eingerichtet ist, werden Daten für Opportunity-Metriken angezeigt (Pipeline-Opportunities, gewonnener Umsatz usw.).
 
-1. Klicken Sie [!UICONTROL  Abschnitt ]Admin“ auf **[!UICONTROL Tags]**.
+1. Klicken Sie [!UICONTROL &#x200B; Abschnitt &#x200B;]Admin“ auf **[!UICONTROL Tags]**.
 
    ![](assets/image2014-9-17-12-3a35-3a32.png)
 

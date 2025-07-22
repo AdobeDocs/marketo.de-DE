@@ -62,7 +62,7 @@ Bevor Sie diese Funktion verwenden können, müssen Sie ihre Berechtigung für d
 
    >[!NOTE]
    >
-   >In [!UICONTROL  Dropdown-Liste Formularvalidierungsregelaktionen ] Sie vorhandene Regeln löschen oder bearbeiten.
+   >In [!UICONTROL &#x200B; Dropdown-Liste Formularvalidierungsregelaktionen &#x200B;] Sie vorhandene Regeln löschen oder bearbeiten.
 
 1. Benennen Sie Ihre Regel, geben Sie ihr eine optionale Beschreibung und geben Sie die Fehlermeldung ein, die den Besuchern des Formulars angezeigt werden soll. Geben Sie im Feld Regeln die Domain(s) ein, die blockiert werden sollen, wählen Sie **[!UICONTROL Regel aktivieren]** und klicken Sie auf **[!UICONTROL Erstellen]**.
 

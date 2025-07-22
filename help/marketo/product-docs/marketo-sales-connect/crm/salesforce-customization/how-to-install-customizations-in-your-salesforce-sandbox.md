@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/one-3.png)
 
-1. Klicken [!UICONTROL  unter „Admin-]&quot; auf **[!UICONTROL Salesforce]**.
+1. Klicken [!UICONTROL &#x200B; unter „Admin-]&quot; auf **[!UICONTROL Salesforce]**.
 
    ![](assets/two-3.png)
 

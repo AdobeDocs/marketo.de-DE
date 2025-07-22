@@ -21,7 +21,7 @@ ht-degree: 0%
    >
    >Um das Auffinden der gewünschten Web-Kampagne zu vereinfachen, verwenden Sie die [Filterfunktion](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
-1. Klicken Sie auf der [!UICONTROL Web]**[!UICONTROL Kampagnen]** auf die Kampagne, die Sie löschen möchten.
+1. Klicken Sie auf der [!UICONTROL Web]&#x200B;**[!UICONTROL Kampagnen]** auf die Kampagne, die Sie löschen möchten.
 
    ![](assets/web-campaigns-1-delete-hand-1.png)
 

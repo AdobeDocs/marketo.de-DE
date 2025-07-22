@@ -79,7 +79,7 @@ In unserem Beispiel sehen wir, dass der Kanal der Fachmesse sowohl der teuerste 
 
 >[!TIP]
 >
->Die Beispiele in diesen Schritten messen die Effektivität basierend auf der erstellten Pipeline. Verwenden Sie die [!UICONTROL Y-Achse] Dropdown-Liste, um andere Möglichkeiten zur Messung der Kanaleffektivität auszuwählen, z. B[!UICONTROL  „Neue ]&quot;, [!UICONTROL Mitglieder], [!UICONTROL Kosten pro Erfolg] usw.
+>Die Beispiele in diesen Schritten messen die Effektivität basierend auf der erstellten Pipeline. Verwenden Sie die [!UICONTROL Y-Achse] Dropdown-Liste, um andere Möglichkeiten zur Messung der Kanaleffektivität auszuwählen, z. B[!UICONTROL &#x200B; „Neue &#x200B;]&quot;, [!UICONTROL Mitglieder], [!UICONTROL Kosten pro Erfolg] usw.
 
 >[!MORELIKETHIS]
 >

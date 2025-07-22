@@ -133,7 +133,7 @@ Sie haben die Möglichkeit, Kontaktinformationen aus der Personendetailansicht z
  <tbody> 
   <tr> 
    <td>[!UICONTROL Vorname]</td> 
-   <td>[!UICONTROL-Website]</td> 
+   <td>[!UICONTROL -Website]</td> 
    <td>[!DNL Facebook]</td> 
   </tr> 
   <tr> 

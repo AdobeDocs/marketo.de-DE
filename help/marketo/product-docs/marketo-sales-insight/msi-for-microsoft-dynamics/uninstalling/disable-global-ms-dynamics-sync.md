@@ -19,7 +19,7 @@ Führen Sie die folgenden einfachen Schritte aus, um die [!DNL MS Dynamics] zu d
 
    ![](assets/one.png)
 
-1. Klicken [!UICONTROL  unter „Integration] auf **[!UICONTROL Microsoft Dynamics]**.
+1. Klicken [!UICONTROL &#x200B; unter „Integration] auf **[!UICONTROL Microsoft Dynamics]**.
 
    ![](assets/two.png)
 

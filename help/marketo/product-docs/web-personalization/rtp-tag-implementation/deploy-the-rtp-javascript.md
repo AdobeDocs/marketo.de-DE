@@ -37,7 +37,7 @@ Um Ihr RTP-Tag zu generieren und einzurichten, folgen Sie bitte den unten stehen
 
 1. [!UICONTROL Tag]-Umschalter auf &quot;**[!UICONTROL &quot;]**.
 
-   Bestätigen Sie, dass der [!UICONTROL Tag]-Umschalter auf &quot;[!UICONTROL &quot; ]. Sie sollten sehen, wie die Daten in die Registerkarte Organisation fließen.
+   Bestätigen Sie, dass der [!UICONTROL Tag]-Umschalter auf &quot;[!UICONTROL &quot; &#x200B;]. Sie sollten sehen, wie die Daten in die Registerkarte Organisation fließen.
 
    Sie haben jetzt das RTP-Tag eingerichtet und können mit dem [Erstellen von Segmenten](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) und Echtzeit-Kampagnen beginnen!
 

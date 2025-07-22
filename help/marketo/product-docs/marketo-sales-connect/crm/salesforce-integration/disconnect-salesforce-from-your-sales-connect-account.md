@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Trennen von Salesforce von Ihrem Sales Connect-Konto {#disconnect-salesforce-from-your-sales-connect-account}
 
-Manchmal müssen Sie Ihr [!DNL  Salesforce]-Konto von Ihrem [!DNL Sales Connect]-Konto trennen. So geht&#39;s.
+Manchmal müssen Sie Ihr [!DNL &#x200B; Salesforce]-Konto von Ihrem [!DNL Sales Connect]-Konto trennen. So geht&#39;s.
 
 ## Trennen der Verbindung zu Salesforce als Admin {#how-to-disconnect-from-salesforce-as-an-admin}
 
@@ -21,24 +21,24 @@ Manchmal müssen Sie Ihr [!DNL  Salesforce]-Konto von Ihrem [!DNL Sales Connect]
 
    ![](assets/one-1.png)
 
-1. Klicken Sie unter [!UICONTROL  Admin-] auf **[!UICONTROL Salesforce]**.
+1. Klicken Sie unter [!UICONTROL &#x200B; Admin-] auf **[!UICONTROL Salesforce]**.
 
    ![](assets/six-1.png)
 
-1. Klicken Sie auf [!UICONTROL  Registerkarte ]Verbindungen und Anpassungen“ auf **[!UICONTROL Verbindung trennen]**.
+1. Klicken Sie auf [!UICONTROL &#x200B; Registerkarte &#x200B;]Verbindungen und Anpassungen“ auf **[!UICONTROL Verbindung trennen]**.
 
    ![](assets/seven-1.png)
 
 ## Trennen der Verbindung zu Salesforce als Benutzer ohne Administratorrechte {#how-to-disconnect-from-salesforce-as-a-non-admin}
 
-1. Klicken Sie [!DNL  Sales Connect] oben rechts auf das Zahnradsymbol und dann auf **[!UICONTROL Einstellungen]**.
+1. Klicken Sie [!DNL &#x200B; Sales Connect] oben rechts auf das Zahnradsymbol und dann auf **[!UICONTROL Einstellungen]**.
 
    ![](assets/one-1.png)
 
-1. Wählen [!UICONTROL  unter „Mein ]&quot; die Option **[!UICONTROL Salesforce]**.
+1. Wählen [!UICONTROL &#x200B; unter „Mein &#x200B;]&quot; die Option **[!UICONTROL Salesforce]**.
 
    ![](assets/two-1.png)
 
-1. Klicken Sie auf [!UICONTROL  Registerkarte ]Verbindungen und Anpassungen“ auf **[!UICONTROL Verbindung trennen]**.
+1. Klicken Sie auf [!UICONTROL &#x200B; Registerkarte &#x200B;]Verbindungen und Anpassungen“ auf **[!UICONTROL Verbindung trennen]**.
 
    ![](assets/3333.png)

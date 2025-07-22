@@ -18,7 +18,7 @@ Es ist wichtig zu verstehen, wie **Reihenfolge** die Priorität für die Bewertu
 >[!PREREQUISITES]
 >
 >[Segmentierung erstellen](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
->>[Definieren Sie Segmentregeln](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
+>&#x200B;>[Definieren Sie Segmentregeln](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
 
 >[!NOTE]
 >

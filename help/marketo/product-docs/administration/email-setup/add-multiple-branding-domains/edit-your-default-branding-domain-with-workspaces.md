@@ -21,7 +21,7 @@ ht-degree: 1%
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-2.png)
 
-1. Wählen Sie in [!UICONTROL  Tabelle „Branding]Domains“ die aktuelle generische Domain aus und klicken Sie auf **[!UICONTROL Bearbeiten]**, um sie in die Branding-Domain Ihres Unternehmens zu ändern.
+1. Wählen Sie in [!UICONTROL &#x200B; Tabelle „Branding]Domains“ die aktuelle generische Domain aus und klicken Sie auf **[!UICONTROL Bearbeiten]**, um sie in die Branding-Domain Ihres Unternehmens zu ändern.
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-3.png)
 

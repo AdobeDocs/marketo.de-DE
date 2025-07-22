@@ -33,7 +33,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->[!DNL Marketo Sales Insight] in [!DNL Salesforce1] umfasst: [!DNLBBeste ]), Lead-Feed, Interessante Momente und Zu Marketo Campaign hinzufügen.
+>[!DNL Marketo Sales Insight] in [!DNL Salesforce1] umfasst: [!DNL BBeste &#x200B;]), Lead-Feed, Interessante Momente und Zu Marketo Campaign hinzufügen.
 
 ## Aktivieren der [!DNL Salesforce1] Mobile App {#enable-the-salesforce1-mobile-app}
 

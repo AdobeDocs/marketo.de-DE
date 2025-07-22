@@ -17,7 +17,7 @@ Sie haben die Möglichkeit, die angezeigten Kontaktinformationen anzupassen, ind
 
 ## So wählen Sie Spalten aus {#how-to-select-columns}
 
-1. Klicken Sie auf [!UICONTROL  Seite ]Personen“ auf das Symbol Listeneinstellungen .
+1. Klicken Sie auf [!UICONTROL &#x200B; Seite &#x200B;]Personen“ auf das Symbol Listeneinstellungen .
 
    ![](assets/one-5.png)
 
@@ -70,7 +70,7 @@ Sie haben die Möglichkeit, die angezeigten Kontaktinformationen anzupassen, ind
    <td>Gesamtzahl der Vertriebskampagnen, an denen die Person teilgenommen hat</td> 
   </tr> 
   <tr> 
-   <td># [!UICONTROL-Aufrufe]</td> 
+   <td># [!UICONTROL -Aufrufe]</td> 
    <td>Gesamtzahl der Anrufe, die an diese Person getätigt wurden</td> 
   </tr> 
   <tr> 

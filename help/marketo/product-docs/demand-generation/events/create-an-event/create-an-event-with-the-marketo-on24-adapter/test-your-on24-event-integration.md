@@ -31,7 +31,7 @@ Testen Sie die Ereignisintegration gründlich.
 So werden Daten nach dem Ereignis aktualisiert:
 
 * Marketo ruft jede Nacht Teilnehmerdaten von ON24 ab.
-* Sobald die Teilnehmerdaten zwischen Marketo und ON24 synchronisiert wurden, aktualisiert Marketo den Mitgliedschaftsstatus auf [!UICONTROL Teilgenommen], [!UICONTROL Teilgenommen bei ] oder [!UICONTROL Nicht angezeigt]. Auf der Registerkarte **[!UICONTROL Zusammenfassung]** des Ereignisses wird der Ereignisstatus auf **[!UICONTROL Ereignis abgeschlossen]** aktualisiert.
+* Sobald die Teilnehmerdaten zwischen Marketo und ON24 synchronisiert wurden, aktualisiert Marketo den Mitgliedschaftsstatus auf [!UICONTROL Teilgenommen], [!UICONTROL Teilgenommen bei &#x200B;] oder [!UICONTROL Nicht angezeigt]. Auf der Registerkarte **[!UICONTROL Zusammenfassung]** des Ereignisses wird der Ereignisstatus auf **[!UICONTROL Ereignis abgeschlossen]** aktualisiert.
 
 >[!MORELIKETHIS]
 >

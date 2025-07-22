@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# Benutzerdefinierte Felder mit dem [!UICONTROL Umsatz-Explorer“ ] {#sync-custom-fields-to-the-revenue-explorer}
+# Benutzerdefinierte Felder mit dem [!UICONTROL Umsatz-Explorer“ &#x200B;] {#sync-custom-fields-to-the-revenue-explorer}
 
 [!UICONTROL Umsatzzyklusanalyse] kann Berichte zu benutzerdefinierten Marketo-Feldern erstellen. Dazu müssen Sie die benutzerdefinierten Felder festlegen, die synchronisiert werden sollen.
 
@@ -45,6 +45,6 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Nach der Aktivierung sind die Daten am [!UICONTROL  Tag in ]Umsatzzyklusanalyse“ verfügbar.
+   >Nach der Aktivierung sind die Daten am [!UICONTROL &#x200B; Tag in &#x200B;]Umsatzzyklusanalyse“ verfügbar.
 
    Gute Arbeit! Jetzt wissen Sie, wie Sie benutzerdefinierte Felder zu RCA hinzufügen.

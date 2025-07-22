@@ -29,7 +29,7 @@ Um die IDs zu aktivieren, müssen Sie die Codes abrufen und sie Ihrer IT-Abteilu
 
    ![](assets/image2015-12-2-10-3a18-3a6.png)
 
-1. Scrollen Sie nach unten und klicken Sie [!UICONTROL  Abschnitt ] auf **[!UICONTROL Bearbeiten]**.
+1. Scrollen Sie nach unten und klicken Sie [!UICONTROL &#x200B; Abschnitt &#x200B;] auf **[!UICONTROL Bearbeiten]**.
 
    ![](assets/image2015-12-1-14-3a41-3a37.png)
 

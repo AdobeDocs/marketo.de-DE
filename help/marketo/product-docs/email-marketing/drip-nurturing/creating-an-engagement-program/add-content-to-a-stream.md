@@ -41,7 +41,7 @@ Nachdem Sie Ihr Interaktionsprogramm erstellt haben, müssen Sie Inhalte zu den 
 
 **+-Symbol**
 
-1. Klicken Sie auf das Symbol **+**, wählen Sie **[!UICONTROL E-Mail]** _oder_**[!UICONTROL Programm]** und dann die E-Mail-Adresse oder das Programm/die intelligente Kampagne aus, die Sie hinzufügen möchten.
+1. Klicken Sie auf das Symbol **+**, wählen Sie **[!UICONTROL E-Mail]** _oder_&#x200B;**[!UICONTROL Programm]** und dann die E-Mail-Adresse oder das Programm/die intelligente Kampagne aus, die Sie hinzufügen möchten.
 
    ![](assets/add-content-to-a-stream-5.png)
 

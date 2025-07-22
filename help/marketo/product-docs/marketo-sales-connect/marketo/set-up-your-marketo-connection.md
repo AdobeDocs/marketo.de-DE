@@ -42,7 +42,7 @@ Sie müssen von Marketo aus einen Satz von Anmeldeinformationen abrufen. Diese A
 
    ![](assets/manually-set-up-your-marketo-connection-4.png)
 
-1. Wählen [!UICONTROL  unter „Admin] die Option **[!UICONTROL Marketo]**.
+1. Wählen [!UICONTROL &#x200B; unter „Admin] die Option **[!UICONTROL Marketo]**.
 
    ![](assets/manually-set-up-your-marketo-connection-5.png)
 

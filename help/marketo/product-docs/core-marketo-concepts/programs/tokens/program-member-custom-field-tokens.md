@@ -93,7 +93,7 @@ Benutzerdefinierte Felder für Programmteilnehmer können in E-Mails, Landingpag
 
    ![](assets/program-member-custom-field-tokens-12.png)
 
-1. Suchen Sie das gewünschte Token für das benutzerdefinierte Feld Programmteilnehmer und wählen Sie es aus. Geben Sie einen [!UICONTROL Standardwert“ ein ] klicken Sie auf **[!UICONTROL Einfügen]**.
+1. Suchen Sie das gewünschte Token für das benutzerdefinierte Feld Programmteilnehmer und wählen Sie es aus. Geben Sie einen [!UICONTROL Standardwert“ ein &#x200B;] klicken Sie auf **[!UICONTROL Einfügen]**.
 
    ![](assets/program-member-custom-field-tokens-13.png)
 

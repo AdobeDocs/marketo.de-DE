@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Kampagne ist beendet {#campaign-has-ended}
 
-Wenn im Ordner „Fehlgeschlagener Versand[!UICONTROL  eine E-Mail mit ] Vermerk „Kampagne wurde beendet“ angezeigt wird, bedeutet dies, dass es sich bei dieser E-Mail um eine geplante E-Mail in Ihrer Kampagne handelt.
+Wenn im Ordner „Fehlgeschlagener Versand[!UICONTROL &#x200B; eine E-Mail mit &#x200B;] Vermerk „Kampagne wurde beendet“ angezeigt wird, bedeutet dies, dass es sich bei dieser E-Mail um eine geplante E-Mail in Ihrer Kampagne handelt.
 
 ## Mögliche Gründe für das Fehlschlagen {#possible-reasons-it-failed}
 

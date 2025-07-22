@@ -91,7 +91,7 @@ Unter **[!UICONTROL E-Mail]** Aktionen) werden Sie einige neue Funktionen bemerk
 
 **[!UICONTROL Einstellungen bearbeiten]**
 
-Sie haben die Möglichkeit, einen &quot;[!UICONTROL &quot; ]. Ein [!UICONTROL Preheader] ist der kurze Zusammenfassungstext nach der Betreffzeile, wenn E-Mails in Ihrem Posteingang angezeigt werden.
+Sie haben die Möglichkeit, einen &quot;[!UICONTROL &quot; &#x200B;]. Ein [!UICONTROL Preheader] ist der kurze Zusammenfassungstext nach der Betreffzeile, wenn E-Mails in Ihrem Posteingang angezeigt werden.
 
 ![](assets/email-editor-v2-overview-14.png)
 

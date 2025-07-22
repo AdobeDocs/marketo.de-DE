@@ -52,7 +52,7 @@ Der Abschnitt E-Mail bietet Ihnen einen Überblick über alle Ihre E-Mails und v
   </tr> 
   <tr> 
    <td title="Hintergrundfarbe: Grau"><br></td> 
-   <td title="Hintergrundfarbe: Grau">[!UICONTROL-Entwurf]</td> 
+   <td title="Hintergrundfarbe: Grau">[!UICONTROL -Entwurf]</td> 
    <td title="Hintergrundfarbe: Grau"><p>Als Entwurf gespeicherte E-Mails.<br><strong>Hinweis:</strong> Nur einzelne E-Mails können als Entwürfe gespeichert werden. Massen-E-Mails (E-Mails auswählen und senden sowie Gruppen-E-Mails) werden nicht als Entwürfe gespeichert.</p></td> 
   </tr> 
   <tr> 

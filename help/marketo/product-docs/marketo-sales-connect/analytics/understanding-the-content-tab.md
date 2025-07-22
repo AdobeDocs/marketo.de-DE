@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Grundlegendes zur Registerkarte [!UICONTROL Inhalt] {#understanding-the-content-tab}
 
-Auf [!UICONTROL  Registerkarte ]Inhalt“ dreht sich alles um die E-Mail-Interaktion Ihres Teams bei der Verwendung einer Vorlage. Wir sprechen automatisch drei Metriken aus, die wir für wichtig halten.
+Auf [!UICONTROL &#x200B; Registerkarte &#x200B;]Inhalt“ dreht sich alles um die E-Mail-Interaktion Ihres Teams bei der Verwendung einer Vorlage. Wir sprechen automatisch drei Metriken aus, die wir für wichtig halten.
 
 ## Geheimwaffe {#secret-weapon}
 

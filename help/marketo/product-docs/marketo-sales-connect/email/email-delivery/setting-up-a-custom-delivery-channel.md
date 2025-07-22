@@ -29,7 +29,7 @@ Benutzer können einen benutzerdefinierten SMTP-Server für ihre eigene Verwendu
 
    ![](assets/setting-up-a-custom-delivery-channel-1.png)
 
-1. Klicken [!UICONTROL  unter „Mein ]&quot; auf **[!UICONTROL E-Mail-Einstellungen]**.
+1. Klicken [!UICONTROL &#x200B; unter „Mein &#x200B;]&quot; auf **[!UICONTROL E-Mail-Einstellungen]**.
 
    ![](assets/setting-up-a-custom-delivery-channel-2.png)
 
@@ -53,7 +53,7 @@ Benutzer können einen benutzerdefinierten SMTP-Server für ihre eigene Verwendu
 
    ![](assets/setting-up-a-custom-delivery-channel-6.png)
 
-1. Klicken Sie auf [!UICONTROL  Karte ]Zustellbarkeit **[!UICONTROL auf]**.
+1. Klicken Sie auf [!UICONTROL &#x200B; Karte &#x200B;]Zustellbarkeit **[!UICONTROL auf]**.
 
    ![](assets/setting-up-a-custom-delivery-channel-7.png)
 
@@ -75,7 +75,7 @@ Benutzer können einen benutzerdefinierten SMTP-Server für ihre eigene Verwendu
 
    ![](assets/setting-up-a-custom-delivery-channel-9.png)
 
-1. Klicken [!UICONTROL  unter &quot;]&quot; auf **[!UICONTROL Allgemein]**.
+1. Klicken [!UICONTROL &#x200B; unter &quot;]&quot; auf **[!UICONTROL Allgemein]**.
 
    ![](assets/setting-up-a-custom-delivery-channel-10.png)
 

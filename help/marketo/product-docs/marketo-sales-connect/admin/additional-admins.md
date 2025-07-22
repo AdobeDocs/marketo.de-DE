@@ -13,5 +13,5 @@ ht-degree: 0%
 
 # Zusätzliche Administratoren {#additional-admins}
 
-Um ein Teammitglied zu ändern oder zu entfernen, gehen Sie zur Seite [!UICONTROL Einstellungen] und klicken Sie **[!UICONTROL linken Navigationsbereich auf]**Team-Verwaltung“.
+Um ein Teammitglied zu ändern oder zu entfernen, gehen Sie zur Seite [!UICONTROL Einstellungen] und klicken Sie **[!UICONTROL linken Navigationsbereich auf]**&#x200B;Team-Verwaltung“.
 Als Administrator eines Kontos können Sie hier festlegen, wer zu Ihrem Team gehört.

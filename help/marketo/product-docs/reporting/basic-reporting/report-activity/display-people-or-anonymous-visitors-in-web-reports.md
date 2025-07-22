@@ -19,7 +19,7 @@ ht-degree: 0%
 
 In den Berichten [[!UICONTROL Web]](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)Seitenaktivität und [[!UICONTROL Unternehmens]Webaktivität](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md) können Sie entweder ([ Personen oder anonyme Besucher) sehen, ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md) Ihre Site besuchen. Die anonymen Besucher haben auf Daten wie Metro Area geschlossen.  So wählen Sie aus, ob der Bericht bekannte Leads oder anonyme Besucher anzeigen soll.
 
-1. Klicken Sie [!UICONTROL  Bericht „Webseitenaktivität] auf **[!UICONTROL Setup]**.
+1. Klicken Sie [!UICONTROL &#x200B; Bericht „Webseitenaktivität] auf **[!UICONTROL Setup]**.
 
    ![](assets/image2015-3-10-11-3a43-3a13.png)
 

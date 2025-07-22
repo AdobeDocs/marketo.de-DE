@@ -17,7 +17,7 @@ Ihre [[!DNL Best Bets]](/help/marketo/product-docs/marketo-sales-insight/msi-for
 
 1. Wechseln Sie zum Bereich Marketo in der [!DNL Salesforce] App.
 
-   In der Dropdown-Liste können Sie &quot;[!UICONTROL Meine besten ]&quot;, &quot;[!UICONTROL Meine Watchliste]&quot;, &quot;[!UICONTROL Web-]&quot;, &quot;[!UICONTROL Anonyme Web-Aktivität]&quot; oder &quot;[!UICONTROL Meine E-Mail]&quot; auswählen.
+   In der Dropdown-Liste können Sie &quot;[!UICONTROL Meine besten &#x200B;]&quot;, &quot;[!UICONTROL Meine Watchliste]&quot;, &quot;[!UICONTROL Web-]&quot;, &quot;[!UICONTROL Anonyme Web-Aktivität]&quot; oder &quot;[!UICONTROL Meine E-Mail]&quot; auswählen.
 
    ![](assets/one-2.png)
 

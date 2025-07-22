@@ -24,7 +24,7 @@ Wenn die Freigabeeinstellungen aktiviert ist, können nur Administratoren Inhalt
 
    ![](assets/sharing-settings-1.png)
 
-1. Wählen [!UICONTROL  unter „Admin] die Option **[!UICONTROL Zugriff freigeben]** aus.
+1. Wählen [!UICONTROL &#x200B; unter „Admin] die Option **[!UICONTROL Zugriff freigeben]** aus.
 
    ![](assets/sharing-settings-2.png)
 

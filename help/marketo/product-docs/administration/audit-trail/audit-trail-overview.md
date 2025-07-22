@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11377945
-description: Audit-Protokoll] Übersicht - Marketo-Dokumente - Produktdokumentation
+description: Audit-Protokoll&rbrack; Übersicht - Marketo-Dokumente - Produktdokumentation
 title: Audit-Protokoll - Übersicht
 exl-id: e8aff7b7-72ca-4d4e-9159-56ff65f6345c
 feature: Audit Trail

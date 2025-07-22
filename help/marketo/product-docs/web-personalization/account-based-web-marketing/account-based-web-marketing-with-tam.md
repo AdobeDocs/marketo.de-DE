@@ -30,7 +30,7 @@ Bei Verwendung von Marketo [!UICONTROL Web Personalization] und [!UICONTROL Targ
 Wenn Sie ABWM bereits verwenden:
 
 * Sie können [!UICONTROL Account-Listen] in ABWM _und_ TAM erstellen
-* Sie können ([!UICONTROL ) in TAM ]und _in ABWM erstellen_ bearbeiten und löschen
+* Sie können ([!UICONTROL ) in TAM &#x200B;]und _in ABWM erstellen_ bearbeiten und löschen
 * [!UICONTROL Kontolisten] (von ABWM und TAM) werden mit [!UICONTROL Web Personalization] zur Verwendung in der Segmentierung synchronisiert
 
    * **Hinweis**: Die Synchronisierung kann bis zu 5 Minuten dauern

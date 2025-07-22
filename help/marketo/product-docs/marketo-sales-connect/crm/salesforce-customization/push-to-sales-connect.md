@@ -26,7 +26,7 @@ Unser [!UICONTROL Push to Tout] Button wird eine Liste Ihrer Leads/Kontakte in [
 ## Anleitung {#how-to}
 
 1. Klicken Sie in **[!UICONTROL auf]** Lead/Kontakt[!DNL Salesforce].
-1. Schalten Sie zur Listenansicht um, die Sie auf [!DNL Sales Connect] neben der Schaltfläche [!UICONTROL Los“ ] möchten.
+1. Schalten Sie zur Listenansicht um, die Sie auf [!DNL Sales Connect] neben der Schaltfläche [!UICONTROL Los“ &#x200B;] möchten.
 1. Klicken Sie **[!UICONTROL Los]**.
 1. Wählen Sie alle Leads/Kontakte aus, an die Sie gepusht werden möchten.
 1. Wählen Sie **[!UICONTROL Push an MSE]** aus.

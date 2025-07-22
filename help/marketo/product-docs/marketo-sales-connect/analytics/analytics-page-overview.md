@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # [!UICONTROL Analytics] Seitenübersicht {#analytics-page-overview}
 
-Auf [!UICONTROL  Registerkarte ]Analytics“ werden Daten zur Interaktion Ihrer E-Mails angezeigt. Es werden sowohl Einzel- als auch Team-Daten angezeigt. Administratoren können auch auf der Registerkarte &quot;[!UICONTROL &quot; nach ] filtern.
+Auf [!UICONTROL &#x200B; Registerkarte &#x200B;]Analytics“ werden Daten zur Interaktion Ihrer E-Mails angezeigt. Es werden sowohl Einzel- als auch Team-Daten angezeigt. Administratoren können auch auf der Registerkarte &quot;[!UICONTROL &quot; nach &#x200B;] filtern.
 
 ## Wie oft wird es aktualisiert? {#how-often-does-it-update}
 

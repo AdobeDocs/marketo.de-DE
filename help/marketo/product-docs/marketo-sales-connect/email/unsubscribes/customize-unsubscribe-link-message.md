@@ -25,7 +25,7 @@ Wir haben Teams immer erlaubt, ihre Abmelde-Link-Nachrichten anzupassen, aber Ad
 
    ![](assets/one.png)
 
-1. Wählen [!UICONTROL  unter „Mein ]&quot; die Option **[!UICONTROL Abmeldungen]** aus.
+1. Wählen [!UICONTROL &#x200B; unter „Mein &#x200B;]&quot; die Option **[!UICONTROL Abmeldungen]** aus.
 
    ![](assets/two-1.png)
 
@@ -51,7 +51,7 @@ Wir haben Teams immer erlaubt, ihre Abmelde-Link-Nachrichten anzupassen, aber Ad
 
    ![](assets/six.png)
 
-1. Wählen [!UICONTROL  unter &quot;]&quot; die Option **[!UICONTROL Abmeldungen]** aus.
+1. Wählen [!UICONTROL &#x200B; unter &quot;]&quot; die Option **[!UICONTROL Abmeldungen]** aus.
 
    ![](assets/eight.png)
 

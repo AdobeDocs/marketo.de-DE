@@ -11,7 +11,7 @@ ht-degree: 1%
 
 ---
 
-# Löschen eines [!UICONTROL  Kontos] {#delete-a-named-account}
+# Löschen eines [!UICONTROL &#x200B; Kontos] {#delete-a-named-account}
 
 Führen Sie diese kurzen Schritte aus, um ein benanntes Konto zu löschen.
 

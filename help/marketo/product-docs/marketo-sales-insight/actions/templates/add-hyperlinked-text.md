@@ -14,7 +14,7 @@ ht-degree: 1%
 
 Gehen Sie wie folgt vor, um zu erfahren, wie Sie Ihren E-Mail-Vorlagen Hyperlinks hinzufügen.
 
-1. Wählen Sie auf [!UICONTROL  Seite ]Vorlagen“ die gewünschte Vorlage aus (oder erstellen Sie eine neue).
+1. Wählen Sie auf [!UICONTROL &#x200B; Seite &#x200B;]Vorlagen“ die gewünschte Vorlage aus (oder erstellen Sie eine neue).
 
    ![](assets/add-hyperlinked-text-1.png)
 

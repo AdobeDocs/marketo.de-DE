@@ -39,7 +39,7 @@ Führen Sie die folgenden Schritte aus, um eine neue benutzerdefinierte Aktivit�
    >
    >Wenn Sie sich entscheiden, den [!UICONTROL API-Namen] zu ändern, stellen Sie sicher, dass der Name nicht mit Feldern in anderen benutzerdefinierten Aktivitäten kollidiert.
 
-1. Definieren Sie [!UICONTROL Filter] und [!UICONTROL Trigger ] und klicken Sie auf **[!UICONTROL Weiter]**.
+1. Definieren Sie [!UICONTROL Filter] und [!UICONTROL Trigger &#x200B;] und klicken Sie auf **[!UICONTROL Weiter]**.
 
    ![](assets/create-a-custom-activity-5.png)
 

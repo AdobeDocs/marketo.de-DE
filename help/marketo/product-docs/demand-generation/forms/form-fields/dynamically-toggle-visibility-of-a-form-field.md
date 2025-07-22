@@ -45,7 +45,7 @@ Eine wirklich coole Funktion von Marketo Forms ist, dass Sie Formularfelder oder
 
    >[!TIP]
    >
-   >Dies ist cool, weil Sie unscharfe Übereinstimmungen wie &quot;[!UICONTROL Beginnt mit“ ] können.
+   >Dies ist cool, weil Sie unscharfe Übereinstimmungen wie &quot;[!UICONTROL Beginnt mit“ &#x200B;] können.
 
    ![](assets/image2014-9-15-15-3a16-3a50.png)
 

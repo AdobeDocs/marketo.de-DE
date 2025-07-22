@@ -17,7 +17,7 @@ So richten Sie Ihre prädiktiven Inhalte für Rich-Media ein.
 
 >[!PREREQUISITES]
 >
->Inhalte müssen auf [ Seite „Alle Inhalte](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) [!UICONTROL  für prädiktive Inhalte genehmigt ].
+>Inhalte müssen auf [ Seite „Alle Inhalte](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) [!UICONTROL &#x200B; für prädiktive Inhalte genehmigt &#x200B;].
 
 1. Klicken Sie auf der **[!UICONTROL Prädiktiver Inhalt]**-Seite auf einen Titel, um den Editor zu öffnen.
 

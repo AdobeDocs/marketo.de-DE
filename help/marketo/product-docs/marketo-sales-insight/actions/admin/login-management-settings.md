@@ -30,7 +30,7 @@ Führen Sie die folgenden Schritte aus, um Ihre Einstellungen für die Anmeldeve
 
    ![](assets/login-management-settings-1.png)
 
-1. Klicken [!UICONTROL  unter &quot;]&quot; auf **[!UICONTROL Allgemein]**.
+1. Klicken [!UICONTROL &#x200B; unter &quot;]&quot; auf **[!UICONTROL Allgemein]**.
 
    ![](assets/login-management-settings-2.png)
 

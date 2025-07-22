@@ -65,7 +65,7 @@ Landingpages befinden sich im Entwurfsmodus, bis Sie sie genehmigen. Bei der Val
 
 Möchten Sie mehr als eine Landingpage gleichzeitig löschen? So geht&#39;s.
 
-1. Klicken [!UICONTROL  in ]Design Studio **[!UICONTROL auf „Landingpages]**.
+1. Klicken [!UICONTROL &#x200B; in &#x200B;]Design Studio **[!UICONTROL auf „Landingpages]**.
 
    ![](assets/one.png)
 

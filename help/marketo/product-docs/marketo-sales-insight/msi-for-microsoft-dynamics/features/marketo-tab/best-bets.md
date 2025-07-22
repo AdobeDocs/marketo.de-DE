@@ -12,7 +12,7 @@ ht-degree: 2%
 
 # [!DNL Best Bets] {#best-bets}
 
-Die Registerkarte [!UICONTROL Beste ]&quot; enthält eine Liste aller Ihrer Hot Leads basierend auf ihrer Priorität, berechnet unter Verwendung von Dringlichkeit und relativem Score.
+Die Registerkarte [!UICONTROL Beste &#x200B;]&quot; enthält eine Liste aller Ihrer Hot Leads basierend auf ihrer Priorität, berechnet unter Verwendung von Dringlichkeit und relativem Score.
 
 Durch Klicken auf das Punktmenü unter der Spalte Aktionen können Sie Interaktionsoptionen wie die folgenden verwenden:
 * [!UICONTROL Marketo-E-Mail senden]

@@ -40,7 +40,7 @@ Wenn benutzerdefinierte Entitätsdaten aus [!DNL Dynamics] in Marketo verfügbar
    >
    >Sie müssen die globale Synchronisierung vorübergehend deaktivieren, um eine benutzerdefinierte Entität zu aktivieren oder zu deaktivieren.
 
-1. Klicken [!UICONTROL  unter &quot;]&quot; auf den Link **[!UICONTROL Synchronisierung von Dynamics]** Entitäten.
+1. Klicken [!UICONTROL &#x200B; unter &quot;]&quot; auf den Link **[!UICONTROL Synchronisierung von Dynamics]** Entitäten.
 
    ![](assets/enable-sync-for-a-custom-entity-3.png)
 

@@ -43,7 +43,7 @@ Einstellungen wie Zeitzone oder E-Mail-Berichte zu Web Personalization ändern.
 
 ## E-Mail-Berichte auswählen {#select-email-reports}
 
-Wählen Sie aus[[!UICONTROL  welchen ]](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md)E-Mail-Bericht) Sie Ihrem Benutzer zuordnen möchten, und geben Sie die Häufigkeit ([!UICONTROL täglich], [!UICONTROL wöchentlich] oder [!UICONTROL vierteljährlich]) an, mit der der Bericht gesendet wird.
+Wählen Sie aus[[!UICONTROL &#x200B; welchen &#x200B;]](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md)E-Mail-Bericht) Sie Ihrem Benutzer zuordnen möchten, und geben Sie die Häufigkeit ([!UICONTROL täglich], [!UICONTROL wöchentlich] oder [!UICONTROL vierteljährlich]) an, mit der der Bericht gesendet wird.
 
 ![](assets/three.png)
 

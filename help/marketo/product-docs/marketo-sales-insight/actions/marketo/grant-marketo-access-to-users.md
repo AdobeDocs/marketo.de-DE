@@ -24,7 +24,7 @@ Sie müssen Benutzer zu [[!DNL Sales Insight Actions]](/help/marketo/product-doc
 
    ![](assets/grant-marketo-access-to-users-1.png)
 
-1. Klicken [!UICONTROL  unter „Admin-]&quot; auf **Marketo**.
+1. Klicken [!UICONTROL &#x200B; unter „Admin-]&quot; auf **Marketo**.
 
    ![](assets/grant-marketo-access-to-users-2.png)
 

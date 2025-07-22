@@ -31,15 +31,15 @@ Erstellen Sie zunächst Ihr Webinar in [!DNL Level 3]. Wenn Sie Hilfe benötigen
 
    ![](assets/image2016-3-24-15-3a40-3a39.png)
 
-1. Wählen [!UICONTROL  unter &quot;]&quot; die Option **[!UICONTROL Web-Meeting Stufe 3]** aus.
+1. Wählen [!UICONTROL &#x200B; unter &quot;]&quot; die Option **[!UICONTROL Web-Meeting Stufe 3]** aus.
 
    ![](assets/image2016-3-24-15-3a42-3a10.png)
 
-1. Wählen [!UICONTROL  unter &quot;]&quot; Ihre [!DNL Level 3] Anmeldung aus.
+1. Wählen [!UICONTROL &#x200B; unter &quot;]&quot; Ihre [!DNL Level 3] Anmeldung aus.
 
    ![](assets/image2016-3-24-15-3a43-3a43.png)
 
-1. Wählen [!UICONTROL  unter ] das [!DNL Level 3] Ereignis aus, das Sie verwenden möchten.
+1. Wählen [!UICONTROL &#x200B; unter &#x200B;] das [!DNL Level 3] Ereignis aus, das Sie verwenden möchten.
 
    ![](assets/image2016-3-24-15-3a44-3a41.png)
 

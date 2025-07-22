@@ -33,7 +33,7 @@ Wenn Sie ein Datum/eine Uhrzeit für ein E-Mail-Programm auswählen, bestimmt di
    >
    >Head Start kann nicht mit A/B-Tests verwendet werden.
 
-1. Wählen Sie in [!UICONTROL  Kachel ]Zeitplan“ die Option E-Mail planen und dann das Feld **[!UICONTROL Direktstart]** aus.
+1. Wählen Sie in [!UICONTROL &#x200B; Kachel &#x200B;]Zeitplan“ die Option E-Mail planen und dann das Feld **[!UICONTROL Direktstart]** aus.
 
    ![](assets/three-1.png)
 

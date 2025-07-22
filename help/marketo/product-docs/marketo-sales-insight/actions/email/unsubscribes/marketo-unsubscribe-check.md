@@ -24,7 +24,7 @@ Die [!UICONTROL Marketo-Abmeldeprüfung] nutzt die Verbindung Ihres Teams zu Mar
 
    ![](assets/marketo-unsubscribe-check-1.png)
 
-1. Klicken [!UICONTROL  unter „Admin] auf **[!UICONTROL Abmeldungen]**.
+1. Klicken [!UICONTROL &#x200B; unter „Admin] auf **[!UICONTROL Abmeldungen]**.
 
    ![](assets/marketo-unsubscribe-check-2.png)
 
