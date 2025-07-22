@@ -3,9 +3,9 @@ unique-page-id: 2953243
 description: Benachrichtigungstypen - Marketo-Dokumente - Produktdokumentation
 title: Benachrichtigungstypen
 exl-id: 384cea0a-6252-4600-9211-aa5d6a7e875c
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '235'
 ht-degree: 5%
 
 ---
@@ -24,13 +24,13 @@ CRM-Synchronisierungsbenachrichtigungen informieren Sie über kritische Probleme
 
 **[!DNL Microsoft Dynamics]**
 
-Dynamics-Benachrichtigungen werden einmal alle 24 Stunden gesendet und enthalten Leads, die in diesem Zeitraum nicht synchronisiert werden konnten. Typische Fehlerursachen sind doppelte Leads (wie oben) oder Fehler wegen nicht übereinstimmender Feldlängen.
+[!DNL Dynamics]-Benachrichtigungen werden einmal alle 24 Stunden gesendet und enthalten Leads, die in diesem Zeitraum nicht synchronisiert werden konnten. Typische Fehlerursachen sind doppelte Leads (wie oben) oder Fehler wegen nicht übereinstimmender Feldlängen.
 
 ![](assets/image2016-1-20-11-3a19-3a58.png)
 
 **[!DNL Salesforce]**
 
-Wenn Sie Salesforce verwenden, sehen die Benachrichtigungen zu Synchronisierungsfehlern etwa wie folgt aus. Typische Fehler sind abgelaufene Anmeldeinformationen und Überschreitungen von API-Limits.
+Wenn Sie [!DNL Salesforce] verwenden, sehen die Benachrichtigungen zu Synchronisierungsfehlern etwa wie folgt aus. Typische Fehler sind abgelaufene Anmeldeinformationen und Überschreitungen von API-Limits.
 
 ![](assets/salesforcesyncerror.png)
 
@@ -42,7 +42,7 @@ Wenn ein Stream die volle Popularität erzeugt, senden wir eine Benachrichtigung
 
 ## Facebook {#facebook}
 
-Wenn Sie versuchen, Personen an Facebook zu senden, ohne die Nutzungsbedingungen zu akzeptieren, oder wenn Sie versuchen, Personen nach dem Entfernen der Marketo-App an Facebook zu senden.
+Wenn Sie versuchen, Personen zu Facebook zu senden, ohne die Nutzungsbedingungen zu akzeptieren, oder wenn Sie versuchen, Personen nach dem Entfernen der Marketo-App an Facebook zu senden.
 
 ## Leerlauf-Auslöser-Kampagnenbereinigung {#idle-trigger-campaign-cleanup}
 
@@ -60,4 +60,4 @@ Sie werden benachrichtigt, wenn Sie Ihr tägliches Kontingent erreichen. Das Kon
 
 >[!NOTE]
 >
->Einige der Fehler-Codes, die Sie möglicherweise erhalten, sind in unserer [Entwicklerdokumentation“ ](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/error-codes).
+>Einige der Fehler-Codes, die Sie möglicherweise erhalten, sind in unserer [Entwicklerdokumentation“ ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/error-codes).

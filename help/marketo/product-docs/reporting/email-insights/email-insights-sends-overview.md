@@ -4,7 +4,7 @@ description: Übersicht über E-Mail-Einblicke - Marketo-Dokumente - Produktdoku
 title: Übersicht über E-Mail-Einblicke
 exl-id: 2e2535bd-fd3d-4660-be43-7755c142bcd1
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Übersicht über E-Mail-Einblicke {#email-insights-sends-overview}
 
-Untersuchen Sie auf der Seite Sendungen die Eigenschaften der letzten E-Mail-Kommunikation.
+Untersuchen Sie auf [!UICONTROL  Seite ]Sendungen“ die Eigenschaften der letzten E-Mail-Kommunikation.
 
 ![](assets/one.png)
 
@@ -25,11 +25,11 @@ Rechts auf der Seite finden Sie mehrere Informationen zu Ihren gesendeten E-Mail
 
 ![](assets/two-1.png)
 
-**Typ** gibt die Art des verwendeten Assets an.
-**Empfängernummer** ist die Anzahl der Personen, denen die E-Mail gesendet wurde.
-**Versandmetriken** bietet einen schnellen Überblick darüber, wie viele E-Mails zugestellt wurden, ausstehen oder zurückgeschickt wurden.\
-**Interaktionsmetriken** bietet einen schnellen Überblick darüber, wie viele Empfänger eine E-Mail geöffnet, angeklickt und ihr Abonnement beendet haben.
-**Score** ist der [Interaktionswert](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md) Ihrer E-Mail.
+**[!UICONTROL Typ]** gibt die Art des verwendeten Assets an.
+**[!UICONTROL Empfängernummer]** ist die Anzahl der Personen, denen die E-Mail gesendet wurde.
+**[!UICONTROL Versandmetriken]** bietet einen schnellen Überblick darüber, wie viele E-Mails zugestellt wurden, ausstehen oder zurückgeschickt wurden.\
+**[!UICONTROL Interaktionsmetriken]** bietet einen schnellen Überblick darüber, wie viele Empfänger eine E-Mail geöffnet, angeklickt und ihr Abonnement beendet haben.
+**[!UICONTROL Score]** ist der [Interaktionswert](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md) Ihrer E-Mail.
 
 Standardmäßig werden Ihre E-Mails nach den neuesten sortiert, Sie können sie jedoch nach jeder verfügbaren Metrik sortieren.
 

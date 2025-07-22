@@ -4,14 +4,14 @@ description: Filtern in benannten Konten - Marketo-Dokumente - Produktdokumentat
 title: Filtern von benannten Konten
 exl-id: 4592ff5e-e2bf-408c-b213-e582110b83e4
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
 
 ---
 
-# Filtern von benannten Konten {#filtering-in-named-accounts}
+# Filtern in [!UICONTROL benannten Konten] {#filtering-in-named-accounts}
 
 Filtern ist eine hervorragende Möglichkeit, Daten schnell einzugrenzen.
 
@@ -25,17 +25,17 @@ Filtern ist eine hervorragende Möglichkeit, Daten schnell einzugrenzen.
 
    >[!NOTE]
    >
-   >Es gibt mehrere Kombinationen von Suchparametern. In diesem Beispiel suchen wir: _Branche = Bankwesen, Land = Vereinigte Staaten, Max. Mitarbeiterzahl = 10000_.
+   >Es gibt mehrere Kombinationen von Suchparametern. In diesem Beispiel suchen wir: _[!UICONTROL Branche] = Bankwesen, [!UICONTROL Land] = Vereinigte Staaten, Max [!UICONTROL Mitarbeiter] = 10000_.
 
-1. Klicken Sie auf **Dropdown-** „Branche“ und wählen Sie **Banking**.
+1. Klicken Sie auf **[!UICONTROL Dropdown-]** „Branche“ und wählen Sie **[!UICONTROL Banking]**.
 
    ![](assets/filter-2.png)
 
-1. Klicken Sie auf **Dropdown-** „Land“ und wählen Sie **Vereinigte Staaten**.
+1. Klicken Sie auf **[!UICONTROL Dropdown-]** „Land“ und wählen Sie **[!UICONTROL Vereinigte Staaten]**.
 
    ![](assets/filter-3.png)
 
-1. Geben **unter &quot;**&quot; in das Feld **Min** „10000“ in das Feld **Max** ein und klicken Sie dann auf **Apply**.
+1. Geben **[!UICONTROL unter &quot;]**&quot; in das Feld **Min** „10000“ in das Feld **Max** ein und klicken Sie dann auf **[!UICONTROL Apply]**.
 
    ![](assets/four-2.png)
 
@@ -43,4 +43,4 @@ Filtern ist eine hervorragende Möglichkeit, Daten schnell einzugrenzen.
 
    >[!NOTE]
    >
-   >Um weitere Filter zur Auswahl hinzuzufügen, klicken Sie **Filter hinzufügen** unten links im Formular.
+   >Um weitere Filter zur Auswahl hinzuzufügen, klicken Sie **[!UICONTROL Filter hinzufügen]** unten links im Formular.

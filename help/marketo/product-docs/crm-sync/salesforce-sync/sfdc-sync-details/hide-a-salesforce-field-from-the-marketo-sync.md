@@ -4,20 +4,20 @@ description: Ausblenden eines Salesforce-Felds in der Marketo-Synchronisierung -
 title: Ausblenden eines Salesforce-Felds bei der Marketo-Synchronisierung
 exl-id: 5d7229f0-43b0-4232-93ed-a9ca52ace401
 feature: Salesforce Integration
-source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '165'
 ht-degree: 3%
 
 ---
 
-# Ausblenden eines Salesforce-Felds bei der Marketo-Synchronisierung {#hide-a-salesforce-field-from-the-marketo-sync}
+# Ausblenden eines [!DNL Salesforce] Felds bei der Marketo-Synchronisierung {#hide-a-salesforce-field-from-the-marketo-sync}
 
 >[!NOTE]
 >
 >**Administratorberechtigungen erforderlich**
 
-Nicht jedes Feld in Salesforce ist für das Marketing nützlich. Sie können die Synchronisierungsleistung optimieren, indem Sie nur die von Ihnen benötigten Felder einbeziehen. So kann man ein Feld vor dem Marketo Engage ausblenden.
+Nicht jedes Feld in Salesforce ist für das Marketing nützlich. Sie können die Synchronisierungsleistung optimieren, indem Sie nur die von Ihnen benötigten Felder einbeziehen. So können Sie ein Feld in Marketo Engage ausblenden.
 
 1. Klicken Sie auf das Namensmenü und wählen Sie **[!UICONTROL Setup]**.
 
@@ -45,7 +45,7 @@ Nicht jedes Feld in Salesforce ist für das Marketing nützlich. Sie können die
 
    >[!NOTE]
    >
-   >Wenn das in Salesforce ausgeblendete Feld bereits mit Marketo synchronisiert wurde, müssen Sie es auch in Marketo ausblenden, wenn Sie es nicht verwenden möchten.
+   >Wenn das Feld, das Sie in [!DNL Salesforce] ausblenden, bereits mit Marketo synchronisiert wurde, müssen Sie es auch in Marketo ausblenden, wenn Sie es nicht verwenden möchten.
 
    Das ist alles! Dieses Feld wird nach Abschluss der nächsten Synchronisierung nicht mehr in Marketo angezeigt.
 

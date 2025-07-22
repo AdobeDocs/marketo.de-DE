@@ -1,35 +1,35 @@
 ---
 unique-page-id: 10099102
-description: Plug-in-Versionen für Microsoft Dynamics MSI - Marketo-Dokumente - Produktdokumentation
-title: Plug-in-Versionen für Microsoft Dynamics MSI
+description: Plug-in-Versionen für  [!DNL Microsoft Dynamics] -MSI - Marketo-Dokumente - Produktdokumentation
+title: Plug-in-Versionen für  [!DNL Microsoft Dynamics] .MSI
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 feature: Microsoft Dynamics
-source-git-commit: 6dcda9b86555c17b3492a02f3985db7d2acd8a32
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '422'
+source-wordcount: '403'
 ht-degree: 1%
 
 ---
 
-# Plug-in-Versionen für Microsoft Dynamics MSI {#plug-in-releases-for-microsoft-dynamics-msi}
+# Plug-in-Versionen für [!DNL Microsoft Dynamics] MSI {#plug-in-releases-for-microsoft-dynamics-msi}
 
-Wenn Sie zum ersten Mal eine Synchronisation mit Microsoft Dynamics durchführen, laden Sie die neueste Version der Plug-ins für Marketo Sales Insight (MSI) herunter und installieren Sie sie. Marketo Engage aktualisiert diese Plug-ins regelmäßig, sodass Sie zum Download der neuen Version an denselben Ort zurückkehren können.
+Wenn Sie zum ersten Mal eine Synchronisierung mit [!DNL Microsoft Dynamics] durchführen, laden Sie die neueste Version der Plug-ins für Marketo Sales Insight (MSI) herunter und installieren Sie sie. Marketo aktualisiert diese Plug-ins regelmäßig, damit Sie zum Download der neuen Version an denselben Ort zurückkehren können.
 
-Wenn Sie die native Marketo CRM-Synchronisierungslösung für Dynamics verwenden, laden [das neueste Plug-in ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md){target="_blank"} Ihrer Dynamics-Version herunter. Für diejenigen, die eine benutzerdefinierte Synchronisierung haben und Marketo Sales Insight erworben haben, ist [Paket hier](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
+Wenn Sie die native CRM-Synchronisierungslösung von Marketo für [!DNL Dynamics] verwenden, laden [das neueste Plug-in ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md){target="_blank"} Ihrer [!DNL Dynamics] Version herunter. Für diejenigen, die eine benutzerdefinierte Synchronisierung haben und Marketo Sales Insight erworben haben, ist das [Paket hier](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
 
 >[!NOTE]
 >
->Diese Versionen funktionieren sowohl für On-Premise- als auch für Online-Versionen von Dynamics.
+>Diese Versionen funktionieren sowohl für On-Premise- als auch für Online-Versionen von [!DNL Dynamics].
 
 ## Aktualisieren der MSI-Lösung {#upgrading-your-msi-solution}
 
-1. Importieren Sie die neueste Version der Lösung _über die vorhandene Version_ Ihres Dynamics CRM, indem Sie in Dynamics auf die Schaltfläche **[!UICONTROL Importieren]** klicken.
+1. Importieren Sie die neueste Version der Lösung _über die vorhandene Version_ Ihres [!DNL Dynamics] CRM, indem Sie die Schaltfläche **[!UICONTROL Importieren]** in [!DNL Dynamics].
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-1.png)
 
 >[!NOTE]
 >
->Beispiel: Wenn Ihr Dynamics CRM Version 2.0.0.20 hat und die neueste Version 2.0.0.21 ist, würden Sie _over_ Version 2.0.0.20 importieren.
+>Beispiel: Wenn Ihr [!DNL Dynamics] CRM Version 2.0.0.20 hat und die neueste Version 2.0.0.21 ist, würden Sie _over_ Version 2.0.0.20 importieren.
 
 1. Klicken Sie auf **[!UICONTROL Weiter]**.
 
@@ -103,7 +103,7 @@ Und das war&#39;s! Nach dem Upgrade wird nur noch eine einzige MSI-Lösung angez
   <tr> 
    <td>10/01/20</td> 
    <td>2.0.0.21</td> 
-   <td>Fehlerbehebung: Zuweisen des Zugriffs auf MSI-API-Konfigurationsfelder für Benutzende mit der Rolle „Sales Insight“.</td> 
+   <td>Fehlerbehebung: Zuweisen des Zugriffs auf MSI-API-Konfigurationsfelder für Benutzende mit der Rolle Sales Insight.</td> 
   </tr> 
   <tr> 
    <td>07/20/20</td> 

@@ -1,19 +1,19 @@
 ---
 unique-page-id: 14352414
-description: Registerkarte „Team“ - Marketo-Dokumente - Produktdokumentation
-title: Registerkarte „Team“
+description: Registerkarte [!UICONTROL Team] - Marketo-Dokumente - Produktdokumentation
+title: Grundlegendes zur Registerkarte [!UICONTROL Team]
 exl-id: 07084711-b387-4688-bcf0-fd054acb8366
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
 
 ---
 
-# Registerkarte „Team“ {#understanding-the-team-tab}
+# Grundlegendes zur Registerkarte [!UICONTROL Team] {#understanding-the-team-tab}
 
-Auf der Registerkarte „Team“ heben wir drei wichtige Metriken hervor.
+Auf der Registerkarte [!UICONTROL Team] heben wir drei wichtige Metriken hervor.
 
 ## Mit Vorlage gesendete E-Mails {#emails-sent-with-template}
 

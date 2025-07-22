@@ -4,10 +4,10 @@ description: Abonnieren einer Smart-Liste - Marketo-Dokumente - Produktdokumenta
 title: Abonnieren einer Smart-Liste
 exl-id: 4ea1664b-8178-41ae-a184-a8ebe090ef96
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '428'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -17,12 +17,12 @@ Das Abonnieren von Smart Lists ist eine hervorragende Möglichkeit, den Überbli
 
 Sie können ein Smart-Listen-Abonnement an zwei separaten Stellen erstellen:
 
-* Marketingaktivitäten
-* Datenbank
+* [!UICONTROL Marketing-Aktivitäten]
+* [!UICONTROL Datenbank]
 
 Abonnements verwenden die vollständige Liste der Personen zum Zeitpunkt der Abonnementausführung.
 
-Abonnements sind dort verfügbar, wo Ihre Smart-Liste lebt, ob in Marketing-Aktivitäten oder in der Datenbank.
+Abonnements sind dort verfügbar, wo Ihre Smart-Liste [!UICONTROL Marketing-Aktivitäten] oder [!UICONTROL Datenbank].
 
 Sie können mehrere Abonnements über dieselbe Smart-Liste erstellen.
 
@@ -36,39 +36,39 @@ Abonnements sind bereichsspezifisch. Beispielsweise befindet sich diese Liste vo
 
 ## Erstellen eines Smart-Listen-Abonnements {#create-a-smart-list-subscription}
 
-1. Navigieren Sie zu **Datenbank** oder **Marketing-Aktivitäten**.
+1. Navigieren Sie zu **[!UICONTROL Datenbank]** oder **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/db.png)
 
-1. Wählen Sie die Smart-Liste aus, für die Sie ein Abonnement erstellen möchten. Klicken Sie auf **Aktionen auflisten** und wählen Sie **Neues Smart-Listen-Abonnement** aus.
+1. Wählen Sie die Smart-Liste aus, für die Sie ein Abonnement erstellen möchten. Klicken Sie auf **[!UICONTROL Aktionen auflisten]** und wählen Sie **[!UICONTROL Neues Smart-Listen-Abonnement]** aus.
 
    ![](assets/three.png)
 
-1. Geben Sie Ihrem Abonnement **Name** und wählen oder geben Sie dann die E-Mail-Adressen der **Empfänger** ein.
+1. Geben Sie Ihrem Abonnement **[!UICONTROL Name]** und wählen oder geben Sie dann die E-Mail-Adressen der **[!UICONTROL Empfänger]** ein.
 
    ![](assets/image2015-9-14-13-3a18-3a38.png)
 
-1. Klicken Sie auf **Häufigkeit** und wählen Sie eine Häufigkeit aus.
+1. Klicken Sie auf **[!UICONTROL Häufigkeit]** und wählen Sie eine Häufigkeit aus.
 
    ![](assets/image2015-9-14-13-3a21-3a21.png)
 
-1. Legen Sie das **Ende des Versands** fest. Sie können **Nie** oder ein Kalenderdatum auswählen.
+1. Legen Sie das **[!UICONTROL Ende des Versands]** fest. Sie können **[!UICONTROL Nie]** oder ein Kalenderdatum auswählen.
 
    ![](assets/image2015-9-14-13-3a23-3a37.png)
 
-1. Klicken Sie **Format** und wählen Sie aus der Liste aus.
+1. Klicken Sie **[!UICONTROL Format]** und wählen Sie aus der Liste aus.
 
    ![](assets/image2015-9-14-13-3a25-3a25.png)
 
-1. Klicken Sie auf **Erstellen**.
+1. Klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/image2015-9-11-15-3a58-3a4.png)
 
-1. Ihr neues Smart-Listen-Abonnement wird oben in der Liste auf der Registerkarte Abonnements angezeigt. Klicken Sie **Senden**, wenn Sie jetzt senden möchten, und nicht auf den geplanten E-Mail-Versand warten möchten.
+1. Ihr neues Smart-Listen-Abonnement wird oben in der Liste auf der Registerkarte Abonnements angezeigt. Klicken Sie **[!UICONTROL Senden]**, wenn Sie jetzt senden möchten, und nicht auf den geplanten E-Mail-Versand warten möchten.
 
    ![](assets/eight.png)
 
-1. Es wird empfohlen, das Kontrollkästchen Aktiv zu deaktivieren, um Smart-Listen-Abonnements zu deaktivieren, die von niemandem abonniert wurden.
+1. Es wird empfohlen, das Kontrollkästchen **[!UICONTROL Aktiv]** zu deaktivieren, um Smart-Listen-Abonnements zu deaktivieren, die von niemandem abonniert wurden.
 
    ![](assets/nine.png)
 
@@ -80,7 +80,7 @@ Die Empfänger erhalten eine E-Mail mit der Option, den Bericht herunterzuladen,
 
 >[!NOTE]
 >
->Wenn die Einstellung [Sichere Abonnementverwaltung](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md) auf **Ja** festgelegt ist, können nur Personen mit Zugriff auf die Marketo-Instanz den Bericht herunterladen.
+>Wenn die Einstellung [Sichere Abonnementverwaltung](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md) auf **[!UICONTROL Ja]** festgelegt ist, können nur Personen mit Zugriff auf die Marketo-Instanz den Bericht herunterladen.
 
 ![](assets/image2015-4-17-15-3a46-3a47.png)
 
@@ -96,7 +96,7 @@ Die E-Mail enthält auch zusätzliche Informationen zu den Filtern, die zum Erst
 
 ## Löschen eines Abonnements {#delete-a-subscription}
 
-Um ein Abonnement zu löschen, wählen Sie es auf der Registerkarte Abonnements aus und klicken Sie auf Abonnement löschen .
+Um ein Abonnement zu löschen, wählen Sie es auf der Registerkarte Abonnements aus und klicken Sie auf **[!UICONTROL Abonnement löschen]**.
 
 ![](assets/twelve.png)
 

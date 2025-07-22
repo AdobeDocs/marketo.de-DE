@@ -4,22 +4,22 @@ description: Verwalten von Personendaten - Marketo-Dokumente - Produktdokumentat
 title: Verwalten von Personendaten
 exl-id: 40f4aac8-c6e5-4cf3-9573-cac2fdf9bcad
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '196'
 ht-degree: 23%
 
 ---
 
 # Verwalten von Personendaten {#manage-person-data}
 
-Nutzen Sie Personendaten für Web Personalization, indem Sie Personenfelder auswählen, die in Ihrer Segmentierung verwendet werden sollen.
+Nutzen Sie Personendaten für die [!DNL Web Personalization], indem Sie die in Ihrer Segmentierung zu verwendenden Personenfelder auswählen.
 
-1. Navigieren Sie **Kontoeinstellungen**.
+1. Navigieren Sie **[!UICONTROL Kontoeinstellungen]**.
 
    ![](assets/image2015-5-7-15-3a17-3a23.png)
 
-1. Wechseln Sie zu **Datenbank**.
+1. Wechseln Sie zu **[!UICONTROL Datenbank]**.
 
    ![](assets/account-settings-dropdown-database.jpg)
 
@@ -35,7 +35,7 @@ Nutzen Sie Personendaten für Web Personalization, indem Sie Personenfelder ausw
 
 ## Löschen eines Personenfelds {#deleting-a-person-field}
 
-1. Klicken Sie auf das Löschsymbol ( ![—](assets/image2015-3-24-13-3a45-3a56.png)), um ein Feld aus der Liste zu entfernen. Klicken Sie **Ja**, um zu bestätigen, dass Sie das Feld löschen möchten.
+1. Klicken Sie auf das Löschsymbol ( ![—](assets/image2015-3-24-13-3a45-3a56.png)), um ein Feld aus der Liste zu entfernen. Klicken Sie **[!UICONTROL Ja]**, um zu bestätigen, dass Sie das Feld löschen möchten.
 
    ![](assets/web-engagement-settings-delete.jpg)
 
@@ -89,7 +89,7 @@ Nutzen Sie Personendaten für Web Personalization, indem Sie Personenfelder ausw
   <tr> 
    <td><p>leadRole</p></td> 
    <td><p>LeadRole</p></td> 
-   <td><p>Role</p></td> 
+   <td><p>Rolle</p></td> 
   </tr> 
   <tr> 
    <td><p>Abgemeldet</p></td> 
@@ -99,7 +99,7 @@ Nutzen Sie Personendaten für Web Personalization, indem Sie Personenfelder ausw
  </tbody> 
 </table>
 
-Die folgenden Lead-Felder sind für neue Web Personalization-Konten standardmäßig bereitgestellt:
+Die folgenden Lead-Felder sind für neue [!DNL Web Personalization]-Konten standardmäßig bereitgestellt:
 
 >[!MORELIKETHIS]
 >

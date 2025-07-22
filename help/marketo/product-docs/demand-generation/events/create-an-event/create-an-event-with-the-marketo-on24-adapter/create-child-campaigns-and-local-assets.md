@@ -4,7 +4,7 @@ description: Erstellen untergeordneter Kampagnen und lokaler Assets - Marketo-Do
 title: Erstellen untergeordneter Kampagnen und lokaler Assets
 exl-id: 272105e1-43d6-455c-a533-aae65e859384
 feature: Events
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '665'
 ht-degree: 1%
@@ -73,25 +73,25 @@ Beispiele für untergeordnete Kampagnen sind eine Einladungskampagne, eine Regis
 
 >[!NOTE]
 >
->Wenn Sie ein Marketo-Formular auf einer Landingpage verwenden, bei der es sich nicht um eine Marketo-Landingpage handelt, lautet Ihr Trigger **Formular ausfüllen** mit dem Formularnamen.
+>Wenn Sie ein Marketo-Formular auf einer Landingpage verwenden, bei der es sich nicht um eine Marketo-Landingpage handelt, lautet Ihr Trigger **[!UICONTROL Formular ausfüllen]** mit dem [!UICONTROL Formularnamen].
 
 ![](assets/image2015-12-22-15-3a20-3a51.png)
 
 **Fluss**
 
-* **Programmstatus ändern** - Auf Webinar setzen -> Registriert.
+* **[!UICONTROL Programmstatus ändern]** - Auf Webinar setzen -> Registriert.
 
 Dieser Flussschritt ist als ERSTER FLUSSSCHRITT beim Einrichten der untergeordneten Kampagne erforderlich. Wenn sich der Programmstatus einer Person in Registriert ändert, sendet Marketo die Registrierungsinformationen an ON24. Kein anderer Status überträgt die Person.
 
-* **E-Mail** - Bestätigungs-E-Mail. Legen Sie diese E **Mail auf &quot;**&quot; fest, damit Abgemeldete, die sich registriert haben, sie weiterhin erhalten.
+* **[!UICONTROL E-Mail]** - Bestätigungs-E-Mail. Legen Sie diese E **Mail auf &quot;**&quot; fest, damit Abgemeldete, die sich registriert haben, sie weiterhin erhalten.
 
-Der **E-Mail senden** Flussschritt MUSS der zweite Schritt sein. Die Bestätigungs-E-Mail enthält die `{{member.webinar url}}`, die mit Informationen gefüllt ist, die von ON24 an Marketo zurückgesendet werden.
+Der **[!UICONTROL E-Mail senden]** Flussschritt MUSS der zweite Schritt sein. Die Bestätigungs-E-Mail enthält die `{{member.webinar url}}`, die mit Informationen gefüllt ist, die von ON24 an Marketo zurückgesendet werden.
 
 ![](assets/image2015-12-22-15-3a29-3a50.png)
 
 >[!NOTE]
 >
->Die Reihenfolge dieser Flussschritte ist aufgrund der Reihenfolge wichtig, in der die Aktionen in Marketo ausgeführt werden. Der **Programmstatus ändern** sendet die Person zur Registrierung an ON24, und es wird eine eindeutige URL generiert. Danach können Sie mithilfe des `{{member.webinar URL}}`-Tokens die Bestätigungs-E-Mail versenden, die diese eindeutige URL enthält.
+>Die Reihenfolge dieser Flussschritte ist aufgrund der Reihenfolge wichtig, in der die Aktionen in Marketo ausgeführt werden. Der **[!UICONTROL Programmstatus ändern]** sendet die Person zur Registrierung an ON24, und es wird eine eindeutige URL generiert. Danach können Sie mithilfe des `{{member.webinar URL}}`-Tokens die Bestätigungs-E-Mail versenden, die diese eindeutige URL enthält.
 >
 >Wenn der Person ein Registrierungsfehler zurückgegeben wird, erhält sie die E-Mail-Bestätigung nicht.
 

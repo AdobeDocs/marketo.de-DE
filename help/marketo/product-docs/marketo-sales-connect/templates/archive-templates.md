@@ -4,18 +4,18 @@ description: Archivvorlagen - Marketo-Dokumente - Produktdokumentation
 title: Vorlagen archivieren
 exl-id: 7cbb9230-e454-4e31-a987-83ce349db1da
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '78'
 ht-degree: 5%
 
 ---
 
 # Vorlagen archivieren {#archive-templates}
 
-Archivieren Sie Inhalte, um Ihr Sales Content-Konto zu bereinigen, ohne Vorlagendaten zu verlieren.
+Archivieren Sie Inhalte, um Ihr [!DNL Sales Content] Konto zu bereinigen, ohne Vorlagendaten zu verlieren.
 
-Aktivieren Sie das Kontrollkästchen neben einer Vorlage und klicken Sie auf **Archivieren**.
+Aktivieren Sie das Kontrollkästchen neben einer Vorlage und klicken Sie auf **[!UICONTROL Archivieren]**.
 
 >[!NOTE]
 >

@@ -4,7 +4,7 @@ description: Einrichten des In-App-Nachrichtenhintergrunds - Marketo-Dokumente -
 title: Einrichten des In-App-Nachrichten-Hintergrunds
 exl-id: 0cb10432-5611-4efe-a605-9a5a57f1bc7c
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '303'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Die Auswahl eines Nachrichtenhintergrunds ist ein wichtiger Schritt zum Abschlus
 
    ![](assets/image2016-5-9-8-3a38-3a1.png)
 
-1. Um eine Farbe festzulegen, klicken Sie auf **Farbe** und anschließend auf das Farbauswahlfeld. Wählen Sie die Farbe aus, indem Sie darauf klicken oder die Hex- oder RGB-Codes in der Farbauswahl eingeben.
+1. Um eine Farbe festzulegen, klicken Sie auf **[!UICONTROL Farbe]** und anschließend auf das Farbauswahlfeld. Wählen Sie die Farbe aus, indem Sie darauf klicken oder die Hex- oder RGB-Codes in der Farbauswahl eingeben.
 
    ![](assets/image2016-5-9-8-3a46-3a59.png)
 
@@ -31,11 +31,11 @@ Die Auswahl eines Nachrichtenhintergrunds ist ein wichtiger Schritt zum Abschlus
    >
    >Einfach weiß, die Standardeinstellung, ist normalerweise der Gewinner.
 
-1. Wenn Sie einen Hintergrund verwenden möchten, klicken Sie auf **Bild** und dann auf den Link **Bild auswählen**.
+1. Wenn Sie einen Hintergrund verwenden möchten, klicken Sie auf **[!UICONTROL Bild]** und dann auf den Link **[!UICONTROL Bild auswählen]**.
 
    ![](assets/image2016-5-9-8-3a52-3a43.png)
 
-1. Wählen Sie aus den Dateien, die in das Design Studio hochgeladen wurden. Klicken Sie auf **Auswählen**.
+1. Wählen Sie aus den Dateien, die in das Design Studio hochgeladen wurden. Klicken Sie auf **[!UICONTROL Auswählen]**.
 
    ![](assets/image2016-5-9-9-3a0-3a2.png)
 
@@ -47,7 +47,7 @@ Die Auswahl eines Nachrichtenhintergrunds ist ein wichtiger Schritt zum Abschlus
 
    ![](assets/image2016-5-9-9-3a2-3a33.png)
 
-1. Wenden Sie einen optionalen Bildrahmen an. Die Standardeinstellung ist **Aus**. Wählen Sie zunächst die Farbe aus, indem Sie darauf klicken oder die Hex- oder RGB-Nummern auf der Farbauswahl eingeben.
+1. Wenden Sie einen optionalen Bildrahmen an. Die Standardeinstellung ist **[!UICONTROL Aus]**. Wählen Sie zunächst die Farbe aus, indem Sie darauf klicken oder die Hex- oder RGB-Zahlen in der Farbauswahl eingeben.
 
    ![](assets/image2016-5-9-9-3a54-3a8.png)
 
@@ -65,7 +65,7 @@ Die Auswahl eines Nachrichtenhintergrunds ist ein wichtiger Schritt zum Abschlus
 
    >[!NOTE]
    >
-   >Für Tipp-Aktionen für Hintergründe können Sie verschiedene Aktionen für Apple- und Android-Plattformen einrichten. Deep-Links werden beispielsweise für Apple und Android unterschiedlich gehandhabt. Wenn Ihre Nachricht nur zu einer bestimmten Plattform gesendet wird, lassen Sie die andere in der Standardeinstellung oder wählen Sie **Keine** aus.
+   >Für Tipp-Aktionen für Hintergründe können Sie verschiedene Aktionen für Apple- und Android-Plattformen einrichten. Deep-Links werden beispielsweise für Apple und Android unterschiedlich gehandhabt. Wenn Ihre Nachricht nur zu einer bestimmten Plattform gesendet wird, lassen Sie die andere in der Standardeinstellung oder wählen Sie **[!UICONTROL Keine]** aus.
 
    Um den Vorgang abzuschließen, müssen Sie als letzten Schritt [die Schaltfläche „Schließen“ einrichten](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-dismiss-button-and-approve-the-message.md).
 

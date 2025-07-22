@@ -4,7 +4,7 @@ description: Verwenden des Erfolgspfad-Analyzers - Marketo-Dokumente - Produktdo
 title: Verwenden von Success Path Analyzer
 exl-id: f816b7ac-a158-46bd-9d00-09ef4cc8b381
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '373'
 ht-degree: 0%
@@ -19,31 +19,31 @@ Verwenden Sie einen Erfolgspfad-Analyzer, um die spezifischen Details zu untersu
 >
 >[Erstellen eines Erfolgspfad-Analyzers](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-success-path-analyzer.md)
 
-1. Navigieren Sie zu **Analytics** und wählen Sie Ihren **Success Path Analyzer** aus.
+1. Navigieren Sie zu **[!UICONTROL Analytics]** und wählen Sie Ihren **Success Path Analyzer** aus.
 
    ![](assets/image2015-6-12-17-3a23-3a53.png)
 
-   Das Diagramm auf der rechten Seite spiegelt die Daten der ausgewählten Schaltfläche auf der linken Seite wider. Standardmäßig ist dies Balance.
+   Das Diagramm auf der rechten Seite spiegelt die Daten der ausgewählten Schaltfläche auf der linken Seite wider. Standardmäßig ist dies &quot;**[!UICONTROL &quot;]**.
 
-1. Klicken Sie **In Fluss**, um ein Diagramm anzuzeigen, wie viele Personen im ausgewählten Zeitraum die Bühne betreten haben.
+1. Klicken Sie **[!UICONTROL In Fluss]**, um ein Diagramm anzuzeigen, wie viele Personen im ausgewählten Zeitraum die Bühne betreten haben.
 
    ![](assets/image2015-6-12-17-3a30-3a52.png)
 
-   * Klicken Sie auf Fluss ausblenden , um das Diagramm anzuzeigen, wie viele Personen die Phase verlassen haben.
-   * Klicken Sie auf Konvertieren % , um die Konversionsrate von diesem zum nächsten Schritt zu grafisch anzuzeigen.
-   * Klicken Sie auf Durchschn. Zeit , um zu sehen, wie lange die Personen in diesem Schritt verbracht haben, bevor Sie zum nächsten Schritt wechseln.
+   * Klicken Sie auf **[!UICONTROL Abfluss]**, um ein Diagramm anzuzeigen, wie viele Personen die Bühne verlassen haben.
+   * Klicken Sie auf **[!UICONTROL Konv. %]**, um die Konversionsrate von diesem zum nächsten Schritt zu grafisch darzustellen.
+   * Klicken Sie auf **[!UICONTROL Durchschn. Zeit]**, um zu sehen, wie lange die Personen in diesem Schritt verbracht haben, bevor Sie zum nächsten Schritt wechseln.
 
-1. Klicken Sie **Diagrammaktionen** > Zeitraum vergleichen , um die Daten mit einem anderen, gleich langen Zeitrahmen zu vergleichen.
+1. Klicken Sie **[!UICONTROL Diagrammaktionen]** > **[!UICONTROL Zeitraum vergleichen]**, um die Daten mit einem anderen, gleich langen Zeitrahmen zu vergleichen.
 
    ![](assets/image2015-6-12-17-3a39-3a15.png)
 
-1. Wählen Sie das **Von** für den Vergleichszeitraum aus.
+1. Wählen Sie das **[!UICONTROL Von]** für den Vergleichszeitraum aus.
 
    ![](assets/image2015-6-12-17-3a43-3a49.png)
 
-   Das **Bis**-Datum wird automatisch auf die Länge Ihres ursprünglichen Zeitraums festgelegt.
+   Das **[!UICONTROL Bis]**-Datum wird automatisch auf die Länge Ihres ursprünglichen Zeitraums festgelegt.
 
-1. Klicken Sie **Vergleichen**.
+1. Klicken Sie **[!UICONTROL Vergleichen]**.
 
    ![](assets/image2015-6-12-17-3a44-3a8.png)
 
@@ -51,11 +51,11 @@ Verwenden Sie einen Erfolgspfad-Analyzer, um die spezifischen Details zu untersu
 
    ![](assets/image2015-6-12-17-3a46-3a16.png)
 
-1. Um die Zeitskala des Diagramms zu ändern, klicken Sie auf eine der Schaltflächen **Diagramm nach**: täglich (Standard), wöchentlich und monatlich
+1. Um die Zeitskala des Diagramms zu ändern, klicken Sie auf eine der Schaltflächen **[!UICONTROL Diagramm nach]**: täglich (Standard), wöchentlich und monatlich
 
    ![](assets/image2015-6-12-17-3a46-3a55.png)
 
-1. Klicken Sie bei Phasen mit SLAs (Service Level Agreements) auf **Diagrammaktionen** > **SLA-Fälligkeitsdatum anzeigen** um alle Personen anzuzeigen, die eine SLA-Zielgruppe innerhalb des angegebenen Zeitraums verpasst haben.
+1. Klicken Sie bei Phasen mit SLAs (Service Level Agreements) auf **[!UICONTROL Diagrammaktionen]** > **[!UICONTROL SLA-Fälligkeitsdatum anzeigen]** um alle Personen anzuzeigen, die eine SLA-Zielgruppe innerhalb des angegebenen Zeitraums verpasst haben.
 
    ![](assets/image2015-6-12-17-3a49-3a23.png)
 
@@ -65,7 +65,7 @@ Verwenden Sie einen Erfolgspfad-Analyzer, um die spezifischen Details zu untersu
 
    Die in Orange dargestellten Personen *sich möglicherweise noch* der SLA-Phase.
 
-1. Klicken Sie auf **Diagrammaktionen** > **Überfällig für SLA anzeigen**, um alle Personen mit abgelaufenen SLA-Zielen anzuzeigen, die sich am Ende des angegebenen Zeitraums noch im SLA-Stadium befinden.
+1. Klicken Sie auf **[!UICONTROL Diagrammaktionen]** > **[!UICONTROL Überfällig für SLA anzeigen]**, um alle Personen mit abgelaufenen SLA-Zielen anzuzeigen, die sich am Ende des angegebenen Zeitraums noch im SLA-Stadium befinden.
 
    ![](assets/image2015-6-12-17-3a51-3a39.png)
 
@@ -77,7 +77,7 @@ Verwenden Sie einen Erfolgspfad-Analyzer, um die spezifischen Details zu untersu
 
    ![](assets/image2015-6-12-17-3a52-3a49.png)
 
-1. Klicken Sie zum Drucken des Diagramms auf **Diagrammaktionen** > **Diagramm drucken**.
+1. Klicken Sie zum Drucken des Diagramms auf **[!UICONTROL Diagrammaktionen]** > **[!UICONTROL Diagramm drucken]**.
 
    ![](assets/image2015-6-12-17-3a53-3a34.png)
 

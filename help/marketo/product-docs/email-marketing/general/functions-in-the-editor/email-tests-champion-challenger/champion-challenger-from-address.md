@@ -4,7 +4,7 @@ description: Champion/Challenger - Absenderadresse - Marketo-Dokumente - Produkt
 title: Champion/Challenger - Absenderadresse
 exl-id: 0debb7d3-358b-4054-989f-526d5c434c14
 feature: Email Editor
-source-git-commit: c17bd1a623c46786f14c21c8fad718cdfeeec3cd
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '275'
 ht-degree: 1%
@@ -19,13 +19,13 @@ Möchten Sie eine andere Absenderadresse ausprobieren? So geht&#39;s.
 >
 >[E-Mail-Champion/Challenger hinzufügen](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. Wählen Sie im E-Mail **Testeditor in der Dropdown** Liste **Testtyp** die Option „Absenderadresse“.
+1. Wählen Sie im E-Mail **[!UICONTROL Testeditor in der Dropdown]** Liste **[!UICONTROL Testtyp]** die Option „Absenderadresse“.
 
    ![](assets/image2014-9-15-12-3a52-3a33.png)
 
    >[!NOTE]
    >
-   >Die erste Absenderadresse wird als &quot;**&quot;**. Nachfolgende Absenderadressen werden als &quot;**&quot;**.
+   >Die erste Absenderadresse wird als &quot;**[!UICONTROL &quot;]**. Nachfolgende Absenderadressen werden als &quot;**[!UICONTROL &quot;]**.
 
 1. Geben Sie die **Absendername** (links) und **Absenderadresse** (rechts) für die Herausforderer ein.
 
@@ -47,7 +47,7 @@ Möchten Sie eine andere Absenderadresse ausprobieren? So geht&#39;s.
 
    Um statistische Konfidenz zu gewinnen, wählen Sie unbedingt einen Prozentsatz aus, der genügend Personen enthält, dass Ihr Test gültig ist. Lassen Sie sich nicht von nicht eindeutigen Ergebnissen täuschen.
 
-1. Klicken Sie auf **Weiter**.
+1. Klicken Sie auf **[!UICONTROL Weiter]**.
 
    ![](assets/image2014-9-15-12-3a53-3a15.png)
 

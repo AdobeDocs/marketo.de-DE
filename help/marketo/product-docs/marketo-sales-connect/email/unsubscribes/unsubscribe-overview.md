@@ -4,9 +4,9 @@ description: Übersicht über die Abmeldung - Marketo-Dokumente - Produktdokumen
 title: Übersicht über die Abmeldung
 exl-id: 3212d5be-07ea-47bd-874e-25d02513c23b
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 Für Unternehmen wird es immer wichtiger, die Datenschutzgesetze für E-Mails einzuhalten. Um Ihnen dabei zu helfen, haben wir einige Verbesserungen an unserem Abmeldeerlebnis vorgenommen.
 
-* Abmelde-Links werden in allen E-Mails platziert, die von Sales Connect/ToutApp und Salesforce gesendet werden (dies gilt nicht für benutzerdefinierte E-Mails, die von Outlook oder Gmail gesendet werden)
+* Abmelde-Links werden in allen E-Mails platziert, die von [!DNL Sales Connect]/ToutApp und [!DNL Salesforce] gesendet werden (dies gilt nicht für benutzerdefinierte E-Mails, die von [!DNL Outlook] oder Gmail gesendet werden)
 * Administratoren können Nachrichten zur Abmeldung für ihr gesamtes Team bearbeiten
 * Abmeldeinformationen werden in PDV gespeichert
-* Abmeldungen können manuell erfolgen: geklickt Link, Salesforce Sync und Bounce
+* Abmeldungen können manuell erfolgen: angeklickter Link, [!DNL Salesforce] Synchronisierung und Bounce
 * Neuer Abmelde-Link für Landingpage

@@ -4,7 +4,7 @@ description: Vorschau einer Push-Benachrichtigung - Marketo-Dokumente - Produktd
 title: Vorschau einer Push-Benachrichtigung
 exl-id: 72c5221d-8cef-4d26-b15f-c7c3e291c919
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Sie können ganz einfach eine Vorschau davon anzeigen, wie Ihre Push-Benachrichtigung für Android oder iOS aussehen wird. Es gibt vier Möglichkeiten, das zu tun.
 
-Klicken Sie in der Navigationsstruktur mit der rechten Maustaste auf die Datei für die Benachrichtigung, die Sie in der Vorschau anzeigen möchten, und klicken Sie auf **Vorschau**.
+Klicken Sie in der Navigationsstruktur mit der rechten Maustaste auf die Datei für die Benachrichtigung, die Sie in der Vorschau anzeigen möchten, und klicken Sie auf **[!UICONTROL Vorschau]**.
 
 >[!NOTE]
 >
@@ -23,11 +23,11 @@ Klicken Sie in der Navigationsstruktur mit der rechten Maustaste auf die Datei f
 
 ![](assets/image2015-9-4-9-3a52-3a27.png)
 
-Oder klicken Sie auf der Ansichtsseite „Push-Benachrichtigung“ auf **Push-Benachrichtigungsaktionen** und dann auf **Vorschau**. Oder klicken Sie **ganz** auf „Vorschau“.
+Oder klicken Sie auf der Ansichtsseite „Push-Benachrichtigung“ auf **[!UICONTROL Push-Benachrichtigungsaktionen]** und dann auf **[!UICONTROL Vorschau]**. Oder klicken Sie **[!UICONTROL ganz]** auf „Vorschau“.
 
 ![](assets/image2015-9-4-10-3a53-3a28.png)
 
-Schließlich können Sie im Editor oben rechts auf die Registerkarte **Vorschau des Entwurfs** klicken, während Sie an der Benachrichtigung arbeiten.
+Schließlich können Sie im Editor oben rechts auf die Registerkarte **[!UICONTROL Vorschau des Entwurfs]** klicken, während Sie an der Benachrichtigung arbeiten.
 
 ![](assets/image2015-9-14-15-3a55-3a26.png)
 

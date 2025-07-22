@@ -3,7 +3,7 @@ description: Verwenden einer Vorlage im Fenster „Erstellen“ - Marketo-Dokume
 title: Verwenden einer Vorlage im Fenster „Erstellen“
 exl-id: 766cf3e6-5afa-4ccc-9093-efd06b1713cf
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 0%
@@ -14,11 +14,11 @@ ht-degree: 0%
 
 ## Suchen und Verwenden von Vorlagen {#finding-and-using-templates}
 
-1. Erstellen Sie Ihren E-Mail-Entwurf (es gibt mehrere Möglichkeiten, dies zu tun, in diesem Beispiel wählen wir **Erstellen** in der Kopfzeile).
+1. Erstellen Sie Ihren E-Mail-Entwurf (es gibt mehrere Möglichkeiten, dies zu tun, in diesem Beispiel wählen wir **[!UICONTROL Erstellen]** in der Kopfzeile).
 
    ![](assets/using-a-template-in-the-compose-window-1.png)
 
-1. Füllen Sie das Feld An aus.
+1. Füllen Sie das Feld [!UICONTROL An] aus.
 
    ![](assets/using-a-template-in-the-compose-window-2.png)
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
    ![](assets/using-a-template-in-the-compose-window-3.png)
 
-1. Wählen Sie eine Kategorie für die Suche aus (oder wählen Sie Alle aus, um alle Kategorien zu durchsuchen).
+1. Wählen Sie eine Kategorie für die Suche aus (oder wählen Sie [!UICONTROL Alle], um alle Kategorien zu durchsuchen).
 
    ![](assets/using-a-template-in-the-compose-window-4.png)
 
@@ -42,15 +42,15 @@ ht-degree: 0%
 
 Favorisiert **bis zu fünf** Vorlagenkategorien, um schnellen Zugriff auf Ihre am häufigsten verwendeten Vorlagen zu erhalten.
 
-1. Erstellen Sie Ihren E-Mail-Entwurf (es gibt mehrere Möglichkeiten, dies zu tun, in diesem Beispiel wählen wir **Erstellen** in der Kopfzeile).
+1. Erstellen Sie Ihren E-Mail-Entwurf (es gibt mehrere Möglichkeiten, dies zu tun, in diesem Beispiel wählen wir **[!UICONTROL Erstellen]** in der Kopfzeile).
 
    ![](assets/using-a-template-in-the-compose-window-6.png)
 
-1. Klicken Sie auf das Symbol **+** neben Favoriten.
+1. Klicken Sie auf das Symbol **+** neben [!UICONTROL Favoriten].
 
    ![](assets/using-a-template-in-the-compose-window-7.png)
 
-1. Klicken Sie auf **Kategorie anheften** und wählen Sie die gewünschte Kategorie aus.
+1. Klicken Sie auf **[!UICONTROL Kategorie anheften]** und wählen Sie die gewünschte Kategorie aus.
 
    ![](assets/using-a-template-in-the-compose-window-8.png)
 
@@ -70,6 +70,6 @@ Favorisiert **bis zu fünf** Vorlagenkategorien, um schnellen Zugriff auf Ihre a
 
    >[!NOTE]
    >
-   >**Favoriten** ist standardmäßig vorhanden. Es enthält bevorzugte E-Mail-Vorlagen, keine Kategorien.
+   >**[!UICONTROL Favoriten]** ist standardmäßig vorhanden. Es enthält bevorzugte E-Mail-Vorlagen, keine Kategorien.
 
    Ihre ausgewählte Kategorie ist jetzt angeheftet.

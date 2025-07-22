@@ -4,7 +4,7 @@ description: Sales Intelligence - Marketo-Dokumente - Produktdokumentation
 title: Vertriebsinformationen
 exl-id: 118da902-8c02-413b-8959-2e970d3dd9a4
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 2%
@@ -19,11 +19,11 @@ Greifen Sie darauf zu, indem Sie sich bei der Marketo Web Personalization-Plattf
 
 ## Definieren der Region des Benutzers {#define-the-users-region}
 
-Um die Organisations- und Besucherdaten, die Sie in Marketo Web Personalization sehen, für Ihre Region, Ihr Land oder Ihr Bundesland zu definieren, gehen Sie zu [Benutzereinstellungen](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md) und wählen Sie die Länder oder Bundesstaaten aus.
+Um die Organisations- und Besucherdaten, die Sie in Marketo Web Personalization sehen, für Ihre Region, Ihr Land oder Ihr Bundesland zu definieren, gehen Sie zu [[!UICONTROL Benutzereinstellungen]](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md) und wählen Sie die Länder oder Bundesstaaten aus.
 
 ## Tägliche oder wöchentliche E-Mail-Berichte einrichten {#set-up-daily-or-weekly-email-reports}
 
-In [Benutzereinstellungen](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md) können Sie so einrichten, dass Sie tägliche oder wöchentliche E-Mail-Berichte erhalten, die am frühen Morgen gesendet werden. Die primären Berichte, die für einen Vertriebsleiter von Interesse sind, umfassen die Berichte „Organisationen“ und „Leads“, in denen die am häufigsten besuchten Organisationen und die eingereichten Leads, einschließlich ihres Verhaltens, aus der spezifischen Region des Benutzers angezeigt werden.
+In [[!UICONTROL Benutzereinstellungen]](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md) können Sie so einrichten, dass Sie tägliche oder wöchentliche E-Mail-Berichte erhalten, die am frühen Morgen gesendet werden. Die primären Berichte, die für einen Vertriebsleiter von Interesse sind, umfassen die Berichte „Organisationen“ und „Leads“, in denen die am häufigsten besuchten Organisationen und die eingereichten Leads, einschließlich ihres Verhaltens, aus der spezifischen Region des Benutzers angezeigt werden.
 
 >[!NOTE]
 >

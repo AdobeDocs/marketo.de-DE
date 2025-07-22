@@ -4,7 +4,7 @@ description: Erstellen eines Opportunity Influence Analyzer - Marketo-Dokumente 
 title: Erstellen eines Opportunity Influence Analyzer
 exl-id: a1ae4407-3668-4289-b177-fad1aee6c876
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '209'
 ht-degree: 0%
@@ -19,38 +19,38 @@ Verwenden Sie den Opportunity Influence Analyzer, um den Beitrag des Marketings 
 >
 >Um gute Informationen von einem Opportunity Influence Analyzer zu erhalten, stellen Sie sicher, dass Ihre Kontakte mit den Opportunities in Ihrem CRM verknüpft sind.
 
-1. Klicken Sie auf **Analytics**.
+1. Klicken Sie auf **[!UICONTROL Analytics]**.
 
    ![](assets/analytics.png)
 
-1. Klicken Sie **Opportunity Influence Analyzer**.
+1. Klicken Sie **[!UICONTROL Opportunity Influence Analyzer]**.
 
    ![](assets/two.png)
 
-1. Wählen Sie das Konto im Bedienfeld **Einstellungen** aus.
+1. Wählen Sie das Konto im Bedienfeld **[!UICONTROL Einstellungen]** aus.
 
    ![](assets/image2014-9-17-8-3a56-3a32.png)
 
    >[!NOTE]
    >
-   >Wenn Sie eine Warnung erhalten, dass im Zeitrahmen keine Aktivitäten vorhanden waren, klicken Sie einfach auf **Schließen**. Wir werden darauf nach dem nächsten Schritt zurückkommen.
+   >Wenn Sie eine Warnung erhalten, dass im Zeitrahmen keine Aktivitäten vorhanden waren, klicken Sie einfach auf **[!UICONTROL Schließen]**. Wir werden darauf nach dem nächsten Schritt zurückkommen.
 
 1. Wählen Sie die Opportunity in diesem Konto aus.
 
    ![](assets/image2014-9-17-8-3a56-3a48.png)
 
-1. Den Zeitraum festlegen. Klicken Sie auf **Registerkarte** und doppelklicken Sie auf **Zeitrahmen**.
+1. Den Zeitraum festlegen. Klicken Sie auf **[!UICONTROL Registerkarte]** und doppelklicken Sie auf **[!UICONTROL Zeitrahmen]**.
 
    ![](assets/image2014-9-17-8-3a57-3a17.png)
 
-1. Wählen Sie den Zeitraum der Opportunity aus, die Sie analysieren möchten, und klicken Sie auf **Speichern**.
+1. Wählen Sie den Zeitraum der Opportunity aus, die Sie analysieren möchten, und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/image2014-9-17-8-3a57-3a27.png)
 
    >[!TIP]
    >
    >
-   >In den meisten Fällen ist **All Time** die einfachste Wahl.
+   >In den meisten Fällen ist **[!UICONTROL All Time]** die einfachste Wahl.
 
 1. Du bist da! Klicken Sie auf die Registerkarte Haupt , um die interessanten Momente und Erfolge anzuzeigen, die an der Opportunity beteiligt sind.
 

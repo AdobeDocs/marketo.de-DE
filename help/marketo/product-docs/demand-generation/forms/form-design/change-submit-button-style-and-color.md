@@ -4,7 +4,7 @@ description: Stil und Farbe der Senden-Schaltfläche ändern - Marketo-Dokumente
 title: Stil und Farbe der Senden-Schaltfläche ändern
 exl-id: a94143d4-0cd5-4c27-b8b1-73d803763e9d
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 4%
@@ -15,15 +15,15 @@ ht-degree: 4%
 
 Wenn Sie die standardmäßige Senden-Schaltfläche als langweilig empfinden oder etwas Ausgefalleneres benötigen, können Sie aus einer Vielzahl von einsatzbereiten Schaltflächenstilen wählen.
 
-1. Navigieren Sie **Marketing-Aktivitäten**.
+1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Wählen Sie Ihr Formular aus und klicken Sie auf **Formular bearbeiten**.
+1. Wählen Sie Ihr Formular aus und klicken Sie auf **[!UICONTROL Formular bearbeiten]**.
 
    ![](assets/image2014-9-15-16-3a54-3a36.png)
 
-1. Wählen Sie die Schaltfläche **Senden** und klicken Sie **Bearbeiten** neben Schaltflächenstil.
+1. Wählen Sie die Schaltfläche **[!UICONTROL Senden]** und klicken Sie **[!UICONTROL Bearbeiten]** neben Schaltflächenstil.
 
    ![](assets/image2014-9-15-16-3a54-3a56.png)
 
@@ -43,15 +43,15 @@ Wenn Sie die standardmäßige Senden-Schaltfläche als langweilig empfinden oder
    >
    >Sie können den Farbcode auch manuell eingeben.
 
-1. Klicken Sie auf **Auswählen**.
+1. Klicken Sie auf **[!UICONTROL Auswählen]**.
 
    ![](assets/image2014-9-15-16-3a56-3a37.png)
 
-1. Klicken Sie auf **Fertigstellen**.
+1. Klicken Sie auf **[!UICONTROL Fertigstellen]**.
 
    ![](assets/image2014-9-15-16-3a56-3a52.png)
 
-1. Klicken Sie **Genehmigen und schließen**.
+1. Klicken Sie **[!UICONTROL Genehmigen und schließen]**.
 
    ![](assets/image2014-9-15-16-3a57-3a10.png)
 

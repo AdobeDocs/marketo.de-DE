@@ -4,20 +4,20 @@ description: Interessante Momente in Sales Connect - Marketo-Dokumentation - Pro
 title: Interessante Momente in Sales Connect
 exl-id: 210f31d1-606a-479d-8a2b-351b2b1a7678
 feature: Marketo Sales Connect
-source-git-commit: 3a3287ed20962a052e0015161e34e33a95dd450a
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '274'
 ht-degree: 0%
 
 ---
 
-# Interessante Momente in Sales Connect {#interesting-moments-in-sales-connect}
+# Interessante Momente in [!DNL Sales Connect] {#interesting-moments-in-sales-connect}
 
-Interessante Momente sind der Schlüssel zur Kommunikation mit Ihrem Vertriebsteam über Marketo Sales Connect.
+Interessante Momente sind der Schlüssel zur Kommunikation mit Ihrem Vertriebsteam über [!DNL Marketo Sales Connect].
 
 >[!AVAILABILITY]
 >
->Diese sind nur für Kunden von [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) und Marketo Sales Connect verfügbar.
+>Diese sind nur für [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) und [!DNL Marketo Sales Connect] Kunden verfügbar.
 
 >[!PREREQUISITES]
 >
@@ -39,15 +39,15 @@ Das liegt an dir! Sie entscheiden, welche Informationen für Ihr Vertriebsteam r
 
    ![](assets/image2015-1-8-18-3a8-3a54.png)
 
-1. Ziehen Sie über den **Interessante Momente** Flussschritt.
+1. Ziehen Sie über den **[!UICONTROL Interessante Momente]** Flussschritt.
 
    ![](assets/image2015-1-8-18-3a15-3a20.png)
 
-1. Wählen Sie einen **Typ** aus (E-Mail, Meilenstein oder Web).
+1. Wählen Sie einen **Typ** aus ([!UICONTROL E-Mail], [!UICONTROL Milestone] oder [!UICONTROL Web]).
 
    ![](assets/image2015-1-8-18-3a17-3a16.png)
 
-1. Schreiben Sie eine Nachricht an Ihr Vertriebsteam im Feld **Beschreibung**, in der erläutert wird, warum diese Aktion wichtig ist.
+1. Schreiben Sie eine Nachricht an Ihr Vertriebsteam im Feld **[!UICONTROL Beschreibung]**, in der erläutert wird, warum diese Aktion wichtig ist.
 
    ![](assets/image2015-1-8-18-3a18-3a23.png)
 
@@ -61,8 +61,8 @@ Interessante Momente werden im Aktivitätsprotokoll eines [Leads) ](/help/market
 
 ![](assets/image2015-1-14-18-3a45-3a58.png)
 
-## Wie sieht ein interessanter Moment in Sales Connect aus? {#what-does-an-interesting-moment-look-like-in-sales-connect}
+## Wie sieht ein interessanter Moment in [!DNL Sales Connect] aus? {#what-does-an-interesting-moment-look-like-in-sales-connect}
 
-Interessante Momente werden in Echtzeit im Live-Feed eines Benutzers angezeigt. Wir verwenden die Lead-Eigentümer-ID in Salesforce, um den Nutzern die interessanten Momente relevanter Leads zu zeigen, deren Besitzer sie sind. Benutzer können Leads schnell über E-Mail/Telefon/Verkaufskampagne verfolgen, indem sie auf die Dropdown-Liste neben dem Namen des Leads klicken.
+Interessante Momente werden in Echtzeit im Live-Feed eines Benutzers angezeigt. Wir verwenden die Lead-Eigentümer-ID in [!DNL Salesforce], um den Benutzern die interessanten Momente relevanter Leads zu zeigen, deren Besitzer sie sind. Benutzer können Leads schnell über E-Mail/Telefon/Verkaufskampagne verfolgen, indem sie auf die Dropdown-Liste neben dem Namen des Leads klicken.
 
 ![](assets/engagement.jpg)

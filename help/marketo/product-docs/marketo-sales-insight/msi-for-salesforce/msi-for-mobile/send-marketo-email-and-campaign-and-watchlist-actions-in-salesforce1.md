@@ -4,20 +4,20 @@ description: Senden von Marketo-E-Mail- und Kampagnen- und Watchlist-Aktionen in
 title: Senden von Marketo-E-Mail- und Kampagnen- und Watchlist-Aktionen in Salesforce1
 exl-id: 055754b1-4803-4ca6-aa3f-474175daad1a
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
 
 ---
 
-# Senden von Marketo-E-Mail- und Kampagnen- und Watchlist-Aktionen in Salesforce1 {#send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce}
+# Senden von Marketo-E-Mail- und Kampagnen- und Watchlist-Aktionen in [!DNL Salesforce1] {#send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce}
 
-1. Wechseln Sie zum Bereich „Lead-Details“ in Salesforce1 und klicken Sie auf die Registerkarte **Verwandt**.
+1. Wechseln Sie zum Bereich „Lead-Details“ in [!DNL Salesforce1] und klicken Sie auf die Registerkarte **[!UICONTROL Verwandt]** .
 
    ![](assets/one-1.png)
 
-1. Klicken Sie auf die Punkte (drei kleine Punkte). Unten stehen folgende Optionen zur Auswahl: „Zu Marketo Campaign hinzufügen“, &quot;Marketo-E-Mail senden“, „In Marketo anzeigen“, „Zur Watchlist hinzufügen/daraus entfernen“.
+1. Klicken Sie auf die Punkte (drei kleine Punkte). Unten stehen folgende Optionen zur Auswahl: &quot;[!UICONTROL Zu Marketo Campaign hinzufügen]&quot;, &quot;[!UICONTROL Marketo-E-Mail senden]&quot;, &quot;[!UICONTROL In Marketo anzeigen]&quot;, &quot;[!UICONTROL Aus Watchlist hinzufügen]&quot; [!UICONTROL Aus Watchlist entfernen].
 
    ![](assets/two-1.png)
 

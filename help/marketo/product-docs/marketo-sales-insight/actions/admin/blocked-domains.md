@@ -3,7 +3,7 @@ description: Blockierte Domains - Marketo-Dokumente - Produktdokumentation
 title: Blockierte Domänen
 exl-id: 004ba212-485e-4412-be75-7de13505d9b0
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 4%
@@ -18,15 +18,15 @@ Helfen Sie Ihrem Verkaufsteam, erfolgreich zu sein, indem Sie verhindern, dass e
 >
 >**Administratorberechtigungen erforderlich**
 
-1. Klicken Sie in der Web-Anwendung auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
+1. Klicken Sie in der Web-Anwendung auf das Zahnradsymbol und wählen Sie **[!UICONTROL Einstellungen]** aus.
 
    ![](assets/blocked-domains-1.png)
 
-1. Klicken Sie unter „Admin Settings“ auf **General**.
+1. Klicken [!UICONTROL  unter &quot;]&quot; auf **[!UICONTROL Allgemein]**.
 
    ![](assets/blocked-domains-2.png)
 
-1. Geben Sie die zu blockierende Domain ein und klicken Sie auf **Domain blockieren**.
+1. Geben Sie die zu blockierende Domain ein und klicken Sie auf **[!UICONTROL Domain blockieren]**.
 
    ![](assets/blocked-domains-3.png)
 

@@ -4,9 +4,9 @@ description: Personen- und Kontoinformationen und -aktivitäten in Google Mail a
 title: Personen- und Kontoinformationen und Aktivitäten in Google Mail anzeigen
 exl-id: 06bfd7ce-d60a-42de-a349-0a4b4ef72db5
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Auf der Registerkarte Personenaktivität werden relevante Informationen zur Pers
 
 ![](assets/1.png)
 
-Auf der Registerkarte Kontoaktivität werden relevante Kontoinformationen wie Firmenname, Website-URL und Standort angezeigt. Auf der Registerkarte werden auch die letzten Kontoaktivitäten angezeigt. Das Konto wird durch die Domain der Person identifiziert. Aktivitäten werden in der Liste angezeigt, wenn einem der Sales Insight-Benutzer in Ihrem Abonnement jemals ein entsprechender Status zugewiesen wurde.
+Auf der Registerkarte Kontoaktivität werden relevante Kontoinformationen wie Firmenname, Website-URL und Standort angezeigt. Auf der Registerkarte werden auch die letzten Kontoaktivitäten angezeigt. Das Konto wird durch die Domain der Person identifiziert. Aktivitäten werden in der Liste angezeigt, wenn einem der in Ihrem Abonnement enthaltenen Sales Insight-Benutzenden diese jemals zugeordnet wurden.
 
 ![](assets/2.png)
 
@@ -39,9 +39,9 @@ Klicken Sie auf das Marketo-Symbol, um den Bereich zu erweitern.
 
 ![](assets/image2015-10-6-15-3a43-3a22.png)
 
-## Anzeigen von Aktivitäten in Google Chrome {#view-activities-in-google-chrome}
+## Anzeigen von Aktivitäten in [!DNL Google Chrome] {#view-activities-in-google-chrome}
 
-Sie können auch den Bereich Globale Aktivität in Google Chrome verwenden, um eine vollständige Liste der letzten Aktivitäten anzuzeigen, die für alle Personen stattgefunden haben, mit denen Sie kürzlich gesprochen haben. Dies ist ein in Echtzeit aktualisierter Feed, der kontinuierlich die Anzahl der ungelesenen Aktivitäten auf dem Symbol anzeigt.
+Sie können auch den Bereich Globale Aktivität in [!DNL Google Chrome] verwenden, um eine vollständige Liste der letzten Aktivitäten anzuzeigen, die für alle Personen stattgefunden haben, mit denen Sie kürzlich gesprochen haben. Dies ist ein in Echtzeit aktualisierter Feed, der kontinuierlich die Anzahl der ungelesenen Aktivitäten auf dem Symbol anzeigt.
 
 Klicken Sie auf das Marketo-Symbol, um den Bereich zu öffnen.
 
@@ -49,4 +49,4 @@ Klicken Sie auf das Marketo-Symbol, um den Bereich zu öffnen.
 
 >[!MORELIKETHIS]
 >
->[Verwenden von Marketo Insights für Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
+>[Verwenden von Marketo Insights für [!DNL Google Chrome]](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)

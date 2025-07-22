@@ -4,16 +4,16 @@ description: SFDC-Synchronisierung - Aktivitätssynchronisierung - Marketo-Dokum
 title: SFDC-Synchronisierung - Aktivitätssynchronisierung
 exl-id: 780e9cb7-b8b2-4a79-a0b8-d9d34a655330
 feature: Salesforce Integration
-source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 4%
+source-wordcount: '160'
+ht-degree: 5%
 
 ---
 
 # SFDC-Synchronisierung: Aktivitätssynchronisierung {#sfdc-sync-activity-sync}
 
-Marketo Engage synchronisiert auch die Daten der Salesforce-Aktivitäten. Im Folgenden finden Sie einige Fragen und Antworten.
+Marketo synchronisiert auch die Daten der [!DNL Salesforce] Aktivitäten. Im Folgenden finden Sie einige Fragen und Antworten.
 
 ## Welche Aktivitätstypen werden von Marketo synchronisiert? {#what-types-of-activity-data-does-marketo-sync-over}
 
@@ -21,7 +21,7 @@ Marketo synchronisiert sowohl Ereignisse als auch Aufgaben, die mit einem Lead o
 
 ## Wie werden Aktivitätsdetails zwischen den beiden Systemen synchron gehalten? {#how-are-activity-details-kept-in-sync-between-the-two-systems}
 
-Die Synchronisierung erfolgt in eine Richtung, von Salesforce zu Marketo. Sie können eine Aufgabe jedoch in Salesforce mit dem Flussschritt [Aufgabe erstellen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"} oder [Aktivitätssynchronisierung anpassen](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md){target="_blank"} mit Salesforce erstellen.
+Die Synchronisierung erfolgt in eine Richtung, von [!DNL Salesforce] zu Marketo. Sie können jedoch eine Aufgabe in [!DNL Salesforce] erstellen, indem Sie den [Aufgabe erstellen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) Flussschritt verwenden oder [Aktivitätssynchronisierung anpassen](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md) um [!DNL Salesforce].
 
 ## Kann ich eine Aufgabe mit Marketo erstellen? {#can-i-create-a-task-using-marketo}
 

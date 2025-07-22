@@ -4,32 +4,32 @@ description: Filtern von Web-Kampagnen - Marketo-Dokumente - Produktdokumentatio
 title: Filtern von Web-Kampagnen
 exl-id: 07237fff-02d7-4974-9651-09a328d27365
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '98'
 ht-degree: 2%
 
 ---
 
 # Filtern von Web-Kampagnen {#filter-web-campaigns}
 
-Nachdem Sie Hunderte von Web-Personalization-Kampagnen erstellt haben, ist es wirklich hilfreich, Filter verwenden zu können, um nur die anzuzeigen, die Sie interessieren.
+Nachdem Sie Hunderte von [!DNL Web Personalization] Kampagnen erstellt haben, ist es wirklich hilfreich, Filter verwenden zu können, um nur die anzuzeigen, die Sie interessieren.
 
-1. Gehen Sie zu **Web-Kampagnen**.
+1. Gehen Sie zu **[!UICONTROL Web-Kampagnen]**.
 
    ![](assets/web-campaigns-hand-8.jpg)
 
-1. Klicken Sie auf der Seite Web-Kampagnen auf **Filter**.
+1. Klicken Sie auf der [!UICONTROL Web]KampagnenSeite auf **[!UICONTROL Filter]**.
 
    ![](assets/web-campaigns-page-filter-hand.jpg)
 
-1. Aktivieren Sie das Kontrollkästchen für den Status und/oder den Kampagnentyp, nach dem Sie filtern möchten, z. B **„Paused** oder **Dialog**. Klicken Sie auf **Übernehmen**.
+1. Aktivieren Sie das Kontrollkästchen für den Status und/oder den Kampagnentyp, nach dem Sie filtern möchten, z. B **[!UICONTROL „Paused]** oder **[!UICONTROL Dialog]**. Klicken Sie auf **[!UICONTROL Übernehmen]**.
 
    ![](assets/web-campaigns-filters-hands.jpg)
 
    >[!TIP]
    >
-   >Aktivieren Sie das Kontrollkästchen **Alle auswählen**, um alle auszuwählen, oder klicken Sie auf den Link **Löschen**, um alle Kontrollkästchen zu deaktivieren.
+   >Aktivieren Sie das Kontrollkästchen **[!UICONTROL Alle auswählen]**, um alle auszuwählen, oder klicken Sie auf den Link **[!UICONTROL Löschen]**, um alle Kontrollkästchen zu deaktivieren.
 
 1. Jetzt werden nur noch Kampagnen angezeigt, die Ihrem Filter entsprechen.
 

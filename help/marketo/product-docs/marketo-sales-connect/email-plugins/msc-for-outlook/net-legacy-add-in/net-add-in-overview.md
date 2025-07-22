@@ -4,9 +4,9 @@ description: Übersicht über das .NET-Add-in - Marketo-Dokumente - Produktdokum
 title: Übersicht über das .NET-Add-in
 exl-id: fa40377e-e70b-46d3-a75f-5fa791f9275b
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '208'
 ht-degree: 0%
 
 ---
@@ -19,22 +19,22 @@ ht-degree: 0%
 
 ## Ein Stück Inhalt anhängen {#attaching-a-piece-of-content}
 
-Fügen Sie verfolgbare Inhalte hinzu, indem Sie auf die Schaltfläche **Inhalt** klicken und eine Datei hochladen.
+Fügen Sie verfolgbare Inhalte hinzu, indem Sie auf die Schaltfläche **[!UICONTROL Inhalt]** klicken und eine Datei hochladen.
 
 Alle zuvor hochgeladenen Inhalte werden angezeigt, damit Sie sie im Popup-Fenster auswählen können, ohne sie erneut hochladen zu müssen.
 
 ## Kalenderfunktionen {#calendar-functionality}
 
-Teilen Sie Ihren Empfängern mit, wann Sie verfügbar sind, indem Sie auf die Schaltfläche **Kalender** klicken.
+Teilen Sie Ihren Empfängern mit, wann Sie verfügbar sind, indem Sie auf die Schaltfläche **[!UICONTROL Kalender]** klicken.
 
-Dadurch wird Ihr Outlook-Kalender abgerufen, und Sie können bestimmte Daten und Zeiten hinzufügen, zu denen Sie frei sind, und die Informationen zu Ihrer E-Mail hinzufügen.
+Dadurch wird Ihr [!DNL Outlook] Kalender abgerufen, und Sie können bestimmte Daten und Uhrzeiten hinzufügen, zu denen Sie frei sind, und die Informationen zu Ihrer E-Mail hinzufügen.
 
 ## Abrufen einer Vorlage {#pulling-in-a-template}
 
-Ziehen Sie eine vorgefertigte Tout-Vorlage in die Outlook-Nachricht, indem Sie die Schaltfläche **Vorlagen** drücken.
+Ziehen Sie eine vorgefertigte Tout-Vorlage in die [!DNL Outlook]-Nachricht, indem Sie die Schaltfläche **[!UICONTROL Vorlagen]** drücken.
 
 Wir synchronisieren mit allen Ihren persönlichen Vorlagen und allen freigegebenen Vorlagen im Team. Für einen einfachen Zugriff rufen wir auch die zuletzt verwendete Vorlage und die am häufigsten verwendete Vorlage automatisch ab.
 
-## Die Schaltfläche „IT anpreisen“ {#the-tout-it-button}
+## Die [!UICONTROL tout it] Schaltfläche {#the-tout-it-button}
 
-Nachdem Sie Ihre personalisierte E-Mail ausgefüllt und einsatzbereit haben, klicken Sie immer auf die Schaltfläche **Es anzeigen** um Tracking zu erhalten. Es erscheint ein Feld mit der Aufschrift „Moment, wir fügen Tracking-Magie hinzu“.
+Nachdem Sie Ihre personalisierte E-Mail ausgefüllt und einsatzbereit haben, klicken Sie immer auf die Schaltfläche **[!UICONTROL Es anzeigen]** um Tracking zu erhalten. Es erscheint ein Feld mit der Aufschrift „Moment, wir fügen Tracking-Magie hinzu“.

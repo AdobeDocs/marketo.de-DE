@@ -4,7 +4,7 @@ description: Bearbeiten von Snippets mit dynamischen Inhalten - Marketo-Dokument
 title: Bearbeiten von Snippets mit dynamischen Inhalten
 exl-id: 44fa65b0-bc3c-4b7f-90af-0af99da73337
 feature: Snippets
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
@@ -22,19 +22,19 @@ Verwenden Sie die Segmentierung in Snippets, um dynamische Inhalte auf Ihren E-M
 
 ## Segmentierung hinzufügen {#add-segmentation}
 
-1. Gehen Sie zum **Design Studio**.
+1. Gehen Sie zum **[!UICONTROL Design Studio]**.
 
    ![](assets/designstudio-1.png)
 
-1. Klicken Sie auf Ihr **Snippet** und dann **Entwurf bearbeiten**.
+1. Klicken Sie auf Ihr **Snippet** und dann **[!UICONTROL Entwurf bearbeiten]**.
 
    ![](assets/image2014-9-16-8-3a59-3a14.png)
 
-1. Klicken Sie auf **Segment nach**.
+1. Klicken Sie auf **[!UICONTROL Segment nach]**.
 
    ![](assets/image2014-9-16-8-3a59-3a27.png)
 
-1. Geben Sie **Segmentierung** ein und klicken Sie auf **Speichern**.
+1. Geben Sie **[!UICONTROL Segmentierung]** ein und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/image2014-9-16-8-3a59-3a42.png)
 

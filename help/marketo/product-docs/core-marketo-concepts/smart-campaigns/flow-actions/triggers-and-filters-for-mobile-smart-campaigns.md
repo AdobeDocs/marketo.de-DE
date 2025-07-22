@@ -4,9 +4,9 @@ description: Trigger und Filter für Smart-Mobile-Kampagnen - Marketo-Dokumente 
 title: Trigger und Filter für Smart-Kampagnen für Mobilgeräte
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
 feature: Smart Campaigns
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '820'
+source-wordcount: '814'
 ht-degree: 1%
 
 ---
@@ -39,7 +39,7 @@ Verwenden Sie Einschränkungen mit Triggern und Filtern, um die Daten weiter zu 
 
 Alle Trigger und Filter mit Ausnahme der Push-Benachrichtigung „wurde gesendet“ enthalten diese beiden Standardeinschränkungen:
 
-* Gerätetyp - iPod, iPhone, iPhone 6 Plus, iPad mini, iPad, Android Smartphone, Android Tablet, Unbekannt (dies ist eine Voreinstellungsliste)
+* Gerätetyp - [!DNL iPod], iPhone, [!DNL iPhone 6 Plus], [!DNL iPad mini], iPad, Android Smartphone, Android Tablet, Unbekannt (dies ist eine Voreinstellungsliste)
 
 * Platform - iPhone oder Android
 
@@ -103,7 +103,7 @@ Mobile App ist/wurde geöffnet
 
 Hat/hatte die Aktivität „Mobile App“
 
-Diese bieten eine leistungsstarke Möglichkeit, benutzerdefinierte mobile Aktivitäten zu verfolgen. Sie müssen mit Ihrem Entwickler zusammenarbeiten, um das Tracking ([ Android) ](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} ([ iOS) ](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}.
+Diese bieten eine leistungsstarke Möglichkeit, benutzerdefinierte mobile Aktivitäten zu verfolgen. Sie müssen mit Ihrem Entwickler zusammenarbeiten, um das Tracking ([ Android) ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} ([ iOS) ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}.
 
 * Hat Mobile-App-Aktivität - Trigger
 

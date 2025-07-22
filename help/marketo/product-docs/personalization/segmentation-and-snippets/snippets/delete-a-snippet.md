@@ -4,7 +4,7 @@ description: Löschen eines Snippets - Marketo-Dokumente - Produktdokumentation
 title: Löschen eines Snippets
 exl-id: 6984fd94-dd91-4832-83ce-3a6c3b35b034
 feature: Snippets
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 0%
@@ -19,15 +19,15 @@ ht-degree: 0%
 
 Löschen Sie ein Snippet, das Sie nicht mehr benötigen.
 
-1. Gehen Sie zum **Design Studio**.
+1. Gehen Sie zum **[!UICONTROL Design Studio]**.
 
    ![](assets/image2014-9-16-10-3a43-3a47.png)
 
-1. Gehen Sie zu Ihrem Snippet und klicken Sie dann unter **Snippet-Aktionen** auf **Löschen**.
+1. Gehen Sie zu Ihrem Snippet und klicken Sie dann unter **[!UICONTROL Snippet-Aktionen]** auf **[!UICONTROL Löschen]**.
 
    ![](assets/image2014-9-16-10-3a43-3a57.png)
 
-1. Klicken Sie auf **Löschen** um zu bestätigen oder einfach **Abbrechen**.
+1. Klicken Sie auf **[!UICONTROL Löschen]** um zu bestätigen oder einfach **[!UICONTROL Abbrechen]**.
 
    ![](assets/image2014-9-16-10-3a44-3a8.png)
 

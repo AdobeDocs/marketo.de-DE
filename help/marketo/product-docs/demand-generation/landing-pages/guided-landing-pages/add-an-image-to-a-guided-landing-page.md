@@ -4,7 +4,7 @@ description: Hinzufügen eines Bildes zu einer geführten Landingpage - Marketo-
 title: Hinzufügen eines Bildes zu einer geführten Landingpage
 exl-id: 9cf9eec9-f8b5-4ca3-a6b3-f2d7f3e742ca
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Im Gegensatz zu den Freiform-Landingpages verfügen geführte Landingpages über vordefinierte, gesperrte Bereiche, in denen Sie Bilder hinzufügen.
 
-1. Auswahl einer geführten Landingpage. Klicken Sie **Entwurf bearbeiten**.
+1. Auswahl einer geführten Landingpage. Klicken Sie **[!UICONTROL Entwurf bearbeiten]**.
 
    ![](assets/image2015-5-19-14-3a1-3a26.png)
 
@@ -23,7 +23,7 @@ Im Gegensatz zu den Freiform-Landingpages verfügen geführte Landingpages über
 
    ![](assets/image2015-5-19-14-3a4-3a29.png)
 
-1. Wählen Sie das gewünschte Bild aus und klicken Sie auf **Einfügen**.
+1. Wählen Sie das gewünschte Bild aus und klicken Sie auf **[!UICONTROL Einfügen]**.
 
    ![](assets/image2015-5-20-10-3a37-3a33.png)
 

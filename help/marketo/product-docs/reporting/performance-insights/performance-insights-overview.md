@@ -4,24 +4,24 @@ description: Übersicht über Performance Insights - Marketo-Dokumente - Produkt
 title: Übersicht über Performance Insights
 exl-id: f89f8500-5623-4ee2-a7c0-1d561dd40687
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '234'
 ht-degree: 2%
 
 ---
 
-# Übersicht über Performance Insights {#performance-insights-overview}
+# [!UICONTROL Performance Insights] Übersicht {#performance-insights-overview}
 
-Mit Marketo Performance Insights können Sie Ihren Kanalmix optimieren, um maximale Effektivität zu erzielen, und langfristige Trends aufdecken, um konsistente Gewinnstrategien zu erkennen.
+Marketo [!UICONTROL Performance Insights] hilft Ihnen bei der Optimierung Ihres Kanalmixes für maximale Effektivität sowie bei der Ermittlung langfristiger Trends, um konsistente Gewinnstrategien zu erkennen.
 
 >[!AVAILABILITY]
 >
 >Nicht jeder hat diese Funktion erworben. Weitere Informationen erhalten Sie beim Adobe Account Team (Ihrem Account Manager).
 
-Performance Insights lädt Daten aus den (bis zu) den letzten 24 Monaten. Dies umfasst die aktuellen Daten des Jahres bis dato sowie die Daten des Vorjahres. Zum Beispiel lädt MPI am 31. Januar 2019 Daten aus diesem Monat und jeden Monat ab 2018. Am 31. Dezember 2019 lädt MPI Daten aus jedem Monat der Jahre 2019 und 2018.
+[!UICONTROL Performance Insights] lädt Daten aus den letzten 24 Monaten (bis zu). Dies umfasst die aktuellen Daten des Jahres bis dato sowie die Daten des Vorjahres. Zum Beispiel lädt MPI am 31. Januar 2019 Daten aus diesem Monat und jeden Monat ab 2018. Am 31. Dezember 2019 lädt MPI Daten aus jedem Monat der Jahre 2019 und 2018.
 
-Um auf Performance Insights zuzugreifen, klicken Sie auf das entsprechende Symbol auf dem Analytics-Startbildschirm.
+Um auf [!UICONTROL Performance Insights] zuzugreifen, klicken Sie auf das entsprechende Symbol auf dem Analytics-Startbildschirm.
 
 ![](assets/one.png)
 
@@ -31,7 +31,7 @@ Bewerten Sie den [Umsatzbeitrag](/help/marketo/product-docs/reporting/performanc
 
 ![](assets/two.png)
 
-Standardmäßig spiegeln die angezeigten Daten die Leistung nach Interaktion wider. Sie können zur Leistung nach Pipeline oder Umsatz wechseln, indem Sie auf eine dieser Optionen klicken.
+Standardmäßig spiegeln die angezeigten Daten die Leistung nach &quot;[!UICONTROL &quot; ]. Sie können zur Leistung wechseln, indem **[!UICONTROL Pipeline]** oder **[!UICONTROL Umsatz]** einfach durch Klicken auf eine dieser Optionen auswählen.
 
 ![](assets/3.png)
 
@@ -43,16 +43,16 @@ Entdecken Sie [langfristige Trends](/help/marketo/product-docs/reporting/perform
 
 ## Einstellungen {#settings}
 
-Klicken Sie in den Dashboards Umsatz und Pipeline auf das Symbol [Einstellungen](/help/marketo/product-docs/reporting/performance-insights/performance-insights-settings.md), um zusätzliche Parameter festzulegen.
+Klicken Sie in den [!UICONTROL Umsatz] und [!UICONTROL Pipeline]-Dashboards auf das Symbol [[!UICONTROL Einstellungen]](/help/marketo/product-docs/reporting/performance-insights/performance-insights-settings.md), um zusätzliche Parameter festzulegen.
 
 ![](assets/5.png)
 
 ## Daten exportieren {#export-data}
 
-Sie können die Daten und Diagramme entweder in PowerPoint oder Excel exportieren. Sie können sie auch als [Schnelldiagramm“ ](/help/marketo/product-docs/reporting/performance-insights/performance-insights-quick-charts.md).
+Sie können die Daten und Diagramme entweder in [!DNL PowerPoint] oder [!DNL Excel] exportieren. Sie können sie auch als [Schnelldiagramm“ ](/help/marketo/product-docs/reporting/performance-insights/performance-insights-quick-charts.md).
 
 ![](assets/6.png)
 
 >[!NOTE]
 >
->Exportieren Sie Daten nach Excel, um Daten anzuzeigen, die für alle Kanäle (nicht nur für die Top 10) verfügbar sind. Der PPT-Export erfolgt nach WYSIWYG (die Ausgabe ahmt nach, was Sie auf dem Bildschirm sehen).
+>Exportieren Sie Daten nach [!DNL Excel], um Daten anzuzeigen, die für alle Kanäle (nicht nur für die Top 10) verfügbar sind. Der PPT-Export erfolgt nach WYSIWYG (die Ausgabe ahmt nach, was Sie auf dem Bildschirm sehen).

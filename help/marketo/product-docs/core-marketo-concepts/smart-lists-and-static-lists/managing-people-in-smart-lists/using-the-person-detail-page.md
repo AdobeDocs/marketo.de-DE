@@ -4,10 +4,10 @@ description: Verwenden der Seite „Personendetails“ - Marketo-Dokumente - Pro
 title: Verwenden der Seite „Personendetails“
 exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
 feature: Smart Lists
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '546'
-ht-degree: 50%
+source-wordcount: '525'
+ht-degree: 33%
 
 ---
 
@@ -60,7 +60,7 @@ Personeninformationen werden in die folgenden Registerkarten kategorisiert:
 
 >[!NOTE]
 >
->Sie können auch Opportunity-[ (über API eingefügt) für ](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/lead-database/opportunities) sehen, die nicht mit einem CRM synchronisiert wurden.
+>Sie können auch Opportunity-[ (über API eingefügt) für ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities) sehen, die nicht mit einem CRM synchronisiert wurden.
 
 ## Bearbeiten eines Felds {#editing-a-field}
 
@@ -80,14 +80,14 @@ Viele Felder können bearbeitet werden. Um die Informationen einer Person zu akt
 | Branche | Abgeleiteter Ort | Abgeleitetes Unternehmen | Abgeleitetes Land | Abgeleiteter Stadtbereich |
 | Abgeleitete Vorwahl | Abgeleitete Postleitzahl | Abgeleitetes Bundesland/abgeleitete Region | Ist anonym | Ist Kunde |
 | Ist Partner | Jobtitel | Nachname | Rating | Ergebnis |
-| Person – Quelle | Status | Haupttelefonnummer | Marketo Social – Facebook-Anzeigename | Marketo Social Facebook-ID |
-| Marketo Social – Facebook-Foto-URL | Marketo Social – Facebook-Profil-URL | Marketo Social – Facebook-Reichweite | Marketo Social – bezeichnete Registrierungen bei Facebook | Marketo Social – bezeichnete Besuche bei Facebook |
-| Marketo Social – Geschlecht | Marketo Social – letzte bezeichnete Registrierung | Marketo Social – letzter bezeichneter Besuch | Marketo Social – LinkedIn-Anzeigename | Marketo Social LinkedIn-ID |
-| Marketo Social – LinkedIn-Foto-URL | Marketo Social – LinkedIn-Profil-URL | Marketo Social – LinkedIn-Reichweite | Marketo Social – bezeichnete Registrierungen bei LinkedIn | Marketo Social – bezeichnete Besuche bei LinkedIn |
-| Marketo Social Syndication-ID | Marketo Social – bezeichnete Registrierungen insgesamt | Marketo Social – bezeichnete Besuche insgesamt | Marketo Social – Twitter-Anzeigename | Marketo Social Twitter-ID |
-| Marketo Social – Twitter-Foto-URL | Marketo Social – Twitter-Profil-URL | Marketo Social – Twitter-Reichweite | Marketo Social – bezeichnete Registrierungen bei Twitter | Marketo Social – bezeichnete Besuche bei Twitter |
+| Person – Quelle | Status | Haupttelefonnummer | Anzeigename des Marketo Social-[!DNL Facebook] | Marketo Social [!DNL Facebook] ID |
+| Foto-URL für Marketo Social [!DNL Facebook] | Profil-URL von Marketo Social [!DNL Facebook] | Marketo Social [!DNL Facebook] Reach | An Marketo Social [!DNL Facebook] weitergeleitete Registrierungen | Verwiesene Besuche bei Marketo Social [!DNL Facebook] |
+| Marketo Social – Geschlecht | Marketo Social – letzte bezeichnete Registrierung | Marketo Social – letzter bezeichneter Besuch | Anzeigename des Marketo Social-[!DNL LinkedIn] | Marketo Social [!DNL LinkedIn] ID |
+| Foto-URL für Marketo Social [!DNL LinkedIn] | Profil-URL von Marketo Social [!DNL LinkedIn] | Marketo Social [!DNL LinkedIn] Reach | An Marketo Social [!DNL LinkedIn] weitergeleitete Registrierungen | Verwiesene Besuche bei Marketo Social [!DNL LinkedIn] |
+| Marketo Social Syndication-ID | Marketo Social – bezeichnete Registrierungen insgesamt | Marketo Social – bezeichnete Besuche insgesamt | Anzeigename des Marketo Social-[!DNL Twitter] | Marketo Social [!DNL Twitter] ID |
+| Foto-URL für Marketo Social [!DNL Twitter] | Profil-URL von Marketo Social [!DNL Twitter] | Marketo Social [!DNL Twitter] Reach | An Marketo Social [!DNL Twitter] weitergeleitete Registrierungen | Verwiesene Besuche bei Marketo Social [!DNL Twitter] |
 | Zweiter Vorname | Mobiltelefonnummer | Anzahl Mitarbeiter | Telefonnummer | Postleitzahl |
-| Priorität | Relative Bewertung | Role | Anrede | SIC-Code |
+| Priorität | Relative Bewertung | Rolle | Anrede | SIC-Code |
 | Seite | Land | Abgemeldet | Ursache für Abbestellung | Aktualisiert um |
 | Dringlichkeit | Website |  |  |  |
 

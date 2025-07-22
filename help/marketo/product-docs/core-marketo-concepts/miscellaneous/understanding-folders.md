@@ -3,7 +3,7 @@ unique-page-id: 4720779
 description: Grundlegendes zu Ordnern - Marketo-Dokumente - Produktdokumentation
 title: Grundlegendes zu Ordnern
 exl-id: 2ea914f6-ca64-4e87-806c-93beba075ab2
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '267'
 ht-degree: 1%
@@ -54,7 +54,7 @@ Es ist in Ordnung, seine Meinung zu ändern.
 
 ## Archivieren von Ordnern {#archive-a-folder}
 
-In Marketo haben Sie die Möglichkeit, vorhandene Ordner in Archivordner zu konvertieren. Archivordner sind in Marketing-Aktivitäten, in der Datenbank und in Design Studio vorhanden.
+In Marketo haben Sie die Möglichkeit, vorhandene Ordner in Archivordner zu konvertieren. Archivordner sind in [!UICONTROL Marketing-Aktivitäten], [!UICONTROL Datenbank] und [!UICONTROL Design Studio] vorhanden.
 
 ![](assets/image2015-4-20-19-3a3-3a46.png)
 

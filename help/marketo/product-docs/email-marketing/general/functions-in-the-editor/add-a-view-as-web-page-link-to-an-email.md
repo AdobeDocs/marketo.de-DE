@@ -4,7 +4,7 @@ description: Hinzufügen einer Ansicht als Web-Seitenlink zu einer E-Mail - Mark
 title: Hinzufügen einer Ansicht als Web-Seitenlink zu einer E-Mail
 exl-id: 0f420d1b-6c12-4e66-9dfa-3c8f6145dc89
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # Hinzufügen einer Ansicht als Web-Seitenlink zu einer E-Mail {#add-a-view-as-web-page-link-to-an-email}
 
-E-Mails verfügen über eingeschränkte Funktionen (eingeschränktes CSS und keine JavaScript oder Formulare). Verwenden Sie Als Web-Seite anzeigen , um einen Link bereitzustellen, über den Ihre E-Mail in einem Browser angezeigt werden kann. Dadurch wird der Empfänger mithilfe der Munchkin Cookies gesetzt.
+E-Mails verfügen über eingeschränkte Funktionen (eingeschränktes CSS und keine JavaScript oder Formulare). Verwenden Sie Als Web-Seite anzeigen , um einen Link bereitzustellen, über den Ihre E-Mail in einem Browser angezeigt werden kann. Dadurch wird der Empfänger mithilfe der [!DNL Munchkin] Cookies gesetzt.
 
 >[!NOTE]
 >
 >Beim Erstellen einer neuen E-Mail ist „Als Web-Seite anzeigen“ nicht aktiviert. Wenn Sie sie aktivieren und die E-Mail klonen, wird diese Einstellung kopiert.
 
-1. Wählen Sie Ihre E-Mail aus und klicken Sie **Entwurf bearbeiten**.
+1. Wählen Sie Ihre E-Mail aus und klicken Sie **[!UICONTROL Entwurf bearbeiten]**.
 
    ![](assets/one-5.png)
 
-1. Klicken Sie im E-Mail-Editor auf **E-Mail-Einstellungen**.
+1. Klicken Sie im E-Mail-Editor auf **[!UICONTROL E-Mail-Einstellungen]**.
 
    ![](assets/two-5.png)
 
-1. Aktivieren Sie das **Als Webseite anzeigen** und klicken Sie auf **Speichern**.
+1. Aktivieren Sie das Kontrollkästchen **[!UICONTROL Als Webseitenlink anzeigen]** und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/three-4.png)
 

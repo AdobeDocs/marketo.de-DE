@@ -4,22 +4,22 @@ description: Performance Insights-Schnelldiagramme - Marketo-Dokumente - Produkt
 title: Schnelldiagramme mit Performance Insights
 exl-id: 3989ae49-7c52-4966-ba75-e58d001d0241
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 1%
 
 ---
 
-# Schnelldiagramme mit Performance Insights {#performance-insights-quick-charts}
+# [!UICONTROL Performance Insights] [!UICONTROL Schnelldiagramme] {#performance-insights-quick-charts}
 
-Schnelldiagramme sind Miniaturansichten, die Sie anpassen und speichern können, und bieten eine Schnellansicht der Diagramme, die Sie am häufigsten verwenden.
+[!UICONTROL Schnelldiagramme] sind Miniaturansichten, die Sie anpassen und speichern können und die eine Schnellansicht der Diagramme bieten, die Sie am häufigsten verwenden.
 
 ## Neues Schnelldiagramm erstellen {#create-a-new-quick-chart}
 
-Schnelldiagramme werden aus den von Ihnen angegebenen Daten abgeleitet. In diesem Beispiel wählen wir: **Neue Opportunities (Erstkontakt), Opportunity-Typ = Neues Unternehmen, aktuelles Jahr bis heute**.
+[!UICONTROL Schnelldiagramme] werden aus den von Ihnen angegebenen Daten abgeleitet. In diesem Beispiel wählen wir: **Neue Opportunities (Erstkontakt), Opportunity-Typ = Neues Unternehmen, aktuelles Jahr bis heute**.
 
-1. Klicken Sie auf den Datumsfilter und wählen Sie **Aktuelles Jahr (YTD)**.
+1. Klicken Sie auf den Datumsfilter und wählen Sie **[!UICONTROL Aktuelles Jahr (YTD)]**.
 
    ![](assets/1-2.png)
 
@@ -31,11 +31,11 @@ Schnelldiagramme werden aus den von Ihnen angegebenen Daten abgeleitet. In diese
 
    ![](assets/3-3.png)
 
-1. Klicken Sie auf das Symbol Exportieren und wählen **Als Schnelldiagramm speichern**.
+1. Klicken Sie auf das Symbol Exportieren und wählen **[!UICONTROL Als Schnelldiagramm speichern]**.
 
    ![](assets/4-2.png)
 
-1. Benennen Sie Ihr Schnelldiagramm und klicken Sie auf **Speichern**.
+1. Benennen Sie Ihr Schnelldiagramm und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/5-3.png)
 
@@ -49,7 +49,7 @@ Ihr Schnelldiagramm ist jetzt mit den anderen verfügbar.
 
 ## Anzeigen vorhandener Schnelldiagramme {#view-existing-quick-charts}
 
-1. Um Ihre vorhandenen Schnelldiagramme anzuzeigen, klicken Sie einfach auf das Symbol **Schnelldiagramme**.
+1. Um Ihre vorhandenen Schnelldiagramme anzuzeigen, klicken Sie einfach auf das Symbol **[!UICONTROL Schnelldiagramme]**.
 
    ![](assets/7-1.png)
 
@@ -57,7 +57,7 @@ Ihr Schnelldiagramm ist jetzt mit den anderen verfügbar.
 
 Wenn Sie ein Schnelldiagramm löschen müssen, führen Sie die folgenden einfachen Schritte aus.
 
-1. Klicken Sie auf **Symbol** Schnelldiagramme“.
+1. Klicken Sie auf **[!UICONTROL Symbol]** Schnelldiagramme“.
 
    ![](assets/8-1.png)
 
@@ -65,6 +65,6 @@ Wenn Sie ein Schnelldiagramm löschen müssen, führen Sie die folgenden einfach
 
    ![](assets/9-2.png)
 
-1. Klicken Sie auf **Löschen**.
+1. Klicken Sie auf **[!UICONTROL Löschen]**.
 
    ![](assets/10-1.png)

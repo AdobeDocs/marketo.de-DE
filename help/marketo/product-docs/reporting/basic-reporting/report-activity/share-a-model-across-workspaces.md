@@ -4,7 +4,7 @@ description: Modell über Arbeitsbereiche hinweg freigeben - Marketo-Dokumente -
 title: Modell über Arbeitsbereiche hinweg freigeben
 exl-id: 3a118f63-a97d-432a-a50c-3e08d934405e
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Marketo bietet die Möglichkeit, ein Modell(e) über Arbeitsbereiche hinweg freizugeben. So geht&#39;s.
 
-1. Navigieren Sie zum Abschnitt **Analytics**.
+1. Navigieren Sie zum Abschnitt **[!UICONTROL Analytics]**.
 
    ![](assets/analytics.png)
 
-1. Klicken Sie mit der rechten Maustaste auf **Ordner** Meine Modelle **und dann auf Neuer Ordner**.
+1. Klicken Sie mit der rechten Maustaste auf **[!UICONTROL Ordner]** Meine Modelle **[!UICONTROL und dann auf Neuer Ordner]**.
 
    ![](assets/image2014-10-3-14-3a5-3a23.png)
 
@@ -27,11 +27,11 @@ Marketo bietet die Möglichkeit, ein Modell(e) über Arbeitsbereiche hinweg frei
 
    ![](assets/image2014-10-3-14-3a5-3a38.png)
 
-1. Ziehen Sie das/die Modell(e), das/die Sie freigeben möchten, in den **Freigabeordner**.
+1. Ziehen Sie das/die Modell(e), das/die Sie freigeben möchten, in den **[!UICONTROL Freigabeordner]**.
 
    ![](assets/image2014-10-3-14-3a5-3a52.png)
 
-1. Klicken Sie mit der rechten Maustaste auf den Ordner und **Sie auf Ordner freigeben**.
+1. Klicken Sie mit der rechten Maustaste auf den Ordner und **[!UICONTROL Sie auf Ordner freigeben]**.
 
    ![](assets/image2014-10-3-14-3a6-3a9.png)
 
@@ -39,7 +39,7 @@ Marketo bietet die Möglichkeit, ein Modell(e) über Arbeitsbereiche hinweg frei
    >
    >Durch die Freigabe eines Modells mit einem anderen Arbeitsbereich können diese Benutzer auf Grundlage des Modells Berichte ausführen.
 
-1. Wählen Sie die Arbeitsbereiche aus, für die Sie den Ordner freigeben möchten, und klicken Sie auf **Speichern**.
+1. Wählen Sie die Arbeitsbereiche aus, für die Sie den Ordner freigeben möchten, und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/image2014-10-3-14-3a6-3a22.png)
 

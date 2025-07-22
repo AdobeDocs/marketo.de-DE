@@ -4,14 +4,14 @@ description: Aktivieren/Deaktivieren der Salesforce-Synchronisierung - Marketo-D
 title: Aktivieren/Deaktivieren der Salesforce-Synchronisierung
 exl-id: 3238f149-6aa3-4207-aae9-e404cf519414
 feature: Salesforce Integration
-source-git-commit: 4045f262889d06304111288d30da893529396e81
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
 
-# Aktivieren/Deaktivieren der Salesforce-Synchronisierung {#enable-disable-the-salesforce-sync}
+# [!DNL Salesforce] aktivieren/deaktivieren {#enable-disable-the-salesforce-sync}
 
 Wenn Sie größere Änderungen an Ihren Synchronisierungs- oder Feldeinstellungen vornehmen, sollten Sie die Synchronisierung während der Konfiguration deaktivieren. So geht&#39;s:
 
@@ -19,11 +19,11 @@ Wenn Sie größere Änderungen an Ihren Synchronisierungs- oder Feldeinstellunge
 
    ![](assets/image2014-12-10-13-3a24-3a35.png)
 
-1. Salesforce Klicken Sie unter **&#x200B;**&#x200B;auf **[!UICONTROL Synchronisierung deaktivieren]**.
+1. Salesforce Klicken Sie unter **** auf **[!UICONTROL Synchronisierung deaktivieren]**.
 
    ![](assets/image2014-12-10-13-3a24-3a47.png)
 
-1. Die bidirektionale Synchronisierung ist jetzt deaktiviert und inaktiv, bis Sie sie erneut aktivieren. Flussaktionen in Salesforce funktionieren weiterhin.
+1. Die bidirektionale Synchronisierung ist jetzt deaktiviert und inaktiv, bis Sie sie erneut aktivieren. [!DNL Salesforce] Flussaktionen funktionieren weiterhin.
 
    ![](assets/image2014-12-10-13-3a24-3a58.png)
 

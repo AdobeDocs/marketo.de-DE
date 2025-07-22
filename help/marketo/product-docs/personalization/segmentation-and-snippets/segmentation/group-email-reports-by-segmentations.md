@@ -4,7 +4,7 @@ description: E-Mail-Berichte nach Segmentierungen gruppieren - Marketo-Dokumente
 title: E-Mail-Berichte nach Segmenten gruppieren
 exl-id: dd023dca-02a4-40c7-9cb8-53024597e671
 feature: Segmentation
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 3%
@@ -19,23 +19,23 @@ Segmentierungen dienen nicht nur dynamischen Inhalten. Sie können Ihren E-Mail-
 >
 >[Segmentierung genehmigen](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)
 
-1. Navigieren Sie zum Bereich **Marketing** (oder **Analytics**).
+1. Navigieren Sie zum Bereich **[!UICONTROL Marketing]** (oder **[!UICONTROL Analytics]**).
 
    ![](assets/image2014-9-16-9-3a15-3a58.png)
 
-1. Wählen Sie Ihren **E-Mail** Leistungsbericht.
+1. Wählen Sie Ihren **[!UICONTROL E-Mail]** Leistungsbericht.
 
    ![](assets/image2014-9-16-9-3a16-3a6.png)
 
-1. Klicken Sie auf **Setup** und ziehen Sie per Drag-and **Drop auf „Gruppieren nach Segmentierungen**.
+1. Klicken Sie auf **[!UICONTROL Setup]** und ziehen Sie per Drag-and **[!UICONTROL Drop auf „Gruppieren nach Segmentierungen]**.
 
    ![](assets/image2014-9-16-9-3a16-3a59.png)
 
-1. Wählen Sie ein oder zwei Segmente aus, die für die Gruppierung Ihres Berichts verwendet werden sollen. Klicken Sie auf **Übernehmen**.
+1. Wählen Sie ein oder zwei Segmente aus, die für die Gruppierung Ihres Berichts verwendet werden sollen. Klicken Sie auf **[!UICONTROL Übernehmen]**.
 
    ![](assets/image2014-9-16-9-3a17-3a9.png)
 
-1. Das ist alles! Klicken Sie auf **Registerkarte** Bericht“. Wenn Sie eine Segmentierung verwenden, zeigt Ihr Bericht für jedes Segment eine Zeile an.
+1. Das ist alles! Klicken Sie auf **[!UICONTROL Registerkarte]** Bericht“. Wenn Sie eine Segmentierung verwenden, zeigt Ihr Bericht für jedes Segment eine Zeile an.
 
    ![](assets/image2014-9-16-9-3a17-3a17.png)
 

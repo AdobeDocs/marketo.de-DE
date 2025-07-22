@@ -4,10 +4,10 @@ description: Funktionsübersicht - Marketo-Dokumente - Produktdokumentation
 title: Funktionsübersicht
 exl-id: 3e6f21bf-3383-4e2d-952f-9b4e67896a58
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 30%
+source-wordcount: '168'
+ht-degree: 35%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 30%
 
 Die folgenden Funktionen sind in der neuen MSI MSD-Lösung verfügbar.
 
-## Bedienfeld &quot;Marketo Sales Insight“ im Lead-Layout  {#marketo-sales-insight-panel-in-lead-layout}
+## Bedienfeld [!DNL Marketo Sales Insight] Lead-Layout  {#marketo-sales-insight-panel-in-lead-layout}
 
 * Sterne und Flammen
 * Interessanter Moment
@@ -23,24 +23,24 @@ Die folgenden Funktionen sind in der neuen MSI MSD-Lösung verfügbar.
 * Ergebnis
 * E-Mail (Öffnen und Klicken)
 
-## Benutzerdefinierte Felder für Marketo Sales Insight im Lead-Layout  {#marketo-sales-insight-custom-fields-in-lead-layout}
+## Benutzerdefinierte Felder im Lead-Layout [!DNL Marketo Sales Insight]  {#marketo-sales-insight-custom-fields-in-lead-layout}
 
 * Lead-Bewertung
 * Relative Bewertung
 * Priorität
 * Dringlichkeit
 
-## Schaltfläche für Aktionsaufruf in Marketo Sales Insight im Lead-Layout  {#marketo-sales-insight-call-to-action-button-in-lead-layout}
+## Schaltfläche &quot;call to action [!DNL Marketo Sales Insight]&quot; im Lead-Layout  {#marketo-sales-insight-call-to-action-button-in-lead-layout}
 
 * Zu Marketo-Kampagne hinzufügen
 * Marketo-E-Mail senden
 
-## Massenaktion-Schaltfläche für Marketo Sales Insight in der Lead-Listenansicht  {#marketo-sales-insight-bulk-action-button-in-lead-list-view}
+## Schaltfläche für Massenaktion in der Lead-Listenansicht [!DNL Marketo Sales Insight]  {#marketo-sales-insight-bulk-action-button-in-lead-list-view}
 
 * Zu Marketo-Kampagne hinzufügen
 * Marketo-E-Mail senden
 
-## Bedienfeld &quot;Marketo Sales Insight“ im Kontakt-Layout  {#marketo-sales-insight-panel-in-contact-layout}
+## Bedienfeld im Kontakt-Layout [!DNL Marketo Sales Insight]  {#marketo-sales-insight-panel-in-contact-layout}
 
 * Sterne und Flammen
 * Interessanter Moment
@@ -48,24 +48,24 @@ Die folgenden Funktionen sind in der neuen MSI MSD-Lösung verfügbar.
 * Ergebnis
 * E-Mail (Öffnen und Klicken)
 
-## Benutzerdefinierte Marketo Sales Insight-Felder im Kontakt-Layout  {#marketo-sales-insight-custom-fields-in-contact-layout}
+## Benutzerdefinierte Felder im Kontakt-Layout [!DNL Marketo Sales Insight]  {#marketo-sales-insight-custom-fields-in-contact-layout}
 
 * Lead-Bewertung
 * Relative Bewertung
 * Priorität
 * Dringlichkeit
 
-## Schaltfläche für Aktionsaufruf in Marketo Sales Insight im Kontakt-Layout  {#marketo-sales-insight-call-to-action-button-in-contact-layout}
+## Schaltfläche &quot;call to action [!DNL Marketo Sales Insight]&quot; im Kontakt-Layout  {#marketo-sales-insight-call-to-action-button-in-contact-layout}
 
 * Zu Marketo-Kampagne hinzufügen
 * Marketo-E-Mail senden
 
-## Massenaktion-Schaltfläche für Marketo Sales Insight in der Kontaktlistenansicht  {#marketo-sales-insight-bulk-action-button-in-contact-list-view}
+## Schaltfläche für Massenaktion in der Kontaktlistenansicht [!DNL Marketo Sales Insight]  {#marketo-sales-insight-bulk-action-button-in-contact-list-view}
 
 * Zu Marketo-Kampagne hinzufügen
 * Marketo-E-Mail senden
 
-## Bedienfeld &quot;Marketo Sales Insights“ im Konto-Layout {#marketo-sales-insight-panel-in-account-layout}
+## Bedienfeld im Konto-Layout [!DNL Marketo Sales Insight] {#marketo-sales-insight-panel-in-account-layout}
 
 * Sterne und Flammen
 * Interessanter Moment

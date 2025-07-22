@@ -4,9 +4,9 @@ description: Hinzufügen eines Links zu einem Freiform-Landingpage-Bild - Market
 title: Hinzufügen eines Links zu einem Freiform-Landingpage-Bild
 exl-id: 74560863-b135-4e0e-b84d-9462aacbb902
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '83'
 ht-degree: 2%
 
 ---
@@ -21,11 +21,11 @@ ht-degree: 2%
 >
 >Dies gilt nur für Freiform-Landingpages.
 
-1. Wählen Sie das Bild aus, das Sie Ihrer Landingpage hinzugefügt haben, und erweitern Sie das **Eigenschaftenblatt“**
+1. Wählen Sie das Bild aus, das Sie Ihrer Landingpage hinzugefügt haben, und erweitern Sie das **[!UICONTROL Eigenschaftenblatt].**
 
    ![](assets/image2014-9-18-15-3a29-3a0.png)
 
-1. Geben Sie Ihren mailto-Link in die **Link-URL ein**
+1. Geben Sie Ihren mailto-Link in das Feld **[!UICONTROL linkUrl] ein.**
 
    ![](assets/image2014-9-18-15-3a29-3a21.png)
 

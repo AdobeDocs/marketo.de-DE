@@ -4,7 +4,7 @@ description: Hinzufügen benutzerdefinierter Kennzahlen zu einem Umsatz-Explorer
 title: Hinzufügen benutzerdefinierter Kennzahlen zu einem Umsatz-Explorer-Bericht
 exl-id: 1f9230eb-4ea4-48d7-a269-76f9e589d3cd
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Im folgenden Beispiel erstellen Sie eine berechnete Kennzahl für Softbounces, b
 
 1. Überziehen Sie die Felder, die Sie für Ihren Bericht benötigen. Weitere [ finden Sie unter „Hinzufügen von Feldern zu einem ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)&quot;.
 
-1. Klicken Sie mit der rechten Maustaste auf eine vorhandene Metrik (blaue Zelle), klicken Sie auf **Benutzerdefinierte Kennzahl** und wählen Sie **Berechnete Kennzahl**.
+1. Klicken Sie mit der rechten Maustaste auf eine vorhandene Metrik (blaue Zelle), klicken Sie auf **[!UICONTROL Benutzerdefinierte Kennzahl]** und wählen Sie **[!UICONTROL Berechnete Kennzahl]**.
 
    ![](assets/image2016-1-26-11-3a7-3a49.png)
 
@@ -39,7 +39,7 @@ Im folgenden Beispiel erstellen Sie eine berechnete Kennzahl für Softbounces, b
    >
    >Sie können die mathematischen Symbole selbst eingeben oder das Auswahlfeld verwenden.
 
-1. Wenn Sie fertig sind, klicken Sie auf **OK**.
+1. Wenn Sie fertig sind, klicken Sie auf **[!UICONTROL OK]**.
 
    ![](assets/image2016-1-26-11-3a37-3a27.png)
 

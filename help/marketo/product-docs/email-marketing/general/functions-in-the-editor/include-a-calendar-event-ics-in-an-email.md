@@ -4,7 +4,7 @@ description: Einschließen eines Kalenderereignisses (.ics) in eine E-Mail - Mar
 title: Kalenderereignis (.ics) in eine E-Mail einschließen
 exl-id: 077181ec-73e7-4b58-a473-46b0764d6b32
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 2%
@@ -19,15 +19,15 @@ Mit einem Kalenderdatei-Token können Sie einen Kalenderereignis-Link (.ics) zu 
 >
 >[Erstellen einer Kalenderereignisdatei (.ics)](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
 
-1. Klicken Sie beim Bearbeiten der E-Mail-Adresse Ihres Programms an die Stelle, an die das Token gesendet werden soll, und klicken Sie dann auf die Schaltfläche Token einfügen .
+1. Klicken Sie beim Bearbeiten der E-Mail-Adresse Ihres Programms auf die gewünschte Stelle für das Token und anschließend auf die Schaltfläche **Token einfügen**.
 
 ![](assets/one-6.png)
 
-1. Wählen Sie das Kalenderdatei-Token aus und klicken Sie auf **Einfügen**.
+1. Wählen Sie das Kalenderdatei-Token aus und klicken Sie auf **[!UICONTROL Einfügen]**.
 
    ![](assets/image2014-9-11-16-3a53-3a30.png)
 
-1. Klicken Sie auf **Speichern**.
+1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/three-5.png)
 

@@ -4,7 +4,7 @@ description: Umleiten eines URL-Pfads - Marketo-Dokumente - Produktdokumentation
 title: Umleiten eines URL-Pfads
 exl-id: 5857971a-507b-4946-b131-a5a74eef0d9a
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -19,15 +19,15 @@ Marketo erleichtert die Umleitung eines URL-Pfads zu einer beliebigen Seite. So 
 >
 >**Administratorberechtigungen erforderlich**
 
-1. Klicken **unter** auf **Landingpages**.
+1. Klicken **[!UICONTROL unter]** auf **[!UICONTROL Landingpages]**.
 
    ![](assets/image2014-9-18-13-3a43-3a29.png)
 
-1. Klicken Sie auf die **Regeln** und dann auf **Neu** und **Neue Umleitungsregel**.
+1. Klicken Sie auf die **[!UICONTROL Regeln]** und dann auf **[!UICONTROL Neu]** und **[!UICONTROL Neue Umleitungsregel]**.
 
    ![](assets/image2014-9-18-13-3a43-3a40.png)
 
-1. Klicken Sie auf die erste **Original-URL** Dropdown-Liste und wählen Sie Ihren Marketo-CNAME aus.
+1. Klicken Sie auf die erste **[!UICONTROL Original-URL]** Dropdown-Liste und wählen Sie Ihren Marketo-CNAME aus.
 
    ![](assets/image2014-9-18-13-3a43-3a49.png)
 
@@ -35,11 +35,11 @@ Marketo erleichtert die Umleitung eines URL-Pfads zu einer beliebigen Seite. So 
    >
    >Denken Sie daran, dass Sie nur URLs umleiten können, die mit Ihrem Marketo ([) ](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
 
-1. Geben Sie den URL-Pfad (oder eine bestimmte Seite), den/die Sie umleiten möchten, im zweiten Feld **Ursprüngliche URL** auf der rechten Seite ein.
+1. Geben Sie den URL-Pfad (oder eine bestimmte Seite), den/die Sie umleiten möchten, im zweiten Feld **[!UICONTROL Ursprüngliche URL]** auf der rechten Seite ein.
 
    ![](assets/image2014-9-18-13-3a43-3a59.png)
 
-1. Klicken Sie **Nicht-Marketo-Landingpage verwenden**, geben Sie die Seite, zu der Sie Besucher umleiten möchten, in das Feld **Umleitungs-URL** ein und klicken Sie auf **Erstellen**.
+1. Klicken Sie **[!UICONTROL Nicht-Marketo-Landingpage verwenden]**, geben Sie die Seite, zu der Sie Besucher umleiten möchten, in das Feld **[!UICONTROL Umleitungs-URL]** ein und klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/image2014-9-18-13-3a44-3a7.png)
 

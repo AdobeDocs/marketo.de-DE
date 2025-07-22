@@ -4,9 +4,9 @@ description: Grundlegendes zu meinen Token in einem Programm - Marketo-Dokumente
 title: Grundlegendes zu meinen Token in einem Programm
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-source-git-commit: f21d9356f00f8ea50819b591d15ca06d61256d8b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '414'
 ht-degree: 4%
 
 ---
@@ -46,7 +46,7 @@ Beispiele:
   </tr> 
   <tr> 
    <td>E-Mail-Script <img alt="--" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>Verwenden Sie dieses Token, um ein Velocity-Skript in Ihren E-Mails auszuführen. <a href="https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/email-scripting" title="Link folgen" rel="nofollow">Weitere Informationen</a>. </td> 
+   <td>Verwenden Sie dieses Token, um ein Velocity-Skript in Ihren E-Mails auszuführen. <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting" title="Link folgen" rel="nofollow">Weitere Informationen</a>. </td> 
   </tr> 
   <tr> 
    <td>Zahl<span> <img alt="--" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td> 
@@ -73,7 +73,7 @@ Beispiele:
 
 >[!CAUTION]
 >
->Meine Token werden beim Senden einer E-Mail von Sales Insight auf Microsoft Dynamics oder Salesforce nicht aufgelöst. Nur Standard-Token werden ausgefüllt (Lead, Unternehmen usw.). Die Standardwerte für Token _werden_ funktionieren jedoch.
+>Meine Token werden beim Senden einer E-Mail von Sales Insight auf [!DNL Microsoft Dynamics] oder [!DNL Salesforce] nicht aufgelöst. Nur Standard-Token werden ausgefüllt (Lead, Unternehmen usw.). Die Standardwerte für Token _werden_ funktionieren jedoch.
 
 ## Verschachteln von Token {#nesting-tokens}
 

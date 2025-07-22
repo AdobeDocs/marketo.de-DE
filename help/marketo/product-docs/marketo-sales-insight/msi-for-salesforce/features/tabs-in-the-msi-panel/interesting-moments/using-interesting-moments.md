@@ -4,20 +4,20 @@ description: Verwenden interessanter Momente - Marketo-Dokumente - Produktdokume
 title: Verwenden interessanter Momente
 exl-id: ccf7664b-08e1-490a-a3f9-5fa3bd8fb05f
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '450'
+source-wordcount: '428'
 ht-degree: 0%
 
 ---
 
 # Verwenden interessanter Momente {#using-interesting-moments}
 
-Interessante Momente sind der Schlüssel zur Kommunikation mit Ihrem Vertriebsteam über die Marketo Sales Insight-App.
+Interessante Momente sind der Schlüssel zur Kommunikation mit Ihrem Vertriebsteam über die [!DNL Marketo Sales Insight] App.
 
 >[!AVAILABILITY]
 >
->Diese sind nur für Kunden von Marketo Sales Insight und [Marketo ](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md) Connect verfügbar.
+>Diese sind nur für [!DNL Marketo Sales Insight] und [[!DNL Marketo Sales Connect]](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md) Kunden verfügbar.
 
 ## Was ist ein interessanter Moment? {#what-is-an-interesting-moment}
 
@@ -33,15 +33,15 @@ Das liegt an dir! Sie entscheiden, welche Informationen für Ihr Vertriebsteam r
 
    ![](assets/using-interesting-moments-1.png)
 
-1. Ziehen Sie über den **Interessante Momente** Flussschritt.
+1. Ziehen Sie über den **[!UICONTROL Interessante Momente]** Flussschritt.
 
    ![](assets/using-interesting-moments-2.png)
 
-1. Wählen Sie einen **Typ** aus (E-Mail, Meilenstein oder Web).
+1. Wählen Sie einen **Typ** aus ([!UICONTROL E-Mail], [!UICONTROL Milestone] oder [!UICONTROL Web]).
 
    ![](assets/using-interesting-moments-3.png)
 
-1. Schreiben Sie eine Nachricht an Ihr Vertriebsteam im Feld **Beschreibung**, in der erläutert wird, warum diese Aktion wichtig ist.
+1. Schreiben Sie eine Nachricht an Ihr Vertriebsteam im Feld **[!UICONTROL Beschreibung]**, in der erläutert wird, warum diese Aktion wichtig ist.
 
    ![](assets/using-interesting-moments-4.png)
 
@@ -63,29 +63,29 @@ Interessante Momente werden im Aktivitätsprotokoll eines [Leads) ](/help/market
 
 ![](assets/using-interesting-moments-5.png)
 
-## Wie sieht ein interessanter Moment in Salesforce aus?  {#what-does-an-interesting-moment-look-like-in-salesforce}
+## Wie sieht ein interessanter Moment in [!DNL Salesforce] aus?  {#what-does-an-interesting-moment-look-like-in-salesforce}
 
-Nach der [ der Marketo Sales Insight App ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) interessante Momente auf den Lead-, Kontakt-, Account- oder Opportunity-Seiten angezeigt. Sie werden auch im Dashboard Sales Insights in der Lead-Feed-, Best-Bets- und Überwachungsliste angezeigt.
+Sobald Sie [App [!DNL Marketo Sales Insight]  installiert haben](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) werden interessante Momente auf den Lead-, Kontakt-, Konto- oder Opportunity-Seiten angezeigt. Sie werden auch im Dashboard [!DNL Sales Insight] in den Listen Lead-Feed, [!DNL Best Bets] und Beobachtung angezeigt.
 
 ![](assets/using-interesting-moments-6.png)
 
-## Wie sieht ein interessanter Moment in Salesforce1 aus? {#what-does-an-interesting-moment-look-like-in-salesforce-1}
+## Wie sieht ein interessanter Moment in [!DNL Salesforce1] aus? {#what-does-an-interesting-moment-look-like-in-salesforce-1}
 
-Nachdem Sie Marketo Sales Insight für Salesforce1 installiert oder aktualisiert haben, werden unter den zugehörigen Links des Leads interessante Momente angezeigt.
+Nachdem Sie [!DNL Marketo Sales Insight] für [!DNL Salesforce1] installiert oder aktualisiert haben, werden unter den zugehörigen Links des Leads interessante Momente angezeigt.
 
 ![](assets/using-interesting-moments-7.png)
 
 ## Abonnieren interessanter Momente {#subscribe-to-interesting-moments}
 
-Sie können einen interessanten Moment abonnieren, indem Sie entweder auf der Registerkarte Interessantes Moment oder im Lead-Feed auf die Schaltfläche Abonnieren klicken. Die folgenden Schritte sind für beide identisch.
+Sie können einen interessanten Moment abonnieren, indem Sie auf die Schaltfläche [!UICONTROL Abonnieren] entweder auf der Registerkarte Interessantes Moment oder im Lead-Feed klicken. Die folgenden Schritte sind für beide identisch.
 
 1. Klicken Sie auf das Symbol Abonnieren . Sie werden dann zur Registerkarte E-Mail-Abonnement navigiert.
 
-1. Sie können den gewünschten E-Mail-Warnhinweistyp nach Name, Konto, Typ oder Beschreibung auswählen.
+1. Sie können den Typ des E-Mail-Warnhinweises auswählen, den Sie erhalten möchten, basierend [!UICONTROL Name], [!UICONTROL Konto], [!UICONTROL Typ] oder [!UICONTROL Beschreibung].
 
 1. Wählen Sie, an welche E-Mail-Adresse(n) Sie die Warnhinweise senden möchten (Sie selbst/Teammitglieder).
 
-1. Klicken Sie **Abonnieren**.
+1. Klicken Sie **[!UICONTROL Abonnieren]**.
 
 >[!NOTE]
 >

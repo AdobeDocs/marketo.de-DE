@@ -4,9 +4,9 @@ description: AB-Test Ihrer Web-Kampagne - Marketo-Dokumente - Produktdokumentati
 title: AB-Test der Web-Kampagne
 exl-id: 65d61b96-d39b-4388-971d-260c9c0aff93
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '330'
 ht-degree: 1%
 
 ---
@@ -15,15 +15,15 @@ ht-degree: 1%
 
 Testen ist eine hervorragende Möglichkeit, um Ihre Web-Kampagnen für eine bessere Interaktion zu optimieren. So fängt man an.
 
-Um Ihre personalisierten Kampagnen A/B-Tests zu unterziehen, können Sie zwei oder mehr Kampagnen auswählen, sie derselben **Split-Test**-Gruppe zuordnen und **Auto-Tune** auswählen, um automatisch mit der Kampagne mit der besten Leistung fortzufahren.
+Um Ihre personalisierten Kampagnen A/B-Tests zu unterziehen, können Sie zwei oder mehr Kampagnen auswählen, sie derselben **[!UICONTROL Split-Test]**-Gruppe zuordnen und **[!UICONTROL Auto-Tune]** auswählen, um automatisch mit der Kampagne mit der besten Leistung fortzufahren.
 
 >[!TIP]
 >
->Wenn Sie lieber manuell berechnen und sehen möchten, welche Kampagne eine bessere Leistung erzielt, aktivieren Sie die automatische Abstimmung nicht.
+>Wenn Sie es vorziehen, manuell zu berechnen und zu sehen, welche Kampagne eine bessere Leistung erzielt, aktivieren Sie nicht [!UICONTROL Auto-Tune].
 
 ## Einrichten eines A/B-Split-Tests {#how-to-set-up-a-split-a-b-test}
 
-1. Wechseln Sie zu Web-Kampagnen.
+1. Gehen Sie zu **[!UICONTROL Web-Kampagnen]**.
 
    ![](assets/web-campaigns-hand-2.jpg)
 
@@ -31,39 +31,39 @@ Um Ihre personalisierten Kampagnen A/B-Tests zu unterziehen, können Sie zwei od
    >
    >Um das Auffinden der gewünschten Kampagne zu vereinfachen, verwenden Sie die [Filterfunktion](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
-1. Wählen Sie die erste Kampagne aus, die Sie A/B-Tests unterziehen möchten. Klicken Sie auf **Bearbeiten**.
+1. Wählen Sie die erste Kampagne aus, die Sie A/B-Tests unterziehen möchten. Klicken Sie auf **[!UICONTROL Bearbeiten]**.
 
    ![](assets/image2016-11-4-13-3a46-3a37.png)
 
-1. Wählen Sie auf der Kampagnenseite &quot;**&quot; und** Sie auf **Neu erstellen**.
+1. Wählen Sie auf der Kampagnenseite &quot;**[!UICONTROL &quot; und]** Sie auf **[!UICONTROL Neu erstellen]**.
 
    ![](assets/image2014-11-26-16-3a47-3a18.png)
 
-1. Geben Sie den **Namen der aufgeteilten Testgruppe** ein und klicken Sie auf **Erstellen**. Wählen Sie **Auto-Tune** aus.
+1. Geben Sie den **Namen der aufgeteilten Testgruppe** ein und klicken Sie auf **[!UICONTROL Erstellen]**. Wählen Sie **[!UICONTROL Auto Tune]** aus.
 
    ![](assets/image2014-11-26-16-3a52-3a24.png)
 
-1. **Speichern** oder **Starten** der Kampagne.
+1. **[!UICONTROL Speichern]** oder **[!UICONTROL Starten]** der Kampagne.
 
    >[!TIP]
    >
-   >Wenn Sie **Auto-Tune** auswählen, erkennt die Web-Personalization-Plattform automatisch die Split-Testkampagne mit den besseren Ergebnissen und behält die höchste Konvertierungskampagne bei, während die anderen angehalten werden.
+   >Wenn Sie **[!UICONTROL AutoTune]** auswählen, erkennt die [!DNL Web Personalization]-Plattform automatisch die Split-Test-Kampagne mit der besseren Leistung und fährt mit der höchsten Konvertierungskampagne fort, während die anderen angehalten werden.
 
 1. Wiederholen Sie den obigen Vorgang mit der zweiten Kampagne.
 
-1. Wählen Sie die zweite Kampagne aus, die Sie A/B-Tests unterziehen möchten. Klicken Sie auf **Bearbeiten**.
+1. Wählen Sie die zweite Kampagne aus, die Sie A/B-Tests unterziehen möchten. Klicken Sie auf **[!UICONTROL Bearbeiten]**.
 
    ![](assets/image2016-11-4-13-3a51-3a39.png)
 
-1. Wählen Sie auf der **Kampagnensatz** die Option **Aufspaltungstest** und wählen Sie die **Gruppe** aus der Dropdown-Liste aus. Wählen Sie **Auto-Tune** aus.
+1. Wählen Sie auf der **[!UICONTROL Kampagnensatz]** die Option **Aufspaltungstest** und wählen Sie die **Gruppe** aus der Dropdown-Liste aus. Wählen Sie **[!UICONTROL Auto Tune]** aus.
 
    ![](assets/image2014-11-26-17-3a2-3a17.png)
 
-1. **Speichern** oder **Starten** der Kampagne.
+1. **[!UICONTROL Speichern]** oder **[!UICONTROL Starten]** der Kampagne.
 
 1. Wiederholen Sie diesen Vorgang für eine dritte oder vierte zu testende Kampagne.
 
-1. In **Web** Kampagnen) können Sie die aufgeteilten Testkampagnen sehen, die durch das A/B-Symbol gekennzeichnet sind.
+1. In **[!UICONTROL Web]** Kampagnen) können Sie die aufgeteilten Testkampagnen sehen, die durch das A/B-Symbol gekennzeichnet sind.
 
    ![](assets/image2016-11-4-13-3a55-3a5.png)
 

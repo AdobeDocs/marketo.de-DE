@@ -4,7 +4,7 @@ description: Übersicht über Email Insights Analytics - Marketo-Dokumente - Pro
 title: Email Insights Analytics-Übersicht
 exl-id: 370720f7-bbe1-4143-b2be-15854e1ffe55
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Email Insights Analytics-Übersicht {#email-insights-analytics-overview}
 
-Untersuchen Sie in Analytics die aggregierten Daten für E-Mail-Versand und Interaktion. Verwenden Sie das Diagramm auf der linken Seite, um Daten zu erkunden, die Einblicke auf der rechten Seite für ein besser geführtes Erlebnis.
+Untersuchen Sie [!UICONTROL Analytics] aggregierte Daten für den E-Mail-Versand und die Interaktion. Verwenden Sie das Diagramm auf der linken Seite, um Daten zu erkunden, die Einblicke auf der rechten Seite für ein besser geführtes Erlebnis.
 
 ![](assets/emailanalytics-1.jpg)
 
@@ -55,7 +55,7 @@ Rechts auf der Seite finden Sie anhand geführter Metriken relevante Treiber. Kl
 
 >[!NOTE]
 >
->Siehst du oben rechts die Aktualisierung? Wenn Sie sie sehen, müssen Sie manuell darauf klicken, um das Insights-Modul zu aktualisieren. Sie wird nur angezeigt, wenn Sie Änderungen an Filtern vorgenommen haben, durch die die aktuellen Werte ungültig würden.
+>Sehen Sie [!UICONTROL  oben ] „Aktualisieren“? Wenn Sie sie sehen, müssen Sie manuell darauf klicken, um das Insights-Modul zu aktualisieren. Sie wird nur angezeigt, wenn Sie Änderungen an Filtern vorgenommen haben, durch die die aktuellen Werte ungültig würden.
 
 Sie können auch angeben, was angezeigt wird (von links nach rechts): Alle, Zielgruppe, Inhalte und Plattform.
 

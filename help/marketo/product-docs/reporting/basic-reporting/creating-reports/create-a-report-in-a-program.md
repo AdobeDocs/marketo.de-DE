@@ -4,7 +4,7 @@ description: Erstellen eines Berichts in einem Programm - Marketo-Dokumente - Pr
 title: Erstellen eines Berichts in einem Programm
 exl-id: 3a80c10f-3113-46c2-a2e7-7ba2e3f4783f
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Führen Sie einen Bericht aus, um Personen, Ihre Programme, Landingpages, E-Mails und Social-Media-Assets zu analysieren.
 
-1. Navigieren Sie **Marketing-Aktivitäten**.
+1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -25,17 +25,17 @@ Führen Sie einen Bericht aus, um Personen, Ihre Programme, Landingpages, E-Mail
 
    >[!NOTE]
    >
-   >Sie können Berichte auch über die Registerkarte **Analytics** erstellen.
+   >Sie können Berichte auch über die Registerkarte **[!UICONTROL Analytics]** erstellen.
 
-1. Klicken Sie mit der rechten Maustaste auf das Programm und wählen Sie **Neues lokales Asset**.
+1. Klicken Sie mit der rechten Maustaste auf das Programm und wählen Sie **[!UICONTROL Neues lokales Asset]**.
 
    ![](assets/programrightclick-asset.png)
 
-1. Klicken Sie auf **Bericht**.
+1. Klicken Sie auf **[!UICONTROL Bericht]**.
 
    ![](assets/image2014-9-15-18-3a36-3a46.png)
 
-1. Wählen Sie den Bericht **Typ**.
+1. Wählen Sie den Bericht **[!UICONTROL Typ]**.
 
    ![](assets/choosereport.png)
 
@@ -53,7 +53,7 @@ Führen Sie einen Bericht aus, um Personen, Ihre Programme, Landingpages, E-Mail
 
 1. Legen Sie den Zeitrahmen Ihres Berichts fest. Siehe [Ändern des Berichtszeitrahmens](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) für weitere Details.
 
-1. Klicken Sie auf **Bericht**, um Ihre Statistiken anzuzeigen.
+1. Klicken Sie auf **[!UICONTROL Bericht]**, um Ihre Statistiken anzuzeigen.
 
    ![](assets/image2014-9-15-18-3a38-3a5.png)
 

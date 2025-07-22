@@ -4,7 +4,7 @@ description: Verwenden des URL Builders - Marketo-Dokumente - Produktdokumentati
 title: Verwenden des URL Builders
 exl-id: f8c1e459-f50f-4f74-bf8a-1f1b64fcf46c
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 1%
@@ -19,11 +19,11 @@ Der URL Builder hilft Ihnen beim Erstellen von URLs, die in ausgeblendete Formul
 >
 >Erfahren Sie, wie Sie in Formularen ausgeblendete Felder erstellen und ihre Einstellungen in [Formularfeld als ausgeblendet festlegen](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.md) bearbeiten.
 
-1. Wählen Sie eine Landingpage aus, klicken Sie auf **Landingpage-Aktionen** bewegen Sie den Mauszeiger über **URL-Tools** und klicken Sie dann auf **URL-Builder**.
+1. Wählen Sie eine Landingpage aus, klicken Sie auf **[!UICONTROL Landingpage-Aktionen]** bewegen Sie den Mauszeiger über **[!UICONTROL URL-Tools]** und klicken Sie dann auf **[!UICONTROL URL-Builder]**.
 
    ![](assets/image2014-9-18-13-3a5-3a19.png)
 
-1. Wählen Sie die gewünschten Felder aus, geben Sie den Wert ein und klicken Sie auf **URL aktualisieren**.
+1. Wählen Sie die gewünschten Felder aus, geben Sie den Wert ein und klicken Sie auf **[!UICONTROL URL aktualisieren]**.
 
    ![](assets/image2014-9-18-13-3a5-3a28.png)
 

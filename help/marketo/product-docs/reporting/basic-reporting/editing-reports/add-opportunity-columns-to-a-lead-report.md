@@ -4,10 +4,10 @@ description: Hinzufügen von Opportunity-Spalten zu einem Lead-Bericht - Marketo
 title: Hinzufügen von Opportunity-Spalten zu einem Lead-Bericht
 exl-id: 446befcd-a2fe-478b-9f36-288a6a31adbd
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '280'
-ht-degree: 12%
+ht-degree: 0%
 
 ---
 
@@ -15,23 +15,23 @@ ht-degree: 12%
 
 Um die Statistiken zu Opportunitys in Ihren Personenberichten anzuzeigen, können Sie Opportunity-Spalten hinzufügen.
 
-1. Navigieren Sie zum Bereich **Marketing** Aktivitäten.
+1. Navigieren Sie zum Bereich **[!UICONTROL Marketing]** Aktivitäten.
 
    ![](assets/ma.png)
 
-1. Wählen Sie Ihren Bericht im Navigationsbaum aus und klicken Sie auf die Registerkarte **Setup**.
+1. Wählen Sie Ihren Bericht im Navigationsbaum aus und klicken Sie auf die Registerkarte **[!UICONTROL Setup]**.
 
    ![](assets/two.png)
 
-1. Doppelklicken Sie auf **Opportunity-Spalten**.
+1. Doppelklicken Sie auf **[!UICONTROL Opportunity-Spalten]**.
 
    ![](assets/three.png)
 
-1. Wählen **aus** Dropdown-Menü aus.
+1. Wählen **[!UICONTROL aus]** Dropdown-Menü aus.
 
    ![](assets/image2014-9-16-12-3a50-3a33.png)
 
-1. Klicken Sie auf **Bericht**, um Ihren Bericht mit Opportunity-Metriken anzuzeigen.
+1. Klicken Sie auf **[!UICONTROL Bericht]**, um Ihren Bericht mit Opportunity-Metriken anzuzeigen.
 
    ![](assets/five.png)
 
@@ -39,7 +39,7 @@ Um die Statistiken zu Opportunitys in Ihren Personenberichten anzuzeigen, könne
    >
    >Scrollen Sie nach rechts, um weitere Spalten anzuzeigen.
 
-1. Um Spalten [ oder aus dem Bericht zu entfernen](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) klicken Sie auf eine beliebige Spaltenüberschrift und wählen Sie **Spalten** aus.
+1. Um Spalten [ oder aus dem Bericht zu entfernen](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) klicken Sie auf eine beliebige Spaltenüberschrift und wählen Sie **[!UICONTROL Spalten]** aus.
 
    ![](assets/six.png)
 
@@ -51,20 +51,20 @@ Um die Statistiken zu Opportunitys in Ihren Personenberichten anzuzeigen, könne
 
    | Spalte | Beschreibung |
    |---|---|
-   | Keine Opportunity | Anzahl der Personen, die *kein* Opportunity-Kontakt sind. |
-   | Keine Opportunity – Tage | Durchschnittsalter (in Tagen) der Personen, die *kein* sind. |
-   | Hat Opportunity | Anzahl der Personen, die ein primärer Opportunity-Kontakt sind. |
-   | Hat Opportunity % | Prozentsatz der Personen, die ein primärer Opportunity-Kontakt sind. |
-   | Tage bis Opportunity | Durchschnittliche Anzahl der Tage für die Konversion von der Person zum primären Opportunity-Kontakt. |
-   | Opportunity-Gesamtbetrag | Summe aller Opportunity-Beträge. |
-   | Durchschnittlicher Opportunity-Betrag | Summe der Opportunity-Beträge, geteilt durch die Anzahl der Opportunities. |
-   | Opportunity-Gesamtzahl | Anzahl aller Gelegenheiten. |
-   | Geschlossen | Anzahl der Opportunitys, die geschlossen, gewonnen oder verloren wurden. |
-   | Gewonnen | Anzahl der gewonnenen Gelegenheiten. |
-   | % Gewonnen | Prozentsatz der gewonnenen Gelegenheiten. |
-   | Gewonnener Gesamtbetrag | Summe der gewonnenen Opportunity-Beträge. |
-   | Tage bis Schließen | Durchschnittliche Anzahl der Tage bis zum Schließen der Opportunities. |
-   | Tage im Verkauf | Durchschnittliche Dauer des Verkaufszyklus (Tage bis zur Opportunity + Tage bis zum Abschluss). |
+   | [!UICONTROL Keine Opportunity] | Anzahl der Personen, die *kein* Opportunity-Kontakt sind. |
+   | [!UICONTROL Tage ohne Opportunity] | Durchschnittsalter (in Tagen) der Personen, die *kein* sind. |
+   | [!UICONTROL Hat Gelegenheit] | Anzahl der Personen, die ein primärer Opportunity-Kontakt sind. |
+   | [!UICONTROL Hat Opportunity %] | Prozentsatz der Personen, die ein primärer Opportunity-Kontakt sind. |
+   | [!UICONTROL Tage bis Opportunity] | Durchschnittliche Anzahl der Tage für die Konversion von der Person zum primären Opportunity-Kontakt. |
+   | [!UICONTROL Opportunity-Gesamtbetrag] | Summe aller Opportunity-Beträge. |
+   | [!UICONTROL Durchschn. Opportunity-Betrag] | Summe der Opportunity-Beträge, geteilt durch die Anzahl der Opportunities. |
+   | [!UICONTROL Opportunity insgesamt] | Anzahl aller Gelegenheiten. |
+   | [!UICONTROL Geschlossen] | Anzahl der Opportunitys, die geschlossen, gewonnen oder verloren wurden. |
+   | [!UICONTROL Gewonnen] | Anzahl der gewonnenen Gelegenheiten. |
+   | [!UICONTROL % gewonnen] | Prozentsatz der gewonnenen Gelegenheiten. |
+   | [!UICONTROL Gesamtgewinn] | Summe der gewonnenen Opportunity-Beträge. |
+   | [!UICONTROL Tage bis Schließen] | Durchschnittliche Anzahl der Tage bis zum Schließen der Opportunities. |
+   | [!UICONTROL Tage im Verkauf] | Durchschnittliche Dauer des Verkaufszyklus (Tage bis zur Opportunity + Tage bis zum Abschluss). |
 
    >[!MORELIKETHIS]
    >

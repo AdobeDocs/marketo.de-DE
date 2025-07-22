@@ -4,22 +4,22 @@ description: Senden einer Marketo-Verkaufs-E-Mail von Microsoft Dynamics - Marke
 title: Senden einer Marketo-Verkaufs-E-Mail von Microsoft Dynamics
 exl-id: 9ee53a3e-8bbe-458a-9905-a1e1503f9553
 feature: Marketo Sales Insights
-source-git-commit: a571a312477c6c1b08241ef2cfb011ce525fba07
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
 
-# Senden einer Marketo-Verkaufs-E-Mail von Microsoft Dynamics {#send-a-marketo-sales-email-from-microsoft-dynamics}
+# Senden einer [!DNL Marketo Sales]-E-Mail von [!DNL Microsoft Dynamics] {#send-a-marketo-sales-email-from-microsoft-dynamics}
 
-Ihr Vertriebsteam kann E-Mails senden und diese direkt von Microsoft Dynamics aus auf Öffnungen und Klicks tracken lassen. So geht&#39;s.
+Ihr Vertriebsteam kann E-Mails senden und diese direkt von [!DNL Microsoft Dynamics] aus auf Öffnungen und Klicks verfolgen lassen. So geht&#39;s.
 
-1. Wechseln Sie in Dynamics zum Bereich **Vertrieb**.
+1. Rufen Sie [!DNL Dynamics] den Bereich **[!UICONTROL Vertrieb]** auf.
 
    ![](assets/image2014-10-20-11-3a56-3a9.png)
 
-1. Wählen Sie eine **Systemansicht**.
+1. Wählen Sie eine **[!UICONTROL Systemansicht]**.
 
    ![](assets/image2014-10-20-11-3a56-3a20.png)
 
@@ -27,7 +27,7 @@ Ihr Vertriebsteam kann E-Mails senden und diese direkt von Microsoft Dynamics au
 
    ![](assets/image2014-10-20-11-3a56-3a35.png)
 
-1. Klicken Sie auf die Registerkarte **…** und dann auf **Marketo-E-Mail senden**.
+1. Klicken Sie auf die Registerkarte **…** und dann auf **[!UICONTROL Marketo-E-Mail senden]**.
 
    ![](assets/image2014-10-20-11-3a56-3a57.png)
 
@@ -35,7 +35,7 @@ Ihr Vertriebsteam kann E-Mails senden und diese direkt von Microsoft Dynamics au
    >
    >Sie können [E-Mails als Vorlagen veröffentlichen](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) damit Ihr Vertriebsteam sie verwenden kann.
 
-1. Fügen Sie einen Betreff hinzu, erstellen Sie Ihre E-Mail und klicken Sie auf **E-Mail senden**. (Wählen Sie eine Vorlage aus, falls Sie eine benötigen.)
+1. Fügen Sie einen Betreff hinzu, erstellen Sie Ihre E-Mail und klicken Sie auf **[!UICONTROL E-Mail senden]**. (Wählen Sie eine Vorlage aus, falls Sie eine benötigen.)
 
    ![](assets/image2014-10-20-11-3a57-3a8.png)
 
@@ -47,8 +47,8 @@ Ihr Vertriebsteam kann E-Mails senden und diese direkt von Microsoft Dynamics au
    >
    >Sie können bis zu 300 Marketo-E-Mails gleichzeitig senden.
 
-Gut gemacht! Jetzt wissen Sie, wie Sie getrackte E-Mails von Marketo direkt aus Microsoft Dynamics senden.
+Gut gemacht! Jetzt wissen Sie, wie Sie getrackte E-Mails von Marketo direkt aus [!DNL Microsoft Dynamics] senden.
 
 >[!MORELIKETHIS]
 >
->[Hinzufügen eines Leads/Kontakts zu einer Marketo-Kampagne aus Microsoft Dynamics](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)
+>[Hinzufügen eines Leads/Kontakts zu einer Marketo-Kampagne über [!DNL Microsoft Dynamics]](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)

@@ -4,7 +4,7 @@ description: Erstellen einer Hierarchie - Marketo-Dokumente - Produktdokumentati
 title: Erstellen einer Hierarchie
 exl-id: ea56145b-f8c2-4b18-a50c-b547ac1102a1
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Hierarchien sollen in CRMs erstellt werden. Wenn Sie jedoch kein CRM haben, führen Sie diese Schritte aus, um eine Hierarchie manuell zu erstellen.
 
-1. Klicken Sie unter Benannte Konten auf das **Nach Hierarchie gruppieren**.
+1. Aktivieren [!UICONTROL  unter „Benannte ]&quot; das Kontrollkästchen **[!UICONTROL Nach Hierarchie]** Gruppieren“.
 
    ![](assets/create-a-hierarchy-1.png)
 
@@ -27,15 +27,15 @@ Hierarchien sollen in CRMs erstellt werden. Wenn Sie jedoch kein CRM haben, füh
 
    ![](assets/create-a-hierarchy-2.png)
 
-1. Klicken Sie auf die **Benannte Kontoaktionen** und wählen Sie **Link zu Benanntem Konto** aus.
+1. Klicken Sie auf die **[!UICONTROL Benannte Kontoaktionen]** und wählen Sie **[!UICONTROL Link zu Benanntem Konto]** aus.
 
    ![](assets/create-a-hierarchy-3.png)
 
    >[!NOTE]
    >
-   >Wenn Sie die Verknüpfung zu Konten aufheben möchten, führen Sie die oben genannten Schritte aus, wählen Sie jedoch **Verknüpfung zu benanntem Konto aufheben**.
+   >Wenn Sie die Verknüpfung zu Konten aufheben möchten, führen Sie die oben genannten Schritte aus, wählen Sie jedoch **[!UICONTROL Verknüpfung zu benanntem Konto aufheben]**.
 
-1. Wählen Sie in der Dropdown-Liste ein übergeordnetes benanntes Konto aus und klicken Sie auf **Link**.
+1. Wählen Sie in der Dropdown-Liste ein übergeordnetes benanntes Konto aus und klicken Sie auf **[!UICONTROL Link]**.
 
    ![](assets/create-a-hierarchy-4.png)
 

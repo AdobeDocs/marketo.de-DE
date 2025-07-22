@@ -4,10 +4,10 @@ description: Bearbeiten von Smart-Listen-Abonnements - Marketo-Dokumente - Produ
 title: Bearbeiten von Smart-Listen-Abonnements
 exl-id: f745c887-c8f8-44bc-a0fe-da0669155ef9
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '199'
-ht-degree: 4%
+ht-degree: 2%
 
 ---
 
@@ -15,13 +15,13 @@ ht-degree: 4%
 
 Sie können diese Spalten direkt auf der Registerkarte Abonnements bearbeiten, die unter Marketing-Aktivitäten oder in der Datenbank angezeigt wird:
 
-* Empfängerinnen und Empfänger
-* Häufigkeit
-* Spalten
-* Übermittlung beenden
-* Format
+* [!UICONTROL Empfänger]
+* [!UICONTROL Häufigkeit]
+* [!UICONTROL Spalten]
+* [!UICONTROL Versand beenden]
+* [!UICONTROL Format]
 
-1. Wählen Sie **Datenbank** aus (wir verwenden es in diesem Beispiel, aber Marketing-Aktivitäten funktionieren genau gleich).
+1. Wählen Sie **[!UICONTROL Datenbank]** aus (wir verwenden es in diesem Beispiel, aber Marketing-Aktivitäten funktionieren genau gleich).
 
    ![](assets/db-1.png)
 
@@ -29,15 +29,15 @@ Sie können diese Spalten direkt auf der Registerkarte Abonnements bearbeiten, d
 
    ![](assets/two.png)
 
-1. Wenn Sie auf in die Empfängerspalte klicken, wird sie geöffnet, sodass Sie weitere E-Mail-Adressen eingeben können (trennen Sie sie durch ein Komma).
+1. Klicken Sie auf die Spalte **[!UICONTROL Empfänger]** und sie wird geöffnet, sodass Sie weitere E-Mail-Adressen eingeben können (trennen Sie sie durch ein Komma).
 
    ![](assets/image2015-9-14-13-3a44-3a14.png)
 
-1. Klicken Sie auf die **Häufigkeit**, um Ihre Einstellung auszuwählen oder zu ändern.
+1. Klicken Sie auf die **[!UICONTROL Häufigkeit]**, um Ihre Einstellung auszuwählen oder zu ändern.
 
    ![](assets/image2015-9-14-10-3a30-3a37.png)
 
-1. Öffnen Sie die Spalte **Spalten** und verwenden Sie den Selektor, um Spalten zum Bericht hinzuzufügen oder daraus zu entfernen. Berichtsspalten enthalten alle verfügbaren Spalten, und in Marketo-Spalten werden nur die Spalten angezeigt, die Sie für die Anzeige in Ihrem Bericht ausgewählt haben. Klicken Sie auf **Speichern**.
+1. Öffnen Sie die Spalte **[!UICONTROL Spalten]** und verwenden Sie den Selektor, um Spalten zum Bericht hinzuzufügen oder daraus zu entfernen. Berichtsspalten enthalten alle verfügbaren Spalten, und in Marketo-Spalten werden nur die Spalten angezeigt, die Sie für die Anzeige in Ihrem Bericht ausgewählt haben. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/image2015-9-14-10-3a59-3a6.png)
 
@@ -45,10 +45,10 @@ Sie können diese Spalten direkt auf der Registerkarte Abonnements bearbeiten, d
    >
    >Die Spalten unter Marketo-Spalten sind die Berichtsspalten, nicht die auf der Registerkarte Abonnementbericht verwendeten Spalten.
 
-1. Klicken Sie auf **Spalte** Enddatum“, um das Enddatum zu bearbeiten. Wählen Sie **Nie** oder **Datum** aus. Geben Sie ein Datum ein, oder wählen Sie es aus dem Kalender aus. Klicken Sie **Genehmigen**.
+1. Klicken Sie auf **[!UICONTROL Spalte]** Enddatum“, um das Enddatum zu bearbeiten. Wählen Sie **[!UICONTROL Nie]** oder **[!UICONTROL Datum]** aus. Geben Sie ein Datum ein, oder wählen Sie es aus dem Kalender aus. Klicken Sie **[!UICONTROL Genehmigen]**.
 
    ![](assets/image2015-9-14-11-3a6-3a38.png)
 
-1. Der letzte Teil des Puzzles ist das Format. Klicken Sie auf **Spalte** Format“ und wählen Sie die gewünschte Spalte aus. CSV ist der Standard.
+1. Der letzte Teil des Puzzles ist das Format. Klicken Sie auf **[!UICONTROL Spalte]** Format“ und wählen Sie die gewünschte Spalte aus. CSV ist der Standard.
 
    ![](assets/image2015-9-14-11-3a11-3a41.png)

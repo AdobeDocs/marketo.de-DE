@@ -4,9 +4,9 @@ description: Ändern des Gebietsschemas eines Formulars - Marketo-Dokumente - Pr
 title: Ändern des Gebietsschemas eines Formulars
 exl-id: 811153b7-27e6-407d-abbe-c29dc39944d7
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '126'
 ht-degree: 1%
 
 ---
@@ -15,27 +15,27 @@ ht-degree: 1%
 
 Bei internationalen Formularen sollten Datums-/Uhrzeitangaben in den richtigen Formaten angezeigt werden. Marketo erledigt dies automatisch für Sie, Sie müssen lediglich das Gebietsschema des Formulars festlegen und wir kümmern uns um den Rest.
 
-1. Navigieren Sie **Marketing-Aktivitäten**.
+1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities-7.png)
 
-1. Wählen Sie Ihr Formular aus und klicken Sie auf **Formular bearbeiten**.
+1. Wählen Sie Ihr Formular aus und klicken Sie auf **[!UICONTROL Formular bearbeiten]**.
 
    ![](assets/image2014-9-15-12-3a52-3a52.png)
 
-1. Klicken **unter &quot;**&quot; auf **Einstellungen**.
+1. Klicken **[!UICONTROL unter &quot;]**&quot; auf **[!UICONTROL Einstellungen]**.
 
    ![](assets/image2014-9-15-12-3a53-3a23.png)
 
-1. Wählen Sie **gewünschte** aus.
+1. Wählen Sie **[!UICONTROL gewünschte]** aus.
 
    ![](assets/image2014-9-15-12-3a53-3a35.png)
 
-1. Klicken Sie auf **Fertigstellen**.
+1. Klicken Sie auf **[!UICONTROL Fertigstellen]**.
 
    ![](assets/image2014-9-15-12-3a53-3a43.png)
 
-1. Klicken Sie auf **Genehmigen und schließen** um Änderungen anzuwenden und zu speichern.
+1. Klicken Sie auf **[!UICONTROL Genehmigen und schließen]** um Änderungen anzuwenden und zu speichern.
 
    >[!NOTE]
    >

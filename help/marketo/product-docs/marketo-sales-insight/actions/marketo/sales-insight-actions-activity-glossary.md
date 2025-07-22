@@ -1,20 +1,20 @@
 ---
-description: Glossar der Aktionsaktivitäten für Sales Insight - Marketo-Dokumente - Produktdokumentation
-title: Glossar der Sales Insight-Aktionsaktivität
+description: Glossar der Aktionsaktivitäten im Vertrieb von Insight - Marketo-Dokumente - Produktdokumentation
+title: Glossar der Sales Insight-Aktionsaktivitäten
 exl-id: fd0f632c-6f0d-49f9-a805-0730595c81fd
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '557'
-ht-degree: 34%
+source-wordcount: '597'
+ht-degree: 4%
 
 ---
 
-# Glossar der Sales Insight-Aktionsaktivität {#sales-insight-actions-activity-glossary}
+# Glossar der [!DNL Sales Insight Actions] {#sales-insight-actions-activity-glossary}
 
-Wenn ein Verkäufer in Sales Insight-Aktionen einen Lead zu einer Verkaufskampagne hinzufügt, ihm eine Verkaufs-E-Mail sendet oder einen ausgehenden Verkaufsaufruf tätigt, wird dies unter dem Aktivitätsverlauf der Marketo für diesen Lead protokolliert. Wenn der Lead mit E-Mails, Öffnungen, Klicks und Antworten interagiert, wird er außerdem protokolliert.
+Wenn [!DNL Sales Insight Actions] ein Verkäufer: einen Lead zu einer Verkaufskampagne hinzufügt, ihm eine Verkaufs-E-Mail sendet oder einen ausgehenden Verkaufsaufruf tätigt, wird dies unter dem Aktivitätsverlauf der Marketo für diesen Lead protokolliert. Wenn der Lead mit E-Mails, Öffnungen, Klicks und Antworten interagiert, wird er außerdem protokolliert.
 
-Die folgenden Aktivitäten werden von Sales Insight-Aktionen in Marketo protokolliert.
+Die folgenden Aktivitäten werden von [!DNL Sales Insight Actions] an Marketo protokolliert.
 
 >[!NOTE]
 >
@@ -28,173 +28,173 @@ Die folgenden Aktivitäten werden von Sales Insight-Aktionen in Marketo protokol
   <th>Attribut</th>
  </tr>
  <tr>
-  <th rowspan="9">Verkaufs-E-Mail senden</th>
-  <td>Gesendet von</td>
+  <th rowspan="9">[!UICONTROL Verkaufs-E-Mail senden]</th>
+  <td>[!UICONTROL gesendet von]</td>
  </tr>
  <tr>
   <td>Quelle</td>
  </tr>
  <tr>
-  <td>Vorlagen-ID</td>
+  <td>[!UICONTROL Vorlagenkennung]</td>
  </tr>
  <tr>
-  <td>Verkaufsvorlagen-URL</td>
+  <td>[!UICONTROL URL der Verkaufsvorlage]</td>
  </tr>
  <tr>
-  <td>Verkaufskampagne URL</td>
+  <td>[!UICONTROL Verkaufskampagnen-URL]</td>
  </tr>
  <tr>
-  <td>Name der Verkaufsvorlage</td>
+  <td>[!UICONTROL Name der Verkaufsvorlage]</td>
  </tr>
  <tr>
-  <td>E-Mail-Betreff</td>
+  <td>[!UICONTROL E-Mail-Betreff]</td>
  </tr>
  <tr>
-  <td>Verkaufskampagne Name</td>
+  <td>[!UICONTROL Name der Verkaufskampagne]</td>
  </tr>
  <tr>
-  <td>Marketo-Verkäufer-ID</td>
+  <td>[!UICONTROL Marketo Vertriebspersonen-ID]</td>
  </tr>
  <tr>
-  <th rowspan="9">Verkaufs-E-Mail öffnen</th>
-  <td>Gesendet von</td>
- </tr>
- <tr>
-  <td>Quelle</td>
- </tr>
- <tr>
-  <td>Vorlagen-ID</td>
- </tr>
- <tr>
-  <td>Verkaufsvorlagen-URL</td>
- </tr>
- <tr>
-  <td>Verkaufskampagne URL</td>
- </tr>
- <tr>
-  <td>Name der Verkaufsvorlage</td>
- </tr>
- <tr>
-  <td>E-Mail-Betreff</td>
- </tr>
- <tr>
-  <td>Verkaufskampagne Name</td>
- </tr>
- <tr>
-  <td>Marketo-Verkäufer-ID</td>
- </tr>
- <tr>
-  <th rowspan="10">Verkaufs-E-Mail angeklickt</th>
-  <td>Link</td>
- </tr>
- <tr>
-  <td>Gesendet von</td>
+  <th rowspan="9">[!UICONTROL Verkaufs-E-Mail öffnen]</th>
+  <td>[!UICONTROL gesendet von]</td>
  </tr>
  <tr>
   <td>Quelle</td>
  </tr>
  <tr>
-  <td>Vorlagen-ID</td>
+  <td>[!UICONTROL Vorlagenkennung]</td>
  </tr>
  <tr>
-  <td>Verkaufsvorlagen-URL</td>
+  <td>[!UICONTROL URL der Verkaufsvorlage]</td>
  </tr>
  <tr>
-  <td>Verkaufskampagne URL</td>
+  <td>[!UICONTROL Verkaufskampagnen-URL]</td>
  </tr>
  <tr>
-  <td>Name der Verkaufsvorlage</td>
+  <td>[!UICONTROL Name der Verkaufsvorlage]</td>
  </tr>
  <tr>
-  <td>E-Mail-Betreff</td>
+  <td>[!UICONTROL E-Mail-Betreff]</td>
  </tr>
  <tr>
-  <td>Verkaufskampagne Name</td>
+  <td>[!UICONTROL Name der Verkaufskampagne]</td>
  </tr>
  <tr>
-  <td>Marketo-Verkäufer-ID</td>
+  <td>[!UICONTROL Marketo Vertriebspersonen-ID]</td>
+ </tr>
+ <tr>
+  <th rowspan="10">[!UICONTROL hat Verkaufs-E-Mail angeklickt]</th>
+  <td>[!UICONTROL Link]</td>
+ </tr>
+ <tr>
+  <td>[!UICONTROL gesendet von]</td>
+ </tr>
+ <tr>
+  <td>Quelle</td>
+ </tr>
+ <tr>
+  <td>[!UICONTROL Vorlagenkennung]</td>
+ </tr>
+ <tr>
+  <td>[!UICONTROL URL der Verkaufsvorlage]</td>
+ </tr>
+ <tr>
+  <td>[!UICONTROL Verkaufskampagnen-URL]</td>
+ </tr>
+ <tr>
+  <td>[!UICONTROL Name der Verkaufsvorlage]</td>
+ </tr>
+ <tr>
+  <td>[!UICONTROL E-Mail-Betreff]</td>
+ </tr>
+ <tr>
+  <td>[!UICONTROL Name der Verkaufskampagne]</td>
+ </tr>
+ <tr>
+  <td>[!UICONTROL Marketo Vertriebspersonen-ID]</td>
  </tr>
 <tr>
-  <th rowspan="3">Hat auf Vertriebsemail geantwortet</th>
-  <td>Empfangen von</td>
+  <th rowspan="3">[!UICONTROL antwortete auf Verkaufs-E-Mail]</th>
+  <td>[!UICONTROL empfangen von]</td>
  </tr>
  <tr>
   <td>Quelle</td>
  </tr>
  <tr>
-  <td>Marketo-Verkäufer-ID</td>
+  <td>[!UICONTROL Marketo Vertriebspersonen-ID]</td>
  </tr>
  <tr>
-  <th rowspan="11">Hat Verkaufsanruf empfangen</th>
-  <td>Verkaufsanruf getätigt von</td>
+  <th rowspan="11">[!UICONTROL hat Verkaufsaufruf erhalten]</th>
+  <td>[!UICONTROL Verkaufsaufruf von]</td>
  </tr>
  <tr>
-  <td>Verkaufsanruf Status</td>
+  <td>[!UICONTROL Verkaufsanrufstatus]</td>
  </tr>
  <tr>
-  <td>Verkaufsanruf Betreff</td>
+  <td>[!UICONTROL Verkaufs-Anrufbetreff]</td>
  </tr>
  <tr>
-  <td>Verkaufskampagne Name</td>
+  <td>[!UICONTROL Name der Verkaufskampagne]</td>
  </tr>
  <tr>
-  <td>Verkaufskampagne URL</td>
+  <td>[!UICONTROL Verkaufskampagnen-URL]</td>
  </tr>
  <tr>
-  <td>Angerufene Telefonnummer des Verkaufs</td>
+  <td>[!UICONTROL Telefonnummer des Verkaufs aufgerufen]</td>
  </tr>
  <tr>
   <td>Quelle</td>
  </tr>
  <tr>
-  <td>Dauer des Verkaufsgesprächs</td>
+  <td>[!UICONTROL Dauer der Verkaufsanrufe]</td>
  </tr>
  <tr>
-  <td>URL für die Aufzeichnung von Verkaufsanrufen</td>
+  <td>[!UICONTROL URL zur Aufzeichnung von Verkaufsanrufen]</td>
  </tr>
   <tr>
-  <td>Verkaufsanruf beantwortet von</td>
+  <td>[!UICONTROL Verkaufsanruf beantwortet von]</td>
  </tr>
  <tr>
-  <td>Marketo-Verkäufer-ID</td>
+  <td>[!UICONTROL Marketo Vertriebspersonen-ID]</td>
  </tr>
  <tr>
-  <th rowspan="6">Zur Verkaufskampagne hinzufügen</th>
-  <td>Verkaufskampagne Name</td>
+  <th rowspan="6">[!UICONTROL Zu Vertriebskampagne hinzufügen]</th>
+  <td>[!UICONTROL Name der Verkaufskampagne]</td>
  </tr>
  <tr>
-  <td>Verkaufsanruf Status</td>
+  <td>[!UICONTROL Verkaufsanrufstatus]</td>
  </tr>
  <tr>
-  <td>Verkaufskampagne URL</td>
+  <td>[!UICONTROL Verkaufskampagnen-URL]</td>
  </tr>
  <tr>
-  <td>Gesendet von</td>
- </tr>
- <tr>
-  <td>Quelle</td>
- </tr>
- <tr>
-  <td>Vertriebskampagnen-ID</td>
- </tr>
- <tr>
-  <th rowspan="6">Aus Verkaufskampagne entfernen</th>
-  <td>Verkaufskampagne Name</td>
- </tr>
- <tr>
-  <td>Verkaufsanruf Status</td>
- </tr>
- <tr>
-  <td>Verkaufskampagne URL</td>
- </tr>
- <tr>
-  <td>Gesendet von</td>
+  <td>[!UICONTROL gesendet von]</td>
  </tr>
  <tr>
   <td>Quelle</td>
  </tr>
  <tr>
-  <td>Vertriebskampagnen-ID</td>
+  <td>[!UICONTROL Vertriebskampagnen-ID]</td>
+ </tr>
+ <tr>
+  <th rowspan="6">[!UICONTROL aus Vertriebskampagne entfernen]</th>
+  <td>[!UICONTROL Name der Verkaufskampagne]</td>
+ </tr>
+ <tr>
+  <td>[!UICONTROL Verkaufsanrufstatus]</td>
+ </tr>
+ <tr>
+  <td>[!UICONTROL Verkaufskampagnen-URL]</td>
+ </tr>
+ <tr>
+  <td>[!UICONTROL gesendet von]</td>
+ </tr>
+ <tr>
+  <td>Quelle</td>
+ </tr>
+ <tr>
+  <td>[!UICONTROL Vertriebskampagnen-ID]</td>
  </tr>
  <tr>
   <th rowspan="5">E-Mail-Bounce für Verkauf</th>
@@ -223,88 +223,88 @@ Die folgenden Aktivitäten werden von Sales Insight-Aktionen in Marketo protokol
  </tr>
  <tbody> 
  <tr> 
-   <td><strong>Details</strong></td> 
+   <td><strong>[!UICONTROL Details]</strong></td> 
    <td>Details der Bounce-Fehlermeldung.</td> 
   </tr> 
   <tr> 
-   <td><strong>E-Mail</strong></td> 
+   <td><strong>[!UICONTROL E-Mail]</strong></td> 
    <td>E-Mail-Adresse, die zurückkam.</td> 
   </tr> 
   <tr> 
-   <td><strong>Link</strong></td> 
+   <td><strong>[!UICONTROL Link]</strong></td> 
    <td>Angeklickte URL.</td> 
   </tr> 
   <tr> 
-   <td><strong>Marketo-Verkäufer-ID</strong></td> 
-   <td>Eindeutige ID für Personendatensatz in Sales-Insight-Aktionen.</td> 
+   <td><strong>[!UICONTROL Marketo Vertriebspersonen-ID]</strong></td> 
+   <td>Eindeutige ID für Personendatensatz in [!DNL Sales Insight Actions].</td> 
   </tr> 
   <tr> 
-   <td><strong>Empfangen von</strong></td> 
+   <td><strong>[!UICONTROL empfangen von]</strong></td> 
    <td>E-Mail-Adresse des Absenders der E-Mail.</td> 
   </tr>
   <tr> 
-   <td><strong>Verkaufsanruf beantwortet von</strong></td> 
+   <td><strong>[!UICONTROL Verkaufsanruf beantwortet von]</strong></td> 
    <td>Name der Person, die den Anruf entgegengenommen hat.</td> 
   </tr>
   <tr> 
-   <td><strong>Dauer des Verkaufsgesprächs</strong></td> 
+   <td><strong>[!UICONTROL Dauer der Verkaufsanrufe]</strong></td> 
    <td>Länge des Aufrufs in Sekunden.</td> 
   </tr>
   <tr> 
-   <td><strong>Verkaufsanruf getätigt von</strong></td> 
+   <td><strong>[!UICONTROL Verkaufsaufruf von]</strong></td> 
    <td>E-Mail-Adresse des Verkäufers, der den Anruf getätigt hat.</td> 
   </tr>
   <tr> 
-   <td><strong>URL für die Aufzeichnung von Verkaufsanrufen</strong></td> 
+   <td><strong>[!UICONTROL URL zur Aufzeichnung von Verkaufsanrufen]</strong></td> 
    <td>URL der Anrufaufzeichnung.</td> 
   </tr>
   <tr> 
-   <td><strong>Verkaufsanruf Status</strong></td> 
+   <td><strong>[!UICONTROL Verkaufsanrufstatus]</strong></td> 
    <td>Speichert den endgültigen Anrufstatus des Anrufs, der Folgendes umfasst: Abgeschlossen, keine Antwort, Abgebrochen, Fehlgeschlagen.</td> 
   </tr>
   <tr> 
-   <td><strong>Verkaufsanruf Betreff</strong></td> 
+   <td><strong>[!UICONTROL Verkaufs-Anrufbetreff]</strong></td> 
    <td>Anrufergebnis, das von einem Verkaufsbenutzer in der Wählhilfe ausgewählt wird.</td> 
   </tr>
   <tr> 
-   <td><strong>Vertriebskampagnen-ID</strong></td> 
-   <td>Eindeutige ID für Sales Campaign-Asset in Sales Insight-Aktionen.</td> 
+   <td><strong>[!UICONTROL Vertriebskampagnen-ID]</strong></td> 
+   <td>Eindeutige ID für Verkaufskampagnen-Asset in [!DNL Sales Insight Actions].</td> 
   </tr>
   <tr> 
-   <td><strong>Verkaufskampagne Name</strong></td> 
+   <td><strong>[!UICONTROL Name der Verkaufskampagne]</strong></td> 
    <td>Name der Verkaufskampagne.</td> 
   </tr>
   <tr> 
-   <td><strong>Verkaufskampagne URL</strong></td> 
-   <td>Sales Insight Actions URL für Sales Campaign.</td> 
+   <td><strong>[!UICONTROL Verkaufskampagnen-URL]</strong></td> 
+   <td>[!DNL Sales Insight Actions] URL für die Verkaufskampagne.</td> 
   </tr>
   <tr> 
-   <td><strong>E-Mail-Betreff für Verkauf</strong></td> 
+   <td><strong>[!UICONTROL E-Mail-Betreff für Verkauf]</strong></td> 
    <td>Betreffzeile der E-Mail, gefolgt von einer eindeutigen ID (z. B.: Meine Betreffzeile (SIA-12345678)</td> 
   </tr>
   <tr> 
-   <td><strong>Angerufene Telefonnummer des Verkaufs</strong></td> 
+   <td><strong>[!UICONTROL Telefonnummer des Verkaufs aufgerufen]</strong></td> 
    <td>Telefonnummer, die vom Vertrieb angerufen wurde.</td> 
   </tr>
   <tr> 
-   <td><strong>Name der Verkaufsvorlage</strong></td> 
-   <td>Name der E-Mail-Vorlage in Sales Insight-Aktionen.</td> 
+   <td><strong>[!UICONTROL Name der Verkaufsvorlage]</strong></td> 
+   <td>Name der E-Mail-Vorlage in [!DNL Sales Insight Actions].</td> 
   </tr>
   <tr> 
-   <td><strong>Verkaufsvorlagen-URL</strong></td> 
-   <td>Sales Insight Actions URL für E-Mail-Vorlage.</td> 
+   <td><strong>[!UICONTROL URL der Verkaufsvorlage]</strong></td> 
+   <td>[!DNL Sales Insight Actions] URL für E-Mail-Vorlage.</td> 
   </tr>
   <tr> 
-   <td><strong>Gesendet von</strong></td>
+   <td><strong>[!UICONTROL gesendet von]</strong></td>
    <td>E-Mail-Adresse des Absenders der E-Mail.</td> 
   </tr> 
   <tr> 
    <td><strong>Quelle</strong></td> 
-   <td>Source der Aktivität. Wird vor der Version vom Oktober 2021 für Sales Insight Actions-Aktivitäten als „Tout“ festgelegt. Wird nach der Version vom Oktober 2021 die „Sales App“ für Sales Insight-Aktionsaktivitäten sein.</td>
+   <td>Source der Aktivität. Wird für [!DNL Sales Insight Actions] Aktivitäten vor der Version vom Oktober 2021 als „Tout“ festgelegt. Wird nach der Version vom Oktober 2021 die „Sales App“ für [!DNL Sales Insight Actions] Aktivitäten sein.</td>
   </tr> 
   <tr> 
-   <td><strong>Vorlagen-ID</strong></td> 
-   <td>Wenn die Quelle Tout ist, ist die Vorlagen-ID die Vorlagen-ID der Marketo Sales Insight-Aktionen . Verwenden Sie diese Option, um eine bestimmte Vorlage anstelle der Betreffzeile auszuwählen, die in mehreren Vorlagen vorhanden sein könnte.
+   <td><strong>[!UICONTROL Vorlagenkennung]</strong></td> 
+   <td>Wenn die Quelle Tout ist, ist die Vorlagen-ID die [!DNL Marketo Sales Insight Actions] Vorlagen-ID. Verwenden Sie diese Option, um eine bestimmte Vorlage anstelle der Betreffzeile auszuwählen, die in mehreren Vorlagen vorhanden sein könnte.
 </td> 
   </tr> 
  </tbody> 

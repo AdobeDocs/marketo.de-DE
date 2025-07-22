@@ -4,7 +4,7 @@ description: Planen einer Web-Kampagne - Marketo-Dokumente - Produktdokumentatio
 title: Planen einer Web-Kampagne
 exl-id: 53ad93ef-b1a8-42fd-8aff-923e02946527
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 1%
@@ -23,7 +23,7 @@ Sie können die Web-Kampagne basierend auf der Zeit des Web-Besuchers oder einer
 >
 >Die Planung von Start- und Enddaten eignet sich hervorragend für geplante Ereignisse wie Webinare, die für einen bestimmten Zeitraum ausgeführt werden. Wiederholungen sind perfekt für ein spezielles Angebot, das jede Woche nur an einem bestimmten Tag ausgeführt wird.
 
-1. Gehen Sie zu **Web-Kampagnen**.
+1. Gehen Sie zu **[!UICONTROL Web-Kampagnen]**.
 
    ![](assets/image2016-8-18-16-3a38-3a47.png)
 
@@ -31,7 +31,7 @@ Sie können die Web-Kampagne basierend auf der Zeit des Web-Besuchers oder einer
    >
    >Um das Auffinden der gewünschten Kampagne zu vereinfachen, verwenden Sie die [Filterfunktion](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
-1. Öffnen Sie das Menü Kampagnenstatus und wählen Sie **Zeitplan** aus.
+1. Öffnen Sie das Menü Kampagnenstatus und wählen Sie **[!UICONTROL Zeitplan]** aus.
 
    ![](assets/image2016-8-18-16-3a41-3a45.png)
 
@@ -51,18 +51,18 @@ Sie können die Web-Kampagne basierend auf der Zeit des Web-Besuchers oder einer
    >
    >Sie können Datum und Uhrzeit aus dem Dropdown-Menü und dem Kalender auswählen oder manuell eingeben. Die Zeiten sind 12-Stunden-Uhr-Zeit.
 
-1. Standardmäßig wird die Kampagne jeden Tag zwischen dem Start- und dem Enddatum ausgeführt. Wenn Sie die Kampagne nur an bestimmten Tagen oder zu bestimmten Zeiten ausführen möchten, verwenden Sie die **Wiederholen**. Wählen Sie den Tag sowie die Start- und Endzeit aus, um die Kampagne anzuzeigen. Verwenden Sie das Pluszeichen + , um weitere Tage hinzuzufügen.
+1. Standardmäßig wird die Kampagne jeden Tag zwischen dem Start- und dem Enddatum ausgeführt. Wenn Sie die Kampagne nur an bestimmten Tagen oder zu bestimmten Zeiten ausführen möchten, verwenden Sie die **[!UICONTROL Wiederholen]**. Wählen Sie den Tag sowie die Start- und Endzeit aus, um die Kampagne anzuzeigen. Verwenden Sie das Pluszeichen + , um weitere Tage hinzuzufügen.
 
    ![](assets/image2016-1-14-8-3a19-3a37.png)
 
-1. Klicken Sie auf **Zeitplan**.
+1. Klicken Sie auf **[!UICONTROL Zeitplan]**.
 
    ![](assets/image2016-1-14-8-3a27-3a55.png)
 
-1. Der Status der Kampagne auf der Seite Kampagnen ändert sich in **Geplant** und das Uhren-/Kalendersymbol wird angezeigt. Klicken Sie auf dieses Symbol, um den Kampagnenkalender zu bearbeiten.
+1. Der Status der Kampagne auf der Seite Kampagnen ändert sich in **[!UICONTROL Geplant]** und das Uhren-/Kalendersymbol wird angezeigt. Klicken Sie auf dieses Symbol, um den Kampagnenkalender zu bearbeiten.
 
    ![](assets/image2016-1-14-8-3a27-3a32.png)
 
    >[!NOTE]
    >
-   >Der Kampagnenstatus bleibt **Geplant** auch dann erhalten, wenn die Kampagne zu den ausgewählten geplanten Zeiten ausgeführt wird. Nach Ablauf eines geplanten Enddatums ändert sich der Kampagnenstatus in **Paused**.
+   >Der Kampagnenstatus bleibt **[!UICONTROL Geplant]** auch dann erhalten, wenn die Kampagne zu den ausgewählten geplanten Zeiten ausgeführt wird. Nach Ablauf eines geplanten Enddatums ändert sich der Kampagnenstatus in **[!UICONTROL Paused]**.

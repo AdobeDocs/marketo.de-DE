@@ -4,7 +4,7 @@ description: Senden von E-Mails vom Lead-Inhaber - Marketo-Dokumente - Produktdo
 title: Senden von E-Mails vom Lead-Inhaber
 exl-id: b7ceb976-f52f-4134-8b7e-1c18d09af5de
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Was passiert, wenn Sie eine E-Mail an einen Lead im Namen des Lead-Inhabers senden möchten?  So geht&#39;s.
 
-1. Suchen Sie Ihre E-Mail, wählen Sie sie aus und klicken Sie auf **Entwurf bearbeiten**.
+1. Suchen Sie Ihre E-Mail, wählen Sie sie aus und klicken Sie auf **[!UICONTROL Entwurf bearbeiten]**.
 
    ![](assets/one.png)
 
-1. Klicken Sie in das Feld **Von** (Löschen eines vorhandenen Namens) und klicken Sie auf die Schaltfläche **Token einfügen**.
+1. Klicken Sie in das Feld **[!UICONTROL Von]** (Löschen eines vorhandenen Namens) und klicken Sie auf die Schaltfläche **Token einfügen**.
 
    ![](assets/two.png)
 
@@ -27,7 +27,7 @@ Was passiert, wenn Sie eine E-Mail an einen Lead im Namen des Lead-Inhabers send
 
    ![](assets/image2014-9-11-13-3a7-3a43.png)
 
-1. Geben Sie einen Standardwert ein, falls der Lead noch keinen Lead-Inhaber hat, und klicken Sie auf **Einfügen**.
+1. Geben Sie einen Standardwert ein, falls der Lead noch keinen Lead-Inhaber hat, und klicken Sie auf **[!UICONTROL Einfügen]**.
 
    ![](assets/image2014-9-11-13-3a7-3a58.png)
 
@@ -39,7 +39,7 @@ Was passiert, wenn Sie eine E-Mail an einen Lead im Namen des Lead-Inhabers send
 
    ![](assets/image2014-9-11-13-3a8-3a24.png)
 
-1. Geben Sie einen Standardwert ein, falls der Lead noch keinen Lead-Inhaber hat, und klicken Sie auf **Einfügen**.
+1. Geben Sie einen Standardwert ein, falls der Lead noch keinen Lead-Inhaber hat, und klicken Sie auf **[!UICONTROL Einfügen]**.
 
    ![](assets/image2014-9-11-13-3a8-3a39.png)
 
@@ -47,7 +47,7 @@ Was passiert, wenn Sie eine E-Mail an einen Lead im Namen des Lead-Inhabers send
    >
    >Stellen Sie sicher, dass Sie ein Leerzeichen zwischen dem Vor- und Nachnamen-Token hinzugefügt haben.
 
-1. Klicken Sie in das Feld Von E-Mail (löschen Sie eine vorhandene E-Mail-Adresse) und klicken Sie auf die Schaltfläche Token einfügen .
+1. Klicken Sie in das Feld **[!UICONTROL Absenderadresse]** (löschen Sie eine vorhandene E-Mail-Adresse) und klicken Sie auf die Schaltfläche **Token einfügen**.
 
    ![](assets/eight.png)
 
@@ -55,10 +55,10 @@ Was passiert, wenn Sie eine E-Mail an einen Lead im Namen des Lead-Inhabers send
 
    ![](assets/image2014-9-11-13-3a9-3a33.png)
 
-1. Geben Sie einen Standardwert ein, falls der Lead noch keinen Lead-Inhaber hat, und klicken Sie auf **Einfügen**.
+1. Geben Sie einen Standardwert ein, falls der Lead noch keinen Lead-Inhaber hat, und klicken Sie auf **[!UICONTROL Einfügen]**.
 
    ![](assets/ten.png)
 
-1. Stellen Sie sicher **dass die Felder** Antwort an **und** Betreff“ ausgefüllt sind und Sie fertig sind!
+1. Stellen Sie sicher **[!UICONTROL dass die Felder]** Antwort an **[!UICONTROL und]** Betreff“ ausgefüllt sind und Sie fertig sind!
 
    ![](assets/eleven.png)

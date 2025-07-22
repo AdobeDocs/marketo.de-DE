@@ -4,9 +4,9 @@ description: Erstellen einer neuen Kontoliste - Marketo-Dokumente - Produktdokum
 title: Erstellen einer neuen Kontoliste
 exl-id: 644c5b3b-852a-4dd9-8e55-b434505504ea
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '405'
+source-wordcount: '406'
 ht-degree: 8%
 
 ---
@@ -21,15 +21,15 @@ Erstellen Sie eine Liste mit Organisations- und Domain-Namen und laden Sie sie h
 
 ## Erstellen einer neuen Kontoliste {#create-a-new-account-list-1}
 
-1. Navigieren Sie zu **Kontolisten**.
+1. Navigieren Sie zu **[!UICONTROL Kontolisten]**.
 
    ![](assets/dropdown-account-lists-hand.jpg)
 
-1. Wählen Sie **Neu erstellen** aus.
+1. Wählen Sie **[!UICONTROL Neu erstellen]** aus.
 
    ![](assets/create-new-account-list-hand.jpg)
 
-1. Wählen Sie **Durchsuchen** aus und laden Sie Ihre CSV-Datei hoch (stellen Sie sicher, dass die CSV-Datei die Kriterien erfüllt). Fügen Sie **Name** und &quot;**&quot;**. Klicken Sie auf **Speichern**.
+1. Wählen Sie **[!UICONTROL Durchsuchen]** aus und laden Sie Ihre CSV-Datei hoch (stellen Sie sicher, dass die CSV-Datei die Kriterien erfüllt). Fügen Sie einen **[!UICONTROL Listennamen]** und &quot;**[!UICONTROL &quot;]**. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/create-account-list-hands.jpg)
 
@@ -68,7 +68,7 @@ Klicken Sie auf der **Kontolisten** auf das Symbol **Bearbeiten** in der Liste.
 
 ![](assets/create-new-account-list-edit.jpg)
 
-Wählen Sie **Durchsuchen** aus und laden Sie Ihre neue CSV-Datei hoch. Diese Datei ersetzt die Originaldatei. Klicken Sie auf **Speichern**. Die neue hochgeladene Datei befindet sich im Status „Ausstehend“, bis sie vom Marketo-Support genehmigt wurde. Im Status „Ausstehend“ bleibt die Originaldatei aktiv.
+Wählen Sie **[!UICONTROL Durchsuchen…]** und laden Sie Ihre neue CSV-Datei hoch. Diese Datei ersetzt die Originaldatei. Klicken Sie auf **[!UICONTROL Speichern]**. Die neue hochgeladene Datei befindet sich im Status „Ausstehend“, bis sie vom Marketo-Support genehmigt wurde. Im Status „Ausstehend“ bleibt die Originaldatei aktiv.
 
 ![](assets/set-account-list-edit-hands.jpg)
 
@@ -76,11 +76,11 @@ Die CSV-Datei ersetzt die vorhandene Datei. Die vorhandene Liste bleibt aktiv, b
 
 ## Löschen einer benannten Kontoliste {#delete-a-named-account-list}
 
-1. Klicken Sie auf **Seite &quot;**&quot; auf das Symbol Löschen der Liste, die Sie löschen möchten.
+1. Klicken Sie auf **[!UICONTROL Seite &quot;]**&quot; auf das Symbol Löschen der Liste, die Sie löschen möchten.
 
    ![](assets/create-new-account-list-delete.jpg)
 
-1. Es wird eine Meldung angezeigt, die bestätigt, ob Sie die Liste löschen möchten. Klicken Sie auf **OK**.
+1. Es wird eine Meldung angezeigt, die bestätigt, ob Sie die Liste löschen möchten. Klicken Sie auf **[!UICONTROL OK]**.
 
    ![](assets/delete-notification-hand.jpg)
 

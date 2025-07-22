@@ -4,28 +4,28 @@ description: Genehmigung eines Titels für prädiktiven Inhalt aufheben - Market
 title: Genehmigung eines Titels für prädiktiven Inhalt aufheben
 exl-id: 63540339-fbed-436b-8cb3-abf2e181e010
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
 
 ---
 
-# Genehmigung eines Titels für prädiktiven Inhalt aufheben {#unapprove-a-title-for-predictive-content}
+# Genehmigung eines Titels für [!UICONTROL prädiktiven Inhalt] aufheben {#unapprove-a-title-for-predictive-content}
 
-Sie können die Genehmigung eines Titels für prädiktive Inhalte auf Ihrer Seite „Alle Inhalte“ oder im Popup „Inhalt bearbeiten“ aufheben.
+Sie können die Genehmigung eines Titels für prädiktive Inhalte auf Ihrer [!UICONTROL Alle Inhalte]-Seite oder im [!UICONTROL Inhalt bearbeiten] aufheben.
 
-## Gesamte Inhaltsseite {#all-content-page}
+## [!UICONTROL Alle Inhalte] Seite {#all-content-page}
 
-1. Aktivieren Sie auf der Seite Gesamter Inhalt das Kontrollkästchen neben dem Inhalt, um ihn auszuwählen.
+1. Aktivieren Sie auf [!UICONTROL  Seite ]Alle Inhalte“ das Kontrollkästchen neben dem Inhaltselement, um es auszuwählen.
 
    ![](assets/image2017-10-3-9-3a18-3a38.png)
 
-1. Klicken Sie auf die **Inhaltsaktionen** und wählen Sie **Genehmigung für prädiktiven Inhalt aufheben** aus.
+1. Klicken Sie auf die **[!UICONTROL Inhaltsaktionen]** und wählen Sie **[!UICONTROL Genehmigung für prädiktiven Inhalt aufheben]** aus.
 
    ![](assets/image2017-10-3-9-3a19-3a20.png)
 
-## Popup „Inhalt bearbeiten“ {#edit-content-pop-up}
+## [!UICONTROL Inhalt bearbeiten] Popup {#edit-content-pop-up}
 
 Sie können die Genehmigung für einen Titel aufheben, während Sie ihn bearbeiten.
 
@@ -33,10 +33,10 @@ Sie können die Genehmigung für einen Titel aufheben, während Sie ihn bearbeit
 
    ![](assets/click-icon-hand.png)
 
-1. Deaktivieren Sie das **Für prädiktiven Inhalt genehmigen** und klicken Sie auf **Speichern**.
+1. Deaktivieren Sie das **[!UICONTROL Für prädiktiven Inhalt genehmigen]** und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/image2017-10-3-9-3a20-3a17.png)
 
-Unabhängig von der verwendeten Methode ist das Symbol „Genehmigen“ auf der Seite „Alle Inhalte“ nicht mehr vorhanden, und der Titel verschwindet von der Seite „Prädiktiver Inhalt“.
+Unabhängig von der verwendeten Methode ist das Symbol „Genehmigen“ auf der Seite [!UICONTROL Alle Inhalte] verschwunden, und der Titel verschwindet von der Seite [!UICONTROL Prädiktiver Inhalt].
 
 ![](assets/unapprove-content-no-icon.png)

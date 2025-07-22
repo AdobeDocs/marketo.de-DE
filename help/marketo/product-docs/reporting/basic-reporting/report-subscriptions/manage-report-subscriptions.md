@@ -4,7 +4,7 @@ description: Berichtsabonnements verwalten - Marketo-Dokumente - Produktdokument
 title: Berichtabonnements verwalten
 exl-id: 0d303b1c-3cc9-42f6-a76a-db6a022c471a
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 1%
@@ -15,11 +15,11 @@ ht-degree: 1%
 
 Konfigurieren und Löschen von Berichtsabonnements.
 
-1. Wechseln Sie zum Bereich **Analytics**.
+1. Wechseln Sie zum Bereich **[!UICONTROL Analytics]**.
 
    ![](assets/image2014-9-16-10-3a35-3a25.png)
 
-1. Klicken Sie auf **Registerkarte** Abonnements“.
+1. Klicken Sie auf **[!UICONTROL Registerkarte]** Abonnements“.
 
    ![](assets/image2014-9-16-10-3a35-3a32.png)
 
@@ -27,13 +27,13 @@ Konfigurieren und Löschen von Berichtsabonnements.
 
    >[!TIP]
    >
-   >Sie können auch Abonnements für einen einzelnen Bericht in **Marketing-Aktivitäten“**. Wählen Sie den Bericht aus und klicken Sie auf **Registerkarte** Abonnements“.
+   >Sie können auch Abonnements für einen einzelnen Bericht in **[!UICONTROL Marketing-Aktivitäten“]**. Wählen Sie den Bericht aus und klicken Sie auf **[!UICONTROL Registerkarte]** Abonnements“.
 
    Um zu ändern, wie oft ein Bericht per E-Mail gesendet wird, klicken Sie auf das Feld Häufigkeit und wählen Sie eine neue Option aus dem Dropdown-Menü aus.
 
    ![](assets/image2014-9-16-10-3a36-3a4.png)
 
-1. Um die E-Mail-Adressen in einem Abonnement zu ändern, klicken Sie auf das Feld **E-Mail** Empfänger und bearbeiten Sie die E-Mail-Adressen.
+1. Um die E-Mail-Adressen in einem Abonnement zu ändern, klicken Sie auf das Feld **[!UICONTROL E-Mail]** Empfänger und bearbeiten Sie die E-Mail-Adressen.
 
    ![](assets/image2014-9-16-10-3a36-3a11.png)
 
@@ -44,13 +44,13 @@ Konfigurieren und Löschen von Berichtsabonnements.
 
    Alternativ können Sie auch folgendermaßen vorgehen:
 
-   * Klicken Sie auf **Ansicht**, um einen Bericht zu öffnen.
-   * Deaktivieren Sie das **Aktiv**-Kontrollkästchen, um das Abonnement zu deaktivieren.
-   * Klicken Sie auf das Feld **Zusammenfassung** und bearbeiten Sie es, um zu ändern, wie viele Vorschauzeilen in der E-Mail angezeigt werden.
-   * Deaktivieren Sie das **Excel**-Kontrollkästchen, um Berichtszusammenfassungen ohne Tabellenanhang zu senden.
-   * Klicken Sie auf **Senden**, um die Berichts-E-Mail sofort zu senden.
+   * Klicken Sie auf **[!UICONTROL Ansicht]**, um einen Bericht zu öffnen.
+   * Deaktivieren Sie das **[!UICONTROL Aktiv]**-Kontrollkästchen, um das Abonnement zu deaktivieren.
+   * Klicken Sie auf das Feld **[!UICONTROL Zusammenfassung]** und bearbeiten Sie es, um zu ändern, wie viele Vorschauzeilen in der E-Mail angezeigt werden.
+   * Deaktivieren Sie das **[!UICONTROL Excel]**-Kontrollkästchen, um Berichtszusammenfassungen ohne Tabellenanhang zu senden.
+   * Klicken Sie auf **[!UICONTROL Senden]**, um die Berichts-E-Mail sofort zu senden.
 
-1. Um ein Abonnement vollständig zu löschen, wählen Sie die Zeile aus und klicken Sie auf **Abonnement löschen**.
+1. Um ein Abonnement vollständig zu löschen, wählen Sie die Zeile aus und klicken Sie auf **[!UICONTROL Abonnement löschen]**.
 
    ![](assets/image2014-9-16-10-3a36-3a38.png)
 

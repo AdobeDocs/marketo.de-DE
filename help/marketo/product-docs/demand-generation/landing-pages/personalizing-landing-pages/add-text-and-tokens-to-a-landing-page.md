@@ -4,7 +4,7 @@ description: Hinzufügen von Text und Token zu einer Landingpage - Marketo-Dokum
 title: Hinzufügen von Text und Token zu einer Landingpage
 exl-id: df6f17dc-50a0-4ee0-9a6e-96b0ebde46c7
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 1%
@@ -19,7 +19,7 @@ ht-degree: 1%
 
 ## Hinzufügen von Rich-Text zu einer Landingpage {#add-rich-text-to-your-landing-page}
 
-1. Wählen Sie Ihre Landingpage aus und klicken Sie auf **Entwurf bearbeiten**.
+1. Wählen Sie Ihre Landingpage aus und klicken Sie auf **[!UICONTROL Entwurf bearbeiten]**.
 
    ![](assets/image2014-9-16-14-3a30-3a29.png)
 
@@ -27,11 +27,11 @@ ht-degree: 1%
    >
    >Der Landingpage-Designer wird in einem neuen Fenster geöffnet.
 
-1. Ziehen Sie über das **Rich-Text**-Element.
+1. Ziehen Sie über das **[!UICONTROL Rich-Text]**-Element.
 
    ![](assets/image2015-5-21-12-3a28-3a49.png)
 
-1. Geben Sie den gewünschten Text ein und klicken Sie auf **Speichern**.
+1. Geben Sie den gewünschten Text ein und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/image2015-7-8-17-3a0-3a49.png)
 
@@ -45,7 +45,7 @@ Token sind dynamische Textteile, mit denen Sie Ihre Landingpage personalisieren 
 >
 >Dinge wie Vorname stammen aus dem Personendatensatz. Andere Token werden von der Registerkarte Meine Token im Programm bereitgestellt.
 
-1. Wählen Sie Ihre Landingpage aus und klicken Sie auf **Entwurf bearbeiten**.
+1. Wählen Sie Ihre Landingpage aus und klicken Sie auf **[!UICONTROL Entwurf bearbeiten]**.
 
    ![](assets/image2014-9-16-14-3a30-3a54.png)
 
@@ -65,11 +65,11 @@ Token sind dynamische Textteile, mit denen Sie Ihre Landingpage personalisieren 
 
    ![](assets/image2014-9-16-14-3a31-3a20.png)
 
-1. Geben Sie einen **Standardwert“ ein** klicken Sie auf **Einfügen**.
+1. Geben Sie einen **[!UICONTROL Standardwert“ ein]** klicken Sie auf **[!UICONTROL Einfügen]**.
 
    ![](assets/image2014-9-16-14-3a31-3a29.png)
 
-1. Klicken Sie auf **Speichern**.
+1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/image2015-7-8-17-3a25-3a22.png)
 

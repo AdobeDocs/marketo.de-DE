@@ -3,7 +3,7 @@ description: Aufrufergebnisse - Marketo-Dokumente - Produktdokumentation
 title: Aufrufergebnisse
 exl-id: 55ac4d04-8853-46e7-9027-26f0c4897a2a
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
@@ -20,15 +20,15 @@ Erlauben Sie Ihren Vertriebsteams, bei Anrufen Anrufergebnisse auszuwählen, dam
 
 ## Anrufergebnisse aktivieren {#enable-call-outcomes}
 
-1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
+1. Klicken Sie auf das Zahnradsymbol und wählen Sie **[!UICONTROL Einstellungen]** aus.
 
    ![](assets/call-outcomes-1.png)
 
-1. Wählen Sie unter Admin Settings **Dialer** aus.
+1. Wählen [!UICONTROL  unter „Admin] die Option **[!UICONTROL Dialer]** aus.
 
    ![](assets/call-outcomes-2.png)
 
-1. Wählen Sie **Anrufergebnisse aktivieren** aus.
+1. Wählen Sie **[!UICONTROL Anrufergebnisse aktivieren]** aus.
 
    ![](assets/call-outcomes-3.png)
 
@@ -42,15 +42,15 @@ Erlauben Sie Ihren Vertriebsteams, bei Anrufen Anrufergebnisse auszuwählen, dam
 >
 >Sie können maximal 15 Aufrufergebnisse erstellen.
 
-1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
+1. Klicken Sie auf das Zahnradsymbol und wählen Sie **[!UICONTROL Einstellungen]** aus.
 
    ![](assets/call-outcomes-5.png)
 
-1. Wählen Sie unter Admin Settings **Dialer** aus.
+1. Wählen [!UICONTROL  unter „Admin] die Option **[!UICONTROL Dialer]** aus.
 
    ![](assets/call-outcomes-6.png)
 
-1. Klicken Sie **Anrufergebnisse verwalten**.
+1. Klicken Sie **[!UICONTROL Anrufergebnisse verwalten]**.
 
    ![](assets/call-outcomes-7.png)
 
@@ -58,7 +58,7 @@ Erlauben Sie Ihren Vertriebsteams, bei Anrufen Anrufergebnisse auszuwählen, dam
 
    ![](assets/call-outcomes-8.png)
 
-1. Klicken Sie auf die Dropdown-Liste Beantwortet und wählen Sie den Ergebnistyp aus (in diesem Beispiel wählen wir Beantwortet aus). Klicken Sie dann auf **Hinzufügen**.
+1. Klicken Sie auf [!UICONTROL Beantwortet] und wählen Sie den Ergebnistyp aus (in diesem Beispiel wählen wir Beantwortet aus). Klicken Sie dann auf **[!UICONTROL Hinzufügen]**.
 
    ![](assets/call-outcomes-9.png)
 
@@ -70,7 +70,7 @@ Sobald die Aufrufergebnisse aktiviert sind. Benutzer können beim Aufrufen eines
 
    ![](assets/call-outcomes-10.png)
 
-1. Geben Sie die Anrufinformationen in den Wähler ein und klicken Sie auf **Anruf**.
+1. Geben Sie die Anrufinformationen in den Wähler ein und klicken Sie auf **[!UICONTROL Anruf]**.
 
    ![](assets/call-outcomes-11.png)
 

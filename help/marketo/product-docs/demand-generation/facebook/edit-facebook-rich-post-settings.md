@@ -6,16 +6,16 @@ exl-id: f72bfb03-9bc7-46c4-bfb8-b377b2d23fc9
 hide: true
 hidefromtoc: true
 feature: Integrations
-source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '302'
 ht-degree: 0%
 
 ---
 
-# Rich-Post-Einstellungen für Facebook bearbeiten {#edit-facebook-rich-post-settings}
+# Bearbeiten [!DNL Facebook] Rich-Post-Einstellungen {#edit-facebook-rich-post-settings}
 
-Passen Sie Beiträge an, wenn Personen Sie auf Facebook teilen.
+Passen Sie Beiträge an, wenn Personen Sie auf [!DNL Facebook] teilen.
 
 >[!AVAILABILITY]
 >
@@ -25,13 +25,13 @@ Marketo Mit _(Social_ Apps) können Ihre Leads Ihre Landingpages über ihre Verb
 
 ## Rich-Post-Optionen auswählen {#select-rich-post-options}
 
-Sie können die Arten von Seiteninformationen angeben, die in den Rich-Posts von Facebook verwendet werden sollen, die durch Freigaben auf Ihrer Landingpage generiert werden.
+Sie können die Arten von Seiteninformationen angeben, die in den [!DNL Facebook] Rich-Posts verwendet werden sollen, die durch Freigaben auf Ihrer Landingpage generiert wurden.
 
-1. Wählen Sie **Facebook-Nachricht** im Editor für Ihr **YouTube**-Video oder Ihren Social-Media-Button aus.
+1. Wählen Sie **[!UICONTROL Facebook-Nachricht]** im Editor für Ihr **[!DNL YouTube*]* Video oder Ihren Social Button aus.
 
    ![](assets/image2014-9-22-16-3a47-3a21.png)
 
-1. Wählen Sie für Ihre Facebook-Nachricht eine der folgenden Optionen aus.
+1. Wählen Sie für Ihre [!DNL Facebook] Nachricht eine der folgenden Optionen aus.
 
    * Statischen Inhalt hinzufügen: Wählen Sie diese Option aus, um den Titel, die Beschriftung und die Beschreibung manuell einzugeben.
 
@@ -43,27 +43,27 @@ Sie können die Arten von Seiteninformationen angeben, die in den Rich-Posts von
 
    >[!NOTE]
    >
-   >Diese sollten bereits in der Quellseite der Seite vorhanden sein. Um mehr Kontrolle zu haben, können Sie Ihrer Landingpage jedoch bestimmte Facebook-OG-Tags hinzufügen.
+   >Diese sollten bereits in der Quellseite der Seite vorhanden sein. Um mehr Kontrolle zu haben, können Sie Ihrer Landingpage jedoch bestimmte [!DNL Facebook]-Tags hinzufügen.
 
-   * Keinen umfangreichen Inhalt hinzufügen: Beschränkt die Facebook-Posts von Ihrer Landingpage auf die Hauptnachricht und den Link.
+   * Keine umfangreichen Inhalte hinzufügen: Beschränkt die [!DNL Facebook] Beiträge auf Ihrer Landingpage auf die Hauptnachricht und den Link.
 
    ![](assets/image2014-9-22-16-3a48-3a18.png)
 
-## Hinzufügen von Facebook-OG-Tags zu einer Landingpage {#add-facebook-og-tags-to-a-landing-page}
+## Hinzufügen [!DNL Facebook] OG-Tags zu einer Landingpage {#add-facebook-og-tags-to-a-landing-page}
 
-Um die Seitenelemente zu steuern, die in den Facebook-Freigaben von Ihrer Landingpage aus enthalten sein werden, können Sie Ihrer Landingpage Facebook-OG-Tags (Open Graph) für Titel, Beschriftung und Beschreibung hinzufügen.
+Um die Seitenelemente zu steuern, die in den [!DNL Facebook] von Ihrer Landingpage aus enthalten sein werden, können Sie Ihrer Landingpage [!DNL Facebook] OG-Tags (Open Graph) für Titel, Beschriftung und Beschreibung hinzufügen.
 
-1. Öffnen Sie die Landingpage, die Ihr **YouTube-Video** Social-Media-Button enthält.
+1. Öffnen Sie die Landingpage, die Ihre Schaltfläche **[!DNL YouTube]Video** oder Social Media enthält.
 
    ![](assets/image2014-9-22-16-3a51-3a28.png)
 
-   Die **Landingpage Designer** wird in einem neuen Fenster geöffnet.
+   Die **[!UICONTROL Landingpage Designer]** wird in einem neuen Fenster geöffnet.
 
-1. Wählen Sie **Landingpage-Aktionen** > **Bearbeiten von Seiten-Meta-Tags** aus.
+1. Wählen Sie **[!UICONTROL Landingpage-Aktionen]** > **[!UICONTROL Bearbeiten von Seiten-Meta-Tags]** aus.
 
    ![](assets/image2014-9-22-16-3a51-3a36.png)
 
-1. Fügen Sie die HTML hinzu, die og:title, og:caption und og:description definiert. Kopieren Sie diese Zeilen, fügen Sie sie ein und ersetzen Sie den Platzhaltertext:
+1. Fügen Sie die HTML hinzu, die :title, :caption und :description definiert. Kopieren Sie diese Zeilen, fügen Sie sie ein und ersetzen Sie den Platzhaltertext:
 
    `<meta property="og:title" content="My Post Title"/>`
 

@@ -4,7 +4,7 @@ description: Erstellen eines neuen Dialogfelds Web-Kampagne - Marketo-Dokumente 
 title: Erstellen eines neuen Web-Kampagnendialogfelds
 exl-id: 389b0d2d-f39e-4825-b419-373322b6811b
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '749'
 ht-degree: 2%
@@ -19,15 +19,15 @@ Erstellen Sie eine Web-Kampagne, um Ihre Web-Inhalte in Echtzeit zu personalisie
 
 Eine Web-Kampagne ist eine benutzerdefinierte Reaktion, die mit einem bestimmten Segment verknüpft ist. Die Reaktion kann ein Dialogfeld auf Ihrer Website, ein [In-Zone-Ersatz](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md) eine [Widget-Funktion](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md) oder ein E-Mail-Warnhinweis sein.
 
-1. Gehen Sie zu **Web-Kampagnen**.
+1. Gehen Sie zu **[!UICONTROL Web-Kampagnen]**.
 
    ![](assets/image2016-8-18-15-3a48-3a45.png)
 
-1. Wählen **Neue Web-Kampagne erstellen**.
+1. Wählen **[!UICONTROL Neue Web-Kampagne erstellen]**.
 
    ![](assets/image2016-11-4-10-3a58-3a32.png)
 
-1. Wählen Sie den **Dialog** Web-Kampagnentyp aus. Gestalten und fügen Sie Ihr Kreativ im Editor hinzu. Klicken Sie **Vorschau**, um zu sehen, wie die Web-Kampagne auf Ihre Site reagieren wird.
+1. Wählen Sie den **[!UICONTROL Dialog]** Web-Kampagnentyp aus. Gestalten und fügen Sie Ihr Kreativ im Editor hinzu. Klicken Sie **[!UICONTROL Vorschau]**, um zu sehen, wie die Web-Kampagne auf Ihre Site reagieren wird.
 
    ![](assets/new-3.png)
 
@@ -132,7 +132,7 @@ Eine Web-Kampagne ist eine benutzerdefinierte Reaktion, die mit einem bestimmten
 
 ## Bearbeiten einer Web-Kampagne {#edit-a-web-campaign}
 
-1. Klicken Sie auf der **Web** Kampagnenseite in der Web **Kampagne auf** Bearbeiten“.
+1. Klicken Sie auf der **[!UICONTROL Web]** Kampagnenseite in der Web **[!UICONTROL Kampagne auf]** Bearbeiten“.
 
 ![](assets/image2016-11-4-11-3a6-3a19.png)
 
@@ -142,7 +142,7 @@ Eine Web-Kampagne ist eine benutzerdefinierte Reaktion, die mit einem bestimmten
 
 ## Vorschau einer Web-Kampagne {#preview-a-web-campaign}
 
-1. Klicken Sie auf der **Web** Kampagnen **auf** Vorschau“ der Web-Kampagne, die Sie anzeigen möchten.
+1. Klicken Sie auf der **[!UICONTROL Web]** Kampagnen **[!UICONTROL auf]** Vorschau“ der Web-Kampagne, die Sie anzeigen möchten.
 
 ![](assets/image2016-11-4-11-3a8-3a58.png)
 
@@ -152,7 +152,7 @@ Siehe [Klonen einer Web-](/help/marketo/product-docs/web-personalization/working
 
 ## Löschen einer Web-Kampagne {#delete-a-web-campaign}
 
-1. Klicken Sie auf der **Web**&#x200B;**Kampagnen** auf die Web-Kampagne, die Sie löschen möchten.
+1. Klicken Sie auf der **[!UICONTROL Web]****[!UICONTROL Kampagnen]** auf die Web-Kampagne, die Sie löschen möchten.
 
    ![](assets/web-campaigns-1-delete-hand.png)
 

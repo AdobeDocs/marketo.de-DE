@@ -1,63 +1,63 @@
 ---
 unique-page-id: 14745793
-description: Sales Connect-Anpassungen für CRM - Marketo-Dokumente - Produktdokumentation
-title: Sales Connect-Anpassungen für CRM
+description: '[!DNL Sales Connect] für CRM - Marketo-Dokumente - Produktdokumentation'
+title: '[!DNL Sales Connect] für CRM'
 exl-id: c7344ec2-a16b-48a1-8e39-1bbd2818db80
 feature: Marketo Sales Connect
-source-git-commit: dbf058714f6c4e6003c5a64d1048ac8a47931a0f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '690'
+source-wordcount: '676'
 ht-degree: 2%
 
 ---
 
-# Sales Connect-Anpassungen für CRM {#sales-connect-customizations-for-crm}
+# [!DNL Sales Connect] für CRM {#sales-connect-customizations-for-crm}
 
 Die folgenden Felder und Schaltflächen werden von der Metadaten-API in Salesforce CRM erstellt. Nachdem die Felder erstellt wurden, müssen Administratoren die Seiten-Layouts in ihrem CRM konfigurieren, um sie verfügbar zu machen. Anweisungen [finden Sie hier](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/assets/mse-for-sf-classic.pdf).
 
-## Installieren von Anpassungen in Salesforce {#how-to-install-customizations-in-salesforce}
+## Installieren von Anpassungen in [!DNL Salesforce] {#how-to-install-customizations-in-salesforce}
 
-1. Klicken Sie in Sales Connect auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
+1. Klicken Sie [!DNL Sales Connect] auf das Zahnradsymbol und wählen Sie **[!UICONTROL Einstellungen]** aus.
 
    ![](assets/one.png)
 
-1. Wählen Sie unter „Admin-Einstellungen“ **Salesforce**.
+1. Wählen [!UICONTROL  unter „Admin] die Option **[!UICONTROL Salesforce]**.
 
    ![](assets/two.png)
 
-1. Klicken Sie auf **Marketo Sales Connect-**.
+1. Klicken Sie auf **[!UICONTROL Marketo Sales Engage-Anpassungen]**.
 
    ![](assets/three.png)
 
-1. Klicken Sie **Mit Salesforce verbinden**.
+1. Klicken Sie **[!UICONTROL Mit Salesforce verbinden]**.
 
    ![](assets/four.png)
 
-1. Melden Sie sich bei Salesforce an.
+1. Melden Sie sich bei [!DNL Salesforce] an.
 
    ![](assets/five.png)
 
-## Salesforce-Anpassung aktualisieren {#update-salesforce-customization}
+## [!DNL Salesforce] aktualisieren {#update-salesforce-customization}
 
-Die Aktualisierungen des Salesforce-Anpassungspakets umfassen Verbesserungen und Fehlerbehebungen. Gehen Sie wie folgt vor, um zu überprüfen, ob Updates verfügbar sind oder um ein Update durchzuführen.
+Die Aktualisierungen des Pakets zur [!DNL Salesforce] enthalten Verbesserungen und Fehlerbehebungen. Gehen Sie wie folgt vor, um zu überprüfen, ob Updates verfügbar sind oder um ein Update durchzuführen.
 
 >[!NOTE]
 >
 >**Administratorberechtigungen erforderlich.**
 
-1. Klicken Sie in [Web-Anwendung](https://www.toutapp.com) auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
+1. Klicken Sie in [Web-Anwendung](https://www.toutapp.com) auf das Zahnradsymbol und wählen Sie **[!UICONTROL Einstellungen]** aus.
 
    ![](assets/sales-connect-customizations-for-crm-6.png)
 
-1. Klicken Sie unter „Admin Settings“ auf **Salesforce**.
+1. Klicken [!UICONTROL  unter „Admin-]&quot; auf **[!UICONTROL Salesforce]**.
 
    ![](assets/sales-connect-customizations-for-crm-7.png)
 
-1. Auf der Karte Sales Connect Customization wird angezeigt, ob Updates verfügbar sind. Klicken Sie **Anpassungen aktualisieren**.
+1. Auf der Karte Anpassung [!DNL Sales Connect] wird angezeigt, ob Aktualisierungen verfügbar sind. Klicken Sie **[!UICONTROL Anpassungen aktualisieren]**.
 
    ![](assets/sales-connect-customizations-for-crm-8.png)
 
-1. Klicken Sie auf **Aktualisieren**.
+1. Klicken Sie auf **[!UICONTROL Aktualisieren]**.
 
    ![](assets/sales-connect-customizations-for-crm-9.png)
 

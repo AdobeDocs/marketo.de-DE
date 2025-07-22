@@ -4,9 +4,9 @@ description: Importieren von Mitgliedern aus einer Tabelle in ein Programm - Mar
 title: Importieren von Mitgliedern aus einer Tabelle in ein Programm
 exl-id: 09c597bb-d28a-463b-8340-ff22d2e0fa02
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Sie können eine Liste von Personen importieren, die automatisch Mitglieder eine
 
 ## Vorbereiten der CSV-Datei {#prepare-your-csv-file}
 
-1. Erstellen Sie in Excel eine standardmäßige CSV-Datei, wie im folgenden Beispiel gezeigt.
+1. Erstellen Sie in [!DNL Excel] eine standardmäßige CSV-Datei wie im folgenden Beispiel.
 
    ![](assets/image2014-9-18-14-3a33-3a4.png)
 

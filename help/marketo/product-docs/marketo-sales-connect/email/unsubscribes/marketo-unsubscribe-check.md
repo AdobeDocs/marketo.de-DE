@@ -4,16 +4,16 @@ description: Marketo-Abmeldeprüfung - Marketo-Dokumente - Produktdokumentation
 title: Überprüfung von Marketo abbestellen
 exl-id: b8bd5b38-a4f5-4ac7-a5ce-a155fce57998
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '190'
 ht-degree: 3%
 
 ---
 
 # Überprüfung von Marketo abbestellen {#marketo-unsubscribe-check}
 
-Die Marketo-Abmeldeprüfung verwendet die Verbindung Ihres Teams zu Marketo, um zu verhindern, dass E-Mails an Personen gesendet werden, die sich im Lead-Management-System von Marketo abgemeldet haben. Wenn ein Verkaufsbenutzer eine E-Mail mit Sales Connect sendet, wird ein API-Aufruf an Marketo durchgeführt, um zu überprüfen, ob die E-Mail-ID abgemeldet wurde. Wenn dies der Fall ist, blockieren wir den Versand der E-Mail.
+Die [!UICONTROL Marketo-Abmeldeprüfung] nutzt die Verbindung Ihres Teams zu Marketo, um zu verhindern, dass E-Mails an Personen gesendet werden, die sich im Lead-Management-System von Marketo abgemeldet haben. Wenn ein Verkaufsbenutzer eine E-Mail mit [!DNL Sales Connect] sendet, wird ein API-Aufruf an Marketo durchgeführt, um zu überprüfen, ob die E-Mail-ID abgemeldet wurde. Wenn dies der Fall ist, blockieren wir den Versand der E-Mail.
 
 >[!NOTE]
 >
@@ -21,19 +21,19 @@ Die Marketo-Abmeldeprüfung verwendet die Verbindung Ihres Teams zu Marketo, um 
 
 ## Einschalten {#turning-it-on}
 
-1. Klicken Sie in der Web-Anwendung auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
+1. Klicken Sie in der Web-Anwendung auf das Zahnradsymbol und wählen Sie **[!UICONTROL Einstellungen]** aus.
 
    ![](assets/one-2.png)
 
-1. Klicken Sie unter „Admin Settings“ auf **Unsubscribes**.
+1. Klicken [!UICONTROL  unter „Admin] auf **[!UICONTROL Abmeldungen]**.
 
    ![](assets/two-3.png)
 
-1. Klicken Sie auf **Integrationen**.
+1. Klicken Sie auf **[!UICONTROL Integrationen]**.
 
    ![](assets/three-3.png)
 
-1. Klicken Sie im Abschnitt Marketo-Abmeldeprüfung auf den Schieberegler, um die Prüfung zu aktivieren.
+1. Klicken Sie im Abschnitt [!UICONTROL Marketo-Abmeldeprüfung] auf den Schieberegler, um die Prüfung zu aktivieren.
 
    ![](assets/four-2.png)
 

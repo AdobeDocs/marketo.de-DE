@@ -4,7 +4,7 @@ description: Verwenden von URLs in meinen Token - Marketo-Dokumente - Produktdok
 title: Verwenden von URLs in meinen Token
 exl-id: 6830c621-4d94-4f31-a608-2f7b2aced88c
 feature: Tokens
-source-git-commit: 165dca2573f340ede147866c3a30707bbfb6857c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 0%
@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Verwenden von URLs in meinen Token {#using-urls-in-my-tokens}
 
-Gehen Sie wie folgt vor, um mit meinen Token URLs in Ihre E-Mails einzufügen.
+Gehen Sie wie folgt vor, um [!UICONTROL Meine Token] zum Einfügen von URLs in Ihre E-Mails zu verwenden.
 
-1. Wählen Sie Ihr Programm aus und klicken Sie auf **Meine Token**.
+1. Wählen Sie Ihr Programm aus und klicken Sie auf **[!UICONTROL Meine Token]**.
 
    ![](assets/one-4.png)
 
-1. Wählen Sie **Text** Mein Token aus und ziehen Sie es per Drag-and-Drop auf die Arbeitsfläche.
+1. Wählen Sie **[!UICONTROL Text]** Mein Token aus und ziehen Sie es per Drag-and-Drop auf die Arbeitsfläche.
 
    ![](assets/two-4.png)
 
-1. Geben Sie dem Token einen eindeutigen Namen, eine URL (ohne https://) und klicken Sie auf **Speichern**.
+1. Geben Sie dem Token einen eindeutigen Namen, eine URL (ohne https://) und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/three-4.png)
 
@@ -39,7 +39,7 @@ Gehen Sie wie folgt vor, um mit meinen Token URLs in Ihre E-Mails einzufügen.
 
    ![](assets/four-3.png)
 
-1. Klicken Sie **Entwurf bearbeiten**.
+1. Klicken Sie **[!UICONTROL Entwurf bearbeiten]**.
 
    ![](assets/five-3.png)
 
@@ -55,7 +55,7 @@ Gehen Sie wie folgt vor, um mit meinen Token URLs in Ihre E-Mails einzufügen.
    >
    >Sie haben natürlich auch die Möglichkeit, `http://` einzugeben, wenn Ihre Website kein https verwendet.
 
-1. Suchen Sie Ihr Mein Token, wählen Sie es aus und klicken Sie auf **Einfügen**.
+1. Suchen Sie Ihr Mein Token, wählen Sie es aus und klicken Sie auf **[!UICONTROL Einfügen]**.
 
    ![](assets/eight.png)
 
@@ -63,15 +63,15 @@ Gehen Sie wie folgt vor, um mit meinen Token URLs in Ihre E-Mails einzufügen.
 
    ![](assets/nine.png)
 
-1. Markieren Sie den Text, den der Link anzeigen soll, und klicken Sie auf das Symbol Link einfügen/bearbeiten .
+1. Markieren Sie den Text, den der Link anzeigen soll, und klicken Sie auf das Symbol [!UICONTROL Link einfügen/bearbeiten].
 
    ![](assets/ten.png)
 
-1. Drücken Sie Strg/Befehl+V, um den Inhalt in das Feld **URL** einzufügen, und klicken Sie auf **Einfügen**.
+1. Drücken Sie Strg/Befehl+V, um den Inhalt in das Feld **[!UICONTROL URL]** einzufügen, und klicken Sie auf **[!UICONTROL Einfügen]**.
 
    ![](assets/eleven.png)
 
-1. Klicken Sie auf **Speichern**.
+1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/twelve.png)
 

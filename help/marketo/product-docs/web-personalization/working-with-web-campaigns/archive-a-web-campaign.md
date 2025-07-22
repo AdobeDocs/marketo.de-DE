@@ -4,7 +4,7 @@ description: Archivieren einer Web-Kampagne - Marketo-Dokumente - Produktdokumen
 title: Archivieren einer Web-Kampagne
 exl-id: de1ed9a6-bc3f-4cd8-b6c4-f84480cd9116
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 0%
@@ -13,18 +13,18 @@ ht-degree: 0%
 
 # Archivieren einer Web-Kampagne {#archive-a-web-campaign}
 
-1. Gehen Sie zu **Web-Kampagnen**.
+1. Gehen Sie zu **[!UICONTROL Web-Kampagnen]**.
 
    ![](assets/one.jpg)
 
-1. Klicken Sie auf die Status -Dropdown-Liste der gewünschten Web-Kampagne und wählen Sie **Archivieren**.
+1. Klicken Sie auf die Status -Dropdown-Liste der gewünschten Web-Kampagne und wählen Sie **[!UICONTROL Archivieren]**.
 
    ![](assets/two-3.png)
 
    >[!NOTE]
    >
-   >Archivierte Web-Kampagnen werden nicht im Standardfilter angezeigt. Um sie anzuzeigen, klicken Sie auf das Filtersymbol und aktivieren Sie unter **Status** das Kontrollkästchen **Archiviert** und klicken Sie auf **Anwenden**.
+   >Archivierte Web-Kampagnen werden nicht im Standardfilter angezeigt. Um sie anzuzeigen, klicken Sie auf das Filtersymbol und aktivieren Sie unter **[!UICONTROL Status]** das Kontrollkästchen **[!UICONTROL Archiviert]** und klicken Sie auf **[!UICONTROL Anwenden]**.
 
 >[!MORELIKETHIS]
 >
->[Löschen einer Web-Kampagne](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/delete-a-web-campaign.md)
+>[Löschen einer [!UICONTROL Web-Kampagne]](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/delete-a-web-campaign.md)

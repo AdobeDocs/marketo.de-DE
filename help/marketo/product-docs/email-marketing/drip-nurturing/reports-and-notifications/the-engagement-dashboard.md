@@ -4,7 +4,7 @@ description: Das Interaktions-Dashboard - Marketo-Dokumente - Produktdokumentati
 title: Das Interaktions-Dashboard
 exl-id: ba72cadf-416c-4faa-9f0c-aa75fec3c3cf
 feature: Engagement Programs, Reporting
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Das Interaktions-Dashboard ist die einfachste Möglichkeit, um zu sehen, wie die
 
 ## Interaktions-Dashboard anzeigen {#view-the-engagement-dashboard}
 
-Wählen Sie Ihr Interaktionsprogramm aus und klicken Sie auf **Anzeigen** > **Dashboard**.
+Wählen Sie Ihr Interaktionsprogramm aus und klicken Sie auf **Anzeigen** > **[!UICONTROL Dashboard]**.
 
 ![](assets/image2014-9-15-16-3a42-3a41.png)
 
@@ -37,7 +37,7 @@ Dieses Widget hilft Ihnen dabei, vorauszusehen, wann die Leads alle Inhalte ersc
 
 >[!NOTE]
 >
->Sie müssen auf der Registerkarte Setup sicherstellen, dass die Option Erschöpfte Inhaltsbenachrichtigungen aktiviert **,** das obige Diagramm angezeigt wird. Wenn sie deaktiviert sind, sieht das Diagramm anders aus.
+>Sie müssen auf der Registerkarte [!UICONTROL Setup] sicherstellen, dass [!UICONTROL Erschöpfte Inhaltsbenachrichtigungen] aktiviert **[!UICONTROL ,]** das obige Diagramm anzuzeigen. Wenn sie deaktiviert sind, sieht das Diagramm anders aus.
 
 >[!CAUTION]
 >
@@ -49,7 +49,7 @@ Zeigt die durchschnittliche Interaktionsbewertung im Zeitverlauf und die Auswirk
 
 >[!AVAILABILITY]
 >
->Diese Funktion ist als Add-on für Kunden verfügbar, die den Umsatzzyklus-Explorer von Marketo verwenden. Weitere Informationen erhalten Sie beim Adobe Account Team (Ihrem Account Manager).
+>Diese Funktion ist als Add-on für Kunden verfügbar, die den Umsatzzyklus-Explorer von Marketo verwenden. Weitere Informationen erhalten Sie vom Adobe Account Team (Ihrem Account Manager).
 
 ![](assets/image2014-9-15-16-3a45-3a50.png)
 

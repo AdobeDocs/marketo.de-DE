@@ -3,7 +3,7 @@ description: Einverständniseinstellungen von zwei Parteien - Marketo-Dokumente 
 title: Einstellungen für Zwei-Parteien-Einverständnis
 exl-id: 47634441-c396-4f0c-a9ea-d4f6872b6bf5
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%
@@ -18,19 +18,19 @@ Um bei der Aufzeichnung von Anrufen die Einhaltung der US-amerikanischen Zwei-Pa
 >
 >Bevor Sie die folgenden Schritte ausführen, müssen Sie zunächst [Anrufaufzeichnung aktivieren](/help/marketo/product-docs/marketo-sales-insight/actions/phone/enable-call-recording.md).
 
-1. Klicken Sie auf das Symbol Einstellungen und wählen Sie **Einstellungen** aus.
+1. Klicken Sie auf das Symbol Einstellungen und wählen Sie **[!UICONTROL Einstellungen]** aus.
 
    ![](assets/two-party-consent-settings-1.png)
 
-1. Klicken Sie unter „Admin Settings“ auf **General**.
+1. Klicken [!UICONTROL  unter &quot;]&quot; auf **[!UICONTROL Allgemein]**.
 
    ![](assets/two-party-consent-settings-2.png)
 
-1. Klicken Sie auf der Karte „Anrufaufzeichnung“ auf **Hinweis zur Aufzeichnung verwalten**.
+1. Klicken Sie auf der Karte Anrufaufzeichnung“ auf **[!UICONTROL Hinweis zur Aufzeichnung verwalten]**.
 
    ![](assets/two-party-consent-settings-3.png)
 
-1. Klicken Sie **Aufzeichnung importieren**.
+1. Klicken Sie **[!UICONTROL Aufzeichnung importieren]**.
 
    ![](assets/two-party-consent-settings-4.png)
 
@@ -42,7 +42,7 @@ Um bei der Aufzeichnung von Anrufen die Einhaltung der US-amerikanischen Zwei-Pa
 
    ![](assets/two-party-consent-settings-5.png)
 
-1. Wählen Sie nach Abschluss des Uploads die Daten (drei Punkte) im Datei-Manager aus und klicken Sie auf **Als Einverständniserklärung auswählen**. Klicken **abschließend** OK“.
+1. Wählen Sie nach Abschluss des Uploads die Daten (drei Punkte) im Datei-Manager aus und klicken Sie auf **[!UICONTROL Als Einverständniserklärung auswählen]**. Klicken **[!UICONTROL abschließend]** OK“.
 
    ![](assets/two-party-consent-settings-6.png)
 

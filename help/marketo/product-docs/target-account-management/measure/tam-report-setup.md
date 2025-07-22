@@ -4,7 +4,7 @@ description: TAM-Berichteinrichtung - Marketo-Dokumente - Produktdokumentation
 title: TAM-Bericht einrichten
 exl-id: fc451b05-12a2-4761-a273-2c71f92f2284
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 1%
@@ -17,27 +17,27 @@ Der TAM-Verkaufsbericht ist eine wöchentliche, personalisierte E-Mail, die an d
 
 ## Berichteinrichtung {#report-setup}
 
-1. Klicken Sie auf **Admin**.
+1. Klicken Sie auf **[!UICONTROL Admin]**.
 
    ![](assets/one-3.png)
 
-1. Klicken Sie **Target-Kontoverwaltung**.
+1. Klicken Sie **[!UICONTROL Target-Kontoverwaltung]**.
 
    ![](assets/tam-report-setup-2.png)
 
-1. Klicken Sie unter Wöchentlicher Bericht auf **Bearbeiten**.
+1. Klicken [!UICONTROL  unter &quot;] Bericht“ auf **[!UICONTROL Bearbeiten]**.
 
    ![](assets/three-3.png)
 
-1. Klicken Sie auf **Tag** und wählen Sie den Wochentag aus, an dem die Empfänger die E-Mail erhalten sollen.
+1. Klicken Sie auf **[!UICONTROL Tag]** und wählen Sie den Wochentag aus, an dem die Empfänger die E-Mail erhalten sollen.
 
    ![](assets/four-4.png)
 
-1. Um das Layout Ihrer E-Mail zu bestimmen, klicken Sie auf **Dropdown** Sortieren nach“ und wählen Sie aus.
+1. Um das Layout Ihrer E-Mail zu bestimmen, klicken Sie auf **[!UICONTROL Dropdown]** Sortieren nach“ und wählen Sie aus.
 
    ![](assets/five-3.png)
 
-1. Aktivieren Sie das **Benutzer**, klicken Sie dann auf die Dropdown-Liste und wählen Sie aus, wer die E-Mail erhalten soll.
+1. Aktivieren Sie das **[!UICONTROL Benutzer]**, klicken Sie dann auf die Dropdown-Liste und wählen Sie aus, wer die E-Mail erhalten soll.
 
    ![](assets/six-2.png)
 
@@ -45,7 +45,7 @@ Der TAM-Verkaufsbericht ist eine wöchentliche, personalisierte E-Mail, die an d
    >
    >Benachrichtigungen werden nur an Kontoinhaber oder Teammitglieder gesendet.
 
-1. Klicken Sie auf **Speichern**.
+1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/seven-2.png)
 
@@ -53,28 +53,28 @@ Und das war&#39;s!
 
 ## Abmelden {#how-to-unsubscribe}
 
-Für jeden Bericht gibt es die Option zum Opt-out. Klicken Sie dazu einfach auf **Abmelden** am Ende der E-Mail.
+Für jeden Bericht gibt es die Option zum Opt-out. Klicken Sie dazu einfach auf **[!UICONTROL Abmelden]** am Ende der E-Mail.
 
 ![](assets/eight-1.png)
 
 ## Erneutes Abonnieren {#how-to-resubscribe}
 
-1. Klicken Sie auf **Admin**.
+1. Klicken Sie auf **[!UICONTROL Admin]**.
 
    ![](assets/one-3.png)
 
-1. Klicken Sie **Target-Kontoverwaltung**.
+1. Klicken Sie **[!UICONTROL Target-Kontoverwaltung]**.
 
    ![](assets/tam-report-setup-10.png)
 
-1. Klicken Sie unter Wöchentlicher Bericht auf die Nummer, die als Abgemeldet aufgeführt ist.
+1. Klicken Sie unter [!UICONTROL Wöchentlicher Bericht] auf die als „Abgemeldet[!UICONTROL  angegebene ].
 
    ![](assets/nine.png)
 
-1. Klicken Sie auf **Dropdown-** Benutzer“.
+1. Klicken Sie auf **[!UICONTROL Dropdown-]** Benutzer“.
 
    ![](assets/ten.png)
 
-1. Wählen Sie den Benutzer aus, den Sie erneut E-Mails erhalten möchten, und klicken Sie auf **Erneut abonnieren**.
+1. Wählen Sie den Benutzer aus, den Sie erneut E-Mails erhalten möchten, und klicken Sie auf **[!UICONTROL Erneut abonnieren]**.
 
    ![](assets/eleven.png)

@@ -4,7 +4,7 @@ description: Bearbeiten der Browser-Support-Einstellungen „Nicht verfolgen“ 
 title: Bearbeiten der Browser-Support-Einstellungen „Do Not Track“
 exl-id: 22248911-21e9-4e13-9132-22415aa114fc
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->„Do Not Track“ ist standardmäßig auf „Ignorieren“ eingestellt, sodass Sie in diesem Fall keine Schritte ausführen müssen.
+>„Nicht verfolgen“ ist standardmäßig auf **[!UICONTROL Ignorieren]** festgelegt, sodass Sie in diesem Fall keine Schritte ausführen müssen.
 
 1. Klicken Sie auf **[!UICONTROL Admin]**.
 

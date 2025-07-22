@@ -4,9 +4,9 @@ description: Mitglieder verwalten und anzeigen - Marketo-Dokumente - Produktdoku
 title: Mitglieder verwalten und anzeigen
 exl-id: 8d6ad815-4022-4d4b-a258-2bc048ca48f9
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '250'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Verwenden Sie das Suchfeld unten im Abschnitt Mitglieder , um nach Programmmitgl
 
 ## Exportieren des Mitgliederrasters {#export-the-members-grid}
 
-Sie können Ihre Mitgliederliste exportieren, indem Sie auf das Excel-Symbol neben dem Suchfeld klicken.
+Sie können Ihre Mitgliederliste exportieren, indem Sie auf das [!DNL Excel] neben dem Suchfeld klicken.
 
 ![](assets/image2014-10-1-16-3a9-3a55.png)
 

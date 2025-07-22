@@ -4,9 +4,9 @@ description: Verwenden der {{SP_Send_Alert_Info}} „Warnhinweis-Info-Token send
 title: Verwenden des Tokens „Warnhinweisinfo senden“
 exl-id: 950eb4d1-35d5-4e5c-9624-a38284bff987
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '258'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ Die folgenden Informationen sind Teil der `{{SP_Send_Alert_Info}}`:
 
 ## Hinzufügen des Tokens SP_Send_Alert_Info zu einer E-Mail {#add-the-sp-send-alert-info-token-to-an-email}
 
-1. Wählen Sie die E-Mail aus und klicken Sie **Entwurf bearbeiten**.
+1. Wählen Sie die E-Mail aus und klicken Sie **[!UICONTROL Entwurf bearbeiten]**.
 
    ![](assets/one-3.png)
 
@@ -48,15 +48,15 @@ Die folgenden Informationen sind Teil der `{{SP_Send_Alert_Info}}`:
 
    ![](assets/two-3.png)
 
-1. Platzieren Sie den Cursor an der gewünschten Stelle und klicken Sie auf die Schaltfläche **Token einfügen**.
+1. Platzieren Sie den Cursor an der gewünschten Stelle und klicken Sie auf die Schaltfläche **[!UICONTROL Token einfügen]**.
 
    ![](assets/three-3.png)
 
-1. Suchen Sie das **`{{SP_Send_Alert_Info}}`**-Token, wählen Sie es aus und klicken Sie auf **Einfügen**.
+1. Suchen Sie das **[!UICONTROL {{SP_Send_Alert_Info}}]**-Token, wählen Sie es aus und klicken Sie auf **[!UICONTROL Einfügen]**.
 
    ![](assets/image2014-9-25-15-3a19-3a11.png)
 
-1. Klicken Sie auf **Speichern**.
+1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/image2014-9-25-15-3a19-3a24.png)
 

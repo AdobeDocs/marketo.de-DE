@@ -3,9 +3,9 @@ description: Auslandsgespräche - Marketo Docs - Produktdokumentation
 title: Auslandsgespräche
 exl-id: a6ef6f28-865b-42e7-94e5-32874eb9ecb4
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '395'
+source-wordcount: '392'
 ht-degree: 12%
 
 ---
@@ -143,7 +143,7 @@ Sales Dialer erleichtert Ihnen die internationale Kommunikation. Für Kunden, di
 
 ## Häufig gestellte Fragen zu internationalen Anrufen {#international-calling-faq}
 
-**Warum unterstützen Sales Insight Actions keine internationalen Aufrufe für alle Länder?**
+**Warum unterstützt [!DNL Sales Insight Actions] nicht internationale Aufrufe für alle Länder?**
 
 Heute bieten wir internationale Anrufe mit Sales Dialer ohne zusätzliche Kosten an. Wir möchten Ihnen die Kommunikation mit Ihren eigenen Interessenten und Kunden erleichtern und haben daher Support für internationale Standardgespräche eingeführt. Wir bieten 34 Ländern außerhalb der USA und Kanadas eine Abdeckung für Regionen in Europa, Asien und anderen wichtigen Zielen. Wir werden auf der Grundlage des Feedbacks unserer Kunden weiter expandieren.
 

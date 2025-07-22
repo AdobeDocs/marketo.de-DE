@@ -4,7 +4,7 @@ description: Benutzerdefinierte Feld-Token für Programmteilnehmer - Marketo-Dok
 title: Benutzerdefinierte Feld-Token für Programmteilnehmer
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
 feature: Tokens
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '435'
 ht-degree: 2%
@@ -93,7 +93,7 @@ Benutzerdefinierte Felder für Programmteilnehmer können in E-Mails, Landingpag
 
    ![](assets/program-member-custom-field-tokens-12.png)
 
-1. Suchen Sie das gewünschte Token für das benutzerdefinierte Feld Programmteilnehmer und wählen Sie es aus. Geben Sie einen Standardwert ein und klicken Sie auf Einfügen.
+1. Suchen Sie das gewünschte Token für das benutzerdefinierte Feld Programmteilnehmer und wählen Sie es aus. Geben Sie einen [!UICONTROL Standardwert“ ein ] klicken Sie auf **[!UICONTROL Einfügen]**.
 
    ![](assets/program-member-custom-field-tokens-13.png)
 

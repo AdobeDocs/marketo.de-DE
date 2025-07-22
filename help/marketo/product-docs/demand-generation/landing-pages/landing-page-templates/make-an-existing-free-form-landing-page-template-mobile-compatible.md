@@ -4,40 +4,40 @@ description: Kompatibilität einer vorhandenen Freiform-Landingpage-Vorlage hers
 title: Machen Sie eine vorhandene Freiform-Landingpage-Vorlage mobil kompatibel
 exl-id: 942456a5-3f3e-4a71-aecc-4cc6bf6237b3
 feature: Landing Pages
-source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '251'
 ht-degree: 0%
 
 ---
 
-# Machen Sie eine vorhandene Freiform-Landingpage-Vorlage mobil kompatibel {#make-an-existing-free-form-landing-page-template-mobile-compatible}
+# Erstellen einer vorhandenen Freiform-Landingpage-Vorlage [!UICONTROL Mobile-kompatibel] {#make-an-existing-free-form-landing-page-template-mobile-compatible}
 
 Dies kann an zwei Stellen geschehen, im Vorlagen-Editor und im Landingpage-Editor.
 
 ## Aktualisieren aus dem Vorlageneditor {#upgrade-from-the-template-editor}
 
-1. Gehen Sie zum **Design Studio**.
+1. Gehen Sie zum **[!UICONTROL Design Studio]**.
 
    ![](assets/designstudio-1.png)
 
-1. Wählen Sie **Vorlagen** aus.
+1. Wählen Sie **[!UICONTROL Vorlagen]** aus.
 
    ![](assets/image2015-1-22-20-3a20-3a2.png)
 
-1. Wählen Sie eine Vorlage aus **bei der „Mobile**&quot; **Nein** ist.
+1. Wählen Sie eine Vorlage aus **[!UICONTROL bei der „Mobile]**&quot; **[!UICONTROL Nein]** ist.
 
    ![](assets/image2015-1-22-20-3a22-3a24.png)
 
-1. Klicken Sie **Entwurf bearbeiten**.
+1. Klicken Sie **[!UICONTROL Entwurf bearbeiten]**.
 
    ![](assets/image2015-1-22-20-3a25-3a36.png)
 
-1. Klicken Sie auf **Mobile kompatibel machen**.
+1. Klicken Sie auf **[!UICONTROL Mobile kompatibel machen]**.
 
    ![](assets/image2015-1-22-20-3a30-3a33.png)
 
-1. Klicken Sie auf **Aktualisieren**.
+1. Klicken Sie auf **[!UICONTROL Aktualisieren]**.
 
    ![](assets/image2015-1-22-20-3a32-3a45.png)
 
@@ -49,7 +49,7 @@ Dies kann an zwei Stellen geschehen, im Vorlagen-Editor und im Landingpage-Edito
 
    ![](assets/image2015-1-22-20-3a36-3a43.png)
 
-## Was macht eine Mobile-Vorlage kompatibel? {#what-makes-a-template-mobile-compatible}
+## Was macht eine Vorlage [!UICONTROL Mobile kompatibel]? {#what-makes-a-template-mobile-compatible}
 
 Gute Fragen! Ihre Vorlage muss über die folgenden Tags verfügen:
 
@@ -63,17 +63,17 @@ Wenn ein Fehler auftritt, wird eine Fehlermeldung angezeigt. Klicken Sie auf „
 
 ![](assets/image2015-1-22-20-3a43-3a20.png)
 
-Wenn Sie Änderungen an der Vorlage vornehmen, klicken Sie auf Vorlagenaktionen und wählen Sie Kompatibilität für Mobilgeräte überprüfen aus.
+Wenn Sie Änderungen an der Vorlage vornehmen, klicken Sie auf [!UICONTROL Vorlagenaktionen] und wählen Sie [!UICONTROL Kompatibilität mit Mobilgeräten überprüfen].
 
 ## Aktualisieren einer Vorlage im Freiform-Landingpage-Editor {#upgrading-a-template-from-the-free-form-landing-page-editor}
 
 Wenn Sie eine Landingpage bearbeiten und auf die Registerkarte Mobile klicken, werden Sie manchmal feststellen, dass die Vorlage nicht aktualisiert wurde. Fürchte dich nicht! Sie können es direkt hier aktualisieren.
 
-1. Klicken Sie auf **Registerkarte** Mobil“.
+1. Klicken Sie auf **[!UICONTROL Registerkarte]** Mobil“.
 
    ![](assets/image2015-1-22-20-3a48-3a19.png)
 
-1. Aktivieren Sie das Kontrollkästchen und klicken Sie auf **Aktivieren**.
+1. Aktivieren Sie das Kontrollkästchen und klicken Sie auf **[!UICONTROL Aktivieren]**.
 
    ![](assets/image2015-1-22-20-3a49-3a34.png)
 

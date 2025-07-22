@@ -4,9 +4,9 @@ description: Hinzufügen getrackter Links zu einer Text-E-Mail - Marketo-Dokumen
 title: Hinzufügen getrackter Links zu einer Text-E-Mail
 exl-id: 10b4e029-de23-4054-83f7-b68fea68c838
 feature: Email Editor
-source-git-commit: b3bc6a7ec14a513e4b294852d066f9e3d0f74ef8
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,9 @@ E-Mail-Links in Textform können in Marketo nachverfolgt werden. Sehen wir uns a
 
 1. Wählen Sie Ihre E-Mail aus und klicken Sie **Entwurf bearbeiten**.
 
-![](assets/one-9.png)
+1. Wählen Sie Ihre E-Mail aus und klicken Sie **[!UICONTROL Entwurf bearbeiten]**.
+
+   ![](assets/one-9.png)
 
 1. Doppelklicken Sie auf den bearbeitbaren Bereich, dem Sie den Link hinzufügen möchten.
 

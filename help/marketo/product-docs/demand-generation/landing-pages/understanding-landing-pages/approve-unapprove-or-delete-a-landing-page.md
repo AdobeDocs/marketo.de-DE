@@ -4,7 +4,7 @@ description: Genehmigen, Aufheben der Genehmigung oder Löschen einer Landingpag
 title: Genehmigen, Aufheben der Genehmigung oder Löschen einer Landingpage
 exl-id: ecd964e2-8363-495f-aaf0-e5ba452cb280
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '290'
 ht-degree: 4%
@@ -17,7 +17,7 @@ Landingpages befinden sich im Entwurfsmodus, bis Sie sie genehmigen. Bei der Val
 
 ## Genehmigen einer Landingpage {#approve-a-landing-page}
 
-1. Wählen Sie eine Landingpage aus, gehen Sie zu **Landingpage-Aktionen** und klicken Sie auf **Genehmigen**.
+1. Wählen Sie eine Landingpage aus, gehen Sie zu **[!UICONTROL Landingpage-Aktionen]** und klicken Sie auf **[!UICONTROL Genehmigen]**.
 
    >[!TIP]
    >
@@ -25,7 +25,7 @@ Landingpages befinden sich im Entwurfsmodus, bis Sie sie genehmigen. Bei der Val
 
    ![](assets/image2014-9-16-15-3a28-3a22.png)
 
-1. Sie können auch mit der rechten Maustaste auf Ihre Landingpage klicken und dann auf **Genehmigen** klicken.
+1. Sie können auch mit der rechten Maustaste auf Ihre Landingpage klicken und dann auf **[!UICONTROL Genehmigen]** klicken.
 
    ![](assets/image2014-9-16-15-3a30-3a4.png)
 
@@ -35,21 +35,21 @@ Landingpages befinden sich im Entwurfsmodus, bis Sie sie genehmigen. Bei der Val
 
 ## Genehmigung für eine Landingpage aufheben {#unapprove-a-landing-page}
 
-1. Wählen Sie eine Landingpage aus, gehen Sie zu **Landingpage-Aktionen** und klicken Sie auf **Genehmigung aufheben**.
+1. Wählen Sie eine Landingpage aus, gehen Sie zu **[!UICONTROL Landingpage-Aktionen]** und klicken Sie auf **[!UICONTROL Genehmigung aufheben]**.
 
    ![](assets/image2014-9-16-15-3a31-3a8.png)
 
-1. Sie können auch mit der rechten Maustaste auf Ihre Landingpage klicken und dann auf **Genehmigung aufheben**.
+1. Sie können auch mit der rechten Maustaste auf Ihre Landingpage klicken und dann auf **[!UICONTROL Genehmigung aufheben]**.
 
    ![](assets/image2014-9-16-15-3a31-3a34.png)
 
 >[!NOTE]
 >
->Ihre nicht genehmigte Landingpage wird nicht mehr im Web veröffentlicht und erzeugt keine zusätzliche Aktivität. Besuchern nicht genehmigter Landingpages und deren Facebook-Registerkarten wird die [Fallback-Seite](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md) angezeigt.
+>Ihre nicht genehmigte Landingpage wird nicht mehr im Web veröffentlicht und erzeugt keine zusätzliche Aktivität. Besucherinnen und Besucher nicht genehmigter Landingpages und ihrer Facebook-Registerkarten sehen die [Fallback-Seite](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md).
 
 ## Löschen einer Landingpage {#delete-a-landing-page}
 
-1. Wählen Sie eine Landingpage aus, gehen Sie zu **Landingpage-Aktionen** und klicken Sie auf **Löschen**.
+1. Wählen Sie eine Landingpage aus, gehen Sie zu **[!UICONTROL Landingpage-Aktionen]** und klicken Sie auf **[!UICONTROL Löschen]**.
 
    ![](assets/image2014-9-16-15-3a49-3a59.png)
 
@@ -57,7 +57,7 @@ Landingpages befinden sich im Entwurfsmodus, bis Sie sie genehmigen. Bei der Val
    >
    >Sie können eine genehmigte Landing Page nicht löschen. Entziehen Sie zuerst die Genehmigung.
 
-1. Sie können auch mit der rechten Maustaste auf Ihre Landingpage klicken und dann auf **Löschen** klicken.
+1. Sie können auch mit der rechten Maustaste auf Ihre Landingpage klicken und dann auf **[!UICONTROL Löschen]** klicken.
 
    ![](assets/image2014-9-16-15-3a50-3a40.png)
 
@@ -65,7 +65,7 @@ Landingpages befinden sich im Entwurfsmodus, bis Sie sie genehmigen. Bei der Val
 
 Möchten Sie mehr als eine Landingpage gleichzeitig löschen? So geht&#39;s.
 
-1. Klicken Sie in Design Studio auf **Landingpages**.
+1. Klicken [!UICONTROL  in ]Design Studio **[!UICONTROL auf „Landingpages]**.
 
    ![](assets/one.png)
 
@@ -77,11 +77,11 @@ Möchten Sie mehr als eine Landingpage gleichzeitig löschen? So geht&#39;s.
    >
    >Sie können auch Strg+Klicken verwenden, um mehrere Landingpages zu löschen, die nicht sequenziell sind.
 
-1. Klicken Sie auf die **Landingpage-Aktionen** und wählen Sie **Löschen**.
+1. Klicken Sie auf die **[!UICONTROL Landingpage-Aktionen]** und wählen Sie **[!UICONTROL Löschen]**.
 
    ![](assets/three.png)
 
-1. Klicken Sie auf **Löschen**.
+1. Klicken Sie auf **[!UICONTROL Löschen]**.
 
    ![](assets/four.png)
 

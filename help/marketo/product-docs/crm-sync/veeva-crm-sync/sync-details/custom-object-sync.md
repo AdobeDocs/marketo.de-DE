@@ -5,16 +5,16 @@ hide: true
 hidefromtoc: true
 exl-id: 68bc14e7-dfc9-4dce-b159-24d734ee3c6f
 feature: Veeva CRM
-source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
 
 # Synchronisierung benutzerdefinierter Objekte {#custom-object-sync}
 
-Benutzerdefinierte Objekte, die in Ihrer Veeva CRM-Instanz erstellt wurden, können auch Teil von Marketo Engage sein. So richten Sie es ein.
+Benutzerdefinierte Objekte, die in Ihrer [!DNL Veeva] CRM-Instanz erstellt wurden, können auch Teil von Marketo Engage sein. So richten Sie es ein.
 
 >[!NOTE]
 >
@@ -22,7 +22,7 @@ Benutzerdefinierte Objekte, die in Ihrer Veeva CRM-Instanz erstellt wurden, kön
 
 >[!PREREQUISITES]
 >
->Um ein benutzerdefiniertes Objekt zu verwenden, muss es mit einem Kontakt- oder Kontoobjekt in Veeva CRM verknüpft sein.
+>Um ein benutzerdefiniertes Objekt zu verwenden, muss es mit einem Kontakt- oder Kontoobjekt in [!DNL Veeva] CRM verknüpft sein.
 
 ## Benutzerdefiniertes Objekt aktivieren {#enable-custom-object}
 
@@ -40,7 +40,7 @@ Benutzerdefinierte Objekte, die in Ihrer Veeva CRM-Instanz erstellt wurden, kön
 
    >[!NOTE]
    >
-   >Die Erstsynchronisierung des benutzerdefinierten Veeva-Objektschemas kann einige Minuten dauern.
+   >Die Erstsynchronisierung des [!DNL Veeva] benutzerdefinierten Objektschemas kann einige Minuten dauern.
 
 1. Ziehen Sie das benutzerdefinierte Objekt, das Sie synchronisieren möchten, auf die Arbeitsfläche.
 
@@ -66,7 +66,7 @@ Benutzerdefinierte Objekte, die in Ihrer Veeva CRM-Instanz erstellt wurden, kön
 
    ![](assets/custom-object-sync-8.png)
 
-1. Um alle benutzerdefinierten Veeva-Objekte anzuzeigen, klicken Sie auf **[!UICONTROL Admin]** und **[!UICONTROL Veeva-Objekte synchronisieren]**.
+1. Um alle Ihre [!DNL Veeva] benutzerdefinierten Objekte anzuzeigen, klicken Sie auf **[!UICONTROL Admin]** und **[!UICONTROL Veeva-]**.
 
    ![](assets/custom-object-sync-9.png)
 

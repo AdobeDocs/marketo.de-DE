@@ -4,24 +4,24 @@ description: Schritt 2 von 3 - Erstellen eines Salesforce-Benutzers für Marketo
 title: 'Schritt 2 von 3: Erstellen eines Salesforce-Benutzers für Marketo (Enterprise/Unlimited)'
 exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 feature: Salesforce Integration
-source-git-commit: 989804463f44afbf35ab11c0f23c37b0d328e652
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '428'
-ht-degree: 6%
+source-wordcount: '425'
+ht-degree: 3%
 
 ---
 
-# Schritt 2 von 3: Erstellen eines Salesforce-Benutzers für Marketo (Enterprise/Unlimited) {#step-of-create-a-salesforce-user-for-marketo-enterprise-unlimited}
+# Schritt 2 von 3: Erstellen eines [!DNL Salesforce] für Marketo (Enterprise/Unlimited) {#step-of-create-a-salesforce-user-for-marketo-enterprise-unlimited}
 
 >[!NOTE]
 >
->Diese Schritte müssen von einem Salesforce-Administrator durchgeführt werden
+>Diese Schritte müssen von einem [!DNL Salesforce] Administrator durchgeführt werden
 
 >[!PREREQUISITES]
 >
->[Schritt 1 von 3: Marketo-Felder zu Salesforce hinzufügen (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md){target="_blank"}
+>[Schritt 1 von 3: Marketo-Felder hinzufügen zu [!DNL Salesforce] (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
 
-In diesem Artikel richten Sie Benutzerberechtigungen im Salesforce-Profil ein und erstellen ein Marketo-Salesforce-Integrationskonto.
+In diesem Artikel richten Sie Benutzerberechtigungen in [!DNL Salesforce] Profil ein und erstellen ein Marketo-[!DNL Salesforce] Integrationskonto.
 
 ## Profil erstellen {#create-a-profile}
 
@@ -49,10 +49,10 @@ In diesem Artikel richten Sie Benutzerberechtigungen im Salesforce-Profil ein un
 
 1. Stellen Sie **[!UICONTROL Abschnitt]** Administratorberechtigungen“ sicher, dass die folgenden Kontrollkästchen aktiviert sind:
 
-   * API-fähig
-   * HTML-Vorlagen bearbeiten
-   * Öffentliche Dokumente verwalten
-   * Verwalten öffentlicher Vorlagen
+   * [!UICONTROL API aktiviert]
+   * [!UICONTROL Bearbeiten von HTML-Vorlagen]
+   * [!UICONTROL Öffentliche Dokumente verwalten]
+   * [!UICONTROL Verwalten öffentlicher Vorlagen]
 
    ![](assets/image2014-12-9-9-3a19-3a38.png)
 
@@ -60,25 +60,25 @@ In diesem Artikel richten Sie Benutzerberechtigungen im Salesforce-Profil ein un
    >
    >Stellen Sie sicher, dass Sie das Kontrollkästchen **[!UICONTROL Kennwort läuft nie ab]** aktivieren.
 
-1. Stellen Sie im Abschnitt Allgemeine Benutzerberechtigungen sicher, dass die folgenden Kontrollkästchen aktiviert sind:
+1. Stellen Sie [!UICONTROL  Abschnitt „Allgemeine Benutzerberechtigungen] sicher, dass die folgenden Kontrollkästchen aktiviert sind:
 
-   * Leads konvertieren
-   * Ereignisse bearbeiten
-   * Aufgaben bearbeiten
+   * [!UICONTROL Leads konvertieren]
+   * [!UICONTROL Ereignisse bearbeiten]
+   * [!UICONTROL Aufgaben bearbeiten]
 
    ![](assets/image2014-12-9-9-3a19-3a47.png)
 
-1. Stellen Sie im Abschnitt Standardobjektberechtigungen sicher, dass die Berechtigungen Lesen, Erstellen, Bearbeiten und Löschen für Folgendes aktiviert sind:
+1. Stellen Sie im Abschnitt [!UICONTROL Standardobjektberechtigungen] sicher, dass [!UICONTROL Lesen, Erstellen, Bearbeiten und Löschen] Berechtigungen für Folgendes überprüft werden:
 
-   * Konten
-   * Kampagnen
-   * Kontakte
-   * Leads
-   * Opportunitys
+   * [!UICONTROL Konten]
+   * [!UICONTROL Kampagnen]
+   * [!UICONTROL Kontakte]
+   * [!UICONTROL Leads]
+   * [!UICONTROL Opportunities]
 
    >[!NOTE]
    >
-   >Gewähren Sie den Kampagnen Berechtigungen, wenn Sie die Kampagnensynchronisierung verwenden möchten.
+   >Gewähren Sie Berechtigungen für [!UICONTROL Kampagnen], wenn Sie die Kampagnensynchronisierung verwenden möchten.
 
    ![](assets/image2014-12-9-9-3a19-3a57.png)
 
@@ -96,10 +96,10 @@ In diesem Artikel richten Sie Benutzerberechtigungen im Salesforce-Profil ein un
 
 1. Gehen Sie auf der Seite mit den Profildetails zum Abschnitt **[!UICONTROL Sicherheit auf Feldebene]**. Klicken Sie **[!UICONTROL Anzeigen]**, um die Barrierefreiheit für die Objekte zu bearbeiten:
 
-   * Lead
-   * Kontakt
-   * Konto
-   * Opportunity
+   * [!UICONTROL Lead]
+   * [!UICONTROL Kontakt]
+   * [!UICONTROL Konto]
+   * [!UICONTROL Opportunity]
 
    >[!TIP]
    >
@@ -111,7 +111,7 @@ In diesem Artikel richten Sie Benutzerberechtigungen im Salesforce-Profil ein un
 
    ![](assets/sfdc-sync-field-edit1.png)
 
-1. Suchen Sie die nicht benötigten Felder und stellen Sie sicher, dass **[!UICONTROL Lesezugriff]** und **[!UICONTROL Bearbeitungszugriff]** deaktiviert sind. Klicken Sie auf **[!UICONTROL Speichern]**, wenn Sie fertig sind.
+1. Suchen Sie die nicht benötigten Felder und stellen Sie sicher, dass **[!UICONTROL Lesezugriff]** und **[!UICONTROL Bearbeitungszugriff]** deaktiviert sind. Klicken **[!UICONTROL abschließend]** Speichern“.
 
    >[!NOTE]
    >
@@ -119,7 +119,7 @@ In diesem Artikel richten Sie Benutzerberechtigungen im Salesforce-Profil ein un
 
    ![](assets/sfdc-sync-field-edit2.png)
 
-1. Nachdem Sie alle nicht benötigten Felder deaktiviert haben, müssen Sie **[!UICONTROL Lesezugriff und Bearbeitungszugriff]** für die folgenden Objektfelder überprüfen. Klicken Sie auf **[!UICONTROL Speichern]**, wenn Sie fertig sind.
+1. Nachdem Sie alle nicht benötigten Felder deaktiviert haben, müssen Sie **[!UICONTROL Lesezugriff und Bearbeitungszugriff]** für die folgenden Objektfelder überprüfen. Klicken **[!UICONTROL abschließend]** Speichern“.
 
 <table> 
  <tbody> 
@@ -132,7 +132,7 @@ In diesem Artikel richten Sie Benutzerberechtigungen im Salesforce-Profil ein un
    <td>Feld eingeben</td> 
   </tr> 
   <tr> 
-   <td>Veranstaltung</td> 
+   <td>Ereignis</td> 
    <td>Alle Felder</td> 
   </tr> 
   <tr> 
@@ -148,7 +148,7 @@ In diesem Artikel richten Sie Benutzerberechtigungen im Salesforce-Profil ein un
 
 >[!TIP]
 >
->Erstellen Sie ein dediziertes Salesforce-Konto (z. B. `marketo@yourcompany.com`), um die von Marketo vorgenommenen Änderungen von denen anderer Salesforce-Benutzender zu unterscheiden.
+>Erstellen Sie ein dediziertes [!DNL Salesforce] (z. B. marketo@yourcompany.com), um die von Marketo vorgenommenen Änderungen von denen anderer [!DNL Salesforce] zu unterscheiden.
 
 1. Geben Sie in die Navigationssuchleiste „Benutzer verwalten“ ein und klicken Sie dann auf **[!UICONTROL Benutzer]**. Klicken Sie auf **[!UICONTROL Neuer Benutzer]**.
 
@@ -162,4 +162,4 @@ Schritt 2 von 3 ist abgeschlossen.
 
 >[!NOTE]
 >
->[Schritt 3 von 3: Marketo und Salesforce verbinden (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md){target="_blank"}
+>[Schritt 3 von 3: Marketo verbinden und [!DNL Salesforce] (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)

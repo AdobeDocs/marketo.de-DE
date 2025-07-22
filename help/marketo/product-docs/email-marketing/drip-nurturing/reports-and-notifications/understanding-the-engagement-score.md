@@ -4,7 +4,7 @@ description: Informationen zum Engagement-Score - Marketo-Dokumente - Produktdok
 title: Informationen zur Interaktionsbewertung
 exl-id: 9ba7d6d1-839b-429a-a082-1d87676c394e
 feature: Engagement Programs, Reporting
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Der Interaktionswert macht es leicht zu erkennen, wie effektiv der Inhalt in Ihr
 
 ![](assets/highestengagementwidget.jpg)
 
-Der Score basiert auf einem proprietären Algorithmus, der das Interaktionsverhalten (Offen, Klicken, Programmerfolg) und das Interaktionsverhalten (Abmelden) berücksichtigt. Im Vergleich zu E-Mails, die an Tropf und Pflege erinnern, ergibt dies durchschnittlich 50. Um Personen die Möglichkeit zu geben, mit Ihren Inhalten zu interagieren, wird der Interaktionswert 72 Stunden nach jeder Besetzung berechnet. Außerdem umfasst die Bewertung nur Daten aus **Ihren letzten drei** Umwandlungen.
+Der Score basiert auf einem proprietären Algorithmus, der das eingekoppelte Verhalten ([!UICONTROL Offen], [!UICONTROL Klicken], [!UICONTROL Programmerfolg]) und das ausgekoppelte Verhalten ([!UICONTROL Abmelden]) berücksichtigt. Im Vergleich zu E-Mails, die an Tropf und Pflege erinnern, ergibt dies durchschnittlich 50. Um Personen die Möglichkeit zu geben, mit Ihren Inhalten zu interagieren, wird der Interaktionswert 72 Stunden nach jeder Besetzung berechnet. Außerdem umfasst die Bewertung nur Daten aus **Ihren letzten drei** Umwandlungen.
 
 >[!NOTE]
 >

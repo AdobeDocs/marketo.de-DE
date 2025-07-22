@@ -1,39 +1,39 @@
 ---
 unique-page-id: 11370892
-description: Testen von Facebook-Lead-Anzeigen für die Desktop-Integration mit Marketo - Marketo-Dokumente - Produktdokumentation
+description: Testen von Facebook-Lead-Anzeigen für Desktop-Integration mit Marketo - Marketo-Dokumente - Produktdokumentation
 title: Testen von Facebook-Lead-Anzeigen für die Desktop-Integration mit Marketo
 exl-id: 2025b6e9-ecd7-4677-9f76-bc7813884e93
 feature: Integrations
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '218'
 ht-degree: 1%
 
 ---
 
-# Testen von Facebook-Lead-Anzeigen für die Desktop-Integration mit Marketo {#test-facebook-lead-ads-for-desktop-integration-with-marketo}
+# Testen [!DNL Facebook] Lead-Anzeigen für die Desktop-Integration mit Marketo {#test-facebook-lead-ads-for-desktop-integration-with-marketo}
 
 Nachdem Sie Ihre Lead-Anzeige erstellt haben, sollten Sie sie testen! So geht das auf dem Desktop.
 
 >[!PREREQUISITES]
 >
->Sie müssen [die Facebook-Lead-Anzeigen-Integration einrichten](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
+>Sie müssen [die [!UICONTROL Facebook-Lead-Anzeigen]-Integration ](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
 
-1. Wählen Sie im Facebook Power Editor eine Kampagne und eine Anzeige aus und klicken Sie auf **Bearbeiten**.
+1. Wählen Sie im Facebook Power Editor eine Kampagne und eine Anzeige aus und klicken Sie auf **[!UICONTROL Bearbeiten]**.
 
-1. Klicken **unter** Links **auf den Link In Newsfeed**.
+1. Klicken **[!UICONTROL unter]** Links **[!UICONTROL auf den Link In Newsfeed]**.
 
    ![](assets/image2016-5-13-14-3a35-3a36.png)
 
-1. Sie werden auf einer neuen Registerkarte in Ihrem Browser zu Facebook weitergeleitet. Klicken Sie in der Facebook-Lead-Anzeigeneinheit auf den Aktionsaufruf.
+1. Sie werden auf einer neuen Registerkarte in Ihrem Browser zu [!DNL Facebook] weitergeleitet. Klicken Sie auf die [!UICONTROL Call to action] in der [!DNL Facebook]-Lead-Anzeigeneinheit.
 
    ![](assets/image2016-5-13-14-3a42-3a45.png)
 
    >[!NOTE]
    >
-   >Dies ist nur ein Beispiel, das einen Aufruf für weitere Informationen verwendet. Ihr Aktionsaufruf für die Lead-Anzeigeneinheit kann anders sein.
+   >Dies ist nur ein Beispiel, für das ein Call to action Weitere Infos verwendet wird. Ihr Lead-Anzeigenblock in Call to action ist möglicherweise anders.
 
-1. Senden Sie Ihre Test-Lead-Anzeigeneinheit, indem Sie das Formular auf Ihrem Desktop ausfüllen. Klicken Sie auf **Absenden**.
+1. Senden Sie Ihre Test-Lead-Anzeigeneinheit, indem Sie das Formular auf Ihrem Desktop ausfüllen. Klicken Sie auf **[!UICONTROL Absenden]**.
 
    ![](assets/image2016-5-13-14-3a47-3a43.png)
 
@@ -41,11 +41,11 @@ Nachdem Sie Ihre Lead-Anzeige erstellt haben, sollten Sie sie testen! So geht da
 
    ![](assets/image2016-5-13-14-3a52-3a57.png)
 
-1. Hier passiert der Zauber! Nachdem Sie Ihr Formular gesendet haben, erstellen [eine Smart List in Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) als Teil eines Programms oder in der Datenbank, die den ausgefüllten Formularfilter für Facebook-Lead-Anzeigen verwendet. Fügen Sie den Namen des Lead-Werbeformulars für das soeben gesendete Formular ein.
+1. Hier passiert der Zauber! Nachdem Sie Ihr Formular gesendet haben, erstellen [eine Smart List in Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) als Teil eines Programms oder in der Datenbank, die den Formularfilter Ausgefüllte [!DNL Facebook] Lead-Anzeigen verwendet. Fügen Sie den Namen des Lead-Werbeformulars für das soeben gesendete Formular ein.
 
    ![](assets/image2016-3-11-8-3a59-3a34-1.png)
 
-1. Klicken Sie nun auf die **Personen**, um zu überprüfen, ob die Synchronisierung ordnungsgemäß funktioniert.
+1. Klicken Sie nun auf die **[!UICONTROL Personen]**, um zu überprüfen, ob die Synchronisierung ordnungsgemäß funktioniert.
 
    ![](assets/people.png)
 
@@ -53,4 +53,4 @@ Nachdem Sie Ihre Lead-Anzeige erstellt haben, sollten Sie sie testen! So geht da
 
 >[!MORELIKETHIS]
 >
->[Einrichten von Facebook-Lead-Anzeigen](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
+>[Einrichten [!UICONTROL Facebook-Lead-Anzeigen]](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)

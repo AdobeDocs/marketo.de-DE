@@ -3,7 +3,7 @@ description: Vorlageninteraktion - Marketo-Dokumente - Produktdokumentation
 title: Vorlageninteraktion
 exl-id: b59677a9-8192-4c80-9105-42192a128ef7
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
@@ -16,7 +16,7 @@ Gehen Sie wie folgt vor, um Ihre Vorlageninteraktion anzuzeigen.
 
 1. Navigieren Sie zur **Analytics**-Seite.
 
-1. Klicken Sie auf **Inhalt** und filtern Sie nach dem gewünschten Datumsbereich.
+1. Klicken Sie auf **[!UICONTROL Inhalt]** und filtern Sie nach dem gewünschten Datumsbereich.
 
 1. Basierend auf dem ausgewählten Datumsbereich können Sie oben auf der Seite die Gesamtzahl der E-Mails und Vorlagen sehen, die in Ihrem Team verwendet werden.
 

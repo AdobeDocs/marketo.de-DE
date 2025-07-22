@@ -4,7 +4,7 @@ description: Ändern der Größe von Beschriftung/Feldbreite in einem Formular -
 title: Ändern der Größe von Beschriftungen/Feldbreiten in einem Formular
 exl-id: cef10279-881e-44f3-a979-873fa24d7f4b
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 2%
@@ -31,7 +31,7 @@ Es gibt zwei Möglichkeiten, sowohl die Feldbeschriftungsbreite als auch die Fel
 
    ![](assets/image2014-9-15-15-3a24-3a28.png)
 
-1. Geben Sie einen Wert in Pixel für die Titelbreite und/oder Feldbreite ein.
+1. Geben Sie einen Wert in Pixel für [!UICONTROL Titelbreite] und/oder [!UICONTROL Feldbreite“ ].
 
    ![](assets/image2014-9-15-15-3a24-3a36.png)
 

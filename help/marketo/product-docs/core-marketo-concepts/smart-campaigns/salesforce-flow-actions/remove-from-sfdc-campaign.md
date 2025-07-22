@@ -4,9 +4,9 @@ description: Entfernen aus SFDC Campaign - Marketo-Dokumente - Produktdokumentat
 title: Aus SFDC-Kampagne entfernen
 exl-id: d19e7847-2287-4926-b0bb-635e7700668f
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '104'
 ht-degree: 9%
 
 ---
@@ -19,7 +19,7 @@ So wie Sie [Zu SFDC Campaign hinzufügen](/help/marketo/product-docs/core-market
 
 >[!NOTE]
 >
->Nur verfügbar, wenn mit Salesforce integriert.
+>Nur verfügbar, wenn mit [!DNL Salesforce] integriert.
 
 1. Nachdem Sie im Flussschritt gezogen haben, suchen Sie die Salesforce-Kampagne, aus der Sie die Person oder den Lead entfernen möchten, und wählen Sie sie aus.
 
@@ -29,4 +29,4 @@ So wie Sie [Zu SFDC Campaign hinzufügen](/help/marketo/product-docs/core-market
    >
    >Wenn die Person oder der Lead kein Mitglied der von Ihnen ausgewählten Kampagne ist, wird er/sie übersprungen.
 
-Das ist alles! Wenn Personen oder Leads durch fließen, werden sie aus der von Ihnen ausgewählten Salesforce-Kampagne entfernt.
+Das ist alles! Wenn Personen oder Leads durch fließen, werden sie aus der ausgewählten [!DNL Salesforce] entfernt.

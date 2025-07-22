@@ -4,24 +4,24 @@ description: Kontofilter - Marketo-Dokumente - Produktdokumentation
 title: Kontofilter
 exl-id: a359f53b-c0a0-4b46-bad0-2840ba668892
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '182'
-ht-degree: 6%
+ht-degree: 1%
 
 ---
 
-# Kontofilter {#account-filters}
+# [!UICONTROL Kontofilter] {#account-filters}
 
 Identifizieren und interagieren Sie benannte Konten und die darin enthaltenen Personas mithilfe neuer kontozentrierter Filter.
 
 ## TAM-Filter {#tam-filters}
 
-1. Wählen Sie Ihre Smart-Kampagne aus und klicken Sie auf **Smart-Liste**.
+1. Wählen Sie Ihre Smart-Kampagne aus und klicken Sie auf **[!UICONTROL Smart-Liste]**.
 
    ![](assets/one.png)
 
-1. Klicken Sie auf **+**, um den Ordner **Kontofilter** zu erweitern.
+1. Klicken Sie auf **+**, um den Ordner **[!UICONTROL Kontofilter]** zu erweitern.
 
    ![](assets/two.png)
 
@@ -29,9 +29,9 @@ Identifizieren und interagieren Sie benannte Konten und die darin enthaltenen Pe
 
    ![](assets/three.png)
 
-## Mitglied der Kontoliste {#member-of-account-list}
+## [!UICONTROL Mitglied der Kontenliste] {#member-of-account-list}
 
-Um diesen Filter zu verwenden, klicken Sie auf das Dropdown-Menü Kontoliste …
+Um diesen Filter zu verwenden, klicken Sie auf **[!UICONTROL Dropdown-]** „Kontoliste“.
 
 ![](assets/four.png)
 
@@ -41,11 +41,11 @@ Um diesen Filter zu verwenden, klicken Sie auf das Dropdown-Menü Kontoliste …
 
 >[!NOTE]
 >
->Für den Filter „Mitglied der Kontenliste“ gibt es nur einen Qualifizierer: „is“ - Zusätzliche Qualifizierer (wie „is not“ und „is any„) sind nicht verfügbar.
+>Für den Filter [!UICONTROL Mitglied der Kontenliste] gibt es nur einen Qualifizierer: &quot;[!UICONTROL is]&quot; - Zusätzliche Qualifizierer (wie „is not“ und „is any„) sind nicht verfügbar.
 
-## Mitglied des benannten Kontos {#member-of-named-account}
+## [!UICONTROL Mitglied des spezifischen Kontos] {#member-of-named-account}
 
-Wählen Sie zunächst einen Qualifizierer aus. **Ist** für ein bestimmtes benanntes Konto oder **ist ein beliebiges** für ein beliebiges benanntes Konto.
+Wählen Sie zunächst einen Qualifizierer aus. **[!UICONTROL is]** für ein bestimmtes benanntes Konto oder **[!UICONTROL is any]** für ein beliebiges benanntes Konto.
 
 ![](assets/six.png)
 
@@ -57,11 +57,11 @@ Klicken Sie auf die Dropdown-Liste Benanntes Konto…
 
 ![](assets/eight.png)
 
-Wenn Sie den Qualifizierer „is any“ verwenden, können Sie &quot;[&quot; ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md), um Ihre Suchergebnisse einzugrenzen. Fügen Sie so viele hinzu, wie Sie möchten!
+Wenn Sie den Qualifizierer &quot;[!UICONTROL is any] verwenden, können Sie [einschränkungen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) verwenden, um Ihre Suchergebnisse einzugrenzen. Fügen Sie so viele hinzu, wie Sie möchten!
 
 ![](assets/nine.png)
 
-Legen Sie „Untergeordnete Elemente einbeziehen“ auf „false“ fest, wenn Sie nur Mitglieder aus dem einzelnen Konto der obersten Ebene möchten. Wählen Sie „true“ aus, wenn Mitglieder aus allen untergeordneten Konten einbezogen werden sollen.
+Legen Sie &quot;[!UICONTROL Untergeordnete Elemente einschließen] auf **[!UICONTROL false]** fest, wenn Sie nur Mitglieder aus dem einzelnen Konto der obersten Ebene möchten. Wählen **[!UICONTROL true]**, wenn Mitglieder aus allen untergeordneten Konten einbezogen werden sollen.
 
 ![](assets/ten.png)
 

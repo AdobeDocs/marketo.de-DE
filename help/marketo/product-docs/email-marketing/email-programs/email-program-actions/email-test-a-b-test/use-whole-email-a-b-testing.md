@@ -4,7 +4,7 @@ description: A/B-Tests in „ganzen E-Mails“ verwenden - Marketo-Dokumente - P
 title: A/B-Tests für ganze E-Mails verwenden
 exl-id: 28e5f0e0-702d-4e1d-add8-6bf61752ca5b
 feature: Email Programs, A/B Testing
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '272'
 ht-degree: 0%
@@ -19,15 +19,15 @@ Sie können Ihre E-Mails einfach mit A/B-Tests überprüfen. Ein großartiger Te
 >
 >[Hinzufügen eines A/B-Tests](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 
-1. Klicken Sie unter der Kachel E-Mail mit ausgewählter E-Mail auf **A/B-Test hinzufügen**.
+1. Klicken Sie unter der Kachel E-Mail mit ausgewählter E-Mail auf **[!UICONTROL A/B-Test hinzufügen]**.
 
 ![](assets/image2014-9-12-15-3a22-3a12.png)
 
-1. Ein neues Fenster wird geöffnet. Klicken Sie auf **Testtyp** und wählen Sie &quot;**E-Mails** aus.
+1. Ein neues Fenster wird geöffnet. Klicken Sie auf **[!UICONTROL Testtyp]** und wählen Sie &quot;**[!UICONTROL E-Mails]** aus.
 
    ![](assets/image2014-9-12-15-3a22-3a27.png)
 
-1. Wenn Sie über frühere Testinformationen verfügen (z. B. einen Betrefftest), können Sie sicher auf „Test **&quot;**.
+1. Wenn Sie über frühere Testinformationen verfügen (z. B. einen Betrefftest), können Sie sicher auf „Test **[!UICONTROL &quot;]**.
 
    ![](assets/image2014-9-12-15-3a22-3a40.png)
 
@@ -35,7 +35,7 @@ Sie können Ihre E-Mails einfach mit A/B-Tests überprüfen. Ein großartiger Te
 
    ![](assets/image2014-9-12-15-3a22-3a52.png)
 
-1. Klicken Sie auf **Hinzufügen**, um die E-Mail anzuwenden.
+1. Klicken Sie auf **[!UICONTROL Hinzufügen]**, um die E-Mail anzuwenden.
 
    ![](assets/image2014-9-12-15-3a23-3a20.png)
 
@@ -45,11 +45,11 @@ Sie können Ihre E-Mails einfach mit A/B-Tests überprüfen. Ein großartiger Te
 
 1. Wählen Sie Ihre zweite E-Mail aus.
 
-   [&#128279;](assets/image2014-9-12-15-3a23-3a49.png)
+   [](assets/image2014-9-12-15-3a23-3a49.png)
 
-1. Klicken Sie auf **Hinzufügen**, um die zweite E-Mail anzuwenden. Ziehen Sie den Schieberegler, um den Prozentsatz der Zielgruppe auszuwählen, den Sie Ihren A/B-Test erhalten möchten, und klicken Sie auf **Weiter**.
+1. Klicken Sie auf **[!UICONTROL Hinzufügen]**, um die zweite E-Mail anzuwenden. Ziehen Sie den Schieberegler, um den Prozentsatz der Zielgruppe auszuwählen, den Sie Ihren A/B-Test erhalten möchten, und klicken Sie auf **[!UICONTROL Weiter]**.
 
-   [&#128279;](assets/image2014-9-12-15-3a24-3a1.png)
+   [](assets/image2014-9-12-15-3a24-3a1.png)
 
    >[!NOTE]
    >

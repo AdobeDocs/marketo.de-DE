@@ -1,10 +1,10 @@
 ---
 unique-page-id: 2949158
-description: Integration von RTP mit Google Analytics - Marketo-Dokumente - Produktdokumentation
+description: Integrieren von RTP mit Google Analytics - Marketo-Dokumente - Produktdokumentation
 title: Integrieren von RTP mit Google Analytics
 exl-id: a2bc0c17-dc23-435e-9480-857e97e6fd50
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '581'
 ht-degree: 0%
@@ -32,9 +32,9 @@ ht-degree: 0%
 
 ## Einführung {#introduction}
 
-Analysieren Sie Ihre Web-Analysen aus einem neuen Blickwinkel mithilfe des direkten Datenflusses von Marketo Real-Time Personalization (RTP) zu Ihrem Google Analytics-Konto. Messen Sie Ihre Web-Besuche in GA nach Organisationen, Branchen und RTP-Kampagnen. Sehen Sie sich Metriken wie die Arten von Branchen oder RTP-Segmenten in GA an und erfahren Sie, wie diese Leads funktionieren und entsprechend den verschiedenen Traffic-Quellen (Social, Paid, Organic) generieren. Analysieren Sie Clickthrough-Raten von Kampagnen und messen Sie die Wirkung von Personalisierungskampagnen auf Ihre Website. Nutzen Sie diese Möglichkeit, um den maximalen Nutzen aus Ihrem RTP-Konto zu ziehen
+Analysieren Sie Ihre Web-Analysen aus einem neuen Blickwinkel, indem Sie den direkten Datenfluss von Marketo Real-Time Personalization (RTP) zu Ihrem Google Analytics-Konto (GA) verwenden. Messen Sie Ihre Web-Besuche in GA nach Organisationen, Branchen und RTP-Kampagnen. Sehen Sie sich Metriken wie die Arten von Branchen oder RTP-Segmenten in GA an und erfahren Sie, wie diese Leads funktionieren und entsprechend den verschiedenen Traffic-Quellen (Social, Paid, Organic) generieren. Analysieren Sie Clickthrough-Raten von Kampagnen und messen Sie die Wirkung von Personalisierungskampagnen auf Ihre Website. Nutzen Sie diese Möglichkeit, um den maximalen Nutzen aus Ihrem RTP-Konto zu ziehen
 
-**RTP-Audience Analytics**
+**RTP Audience Analytics**
 
 Mit der Integration erhalten Sie eine neue Dimension in Ihrem GA-Konto. RTP verbessert Ihre Dashboards automatisch um:
 
@@ -66,11 +66,11 @@ Messen Sie Ihre RTP-Kampagnen und korrelieren Sie sie mit Ihrem gesamten Website
 
 1. Fügen Sie die E-Mail rtp.ga2@gmail.com als Benutzer „Lesen und Analysieren“ zu Ihrem GA-Konto hinzu. Weitere Informationen finden Sie unter [hier](https://support.google.com/analytics/answer/2884495?hl=en).
 
-1. In Ihrem RTP-Konto. Navigieren Sie **Kontoeinstellungen**.
+1. In Ihrem RTP-Konto. Navigieren Sie **[!UICONTROL Kontoeinstellungen]**.
 
    ![](assets/image2014-11-28-16-3a54-3a40.png)
 
-1. Unter **Kontoeinstellungen**, **Domain** und **Analytics**.
+1. Unter **[!UICONTROL Kontoeinstellungen]**, **[!UICONTROL Domain]** und **[!UICONTROL Analytics]**.
 
 1. Klicken Sie auf **Google Analytics**.
 
@@ -80,11 +80,11 @@ Messen Sie Ihre RTP-Kampagnen und korrelieren Sie sie mit Ihrem gesamten Website
 
 ![](assets/image2014-11-28-17-3a0-3a17.png)
 
-1. Klicken Sie auf **Speichern**.
+1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
 >[!NOTE]
 >
->Um Segmentdaten an GA zu senden, aktivieren Sie auf der Seite [Segment bearbeiten](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) in der RTP-Plattform das Kontrollkästchen **Ereignis an Google Analytics senden bei Segment Match**.
+>Um Segmentdaten an GA zu senden, aktivieren Sie auf der Seite [[!UICONTROL Segment bearbeiten] in ](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) RTP-Plattform das Kontrollkästchen **[!UICONTROL Ereignis an Google Analytics senden bei Segment Match]**.
 
 ## Einrichten von Google Analytics-Berichten mit RTP-Daten {#setting-up-google-analytics-reports-with-rtp-data}
 
@@ -92,4 +92,4 @@ In Google Analytics können Sie Dashboards, GA-Segmentierung und Reporting verwe
 
 * [Dashboards](https://support.google.com/analytics/answer/1068216?hl=en) bieten einen Überblick über die Leistung der Website.
 * Ein GA-Segment dient zum Filtern von Besuchern in der GA-Oberfläche und zum Anzeigen des Traffics pro Segment. Siehe Erstellen eines Segments [hier](https://support.google.com/analytics/answer/3124493?hl=en).
-* Erstellen [benutzerdefinierter Berichte](https://support.google.com/analytics/answer/1033013?hl=en) um geplante E-Mails anzuzeigen und/oder einzurichten. Siehe unter Anpassung > Neuer benutzerdefinierter Bericht.
+* Erstellen [benutzerdefinierter Berichte](https://support.google.com/analytics/answer/1033013?hl=en) um geplante E-Mails anzuzeigen und/oder einzurichten. Siehe unter **[!UICONTROL Anpassung]** > **[!UICONTROL Neuer benutzerdefinierter Bericht]**.

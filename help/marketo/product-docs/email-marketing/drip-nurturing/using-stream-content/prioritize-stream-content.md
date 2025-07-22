@@ -4,7 +4,7 @@ description: Priorisieren von Stream-Inhalten - Marketo-Dokumente - Produktdokum
 title: Priorisieren von Stream-Inhalten
 exl-id: 81de8a3c-c002-4ecd-afdd-217522c3db01
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Nachdem Sie Inhalte zu Ihrem Stream hinzugefügt haben, sollten Sie die Priorität ändern. Der Inhalt wird bei jeder Besetzung immer von oben nach unten bereitgestellt, und es werden keine Inhalte zweimal an dieselbe Person gesendet.
 
-1. Navigieren Sie **Marketing-Aktivitäten**.
+1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/ma.png)
 
-1. Wählen Sie Ihr Interaktionsprogramm aus und klicken Sie auf die Registerkarte **Streams**.
+1. Wählen Sie Ihr Interaktionsprogramm aus und klicken Sie auf die Registerkarte **[!UICONTROL Streams]**.
 
    ![](assets/cloneasteam-1.jpg)
 

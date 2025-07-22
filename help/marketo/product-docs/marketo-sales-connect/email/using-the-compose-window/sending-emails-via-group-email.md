@@ -4,7 +4,7 @@ description: Senden von E-Mails über Gruppen-E-Mails - Marketo-Dokumente - Prod
 title: E-Mails über Gruppen-E-Mails senden
 exl-id: dbb4415f-9817-4a09-9049-9e8f328f7ea4
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
@@ -17,7 +17,7 @@ So senden/bearbeiten Sie E-Mails mit der Option Gruppen-E-Mail .
 
 ## Senden einer Gruppen-E-Mail {#sending-a-group-email}
 
-1. Klicken Sie auf die **Personen**.
+1. Klicken Sie auf die **[!UICONTROL Personen]**.
 
    ![](assets/one-3.png)
 
@@ -25,7 +25,7 @@ So senden/bearbeiten Sie E-Mails mit der Option Gruppen-E-Mail .
 
    ![](assets/two-3.png)
 
-1. Klicken Sie auf die Schaltfläche Gruppenaktionen und wählen Sie **E-Mail-Gruppe**.
+1. Klicken Sie auf die [!UICONTROL Gruppenaktionen] und wählen Sie **[!UICONTROL E-Mail-Gruppe]** aus.
 
    ![](assets/three-3.png)
 
@@ -49,7 +49,7 @@ So senden/bearbeiten Sie E-Mails mit der Option Gruppen-E-Mail .
 
    ![](assets/edit-four.png)
 
-1. Klicken Sie auf **Dynamische Felder in Vorschau anzeigen** und zeigen Sie die Vorschau rechts an.
+1. Klicken Sie auf **[!UICONTROL Dynamische Felder in Vorschau anzeigen]** und zeigen Sie die Vorschau rechts an.
 
    ![](assets/edit-five.png)
 

@@ -4,7 +4,7 @@ description: Testen der ON24-Ereignisintegration - Marketo-Dokumente - Produktdo
 title: Testen der ON24-Ereignisintegration
 exl-id: 8326b81e-abf7-4615-9a0b-b0a579be8bb8
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Testen Sie die Ereignisintegration gründlich.
 So werden Daten nach dem Ereignis aktualisiert:
 
 * Marketo ruft jede Nacht Teilnehmerdaten von ON24 ab.
-* Sobald die Teilnehmerdaten zwischen Marketo und ON24 synchronisiert wurden, aktualisiert Marketo den Mitgliedschaftsstatus auf „Teilgenommen“, „Teilgenommen bei Bedarf“ oder „Nicht angezeigt“. Auf der Registerkarte **Zusammenfassung** des Ereignisses wird der Ereignisstatus auf **Ereignis abgeschlossen** aktualisiert.
+* Sobald die Teilnehmerdaten zwischen Marketo und ON24 synchronisiert wurden, aktualisiert Marketo den Mitgliedschaftsstatus auf [!UICONTROL Teilgenommen], [!UICONTROL Teilgenommen bei ] oder [!UICONTROL Nicht angezeigt]. Auf der Registerkarte **[!UICONTROL Zusammenfassung]** des Ereignisses wird der Ereignisstatus auf **[!UICONTROL Ereignis abgeschlossen]** aktualisiert.
 
 >[!MORELIKETHIS]
 >

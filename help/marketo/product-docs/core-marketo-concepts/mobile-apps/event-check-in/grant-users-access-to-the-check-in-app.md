@@ -4,7 +4,7 @@ description: Gewähren von Benutzerzugriff auf die Check-in-App - Marketo-Dokume
 title: Gewähren des Zugriffs der Benutzer auf die Check-in-App
 exl-id: 898ac49f-a708-4cdf-b341-58582740a45b
 feature: Mobile Marketing
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '263'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Gewähren des Zugriffs der Benutzer auf die Check-in-App {#grant-users-access-to-the-check-in-app}
 
-Marketo Engage hat eine spezielle Benutzerrolle für die Ereignis-Check-in-App. So erstellen Sie eine neue Rolle mit der Berechtigung zur Verwendung der App.
+Marketo Engage verfügt über eine spezielle Benutzerrolle für die Ereignis-Check-in-App. So erstellen Sie eine neue Rolle mit der Berechtigung zur Verwendung der App.
 
 >[!IMPORTANT]
 >
->Am 2. Oktober 2023 entfernte Adobe die Marketo Events App aus allen App Stores. Wenn Sie die App bereits auf Ihrem Tablet/Mobilgerät installiert haben, können Sie sie vorerst weiter verwenden. Nachdem Ihre Marketo Engage-Instanz zur Authentifizierung von Marketo auf Adobe Identity migriert wurde, können Sie nicht mehr auf die App zugreifen. [Weitere Informationen](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+>Am 2. Oktober 2023 hat Adobe die Marketo Events App aus allen App Stores entfernt. Wenn Sie die App bereits auf Ihrem Tablet/Mobilgerät installiert haben, können Sie sie vorerst weiter verwenden. Nachdem Ihre Marketo Engage-Instanz zur Authentifizierung von Marketo zu Adobe Identity migriert wurde, können Sie nicht mehr auf die App zugreifen. [Weitere Informationen](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 ## Erstellen einer neuen Benutzerrolle für Mobile Apps {#create-a-new-user-role-for-mobile}
 
@@ -59,6 +59,6 @@ Marketo Engage hat eine spezielle Benutzerrolle für die Ereignis-Check-in-App. 
 
    >[!TIP]
    >
-   >Bestehenden Benutzerinnen und Benutzern können Sie entweder eine neue Rolle erstellen oder die Zugriffsberechtigung Mobile App zur aktuellen Rolle hinzufügen.
+   >Bestehenden Benutzerinnen und Benutzern können Sie entweder eine neue Rolle erstellen oder die Berechtigung [!UICONTROL Zugriff auf Mobile App] zur aktuellen Rolle hinzufügen.
 
 Der/die Benutzende erhält eine E-Mail, in der er/sie über Zugriff auf die Check-in-App verfügt.

@@ -4,7 +4,7 @@ description: Hinzufügen einer Länder-Auswahlliste zu Ihrem Formular - Marketo-
 title: Hinzufügen einer Länder-Auswahlliste zu Ihrem Formular
 exl-id: b4725352-7116-4f08-b4ad-2affe81afbf4
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 2%
@@ -15,11 +15,11 @@ ht-degree: 2%
 
 Folgen Sie diesen Anweisungen, um das Feld Land in eine Dropdown-Liste mit einer Liste aller Länder zu konvertieren.
 
-1. Navigieren Sie **Marketing-Aktivitäten**.
+1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities-9.png)
 
-1. Wählen Sie Ihr Formular aus und klicken Sie auf **Formular bearbeiten**.
+1. Wählen Sie Ihr Formular aus und klicken Sie auf **[!UICONTROL Formular bearbeiten]**.
 
    ![](assets/editform-1.png)
 
@@ -27,19 +27,19 @@ Folgen Sie diesen Anweisungen, um das Feld Land in eine Dropdown-Liste mit einer
 
    ![](assets/image2014-9-15-15-3a33-3a7.png)
 
-1. Suchen Sie und wählen Sie **Land** aus.
+1. Suchen Sie und wählen Sie **[!UICONTROL Land]** aus.
 
    ![](assets/image2014-9-15-15-3a33-3a15.png)
 
-1. Wenn das Feld **Land** ausgewählt ist, ändern Sie **Feldtyp** in **Auswählen**.
+1. Wenn das Feld **[!UICONTROL Land]** ausgewählt ist, ändern Sie **[!UICONTROL Feldtyp]** in **[!UICONTROL Auswählen]**.
 
    ![](assets/image2014-9-15-15-3a33-3a21.png)
 
-1. **Bearbeiten** Sie die **Werte**, um die Liste der Länder hinzuzufügen, aus denen Benutzer auswählen können.
+1. **[!UICONTROL Bearbeiten]** Sie die **[!UICONTROL Werte]**, um die Liste der Länder hinzuzufügen, aus denen Benutzer auswählen können.
 
    ![](assets/image2014-9-15-15-3a33-3a40.png)
 
-1. Klicken Sie auf **Erweitert** **Editor**.
+1. Klicken Sie **[!UICONTROL Erweiterter Editor]**.
 
    ![](assets/image2014-9-15-15-3a34-3a1.png)
 
@@ -57,15 +57,15 @@ Folgen Sie diesen Anweisungen, um das Feld Land in eine Dropdown-Liste mit einer
    >
    >Sie können die Liste bearbeiten oder eine andere Liste verwenden.
 
-1. Klicken Sie auf **Speichern**.
+1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/image2014-9-15-15-3a35-3a3.png)
 
-1. Klicken Sie auf **Fertigstellen**.
+1. Klicken Sie auf **[!UICONTROL Fertigstellen]**.
 
    ![](assets/image2014-9-15-15-3a35-3a20.png)
 
-1. Klicken Sie **Genehmigen und schließen**.
+1. Klicken Sie **[!UICONTROL Genehmigen und schließen]**.
 
    ![](assets/image2014-9-15-15-3a35-3a36.png)
 

@@ -3,16 +3,16 @@ description: Hinzufügen/Entfernen eines benutzerdefinierten Objektfelds als Sma
 title: Hinzufügen/Entfernen eines benutzerdefinierten Objektfelds als Smart-Listen-/Trigger-Beschränkungen
 exl-id: b01923be-c307-4788-afb9-0eb4eb018a6d
 feature: Veeva CRM
-source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
 
 # Hinzufügen/Entfernen eines benutzerdefinierten Objektfelds als Smart-Listen-/Trigger-Beschränkungen {#add-remove-custom-object-field-as-smart-list-trigger-constraints}
 
-Marketo Engage bietet eine spezifische Steuerung für die Synchronisation benutzerdefinierter Objekte in Veeva. Auf diese Weise können Sie die Felder auswählen, die als Einschränkungen in benutzerdefinierten Objektfiltern verfügbar sind, und sie als Trigger in Smart-Kampagnen verwenden.
+Marketo Engage bietet spezifische Steuerung für die Synchronisierung [!DNL Veeva] benutzerdefinierten Objekts. Auf diese Weise können Sie die Felder auswählen, die als Einschränkungen in benutzerdefinierten Objektfiltern verfügbar sind, und sie als Trigger in Smart-Kampagnen verwenden.
 
 >[!NOTE]
 >
@@ -32,7 +32,7 @@ Marketo Engage bietet eine spezifische Steuerung für die Synchronisation benutz
 
    >[!TIP]
    >
-   >Wenn die Schaltfläche Sichtbare Felder bearbeiten ausgegraut ist, wird das Objekt derzeit in einer Smart-Liste oder Smart-Kampagne verwendet. Alle Verknüpfungen entfernen, um fortzufahren.
+   >Wenn die Schaltfläche [!UICONTROL Sichtbare Felder bearbeiten] ausgegraut ist, wird das Objekt derzeit in einer Smart-Liste oder Smart-Kampagne verwendet. Alle Verknüpfungen entfernen, um fortzufahren.
 
 1. Wenn die globale Synchronisierung aktiviert ist, klicken Sie auf **[!UICONTROL Globale Synchronisierung deaktivieren]**.
 

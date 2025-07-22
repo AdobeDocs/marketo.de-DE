@@ -3,7 +3,7 @@ description: Vertriebskampagne - Schritttypen und Erinnerungsaufgaben - Marketo-
 title: Vertriebskampagne - Schritttypen und Erinnerungsaufgaben
 exl-id: 41b19452-ba1a-4ca7-bf22-29314072a346
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '318'
 ht-degree: 1%
@@ -24,9 +24,9 @@ Erstellen Sie eine neue E-Mail oder verwenden Sie eine bereits vorhandene Vorlag
 
 ![](assets/sales-campaign-step-types-and-reminder-tasks-2.png)
 
-| **Vorlage verwenden** | Eine der bereits vorhandenen Vorlagen auswählen |
+| **[!UICONTROL Vorlage verwenden]** | Eine der bereits vorhandenen Vorlagen auswählen |
 |---|---|
-| **Als Vorlage speichern** | Speichern Sie die soeben erstellte E-Mail als neue Vorlage |
+| **[!UICONTROL Als Vorlage speichern]** | Speichern Sie die soeben erstellte E-Mail als neue Vorlage |
 | **Inhalt hinzufügen** | Laden Sie eine Datei auf unseren Server hoch und erhalten Sie eine URL (die auf den Inhalt verweist), die in Ihrer E-Mail verfolgt werden kann |
 | **Dateien anhängen** | Datei von Ihrem Computer an die E-Mail anhängen (Größenbeschränkung von 23 MB) |
 
@@ -42,7 +42,7 @@ Richten Sie eine Erinnerung ein, um einem Kontakt per Telefon nachzugehen. Sie k
 
 ### InMail {#inmail}
 
-Die Nachverfolgung über mehrere Kanäle ist eine hervorragende Möglichkeit, um eine Verbindung mit Leads herzustellen. Bei InMail-Aufgaben können Sie eine Erinnerung einrichten, um über LinkedIn Kontakt aufzunehmen.
+Die Nachverfolgung über mehrere Kanäle ist eine hervorragende Möglichkeit, um eine Verbindung mit Leads herzustellen. Bei InMail-Aufgaben können Sie eine Erinnerung einrichten, um über LinkedIn Kontakt zu treten.
 
 ![](assets/sales-campaign-step-types-and-reminder-tasks-4.png)
 

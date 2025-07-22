@@ -4,7 +4,7 @@ description: Vorlagenliste als weiteren Benutzer anzeigen - Marketo-Dokumente - 
 title: Vorlagenliste als einen anderen Benutzer anzeigen
 exl-id: 5640168d-fe87-4cb1-8262-349f8798a3da
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
@@ -19,11 +19,11 @@ Als Administrator können Sie Vorlagen wie beliebige Benutzer anzeigen.
 >
 >**Administratorberechtigungen erforderlich**
 
-1. Klicken Sie auf **Vorlagen**.
+1. Klicken Sie auf **[!UICONTROL Vorlagen]**.
 
    ![](assets/one.png)
 
-1. Klicken Sie auf **Anzeigen als** und wählen Sie den gewünschten Benutzer aus.
+1. Klicken Sie auf **[!UICONTROL Anzeigen als]** und wählen Sie den gewünschten Benutzer aus.
 
    ![](assets/two.png)
 
@@ -33,4 +33,4 @@ Als Administrator können Sie Vorlagen wie beliebige Benutzer anzeigen.
 
    >[!NOTE]
    >
-   >Sie können auch Filter oder die Suchfunktion zusammen mit „Anzeigen nach“ verwenden, um anzuzeigen, was für Sie am relevantesten ist.
+   >Sie können auch Filter oder die Suchfunktion zusammen mit &quot;[!UICONTROL  anzeigen als] verwenden, um anzuzeigen, was für Sie am relevantesten ist.

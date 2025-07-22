@@ -4,16 +4,16 @@ description: Opportunity-Filter und -Trigger - Marketo-Dokumente - Produktdokume
 title: Opportunity-Filter und -Trigger
 exl-id: 5b372c00-1553-4ac3-a495-53e208371d8d
 feature: Smart Lists
-source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '474'
+source-wordcount: '473'
 ht-degree: 5%
 
 ---
 
 # Opportunity-Filter und -Trigger {#opportunity-filters-and-triggers}
 
-Mit Opportunity-Filtern und Triggern können Sie Opportunity-Ereignisse aus Salesforce verfolgen. Sie unterscheiden sich ein wenig von anderen Filtern und Triggern.
+Mit Opportunity-Filtern und Triggern können Sie Opportunity-Ereignisse aus [!DNL Salesforce] verfolgen. Sie unterscheiden sich ein wenig von anderen Filtern und Triggern.
 
 ## Opportunity Filter {#opportunity-filters}
 

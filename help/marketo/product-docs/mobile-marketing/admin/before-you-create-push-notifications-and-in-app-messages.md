@@ -4,7 +4,7 @@ description: Bevor Sie Push-Benachrichtigungen und In-App-Nachrichten erstellen 
 title: Vor dem Erstellen von Push-Benachrichtigungen und In-App-Nachrichten
 exl-id: c7e24338-387b-4c6f-bb29-7f7e6a1a7de5
 feature: Mobile Marketing
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '336'
 ht-degree: 0%
@@ -19,11 +19,11 @@ Das Erstellen von Push-Benachrichtigungen und In-App-Nachrichten ist nicht schwi
 
 1. Der Marketo-Administrator [sendet dann ein Codefragment an den Entwickler](/help/marketo/product-docs/mobile-marketing/admin/send-sdk-code-to-a-developer.md).
 
-1. Der Entwickler lädt die SDK herunter und schließt Snippet und andere Methoden für [Android](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android) oder [iOS](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-ios) ein.
+1. Der Entwickler lädt die SDK herunter und schließt Snippet und andere Methoden für [Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android) oder [iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-ios) ein.
 
 1. Standardmäßig werden In-App-Nachrichten beim Öffnen der App ausgelöst. Wenn Sie Nachrichten für andere Trigger erstellen möchten, z. B. wenn eine bestimmte Seite aufgerufen oder eine bestimmte Schaltfläche gedrückt wird, muss der Entwickler dem Code benutzerdefinierte Ereignisse hinzufügen (siehe [Benutzerspezifische Ereignisse für In-App-Nachrichten](#CustomEvents) unten).
 
-1. Android Der Entwickler [generiert den Server-API-Schlüssel und die Projektnummer für ](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android) oder [die Zertifizierung und das Kennwort für iOS](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios) und sendet sie an den Marketo-Administrator.
+1. Android Der Entwickler [generiert den Server-API-Schlüssel und die Projektnummer für ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android) oder [die Zertifizierung und das Kennwort für iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios) und sendet sie an den Marketo-Administrator.
 
 1. Der Marketo-Administrator konfiguriert den Zugriff auf Push[Benachrichtigungen (mit dem Server-API-Schlüssel (Android)](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md) oder [mit dem Zertifikat (iOS)](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md).
 
@@ -33,7 +33,7 @@ Das Erstellen von Push-Benachrichtigungen und In-App-Nachrichten ist nicht schwi
 
 ## Benutzerdefinierte Ereignisse für In-App-Nachrichten {#custom-events-for-in-app-messages}
 
-Beim In-App-Messaging ist der Display-Trigger standardmäßig auf **App**&quot; eingestellt. Wenn Sie benutzerdefinierte Ereignisse zum Trigger der Anzeige von In-App-Nachrichten verwenden möchten (z. B. **Klicks zum Warenkorb hinzufügen**, **Ansichtseinstellungsseite**), erstellen Sie eine Liste der gewünschten Ereignisse und geben Sie sie an Ihren Mobile-App-Entwickler weiter. Der Entwickler fügt dann die benutzerdefinierten Ereignisse zum Code hinzu. Nachdem sie genehmigt wurden, werden sie beim Einrichten Ihrer Zielgruppe als Display-Trigger angezeigt. **Achtung**: Der Genehmigungsprozess für die benutzerdefinierte Ereigniscodierung kann einige Zeit in Anspruch nehmen.
+Beim In-App-Messaging ist der Display-Trigger standardmäßig auf **[!UICONTROL App]**&quot; eingestellt. Wenn Sie benutzerdefinierte Ereignisse zum Trigger der Anzeige von In-App-Nachrichten verwenden möchten (z. B. **Klicks zum Warenkorb hinzufügen**, **Ansichtseinstellungsseite**), erstellen Sie eine Liste der gewünschten Ereignisse und geben Sie sie an Ihren Mobile-App-Entwickler weiter. Der Entwickler fügt dann die benutzerdefinierten Ereignisse zum Code hinzu. Nachdem sie genehmigt wurden, werden sie beim Einrichten Ihrer Zielgruppe als Display-Trigger angezeigt. **Achtung**: Der Genehmigungsprozess für die benutzerdefinierte Ereigniscodierung kann einige Zeit in Anspruch nehmen.
 
 Nachdem Sie alle Vorbereitungen für In-App-Nachrichten und Push-Benachrichtigungen abgeschlossen haben, ist es an der Zeit, loszulegen!
 

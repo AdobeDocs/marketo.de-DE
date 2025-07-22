@@ -4,7 +4,7 @@ description: Bearbeiten eines Ereigniskanals - Marketo-Dokumente - Produktdokume
 title: Bearbeiten eines Ereigniskanals
 exl-id: 250cc42b-5d83-4741-8b2b-56134171f3a9
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 2%
@@ -25,43 +25,43 @@ Sie können den Kanaltyp auf der Registerkarte „Zusammenfassung **des Ereignis
 
 ## Auf der Registerkarte Zusammenfassung {#from-the-summary-tab}
 
-1. Wählen **unter** Ihr Ereignis aus der Baumstruktur aus.
+1. Wählen **[!UICONTROL unter]** Ihr Ereignis aus der Baumstruktur aus.
 
    ![](assets/eventprogramseelct.png)
 
-1. Navigieren Sie zur Ansicht **Zusammenfassung**.
+1. Navigieren Sie zur Ansicht **[!UICONTROL Zusammenfassung]**.
 
    ![](assets/eventprogramsummary.png)
 
-1. Wählen Sie unter **Kategorie** den aktuellen **Kanal** der als Hyperlink angezeigt wird.
+1. Wählen Sie unter **[!UICONTROL Kategorie]** den aktuellen **[!UICONTROL Kanal]** der als Hyperlink angezeigt wird.
 
    ![](assets/channeltypeevent.png)
 
-1. Wählen Sie aus der Dropdown-Liste einen neuen Kanal aus.
+1. Wählen Sie aus der Dropdown-Liste einen neuen **[!UICONTROL Kanal]** aus.
 
    ![](assets/tradeshowchange.png)
 
-1. Klicken Sie auf **Speichern**.
+1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/2017-06-13-09-35-53.png)
 
 ## Auf der Registerkarte Setup : {#from-the-setup-tab}
 
-Ein neuer Kanaltyp kann auch über die Registerkarte **Einrichtung“ des** zugewiesen werden.
+Ein neuer Kanaltyp kann auch über die Registerkarte **[!UICONTROL Einrichtung“ des]** zugewiesen werden.
 
 1. Wählen Sie Ihr Ereignis aus der Baumstruktur aus.
 
    ![](assets/eventprogramseelct.png)
 
-1. Navigieren Sie zur Registerkarte **Setup**. Doppelklicken Sie auf den aktuellen **Kanal**.
+1. Navigieren Sie zur Registerkarte **[!UICONTROL Setup]**. Doppelklicken Sie auf den aktuellen **Kanal**.
 
    ![](assets/setuptabchangechannel.png)
 
-1. Wählen Sie einen neuen **Kanal** aus.
+1. Wählen Sie einen neuen **[!UICONTROL Kanal]** aus.
 
    ![](assets/tradeshowchange.png)
 
-1. Klicken Sie auf **Speichern**.
+1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/2017-06-13-09-35-53.png)
 

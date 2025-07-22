@@ -4,7 +4,7 @@ description: Freigabeeinstellungen - Marketo-Dokumente - Produktdokumentation
 title: Weitergabe-Einstellungen
 exl-id: fdd4e286-c417-41f1-9cbe-bd78cb597310
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '230'
 ht-degree: 1%
@@ -17,21 +17,21 @@ Verwalten Sie Ihre Vorlagen besser, indem Sie einschränken, was Benutzende mit 
 
 ![](assets/main.png)
 
-Bei der ersten Erstellung Ihres Sales Connect-Kontos sind die Freigabeeinstellungen aktiviert. Dadurch haben Ihre Kontoadministratoren die Möglichkeit, Ihre Vorlagenkategorien zu erstellen und zu organisieren, bevor sie die Schleusentore öffnen, und Benutzern die Freigabe von Inhalten in Ihren Team-Kategorien zu ermöglichen.
+Bei der ersten Erstellung Ihres Sales Connect-Kontos [!UICONTROL  die Freigabeeinstellungen ] aktiviert. Dadurch haben Ihre Kontoadministratoren die Möglichkeit, Ihre Vorlagenkategorien zu erstellen und zu organisieren, bevor sie die Schleusentore öffnen, und Benutzern die Freigabe von Inhalten in Ihren Team-Kategorien zu ermöglichen.
 
-Wenn die Freigabeeinstellungen aktiviert sind, können nur Administratoren Inhalte in Kategorien freigeben, es sei denn, die Freigabeberechtigungen werden einem Team oder allen Benutzern erteilt. Wenn die Freigabeeinstellungen deaktiviert sind, gibt es keine Einschränkungen und alle Benutzenden können Inhalte für beliebige Vorlagenkategorien freigeben.
+Wenn [!UICONTROL Freigabeeinstellungen] aktiviert sind, können nur Administratoren Inhalte in Kategorien freigeben, es sei denn, einem Team oder allen Benutzern werden Freigabeberechtigungen gewährt. Wenn [!UICONTROL Freigabeeinstellungen] deaktiviert ist, gibt es keine Einschränkungen und alle Benutzer können Inhalte für beliebige Vorlagenkategorien freigeben.
 
 ## Konfigurieren der Freigabeeinstellungen {#configure-your-sharing-settings}
 
-1. Navigieren Sie in [Web-](https://toutapp.com/login)) zur Seite Einstellungen .
+1. Wechseln Sie in [Web-](https://toutapp.com/login)) zur Seite [!UICONTROL Einstellungen] .
 
    ![](assets/one-2.png)
 
-1. Wählen Sie unter „Admin-Einstellungen **die Option „Zugriff freigeben**.
+1. Wählen [!UICONTROL  unter „Admin] die Option **[!UICONTROL Zugriff freigeben]** aus.
 
    ![](assets/two-2.png)
 
-1. Stellen Sie sicher **dass „Freigabeeinstellungen** aktiviert sind. Das bedeutet, dass standardmäßig nur Administratoren Vorlagen in Ihren Vorlagenkategorien freigeben können.
+1. Stellen Sie sicher **[!UICONTROL dass „Freigabeeinstellungen]** aktiviert sind. Das bedeutet, dass standardmäßig nur Administratoren Vorlagen in Ihren Vorlagenkategorien freigeben können.
 
    ![](assets/three-2.png)
 
@@ -39,7 +39,7 @@ Wenn die Freigabeeinstellungen aktiviert sind, können nur Administratoren Inhal
 
    ![](assets/four-2.png)
 
-1. Klicken Sie **Teams für Zugriff hinzufügen**.
+1. Klicken Sie **[!UICONTROL Teams für Zugriff hinzufügen]**.
 
    ![](assets/five-2.png)
 
@@ -51,7 +51,7 @@ Wenn die Freigabeeinstellungen aktiviert sind, können nur Administratoren Inhal
    >
    >Wenn Sie keine Teams sehen, müssen Sie zu Team Management gehen und ein Team von Benutzern erstellen.
 
-1. Klicken Sie **Teams für Zugriff hinzufügen** um zu speichern.
+1. Klicken Sie **[!UICONTROL Teams für Zugriff hinzufügen]** um zu speichern.
 
    ![](assets/seven-1.png)
 

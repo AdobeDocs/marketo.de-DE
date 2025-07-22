@@ -4,9 +4,9 @@ description: Erstellen einer neuen Widget-Web-Kampagne - Marketo-Dokumente - Pro
 title: Erstellen einer neuen Widget-Web-Kampagne
 exl-id: e00f5be7-1d33-4659-8f38-b74b53eeb09f
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '628'
+source-wordcount: '629'
 ht-degree: 1%
 
 ---
@@ -17,15 +17,15 @@ Eine Web-Kampagne ist eine benutzerdefinierte Reaktion, die mit einem bestimmten
 
 ## Erstellen einer Widget-Web-Kampagne {#create-a-widget-web-campaign}
 
-1. Gehen Sie zu **Web-Kampagnen**.
+1. Gehen Sie zu **[!UICONTROL Web-Kampagnen]**.
 
    ![](assets/image2016-8-18-15-3a57-3a46.png)
 
-1. Wählen **Neue Web-Kampagne erstellen**.
+1. Wählen **[!UICONTROL Neue Web-Kampagne erstellen]**.
 
    ![](assets/create-new-web-campaign-hand-1.png)
 
-1. Wählen Sie den Kampagnentyp **Widget** aus.
+1. Wählen Sie den Kampagnentyp **[!UICONTROL Widget]** aus.
 
    ![](assets/3.png)
 
@@ -33,7 +33,7 @@ Eine Web-Kampagne ist eine benutzerdefinierte Reaktion, die mit einem bestimmten
 
    ![](assets/4.png)
 
-1. Klicken Sie **Vorschau**, um zu sehen, wie die Web-Kampagne auf Ihre Site reagieren wird.
+1. Klicken Sie **[!UICONTROL Vorschau]**, um zu sehen, wie die Web-Kampagne auf Ihre Site reagieren wird.
 
    ![](assets/preview.png)
 
@@ -86,7 +86,7 @@ Eine Web-Kampagne ist eine benutzerdefinierte Reaktion, die mit einem bestimmten
    <td colspan="1">Zeigen Sie Kampagnen eine Vorschau an, bevor sie gestartet werden.<br> 
     <ul> 
      <li>URL : Geben Sie eine Beispiel-URL ein, unter der die Kampagne ausgeführt werden soll, um ein Vorschaubeispiel dafür zu erhalten, wie die Kampagne live aussehen würde.</li> 
-     <li>Vorschau : Klicken Sie auf <strong>Vorschau</strong>, um ein neues Fenster der Beispiel-URL zu öffnen und zu sehen, wie die Kampagne reagiert (für </a> beste Web-Kampagnenvorschau die Erweiterung <a href="https://chrome.google.com/extensions/detail/ldiddonjplchallbngbccbfdfeldohkj?hl=en" rel="nofollow">Chrome hinzufügen). </li> 
+     <li>Vorschau : Klicken Sie auf <strong>Vorschau</strong>, um ein neues Fenster der Beispiel-URL zu öffnen und zu sehen, wie die Kampagne reagiert (für <a href="https://chrome.google.com/extensions/detail/ldiddonjplchallbngbccbfdfeldohkj?hl=en" rel="nofollow"> beste Web-Kampagnenvorschau die Erweiterung </a>Chrome hinzufügen). </li> 
      <li>Freigeben : Verwenden Sie die Schaltfläche Freigeben , um eine E-Mail an einen Kollegen mit einem Link zur Proxy-Kampagne zu senden.</li> 
     </ul></td> 
   </tr> 
@@ -95,11 +95,11 @@ Eine Web-Kampagne ist eine benutzerdefinierte Reaktion, die mit einem bestimmten
 
 >[!NOTE]
 >
->**Möchten Sie Ihre Web-Kampagnen mit A/B-Tests testen?** Eine oder mehrere Web-Kampagnen können [A/B-Tests durchgeführt werden, um optimale Ergebnisse zu ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md). Mit der Funktion „Auto-Tune“ erkennt die Plattform automatisch die Kampagnen mit besseren Ergebnissen, fährt mit den höchsten Konvertierungskampagnen fort und hält die anderen an.
+>**Möchten Sie Ihre Web-Kampagnen mit A/B-Tests testen?** Eine oder mehrere Web-Kampagnen können [A/B-Tests durchgeführt werden, um optimale Ergebnisse zu ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md). Mit der [!UICONTROL AutoTune]-Funktion erkennt die Plattform automatisch die Kampagnen mit besseren Ergebnissen, setzt die Konvertierungskampagnen mit den höchsten Werten fort und setzt die anderen Kampagnen aus.
 
 ## Bearbeiten einer Web-Kampagne {#edit-a-web-campaign}
 
-Klicken Sie auf der Seite „Web-Kampagnen **auf** Bearbeiten“.
+Klicken Sie auf der [!UICONTROL Web]Kampagnen **[!UICONTROL auf der Kampagne auf]** Bearbeiten“.
 
 ![](assets/image2016-11-4-13-3a2-3a20.png)
 
@@ -113,13 +113,13 @@ Siehe [Klonen einer Web-](/help/marketo/product-docs/web-personalization/working
 
 ## Vorschau einer Web-Kampagne {#preview-a-web-campaign}
 
-Klicken Sie auf der Seite „Web-Kampagnen **auf** Vorschau“ für die Web-Kampagne, die Sie in der Vorschau anzeigen möchten
+Klicken Sie auf [!UICONTROL  Seite ]Web-Kampagnen **[!UICONTROL auf]** Vorschau“ der Web-Kampagne, die Sie in der Vorschau anzeigen möchten
 
 ![](assets/widget-campaign-preview-hand.png)
 
 ## Löschen einer Web-Kampagne {#delete-a-web-campaign}
 
-1. Klicken Sie auf der Seite Web-Kampagnen **der Web** Kampagne, die Sie löschen möchten, auf „Löschen“.
+1. Klicken Sie auf der [!UICONTROL Web]**[!UICONTROL Kampagnen]** auf die Web-Kampagne, die Sie löschen möchten.
 
    ![](assets/widget-campaign-delete-hand.png)
 

@@ -1,16 +1,16 @@
 ---
-description: 'Schritt 3 von 4: Einrichten der Client-App auf MS Dynamics - Marketo-Dokumente - Produktdokumentation'
-title: 'Schritt 3 von 4: Einrichten der Client-App auf MS Dynamics'
+description: Schritt 3 von 4 - Einrichten der Client-App auf MS [!DNL Dynamics] - Marketo-Dokumente - Produktdokumentation
+title: 'Schritt 3 von 4: Einrichten der Client-App auf MS [!DNL Dynamics]'
 exl-id: e7897174-3303-4c3b-8832-3e10f34fca96
 feature: Microsoft Dynamics
-source-git-commit: 4045f262889d06304111288d30da893529396e81
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '302'
 ht-degree: 0%
 
 ---
 
-# Schritt 3 von 4: Einrichten der Client-App auf MS Dynamics {#step-3-of-4-set-up-client-app-ms-dynamics-ropc}
+# Schritt 3 von 4: Einrichten der Client-App auf MS [!DNL Dynamics] {#step-3-of-4-set-up-client-app-ms-dynamics-ropc}
 
 >[!PREREQUISITES]
 >
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 1. Navigieren Sie zu diesem [Microsoft-Artikel](https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/walkthrough-register-app-azure-active-directory#create-an-application-registration){target="_blank"}.
 
-1. Befolgen Sie alle Schritte. Geben Sie für Schritt 3 einen entsprechenden Anwendungsnamen ein (z. B. &quot;Marketo-Integration„). Wählen Sie unter Unterstützte Kontotypen die Option Konto nur in diesem Organisationsverzeichnis aus.
+1. Befolgen Sie alle Schritte. Geben Sie für Schritt 3 einen relevanten Anwendungsnamen ein (z. B. &quot;[!DNL Marketo Integration]„). Wählen Sie unter Unterstützte Kontotypen die Option Konto nur in diesem Organisationsverzeichnis aus.
 
 1. Notieren Sie sich die Anwendungs-ID (ClientId). Sie müssen sie später in Marketo eingeben.
 
@@ -43,17 +43,17 @@ ht-degree: 0%
 
    ![](assets/step-3-of-4-set-up-client-app-ms-dynamics-ropc-4.png)
 
-## Azure AD Federated mit AD FS On-Premise {#azure-ad-federated-with-ad-fs-on-prem}
+## [!DNL Azure AD] mit [!DNL AD FS On-prem] verbunden {#azure-ad-federated-with-ad-fs-on-prem}
 
-Federated Azure AD zu ADFS OnPrem erfordert die Erstellung einer Richtlinie zur Erkennung von Home Realms für die spezifische Anwendung. Mit dieser Richtlinie leitet Azure AD die Authentifizierungsanfrage an den Verbunddienst weiter. Die Synchronisierung von Passwort-Hash muss hierfür in AD Connect aktiviert werden. Weitere Informationen finden Sie unter [OAuth mit ROPC](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth-ropc){target="_blank"} und [Festlegen einer harten Richtlinie für eine Anwendung](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-authentication-for-federated-users-portal#example-set-an-hrd-policy-for-an-application){target="_blank"}.
+Federated [!DNL Azure] AD für [!DNL ADFS Onprem] erfordert die Erstellung einer Heimrealm-Ermittlungsrichtlinie für das jeweilige Programm. Mit dieser Richtlinie leitet [!DNL Azure] AD die Authentifizierungsanfrage an den Verbunddienst weiter. Die Synchronisierung von Passwort-Hashs muss dafür in [!DNL AD Connect] aktiviert sein. Weitere Informationen finden Sie unter [[!DNL OAuth] mit [!DNL ROPC]](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth-ropc) und [Festlegen einer harten Richtlinie für eine Anwendung](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-authentication-for-federated-users-portal#example-set-an-hrd-policy-for-an-application).
 
-Weitere Referenzen [finden Sie hier](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=Interactive%20user%20sign%2Dins%20are,as%20the%20Microsoft%20Authenticator%20app.&amp;text=This%20report%20also%20include%20federated,are%20federated%20to%20Azure%20AD.){target="_blank"}.
+Weitere Referenzen [finden Sie hier](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=Interactive%20user%20sign%2Dins%20are,as%20the%20Microsoft%20Authenticator%20app.&text=This%20report%20also%20include%20federated,are%20federated%20to%20Azure%20AD.){target="_blank"}.
 
 ## Bevor Sie mit Schritt 4 fortfahren {#before-proceeding-to-step-4}
 
-* Wenn Sie die Anzahl der zu synchronisierenden Datensätze einschränken möchten, richten [ jetzt einen benutzerdefinierten Synchronisierungsfilter ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md){target="_blank"}.
-* Führen Sie den [Microsoft Dynamics-Synchronisierungsprozess ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md){target="_blank"}. Es stellt sicher, dass die anfänglichen Setups korrekt ausgeführt wurden.
-* Melden Sie sich beim Marketo Sync User in Microsoft Dynamics CRM an.
+* Wenn Sie die Anzahl der zu synchronisierenden Datensätze einschränken möchten, richten [ jetzt einen benutzerdefinierten Synchronisierungsfilter ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md).
+* Führen Sie den Prozess [validate [!DNL Microsoft Dynamics] sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md) aus. Es stellt sicher, dass die anfänglichen Setups korrekt ausgeführt wurden.
+* Melden Sie sich beim Marketo Sync User in [!DNL Microsoft Dynamics] CRM an.
 
 >[!MORELIKETHIS]
 >

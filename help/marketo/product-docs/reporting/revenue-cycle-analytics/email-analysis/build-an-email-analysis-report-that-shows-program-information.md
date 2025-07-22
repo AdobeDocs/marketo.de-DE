@@ -4,7 +4,7 @@ description: Erstellen Sie einen E-Mail-Analysebericht, der Programminformatione
 title: Erstellen eines E-Mail-Analyseberichts mit Programminformationen
 exl-id: 9d7fd359-c06e-4dab-a0d7-9c360bb44d0d
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 1%
@@ -19,19 +19,19 @@ Gehen Sie wie folgt vor, um einen E-Mail-Analysebericht zu erstellen, der E-Mail
 >
 >Nicht jeder hat diese Funktion erworben. Weitere Informationen erhalten Sie beim Adobe Account Team (Ihrem Account Manager).
 
-1. Starten Sie **Umsatz-Explorer**.
+1. Starten Sie **[!UICONTROL Umsatz-Explorer]**.
 
    ![](assets/report-that-shows-program-information-1.png)
 
-1. Klicken Sie **Neu erstellen** und wählen Sie **Bericht**.
+1. Klicken Sie **[!UICONTROL Neu erstellen]** und wählen Sie **[!UICONTROL Bericht]**.
 
    ![](assets/report-that-shows-program-information-2.png)
 
-1. Wählen Sie **Bereich** E-Mail-Analyse“ aus und klicken Sie auf **OK**.
+1. Wählen Sie **[!UICONTROL Bereich]** E-Mail-Analyse“ aus und klicken Sie auf **[!UICONTROL OK]**.
 
    ![](assets/image2014-9-17-19-3a43-3a20.png)
 
-1. Suchen Sie den gelben Punkt **Gesendet (Woche** und klicken Sie mit der rechten Maustaste darauf. Klicken Sie **Filter**.
+1. Suchen Sie den gelben Punkt **[!UICONTROL Gesendet (Woche]** und klicken Sie mit der rechten Maustaste darauf. Klicken Sie **[!UICONTROL Filtern…]**.
 
    >[!NOTE]
    >
@@ -39,19 +39,19 @@ Gehen Sie wie folgt vor, um einen E-Mail-Analysebericht zu erstellen, der E-Mail
 
    ![](assets/image2014-9-17-19-3a43-3a49.png)
 
-1. Markieren Sie **Aktuelle gesendete Woche** und klicken Sie auf **OK**.
+1. Markieren Sie **[!UICONTROL Aktuell gesendet (Woche)]** und klicken Sie auf **[!UICONTROL OK]**.
 
    ![](assets/image2014-9-17-19-3a43-3a59.png)
 
-1. Suchen Sie nach dem gelben Punkt **Programmkanal** und doppelklicken Sie darauf.
+1. Suchen Sie nach dem gelben Punkt **[!UICONTROL Programmkanal]** und doppelklicken Sie darauf.
 
    ![](assets/image2014-9-17-19-3a44-3a14.png)
 
-1. Suchen Sie nach dem gelben Punkt **E-Mail** Name und doppelklicken Sie darauf.
+1. Suchen Sie nach dem gelben Punkt **[!UICONTROL E-Mail]** Name und doppelklicken Sie darauf.
 
    ![](assets/image2014-9-17-19-3a44-3a34.png)
 
-1. Suchen Sie nach den blauen Punkten **Gesendet**, **Geöffnet** und **Angeklickt** und doppelklicken Sie darauf.
+1. Suchen Sie nach den blauen Punkten **[!UICONTROL Gesendet]**, **[!UICONTROL Geöffnet]** und **[!UICONTROL Angeklickt]** und doppelklicken Sie darauf.
 
    ![](assets/image2014-9-17-19-3a44-3a41.png)
 

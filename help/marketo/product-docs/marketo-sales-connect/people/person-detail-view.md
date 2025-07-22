@@ -4,9 +4,9 @@ description: Personen-Detailansicht - Marketo-Dokumente - Produktdokumentation
 title: Personendetailansicht
 exl-id: 3f5ee34d-a21b-4862-80cc-cad921ca479e
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Die Personendetailansicht bietet ein detailliertes Profil jeder Person in Ihrem 
 
 ## Zugriff {#how-to-access}
 
-1. Um auf die Personendetailansicht zuzugreifen, klicken Sie auf die Registerkarte **Personen**.
+1. Um auf die Personendetailansicht zuzugreifen, klicken Sie auf die Registerkarte **[!UICONTROL Personen]**.
 
    ![](assets/person-detail-view-1.png)
 
@@ -45,8 +45,8 @@ Enthält alle Kontaktinformationen der Person.
 
 **Kontoinformationen**
 
-* Kann eine Person zu Salesforce hinzufügen
-* Abrufen von Konto- und Lead-/Kontaktinformationen aus Salesforce
+* Kann eine Person zu [!DNL Salesforce] hinzufügen
+* Konto- und Lead-/Kontaktinformationen aus [!DNL Salesforce] abrufen
 
 **Benutzerdefinierte Felder**
 
@@ -76,19 +76,19 @@ Zeigt den Verlauf der Kontakte an. Enthält E-Mails, Kampagnen und Aufrufe.
 
 ![](assets/person-detail-view-5.png)
 
-**Verkaufskampagnen**
+**[!UICONTROL Verkaufskampagnen]**
 
 * Anzeigen aller aktiven oder abgeschlossenen Kampagnen, zu denen diese Person gehört
 
-**Marketing-Kampagnen**
+**[!UICONTROL Marketing-Kampagnen]**
 
 * Anzeigen aller Marketing-Kampagnen, in denen diese Person Mitglied ist
 
-**E-Mails**
+**[!UICONTROL E-Mails]**
 
 * Zeigen Sie alle E-Mails an, die Sie dieser Person gesendet haben, und die Interaktionsmetriken
 
-**Verkaufsanrufe**
+**[!UICONTROL Verkaufsanrufe]**
 
 * Alle Aufrufe anzeigen, die Sie an diese Person getätigt haben
 

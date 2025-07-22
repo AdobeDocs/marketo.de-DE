@@ -4,7 +4,7 @@ description: Erstellen von Inhaltsmustern - Marketo-Dokumente - Produktdokumenta
 title: Inhaltsmutter erstellen
 exl-id: 963529fb-1b30-486c-b97d-3ff697f91258
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '367'
 ht-degree: 2%
@@ -13,13 +13,13 @@ ht-degree: 2%
 
 # Inhaltsmutter erstellen {#create-content-patterns}
 
-Wenn Sie Inhaltsmuster festlegen, wird der Inhalt automatisch erkannt, wenn ein Web-Besucher auf die für das Inhaltsmuster relevante HTML-Webseite klickt. Es wird verwendet, um HTML-Seiten (Blog-Beiträge, Pressemitteilungen, Nachrichtenartikel) als Inhaltselemente zur Seite „Alle Inhalte“ hinzuzufügen. Wenn die automatische Erkennung auf Inhaltsmustern basiert, erkennt und verfolgt sie HTML-Seiten, die mit dem definierten URL-Muster zusammenhängen, wenn ein Web-Besucher eine Seite anzeigt oder auf einen Link zu ihr klickt. Dieser Teil des Inhalts (URL, Seitenname und Metadaten, einschließlich Bild-URL und Beschreibung) wird der Seite „Alle Inhalte“ hinzugefügt, um prädiktive Inhalte vorzubereiten. Für die automatische Erkennung anderer Inhalte, z. B. PDFs und eingebettete Videos, müssen Sie [Inhaltssuche aktivieren](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md).
+Wenn Sie Inhaltsmuster festlegen, wird der Inhalt automatisch erkannt, wenn ein Web-Besucher auf die für das Inhaltsmuster relevante HTML-Web-Seite klickt. Er wird verwendet, um HTML-Seiten (Blog-Beiträge, Pressemitteilungen, Nachrichtenartikel) als Inhaltselemente zur Seite „Alle Inhalte“ hinzuzufügen. Wenn die automatische Erkennung auf Inhaltsmustern basiert, werden HTML-Seiten, die mit dem definierten URL-Muster zusammenhängen, erkannt und verfolgt, wenn ein Web-Besucher eine Seite anzeigt oder auf einen Link klickt. Dieser Teil des Inhalts (URL, Seitenname und Metadaten, einschließlich Bild-URL und Beschreibung) wird der Seite „Alle Inhalte“ hinzugefügt, um prädiktive Inhalte vorzubereiten. Für die automatische Erkennung anderer Inhalte, z. B. PDFs und eingebettete Videos, müssen Sie [Inhaltssuche aktivieren](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md).
 
-1. Navigieren Sie **Inhaltseinstellungen**.
+1. Navigieren Sie **[!UICONTROL Inhaltseinstellungen]**.
 
    ![](assets/settings-dropdown-hand-2.png)
 
-1. Klicken Sie auf **URL-Muster**.
+1. Klicken Sie auf **[!UICONTROL URL-Muster]**.
 
    ![](assets/click-url-patterns-hand.png)
 
@@ -27,7 +27,7 @@ Wenn Sie Inhaltsmuster festlegen, wird der Inhalt automatisch erkannt, wenn ein 
 
    ![](assets/content-settings-create-patterns-hand.png)
 
-1. Fügen Sie die URL-Erweiterung der Domain hinzu, in der sich die Webseite befindet. Kategorie auswählen (z. B. Blog, Artikel, Datenblatt, Pressemitteilung).
+1. Fügen Sie die URL-Erweiterung der Domain hinzu, in der sich die Webseite befindet. Wählen Sie die Kategorie aus (z[!UICONTROL  B. ], [!UICONTROL Artikel], [!UICONTROL Datenblatt], [!UICONTROL Pressemitteilung]).
 
    ![](assets/content-settings-create-content-patterns-dm-hands.png)
 
@@ -39,7 +39,7 @@ Wenn Sie Inhaltsmuster festlegen, wird der Inhalt automatisch erkannt, wenn ein 
 
    ![](assets/url-patterns-add2.png)
 
-1. Fügen Sie die Erweiterung und die Kategorie für den zusätzlichen Pfad hinzu und klicken Sie auf **Speichern**.
+1. Fügen Sie die Erweiterung und die Kategorie für den zusätzlichen Pfad hinzu und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/url-patterns-save.png)
 
@@ -76,7 +76,7 @@ Für _domain.com_:
   </tr> 
   <tr> 
    <td>Pressemitteilung</td> 
-   <td><p>Es wird nur eine exakte HTML-Übereinstimmungsseite erkannt:</p><p>domain.com/press-release</p></td> 
+   <td><p>Es wird nur eine exakte Übereinstimmung mit der HTML-Seite erkannt:</p><p>domain.com/press-release</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"> </td> 

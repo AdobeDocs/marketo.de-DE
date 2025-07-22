@@ -4,9 +4,9 @@ description: Importieren einer Liste nicht lateinischer Zeichen - Marketo-Dokume
 title: Importieren einer Liste nicht lateinischer Zeichen
 exl-id: 11519e2c-ab01-4164-8ce3-0717e4c13ae6
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '308'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,11 @@ Wenn Sie sie jedoch in Marketo importieren, stellen Sie möglicherweise fest, da
 
 Dies liegt daran, dass die Datei nicht ordnungsgemäß gespeichert wird, damit Marketo alle nicht lateinischen Zeichen erkennen kann. Die gute Nachricht ist, es gibt ein paar einfache Schritte, die Sie befolgen können, um es zu beheben.
 
-1. Wählen Sie **Speichern unter…** aus dem Menü **Datei** in Excel.
+1. Wählen Sie **[!UICONTROL Speichern unter]…** aus dem Menü **[!UICONTROL Datei]** in Excel.
 
    ![](assets/image2015-2-10-9-3a46-3a44.png)
 
-1. Wählen Sie **UTF-16 Unicode Text (.txt)** als **Format** Option. Dadurch wird die Datei so kodiert, wie Marketo sie anzeigen kann.
+1. Wählen Sie **[!UICONTROL UTF-16 Unicode Text (.txt)]** als **[!UICONTROL Format]** Option. Dadurch wird die Datei so kodiert, wie Marketo sie anzeigen kann.
 
    ![](assets/image2015-2-10-9-3a48-3a7.png)
 
@@ -39,7 +39,7 @@ Dies liegt daran, dass die Datei nicht ordnungsgemäß gespeichert wird, damit M
 
    >[!TIP]
    >
-   >Sie können die Textdatei mit **Notepad** öffnen, wenn Sie Windows verwenden, oder **TextEdit** wenn Sie eine Mac verwenden.
+   >Sie können die Textdatei mithilfe von **[!DNL Notepad]** öffnen, wenn Sie Windows verwenden, oder **[!DNL TextEdit]**, wenn Sie eine Mac verwenden.
 
    ![](assets/image2015-2-10-9-3a51-3a41.png)
 
@@ -47,15 +47,15 @@ Dies liegt daran, dass die Datei nicht ordnungsgemäß gespeichert wird, damit M
 
    ![](assets/image2015-2-10-9-3a55-3a53.png)
 
-1. Wählen **Suchen und Ersetzen…** aus dem Menü **Bearbeiten** aus.
+1. Wählen **[!UICONTROL Suchen und Ersetzen]…** aus dem Menü **[!UICONTROL Bearbeiten]** aus.
 
    ![](assets/image2015-2-10-9-3a59-3a8.png)
 
    >[!TIP]
    >
-   >Die entsprechende Aktion für Windows-Benutzer lautet: **Bearbeiten > Ersetzen…**
+   >Die entsprechende Aktion für Windows-Benutzer lautet: **[!UICONTROL Bearbeiten] > [!UICONTROL Ersetzen]…**
 
-1. Fügen Sie die in Schritt 4 kopierte Registerkarte in das erste (zu ersetzende) Feld ein und geben Sie in das zweite (durch ersetzen) Feld ein Komma ein. und klicken Sie auf **Alle**.
+1. Fügen Sie die in Schritt 4 kopierte Registerkarte in das erste (zu ersetzende) Feld ein und geben Sie in das zweite (durch ersetzen) Feld ein Komma ein. und klicken Sie auf **[!UICONTROL Alle]**.
 
    ![](assets/image2015-2-10-10-3a8-3a53.png)
 

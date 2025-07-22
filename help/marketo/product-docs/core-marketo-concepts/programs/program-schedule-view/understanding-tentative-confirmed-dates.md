@@ -4,7 +4,7 @@ description: Informationen zu voraussichtlichen/bestätigten Daten - Marketo-Dok
 title: Informationen zu voraussichtlichen/bestätigten Daten
 exl-id: af6b907f-e4d8-432f-b1da-dd7c04376ba8
 feature: Programs
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 1%
@@ -27,7 +27,7 @@ Vorläufige Termine vermitteln Absicht. Stellen Sie sich das als _Bleistift_ etw
 
 ## Einträge bestätigen {#confirming-entries}
 
-Dies entspricht der Genehmigung eines Assets. Daher müssen die Einträge vollständig eingerichtet sein, bevor Sie sie bestätigen können. Sobald sich alle Enten in einer Reihe befinden, können Sie die Eingaben bestätigen, indem Sie die Registerkarte „Tentative“ nach rechts verschieben.
+Dies entspricht der Genehmigung eines Assets. Daher müssen die Einträge vollständig eingerichtet sein, bevor Sie sie bestätigen können. Sobald sich alle Enten in einer Reihe befinden, können Sie die Eingaben bestätigen, indem Sie die [!UICONTROL Tentative]-Registerkarte nach rechts verschieben.
 
 ![](assets/image2014-9-23-15-3a23-3a2.png)
 

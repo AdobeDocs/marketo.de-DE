@@ -4,16 +4,16 @@ description: Übersicht über Email Editor v2.0 - Marketo-Dokumente - Produktdok
 title: Übersicht über Email Editor v2.0
 exl-id: 082570d5-3d26-48f5-83f4-76ad9efc9c9d
 feature: Email Editor
-source-git-commit: 1c40ab5912772c2a26dccde111a468daff16c3bc
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '426'
+source-wordcount: '423'
 ht-degree: 0%
 
 ---
 
 # Übersicht über Email Editor v2.0 {#email-editor-v2-overview}
 
-Wenn Sie sich für die Aktivierung des E-Mail-Editors 2.0 entscheiden, werden Sie mehrere neue Funktionen feststellen.
+Wenn Sie sich entscheiden, die [!DNL Email Editor v2.0] zu aktivieren, werden Sie mehrere neue Funktionen bemerken.
 
 **Auswahl der E-Mail-Vorlagen**
 
@@ -35,7 +35,7 @@ Diese Dinge auf der rechten Seite des Editors werden Module genannt. Erfahren Si
 
 **Textversion**
 
-Der Wechsel zwischen der HTML- und der Textversion Ihrer E-Mail erfolgt jetzt auf einer praktischen Registerkarte am unteren Rand. Erfahren Sie, wie [ die Textversion einer E-Mail bearbeiten ](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md).
+Der Wechsel zwischen der HTML- und der Textversion Ihrer E-Mail erfolgt jetzt unten in einer praktischen Registerkarte. Erfahren Sie, wie [ die Textversion einer E-Mail bearbeiten ](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md).
 
 ![](assets/email-editor-v2-overview-4.png)
 
@@ -59,7 +59,7 @@ Standardmäßig zeigt die E-Mail an, wie sie auf einem Desktop aussehen würde, 
 
 ![](assets/email-editor-v2-overview-8.png)
 
-Um eine größere Vorschau anzuzeigen, klicken **oben** in der E-Mail auf „Vorschau“.
+Um eine größere Vorschau anzuzeigen, klicken **[!UICONTROL oben]** in der E-Mail auf „Vorschau“.
 
 ![](assets/email-editor-v2-overview-9.png)
 
@@ -67,13 +67,13 @@ Die Standardansicht dort ist Desktop…
 
 ![](assets/email-editor-v2-overview-10.png)
 
-…aber Sie können auch sehen, wie es auf einem Mobilgerät aussieht. Sie können auch eine Vorschau der Textversion anzeigen! Klicken Sie einfach **Entwurf bearbeiten** oben rechts, um mit der Bearbeitung fortzufahren.
+…aber Sie können auch sehen, wie es auf einem Mobilgerät aussieht. Sie können auch eine Vorschau der Textversion anzeigen! Klicken Sie einfach **[!UICONTROL Entwurf bearbeiten]** oben rechts, um mit der Bearbeitung fortzufahren.
 
 ![](assets/email-editor-v2-overview-11.png)
 
-**E-Mail-Aktionen**
+**[!UICONTROL E-Mail-Aktionen]**
 
-Unter **E-Mail** Aktionen) werden Sie einige neue Funktionen bemerken. **Laden Sie ein Bild oder eine Datei hoch** und **erfassen Sie Bilder aus dem Web**. Sie können die E-Mail auch selbst als neue E-Mail-Vorlage speichern. Sie müssen ihm nur einen Namen und ein Ziel geben.
+Unter **[!UICONTROL E-Mail]** Aktionen) werden Sie einige neue Funktionen bemerken. **[!UICONTROL Laden Sie ein Bild oder eine Datei hoch]** und **[!UICONTROL erfassen Sie Bilder aus dem Web]**. Sie können die E-Mail auch selbst als neue E-Mail-Vorlage speichern. Sie müssen ihm nur einen Namen und ein Ziel geben.
 
 ![](assets/email-editor-v2-overview-12.png)
 
@@ -83,21 +83,21 @@ Unter **E-Mail** Aktionen) werden Sie einige neue Funktionen bemerken. **Laden S
 
 >[!NOTE]
 >
->**[Bilder aus dem Web](/help/marketo/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)**, funktioniert genauso wie im Design Studio.
+>**[[!UICONTROL Bilder aus dem Web]](/help/marketo/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)**, funktioniert genauso wie im [!UICONTROL Design Studio].
 
-**Öffnungs-Tracking deaktivieren** Unter **E-Mail-Einstellungen** können Sie das Öffnungs-Tracking bei Bedarf deaktivieren.
+**[!UICONTROL Öffnungs-Tracking deaktivieren]** Unter **[!UICONTROL Einstellungen bearbeiten]** können Sie bei Bedarf das Öffnungs-Tracking deaktivieren.
 
 ![](assets/email-editor-v2-overview-13.png)
 
-**E-Mail-Einstellungen**
+**[!UICONTROL Einstellungen bearbeiten]**
 
-Sie haben die Möglichkeit, einen Preheader hinzuzufügen. Ein Preheader ist der kurze Zusammenfassungstext nach der Betreffzeile, wenn E-Mails in Ihrem Posteingang angezeigt werden.
+Sie haben die Möglichkeit, einen &quot;[!UICONTROL &quot; ]. Ein [!UICONTROL Preheader] ist der kurze Zusammenfassungstext nach der Betreffzeile, wenn E-Mails in Ihrem Posteingang angezeigt werden.
 
 ![](assets/email-editor-v2-overview-14.png)
 
 >[!CAUTION]
 >
->Token funktionieren nicht im Preheader, wenn Sie den E-Mail-Editor verwenden. Um ein Token im Preheader zu verwenden, muss dies über Ihren eigenen HTML in einer E-Mail-Vorlage erfolgen.
+>Token funktionieren nicht im [!UICONTROL Preheader] wenn der E-Mail-Editor verwendet wird. Um ein Token im [!UICONTROL Preheader] zu verwenden, muss es über Ihre eigene HTML in einer E-Mail-Vorlage konfiguriert werden.
 
 Viele tolle neue Funktionen! Viel Spaß!
 

@@ -4,7 +4,7 @@ description: Benutzerhandbücher für Freiform-Landingpage-Design - Marketo-Doku
 title: Verwenden von Handbüchern für das Freiform-Design von Landingpages
 exl-id: 44c6a984-ae05-464c-905a-9e1b53f73f37
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
@@ -17,13 +17,13 @@ Beim Entwerfen einer Freiform-Landingpage können Sie Handbücher verwenden, die
 
 >[!NOTE]
 >
->Handbücher sind nur im Freiform **Landingpage** Editor verfügbar.
+>Handbücher sind nur im Freiform **[!UICONTROL Landingpage]** Editor verfügbar.
 
-1. Wählen Sie eine **Landingpage** und klicken Sie auf **Entwurf bearbeiten**.
+1. Wählen Sie eine **[!UICONTROL Landingpage]** und klicken Sie auf **[!UICONTROL Entwurf bearbeiten]**.
 
    ![](assets/image2015-5-20-14-3a10-3a9.png)
 
-1. Klicken Sie auf **Landingpage-Aktionen** und wählen Sie **Handbücher anzeigen** aus.
+1. Klicken Sie auf **[!UICONTROL Landingpage-Aktionen]** und wählen Sie **[!UICONTROL Handbücher anzeigen]** aus.
 
    ![](assets/image2015-5-20-14-3a12-3a15.png)
 

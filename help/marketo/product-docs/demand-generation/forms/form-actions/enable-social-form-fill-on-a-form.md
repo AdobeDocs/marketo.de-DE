@@ -6,7 +6,7 @@ exl-id: 0ca4941c-dbad-477b-b9c1-387876615c33
 hide: true
 hidefromtoc: true
 feature: Forms
-source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 1%
@@ -21,15 +21,15 @@ Erlauben Sie Ihren Besuchern, das Formular über ihr soziales Netzwerk auszufül
 >
 >Nicht alle Marketo Engage-Benutzer haben diese Funktion erworben. Weitere Informationen erhalten Sie beim Adobe Account Team (Ihrem Account Manager).
 
-1. Navigieren Sie **Marketing-Aktivitäten**.
+1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Wählen Sie Ihr Formular aus und klicken Sie auf **Formular bearbeiten**.
+1. Wählen Sie Ihr Formular aus und klicken Sie auf **[!UICONTROL Formular bearbeiten]**.
 
    ![](assets/image2014-9-15-16-3a35-3a54.png)
 
-1. Klicken Sie unter **form** **settings** auf **settings**.
+1. Klicken **[!UICONTROL unter &quot;]**&quot; auf **[!UICONTROL Einstellungen]**.
 
    ![](assets/image2014-9-15-16-3a36-3a4.png)
 
@@ -41,11 +41,11 @@ Erlauben Sie Ihren Besuchern, das Formular über ihr soziales Netzwerk auszufül
    >
    >Sehen Sie sich an, welche _Daten Marketo erfassen wird_ wenn Personen die Social-Media-Schaltflächen verwenden.
 
-1. Klicken Sie auf **Fertigstellen**.
+1. Klicken Sie auf **[!UICONTROL Fertigstellen]**.
 
    ![](assets/image2014-9-15-16-3a36-3a26.png)
 
-1. Klicken Sie **Genehmigen und schließen**.
+1. Klicken Sie **[!UICONTROL Genehmigen und schließen]**.
 
    ![](assets/image2014-9-15-16-3a36-3a33.png)
 

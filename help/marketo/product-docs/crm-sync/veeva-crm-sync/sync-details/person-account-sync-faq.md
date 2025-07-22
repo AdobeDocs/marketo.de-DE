@@ -3,18 +3,18 @@ description: Häufig gestellte Fragen zur Synchronisierung von Benutzerkonten - 
 title: Häufig gestellte Fragen zur Synchronisierung von Personenkonten
 exl-id: b77bb44f-94d0-40b2-9955-9636421ac468
 feature: Veeva CRM
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '472'
 ht-degree: 0%
 
 ---
 
 # Häufig gestellte Fragen zur Synchronisierung von Personenkonten {#person-account-sync-faq}
 
-Marketo Engage synchronisiert Ihre gesamte Datenbank mit Veeva nach dem Datensatztyp des Personenkontos. Nach der Synchronisierung wartet er 5 Minuten und synchronisiert dann erneut, den ganzen Tag, jeden Tag.
+Marketo Engage synchronisiert Ihre gesamte Datenbank mit [!DNL Veeva] für den Datensatztyp „Personenkonto“. Nach der Synchronisierung wartet er 5 Minuten und synchronisiert dann erneut, den ganzen Tag, jeden Tag.
 
-Personenkonten können in Veeva entsprechend den Anforderungen Ihres Unternehmens eingerichtet werden.
+Personenkonten können in [!DNL Veeva] eingerichtet werden, um den Anforderungen Ihres Unternehmens zu entsprechen.
 
 >[!NOTE]
 >
@@ -22,7 +22,7 @@ Personenkonten können in Veeva entsprechend den Anforderungen Ihres Unternehmen
 
 **Was ist ein Personenkonto?**
 
-Ein Personenkonto ist dem Kontoobjekt in Veeva CRM sehr ähnlich. Ein Personenkonto hat jedoch Zugriff sowohl auf Kontofelder als auch auf Kontaktfelder.
+Ein Personenkonto ähnelt dem Kontoobjekt in [!DNL Veeva] CRM. Ein Personenkonto hat jedoch Zugriff sowohl auf Kontofelder als auch auf Kontaktfelder.
 
 **Was passiert, wenn ein Personenkonto mit Marketo synchronisiert wird?**
 
@@ -42,23 +42,23 @@ Für ein Personenkonto gibt es zwei E-Mail-Felder. Verwenden Sie das Feld E-Mail
 
 ## Synchronisationsrichtung {#sync-direction}
 
-Die Synchronisierung von kontaktbezogenen Feldern des Personenkontos erfolgt bidirektional. Wenn Sie Änderungen an einem Kontakt in Veeva CRM oder Marketo vornehmen, werden Ihre Aktualisierungen auf beiden Systemen angezeigt. Die Felder im Konto werden nur in eine Richtung synchronisiert, von Veeva CRM zu Marketo.
+Die Synchronisierung von kontaktbezogenen Feldern des Personenkontos erfolgt bidirektional. Wenn Sie Änderungen an einem Kontakt in [!DNL Veeva] CRM oder Marketo vornehmen, werden Ihre Aktualisierungen auf beiden Systemen angezeigt. Die Felder im Konto werden nur in eine Richtung synchronisiert, von [!DNL Veeva] CRM zu Marketo.
 
 **Was passiert, wenn in beiden Systemen gleichzeitig Änderungen an den Feldern „Kontakt“ im Personenkonto vorgenommen werden?**
 
-Wir wären nett und lassen Veeva CRM gewinnen. Es kommt jedoch selten vor, dass solche Datenkollisionen auftreten.
+Wir wären nett und lassen [!DNL Veeva] CRM gewinnen. Es kommt jedoch selten vor, dass solche Datenkollisionen auftreten.
 
-**Sind Datensätze vom Typ Lead oder Kontakt mit dem Veeva CRM synchronisiert?**
+**Sind Datensätze vom Typ Lead oder Kontakt mit [!DNL Veeva] CRM synchronisiert?**
 
-Veeva CRM behandelt nur Personenkontoobjekte und verfügt auch über Geschäftskonten. Die traditionellen CRM-Typen Lead, Kontakte und Opportunities werden in traditionellen Veeva-CRM-Systemen nicht wirklich verwendet. Diese können in Veeva CRM erstellt werden, werden jedoch offiziell nicht mit diesem Connector unterstützt.
+[!DNL Veeva] CRM behandelt nur Personenkontoobjekte und verfügt auch über Geschäftskonten. Die herkömmlichen CRM-Typen Lead, Kontakte und Opportunities werden in herkömmlichen [!DNL Veeva]-CRM-Systemen nicht wirklich verwendet. Diese können in [!DNL Veeva] CRM erstellt werden, werden jedoch mit diesem Connector nicht offiziell unterstützt.
 
 **Kann ich eine Person in Marketo in einen Kontakt konvertieren?**
 
-Nein, da Lead und Kontakt keine unterstützten Typen für die Synchronisierung mit Veeva CRM sind. Daher wird die Konvertierung nicht unterstützt.
+Nein, da Lead und Kontakt keine unterstützten Typen für die Synchronisierung mit [!DNL Veeva] CRM sind. Daher wird die Konvertierung nicht unterstützt.
 
 **Kann ich die Synchronisierung eines Kontakts manuell erzwingen?**
 
-Nein, da Kontakt kein unabhängiger Datensatztyp ist, wird das Synchronisieren einer Person mit Veeva nicht unterstützt.
+Nein, da der Kontakt kein unabhängiger Datensatztyp ist, wird das Synchronisieren einer Person mit [!DNL Veeva] nicht unterstützt.
 
 **Wird jedes Standardfeld mit Marketo synchronisiert?**
 
@@ -68,11 +68,11 @@ Nein, nicht alle Standardfelder sind nützlich. Alle benutzerdefinierten Felder 
 >
 >Marketo synchronisiert nur die Felder, auf die Ihr Marketo-Synchronisierungsbenutzer Zugriff hat.
 
-**Wird Marketo die Veeva-Validierungsregeln einhalten?**
+**Wird Marketo die [!DNL Veeva] Validierungsregeln einhalten?**
 
 Ja, wenn ein Konflikt besteht, protokollieren wir das Ergebnis im Aktivitätsprotokoll des Leads.
 
 >[!MORELIKETHIS]
 >
->* [Standard-Veeva-Feldzuordnung](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/default-veeva-field-mapping.md){target="_blank"}
+>* [default [!DNL Veeva] field-mapping](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/default-veeva-field-mapping.md){target="_blank"}
 >* [Meldungen zu Aufrufen und Aufrufen synchronisieren](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target="_blank"}

@@ -4,7 +4,7 @@ description: Hinzufügen eines neuen Formulars zu einer Freiform-Landingpage - M
 title: Hinzufügen eines neuen Formulars zu einer Freiform-Landingpage
 exl-id: cfdcf4b1-5391-4eff-b4dd-ebeb6670a933
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 1%
@@ -20,15 +20,15 @@ Formular, Landingpage treffen. Landingpage, Formular treffen.
 >* [Erstellen eines Formulars](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
 >* [Erstellen einer Freiform-Landingpage](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
 
-1. Navigieren Sie **Marketing-Aktivitäten**.
+1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Suchen Sie Ihre Landingpage und klicken Sie auf **Entwurf bearbeiten**.
+1. Suchen Sie Ihre Landingpage und klicken Sie auf **[!UICONTROL Entwurf bearbeiten]**.
 
    ![](assets/image2014-9-16-14-3a44-3a15.png)
 
-1. Ziehen Sie das **Formular**-Element auf die Seite.
+1. Ziehen Sie das **[!UICONTROL Formular]**-Element auf die Seite.
 
    ![](assets/image2015-5-21-15-3a43-3a30.png)
 
@@ -38,9 +38,9 @@ Formular, Landingpage treffen. Landingpage, Formular treffen.
 
 1. Bei der Auswahl Ihrer Folgenachricht stehen Ihnen drei Optionen zur Verfügung:
 
-   * **Landingpage** - zur Auswahl einer Marketo-Landingpage
-   * **Externe URL** - zum Auswählen einer beliebigen URL
-   * **Formular definiert** - zur Verwendung der auf Formularebene definierten Einstellungen
+   * **[!UICONTROL Landingpage]** - zur Auswahl einer Marketo-Landingpage
+   * **[!UICONTROL Externe URL]** - zum Auswählen einer beliebigen URL
+   * **[!UICONTROL Formular definiert]** - zur Verwendung der auf Formularebene definierten Einstellungen
 
    >[!NOTE]
    >
@@ -48,7 +48,7 @@ Formular, Landingpage treffen. Landingpage, Formular treffen.
    >
    >Die Folgeseite ist die Seite, die die Personen sehen, nachdem sie das Formular gesendet haben.
 
-1. Klicken Sie auf **Einfügen**.
+1. Klicken Sie auf **[!UICONTROL Einfügen]**.
 
    ![](assets/image2014-9-16-14-3a44-3a38.png)
 

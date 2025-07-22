@@ -4,9 +4,9 @@ description: Erstellen eines Ereignisses mit Adobe Connect - Marketo-Dokumente -
 title: Erstellen eines Ereignisses mit Adobe Connect
 exl-id: 196b1640-9cfd-4485-9bc4-e907d3ac1f16
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '416'
+source-wordcount: '415'
 ht-degree: 0%
 
 ---
@@ -32,23 +32,23 @@ Die Meetings und Seminare, die Sie in Adobe Connect erstellen, müssen in dem Or
 >
 >Adobe Connect On-Site wird derzeit nicht unterstützt.
 
-1. Wählen Sie auf der Startseite eines neuen Ereignisses die Option **Ereignisaktionen** und dann **Ereigniseinstellungen**.
+1. Wählen Sie auf der Startseite eines neuen Ereignisses die Option **[!UICONTROL Ereignisaktionen]** und dann **[!UICONTROL Ereigniseinstellungen]**.
 
    ![](assets/image2015-1-30-15-3a34-3a28.png)
 
    >[!NOTE]
    >
-   >Wenn in der Dropdown-Liste **Ereigniseinstellungen** nicht angezeigt wird, stellen Sie sicher, dass im Kanal des Ereignisses **Ereignis mit Webinar** unter „Gilt für“ ausgewählt ist.
+   >Wenn in der Dropdown-Liste **[!UICONTROL Ereigniseinstellungen]** nicht angezeigt wird, stellen Sie sicher, dass im Kanal des Ereignisses **[!UICONTROL Ereignis mit Webinar]** unter &quot;[!UICONTROL Gilt für] ausgewählt ist.
 
-1. Wählen **unter &quot;**&quot; die Option **Adobe Connect**.
+1. Wählen **[!UICONTROL unter &quot;]**&quot; die Option **[!UICONTROL Adobe Connect]**.
 
    ![](assets/event-settings-adobe-connect.png)
 
-1. Wählen Sie Ihre **Login** ID und dann Ihr **Ereignis** aus.
+1. Wählen Sie Ihre **[!UICONTROL Login]** ID und dann Ihr **[!UICONTROL Ereignis]** aus.
 
    ![](assets/event-settings-select-event-adobe-connect.png)
 
-1. Klicken Sie auf **Speichern**.
+1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/event-settings-overview.png)
 
@@ -64,7 +64,7 @@ Die Meetings und Seminare, die Sie in Adobe Connect erstellen, müssen in dem Or
    >
    >Legen Sie Ihre Bestätigungs-E **Mail auf** Betriebsbereit“ fest, um sicherzustellen, dass Personen, die sich registrieren und möglicherweise abgemeldet werden, weiterhin ihre Bestätigungsinformationen erhalten.
 
-   Personen, die sich für Ihr Webinar anmelden, werden über den Schritt „Programmstatus ändern“ an Ihren Webinar-Anbieter weitergeleitet, wenn der neue Status auf „Registriert“ gesetzt ist. Kein anderer Status überträgt die Person. Stellen Sie außerdem sicher, dass Sie den Schritt Programmstatus ändern #1 und den Schritt E-Mail-Fluss senden #2.
+   Personen, die sich für Ihr Webinar anmelden, werden über den Flussschritt [!UICONTROL Programmstatus ändern] an Ihren Webinar-Anbieter weitergeleitet, wenn [!UICONTROL Neuer Status] auf „Registriert“ gesetzt ist. Kein anderer Status überträgt die Person. Stellen Sie außerdem sicher, dass [!UICONTROL Programmstatus ändern] Flussschritt #1 und [!UICONTROL E-Mail senden] Flussschritt #2.
 
    ![](assets/adobe.png)
 
@@ -74,9 +74,9 @@ Die Meetings und Seminare, die Sie in Adobe Connect erstellen, müssen in dem Or
 
    >[!TIP]
    >
-   >Es kann bis zu 48 Stunden dauern, bis die Daten in Marketo angezeigt werden. Wenn Sie nach so langer Wartezeit immer noch nichts sehen, wählen Sie **Vom Webinar-Anbieter aktualisieren** aus dem Menü Ereignisaktionen auf der Registerkarte Zusammenfassung Ihres Ereignisses aus.
+   >Es kann bis zu 48 Stunden dauern, bis die Daten in Marketo angezeigt werden. Wenn Sie nach so langer Wartezeit immer noch nichts sehen, wählen Sie **[!UICONTROL Vom Webinar-Anbieter aktualisieren]** aus dem Menü Ereignisaktionen auf der Registerkarte Zusammenfassung Ihres Ereignisses aus.
 
    >[!MORELIKETHIS]
    >
-   >* [Adobe Connect als LaunchPoint-Service hinzufügen](/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
+   >* [Hinzufügen von Adobe Connect as a [!DNL LaunchPoint] Service](/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
    >* [Bearbeiten eines Ereigniskanals](/help/marketo/product-docs/demand-generation/events/understanding-events/edit-an-event-channel.md)

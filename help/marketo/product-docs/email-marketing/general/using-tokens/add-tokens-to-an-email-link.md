@@ -4,7 +4,7 @@ description: Hinzufügen von Token zu einem E-Mail-Link - Marketo-Dokumente - Pr
 title: Hinzufügen von Token zu einem E-Mail-Link
 exl-id: b04d279a-b71a-4975-9992-23a51d075856
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 2%
@@ -15,7 +15,7 @@ ht-degree: 2%
 
 Um zusätzliche und personenspezifische Parameter in Ihre Links einzufügen, können Sie Token verwenden. So geht&#39;s.
 
-1. Wählen Sie Ihre E-Mail aus und klicken Sie auf **Registerkarte** Entwurf bearbeiten“.
+1. Wählen Sie Ihre E-Mail aus und klicken Sie auf **[!UICONTROL Registerkarte]** Entwurf bearbeiten“.
 
    ![](assets/one.png)
 
@@ -23,15 +23,15 @@ Um zusätzliche und personenspezifische Parameter in Ihre Links einzufügen, kö
 
    ![](assets/two.png)
 
-1. Suchen Sie den Text für den Link oder schreiben Sie ihn. Markieren Sie sie und klicken Sie auf das Symbol **Link einfügen/bearbeiten** .
+1. Suchen Sie den Text für den Link oder schreiben Sie ihn. Markieren Sie sie und klicken Sie auf das Symbol **[!UICONTROL Link einfügen/bearbeiten]** .
 
    ![](assets/three.png)
 
-1. Geben Sie die gewünschten Token in „URL **ein** klicken Sie auf **Einfügen**.
+1. Geben Sie die gewünschten Token in „URL **[!UICONTROL ein]** klicken Sie auf **[!UICONTROL Einfügen]**.
 
    ![](assets/four.png)
 
-1. Klicken Sie auf **Speichern**.
+1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/five.png)
 

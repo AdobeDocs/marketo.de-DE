@@ -4,30 +4,30 @@ description: Informationen zur Synchronisierung mit Salesforce - Marketo-Dokumen
 title: Grundlegendes zur Synchronisierung mit Salesforce
 exl-id: 658c81ff-5fb3-4ad8-8759-da55bbf4e263
 feature: Salesforce Integration
-source-git-commit: 4045f262889d06304111288d30da893529396e81
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '212'
 ht-degree: 8%
 
 ---
 
-# Grundlegendes zur Synchronisierung mit Salesforce {#understanding-the-salesforce-sync}
+# Grundlegendes zur [!DNL Salesforce] {#understanding-the-salesforce-sync}
 
 Marketo Engage und Salesforce passen gut zusammen wie Erbsen und Karotten. Wir halten Ihre Verkaufs- und Marketingdaten synchron.
 
 ## Funktionsweise der Synchronisierung {#how-sync-works}
 
-Marketo synchronisiert mit Salesforce den ganzen Tag, jeden Tag. Jede Synchronisierung dauert einige Zeit, wird dann 5 Minuten angehalten und dann erneut gestartet.
+Marketo synchronisiert mit [!DNL Salesforce] Tag für Tag. Jede Synchronisierung dauert einige Zeit, wird dann 5 Minuten angehalten und dann erneut gestartet.
 
 >[!NOTE]
 >
->Die erste Synchronisierung in Ihrem Abonnement kann Stunden oder sogar Tage dauern, da Marketo die gesamte Datenbank von Salesforce kopiert. Danach dauert eine Synchronisation meist nur Sekunden oder Minuten; neu synchronisiert werden nur die Daten, die sich geändert haben.
+>Die erste Synchronisierung in Ihrem Abonnement kann Stunden oder sogar Tage dauern, da Marketo die gesamte Datenbank aus [!DNL Salesforce] kopiert. Danach dauert eine Synchronisation meist nur Sekunden oder Minuten; neu synchronisiert werden nur die Daten, die sich geändert haben.
 
 ![](assets/sync-illustration.png)
 
-Die Synchronisation zwischen Salesforce und Marketo erfolgt nur für Leads, Kontakte und Salesforce-Kampagnen bidirektional. Wenn Sie in diesen Fällen Änderungen in Salesforce oder Marketo vornehmen, werden die Aktualisierungen auf beiden Systemen angezeigt. Alle anderen Synchronisierungen werden nur von Salesforce nach Marketo durchgeführt. Klicken Sie auf die unten stehenden Links, um Details zu jedem anzuzeigen.
+Die Synchronisation zwischen [!DNL Salesforce] und Marketo erfolgt nur für Leads, Kontakte und [!DNL Salesforce]. In diesen Fällen werden Ihre Aktualisierungen bei jeder Änderung, die Sie an [!DNL Salesforce] oder Marketo vornehmen, auf beiden Systemen angezeigt. Alle anderen Synchronisierungen werden nur von [!DNL Salesforce] nach Marketo durchgeführt. Klicken Sie auf die unten stehenden Links, um Details zu jedem anzuzeigen.
 
-## Was wird zwischen Marketo und Salesforce synchronisiert? {#what-is-synced-between-marketo-and-salesforce}
+## Was wird zwischen Marketo und [!DNL Salesforce] synchronisiert? {#what-is-synced-between-marketo-and-salesforce}
 
 * [Leads](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-sync.md){target="_blank"}
 * [Kontakte](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md){target="_blank"}
@@ -42,4 +42,4 @@ Die Synchronisation zwischen Salesforce und Marketo erfolgt nur für Leads, Kont
 >
 >Die [Anmeldeinformationen, die Sie in Marketo für Salesforce eingeben](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} werden verwendet, um Daten zu synchronisieren. Nur Daten, auf die diese Anmeldeinformationen Zugriff haben, werden einbezogen.
 
-Marketos Synchronisation mit Salesforce ist die leistungsstärkste ihrer Art auf der Welt. Es fühlt sich wie Zauberei an; eine Änderung wird vorgenommen und das andere System ist bald auf dem neuesten Stand.
+Marketos Synchronisation mit [!DNL Salesforce] ist die leistungsstärkste ihrer Art auf der Welt. Es fühlt sich wie Zauberei an; eine Änderung wird vorgenommen und das andere System ist bald auf dem neuesten Stand.

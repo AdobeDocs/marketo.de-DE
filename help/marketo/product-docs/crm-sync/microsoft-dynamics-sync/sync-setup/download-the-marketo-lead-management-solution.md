@@ -4,9 +4,9 @@ description: Marketo-Lead-Management-Lösung herunterladen - Marketo-Dokumente -
 title: Marketo Lead Management-Lösung herunterladen
 exl-id: 2deafcfc-19f4-4cbf-8764-402a7f69c7d2
 feature: Microsoft Dynamics
-source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Administratorberechtigungen erforderlich**
 
-Sie müssen eine Marketo Engage-Lösung herunterladen und in Ihr Microsoft Dynamics-Konto installieren, um die Synchronisierung zu starten.
+Sie müssen eine Marketo-Lösung herunterladen und in Ihrem [!DNL Microsoft Dynamics]-Konto installieren, um die Synchronisierung zu starten.
 
 >[!CAUTION]
 >
@@ -43,7 +43,7 @@ Sie müssen eine Marketo Engage-Lösung herunterladen und in Ihr Microsoft Dynam
 
    ![](assets/download-the-marketo-lead-management-solution-4.png)
 
-1. Wählen Sie die entsprechende Lösung für Ihre Microsoft Dynamics-Version aus.
+1. Wählen Sie die entsprechende Lösung für Ihre [!DNL Microsoft Dynamics] Version aus.
 
    ![](assets/download-the-marketo-lead-management-solution-5.png)
 

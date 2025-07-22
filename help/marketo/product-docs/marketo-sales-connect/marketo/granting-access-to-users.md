@@ -3,24 +3,24 @@ description: Gewähren des Zugriffs für Benutzer - Marketo-Dokumente - Produktd
 title: Gewähren von Zugriff für Benutzer
 exl-id: d9577401-7aa2-4ce1-bc4d-c0514d01d953
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
 
 # Gewähren von Zugriff für Benutzer {#granting-access-to-users}
 
-Gehen Sie wie in diesem Artikel beschrieben vor, um Ihren Sales Connect-Benutzern Zugriff auf die Marketo-Verbindung zu gewähren. Dadurch werden Funktionen wie „Interessante Momente“ im Live-Feed und der Zugriff auf Marketing-Kampagnen freigeschaltet.
+Gehen Sie wie in diesem Artikel beschrieben vor, um Ihren [!DNL Sales Connect] Zugriff auf die Marketo-Verbindung zu gewähren. Dadurch werden Funktionen wie „Interessante Momente“ im Live-Feed und der Zugriff auf Marketing-Kampagnen freigeschaltet.
 
-Sie müssen Benutzer zu Sales Connect einladen ([), ](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md) sie auf der Seite &quot;Marketo&quot; > „Team-Zugriff“ (in Sales Connect) angezeigt werden, wo der Zugriff auf die Marketo-Verbindung gewährt wird.
+Sie müssen Benutzer zu [!DNL Sales Connect] (hier[ einladen](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md) bevor sie auf der Seite Marketo > [!UICONTROL Team-Zugriff] (in [!DNL Sales Connect]) angezeigt werden, wo der Zugriff auf die Marketo-Verbindung gewährt wird.
 
 >[!CAUTION]
 >
->Bitte warten Sie 10 Minuten, nachdem Sie Sales Connect mit Marketo verbunden haben, bevor Sie diese Schritte ausführen.
+>Bitte warten Sie 10 Minuten nach der Verbindung von [!DNL Sales Connect] mit Marketo, bevor Sie diese Schritte ausführen.
 
-1. Wählen Sie einen oder mehrere Benutzer aus und klicken Sie dann auf **Verbinden**.
+1. Wählen Sie einen oder mehrere Benutzer aus und klicken Sie dann auf **[!UICONTROL Verbinden]**.
 
    >[!NOTE]
    >
@@ -32,7 +32,7 @@ Sie müssen Benutzer zu Sales Connect einladen ([), ](/help/marketo/product-docs
 
    ![](assets/granting-access-to-users-2.jpg)
 
-1. Klicken Sie auf die Dropdown-Liste Workspace , wählen Sie die gewünschten Arbeitsbereiche aus und klicken Sie auf **Verbinden**.
+1. Klicken Sie auf die Dropdown-Liste Workspace , wählen Sie die gewünschten Arbeitsbereiche aus und klicken Sie auf **[!UICONTROL Verbinden]**.
 
    ![](assets/granting-access-to-users-3.png)
 

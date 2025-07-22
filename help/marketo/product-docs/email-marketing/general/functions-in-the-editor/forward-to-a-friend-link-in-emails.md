@@ -4,7 +4,7 @@ description: Weiterleiten an einen Freund-Link in E-Mails - Marketo-Dokumente - 
 title: Link zu einem Freund in E-Mails weiterleiten
 exl-id: 7addac65-4207-419f-845c-d6b2d08d299c
 feature: Email Editor
-source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '703'
 ht-degree: 0%
@@ -19,15 +19,15 @@ Angenommen, Keith verwendet den Link „An Freund weiterleiten“, um die E-Mail
 
 ## Link zu einer E-Mail-Vorlage hinzufügen {#add-the-link-to-an-email-template}
 
-1. Gehen Sie zum **Design Studio**.
+1. Gehen Sie zum **[!UICONTROL Design Studio]**.
 
    ![](assets/one-8.png)
 
-1. Suchen Sie die E-Mail-Vorlage, der Sie den Link hinzufügen möchten, und wählen Sie sie aus. Klicken Sie **Entwurf bearbeiten**.
+1. Suchen Sie die E-Mail-Vorlage, der Sie den Link hinzufügen möchten, und wählen Sie sie aus. Klicken Sie **[!UICONTROL Entwurf bearbeiten]**.
 
    ![](assets/two-7.png)
 
-1. Fügen Sie den folgenden HTML-Code ein, auf dem der Link „An Freund weiterleiten“ angezeigt werden soll (wenn Sie Hilfe zu diesem Teil benötigen, wenden Sie sich bitte an Ihren Web-Entwickler):
+1. Fügen Sie den folgenden HTML-Code ein, in dem der Link „An Freund weiterleiten“ angezeigt werden soll (wenn Sie Hilfe zu diesem Teil benötigen, wenden Sie sich bitte an Ihren Web-Entwickler):
 
    `<a href="{{system.forwardToFriendLink}}">Forward to Friend</a>`
 
@@ -42,9 +42,9 @@ Angenommen, Keith verwendet den Link „An Freund weiterleiten“, um die E-Mail
 
    >[!CAUTION]
    >
-   >Es wird davon abgeraten, den Stil **position:relative** in Ihrer E-Mail-Vorlage zu verwenden. Dies kann zu Problemen mit der Position und Anzeige des Feldes „An Freund weiterleiten“ führen.
+   >Es wird davon abgeraten, den Stil **Position:relative** in Ihrer E-Mail-Vorlage zu verwenden. Dies kann zu Problemen mit der Position und Anzeige des Feldes „An Freund weiterleiten“ führen.
 
-1. Klicken Sie **Vorschau des Entwurfs**, um sicherzustellen, dass die Vorlage Ihren Vorstellungen entspricht.
+1. Klicken Sie **[!UICONTROL Vorschau des Entwurfs]**, um sicherzustellen, dass die Vorlage Ihren Vorstellungen entspricht.
 
    ![](assets/four-5.png)
 
@@ -84,7 +84,7 @@ Sie können den Link „An Freund weiterleiten“ auch direkt in eine E-Mail ein
 
    ![](assets/eight-1.png)
 
-1. Fügen Sie das **`{{system.forwardToFriendLink}}`**-Token mithilfe von Strg **/Befehlstaste+V in das Feld URL** ein und klicken Sie dann auf **Einfügen**.
+1. Fügen Sie das **`{{system.forwardToFriendLink}}`**-Token mithilfe von Strg **/Befehlstaste+V in das Feld URL** ein und klicken Sie dann auf **[!UICONTROL Einfügen]**.
 
    ![](assets/nine.png)
 
@@ -100,7 +100,7 @@ Sie können den Link „An Freund weiterleiten“ auch direkt in eine E-Mail ein
 
 Sie können sehen, wer die E-Mails im Aktivitätsprotokoll der Person weitergeleitet und erhalten hat.
 
-1. Gehen Sie zum **`Database`**.
+1. Navigieren Sie zur **[!UICONTROL Datenbank]**.
 
    ![](assets/db.png)
 
@@ -108,7 +108,7 @@ Sie können sehen, wer die E-Mails im Aktivitätsprotokoll der Person weitergele
 
    ![](assets/fourteen.png)
 
-1. Navigieren Sie zur Registerkarte **Aktivitätsprotokoll** . Doppelklicken Sie auf **E-Mail an Freund weiterleiten** oder **E-Mail an Freund weiterleiten**, um die Details anzuzeigen.
+1. Navigieren Sie zur Registerkarte **[!UICONTROL Aktivitätsprotokoll]** . Doppelklicken Sie auf **[!UICONTROL E-Mail an Freund weiterleiten]** oder **[!UICONTROL E-Mail an Freund weiterleiten]**, um die Details anzuzeigen.
 
    ![](assets/fifteen.png)
 
@@ -128,7 +128,7 @@ Sie können sehen, wer die E-Mails im Aktivitätsprotokoll der Person weitergele
 
    >[!NOTE]
    >
-   >Wir machen die **Personen-ID** klickbar und verknüpfen sie in einem kommenden Patch direkt mit der Person.
+   >Wir machen die **[!UICONTROL Personen-ID]** klickbar und verknüpfen sie in einem kommenden Patch direkt mit der Person.
 
    ![](assets/seventeen.png)
 

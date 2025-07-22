@@ -4,7 +4,7 @@ description: Neuen Inhalt hinzufügen - Marketo-Dokumente - Produktdokumentation
 title: Neuen Inhalt hinzufügen
 exl-id: b2965b07-f43b-46fc-90cc-f5b0f1adba51
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 9%
@@ -13,9 +13,9 @@ ht-degree: 9%
 
 # Neuen Inhalt hinzufügen {#add-new-content}
 
-Sie können der Seite „Alle Inhalte“ auf einfache Weise manuell Inhalte hinzufügen.
+Sie können der Seite „Alle Inhalte“ [!UICONTROL  Inhalt ] hinzufügen.
 
-1. Klicken Sie auf **Inhalt hinzufügen** und wählen Sie **Inhalt hinzufügen** aus.
+1. Klicken Sie auf **[!UICONTROL Inhalt hinzufügen]** und wählen Sie **[!UICONTROL Inhalt hinzufügen]** aus.
 
    ![](assets/image2017-10-3-8-3a54-3a9.png)
 
@@ -27,11 +27,11 @@ Sie können der Seite „Alle Inhalte“ auf einfache Weise manuell Inhalte hinz
 
    ![](assets/add-new-content-categories-updated-hands.png)
 
-1. Klicken Sie auf **Hinzufügen**.
+1. Klicken Sie auf **[!UICONTROL Hinzufügen]**.
 
    ![](assets/all-content-add-hand.png)
 
-1. Der neue Titel wird jetzt auf der Seite **Alle Inhalte** angezeigt. Beachten Sie, dass es noch nicht für prädiktive Inhalte genehmigt ist.
+1. Der neue Titel wird jetzt auf der Seite **[!UICONTROL Alle Inhalte]** angezeigt. Beachten Sie, dass es noch nicht für prädiktive Inhalte genehmigt ist.
 
    ![](assets/image2017-10-3-8-3a55-3a21.png)
 

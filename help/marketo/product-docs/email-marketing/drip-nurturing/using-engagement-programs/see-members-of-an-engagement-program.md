@@ -4,7 +4,7 @@ description: Siehe Mitglieder eines Interaktionsprogramms - Marketo-Dokumente - 
 title: Siehe Mitglieder eines Interaktionsprogramms
 exl-id: c30b3333-3ea8-44e7-a911-a0b6584da7cb
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Sie können die Mitglieder eines Interaktionsprogramms schnell sehen. So geht&#39;s.
 
-1. Klicken Sie in Ihrem Interaktionsprogramm mit der rechten Maustaste darauf und wählen Sie **Mitglieder anzeigen**.
+1. Klicken Sie in Ihrem Interaktionsprogramm mit der rechten Maustaste darauf und wählen Sie **[!UICONTROL Mitglieder anzeigen]**.
 
    ![](assets/membersofengagement.jpg)
 

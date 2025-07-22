@@ -4,7 +4,7 @@ description: Erstellen eines E-Mail-Analyseberichts mit einer Liste der Leads - 
 title: Erstellen eines E-Mail-Analyseberichts mit einer Liste der Leads
 exl-id: f431610c-6570-4df0-9d64-d37d21010604
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
@@ -23,27 +23,27 @@ Führen Sie diese Schritte aus, um einen E-Mail-Analysebericht zu erstellen, der
 >
 >Die Daten-Engine, die E-Mail-Analyse unterstützt, ignoriert mehr als 12 Klicks pro Person, wenn sie von derselben E-Mail und Kampagne stammen. Bitte berücksichtigen Sie dies beim Vergleich von E-Mail-Analyseberichten mit standardmäßigen Marketo Analytics-Berichten.
 
-1. Starten Sie **Umsatz-Explorer**.
+1. Starten Sie **[!UICONTROL Umsatz-Explorer]**.
 
    ![](assets/report-that-lists-leads-1.png)
 
-1. Klicken Sie **Neu erstellen** und dann **Bericht**.
+1. Klicken Sie **[!UICONTROL Neu erstellen]** und dann **[!UICONTROL Bericht]**.
 
    ![](assets/report-that-lists-leads-2.png)
 
-1. Wählen Sie E-Mail-Analyse aus und klicken Sie **OK**.
+1. Wählen Sie **[!UICONTROL E-Mail-Analyse]** und klicken Sie auf **[!UICONTROL OK]**.
 
    ![](assets/report-that-lists-leads-3.png)
 
-1. Suchen Sie den gelben Punkt E-Mail-Name, klicken Sie mit der rechten Maustaste darauf und wählen Sie **Filter**.
+1. Suchen Sie den gelben Punkt **[!UICONTROL E]** Mail-Name“, klicken Sie mit der rechten Maustaste darauf und wählen Sie **[!UICONTROL Filtern…]**.
 
    ![](assets/report-that-lists-leads-4.png)
 
-1. Doppelklicken Sie auf die gewünschte E-Mail in der Liste und klicken Sie auf **OK**.
+1. Doppelklicken Sie auf die gewünschte E-Mail in der Liste und klicken Sie auf **[!UICONTROL OK]**.
 
    ![](assets/report-that-lists-leads-5.png)
 
-1. Ziehen Sie den **E-Mail-Name** gelben Punkt auf **Spalten**.
+1. Ziehen Sie den **[!UICONTROL E-Mail-Name]** gelben Punkt auf **[!UICONTROL Spalten]**.
 
    ![](assets/report-that-lists-leads-6.png)
 
@@ -51,11 +51,11 @@ Führen Sie diese Schritte aus, um einen E-Mail-Analysebericht zu erstellen, der
    >
    >Es gibt viele Lead-/Firmenattribute, die Sie als Spalten hinzufügen können. Sehen Sie sie sich an!
 
-1. Suchen Sie den **Vollständiger Name** gelben Punkt und ziehen Sie ihn auf **Zeilen**.
+1. Suchen Sie den **[!UICONTROL Vollständiger Name]** gelben Punkt und ziehen Sie ihn auf **[!UICONTROL Zeilen]**.
 
    ![](assets/report-that-lists-leads-7.png)
 
-1. Fügen Sie nun die **Kennzahlen** hinzu, an denen Sie interessiert sind, indem Sie darauf doppelklicken.
+1. Fügen Sie nun die **[!UICONTROL Kennzahlen]** hinzu, an denen Sie interessiert sind, indem Sie darauf doppelklicken.
 
    ![](assets/report-that-lists-leads-8.png)
 

@@ -4,7 +4,7 @@ description: Personen-Leistungsbericht - Marketo-Dokumente - Produktdokumentatio
 title: People Performance Report
 exl-id: 9c73ad96-088a-4a4a-8e8b-7b379370d80a
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 1%
@@ -13,23 +13,23 @@ ht-degree: 1%
 
 # People Performance Report {#people-performance-report}
 
-Verwenden Sie einen Personenleistungsbericht, um das Datenbankwachstum im Zeitverlauf zu messen. Sie können sehen, wie viele Personen Sie wann hinzugefügt haben. Erfahren Sie mehr über die Mitarbeiter und bewerten Sie Ihre Programme. Gruppieren Sie die Ergebnisse nach beliebigen Personen- oder Firmenattributen oder nach [Segmentierung](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
+Verwenden Sie einen [!UICONTROL People Performance]-Bericht, um das Datenbankwachstum im Zeitverlauf zu messen. Sie können sehen, wie viele Personen Sie wann hinzugefügt haben. Erfahren Sie mehr über die Mitarbeiter und bewerten Sie Ihre Programme. Gruppieren Sie die Ergebnisse nach beliebigen Personen- oder Firmenattributen oder nach [Segmentierung](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
 
-1. [Erstellen Sie einen Bericht](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) und wählen Sie den **People Performance**-[Berichtstyp](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [Erstellen Sie einen Bericht](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) und wählen Sie den **[!UICONTROL People Performance]**-[Berichtstyp](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
-1. [Legen Sie den Zeitrahmen Ihres Berichts fest](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) und klicken Sie auf die Registerkarte **Bericht**.
+1. [Legen Sie den Zeitrahmen Ihres Berichts fest](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) und klicken Sie auf die Registerkarte **[!UICONTROL Bericht]**.
 
-1. Sehr gut! Jetzt können Sie Ihren People Performance-Bericht durchsuchen. In der folgenden Liste erfahren Sie, wie Sie noch mehr daraus machen können.
+1. Sehr gut! Jetzt können Sie Ihren Bericht [!UICONTROL People Performance] durchsuchen. In der folgenden Liste erfahren Sie, wie Sie noch mehr daraus machen können.
 
    >[!NOTE]
    >
-   >Standardmäßig werden Personenleistungsberichte nach Monat *Erstellt am* gruppiert.
+   >Standardmäßig werden [!UICONTROL Personen]Leistungsberichte nach dem Monat *[!UICONTROL Erstellt]* gruppiert.
 
    ![](assets/one.png)
 
 ## Power of People - Leistungsberichte {#the-power-of-people-performance-reports}
 
-Leistungsberichte für Personen sind sehr leistungsstark. Durch die weitere Gruppierung, Filterung und Konfiguration können Sie viel über die Personen in Ihrer Datenbank und über die Effektivität Ihrer Programme erfahren.
+[!UICONTROL People Performance]-Berichte sind sehr leistungsstark. Durch die weitere Gruppierung, Filterung und Konfiguration können Sie viel über die Personen in Ihrer [!UICONTROL Datenbank] und über die Effektivität Ihrer Programme erfahren.
 
 Sie haben folgende Möglichkeiten:
 

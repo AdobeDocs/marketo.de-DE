@@ -4,10 +4,10 @@ description: Spalten der Personenseite - Marketo-Dokumente - Produktdokumentatio
 title: Spalten der Personenseite
 exl-id: e7d7bae5-dca9-435b-80b8-262b969135af
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '273'
-ht-degree: 11%
+source-wordcount: '296'
+ht-degree: 4%
 
 ---
 
@@ -17,11 +17,11 @@ Sie haben die Möglichkeit, die angezeigten Kontaktinformationen anzupassen, ind
 
 ## So wählen Sie Spalten aus {#how-to-select-columns}
 
-1. Klicken Sie auf der Seite „Personen“ auf das Symbol Listeneinstellungen .
+1. Klicken Sie auf [!UICONTROL  Seite ]Personen“ auf das Symbol Listeneinstellungen .
 
    ![](assets/one-5.png)
 
-1. Scrollen Sie durch die gewünschten Spalten und wählen Sie sie aus. (Sie können auch auf **Alle auswählen** klicken, wenn jede Spalte ausgewählt werden soll.) Klicken Sie abschließend aus der Liste.
+1. Scrollen Sie durch die gewünschten Spalten und wählen Sie sie aus. (Sie können auch auf **[!UICONTROL Alle auswählen]** klicken, wenn jede Spalte ausgewählt werden soll.) Klicken Sie abschließend aus der Liste.
 
    ![](assets/two-4.png)
 
@@ -38,95 +38,95 @@ Sie haben die Möglichkeit, die angezeigten Kontaktinformationen anzupassen, ind
    <th>Beschreibung</th> 
   </tr> 
   <tr> 
-   <td>Vorname (Standard)</td> 
+   <td>[!UICONTROL Vorname (Standard)]</td> 
    <td>Vorname</td> 
   </tr> 
   <tr> 
-   <td>Nachname (Standard)</td> 
+   <td>[!UICONTROL Nachname (Standard)]</td> 
    <td>Nachname</td> 
   </tr> 
   <tr> 
-   <td colspan="1">E-Mail (Standard)</td> 
+   <td colspan="1">[!UICONTROL E-Mail (Standard)]</td> 
    <td colspan="1">E-Mail-Adresse</td> 
   </tr> 
   <tr> 
-   <td colspan="1">Telefon</td> 
+   <td colspan="1">[!UICONTROL Phone]</td> 
    <td colspan="1">Telefonnummer</td> 
   </tr> 
   <tr> 
-   <td colspan="1">Titel (Standard)</td> 
+   <td colspan="1">[!UICONTROL Titel (Standard)]</td> 
    <td colspan="1">Stellenbezeichnung</td> 
   </tr> 
   <tr> 
-   <td>Firma (Standard)</td> 
+   <td>[!UICONTROL Firma (Standard)]</td> 
    <td>Unternehmensname</td> 
   </tr> 
   <tr> 
-   <td>Kampagne (Standard)</td> 
+   <td>[!UICONTROL Kampagne (Standard)]</td> 
    <td>Verkaufskampagne, in der sich die Person derzeit befindet</td> 
   </tr> 
   <tr> 
-   <td>Anz. Kampagnen</td> 
+   <td># [!UICONTROL Kampagnen]</td> 
    <td>Gesamtzahl der Vertriebskampagnen, an denen die Person teilgenommen hat</td> 
   </tr> 
   <tr> 
-   <td>Anz. Anrufe</td> 
+   <td># [!UICONTROL-Aufrufe]</td> 
    <td>Gesamtzahl der Anrufe, die an diese Person getätigt wurden</td> 
   </tr> 
   <tr> 
-   <td>Anz. E-Mails</td> 
+   <td># [!UICONTROL E-Mails]</td> 
    <td>Gesamtzahl der an diese Person gesendeten E-Mails</td> 
   </tr> 
   <tr> 
-   <td>Fälligkeitsdatum der Aufgabe</td> 
+   <td>[!UICONTROL Aufgabe Fälligkeitsdatum]</td> 
    <td>Fälligkeitsdatum der Aufgabe</td> 
   </tr> 
   <tr> 
-   <td># Ereignisse (Standard)</td> 
+   <td># [!UICONTROL Events (Standard)]</td> 
    <td>Gesamtzahl der Interaktionsereignisse nach Person (Ansichten, Klicks und Antworten)</td> 
   </tr> 
   <tr> 
-   <td># Aktivitäten (Standard)</td> 
+   <td># [!UICONTROL Aktivitäten (Standard)]</td> 
    <td>Gesamtzahl der Aktivitäten, die der Benutzer für diesen Lead durchgeführt hat (E-Mails, Aufrufe und Aufgaben)</td> 
   </tr> 
   <tr> 
-   <td>Einverständnis</td> 
+   <td>[!UICONTROL Einverständnis]</td> 
    <td><p>Berechtigtes Interesse, Erfüllung eines Vertrags, Einhaltung gesetzlicher Verpflichtungen, Schutz lebenswichtiger Interessen, öffentliches Interesse/öffentliche Gewalt und andere</p></td> 
   </tr> 
   <tr> 
-   <td>Offene Aufgaben</td> 
+   <td>[!UICONTROL Aufgaben öffnen]</td> 
    <td>Anzahl offener Aufgaben für diese Person</td> 
   </tr> 
   <tr> 
-   <td>Anz. Ansichten</td> 
+   <td># [!UICONTROL Views]</td> 
    <td>Gesamtzahl der Ansichten dieser Person</td> 
   </tr> 
   <tr> 
-   <td>Anz. Klicks</td> 
+   <td># [!UICONTROL Klicks]</td> 
    <td>Gesamtzahl der Klicks dieser Person</td> 
   </tr> 
   <tr> 
-   <td>Anz. Antworten</td> 
+   <td># [!UICONTROL Antworten]</td> 
    <td>Gesamtzahl der Antworten dieser Person</td> 
   </tr> 
   <tr> 
-   <td>Zuletzt aktualisiert</td> 
+   <td>[!UICONTROL Zuletzt aktualisiert]</td> 
    <td>Datum, an dem der Personendatensatz zuletzt aktualisiert wurde</td> 
   </tr> 
   <tr> 
-   <td>Ersteller</td> 
+   <td>[!UICONTROL Creator]</td> 
    <td>Name des Benutzers, der die Person erstellt hat</td> 
   </tr> 
   <tr> 
-   <td>Quelle</td> 
+   <td>[!UICONTROL Source]</td> 
    <td>Source, aus dem die Person erstellt wurde</td> 
   </tr> 
   <tr> 
-   <td>Gruppen (Standard)</td> 
+   <td>[!UICONTROL Groups (default)]</td> 
    <td>Gruppen, denen die Person angehört</td> 
   </tr> 
   <tr> 
-   <td colspan="1">Abbestellt</td> 
+   <td colspan="1">[!UICONTROL abgemeldet]</td> 
    <td colspan="1">Abmeldestatus für Verkauf</td> 
   </tr> 
  </tbody> 

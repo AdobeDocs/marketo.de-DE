@@ -4,7 +4,7 @@ description: Verwenden des E-Mail-Programm-Dashboards - Marketo-Dokumente - Prod
 title: Verwenden des E-Mail-Programm-Dashboards
 exl-id: 47c1925a-144b-4277-a08d-1af660ed3d50
 feature: Email Programs
-source-git-commit: b2ceefb068005d916027fb71be0dc4e25849ae23
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '397'
 ht-degree: 0%
@@ -69,9 +69,9 @@ Der Rest der Daten zeigt Öffnungen, Klicks, Klick/Offen-Verhältnis und Abmeldu
 >
 >**Definition**
 >
->**Öffnungen** werden gezählt, wenn der E-Mail-Empfänger die Bilder der E-Mail herunterlädt, die ein von Marketo eingefügtes Tracking-Pixel enthalten. Wenn der Empfänger die E-Mail ansieht, aber seine Bilder nicht herunterlädt, gilt dies nicht als Öffnung. Wenn die Bilder im Vorschaufenster des Empfängers geladen werden, gilt dies in der Regel als geöffnete E-Mail, sie variiert jedoch je nach E-Mail-Client.
+>**[!UICONTROL Öffnungen]** werden gezählt, wenn der E-Mail-Empfänger die Bilder der E-Mail herunterlädt, die ein von Marketo eingefügtes Tracking-Pixel enthalten. Wenn der Empfänger die E-Mail ansieht, aber seine Bilder nicht herunterlädt, gilt dies nicht als Öffnung. Wenn die Bilder im Vorschaufenster des Empfängers geladen werden, gilt dies in der Regel als geöffnete E-Mail, sie variiert jedoch je nach E-Mail-Client.
 >
->**Zum Öffnen klicken** misst den Prozentsatz der E-Mails, die sowohl geöffnet wurden als auch auf einen Link in der E-Mail geklickt wurde. Die Anzahl der eindeutigen Klicks dividiert durch die Anzahl der eindeutigen Öffnungen, wird mit 100 multipliziert, um den Prozentsatz anzuzeigen.
+>**[!UICONTROL Zum Öffnen klicken]** misst den Prozentsatz der E-Mails, die sowohl geöffnet wurden als auch auf einen Link in der E-Mail geklickt wurde. Die Anzahl der eindeutigen Klicks dividiert durch die Anzahl der eindeutigen Öffnungen, wird mit 100 multipliziert, um den Prozentsatz anzuzeigen.
 
 ## Dashboard aktualisieren {#refresh-dashboard}
 

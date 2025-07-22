@@ -4,9 +4,9 @@ description: Vorschau und Testen einer Web-Kampagne - Marketo-Dokumente - Produk
 title: Vorschau und Test einer Web-Kampagne
 exl-id: 6cc4ebd8-0d39-4a7d-bc3d-e8cd18157470
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '396'
+source-wordcount: '394'
 ht-degree: 1%
 
 ---
@@ -21,43 +21,43 @@ Dieser Artikel zeigt Ihnen verschiedene Möglichkeiten, eine Web-Kampagne in der
 
 ## Vorschau einer Web-Kampagne auf der Erstellungsseite {#preview-a-web-campaign-on-the-creation-page}
 
-1. Gehen Sie zu **Web-Kampagnen**.
+1. Gehen Sie zu **[!UICONTROL Web-Kampagnen]**.
 
    ![](assets/image2016-8-18-15-3a59-3a35.png)
 
-1. Klicken Sie **Neue Web-Kampagne erstellen** oder auf das Symbol, um eine vorhandene Kampagne zu bearbeiten.
+1. Klicken Sie **[!UICONTROL Neue Web-Kampagne erstellen]** oder auf das Symbol, um eine vorhandene Kampagne zu bearbeiten.
 
    ![](assets/create-new-or-edit-web-campaign.png)
 
-1. Fügen Sie in der Vorschau auf der Site die Seiten-URL hinzu und klicken Sie auf **Vorschau**. Ein neues Fenster/eine neue Registerkarte wird mit der Kampagnenvorschau geöffnet.
+1. Fügen Sie in der Vorschau auf der Site die Seiten-URL hinzu und klicken Sie auf **[!UICONTROL Vorschau]**. Ein neues Fenster/eine neue Registerkarte wird mit der Kampagnenvorschau geöffnet.
 
    ![](assets/three-1.png)
 
    >[!TIP]
    >
-   >Klicken Sie **Freigeben**, um eine E-Mail mit einer festen URL der Kampagnenvorschau zu öffnen.
+   >Klicken Sie **[!UICONTROL Freigeben]**, um eine E-Mail mit einer festen URL der Kampagnenvorschau zu öffnen.
 
    >[!NOTE]
    >
-   >Sie haben außerdem die Möglichkeit, ein Browser-Plug-in (entweder [Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) oder [Firefox](https://rtp-static.marketo.com/rtp/libs/mwp-0.0.0.8.xpi)) zu installieren, um eine optimale Vorschau Ihrer Kampagne zu erhalten. Siehe folgenden Abschnitt.
+   >Sie haben außerdem die Möglichkeit, ein Browser-Plug-in ([[!DNL Chrome]](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) oder [[!DNL Firefox]](https://rtp-static.marketo.com/rtp/libs/mwp-0.0.0.8.xpi)) zu installieren, um eine optimale Vorschau Ihrer Kampagne zu erhalten. Siehe folgenden Abschnitt.
 
 ## Vorschau einer Web-Kampagne auf der Erstellungsseite mithilfe des Browser-Plug-ins {#preview-a-web-campaign-on-the-creation-page-using-the-browser-plug-in}
 
 1. Führen Sie die Schritte 1 und 2 aus dem obigen Abschnitt aus.
 
-1. Klicken Sie auf den Link zum Browser-Plug-in (in diesem Fall verwenden wir Chrome).
+1. Klicken Sie auf den Link zum Browser-Plug-in (in diesem Fall verwenden wir [!DNL Chrome]).
 
    ![](assets/4-1.png)
 
-1. Ein neues Fenster/eine neue Registerkarte wird geöffnet. Klicken Sie **Zu Chrome hinzufügen**.
+1. Ein neues Fenster/eine neue Registerkarte wird geöffnet. Klicken Sie **[!UICONTROL Zu Chrome hinzufügen]**.
 
    ![](assets/five.png)
 
-1. Klicken Sie **Erweiterung hinzufügen**.
+1. Klicken Sie **[!UICONTROL Erweiterung hinzufügen]**.
 
    ![](assets/six.png)
 
-1. Zurück zu Marketo. Fügen Sie die Seiten-URL hinzu und klicken Sie auf **Vorschau**.
+1. Zurück zu Marketo. Fügen Sie die Seiten-URL hinzu und klicken Sie auf **[!UICONTROL Vorschau]**.
 
    ![](assets/seven.png)
 
@@ -67,7 +67,7 @@ Dieser Artikel zeigt Ihnen verschiedene Möglichkeiten, eine Web-Kampagne in der
 
 ## Vorschau einer Web-Kampagne auf der Web-Kampagnenseite {#preview-a-web-campaign-on-the-web-campaigns-page}
 
-1. Wenn Sie sich die Liste Ihrer Web-Kampagnen ansehen, wählen Sie einfach eine Kampagne aus und klicken Sie auf das Symbol **Vorschau**.
+1. Wenn Sie sich die Liste Ihrer Web-Kampagnen ansehen, wählen Sie einfach eine Kampagne aus und klicken Sie auf das Symbol **[!UICONTROL Vorschau]**.
 
    ![](assets/web-campaigns-1-preview-hand.png)
 
@@ -77,17 +77,17 @@ Dieser Artikel zeigt Ihnen verschiedene Möglichkeiten, eine Web-Kampagne in der
 
 Erstellen Sie ein Sandbox-Segment und eine Kampagne.
 
-1. Navigieren Sie zu **Segmente**.
+1. Navigieren Sie zu **[!UICONTROL Segmente]**.
 
    ![](assets/new-dropdown-segments-hand.jpg)
 
-1. Klicken Sie auf **Neu erstellen**.
+1. Klicken Sie auf **[!UICONTROL Neu erstellen]**.
 
    ![](assets/image2015-9-10-10-3a42-3a39.png)
 
 1. Benennen Sie das Segment.
 
-1. Ziehen Sie unter Verhalten die Option Einschließende Seiten auf die Arbeitsfläche. Fügen Sie den Wert &#42;sandbox=1) &#42;. Klicken Sie auf **Speichern und Kampagne definieren**.
+1. Ziehen Sie [!UICONTROL Behavioral] per Drag[!UICONTROL Include Pages] auf die Arbeitsfläche. Fügen Sie den Wert &#42;sandbox=1) &#42;. Klicken Sie auf **[!UICONTROL Speichern und Kampagne definieren]**.
 
    ![](assets/segment.png)
 
@@ -95,7 +95,7 @@ Erstellen Sie ein Sandbox-Segment und eine Kampagne.
 
    ![](assets/set-web-campaign-target-segment.jpg)
 
-1. Schließen Sie die kreative Kampagne ab und klicken Sie auf **Starten**.
+1. Schließen Sie die kreative Kampagne ab und klicken Sie auf **[!UICONTROL Starten]**.
 
    ![](assets/click-launch.jpg)
 

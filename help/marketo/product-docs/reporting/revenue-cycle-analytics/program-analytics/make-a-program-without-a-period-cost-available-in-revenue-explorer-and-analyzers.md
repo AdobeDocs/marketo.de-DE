@@ -4,7 +4,7 @@ description: Erstellen Sie ein Programm ohne Kostenzeitraum in Revenue Explorer 
 title: Ein Programm ohne Kostenperiode in Revenue Explorer und Analyzer verfügbar machen
 exl-id: 45a24b9f-d92f-4f48-a7d1-0be14cd128b1
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '250'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Einige Programme müssen möglicherweise einbezogen werden, auch wenn sie keine 
 >
 >Der Programm-Analyzer erfasst den Programmerfolg nach Kostenzeitraum. Wenn keine Periodenkosten verfügbar sind, wird der Programmerfolg unabhängig vom Analyseverhalten des Programms nicht angezeigt. Wenn das Analytics-Verhalten eingerichtet ist, werden Daten für Opportunity-Metriken angezeigt (Pipeline-Opportunities, gewonnener Umsatz usw.).
 
-1. Klicken Sie im Abschnitt Admin auf **Tags**.
+1. Klicken Sie [!UICONTROL  Abschnitt ]Admin“ auf **[!UICONTROL Tags]**.
 
    ![](assets/image2014-9-17-12-3a35-3a32.png)
 
@@ -37,7 +37,7 @@ Einige Programme müssen möglicherweise einbezogen werden, auch wenn sie keine 
 
    ![](assets/image2014-9-17-12-3a36-3a7.png)
 
-1. Ändern Sie das Analytics-Verhalten in Inclusive und klicken Sie auf **Speichern**.
+1. Ändern Sie [!UICONTROL Analytics Behavior] in **Inclusive** und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/image2014-9-17-12-3a36-3a13.png)
 

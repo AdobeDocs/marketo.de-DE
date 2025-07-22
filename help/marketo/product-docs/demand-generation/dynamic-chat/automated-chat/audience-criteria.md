@@ -3,7 +3,7 @@ description: Zielgruppenkriterien - Marketo-Dokumente - Produktdokumentation
 title: Zielgruppenkriterien
 feature: Dynamic Chat
 exl-id: 95c4558e-0c0c-4623-bb7d-b6ac2f455c01
-source-git-commit: d255c1c4c15d5aca5d89687f50ee0e6f0dedfb7d
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '605'
 ht-degree: 1%
@@ -12,7 +12,7 @@ ht-degree: 1%
 
 # Zielgruppenkriterien {#audience-criteria}
 
-Ähnlich wie beim Marketo Engage von Smart Lists können Sie mit Attributen für Zielgruppenkriterien Ihre Zielgruppe definieren. Sie können bekannte oder unbekannte Personen mithilfe von abgeleiteten, Personen- oder Firmenattributen (oder einer Kombination daraus) als Ziel auswählen.
+Ähnlich wie bei Marketo Engage-Smart-Listen können Sie mit Attributen für Zielgruppenkriterien Ihre Zielgruppe definieren. Sie können bekannte oder unbekannte Personen mithilfe von abgeleiteten, Personen- oder Firmenattributen (oder einer Kombination daraus) als Ziel auswählen.
 
 ## Priorität {#priority}
 
@@ -20,7 +20,7 @@ Die Priorität bestimmt, welches Dialogfeld ein Lead erhält, falls er für mehr
 
 ![](assets/audience-criteria-1.png)
 
-## Events {#events}
+## Ereignisse {#events}
 
 Mithilfe von Ereignissen können Sie Besuchende gezielt ansprechen, je nachdem, wie viel sie scrollen oder wie lange sie sich auf Ihrer Seite/Site befinden. Im folgenden Beispiel richten wir uns an Besucher, die sich seit mehr als 20 Sekunden auf einer bestimmten Seite befinden.
 
@@ -28,11 +28,11 @@ Mithilfe von Ereignissen können Sie Besuchende gezielt ansprechen, je nachdem, 
 
    ![](assets/audience-criteria-3.png)
 
-1. Stellen Sie die Zeit für „größer als“ auf 20 Sekunden ein.
+1. Stellen Sie die Zeit [!UICONTROL größer als] auf 20 Sekunden ein.
 
    ![](assets/audience-criteria-4.png)
 
-1. Fügen Sie die URL der gewünschten Seite im Abschnitt [Target“ ](#target).
+1. Fügen Sie die URL der gewünschten Seite im Abschnitt [[!UICONTROL Target“ ]](#target).
 
    ![](assets/audience-criteria-5.png)
 
@@ -46,7 +46,7 @@ Es stehen _viele_ Attributkombinationen zur Auswahl. Im folgenden Beispiel richt
 
    ![](assets/audience-criteria-7.png)
 
-1. _Is_ ist standardmäßig festgelegt. Geben Sie im Feld Werte auswählen CA ein (Sie können auch auf die Dropdown-Liste klicken und aus der Liste auswählen).
+1. _[!UICONTROL Is]_ ist standardmäßig festgelegt. Geben Sie im Feld Werte auswählen CA ein (Sie können auch auf die Dropdown-Liste klicken und aus der Liste auswählen).
 
    ![](assets/audience-criteria-8.png)
 
@@ -86,19 +86,19 @@ Es gibt eine einfache Möglichkeit, Personen gezielt anzusprechen, die sich noch
 
    >[!NOTE]
    >
-   >Wenn jemand Ihre Website besucht, [&#128279;](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} MunchkinCookies und legt sie im System ab. Wir suchen ihre IP in einer speziellen Datenbank und leiten alle Arten von guten Informationen ab.
+   >Wenn jemand Ihre Website besucht, [ ](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}MunchkinCookies und legt sie im System ab. Wir suchen ihre IP in einer speziellen Datenbank und leiten alle Arten von guten Informationen ab.
 
-1. _Is_ ist standardmäßig festgelegt. Geben Sie im Feld Werte auswählen NY ein (Sie können auch auf die Dropdown-Liste klicken und aus der Liste auswählen).
+1. _[!UICONTROL Is]_ ist standardmäßig festgelegt. Geben Sie im Feld Werte auswählen NY ein (Sie können auch auf die Dropdown-Liste klicken und aus der Liste auswählen).
 
    ![](assets/audience-criteria-15.png)
 
 ## Mitgliedschaft {#membership}
 
-Verwenden Sie Marketo Engage-Smart-Listen für die Zielgruppe Ihres Dialogfelds.
+Verwenden Sie Smart Lists von Marketo Engage für die Zielgruppe Ihres Dialogfelds.
 
 >[!AVAILABILITY]
 >
->Für die Kriterien Mitglied der Smart-Liste oder Mitglied der Liste ist das Dynamic Chat von Prime erforderlich. Weitere Informationen erhalten Sie beim Adobe Account Team (Ihrem Account Manager).
+>Für die Kriterien „Mitglied der Smart-Liste“ oder „Mitglied der Liste“ ist Dynamic Chat Prime erforderlich. Weitere Informationen erhalten Sie beim Adobe Account Team (Ihrem Account Manager).
 
 1. Nehmen Sie unter Mitgliedschaft **[!UICONTROL Mitglied der Smart-Liste]** und legen Sie es auf der Arbeitsfläche ab.
 
@@ -129,7 +129,7 @@ Zulässige Formate:
 
 >[!NOTE]
 >
->* Die Verwendung eines Sternchens dient als Platzhalter für alle Fälle. `https://*.website.com` würde den Dialog also auf jeder Seite der Website, einschließlich Subdomains (z. B.: `support.website.com`). Und `https://website.com/folder/*` würde den Dialog auf jeder HTML-Seite in den nachfolgenden Ordner setzen (z. B.: in diesem Fall sagen wir, dass der Ordner „sports“ ist, also: website.com/sports/baseball.html, website.com/sports/football.html, etc.).
+>* Die Verwendung eines Sternchens dient als Platzhalter für alle Fälle. `https://*.website.com` würde den Dialog also auf jeder Seite der Website, einschließlich Subdomains (z. B.: `support.website.com`). Und `https://website.com/folder/*` würde den Dialog auf jeder HTML-Seite in den nachfolgenden Ordner legen (z. B.: in diesem Fall sagen wir, dass der Ordner „sports“ ist, also: website.com/sports/baseball.html, website.com/sports/football.html, etc.).
 >
 >* URL-Parameter werden derzeit nicht unterstützt.
 

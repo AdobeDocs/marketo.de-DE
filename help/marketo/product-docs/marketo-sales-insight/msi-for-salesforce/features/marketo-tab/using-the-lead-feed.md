@@ -4,16 +4,16 @@ description: Verwenden des Lead-Feeds - Marketo-Dokumente - Produktdokumentation
 title: Verwenden des Lead-Feeds
 exl-id: cdb10fe4-3006-4bae-b485-f7bfa95f1226
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '332'
+source-wordcount: '328'
 ht-degree: 2%
 
 ---
 
 # Verwenden des Lead-Feeds {#using-the-lead-feed}
 
-Der Lead-Feed ist eine aktuelle Liste interessanter Ereignisse, die von Ihren Leads durchgeführt werden. Sie finden sie auf der rechten Seite, wenn Sie auf die Registerkarte Marketo klicken. Es ist wie ein RSS- oder Twitter-Feed - die neuesten Updates stehen ganz oben auf der Liste. Benutze dies, um Leads anzustoßen, während du noch frisch in ihren Köpfen bist.
+Der Lead-Feed ist eine aktuelle Liste interessanter Ereignisse, die von Ihren Leads durchgeführt werden. Sie finden sie auf der rechten Seite, wenn Sie auf die Registerkarte Marketo klicken. Es ist wie ein RSS- oder [!DNL Twitter]-Feed - die neuesten Aktualisierungen stehen ganz oben auf der Liste. Benutze dies, um Leads anzustoßen, während du noch frisch in ihren Köpfen bist.
 
 >[!NOTE]
 >
@@ -25,7 +25,7 @@ Der Lead-Feed ist eine aktuelle Liste interessanter Ereignisse, die von Ihren Le
 
 Jedes Element im Lead-Feed ist ein interessanter Moment - eine bemerkenswerte Aktivität oder ein Ereignis in der Marketing-Historie dieses Leads.
 
-Beim Anzeigen in Salesforce verfügt jedes Element über:
+Beim Anzeigen in [!DNL Salesforce] verfügt jedes Element über:
 
 ![](assets/using-the-lead-feed-2.png)
 
@@ -72,7 +72,7 @@ Beim Anzeigen in Salesforce verfügt jedes Element über:
 
 ## RSS-Aktualisierungen werden abgerufen {#getting-rss-updates}
 
-Sie können auch Lead-Feed-Updates per RSS-Feed erhalten.  Mit einem RSS-Feed können Sie Aktualisierungen zu Ihren Leads erhalten, auch wenn Sie nicht mit Salesforce verbunden sind. Der Feed hat dieselben Informationen wie der Lead-Feed in Salesforce sowie die folgenden (falls verfügbar):
+Sie können auch Lead-Feed-Updates per RSS-Feed erhalten.  Mit einem RSS-Feed können Sie Aktualisierungen zu Ihren Leads erhalten, auch wenn Sie nicht mit [!DNL Salesforce] verbunden sind. Der Feed hat dieselben Informationen wie der Lead-Feed in [!DNL Salesforce] sowie die folgenden (falls verfügbar):
 
 * E-Mail-Adresse
 * Telefonnummer

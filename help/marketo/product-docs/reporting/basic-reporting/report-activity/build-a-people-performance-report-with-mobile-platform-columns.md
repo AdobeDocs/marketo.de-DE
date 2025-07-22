@@ -4,7 +4,7 @@ description: Erstellen eines Leistungsberichts für Personen mit Spalten der mob
 title: Erstellen eines People-Leistungsberichts mit Spalten der mobilen Plattform
 exl-id: 93fb6cb4-a6ca-4b35-b8bf-c6657eb9343b
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Führen Sie die folgenden Schritte aus, um einen Leistungsbericht für Personen 
 
 ## Erstellen von Smart-Listen für Mobilgeräte {#create-mobile-smart-lists}
 
-1. Navigieren Sie **Marketing-Aktivitäten**.
+1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/ma.png)
 
@@ -25,35 +25,35 @@ Führen Sie die folgenden Schritte aus, um einen Leistungsbericht für Personen 
 
    ![](assets/two-1.png)
 
-1. Wählen **unter** die Option **Neues lokales Asset** aus.
+1. Wählen **[!UICONTROL unter]** die Option **[!UICONTROL Neues lokales Asset]** aus.
 
    ![](assets/three-1.png)
 
-1. Klicken Sie **Smart-Liste**.
+1. Klicken Sie **[!UICONTROL Smart-Liste]**.
 
    ![](assets/four-1.png)
 
-1. Geben Sie einen Namen ein und klicken Sie auf **Erstellen**.
+1. Geben Sie einen Namen ein und klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/five-1.png)
 
-1. Suchen Sie den Filter Geöffnete E-Mails und ziehen Sie ihn auf die Arbeitsfläche.
+1. Suchen Sie den Filter [!UICONTROL Geöffnete E-Mail] und ziehen Sie ihn in die Arbeitsfläche.
 
    ![](assets/six-1.png)
 
-1. E-Mail auf **ist beliebig** setzen
+1. E-Mail auf **[!UICONTROL ist beliebig]** setzen
 
    ![](assets/seven.png)
 
-1. Klicken Sie auf **Begrenzung hinzufügen** und wählen Sie **Platform** aus.
+1. Klicken Sie auf **[!UICONTROL Begrenzung hinzufügen]** und wählen Sie **[!UICONTROL Platform]** aus.
 
    ![](assets/eight.png)
 
    >[!TIP]
    >
-   >In diesem Beispiel haben wir den Filter Geöffnete E-Mails verwendet. Sie können auch den Filter Angeklickte E-Mails verwenden, da er die Plattformeinschränkung aufweist.
+   >In diesem Beispiel haben wir den Filter [!UICONTROL Geöffnete E]Mail“ verwendet. Sie können auch den Filter [!UICONTROL Klickte E-Mail] verwenden, da er die Plattformeinschränkung aufweist.
 
-1. Legen Sie Platform auf **iOS** fest.
+1. Legen Sie [!UICONTROL Platform] auf **[!UICONTROL iOS]** fest.
 
    ![](assets/nine.png)
 
@@ -65,23 +65,23 @@ Führen Sie die folgenden Schritte aus, um einen Leistungsbericht für Personen 
 
 ## Erstellen eines Personenleistungsberichts {#create-a-people-performance-report}
 
-1. Wählen Sie unter „Marketing-Aktivitäten“ das Programm aus, in dem Ihre **iOS**- und **Android**-Smart-Listen gespeichert sind.
+1. Wählen Sie unter „Marketing-Aktivitäten“ das Programm aus, in dem Ihre **[!UICONTROL iOS]**- und **[!UICONTROL Android]**-Smart-Listen gespeichert sind.
 
    ![](assets/ten.png)
 
-1. Wählen **unter** die Option **Neues lokales Asset** aus.
+1. Wählen **[!UICONTROL unter]** die Option **[!UICONTROL Neues lokales Asset]** aus.
 
    ![](assets/eleven.png)
 
-1. Klicken Sie auf **Bericht**.
+1. Klicken Sie auf **[!UICONTROL Bericht]**.
 
    ![](assets/twelve.png)
 
-1. Setzen Sie den Typ auf **People Performance**.
+1. Setzen Sie den Typ auf **[!UICONTROL People Performance]**.
 
    ![](assets/thirteen.png)
 
-1. Klicken Sie auf **Erstellen**.
+1. Klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/fourteen.png)
 
@@ -89,7 +89,7 @@ Führen Sie die folgenden Schritte aus, um einen Leistungsbericht für Personen 
 
 ## Mobile Smart-Listen als Spalten hinzufügen {#add-mobile-smart-lists-as-columns}
 
-1. Klicken Sie im soeben erstellten Bericht auf **Setup** und ziehen Sie dann **Benutzerdefinierte Spalten** in die Arbeitsfläche.
+1. Klicken Sie im soeben erstellten Bericht auf **[!UICONTROL Setup]** und ziehen Sie dann **[!UICONTROL Benutzerdefinierte Spalten]** in die Arbeitsfläche.
 
    ![](assets/fifteen.png)
 
@@ -97,11 +97,11 @@ Führen Sie die folgenden Schritte aus, um einen Leistungsbericht für Personen 
    >
    >Standardmäßig werden für den Bericht „Personen-Performance“ die letzten 7 Tage berücksichtigt. Sie können den Zeitrahmen ändern, indem Sie darauf doppelklicken.
 
-1. Suchen Sie die zuvor erstellten Smart-Listen, wählen Sie sie aus und klicken Sie auf **Anwenden**.
+1. Suchen Sie die zuvor erstellten Smart-Listen, wählen Sie sie aus und klicken Sie auf **[!UICONTROL Anwenden]**.
 
    ![](assets/sixteen.png)
 
-1. Klicken Sie **Bericht**, um den Bericht auszuführen und Ihre Daten anzuzeigen.
+1. Klicken Sie **[!UICONTROL Bericht]**, um den Bericht auszuführen und Ihre Daten anzuzeigen.
 
    ![](assets/seventeen.png)
 

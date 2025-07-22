@@ -4,30 +4,30 @@ description: Hinzufügen von Subdomains in den Kontoeinstellungen - Marketo-Doku
 title: In den Kontoeinstellungen Subdomänen hinzufügen
 exl-id: 8235ae4b-ab07-413f-bd23-4e12232bd019
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 8%
+source-wordcount: '145'
+ht-degree: 4%
 
 ---
 
-# In den Kontoeinstellungen Subdomänen hinzufügen {#add-subdomains-in-account-settings}
+# Hinzufügen von Subdomains in [!UICONTROL Kontoeinstellungen] {#add-subdomains-in-account-settings}
 
-So fügen Sie in den Kontoeinstellungen Subdomains zu Ihren primären Domains hinzu: Auf diese Weise können Sie Subdomains verwalten, die sich auf das spezifische RTP-JavaScript Ihrer primären Domain beziehen. Es wird empfohlen, das JavaScript-Tag für alle hinzugefügten Subdomains bereitzustellen.
+So fügen Sie in den Kontoeinstellungen Subdomains zu Ihren primären [!UICONTROL  hinzu]. Auf diese Weise können Sie Subdomains verwalten, die sich auf das spezifische RTP-JavaScript Ihrer primären Domain beziehen. Es wird empfohlen, das [!DNL Javascript]-Tag für alle hinzugefügten Subdomains bereitzustellen.
 
-1. Navigieren Sie in Web Personalization zu **Kontoeinstellungen**.
+1. Navigieren Sie in Web Personalization zu **[!UICONTROL Kontoeinstellungen]**.
 
    ![](assets/image2014-12-1-23-3-12.png)
 
-1. Auf der Seite „Domain-Konfiguration“ wird eine Liste aller primären Domains angezeigt, die mit Ihrem Konto verknüpft sind. In jedem Abschnitt wird zuerst die primäre Domain aufgeführt (siehe unten), gefolgt von allen Subdomains. Klicken Sie **Subdomain hinzufügen**.
+1. Auf der Seite „Domain-Konfiguration“ wird eine Liste aller primären Domains angezeigt, die mit Ihrem Konto verknüpft sind. In jedem Abschnitt wird zuerst die primäre Domain aufgeführt (siehe unten), gefolgt von allen Subdomains. Klicken Sie **[!UICONTROL Subdomain hinzufügen]**.
 
    ![](assets/highlightprimary2.png)
 
-1. Klicken Sie auf **Hinzufügen**.
+1. Klicken Sie auf **[!UICONTROL Hinzufügen]**.
 
    ![](assets/add.png)
 
-1. Geben Sie die Subdomain-URL ein. Klicken Sie auf **Hinzufügen** oder **Löschen**, um Ihre Liste der Subdomains zu verwalten, und klicken Sie dann **OK** wenn Sie fertig sind.
+1. Geben Sie die Subdomain-URL ein. Klicken Sie auf **[!UICONTROL Hinzufügen]** oder **[!UICONTROL Löschen]**, um Ihre Liste der Subdomains zu verwalten, und klicken Sie dann **[!UICONTROL OK]** wenn Sie fertig sind.
 
    ![](assets/newsubdomain.png)
 

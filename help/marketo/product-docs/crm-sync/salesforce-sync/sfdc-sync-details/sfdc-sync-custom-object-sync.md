@@ -4,16 +4,16 @@ description: SFDC-Synchronisierung - Benutzerdefinierte Objektsynchronisierung -
 title: SFDC-Synchronisierung - Synchronisierung benutzerdefinierter Objekte
 exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
 feature: Salesforce Integration
-source-git-commit: 79ae0d56dd4bb8bf563c6546cba54b89b5841425
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '297'
 ht-degree: 0%
 
 ---
 
 # SFDC-Synchronisierung: Benutzerdefinierte Objektsynchronisierung {#sfdc-sync-custom-object-sync}
 
-Benutzerdefinierte Objekte, die in Ihrer Salesforce-Instanz erstellt wurden, können auch Teil von Marketo Engage sein. So richten Sie es ein.
+Benutzerdefinierte Objekte, die in Ihrer [!DNL Salesforce] erstellt wurden, können auch Teil von Marketo sein.  So richten Sie es ein.
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ Benutzerdefinierte Objekte, die in Ihrer Salesforce-Instanz erstellt wurden, kö
 
 >[!PREREQUISITES]
 >
->Um ein benutzerdefiniertes Objekt zu verwenden, muss es mit einem [Lead](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md){target="_blank"}-, [Kontakt](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md){target="_blank"}- oder [Konto](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md){target="_blank"}-Objekt in Salesforce verknüpft sein.
+>Um ein benutzerdefiniertes Objekt zu verwenden, muss es mit einem [Lead](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md)-, [Kontakt](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md)- oder [Konto](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md)-Objekt in [!DNL Salesforce] verknüpft sein.
 
 >[!IMPORTANT]
 >
@@ -43,7 +43,7 @@ Benutzerdefinierte Objekte, die in Ihrer Salesforce-Instanz erstellt wurden, kö
 
    >[!NOTE]
    >
-   >Eine Erstsynchronisierung des benutzerdefinierten Salesforce-Objektschemas kann einige Minuten dauern.
+   >Eine Erstsynchronisierung des [!DNL Salesforce] benutzerdefinierten Objektschemas kann einige Minuten dauern.
 
    ![](assets/image2015-4-22-10-3a45-3a18.png)
 
@@ -67,7 +67,7 @@ Benutzerdefinierte Objekte, die in Ihrer Salesforce-Instanz erstellt wurden, kö
    >
    >Vergessen Sie nicht, die globale Synchronisierung erneut zu aktivieren!
 
-1. Kehren Sie zur Registerkarte **Salesforce** zurück.
+1. Kehren Sie zur Registerkarte **[!UICONTROL Salesforce]** zurück.
 
    ![](assets/image2015-4-22-10-3a46-3a25.png)
 
@@ -75,7 +75,7 @@ Benutzerdefinierte Objekte, die in Ihrer Salesforce-Instanz erstellt wurden, kö
 
    ![](assets/image2015-4-22-10-3a50-3a26.png)
 
-1. Um alle Ihre benutzerdefinierten Salesforce-Objekte anzuzeigen, klicken Sie auf **[!UICONTROL Admin]** und den Link **[!UICONTROL Salesforce-Objekte synchronisieren]** (wie in Schritt 1 oben).
+1. Um alle Ihre [!DNL Salesforce] benutzerdefinierten Objekte anzuzeigen, klicken Sie auf **[!UICONTROL Admin]** und den Link **[!UICONTROL Salesforce-]** synchronisieren (wie in Schritt 1 oben).
 
    ![](assets/image2016-6-23-9-3a28-3a23.png)
 

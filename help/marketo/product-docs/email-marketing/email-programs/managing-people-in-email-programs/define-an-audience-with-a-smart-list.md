@@ -4,7 +4,7 @@ description: Definieren einer Zielgruppe mit einer Smart-Liste - Marketo-Dokumen
 title: Definieren einer Zielgruppe mit einer Smart-Liste
 exl-id: 72a1e717-271b-46b5-b097-d29658b8f6ff
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 2%
@@ -23,17 +23,17 @@ Nachdem Sie [E-Mail-Programm erstellen](/help/marketo/product-docs/email-marketi
 >
 >Die Definition Ihrer Audience funktioniert nur, wenn das E-Mail-Programm nicht genehmigt ist.
 
-1. Navigieren Sie **Marketing-Aktivitäten**.
+1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Wählen Sie Ihr E-Mail-Programm aus und klicken **dann unter der Kachel** Audience **auf „Smart-Liste bearbeiten**.
+1. Wählen Sie Ihr E-Mail-Programm aus und klicken **[!UICONTROL dann unter der Kachel]** Audience **[!UICONTROL auf „Smart-Liste bearbeiten]**.
 
    ![](assets/2017-05-22-09-46-37.png)
 
    >[!TIP]
    >
-   >Stellen Sie sicher, dass die Ansicht auf **Systemsteuerung** eingestellt ist, um diese Einstellung zu finden.
+   >Stellen Sie sicher, dass die Ansicht auf **[!UICONTROL Systemsteuerung]** eingestellt ist, um diese Einstellung zu finden.
 
 1. Suchen Sie die gewünschten Filter und ziehen Sie sie auf die Arbeitsfläche.
 
@@ -63,7 +63,7 @@ Nachdem Sie [E-Mail-Programm erstellen](/help/marketo/product-docs/email-marketi
 >
 >Klicken Sie auf die Nummer für eine detaillierte Liste der Personen, die vom Versand blockiert sind. **Bitte beachten Sie:** operative E-Mails werden weiterhin an Personen gesendet, die als abgemeldet und Marketing ausgesetzt gekennzeichnet sind.
 >
->Verwenden Sie die Schaltfläche ![—](assets/image2014-10-23-16-3a32-3a36.png) auf der Kachel Zielgruppe , um anzuzeigen, wie viele Personen die E-Mail erhalten werden.
+>Verwenden Sie die Schaltfläche ![—](assets/image2014-10-23-16-3a32-3a36.png) auf der Kachel **[!UICONTROL Audience]**, um anzuzeigen, wie viele Personen die E-Mail erhalten werden.
 
 >[!MORELIKETHIS]
 >

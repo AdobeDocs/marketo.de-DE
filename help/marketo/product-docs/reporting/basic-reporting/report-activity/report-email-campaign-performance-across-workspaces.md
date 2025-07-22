@@ -4,7 +4,7 @@ description: Bericht, E-Mail, Kampagnenleistung in allen Arbeitsbereichen - Mark
 title: Bericht, E-Mail, Kampagnenleistung in allen Arbeitsbereichen
 exl-id: e5b94f77-b6f6-4b9b-aef7-88a471929869
 feature: Reporting
-source-git-commit: c7069488ccb0444179cd995bec523ac4dd92da73
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Aktivieren Sie die globale Berichterstellung, um Daten aus allen Marketo [Arbeitsbereichen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) in Ihre Berichte [E-Mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) und [E-Mail-Link](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) aufzunehmen.
 
-1. Wechseln Sie **Bereich** Analytics“ (oder **Marketing-**).
+1. Wechseln Sie **[!UICONTROL Bereich]** Analytics“ (oder **[!UICONTROL Marketing-]**).
 
    ![](assets/image2014-9-16-16-3a4-3a46.png)
 
@@ -23,15 +23,15 @@ Aktivieren Sie die globale Berichterstellung, um Daten aus allen Marketo [Arbeit
 
    ![](assets/image2014-9-16-16-3a4-3a51.png)
 
-1. Klicken Sie auf **Registerkarte** Setup“ und doppelklicken Sie auf **Globale Berichterstellung**.
+1. Klicken Sie auf **[!UICONTROL Registerkarte]** Setup“ und doppelklicken Sie auf **[!UICONTROL Globale Berichterstellung]**.
 
    ![](assets/image2014-9-16-16-3a4-3a58.png)
 
-1. Wählen Sie **Aktiviert** aus.
+1. Wählen Sie **[!UICONTROL Aktiviert]** aus.
 
    ![](assets/image2014-9-16-16-3a5-3a4.png)
 
-1. Das ist alles! Klicken Sie auf **Bericht**, um Daten aus allen Ihren Arbeitsbereichen anzuzeigen.
+1. Das ist alles! Klicken Sie auf **[!UICONTROL Bericht]**, um Daten aus allen Ihren Arbeitsbereichen anzuzeigen.
 
    ![](assets/image2014-9-16-16-3a5-3a8.png)
 

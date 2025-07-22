@@ -4,24 +4,24 @@ description: Microsoft Dynamics-Synchronisierung - Opportunity-Synchronisierung 
 title: Microsoft Dynamics-Synchronisierung - Opportunity-Synchronisierung
 exl-id: dcb72f28-c980-4183-8473-a1e5ad0c8d3c
 feature: Microsoft Dynamics
-source-git-commit: 9a130e0b2ec84b638adf37188b65b565b090fe1b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '303'
 ht-degree: 0%
 
 ---
 
-# Microsoft Dynamics Sync: Opportunity Sync {#microsoft-dynamics-sync-opportunity-sync}
+# [!DNL Microsoft Dynamics]: Opportunity-Synchronisation {#microsoft-dynamics-sync-opportunity-sync}
 
-Marketo Engage zu Dynamics Sync ist super leistungsstark. Im Folgenden finden Sie alle Details zur Opportunity-Synchronisierung.
+Die Synchronisierung von Marketo zu [!DNL Dynamics] ist extrem leistungsstark. Im Folgenden finden Sie alle Details zur Opportunity-Synchronisierung:
 
 ## Wie werden Opportunity-Details zwischen den beiden Systemen synchron gehalten? {#how-are-opportunity-details-kept-in-sync-between-the-two-systems}
 
-Die Opportunity-Synchronisierung erfolgt in eine Richtung - Dynamics zu Marketo. Wenn Sie Änderungen an einer Opportunity in Dynamics vornehmen, wird Ihre Aktualisierung in Marketo angezeigt.
+Die Opportunity-Synchronisation ist eine Möglichkeit - [!DNL Dynamics] zu Marketo. Wenn Sie in [!DNL Dynamics] Änderungen an einer Opportunity vornehmen, wird Ihre Aktualisierung in Marketo übernommen.
 
-## Kann ich in Dynamics eine Opportunity mit Marketo erstellen? {#can-i-create-an-opportunity-in-dynamics-using-marketo}
+## Kann ich mit Marketo in [!DNL Dynamics] eine Opportunity erstellen? {#can-i-create-an-opportunity-in-dynamics-using-marketo}
 
-Nein, Sie müssen die Opportunity in Dynamics erstellen und sie wird automatisch mit Marketo synchronisiert.
+Nein, Sie müssen die Opportunity in [!DNL Dynamics] erstellen. Sie wird automatisch mit Marketo synchronisiert.
 
 ## Welche Felder werden mit Marketo synchronisiert? {#what-fields-will-sync-to-marketo}
 

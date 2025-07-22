@@ -4,9 +4,9 @@ description: Grundlegendes zu Periodenkosten - Marketo-Dokumente - Produktdokume
 title: Zeitraumkosten verstehen
 exl-id: 99f50eaf-28cf-4a8b-8ebd-89a4beef986a
 feature: Programs
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Periodenkosten beziehen sich auf das Geld, das Sie in einem bestimmten Monat fü
 >
 >**Beispiel**
 >
->Wenn Sie 1000 US-Dollar ausgeben, um einen Illustrator für ein E-Book zu mieten, das im Juli startet, würde das E-Book-Programm im Juli einen Zeitraum von 1000 US-Dollar kosten.
+>Wenn Sie 1000 US-Dollar ausgeben, um einen Illustrator für ein [!DNL eBook] zu mieten, das im Juli startet, würde das [!DNL eBook]-Programm im Juli einen Zeitraum von 1000 US-Dollar kosten.
 >
 >Wenn Sie pro Monat 200 $ für [!DNL Google Adwords] ausgeben, würde das [!DNL Google Adwords]-Programm einen Zeitraum von 200 $ (_Monat)_.
 

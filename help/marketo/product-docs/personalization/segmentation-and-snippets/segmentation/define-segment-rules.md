@@ -4,7 +4,7 @@ description: Segmentregeln definieren - Marketo-Dokumente - Produktdokumentation
 title: Segmentregeln definieren
 exl-id: e6631848-aa8c-4709-b182-4c88abbd365b
 feature: Segmentation
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '378'
 ht-degree: 0%
@@ -19,15 +19,15 @@ Durch das Definieren von Segmentregeln können Sie Ihre Personen in verschiedene
 >
 >[Segmentierung erstellen](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 
-1. Navigieren Sie zur **Datenbank.**
+1. Navigieren Sie zur **[!UICONTROL Datenbank]**.
 
    ![](assets/image2017-3-28-14-3a7-3a42.png)
 
-1. Wählen Sie **Segmentierung** aus der Baumstruktur aus und klicken Sie dann auf ein bestimmtes **Segment**.
+1. Wählen Sie **[!UICONTROL Segmentierungen]** aus der Baumstruktur aus und klicken Sie dann auf ein bestimmtes **Segment**.
 
    ![](assets/image2017-3-28-14-3a11-3a15.png)
 
-1. Klicken Sie auf **Smart-Liste** und fügen Sie Filter hinzu.
+1. Klicken Sie auf **[!UICONTROL Smart-Liste]** und fügen Sie Filter hinzu.
 
    ![](assets/image2017-3-28-14-3a18-3a19.png)
 
@@ -47,11 +47,11 @@ Durch das Definieren von Segmentregeln können Sie Ihre Personen in verschiedene
    >
    >Das Verhalten der Aktivitätsprotokollierung für Kontofelder kann sich auf die Qualifizierung auswirken. Daher raten wir davon ab, bei der Definition von Segmentregeln Kontofelder zu verwenden.
 
-1. Klicken Sie auf **Personen (Entwurf)**, um die Personen anzuzeigen, die sich möglicherweise als Mitglied dieses Segments qualifizieren.
+1. Klicken Sie auf **[!UICONTROL Personen (Entwurf)]**, um die Personen anzuzeigen, die sich möglicherweise als Mitglied dieses Segments qualifizieren.
 
    ![](assets/image2017-3-28-14-3a20-3a15.png)
 
-1. Navigieren Sie **Segmentierungsaktionen**. Klicken Sie **Genehmigen**.
+1. Navigieren Sie **[!UICONTROL Segmentierungsaktionen]**. Klicken Sie **[!UICONTROL Genehmigen]**.
 
    ![](assets/image2014-9-15-11-3a36-3a7.png)
 
@@ -73,7 +73,7 @@ Gute Arbeit! Diese Segmente werden an vielen Stellen in Marketo nützlich sein.
 
 >[!NOTE]
 >
->Der Bildschirm Personen (Entwurf) zeigt alle Personen an, die sich als Mitglied qualifizieren, und ist nicht immer die endgültige Liste der Personen. Genehmigen Sie Ihr Segment, um die endgültige Liste zu sehen.
+>Der Bildschirm [!UICONTROL Personen (Entwurf)] zeigt alle Personen an, die sich als Mitglied qualifizieren, und ist nicht immer die endgültige Liste der Personen. Genehmigen Sie Ihr Segment, um die endgültige Liste zu sehen.
 
 >[!MORELIKETHIS]
 >

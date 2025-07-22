@@ -4,7 +4,7 @@ description: Ein-/Ausblenden eines Programmkanals - Marketo-Dokumente - Produktd
 title: Ein-/Ausblenden eines Programmkanals
 exl-id: 17061f87-85c9-4940-bd8e-590e4c7c04f1
 feature: Tags
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%
@@ -41,6 +41,6 @@ Leicht kommen, los!
 
 ## Programmkanal einblenden {#unhide-a-program-channel}
 
-1. Ein Programmkanal wird eingeblendet, indem das Kontrollkästchen Ausgeblendet anzeigen aktiviert wird.
+1. Ein Programmkanal wird eingeblendet, indem das Kontrollkästchen **[!UICONTROL Ausgeblendet anzeigen]** aktiviert wird.
 
    ![](assets/hide-unhide-a-program-channel-5.png)

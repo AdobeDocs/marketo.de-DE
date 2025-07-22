@@ -4,7 +4,7 @@ description: Erstellen/Widerrufen einer Marketing-Kalender-Lizenz - Marketo-Doku
 title: Marketing-Kalender-Lizenz erteilen/widerrufen
 exl-id: b43cf0e4-3e3e-4034-8ecf-bda34557cfef
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
@@ -43,6 +43,6 @@ Um Ihren [Marketing-Kalender](/help/marketo/product-docs/core-marketo-concepts/m
 
    ![](assets/4.png)
 
-   Gut gemacht! Siehe das grüne Häkchen unter „Kalender?“
+   Gut gemacht! Sehen Sie das grüne Häkchen unter &quot;[!UICONTROL Kalender]?“
 
    ![](assets/5.png)

@@ -4,7 +4,7 @@ description: In-App-Nachrichtentext erstellen - Marketo-Dokumente - Produktdokum
 title: Erstellen von In-App-Nachrichtentext
 exl-id: 8fe5f004-dafb-4e03-9628-bd92fcb3fd44
 feature: Mobile Marketing
-source-git-commit: ea9bf2a002415936cdfb5bfb723ce80723003da5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '369'
 ht-degree: 0%
@@ -47,7 +47,7 @@ Klicken Sie auf den Textbereich, um Ihren Textstil und -inhalt zu bearbeiten.
    >
    >Die in der Anzeige gerenderte Textschriftart ist die Standardschriftart für jede Plattform: Helvetica für Apple und Roboto für Android
 
-1. Markieren Sie das Kästchen, um Text auszuwählen und auf Aktion zu tippen.
+1. Markieren Sie das Kästchen, um Text (**[!UICONTROL )]**.
 
    ![](assets/image2016-5-6-10-3a20-3a41.png)
 
@@ -57,7 +57,7 @@ Klicken Sie auf den Textbereich, um Ihren Textstil und -inhalt zu bearbeiten.
 
    >[!NOTE]
    >
-   >Für Tipp-Aktionen können Sie verschiedene Aktionen für Apple- und Android-Plattformen einrichten. Deep-Links werden beispielsweise für Apple und Android unterschiedlich gehandhabt. Wenn Ihre Nachricht nur zu einer bestimmten Plattform gesendet wird, können Sie die andere in der Standardeinstellung belassen oder Keine auswählen.
+   >Für Tipp-Aktionen können Sie verschiedene Aktionen für Apple- und Android-Plattformen einrichten. Deep-Links werden beispielsweise für Apple und Android unterschiedlich gehandhabt. Wenn Ihre Nachricht nur zu einer bestimmten Plattform gesendet wird, können Sie die andere in der Standardeinstellung belassen oder auf [!UICONTROL Keine] klicken.
 
 1. Klicken Sie auf den unterstützenden Text, um ihn inline zu bearbeiten. Dies funktioniert genauso wie die Bearbeitung des Haupttexts, aber die standardmäßige Textgröße ist kleiner.
 
@@ -67,13 +67,13 @@ Klicken Sie auf den Textbereich, um Ihren Textstil und -inhalt zu bearbeiten.
 
    ![](assets/image2016-5-6-10-3a29-3a2.png)
 
-1. Wählen Sie ein Mein Token aus der Dropdown-Liste aus, fügen Sie einen Standardwert hinzu und klicken Sie auf **Einfügen**.
+1. Wählen Sie ein Mein Token aus der Dropdown-Liste aus, fügen Sie einen Standardwert hinzu und klicken Sie auf **[!UICONTROL Einfügen]**.
 
    ![](assets/mytoken.png)
 
    >[!NOTE]
    >
-   >Nur „Meine Token“ sind als Optionen verfügbar. Wenn keine Meine Token im Programm eingerichtet wurden, ist die Dropdown-Liste Token leer.
+   >Nur „Meine Token“ sind als Optionen verfügbar. Wenn keine „Meine Token“ im Programm eingerichtet wurden, ist die [!UICONTROL Token]-Dropdown-Liste leer.
 
    >[!TIP]
    >

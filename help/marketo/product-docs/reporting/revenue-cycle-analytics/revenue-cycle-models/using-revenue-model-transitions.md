@@ -4,7 +4,7 @@ description: Verwenden von Umsatzmodellübergängen - Marketo-Dokumente - Produk
 title: Verwenden von Umsatzmodellübergängen
 exl-id: c658b631-b849-438a-b412-63ffd41e4c85
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -21,19 +21,19 @@ Wenn Sie Ihr Modell erstellen und Ihre Inventarphasen auswählen und organisiere
 
 ![](assets/one-2.png)
 
-1. Klicken Sie mit der rechten Maustaste (Sie können auch doppelklicken) auf einen der Pfeile, um zu beginnen, und wählen Sie **Transition bearbeiten**.
+1. Klicken Sie mit der rechten Maustaste (Sie können auch doppelklicken) auf einen der Pfeile, um zu beginnen, und wählen Sie **[!UICONTROL Transition bearbeiten]**.
 
    ![](assets/two-2.png)
 
    >[!NOTE]
    >
-   >Übergangsregeln für &#39;Anonyme ⇒ bekannte&#39; können nicht bearbeitet werden.
+   >Übergangsregeln [!UICONTROL Anonym] ⇒ [!UICONTROL Bekannter] können nicht bearbeitet werden.
 
 1. Daraufhin wird eine neue Registerkarte für die ausgewählte Transition geöffnet.
 
    ![](assets/three-1.png)
 
-1. Übergänge steuern, wie Leads zwischen den Stadien wechseln. Ziehen Sie den Trigger (oder Filter) Ihrer Wahl von rechts und lassen Sie ihn an einer beliebigen Stelle auf der Arbeitsfläche los. In diesem Beispiel wählen wir den Trigger Formular ausfüllen .
+1. Übergänge steuern, wie Leads zwischen den Stadien wechseln. Ziehen Sie den Trigger (oder Filter) Ihrer Wahl von rechts und lassen Sie ihn an einer beliebigen Stelle auf der Arbeitsfläche los. In diesem Beispiel wählen wir den Trigger **[!UICONTROL Formular ausfüllen]** aus.
 
    >[!TIP]
    >
@@ -45,7 +45,7 @@ Wenn Sie Ihr Modell erstellen und Ihre Inventarphasen auswählen und organisiere
 
    ![](assets/five-2.png)
 
-1. Um zu Ihrem Modell zurückzukehren, klicken Sie auf **Modeler**.
+1. Um zu Ihrem Modell zurückzukehren, klicken Sie auf **[!UICONTROL Modeler]**.
 
    ![](assets/six.png)
 
@@ -53,7 +53,7 @@ Wenn Sie Ihr Modell erstellen und Ihre Inventarphasen auswählen und organisiere
 
    ![](assets/seven.png)
 
-1. Nachdem Sie Regeln für alle Ihre Transitionen konfiguriert haben, klicken Sie auf **Validieren** um sie zu überprüfen.
+1. Nachdem Sie Regeln für alle Ihre Transitionen konfiguriert haben, klicken Sie auf **[!UICONTROL Validieren]** um sie zu überprüfen.
 
    ![](assets/eight.png)
 

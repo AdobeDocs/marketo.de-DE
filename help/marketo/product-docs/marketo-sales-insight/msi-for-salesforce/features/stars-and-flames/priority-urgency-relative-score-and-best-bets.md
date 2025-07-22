@@ -4,16 +4,16 @@ description: Priorität, Dringlichkeit, relatives Ergebnis und Best Bets - Marke
 title: Priorität, Dringlichkeit, relative Punktzahl und Best Bets
 exl-id: 391aae00-e4f5-4fb1-8728-f5224276dfc2
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '454'
-ht-degree: 1%
+source-wordcount: '445'
+ht-degree: 0%
 
 ---
 
-# Priorität, Dringlichkeit, relative Punktzahl und Best Bets {#priority-urgency-relative-score-and-best-bets}
+# Priorität, Dringlichkeit, relativer Wert und [!DNL Best Bets] {#priority-urgency-relative-score-and-best-bets}
 
-Marketo Sales Insight wählt die besten Leads und Kontakte auf der Grundlage ihrer Priorität aus. Die Priorität eines Leads oder Kontakts besteht aus zwei Komponenten: Dringlichkeit und relativer Punktzahl.
+[!DNL Marketo Sales Insight] wählt die besten Leads und Kontakte anhand ihrer Priorität aus. Die Priorität eines Leads oder Kontakts besteht aus zwei Komponenten: Dringlichkeit und relativer Punktzahl.
 
 ![](assets/priority-urgency-relative-score-and-best-bets-1.png)
 
@@ -37,9 +37,9 @@ Die Sterne stellen einen relativen Wert dar - ein Maß dafür, wie der Lead-Wert
 
 Wenn zwei Leads dieselbe Dringlichkeit haben, können Sie anhand der relativen Punktzahl ermitteln, wer zuerst einen Telefonanruf verdient. Die Person mit der höheren relativen Bewertung kann besser auf Ihr Angebot reagieren als die niedrigere.
 
-## Vielversprechende Kontakte {#best-bets}
+## [!DNL Best Bets] {#best-bets}
 
-Ihre besten Einsätze sind Ihre Leads und Kontakte mit der höchsten Dringlichkeit und relativen Punktzahl. Nur die Leads, deren Inhaber Sie sind, sind in dieser Liste sichtbar und die Liste wird aktualisiert, wenn sich die Lead-Bewertungen ändern.
+Ihre [!DNL Best Bets] sind Ihre Leads und Kontakte mit der höchsten Dringlichkeit und relativen Punktzahl. Nur die Leads, deren Inhaber Sie sind, sind in dieser Liste sichtbar und die Liste wird aktualisiert, wenn sich die Lead-Bewertungen ändern.
 
 >[!NOTE]
 >

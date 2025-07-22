@@ -4,7 +4,7 @@ description: Hinzufügen benutzerdefinierter Marketo-Objektfelder - Marketo-Doku
 title: Benutzerdefinierte Marketo-Objektfelder hinzufügen
 exl-id: 6d776d97-93e2-4708-9ce5-2172e02b71c3
 feature: Custom Objects
-source-git-commit: 99c38fd24631e94a9554bf09de11e8eb607150d6
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '293'
 ht-degree: 0%
@@ -43,7 +43,7 @@ Felder definieren die spezifischen Informationen, die von einem benutzerdefinier
 
    >[!NOTE]
    >
-   >Der API-Name kann nur bis zu seiner Genehmigung bearbeitet werden.
+   >Der [!UICONTROL API-Name] kann nur bis zu seiner Genehmigung bearbeitet werden.
 
 1. Wählen Sie nun den entsprechenden [!UICONTROL Datentyp] aus der Liste aus.
 

@@ -4,37 +4,37 @@ description: Erstellen einer benutzerdefinierten Zielgruppe in Facebook - Market
 title: Erstellen einer benutzerdefinierten Zielgruppe in Facebook
 exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
 feature: Integrations
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
 
-# Erstellen einer benutzerdefinierten Zielgruppe in Facebook {#create-a-custom-audience-in-facebook}
+# Erstellen einer benutzerdefinierten Zielgruppe in [!DNL Facebook] {#create-a-custom-audience-in-facebook}
 
 >[!PREREQUISITES]
 >
->* [Hinzufügen von benutzerdefinierten Facebook-Zielgruppen als LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md){target="_blank"}Service im Administratorbereich.
->* [Akzeptieren der benutzerdefinierten Zielgruppenbedingungen von Facebook](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"} in Ihrem Facebook-Konto.
+>* [Hinzufügen [!DNL Facebook] Benutzerdefinierte Zielgruppen als LaunchPoint-](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md){target="_blank"} im Administratorbereich.
+>* [Akzeptieren [!DNL Facebook] der benutzerdefinierten Zielgruppenbedingungen von ](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"} in Ihrem [!DNL Facebook].
 
 >[!TIP]
 >
->Weitere Informationen zu [benutzerdefinierten Zielgruppen in Facebook](https://www.facebook.com/help/341425252616329){target="_blank"}.
+>Weitere Informationen zu [benutzerdefinierten Zielgruppen in [!DNL Facebook]](https://www.facebook.com/help/341425252616329){target="_blank"}.
 
 1. Suchen Sie die Smart- oder statische Liste, die die Leads enthält, aus denen Sie die Zielgruppe erstellen möchten, und wählen Sie sie aus.
 
    ![](assets/create-a-custom-audience-in-facebook-1.png)
 
-1. Wählen Sie die **Leads** aus und klicken Sie dann unten auf **Symbol Über Ad Bridge senden** .
+1. Wählen Sie die **[!UICONTROL Leads]** aus und klicken Sie dann unten auf **Symbol Über Ad Bridge senden** .
 
    ![](assets/create-a-custom-audience-in-facebook-2.png)
 
-1. Wählen Sie **Facebook** aus und klicken Sie auf **Weiter**.
+1. Wählen Sie **[!UICONTROL Facebook]** aus und klicken Sie auf **[!UICONTROL Weiter]**.
 
    ![](assets/create-a-custom-audience-in-facebook-3.png)
 
-1. Klicken Sie auf **Zielgruppe** und wählen Sie **+ Neue Zielgruppe**.
+1. Klicken Sie auf **[!UICONTROL Zielgruppe]** und wählen Sie **[!UICONTROL + Neue Zielgruppe]**.
 
    ![](assets/create-a-custom-audience-in-facebook-4.png)
 
@@ -42,17 +42,17 @@ ht-degree: 0%
    >
    >Die Facebook-API ermöglicht bis zu 500 benutzerdefinierte Zielgruppen pro Facebook-Werbekonto.
 
-1. Geben Sie einen **Zielgruppennamen** ein. Klicken Sie auf **Aktualisieren**.
+1. Geben Sie einen **[!UICONTROL Zielgruppennamen]** ein. Klicken Sie auf **[!UICONTROL Aktualisieren]**.
 
    ![](assets/create-a-custom-audience-in-facebook-5.png)
 
    >[!NOTE]
    >
-   >Wenn Sie mehrere Facebook-Werbekonten haben, wird eine zusätzliche Dropdown-Liste angezeigt, in der Sie auswählen können, in welchem Werbekonto diese Zielgruppe erstellt wird.
+   >Wenn Sie mehrere [!DNL Facebook]-Werbekonten haben, wird eine zusätzliche Dropdown-Liste angezeigt, in der Sie auswählen können, in welchem Werbekonto diese Zielgruppe erstellt wird.
 
    >[!TIP]
    >
-   >Möchten Sie eine neue Zielgruppe durch eine vorhandene austauschen, die derzeit mit einem Anzeigensatz oder einer Gruppe verknüpft ist? Aktivieren Sie **Kontrollkästchen** Vorhandene Zielgruppe ersetzen). Dadurch wird **ersetzte Zielgruppe** gelöscht.
+   >Möchten Sie eine neue Zielgruppe durch eine vorhandene austauschen, die derzeit mit einem Anzeigensatz oder einer Gruppe verknüpft ist? Aktivieren Sie **[!UICONTROL Kontrollkästchen]** Vorhandene Zielgruppe ersetzen). Dadurch wird **ersetzte Zielgruppe** gelöscht.
 
 1. Danach wird das Statusdialogfeld aktualisiert.
 
@@ -64,8 +64,8 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Alle Listen, die Sie auf Facebook pushen, werden statisch. Smart-Listen in Marketo aktualisieren die Audience-Liste in Facebook nicht automatisch, um Änderungen widerzuspiegeln, die nach der Übertragung vorgenommen wurden.
+   >Alle Listen, die Sie per Push übertragen, werden [!DNL Facebook] statisch. Smart-Listen in Marketo aktualisieren die Audience-Liste nicht automatisch, [!DNL Facebook] nach der Übertragung vorgenommene Änderungen widerzuspiegeln.
 
    >[!MORELIKETHIS]
    >
-   >[Hinzufügen von Leads zu einer benutzerdefinierten Zielgruppe in Facebook](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
+   >[Hinzufügen von Leads zu einer benutzerdefinierten Zielgruppe in [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)

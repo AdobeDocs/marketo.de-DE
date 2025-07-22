@@ -4,26 +4,26 @@ description: Performance Insights - Trend-Übersicht - Marketo-Dokumente - Produ
 title: Übersicht über den Performance Insights-Trend
 exl-id: f6590a13-2eba-44b3-b832-fd352b67ab5e
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
 
-# Übersicht über den Performance Insights-Trend {#performance-insights-trend-overview}
+# [!UICONTROL Performance Insights] Trend-Übersicht {#performance-insights-trend-overview}
 
-Der Trend zeigt die Kanalleistung von über einen bestimmten Zeitraum an.
+[!UICONTROL Trend] zeigt die Kanalleistung von über einen bestimmten Zeitraum an.
 
-Klicken Sie auf die **Trend**, um auf diese Ansicht zuzugreifen.
+Klicken Sie auf die **[!UICONTROL Trend]**, um auf diese Ansicht zuzugreifen.
 
 ![](assets/1.png)
 
-## Trend {#trend}
+## [!UICONTROL Trend] {#trend}
 
 ![](assets/2-1.png)
 
-Wählen Sie die Metrik aus, nach der Sie die Leistung anzeigen möchten. In diesem Beispiel werden wir die mit „First Touch[ gewonnenen ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md) untersuchen.
+Wählen Sie die Metrik aus, nach der Sie die Leistung anzeigen möchten. In diesem Beispiel werden wir gewonnene Opportunitys mit &quot;[[!UICONTROL -Touch“ ]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 ![](assets/3-2.png)
 

@@ -4,7 +4,7 @@ description: Klonen einer Web-Kampagne - Marketo-Dokumente - Produktdokumentatio
 title: Klonen einer Web-Kampagne
 exl-id: c87440fb-694f-4a51-ad73-317f4d7f4314
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Klonen einer Web-Kampagne {#clone-a-web-campaign}
 
-Verwenden Sie die Klon-Funktion auf der Web-Kampagnenseite, um die Kampagneneinstellungen zu kopieren und den Inhalt für die Optimierung der Aufspaltungstests zu ändern, oder klonen Sie eine Kampagne mit demselben Inhalt und richten Sie sie auf ein anderes Segment aus. Erstellen Sie Web-Kampagnen in Sekunden!
+Verwenden Sie die Klon-Funktion auf der [!UICONTROL Web-Kampagnen]-Seite, um die Kampagneneinstellungen zu kopieren und den Inhalt für die Optimierung der Aufspaltungstests zu ändern, oder klonen Sie eine Kampagne mit demselben Inhalt und richten Sie sie auf ein anderes Segment aus. Erstellen Sie Web-Kampagnen in Sekunden!
 
 ## Klonen einer Kampagne {#create-a-clone-campaign}
 
-1. Gehen Sie zu **Web-Kampagnen**.
+1. Gehen Sie zu **[!UICONTROL Web-Kampagnen]**.
 
    ![](assets/image2016-8-18-16-3a44-3a0.png)
 

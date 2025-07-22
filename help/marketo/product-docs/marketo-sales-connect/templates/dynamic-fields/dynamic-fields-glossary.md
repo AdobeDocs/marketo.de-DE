@@ -4,18 +4,18 @@ description: Glossar für dynamische Felder - Marketo-Dokumente - Produktdokumen
 title: Glossar für dynamische Felder
 exl-id: 28351ba9-53da-4408-9526-918200d9bd29
 feature: Marketo Sales Connect
-source-git-commit: cffe7a8734f79f887f3aad017a16fad4f04cda74
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '245'
 ht-degree: 2%
 
 ---
 
 # Glossar für dynamische Felder {#dynamic-fields-glossary}
 
-Beim Erstellen einer Vorlage in Sales Connect empfehlen wir immer die Integration dynamischer Felder mithilfe der Schaltfläche **MSE Dynamic Fields**.
+Beim Erstellen einer Vorlage in [!DNL Sales Connect] empfehlen wir immer die Integration dynamischer Felder mithilfe der Schaltfläche **[!UICONTROL Dynamische MSE-Felder]**.
 
-Dieses Tool wird verwendet, um Ihnen `pulling information from the People page` viel Zeit zu `auto-personalize your email` und zu sparen.
+Dieses Tool wird verwendet, um Ihnen `auto-personalize your email` viel Zeit zu `pulling information from the [!UICONTROL People] page` und zu sparen.
 
 | Dynamisches Feld | Beispiel für das, was in Ihrer E-Mail angezeigt wird |
 |---|---|

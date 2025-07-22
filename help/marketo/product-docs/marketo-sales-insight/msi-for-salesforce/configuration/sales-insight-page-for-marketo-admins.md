@@ -1,44 +1,44 @@
 ---
 unique-page-id: 42762409
-description: Sales Insight-Seite für Marketo-Administrierende - Marketo-Dokumente - Produktdokumentation
-title: Sales Insight-Seite für Marketo-Administratoren
+description: Vertriebs-Insight-Seite für Marketo-Administrierende - Marketo-Dokumente - Produktdokumentation
+title: Vertriebs-Insight-Seite für Marketo-Administratoren
 exl-id: d98bc9d8-1a72-405f-b1d7-b71ad88c8493
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '417'
-ht-degree: 1%
+source-wordcount: '404'
+ht-degree: 0%
 
 ---
 
-# Sales Insight-Seite für Marketo-Administratoren {#sales-insight-page-for-marketo-admins}
+# [!DNL Sales Insight] für Marketo-Administratoren {#sales-insight-page-for-marketo-admins}
 
-Marketo-Administratoren verfügen über bestimmte Berechtigungen in Sales Insight. Erfahren Sie unten, was sie sind.
+Marketo-Administratoren verfügen über bestimmte Berechtigungen in [!DNL Sales Insight]. Erfahren Sie unten, was sie sind.
 
 ## SOAP-API-Konfiguration {#soap-api-configuration}
 
-Diese Anmeldeinformationen werden verwendet, um Ihr Salesforce-Konto mit Ihrer Marketo-Instanz zu verbinden und MSI in Salesforce zu verwenden.
+Diese Anmeldeinformationen werden verwendet, um Ihr [!DNL Salesforce]-Konto mit Ihrer Marketo-Instanz zu verbinden und MSI in [!DNL Salesforce] zu verwenden.
 
 ![](assets/one-1.png)
 
 ## REST-API-Konfiguration {#rest-api-configuration}
 
-Diese Anmeldeinformationen werden verwendet, um Ihr Salesforce-Konto mit Ihrer Marketo-Instanz zu verbinden und das MSI Insights-Dashboard in Salesforce zu verwenden.
+Diese Anmeldeinformationen werden verwendet, um Ihr [!DNL Salesforce]-Konto mit Ihrer Marketo-Instanz zu verbinden und das MSI Insights-Dashboard in [!DNL Salesforce] zu verwenden.
 
 ![](assets/two-1.png)
 
 ## Einstellungen für Personenbewertung {#person-score-settings}
 
-* **Sterne**: Sterne stehen für den Gesamtwert aller Leads im Vergleich zu anderen Leads.
-* **Flammen**: Flammen stellen eine Dringlichkeit dar - wie sehr sich die Bewertung eines Leads in letzter Zeit geändert hat.
+* **[!UICONTROL Sterne]**: Sterne stehen für den Gesamtwert aller Leads im Vergleich zu anderen Leads.
+* **[!UICONTROL Flammen]**: Flammen stellen eine Dringlichkeit dar - wie sehr sich die Bewertung eines Leads in letzter Zeit geändert hat.
 
-Standardmäßig verwendet Marketo Sales Insight das Feld Lead-Bewertung zur Berechnung von Sternen und Flammen. Wenn Sie jedoch ein anderes Feld auswählen möchten, sehen Sie folgendes:
+Standardmäßig verwendet [!DNL Marketo Sales Insight] das Feld Lead-Bewertung zur Berechnung von Sternen und Flammen. Wenn Sie jedoch ein anderes Feld auswählen möchten, sehen Sie folgendes:
 
-1. Klicken Sie im **Admin**-Bereich von Marketo auf **Sales Insight**.
+1. Klicken Sie im **[!UICONTROL Admin]**-Bereich von Marketo auf **[!UICONTROL Sales Insight]**.
 
    ![](assets/four.png)
 
-1. Klicken Sie unter Lead-Bewertungseinstellungen auf **Bearbeiten**.
+1. Klicken [!UICONTROL  unter „Lead]Bewertungseinstellungen“ auf **[!UICONTROL Bearbeiten]**.
 
    ![](assets/five.png)
 
@@ -50,7 +50,7 @@ Standardmäßig verwendet Marketo Sales Insight das Feld Lead-Bewertung zur Bere
 
    ![](assets/seven.png)
 
-1. Klicken Sie auf **Speichern**. Die Neuberechnung von Sales Insights dauert einige Zeit. Sie können Ihr CRM später überprüfen, um die Sterne und Flammen zu sehen.
+1. Klicken Sie auf **[!UICONTROL Speichern]**. Die Neuberechnung von Sales insight wird einige Zeit in Anspruch nehmen. Sie können Ihr CRM später überprüfen, um die Sterne und Flammen zu sehen.
 
    ![](assets/eight.png)
 
@@ -68,20 +68,20 @@ Standardmäßig verwendet Marketo Sales Insight das Feld Lead-Bewertung zur Bere
 
 **Abmeldeeinstellungen:**
 
-Sie können aus den folgenden Abmeldeeinstellungen für Keine Vorlage, Standard-E-Mails und operative E-Mails wählen
+Sie können aus den folgenden Abmeldeeinstellungen für „Keine Vorlage, &quot;[!UICONTROL Standard-E-Mails] und [!UICONTROL Operative E-Mails“ ]
 
-* Abmeldeeinstellung berücksichtigen
-* Abmeldeeinstellungen berücksichtigen, wenn mehr als 1 Empfänger
-* Berücksichtigung der Abmeldeeinstellungen bei mehr als 5 Empfängern
-* Abbestelleinstellungen ignorieren
+* [!UICONTROL Respektieren Sie die Abmeldeeinstellung]
+* [!UICONTROL Respektieren Sie die Abmeldeeinstellungen, wenn mehr als 1 Empfänger vorhanden ist]
+* [!UICONTROL Respektieren Sie die Abmeldeeinstellungen, wenn mehr als 5 Empfänger]
+* [!UICONTROL Abmeldeeinstellungen ignorieren]
 
 **Sperren von Vorlagen aktivieren:**
 
-Wenn diese Option aktiviert ist, können MSI-Benutzer beim Senden von E-Mails über Salesforce keine Vorlagen bearbeiten
+Wenn diese Option aktiviert ist, können MSI-Benutzer beim Senden von E-Mails über [!DNL Salesforce] keine Vorlagen bearbeiten
 
 **RSS-Feed aktivieren:**
 
-Wenn diese Option aktiviert ist, können MSI-Benutzer ihren Lead-Feed in einem RSS-Feed anzeigen (zusätzlich zum Lead-Feed in Salesforce). RSS-Feed kann nur funktionieren, wenn die Funktion „Token-Ablauf“ deaktiviert ist.
+Wenn diese Option aktiviert ist, können MSI-Benutzer ihren Lead-Feed in einem RSS-Feed anzeigen (zusätzlich zum Lead-Feed in [!DNL Salesforce]). RSS-Feed kann nur funktionieren, wenn die Funktion &quot;[!UICONTROL Token-]&quot; deaktiviert ist.
 
 **Token-Ablauf:**
 

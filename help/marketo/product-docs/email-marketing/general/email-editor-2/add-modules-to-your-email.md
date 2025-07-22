@@ -4,16 +4,16 @@ description: Hinzufügen von Modulen zu Ihrer E-Mail - Marketo-Dokumente - Produ
 title: Hinzufügen von Modulen zu Ihrer E-Mail
 exl-id: d87b8b42-421b-4804-8441-8e41f2353b03
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '250'
 ht-degree: 0%
 
 ---
 
 # Hinzufügen von Modulen zu Ihrer E-Mail {#add-modules-to-your-email}
 
-Im E-Mail-Editor 2.0 ist ein Modul ein Abschnitt Ihrer E-Mail, der in der Vorlage definiert ist. Module können eine beliebige Kombination aus Elementen, Variablen und anderem HTML-Inhalt enthalten. Sie können sie ganz einfach zu Ihrer E-Mail hinzufügen.
+[!DNL Email Editor 2.0] ist ein Modul ein Abschnitt Ihrer E-Mail, der in der Vorlage definiert ist. Module können eine beliebige Kombination aus Elementen, Variablen und anderen HTML-Inhalten enthalten. Sie können sie ganz einfach zu Ihrer E-Mail hinzufügen.
 
 1. Erstellen einer E-Mail. Wählen (oder erstellen) Sie unbedingt eine Vorlage, die Module enthält.
 
@@ -21,9 +21,9 @@ Im E-Mail-Editor 2.0 ist ein Modul ein Abschnitt Ihrer E-Mail, der in der Vorlag
 
    >[!NOTE]
    >
-   >Die meisten Marketo Starter-Vorlagen enthalten Module. Sie können auch [eigene erstellen](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#modules).
+   >Die meisten Marketo [!UICONTROL Starter-Vorlagen] enthalten [!UICONTROL Module]. Sie können auch [eigene erstellen](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#modules).
 
-1. Klicken Sie ganz rechts in der E-Mail auf **Module**.
+1. Klicken Sie ganz rechts in der E-Mail auf **[!UICONTROL Module]**.
 
    ![](assets/two-3.png)
 
@@ -59,7 +59,7 @@ Es gibt zwei Möglichkeiten, ein Modul zu verschieben.
 
    ![](assets/nine-2.png)
 
-1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Nach oben** oder **Nach unten** aus, je nachdem, wohin das Modul wechseln soll.
+1. Klicken Sie auf das Zahnradsymbol und wählen Sie **[!UICONTROL Nach oben]** oder **[!UICONTROL Nach unten]** aus, je nachdem, wohin das Modul wechseln soll.
 
    ![](assets/ten-2.png)
 

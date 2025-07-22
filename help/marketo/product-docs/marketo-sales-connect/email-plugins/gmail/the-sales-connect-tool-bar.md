@@ -4,20 +4,20 @@ description: Die Sales Connect-Symbolleiste - Marketo-Dokumente - Produktdokumen
 title: Die Sales Connect-Symbolleiste
 exl-id: bff92e49-7dd2-4008-8f92-fee03a552fdf
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 1%
+source-wordcount: '100'
+ht-degree: 2%
 
 ---
 
-# Die Sales Connect-Symbolleiste {#the-sales-connect-tool-bar}
+# Die [!DNL Sales Connect] Symbolleiste {#the-sales-connect-tool-bar}
 
-Fünf Sales Connect-Schaltflächen werden bei der Anmeldung oben auf Ihrer Gmail-Seite hinzugefügt.
+Bei der Anmeldung auf Ihrer Gmail-Seite werden oben fünf [!DNL Sales Connect] Schaltflächen hinzugefügt.
 
 | Schaltfläche | Beschreibung |
 |---|---|
-| **Schaltfläche „Live-Feed“** | Öffnet den Sales Connect [Live-Feed](https://toutapp.com/next#live) in dem Sie in Echtzeit Tracking-Informationen in Ihren E-Mails erhalten. |
-| **Aufgaben-Schaltfläche** | Zeigt eine Dropdown-Liste aller Aufgaben an. |
-| **Vorlagen und Unterhaltungen - Schaltflächen** | Öffnet die Seite [Vorlagen“ ](https://toutapp.com/login) „Webanwendung“ bzw. „Unterhaltungen“. Alles auf Ihrer Gmail-Seite. |
-| **Verkaufs-Gong-Taste** | Ermöglicht es Ihnen, Ihre geschlossenen/gewonnenen Angebote mit Ihren Teamkollegen zu feiern. |
+| **[!UICONTROL Live-Feed]-Schaltfläche** | Öffnet Ihren [!DNL Sales Connect]Live[Feed](https://toutapp.com/next#live), in dem Sie Tracking-Informationen in Echtzeit in Ihren E-Mails erhalten können. |
+| **[!UICONTROL Aufgaben]-Schaltfläche** | Zeigt eine Dropdown-Liste aller Aufgaben an. |
+| **[!UICONTROL Vorlagen und Konversationen] Schaltflächen** | Öffnet die Seite [Vorlagen](https://toutapp.com/login) bzw. [!UICONTROL Unterhaltungen] Ihrer [!UICONTROL Web]Anwendung. Alles auf Ihrer Gmail-Seite. |
+| **[!UICONTROL Verkaufs-Gong]-Taste** | Ermöglicht es Ihnen, Ihre geschlossenen/gewonnenen Angebote mit Ihren Teamkollegen zu feiern. |

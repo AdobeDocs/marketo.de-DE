@@ -4,7 +4,7 @@ description: Verwenden dynamischer Inhalte in einer Landingpage - Marketo-Dokume
 title: Verwenden dynamischer Inhalte in einer Landingpage
 exl-id: 9f71473b-1805-43ab-b2d7-e4f9854f1944
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
@@ -23,43 +23,43 @@ Die Verwendung dynamischer Inhalte in Landingpages bindet Personen mit zielgeric
 
 ## Segmentierung hinzufügen {#add-segmentation}
 
-1. Navigieren Sie **Marketing-Aktivitäten**.
+1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities.png)
 
-   Klicken Sie auf Ihre Landingpage und dann auf Entwurf bearbeiten .
+   Klicken Sie auf **[!UICONTROL Landingpage]** und dann auf **[!UICONTROL Entwurf bearbeiten]**.
 
    ![](assets/landingpageeditdraft.jpg)
 
-   Klicken Sie auf Segment nach .
+   Klicken Sie **[!UICONTROL Segment nach]**.
 
    ![](assets/image2015-5-21-12-3a31-3a20.png)
 
-   Geben Sie den Namen der Segmentierung ein und klicken Sie auf Speichern .
+   Geben Sie den Namen **[!UICONTROL Segmentierung]** ein und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/image2014-9-16-14-3a50-3a5.png)
 
-   Die Segmentierung und die zugehörigen Segmente werden auf der rechten Seite unter Dynamisch angezeigt.
+   Die Segmentierung und die zugehörigen Segmente werden **[!UICONTROL rechts unter]** angezeigt.
 
    ![](assets/image2015-5-21-12-3a36-3a40.png)
 
    >[!NOTE]
    >
-   >Alle Landingpage-Elemente sind standardmäßig statisch.
+   >Alle Landingpage-Elemente **[!UICONTROL standardmäßig]** statisch“.
 
 ## Element dynamisch machen {#make-element-dynamic}
 
-1. Ziehen Sie Elemente per Drag-and-Drop von Statisch nach **Dynamisch**.
+1. Ziehen Sie Elemente per Drag-and-Drop von **[!UICONTROL Static]** nach **[!UICONTROL Dynamic]**.
 
    ![](assets/image2014-9-16-14-3a50-3a27.png)
 
-1. Sie können Elemente auch über das Element „Einstellungen“ **statisch oder dynamisch**.
+1. Sie können Elemente [!UICONTROL statisch] oder [!UICONTROL dynamisch] aus dem Element **[!UICONTROL Einstellungen]** machen.
 
    ![](assets/image2015-5-21-12-3a39-3a41.png)
 
 ## Anwenden dynamischer Inhalte {#apply-dynamic-content}
 
-1. Wählen Sie ein Element unter einem Segment aus und klicken Sie dann auf **Bearbeiten**. Wiederholen Sie diesen Vorgang für jedes Segment.
+1. Wählen Sie ein Element unter einem Segment aus und klicken Sie dann auf **[!UICONTROL Bearbeiten]**. Wiederholen Sie diesen Vorgang für jedes Segment.
 
    ![](assets/image2015-5-21-12-3a42-3a11.png)
 

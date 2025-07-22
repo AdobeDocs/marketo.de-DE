@@ -4,7 +4,7 @@ description: Einrichten einer benutzerdefinierten DKIM-Signatur - Marketo-Dokume
 title: Einrichten einer benutzerdefinierten DKIM-Signatur
 exl-id: a7c6429e-14ee-439e-9f47-1b25b98d41e7
 feature: Deliverability
-source-git-commit: b72c69b0e96fa3e504242425abd3954f5a49bebd
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '426'
 ht-degree: 1%
@@ -21,7 +21,7 @@ Um eine erstklassige Zustellbarkeit zu gewährleisten, signieren wir automatisch
 
 Sie können die DKIM-Signatur personalisieren, um die Domain(s) Ihrer Wahl widerzuspiegeln. So geht&#39;s.
 
-1. Navigieren Sie zum Abschnitt **Admin**.
+1. Navigieren Sie zum Abschnitt **[!UICONTROL Admin]**.
 
    ![](assets/set-up-a-custom-dkim-signature-1.png)
 
@@ -66,11 +66,11 @@ Sie können die DKIM-Signatur personalisieren, um die Domain(s) Ihrer Wahl wider
    >
    >Beachten Sie dabei, dass DKIM erst dann für Ihre Domain signiert wird, wenn Ihr neuer Eintrag veröffentlicht und von unserem System validiert wurde. Planen Sie Ihre Änderung entsprechend, da es 24 bis 48 Stunden dauern kann, bis der neue DKIM-Eintrag vollständig über das Internet verbreitet wird.
 
-1. Senden Sie den **Hosteintrag** und den **TXT-Wert** an Ihre IT. Bitten Sie sie, den Eintrag für Sie zu erstellen, und stellen Sie sicher, dass er an alle Nameserver weitergegeben wird, die mit der Formular-Domain verknüpft sind. Die DKIM-Überprüfung von Marketo erfordert, dass der DKIM-Schlüssel an alle Nameserver weitergegeben wird, die mit der Domain verknüpft sind, die DKIM-signiert wird.
+1. Senden Sie den **[!UICONTROL Hosteintrag]** und den **[!UICONTROL TXT-Wert]** an Ihre IT. Bitten Sie sie, den Eintrag für Sie zu erstellen, und stellen Sie sicher, dass er an alle Nameserver weitergegeben wird, die mit der Formular-Domain verknüpft sind. Die DKIM-Überprüfung von Marketo erfordert, dass der DKIM-Schlüssel an alle Nameserver weitergegeben wird, die mit der Domain verknüpft sind, die DKIM-signiert wird.
 
    ![](assets/set-up-a-custom-dkim-signature-5.png)
 
-1. Sobald sie bestätigen, dass sie den Eintrag erstellt haben, kehren sie zu Marketo zurück, wählen Ihre Domain aus und klicken auf **DNS überprüfen**.
+1. Sobald sie bestätigen, dass sie den Eintrag erstellt haben, kehren sie zu Marketo zurück, wählen Ihre Domain aus und klicken auf **[!UICONTROL DNS überprüfen]**.
 
    ![](assets/set-up-a-custom-dkim-signature-6.png)
 

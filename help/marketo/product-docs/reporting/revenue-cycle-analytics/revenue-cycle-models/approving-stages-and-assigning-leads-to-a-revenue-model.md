@@ -4,7 +4,7 @@ description: Genehmigen von Phasen und Zuweisen von Leads zu einem Umsatzmodell 
 title: Genehmigen von Phasen und Zuweisen von Leads zu einem Umsatzmodell
 exl-id: 0c93dfe4-8950-444c-a65b-080620816ba2
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '342'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Starten Sie Ihr **Umsatzmodell** indem Sie vorhandene Leads hinzufügen und Zuwe
 
 Genehmigen wir die Phasen Ihres Modells, bevor Sie Leads hinzufügen.
 
-1. Wechseln Sie zum Bereich **Analytics**.
+1. Wechseln Sie zum Bereich **[!UICONTROL Analytics]**.
 
    ![](assets/image2015-4-28-17-3a8-3a8.png)
 
@@ -27,11 +27,11 @@ Genehmigen wir die Phasen Ihres Modells, bevor Sie Leads hinzufügen.
 
    ![](assets/image2015-4-28-17-3a10-3a3.png)
 
-1. Wählen **unter &quot;**&quot; die Option **Phasen genehmigen**.
+1. Wählen **[!UICONTROL unter &quot;]**&quot; die Option **[!UICONTROL Phasen genehmigen]**.
 
    ![](assets/image2015-4-28-17-3a12-3a37.png)
 
-1. Sie werden mit einem Warnhinweis begrüßt. Klicken Sie auf **Leads zuweisen**.
+1. Sie werden mit einem Warnhinweis begrüßt. Klicken Sie auf **[!UICONTROL Leads zuweisen]**.
 
    ![](assets/image2015-4-28-17-3a5-3a39.png)
 
@@ -41,19 +41,19 @@ Ausgezeichnet! Fahren wir fort und weisen wir diese Leads zu.
 
 [Erstellen Sie eine Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md), um die Leads für einen Schritt Ihres Modells in Ihrer Lead-Datenbank zu identifizieren.
 
-1. Nachdem Sie [Smart-Liste erstellt haben](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) klicken Sie auf die Registerkarte **Leads**.
+1. Nachdem Sie [Smart-Liste erstellt haben](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) klicken Sie auf die Registerkarte **[!UICONTROL Leads]**.
 
    ![](assets/image2015-4-29-11-3a37-3a30.png)
 
-1. Klicken Sie **Alle auswählen** um die Leads auszuwählen.
+1. Klicken Sie **[!UICONTROL Alle auswählen]** um die Leads auszuwählen.
 
    ![](assets/image2015-4-29-11-3a39-3a39.png)
 
-1. Öffnen Sie **Dropdown-Liste** Lead-Aktionen“ und wählen Sie &quot;**&quot;**. Klicken Sie **Umsatzschritt ändern**.
+1. Öffnen Sie **[!UICONTROL Dropdown-Liste]** Lead-Aktionen“ und wählen Sie &quot;**[!UICONTROL &quot;]**. Klicken Sie **[!UICONTROL Umsatzschritt ändern…]**.
 
    ![](assets/image2015-4-29-11-3a40-3a38.png)
 
-1. Wählen Sie das richtige **Modell** und das richtige **Staging** aus. Klicken Sie **Jetzt ausführen**.
+1. Wählen Sie das richtige **[!UICONTROL Modell]** und das richtige **[!UICONTROL Staging]** aus. Klicken Sie **[!UICONTROL Jetzt ausführen]**.
 
    ![](assets/image2015-4-29-11-3a43-3a41.png)
 
@@ -67,27 +67,27 @@ Sehr gut! Um festzulegen, wie neue Leads den Phasen zugewiesen werden, erstellen
 
 ## Neue Leads: Zuweisungsregeln erstellen  {#new-leads-create-assignment-rules}
 
-1. Klicken Sie erneut auf **Marketo** Startseite und wählen Sie dann **Analytics**.
+1. Klicken Sie erneut auf **Marketo** Startseite und wählen Sie dann **[!UICONTROL Analytics]**.
 
    ![](assets/image2015-4-28-17-3a8-3a8.png)
 
-1. Klicken Sie in der Baumstruktur auf Ihr Modell und anschließend auf **Menü** Modellaktionen“, wobei Sie **Zuweisungsregeln** auswählen.
+1. Klicken Sie in der Baumstruktur auf Ihr Modell und anschließend auf **[!UICONTROL Menü]** Modellaktionen“, wobei Sie **[!UICONTROL Zuweisungsregeln]** auswählen.
 
    ![](assets/image2015-4-29-11-3a52-3a17.png)
 
-1. Wenn Ihre Zuweisungsregeln mehr als nur eine Standardauswahl enthalten, klicken Sie auf **Staging**, treffen Sie Ihre Auswahl und klicken Sie dann auf **Auswahl hinzufügen**.
+1. Wenn Ihre Zuweisungsregeln mehr als nur eine Standardauswahl enthalten, klicken Sie auf **[!UICONTROL Staging]**, treffen Sie Ihre Auswahl und klicken Sie dann auf **[!UICONTROL Auswahl hinzufügen]**.
 
    ![](assets/image2015-4-29-12-3a5-3a46.png)
 
 ## Beispiel für eine Zuweisungsregel {#example-assignment-rule}
 
-Erstellen Sie eine Regel für die Lead-Bewertung , um die neuen Leads mit einer Mindestpunktzahl einem entsprechenden Schritt zuzuweisen.
+Erstellen Sie eine [!UICONTROL Lead-Bewertung]-Regel, um die neuen Leads mit einer Mindestpunktzahl einem entsprechenden Schritt zuzuweisen.
 
-1. Wählen **unter „Wenn** die Option **Lead-Bewertung**. Wählen Sie dann **Mindestens** aus.
+1. Wählen **[!UICONTROL unter „Wenn]** die Option **[!UICONTROL Lead-Bewertung]**. Wählen Sie dann **[!UICONTROL Mindestens]** aus.
 
    ![](assets/image2015-4-29-13-3a27-3a8.png)
 
-1. Geben Sie **40** in das Feld ein und wählen Sie **Vertriebs-Lead** als Stufe aus. Klicken Sie **Speichern**, um den Vorgang abzuschließen.
+1. Geben Sie **40** in das Feld ein und wählen Sie **[!UICONTROL Vertriebsleiter]** als [!UICONTROL Etappe]. Klicken Sie **[!UICONTROL Speichern]**, um den Vorgang abzuschließen.
 
    ![](assets/image2015-4-29-14-3a4-3a23.png)
 

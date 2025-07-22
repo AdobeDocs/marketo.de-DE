@@ -4,18 +4,18 @@ description: Abonnieren eines Revenue Explorer-Berichts - Marketo-Dokumente - Pr
 title: Abonnieren eines Revenue Explorer-Berichts
 exl-id: 448a4d56-8fd6-4e5b-b78e-d854b93c4aa4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 0%
 
 ---
 
-# Abonnieren eines Revenue Explorer-Berichts {#subscribe-to-a-revenue-explorer-report}
+# Abonnieren eines Berichts [!UICONTROL Revenue Explorer] {#subscribe-to-a-revenue-explorer-report}
 
 Um Aktualisierungen aus Ihren Revenue Cycle Explorer-Berichten zu erhalten und freizugeben, können Sie jede E-Mail-Adresse für einen vorhandenen Bericht abonnieren.
 
-1. Navigieren Sie zu **Analytics** und wählen Sie **Neu** > **Neues Berichtsabonnement**.
+1. Navigieren Sie zu **[!UICONTROL Analytics]** und wählen Sie **[!UICONTROL Neu]** > **[!UICONTROL Neues Berichtsabonnement]**.
 
    ![](assets/image2014-9-17-12-3a46-3a20.png)
 
@@ -23,7 +23,7 @@ Um Aktualisierungen aus Ihren Revenue Cycle Explorer-Berichten zu erhalten und f
    >
    >Informationen zum Abonnieren eines Basisberichts, den Sie in einem Programm erstellt haben, finden Sie unter [Abonnieren eines Basisberichts.](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
 
-1. Source Wählen **für Report** die Option **Umsatz-Explorer**.
+1. Source Wählen **[!UICONTROL für Report]** die Option **[!UICONTROL Umsatz-Explorer]**.
 
    ![](assets/image2014-9-17-12-3a47-3a11.png)
 

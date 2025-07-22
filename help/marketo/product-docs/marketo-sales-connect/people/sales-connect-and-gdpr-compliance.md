@@ -4,14 +4,14 @@ description: Sales Connect und DSGVO-Compliance - Marketo-Dokumente - Produktdok
 title: Sales Connect und DSGVO-Compliance
 exl-id: f5822085-0372-42f9-b6d6-9f6ce58559ea
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '1386'
-ht-degree: 10%
+source-wordcount: '1355'
+ht-degree: 8%
 
 ---
 
-# Sales Connect und DSGVO-Compliance {#sales-connect-and-gdpr-compliance}
+# [!DNL Sales Connect] und DSGVO-Compliance {#sales-connect-and-gdpr-compliance}
 
 Die Datenschutz-Grundverordnung (DSGVO) ist eine Rechtsvorschrift der Europäischen Union, die am 25. Mai 2018 in Kraft trat.
 
@@ -42,21 +42,21 @@ Wie Marketing-Experten diese höheren Erwartungen in Bezug auf die Erfassung, Ve
 
 Es gibt zwei wichtige Aspekte der DSGVO, in denen Marketing-Experten vergangene, aktuelle und zukünftige Vorgehensweisen überprüfen müssen. Das erste ist die Zustimmung des Einzelnen zur Verarbeitung seiner personenbezogenen Daten, das zweite die Rechenschaftspflicht, d. h. die Fähigkeit zu demonstrieren, wie die Grundsätze der DSGVO befolgt werden.
 
-In unserem E-Book (DSGVO und [ Marketer) stellen wir umfangreiche Informationen zum Einverständnis und zur Rechenschaftspflicht innerhalb der Marketo-Plattform ](https://www.marketo.com/ebooks/the-gdpr-and-the-marketer/). In diesem Artikel konzentrieren wir uns jedoch speziell auf die neuen Funktionen in Marketo Sales Connect, die Ihrem Unternehmen bei der Einhaltung der DSGVO-Regeln helfen.
+In unserem E-Book (DSGVO und [ Marketer) stellen wir umfangreiche Informationen zum Einverständnis und zur Rechenschaftspflicht innerhalb der Marketo-Plattform ](https://www.marketo.com/ebooks/the-gdpr-and-the-marketer/). In diesem Artikel konzentrieren wir uns jedoch speziell auf die neuen Funktionen in [!DNL Marketo Sales Connect], die Ihrem Unternehmen bei der Einhaltung der DSGVO-Regeln helfen.
 
-## DSGVO-Compliance in Marketo Sales Connect {#gdpr-compliance-in-marketo-sales-connect}
+## DSGVO-Compliance in [!DNL Marketo Sales Connect] {#gdpr-compliance-in-marketo-sales-connect}
 
-Marketo Sales Connect ist ein leistungsstarkes Programm, das Teil der Marketo Engagement Platform ist und einen einzigen Workflow und eine einheitliche Ansicht für Vertrieb und Marketing bietet, um die Pipeline durch kollaboratives Engagement gemeinsam schneller voranzutreiben. Neue Funktionen in Marketo Sales Connect wurden speziell unter Berücksichtigung der DSGVO-Compliance entwickelt. Wir werden alle drei Funktionen darlegen und erläutern, wie sie bei ordnungsgemäßer Verwendung die Einhaltung der DSGVO durch Ihr Unternehmen unterstützen.
+[!DNL Marketo Sales Connect] ist eine leistungsstarke Anwendung, die Teil der [!DNL Marketo Engagement Platform] ist und einen einzigen Workflow und eine einheitliche Ansicht für Vertrieb und Marketing bietet, um die Pipeline durch kollaboratives Engagement gemeinsam schneller zu fördern. Neue Funktionen in [!DNL Marketo Sales Connect] wurden speziell unter Berücksichtigung der DSGVO-Compliance erstellt. Wir werden alle drei Funktionen darlegen und erläutern, wie sie bei ordnungsgemäßer Verwendung die Einhaltung der DSGVO durch Ihr Unternehmen unterstützen.
 
 ## Compliance-Karte {#compliance-card}
 
-Marketo Sales Connect enthält eine Compliance Card in der Personendetailansicht, um wichtige Informationen zum Autorisierungstyp eines Kontakts sowie zu seinem Source-Typ bereitzustellen. Auf diese Weise können Benutzende Informationen, die für den Datenschutz wichtig sind, einfach hinzufügen und verfolgen und sie bei fundierteren Entscheidungen über Kampagnen-/Outreach-Strategien unterstützen.
+[!DNL Marketo Sales Connect] enthält eine Kompatibilitätskarte in der Personendetailansicht, um wichtige Informationen zum Autorisierungstyp eines Kontakts sowie zu seinem Source-Typ anzugeben. Auf diese Weise können Benutzende Informationen, die für den Datenschutz wichtig sind, einfach hinzufügen und verfolgen und sie bei fundierteren Entscheidungen über Kampagnen-/Outreach-Strategien unterstützen.
 
 ![](assets/1.png)
 
 Autorisierungstyp für Kontakt
 
-Innerhalb der Compliance Card können Benutzer über die Dropdown-Liste Autorisierung die Rechtsgrundlage für die Verarbeitung der personenbezogenen Daten eines Kontakts verfolgen. Wenn Sie den Autorisierungstyp eines Kontakts verstehen, können Marketo Sales Connect-Benutzende fundiertere Entscheidungen zu Kontaktpraktiken treffen und so sicherstellen, dass jede Kampagne oder jedes Engagement rechtmäßig und angemessen ist.
+Innerhalb der Compliance Card können Benutzer über die Dropdown-Liste Autorisierung die Rechtsgrundlage für die Verarbeitung der personenbezogenen Daten eines Kontakts verfolgen. Wenn Sie den Autorisierungstyp eines Kontakts verstehen, können [!DNL Marketo Sales Connect] Benutzerinnen und Benutzer fundiertere Entscheidungen zu Kontaktpraktiken treffen und sicherstellen, dass jede Kampagne oder jede Interaktion rechtmäßig und angemessen ist.
 
 Die Benutzer haben zahlreiche Optionen zur Auswahl, darunter:
 
@@ -70,37 +70,37 @@ Die Benutzer haben zahlreiche Optionen zur Auswahl, darunter:
 
 Source-Typ kontaktieren
 
-Mit der neuen Kompatibilitätskarte können Benutzer die Quelle eines Kontakts verfolgen. Der Source-Typ definiert, woher die Kontaktinformationen beim ersten Hochladen in Marketo Sales Connect stammen. Das Verständnis des Quelltyps eines Kontakts hilft auch bei Entscheidungen über Kontaktpraktiken sowie bei der Bestimmung, welche anderen Systeme oder Standorte personenbezogene Daten gespeichert werden, um sicherzustellen, dass jede Interaktion mit den DSGVO-Rechtsvorschriften im Einklang steht.
+Mit der neuen Kompatibilitätskarte können Benutzer die Quelle eines Kontakts verfolgen. Der Source-Typ definiert, woher die Kontaktinformationen beim ersten Hochladen in [!DNL Marketo Sales Connect] stammen. Das Verständnis des Quelltyps eines Kontakts hilft auch bei Entscheidungen über Kontaktpraktiken sowie bei der Bestimmung, welche anderen Systeme oder Standorte personenbezogene Daten gespeichert werden, um sicherzustellen, dass jede Interaktion mit den DSGVO-Rechtsvorschriften im Einklang steht.
 
 Auch hier stehen Benutzenden zahlreiche Dropdown-Optionen zur Auswahl, darunter:
 
 * CRM-Synch
 * Importieren
 * Manueller Upload
-* Chrome-Erweiterung
+* [!DNL Chrome] Erweiterung
 * Andere
 
 Bearbeiten der Kompatibilitätskarte
 
-Wenn die Ansicht „Personendetails“ geöffnet ist, klicken Sie auf **Karte &quot;**&quot; auf „Bearbeiten“.
+Wenn die Ansicht „Personendetails“ geöffnet ist, klicken Sie auf **[!UICONTROL Karte &quot;]**&quot; auf „Bearbeiten“.
 
 ![](assets/four.png)
 
-Es werden zwei Dropdown-Listen angezeigt: Autorisierungstyp und Source-Typ.
+Es werden zwei Dropdown-Listen angezeigt: [!UICONTROL Autorisierungstyp] und [!UICONTROL Source-Typ].
 
 ![](assets/5.png)
 
-Wenn Sie als Autorisierungstyp „Einverständnis“ wählen, werden zwei Pflichtfelder angezeigt: „Einverständnisdatum“ und „Zweck der Verarbeitung“. Diese beiden Felder sind nicht auf andere Optionen anwendbar.
+Wenn Sie &quot;[!UICONTROL Einverständnis] als [!UICONTROL Autorisierungstyp] auswählen, werden zwei Pflichtfelder angezeigt: &quot;[!UICONTROL Einverständnisdatum]&quot; und &quot;[!UICONTROL Zweck der Verarbeitung]&quot;. Diese beiden Felder sind nicht auf andere Optionen anwendbar.
 
 ![](assets/6.png)
 
-Wenn „Sonstige“ für Autorisierungstyp oder Source-Typ ausgewählt ist, können Sie Text zur Beschreibung des Source-Typs eingeben.
+Wenn &quot;[!UICONTROL Other]&quot; entweder für [!UICONTROL Autorisierungstyp] oder [!UICONTROL Source-Typ] ausgewählt wurde, können Sie Text eingeben, um den Source-Typ zu beschreiben.
 
 ![](assets/7.png)
 
-Massenaktionen** Mit Marketo Sales Connect können auch die Autorisierungs- und Source-Typen eines Kontakts stapelweise aktualisiert werden, wodurch wertvolle Zeit im Compliance-Prozess gespart wird.
+Massenaktionen** [!DNL Marketo Sales Connect] ermöglicht auch die Massenaktualisierung der Autorisierungs- und Source-Typen eines Kontakts, wodurch wertvolle Zeit im Compliance-Prozess gespart wird.
 
-Wenn Sie einen oder mehrere Kontakte auf der Seite Personen auswählen, werden die Schaltflächen Autorisierung und Source im oberen Container angezeigt. Mit diesen Schaltflächen können Sie die Autorisierung oder den Source mehrerer Kontakte gleichzeitig festlegen.
+Wenn Sie einen oder mehrere Kontakte auf der Seite [!UICONTROL Personen] auswählen, werden die Schaltflächen Autorisierung und Source im oberen Container angezeigt. Mit diesen Schaltflächen können Sie die Autorisierung oder den Source mehrerer Kontakte gleichzeitig festlegen.
 
 ![](assets/eight.jpg)
 
@@ -120,7 +120,7 @@ Nachdem Sie den richtigen Source-Typ für Ihre ausgewählten Kontakte ausgewähl
 
 ![](assets/12.png)
 
-## Exportieren von Kontaktdaten aus Marketo Sales Connect {#exporting-contact-data-from-marketo-sales-connect}
+## Kontaktdaten aus [!DNL Marketo Sales Connect] exportieren {#exporting-contact-data-from-marketo-sales-connect}
 
 Sie haben die Möglichkeit, Kontaktinformationen aus der Personendetailansicht zu exportieren. Beim Exportieren wird eine CSV-Datei mit den folgenden Spalten heruntergeladen:
 
@@ -132,33 +132,33 @@ Sie haben die Möglichkeit, Kontaktinformationen aus der Personendetailansicht z
  </colgroup> 
  <tbody> 
   <tr> 
-   <td>Vorname</td> 
-   <td>Website</td> 
-   <td>Facebook</td> 
+   <td>[!UICONTROL Vorname]</td> 
+   <td>[!UICONTROL-Website]</td> 
+   <td>[!DNL Facebook]</td> 
   </tr> 
   <tr> 
-   <td>Nachname</td> 
-   <td>Andere</td> 
-   <td>Twitter</td> 
+   <td>[!UICONTROL Nachname]</td> 
+   <td>[!UICONTROL Sonstige]</td> 
+   <td>[!DNL Twitter]</td> 
   </tr> 
   <tr> 
-   <td>Unternehmen</td> 
-   <td>Aktualisiert um</td> 
-   <td>LinkedIn</td> 
+   <td>[!UICONTROL Firma]</td> 
+   <td>[!UICONTROL Aktualisiert um]</td> 
+   <td>[!DNL LinkedIn]</td> 
   </tr> 
   <tr> 
-   <td>Titel</td> 
-   <td>Erstellt um</td> 
-   <td>Exportiert nach</td> 
+   <td>[!UICONTROL Titel]</td> 
+   <td>[!UICONTROL erstellt um]</td> 
+   <td>[!UICONTROL exportiert um]</td> 
   </tr> 
   <tr> 
-   <td>E-Mail-ID</td> 
-   <td>Salesforce-ID</td> 
+   <td>[!UICONTROL E-Mail-ID]</td> 
+   <td>[!UICONTROL Salesforce ID]</td> 
    <td><br></td> 
   </tr> 
   <tr> 
-   <td>Telefonnummer</td> 
-   <td>Personen-ID</td> 
+   <td>[!UICONTROL Telefonnummer]</td> 
+   <td>[!UICONTROL Personen-ID]</td> 
    <td><br></td> 
   </tr> 
  </tbody> 
@@ -168,20 +168,20 @@ Sie haben die Möglichkeit, Kontaktinformationen aus der Personendetailansicht z
 >
 >Dies kann jeweils nur ein Kontakt sein. Es gibt derzeit keine Funktion, die Massenexporte von Kontakten ermöglicht.
 
-Um Kontaktinformationen zu exportieren, klicken Sie auf die drei vertikalen Punkte in der Kopfzeile der Personendetailansicht und wählen Sie **Exportieren**. Die CSV-Datei wird automatisch heruntergeladen.
+Um Kontaktinformationen zu exportieren, klicken Sie auf die drei vertikalen Punkte in der Kopfzeile der Personendetailansicht und wählen Sie **[!UICONTROL Exportieren]**. Die CSV-Datei wird automatisch heruntergeladen.
 
 ![](assets/thirteen.png)
 
 >[!NOTE]
 >
->Die DSGVO erfordert auch die Möglichkeit, Kontakte aus der Benutzeroberfläche zu löschen, aber Marketo Sales Connect verfügt bereits über diese Funktion.
+>Die DSGVO erfordert auch die Möglichkeit, Kontakte aus der Benutzeroberfläche zu löschen, [!DNL Marketo Sales Connect] verfügt jedoch bereits über diese Funktion.
 
 ## Abbestellungen {#unsubscribes}
 
-Ein häufig falsch verstandener Bereich der DSGVO umfasst Kontakte, die sich von der Datenbank des Unternehmens abmelden. Um neue Regeln zum Schutz der Daten von Abmeldepflichtigen einzuhalten, wurde in Marketo Sales Connect folgende Funktion integriert:
+Ein häufig falsch verstandener Bereich der DSGVO umfasst Kontakte, die sich von der Datenbank des Unternehmens abmelden. Um die neuen Regeln zum Schutz der Daten von Abmeldepflichtigen einzuhalten, wurde die folgende Funktion in [!DNL Marketo Sales Connect] integriert:
 
-**Abmelde-Links:** Abmelde-Links werden automatisch an alle E-Mails angehängt, die von der Sales Connect-Webanwendung gesendet werden, um sicherzustellen, dass Kontakte eine barrierefreie Möglichkeit zum Opt-out erhalten.\
-**Abmeldesynchronisierung:** Benutzer können Abmeldungen mit und von ihrem CRM (Salesforce) synchronisieren, um sicherzustellen, dass die Abmeldungen auf dem neuesten Stand sind.\
+**Abmelde-Links:** Abmelde-Links werden automatisch an alle E-Mails angehängt, die von der [!DNL Sales Connect]-Web-Anwendung gesendet werden, um sicherzustellen, dass Kontakte eine barrierefreie Möglichkeit zum Opt-out erhalten.\
+**Abmeldesynchronisierung:** Benutzer können Abmeldungen mit und von ihrem CRM ([!DNL Salesforce]) synchronisieren, um sicherzustellen, dass die Abmeldungen auf dem neuesten Stand sind.\
 **Abmeldeverlauf:** Benutzer können historische Opt-outs und Opt-ins in der Personendetailansicht sehen.\
 **Abmeldeentfernung:** der Rückmeldung eines abgemeldeten Kontakts setzt voraus, dass der Benutzer über Administratorrechte verfügt und nachweist, dass der Kontakt seine neue Einwilligung zur Kontaktaufnahme erteilt hat.
 

@@ -4,9 +4,9 @@ description: Beschriften des Segments - Marketo-Dokumente - Produktdokumentation
 title: Beschriften des Segments
 exl-id: 5278f52b-a352-4d85-904c-48f94972d4e7
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Haben Sie so viele Segmente, dass das Scrollen mühsam wird? Taggen Sie Ihre Seg
 
 ## Markieren eines Segments {#tag-a-segment}
 
-1. Melden Sie sich bei Web Personalization an und gehen Sie zu **Segmente**.
+1. Melden Sie sich bei [!DNL Web Personalization] an und gehen Sie zu **[!UICONTROL Segmente]**.
 
    ![](assets/new-dropdown-segments-hand.jpg)
 
@@ -25,11 +25,11 @@ Haben Sie so viele Segmente, dass das Scrollen mühsam wird? Taggen Sie Ihre Seg
 
    ![](assets/image2015-10-14-15-3a26-3a28.png)
 
-1. Um eine vorhandene Kennzeichnung zu verwenden, klicken Sie auf **Bezeichnung festlegen**, aktivieren Sie ein Kontrollkästchen und klicken Sie auf **Anwenden**.
+1. Um eine vorhandene Kennzeichnung zu verwenden, klicken Sie auf **[!UICONTROL Bezeichnung festlegen]**, aktivieren Sie ein Kontrollkästchen und klicken Sie auf **[!UICONTROL Anwenden]**.
 
    ![](assets/image2015-10-14-15-3a34-3a42.png)
 
-1. Oder klicken Sie zum Erstellen einer neuen Kennzeichnung auf **Bezeichnung festlegen** geben Sie den neuen Kennzeichnungsnamen ein und klicken Sie auf **Neu erstellen**.
+1. Oder klicken Sie zum Erstellen einer neuen Kennzeichnung auf **[!UICONTROL Bezeichnung festlegen]** geben Sie den neuen Kennzeichnungsnamen ein und klicken Sie auf **Neu erstellen**.
 
    ![](assets/image2015-10-14-15-3a38-3a30.png)
 

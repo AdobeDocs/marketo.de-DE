@@ -4,9 +4,9 @@ description: Hinzufügen zu SFDC Campaign - Marketo-Dokumente - Produktdokumenta
 title: Zu SFDC-Kampagne hinzufügen
 exl-id: a5e14cc7-fd83-4a2c-aacb-e515669c9d21
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '173'
 ht-degree: 5%
 
 ---
@@ -17,13 +17,13 @@ Dieser Flussschritt kann in Marketo Engage-Kampagnen oder als einzelner Flusssch
 
 >[!NOTE]
 >
->Nur verfügbar, wenn mit Salesforce integriert.
+>Nur verfügbar, wenn mit [!DNL Salesforce] integriert.
 
 ![](assets/add-to-sfdc-campaign-1.png)
 
 ## Nutzung {#usage}
 
-1. Suchen Sie die Salesforce-Kampagne, der Sie Ihre Leads hinzufügen möchten, und wählen Sie sie aus.
+1. Suchen Sie die [!DNL Salesforce] Kampagne, der Sie Ihre Leads hinzufügen möchten, und wählen Sie sie aus.
 
    ![](assets/add-to-sfdc-campaign-2.png)
 
@@ -38,7 +38,7 @@ Dieser Flussschritt kann in Marketo Engage-Kampagnen oder als einzelner Flusssch
    >
    >Sie können Salesforce Campaign [Meine Token](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"} verwenden, um das Klonen von Programmen zu vereinfachen.
 
-1. Wählen Sie den Salesforce-Kampagnenmitgliedsstatus aus, den Sie Leads zuweisen möchten, wenn sie hinzugefügt werden.
+1. Wählen Sie den Status des [!DNL Salesforce]-Kampagnenmitglieds aus, den Sie Leads zuweisen möchten, wenn sie hinzugefügt werden.
 
    ![](assets/add-to-sfdc-campaign-3.png)
 

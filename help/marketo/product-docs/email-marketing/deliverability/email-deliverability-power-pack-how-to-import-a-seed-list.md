@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10099077
-description: Erfahren Sie, wie Sie eine Seed-Liste in Ihre Marketo Engage-Instanz importieren.
+description: Erfahren Sie, wie Sie eine Testadressenliste in Ihre Marketo Engage-Instanz importieren.
 title: E-Mail Zustellbarkeit Power Pack - So importieren Sie eine Testadressenliste
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
 feature: Deliverability
-source-git-commit: 136707304350be59918716233f5d6e2a6438be4e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '330'
 ht-degree: 0%
 
 ---
@@ -21,25 +21,25 @@ Eine Seed-Liste ist eine Liste von E-Mail-Konten bei mehreren Postfachanbietern,
 
 ## Importieren einer Testadressenliste {#import-a-seed-list}
 
-1. Wählen Sie in My Marketo die Option **Zustellbarkeits-Tools** aus.
+1. Wählen Sie in My Marketo die Option **[!UICONTROL Zustellbarkeits-Tools]** aus.
 
    ![](assets/email-deliverability-power-pack-1.png)
 
-1. Die Everest-Anwendung wird geöffnet. Klicken Sie in der linken Navigationsleiste auf **In-Flight** und wählen Sie **Posteingang - Platzierung**.
+1. Die [!DNL Everest] Anwendung wird geöffnet. Klicken Sie in der linken Navigationsleiste auf **[!UICONTROL In-Flight]** und wählen Sie **[!UICONTROL Posteingang - Platzierung]**.
 
    ![](assets/email-deliverability-power-pack-2.png)
 
-1. Klicken Sie auf **Registerkarte** Testadressenliste verwalten“.
+1. Klicken Sie auf **[!UICONTROL Registerkarte]** Testadressenliste verwalten“.
 
    ![](assets/email-deliverability-power-pack-3.png)
 
-1. Klicken Sie auf das Dropdown-Menü Aktionen und wählen Sie **Eine pro Zeile herunterladen**.
+1. Klicken Sie auf **[!UICONTROL Aktionen]** und wählen Sie **[!UICONTROL Herunterladen: Eine pro Zeile]** aus.
 
    ![](assets/email-deliverability-power-pack-4.png)
 
    >[!NOTE]
    >
-   >Verwenden Sie den Seed List Optimizer (oben auf der Seite), wenn Sie möchten, dass Everest Ihre Liste für Sie optimiert.
+   >Verwenden Sie den Seed-Listen-Optimizer (oben auf der Seite), wenn [!DNL Everest] Ihre Liste für Sie optimieren möchten.
 
 1. Nach dem Export wird die Liste als TXT-Datei im Downloads-Ordner Ihres Browsers angezeigt. Rufen Sie sie ab [ importieren Sie ](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) statische Liste in Ihre Marketo-Instanz.
 
@@ -51,7 +51,7 @@ Eine Seed-Liste ist eine Liste von E-Mail-Konten bei mehreren Postfachanbietern,
 
    >[!CAUTION]
    >
-   >Sie erhalten eine begrenzte Anzahl dieser Platzierungskampagnen im Posteingang pro Monat. Um zu sehen, wie viele Sie erhalten, schauen Sie sich den Abschnitt Abonnement unter Kontoeinstellungen > Abonnement in Everest an. Weitere Informationen erhalten Sie von Ihrem Marketo-Vertriebsmitarbeiter.
+   >Sie erhalten eine begrenzte Anzahl dieser Platzierungskampagnen im Posteingang pro Monat. Wie viele davon Sie erhalten, sehen Sie im Abschnitt [!UICONTROL Abonnement] unter [!UICONTROL Kontoeinstellungen] > [!UICONTROL Abonnement] in [!DNL Everest]. Weitere Informationen erhalten Sie von Ihrem Marketo-Vertriebsmitarbeiter.
 
 ## Erfassen neuer Testadressenlisten {#acquiring-new-seedlists}
 

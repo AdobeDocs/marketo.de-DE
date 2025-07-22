@@ -4,16 +4,16 @@ description: SFDC-Synchronisierung - Synchronisierung von Lead-/Kontoinhabern - 
 title: SFDC-Synchronisierung - Synchronisierung von Lead/Kontoinhaber
 exl-id: b9effcc2-f426-4390-aef1-42f4e525b182
 feature: Salesforce Integration
-source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '212'
 ht-degree: 13%
 
 ---
 
 # SFDC-Synchronisierung: Synchronisierung von Lead/Kontoinhaber {#sfdc-sync-lead-account-owner-sync}
 
-Diese synchronisieren technisch die Tabelle „Benutzer“ in Salesforce. Wir bezeichnen sie jedoch als Lead-/Kontoinhaberfelder.
+Diese synchronisieren technisch die Tabelle „Benutzer“ in [!DNL Salesforce]. Wir bezeichnen sie jedoch als Lead-/Kontoinhaberfelder.
 
 ## Welche Felder werden mit Marketo Engage synchronisiert? {#which-fields-will-sync-to-marketo-engage}
 
@@ -48,4 +48,4 @@ Es gibt viele Gründe, diese Daten zu verwenden, z. B.
 * Zuweisungsregeln (und Neuzuweisungsregeln) in Marketo
 * Verwenden Sie sie in den [Besitzer ändern](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md){target="_blank"}, [Person mit SFDC synchronisieren](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"} und [Aufgabe erstellen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"} Flussaktionen
 
-Marketo verfügt auf jeden Fall über eine großartige Salesforce-Synchronisierung. Niemand sonst macht es so gut!
+Marketo verfügt über eine hervorragende [!DNL Salesforce]. Niemand sonst macht es so gut!

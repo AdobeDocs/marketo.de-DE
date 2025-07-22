@@ -4,7 +4,7 @@ description: Abbruch des Versands von E-Mail-Programmen mit Zeitzone des Empfän
 title: Versand von E-Mail-Programmen mit Zeitzone des Empfängers abbrechen
 exl-id: e69afa4a-32fb-4791-a9b6-683d64d610d6
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '220'
 ht-degree: 0%
@@ -17,15 +17,15 @@ In Notfällen können Sie den Versand eines E-Mail-Programms abbrechen, das bere
 
 Da E-Mail-Programme, die mit der Zeitzone des Empfängers geplant sind, bis zu 24 Stunden laufen können, werden bei Abbruch der Bereitstellung des Programms alle nachfolgenden Sendungen nach diesem Zeitpunkt abgebrochen.
 
-1. Wählen Sie das E-Mail-Programm aus, das Sie abbrechen möchten, und klicken Sie dann **Versand abbrechen** unter der Kachel Validierung im Control Panel.
+1. Wählen Sie das E-Mail-Programm aus, das Sie abbrechen möchten, und klicken Sie dann **[!UICONTROL Versand abbrechen]** unter der Kachel [!UICONTROL Validierung] im Control Panel.
 
    ![](assets/ptz-abortdelivery.png)
 
-1. Bestätigen Sie, dass Sie den Versand abbrechen möchten, indem Sie auf **Abbrechen** klicken.
+1. Bestätigen Sie, dass Sie den Versand abbrechen möchten, indem Sie auf **[!UICONTROL Abbrechen]** klicken.
 
    ![](assets/image2018-2-23-11-3a20-3a27.png)
 
-1. Nach dem Abbruch sieht **Raster** Ergebnisse“ Ihres E-Mail-Programms in etwa wie folgt aus: Alle nachfolgenden Sendungen werden abgebrochen und in der Spalte **Aktivitätstyp“ als „E-Mail-Softbounce** angezeigt.
+1. Nach dem Abbruch sieht **[!UICONTROL Raster]** Ergebnisse“ Ihres E-Mail-Programms in etwa wie folgt aus: Alle nachfolgenden Sendungen werden abgebrochen und in der Spalte **[!UICONTROL Aktivitätstyp“ als „E-Mail-Softbounce]** angezeigt.
 
    ![](assets/image2018-2-23-11-3a22-3a11.png)
 

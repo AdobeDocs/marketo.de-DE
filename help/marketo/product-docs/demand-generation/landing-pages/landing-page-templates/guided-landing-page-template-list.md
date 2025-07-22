@@ -4,7 +4,7 @@ description: Liste der geführten Landingpage-Vorlagen - Marketo-Dokumente - Pro
 title: Liste der geführten Landingpage-Vorlagen
 exl-id: 93893c9c-dda2-4d18-b74c-e47388ed552c
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 58a2839804b69a783992a42b51d206d2544f356b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '347'
 ht-degree: 0%
@@ -17,17 +17,17 @@ Durchsuchen Sie unsere Sammlung von Beispielvorlagen zur Verwendung mit dem [Gef
 
 >[!NOTE]
 >
->Der Marketo-Support ist nicht für die Fehlerbehebung beim HTML eingerichtet. Wenn Sie Hilfe beim Ändern einer dieser Vorlagen benötigen, wenden Sie sich bitte an einen Web-Entwickler.
+>Der Marketo-Support ist nicht für die Fehlerbehebung bei HTML eingerichtet. Wenn Sie Hilfe beim Ändern einer dieser Vorlagen benötigen, wenden Sie sich bitte an einen Web-Entwickler.
 
 So importieren Sie eine Vorlage in Marketo:
 
 1. Klicken Sie auf den Namen der Vorlage, um die Ansicht zu vergrößern.
 1. Herunterladen der ausgewählten Vorlage.
-1. Navigieren Sie in Marketo zu **Design Studio.**
-1. Klicken Sie **der linken** auf „Landingpages“ und wählen Sie dann **Vorlagen.**
+1. Navigieren Sie in Marketo zu **[!UICONTROL Design Studio].**
+1. Klicken Sie **[!UICONTROL der linken]** auf „Landingpages“ und wählen Sie dann **[!UICONTROL Vorlagen].**
 
-1. Klicken Sie in der Menüleiste auf **Vorlage importieren.**
-1. Wählen Sie die heruntergeladene Datei aus, geben Sie einen Vorlagennamen ein und klicken Sie auf **Importieren** (stellen Sie sicher, dass Sie einen beschreibenden Namen auswählen und angeben, dass der Bearbeitungsmodus &quot;**&quot;**.
+1. Klicken Sie in der Menüleiste auf **[!UICONTROL Vorlage importieren].**
+1. Wählen Sie die heruntergeladene Datei aus, geben Sie einen Vorlagennamen ein und klicken Sie auf **[!UICONTROL Importieren]** (stellen Sie sicher, dass Sie einen beschreibenden Namen auswählen und angeben, dass der Bearbeitungsmodus &quot;**[!UICONTROL &quot;]**.
 
 <table>
 <tr>

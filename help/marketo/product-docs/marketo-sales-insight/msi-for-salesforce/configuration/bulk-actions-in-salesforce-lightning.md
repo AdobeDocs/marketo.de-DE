@@ -4,42 +4,42 @@ description: Massenaktionen in Salesforce Lightning - Marketo-Dokumente - Produk
 title: Massenaktionen in Salesforce Lightning
 exl-id: 8e07e870-158f-4072-8122-9f4b440f5f7c
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 1%
+source-wordcount: '114'
+ht-degree: 5%
 
 ---
 
-# Massenaktionen in Salesforce Lightning {#bulk-actions-in-salesforce-lightning}
+# Massenaktionen in [!DNL Salesforce Lightning] {#bulk-actions-in-salesforce-lightning}
 
-Gehen Sie wie folgt vor, um Massenaktionen in Salesforce Lightning einzurichten.
+So richten Sie Massenaktionen in [!DNL Salesforce Lightning] ein.
 
-1. Klicken Sie in Salesforce auf das Symbol Setup und wählen Sie **Setup** aus.
+1. Klicken Sie [!DNL Salesforce] auf das Symbol Setup und wählen Sie **[!UICONTROL Setup]** aus.
 
    ![](assets/bulk-actions-in-salesforce-lightning-1.png)
 
-1. Klicken Sie auf die **Objekt-Manager**-Registerkarte.
+1. Klicken Sie auf die **[!UICONTROL Objekt-Manager]**-Registerkarte.
 
    ![](assets/bulk-actions-in-salesforce-lightning-2.png)
 
-1. Suchen Sie die Beschriftung **Lead** und wählen Sie sie aus.
+1. Suchen Sie die Beschriftung **[!UICONTROL Lead]** und wählen Sie sie aus.
 
    ![](assets/bulk-actions-in-salesforce-lightning-3.png)
 
-1. Klicken Sie **Layouts für Salesforce Classic suchen**.
+1. Klicken Sie **[!UICONTROL Layouts für Salesforce Classic suchen]**.
 
    ![](assets/bulk-actions-in-salesforce-lightning-4.png)
 
-   Suchen des Layouts der Listenansicht. Klicken Sie auf das Dropdown-Menü rechts und wählen Sie **Bearbeiten**.
+   Suchen des Layouts der Listenansicht. Klicken Sie auf das Dropdown-Menü rechts und wählen Sie **[!UICONTROL Bearbeiten]**.
 
    ![](assets/bulk-actions-in-salesforce-lightning-5.png)
 
-1. Suchen Sie unter „Benutzerdefinierte Schaltflächen“ nach „Zu Marketo Campaign hinzufügen **und wählen Sie diese Option aus** und **E-Mail an Marketo senden (Blitz)**. Klicken Sie auf die **Hinzufügen**-Schaltfläche.
+1. Suchen Sie unter „Benutzerdefinierte Schaltflächen“ nach „Zu Marketo Campaign hinzufügen **[!UICONTROL und wählen Sie diese Option aus]** und **[!UICONTROL E-Mail an Marketo senden (Blitz)]**. Klicken Sie auf die Schaltfläche **[!UICONTROL Hinzufügen]**.
 
    ![](assets/bulk-actions-in-salesforce-lightning-6.png)
 
-1. Klicken Sie auf **Speichern**.
+1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/bulk-actions-in-salesforce-lightning-7.png)
 

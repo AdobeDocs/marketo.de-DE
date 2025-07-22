@@ -3,16 +3,16 @@ description: Aktivieren/Deaktivieren der Synchronisierung benutzerdefinierter Ob
 title: Benutzerdefinierte Objektsynchronisierung aktivieren/deaktivieren
 exl-id: 01417fb6-70f5-449b-ad56-42e1c0b2ff68
 feature: Veeva CRM
-source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
 
 # Benutzerdefinierte Objektsynchronisierung aktivieren/deaktivieren {#enable-disable-custom-object-sync}
 
-Benutzerdefinierte Objekte, die in Ihrer Veeva CRM-Instanz erstellt wurden, können auch Teil von Marketo Engage sein. So richten Sie es ein.
+Benutzerdefinierte Objekte, die in Ihrer [!DNL Veeva] CRM-Instanz erstellt wurden, können auch Teil von Marketo Engage sein. Gehen Sie wie folgt vor, um sie einzurichten.
 
 ## Aktivieren oder Deaktivieren der Synchronisierung benutzerdefinierter Objekte {#enable-or-disable-the-custom-object-sync}
 
@@ -24,7 +24,7 @@ Benutzerdefinierte Objekte, die in Ihrer Veeva CRM-Instanz erstellt wurden, kön
 
    ![](assets/enable-disable-custom-object-sync-1.png)
 
-1. Wenn dies Ihr erstes benutzerdefiniertes Objekt ist, klicken Sie auf Schema synchronisieren. Klicken Sie andernfalls auf **[!UICONTROL Schema aktualisieren]**, um sicherzustellen, dass Sie über die neueste Version verfügen.
+1. Wenn dies das erste benutzerdefinierte Objekt ist, klicken Sie auf **[!UICONTROL Schema synchronisieren]**. Klicken Sie andernfalls auf **[!UICONTROL Schema aktualisieren]**, um sicherzustellen, dass Sie über die neueste Version verfügen.
 
    ![](assets/enable-disable-custom-object-sync-2.png)
 
@@ -34,25 +34,25 @@ Benutzerdefinierte Objekte, die in Ihrer Veeva CRM-Instanz erstellt wurden, kön
 
    >[!NOTE]
    >
-   >Eine Synchronisierung des benutzerdefinierten Veeva-Objektschemas kann einige Minuten dauern.
+   >Eine Synchronisierung des [!DNL Veeva] benutzerdefinierten Objektschemas kann einige Minuten dauern.
 
 1. Klicken Sie **[!UICONTROL Schema aktualisieren]**.
 
    ![](assets/enable-disable-custom-object-sync-4.png)
 
-Wählen Sie das zu synchronisierende Objekt aus und klicken Sie auf Synchronisierung aktivieren .
+Wählen Sie das zu synchronisierende Objekt aus und klicken Sie auf **[!UICONTROL Synchronisierung aktivieren]**.
 
 ![](assets/enable-disable-custom-object-sync-5.png)
 
 >[!TIP]
 >
->Marketo kann ein benutzerdefiniertes Objekt nur synchronisieren, wenn es eine direkte Beziehung mit dem Kontakt- oder Kontoobjekt in Veeva CRM hat.
+>Marketo kann ein benutzerdefiniertes Objekt nur synchronisieren, wenn es eine direkte Beziehung mit dem Kontakt- oder Kontoobjekt in [!DNL Veeva] CRM hat.
 
 1. Klicken Sie erneut **[!UICONTROL Synchronisierung aktivieren]**.
 
    ![](assets/enable-disable-custom-object-sync-6.png)
 
-1. Gehen Sie zurück zur Registerkarte Veeva und klicken Sie auf **[!UICONTROL Synchronisierung aktivieren]**.
+1. Wechseln Sie zurück zur Registerkarte [!UICONTROL Veeva] und klicken Sie auf **[!UICONTROL Synchronisierung aktivieren]**.
 
    ![](assets/enable-disable-custom-object-sync-7.png)
 
@@ -62,7 +62,7 @@ Wählen Sie das zu synchronisierende Objekt aus und klicken Sie auf Synchronisie
 >
 >Benutzerdefinierte Objekte können nicht in Smart-Kampagnen mit Triggern verwendet werden.
 
-1. Ziehen Sie in Ihrer Smart List den Filter „Hat Chance“ auf den Bereich und legen Sie ihn auf **[!UICONTROL True]** fest.
+1. Ziehen Sie in [!UICONTROL Smart List] den Filter &quot;**[!UICONTROL Hat Opportunity]** auf und setzen Sie ihn auf **[!UICONTROL True]**.
 
    ![](assets/enable-disable-custom-object-sync-8.png)
 
@@ -70,7 +70,7 @@ Wählen Sie das zu synchronisierende Objekt aus und klicken Sie auf Synchronisie
 
    ![](assets/enable-disable-custom-object-sync-9.png)
 
-Ausgezeichnet! Sie können jetzt die Daten dieses benutzerdefinierten Objekts in Smart-Kampagnen und Smart-Listen verwenden.
+Ausgezeichnet! Sie können jetzt die Daten dieses benutzerdefinierten Objekts in „Smart[!UICONTROL Kampagnen“ ] „Smart[!UICONTROL Listen“ ].
 
 >[!MORELIKETHIS]
 >

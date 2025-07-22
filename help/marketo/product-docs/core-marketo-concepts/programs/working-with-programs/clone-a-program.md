@@ -4,7 +4,7 @@ description: Klonen eines Programms - Marketo-Dokumente - Produktdokumentation
 title: Klonen eines Programms
 exl-id: 5597007c-8f58-4306-ab78-3e65d6369fbf
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '220'
 ht-degree: 0%
@@ -29,9 +29,9 @@ Klonen Sie schnell und einfach ein ganzes Programm und alle zugehörigen Assets,
 
    >[!NOTE]
    >
-   >Sehen Sie diesen HINWEIS im obigen Screenshot? Das bedeutet, dass beim Klonen eines Programms mit 1000 oder mehr Personen in einer Liste die Liste selbst geklont wird, aber leer bleibt. Wenn Sie ein Programm mit einer Liste von maximal 999 Personen klonen, wird diese Liste zusammen mit allen Mitgliedern im geklonten Programm angezeigt.
+   >Sehen Sie diese [!UICONTROL HINWEIS] im obigen Screenshot? Das bedeutet, dass beim Klonen eines Programms mit 1000 oder mehr Personen in einer Liste die Liste selbst geklont wird, aber leer bleibt. Wenn Sie ein Programm mit einer Liste von maximal 999 Personen klonen, wird diese Liste zusammen mit allen Mitgliedern im geklonten Programm angezeigt.
 
-1. Geben Sie einen &quot;[!UICONTROL &quot; &#x200B;].
+1. Geben Sie einen &quot;**[!UICONTROL &quot;]**.
 
    ![](assets/cloneprogramname.png)
 

@@ -4,7 +4,7 @@ description: Beispiel für die ON24-Ereignisintegration - Marketo-Dokumente - Pr
 title: Beispiel für die ON24-Ereignisintegration
 exl-id: 9d34d1bf-1ff8-4b26-906e-4a6bb9d5f3f6
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '385'
 ht-degree: 0%
@@ -17,27 +17,27 @@ Hier ist ein Beispielereignis, einschließlich Kampagnen, für ein ON24-Webinar.
 
 ## Erstellen eines neuen Ereignisses in Marketing-Aktivitäten {#create-a-new-event-in-marketing-activities}
 
-1. Wählen Sie **Neu** > **Neues Programm**.
+1. Wählen Sie **[!UICONTROL Neu]** > **[!UICONTROL Neues Programm]**.
 
    ![](assets/image2015-12-22-15-3a35-3a15.png)
 
-1. Wählen Sie einen **Kampagnenordner**, in dem das Ereignis live geschaltet werden soll.
+1. Wählen Sie einen **[!UICONTROL Kampagnenordner]**, in dem das Ereignis live geschaltet werden soll.
 
    ![](assets/image2015-12-22-15-3a39-3a51.png)
 
-1. Geben Sie einen **Namen** für das Ereignis ein.
+1. Geben Sie einen **[!UICONTROL Namen]** für das Ereignis ein.
 
    ![](assets/image2015-12-22-15-3a43-3a4.png)
 
-1. Wählen Sie **Ereignis** als **Programmtyp**.
+1. Wählen Sie **[!UICONTROL Ereignis]** als **[!UICONTROL Programmtyp]**.
 
    ![](assets/image2015-12-22-15-3a44-3a41.png)
 
-1. Wählen Sie **Webinar** als **Kanal** für die Veranstaltung aus.
+1. Wählen Sie **[!UICONTROL Webinar]** als **[!UICONTROL Kanal]** für die Veranstaltung aus.
 
    ![](assets/image2015-12-22-15-3a46-3a34.png)
 
-1. Klicken Sie auf **Erstellen**.
+1. Klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/image2015-12-22-15-3a48-3a20.png)
 
@@ -55,11 +55,11 @@ Hier ist ein Beispielereignis, einschließlich Kampagnen, für ein ON24-Webinar.
 
 * **Smart-Liste**
 
-   * Trigger der Kampagne basierend auf **Ausfülltes Formular**. Denken Sie daran, die Landingpage, auf der sich das Formular befindet, mithilfe von **Einschränkung hinzufügen** einzubeziehen, insbesondere wenn das Formular auf mehreren Landingpages verwendet wird.
+   * Trigger der Kampagne basierend auf **[!UICONTROL Ausfülltes Formular]**. Denken Sie daran, die Landingpage, auf der sich das Formular befindet, mithilfe von **[!UICONTROL Einschränkung hinzufügen]** einzubeziehen, insbesondere wenn das Formular auf mehreren Landingpages verwendet wird.
 
 >[!CAUTION]
 >
->Sie müssen ein Marketo-Formular verwenden, um Personen für die Veranstaltung zu registrieren, oder ein Nicht-Marketo-Formular mit der richtigen API-Integration, um Registrierungsdaten an Marketo zu pushen. Dies ist entscheidend für den Erfolg Ihrer Event Partner-Integration. **HINWEIS**: Wenn Sie ein Marketo-Formular auf einer nicht zu Marketo gehörenden Landingpage verwenden, lautet Ihr Trigger **Formular ausfüllen** mit dem Formularnamen.
+>Sie müssen ein Marketo-Formular verwenden, um Personen für die Veranstaltung zu registrieren, oder ein Nicht-Marketo-Formular mit der richtigen API-Integration, um Registrierungsdaten an Marketo zu pushen. Dies ist entscheidend für den Erfolg Ihrer [!UICONTROL Event Partner]-Integration. **HINWEIS**: Wenn Sie ein Marketo-Formular auf einer nicht zu Marketo gehörenden Landingpage verwenden, lautet Ihr Trigger **[!UICONTROL Formular ausfüllen]** mit dem [!UICONTROL Formularnamen].
 
 ![](assets/image2015-12-22-15-3a50-3a22.png)
 

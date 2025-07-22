@@ -4,25 +4,25 @@ title: Erwartetes Verhalten
 hide: true
 hidefromtoc: true
 exl-id: d19130cf-186e-4aad-be32-6aad18c9d08b
-source-git-commit: fb77478cdcd2b455e9f2359e16aca50143ce492c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '385'
+source-wordcount: '381'
 ht-degree: 0%
 
 ---
 
 # Erwartetes Verhalten {#expected-behavior}
 
-In diesem Artikel finden Sie Informationen zum erwarteten Verhalten im Zusammenhang mit prädiktiven Zielgruppen (Predictive Audiences, PA).
+In diesem Artikel finden Sie Informationen zum erwarteten Verhalten im Zusammenhang mit [!UICONTROL Predictive Audiences] (PA).
 
 ## Überlegungen zu Daten und Datenschutz
 
 * Die gesamte erforderliche Datenverarbeitung für die KI/ML-Modelle findet in Nordamerika statt.
 * KI/ML-Modelle verwenden keine spezifischen Lead-Informationen wie Vor- oder Nachnamen, Geschlecht, E-Mails, Kontaktnummern usw. Die Modelle verwenden nur allgemeine Attribute, die aus Firmographie- und Aktivitätsprotokollen abgeleitet wurden.
 
-**Bei prädiktiven Zielgruppen ist das folgende Verhalten zu erwarten**
+**Bei [!UICONTROL Predictive Audiences] können Sie das folgende Verhalten erwarten**
 
-* Der Zugriff auf die SPA ist sowohl auf Marketo Sky als auch in Marketo Classic möglich. Spezifische Funktionen sind wie folgt verfügbar:
+* Die SPA ist sowohl in [!DNL Marketo Sky] als auch in der [!DNL Marketo Classic] verfügbar. Spezifische Funktionen sind wie folgt verfügbar:
    * Prädiktive Filter - [!DNL Sky/Classic]
    * Voraussichtliche Registrierungen - [!DNL Sky/Classic]
    * Prognosen der Lead-Ebene - [!DNL Sky/Classic]

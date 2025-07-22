@@ -4,7 +4,7 @@ description: Hinzufügen eines Formulars zu einer geführten Landingpage - Marke
 title: Hinzufügen eines Formulars zu einer geführten Landingpage
 exl-id: 480da9ab-909e-4eb5-83c2-34de56b05c78
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 1%
@@ -19,11 +19,11 @@ Formular, Landingpage treffen. Landingpage, Formular treffen.
 >
 >[Erstellen einer geführten Landingpage](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)
 
-1. Navigieren Sie zum Bereich **Marketing** Aktivitäten.
+1. Navigieren Sie zum Bereich **[!UICONTROL Marketing]** Aktivitäten.
 
    ![](assets/one.png)
 
-1. Suchen Sie Ihre Landingpage, wählen Sie sie aus und klicken Sie auf **Entwurf bearbeiten**.
+1. Suchen Sie Ihre Landingpage, wählen Sie sie aus und klicken Sie auf **[!UICONTROL Entwurf bearbeiten]**.
 
    ![](assets/two.png)
 
@@ -41,15 +41,15 @@ Formular, Landingpage treffen. Landingpage, Formular treffen.
 
 1. Bei der Auswahl Ihrer Folgenachricht stehen Ihnen drei Optionen zur Verfügung:
 
-   * Landingpage : Eine Marketo-Landingpage auswählen
-   * Externe URL - Wählen Sie die gewünschte URL aus
-   * Formular definiert - verwendet die auf Formularebene definierten Einstellungen.
+   * **[!UICONTROL Landingpage]** - Eine Marketo-Landingpage auswählen
+   * **[!UICONTROL Externe URL]** - Wählen Sie eine beliebige URL aus
+   * **[!UICONTROL Formular definiert]** - verwendet die auf Formularebene definierten Einstellungen.
 
    >[!NOTE]
    >
    >Die Folgeseite ist die Seite, die die Personen sehen, nachdem sie das Formular gesendet haben.
 
-1. In diesem Beispiel verwenden wir Form Defined . Klicken Sie auf **Einfügen**.
+1. In diesem Beispiel verwenden wir [!UICONTROL Formular definiert]. Klicken Sie auf **[!UICONTROL Einfügen]**.
 
    ![](assets/image2015-5-20-15-3a46-3a55.png)
 

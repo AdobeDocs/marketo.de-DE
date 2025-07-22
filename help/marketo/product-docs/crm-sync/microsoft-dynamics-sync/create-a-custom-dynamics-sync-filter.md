@@ -1,23 +1,23 @@
 ---
 unique-page-id: 9437903
-description: Erstellen eines benutzerdefinierten Dynamics-Synchronisierungsfilters - Marketo-Dokumente - Produktdokumentation
-title: Erstellen eines benutzerdefinierten Dynamics-Synchronisierungsfilters
+description: Erstellen eines  [!DNL Dynamics]  Synchronisierungsfilters - Marketo-Dokumente - Produktdokumentation
+title: Erstellen eines benutzerdefinierten  [!DNL Dynamics] -Filters
 exl-id: 6b0d878a-9c55-4e73-9923-11140e83bb37
 feature: Microsoft Dynamics
-source-git-commit: cd09ad43c08855af63131aa385c4fd406c963926
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '818'
+source-wordcount: '807'
 ht-degree: 1%
 
 ---
 
-# Erstellen eines benutzerdefinierten Dynamics-Synchronisierungsfilters {#create-a-custom-dynamics-sync-filter}
+# Erstellen eines benutzerdefinierten [!DNL Dynamics]-Synchronisierungsfilters {#create-a-custom-dynamics-sync-filter}
 
 Möchten Sie nicht alles in Ihrem Dynamics CRM mit Marketo Engage synchronisieren? Keine Sorge! Mit Marketo können Sie einen Synchronisierungsfilter einrichten und nur einen Teil Ihrer Datensätze synchronisieren.
 
 ## Überblick {#overview}
 
-So richten Sie einen Dynamics-Synchronisierungsfilter ein:
+So richten Sie einen [!DNL Dynamics] Synchronisierungsfilter ein:
 
 1. Erstellen Sie in Ihrem Dynamics CRM für ein beliebiges Objekt (Lead, Kontakt, Konto, Opportunity und andere benutzerdefinierte Entitäten) ein benutzerdefiniertes Feld mit zwei Optionen (boolesch) mit dem Namen „new_syncTo“.
 1. Weisen Sie diesem Feld einen Wert für Ja/Nein zu.
@@ -43,7 +43,7 @@ Marketo sucht während der automatischen Hintergrundsynchronisierung nach diesem
 
 >[!PREREQUISITES]
 >
->Installieren Sie die neueste Version des Marketo-Plug-ins (3.0.0.1 oder höher). Gehen Sie zu Marketo > Admin > Microsoft Dynamics > Marketo-Lösung herunterladen .
+>Installieren Sie die neueste Version des Marketo-Plug-ins (3.0.0.1 oder höher). Wechseln Sie zu Marketo [!UICONTROL Admin] > [!DNL Microsoft Dynamics] > [!UICONTROL Marketo-Lösung herunterladen].
 
 ## SyncToMkto-Feld erstellen {#create-synctomkto-field}
 
@@ -51,19 +51,19 @@ Marketo sucht während der automatischen Hintergrundsynchronisierung nach diesem
 
    ![](assets/image2015-8-10-21-3a40-3a9.png)
 
-1. Klicken Sie **System anpassen**.
+1. Klicken Sie **[!UICONTROL System anpassen]**.
 
    ![](assets/image2015-8-10-21-3a42-3a15.png)
 
-1. Klicken Sie ![](assets/image2015-8-10-21-3a44-3a23.png) neben **Entitäten**.
+1. Klicken Sie ![](assets/image2015-8-10-21-3a44-3a23.png) neben **[!UICONTROL Entitäten]**.
 
    ![](assets/image2015-8-10-21-3a43-3a39.png)
 
-1. Klicken Sie ![](assets/image2015-8-10-21-3a44-3a23.png) neben **Lead** und wählen Sie **Felder**. Klicken Sie dann auf **Neu**.
+1. Klicken Sie ![](assets/image2015-8-10-21-3a44-3a23.png) neben **[!UICONTROL Lead]** und wählen Sie **[!UICONTROL Felder]**. Klicken Sie dann auf **[!UICONTROL Neu]**.
 
    ![](assets/image2015-8-10-21-3a49-3a49.png)
 
-1. Geben Sie **SyncToMkto** in das Feld **Anzeigename** ein und wählen Sie **Zwei Optionen** als **Datentyp**. Klicken Sie dann auf **Speichern und schließen**.
+1. Geben Sie **SyncToMkto** in das Feld **[!UICONTROL Anzeigename]** ein und wählen Sie **[!UICONTROL Zwei Optionen]** als **[!UICONTROL Datentyp]**. Klicken Sie dann auf **[!UICONTROL Speichern und schließen]**.
 
    ![](assets/image2015-9-8-10-3a25-3a33.png)
 
@@ -95,37 +95,37 @@ Selbst wenn Sie bereits die erste Synchronisierung durchgeführt haben, wechseln
 
 Gut. Jetzt haben Sie den Synchronisierungsfilter für Marketo aktiviert.
 
-## Erstellen eines Dynamics-Workflows, um Synchronisierungsfilterwerte automatisch zuzuweisen {#create-a-dynamics-workflow-to-assign-sync-filter-values-automatically}
+## Erstellen eines [!DNL Dynamics] Workflows, um Synchronisierungsfilterwerte automatisch zuzuweisen {#create-a-dynamics-workflow-to-assign-sync-filter-values-automatically}
 
-Sie können den SyncToMoto-Feldern für Ihre Datensätze immer manuell einen Wert zuweisen. Warum nutzen Sie jedoch nicht die Leistungsfähigkeit eines Dynamics-Workflows und weisen dem SyncToMkto-Feld automatisch einen Wert zu, wenn ein Datensatz erstellt oder aktualisiert wird?
+Sie können den SyncToMoto-Feldern für Ihre Datensätze immer manuell einen Wert zuweisen. Aber warum nutzt man nicht die Vorteile eines [!DNL Dynamics] Workflows und weist dem SyncToMkto-Feld automatisch einen Wert zu, wenn ein Datensatz erstellt oder aktualisiert wird?
 
 >[!NOTE]
 >
 >Das kann man nicht auf der Datenbankebene machen. Dies muss im CRM manuell oder mithilfe eines Workflows geschehen.
 >
->Ein Dynamics-Workflow funktioniert nur bei neuen Datensätzen, die in Zukunft erstellt werden, nicht bei historischen Daten. Verwenden Sie eine Batch-Aktualisierung, um vorhandene Datensätze zu überschreiben.
+>Ein [!DNL Dynamics]-Workflow funktioniert nur bei neuen Datensätzen, die in Zukunft erstellt werden, nicht bei historischen Daten. Verwenden Sie eine Batch-Aktualisierung, um vorhandene Datensätze zu überschreiben.
 
 1. Wechseln Sie zu Ihrem Dynamics CRM. Klicken Sie **Einstellungen** und dann **Prozesse**.
 
    ![](assets/image2015-8-11-8-3a42-3a10.png)
 
-1. Klicken Sie auf **Neu**.
+1. Klicken Sie auf **[!UICONTROL Neu]**.
 
    ![](assets/image2015-8-11-8-3a43-3a46.png)
 
-1. Geben Sie einen Namen für den Workflow ein und wählen Sie **Workflow** als Kategorie und **Lead** als Entität aus. Klicken Sie dann auf **OK**.
+1. Geben Sie einen Namen für den Workflow ein und wählen Sie **[!UICONTROL Workflow]** als [!UICONTROL Kategorie] und **[!UICONTROL Lead]** als [!UICONTROL Entität]. Klicken Sie dann auf **OK**.
 
    ![](assets/image2015-8-11-8-3a45-3a46.png)
 
-1. Erstellen Sie Regeln, um dem Feld **SyncToMkto** je nach Vorlieben Ihrer Organisation einen Wert „true“ oder „false“ zuzuweisen. Klicken Sie **Speichern und schließen**.
+1. Erstellen Sie Regeln, um dem Feld **SyncToMkto** je nach Vorlieben Ihrer Organisation einen Wert „true“ oder „false“ zuzuweisen. Klicken Sie **[!UICONTROL Speichern und schließen]**.
 
    ![](assets/setsynctomkto-fix.png)
 
    >[!NOTE]
    >
-   >Definieren Sie eine Standardaktion, nachdem Sie auf **Schritt hinzufügen** geklickt haben, um eine Prüfbedingung hinzuzufügen. Dadurch werden die Datensätze festgelegt, mit denen Sie keine Synchronisierung durchführen **Nein**. Andernfalls werden sie synchronisiert.
+   >Definieren Sie eine Standardaktion, nachdem Sie auf **[!UICONTROL Schritt hinzufügen]** geklickt haben, um eine Prüfbedingung hinzuzufügen. Dadurch werden die Datensätze festgelegt, mit denen Sie keine Synchronisierung durchführen **Nein**. Andernfalls werden sie synchronisiert.
 
-1. Wählen Sie den Workflow aus und klicken Sie auf **Aktivieren**.
+1. Wählen Sie den Workflow aus und klicken Sie auf **[!UICONTROL Aktivieren]**.
 
    ![](assets/image2015-8-11-8-3a57-3a29.png)
 
@@ -139,7 +139,7 @@ Im Folgenden finden Sie einige Implementierungsdetails, die Sie kennen sollten:
 
 * Starten eines Synchronisierungsvorgangs
 
-  Wenn der **SyncToMkto**-Wert von **Nein** auf **Ja** wechselt, benachrichtigt Dynamics Marketo sofort, dass die Synchronisierung dieses Datensatzes gestartet wird. Wenn der Datensatz bereits vorhanden ist, wird er von Marketo aktualisiert. Andernfalls erstellt Marketo den Datensatz.
+  Wenn der **SyncToMkto**-Wert von **Nein** auf **Ja** wechselt, wird [!DNL Dynamics] Marketo sofort aufgefordert, mit der Synchronisierung dieses Datensatzes zu beginnen. Wenn der Datensatz bereits vorhanden ist, wird er von Marketo aktualisiert. Andernfalls erstellt Marketo den Datensatz.
 
   >[!TIP]
   >

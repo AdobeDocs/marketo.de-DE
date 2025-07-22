@@ -4,7 +4,7 @@ description: Grundlegendes zu allen Inhalten - Marketo-Dokumente - Produktdokume
 title: Alle Inhalte verstehen
 exl-id: 475943f0-bba4-4bd7-8808-de75475f934d
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 0%
@@ -19,12 +19,12 @@ Auf der Seite Alle Inhalte werden alle Inhalte angezeigt, die manuell erkannt od
 
 Zu den Seitenfeldern gehören:
 
-* **Title**: Der Name des Inhaltselements
-* **Kategorien**: Wird von Ihnen erstellt und verwendet, um Ihre Prognoseergebnisse für das Web oder E-Mail zu gruppieren
-* **Ansichten**: Klicks insgesamt auf entdeckte Web-Inhalte (einschließlich aller Quellen)
-* **Konversionen**: Die Anzahl der Besucherinnen und Besucher, die sich ein Inhaltselement angesehen und ein Formular während desselben Besuchs ausgefüllt haben
-* **Konversionsrate** Ein Prozentsatz, der durch direkte Konversionen dividiert durch Klicks berechnet wird
-* **Für Vorhersage genehmigen**: Das Symbol wird angezeigt, wenn der Inhalt genehmigt wurde
+* **[!UICONTROL Title]**: Der Name des Inhaltselements
+* **[!UICONTROL Kategorien]**: Wird von Ihnen erstellt und verwendet, um Ihre Prognoseergebnisse für das Web oder E-Mail zu gruppieren
+* **[!UICONTROL Ansichten]**: Klicks insgesamt auf entdeckte Web-Inhalte (einschließlich aller Quellen)
+* **[!UICONTROL Konversionen]**: Die Anzahl der Besucherinnen und Besucher, die sich ein Inhaltselement angesehen und ein Formular während desselben Besuchs ausgefüllt haben
+* **[!UICONTROL Konversionsrate]** Ein Prozentsatz, der durch direkte Konversionen dividiert durch Klicks berechnet wird
+* **[!UICONTROL Für Vorhersage genehmigen]**: Das Symbol wird angezeigt, wenn der Inhalt genehmigt wurde
 
 Sie können ein neues Inhaltselement hinzufügen und verfolgen, ein Inhaltselement entfernen oder ein Inhaltselement genehmigen. Nachdem Sie Inhalte genehmigt haben, können Sie sie auf der Seite Prädiktiver Inhalt bearbeiten.
 
@@ -32,7 +32,7 @@ Sie können ein neues Inhaltselement hinzufügen und verfolgen, ein Inhaltseleme
 
 Filtern Sie Inhalte, indem Sie eine oder mehrere Kategorien auswählen. Richten Sie dann das Datum oder den Datumsbereich für die Inhaltsanalyse mit standardmäßigen oder benutzerdefinierten Einstellungen ein.
 
-1. Klicken Sie auf **Seite &quot;**&quot; auf das Filtersymbol und wählen Sie unter **Kategorie** eine oder mehrere Inhaltskategorien aus.
+1. Klicken Sie auf **[!UICONTROL Seite &quot;]**&quot; auf das Filtersymbol und wählen Sie unter **[!UICONTROL Kategorie]** eine oder mehrere Inhaltskategorien aus.
 
    ![](assets/image2017-10-3-9-3a5-3a52.png)
 
@@ -42,7 +42,7 @@ Filtern Sie Inhalte, indem Sie eine oder mehrere Kategorien auswählen. Richten 
 
 ## Anzeigen von Analytics für ein Datum oder einen Datumsbereich {#display-analytics-for-a-date-or-date-range}
 
-1. Um Daten für ein bestimmtes Datum oder einen bestimmten Datumsbereich anzuzeigen, klicken Sie auf das Kalendersymbol und wählen Sie dann im linken Bedienfeld aus. Klicken Sie für einen benutzerdefinierten Datumsbereich auf den ersten und letzten Tag des Datumsbereichs im Kalender (wie dargestellt). Klicken Sie auf **Übernehmen**.
+1. Um Daten für ein bestimmtes Datum oder einen bestimmten Datumsbereich anzuzeigen, klicken Sie auf das Kalendersymbol und wählen Sie dann im linken Bedienfeld aus. Klicken Sie für einen benutzerdefinierten Datumsbereich auf den ersten und letzten Tag des Datumsbereichs im Kalender (wie dargestellt). Klicken Sie auf **[!UICONTROL Übernehmen]**.
 
    ![](assets/all-content-calendar-filter-hands.png)
 

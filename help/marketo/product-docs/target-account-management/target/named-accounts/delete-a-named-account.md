@@ -4,14 +4,14 @@ description: Löschen eines benannten Kontos - Marketo-Dokumente - Produktdokume
 title: Löschen eines benannten Kontos
 exl-id: 47a1ce87-43ac-4f8f-94ab-7dec2730ab21
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 1%
 
 ---
 
-# Löschen eines benannten Kontos {#delete-a-named-account}
+# Löschen eines [!UICONTROL  Kontos] {#delete-a-named-account}
 
 Führen Sie diese kurzen Schritte aus, um ein benanntes Konto zu löschen.
 
@@ -23,11 +23,11 @@ Führen Sie diese kurzen Schritte aus, um ein benanntes Konto zu löschen.
    >
    >Strg+Klicken (Windows) bzw. Befehl+Klicken (Mac), um mehrere benannte Konten auszuwählen.
 
-1. Klicken Sie auf die **Benannte Kontoaktionen** und wählen Sie **Benanntes Konto löschen**.
+1. Klicken Sie auf die **[!UICONTROL Benannte Kontoaktionen]** und wählen Sie **[!UICONTROL Benanntes Konto löschen]**.
 
    ![](assets/eight-1.png)
 
-1. Klicken Sie auf **Löschen**.
+1. Klicken Sie auf **[!UICONTROL Löschen]**.
 
    ![](assets/nine-1.png)
 

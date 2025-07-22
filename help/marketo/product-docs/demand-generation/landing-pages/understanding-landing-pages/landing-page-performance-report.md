@@ -4,7 +4,7 @@ description: Performance-Bericht der Landingpage - Marketo-Dokumente - Produktdo
 title: Bericht zur Leistung der Landingpage
 exl-id: 6cfe072d-5087-4e52-b387-73615f86e1eb
 feature: Landing Pages
-source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
@@ -19,8 +19,8 @@ Ermitteln Sie, wie viele Personen die Formulare auf Ihren Landingpages ausgefül
 >
 >Wenn Sie eine Diskrepanz in den Zahlen zwischen Ihrer Smart-Liste und dem Performance-Bericht der Landingpage sehen, liegt das wahrscheinlich daran, dass Smart-Listen nur Daten über Personen filtern, während die Performance-Berichte der Landingpage zusätzlich zu den Personendaten auch Social-Media-Aktivitäten (Facebook, Google-Anzeigen usw.) und anonyme Aktivitäten enthalten.
 
-1. [Bericht erstellen](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) und Landingpage-Leistung auswählen [Berichtstyp](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
-1. [Legen Sie den Zeitrahmen Ihres Berichts fest](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) und klicken Sie auf die Registerkarte Bericht .
+1. [Erstellen Sie einen Bericht](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) und wählen Sie den [!UICONTROL Leistung der Landingpage] [Berichtstyp](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [Legen Sie den Zeitrahmen Ihres Berichts fest](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) und klicken Sie auf die Registerkarte [!UICONTROL Bericht].
 1. Das ist alles! Erkunden Sie Ihren Bericht, um zu beurteilen, wie gut Ihre Landingpages funktionieren.
 
    ![](assets/image2014-9-16-15-3a53-3a33.png)

@@ -4,7 +4,7 @@ description: Verwenden von Vorlagen zum Erstellen von Web-Kampagnen - Marketo-Do
 title: Verwenden von Vorlagen zur Erstellung von Web-Kampagnen
 exl-id: 1d4f24c7-27c7-4eb6-9377-dc6853d13fa3
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 1%
@@ -19,11 +19,11 @@ Beschleunigen und vereinfachen Sie die Erstellung von Web-Kampagnen mithilfe uns
 >
 >Vorlagen sind für alle Geräte und Browser-Erlebnisse sowohl für Desktop als auch für Mobilgeräte optimiert.
 
-1. Gehen Sie zu **Web-Kampagnen**.
+1. Gehen Sie zu **[!UICONTROL Web-Kampagnen]**.
 
    ![](assets/web-campaigns-hand.jpg)
 
-1. Klicken Sie **Neue Web-Kampagne erstellen**.
+1. Klicken Sie **[!UICONTROL Neue Web-Kampagne erstellen]**.
 
    ![](assets/create-new-web-campaign-create-hand.jpg)
 
@@ -31,11 +31,11 @@ Beschleunigen und vereinfachen Sie die Erstellung von Web-Kampagnen mithilfe uns
 
    ![](assets/set-web-campaign-my-campaign-hand.jpg)
 
-1. Zielsegment auswählen.
+1. Wählen Sie ein [!UICONTROL Zielsegment] aus.
 
    ![](assets/set-web-campaign-education.jpg)
 
-1. Klicken Sie auf **Vorlagen**.
+1. Klicken Sie auf **[!UICONTROL Vorlagen]**.
 
    ![](assets/templates.png)
 
@@ -55,7 +55,7 @@ Beschleunigen und vereinfachen Sie die Erstellung von Web-Kampagnen mithilfe uns
 
    ![](assets/customize-template.jpg)
 
-1. Klicken Sie auf **Speichern**.
+1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/click-save-hand.jpg)
 

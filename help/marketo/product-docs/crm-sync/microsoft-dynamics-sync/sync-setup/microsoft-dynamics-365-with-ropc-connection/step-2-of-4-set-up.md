@@ -3,9 +3,9 @@ description: 'Schritt 2 von 4: Einrichten der Marketo-Lösung mit der Kennwortko
 title: 'Schritt 2 von 4: Einrichten der Marketo-Lösung mit der Kennwortsteuerungsverbindung für Ressourcenbesitzer'
 exl-id: 41c05910-d8e3-4fb7-8f68-17ee10294e57
 feature: Microsoft Dynamics
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '445'
+source-wordcount: '441'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Beginnen wir mit der Erstellung eines Benutzerkontos.
 
 ## Neuen Benutzer erstellen {#create-a-new-user}
 
-1. Melden Sie sich bei Dynamics an. Klicken Sie auf das Symbol Einstellungen und wählen Sie **[!UICONTROL Erweiterte Einstellungen]** aus.
+1. Melden Sie sich bei [!DNL Dynamics] an. Klicken Sie auf [!UICONTROL Einstellungen] und wählen Sie **[!UICONTROL Erweiterte Einstellungen]** aus.
 
    ![](assets/one.png)
 
@@ -70,13 +70,13 @@ Weisen Sie die Rolle Marketo-Synchronisierungsbenutzer nur dem Marketo-Synchroni
 
 >[!NOTE]
 >
->Dies gilt für die Marketo-Version 4.0.0.14 und höher. Bei früheren Versionen müssen alle Benutzer über die Rolle „Benutzer synchronisieren“ verfügen. Informationen zum Upgrade von Marketo finden Sie [Upgrade der Marketo-Lösung für Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md){target="_blank"}.
+>Dies gilt für die Marketo-Version 4.0.0.14 und höher. Bei früheren Versionen müssen alle Benutzer über die Rolle „Benutzer synchronisieren“ verfügen. Informationen zum Upgrade von Marketo finden Sie unter [Upgrade der Marketo-Lösung für [!DNL Microsoft Dynamics]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
 
 >[!IMPORTANT]
 >
 >Die Spracheinstellung des Synchronisierungsbenutzers [sollte auf Englisch festgelegt werden](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"}.
 
-1. Gehen Sie zurück zur Registerkarte **[!UICONTROL Aktivierte Benutzer]** und aktualisieren Sie die Benutzerliste.
+1. Gehen Sie zurück zur Registerkarte [!UICONTROL Aktivierte Benutzer] und aktualisieren Sie die Benutzerliste.
 
    ![](assets/ten.png)
 
@@ -100,13 +100,13 @@ Weisen Sie die Rolle Marketo-Synchronisierungsbenutzer nur dem Marketo-Synchroni
 
 Fast da! Uns bleibt nur noch, die Marketo-Lösung über den neu erstellten Benutzer zu informieren.
 
-1. Gehen Sie zurück zum Abschnitt Erweiterte Einstellungen, klicken Sie auf das ![](assets/image2015-5-13-15-3a49-3a19.png) neben Einstellungen und wählen Sie **[!UICONTROL Marketo Config]**.
+1. Gehen Sie zurück zum Abschnitt [!UICONTROL Erweiterte Einstellungen] und klicken Sie auf das ![](assets/image2015-5-13-15-3a49-3a19.png) neben [!UICONTROL Einstellungen] und wählen Sie **[!UICONTROL Marketo Config]**.
 
    ![](assets/fourteen.png)
 
    >[!NOTE]
    >
-   >Wenn **[!UICONTROL Marketo Config]** im Menü Einstellungen nicht angezeigt wird, Seite aktualisieren. Wenn dies nicht funktioniert, versuchen Sie erneut, [die Marketo-Lösung zu veröffentlichen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md){target="_blank"} oder melden Sie sich ab und wieder an.
+   >Wenn **[!UICONTROL Marketo Config]** im Menü [!UICONTROL Einstellungen] nicht angezeigt wird, aktualisieren Sie die Seite. Wenn dies nicht funktioniert, versuchen Sie erneut, [die Marketo-Lösung zu veröffentlichen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md) oder melden Sie sich ab und wieder an.
 
 1. Klicken Sie auf **[!UICONTROL Standard]**.
 
@@ -124,7 +124,7 @@ Fast da! Uns bleibt nur noch, die Marketo-Lösung über den neu erstellten Benut
 
    ![](assets/seventeen.png)
 
-1. Klicken Sie auf das ![](assets/image2015-5-13-15-3a49-3a19-1.png) neben Einstellungen und wählen Sie **[!UICONTROL Lösungen]** aus.
+1. Klicken Sie auf das ![](assets/image2015-5-13-15-3a49-3a19-1.png) neben [!UICONTROL Einstellungen] und wählen Sie **[!UICONTROL Lösungen]** aus.
 
    ![](assets/eighteen.png)
 

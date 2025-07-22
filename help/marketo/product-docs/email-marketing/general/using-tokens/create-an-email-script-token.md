@@ -4,7 +4,7 @@ description: Erstellen eines E-Mail-Skript-Tokens - Marketo-Dokumente - Produktd
 title: Erstellen eines E-Mail-Skript-Tokens
 exl-id: c7f8c3e0-6d64-4115-b9b6-261576360ba1
 feature: Tokens
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Für fortgeschrittene Entwickler können Sie [Velocity-Skripte](https://velocity.apache.org/engine/1.7/user-guide.html) in Ihren E-Mails verwenden. So geht das.
 
-1. Navigieren Sie **Marketing-Aktivitäten**.
+1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/ma.png)
 
@@ -23,15 +23,15 @@ Für fortgeschrittene Entwickler können Sie [Velocity-Skripte](https://velocity
 
    ![](assets/image2014-9-17-22-3a21-3a24.png)
 
-1. Ziehen Sie auf **Registerkarte** Meine Token“ ein Token **E-Mail-Skript** in den Arbeitsbereich.
+1. Ziehen Sie auf **[!UICONTROL Registerkarte]** Meine Token“ ein Token **[!UICONTROL E-Mail-Skript]** in den Arbeitsbereich.
 
    ![](assets/image2014-9-17-22-3a21-3a29.png)
 
-1. Benennen Sie Ihr E-Mail-Skript-Token und **Sie zum Bearbeiten auf** Inhalt.
+1. Benennen Sie Ihr E-Mail-Skript-Token und **[!UICONTROL klicken Sie zum Bearbeiten]** seinen Inhalt.
 
    ![](assets/image2014-9-17-22-3a21-3a46.png)
 
-1. Verwenden Sie die Struktur auf der rechten Seite, um Token **Person, Opportunity** oder **Benutzerdefiniertes Objekt** einzufügen.
+1. Verwenden Sie die Struktur auf der rechten Seite, um Token **[!UICONTROL Person]**, **[!UICONTROL Opportunity]** oder **[!UICONTROL Benutzerdefiniertes Objekt]** einzufügen.
 
    ![](assets/five-2.png)
 
@@ -49,16 +49,16 @@ Für fortgeschrittene Entwickler können Sie [Velocity-Skripte](https://velocity
 
 1. Schreiben Sie Ihr Skript in Velocity. Im Folgenden finden Sie einige nützliche Ressourcen:
 
-   * [E-Mail-Skripterstellung für Marketo-Entwickler](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/email-scripting)
+   * [E-Mail-Skripterstellung für Marketo-Entwickler](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)
    * [Velocity-Benutzerhandbuch](https://velocity.apache.org/engine/devel/user-guide.html)
    * [Velocity-Referenzhandbuch](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
    * [Velocity Tools javadoc](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
 
-1. Klicken Sie nach Abschluss des Skripts auf **Speichern**.
+1. Klicken Sie nach Abschluss des Skripts auf **[!UICONTROL Speichern]**.
 
    ![](assets/image2014-9-17-22-3a23-3a1.png)
 
-1. Klicken **noch** auf „Speichern“.
+1. Klicken **[!UICONTROL noch]** auf „Speichern“.
 
    ![](assets/image2014-9-17-22-3a23-3a13.png)
 

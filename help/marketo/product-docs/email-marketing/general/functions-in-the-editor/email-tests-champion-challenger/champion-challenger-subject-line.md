@@ -4,7 +4,7 @@ description: Champion/Challenger - Betreffzeile - Marketo-Dokumente - Produktdok
 title: Champion/Challenger - Betreffzeile
 exl-id: c1c75979-d1a9-459d-a0da-b4bb769372d5
 feature: Email Editor
-source-git-commit: c17bd1a623c46786f14c21c8fad718cdfeeec3cd
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 1%
@@ -19,15 +19,15 @@ Sie können auf einfache Weise mehrere Betreffzeilen testen. Senden Sie nach Abs
 >
 >[E-Mail-Champion/Challenger hinzufügen](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. Wählen Sie im E-Mail **Testeditor in der Dropdown** Liste **Testtyp** die Option „Betreffzeile“ aus.
+1. Wählen Sie im E-Mail **[!UICONTROL Testeditor in der Dropdown]** Liste **[!UICONTROL Testtyp]** die Option „Betreffzeile“ aus.
 
    ![](assets/image2014-9-15-12-3a37-3a50.png)
 
    >[!NOTE]
    >
-   >Bei einem Betrefftest wird die erste eingegebene Betreffzeile als &quot;**&quot;**. Die nachfolgenden Betreffzeilen werden als **bezeichnet**.
+   >Bei einem Betrefftest wird die erste eingegebene Betreffzeile als &quot;**[!UICONTROL &quot;]**. Die nachfolgenden Betreffzeilen werden als **[!UICONTROL bezeichnet]**.
 
-1. Geben Sie die Betreffzeile(n) für die **Challengers** ein.
+1. Geben Sie die Betreffzeile(n) für die **[!UICONTROL Challengers]** ein.
 
    ![](assets/image2014-9-15-12-3a38-3a4.png)
 
@@ -47,7 +47,7 @@ Sie können auf einfache Weise mehrere Betreffzeilen testen. Senden Sie nach Abs
 
    Um statistische Konfidenz zu gewinnen, stellen Sie sicher, dass der ausgewählte Prozentsatz genügend Personen umfasst, sodass Ihr Test gültig ist. Lassen Sie sich nicht von nicht eindeutigen Ergebnissen täuschen.
 
-1. Klicken Sie auf **Weiter**.
+1. Klicken Sie auf **[!UICONTROL Weiter]**.
 
    ![](assets/image2014-9-15-12-3a40-3a42.png)
 

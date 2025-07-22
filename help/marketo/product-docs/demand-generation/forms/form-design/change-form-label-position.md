@@ -4,10 +4,10 @@ description: Position der Formularbeschriftung ändern - Marketo-Dokumente - Pro
 title: Position des Formulartitels ändern
 exl-id: b4291454-f6f8-4800-b806-6ea56d6f83cd
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '125'
-ht-degree: 2%
+ht-degree: 1%
 
 ---
 
@@ -15,32 +15,32 @@ ht-degree: 2%
 
 Beim [Erstellen eines Formulars](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) können Sie die Positionierung der Formularfeldbeschriftungen sehr einfach ändern. So geht&#39;s.
 
-1. Navigieren Sie **Marketing-Aktivitäten**.
+1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Wählen Sie Ihr Formular aus und klicken Sie auf **Formular bearbeiten**.
+1. Wählen Sie Ihr Formular aus und klicken Sie auf **[!UICONTROL Formular bearbeiten]**.
 
    ![](assets/image2014-9-15-16-3a16-3a9.png)
 
-1. Wählen Sie **Einstellungen** aus.
+1. Wählen Sie **[!UICONTROL Einstellungen]** aus.
 
    ![](assets/image2014-9-15-16-3a16-3a26.png)
 
-1. Wählen Sie **gewünschte** aus.
+1. Wählen Sie **[!UICONTROL gewünschte]** aus.
 
    ![](assets/image2014-9-15-16-3a16-3a39.png)
 
    Derzeit stehen zwei Optionen zur Verfügung:
 
-   * Links (Standard)
-   * Oberhalb von
+   * [!UICONTROL Links] (Standard)
+   * [!UICONTROL oben]
 
-1. Klicken Sie auf **Fertigstellen**.
+1. Klicken Sie auf **[!UICONTROL Fertigstellen]**.
 
    ![](assets/image2014-9-15-16-3a16-3a49.png)
 
-1. Klicken Sie **Genehmigen und schließen**.
+1. Klicken Sie **[!UICONTROL Genehmigen und schließen]**.
 
    >[!NOTE]
    >

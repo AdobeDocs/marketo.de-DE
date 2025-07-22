@@ -1,24 +1,24 @@
 ---
-description: Funktionsübersicht für Sales Insight-Aktionen - Marketo-Dokumente - Produktdokumentation
-title: Übersicht über die Funktion „Sales Insights-Aktionen“
+description: Übersicht über die Funktionen von Sales Insight-Aktionen - Marketo-Dokumente - Produktdokumentation
+title: Übersicht über die Aktionsfunktionen in Sales Insight
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
 feature: Sales Insight Actions
-source-git-commit: 1f228323c18204149630a7cb77d6ae0a88b425e3
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '1361'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
-# Übersicht über die Funktion „Sales Insights-Aktionen“ {#msi-actions-feature-overview}
+# Übersicht über die Aktionsfunktionen in Sales Insight {#msi-actions-feature-overview}
 
 Beschleunigen Sie die Akquise mit Marketing-gestützten Intelligence- und Interaktions-Tools in einem einzigen Workflow mithilfe von Sales Insight-Aktionen.
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions ist eine Web-basierte Anwendung, die über das [Marketo Sales Insight Package&rbrace; ausschließlich mit Salesforce CRM integriert ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. Dies wird manchmal als &quot;Marketo-Vertrieb“ oder einfach als „Aktionen“ bezeichnet.
+>Marketo Sales Insight Actions ist ein Web-basiertes Programm, das über das [Marketo Sales Insight Package} ausschließlich mit dem Salesforce CRM integriert ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. Dies wird manchmal als &quot;Marketo-Vertrieb“ oder einfach als „Aktionen“ bezeichnet.
 
-Eine Videoübersicht zu Sales Insight-Aktionen finden Sie [hier](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html?lang=de){target="_blank"}.
+Eine Videoübersicht der Sales Insight-Aktionen finden Sie [hier](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html){target="_blank"}.
 
 ![](assets/sales-insight-actions-feature-overview-1.png)
 
@@ -40,7 +40,7 @@ Die folgenden Aktionen sind im Dropdown-Menü „Aktionen auswählen“ im obere
    * Die Kampagnenaktivität wird im Marketo-Personendatensatz protokolliert.
    * Entsprechende Filter und Trigger in Marketo Smart Campaign (Details unten)
 
-* Wählhilfe
+* Verkaufsgespräch
    * Verkaufsanrufe mit dem Dialer im CRM tätigen
    * Einschließlich lokaler Präsenz, voraufgezeichnet
    * Aufrufergebnis, Aufrufaufzeichnung im Bedienfeld und Aktivitätsverlauf protokollieren
@@ -50,8 +50,8 @@ Die folgenden Aktionen sind im Dropdown-Menü „Aktionen auswählen“ im obere
 * Aufgabe hinzufügen
    * E-Mail, Anruf, InMail und benutzerdefinierte Aufgaben für Ihre Leads erstellen
    * Automatisieren der Aufgabenerstellung mit Verkaufskampagnen
-   * Synchronisieren von Aufgaben mit Salesforce
-   * Aufgaben im Salesforce-Aktivitätsverlauf protokollieren
+   * Aufgaben mit [!DNL Salesforce] synchronisieren
+   * Aufgaben [!DNL Salesforce] Abschnitt Aktivitätsverlauf protokollieren
 
 Sie können auf den Live-Feed zugreifen, indem Sie auf das Symbol (0) in der oberen Navigationsleiste klicken. Dazu gehört die Möglichkeit, Live-Updates zu Vertriebsaktivitäten zusammen mit der Bildschirm-Dockingfunktion anzuzeigen.
 
@@ -60,7 +60,7 @@ Sie können auf den Live-Feed zugreifen, indem Sie auf das Symbol (0) in der obe
 Die folgenden Daten sind auf den Registerkarten im MSI-Bedienfeld verfügbar:
 
 * Insights-Dashboard
-   * Das Interaktionsgeschwindigkeitsraster enthält Aktivitäten aus Sales-E-Mails, Sales-Kampagnen-Aktionen und Sales-Dialer
+   * Das Interaktionsgeschwindigkeits-Raster enthält Aktivitäten aus Verkaufs-E-Mails, Verkaufskampagnen-Aktionen und Verkaufsanrufen
    * Anstehende Verkaufskampagnen : Wenn ein Lead Teil einer laufenden Kampagne ist, sind diese Informationen auf der Registerkarte Anstehende Verkaufskampagnen verfügbar
    * Anstehende Aufgaben - Wenn eine anstehende Aufgabe in Bezug auf einen Lead vorhanden ist, sind diese Informationen auf der Registerkarte Anstehende Aufgaben verfügbar.
 
@@ -97,7 +97,7 @@ Sie können auf den Live-Feed zugreifen, indem Sie auf das Symbol (0) in der obe
 Folgende Daten sind auf den Registerkarten verfügbar:
 
 * Insights-Dashboard
-   * Das Interaktionsgeschwindigkeitsraster enthält Aktivitäten aus Sales-E-Mails, Sales-Kampagnen-Aktionen und dem Sales Dialer
+   * Das Interaktionsgeschwindigkeits-Raster enthält Aktivitäten aus Sales-E-Mails, Sales-Kampagnenaktionen und dem Sales-Call
    * Anstehende Verkaufskampagnen : Wenn ein Kontakt aus dem Konto/der Opportunity Teil einer laufenden Kampagne ist, sind diese Informationen auf der Registerkarte Anstehende Verkaufskampagnen verfügbar
    * Anstehende Aufgaben - Wenn eine anstehende Aufgabe mit einem Kontakt aus dem Konto/der Opportunity verknüpft ist, sind diese Informationen auf der Registerkarte Anstehende Aufgaben verfügbar.
 
@@ -113,28 +113,28 @@ Folgende Daten sind auf den Registerkarten verfügbar:
 
 ## Lead- und Kontaktlistenansicht (Massenaktionen) {#lead-and-contact-list-view}
 
-* Verkaufs-E-Mail senden - Möglichkeit, personalisierte oder vorlagenbasierte E-Mails mit Ansicht-, Klick- und Antwort-Tracking an eine Liste von Kontakten/Leads zu senden
-* Verkaufskampagne senden - Zu Verkaufs-Playbooks hinzufügen, das ist eine Abfolge von E-Mails und Aufgaben zu einer Liste von Kontakten/Leads
+* [!UICONTROL Verkaufs-E-Mail senden] - Möglichkeit, personalisierte oder vorlagenbasierte E-Mails mit Ansicht-, Klick- und Antwort-Tracking an eine Liste von Kontakten/Leads zu senden
+* [!UICONTROL Zu Vertriebskampagne hinzufügen] - Zu Verkaufs-Playbooks hinzufügen, das eine Abfolge von E-Mails und Aufgaben zu einer Liste von Kontakten/Leads ist
 
 ## Registerkarte &quot;Marketo Global“ {#marketo-global-tab}
 
-**Registerkarte „Best Bets“**
+**[!UICONTROL Best Bets]-Registerkarte**
 
 ![](assets/sales-insight-actions-feature-overview-3.png)
 
-Die folgenden Massenaktionen sind aus der Dropdown-Liste auf der Registerkarte Best Practices verfügbar:
+Die folgenden Massenaktionen sind aus der Dropdown-Liste auf der Registerkarte [!UICONTROL Best Bets] verfügbar:
 
-* Verkaufs-E-Mail senden - Möglichkeit zum Senden personalisierter oder vorlagenbasierter E-Mails mit Ansicht-, Klick- und Antwort-Tracking
-* Verkaufskampagne senden - Fügen Sie Leads zu Verkaufs-Playbooks hinzu, was eine Sequenz von E-Mails und Aufgaben ist
+* [!UICONTROL Verkaufs-E-Mail senden] - Möglichkeit zum Senden personalisierter oder vorlagenbasierter E-Mails mit Ansicht-, Klick- und Antwort-Tracking
+* [!UICONTROL Zu Vertriebskampagne hinzufügen] - Hinzufügen von Leads zu Verkaufs-Playbooks, d. h. einer Sequenz von E-Mails und Aufgaben
 
   ![](assets/sales-insight-actions-feature-overview-4.png)
 
-Die folgenden Inline-Aktionen sind für einzelne Leads/Kontakte auf der Registerkarte Best Bets verfügbar:
+Die folgenden Inline-Aktionen sind für einzelne Leads/Kontakte auf der Registerkarte [!UICONTROL Best Bets] verfügbar:
 
-* Verkaufs-E-Mail senden - Möglichkeit zum Senden personalisierter oder vorlagenbasierter E-Mails mit Ansicht-, Klick- und Antwort-Tracking
-* Verkaufskampagne senden - Fügen Sie Leads zu Verkaufs-Playbooks hinzu, was eine Sequenz von E-Mails und Aufgaben ist
-* Verkaufs-Dialer - Führen Sie Verkaufsanrufe mit dem Dialer im CRM durch.
-* Aufgabe hinzufügen : Erstellen von E-Mail-, Anruf-, Kunden- oder LinkedIn-Aufgaben für potenzielle Leads
+* [!UICONTROL Verkaufs-E-Mail senden] - Möglichkeit zum Senden personalisierter oder vorlagenbasierter E-Mails mit Ansicht-, Klick- und Antwort-Tracking
+* [!UICONTROL Zu Vertriebskampagne hinzufügen] - Hinzufügen von Leads zu Verkaufs-Playbooks, d. h. einer Sequenz von E-Mails und Aufgaben
+* [!UICONTROL Verkaufsanruf] - Führen Sie Verkaufsanrufe mit dem Dialer im CRM durch
+* [!UICONTROL Aufgabe hinzufügen] - E-Mail-, Anruf-, Kunden- oder LinkedIn-Aufgaben für potenzielle Leads erstellen
 
   ![](assets/sales-insight-actions-feature-overview-5.png)
 
@@ -154,15 +154,15 @@ Die folgenden Inline-Aktionen sind für einzelne Leads/Kontakte auf der Register
 
 * Erstellte und abgeschlossene E-Mail-, Anruf-, InMail- und benutzerdefinierte Aufgaben stehen auf dieser Registerkarte für die Aufgabenverwaltung zur Verfügung. Umfasst die Möglichkeit, Aufgaben hinzuzufügen
 * Automatisieren der Aufgabenerstellung mit Verkaufskampagnen
-* Synchronisieren von Aufgaben mit Salesforce
-* Aufgaben im Salesforce-Aktivitätsverlauf protokollieren
+* Aufgaben mit [!DNL Salesforce] synchronisieren
+* Aufgaben [!DNL Salesforce] Abschnitt Aktivitätsverlauf protokollieren
 
   ![](assets/sales-insight-actions-feature-overview-6.png)
 
 **Live-Feed**
 
 * Möglichkeit, Live-Updates zu Vertriebsaktivitäten zusammen mit der Bildschirm-Dockingfunktion anzuzeigen
-* Eingebettete E-Mail-, Anruf- und Kadenz-Schaltflächen machen jeden Kundeneinblick umsetzbar
+* Eingebettete E-Mail-, Anruf- und Kadenz-Schaltflächen machen jeden Kunden-insight umsetzbar
 
 ## In Marketo verfügbare Funktionen {#features-available-in-marketo}
 
@@ -172,18 +172,18 @@ Vertriebsaktivitäten, die in Marketo erfasst werden:
 * Verkaufs-E-Mail öffnen - Lead hat eine gesendete Verkaufs-E-Mail geöffnet
 * Auf Verkaufs-E-Mail klicken - Lead hat auf einen Link in einer Verkaufs-E-Mail geklickt
 * E-Mail zum Verkauf beantwortet - Lead hat auf E-Mail zum Verkauf geantwortet
-* Verkaufsanruf empfangen - Der Lead hat einen Anruf von einem Vertriebsmitarbeiter über die Verkaufs-Wählhilfe erhalten.
+* Verkaufsanruf empfangen - Der Lead hat einen Anruf von einem Vertriebsmitarbeiter mithilfe des Verkaufsanrufs erhalten.
 * Zur Verkaufskampagne hinzufügen - Lead wurde zu einer erstellten Verkaufskampagne hinzugefügt
 * Aus Vertriebskampagne entfernt - Lead wurde aus einer erstellten Vertriebskampagne entfernt
 
 Zu den Filtern und Triggern gehören:
 
-* Verkaufs-E-Mail senden
-* Geöffnete Verkaufs-E-Mail
-* Verkaufs-E-Mail angeklickt
-* Hat auf Vertriebsemail geantwortet
-* Hat Verkaufsanruf empfangen
-* Zu Kampagne hinzugefügt
-* Aus Verkaufskampagne entfernt
+* [!UICONTROL Wird per Verkaufs-E-Mail gesendet]
+* [!UICONTROL Öffnet Verkaufs-E-Mail]
+* [!UICONTROL Klicks auf Verkaufs-E-]
+* [!UICONTROL Antworten auf Verkaufs-E-Mails]
+* [!UICONTROL Erhält einen Verkaufsanruf]
+* [!UICONTROL Zu Vertriebskampagne hinzugefügt]
+* [!UICONTROL Aus Vertriebskampagne entfernt]
 
   ![](assets/sales-insight-actions-feature-overview-7.png)

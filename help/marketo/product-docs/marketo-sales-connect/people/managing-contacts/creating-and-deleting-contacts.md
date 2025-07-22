@@ -4,7 +4,7 @@ description: Kontakte erstellen und löschen - Marketo-Dokumente - Produktdokume
 title: Kontakte erstellen und löschen
 exl-id: 04e2887b-8515-4d48-8a94-ccff00805210
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 ## Kontakte erstellen {#creating-contacts}
 
-1. Klicken Sie auf der Seite „Personen **auf die Schaltfläche „Gruppenaktionen** und wählen Sie **Kontakt erstellen**.
+1. Klicken Sie auf der [!UICONTROL Personen]-Seite auf die Schaltfläche **[!UICONTROL Gruppenaktionen]** und wählen Sie **[!UICONTROL Kontakt erstellen]**.
 
    ![](assets/one-2.png)
 
-1. Geben Sie den Vor-/Nachnamen und die E-Mail-Adresse sowie weitere Informationen ein, die Sie benötigen. Klicken Sie **Erstellen** wenn Sie fertig sind, oder **Erstellen und Neu hinzufügen** um weitere Kontakte hinzuzufügen.
+1. Geben Sie den Vor-/Nachnamen und die E-Mail-Adresse sowie weitere Informationen ein, die Sie benötigen. Klicken Sie **[!UICONTROL Erstellen]** wenn Sie fertig sind, oder **[!UICONTROL Erstellen und Neu hinzufügen]** um weitere Kontakte hinzuzufügen.
 
    ![](assets/two-2.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 ## Löschen von Kontakten {#deleting-contacts}
 
-1. Aktivieren Sie auf der Seite Personen das Kontrollkästchen des Kontakts, den Sie löschen möchten.
+1. Aktivieren [!UICONTROL  auf der ] „Personen“ das Kontrollkästchen des Kontakts, den Sie löschen möchten.
 
    ![](assets/three-2.png)
 
@@ -37,10 +37,10 @@ ht-degree: 0%
    >
    >Um mehrere Kontakte zu löschen, wählen Sie einfach mehrere Personen aus. Die restlichen Schritte wären dieselben.
 
-1. Klicken Sie auf die Punkte (drei vertikale Punkte) und wählen Sie **Löschen**.
+1. Klicken Sie auf die Punkte (drei vertikale Punkte) und wählen Sie **[!UICONTROL Löschen]**.
 
    ![](assets/four-2.png)
 
-1. Klicken Sie **Kontakt löschen** zur Bestätigung.
+1. Klicken Sie **[!UICONTROL Kontakt löschen]** zur Bestätigung.
 
    ![](assets/five-2.png)

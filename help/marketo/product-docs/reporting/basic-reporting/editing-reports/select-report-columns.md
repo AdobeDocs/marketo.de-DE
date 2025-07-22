@@ -4,7 +4,7 @@ description: Berichtsspalten auswählen - Marketo-Dokumente - Produktdokumentati
 title: Berichtsspalten auswählen
 exl-id: 11357993-7b29-41cb-a376-06de387d1e92
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Sie können auswählen, welche Spalten in Ihrem Bericht enthalten sind und welche nicht.
 
-1. Wechseln Sie zum Bereich **Analytics** (oder **Marketing-**).
+1. Wechseln Sie zum Bereich **[!UICONTROL Analytics]** (oder **[!UICONTROL Marketing-]**).
 
    ![](assets/image2014-9-16-10-3a43-3a0.png)
 
@@ -23,7 +23,7 @@ Sie können auswählen, welche Spalten in Ihrem Bericht enthalten sind und welch
 
    ![](assets/image2014-9-16-10-3a43-3a5.png)
 
-1. Klicken Sie auf **Registerkarte** Bericht), klicken Sie auf eine beliebige Spaltenüberschrift und wählen Sie **Spalten** aus. Wählen Sie dann die einzuschließenden Spalten aus.
+1. Klicken Sie auf **[!UICONTROL Registerkarte]** Bericht), klicken Sie auf eine beliebige Spaltenüberschrift und wählen Sie **[!UICONTROL Spalten]** aus. Wählen Sie dann die einzuschließenden Spalten aus.
 
    ![](assets/image2014-9-16-10-3a43-3a9.png)
 

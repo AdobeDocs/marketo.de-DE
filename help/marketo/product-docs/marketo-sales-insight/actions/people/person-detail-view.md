@@ -5,20 +5,20 @@ hide: true
 hidefromtoc: true
 exl-id: 3d172daa-745d-44f9-8460-40866d0247a1
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '284'
 ht-degree: 0%
 
 ---
 
 # Personendetailansicht {#person-detail-view}
 
-Die Personendetailansicht bietet ein detailliertes Profil jeder Person in Ihrem Marketo-Kundenkonto.
+Die Personendetailansicht bietet ein detailliertes Profil jeder Person in Ihrem [!DNL Marketo Sales].
 
 ## Zugriff {#how-to-access}
 
-1. Um auf die Personendetailansicht zuzugreifen, klicken Sie auf die Registerkarte **Personen**.
+1. Um auf die Personendetailansicht zuzugreifen, klicken Sie auf die Registerkarte **[!UICONTROL Personen]**.
 
    ![](assets/person-detail-view-1.png)
 
@@ -46,8 +46,8 @@ Enthält alle Kontaktinformationen der Person.
 
 **Kontoinformationen**
 
-* Kann eine Person zu Salesforce hinzufügen
-* Abrufen von Konto- und Lead-/Kontaktinformationen aus Salesforce
+* Kann eine Person zu [!DNL Salesforce] hinzufügen
+* Konto- und Lead-/Kontaktinformationen aus [!DNL Salesforce] abrufen
 
 **Benutzerdefinierte Felder**
 

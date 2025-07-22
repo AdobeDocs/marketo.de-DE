@@ -1,18 +1,18 @@
 ---
-description: Interessante Momente in Sales-Insight-Aktionen - Marketo-Dokumente - Produktdokumentation
+description: Interessante Momente in Sales Insight-Aktionen - Marketo-Dokumente - Produktdokumentation
 title: Interessante Momente in Sales Insight-Aktionen
 exl-id: b2423fbb-9ce0-4ce9-bc26-93aa69aa9e12
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
 
-# Interessante Momente in Sales Insight-Aktionen {#interesting-moments-in-sales-insight-actions}
+# Interessante Momente in [!DNL Sales Insight Actions] {#interesting-moments-in-sales-insight-actions}
 
-Interessante Momente sind der Schlüssel zur Kommunikation mit Ihrem Vertriebsteam durch Marketo Sales Insight-Aktionen.
+Interessante Momente sind der Schlüssel zur Kommunikation mit Ihrem Vertriebsteam über [!DNL Marketo Sales Insight Actions].
 
 ## Was ist ein interessanter Moment? {#what-is-an-interesting-moment}
 
@@ -28,7 +28,7 @@ Das liegt an dir! Sie entscheiden, welche Informationen für Ihr Vertriebsteam r
 
    ![](assets/interesting-moments-in-sales-insight-actions-1.png)
 
-1. Ziehen Sie über den **Interessante Momente** Flussschritt.
+1. Ziehen Sie über den **[!UICONTROL Interessante Momente]** Flussschritt.
 
    ![](assets/interesting-moments-in-sales-insight-actions-2.png)
 
@@ -36,7 +36,7 @@ Das liegt an dir! Sie entscheiden, welche Informationen für Ihr Vertriebsteam r
 
    ![](assets/interesting-moments-in-sales-insight-actions-3.png)
 
-1. Schreiben Sie eine Nachricht an Ihr Vertriebsteam im Feld **Beschreibung**, in der erläutert wird, warum diese Aktion wichtig ist.
+1. Schreiben Sie eine Nachricht an Ihr Vertriebsteam im Feld **[!UICONTROL Beschreibung]**, in der erläutert wird, warum diese Aktion wichtig ist.
 
    ![](assets/interesting-moments-in-sales-insight-actions-4.png)
 
@@ -50,8 +50,8 @@ Interessante Momente werden im Aktivitätsprotokoll eines [Leads) ](/help/market
 
 ![](assets/interesting-moments-in-sales-insight-actions-5.png)
 
-## Wie sieht ein interessanter Moment in Sales Insight-Aktionen aus? {#what-does-an-interesting-moment-look-like-in-sales-insight-actions}
+## Wie sieht ein interessanter Moment in [!DNL Sales Insight Actions] aus? {#what-does-an-interesting-moment-look-like-in-sales-insight-actions}
 
-Interessante Momente werden in Echtzeit im Live-Feed eines Benutzers angezeigt. Wir verwenden die Lead-Eigentümer-ID in Salesforce, um den Nutzern die interessanten Momente relevanter Leads zu zeigen, deren Besitzer sie sind. Benutzer können Leads schnell über E-Mail/Telefon/Verkaufskampagne verfolgen, indem sie auf die Dropdown-Liste neben dem Namen des Leads klicken.
+Interessante Momente werden in Echtzeit im Live-Feed eines Benutzers angezeigt. Wir verwenden die Lead-Eigentümer-ID in [!DNL Salesforce], um den Benutzern die interessanten Momente relevanter Leads zu zeigen, deren Besitzer sie sind. Benutzer können Leads schnell über E-Mail/Telefon/Verkaufskampagne verfolgen, indem sie auf die Dropdown-Liste neben dem Namen des Leads klicken.
 
 ![](assets/interesting-moments-in-sales-insight-actions-6.png)

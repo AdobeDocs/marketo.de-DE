@@ -4,9 +4,9 @@ description: Genehmigung eines Umsatzmodells erteilen/aufheben - Marketo-Dokumen
 title: Genehmigung eines Umsatzmodells erteilen/aufheben
 exl-id: 2b0818c7-8a4e-4f92-bb95-1f6f77be1a90
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '156'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,7 @@ Es kann immer nur ein genehmigtes Modell zur Verfügung stehen.
 
 ## Genehmigen {#approve}
 
-1. Wechseln Sie zum Bereich **Analytics**.
+1. Wechseln Sie zum Bereich **[!UICONTROL Analytics]**.
 
    ![](assets/image2017-3-28-8-3a9-3a16.png)
 
@@ -29,11 +29,11 @@ Es kann immer nur ein genehmigtes Modell zur Verfügung stehen.
 
    ![](assets/image2015-4-28-13-3a25-3a17.png)
 
-1. Wählen Sie im Menü **Modellaktionen** die Option **Modell genehmigen** aus.
+1. Wählen Sie im Menü **[!UICONTROL Modellaktionen]** die Option **[!UICONTROL Modell genehmigen]** aus.
 
    ![](assets/image2015-4-28-14-3a6-3a3.png)
 
-1. Es wird ein Dialogfeld angezeigt, um Ihre Auswahl zu bestätigen. Klicken Sie **Genehmigen**.
+1. Es wird ein Dialogfeld angezeigt, um Ihre Auswahl zu bestätigen. Klicken Sie **[!UICONTROL Genehmigen]**.
 
    ![](assets/image2015-4-28-14-3a6-3a49.png)
 
@@ -45,7 +45,7 @@ Ihr Modell ist jetzt live!
 >
 >Wenn Sie die Genehmigung für Ihr Modell aufheben, werden alle Ihre Personen aus dem Modell entfernt und ihr Verlauf im Modell wird gelöscht!
 
-1. Wechseln Sie zum Bereich **Analytics**.
+1. Wechseln Sie zum Bereich **[!UICONTROL Analytics]**.
 
    ![](assets/image2017-3-28-8-3a9-3a30.png)
 
@@ -53,11 +53,11 @@ Ihr Modell ist jetzt live!
 
    ![](assets/image2015-4-28-13-3a25-3a17.png)
 
-1. Klicken Sie auf das **Modell-Aktionen** und wählen Sie **Modell nicht genehmigen** aus.
+1. Klicken Sie auf das **[!UICONTROL Modell-Aktionen]** und wählen Sie **[!UICONTROL Modell nicht genehmigen]** aus.
 
    ![](assets/image2015-4-28-13-3a28-3a0.png)
 
-1. Klicken Sie im angezeigten Dialogfeld auf **Modell nicht genehmigen**.
+1. Klicken Sie im [!UICONTROL Modell nicht genehmigen] angezeigten Dialogfeld auf **[!UICONTROL Genehmigung aufheben]**.
 
    ![](assets/image2017-3-28-8-3a21-3a9.png)
 

@@ -4,7 +4,7 @@ description: Erstellen eines Segments mithilfe einer Kontenliste - Marketo-Dokum
 title: Erstellen eines Segments mithilfe einer Kontoliste
 exl-id: 73179ed9-2f9b-46df-abfa-6e8ebb645cc5
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 4%
@@ -19,15 +19,15 @@ So erstellen Sie ein Segment mithilfe einer Kontoliste.
 >
 >[Erstellen einer neuen Kontoliste](/help/marketo/product-docs/target-account-management/target/account-lists.md)
 
-1. Navigieren Sie zu **Segmente**.
+1. Navigieren Sie zu **[!UICONTROL Segmente]**.
 
    ![](assets/new-dropdown-segments-hand-no-account-list.jpg)
 
-1. Klicken Sie auf **Neu erstellen**.
+1. Klicken Sie auf **[!UICONTROL Neu erstellen]**.
 
    ![](assets/image2014-11-19-19-3a33-3a47.png)
 
-1. Geben Sie einen Namen für das Segment ein. Ziehen Sie &quot;**&quot; per Drag-and** Drop aus dem Abschnitt **Firmografien**.
+1. Geben Sie einen Namen für das Segment ein. Ziehen Sie &quot;**[!UICONTROL &quot; per Drag-and]** Drop aus dem Abschnitt **[!UICONTROL Firmografien]**.
 
    ![](assets/set-segment-hands.jpg)
 
@@ -39,7 +39,7 @@ So erstellen Sie ein Segment mithilfe einer Kontoliste.
    >
    >Account-Listen werden zur Verwendung in der Segmentierung von ABM mit Web Personalization synchronisiert. Wählen Sie sie aus der Dropdownliste aus. Die Synchronisierung kann bis zu fünf Minuten dauern. Er wird nur synchronisiert, wenn sich in der Kontoliste mindestens ein benanntes Konto befindet.
 
-1. Klicken Sie **Speichern** oder klicken Sie auf **Speichern und Kampagne definieren**, um zur Seite Kampagnen zu gelangen.
+1. Klicken Sie **[!UICONTROL Speichern]** oder klicken Sie auf **[!UICONTROL Speichern und Kampagne definieren]**, um zur Seite Kampagnen zu gelangen.
 
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 

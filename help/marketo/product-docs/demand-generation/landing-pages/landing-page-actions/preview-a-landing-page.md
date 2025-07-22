@@ -4,7 +4,7 @@ description: Vorschau einer Landingpage - Marketo-Dokumente - Produktdokumentati
 title: Vorschau einer Landingpage
 exl-id: fa786e68-9dd6-479d-9e9b-5acd3e323cef
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 1%
@@ -17,7 +17,7 @@ Sie möchten wahrscheinlich sehen, wie Ihre Landingpage aussieht, bevor Sie sie 
 
 ## Vorschau einer Landingpage {#preview-a-landing-page-1}
 
-1. Wählen Sie eine Landingpage aus und klicken Sie auf **Vorschau der Seite**.
+1. Wählen Sie eine Landingpage aus und klicken Sie auf **[!UICONTROL Vorschau der Seite]**.
 
    ![](assets/image2014-9-16-16-3a21-3a10.png)
 
@@ -25,27 +25,27 @@ Sie möchten wahrscheinlich sehen, wie Ihre Landingpage aussieht, bevor Sie sie 
    >
    >Der Entwurf ist die Version, an der Sie arbeiten, nicht die Live-Version, die Kundinnen und Kunden sehen.
 
-1. Sie können auch mit der rechten Maustaste auf Ihre Landingpage klicken und **Vorschau** auswählen.
+1. Sie können auch mit der rechten Maustaste auf Ihre Landingpage klicken und **[!UICONTROL Vorschau]** auswählen.
 
    ![](assets/image2014-9-17-10-3a9-3a49.png)
 
 ## Vorschau eines Landingpage-Entwurfs {#preview-a-landing-page-draft}
 
-1. Klicken Sie mit der rechten Maustaste auf eine genehmigte Landingpage mit einer Entwurfsversion und klicken Sie auf **Vorschau des Entwurfs**.
+1. Klicken Sie mit der rechten Maustaste auf eine genehmigte Landingpage mit einer Entwurfsversion und klicken Sie auf **[!UICONTROL Vorschau des Entwurfs]**.
 
    ![](assets/image2014-9-17-10-3a9-3a56.png)
 
 ## Vorschau eines Landingpage-Entwurfs beim Bearbeiten {#preview-a-landing-page-draft-while-editing}
 
-1. Wählen Sie eine Landingpage aus und klicken Sie auf **Entwurf bearbeiten**.
+1. Wählen Sie eine Landingpage aus und klicken Sie auf **[!UICONTROL Entwurf bearbeiten]**.
 
    ![](assets/image2014-9-17-10-3a10-3a4.png)
 
-1. Sie können während Ihrer Arbeit im Landingpage-Editor jederzeit auf „Entwurf **&quot;**.
+1. Sie können während Ihrer Arbeit im Landingpage-Editor jederzeit auf „Entwurf **[!UICONTROL &quot;]**.
 
    ![](assets/image2015-5-21-15-3a48-3a59.png)
 
-1. Sie können schnell zur Bearbeitung zurückkehren, indem Sie auf **Entwurf bearbeiten** klicken.
+1. Sie können schnell zur Bearbeitung zurückkehren, indem Sie auf **[!UICONTROL Entwurf bearbeiten]** klicken.
 
    ![](assets/image2014-9-17-10-3a10-3a20.png)
 

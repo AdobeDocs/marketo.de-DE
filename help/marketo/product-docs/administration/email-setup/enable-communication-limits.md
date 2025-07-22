@@ -4,9 +4,9 @@ description: Kommunikationsbeschränkungen aktivieren - Marketo-Dokumente - Prod
 title: Kommunikationsbeschränkungen aktivieren
 exl-id: c69c083c-08fe-49fc-91d4-5b1ff82a2e52
 feature: Email Setup
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '157'
 ht-degree: 3%
 
 ---
@@ -63,7 +63,7 @@ Es ist sehr wichtig, mit seinen Leuten nicht zu viel zu kommunizieren. Das Festl
    >
    >**Beispiel**
    >
-   >Die oben genannten Einstellungen bedeuten, dass Personen nicht mehr als **1 E-Mail pro Tag** mehr als **5 in einem Zeitraum von sieben Tagen erhalten**.
+   >Die oben genannten Einstellungen bedeuten, dass Personen nicht mehr als **E-Mail pro Tag** oder mehr als **5 in einem Zeitraum von sieben Tagen erhalten**.
 
    >[!NOTE]
    >
@@ -71,4 +71,4 @@ Es ist sehr wichtig, mit seinen Leuten nicht zu viel zu kommunizieren. Das Festl
 
 >[!MORELIKETHIS]
 >
->[Wenden Sie Kommunikationsbeschränkungen auf Smart Campaign an](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
+>[Kommunikationsbeschränkungen anwenden auf [!DNL Smart Campaign]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)

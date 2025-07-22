@@ -4,20 +4,20 @@ description: Programmstatus und Salesforce-Kampagnenstatus vor der Synchronisier
 title: Programmstatus und Salesforce-Kampagnenstatus vor der Synchronisierung abgleichen
 exl-id: 623676ff-ce63-484f-8467-71127fa40fe0
 feature: Salesforce Integration
-source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '223'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
 
-# Programmstatus und Salesforce-Kampagnenstatus vor der Synchronisierung abgleichen {#how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync}
+# Programmstatus und [!DNL Salesforce] Kampagnenstatus vor der Synchronisierung abgleichen {#how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync}
 
-In diesem Artikel wird beschrieben, wie Sie einen inkompatiblen Statusfehler beheben und Status vor der Synchronisierung von Marketo-Programm und Salesforce Campaign zuordnen können.
+In diesem Artikel wird beschrieben, wie Sie einen inkompatiblen Statusfehler beheben und Status vor der Synchronisierung von Marketo-Programmen und [!DNL Salesforce] Campaign zuordnen können.
 
 ## Was tun, wenn Sie eine Fehlermeldung erhalten haben {#what-do-you-do-if-you-received-an-error-message}
 
-Wenn Sie versuchen, eine Synchronisierung mit einer bestehenden Salesforce-Kampagne durchzuführen, die Leads enthält und die Kampagne einen oder mehrere inkompatible Status aufweist, wird eine Fehlermeldung angezeigt. Ein Marketo-Programm und eine Salesforce *Kampagne* nicht synchronisiert, wenn die Status nicht exakt übereinstimmen.
+Wenn Sie versuchen, eine Synchronisierung mit einer vorhandenen [!DNL Salesforce]-Kampagne durchzuführen, die Leads enthält und die Kampagne einen oder mehrere inkompatible Status aufweist, wird eine Fehlermeldung angezeigt. Ein Marketo-Programm und eine [!DNL Salesforce]-*werden nicht synchronisiert* wenn die Status nicht exakt übereinstimmen.
 
 ![](assets/image2015-7-22-9-3a23-3a29.png)
 

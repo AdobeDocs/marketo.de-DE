@@ -4,32 +4,32 @@ description: Implementieren von RTP in WordPress Enterprise - Marketo-Dokumente 
 title: Implementieren von RTP in WordPress Enterprise
 exl-id: 61cfd3f8-0811-4352-9752-0081ce19257b
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '106'
 ht-degree: 1%
 
 ---
 
 # Implementieren von RTP in WordPress Enterprise {#implementing-rtp-on-wordpress-enterprise}
 
-Um Ihr RTP-Tag zu implementieren, befolgen Sie die folgenden Installationsanweisungen:
+Um Ihr [!UICONTROL RTP-Tag ] implementieren, folgen Sie den folgenden Installationsanweisungen:
 
-1. Navigieren Sie **Kontoeinstellungen**.
+1. Navigieren Sie **[!UICONTROL Kontoeinstellungen]**.
 
    a. Wenn Sie Ihr JavaScript-Tag bereits vom Support erhalten haben, fahren Sie mit Schritt 3 fort.
 
    ![](assets/image2014-11-30-15-3a19-3a21-3.png)
 
-1. Suchen Sie unter „Domain“ nach der entsprechenden Domain und klicken Sie auf **Tag generieren**.
+1. Suchen Sie unter [!UICONTROL Domain] die entsprechende Domain und klicken Sie auf **[!UICONTROL Tag generieren]**.
 
    ![](assets/image2014-11-30-15-3a20-3a17-3.png)
 
 1. Kopieren Sie das RTP-JavaScript-Tag.
 
-1. Melden Sie sich bei Ihrem WordPress-Konto als Admin-Benutzer an
+1. Melden Sie sich bei Ihrem [!DNL WordPress] als Admin-Benutzer an
 
-   a. Gehen Sie **Erscheinungsbild** zu **Benutzerdefiniertes JavaScript**.
+   a. Gehen Sie **[!UICONTROL Erscheinungsbild]** zu **[!UICONTROL Benutzerdefiniertes JavaScript]**.
 b. Fügen Sie das RTP-JavaScript-Tag direkt nach dem vorhandenen Code ein.
 
    ![](assets/image2014-12-3-17-3a51-3a46.png)
@@ -45,4 +45,4 @@ b. Fügen Sie das RTP-JavaScript-Tag direkt nach dem vorhandenen Code ein.
    >
    >Fügen Sie das Skript NUR selbst ein.
 
-1. Klicken Sie auf **Aktualisieren**.
+1. Klicken Sie auf **[!UICONTROL Aktualisieren]**.

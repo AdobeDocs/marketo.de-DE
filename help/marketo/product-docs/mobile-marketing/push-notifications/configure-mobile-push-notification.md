@@ -4,7 +4,7 @@ description: Mobile Push-Benachrichtigung konfigurieren - Marketo-Dokumente - Pr
 title: Mobile Push-Benachrichtigung konfigurieren
 exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
 feature: Mobile Marketing
-source-git-commit: 7007c9f61bac2d5b860e166f285c87f565683933
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '445'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Mobile Push-Benachrichtigung konfigurieren {#configure-mobile-push-notification}
 
-1. Navigieren Sie zum Bereich **Marketing** Aktivitäten.
+1. Navigieren Sie zum Bereich **[!UICONTROL Marketing]** Aktivitäten.
 
    ![](assets/configure-mobile-push-notification-1.png)
 
-1. Wählen Sie Ihr Push-Asset aus und klicken Sie auf **Entwurf bearbeiten**.
+1. Wählen Sie Ihr Push-Asset aus und klicken Sie auf **[!UICONTROL Entwurf bearbeiten]**.
 
    ![](assets/configure-mobile-push-notification-2.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
    >
    >Wenn Ihre Push-Benachrichtigung nur für eine Plattform gilt (z. B. iOS), können Sie die andere Plattform ausschließen, indem Sie deren Selektor manuell auf &quot;**&quot;**.
 
-1. Klicken Sie auf **Weiter**.
+1. Klicken Sie auf **[!UICONTROL Weiter]**.
 
    ![](assets/configure-mobile-push-notification-4.png)
 
@@ -43,13 +43,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Es gibt drei Arten von Tipp-Aktionen:
+   >Es gibt drei Arten von [!UICONTROL Tipp-Aktionen]:
    >
    >**Launch App** - **Diese App** öffnet die Startseite Ihrer App, wenn auf die Benachrichtigung getippt wird. **Benutzerdefiniert** verwendet einen Deep-Link, um andere Bereiche Ihrer App oder einer anderen App zu öffnen, zu der Sie den Link haben (weitere Informationen finden [ unter Deep-Link-](#deep-link-uris)).
    >
-   >**Landingpage** - Bringt Sie zu einer bestimmten Marketo-Landingpage.
+   >**[!UICONTROL Landingpage]** - Bringt Sie zu einer bestimmten Marketo-Landingpage.
    >
-   >**Externe URL** - Bringt Sie zu einer Landingpage, die nicht zu Marketo gehört.
+   >**[!UICONTROL Externe URL]** - Bringt Sie zu einer Landingpage, die nicht zu Marketo gehört.
 
 1. Um einen Deep-Link für eine benutzerdefinierte Tipp-Aktion einzufügen, wählen Sie **Benutzerdefiniert** und geben Sie den [Deep-Link-URI](#deep-link-uris) in das Feld ein.
 
@@ -63,11 +63,11 @@ ht-degree: 0%
 
    ![](assets/configure-mobile-push-notification-7.png)
 
-1. Zeigen Sie eine Vorschau der anderen Plattform an und klicken Sie auf **Beenden**.
+1. Zeigen Sie eine Vorschau der anderen Plattform an und klicken Sie auf **[!UICONTROL Beenden]**.
 
    ![](assets/configure-mobile-push-notification-8.png)
 
-1. Klicken Sie **Genehmigen und schließen**.
+1. Klicken Sie **[!UICONTROL Genehmigen und schließen]**.
 
    ![](assets/configure-mobile-push-notification-9.png)
 
@@ -81,7 +81,7 @@ Ein Deep-Link-URI besteht aus drei Teilen: Schemaname, Pfad und Kennung. Im folg
 
 ![](assets/configure-mobile-push-notification-10.png)
 
-Die Deep-Link-Struktur Ihrer App kann sich jedoch vom obigen Beispiel unterscheiden. Ihr Entwickler hat viele Optionen zum Definieren von Deep-Link-URIs. Bitten Sie Ihren Entwickler daher, Ihnen die URIs (Links) für die Seiten zu senden, die Sie verwenden möchten. Dadurch wird sichergestellt, dass die URIs, die Sie in Push-Nachrichten eingeben, an die richtigen Stellen zeigen. Ihr Entwickler kann [weitere Informationen finden Sie hier](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
+Die Deep-Link-Struktur Ihrer App kann sich jedoch vom obigen Beispiel unterscheiden. Ihr Entwickler hat viele Optionen zum Definieren von Deep-Link-URIs. Bitten Sie Ihren Entwickler daher, Ihnen die URIs (Links) für die Seiten zu senden, die Sie verwenden möchten. Dadurch wird sichergestellt, dass die URIs, die Sie in Push-Nachrichten eingeben, an die richtigen Stellen zeigen. Ihr Entwickler kann [weitere Informationen finden Sie hier](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
 
 >[!MORELIKETHIS]
 >

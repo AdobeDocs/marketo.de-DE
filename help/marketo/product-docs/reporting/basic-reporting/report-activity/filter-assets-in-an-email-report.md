@@ -4,7 +4,7 @@ description: Filtern von Assets in einem E-Mail-Bericht - Marketo-Dokumente - Pr
 title: Filtern von Assets in einem E-Mail-Bericht
 exl-id: c242e566-94d0-4e20-ba81-13a8f8f0b8a9
 feature: Reporting
-source-git-commit: e396542eb13e54306b0b7620d0092716a5be182f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -27,12 +27,12 @@ Konzentrieren Sie Ihren Bericht [E](/help/marketo/product-docs/email-marketing/e
 
    ![](assets/image2014-9-16-15-3a53-3a29.png)
 
-1. Klicken Sie auf **Setup** und ziehen Sie per Drag-and-Drop über einen Filter.
+1. Klicken Sie auf **[!UICONTROL Setup]** und ziehen Sie per Drag-and-Drop über einen Filter.
 
    ![](assets/image2014-9-16-15-3a53-3a32.png)
 
-   * **Design Studio-E** Mails: Globale Assets, verwaltet im Design Studio.
-   * **E-Mails zu Marketing**-Aktivitäten: Lokale Assets in Programmen auf der Registerkarte Marketing-Aktivitäten.
+   * **[!UICONTROL Design Studio-E]** Mails: Globale Assets, verwaltet im Design Studio.
+   * **[!UICONTROL E-Mails zu Marketing]**-Aktivitäten: Lokale Assets in Programmen auf der Registerkarte Marketing-Aktivitäten.
    * **Archivierte E-Mails**: Inaktive, nicht mehr verwendete E-Mails.
 
 1. Wählen Sie die Ordner und spezifischen E-Mails aus, die in Ihren Bericht aufgenommen werden sollen.
@@ -43,7 +43,7 @@ Konzentrieren Sie Ihren Bericht [E](/help/marketo/product-docs/email-marketing/e
    >
    >Wenn Sie einen Ordner auswählen, enthält der Bericht zum Zeitpunkt der Berichtsausführung alles, was dieser Ordner enthält.
 
-1. Du bist fertig! Klicken Sie auf **Bericht**, um Ihren gefilterten Bericht anzuzeigen.
+1. Du bist fertig! Klicken Sie auf **[!UICONTROL Bericht]**, um Ihren gefilterten Bericht anzuzeigen.
 
    ![](assets/image2014-9-16-15-3a53-3a59.png)
 

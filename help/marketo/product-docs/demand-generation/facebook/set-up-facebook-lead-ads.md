@@ -4,9 +4,9 @@ description: Einrichten von Facebook-Lead-Anzeigen - Marketo-Dokumente - Produkt
 title: Facebook-Lead-Anzeigen einrichten
 exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
 feature: Integrations
-source-git-commit: 5b31abc52e9bba690e908d9ee6018cecad0080e7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '312'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Verwenden Sie [Facebook-Lead](https://www.facebook.com/business/ads/ad-objective
 
    ![](assets/set-up-facebook-lead-ads-2.png)
 
-1. Geben Sie einen **Anzeigenamen** für Ihren Dienst ein, wählen Sie den **Facebook-Lead-Anzeigen**-Dienst aus der Dropdown-Liste aus und klicken Sie auf **Erstellen**.
+1. Geben Sie einen **[!UICONTROL Anzeigenamen]** für Ihren Dienst ein, wählen Sie den **[!UICONTROL Facebook-Lead-Anzeigen]**-Dienst aus der Dropdown-Liste aus und klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/set-up-facebook-lead-ads-3.png)
 
@@ -39,31 +39,31 @@ Verwenden Sie [Facebook-Lead](https://www.facebook.com/business/ads/ad-objective
 
    >[!NOTE]
    >
-   >Das Facebook-Konto benötigt Zugriff auf alle Facebook-Geschäftsseiten, von denen Sie Lead-Anzeigen abrufen möchten.
+   >Das [!DNL Facebook]-Konto benötigt Zugriff auf alle [!DNL Facebook] Geschäftsseiten, von denen Sie Lead-Anzeigen abrufen möchten.
 
    ![](assets/set-up-facebook-lead-ads-4.png)
 
-1. Nachdem Sie sich bei Facebook angemeldet haben, kehren Sie zu Marketo zurück und klicken Sie auf **Autorisieren**.
+1. Kehren Sie nach der Anmeldung bei [!DNL Facebook] zu Marketo zurück und klicken Sie auf **[!UICONTROL Autorisieren]**.
 
    ![](assets/set-up-facebook-lead-ads-5.png)
 
-1. Klicken Sie auf **OK**, um die Installation der Marketo-App in Facebook zu akzeptieren.
+1. Klicken Sie auf **[!UICONTROL OK]**, um die Installation der Marketo-App in [!DNL Facebook] zu akzeptieren.
 
    ![](assets/set-up-facebook-lead-ads-6.png)
 
-1. Sie werden feststellen, dass Sie jetzt autorisiert sind. Klicken Sie auf **Weiter**.
+1. Sie werden feststellen, dass Sie jetzt autorisiert sind. Klicken Sie auf **[!UICONTROL Weiter]**.
 
    ![](assets/set-up-facebook-lead-ads-7.png)
 
-1. Wählen Sie die Seite(n) aus, von denen Marketo Facebook-Lead-Anzeigen abrufen soll, und klicken Sie auf **Weiter**.
+1. Wählen Sie die Seite(n) aus, von der/denen Marketo (Facebook[!UICONTROL Lead-Anzeigen] abrufen soll, und klicken Sie auf **[!UICONTROL Weiter]**.
 
    >[!TIP]
    >
-   >Wenn eine erwartete Seite nicht angezeigt wird, stellen Sie sicher, dass das für die Authentifizierung verwendete Facebook-Konto zur Facebook-Seite hinzugefügt wird, und versuchen Sie es erneut.
+   >Wenn eine erwartete Seite nicht angezeigt wird, stellen Sie sicher, dass das für die Authentifizierung verwendete [!DNL Facebook]-Konto der Seite auf der [!DNL Facebook] hinzugefügt wird, und versuchen Sie es erneut.
 
    ![](assets/set-up-facebook-lead-ads-8.png)
 
-1. Um die standardmäßigen Feldzuordnungen von Facebook zu Marketo zu akzeptieren, klicken Sie einfach auf **Erstellen**.
+1. Um standardmäßige [!DNL Facebook] zu Marketo-Feldzuordnungen zu akzeptieren, klicken Sie einfach auf **[!UICONTROL Erstellen]**.
 
    >[!TIP]
    >
@@ -71,11 +71,11 @@ Verwenden Sie [Facebook-Lead](https://www.facebook.com/business/ads/ad-objective
 
    >[!CAUTION]
    >
-   >Marketo unterstützt nicht die Zuordnung von zwei Facebook-Feldern zu einem einzigen Marketo-Feld, nur 1 zu 1. Wenn Sie 2 zu 1 zuordnen, gelangen Leads möglicherweise nicht in das Marketo-System.
+   >Marketo unterstützt nicht die Zuordnung von zwei [!DNL Facebook] zu einem einzigen Marketo-Feld, nur 1 zu 1. Wenn Sie 2 zu 1 zuordnen, gelangen Leads möglicherweise nicht in das Marketo-System.
 
    ![](assets/set-up-facebook-lead-ads-9.png)
 
-   Gut gemacht! Leads fließen in Marketo ein, sobald Sie erfolgreiche Facebook-Lead-Kampagnen durchführen.
+   Gut gemacht! Leads fließen in Marketo ein, wenn Sie [!DNL Facebook] Lead-Anzeigenkampagnen erfolgreich ausgeführt werden.
 
    ![](assets/set-up-facebook-lead-ads-10.png)
 

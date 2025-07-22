@@ -4,16 +4,16 @@ description: Auswahllistenwerte hinzufügen/entfernen - Marketo-Dokumente - Prod
 title: Auswahllistenwerte hinzufügen/entfernen
 exl-id: f1230c43-10cb-47ff-89d7-9f835b034db0
 feature: Salesforce Integration
-source-git-commit: 4045f262889d06304111288d30da893529396e81
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
 
 # Auswahllistenwerte hinzufügen/entfernen {#add-remove-picklist-values}
 
-Im Folgenden finden Sie einige Informationen zum Hinzufügen und Entfernen von Werten auf der Auswahlliste in Salesforce.
+Im Folgenden finden Sie einige Informationen zum Hinzufügen und Entfernen von Werten auf der Auswahlliste in [!DNL Salesforce].
 
 ## Auswahllistenwerte hinzufügen {#adding-picklist-values}
 
@@ -25,13 +25,13 @@ Im Folgenden finden Sie einige Informationen zum Hinzufügen und Entfernen von W
 
 ## Auswahllistenwerte entfernen {#remove-picklist-values}
 
-Wenn ein Wert der Auswahlliste aus einem Feld in Salesforce entfernt wird, müssen Sie diesen Wert manuell aus allen Formularen entfernen, in denen dieses Feld gehostet wird.
+Wenn ein Wert der Auswahlliste aus einem Feld in [!DNL Salesforce] entfernt wird, müssen Sie diesen Wert manuell aus allen Formularen entfernen, in denen dieses Feld gehostet wird.
 
 >[!NOTE]
 >
->Wenn ein Lead- und ein Kontaktfeld in Salesforce unterschiedliche Werte aufweisen, stehen die gemeinsamen Werte zum Marketo Engage zur Verfügung.
+>Wenn ein Lead- und ein Kontaktfeld in Salesforce unterschiedliche Werte aufweisen, stehen die gemeinsamen Werte zur Verwendung in Marketo Engage zur Verfügung.
 
-Wenn ein Lead- und ein Kontaktfeld in Salesforce unterschiedliche Werte aufweisen:
+Wenn ein Lead- und ein Kontaktfeld in [!DNL Salesforce] unterschiedliche Werte aufweisen:
 
 1. Wenn Sie einer Auswahlliste einen zusätzlichen Wert in SFDC hinzufügen, erhalten Sie eine Benachrichtigung.
 1. Die Benachrichtigung zeigt Ihnen, wo es verwendet wird. Sie können diesen neuen Wert jetzt bei Bedarf als Option im Formular hinzufügen.

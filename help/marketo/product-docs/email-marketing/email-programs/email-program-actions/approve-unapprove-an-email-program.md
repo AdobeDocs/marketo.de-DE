@@ -4,7 +4,7 @@ description: Genehmigen/Aufheben der Genehmigung eines E-Mail-Programms - Market
 title: Genehmigen/Aufheben der Genehmigung eines E-Mail-Programms
 exl-id: 0bfb1306-7a98-4629-9264-63cfd5d6a690
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 0%
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 Nachdem Ihr Programm startbereit ist, müssen Sie es genehmigen. So geht&#39;s:
 
-1. Navigieren Sie **Marketing-Aktivitäten**.
+1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -37,7 +37,7 @@ Nachdem Ihr Programm startbereit ist, müssen Sie es genehmigen. So geht&#39;s:
    >
    >Wenn Sie Ihr E-Mail-Programm nicht genehmigen, wird die E-Mail nicht gesendet.
 
-1. Klicken Sie unter **Kachel** Genehmigung“ auf **Programm genehmigen**.
+1. Klicken Sie unter **[!UICONTROL Kachel]** Genehmigung“ auf **[!UICONTROL Programm genehmigen]**.
 
    ![](assets/image2014-9-12-13-3a43-3a36.png)
 
@@ -53,7 +53,7 @@ Nachdem Ihr Programm startbereit ist, müssen Sie es genehmigen. So geht&#39;s:
 
 Wenn Sie es sich anders überlegen und nicht wollen, können Sie das E-Mail-Programm ablehnen.
 
-1. Navigieren Sie **Marketing-Aktivitäten**.
+1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -61,7 +61,7 @@ Wenn Sie es sich anders überlegen und nicht wollen, können Sie das E-Mail-Prog
 
    ![](assets/selectemailprogram-2.jpg)
 
-1. Klicken Sie unter **Genehmigung** Kachel einfach auf **Programm nicht genehmigen**.
+1. Klicken Sie unter **[!UICONTROL Genehmigung]** Kachel einfach auf **[!UICONTROL Programm nicht genehmigen]**.
 
    ![](assets/image2014-9-12-13-3a44-3a28.png)
 

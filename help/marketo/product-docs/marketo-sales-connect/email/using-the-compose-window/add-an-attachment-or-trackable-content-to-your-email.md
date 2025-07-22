@@ -4,16 +4,16 @@ description: Hinzufügen eines Anhangs oder verfolgbarer Inhalte zu Ihrer E-Mail
 title: Hinzufügen eines Anhangs oder verfolgbarer Inhalte zu Ihrer E-Mail
 exl-id: 06a80676-00bd-46d3-a989-ae503f7e76a6
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---
 
 # Hinzufügen eines Anhangs oder verfolgbarer Inhalte zu Ihrer E-Mail {#add-an-attachment-or-trackable-content-to-your-email}
 
-Beim Versand einer E-Mail über Sales Connect haben Sie die Möglichkeit, eine Datei als Anhang hinzuzufügen oder eine Datei zu einem herunterladbaren (und verfolgbaren) Link zu machen.
+Beim Versand einer E-Mail über [!DNL Sales Connect] haben Sie die Möglichkeit, eine Datei als Anhang hinzuzufügen oder eine Datei zu einem herunterladbaren (und verfolgbaren) Link zu machen.
 
 >[!NOTE]
 >
@@ -21,11 +21,11 @@ Beim Versand einer E-Mail über Sales Connect haben Sie die Möglichkeit, eine D
 
 ## Anlage hinzufügen {#add-an-attachment}
 
-1. Erstellen Sie Ihren E-Mail-Entwurf (es gibt mehrere Möglichkeiten, dies zu tun, in diesem Beispiel wählen wir **Erstellen** in der Kopfzeile).
+1. Erstellen Sie Ihren E-Mail-Entwurf (es gibt mehrere Möglichkeiten, dies zu tun, in diesem Beispiel wählen wir **[!UICONTROL Erstellen]** in der Kopfzeile).
 
    ![](assets/one-4.png)
 
-1. Füllen Sie das Feld An aus und geben Sie einen Betreff ein.
+1. Füllen Sie das Feld [!UICONTROL An] aus und geben Sie einen [!UICONTROL Betreff] ein.
 
    ![](assets/attach-two.png)
 
@@ -33,7 +33,7 @@ Beim Versand einer E-Mail über Sales Connect haben Sie die Möglichkeit, eine D
 
    ![](assets/attach-three.png)
 
-1. Wählen Sie die angehängte Datei aus und klicken Sie auf **Einfügen**.
+1. Wählen Sie die angehängte Datei aus und klicken Sie auf **[!UICONTROL Einfügen]**.
 
    ![](assets/attach-four.png)
 
@@ -47,11 +47,11 @@ Der Anhang wird unten in der E-Mail angezeigt.
 
 ## Tracking-Inhalte hinzufügen {#add-trackable-content}
 
-1. Erstellen Sie Ihren E-Mail-Entwurf (es gibt mehrere Möglichkeiten, dies zu tun, in diesem Beispiel wählen wir das Fenster Erstellen ).
+1. Erstellen Sie Ihren E-Mail-Entwurf (es gibt mehrere Möglichkeiten, dies zu tun, in diesem Beispiel wählen wir das Fenster [!UICONTROL Erstellen]).
 
    ![](assets/one-4.png)
 
-1. Füllen Sie das Feld An aus und geben Sie einen Betreff ein.
+1. Füllen Sie das Feld [!UICONTROL An] aus und geben Sie einen [!UICONTROL Betreff] ein.
 
    ![](assets/two-4.png)
 
@@ -59,7 +59,7 @@ Der Anhang wird unten in der E-Mail angezeigt.
 
    ![](assets/three-4.png)
 
-1. Wählen Sie den hinzuzufügenden Inhalt aus, klicken Sie auf den **Inhalt wird verfolgt** und klicken Sie auf **Einfügen**.
+1. Wählen Sie den hinzuzufügenden Inhalt aus, klicken Sie auf den **[!UICONTROL Inhalt wird verfolgt]** und klicken Sie auf **[!UICONTROL Einfügen]**.
 
    ![](assets/four-4.png)
 

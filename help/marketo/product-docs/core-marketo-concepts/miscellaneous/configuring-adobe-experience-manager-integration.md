@@ -6,7 +6,7 @@ hide: true
 hidefromtoc: true
 exl-id: 06b2c214-1afb-443f-ae01-0c00fed77dce
 feature: Integrations
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Konfigurieren Sie Adobe Experience Manager (AEM), damit Sie auf AEM-Assets zugre
 
    ![](assets/one.png)
 
-1. Sie können sich mit Adobe anmelden oder sich lokal anmelden. In diesem Beispiel melden wir uns lokal an.
+1. Sie können sich mit Adobe anmelden oder lokal anmelden. In diesem Beispiel melden wir uns lokal an.
 
    ![](assets/two.png)
 
@@ -39,7 +39,7 @@ Konfigurieren Sie Adobe Experience Manager (AEM), damit Sie auf AEM-Assets zugre
 
    ![](assets/2a.png)
 
-1. Suchen Sie in Ihrem Browser (Strg+F unter Windows, Befehl+F unter Mac) nach &quot;Adobe Granite Cross-Origin Resource Sharing Policy“.
+1. Suchen Sie in Ihrem Browser (Strg+F unter Windows, Befehl+F unter Mac) nach &quot;[!UICONTROL Adobe Granite Cross-Origin Resource Sharing Policy]&quot;.
 
    ![](assets/three.png)
 
@@ -47,7 +47,7 @@ Konfigurieren Sie Adobe Experience Manager (AEM), damit Sie auf AEM-Assets zugre
 
    ![](assets/four.png)
 
-1. Geben Sie **[!UICONTROL Textfeld „Zulässige Ursprünge (Regexp]** ein und klicken Sie auf `https://.*\.marketo\.com`Speichern **&#x200B;**.
+1. Geben Sie **[!UICONTROL Textfeld „Zulässige Ursprünge (Regexp]** ein und klicken Sie auf `https://.*\.marketo\.com`Speichern ****.
 
    ![](assets/five-psd.png)
 

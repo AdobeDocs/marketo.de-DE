@@ -4,7 +4,7 @@ description: Bearbeiten eines genehmigten Modells - Marketo-Dokumente - Produktd
 title: Bearbeiten des genehmigten Modells
 exl-id: 5f31b9bd-b008-4b97-ba5d-930488dd3da9
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '259'
 ht-degree: 0%
@@ -15,25 +15,25 @@ ht-degree: 0%
 
 ## Modell bearbeiten {#editing-your-model}
 
-1. Wählen Sie im Abschnitt Analytics das Modell aus, an dem Sie Änderungen vornehmen möchten, und klicken Sie auf **Entwurf bearbeiten**.
+1. Wählen Sie das Modell, an dem Sie Änderungen vornehmen möchten, im Abschnitt [!UICONTROL Analytics] aus und klicken Sie auf **[!UICONTROL Entwurf bearbeiten]**.
 
    ![](assets/one.png)
 
-1. Stadien können beim Bearbeiten eines Entwurfsmodells nicht gelöscht werden (nachdem das Modell genehmigt wurde). Stattdessen können Sie diesen Schritt mit einem anderen Schritt im Modell zusammenführen. Klicken Sie mit der rechten Maustaste auf den Schritt, den Sie zusammenführen möchten, und klicken Sie auf **Zusammenführen**.
+1. Stadien können beim Bearbeiten eines Entwurfsmodells nicht gelöscht werden (nachdem das Modell genehmigt wurde). Stattdessen können Sie diesen Schritt mit einem anderen Schritt im Modell zusammenführen. Klicken Sie mit der rechten Maustaste auf den Schritt, den Sie zusammenführen möchten, und klicken Sie auf **[!UICONTROL Zusammenführen]**.
 
    ![](assets/two.png)
 
-1. Wählen Sie die neue Phase für Leads aus, die sich derzeit in der ausgewählten befinden, oder wählen Sie **Keine**, um die Leads aus Ihrem Modell zu entfernen. Wenn Sie fertig sind, klicken Sie auf &quot;**&quot;**.
+1. Wählen Sie die neue Phase für Leads aus, die sich derzeit in der ausgewählten befinden, oder wählen Sie **[!UICONTROL Keine]**, um die Leads aus Ihrem Modell zu entfernen. Wenn Sie fertig sind, klicken Sie auf &quot;**[!UICONTROL &quot;]**.
 
    ![](assets/three.png)
 
-1. Wenn Sie Ihre Änderungen am Modell abgeschlossen haben, genehmigen Sie es erneut, indem Sie **Modellentwurf genehmigen** im Menü **Modellaktionen** auswählen.
+1. Wenn Sie Ihre Änderungen am Modell abgeschlossen haben, genehmigen Sie es erneut, indem Sie **[!UICONTROL Modellentwurf genehmigen]** im Menü **[!UICONTROL Modellaktionen]** auswählen.
 
    ![](assets/four.png)
 
    >[!TIP]
    >
-   >Wenn Sie Änderungen an Ihren Phasen vornehmen, z. B. Änderungen am Hinzufügen oder Zusammenführen, müssen Sie Ihre Zuweisungsregeln und -phasen ändern, um Ihre Änderungen widerzuspiegeln.
+   >Wenn Sie Änderungen an Ihren Phasen vornehmen, z. B. Änderungen am Hinzufügen oder Zusammenführen, müssen Sie Ihre [!UICONTROL Zuweisungsregeln] und Phasen entsprechend Ihren Bearbeitungen ändern.
 
 ## Genehmigung Ihres Modells aufheben {#unapproving-your-model}
 
@@ -41,11 +41,11 @@ ht-degree: 0%
 >
 >Wenn Sie die Genehmigung für Ihr Modell aufheben, werden alle zugehörigen Leads entfernt, und ihr Verlauf im Modell wird gelöscht. Erwägen Sie, Ihr Modell zu bearbeiten, anstatt seine Genehmigung aufzuheben.
 
-1. Wählen Sie das Modell aus, dessen Genehmigung Sie aufheben möchten. Wählen Sie im Menü **Modellaktionen** die Option **Modell nicht genehmigen** aus.
+1. Wählen Sie das Modell aus, dessen Genehmigung Sie aufheben möchten. Wählen Sie im Menü **[!UICONTROL Modellaktionen]** die Option **[!UICONTROL Modell nicht genehmigen]** aus.
 
    ![](assets/five.png)
 
-1. Klicken Sie **Genehmigung aufheben**.
+1. Klicken Sie **[!UICONTROL Genehmigung aufheben]**.
 
    ![](assets/six.png)
 

@@ -4,9 +4,9 @@ description: E-Mail-Verbindung für Gmail-Benutzer - Marketo-Dokumente - Produkt
 title: E-Mail-Verbindung für Gmail-Benutzer
 exl-id: 024461f1-b1c0-40ff-bb1c-49846c57dabe
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '181'
 ht-degree: 1%
 
 ---
@@ -19,39 +19,39 @@ Wenn Sie sich mit Gmail verbinden, erhalten Sie ein Tracking der Antworten, Zugr
 >
 >Wenn Sie in Ihrem Gmail[Konto Filter oder Regeln verwenden, ](https://support.google.com/mail/answer/6579?hl=en#zippy=%2Ccreate-a-filter%2Cedit-or-delete-filters){target="_blank"} E-Mails automatisch als gelesen zu markieren, kann dies zu Problemen mit dem Antwort-Tracking führen. Es wird empfohlen, alle Regeln zu deaktivieren, die E-Mails bei Verwendung des Antwort-Trackings mit Gmail automatisch als gelesen markieren.
 
-1. Klicken Sie in Sales Connect auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
+1. Klicken Sie [!DNL Sales Connect] auf das Zahnradsymbol und wählen Sie **[!UICONTROL Einstellungen]** aus.
 
    ![](assets/one.png)
 
-1. Wählen Sie unter Mein Konto die Option **E-Mail-Einstellungen** aus.
+1. Wählen Sie unter Mein Konto die Option **[!UICONTROL E-Mail-Einstellungen]** aus.
 
    ![](assets/two.png)
 
-1. Klicken Sie auf die Registerkarte **E-Mail** Verbindung .
+1. Klicken Sie auf die Registerkarte **[!UICONTROL E-Mail]** Verbindung .
 
    ![](assets/three.png)
 
-1. Klicken Sie **Erste Schritte**.
+1. Klicken Sie **[!UICONTROL Erste Schritte]**.
 
    ![](assets/four.png)
 
-1. Wählen Sie **Ich verwende Gmail, um E-Mails zu senden** und klicken Sie auf **Weiter**.
+1. Wählen Sie **[!UICONTROL Ich verwende Gmail, um E-Mails zu senden]** und klicken Sie auf **[!UICONTROL Weiter]**.
 
    ![](assets/five.png)
 
-1. Klicken Sie auf **OK**.
+1. Klicken Sie auf **[!UICONTROL OK]**.
 
    ![](assets/six.png)
 
-1. Wenn Sie sich bereits bei Gmail angemeldet haben, wählen Sie das Konto aus, mit dem Sie eine Verbindung herstellen möchten. Wenn nicht, geben Sie Ihre Gmail-Adresse ein und klicken Sie auf **Weiter**. In diesem Beispiel sind wir noch nicht angemeldet.
+1. Wenn Sie sich bereits bei Gmail angemeldet haben, wählen Sie das Konto aus, mit dem Sie eine Verbindung herstellen möchten. Wenn nicht, geben Sie Ihre Gmail-Adresse ein und klicken Sie auf **[!UICONTROL Weiter]**. In diesem Beispiel sind wir noch nicht angemeldet.
 
    ![](assets/seven.png)
 
-1. Geben Sie Ihr Kennwort ein und klicken Sie auf **Weiter**.
+1. Geben Sie Ihr Kennwort ein und klicken Sie auf **[!UICONTROL Weiter]**.
 
    ![](assets/eight.png)
 
-1. Klicken Sie **Zulassen**.
+1. Klicken Sie **[!UICONTROL Zulassen]**.
 
    ![](assets/nine.png)
 

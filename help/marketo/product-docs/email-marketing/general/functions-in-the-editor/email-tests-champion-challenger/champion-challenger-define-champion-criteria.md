@@ -4,9 +4,9 @@ description: Champion/Challenger - Definieren der Champion-Kriterien - Marketo-D
 title: Champion/Challenger - Definieren Sie Champion-Kriterien
 exl-id: 6b2d2568-caf3-41fc-9d50-f7f561cc4865
 feature: Email Editor
-source-git-commit: ab8cb63d7a63728f86b38272a74913de99d0d0b3
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '176'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,7 @@ Nachdem Sie Ihren Testtyp eingerichtet haben, müssen Sie die Champion-Kriterien
 
 ## Standardkriterien für Champions {#standard-champion-criteria}
 
-1. Wählen Sie eines der verfügbaren **Champion-Kriterien**.
+1. Wählen Sie eines der verfügbaren **[!UICONTROL Champion-Kriterien]**.
 
    ![](assets/image2014-9-15-13-3a1-3a15.png)
 
@@ -33,7 +33,7 @@ Nachdem Sie Ihren Testtyp eingerichtet haben, müssen Sie die Champion-Kriterien
 
 ## Benutzerdefinierte Champion-Kriterien {#custom-champion-criteria}
 
-1. Wenn Sie etwas Besonderes ausprobieren möchten, können Sie einen benutzerdefinierten Modus verwenden, indem Sie **Benutzerdefinierte Konversion** auswählen und auf **Bearbeiten** klicken.
+1. Wenn Sie sich etwas einfallen lassen möchten, können Sie es benutzerdefiniert machen, indem Sie **[!UICONTROL Benutzerdefiniertes Konversionsverhältnis]** auswählen und auf **[!UICONTROL Bearbeiten]** klicken.
 
    ![](assets/image2014-9-15-13-3a2-3a52.png)
 
@@ -49,9 +49,9 @@ Nachdem Sie Ihren Testtyp eingerichtet haben, müssen Sie die Champion-Kriterien
 
    ![](assets/image2014-9-15-13-3a3-3a54.png)
 
-   Marketo erlaubt Trigger nur für Personen, denen die E-Mail von diesem E-Mail-Programm aus gesendet wurde. Es ist nicht erforderlich, einen Filter „Wurde per E-Mail gesendet“ hinzuzufügen.
+   Marketo erlaubt Trigger nur für Personen, denen die E-Mail von diesem E-Mail-Programm aus gesendet wurde. Es ist nicht erforderlich, einen Filter &quot;[!UICONTROL  gesendete E-]&quot; hinzuzufügen.
 
-1. Klicken Sie auf **Schließen**.
+1. Klicken Sie auf **[!UICONTROL Schließen]**.
 
    ![](assets/image2014-9-15-13-3a4-3a7.png)
 

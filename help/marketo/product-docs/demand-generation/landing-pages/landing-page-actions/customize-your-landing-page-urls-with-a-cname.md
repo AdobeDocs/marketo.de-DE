@@ -4,7 +4,7 @@ description: Anpassen der Landingpage-URLs mit einem CNAME - Marketo-Dokumente -
 title: Anpassen der Landingpage-URLs mit einem CNAME
 exl-id: 2cd87785-61e5-46cd-b1e0-6fbc145014d4
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%
@@ -69,7 +69,7 @@ Bitten Sie Ihre IT-Mitarbeiter, den folgenden CNAME einzurichten: (Ersetzen Sie 
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-6.png)
 
-1. Geben Sie Ihren CNAME in **Domain-Name für Landingpages**, Ihre **Ausweisseite**, Ihre **Homepage** ein und klicken Sie auf **Speichern**.
+1. Geben Sie Ihren CNAME in **[!UICONTROL Domain-Name für Landingpages]**, Ihre **[!UICONTROL Ausweisseite]**, Ihre **[!UICONTROL Homepage]** ein und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-7.png)
 

@@ -4,7 +4,7 @@ description: E-Mail-Berichte - Marketo-Dokumente - Produktdokumentation
 title: E-Mail-Berichte
 exl-id: 7e829b0e-926f-482c-84ef-15d978fdbb53
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '416'
 ht-degree: 2%
@@ -13,7 +13,7 @@ ht-degree: 2%
 
 # E-Mail-Berichte {#email-reports}
 
-Informationen zum Anpassen des automatisierten E-Mail-Berichts, den der Benutzer erhält[ finden Sie im Abschnitt „Benutzereinstellungen](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).
+Informationen zum Anpassen des automatisierten E-Mail-Berichts, den die Benutzerin bzw. der Benutzer erhält[[!UICONTROL  finden Sie im Abschnitt ]Benutzereinstellungen](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).
 
 ## Web Personalization Email Reports {#web-personalization-email-reports}
 
@@ -33,7 +33,7 @@ Der tägliche/wöchentliche Bericht sendet dem Benutzer eine E-Mail mit den 50 m
 
 Der tägliche/wöchentliche Personenbericht sendet dem Benutzer eine E-Mail mit den neuesten 100 Personen von der Website entsprechend: E-Mail-Adresse der Person, Organisationsname, Standort, Bundesland, Datum der Personenerfassung und Segmente, zu denen diese Person gehört.
 
-## Erstklassige Echtzeit-Kampagnen {#top-performing-real-time-campaigns}
+## [!UICONTROL Beste Leistung bei Echtzeit-Kampagnen] {#top-performing-real-time-campaigns}
 
 ![](assets/image2014-12-6-13-3a32-3a31.png)
 
@@ -55,18 +55,18 @@ Der empfohlene Assets-Bericht sendet dem Benutzer eine E-Mail mit allen Inhalten
 
 ![](assets/six.png)
 
-Der Zusammenfassungsbericht sendet dem Benutzer eine E-Mail (monatlich oder vierteljährlich) aller Kampagnen und empfohlenen Inhaltsleistung basierend auf der Anzahl der Klicks und der Anzahl der Personen (direkt oder unterstützt), die mit der personalisierten Kampagne oder den empfohlenen Inhalten interagiert haben und dann eine bekannte Person geworden sind. Der Bericht vergleicht die Ergebnisse mit dem Vormonat oder dem Vorquartal.
+Der Zusammenfassungsbericht sendet dem Benutzer eine E-Mail (monatlich oder vierteljährlich) aller Kampagnen und empfohlenen Inhaltsleistungen, basierend auf der Anzahl der Klicks und der Anzahl der Personen (direkt oder unterstützt), die mit der personalisierten Kampagne oder den empfohlenen Inhalten interagiert haben und dann eine bekannte Person geworden sind. Der Bericht vergleicht die Ergebnisse mit dem Vormonat oder dem Vorquartal.
 
 >[!NOTE]
 >
 >**Definitionen**
 >
->**Direkte Konversion**: Ein Web-Besucher, der auf eine personalisierte Kampagne oder ein empfohlenes Inhalts-Asset klickt und in derselben Besuchssitzung fortfährt, jedes Formular auf der Website mit seiner E-Mail-Adresse auszufüllen.
+>**[!UICONTROL Direkte Konversionen]**: Ein Web-Besucher, der auf eine personalisierte Kampagne oder ein empfohlenes Inhalts-Asset klickt und in derselben Besuchssitzung fortfährt, jedes Formular auf der Website mit seiner E-Mail-Adresse auszufüllen.
 >
->**Unterstützte Konversion**: Ein Web-Besucher, der ein beliebiges Formular auf der Website ausfüllt und seine E-Mail-Adresse verlässt, während er bei einem vorherigen Besuch (innerhalb der letzten 6 Monate) auf eine personalisierte Kampagne oder ein empfohlenes Inhalts-Asset geklickt hat.
+>**[!UICONTROL Unterstützte Konversionen]**: Ein Web-Besucher, der ein beliebiges Formular auf der Website ausfüllt und seine E-Mail-Adresse verlässt, während er bei einem vorherigen Besuch (innerhalb der letzten 6 Monate) auf eine personalisierte Kampagne oder ein empfohlenes Inhalts-Asset geklickt hat.
 
 >[!NOTE]
 >
->Marketo Web Personalization erfasst die E-Mail-Adresse des Web-Besuchers für jedes Formular, das auf der Website ausgefüllt wird. Dieser wird auf der Web Personalization People -Seite angezeigt und ist die Person, die im Zusammenfassungsbericht verwendet wird.
+>Marketo Web Personalization erfasst die E-Mail-Adresse des Web-Besuchers für jedes Formular, das auf der Website ausgefüllt wird. Personalization Dieser wird auf der Seite [!UICONTROL Web-][!UICONTROL Personen] angezeigt und ist die Person, die im Zusammenfassungsbericht verwendet wird.
 
 Informationen zum Anpassen des automatisierten E-Mail-Berichts, den der Benutzer erhält[ finden Sie im Abschnitt „Benutzereinstellungen](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).

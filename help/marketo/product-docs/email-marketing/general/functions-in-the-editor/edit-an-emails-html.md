@@ -1,10 +1,10 @@
 ---
 unique-page-id: 1900554
-description: E-Mail-HTML bearbeiten - Marketo-Dokumente - Produktdokumentation
+description: HTML einer E-Mail bearbeiten - Marketo-Dokumente - Produktdokumentation
 title: HTML einer E-Mail bearbeiten
 exl-id: 9dc8e44d-d9da-4bc2-950f-3ffbb976f5d5
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '347'
 ht-degree: 2%
@@ -17,23 +17,23 @@ Manchmal muss der zugrunde liegende HTML einer E-Mail geändert werden. Manchmal
 
 ## HTML bearbeiten {#edit-html}
 
-1. Wählen Sie Ihre E-Mail aus und klicken Sie **Entwurf bearbeiten**.
+1. Wählen Sie Ihre E-Mail aus und klicken Sie **[!UICONTROL Entwurf bearbeiten]**.
 
    ![](assets/teamspidey.jpg)
 
-1. Klicken Sie **Code bearbeiten**.
+1. Klicken Sie **[!UICONTROL Code bearbeiten]**.
 
    ![](assets/two-4.png)
 
-1. Nehmen Sie beliebige Änderungen vor. Klicken Sie auf **Speichern**, wenn Sie fertig sind.
+1. Nehmen Sie beliebige Änderungen vor. Klicken Sie auf **[!UICONTROL Speichern]**, wenn Sie fertig sind.
 
    ![](assets/three-3.png)
 
    >[!NOTE]
    >
-   >Ändere, was du willst. Sie können die gesamte HTML austauschen oder kleinere Anpassungen vornehmen.
+   >Ändere, was du willst. Sie können die gesamte HTML ersetzen oder kleinere Anpassungen vornehmen.
 
-1. Klicken Sie auf die **Code-Aktionen**, um den Code als HTML-Datei herunterzuladen, Ihre CSS-Datei inline zu erstellen oder die HTML zu validieren.
+1. Klicken Sie auf die **[!UICONTROL Code-Aktionen]**, um den Code als HTML-Datei herunterzuladen, Ihre CSS-Datei inline zu erstellen oder die HTML zu validieren.
 
    ![](assets/four-2.png)
 
@@ -62,15 +62,15 @@ Diese Aktionen, die Sie im Code-Editor durchführen können **unterbrechen** E-M
 
 Verwenden Sie die Suchcodefunktion, um Inhalte im HTML-Code Ihrer E-Mail effizient zu finden und zu ersetzen.
 
-1. Klicken Sie im Code Ihrer E-Mail auf **Suchcode**.
+1. Klicken Sie im Code Ihrer E-Mail auf **[!UICONTROL Suchcode]**.
 
    ![](assets/five-2.png)
 
-1. Geben Sie ein, was Sie suchen möchten, und klicken Sie auf **Weitersuchen**, um vorwärts zu suchen, oder **Vorherige suchen**, um rückwärts zu suchen. Sie haben auch die Option **Ersetzen** und **Alle ersetzen**.
+1. Geben Sie ein, was Sie suchen möchten, und klicken Sie auf **[!UICONTROL Weitersuchen]**, um vorwärts zu suchen, oder **[!UICONTROL Vorherige suchen]**, um rückwärts zu suchen. Sie haben auch die Option **[!UICONTROL Ersetzen]** und **[!UICONTROL Alle ersetzen]**.
 
    ![](assets/six-1.png)
 
-1. Klicken Sie abschließend **Schließen**.
+1. Klicken Sie abschließend **[!UICONTROL Schließen]**.
 
    ![](assets/seven.png)
 

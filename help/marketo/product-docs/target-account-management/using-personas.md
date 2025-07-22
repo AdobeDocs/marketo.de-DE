@@ -4,7 +4,7 @@ description: Verwenden von Personas - Marketo-Dokumente - Produktdokumentation
 title: Verwenden von Personas
 exl-id: 8c8940ab-d336-494c-b6a0-dad09ed1c888
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 3%
@@ -17,15 +17,15 @@ Personas sind eine hervorragende Möglichkeit, Ihre ABM-Zielgruppe zu segmentier
 
 ## Persona hinzufügen {#add-a-persona}
 
-1. Klicken Sie in My Marketo auf **Admin**.
+1. Klicken Sie in My Marketo auf **[!UICONTROL Admin]**.
 
    ![](assets/one.png)
 
-1. Wählen Sie in der Struktur **Target-Kontoverwaltung** aus.
+1. Wählen Sie in der Struktur **[!UICONTROL Target-Kontoverwaltung]** aus.
 
    ![](assets/using-personas-2.png)
 
-1. Klicken Sie auf **Bearbeiten**.
+1. Klicken Sie auf **[!UICONTROL Bearbeiten]**.
 
    ![](assets/three.png)
 
@@ -33,11 +33,11 @@ Personas sind eine hervorragende Möglichkeit, Ihre ABM-Zielgruppe zu segmentier
    >
    >Die Rolle Auftragstitel ist standardmäßig enthalten. Sie kann nicht geändert oder gelöscht werden.
 
-1. Um weitere Personas hinzuzufügen, klicken Sie auf **+Hinzufügen**.
+1. Um weitere Personas hinzuzufügen, klicken Sie auf **[!UICONTROL +Hinzufügen]**.
 
    ![](assets/four.png)
 
-1. Geben Sie Ihrer Rolle einen Namen und wählen Sie das entsprechende Feld in der Dropdown-Liste aus. Sie können bis zu zwei weitere Personas hinzufügen. Klicken Sie auf **Speichern**, wenn Sie fertig sind.
+1. Geben Sie Ihrer Rolle einen Namen und wählen Sie das entsprechende Feld in der Dropdown-Liste aus. Sie können bis zu zwei weitere Personas hinzufügen. Klicken Sie auf **[!UICONTROL Speichern]**, wenn Sie fertig sind.
 
    ![](assets/five.png)
 
@@ -47,13 +47,13 @@ Personas sind eine hervorragende Möglichkeit, Ihre ABM-Zielgruppe zu segmentier
 
 ## Personas anzeigen {#view-your-personas}
 
-Zeigen Sie Ihre Personas an, indem Sie ein bestimmtes benanntes Konto besuchen.
+Zeigen Sie Ihre Personas an, indem Sie ein bestimmtes [!UICONTROL Benanntes Konto] besuchen.
 
-1. Wählen Sie das gewünschte benannte Konto aus.
+1. Wählen Sie das gewünschte [!UICONTROL Benannte Konto] aus.
 
    ![](assets/one-a.png)
 
-1. Klicken Sie auf **Registerkarte** Personas“.
+1. Klicken Sie auf **[!UICONTROL Registerkarte]** Personas“.
 
    ![](assets/two-a.png)
 
@@ -63,7 +63,7 @@ Zeigen Sie Ihre Personas an, indem Sie ein bestimmtes benanntes Konto besuchen.
 
    >[!NOTE]
    >
-   >Das X in der Titelrolle fungiert als Platzhalterzeichen. Beispielsweise umfasst „CXO“ CEOs, CFOs usw.
+   >Das X in [!UICONTROL Titelrolle] dient als Platzhalterzeichen. Beispielsweise umfasst „CXO“ CEOs, CFOs usw.
 
 ## Personenfilter {#persona-filters}
 

@@ -4,23 +4,23 @@ description: Aufrufe werden nicht bei Salesforce protokolliert - Marketo-Dokumen
 title: Anrufe werden nicht bei Salesforce protokolliert
 exl-id: 99528c1a-7398-442b-81d1-9b5908e35e2f
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
 
-# Anrufe werden nicht bei Salesforce protokolliert {#calls-arent-logging-to-salesforce}
+# -Aufrufe werden nicht bei [!DNL Salesforce] protokolliert {#calls-arent-logging-to-salesforce}
 
-Wenn Sie möchten, dass Ihre Anrufe von Sales Phone automatisch bei Salesforce protokolliert werden, stellen Sie sicher, dass Folgendes vorhanden ist.
+Wenn Sie möchten, dass Ihre Anrufe von Sales Phone automatisch bei [!DNL Salesforce] protokolliert werden, stellen Sie sicher, dass Folgendes vorhanden ist.
 
-Ihr Sales Connect-Konto muss über die API-Verbindung mit Ihrem [Salesforce](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)Konto verbunden sein.
+Ihr [!DNL Sales Connect] muss über die API-Verbindung mit Ihrem [[!DNL Salesforce] Konto](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md) verbunden sein.
 
-Wenn Sie über die [Web-Anwendung](https://toutapp.com/login) aufrufen, benötigen Sie eine Salesforce ID, die für diesen Kontakt gespeichert ist. [Klicken Sie hier](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/import-a-salesforce-id-into-sales-connect.md) um zu erfahren, wie Sie sicherstellen können, dass allen Ihren Sales Connect-Kontakten eine Salesforce ID zugeordnet ist.
+Wenn Sie über die [Web-Anwendung](https://toutapp.com/login) aufrufen, benötigen Sie eine [!DNL Salesforce] ID, die für diesen Kontakt gespeichert ist. [Klicken Sie hier](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/import-a-salesforce-id-into-sales-connect.md) um zu sehen, wie Sie sicherstellen können, dass allen Ihren [!DNL Sales Connect] Kontakten eine [!DNL Salesforce] ID zugeordnet ist.
 
 >[!NOTE]
 >
->Stellen Sie sicher, dass in Ihrer Aufgabenauswahlliste „Anruf“ vorhanden ist, um ein genaues und einfaches Reporting in Salesforce zu ermöglichen.
+>Stellen Sie sicher, dass Sie in Ihrer Auswahlliste für den Aufgabentyp „Anruf“ haben, um ein genaues und einfaches Reporting in [!DNL Salesforce] zu ermöglichen.
 
-Sobald dies eingerichtet ist, wird eine Aufgabe im Abschnitt Aktivitätsverlauf von Salesforce erstellt.
+Sobald dies eingerichtet ist, wird eine Aufgabe im Abschnitt Aktivitätsverlauf von [!DNL Salesforce] erstellt.

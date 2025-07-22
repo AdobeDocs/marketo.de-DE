@@ -4,9 +4,9 @@ description: Grundlegendes zu Ereignisprogrammen - Marketo-Dokumente - Produktdo
 title: Verstehen von Ereignisprogrammen
 exl-id: 7d62accd-ab2f-46f7-998e-9145c4c11cbc
 feature: Events
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '97'
 ht-degree: 4%
 
 ---
@@ -36,4 +36,4 @@ Ereignisse können automatisch eine Verbindung zu Ihrem [Webinar-Anbieter](/help
 >
 >* [Erstellen eines neuen Veranstaltungsprogramms](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >
->* [LaunchPoint-Veranstaltungspartner](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md)
+>* [[!DNL LaunchPoint] Veranstaltungspartner](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md)

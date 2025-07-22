@@ -1,27 +1,27 @@
 ---
 unique-page-id: 11381917
-description: Target-Kontoverwaltung - Marketo-Dokumente - Produktdokumentation
-title: Zielkontoverwaltung
+description: '[!UICONTROL Target-Kontoverwaltung] - Marketo-Dokumente - Produktdokumentation'
+title: '[!UICONTROL Target-Kontoverwaltung]'
 exl-id: ff0c37ac-7206-4346-bfb8-15c734b2a272
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '242'
-ht-degree: 13%
+ht-degree: 10%
 
 ---
 
-# Zielkontoverwaltung {#target-account-management-overview}
+# [!UICONTROL Target-Kontoverwaltung] {#target-account-management-overview}
 
-Marketer, erfüllen Target Account Management. Verwaltung von Target-Konten, Marketing-Experten treffen.
+Marketer, [!UICONTROL Target Account Management]. [!UICONTROL Target-Kontoverwaltung], Marketer treffen.
 
 ![](assets/photo-collage.png)
 
-Was ist die Marketo Target-Kontoverwaltung?
+Was ist Marketo [!UICONTROL Target-]?
 
-Marketo Target Account Management führt Vertriebs- und Marketing-Teams zusammen, um wichtige Accounts zielgerichtet und koordiniert anzusprechen und einzubinden. So wird die Lücke zwischen Account-orientierter Strategie, Ausführung und Erfolg geschlossen - und das alles auf einer einzigen Plattform.
+Marketo [!UICONTROL Target Account Management] führt Vertriebs- und Marketing-Teams zusammen, um wichtige Accounts auf eine hochgradig koordinierte Weise anzusprechen und einzubinden. So wird die Lücke zwischen Account-orientierter Strategie, Ausführung und Erfolg geschlossen - und das alles auf einer einzigen Plattform.
 
-Wozu dient die Marketo Target-Kontoverwaltung?
+Wozu dient Marketo [!UICONTROL Target-]?
 
 Marketo vereint TAM- und Lead-Management in einer Lösung, sodass Marketing-Experten personalisierte Kampagnen für Accounts und Leads einfach in einem Schritt ausführen können. Sie profitieren auch davon, wichtige Entscheidungsträger und Einflussnehmer zu erreichen.
 

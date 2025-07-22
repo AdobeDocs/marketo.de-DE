@@ -4,7 +4,7 @@ description: Erstellen eines neuen Veranstaltungsprogramms - Marketo-Dokumente -
 title: Erstellen eines neuen Veranstaltungsprogramms
 exl-id: 095d59d7-a4d7-4e0a-b34b-7d25074e6959
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 1%
@@ -15,19 +15,19 @@ ht-degree: 1%
 
 Mit Events können Sie Online- und Offline-Events automatisieren! Erfassen Sie den Status Ihrer Mitarbeiter, während sie verschiedene Phasen durchlaufen, und erhalten Sie genaue Messwerte für den ROI für Ihre Marketing-Initiativen.
 
-1. Navigieren Sie **Marketing-Aktivitäten**.
+1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/ma.png)
 
-1. Ordner für das neue Programm auswählen. Wählen Sie **Neu** und klicken Sie auf **Neues Programm**.
+1. Ordner für das neue Programm auswählen. Wählen Sie **[!UICONTROL Neu]** und klicken Sie auf **[!UICONTROL Neues Programm]**.
 
    ![](assets/image2015-2-26-14-3a24-3a30.png)
 
-1. Wählen Sie einen Namen für Ihr Ereignis. Wählen Sie dann unter **Programmtyp** die Option **Ereignis** aus.
+1. Wählen Sie einen Namen für Ihr Ereignis. Wählen Sie dann unter **[!UICONTROL Programmtyp]** die Option **[!UICONTROL Ereignis]** aus.
 
    ![](assets/image2015-2-26-14-3a26-3a6.png)
 
-1. Wählen Sie einen **Kanal** aus.
+1. Wählen Sie einen **[!UICONTROL Kanal]** aus.
 
    >[!NOTE]
    >
@@ -35,7 +35,7 @@ Mit Events können Sie Online- und Offline-Events automatisieren! Erfassen Sie d
 
    ![](assets/image2015-2-26-14-3a29-3a3.png)
 
-1. Klicken Sie auf **Erstellen**.
+1. Klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/image2015-2-26-14-3a33-3a17.png)
 
@@ -43,11 +43,11 @@ Mit Events können Sie Online- und Offline-Events automatisieren! Erfassen Sie d
 
    ![](assets/image2015-2-26-14-3a34-3a33.png)
 
-1. Um das Ereignis zu planen, wählen **Ansicht planen** und klicken Sie im Kalender darauf, um das Popup zu öffnen. Datum und Uhrzeit eingeben.
+1. Um das Ereignis zu planen, wählen **[!UICONTROL Ansicht planen]** und klicken Sie im Kalender darauf, um das Popup zu öffnen. Datum und Uhrzeit eingeben.
 
    ![](assets/image2016-3-25-14-3a17-3a33.png)
 
-1. Schieben Sie die Leiste nach **Bestätigt** wenn Sie fertig sind.
+1. Schieben Sie die Leiste nach **[!UICONTROL Bestätigt]** wenn Sie fertig sind.
 
    ![](assets/image2016-3-25-14-3a18-3a13.png)
 

@@ -4,7 +4,7 @@ description: Benutzerdefiniertes HTML-Formular für Bekannte Personen anzeigen -
 title: Benutzerdefiniertes HTML-Formular für Bekannte Personen anzeigen
 exl-id: 668216ea-7c2b-4204-81a5-56547c3baf1d
 feature: Forms
-source-git-commit: 55964499f5d49258539492f952513833af5692b5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '254'
 ht-degree: 1%
@@ -15,23 +15,23 @@ ht-degree: 1%
 
 Wenn ein Besucher in der Vergangenheit seinen vollständigen Namen und seine E-Mail-Adresse angegeben hat und Sie nicht möchten, dass er/sie das gesamte Formular erhält, erfahren Sie, wie Sie ihm/ihr einige benutzerdefinierte HTML zeigen (z. B. nur eine Download-Schaltfläche).
 
-1. Navigieren Sie **Marketing-Aktivitäten**.
+1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities-5.png)
 
-1. Wählen **unter „Marketing** Aktivitäten Ihr Formular aus und klicken Sie auf **Formular bearbeiten**.
+1. Wählen **[!UICONTROL unter „Marketing]** Aktivitäten Ihr Formular aus und klicken Sie auf **[!UICONTROL Formular bearbeiten]**.
 
    ![](assets/image2014-9-15-12-3a24-3a6.png)
 
-1. Klicken **unter &quot;**&quot; auf **Einstellungen**.
+1. Klicken **[!UICONTROL unter &quot;]**&quot; auf **[!UICONTROL Einstellungen]**.
 
    ![](assets/image2014-9-15-12-3a24-3a36.png)
 
-1. HTML Wenn &quot;**Besucher, Anzeigen“** „Benutzerdefinierte **&quot;**.
+1. HTML Wenn &quot;**[!UICONTROL Besucher, Anzeigen“]** „Benutzerdefinierte **[!UICONTROL &quot;]**.
 
    ![](assets/image2014-9-15-12-3a24-3a59.png)
 
-1. Klicken Sie auf die ![-](assets/image2014-9-25-14-3a1-3a26.png), um die **Benutzerdefinierte HTML** zu bearbeiten, die bekannten Personen angezeigt wird.
+1. Klicken Sie auf die ![-](assets/image2014-9-25-14-3a1-3a26.png), um die **[!UICONTROL Benutzerdefinierte HTML]** zu bearbeiten, die bekannten Personen angezeigt wird.
 
    ![](assets/image2014-9-15-12-3a25-3a38.png)
 
@@ -52,11 +52,11 @@ Wenn ein Besucher in der Vergangenheit seinen vollständigen Namen und seine E-M
    >
    >Nur die vier oben genannten Token können verwendet werden. Andere Token funktionieren hier nicht.
 
-1. Klicken Sie auf **Fertigstellen**.
+1. Klicken Sie auf **[!UICONTROL Fertigstellen]**.
 
    ![](assets/image2014-9-15-12-3a27-3a25.png)
 
-1. Klicken Sie **Genehmigen und schließen**.
+1. Klicken Sie **[!UICONTROL Genehmigen und schließen]**.
 
    >[!NOTE]
    >

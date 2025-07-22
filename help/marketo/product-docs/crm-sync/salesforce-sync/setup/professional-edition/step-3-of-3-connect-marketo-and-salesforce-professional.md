@@ -4,16 +4,16 @@ description: Schritt 3 von 3 - Marketo und Salesforce verbinden (Professional) -
 title: 'Schritt 3 von 3: Marketo und Salesforce verbinden (Professional)'
 exl-id: a35e22ef-6378-45e0-be7e-687b0832ecf3
 feature: Salesforce Integration
-source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '390'
+source-wordcount: '386'
 ht-degree: 0%
 
 ---
 
-# Schritt 3 von 3: Marketo und Salesforce verbinden (Professional) {#step-of-connect-marketo-and-salesforce-professional}
+# Schritt 3 von 3: Marketo und [!DNL Salesforce] verbinden (Professional) {#step-of-connect-marketo-and-salesforce-professional}
 
-In diesem Artikel konfigurieren Sie den Marketo Engage für die Synchronisierung mit Ihrer konfigurierten Salesforce-Instanz.
+In diesem Artikel konfigurieren Sie Marketo Engage für die Synchronisierung mit Ihrer konfigurierten Salesforce-Instanz.
 
 >[!PREREQUISITES]
 >
@@ -66,7 +66,7 @@ In diesem Artikel konfigurieren Sie den Marketo Engage für die Synchronisierung
    >
    >Wenn Sie die Zuordnungen ([) überprüfen und anpassen möchten](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/edit-initial-field-mappings.md){target="_blank"} ist dies die einzige Möglichkeit, dies zu tun! Nachdem Sie auf Salesforce-Synchronisierung starten geklickt haben, ist der Vorgang abgeschlossen.
 
-## Salesforce-Synchronisierung starten {#start-salesforce-sync}
+## Starten [!DNL Salesforce] Synchronisierung {#start-salesforce-sync}
 
 1. Klicken Sie **[!UICONTROL Salesforce-Synchronisierung starten]**, um die persistente Marketo-Salesforce-Synchronisierung zu starten.
 
@@ -74,7 +74,7 @@ In diesem Artikel konfigurieren Sie den Marketo Engage für die Synchronisierung
 
    >[!CAUTION]
    >
-   >Marketo wird nicht automatisch für eine Salesforce-Synchronisierung dedupliziert oder wenn Sie Leads manuell eingeben.
+   >Marketo wird bei einer [!DNL Salesforce]-Synchronisierung oder bei der manuellen Eingabe von Leads nicht automatisch dedupliziert.
 
 1. Klicken Sie **[!UICONTROL Synchronisierung starten]**.
 
@@ -86,7 +86,7 @@ In diesem Artikel konfigurieren Sie den Marketo Engage für die Synchronisierung
 
 ## Synchronisierung überprüfen {#verify-sync}
 
-Marketo stellt Statusmeldungen für die Salesforce-Synchronisierung im Admin-Bereich bereit. Gehen Sie wie folgt vor, um zu überprüfen, ob die Synchronisierung ordnungsgemäß funktioniert.
+Marketo stellt Statusmeldungen für die [!DNL Salesforce] im Admin-Bereich bereit. Gehen Sie wie folgt vor, um zu überprüfen, ob die Synchronisierung ordnungsgemäß funktioniert.
 
 1. Klicken Sie in Marketo auf **[!UICONTROL Admin]** und dann auf **Salesforce**.
 
@@ -104,5 +104,5 @@ Sie haben gerade die Konfiguration einer der leistungsfähigsten Funktionen von 
 
 >[!MORELIKETHIS]
 >
->* [Installieren des Marketo Sales Insight-Pakets auf der Salesforce-AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}
+>* [Installieren des Marketo Sales Insight-Pakets in Salesforce AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}
 >* [Konfigurieren von Marketo Sales Insight in Salesforce Professional Edition](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md){target="_blank"}

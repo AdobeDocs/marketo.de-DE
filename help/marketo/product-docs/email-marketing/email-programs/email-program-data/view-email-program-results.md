@@ -4,7 +4,7 @@ description: E-Mail-Programmergebnisse anzeigen - Marketo-Dokumente - Produktdok
 title: Ergebnisse des E-Mail-Programms anzeigen
 exl-id: 31bb94f5-bb4a-4f9e-96c8-dd744b57f795
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 0%
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Ergebnisse des E-Mail-Programms anzeigen {#view-email-program-results}
 
-Genau wie auf der Registerkarte Ergebnisse in Smart-Kampagnen werden dieselben Informationen in E-Mail-Programmen angezeigt.
+Genau wie auf der Registerkarte [!UICONTROL Ergebnisse] in Smart-Kampagnen können Sie dieselben Informationen in E-Mail-Programmen sehen.
 
-1. Navigieren Sie **Marketing-Aktivitäten**.
+1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -27,11 +27,11 @@ Genau wie auf der Registerkarte Ergebnisse in Smart-Kampagnen werden dieselben I
    >
    >Wenn das E-Mail-Programm bereits ausgeführt wurde, gelangen Sie direkt zum Dashboard des E-Mail-Programms.
 
-1. Wählen **unter &quot;**&quot; **Systemsteuerung** aus.
+1. Wählen **[!UICONTROL unter &quot;]**&quot; **[!UICONTROL Systemsteuerung]** aus.
 
    ![](assets/controlpanelview.jpg)
 
-1. Klicken Sie unter **Kachel** Zielgruppe“ auf **Ergebnisse anzeigen**.
+1. Klicken Sie unter **[!UICONTROL Kachel]** Zielgruppe“ auf **[!UICONTROL Ergebnisse anzeigen]**.
 
    ![](assets/audiencetile.jpg)
 

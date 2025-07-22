@@ -3,26 +3,26 @@ description: Aktivieren der Kampagnensynchronisierung - Marketo-Dokumente - Prod
 title: Kampagnensynchronisierung aktivieren
 exl-id: b33af554-b4c0-465c-a5a4-3ee3450af5e5
 feature: Microsoft Dynamics
-source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '104'
 ht-degree: 5%
 
 ---
 
 # Kampagnensynchronisierung aktivieren {#enable-campaign-sync}
 
-Mit dieser Option kann Marketo Engage Mitglieder zu MS Dynamics Campaign hinzufügen und daraus entfernen.
+Mit dieser Option kann Marketo Mitglieder zu [!DNL MS Dynamics] Campaign hinzufügen und daraus entfernen.
 
 >[!PREREQUISITES]
 >
->Aktualisieren Sie auf die neueste Version des Dynamics-Plug-ins für Marketo.
+>Aktualisieren Sie auf die neueste Version des [!DNL Dynamics]-Plug-ins für Marketo.
 
 >[!NOTE]
 >
 >**Administratorberechtigungen erforderlich**
 
-1. Klicken Sie in „Mein Marketo&quot; auf **[!UICONTROL Admin]**.
+1. Klicken Sie in **[!UICONTROL Meine Marketo]** auf **[!UICONTROL Admin]**.
 
    ![](assets/enable-campaign-sync-1.png)
 
@@ -30,7 +30,7 @@ Mit dieser Option kann Marketo Engage Mitglieder zu MS Dynamics Campaign hinzuf�
 
    ![](assets/enable-campaign-sync-2.png)
 
-1. Klicken Sie unter Synchronisierungsoptionen auf **[!UICONTROL Bearbeiten]**.
+1. Klicken **[!UICONTROL unter &quot;]** synchronisieren“ auf **[!UICONTROL Bearbeiten]**.
 
    ![](assets/enable-campaign-sync-3.png)
 
@@ -38,8 +38,8 @@ Mit dieser Option kann Marketo Engage Mitglieder zu MS Dynamics Campaign hinzuf�
 
    ![](assets/enable-campaign-sync-4.png)
 
-Da haben Sie es. Geben Sie der Synchronisierung einfach etwas Zeit, um die Daten aus Microsoft Dynamics abzurufen, und Sie können loslegen.
+Da haben Sie es. Geben Sie der Synchronisierung einfach etwas Zeit, um die Daten aus [!DNL Microsoft Dynamics] abzurufen, und Sie können loslegen.
 
 >[!NOTE]
 >
->Durch Zurücksetzen des Kontrollkästchens Synchronisation mit Dynamics Campaign werden alle zuvor synchronisierten Campaign-Daten und die Verknüpfungen mit den Marketing-Listen in Dynamics aktualisiert.
+>Wenn Sie das Kontrollkästchen Kampagnensynchronisierung [!DNL Dynamics] zurücksetzen, werden alle zuvor synchronisierten Kampagnendaten und die Verknüpfungen mit den Marketing-Listen in [!DNL Dynamics] aktualisiert.

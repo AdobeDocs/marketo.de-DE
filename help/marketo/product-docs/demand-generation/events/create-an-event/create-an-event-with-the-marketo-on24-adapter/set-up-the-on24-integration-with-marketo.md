@@ -3,9 +3,9 @@ description: Einrichten der ON24-Integration mit Marketo - Dokumentation zu Mark
 title: Einrichten der ON24-Integration mit Marketo
 exl-id: 395ffa37-b87d-4eb4-bf9f-72aa96dc819c
 feature: Events
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '264'
 ht-degree: 3%
 
 ---
@@ -16,37 +16,37 @@ So richten Sie Ihre ON24-Ereignisintegration ein.
 
 ## Nur API-Rolle erstellen {#create-an-api-only-role}
 
-1. Klicken Sie in My Marketo auf **Admin**.
+1. Klicken Sie in My Marketo auf **[!UICONTROL Admin]**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-1.png)
 
-1. Klicken Sie unter Sicherheit auf **Benutzer und Rollen**.
+1. Klicken [!UICONTROL  unter ] auf **[!UICONTROL Benutzer und Rollen]**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-2.png)
 
-1. Klicken Sie auf **Rollen** und dann auf **Neue Rolle**.
+1. Klicken Sie auf **[!UICONTROL Rollen]** und dann auf **[!UICONTROL Neue Rolle]**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-3.png)
 
-1. Geben Sie einen Rollennamen ein. Öffnen Sie das **Zugriff-API** Menü und wählen Sie „Benutzerdefiniertes Objekt mit Lese-/Schreibzugriff“ und „Person mit Lese-/Schreibzugriff“ aus. Klicken Sie auf **Erstellen**.
+1. Geben Sie einen [!UICONTROL Rollennamen] ein. Öffnen Sie das Menü **[!UICONTROL Zugriff auf API]** und wählen Sie &quot;[!UICONTROL Benutzerdefiniertes Objekt mit Lese-/Schreibzugriff] und &quot;[!UICONTROL Person mit Lese-/Schreibzugriff]&quot; aus. Klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-4.png)
 
 ## Neuen Benutzer erstellen {#create-a-new-user}
 
-1. Klicken Sie noch in „Benutzer und Rollen“ auf die Registerkarte **Benutzer** und klicken Sie auf **Neuen Benutzer einladen**.
+1. Klicken Sie noch in [!UICONTROL Benutzer und Rollen] auf die Registerkarte **[!UICONTROL Benutzer]** und klicken Sie dann auf **[!UICONTROL Neuen Benutzer einladen]**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-5.png)
 
-1. Geben Sie die Informationen des neuen Benutzers ein und klicken Sie auf **Weiter**.
+1. Geben Sie die Informationen des neuen Benutzers ein und klicken Sie auf **[!UICONTROL Weiter]**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-6.png)
 
-1. Wählen Sie die Rolle Nur ON24-API aus, die Sie soeben erstellt haben. Aktivieren Sie das **Nur API**-Kontrollkästchen. Klicken Sie auf **Weiter**.
+1. Wählen Sie die Rolle [!UICONTROL Nur API24 (alle Arbeitsbereiche)] die Sie soeben erstellt haben. Aktivieren Sie das **[!UICONTROL Nur API]**-Kontrollkästchen. Klicken Sie auf **[!UICONTROL Weiter]**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-7.png)
 
-1. Klicken Sie auf **Senden**.
+1. Klicken Sie auf **[!UICONTROL Senden]**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-8.png)
 
@@ -56,31 +56,31 @@ So richten Sie Ihre ON24-Ereignisintegration ein.
 
 ## Einrichten der ON24-Verbindung {#set-up-on24-connection}
 
-1. Klicken Sie noch im Admin-Bereich auf **LaunchPoint**.
+1. Klicken Sie noch im [!UICONTROL Admin]-Abschnitt auf **[!UICONTROL LaunchPoint]**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-9.png)
 
-1. Klicken Sie **Neu** und dann **Neuer Service**.
+1. Klicken Sie **[!UICONTROL Neu]** und dann **[!UICONTROL Neuer Service]**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-10.png)
 
-1. Wählen Sie einen Anzeigenamen aus. Klicken Sie auf die **Dienst** und wählen Sie **Benutzerdefiniert**. Beschreibung eingeben. Klicken Sie auf die Dropdown-Liste Nur API-Benutzer und wählen Sie den von Ihnen erstellten Benutzer [in den oben genannten Schritten](#create-a-new-user). Klicken Sie auf **Erstellen**.
+1. Wählen Sie einen [!UICONTROL Anzeigenamen]. Klicken Sie auf die **[!UICONTROL Dienst]** und wählen Sie **[!UICONTROL Benutzerdefiniert]**. Geben Sie eine [!UICONTROL Beschreibung] ein. Klicken Sie auf [!UICONTROL  Dropdown-Liste Nur ]-Benutzer und wählen Sie den Benutzer aus[ den Sie in den obigen Schritten erstellt ](#create-a-new-user). Klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-11.png)
 
-1. Suchen Sie den soeben erstellten benutzerdefinierten LaunchPoint-Service und klicken Sie auf Details anzeigen .
+1. Suchen Sie den soeben erstellten benutzerdefinierten [!DNL LaunchPoint]-Service und klicken Sie auf [!UICONTROL Details anzeigen].
 
    ![](assets/set-up-the-on24-integration-with-marketo-12.png)
 
-1. Markieren Sie die Client-ID, klicken Sie mit der rechten Maustaste darauf, kopieren Sie sie und speichern Sie sie (Sie benötigen sie später). Wiederholung für Client-Geheimnis.
+1. Markieren, klicken Sie mit der rechten Maustaste, kopieren Sie die [!UICONTROL Client-ID] und speichern Sie sie (Sie benötigen sie später). Wiederholen Sie dies für [!UICONTROL Client-Geheimnis].
 
    ![](assets/set-up-the-on24-integration-with-marketo-13.png)
 
-1. Klicken Sie in der Struktur auf der linken Seite auf Web-Services .
+1. Klicken Sie in der Baumstruktur links auf **[!UICONTROL Web-Services]**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-14.png)
 
-1. Markieren Sie unter „REST API“ den ersten Teil der Identität (bis zum „m“ in .com), klicken Sie mit der rechten Maustaste darauf, kopieren Sie ihn und speichern Sie ihn.
+1. Markieren Sie unter &quot;[!UICONTROL REST API] den ersten Teil der [!UICONTROL  (bis zum „m“ in .com], klicken Sie mit der rechten Maustaste darauf, kopieren Sie ihn und speichern Sie ihn.
 
    ![](assets/set-up-the-on24-integration-with-marketo-15.png)
 

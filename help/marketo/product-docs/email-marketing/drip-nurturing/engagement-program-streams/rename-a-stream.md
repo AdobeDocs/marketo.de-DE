@@ -4,7 +4,7 @@ description: Umbenennen eines Streams - Marketo-Dokumente - Produktdokumentation
 title: Umbenennen eines Streams
 exl-id: 38e8af11-78a7-4c52-b0d4-301f97d50999
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Wenn Sie organisiert bleiben möchten, können Sie Ihre Streams umbenennen. So geht das.
 
-1. Suchen Sie Ihr Interaktionsprogramm, wählen Sie es aus und klicken Sie dann auf **Streams**.
+1. Suchen Sie Ihr Interaktionsprogramm, wählen Sie es aus und klicken Sie dann auf **[!UICONTROL Streams]**.
 
    ![](assets/cloneasteam-1.jpg)
 
@@ -23,7 +23,7 @@ Wenn Sie organisiert bleiben möchten, können Sie Ihre Streams umbenennen. So g
 
    ![](assets/image2014-9-15-17-3a4-3a10.png)
 
-1. Geben Sie den neuen Stream (**) ein** klicken Sie auf **Speichern**.
+1. Geben Sie den neuen Stream (**[!UICONTROL ) ein]** klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/image2014-9-15-17-3a4-3a14.png)
 

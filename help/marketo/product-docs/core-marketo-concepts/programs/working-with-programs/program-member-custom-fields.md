@@ -4,7 +4,7 @@ description: Benutzerdefinierte Felder für Programmteilnehmer - Marketo-Dokumen
 title: Benutzerdefinierte Felder für Programmteilnehmer
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
 feature: Programs
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '416'
 ht-degree: 1%
@@ -29,13 +29,13 @@ Benutzerdefinierte Felder für Programmteilnehmer ermöglichen es Ihnen, program
 
    ![](assets/three.png)
 
-1. Klicken Sie auf die Dropdown-Liste Objekt und wählen Sie das gewünschte Objekt aus.
+1. Klicken Sie auf **[!UICONTROL Objekt]** und wählen Sie das gewünschte Objekt aus.
 
    ![](assets/four.png)
 
    >[!NOTE]
    >
-   >Benutzerdefinierte Felder für Personen und Programmteilnehmer können nicht denselben Namen haben.
+   >Benutzerdefinierte Felder [!UICONTROL Person] und [!UICONTROL Programmteilnehmer] können nicht denselben Namen haben.
 
 1. Füllen Sie die restlichen Felder aus und klicken Sie auf **[!UICONTROL Erstellen]**.
 
@@ -43,7 +43,7 @@ Benutzerdefinierte Felder für Programmteilnehmer ermöglichen es Ihnen, program
 
    >[!NOTE]
    >
-   >Für die benutzerdefinierten Felder der Programmteilnehmer werden folgende Typen unterstützt: Boolesch, Datum, Datum/Uhrzeit, Gleitkommazahl, Ganzzahl, Zeichenfolge, URL. [Weitere Informationen zu Feldtypen](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md){target="_blank"}.
+   >Für [!UICONTROL Programmteilnehmer] benutzerdefinierte Felder werden folgende Typen unterstützt: Boolesch, Datum, Uhrzeit, Gleitkommazahl, Ganzzahl, Zeichenfolge, URL. [Weitere Informationen zu Feldtypen](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md){target="_blank"}.
 
 ## Objektbeschreibungen {#object-descriptions}
 

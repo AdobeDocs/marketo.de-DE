@@ -4,7 +4,7 @@ description: Archivieren und Aufheben der Archivierung von Stream-Inhalten - Mar
 title: Archivieren und Aufheben der Archivierung von Stream-Inhalten
 exl-id: 45a7fec2-a98d-4a3f-8033-543cc88c499f
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 1%
@@ -21,11 +21,11 @@ Wenn Sie ein Inhaltselement nicht mehr in einem Stream verwenden möchten, könn
 
 ## Stream-Inhalte archivieren {#archive-stream-content}
 
-1. Wählen Sie Ihr Interaktionsprogramm aus und wechseln Sie zur Registerkarte **Streams** .
+1. Wählen Sie Ihr Interaktionsprogramm aus und wechseln Sie zur Registerkarte **[!UICONTROL Streams]** .
 
    ![](assets/cloneasteam-4.jpg)
 
-1. Bewegen Sie den Mauszeiger über die E-Mail, die Sie archivieren möchten, und klicken Sie dann unter dem Zahnradsymbol auf **Archivieren**.
+1. Bewegen Sie den Mauszeiger über die E-Mail, die Sie archivieren möchten, und klicken Sie dann unter dem Zahnradsymbol auf **[!UICONTROL Archivieren]**.
 
    ![](assets/image2014-9-15-17-3a42-3a7.png)
 
@@ -33,15 +33,15 @@ Wenn Sie ein Inhaltselement nicht mehr in einem Stream verwenden möchten, könn
 
 ## Archivierung von Stream-Inhalten aufheben {#unarchive-stream-content}
 
-1. Wählen Sie Ihr Interaktionsprogramm aus und wechseln Sie zur Registerkarte **Streams** .
+1. Wählen Sie Ihr Interaktionsprogramm aus und wechseln Sie zur Registerkarte **[!UICONTROL Streams]** .
 
    ![](assets/image2014-9-15-17-3a42-3a11.png)
 
-1. Klicken Sie auf das Zahnradsymbol für Ihren Stream und dann auf **Archivierten Inhalt anzeigen**.
+1. Klicken Sie auf das Zahnradsymbol für Ihren Stream und dann auf **[!UICONTROL Archivierten Inhalt anzeigen]**.
 
    ![](assets/image2014-9-15-17-3a42-3a15.png)
 
-1. Jetzt, da Sie den archivierten Inhalt sehen können, klicken Sie auf das Zahnradsymbol für den Inhalt, dessen Archivierung Sie aufheben möchten, und klicken Sie dann auf **Archivierung aufheben**.
+1. Jetzt, da Sie den archivierten Inhalt sehen können, klicken Sie auf das Zahnradsymbol für den Inhalt, dessen Archivierung Sie aufheben möchten, und klicken Sie dann auf **[!UICONTROL Archivierung aufheben]**.
 
    ![](assets/image2014-9-15-17-3a42-3a24.png)
 

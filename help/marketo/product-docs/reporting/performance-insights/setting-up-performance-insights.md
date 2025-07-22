@@ -4,32 +4,32 @@ description: Einrichten von Performance Insights - Marketo-Dokumente - Produktdo
 title: Einrichten von Performance Insights
 exl-id: f87bbaba-c2c1-4b83-9e07-f8a5d1f1738b
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '310'
-ht-degree: 3%
+ht-degree: 1%
 
 ---
 
-# Einrichten von Performance Insights {#setting-up-performance-insights}
+# Einrichten von [!UICONTROL Performance Insights] {#setting-up-performance-insights}
 
 Gehen Sie wie folgt vor, um MPI einzurichten.
 
 ## Opportunity-Setup {#opportunity-setup}
 
-1. Klicken Sie auf **Admin**.
+1. Klicken Sie auf **[!UICONTROL Admin]**.
 
    ![](assets/admin.png)
 
-1. Klicken Sie **Umsatzzyklusanalyse**.
+1. Klicken Sie **[!UICONTROL Umsatzzyklusanalyse]**.
 
    ![](assets/two-2.png)
 
    >[!NOTE]
    >
-   >Wenn Sie keine RCA haben, müssen Sie für Schritt 2 **Programmanalyse** auswählen.
+   >Wenn Sie keine RCA haben, müssen Sie für Schritt 2 **[!UICONTROL Programmanalyse]** auswählen.
 
-1. Klicken Sie unter Attribution auf **Bearbeiten**.
+1. Klicken Sie unter Attribution auf **[!UICONTROL Bearbeiten]**.
 
    ![](assets/three-1.png)
 
@@ -45,18 +45,18 @@ Gehen Sie wie folgt vor, um MPI einzurichten.
    >
    >Stellen Sie sicher, dass bei allen Opportunitys die entsprechenden Felder ausgefüllt sind:
    >
-   >* Opportunity-Betrag
-   >* Ist geschlossen
-   >* Ist gewonnen
-   >* Erstellungsdatum (wird in Ihrem Fall möglicherweise nicht festgelegt)
-   >* Abschlussdatum (wird in Ihrem Fall möglicherweise nicht festgelegt)
-   >* Opportunity-Typ
+   >* [!UICONTROL Opportunity-Betrag]
+   >* [!UICONTROL Ist geschlossen]
+   >* [!UICONTROL Ist gewonnen]
+   >* [!UICONTROL Erstellungsdatum] (kann in Ihrem Fall nicht festgelegt werden)
+   >* [!UICONTROL Abschlussdatum] (kann in Ihrem Fall nicht festgelegt werden)
+   >* [!UICONTROL Opportunity-Typ]
 
 ## Programm-Installation {#program-setup}
 
 Aktualisieren Sie die Programmkosten für mindestens 12 Monate. Sie können dies manuell oder mithilfe der Programm-API tun. In diesem Beispiel machen wir es manuell.
 
-1. Klicken Sie **Marketing-Aktivitäten**.
+1. Klicken Sie **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/ma.png)
 
@@ -64,29 +64,29 @@ Aktualisieren Sie die Programmkosten für mindestens 12 Monate. Sie können dies
 
    ![](assets/select-program.png)
 
-1. Klicken Sie auf **Registerkarte** Setup“.
+1. Klicken Sie auf **[!UICONTROL Registerkarte]** Setup“.
 
    ![](assets/setup-tab.png)
 
-1. Ziehen Sie **Periodenkosten** auf die Arbeitsfläche.
+1. Ziehen Sie **[!UICONTROL Periodenkosten]** auf die Arbeitsfläche.
 
    ![](assets/period-cost.png)
 
-1. Legen Sie den Programmmonat auf mindestens 12 Monate fest und klicken Sie auf **OK**.
+1. Legen Sie den Programmmonat auf mindestens 12 Monate fest und klicken Sie auf **[!UICONTROL OK]**.
 
    ![](assets/set-period.png)
 
-1. Legen Sie die Periodenkosten fest und klicken Sie auf **Speichern**.
+1. Legen Sie die Periodenkosten fest und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/set-cost.png)
 
 Überprüfen Sie anschließend das Analytics-Verhalten, um anzugeben, ob ein bestimmter Kanal in Analytics einbezogen werden soll. Legen Sie das Analytics-Verhalten fest (normal, einschließlich, betriebsbereit).
 
-1. Klicken Sie auf **Admin**.
+1. Klicken Sie auf **[!UICONTROL Admin]**.
 
    ![](assets/admin.png)
 
-1. Klicken Sie auf **Tags**.
+1. Klicken Sie auf **[!UICONTROL Tags]**.
 
    ![](assets/tags.png)
 
@@ -98,7 +98,7 @@ Aktualisieren Sie die Programmkosten für mindestens 12 Monate. Sie können dies
 
    ![](assets/channel-click.png)
 
-1. Klicken Sie auf die **Analytics-Verhalten** und wählen Sie das gewünschte Verhalten aus.
+1. Klicken Sie auf die **[!UICONTROL Analytics-Verhalten]** und wählen Sie das gewünschte Verhalten aus.
 
    ![](assets/edit-channel.png)
 
@@ -106,7 +106,7 @@ Aktualisieren Sie die Programmkosten für mindestens 12 Monate. Sie können dies
 
    ![](assets/success.png)
 
-1. Klicken Sie auf **Speichern**.
+1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/save.png)
 

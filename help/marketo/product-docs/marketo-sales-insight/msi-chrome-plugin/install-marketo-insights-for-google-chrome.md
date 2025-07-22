@@ -4,30 +4,30 @@ description: Installieren von Marketo Insights für Google Chrome - Marketo-Doku
 title: Installieren von Marketo Insights für Google Chrome
 exl-id: 358b2737-52de-4d3b-a6e8-3254a8123359
 feature: Marketo Sales Insights
-source-git-commit: e5fe19bd17e3da7991b09dfa17beb05d4efd58f6
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '200'
 ht-degree: 0%
 
 ---
 
-# Installieren von Marketo Insights für Google Chrome {#install-marketo-insights-for-google-chrome}
+# Installieren von Marketo Insights für [!DNL Google Chrome] {#install-marketo-insights-for-google-chrome}
 
 Führen Sie diese Schritte aus, um mit der Verwendung des leistungsstarken Chrome-Add-ins zu beginnen. Sie müssen kein Marketo-Administrator sein, um die Erweiterung zu installieren.
 
 >[!NOTE]
 >
->Die Funktionen für Sales Insights-Aktionen, einschließlich „Sales E-Mail senden“, „Zu Sales-Kampagne hinzufügen“ und „Aufgaben“, sind in den E-Mail-Plug-ins für Sales Insights für Gmail und Outlook nicht verfügbar. Derzeit haben Benutzer nur die Möglichkeit, über ihren E-Mail-Client eine verfolgbare E-Mail mit oder ohne Marketo-E-Mail-Vorlage zu senden, wenn sie die Plug-ins für Sales Insight verwenden.
+>Die Aktionsfunktionen von Sales Insight, einschließlich „Verkaufs-E-Mail senden“, „Zu Verkaufskampagne hinzufügen“ und „Aufgaben“, sind in den E-Mail-Plug-ins von Sales Insight für Gmail und Outlook nicht verfügbar. Derzeit haben Benutzer nur die Möglichkeit, über ihren E-Mail-Client eine verfolgbare E-Mail mit oder ohne Marketo-E-Mail-Vorlage zu senden, wenn sie die E-Mail-Plug-ins für Sales Insight verwenden.
 
 1. Installieren Sie [Marketo Insights for Google Chrome Add In](https://chrome.google.com/webstore/detail/marketo-for-google-mail/jjkfbhajlmoeegbjgjipliamplidmbjb){target="_blank"}Erweiterung vom Chrome Web Store.
 
    ![](assets/image2015-10-5-10-3a24-3a7.png)
 
-1. Klicken Sie in Chrome mit der rechten Maustaste auf das Marketo-Logo und wählen Sie **Optionen** aus.
+1. Klicken Sie mit der rechten Maustaste auf das Marketo-Logo in [!DNL Chrome] und wählen Sie **[!UICONTROL Optionen]**.
 
    ![](assets/two.png)
 
-1. Geben Sie Ihren **(**), **E-Mail**, **Vorname** und **Nachname**. Klicken Sie **Überprüfen und speichern**.
+1. Geben Sie Ihren **[!UICONTROL (]**), **[!UICONTROL E-Mail]**, **[!UICONTROL Vorname]** und **[!UICONTROL Nachname]**. Klicken Sie **[!UICONTROL Überprüfen und speichern]**.
 
    ![](assets/three.png)
 
@@ -39,7 +39,7 @@ Führen Sie diese Schritte aus, um mit der Verwendung des leistungsstarken Chrom
    >
    >Der Registrierungscode wird in der E-Mail angezeigt, die gesendet wird, nachdem ein Marketo-Administrator [Ihnen eine Marketo E-Mail-Add-in-Lizenz ausgestellt hat](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md){target="_blank"}. **Er läuft nach 14 Tagen**.
 
-1. Klicken Sie auf **Zulassen**, um den Offline-Zugriff zuzulassen.
+1. Klicken Sie auf **[!UICONTROL Zulassen]**, um den Offline-Zugriff zuzulassen.
 
    ![](assets/image2015-10-5-10-3a34-3a1.png)
 

@@ -4,9 +4,9 @@ description: Erstellen einer Kalenderereignisdatei (.ics) - Marketo-Dokumente - 
 title: Erstellen einer Kalenderereignisdatei (.ics)
 exl-id: 17b5d99d-94ce-4122-8928-4290cc253d11
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
@@ -15,19 +15,19 @@ ht-degree: 0%
 
 Mit einem Kalenderdatei-Token können Sie einen Kalenderereignis-Link (.ics) zu Ihren Marketo-E-Mails und -Landingpages hinzufügen.
 
-1. Wechseln Sie in Ihrem Programm zur Registerkarte **Meine Token** .
+1. Wechseln Sie in Ihrem Programm zur Registerkarte **[!UICONTROL Meine Token]** .
 
    ![](assets/image2014-9-11-15-3a33-3a27.png)
 
-1. Ziehen Sie ein **Kalenderdatei“-** auf die Arbeitsfläche.
+1. Ziehen Sie ein **[!UICONTROL Kalenderdatei“-]** auf die Arbeitsfläche.
 
    ![](assets/image2014-9-11-15-3a34-3a0.png)
 
-1. Geben Sie einen **Token-Namen** und **Bearbeiten** ein.
+1. Geben Sie einen **Token-Namen** ein und klicken Sie auf **[!UICONTROL Zum Bearbeiten klicken]**.
 
    ![](assets/image2014-9-11-15-3a34-3a10.png)
 
-1. Geben Sie Details ein und klicken Sie auf **Speichern**.
+1. Geben Sie Details ein und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/image2014-9-11-15-3a34-3a16.png)
 

@@ -3,24 +3,24 @@ description: Einrichten von MSI-Ansichten - Marketo-Dokumente - Produktdokumenta
 title: Einrichten von MSI-Ansichten
 exl-id: 8a45c006-73d4-4af8-ad62-b084056d1f7d
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '248'
 ht-degree: 1%
 
 ---
 
 # Einrichten von MSI-Ansichten {#setting-up-msi-views}
 
-Durch die Installation des Sales Insight-Plug-ins in Dynamics werden automatisch die besten Wetten und zugehörigen Dashboards zur Sitemap hinzugefügt. Wenn die Dashboards aus irgendeinem Grund nicht hinzugefügt werden, erfahren Sie hier, wie Sie sie manuell hinzufügen.
+Durch die Installation des [!DNL Sales Insight]-Plug-ins in Dynamics werden die [!DNL Best Bets] und zugehörigen Dashboards automatisch zur Siteübersicht hinzugefügt. Wenn die Dashboards aus irgendeinem Grund nicht hinzugefügt werden, erfahren Sie hier, wie Sie sie manuell hinzufügen.
 
-1. Klicken Sie in Dynamics auf das Zahnradsymbol und wählen Sie **Erweiterte Einstellungen** aus der Dropdown-Liste aus.
+1. Klicken Sie in Dynamics auf das Zahnradsymbol und wählen Sie **[!UICONTROL Erweiterte Einstellungen]** aus der Dropdown-Liste aus.
 
-1. Klicken Sie oben links im Bildschirm auf **Einstellungen**. Wählen Sie unter Anpassung **Anpassungen** aus.
+1. Klicken Sie oben links im Bildschirm auf **[!UICONTROL Einstellungen]**. Wählen Sie unter Anpassung **[!UICONTROL Anpassungen]** aus.
 
-1. Klicken Sie **System anpassen**.
+1. Klicken Sie **[!UICONTROL System anpassen]**.
 
-1. Klicken Sie in der Baumstruktur links auf **Client-Erweiterungen** und doppelklicken Sie auf **Siteübersicht**.
+1. Klicken Sie in der Baumstruktur links auf **[!UICONTROL Client-Erweiterungen]** und doppelklicken Sie auf **[!UICONTROL Siteübersicht]**.
 
 1. Klicken Sie auf den Pfeil nach rechts, um zur nächsten Seite zu gelangen. Unter „Vertrieb“ sollte Marketo angezeigt werden. Andernfalls müssen Sie sicherstellen, dass Sie das Paket ordnungsgemäß importiert haben.
 
@@ -54,4 +54,4 @@ Symbol: /WebResources/mkt_/_MainView/_imgs/icons/anonymous_web_activity.svg</br>
 ID: marketo_anonymous_webactivity</br>
 Titel: Anonyme Web-Aktivität
 
-1. Klicken Sie auf **Speichern**, wenn Sie fertig sind.
+1. Klicken Sie auf **[!UICONTROL Speichern]**, wenn Sie fertig sind.

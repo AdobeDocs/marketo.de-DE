@@ -4,7 +4,7 @@ description: Verstehen von Interaktionsprogrammen - Marketo-Dokumente - Produktd
 title: Verstehen von Interaktionsprogrammen
 exl-id: dd573749-5ae6-4794-a340-b5139c316cce
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '284'
 ht-degree: 8%
@@ -19,7 +19,7 @@ Interaktionsprogramme sind so konzipiert, dass sie neuen Personen Inhalte system
 >
 >Pro Abonnement sind maximal 100 **aktive** Interaktionsprogramme zulässig.
 
-## Engagementprogramm {#engagement-program}
+## Interaktionsprogramm {#engagement-program}
 
 Ein **Interaktionsprogramm** ist eine Art Programm, das auf einfache Weise komplexe Pflege durchführen kann.
 
@@ -74,7 +74,7 @@ Sie entscheiden, wann eine Besetzung geschieht, indem Sie **Stream-Kadenz** einr
 
 ## Personen-Kadenz {#person-cadence}
 
-Eine **Personen-Kadenz** ist ein Status, der seine Fähigkeit definiert, Inhalte aus einem Interaktionsprogramm zu erhalten. Sie können den Flussschritt **Interaktionsprogramm-Kadenz ändern** verwenden, um dies in „Ausgesetzt“ oder „Normal“ zu ändern.
+Eine **Personen-Kadenz** ist ein Status, der seine Fähigkeit definiert, Inhalte aus einem Interaktionsprogramm zu erhalten. Sie können den **[!UICONTROL Ändern der Interaktionsprogrammkadenz]** Flussschritt verwenden, um dies in &quot;[!UICONTROL &quot; ] &quot;[!UICONTROL &quot; ].
 
 ![](assets/image2014-9-15-15-3a25-3a55.png)
 

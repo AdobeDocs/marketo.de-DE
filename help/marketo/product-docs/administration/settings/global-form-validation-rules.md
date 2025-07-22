@@ -3,7 +3,7 @@ description: Globale Formularvalidierungsregeln - Marketo-Dokumente - Produktdok
 title: Globale Formularvalidierungsregeln
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
 feature: Administration
-source-git-commit: 8958bbd03c3c6b1c6ac4769c229ad28590191fb3
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '281'
 ht-degree: 2%
@@ -12,7 +12,7 @@ ht-degree: 2%
 
 # Globale Formularvalidierungsregeln {#global-form-validation-rules}
 
-Mit dieser Funktion können Sie verhindern, dass bestimmte Domains Formulare an Marketo Engage senden.
+Mit dieser Funktion können Sie verhindern, dass bestimmte Domains an Marketo Engage-Formulare gesendet werden.
 
 ## Aktivieren des Zugriffs {#how-to-enable-access}
 
@@ -34,7 +34,7 @@ Bevor Sie diese Funktion verwenden können, müssen Sie ihre Berechtigung für d
 
    ![](assets/global-form-validation-rules-4.png)
 
-1. Klicken Sie auf das Pluszeichen **+** neben Zugriff auf Admin.
+1. Klicken Sie auf das Pluszeichen **+** neben **Zugriff auf Admin**.
 
    ![](assets/global-form-validation-rules-5.png)
 
@@ -62,7 +62,7 @@ Bevor Sie diese Funktion verwenden können, müssen Sie ihre Berechtigung für d
 
    >[!NOTE]
    >
-   >Im Dropdown-Menü Aktionen für Formularvalidierungsregeln können Sie vorhandene Regeln löschen oder bearbeiten.
+   >In [!UICONTROL  Dropdown-Liste Formularvalidierungsregelaktionen ] Sie vorhandene Regeln löschen oder bearbeiten.
 
 1. Benennen Sie Ihre Regel, geben Sie ihr eine optionale Beschreibung und geben Sie die Fehlermeldung ein, die den Besuchern des Formulars angezeigt werden soll. Geben Sie im Feld Regeln die Domain(s) ein, die blockiert werden sollen, wählen Sie **[!UICONTROL Regel aktivieren]** und klicken Sie auf **[!UICONTROL Erstellen]**.
 
@@ -70,7 +70,7 @@ Bevor Sie diese Funktion verwenden können, müssen Sie ihre Berechtigung für d
 
 >[!NOTE]
 >
->Marketo Engage verfügt über eine definierte Blockierungsliste-Blockierungsliste mit einer  von kostenlosen E-Mail-Domains von Privatkunden, die bei Verwendung unserer vorab geladenen Regel „Privatkunden-E-Mail-Domain-&quot; blockiert werden. [Diese Liste hier anzeigen](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv) (Zum Herunterladen stellen Sie sicher, dass Ihr Browser auf dem neuesten Stand ist und Downloads akzeptieren kann).
+>Marketo Engage verfügt über eine definierte Blockierungsliste von kostenlosen E-Mail-Domains von Privatkund*innen, die bei Verwendung unserer vorab geladenen Regel „Verbraucher-E-Mail-Domain-Blockierungsliste&quot; blockiert werden. [Diese Liste hier anzeigen](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv) (Zum Herunterladen stellen Sie sicher, dass Ihr Browser auf dem neuesten Stand ist und Downloads akzeptieren kann).
 
 ## Deaktivieren des Zugriffs pro Formular{#how-to-disable-access-per-form}
 

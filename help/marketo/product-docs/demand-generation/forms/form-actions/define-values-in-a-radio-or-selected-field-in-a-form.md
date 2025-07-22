@@ -4,7 +4,7 @@ description: Definieren von Werten in einem Optionsfeld oder einem ausgewählten
 title: Definieren von Werten in einem Optionsfeld oder einem ausgewählten Feld in einem Formular
 exl-id: 62e8d1db-3de7-4129-80d5-11c1fe8d9dd3
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 1%
@@ -15,21 +15,21 @@ ht-degree: 1%
 
 Nachdem Sie &quot;[ Feldtyp“ ](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) Optionsfeld- oder Auswahltyp festgelegt haben, sollten Sie die Werte definieren, aus denen der Benutzer auswählen kann. So geht&#39;s.
 
-1. Navigieren Sie **Marketing-Aktivitäten**.
+1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/ma.png)
 
-1. Wählen Sie Ihr Formular aus und klicken Sie auf **Formular bearbeiten**.
+1. Wählen Sie Ihr Formular aus und klicken Sie auf **[!UICONTROL Formular bearbeiten]**.
 
    ![](assets/image2014-9-15-16-3a28-3a56.png)
 
-1. Wählen Sie das Feld aus und klicken Sie auf **Bearbeiten**.
+1. Wählen Sie das Feld aus und klicken Sie auf **[!UICONTROL Bearbeiten]**.
 
    ![](assets/image2014-9-15-16-3a29-3a6.png)
 
    >[!NOTE]
    >
-   >Der erste und standardmäßige Wert ist immer „Auswählen…“ Sie können das gerne bearbeiten. Wenn Sie das Standard-Optionsfeld in eine andere Zeile ändern, wird „Auswählen…“ nicht als Auswahl im Formular angezeigt.
+   >Der erste und standardmäßige Wert ist immer &quot;[!UICONTROL …]&quot;. Sie können diesen Wert jederzeit bearbeiten. Wenn Sie das Standard-Optionsfeld in eine andere Zeile ändern, wird &quot;[!UICONTROL Auswählen…]&quot; nicht als Auswahl im Formular angezeigt.
 
 1. Klicken, um Wert hinzuzufügen.
 
@@ -39,27 +39,27 @@ Nachdem Sie &quot;[ Feldtyp“ ](/help/marketo/product-docs/administration/field
    >
    >**Definition**
    >
-   >**Anzeigewert:** Was dem Besucher angezeigt wird.
+   >**[!UICONTROL Wert anzeigen]:** Was dem Besucher angezeigt wird.
    >
-   >**Gespeicherter Wert:** Was in Marketo aufgezeichnet wird.
+   >**[!UICONTROL Gespeicherter Wert]:** Was in Marketo aufgezeichnet wird.
 
-1. Fügen Sie beliebig viele Werte hinzu und klicken Sie dann auf **Speichern**.
+1. Fügen Sie beliebig viele Werte hinzu und klicken Sie dann auf **[!UICONTROL Speichern]**.
 
    >[!NOTE]
    >
-   >Wenn Sie keinen gespeicherten Wert eingeben, verwendet Marketo den Anzeigewert und speichert diesen.
+   >Wenn Sie keinen &quot;[!UICONTROL  Wert“ eingeben] verwendet Marketo den [!UICONTROL Wert anzeigen] und speichert diesen.
 
    ![](assets/image2014-9-15-16-3a29-3a30.png)
 
    >[!TIP]
    >
-   >Klicken Sie **Erweiterter Editor**, um eine Liste mit Werten zu kopieren/einzufügen. Es kann echtzeitsparend sein.
+   >Klicken Sie **[!UICONTROL Erweiterter Editor]**, um eine Liste mit Werten zu kopieren/einzufügen. Es kann echtzeitsparend sein.
 
-1. Klicken Sie auf **Fertigstellen**.
+1. Klicken Sie auf **[!UICONTROL Fertigstellen]**.
 
    ![](assets/image2014-9-15-16-3a29-3a43.png)
 
-1. Klicken Sie **Genehmigen und schließen**.
+1. Klicken Sie **[!UICONTROL Genehmigen und schließen]**.
 
    ![](assets/image2014-9-15-16-3a29-3a57.png)
 

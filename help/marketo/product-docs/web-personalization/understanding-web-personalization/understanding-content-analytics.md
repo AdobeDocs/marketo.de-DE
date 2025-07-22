@@ -1,27 +1,27 @@
 ---
 unique-page-id: 10093159
-description: Grundlegendes zur Inhaltsanalyse - Marketo-Dokumente - Produktdokumentation
-title: Grundlagen zur Inhaltsanalyse
+description: Grundlegendes zu Content Analytics - Marketo-Dokumente - Produktdokumentation
+title: Grundlegendes zu Content Analytics
 exl-id: 9266fdfe-2a12-43b0-84ad-d12eb8589ed4
 feature: Web Personalization
-source-git-commit: 89995b2cd6fdc2f2e4ea43906304bdf16d367de1
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '374'
-ht-degree: 2%
+source-wordcount: '377'
+ht-degree: 1%
 
 ---
 
-# Grundlagen zur Inhaltsanalyse {#understanding-content-analytics}
+# Grundlegendes zu Content Analytics {#understanding-content-analytics}
 
-Auf der Seite „Inhaltsanalyse“ werden die von Ihrer Website gefundenen vorhandenen Inhalte (Fallstudien, Blog-Posts, Videos, Pressemitteilungen usw.) angezeigt. Es zeigt auch die Leistung Ihrer Inhalte und Personen an, die generiert werden, wenn Besucher mit ihnen interagieren.
+Auf der Content Analytics-Seite werden die von Ihrer Website entdeckten Inhalte (Fallstudien, Blog-Posts, Videos, Pressemitteilungen usw.) angezeigt. Es zeigt auch die Leistung Ihrer Inhalte und Personen an, die generiert werden, wenn Besucher mit ihnen interagieren.
 
-## Anzeigen von Inhaltsanalysen {#view-content-analytics}
+## Content Analytics anzeigen {#view-content-analytics}
 
-Navigieren Sie zu **Inhaltsanalyse**.
+Zu **[!UICONTROL Content Analytics]**.
 
 ![](assets/one.png)
 
-Auf der Seite „Inhaltsanalyse“ haben Sie folgende Möglichkeiten:
+Auf der Seite [!UICONTROL Content Analytics] haben Sie folgende Möglichkeiten:
 
 * Filtern nach Zeitbereich (Tag, Woche und Monat)
 * Suche nach Inhaltstitel und Inhalts-URL
@@ -44,19 +44,19 @@ Die Analytics-Tabelle enthält die folgenden Details:
  </thead> 
  <tbody> 
   <tr> 
-   <td colspan="1" rowspan="1"><strong>Titel</strong></td> 
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Titel]</strong></td> 
    <td colspan="1" rowspan="1">Name des Assets mit digitalen Inhalten. Klicken Sie <strong>Titel</strong>, um die Inhalts-URL in einer neuen Registerkarte zu öffnen.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><p><strong>Recommendation </strong><strong>icon</strong></p><p><img alt="—" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></p></td> 
-   <td colspan="1">Gibt an, ob das Inhaltselement für „Content Recommendations<a href="#"> hinzugefügt </a>.</td> 
+   <td colspan="1">Zeigt an, ob das Inhaltselement für Inhaltsempfehlungen <a href="#"> wurde</a>.</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p><strong>Ansichten</strong></p></td> 
+   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL-Ansichten]</strong></p></td> 
    <td colspan="1" rowspan="1"><p>Die Anzahl der Ansichten von Web-Besuchern über das Inhalts-Asset. Die Häufigkeit, mit der sie angezeigt, geöffnet, angesehen oder heruntergeladen wurde. Klicken Sie auf die Anzahl der Anzeigen in der Spalte, um einen Drilldown durchzuführen und zu sehen, wer den Inhalt angezeigt hat</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><strong>Direkte Konvertierungen</strong></td> 
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Direct Conversions]</strong></td> 
    <td colspan="1" rowspan="1">Web-Besucherinnen und -Besucher, die den Inhalt angesehen und ein Formular während desselben Besuchs ausgefüllt haben</td> 
   </tr> 
   <tr> 
@@ -70,13 +70,13 @@ Die Analytics-Tabelle enthält die folgenden Details:
  </tbody> 
 </table>
 
-## Anzeigen zusätzlicher Inhaltsanalysen {#view-additional-content-analytics}
+## Weitere Content Analytics anzeigen {#view-additional-content-analytics}
 
 Klicken Sie auf das Analytics-Symbol eines Inhaltselements.
 
 ![](assets/four.png)
 
-Ein Dialogfeld mit zusätzlichen Inhaltsanalysen für dieses bestimmte Inhaltselement wird geöffnet.
+Ein Dialogfeld mit zusätzlichen Content Analytics für dieses spezifische Inhaltselement wird geöffnet.
 
 ![](assets/five.png)
 
@@ -84,19 +84,19 @@ Zu den zusätzlichen Inhaltsanalysen gehören:
 
 **Analytics**
 
-* **Ansichten**: Ansichten dieses Inhaltselements für den ausgewählten Zeitraum
-* **Direkte Konversionen**: Web-Besucher, die den Inhalt angesehen und ein Formular während desselben Besuchs ausgefüllt haben.
-* **Konversionsrate**&#x200B;**:** Eine prozentuale Konversionsrate, berechnet durch direkte Konversionen dividiert durch Klicks
+* **[!UICONTROL Ansichten]**: Ansichten dieses Inhaltselements für den ausgewählten Zeitraum
+* **[!UICONTROL Direkte Konversionen]**: Web-Besucher, die den Inhalt angesehen und ein Formular während desselben Besuchs ausgefüllt haben.
+* **[!UICONTROL Konversionsrate]****:** Eine prozentuale Konversionsrate, berechnet durch direkte Konversionen dividiert durch Klicks
 
-**Trends**
+**[!UICONTROL Trends]**
 
-* Ein **Trends**-Diagramm, das die letzten 30 Tage der Ansichten des jeweiligen Inhaltselements anzeigt. Bewegen Sie den Mauszeiger über das Liniendiagramm, um die Anzahl der Inhaltsansichten von einem bestimmten Tag anzuzeigen
+* Ein **[!UICONTROL Trends]**-Diagramm, das die letzten 30 Tage der Ansichten des jeweiligen Inhaltselements anzeigt. Bewegen Sie den Mauszeiger über das Liniendiagramm, um die Anzahl der Inhaltsansichten von einem bestimmten Tag anzuzeigen
 
 ## Inhalte löschen {#delete-content}
 
 ![](assets/six.png)
 
-Klicken Sie auf der Seite „Inhaltsanalyse“ auf das Löschsymbol des Inhalts, den Sie löschen möchten. Es wird eine Meldung angezeigt, die bestätigt, dass Sie den Inhalt löschen möchten.
+Klicken Sie auf der Seite [!UICONTROL 0}Content Analytics&quot; auf das Löschsymbol des Inhalts, den Sie löschen möchten. ] Es wird eine Meldung angezeigt, die bestätigt, dass Sie den Inhalt löschen möchten.
 
 >[!MORELIKETHIS]
 >

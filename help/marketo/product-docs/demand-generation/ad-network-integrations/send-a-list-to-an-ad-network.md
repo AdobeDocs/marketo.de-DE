@@ -3,24 +3,24 @@ description: Senden einer Liste an ein Werbenetzwerk - Marketo-Dokumente - Produ
 title: Liste an ein Werbenetzwerk senden
 exl-id: d5c55df7-53c8-491a-9d79-ecf7c25cee08
 feature: Integrations
-source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '216'
 ht-degree: 1%
 
 ---
 
 # Liste an ein Werbenetzwerk senden {#send-a-list-to-an-ad-network}
 
-Erfahren Sie, wie Sie eine statische Liste an LinkedIn, Facebook oder Google senden.
+Erfahren Sie, wie Sie eine statische Liste an [!DNL LinkedIn], [!DNL Facebook] oder Google senden.
 
 ## Senden einer Liste {#how-to-send-a-list}
 
-1. Wählen Sie in Marketo Engage Ihre Liste aus, klicken Sie auf die Dropdown **[!UICONTROL Liste Aktionen]** und wählen Sie **[!UICONTROL An Anzeigennetzwerk senden]**.
+1. Wählen Sie in Marketo Ihre Liste aus, klicken Sie auf die Dropdown **[!UICONTROL Liste Aktionen]** und wählen Sie **[!UICONTROL An Anzeigennetzwerk senden]**.
 
    ![](assets/send-a-list-to-an-ad-network-1.png)
 
-1. Wählen Sie zwischen LinkedIn, Facebook oder Google (die anderen Optionen sind derzeit nicht verfügbar). In diesem Beispiel wählen wir **[!UICONTROL LinkedIn]**. Klicken Sie auf **[!UICONTROL Weiter]**.
+1. Wählen Sie zwischen [!DNL LinkedIn], [!DNL Facebook] oder Google (die anderen Optionen sind derzeit nicht verfügbar). In diesem Beispiel wählen wir **[!DNL LinkedIn]**. Klicken Sie auf **[!UICONTROL Weiter]**.
 
    ![](assets/send-a-list-to-an-ad-network-2.png)
 
@@ -32,13 +32,13 @@ Erfahren Sie, wie Sie eine statische Liste an LinkedIn, Facebook oder Google sen
    >
    >Wenn Sie eine Überprüfung vornehmen müssen, können Sie über die Registerkarte Status die Ziel-Audience sehen, mit der eine Liste synchronisiert wird.
 
-1. Wählen Sie den gewünschten Push-Typ aus und klicken Sie auf **[!UICONTROL Aktualisieren]**.
+1. Wählen Sie den gewünschten [!UICONTROL Push-Typ] aus und klicken Sie auf **[!UICONTROL Aktualisieren]**.
 
    ![](assets/send-a-list-to-an-ad-network-4.png)
 
    >[!NOTE]
    >
-   >Wenn Sie „Kontinuierliche Zielgruppensynchronisierung aktivieren“ auswählen, wird die Liste in Marketo im ausgewählten Werbenetzwerk auf dem neuesten Stand gehalten, sobald sich die Liste in Ihrer Marketo-Instanz ändert. Wir fügen sowohl _und_ Personen aus der Zielgruppe hinzu, wenn sie der statischen Liste hinzugefügt/daraus entfernt werden.
+   >Wenn Sie &quot;[!UICONTROL Fortlaufende Zielgruppensynchronisierung aktivieren] auswählen, hält Marketo die Liste im ausgewählten Werbenetzwerk auf dem neuesten Stand, wenn sich die Liste in Ihrer Marketo-Instanz ändert. Wir fügen sowohl **und** Personen aus der Zielgruppe hinzu, wenn sie der statischen Liste hinzugefügt oder daraus entfernt werden.
 
 1. Und das war&#39;s! Zum Beenden **[!UICONTROL OK]**.
 

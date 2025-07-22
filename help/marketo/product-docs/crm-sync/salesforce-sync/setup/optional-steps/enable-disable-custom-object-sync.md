@@ -4,9 +4,9 @@ description: Aktivieren/Deaktivieren der Synchronisierung benutzerdefinierter Ob
 title: Benutzerdefinierte Objektsynchronisierung aktivieren/deaktivieren
 exl-id: f17d9135-b33e-48c0-9220-131fb437e9e5
 feature: Salesforce Integration
-source-git-commit: 6293a11b9d48a20da4cb2448c8374c469679abdb
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,7 @@ Benutzerdefinierte Objekte, die in Ihrer Salesforce-Instanz erstellt wurden, kö
 
    >[!NOTE]
    >
-   >Eine Synchronisierung des benutzerdefinierten Salesforce-Objektschemas kann einige Minuten dauern.
+   >Eine Synchronisierung des [!DNL Salesforce] benutzerdefinierten Objektschemas kann einige Minuten dauern.
 
 1. Klicken Sie **[!UICONTROL Schema aktualisieren]**.
 
@@ -49,7 +49,7 @@ Benutzerdefinierte Objekte, die in Ihrer Salesforce-Instanz erstellt wurden, kö
 
    >[!TIP]
    >
-   >Marketo kann ein benutzerdefiniertes Objekt nur synchronisieren, wenn es eine direkte Beziehung mit dem Lead-, Kontakt- oder Kontoobjekt in Salesforce hat.
+   >Marketo kann ein benutzerdefiniertes Objekt nur synchronisieren, wenn es eine direkte Beziehung mit dem Lead-, Kontakt- oder Kontoobjekt in [!DNL Salesforce] hat.
 
    ![](assets/image2014-12-10-10-3a15-3a30.png)
 

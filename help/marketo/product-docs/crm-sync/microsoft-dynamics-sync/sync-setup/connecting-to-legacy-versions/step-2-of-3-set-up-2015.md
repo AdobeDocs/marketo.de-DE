@@ -4,20 +4,20 @@ description: Installieren von Marketo für Microsoft Dynamics 2015 On-Premise - 
 title: Installieren von Marketo für Microsoft Dynamics 2015 On-Premise - Schritt 2 von 3
 exl-id: 39f00749-4ba3-47f1-b2e3-72cbaa7caf2e
 feature: Microsoft Dynamics
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '370'
+source-wordcount: '359'
 ht-degree: 0%
 
 ---
 
-# Schritt 2 von 3 Einrichten von Marketo für Dynamics (2015 On-Premise){#step-of-set-up-for-marketo-on-premises-2015}
+# Schritt 2 von 3 Einrichten von Marketo for [!DNL Dynamics] (2015 On-Premise){#step-of-set-up-for-marketo-on-premises-2015}
 
 Gute Arbeit beim Abschließen der vorherigen Schritte. Lassen Sie uns das immer wieder durchgehen.
 
 >[!PREREQUISITES]
 >
->[Installieren von Marketo für Microsoft Dynamics 2015 On-Premise - Schritt 1 von 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2015.md){target="_blank"}
+>[Installieren von Marketo for [!DNL Microsoft Dynamics] 2015 On-Premise - Schritt 1 von 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2015.md)
 
 ## Assign Sync User Role {#assign-sync-user-role}
 
@@ -25,7 +25,7 @@ Weisen Sie die Rolle Marketo-Synchronisierungsbenutzer nur dem Marketo-Synchroni
 
 >[!NOTE]
 >
->Dies gilt für die Marketo-Version 4.0.0.14 und höher. Bei früheren Versionen müssen alle Benutzer über die Rolle „Benutzer synchronisieren“ verfügen. Informationen zum Upgrade Ihrer Marketo finden Sie unter [Upgrade der Marketo-Lösung für Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md){target="_blank"}.
+>Dies gilt für die Marketo-Version 4.0.0.14 und höher. Bei früheren Versionen müssen alle Benutzer über die Rolle „Benutzer synchronisieren“ verfügen. Informationen zum Upgrade Ihrer Marketo finden Sie unter [Upgrade der Marketo-Lösung für [!DNL Microsoft Dynamics]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
 
 >[!IMPORTANT]
 >
@@ -47,7 +47,7 @@ Weisen Sie die Rolle Marketo-Synchronisierungsbenutzer nur dem Marketo-Synchroni
 
    ![](assets/assign4.png)
 
-1. Markieren Sie Marketo Sync User und klicken Sie auf **[!UICONTROL OK]**.
+1. Markieren Sie [!UICONTROL Marketo-Synchronisierungsbenutzer] und klicken Sie auf **[!UICONTROL OK]**.
 
    ![](assets/assign5.png)
 
@@ -97,10 +97,10 @@ Fast fertig! Wir haben nur noch ein paar letzte Konfigurationsschritte, bevor wi
 
 ## Bevor Sie mit Schritt 3 fortfahren {#before-proceeding-to-step}
 
-* Wenn Sie die Anzahl der zu synchronisierenden Datensätze einschränken möchten, richten [ jetzt einen benutzerdefinierten Synchronisierungsfilter ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md){target="_blank"}.
-* Führen Sie den [Microsoft Dynamics-Synchronisierungsprozess ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md){target="_blank"}. Es stellt sicher, dass die anfänglichen Setups korrekt ausgeführt wurden.
-* Melden Sie sich beim Marketo Sync User in Microsoft Dynamics CRM an.
+* Wenn Sie die Anzahl der zu synchronisierenden Datensätze einschränken möchten, richten [ jetzt einen benutzerdefinierten Synchronisierungsfilter ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md).
+* Führen Sie den Prozess [validate [!DNL Microsoft Dynamics] sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md) aus. Es stellt sicher, dass die anfänglichen Setups korrekt ausgeführt wurden.
+* Melden Sie sich beim Marketo Sync User in [!DNL Microsoft Dynamics] CRM an.
 
 >[!MORELIKETHIS]
 >
->[Installieren von Marketo für Microsoft Dynamics 2015 On-Premise - Schritt 3 von 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2015.md){target="_blank"}
+>[Installieren von Marketo for [!DNL Microsoft Dynamics] 2015 On-Premise - Schritt 3 von 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2015.md)

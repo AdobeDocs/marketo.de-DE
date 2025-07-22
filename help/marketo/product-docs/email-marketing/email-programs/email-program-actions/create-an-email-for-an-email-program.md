@@ -4,7 +4,7 @@ description: Erstellen einer E-Mail für ein E-Mail-Programm - Marketo-Dokumente
 title: Erstellen einer E-Mail für ein E-Mail-Programm
 exl-id: 6513da2c-edbd-463a-8c0b-9f9016620f14
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 0%
@@ -20,15 +20,15 @@ ht-degree: 0%
 
 Nachdem Sie Ihr E-Mail-Programm erstellt und Ihre Audience definiert haben, sollten Sie entscheiden, welche E-Mail Sie senden. Sie können [eine vorhandene E-Mail auswählen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) oder eine neue erstellen. So erstellen Sie eine neue E-Mail.
 
-1. Navigieren Sie **Marketing-Aktivitäten**.
+1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/one.png)
 
-1. Wählen Sie Ihr E-Mail-Programm. Klicken Sie unter **Kachel** E-Mail **auf „Neue E-Mail**.
+1. Wählen Sie Ihr E-Mail-Programm. Klicken Sie unter **[!UICONTROL Kachel]** E-Mail **[!UICONTROL auf „Neue E-Mail]**.
 
    ![](assets/newemaildashboard.png)
 
-1. Geben Sie **Name** ein, wählen Sie die gewünschte Vorlage aus und klicken Sie auf **Erstellen**.
+1. Geben Sie **[!UICONTROL Name]** ein, wählen Sie die gewünschte Vorlage aus und klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/three.png)
 

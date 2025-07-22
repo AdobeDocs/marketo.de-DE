@@ -3,20 +3,20 @@ description: Übersicht über das Command Center - Marketo-Dokumente - Produktdo
 title: Übersicht über das Command Center
 exl-id: d7441f28-a432-4443-8eb8-ca6a685524ae
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '489'
-ht-degree: 3%
+source-wordcount: '498'
+ht-degree: 0%
 
 ---
 
 # Übersicht über das Command Center {#command-center-overview}
 
-Das Command Center ist eine einheitliche Ansicht, die Ihnen hilft, Ihren nächsten Schritt zu finden und gleichzeitig sicherzustellen, dass nichts durch die Ritzen fällt.
+Das [!UICONTROL Command Center] ist eine einheitliche Ansicht, die Ihnen hilft, Ihren nächsten Schritt zu finden und gleichzeitig sicherzustellen, dass nichts durch die Ritzen fällt.
 
 ## Verwalten von E-Mails {#manage-emails}
 
-Im E-Mail-Bereich des Command Centers können Sie Ihre gesamten E-Mail-Aktivitäten verwalten. Stellen Sie sich vor, dass Sie E-Mails, die von Sales Connect gesendet wurden, als Ihren E-Mail-Postausgang betrachten. Verwalten Sie Ihre geplanten E-Mails, prüfen Sie, wer mit Ihren E-Mails interagiert hat, ob es Probleme mit der Zustellung Ihrer E-Mails gab, und vieles mehr.
+Im E-Mail-Bereich des [!UICONTROL Command Center] können Sie Ihre gesamten E-Mail-Aktivitäten verwalten. Stellen Sie sich vor, dass Sie E-Mails, die von [!DNL Sales Connect] gesendet wurden, als Ihren E-Mail-Postausgang betrachten. Verwalten Sie Ihre geplanten E-Mails, prüfen Sie, wer mit Ihren E-Mails interagiert hat, ob es Probleme mit der Zustellung Ihrer E-Mails gab, und vieles mehr.
 
 ![](assets/command-center-overview-1.png)
 
@@ -29,41 +29,41 @@ Der Abschnitt E-Mail bietet Ihnen einen Überblick über alle Ihre E-Mails und v
   <th>Beschreibung</th>
  </tr>
  <tr>
-  <th rowspan="2">Gesendet</th>
-  <td>Zugestellt</td>
+  <th rowspan="2">[!UICONTROL gesendet]</th>
+  <td>[!UICONTROL übermittelt]</td>
   <td>E-Mails, die an den Empfänger gesendet wurden.</td>
  </tr>
  <tr>
-  <td>Archiviert</td>
+  <td>[!UICONTROL archiviert]</td>
   <td>Vom Benutzer archivierte E-Mails, um das Tracking der E-Mails zu deaktivieren.</td>
  </tr>
  <tr>
-  <th rowspan="3">Ausstehend</th>
-  <td>Geplant</td>
+  <th rowspan="3">[!UICONTROL Pending]</th>
+  <td>[!UICONTROL Geplant]</td>
   <td>E-Mails, die derzeit für den Versand geplant sind. Sobald eine E-Mail gesendet wurde, wird sie in den Ordner für zugestellte Nachrichten verschoben.</td>
  </tr>
  <tr>
-  <td>Entwurf</td>
+  <td>[!UICONTROL-Entwurf]</td>
   <td>Als Entwurf gespeicherte E-Mails.<br/>
   <strong>Hinweis</strong>: Nur einzelne E-Mails können als Entwürfe gespeichert werden. Massen-E-Mails (E-Mails auswählen und senden sowie Gruppen-E-Mails) werden nicht als Entwürfe gespeichert.</td>
  </tr>
  <tr>
-  <td>Im Gange</td>
+  <td>[!UICONTROL In Bearbeitung]</td>
   <td>Dies ist ein Zwischenstatus, in den E-Mails versetzt werden, wenn sie am Versand teilnehmen. E-Mails sollten nur einige Augenblicke in Bearbeitung sein.</td>
  </tr>
  <tr>
-  <th rowspan="3">Nicht übermittelt</th>
-  <td>Fehlgeschlagen</td>
+  <th rowspan="3">[!UICONTROL nicht zugestellt]</th>
+  <td>[!UICONTROL fehlgeschlagen]</td>
   <td>E-Mails, die nicht zugestellt wurden.
 </td>
  </tr>
  <tr>
-  <td>Hardbounce aufgetreten</td>
+  <td>[!UICONTROL gebounct]</td>
   <td>E-Mails, die vom E-Mail-Server der Empfänger abgelehnt wurden.<br/>
   <strong>Hinweis</strong>: Dies wird nur erkannt, wenn Sie ein älterer ToutApp-Benutzer sind und Zugriff auf MSC-Server als Versandkanal haben.</td>
  </tr>
  <tr>
-  <td>Spam</td>
+  <td>[!UICONTROL Spam]</td>
   <td>E-Mails, die vom Empfänger manuell als Spam gekennzeichnet wurden.<br/>
   <strong>Hinweis</strong>: Dies wird nur erkannt, wenn Sie ein älterer ToutApp-Benutzer sind und Zugriff auf MSC-Server als Versandkanal haben.</td>
  </tr>

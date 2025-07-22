@@ -4,7 +4,7 @@ description: Bearbeiten prädiktiver Inhalte für E-Mails - Marketo-Dokumente - 
 title: Prädiktiven Inhalt für E-Mails bearbeiten
 exl-id: 6f3e4e32-0318-4981-b2e9-796c3d001614
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 0%
@@ -17,13 +17,13 @@ So richten Sie Ihre prädiktiven Inhalte für E-Mails ein.
 
 >[!PREREQUISITES]
 >
->Inhalte müssen auf [ Seite „Alle Inhalte“ für ](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) Inhalte genehmigt werden.
+>Inhalte müssen auf [ Seite „Alle Inhalte](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) [!UICONTROL  für prädiktive Inhalte genehmigt ].
 
-1. Klicken Sie auf der Seite Prädiktiver Inhalt auf einen Titel, um den Editor zu öffnen.
+1. Klicken Sie auf der [!UICONTROL Prädiktiver Inhalt]-Seite auf einen Titel, um den Editor zu öffnen.
 
    ![](assets/image2017-10-3-9-3a30-3a25.png)
 
-1. Die Seite „Bearbeiten“ wird geöffnet. **E-Mail** wird standardmäßig angezeigt.
+1. Die Seite „Bearbeiten“ wird geöffnet. **[!UICONTROL E-Mail]** wird standardmäßig angezeigt.
 
    ![](assets/image2017-10-3-9-3a31-3a18.png)
 
@@ -39,7 +39,7 @@ So richten Sie Ihre prädiktiven Inhalte für E-Mails ein.
    >
    >Wenn Sie die Schaltflächenbeschriftung geändert haben, wird sie aktualisiert, wenn Sie Ihre Änderungen speichern oder eine Vorschau des Bildes anzeigen.
 
-1. Um die Bild-URL hinzuzufügen oder zu bearbeiten, klicken Sie auf **Bild bearbeiten**.
+1. Um die Bild-URL hinzuzufügen oder zu bearbeiten, klicken Sie auf **[!UICONTROL Bild bearbeiten]**.
 
    ![](assets/image2017-10-3-9-3a33-3a11.png)
 
@@ -47,11 +47,11 @@ So richten Sie Ihre prädiktiven Inhalte für E-Mails ein.
    >
    >Um die beste Qualität zu gewährleisten, muss Ihr Bild 400x400 Pixel oder kleiner sein.
 
-1. Fügen Sie die Bild-URL ein und klicken Sie auf **Hinzufügen**.
+1. Fügen Sie die Bild-URL ein und klicken Sie auf **[!UICONTROL Hinzufügen]**.
 
    ![](assets/five.png)
 
-1. Klicken und ziehen Sie den Schieberegler, um die Bildgröße zu ändern. Klicken und ziehen Sie dann das Zuschnittsfeld, um den gewünschten Bildbereich zu isolieren. Klicken Sie **Vorschau** wenn Sie fertig sind.
+1. Klicken und ziehen Sie den Schieberegler, um die Bildgröße zu ändern. Klicken und ziehen Sie dann das Zuschnittsfeld, um den gewünschten Bildbereich zu isolieren. Klicken Sie **[!UICONTROL Vorschau]** wenn Sie fertig sind.
 
    ![](assets/six.png)
 
@@ -60,7 +60,7 @@ So richten Sie Ihre prädiktiven Inhalte für E-Mails ein.
    | ![](assets/sevena.png) | ![](assets/sevenb.png) |
    |---|---|
 
-1. Klicken Sie optional auf das Feld **Kategorien** und fügen Sie dem Inhalt Kategorien hinzu. Die Optionen stammen aus den [Kategorien, die Sie bereits eingerichtet haben](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md).
+1. Klicken Sie optional auf das Feld **[!UICONTROL Kategorien]** und fügen Sie dem Inhalt Kategorien hinzu. Die Optionen stammen aus den [Kategorien, die Sie bereits eingerichtet haben](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md).
 
    ![](assets/eight.png)
 
@@ -68,7 +68,7 @@ So richten Sie Ihre prädiktiven Inhalte für E-Mails ein.
 
    ![](assets/nine.png)
 
-1. Klicken Sie auf **Speichern**.
+1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/save.png)
 

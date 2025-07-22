@@ -4,18 +4,18 @@ description: Verwenden des Rich-Text-Editors für Web-Personalization - Marketo-
 title: Verwenden des Rich-Text-Editors von Web Personalization
 exl-id: a07d8f2b-0ec6-4799-a430-0a5f7cf5f583
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '180'
 ht-degree: 6%
 
 ---
 
-# Verwenden des Rich-Text-Editors von Web Personalization {#using-the-web-personalization-rich-text-editor}
+# Verwenden des [!DNL Web Personalization] Rich-Text-Editors {#using-the-web-personalization-rich-text-editor}
 
 ![](assets/one.png)
 
-Der Rich-Text-Editor von Web Personalization auf der Seite Kampagnen festlegen ermöglicht Textformatierung, Verknüpfung und Bildeinfügung. Es enthält Formatierungsoptionen, die den standardmäßigen Textverarbeitungsprogrammen ähneln.
+Der [!DNL Web Personalization] Rich-Text-Editor auf der Seite [!UICONTROL Kampagnen festlegen] ermöglicht Textformatierung, Verknüpfung und Bildeinfügung. Es enthält Formatierungsoptionen, die den standardmäßigen Textverarbeitungsprogrammen ähneln.
 
 Zu den wichtigen Symbolen im Rich-Text-Editor gehören:
 
@@ -24,7 +24,7 @@ Zu den wichtigen Symbolen im Rich-Text-Editor gehören:
   <tr> 
    <td colspan="1"><img alt="—" src="assets/three.png" data-linked-resource-id="11386613" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="--"></td> 
    <td colspan="1"><strong>HTML-Quelle bearbeiten</strong></td> 
-   <td colspan="1">Ermöglicht die Anzeige des HTML-Quellcodes</td> 
+   <td colspan="1">Ermöglicht die Anzeige des HTML-Quell-Codes</td> 
   </tr> 
   <tr> 
    <td colspan="1"><img alt="--" src="assets/two.png" data-linked-resource-id="11386612" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="--"></td> 
@@ -51,7 +51,7 @@ Zu den wichtigen Symbolen im Rich-Text-Editor gehören:
 
 >[!NOTE]
 >
->Web-Token verwenden [Personendaten](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md) aus Ihrer Marketo-Datenbank, die in Web Personalization unter „Kontoeinstellungen“ > „Datenbank“ verwaltet werden. Wenn das Web-Token ein neues Datenbankfeld ist, das sich noch nicht unter Kontoeinstellungen > Datenbank befindet, wird es automatisch hinzugefügt und kann bis zu 24 Stunden dauern, bis es aktiviert ist.
+>Web-Token verwenden [Personendaten](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md) aus Ihrer [!DNL Marketo Database], die in [!DNL Web Personalization] unter [!UICONTROL Kontoeinstellungen] > [!UICONTROL Datenbank] verwaltet werden. Wenn das Web-Token ein neues Datenbankfeld ist, das sich noch nicht unter [!UICONTROL Kontoeinstellungen] > [!UICONTROL Datenbank] befindet, wird es automatisch hinzugefügt und die Aktivierung kann bis zu 24 Stunden dauern.
 
 >[!MORELIKETHIS]
 >

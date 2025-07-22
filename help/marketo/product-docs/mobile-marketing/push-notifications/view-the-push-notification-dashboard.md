@@ -4,7 +4,7 @@ description: Anzeigen des Dashboards für Push-Benachrichtigungen - Marketo-Doku
 title: Anzeigen des Dashboards für Push-Benachrichtigungen
 exl-id: c898d02e-9587-495e-bd86-c50343cacf8c
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Es ist einfach zu sehen, wie Ihre Push-Benachrichtigungen funktionieren.
 
-1. Navigieren Sie zum Bereich **Marketing** Aktivitäten.
+1. Navigieren Sie zum Bereich **[!UICONTROL Marketing]** Aktivitäten.
 
    ![](assets/image2015-12-11-12-3a57-3a48.png)
 
@@ -23,11 +23,11 @@ Es ist einfach zu sehen, wie Ihre Push-Benachrichtigungen funktionieren.
 
    ![](assets/image2015-12-11-13-3a1-3a56.png)
 
-1. Klicken Sie auf **Anzeigen: Zusammenfassung** und wählen Sie **Dashboard**.
+1. Klicken Sie auf **[!UICONTROL Anzeigen: Zusammenfassung]** und wählen Sie **[!UICONTROL Dashboard]**.
 
    ![](assets/image2015-12-11-13-3a4-3a23.png)
 
-1. Sie können die Diagramme Insgesamt gesendet und Gesamtzahl der Öffnungen für iOS und Android in Kreisdiagrammen anzeigen. Scrollen Sie nach unten, um zu sehen, dass Sie auf Verfall in Balkendiagrammen tippen.
+1. Sie können die Diagramme [!UICONTROL Insgesamt gesendet] und [!UICONTROL Total Taps] für iOS und Android in Kreisdiagrammen anzeigen. Scrollen Sie nach unten, um [!UICONTROL Tippen Sie auf ] in Balkendiagrammen zu sehen.
 
    ![](assets/image2015-12-15-15-3a23-3a47.png)
 

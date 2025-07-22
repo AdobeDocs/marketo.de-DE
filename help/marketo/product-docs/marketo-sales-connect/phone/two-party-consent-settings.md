@@ -4,7 +4,7 @@ description: Einverständniseinstellungen von zwei Parteien - Marketo-Dokumente 
 title: Einstellungen für Zwei-Parteien-Einverständnis
 exl-id: d0468ea1-3009-4190-ab9b-74c6fae955cb
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
@@ -19,19 +19,19 @@ Um bei der Aufzeichnung von Anrufen die Einhaltung der US-amerikanischen Zwei-Pa
 >
 >Bevor Sie die folgenden Schritte ausführen, müssen Sie zunächst [Anrufaufzeichnung aktivieren](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md).
 
-1. Klicken Sie auf das Symbol Einstellungen und wählen Sie **Einstellungen** aus.
+1. Klicken Sie auf das Symbol Einstellungen und wählen Sie **[!UICONTROL Einstellungen]** aus.
 
    ![](assets/one-1.png)
 
-1. Klicken Sie unter „Admin Settings“ auf **General**.
+1. Klicken [!UICONTROL  unter &quot;]&quot; auf **[!UICONTROL Allgemein]**.
 
    ![](assets/two-1.png)
 
-1. Scrollen Sie nach unten zu Sales Connect Phone-Einstellungen und klicken Sie auf **Aufnahmehinweis verwalten**.
+1. Scrollen Sie nach unten zu [!UICONTROL Sales Connect-Telefoneinstellungen] und klicken Sie auf **[!UICONTROL Aufzeichnungshinweis verwalten]**.
 
    ![](assets/three-1.png)
 
-1. Klicken Sie **Aufzeichnung importieren**.
+1. Klicken Sie **[!UICONTROL Aufzeichnung importieren]**.
 
    ![](assets/four-1.png)
 
@@ -43,7 +43,7 @@ Um bei der Aufzeichnung von Anrufen die Einhaltung der US-amerikanischen Zwei-Pa
 
    ![](assets/five.png)
 
-1. Wählen Sie nach Abschluss des Uploads die Daten (drei Punkte) im Datei-Manager aus und klicken Sie auf **Als Einverständniserklärung auswählen**. Klicken **abschließend** OK“.
+1. Wählen Sie nach Abschluss des Uploads die Daten (drei Punkte) im Datei-Manager aus und klicken Sie auf **[!UICONTROL Als Einverständniserklärung auswählen]**. Klicken **[!UICONTROL abschließend]** OK“.
 
    ![](assets/six.png)
 

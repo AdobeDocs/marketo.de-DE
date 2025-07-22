@@ -4,7 +4,7 @@ description: Bearbeiten der Textversion einer E-Mail - Marketo-Dokumente - Produ
 title: Bearbeiten der Textversion einer E-Mail
 exl-id: 6973ccdd-6ae1-4051-ab7e-ff7da40baf97
 feature: Email Editor
-source-git-commit: 94b458ee7138f90bd243d2d2a8b761dabff23a66
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
@@ -19,11 +19,11 @@ Wenn Sie eine E-Mail erstellen, sollte deren Textversion möglicherweise anders 
 >
 >Dies ist kein Artikel zum Erstellen einer schreibgeschützten E-Mail. Weitere Informationen hierzu finden Sie unter [Erstellen einer schreibgeschützten E-Mail](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md).
 
-1. Klicken Sie im E-Mail **Editor unten in der E** Mail auf die Registerkarte „Text“.
+1. Klicken Sie im E-Mail **[!UICONTROL Editor unten in der E]** Mail auf die Registerkarte „Text“.
 
    ![](assets/one-5.png)
 
-1. Deaktivieren Sie **Automatisch vom HTML kopieren**, um Änderungen vorzunehmen.
+1. Deaktivieren Sie **[!UICONTROL Automatisch aus HTML kopieren]**, um Änderungen vorzunehmen.
 
    ![](assets/two-5.png)
 
@@ -31,7 +31,7 @@ Wenn Sie eine E-Mail erstellen, sollte deren Textversion möglicherweise anders 
 
    ![](assets/three-4.png)
 
-1. Nehmen Sie Ihre Änderungen vor. Wenn Sie fertig sind, schließen Sie einfach den Editor oder gehen Sie zurück zur HTML-Version. Die Änderungen werden automatisch gespeichert.
+1. Nehmen Sie Ihre Änderungen vor. Schließen Sie danach einfach den Editor oder kehren Sie zur HTML-Version zurück. Die Änderungen werden automatisch gespeichert.
 
    ![](assets/four-4.png)
 
@@ -41,4 +41,4 @@ Wenn Sie eine E-Mail erstellen, sollte deren Textversion möglicherweise anders 
 
 >[!CAUTION]
 >
->Wenn Sie **Von HTML kopieren** auswählen oder **Automatisch von HTML kopieren** in E-Mails mit dynamischem Inhalt erneut auswählen, wird das Überprüfungs-Flag für alle Segmente auf _true_ gesetzt (wodurch das grüne Häkchen erzeugt wird, das anzeigt, dass es überprüft wurde), und zwar sowohl in der HTML- als auch in der Textversion der E-Mail. Wenn Sie eine der oben genannten Aktionen durchführen, sollten Sie Ihren Inhalt vor dem Senden überprüfen.
+>Wenn Sie **Aus HTML kopieren** auswählen oder **Automatisch aus HTML kopieren** in E-Mails mit dynamischem Inhalt erneut auswählen, wird das Überprüfungs-Flag für alle Segmente auf _true_ gesetzt (wodurch das grüne Häkchen erzeugt wird, das anzeigt, dass es überprüft wurde), und zwar sowohl in der HTML- als auch in der Textversion der E-Mail. Wenn Sie eine der oben genannten Aktionen durchführen, sollten Sie Ihren Inhalt vor dem Senden überprüfen.

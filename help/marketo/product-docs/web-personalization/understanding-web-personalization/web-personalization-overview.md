@@ -4,10 +4,10 @@ description: Übersicht über Web Personalization - Marketo-Dokumente - Produktd
 title: Übersicht über Web Personalization
 exl-id: 31445a69-9a3a-4350-a3eb-1af718e823b4
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '836'
-ht-degree: 2%
+source-wordcount: '849'
+ht-degree: 1%
 
 ---
 
@@ -15,38 +15,38 @@ ht-degree: 2%
 
 ## Einführung {#introduction}
 
-Für neue Marketo-Kunden ist Real-Time Personalization in vier Apps unterteilt, auf die über die beiden Kacheln Web Personalization und ContentAI zugegriffen wird.
+Für neue Marketo-Kunden [!UICONTROL Real-Time Personalization] in vier Apps unterteilt, auf die über die beiden Kacheln zugegriffen wird: [!UICONTROL Web Personalization] und [!UICONTROL ContentAI].
 
 ![](assets/pasted-image-at-2016-03-23-02-45-pm.png) ![](assets/mlm-homepage-content-ai-281-29.png)
 
 >[!NOTE]
 >
->Web Personalization und ContentAI sind in allen von Marketo unterstützten Sprachen verfügbar (Englisch, Französisch, Deutsch, Japanisch, Portugiesisch, Spanisch).
+>[!UICONTROL Web Personalization] und [!UICONTROL ContentAI] sind in allen von Marketo unterstützten Sprachen verfügbar (Deutsch, Englisch, Französisch, Japanisch, Portugiesisch, Spanisch).
 
 Bestehende Kundinnen und Kunden greifen bis zur Verlängerung über die Kachel Echtzeit-Personalization auf die Apps zu. Zu diesem Zeitpunkt verwenden sie die oben beschriebene Anmeldung.
 
 ![](assets/image2016-2-9-8-3a52-3a32.png)
 
-Wenn Sie auf die Kachel Web Personalization klicken, wird die Dashboard-Seite angezeigt. Klicken Sie auf die Kachel ContentAI und Sie gehen direkt zur Seite Content Recommendations .
+Wenn Sie auf die Kachel [!UICONTROL Web Personalization] klicken, wird die Dashboard-Seite angezeigt. Klicken Sie auf [!UICONTROL ContentAI]-Kachel und gehen Sie direkt zur Seite „Inhaltsempfehlungen“.
 
 Die vier Apps sind:
 
-* Web-Personalisierung
-* Account-Based Web Marketing
-* Website-Retargeting
-* ContentAI
+* [!UICONTROL Web-Personalization]
+* [!UICONTROL Account-Based Web Marketing]
+* [!UICONTROL Website-Retargeting]
+* [!UICONTROL ContentAI]
 
-Die **Web Personalization**-Kachel ist Ihr Zugriffspunkt zum Erstellen personalisierter Web-Kampagnen. Account-basiertes Web-Marketing und Web-Retargeting. Sie können Inhalte auf der Seite „Inhaltsanalyse“ hinzufügen.
+Die **[!UICONTROL Web Personalization]**-Kachel ist Ihr Zugriffspunkt zum Erstellen personalisierter Web-Kampagnen. Account-basiertes Web-Marketing und Web-Retargeting. Sie können Inhalte auf der Content Analytics-Seite hinzufügen.
 
-**Account-Based Web Marketing** arbeitet mit Web Personalization und Funktionen namens Konten. Auf der Seite Benannte Konten finden Sie grafische Informationen zu Bestandskunden, Gesamtinteraktionen und Organisationstrends sowie eine Liste der Konten. Sie können auch dort neue benannte Konten erstellen.
+**[!UICONTROL Account-Based Web Marketing]** arbeitet mit Web Personalization und Funktionen namens Konten. Auf der Seite Benannte Konten finden Sie grafische Informationen zu Bestandskunden, Gesamtinteraktionen und Organisationstrends sowie eine Liste der Konten. Sie können auch dort neue benannte Konten erstellen.
 
-**Website-Retargeting** ermöglicht die erneute Vermarktung an segmentierte Zielgruppen. Sie können Segmente festlegen, aber keine spezifischen Konten im Filter verwenden.
+**[!UICONTROL Website-Retargeting]** ermöglicht die erneute Vermarktung an segmentierte Zielgruppen. Sie können Segmente festlegen, aber keine spezifischen Konten im Filter verwenden.
 
-**ContentAI** ist der Ort, um Inhaltsempfehlungen zu geben. Sie können der Recommendations-Inhaltsseite mühelos Inhalte hinzufügen.
+**[!UICONTROL ContentAI]** ist der Ort, um Inhaltsempfehlungen zu geben. Sie können der Seite Inhaltsempfehlungen mühelos Inhalte hinzufügen.
 
 >[!NOTE]
 >
->Um auf Account-basiertes Web-Marketing oder Website-Retargeting zuzugreifen, müssen Sie auf die Kachel Web-Personalization klicken, auch wenn Sie die Web-Personalization-App nicht haben.
+>Um auf [!UICONTROL Account-Based Web ] oder [!UICONTROL Website Retargeting] zuzugreifen, müssen Sie auf die Kachel [!UICONTROL Web Personalization] klicken, auch wenn Sie nicht über die [!UICONTROL Web Personalization]-App verfügen.
 
 ## Organisationen {#organizations}
 
@@ -69,7 +69,7 @@ Das rechte Bedienfeld der Seite „Organisationen“ bietet die folgenden Funkti
 <table> 
  <tbody> 
   <tr> 
-   <td><p><strong>Tabellensymbol</strong>: Das Symbol oben rechts im Bedienfeld lädt die Tabelle Organisationen zur Offline-Verwendung im CSV-Format herunter</p><p><strong>E-Mail-Warnhinweis einrichten</strong>: Sendet dem angemeldeten Benutzer jedes Mal eine E-Mail, wenn das ausgewählte Unternehmen die Website besucht</p><p><strong>Leads</strong>: Öffnet die Leads-Tabelle für die ausgewählte Organisation</p><p><strong>Freigeben</strong>: Öffnet ein Pop-up-Fenster zum Senden von E-Mails und zum Freigeben der Details der Organisation, die die Web-Seite besucht hat</p><p><strong>Standortsymbol</strong>: Zeigt das Land und die Stadt der ausgewählten Organisation an</p><p><strong>Links</strong>: Jigsaw, Whois, LinkedIn, Google, Twitter öffnet ein neues Fenster mit zusätzlichen Informationen von der jeweiligen Webseite und bietet zusätzliche Einblicke in das ausgewählte Unternehmen</p><p><strong>Suche</strong>: Zeigt das Keyword an, das verwendet wird, wenn der Besucher über eine Suchmaschine angekommen ist</p><p><strong>Referrer</strong>: Zeigt den URL-Link der Seite an, die den Traffic auf Ihre Site verwiesen hat</p><p><strong>Besucher</strong>: Zeigt die Anzahl der Besuche, die Anzahl der von der ausgewählten Organisation angezeigten Seiten und deren E-Mail-Adresse (wenn sie ein Formular zum Senden ausgefüllt haben) sowie die Uhrzeit und das Datum des letzten Besuchs an</p><p><strong>Clickstream</strong>: Zeigt eine Tabelle der Benutzeraktivität und des URL-Pfads auf der Website sowie die Dauer der Seitenbesuche an</p></td> 
+   <td><p><strong>Tabellensymbol</strong>: Das Symbol oben rechts im Bedienfeld lädt die Tabelle Organisationen zur Offline-Verwendung im CSV-Format herunter</p><p><strong>[!UICONTROL E-Mail-Warnhinweis festlegen]</strong>: Sendet dem angemeldeten Benutzer jedes Mal eine E-Mail, wenn das ausgewählte Unternehmen die Website besucht</p><p><strong>[!UICONTROL Leads]</strong>: Öffnet die Lead-Tabelle der ausgewählten Organisation</p><p><strong>[!UICONTROL Share]</strong>: Öffnet ein Pop-up-Fenster zum Senden von E-Mails und zum Freigeben der Details der Organisation, die die Web-Seite besucht hat</p><p><strong>Standortsymbol</strong>: Zeigt das Land und die Stadt der ausgewählten Organisation an</p><p><strong>Links</strong>: Jigsaw, Whois, LinkedIn, Google, Twitter öffnet ein neues Fenster mit zusätzlichen Informationen von der jeweiligen Webseite, die zusätzliche insight für das ausgewählte Unternehmen anbieten</p><p><strong>[!UICONTROL Search]</strong>: Zeigt das Keyword an, das verwendet wird, wenn der Besucher über eine Suchmaschine angekommen ist</p><p><strong>[!UICONTROL Referrers]</strong>: Zeigt den URL-Link der Seite an, die den Traffic auf Ihre Site verwiesen hat</p><p><strong>[!UICONTROL Visitors]</strong>: Zeigt die Anzahl der Besuche, die Anzahl der von der ausgewählten Organisation angezeigten Seiten und deren E-Mail-Adresse (sofern sie ein Formular zum Senden ausgefüllt haben) sowie die Uhrzeit und das Datum des letzten Besuchs an</p><p><strong>[!UICONTROL Clickstream]</strong>: Zeigt eine Tabelle der Benutzeraktivität und des URL-Pfads auf der Website sowie die Dauer der Seitenbesuche an</p></td> 
    <td><img src="assets/image2014-11-10-19-3a22-3a47.png" data-linked-resource-id="5046291" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="3571900"></td> 
   </tr> 
  </tbody> 
@@ -79,7 +79,7 @@ Das rechte Bedienfeld der Seite „Organisationen“ bietet die folgenden Funkti
 
 Möchten Sie die Informationen Ihres Website-Besuchers an einen Kollegen weitergeben? Klicken Sie auf eine Organisation und dann auf den Link Freigeben im rechten Bedienfeld.
 
-Dadurch wird die Überlagerung Diese Organisation freigeben aktiviert, über die Sie eine E-Mail senden können, in der der Name und die Details der Organisation, die die Website besucht hat, freigegeben werden.
+Dadurch wird die Überlagerung [!UICONTROL Diese Organisation freigeben] aktiviert, mit der Sie eine E-Mail senden können, in der der Name und die Details der Organisation, die die Website besucht hat, freigegeben werden.
 
 ![](assets/image2014-11-10-19-3a25-3a42.png)
 
@@ -87,11 +87,11 @@ Dadurch wird die Überlagerung Diese Organisation freigeben aktiviert, über die
 
 ![](assets/wp-vis.jpg)
 
-Auf der Seite Besucher werden alle Details und das Online-Verhalten jedes Besuchers angezeigt, der innerhalb eines bestimmten Zeitraums zu Ihrer Site gelangt ist. Die Seite bietet einen tiefen Einblick in die Aktivitäten und das Online-Verhalten jedes einzelnen Besuchers. Die Besucherdaten in der Tabelle werden innerhalb von 24 bis 48 Stunden aktualisiert.
+Auf der Seite Besucher werden alle Details und das Online-Verhalten jedes Besuchers angezeigt, der innerhalb eines bestimmten Zeitraums zu Ihrer Site gelangt ist. Die Seite bietet eine ausführliche insight zu den Aktivitäten und dem Online-Verhalten jedes einzelnen Besuchers. Die Besucherdaten in der Tabelle werden innerhalb von 24 bis 48 Stunden aktualisiert.
 
 ![](assets/image2014-11-10-19-3a45-3a49.png)
 
-Das rechte Bedienfeld der Seite „Besucher“ bietet die folgenden Einblicke:
+Das rechte Bedienfeld der Seite [!UICONTROL Besucher] bietet folgende Einblicke:
 
 <table> 
  <thead> 
@@ -143,27 +143,27 @@ Die Echtzeit-Seite ist in 6 informative Tabellen mit Details zu den Besuchern vo
  </thead> 
  <tbody> 
   <tr> 
-   <td colspan="1" rowspan="1"><strong>Besucher</strong></td> 
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Visitors]</strong></td> 
    <td colspan="1" rowspan="1"> Stellt die Anzahl der Besucher dar, die derzeit auf Ihrer Website sind</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p><strong>Klicks pro Minute</strong></p></td> 
+   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL Klicks pro Minute]</strong></p></td> 
    <td colspan="1" rowspan="1"> Ein Live-Liniendiagramm, das die Anzahl der Klicks pro Minute auf Ihrer Site anzeigt</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><strong>Top-Organisationen</strong></td> 
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Top Organisations]</strong></td> 
    <td colspan="1" rowspan="1">Eine kurze Version der Tabelle „Organisationen“</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Echtzeit-Segment</strong></td> 
+   <td colspan="1"><strong>[!UICONTROL Echtzeit-Segment]</strong></td> 
    <td colspan="1">Die Anzahl der Besucherinnen und Besucher, die derzeit auf der Website sind und bestimmten Segmenten entsprechen</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Derzeit auf der Seite</strong></td> 
+   <td colspan="1"><strong>[!UICONTROL durchsucht derzeit]</strong></td> 
    <td colspan="1">Die URL der Seiten, die derzeit von Besuchern vor Ort angezeigt werden</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><strong>Top-Empfehlungen</strong></td> 
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Top-Verweise]</strong></td> 
    <td colspan="1" rowspan="1">Die Verweis-URL, über die der Besucher zu Ihrer Site gelangte</td> 
   </tr> 
  </tbody> 

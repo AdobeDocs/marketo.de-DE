@@ -4,7 +4,7 @@ description: Grundlegendes zu Smart Lists - Marketo-Dokumente - Produktdokumenta
 title: Grundlegendes zu Smart Lists
 exl-id: 8b7fd845-96d8-4b53-9ad0-118cf55be24a
 feature: Smart Lists
-source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 0%
@@ -40,7 +40,7 @@ Hier sehen Sie die Ergebnisse, d. h. alle Personen, die für die Filter qualifiz
 
 ## Registerkarte „Smart-Liste“ {#smart-list-tab}
 
-Sie können Filter hinzufügen und definieren, um eine bestimmte Personengruppe auf der Registerkarte Personen anzuzeigen.
+Sie können Filter hinzufügen und definieren, um eine bestimmte Personengruppe auf der Registerkarte [!UICONTROL Personen] anzuzeigen.
 
 ![](assets/understanding-smart-lists-3.png)
 

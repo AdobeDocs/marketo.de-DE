@@ -4,10 +4,10 @@ description: Die Zusammenfassung prädiktiver Inhalte - Marketo-Dokumente - Prod
 title: Die Zusammenfassung des prädiktiven Inhalts
 exl-id: 74663e07-39c6-40e5-bb49-e222c3c16034
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '186'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -27,19 +27,19 @@ Hier sehen Sie Ihre 10 wichtigsten entdeckten Inhalte, einschließlich Ansichten
 
 ![](assets/image2017-10-3-10-3a4-3a40.png)
 
-## Prädiktive Kundenbindung {#predictive-engagement}
+## [!UICONTROL Predictive Engagement] {#predictive-engagement}
 
 Vergleichen Sie Ihre Konversionsrate durch Vergleich der Gesamtklicks und der direkten Leads und durch Vergleich der Leistung der verschiedenen Quellen.
 
 ![](assets/predictive-engagement-actual.png)
 
-## Inhaltstrend nach Ansichten  {#content-trend-by-views}
+## [!UICONTROL Inhaltstrend nach Ansichten]  {#content-trend-by-views}
 
 Vergleichen Sie, wie Ihre Ansichten aller Inhalte mit Ihren prädiktiven Inhalten übereinstimmen.
 
 ![](assets/4.png)
 
-## Top-Kategorien nach Interaktion {#top-categories-by-engagement}
+## [!UICONTROL Top-Kategorien nach Interaktion] {#top-categories-by-engagement}
 
 Welche Inhaltskategorien sind am ansprechendsten? Sehen Sie es in diesem Diagramm.
 

@@ -3,7 +3,7 @@ description: Optionen für Massen-E-Mails - Marketo-Dokumente - Produktdokumenta
 title: Optionen für Massen-E-Mails
 exl-id: 08cc60d5-0db1-4dfa-9441-4c5e5a021d73
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '258'
 ht-degree: 3%
@@ -12,7 +12,7 @@ ht-degree: 3%
 
 # Optionen für Massen-E-Mails {#bulk-emailing-options}
 
-Der Massenversand von E-Mails ist eine hervorragende Möglichkeit, die Interaktion mit potenziellen Kunden zu beschleunigen. Marketo Sales bietet zwei Möglichkeiten zum Massenversand von E-Mails: **Gruppen-E-Mails** und **Auswählen und Senden**. Gruppen-E-Mails eignen sich hervorragend, um Hunderte von E-Mails schnell an eine Zielgruppe zu senden. Die Verwendung von Auswählen und Senden bedeutet, dass die E-Mail-Beschränkungen verringert werden, bietet aber mehr Anpassungsmöglichkeiten für den Benutzer.
+Der Massenversand von E-Mails ist eine hervorragende Möglichkeit, die Interaktion mit potenziellen Kunden zu beschleunigen. [!DNL Marketo Sales] bietet zwei Möglichkeiten zum Massenversand von E-Mails: **Gruppen-E-**) und **Auswählen und**). Gruppen-E-Mails eignen sich hervorragend, um Hunderte von E-Mails schnell an eine Zielgruppe zu senden. Die Verwendung von Auswählen und Senden bedeutet, dass die E-Mail-Beschränkungen verringert werden, bietet aber mehr Anpassungsmöglichkeiten für den Benutzer.
 
 **Gruppen-E-Mail vs. Auswählen und Senden**
 
@@ -37,7 +37,7 @@ Der Massenversand von E-Mails ist eine hervorragende Möglichkeit, die Interakti
   <tr> 
    <td>Gruppen-E-Mail</td> 
    <td>1.000</td> 
-   <td>Wählen Sie eine Gruppe aus und klicken Sie auf die Schaltfläche „Gruppenaktionen“, oder geben Sie den Gruppennamen in das Feld An ein.</td> 
+   <td>Wählen Sie eine Gruppe aus und klicken Sie auf die Schaltfläche "[!UICONTROL Group Actions]", oder geben Sie den Gruppennamen in das Feld An ein.</td> 
    <td>Ja</td> 
    <td>Nein</td> 
    <td>Ja</td> 
@@ -45,7 +45,7 @@ Der Massenversand von E-Mails ist eine hervorragende Möglichkeit, die Interakti
   <tr> 
    <td>Auswählen und senden</td> 
    <td>200</td> 
-   <td>Wählen Sie Personen im Raster aus und klicken Sie in der Aktionsleiste auf die Schaltfläche „E-Mail ausgewählt“ oder geben Sie Empfänger in die Seitenleiste für Massen-E-Mails ein.</td> 
+   <td>Wählen Sie Personen im Raster aus und klicken Sie in der Aktionsleiste auf die Schaltfläche "[!UICONTROL E-Mail ausgewählt]" oder geben Sie Empfänger in die Seitenleiste für Massen-E-Mails ein.</td> 
    <td>Ja</td> 
    <td>Ja</td> 
    <td>Ja</td> 

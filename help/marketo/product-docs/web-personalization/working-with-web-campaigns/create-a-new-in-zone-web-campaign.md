@@ -4,7 +4,7 @@ description: Erstellen einer neuen Zone in der Web-Kampagne - Marketo-Dokumente 
 title: Erstellen einer neuen Zone in einer Web-Kampagne
 exl-id: 5cbe80a2-5e20-4e35-a722-b4cb479b4df7
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '693'
 ht-degree: 1%
@@ -17,15 +17,15 @@ Eine Web-Kampagne ist eine benutzerdefinierte Reaktion, die mit einem bestimmten
 
 ## Erstellen einer Zone in einer Web-Kampagne {#create-an-in-zone-web-campaign}
 
-1. Gehen Sie zu **Web-Kampagnen**.
+1. Gehen Sie zu **[!UICONTROL Web-Kampagnen]**.
 
    ![](assets/image2016-8-18-15-3a54-3a21.png)
 
-1. Wählen Sie **Neue Web-Kampagne erstellen.**
+1. Wählen Sie **[!UICONTROL Neue Web-Kampagne erstellen].**
 
    ![](assets/create-new-web-campaign-hand.png)
 
-1. Wählen Sie den Kampagnentyp **In-Zone** aus. Anpassen und Hinzufügen einer &quot;**&quot;-ID.** Legen Sie die Kampagne auf **Sticky** fest und fügen Sie Ihre Kreativen im Editor hinzu. Fügen Sie die URL der Seite hinzu, die Sie in der Vorschau anzeigen möchten, und **Sie auf „Vorschau**, um zu sehen, wie die Kampagne auf Ihre Website reagieren wird.
+1. Wählen Sie den Kampagnentyp **[!UICONTROL In-Zone]** aus. Anpassen und Hinzufügen einer **[!UICONTROL Zonen-ID].** Legen Sie die Kampagne auf **[!UICONTROL Sticky]** fest und fügen Sie Ihre Kreativen im Editor hinzu. Fügen Sie die URL der Seite hinzu, die Sie in der Vorschau anzeigen möchten, und **[!UICONTROL Sie auf „Vorschau]**, um zu sehen, wie die Kampagne auf Ihre Website reagieren wird.
 
    ![](assets/new-3-1.png)
 
@@ -33,7 +33,7 @@ Eine Web-Kampagne ist eine benutzerdefinierte Reaktion, die mit einem bestimmten
    >
    >**Was ist eine Zonen-ID?**
    >
-   >Mit einer Zonen-ID möchten Sie Ihre „In Zone“-Web-Kampagne auf der Site platzieren. Um eine „Zonen-ID“ zu finden, gehen Sie einfach auf Ihre Website, wählen Sie den Bereich aus, den Sie durch eine Web-Kampagne ersetzen möchten, und klicken Sie mit der rechten Maustaste darauf. In Chrome lautet die Option &quot;Inspect-Element“, in anderen Browsern kann sie variieren.
+   >Mit einer Zonen-ID möchten Sie Ihre &quot;[!UICONTROL  Zone]-Web-Kampagne auf der Site platzieren. Um eine &quot;[!UICONTROL Zone-ID] zu finden, wählen Sie einfach auf Ihrer Website den Bereich aus, den Sie durch eine Web-Kampagne ersetzen möchten, und klicken Sie mit der rechten Maustaste darauf. In Chrome lautet die Option „Element überprüfen“, in anderen Browsern kann sie variieren.
    >
    >Anschließend möchten Sie die mit diesem Abschnitt der Website verknüpfte „ID“ suchen, die hervorgehoben ist, weil Sie dieses Element untersuchen. Wenn beispielsweise nach dem Rechtsklick in Chrome der hervorgehobene Text `<div id="featured-slider">` lautet, sollten Sie im Abschnitt „Zonenkennung“ „Vorgestellter Schieberegler“ eingeben. Normalerweise wird „div id“ verwendet, es können jedoch auch beliebige IDs verwendet werden, z. B. h1-ID, p-ID usw.
 
@@ -47,7 +47,7 @@ Eine Web-Kampagne ist eine benutzerdefinierte Reaktion, die mit einem bestimmten
  <tbody> 
   <tr> 
    <td colspan="1" rowspan="1"><strong> Bereichs-ID </strong></td> 
-   <td colspan="1" rowspan="1"><p>Geben Sie den Namen der ID ein, die sich im HTML-Code Ihres Website-Elements befindet, das durch die Kampagne ersetzt wird.</p></td> 
+   <td colspan="1" rowspan="1"><p>Geben Sie den Namen der ID ein, die im HTML-Code Ihres Website-Elements zu finden ist, das durch die Kampagne ersetzt wird.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p><strong> Anhaftend </strong></p></td> 
@@ -98,7 +98,7 @@ Klicken Sie auf der **Web** Kampagnen **auf der Kampagne auf** Bearbeiten“.
 
 ## Vorschau einer Web-Kampagne {#preview-a-web-campaign}
 
-1. Klicken Sie auf der Seite Web-Kampagnen **der Web** Kampagne, die Sie anzeigen möchten, auf „Vorschau“.
+1. Klicken Sie auf der [!UICONTROL Web]Kampagnen **[!UICONTROL auf]** Vorschau“ der Web-Kampagne, die Sie anzeigen möchten.
 
    ![](assets/in-zone-web-campaign-preview.png)
 
@@ -108,7 +108,7 @@ Siehe [Klonen einer Web-](/help/marketo/product-docs/web-personalization/working
 
 ## Löschen einer Web-Kampagne {#delete-a-web-campaign}
 
-1. Klicken Sie auf der Seite Web-Kampagnen **die Kampagne** die Sie löschen möchten, auf „Löschen“.
+1. Klicken Sie auf der Seite Web-Kampagnen **[!UICONTROL die Kampagne]** die Sie löschen möchten, auf „Löschen“.
 
    ![](assets/in-zone-web-campaign-delete.png)
 

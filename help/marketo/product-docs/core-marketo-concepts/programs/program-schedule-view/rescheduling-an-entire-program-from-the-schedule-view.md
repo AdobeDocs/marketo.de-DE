@@ -4,7 +4,7 @@ description: Neuplanen eines gesamten Programms über die Zeitplanansicht - Mark
 title: Ein ganzes Programm über die Zeitplanansicht neu planen
 exl-id: 3debeff2-67ce-4b59-be5b-ce8cc198f4a0
 feature: Programs
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
@@ -23,11 +23,11 @@ Wenn Sie ein Programm oder Ereignis mit Datumsangaben klonen, sollten Sie alle D
 
    ![](assets/image2014-9-23-15-3a15-3a53.png)
 
-1. Einen Ankereintrag auswählen. Basierend auf dieser Verschiebung werden alle anderen Einträge mit ihr verschoben.
+1. Wählen Sie einen [!UICONTROL Ankereintrag] aus. Basierend auf dieser Verschiebung werden alle anderen Einträge mit ihr verschoben.
 
    ![](assets/image2014-9-23-15-3a18-3a23.png)
 
-1. Wählen Sie das neue Startdatum aus.
+1. Wählen Sie das [!UICONTROL New Start]Datum.
 
    ![](assets/image2014-9-23-15-3a18-3a37.png)
 

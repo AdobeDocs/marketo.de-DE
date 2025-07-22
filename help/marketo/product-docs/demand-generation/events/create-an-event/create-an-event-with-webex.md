@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2949863
-description: Erstellen eines Ereignisses mit WebEx - Marketo-Dokumente - Produktdokumentation
-title: Erstellen eines Ereignisses mit WebEx
+description: Erstellen eines Ereignisses mit [!DNL Webex] - Marketo-Dokumenten - Produktdokumentation
+title: Ereignis erstellen mit [!DNL Webex]
 exl-id: 25266a6b-3951-46d1-8700-b36d7086ad2c
 feature: Events
-source-git-commit: 7edce24c2199a6a2eaa119d3ef77543bbd97999c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '626'
+source-wordcount: '632'
 ht-degree: 1%
 
 ---
 
-# Erstellen eines Ereignisses mit WebEx {#create-an-event-with-webex}
+# Erstellen eines Ereignisses mit [!DNL Webex] {#create-an-event-with-webex}
 
 Nachdem Sie ein Webinar in WebEx erstellt haben, müssen Sie Ihr Ereignis mit Marketo Engage synchronisieren.
 
 >[!PREREQUISITES]
 >
->* [Hinzufügen von WebEx als LaunchPoint-Service](/help/marketo/product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
+>* [Add [!DNL Webex] as a [!DNL LaunchPoint] Service](/help/marketo/product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
 >* [Erstellen eines neuen Veranstaltungsprogramms](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >* Legen Sie die entsprechenden [Fluss-Aktionen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) fest, um die Interaktion zu verfolgen
 
@@ -27,8 +27,8 @@ Sie planen Ihre Veranstaltung und wählen Ihre bevorzugten Einstellungen in [Web
 
 ### Grundlegende Informationen {#basic-information}
 
-![](assets/create-an-event-with-webex-1.png)
-
+* **[!UICONTROL Ereignisname] -** Dieser Name wird in Marketo angezeigt.
+* **[!UICONTROL Checkbox nicht aufgeführt]**
 * **Thema**: Dies ist Ihr Ereignisname und kann in Marketo angezeigt werden.
 * **Datum und Uhrzeit**: Start-/Enddatum, Start-/Endzeit, Dauer und Zeitzone sind in Marketo verfügbar.
 * **Maximale Teilnehmerzahl**: Die maximale Teilnehmerzahl bestimmt, welche WebEx-Funktionen unterstützt werden.
@@ -69,7 +69,7 @@ Sie planen Ihre Veranstaltung und wählen Ihre bevorzugten Einstellungen in [Web
 >
 >Die Marketo-WebEx-Integration unterstützt nicht das Senden von Bestätigungs-E-Mails aus WebEx heraus. Die Bestätigung muss über Marketo gesendet werden. Kopieren Sie nach der Planung der Veranstaltung die Ereignisinformationen in die Marketo-Bestätigungs-E-Mail und setzen Sie die E-Mail auf _Operational_.
 
-## Ereignis mit Marketo Engage synchronisieren {#sync-your-event-with-marketo-engage}
+## Synchronisieren Ihres Ereignisses mit Marketo Engage {#sync-your-event-with-marketo-engage}
 
 1. Suchen und wählen Sie in Marketo das gewünschte Veranstaltungsprogramm aus. Wählen Sie in **Dropdown** Liste Ereignisaktionen die Option **Ereigniseinstellungen** aus.
 

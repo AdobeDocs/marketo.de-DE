@@ -4,7 +4,7 @@ description: Telefonische Präsenz vor Ort - Marketo-Dokumente - Produktdokument
 title: Vertriebstelefon mit lokaler Präsenz
 exl-id: 8ebd971f-caf6-40ac-8067-dd0028fec9ab
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Vertriebstelefon mit lokaler Präsenz {#sales-phone-local-presence}
 
-Wenn Sie so aussehen möchten, als würden Sie von derselben Ortsvorwahl aus anrufen, aktivieren Sie einfach das **Lokale Anwesenheit**, bevor Sie den Anruf tätigen.
+Wenn Sie so aussehen möchten, als würden Sie von derselben Ortsvorwahl aus anrufen, aktivieren Sie einfach das **[!UICONTROL Lokale Anwesenheit]**, bevor Sie den Anruf tätigen.
 
 ## Häufig gestellte Fragen zur lokalen Präsenz {#local-presence-faq}
 

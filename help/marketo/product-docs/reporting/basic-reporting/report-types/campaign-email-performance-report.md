@@ -4,10 +4,10 @@ description: E-Mail-Leistungsbericht für Campaign - Marketo-Dokumente - Produkt
 title: Bericht zur E-Mail-Leistung in Campaign
 exl-id: 524222c6-7cf6-4e6d-a1a5-20a771cd9da5
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '219'
-ht-degree: 4%
+ht-degree: 1%
 
 ---
 
@@ -15,9 +15,9 @@ ht-degree: 4%
 
 Führen Sie einen E-Mail-Leistungsbericht für Campaign aus, um Ihre E[Mail-Leistungsstatistiken nach ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md)Smart Campaign“ gruppiert anzuzeigen.
 
-1. [Erstellen Sie einen Bericht](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) und wählen Sie den **Kampagnen-E-Mail-Leistung**&#x200B;[Berichtstyp](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [Erstellen Sie einen Bericht](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) und wählen Sie den **[!UICONTROL Kampagnen-E-Mail-Leistung]**[Berichtstyp](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
-1. [Legen Sie den Zeitrahmen Ihres Berichts fest](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) und klicken Sie auf die Registerkarte **Bericht**.
+1. [Legen Sie den Zeitrahmen Ihres Berichts fest](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) und klicken Sie auf die Registerkarte **[!UICONTROL Bericht]**.
 
 1. Erkunden Sie nun den Bericht, um zu sehen, wie die einzelnen E-Mails in Ihren Kampagnen abgeschnitten haben.
 
@@ -31,11 +31,11 @@ Führen Sie einen E-Mail-Leistungsbericht für Campaign aus, um Ihre E[Mail-Leis
 
    | Spalte | Beschreibung |
    |---|---|
-   | Hard Bounce-Ereignis aufgetreten | E-Mail wurde aufgrund einer permanenten Bedingung, z. B. einer nicht vorhandenen E-Mail-Adresse, abgelehnt. |
-   | Soft Bounce-Ereignis aufgetreten | E-Mail wurde aufgrund einer temporären Bedingung abgelehnt, z. B. weil ein Server ausgefallen ist oder weil der Posteingang voll ist. |
-   | Ausstehend | E-Mail wird noch zugestellt. |
-   | Angeklickter Link | Die Anzahl der E-Mail-Empfänger, die auf einen Link in der E-Mail geklickt haben. |
-   | Abbestellt | Die Anzahl der E-Mail-Empfänger, die auf den **Abmelden**-Link in der E-Mail geklickt und das Formular ausgefüllt haben. |
+   | [!UICONTROL Hardbounce] | E-Mail wurde aufgrund einer permanenten Bedingung, z. B. einer nicht vorhandenen E-Mail-Adresse, abgelehnt. |
+   | [!UICONTROL Softbounce] | E-Mail wurde aufgrund einer temporären Bedingung abgelehnt, z. B. weil ein Server ausgefallen ist oder weil der Posteingang voll ist. |
+   | [!UICONTROL Ausstehend] | E-Mail wird noch zugestellt. |
+   | [!UICONTROL Link angeklickt] | Die Anzahl der E-Mail-Empfänger, die auf einen Link in der E-Mail geklickt haben. |
+   | [!UICONTROL Abo storniert] | Die Anzahl der E-Mail-Empfänger, die auf den **[!UICONTROL Abmelden]**-Link in der E-Mail geklickt und das Formular ausgefüllt haben. |
 
    >[!NOTE]
    >

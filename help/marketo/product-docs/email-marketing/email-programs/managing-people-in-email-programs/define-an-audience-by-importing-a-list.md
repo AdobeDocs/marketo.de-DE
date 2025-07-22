@@ -4,7 +4,7 @@ description: Definieren einer Zielgruppe durch Importieren einer Liste - Marketo
 title: Definieren einer Audience durch Importieren einer Liste
 exl-id: 9a63f4a5-1d76-4671-9622-19eb368d196f
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '374'
 ht-degree: 1%
@@ -25,15 +25,15 @@ Nachdem Sie ein E-Mail-Programm erstellt haben, sollten Sie ihm mitteilen, an we
 >
 >Alle Datums-/Uhrzeitfelder, die importiert werden, werden als zentrale Zeit behandelt. Wenn Sie Datums-/Zeitfelder in einer anderen Zeitzone haben, können Sie eine Excel-Formel verwenden, um sie in Central Time (America/Chicago) umzuwandeln.
 
-1. Navigieren Sie **Marketing-Aktivitäten**.
+1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Wählen Sie Ihr E-Mail-Programm aus und klicken Sie dann unter der Kachel Zielgruppe auf Liste importieren .
+1. Wählen Sie Ihr E-Mail-Programm aus und klicken **[!UICONTROL dann unter]** Kachel **[!UICONTROL Audience]** auf „Liste importieren“.
 
    ![](assets/importlist.png)
 
-1. Das Listenimportfenster wird geöffnet. Klicken Sie auf **Durchsuchen** und wählen Sie die zu importierende Datei aus. Nachdem Sie Ihre Personenliste ausgewählt haben, klicken Sie auf **Weiter**.
+1. Das Listenimportfenster wird geöffnet. Klicken Sie auf **[!UICONTROL Durchsuchen]** und wählen Sie die zu importierende Datei aus. Nachdem Sie Ihre Personenliste ausgewählt haben, klicken Sie auf **[!UICONTROL Weiter]**.
 
    ![](assets/importlist1.png)
 
@@ -41,7 +41,7 @@ Nachdem Sie ein E-Mail-Programm erstellt haben, sollten Sie ihm mitteilen, an we
    >
    >Stellen Sie sicher, dass die Liste UTF-8, UTF-16, Shift-JIS oder EUC-JP kodiert ist und 50 MB an Dateigröße nicht überschreitet.
 
-1. Stellen Sie sicher, dass die Felder in Ihrer Datei korrekt zugeordnet sind, und klicken Sie auf **Weiter**.
+1. Stellen Sie sicher, dass die Felder in Ihrer Datei korrekt zugeordnet sind, und klicken Sie auf **[!UICONTROL Weiter]**.
 
    ![](assets/image2014-9-12-11-3a10-3a7.png)
 
@@ -49,7 +49,7 @@ Nachdem Sie ein E-Mail-Programm erstellt haben, sollten Sie ihm mitteilen, an we
    >
    >Marketo wird sich die Zuordnungen für zukünftige Importe merken!
 
-1. Geben Sie **Namen** Ihrer Liste ein und klicken Sie auf **Importieren**.
+1. Geben Sie **[!UICONTROL Namen]** Ihrer Liste ein und klicken Sie auf **[!UICONTROL Importieren]**.
 
    ![](assets/image2014-9-12-11-3a10-3a13.png)
 
@@ -71,7 +71,7 @@ Nachdem Sie ein E-Mail-Programm erstellt haben, sollten Sie ihm mitteilen, an we
 >
 >Klicken Sie auf die Nummer für eine detaillierte Liste der Personen, die vom Versand blockiert sind.
 >
->Verwenden Sie die Schaltfläche ![—](assets/image2014-10-23-16-3a32-3a36-1.png) auf der Kachel **Audience**, um anzuzeigen, wie viele Personen sich anhand der Smart-List-Kriterien für den Empfang der E-Mail qualifiziert haben. Subtrahieren Sie die Zahl Blockiert von der Zahl Personen , um die Gesamtzahl der Personen abzurufen, die die E-Mail erhalten werden.
+>Verwenden Sie die Schaltfläche ![—](assets/image2014-10-23-16-3a32-3a36-1.png) auf der Kachel **[!UICONTROL Audience]**, um anzuzeigen, wie viele Personen sich anhand der Smart-List-Kriterien für den Empfang der E-Mail qualifiziert haben. Subtrahieren Sie die Zahl Blockiert von der Zahl Personen , um die Gesamtzahl der Personen abzurufen, die die E-Mail erhalten werden.
 
 >[!TIP]
 >

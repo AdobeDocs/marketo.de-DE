@@ -4,9 +4,9 @@ description: Dauerhafte Abmeldung - Marketo-Dokumente - Produktdokumentation
 title: Dauerhafte Abmeldung
 exl-id: e03a5a01-7395-45b3-8351-7931ec413236
 feature: Deliverability
-source-git-commit: 777413b4256ab5342b933fa04c34d8a8d1201c0e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '286'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ Wenn eine neue Person erstellt wird, vergleicht Marketo sie mit der übergeordne
 
 ## E-Mail-Adresse ändern {#changing-an-email-address}
 
-Wenn Sie die E-Mail-Adresse einer Person in eine abgemeldete E-Mail-Adresse ändern, wird diese Person abgemeldet. Diese Änderung kann entweder in Marketo oder in Salesforce vorgenommen werden.
+Wenn Sie die E-Mail-Adresse einer Person in eine abgemeldete E-Mail-Adresse ändern, wird diese Person abgemeldet. Diese Änderung kann entweder in Marketo oder [!DNL Salesforce] auftreten.
 
 ## Erneute Anmeldung {#re-subscribing}
 

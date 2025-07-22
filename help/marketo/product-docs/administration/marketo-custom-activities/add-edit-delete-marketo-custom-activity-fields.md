@@ -4,7 +4,7 @@ description: Benutzerdefinierte Marketo-Aktivitätsfelder hinzufügen/bearbeiten
 title: Benutzerdefinierte Marketo-Aktivitätsfelder hinzufügen/bearbeiten/löschen
 exl-id: cd47f21d-c1d1-4abc-85f8-7823b28cd98a
 feature: Custom Activities
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '298'
 ht-degree: 0%
@@ -37,7 +37,7 @@ Möglicherweise müssen Sie ein benutzerdefiniertes Aktivitätsfeld hinzufügen,
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-5.png)
 
-1. Wählen Sie den (Datentyp[!UICONTROL &#x200B; des Felds &#x200B;].
+1. Wählen Sie den (Datentyp[!UICONTROL  des Felds ].
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-6.png)
 
@@ -73,7 +73,7 @@ Möglicherweise müssen Sie ein benutzerdefiniertes Aktivitätsfeld hinzufügen,
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-12.png)
 
-   Das Popup-Fenster Feld bearbeiten wird angezeigt. In diesem Beispiel ändern wir den Namen des Felds.
+   Das **[!UICONTROL Feld bearbeiten]**-Popup wird angezeigt. In diesem Beispiel ändern wir den Namen des Felds.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-13.png)
 
@@ -83,7 +83,7 @@ Möglicherweise müssen Sie ein benutzerdefiniertes Aktivitätsfeld hinzufügen,
 
    >[!NOTE]
    >
-   >Der API-Name wird beim Bearbeiten eines Felds nicht automatisch ausgefüllt. Es ist zwar nicht erforderlich, dass der Feldname und der API-Name übereinstimmen, wir empfehlen jedoch, dies zu tun.
+   >Der [!UICONTROL API-Name] wird beim Bearbeiten eines Felds nicht automatisch ausgefüllt. Es ist zwar nicht erforderlich, dass die Felder [!UICONTROL Name] und [!UICONTROL API-Name] übereinstimmen, wir empfehlen jedoch, dies zu tun.
 
    >[!CAUTION]
    >

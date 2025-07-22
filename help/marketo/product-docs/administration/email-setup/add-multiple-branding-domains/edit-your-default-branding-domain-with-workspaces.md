@@ -4,7 +4,7 @@ description: Bearbeiten der Standard-Branding-Domain mit Arbeitsbereichen - Mark
 title: Standard-Branding-Domain mit Arbeitsbereichen bearbeiten
 exl-id: f0982793-5b74-41fb-ab6b-08d4084ac9b1
 feature: Email Setup
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 1%
@@ -21,7 +21,7 @@ ht-degree: 1%
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-2.png)
 
-1. Wählen Sie in der Tabelle Branding-Domains die aktuelle generische Domain aus und klicken Sie auf Bearbeiten , um sie in die Branding-Domain Ihres Unternehmens zu ändern.
+1. Wählen Sie in [!UICONTROL  Tabelle „Branding]Domains“ die aktuelle generische Domain aus und klicken Sie auf **[!UICONTROL Bearbeiten]**, um sie in die Branding-Domain Ihres Unternehmens zu ändern.
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-3.png)
 

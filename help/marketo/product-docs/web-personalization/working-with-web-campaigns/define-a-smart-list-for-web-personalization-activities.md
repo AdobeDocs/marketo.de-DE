@@ -4,20 +4,20 @@ description: Definieren einer Smart List für Web-Personalization-Aktivitäten -
 title: Definieren einer Smart List für Web Personalization-Aktivitäten
 exl-id: 9987f922-f50c-47b3-aef6-230326b094fc
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
 
-# Definieren einer Smart List für Web Personalization-Aktivitäten {#define-a-smart-list-for-web-personalization-activities}
+# Definieren einer Smart-Liste für [!DNL Web Personalization] Aktivitäten {#define-a-smart-list-for-web-personalization-activities}
 
-Sie können Web Personalization-Aktivitäten in Filtern und Triggern verwenden, wenn Sie eine Smart-Liste in einer Smart-Kampagne definieren. Hier möchten Sie alle erfassen, die auf einen Web Personalization-Aktionsaufruf (Campaign) geklickt haben.
+Sie können [!DNL Web Personalization] Aktivitäten in Filtern und Triggern verwenden, wenn Sie eine Smart-Liste in einer Smart-Kampagne definieren. Hier möchten Sie alle erfassen, die auf eine [!DNL Web Personalization] call to action (Kampagne) geklickt haben.
 
-Verwenden Sie einen Trigger, um eine E-Mail oder einen Warnhinweis zu senden oder einen Wert oder eine Punktzahl basierend auf den Besucherinnen und Besuchern zu ändern, die auf einen Web Personalization-Aktionsaufruf geklickt und sich mit diesem befasst haben. Sie können auch die Leads filtern und anzeigen, die auf einen Aktionsaufruf von Web Personalization geklickt haben.
+Verwenden Sie einen Trigger, um eine E-Mail oder einen Warnhinweis zu senden oder einen Wert oder eine Punktzahl basierend auf den Besucherinnen und Besuchern zu ändern, die auf eine [!DNL Web Personalization] call to action geklickt haben und mit dieser interagiert haben. Sie können auch die Leads filtern und anzeigen, die auf eine [!DNL Web Personalization] call to action geklickt haben.
 
-1. Klicken Sie in Ihrer Smart-Kampagne auf die Registerkarte **Smart-Liste** .
+1. Klicken Sie in Ihrer Smart-Kampagne auf die Registerkarte **[!UICONTROL Smart-Liste]** .
 
    ![](assets/image2016-2-9-10-3a49-3a18.png)
 

@@ -1,19 +1,19 @@
 ---
 unique-page-id: 11377640
-description: Autorisieren des Marketo Outlook-Plug-ins - Marketo-Dokumente - Produktdokumentation
-title: Marketo Outlook-Plug-in autorisieren
+description: Autorisieren des Marketo [!DNL Outlook] Plug-ins - Marketo-Dokumente - Produktdokumentation
+title: Marketo-Plug- [!DNL Outlook]  autorisieren
 exl-id: 4eeed6db-2d28-4ec9-8aa0-1c599f68b2bf
 feature: Marketo Sales Insights
-source-git-commit: 40fe81d465d04be97ae5e216250b7e06e6d3791e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
 
-# Marketo Outlook-Plug-in autorisieren {#authorize-the-marketo-outlook-plugin}
+# Marketo [!DNL Outlook]-Plug-in autorisieren {#authorize-the-marketo-outlook-plugin}
 
-Um das Marketo MSI-Plug-in in Outlook zu verwenden, müssen Sie es autorisieren.
+Um das Marketo MSI-Plug-in [!DNL Outlook] verwenden zu können, müssen Sie es autorisieren.
 
 >[!PREREQUISITES]
 >
@@ -27,15 +27,15 @@ Um das Marketo MSI-Plug-in in Outlook zu verwenden, müssen Sie es autorisieren.
 
    ![](assets/image2016-8-24-16-3a4-3a28.png)
 
-1. Wenn das Dialogfeld Marketo-Plug-in autorisieren angezeigt wird, klicken Sie auf **Anforderungscode**.
+1. Wenn das Dialogfeld [!UICONTROL Marketo-Plug] autorisieren angezeigt wird, klicken Sie auf **[!UICONTROL Code anfordern]**.
 
    ![](assets/image2016-8-24-16-3a6-3a51.png)
 
-1. Der Code wird an die standardmäßige E-Mail-Adresse Ihres Outlook-Kontos gesendet.
+1. Der Code wird an die standardmäßige E-Mail-Adresse Ihres [!DNL Outlook]-Kontos gesendet.
 
    ![](assets/image2016-8-24-16-3a8-3a36.png)
 
-1. Wenn sich die E-Mail-Adresse Ihres Outlook-Standardkontos meldet, erhalten Sie einen Registrierungsschlüssel. Geben Sie es in das Popup-Fenster ein und klicken Sie auf **Senden**.
+1. Wenn sich Ihre standardmäßige E-Mail-Adresse für das [!DNL Outlook]-Konto meldet, erhalten Sie einen Registrierungsschlüssel. Geben Sie es in das Popup-Fenster ein und klicken Sie auf **[!UICONTROL Senden]**.
 
    ![](assets/image2016-8-24-16-3a12-3a48.png)
 

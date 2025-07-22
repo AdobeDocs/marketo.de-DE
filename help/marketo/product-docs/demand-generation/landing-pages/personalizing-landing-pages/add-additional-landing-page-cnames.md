@@ -4,7 +4,7 @@ description: Hinzufügen zusätzlicher Landingpage-CNAMEs - Marketo-Dokumente - 
 title: Hinzufügen zusätzlicher Landingpage-CNAMEs
 exl-id: eb5a7f69-552e-49a2-91db-a784f4639cd0
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 0%
@@ -57,19 +57,19 @@ Sie können CNAMEs für Landingpages hinzufügen, damit verschiedene URLs auf Ih
 
    ![](assets/add-additional-landing-page-cnames-5.png)
 
-1. Klicken Sie auf **Neu** und wählen Sie **Neuer Domain-Alias**.
+1. Klicken Sie auf **[!UICONTROL Neu]** und wählen Sie **[!UICONTROL Neuer Domain-Alias]**.
 
    ![](assets/add-additional-landing-page-cnames-6.png)
 
-1. Geben Sie Ihren **Domain-Alias“ ein.** Die **Standardseite** wird angezeigt, wenn der Besucher keine URL eingibt. Geben Sie an, wohin sie in diesem Fall gehen sollen.
+1. Geben Sie Ihren **[!UICONTROL Domain-Alias] ein.** Die **[!UICONTROL Standardseite]** wird angezeigt, wenn der Besucher keine URL eingibt. Geben Sie an, wohin sie in diesem Fall gehen sollen.
 
    >[!NOTE]
    >
-   >Für die Standardseite können Sie eine Landingpage oder eine externe URL auswählen, z. B. Ihre öffentliche Website.
+   >Für die [!UICONTROL Standardseite] können Sie eine Landingpage oder eine externe URL auswählen, z. B. Ihre öffentliche Website.
 
    ![](assets/add-additional-landing-page-cnames-7.png)
 
-1. Geben Sie Ihre **Standardseite** ein und klicken Sie auf **Erstellen**.
+1. Geben Sie Ihre **[!UICONTROL Standardseite]** ein und klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/add-additional-landing-page-cnames-8.png)
 

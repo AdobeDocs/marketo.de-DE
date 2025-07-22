@@ -4,16 +4,16 @@ description: Aktivieren der Synchronisierung für eine benutzerdefinierte Entit�
 title: Aktivieren der Synchronisierung für eine benutzerdefinierte Entität
 exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
 feature: Microsoft Dynamics
-source-git-commit: 2a5ee44a7126d789b0fc819a26a2cf19084b34ee
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '317'
 ht-degree: 0%
 
 ---
 
 # Aktivieren der Synchronisierung für eine benutzerdefinierte Entität {#enable-sync-for-a-custom-entity}
 
-Wenn benutzerdefinierte Entitätsdaten von Dynamics auf Marketo Engage verfügbar sein sollen, sehen Sie hier, wie Sie die Synchronisierung dafür aktivieren. **Administratorberechtigungen sind erforderlich**.
+Wenn benutzerdefinierte Entitätsdaten aus [!DNL Dynamics] in Marketo verfügbar sein sollen, sehen Sie hier, wie Sie die Synchronisierung dafür aktivieren.
 
 >[!PREREQUISITES]
 >
@@ -40,11 +40,11 @@ Wenn benutzerdefinierte Entitätsdaten von Dynamics auf Marketo Engage verfügba
    >
    >Sie müssen die globale Synchronisierung vorübergehend deaktivieren, um eine benutzerdefinierte Entität zu aktivieren oder zu deaktivieren.
 
-1. Klicken Sie unter „Datenbankverwaltung“ auf **[!UICONTROL Dynamics-Entitäten synchronisieren]**.
+1. Klicken [!UICONTROL  unter &quot;]&quot; auf den Link **[!UICONTROL Synchronisierung von Dynamics]** Entitäten.
 
    ![](assets/enable-sync-for-a-custom-entity-3.png)
 
-1. Klicken Sie **[!UICONTROL Schema synchronisieren]**.
+1. Klicken Sie auf den **[!UICONTROL Synchronisierungsschema]**-Link.
 
    ![](assets/enable-sync-for-a-custom-entity-4.png)
 
@@ -52,7 +52,7 @@ Wenn benutzerdefinierte Entitätsdaten von Dynamics auf Marketo Engage verfügba
 
    ![](assets/enable-sync-for-a-custom-entity-5.png)
 
-1. Wählen Sie die Felder aus, die Sie synchronisieren oder als [Einschränkungen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"} und/oder Trigger (für hinzugefügte, _aktualisierte Datensätze_ in Smart Lists verwenden möchten. Klicken Sie abschließend auf **[!UICONTROL Synchronisierung aktivieren]**.
+1. Wählen Sie die Felder aus, die Sie synchronisieren oder als [Einschränkungen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) und/oder Trigger in Smart-Listen verwenden möchten. Klicken Sie abschließend auf **[!UICONTROL Synchronisierung aktivieren]**.
 
    ![](assets/enable-sync-for-a-custom-entity-6.png)
 

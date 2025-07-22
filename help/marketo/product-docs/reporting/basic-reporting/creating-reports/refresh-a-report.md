@@ -4,7 +4,7 @@ description: Bericht aktualisieren - Marketo-Dokumente - Produktdokumentation
 title: Aktualisieren eines Berichts
 exl-id: 022e338c-4e50-4d12-a5cb-d864aa60b131
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Nachdem Sie einen Bericht angezeigt haben, speichert Marketo ihn in Ihrer Datenb
 
    ![](assets/two.png)
 
-1. Sie können den Bericht auch aktualisieren, indem Sie auf das Menü **Berichtsaktionen** klicken und **Bericht aktualisieren** auswählen.
+1. Sie können den Bericht auch aktualisieren, indem Sie auf das Menü **[!UICONTROL Berichtsaktionen]** klicken und **[!UICONTROL Bericht aktualisieren]** auswählen.
 
    ![](assets/three.png)
 

@@ -4,7 +4,7 @@ description: In-App-Nachricht auswählen - Marketo-Dokumente - Produktdokumentat
 title: In-App-Nachricht auswählen
 exl-id: 3d705364-ea20-4ffd-8eda-10ec5f87c63d
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
@@ -29,6 +29,6 @@ Hier wählen Sie die Nachricht aus, die Sie für das Programm erstellt haben.
 
    >[!TIP]
    >
-   >Um eine andere Nachricht auszuwählen, löschen Sie diese im Feld In-App-Nachricht . Dann wird der Link Neue In-App-Nachricht wieder angezeigt. Klicken Sie darauf und wählen Sie eine andere Nachricht aus.
+   >Um eine andere Nachricht auszuwählen, löschen Sie diese im Feld [!UICONTROL In-App-Nachricht]. Dann wird der [!UICONTROL Neue In-App-Nachricht]-Link erneut angezeigt. Klicken Sie darauf und wählen Sie eine andere Nachricht aus.
 
 Du bist auf dem richtigen Weg. Zeit zum [Planen des Versands](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/schedule-your-in-app-message.md).

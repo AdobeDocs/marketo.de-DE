@@ -4,28 +4,28 @@ description: Interessante Momente in Salesforce1 - Dokumentation zu Marketo - Pr
 title: Interessante Momente in Salesforce1
 exl-id: d9009ca9-82f2-4cf1-bf09-e84a7b53369d
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
 
-# Interessante Momente in Salesforce1 {#interesting-moments-in-salesforce}
+# Interessante Momente in [!DNL Salesforce1] {#interesting-moments-in-salesforce}
 
-[Using Interesting Moments](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) ist der Schlüssel zur Kommunikation mit Ihrem Vertriebsteam über die Marketo Sales Insight-App. Jetzt können Sie mit Marketo Sales Insight für Salesforce1 dasselbe mit Ihrem Smartphone tun!
+[Using Interesting Moments](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) ist der Schlüssel zur Kommunikation mit Ihrem Vertriebsteam über die Marketo Sales Insight App. Jetzt, mit [!DNL Marketo Sales Insight] für [!DNL Salesforce1], können Sie dasselbe mit Ihrem Smartphone tun!
 
 >[!AVAILABILITY]
 >
->Diese sind nur für Kunden von Marketo Sales Insight verfügbar.
+>Diese sind nur für [!DNL Marketo Sales Insight] Kunden verfügbar.
 
-1. Öffnen Sie auf Ihrem Smartphone die Salesforce-App.
+1. Öffnen Sie auf Ihrem Smartphone die [!DNL Salesforce] App.
 
 1. Navigieren Sie zu einem Lead.
 
    ![](assets/one.png)
 
-1. Klicken Sie auf **Verwandt**, um Interessante Momente, Web-Aktivität, E-Mail und Bewertung anzuzeigen.
+1. Klicken Sie auf **[!UICONTROL Verwandt]**, um Interessante Momente, Web-Aktivität, E-Mail und Bewertung anzuzeigen.
 
    ![](assets/two.png)
 

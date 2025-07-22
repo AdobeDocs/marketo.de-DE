@@ -4,7 +4,7 @@ description: Festlegen eines Formularfelds als ausgeblendet - Marketo-Dokumente 
 title: Festlegen eines Formularfelds als ausgeblendet
 exl-id: 6f293477-69ec-4f56-9800-cc1baaf80f94
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 5%
@@ -15,15 +15,15 @@ ht-degree: 5%
 
 Ausgeblendete Formularfelder können Daten ohne die Eingabe des Besuchers im Hintergrund erfassen. So funktioniert es:
 
-1. Navigieren Sie **Marketing-Aktivitäten**.
+1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Wählen Sie Ihr Formular aus und klicken Sie auf **Formular bearbeiten**.
+1. Wählen Sie Ihr Formular aus und klicken Sie auf **[!UICONTROL Formular bearbeiten]**.
 
    ![](assets/image2014-9-15-12-3a58-3a47.png)
 
-1. Wählen Sie das Feld aus und setzen Sie **Feldtyp** auf **Hidden.**
+1. Wählen Sie das Feld aus und setzen Sie **[!UICONTROL Feldtyp]** auf **[!UICONTROL Ausgeblendet].**
 
    ![](assets/image2014-9-15-12-3a58-3a56.png)
 

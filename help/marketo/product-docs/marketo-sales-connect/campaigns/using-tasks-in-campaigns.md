@@ -4,9 +4,9 @@ description: Verwenden von Aufgaben in Kampagnen - Marketo-Dokumente - Produktdo
 title: Verwenden von Aufgaben in Kampagnen
 exl-id: 444e7e3a-d774-40cf-82d1-40e395a79baa
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -25,4 +25,4 @@ Sie können auch eine „Aufgabe an Inmail“ zu einem Kontakt auf LinkedIn mach
 
 Aufgaben werden immer mit jeder Person in der Kampagne verknüpft. Das bedeutet, dass Sie zu jeder Person gehen und die Aufgabe schließen müssen, damit ihre individuelle Kampagne fortgesetzt werden kann.
 
-Sie können Ihre Aufgaben in Campaign verwalten: auf der Registerkarte Aufgaben Ihrer Kampagne in Campaign 2.0, direkt in Ihrem Command Center oder über den Abschnitt Aufgaben des Live-Feeds. Darüber hinaus können Sie Ihre Aufgaben auch über Salesforce verwalten.
+Sie können Ihre Aufgaben in Campaign verwalten: auf der Registerkarte Aufgaben Ihrer Kampagne in Campaign 2.0, direkt in Ihrem Command Center oder über den Abschnitt Aufgaben des Live-Feeds. Darüber hinaus können Sie Ihre Aufgaben auch von [!DNL Salesforce] aus verwalten.

@@ -4,9 +4,9 @@ description: Inhaber ändern - Marketo-Dokumente - Produktdokumentation
 title: Eigentümer ändern
 exl-id: b22c5cd8-1b53-4802-8b49-7f607c8a601b
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '167'
 ht-degree: 2%
 
 ---
@@ -23,7 +23,7 @@ Wenn Sie über vorhandene Personen verfügen, die bereits einem Eigentümer zuge
 
    >[!CAUTION]
    >
-   >Salesforce erlaubt nicht, Kontakten Lead-Warteschlangen zuzuweisen. Für einen Datensatz, der ein SFDC-Kontakt ist:
+   >[!DNL Salesforce] erlaubt es nicht, Kontakten Lead-Warteschlangen zuzuweisen. Für einen Datensatz, der ein SFDC-Kontakt ist:
    >
    >* Marketo erstellt ein doppeltes Lead **nur** wenn der Kontakt mit Salesforce synchronisiert wird. Anders ausgedrückt: Wenn Sie den Flussschritt **[Person mit SFDC synchronisieren](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)** mit `AssignTo=<a lead queue>` verwenden, erstellt Marketo ein doppeltes Lead in Salesforce und weist es der Lead-Warteschlange zu.
    >
@@ -31,4 +31,4 @@ Wenn Sie über vorhandene Personen verfügen, die bereits einem Eigentümer zuge
 
    >[!NOTE]
    >
-   >Wenn der Datensatz noch nicht in Ihrem Salesforce-Konto vorhanden ist, synchronisieren wir ihn und weisen ihn dann dem ausgewählten Benutzer zu.
+   >Wenn der Datensatz noch nicht in Ihrem [!DNL Salesforce] vorhanden ist, synchronisieren wir ihn und weisen ihn dann dem ausgewählten Benutzer zu.

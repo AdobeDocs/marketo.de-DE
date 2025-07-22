@@ -4,7 +4,7 @@ description: Formularfeld als erforderlich festlegen - Marketo-Dokumente - Produ
 title: Formularfeld als erforderlich festlegen
 exl-id: f07c4dd8-457a-442b-9ef8-89b51647829b
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 1%
@@ -15,23 +15,23 @@ ht-degree: 1%
 
 Beim [Hinzufügen von Feldern ](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md) einem Formular können Sie einige dieser Felder für die Person, die sie ausfüllt, erforderlich machen. So geht&#39;s.
 
-1. Navigieren Sie **Marketing-Aktivitäten**.
+1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities-4.png)
 
-1. Wählen Sie Ihr Formular aus und klicken Sie auf **Formular bearbeiten**.
+1. Wählen Sie Ihr Formular aus und klicken Sie auf **[!UICONTROL Formular bearbeiten]**.
 
    ![](assets/editform-2.png)
 
-1. Wählen Sie das Feld aus, das Sie als erforderlich festlegen möchten, und aktivieren Sie Ist erforderlich .
+1. Wählen Sie das Feld aus, das Sie als erforderlich festlegen möchten, und aktivieren Sie **[!UICONTROL Ist erforderlich]**.
 
    ![](assets/image2014-9-15-17-3a30-3a44.png)
 
-1. Gut gemacht! Klicken Sie auf **Fertigstellen**.
+1. Gut gemacht! Klicken Sie auf **[!UICONTROL Fertigstellen]**.
 
    ![](assets/image2014-9-15-17-3a30-3a58.png)
 
-1. Klicken Sie **Genehmigen und schließen**.
+1. Klicken Sie **[!UICONTROL Genehmigen und schließen]**.
 
    ![](assets/image2014-9-15-17-3a31-3a11.png)
 

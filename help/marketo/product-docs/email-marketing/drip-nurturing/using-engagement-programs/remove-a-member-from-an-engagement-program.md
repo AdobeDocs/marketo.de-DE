@@ -4,7 +4,7 @@ description: Entfernen eines Mitglieds aus einem Interaktionsprogramm - Marketo-
 title: Entfernen eines Mitglieds aus einem Interaktionsprogramm
 exl-id: c97f15cc-b01a-4148-a150-84901ee2567e
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 2%
@@ -13,7 +13,7 @@ ht-degree: 2%
 
 # Entfernen eines Mitglieds aus einem Interaktionsprogramm {#remove-a-member-from-an-engagement-program}
 
-Entschuldigung! Wie sind die Leute da reingekommen? Sie können Mitglieder aus einem Interaktionsprogramm mit dem **Programmstatus ändern** entfernen.
+Entschuldigung! Wie sind die Leute da reingekommen? Sie können Mitglieder aus einem Interaktionsprogramm mit dem **[!UICONTROL Programmstatus ändern]** entfernen.
 
 >[!TIP]
 >
@@ -21,11 +21,11 @@ Entschuldigung! Wie sind die Leute da reingekommen? Sie können Mitglieder aus e
 
 ## Flow-Schritt {#flow-step}
 
-1. Ziehen Sie den **Programmstatus ändern** in den Flussschritt.
+1. Ziehen Sie den **[!UICONTROL Programmstatus ändern]** in den Flussschritt.
 
    ![](assets/image2014-9-15-18-3a15-3a57.png)
 
-   Wählen Sie den Status **Nicht im Programm**.
+   Wählen Sie den Status **[!UICONTROL Nicht im Programm]**.
 
    ![](assets/image2014-9-15-18-3a16-3a2.png)
 
@@ -33,7 +33,7 @@ Entschuldigung! Wie sind die Leute da reingekommen? Sie können Mitglieder aus e
 
 ## Benutzer anhalten  {#pause-people}
 
-Manchmal möchten Sie Personen einfach in einem Interaktionsprogramm anhalten und nicht entfernen. Dies geschieht mit der **Kadenz des Änderungsprogramms**.
+Manchmal möchten Sie Personen einfach in einem Interaktionsprogramm anhalten und nicht entfernen. Dies geschieht mit der **[!UICONTROL Kadenz des Änderungsprogramms]**.
 
 >[!MORELIKETHIS]
 >

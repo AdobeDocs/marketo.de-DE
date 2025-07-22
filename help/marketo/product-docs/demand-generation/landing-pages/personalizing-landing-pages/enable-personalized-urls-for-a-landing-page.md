@@ -4,7 +4,7 @@ description: Aktivieren personalisierter URLs für eine Landingpage - Marketo-Do
 title: Aktivieren personalisierter URLs für eine Landingpage
 exl-id: d87486f6-da49-406e-b1cf-781caba596c1
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 1%
@@ -19,11 +19,11 @@ Personalisierte URLs eignen sich hervorragend für Print-E-Mail-Kampagnen.
 >
 >[Personalisierte URLs für Ihr Konto aktivieren](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
 
-1. Wählen Sie eine Landingpage aus und klicken Sie auf Einstellungen für **Personalisierte URL**.
+1. Wählen Sie eine Landingpage aus und klicken Sie auf Einstellungen für **[!UICONTROL Personalisierte URL]**.
 
    ![](assets/image2014-9-18-13-3a24-3a3.png)
 
-1. Jetzt können Sie **Personalisierte URLs aktivieren** und auf **Speichern** klicken.
+1. Jetzt können Sie **[!UICONTROL Personalisierte URL aktivieren]** und auf **[!UICONTROL Speichern]** klicken.
 
    ![](assets/image2014-9-18-13-3a23-3a53.png)
 

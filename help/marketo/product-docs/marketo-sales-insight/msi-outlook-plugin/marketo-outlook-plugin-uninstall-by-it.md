@@ -1,19 +1,19 @@
 ---
 unique-page-id: 11382829
-description: Marketo Outlook-Plug-in durch IT deinstallieren - Marketo-Dokumente - Produktdokumentation
-title: Marketo Outlook-Plug-in durch IT deinstallieren
+description: Marketo [!DNL Outlook] Plug-in durch IT deinstallieren - Marketo-Dokumente - Produktdokumentation
+title: Marketo [!DNL Outlook] Plugin durch IT deinstallieren
 exl-id: 678684da-3e99-462f-9950-504df1c1bb1e
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '114'
 ht-degree: 2%
 
 ---
 
-# Marketo Outlook-Plug-in durch IT deinstallieren {#marketo-outlook-plugin-uninstall-by-it}
+# Marketo [!DNL Outlook]-Plug-in durch IT deinstallieren {#marketo-outlook-plugin-uninstall-by-it}
 
-So kann die IT das Marketo Outlook-Plug-in remote deinstallieren.
+So kann die IT das Marketo [!DNL Outlook]-Plug-in remote deinstallieren.
 
 Führen Sie die folgende Befehlszeile als „System“ oder als administratives Benutzerkonto mit dem Schalter /x zur Deinstallation aus.
 
@@ -47,6 +47,6 @@ Um einen Speicherort für die Protokolldateien anzugeben, können Sie den Dateip
 
 >[!CAUTION]
 >
->Wenn Sie das Plug-in remote deinstallieren, wird Outlook auf dem Computer des Benutzers zwangsweise geschlossen.
+>Wenn Sie das Plug-in remote deinstallieren, wird [!DNL Outlook] auf dem Computer des Benutzers erzwungen.
 
 Siehe die vollständige Liste der Schalter von [Microsoft](https://support.microsoft.com/en-us/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6) wenn Sie verschiedene Protokollierungsebenen oder Benutzeroberflächenebenen ausprobieren möchten.

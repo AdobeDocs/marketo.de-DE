@@ -4,9 +4,9 @@ description: Verwenden von Token in Flussschritten - Marketo-Dokumente - Produkt
 title: Verwenden von Token in Flussschritten
 exl-id: 9b4c3d57-5906-4d7c-8215-4ba2271be3f8
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '193'
 ht-degree: 5%
 
 ---
@@ -22,7 +22,7 @@ Ein Token ist eine Variable. Sie können ihn in E-Mails, Landingpages und intell
 * Datenwert ändern
 * Programmmitgliedsdaten ändern
 * Interessanter Moment
-* Salesforce Campaign-Schritte (Hinzufügen, Entfernen, Ändern des Status)
+* [!DNL Salesforce] Kampagnenschritte (hinzufügen, entfernen, Status ändern)
 * Aufgabe erstellen
 * Warnhinweis senden (nur in Trigger-Kampagnen)
 

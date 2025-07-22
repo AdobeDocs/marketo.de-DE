@@ -4,7 +4,7 @@ description: Verwenden von Organisatoren vor Ort - Marketo-Dokumente - Produktdo
 title: Verwenden von Feld-Organisatoren
 exl-id: 578969f7-9380-4019-9b86-85c659a216b3
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 1%
@@ -25,23 +25,23 @@ Feld-Organisatoren werden in der Modellleistungsanalyse verwendet.
 
 ## Erstellen von Feld-Organisatoren {#how-to-create-field-organizers}
 
-1. Klicken Sie auf **Datenbank**.
+1. Klicken Sie auf **[!UICONTROL Datenbank]**.
 
    ![](assets/db.png)
 
-1. Wählen **unter** Neu **die Option „Neuer**&quot;.
+1. Wählen **[!UICONTROL unter]** Neu **[!UICONTROL die Option „Neuer]**&quot;.
 
    ![](assets/two-1.png)
 
-1. Wählen **unter** ein Attribut aus. Beschreibung ist optional.
+1. Wählen **[!UICONTROL unter]** ein Attribut aus. Beschreibung ist optional.
 
    ![](assets/three-1.png)
 
-1. Klicken Sie auf **Erstellen**.
+1. Klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/image2015-9-3-16-3a36-3a31.png)
 
-1. Benennen Sie die Gruppe und geben Sie die entsprechenden Daten ein (dies hängt vom Datentyp des ausgewählten Felds ab). Klicken Sie **Gruppe hinzufügen**.
+1. Benennen Sie die Gruppe und geben Sie die entsprechenden Daten ein (dies hängt vom Datentyp des ausgewählten Felds ab). Klicken Sie **[!UICONTROL Gruppe hinzufügen]**.
 
    ![](assets/image2015-9-3-16-3a40-3a45.png)
 

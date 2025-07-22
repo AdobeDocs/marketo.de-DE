@@ -4,7 +4,7 @@ description: Grundlegendes zu Tags - Marketo-Dokumente - Produktdokumentation
 title: Grundlegendes zu Tags
 exl-id: af74aec2-096f-489f-adf8-388da3867fae
 feature: Programs
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 3%
@@ -13,7 +13,7 @@ ht-degree: 3%
 
 # Grundlegendes zu Tags {#understanding-tags}
 
-Sie wissen wahrscheinlich mittlerweile, dass Programme wie Bausteine im Marketo Engage sind. Die Verwendung von Tags und Kanälen hilft Ihnen beim Filtern von Daten zu Berichtszwecken.
+Inzwischen wissen Sie wahrscheinlich, dass Programme wie Bausteine in Marketo Engage sind. Die Verwendung von Tags und Kanälen hilft Ihnen beim Filtern von Daten zu Berichtszwecken.
 
 Tags werden verwendet, um Programme zu beschreiben. Sie können beliebig viele davon mit jeweils eindeutigen Werten erstellen. Die Kanäle identifizieren den Bereitstellungsmechanismus in einem Programm, z. B. Webinar, Sponsoring oder Online-Anzeige.
 
@@ -29,7 +29,7 @@ Tag-Typen identifizieren die Art von Informationen, nach denen Sie sortieren mö
 >
 >**Beispiel**
 >
->* Tag-Typ = Programm-Inhaber
+>* [!UICONTROL Tag Type] = Programm-Inhaber
 
 ![](assets/image2014-9-17-15-3a12-3a46.png)
 

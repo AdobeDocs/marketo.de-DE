@@ -4,7 +4,7 @@ description: Benutzerdefinierte RTP-Berichte in Google Universal Analytics - Mar
 title: Benutzerdefinierte RTP-Berichte in Google Universal Analytics
 exl-id: c8b1e653-03b8-48bc-b80d-3e6cdf3485c3
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '387'
 ht-degree: 4%
@@ -22,13 +22,13 @@ In diesem Artikel wird erläutert, wie Sie benutzerdefinierte RTP-Berichte für 
 * RTP B2B
 * RTP-Interaktion
 
-## Benutzerdefinierte Berichte einrichten {#setting-up-a-custom-report}
+## Einrichten eines [!UICONTROL benutzerdefinierten Berichts] {#setting-up-a-custom-report}
 
 1. Melden Sie sich bei Google Analytics an.
 
-1. Klicken Sie **oberen Menü auf** Anpassung“.
+1. Klicken Sie **[!UICONTROL oberen Menü auf]** Anpassung“.
 
-1. Klicken Sie auf **+Neuer benutzerdefinierter Bericht**.
+1. Klicken Sie **[!UICONTROL Neuer benutzerdefinierter Bericht]**.
 
 ![](assets/image2015-3-22-16-3a10-3a48.png)
 
@@ -36,17 +36,17 @@ In diesem Artikel wird erläutert, wie Sie benutzerdefinierte RTP-Berichte für 
 
 1. Benennen Sie den Bericht **RTP B2B-**.
 
-1. Benennen Sie die erste Registerkarte **Industry**.
+1. Benennen Sie die erste Registerkarte **[!UICONTROL Industry]**.
 
 >[!NOTE]
 >
 >Sie werden **diese Registerkarte duplizieren** und zusätzliche ähnliche erstellen - Schritt 5)
 
-1. Wählen Sie **Berichtstyp** Explorer“.
+1. Wählen Sie **[!UICONTROL Berichtstyp]** Explorer“.
 
    ![](assets/image2015-3-22-16-3a15-3a25.png)
 
-1. Wählen Sie **Abschnitt** die Metriken aus, die für Ihr Unternehmen relevant sind.
+1. Wählen Sie **[!UICONTROL Abschnitt]** die Metriken aus, die für Ihr Unternehmen relevant sind.
 
    a. Wir empfehlen Folgendes:
 
@@ -62,7 +62,7 @@ In diesem Artikel wird erläutert, wie Sie benutzerdefinierte RTP-Berichte für 
 
    ![](assets/image2015-3-22-16-3a17-3a41.png)
 
-1. Legen Sie im Abschnitt **Aufschlüsselungen für Dimensionen** die relevanten Dimensionen für jede Registerkarte wie folgt fest.
+1. Legen Sie im Abschnitt **Dimension-Drill** Downs die relevanten Dimensionen für jede Registerkarte wie folgt fest.
 
 <table> 
  <thead> 
@@ -73,7 +73,7 @@ In diesem Artikel wird erläutert, wie Sie benutzerdefinierte RTP-Berichte für 
     </div></th> 
    <th> 
     <div>
-      Dimension Drill-down
+      Dimension-Drill-down
     </div></th> 
   </tr> 
  </thead> 
@@ -101,9 +101,9 @@ In diesem Artikel wird erläutert, wie Sie benutzerdefinierte RTP-Berichte für 
  </tbody> 
 </table>
 
-1. Legen Sie keine Filter fest und legen Sie fest, dass dieser Bericht für &quot;**Website-Daten“ verfügbar** (oder ändern Sie ihn, falls für ein bestimmtes Analytics-Konto relevant).
+1. Legen Sie keine Filter fest und legen Sie fest, dass dieser Bericht für &quot;**[!UICONTROL Website-Daten“ verfügbar]** (oder ändern Sie ihn, falls für ein bestimmtes Analytics-Konto relevant).
 
-1. Klicken Sie auf **Speichern**.
+1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/image2015-3-22-16-3a21-3a23.png)
 
@@ -111,17 +111,17 @@ In diesem Artikel wird erläutert, wie Sie benutzerdefinierte RTP-Berichte für 
 
 1. Benennen Sie den Bericht **RTP-Interaktionsbericht**.
 
-1. Legen Sie den Namen der ersten Registerkarte auf &quot;**Interaktion“**.
+1. Legen Sie den Namen der ersten Registerkarte auf &quot;**[!UICONTROL Interaktion“]**.
 
 >[!NOTE]
 >
 >Sie duplizieren diese Registerkarte und erstellen weitere ähnliche Registerkarten - Schritt 5)
 
-1. Wählen Sie **Berichtstyp** Explorer“.
+1. Wählen Sie **[!UICONTROL Berichtstyp]** Explorer“.
 
    ![](assets/image2015-3-22-16-3a23-3a36.png)
 
-1. Wählen Sie im Abschnitt Metrikgruppen die Metriken aus, die für Ihr Unternehmen relevant sind. Im Folgenden finden Sie eine Empfehlung:
+1. Wählen Sie [!UICONTROL  Abschnitt ] die Metriken aus, die für Ihr Unternehmen relevant sind. Im Folgenden finden Sie eine Empfehlung:
 
    ![](assets/image2015-3-22-16-3a24-3a57.png)
 
@@ -135,7 +135,7 @@ In diesem Artikel wird erläutert, wie Sie benutzerdefinierte RTP-Berichte für 
 
    ![](assets/image2015-3-22-16-3a26-3a21.png)
 
-1. Legen Sie im Abschnitt **Aufschlüsselungen für Dimensionen** die relevanten Dimensionen für jede Registerkarte wie folgt fest:
+1. Legen Sie im Abschnitt **Dimension-Drill** Downs die relevanten Dimensionen für jede Registerkarte wie folgt fest:
 
 <table> 
  <thead> 
@@ -146,7 +146,7 @@ In diesem Artikel wird erläutert, wie Sie benutzerdefinierte RTP-Berichte für 
     </div></th> 
    <th> 
     <div>
-      Dimension Drill-down 
+      Dimension-Drill-down 
     </div></th> 
   </tr> 
  </thead> 
@@ -204,14 +204,14 @@ In diesem Artikel wird erläutert, wie Sie benutzerdefinierte RTP-Berichte für 
  <tbody> 
   <tr> 
    <td><p>Einschließen</p></td> 
-   <td><p>Ereigniskategorie</p></td> 
+   <td><p><span class="uicontrol">Ereigniskategorie</span></p></td> 
    <td>Regex</td> 
    <td>RTP-Kampagnen|RTP-Recommendations|RTP-Segmente</td> 
    <td colspan="1">Filtert alle anderen benutzerspezifischen Ereignisse, die nicht mit RTP in Verbindung stehen.</td> 
   </tr> 
   <tr> 
    <td>Ausschließen</td> 
-   <td>Ereignistitel</td> 
+   <td><span class="uicontrol">Ereignistitel</span></td> 
    <td>Regex</td> 
    <td>#</td> 
    <td colspan="1">Ermöglicht das Filtern von Kampagnenberichten mithilfe der Ziffer # im Kampagnennamen</td> 
@@ -219,11 +219,11 @@ In diesem Artikel wird erläutert, wie Sie benutzerdefinierte RTP-Berichte für 
  </tbody> 
 </table>
 
-1. Legen Sie fest, dass dieser Bericht für &quot;**Website-Daten“ verfügbar** (oder ändern Sie ihn bei Bedarf).
+1. Legen Sie fest, dass dieser Bericht für &quot;**[!UICONTROL Website-Daten“ verfügbar]** (oder ändern Sie ihn bei Bedarf).
 
    ![](assets/image2015-3-22-16-3a29-3a5.png)
 
-1. Klicken Sie auf **Speichern**.
+1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
 ![](assets/image2015-3-22-16-3a30-3a0.png)
 

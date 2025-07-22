@@ -4,14 +4,14 @@ description: Standardmäßige Salesforce-Feldzuordnung - Marketo-Dokumente - Pro
 title: Standardmäßige Salesforce-Feldzuordnung
 exl-id: d6639733-f85d-4f4c-ac41-5d2a68a9c6b2
 feature: Salesforce Integration
-source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '363'
-ht-degree: 59%
+source-wordcount: '361'
+ht-degree: 8%
 
 ---
 
-# Standardmäßige Salesforce-Feldzuordnung {#default-salesforce-field-mapping}
+# Standardmäßige [!DNL Salesforce] Feldzuordnung {#default-salesforce-field-mapping}
 
 Wenn Sie Ihr Marketo Engage-Konto zum ersten Mal mit Salesforce synchronisieren, führt Marketo diese Verknüpfungen zwischen Ihren integrierten Salesforce- und Marketo-Feldern automatisch durch. Marketo synchronisiert auch Ihre benutzerdefinierten Felder für Leads, Konten, Chancen und Kontakte.
 
@@ -19,88 +19,88 @@ Wenn Sie Ihr Marketo Engage-Konto zum ersten Mal mit Salesforce synchronisieren,
 
 | SFDC-Feld | Marketo-Feld |
 |---|---|
-| Jahresumsatz | Jahresumsatz |
-| Stadt | Stadt |
-| Unternehmen | Firmenname |
-| Konvertiertes Datum | SFDC – Konvertiertes Datum |
-| Land | Land |
-| Erstellungsdatum | SFDC-Erstellungsdatum |
-| Beschreibung | Personenhinweise |
-| E-Mail | E-Mail-Adresse |
-| Fax | Faxnummer |
-| Vorname | Vorname |
-| E-Mail-Abmeldung | Abbestellt |
-| Branche | Branche |
-| Konvertiert | SFDC wird konvertiert |
-| Gelöscht | SFDC wurde gelöscht |
-| Nachname | Nachname |
-| Lead-Quelle | Quelle |
-| Lead-Bewertung | Ergebnis |
-| Mobiltelefon | Mobiltelefonnummer |
-| Mitarbeiter | Anzahl Mitarbeiter |
-| Telefon | Telefonnummer |
-| PLZ | Postleitzahl |
-| Rating | Rating |
-| Anrede | Anrede |
-| Bundesland/Provinz | Land |
-| Status | Status |
-| Straße | Adresse |
-| Titel | Jobtitel |
-| Website | Website |
+| [!UICONTROL Jahresumsatz] | [!UICONTROL Jahresumsatz] |
+| [!UICONTROL Stadt] | [!UICONTROL Stadt] |
+| [!UICONTROL Firma] | [!UICONTROL Firmenname] |
+| [!UICONTROL Konvertiertes Datum] | [!UICONTROL Konvertierungsdatum für SFDC] |
+| [!UICONTROL Land] | [!UICONTROL Land] |
+| [!UICONTROL Erstellungsdatum] | [!UICONTROL Erstellungsdatum von SFDC] |
+| [!UICONTROL Beschreibung] | [!UICONTROL Personennotizen] |
+| [!UICONTROL E-Mail] | [!UICONTROL E-Mail-] |
+| [!UICONTROL Fax] | [!UICONTROL Faxnummer] |
+| [!UICONTROL Vorname] | [!UICONTROL Vorname] |
+| [!UICONTROL E-Mail-Opt-out] | [!UICONTROL Abo storniert] |
+| [!UICONTROL Branche] | [!UICONTROL Branche] |
+| [!UICONTROL Konvertiert] | [!UICONTROL SFDC wird konvertiert] |
+| [!UICONTROL Gelöscht] | [!UICONTROL SFDC wird gelöscht] |
+| [!UICONTROL Nachname] | [!UICONTROL Nachname] |
+| [!UICONTROL Lead Source] | [!UICONTROL Quelle] |
+| [!UICONTROL Lead-Bewertung] | [!UICONTROL Ergebnis] |
+| [!UICONTROL Mobiltelefon] | [!UICONTROL Mobiltelefonnummer] |
+| [!UICONTROL Mitarbeiter] | [!UICONTROL Anzahl Mitarbeiter] |
+| [!UICONTROL Telefon] | [!UICONTROL Telefonnummer] |
+| [!UICONTROL Postleitzahl] | [!UICONTROL Postleitzahl] |
+| [!UICONTROL Bewertung] | [!UICONTROL Bewertung] |
+| [!UICONTROL Anrede] | [!UICONTROL Anrede] |
+| [!UICONTROL Bundesland/] | [!UICONTROL state] |
+| [!UICONTROL Status] | [!UICONTROL Status] |
+| [!UICONTROL Straße] | [!UICONTROL Adresse] |
+| [!UICONTROL Titel] | [!UICONTROL Stellenbezeichnung] |
+| [!UICONTROL Website] | [!UICONTROL Website] |
 
 ## Kontaktfelder {#contact-fields}
 
 | SFDC-Feld | Marketo-Feld |
 |---|---|
-| Geburtsdatum | Geburtsdatum |
-| Erstellungsdatum | SFDC Created Date |
-| Kontaktbeschreibung | Personenhinweise |
-| E-Mail | E-Mail-Adresse |
-| Fax (geschäftlich) | Faxnummer |
-| Vorname | Vorname |
-| E-Mail-Abmeldung | Abbestellt |
-| Gelöscht | SFDC wurde gelöscht |
-| Nachname | Nachname |
-| Lead-Quelle | Quelle |
-| Lead-Bewertung | Ergebnis |
-| MailingCity | Stadt |
-| MailingCountry | Land |
-| MailingPostalCode | Postleitzahl |
-| MailingState | Land |
-| MailingStreet | Adresse |
-| Mobiltelefon | Mobiltelefonnummer |
-| Geschäftstelefon | Telefonnummer |
-| Anrede | Anrede |
-| Titel | Jobtitel |
+| [!UICONTROL Geburtsdatum] | [!UICONTROL Geburtsdatum] |
+| [!UICONTROL Erstellungsdatum] | [!UICONTROL Erstellungsdatum von SFDC] |
+| [!UICONTROL Kontaktbeschreibung] | [!UICONTROL Personennotizen] |
+| [!UICONTROL E-Mail] | [!UICONTROL E-Mail-] |
+| [!UICONTROL Geschäftliches Fax] | [!UICONTROL Faxnummer] |
+| [!UICONTROL Vorname] | [!UICONTROL Vorname] |
+| [!UICONTROL E-Mail-Opt-out] | [!UICONTROL Abo storniert] |
+| [!UICONTROL Gelöscht] | [!UICONTROL SFDC wird gelöscht] |
+| [!UICONTROL Nachname] | [!UICONTROL Nachname] |
+| [!UICONTROL Lead Source] | [!UICONTROL Quelle] |
+| [!UICONTROL Lead-Bewertung] | [!UICONTROL Ergebnis] |
+| [!UICONTROL MailingCity] | [!UICONTROL Stadt] |
+| [!UICONTROL MailingCountry] | [!UICONTROL Land] |
+| [!UICONTROL MailingPostCode] | [!UICONTROL Postleitzahl] |
+| [!UICONTROL MailingState] | [!UICONTROL state] |
+| [!UICONTROL MailingStreet] | [!UICONTROL Adresse] |
+| [!UICONTROL Mobiltelefon] | [!UICONTROL Mobiltelefonnummer] |
+| [!UICONTROL Geschäftliches Telefon] | [!UICONTROL Telefonnummer] |
+| [!UICONTROL Anrede] | [!UICONTROL Anrede] |
+| [!UICONTROL Titel] | [!UICONTROL Stellenbezeichnung] |
 
 ## Kontofelder {#account-fields}
 
-| SFDC-Feld | Marketo-Feld |
+| [!UICONTROL SFDC-Feld] | [!UICONTROL Marketo-Feld] |
 |---|---|
-| Jahresumsatz | Jahresumsatz |
-| Abrechnungsort | Abrechnungsort |
-| Abrechnungsland | Abrechnungsland |
-| Postleitzahl für die Rechnungsstellung | Postleitzahl für Abrechnung |
-| Fakturastaat/Provinz | Bundesland für Abrechnung |
-| Abrechnungsstraße | Rechnungsadresse |
-| Kontobeschreibung | Unternehmenshinweise |
-| Branche | Branche |
-| Gelöscht | SFDC wurde gelöscht |
-| Kontoname | Firmenname |
-| Mitarbeiter | Anzahl Mitarbeiter |
-| Telefonnummer des Kontos | Haupttelefonnummer |
-| SIC-Code | SIC-Code |
-| Konto-Website | Seite |
-| Kontotyp | SFDC-Typ |
-| Website | Website |
+| [!UICONTROL Jahresumsatz] | [!UICONTROL Jahresumsatz] |
+| [!UICONTROL Stadt abrechnen] | [!UICONTROL Stadt abrechnen] |
+| [!UICONTROL Rechnungsland] | [!UICONTROL Rechnungsland] |
+| [!UICONTROL Abrechnungs-Postleitzahl] | [!UICONTROL Postleitzahl für die Rechnungsstellung] |
+| [!UICONTROL Abrechnung Bundesland/] | [!UICONTROL Abrechnungsstatus] |
+| [!UICONTROL Billing Street] | [!UICONTROL Rechnungsadresse] |
+| [!UICONTROL Kontobeschreibung] | [!UICONTROL Firmennotizen] |
+| [!UICONTROL Branche] | [!UICONTROL Branche] |
+| [!UICONTROL Gelöscht] | [!UICONTROL SFDC wird gelöscht] |
+| [!UICONTROL Kontoname] | [!UICONTROL Firmenname] |
+| [!UICONTROL Mitarbeiter] | [!UICONTROL Anzahl Mitarbeiter] |
+| [!UICONTROL Telefonnummer des Kontos] | [!UICONTROL Haupttelefon] |
+| [!UICONTROL SIC-Code] | [!UICONTROL SIC-Code] |
+| [!UICONTROL Konto-Site] | [!UICONTROL Site] |
+| [!UICONTROL Kontotyp] | [!UICONTROL SFDC-Typ] |
+| [!UICONTROL Website] | [!UICONTROL Website] |
 
-## Salesforce-bezogene Systemfelder in Marketo (schreibgeschützt) {#salesforce-related-system-fields-in-marketo-read-only}
+## [!DNL Salesforce] Systemfelder in Marketo (schreibgeschützt) {#salesforce-related-system-fields-in-marketo-read-only}
 
 Diese Felder werden in Marketo erstellt, können von Kunden jedoch nicht angepasst werden.
 
 | Feld | Beschreibung |
 |---|---|
-| SFDC-ID | Die 18-stellige Salesforce ID |
+| SFDC-ID | Die [!DNL Salesforce]-ID mit 18 Zeichen |
 | SFDC-Typ | Lead oder Kontakt. Wenn leer, ist der Lead nur als Person in Marketo vorhanden |
 | SFDC Created Date | Erstellungsdatum in SFDC (kann sich von dem in Marketo unterscheiden) |
 | SFDC wird gelöscht | Person war früher in SFDC, wurde jedoch gelöscht und lebt jetzt nur noch in Marketo |

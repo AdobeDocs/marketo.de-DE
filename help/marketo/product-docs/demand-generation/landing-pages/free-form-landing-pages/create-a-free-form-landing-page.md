@@ -4,7 +4,7 @@ description: Erstellen einer Freiform-Landingpage - Marketo-Dokumente - Produktd
 title: Erstellen einer Freiform-Landingpage
 exl-id: fc58cb1f-8567-47ce-b724-24e6e6bc9cce
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 2%
@@ -13,7 +13,7 @@ ht-degree: 2%
 
 # Erstellen einer Freiform-Landingpage {#create-a-free-form-landing-page}
 
-Freiform-Landingpages können als lokale Assets eines Programms oder im Design Studio erstellt und global verwendet werden.
+Freiform-Landingpages können als lokale Assets eines Programms oder im [!UICONTROL Design Studio) erstellt ] global verwendet werden.
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ Freiform-Landingpages können als lokale Assets eines Programms oder im Design S
 
 ## Erstellen einer Freiform-Landingpage in einem Programm {#create-a-free-form-landing-page-in-a-program}
 
-1. Navigieren Sie **Marketing-Aktivitäten**.
+1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -29,11 +29,11 @@ Freiform-Landingpages können als lokale Assets eines Programms oder im Design S
 
    ![](assets/image2015-5-19-12-3a46-3a47.png)
 
-1. Klicken Sie auf **Neu**. Wählen Sie **Neues lokales Asset**.
+1. Klicken Sie auf **[!UICONTROL Neu]**. Wählen Sie **[!UICONTROL Neues lokales Asset]**.
 
    ![](assets/image2015-5-19-12-3a47-3a27.png)
 
-1. Klicken Sie auf **Landingpage**.
+1. Klicken Sie auf **[!UICONTROL Landingpage]**.
 
    ![](assets/image2014-9-16-12-3a58-3a49.png)
 
@@ -45,21 +45,21 @@ Freiform-Landingpages können als lokale Assets eines Programms oder im Design S
 
    ![](assets/image2015-5-19-12-3a51-3a13.png)
 
-1. Klicken Sie auf **Erstellen**.
+1. Klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/image2015-5-19-12-3a52-3a8.png)
 
 >[!TIP]
 >
->Die URL wird automatisch aus den Programm- und Landingpage-Namen erstellt. Um die URL zu ändern, bearbeiten Sie das Feld **Seiten-URL** .
+>Die URL wird automatisch aus den Programm- und Landingpage-Namen erstellt. Um die URL zu ändern, bearbeiten Sie das Feld **[!UICONTROL Seiten-URL]** .
 
 ## Erstellen einer Freiform-Landingpage in Design Studio {#create-a-free-form-landing-page-in-design-studio}
 
-1. Gehen Sie zum **Design Studio**.
+1. Gehen Sie zum **[!UICONTROL Design Studio]**.
 
    ![](assets/designstudio.png)
 
-1. Klicken Sie **Neu** und dann **Neue Landingpage**.
+1. Klicken Sie **[!UICONTROL Neu]** und dann **[!UICONTROL Neue Landingpage]**.
 
    ![](assets/image2014-9-16-13-3a0-3a43.png)
 
@@ -67,10 +67,10 @@ Freiform-Landingpages können als lokale Assets eines Programms oder im Design S
 
    ![](assets/image2015-5-19-13-3a30-3a25.png)
 
-1. Klicken Sie auf **Erstellen**.
+1. Klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/image2015-5-19-13-3a33-3a43.png)
 
 >[!TIP]
 >
->Deaktivieren Sie „Landingpage-Editor für neue Seite öffnen“, wenn der Editor nicht sofort nach dem Klicken auf &quot;**&quot; geöffnet** soll.
+>Deaktivieren Sie [!UICONTROL Landingpage-Editor für neue Seite öffnen], wenn der Editor nicht sofort nach dem Klicken auf **[!UICONTROL Erstellen]** geöffnet werden soll.

@@ -1,41 +1,41 @@
 ---
 unique-page-id: 2949718
-description: Publish - Eine E-Mail an Sales Insight - Marketo-Dokumente - Produktdokumentation
-title: Publish - eine E-Mail an Sales Insight
+description: Veröffentlichen einer E-Mail in Sales Insight - Marketo-Dokumente - Produktdokumentation
+title: Veröffentlichen einer E-Mail in Sales Insight
 exl-id: 59b6821f-cbed-427f-942f-0a67cbd4e2df
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '199'
 ht-degree: 0%
 
 ---
 
-# Publish - eine E-Mail an Sales Insight {#publish-an-email-to-sales-insight}
+# Veröffentlichen einer E-Mail in [!DNL Sales Insight] {#publish-an-email-to-sales-insight}
 
-Aktivieren Sie die Einstellung &quot;Publish in Sales Insight“, um Ihrem Vertriebsteam eine E-Mail sowohl im Sales Insight als auch im Outlook- und Gmail-Add-in zur Verfügung zu stellen. Sie können auch ein Ablaufdatum angeben.
+Aktivieren Sie die Einstellung In [!DNL Sales Insight] veröffentlichen , um Ihrem Verkaufs-Team eine E-Mail sowohl in [!DNL Sales Insight] als auch im [!DNL Outlook]- und Gmail-Add-in zur Verfügung zu stellen. Sie können auch ein Ablaufdatum angeben.
 
-1. Suchen Sie Ihre E-Mail, wählen Sie sie aus und klicken Sie auf **Entwurf bearbeiten**.
+1. Suchen Sie Ihre E-Mail, wählen Sie sie aus und klicken Sie auf **[!UICONTROL Entwurf bearbeiten]**.
 
    ![](assets/one.png)
 
-1. Klicken Sie nach dem Öffnen des Editors auf **E-Mail-Einstellungen**.
+1. Klicken Sie nach dem Öffnen des Editors auf **[!UICONTROL E-Mail-Einstellungen]**.
 
    ![](assets/two.png)
 
-1. Überprüfen Sie **Publish to Marketo Sales Insight**.
+1. Aktivieren **[!UICONTROL In Marketo Sales Insight veröffentlichen]**.
 
    ![](assets/three.png)
 
-1. Um ein Ablaufdatum (optional) festzulegen, aktivieren Sie **Ablaufdatum festlegen** und wählen Sie ein Datum aus.
+1. Um ein Ablaufdatum (optional) festzulegen, aktivieren Sie **[!UICONTROL Ablaufdatum festlegen]** und wählen Sie ein Datum aus.
 
    ![](assets/four.png)
 
    >[!NOTE]
    >
-   >Um 23:59 Uhr (CST) am Ablaufdatum (wenn Sie eines festlegen) verschwindet die von Ihnen bereitgestellte E-Mail aus Sales Insight sowie allen Add-ins. Natürlich wird es in Marketo weiterhin zugänglich sein.
+   >Um 11:59 Uhr (CST) am Ablaufdatum (wenn Sie eines festlegen) verschwindet die von Ihnen bereitgestellte E-Mail sowie alle zugehörigen Add-Ins von [!DNL Sales Insight]. Natürlich wird es in Marketo weiterhin zugänglich sein.
 
-1. Klicken Sie auf **Speichern**.
+1. Klicken Sie auf **[!DNL Save]**.
 
    ![](assets/five.png)
 
@@ -43,7 +43,7 @@ Gute Arbeit! Jetzt wissen Sie, wie Sie E-Mails für Ihr Verkaufs-Team verfügbar
 
 >[!NOTE]
 >
->[Meine Token](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) werden beim Senden einer E-Mail von Sales Insights auf Microsoft Dynamics oder Salesforce nicht aufgelöst. Nur Standard-Token werden ausgefüllt (Lead, Unternehmen usw.). Die Standardwerte für Token funktionieren jedoch.
+>[Meine Token](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) werden beim Senden einer E-Mail von [!DNL Sales Insight] entweder auf [!DNL Microsoft Dynamics] oder [!DNL Salesforce] nicht aufgelöst. Nur Standard-Token werden ausgefüllt (Lead, Unternehmen usw.). Die Standardwerte für Token funktionieren jedoch.
 
 >[!TIP]
 >

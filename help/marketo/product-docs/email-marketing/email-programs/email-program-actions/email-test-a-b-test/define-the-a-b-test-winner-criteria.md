@@ -4,10 +4,10 @@ description: Definieren der Kriterien für den A/B-Testsieger - Marketo-Dokument
 title: Kriterien für den A/B-Testsieger definieren
 exl-id: be8a0887-70f4-4667-93a6-d982a16cdfdb
 feature: Email Programs, A/B Testing
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '422'
-ht-degree: 3%
+source-wordcount: '426'
+ht-degree: 1%
 
 ---
 
@@ -21,26 +21,26 @@ Beim [Hinzufügen eines A/B](/help/marketo/product-docs/email-marketing/email-pr
 
 ## Gewinnerkriterien {#winner-criteria}
 
-1. Die Standardoptionen **Gewinnerkriterien** werden zuerst aufgeführt.
+1. Die Standardoptionen **[!UICONTROL Gewinnerkriterien]** werden zuerst aufgeführt.
 
    ![](assets/image2014-9-12-15-3a51-3a3.png)
 
    <table>
    <tr>
-   <td><b>Geöffnet</b></td>
-   <td>Ein geöffnetes registriert beim Herunterladen von Bildern in eine E-Mail. Auch wenn Sie kein Bild einbeziehen, fügt Marketo standardmäßig ein einziges Tracking-Pixel in alle HTML-E-Mails ein.</td>
+   <td><b>[!UICONTROL wird geöffnet]</b></td>
+   <td>Ein geöffnetes registriert beim Herunterladen von Bildern in eine E-Mail. Auch wenn Sie kein Bild einbeziehen, fügt Marketo standardmäßig ein einzelnes Tracking-Pixel in alle HTML-E-Mails ein.</td>
    </tr>
    <tr>
-   <td><b>Klicks</b></td>
+   <td><b>[!UICONTROL Klicks]</b></td>
    <td>Standardmäßig sind die Tracking-Funktionen für Links in E-Mails integriert, sodass Sie sehen können, wer auf welchen Link geklickt hat, wie viele Links insgesamt angeklickt wurden usw.</td>
    </tr>
    <tr>
-   <td><b>Zum Öffnen klicken %</b></td>
+   <td><b>[!UICONTROL Zum Öffnen klicken] %</b></td>
    <td>Prozentsatz der E-Mails, die geöffnet wurden und bei denen auf einen Link in der E-Mail geklickt wurde. Dabei werden Relevanz und Kontext einer E-Mail gemessen. Hierzu wird die Anzahl der Einzelklicks dividiert durch die Anzahl der Einzelöffnungen mit 100 multipliziert, um den Wert als Prozentsatz anzuzeigen.</td>
    </tr>
    <tr>
-   <td><b>Engagement-Bewertung</b></td>
-   <td>Der <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html?lang=de" target="_blank">Interaktionswert</a> hilft Ihnen bei der Bestimmung der Effektivität Ihrer Inhalte.</td>
+   <td><b>[!UICONTROL Engagement Score]</b></td>
+   <td>Der <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html" target="_blank">Interaktionswert</a> hilft Ihnen bei der Bestimmung der Effektivität Ihrer Inhalte.</td>
    </tr>
    </table>
 
@@ -48,7 +48,7 @@ Beim [Hinzufügen eines A/B](/help/marketo/product-docs/email-marketing/email-pr
    >
    >Wenn Sie Engagement Score auswählen, muss der Test mindestens 24 Stunden lang ausgeführt werden. Weitere Informationen über [Verstehen des Interaktionswerts](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md){target="_blank"}.
 
-1. Sie können Ihre Kriterien auch anpassen, indem Sie Benutzerdefinierte Konversion auswählen und auf Bearbeiten klicken.
+1. Sie können Ihre Kriterien auch anpassen, indem Sie **[!UICONTROL Benutzerdefinierte Konversion]** auswählen und auf **[!UICONTROL Bearbeiten]** klicken.
 
    ![](assets/image2014-9-12-15-3a51-3a53.png)
 
@@ -68,7 +68,7 @@ Beim [Hinzufügen eines A/B](/help/marketo/product-docs/email-marketing/email-pr
    >
    >Marketo lässt nur Trigger/Filter für Personen zu, die die E-Mail von diesem E-Mail-Programm erhalten haben. Daher ist es nicht erforderlich, den Filter „Wurde E-Mail gesendet“ hinzuzufügen. Darüber hinaus sollten Sie bei der Verwendung eines E-Mail-bezogenen Triggers/Filters „is any“ als Operator verwenden.
 
-1. Klicken Sie auf **Schließen**.
+1. Klicken Sie auf **[!UICONTROL Schließen]**.
 
    ![](assets/image2014-9-12-15-3a53-3a36.png)
 
@@ -82,16 +82,16 @@ Beim [Hinzufügen eines A/B](/help/marketo/product-docs/email-marketing/email-pr
 
    >[!NOTE]
    >
-   >Wenn Sie einen A/B **Test mit Datum/Uhrzeit**, können Sie nur &quot;**&quot;**.
+   >Wenn Sie einen A/B **Test mit Datum/Uhrzeit**, können Sie nur &quot;**[!UICONTROL &quot;]**.
 
    Sobald der A/B-Test abgeschlossen ist, kann Marketo die erfolgreichste E-Mail automatisch zum geplanten Zeitpunkt senden. Alternativ können Sie die Ergebnisse überprüfen und entscheiden, welche E-Mail zu welchem Zeitpunkt gesendet wird.
 
-1. Automatisch ist genial und ist die Standardoption. Klicken Sie einfach **Weiter**.
+1. Automatisch ist genial und ist die Standardoption. Klicken Sie einfach **[!UICONTROL Weiter]**.
 
    ![](assets/image2014-9-12-15-3a54-3a35.png)
 
    >[!TIP]
    >
-   >Wenn Sie **Manuell** wählen, wird der Test gesendet und Sie müssen warten, bis Sie einen Gewinner bestimmen. Sie erhalten einen Bericht über die Ergebnisse.
+   >Wenn Sie **[!UICONTROL Manuell]** wählen, wird der Test gesendet und Sie müssen warten, bis Sie einen Gewinner bestimmen. Sie erhalten einen Bericht über die Ergebnisse.
 
 Perfekt! Planen wir nun [den A/B-Test](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target="_blank"}.

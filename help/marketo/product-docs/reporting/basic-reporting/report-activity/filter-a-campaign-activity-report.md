@@ -4,7 +4,7 @@ description: Kampagnenaktivitätsbericht filtern - Marketo-Dokumente - Produktdo
 title: Kampagnenaktivitätsbericht filtern
 exl-id: c34d6dfa-c635-4ca8-ad4f-bfa5cadaef2d
 feature: Reporting
-source-git-commit: b8abf0d697ff2df4a6b7234fbe33a40ca801187d
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 1%
@@ -23,11 +23,11 @@ Konzentrieren Sie Ihren [Kampagnenaktivitätsbericht](/help/marketo/product-docs
 
    ![](assets/filter-a-campaign-activity-report-1.png)
 
-1. Klicken Sie auf **Registerkarte** Setup“ und doppelklicken Sie auf **Kampagnen**.
+1. Klicken Sie auf **[!UICONTROL Registerkarte]** Setup“ und doppelklicken Sie auf **[!UICONTROL Kampagnen]**.
 
    ![](assets/filter-a-campaign-activity-report-2.png)
 
-1. Wählen Sie die Ordner und spezifischen Smart-Kampagnen aus, die in Ihren Bericht aufgenommen werden sollen. Klicken Sie auf **Übernehmen**.
+1. Wählen Sie die Ordner und spezifischen Smart-Kampagnen aus, die in Ihren Bericht aufgenommen werden sollen. Klicken Sie auf **[!UICONTROL Übernehmen]**.
 
    ![](assets/filter-a-campaign-activity-report-3.png)
 
@@ -35,7 +35,7 @@ Konzentrieren Sie Ihren [Kampagnenaktivitätsbericht](/help/marketo/product-docs
    >
    >Wenn Sie einen Ordner auswählen, enthält der Bericht zum Zeitpunkt der Berichtsausführung alles, was dieser Ordner enthält.
 
-1. Du bist fertig! Klicken Sie auf **Bericht**, um _nur_ ausgewählten Smart-Kampagnen in Ihrem Bericht anzuzeigen.
+1. Du bist fertig! Klicken Sie auf **[!UICONTROL Bericht]**, um _nur_ ausgewählten Smart-Kampagnen in Ihrem Bericht anzuzeigen.
 
    ![](assets/filter-a-campaign-activity-report-4.png)
 

@@ -3,9 +3,9 @@ description: Benutzerdefinierte Feldsynchronisierung für Programmteilnehmer - M
 title: Synchronisierung benutzerdefinierter Felder für Programmmitglieder
 exl-id: 7facfc79-a411-4ad9-b847-2002763af5bb
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '350'
 ht-degree: 11%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 11%
 >[!PREREQUISITES]
 >
 >* Erstellung [ benutzerdefinierten Felder für Programmteilnehmer](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md){target="_blank"}
->* [Synchronisieren einer Salesforce-Kampagne mit einem Programm](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md){target="_blank"}
+>* [Synchronisieren einer  [!DNL Salesforce]  mit einem Programm](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md){target="_blank"}
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ ht-degree: 11%
 
    ![](assets/program-member-custom-field-sync-2.png)
 
-1. Verwenden Sie das Suchfeld, um die Salesforce-Felder zu finden, die Sie zuordnen möchten. In diesem Beispiel verwenden wir „Nicht aufrufen“.
+1. Verwenden Sie das Suchfeld, um die [!DNL Salesforce] Felder zu finden, die Sie zuordnen möchten. In diesem Beispiel verwenden wir „Nicht aufrufen“.
 
    ![](assets/program-member-custom-field-sync-3.png)
 
@@ -39,13 +39,13 @@ ht-degree: 11%
 
    ![](assets/program-member-custom-field-sync-4.png)
 
-1. Wählen Sie das gewünschte benutzerdefinierte Feld für Marketo-Programmteilnehmer aus, das zugeordnet werden soll.
+1. Wählen Sie das gewünschte Marketo-[!UICONTROL Benutzerdefiniertes Feld für Programmteilnehmer] für die Zuordnung aus.
 
    ![](assets/program-member-custom-field-sync-5.png)
 
    >[!NOTE]
    >
-   >In der Dropdown-Liste werden nur benutzerdefinierte Felder für Programmmitglieder angezeigt, die dem Datentyp des Salesforce-Felds entsprechen.
+   >In der Dropdown-Liste werden nur [!UICONTROL Benutzerdefinierte Felder für Programmmitglieder] angezeigt, die dem Datentyp des [!DNL Salesforce]-Felds entsprechen.
 
 1. Deaktivieren Sie für zusätzliche Feldzuordnungen das Suchfeld und wiederholen Sie die Schritte 3 bis 5.
 
@@ -55,11 +55,11 @@ ht-degree: 11%
 
    >[!IMPORTANT]
    >
-   >Änderungen an den Programmmitgliedsdaten in den zugeordneten Feldern werden künftig zwischen Marketo und Salesforce synchronisiert.
+   >Änderungen an den Programmmitgliedsdaten in den zugeordneten Feldern werden zwischen Marketo und [!DNL Salesforce] synchronisiert.
 
    >[!NOTE]
    >
-   >Wenn Sie den Datentyp eines Felds in Salesforce umbenennen oder ändern, entfernen wir jede Zuordnung dieses Felds zum benutzerdefinierten Feld „Programmteilnehmer“. Sie können sie jedoch nach der Überprüfung dem neuen Feld zuordnen.
+   >Wenn Sie den Datentyp eines Felds in [!DNL Salesforce] umbenennen oder ändern, werden alle Zuordnungen dieses Felds zum benutzerdefinierten Feld [!UICONTROL Programmteilnehmer“ ]. Sie können sie jedoch nach der Überprüfung dem neuen Feld zuordnen.
 
 ## Zuordnung von Salesforce-Feldern zu benutzerdefinierten Programmteilnehmerfeldern aufheben {#unmap-salesforce-fields-from-program-member-custom-fields}
 

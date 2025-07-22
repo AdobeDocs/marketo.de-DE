@@ -4,7 +4,7 @@ description: Segmentierung genehmigen - Marketo-Dokumente - Produktdokumentation
 title: Segmentierung genehmigen
 exl-id: c8b0fbe9-012c-47bf-8769-0167156b43d3
 feature: Segmentation
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '232'
 ht-degree: 0%
@@ -24,30 +24,30 @@ Eine Segmentierung muss genehmigt werden, bevor sie verwendet werden kann.
 >
 >Es können maximal 20 Segmentierungen gleichzeitig genehmigt werden.
 
-1. Navigieren Sie zur **Datenbank**.
+1. Navigieren Sie zur **[!UICONTROL Datenbank]**.
 
    ![](assets/image2017-3-28-14-3a25-3a49.png)
 
-1. Klicken Sie in der Segmentierung **Segmentierungsaktionen** und dann **Genehmigen**.
+1. Klicken Sie in der Segmentierung **[!UICONTROL Segmentierungsaktionen]** und dann **[!UICONTROL Genehmigen]**.
 
    ![](assets/image2017-3-28-14-3a46-3a22.png)
 
    >[!NOTE]
    >
-   >Der Status ändert sich in Genehmigen mit sich drehendem Rad ( ![](assets/image2014-9-15-15-3a31-3a43.png)) , während die Genehmigung ausgeführt wird.
+   >Der Status ändert sich in [!UICONTROL Genehmigen] mit einem sich drehenden Rad ( ![](assets/image2014-9-15-15-3a31-3a43.png)), während die Genehmigung ausgeführt wird.
 
    >[!CAUTION]
    >
    >Die Validierung kann je nach Größe der Datenbank einige Minuten bis über einen Tag dauern.
 
-   Nach der Genehmigung ändert sich der Status von Genehmigend in Genehmigt.
+   Nach der Genehmigung ändert [!UICONTROL Status] von [!UICONTROL Genehmigend] in [!UICONTROL Genehmigt].
    ![](assets/image2017-3-28-14-3a46-3a44.png)
 
    >[!TIP]
    >
    >Die Anzahl der Personen in jedem Segment wird in Klammern neben dem Segmentnamen angezeigt.
 
-1. Die **Personen** in **Segment** zeigt jetzt die endgültige Liste der Personen für das Segment an.
+1. Die **[!UICONTROL Personen]** in **[!UICONTROL Segment]** zeigt jetzt die endgültige Liste der Personen für das Segment an.
 
    ![](assets/image2017-3-28-14-3a47-3a10.png)
 

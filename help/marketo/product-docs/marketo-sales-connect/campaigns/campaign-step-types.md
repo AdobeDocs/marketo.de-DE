@@ -4,9 +4,9 @@ description: Kampagnenschritttypen - Marketo-Dokumente - Produktdokumentation
 title: Kampagnen-Schritttypen
 exl-id: fb6aff01-c38b-4b26-81bb-c6b1d79db992
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '180'
 ht-degree: 2%
 
 ---
@@ -41,7 +41,7 @@ Richten Sie eine Erinnerung ein, um einem Kontakt per Telefon nachzugehen. Sie k
 
 ## InMail {#inmail}
 
-Die Nachverfolgung über mehrere Kanäle ist eine hervorragende Möglichkeit, um eine Verbindung mit Leads herzustellen. Bei InMail-Aufgaben können Sie eine Erinnerung einrichten, um über LinkedIn Kontakt aufzunehmen.
+Die Nachverfolgung über mehrere Kanäle ist eine hervorragende Möglichkeit, um eine Verbindung mit Leads herzustellen. Bei InMail-Aufgaben können Sie eine Erinnerung einrichten, mit der Sie per [!DNL LinkedIn] Kontakt aufnehmen können.
 
 ![](assets/inmail.png)
 

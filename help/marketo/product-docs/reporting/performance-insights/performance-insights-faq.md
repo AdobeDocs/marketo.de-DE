@@ -4,16 +4,16 @@ description: Häufig gestellte Fragen zu Performance Insights - Marketo-Dokument
 title: Häufig gestellte Fragen zu Performance Insights
 exl-id: cee791c3-1845-4fca-b803-c0dc1c644549
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '1346'
 ht-degree: 0%
 
 ---
 
-# Häufig gestellte Fragen zu Performance Insights {#performance-insights-faq}
+# [!UICONTROL Performance Insights] FAQs {#performance-insights-faq}
 
-## Was ist die Definition von „Erfolg“ auf der Registerkarte Interaktion? {#what-is-the-definition-of-success-in-the-engagement-tab}
+## Was ist die Definition von „Erfolg“ auf der Registerkarte [!UICONTROL Interaktion]? {#what-is-the-definition-of-success-in-the-engagement-tab}
 
 Erfolg ist ein Maßstab für sinnvolle Interaktion in Marketo. Zweck eines Programms ist es, eine sinnvolle Interaktion mit der Person oder dem potenziellen Kunden herzustellen. Erfolg wird markiert, wenn eine Person den Status erreicht, der dieses Ziel erreicht. Er kann an einem Webinar teilnehmen, auf einen Link in einer E-Mail klicken oder ein Web-Formular ausfüllen. Der Erfolg hängt vom Programmkanal ab.
 
@@ -23,7 +23,7 @@ Erfolg ist ein Maßstab für sinnvolle Interaktion in Marketo. Zweck eines Progr
 
 ## Funktioniert das MPI mit jedem CRM? {#will-mpi-work-with-any-crm}
 
-Ja. Technisch gesehen interagiert MPI für die Datensynchronisation nicht direkt mit dem CRM. MPI nutzt die auf der Marketo Analytics-Data Warehouse gespeicherten Daten. Da die CRM-Synchronisierung in der Lead-Management-Anwendung erfolgt, zeigt jedes von Marketo unterstützte CRM, das in die Lead-Management-Anwendung integriert ist, die Daten korrekt an. Die CRM-Opportunity-Felder müssen jedoch korrekt den Marketo-Opportunity-Feldern zugeordnet werden.
+Ja. Technisch gesehen interagiert MPI für die Datensynchronisation nicht direkt mit dem CRM. MPI nutzt die in der Marketo Analytics Data Warehouse gespeicherten Daten. Da die CRM-Synchronisierung in der Lead-Management-Anwendung erfolgt, zeigt jedes von Marketo unterstützte CRM, das in die Lead-Management-Anwendung integriert ist, die Daten korrekt an. Die CRM-Opportunity-Felder müssen jedoch korrekt den Marketo-Opportunity-Feldern zugeordnet werden.
 
 ## Ich besitze keine anderen Marketing Analytics-Produkte (ARB, RCE, RCA, Programmanalyse). Arbeitet MPI für mich? {#i-do-not-have-any-other-marketing-analytics-products-arb-rce-rca-program-analysis-will-mpi-work-for-me}
 
@@ -131,9 +131,9 @@ Die Attributionsfunktionen von Marketo stehen unseren Kunden beim Kauf von MPI z
 
 Mit dem Programm-Analyzer können Sie Ihre Programme mit bis zu vier Kennzahlen vergleichen. Mit MPI können Sie Ihren Kanal- und Programmbeitrag für eine ausgewählte Metrik wie Erfolg, neu erstellte Chancen usw. analysieren. Darüber hinaus können Sie den 12-monatigen Kanal-Trend basierend auf einer bestimmten von Ihnen ausgewählten Metrik anzeigen.
 
-## Was ist der Unterschied zwischen MPI und dem erweiterten Report Builder? {#whats-the-difference-between-mpi-and-the-advanced-report-builder}
+## Was ist der Unterschied zwischen MPI und Advanced Report Builder? {#whats-the-difference-between-mpi-and-the-advanced-report-builder}
 
-Der erweiterte Report Builder (manchmal auch als RCE bezeichnet) ist für Self-Service- (oder Ad-hoc-) Berichte konzipiert, die normalerweise von Marketing-Vorgängen ausgeführt werden. MPI wurde entwickelt, um Marketing-Experten und Marketing-Experten 1-Klick-Zugriff auf Leistungsanalysen zu bieten. Es ist nur eine minimale Einrichtung erforderlich.
+Die erweiterte Report Builder (manchmal auch als RCE bezeichnet) ist für Self-Service- (oder Ad-hoc-) Berichte konzipiert, die normalerweise von Marketing-Vorgängen ausgeführt werden. MPI wurde entwickelt, um Marketing-Experten und Marketing-Experten 1-Klick-Zugriff auf Leistungsanalysen zu bieten. Es ist nur eine minimale Einrichtung erforderlich.
 
 ## Was ist mit der Option „Vorheriges Jahr“ im Datumsfilter von Contribution passiert? {#what-happened-to-the-previous-year-option-in-contributions-date-filter}
 

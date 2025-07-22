@@ -4,7 +4,7 @@ description: Grundlegendes zu meinen Berichten und Gruppenberichten - Marketo-Do
 title: Grundlegendes zu meinen Berichten und Gruppenberichten
 exl-id: 03bfee67-e39c-4664-9b36-39e3e3f29077
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 0%
@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # Grundlegendes zu meinen Berichten und Gruppenberichten {#understanding-my-reports-and-group-reports}
 
-Sie können **Meine Berichte** und **Gruppenberichte** über die [Analytics-](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) erstellen.
+Sie können **[!UICONTROL Meine Berichte]** und **[!UICONTROL Gruppenberichte]** über die [Analytics-](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) erstellen.
 
-**Meine Berichte** sind nur für Sie sichtbar.
+**[!UICONTROL Meine Berichte]** sind nur für Sie sichtbar.
 
-**Gruppenberichte** sind für alle Benutzenden in diesem Arbeitsbereich sichtbar.
+**[!UICONTROL Gruppenberichte]** sind für alle Benutzenden in diesem Arbeitsbereich sichtbar.
 
 >[!NOTE]
 >
->Jeder Arbeitsbereich verfügt über eine Reihe **Meine Berichte** und **Gruppenberichte**.
+>Jeder Arbeitsbereich verfügt über eine Reihe **[!UICONTROL Meine Berichte]** und **[!UICONTROL Gruppenberichte]**.
 
 ![](assets/image2015-4-21-14-3a41-3a22.png)
 

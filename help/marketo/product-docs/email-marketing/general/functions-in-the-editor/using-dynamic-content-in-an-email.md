@@ -4,7 +4,7 @@ description: Verwenden dynamischer Inhalte in einer E-Mail - Marketo-Dokumente -
 title: Verwenden dynamischer Inhalte in einer E-Mail
 exl-id: a1178f76-6760-4a4a-9510-f129ee6a9032
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '260'
 ht-degree: 0%
@@ -25,15 +25,15 @@ Verwenden Sie dynamische Inhalte in E-Mails, um Ihre Leads zielgerichtete Inform
 
 ## Segmentierung hinzufügen {#add-segmentation}
 
-1. Navigieren Sie **Marketing-Aktivitäten**.
+1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Wählen Sie Ihre E-Mail aus und klicken Sie **Entwurf bearbeiten**.
+1. Wählen Sie Ihre E-Mail aus und klicken Sie **[!UICONTROL Entwurf bearbeiten]**.
 
    ![](assets/1.2.png)
 
-1. In diesem Beispiel machen wir die Betreffzeile dynamisch. Klicken Sie in das Feld Betreff und dann auf die Schaltfläche **Dynamisch erstellen**.
+1. In diesem Beispiel machen wir die Betreffzeile dynamisch. Klicken Sie in das Feld [!UICONTROL Betreff] und dann auf die Schaltfläche **Dynamisch machen**.
 
    ![](assets/1.3.png)
 
@@ -41,11 +41,11 @@ Verwenden Sie dynamische Inhalte in E-Mails, um Ihre Leads zielgerichtete Inform
    >
    >Sie können auch ein -Element innerhalb der E-Mail dynamisch machen. Wählen Sie dazu den Bereich aus, klicken Sie auf das Zahnradsymbol und wählen Sie **Dynamisch erstellen** (oder [Ersetzen durch Snippet](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md), je nachdem, was Sie gerade tun).
 
-1. Geben Sie den Namen der Segmentierung ein, wählen Sie ihn aus und klicken Sie auf **Speichern**.
+1. Geben Sie den Namen der Segmentierung ein, wählen Sie ihn aus und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/1.4.png)
 
-   Die Segmentierung und die zugehörigen Segmente werden auf der rechten Seite auf der Registerkarte Dynamisch angezeigt.
+   Die Segmentierung und die zugehörigen Segmente werden auf der rechten Seite [!UICONTROL  Registerkarte ]Dynamisch“ angezeigt.
 
    ![](assets/1.5.png)
 

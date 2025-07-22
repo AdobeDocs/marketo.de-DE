@@ -4,7 +4,7 @@ description: Grundlegendes zu Smart Campaign-Karten - Marketo-Dokumente - Produk
 title: Grundlegendes zu Smart Campaign-Karten
 exl-id: 2d7476aa-d33d-4c82-aef8-b340766b9526
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '574'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Verwenden Sie Marketo Moments , um jede Ausführung Ihrer Smart-Kampagnen von Ih
 
 >[!IMPORTANT]
 >
->Am 2. Oktober 2023 entfernte Adobe die Marketo Moments-App aus allen App Stores. Wenn Sie die App bereits auf Ihrem Tablet/Mobilgerät installiert haben, können Sie sie vorerst weiter verwenden. Nachdem Ihre Marketo Engage-Instanz zur Authentifizierung von Marketo auf Adobe Identity migriert wurde, können Sie nicht mehr auf die App zugreifen. [Weitere Informationen](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+>Am 2. Oktober 2023 hat Adobe die Marketo Moments-App aus allen App Stores entfernt. Wenn Sie die App bereits auf Ihrem Tablet/Mobilgerät installiert haben, können Sie sie vorerst weiter verwenden. Nachdem Ihre Marketo Engage-Instanz zur Authentifizierung von Marketo zu Adobe Identity migriert wurde, können Sie nicht mehr auf die App zugreifen. [Weitere Informationen](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 Für zukünftige Smart-Kampagnen, die geplant sind, aber noch nicht ausgeführt wurden, zeigt die Marketo Moments -Karte noch keine Kampagnenstatistiken an. Sie werden in einer zukünftigen Version erscheinen.
 
@@ -29,9 +29,9 @@ Für zukünftige Smart-Kampagnen, die geplant sind, aber noch nicht ausgeführt 
 
    ![](assets/image2015-9-21-11-3a7-3a52.png)
 
-1. Die Detailkarte bietet Zugriff auf Informationen zu den Filtern der Smart-Liste, zum Fluss und zur E-Mail-Zusammenfassung.
+1. Die Detailkarte bietet Zugriff auf Informationen zu [!UICONTROL Smart-], [!UICONTROL Fluss] und [!UICONTROL E-Mail-Zusammenfassung].
 
-1. Tippen Sie auf **Smart-Liste**.
+1. Tippen Sie auf **[!UICONTROL Smart-Liste]**.
 
    ![](assets/image2015-9-21-13-3a31-3a49.png)
 
@@ -39,7 +39,7 @@ Für zukünftige Smart-Kampagnen, die geplant sind, aber noch nicht ausgeführt 
 
    ![](assets/image2015-9-21-13-3a35-3a29.png)
 
-1. Tippen Sie auf **Fluss**.
+1. Tippen Sie auf **[!UICONTROL Fluss]**.
 
    ![](assets/image2015-9-21-13-3a37-3a20.png)
 
@@ -47,7 +47,7 @@ Für zukünftige Smart-Kampagnen, die geplant sind, aber noch nicht ausgeführt 
 
    ![](assets/image2015-9-22-15-3a8-3a12.png)
 
-1. Klicken Sie auf **E-Mail-Zusammenfassung**.
+1. Klicken Sie auf **[!UICONTROL E-Mail-Zusammenfassung]**.
 
    ![](assets/image2015-9-21-13-3a51-3a7.png)
 
@@ -71,7 +71,7 @@ Es empfiehlt sich, erst einen Blick auf eine E-Mail zu werfen, bevor sie verschi
 
    ![](assets/image2015-9-22-14-3a54-3a12.png)
 
-1. Tippen Sie auf [Beispiel senden](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md) oder [E-Mail-Vorschau](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md) (klicken Sie auf diese Links, um weitere Details anzuzeigen).
+1. Tippen Sie auf [[!UICONTROL Beispiel senden]](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md) oder [[!UICONTROL E-Mail-Vorschau]](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md) (klicken Sie auf diese Links, um weitere Details anzuzeigen).
 
    ![](assets/image2015-9-22-14-3a52-3a11.png)
 
@@ -83,11 +83,11 @@ Karten für nicht bestätigte Smart-Kampagnen sind grau, bis Sie sie bestätigen
 
    ![](assets/image2015-9-23-10-3a43-3a23.png)
 
-1. Tippen Sie auf **Bestätigen**.
+1. Tippen Sie auf **[!UICONTROL Bestätigen]**.
 
    ![](assets/image2015-9-23-10-3a45-3a51.png)
 
-1. Tippen Sie **Bestätigen**, um den Vorgang abzuschließen, oder **Macht nichts** wenn Sie Zweifel haben.
+1. Tippen Sie **[!UICONTROL Bestätigen]**, um den Vorgang abzuschließen, oder **[!UICONTROL Macht nichts]** wenn Sie Zweifel haben.
 
    ![](assets/image2015-9-23-10-3a47-3a28.png)
 
@@ -103,7 +103,7 @@ Sie können eine bestätigte, geplante Ausführung einer intelligenten Kampagne 
 
    ![](assets/image2015-9-22-14-3a34-3a14.png)
 
-1. Tippen Sie auf **Ausführung abbrechen**.
+1. Tippen Sie auf **[!UICONTROL Ausführung abbrechen]**.
 
    ![](assets/image2015-9-22-14-3a35-3a33.png)
 
@@ -119,11 +119,11 @@ Sie können eine bestätigte intelligente Kampagne, die noch nicht ausgeführt w
 
    ![](assets/image2015-9-22-14-3a11-3a25.png)
 
-1. Tippen Sie auf **Neu planen**.
+1. Tippen Sie auf **[!UICONTROL Neu planen]**.
 
    ![](assets/image2015-9-22-14-3a13-3a25.png)
 
-1. Wählen Sie ein Datum im Kalender aus und tippen Sie auf **Neu**.
+1. Wählen Sie ein Datum im Kalender aus und tippen Sie auf **[!UICONTROL Neu]**.
 
    ![](assets/image2015-9-22-14-3a16-3a56.png)
 
@@ -141,7 +141,7 @@ Wie bei anderen Marketo Moments -Karten können Sie auf die drei Punkte einer be
 
 >[!NOTE]
 >
->Sie können auch auf das Symbol **Freigeben** auf einer Smart-Campaign-Karte tippen, um es freizugeben, und auf die Symbole **Fertig** und **Favorit** auf der Detailkarte.
+>Sie können auch auf das Symbol **[!UICONTROL Freigeben]** auf einer Smart-Campaign-Karte tippen, um es freizugeben, und auf die Symbole **[!UICONTROL Fertig]** und **[!UICONTROL Favorit]** auf der Detailkarte.
 
 ## Schnelles Löschen einer Smart Campaign-Karte {#quickly-delete-a-smart-campaign-card}
 

@@ -4,7 +4,7 @@ description: Erstellen eines Formulars - Marketo-Dokumente - Produktdokumentatio
 title: Formular erstellen
 exl-id: ab0f2700-99e5-4ceb-b9df-80016f30fc85
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Erstellen und Verwenden eines Formulars auf einer Landingpage zum Generieren neu
 >
 >Erfahren Sie, was Marketo tut, um [Ihre Formulare sicher zu ](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038).
 
-1. Navigieren Sie **Marketing-Aktivitäten**.
+1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -27,15 +27,15 @@ Erstellen und Verwenden eines Formulars auf einer Landingpage zum Generieren neu
 
    ![](assets/programseelct.png)
 
-1. Klicken Sie unter **Neu** auf **Neu** **Lokal**&#x200B;**Asset**.
+1. Klicken **[!UICONTROL unter „Neu]** auf **[!UICONTROL Neues lokales Asset]**.
 
    ![](assets/newlocalasset.png)
 
-1. Wählen Sie **Formular** aus.
+1. Wählen Sie **[!UICONTROL Formular]** aus.
 
    ![](assets/image2014-9-15-17-3a1-3a20.png)
 
-1. Geben Sie ein Formular **Name** ein und klicken Sie auf **Erstellen**.
+1. Geben Sie ein Formular **[!UICONTROL Name]** ein und klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/newformwithhands.png)
 

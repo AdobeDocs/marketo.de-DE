@@ -4,16 +4,16 @@ description: Web Personalization-Glossar - Marketo-Dokumente - Produktdokumentat
 title: Web Personalization-Glossar
 exl-id: 82f7aa62-0b5a-4d34-865c-aa77c1b0b0e7
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '253'
 ht-degree: 2%
 
 ---
 
-# Web Personalization-Glossar {#web-personalization-glossary}
+# [!DNL Web Personalization] Glossar {#web-personalization-glossary}
 
-Einige Einblicke in die Welt und Sprache von Marketo Web Personalization.
+Einige Einblicke in die Welt und Sprache der [!DNL Marketo Web Personalization].
 
 | Begriff | Definition |
 |---|---|
@@ -29,7 +29,7 @@ Einige Einblicke in die Welt und Sprache von Marketo Web Personalization.
 
 ## Beispiele für Platzhalter {#wildcard-examples}
 
-Im Folgenden finden Sie drei Möglichkeiten, einen Platzhalter in Web Personalization zu verwenden.
+Im Folgenden finden Sie drei Möglichkeiten, einen Platzhalter in [!DNL Web Personalization] zu verwenden.
 
 Abgleichen aller Besucher auf Seiten-URLs, die mit Preisen enden (z. B. `www.marketo.com/pricing`
 

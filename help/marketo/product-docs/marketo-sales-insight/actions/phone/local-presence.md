@@ -3,7 +3,7 @@ description: Lokale Präsenz - Marketo-Dokumente - Produktdokumentation
 title: Lokale Präsenz
 exl-id: 719fd3e8-1586-4aa1-940f-931dd3b99bd4
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
    ![](assets/local-presence-1.png)
 
-1. Aktivieren **das Kontrollkästchen „Lokale Präsenz**&quot;.
+1. Aktivieren **[!UICONTROL das Kontrollkästchen „Lokale Präsenz]**&quot;.
 
    ![](assets/local-presence-2.png)
 

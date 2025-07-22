@@ -4,9 +4,9 @@ description: Person mit SFDC synchronisieren - Marketo-Dokumente - Produktdokume
 title: Person mit SFDC synchronisieren
 exl-id: 4284ec35-6ac5-4084-beb7-976eb6fd7e3c
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '125'
 ht-degree: 6%
 
 ---
@@ -17,7 +17,7 @@ In diesem Flussschritt werden von Marketo erstellte Personen als Leads in Ihr Sa
 
 >[!NOTE]
 >
->Nur verfügbar, wenn mit Salesforce integriert.
+>Nur verfügbar, wenn mit [!DNL Salesforce] integriert.
 
 1. Standardmäßig werden diese Flussschritte den Lead-Inhabern auf der Grundlage der Salesforce-Regeln für die automatische Zuweisung zugewiesen.
 
@@ -25,14 +25,14 @@ In diesem Flussschritt werden von Marketo erstellte Personen als Leads in Ihr Sa
 
    >[!TIP]
    >
-   >Salesforce erfordert, dass die Person die Felder Firma und Nachname ausgefüllt hat. Andernfalls wird der Lead-Datensatz abgelehnt.
+   >[!DNL Salesforce] muss die Person die Felder Firma und Nachname ausgefüllt haben. Andernfalls wird der Lead-Datensatz abgelehnt.
 
-1. Sie können einen bestimmten Salesforce-Benutzer oder eine bestimmte Lead-Warteschlange als Lead-Inhaber festlegen.
+1. Sie können einen bestimmten [!DNL Salesforce] oder eine bestimmte Lead-Warteschlange als Lead-Inhaber festlegen.
 
    ![](assets/sync-person-to-sfdc-2.png)
 
-   Bei Verwendung dieses Flussschritts wird die Person sofort als Salesforce-Lead synchronisiert und muss nicht auf die reguläre Synchronisierung warten.
+   Bei Verwendung dieses Flussschritts wird die Person sofort als [!DNL Salesforce] Lead synchronisiert und muss nicht auf die reguläre Synchronisierung warten.
 
    >[!CAUTION]
    >
-   >Salesforce erlaubt nicht, „Kontakte“ Lead-Warteschlangen zuzuweisen. In diesem Fall erstellt Marketo ein doppeltes „Lead“ in Salesforce.
+   >[!DNL Salesforce] erlaubt es nicht, „Kontakte“ Lead-Warteschlangen zuzuweisen. In diesem Fall erstellt Marketo in [!DNL Salesforce] ein doppeltes „Lead“.

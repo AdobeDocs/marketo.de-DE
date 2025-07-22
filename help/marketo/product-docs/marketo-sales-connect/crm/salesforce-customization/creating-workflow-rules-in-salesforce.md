@@ -4,16 +4,16 @@ description: Erstellen von Workflow-Regeln in Salesforce - Marketo-Dokumente - P
 title: Erstellen von Workflow-Regeln in Salesforce
 exl-id: 0cfce178-453b-4949-96aa-c327278a267d
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '468'
 ht-degree: 1%
 
 ---
 
 # Erstellen von Workflow-Regeln in Salesforce {#creating-workflow-rules-in-salesforce}
 
-Wenn Sie Marketo Sales Insight (MSI) und Marketo Sales Connect (MSC) parallel verwenden, wird die Funktion MSI Best Bets in Salesforce nicht aktualisiert. Alle anderen MSI-Funktionen funktionieren wie gewohnt (Anzeigen interessanter Momente im iFrame, Senden von E-Mails, Hinzufügen zu Kampagnen usw.). Dieser Artikel bietet eine Problemumgehung, damit Best Bets wieder funktionieren.
+Wenn Sie Marketo Sales Insight (MSI) und Marketo Sales Connect (MSC) parallel verwenden, wird die Funktion MSI Best Bets in [!DNL Salesforce] nicht aktualisiert. Alle anderen MSI-Funktionen funktionieren wie gewohnt (Anzeigen interessanter Momente im iFrame, Senden von E-Mails, Hinzufügen zu Kampagnen usw.). Dieser Artikel bietet eine Problemumgehung, damit Best Bets wieder funktionieren.
 
 >[!NOTE]
 >
@@ -21,9 +21,9 @@ Wenn Sie Marketo Sales Insight (MSI) und Marketo Sales Connect (MSC) parallel ve
 
 ## Erste Schritte {#getting-started}
 
-Die Problemumgehung umfasst das Erstellen neuer Workflow-Regeln, um Werte aus neuen MSE-Feldern in die alten MSI-Felder zu kopieren. Sie müssen vier Workflow-Regeln für das Kontaktobjekt und dieselben vier Workflow-Regeln für das Lead-Objekt in Ihrer eigenen Salesforce-Instanz erstellen. Dazu müssen Sie möglicherweise über CRM-Administratorrechte verfügen (je nach Ihrer Rolle und Einrichtung im CRM).
+Die Problemumgehung umfasst das Erstellen neuer Workflow-Regeln, um Werte aus neuen MSE-Feldern in die alten MSI-Felder zu kopieren. Sie müssen vier Workflow-Regeln für das Kontaktobjekt und dieselben vier Workflow-Regeln für das Lead-Objekt in Ihrer eigenen [!DNL Salesforce] erstellen. Dazu müssen Sie möglicherweise über CRM-Administratorrechte verfügen (je nach Ihrer Rolle und Einrichtung im CRM).
 
-Im Folgenden finden Sie die empfohlenen Namen der Workflow-Regeln und eine Beschreibung der einzelnen Regeln. Diese gelten für das Kontakt- und Lead-Objekt:
+Im Folgenden finden Sie die empfohlenen Namen der Workflow-Regeln und eine Beschreibung der einzelnen Regeln. Diese gelten für die Objekte [!UICONTROL Kontakt] und [!UICONTROL Lead]:
 
 <table> 
  <colgroup> 
@@ -52,52 +52,52 @@ Im Folgenden finden Sie die empfohlenen Namen der Workflow-Regeln und eine Besch
 
 ## Anleitung {#instructions}
 
-1. Nachdem Sie auf **Setup** geklickt haben, suchen Sie nach **Workflow** und wählen Sie **Workflow-Regeln**.
+1. Nachdem Sie auf **[!UICONTROL Setup]** geklickt haben, suchen Sie nach **Workflow** und wählen Sie **[!UICONTROL Workflow-Regeln]**.
 
    ![](assets/one-1.png)
 
-1. Wählen Sie **Neue Regel** aus.
+1. Wählen Sie **[!UICONTROL Neue Regel]** aus.
 
    ![](assets/two-1.png)
 
-1. Klicken Sie auf die Dropdown-Liste Objekt und wählen Sie **Lead** und klicken Sie dann auf **Weiter**.
+1. Klicken Sie auf [!UICONTROL Objekt] Dropdown-Liste und wählen Sie **[!UICONTROL Lead]** und klicken Sie dann auf **[!UICONTROL Weiter]**.
 
    ![](assets/three-1.png)
 
-1. Geben Sie als Regelnamen „Feld für interessanten Moment aktualisieren“ ein. Wählen Sie die Optionsschaltfläche **erstellt und jedes Mal, wenn sie bearbeitet wird** aus. Wählen Sie in der Dropdown-Liste Regelkriterien die Option **Formel wird als „true“ ausgewertet**. Suchen Sie nach der Funktion ISCHANGED und wählen Sie sie aus. Markieren Sie dann den Wert des Standardfelds und klicken Sie auf **Feld einfügen**.
+1. Geben Sie als [!UICONTROL Regelname“ „Feld für interessanten Moment aktualisieren] ein. Wählen Sie die Optionsschaltfläche **[!UICONTROL erstellt und jedes Mal, wenn sie bearbeitet wird]** aus. Wählen Sie in [!UICONTROL  Dropdown-Liste ]Regelkriterien“ **[!UICONTROL Formel wird als „true“ ausgewertet]**. Suchen Sie nach der Funktion ISCHANGED und wählen Sie sie aus. Markieren Sie dann den Wert des Standardfelds und klicken Sie auf **[!UICONTROL Feld einfügen]**.
 
    ![](assets/four-1.png)
 
-1. Wählen Sie im Pop-up „Feld einfügen“ die Option **Letzte Marketo-Interaktionsbeschreibung** und klicken Sie auf **Einfügen**.
+1. Wählen Sie im Pop-up [!UICONTROL Feld einfügen] die Option **[!UICONTROL Letzter Marketo-]**) und klicken Sie auf **[!UICONTROL Einfügen]**.
 
    ![](assets/five-1.png)
 
-1. Klicken Sie **Speichern und Weiter**.
+1. Klicken Sie **[!UICONTROL Speichern und Weiter]**.
 
    ![](assets/6.png)
 
-1. Wählen Sie in der Dropdown-Liste Workflow-Aktion hinzufügen die Option **Neues Feld aktualisieren**.
+1. Wählen Sie in [!UICONTROL  Dropdown-Liste ]Workflow-Aktion hinzufügen **[!UICONTROL die Option „Neues Feld aktualisieren]**.
 
    ![](assets/seven.png)
 
-1. Geben Sie in das Feld „Name“ „Feld für Beschreibung des interessanten Moments aktualisieren“ ein (eindeutiger Name wird automatisch generiert). Wählen Sie in der Dropdown-Liste Zu aktualisierendes Feld **Beschreibung des letzten interessanten Moments**. Wählen Sie das Optionsfeld **Formel zum Festlegen eines neuen Werts verwenden** und klicken Sie dann auf **Formeleditor anzeigen**.
+1. Geben Sie [!UICONTROL  Feld „Name] „Feld für interessanten Moment aktualisieren“ ein ([!UICONTROL Eindeutiger Name] wird automatisch generiert). Wählen Sie in [!UICONTROL  Dropdown-Liste ]Zu aktualisierendes Feld“ die Option **[!UICONTROL Beschreibung des letzten interessanten Moments]**. Wählen Sie das Optionsfeld **[!UICONTROL Formel zum Festlegen eines neuen Werts verwenden]** und klicken Sie dann auf **[!UICONTROL Formeleditor anzeigen]**.
 
    ![](assets/eight.png)
 
-1. Klicken Sie auf **Schaltfläche** Feld einfügen“.
+1. Klicken Sie auf **[!UICONTROL Schaltfläche]** Feld einfügen“.
 
    ![](assets/9a.png)
 
-1. Wählen Sie **Letzte Marketo-Interaktionsbeschreibung** aus und klicken Sie auf **Einfügen**. Klicken Sie auf der nächsten Seite auf **Speichern**.
+1. Wählen Sie **[!UICONTROL Letzte Marketo-Interaktionsbeschreibung]** aus und klicken Sie auf **[!UICONTROL Einfügen]**. Klicken Sie auf der nächsten Seite auf **[!UICONTROL Speichern]**.
 
    ![](assets/nine.png)
 
-1. Klicken Sie auf **Fertig**.
+1. Klicken Sie auf **[!UICONTROL Fertig]**.
 
    ![](assets/twelve.png)
 
-1. Klicken Sie **Aktivieren**, um die Workflow-Regel zu aktivieren.
+1. Klicken Sie **[!UICONTROL Aktivieren]**, um die Workflow-Regel zu aktivieren.
 
    ![](assets/thirteen.png)
 
-   Nach dem letzten Schritt können Sie die Workflow-Regel für die anderen Felder klonen, die im Abschnitt Erste Schritte aufgeführt sind: Beschreibung, Typ, Source, Datum. Nachdem Sie die vier Workflow-Regeln im Kontaktobjekt abgeschlossen haben, wiederholen Sie dies für das Lead-Objekt.
+   Nach dem letzten Schritt können Sie die Workflow-Regel für die anderen Felder klonen, die im Abschnitt [!UICONTROL Erste Schritte] aufgeführt sind: Beschreibung, Typ, Source, Datum. Nachdem Sie die vier Workflow-Regeln im Objekt [!UICONTROL Kontakt] abgeschlossen haben, wiederholen Sie dies für das Objekt [!UICONTROL Lead].

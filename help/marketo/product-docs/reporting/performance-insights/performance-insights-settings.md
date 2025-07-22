@@ -4,14 +4,14 @@ description: Einstellungen für Performance Insights - Marketo-Dokumente - Produ
 title: Einstellungen für Performance Insights
 exl-id: 894df9de-d416-44f7-8253-ebf3c2a36c90
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '373'
 ht-degree: 9%
 
 ---
 
-# Einstellungen für Performance Insights {#performance-insights-settings}
+# [!UICONTROL Performance Insights] Einstellungen {#performance-insights-settings}
 
 Erfahren Sie mehr über die verschiedenen Einstellungsoptionen in MPI.
 
@@ -23,7 +23,7 @@ Erfahren Sie mehr über die verschiedenen Einstellungsoptionen in MPI.
 
 ## Anzeigen des Programmerfolgs nach {#view-program-success-by}
 
-**Interaktions-Dashboard - Beitrag und Trend**
+**[!UICONTROL Interaktion] Dashboard - Beitrag und Trend**
 
 <table> 
  <tbody> 
@@ -40,7 +40,7 @@ Erfahren Sie mehr über die verschiedenen Einstellungsoptionen in MPI.
 
 ## Konfiguration vorheriger Zeitraum {#previous-period-configuration}
 
-**Interaktions-, Pipeline-, Umsatz-Dashboards - nur Beitrag**
+**[!UICONTROL Interaktion], [!UICONTROL Pipeline], [!UICONTROL Umsatz] Dashboards - nur Beitrag**
 
 <table> 
  <tbody> 
@@ -57,7 +57,7 @@ Erfahren Sie mehr über die verschiedenen Einstellungsoptionen in MPI.
 
 ## Marketing-beeinflusste Opportunities {#marketing-influenced-opportunities}
 
-**Pipeline-Dashboard - Beitrag und Trend**
+**[!UICONTROL Pipeline] Dashboard - Beitrag und Trend**
 
 <table> 
  <tbody> 
@@ -72,7 +72,7 @@ Erfahren Sie mehr über die verschiedenen Einstellungsoptionen in MPI.
  </tbody> 
 </table>
 
-**Umsatz-Dashboard - Beitrag und Trend**
+**[!UICONTROL Umsatz] Dashboard - Beitrag und Trend**
 
 <table> 
  <tbody> 
@@ -89,7 +89,7 @@ Erfahren Sie mehr über die verschiedenen Einstellungsoptionen in MPI.
 
 ## Kostenberechnung {#cost-calculation}
 
-**Pipeline- und Umsatz-Dashboards - Beitrag und Trend**
+**[!UICONTROL Pipeline] und [!UICONTROL Umsatz] Dashboards - Beitrag und Trend**
 
 <table> 
  <tbody> 

@@ -4,26 +4,26 @@ description: Verwenden der Schnellsynchronisierung mit Microsoft Dynamics für e
 title: Verwenden der Schnellsynchronisierung mit Microsoft Dynamics für ein neues benutzerdefiniertes Feld
 exl-id: c98f1443-c0dd-40e1-919b-f8110088b38a
 feature: Microsoft Dynamics
-source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '351'
 ht-degree: 1%
 
 ---
 
-# Verwenden der Schnellsynchronisierung mit Microsoft Dynamics für ein neues benutzerdefiniertes Feld {#use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field}
+# Schnellsynchronisierung mit [!DNL Microsoft Dynamics] für ein neues benutzerdefiniertes Feld verwenden {#use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field}
 
 Marketing oder Vertrieb möchten ein neues Feld. Oder vielleicht haben Sie einen in Ihrer ursprünglichen Feldauswahl vergessen. Oder Ihre Anforderungen haben sich geändert. In jedem Fall können Sie die Schnellsynchronisierung verwenden, um bestimmte Felder neu zu synchronisieren.
 
 Normalerweise verwenden Sie die Schnellsynchronisierung, um ein neues Feld hinzuzufügen und Werte zu aktualisieren. Es gibt jedoch Fälle, in denen Sie ein vorhandenes Feld synchronisieren möchten. Sie können die Feldsynchronisierung auf der Grundlage eines aktualisierten oder erstellten Datumsbereichs einschränken. Weitere Informationen finden [ unter ](#Advanced_Sync_Options) Synchronisierungsoptionen.
 
-Die Schnellsynchronisierung kann Nullwerte synchronisieren. Wenn Sie beispielsweise die Werte A und B verwenden und einen B-Wert in Dynamics auf null ändern, wird der Null-Wert mit Marketo synchronisiert.
+Die Schnellsynchronisierung kann Nullwerte synchronisieren. Wenn Sie beispielsweise die Werte A und B verwenden und einen B-Wert in [!DNL Dynamics] auf null ändern, wird der Null-Wert mit Marketo synchronisiert.
 
 ## Schnellsynchronisierung für alle Datensätze {#quick-sync-for-all-records}
 
 So synchronisieren Sie mit der Schnellsynchronisierung nach neuen Feldern neu.
 
-1. Klicken Sie in Marketo Engage auf **[!UICONTROL Admin]**.
+1. Klicken Sie in Marketo auf **[!UICONTROL Admin]**.
 
    ![](assets/image2016-8-19-11-3a14-3a5.png)
 
@@ -31,7 +31,7 @@ So synchronisieren Sie mit der Schnellsynchronisierung nach neuen Feldern neu.
 
    ![](assets/image2016-8-19-11-3a15-3a8.png)
 
-1. Klicken Sie unter „Details zur Feldsynchronisierung“ auf **[!UICONTROL Bearbeiten]**.
+1. Klicken Sie [!UICONTROL  „Details zur ]&quot; auf **[!UICONTROL Bearbeiten]**.
 
    ![](assets/image2016-8-19-11-3a16-3a22.png)
 
@@ -75,7 +75,7 @@ Was passiert, wenn Sie ein vorhandenes Feld synchronisieren möchten, dies aber 
 
 ## Beheben von nicht synchronisierten Feldern {#fixing-out-of-sync-fields}
 
-In dem seltenen Fall, dass ein Dynamics- und Marketo-Feld nicht synchron sind, gibt es eine schnelle und einfache Möglichkeit, sie erneut zu synchronisieren.
+In den seltenen Fällen, in denen ein [!DNL Dynamics]- und ein Marketo-Feld nicht synchron sind, gibt es eine schnelle und einfache Möglichkeit, sie erneut zu synchronisieren.
 
 1. Deaktivieren Sie das Feld und klicken Sie auf **[!UICONTROL Speichern]**.
 

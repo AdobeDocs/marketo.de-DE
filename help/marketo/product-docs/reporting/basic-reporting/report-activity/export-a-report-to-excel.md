@@ -1,33 +1,33 @@
 ---
 unique-page-id: 2360020
-description: Exportieren eines Berichts in Excel - Marketo-Dokumente - Produktdokumentation
-title: Exportieren eines Berichts nach Excel
+description: Exportieren eines Berichts in [!DNL Excel] - Marketo-Dokumente - Produktdokumentation
+title: Exportieren eines Berichts nach [!DNL Excel]
 exl-id: 249b5b57-6c62-46a6-bbe2-d8e0c647be29
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
 
-# Exportieren eines Berichts nach Excel {#export-a-report-to-excel}
+# Exportieren eines Berichts in [!DNL Excel] {#export-a-report-to-excel}
 
-Sie können jeden Bericht in eine Excel-Datei exportieren, um mit den Daten in anderer Software zu arbeiten.
+Sie können jeden Bericht in eine [!DNL Excel]-Datei exportieren, um mit den Daten in anderer Software zu arbeiten.
 
-1. Navigieren Sie zum Bereich **Marketing** Aktivitäten.
+1. Navigieren Sie zum Bereich **[!UICONTROL Marketing]** Aktivitäten.
 
    ![](assets/image2014-9-16-13-3a11-3a14.png)
 
-1. Wählen Sie Ihren Bericht im Navigationsbaum aus und klicken Sie auf die Registerkarte **Bericht**.
+1. Wählen Sie Ihren Bericht im Navigationsbaum aus und klicken Sie auf die Registerkarte **[!UICONTROL Bericht]**.
 
    ![](assets/image2014-9-16-13-3a11-3a18.png)
 
-1. Klicken Sie auf **Exportieren**.
+1. Klicken Sie auf **[!UICONTROL Exportieren]**.
 
    ![](assets/image2014-9-16-13-3a11-3a21.png)
 
-   Das ist alles! Ihr Browser fordert Sie auf, die Excel-Datei auf Ihrem System zu speichern.
+   Das ist alles! Ihr Browser fordert Sie auf, die [!DNL Excel]-Datei auf Ihrem System zu speichern.
 
    >[!MORELIKETHIS]
    >

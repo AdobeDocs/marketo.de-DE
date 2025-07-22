@@ -4,7 +4,7 @@ description: Planen des E-Mail-Programms - Marketo-Dokumente - Produktdokumentat
 title: E-Mail-Programm planen
 exl-id: c125166f-3e0d-49a5-ad83-7abac51da713
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Nachdem Sie Ihr E-Mail-Programm erstellt, eine Audience definiert und eine E-Mail ausgewählt haben, sollten Sie Ihrem Programm mitteilen *wann* E-Mail gesendet werden soll. So geht&#39;s.
 
-1. Navigieren Sie **Marketing-Aktivitäten**.
+1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -30,7 +30,7 @@ Nachdem Sie Ihr E-Mail-Programm erstellt, eine Audience definiert und eine E-Mai
 
    ![](assets/selectemailprogram-1.jpg)
 
-1. Legen Sie unter **Kachel** das Datum fest.
+1. Legen Sie unter **[!UICONTROL Kachel]** das Datum fest.
 
    ![](assets/image2017-12-5-14-3a4-3a28.png)
 
@@ -38,7 +38,7 @@ Nachdem Sie Ihr E-Mail-Programm erstellt, eine Audience definiert und eine E-Mai
 
    ![](assets/image2017-12-5-14-3a3-3a58.png)
 
-1. Sie können auch die Funktionen [Zeitzone des Empfängers](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) und/oder [Direktstart](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) verwenden.
+1. Sie können auch die Funktionen [[!UICONTROL Zeitzone des Empfängers]](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) und/oder [[!UICONTROL Direktstart]](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) verwenden.
 
    ![](assets/image2017-12-5-14-3a3-3a12.png)
 

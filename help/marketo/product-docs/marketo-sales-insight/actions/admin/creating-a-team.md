@@ -3,7 +3,7 @@ description: Erstellen eines Teams - Marketo-Dokumente - Produktdokumentation
 title: Erstellen eines Teams
 exl-id: 7cca53a8-67e7-467a-988a-bb99872a328e
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 0%
@@ -16,19 +16,19 @@ Durch die Erstellung eines Teams können Sie eine Benutzergruppe zusammenstellen
 
 ## Erstellen eines Teams {#create-a-team}
 
-1. Klicken Sie in [Web-Anwendung](https://toutapp.com/login) auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
+1. Klicken Sie in [Web-Anwendung](https://toutapp.com/login) auf das Zahnradsymbol und wählen Sie **[!UICONTROL Einstellungen]** aus.
 
    ![](assets/creating-a-team-1.png)
 
-1. Wählen Sie unter „Admin-Einstellungen **die Option „Team-Verwaltung** aus.
+1. Wählen [!UICONTROL  unter &quot;]&quot; die Option **[!UICONTROL Team-Verwaltung]** aus.
 
    ![](assets/creating-a-team-2.png)
 
-1. Klicken Sie neben Teams auf das Symbol **+** .
+1. Klicken Sie neben [!UICONTROL Teams] auf das Symbol **+** .
 
    ![](assets/creating-a-team-3.png)
 
-1. Geben Sie einen Team-Namen ein und klicken Sie auf **Erstellen**.
+1. Geben Sie einen Team-Namen ein und klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/creating-a-team-4.png)
 
@@ -38,7 +38,7 @@ Durch die Erstellung eines Teams können Sie eine Benutzergruppe zusammenstellen
 
 ## Personen zu einem Team hinzufügen {#add-people-to-a-team}
 
-1. Wählen Sie noch in Team Management **Alle Mitglieder** aus.
+1. Wählen Sie noch [!UICONTROL  &quot;]&quot; die Option **[!UICONTROL Alle Mitglieder]** aus.
 
    ![](assets/creating-a-team-5.png)
 
@@ -46,7 +46,7 @@ Durch die Erstellung eines Teams können Sie eine Benutzergruppe zusammenstellen
 
    ![](assets/creating-a-team-6.png)
 
-1. Klicken Sie **Zu Teams hinzufügen**.
+1. Klicken Sie **[!UICONTROL Zu Teams hinzufügen]**.
 
    ![](assets/creating-a-team-7.png)
 
@@ -54,6 +54,6 @@ Durch die Erstellung eines Teams können Sie eine Benutzergruppe zusammenstellen
 
    ![](assets/creating-a-team-8.png)
 
-1. Klicken Sie abschließend **Hinzufügen**.
+1. Klicken Sie abschließend **[!UICONTROL Hinzufügen]**.
 
    ![](assets/creating-a-team-9.png)

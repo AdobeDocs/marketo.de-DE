@@ -4,7 +4,7 @@ description: Erstellen eines Snippets - Marketo-Dokumente - Produktdokumentation
 title: Erstellen eines Snippets
 exl-id: 8483ed35-3763-42b6-bfd9-55e0a69a66cc
 feature: Snippets
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Snippets können als dynamische Inhaltsbausteine für (E **Mails** und **Landingpages)** werden.
 
-1. Navigieren Sie zum **Design Studio.**
+1. Gehen Sie zum **[!UICONTROL Design Studio]**.
 
    ![](assets/designstudio.png)
 
-1. Klicken Sie auf **Neu** und dann auf **Neues Snippet**.
+1. Klicken Sie auf **[!UICONTROL Neu]** und dann auf **[!UICONTROL Neues Snippet]**.
 
    ![](assets/image2014-9-16-8-50-4.png)
 
-1. Geben Sie die erforderlichen Details ein und klicken Sie auf **Erstellen**.
+1. Geben Sie die erforderlichen Details ein und klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/image2014-9-16-8-3a50-3a14.png)
 

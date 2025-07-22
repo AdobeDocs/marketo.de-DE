@@ -4,7 +4,7 @@ description: Löschen eines Formulars - Marketo-Dokumente - Produktdokumentation
 title: Löschen eines Formulars
 exl-id: 137e75b3-febd-44e8-b7f8-12221a1252fa
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Wenn Sie ein Formular haben, das Sie nicht benötigen und das nicht verwendet wird, können Sie es löschen. So geht&#39;s.
 
-1. Navigieren Sie **Marketing-Aktivitäten**.
+1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -23,7 +23,7 @@ Wenn Sie ein Formular haben, das Sie nicht benötigen und das nicht verwendet wi
 
    ![](assets/image2014-9-15-12-3a1-3a18.png)
 
-1. Klicken **unter &quot;**&quot; auf **Formular löschen**.
+1. Klicken **[!UICONTROL unter &quot;]**&quot; auf **[!UICONTROL Formular löschen]**.
 
    ![](assets/image2014-9-15-12-3a1-3a27.png)
 
@@ -31,7 +31,7 @@ Wenn Sie ein Formular haben, das Sie nicht benötigen und das nicht verwendet wi
    >
    >Denken Sie daran, das Formular aus allen/allen Landingpages zu entfernen, die es verwenden. Vergewissern Sie sich außerdem, dass das Formular nicht auf einer öffentlichen Website verwendet wird.
 
-1. Bestätigen Sie mit **Löschen**.
+1. Bestätigen Sie mit **[!UICONTROL Löschen]**.
 
    ![](assets/image2014-9-15-12-3a1-3a37.png)
 

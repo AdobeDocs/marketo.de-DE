@@ -4,16 +4,16 @@ description: Microsoft Dynamics-Synchronisierungsfilter - Qualifizieren - Market
 title: Microsoft Dynamics-Synchronisierungsfilter - Qualifizieren
 exl-id: 9b26795c-fc94-478e-a7f0-ac8e602792b1
 feature: Microsoft Dynamics
-source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 6%
+source-wordcount: '116'
+ht-degree: 0%
 
 ---
 
-# Microsoft Dynamics-Synchronisierungsfilter: Qualifizieren {#microsoft-dynamics-sync-filter-qualify}
+# [!DNL Microsoft Dynamics]-Synchronisierungsfilter: Qualifizieren {#microsoft-dynamics-sync-filter-qualify}
 
-Wenn Sie einen Lead in einen Kontakt in Microsoft Dynamics konvertieren möchten, verwenden Sie unbedingt diesen standardmäßigen Qualifizierungsprozess. Synchronisieren Sie sie dann mit Marketo Engage.
+Wenn Sie einen Lead in einen Kontakt in [!DNL Microsoft Dynamics] konvertieren möchten, verwenden Sie unbedingt diesen standardmäßigen Qualifizierungsprozess. Synchronisieren Sie sie dann mit Marketo.
 
 ## Der Konvertierungsprozess {#the-conversion-process}
 
@@ -21,10 +21,10 @@ So funktionieren die Filter während des Konvertierungsprozesses.
 
 | Wenn der Lead-Synchronisierungsfilter ist: | Der Filter für die Kontaktsynchronisierung lautet: | Dies ist das Ergebnis in Marketo |
 |---|---|---|
-| Falsch | Falsch | In Marketo wird nichts synchronisiert |
-| True | True | Der Kontakt wird in Marketo synchronisiert |
-| Falsch | True | Neuer Kontakteintrag wird in Marketo erstellt |
-| True | Falsch | MS Dynamics aktualisiert die Lead-Informationen in Marketo, der Kontaktdatensatz wird jedoch nicht synchronisiert |
+| [!UICONTROL false] | [!UICONTROL false] | In Marketo wird nichts synchronisiert |
+| [!UICONTROL true] | [!UICONTROL true] | Der Kontakt wird in Marketo synchronisiert |
+| [!UICONTROL false] | [!UICONTROL true] | Neuer Kontakteintrag wird in Marketo erstellt |
+| [!UICONTROL true] | [!UICONTROL false] | [!DNL MS Dynamics] aktualisiert Lead-Informationen in Marketo, der Kontaktdatensatz wird jedoch nicht synchronisiert |
 
 >[!CAUTION]
 >

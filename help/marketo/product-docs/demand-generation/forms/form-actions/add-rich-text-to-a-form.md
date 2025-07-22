@@ -4,7 +4,7 @@ description: Hinzufügen von Rich-Text zu einem Formular - Marketo-Dokumente - P
 title: Hinzufügen von Rich-Text zu einem Formular
 exl-id: 6363c03d-c1f2-4464-9483-2d9aa8dafcc5
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 3%
@@ -15,11 +15,11 @@ ht-degree: 3%
 
 Verwenden Sie Rich Text in einem Formular, um Anweisungen oder andere Informationen zwischen Feldern hinzuzufügen. Schau es dir an.
 
-1. Navigieren Sie **Marketing-Aktivitäten**.
+1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Wählen Sie Ihr Formular aus und klicken Sie auf **Formular bearbeiten**.
+1. Wählen Sie Ihr Formular aus und klicken Sie auf **[!UICONTROL Formular bearbeiten]**.
 
    ![](assets/image2014-9-15-16-3a46-3a7.png)
 
@@ -27,7 +27,7 @@ Verwenden Sie Rich Text in einem Formular, um Anweisungen oder andere Informatio
 
    ![](assets/image2014-9-15-16-3a46-3a43.png)
 
-1. Wählen Sie **Rich-Text** aus.
+1. Wählen Sie **[!UICONTROL Rich-Text]** aus.
 
    ![](assets/image2014-9-15-16-3a47-3a9.png)
 
@@ -39,15 +39,15 @@ Verwenden Sie Rich Text in einem Formular, um Anweisungen oder andere Informatio
    >
    >Wenn Sie in Ihrem Formular eine Trennlinie benötigen, verwenden Sie die Schaltfläche Horizontale Linie .
 
-1. Klicken Sie auf **Speichern**.
+1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/image2014-9-15-16-3a48-3a18.png)
 
-1. Klicken Sie auf **Fertigstellen**.
+1. Klicken Sie auf **[!UICONTROL Fertigstellen]**.
 
    ![](assets/image2014-9-15-16-3a48-3a36.png)
 
-1. Klicken Sie **Genehmigen und schließen**.
+1. Klicken Sie **[!UICONTROL Genehmigen und schließen]**.
 
    ![](assets/image2014-9-15-16-3a48-3a51.png)
 

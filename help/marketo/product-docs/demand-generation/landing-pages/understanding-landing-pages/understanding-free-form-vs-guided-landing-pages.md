@@ -4,9 +4,9 @@ description: Grundlegendes zu Freiform und geführten Landingpages - Marketo-Dok
 title: Grundlegendes zu Freiform und geführten Landingpages
 exl-id: 1a71133a-1cd2-4d6c-94ad-df1f6f44e6d3
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Die ausgewählte Vorlage bestimmt, in welchem Landingpage-Bearbeitungsmodus Sie 
 ## Freiformseiten {#free-form-pages}
 
 * Ziehen Sie beliebige Inhalte per Drag-and-Drop dorthin, wo Sie sie platzieren möchten.
-* Die Vorlage ist wie ein SlideMaster in PowerPoint, nur ein Hintergrund.
+* Die Vorlage ist wie ein [!DNL SlideMaster] in [!DNL PowerPoint], nur ein Hintergrund.
 * Erstellen Sie mit einem Klick eine einfache mobile Version Ihrer Seite.
 * Am besten geeignet, wenn Sie nicht viel Zeit oder technische Ressourcen zur Verfügung haben.
 

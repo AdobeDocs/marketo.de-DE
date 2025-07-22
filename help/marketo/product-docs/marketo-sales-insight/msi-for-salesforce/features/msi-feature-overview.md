@@ -4,16 +4,16 @@ description: MSI-Funktionsübersicht - Marketo-Dokumente - Produktdokumentation
 title: MSI-Funktionsübersicht
 exl-id: e6cd988c-afba-44e3-b240-68258236f344
 feature: Marketo Sales Insights
-source-git-commit: bda95da160c5a27a0a460d26c102e6166c1ddea0
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '965'
-ht-degree: 11%
+source-wordcount: '931'
+ht-degree: 12%
 
 ---
 
 # MSI-Funktionsübersicht {#msi-feature-overview}
 
-MSI verfügt in Salesforce Lightning und Classic über folgende Funktionen.
+MSI verfügt in [!DNL Salesforce] Lightning und Classic über folgende Funktionen.
 
 >[!NOTE]
 >
@@ -87,7 +87,7 @@ Felder:
 * Wert für Wichtigkeit
 * In Marketo anzeigen : Klicken Sie auf dieses Feld, um eine nicht bearbeitbare Ansicht des Leads in Marketo zu öffnen. Umfasst: Lead-Informationen, Unternehmensinformationen, SFDC-Lead-Informationen, benutzerdefinierte SFDC-Felder, Aktivitätsprotokoll
 * MKTO-Lead-Bewertung
-* Sales Insight - Öffnet die Seite mit der vollständigen Kontaktliste
+* [!DNL Sales Insight] - Öffnet die Seite mit der vollständigen Kontaktliste
 
 ## Konto-Layout {#account-layout}
 
@@ -99,7 +99,7 @@ VisualForce-Seiten:
 
 Felder:
 
-* Sales Insight - Öffnet die Seite mit der vollständigen Kontaktliste
+* [!DNL Sales Insight] - Öffnet die Seite mit der vollständigen Kontaktliste
 
 Aktionen:
 
@@ -121,7 +121,7 @@ VisualForce-Seiten:
 
 Felder:
 
-* Sales Insight - Öffnet die Seite mit der vollständigen Kontaktliste
+* [!DNL Sales Insight] - Öffnet die Seite mit der vollständigen Kontaktliste
 * Marketo-Opportunity-Analyse - Öffnet Opportunity Influence Analyzer in Marketo
 
 Aktionen:
@@ -136,13 +136,13 @@ Die folgenden Funktionen sind **nicht verfügbar** auf der Seite „Opportunity-
 
 ## Lead- und Kontaktlistenansicht (Massenaktionen) {#lead-and-contact-list-view-bulk-actions}
 
-Salesforce Lightning: Hinzufügen zur Watchlist, Hinzufügen zur Marketo-Kampagne und Senden von Marketo-E-Mail-Massenaktionsschaltflächen in der Lead- und Kontaktlistenansicht.
+[!DNL Salesforce Lightning]: Hinzufügen zur Watchlist, Hinzufügen zur Marketo-Kampagne und Senden von Marketo-E-Mail-Massenaktionen in der Ansicht der Lead- und Kontaktliste.
 
-Salesforce Classic: Hinzufügen zur Watchlist, Hinzufügen zur Marketo-Kampagne und Senden von Marketo-E-Mail-Massenaktionsschaltflächen in der Ansicht Lead- und Kontaktliste.
+[!DNL Salesforce Classic]: Hinzufügen von Schaltflächen zur Watchlist, Hinzufügen zur Marketo-Kampagne und Massenaktion &quot;Marketo-E-Mail senden“ in der Ansicht Lead- und Kontaktliste.
 
 ## Registerkarte Marketo {#marketo-tab}
 
-* Vielversprechende Kontakte
+* [!DNL Best Bets]
 
    * Umfasst die Möglichkeit, Ansichten zu erstellen und zu bearbeiten. Möglichkeit, Best Bets je nach Konfiguration der Option „Standard ausblenden“ auf der Seite &quot;Marketo-Konfiguration“ auszublenden
    * Spalten - Name, Konto, letzter interessanter Moment, Status-Header, Interaktion (Sterne und Flammen), Ausblenden
@@ -176,30 +176,30 @@ Salesforce Classic: Hinzufügen zur Watchlist, Hinzufügen zur Marketo-Kampagne 
    * Abonnementoption zum Empfang einer E-Mail-Benachrichtigung für diesen Ereignistyp
    * Symbol mit hoher Priorität, das anzeigt, dass diese Person eine Beste Wahl ist
 
-## Registerkarte „Konfiguration von Marketo Sales Insight“ {#marketo-sales-insight-configuration-tab}
+## Registerkarte &quot;[!DNL Marketo Sales Insight]&quot; {#marketo-sales-insight-configuration-tab}
 
 * Betriebseinstellungen: Enthält die SOAP- und REST-API-Anmeldeinformationen, die zum Einrichten von MSI in SFDC erforderlich sind
 * MSI-Konfiguration: Umfasst die Konfiguration der Registerkarte &quot;Marketo&quot; und des Bedienfelds „MSI VisualForce“
-* Marketo Sales Insight zurücksetzen : Umfasst die Möglichkeit, alle Konfigurationen zu löschen
+* [!DNL Marketo Sales Insight] zurücksetzen: Umfasst die Möglichkeit, alle Konfigurationen zu löschen
 
 >[!MORELIKETHIS]
 >
->[Registerkarte &quot;Marketo Sales Insight Configuration“ in Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
+>[[!DNL Marketo Sales Insight] Registerkarte Konfiguration in [!DNL Salesforce]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
 
-## Sales Insights-Leistungsberichte {#sales-insight-performance-reports}
+## [!DNL Sales Insight] Leistungsberichte {#sales-insight-performance-reports}
 
-Anzeigen der Leistung von E-Mails, die über Salesforce, Microsoft Dynamics oder ein Gmail- oder Outlook-Plug-in gesendet werden
+Anzeigen der Leistung von E-Mails, die über [!DNL Salesforce], [!DNL Microsoft Dynamics] oder ein Gmail- oder [!DNL Outlook]-Plug-in gesendet werden
 
 ## MSI für Mobilgeräte {#msi-for-mobile}
 
-MSI-Funktionen werden in Salesforce Mobile Apps unterstützt
+MSI-Funktionen werden in [!DNL Salesforce] Mobile App unterstützt
 
 ## Sprachunterstützung {#language-support}
 
-Marketo Sales Insight wird in verschiedenen Sprachen gespeichert. Wenn Sie also möchten, dass dies für mehr als eine Sprache funktioniert, müssen Sie die Anmeldeinformationen für jede Sprache separat eingeben.
+[!DNL Marketo Sales Insight] wird nach Sprache gespeichert. Wenn Sie also möchten, dass dies für mehr als eine Sprache funktioniert, müssen Sie die Anmeldeinformationen für jede Sprache separat eingeben.
 
 >[!NOTE]
 >
 >* Ein Kontakt/Lead muss sich in der Standardpartition befinden, damit er zur Watchlist hinzugefügt werden kann.
 >
->* Das MSI Salesforce-Paket unterstützt keine benutzerdefinierte Ansicht mit abhängigen Feldern.
+>* Das MSI [!DNL Salesforce]-Paket unterstützt keine benutzerdefinierte Ansicht mit abhängigen Feldern.

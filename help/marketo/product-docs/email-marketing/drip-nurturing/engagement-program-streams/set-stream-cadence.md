@@ -4,7 +4,7 @@ description: Festlegen der Stream-Kadenz - Marketo-Dokumente - Produktdokumentat
 title: Stream-Kadenz festlegen
 exl-id: 589eeefa-b2f6-4131-a72b-359c97ab98c0
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '380'
 ht-degree: 3%
@@ -17,25 +17,25 @@ Sie können Interaktionsinhalte in jedem gewünschten Intervall senden. Zum Beis
 
 ## Frequenz einstellen {#set-cadence}
 
-1. Navigieren Sie **Marketing-Aktivitäten**.
+1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Suchen Sie Ihr Interaktionsprogramm, wählen Sie es aus, klicken Sie auf **Streams** und dann auf **Stream-Kadenz festlegen**.
+1. Suchen Sie Ihr Interaktionsprogramm, wählen Sie es aus, klicken Sie auf **[!UICONTROL Streams]** und dann auf **[!UICONTROL Stream-Kadenz festlegen]**.
 
    ![](assets/selectstreamcadence.jpg)
 
-1. Wählen Sie aus, wie oft die Kadenz wiederholt werden soll. Sie können zwischen **Wöchentlich** oder **Monatlich** wählen.
+1. Wählen Sie aus, wie oft die Kadenz wiederholt werden soll. Sie können zwischen **[!UICONTROL Wöchentlich]** oder **[!UICONTROL Monatlich]** wählen.
 
 ## Wöchentlich {#weekly}
 
-1. Wählen Sie **Wöchentlich** aus.
+1. Wählen Sie **[!UICONTROL Wöchentlich]** aus.
 
    ![](assets/image2017-12-5-14-3a9-3a43.png)
 
    >[!NOTE]
    >
-   >Wenn Sie **Keine** auswählen, wird der Stream abgeschaltet.
+   >Wenn Sie **[!UICONTROL Keine]** auswählen, wird der Stream abgeschaltet.
 
 1. Wählen Sie das Datum der ersten Besetzung.
 
@@ -51,9 +51,9 @@ Sie können Interaktionsinhalte in jedem gewünschten Intervall senden. Zum Beis
 
    >[!TIP]
    >
-   >Sie können die Kadenz so einstellen, dass sie jeden Tag ausgeführt wird, indem Sie **Wiederholungen: Wöchentlich** / **Alle: 1 Woche** / **Ein** auswählen.
+   >Sie können die Kadenz so einstellen, dass sie jeden Tag ausgeführt wird, indem Sie **[!UICONTROL Wiederholungen]: [!UICONTROL Wöchentlich]** / **[!UICONTROL Alle]: 1 [!UICONTROL Woche]** / **[!UICONTROL Ein]**: alle Tage auswählen.
 
-   Jetzt wähle die Zeit. Aktivieren Sie das Kontrollkästchen, wenn Sie [Zeitzone des Empfängers](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md) verwenden möchten (d. h. Versand entsprechend den lokalen Zeitzonen), und klicken Sie dann auf **Speichern**.
+   Jetzt wähle die Zeit. Aktivieren Sie das Kontrollkästchen, wenn Sie [Zeitzone des Empfängers](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md) verwenden möchten (d. h. Versand entsprechend den lokalen Zeitzonen), und klicken Sie dann auf **[!UICONTROL Speichern]**.
 
    ![](assets/image2017-12-5-14-3a20-3a11.png)
 
@@ -73,7 +73,7 @@ Das ist alles! Lesen Sie weiter, wenn Sie eine monatliche Kadenz einrichten möc
 
 ## Monatlich {#monthly}
 
-1. Wählen Sie **Monatlich** aus, wie oft sie sich wiederholt.
+1. Wählen Sie **[!UICONTROL Monatlich]** aus, wie oft sie sich wiederholt.
 
    ![](assets/image2014-9-15-16-3a30-3a15.png)
 
@@ -93,7 +93,7 @@ Das ist alles! Lesen Sie weiter, wenn Sie eine monatliche Kadenz einrichten möc
    >
    >Alternativ können Sie den Wochentag auswählen.
 
-1. Wählen Sie eine **Zeit** und klicken Sie auf **Speichern**.
+1. Wählen Sie eine **[!UICONTROL Zeit]** und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/image2014-9-15-16-3a29-3a42.png)
 

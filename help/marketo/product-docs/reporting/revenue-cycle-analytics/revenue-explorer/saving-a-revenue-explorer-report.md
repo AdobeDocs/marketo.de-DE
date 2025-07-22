@@ -4,16 +4,16 @@ description: Speichern eines Umsatz-Explorer-Berichts - Marketo-Dokumente - Prod
 title: Speichern eines Revenue Explorer-Berichts
 exl-id: 9c63d714-0bd3-42d7-844a-921201bf53bc
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
 
 ---
 
-# Speichern eines Revenue Explorer-Berichts {#saving-a-revenue-explorer-report}
+# Speichern eines [!UICONTROL Umsatz-Explorer]Berichts {#saving-a-revenue-explorer-report}
 
-Revenue Explorer-Berichte können in der Datei Ihrer Wahl gespeichert werden.
+[!UICONTROL Revenue Explorer]-Berichte können in der Datei Ihrer Wahl gespeichert werden.
 
 1. Klicken Sie auf das Symbol Speichern .
 
@@ -23,14 +23,14 @@ Revenue Explorer-Berichte können in der Datei Ihrer Wahl gespeichert werden.
    >
    >Änderungen an Ihrem Bericht werden nicht automatisch gespeichert. Achten Sie also darauf, oft zu sparen!
 
-1. Geben Sie Ihrem Bericht einen beschreibenden Namen, wählen Sie einen Speicherort aus und klicken Sie auf **Speichern**!
+1. Geben Sie Ihrem Bericht einen beschreibenden Namen, wählen Sie einen Speicherort aus und klicken Sie auf **[!UICONTROL Speichern]**!
 
    ![](assets/image2015-3-26-13-3a30-3a33.png)
 
-   Das ist alles! Sie können jetzt in auf Ihre Datei in **Dateien durchsuchen** zugreifen.
+   Das ist alles! Sie können jetzt in auf Ihre Datei in **[!UICONTROL Dateien durchsuchen]** zugreifen.
 
    ![](assets/image2015-3-27-11-3a32-3a51.png)
 
 >[!MORELIKETHIS]
 >
->[Abonnieren eines Revenue Explorer-Berichts](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
+>[Abonnieren eines Berichts [!UICONTROL Revenue Explorer]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)

@@ -4,9 +4,9 @@ description: Benutzeranmeldung auf SSO beschränken - Marketo-Dokumente - Produk
 title: Benutzeranmeldung auf SSO beschränken
 exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
 feature: Administration
-source-git-commit: a12e4e420c01623305a0fa34b1e3973162e24d68
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '250'
 ht-degree: 5%
 
 ---
@@ -27,7 +27,7 @@ Wenn Sie [SSO verwenden](/help/marketo/product-docs/administration/additional-in
 
    ![](assets/restrict-user-login-to-sso-only-1.png)
 
-1. Klicken Sie **[!UICONTROL Anmeldeeinstellungen]en**.
+1. Klicken Sie **[!UICONTROL Anmeldeeinstellungen]**.
 
    ![](assets/restrict-user-login-to-sso-only-2.png)
 
@@ -41,7 +41,7 @@ Wenn Sie [SSO verwenden](/help/marketo/product-docs/administration/additional-in
 
 >[!NOTE]
 >
->Es empfiehlt sich, die Benutzer einzuladen und die Einladung anzunehmen. _Nachdem_ Einladung angenommen wurde, sollten Administratoren sie auf &quot;[!UICONTROL SSO erforderlich“ &#x200B;].
+>Es empfiehlt sich, die Benutzer einzuladen und die Einladung anzunehmen. _Nachdem_ Einladung angenommen wurde, sollten Administratoren sie auf &quot;[!UICONTROL SSO erforderlich“ ].
 
 >[!TIP]
 >

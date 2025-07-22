@@ -3,9 +3,9 @@ description: Einverständnis für Client-ID und App-Registrierung erteilen - Mar
 title: Einverständnis für Client-ID und App-Registrierung erteilen
 exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
 feature: Microsoft Dynamics
-source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Gehen Sie wie folgt vor, um zu erfahren, wie Sie die erforderlichen Einverständ
 
 ## Gewähren von delegierten Benutzerberechtigungen für den Synchronisierungsbenutzer {#grant-delegated-user-permissions-for-the-sync-user}
 
-1. Verwenden Sie ein Textverarbeitungsprogramm (Editor für Windows, Textbearbeitung für Mac), um einen URI (Uniform Resource Identifier) für die Autorisierung zu erstellen, indem Sie den folgenden Text einfügen und die Werte „client_id“, „redirect_uri“ und „state“ ersetzen.
+1. Verwenden Sie ein Textverarbeitungsprogramm (Editor für Windows, Textbearbeitung für Mac), um einen URI (Uniform Resource Identifier) für die Autorisierung zu erstellen, indem Sie den folgenden Text einfügen und die Werte `client_id`, `redirect_uri` und `state` ersetzen.
 
    ```
    https://login.microsoftonline.com/common/oauth2/authorize?
@@ -75,7 +75,7 @@ Als Admin können Sie auch den delegierten Berechtigungen einer Anwendung im Nam
 
 1. Navigieren Sie in Ihrem Azure-Portal zur Startseite der Anwendung.
 
-1. Klicken Sie unter Verwalten auf **[!UICONTROL API-Berechtigungen]**.
+1. Klicken [!UICONTROL  unter &quot;]&quot; auf **[!UICONTROL API-]**.
 
    ![](assets/grant-consent-for-client-id-app-registration-4.png)
 

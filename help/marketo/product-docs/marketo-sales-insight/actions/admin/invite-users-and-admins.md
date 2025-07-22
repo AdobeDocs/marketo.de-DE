@@ -3,7 +3,7 @@ description: Benutzer und Administratoren einladen - Marketo-Dokumente - Produkt
 title: Benutzer und Administratoren einladen
 exl-id: 00a6ea00-f8ba-4079-86dc-def44599b3ea
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 3%
@@ -16,21 +16,21 @@ Das Hinzufügen von Benutzern oder Administratoren ist schnell und einfach!
 
 ## Benutzer einladen {#invite-users}
 
-1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
+1. Klicken Sie auf das Zahnradsymbol und wählen Sie **[!UICONTROL Einstellungen]** aus.
 
    ![](assets/invite-users-and-admins-1.png)
 
-1. Wählen Sie unter „Admin-Einstellungen **die Option „Benutzerverwaltung** aus.
+1. Wählen [!UICONTROL  unter &quot;]&quot; die Option **[!UICONTROL Benutzerverwaltung]** aus.
 
    ![](assets/invite-users-and-admins-2.png)
 
-1. Klicken Sie auf **Aktionen** und wählen Sie **Benutzer einladen**.
+1. Klicken Sie auf **[!UICONTROL Aktionen]** und wählen Sie **[!UICONTROL Benutzer einladen]**.
 
    ![](assets/invite-users-and-admins-3.png)
 
    >[!NOTE]
    >
-   >Sie können auch **Benutzer per CSV einladen** auswählen, wenn Sie alle in einer Tabelle aufgeführt haben.
+   >Sie können auch **[!UICONTROL Benutzer per CSV einladen]** auswählen, wenn Sie alle in einer Tabelle aufgeführt haben.
 
 1. Geben Sie die E-Mail-Adressen der Kontakte ein, die Sie hinzufügen möchten.
 
@@ -48,7 +48,7 @@ Das Hinzufügen von Benutzern oder Administratoren ist schnell und einfach!
 
    ![](assets/invite-users-and-admins-6.png)
 
-1. Klicken Sie auf **OK**.
+1. Klicken Sie auf **[!UICONTROL OK]**.
 
    ![](assets/invite-users-and-admins-7.png)
 
@@ -60,15 +60,15 @@ Das Hinzufügen von Benutzern oder Administratoren ist schnell und einfach!
 
 Führen Sie diese Schritte aus, um einen vorhandenen Benutzer zum Administrator zu machen.
 
-1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
+1. Klicken Sie auf das Zahnradsymbol und wählen Sie **[!UICONTROL Einstellungen]** aus.
 
    ![](assets/invite-users-and-admins-8.png)
 
-1. Wählen Sie unter „Admin-Einstellungen **die Option „Benutzerverwaltung** aus.
+1. Wählen [!UICONTROL  unter &quot;]&quot; die Option **[!UICONTROL Benutzerverwaltung]** aus.
 
    ![](assets/invite-users-and-admins-9.png)
 
-1. Suchen Sie den Benutzer, den Sie als Administrator festlegen möchten, klicken Sie auf die Dropdown-Liste „Rolle“ und wählen Sie &quot;**&quot;**.
+1. Suchen Sie den Benutzer, den Sie als Administrator festlegen möchten, klicken Sie auf die Dropdown-Liste „Rolle“ und wählen Sie &quot;**[!UICONTROL &quot;]**.
 
    ![](assets/invite-users-and-admins-10.png)
 

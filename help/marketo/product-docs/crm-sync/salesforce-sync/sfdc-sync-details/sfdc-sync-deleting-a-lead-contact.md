@@ -4,9 +4,9 @@ description: SFDC-Synchronisierung - Löschen eines Leads/Kontakts - Marketo-Dok
 title: SFDC-Synchronisierung - Löschen eines Leads/Kontakts
 exl-id: b859357e-09c5-48e5-940e-f5b4e955e374
 feature: Salesforce Integration
-source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 Im Folgenden finden Sie einige Details:
 
-* Marketo Engage löscht Personen nicht automatisch, nur weil Leads in Salesforce gelöscht wurden. Stattdessen wird das Feld-Flag &quot;SFDC wird gelöscht“ auf „true“ gesetzt. Sie können bei Bedarf Trigger aus diesem Feld in Marketo löschen.
-* [Person löschen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/delete-person.md){target="_blank"} Flussaktion. Dadurch wird eine Person in MKTO gelöscht, aber Sie haben auch in `Salesforce` die Möglichkeit, sie zu löschen.
+* Marketo löscht Personen nicht automatisch, nur weil Leads in [!DNL Salesforce] gelöscht wurden. Stattdessen wird das Feld-Flag &quot;SFDC wird gelöscht“ auf „true“ gesetzt. Sie können bei Bedarf Trigger aus diesem Feld in Marketo löschen.
+* [Person löschen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/delete-person.md) Flussaktion. Dadurch wird eine Person in MKTO gelöscht, aber Sie haben auch in `Salesforce` die Möglichkeit, sie zu löschen.
 
-* [Aus SFDC löschen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/delete-person-from-sfdc.md){target="_blank"} Flussaktion: Hiermit wird ein Lead in SFDC gelöscht, Sie können jedoch auch eine Person in Marketo löschen.
-* Wenn ein Lead in Salesforce gelöscht wird (eine Person jedoch nicht in Marketo gelöscht wird) und anschließend die Flussaktion [Mit Salesforce synchronisieren](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"} durchläuft, wird in Salesforce ein neuer Lead erstellt.
+* [Aus SFDC löschen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/delete-person-from-sfdc.md) Flussaktion: Hiermit wird ein Lead in SFDC gelöscht, Sie können jedoch auch eine Person in Marketo löschen.
+* Wenn ein Lead in [!DNL Salesforce] gelöscht wird (eine Person jedoch nicht in Marketo gelöscht wird) und anschließend die Flussaktion [Mit synchronisieren [!DNL Salesforce]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md) durchläuft, wird in [!DNL Salesforce] ein neuer Lead erstellt.

@@ -4,7 +4,7 @@ description: E-Mail-Champion/Challenger hinzufügen - Marketo-Dokumente - Produk
 title: E-Mail-Champion/Challenger hinzufügen
 exl-id: 69c4a146-5d76-44c3-a63c-4e15f8b9aeb1
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
@@ -28,7 +28,7 @@ So fängt man an.
 >
 >Champion-/Challenger-E-Mails funktionieren nur mit Trigger-Kampagnen und Interaktionsprogrammströmen. Verwenden Sie für Batch-Mailings die A/B[Testfunktion ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) E-Mail-Programms.
 
-1. Navigieren Sie **Marketing-Aktivitäten**.
+1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -40,7 +40,7 @@ So fängt man an.
    >
    >Erfahren Sie bei einmaligen E-Mail-Sendungen mehr über [E-Mail-Programme](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md).
 
-1. Klicken **unter „E** Mail-Aktionen“ auf **Neuer Test**.
+1. Klicken **[!UICONTROL unter „E]** Mail-Aktionen“ auf **[!UICONTROL Neuer Test]**.
 
    ![](assets/chmapion2.jpg)
 

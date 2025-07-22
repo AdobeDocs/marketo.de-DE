@@ -4,7 +4,7 @@ description: TAM-Haupt-Dashboard - Marketo-Dokumente - Produktdokumentation
 title: TAM-Haupt-Dashboard
 exl-id: f550dd99-f5b1-4d75-9e11-d9791043baea
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%
@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # TAM-Haupt-Dashboard {#tam-main-dashboard}
 
-Das Haupt-Dashboard bietet eine Zusammenfassung Ihrer Target-Kontoverwaltungsmaßnahmen. Sie können die Zielkonten oder Account-Listen sehen, die Erfolg zeigen, sowie die Konten, die mehr Aufmerksamkeit benötigen.
+Das Haupt-Dashboard bietet eine Zusammenfassung Ihrer [!UICONTROL Target-Kontoverwaltung]-Maßnahmen. Sie können die Zielkonten oder Account-Listen sehen, die Erfolg zeigen, sowie die Konten, die mehr Aufmerksamkeit benötigen.
 
 ![](assets/one.png)
 
-Um nach Kontoliste zu filtern, klicken Sie auf die Dropdown-Liste Ansicht…
+Um nach Kontoliste zu filtern, klicken Sie auf **[!UICONTROL Dropdown-]** Ansicht…“
 
 ![](assets/two.png)
 
-…und eine Auswahl treffen. In diesem Beispiel wählen wir unsere „High Tech“-Kontoliste aus.
+…und eine Auswahl treffen. In diesem Beispiel wählen wir unsere &quot;**[!UICONTROL High Tech]**-Kontoliste aus.
 
 ![](assets/three.png)
 
@@ -33,7 +33,7 @@ Um das Dashboard [Kontenliste](/help/marketo/product-docs/target-account-managem
 
 ![](assets/five.png)
 
-Wenn Sie nicht das Dashboard der Kontenliste anzeigen möchten, sondern ein benanntes Konto aufschlüsseln möchten, klicken Sie auf **Weitere Details** unter seinem Namen…
+Wenn Sie nicht das Dashboard der Kontenliste anzeigen möchten, sondern ein benanntes Konto aufschlüsseln möchten, klicken Sie auf **[!UICONTROL Weitere Details]** unter seinem Namen…
 
 ![](assets/six.png)
 

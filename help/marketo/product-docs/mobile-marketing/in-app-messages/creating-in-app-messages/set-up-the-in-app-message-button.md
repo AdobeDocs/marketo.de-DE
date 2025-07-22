@@ -4,7 +4,7 @@ description: Einrichten der In-App-Nachrichten-Schaltfläche - Marketo-Dokumente
 title: Einrichten der In-App-Nachrichtenschaltfläche
 exl-id: de03da9d-241e-4d6e-8eb5-3096ddf294ce
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '263'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Sie können das standardmäßige Schaltflächendesign verwenden, es ändern oder Ihr eigenes benutzerdefiniertes Schaltflächenbild hochladen.
 
-1. Klicken Sie auf die Schaltfläche, um die Registerkarte „Stil“ zur Bearbeitung zu öffnen.
+1. Klicken Sie auf die Schaltfläche, um die Registerkarte [!UICONTROL Stil] zur Bearbeitung zu öffnen.
 
    ![](assets/image2016-5-6-15-3a6-3a55.png)
 
-1. Um die Farbe für die Standardschaltfläche zu ändern, klicken Sie auf die Schaltfläche **Farbe**.
+1. Um die Farbe für die Standardschaltfläche zu ändern, klicken Sie auf die Schaltfläche **[!UICONTROL Farbe]**.
 
    ![](assets/image2016-5-6-15-3a10-3a38.png)
 
@@ -31,11 +31,11 @@ Sie können das standardmäßige Schaltflächendesign verwenden, es ändern oder
 
    ![](assets/image2016-5-6-15-3a16-3a26.png)
 
-1. Wenn Sie Ihr eigenes Bild für eine Schaltfläche verwenden möchten, klicken Sie auf die Schaltfläche Bild und anschließend auf **Bild auswählen**.
+1. Wenn Sie Ihr eigenes Bild für eine Schaltfläche verwenden möchten, klicken Sie auf die Schaltfläche **[!UICONTROL Bild]** und klicken Sie auf **[!UICONTROL Bild auswählen]**.
 
    ![](assets/image2016-5-6-15-3a18-3a18.png)
 
-1. Wählen Sie das Bild aus und klicken Sie auf **Auswählen**.
+1. Wählen Sie das Bild aus und klicken Sie auf **[!UICONTROL Auswählen]**.
 
    ![](assets/image2016-5-6-16-3a36-3a0.png)
 
@@ -69,11 +69,11 @@ Sie können das standardmäßige Schaltflächendesign verwenden, es ändern oder
 
    >[!NOTE]
    >
-   >Die Schaltfläche verfügt immer über eine Tipp-Aktion, sodass das Kontrollkästchen Tipp-Aktion automatisch mit der Standardmeldung „Nachricht verwerfen“ ausgewählt wird.
+   >Die Schaltfläche verfügt immer über eine Tipp-Aktion, sodass das Kontrollkästchen Tipp-Aktion automatisch mit der Standardmeldung „Nachricht [!UICONTROL &quot; ] ist.
 
 Fast da. Der letzte Schritt besteht darin[ „In-App-Nachrichtenhintergrund konfigurieren und Schaltfläche schließen](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md).
 
 >[!MORELIKETHIS]
 >
 >* [Verstehen von In-App-Nachrichten](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->* [Wählen Sie ein Layout für Ihre In-App-Nachricht aus](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
+>* [Wählen Sie ein Layout für Ihre [!UICONTROL In-App-Nachricht]](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)

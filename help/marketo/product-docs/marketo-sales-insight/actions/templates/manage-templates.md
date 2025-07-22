@@ -3,7 +3,7 @@ description: Vorlagen verwalten - Marketo-Dokumente - Produktdokumentation
 title: Vorlagen verwalten
 exl-id: a18e7112-91e8-462c-9d1a-3a0f43c1b1cf
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '525'
 ht-degree: 1%
@@ -14,25 +14,25 @@ ht-degree: 1%
 
 ## Erstellen einer Vorlage {#create-a-new-template}
 
-1. Navigieren Sie zur Registerkarte **Vorlagen**.
+1. Navigieren Sie zur Registerkarte **[!UICONTROL Vorlagen]**.
 
    ![](assets/manage-templates-1.png)
 
-1. Klicken Sie **Vorlage erstellen**.
+1. Klicken Sie **[!UICONTROL Vorlage erstellen]**.
 
    ![](assets/manage-templates-2.png)
 
-1. Wählen Sie **E** Mail-Vorlage „Name“ und **Kategorie** aus und klicken Sie dann auf **Erstellen**.
+1. Wählen Sie **[!UICONTROL E]** Mail-Vorlage „Name“ und **[!UICONTROL Kategorie]** aus und klicken Sie dann auf **[!UICONTROL Erstellen]**.
 
    ![](assets/manage-templates-3.png)
 
-1. Erstellen Sie im Vorlageneditor eine Betreffzeile für Ihre E-Mail und geben Sie die gewünschte Nachricht ein. Verwenden Sie die Bearbeitungswerkzeuge (Schriftart, Textgröße usw.), um das Erscheinungsbild anzupassen. Klicken Sie **Speichern**, um Ihre Änderungen abzuschließen.
+1. Erstellen Sie im Vorlageneditor eine Betreffzeile für Ihre E-Mail und geben Sie die gewünschte Nachricht ein. Verwenden Sie die Bearbeitungswerkzeuge (Schriftart, Textgröße usw.), um das Erscheinungsbild anzupassen. Klicken Sie **[!UICONTROL Speichern]**, um Ihre Änderungen abzuschließen.
 
    ![](assets/manage-templates-4.png)
 
 >[!TIP]
 >
->Geben Sie Text immer direkt in die Vorlage ein oder kopieren Sie ihn aus einem Texteditor (z. B. Editor oder TextEdit). Das Kopieren und Einfügen aus einem Rich-Text-Editor (z. B. MS Word) kann zu Formatierungsunregelmäßigkeiten führen.
+>Geben Sie Text immer direkt in die Vorlage ein oder kopieren Sie ihn aus einem Texteditor (z. B. [!DNL Notepad] oder [!DNL TextEdit]). Das Kopieren und Einfügen aus einem Rich-Text-Editor (z. B. MS [!DNL Word]) kann zu Formatierungsunregelmäßigkeiten führen.
 
 ## Vorlagendetails anzeigen {#view-template-details}
 
@@ -42,7 +42,7 @@ Der Bereich Vorlagendetails enthält mehrere Registerkarten.
 
 <table>
  <tr>
-  <td><strong>Vorlage</strong></td>
+  <td><strong>[!UICONTROL-Vorlage]</strong></td>
   <td>Prüfen und bearbeiten, Kriterien einrichten, um die Vorlage zu einer empfohlenen Vorlage zu machen, Anmerkungen hinzufügen</td>
  </tr>
  <tr>
@@ -50,11 +50,11 @@ Der Bereich Vorlagendetails enthält mehrere Registerkarten.
   <td>Überprüfen Sie die Interaktionsanalyse für die Vorlage. Durchführen einer gefilterten Suche.</td>
  </tr>
  <tr>
-  <td><strong>E-Mails</strong></td>
+  <td><strong>[!UICONTROL E-Mails]</strong></td>
   <td>Alle mit dieser Vorlage gesendeten E-Mails anzeigen. Durchführen einer gefilterten Suche.</td>
  </tr>
  <tr>
-  <td><strong>Kampagnen</strong></td>
+  <td><strong>[!UICONTROL Kampagnen]</strong></td>
   <td>Ermitteln Sie, in welchen Kampagnen die Vorlage verwendet wird.</td>
  </tr>
 </table>
@@ -63,7 +63,7 @@ Der Bereich Vorlagendetails enthält mehrere Registerkarten.
 
 Wenn Sie eines unserer Team-Konten verwenden, sind alle Ihre Vorlagen standardmäßig weiterhin privat.
 
-1. Navigieren Sie zur Registerkarte **Vorlagen**.
+1. Navigieren Sie zur Registerkarte **[!UICONTROL Vorlagen]**.
 
    ![](assets/manage-templates-5.png)
 
@@ -71,19 +71,19 @@ Wenn Sie eines unserer Team-Konten verwenden, sind alle Ihre Vorlagen standardm�
 
    ![](assets/manage-templates-6.png)
 
-1. Klicken Sie auf die **Freigeben**.
+1. Klicken Sie auf die **[!UICONTROL Freigeben]**.
 
    ![](assets/manage-templates-7.png)
 
    >[!NOTE]
    >
-   >Vorlagen, die für Sie freigegeben wurden, werden unter der **Team-Vorlagen** auf der linken Seite der Seite Vorlagen angezeigt. Teams sind nur für Premium-Benutzer verfügbar.
+   >Vorlagen, die für Sie freigegeben wurden, werden unter der Kopfzeile **[!UICONTROL Team-Vorlagen]** auf der linken Seite der Seite [!UICONTROL Vorlagen] angezeigt. Teams sind nur für Premium-Benutzer verfügbar.
 
-1. Klicken Sie auf die Dropdown-Liste Freigeben für und wählen Sie die Teams aus, für die Sie Daten freigeben möchten.
+1. Klicken Sie auf [!UICONTROL Freigeben für] und wählen Sie die Teams aus, für die Sie freigeben möchten.
 
    ![](assets/manage-templates-8.png)
 
-1. Sie haben die Möglichkeit, die Vorlage in der aktuellen Kategorie zu belassen oder in eine andere zu verschieben. In diesem Beispiel behalten wir sie im aktuellen Modell. Klicken Sie abschließend **Freigeben**.
+1. Sie haben die Möglichkeit, die Vorlage in der aktuellen Kategorie zu belassen oder in eine andere zu verschieben. In diesem Beispiel behalten wir sie im aktuellen Modell. Klicken Sie abschließend **[!UICONTROL Freigeben]**.
 
    ![](assets/manage-templates-9.png)
 
@@ -91,7 +91,7 @@ Wenn Sie eines unserer Team-Konten verwenden, sind alle Ihre Vorlagen standardm�
 
 Sie können Vorlagen aus jeder Kategorie zu Ihrer Favoritenliste hinzufügen. Dadurch wird automatisch eine neue Kategorie oben in Ihrer Liste generiert, sodass Sie schnell auf die am häufigsten verwendeten Vorlagen zugreifen können.
 
-1. Navigieren Sie zur Registerkarte **Vorlagen**.
+1. Navigieren Sie zur Registerkarte **[!UICONTROL Vorlagen]**.
 
    ![](assets/manage-templates-10.png)
 
@@ -105,7 +105,7 @@ Sie können Vorlagen aus jeder Kategorie zu Ihrer Favoritenliste hinzufügen. Da
 
 ## Vorlagenansicht anpassen {#customize-template-view}
 
-Aus der **Ansicht** können Sie Folgendes auswählen: Alle Vorlagen, Ihre Vorlagen, Favoriten-Vorlagen, freigegebene Vorlagen, nicht freigegebene Vorlagen oder nicht verwendete Vorlagen (Vorlagen, die in den letzten 90 Tagen nicht verwendet wurden).
+Aus der **[!UICONTROL Ansicht]** können Sie Folgendes auswählen: Alle Vorlagen, Ihre Vorlagen, Favoriten-Vorlagen, freigegebene Vorlagen, nicht freigegebene Vorlagen oder nicht verwendete Vorlagen (Vorlagen, die in den letzten 90 Tagen nicht verwendet wurden).
 
 ![](assets/manage-templates-13.png)
 
@@ -121,11 +121,11 @@ Archivieren Sie Vorlagen, um Ihren Verkaufsinhalt zu organisieren und fokussiere
 
    ![](assets/manage-templates-14.png)
 
-1. Klicken Sie auf **Archivieren**.
+1. Klicken Sie auf **[!UICONTROL Archivieren]**.
 
    ![](assets/manage-templates-15.png)
 
-1. Klicken Sie **Archivieren** zur Bestätigung.
+1. Klicken Sie **[!UICONTROL Archivieren]** zur Bestätigung.
 
    ![](assets/manage-templates-16.png)
 
@@ -147,10 +147,10 @@ Gehen Sie wie folgt vor, um eine Vorlage zu löschen.
 
    ![](assets/manage-templates-17.png)
 
-1. Klicken Sie auf **Löschen**.
+1. Klicken Sie auf **[!UICONTROL Löschen]**.
 
    ![](assets/manage-templates-18.png)
 
-1. Klicken Sie **Löschen** zur Bestätigung.
+1. Klicken Sie **[!UICONTROL Löschen]** zur Bestätigung.
 
    ![](assets/manage-templates-19.png)

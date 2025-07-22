@@ -3,9 +3,9 @@ description: Neuen Administrator mit Marketo verbinden - Marketo-Dokumente - Pro
 title: Neuen Admin mit Marketo verbinden
 exl-id: ef405bca-a29a-40fc-9efa-eccff5f45956
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '495'
+source-wordcount: '491'
 ht-degree: 0%
 
 ---
@@ -16,9 +16,9 @@ Wenn der andere Administrator bereits mit Marketo verbunden ist, muss er nur Sch
 
 Wenn der zweite Administrator nicht als Administrator mit Marketo verbunden ist…
 
-1. Der primäre Administrator muss die Verbindung des zweiten Administrators zu Marketo unter „Einstellungen“ > &quot;Marketo&quot; > „Benutzerzugriff“ trennen.
+1. Der primäre Administrator muss die Verbindung des zweiten Administrators mit Marketo unter [!UICONTROL Einstellungen] > Marketo > [!UICONTROL Benutzerzugriff] trennen.
 
-1. Der sekundäre Administrator meldet sich bei seinem MSC-Konto an, wechselt zu Einstellungen > Marketo und klickt auf **Verbinden**.
+1. Der sekundäre Administrator meldet sich bei seinem MSC-Konto an, wechselt zu [!UICONTROL Einstellungen] > Marketo und klickt auf **[!UICONTROL Verbinden]**.
 
 1. Jetzt ist der sekundäre Benutzer als Admin mit Marketo verbunden.
 
@@ -32,7 +32,7 @@ Wenn der zweite Administrator nicht als Administrator mit Marketo verbunden ist�
 
 Wenn Sie den Administrator bzw. die Administratorin entfernen möchten, der bzw. die die Marketo-Integration eingerichtet hat, erfahren Sie mehr darüber in diesem Artikel.
 
-Die Marketo-Integration ist an einen Sales Connect-/Action-Admin-Benutzer gebunden. In der Regel ist dies der Administrator, der zuerst auf die Schaltfläche „Verbinden“ auf der Marketo-Verbindungsseite geklickt und die Verbindung hergestellt hat.
+Die Marketo-Integration ist an einen Admin-Benutzer für [!DNL Sales Connect]/Aktionen gebunden. In der Regel ist dies der Administrator, der zuerst auf die Schaltfläche **[!UICONTROL Verbinden]** auf der Marketo-Verbindungsseite geklickt und die Verbindung hergestellt hat.
 
 Um den Administrator bzw. die Administratorin zu entfernen, der bzw. die die Marketo-Verbindung hergestellt hat, muss zunächst eine neue Verbindung von einem anderen Administrator bzw. einer anderen Administratorin hergestellt werden. Nachfolgend sind die Aufgaben aufgeführt, die dazu ausgeführt werden müssen.
 
@@ -52,11 +52,11 @@ Um die Anweisungen zu vereinfachen, bezeichnen wir den derzeit verbundenen Admin
 
 Ein Administrator (ursprünglich für die Verbindung verantwortlich) sollte die folgenden Schritte ausführen.
 
-1. Klicken Sie in der Web-Anwendung auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
+1. Klicken Sie in der Web-Anwendung auf das Zahnradsymbol und wählen Sie **[!UICONTROL Einstellungen]** aus.
 
 1. Auf **Marketo**.
 
-1. Klicken Sie **Benutzerzugriff**.
+1. Klicken Sie **[!UICONTROL Benutzerzugriff]**.
 
 1. Suchen Sie nach dem Administrator, für den Sie eine neue Marketo-Verbindung herstellen möchten.
 
@@ -66,20 +66,20 @@ Ein Administrator (ursprünglich für die Verbindung verantwortlich) sollte die 
 
 Auf diese Schritte sollte Admin B (neuer Admin) folgen
 
-1. Klicken Sie in der Web-Anwendung auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
+1. Klicken Sie in der Web-Anwendung auf das Zahnradsymbol und wählen Sie **[!UICONTROL Einstellungen]** aus.
 
 1. Auf **Marketo**.
 
-1. Klicken Sie **Trennen**.
+1. Klicken Sie **[!UICONTROL Trennen]**.
 
 **Trennen der Marketo-Integration für Admin A**
 
 Diesen Schritten sollte ein Administrator folgen (ursprünglich angemeldeter Administrator).
 
-1. Klicken Sie in der Web-Anwendung auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
+1. Klicken Sie in der Web-Anwendung auf das Zahnradsymbol und wählen Sie **[!UICONTROL Einstellungen]** aus.
 
 1. Auf **Marketo**.
 
-1. Klicken Sie **Trennen**.
+1. Klicken Sie **[!UICONTROL Trennen]**.
 
-Nachdem ein neuer Administrator eine Verbindung zu Marketo hergestellt hat und der ursprüngliche Administrator getrennt wurde, kann der ursprünglich angemeldete Administrator sicher aus der Sales Connect/Actions-Instanz entfernt werden.
+Nachdem ein neuer Administrator eine Verbindung zu Marketo hergestellt hat und der ursprüngliche Administrator getrennt wurde, kann der ursprünglich angemeldete Administrator sicher aus der [!DNL Sales Connect]/Actions-Instanz entfernt werden.

@@ -4,7 +4,7 @@ description: Hinzufügen von Bildern und Dateien zu Marketo - Marketo-Dokumente 
 title: Hinzufügen von Bildern und Dateien zu Marketo
 exl-id: 31462189-55fd-458e-8b28-85e525dad5b5
 feature: Image Editor
-source-git-commit: 52dec416ab853c729e1b119845085ffb06193203
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie neue Bilder oder Dateien zu Ihrer Marketo Engage-Instanz hinzufügen.
 
-1. Gehen Sie zum **Design Studio**.
+1. Gehen Sie zum **[!UICONTROL Design Studio]**.
 
    ![](assets/add-images-and-files-to-marketo-1.png)
 
@@ -41,7 +41,7 @@ Erfahren Sie, wie Sie neue Bilder oder Dateien zu Ihrer Marketo Engage-Instanz h
 
    >[!NOTE]
    >
-   >Während Marketo alle Dateitypen zum Hochladen akzeptiert, funktionieren nur die wichtigsten Bildtypen (JPG, PNG, GIF usw.) in unserem E-Mail-Editor.
+   >Während Marketo alle Dateitypen zum Hochladen akzeptiert, funktionieren in unserem E-Mail-Editor nur die wichtigsten Bildtypen (JPG, PNG, GIF usw.).
 
    >[!MORELIKETHIS]
    >

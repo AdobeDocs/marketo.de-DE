@@ -4,7 +4,7 @@ description: Filtern von Assets in E-Mail-Berichten in Campaign - Marketo-Dokume
 title: Filtern von Assets in E-Mail-Berichten in Campaign
 exl-id: 8e5e9ddc-b456-4802-a2a1-24d53d23117f
 feature: Reporting
-source-git-commit: e396542eb13e54306b0b7620d0092716a5be182f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 0%
@@ -27,12 +27,12 @@ Konzentrieren Sie Ihren [Kampagnen-E-Mail](/help/marketo/product-docs/reporting/
 
    ![](assets/image2014-9-16-15-3a57-3a31.png)
 
-1. Klicken Sie auf **Setup** und ziehen Sie per Drag-and-Drop über einen Filter.
+1. Klicken Sie auf **[!UICONTROL Setup]** und ziehen Sie per Drag-and-Drop über einen Filter.
 
    ![](assets/image2014-9-16-15-3a57-3a35.png)
 
-   * **Kampagnen**: Aktive Smart-Kampagnen in Ihrem Marketo-Konto.
-   * **Archivierte Kampagnen**: Inaktive, eingestellte Smart-Kampagnen.
+   * **[!UICONTROL Kampagnen]**: Aktive Smart-Kampagnen in Ihrem Marketo-Konto.
+   * **[!UICONTROL Archivierte Kampagnen]**: Inaktive, eingestellte Smart-Kampagnen.
 
 1. Wählen Sie die Ordner und spezifischen Smart-Kampagnen aus, die in Ihren Bericht aufgenommen werden sollen.
 
@@ -42,7 +42,7 @@ Konzentrieren Sie Ihren [Kampagnen-E-Mail](/help/marketo/product-docs/reporting/
    >
    >Wenn Sie einen Ordner auswählen, enthält der Bericht zum Zeitpunkt der Berichtsausführung alles, was dieser Ordner enthält.
 
-1. Du bist fertig! Klicken Sie auf **Bericht**, um Ihren gefilterten Bericht anzuzeigen.
+1. Du bist fertig! Klicken Sie auf **[!UICONTROL Bericht]**, um Ihren gefilterten Bericht anzuzeigen.
 
    ![](assets/image2014-9-16-15-3a58-3a10.png)
 

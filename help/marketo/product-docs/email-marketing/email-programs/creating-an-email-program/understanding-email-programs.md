@@ -4,7 +4,7 @@ description: Grundlegendes zu E-Mail-Programmen - Marketo-Dokumente - Produktdok
 title: Grundlegendes zu E-Mail-Programmen
 exl-id: 3ec1a4f0-90fb-4a4b-94bf-ce5ee7d8bdd4
 feature: Email Programs
-source-git-commit: b2ceefb068005d916027fb71be0dc4e25849ae23
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '318'
 ht-degree: 1%
@@ -17,7 +17,7 @@ Senden Sie E-Mails, erstellen Sie A/B-Tests und verfolgen Sie Ihre Ergebnisse an
 
 ## Control Panel {#control-panel}
 
-Vier Kisten halten dich auf dem Laufenden. **Zielgruppe** definiert das „Wer“, **E-Mail** stellt das „Was“ bereit, **Zeitplan** definiert „Wann“ und **Genehmigung** macht es startbereit.
+Vier Kisten halten dich auf dem Laufenden. **[!UICONTROL Zielgruppe]** definiert das „Wer“, **[!UICONTROL E-Mail]** stellt das „Was“ bereit, **[!UICONTROL Zeitplan]** definiert „Wann“ und **[!UICONTROL Genehmigung]** macht es startbereit.
 
 ![](assets/emailprogram.png)
 

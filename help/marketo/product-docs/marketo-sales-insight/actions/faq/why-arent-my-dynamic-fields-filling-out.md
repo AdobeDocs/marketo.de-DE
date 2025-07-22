@@ -3,9 +3,9 @@ description: Warum werden meine dynamischen Felder nicht ausgefüllt? - Marketo-
 title: Warum werden meine dynamischen Felder nicht ausgefüllt?
 exl-id: 4e1d133f-8314-4e64-b50b-f3e824c3bef4
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
@@ -16,13 +16,13 @@ Dynamische Felder funktionieren nur, wenn Sie eine Vorlage verwenden. Einzelne e
 
 ## Was zu überprüfen ist {#what-to-check}
 
-Es gibt drei Arten von dynamischen Feldern in Sales-Insight-Aktionen: „Standard“, „Benutzerdefiniert“ und &quot;Salesforce&quot;. Sowohl einfache als auch benutzerdefinierte Elemente sehen so aus, dass Informationen aus der [Web-Anwendung“ abgerufen ](https://toutapp.com/login){target="_blank"}. Wenn die Informationen nicht in der Web-Anwendung vorhanden sind, sind die Felder leer. Salesforce-Felder rufen Informationen von [Salesforce.com](https://salesforce.com){target="_blank"} ab.
+Es gibt drei Arten von dynamischen Feldern in Sales Insight-Aktionen: „Standard“, „Benutzerdefiniert“ und &quot;Salesforce&quot;. Sowohl einfache als auch benutzerdefinierte Elemente sehen so aus, dass Informationen aus der [Web-Anwendung“ abgerufen ](https://toutapp.com/login){target="_blank"}. Wenn die Informationen nicht in der Web-Anwendung vorhanden sind, sind die Felder leer. Salesforce-Felder rufen Informationen von [Salesforce.com](https://salesforce.com){target="_blank"} ab.
 
-**Fehlerbehebung bei Salesforce-Feldern**
+**Fehlerbehebung bei [!DNL Salesforce] Feldern**
 
-Salesforce-Felder: z. B. `{{sfdc_account_name}}`
+[!DNL Salesforce] Felder: z. B. `{{sfdc_account_name}}`
 
-* Stellen Sie sicher, dass sie ordnungsgemäß mit Sales Insight-Aktionen verbunden ist. Navigieren Sie zur Seite [Einstellungen] (https://toutapp.com/login{target="_blank"} und klicken Sie auf **Verwalten** neben Ihrem CRM.
+* Stellen Sie sicher, dass sie ordnungsgemäß mit Sales Insight-Aktionen verbunden ist. Navigieren Sie zur Seite [Einstellungen]&#x200B;(https://toutapp.com/login{target="_blank"} und klicken Sie auf **Verwalten** neben Ihrem CRM.
 
 **Fehlerbehebung bei grundlegenden und benutzerdefinierten Feldern**
 
@@ -34,7 +34,7 @@ Benutzerdefinierte Felder für Marketo Sales Insight-Aktionen: z. B. `{{custom_f
 
 ## Warum wurde meine E-Mail gesendet, ohne alle dynamischen Felder auszufüllen? {#why-did-my-email-send-without-populating-all-dynamic-fields}
 
-Sales Insight-Aktionen verhindern den Versand Ihrer E-Mails, wenn nicht alle dynamischen Felder in der E-Mail ausgefüllt werden können. **Es** jedoch einige Ausnahmen von dieser Regel. Einige Felder werden leer gesendet oder automatisch einen Wert ausgefüllt, falls wir einen finden können. Diese Felder und wie sie reagieren, wenn sie das Feld nicht ausfüllen können, sind unten aufgeführt.
+[!DNL Sales Insight Actions] wird der Versand Ihrer E-Mails verhindert, wenn wir nicht alle Ihre dynamischen Felder in der E-Mail ausfüllen können. **Es** jedoch einige Ausnahmen von dieser Regel. Einige Felder werden leer gesendet oder automatisch einen Wert ausgefüllt, falls wir einen finden können. Diese Felder und wie sie reagieren, wenn sie das Feld nicht ausfüllen können, sind unten aufgeführt.
 
 `{{first_name}}` = LEER
 
@@ -48,4 +48,4 @@ Sales Insight-Aktionen verhindern den Versand Ihrer E-Mails, wenn nicht alle dyn
 
 >[!NOTE]
 >
->Das Feld `{{first_name}}` wird sowohl in Sales Insight-Aktionen als auch in Salesforce angezeigt, um zu versuchen, Informationen abzurufen. Alle anderen Felder in dieser Liste werden nur in Sales Insight-Aktionen untersucht, um das Feld auszufüllen.
+>Das `{{first_name}}` Feld wird sowohl in [!DNL Sales Insight Actions] als auch [!DNL Salesforce] angezeigt, um zu versuchen, Informationen abzurufen. Alle anderen Felder in dieser Liste [!DNL Sales Insight Actions] nur das Ausfüllen des Felds.

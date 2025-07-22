@@ -4,20 +4,20 @@ description: Person aus SFDC löschen - Marketo-Dokumente - Produktdokumentation
 title: Person aus SFDC löschen
 exl-id: 8245de35-f374-4241-946e-b4c4b87cc85e
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 5%
+source-wordcount: '133'
+ht-degree: 6%
 
 ---
 
 # Person aus SFDC löschen {#delete-person-from-sfdc}
 
-Wenn Sie einen bestimmten Satz von Leads aus Salesforce entfernen müssen, sie jedoch als Personen auf dem Marketo Engage belassen müssen, können Sie die Flussaktion Person aus SFDC löschen verwenden.
+Wenn Sie einen bestimmten Satz von Leads aus Salesforce entfernen müssen, sie jedoch als Personen in Marketo Engage belassen, können Sie die Flussaktion Person aus SFDC löschen verwenden.
 
 >[!NOTE]
 >
->Nur verfügbar, wenn mit Salesforce integriert.
+>Nur verfügbar, wenn mit [!DNL Salesforce] integriert.
 
 1. Klicken Sie in der Datenbank auf die Person, die Sie aus Salesforce entfernen möchten. Klicken Sie dann auf **[!UICONTROL Personenaktionen]** und wählen Sie **[!DNL Salesforce]** aus.
 
@@ -31,7 +31,7 @@ Wenn Sie einen bestimmten Satz von Leads aus Salesforce entfernen müssen, sie j
 
    ![](assets/delete-person-from-sfdc-3.png)
 
-   Nach Ausführung des Flussschritts ist Ihre Person kein Lead mehr in Salesforce, sondern verbleibt in Marketo.
+   Nach Ausführung des Flussschritts ist Ihre Person kein Lead mehr in [!DNL Salesforce], sondern verbleibt in Marketo.
 
    >[!CAUTION]
    >

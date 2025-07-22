@@ -3,9 +3,9 @@ description: Trigger und Filter für Vertriebsaktivitäten - Marketo-Dokumente -
 title: Trigger und Filter für Verkaufsaktivitäten
 exl-id: d180c1fa-d2bb-443d-ba78-59c26083acf5
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Gehen Sie wie folgt vor, um zu erfahren, wie Sie Vertriebsaktivitätsfilter und 
 
    ![](assets/sales-activity-triggers-and-filters-1.png)
 
-1. Suchen Sie auf **Registerkarte** Smart List“ nach „Sales Apps“.
+1. Suchen Sie auf **[!UICONTROL Registerkarte]** Smart List“ nach [!UICONTROL Sales Apps].
 
    ![](assets/sales-activity-triggers-and-filters-2.png)
 
@@ -34,4 +34,4 @@ Gehen Sie wie folgt vor, um zu erfahren, wie Sie Vertriebsaktivitätsfilter und 
 
 >[!NOTE]
 >
->Eine vollständige Liste der Aktivitäten, Einschränkungen und Definitionen finden Sie in unserem [Glossar zu Sales Insight-Aktionen](/help/marketo/product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md).
+>Eine vollständige Liste der Aktivitäten, Einschränkungen und Definitionen finden Sie in unserem [[!DNL Sales Insight Actions] Glossar](/help/marketo/product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md).

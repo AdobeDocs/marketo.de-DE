@@ -4,10 +4,10 @@ description: Hinzufügen von Inhalten zu einem Snippet - Marketo-Dokumente - Pro
 title: Hinzufügen von Inhalt zu einem Snippet
 exl-id: b8be61ea-016d-4aab-b1b7-a43d699c3bfe
 feature: Snippets
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 2%
+source-wordcount: '201'
+ht-degree: 0%
 
 ---
 
@@ -21,31 +21,31 @@ Sie können Token, Bilder, Dateien oder Rich-Text zu einem Snippet hinzufügen.
 
 >[!NOTE]
 >
->Sie können keine [Marketo-E-Mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)Syntax in Snippets einbetten. Dies funktioniert **nicht** in einer E-Mail. Snippets sollten nur im Textkörper enthalten sein (HTML + TEXT).
+>Sie können keine [Marketo-E-Mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)Syntax in Snippets einbetten. Dies funktioniert **nicht** in einer E-Mail. Snippets sollten nur Textinhalte sein (HTML + TEXT).
 
-1. Gehen Sie zum **Design Studio**.
+1. Gehen Sie zum **[!UICONTROL Design Studio]**.
 
    ![](assets/designstudio-2.png)
 
-1. Wählen Sie Ihren **Ausschnitt** aus und klicken Sie auf **Entwurf bearbeiten**.
+1. Wählen Sie Ihren **Ausschnitt** aus und klicken Sie auf **[!UICONTROL Entwurf bearbeiten]**.
 
    ![](assets/image2014-9-16-9-3a34-3a58.png)
 
 Sie können einem Snippet drei Inhaltstypen hinzufügen.
 
-## Token hinzufügen {#add-token}
+## Add [!UICONTROL Token] {#add-token}
 
-1. Ziehen Sie das **Token**-Element per Drag-and-Drop.
+1. Ziehen Sie das **[!UICONTROL Token]**-Element per Drag-and-Drop.
 
    ![](assets/image2014-9-16-9-3a35-3a8.png)
 
-1. Geben Sie **Token** ein und klicken Sie auf **Einfügen**.
+1. Geben Sie **[!UICONTROL Token]** ein und klicken Sie auf **[!UICONTROL Einfügen]**.
 
    ![](assets/image2014-9-16-9-3a35-3a16.png)
 
 ## Bild/Datei hinzufügen {#add-image-file}
 
-1. Ziehen Sie das Element **Bild/Datei** per Drag-and-Drop.
+1. Ziehen Sie das Element **[!UICONTROL Bild/Datei]** per Drag-and-Drop.
 
    ![](assets/image2014-9-16-9-3a35-3a25.png)
 
@@ -53,7 +53,7 @@ Sie können einem Snippet drei Inhaltstypen hinzufügen.
    >
    >Sie können eigene Bilder oder Dateien zu Marketo hinzufügen. Weitere Informationen zu [Bildern und Dateien](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
-1. Wählen Sie **zu** Bild aus und klicken Sie auf **Einfügen**.
+1. Wählen Sie **zu** Bild aus und klicken Sie auf **[!UICONTROL Einfügen]**.
 
    ![](assets/image2014-9-16-9-3a35-3a33.png)
 
@@ -71,11 +71,11 @@ Sie können einem Snippet drei Inhaltstypen hinzufügen.
    >
    >Verwenden Sie die Formatierungswerkzeuge, um Ihren Text anzupassen.
 
-1. Klicken Sie für E-Mails auf die **Textversion**.
+1. Klicken Sie für E-Mails auf **[!UICONTROL Registerkarte (Textversion (für E-Mails]**.
 
    ![](assets/image2014-9-16-9-3a35-3a51.png)
 
-1. Klicken Sie **Von HTML kopieren**.
+1. Klicken Sie **[!UICONTROL Aus HTML kopieren]**.
 
    ![](assets/image2014-9-16-9-3a35-3a59.png)
 

@@ -4,7 +4,7 @@ description: E-Mail-Einblicke - Schnelldiagramme - Marketo-Dokumente - Produktdo
 title: Schnelldiagramme für E-Mail-Einblicke
 exl-id: 5c071694-af86-48bd-8159-f877c51364f2
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '231'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Schnelldiagramme sind Miniaturansichten, die Sie anpassen und speichern können,
 
 In diesem Beispiel wählen wir die Öffnungsrate für die ersten drei Wochen im Februar 2016 in den Bundesstaaten Kalifornien und Florida.
 
-1. Klicken Sie auf den Datumsfilter rechts neben dem Bildschirm „Analytics“.
+1. Klicken Sie auf den Datumsfilter rechts neben dem Bildschirm [!UICONTROL Analytics].
 
    ![](assets/one-1.png)
 
@@ -27,7 +27,7 @@ In diesem Beispiel wählen wir die Öffnungsrate für die ersten drei Wochen im 
 
    ![](assets/two-2.png)
 
-1. Wenn Ihr Datumsbereich ausgewählt ist, klicken Sie auf **Anwenden**.
+1. Wenn Ihr Datumsbereich ausgewählt ist, klicken Sie auf **[!UICONTROL Anwenden]**.
 
    ![](assets/three-2.png)
 
@@ -39,11 +39,11 @@ In diesem Beispiel wählen wir die Öffnungsrate für die ersten drei Wochen im 
 
    ![](assets/5.png)
 
-1. Klicken Sie auf der rechten Seite des Diagramms auf das Symbol „Exportieren“ und wählen Sie **Als Schnelldiagramm speichern**.
+1. Klicken Sie auf der rechten Seite des Diagramms auf das Symbol „Exportieren“ und wählen Sie **[!UICONTROL Als Schnelldiagramm speichern]**.
 
    ![](assets/six.png)
 
-1. Benennen Sie Ihr Schnelldiagramm und klicken Sie auf **Speichern**.
+1. Benennen Sie Ihr Schnelldiagramm und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/seven.png)
 
@@ -65,7 +65,7 @@ In diesem Beispiel wählen wir die Öffnungsrate für die ersten drei Wochen im 
 
 Möchten Sie eines Ihrer Schnelldiagramme löschen? Es ist einfach!
 
-1. Klicken Sie auf **Symbol** Schnelldiagramme“.
+1. Klicken Sie auf **[!UICONTROL Symbol]** Schnelldiagramme“.
 
    ![](assets/nine.png)
 
@@ -73,7 +73,7 @@ Möchten Sie eines Ihrer Schnelldiagramme löschen? Es ist einfach!
 
    ![](assets/ten.png)
 
-1. Klicken Sie auf **OK**.
+1. Klicken Sie auf **[!UICONTROL OK]**.
 
    ![](assets/eleven.png)
 

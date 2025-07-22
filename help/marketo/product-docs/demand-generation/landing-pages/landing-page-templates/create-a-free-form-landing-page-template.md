@@ -4,7 +4,7 @@ description: Erstellen einer Freiform-Landingpage-Vorlage - Marketo-Dokumente - 
 title: Erstellen einer Freiform-Landingpage-Vorlage
 exl-id: bf633c86-6087-44bf-aaa2-63173154f0aa
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
@@ -15,27 +15,27 @@ ht-degree: 0%
 
 Freiform-Landingpages erfordern weniger technisches Wissen als deren geführte Gegenstücke. Gehen Sie wie folgt vor, um eine Vorlage für zukünftige Landingpages zu erstellen.
 
-1. Wechseln Sie zu **Design Studio**.
+1. Wechseln Sie zu **[!UICONTROL Design Studio]**.
 
    ![](assets/one.png)
 
-1. Klicken Sie **Neu** und wählen Sie **Neue Landingpage-Vorlage**.
+1. Klicken Sie **[!UICONTROL Neu]** und wählen Sie **[!UICONTROL Neue Landingpage-Vorlage]**.
 
    ![](assets/two.png)
 
-1. Wählen Sie Ihren Ordner aus und geben Sie Ihrer Vorlage einen Namen. Der Standardbearbeitungsmodus ist Freiform. Nachdem Sie Ihre Vorlage benannt haben, klicken Sie auf **Erstellen**.
+1. Wählen Sie Ihren Ordner aus und geben Sie Ihrer Vorlage einen Namen. Der Standardbearbeitungsmodus ist Freiform. Nachdem Sie Ihre Vorlage benannt haben, klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/three.png)
 
-1. Ihre Vorlage sollte auf einer neuen Registerkarte geöffnet werden. Sie kann jetzt von jedem bearbeitet werden, der mit CSS/HTML vertraut ist.
+1. Ihre Vorlage sollte auf einer neuen Registerkarte geöffnet werden. Sie kann jetzt von allen bearbeitet werden, die mit CSS/HTML vertraut sind.
 
    ![](assets/four.png)
 
    >[!NOTE]
    >
-   >Der Marketo-Support ist nicht für die Fehlerbehebung beim benutzerdefinierten HTML eingerichtet. Wenn Sie Hilfe beim HTML benötigen, wenden Sie sich bitte an einen Web-Entwickler.
+   >Der Marketo-Support ist nicht für die Fehlerbehebung bei benutzerdefiniertem HTML eingerichtet. Wenn Sie Hilfe zu HTML benötigen, wenden Sie sich bitte an einen Web-Entwickler.
 
-1. Wenn Sie Ihre Änderungen vorgenommen haben, klicken Sie auf **Vorlagenaktionen** und wählen Sie dann **Genehmigen und schließen**.
+1. Wenn Sie Ihre Änderungen vorgenommen haben, klicken Sie auf **[!UICONTROL Vorlagenaktionen]** und wählen Sie dann **[!UICONTROL Genehmigen und schließen]**.
 
    ![](assets/five.png)
 
@@ -43,8 +43,8 @@ Freiform-Landingpages erfordern weniger technisches Wissen als deren geführte G
 
    >[!NOTE]
    >
-   >Wählen Sie **Munchkin-Tracking deaktivieren** aus, wenn Sie verhindern möchten, dass Formulare vorab ausgefüllt werden, oder wenn Sie nur das Webverhalten auf einer bestimmten Seite nicht verfolgen möchten.\
-   >Wählen Sie **Kompatibilität für Mobilgeräte überprüfen**, um sicherzustellen, dass Ihr Code mit Mobilgeräten kompatibel ist.
+   >Wählen Sie **[!UICONTROL Munchkin-Tracking deaktivieren]** aus, wenn Sie verhindern möchten, dass Formulare vorab ausgefüllt werden, oder wenn Sie nur das Webverhalten auf einer bestimmten Seite nicht verfolgen möchten.\
+   >Wählen Sie **[!UICONTROL Kompatibilität für Mobilgeräte überprüfen]**, um sicherzustellen, dass Ihr Code mit Mobilgeräten kompatibel ist.
 
    >[!MORELIKETHIS]
    >

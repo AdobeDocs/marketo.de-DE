@@ -4,7 +4,7 @@ description: Verwenden von LinkedIn-Lead-Gen-Formularfiltern und -Triggern in ei
 title: Verwenden von LinkedIn-Lead-Gen-Formularfiltern und -Triggern in einer Smart-Kampagne
 exl-id: 386c25e7-b0fb-4271-bd39-98e36306de6b
 feature: Social
-source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Wenn Sie LinkedIn Lead Gen Forms aktiviert haben, können Sie diese als Filter u
 >
 >Wenn Personen ihre Informationen in einem LinkedIn-Lead-Gen-Formular senden, werden diese Informationen sofort an Marketo gesendet, sodass das Formular in der Dropdown-Liste Name des Lead-Gen-Formulars verfügbar wird. Formularnamen werden erst angezeigt, wenn mindestens eine Person das Formular gesendet hat.
 
-1. Verwenden Sie den Trigger **Ausfülltes LinkedIn-Lead-Gen-Formular**, um sofort Maßnahmen zu ergreifen, oder den **Ausfülltes LinkedIn-Lead-Gen-Formular**-Filter für geplante Batch-Kampagnen oder die standardmäßige Filterung von Smart-Listen.
+1. Verwenden Sie den Trigger **[!UICONTROL Ausfülltes LinkedIn-Lead-Gen-Formular]**, um sofort Maßnahmen zu ergreifen, oder den **[!UICONTROL Ausfülltes LinkedIn-Lead-Gen-Formular]**-Filter für geplante Batch-Kampagnen oder die standardmäßige Filterung von Smart-Listen.
 
    ![](assets/use-linkedin-lead-gen-form-filters-and-triggers-1.png)
 

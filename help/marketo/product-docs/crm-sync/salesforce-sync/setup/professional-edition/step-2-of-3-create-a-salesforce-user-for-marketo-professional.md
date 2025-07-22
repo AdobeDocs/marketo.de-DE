@@ -4,14 +4,14 @@ description: Schritt 2 von 3 - Erstellen eines Salesforce-Benutzers für Marketo
 title: 'Schritt 2 von 3: Erstellen eines Salesforce-Benutzers für Marketo (Professional)'
 exl-id: 7eb4bf89-b6e4-45e0-adee-e2976cb01dd3
 feature: Salesforce Integration
-source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '433'
-ht-degree: 9%
+source-wordcount: '427'
+ht-degree: 0%
 
 ---
 
-# Schritt 2 von 3: Erstellen eines Salesforce-Benutzers für Marketo (Professional) {#step-of-create-a-salesforce-user-for-marketo-professional}
+# Schritt 2 von 3: Erstellen eines [!DNL Salesforce] für Marketo (Professional) {#step-of-create-a-salesforce-user-for-marketo-professional}
 
 >[!NOTE]
 >
@@ -21,11 +21,11 @@ ht-degree: 9%
 >
 >[Schritt 1 von 3: Marketo-Felder zu Salesforce (Professional) hinzufügen](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md){target="_blank"}
 
-In diesem Artikel passen Sie Feldberechtigungen mit einem Salesforce-Seitenlayout an und erstellen einen Marketo-Salesforce-Synchronisierungsbenutzer.
+In diesem Artikel passen Sie Feldberechtigungen mit einem [!DNL Salesforce] Seitenlayout an und erstellen einen Marketo-[!DNL Salesforce] Synchronisierungsbenutzer.
 
 ## Festlegen von Seiten-Layouts {#set-page-layouts}
 
-Salesforce Professional legt die Barrierefreiheit auf Feldebene mit Seiten-Layouts fest, im Gegensatz zu den Profilen von Salesforce Enterprise/Unlimited. Mit diesen Schritten kann der Marketo-Synchronisierungsbenutzer die benutzerdefinierten Felder aktualisieren.
+[!DNL Salesforce] Professional legt die Barrierefreiheit auf Feldebene mit Seiten-Layouts im Gegensatz zu den Profilen von [!DNL Salesforce] Enterprise/Unlimited fest. Mit diesen Schritten kann der Marketo-Synchronisierungsbenutzer die benutzerdefinierten Felder aktualisieren.
 
 1. Geben Sie &quot;[!UICONTROL Seitenlayouts]&quot; in die Navigationssuchleiste ein, ohne die **[!UICONTROL Eingabetaste]** zu drücken, und klicken Sie auf **[!UICONTROL Seitenlayout]** unter **[!UICONTROL Leads]**.
 
@@ -49,22 +49,22 @@ Salesforce Professional legt die Barrierefreiheit auf Feldebene mit Seiten-Layou
 
 1. Wiederholen Sie den obigen Schritt für die folgenden Felder:
 
-   * Akquirierungsprogramm
-   * Akquisitionsprogramm-ID
-   * E-Mail-Abmeldung
-   * Abgeleiteter Ort
-   * Abgeleitetes Unternehmen
-   * Abgeleitetes Land
-   * Abgeleiteter Stadtbereich
-   * Abgeleitete Vorwahl
-   * Abgeleitete Postleitzahl
-   * Abgeleitetes Bundesland/abgeleitete Region
-   * Lead-Bewertung
-   * Ursprünglicher Verweis
-   * Ursprüngliche Such-Engine
-   * Ursprünglicher Suchausdruck
-   * Ursprüngliche Quelleninfo
-   * Ursprünglicher Quellentyp
+   * [!UICONTROL Akquise-Programm]
+   * [!UICONTROL Akquise-Programm-ID]
+   * [!UICONTROL E-Mail-Opt-out]
+   * [!UICONTROL Abgeleitete Stadt]
+   * [!UICONTROL Abgeleitetes Unternehmen]
+   * [!UICONTROL Abgeleitetes Land]
+   * [!UICONTROL Geschätzte Metropolregion]
+   * [!UICONTROL Abgeleitete Telefonvorwahl]
+   * [!UICONTROL Abgeleitete Postleitzahl]
+   * [!UICONTROL Abgeleitete Statusregion]
+   * [!UICONTROL Lead-Bewertung]
+   * [!UICONTROL Ursprünglicher Referrer]
+   * [!UICONTROL Original-Suchmaschine]
+   * [!UICONTROL Ursprüngliche Suchphrase]
+   * [!UICONTROL Original Source Info]
+   * [!UICONTROL Original-Source-Typ]
 
    >[!NOTE]
    >
@@ -92,7 +92,7 @@ Salesforce Professional legt die Barrierefreiheit auf Feldebene mit Seiten-Layou
 
 ## Synchronisierungsbenutzer erstellen {#create-sync-user}
 
-Marketo benötigt Anmeldeinformationen für den Zugriff auf Salesforce. Dies geschieht am besten mit einem dedizierten Benutzer, der mit den folgenden Schritten erstellt wurde.
+Marketo benötigt Anmeldeinformationen, um auf [!DNL Salesforce] zuzugreifen. Dies geschieht am besten mit einem dedizierten Benutzer, der mit den folgenden Schritten erstellt wurde.
 
 >[!NOTE]
 >
@@ -114,7 +114,7 @@ Marketo benötigt Anmeldeinformationen für den Zugriff auf Salesforce. Dies ges
    >
    >Stellen Sie sicher, dass die eingegebene E-Mail-Adresse gültig ist. Sie müssen sich als Synchronisierungsbenutzer anmelden, um das Kennwort zurückzusetzen.
 
-Ausgezeichnet! Jetzt verfügen Sie über ein Konto, mit dem Marketo eine Verbindung zu Salesforce herstellen kann. Lass es uns machen.
+Ausgezeichnet! Jetzt verfügen Sie über ein Konto, mit dem Marketo eine Verbindung zu [!DNL Salesforce] herstellen kann. Lass es uns machen.
 
 >[!MORELIKETHIS]
 >

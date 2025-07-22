@@ -4,7 +4,7 @@ description: Champion/Challenger - Ganze E-Mails - Marketo-Dokumente - Produktdo
 title: Champion/Challenger - ganze E-Mails
 exl-id: fb95b412-5766-44a8-b250-aa5103a604bc
 feature: Email Editor
-source-git-commit: c17bd1a623c46786f14c21c8fad718cdfeeec3cd
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '247'
 ht-degree: 1%
@@ -19,7 +19,7 @@ Testen ganzer E-Mails gegeneinander. Wenn der Test vorbei ist, senden Sie den be
 >
 >[E-Mail-Champion/Challenger hinzufügen](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. Wählen Sie im E-Mail **Testeditor in der Dropdown** Liste **Testtyp** die Option „Ganze E-Mails“ aus.
+1. Wählen Sie im E-Mail **[!UICONTROL Testeditor in der Dropdown]** Liste **[!UICONTROL Testtyp]** die Option „Ganze E-Mails“ aus.
 
    ![](assets/image2014-9-12-16-3a39-3a14.png)
 
@@ -27,7 +27,7 @@ Testen ganzer E-Mails gegeneinander. Wenn der Test vorbei ist, senden Sie den be
    >
    >Denken Sie daran: Die ursprüngliche E-Mail ist der Champion. Die Herausforderer treten dagegen an.
 
-1. Suchen Sie die E **Mail(s** Challengers), wählen Sie sie aus und klicken Sie auf **Klonen**.
+1. Suchen Sie die E **[!UICONTROL Mail(s]** Challengers), wählen Sie sie aus und klicken Sie auf **[!UICONTROL Klonen]**.
 
    ![](assets/image2015-8-10-11-3a46-3a28.png)
 

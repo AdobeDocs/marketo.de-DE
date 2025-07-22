@@ -4,9 +4,9 @@ description: Head Start for Email Programs - Marketo Docs - Product Documentatio
 title: Head Start for Email Programs
 exl-id: f7c8b082-4d83-4e3b-8aa4-7b252e3dacd3
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '420'
+source-wordcount: '418'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Wenn Sie ein Datum/eine Uhrzeit für ein E-Mail-Programm auswählen, bestimmt di
 
 ## Standardkopfstart {#standard-head-start}
 
-1. Klicken Sie **Marketing-Aktivitäten**.
+1. Klicken Sie **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/one-1.png)
 
@@ -33,30 +33,30 @@ Wenn Sie ein Datum/eine Uhrzeit für ein E-Mail-Programm auswählen, bestimmt di
    >
    >Head Start kann nicht mit A/B-Tests verwendet werden.
 
-1. Wählen Sie in der Kachel Zeitplan Ihre E-Mail aus und klicken Sie dann auf **Head Start**.
+1. Wählen Sie in [!UICONTROL  Kachel ]Zeitplan“ die Option E-Mail planen und dann das Feld **[!UICONTROL Direktstart]** aus.
 
    ![](assets/three-1.png)
 
-   Wenn „Head Start“ ausgewählt ist, beginnt das Programm etwa 12 Stunden vor der geplanten Zeit mit der Verarbeitung. Sobald die Verarbeitung beginnt, wird das Programm gesperrt.
+   Wenn [!UICONTROL Head Start] ausgewählt ist, beginnt das Programm ungefähr 12 Stunden vor der geplanten Zeit mit der Verarbeitung. Sobald die Verarbeitung beginnt, wird das Programm gesperrt.
 
    >[!CAUTION]
    >
    >Alle Personen aus Ihrer Zielgruppe, die sich nach der Programmsperre abmelden, erhalten weiterhin die E-Mail. Es wird empfohlen, die Abmelde-Benachrichtigung so anzupassen, dass die Bearbeitung von Abmeldungen 1-2 Werktage dauern kann.
 
-1. Klicken Sie **Programm genehmigen**.
+1. Klicken Sie **[!UICONTROL Programm genehmigen]**.
 
    ![](assets/four-1.png)
 
    Nach der Programmgenehmigung gibt es vier verschiedene Status, die auf der Kachel Genehmigung angezeigt werden können.
 
-   * **Warten auf Ausführung:** Nachdem das Programm genehmigt wurde.
-   * **Verarbeitung gestartet, wartet auf Ausführung:** Verarbeitung läuft.
-   * **Verarbeitung abgeschlossen, wartet auf Ausführung:** Verarbeitung abgeschlossen, E-Mail wartet jetzt auf den geplanten Start.
-   * **Beendet:** Programm abgeschlossen.
+   * **[!UICONTROL Warten auf Ausführung]:** Nachdem das Programm genehmigt wurde.
+   * **[!UICONTROL Verarbeitung gestartet, wartet auf Ausführung]:** Verarbeitung läuft.
+   * **[!UICONTROL Verarbeitung abgeschlossen, wartet auf Ausführung]:** Verarbeitung abgeschlossen, E-Mail wartet jetzt auf den geplanten Start.
+   * **[!UICONTROL Beendet]:** Programm abgeschlossen.
 
    >[!TIP]
    >
-   >Möchten Sie den Vorgang abbrechen, nachdem das Programm gesperrt wurde, aber bevor die E-Mail gesendet wird? Kein Problem! Klicken Sie einfach **Programm abbrechen** unten rechts auf der Kachel Genehmigung .
+   >Möchten Sie den Vorgang abbrechen, nachdem das Programm gesperrt wurde, aber bevor die E-Mail gesendet wird? Kein Problem! Klicken Sie einfach **[!UICONTROL Programm abbrechen]** unten rechts auf der Kachel Genehmigung .
 
    >[!NOTE]
    >

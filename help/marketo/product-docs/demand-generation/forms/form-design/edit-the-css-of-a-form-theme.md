@@ -4,7 +4,7 @@ description: Bearbeiten des CSS eines Formulardesigns - Marketo-Dokumente - Prod
 title: Bearbeiten der CSS-Datei eines Formulardesigns
 exl-id: 33a124d5-2784-415b-80b6-623823f1eb19
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 1%
@@ -19,15 +19,15 @@ Sie haben einige vorgefertigte [Designs, aus denen Sie einfach wählen können](
 >
 >Vergewissern Sie sich, dass Sie CSS kennen, wenn Sie dies versuchen möchten, da der Marketo-Support nicht für die Unterstützung bei benutzerdefinierter Kodierung eingerichtet ist. Alle vorgenommenen Änderungen gelten nur für das Formular, das Sie gerade bearbeiten.
 
-1. Navigieren Sie **Marketing-Aktivitäten**.
+1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities-5.png)
 
-1. Wählen Sie Ihr Formular aus und klicken Sie auf **Formular bearbeiten**.
+1. Wählen Sie Ihr Formular aus und klicken Sie auf **[!UICONTROL Formular bearbeiten]**.
 
    ![](assets/image2014-9-15-14-3a37-3a7.png)
 
-1. Navigieren Sie zu **Formulareinstellungen**.
+1. Navigieren Sie zu **[!UICONTROL Formulareinstellungen]**.
 
    ![](assets/image2014-9-15-14-3a37-3a42.png)
 
@@ -35,7 +35,7 @@ Sie haben einige vorgefertigte [Designs, aus denen Sie einfach wählen können](
 
    ![](assets/image2014-9-15-14-3a37-3a54.png)
 
-1. Klicken Sie unter dem Zahnradsymbol auf **Design-CSS**.
+1. Klicken Sie unter dem Zahnradsymbol auf **[!UICONTROL Design-CSS]**.
 
    ![](assets/image2014-9-15-14-3a38-3a18.png)
 
@@ -43,11 +43,11 @@ Sie haben einige vorgefertigte [Designs, aus denen Sie einfach wählen können](
 
    ![](assets/image2014-9-15-14-3a38-3a29.png)
 
-1. Klicken Sie auf **Schließen**.
+1. Klicken Sie auf **[!UICONTROL Schließen]**.
 
    ![](assets/image2014-9-15-14-3a38-3a46.png)
 
-1. Klicken Sie unter dem Zahnradsymbol auf **Benutzerdefiniertes CSS bearbeiten**.
+1. Klicken Sie unter dem Zahnradsymbol auf **[!UICONTROL Benutzerdefiniertes CSS bearbeiten]**.
 
    ![](assets/image2014-9-15-14-3a39-3a5.png)
 
@@ -55,11 +55,11 @@ Sie haben einige vorgefertigte [Designs, aus denen Sie einfach wählen können](
 
    ![](assets/image2014-9-15-14-3a39-3a21.png)
 
-1. Wenn Sie fertig sind, klicken Sie auf **Speichern**.
+1. Wenn Sie fertig sind, klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/image2014-9-15-14-3a39-3a30.png)
 
-1. Um Ihr angepasstes Formular anzuzeigen, klicken Sie auf **Vorschau des Entwurfs**.
+1. Um Ihr angepasstes Formular anzuzeigen, klicken Sie auf **[!UICONTROL Vorschau des Entwurfs]**.
 
    ![](assets/image2014-9-15-14-3a39-3a50.png)
 

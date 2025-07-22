@@ -3,9 +3,9 @@ description: Vertriebskampagneneinstellungen - Marketo-Dokumente - Produktdokume
 title: Einstellungen für Verkaufskampagnen
 exl-id: 30674296-4a29-4349-afa8-4307be355d07
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '225'
 ht-degree: 1%
 
 ---
@@ -20,9 +20,9 @@ Aktivieren Sie Wochenenden überspringen , damit alle Schritte, die an einem Woc
 
 >[!NOTE]
 >
->Bei aktiviertem „Wochenende überspringen“ werden E-Mails auf der Grundlage einer 5-Tage-Woche geplant. Das bedeutet, dass bei der Planung eines Schritts die Wochenenden als Tage ignoriert werden.
+>Wenn [!UICONTROL Wochenenden überspringen] aktiviert ist, werden E-Mails basierend auf einer 5-Tage-Woche geplant. Das bedeutet, dass bei der Planung eines Schritts die Wochenenden als Tage ignoriert werden.
 
-1. Klicken Sie **Kampagnen**.
+1. Klicken Sie **[!UICONTROL Kampagnen]**.
 
    ![](assets/sales-campaign-settings-1.png)
 
@@ -30,11 +30,11 @@ Aktivieren Sie Wochenenden überspringen , damit alle Schritte, die an einem Woc
 
    ![](assets/sales-campaign-settings-2.png)
 
-1. Klicken Sie auf **Registerkarte** Einstellungen“.
+1. Klicken Sie auf **[!UICONTROL Registerkarte]** Einstellungen“.
 
    ![](assets/sales-campaign-settings-3.png)
 
-1. Aktivieren Sie das **Wochenenden überspringen**.
+1. Aktivieren Sie das **[!UICONTROL Wochenenden überspringen]**.
 
    ![](assets/sales-campaign-settings-4.png)
 
@@ -42,7 +42,7 @@ Aktivieren Sie Wochenenden überspringen , damit alle Schritte, die an einem Woc
 
 Wenn Sie eine E-Mail-Verbindung verwenden, erkennen wir Bounces anhand der Bounce-Nachricht, die an den Posteingang der Benutzer gesendet wird. Darüber hinaus können wir Personen aus Verkaufskampagnen entfernen, wenn ein Bounce erkannt wird.
 
-1. Klicken Sie **Kampagnen**.
+1. Klicken Sie **[!UICONTROL Kampagnen]**.
 
    ![](assets/sales-campaign-settings-5.png)
 
@@ -50,19 +50,19 @@ Wenn Sie eine E-Mail-Verbindung verwenden, erkennen wir Bounces anhand der Bounc
 
    ![](assets/sales-campaign-settings-6.png)
 
-1. Klicken Sie auf **Registerkarte** Einstellungen“.
+1. Klicken Sie auf **[!UICONTROL Registerkarte]** Einstellungen“.
 
    ![](assets/sales-campaign-settings-7.png)
 
-1. Aktivieren Sie das **Bei Bounce entfernen**.
+1. Aktivieren Sie das **[!UICONTROL Bei Bounce entfernen]**.
 
    ![](assets/sales-campaign-settings-8.png)
 
 ## Wenn eine Antwort erfolgt {#if-a-reply-occurs}
 
-Wenn Sie das Antwort-Tracking für Gmail oder Exchange aktiviert haben, können wir Ihre Verkaufskampagne automatisch senden, wenn ein Empfänger auf Ihre E-Mail antwortet.
+Wenn Sie das Antwort-Tracking für Gmail oder [!DNL Exchange] aktiviert haben, können wir Ihre Verkaufskampagne automatisch senden, wenn ein Empfänger auf Ihre E-Mail antwortet.
 
-1. Klicken Sie **Kampagnen**.
+1. Klicken Sie **[!UICONTROL Kampagnen]**.
 
    ![](assets/sales-campaign-settings-9.png)
 
@@ -70,11 +70,11 @@ Wenn Sie das Antwort-Tracking für Gmail oder Exchange aktiviert haben, können 
 
    ![](assets/sales-campaign-settings-10.png)
 
-1. Klicken Sie auf **Registerkarte** Einstellungen“.
+1. Klicken Sie auf **[!UICONTROL Registerkarte]** Einstellungen“.
 
    ![](assets/sales-campaign-settings-11.png)
 
-1. Treffen **unter „Wenn eine Antwort eintritt** die gewünschte(n) Auswahl(en).
+1. Treffen **[!UICONTROL unter „Wenn eine Antwort eintritt]** die gewünschte(n) Auswahl(en).
 
    ![](assets/sales-campaign-settings-12.png)
 

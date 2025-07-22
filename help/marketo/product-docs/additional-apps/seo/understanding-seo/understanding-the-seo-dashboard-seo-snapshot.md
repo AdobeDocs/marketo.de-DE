@@ -4,7 +4,7 @@ description: Grundlegendes zum SEO-Dashboard - SEO-Schnappschuss - Marketo-Dokum
 title: Grundlegendes zum SEO Dashboard -SEO Snapshot
 exl-id: 59ff940f-368c-4e71-9e1f-a6f959811841
 feature: SEO
-source-git-commit: d9ea30742b6ef3b6299284a1f446a69f15105379
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '258'
 ht-degree: 1%
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Verwenden Sie das Dashboard, um einen Überblick darüber zu erhalten, wie der Keyword-Rang im Trend liegt und wie gut Ihre Site für SEO optimiert ist.
 
-Im Abschnitt [[!UICONTROL Recommendations&rbrace; dieses Dashboards erfahren Sie, worauf Sie sich bei der Verbesserung Ihrer SEO]](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)Aktivitäten konzentrieren sollten.
+Um herauszufinden, worauf Sie sich konzentrieren müssen, um Ihre SEO-Bemühungen zu verbessern, verwenden [[!UICONTROL  Abschnitt ]](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)Recommendations“ dieses Dashboards.
 
 ![](assets/image2014-9-17-21-3a32-3a22.png)
 
@@ -27,9 +27,9 @@ In diesem Abschnitt erfahren Sie, wie Ihre Site für die [Keywords, die Sie ansp
 
 | Farbe | Rang |
 |---|---|
-| Grün | 1. Ergebnis in der Suche |
-| Gelb | 2. - 10. Ergebnis der Suche |
-| Grau | 11. - 20. Suchergebnis |
+| Grün | &#x200B;1. Ergebnis in der Suche |
+| Gelb | &#x200B;2. - 10. Ergebnis der Suche |
+| Grau | &#x200B;11. - 20. Suchergebnis |
 
 >[!TIP]
 >
@@ -41,7 +41,7 @@ In diesem Abschnitt erfahren Sie, wie Ihre Site für die [Keywords, die Sie ansp
 
 ## [!UICONTROL Durchschnittlicher Wert für die Seitenoptimierung] {#average-page-optimization-score}
 
-Der Average Page Optimization Score ist ein proprietärer Marketo-Score, der alle Seiten auf Ihrer Site auf einer Skala von 1 bis 100 misst.
+Der [!UICONTROL Average Page Optimization Score] ist ein proprietärer Marketo-Wert, der alle Seiten auf Ihrer Site auf einer Skala von 1 bis 100 misst.
 
 Sie basiert auf einer Zusammenstellung von Dutzenden von Best Practices. Ein Wert von 70 oder höher zeigt eine gut optimierte Site an.
 

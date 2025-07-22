@@ -4,9 +4,9 @@ description: Live-Feed-Übersicht - Marketo-Dokumente - Produktdokumentation
 title: Live-Feed - Übersicht
 exl-id: 646a3650-538d-4ea5-b29f-44ad6588e247
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '391'
+source-wordcount: '389'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,7 @@ Filtern Sie nach heute, morgen, heute *und* morgen oder nach den nächsten 7 Tag
 >
 >Sie können den benutzerdefinierten Datumsfilter im Live-Feed nicht verwenden, aber Sie können ihn in der Web-Anwendung verwenden.
 
-Verwenden Sie Schnellzugriff-Schaltflächen, um schnell einen Anruf zu tätigen, eine E-Mail zu senden oder zum LinkedIn-Profil einer Person zu navigieren.
+Verwenden Sie Schnellaktionsschaltflächen, um schnell einen Anruf zu tätigen, eine E-Mail zu senden oder zum [!DNL Linkedin] einer Person zu navigieren.
 
 ## Registerkarte „Target“ {#target-tab}
 
@@ -58,7 +58,7 @@ Anzeige der Rangfolge Ihrer wichtigsten Personen (vom höchsten zum niedrigsten)
 
 * Leads werden generiert, wenn sich ihr persönlicher Score in Marketo erhöht.
 * Wir zeigen die 50 besten Leads.
-* Sie sehen nur die Personen, die Ihnen in Salesforce zugewiesen wurden.
+* Sie sehen nur die Personen, die Ihnen in [!DNL Salesforce] zugewiesen wurden.
 
 ## Symbol-Glossar {#icon-glossary}
 

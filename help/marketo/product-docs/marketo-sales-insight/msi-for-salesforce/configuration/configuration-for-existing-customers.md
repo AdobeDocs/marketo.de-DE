@@ -4,9 +4,9 @@ description: Konfiguration für Bestandskunden - Marketo-Dokumente - Produktdoku
 title: Konfiguration für Bestandskunden
 exl-id: e365f6b5-a3ec-492e-9348-2d3226e6c7eb
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '169'
 ht-degree: 4%
 
 ---
@@ -17,45 +17,45 @@ Richten Sie die folgende Konfiguration ein, um mit der Verwendung des neuen Insi
 
 >[!PREREQUISITES]
 >
->Stellen Sie sicher, dass Sie Ihr Salesforce-Paket auf die neueste Version aktualisiert haben
+>Stellen Sie sicher, dass Sie Ihr [!DNL Salesforce] auf die neueste Version aktualisiert haben
 
-## Konfigurieren von Sales Insights in Marketo {#configure-sales-insight-in-marketo}
+## Konfigurieren von [!DNL Sales Insight] in Marketo {#configure-sales-insight-in-marketo}
 
-1. Öffnen Sie eine neue Registerkarte in Ihrem Browser, um die Anmeldedaten für Marketo Sales Insights von Ihrem Marketo-Konto abzurufen.
+1. Öffnen Sie eine neue Registerkarte in Ihrem Browser, um die [!DNL Marketo Sales Insights] Anmeldeinformationen von Ihrem Marketo-Konto abzurufen.
 
-1. Navigieren Sie zum Bereich **Admin**.
+1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
 
    ![](assets/configuration-for-existing-customers-1.png)
 
-1. Klicken Sie **Sales Insight**.
+1. Klicken Sie **[!UICONTROL Sales Insight]**.
 
    ![](assets/configuration-for-existing-customers-2.png)
 
-1. Klicken Sie auf **Anzeigen**, um die REST-API-Anmeldeinformationen zu füllen.
+1. Klicken Sie auf **[!UICONTROL Anzeigen]**, um die REST-API-Anmeldeinformationen zu füllen.
 
    ![](assets/configuration-for-existing-customers-3.png)
 
-1. Es wird ein Bestätigungs-Popup angezeigt. Klicken Sie auf **OK**.
+1. Es wird ein Bestätigungs-Popup angezeigt. Klicken Sie auf **[!UICONTROL OK]**.
 
-## Konfigurieren von Sales Insights in Salesforce {#configure-sales-insight-in-salesforce}
+## Konfigurieren von [!DNL Sales Insight] in [!DNL Salesforce] {#configure-sales-insight-in-salesforce}
 
-1. Klicken Sie in Salesforce auf **Setup**.
+1. Klicken Sie in Salesforce auf **[!UICONTROL Setup]**.
 
    ![](assets/configuration-for-existing-customers-4.png)
 
-1. Suchen Sie nach **Remotestandorteinstellungen** und wählen Sie sie aus.
+1. Suchen Sie nach **[!UICONTROL Remotestandorteinstellungen]** und wählen Sie sie aus.
 
    ![](assets/configuration-for-existing-customers-5.png)
 
-1. Klicken Sie auf **Neue Remote-Site**.
+1. Klicken Sie auf **[!UICONTROL Neue Remote-Site]**.
 
    ![](assets/configuration-for-existing-customers-6.png)
 
-1. Geben Sie den Namen der Remote-Site (dies kann z. B. „MarketoRestAPI“ sein) und die Remote-Site-URL (Ihre API-URL aus dem Bedienfeld „REST-API-Konfiguration“ in Marketo) ein.
+1. Geben Sie den [!UICONTROL Namen der Remote-Site] (dies kann z. B. „MarketoRestAPI“ sein) und die [!UICONTROL Remote-Site-URL] (Ihre API-URL aus dem Bedienfeld „REST-API-Konfiguration“ in Marketo) ein.
 
    ![](assets/configuration-for-existing-customers-7.png)
 
-1. Klicken Sie auf **Speichern**.
+1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/configuration-for-existing-customers-8.png)
 
@@ -63,8 +63,8 @@ Richten Sie die folgende Konfiguration ein, um mit der Verwendung des neuen Insi
 
 ## Auf Marketo Sales Insight zugreifen {#access-marketo-sales-insight}
 
-1. Kopieren Sie die Anmeldeinformationen aus dem REST-API-Bedienfeld auf der Admin-Seite für Sales Insights in Marketo. Fügen Sie sie in den Abschnitt REST-API auf der Seite Sales Insight-Konfiguration von Salesforce ein.
+1. Kopieren Sie die Anmeldeinformationen aus dem REST-API-Bedienfeld auf [!DNL Marketo’s Sales Insight] Admin-Seite. Fügen Sie sie in den Abschnitt REST-API auf der Seite [!DNL Sales Insight]-Konfiguration von Salesforce ein.
 
-1. Geben Sie den API-Geheimschlüssel ein.
+1. Geben Sie den [!UICONTROL API-Geheimschlüssel] ein.
 
    ![](assets/configuration-for-existing-customers-9.png)

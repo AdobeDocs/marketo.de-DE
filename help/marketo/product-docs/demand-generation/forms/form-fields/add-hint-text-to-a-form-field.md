@@ -4,7 +4,7 @@ description: Hinzufügen von Hinweistext zu einem Formularfeld - Marketo-Dokumen
 title: Hinzufügen von Hinweistext zu einem Formularfeld
 exl-id: 317ca17f-eff7-4c57-ac91-214732b4d8e5
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 1%
@@ -23,23 +23,23 @@ Hinweise und [Anweisungen](/help/marketo/product-docs/demand-generation/forms/fo
 >
 >Formular **Anweisungen** sind kleine QuickInfos, die angezeigt werden, wenn der Besucher den Mauszeiger über das Feld bewegt.
 
-1. Navigieren Sie **Marketing-Aktivitäten**.
+1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities-5.png)
 
-1. Wählen Sie Ihr Formular aus und klicken Sie auf **Formular bearbeiten**.
+1. Wählen Sie Ihr Formular aus und klicken Sie auf **[!UICONTROL Formular bearbeiten]**.
 
    ![](assets/image2014-9-15-13-3a54-3a6.png)
 
-1. Wählen Sie das Feld aus und geben Sie Ihren **Hinweistext** ein.
+1. Wählen Sie das Feld aus und geben Sie Ihren **[!UICONTROL Hinweistext]** ein.
 
    ![](assets/image2014-9-15-13-3a53-3a58.png)
 
-1. Klicken Sie auf **Fertigstellen**.
+1. Klicken Sie auf **[!UICONTROL Fertigstellen]**.
 
    ![](assets/image2014-9-15-13-3a53-3a36.png)
 
-1. Klicken Sie **Genehmigen und schließen**.
+1. Klicken Sie **[!UICONTROL Genehmigen und schließen]**.
 
    ![](assets/image2014-9-15-13-3a53-3a29.png)
 

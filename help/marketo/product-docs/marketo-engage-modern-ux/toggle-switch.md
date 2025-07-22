@@ -3,7 +3,7 @@ description: Umschalter - Marketo-Dokumente - Produktdokumentation
 title: Kippschalter
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
 feature: Modern UX
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '275'
 ht-degree: 0%
@@ -22,11 +22,11 @@ Mit dem Umschalter können Sie zwischen der klassischen Benutzeroberfläche von 
 
 Aktivieren Sie den Umschalter für einzelne Rollen oder für alle Rollen. So geht&#39;s.
 
-1. Klicken Sie in Marketo Engage auf **Admin**.
+1. Klicken Sie in Marketo Engage auf **[!UICONTROL Admin]**.
 
    ![](assets/toggle-switch-1.png)
 
-1. Klicken Sie auf **Neues Erlebnis**.
+1. Klicken Sie auf **[!UICONTROL Neues Erlebnis]**.
 
    ![](assets/toggle-switch-2.png)
 
@@ -36,7 +36,7 @@ Aktivieren Sie den Umschalter für einzelne Rollen oder für alle Rollen. So geh
 
 ## Für Funktionen aktivieren {#enable-for-features}
 
-Sie haben die Möglichkeit, die Marketo Engage Modern UX für einzelne Funktionen oder alle verfügbaren Funktionen (aktuelle und zukünftige) manuell zu aktivieren.
+Sie haben die Möglichkeit, die Marketo Engage Modern UX für einzelne Funktionen oder alle verfügbaren Funktionen (aktuelle und künftige) manuell zu aktivieren.
 
 Klicken Sie in einem Bereich, der derzeit über den Umschalter verfügt (in diesem Beispiel befinden wir uns in der E-Mail-Listenansicht), einfach auf den Umschalter unten rechts auf der Seite.
 
@@ -50,7 +50,7 @@ Um ihn für _Funktionen zu aktivieren_ klicken Sie auf das Zahnradsymbol neben d
 
 ![](assets/toggle-switch-6.png)
 
-Wählen Sie **Für alle verfügbaren Funktionen aktivieren** und klicken Sie auf **OK**.
+Wählen Sie **[!UICONTROL Für alle verfügbaren Funktionen aktivieren]** und klicken Sie auf **[!UICONTROL OK]**.
 
 ![](assets/toggle-switch-7.png)
 

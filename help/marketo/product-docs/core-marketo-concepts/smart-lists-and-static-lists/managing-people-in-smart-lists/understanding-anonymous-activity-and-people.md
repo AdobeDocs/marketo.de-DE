@@ -4,9 +4,9 @@ description: Informationen zu anonymen Aktivitäten und Personen - Marketo-Dokum
 title: Informationen zu anonymen Aktivitäten und Personen
 exl-id: 1676e8f3-9138-42ed-8bb4-40e195391fc4
 feature: Smart Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Wenn jemand zum ersten Mal eine Marketo-Landingpage besucht (oder eine Seite Ihr
 
 >[!IMPORTANT]
 >
->Durch die Aktivierung der Beta-Funktion **Anonyme Wiederholungsaktivität von Munchkin V2 bei Bekannten** sichergestellt, dass Kampagnen, die durch eine anonyme Lead-Promotion ausgelöst werden, immer wiederholt werden, nachdem der anonyme Lead erfolgreich mit dem bekannten Datensatz zusammengeführt wurde. Daher werden benutzerdefinierte Felder, die durch die Schritte „Datenwert ändern“ in allen wiedergegebenen Kampagnen geändert wurden, im bekannten Datensatz beibehalten.
+>Durch die Aktivierung der anonymen Wiederholungsaktivität von Beta Feature **[!DNL Munchkin]V2 bei Bekanntem** sichergestellt, dass Kampagnen, die durch eine anonyme Lead-Promotion ausgelöst werden, immer wiederholt werden, nachdem der anonyme Lead erfolgreich mit dem bekannten Datensatz zusammengeführt wurde. Daher werden benutzerdefinierte Felder, die durch die Schritte „Datenwert ändern“ in allen wiedergegebenen Kampagnen geändert wurden, im bekannten Datensatz beibehalten.
 
 **Eine anonyme** Aktivität wird erstellt, wenn jemand:
 

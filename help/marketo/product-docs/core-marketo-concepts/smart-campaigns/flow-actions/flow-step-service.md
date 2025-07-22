@@ -3,16 +3,16 @@ description: Flow Step Service - Marketo-Dokumente - Produktdokumentation
 title: Flow-Schritt-Service
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
 feature: Smart Campaigns
-source-git-commit: e511d2fda60eabd406bee5ee7441652a546fb35e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '1234'
+source-wordcount: '1233'
 ht-degree: 0%
 
 ---
 
 # Flow-Schritt-Service {#flow-step-service}
 
-Self-Service Flow Steps ist ein Framework und eine Reihe von Funktionen für das Verfassen, Veröffentlichen und Integrieren von Web-Services in Adobe Marketo Engage Smart Campaign. Dieses Handbuch richtet sich an Marketo Engage-Endbenutzer, die bereits erstellte und veröffentlichte Services installieren und verwenden möchten. Informationen zum Verfassen und Veröffentlichen Ihres eigenen Services finden Sie im [GitHub-Repository für die Service Provider-Oberfläche](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target="_blank"}. Eine Implementierung der Proof-of-Concept-Lookup-Tabelle finden Sie [hier](https://github.com/adobe/mkto-flow-lookup){target="_blank"}.
+Self-Service Flow Steps ist ein Framework und eine Reihe von Funktionen für das Verfassen, Veröffentlichen und Integrieren von Web-Services in Adobe Marketo Engage Smart Campaign. Dieses Handbuch richtet sich an Marketo Engage-Endbenutzer, die Services installieren und verwenden möchten, die bereits erstellt und veröffentlicht wurden. Informationen zum Verfassen und Veröffentlichen Ihres eigenen Services finden Sie im [[!DNL GitHub] Repository für die Benutzeroberfläche des Dienstleisters](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target="_blank"}. Eine Implementierung der Proof-of-Concept-Lookup-Tabelle finden Sie [hier](https://github.com/adobe/mkto-flow-lookup){target="_blank"}.
 
 ## Onboarding und Verwalten von Services {#onboarding-and-managing-services}
 
@@ -20,7 +20,7 @@ Die Installation eines benutzerdefinierten Flussschritts erfordert Administrator
 
 ## Installations-URL {#installation-url}
 
-Um mit der Installation zu beginnen, müssen Sie zunächst die URL des OpenAPI-Dokuments abrufen, das Ihren Dienst definiert. Ihr Dienstleister sollte Ihnen dies zur Verfügung stellen können und wird in der Regel eine URL haben, die auf `/openapi.json` endet. Vollständige URLs sehen in etwa so aus wie `https://www.example.com/OpenAPI.json`. Sobald Sie diese URL haben, gehen Sie zum Menü „Dienstleister“ in Ihrem Admin-Bereich.
+Um mit der Installation zu beginnen, müssen Sie zunächst die URL des OpenAPI-Dokuments abrufen, das Ihren Dienst definiert. Ihr Dienstleister sollte Ihnen dies zur Verfügung stellen können und wird in der Regel eine URL haben, die auf `/openapi.json` endet. Vollständige URLs sehen in etwa so aus wie `https://www.example.com/OpenAPI.json`. Sobald Sie diese URL haben, gehen Sie zum Menü [!UICONTROL Dienstleister] in Ihrem [!UICONTROL Admin] Abschnitt.
 
 Klicken Sie **[!UICONTROL Weiter]**, um zum Abschnitt Service-Anmeldeinformationen eingeben zu wechseln.
 
@@ -90,7 +90,7 @@ Installierte Fließschritte können weitgehend genauso wie normale Fließschritt
 
 ## Picklisten werden aktualisiert {#refreshing-picklists}
 
-Marketo aktualisiert die Auswahllistenoptionen für Services jede Nacht. In manchen Fällen sind jedoch neue Auswahlmöglichkeiten erforderlich, z. B. bei der Kampagnenerstellung. Sie können diese einfach von jeder Instanz Ihres Flussschritts aus aktualisieren, indem Sie die Schaltfläche Aktualisieren verwenden, oder indem Sie zum Menü Admin > Dienstleister gehen und auf Auswahlliste aktualisieren klicken, nachdem Sie Ihren Dienst ausgewählt haben.
+Marketo aktualisiert die Auswahllistenoptionen für Services jede Nacht. In manchen Fällen sind jedoch neue Auswahlmöglichkeiten erforderlich, z. B. bei der Kampagnenerstellung. Sie können diese einfach von jeder Instanz Ihres Flussschritts aus aktualisieren, indem Sie die Schaltfläche Aktualisieren verwenden, oder indem Sie zum Menü [!UICONTROL Admin] > [!UICONTROL Dienstleister] wechseln und auf [!UICONTROL Auswahlliste aktualisieren] klicken, nachdem Sie Ihren Dienst ausgewählt haben.
 
 ## Überprüfen eingehender Felder {#checking-incoming-fields}
 

@@ -4,7 +4,7 @@ description: Ändern der Formularschriftfamilie - Marketo-Dokumente - Produktdok
 title: Ändern der Formularschriftfamilie
 exl-id: eb5e861b-6e0b-4291-9944-828ea00f1869
 feature: Forms
-source-git-commit: 8ff62b372b4d0f98ab88c569bdc3608eb63b70c7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 1%
@@ -19,19 +19,19 @@ Google Fonts sind großartig, und wir haben sie direkt in den Formulareditor int
 >
 >Diese Einstellung wirkt sich auf die Formularbeschriftung, den Eingabetext und jeden Rich-Text aus.
 
-1. Navigieren Sie **Marketing-Aktivitäten**.
+1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Wählen Sie Ihr Formular aus und klicken Sie auf **Formular bearbeiten**.
+1. Wählen Sie Ihr Formular aus und klicken Sie auf **[!UICONTROL Formular bearbeiten]**.
 
    ![](assets/image2014-9-15-15-3a47-3a27.png)
 
-1. Wählen **unter &quot;**&quot; die Option **Einstellungen** aus.
+1. Wählen **[!UICONTROL unter &quot;]**&quot; die Option **[!UICONTROL Einstellungen]** aus.
 
    ![](assets/image2014-9-15-15-3a47-3a56.png)
 
-1. Wählen Sie **gewünschte** aus.
+1. Wählen Sie **[!UICONTROL gewünschte]** aus.
 
    >[!TIP]
    >
@@ -39,11 +39,11 @@ Google Fonts sind großartig, und wir haben sie direkt in den Formulareditor int
 
    ![](assets/image2014-9-15-16-3a0-3a8.png)
 
-1. Klicken Sie auf **Fertigstellen**.
+1. Klicken Sie auf **[!UICONTROL Fertigstellen]**.
 
    ![](assets/image2014-9-15-16-3a0-3a15.png)
 
-1. Klicken Sie **Genehmigen und schließen**.
+1. Klicken Sie **[!UICONTROL Genehmigen und schließen]**.
 
    >[!NOTE]
    >

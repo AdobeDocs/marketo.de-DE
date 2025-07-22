@@ -4,9 +4,9 @@ description: Häufig gestellte Fragen zu Inhalten und Dateianhängen - Marketo-D
 title: Häufig gestellte Fragen zu Inhalten und Dateianlagen
 exl-id: 4dc1261d-bcbe-4b3b-a384-83e022733229
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '261'
 ht-degree: 0%
 
 ---
@@ -17,17 +17,17 @@ ht-degree: 0%
 
 Ein **Dateianhang** ist wie ein Dateianhang, den Sie in Ihrem normalen E-Mail-Client verwenden würden.
 
-**Inhalt** wird verwendet, um alle Dateien (PPT, PDF, Word-Dokument usw.) zu beschreiben, die von Sales Connect verfolgt werden sollen.
+**Inhalt** wird verwendet, um alle Dateien (PPT, PDF, Word-Dokumente usw.) zu beschreiben, die von [!DNL Sales Connect] verfolgt werden sollen.
 
 Wenn Sie auf diese Schaltfläche klicken, können Sie eine bereits hochgeladene Datei auswählen oder eine neue Datei hochladen, die verfolgt werden soll. Anschließend fügen wir einen Link in die E-Mail oder Vorlage ein, die Sie verwenden.
 
-Auf der empfangenden Seite klickt der Empfänger auf den Link und der Inhalt wird im Browser ausgefüllt. Auf diese Weise können wir jede Seitenansicht verfolgen und sie dem Sales Connect-Benutzer im Live-Feed melden.
+Auf der empfangenden Seite klickt der Empfänger auf den Link und der Inhalt wird im Browser ausgefüllt. Auf diese Weise können wir jede Seitenansicht verfolgen und sie dem [!DNL Sales Connect] Benutzer im Live-Feed melden.
 
-Datei- und Inhaltsoptionen sind verfügbar in: einmalige E-Mails, Vorlagen, Kampagnen, Outlook (sowohl Windows als auch Mac), Gmail und OWA.
+Datei- und Inhaltsoptionen sind verfügbar in: einmalige E-Mails, Vorlagen, Kampagnen, [!DNL Outlook] (sowohl [!DNL Windows] als auch Mac), Gmail und OWA.
 
 ## Wer verwaltet die Inhalte und wo werden sie gespeichert? {#who-manages-the-content-and-where-is-it-stored}
 
-Inhalte können von jedem Benutzer, der die Möglichkeit hat, Vorlagen zu erstellen, in das Sales Connect-Repository hochgeladen werden. Das bedeutet, dass Benutzer Inhalte ihrer Wahl hochladen können.
+Inhalte können von jedem Benutzer, der die Möglichkeit hat, Vorlagen zu erstellen, in das [!DNL Sales Connect]-Repository hochgeladen werden. Das bedeutet, dass Benutzer Inhalte ihrer Wahl hochladen können.
 
 ## Können Inhalte, Playbooks, Vorlagen usw. von Teams erstellt/organisiert werden? {#can-content-playbooks-templates-etc-be-created-organized-by-teams}
 

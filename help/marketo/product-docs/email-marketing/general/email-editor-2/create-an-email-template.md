@@ -4,7 +4,7 @@ description: Erstellen einer E-Mail-Vorlage - Marketo-Dokumente - Produktdokumen
 title: E-Mail-Vorlage erstellen
 exl-id: dfd91254-03fa-4f91-995d-ae4fe549a98d
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Gehen Sie wie folgt vor, um eine neue E-Mail-Vorlage zu erstellen.
 
 >[!NOTE]
 >
->Der Marketo-Support ist nicht für die Fehlerbehebung beim benutzerdefinierten HTML eingerichtet. Wenn Sie Hilfe beim HTML benötigen, wenden Sie sich bitte an einen Web-Entwickler.
+>Der Marketo-Support ist nicht für die Fehlerbehebung bei benutzerdefiniertem HTML eingerichtet. Wenn Sie Hilfe zu HTML benötigen, wenden Sie sich bitte an einen Web-Entwickler.
 
 >[!CAUTION]
 >
@@ -25,19 +25,19 @@ Gehen Sie wie folgt vor, um eine neue E-Mail-Vorlage zu erstellen.
 
 ## Erstellen einer neuen E-Mail-Vorlage {#create-a-new-email-template}
 
-1. Klicken Sie auf **Design Studio**.
+1. Klicken Sie auf **[!UICONTROL Design Studio]**.
 
    ![](assets/designstudio.png)
 
-1. Klicken Sie **Neu** und wählen Sie **Neue E-Mail-Vorlage**.
+1. Klicken Sie **[!UICONTROL Neu]** und wählen Sie **[!UICONTROL Neue E-Mail-Vorlage]**.
 
    ![](assets/ds-two.png)
 
-1. Benennen Sie Ihre neue Vorlage und klicken Sie auf **Erstellen**.
+1. Benennen Sie Ihre neue Vorlage und klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/three-1.png)
 
-1. Um mit der Bearbeitung der neuen Vorlage zu beginnen, klicken Sie **Entwurf bearbeiten**.
+1. Um mit der Bearbeitung der neuen Vorlage zu beginnen, klicken Sie **[!UICONTROL Entwurf bearbeiten]**.
 
    ![](assets/4.png)
 
@@ -49,19 +49,19 @@ Gehen Sie wie folgt vor, um eine neue E-Mail-Vorlage zu erstellen.
 
 Wenn Sie eine E-Mail erstellt haben, die Sie als Vorlage für die zukünftige Verwendung speichern möchten, führen Sie die folgenden einfachen Schritte aus.
 
-1. Klicken Sie **Marketing-Aktivitäten**.
+1. Klicken Sie **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/one.png)
 
-1. Suchen Sie Ihre E-Mail, wählen Sie sie aus und klicken Sie auf **Entwurf bearbeiten**.
+1. Suchen Sie Ihre E-Mail, wählen Sie sie aus und klicken Sie auf **[!UICONTROL Entwurf bearbeiten]**.
 
    ![](assets/two-1.png)
 
-1. Klicken Sie auf **E-Mail** Aktionen) und wählen Sie **Als Vorlage speichern**.
+1. Klicken Sie auf **[!UICONTROL E-Mail]** Aktionen) und wählen Sie **[!UICONTROL Als Vorlage speichern]**.
 
    ![](assets/four-1.png)
 
-1. Klicken Sie auf **Ordner**, wählen Sie aus, wo die Vorlage gespeichert werden soll, und klicken Sie auf **Speichern**.
+1. Klicken Sie auf **[!UICONTROL Ordner]**, wählen Sie aus, wo die Vorlage gespeichert werden soll, und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/five-1.png)
 

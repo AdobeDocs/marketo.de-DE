@@ -1,10 +1,10 @@
 ---
 unique-page-id: 12979223
-description: Einrichten von Account Insight - Marketo Docs - Produktdokumentation
+description: Einrichten des Kontos Insight - Marketo-Dokumente - Produktdokumentation
 title: Einrichten von Account Insight
 exl-id: 50e24974-339b-4a42-b5ca-2e80ab47d313
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 3%
@@ -19,19 +19,19 @@ Gehen Sie wie folgt vor, um Account Insight einzurichten.
 >
 >TAM-Kontobewertung [muss zuerst konfiguriert ](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md).
 
-1. Klicken Sie auf **Admin**.
+1. Klicken Sie auf **[!UICONTROL Admin]**.
 
    ![](assets/admin-1.png)
 
-1. Klicken Sie in **Struktur auf** Target-Kontoverwaltung“ und dann auf die Registerkarte **Verkauf**.
+1. Klicken Sie in **[!UICONTROL Struktur auf]** Target-Kontoverwaltung“ und dann auf die Registerkarte **[!UICONTROL Verkauf]**.
 
    ![](assets/set-up-account-insight-2.png)
 
-1. Klicken Sie auf **Bearbeiten**.
+1. Klicken Sie auf **[!UICONTROL Bearbeiten]**.
 
    ![](assets/set-up-account-insight-3.png)
 
-1. Klicken Sie auf die Dropdown-Listen, um festzulegen, wie Account Insight benannten Konten und engagierten Personen Priorität einräumt.
+1. Klicken Sie auf die Dropdown-Listen, um festzulegen, wie Account Insight benannte Konten und interaktive Personen priorisiert.
 
    ![](assets/four-4.png)
 
@@ -39,6 +39,6 @@ Gehen Sie wie folgt vor, um Account Insight einzurichten.
    >
    >Wenn die [Kontobewertungseinstellungen](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md) jederzeit aktualisiert werden, muss die Konfiguration unter „Verkauf“ von einem Administrator aktualisiert werden, um sicherzustellen, dass die Bewertungen die Voreinstellungen des Benutzers genau widerspiegeln. Der Benutzer muss sich abmelden und wieder anmelden, um die Änderungen zu sehen.
 
-1. Klicken Sie auf **Speichern**.
+1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/five-4.png)

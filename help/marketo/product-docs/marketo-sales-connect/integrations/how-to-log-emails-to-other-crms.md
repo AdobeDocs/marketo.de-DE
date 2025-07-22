@@ -4,9 +4,9 @@ description: So protokollieren Sie E-Mails bei anderen CRMs - Marketo-Dokumente 
 title: So protokollieren Sie E-Mails bei anderen CRMs
 exl-id: 29b34be0-685f-4c80-920d-d33ff7d02f5d
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '157'
 ht-degree: 1%
 
 ---
@@ -19,18 +19,18 @@ Wenn Ihr CRM-System eine BCC-Adresse bereitstellt, können Sie im CRM-Abschnitt 
 
 **Fast jedes CRM**:
 
-* Unsere automatische BCC-Funktion funktioniert mit fast allen CRM-Aufzeichnungs-E-Mails, die Sie mit Sales Connect an Ihre Leads gesendet haben. Stellen Sie einfach sicher, dass Ihr CRM Ihrer Wahl Ihnen eine BCC-Adresse zur Verfügung stellt, um diese nutzen zu können.
+* Unsere automatische BCC-Funktion funktioniert mit fast allen CRMs, die Sie mit [!DNL Sales Connect] an Ihre Leads gesendet haben. Stellen Sie einfach sicher, dass Ihr CRM Ihrer Wahl Ihnen eine BCC-Adresse zur Verfügung stellt, um diese nutzen zu können.
 
-**Salesforce**:
+**[!DNL Salesforce]**:
 
 * Wir tun alle oben genannten und mehr!
 
 ## So stellen Sie eine Verbindung zu anderen CRMs her {#how-to-connect-to-other-crms}
 
-1. Klicken Sie auf **Einstellungen**.
+1. Klicken Sie auf **[!UICONTROL Einstellungen]**.
 1. Klicken Sie auf **CRM**.
-1. Klicken Sie **Verbinden** unter „Andere CRMs“.
-1. Klicken Sie **Konfigurieren** und fügen Sie dann Ihre BCC-Adresse unter „E-Mail an BCC“ ein.
-1. Klicken Sie **Speichern** und Ihre BCC-Adresse wird in Sales Connect gespeichert.
+1. Klicken Sie **[!UICONTROL Verbinden]** unter „Andere CRMs“.
+1. Klicken Sie **[!UICONTROL Konfigurieren]** und fügen Sie dann Ihre BCC-Adresse unter „E-Mail an BCC“ ein.
+1. Klicken Sie **[!UICONTROL Speichern]** und Ihre BCC-Adresse wird in [!DNL Sales Connect] gespeichert.
 
    E-Mails werden jetzt über BCC in Ihrem CRM protokolliert.

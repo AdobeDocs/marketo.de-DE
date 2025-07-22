@@ -4,7 +4,7 @@ description: Formulardesign auswählen - Marketo-Dokumente - Produktdokumentatio
 title: Formulardesign auswählen
 exl-id: 7b1fa1f6-2507-45f9-974d-e31bc9d7a683
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 5%
@@ -15,19 +15,19 @@ ht-degree: 5%
 
 Wir haben eine Reihe von schönen Themen für Ihre Formulare erstellt. Was magst du am liebsten?
 
-1. Navigieren Sie **Marketing-Aktivitäten**.
+1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Wählen Sie Ihr Formular aus und klicken Sie auf **Formular bearbeiten**.
+1. Wählen Sie Ihr Formular aus und klicken Sie auf **[!UICONTROL Formular bearbeiten]**.
 
    ![](assets/editform.png)
 
-1. Navigieren Sie zu **Formulareinstellungen**.
+1. Navigieren Sie zu **[!UICONTROL Formulareinstellungen]**.
 
    ![](assets/image2014-9-15-17-7-7.png)
 
-1. Schalten Sie vor und zurück, um das **Formular-Design** nach Ihren Wünschen auszuwählen.
+1. Schalten Sie vor und zurück, um das **[!UICONTROL Formular-Design]** nach Ihren Wünschen auszuwählen.
 
    ![](assets/image2014-9-15-17-3a7-3a20.png)
 
@@ -36,7 +36,7 @@ Wir haben eine Reihe von schönen Themen für Ihre Formulare erstellt. Was magst
    * Einfach
    * Eingelassen
    * Schimmernd
-   * Rund
+   * Round
    * Dunkel
    * Schattiert
    * Schlicht
@@ -45,7 +45,7 @@ Wir haben eine Reihe von schönen Themen für Ihre Formulare erstellt. Was magst
    >
    >Sie können auch [CSS Ihres Formulardesigns bearbeiten](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md).
 
-1. Klicken Sie auf **Weiter**, um andere Formularoptionen zu konfigurieren, oder klicken Sie auf **Beenden**, wenn Sie nur das Formulardesign ändern möchten.
+1. Klicken Sie auf **[!UICONTROL Weiter]**, um andere Formularoptionen zu konfigurieren, oder klicken Sie auf **[!UICONTROL Beenden]**, wenn Sie nur das Formulardesign ändern möchten.
 
    ![](assets/image2014-9-15-17-3a8-3a22.png)
 

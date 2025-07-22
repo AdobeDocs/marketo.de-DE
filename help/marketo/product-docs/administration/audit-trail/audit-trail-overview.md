@@ -1,10 +1,10 @@
 ---
 unique-page-id: 11377945
-description: Audit-Protokoll - Übersicht - Marketo-Dokumente - Produktdokumentation
+description: Audit-Protokoll] Übersicht - Marketo-Dokumente - Produktdokumentation
 title: Audit-Protokoll - Übersicht
 exl-id: e8aff7b7-72ca-4d4e-9159-56ff65f6345c
 feature: Audit Trail
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '332'
 ht-degree: 0%
@@ -46,7 +46,7 @@ Marketo prüft die [Erstellen, Bearbeiten und Löschen](/help/marketo/product-do
 
 >[!NOTE]
 >
->Marketo prüft _nicht_ Änderungen, die derzeit in Web Personalization, Predictive Content oder Sales Insights vorgenommen werden.
+>Marketo prüft _nicht_ Änderungen, die derzeit in Web Personalization, Predictive Content oder Sales Insight vorgenommen werden.
 
 ## Audit-Protokoll-Komponenten {#audit-trail-components}
 

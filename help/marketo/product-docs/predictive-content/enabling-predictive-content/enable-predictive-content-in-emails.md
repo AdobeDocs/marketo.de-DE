@@ -4,7 +4,7 @@ description: Aktivieren von prädiktiven Inhalten in E-Mails - Marketo-Dokumente
 title: Aktivieren von prädiktivem Inhalt in E-Mails
 exl-id: 7eaefee1-23e8-47ee-afff-adcf49096aa7
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '392'
 ht-degree: 0%
@@ -33,19 +33,19 @@ Erstellen Sie ein oder mehrere Bilder in Ihrer E-Mail prädiktiv und passen Sie 
 
 ## Hinzufügen prädiktiver Inhalte mit dem E-Mail-Editor 2.0 {#adding-predictive-content-using-the-email-editor}
 
-1. Klicken Sie **Marketing-Aktivitäten**.
+1. Klicken Sie **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/one.png)
 
-1. Wählen Sie Ihre E-Mail aus und klicken Sie **Entwurf bearbeiten**.
+1. Wählen Sie Ihre E-Mail aus und klicken Sie **[!UICONTROL Entwurf bearbeiten]**.
 
    ![](assets/two.png)
 
-1. Klicken Sie auf das Bild, das Sie prädiktiv gestalten möchten. Wenn das Zahnradsymbol angezeigt wird, klicken Sie darauf und wählen **ContentAI aktivieren** (ContentAI ist der frühere Name für Prognoseinhalte).
+1. Klicken Sie auf das Bild, das Sie prädiktiv gestalten möchten. Wenn das Zahnradsymbol angezeigt wird, klicken Sie darauf und wählen **[!UICONTROL ContentAI aktivieren]** (ContentAI ist der frühere Name für Prognoseinhalte).
 
    ![](assets/three.png)
 
-1. Um eine oder mehrere Kategorien auszuwählen, klicken Sie auf **Kategorien** Dropdown-Liste, nehmen Sie Ihre Auswahl(en) vor und klicken Sie auf **Anwenden**.
+1. Um eine oder mehrere Kategorien auszuwählen, klicken Sie auf **[!UICONTROL Kategorien]** Dropdown-Liste, nehmen Sie Ihre Auswahl(en) vor und klicken Sie auf **[!UICONTROL Anwenden]**.
 
    ![](assets/four.png)
 
@@ -57,11 +57,11 @@ Erstellen Sie ein oder mehrere Bilder in Ihrer E-Mail prädiktiv und passen Sie 
 
    ![](assets/five.png)
 
-1. Um eine Vorschau Ihrer E-Mail anzuzeigen **klicken Sie** der oberen rechten Ecke auf „Vorschau“.
+1. Um eine Vorschau Ihrer E-Mail anzuzeigen **[!UICONTROL klicken Sie]** der oberen rechten Ecke auf „Vorschau“.
 
    ![](assets/six.png)
 
-1. Um verschiedene mögliche Bilder anzuzeigen, klicken Sie auf **Aktualisieren**.
+1. Um verschiedene mögliche Bilder anzuzeigen, klicken Sie auf **[!UICONTROL Aktualisieren]**.
 
    ![](assets/seven.png)
 
@@ -69,7 +69,7 @@ Erstellen Sie ein oder mehrere Bilder in Ihrer E-Mail prädiktiv und passen Sie 
    >
    >Das Bild wird erst ausgewählt **_wenn der Empfänger die E-Mail öffnet_**. Was Sie also in der Vorschau sehen, ist nur ein Beispiel und ist nicht unbedingt das Bild, das der Empfänger sieht.
 
-1. Nachdem Sie die Vorschau Ihrer E-Mail abgeschlossen haben, klicken Sie auf die Dropdown-Liste **Vorschauaktionen** und wählen Sie **Genehmigen und schließen**. Oder klicken Sie, falls Sie noch Bearbeitungsaufgaben haben, auf **rechten Seite** Entwurf bearbeiten“.
+1. Nachdem Sie die Vorschau Ihrer E-Mail abgeschlossen haben, klicken Sie auf die Dropdown-Liste **[!UICONTROL Vorschauaktionen]** und wählen Sie **[!UICONTROL Genehmigen und schließen]**. Oder klicken Sie, falls Sie noch Bearbeitungsaufgaben haben, auf **[!UICONTROL rechten Seite]** Entwurf bearbeiten“.
 
    ![](assets/eight.png)
 

@@ -4,7 +4,7 @@ description: Verwenden der „Betreffzeile“ von A/B-Tests - Marketo-Dokumente 
 title: Verwenden von A/B-Tests der „Betreffzeile“
 exl-id: 99c2415e-886b-44fa-ba96-5d4ec371753e
 feature: Email Programs, A/B Testing
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '240'
 ht-degree: 0%
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Verwenden von A/B-Tests der „Betreffzeile“ {#use-subject-line-a-b-testing}
 
-Sie können Ihre E-Mails einfach mit A/B-Tests überprüfen. Einer der häufigsten Tests ist der **Betreffzeile** Test.
+Sie können Ihre E-Mails einfach mit A/B-Tests überprüfen. Einer der häufigsten Tests ist der **[!UICONTROL Betreffzeile]** Test.
 
 >[!PREREQUISITES]
 >
 >[Hinzufügen eines A/B-Tests](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 
-1. Klicken Sie unter der Kachel E-Mail mit ausgewählter E-Mail auf A/B-Test hinzufügen .
+1. Klicken Sie unter der **[!UICONTROL E-Mail]**-Kachel mit ausgewählter E-Mail auf **[!UICONTROL A/B-Test hinzufügen]**.
 
 ![](assets/image2014-9-12-15-3a6-3a2.png)
 
@@ -35,7 +35,7 @@ Sie können Ihre E-Mails einfach mit A/B-Tests überprüfen. Einer der häufigst
    >
    >Sie können auf das **+** klicken, um weitere Betreffzeilen hinzuzufügen.
 
-1. Verwenden Sie den Schieberegler, um den Prozentsatz der Zielgruppe auszuwählen, den Sie Ihren A/B-Test erhalten möchten, und klicken Sie auf **Weiter**.
+1. Verwenden Sie den Schieberegler, um den Prozentsatz der Zielgruppe auszuwählen, den Sie Ihren A/B-Test erhalten möchten, und klicken Sie auf **[!UICONTROL Weiter]**.
 
    ![](assets/image2014-9-12-15-3a10-3a4.png)
 

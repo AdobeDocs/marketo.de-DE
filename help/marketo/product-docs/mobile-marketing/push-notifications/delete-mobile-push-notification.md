@@ -4,7 +4,7 @@ description: Mobile Push-Benachrichtigung löschen - Marketo-Dokumente - Produkt
 title: Mobile Push-Benachrichtigung löschen
 exl-id: 1f9d523e-b7aa-4880-8249-48cce92751aa
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 11%
@@ -13,7 +13,7 @@ ht-degree: 11%
 
 # Mobile Push-Benachrichtigung löschen {#delete-mobile-push-notification}
 
-1. Navigieren Sie zum Bereich **Marketing** Aktivitäten.
+1. Navigieren Sie zum Bereich **[!UICONTROL Marketing]** Aktivitäten.
 
 ![](assets/image2015-4-22-18-3a42-3a36.png)
 
@@ -21,11 +21,11 @@ ht-degree: 11%
 
    ![](assets/image2015-4-22-18-3a43-3a21.png)
 
-1. Klicken **unter „Push** Benachrichtigungsaktionen“ auf **Löschen**.
+1. Klicken **[!UICONTROL unter „Push]** Benachrichtigungsaktionen“ auf **[!UICONTROL Löschen]**.
 
    ![](assets/image2015-4-22-18-3a43-3a38.png)
 
-1. Bestätigen Sie mit **Löschen**.
+1. Bestätigen Sie mit **[!UICONTROL Löschen]**.
 
    ![](assets/image2015-4-22-18-3a43-3a51.png)
 

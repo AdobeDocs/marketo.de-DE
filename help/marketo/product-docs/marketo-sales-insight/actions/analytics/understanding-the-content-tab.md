@@ -3,16 +3,16 @@ description: Informationen zur Registerkarte „Inhalt“ - Marketo-Dokumente - 
 title: Grundlegendes zur Registerkarte „Inhalt“
 exl-id: 67d13ce6-8a21-4dce-b865-3e7115ac4c4b
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
 
 ---
 
-# Grundlegendes zur Registerkarte „Inhalt“ {#understanding-the-content-tab}
+# Grundlegendes zur Registerkarte [!UICONTROL Inhalt] {#understanding-the-content-tab}
 
-Auf der Registerkarte Inhalt dreht sich alles um die E-Mail-Interaktion Ihres Teams bei der Verwendung einer Vorlage. Wir sprechen automatisch drei Metriken aus, die wir für wichtig halten.
+Auf [!UICONTROL  Registerkarte ]Inhalt“ dreht sich alles um die E-Mail-Interaktion Ihres Teams bei der Verwendung einer Vorlage. Wir sprechen automatisch drei Metriken aus, die wir für wichtig halten.
 
 ## Geheimwaffe {#secret-weapon}
 

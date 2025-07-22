@@ -4,7 +4,7 @@ description: Hinzufügen eines Links zu einem Bild in einer Freiform-Landingpage
 title: Hinzufügen eines Links zu einem Bild in einer Freiform-Landingpage
 exl-id: ad845417-2414-407f-998b-eeebe38f328f
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 0%
@@ -23,11 +23,11 @@ Möchten Sie ein Bild auf Ihrer Landingpage als Link zu einer anderen Seite/Site
 
    ![](assets/click-on-image.png)
 
-1. Erweitern Sie das **Eigenschaftenblatt**.
+1. Erweitern Sie das **[!UICONTROL Eigenschaftenblatt]**.
 
    ![](assets/image2015-5-21-15-3a42-3a27.png)
 
-1. Kopieren Sie den Link oder geben Sie ihn in das Feld **linkUrl** ein.
+1. Kopieren Sie den Link oder geben Sie ihn in das Feld **[!UICONTROL linkUrl]** ein.
 
    ![](assets/add-link.png)
 

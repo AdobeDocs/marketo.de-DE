@@ -4,7 +4,7 @@ description: Anwenden von Eingabemaskierung auf ein Feld in einem Formular - Mar
 title: Anwenden von Eingabemaskierung auf ein Feld in einem Formular
 exl-id: cb99bf10-0d0c-4161-a4e9-ec24700b1b31
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 1%
@@ -15,27 +15,27 @@ ht-degree: 1%
 
 Sie können die Eingabe Ihres Besuchers mithilfe einer Eingabemaske einschränken. Beispielsweise können Sie möchten, dass Besucherinnen und Besucher Telefonnummern nur in einem bestimmten Format eingeben.
 
-1. Navigieren Sie **Marketing-Aktivitäten**.
+1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities-4.png)
 
-1. Wählen Sie Ihr Formular aus und klicken Sie auf **Formular bearbeiten**.
+1. Wählen Sie Ihr Formular aus und klicken Sie auf **[!UICONTROL Formular bearbeiten]**.
 
    ![](assets/image2014-9-15-13-3a40-3a44.png)
 
-1. Wählen Sie Ihr Feld aus und stellen Sie sicher **dass** Feldtyp“ auf &quot;**&quot;**.
+1. Wählen Sie Ihr Feld aus und stellen Sie sicher **[!UICONTROL dass „Feldtyp]***&quot; auf &quot;**[!UICONTROL &quot;]**.
 
    >[!NOTE]
    >
-   >Die Eingabemaskierung funktioniert nur mit **Textfeldtypen**.
+   >Die Eingabemaskierung funktioniert nur mit **[!UICONTROL Textfeldtypen]**.
 
    ![](assets/image2014-9-15-13-3a40-3a53.png)
 
-1. Klicken Sie auf **Link** Maskeneingabe“.
+1. Klicken Sie auf **[!UICONTROL Link]** Maskeneingabe“.
 
    ![](assets/image2014-9-15-13-3a41-3a3.png)
 
-1. Geben Sie Ihre Eingabemaske ein und klicken Sie auf **Speichern**.
+1. Geben Sie Ihre Eingabemaske ein und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/image2014-9-15-13-3a41-3a14.png)
 
@@ -43,11 +43,11 @@ Sie können die Eingabe Ihres Besuchers mithilfe einer Eingabemaske einschränke
    >
    >Achten Sie auf die Maskierungsregeln. Sie können die Eingabe auf Zahlen, Buchstaben und beides beschränken und/oder sogar die Anzahl der eingegebenen Zeichen begrenzen.
 
-1. Klicken Sie auf **Fertigstellen**.
+1. Klicken Sie auf **[!UICONTROL Fertigstellen]**.
 
    ![](assets/image2014-9-15-13-3a41-3a22.png)
 
-1. Klicken Sie **Genehmigen und schließen**.
+1. Klicken Sie **[!UICONTROL Genehmigen und schließen]**.
 
    ![](assets/image2014-9-15-13-3a41-3a28.png)
 

@@ -4,9 +4,9 @@ description: Implementieren von RTP mit Adobe Tag Manager - Marketo-Dokumente - 
 title: Implementieren von RTP mit Adobe Tag Manager
 exl-id: 5a938d02-6b09-45d5-94b0-dbb50b5d62b6
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '208'
 ht-degree: 0%
 
 ---
@@ -17,35 +17,35 @@ Um Ihr RTP-Tag zu implementieren, befolgen Sie die folgenden Installationsanweis
 
 1. Melden Sie sich bei Ihrem RTP-Konto an.
 
-1. Navigieren Sie **Kontoeinstellungen**.
+1. Navigieren Sie **[!UICONTROL Kontoeinstellungen]**.
 
    a. Wenn Sie Ihr JavaScript-Tag bereits vom Support erhalten haben, fahren Sie mit Schritt 4 fort.
 
    ![](assets/image2014-11-30-15-3a19-3a21-4.png)
 
-1. Suchen Sie unter „Domain“ nach der entsprechenden Domain und klicken Sie auf **Tag generieren**.
+1. Suchen Sie unter [!UICONTROL Domain] die entsprechende Domain und klicken Sie auf **[!UICONTROL Tag generieren]**.
 
    ![](assets/image2014-11-30-15-3a20-3a17-4.png)
 
-1. Melden Sie sich bei Ihrem Dynamic Tag Manager-Konto an ([https://dtm.adobe.com/sign_in](https://dtm.adobe.com/sign_in)).
+1. Melden Sie sich bei Ihrem [!DNL Dynamic Tag Manager] Konto an ([https://dtm.adobe.com/sign_in](https://dtm.adobe.com/sign_in)).
 
-1. Wechseln Sie zu **Dashboard.** Klicken Sie auf die entsprechende Web-Eigenschaft.
+1. Navigieren Sie zu **[!UICONTROL Dashboard].** Klicken Sie auf die entsprechende Web-Eigenschaft.
 
    ![](assets/image2014-12-3-17-3a58-3a17.png)
 
-1. Navigieren Sie zu **Regeln** und klicken Sie auf **Neue Regel erstellen**.
+1. Navigieren Sie zu **[!UICONTROL Regeln]** und klicken Sie auf **[!UICONTROL Neue Regel erstellen]**.
 
 1. Füllen Sie Folgendes aus
 
-   1. Name: **Marketo RTP**
-   1. Bedingungen (reduzieren) : Trigger-Regel bei - **Seitenanfang**
-   1. JavaScript (reduzieren): Klicken Sie auf **Neues Skript hinzufügen**
+   1. [!UICONTROL Name]: **Marketo RTP**
+   1. [!UICONTROL Bedingungen] (reduzieren) : Trigger-Regel bei - **[!UICONTROL Seitenanfang]**
+   1. [!UICONTROL JavaScript] (reduzieren): klicken Sie auf **[!UICONTROL Neues Skript hinzufügen]**
 
    ![](assets/image2014-12-3-17-3a59-3a40.png)
 
 1. Rufen Sie das neue Tag auf: **Marketo RTP-Tag**
 
-1. Entfernen Sie den folgenden Code aus dem RTP-Tag
+1. Entfernen Sie den folgenden Code aus dem [!UICONTROL RTP-Tag]
 
    * `<script type='text/javascript'>`
    * `</script>`
@@ -58,12 +58,12 @@ Um Ihr RTP-Tag zu implementieren, befolgen Sie die folgenden Installationsanweis
    >
    >Entfernen Sie alle Tags und belassen Sie nur das Skript selbst (keine `<script type='text/javascript'>` , `</script>` )
 
-1. Klicken Sie **Skript** Editor auf „Code speichern“ und **Regel speichern** im Regeleditor.
+1. Klicken Sie **[!UICONTROL Skript]** Editor auf „Code speichern“ und **[!UICONTROL Regel speichern]** im Regeleditor.
 
-1. Suchen Sie im Bedienfeld Regeln die Marketo-RTP-Seitenladeregel und wählen Sie in der Dropdown-Liste **Aktionen** die Option **Regeln aktivieren**.
+1. Suchen Sie im Bedienfeld Regeln die Marketo-RTP-Seitenladeregel und wählen Sie in der Dropdown-Liste **[!UICONTROL Aktionen]** die Option **[!UICONTROL Regeln aktivieren]**.
 
    ![](assets/image2014-12-3-18-3a4-3a14.png)
 
-1. **Überprüfen** ob es auf allen Seiten angezeigt wird, einschließlich Landingpages und Subdomains.
+1. **[!UICONTROL Überprüfen]** ob es auf allen Seiten angezeigt wird, einschließlich Landingpages und Subdomains.
 
-   Sie können dies tun, indem Sie mit der rechten Maustaste auf die Seiten Ihrer Website klicken. Wechseln Sie zu **Inspect-**, klicken Sie auf **Netzwerk**, Suche: **RTP**.
+   Sie können dies tun, indem Sie mit der rechten Maustaste auf die Seiten Ihrer Website klicken. Navigieren Sie zu **[!UICONTROL Element überprüfen]** und klicken Sie auf **[!UICONTROL Netzwerk]**, Suche: **RTP**.

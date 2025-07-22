@@ -1,31 +1,31 @@
 ---
 unique-page-id: 12981204
-description: Übersicht über Predictive Content Analytics - Marketo-Dokumente - Produktdokumentation
-title: Übersicht über Predictive Content Analytics
+description: Prädiktive Content Analytics-Übersicht - Marketo-Dokumente - Produktdokumentation
+title: Prädiktive Content Analytics - Übersicht
 exl-id: 0f975baa-b17b-411a-bae0-64b67eea2b34
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '358'
-ht-degree: 12%
+ht-degree: 8%
 
 ---
 
-# Übersicht über Predictive Content Analytics {#predictive-content-analytics-overview}
+# Prädiktive Content Analytics - Übersicht {#predictive-content-analytics-overview}
 
 Verwenden Sie die Inhaltsanalyse, um weitere Einblicke in Ihre vorhandenen Inhalte zu erhalten, zu erfahren (basierend auf KI und prädiktiven Algorithmen), welche Inhalte für Ihre Zielgruppen funktionieren, und den ROI Ihrer Marketing-Maßnahmen zu steigern.
 
 >[!NOTE]
 >
->Die Registerkarte „Analytics“ und die Funktionen zur Inhaltsanalyse sind ausschließlich mit prädiktiven Inhalten von Marketo verfügbar.
+>Die [!UICONTROL Analytics]-Registerkarte und Inhaltsanalysefunktionen sind ausschließlich mit prädiktiven Inhalten von Marketo verfügbar.
 
 ## Überblick {#overview}
 
-Klicken Sie auf der Zusammenfassungsseite auf **Analytics**.
+Klicken Sie auf der Zusammenfassungsseite auf **[!UICONTROL Analytics]**.
 
 ![](assets/one.png)
 
-Analytics umfasst mehrere Abschnitte: Top-Inhalte nach Ansichten, Top-Inhalte nach Konversionsrate, Trend-Inhalte, vorgeschlagene Inhalte und Inhalte.
+[!UICONTROL Analytics] umfasst mehrere Abschnitte: [!UICONTROL Top-Inhalte nach ], [!UICONTROL Top-Inhalte nach Konversionsrate], [!UICONTROL Trending-Inhalte] [!UICONTROL Vorgeschlagene Inhalte] und [!UICONTROL Inhalte].
 
 ![](assets/new-2.png)
 
@@ -37,7 +37,7 @@ Klicken Sie auf die Schaltfläche Exportieren , um die Ergebnisse dieses Abschni
 
 ![](assets/new-3point5.png)
 
-Sie können die Ergebnisse nach verschiedenen Attributen/Eigenschaften filtern (z. B. ABM-Kontoliste, Land usw.).
+Sie können die Ergebnisse nach verschiedenen Attributen/Eigenschaften filtern (z. B[!UICONTROL  „ABM-]&quot;, [!UICONTROL Land] usw.).
 
 ![](assets/pca.png)
 
@@ -45,13 +45,13 @@ Klicken Sie auf das Kalendersymbol, um die Daten der wiedergegebenen Daten zu ä
 
 ![](assets/dates.png)
 
-## Top-Inhalt nach Anzeigen {#top-content-by-views}
+## [!UICONTROL Top-Inhalte nach Ansichten] {#top-content-by-views}
 
 Zeigt die obersten Inhaltselemente nach Anzahl der Ansichten pro ausgewähltem Datumsbereich an.
 
 ![](assets/new-6.png)
 
-## Top-Inhalt nach Konvertierungsrate {#top-content-by-conversion-rate}
+## [!UICONTROL Top-Inhalte nach Konversionsrate] {#top-content-by-conversion-rate}
 
 Zeigt die Top-Konvertierungsinhalte nach Konversionsrate für den ausgewählten Datumsbereich an.
 
@@ -63,13 +63,13 @@ Zeigt die Top-Konvertierungsinhalte nach Konversionsrate für den ausgewählten 
 >
 >**Konversionsrate** Ein Prozentsatz, der durch direkte Konversionen dividiert durch Klicks berechnet wird.
 
-## Trending-Inhalt {#trending-content}
+## [!UICONTROL Trending Content] {#trending-content}
 
 Zeigt den Popularitätszuwachs eines Inhaltselements an, indem Sie sich den Anstieg der Ansichten in den letzten zwei Wochen im Vergleich zum gleichen vorherigen Zeitraum ansehen.
 
 ![](assets/new-8.png)
 
-## Empfohlener Inhalt {#suggested-content}
+## [!UICONTROL Vorgeschlagener Inhalt] {#suggested-content}
 
 Zeigt Inhalte an, die basierend auf dem von Ihnen definierten Filter in Ihren Marketing-Aktivitäten beworben werden sollten.
 
@@ -81,9 +81,9 @@ Bewegen Sie den Mauszeiger über ein Bild in den vorgeschlagenen Inhalten, um di
 
 >[!NOTE]
 >
->Sehen Sie diese Symbole unten? Von links nach rechts: Inhalt anzeigen, In CSV exportieren, Inhalt genehmigen.
+>Sehen Sie diese Symbole unten? Von links nach rechts: [!UICONTROL Inhalt anzeigen], [!UICONTROL In CSV exportieren], [!UICONTROL Inhalt genehmigen].
 
-## Inhalt {#content}
+## [!UICONTROL Inhalt] {#content}
 
 ![](assets/image2017-10-3-10-3a22-3a24.png)
 

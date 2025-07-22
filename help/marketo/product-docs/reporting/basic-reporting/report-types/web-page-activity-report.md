@@ -4,7 +4,7 @@ description: Web-Seiten-Aktivitätsbericht - Marketo-Dokumente - Produktdokument
 title: Webseitenaktivitätsbericht
 exl-id: 35bd37bd-e7b9-4418-b2c9-af5989f44b9f
 feature: Reporting
-source-git-commit: f0ad739b85174976f2adbe30cf4d755c1da93f05
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '322'
 ht-degree: 3%
@@ -32,11 +32,11 @@ Sie können festlegen, dass bekannte Personen oder anonyme Personen angezeigt we
 
    >[!NOTE]
    >
-   >Es kann bis zu 24 Stunden dauern, bis die Daten in einem Web-Seiten-Aktivitätsbericht angezeigt werden.
+   >Es kann bis zu 24 Stunden dauern, bis die Daten in einem Bericht [!UICONTROL Web-Seitenaktivität] dargestellt werden.
 
    >[!TIP]
    >
-   >Um herauszufinden, wer Ihre Site am häufigsten besucht, wählen [&#128279;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"} in der Spalte _Seitenansichten_ die Option Absteigend sortieren aus.
+   >Um herauszufinden, wer Ihre Site am häufigsten besucht, wählen [ ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"} in der Spalte _Seitenansichten_ die Option Absteigend sortieren aus.
 
    [Marketo fügt Ihrer ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"} anonyme Website-Besucher hinzu, die Sie in diesem Bericht anzeigen können. Es bietet eine Fülle von Informationen, obwohl sie anonym sind.\
    [Spalten, die Sie auswählen können](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md){target="_blank"} für einen Web-Seiten-Aktivitätsbericht umfassen:

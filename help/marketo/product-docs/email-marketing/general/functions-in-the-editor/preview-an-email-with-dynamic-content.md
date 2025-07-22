@@ -4,7 +4,7 @@ description: Vorschau einer E-Mail mit dynamischem Inhalt - Marketo-Dokumente - 
 title: Vorschau einer E-Mail mit dynamischem Inhalt
 exl-id: 7d27f73c-d38b-4d95-a861-b27367f1f532
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Zeigen Sie Ihre E-Mail nach dem Hinzufügen dynamischer Inhalte in der Vorschau an, um sie zu überprüfen.
 
-1. Wählen Sie Ihre E-Mail aus und klicken Sie auf **Vorschau der E-Mail**.
+1. Wählen Sie Ihre E-Mail aus und klicken Sie auf **[!UICONTROL Vorschau der E-Mail]**.
 
    ![](assets/one-3.png)
 
-1. Klicken Sie auf die Dropdown-Liste Anzeigen nach und wählen Sie den Typ des dynamischen Inhalts aus, den Sie in der Vorschau anzeigen möchten.
+1. Klicken Sie auf **[!UICONTROL Dropdown-]** „Anzeigen nach“ und wählen Sie den Typ des dynamischen Inhalts aus, den Sie in der Vorschau anzeigen möchten.
 
    ![](assets/two-3.png)
 
@@ -33,7 +33,7 @@ Zeigen Sie Ihre E-Mail nach dem Hinzufügen dynamischer Inhalte in der Vorschau 
 
 Sie können dynamische Inhalte auch direkt im E-Mail-Editor in der Vorschau anzeigen.
 
-1. Klicken **unter &quot;**&quot; auf die Registerkarte **Dynamisch**.
+1. Klicken **[!UICONTROL unter &quot;]**&quot; auf die Registerkarte **[!UICONTROL Dynamisch]**.
 
    ![](assets/five-1.png)
 

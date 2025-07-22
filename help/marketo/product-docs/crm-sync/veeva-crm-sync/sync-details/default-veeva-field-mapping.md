@@ -1,18 +1,18 @@
 ---
-description: Standard-Veeva-Feldzuordnung - Marketo-Dokumente - Produktdokumentation
-title: Standard-Veeva-Feldzuordnung
+description: Standard [!DNL Veeva] Feldzuordnung - Marketo-Dokumente - Produktdokumentation
+title: ' [!DNL Veeva]  Feldzuordnung'
 exl-id: 3bf36d50-daea-431f-9537-b3007ad75945
 feature: Veeva CRM
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '263'
-ht-degree: 44%
+source-wordcount: '253'
+ht-degree: 47%
 
 ---
 
-# Standard-Veeva-Feldzuordnung {#default-veeva-field-mapping}
+# Standardmäßige [!DNL Veeva] Feldzuordnung {#default-veeva-field-mapping}
 
-Wenn Sie Ihr Marketo Engage-Konto zum ersten Mal mit Veeva synchronisieren, führt Marketo diese Verknüpfungen automatisch zwischen Ihren integrierten Veeva- und Marketo-Feldern durch. Marketo synchronisiert auch Ihre benutzerdefinierten Felder in Ihren Konten und Kontakten.
+Wenn Sie Ihr Marketo Engage-Konto zum ersten Mal mit [!DNL Veeva] synchronisieren, führt Marketo diese Verknüpfungen zwischen Ihren integrierten [!DNL Veeva] und Marketo-Feldern automatisch durch. Marketo synchronisiert auch Ihre benutzerdefinierten Felder in Ihren Konten und Kontakten.
 
 ## Kontaktfelder {#contact-fields}
 
@@ -192,7 +192,7 @@ Wenn Sie Ihr Marketo Engage-Konto zum ersten Mal mit Veeva synchronisieren, füh
   </tbody>
 </table>
 
-## Veeva-bezogene Systemfelder in Marketo (schreibgeschützt) {#veeva-related-system-fields-in-marketo}
+## [!DNL Veeva] Systemfelder in Marketo (schreibgeschützt) {#veeva-related-system-fields-in-marketo}
 
 Diese Felder werden in Marketo erstellt, können von Kunden jedoch nicht angepasst werden.
 
@@ -209,19 +209,19 @@ Diese Felder werden in Marketo erstellt, können von Kunden jedoch nicht angepas
   </thead>
   <tbody>
     <tr>
-      <td>Veeva ID</td>
-      <td>Die 18-stellige Salesforce ID</td>
+      <td>[!DNL Veeva] ID</td>
+      <td>Die [!DNL Salesforce]-ID mit 18 Zeichen</td>
     </tr>
     <tr>
-      <td>Veeva-Typ</td>
+      <td>[!DNL Veeva] Typ</td>
       <td>Kontakt. Wenn leer, ist der Lead nur als Person in Marketo vorhanden</td>
     </tr>
     <tr>
-      <td>Veeva Created Date</td>
+      <td>[!DNL Veeva] Erstellungsdatum</td>
       <td>Erstellungsdatum in SFDC (kann sich von dem in Marketo unterscheiden)</td>
     </tr>
     <tr>
-      <td>Veeva wird gelöscht</td>
+      <td>[!DNL Veeva] wird gelöscht</td>
       <td>Person war früher in SFDC, wurde jedoch gelöscht und lebt jetzt nur noch in Marketo</td>
     </tr>
   </tbody>

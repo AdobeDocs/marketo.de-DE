@@ -4,20 +4,20 @@ description: Grundlegendes zu Analytics-Karten - Marketo-Dokumente - Produktdoku
 title: Grundlegendes zu Analytics-Karten
 exl-id: fc314ab8-4d29-44f5-bc45-71e6727ecc06
 feature: Mobile Marketing
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '277'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
 # Grundlegendes zu Analytics-Karten {#understanding-analytics-cards}
 
-Zu Monatsbeginn bietet Marketo Moments drei verschiedene Berichtskarten: Erworbene Leads, neue Leads und Abmeldungen. Jede zeigt die monatliche Leistung und den Trend über einen Zeitraum von sechs Monaten an.
+Zu Beginn jedes Monats bietet Marketo Moments drei verschiedene Berichtskarten: [!UICONTROL Erworbene Leads], [!UICONTROL Neue Leads] und [!UICONTROL Abmeldungen]. Jede zeigt die monatliche Leistung und den Trend über einen Zeitraum von sechs Monaten an.
 
 >[!IMPORTANT]
 >
->Am 2. Oktober 2023 entfernte Adobe die Marketo Moments-App aus allen App Stores. Wenn Sie die App bereits auf Ihrem Tablet/Mobilgerät installiert haben, können Sie sie vorerst weiter verwenden. Nachdem Ihre Marketo Engage-Instanz zur Authentifizierung von Marketo auf Adobe Identity migriert wurde, können Sie nicht mehr auf die App zugreifen. [Weitere Informationen](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+>Am 2. Oktober 2023 hat Adobe die Marketo Moments-App aus allen App Stores entfernt. Wenn Sie die App bereits auf Ihrem Tablet/Mobilgerät installiert haben, können Sie sie vorerst weiter verwenden. Nachdem Ihre Marketo Engage-Instanz zur Authentifizierung von Marketo zu Adobe Identity migriert wurde, können Sie nicht mehr auf die App zugreifen. [Weitere Informationen](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 ## Analytics-Karten {#analytics-cards}
 
@@ -33,15 +33,15 @@ Tippen Sie auf eine Analytics-Karte, um Folgendes anzuzeigen:
 * Vergleich von Monaten mit Monaten
 * Ein Balkendiagramm mit den meisten oder drei Punkten (je nach Karte)
 
-Sehen wir uns beispielsweise die Details der Karte „Erworbene Leads - Analyse“ an:
+Sehen wir uns beispielsweise die Details der Analytics-Karte [!UICONTROL Erworbene Leads] an:
 
 ![](assets/image2015-7-6-14-3a5-3a25.png)
 
 In diesem Beispiel zeigt Rot an, dass der Wert über den ausgewählten Datumsbereich (uh oh!) abgenommen hat. Grün zeigt an, dass der Wert erhöht wurde (yay!).
 
-## Erworbene Leads {#acquired-leads}
+## [!UICONTROL Erworbene Leads] {#acquired-leads}
 
-Die Karte **Erworbene Leads** zeigt einen Trend-Bericht zur Anzahl der neuen Leads über den Monat an.
+Die Karte **[!UICONTROL Erworbene Leads]** zeigt einen Trend-Bericht zur Anzahl der neuen Leads über den Monat an.
 
 >[!NOTE]
 >
@@ -49,13 +49,13 @@ Die Karte **Erworbene Leads** zeigt einen Trend-Bericht zur Anzahl der neuen Lea
 
 ![](assets/image2015-6-30-14-3a31-3a40.png)
 
-## New Leads {#new-leads}
+## [!UICONTROL Neue Leads] {#new-leads}
 
 Die Karte **[!UICONTROL Neue Leads]** zeigt Ihnen einen Trend-Bericht über die Anzahl der neuen Leads in Ihrer Instanz in den letzten sechs Monaten pro Monat.
 
 ![](assets/image2015-6-30-14-3a33-3a23.png)
 
-## Abbestellungen {#unsubscribes}
+## [!UICONTROL Abmeldungen] {#unsubscribes}
 
 Die Karte **[!UICONTROL Abmeldungen]** zeigt Ihnen einen Trendbericht Ihrer Abmelderate für den jeweiligen Monat in den letzten sechs Monaten.
 

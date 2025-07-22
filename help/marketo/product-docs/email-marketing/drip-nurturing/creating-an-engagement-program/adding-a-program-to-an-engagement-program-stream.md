@@ -4,7 +4,7 @@ description: Hinzufügen eines Programms zu einem Interaktionsprogramm-Stream - 
 title: Hinzufügen eines Programms zu einem Interaktionsprogramm-Stream
 exl-id: 44c2ce45-439b-4b29-8130-8cc218e04bbf
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '461'
 ht-degree: 0%
@@ -37,7 +37,7 @@ Es kann schwierig sein, E-Mails und Programme in einem Interaktionsprogramm zu m
 
 >[!TIP]
 >
->Denken Sie daran, in Ihrer Smart-Liste einen Filter **Programm** Mitglied der Interaktion“ zu verwenden.
+>Denken Sie daran, in Ihrer Smart-Liste einen Filter **[!UICONTROL Programm]** Mitglied der Interaktion“ zu verwenden.
 
 ## Was passiert mit Leuten, die die Kriterien der Smart List nicht erfüllen? {#what-happens-to-people-who-dont-meet-the-smart-list-criteria}
 
@@ -47,9 +47,9 @@ Für den Fall, dass jemand aus der Smart-Liste der Smart-Kampagne eines verschac
 
 Ein gut konzipiertes verschachteltes Programm enthält E-Mails, Berichte und intelligente Kampagnen. Es ist sinnvoll, diese zusammenzuhalten.
 
-Die verwendete E-Mail kann im Programm, in einem anderen Programm oder sogar im Design Studio live sein. Wo er lebt, hängt davon ab, wie man ihn nutzen möchte.
+Die E-Mail, die Sie verwenden, kann im Programm, in einem anderen Programm oder sogar im [!UICONTROL Design Studio] live sein. Wo er lebt, hängt davon ab, wie man ihn nutzen möchte.
 
-Änderungen mit E-Mail-Speicherort melden. Wenn sich die E-Mail beispielsweise im Design Studio im E-Mail-Leistungsbericht befindet, werden alle Metriken in einer Zeile angezeigt - die verschiedenen Darstellungen werden kombiniert. Im Bericht zur Interaktions-Stream-Leistung werden die verschiedenen Sendungen jedoch separat angezeigt.
+Änderungen mit E-Mail-Speicherort melden. Wenn sich die E-Mail beispielsweise im [!UICONTROL Design Studio] befindet, werden im E-Mail-Leistungsbericht alle Metriken in einer Zeile angezeigt - die verschiedenen Darstellungen werden kombiniert. Im Bericht zur Interaktions-Stream-Leistung werden die verschiedenen Sendungen jedoch separat angezeigt.
 
 >[!CAUTION]
 >

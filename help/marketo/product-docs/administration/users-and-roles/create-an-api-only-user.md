@@ -4,7 +4,7 @@ description: Nur API-Benutzer erstellen - Marketo-Dokumente - Produktdokumentati
 title: Nur API-Benutzer erstellen
 exl-id: 23c92255-07a8-41c2-b7b8-8e495d135671
 feature: Users and Roles
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 3%
@@ -13,11 +13,11 @@ ht-degree: 3%
 
 # Nur API-Benutzer erstellen {#create-an-api-only-user}
 
-Wenn Sie eine Integration mit Marketo über die [REST-API](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} durchführen möchten, müssen Sie nur einen API-Benutzer erstellen. So geht&#39;s.
+Wenn Sie eine Integration mit Marketo über die [REST-API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} durchführen möchten, müssen Sie nur einen API-Benutzer erstellen. So geht&#39;s.
 
 >[!IMPORTANT]
 >
->Wenn Sie Benutzende mit nur einer API in einem Abonnement erstellen, das in Adobe Identity integriert wurde, sind Ihre Schritte anders und [finden Sie hier](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}.
+>Wenn Sie Benutzende nur mit einer API in einem Abonnement erstellen, das in Adobe Identity integriert wurde, sind Ihre Schritte anders und [finden Sie hier](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}.
 
 >[!PREREQUISITES]
 >
@@ -45,7 +45,7 @@ Wenn Sie eine Integration mit Marketo über die [REST-API](https://experiencelea
 
    >[!TIP]
    >
-   >Fügen Sie einen optionalen Grund oder ein Ablaufdatum für den Zugriff hinzu. Das Ablaufdatum des Zugriffs ist für kurzfristige Mitarbeiter praktisch.
+   >Fügen Sie einen optionalen [!UICONTROL Grund] oder ein [!UICONTROL Zugriffsgültigkeitsdatum] hinzu. Das Ablaufdatum des Zugriffs ist für kurzfristige Mitarbeiter praktisch.
 
 1. Wählen Sie die Rolle **[!UICONTROL Nur API]** aus und aktivieren Sie das Kontrollkästchen **[!UICONTROL Nur API]**. Klicken Sie auf **[!UICONTROL Weiter]**.
 

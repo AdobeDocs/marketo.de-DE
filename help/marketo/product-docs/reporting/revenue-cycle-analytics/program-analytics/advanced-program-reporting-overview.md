@@ -4,7 +4,7 @@ description: Übersicht über die erweiterte Programmberichterstattung - Marketo
 title: Übersicht über die erweiterten Programmberichte
 exl-id: 3b77fd34-a94f-4c6a-9b96-d326b46e731c
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Es gibt viele Leckereien hier drin. Schauen wir sie uns an!
 
 ## Was ist ein Analysebereich? {#whats-an-analysis-area}
 
-Analysebereiche enthalten jeweils verschiedene Datensätze und Metriken im Umsatz-Explorer. Jeder Bereich bezieht sich auf den von Ihnen ausgewählten Berichtssubjekt.
+Analysebereiche enthalten jeweils verschiedene Datensätze und Metriken im [!UICONTROL Umsatz-Explorer]. Jeder Bereich bezieht sich auf den von Ihnen ausgewählten Berichtssubjekt.
 
 ## Programmanalysebereiche {#program-analysis-areas}
 
@@ -41,7 +41,7 @@ Analysebereiche enthalten jeweils verschiedene Datensätze und Metriken im Umsat
 
 * **Opportunity Influence Analyzer** - Den Beitrag des Marketings nachweisen, indem Sie die Wirkung von Programmen und wichtigen Interaktionen messen, die zu Opportunities geführt haben.
 
-## Berichtsoptionen {#report-options}
+## [!UICONTROL Berichtsoptionen] {#report-options}
 
 In jedem Bericht stehen mehrere Optionen zur Verfügung, mit denen Sie das Erlebnis anpassen können.
 
@@ -55,4 +55,4 @@ In jedem Bericht stehen mehrere Optionen zur Verfügung, mit denen Sie das Erleb
 >
 >Die Daten im Umsatzzyklus-Explorer werden jede Nacht von Ihrer Marketo-Instanz aktualisiert. Daher werden alle Änderungen an Ihren Personen- und Kontoaktivitäten innerhalb von Marketo am folgenden Geschäftstag im Umsatzzyklus-Explorer widergespiegelt.
 
-Wenn Sie sich mit der Umsatzanalyse vertraut machen, erhalten Sie einen vollständigen Einblick in Ihre Programme und deren Auswirkungen.
+Wenn Sie sich mit der Umsatzanalyse vertraut machen, erhalten Sie eine vollständige insight zu Ihren Programmen und deren Auswirkungen.

@@ -4,7 +4,7 @@ description: Planen Ihrer In-App-Nachricht - Marketo-Dokumente - Produktdokument
 title: Planen der In-App-Nachricht
 exl-id: 2ff785b4-a0c9-4c04-869b-86fba7b997d7
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Senden Sie Ihre Nachricht jetzt oder planen Sie sie für später.
 
-1. Um eine In-App-Nachricht zu planen, wählen **„Zukünftiges Datum festlegen** und wählen Sie ein Startdatum aus dem Dropdown-Kalender.
+1. Um eine In-App-Nachricht zu planen, wählen **[!UICONTROL „Zukünftiges Datum festlegen]** und wählen Sie ein Startdatum aus dem Dropdown-Kalender.
 
    ![](assets/schedule-your-in-app-message-1.png)
 
@@ -27,7 +27,7 @@ Senden Sie Ihre Nachricht jetzt oder planen Sie sie für später.
 
    ![](assets/schedule-your-in-app-message-3.png)
 
-1. Oder wählen Sie „Sofort ausführen“ aus, um das Programm **auszuführen**. Die Felder Startdatum verschwinden.
+1. Oder wählen Sie „Sofort ausführen“ aus, um das Programm **[!UICONTROL auszuführen]**. Die Felder Startdatum verschwinden.
 
    ![](assets/schedule-your-in-app-message-4.png)
 

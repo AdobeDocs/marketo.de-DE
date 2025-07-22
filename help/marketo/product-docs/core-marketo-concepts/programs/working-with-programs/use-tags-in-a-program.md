@@ -4,7 +4,7 @@ description: Verwenden von Tags in einem Programm - Marketo-Dokumente - Produktd
 title: Verwenden von Tags in einem Programm
 exl-id: f1bae623-a710-472a-a30f-9044ce1001f5
 feature: Programs
-source-git-commit: 271b3f9a6c526e343f04d4d05d4c03f2ae32d146
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 5%
@@ -21,7 +21,7 @@ Tags sind Attribute, die Ihre Programme beschreiben und zum Gruppieren von Progr
 
 ## Verwenden eines Tags in einem Programm {#use-a-tag-in-a-program}
 
-1. Wählen Sie Ihr Programm. Klicken Sie **Setup**.
+1. Wählen Sie Ihr Programm. Klicken Sie **[!UICONTROL Setup]**.
 
    ![](assets/use-tags-in-a-program-1.png)
 
@@ -33,7 +33,7 @@ Tags sind Attribute, die Ihre Programme beschreiben und zum Gruppieren von Progr
 
    ![](assets/use-tags-in-a-program-3.png)
 
-1. Klicken Sie auf **Speichern**.
+1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/use-tags-in-a-program-4.png)
 
@@ -43,7 +43,7 @@ Tags sind Attribute, die Ihre Programme beschreiben und zum Gruppieren von Progr
 
 ## Tag bearbeiten {#edit-a-tag}
 
-1. Wechseln Sie zur Registerkarte **Setup**. Klicken Sie mit der rechten Maustaste auf das Tag. Wählen Sie **Bearbeiten** aus.
+1. Wechseln Sie zur Registerkarte **[!UICONTROL Setup]**. Klicken Sie mit der rechten Maustaste auf das Tag. Wählen Sie **[!UICONTROL Bearbeiten]** aus.
 
    ![](assets/use-tags-in-a-program-6.png)
 
@@ -51,7 +51,7 @@ Tags sind Attribute, die Ihre Programme beschreiben und zum Gruppieren von Progr
 
    ![](assets/use-tags-in-a-program-7.png)
 
-1. Klicken Sie auf **Speichern**.
+1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/use-tags-in-a-program-8.png)
 
@@ -61,11 +61,11 @@ Tags sind Attribute, die Ihre Programme beschreiben und zum Gruppieren von Progr
 
 ## Löschen eines Tags  {#delete-a-tag}
 
-1. Wechseln Sie zur Registerkarte **Setup**. Klicken Sie mit der rechten Maustaste auf das Tag und wählen Sie **Löschen**.
+1. Wechseln Sie zur Registerkarte **[!UICONTROL Setup]**. Klicken Sie mit der rechten Maustaste auf das Tag und wählen Sie **[!UICONTROL Löschen]**.
 
    ![](assets/use-tags-in-a-program-10.png)
 
-1. Klicken Sie **Löschen** zur Bestätigung.
+1. Klicken Sie **[!UICONTROL Löschen]** zur Bestätigung.
 
    ![](assets/use-tags-in-a-program-11.png)
 

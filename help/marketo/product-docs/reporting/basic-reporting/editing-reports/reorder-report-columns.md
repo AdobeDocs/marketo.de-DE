@@ -4,7 +4,7 @@ description: Berichtsspalten neu anordnen - Marketo-Dokumente - Produktdokumenta
 title: Berichtsspalten neu anordnen
 exl-id: 4906807f-f6e3-413a-b581-75bcec02019b
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 2%
@@ -15,11 +15,11 @@ ht-degree: 2%
 
 Sie können die Reihenfolge der Spalten in einem Bericht ändern.
 
-1. Navigieren Sie zum Bereich **Marketing** (oder **Analytics**).
+1. Navigieren Sie zum Bereich **[!UICONTROL Marketing]** (oder **[!UICONTROL Analytics]**).
 
    ![](assets/image2014-9-16-10-3a50-3a27.png)
 
-1. Wählen Sie in der Navigationsstruktur Ihren Bericht aus und klicken Sie auf die Registerkarte **Bericht**.
+1. Wählen Sie in der Navigationsstruktur Ihren Bericht aus und klicken Sie auf die Registerkarte **[!UICONTROL Bericht]**.
 
    ![](assets/image2014-9-16-10-3a50-3a31.png)
 

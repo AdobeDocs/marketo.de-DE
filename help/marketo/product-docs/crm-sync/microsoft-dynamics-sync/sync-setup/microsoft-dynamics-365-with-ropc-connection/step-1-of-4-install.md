@@ -3,21 +3,21 @@ description: 'Schritt 1 von 4: Installieren der Marketo-Lösung mit der Kennwort
 title: 'Schritt 1 von 4: Installieren der Marketo-Lösung mit der Kennwortsteuerungsverbindung des Ressourceneigentümers'
 exl-id: aab3bbb8-4e52-4c40-94d1-631af1d63f9f
 feature: Microsoft Dynamics
-source-git-commit: 2eb61d43f2f470d42e1b50ab8edc99e4e25c23cf
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '303'
 ht-degree: 1%
 
 ---
 
 # Schritt 1 von 4: Installieren der Marketo-Lösung mit der Kennwortsteuerungsverbindung des Ressourceneigentümers {#step-1-of-4-install-the-marketo-solution-ropc}
 
-Bevor Sie Microsoft Dynamics 365 und Marketo Engage synchronisieren können, müssen Sie zunächst die Marketo-Lösung in Dynamics installieren. **Dynamics-Administratorberechtigungen sind erforderlich**.
+Bevor Sie [!DNL Microsoft Dynamics] 365 und Marketo synchronisieren können, müssen Sie zunächst die Marketo-Lösung in [!DNL Dynamics] installieren. **[!DNL Dynamics]sind Administratorberechtigungen erforderlich.**
 
 >[!CAUTION]
 >
 >* Aktivieren Sie die Synchronisierung benutzerdefinierter Entitäten nicht, bevor die erste Synchronisierung abgeschlossen ist. Sie werden per E-Mail benachrichtigt, sobald die erste Synchronisierung abgeschlossen ist.
->* Wenn Sie für Ihre Dynamics-Synchronisierung die Multi-Factor Authentication (MFA) aktiviert haben, müssen Sie sie deaktivieren, damit Dynamics ordnungsgemäß mit Marketo synchronisiert werden kann. Weitere Informationen erhalten Sie vom [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
+>* Wenn Sie die Multi-Factor Authentication (MFA) für Ihre [!DNL Dynamics]-Synchronisierung aktiviert haben, müssen Sie sie deaktivieren, damit [!DNL Dynamics] ordnungsgemäß mit Marketo synchronisieren können. Weitere Informationen erhalten Sie vom [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ Bevor Sie Microsoft Dynamics 365 und Marketo Engage synchronisieren können, mü
 >
 >[Marketo Lead Management-Lösung herunterladen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
 
-1. Melden Sie sich bei **[Microsoft Office 365](https://login.microsoftonline.com/)** an.
+1. Melden Sie sich bei **[[!DNL Microsoft Office 365]](https://login.microsoftonline.com/)** an.
 
    ![](assets/image2015-3-16-15-3a58-3a55.png)
 
@@ -43,7 +43,7 @@ Bevor Sie Microsoft Dynamics 365 und Marketo Engage synchronisieren können, mü
 
    ![](assets/image2015-3-19-8-3a34-3a8.png)
 
-1. Klicken Sie **[!UICONTROL Datei wählen]**. Wählen Sie die Marketo-Lead-Management-Lösung aus[ die Sie heruntergeladen ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}. Klicken Sie auf **[!UICONTROL Weiter]**.
+1. Klicken Sie **[!UICONTROL Datei wählen]**. Wählen Sie die Marketo-Lead-Management-Lösung aus[ die Sie heruntergeladen ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Klicken Sie auf **[!UICONTROL Weiter]**.
 
    ![](assets/image2015-10-9-14-3a44-3a14.png)
 
@@ -83,7 +83,7 @@ Bevor Sie Microsoft Dynamics 365 und Marketo Engage synchronisieren können, mü
 
    ![](assets/image2015-3-19-8-3a40-3a38.png)
 
-1. Wählen Sie **[!UICONTROL Marketo-Lead-]** aus und klicken Sie auf **[!UICONTROL Publish-Anpassungen für alle]**.
+1. Wählen Sie **[!UICONTROL Marketo Lead-]** aus und klicken Sie auf **[!UICONTROL Alle Anpassungen veröffentlichen]**.
 
    ![](assets/image2015-3-19-8-3a41-3a21.png)
 

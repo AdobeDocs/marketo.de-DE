@@ -3,26 +3,26 @@ description: Konfigurieren der Anpassung von Salesforce-Aktivitätsdetails - Mar
 title: Konfigurieren der Anpassung von Salesforce-Aktivitätsdetails
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
 feature: Marketo Sales Connect
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '697'
+source-wordcount: '675'
 ht-degree: 1%
 
 ---
 
-# Konfigurieren der Anpassung von Salesforce-Aktivitätsdetails {#configure-salesforce-activity-detail-customization}
+# Konfigurieren [!DNL Salesforce] Anpassung von Aktivitätsdetails {#configure-salesforce-activity-detail-customization}
 
 >[!PREREQUISITES]
 >
->* Salesforce und Marketo Sales Connect [müssen verbunden sein](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
+>* [!DNL Salesforce] und [!DNL Marketo Sales Connect] [müssen verbunden sein](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
 >* E-Mail-Aktivität über API protokollieren [muss aktiviert sein](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
 
-Activity Detail Customization ermöglicht es Administratoren, die Informationen zu konfigurieren, die beim Salesforce Task - Subject -Feld protokolliert werden, wenn eine Sales Connect-Aktivität/Erinnerungsaufgabe mit Salesforce synchronisiert wird.
+Mit der Anpassung von Aktivitätsdetails können Administratoren die Informationen konfigurieren, die beim Synchronisieren einer [!DNL Sales Connect] Aktivität/Erinnerungsaufgabe mit Salesforce beim Salesforce-Aufgabenfeld „Aufgabe - Betreff“ protokolliert werden.
 
 >[!NOTE]
 >
->* Aktualisierungen, die am Betrefffeld in Sales Connect für eine Erinnerungsaufgabe vorgenommen wurden, werden im Betrefffeld der entsprechenden Salesforce-Aufgabe angezeigt, wenn Sie das dynamische Feld &quot;`{{activity_subject}}`&quot; in Ihrer Anpassung der Aktivitätsdetails verwenden.
->* Zeilenumbrüche werden beim Protokollieren von Informationen im Salesforce-Betrefffeld nicht unterstützt. Alle Zeilenumbrüche im Editor zur Anpassung von Aktivitätsdetails werden entfernt, wenn ein Betreff für eine Verkaufsaufgabe aktualisiert wird.
+>* Aktualisierungen, die im [!DNL Sales Connect] einer Erinnerungsaufgabe am Betrefffeld vorgenommen wurden, werden im Betrefffeld der entsprechenden [!DNL Salesforce] Aufgabe angezeigt, wenn Sie das dynamische Feld `{{activity_subject}}` in Ihrer Anpassung der Aktivitätsdetails verwenden.
+>* Zeilenumbrüche werden beim Protokollieren von Informationen im Feld „Betreff [!DNL Salesforce]&quot; nicht unterstützt. Alle Zeilenumbrüche im Editor zur Anpassung von Aktivitätsdetails werden entfernt, wenn ein Betreff für eine Verkaufsaufgabe aktualisiert wird.
 
 ![](assets/configure-salesforce-activity-detail-customization-1.png)
 
@@ -52,15 +52,15 @@ Mit der Funktion können die folgenden Vorteile erzielt werden:
 
 >[!NOTE]
 >
->Wenn Sie E-Mail-Antworten als Aktivitäten in Salesforce protokollieren, werden die Einstellungen zur Anpassung der Salesforce-Aktivitätsdetails nicht verwendet. Stattdessen wird „Antwort: E-Mail-Betreff“ protokolliert.
+>Wenn Sie E-Mail-Antworten als Aktivitäten für [!DNL Salesforce] protokollieren, werden die [!DNL Salesforce] Einstellungen zur Anpassung von Aktivitätsdetails nicht verwendet. Stattdessen wird „Antwort: E-Mail-Betreff“ protokolliert.
 
 ## Unterstützte dynamische Aktivitätsfelder {#activity-dynamic-fields-supported}
 
-Dynamische Aktivitätsfelder : Referenzinformationen zu Ihren Vertriebsaktivitäten, um Daten zu füllen. Heute können sie mit der Anpassung von Salesforce-Aktivitätsdetails verwendet werden.
+Dynamische Aktivitätsfelder : Referenzinformationen zu Ihren Vertriebsaktivitäten, um Daten zu füllen. Heute können sie mit [!DNL Salesforce] Anpassung von Aktivitätsdetails verwendet werden.
 
 >[!NOTE]
 >
->Wenn kein Wert zum Ausfüllen des dynamischen Felds für eine bestimmte Aktivität/Aufgabe vorhanden ist, werden beim Aktualisieren des Felds Salesforce-Aufgabe - Betreff keine Daten für dieses dynamische Feld ausgefüllt.
+>Wenn kein Wert zum Ausfüllen des dynamischen Felds für eine bestimmte Aktivität/Aufgabe vorhanden ist, werden beim Aktualisieren des Felds „Aufgabe [!DNL Salesforce] - Betreff“ keine Daten für dieses dynamische Feld ausgefüllt.
 
 <table>
  <tr>
@@ -105,21 +105,21 @@ Dynamische Aktivitätsfelder : Referenzinformationen zu Ihren Vertriebsaktivitä
 >
 >**Administratorberechtigungen erforderlich.**
 
-Berücksichtigen Sie bei der Konfiguration Ihrer Aktivitätsdetails, welche Daten für den Vertrieb am relevantesten sind, wenn Sie den Aufgabenverlauf in Salesforce überprüfen.
+Berücksichtigen Sie bei der Konfiguration Ihrer Aktivitätsdetails, welche Daten für den Vertrieb am relevantesten sind, wenn Sie den Aufgabenverlauf in [!DNL Salesforce] überprüfen.
 
-1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
+1. Klicken Sie auf das Zahnradsymbol und wählen Sie **[!UICONTROL Einstellungen]** aus.
 
    ![](assets/configure-salesforce-activity-detail-customization-3.png)
 
-1. Auf **Salesforce**.
+1. Auf **[!UICONTROL Salesforce]**.
 
    ![](assets/configure-salesforce-activity-detail-customization-4.png)
 
-1. Klicken Sie auf **Einstellungen synchronisieren**.
+1. Klicken Sie auf **[!UICONTROL Einstellungen synchronisieren]**.
 
    ![](assets/configure-salesforce-activity-detail-customization-5.png)
 
-1. Fügen Sie im Editor zur Anpassung der Aktivitätsdetails einen beliebigen freien Text hinzu. Hinzugefügter Text ist nicht dynamisch und bleibt für das Betrefffeld aller mit Salesforce synchronisierten Aufgaben unverändert.
+1. Fügen Sie im Editor zur Anpassung der Aktivitätsdetails einen beliebigen freien Text hinzu. Hinzugefügter Text ist nicht dynamisch und bleibt für das Betrefffeld aller mit [!DNL Salesforce] synchronisierten Aufgaben unverändert.
 
    ![](assets/configure-salesforce-activity-detail-customization-6.png)
 
@@ -127,7 +127,7 @@ Berücksichtigen Sie bei der Konfiguration Ihrer Aktivitätsdetails, welche Date
    >
    >Wenn hinzugefügter Text in gerade Klammern eingeschlossen wird, ist dies zwar nicht erforderlich, doch kann es für manche Personen einfacher sein, zwischen den Daten zu unterscheiden, wenn sie in ein Betrefffeld in Salesforce eingefügt werden. Beispiel: `[Sales Connect] - {{Activity_type}}`
 
-1. Fügen Sie alle gewünschten zusätzlichen dynamischen Felder hinzu, indem Sie auf die Schaltfläche **Dynamisches Feld hinzufügen** klicken.
+1. Fügen Sie alle gewünschten zusätzlichen dynamischen Felder hinzu, indem Sie auf die Schaltfläche **[!UICONTROL Dynamisches Feld hinzufügen]** klicken.
 
    ![](assets/configure-salesforce-activity-detail-customization-7.png)
 
@@ -135,16 +135,16 @@ Berücksichtigen Sie bei der Konfiguration Ihrer Aktivitätsdetails, welche Date
 
    ![](assets/configure-salesforce-activity-detail-customization-8.png)
 
-1. Klicken Sie auf **Speichern**.
+1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/configure-salesforce-activity-detail-customization-9.png)
 
 >[!NOTE]
 >
->Salesforce setzt eine Beschränkung auf 255 Zeichen durch. Wenn Ihre Aktivitätsdetails diesen Wert überschreiten, werden sie abgeschnitten, um sicherzustellen, dass die Informationen im Salesforce-Betrefffeld gespeichert werden.
+>[!DNL Salesforce] erzwingt eine Beschränkung auf 255 Zeichen. Wenn Ihre Aktivitätsdetails diesen Wert überschreiten, werden sie abgeschnitten, um sicherzustellen, dass die Informationen im Feld [!DNL Salesforce] Betreff gespeichert werden.
 
 >[!MORELIKETHIS]
 >
 >* [Einstellungen synchronisieren](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
->* [Erinnerungsaufgabe - Synchronisieren mit Salesforce](/help/marketo/product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md)
->* [Sales Connect Customization für CRM](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md)
+>* [Erinnerungsaufgabe - Synchronisieren mit [!DNL Salesforce]](/help/marketo/product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md)
+>* [[!DNL Sales Connect] Anpassung für CRM](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md)

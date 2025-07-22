@@ -3,7 +3,7 @@ description: Einrichten des Trackings benutzerdefinierter Domains - Marketo-Doku
 title: Einrichten der benutzerdefinierten Domain-Verfolgung
 exl-id: 6dea7f3d-d44d-4f67-af44-a8963c95c378
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%
@@ -16,7 +16,7 @@ Mit dem benutzerdefinierten Domain-Tracking kann Ihr Team in allen verfolgbaren 
 
 Sie benötigen die Unterstützung Ihres IT-Teams, um einen CNAME-Eintrag für Ihre Domain einzurichten, der auf go.toutapp.com verweist. Dieser CNAME wird auf allen Tracking-Links angezeigt (z. B. go.yourcompany.com).
 
-Nachdem Sie sich bei Ihrem IT-Team vergewissert haben, dass der CNAME ordnungsgemäß konfiguriert ist, können Sie ihn unter „Aktionen“ zur Seite „Tracking von benutzerdefinierten Domains“ hinzufügen.
+Nachdem Sie sich bei Ihrem IT-Team vergewissert haben, dass der CNAME ordnungsgemäß konfiguriert ist, können Sie ihn in Aktionen zur Seite [!UICONTROL Benutzerdefiniertes Domain-Tracking] hinzufügen.
 
 >[!NOTE]
 >
@@ -28,14 +28,14 @@ Nachdem Sie sich bei Ihrem IT-Team vergewissert haben, dass der CNAME ordnungsge
 >
 >**Administratorrechte erforderlich.**
 
-1. Klicken Sie auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
+1. Klicken Sie auf das Zahnradsymbol und wählen Sie **[!UICONTROL Einstellungen]** aus.
 
    ![](assets/how-to-set-up-custom-domain-tracking-1.png)
 
-1. Wählen Sie unter „Admin-Einstellungen“ **Tracking** aus.
+1. Wählen [!UICONTROL  unter „Admin] die Option **[!UICONTROL Tracking]** aus.
 
    ![](assets/how-to-set-up-custom-domain-tracking-2.png)
 
-1. Geben Sie auf der Registerkarte Benutzerdefiniertes Domain-Tracking Ihren CNAME ein und klicken Sie auf **Verbinden**.
+1. Geben Sie auf der Registerkarte [!UICONTROL Benutzerdefiniertes Domain]Tracking Ihren CNAME ein und klicken Sie auf **[!UICONTROL Verbinden]**.
 
    ![](assets/how-to-set-up-custom-domain-tracking-3.png)

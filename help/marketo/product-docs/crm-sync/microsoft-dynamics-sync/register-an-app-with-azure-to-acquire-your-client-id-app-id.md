@@ -4,16 +4,16 @@ description: Registrieren einer App bei Azure, um Ihre Client-ID/App-ID zu erhal
 title: Registrieren einer App bei Azure, um Ihre Client-ID/App-ID zu erhalten
 exl-id: 006cd130-a2fc-41ce-b5ee-890ef6167b34
 feature: Microsoft Dynamics
-source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '331'
 ht-degree: 0%
 
 ---
 
 # Registrieren einer App bei Azure, um Ihre Client-ID/App-ID zu erhalten {#register-an-app-with-azure-to-acquire-your-client-id-app-id}
 
-Azure Active Directory erweitert Ihre lokalen Ordner in die Cloud und unterstützt MS Dynamics 365 CRM mit On-Premise-ADFS-Authentifizierung.
+Azure Active Directory erweitert Ihre lokalen Ordner in die Cloud und unterstützt [!DNL MS Dynamics 365] CRM mit On-Premise-ADFS-Authentifizierung.
 
 ## Registrieren einer neuen App {#registering-a-new-app}
 
@@ -21,20 +21,20 @@ Azure Active Directory erweitert Ihre lokalen Ordner in die Cloud und unterstüt
 
    >[!CAUTION]
    >
-   >Sie müssen ein Konto im selben Office 365-Abonnement verwenden, mit dem Sie die App registrieren möchten.
+   >Sie müssen ein Konto im selben [!DNL Office 365]-Abonnement verwenden, mit dem Sie die App registrieren möchten.
 
    >[!NOTE]
    >
    >Wenn Sie kein Azure-Konto haben, können Sie [ für eines ](https://azure.microsoft.com/en-us/free/){target="_blank"}. Weitere Informationen finden Sie in der Dokumentation von Microsoft oder bei Ihrem Microsoft-Support-Mitarbeiter. Nachdem Sie ein Azure-Konto erstellt haben, können Sie eine oder mehrere Apps wie unten beschrieben registrieren.
    >
    >
-   >Wenn Sie über ein Azure-Konto verfügen, Ihr Office 365-Abonnement mit Microsoft Dynamics 365 jedoch nicht in Ihrem Azure-Abonnement verfügbar ist, befolgen Sie [diese Anweisungen](https://msdn.microsoft.com/office/office365/howto/setup-development-environment#bk_CreateAzureSubscription){target="_blank"} um die beiden Konten zu verknüpfen.
+   >Wenn Sie ein Azure-Konto haben, Ihr [!DNL Office 365]-Abonnement mit [!DNL Microsoft Dynamics 365] jedoch nicht in Ihrem Azure-Abonnement verfügbar ist, befolgen Sie [diese Anweisungen](https://msdn.microsoft.com/office/office365/howto/setup-development-environment#bk_CreateAzureSubscription){target="_blank"} um die beiden Konten zu verknüpfen.
 
 1. Suchen Sie nach **[!UICONTROL Azure Active Directory]** im linken Navigationsbereich und klicken Sie darauf.
 
    ![](assets/two.png)
 
-1. Klicken Sie unter Verwalten auf **[!UICONTROL App-Registrierungen]**.
+1. Klicken [!UICONTROL  unter &quot;]&quot; auf **[!UICONTROL App-Registrierungen]**.
 
    ![](assets/three.png)
 
@@ -56,7 +56,7 @@ Azure Active Directory erweitert Ihre lokalen Ordner in die Cloud und unterstüt
 
    ![](assets/seven.png)
 
-1. Klicken Sie unter Verwalten auf **[!UICONTROL API-Berechtigungen]**.
+1. Klicken [!UICONTROL  unter &quot;]&quot; auf **[!UICONTROL API-Berechtigungen]**.
 
    ![](assets/eight.png)
 
@@ -68,7 +68,7 @@ Azure Active Directory erweitert Ihre lokalen Ordner in die Cloud und unterstüt
 
    ![](assets/ten.png)
 
-1. Aktivieren Sie das **[!UICONTROL Zugriff auf Common Data Service als Organisationsbenutzer]** und klicken Sie dann auf **[!UICONTROL Berechtigungen hinzufügen]**.
+1. Aktivieren Sie das **[!UICONTROL Zugriff auf Common Data Service als Organisationsbenutzer]** und klicken Sie dann auf **[!UICONTROL Berechtigungen hinzufügen].**
 
    ![](assets/eleven.png)
 

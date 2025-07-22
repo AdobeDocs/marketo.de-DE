@@ -4,9 +4,9 @@ description: Anrufaufzeichnungen für Ihr Team freigeben - Marketo-Dokumente - P
 title: Anrufaufzeichnungen für Ihr Team freigeben
 exl-id: fabd5fba-14a4-4885-93ba-9a3857e2a298
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -21,17 +21,17 @@ Sales Phone bietet Ihnen die Möglichkeit, Ihre Anrufaufzeichnungen aufzuzeichne
 
 1. Öffnen Sie die Personendetails.
 
-1. Suchen Sie die Aufruffaktivität unter der Aktivitätsliste.
+1. Suchen Sie die [!UICONTROL Aktivität aufrufen] unter der Aktivitätsliste.
 
 1. Klicken Sie mit der rechten Maustaste auf die Anrufaufzeichnung und kopieren Sie die Link-URL.
 
-## Link „Aufzeichnung kopieren“ aus der Salesforce-Aufgabe {#copy-recording-link-from-the-salesforce-task}
+## Link zur Aufzeichnung aus der [!DNL Salesforce] kopieren {#copy-recording-link-from-the-salesforce-task}
 
 >[!NOTE]
 >
->Sie müssen Ihre Anrufe bei Salesforce protokollieren lassen, um diesen Link zu erhalten.
+>Sie müssen Ihre Anrufe an [!DNL Salesforce] protokollieren lassen, um diesen Link zu erhalten.
 
-1. Navigieren Sie zu der Aufgabe, die in Salesforce für den Aufruf erstellt wurde.
+1. Navigieren Sie zu der Aufgabe, die in [!DNL Salesforce] für den Aufruf erstellt wurde.
 
 1. Kopieren Sie den im Feld „Sales Call Recording“ aufgelisteten Link.
 

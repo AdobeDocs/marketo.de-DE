@@ -4,7 +4,7 @@ description: Erstellen eines Segments mithilfe von Daten zu bekannten Personen -
 title: Erstellen eines Segments mit Daten einer bekannten Person
 exl-id: 429d8678-2e62-4b1e-bda1-675ff3a1aae2
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 3%
@@ -19,11 +19,11 @@ Im Folgenden wird beschrieben, wie Sie ein Segment mithilfe von Werten für beka
 >
 >[Verwalten von Personendaten](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md)
 
-1. Navigieren Sie zu **Segmente**.
+1. Navigieren Sie zu **[!UICONTROL Segmente]**.
 
    ![](assets/new-dropdown-segments-hand-2.jpg)
 
-1. Klicken Sie auf **Neu erstellen**.
+1. Klicken Sie auf **[!UICONTROL Neu erstellen]**.
 
    ![](assets/image2015-8-28-13-3a19-3a59.png)
 
@@ -31,7 +31,7 @@ Im Folgenden wird beschrieben, wie Sie ein Segment mithilfe von Werten für beka
 
    ![](assets/image2015-8-28-13-3a2-3a59.png)
 
-1. Ziehen Sie in der Profilsegmentierung **Datenbank** auf die Arbeitsfläche.
+1. Ziehen Sie in der Profilsegmentierung **[!UICONTROL Datenbank]** auf die Arbeitsfläche.
 
    ![](assets/four-1.png)
 
@@ -53,11 +53,11 @@ Im Folgenden wird beschrieben, wie Sie ein Segment mithilfe von Werten für beka
 
    ![](assets/eight.png)
 
-1. Wählen Sie den AND/OR-Operator. Wählen Sie das hinzuzufügende Feld aus. Wählen Sie ein Personendatenfeld aus. Geben Sie den Wert für die Personendaten ein.
+1. Wählen Sie den [!UICONTROL AND]/[!UICONTROL OR]Operator. Wählen Sie das hinzuzufügende Feld aus. Wählen Sie ein Personendatenfeld aus. Geben Sie den Wert für die Personendaten ein.
 
    ![](assets/nine.png)
 
-1. Klicken Sie auf **Speichern**, um das Segment zu speichern, oder auf **Speichern und Kampagne definieren**, um es zu speichern und zur Seite Kampagnen zu wechseln.
+1. Klicken Sie auf **[!UICONTROL Speichern]**, um das Segment zu speichern, oder **[!UICONTROL Speichern und Kampagne definieren]**, um es zu speichern und zur Seite [!UICONTROL Kampagnen] zu wechseln.
 
    ![](assets/image2014-11-19-19-3a48-3a20-1.png)
 

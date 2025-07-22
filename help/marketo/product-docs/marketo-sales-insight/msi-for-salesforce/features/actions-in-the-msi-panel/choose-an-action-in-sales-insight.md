@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10099167
-description: Auswählen einer Aktion in Sales Insight - Marketo Docs - Produktdokumentation
+description: Auswählen einer Aktion in Sales Insight - Marketo-Dokumente - Produktdokumentation
 title: Aktion in Sales Insight auswählen
 exl-id: 0e9d3bc0-ac0a-415b-9931-382c3c68cfe2
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '187'
 ht-degree: 5%
 
 ---
 
-# Aktion in Sales Insight auswählen {#choose-an-action-in-sales-insight}
+# Aktion in [!DNL Sales Insight] auswählen {#choose-an-action-in-sales-insight}
 
-Die folgenden Aktionen sind über die Dropdown-Liste Sales Insight in Salesforce Classic und Lightning verfügbar:
+Die folgenden Aktionen sind in der Dropdown-Liste [!DNL Sales Insight] in [!DNL Salesforce] Classic und Lightning verfügbar:
 
 * Marketo-E-Mail senden
 * Zu Marketo-Kampagne hinzufügen
@@ -37,13 +37,13 @@ Auf jede dieser Funktionen kann unter zugegriffen werden:
 
   ![](assets/choose-an-action-in-sales-insight-2.png)
 
-**Registerkarte „Best Bets“**
+Registerkarte &quot;**[!DNL Best Bets]&quot;**
 
-* Registerkarte „Best Practices für Massenaktionen“: Gruppenaktion und kann durch Benutzerprofile gesteuert werden
+* Registerkarte [!DNL Best Bets] Massenaktionen : Gruppenaktion und kann durch Benutzerprofile gesteuert werden
 
   ![](assets/choose-an-action-in-sales-insight-3.png)
 
-* Registerkarte „Best Practices Inline-Aktionen“: Einzelaktion und kann durch ein Benutzerprofil gesteuert werden
+* Registerkarte „Inline-Aktionen [!DNL Best Bets]&quot;: Einzelaktion und kann durch das Benutzerprofil gesteuert werden
 
   ![](assets/choose-an-action-in-sales-insight-4.png)
 

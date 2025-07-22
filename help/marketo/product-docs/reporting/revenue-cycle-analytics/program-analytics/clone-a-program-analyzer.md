@@ -4,7 +4,7 @@ description: Klonen eines Programm-Analyzers - Marketo-Dokumente - Produktdokume
 title: Klonen eines Programm-Analyzers
 exl-id: 90a335b3-dd55-47e7-b4f7-b45c49671d11
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
@@ -15,23 +15,23 @@ ht-degree: 0%
 
 Nachdem Sie einen Analyzer gespeichert haben, können Sie ihn einfach klonen, um einen neuen zu erstellen. Gehen Sie dann in und bearbeiten Sie die neue , falls Änderungen erforderlich sind.
 
-1. Klicken Sie auf **Kachel** Analytics“.
+1. Klicken Sie auf **[!UICONTROL Kachel]** Analytics“.
 
    ![](assets/2017-05-01-08-20-37.png)
 
-1. Klicken Sie auf **Kachel** Programm-Analyzer“.
+1. Klicken Sie auf **[!UICONTROL Kachel]** Programm-Analyzer“.
 
    ![](assets/program-analyzer-icon-hand.png)
 
-1. Öffnen Sie das Dropdown-Menü Analyzer-Aktionen , während der gespeicherte Analyzer geöffnet ist, und wählen Sie **Analyzer klonen**.
+1. Öffnen Sie das Dropdown-Menü Analyzer-Aktionen , während der gespeicherte Analyzer geöffnet ist, und wählen Sie **[!UICONTROL Analyzer klonen]**.
 
    ![](assets/image2016-10-31-16-3a12-3a6.png)
 
-1. Wählen Sie in den Dropdown-Listen **Klonen in** und **Ordner** den Speicherort für das geklonte Analyseprogramm aus.
+1. Wählen Sie in den Dropdown-Listen **[!UICONTROL Klonen in]** und **[!UICONTROL Ordner]** den Speicherort für das geklonte Analyseprogramm aus.
 
    ![](assets/image2016-10-31-16-3a13-3a42.png)
 
-1. Benennen Sie den geklonten Analyzer und klicken Sie auf **Klonen**.
+1. Benennen Sie den geklonten Analyzer und klicken Sie auf **[!UICONTROL Klonen]**.
 
    ![](assets/image2016-10-31-16-3a15-3a15.png)
 
@@ -41,4 +41,4 @@ Nachdem Sie einen Analyzer gespeichert haben, können Sie ihn einfach klonen, um
 
    >[!MORELIKETHIS]
    >
-   >[Erstellen eines Programm-Analyzers](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
+   >[Erstellen eines [!UICONTROL Programm-Analyzers]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)

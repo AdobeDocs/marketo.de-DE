@@ -1,20 +1,20 @@
 ---
-description: Personen zu Ihrer Dynamics Campaign hinzufügen oder daraus entfernen - Marketo-Dokumente - Produktdokumentation
-title: Personen zu Ihrer Dynamics-Kampagne hinzufügen oder daraus entfernen
+description: Hinzufügen oder Entfernen von Personen aus Ihrer  [!DNL Dynamics] -Kampagne - Marketo-Dokumente - Produktdokumentation
+title: Personen zu Ihrer Kampagne hinzufügen oder aus  [!DNL Dynamics]  entfernen
 exl-id: 4fea2f7c-0655-4816-8640-76878f760b6e
 feature: Smart Campaigns, Microsoft Dynamics
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '312'
 ht-degree: 0%
 
 ---
 
-# Personen zu Ihrer Dynamics-Kampagne hinzufügen oder daraus entfernen {#add-or-remove-people-from-your-dynamics-campaign}
+# Personen zu Ihrer [!DNL Dynamics] Campaign hinzufügen oder daraus entfernen {#add-or-remove-people-from-your-dynamics-campaign}
 
 ## Zu Dynamics Campaign hinzufügen {#add-to-dynamics-campaign}
 
-Dieser Flussschritt kann in Marketo Engage-Smart-Kampagnen verwendet werden, um Personen als Leads oder Kontakte in eine Microsoft-Kampagne einzufügen. Wenn der Lead noch nicht in Dynamics vorhanden ist, wird er automatisch synchronisiert und der Kampagne hinzugefügt.
+Dieser Flussschritt kann in Marketo Engage Smart Campaign verwendet werden, um Personen als Leads oder Kontakte in einer Microsoft-Kampagne hinzuzufügen. Wenn der Lead noch nicht in Dynamics vorhanden ist, wird er automatisch synchronisiert und der Kampagne hinzugefügt.
 
 >[!NOTE]
 >
@@ -31,9 +31,9 @@ Suchen Sie in Ihrer Smart-Kampagne die Dynamics-Kampagne, der Sie Ihre Mitarbeit
 >* Stellen Sie sicher, dass die Kampagnensynchronisierung funktioniert
 >* Die Kampagne ist in [!DNL Microsoft Dynamics] nicht aktiv
 
-Das System erstellt automatisch für jede Kampagne eine statische Marketing-Liste für Leads und Kontakte, um die Person hinzuzufügen. Es handelt sich um eine einmalige Aktion und einmal für nachfolgende Synchronisationen mit der Kampagne wird dieselbe Marketing-Liste verwendet. Der für den statischen Namen der Marketing-Liste verwendete Benennungsstandard ist für Leads und `Mkto-contacts-<uniqueID>` für Kontakte `Mkto-leads-<uniqueID>`.
+Das System erstellt automatisch für jede Kampagne eine statische Marketing-Liste für Leads und Kontakte, um die Person hinzuzufügen. Es handelt sich um eine einmalige Aktion und einmal für nachfolgende Synchronisationen mit der Kampagne wird dieselbe Marketing-Liste verwendet. Der für den statischen Namen der Marketing-Liste verwendete Benennungsstandard ist für Leads und `Mkto-leads-<uniqueID>` für Kontakte `Mkto-contacts-<uniqueID>`.
 
-Die Zuordnung dieser von Marketo generierten Marketing-Listen zu anderen Kampagnen könnte zu verwirrendem Verhalten führen. Das Hinzufügen zu einer Kampagne führt beispielsweise auch zum Hinzufügen zu der zweiten Kampagne. Es wird auch nicht empfohlen, die von Marketo generierte Marketing-Liste von der Campaign-Liste in Dynamics zu trennen.
+Die Zuordnung dieser von Marketo generierten Marketing-Listen zu anderen Kampagnen könnte zu verwirrendem Verhalten führen. Das Hinzufügen zu einer Kampagne führt beispielsweise auch zum Hinzufügen zu der zweiten Kampagne. Es wird auch nicht empfohlen, die von Marketo generierte Marketing-Liste von der Kampagne in [!DNL Dynamics] zu trennen.
 
 ## Aus Dynamics Campaign entfernen {#remove-from-dynamics-campaign}
 
@@ -49,7 +49,7 @@ Suchen Sie in Ihrer Smart-Kampagne die Dynamics-Kampagne, aus der Sie Ihre Perso
 
 >[!NOTE]
 >
->Wenn in der Kampagnenliste keine Dynamics-Kampagne angezeigt wird:
+>Wenn in der Kampagnenliste keine [!DNL Dynamics] Kampagne angezeigt wird:
 >
 >* Stellen Sie sicher, dass die Kampagnensynchronisierung funktioniert
 >* Die Kampagne ist in [!DNL Microsoft Dynamics] nicht aktiv

@@ -4,14 +4,14 @@ description: Hinzufügen eines bestehenden Salesforce-Felds zur Marketo-Synchron
 title: Hinzufügen eines vorhandenen Salesforce-Felds zur Marketo-Synchronisierung
 exl-id: 6030aedd-9c4b-411f-89c7-f35fd39b0066
 feature: Salesforce Integration
-source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '156'
 ht-degree: 1%
 
 ---
 
-# Hinzufügen eines vorhandenen Salesforce-Felds zur Marketo-Synchronisierung {#add-an-existing-salesforce-field-to-the-marketo-sync}
+# Hinzufügen eines vorhandenen [!DNL Salesforce] zur Marketo-Synchronisierung {#add-an-existing-salesforce-field-to-the-marketo-sync}
 
 >[!NOTE]
 >
@@ -47,4 +47,4 @@ Normalerweise werden neue benutzerdefinierte Felder in Salesforce automatisch mi
 
    >[!NOTE]
    >
-   > Wenn das Feld bereits Werte in Salesforce enthält, werden diese Werte erst bei der nächsten Datensatzaktualisierung mit Marketo synchronisiert.
+   > Wenn das Feld bereits Werte in [!DNL Salesforce] enthält, werden diese Werte erst bei der nächsten Datensatzaktualisierung mit Marketo synchronisiert.

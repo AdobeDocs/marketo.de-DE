@@ -3,7 +3,7 @@ description: E-Mail überprüfen - Marketo-Dokumente - Produktdokumentation
 title: Prüfen Ihrer E-Mail
 exl-id: 4ee9a45a-53c3-48ca-9f47-90f007b7f9b9
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 5%
@@ -14,19 +14,19 @@ ht-degree: 5%
 
 Wenn Sie eine nicht verifizierte E-Mail-Identität haben, führen Sie die folgenden Schritte aus.
 
-1. Klicken Sie oben rechts auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
+1. Klicken Sie oben rechts auf das Zahnradsymbol und wählen Sie **[!UICONTROL Einstellungen]** aus.
 
    ![](assets/verify-your-email-1.png)
 
-1. Klicken Sie unter Mein Konto auf **E-Mail-Einstellungen**.
+1. Klicken [!UICONTROL  unter „Mein ]&quot; auf **[!UICONTROL E-Mail-Einstellungen]**.
 
    ![](assets/verify-your-email-2.png)
 
-1. Suchen Sie unter Adresse und Signatur die E-Mail, die Sie verifizieren möchten, und klicken Sie auf **Bestätigungs-E-Mail erneut senden**. Eine neue Bestätigungs-E-Mail wird gesendet.
+1. Suchen Sie unter [!UICONTROL Adresse und Signatur] die E-Mail, die Sie verifizieren möchten, und klicken Sie auf **[!UICONTROL Bestätigungs-E-Mail erneut senden]**. Eine neue Bestätigungs-E-Mail wird gesendet.
 
    ![](assets/verify-your-email-3.png)
 
-1. Klicken Sie **Erneut senden**.
+1. Klicken Sie **[!UICONTROL Erneut senden]**.
 
    ![](assets/verify-your-email-4.png)
 

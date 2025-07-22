@@ -4,7 +4,7 @@ description: Erstellen eines Programmkanals - Marketo-Dokumente - Produktdokumen
 title: Erstellen eines Programmkanals
 exl-id: 7b4e15db-c221-45a9-9588-99eb2510cde7
 feature: Tags
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '428'
 ht-degree: 0%
@@ -61,7 +61,7 @@ Ein Programm ist eine spezifische Marketing-Initiative. Der Kanal ist als Bereit
    >
    >Sehen Sie sich die Progressionen vorhandener Kanäle an, um eine Vorstellung davon zu erhalten, wie sie verwendet werden können.
 
-1. Nehmen wir das Beispiel des Partykanals. Benennen Sie Ihren neuen **Kanal** und wählen Sie den Programmtyp aus, für den er gelten soll.
+1. Nehmen wir das Beispiel des Partykanals. Benennen Sie Ihren neuen **[!UICONTROL Kanal]** und wählen Sie den Programmtyp aus, für den er gelten soll.
 
    ![](assets/create-a-program-channel-5.png)
 
@@ -111,7 +111,7 @@ Ein Programm ist eine spezifische Marketing-Initiative. Der Kanal ist als Bereit
 
    >[!TIP]
    >
-   >Wenn eine neue Person in der mobilen Check-in-App erstellt wird, wird sie im Veranstaltungsprogramm auf Registriert gesetzt. Wenn eine Person in die Veranstaltung in der App eingecheckt wird, wird sie im Veranstaltungsprogramm auf Teilgenommen gesetzt.
+   >Wenn eine neue Person in der mobilen Check-in-App erstellt wird, wird sie im Veranstaltungsprogramm auf [!UICONTROL Registriert] gesetzt. Wenn eine Person in die Veranstaltung in der App eingecheckt wird, wird sie im Veranstaltungsprogramm auf [!UICONTROL Teilgenommen] gesetzt.
 
 1. Wählen Sie den **[!UICONTROL Erfolg]** Programmstatus aus und klicken Sie dann auf **[!UICONTROL Erstellen]**.
 

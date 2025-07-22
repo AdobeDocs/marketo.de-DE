@@ -4,7 +4,7 @@ description: Account Triggers - Marketo Docs - Produktdokumentation
 title: Account Triggers
 exl-id: cf8d49ed-58c4-49d0-95e2-e5df8c9bef50
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 2%
@@ -19,11 +19,11 @@ Wählen Sie Ihre Smart-Kampagne aus und klicken Sie auf **[!UICONTROL Smart-List
 
 ![](assets/one-1.png)
 
-Geben Sie „Benanntes Konto“ in das Suchfeld ein, um beide Trigger für Benannte Konten zu finden.
+Geben Sie [!UICONTROL Benanntes Konto] in das Suchfeld ein, um beide Trigger [!UICONTROL Benanntes Konto] zu finden.
 
 ![](assets/two-1.png)
 
-Ziehen Sie den gewünschten Trigger auf die Arbeitsfläche. In diesem Beispiel verwenden wir _Zu benanntem Konto hinzugefügt_.
+Ziehen Sie den gewünschten Trigger auf die Arbeitsfläche. In diesem Beispiel verwenden wir _[!UICONTROL Zu benanntem Konto hinzugefügt]_.
 
 ![](assets/three-1.png)
 

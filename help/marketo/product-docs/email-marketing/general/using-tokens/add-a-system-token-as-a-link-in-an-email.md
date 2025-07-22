@@ -4,7 +4,7 @@ description: Hinzufügen eines System-Tokens als Link in einer E-Mail - Marketo-
 title: Hinzufügen eines System-Tokens als Link in einer E-Mail
 exl-id: 9156be24-18ae-44ea-96e5-a6257ff29b46
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Die folgenden Token können als Links in einer E-Mail oder E-Mail-Vorlage verwen
 
 So fügen Sie sie einer E-Mail hinzu:
 
-1. Suchen Sie Ihre E-Mail, wählen Sie sie aus und klicken Sie auf **Entwurf bearbeiten**.
+1. Suchen Sie Ihre E-Mail, wählen Sie sie aus und klicken Sie auf **[!UICONTROL Entwurf bearbeiten]**.
 
    ![](assets/one-1.png)
 
@@ -35,11 +35,11 @@ So fügen Sie sie einer E-Mail hinzu:
 
    ![](assets/two-1.png)
 
-1. Markieren Sie den Text, der in einen Link mit dem Token konvertiert werden soll, und klicken Sie auf die Schaltfläche **Link einfügen/bearbeiten**.
+1. Markieren Sie den Text, der in einen Link mit dem Token konvertiert werden soll, und klicken Sie auf die Schaltfläche **[!UICONTROL Link einfügen/bearbeiten]**.
 
    ![](assets/three-1.png)
 
-1. Geben Sie das Token in der Link-URL ein und klicken Sie auf **Einfügen**.
+1. Geben Sie das Token in der Link-URL ein und klicken Sie auf **[!UICONTROL Einfügen]**.
 
    ![](assets/four-1.png)
 
@@ -47,7 +47,7 @@ So fügen Sie sie einer E-Mail hinzu:
    >
    >Kopieren Sie das gewünschte Token oder fügen Sie es ein: **`{{system.forwardToFriendLink}}`** oder **`{{system.unsubscribeLink}}`** oder **`{{system.viewAsWebpageLink}}`**
 
-1. Klicken Sie auf **Speichern**.
+1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/image2014-9-17-22-3a12-3a17.png)
 

@@ -3,44 +3,44 @@ description: Salesforce Lightning Customization Package deinstallieren - Marketo
 title: Salesforce Lightning Customization Package deinstallieren
 exl-id: 4af89222-22b1-4c08-8081-3dab89d1985b
 feature: Sales Insight Actions
-source-git-commit: 688120d2529339274c1650c7478480156810b0b4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '1184'
+source-wordcount: '1157'
 ht-degree: 9%
 
 ---
 
-# Salesforce Lightning Customization Package deinstallieren {#uninstall-salesforce-lightning-customization-package}
+# Deinstallieren [!DNL Salesforce Lightning] Anpassungspakets {#uninstall-salesforce-lightning-customization-package}
 
-Deinstallieren Sie das Marketo Sales Connect-Paket von Ihrem Salesforce-Konto, sobald Sie mit der Verwendung des MSI Actions-Pakets beginnen.
+Deinstallieren Sie das Marketo [!DNL Sales Connect]-Paket von Ihrem [!DNL Salesforce]-Konto, sobald Sie mit der Verwendung des MSI Actions-Pakets beginnen.
 
-## Entfernen von Sales Connect-Feldern aus dem Seiten-Layout {#remove-sales-connect-fields-from-page-layout}
+## Entfernen von [!DNL Sales Connect] aus dem Seiten-Layout {#remove-sales-connect-fields-from-page-layout}
 
-1. Klicken Sie in Salesforce Lightning auf das Zahnradsymbol und wählen Sie **Setup**.
+1. Klicken Sie [!DNL Salesforce Lightning] auf das Zahnradsymbol und wählen Sie **[!UICONTROL Setup]** aus.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-1.png)
 
-1. Klicken Sie auf **Objekt-Manager**.
+1. Klicken Sie auf **[!UICONTROL Objekt-Manager]**.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-2.png)
 
-1. Scrollen Sie nach unten zu und wählen Sie **Lead** aus.
+1. Scrollen Sie nach unten zu und wählen Sie **[!UICONTROL Lead]** aus.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-3.png)
 
-1. Klicken Sie auf **Seiten-Layouts**.
+1. Klicken Sie auf **[!UICONTROL Seiten-Layouts]**.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-4.png)
 
-1. Klicken Sie **Lead-Layout**.
+1. Klicken Sie **[!UICONTROL Lead-Layout]**.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-5.png)
 
    >[!NOTE]
    >
-   >Die Layout-Ansicht Seite bearbeiten wurde in Salesforce Lightning noch nicht aktualisiert.
+   >Die Layout-Ansicht Seite bearbeiten wurde in [!DNL Salesforce Lightning] noch nicht aktualisiert.
 
-1. Wählen Sie in der Konsole &quot;**&quot;**. Suchen Sie in der Schnellsuche nach „MSC“. Alle ausgegrauten Felder wurden Ihrem Seiten-Layout hinzugefügt. Sie müssen sie löschen.
+1. Wählen Sie in der Konsole &quot;**[!UICONTROL &quot;]**. Suchen Sie in der Schnellsuche nach „MSC“. Alle ausgegrauten Felder wurden Ihrem Seiten-Layout hinzugefügt. Sie müssen sie löschen.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-6.png)
 
@@ -48,19 +48,19 @@ Deinstallieren Sie das Marketo Sales Connect-Paket von Ihrem Salesforce-Konto, s
    >
    >Wenn keines der Felder ausgegraut ist, bedeutet dies, dass Sie sie nicht zum Seiten-Layout hinzugefügt haben. Sie können diesen Abschnitt überspringen.
 
-1. Scrollen Sie zu dem Abschnitt, der Ihre benutzerdefinierten Felder für Sales Connect enthält.
+1. Scrollen Sie zum Abschnitt mit den [!DNL Sales Connect] benutzerdefinierten Feldern.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-7.png)
 
 1. Es gibt 10 Arten von MSC-Feldern, die diesem Abschnitt hinzugefügt werden können. Entfernen Sie alle hinzugefügten Felder oder löschen Sie einfach den gesamten Abschnitt.
 
-1. Klicken **abschließend auf** Quick Save“.
+1. Klicken **[!UICONTROL abschließend auf]** Quick Save“.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-8.png)
 
-## Entfernen von Sales Connect-Schaltflächen aus Seiten-Layouts {#remove-sales-connect-buttons-from-page-layouts}
+## Entfernen von [!DNL Sales Connect] Schaltflächen aus Seiten-Layouts {#remove-sales-connect-buttons-from-page-layouts}
 
-1. Wählen Sie in der Konsole (Schritt 4 oben) **Schaltflächen**. Suchen Sie nach „MSC.“ Alle ausgegrauten Schaltflächen wurden zum Abschnitt für benutzerdefinierte Schaltflächen hinzugefügt. Sie müssen sie löschen.
+1. Wählen Sie in der Konsole (Schritt 4 oben) **[!UICONTROL Schaltflächen]**. Suchen Sie nach „MSC.“ Alle ausgegrauten Schaltflächen wurden zum Abschnitt für benutzerdefinierte Schaltflächen hinzugefügt. Sie müssen sie löschen.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-9.png)
 
@@ -68,53 +68,53 @@ Deinstallieren Sie das Marketo Sales Connect-Paket von Ihrem Salesforce-Konto, s
    >
    >Wenn keine der Schaltflächen ausgegraut ist, bedeutet dies, dass Sie sie nicht hinzugefügt haben. Sie können diesen Abschnitt überspringen.
 
-1. Ziehen Sie die MSC-Schaltflächen per Drag-and-Drop aus dem Abschnitt Benutzerdefinierte Schaltflächen in die Konsole.
+1. Ziehen Sie die MSC-Schaltflächen per Drag-and[!UICONTROL Drop aus dem Abschnitt „Benutzerdefinierte ]&quot; in die Konsole.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-10.png)
 
-1. Klicken **abschließend auf** Quick Save“.
+1. Klicken **[!UICONTROL abschließend auf]** Quick Save“.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-11.png)
 
-## Entfernen von Sales Connect-Feldern aus dem Abschnitt „Aktivitätshistorie“ {#remove-sales-connect-fields-from-activity-history-section}
+## [!DNL Sales Connect] Felder aus dem Abschnitt [!UICONTROL Aktivitätsverlauf] entfernen {#remove-sales-connect-fields-from-activity-history-section}
 
-1. Scrollen Sie nach unten auf der Seite zum Abschnitt mit der Liste „Aktivitätsverlauf“ und klicken Sie auf das Schraubenschlüssel -Symbol.
+1. Scrollen Sie nach unten auf der Seite zum Abschnitt [!UICONTROL Aktivitätsverlauf] der zugehörigen Liste und klicken Sie auf das Schraubenschlüssel -Symbol.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-12.png)
 
-1. Wählen Sie im Bereich Ausgewählte Felder die Option Sales Connect-Felder aus und klicken Sie auf den Pfeil Entfernen . Klicken **abschließend** OK“.
+1. Wählen Sie die [!DNL Sales Connect] Felder im Bereich [!UICONTROL Ausgewählte Felder] aus und klicken Sie auf den [!UICONTROL Entfernen]. Klicken **[!UICONTROL abschließend]** OK“.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-13.png)
 
    >[!NOTE]
    >
-   >Die Abkürzung MSE _is_ Sales Connect. Es ist nur der frühere Name, &quot;Marketo Sales Engage“.
+   >Die Abkürzung MSE _is_ [!DNL Sales Connect]. Es ist nur der frühere Name, &quot;Marketo Sales Engage“.
 
-1. Klicken Sie **Speichern** wenn Sie mit der Seite Leads fertig sind.
+1. Klicken Sie **[!UICONTROL Speichern]** wenn Sie mit der Seite Leads fertig sind.
 
-## Entfernen der Sales Connect-Massenaktionsschaltflächen aus der Lead-Listenansicht {#remove-sales-connect-bulk-action-buttons-from-lead-list-view}
+## Entfernen [!DNL Sales Connect] Massenaktionsschaltflächen aus der Lead-Listenansicht {#remove-sales-connect-bulk-action-buttons-from-lead-list-view}
 
-1. Klicken Sie in Salesforce Lightning auf das Zahnradsymbol und wählen Sie **Setup**.
+1. Klicken Sie [!DNL Salesforce Lightning] auf das Zahnradsymbol und wählen Sie **[!UICONTROL Setup]** aus.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-14.png)
 
-1. Klicken Sie auf **Objekt-Manager**.
+1. Klicken Sie auf **[!UICONTROL Objekt-Manager]**.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-15.png)
 
-1. Scrollen Sie nach unten zu und wählen Sie **Lead** aus.
+1. Scrollen Sie nach unten zu und wählen Sie **[!UICONTROL Lead]** aus.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-16.png)
 
-1. Klicken Sie **Suchlayouts**.
+1. Klicken Sie **[!UICONTROL Suchlayouts]**.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-17.png)
 
-1. Klicken Sie auf den Pfeil neben Listenansicht und wählen Sie **Bearbeiten** aus.
+1. Klicken Sie auf den Pfeil neben [!UICONTROL Listenansicht] und wählen Sie **[!UICONTROL Bearbeiten]** aus.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-18.png)
 
-1. Wählen Sie **Zu MSC-Kampagne hinzufügen**, **E-Mail mit MSC** und **Push zu MSC** aus und klicken Sie auf den Pfeil „Entfernen“. Klicken Sie dann auf **Speichern**.
+1. Wählen Sie **[!UICONTROL Zu MSC-Kampagne hinzufügen]**, **[!UICONTROL E-Mail mit MSC]** und **[!UICONTROL Push zu MSC]** aus und klicken Sie auf den Pfeil [!UICONTROL Entfernen]. Klicken Sie dann auf **[!UICONTROL Speichern]**.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-19.png)
 
@@ -122,29 +122,29 @@ Die Schaltflächen in der Lead-Listenansicht sollten nicht mehr angezeigt werden
 
 ## MSC-Konfiguration für Kontakte entfernen {#remove-msc-configuration-for-contacts}
 
-1. Klicken Sie in Salesforce Lightning auf das Zahnradsymbol und wählen Sie **Setup**.
+1. Klicken Sie [!DNL Salesforce Lightning] auf das Zahnradsymbol und wählen Sie **[!UICONTROL Setup]** aus.
 
-1. Klicken Sie auf **Objekt-Manager**.
+1. Klicken Sie auf **[!UICONTROL Objekt-Manager]**.
 
-1. Scrollen Sie nach unten zu und wählen Sie **Kontakt** aus.
+1. Scrollen Sie nach unten zu und wählen Sie **[!UICONTROL Kontakt]** aus.
 
-1. Klicken Sie auf **Seiten-Layouts**.
+1. Klicken Sie auf **[!UICONTROL Seiten-Layouts]**.
 
-1. Klicken Sie **Kontakt-Layout**.
+1. Klicken Sie **[!UICONTROL Kontakt-Layout]**.
 
 1. Wiederholen Sie die Schritte aus allen drei Abschnitten.
 
 ## MSC-Konfiguration für Opportunity entfernen {#remove-msc-configuration-for-opportunity}
 
-1. Klicken Sie in Salesforce Lightning auf das Zahnradsymbol und wählen Sie **Setup**.
+1. Klicken Sie [!DNL Salesforce Lightning] auf das Zahnradsymbol und wählen Sie **[!UICONTROL Setup]** aus.
 
-1. Klicken Sie auf **Objekt-Manager**.
+1. Klicken Sie auf **[!UICONTROL Objekt-Manager]**.
 
-1. Scrollen Sie nach unten zu und wählen Sie **Opportunity** aus.
+1. Scrollen Sie nach unten zu und wählen Sie **[!UICONTROL Opportunity]** aus.
 
-1. Klicken Sie auf **Seiten-Layouts**.
+1. Klicken Sie auf **[!UICONTROL Seiten-Layouts]**.
 
-1. Klicken Sie **Opportunity-Layout**.
+1. Klicken Sie **[!UICONTROL Opportunity-Layout]**.
 
 Die Opportunity-Ansicht hat nur eine Schaltfläche - „E-Mail senden“ und die folgenden Felder:
 
@@ -152,15 +152,15 @@ Die Opportunity-Ansicht hat nur eine Schaltfläche - „E-Mail senden“ und die
 
 ## MSC-Konfiguration für Konto entfernen {#remove-msc-configuration-for-account}
 
-1. Klicken Sie in Salesforce Lightning auf das Zahnradsymbol und wählen Sie **Setup**.
+1. Klicken Sie [!DNL Salesforce Lightning] auf das Zahnradsymbol und wählen Sie **[!UICONTROL Setup]** aus.
 
-1. Klicken Sie auf **Objekt-Manager**.
+1. Klicken Sie auf **[!UICONTROL Objekt-Manager]**.
 
-1. Scrollen Sie nach unten zu und wählen Sie **Konto** aus.
+1. Scrollen Sie nach unten zu und wählen Sie **[!UICONTROL Konto]** aus.
 
-1. Klicken Sie auf **Seiten-Layouts**.
+1. Klicken Sie auf **[!UICONTROL Seiten-Layouts]**.
 
-1. Klicken Sie **Konto-Layout**.
+1. Klicken Sie **[!UICONTROL Konto-Layout]**.
 
 Die Kontoansicht enthält nur eine Schaltfläche „E-Mail senden“ und die folgenden Felder:
 
@@ -168,27 +168,27 @@ Die Kontoansicht enthält nur eine Schaltfläche „E-Mail senden“ und die fol
 
 ## Marketo-Verkaufsausgang entfernen {#remove-marketo-sales-outbox}
 
-1. Klicken Sie in Salesforce auf die Registerkarte **+** am oberen Bildschirmrand.
+1. Klicken Sie in [!DNL Salesforce] auf die Registerkarte **+** am oberen Bildschirmrand.
 
-1. Klicken Sie **Meine Registerkarten anpassen**.
+1. Klicken Sie **[!UICONTROL Meine Registerkarten anpassen]**.
 
-1. Wählen Sie rechts die Option Marketo Sales Outbox aus. Klicken Sie auf den Pfeil Entfernen und dann auf **Speichern**.
+1. Wählen Sie rechts die Option Marketo Sales Outbox aus. Klicken Sie auf [!UICONTROL  Pfeil „Entfernen] und dann auf **[!UICONTROL Speichern]**.
 
-## Sales Connect-Paket löschen {#delete-sales-connect-package}
+## [!DNL Sales Connect] löschen {#delete-sales-connect-package}
 
-Nachdem Sie alle Objekte aus Ihrem Salesforce-Konto entfernt haben, führen Sie die folgenden Schritte aus.
+Nachdem Sie alle Objekte aus Ihrem [!DNL Salesforce]-Konto entfernt haben, führen Sie die folgenden Schritte aus.
 
-1. Klicken Sie in Salesforce Lightning auf das Zahnradsymbol und wählen Sie **Setup**.
+1. Klicken Sie [!DNL Salesforce Lightning] auf das Zahnradsymbol und wählen Sie **[!UICONTROL Setup]** aus.
 
 1. Geben Sie im Feld „Schnellsuche“ „Apex-Klassen“ ein.
 
-1. Klicken Sie **allen** „MarketoSalesConnectionCustomization“ oder „MarketoSalesEngageCustomization“ auf der Liste auf „Löschen“.
+1. Klicken Sie **[!UICONTROL allen]** „MarketoSalesConnectionCustomization“ oder „MarketoSalesEngageCustomization“ auf der Liste auf „Löschen“.
 
 Alles klar!
 
-Im Folgenden finden Sie eine Liste aller Objekte, die aus Ihrer Salesforce-Instanz entfernt werden müssen:
+Im Folgenden finden Sie eine Liste aller Objekte, die aus Ihrer [!DNL Salesforce] entfernt werden müssen:
 
-## Sales Connect-Anpassungsdetails {#sales-connect-customization-details}
+## Details zur [!DNL Sales Connect] {#sales-connect-customization-details}
 
 <table>
  <tr>
@@ -198,79 +198,79 @@ Im Folgenden finden Sie eine Liste aller Objekte, die aus Ihrer Salesforce-Insta
   <th>Datentyp</th>
  </tr>
  <tr>
-  <td>Lokale Präsenz-ID des MSC-Aufrufs</td>
+  <td>[!UICONTROL MSC-Aufruf, lokale Anwesenheits-ID]</td>
   <td>Als Benutzer kann ich „Lokale Präsenz“ als Option auswählen, wenn ich Anrufe vom MSC-Telefon tätige. Eingehende Anrufe zeigen eine lokale Nummer für den Empfänger an</td>
   <td>Aktivität</td>
   <td>Text</td>
  </tr>
  <tr>
-  <td>MSC Call Recording URL</td>
+  <td>[!UICONTROL MSC Call Recording URL]</td>
   <td>Anrufe können aufgezeichnet werden und ein Link für die Aufzeichnung wird hier protokolliert. </td>
   <td>Aktivität</td>
   <td>Text</td>
  </tr>
  <tr>
-  <td>MSC-Kampagne</td>
+  <td>[!UICONTROL MSC-Kampagne]</td>
   <td>Loggt den Namen der MSC-Kampagne, auf der sich der Kontakt/Lead befindet</td>
   <td>Aktivität</td>
   <td>Text</td>
  </tr>
  <tr>
-  <td>MSC-Kampagnen-URL</td>
+  <td>[!UICONTROL MSC-Kampagnen-URL]</td>
   <td>Protokolliert die URL für die in MSC erstellte Kampagne. Wenn Sie darauf klicken, wird die Kampagne in der MSC-Web-App geöffnet</td>
   <td>Aktivität</td>
   <td>Text</td>
  </tr>
  <tr>
-  <td>Aktueller Schritt der MSC-Kampagne</td>
+  <td>[!UICONTROL MSC Campaign Aktueller Schritt]</td>
   <td>Wenn sich ein Kontakt/Lead in einer Kampagne befindet, wird in diesem Feld der Name des Schritts protokolliert, in dem er sich derzeit befindet</td>
   <td>Aktivität</td>
   <td>Kontrollkästchen</td>
  </tr>
  <tr>
-  <td>MSC-E-Mail-Anhang angesehen</td>
+  <td>[!UICONTROL MSC-E-Mail-Anhang angesehen]</td>
   <td>Protokolliert Daten, wenn eine E-Mail mit einem Anhang gesendet wird, der vom Empfänger angezeigt wird</td>
   <td>Aktivität</td>
   <td>Kontrollkästchen</td>
  </tr>
  <tr>
-  <td>MSC-E-Mail angeklickt</td>
+  <td>[!UICONTROL MSC E-Mail angeklickt]</td>
   <td>Protokolliert ein Häkchen, wenn der Empfänger auf einen Link in der E-Mail klickt</td>
   <td>Aktivität</td>
   <td>Kontrollkästchen</td>
  </tr>
  <tr>
-  <td>MSC-E-Mail beantwortet</td>
+  <td>[!UICONTROL MSC-E-Mail geantwortet]</td>
   <td>Protokolliert ein Häkchen, wenn der Empfänger auf die E-Mail antwortet</td>
   <td>Aktivität</td>
   <td>Text</td>
  </tr>
  <tr>
-  <td>MSC-E-Mail-Status</td>
+  <td>[!UICONTROL MSC-E-Mail-Status]</td>
   <td>Zeigt an, ob eine E-Mail gesendet/in Bearbeitung/nicht zugestellt wurde (Tracking von nicht zugestellten E-Mails hängt vom verwendeten Versandkanal ab)</td>
   <td>Aktivität</td>
   <td>Text</td>
  </tr>
  <tr>
-  <td>MSC-E-Mail-Vorlage</td>
+  <td>[!UICONTROL MSC-E-Mail-Vorlage]</td>
   <td>Protokollname der MSC-Vorlage, die in der an den Lead/Kontakt gesendeten E-Mail verwendet wurde</td>
   <td>Aktivität</td>
   <td>Text</td>
  </tr>
  <tr>
-  <td>URL der MSC-E-Mail-Vorlage</td>
+  <td>[!UICONTROL MSC-E-Mail-Vorlagen-URL]</td>
   <td>Protokolliert die URL in der in MSC erstellten Vorlage. Wenn Sie darauf klicken, wird die Vorlage in der MSC-Web-App geöffnet</td>
   <td>Aktivität</td>
   <td>Text</td>
  </tr>
  <tr>
-  <td>MSC-E-Mail-URL</td>
+  <td>[!UICONTROL MSC-E-Mail-URL]</td>
   <td>Wenn Sie auf diese URL klicken, wird die Befehlszentrale in MSC geöffnet und die Registerkarte „Historie der Personendetailansicht“ aufgerufen, auf der die gesendete E-Mail angezeigt werden kann</td>
   <td>Aktivität</td>
   <td>Text</td>
  </tr>
  <tr>
-  <td>MSC-E-Mail angesehen</td>
+  <td>[!UICONTROL MSC E-Mail angesehen]</td>
   <td>Protokolliert ein Häkchen, wenn der Empfänger eine E-Mail anzeigt</td>
   <td>Aktivität</td>
   <td>Kontrollkästchen</td>
@@ -393,8 +393,8 @@ Im Folgenden finden Sie eine Liste aller Objekte, die aus Ihrer Salesforce-Insta
   <th>Typ</th>
  </tr>
  <tr>
-  <td>MSC-E-Mail senden</td>
-  <td>Verkaufs-E-Mails von Salesforce senden</td>
+  <td>[!UICONTROL MSC-E-Mail senden]</td>
+  <td>Verkaufs-E-Mails senden von [!DNL Salesforce]</td>
   <td>
   <p>Konto 
   <p>Kontakt 
@@ -402,22 +402,22 @@ Im Folgenden finden Sie eine Liste aller Objekte, die aus Ihrer Salesforce-Insta
   <p>Opportunity</td>
  </tr>
  <tr>
-  <td>Zu MSC-Kampagne hinzufügen</td>
-  <td>Zu MSC-Kampagnen von Salesforce hinzufügen</td>
+  <td>[!UICONTROL Zu MSC-Kampagne hinzufügen]</td>
+  <td>Zu MSC-Kampagnen hinzufügen über [!DNL Salesforce]</td>
   <td>
   <p>Kontakt
   <p>Lead</td>
  </tr>
  <tr>
-  <td>Push an MSC</td>
-  <td>Push-Kontakt von Salesforce zu MSC</td>
+  <td>[!UICONTROL an MSC]</td>
+  <td>Kontakt von [!DNL Salesforce] an MSC pushen</td>
   <td>
   <p>Kontakt
   <p>Lead</td>
  </tr>
  <tr>
-  <td>Anruf mit MSC</td>
-  <td>Verkaufsanrufe von Salesforce aus tätigen</td>
+  <td>[!UICONTROL-Aufruf mit MSC]</td>
+  <td>Verkaufsanrufe tätigen von [!DNL Salesforce]</td>
   <td>
   <p>Kontakt
   <p>Lead</td>
@@ -431,22 +431,22 @@ Im Folgenden finden Sie eine Liste aller Objekte, die aus Ihrer Salesforce-Insta
   <th>Typ</th>
  </tr>
  <tr>
-  <td>Zu MSC-Kampagne hinzufügen</td>
-  <td>Zu MSC-Kampagnen von Salesforce hinzufügen</td>
+  <td>[!UICONTROL Zu MSC-Kampagne hinzufügen]</td>
+  <td>Zu MSC-Kampagnen hinzufügen über [!DNL Salesforce]</td>
   <td>
   <p>Kontakt
   <p>Lead</td>
  </tr>
  <tr>
-  <td>Push an MSC</td>
-  <td>Push-Kontakt von Salesforce zu MSC</td>
+  <td>[!UICONTROL an MSC]</td>
+  <td>Kontakt von [!DNL Salesforce] an MSC pushen</td>
   <td>
   <p>Kontakt
   <p>Lead</td>
  </tr>
  <tr>
-  <td>E-Mail mit MSC</td>
-  <td>E-Mail mit MSC aus Salesforce</td>
+  <td>[!UICONTROL E-Mail mit MSC]</td>
+  <td>E-Mail mit MSC von [!DNL Salesforce]</td>
   <td>
   <p>Kontakt
   <p>Lead</td>

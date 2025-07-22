@@ -4,7 +4,7 @@ description: Funktionsweise einer E-Mail festlegen - Marketo-Dokumente - Produkt
 title: E-Mail funktionsfähig machen
 exl-id: e36c6a7b-2c50-4d9f-9e6d-0828ab3af5a8
 feature: Email Editor
-source-git-commit: 7c1bf673c2f7917c244dafdd3e8207203cd56bfb
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Operative E-Mails ignorieren den Status Abgemeldet und Marketing ausgesetzt . Si
 >
 >Operative E-Mails zählen nicht zu den Kommunikationsbeschränkungen. Wenn jemand beispielsweise nur eine E-Mail pro Woche erhalten kann und Sie ihm bereits eine Marketing-E-Mail gesendet haben, können Sie ihm bei Bedarf trotzdem eine operative E-Mail senden.
 
-1. Suchen Sie Ihre E-Mail, wählen Sie sie aus und klicken Sie auf **Entwurf bearbeiten**.
+1. Suchen Sie Ihre E-Mail, wählen Sie sie aus und klicken Sie auf **[!UICONTROL Entwurf bearbeiten]**.
 
 ![](assets/one-1.png)
 
@@ -27,11 +27,11 @@ Operative E-Mails ignorieren den Status Abgemeldet und Marketing ausgesetzt . Si
 >
 >Sie sollten nur operative E-Mails für kritische E-Mails und automatische Antworten verwenden. Sie sind nicht für Marketing-E-Mails vorgesehen.
 
-1. Klicken Sie nach dem Öffnen des Editors auf **E-Mail-Einstellungen**.
+1. Klicken Sie nach dem Öffnen des Editors auf **[!UICONTROL E-Mail-Einstellungen]**.
 
    ![](assets/two-1.png)
 
-1. Markieren Sie **Operative E-Mail** und klicken Sie auf **Speichern**.
+1. Markieren Sie **[!UICONTROL Operative E-Mail]** und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/three.png)
 

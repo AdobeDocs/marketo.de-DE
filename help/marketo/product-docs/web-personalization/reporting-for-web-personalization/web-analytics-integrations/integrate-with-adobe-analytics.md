@@ -4,9 +4,9 @@ description: Integration mit Adobe Analytics - Marketo-Dokumente - Produktdokume
 title: Integration mit Adobe Analytics
 exl-id: 6ea35811-6f3d-4dc8-91aa-877d613f8e93
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '1067'
+source-wordcount: '1059'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 ## Einführung {#intro}
 
-Analysieren Sie Ihre Web-Analysen aus der B2B-Perspektive, indem Sie die Kampagnendaten von Organisation, Branche und Marketo Real-Time Personalization (RTP) in Ihrem Adobe Analytics-Konto anzeigen.
+Analysieren Sie Ihre Web-Analysen aus der B2B-Perspektive, indem Sie die Kampagnendaten Ihrer Organisation, Branche und [!DNL Marketo Real-Time Personalization] (RTP) in Ihrem Adobe Analytics-Konto anzeigen.
 
-Dieses Dokument ermöglicht die Integration zwischen Marketo Real-Time Personalization (RTP) und Adobe Adobe Analytics. Daten von RTP ermöglichen es Ihnen, Trends in allen Branchensegmenten und Organisationen, die Ihre Site besuchen, zu erkennen und zu analysieren und die Effektivität Ihrer RTP-Kampagnen zu messen, um die Einblicke und Analysen zu erhalten, um optimale Ergebnisse zu erzielen.
+Dieses Dokument ermöglicht die Integration zwischen [!DNL Marketo Real-Time Personalization] (RTP) und Adobe Adobe Analytics. Daten von RTP ermöglichen es Ihnen, Trends in allen Branchensegmenten und Organisationen, die Ihre Site besuchen, zu erkennen und zu analysieren und die Effektivität Ihrer RTP-Kampagnen zu messen, um die Einblicke und Analysen zu erhalten, um optimale Ergebnisse zu erzielen.
 
 Dies können Sie erreichen, indem Sie sich Metriken wie die Anzahl der neuen oder wiederkehrenden Besucher in jedem Segment ansehen, Klickraten in Kampagnen analysieren und herausfinden, welche Branchen und benutzerdefinierten Segmente und Echtzeit-Kampagnen die besten Konversions-Leads generiert haben. Nutzen Sie diese Möglichkeit, um den maximalen Nutzen aus Ihrem RTP-Konto zu ziehen.
 
@@ -31,7 +31,7 @@ Mit der Integration von RTP - AA erhalten Sie eine neue Dimension in Ihrer Web-A
 
 Dadurch werden Ihre B2B-Daten verbessert und Sie können sich auf relevante Besucher konzentrieren, indem Sie Folgendes optimieren:
 
-1. Ausgehende Kanäle
+1. Outbound-Kanäle
 1. Inhalt
 1. Retargeting
 
@@ -62,9 +62,9 @@ Die Integration verwendet die von Adobe Analytics angebotene JavaScript-API. Ben
 
 Führen Sie die folgenden Schritte aus, um diese Variablen in AA einzurichten:
 
-1. Navigieren Sie **Admin Tools** in Ihrem AA-Konto.
-1. Wählen Sie **Report Suite** aus, die mit der Integration verwendet werden soll.
-1. Gehen Sie **„Einstellungen bearbeiten** zu **Konversion** und wählen Sie **[Konversionsvariablen](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**.\
+1. Navigieren Sie **[!UICONTROL Admin Tools]** in Ihrem AA-Konto.
+1. Wählen Sie **[!UICONTROL Report Suite]** aus, die mit der Integration verwendet werden soll.
+1. Gehen Sie **[!UICONTROL „Einstellungen bearbeiten]** zu **[!UICONTROL Konversion]** und wählen Sie **[[!UICONTROL Konversionsvariablen]](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**.\
    Wählen Sie die Nummer [Konversionsvariable](https://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar) aus (wird empfohlen):
 
    1. eVar 20 für benutzerspezifische Konversionen in der Branche
@@ -74,13 +74,13 @@ Führen Sie die folgenden Schritte aus, um diese Variablen in AA einzurichten:
    >
    >Wenn diese # verwendet werden, wählen Sie eine andere verfügbare Zahl. Richten Sie diese Nummer an der Slot-Nummer in den RTP-Kontoeinstellungen aus.
 
-   1. Ändern Sie den Status in _Aktiviert_.
+   1. Ändern Sie den Status in _[!UICONTROL enabled_].
 
       1. Ändern Sie den Namen in **Branche** und **Organisation**. (So wird sie in der Report Suite angezeigt.)
 
-      1. Ändern Sie das Feld Ablauf nach in **Besuch**.
+      1. Ändern Sie das Feld Ablauf nach in **[!UICONTROL Besuch]**.
 
-1. Wechseln **unter** zu **Konversion** und wählen Sie **[Erfolgsereignisse](https://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)**.
+1. Wechseln **[!UICONTROL unter]** zu **[!UICONTROL Konversion]** und wählen Sie **[[!UICONTROL Erfolgsereignisse]](https://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)**.
 
    1. Wählen Sie die Ereignisnummer für benutzerdefinierte Erfolgsereignisse aus (wird empfohlen):
 
@@ -95,7 +95,7 @@ Führen Sie die folgenden Schritte aus, um diese Variablen in AA einzurichten:
 
    1. Wählen Sie das Feld Typ als **Zähler (keine untergeordneten Beziehungen)**
 
-1. Wechseln **unter „Einstellungen bearbeiten** zu **[Traffic](https://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable)** und wählen Sie **[Traffic-Variablen](https://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)**.
+1. Wechseln **[!UICONTROL unter „Einstellungen bearbeiten]** zu **[Traffic](https://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable)** und wählen Sie **[Traffic-Variablen](https://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)**.
 
    1. Wählen Sie die Eigenschaft „Traffic-Variable“ # (empfohlen):
 
@@ -110,21 +110,21 @@ Führen Sie die folgenden Schritte aus, um diese Variablen in AA einzurichten:
 
       1. Ändern Sie die vier Eigenschaftsnamen. Dies ist der Name, der in der Report Suite angezeigt wird.
 
-   1. Wählen Sie das Feld Aktiviert aus, um **Aktiviert**.
+   1. Wählen Sie [!UICONTROL  Feld ]Aktiviert“ aus, um **[!UICONTROL Aktiviert]**.
 
-   1. Wählen Sie das Feld Pfadberichte zu **Aktiviert**.
+   1. Wählen Sie [!UICONTROL  Feld ]Pfadberichte“ aus, um **[!UICONTROL Aktiviert]**.
 
-## In Marketo Real-Time Personalization (RTP) einrichten {#set-up-in-marketo-real-time-personalization-rtp}
+## In [!DNL Marketo Real-Time Personalization] eingerichtet (RTP) {#set-up-in-marketo-real-time-personalization-rtp}
 
-1. Navigieren Sie in der RTP-Plattform zu **Kontoeinstellungen**.
+1. Navigieren Sie in der RTP-Plattform zu **[!UICONTROL Kontoeinstellungen]**.
 
    ![](assets/image2014-11-29-11-3a27-3a7.png)
 
-1. Klicken **unter &quot;**&quot; auf **Domain**.
-1. Klicken Sie unter **Analytics** auf **Adobe Analytics**.
-1. Schalten **die** Konversions-, Custom- und Traffic-Variablen ein.
+1. Klicken **[!UICONTROL unter &quot;]**&quot; auf **[!UICONTROL Domain]**.
+1. Klicken **[!UICONTROL unter &quot;]**&quot; auf **Adobe Analytics**.
+1. Schalten **[!UICONTROL die]** Konversions-, Custom- und Traffic-Variablen ein.
 1. Weisen Sie die Konversions-, Ereignis- und Traffic **Variablen (Slot-Nummern** zu, um die Slot-Nummern in AA zu entsprechen
-1. Klicken Sie auf **Speichern**.
+1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
 ![](assets/image2014-11-29-12-3a24-3a42.png)
 
@@ -134,20 +134,20 @@ Führen Sie die folgenden Schritte aus, um diese Variablen in AA einzurichten:
 >
 >**Konversionsvariablen**
 >
->* Benutzerdefinierte Konversionen in der Branche - Steckplatz 20
->* Benutzerdefinierte Konversionen für Organisationen - Steckplatz 21
+>* [!UICONTROL Branchenspezifische Konversionen] - Steckplatz 20
+>* [!UICONTROL Benutzerdefinierte Organisationskonversionen] - Steckplatz 21
 >
 >**Benutzerspezifische Ereignisse**
 >
->* Benutzerdefiniertes Ereignis in Campaign - Slot 20
->* Benutzerdefiniertes Ereignis segmentieren - Steckplatz 21
+>* [!UICONTROL Benutzerspezifisches Ereignis in Campaign] - Steckplatz 20
+>* [!UICONTROL Benutzerspezifisches Ereignis segmentieren] - Steckplatz 21
 >
 >**Traffic-Variablen**
 >
->* Traffic-Variable der Segmentorganisation - Slot 20
->* Segment-Traffic-Variable der Branche - Slot 21
->* Traffic-Variable der Campaign-Organisation - Slot 22
->* Campaign-Traffic-Variable der Branche - Slot 23
+>* [!UICONTROL Traffic-Variable der Segmentorganisation] - Steckplatz 20
+>* [!UICONTROL Segment-Traffic-Variable der Branche] - Steckplatz 21
+>* [!UICONTROL Traffic-Variable der Campaign-Organisation] - Slot 22
+>* [!UICONTROL Traffic-Variable der Campaign-Branche] - Slot 23
 >
 >**Stellen Sie sicher, dass diese Steckplatznummern mit den in AA erstellten Variablen und Ereignisnummern übereinstimmen.**
 
@@ -176,7 +176,7 @@ Beispiele für **-Berichte-**
 
 Erstellen Sie ein [neues Dashboard](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add.html) namens **RTP-Dashboard**. Dieses Dashboard hilft Ihnen, die Aufschlüsselung Ihrer Besucher nach Vertikalen und RTP-Segmenten zu verstehen.
 
-1. Klicken Sie **Dashboard** klicken Sie auf **Dashboard hinzufügen**.
+1. Klicken Sie **[!UICONTROL Dashboard]** auf **[!UICONTROL Dashboard hinzufügen]**.
 
 1. Benennen Sie das Dashboard **RTP-Dashboard**.
 
@@ -186,11 +186,11 @@ Erstellen Sie ein [neues Dashboard](https://microsite.omniture.com/t2/help/en_US
 
 Hinzufügen des Branchen-Reportlets zum Dashboard
 
-1. Gehen Sie zu **Benutzerdefinierte Konversionen** und klicken Sie auf **Branche**.
+1. Gehen Sie zu **[!UICONTROL Benutzerdefinierte Konversionen]** und klicken Sie auf **[!UICONTROL Branche]**.
 
 1. Konfigurieren des Diagramms für **Tortendiagramm**.
 
-1. Klicken Sie auf **Dashboard**, fügen Sie **Reportlet** hinzu.
+1. Klicken Sie auf **[!UICONTROL Dashboard]**, fügen Sie **[!UICONTROL Reportlet]** hinzu.
 
 1. Benennen Sie den Bericht **Top-Branchen**.
 
@@ -200,11 +200,11 @@ Hinzufügen des Branchen-Reportlets zum Dashboard
 
 Hinzufügen des Segment-Reportlets zum Dashboard
 
-1. Navigieren Sie zu **Site-Metriken**. Klicken Sie auf **Benutzerspezifische Ereignisse**, **Segmente**.
+1. Navigieren Sie zu **[!UICONTROL Site-Metriken]**. Klicken Sie auf **[!UICONTROL Benutzerspezifische Ereignisse]**, **[!UICONTROL Segmente]**.
 
 1. Konfigurieren Sie das Diagramm für **vertikalen Balken**.
 
-1. Klicken Sie auf **Dashboard**, fügen Sie **Reportlet** hinzu.
+1. Klicken Sie auf **[!UICONTROL Dashboard]**, fügen Sie **[!UICONTROL Reportlet]** hinzu.
 
 1. Benennen Sie den Bericht **Top-Segmente**.
 
@@ -216,7 +216,7 @@ Ihre Reportlets werden im Dashboard angezeigt.
 
 ## Anzeigen von Impressionen und Klicks (Konversionen) in Adobe Analytics {#view-impressions-and-clicks-conversions-in-adobe-analytics}
 
-1. Klicken Sie auf **Benutzerdefinierte Links**.
+1. Klicken Sie **[!UICONTROL Benutzerdefinierte] Links**.
 
    ![](assets/sitecatalyst1-1.png)
 

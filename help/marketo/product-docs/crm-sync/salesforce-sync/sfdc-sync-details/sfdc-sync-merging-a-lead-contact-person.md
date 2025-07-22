@@ -4,9 +4,9 @@ description: SFDC-Synchronisierung - Zusammenführen von Leads/Kontakten/Persone
 title: SFDC-Synchronisierung - Zusammenführen von Leads/Kontakten/Personen
 exl-id: 0e755c80-27cd-4ba3-b540-d7918264c5f6
 feature: Salesforce Integration
-source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 Manchmal ist es am besten, nur die Regeln aufzulisten. Los geht&#39;s:
 
-* Wenn Sie zwei Leads in **Salesforce** zusammenführen, werden Marketo Engage und die Leads bei der normalen Synchronisierung automatisch als Personen in Marketo zusammengeführt.
-* Beim Zusammenführen von zwei Personen in **Marketo** wird derselbe Prozess aufgerufen wie beim Zusammenführen als Leads in Salesforce. Es funktioniert weiterhin automatisch.
+* Wenn Sie zwei Leads in **[!DNL Salesforce]** zusammenführen, teilt die normale Synchronisierung Marketo mit, dass die Leads automatisch als Personen in Marketo zusammengeführt werden.
+* Beim Zusammenführen von zwei Personen in **Marketo** wird derselbe Prozess aufgerufen wie beim Zusammenführen als Leads in [!DNL Salesforce]. Es funktioniert weiterhin automatisch.
 * Das Zusammenführen **Leads (Personen) in einem Kontakt** funktioniert genauso. Am Ende haben Sie auf beiden Seiten einen einzigen Kontakt.
 * Beim Zusammenführen wird die Standardpunktzahl summiert.
 

@@ -4,7 +4,7 @@ description: Verwenden eines Formulars in einer Lightbox - Marketo-Dokumente - P
 title: Verwenden eines Formulars in einer Lightbox
 exl-id: 4cbb6ae7-acd4-4979-8825-fa983fdc8fb5
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Eine Lightbox ist eine Technik, mit der ein Formular vor dem Inhalt geöffnet wird, wenn es angezeigt werden soll. So geht&#39;s.
 
-1. Navigieren Sie **Marketing-Aktivitäten**.
+1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities-8.png)
 
@@ -23,7 +23,7 @@ Eine Lightbox ist eine Technik, mit der ein Formular vor dem Inhalt geöffnet wi
 
    ![](assets/image2014-9-15-14-3a32-3a15.png)
 
-1. Klicken **unter „Formularaktionen** auf **Code einbetten**.
+1. Klicken **[!UICONTROL unter „Formularaktionen]** auf **[!UICONTROL Code einbetten]**.
 
    >[!NOTE]
    >
@@ -31,11 +31,11 @@ Eine Lightbox ist eine Technik, mit der ein Formular vor dem Inhalt geöffnet wi
 
    ![](assets/image2014-9-15-14-3a32-3a24.png)
 
-1. Legen Sie **Code-Typ** auf **Lightbox** fest.
+1. Legen Sie **[!UICONTROL Code-Typ]** auf **[!UICONTROL Lightbox]** fest.
 
    ![](assets/image2014-9-15-14-3a32-3a31.png)
 
-1. Wählen/kopieren Sie den Code und klicken Sie auf **Schließen**.
+1. Wählen/kopieren Sie den Code und klicken Sie auf **[!UICONTROL Schließen]**.
 
    ![](assets/image2014-9-15-14-3a32-3a39.png)
 

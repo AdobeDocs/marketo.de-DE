@@ -4,9 +4,9 @@ description: Suchen und Zusammenführen von doppelten Personen - Marketo-Dokumen
 title: Doppelte Personen suchen und zusammenführen
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
 feature: Smart Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '403'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Marketo Engage dedupliziert automatisch, wenn neue Personen in das System eintre
 
 >[!NOTE]
 >
->Marketo wird nicht automatisch für eine Salesforce- oder Microsoft Dynamics-Synchronisierung dedupliziert oder wenn Sie Personen manuell eingeben.
+>Marketo wird nicht automatisch dedupliziert, wenn ein [!DNL Salesforce] oder eine [!DNL Microsoft Dynamics] Synchronisierung durchgeführt wird oder Sie Personen manuell eingeben.
 
 ## Duplikate suchen {#find-duplicates}
 
@@ -35,7 +35,7 @@ Marketo Engage dedupliziert automatisch, wenn neue Personen in das System eintre
 
    >[!CAUTION]
    >
-   >Personen in Marketo zusammenzuführen funktioniert möglicherweise nicht, wenn Sie ein Salesforce-Personenkonto verwenden. Bitte die Datensätze in Salesforce zusammenführen, falls möglich.
+   >Das Zusammenführen von Personen in Marketo funktioniert möglicherweise nicht, wenn Sie ein [!DNL Salesforce] Personen -Konto verwenden. Bitte die Einträge nach Möglichkeit in [!DNL Salesforce] zusammenführen.
 
 1. Wählen Sie die **[!UICONTROL Mögliche Duplikate]** System Smart List aus und klicken Sie auf die Registerkarte **[!UICONTROL People]**.
 
@@ -75,14 +75,14 @@ Marketo Engage dedupliziert automatisch, wenn neue Personen in das System eintre
 
 Wenn Sie über eine Salesforce-Integration verfügen, gibt es einige Hinweise über die Auswirkungen des Zusammenführens von Leads in Salesforce.
 
-* Wenn nur Leads oder nur Kontakte zusammengeführt werden, werden diese gemäß den üblichen Salesforce-Regeln zusammengeführt.
-* Beim Zusammenführen von Leads und Kontakten werden alle Leads vor dem Zusammenführen gemäß den üblichen Salesforce-Regeln in Kontakte konvertiert.
+* Wenn Leads oder nur Kontakte zusammengeführt werden, werden sie gemäß den normalen [!DNL Salesforce] zusammengeführt.
+* Beim Zusammenführen von Leads und Kontakten werden alle Leads vor dem Zusammenführen gemäß den normalen [!DNL Salesforce] in Kontakte konvertiert.
 
-Details zum Verhalten von Salesforce beim Zusammenführen von Leads oder Kontakten finden Sie in den folgenden Salesforce-Dokumenten:
+Details zum Verhalten von Salesforce beim Zusammenführen von Leads oder Kontakten finden Sie in den folgenden [!DNL Salesforce] Dokumenten:
 
-* [Zusammenführen doppelter Leads](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&amp;language=en_US){target="_blank"}
-* [Doppelte Kontakte werden zusammengeführt](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&amp;language=en_US){target="_blank"}
+* [Zusammenführen doppelter Leads](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&language=en_US){target="_blank"}
+* [Doppelte Kontakte werden zusammengeführt](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&language=en_US){target="_blank"}
 
 ## Massenzusammenführung {#bulk-merging}
 
-Wenn Sie zu viele Duplikate zum manuellen Zusammenführen haben, wenden Sie sich an das Adobe-Account-Team (Ihren Account Manager), um Ihre Optionen zu besprechen.
+Wenn Sie zu viele Duplikate zum manuellen Zusammenführen haben, wenden Sie sich an das Adobe Account Team (Ihren Account Manager), um Ihre Optionen zu besprechen.

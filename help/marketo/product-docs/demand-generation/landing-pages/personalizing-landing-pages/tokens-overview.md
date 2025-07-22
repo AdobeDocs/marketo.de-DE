@@ -4,10 +4,10 @@ description: Token-Übersicht - Marketo-Dokumente - Produktdokumentation
 title: Token-Übersicht
 exl-id: d60816ce-33fb-4e18-8acd-71d4e90f47de
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '300'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -27,7 +27,7 @@ In diesem Beispiel lautet die E-Mail „Grußformeln, (Vorname)“ oder „Gruß
 
 >[!CAUTION]
 >
->Token funktionieren nicht im Preheader, wenn Sie den E-Mail-Editor von Marketo verwenden. Um ein Token im Preheader zu verwenden, muss dies über Ihren eigenen HTML in einer E-Mail-Vorlage erfolgen.
+>Token funktionieren nicht im Preheader, wenn Sie den E-Mail-Editor von Marketo verwenden. Um ein Token im Preheader zu verwenden, muss dies über Ihre eigene HTML in einer E-Mail-Vorlage erfolgen.
 
 >[!NOTE]
 >
@@ -157,9 +157,9 @@ In diesem Beispiel lautet die E-Mail „Grußformeln, (Vorname)“ oder „Gruß
 * `{{program.Description}}`
 * `{{program.id}}`
 
-## Meine Token {#my-tokens}
+## [!UICONTROL Meine Token] {#my-tokens}
 
-Meine Token werden in einem Programm definiert und beginnen mit `{{my.` , gefolgt vom Namen, den Sie für das Token erstellt haben. Erfahren Sie mehr über [Meine Token in einem Programm](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md).
+[!UICONTROL Meine Token] werden in einem Programm definiert und beginnen mit `{{my.` gefolgt vom Namen, den Sie für das Token erstellt haben. Erfahren Sie mehr über [Meine Token in einem Programm](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md).
 
 ## Mitglieds-Token {#member-token}
 

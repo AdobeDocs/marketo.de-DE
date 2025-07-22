@@ -4,10 +4,10 @@ description: Hinzufügen einer Ziel-URL zu einer Web-Kampagne - Marketo-Dokument
 title: Hinzufügen einer Ziel-URL zu einer Web-Kampagne
 exl-id: 5fbb3f12-1474-46c3-8315-8d081422e154
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '255'
-ht-degree: 3%
+source-wordcount: '257'
+ht-degree: 1%
 
 ---
 
@@ -17,15 +17,15 @@ Unter der Seite Kampagne festlegen befindet sich eine Ziel-URL, die die spezifis
 
 ## Hinzufügen einer Ziel-URL für Dialog- oder Widget-Web-Kampagnen {#adding-a-target-url-for-dialog-or-widget-web-campaigns}
 
-1. Gehen Sie zu **Web-Kampagnen**.
+1. Gehen Sie zu **[!UICONTROL Web-Kampagnen]**.
 
    ![](assets/web-campaigns-hand-5.jpg)
 
-1. Wählen **Neue Web-Kampagne erstellen**.
+1. Wählen **[!UICONTROL Neue Web-Kampagne erstellen]**.
 
    ![](assets/create-new-web-campaign-hand.jpg)
 
-1. Fügen Sie einen **Kampagnennamen“**. Wählen Sie ein **Zielsegment** aus. Fügen Sie **Target-URL** hinzu.
+1. Fügen Sie einen **[!UICONTROL Kampagnennamen“]**. Wählen Sie ein **[!UICONTROL Zielsegment]** aus. Fügen Sie **[!UICONTROL Target-URL]** hinzu.
 
    ![](assets/set-web-campaign-hands.jpg)
 
@@ -38,11 +38,11 @@ Unter der Seite Kampagne festlegen befindet sich eine Ziel-URL, die die spezifis
  </thead> 
  <tbody> 
   <tr> 
-   <td colspan="1" rowspan="1"><strong>Beliebige Seite</strong></td> 
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Beliebige Seite]</strong></td> 
    <td colspan="1" rowspan="1"><p>Kampagne darf auf jeder Seite angezeigt werden.</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p><strong>URL-Parameter beim Abgleich einbeziehen</strong></p></td> 
+   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL URL-Parameter beim Abgleichen einschließen]</strong></p></td> 
    <td colspan="1" rowspan="1">Fügen Sie einen URL-Parameter hinzu, um Kampagnen-URLs, die diesen Parameter enthalten, abzugleichen und anzuzeigen. Z. B. campaign=cpc</td> 
   </tr> 
  </tbody> 
@@ -50,7 +50,7 @@ Unter der Seite Kampagne festlegen befindet sich eine Ziel-URL, die die spezifis
 
 ## Hinzufügen mehrerer URLs zur Ziel-URL {#adding-multiple-urls-to-target-url}
 
-Durch Klicken auf das Pluszeichen (![—](assets/image2015-2-18-8-3a40-3a59.png)) wird das Dialogfeld für die Eingabe mehrerer Werte geöffnet, in dem mehrere URLs hinzugefügt werden können. Fügen Sie pro Zeile eine URL hinzu.
+Durch Klicken auf das Pluszeichen (![—](assets/image2015-2-18-8-3a40-3a59.png)) wird das Dialogfeld [!UICONTROL Eingabe mehrerer Werte] geöffnet, um mehrere URLs hinzuzufügen. Fügen Sie pro Zeile eine URL hinzu.
 
 ![](assets/image2015-2-23-18-3a15-3a57.png)
 
@@ -62,15 +62,15 @@ Durch Klicken auf das Pluszeichen (![—](assets/image2015-2-18-8-3a40-3a59.png)
 
 ## Hinzufügen einer Ziel-URL für In-Zone-Web-Kampagnen {#adding-a-target-url-for-in-zone-web-campaigns}
 
-1. Gehen Sie zu **Web** **Kampagnen**.
+1. Gehen Sie zu **[!UICONTROL Web-Kampagnen]**.
 
    ![](assets/web-campaigns-hand-5.jpg)
 
-1. Wählen **Neue Web-Kampagne erstellen**.
+1. Wählen **[!UICONTROL Neue Web-Kampagne erstellen]**.
 
    ![](assets/create-new-web-campaign-hand.jpg)
 
-1. Fügen Sie einen **Kampagnennamen“**. Wählen Sie ein **Zielsegment** aus. Fügen Sie **Target-URL** hinzu.
+1. Fügen Sie einen **[!UICONTROL Kampagnennamen“]**. Wählen Sie ein **[!UICONTROL Zielsegment]** aus. Fügen Sie **[!UICONTROL Target-URL]** hinzu.
 
    >[!NOTE]
    >

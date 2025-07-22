@@ -3,14 +3,14 @@ description: Wie kann ich das Problem beheben, dass wir Ihre Anfrage nicht authe
 title: Wie kann ich das Problem beheben, dass wir Ihre Anfrage beim Herstellen einer Verbindung mit Salesforce nicht authentifizieren konnten?
 exl-id: ef876f0f-bd76-4ba5-bf48-885ee048ceae
 feature: Sales Insight Actions
-source-git-commit: 0899b8cf9c97953d7212e79164d26d2f42dfeb23
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '350'
+source-wordcount: '349'
 ht-degree: 0%
 
 ---
 
-# Wie kann ich das Problem beheben, dass wir Ihre Anfrage beim Herstellen einer Verbindung mit Salesforce nicht authentifizieren konnten? {#how-do-i-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce}
+# Wie kann ich das Problem beheben, dass wir Ihre Anfrage beim Herstellen einer Verbindung mit [!DNL Salesforce] nicht authentifizieren konnten? {#how-do-i-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce}
 
 Wenn Sie versuchen, Ihre Marketo-Verkaufsinstanz mit Salesforce zu verbinden und der Fehler „Wir können Ihre Anfrage nicht authentifizieren“ angezeigt wird, hängt dies wahrscheinlich mit der Konfiguration Ihrer Salesforce-Instanz zusammen.
 
@@ -50,4 +50,4 @@ Wenn Sie die Fehlermeldung „Wir konnten Ihre Anfrage nicht authentifizieren“
 1. Wählen Sie **Setup** aus.
 1. Wählen Sie **Apps verwalten** aus.
 1. Wählen Sie **Connected Apps OAuth Usage** aus.
-1. Stellen Sie sicher, dass bei Sales Insight-Aktionen „Block“ daneben angezeigt wird. Wenn Sie „Blockierung aufheben“ sehen, klicken Sie auf die Schaltfläche, um den Zugriff von Sales Insight-Aktionen auf Salesforce aufzuheben.
+1. Stellen Sie sicher, dass neben Sales Insight Actions „Block“ angezeigt wird. Wenn Sie „Blockierung aufheben“ sehen, klicken Sie auf die Schaltfläche, um den Zugriff von Sales Insight Actions auf Salesforce aufzuheben.

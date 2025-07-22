@@ -4,7 +4,7 @@ description: Hinzufügen von Inhalten zu einem Stream - Marketo-Dokumente - Prod
 title: Hinzufügen von Inhalten zu einem Stream
 exl-id: b2db9f49-2baa-4d42-9755-480390a91041
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 1%
@@ -15,11 +15,11 @@ ht-degree: 1%
 
 Nachdem Sie Ihr Interaktionsprogramm erstellt haben, müssen Sie Inhalte zu den Streams hinzufügen. Sie können E-Mails oder Programme zu einem Stream hinzufügen.
 
-1. Navigieren Sie **Marketing-Aktivitäten**.
+1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/add-content-to-a-stream-1.png)
 
-1. Wählen Sie Ihr Interaktionsprogramm aus und wechseln Sie zur Registerkarte **Streams** .
+1. Wählen Sie Ihr Interaktionsprogramm aus und wechseln Sie zur Registerkarte **[!UICONTROL Streams]** .
 
    ![](assets/add-content-to-a-stream-2.png)
 
@@ -27,11 +27,11 @@ Nachdem Sie Ihr Interaktionsprogramm erstellt haben, müssen Sie Inhalte zu den 
 
 **Schaltfläche „Inhalt hinzufügen“**
 
-1. Klicken Sie auf **Schaltfläche** Inhalt hinzufügen“.
+1. Klicken Sie auf **[!UICONTROL Schaltfläche]** Inhalt hinzufügen“.
 
    ![](assets/add-content-to-a-stream-3.png)
 
-1. Wählen Sie **E** Mail _oder_ **Programm** und wählen Sie dann die E-Mail-Adresse oder das Programm/die Smart-Kampagne aus, die Sie hinzufügen möchten.
+1. Wählen Sie **[!UICONTROL E]** Mail _oder_ **[!UICONTROL Programm]** und wählen Sie dann die E-Mail-Adresse oder das Programm/die Smart-Kampagne aus, die Sie hinzufügen möchten.
 
    ![](assets/add-content-to-a-stream-4.png)
 
@@ -41,13 +41,13 @@ Nachdem Sie Ihr Interaktionsprogramm erstellt haben, müssen Sie Inhalte zu den 
 
 **+-Symbol**
 
-1. Klicken Sie auf das Symbol **+**, wählen Sie **E-Mail** _oder_&#x200B;**Programm** und dann die E-Mail-Adresse oder das Programm/die intelligente Kampagne aus, die Sie hinzufügen möchten.
+1. Klicken Sie auf das Symbol **+**, wählen Sie **[!UICONTROL E-Mail]** _oder_**[!UICONTROL Programm]** und dann die E-Mail-Adresse oder das Programm/die intelligente Kampagne aus, die Sie hinzufügen möchten.
 
    ![](assets/add-content-to-a-stream-5.png)
 
    >[!NOTE]
    >
-   >Eine intelligente Kampagne muss den Filter **Mitglied des Interaktionsprogramms** enthalten, damit sie ordnungsgemäß funktioniert.
+   >Eine intelligente Kampagne muss den Filter **[!UICONTROL Mitglied des Interaktionsprogramms]** enthalten, damit sie ordnungsgemäß funktioniert.
 
 Gut gemacht! Sie wissen jetzt, wie Sie Ihren Programm-Streams Inhalte hinzufügen. Fügen Sie so viel hinzu, wie Sie für Ihre Pflege benötigen. Weitere Informationen finden Sie im entsprechenden Artikel weiter unten.
 

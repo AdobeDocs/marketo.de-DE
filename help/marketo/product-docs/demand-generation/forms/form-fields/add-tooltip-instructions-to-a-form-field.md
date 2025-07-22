@@ -4,7 +4,7 @@ description: Hinzufügen von QuickInfo-Anweisungen zu einem Formularfeld - Marke
 title: Hinzufügen von QuickInfo-Anweisungen zu einem Formularfeld
 exl-id: 455d19de-2e2b-447d-a210-7d77fdda6dc9
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 1%
@@ -23,23 +23,23 @@ ht-degree: 1%
 >
 >Formular **Anweisungen** sind kleine QuickInfos, die angezeigt werden, wenn der Besucher den Mauszeiger über das Feld bewegt.
 
-1. Navigieren Sie **Marketing-Aktivitäten**.
+1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities-6.png)
 
-1. Wählen Sie Ihr **Formular** und klicken Sie auf **Formular bearbeiten**.
+1. Wählen Sie Ihr **Formular** und klicken Sie auf **[!UICONTROL Formular bearbeiten]**.
 
    ![](assets/image2014-9-15-14-3a15-3a42.png)
 
-1. Wählen Sie Ihr Feld aus und geben Sie &quot;**&quot;**.
+1. Wählen Sie Ihr Feld aus und geben Sie &quot;**[!UICONTROL &quot;]**.
 
    ![](assets/image2014-9-15-14-3a15-3a49.png)
 
-1. Klicken Sie auf **Fertigstellen**.
+1. Klicken Sie auf **[!UICONTROL Fertigstellen]**.
 
    ![](assets/image2014-9-15-14-3a15-3a57.png)
 
-1. Klicken Sie **Genehmigen und schließen**.
+1. Klicken Sie **[!UICONTROL Genehmigen und schließen]**.
 
    ![](assets/image2014-9-15-14-3a16-3a3.png)
 

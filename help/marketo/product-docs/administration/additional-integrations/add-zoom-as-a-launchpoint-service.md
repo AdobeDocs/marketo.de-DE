@@ -4,9 +4,9 @@ description: Add [!DNL Zoom] as a [!DNL LaunchPoint] Service - Marketo-Dokumente
 title: ' [!DNL Zoom]  as a [!DNL LaunchPoint] Service'
 exl-id: f5ea016e-d4ca-4adf-be29-14810e9f509c
 feature: Administration, Integrations
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -55,7 +55,7 @@ Ihr [!DNL Zoom]-Konto wird jetzt mit Marketo synchronisiert und befindet sich im
 
 >[!CAUTION]
 >
->Wenn Sie Ihr Kennwort in Zoom aktualisieren, müssen Sie auch Ihr Kennwort in Marketo aktualisieren.
+>Wenn Sie Ihr Kennwort in [!DNL Zoom] aktualisieren, müssen Sie auch Ihr Kennwort in Marketo aktualisieren.
 
 >[!MORELIKETHIS]
 >

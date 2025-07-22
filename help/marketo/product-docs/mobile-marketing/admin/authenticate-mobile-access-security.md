@@ -4,16 +4,16 @@ description: Authentifizieren der Mobile Access Security - Marketo-Dokumente - P
 title: Mobile Zugriffssicherheit authentifizieren
 exl-id: c8f5f15e-c45b-4751-aa1a-d58d0fd056df
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '144'
 ht-degree: 1%
 
 ---
 
 # Mobile Zugriffssicherheit authentifizieren {#authenticate-mobile-access-security}
 
-Um die Sicherheit für Mobilbenutzer zu verbessern, bietet Marketo zwei neue IDs: den Zugriffsschlüssel und den Zugriffsschlüssel. Dadurch wird sichergestellt, dass Benutzer, die sich bei Ihrer App anmelden, auch wirklich der sind, der sie zu sein scheinen.
+Um die Sicherheit für Mobilbenutzer zu verbessern, bietet Marketo zwei neue IDs: den [!UICONTROL Zugriffsschlüssel] und den [!UICONTROL Zugriffsgeheimnis]. Dadurch wird sichergestellt, dass Benutzer, die sich bei Ihrer App anmelden, auch wirklich der sind, der sie zu sein scheinen.
 
 Um die IDs zu aktivieren, müssen Sie die Codes abrufen und sie Ihrer IT-Abteilung bereitstellen, damit diese einen sicheren Treffer einrichten kann.
 
@@ -21,7 +21,7 @@ Um die IDs zu aktivieren, müssen Sie die Codes abrufen und sie Ihrer IT-Abteilu
 >
 >Um diese Funktion zu aktivieren, wenden Sie sich an den Support und fordern Sie den „Vespa Secure Mode“ an.
 
-1. Wählen Sie in Marketo **Admin** aus und klicken Sie auf **Mobile Apps und Geräte**.
+1. Wählen Sie in Marketo **[!UICONTROL Admin]** aus und klicken Sie auf **[!UICONTROL Mobile Apps und Geräte]**.
 
    ![](assets/image2015-12-1-14-3a36-3a30.png)
 
@@ -29,14 +29,14 @@ Um die IDs zu aktivieren, müssen Sie die Codes abrufen und sie Ihrer IT-Abteilu
 
    ![](assets/image2015-12-2-10-3a18-3a6.png)
 
-1. Scrollen Sie nach unten und klicken Sie im Abschnitt Zugriffssicherheit auf **Bearbeiten**.
+1. Scrollen Sie nach unten und klicken Sie [!UICONTROL  Abschnitt ] auf **[!UICONTROL Bearbeiten]**.
 
    ![](assets/image2015-12-1-14-3a41-3a37.png)
 
-1. Aktivieren Sie das **Sicherheit aktivieren**. Klicken Sie auf **Speichern**.
+1. Aktivieren Sie das **[!UICONTROL Sicherheit aktivieren]**. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/image2015-12-1-14-3a54-3a0.png)
 
-1. Im Bereich Zugriffssicherheit werden nun die beiden neuen Codes angezeigt. Stellen Sie sicher, dass Sie diese an Ihre IT-Abteilung senden.
+1. Im Bereich [!UICONTROL Zugriffssicherheit] werden nun die beiden neuen Codes angezeigt. Stellen Sie sicher, dass Sie diese an Ihre IT-Abteilung senden.
 
    ![](assets/image2015-12-1-14-3a57-3a34.png)

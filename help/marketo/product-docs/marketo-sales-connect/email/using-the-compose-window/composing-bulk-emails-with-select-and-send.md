@@ -4,7 +4,7 @@ description: Erstellen von Massen-E-Mails mit Auswählen und Senden - Marketo-Do
 title: Erstellen von Massen-E-Mails mit Auswählen und Senden
 exl-id: 99a53f7a-bf3c-40df-961c-1927476acd10
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '404'
 ht-degree: 0%
@@ -17,7 +17,7 @@ So senden/bearbeiten Sie E-Mails mit der Option Auswählen und Senden .
 
 ## Sende E-Mails {#sending-emails}
 
-1. Navigieren Sie zur Seite Personen .
+1. Navigieren Sie zur Seite **[!UICONTROL Personen]**.
 
    ![](assets/one-2.png)
 
@@ -29,7 +29,7 @@ So senden/bearbeiten Sie E-Mails mit der Option Auswählen und Senden .
    >
    >Bei Verwendung von Auswählen und Senden können maximal 200 Personen ausgewählt werden.
 
-1. Klicken Sie auf die Schaltfläche **E-Mail ausgewählt**.
+1. Klicken Sie auf die Schaltfläche **[!UICONTROL E-Mail ausgewählt]**.
 
    ![](assets/three-2.png)
 
@@ -39,7 +39,7 @@ So senden/bearbeiten Sie E-Mails mit der Option Auswählen und Senden .
 
    >[!NOTE]
    >
-   >Wenn Sie eine Vorlage ausgewählt haben und vor dem Senden überprüfen möchten, ob alle dynamischen Felder korrekt ausgefüllt sind, klicken Sie auf **Vorschau der dynamischen Felder**. Stellen Sie sicher, dass in der Bulk-Seitenleiste alle Empfänger für die Vorschau aller E-Mails ausgewählt sind. Wenn Sie eine E-Mail auswählen und auf **Dynamische Felder in Vorschau anzeigen** wird nur diese E-Mail in der Vorschau angezeigt.
+   >Wenn Sie eine Vorlage ausgewählt haben und vor dem Senden überprüfen möchten, ob alle dynamischen Felder korrekt ausgefüllt sind, klicken Sie auf **[!UICONTROL Vorschau der dynamischen Felder]**. Stellen Sie sicher, dass in der Bulk-Seitenleiste alle Empfänger für die Vorschau aller E-Mails ausgewählt sind. Wenn Sie eine E-Mail auswählen und auf **[!UICONTROL Dynamische Felder in Vorschau anzeigen]** wird nur diese E-Mail in der Vorschau angezeigt.
 
 ## E-Mails bearbeiten {#editing-emails}
 
@@ -59,7 +59,7 @@ So senden/bearbeiten Sie E-Mails mit der Option Auswählen und Senden .
    >
    >Sie können auf einen bestimmten E-Mail-Empfänger klicken, um die an diesen E-Mail weitergegebenen Änderungen zu sehen.
 
-1. Klicken Sie **Senden** (oder [Zeitplan](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)), um die von Ihnen vorgenommenen Massenaktualisierungen an alle Empfänger zu senden.
+1. Klicken Sie **[!UICONTROL Senden]** (oder [[!UICONTROL Zeitplan]](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)), um die von Ihnen vorgenommenen Massenaktualisierungen an alle Empfänger zu senden.
 
    ![](assets/bulk-four.png)
 
@@ -89,7 +89,7 @@ Führen Sie Massenaktualisierungen durch, bevor Sie jede E-Mail anpassen, da dur
    >
    >Sie können auf Andere Empfänger klicken, um zu sehen, dass die Änderungen, die Sie an dem zuvor ausgewählten Empfänger vorgenommen haben, nicht angezeigt werden.
 
-1. Klicken Sie **Senden** (oder [Zeitplan](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)), um die von Ihnen vorgenommenen Massenaktualisierungen an alle Empfänger zu senden.
+1. Klicken Sie **[!UICONTROL Senden]** (oder [[!UICONTROL Zeitplan]](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)), um die von Ihnen vorgenommenen Massenaktualisierungen an alle Empfänger zu senden.
 
    ![](assets/each-four.png)
 

@@ -3,7 +3,7 @@ description: Details zum Benutzerzugriff - Marketo-Dokumente - Produktdokumentat
 title: Details zum Benutzerzugriff
 exl-id: 20e19848-fc46-4f12-af8a-3fa2b88e1af4
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '205'
 ht-degree: 0%
@@ -32,7 +32,7 @@ Administratoren können alle Personen in einer laufenden Kampagne anzeigen.
 
 ![](assets/user-access-details-4.png)
 
-Admins können Benutzende, Kampagnen und Kampagnenkategorien über die Dropdown-Liste Anzeigen als sehen.
+Admins können Benutzende, Kampagnen und Kampagnenkategorien über die Dropdown[!UICONTROL Liste Anzeigen als] anzeigen.
 
 ![](assets/user-access-details-5.png)
 
@@ -46,18 +46,18 @@ Administratoren können Kampagnen im Namen von Benutzern stoppen.
    * Benutzer können einen Drill-in nur für die Teams durchführen, zu denen sie gehören
    * Benutzer können ihre eigenen Analysen betrachten
 
-* Personen-Seite:
+* [!UICONTROL Personen] Seite:
 
    * Benutzende können Gruppen für alle freigeben
    * Benutzende können Gruppen nur für die Teams freigeben, zu denen sie gehören
    * Benutzer haben Sichtbarkeit für alle Personen in Ihrer Aktionsdatenbank
    * Wenn ein Benutzer gelöscht wird, übertragen seine freigegebenen Kontakte das Eigentum an den primären Administrator, der den Benutzer gelöscht hat
 
-* Team Management-Seite:
+* [!UICONTROL Team] Verwaltungsseite:
 
    * Nicht anzeigen
 
-* Vorlagenseite:
+* [!UICONTROL Vorlagen] Seite:
 
    * Benutzer können Vorlagen für alle freigeben
    * Benutzende können Vorlagen in Kategorien freigeben, die ihre Admins ihnen erlauben

@@ -4,7 +4,7 @@ description: Überschreiben des Analytics-Verhaltens auf Programmebene - Marketo
 title: Überschreiben des Analytics-Verhaltens auf Programmebene
 exl-id: 2fd86279-99ae-494d-a6f8-2572b7dcd892
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 1%
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Sie können das [Analytics-Verhalten auf der Admin-Ebene für Kanäle ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md), es kann aber auch auf Programmebene überschrieben werden. So geht&#39;s:
 
-1. Navigieren Sie zum Bereich **Marketing** Aktivitäten.
+1. Navigieren Sie zum Bereich **[!UICONTROL Marketing]** Aktivitäten.
 
    ![](assets/image2014-9-24-11-3a40-3a46.png)
 
@@ -23,11 +23,11 @@ Sie können das [Analytics-Verhalten auf der Admin-Ebene für Kanäle ](/help/ma
 
    ![](assets/image2014-9-24-11-3a40-3a57.png)
 
-1. Ziehen Sie auf **Registerkarte** Setup“ Analytics Behavior auf die Arbeitsfläche.
+1. Ziehen Sie auf **[!UICONTROL Registerkarte]** Setup“ [!UICONTROL Analytics Behavior] auf die Arbeitsfläche.
 
    ![](assets/image2014-9-24-11-3a41-3a2.png)
 
-1. Wählen Sie das gewünschte Analyseverhalten aus.
+1. Wählen Sie das [!UICONTROL Analytics-Verhalten] aus, das Sie möchten.
 
    >[!NOTE]
    >
@@ -42,7 +42,7 @@ Sie können das [Analytics-Verhalten auf der Admin-Ebene für Kanäle ](/help/ma
 
    ![](assets/image2014-9-24-11-3a42-3a0.png)
 
-1. Klicken Sie auf **Speichern**.
+1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/image2014-9-24-11-3a42-3a6.png)
 

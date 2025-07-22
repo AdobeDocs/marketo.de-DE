@@ -4,16 +4,16 @@ description: Grundlegendes zu Sendeoptionen - Marketo-Dokumente - Produktdokumen
 title: Verstehen der Sendeoptionen
 exl-id: acdee691-478e-4ffe-90e2-54cf559fa38d
 feature: Marketo Sales Connect
-source-git-commit: 832635c9e029754ce094e4137724bcc956dbcd35
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '609'
+source-wordcount: '601'
 ht-degree: 0%
 
 ---
 
 # Verstehen der Sendeoptionen {#understanding-send-options}
 
-Wenn Sie eine Kampagne erstellen, haben Sie mehrere Möglichkeiten, wie Ihre E-Mail-Schritte in Sales Connect erstellt werden. Und je nachdem, wo Ihre E-Mail in Ihre Campaign-Kampagne fällt, unterscheiden sich auch Ihre Optionen.
+Wenn Sie eine Kampagne erstellen, haben Sie mehrere Möglichkeiten, wie Ihre E-Mail-Schritte in [!DNL Sales Connect] erstellt werden. Und je nachdem, wo Ihre E-Mail in Ihre Campaign-Kampagne fällt, unterscheiden sich auch Ihre Optionen.
 
 Wenn es Ihr erster Schritt und der erste Tag in Ihrer Kampagne ist, haben Sie die folgenden Optionen:
 
@@ -30,11 +30,11 @@ Wenn es Ihr erster Schritt und der erste Tag in Ihrer Kampagne ist, haben Sie di
 
 **Aufgabe erstellen; ich sende diese E-Mail selbst**
 
-* Mit dieser Option wird eine E-Mail-Aufgabe erstellt (und mit Salesforce synchronisiert), die Sie nach Bedarf senden können.
+* Mit dieser Option erstellen Sie eine [!UICONTROL E-Mail-Aufgabe] (und synchronisieren mit [!DNL Salesforce]), die Sie nach Bedarf senden können.
 * Sobald Sie diese Auswahl getroffen haben, werden wir diese Aufgaben beim Start Ihrer Kampagne in der Befehlszentrale und im Live-Feed für Sie in eine Warteschlange stellen. Sie können dann jede E-Mail personalisieren und senden (oder planen), bevor sie gesendet wird.
 
    * Wenn Sie diese Aufgabe in unserer Web-Anwendung öffnen, wird ein Fenster zum Erstellen mit der E-Mail-Adresse Ihres Kontakts, der Betreffzeile Ihrer E-Mail und der von Ihnen ausgewählten Vorlage geöffnet.
-   * Wenn Sie diese Aufgabe in Gmail oder Outlook öffnen, wird ein natives Fenster zum Erstellen geöffnet und die E-Mail-Adresse Ihres Kontakts, die Betreffzeile Ihrer E-Mail und die ausgewählte Vorlage werden dynamisch ausgefüllt.
+   * Wenn Sie diese Aufgabe in [!DNL Gmail] oder [!DNL Outlook] öffnen, wird ein natives Fenster zum Erstellen geöffnet und die E-Mail-Adresse Ihres Kontakts, die Betreffzeile Ihrer E-Mail und die von Ihnen ausgewählte Vorlage werden dynamisch ausgefüllt.
 
 Für alle nachfolgenden Tage/Schritte in Ihrer Kampagne haben Sie die folgenden Optionen:
 
@@ -54,11 +54,11 @@ Für alle nachfolgenden Tage/Schritte in Ihrer Kampagne haben Sie die folgenden 
 
 **Aufgabe erstellen; ich sende diese E-Mail selbst**
 
-* Mit dieser Option wird eine E-Mail-Aufgabe erstellt (und mit Salesforce synchronisiert), die Sie nach Bedarf senden können.
+* Mit dieser Option erstellen Sie eine [!UICONTROL E-Mail-Aufgabe] (und synchronisieren mit [!DNL Salesforce]), die Sie nach Bedarf senden können.
 * Wenn Sie diese Auswahl getroffen haben, stellt Tout diese Aufgaben beim Start Ihrer Kampagne in der Kommandozentrale und im Live-Feed in eine Warteschlange. Sie können dann jede E-Mail personalisieren und senden (oder planen), bevor sie gesendet wird.
 
    * Wenn Sie diese Aufgabe in unserer Web-Anwendung öffnen, wird ein Fenster zum Erstellen mit der E-Mail-Adresse Ihres Kontakts, der Betreffzeile Ihrer E-Mail und der von Ihnen ausgewählten Vorlage geöffnet.
-   * Wenn Sie diese Aufgabe in Gmail oder Outlook öffnen, wird ein natives Fenster zum Erstellen geöffnet und die E-Mail-Adresse Ihres Kontakts, die Betreffzeile Ihrer E-Mail und die ausgewählte Vorlage werden dynamisch ausgefüllt.
+   * Wenn Sie diese Aufgabe in [!DNL Gmail] oder [!DNL Outlook] öffnen, wird ein natives Fenster zum Erstellen geöffnet und die E-Mail-Adresse Ihres Kontakts, die Betreffzeile Ihrer E-Mail und die von Ihnen ausgewählte Vorlage werden dynamisch ausgefüllt.
 
 **Diese E-Mail in die vorherige E-Mail einfädeln**
 

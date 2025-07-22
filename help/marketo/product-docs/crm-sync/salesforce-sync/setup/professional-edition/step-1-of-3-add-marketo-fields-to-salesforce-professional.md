@@ -4,30 +4,30 @@ description: Schritt 1 von 3 - Marketo-Felder zu Salesforce hinzufügen (Profess
 title: Schritt 1 von 3 - Marketo-Felder zu Salesforce hinzufügen (Professional)
 exl-id: 1b52825e-201d-4b55-8edf-444b1653d591
 feature: Salesforce Integration
-source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '768'
+source-wordcount: '756'
 ht-degree: 9%
 
 ---
 
-# Schritt 1 von 3: Marketo-Felder zu Salesforce (Professional) hinzufügen {#step-of-add-marketo-fields-to-salesforce-professional}
+# Schritt 1 von 3: Marketo-Felder zu [!DNL Salesforce] hinzufügen (Professional) {#step-of-add-marketo-fields-to-salesforce-professional}
 
 >[!PREREQUISITES]
 >
 >Ihre Salesforce-Instanz muss Zugriff auf Salesforce-APIs haben, um Daten zwischen Marketo Engage und Salesforce zu synchronisieren.
 
-Marketo verwendet einen Satz von Feldern, um bestimmte Arten von Marketing-bezogenen Informationen zu erfassen. Wenn Sie diese Daten in Salesforce benötigen, befolgen Sie bitte die folgenden Anweisungen.
+Marketo verwendet einen Satz von Feldern, um bestimmte Arten von Marketing-bezogenen Informationen zu erfassen. Wenn Sie diese Daten in [!DNL Salesforce] benötigen, befolgen Sie bitte die folgenden Anweisungen.
 
-1. Erstellen Sie drei benutzerdefinierte Felder in Salesforce für die Lead- und Kontaktobjekte: Bewertung, Akquiseprogramm und Akquisedatum.
-1. Ordnen Sie diese benutzerdefinierten Felder den Leads und Kontakten zu, sodass die Werte bei der Konvertierung in Salesforce übernommen werden.
+1. Erstellen Sie drei benutzerdefinierte Felder in [!DNL Salesforce] für die Lead- und Kontaktobjekte: Bewertung, Akquiseprogramm und Akquisedatum.
+1. Ordnen Sie diese benutzerdefinierten Felder den Leads und Kontakten zu, sodass bei der Konvertierung in [!DNL Salesforce] die Werte übernommen werden.
 1. Sie können bei Bedarf weitere Felder erstellen (siehe Tabelle unten).
 
-Alle diese benutzerdefinierten Felder sind optional und müssen nicht zur Synchronisierung von Marketo und Salesforce verwendet werden. Als Best Practice empfehlen wir, Felder für Score, Akquise-Programm und Akquise-Datum zu erstellen.
+Alle diese benutzerdefinierten Felder sind optional und müssen nicht zum Synchronisieren von Marketo und [!DNL Salesforce] verwendet werden. Als Best Practice empfehlen wir, Felder für Score, Akquise-Programm und Akquise-Datum zu erstellen.
 
-## Hinzufügen von Marketo-Feldern zu Salesforce {#add-marketo-fields-to-salesforce}
+## Marketo-Felder zu [!DNL Salesforce] hinzufügen {#add-marketo-fields-to-salesforce}
 
-Fügen Sie drei benutzerdefinierte Felder zu den Lead- und Kontaktobjekten in Salesforce hinzu, die oben aufgeführt sind. Weitere Informationen finden Sie in der Tabelle mit den verfügbaren Feldern am Ende dieses Abschnitts.
+Fügen Sie drei benutzerdefinierte Felder zu den Lead- und Kontaktobjekten in den oben aufgeführten [!DNL Salesforce] hinzu. Weitere Informationen finden Sie in der Tabelle mit den verfügbaren Feldern am Ende dieses Abschnitts.
 
 Führen Sie die folgenden Schritte für jedes der drei benutzerdefinierten Felder aus, um sie hinzuzufügen. Beginnen Sie mit **[!UICONTROL Score]**.
 
@@ -51,7 +51,7 @@ Führen Sie die folgenden Schritte für jedes der drei benutzerdefinierten Felde
 
    ![](assets/image2016-5-26-14-3a51-3a14.png)
 
-1. Geben Sie Feldbezeichnung, Länge und Feldname für das Feld ein, wie in der folgenden Tabelle dargestellt.
+1. Geben Sie [!UICONTROL Feldbezeichnung], [!UICONTROL Länge] und [!UICONTROL Feldname] für das Feld ein, wie in der folgenden Tabelle dargestellt.
 
 <table> 
  <thead> 
@@ -98,7 +98,7 @@ Führen Sie die folgenden Schritte für jedes der drei benutzerdefinierten Felde
 
 >[!NOTE]
 >
->Salesforce hängt __c an Feldnamen an, wenn es sie zum Erstellen von API-Namen verwendet.
+>[!DNL Salesforce] hängt __c an Feldnamen an, wenn es sie zum Erstellen von API-Namen verwendet.
 
 ![](assets/image2016-5-26-14-3a55-3a33.png)
 
@@ -225,11 +225,11 @@ Führen Sie die folgenden Schritte für jedes der drei benutzerdefinierten Felde
 
 >[!NOTE]
 >
->Werte in den von Marketo automatisch zugewiesenen Feldern sind nach der Erstellung des neuen Felds nicht sofort in Salesforce verfügbar. Marketo synchronisiert die Daten mit Salesforce bei der nächsten Aktualisierung des Datensatzes auf einem der Systeme (d. h. bei einer Aktualisierung eines der Felder, die zwischen Marketo und Salesforce synchronisiert werden).
+>Werte in Feldern, die von Marketo automatisch zugewiesen werden, stehen nach der Erstellung des neuen Felds in [!DNL Salesforce] nicht sofort zur Verfügung. Marketo synchronisiert die Daten mit [!DNL Salesforce] bei der nächsten Aktualisierung des Datensatzes auf einem der Systeme (d. h. eine Aktualisierung eines der Felder, die zwischen Marketo und [!DNL Salesforce] synchronisiert werden).
 
 ## Zuordnen benutzerdefinierter Felder für Konversionen  {#map-custom-fields-for-conversions}
 
-Ein benutzerdefiniertes Feld auf dem Lead-Objekt in Salesforce sollte einem Kontaktfeld auf dem Kontaktobjekt zugeordnet werden, damit die Daten übertragen werden, wenn eine Konversion stattfindet.
+Ein benutzerdefiniertes Feld auf dem Lead-Objekt in [!DNL Salesforce] sollte einem Kontaktfeld auf dem Kontaktobjekt zugeordnet werden, damit die Daten übertragen werden, wenn eine Konversion stattfindet.
 
 1. Klicken Sie oben rechts auf **[!UICONTROL Setup]**.
 
@@ -252,7 +252,6 @@ Ein benutzerdefiniertes Feld auf dem Lead-Objekt in Salesforce sollte einem Kont
    ![](assets/image2016-5-26-16-3a56-3a23.png)
 
 1. Wiederholen Sie die obigen Schritte für alle anderen Felder, die Sie erstellt haben.
-
 1. Klicken **[!UICONTROL abschließend]** Speichern“.
 
 Ganz einfach, oder?

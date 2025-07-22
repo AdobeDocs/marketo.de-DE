@@ -4,7 +4,7 @@ description: Priorität der Segmentierungsreihenfolge - Marketo-Dokumente - Prod
 title: Priorität der Segmentierungsreihenfolge
 exl-id: c20d07c8-5e53-4f54-a7a3-2e1aa4fb0cdd
 feature: Segmentation
-source-git-commit: 0dd2aa60bd1cac141d57188d0e618702143e2671
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 0%
@@ -18,7 +18,7 @@ Es ist wichtig zu verstehen, wie **Reihenfolge** die Priorität für die Bewertu
 >[!PREREQUISITES]
 >
 >[Segmentierung erstellen](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
->[Definieren Sie Segmentregeln](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
+>>[Definieren Sie Segmentregeln](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
 
 >[!NOTE]
 >
@@ -28,7 +28,7 @@ Es ist wichtig zu verstehen, wie **Reihenfolge** die Priorität für die Bewertu
 
    ![](assets/segmentation-order-priority-1.png)
 
-1. Wählen Sie Ihre **Segmentierung** aus. Klicken **unter &quot;**&quot; auf **Segmente bearbeiten**.
+1. Wählen Sie Ihre **Segmentierung** aus. Klicken **[!UICONTROL unter &quot;]**&quot; auf **[!UICONTROL Segmente bearbeiten]**.
 
    ![](assets/segmentation-order-priority-2.png)
 

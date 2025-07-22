@@ -1,36 +1,36 @@
 ---
-description: 'Schritt 1 von 3: Marketo-Felder zu Veeva CRM hinzufügen - Marketo-Dokumente - Produktdokumentation'
-title: 'Schritt 1 von 3: Marketo-Felder zu Veeva CRM hinzufügen'
+description: 'Schritt 1 von 3: Hinzufügen von Marketo-Feldern  [!DNL Veeva]  CRM - Marketo-Dokumente - Produktdokumentation'
+title: 'Schritt 1 von 3: Marketo-Felder zu  [!DNL Veeva]  hinzufügen'
 exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
 feature: Veeva CRM
-source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '527'
+source-wordcount: '512'
 ht-degree: 8%
 
 ---
 
-# Schritt 1 von 3: Marketo-Felder zu Veeva CRM hinzufügen {#step-1-of-3-add-marketo-fields-to-veeva-crm}
+# Schritt 1 von 3: Marketo-Felder zu [!DNL Veeva] CRM hinzufügen {#step-1-of-3-add-marketo-fields-to-veeva-crm}
 
 >[!PREREQUISITES]
 >
->Ihre Veeva CRM-Instanz muss Zugriff auf Salesforce-APIs haben, um Daten zwischen Marketo Engage und Veeva CRM zu synchronisieren.
+>Ihre [!DNL Veeva] CRM-Instanz muss Zugriff auf Salesforce-APIs haben, um Daten zwischen Marketo Engage und [!DNL Veeva] CRM zu synchronisieren.
 
-Marketo Engage verwendet einen Satz von Feldern, um bestimmte Arten von Marketing-bezogenen Informationen zu erfassen. Wenn Sie diese Daten in Veeva CRM benötigen, folgen Sie bitte den unten stehenden Anweisungen.
+Marketo Engage verwendet einen Satz von Feldern, um bestimmte Arten von Marketing-bezogenen Informationen zu erfassen. Wenn Sie diese Daten in [!DNL Veeva] CRM benötigen, befolgen Sie bitte die folgenden Anweisungen.
 
-`1.` Erstellen eines benutzerdefinierten Felds in Veeva CRM für die Kontaktobjekte: Score
+`1.` Erstellen eines benutzerdefinierten Felds in [!DNL Veeva] CRM für die Kontaktobjekte: Score
 
 `2.` Sie können bei Bedarf zusätzliche Felder erstellen (siehe Tabelle unten).
 
-Alle diese benutzerdefinierten Felder sind optional und müssen nicht zum Synchronisieren von Marketo Engage und Veeva CRM erforderlich.
+Alle diese benutzerdefinierten Felder sind optional und müssen nicht zur Synchronisierung von Marketo Engage und [!DNL Veeva] CRM verwendet werden.
 
-## Marketo-Felder zu Veeva CRM hinzufügen {#add-marketo-fields-to-veeva-crm}
+## Marketo-Felder zu [!DNL Veeva] CRM hinzufügen {#add-marketo-fields-to-veeva-crm}
 
-Fügen Sie ein benutzerdefiniertes Feld für die Lead- und Kontaktobjekte in Veeva CRM hinzu, die oben aufgeführt sind. Weitere Informationen finden Sie in der Tabelle mit den verfügbaren Feldern am Ende dieses Abschnitts.
+Fügen Sie ein benutzerdefiniertes Feld für die Lead- und Kontaktobjekte in [!DNL Veeva] oben aufgeführten CRM hinzu. Weitere Informationen finden Sie in der Tabelle mit den verfügbaren Feldern am Ende dieses Abschnitts.
 
 Führen Sie die folgenden Schritte für das Feld Score aus, um es hinzuzufügen.
 
-1. Melden Sie sich beim Veeva CRM an und klicken Sie auf **[!UICONTROL Setup]**.
+1. Melden Sie sich beim [!DNL Veeva] CRM an und klicken Sie auf **[!UICONTROL Setup]**.
 
    ![](assets/step-1-of-3-add-marketo-fields-1.png)
 
@@ -80,7 +80,7 @@ Dezimalstellen 0</td>
 
 >[!NOTE]
 >
->Veeva CRM hängt __c an Feldnamen an, wenn es sie zum Erstellen von API-Namen verwendet.
+>[!DNL Veeva] CRM hängt __c an Feldnamen an, wenn es sie zum Erstellen von API-Namen verwendet.
 
 ![](assets/step-1-of-3-add-marketo-fields-7.png)
 
@@ -94,12 +94,12 @@ Dezimalstellen 0</td>
 
 1. Legen Sie die Zugriffseinstellungen fest und klicken Sie auf **[!UICONTROL Weiter]**.
 
-1. Legen Sie alle Rollen auf „Sichtbar“ und „Schreibgeschützt“ fest.
+1. Legen Sie alle Rollen auf **[!UICONTROL Sichtbar]** und **[!UICONTROL Schreibgeschützt]** fest.
 
-1. Deaktivieren Sie das Kontrollkästchen Schreibgeschützt für das Profil des Synchronisierungsbenutzers:
+1. Deaktivieren Sie das **[!UICONTROL Schreibgeschützt]** für das Profil Ihres Synchronisierungsbenutzers:
 
-* Wenn Sie einen Benutzer mit dem Profil eines Systemadministrators als Synchronisierungsbenutzer haben, deaktivieren Sie das Kontrollkästchen Schreibgeschützt für das Systemadministratorprofil (wie unten dargestellt).
-* Wenn Sie ein benutzerdefiniertes Profil für den Synchronisierungsbenutzer erstellt haben, deaktivieren Sie das Kontrollkästchen Schreibgeschützt für dieses benutzerdefinierte Profil.
+* Wenn Sie einen Benutzer mit dem Profil eines Systemadministrators als Synchronisierungsbenutzer haben, deaktivieren [!UICONTROL  das Kontrollkästchen „Schreibgeschützt] für das Systemadministratorprofil (wie unten dargestellt).
+* Wenn Sie ein benutzerdefiniertes Profil für den Synchronisierungsbenutzer erstellt haben, deaktivieren [!UICONTROL  das Kontrollkästchen „Schreibgeschützt] für dieses benutzerdefinierte Profil.
 
   ![](assets/step-1-of-3-add-marketo-fields-9.png)
 
@@ -172,4 +172,4 @@ OPTIONAL: Verwenden Sie das obige Verfahren für alle zusätzlichen benutzerdefi
 
 >[!NOTE]
 >
->Werte in den von Marketo automatisch zugewiesenen Feldern sind nach der Erstellung des neuen Felds nicht sofort in Veeva CRM verfügbar. Marketo synchronisiert die Daten mit Veeva CRM, sobald der Datensatz auf einem der Systeme das nächste Mal aktualisiert wird (d. h. eine Aktualisierung eines der Felder, die zwischen Marketo und Veeva CRM synchronisiert werden).
+>Werte in Feldern, die von Marketo automatisch zugewiesen werden, stehen nach der Erstellung [!DNL Veeva] neuen Felds nicht sofort im CRM zur Verfügung. Marketo synchronisiert die Daten mit [!DNL Veeva] CRM, sobald der Datensatz auf einem der Systeme das nächste Mal aktualisiert wird (d. h. eine Aktualisierung eines der Felder, die zwischen Marketo und [!DNL Veeva] CRM synchronisiert werden).

@@ -4,7 +4,7 @@ description: Löschen von Feldwerten - Marketo-Dokumente - Produktdokumentation
 title: Feldwerte löschen
 exl-id: cddc7697-4e8f-4a62-865c-efd451abea0c
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 [Datenwert ändern](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) ist großartig, aber wie _der Wert vollständig_? Gute Frage!
 
-1. Wählen Sie im Flussschritt das Feld aus, das Sie löschen möchten, und geben Sie **NULL** (alle Begrenzungen) als &quot;**Wert“**.
+1. Wählen Sie im Flussschritt das Feld aus, das Sie löschen möchten, und geben Sie **[!UICONTROL NULL]** (alle Begrenzungen) als &quot;**[!UICONTROL Wert“]**.
 
    ![](assets/clear-field-values-1.png)
 

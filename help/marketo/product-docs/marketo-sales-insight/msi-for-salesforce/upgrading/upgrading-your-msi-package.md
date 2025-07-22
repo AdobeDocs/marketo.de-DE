@@ -4,9 +4,9 @@ description: Aktualisieren des MSI-Pakets - Marketo-Dokumente - Produktdokumenta
 title: Aktualisieren des MSI-Pakets
 exl-id: 45004990-8452-4824-a9b2-89cd8302fe43
 feature: Marketo Sales Insights
-source-git-commit: ddc9242bdf1b3ec34bb2672821b6b054647d94b5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->Aufgrund der von Salesforce vorgenommenen Sicherheitsverbesserungen kann das Sales Insight-Paket keine Berechtigung mehr für Standardobjekte erteilen. Künftig muss das Salesforce-Profil von Sales Insight-Benutzenden Lesezugriff auf die folgenden Standardobjekte haben: Lead, Kontakt, Konto und Opportunity. [Hier erfahren Sie, wie Sie dies konfigurieren](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#grant-sales-insight-users-profile-access){target="_blank"}.
+>Aufgrund der von Salesforce vorgenommenen Sicherheitsverbesserungen kann das Insight-Verkaufspaket keine Berechtigung mehr für Standardobjekte gewähren. Künftig benötigt das Salesforce-Profil von Sales Insight-Benutzenden Lesezugriff auf die folgenden Standardobjekte: Lead, Kontakt, Konto und Opportunity. [Hier erfahren Sie, wie Sie dies konfigurieren](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#grant-sales-insight-users-profile-access){target="_blank"}.
 
 1. Navigieren Sie zu [dieser Seite in der AppExchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO){target="_blank"}.
 
-1. Melden Sie sich bei Ihrer Salesforce-Instanz (die mit Ihrer Marketo-Instanz verbunden ist, kann Sandbox oder Produktion sein) oben rechts auf der Seite in Schritt 1 an. Sie müssen über Administratorrechte verfügen, um ein verwaltetes Paket in Salesforce zu installieren/aktualisieren.
+1. Melden Sie sich bei Ihrer [!DNL Salesforce]-Instanz (die mit Ihrer Marketo-Instanz verbunden ist, kann Sandbox oder Produktion sein) oben rechts auf der Seite in Schritt 1 an. Sie müssen über Administratorrechte verfügen, um ein verwaltetes Paket in [!DNL Salesforce] zu installieren/aktualisieren.
 
 1. Klicken Sie auf **Schaltfläche „Jetzt abrufen**. Sie werden aufgefordert, den Ort auszuwählen, an dem Sie installieren möchten. Sie erhalten die Möglichkeit, ein Upgrade durchzuführen, da Sie bereits über eine frühere Version von MSI verfügen. Wählen Sie eine Option basierend auf dem Konto aus, bei dem Sie sich in Schritt 1 angemeldet haben.
 

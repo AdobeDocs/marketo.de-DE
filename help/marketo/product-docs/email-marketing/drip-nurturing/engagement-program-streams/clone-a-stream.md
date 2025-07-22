@@ -4,7 +4,7 @@ description: Klonen eines Streams - Marketo-Dokumente - Produktdokumentation
 title: Klonen eines Streams
 exl-id: 9e1b83c0-38ce-4729-a922-80b927673717
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Klonen Sie einen Stream aus verschiedenen Gründen, einschließlich dem Testen verschiedener Reihenfolgen und Kadenzen.
 
-1. Wählen Sie Ihr Interaktionsprogramm aus und wechseln Sie zur Registerkarte **Streams** .
+1. Wählen Sie Ihr Interaktionsprogramm aus und wechseln Sie zur Registerkarte **[!UICONTROL Streams]** .
 
    ![](assets/cloneasteam.jpg)
 
-1. Klicken Sie auf das Zahnradsymbol und dann auf **Klonen**.
+1. Klicken Sie auf das Zahnradsymbol und dann auf **[!UICONTROL Klonen]**.
 
    ![](assets/image2014-9-15-17-3a0-3a23.png)
 

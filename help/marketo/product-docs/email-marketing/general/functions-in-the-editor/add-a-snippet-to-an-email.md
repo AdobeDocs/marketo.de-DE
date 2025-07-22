@@ -4,7 +4,7 @@ description: Hinzufügen eines Snippets zu einer E-Mail - Marketo-Dokumente - Pr
 title: Hinzufügen eines Snippets zu einer E-Mail
 exl-id: 609130a7-c309-4f9d-99bc-c752047ce0f4
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%
@@ -21,17 +21,17 @@ Snippets sind wiederverwendbare Blöcke aus Rich-Text und Grafiken, die Sie in E
 
 >[!NOTE]
 >
->Sie können keine [Marketo-E-Mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)Syntax-Ausschnitte einbetten. Dies funktioniert **nicht** in einer E-Mail. Snippets sollten nur im Textkörper enthalten sein (HTML + TEXT).
+>Sie können keine [Marketo-E-Mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)Syntax-Ausschnitte einbetten. Dies funktioniert **nicht** in einer E-Mail. Snippets sollten nur Textinhalte sein (HTML + TEXT).
 
-1. Suchen Sie Ihre E-Mail, wählen Sie sie aus und klicken Sie auf **Entwurf bearbeiten**.
+1. Suchen Sie Ihre E-Mail, wählen Sie sie aus und klicken Sie auf **[!UICONTROL Entwurf bearbeiten]**.
 
    ![](assets/one-2.png)
 
-1. Wählen Sie den bearbeitbaren Bereich aus, den Sie in einen Ausschnitt konvertieren möchten, klicken Sie auf das Zahnradsymbol und wählen Sie **Ersetzen durch Ausschnitt**.
+1. Wählen Sie den bearbeitbaren Bereich aus, den Sie in einen Ausschnitt konvertieren möchten, klicken Sie auf das Zahnradsymbol und wählen Sie **[!UICONTROL Ersetzen durch Ausschnitt]**.
 
    ![](assets/two-2.png)
 
-1. Wählen Sie den gewünschten Ausschnitt aus und klicken Sie auf **Speichern**.
+1. Wählen Sie den gewünschten Ausschnitt aus und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/three-1.png)
 

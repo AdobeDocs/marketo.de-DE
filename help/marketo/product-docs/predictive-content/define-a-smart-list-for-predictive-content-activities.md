@@ -4,7 +4,7 @@ description: Definieren einer Smart-Liste für Aktivitäten mit prädiktiven Inh
 title: Definieren einer Smart-Liste für prädiktive Inhaltsaktivitäten
 exl-id: 2c72b215-8c0b-48b4-8492-8e3fe832fae9
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Sie können prädiktive Inhaltsaktivitäten in Triggern und Filtern verwenden, wenn Sie in einer Smart-Kampagne eine Smart-Liste definieren. Sie können einen Trigger für eine Aktion für alle erstellen, die über die [Rich-Media-Vorlage](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md), die [Inhaltsempfehlungsleiste](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md) oder in einer [E-Mail](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md) auf prädiktive Inhalte klicken.
 
-1. Navigieren Sie in Ihrer Smart-Kampagne zur Registerkarte **Smart-Liste** .
+1. Navigieren Sie in Ihrer Smart-Kampagne zur Registerkarte **[!UICONTROL Smart-Liste]** .
 
    ![](assets/smart-list-1.png)
 
@@ -31,7 +31,7 @@ Sie können prädiktive Inhaltsaktivitäten in Triggern und Filtern verwenden, w
    >
    >Eine Smart-Kampagne mit Triggern wird im Trigger-Modus ausgeführt. Sie wird immer nur für eine Person ausgeführt, basierend auf den ausgelösten Ereignissen und den hinzugefügten Filtern.
 
-1. Klicken Sie auf **Name** und wählen Sie einen Operator aus.
+1. Klicken Sie auf **[!UICONTROL Name]** und wählen Sie einen Operator aus.
 
    ![](assets/smart-list-dropdown-hands.png)
 
@@ -39,7 +39,7 @@ Sie können prädiktive Inhaltsaktivitäten in Triggern und Filtern verwenden, w
 
    ![](assets/smart-lislt-select-content-hands.png)
 
-1. Fügen Sie die **Type**-Einschränkung hinzu.
+1. Fügen Sie die **[!UICONTROL Type]**-Einschränkung hinzu.
 
    ![](assets/clicks-predictive-content-add-constraint-hands.png)
 
@@ -47,7 +47,7 @@ Sie können prädiktive Inhaltsaktivitäten in Triggern und Filtern verwenden, w
 
    ![](assets/pc-add-constraint.png)
 
-1. Wenn Sie die E-Mail-Quelle für Ihren prädiktiven Inhalt verwenden, fügen Sie den Trigger **Klicks-Link in E-Mail** hinzu. Wählen Sie Ihre E-Mail aus und fügen Sie die **Ist prädiktiv**-Einschränkung hinzu, die als **true“**.
+1. Wenn Sie die E-Mail-Quelle für Ihren prädiktiven Inhalt verwenden, fügen Sie den Trigger **[!UICONTROL Klicks-Link in E-Mail]** hinzu. Wählen Sie Ihre E-Mail aus und fügen Sie die **[!UICONTROL Ist prädiktiv]**-Einschränkung hinzu, die als **[!UICONTROL true“]**.
 
    ![](assets/clicks-link-in-email-trigger-hands.png)
 

@@ -3,16 +3,16 @@ description: Grundlegendes zu Versandoptionen für Vertriebskampagnen bei E-Mail
 title: Grundlagen zu den Versandoptionen für Verkaufskampagnen für E-Mail-Schritte
 feature: Sales Insight Actions
 exl-id: 775c6401-efb2-4940-a81c-be5d2759c7bd
-source-git-commit: 832635c9e029754ce094e4137724bcc956dbcd35
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '740'
 ht-degree: 2%
 
 ---
 
 # Grundlagen zu den Versandoptionen für Verkaufskampagnen für E-Mail-Schritte {#understanding-sales-campaign-send-options-for-email-steps}
 
-Wenn Sie eine Verkaufskampagne erstellen, haben Sie mehrere Möglichkeiten, wie Ihre E-Mail-Schritte in Sales-Insight-Aktionen erstellt werden. Und je nachdem, wo Ihre E-Mail in Ihre Verkaufskampagne fällt, unterscheiden sich auch Ihre Optionen.
+Wenn Sie eine Verkaufskampagne erstellen, haben Sie mehrere Möglichkeiten, wie Ihre E-Mail-Schritte in [!DNL Sales Insight Actions] erstellt werden. Und je nachdem, wo Ihre E-Mail in Ihre Verkaufskampagne fällt, unterscheiden sich auch Ihre Optionen.
 
 ## Versandoptionen für den ersten Schritt {#first-step-send-options}
 
@@ -31,11 +31,11 @@ Wenn es Ihr erster Schritt und der erste Tag in Ihrer Verkaufskampagne ist, habe
 
 ### Eine Aufgabe erstellen: Ich werde diese E-Mail selbst senden {#first-step-create-a-task}
 
-* Mit dieser Option wird eine E-Mail-Aufgabe erstellt (und mit Salesforce synchronisiert), die Sie nach Bedarf senden können.
+* Mit dieser Option wird eine E-Mail-Aufgabe erstellt (und mit [!DNL Salesforce] synchronisiert), die Sie nach Bedarf senden können.
 * Sobald Sie diese Auswahl getroffen haben, werden wir diese Aufgaben beim Start Ihrer Vertriebskampagne in der Befehlszentrale und im Live-Feed für Sie in die Warteschlange stellen. Sie können dann jede E-Mail personalisieren und senden (oder planen), bevor sie gesendet wird.
 
    * Wenn Sie diese Aufgabe in unserer Web-Anwendung öffnen, wird ein Fenster zum Erstellen mit der E-Mail-Adresse Ihres Kontakts, der Betreffzeile Ihrer E-Mail und der von Ihnen ausgewählten Vorlage geöffnet.
-   * Wenn Sie diese Aufgabe in Gmail oder Outlook öffnen, wird ein natives Fenster zum Erstellen geöffnet und die E-Mail-Adresse Ihres Kontakts, die Betreffzeile Ihrer E-Mail und die ausgewählte Vorlage werden dynamisch ausgefüllt.
+   * Wenn Sie diese Aufgabe in Gmail oder [!DNL Outlook] öffnen, wird ein natives Fenster zum Erstellen geöffnet und die E-Mail-Adresse Ihres Kontakts, die Betreffzeile Ihrer E-Mail und die von Ihnen ausgewählte Vorlage werden dynamisch ausgefüllt.
 
 ## Optionen für den nachfolgenden Schritt „Senden“ {#subsequent-step-send-options}
 
@@ -57,11 +57,11 @@ Für alle nachfolgenden Tage/Schritte in Ihrer Verkaufskampagne haben Sie die fo
 
 ### Eine Aufgabe erstellen: Ich werde diese E-Mail selbst senden {#subsequent-create-a-task}
 
-* Mit dieser Option wird eine E-Mail-Aufgabe erstellt (und mit Salesforce synchronisiert), die Sie nach Bedarf senden können.
-* Sobald Sie diese Auswahl getroffen haben, werden diese Aufgaben beim Start Ihrer Verkaufskampagne in der Befehlszentrale und im Live-Feed von „Sales Insight Actions“ für Sie in die Warteschlange gestellt. Sie können dann jede E-Mail personalisieren und senden (oder planen), bevor sie gesendet wird.
+* Mit dieser Option wird eine E-Mail-Aufgabe erstellt (und mit [!DNL Salesforce] synchronisiert), die Sie nach Bedarf senden können.
+* Sobald Sie diese Auswahl getroffen haben, werden [!DNL Sales Insight Actions] diese Aufgaben beim Start Ihrer Vertriebskampagne in der Befehlszentrale und im Live-Feed für Sie in die Warteschlange stellen. Sie können dann jede E-Mail personalisieren und senden (oder planen), bevor sie gesendet wird.
 
    * Wenn Sie diese Aufgabe in unserer Web-Anwendung öffnen, wird ein Fenster zum Erstellen mit der E-Mail-Adresse Ihres Kontakts, der Betreffzeile Ihrer E-Mail und der von Ihnen ausgewählten Vorlage geöffnet.
-   * Wenn Sie diese Aufgabe in Gmail oder Outlook öffnen, wird ein natives Fenster zum Erstellen geöffnet und die E-Mail-Adresse Ihres Kontakts, die Betreffzeile Ihrer E-Mail und die ausgewählte Vorlage werden dynamisch ausgefüllt.
+   * Wenn Sie diese Aufgabe in Gmail oder [!DNL Outlook] öffnen, wird ein natives Fenster zum Erstellen geöffnet und die E-Mail-Adresse Ihres Kontakts, die Betreffzeile Ihrer E-Mail und die von Ihnen ausgewählte Vorlage werden dynamisch ausgefüllt.
 
 ### Erstellen Sie diese E-Mail als Folgemaßnahme zur vorherigen E-Mail in dieser Kampagne {#subsequent-create-this-email}
 
@@ -75,6 +75,6 @@ Für alle nachfolgenden Tage/Schritte in Ihrer Verkaufskampagne haben Sie die fo
 >[!MORELIKETHIS]
 >
 >[Erstellen einer Verkaufskampagne](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}
->[Vertriebskampagne - Schritttypen und Erinnerungsaufgaben](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
->[Einstellungen für Verkaufskampagnen](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}
+>>[Vertriebskampagne - Schritttypen und Erinnerungsaufgaben](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
+>>[Einstellungen für Verkaufskampagnen](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}
 

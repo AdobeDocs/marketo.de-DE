@@ -1,26 +1,26 @@
 ---
 unique-page-id: 42762322
-description: Registerkarte „Konfiguration von Marketo Sales Insight“ in Salesforce - Marketo-Dokumente - Produktdokumentation
-title: Registerkarte "Marketo Sales Insight Configuration“ in Salesforce
+description: Registerkarte "Marketo Sales Insight Configuration“ in Salesforce - Marketo-Dokumente - Produktdokumentation
+title: Registerkarte „Konfiguration“ von Marketo Sales Insight in Salesforce
 exl-id: 4e2abd48-b0a5-4b71-939b-e66c7e39bb6c
 feature: Marketo Sales Insights
-source-git-commit: 4848676d423ff96c2e880819bc760b2f8dbbd094
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '621'
+source-wordcount: '615'
 ht-degree: 0%
 
 ---
 
-# Registerkarte &quot;Marketo Sales Insight Configuration“ in Salesforce {#marketo-sales-insight-configuration-tab-in-salesforce}
+# Registerkarte &quot;[!DNL Marketo Sales Insight]&quot; in [!DNL Salesforce] {#marketo-sales-insight-configuration-tab-in-salesforce}
 
 ## Betriebseinstellungen {#operational-settings}
 
-Sie müssen dies einrichten, damit Sie Sales Insights in SFDC verwenden können.
+Sie müssen dies einrichten, damit Sie [!DNL Sales Insight] in SFDC verwenden können.
 
 ![](assets/marketo-sales-insight-configuration-tab-in-salesforce-1.png)
 
 * MSI verwendet sowohl die SOAP- als auch die REST-API
-* Die Seite „Sales Insight“ in Ihrem Marketo-Konto verfügt über zwei entsprechende Bedienfelder mit SOAP- und REST-API-Anmeldeinformationen, die Sie hier kopieren und einfügen können
+* Die Seite „Sales Insight&quot; in Ihrem Marketo-Konto verfügt über zwei entsprechende Bedienfelder mit SOAP- und REST-API-Anmeldeinformationen, die Sie hier kopieren und einfügen können
 * SOAP- und REST-APIs verfügen über separate Zeitlimits, die Sie entsprechend den Anforderungen Ihres Unternehmens festlegen können. Die maximal zulässige Zeit beträgt 120 Sekunden
 * Deaktivieren des Insights-Dashboards: Sie können die REST-API-Anmeldeinformationen entfernen und nur die SOAP-API verwenden. Dadurch wird die Registerkarte Insights Dashboard in allen MSI VisualForce-Bedienfeldern deaktiviert
 
@@ -42,7 +42,7 @@ Konfigurationen gelten für alle MSI-Benutzer und sind nicht profilspezifisch.
 
 **Registerkarte &quot;Marketo Global“**
 
-* RSS-Feed aktiviert: Nach der Aktivierung können MSI-Benutzer ihren Lead-Feed in einem RSS-Feed anzeigen (zusätzlich zum Lead-Feed in Salesforce). Der RSS-Feed kann nur funktionieren, wenn die Funktion „Token-Ablauf“ deaktiviert ist. Diese Einstellung wird auf der Admin-Seite Ihres Marketo Sales Insight gesteuert.
+* RSS-Feed aktiviert: Nach der Aktivierung können MSI-Benutzer ihren Lead-Feed in einem RSS-Feed anzeigen (zusätzlich zum Lead-Feed in Salesforce). Der RSS-Feed kann nur funktionieren, wenn die Funktion „Token-Ablauf“ deaktiviert ist. Diese Einstellung wird auf der Admin-Seite Ihres Marketo Sales Insights gesteuert.
 * Debug-Modus für vielversprechende Kontakte
 * Standard ausblenden: Die hier ausgewählte Option ist die Anzahl der Tage, die ein Bester Einsatz auf der Registerkarte Beste Einsätze in Marketo ausgeblendet wird, wenn Sie auf das Symbol „Ausblenden“ klicken
 * Kontaktstatusfeld: Die hier ausgewählte Option ist der Wert, der in der Statuskopfzeile auf der Registerkarte „Best Bets“ in Marketo eingetragen wird
@@ -58,8 +58,8 @@ Konfigurationen gelten für alle MSI-Benutzer und sind nicht profilspezifisch.
 
 **Aktionseinstellungen**
 
-* Marketo-E-Mail senden: Wenn diese Option aktiviert ist, haben alle Sales Insight-Benutzer Zugriff auf den Versand von E-Mails über Lead, Kontakt, Konto, Opportunity-Bedienfelder und die Registerkarte „Best Bets“ (Massenaktionen und Inline-Interaktion)
-* Zu Marketo Campaign hinzufügen: Wenn diese Option aktiviert ist, haben alle Sales Insight-Benutzer Zugriff auf das Hinzufügen zu Kampagnen über den Lead, den Kontakt, das Konto, die Bedienfelder „Opportunity“ und die Registerkarte „Best Bets“ (Massenaktionen und Inline-Interaktion)
+* Marketo-E-Mail senden: Wenn diese Option aktiviert ist, können alle Sales Insight-Benutzer E-Mails über Lead, Kontakt, Konto, Opportunity-Bedienfelder und die Registerkarte Best Bets (Massenaktionen und Inline-Interaktion) senden
+* Zu Marketo Campaign hinzufügen: Wenn diese Option aktiviert ist, können alle Sales Insight-Benutzenden über Lead, Kontakt, Konto, Opportunity-Bedienfelder und die Registerkarte „Best Bets“ (Massenaktionen und Inline-Interaktion) zu den Kampagnen hinzufügen
 
 ![](assets/marketo-sales-insight-configuration-tab-in-salesforce-4.png)
 
@@ -81,4 +81,4 @@ Wenn Sie dies tun, werden alle Ihre Konfigurationen in SFDC gelöscht und sie k�
 
 >[!MORELIKETHIS]
 >
->[Hinzufügen von Sales Insights-Zugriff zu Profilen](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target="_blank"}
+>[Hinzufügen von Sales Insight-Zugriff zu Profilen](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target="_blank"}

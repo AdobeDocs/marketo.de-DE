@@ -4,7 +4,7 @@ description: Beispiel für das Senden einer Push-Benachrichtigung - Marketo-Doku
 title: Beispiel für das Senden einer Push-Benachrichtigung
 exl-id: 1d2d9f6e-32c5-41f5-8744-33373c3b42e0
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '270'
 ht-degree: 0%
@@ -21,15 +21,15 @@ Sie können ein Beispiel senden, um zu überprüfen, ob Ihre Push-Benachrichtigu
 
 1. Sie können ein Beispiel auf drei Arten senden:
 
-   Klicken Sie in der Baumstruktur links mit der rechten Maustaste auf das Push-Benachrichtigungs-Asset und dann auf **Beispiel senden**.
+   Klicken Sie in der Baumstruktur links mit der rechten Maustaste auf das Push-Benachrichtigungs-Asset und dann auf **[!UICONTROL Beispiel senden]**.
 
    ![](assets/image2015-7-13-11-3a26-3a15.png)
 
-   Oder klicken Sie im Menü Push-Benachrichtigungsaktionen auf **Beispiel senden**.
+   Oder klicken Sie im Menü Push-Benachrichtigungsaktionen auf **[!UICONTROL Beispiel senden]**.
 
    ![](assets/image2015-7-13-11-3a28-3a37.png)
 
-   Oder klicken Sie im Editor für Push-Benachrichtigungen auf **Beispiel senden**.
+   Oder klicken Sie im Editor für Push-Benachrichtigungen auf **[!UICONTROL Beispiel senden]**.
 
    ![](assets/image2015-7-20-13-3a29-3a3.png)
 
@@ -37,23 +37,23 @@ Sie können ein Beispiel senden, um zu überprüfen, ob Ihre Push-Benachrichtigu
 
    ![](assets/image2015-7-29-8-3a25-3a17.png)
 
-   Oder klicken Sie auf **Gerät hinzufügen**, um [ein neues Testgerät hinzuzufügen](/help/marketo/product-docs/mobile-marketing/push-notifications/adding-a-new-test-device.md) um die Stichprobe an zu senden.
+   Oder klicken Sie auf **[!UICONTROL Gerät hinzufügen]**, um [ein neues Testgerät hinzuzufügen](/help/marketo/product-docs/mobile-marketing/push-notifications/adding-a-new-test-device.md) um die Stichprobe an zu senden.
 
    ![](assets/image2015-7-13-11-3a34-3a21.png)
 
 1. Sie haben zwei Möglichkeiten, Ihr Gerät mit der App zu verbinden.
 
-   Klicken Sie bei der ersten Option auf die Schaltfläche **URL mit Gerät**, kopieren Sie die URL aus dem Feld und senden Sie sie in einer E-Mail oder Textnachricht an Ihr Gerät. Tippen Sie auf dem Gerät auf die URL. Wenn der Status die Verbindung anzeigt, klicken Sie auf **Senden**.
+   Klicken Sie bei der ersten Option auf die Schaltfläche **[!UICONTROL URL mit Gerät]**, kopieren Sie die URL aus dem Feld und senden Sie sie in einer E-Mail oder Textnachricht an Ihr Gerät. Tippen Sie auf dem Gerät auf die URL. Wenn der Status die Verbindung anzeigt, klicken Sie auf **[!UICONTROL Senden]**.
 
    ![](assets/image2015-7-29-8-3a29-3a18.png)
 
-   Oder klicken Sie mit der zweiten Option auf die Schaltfläche **QR-Code mit Gerät** und scannen Sie den QR-Code mit Ihrem Gerät. Wenn der Status die Verbindung anzeigt, klicken Sie auf **Senden**.
+   Oder klicken Sie mit der zweiten Option auf die Schaltfläche **[!UICONTROL QR-Code mit Gerät]** und scannen Sie den QR-Code mit Ihrem Gerät. Wenn der Status die Verbindung anzeigt, klicken Sie auf **[!UICONTROL Senden]**.
 
    ![](assets/image2015-7-29-8-3a31-3a20.png)
 
    >[!TIP]
    >
-   >Sie haben ein Testgerät erfolgreich hinzugefügt, es wird jedoch nicht im Feld **Senden an** angezeigt? Überprüfen Sie diese zur Fehlerbehebung:
+   >Sie haben ein Testgerät erfolgreich hinzugefügt, es wird jedoch nicht im Feld **[!UICONTROL Senden an]** angezeigt? Überprüfen Sie diese zur Fehlerbehebung:
    >
    >* Push-Benachrichtigungen sind für die App aktiviert, die mit der Push-Benachrichtigung verknüpft ist.
    >

@@ -4,18 +4,18 @@ description: Verwenden von Segmentfiltern in einer Smart-Liste - Marketo-Dokumen
 title: Verwenden von Segmentfiltern in einer Smart-Liste
 exl-id: 8a0f8631-9657-4209-af64-4e967c27b137
 feature: Segmentation
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 1%
 
 ---
 
-# Verwenden von Segmentfiltern in einer Smart-Liste {#use-segment-filters-in-a-smart-list}
+# Verwenden von Segmentfiltern in einer [!UICONTROL Smart List] {#use-segment-filters-in-a-smart-list}
 
 >[!PREREQUISITES]
 >
->* [Erstellen einer Smart-Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>* [Erstellen einer [!UICONTROL Smart List]](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 >* [Segmentierung erstellen](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 
 Optimieren Sie die Leistung Ihrer Smart Lists mithilfe von Segmentfiltern.

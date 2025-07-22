@@ -4,7 +4,7 @@ description: Synchronisierungsstatus - Marketo-Dokumente - Produktdokumentation
 title: Synchronisierungsstatus
 exl-id: cab1cb1d-2bc7-4466-bab8-c9e03ab269f7
 feature: Microsoft Dynamics
-source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 2%
@@ -13,11 +13,11 @@ ht-degree: 2%
 
 # Synchronisierungsstatus {#sync-status}
 
-Sie können den aktuellen Durchsatz und den Rückstand des Synchronisierungsprozesses auf den Registerkarten Synchronisierungsstatus und Synchronisierungsfehler überwachen.
+Sie können den aktuellen Durchsatz und den Rückstand des Synchronisierungsprozesses auf den Registerkarten [!UICONTROL Synchronisierungsstatus] und [!UICONTROL Synchronisierungsfehler] überwachen.
 
-## Registerkarte „Synchronisierungsstatus“ {#sync-status-tab}
+## [!UICONTROL Synchronisierungsstatus] Registerkarte {#sync-status-tab}
 
-1. Klicken Sie **[!UICONTROL Admin]** gefolgt von **[!UICONTROL Microsoft Dynamics]**.
+1. Klicken Sie **[!UICONTROL Admin]** und **[!UICONTROL Microsoft Dynamics]**.
 
    ![](assets/image2016-1-20-11-3a34-3a14.png)
 
@@ -45,9 +45,9 @@ Sie können den aktuellen Durchsatz und den Rückstand des Synchronisierungsproz
 
    >[!NOTE]
    >
-   >Wenn Sie die Ansicht „Letzte Stunde“ betrachten, werden in den Spalten Einfügungen und Aktualisierungen K. A. angezeigt. Dies ist das erwartete Verhalten.
+   >Wenn Sie die Ansicht [!UICONTROL Letzte Stunde] anzeigen, werden in den [!UICONTROL Einfüge] und [!UICONTROL Aktualisierungen] Spalten K. A. angezeigt. Dies ist das erwartete Verhalten.
 
-## Registerkarte Synchronisierungsfehler {#sync-errors-tab}
+## Registerkarte [!UICONTROL Synchronisierungsfehler] {#sync-errors-tab}
 
 Durchsuchen, Suchen oder Exportieren von Leads (und anderen Objekten), die nicht mit Details wie Vorgang, Richtung, Fehlercode und Fehlermeldung synchronisiert werden konnten.
 

@@ -4,7 +4,7 @@ description: Erstellen benutzerdefinierter Feldergruppen mit dem Feld-Organisato
 title: Erstellen benutzerdefinierter Feldergruppen mit dem Feld-Organizer
 exl-id: 0425a446-2c92-4a2a-85c4-e05c22118035
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '1000'
 ht-degree: 3%
@@ -36,19 +36,19 @@ In den nächsten drei Abschnitten wird beschrieben, wie Sie eine benutzerdefinie
 
 ## Erstellen einer benutzerdefinierten Feldergruppe - Zeichenfolgen-Editor {#create-custom-field-group-string-editor}
 
-1. Klicken Sie **Lead-Datenbank**.
+1. Klicken Sie **[!UICONTROL Lead-Datenbank]**.
 
    ![](assets/one.png)
 
-1. Klicken Sie auf **Neu** und wählen Sie **Neuer Feld-Organisator**.
+1. Klicken Sie auf **[!UICONTROL Neu]** und wählen Sie **[!UICONTROL Neuer Feld-Organisator]**.
 
    ![](assets/two.png)
 
-1. Klicken Sie **Feld** und wählen Sie ein standardmäßiges oder benutzerdefiniertes Feld mit einem Datentyp aus, der dem Zeichenfolgen-Editor zugeordnet ist (siehe Tabelle im vorherigen Abschnitt). Das Land wird hier verwendet.
+1. Klicken Sie **[!UICONTROL Feld]** und wählen Sie ein standardmäßiges oder benutzerdefiniertes Feld mit einem Datentyp aus, der dem Zeichenfolgen-Editor zugeordnet ist (siehe Tabelle im vorherigen Abschnitt). [!UICONTROL Land] wird hier verwendet.
 
    ![](assets/three.png)
 
-1. Klicken Sie auf **Erstellen**.
+1. Klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/four.png)
 
@@ -60,7 +60,7 @@ In den nächsten drei Abschnitten wird beschrieben, wie Sie eine benutzerdefinie
 
    ![](assets/five.png)
 
-1. Standardmäßig werden alle Datenwerte in der Untergruppe „Sonstige“ platziert. Um die Datenwerte zu kategorisieren, klicken Sie auf **Gruppe hinzufügen**, um eine Untergruppe zu erstellen und ihr einen Namen zu geben.
+1. Standardmäßig werden alle Datenwerte in der Untergruppe [!UICONTROL Sonstige] platziert. Um die Datenwerte zu kategorisieren, klicken Sie auf **[!UICONTROL Gruppe hinzufügen]**, um eine Untergruppe zu erstellen und ihr einen Namen zu geben.
 
    >[!NOTE]
    >
@@ -72,7 +72,7 @@ In den nächsten drei Abschnitten wird beschrieben, wie Sie eine benutzerdefinie
 
    >[!NOTE]
    >
-   >Um eine Untergruppe zu löschen, klicken Sie einfach auf das rote X neben dem Namen der Untergruppe. Wenn die Gruppe Datenwerte enthält, werden die Datenwerte in die Standardgruppe „Sonstige“ verschoben.
+   >Um eine Untergruppe zu löschen, klicken Sie einfach auf das rote X neben dem Namen der Untergruppe. Wenn sich Datenwerte in der Gruppe befinden, werden die Datenwerte in die Standardgruppe &quot;[!UICONTROL &quot; ].
 
 1. Markieren Sie einen oder mehrere Datenwerte auf der Arbeitsfläche und ziehen Sie sie per Drag-and-Drop in die entsprechende Untergruppe.
 
@@ -92,19 +92,19 @@ In den nächsten drei Abschnitten wird beschrieben, wie Sie eine benutzerdefinie
 
 ## Erstellen einer benutzerdefinierten Feldergruppe - Ganzzahl-Editor {#create-custom-field-group-integer-editor}
 
-1. Klicken Sie **Lead-Datenbank**.
+1. Klicken Sie **[!UICONTROL Lead-Datenbank]**.
 
    ![](assets/one.png)
 
-1. Klicken Sie auf **Neu** und wählen Sie **Neuer Feld-Organisator**.
+1. Klicken Sie auf **[!UICONTROL Neu]** und wählen Sie **[!UICONTROL Neuer Feld-Organisator]**.
 
    ![](assets/two.png)
 
-1. Klicken Sie **Feld** und wählen Sie ein standardmäßiges oder benutzerdefiniertes Feld mit einem Datentyp aus, der dem Zeichenfolgen-Editor zugeordnet ist (siehe Tabelle im vorherigen Abschnitt). Die jährlichen Einnahmen werden hier verwendet.
+1. Klicken Sie **[!UICONTROL Feld]** und wählen Sie ein standardmäßiges oder benutzerdefiniertes Feld mit einem Datentyp aus, der dem Zeichenfolgen-Editor zugeordnet ist (siehe Tabelle im vorherigen Abschnitt). [!UICONTROL Jahresumsatz] wird hier verwendet.
 
    ![](assets/nine.png)
 
-1. Klicken Sie auf **Erstellen**.
+1. Klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/9.5.png)
 
@@ -112,13 +112,13 @@ In den nächsten drei Abschnitten wird beschrieben, wie Sie eine benutzerdefinie
 
    ![](assets/9.6.png)
 
-1. Klicken Sie auf den Namen der benutzerdefinierten Standardgruppe über dem Ganzzahleditor, um den Namen anzupassen. Sie können beispielsweise „Gruppe Jahresumsatz“ in „Jahresumsatz nach Größe“ umbenennen. Klicken Sie auf **Speichern**.
+1. Klicken Sie auf den Namen der benutzerdefinierten Standardgruppe über dem Ganzzahleditor, um den Namen anzupassen. Sie können beispielsweise „Gruppe Jahresumsatz“ in „Jahresumsatz nach Größe“ umbenennen. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/eleven.png)
 
    Mit dem Ganzzahl-Editor können Sie mehrere Untergruppen erstellen, um jede Untergruppe nach Größe zu definieren. In diesem Beispiel werden drei Gruppen für kleine, Medium- und Enterprise-Unternehmen erstellt.
 
-1. Um Ihre erste Gruppe hinzuzufügen, geben Sie einen Namen in das Feld **Gruppenname** ein (Beispiel: Klein) und geben Sie einen Maximalwert in das Feld **Gruppenname** ein (Beispiel: 200000). Klicken Sie **Gruppe hinzufügen**.
+1. Um Ihre erste Gruppe hinzuzufügen, geben Sie einen Namen in das Feld **[!UICONTROL Gruppenname]** ein (Beispiel: Klein) und geben Sie einen Maximalwert in das Feld **[!UICONTROL Gruppenname]** ein (Beispiel: 200000). Klicken Sie **[!UICONTROL Gruppe hinzufügen]**.
 
    ![](assets/twelve.png)
 
@@ -146,19 +146,19 @@ In den nächsten drei Abschnitten wird beschrieben, wie Sie eine benutzerdefinie
 
 ## Erstellen einer benutzerdefinierten Feldergruppe - Datums-Editor {#create-custom-field-group-date-editor}
 
-1. Klicken Sie **Lead-Datenbank**.
+1. Klicken Sie **[!UICONTROL Lead-Datenbank]**.
 
    ![](assets/one.png)
 
-1. Klicken Sie auf **Neu** und wählen Sie **Neuer Feld-Organisator**.
+1. Klicken Sie auf **[!UICONTROL Neu]** und wählen Sie **[!UICONTROL Neuer Feld-Organisator]**.
 
    ![](assets/two.png)
 
-1. Klicken Sie **Feld** und wählen Sie ein standardmäßiges oder benutzerdefiniertes Feld mit einem Datentyp aus, der dem Zeichenfolgen-Editor zugeordnet ist (siehe Tabelle im vorherigen Abschnitt). Hier wird das Akquisitionsdatum verwendet.
+1. Klicken Sie **[!UICONTROL Feld]** und wählen Sie ein standardmäßiges oder benutzerdefiniertes Feld mit einem Datentyp aus, der dem Zeichenfolgen-Editor zugeordnet ist (siehe Tabelle im vorherigen Abschnitt). [!UICONTROL Akquisitionsdatum] wird hier verwendet.
 
    ![](assets/fourteen.png)
 
-1. Klicken Sie auf **Erstellen**.
+1. Klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/14.5.png)
 
@@ -166,19 +166,19 @@ In den nächsten drei Abschnitten wird beschrieben, wie Sie eine benutzerdefinie
 
    ![](assets/14.6.png)
 
-1. Klicken Sie auf den Namen der benutzerdefinierten Standardgruppe über dem Datumseditor, um den Namen anzupassen. Sie können beispielsweise „Akquisitionsdatumsgruppe“ in „Akquisitionsdatumskategorien“ umbenennen. Klicken Sie auf **Speichern**.
+1. Klicken Sie auf den Namen der benutzerdefinierten Standardgruppe über dem Datumseditor, um den Namen anzupassen. Sie können beispielsweise „Akquisitionsdatumsgruppe“ in „Akquisitionsdatumskategorien“ umbenennen. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/fifteen.png)
 
    Mit dem Datumseditor können Sie mehrere Untergruppen erstellen und jede Untergruppe nach Datum definieren. In diesem Beispiel werden drei Gruppen erstellt: Q1-15 Leads, Q2-15 Leads und Q3-15 Leads.
 
-1. Um Ihre erste Gruppe hinzuzufügen, geben Sie einen Namen in das Feld **Gruppenname** ein (Beispiel: Q1-15 Leads) und geben Sie ein Datum in das Feld Datum ein, das dem Datum entspricht, an dem der Lead am oder vor erworben wurde (Beispiel: 3/31/2015 für den letzten Tag von Q1-15). Klicken Sie **Gruppe hinzufügen**.
+1. Um Ihre erste Gruppe hinzuzufügen, geben Sie einen Namen in das Feld **[!UICONTROL Gruppenname]** ein (Beispiel: Q1-15 Leads) und geben Sie ein Datum in das Feld Datum ein, das dem Datum entspricht, an dem der Lead am oder vor erworben wurde (Beispiel: 3/31/2015 für den letzten Tag von Q1-15). Klicken Sie **[!UICONTROL Gruppe hinzufügen]**.
 
    ![](assets/sixteen.png)
 
    >[!NOTE]
    >
-   >Sie können bis zu zehn Untergruppen hinzufügen, um die Datenwerte zu kategorisieren. Jeder Gruppenbereichseintrag baut auf dem vorherigen Eintrag auf. Wenn Sie für die letzte von Ihnen erstellte benutzerdefinierte Untergruppe den Eintrag „Letzter Gruppenbereich“ leer lassen, wird kein Enddatumswert festgelegt.
+   >Sie können bis zu zehn Untergruppen hinzufügen, um die Datenwerte zu kategorisieren. Jeder [!UICONTROL Gruppenbereich] baut auf dem vorherigen Eintrag auf. Wenn Sie für die letzte [!UICONTROL  erstellte Untergruppe den ] „Gruppenbereich“ leer lassen, wird kein Enddatumswert festgelegt.
 
    Das folgende Beispiel zeigt einen Eintrag für Q1 2015 führt durch Q3.
 

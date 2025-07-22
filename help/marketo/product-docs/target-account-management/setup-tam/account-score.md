@@ -4,16 +4,16 @@ description: Kontobewertung - Marketo-Dokumente - Produktdokumentation
 title: Kontobewertung
 exl-id: 68fb5f41-f715-4a4d-b4da-9db4dc38d67d
 feature: Target Account Management
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '355'
-ht-degree: 3%
+ht-degree: 2%
 
 ---
 
-# Kontobewertung {#account-score}
+# [!UICONTROL Kontobewertung] {#account-score}
 
-Die Kontobewertung ist ein wichtiger Bestandteil der Verwaltung von Target-Konten. Damit können Sie den Grad der Interaktion mit Ihren Konten ermitteln.
+Die Kontobewertung ist ein wichtiger Bestandteil der [!UICONTROL Target-]&quot;. Damit können Sie den Grad der Interaktion mit Ihren Konten ermitteln.
 
 ## Was ist die Kontobewertung? {#what-is-account-scoring}
 
@@ -57,30 +57,30 @@ In der komplexen Welt der B2B-Kaufprozesse ist es selten, dass eine einzelne Per
 
 Nachdem Sie die Lead-Bewertung konfiguriert haben, fahren Sie mit den folgenden Schritten fort.
 
-1. Klicken Sie auf **Admin**.
+1. Klicken Sie auf **[!UICONTROL Admin]**.
 
    ![](assets/account-score-1.png)
 
-1. Klicken Sie **Target-Kontoverwaltung**.
+1. Klicken Sie **[!UICONTROL Target-Kontoverwaltung]**.
 
    ![](assets/account-score-2.png)
 
-1. Klicken Sie in den Bewertungsfeldern auf **Bearbeiten**.
+1. Klicken [!UICONTROL  in „Bewertungsfelder] auf **[!UICONTROL Bearbeiten]**.
 
    ![](assets/account-score-3.png)
 
    >[!NOTE]
    >
-   >Sie können bis zu **fünf Felder**, um die Kontobewertung zu berechnen.
+   >Sie können bis zu **fünf** Felder zur Berechnung des [!UICONTROL Kontowerts] auswählen.
 
-1. Geben Sie den Namen der Kontobewertung ein, klicken Sie auf **Dropdown-Liste &quot;** auswählen“ und wählen Sie den entsprechenden Wert aus.
+1. Geben Sie [!UICONTROL  Namen „Kontobewertung] ein, klicken Sie auf die **[!UICONTROL Personenbewertung auswählen]** und wählen Sie den entsprechenden Wert aus.
 
    ![](assets/account-score-4.png)
 
-1. Klicken Sie auf **+**, um weitere Scores hinzuzufügen.
+1. Klicken Sie auf **[!UICONTROL +]**, um weitere Scores hinzuzufügen.
 
    ![](assets/account-score-5.png)
 
-1. Fügen Sie alle gewünschten Werte hinzu. Klicken Sie auf **Speichern**, wenn Sie fertig sind.
+1. Fügen Sie alle gewünschten Werte hinzu. Klicken Sie auf **[!UICONTROL Speichern]**, wenn Sie fertig sind.
 
    ![](assets/account-score-6.png)

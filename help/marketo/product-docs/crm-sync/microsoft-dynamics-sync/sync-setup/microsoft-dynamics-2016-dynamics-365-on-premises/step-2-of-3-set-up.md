@@ -1,26 +1,26 @@
 ---
-description: Installieren von Marketo für Microsoft Dynamics 2016/Dynamics 365 On-Premise - Schritt 2 von 3 - Dokumente zu Marketo - Produktdokumentation
-title: Installieren von Marketo für Microsoft Dynamics 2016/Dynamics 365 On-Premise, Schritt 2 von 3
+description: Installieren von Marketo for [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365 On-Premise Schritt 2 von 3 - Dokumentation zu Marketo - Produktdokumentation
+title: Installieren von Marketo for [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365 On-Premise Schritt 2 von 3
 exl-id: c789b977-7ada-4f5d-8488-e1b58963f7e3
 feature: Microsoft Dynamics
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '495'
+source-wordcount: '473'
 ht-degree: 0%
 
 ---
 
-# Schritt 2 von 3 Einrichten von Marketo für Dynamics (2016 On-Premise/Dynamics 365 On-Premise){#step-of-set-up-for-marketo-on-premises-2016}
+# Schritt 2 von 3 Einrichten von Marketo for [!DNL Dynamics] (2016 On-Premise/[!DNL Dynamics] 365 On-Premise){#step-of-set-up-for-marketo-on-premises-2016}
 
 Gute Arbeit beim Abschließen der vorherigen Schritte. Lassen Sie uns das immer wieder durchgehen.
 
 >[!PREREQUISITES]
 >
->[Installieren von Marketo für Microsoft Dynamics 2016/Dynamics 365 On-Premise, Schritt 1 von 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md){target="_blank"}
+>[Installieren von Marketo for [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365 On-Premise, Schritt 1 von 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md)
 
 ## Neuen Benutzer erstellen {#create-a-new-user}
 
-1. Melden Sie sich bei Dynamics an. Klicken Sie auf das Symbol Einstellungen und wählen Sie Erweiterte Einstellungen aus.
+1. Melden Sie sich bei [!DNL Dynamics] an. Klicken Sie auf das Symbol Einstellungen und wählen Sie Erweiterte Einstellungen aus.
 
    ![](assets/step-2-of-3-marketo-on-premises-2016-1.png)
 
@@ -62,7 +62,7 @@ Gute Arbeit beim Abschließen der vorherigen Schritte. Lassen Sie uns das immer 
 
 ## Neue Client-Anwendung erstellen {#create-a-new-client-application}
 
-Führen Sie die Schritte in [diesem Artikel zu Microsoft](https://docs.microsoft.com/en-us/windows-server/identity/ad-fs/development/enabling-oauth-confidential-clients-with-ad-fs#create-an-application-group-in-ad-fs-2016-or-later){target="_blank"} aus, um ein neues Client-Programm zu erstellen und Berechtigungen zu erteilen. Notieren Sie sich die Client-ID/den geheimen Schlüssel der Dynamics-Client-Anwendung.
+Führen Sie die Schritte in [diesem Artikel zu Microsoft](https://docs.microsoft.com/en-us/windows-server/identity/ad-fs/development/enabling-oauth-confidential-clients-with-ad-fs#create-an-application-group-in-ad-fs-2016-or-later) aus, um ein neues Client-Programm zu erstellen und Berechtigungen zu erteilen. Notieren Sie sich die Client-ID/den geheimen Schlüssel der [!DNL Dynamics]-Client-Anwendung.
 
 ## Assign Sync User Role {#assign-sync-user-role}
 
@@ -70,7 +70,7 @@ Weisen Sie die Rolle Marketo-Synchronisierungsbenutzer nur dem Marketo-Synchroni
 
 >[!NOTE]
 >
->Dies gilt für die Marketo-Version 4.0.0.14 und höher. Bei früheren Versionen müssen alle Benutzer über die Rolle „Benutzer synchronisieren“ verfügen. Informationen zum Upgrade Ihrer Marketo finden Sie unter [Upgrade der Marketo-Lösung für Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md){target="_blank"}.
+>Dies gilt für die Marketo-Version 4.0.0.14 und höher. Bei früheren Versionen müssen alle Benutzer über die Rolle „Benutzer synchronisieren“ verfügen. Informationen zum Upgrade Ihrer Marketo finden Sie unter [Upgrade der Marketo-Lösung für [!DNL Microsoft Dynamics]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
 
 >[!IMPORTANT]
 >
@@ -134,10 +134,10 @@ Fast fertig! Wir haben nur noch ein paar letzte Konfigurationsschritte, bevor wi
 
 ## Bevor Sie mit Schritt 3 fortfahren {#before-proceeding-to-step}
 
-* Wenn Sie die Anzahl der zu synchronisierenden Datensätze einschränken möchten, richten [ jetzt einen benutzerdefinierten Synchronisierungsfilter ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md){target="_blank"}.
-* Führen Sie den [Microsoft Dynamics-Synchronisierungsprozess ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md){target="_blank"}. Es stellt sicher, dass die anfänglichen Setups korrekt ausgeführt wurden.
-* Melden Sie sich beim Marketo Sync User in Microsoft Dynamics CRM an.
+* Wenn Sie die Anzahl der zu synchronisierenden Datensätze einschränken möchten, richten [ jetzt einen benutzerdefinierten Synchronisierungsfilter ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md).
+* Führen Sie den Prozess [validate [!DNL Microsoft Dynamics] sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md) aus. Es stellt sicher, dass die anfänglichen Setups korrekt ausgeführt wurden.
+* Melden Sie sich beim Marketo Sync User in [!DNL Microsoft Dynamics] CRM an.
 
 >[!MORELIKETHIS]
 >
->[Installieren von Marketo für Microsoft Dynamics 2016/Dynamics 365 On-Premise - Schritt 3 von 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-3-of-3-connect.md){target="_blank"}
+>[Installieren von Marketo for [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365 On-Premise Schritt 3 von 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-3-of-3-connect.md)

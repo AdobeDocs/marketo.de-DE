@@ -4,7 +4,7 @@ description: Genehmigen Ihrer In-App-Nachricht - Marketo-Dokumente - Produktdoku
 title: Genehmigen Ihrer In-App-Nachricht
 exl-id: 3ebd857e-8caa-45f3-a53c-fa2df2a81d36
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '320'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Sie müssen den Versand genehmigen, bevor die In-App-Nachricht gesendet wird.
 
-1. Wenn alles in Ordnung ist, klicken Sie auf **Genehmigen und starten**.
+1. Wenn alles in Ordnung ist, klicken Sie auf **[!UICONTROL Genehmigen und starten]**.
 
    ![](assets/pasted-image-at-2016-05-31-02-08-pm-281-29.png)
 
@@ -23,7 +23,7 @@ Sie müssen den Versand genehmigen, bevor die In-App-Nachricht gesendet wird.
    >
    >Wenn ein Teil des Sendevorgangs unvollständig ist, z. B. die In-App-Nachricht nicht genehmigt wurde, wird eine Warnmeldung angezeigt, die angibt, in welchem Bereich Ihre Aufmerksamkeit erforderlich ist. Beheben Sie das Problem, und Sie sollten die Meldung in Schritt 2 sehen.
 
-1. Klicken Sie auf **Genehmigen und starten**.
+1. Klicken Sie auf **[!UICONTROL Genehmigen und starten]**.
 
    ![](assets/pasted-image-at-2016-05-31-02-08-pm.png)
 
@@ -31,7 +31,7 @@ Sie müssen den Versand genehmigen, bevor die In-App-Nachricht gesendet wird.
 
    ![](assets/pasted-image-at-2016-05-31-02-09-pm.png)
 
-1. Die Nachricht ist jetzt aktiv.
+1. Die Nachricht lautet jetzt [!UICONTROL Aktiv].
 
    ![](assets/image2016-5-12-13-3a49-3a5.png)
 
@@ -41,7 +41,7 @@ Sie müssen den Versand genehmigen, bevor die In-App-Nachricht gesendet wird.
 
    Sie können ein aktives Programm anhalten oder stoppen, aber es gibt einen großen Unterschied zwischen diesen beiden Optionen.
 
-1. Klicken Sie auf **Programm anhalten**, wenn Sie das Programm eine Weile anhalten, aber später fortsetzen möchten. Er wechselt in den Status **Paused**.
+1. Klicken Sie auf **[!UICONTROL Programm anhalten]**, wenn Sie das Programm eine Weile anhalten, aber später fortsetzen möchten. Er wechselt in den Status **[!UICONTROL Paused]**.
 
    ![](assets/image2016-5-12-13-3a50-3a26.png)
 
@@ -49,24 +49,24 @@ Sie müssen den Versand genehmigen, bevor die In-App-Nachricht gesendet wird.
    >
    >Gründe für das Anhalten können sein, sie nur für eine Weile anzuhalten, oder wenn Sie die Nachricht ändern oder den Zeitplan anpassen möchten. Sie können jedoch nicht zu einer anderen Nachricht wechseln, sondern nur die vorhandene bearbeiten.
 
-1. Wenn das angehaltene Programm weiter ausgeführt werden soll, klicken Sie auf **Programm fortsetzen**.
+1. Wenn das angehaltene Programm weiter ausgeführt werden soll, klicken Sie auf **[!UICONTROL Programm fortsetzen]**.
 
    ![](assets/image2016-5-24-13-3a26-3a43.png)
 
-1. Um das Programm vollständig zu stoppen, klicken Sie auf **Programm anhalten**.
+1. Um das Programm vollständig zu stoppen, klicken Sie auf **[!UICONTROL Programm anhalten]**.
 
    ![](assets/image2016-5-24-13-3a29-3a35.png)
 
-1. Wenn Sie das Programm wirklich anhalten möchten, klicken Sie auf **Anhalten**.
+1. Wenn Sie das Programm wirklich anhalten möchten, klicken Sie auf **[!UICONTROL Anhalten]**.
 
    ![](assets/image2016-5-24-13-3a31-3a22.png)
 
    >[!NOTE]
    >
-   >Wenn Sie ein Programm stoppen, wird es nicht mehr ausgeführt und kann nicht fortgesetzt werden. Wenn Sie sie erneut ausführen möchten, müssen Sie sie neu erstellen. Vergewissern Sie sich also, dass Sie mit einem Programm fertig sind, bevor Sie auf **Programm anhalten** klicken.
+   >Wenn Sie ein Programm stoppen, wird es nicht mehr ausgeführt und kann nicht fortgesetzt werden. Wenn Sie sie erneut ausführen möchten, müssen Sie sie neu erstellen. Vergewissern Sie sich also, dass Sie mit einem Programm fertig sind, bevor Sie auf **[!UICONTROL Programm anhalten]** klicken.
 
 ## In-App-Dashboard {#in-app-dashboard}
 
-Nach Ausführung des Programms können Sie dessen Leistung mit dem In-App-Dashboard überwachen, das nach der Genehmigung des Programms automatisch angezeigt wird. Um zum Programm zurückzukehren, klicken Sie auf den Link oben rechts und wählen Sie **Systemsteuerung**.
+Nach Ausführung des Programms können Sie dessen Leistung mit dem In-App-Dashboard überwachen, das nach der Genehmigung des Programms automatisch angezeigt wird. Um zum Programm zurückzukehren, klicken Sie auf den Link oben rechts und wählen Sie **[!UICONTROL Systemsteuerung]**.
 
 Das ist alles, Leute!

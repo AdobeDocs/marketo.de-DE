@@ -4,29 +4,29 @@ description: Einrichten von Sternen und Flammen für Lead-/Kontaktaufzeichnungen
 title: Einrichten von Sternen und Flammen für Lead-/Kontakt-Datensätze
 exl-id: 696b2551-0627-4da1-a64e-d3ef91596442
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
 
 # Einrichten von Sternen und Flammen für Lead-/Kontakt-Datensätze {#setting-up-stars-and-flames-for-lead-contact-records}
 
-Sterne und Flammen in Lead-/Kontakt-Datensätzen sind abhängig von: Lead-Bewertung, relativer Punktzahl, Dringlichkeit und Priorität. Diese Felder sind nach der Installation und Konfiguration der MSI-Lösung standardmäßig verfügbar. Wenn Sie keine Sterne und Flammen haben, kann eine vorherige Einrichtung/Anpassung dazu geführt haben, dass sie entfernt wurden. Gehen Sie wie folgt vor, um sie hinzuzufügen.
+Sterne und Flammen in Lead-/Kontakt-Datensätzen sind abhängig von: [!UICONTROL Lead-Bewertung], [!UICONTROL Relativer Score], [!UICONTROL Dringlichkeit] und [!UICONTROL Priorität] Feldern. Diese Felder sind nach der Installation und Konfiguration der MSI-Lösung standardmäßig verfügbar. Wenn Sie keine Sterne und Flammen haben, kann eine vorherige Einrichtung/Anpassung dazu geführt haben, dass sie entfernt wurden. Gehen Sie wie folgt vor, um sie hinzuzufügen.
 
-1. Klicken Sie in Microsoft Dynamics auf die Dropdown-Liste „Verkauf“ und wählen Sie **Einstellungen**. Klicken Sie **Anpassungen** und anschließend **System anpassen**.
+1. Klicken Sie in [!DNL Microsoft Dynamics] auf die Dropdown-Liste „Verkauf“ und wählen Sie **[!UICONTROL Einstellungen]**. Klicken Sie **[!UICONTROL Anpassungen]** und anschließend **[!UICONTROL System anpassen]**.
 
-1. Klicken Sie im linken Bedienfeld auf &quot;**&quot;**.
+1. Klicken Sie im linken Bedienfeld auf &quot;**[!UICONTROL &quot;]**.
 
-1. Suchen Sie nach **Lead**, klicken Sie auf **Forms** und wählen Sie dann das Formular aus, das Sie bearbeiten möchten.
+1. Suchen Sie nach **[!UICONTROL Lead]**, klicken Sie auf **[!UICONTROL Forms]** und wählen Sie dann das Formular aus, das Sie bearbeiten möchten.
 
    ![](assets/setting-up-stars-and-flames-for-lead-contact-records-1.png)
 
-1. Klicken Sie im linken Bedienfeld auf **0&rbrace;Marketo Sales Insight.** Klicken Sie im rechten Bedienfeld auf die Dropdown-Liste Filter und wählen Sie **Benutzerdefinierte Felder**.
+1. Klicken Sie im linken Bedienfeld **** Marketo Sales Insight. Klicken Sie im rechten Bedienfeld auf die Dropdown-Liste Filter und wählen Sie **[!UICONTROL Benutzerdefinierte Felder]**.
 
    ![](assets/setting-up-stars-and-flames-for-lead-contact-records-2.png)
 
-1. Ziehen Sie Folgendes per Drag-and-Drop hinüber: Lead-Bewertung, Relative Bewertung, Dringlichkeit und Priorität. Ordnen Sie sie so an, dass es für Sie am besten funktioniert. Sie können auch jedes Feld formatieren, indem Sie darauf doppelklicken.
+1. Ziehen Sie die Felder [!UICONTROL Lead-Bewertung], [!UICONTROL Relative Bewertung], [!UICONTROL Dringlichkeit] und [!UICONTROL Priorität] per Drag-and-Drop. Ordnen Sie sie so an, dass es für Sie am besten funktioniert. Sie können auch jedes Feld formatieren, indem Sie darauf doppelklicken.
 
-1. Wenn Sie fertig sind, klicken Sie auf **Speichern und schließen**.
+1. Wenn Sie fertig sind, klicken Sie auf **[!UICONTROL Speichern und schließen]**.

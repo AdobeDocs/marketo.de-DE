@@ -4,7 +4,7 @@ description: Aktivieren der Inhaltsempfehlungsleiste - Marketo-Dokumente - Produ
 title: Aktivieren der Inhaltsempfehlungsleiste
 exl-id: f2244db1-51a9-4e26-9bf7-b2c79df25552
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '322'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Aktivieren der Inhaltsempfehlungsleiste {#enable-the-content-recommendation-bar}
 
-Die Inhaltsempfehlungs-Engine verwendet prädiktive Analysen und Algorithmen des maschinellen Lernens, um jedem Web-Besucher relevante Inhalte bereitzustellen. Die Recommendations-Engine sagt voraus, welche Inhalte pro Besucher am besten funktionieren würden. Der Inhalt für die Engine wird unter der Recommendations-Seite überwacht und gesteuert, sodass Sie Ihren Inhalts-ROI optimieren können.
+Die Inhaltsempfehlungs-Engine verwendet prädiktive Analysen und Algorithmen des maschinellen Lernens, um jedem Web-Besucher relevante Inhalte bereitzustellen. Die Recommendations-Engine sagt voraus, welche Inhalte pro Besucher am besten funktionieren würden. Der Inhalt für die Engine wird unter der Seite Recommendations überwacht und gesteuert, sodass Sie Ihren Inhalts-ROI optimieren können.
 
 >[!PREREQUISITES]
 >
@@ -29,19 +29,19 @@ Die Inhaltsempfehlungs-Engine verwendet prädiktive Analysen und Algorithmen des
 
 ## Aktivieren und Anpassen der Inhaltsempfehlungsleiste {#enable-and-customize-the-content-recommendation-bar}
 
-1. Navigieren Sie **Inhaltseinstellungen**.
+1. Navigieren Sie **[!UICONTROL Inhaltseinstellungen]**.
 
    ![](assets/settings-dropdown-hand.png)
 
-1. Klicken Sie auf **Leiste**.
+1. Klicken Sie auf **[!UICONTROL Leiste]**.
 
    ![](assets/content-settings-bar-hand.png)
 
-1. Um die Empfehlungsleiste für eine URL zu aktivieren, klicken Sie einfach auf **Ein** und dann **Speichern**.
+1. Um die Empfehlungsleiste für eine URL zu aktivieren, klicken Sie einfach auf **[!UICONTROL Ein]** und dann **[!UICONTROL Speichern]**.
 
    ![](assets/bar-enable.png)
 
-1. Um eine URL anzupassen, wählen Sie Farben, Stil, Format, Pfeile für die Empfehlungsleiste und Seiten, auf denen die Leiste ein- oder ausgeschlossen werden soll. Passen Sie es an Ihr Website-Branding an. Klicken Sie auf **Speichern**.
+1. Um eine URL anzupassen, wählen Sie Farben, Stil, Format, Pfeile für die Empfehlungsleiste und Seiten, auf denen die Leiste ein- oder ausgeschlossen werden soll. Passen Sie es an Ihr Website-Branding an. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/bar-customize-details-hands.png)
 
@@ -58,7 +58,7 @@ Die Inhaltsempfehlungs-Engine verwendet prädiktive Analysen und Algorithmen des
 
 ## Überlegungen zur Empfehlungsleiste {#recommendation-bar-considerations}
 
-* Sie benötigen mindestens ein Inhaltselement, damit die Empfehlungsleiste auf der Recommendations **Seite auf „Ein** gesetzt wird, damit die Empfehlungs-Engine funktioniert. Wenn kein Inhalt aktiviert ist und die Leiste auf **Ein** eingestellt ist, wird der Pfeileffekt unten rechts auf der Web-Seite angezeigt, es werden jedoch keine empfohlenen Inhalte angezeigt.
+* Sie benötigen mindestens ein Inhaltselement, damit die Empfehlungsleiste auf der Seite „Empfehlungen **[!UICONTROL auf „Ein]** gesetzt wird, damit die Empfehlungs-Engine funktioniert. Wenn kein Inhalt aktiviert ist und die Leiste auf **[!UICONTROL Ein]** eingestellt ist, wird der Pfeileffekt unten rechts auf der Web-Seite angezeigt, es werden jedoch keine empfohlenen Inhalte angezeigt.
 
 * Je mehr Inhalte in der Recommendations-Engine ausgeführt werden, desto besser für den Algorithmus, zu testen und zu lernen, welche Inhalte am besten funktionieren. Es wird empfohlen, mit der Ausführung und Aktivierung von 10 bis 20 Inhaltsfragmenten zu beginnen und weitere neue hinzuzufügen.
 * Der Inhalt, den Sie für eine Empfehlung aktivieren, sollte das RTP-JavaScript-Tag enthalten. Dies hilft dem Algorithmus, empfohlene Inhalte zu verfolgen und zu optimieren.

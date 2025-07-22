@@ -4,7 +4,7 @@ description: Einrichten der Schaltfläche „Schließen“ und Genehmigen der Na
 title: Schaltfläche „Schließen“ einrichten und Nachricht genehmigen
 exl-id: d7d2b4ad-efcb-4eb3-a741-ae51cfab2626
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '347'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Die Schaltfläche „Schließen“ bietet viele Optionen, mit denen Sie sie nach
 
    ![](assets/image2016-5-9-10-3a23-3a37.png)
 
-1. Wenn Sie die Farbe der Schaltfläche ändern möchten, klicken Sie auf das Farbauswahlfeld. Wählen Sie eine Farbe aus, indem Sie darauf klicken oder die Hex- oder RGB-Zahlen auf der Farbauswahl eingeben. Schwarz ist die Standardeinstellung.
+1. Wenn Sie die Farbe der Schaltfläche ändern möchten, klicken Sie auf das Farbauswahlfeld. Wählen Sie eine Farbe aus, indem Sie darauf klicken oder die Hex- oder RGB-Zahlen in der Farbauswahl eingeben. Schwarz ist die Standardeinstellung.
 
    ![](assets/image2016-5-9-10-3a33-3a17.png)
 
@@ -49,7 +49,7 @@ Die Schaltfläche „Schließen“ bietet viele Optionen, mit denen Sie sie nach
 
 Alle Ihre Auswahlen für Grafiken, Text und Schaltflächen wurden automatisch gespeichert. Jetzt bist du bereit, die Arbeit zu beenden.
 
-1. Um eine Vorschau Ihrer In-App-Nachricht anzuzeigen, klicken Sie auf **Dropdown-** „Nachrichtenaktionen“ und wählen Sie **Vorschau**.
+1. Um eine Vorschau Ihrer In-App-Nachricht anzuzeigen, klicken Sie auf **[!UICONTROL Dropdown-]** „Nachrichtenaktionen“ und wählen Sie **[!UICONTROL Vorschau]**.
 
    ![](assets/image2016-5-9-10-3a58-3a38.png)
 
@@ -57,13 +57,13 @@ Alle Ihre Auswahlen für Grafiken, Text und Schaltflächen wurden automatisch ge
 
    ![](assets/image2016-5-9-11-3a2-3a13.png)
 
-1. Wenn Sie mit der In-App-Nachricht zufrieden sind, klicken Sie auf &quot;**und schließen**.
+1. Wenn Sie mit der In-App-Nachricht zufrieden sind, klicken Sie auf &quot;**[!UICONTROL und schließen]**.
 
    ![](assets/image2016-5-9-11-3a8-3a52.png)
 
    >[!NOTE]
    >
-   >Sie können auch **Genehmigen und schließen** direkt aus dem Dropdown-Menü Nachrichtenaktionen auswählen (siehe Schritt 1). Warum sollten Sie die Nachricht jedoch nicht zuerst in der Vorschau anzeigen, nur um sicher zu sein?
+   >Sie können auch **[!UICONTROL Genehmigen und schließen]** direkt aus der Dropdown-Liste [!UICONTROL Nachrichtenaktionen] auswählen (siehe Schritt 1). Warum sollten Sie die Nachricht jedoch nicht zuerst in der Vorschau anzeigen, nur um sicher zu sein?
 
 1. Um den Editor ohne Genehmigung zu schließen, schließen Sie einfach die Registerkarte . Er wird automatisch gespeichert, sodass Sie ihn später zurückgeben und genehmigen können.
 

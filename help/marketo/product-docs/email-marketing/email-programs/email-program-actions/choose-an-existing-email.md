@@ -4,7 +4,7 @@ description: Vorhandene E-Mail auswählen - Marketo-Dokumente - Produktdokumenta
 title: Vorhandene E-Mail auswählen
 exl-id: c59200fd-808a-4b99-8c44-d7c1aaf53f98
 feature: Email Programs
-source-git-commit: b2ceefb068005d916027fb71be0dc4e25849ae23
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Nachdem Sie [E-Mail-Programm erstellt](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) und Ihre Audience definiert haben, sollten Sie entscheiden, welche E-Mail Sie senden. Sie können [eine E-Mail für ein E-Mail-Programm erstellen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) von Grund auf neu erstellen oder eine bereits vorhandene auswählen. So wählen Sie ein bereits existierendes aus.
 
-1. Navigieren Sie **Marketing-Aktivitäten**.
+1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -32,7 +32,7 @@ Nachdem Sie [E-Mail-Programm erstellt](/help/marketo/product-docs/email-marketin
 
    ![](assets/selectemailprogram.jpg)
 
-1. Wählen Sie unter **Kachel** E-Mail“ die gewünschte Kachel aus.
+1. Wählen Sie unter **[!UICONTROL Kachel]** E-Mail“ die gewünschte Kachel aus.
 
    ![](assets/image2014-9-12-11-3a28-3a10.png)
 

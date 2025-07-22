@@ -3,76 +3,76 @@ description: Häufig gestellte Fragen zur Datensynchronisierung für Aktionen - 
 title: Häufig gestellte Fragen zur Datensynchronisation für Aktionen
 feature: Sales Insight Actions
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 26173379c89393596b3ece18c7f7e945a79588d9
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '1054'
+source-wordcount: '958'
 ht-degree: 3%
 
 ---
 
 # Häufig gestellte Fragen zur Datensynchronisation für Aktionen {#actions-data-sync-faq}
 
-Mit der Feldsynchronisierung zur Datenvereinheitlichung für Sales Insight-Aktionen kann das System Personeninformationen aus Ihrer Marketo Engage-Datenbank in Ihre Sales Insight-Aktionsdatenbank abrufen.
+Mit der Feldsynchronisierung zur Datenvereinheitlichung für [!DNL Sales Insight Actions] kann das System Personeninformationen aus Ihrer Marketo Engage-Datenbank in Ihre [!DNL Sales Insight Actions]-Datenbank abrufen.
 
-Dadurch werden aktuelle Personendaten in der Web-App für Sales Insight-Aktionen bereitgestellt und das System kann eindeutige IDs für entsprechende Personendatensätze in Marketo und Lead-/Kontakt-/Konto-/Opportunity-Datensätze in Salesforce erfassen, sodass Datensätze für die Protokollierung von Daten ordnungsgemäß referenziert werden können.
+Dadurch werden aktuelle Personendaten in der [!DNL Sales Insight Actions]-Web-App bereitgestellt und das System kann eindeutige IDs für entsprechende Personendatensätze in Marketo und Lead-/Kontakt-/Konto-/Opportunity-Datensätze in [!DNL Salesforce] erfassen, sodass Datensätze für die Protokollierung von Daten ordnungsgemäß referenziert werden können.
 
-Diese Synchronisierung kann über die Registerkarte Sales Insight Actions Config im Admin-Abschnitt von Marketo Engage aktiviert werden. Weitere Informationen finden Sie unter [Datensynchronisierung starten](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md#initiate-data-sync).
+Diese Synchronisierung kann über die Registerkarte [!DNL Sales Insight Actions] im Abschnitt Admin von Marketo Engage aktiviert werden. Weitere Informationen finden Sie unter [Datensynchronisierung starten](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md#initiate-data-sync).
 
 ![](assets/actions-data-sync-faq-1.png)
 
 Das obige Diagramm zeigt, wie Daten zu Personenaktivitäten und Aufgaben zwischen Systemen synchronisiert werden können. Beachten Sie Folgendes:
 
-* Personendatensätze werden von Marketo Engage mit Verkaufserkenntnisaktionen synchronisiert, wodurch das Marketo Engage zur Wahrheitsquelle für Personendaten von Verkaufserkenntnisaktionen wird
-* Sowohl Marketo Engage- als auch Sales Insight-Aktionen [verfügen über einen Mechanismus](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md) zum Erfassen und Synchronisieren des Abmeldestatus mit Salesforce
-* Der Abmeldestatus wird nicht mit Verkaufsaktionen auf Marketo Engage synchronisiert. Sales Insight-Aktionen können jedoch so konfiguriert werden, dass der Marketo-Abmeldestatus von Personen geprüft wird, bevor Verkäufern erlaubt wird, eine E-Mail mit der [Marketo-Abmeldeprüfung](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md) zu senden.
+* Personendatensätze werden mit [!DNL Sales Insight Actions] aus Marketo Engage synchronisiert, sodass Marketo Engage die Datenquelle für [!DNL Sales Insight Actions] Personendaten ist
+* Sowohl Marketo Engage als auch [!DNL Sales Insight Actions] [verfügen über einen Mechanismus](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md) zum Erfassen und Synchronisieren des Abmeldestatus mit [!DNL Salesforce]
+* Der Abmeldestatus wird nicht mit Verkaufsaktionen für Marketo Engage synchronisiert. [!DNL Sales Insight Actions] kann jedoch so konfiguriert werden, dass der Marketo-Abmeldestatus von Personen geprüft wird, bevor Verkäufern erlaubt wird, eine E-Mail mit der [Marketo-Abmeldeprüfung zu ](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md).
 
 Im Folgenden finden Sie einige häufig gestellte Fragen zur Funktionsweise der Datenvereinheitlichungssynchronisierung.
 
-## Welche Leads/Kontakte werden mit Sales Insight-Aktionen synchronisiert? {#what-lead-contacts-are-synced}
+## Welche Leads/Kontakte werden mit [!DNL Sales Insight Actions] synchronisiert? {#what-lead-contacts-are-synced}
 
 ![](assets/actions-data-sync-faq-2.png)
 
 Leads und Kontakte, denen ein Vertriebsverantwortlicher zugewiesen ist, werden mit Verkaufsaktionen synchronisiert.
 
-Sie können sehen, ob ein Lead/Kontakt über einen Vertriebsinhaber in Salesforce verfügt, indem Sie das Feld „Standardinhaber“ überprüfen.
+Sie können sehen, ob ein Lead/Kontakt einen Vertriebsmitarbeiter in [!DNL Salesforce] hat, indem Sie das Feld „Standardbesitzer“ überprüfen, das vorhanden ist.
 
-Der Verkaufsinhaber muss nicht der Marketo-Synchronisierungsbenutzer oder ein bestimmter Salesforce- oder Verkaufsbenutzer sein. Wir benötigen lediglich eine Benutzerin bzw. einen Benutzer, die bzw. der im Feld Lead-Inhaber bzw. Kontaktinhaber in Salesforce aufgeführt ist. Auf diese Weise können wir die Person als Vertriebs-Lead identifizieren und mit Sales Insight-Aktionen synchronisieren. Alle Aktualisierungen der Felder, mit denen wir synchronisieren, werden auch in Sales Insight-Aktionen erkannt und aktualisiert.
+Der Verkaufsinhaber muss nicht der Marketo-Synchronisierungsbenutzer oder ein bestimmter [!DNL Salesforce] oder Verkaufsbenutzer sein. Wir benötigen lediglich einen Benutzer, der im Feld Lead-Inhaber und Kontaktinhaber in [!DNL Salesforce] aufgeführt ist, damit wir ihn als Vertriebs-Lead identifizieren und mit [!DNL Sales Insight Actions] synchronisieren können. Alle Aktualisierungen der Felder, mit denen wir synchronisieren, werden ebenfalls in [!DNL Sales Insight Actions] erkannt und aktualisiert.
 
-## Woher werden die Aktivitätsdaten, die im Smart Grid für Sales Insight angezeigt werden, bezogen? {#where-does-the-activity-data-get-sourced-from}
+## Woher werden die Aktivitätsdaten, die im Smart Grid von Sales Insight angezeigt werden, bezogen? {#where-does-the-activity-data-get-sourced-from}
 
 ![](assets/actions-data-sync-faq-3.png)
 
-Die Aktivitätsdaten wie E-Mail, Anruf, Interessante Momente und Web stammen alle aus der Marketo Engage-Datenbank. Das Smart Grid für Vertriebserkenntnisse stellt eine Anfrage an die Marketo Engage-Instanz, um diese jedes Mal abzurufen, wenn ein Verkaufsbenutzer das Bedienfeld „Vertriebserkenntnisse“ lädt.
+Die Aktivitätsdaten wie E-Mail, Anruf, Interessante Momente und Web stammen alle aus der Marketo Engage-Datenbank. Das Smart Grid von Sales Insight stellt eine Anfrage an die Marketo Engage-Instanz, um diese jedes Mal abzurufen, wenn ein Vertriebsbenutzer das Bedienfeld Sales Insight lädt.
 
 ![](assets/actions-data-sync-faq-4.png)
 
-Um sicherzustellen, dass alle Aktivitätsdaten von Marketo Engage bezogen werden können, synchronisieren Sales Insight-Aktionen alle Aktivitätsdaten mit Marketo Engage.
+Um sicherzustellen, dass alle Aktivitätsdaten aus Marketo Engage bezogen werden können, synchronisiert [!DNL Sales Insight Actions] alle Aktivitätsdaten mit Marketo Engage.
 
-## Welche Felder, die sich auf Personendatensätze beziehen, werden von Marketo Engage mit Verkaufserkenntnisaktionen synchronisiert? {#what-fields-sync}
+## Welche Felder, die sich auf Personendatensätze beziehen, werden von Marketo Engage mit [!DNL Sales Insight Actions] synchronisiert? {#what-fields-sync}
 
-Es gibt 11 Felder, die von Marketo Engage mit Sales Insight-Aktionen synchronisiert werden:
+Es gibt 11 Felder, die von Marketo Engage mit [!DNL Sales Insight Actions] synchronisiert werden:
 
 * Vorname
 * Last name
-* Salesforce Kontakt-ID
-* Salesforce Lead-ID
-* Salesforce-Konto-ID
-* Salesforce Opportunity-ID
+* [!DNL Salesforce] Kontakt-ID
+* Lead-ID [!DNL Salesforce]
+* [!DNL Salesforce] Konto-ID
+* Opportunity-ID [!DNL Salesforce]
 * Marketo-ID
 * Unternehmen
 * Titel
 * E-Mail
 * Telefonnummer
-* LinkedIn-URL
+* [!DNL Linkedin] URL
 * Quelle
 
-## Sind die Felder, die zwischen Marketo Engage- und Sales Insight-Aktionen synchronisieren, konfigurierbar? {#are-the-fields-that-sync-configurable}
+## Sind die Felder, die zwischen Marketo Engage und [!DNL Sales Insight Actions] synchronisiert werden, konfigurierbar? {#are-the-fields-that-sync-configurable}
 
-Es ist nicht verfügbar, zu konfigurieren, welche Marketo Engage-Felder mit Sales Insight-Aktionen synchronisiert werden, und es ist auch nicht möglich, Felder zuzuordnen. Die Synchronisierung von Marketo ordnet standardmäßige Marketo-Felder automatisch Standardfeldern in Ihrer Sales Action-Instanz zu.
+Es ist nicht möglich, zu konfigurieren, welche Marketo Engage-Felder mit [!DNL Sales Insight Actions] synchronisiert werden sollen, und auch nicht, Felder zuzuordnen. Die Synchronisierung von Marketo ordnet standardmäßige Marketo-Felder automatisch Standardfeldern in Ihrer Sales Action-Instanz zu.
 
-## Warum verfügt Sales Insight Actions über eine eigene Datenbank? {#why-does-actions-have-its-own-database}
+## Warum hat [!DNL Sales Insight Actions] eine eigene Datenbank? {#why-does-actions-have-its-own-database}
 
-Sales Insight Actions verfügt über eine eigene Web-Anwendung mit einer dedizierten Personen- und Aktivitätsdatenbank, um einen optimierten Arbeitsbereich bereitzustellen, der für Vertriebsteams erstellt und konzipiert ist. So haben Vertriebsleiter und Verkäufer einen Raum, um ihre Interaktionsstrategie zu entwickeln und zu verwalten   ohne Zugriff oder Berechtigungen auf den primären Marketo Engage-Arbeitsbereich zu gewähren, der für Experten für Marketing-Vorgänge optimiert ist.
+[!DNL Sales Insight Actions] verfügt über eine eigene Web-Anwendung mit einer dedizierten Personen- und Aktivitätsdatenbank, um einen optimierten Arbeitsbereich bereitzustellen, der für Vertriebsteams erstellt und entwickelt wurde. So haben Vertriebsleiter und Verkäufer einen Raum, um ihre Interaktionsstrategie zu entwickeln und zu verwalten   ohne Zugriff oder Berechtigungen auf den primären Marketo Engage-Arbeitsbereich zu gewähren, der für Experten für Marketing-Vorgänge optimiert ist.
 
 ## Wie werden Duplikate behandelt? {#how-are-duplicates-handled}
 
@@ -80,13 +80,13 @@ Ihre Sales Actions-Datenbank ist eine Kopie der qualifizierten Personen (Leads/K
 
 ## Wie lange dauert es, bis die erste Synchronisierung abgeschlossen ist? {#how-long-initial-sync}
 
-Der anfängliche Prozess zum Synchronisieren aller Ihrer Vertriebs-Lead-Daten mit einer neuen Instanz für Sales Insight-Aktionen verarbeitet Personen in der Regel alle 1 bis 2 Minuten mit etwa 1.000. Dies ist nur eine Schätzung und kann variieren.
+Der anfängliche Prozess zum Synchronisieren aller Ihrer Vertriebs-Lead-Daten mit einer neuen [!DNL Sales Insight Actions]-Instanz verarbeitet in der Regel Personen mit etwa 1.000 Kontakten alle 1-2 Minuten. Dies ist nur eine Schätzung und kann variieren.
 
-Sobald die Erstsynchronisierung stattfindet und alle Ihre Vertriebs-Leads in Ihre Web-App-Instanz für Sales Insight-Aktionen eingefügt wurden, erfolgt eine inkrementelle Synchronisierung, die jedes Mal ausgeführt wird, wenn eines der unterstützten Felder aktualisiert wird, die synchronisiert werden.
+Sobald die Erstsynchronisierung stattfindet und alle Ihre Vertriebs-Leads in Ihre [!DNL Sales Insight Actions]-Web-App-Instanz eingefügt wurden, wird eine inkrementelle Synchronisierung durchgeführt, die jedes Mal ausgeführt wird, wenn eines der unterstützten Felder aktualisiert wird, die synchronisiert werden.
 
-## Können Benutzer von Sales Insight-Aktionen Personendaten über die Web-App von Aktionen bearbeiten? {#can-actions-users-edit-people-data}
+## Können [!DNL Sales Insight Actions] Benutzer Personendaten über die Web-App „Aktionen“ bearbeiten? {#can-actions-users-edit-people-data}
 
-Nein, die Möglichkeit, Personendatensätze in Aktionen zu erstellen und zu bearbeiten, ist sowohl für Benutzer als auch für Administratoren der Aktionswebanwendung nicht verfügbar. Das Erstellen und Bearbeiten von Personen muss entweder in Salesforce oder auf Marketo Engage erfolgen. Sales Insight Actions verwendet Marketo als Datenquelle für Personendaten, indem kontinuierlich neue Daten synchronisiert werden. Wenn also eine Person in Marketo entweder über einen Workflow in Marketo aktualisiert oder von Salesforce synchronisiert wird, werden diese Aktualisierungen an die Sales Insight Actions Web-App-Datenbank übergeben.
+Nein, die Möglichkeit, Personendatensätze in Aktionen zu erstellen und zu bearbeiten, ist sowohl für Benutzer als auch für Administratoren der Aktionswebanwendung nicht verfügbar. Das Erstellen und Bearbeiten von Personen muss in [!DNL Salesforce] oder Marketo Engage erfolgen. [!DNL Sales Insight Actions] verwendet Marketo als Datenquelle für Personendaten, indem kontinuierlich neue Daten synchronisiert werden. Wenn also eine Person in Marketo entweder über einen Workflow in Marketo aktualisiert oder aus [!DNL Salesforce] synchronisiert wird, werden diese Aktualisierungen an die [!DNL Sales Insight Actions] Web-App-Datenbank übergeben.
 
 ## Loggen sich Vertriebsaktivitäten in Marketo ein? {#do-sales-activities-log-to-marketo}
 
@@ -105,21 +105,21 @@ Nachfolgend finden Sie eine Liste der Aktivitäten, die sich bei Marketo anmelde
 * Zur Verkaufskampagne hinzufügen
 * Aus Verkaufskampagne entfernt
 
-## Loggen sich Vertriebsaktivitäten in Salesforce ein? {#do-sales-activities-log-to-salesforce}
+## Protokollieren sich Vertriebsaktivitäten bei [!DNL Salesforce]? {#do-sales-activities-log-to-salesforce}
 
-Ja, die Vertriebsaktivitäten werden in Salesforce als native Aufgaben protokolliert. Diese Aufgaben können dann in Salesforce-Berichten verwendet werden, um Team-Dashboards zur Verfolgung von Vertriebsaktivitäten zu betreiben.
+Ja, Vertriebsaktivitäten werden in [!DNL Salesforce] als native Aufgaben protokolliert. Diese Aufgaben können dann in [!DNL Salesforce] Berichten verwendet werden, um Team-Dashboards zur Verfolgung von Vertriebsaktivitäten zu betreiben.
 
-Mit „Sales Insight-Aktionen“ können Administratoren konfigurieren, welche Verkaufsaktivitäten in Salesforce protokolliert werden. Zu diesen Aktivitäten gehören E-Mails, Aufrufe und offene Erinnerungsaufgaben.
+[!DNL Sales Insight Actions] können Administratoren konfigurieren, welche Vertriebsaktivitäten in [!DNL Salesforce] protokolliert werden. Zu diesen Aktivitäten gehören E-Mails, Aufrufe und offene Erinnerungsaufgaben.
 
 ![](assets/actions-data-sync-faq-6.png)
 
-Das obige Diagramm zeigt, welche Informationen in Salesforce protokolliert werden. Aktivitäten wie E-Mails und Anrufe werden in Salesforce in einer [ (unidirektionalen Synchronisation) ](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md). [Abmeldungen](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md) und [Erinnerungsaufgaben](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md) werden mit einer bidirektionalen Synchronisation auf dem neuesten Stand gehalten. Jede dieser Datensynchronisationen kann über die Web-App-Oberfläche der Sales Insight-Aktionen konfiguriert werden.
+Das obige Diagramm zeigt, welche Informationen in [!DNL Salesforce] protokolliert werden. Aktivitäten wie E-Mails und Anrufe werden in [!DNL Salesforce] in einer [ Synchronisierung ](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md). [Abmeldungen](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md) und [Erinnerungsaufgaben](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md) werden mit einer bidirektionalen Synchronisation auf dem neuesten Stand gehalten. Jede dieser Datensynchronisationen kann über [!DNL Sales Insight Actions] Web-App-Oberfläche konfiguriert werden.
 
 >[!MORELIKETHIS]
 >
->* [Abmeldungen mit Salesforce synchronisieren](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
+>* [Abmeldungen werden synchronisiert mit [!DNL Salesforce]](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
 >* [Marketo-Abmeldeprüfung](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
->* [Synchronisierungseinstellungen für Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
->* [Erinnerungsaufgabe - Synchronisieren mit Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
+>* [[!DNL Salesforce] Einstellungen synchronisieren](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
+>* [Erinnerungsaufgabe - Synchronisieren mit [!DNL Salesforce]](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
 >* [Initiieren der Datensynchronisation](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md#initiate-data-sync)
 

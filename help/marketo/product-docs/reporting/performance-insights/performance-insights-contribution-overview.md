@@ -4,26 +4,26 @@ description: Performance Insights-Beitragsübersicht - Marketo-Dokumente - Produ
 title: Performance Insights-Beitrag - Übersicht
 exl-id: 52d97100-b811-4f43-9833-b18ae098a0f3
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '378'
 ht-degree: 0%
 
 ---
 
-# Performance Insights-Beitrag - Übersicht {#performance-insights-contribution-overview}
+# [!UICONTROL Performance Insights] Beitragsübersicht {#performance-insights-contribution-overview}
 
-In Marketo Performance Insights wird standardmäßig die Beitragsansicht angezeigt.
+In Marketo [!UICONTROL Performance Insights] wird standardmäßig die Beitragsansicht angezeigt.
 
 ![](assets/one-1.png)
 
-Wählen Sie die Metrik aus, nach der Sie die Leistung anzeigen möchten. In diesem Beispiel werden wir uns die über Multi-Touch im Umsatz-Dashboard gewonnenen Vertriebschancen ansehen.
+Wählen Sie die Metrik aus, nach der Sie die Leistung anzeigen möchten. In diesem Beispiel werden die über „Multi-Touch **[!UICONTROL im Dashboard]** Umsatz _[!UICONTROL gewonnenen]_ behandelt.
 
 ![](assets/2.png)
 
 >[!NOTE]
 >
->Erfahren Sie mehr über [Erstkontakt und Multi-Touch](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+>Erfahren Sie mehr über [[!UICONTROL Erstkontakt] und [!UICONTROL Mehrfachkontakt]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 Wählen Sie aus, für welchen Zeitraum Sie Metriken anzeigen möchten. In diesem Beispiel sehen wir das aktuelle Jahr (vom aktuellen Datum bis zum aktuellen Datum).
 
@@ -31,7 +31,7 @@ Wählen Sie aus, für welchen Zeitraum Sie Metriken anzeigen möchten. In diesem
 
 >[!NOTE]
 >
->Wir haben die Auswahl „Vorjahr“ vorübergehend entfernt. Sie haben weiterhin die Möglichkeit, die gesamten Leistungsdaten des Vorjahres mithilfe der Auswahl „Benutzerdefinierter Bereich“ anzuzeigen.
+>Wir haben die Auswahl „Vorjahr“ vorübergehend entfernt. Sie haben weiterhin die Möglichkeit, die gesamten Leistungsdaten des Vorjahres mithilfe der Auswahl **[!UICONTROL Benutzerdefinierter Bereich“]**.
 
 Die Metriken werden in zwei Diagrammen angezeigt: Ringdiagramm und Balkendiagramm.
 
@@ -47,7 +47,7 @@ Das Balkendiagramm zeigt die Programmleistung für alle Kanäle (zehn Programme 
 
 >[!TIP]
 >
->Wenn Sie möchten, dass die Balken im Diagramm beim Scrollen durch die Gruppen nach oben skaliert werden, aktivieren Sie das Kontrollkästchen **Y-Achse anpassen**.
+>Wenn Sie möchten, dass die Balken im Diagramm beim Scrollen durch die Gruppen nach oben skaliert werden, aktivieren Sie das Kontrollkästchen **[!UICONTROL Y-Achse anpassen]**.
 
 Bewegen Sie den Mauszeiger über eine Leiste, um weitere Details anzuzeigen.
 
@@ -57,16 +57,16 @@ Wählen Sie einen oder mehrere Kanäle im Ringdiagramm aus, und alle mit diesen 
 
 ![](assets/eight.png)
 
-Das nachstehende Datenraster funktioniert wie eine Tabelle und zeigt alle verfügbaren Metriken unter dem ausgewählten Attributionsmodell (Erstkontakt/Mehrfachkontakt). Die Spalte mit der ausgewählten Metrik ist hervorgehoben.
+Das nachstehende Datenraster funktioniert wie eine Tabelle und zeigt alle verfügbaren Metriken unter dem ausgewählten Attributionsmodell ([!UICONTROL Erstkontakt]/[!UICONTROL Mehrfachkontakt]). Die Spalte mit der ausgewählten Metrik ist hervorgehoben.
 
 ![](assets/9.png)
 
-| **Opportunities gewonnen** | Der Anteil des Guthabens (in numerischem Wert), den das Programm zur Beeinflussung der gewonnenen Opportunity erhalten hat |
+| **[!UICONTROL Opportunities gewonnen]** | Der Anteil des Guthabens (in numerischem Wert), den das Programm zur Beeinflussung der gewonnenen Opportunity erhalten hat |
 |---|---|
-| **Umsatz gewonnen** | Der Teil des Kredits (in monetärer Höhe), den das Programm zur Beeinflussung der gewonnenen Opportunity erhalten hat |
-| **Kosten** | Gesamtkosten des Programms |
-| **Kosten pro gewonnener Opportunity** | Das Verhältnis zwischen den Programmkosten und dem Anteil des Kredits (in numerischem Wert), den das Programm erhalten hat, um die Schaffung neuer Möglichkeiten zu beeinflussen |
-| **Umsatz gewonnen zu Kostenverhältnis** | Das Verhältnis des Kreditanteils (in monetärer Höhe), den das Programm zur Beeinflussung der gewonnenen Chancen erhalten hat, und die Kosten des Programms |
+| **[!UICONTROL Umsatz gewonnen]** | Der Teil des Kredits (in monetärer Höhe), den das Programm zur Beeinflussung der gewonnenen Opportunity erhalten hat |
+| **[!UICONTROL Kosten]** | Gesamtkosten des Programms |
+| **[!UICONTROL Kosten pro gewonnener Opportunity]** | Das Verhältnis zwischen den Programmkosten und dem Anteil des Kredits (in numerischem Wert), den das Programm erhalten hat, um die Schaffung neuer Möglichkeiten zu beeinflussen |
+| **[!UICONTROL Umsatz gewonnen zu Kostenverhältnis]** | Das Verhältnis des Kreditanteils (in monetärer Höhe), den das Programm zur Beeinflussung der gewonnenen Chancen erhalten hat, und die Kosten des Programms |
 
 Erweitern Sie einen Kanal, um die zehn wichtigsten Programme anzuzeigen, wobei die verbleibenden Programme kombiniert werden.
 

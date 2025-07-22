@@ -4,7 +4,7 @@ description: Referenzieren einer Liste oder Smart-Liste in Arbeitsbereichen - Ma
 title: Verweisen auf eine Liste oder Smart-Liste in allen Arbeitsbereichen
 exl-id: c390685c-e51d-4298-ba3b-8e4dd27eb85c
 feature: Smart Lists
-source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Listen und Smart-Listen können über Arbeitsbereiche hinweg freigegeben und ref
 
    ![](assets/reference-a-list-or-smart-list-across-workspaces-1.png)
 
-1. Rechtsklicken Sie auf einen Kampagnenordner. Wählen Sie **Neuer Ordner** aus.
+1. Rechtsklicken Sie auf einen Kampagnenordner. Wählen Sie **[!UICONTROL Neuer Ordner]** aus.
 
    ![](assets/reference-a-list-or-smart-list-across-workspaces-2.png)
 

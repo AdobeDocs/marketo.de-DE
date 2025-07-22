@@ -4,9 +4,9 @@ description: Übersicht über die erweiterte Suche - Marketo-Dokumente - Produkt
 title: Erweiterte Suche - Übersicht
 exl-id: bb6e2c9f-b44a-43ba-94ae-ae30e182bcc8
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '405'
 ht-degree: 2%
 
 ---
@@ -17,11 +17,11 @@ Mithilfe der erweiterten Suche können Sie eine Liste Ihrer aktivsten potenziell
 
 ## Zugriff auf die erweiterte Suche {#how-to-access-advanced-search}
 
-1. Klicken Sie **Command Center**.
+1. Klicken Sie **[!UICONTROL Command Center]**.
 
    ![](assets/one.png)
 
-1. Klicken Sie auf **E-Mails**.
+1. Klicken Sie auf **[!UICONTROL E-Mails]**.
 
    ![](assets/two.png)
 
@@ -29,7 +29,7 @@ Mithilfe der erweiterten Suche können Sie eine Liste Ihrer aktivsten potenziell
 
    ![](assets/three.png)
 
-1. Klicken Sie **Erweiterte Suche**.
+1. Klicken Sie **[!UICONTROL Erweiterte Suche]**.
 
    ![](assets/four.png)
 
@@ -37,25 +37,25 @@ Mithilfe der erweiterten Suche können Sie eine Liste Ihrer aktivsten potenziell
 
 **Datum**
 
-Wählen Sie den Datumsbereich für Ihre Suche. Vordefinierte Datumswerte werden je nach ausgewähltem E-Mail-Status aktualisiert (gesendet, nicht zugestellt, ausstehend).
+Wählen Sie den Datumsbereich für Ihre Suche. Vordefinierte Datumswerte werden je nach ausgewähltem E-Mail-Status aktualisiert [!UICONTROL Gesendet], [!UICONTROL Nicht zugestellt], [!UICONTROL Ausstehend]).
 
 ![](assets/date.png)
 
 **Wer**
 
-Filtern Sie im Abschnitt „Wer“ nach E-Mail-Empfänger/-Absender.
+Filtern Sie nach E-Mail-Empfänger/Absender im Abschnitt [!UICONTROL Wer].
 
 ![](assets/who.png)
 
 | Dropdown | Beschreibung |
 |---|---|
-| **Anzeigen als** | Filtern Sie nach einem bestimmten Absender in Ihrer Sales Connect-Instanz (diese Option steht nur Administratoren zur Verfügung). |
-| **Nach Gruppe** | E-Mails nach einer bestimmten Empfängergruppe filtern |
-| **nach Person** | Nach einem bestimmten Empfänger filtern. |
+| **[!UICONTROL Anzeigen als]** | Filtern Sie nach einem bestimmten Absender in Ihrer [!DNL Sales Connect] (diese Option steht nur Administratoren zur Verfügung). |
+| **[!UICONTROL Nach Gruppe]** | E-Mails nach einer bestimmten Empfängergruppe filtern |
+| **[!UICONTROL nach Person]** | Nach einem bestimmten Empfänger filtern. |
 
 **Wenn**
 
-Wählen Sie „Nach Erstellungsdatum“, „Zustellungsdatum“, „Fehlgeschlagen“ oder „Geplant“ aus. Die verfügbaren Optionen ändern sich je nach ausgewähltem E-Mail-Status (gesendet, nicht zugestellt, ausstehend).
+Wählen Sie „Nach Erstellungsdatum“, „Zustellungsdatum“, „Fehlgeschlagen“ oder „Geplant“ aus. Die verfügbaren Optionen ändern sich je nach ausgewähltem E-Mail-Status ([!UICONTROL Gesendet], [!UICONTROL Nicht ], [!UICONTROL Ausstehend]).
 
 ![](assets/when.png)
 
@@ -85,9 +85,9 @@ Filtert nach allen ausstehenden E-Mails.
 
 | Status | Beschreibung |
 |---|---|
-| **Geplant** | E-Mails, die über das Fenster „Erstellen“ (Salesforce oder die Web-App), E-Mail-Plug-ins oder eine Kampagne geplant wurden. |
-| **Entwürfe** | E-Mails, die sich derzeit im Entwurfsstatus befinden. E-Mails benötigen eine Betreffzeile und einen Empfänger, damit sie als Entwurf gespeichert werden können. |
-| **In Bearbeitung** | E-Mails, die gerade gesendet werden. E-Mails sollten in diesem Zustand nicht länger als einige Sekunden bleiben. |
+| **[!UICONTROL Geplant]** | E-Mails, die über das Fenster „Erstellen“ ([!DNL Salesforce] oder die Web-App), E-Mail-Plug-ins oder eine Kampagne geplant wurden. |
+| **[!UICONTROL Entwürfe]** | E-Mails, die sich derzeit im Entwurfsstatus befinden. E-Mails benötigen eine Betreffzeile und einen Empfänger, damit sie als Entwurf gespeichert werden können. |
+| **[!UICONTROL In Bearbeitung]** | E-Mails, die gerade gesendet werden. E-Mails sollten in diesem Zustand nicht länger als einige Sekunden bleiben. |
 
 ***Status: Nicht zugestellt***
 
@@ -97,19 +97,19 @@ Filtert nach E-Mails, die nie zugestellt wurden.
 
 | Status | Beschreibung |
 |---|---|
-| **Fehlgeschlagen** | Wenn eine E-Mail nicht von Sales Connect gesendet werden kann (häufige Gründe sind: E-Mails werden an abgemeldete/blockierte Kontakte gesendet oder es gab ein Problem beim Ausfüllen der dynamischen Felder). |
-| **Bounce** | Eine E-Mail wird als Bounce markiert, wenn sie vom Server des Empfängers abgelehnt wird. Hier werden nur E-Mails angezeigt, die über Sales Connect-Server gesendet wurden. |
-| **Spam** | Wann die E-Mail vom Empfänger als Spam markiert wurde (allgemeiner Begriff für unerwünschte E-Mails). Hier werden nur E-Mails angezeigt, die über Sales Connect-Server gesendet wurden. |
+| **[!UICONTROL Fehlgeschlagen]** | Wenn eine E-Mail nicht von [!DNL Sales Connect] gesendet werden kann (häufige Gründe sind: E-Mails werden an abgemeldete/blockierte Kontakte gesendet oder wenn ein Problem beim Ausfüllen der dynamischen Felder aufgetreten ist). |
+| **[!UICONTROL Bounce]** | Eine E-Mail wird als Bounce markiert, wenn sie vom Server des Empfängers abgelehnt wird. Hier werden nur E-Mails angezeigt, die über [!DNL Sales Connect]-Server gesendet wurden. |
+| **[!UICONTROL Spam]** | Wann die E-Mail vom Empfänger als Spam markiert wurde (allgemeiner Begriff für unerwünschte E-Mails). Hier werden nur E-Mails angezeigt, die über [!DNL Sales Connect]-Server gesendet wurden. |
 
 ## Gespeicherte Suchvorgänge {#saved-searches}
 
 So erstellen Sie eine gespeicherte Suche.
 
-1. Nachdem Sie alle Filter eingerichtet haben, klicken Sie auf **Filter speichern unter**.
+1. Nachdem Sie alle Filter eingerichtet haben, klicken Sie auf **[!UICONTROL Filter speichern unter]**.
 
    ![](assets/save-search-1.png)
 
-1. Geben Sie der Suche einen Namen und klicken Sie auf **Speichern**.
+1. Geben Sie der Suche einen Namen und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/save-search-2.png)
 

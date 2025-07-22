@@ -4,16 +4,16 @@ description: Wie Sales Connect mit der E-Mail-Deduplizierung umgeht - Marketo-Do
 title: Handhabung der E-Mail-Deduplizierung durch Sales Connect
 exl-id: 1f57d943-8439-4653-a4e7-6dac65b3312d
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
 
-# Handhabung der E-Mail-Deduplizierung durch Sales Connect {#how-sales-connect-handles-email-de-duping}
+# Wie [!DNL Sales Connect] mit der E-Mail-Deduplizierung umgeht {#how-sales-connect-handles-email-de-duping}
 
-Wenn Sie eine CSV[-Datei in Sales Connect hochladen](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md) führen wir alle ähnlichen Kontakte in der CSV zusammen, bevor der Import stattfindet.
+Wenn Sie eine CSV[-Datei in ](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md) hochladen[!DNL Sales Connect] führen wir alle ähnlichen Kontakte in der CSV zusammen, bevor der Import stattfindet.
 
 Wir tun dies basierend auf wie E-Mail-Adresse. Wenn es also zwei identische E-Mail-Adressen gibt, führen wir sie zu einem Kontakt zusammen.
 

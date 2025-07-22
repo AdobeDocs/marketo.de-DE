@@ -4,7 +4,7 @@ description: Hinzufügen von In-App-Nachrichtenbildern - Marketo-Dokumente - Pro
 title: Hinzufügen von In-App-Nachrichtenbildern
 exl-id: b4617338-04bc-4235-bff1-7ec89a9b2c6a
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '344'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Hier können Sie Ihre In-App-Nachrichtenbilder auswählen und anpassen.
 
-1. Wählen Sie die In-App-Nachricht aus und klicken Sie auf **Entwurf bearbeiten**.
+1. Wählen Sie die In-App-Nachricht aus und klicken Sie auf **[!UICONTROL Entwurf bearbeiten]**.
 
    ![](assets/image2016-5-4-10-3a20-3a14.png)
 
@@ -27,15 +27,15 @@ Hier können Sie Ihre In-App-Nachrichtenbilder auswählen und anpassen.
 
    ![](assets/image2016-5-4-10-3a21-3a33.png)
 
-1. Klicken Sie auf **Registerkarte** Stil“ und dann auf den Bildbereich der Vorlage.
+1. Klicken Sie auf **[!UICONTROL Registerkarte]** Stil“ und dann auf den Bildbereich der Vorlage.
 
    ![](assets/image2016-5-3-16-3a53-3a23.png)
 
-1. Klicken Sie **Bild auswählen**.
+1. Klicken Sie **[!UICONTROL Bild auswählen]**.
 
    ![](assets/image2016-5-6-8-3a53-3a55.png)
 
-1. Wählen Sie Ihr Bild im Design Studio aus und klicken Sie auf **Auswählen**.
+1. Wählen Sie Ihr Bild im Design Studio aus und klicken Sie auf **[!UICONTROL Auswählen]**.
 
    ![](assets/image2016-5-6-8-3a58-3a40.png)
 
@@ -47,15 +47,15 @@ Hier können Sie Ihre In-App-Nachrichtenbilder auswählen und anpassen.
 
    ![](assets/image2016-5-6-9-3a0-3a16.png)
 
-1. Klicken Sie auf **Entfernen**. Jetzt können Sie sich einen anderen aussuchen.
+1. Klicken Sie auf **[!UICONTROL Entfernen]**. Jetzt können Sie sich einen anderen aussuchen.
 
    ![](assets/image2016-5-6-9-3a1-3a3.png)
 
-1. Wählen Sie bei eingefügtem Bild in den Bildeigenschaften eine Schaltfläche aus, um das Bild nach Höhe, Breite oder beiden Werten anzupassen.
+1. Wählen Sie bei eingefügtem Bild in [!UICONTROL Bildeigenschaften] eine Schaltfläche aus, um das Bild nach Höhe, Breite oder beidem anzupassen.
 
    ![](assets/image2016-5-6-9-3a4-3a47.png)
 
-1. Wenden Sie optional einen Bildrahmen an. Die Standardeinstellung ist **Aus**. Wählen Sie zunächst eine Farbe aus, indem Sie darauf klicken oder die Hex- oder RGB-Nummern auf der Farbauswahl eingeben.
+1. Wenden Sie optional einen Bildrahmen an. Die Standardeinstellung ist **Aus**. Wählen Sie zunächst eine Farbe aus, indem Sie darauf klicken oder die Hex- oder RGB-Zahlen in der Farbauswahl eingeben.
 
    ![](assets/image2016-5-6-9-3a9-3a0.png)
 
@@ -85,7 +85,7 @@ Hier können Sie Ihre In-App-Nachrichtenbilder auswählen und anpassen.
 
    >[!NOTE]
    >
-   >Für Tipp-Aktionen für Bilder, Schaltflächen oder Hintergründe können Sie verschiedene Aktionen für Apple- und Android-Plattformen einrichten. Deep-Links werden beispielsweise für Apple und Android unterschiedlich gehandhabt. Wenn Ihre Nachricht nur zu einer bestimmten Plattform gesendet wird, lassen Sie die andere in der Standardeinstellung oder wählen Sie **Keine** aus.
+   >Für Tipp-Aktionen für Bilder, Schaltflächen oder Hintergründe können Sie verschiedene Aktionen für Apple- und Android-Plattformen einrichten. Deep-Links werden beispielsweise für Apple und Android unterschiedlich gehandhabt. Wenn Ihre Nachricht nur zu einer bestimmten Plattform gesendet wird, lassen Sie die andere in der Standardeinstellung oder wählen Sie **[!UICONTROL Keine]** aus.
 
 Tolle Arbeit! Jetzt ist es an der Zeit, [den Text für Ihre In-App-Nachricht zu erstellen](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-in-app-message-text.md).
 

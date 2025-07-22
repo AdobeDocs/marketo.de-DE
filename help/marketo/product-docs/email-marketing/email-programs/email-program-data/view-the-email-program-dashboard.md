@@ -4,7 +4,7 @@ description: Anzeigen des E-Mail-Programm-Dashboards - Marketo-Dokumente - Produ
 title: Anzeigen des E-Mail-Programm-Dashboards
 exl-id: dd05d7f6-8979-4ef1-a7d2-adaf086dd903
 feature: Email Programs
-source-git-commit: b2ceefb068005d916027fb71be0dc4e25849ae23
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '225'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Sehen Sie sich an, wie Ihr E-Mail-Programm (mit oder ohne A/B-Test) mit diesem D
 
 ## E-Mail-Programm auswählen {#select-your-email-program}
 
-1. Navigieren Sie **Marketing-Aktivitäten**.
+1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities.png)
 

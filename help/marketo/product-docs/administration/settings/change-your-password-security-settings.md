@@ -4,9 +4,9 @@ description: Ändern der Kennwortsicherheitseinstellungen - Marketo-Dokumente - 
 title: Ändern der Kennwortsicherheitseinstellungen
 exl-id: cda7ec70-32aa-4e0a-86b2-eb9bea70ef72
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Steuern Sie die Passwortrichtlinie Ihres Abonnements. So geht&#39;s.
 
    >[!NOTE]
    >
-   >Eine Vorlage ist nur eine vordefinierte Konfiguration. Standard ist gut. Hohe Sicherheit ist die stärkste. Mit „Benutzerdefiniert“ können Sie eigene erstellen.
+   >Eine Vorlage ist nur eine vordefinierte Konfiguration. **[!UICONTROL Standardsicherheit]** ist gut. **[!UICONTROL Hohe Sicherheit]** ist die stärkste. **[!UICONTROL Benutzerdefiniert]** können Sie eigene erstellen.
 
    >[!TIP]
    >

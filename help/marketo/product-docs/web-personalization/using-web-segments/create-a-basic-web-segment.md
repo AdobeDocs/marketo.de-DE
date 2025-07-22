@@ -4,7 +4,7 @@ description: Erstellen eines einfachen Web-Segments - Marketo-Dokumente - Produk
 title: Erstellen eines einfachen Websegments
 exl-id: 99bc3788-e04c-46a3-86e5-76d398f8a6e6
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 3%
@@ -15,11 +15,11 @@ ht-degree: 3%
 
 Erstellen wir ein Basissegment für alle Web-Besucher aus den USA und der Finanzdienstleistungsbranche.
 
-1. Navigieren Sie zu **Segmente**.
+1. Navigieren Sie zu **[!UICONTROL Segmente]**.
 
    ![](assets/image2016-8-18-15-3a37-3a32.png)
 
-1. Klicken Sie auf **Neu erstellen**.
+1. Klicken Sie auf **[!UICONTROL Neu erstellen]**.
 
    ![](assets/image2014-11-19-19-3a33-3a47.png)
 
@@ -27,7 +27,7 @@ Erstellen wir ein Basissegment für alle Web-Besucher aus den USA und der Finanz
 
    ![](assets/segment-name.png)
 
-1. Ziehen Sie **Standort** aus dem Menü rechts und legen Sie es im Segmenteditor ab.
+1. Ziehen Sie **[!UICONTROL Standort]** aus dem Menü rechts und legen Sie es im Segmenteditor ab.
 
    ![](assets/location-drag-hand.jpg)
 
@@ -39,17 +39,17 @@ Erstellen wir ein Basissegment für alle Web-Besucher aus den USA und der Finanz
    >
    >Die Anzahl der Städte ist auf 300 pro Segment begrenzt.
 
-1. Ziehen Sie **Branchen** aus dem Menü rechts und legen Sie es im Segmenteditor ab.
+1. Ziehen Sie **[!UICONTROL Branchen]** aus dem Menü rechts und legen Sie es im Segmenteditor ab.
 
    ![](assets/industries-hand.jpg)
 
-1. Wählen Sie Branchen aus der Dropdown-Liste aus, die hinzugefügt werden sollen. Wählen Sie die **Finanzdienstleistungsbranche**.
+1. Wählen [!UICONTROL Branchen] aus der Dropdown-Liste aus, die hinzugefügt werden sollen. Wählen Sie die Branche **[!UICONTROL Finanzdienstleistungen] aus**.
 
    ![](assets/segment-industries.png)
 
    Sie haben jetzt ein Basissegment für alle Interessenten eingerichtet, die Ihre Website aus den USA und der Finanzbranche besuchen.
 
-1. Klicken Sie auf **Speichern**, um das Segment zu speichern, oder **Speichern und Kampagne definieren**, um zur Seite Kampagnen zu gelangen.
+1. Klicken Sie auf **[!UICONTROL Speichern]**, um das Segment zu speichern, oder **[!UICONTROL Speichern und Kampagne definieren]**, um zur Seite Kampagnen zu gelangen.
 
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 

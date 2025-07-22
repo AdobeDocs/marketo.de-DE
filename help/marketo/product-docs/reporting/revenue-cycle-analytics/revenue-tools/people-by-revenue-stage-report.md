@@ -4,7 +4,7 @@ description: Personen nach Umsatz - Stadienbericht - Marketo-Dokumente - Produkt
 title: Personen nach Umsatz - Stadienbericht
 exl-id: 1f3d605d-fa0d-4ec8-b7d6-bfd8dac93609
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -19,22 +19,22 @@ Sie können einen Bericht erstellen, der anzeigt, in welchem Stadium Ihres Umsat
 >
 >Nicht alle Marketo-Editionen enthalten diese Funktion. Weitere Informationen erhalten Sie von Ihrem Account Manager.
 
-1. Navigieren Sie zu **Analytics**.
+1. Navigieren Sie zu **[!UICONTROL Analytics]**.
 
    ![](assets/image2017-3-27-15-3a43-3a55.png)
 
-1. Klicken Sie auf den Bericht für **Personen nach Umsatzstufe**.
+1. Klicken Sie auf den Bericht für **[!UICONTROL Personen nach Umsatzstufe]**.
 
    ![](assets/image2017-3-27-15-3a46-3a27.png)
 
-1. Klicken Sie auf **Registerkarte** Setup“. Doppelklicken Sie auf das Feld **Person erstellt am**, um den gewünschten Zeitrahmen für die Berichterstellung festzulegen.
+1. Klicken Sie auf **[!UICONTROL Registerkarte]** Setup“. Doppelklicken Sie auf das Feld **[!UICONTROL Person erstellt am]**, um den gewünschten Zeitrahmen für die Berichterstellung festzulegen.
 
    ![](assets/image2017-3-28-8-3a6-3a23.png)
 
-1. Bearbeiten Sie den Zeitrahmen und klicken Sie auf **Speichern**.
+1. Bearbeiten Sie den Zeitrahmen und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/image2015-4-29-12-3a11-3a31.png)
 
-1. Klicken Sie auf **Registerkarte** Bericht“. Jetzt können Sie sehen, in welchem Stadium Ihres Umsatzmodells sich Ihre Mitarbeiter befinden, und sich auf Engpässe konzentrieren.
+1. Klicken Sie auf **[!UICONTROL Registerkarte]** Bericht“. Jetzt können Sie sehen, in welchem Stadium Ihres Umsatzmodells sich Ihre Mitarbeiter befinden, und sich auf Engpässe konzentrieren.
 
    ![](assets/image2017-3-28-8-3a6-3a48.png)

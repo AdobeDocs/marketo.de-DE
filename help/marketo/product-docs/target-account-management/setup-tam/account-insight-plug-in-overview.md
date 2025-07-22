@@ -1,33 +1,33 @@
 ---
 unique-page-id: 12979282
-description: Account Insight-Plug-in - Übersicht - Marketo-Dokumente - Produktdokumentation
-title: Account Insight-Plug-in - Übersicht
+description: Übersicht über das [!DNL Account Insight]-Plug-in - Marketo-Dokumente - Produktdokumentation
+title: '[!DNL Account Insight]-Plug-in - Übersicht'
 exl-id: 0306f82d-43c8-44eb-943f-f7f01279b844
 feature: Target Account Management
-source-git-commit: e5fe19bd17e3da7991b09dfa17beb05d4efd58f6
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '318'
-ht-degree: 0%
+source-wordcount: '303'
+ht-degree: 1%
 
 ---
 
-# Account Insight-Plug-in - Übersicht {#account-insight-plug-in-overview}
+# [!DNL Account Insight]-Plug-in - Übersicht {#account-insight-plug-in-overview}
 
-Account Insight ist ein Plug-in für Chrome, das Ihren Vertriebsteams umsetzbare TAM- und Account-Insights zur Verfügung stellt, sodass sie effektiver mit Accounts interagieren können.
+[!DNL Account Insight] ist ein [!DNL Chrome]-Plug-in, das Ihren Vertriebsteams umsetzbare TAM- und Account-Insights zur Verfügung stellt, sodass sie effektiver mit Accounts interagieren können.
 
 >[!AVAILABILITY]
 >
->* Account Insight ist für alle Kunden enthalten, die sowohl über TAM als auch über Marketo Sales Insight verfügen. Für Kunden, die nur über TAM verfügen, ist Account Insight als erworbenes Add-on verfügbar. Jeder Kunde hat maximal 250 Lizenzen für Account Insight. Weitere Informationen erhalten Sie von Ihrem Vertriebsmitarbeiter. Sie ist nicht für Kunden verfügbar, die kein TAM haben.
+>* Account Insight ist für alle Kunden enthalten, die sowohl TAM als auch Marketo Sales Insight haben. Für Kunden, die nur über TAM verfügen, ist Account Insight als erworbenes Add-on verfügbar. Jeder Kunde hat maximal 250 Lizenzen für Account Insight. Weitere Informationen erhalten Sie von Ihrem Vertriebsmitarbeiter. Sie ist nicht für Kunden verfügbar, die kein TAM haben.
 >
->* Dieses Plug-in ist derzeit nicht mit der [Adobe-Identitätsauthentifizierung ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}.
+>* Dieses Plug-in ist derzeit nicht mit der [Adobe Identity-](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} kompatibel.
 
 >[!CAUTION]
 >
->Das Account Insight-Plug-in funktioniert nicht bei Abonnements, bei denen [SSO-only](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md) (Single Sign-on) aktiviert ist.
+>Das [!DNL Account Insight]-Plug-in funktioniert nicht bei Abonnements, bei denen [SSO-only](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md) (Single Sign-on) aktiviert ist.
 
 >[!CAUTION]
 >
->Der CRM-Kontext funktioniert für Salesforce, wenn das Plug-in über ein Konto, einen Lead oder einen Kontakt gestartet wird. Der CRM-Kontext funktioniert nicht für Dynamics, wenn das Plug-in über ein Konto, einen Lead oder einen Kontakt gestartet wird. Für Dynamics-Benutzer wird empfohlen, das Account Insight-Plug-in zu verwenden.
+>Der CRM-Kontext funktioniert für Salesforce, wenn das Plug-in über ein Konto, einen Lead oder einen Kontakt gestartet wird. Der CRM-Kontext funktioniert nicht für Dynamics, wenn das Plug-in über ein Konto, einen Lead oder einen Kontakt gestartet wird. Für Dynamics-Benutzer wird die Verwendung des Plug-ins [!DNL Account Insight] empfohlen.
 
 ## Benannte Konten {#named-accounts}
 
@@ -59,7 +59,7 @@ Klicken Sie auf den Namen einer Person…
 
 ![](assets/na8.png)
 
-Sie können die Ansicht auch von Interaktion zu Pipeline wechseln.
+Sie können die Ansicht auch von **[!UICONTROL Interaktion]** zu **[!UICONTROL Pipeline]** wechseln.
 
 ![](assets/na9.png)
 
@@ -67,17 +67,17 @@ Um das benannte Konto zu verlassen, klicken Sie auf das X oben rechts.
 
 ![](assets/na10.png)
 
-## Aktivitätsfeed {#activity-feed}
+## [!UICONTROL Aktivitäts-Feed] {#activity-feed}
 
 Der Aktivitäts-Feed zeigt die letzten Aktivitäten an, die sieben Tage zurückgehen.
 
 ![](assets/af1.png)
 
-Klicken Sie auf **Filter**, um nach verschiedenen Aktivitätstypen zu filtern.
+Klicken Sie auf **[!UICONTROL Filter]**, um nach verschiedenen Aktivitätstypen zu filtern.
 
 ![](assets/af2.png)
 
-Mehrere Elemente sind anklickbar. Klicken Sie auf das benannte Konto, um dessen Details anzuzeigen. Klicken Sie auf den Namen der Benutzerin bzw. des Benutzers, um deren Aktivität anzuzeigen. Klicken Sie auf Mehr Aktivitäten , um mehr Aktivitäten anzuzeigen.
+Mehrere Elemente sind anklickbar. Klicken Sie auf das benannte Konto, um dessen Details anzuzeigen. Klicken Sie auf den Namen der Benutzerin bzw. des Benutzers, um deren Aktivität anzuzeigen. Klicken Sie auf **[!UICONTROL Weitere Aktivitäten]**, um weitere Aktivitäten anzuzeigen.
 
 ![](assets/af3.png)
 
@@ -85,4 +85,4 @@ Ziemlich cooles Zeug!
 
 >[!MORELIKETHIS]
 >
->[Einrichten von Account Insight](/help/marketo/product-docs/target-account-management/setup-tam/set-up-account-insight.md)
+>[Einrichten [!DNL Account Insight]](/help/marketo/product-docs/target-account-management/setup-tam/set-up-account-insight.md)

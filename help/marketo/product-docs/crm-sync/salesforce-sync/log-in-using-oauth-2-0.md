@@ -3,9 +3,9 @@ description: Anmelden mit OAuth 2.0 - Marketo-Dokumente - Produktdokumentation
 title: Anmelden mit OAuth 2.0
 exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
 feature: Salesforce Integration
-source-git-commit: 4045f262889d06304111288d30da893529396e81
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '530'
+source-wordcount: '527'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Salesforce verwendet das OAuth-Protokoll, um Benutzenden von Programmen einen si
 
 >[!IMPORTANT]
 >
->Um Marketo und Salesforce über OAuth zu verbinden, melden Sie sich über einen privaten Browser (Inkognito) bei Marketo an, um zu vermeiden, dass Sie mit einem falschen Benutzernamen eine Verbindung zu Salesforce herstellen.
+>Um Marketo und [!DNL Salesforce] über OAuth zu verbinden, melden Sie sich über einen privaten Browser (Inkognito) bei Marketo an, um eine Verbindung mit [!DNL Salesforce] mit dem falschen Benutzernamen zu vermeiden.
 
 ## Einrichten der verbundenen App {#set-up-connected-app}
 
@@ -36,11 +36,11 @@ Salesforce verwendet das OAuth-Protokoll, um Benutzenden von Programmen einen si
 
    ![](assets/setting-up-oauth-2-4.png)
 
-1. Klicken Sie auf **[!UICONTROL Weiter]**.
+1. Klicken Sie auf **[!UICONTROL Fortfahren]**.
 
    ![](assets/setting-up-oauth-2-5.png)
 
-1. Kopieren Sie den Consumer Key und das Consumer Secret (Sie benötigen sie später zum Marketo Engage).
+1. Kopieren Sie den Consumer Key und das Consumer Secret (Sie benötigen sie später zur Verwendung in Marketo Engage).
 
    ![](assets/setting-up-oauth-2-6.png)
 
@@ -56,7 +56,7 @@ Salesforce verwendet das OAuth-Protokoll, um Benutzenden von Programmen einen si
 >* Marketo Sync-Benutzer muss in Salesforce erstellt werden.
 >* Für Bestandskunden ist die Funktion „OAuth für SFDC-Synchronisierung aktivieren“ im Abonnement des Kunden aktiviert.
 >* Popup-Blocker sind deaktiviert.
->* Die verbundene App wird erstellt und wir haben den Consumer Key und das Consumer Secret zur Verwendung.
+>* Die verbundene App wird erstellt und wir haben den [!UICONTROL Consumer Key] und [!UICONTROL Consumer Secret] zur Verwendung.
 
 >[!CAUTION]
 >
@@ -102,7 +102,7 @@ Salesforce verwendet das OAuth-Protokoll, um Benutzenden von Programmen einen si
 
    ![](assets/setting-up-oauth-2-15.png)
 
-Ihre Synchronisierung zwischen Marketo und Salesforce wird jetzt ausgeführt.
+Ihre Synchronisierung zwischen Marketo und [!DNL Salesforce] wird jetzt ausgeführt.
 
 ![](assets/setting-up-oauth-2-16.png)
 
@@ -110,5 +110,5 @@ Ihre Synchronisierung zwischen Marketo und Salesforce wird jetzt ausgeführt.
 >
 >* [Schritt 1 von 3: Marketo-Felder zu Salesforce hinzufügen (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md){target="_blank"}
 >* [Schritt 2 von 3: Erstellen eines Salesforce-Benutzers für Marketo (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"}
->* [Installieren des Marketo Sales Insight-Pakets auf der Salesforce-AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}
+>* [Installieren des Marketo Sales Insight-Pakets in Salesforce AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}
 >* [Konfigurieren von Marketo Sales Insight in Salesforce Enterprise/Unlimited](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md){target="_blank"}

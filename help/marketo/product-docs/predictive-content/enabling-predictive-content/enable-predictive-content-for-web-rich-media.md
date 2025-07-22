@@ -4,7 +4,7 @@ description: Aktivieren von prädiktivem Inhalt für Web-Rich-Media - Marketo-Do
 title: Aktivieren von prädiktivem Inhalt für Web-Rich-Media
 exl-id: 030f1dd7-8fe7-4c82-be5e-052f0a259e3c
 feature: Predictive Content
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '307'
 ht-degree: 0%
@@ -33,21 +33,21 @@ Prädiktive Inhalte interagieren Ihre Web-Besucher mit den relevantesten Inhalte
 
 Nachdem Sie den Inhaltstitel, die Beschreibung und das Bild für Rich Media vorbereitet haben, können Sie einzelne oder mehrere Inhaltselemente aktivieren.
 
-1. Um einen einzelnen Titel zu aktivieren, klicken Sie auf einen Titel, um den Editor zu öffnen. Klicken Sie auf Rich Media, aktivieren Sie dann das **Aktiviert für prädiktiven Inhalt in Rich Media** und klicken Sie auf **Speichern**.
+1. Um einen einzelnen Titel zu aktivieren, klicken Sie auf einen Titel, um den Editor zu öffnen. Klicken Sie **[!UICONTROL Rich Media]**, aktivieren Sie dann das Kontrollkästchen **[!UICONTROL Für prädiktiven Inhalt in Rich Media aktiviert]** und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/image2017-10-3-9-3a50-3a29.png)
 
-1. Aktivieren Sie bei mehreren Inhalten auf der Seite **Prädiktiver Inhalt** die Kontrollkästchen neben den Titeln.
+1. Aktivieren Sie bei mehreren Inhalten auf der Seite **[!UICONTROL Prädiktiver Inhalt]** die Kontrollkästchen neben den Titeln.
 
    ![](assets/image2017-10-3-10-3a0-3a42.png)
 
-1. Klicken Sie auf die **Inhaltsaktionen** und wählen Sie **Für Web-Rich-Media aktivieren** aus.
+1. Klicken Sie auf die **[!UICONTROL Inhaltsaktionen]** und wählen Sie **[!UICONTROL Für Web-Rich-Media aktivieren]** aus.
 
    ![](assets/image2017-10-3-10-3a2-3a6.png)|
 
 ## Anpassen des JavaScript-Codes und Einbetten in Ihre Website  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-Weitere Informationen finden Sie in der Dokumentation zur Vorlage für Rich-Media-Empfehlungen [auf der Marketo Developers-](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. Hier wird beschrieben, wie Sie die Vorlage für Ihre Website anpassen.
+Weitere Informationen finden Sie in der Dokumentation zur Vorlage für Rich-Media-Empfehlungen [auf der Marketo Developers-](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. Hier wird beschrieben, wie Sie die Vorlage für Ihre Website anpassen.
 
 Fügen Sie den JavaScript-Code an der Stelle in Ihre Website ein, an der die Vorlage angezeigt werden soll.
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11378814
-description: Kontolisten - Marketo-Dokumente - Produktdokumentation
-title: Kontenlisten
+description: '[!UICONTROL Kontolisten] - Marketo-Dokumente - Produktdokumentation'
+title: '[!UICONTROL Kontolisten]'
 exl-id: 31bb4341-d012-4239-8f40-10a07cd4c51c
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '343'
-ht-degree: 2%
+ht-degree: 1%
 
 ---
 
-# Kontenlisten {#account-lists}
+# [!UICONTROL Kontolisten] {#account-lists}
 
 Eine Kontenliste ist eine Sammlung benannter Konten, die als Ziel ausgewählt werden können. Mit Account-Listen können Sie benannte Accounts nach Branche, Standort oder Größe des Unternehmens auswählen.
 
@@ -21,15 +21,15 @@ Zusätzlich zu den Kontolisten können Sie auch dynamische Kontolisten erstellen
 
 >[!NOTE]
 >
->In Marketo Target Account Management erstellte Account-Listen sind beim Erstellen von Smart Lists und Web-Kampagnen in [Web Personalization) automatisch ](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md).
+>In Marketo erstellte Kontolisten [!UICONTROL Target-Kontoverwaltung] sind beim Erstellen von Smart Lists und Web-Kampagnen in [Web Personalization](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) automatisch verfügbar.
 
 ## Erstellen einer neuen Kontoliste {#create-a-new-account-list}
 
-1. Klicken Sie auf **Neu** und wählen Sie **Neue Kontoliste erstellen**.
+1. Klicken Sie auf **[!UICONTROL Neu]** und wählen Sie **[!UICONTROL Neue Kontoliste erstellen]**.
 
    ![](assets/1a.png)
 
-1. Benennen Sie Ihre Liste und klicken Sie auf **Erstellen**.
+1. Benennen Sie Ihre Liste und klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/three-0.png)
 
@@ -41,7 +41,7 @@ Zusätzlich zu den Kontolisten können Sie auch dynamische Kontolisten erstellen
 
 ## Erstellen einer neuen Liste für dynamische Konten {#create-a-new-dynamic-account-list}
 
-1. Klicken Sie auf **Neu** und wählen Sie **Neue dynamische Liste erstellen**.
+1. Klicken Sie auf **[!UICONTROL Neu]** und wählen Sie **[!UICONTROL Neue dynamische Liste erstellen]**.
 
    ![](assets/1.png)
 
@@ -49,7 +49,7 @@ Zusätzlich zu den Kontolisten können Sie auch dynamische Kontolisten erstellen
 
    ![](assets/image2017-7-18-9-48-23.png)
 
-1. Klicken Sie auf **Erstellen**.
+1. Klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/step4.jpg)
 
@@ -63,11 +63,11 @@ Zusätzlich zu den Kontolisten können Sie auch dynamische Kontolisten erstellen
 >
 >Diese Schritte gelten nur für Kontolisten. _Dynamic_-Kontolisten verwenden den Namen der zugehörigen CRM-Kontoansichten.
 
-1. Wählen Sie das Konto aus, das Sie umbenennen möchten, klicken Sie auf die Dropdown **Liste der Kontoaktionen** und wählen Sie **Kontoliste umbenennen**.
+1. Wählen Sie das Konto aus, das Sie umbenennen möchten, klicken Sie auf die Dropdown **[!UICONTROL Liste der Kontoaktionen]** und wählen Sie **[!UICONTROL Kontoliste umbenennen]**.
 
    ![](assets/three.png)
 
-1. Geben Sie den neuen Namen ein und klicken Sie auf &quot;**&quot;**.
+1. Geben Sie den neuen Namen ein und klicken Sie auf &quot;**[!UICONTROL &quot;]**.
 
    ![](assets/four.png)
 
@@ -81,15 +81,15 @@ Zusätzlich zu den Kontolisten können Sie auch dynamische Kontolisten erstellen
 >
 >Diese Schritte sind sowohl für Kontolisten als auch für dynamische Kontolisten identisch.
 
-1. Wählen Sie das zu löschende Konto aus, klicken Sie auf die Dropdown **Liste „Aktionen“ und** Sie **Kontoliste löschen**.
+1. Wählen Sie das zu löschende Konto aus, klicken Sie auf die Dropdown **[!UICONTROL Liste „Aktionen“ und]** Sie **[!UICONTROL Kontoliste löschen]**.
 
    ![](assets/five.png)
 
-1. Klicken Sie auf **Löschen**.
+1. Klicken Sie auf **[!UICONTROL Löschen]**.
 
    ![](assets/six.png)
 
 >[!MORELIKETHIS]
 >
->* [Ein vorhandenes benanntes Konto zu einer Kontoliste hinzufügen](/help/marketo/product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
+>* [Hinzufügen eines vorhandenen [!UICONTROL benannten Kontos] zu einer Kontoliste](/help/marketo/product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
 >* [Einblicke in Kontolisten](/help/marketo/product-docs/target-account-management/measure/account-list-insights.md)

@@ -4,16 +4,16 @@ description: Informationen zur Registerkarte „Inhalt“ - Marketo-Dokumente - 
 title: Grundlegendes zur Registerkarte „Inhalt“
 exl-id: dd3af0c5-72d7-4ced-a8c7-1900dd30ef3e
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%
 
 ---
 
-# Grundlegendes zur Registerkarte „Inhalt“ {#understanding-the-content-tab}
+# Grundlegendes zur Registerkarte [!UICONTROL Inhalt] {#understanding-the-content-tab}
 
-Auf der Registerkarte Inhalt dreht sich alles um die E-Mail-Interaktion Ihres Teams bei der Verwendung einer Vorlage. Wir sprechen automatisch drei Metriken aus, die wir für wichtig halten.
+Auf [!UICONTROL  Registerkarte ]Inhalt“ dreht sich alles um die E-Mail-Interaktion Ihres Teams bei der Verwendung einer Vorlage. Wir sprechen automatisch drei Metriken aus, die wir für wichtig halten.
 
 ## Geheimwaffe {#secret-weapon}
 
@@ -27,6 +27,6 @@ Dies ist die gemeinsame Vorlage, die die höchste Interaktion auf der ganzen Lin
 
 Kann freigegeben oder nicht freigegeben werden. Dies ist die Vorlage mit dem geringsten Interaktionsaufwand.
 
-Scrollen Sie auf der Seite nach unten, um den Abschnitt Vorlagen anzuzeigen, der alle Vorlagen anzeigt, die Ihr Team (in diesem Zeitrahmen) mit den meisten Ansichten verwendet hat*.*
+Scrollen Sie auf der Seite nach unten, um den Abschnitt [!UICONTROL Vorlagen] anzuzeigen, der alle Vorlagen anzeigt, die Ihr Team (in diesem Zeitrahmen) mit den meisten Ansichten verwendet hat*.
 
 Sie können auch die Top-Anhänge sehen, die Ihr Team gesendet hat (Sie erhalten die meisten Ansichten), und die Top-Links (Sie erhalten die meisten Klicks).

@@ -4,7 +4,7 @@ description: Einrichten der Kontoprofilerstellung - Marketo-Dokumente - Produktd
 title: Einrichten der Kontoprofilerstellung
 exl-id: 6f3af2e7-f820-473b-8ed6-ff0982672e54
 feature: Target Account Management
-source-git-commit: 2f978d814f4cf2d4d2ca9ead0c1a3e5c15430520
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 2%
@@ -30,19 +30,19 @@ Führen Sie diese Schritte aus, um mit der Verwendung der Kontoprofilerstellung 
 >
 >Hier erfahren Sie, wie [ ein Feld ](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md#unhide-a-field).
 
-1. Öffnen Sie in My Marketo **Target Account Management**.
+1. Öffnen Sie in My Marketo **[!UICONTROL Target Account Management]**.
 
    ![](assets/setting-up-account-profiling-1.png)
 
-1. Klicken Sie auf **Registerkarte** Kontoprofilerstellung“.
+1. Klicken Sie auf **[!UICONTROL Registerkarte]** Kontoprofilerstellung“.
 
    ![](assets/two-1.png)
 
-1. Die Registerkarte Modell ist standardmäßig geöffnet. Klicken Sie **Erste Schritte**.
+1. Die Registerkarte Modell ist standardmäßig geöffnet. Klicken Sie **[!UICONTROL Erste Schritte]**.
 
    ![](assets/three.png)
 
-1. Geben Sie Ihrem Modell einen Namen und wählen Sie den Listentyp/die Liste der Personen aus, die als Grundlage für das Idealkundenprofil (Ideal Customer Profile, ICP) dienen sollen. Klicken Sie **Abgeschlossen** auf Modell erstellen.
+1. Geben Sie Ihrem Modell einen Namen und wählen Sie den Listentyp/die Liste der Personen aus, die als Grundlage für das Idealkundenprofil (Ideal Customer Profile, ICP) dienen sollen. Klicken Sie **[!UICONTROL Abgeschlossen]** auf Modell erstellen.
 
    ![](assets/setting-up-account-profiling-4.png)
 
@@ -50,7 +50,7 @@ Führen Sie diese Schritte aus, um mit der Verwendung der Kontoprofilerstellung 
 
    ![](assets/five.png)
 
-1. Um die Ergebnisse Ihres Modells anzuzeigen, klicken Sie auf **Modellergebnis anzeigen**.
+1. Um die Ergebnisse Ihres Modells anzuzeigen, klicken Sie auf **[!UICONTROL Modellergebnis anzeigen]**.
 
    ![](assets/six.png)
 

@@ -4,7 +4,7 @@ description: 'Dynamisches Umschalten der Sichtbarkeit eines Formularfelds: Marke
 title: Dynamisches Umschalten der Sichtbarkeit eines Formularfelds
 exl-id: 51b9283d-bfa1-4535-89ba-96c0ae2ea909
 feature: Forms
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 2%
@@ -25,15 +25,15 @@ Eine wirklich coole Funktion von Marketo Forms ist, dass Sie Formularfelder oder
 >
 >Blenden wir in diesem Beispiel das Feld &quot;**&quot; aus** es sei denn **„Land** ist als „Vereinigte Staaten“ ausgewählt.
 
-1. Navigieren Sie **Marketing-Aktivitäten**.
+1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities-8.png)
 
-1. Wählen Sie Ihr Formular aus und klicken Sie auf **Formular bearbeiten**.
+1. Wählen Sie Ihr Formular aus und klicken Sie auf **[!UICONTROL Formular bearbeiten]**.
 
    ![](assets/editform-1.png)
 
-1. Wählen Sie das Feld aus, das Sie dynamisch ein- oder ausblenden möchten, und klicken Sie auf den Link für **Sichtbarkeitsregeln**.
+1. Wählen Sie das Feld aus, das Sie dynamisch ein- oder ausblenden möchten, und klicken Sie auf den Link für **[!UICONTROL Sichtbarkeitsregeln]**.
 
    ![](assets/image2014-9-15-15-3a16-3a0.png)
 
@@ -45,7 +45,7 @@ Eine wirklich coole Funktion von Marketo Forms ist, dass Sie Formularfelder oder
 
    >[!TIP]
    >
-   >Das ist cool, weil man Fuzzy Matches wie „Beginnt mit“ wählen kann.
+   >Dies ist cool, weil Sie unscharfe Übereinstimmungen wie &quot;[!UICONTROL Beginnt mit“ ] können.
 
    ![](assets/image2014-9-15-15-3a16-3a50.png)
 
@@ -61,7 +61,7 @@ Eine wirklich coole Funktion von Marketo Forms ist, dass Sie Formularfelder oder
    >
    >Wir haben „Land“ zuvor in einen Auswahllisten-Feldtyp konvertiert und [alle Länder als Werte hinzugefügt](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md).
 
-1. Klicken Sie auf **Speichern**.
+1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/image2014-9-15-15-3a18-3a15.png)
 
@@ -69,6 +69,6 @@ Und das war&#39;s! Wenn Personen dieses Formular ausfüllen und „USA für Land
 
 >[!IMPORTANT]
 >
->Das Verhalten von Formularfeldern funktioniert nahtlos, wenn Feldwerte mithilfe von benutzerdefinierten Skripten (API[Funktionen) in Forms 2.0 ](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"}/aktualisiert werden.
+>Das Verhalten von Formularfeldern funktioniert nahtlos, wenn Feldwerte mithilfe von benutzerdefinierten Skripten (API[Funktionen) in Forms 2.0 ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"}/aktualisiert werden.
 >
 >Bedingte Felder funktionieren möglicherweise nicht wie erwartet, wenn Feldwerte durch andere externe Skripte als die Forms 2.0 JavaScript-API geändert werden.

@@ -1,18 +1,18 @@
 ---
-description: Erste Schritte für Sales Connect-Administratoren - Marketo-Dokumente - Produktdokumentation
-title: Erste Schritte für Sales Connect-Administratoren
+description: Erste Schritte für  [!DNL Sales Connect] -Administratoren - Marketo-Dokumente - Produktdokumentation
+title: Erste Schritte für  [!DNL Sales Connect] -Administratoren
 exl-id: 8c866fff-3252-4564-a229-bbe4e17190fd
 feature: Marketo Sales Connect
-source-git-commit: 7005be3c62987e1f8beb7301fbb28293d96aad18
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '463'
 ht-degree: 0%
 
 ---
 
-# Erste Schritte für Sales Connect-Administratoren {#getting-started-guide-for-sales-connect-admins}
+# Erste Schritte für [!DNL Sales Connect] Administratoren {#getting-started-guide-for-sales-connect-admins}
 
-In diesem Dokument werden die ersten Schritte zur Einrichtung Ihrer neuen Sales Connect-Instanz beschrieben. Einige dieser Schritte erfordern den Zugriff als Marketo-Administrator, Salesforce-Administrator und Sales Connect-Administrator. Befolgen Sie die unten stehenden Anleitungen, um die Einrichtung Ihrer Instanz abzuschließen.
+In diesem Dokument werden die ersten Schritte zum Einrichten der neuen [!DNL Sales Connect]-Instanz beschrieben. Für einige dieser Schritte ist ein Zugriff als Marketo-, [!DNL Salesforce]- und [!DNL Sales Connect] erforderlich. Befolgen Sie die unten stehenden Anleitungen, um die Einrichtung Ihrer Instanz abzuschließen.
 
 >[!NOTE]
 >
@@ -30,9 +30,9 @@ Nachdem Sie Ihr Marketo Sales Connect-Konto von Marketo bereitgestellt und Ihren
 
 ![](assets/getting-started-guide-for-sales-connect-admins-2.png)
 
-## Herstellen einer Verbindung zu Salesforce {#connecting-to-salesforce}
+## Herstellen einer Verbindung mit [!DNL Salesforce] {#connecting-to-salesforce}
 
-Alle Benutzenden müssen einzeln eine Verbindung zu Salesforce herstellen, um Verkaufsaktivitäten wie E-Mails, Anrufe und Aufgaben für Salesforce protokollieren zu können. Wenn Sie jedoch als Administrator eine Verbindung zu Salesforce herstellen, haben Sie die Möglichkeit, Ihre Aktivitätsprotokollierungseinstellungen für Ihr gesamtes Team zu konfigurieren, sodass globale Protokollierungseinstellungen auf alle Sales Connect-Benutzenden angewendet werden.
+Alle Benutzenden müssen sich einzeln mit [!DNL Salesforce] verbinden, um Verkaufsaktivitäten wie E-Mails, Anrufe und Aufgaben für Salesforce protokollieren zu können. Wenn Sie jedoch als Administrator eine Verbindung zu Salesforce herstellen, haben Sie die Möglichkeit, Ihre Aktivitätsprotokollierungseinstellungen für Ihr gesamtes Team zu konfigurieren, sodass globale Protokollierungseinstellungen auf alle [!DNL Sales Connect] Benutzer angewendet werden.
 
 Um Ihre Sales Connect-Instanz mit Ihrer Salesforce-Instanz als Admin oder Nicht-Admin zu verbinden, führen Sie die Schritte in [diesem Artikel](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md){target="_blank"} aus.
 
@@ -48,7 +48,7 @@ Durch die Verbindung mit Marketo können Ihre Verkäufer die Vorteile der Market
 
 Um mehr darüber zu erfahren, wie Sie eine Verbindung zu Marketo herstellen und Vertriebsbenutzern Zugriff auf die Verbindung gewähren, [hier klicken](/help/marketo/product-docs/marketo-sales-connect/marketo/set-up-your-marketo-connection.md){target="_blank"}.
 
-## Installieren des Salesforce-Anpassungspakets {#installing-salesforce-customization-package}
+## Installieren [!DNL Salesforce] Anpassungspakets {#installing-salesforce-customization-package}
 
 Um sicherzustellen, dass der Verkauf erfolgreich ist, müssen Sie auch die richtigen Funktionen in Ihrem primären Arbeitsbereich haben. Das Sales Connect-Anpassungspaket ermöglicht den Zugriff auf Interaktionsfunktionen und wichtige Vertriebsaktivitätsattribute über Salesforce.
 

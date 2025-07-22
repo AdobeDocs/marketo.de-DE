@@ -4,10 +4,10 @@ description: Schnellaktionen verwenden, um Ihren Workflow zu beschleunigen - Mar
 title: Verwenden von Schnellaktionen zur Beschleunigung Ihres Workflows
 exl-id: 8cfc2fb4-d7b1-4a12-bf4e-37613345e65b
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '324'
-ht-degree: 5%
+source-wordcount: '330'
+ht-degree: 3%
 
 ---
 
@@ -23,8 +23,8 @@ E-Mail-Schnellaktionen sind dynamisch und werden je nach den relevantesten Aktio
 
 | Status | Beschreibung |
 |---|---|
-| Archivieren | Fügt die E-Mail zum archivierten Ordner hinzu und stoppt alle deaktivierten Anzeigen und Klick-Tracking für diese E-Mail. |
-| Erfolgreich | Markiert die E-Mail als erfolgreich, damit sie in der Vorlagenanalyse gemeldet wird. |
+| [!UICONTROL Archivieren] | Fügt die E-Mail zum archivierten Ordner hinzu und stoppt alle deaktivierten Anzeigen und Klick-Tracking für diese E-Mail. |
+| [!UICONTROL Erfolg] | Markiert die E-Mail als erfolgreich, damit sie in der Vorlagenanalyse gemeldet wird. |
 
 **Archiviert**
 
@@ -35,11 +35,11 @@ E-Mail-Schnellaktionen sind dynamisch und werden je nach den relevantesten Aktio
  </colgroup> 
  <tbody> 
   <tr> 
-   <td>Dearchivieren</td> 
+   <td>[!UICONTROL Archivierung aufheben]</td> 
    <td>Verschiebt die E-Mail zurück in den Versandordner und reaktiviert das Ansicht-/Klick-Tracking.</td> 
   </tr> 
   <tr> 
-   <td>Löschen</td> 
+   <td>[!UICONTROL Löschen]</td> 
    <td><p>Löscht die E-Mail.<br><strong>Hinweis:</strong> E-Mails, die im Rahmen einer Kampagne gesendet wurden, können nicht gelöscht werden.</p></td> 
   </tr> 
  </tbody> 
@@ -54,11 +54,11 @@ E-Mail-Schnellaktionen sind dynamisch und werden je nach den relevantesten Aktio
  </colgroup> 
  <tbody> 
   <tr> 
-   <td>Bearbeiten</td> 
+   <td>[!UICONTROL Bearbeiten]</td> 
    <td>Öffnet die E-Mail im Fenster zum Erstellen, das bearbeitet werden soll.</td> 
   </tr> 
   <tr> 
-   <td>Löschen</td> 
+   <td>[!UICONTROL Löschen]</td> 
    <td><p>Löscht die E-Mail.<br><strong>Hinweis:</strong> E-Mails, die im Rahmen einer Kampagne gesendet wurden, können nicht gelöscht werden.</p></td> 
   </tr> 
  </tbody> 
@@ -73,11 +73,11 @@ E-Mail-Schnellaktionen sind dynamisch und werden je nach den relevantesten Aktio
  </colgroup> 
  <tbody> 
   <tr> 
-   <td>Senden erneut versuchen</td> 
+   <td>[!UICONTROL Erneut senden]</td> 
    <td>Versucht sofort, die E-Mail erneut zu senden.</td> 
   </tr> 
   <tr> 
-   <td>Löschen</td> 
+   <td>[!UICONTROL Löschen]</td> 
    <td><p>Löscht die E-Mail.<br><strong>Hinweis:</strong> E-Mails, die im Rahmen einer Kampagne gesendet wurden, können nicht gelöscht werden.</p></td> 
   </tr> 
  </tbody> 
@@ -91,5 +91,5 @@ E-Mail-Schnellaktionen sind dynamisch und werden je nach den relevantesten Aktio
 |---|---|
 | Folgenachricht senden | Öffnet das Fenster Erstellen mit dem ausgewählten Inline-E-Mail-Textkörper, der angehängt wird und an den Empfänger gesendet werden kann. |
 | Anruf tätigen | Öffnet das Verkaufstelefon, um den E-Mail-Empfänger anzurufen. |
-| InMail senden | Leitet zu LinkedIn um, um der Person eine InMail-Nachricht zu senden. |
+| InMail senden | Leitet zu LinkedIn weiter, um der Person eine InMail-Nachricht zu senden. |
 | Aufgabe erstellen | Öffnet das Popup Aufgabe erstellen zum Erstellen einer Erinnerungsaufgabe. |

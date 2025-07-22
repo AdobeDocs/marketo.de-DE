@@ -1,22 +1,22 @@
 ---
 description: Dynamic Chat-Übersicht - Marketo-Dokumente - Produktdokumentation
-title: Dynamic Chat-Übersicht
+title: Übersicht über Dynamic Chat
 feature: Dynamic Chat
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: be1ca409642fd5d81d341fbadaff38c268fe198f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '595'
+source-wordcount: '589'
 ht-degree: 4%
 
 ---
 
-# Dynamic Chat-Übersicht {#dynamic-chat-overview}
+# [!DNL Dynamic Chat] Übersicht {#dynamic-chat-overview}
 
 Mit Dynamic Chat können Sie eine benutzerfreundliche Oberfläche nutzen, um sowohl Personen als auch Konten anzusprechen, die Ihre Website besuchen. Sammeln Sie relevante Inhalte wie Namen, Kontaktinformationen und freien Text. Besuchende der Site können auch mit einem Live-Agenten chatten und sogar Meetings mit Ihrem Verkaufsteam buchen. Dynamic Chat-Aktivitäts- und Interaktionsdaten können verwendet werden, um Mitglieder zu Marketo-Programmen und kanalübergreifende Aktivitäten für Trigger hinzuzufügen.
 
 >[!TIP]
 >
->Auf [dieser Seite](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html?lang=de){target="_blank"} finden Sie Anleitungsvideos zum Dynamic Chat.
+>Besuchen Sie [diese Seite](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html){target="_blank"}, um Anleitungsvideos zu Dynamic Chat anzuzeigen.
 
 ## Integrationen {#integrations}
 
@@ -58,7 +58,7 @@ Bieten Sie Ihren qualifizierten Web-Besuchern an, sich über den [-Chat mit Ihre
 
 ## Generative KI {#generative-ai}
 
-[Generative KI](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/overview.md){target="_blank"} im Adobe Dynamic Chat verarbeitet Absichtssignale, Benutzervoreinstellungen und vergangenes Verhalten in Echtzeit, um relevante, personalisierte Nachrichten für Chat-Besucher zu generieren.
+[Generative KI](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/overview.md){target="_blank"} in Adobe Dynamic Chat verarbeitet Absichtssignale, Benutzervoreinstellungen und vergangenes Verhalten in Echtzeit, um relevante, personalisierte Nachrichten für Chat-Besucher zu generieren.
 
 ## Ändern der Sprache {#changing-the-language}
 
@@ -66,9 +66,9 @@ Gehen Sie wie folgt vor, um Ihre Dynamic Chat-Sprache zu ändern.
 
 >[!IMPORTANT]
 >
->Wenn Sie Ihre Sprache auf Profilebene ändern, wird die Sprache für _alle_ Experience Cloud-Anwendungen und nicht nur für Dynamic Chat geändert.
+>Wenn Sie Ihre Sprache auf Profilebene ändern, wird die Sprache für _alle_ Experience Cloud-Programme geändert, nicht nur für [!DNL Dynamic Chat].
 
-1. Klicken Sie in Ihrem Experience Cloud-Konto auf das Einstellungssymbol und wählen Sie **Voreinstellungen**.
+1. Klicken Sie in Ihrem Experience Cloud-Konto auf das Einstellungssymbol und wählen Sie **[!UICONTROL Voreinstellungen]** aus.
 
    ![](assets/dynamic-chat-overview-1.png)
 
@@ -76,19 +76,19 @@ Gehen Sie wie folgt vor, um Ihre Dynamic Chat-Sprache zu ändern.
 
    ![](assets/dynamic-chat-overview-2.png)
 
-1. Wählen Sie Ihre neue Sprache (Zweite Sprache ist optional) und klicken Sie auf **Speichern**.
+1. Wählen Sie Ihre neue Sprache (Zweite Sprache ist optional) und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/dynamic-chat-overview-3.png)
 
    >[!NOTE]
    >
-   >Es stehen einige Dutzend Sprachen zur Auswahl. Dynamic Chat unterstützt jedoch nur Folgendes: Englisch, Französisch, Deutsch, Japanisch, Spanisch, Italienisch, Portugiesisch (Brasilien), Koreanisch, Chinesisch (vereinfacht und traditionell).
+   >Es stehen einige Dutzend Sprachen zur Auswahl, [!DNL Dynamic Chat] jedoch nur Folgendes unterstützt: Englisch, Französisch, Deutsch, Japanisch, Spanisch, Italienisch, Portugiesisch (Brasilien), Koreanisch, Chinesisch (vereinfacht und traditionell).
 
 Wenn Sie die Sprache aktualisieren, ändert sich alles in der App selbst, mit Ausnahme der Wörter, die Sie persönlich ausgefüllt haben (z. B. Stream-Antworten).
 
-## Dynamic Chat-Datenaufbewahrungsbeschränkungen {#dynamic-chat-data-retention-limits}
+## Grenzwerte für die Datenaufbewahrung in Dynamic Chat {#dynamic-chat-data-retention-limits}
 
-Nachfolgend sind einige der Einschränkungen/Parameter innerhalb von Dynamic Chat aufgeführt. Eine vollständige Liste finden Sie auf der Marketo Engage [Produktbeschreibungsseite](https://helpx.adobe.com/de/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}.
+Im Folgenden finden Sie einige der Einschränkungen/Parameter in Dynamic Chat. Eine vollständige Liste finden Sie auf der Marketo Engage-[ (Produktbeschreibungsseite](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}.
 
 <table>
   <th>Datentyp</th>
@@ -99,11 +99,11 @@ Nachfolgend sind einige der Einschränkungen/Parameter innerhalb von Dynamic Cha
  </tr>
  <tr>
   <td>Zielaktivität</td>
-  <td>24 Monate</td>
+  <td>24 Monate</td>
  </tr>
  <tr>
   <td>Dokumentaktivität</td>
-  <td>24 Monate</td>
+  <td>24 Monate</td>
  </tr>
  <tr>
   <td>Interagiert mit Dialogfeldaktivität</td>
@@ -111,10 +111,10 @@ Nachfolgend sind einige der Einschränkungen/Parameter innerhalb von Dynamic Cha
  </tr>
  <tr>
   <td>Aktivität „Besprechungsbuchung“</td>
-  <td>24 Monate</td>
+  <td>24 Monate</td>
  </tr>
 </table>
 
 ## FAQs {#faq}
 
-Siehe die Häufig gestellten Fragen zur [Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/faq.md){target="_blank"}.
+Siehe die häufig gestellten Fragen zu [Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/faq.md){target="_blank"}.

@@ -4,7 +4,7 @@ description: TAM-Hierarchien - Marketo-Dokumente - Produktdokumentation
 title: TAM-Hierarchien
 exl-id: 41364270-bd85-4ca3-921e-842c0dedc167
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # TAM-Hierarchien {#tam-hierarchies}
 
-Hierarchien geben TAM-Benutzern die Möglichkeit, die hierarchischen Beziehungen zwischen benannten Konten in ihrem CRM zu übernehmen.
+Hierarchien geben TAM-Benutzern die Möglichkeit, die hierarchischen Beziehungen zwischen [!UICONTROL benannten Konten] in ihrem CRM zu erben.
 
 ## Was sind TAM-Hierarchien? {#what-are-tam-hierarchies}
 
@@ -21,7 +21,7 @@ Unternehmen können mehrere Abteilungen und Tochtergesellschaften haben. Diese U
 
 ## Arbeiten mit TAM-Hierarchien {#working-with-tam-hierarchies}
 
-Mit TAM-Hierarchien können Sie im Dashboard Benannte Konten schnell Informationen zu einer ganzen Hierarchie oder einzelnen Konten abrufen.
+Mit TAM-Hierarchien können Sie im Dashboard „Benanntes Konto“ schnell Informationen über eine ganze Hierarchie [!UICONTROL  einzelne Konten ].
 
 **Keine Verwendung von Hierarchie**
 
