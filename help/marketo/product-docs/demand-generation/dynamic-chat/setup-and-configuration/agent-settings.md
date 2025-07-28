@@ -3,10 +3,10 @@ description: Agenteneinstellungen - Marketo-Dokumente - Produktdokumentation
 title: Agenteneinstellungen
 feature: Dynamic Chat
 exl-id: a782ef9b-6a89-448a-8bd9-f127ceea3bf5
-source-git-commit: 19f7a38a6a87bc66084e7e45f5bf49cd0d29c3cd
+source-git-commit: 8cc63658ddd0e5b6343dc690d4009d4466250998
 workflow-type: tm+mt
-source-wordcount: '543'
-ht-degree: 2%
+source-wordcount: '605'
+ht-degree: 1%
 
 ---
 
@@ -90,7 +90,9 @@ Wenn Sie bei der App eingeloggt sind, erhalten Sie eine In-App-Benachrichtigung 
 
 >[!IMPORTANT]
 >
->Der Umschalter [Verfügbarkeit](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#availability-toggle){target="_blank"} im Agenten-Posteingang **überschreibt** was Sie auf der Registerkarte Live-Chat-Verfügbarkeit eingeben. Wenn Sie also von 1p bis 5p verfügbar sind, aber eine kurze Pause bei 3p einlegen müssen, müssen Sie Ihre Agenteneinstellungen nicht ändern. Der Status des Verfügbarkeits-Umschalters bleibt erhalten, bis Sie ihn manuell ändern oder bis der nächste Block Ihrer Verfügbarkeit erreicht ist.
+>* Der Umschalter [Verfügbarkeit](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#availability-toggle){target="_blank"} im Agenten-Posteingang **überschreibt** was auf der Registerkarte _Verfügbarkeit des Live-Chat_ eingegeben wird. Wenn der Agent also von 1p-5p verfügbar ist, aber eine kurze Pause bei 3p einlegen muss, müssen die Agenteneinstellungen nicht geändert werden. Der Status des Verfügbarkeits-Umschalters bleibt erhalten, bis er manuell geändert wird, bis der nächste Zeitblock in der Verfügbarkeit des Agenten erreicht wird, oder bis Mitternacht in der angegebenen Zeitzone des Agenten (weitere Informationen finden Sie im nächsten Aufzählungszeichen).
+>
+>* Wenn der Agent den Umschalter Verfügbarkeit verwendet, um den Status in „Verfügbar“ zu ändern, wird sein Status um Mitternacht in der in seinem Verfügbarkeitsplan angegebenen Zeitzone automatisch zurückgesetzt (wechselt zu „Nicht verfügbar„). Wenn keine Zeitzone angegeben ist, wird standardmäßig UTC (Coordinated Universal Time) verwendet.
 
 >[!TIP]
 >
