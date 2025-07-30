@@ -6,9 +6,9 @@ description: Erfahren Sie, wie Sie mit SpamAssassin Ihren E-Mail-Inhalt testen u
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 6954850e-2b1a-4bf5-b918-1c54d6926b7e
-source-git-commit: 71c4f64bc7b39241a5d899ffcbd4d2cdf59c64d9
+source-git-commit: aba42b7480c6e042c462c423615ad35a5f66212f
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '228'
 ht-degree: 8%
 
 ---
@@ -41,7 +41,7 @@ SpamAssassin analysiert Ihre Inhalte und weist eine Bewertung anhand verschieden
 
    >[!IMPORTANT]
    >
-   >Wenn die Gesamtpunktzahl höher als 5 ist, wird Ihre E-Mail bei der Zustellung möglicherweise blockiert oder als Spam gekennzeichnet.
+   >Wenn die Gesamtpunktzahl höher als 5 ist, wird Ihre E-Mail möglicherweise vom Empfänger blockiert oder beim Versand als Spam gekennzeichnet.
 
 1. Wenn Sie die Punktzahl für zu hoch halten, bearbeiten Sie den Inhalt in der E-Mail-Designer auf der Grundlage der Berichtsergebnisse und führen Sie dann den **Spam-Bericht** erneut aus.
 
@@ -53,4 +53,4 @@ Wenn die Punktzahl Ihren Vorstellungen entspricht, kann sie gesendet werden.
 
 >[!NOTE]
 >
->Der Spam-Wert wird über SpamAssassin ermittelt, und die Regeln gehören nicht Adobe. Weitere Informationen zu diesen Regeln finden Sie in der [SpamAssassin-Dokumentation](https://spamassassin.apache.org/#_blank){target="_blank"}. Eine vollständige Liste der Fehler [finden Sie hier](https://spamassassin.apache.org/old/tests_3_0_x.html){target="_blank"}.
+>Der Spam-Wert wird über SpamAssassin ermittelt und **Regeln gehören nicht Adobe**. Weitere Informationen zu diesen Regeln finden Sie in der [SpamAssassin-Dokumentation](https://spamassassin.apache.org/#_blank){target="_blank"}. Eine vollständige Liste der Fehler [finden Sie hier](https://spamassassin.apache.org/old/tests_3_0_x.html){target="_blank"}.
