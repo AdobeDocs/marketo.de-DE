@@ -3,9 +3,9 @@ description: Drosselung der E-Mail-Verbindung - Marketo-Dokumente - Produktdokum
 title: Drosselung der E-Mail-Verbindung
 exl-id: 02450a1e-5b30-4057-b204-19fab1a7d6c9
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: b4e5d17aa882a89b01f77f875312b0d71aa754f3
 workflow-type: tm+mt
-source-wordcount: '404'
+source-wordcount: '402'
 ht-degree: 0%
 
 ---
@@ -14,26 +14,26 @@ ht-degree: 0%
 
 Die Integration Ihres [!DNL Sales Connect]-Kontos zum Versand über [!DNL Exchange]- oder Gmail-E-Mail-Anbieter bietet eine optimierte Einrichtung und optimiert die E-Mail-Zustellbarkeit für 1:1-Verkaufskommunikation. Um jedoch die Systemintegrität und die Sicherheit der Konten zu gewährleisten, setzen Gmail und [!DNL Exchange] Grenzwerte für den E-Mail-Versand durch. Diese Obergrenzen können nach Ermessen des Anbieters erhöht oder gesenkt werden.
 
-## Drosselung der E-Mail-Verbindung (Beta) {#email-connection-throttling-beta}
+## Überblick {#overview}
 
 Mit der Drosselung der E-Mail-Verbindung können Sales Connect-Administratoren die Versandrate von E-Mails konfigurieren, wenn sie Gmail oder Exchange als Versandkanal verwenden, sodass die Rate, mit der E-Mails an den Versandkanalanbieter übergeben werden, die erzwungenen Grenzwerte nicht überschreitet.
 
 Wenn Limits durchgängig überschritten werden, kann dies manchmal als verdächtiges Verhalten des Versandkanalanbieters angesehen werden, was dazu führt, dass E-Mails fehlschlagen und manchmal sogar ein Konto deaktiviert wird.
 
-**Hinweise/Highlights**
+## Zu beachtende Punkte {#things-to-note}
 
-* Automatisch aktiviert, sobald ein Benutzer eine Verbindung zu Gmail oder [!DNL Exchange] herstellt
+* Automatisch aktiviert, wenn ein Benutzer eine Verbindung zu Gmail oder [!DNL Exchange] herstellt
 * Kann angepasst werden, wenn Sie die Einstellungen von der Empfehlung ausgehend entsprechend Ihren Anforderungen erhöhen oder verringern möchten
 * Drosselt nur über Gmail oder [!DNL Exchange] gesendete E-Mails, nicht jedoch den benutzerdefinierten Versandkanal
 * Die Drosselung der E-Mail-Verbindung stellt für jeden einzelnen Benutzer separate E-Mails in eine Warteschlange, da jeder Benutzer eine eigene Verbindung mit seinem E-Mail-Anbieter hat
 
-**Konfigurieren der Drosselungseinstellungen für Ihre E-Mail-Verbindung**
+## Konfigurieren der Drosselungseinstellungen für E-Mail-Verbindungen {#configuring}
 
 1. Klicken Sie auf das Zahnradsymbol und wählen Sie **[!UICONTROL Einstellungen]** aus.
 
    ![](assets/email-connection-throttling-1.png)
 
-1. Klicken [!UICONTROL &#x200B; unter &quot;]&quot; auf **[!UICONTROL Allgemein]**.
+1. Klicken [!UICONTROL  unter &quot;]&quot; auf **[!UICONTROL Allgemein]**.
 
    ![](assets/email-connection-throttling-2.png)
 
@@ -57,7 +57,7 @@ Mit den gespeicherten Änderungen werden alle Benutzer ihre E-Mails in Batches a
 
 ## Beschränkungen für E-Mail-Anbieter {#email-provider-limits}
 
-**[!DNL Outlook 365]**
+### [!DNL Outlook 365] {#outlook}
 
 Unternehmen/Unternehmen
 
@@ -67,7 +67,7 @@ Unternehmen/Unternehmen
 
 Weitere Informationen [finden Sie hier](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits?redirectedfrom=MSDN#RecipientLimits).
 
-**Gmail**
+### Gmail {#gmail}
 
 * 2000 pro Tag (500 für Testkonten und gekennzeichnete Konten)
 * 2 E-Mails pro Sekunde (API-Limit)
@@ -75,7 +75,7 @@ Weitere Informationen [finden Sie hier](https://docs.microsoft.com/en-us/office3
 
 Weitere Informationen [finden Sie hier](https://support.google.com/a/answer/166852?hl=en).
 
-**[!DNL Microsoft Exchange Server (2010, 2013)]**
+### [!DNL Microsoft Exchange Server (2010, 2013)] {#microsoft-exchange}
 
 Einschränkungen werden von der IT-Abteilung des Unternehmens festgelegt, da der Server von dem Unternehmen gehostet wird. Weitere Informationen erhalten Sie vom Netzwerk- oder Systemadministrator.
 
