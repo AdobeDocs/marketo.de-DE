@@ -4,9 +4,9 @@ description: Grundlegendes zu meinen Token in einem Programm - Marketo-Dokumente
 title: Grundlegendes zu meinen Token in einem Programm
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 0200af9b8ce180e15c6a45c5438b8f6f1c4af588
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '422'
 ht-degree: 4%
 
 ---
@@ -46,7 +46,7 @@ Beispiele:
   </tr> 
   <tr> 
    <td>E-Mail-Script <img alt="--" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>Verwenden Sie dieses Token, um ein Velocity-Skript in Ihren E-Mails auszuführen. <a href="https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/email-scripting" title="Link folgen" rel="nofollow">Weitere Informationen</a>. </td> 
+   <td>Verwenden Sie dieses Token, um ein Velocity-Skript in Ihren E-Mails auszuführen. <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting" title="Link folgen" rel="nofollow">Weitere Informationen</a>. </td> 
   </tr> 
   <tr> 
    <td>Zahl<span> <img alt="--" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td> 
@@ -86,6 +86,10 @@ Wenn Sie ein neues Token erstellen, kann es von anderen Objekten in der Struktur
 Sie können globale Variablen erstellen und sie dann auf niedrigeren Ebenen in der Struktur überschreiben.
 
 Das Verschieben von Programmen und Ordnern wirkt sich auch auf Token aus. Stellen Sie immer sicher, dass Verweise beim Verschieben nicht beschädigt werden.
+
+>[!IMPORTANT]
+>
+>Verschachtelte Token werden in (Batch[Kampagnen) ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md#batch-campaign){target="_blank"}.
 
 >[!NOTE]
 >
