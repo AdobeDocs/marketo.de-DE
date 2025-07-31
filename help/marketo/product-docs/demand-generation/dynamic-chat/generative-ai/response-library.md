@@ -3,7 +3,7 @@ description: Reaktionsbibliothek - Marketo-Dokumente - Produktdokumentation
 title: Antwortbibliothek
 feature: Dynamic Chat
 exl-id: 774346fa-f633-48e8-a489-999404b6070b
-source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
+source-git-commit: 8114c0bc094be0555e47165b31626baceaba9ef9
 workflow-type: tm+mt
 source-wordcount: '365'
 ht-degree: 2%
@@ -32,7 +32,7 @@ Zeigen Sie alle Ihre Fragen, deren Genehmigungsstatus und den/die ihnen zugewies
 
    ![](assets/response-library-4.png)
 
-1. Klicken Sie auf „Aktualisieren“. Ihre neue Frage wird oben mit dem Status &quot;[!UICONTROL &quot; &#x200B;].
+1. Klicken Sie auf „Aktualisieren“. Ihre neue Frage wird oben mit dem Status &quot;[!UICONTROL &quot; ].
 
    ![](assets/response-library-5.png)
 
@@ -56,7 +56,7 @@ Zeigen Sie alle Ihre Fragen, deren Genehmigungsstatus und den/die ihnen zugewies
 
 ## Fragen/Antworten zur Massenbearbeitung und zum Hochladen {#bulk-edit-and-upload-questions-responses}
 
-Anweisungen zum Vornehmen von Massenbearbeitungen in der heruntergeladenen Excel-Datei finden Sie unten. Sie werden auch auf der Registerkarte Aufgabendetails der Datei angezeigt.
+Anweisungen zum Vornehmen von Massenbearbeitungen in der [heruntergeladenen Excel-Datei](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md#download-questions-and-responses){target="_blank"} finden Sie unten. Sie werden auch auf der Registerkarte Aufgabendetails der Datei angezeigt.
 
 <table>
 <thead>
