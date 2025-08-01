@@ -4,7 +4,7 @@ title: Verwenden einer Landingpage des Dialogflusses
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 5ef17e8c3988706a4d95332312ffb035f35bb269
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '226'
 ht-degree: 1%
@@ -13,7 +13,7 @@ ht-degree: 1%
 
 # Verwenden einer Landingpage des Dialogflusses{#use-a-conversational-flow-landing-page}
 
-Wenn Sie einen Dynamic Chat-Konversationsfluss direkt in eine Marketo Engage-Landingpage einbetten, können Besuchende ein Meeting per Dynamic Chat planen, ohne ein Formular ausfüllen oder mit einem Chatbot interagieren zu müssen.
+Durch das Einbetten eines Dynamic Chat-Gesprächsflusses direkt in eine Marketo Engage-Landingpage können Besuchende ein Meeting über Dynamic Chat planen, ohne ein Formular ausfüllen oder mit einem Chatbot interagieren zu müssen.
 
 >[!PREREQUISITES]
 >
@@ -47,4 +47,3 @@ NOTIZEN VON STEVE MEETING
 Geführte LP, neue div id für Vorlage, wählen Sie conv flow
 
 Freiform-LP, Symbol „Über“ - Hinweis hinzufügen - Wenn Sie CF im Editor platzieren, wird keine Vorschau angezeigt (auch kein Platzhalter) - „Sie werden keine Vorschau sehen“ - In der Seitenleiste sehen sie, dass sich die CF auf der Seite befindet - Geführte LP listet sie als Element auf - Verwenden Sie „zu diesem Zeitpunkt“, wenn Sie erklären - Funktion wird möglicherweise in der Woche vom 22. verfügbar
-

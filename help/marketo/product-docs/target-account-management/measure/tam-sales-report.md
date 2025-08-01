@@ -4,7 +4,7 @@ description: TAM-Verkaufsbericht - Marketo-Dokumente - Produktdokumentation
 title: TAM-Verkaufsbericht
 exl-id: db4680df-74fd-41a4-9e9c-bf405da97bf0
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 4%
@@ -30,35 +30,35 @@ Der Bericht teilt:
 
 ## Verkaufsberichtschlüssel {#sales-report-key}
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><strong><span class="uicontrol">Kontobewertung</span></strong></td> 
-   <td> 
+<table>
+ <tbody>
+  <tr>
+   <td><strong><span class="uicontrol">Kontobewertung</span></strong></td>
+   <td>
     <div>
-      Wöchentlicher Trend nach Kontobewertung (im Setup ausgewählt), gefolgt vom aktuellen Kontowert 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Vertriebspipeline</span></strong></td> 
-   <td> 
+      Wöchentlicher Trend nach Kontobewertung (im Setup ausgewählt), gefolgt vom aktuellen Kontowert
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Vertriebspipeline</span></strong></td>
+   <td>
     <div>
-      Wöchentlicher Trend nach Pipeline, gefolgt von der Gesamtzahl der aktuellen Pipeline und der Anzahl der offenen Opportunities 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Seitenansichten</span></strong></td> 
-   <td> 
+      Wöchentlicher Trend nach Pipeline, gefolgt von der Gesamtzahl der aktuellen Pipeline und der Anzahl der offenen Opportunities
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Seitenansichten</span></strong></td>
+   <td>
     <div>
-      Wöchentlicher Trend der Seitenansichten, gefolgt von der Gesamtzahl der Seitenansichten und der Anzahl der Unique Visitors 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Interessante Momente</span></strong></td> 
-   <td> 
+      Wöchentlicher Trend der Seitenansichten, gefolgt von der Gesamtzahl der Seitenansichten und der Anzahl der Unique Visitors
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Interessante Momente</span></strong></td>
+   <td>
     <div>
-      Gesamtzahl der interessanten Momente während der Woche 
-    </div></td> 
-  </tr> 
- </tbody> 
+      Gesamtzahl der interessanten Momente während der Woche
+    </div></td>
+  </tr>
+ </tbody>
 </table>

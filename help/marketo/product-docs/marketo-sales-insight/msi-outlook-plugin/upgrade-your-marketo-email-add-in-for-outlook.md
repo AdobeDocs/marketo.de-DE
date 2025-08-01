@@ -4,7 +4,7 @@ description: Aktualisieren des Marketo-E-Mail-Add-ins  [!DNL Outlook]  Marketo D
 title: Aktualisieren des Marketo E-Mail-Add-ins für [!DNL Outlook]
 exl-id: 079f1142-8062-448c-aa07-59ecd89a718f
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '326'
 ht-degree: 13%
@@ -23,98 +23,98 @@ Wenn eine neue Version des Marketo-E-Mail-Add-ins für [!DNL Outlook] verfügbar
 
 Laden Sie das für Ihre Version von Microsoft [!DNL Outlook] geeignete Installationsprogramm herunter.
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <th><br></th> 
-   <th colspan="2">Installation der Einladung für einen Benutzer</th> 
-   <th colspan="2">Installation des Unternehmensschlüssels</th> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="dnl">Outlook</span>-Version</strong></td> 
-   <td><strong>32-Bit</strong></td> 
-   <td><strong>64-Bit</strong></td> 
-   <td><strong>32-Bit</strong></td> 
-   <td><strong>64-Bit</strong></td> 
-  </tr> 
-  <tr> 
-   <td><span class="dnl">Outlook</span> 2000</td> 
-   <td>Nicht unterstützt</td> 
-   <td>Nicht zutreffend</td> 
-   <td>Nicht unterstützt</td> 
-   <td>Nicht zutreffend</td> 
-  </tr> 
-  <tr> 
-   <td><span class="dnl">Outlook 2003</span></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Herunterladen</a></td> 
-   <td>Nicht zutreffend</td> 
-   <td>Nicht unterstützt</td> 
-   <td>Nicht zutreffend</td> 
-  </tr> 
-  <tr> 
-   <td><span class="dnl">Ausblick</span> 2007</td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Herunterladen</a></td> 
-   <td>Nicht zutreffend</td> 
-   <td>Nicht unterstützt</td> 
-   <td>Nicht zutreffend</td> 
-  </tr> 
-  <tr> 
-   <td><span class="dnl">Ausblick</span> 2010</td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Herunterladen</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Herunterladen</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Herunterladen</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Herunterladen</a></td> 
-  </tr> 
-  <tr> 
-   <td><span class="dnl">Ausblick</span> 2013</td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Herunterladen</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Herunterladen</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Herunterladen</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Herunterladen</a></td> 
-  </tr> 
-  <tr> 
-   <td><span class="dnl">Ausblick</span> 2016</td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Herunterladen</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Herunterladen</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Herunterladen</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Herunterladen</a></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><span class="dnl">Ausblick</span> 2019</td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Herunterladen</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Herunterladen</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Herunterladen</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Herunterladen</a></td> 
-  </tr> 
-  <tr> 
-   <td><span class="dnl">Outlook</span> für Mac</td> 
-   <td>Nicht unterstützt</td> 
-   <td>Nicht unterstützt</td> 
-   <td>Nicht unterstützt</td> 
-   <td>Nicht unterstützt</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><span class="dnl">Outlook</span> Web-App</td> 
-   <td colspan="1">Nicht unterstützt</td> 
-   <td colspan="1">Nicht unterstützt</td> 
-   <td colspan="1">Nicht unterstützt</td> 
-   <td colspan="1">Nicht unterstützt</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><span class="dnl">Office</span> 365*</td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Herunterladen</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Herunterladen</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Herunterladen</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Herunterladen</a></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <th><br></th>
+   <th colspan="2">Installation der Einladung für einen Benutzer</th>
+   <th colspan="2">Installation des Unternehmensschlüssels</th>
+  </tr>
+  <tr>
+   <td><strong><span class="dnl">Outlook</span>-Version</strong></td>
+   <td><strong>32-Bit</strong></td>
+   <td><strong>64-Bit</strong></td>
+   <td><strong>32-Bit</strong></td>
+   <td><strong>64-Bit</strong></td>
+  </tr>
+  <tr>
+   <td><span class="dnl">Outlook</span> 2000</td>
+   <td>Nicht unterstützt</td>
+   <td>Nicht zutreffend</td>
+   <td>Nicht unterstützt</td>
+   <td>Nicht zutreffend</td>
+  </tr>
+  <tr>
+   <td><span class="dnl">Outlook 2003</span></td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Herunterladen</a></td>
+   <td>Nicht zutreffend</td>
+   <td>Nicht unterstützt</td>
+   <td>Nicht zutreffend</td>
+  </tr>
+  <tr>
+   <td><span class="dnl">Ausblick</span> 2007</td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Herunterladen</a></td>
+   <td>Nicht zutreffend</td>
+   <td>Nicht unterstützt</td>
+   <td>Nicht zutreffend</td>
+  </tr>
+  <tr>
+   <td><span class="dnl">Ausblick</span> 2010</td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Herunterladen</a></td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Herunterladen</a></td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Herunterladen</a></td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Herunterladen</a></td>
+  </tr>
+  <tr>
+   <td><span class="dnl">Ausblick</span> 2013</td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Herunterladen</a></td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Herunterladen</a></td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Herunterladen</a></td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Herunterladen</a></td>
+  </tr>
+  <tr>
+   <td><span class="dnl">Ausblick</span> 2016</td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Herunterladen</a></td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Herunterladen</a></td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Herunterladen</a></td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Herunterladen</a></td>
+  </tr>
+  <tr>
+   <td colspan="1"><span class="dnl">Ausblick</span> 2019</td>
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Herunterladen</a></td>
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Herunterladen</a></td>
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Herunterladen</a></td>
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Herunterladen</a></td>
+  </tr>
+  <tr>
+   <td><span class="dnl">Outlook</span> für Mac</td>
+   <td>Nicht unterstützt</td>
+   <td>Nicht unterstützt</td>
+   <td>Nicht unterstützt</td>
+   <td>Nicht unterstützt</td>
+  </tr>
+  <tr>
+   <td colspan="1"><span class="dnl">Outlook</span> Web-App</td>
+   <td colspan="1">Nicht unterstützt</td>
+   <td colspan="1">Nicht unterstützt</td>
+   <td colspan="1">Nicht unterstützt</td>
+   <td colspan="1">Nicht unterstützt</td>
+  </tr>
+  <tr>
+   <td colspan="1"><span class="dnl">Office</span> 365*</td>
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Herunterladen</a></td>
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Herunterladen</a></td>
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Herunterladen</a></td>
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Herunterladen</a></td>
+  </tr>
+ </tbody>
 </table>
 
 &#42;Office 365-Version: Nur Windows-Client (unter Windows 10, Windows 11, Enterprise oder Pro).

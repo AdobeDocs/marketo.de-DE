@@ -4,7 +4,7 @@ description: Erstellen einer Freiform-Landingpage-Vorlage - Marketo-Dokumente - 
 title: Erstellen einer Freiform-Landingpage-Vorlage
 exl-id: bf633c86-6087-44bf-aaa2-63173154f0aa
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
@@ -43,7 +43,7 @@ Freiform-Landingpages erfordern weniger technisches Wissen als deren geführte G
 
    >[!NOTE]
    >
-   >Wählen Sie **[!UICONTROL Munchkin-Tracking deaktivieren]** aus, wenn Sie verhindern möchten, dass Formulare vorab ausgefüllt werden, oder wenn Sie nur das Webverhalten auf einer bestimmten Seite nicht verfolgen möchten.\
+   >Wählen Sie **[!UICONTROL Munchkin-Tracking deaktivieren]** aus, wenn Sie verhindern möchten, dass Formulare vorab ausgefüllt werden, oder wenn Sie nur das Webverhalten auf einer bestimmten Seite nicht verfolgen möchten.
    >Wählen Sie **[!UICONTROL Kompatibilität für Mobilgeräte überprüfen]**, um sicherzustellen, dass Ihr Code mit Mobilgeräten kompatibel ist.
 
    >[!MORELIKETHIS]

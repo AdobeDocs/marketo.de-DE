@@ -3,7 +3,7 @@ description: Übersicht über die Programmimportbibliothek - Marketo-Dokumente -
 title: Übersicht über die Programm-Importbibliothek
 feature: Programs
 exl-id: 1e754eed-b5e7-419f-a786-2bc9cbd1d21f
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Die Marketo Engage-Referenzbibliothek enthält mehrere Startprogramme, die Sie direkt in Ihre Marketo-Instanz importieren können, um die Erstellung von Programmen zu beschleunigen, die Ihr Team unterstützen.
 
-Die Bibliothek enthält Programme wie E-Mail, Interaktion, Ereignis, Bewertung, Zustellbarkeit und operative Programme. Alle Programme wurden vom Adobe Product Team entwickelt und von unserem [global Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}-Team auf Qualität und Effektivität hin geprüft.
+Die Bibliothek enthält Programme wie E-Mail, Interaktion, Ereignis, Bewertung, Zustellbarkeit und operative Programme. Alle Programme wurden vom Adobe Product Team entwickelt und von unserem [Global Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}-Team im Hinblick auf die Maximierung von Qualität und Effektivität geprüft.
 
 ## Verfügbare Programmbeispiele {#available-program-examples}
 

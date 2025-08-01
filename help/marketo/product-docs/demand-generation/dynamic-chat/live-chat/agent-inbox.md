@@ -3,7 +3,7 @@ description: Agent-Posteingang - Marketo-Dokumente - Produktdokumentation
 title: Agenten-Posteingang
 feature: Dynamic Chat
 exl-id: 65f13879-36d2-4a23-a029-271f5aea1229
-source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '550'
 ht-degree: 2%
@@ -60,7 +60,7 @@ Agenten können eine Sitzung manuell beenden, indem sie einfach auf die Schaltfl
 
 >[!NOTE]
 >
->Diese Funktion ist Teil der generativen KI, die über das Dynamic Chat-Prime-Abonnement verfügbar ist. Weitere Informationen erhalten Sie beim Adobe Account Team (Ihrem Account Manager).
+>Diese Funktion ist Teil der generativen KI, die über das Dynamic Chat Prime-Abonnement verfügbar ist. Weitere Informationen erhalten Sie beim Adobe Account Team (Ihrem Account Manager).
 
 Shortcuts, unterstützt durch die generative AI [Response Library](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md), sind eine hervorragende Möglichkeit, während des Chats mit einem Besucher schnell Hilfe zu erhalten. Geben Sie einfach einen Schrägstrich (`/`) in das Textfeld ein und wählen Sie `ask` oder `search`.
 
@@ -120,7 +120,7 @@ Am unteren Rand des Live-Chat-Fensters befindet sich ein Symbol, mit dem Sie den
 
 >[!NOTE]
 >
->Diese Funktion ist Teil der generativen KI, die über das Dynamic Chat-Prime-Abonnement verfügbar ist. Weitere Informationen erhalten Sie beim Adobe Account Team (Ihrem Account Manager).
+>Diese Funktion ist Teil der generativen KI, die über das Dynamic Chat Prime-Abonnement verfügbar ist. Weitere Informationen erhalten Sie beim Adobe Account Team (Ihrem Account Manager).
 
 Konversationszusammenfassung generiert eine schnelle Zusammenfassung für Sie in Echtzeit, einschließlich Themen, an denen der Besucher Interesse gezeigt hat. Er ist in der rechten unteren Ecke jedes Chatbildschirms verfügbar.
 
@@ -128,4 +128,4 @@ Konversationszusammenfassung generiert eine schnelle Zusammenfassung für Sie in
 
 >[!NOTE]
 >
->Eine fertige Zusammenfassung der Unterhaltung finden Sie auch im Aktivitätsprotokoll des Personendatensatzes des Besuchers in Ihrer Marketo Engage-Datenbank.
+>Eine abgeschlossene Zusammenfassung einer Konversation finden Sie auch im Aktivitätsprotokoll des Personendatensatzes des Besuchers in Ihrer Marketo Engage-Datenbank.

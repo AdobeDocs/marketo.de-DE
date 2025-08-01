@@ -4,7 +4,7 @@ description: Verwalten von Personendaten - Marketo-Dokumente - Produktdokumentat
 title: Verwalten von Personendaten
 exl-id: 40f4aac8-c6e5-4cf3-9573-cac2fdf9bcad
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 23%
@@ -49,54 +49,54 @@ Nutzen Sie Personendaten für die [!DNL Web Personalization], indem Sie die in I
    >* Die maximal zulässige Länge der String-Typen ist 255 Zeichen
    >* Ausgeblendete Felder werden automatisch entfernt
 
-<table> 
- <tbody> 
-  <tr> 
-   <th><p>REST-API-Name</p></th> 
-   <th><p>SOAP-API-Name</p></th> 
-   <th><p>Anzeigename</p></th> 
-  </tr> 
-  <tr> 
-   <td><p>Abteilung</p></td> 
-   <td><p>Abteilung</p></td> 
-   <td><p>Abteilung</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>Titel</p></td> 
-   <td><p>Titel</p></td> 
-   <td><p>Jobtitel</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>Bewertung</p></td> 
-   <td><p>Rating</p></td> 
-   <td><p>Rating</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>LeadScore</p></td> 
-   <td><p>LeadScore</p></td> 
-   <td><p>Ergebnis</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>leadStatus</p></td> 
-   <td><p>LeadStatus</p></td> 
-   <td><p>Status</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>Priorität</p></td> 
-   <td><p>Priorität</p></td> 
-   <td><p>Priorität</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>leadRole</p></td> 
-   <td><p>LeadRole</p></td> 
-   <td><p>Rolle</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>Abgemeldet</p></td> 
-   <td><p>Abbestellt</p></td> 
-   <td><p>Abbestellt</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th><p>REST-API-Name</p></th>
+   <th><p>SOAP-API-Name</p></th>
+   <th><p>Anzeigename</p></th>
+  </tr>
+  <tr>
+   <td><p>Abteilung</p></td>
+   <td><p>Abteilung</p></td>
+   <td><p>Abteilung</p></td>
+  </tr>
+  <tr>
+   <td><p>Titel</p></td>
+   <td><p>Titel</p></td>
+   <td><p>Jobtitel</p></td>
+  </tr>
+  <tr>
+   <td><p>Bewertung</p></td>
+   <td><p>Rating</p></td>
+   <td><p>Rating</p></td>
+  </tr>
+  <tr>
+   <td><p>LeadScore</p></td>
+   <td><p>LeadScore</p></td>
+   <td><p>Ergebnis</p></td>
+  </tr>
+  <tr>
+   <td><p>leadStatus</p></td>
+   <td><p>LeadStatus</p></td>
+   <td><p>Status</p></td>
+  </tr>
+  <tr>
+   <td><p>Priorität</p></td>
+   <td><p>Priorität</p></td>
+   <td><p>Priorität</p></td>
+  </tr>
+  <tr>
+   <td><p>leadRole</p></td>
+   <td><p>LeadRole</p></td>
+   <td><p>Rolle</p></td>
+  </tr>
+  <tr>
+   <td><p>Abgemeldet</p></td>
+   <td><p>Abbestellt</p></td>
+   <td><p>Abbestellt</p></td>
+  </tr>
+ </tbody>
 </table>
 
 Die folgenden Lead-Felder sind für neue [!DNL Web Personalization]-Konten standardmäßig bereitgestellt:

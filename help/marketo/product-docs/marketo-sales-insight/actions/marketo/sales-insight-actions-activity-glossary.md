@@ -3,7 +3,7 @@ description: Glossar der Aktionsaktivitäten im Vertrieb von Insight - Marketo-D
 title: Glossar der Sales Insight-Aktionsaktivitäten
 exl-id: fd0f632c-6f0d-49f9-a805-0730595c81fd
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '597'
 ht-degree: 4%
@@ -216,96 +216,96 @@ Die folgenden Aktivitäten werden von [!DNL Sales Insight Actions] an Marketo pr
 
 ## Beschreibungen {#descriptions}
 
-<table> 
+<table>
  <tr>
   <th>Attribut</th>
   <th>Beschreibung</th>
  </tr>
- <tbody> 
- <tr> 
-   <td><strong>[!UICONTROL Details]</strong></td> 
-   <td>Details der Bounce-Fehlermeldung.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL E-Mail]</strong></td> 
-   <td>E-Mail-Adresse, die zurückkam.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Link]</strong></td> 
-   <td>Angeklickte URL.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Marketo Vertriebspersonen-ID]</strong></td> 
-   <td>Eindeutige ID für Personendatensatz in [!DNL Sales Insight Actions].</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL empfangen von]</strong></td> 
-   <td>E-Mail-Adresse des Absenders der E-Mail.</td> 
+ <tbody>
+ <tr>
+   <td><strong>[!UICONTROL Details]</strong></td>
+   <td>Details der Bounce-Fehlermeldung.</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL Verkaufsanruf beantwortet von]</strong></td> 
-   <td>Name der Person, die den Anruf entgegengenommen hat.</td> 
+  <tr>
+   <td><strong>[!UICONTROL E-Mail]</strong></td>
+   <td>E-Mail-Adresse, die zurückkam.</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL Dauer der Verkaufsanrufe]</strong></td> 
-   <td>Länge des Aufrufs in Sekunden.</td> 
+  <tr>
+   <td><strong>[!UICONTROL Link]</strong></td>
+   <td>Angeklickte URL.</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL Verkaufsaufruf von]</strong></td> 
-   <td>E-Mail-Adresse des Verkäufers, der den Anruf getätigt hat.</td> 
+  <tr>
+   <td><strong>[!UICONTROL Marketo Vertriebspersonen-ID]</strong></td>
+   <td>Eindeutige ID für Personendatensatz in [!DNL Sales Insight Actions].</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL URL zur Aufzeichnung von Verkaufsanrufen]</strong></td> 
-   <td>URL der Anrufaufzeichnung.</td> 
+  <tr>
+   <td><strong>[!UICONTROL empfangen von]</strong></td>
+   <td>E-Mail-Adresse des Absenders der E-Mail.</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL Verkaufsanrufstatus]</strong></td> 
-   <td>Speichert den endgültigen Anrufstatus des Anrufs, der Folgendes umfasst: Abgeschlossen, keine Antwort, Abgebrochen, Fehlgeschlagen.</td> 
+  <tr>
+   <td><strong>[!UICONTROL Verkaufsanruf beantwortet von]</strong></td>
+   <td>Name der Person, die den Anruf entgegengenommen hat.</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL Verkaufs-Anrufbetreff]</strong></td> 
-   <td>Anrufergebnis, das von einem Verkaufsbenutzer in der Wählhilfe ausgewählt wird.</td> 
+  <tr>
+   <td><strong>[!UICONTROL Dauer der Verkaufsanrufe]</strong></td>
+   <td>Länge des Aufrufs in Sekunden.</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL Vertriebskampagnen-ID]</strong></td> 
-   <td>Eindeutige ID für Verkaufskampagnen-Asset in [!DNL Sales Insight Actions].</td> 
+  <tr>
+   <td><strong>[!UICONTROL Verkaufsaufruf von]</strong></td>
+   <td>E-Mail-Adresse des Verkäufers, der den Anruf getätigt hat.</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL Name der Verkaufskampagne]</strong></td> 
-   <td>Name der Verkaufskampagne.</td> 
+  <tr>
+   <td><strong>[!UICONTROL URL zur Aufzeichnung von Verkaufsanrufen]</strong></td>
+   <td>URL der Anrufaufzeichnung.</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL Verkaufskampagnen-URL]</strong></td> 
-   <td>[!DNL Sales Insight Actions] URL für die Verkaufskampagne.</td> 
+  <tr>
+   <td><strong>[!UICONTROL Verkaufsanrufstatus]</strong></td>
+   <td>Speichert den endgültigen Anrufstatus des Anrufs, der Folgendes umfasst: Abgeschlossen, keine Antwort, Abgebrochen, Fehlgeschlagen.</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL E-Mail-Betreff für Verkauf]</strong></td> 
-   <td>Betreffzeile der E-Mail, gefolgt von einer eindeutigen ID (z. B.: Meine Betreffzeile (SIA-12345678)</td> 
+  <tr>
+   <td><strong>[!UICONTROL Verkaufs-Anrufbetreff]</strong></td>
+   <td>Anrufergebnis, das von einem Verkaufsbenutzer in der Wählhilfe ausgewählt wird.</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL Telefonnummer des Verkaufs aufgerufen]</strong></td> 
-   <td>Telefonnummer, die vom Vertrieb angerufen wurde.</td> 
+  <tr>
+   <td><strong>[!UICONTROL Vertriebskampagnen-ID]</strong></td>
+   <td>Eindeutige ID für Verkaufskampagnen-Asset in [!DNL Sales Insight Actions].</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL Name der Verkaufsvorlage]</strong></td> 
-   <td>Name der E-Mail-Vorlage in [!DNL Sales Insight Actions].</td> 
+  <tr>
+   <td><strong>[!UICONTROL Name der Verkaufskampagne]</strong></td>
+   <td>Name der Verkaufskampagne.</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL URL der Verkaufsvorlage]</strong></td> 
-   <td>[!DNL Sales Insight Actions] URL für E-Mail-Vorlage.</td> 
+  <tr>
+   <td><strong>[!UICONTROL Verkaufskampagnen-URL]</strong></td>
+   <td>[!DNL Sales Insight Actions] URL für die Verkaufskampagne.</td>
   </tr>
-  <tr> 
+  <tr>
+   <td><strong>[!UICONTROL E-Mail-Betreff für Verkauf]</strong></td>
+   <td>Betreffzeile der E-Mail, gefolgt von einer eindeutigen ID (z. B.: Meine Betreffzeile (SIA-12345678)</td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Telefonnummer des Verkaufs aufgerufen]</strong></td>
+   <td>Telefonnummer, die vom Vertrieb angerufen wurde.</td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Name der Verkaufsvorlage]</strong></td>
+   <td>Name der E-Mail-Vorlage in [!DNL Sales Insight Actions].</td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL URL der Verkaufsvorlage]</strong></td>
+   <td>[!DNL Sales Insight Actions] URL für E-Mail-Vorlage.</td>
+  </tr>
+  <tr>
    <td><strong>[!UICONTROL gesendet von]</strong></td>
-   <td>E-Mail-Adresse des Absenders der E-Mail.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>Quelle</strong></td> 
+   <td>E-Mail-Adresse des Absenders der E-Mail.</td>
+  </tr>
+  <tr>
+   <td><strong>Quelle</strong></td>
    <td>Source der Aktivität. Wird für [!DNL Sales Insight Actions] Aktivitäten vor der Version vom Oktober 2021 als „Tout“ festgelegt. Wird nach der Version vom Oktober 2021 die „Sales App“ für [!DNL Sales Insight Actions] Aktivitäten sein.</td>
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Vorlagenkennung]</strong></td> 
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Vorlagenkennung]</strong></td>
    <td>Wenn die Quelle Tout ist, ist die Vorlagen-ID die [!DNL Marketo Sales Insight Actions] Vorlagen-ID. Verwenden Sie diese Option, um eine bestimmte Vorlage anstelle der Betreffzeile auszuwählen, die in mehreren Vorlagen vorhanden sein könnte.
-</td> 
-  </tr> 
- </tbody> 
+</td>
+  </tr>
+ </tbody>
 </table>

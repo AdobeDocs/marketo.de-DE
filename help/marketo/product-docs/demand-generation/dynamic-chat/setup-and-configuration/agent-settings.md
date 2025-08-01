@@ -3,7 +3,7 @@ description: Agenteneinstellungen - Marketo-Dokumente - Produktdokumentation
 title: Agenteneinstellungen
 feature: Dynamic Chat
 exl-id: a782ef9b-6a89-448a-8bd9-f127ceea3bf5
-source-git-commit: 8cc63658ddd0e5b6343dc690d4009d4466250998
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '605'
 ht-degree: 1%
@@ -63,17 +63,17 @@ Legen Sie Ihre Zeitzone und Zeit/Wochentag-Verfügbarkeit fest, um Besprechungsb
 
 ![](assets/agent-settings-4.png)
 
-<table> 
- <tbody> 
-  <tr> 
+<table>
+ <tbody>
+  <tr>
    <td><b>Meeting-Dauer</b></td>
    <td>Legt fest, wie lange Besucherinnen und Besucher in Ihren verfügbaren Meeting-Slots sehen werden.</td>
-  </tr> 
-  <tr> 
+  </tr>
+  <tr>
    <td><b>Pufferzeit zwischen Meetings</b></td>
    <td>Die Zeit, die Sie als Puffer für nach dem Meeting festlegen. Wenn Sie die Dauer auf 30 Minuten festlegen, kann bis 30 Minuten nach dem geplanten Ende einer Besprechung in Ihrem Kalender niemand eine Besprechung mit Ihnen buchen.</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 >[!TIP]

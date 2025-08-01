@@ -1,22 +1,22 @@
 ---
 description: Gesprächsflusseinstellungen für Marketo Engage Forms - Marketo-Dokumente - Produktdokumentation
-title: Konversationsflusseinstellungen für Marketo Engage Forms
+title: Gesprächsflusseinstellungen für Marketo Engage Forms
 feature: Dynamic Chat
 exl-id: 36d00862-4bb9-46fd-a5f8-69df7bf22ecf
-source-git-commit: d65903d64d068a6f919df78258654414f3b76426
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '285'
 ht-degree: 0%
 
 ---
 
-# Konversationsflusseinstellungen für Marketo Engage Forms{#conversational-flow-settings-for-marketo-engage-forms}
+# Gesprächsflusseinstellungen für Marketo Engage Forms{#conversational-flow-settings-for-marketo-engage-forms}
 
-Machen Sie Marketo Engage Forms gesprächig, indem Sie sie mit Dynamic Chat Conversational Flows integrieren. Qualifizieren Sie Leads sofort mithilfe von Formulardaten oder der Smart-List-Mitgliedschaft für Besprechungsbuchungen, Whitepaper-Links oder benutzerdefinierte Ziele.
+Gestalten Sie die Konversation mit Marketo Engage Forms durch Integration mit Dynamic Chat Conversational Flows. Qualifizieren Sie Leads sofort mithilfe von Formulardaten oder der Smart-List-Mitgliedschaft für Besprechungsbuchungen, Whitepaper-Links oder benutzerdefinierte Ziele.
 
 >[!AVAILABILITY]
 >
->Für die Kriterien Mitglied der Smart-Liste oder Mitglied der Liste ist das Dynamic Chat von Prime erforderlich. Weitere Informationen erhalten Sie beim Adobe Account Team (Ihrem Account Manager).
+>Für die Kriterien „Mitglied der Smart-Liste“ oder „Mitglied der Liste“ ist Dynamic Chat Prime erforderlich. Weitere Informationen erhalten Sie beim Adobe Account Team (Ihrem Account Manager).
 
 1. Suchen und wählen Sie Ihr Formular aus (oder erstellen Sie ein neues).
 
@@ -54,7 +54,7 @@ Machen Sie Marketo Engage Forms gesprächig, indem Sie sie mit Dynamic Chat Conv
    >
    >Der Browser des Besuchers muss vor der Formularübermittlung als bekannte Person Cookies erhalten, um sich für ein Mitglied der statischen/intelligenten Liste zu qualifizieren.
 
-   **OPTIONALER SCHRITT**: Klicken Sie in jedem Schritt auf das **+**, um weitere Attribute hinzuzufügen, sodass Sie Ihre Audience eingrenzen können (die verfügbaren Attribute sind die Felder, die Sie für das Formular ausgewählt haben). In diesem Beispiel wollen wir technische Adobe-Autoren in Kalifornien.
+   **OPTIONALER SCHRITT**: Klicken Sie in jedem Schritt auf das **+**, um weitere Attribute hinzuzufügen, sodass Sie Ihre Audience eingrenzen können (die verfügbaren Attribute sind die Felder, die Sie für das Formular ausgewählt haben). In diesem Beispiel zielen wir auf technische Adobe-Autoren in Kalifornien ab.
 
    ![](assets/conversational-flow-settings-8.png)
 

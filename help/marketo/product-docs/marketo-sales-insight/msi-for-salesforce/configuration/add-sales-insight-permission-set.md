@@ -3,7 +3,7 @@ description: Sales Insight-Berechtigungssatz hinzufügen - Marketo-Dokumente - P
 title: Sales Insight-Berechtigungssatz hinzufügen
 exl-id: b93ddf2e-0f7b-41e0-ba88-7363f5e34970
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '349'
 ht-degree: 2%
@@ -28,53 +28,53 @@ Die Berechtigung &quot;Marketo-App“ ist Teil des [!DNL Sales Insight]-[!DNL Sa
 
 **Objekteinstellungen**
 
-<table> 
- <tbody> 
- <tr> 
-   <td>BestBetsCache</td> 
-   <td>Lesen, Erstellen, Bearbeiten, Löschen, Alle anzeigen, Alle ändern</td> 
-  </tr> 
-  <tr> 
-   <td>Details zur Ansicht mit vielversprechenden Kontakten</td> 
-   <td>Lesen, Erstellen, Bearbeiten, Löschen, Alle anzeigen, Alle ändern</td> 
-  </tr> 
-  <tr> 
-   <td>Beste Ansichten</td> 
-   <td>Lesen, Erstellen, Bearbeiten, Löschen, Alle anzeigen, Alle ändern</td> 
-  </tr> 
-  <tr> 
-   <td>EmailActivityCache</td> 
-   <td>Lesen, Erstellen, Bearbeiten, Löschen, Alle anzeigen, Alle ändern</td> 
-  </tr> 
-  <tr> 
-   <td>GetMethodArgus</td> 
-   <td>Lesen, Erstellen, Bearbeiten, Löschen, Alle anzeigen, Alle ändern</td> 
-  </tr> 
-  <tr> 
-   <td>GroupedWebActivityCache</td> 
-   <td>Lesen, Erstellen, Bearbeiten, Löschen, Alle anzeigen, Alle ändern</td> 
-  </tr> 
-  <tr> 
-   <td>InterestingMomentsCache</td> 
-   <td>Lesen, Erstellen, Bearbeiten, Löschen, Alle anzeigen, Alle ändern</td> 
-  </tr> 
-  <tr> 
-   <td>Marketo [!DNL Sales Insight] Config</td> 
-   <td>Lesen, Erstellen, Bearbeiten, Löschen, Alle anzeigen, Alle ändern</td> 
-  </tr> 
-  <tr> 
-   <td>Scoring-Cache</td> 
-   <td>Lesen, Erstellen, Bearbeiten, Löschen, Alle anzeigen, Alle ändern</td> 
-  </tr> 
-  <tr> 
-   <td>Werte</td> 
-   <td>Lesen, Erstellen, Bearbeiten, Löschen, Alle anzeigen, Alle ändern</td> 
-  </tr> 
-  <tr> 
-   <td>WebActivityCache</td> 
-   <td>Lesen, Erstellen, Bearbeiten, Löschen, Alle anzeigen, Alle ändern</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+ <tr>
+   <td>BestBetsCache</td>
+   <td>Lesen, Erstellen, Bearbeiten, Löschen, Alle anzeigen, Alle ändern</td>
+  </tr>
+  <tr>
+   <td>Details zur Ansicht mit vielversprechenden Kontakten</td>
+   <td>Lesen, Erstellen, Bearbeiten, Löschen, Alle anzeigen, Alle ändern</td>
+  </tr>
+  <tr>
+   <td>Beste Ansichten</td>
+   <td>Lesen, Erstellen, Bearbeiten, Löschen, Alle anzeigen, Alle ändern</td>
+  </tr>
+  <tr>
+   <td>EmailActivityCache</td>
+   <td>Lesen, Erstellen, Bearbeiten, Löschen, Alle anzeigen, Alle ändern</td>
+  </tr>
+  <tr>
+   <td>GetMethodArgus</td>
+   <td>Lesen, Erstellen, Bearbeiten, Löschen, Alle anzeigen, Alle ändern</td>
+  </tr>
+  <tr>
+   <td>GroupedWebActivityCache</td>
+   <td>Lesen, Erstellen, Bearbeiten, Löschen, Alle anzeigen, Alle ändern</td>
+  </tr>
+  <tr>
+   <td>InterestingMomentsCache</td>
+   <td>Lesen, Erstellen, Bearbeiten, Löschen, Alle anzeigen, Alle ändern</td>
+  </tr>
+  <tr>
+   <td>Marketo [!DNL Sales Insight] Config</td>
+   <td>Lesen, Erstellen, Bearbeiten, Löschen, Alle anzeigen, Alle ändern</td>
+  </tr>
+  <tr>
+   <td>Scoring-Cache</td>
+   <td>Lesen, Erstellen, Bearbeiten, Löschen, Alle anzeigen, Alle ändern</td>
+  </tr>
+  <tr>
+   <td>Werte</td>
+   <td>Lesen, Erstellen, Bearbeiten, Löschen, Alle anzeigen, Alle ändern</td>
+  </tr>
+  <tr>
+   <td>WebActivityCache</td>
+   <td>Lesen, Erstellen, Bearbeiten, Löschen, Alle anzeigen, Alle ändern</td>
+  </tr>
+ </tbody>
 </table>
 
 * Apex Class Access: 159 Apex-Klassen, die mit „mkto_si“ beginnen

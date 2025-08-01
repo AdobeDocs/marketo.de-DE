@@ -4,10 +4,10 @@ short-description: Sie beginnen gerade erst mit Adobe Marketo Engage? Erfahren S
 title: Einrichtungsschritte
 feature: Getting Started
 exl-id: 5f37da48-b2ed-4e48-a5a2-429149745085
-source-git-commit: 7b64e6e9bbd282b1e27f4c9c862df07642e9a35b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '1705'
-ht-degree: 1%
+source-wordcount: '1688'
+ht-degree: 2%
 
 ---
 
@@ -147,7 +147,6 @@ Unser Marketing-Team nutzt jetzt die Marketo-Plattform, um mit unseren Mitarbeit
 auf die Zulassungsliste setzen `3)` Marketo.
 
     * Wenn wir IP-Adressen in unserer E-Mail-Zulassungsliste verwenden, fügen Sie die unten aufgeführten IPs hinzu:
-
     199.15.212.0/22
     
     192.28.144.0/20
@@ -188,9 +187,9 @@ include:mktomail.com
 
 `b.` Für DKIM erstellen Sie DNS-Ressourceneinträge für jede Domain, die wir einrichten möchten. Nachfolgend finden Sie die Host-Einträge und TXT-Werte für jede Domain, die wir signieren werden:
 
-**`[DKIMDomain1]`**: Hosteintrag ist **`[HostRecord1]`** und der TXT-Wert ist **`[TXTValue1]`**.
+**`[DKIMDomain1]`**: Der Host-Eintrag lautet **`[HostRecord1]`** und der TXT-Wert **`[TXTValue1]`**.
 
-**`[DKIMDomain2]`**: Hosteintrag ist **`[HostRecord2]`** und der TXT-Wert ist **`[TXTValue2]`**.
+**`[DKIMDomain2]`**: Der Host-Eintrag lautet **`[HostRecord2]`** und der TXT-Wert **`[TXTValue2]`**.
 
 `[`Kopieren Sie **HostRecord** und **TXTValue** für jede **DKIMDomain**, die Sie eingerichtet haben, nachdem Sie den [Anweisungen hier](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md). Vergessen Sie nicht, jede Domain unter **Admin > E-Mail > DKIM** zu überprüfen, nachdem Ihr IT-Personal diesen Schritt abgeschlossen hat.`]`
 
@@ -206,7 +205,7 @@ Mit freundlichen Grüßen
 
 `----------------------------------------------`
 
-Senden Sie die E-Mail an IT. Uns ist bewusst, dass es einige Zeit dauern kann, bis die IT diese Aufgaben erledigt. Sie können mit dem nächsten Schritt fortfahren, aber denken Sie daran, dass Sie zu diesem Schritt zurückkehren müssen, um Ihre Marketo Engage-Einrichtung abzuschließen.
+Senden Sie die E-Mail an IT. Uns ist bewusst, dass es einige Zeit dauern kann, bis die IT diese Aufgaben erledigt. Sie können mit dem nächsten Schritt fortfahren, aber denken Sie daran, zu diesem Schritt zurückzukehren, um Ihre Marketo Engage-Einrichtung abzuschließen.
 
 ## Marketo-Setup abschließen, nachdem es abgeschlossen ist {#complete-your-marketo-setup-after-it-finishes}
 
@@ -267,14 +266,14 @@ Marketo Engage verfügt über eine benutzerdefinierte Tracking-JavaScript ([!DNL
 
 >[!NOTE]
 >
->Erfahrung mit HTML ist erforderlich, um den Trackingcode hinzuzufügen.
+>Um den Trackingcode hinzuzufügen, sind Kenntnisse in HTML erforderlich.
 
 ## Leistungserwartungen {#performance-expectations}
 
-Was können Sie von Marketo in puncto Leistung erwarten? Er kann je nach Größe und Komplexität Ihrer Marketing-Kampagnen variieren. Sie können jedoch Leistungsstufen erwarten, die den Werten in der Spalte „Standard“ in mehreren Tabellen in der [Marketo Engage-Produktbeschreibung entsprechen](https://helpx.adobe.com/de/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. Die Spalten „Performance“ und „Performance Plus“ beziehen sich auf Leistungspakete, die [höhere Leistungsstufen“ ](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
+Was können Sie von Marketo in puncto Leistung erwarten? Er kann je nach Größe und Komplexität Ihrer Marketing-Kampagnen variieren. Sie können jedoch Leistungsstufen erwarten, die den Werten in der Spalte „Standard“ in mehreren Tabellen in der [Marketo Engage-Produktbeschreibung entsprechen](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. Die Spalten „Performance“ und „Performance Plus“ beziehen sich auf Leistungspakete, die [höhere Leistungsstufen“ ](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->* [Konfigurieren von Protokollen für das Marketo Engage](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md)
+>* [Konfigurieren von Protokollen für Marketo Engage](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md)
 >
 >* [Benutzereinrichtung](/help/marketo/getting-started/initial-setup/user-setup.md)

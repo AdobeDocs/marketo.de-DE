@@ -3,7 +3,7 @@ description: April 2024 - Versionshinweise zu Marketo - Produktdokumentation
 title: Versionshinweise – April 2024
 feature: Release Information
 exl-id: d87474f8-fc47-407b-bc97-e343b56c1f8f
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '447'
 ht-degree: 9%
@@ -18,43 +18,43 @@ Die Versionshinweise speziell für Adobe Dynamic Chat [finden Sie hier](/help/ma
 
 >[!AVAILABILITY]
 >
->Mit einem Stern (![star](assets/yellow-star.png) gekennzeichnete Funktionen sind kostenpflichtige Add-ons. Weitere Informationen erhalten Sie von Ihrem Marketo Engage-Support-Mitarbeiter.
+>Mit einem Stern (![star](assets/yellow-star.png) gekennzeichnete Funktionen sind kostenpflichtige Add-ons. Weitere Informationen erhalten Sie vom Marketo Engage-Support.
 
 ## Standardfunktionen des Veröffentlichungszyklus {#standard-release-cycle-features}
 
 Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszyklus und werden ab dem 26. **2024 veröffentlicht** wobei die verbleibenden Funktionen in den folgenden Wochen schrittweise bereitgestellt werden. Veröffentlichungsfunktionen und -daten können sich ändern. Überprüfen Sie neben jeder Funktion auf ihren Status.
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th style="width:65%">Funktion</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th style="width:65%">Funktion</th>
    <th style="width:10%">Status</th>
    <th style="width:25%">Dokumentation</th>
   </tr>
-     <tr> 
-   <td><strong>Verbesserungen bei interaktiven Webinaren</strong>: Sie können jetzt Hosts und Moderatoren die Möglichkeit geben, einen Webinar-Titel hinzuzufügen, einen Raum umzubenennen und Interaktionsdaten nach dem Versand des Ereignisses manuell zu synchronisieren.</td> 
+     <tr>
+   <td><strong>Verbesserungen bei interaktiven Webinaren</strong>: Sie können jetzt Hosts und Moderatoren die Möglichkeit geben, einen Webinar-Titel hinzuzufügen, einen Raum umzubenennen und Interaktionsdaten nach dem Versand des Ereignisses manuell zu synchronisieren.</td>
    <td>Versendet</td>
    <td><li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md">Erstellen eines interaktiven Webinars</a></li>
    <li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md#manual-sync">Manuelle Synchronisierung</a></li></td>
   </tr>
-  <tr> 
-   <td> </td> 
+  <tr>
+   <td> </td>
    <td> </td>
    <td> </td>
   </tr>
-    <tr> 
-   <td><strong>Verbesserungen am Audit-Protokoll</strong>: 
-   Neue Aktionstypen können jetzt im Audit-Protokoll erfasst werden. Dies betrifft Änderungen im Feld-Management, Änderungen an Benutzenden und Rollen sowie die Anzahl der aus Listen und Smart Lists exportierten Personen.</td> 
+    <tr>
+   <td><strong>Verbesserungen am Audit-Protokoll</strong>:
+   Neue Aktionstypen können jetzt im Audit-Protokoll erfasst werden. Dies betrifft Änderungen im Feld-Management, Änderungen an Benutzenden und Rollen sowie die Anzahl der aus Listen und Smart Lists exportierten Personen.</td>
    <td><i>Demnächst verfügbar</i></td>
    <td><i>Demnächst verfügbar</i></td>
   </tr>
-  <tr> 
-   <td> </td> 
+  <tr>
+   <td> </td>
    <td> </td>
    <td> </td>
   </tr>
-    <tr> 
-   <td><strong>Berechtigungen für neue Benutzende und Rollen</strong>: Neue Berechtigungen sind verfügbar, die Benutzenden einen granulareren Zugriff auf Marketo Engage ermöglichen. Steuern Sie Teile von Admin, die zuvor nicht kategorisiert wurden, z. B. „Neues Erlebnis“ und „Prädiktive Zielgruppen“, teilen Sie die Berechtigungen auf, um Zugriff auf das Asset-Audit-Protokoll und das Admin-Audit-Protokoll separat zu gewähren, und verwenden Sie neue Berechtigungen zum Erstellen und Verschieben von Assets und Ordnern, um zu verhindern, dass schreibgeschützte Benutzer Änderungen vornehmen. 
+    <tr>
+   <td><strong>Berechtigungen für neue Benutzer und Rollen</strong>: Neue Berechtigungen sind verfügbar, die Benutzenden einen granulareren Zugriff auf Marketo Engage bieten. Steuern Sie Teile von Admin, die zuvor nicht kategorisiert wurden, z. B. „Neues Erlebnis“ und „Prädiktive Zielgruppen“, teilen Sie die Berechtigungen auf, um Zugriff auf das Asset-Audit-Protokoll und das Admin-Audit-Protokoll separat zu gewähren, und verwenden Sie neue Berechtigungen zum Erstellen und Verschieben von Assets und Ordnern, um zu verhindern, dass schreibgeschützte Benutzer Änderungen vornehmen.
    <p>Die neuen Berechtigungen werden zwar ab dem 26. April in Ihrer Marketo Engage-Instanz angezeigt, sind aber vorerst passiv und werden im Laufe dieses Quartals verfügbar sein.
    <li>Zugriff auf Adobe Experience Manager</li>
    <li>Zugriff auf die Adobe-Organisationszuordnung</li>
@@ -65,11 +65,11 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <li>Bericht erstellen</li>
    <li>Liste erstellen</li>
    <li>Kampagnenaktivität exportieren</li>
-   </td> 
+   </td>
    <td>Versendet</td>
    <td><a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md">Beschreibungen der Rollenberechtigungen</a></td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 <br/>
 
@@ -79,63 +79,63 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
 
 **Web-basierte Aktivitäten**
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th style="width:30%">Aktivität</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th style="width:30%">Aktivität</th>
    <th style="width:70%">Neu hinzugefügte Attribute</th>
    </tr>
-  <tr> 
-   <td>Visit Webpage</td> 
+  <tr>
+   <td>Visit Webpage</td>
    <td>Browser, Plattform, Gerät</td>
   </tr>
-   <tr> 
-   <td>Formular ausfüllen</td> 
+   <tr>
+   <td>Formular ausfüllen</td>
    <td>Browser, Plattform, Gerät</td>
   </tr>
-  <tr> 
-   <td>Auf Link klicken</td> 
+  <tr>
+   <td>Auf Link klicken</td>
    <td>Browser, Plattform, Gerät</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 **E-Mail-basierte Aktivitäten**
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th style="width:30%">Aktivität</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th style="width:30%">Aktivität</th>
    <th style="width:70%">Neu hinzugefügte Attribute</th>
   </tr>
-   <tr> 
-   <td>E-Mail senden</td> 
+   <tr>
+   <td>E-Mail senden</td>
    <td>Browser, Plattform, Gerät, Benutzeragent</td>
   </tr>
    </tr>
-  <tr> 
-   <td>E-Mail übermittelt</td> 
+  <tr>
+   <td>E-Mail übermittelt</td>
    <td>Browser, Plattform, Gerät, Benutzeragent</td>
   </tr>
-   <tr> 
-   <td>E-Mail war aufgrund eines Bounce-Ereignisses unzustellbar</td> 
+   <tr>
+   <td>E-Mail war aufgrund eines Bounce-Ereignisses unzustellbar</td>
    <td>Browser, Plattform, Gerät, Benutzeragent</td>
   </tr>
-  <tr> 
-   <td>E-Mail abbestellen</td> 
+  <tr>
+   <td>E-Mail abbestellen</td>
    <td>Browser, Plattform, Gerät</td>
   </tr>
-  <tr> 
-   <td>E-Mail öffnen</td> 
+  <tr>
+   <td>E-Mail öffnen</td>
    <td>Browser</td>
   </tr>
-   <tr> 
-   <td>Klicken auf E-Mail</td> 
+   <tr>
+   <td>Auf E-Mail klicken</td>
    <td>Browser</td>
   </tr>
-  <tr> 
-   <td>E-Mail war aufgrund eines Soft Bounce-Ereignisses unzustellbar</td> 
+  <tr>
+   <td>E-Mail war aufgrund eines Soft Bounce-Ereignisses unzustellbar</td>
    <td>Browser, Plattform, Gerät, Benutzeragent</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>

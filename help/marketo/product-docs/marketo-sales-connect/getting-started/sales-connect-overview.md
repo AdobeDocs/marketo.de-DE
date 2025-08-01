@@ -4,7 +4,7 @@ description: Sales Connect - Übersicht - Marketo-Dokumente - Produktdokumentati
 title: Sales Connect - Übersicht
 exl-id: b14c950f-653f-4909-b33a-7e099c6ae4bf
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 11%
@@ -37,45 +37,45 @@ Erfahren Sie, wie Ihre potenziellen Kunden mit Ihren Vertriebsaktivitäten inter
 
 ![](assets/2018-05-11-at-3.30-pm.jpg)
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>Aktivitätstyp</th> 
-   <th>Beschreibung</th> 
-  </tr> 
-  <tr> 
-   <td><p>Verkaufs-E-Mail senden</p></td> 
-   <td><p>Der Benutzer hat eine Verkaufs-E-Mail von Sales Connect gesendet.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>Verkaufs-E-Mail öffnen</p></td> 
-   <td><p>Lead hat eine Verkaufs-E-Mail geöffnet, die von Sales Connect gesendet wurde.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>Auf Verkaufs-E-Mail klicken</p></td> 
-   <td><p>Lead hat auf einen Link in einer Verkaufs-E-Mail geklickt, die von Sales Connect gesendet wurde.</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p>Verkaufs-E-Mail empfangen</p></td> 
-   <td colspan="1"><p>Lead hat eine E-Mail von Sales Connect erhalten.</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p>Empfangen Verkaufsanruf</p></td> 
-   <td colspan="1"><p>Der Lead hat einen Anruf von einem Vertriebsmitarbeiter mit dem <a href="/help/marketo/product-docs/marketo-sales-connect/phone/sales-phone-overview.md" rel="nofollow">Telefon) </a>.</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p>Zur Verkaufskampagne hinzufügen</p></td> 
-   <td colspan="1"><p>Der Lead wurde zu einer in Sales Connect erstellten Verkaufskampagne hinzugefügt (auf der Seite Kampagnen ).</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p>Aus der Kampagne entfernt</p></td> 
-   <td colspan="1"><p>Lead wurde aus einer Verkaufskampagne entfernt.</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p>Interessanter Moment</p></td> 
-   <td colspan="1"><p>Lead hat einen interessanten Moment in Marketo erzeugt.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>Aktivitätstyp</th>
+   <th>Beschreibung</th>
+  </tr>
+  <tr>
+   <td><p>Verkaufs-E-Mail senden</p></td>
+   <td><p>Der Benutzer hat eine Verkaufs-E-Mail von Sales Connect gesendet.</p></td>
+  </tr>
+  <tr>
+   <td><p>Verkaufs-E-Mail öffnen</p></td>
+   <td><p>Lead hat eine Verkaufs-E-Mail geöffnet, die von Sales Connect gesendet wurde.</p></td>
+  </tr>
+  <tr>
+   <td><p>Auf Verkaufs-E-Mail klicken</p></td>
+   <td><p>Lead hat auf einen Link in einer Verkaufs-E-Mail geklickt, die von Sales Connect gesendet wurde.</p></td>
+  </tr>
+  <tr>
+   <td colspan="1"><p>Verkaufs-E-Mail empfangen</p></td>
+   <td colspan="1"><p>Lead hat eine E-Mail von Sales Connect erhalten.</p></td>
+  </tr>
+  <tr>
+   <td colspan="1"><p>Empfangen Verkaufsanruf</p></td>
+   <td colspan="1"><p>Der Lead hat einen Anruf von einem Vertriebsmitarbeiter mit dem <a href="/help/marketo/product-docs/marketo-sales-connect/phone/sales-phone-overview.md" rel="nofollow">Telefon) </a>.</p></td>
+  </tr>
+  <tr>
+   <td colspan="1"><p>Zur Verkaufskampagne hinzufügen</p></td>
+   <td colspan="1"><p>Der Lead wurde zu einer in Sales Connect erstellten Verkaufskampagne hinzugefügt (auf der Seite Kampagnen ).</p></td>
+  </tr>
+  <tr>
+   <td colspan="1"><p>Aus der Kampagne entfernt</p></td>
+   <td colspan="1"><p>Lead wurde aus einer Verkaufskampagne entfernt.</p></td>
+  </tr>
+  <tr>
+   <td colspan="1"><p>Interessanter Moment</p></td>
+   <td colspan="1"><p>Lead hat einen interessanten Moment in Marketo erzeugt.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 ## Marketing-Kampagnen freigeben {#share-marketing-campaigns}

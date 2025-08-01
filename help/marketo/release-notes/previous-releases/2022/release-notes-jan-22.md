@@ -2,7 +2,7 @@
 description: Januar 2022 - Versionshinweise zu Marketo - Produktdokumentation
 title: Januar 2022 - Versionshinweise
 exl-id: babc4e7f-3f11-4883-80c6-58e69c3e1ab4
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '897'
 ht-degree: 0%
@@ -58,7 +58,7 @@ Marketo Engage-Kunden, die auch die Adobe Experience Platform (AEP) verwenden, k
 
 **[!DNL Sales Insight]für [!DNL Salesforce] CRM**
 
-* **Neue Typ-Spalte für [!UICONTROL Beste Wetten]**: Verkäufer erhalten schnellere Einblicke mit einer neuen Spalte mit der Bezeichnung „Typ“, um auf der Seite „Beste [!UICONTROL &quot; zwischen Leads und Kontakten &#x200B;] unterscheiden.
+* **Neue Typ-Spalte für [!UICONTROL Beste Wetten]**: Verkäufer erhalten schnellere Einblicke mit einer neuen Spalte mit der Bezeichnung „Typ“, um auf der Seite „Beste [!UICONTROL &quot; zwischen Leads und Kontakten ] unterscheiden.
 
 * **[!DNL Salesforce]Platform-API-**: Als Reaktion auf [!DNL Salesforce] Einstellung der [!DNL Salesforce] Platform-API-Versionen 21.0 bis 30.0 wurde das [!DNL Sales Insight] mit den neuesten APIs aktualisiert.
 
@@ -74,7 +74,7 @@ Marketo Engage-Kunden, die auch die Adobe Experience Platform (AEP) verwenden, k
 
 * **Anrufergebnisse und -gründe**: Verstehen und verfolgen Sie die ausgehenden Bemühungen Ihrer Vertriebsteams detaillierter mit neuen, vollständig anpassbaren Anrufergebnis- und Anrufgrund-Optionen. Zusätzlich zu diesen neuen Feldern führen wir eine neue Governance ein, um die Auswahl der Anrufgründe und -ergebnisse zu erzwingen, während die Verkäufer Anrufe tätigen, eine neue Governance, um Anrufgründe und -ergebnisse zu aktivieren oder zu deaktivieren, und ein neues benutzerdefiniertes Feld für Anrufgrund und Anrufergebnis-[!DNL Salesforce] für die Protokollierung von Daten in [!DNL Salesforce]. [Hier klicken](https://nation.marketo.com/t5/product-blogs/sales-connect-enhancements-to-call-outcomes-q1-22-release/ba-p/319812) um mehr zu erfahren.
 
-* Anpassung der **[!DNL Salesforce]-Aktivitätsdetails**: Erfassen Sie mehr Daten zu Verkaufsaktivitäten und Aufgaben in [!DNL Salesforce], indem Sie anpassen, welche Informationen zum Betrefffeld der [!DNL Salesforce] Aufgabe hinzugefügt werden, wenn eine Verkaufsaktivität von [!DNL Sales Connect] an [!DNL Salesforce] protokolliert wird. [Hier klicken](https://nation.marketo.com/t5/product-blogs/sales-connect-enahncements-to-activity-logging-to-salesforce-q1/ba-p/319819) um mehr zu erfahren.
+* Anpassung der **[!DNL Salesforce]-Aktivitätsdetails**: Erfassen Sie mehr Daten zu Verkaufsaktivitäten und Aufgaben in [!DNL Salesforce], indem Sie anpassen, welche Informationen zum Betrefffeld der [!DNL Salesforce] Aufgabe hinzugefügt werden, wenn eine Verkaufsaktivität von [!DNL Salesforce] an [!DNL Sales Connect] protokolliert wird. [Hier klicken](https://nation.marketo.com/t5/product-blogs/sales-connect-enahncements-to-activity-logging-to-salesforce-q1/ba-p/319819) um mehr zu erfahren.
 
 ## Ankündigungen {#announcements}
 

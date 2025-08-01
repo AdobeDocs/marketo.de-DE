@@ -2,7 +2,7 @@
 description: Verbinden mit Outlook - Marketo-Dokumente - Produktdokumentation
 title: Mit Outlook verbinden
 exl-id: 760db2d2-2e5d-4988-891a-9c57250264ac
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '485'
 ht-degree: 2%
@@ -45,15 +45,15 @@ Wenn Sie eine Verbindung zu Outlook herstellen, erhalten Sie ein Tracking der An
 
    ![](assets/connect-to-outlook-6.png)
 
-   <table> 
+   <table>
     <tbody>
      <tr>
-      <td><strong>Outlook Online</strong></td> 
-      <td>Auch als Exchange Online bekannt</td> 
+      <td><strong>Outlook Online</strong></td>
+      <td>Auch als Exchange Online bekannt</td>
      </tr>
      <tr>
-      <td><strong>Exchange On-Premise</strong></td> 
-      <td>Umfasst Exchange 2013 und 2016</td> 
+      <td><strong>Exchange On-Premise</strong></td>
+      <td>Umfasst Exchange 2013 und 2016</td>
      </tr>
     </tbody>
    </table>
@@ -108,15 +108,15 @@ Die Verbindung zu Exchange On-Premise bedeutet, dass Sie die Antwort verfolgen, 
 
    ![](assets/connect-to-outlook-15.png)
 
-   <table> 
+   <table>
     <tbody>
      <tr>
-      <td><strong>Outlook Online</strong></td> 
-      <td>Auch als Exchange Online bekannt</td> 
+      <td><strong>Outlook Online</strong></td>
+      <td>Auch als Exchange Online bekannt</td>
      </tr>
      <tr>
-      <td><strong>Exchange On-Premise</strong></td> 
-      <td>Umfasst Exchange 2013 und 2016</td> 
+      <td><strong>Exchange On-Premise</strong></td>
+      <td>Umfasst Exchange 2013 und 2016</td>
      </tr>
     </tbody>
    </table>
@@ -146,7 +146,7 @@ Möglicherweise müssen Sie mit Ihrem IT-Team zusammenarbeiten, um die Erlaubnis
 Je nach den Voreinstellungen und der aktuellen Konfiguration Ihres IT-Teams ist es am besten, sich mit ihm über die Gewährung des Zugriffs zu beraten. Im Folgenden finden Sie einige Artikel, die Ihnen bei der Konversation helfen können.
 
 * Globales Einverständnis: [Integrierte Apps und Azure AD für Microsoft 365-Administratoren](https://learn.microsoft.com/en-us/microsoft-365/enterprise/integrated-apps-and-azure-ads?view=o365-worldwide){target="_blank"}
-* Benutzereinverständnis: [Konfigurieren, wie Benutzer Anwendungen zustimmen](https://learn.microsoft.com/en-us/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal&amp;pivots=portal){target="_blank"}
-* Admin-Einverständnis: [Konfigurieren des Workflows für das Admin-Einverständnis](https://learn.microsoft.com/en-us/microsoft-365/admin/misc/user-consent?source=recommendations&amp;view=o365-worldwide){target="_blank"}
-* Aktivieren oder Deaktivieren des Benutzereinverständnisses: [Verwalten des Benutzereinverständnisses für Apps in Microsoft 365](https://learn.microsoft.com/en-us/microsoft-365/admin/misc/user-consent?source=recommendations&amp;view=o365-worldwide){target="_blank"}
+* Benutzereinverständnis: [Konfigurieren, wie Benutzer Anwendungen zustimmen](https://learn.microsoft.com/en-us/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal&pivots=portal){target="_blank"}
+* Admin-Einverständnis: [Konfigurieren des Workflows für das Admin-Einverständnis](https://learn.microsoft.com/en-us/microsoft-365/admin/misc/user-consent?source=recommendations&view=o365-worldwide){target="_blank"}
+* Aktivieren oder Deaktivieren des Benutzereinverständnisses: [Verwalten des Benutzereinverständnisses für Apps in Microsoft 365](https://learn.microsoft.com/en-us/microsoft-365/admin/misc/user-consent?source=recommendations&view=o365-worldwide){target="_blank"}
 * Verwalten mit Microsoft Defender: [Verwalten von OAuth-Apps](https://learn.microsoft.com/en-us/defender-cloud-apps/manage-app-permissions){target="_blank"}

@@ -4,7 +4,7 @@ description: Personalisiertes Remarketing in Facebook - Marketo-Dokumente - Prod
 title: Personalisiertes Remarketing in Facebook
 exl-id: 47636afa-49df-40ba-8948-4f2850467c2f
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '285'
 ht-degree: 8%
@@ -18,7 +18,7 @@ Personalisiertes Remarketing ermöglicht Ihnen die erneute Interaktion mit Ihren
 >[!PREREQUISITES]
 >
 >* Schließen Sie das Setup [Retargeting mit Web Personalization-Daten](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) ab
->* Lesen Sie die [&#128279;](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Facebook-Dokumentation zu benutzerdefinierten Zielgruppen](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) und Remarketing.
+>* Lesen Sie die [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Facebook-Dokumentation zu benutzerdefinierten Zielgruppen](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) und Remarketing.
 
 ## Erstellen einer Zielgruppe in [!DNL Facebook] {#creating-an-audience-in-facebook}
 
@@ -36,7 +36,7 @@ Personalisiertes Remarketing ermöglicht Ihnen die erneute Interaktion mit Ihren
 
    ![](assets/image2015-1-19-16-3a32-3a2.png)
 
-1. Wählen Sie in [!UICONTROL &#x200B; Liste „Website]Traffic“ **[!UICONTROL Benutzerdefinierte Kombination]** aus.
+1. Wählen Sie in [!UICONTROL  Liste „Website]Traffic“ **[!UICONTROL Benutzerdefinierte Kombination]** aus.
 
    ![](assets/image2015-1-19-16-3a33-3a21.png)
 
@@ -58,47 +58,47 @@ Personalisiertes Remarketing ermöglicht Ihnen die erneute Interaktion mit Ihren
 
 ## RTP-Datenpunkte in [!DNL Facebook] {#rtp-data-points-in-facebook}
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>Ereignisname</th> 
-   <th> </th> 
-  </tr> 
-  <tr> 
-   <td>RTP-Remarketing</td> 
-   <td> 
-    <div> 
-     <table> 
-      <tbody> 
-       <tr> 
-        <th>Parameter</th> 
-        <th>Wert</th> 
-       </tr> 
-       <tr> 
-        <td>ABM-Liste</td> 
-        <td>(Name der kontobasierten Liste)</td> 
-       </tr> 
-       <tr> 
-        <td colspan="1">Kategorie</td> 
-        <td colspan="1"><p>Fortune 500</p><p>Fortune 1000</p><p>Global 2000</p></td> 
-       </tr> 
-       <tr> 
-        <td colspan="1">Gruppe</td> 
-        <td colspan="1"><p>Enterprise</p><p>KMU</p></td> 
-       </tr> 
-       <tr> 
-        <td>Branche</td> 
-        <td><p>Verteidigung</p><p>Aus- und Weiterbildung</p><p>Finanzdienstleistungen</p><p>Regierung</p><p>Gesundheitswesen, Pharma, Biotechnologie</p><p>Software und Internet</p><p>etc… (gemäß RTP Industry-Optionen)</p></td> 
-       </tr> 
-       <tr> 
-        <td colspan="1">Segmentierte Zielgruppe</td> 
-        <td colspan="1">(Name der in RTP erstellten segmentierten Zielgruppe)</td> 
-       </tr> 
-      </tbody> 
-     </table> 
-    </div></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>Ereignisname</th>
+   <th> </th>
+  </tr>
+  <tr>
+   <td>RTP-Remarketing</td>
+   <td>
+    <div>
+     <table>
+      <tbody>
+       <tr>
+        <th>Parameter</th>
+        <th>Wert</th>
+       </tr>
+       <tr>
+        <td>ABM-Liste</td>
+        <td>(Name der kontobasierten Liste)</td>
+       </tr>
+       <tr>
+        <td colspan="1">Kategorie</td>
+        <td colspan="1"><p>Fortune 500</p><p>Fortune 1000</p><p>Global 2000</p></td>
+       </tr>
+       <tr>
+        <td colspan="1">Gruppe</td>
+        <td colspan="1"><p>Enterprise</p><p>KMU</p></td>
+       </tr>
+       <tr>
+        <td>Branche</td>
+        <td><p>Verteidigung</p><p>Aus- und Weiterbildung</p><p>Finanzdienstleistungen</p><p>Regierung</p><p>Gesundheitswesen, Pharma, Biotechnologie</p><p>Software und Internet</p><p>etc… (gemäß RTP Industry-Optionen)</p></td>
+       </tr>
+       <tr>
+        <td colspan="1">Segmentierte Zielgruppe</td>
+        <td colspan="1">(Name der in RTP erstellten segmentierten Zielgruppe)</td>
+       </tr>
+      </tbody>
+     </table>
+    </div></td>
+  </tr>
+ </tbody>
 </table>
 
 ## Targeting Ihrer Audience mit einer Anzeige {#target-your-audience-with-an-ad}

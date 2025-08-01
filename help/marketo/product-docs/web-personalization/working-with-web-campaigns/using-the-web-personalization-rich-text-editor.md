@@ -4,7 +4,7 @@ description: Verwenden des Rich-Text-Editors für Web-Personalization - Marketo-
 title: Verwenden des Rich-Text-Editors von Web Personalization
 exl-id: a07d8f2b-0ec6-4799-a430-0a5f7cf5f583
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 6%
@@ -19,34 +19,34 @@ Der [!DNL Web Personalization] Rich-Text-Editor auf der Seite [!UICONTROL Kampag
 
 Zu den wichtigen Symbolen im Rich-Text-Editor gehören:
 
-<table> 
- <tbody> 
-  <tr> 
-   <td colspan="1"><img alt="—" src="assets/three.png" data-linked-resource-id="11386613" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="--"></td> 
-   <td colspan="1"><strong>HTML-Quelle bearbeiten</strong></td> 
-   <td colspan="1">Ermöglicht die Anzeige des HTML-Quell-Codes</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><img alt="--" src="assets/two.png" data-linked-resource-id="11386612" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="--"></td> 
-   <td colspan="1"><p><strong>Bild einfügen/bearbeiten</strong><br></p></td> 
-   <td colspan="1">Fügt eine Bild-URL ein, damit grafische Bilder im Editor angezeigt werden</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><img alt="--" src="assets/ds.png" data-linked-resource-id="12983884" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="--"></td> 
-   <td colspan="1"><strong>Einfügen eines Bildes aus Design Studio</strong></td> 
-   <td colspan="1"><em>Nachdem </em> auf das Symbol <strong>Bild einfügen/bearbeiten</strong> geklickt haben, können Sie damit Bilder aus Marketo Design Studio auswählen</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><img alt="--" src="assets/four.png" data-linked-resource-id="11386614" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="--"></td> 
-   <td colspan="1"><p><strong>Link einfügen/bearbeiten</strong><br></p></td> 
-   <td colspan="1">Dient zum Hinzufügen von Hyperlinks zu Text oder Bildern</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><img alt="--" src="assets/tokens.png" data-linked-resource-id="12983883" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="--"></td> 
-   <td colspan="1"><strong>Token einfügen/bearbeiten</strong></td> 
-   <td colspan="1">Personalisieren Ihrer Web-Kampagne mit Unternehmens- oder Personen-Token</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td colspan="1"><img alt="—" src="assets/three.png" data-linked-resource-id="11386613" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="--"></td>
+   <td colspan="1"><strong>HTML-Quelle bearbeiten</strong></td>
+   <td colspan="1">Ermöglicht die Anzeige des HTML-Quell-Codes</td>
+  </tr>
+  <tr>
+   <td colspan="1"><img alt="--" src="assets/two.png" data-linked-resource-id="11386612" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="--"></td>
+   <td colspan="1"><p><strong>Bild einfügen/bearbeiten</strong><br></p></td>
+   <td colspan="1">Fügt eine Bild-URL ein, damit grafische Bilder im Editor angezeigt werden</td>
+  </tr>
+  <tr>
+   <td colspan="1"><img alt="--" src="assets/ds.png" data-linked-resource-id="12983884" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="--"></td>
+   <td colspan="1"><strong>Einfügen eines Bildes aus Design Studio</strong></td>
+   <td colspan="1"><em>Nachdem </em> auf das Symbol <strong>Bild einfügen/bearbeiten</strong> geklickt haben, können Sie damit Bilder aus Marketo Design Studio auswählen</td>
+  </tr>
+  <tr>
+   <td colspan="1"><img alt="--" src="assets/four.png" data-linked-resource-id="11386614" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="--"></td>
+   <td colspan="1"><p><strong>Link einfügen/bearbeiten</strong><br></p></td>
+   <td colspan="1">Dient zum Hinzufügen von Hyperlinks zu Text oder Bildern</td>
+  </tr>
+  <tr>
+   <td colspan="1"><img alt="--" src="assets/tokens.png" data-linked-resource-id="12983883" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="--"></td>
+   <td colspan="1"><strong>Token einfügen/bearbeiten</strong></td>
+   <td colspan="1">Personalisieren Ihrer Web-Kampagne mit Unternehmens- oder Personen-Token</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]

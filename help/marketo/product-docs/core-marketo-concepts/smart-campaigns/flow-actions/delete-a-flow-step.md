@@ -4,7 +4,7 @@ description: Löschen eines Flussschritts - Marketo-Dokumente - Produktdokumenta
 title: Löschen eines Flussschritts
 exl-id: 039a1e80-48cc-47f9-9e1a-459f89bf0730
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '369'
 ht-degree: 0%
@@ -42,8 +42,8 @@ Lassen Sie uns zunächst die Grundlagen behandeln. So entfernen Sie einen unerw�
    1. **Wurde bereits OHNE Warteschritte ausgeführt**. Es sind keine Personen betroffen, da die Kampagne nach der Ausführung inaktiv ist.
    1. **Wird gerade ausgeführt**. Änderungen können je nach Zeitpunkt und Details des Löschvorgangs zu unerwartetem Verhalten führen. Es wird dringend empfohlen, keine Batch-Kampagne zu bearbeiten, die aktiv ausgeführt wird. Erfahren Sie in Notfällen, wie Sie [ laufende intelligente Kampagne abbrechen ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md){target="_blank"}.
 
-   1. **Bereits mit Warteschritten ausgeführt.** Mehrere Details zu diesem.\
-      Wenn eine Person in einen Warteschritt eintritt, notiert die Person die Dauer und den ZAHLENSCHRITT, zu dem sie zurückkehren soll. Siehe Beispiel unten.
+   1. **Bereits mit Warteschritten ausgeführt.** Mehrere Details zu diesem.
+Wenn eine Person in einen Warteschritt eintritt, notiert die Person die Dauer und den ZAHLENSCHRITT, zu dem sie zurückkehren soll. Siehe Beispiel unten.
 
    **Intelligente Trigger-Kampagnen**
 

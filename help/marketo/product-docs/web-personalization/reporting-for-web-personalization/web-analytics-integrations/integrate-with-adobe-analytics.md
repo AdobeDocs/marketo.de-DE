@@ -4,7 +4,7 @@ description: Integration mit Adobe Analytics - Marketo-Dokumente - Produktdokume
 title: Integration mit Adobe Analytics
 exl-id: 6ea35811-6f3d-4dc8-91aa-877d613f8e93
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1059'
 ht-degree: 0%
@@ -64,8 +64,8 @@ Führen Sie die folgenden Schritte aus, um diese Variablen in AA einzurichten:
 
 1. Navigieren Sie **[!UICONTROL Admin Tools]** in Ihrem AA-Konto.
 1. Wählen Sie **[!UICONTROL Report Suite]** aus, die mit der Integration verwendet werden soll.
-1. Gehen Sie **[!UICONTROL „Einstellungen bearbeiten]** zu **[!UICONTROL Konversion]** und wählen Sie **[[!UICONTROL Konversionsvariablen]](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**.\
-   Wählen Sie die Nummer [Konversionsvariable](https://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar) aus (wird empfohlen):
+1. Gehen Sie **[!UICONTROL „Einstellungen bearbeiten]** zu **[!UICONTROL Konversion]** und wählen Sie **[[!UICONTROL Konversionsvariablen]](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**.
+Wählen Sie die Nummer [Konversionsvariable](https://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar) aus (wird empfohlen):
 
    1. eVar 20 für benutzerspezifische Konversionen in der Branche
    1. eVar Nr. 21 für benutzerdefinierte Konversionen von Organisationen
@@ -110,9 +110,9 @@ Führen Sie die folgenden Schritte aus, um diese Variablen in AA einzurichten:
 
       1. Ändern Sie die vier Eigenschaftsnamen. Dies ist der Name, der in der Report Suite angezeigt wird.
 
-   1. Wählen Sie [!UICONTROL &#x200B; Feld &#x200B;]Aktiviert“ aus, um **[!UICONTROL Aktiviert]**.
+   1. Wählen Sie [!UICONTROL  Feld ]Aktiviert“ aus, um **[!UICONTROL Aktiviert]**.
 
-   1. Wählen Sie [!UICONTROL &#x200B; Feld &#x200B;]Pfadberichte“ aus, um **[!UICONTROL Aktiviert]**.
+   1. Wählen Sie [!UICONTROL  Feld ]Pfadberichte“ aus, um **[!UICONTROL Aktiviert]**.
 
 ## In [!DNL Marketo Real-Time Personalization] eingerichtet (RTP) {#set-up-in-marketo-real-time-personalization-rtp}
 
@@ -220,7 +220,7 @@ Ihre Reportlets werden im Dashboard angezeigt.
 
    ![](assets/sitecatalyst1-1.png)
 
-1. Suchen Sie nach Impressionen , um Segment- und Kampagnennamen anzuzeigen, die die Anzahl der Impressionen für die Kampagne darstellen.\
+1. Suchen Sie nach Impressionen , um Segment- und Kampagnennamen anzuzeigen, die die Anzahl der Impressionen für die Kampagne darstellen.
    ![](assets/sitecatalyst1.png)
 
 1. Suchen Sie nach Konversion , um Segment- und Kampagnennamen anzuzeigen, die die Anzahl der Klicks für die Kampagne darstellen.

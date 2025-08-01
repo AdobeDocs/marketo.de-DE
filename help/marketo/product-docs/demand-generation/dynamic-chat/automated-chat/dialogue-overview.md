@@ -3,7 +3,7 @@ description: Dialogfeld - Übersicht - Marketo-Dokumente - Produktdokumentation
 title: Dialog-Übersicht
 feature: Dynamic Chat
 exl-id: c5e5650f-5f34-4c04-b287-62556bc35593
-source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '254'
 ht-degree: 5%
@@ -64,7 +64,7 @@ Auf der Registerkarte Berichte können Sie Metriken zur Leistung Ihres Dialogfel
 
 Sie haben die Möglichkeit, alle veröffentlichten Dialogfelder gleichzeitig zu deaktivieren (und erneut zu aktivieren).
 
-1. Klicken Sie im Dynamic Chat auf die Registerkarte **[!UICONTROL Konfiguration]**.
+1. Klicken Sie in Dynamic Chat auf die **[!UICONTROL Konfiguration]** .
 
    ![](assets/dialogue-overview-4.png)
 

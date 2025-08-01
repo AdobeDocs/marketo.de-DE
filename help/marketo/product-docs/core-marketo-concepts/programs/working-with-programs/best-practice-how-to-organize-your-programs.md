@@ -4,7 +4,7 @@ description: Best Practice - Organisieren von Programmen - Marketo-Dokumente - P
 title: 'Best Practice : Organisieren von Programmen'
 exl-id: 018a3fbd-b741-4005-9695-56958063d71a
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '847'
 ht-degree: 4%
@@ -29,7 +29,7 @@ In Marketing-Aktivitäten sollten Sie Ihre Programme mit Ordnern organisieren. D
 >
 >* Aktive Marketingprogramme
 >   * E-Mails
->   * Events
+>   * Ereignisse
 >      * Live-Events/Roadshows
 >      * Messen
 >      * Webinare
@@ -89,13 +89,13 @@ Die oben genannte Organisation ermöglicht es Ihnen, Token im Ereignisordner abz
 >
 >**Ihre Unternehmensadresse**. Benutze ein Token, anstatt es jedes Mal zu schreiben. Auf diese Weise können Sie sie an einer Stelle aktualisieren, ohne viele Entwürfe erstellen zu müssen. Überschreiben Sie dann das Token nach Bedarf in einem Ordner auf niedrigerer Ebene.
 
-## Events {#events}
+## Ereignisse {#events}
 
 Ein Event hat in der Regel viele bewegte Teile, darunter Einladungen, Landingpages, Formulare, Social-Widgets und intelligente Kampagnen. Die Best Practice für ihre Organisation zur Benutzerfreundlichkeit ist die Phase der Veranstaltung. Im Folgenden finden Sie ein Beispiel dafür, wie die Ordnerstruktur nach einem Ereignis aussehen sollte.
 
 ![](assets/capture.png)
 
-## Engagementprogramme {#engagement-programs}
+## Interaktionsprogramme {#engagement-programs}
 
 Erfahren [ alles über Interaktionsprogramme](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md){target="_blank"}. Die beste Möglichkeit, Ihr Interaktionsprogramm zu organisieren, besteht in Ordnern. Erstellen Sie für jeden Stream einen Ordner und legen Sie dann die E-Mails oder Programme in diesem Ordner ab. Fügen Sie in jeden Stream einen Archivordner ein, wenn der Inhalt veraltet ist und Sie ihn entfernen möchten.
 
@@ -119,6 +119,6 @@ Eine der coolsten Funktionen in Marketo ist die Möglichkeit, Programme zu klone
 
 Einige Personen abstrahieren sogar den Großteil des Textes in E-Mails und Landingpages in Token. Auf diese Weise können Sie die Token klonen und dann bearbeiten. Rufen Sie abschließend die Ansicht Programmplan auf, passen Sie die Daten an und Sie sind fertig. Voila!
 
-## Zusammenfassung  {#summary}
+## Zusammenfassung {#summary}
 
 Wie Sie sehen können, gibt es viel Macht in Marketo. Wir haben hier die Grundlagen behandelt, erwägen jedoch zusätzliche Services von [Marketo Engage-](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}, um eine Feinabstimmung vorzunehmen und sich für den Erfolg einzurichten.

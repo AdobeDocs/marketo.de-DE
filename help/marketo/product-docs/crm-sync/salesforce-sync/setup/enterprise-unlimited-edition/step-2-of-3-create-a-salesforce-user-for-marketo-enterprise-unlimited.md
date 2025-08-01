@@ -4,7 +4,7 @@ description: Schritt 2 von 3 - Erstellen eines Salesforce-Benutzers für Marketo
 title: 'Schritt 2 von 3: Erstellen eines Salesforce-Benutzers für Marketo (Enterprise/Unlimited)'
 exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '425'
 ht-degree: 3%
@@ -60,7 +60,7 @@ In diesem Artikel richten Sie Benutzerberechtigungen in [!DNL Salesforce] Profil
    >
    >Stellen Sie sicher, dass Sie das Kontrollkästchen **[!UICONTROL Kennwort läuft nie ab]** aktivieren.
 
-1. Stellen Sie [!UICONTROL &#x200B; Abschnitt „Allgemeine Benutzerberechtigungen] sicher, dass die folgenden Kontrollkästchen aktiviert sind:
+1. Stellen Sie [!UICONTROL  Abschnitt „Allgemeine Benutzerberechtigungen] sicher, dass die folgenden Kontrollkästchen aktiviert sind:
 
    * [!UICONTROL Leads konvertieren]
    * [!UICONTROL Ereignisse bearbeiten]
@@ -121,25 +121,25 @@ In diesem Artikel richten Sie Benutzerberechtigungen in [!DNL Salesforce] Profil
 
 1. Nachdem Sie alle nicht benötigten Felder deaktiviert haben, müssen Sie **[!UICONTROL Lesezugriff und Bearbeitungszugriff]** für die folgenden Objektfelder überprüfen. Klicken **[!UICONTROL abschließend]** Speichern“.
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>Objekt</th> 
-   <th>Felder</th> 
-  </tr> 
-  <tr> 
-   <td>Konto</td> 
-   <td>Feld eingeben</td> 
-  </tr> 
-  <tr> 
-   <td>Ereignis</td> 
-   <td>Alle Felder</td> 
-  </tr> 
-  <tr> 
-   <td>Aufgabe</td> 
-   <td>Alle Felder</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>Objekt</th>
+   <th>Felder</th>
+  </tr>
+  <tr>
+   <td>Konto</td>
+   <td>Feld eingeben</td>
+  </tr>
+  <tr>
+   <td>Ereignis</td>
+   <td>Alle Felder</td>
+  </tr>
+  <tr>
+   <td>Aufgabe</td>
+   <td>Alle Felder</td>
+  </tr>
+ </tbody>
 </table>
 
 ![](assets/sfdc-check-the-boxes.png)

@@ -4,7 +4,7 @@ description: Hochgeladene Bilder oder Dateien löschen - Marketo-Dokumente - Pro
 title: Hochgeladene Bilder oder Dateien löschen
 exl-id: 291ea4f3-a317-4696-b26e-0d69bf4581e3
 feature: Image Editor
-source-git-commit: fbfbc22477b5e1596a2491cb34cf2bd63601bc63
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Das Löschen von Bildern oder Dateien ist schnell und einfach.
 
 >[!CAUTION]
 >
->Nach dem Löschen werden die Bilder/Dateien vollständig vom Marketo Engage entfernt und können nicht wiederhergestellt werden.
+>Nach dem Löschen werden die Bilder/Dateien vollständig aus Marketo Engage entfernt und können nicht wiederhergestellt werden.
 
 1. Gehen Sie zum **[!UICONTROL Design Studio]**.
 

@@ -4,7 +4,7 @@ description: Konfigurieren von Protokollen für Marketo Engage - Marketo Engage-
 title: Konfigurieren von Protokollen für Marketo Engage
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: 8ff62b372b4d0f98ab88c569bdc3608eb63b70c7
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '2131'
 ht-degree: 8%
@@ -39,8 +39,8 @@ Fügen Sie den Landingpage-CNAME, den sie Ihnen gesendet haben, zu Ihrem DNS-Ein
 
 `2` **CNAME für E-Mail-Tracking-Links hinzufügen**
 
-Fügen Sie die von CNAME-Marketing gesendete E-Mail hinzu, sodass `[YourEmailCNAME]` auf [MktoTrackingLink], den von Marketo Engage zugewiesenen Standard-Tracking-Link, im folgenden Format verweist:\
-`[YourEmailCNAME].[YourDomain].com` IN CNAME `[MktoTrackingLink]`
+Fügen Sie die von CNAME-Marketing gesendete E-Mail hinzu, sodass `[YourEmailCNAME]` auf [MktoTrackingLink], den von Marketo Engage zugewiesenen Standard-Tracking-Link, im folgenden Format verweist:
+`[YourEmailCNAME].[YourDomain].com` IN CNAME-`[MktoTrackingLink]`
 
 Beispiel:
 
@@ -92,11 +92,11 @@ Ihr Marketing-Team hätte Ihnen auch Informationen zu DKIM (Domain Keys Identifi
 
 1. Fügen Sie den DNS-Einträgen die folgende Zeile hinzu, um SPF einzurichten:
 
-   `[CompanyDomain]` IN TXT v=spf1 mx ip4:`[CorpIP]`\
-   Include: mktomail.com ~all
+   `[CompanyDomain]` IN TXT v=spf1 mx ip4:`[CorpIP]`
+Include: mktomail.com ~all
 
-   Wenn wir bereits einen SPF-Eintrag in unserem DNS-Eintrag haben, fügen Sie einfach Folgendes hinzu:\
-   Einschließen: mktomail.com
+   Wenn wir bereits einen SPF-Eintrag in unserem DNS-Eintrag haben, fügen Sie einfach Folgendes hinzu:
+Einschließen: mktomail.com
 
    Ersetzen Sie CompanyDomain durch die Haupt-Domain Ihrer Website (z.B.: &quot;`(company.com/)`„) und CorpIP durch die IP-Adresse Ihres Unternehmens-E-Mail-Servers (z.B. &quot;255.255.255.255„) Wenn Sie E-Mails von mehreren Domains über Marketo Engage senden möchten, sollten Ihre IT-Mitarbeiter diese Zeile für jede Domain hinzufügen (in einer Zeile).
 
@@ -192,9 +192,9 @@ DMARC-Datensätze enthalten mehrere Komponenten, die als DMARC-Tags bezeichnet w
     <td>fo</td>
     <td>Optional</td>
     <td>Ermöglicht der oder dem Domain-Verantwortlichen das Festlegen von Berichtsoptionen.</td>
-    <td>0: Generieren eines Berichts, wenn alles fehlschlägt 
-    <br>1: Generieren eines Berichts, wenn etwas fehlschlägt 
-    <br>d: Generieren eines Berichts, wenn DKIM fehlschlägt 
+    <td>0: Generieren eines Berichts, wenn alles fehlschlägt
+    <br>1: Generieren eines Berichts, wenn etwas fehlschlägt
+    <br>d: Generieren eines Berichts, wenn DKIM fehlschlägt
     <br>s: Bericht generieren, wenn SPF fehlschlägt</td>
     <td>1 (empfohlen für DMARC-Berichte)</td>
   </tr>

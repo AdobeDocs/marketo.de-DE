@@ -2,7 +2,7 @@
 description: '[!DNL Dynamic Chat] - Marketo-Dokumente - Produktdokumentation'
 title: '[!DNL Dynamic Chat] Aktivitäten'
 exl-id: ef3bb1a3-6758-4798-92eb-fef28a5ff9c7
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 4%
@@ -27,7 +27,7 @@ ht-degree: 4%
   </tr>
   <tr>
     <td style="width:25%"><b>Interagiert mit einem Gesprächsfluss/-dialog</b></td>
-    <td>Eine Interaktion findet statt, wenn ein Web-Besucher zum ersten Mal in einem Dialogfeld oder einem Gesprächsfluss auf eine Eingabeaufforderung klickt (Klick auf eine Multiple-Choice-Option, Senden von Informationen, Buchung eines Meetings, Öffnen eines Dokuments usw.). Wenn ein Besucher ein Dialogfeld oder einen Gesprächsfluss öffnet, aber nicht auf eine Eingabeaufforderung klickt, wird <b> Interaktion </b>. 
+    <td>Eine Interaktion findet statt, wenn ein Web-Besucher zum ersten Mal in einem Dialogfeld oder einem Gesprächsfluss auf eine Eingabeaufforderung klickt (Klick auf eine Multiple-Choice-Option, Senden von Informationen, Buchung eines Meetings, Öffnen eines Dokuments usw.). Wenn ein Besucher ein Dialogfeld oder einen Gesprächsfluss öffnet, aber nicht auf eine Eingabeaufforderung klickt, wird <b> Interaktion </b>.
     <br>Ein Interaktionsereignis pro Besucher und Sitzung.</td>
   </tr>
    <tr>

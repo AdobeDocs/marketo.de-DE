@@ -3,7 +3,7 @@ description: Live-Chat - Übersicht - Marketo-Dokumente - Produktdokumentation
 title: Live-Chat - Übersicht
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 19f7a38a6a87bc66084e7e45f5bf49cd0d29c3cd
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '842'
 ht-degree: 0%
@@ -49,25 +49,25 @@ Wenn Sie im Stream auf die Live-Chat-Karte klicken, können Sie auswählen, wie 
 
 ![](assets/live-chat-overview-2.png)
 
-<table> 
- <tbody> 
-  <tr> 
+<table>
+ <tbody>
+  <tr>
    <td><b>Round-Robin</b></td>
    <td>Chats werden Agenten in sequenzieller Reihenfolge zugewiesen.</td>
-  </tr> 
-  <tr> 
+  </tr>
+  <tr>
    <td><b>Agent</b></td>
    <td>Wählen Sie einen bestimmten Agenten aus, um den Chat zu erhalten.</td>
   </tr>
-    <tr> 
+    <tr>
    <td><b>Benutzerdefinierte Regeln</b></td>
    <td>Alle benutzerdefinierten Regeln werden durchlaufen, wenn überlegt wird, wohin der Besucher weitergeleitet werden soll. Wenn sich der Besucher nicht für eine benutzerdefinierte Regel qualifiziert, erhält er die <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback" target="_blank">Live-Chat-Fallback-Nachricht</a>.</td>
-  </tr> 
-  <tr> 
+  </tr>
+  <tr>
    <td><b>Team</b></td>
    <td>Wählen Sie ein bestimmtes Team aus, um den Chat zu erhalten. Wenn diese Option ausgewählt ist, wird sie innerhalb dieses Teams Round Robin zugewiesen.</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## Live-Chat-Benachrichtigungen {#live-chat-notifications}
@@ -102,7 +102,7 @@ Wenn ein Live-Chat an einen Agenten weitergeleitet wird, sehen sie ein blaues Ba
 >
 >Sie haben auch die Möglichkeit, Browser-Benachrichtigungen einzurichten, die Sie warnen, falls Sie nicht bei Dynamic Chat angemeldet sind.
 >
->* Aktivieren von Browser-Benachrichtigungen in [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop){target="_blank"}
+>* Aktivieren von Browser-Benachrichtigungen in [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&co=GENIE.Platform%3DDesktop){target="_blank"}
 >* Aktivieren von Browser-Benachrichtigungen in [Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}
 
 ### Benachrichtigungen zu fehlgeschlagenen Aktionen {#failed-action-notifications}

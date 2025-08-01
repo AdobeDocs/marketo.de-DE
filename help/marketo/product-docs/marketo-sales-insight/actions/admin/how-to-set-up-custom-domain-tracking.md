@@ -3,7 +3,7 @@ description: Einrichten des Trackings benutzerdefinierter Domains - Marketo-Doku
 title: Einrichten der benutzerdefinierten Domain-Verfolgung
 exl-id: 6dea7f3d-d44d-4f67-af44-a8963c95c378
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%
@@ -32,7 +32,7 @@ Nachdem Sie sich bei Ihrem IT-Team vergewissert haben, dass der CNAME ordnungsge
 
    ![](assets/how-to-set-up-custom-domain-tracking-1.png)
 
-1. Wählen [!UICONTROL &#x200B; unter „Admin] die Option **[!UICONTROL Tracking]** aus.
+1. Wählen [!UICONTROL  unter „Admin] die Option **[!UICONTROL Tracking]** aus.
 
    ![](assets/how-to-set-up-custom-domain-tracking-2.png)
 

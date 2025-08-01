@@ -4,7 +4,7 @@ description: E-Mail-Verbindung für Outlook-Benutzer - Marketo-Dokumente - Produ
 title: E-Mail-Verbindung für Outlook-Benutzer
 exl-id: e694915c-39a6-4476-a643-080acb758de7
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 1%
@@ -47,15 +47,15 @@ Wenn Sie eine Verbindung zu [!DNL Outlook] herstellen, erhalten Sie ein Tracking
 
    ![](assets/six-a.png)
 
-   <table> 
+   <table>
     <tbody>
      <tr>
-      <td><strong>[!DNL Outlook Online]</strong></td> 
-      <td>Auch bekannt als [!DNL Exchange Online]</td> 
+      <td><strong>[!DNL Outlook Online]</strong></td>
+      <td>Auch bekannt als [!DNL Exchange Online]</td>
      </tr>
      <tr>
-      <td><strong>[!DNL Exchange On-premise]</strong></td> 
-      <td>Einschließlich [!DNL Exchange] 2013 und 2016</td> 
+      <td><strong>[!DNL Exchange On-premise]</strong></td>
+      <td>Einschließlich [!DNL Exchange] 2013 und 2016</td>
      </tr>
     </tbody>
    </table>
@@ -90,7 +90,7 @@ Wenn Sie eine Verbindung zu [!DNL Exchange On-Premise] herstellen, erhalten Sie 
 
    ![](assets/one.png)
 
-1. Wählen [!UICONTROL &#x200B; unter „Mein &#x200B;]&quot; die Option **[!UICONTROL E-Mail-Einstellungen]** aus.
+1. Wählen [!UICONTROL  unter „Mein ]&quot; die Option **[!UICONTROL E-Mail-Einstellungen]** aus.
 
    ![](assets/two.png)
 
@@ -110,15 +110,15 @@ Wenn Sie eine Verbindung zu [!DNL Exchange On-Premise] herstellen, erhalten Sie 
 
    ![](assets/six-b.png)
 
-   <table> 
+   <table>
     <tbody>
      <tr>
-      <td><strong>[!DNL Outlook Online]</strong></td> 
-      <td>Auch bekannt als [!DNL Exchange Online]</td> 
+      <td><strong>[!DNL Outlook Online]</strong></td>
+      <td>Auch bekannt als [!DNL Exchange Online]</td>
      </tr>
      <tr>
-      <td><strong>[!DNL Exchange On-premise]</strong></td> 
-      <td>Einschließlich [!DNL Exchange] 2013 und 2016</td> 
+      <td><strong>[!DNL Exchange On-premise]</strong></td>
+      <td>Einschließlich [!DNL Exchange] 2013 und 2016</td>
      </tr>
     </tbody>
    </table>

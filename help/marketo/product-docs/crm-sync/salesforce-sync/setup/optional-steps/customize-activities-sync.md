@@ -4,7 +4,7 @@ description: Anpassen der Aktivitätssynchronisierung - Marketo-Dokumente - Prod
 title: Aktivitätssynchronisierung anpassen
 exl-id: 938d83dc-b9b1-41d8-bf98-04548b074ec4
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '306'
 ht-degree: 0%
@@ -35,67 +35,67 @@ Wenn Sie Marketo Sales Insight nicht verwenden, kann Marketo Engage Salesforce-A
    >
    >Nach der Aktivierung überträgt Marketo den Aktivitätsverlauf für drei Monate. Je nach Datenmenge (_kann mehrere Tage dauern_. Aktualisierungen, die während der ersten Push-Aktivitäten auftreten, können verzögert werden, bis die Synchronisierung der ersten Aktivitäten abgeschlossen ist.
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <thead> 
-  <tr> 
-   <th>Aktivitätstyp</th> 
-   <th>Beschreibung</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>[!UICONTROL ausgefülltes Formular]</td> 
-   <td>Beliebiges Marketo-Formular ausgefüllt</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL zur Liste hinzugefügt]</td> 
-   <td><p>Flussschritt: wurde zu einer statischen Liste hinzugefügt</p></td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL E-Mail gesendet]</td> 
-   <td>Flussschritt: Es wurde eine E-Mail gesendet</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL E-Mail zugestellt]</td> 
-   <td>Eine E-Mail erhalten (nicht zurückgesendet)</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL E-Mail geöffnet]</td> 
-   <td>Geöffnete E-Mails (ohne Bilder zu blockieren)</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Link in E-Mail angeklickt]</td> 
-   <td>Auf einen Link in einer von Marketo gesendeten E-Mail geklickt</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL aus Liste entfernt]</td> 
-   <td>Flussschritt: wurde aus einer statischen Liste entfernt</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Aus Fluss entfernen]</td> 
-   <td>Flussschritt: Aus Fluss entfernen</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Verkaufs-E-Mail gesendet]</td> 
-   <td>Eine E-Mail wurde über Marketo Sales Insight gesendet</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Verkaufs-E-Mail geöffnet]</td> 
-   <td>hat eine über Marketo Sales Insight gesendete E-Mail geöffnet</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Link in Verkaufs-E-Mail anklicken]</td> 
-   <td>Auf einen Link in einer über Marketo Sales Insight gesendeten E-Mail geklickt</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Verkaufs-E-Mail empfangen]</td> 
-   <td>Eine E-Mail wurde vom Vertriebsmitarbeiter im MSI Outlook-Plug-in empfangen und protokolliert.</td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <thead>
+  <tr>
+   <th>Aktivitätstyp</th>
+   <th>Beschreibung</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>[!UICONTROL ausgefülltes Formular]</td>
+   <td>Beliebiges Marketo-Formular ausgefüllt</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL zur Liste hinzugefügt]</td>
+   <td><p>Flussschritt: wurde zu einer statischen Liste hinzugefügt</p></td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL E-Mail gesendet]</td>
+   <td>Flussschritt: Es wurde eine E-Mail gesendet</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL E-Mail zugestellt]</td>
+   <td>Eine E-Mail erhalten (nicht zurückgesendet)</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL E-Mail geöffnet]</td>
+   <td>Geöffnete E-Mails (ohne Bilder zu blockieren)</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Link in E-Mail angeklickt]</td>
+   <td>Auf einen Link in einer von Marketo gesendeten E-Mail geklickt</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL aus Liste entfernt]</td>
+   <td>Flussschritt: wurde aus einer statischen Liste entfernt</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Aus Fluss entfernen]</td>
+   <td>Flussschritt: Aus Fluss entfernen</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Verkaufs-E-Mail gesendet]</td>
+   <td>Eine E-Mail wurde über Marketo Sales Insight gesendet</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Verkaufs-E-Mail geöffnet]</td>
+   <td>hat eine über Marketo Sales Insight gesendete E-Mail geöffnet</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Link in Verkaufs-E-Mail anklicken]</td>
+   <td>Auf einen Link in einer über Marketo Sales Insight gesendeten E-Mail geklickt</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Verkaufs-E-Mail empfangen]</td>
+   <td>Eine E-Mail wurde vom Vertriebsmitarbeiter im MSI Outlook-Plug-in empfangen und protokolliert.</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]

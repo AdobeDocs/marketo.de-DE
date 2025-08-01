@@ -3,7 +3,7 @@ description: Interaktions-Dashboard - Marketo-Dokumente - Produktdokumentation
 title: Interaktions-Dashboard
 feature: Interactive Webinars
 exl-id: 7fdb922a-a67a-4027-b9c2-8d8833c8eba0
-source-git-commit: 1839ccb646e775b67efa8de7d2d2bf3dbbbefa72
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1743'
 ht-degree: 0%
@@ -171,14 +171,14 @@ Wählen Sie im linken Bedienfeld die Option **[!UICONTROL Interaktionen]**, um a
 
 ![](assets/engagement-dashboard-9.png)
 
-Wählen Sie in der **die Registerkarte** Umfragen“ aus, um Fragen und Antworten anzuzeigen, die zur Umfrage hinzugefügt wurden. Auf dieser Registerkarte werden die folgenden Informationen angezeigt:
+Wählen Sie in der **[!UICONTROL die Registerkarte]** Umfragen“ aus, um Fragen und Antworten anzuzeigen, die zur Umfrage hinzugefügt wurden. Auf dieser Registerkarte werden die folgenden Informationen angezeigt:
 
 * Wählen Sie **[!UICONTROL Bericht abfragen (CSV)]**, um den Bericht für Interaktionen im Abrufbereich herunterzuladen.
 * Frage und Typ der Abfrage.
 * Anzahl der Antworten und der Zeitraum, in dem der Pod offen und aktiv war.
 * Wählen **Alle `<number>` Antworten anzeigen**, um sie in einem Dialogfenster anzuzeigen.
 
-Wählen Sie in der **die Registerkarte** Sonstige Interaktionen“ aus, um Interaktionen in anderen Pods anzuzeigen und deren Berichte herunterzuladen.
+Wählen Sie in der **[!UICONTROL die Registerkarte]** Sonstige Interaktionen“ aus, um Interaktionen in anderen Pods anzuzeigen und deren Berichte herunterzuladen.
 
 ![](assets/engagement-dashboard-10.png)
 
@@ -289,7 +289,7 @@ Verstehen Sie die Kriterien zur Klassifizierung des Interaktionsniveaus für jed
 
 <table><thead>
   <tr>
-    <th>Interaktionsstufe</th>
+    <th>Interaktions-Level</th>
     <th>Klassifizierungskriterien</th>
   </tr></thead>
 <tbody>

@@ -4,7 +4,7 @@ description: Hinzufügen von Vibes als LaunchPoint-Service - Marketo-Dokumente -
 title: Hinzufügen von Vibes als LaunchPoint-Service
 exl-id: 13f153c1-609e-4bee-a588-eb4665755acc
 feature: Mobile Marketing
-source-git-commit: c0e2c460559860a22a649e67624db0ad717ae327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 1%

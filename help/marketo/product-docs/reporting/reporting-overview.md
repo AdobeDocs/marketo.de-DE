@@ -3,7 +3,7 @@ description: Reporting-Übersicht - Marketo-Dokumente - Produktdokumentation
 title: Reporting - Übersicht
 exl-id: 62b4b9fc-a4fe-4298-947b-1ff453321464
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '387'
 ht-degree: 1%
@@ -28,11 +28,11 @@ Verwenden Sie Analysen und Sendungen , um [leistungsstarke Einblicke“ ](/help/
 
 ## Erweiterte BI-Analyseberichte {#advanced-bi-analytics-reporting}
 
-_(früher als Umsatzzyklus-Explorer/Erweiterter Report Builder bezeichnet)_
+_(früher als Revenue Cycle Explorer/Advanced Report Builder bezeichnet)_
 
 >[!AVAILABILITY]
 >
->Nicht jeder hat die Module Advanced BI Analytics und Advanced Journey Analytics erworben. Wenden Sie sich an das Adobe-Account-Team (Ihren Account Manager), um weitere Informationen zu erhalten.
+>Nicht jeder hat die Module Advanced BI Analytics und Advanced Journey Analytics erworben. Wenden Sie sich an das Adobe Account Team (Ihren Account Manager), um weitere Informationen zu erhalten.
 
 Verfolgen Sie den ROI Ihrer Marketing-Initiativen. Analysieren von E-Mails, Personen, Programmen, Opportunities, Modellleistungsanalysen (Unternehmen) und Modellleistungsanalysen (Leads). Mit dem BI Explorer können Sie benutzerdefinierte Berichte im Analysebereich erstellen und Diagramme, Diagramme, Pivot-Bereiche und Dashboards mit Ihren Daten erstellen.
 

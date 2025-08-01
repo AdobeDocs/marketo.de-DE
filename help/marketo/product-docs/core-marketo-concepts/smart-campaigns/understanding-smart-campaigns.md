@@ -4,7 +4,7 @@ description: Grundlegendes zu Smart Campaign - Marketo-Dokumente - Produktdokume
 title: Grundlegendes zu Smart-Kampagnen
 exl-id: 94675059-cc04-4dc2-989f-aaf81e1260d3
 feature: Smart Campaigns
-source-git-commit: 6dd6ce30dd90684ca685ae709cd9ab95e1c7d7e8
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 16%
@@ -21,24 +21,24 @@ Die intelligente Kampagne umfasst drei Hauptbereiche: die Registerkarten [Smart 
 
 Mit der Smart-Liste definieren Sie, _wer_ mit Ihrer Smart-Kampagne angesprochen werden soll. Es hat Filter und Trigger.
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>Typ</th> 
-   <th>Beispiel</th> 
-   <th>Erklärung</th> 
-  </tr> 
-  <tr> 
-   <td>Filter</td> 
-   <td>Angeklickter Link</td> 
-   <td><p>Erfassen Sie alle Personen in einem Batch, die sich derzeit qualifizieren.</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">Auslöser</td> 
-   <td colspan="1">Klickt auf Link</td> 
-   <td colspan="1">In dem Moment, in dem jemand etwas tut, feuere den Fluss sofort.</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>Typ</th>
+   <th>Beispiel</th>
+   <th>Erklärung</th>
+  </tr>
+  <tr>
+   <td>Filter</td>
+   <td>Angeklickter Link</td>
+   <td><p>Erfassen Sie alle Personen in einem Batch, die sich derzeit qualifizieren.</p></td>
+  </tr>
+  <tr>
+   <td colspan="1">Auslöser</td>
+   <td colspan="1">Klickt auf Link</td>
+   <td colspan="1">In dem Moment, in dem jemand etwas tut, feuere den Fluss sofort.</td>
+  </tr>
+ </tbody>
 </table>
 
 Sie können Filter auf verschiedene Arten kombinieren und in Verbindung mit Triggern verwenden. Dies ist ein leistungsstarkes Tool - experimentieren Sie damit.

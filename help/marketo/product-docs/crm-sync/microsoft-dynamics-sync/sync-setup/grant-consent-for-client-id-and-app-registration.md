@@ -3,7 +3,7 @@ description: Einverständnis für Client-ID und App-Registrierung erteilen - Mar
 title: Einverständnis für Client-ID und App-Registrierung erteilen
 exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '263'
 ht-degree: 0%
@@ -30,25 +30,25 @@ Gehen Sie wie folgt vor, um zu erfahren, wie Sie die erforderlichen Einverständ
    state value can be any ID (e.g.,12345)
    ```
 
-   <table> 
-    <colgroup> 
-     <col> 
-     <col> 
-    </colgroup> 
-    <tbody> 
-     <tr> 
-      <td><strong>client_id value</strong></td> 
-      <td>sollte die im Prozess zur App-Registrierung generierte client_id sein</td> 
-     </tr> 
-     <tr> 
-      <td><strong>Wert für redirect_uri</strong></td> 
-      <td>sollte mit dem Wert übereinstimmen, der zum Zeitpunkt der App-Registrierung &gt; Umleitungs-URIs eingegeben wurde</td> 
-     </tr> 
-     <tr> 
-      <td><strong>Zustandswert</strong></td> 
-      <td>kann eine beliebige ID sein (z. B. 12345)</td> 
-     </tr> 
-    </tbody> 
+   <table>
+    <colgroup>
+     <col>
+     <col>
+    </colgroup>
+    <tbody>
+     <tr>
+      <td><strong>client_id value</strong></td>
+      <td>sollte die im Prozess zur App-Registrierung generierte client_id sein</td>
+     </tr>
+     <tr>
+      <td><strong>Wert für redirect_uri</strong></td>
+      <td>sollte mit dem Wert übereinstimmen, der zum Zeitpunkt der App-Registrierung &gt; Umleitungs-URIs eingegeben wurde</td>
+     </tr>
+     <tr>
+      <td><strong>Zustandswert</strong></td>
+      <td>kann eine beliebige ID sein (z. B. 12345)</td>
+     </tr>
+    </tbody>
    </table>
 
    Die endgültige URL sollte in etwa wie folgt aussehen: `https://login.microsoftonline.com/common/oauth2/authorize?client_id=xxxxxx-xxxx-xxxx-xxxx-xxxxxxxx&response_type=code&redirect_uri=https://www.marketo.com&response_mode=query&state=12345`
@@ -75,7 +75,7 @@ Als Admin können Sie auch den delegierten Berechtigungen einer Anwendung im Nam
 
 1. Navigieren Sie in Ihrem Azure-Portal zur Startseite der Anwendung.
 
-1. Klicken [!UICONTROL &#x200B; unter &quot;]&quot; auf **[!UICONTROL API-]**.
+1. Klicken [!UICONTROL  unter &quot;]&quot; auf **[!UICONTROL API-]**.
 
    ![](assets/grant-consent-for-client-id-app-registration-4.png)
 

@@ -4,7 +4,7 @@ description: Retargeting mit Web-Personalization-Daten - Marketo-Dokumente - Pro
 title: Retargeting mit Web Personalization-Daten
 exl-id: b5af1f84-2061-4d0d-9d1f-2fff9191f028
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '388'
 ht-degree: 2%
@@ -26,30 +26,30 @@ Web Personalization hängt derzeit Daten an die folgenden Remarketing-Plattforme
 
 [!DNL Web Personalization] sendet die folgenden Daten an die Remarketing-Plattformen, um Zielgruppen zu erstellen und Remarketing-Werbekampagnen auszuführen:
 
-<table> 
- <tbody> 
-  <tr> 
-   <th colspan="1">[!DNL Web Personalization] Daten</th> 
-  </tr> 
-  <tr> 
-   <th><p>Branche</p></th> 
-  </tr> 
-  <tr> 
-   <th><p>Gruppe (Unternehmen, KMU)</p></th> 
-  </tr> 
-  <tr> 
-   <th><p>Kategorie (Fortune 500/1000, Global 2000)</p></th> 
-  </tr> 
-  <tr> 
-   <th><p>ABM-Liste (benannte Kontolisten)</p></th> 
-  </tr> 
-  <tr> 
-   <th><p>Segmentierte Zielgruppe (basierend auf Segmenten)</p></th> 
-  </tr> 
-  <tr> 
-   <th><p>Web-Kampagnen angeklickt</p></th> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th colspan="1">[!DNL Web Personalization] Daten</th>
+  </tr>
+  <tr>
+   <th><p>Branche</p></th>
+  </tr>
+  <tr>
+   <th><p>Gruppe (Unternehmen, KMU)</p></th>
+  </tr>
+  <tr>
+   <th><p>Kategorie (Fortune 500/1000, Global 2000)</p></th>
+  </tr>
+  <tr>
+   <th><p>ABM-Liste (benannte Kontolisten)</p></th>
+  </tr>
+  <tr>
+   <th><p>Segmentierte Zielgruppe (basierend auf Segmenten)</p></th>
+  </tr>
+  <tr>
+   <th><p>Web-Kampagnen angeklickt</p></th>
+  </tr>
+ </tbody>
 </table>
 
 ## Remarketing-Konfiguration {#remarketing-configuration}

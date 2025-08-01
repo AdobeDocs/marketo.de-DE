@@ -3,7 +3,7 @@ description: Dynamic Chat-Versionshinweise – Marketo-Dokumente – Produktdoku
 title: Versionshinweise zu Dynamic Chat
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: 5dbc3add8acaae02f25c1f9b9ae39ecfc1aaf259
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '3408'
 ht-degree: 2%
@@ -49,7 +49,7 @@ Wenn der Agent nicht verfügbar ist, führt das System Folgendes aus:
 * Stattdessen gilt Folgendes:
 
    * Zeigt den Besprechungskalender des zugeordneten Agenten an (falls aktiviert),
-&#x200B;- oder -
+- oder -
    * Kehrt zu einer Standardmeldung zurück (im schlimmsten Fall).
 
 Die Routing-Regel auf Kartenebene (z. B. Team, Benutzerdefiniert) wird nur berücksichtigt, wenn das Konto-Routing nicht zulässig ist (keine übereinstimmende Domain oder Agent).
@@ -65,7 +65,7 @@ Ein Round-Robin-Fallback wird nicht ausgelöst, nur weil ein Agent nicht reagier
 Wenn keiner der Agenten eingreift:
 
 * Das System zeigt den Kalender des ersten Agenten an (falls aktiviert).
-&#x200B;- oder -
+- oder -
 * Zeigt die standardmäßige Fallback-Nachricht an.
 
 ##### —Round Robin Routing—
@@ -95,7 +95,7 @@ Routingregel auf Kartenebene (benutzerdefiniert, Team, Round Robin) wird ausgewe
 * Wenn keine Interaktion erfolgreich ist, wird eine Ausweichlogik angewendet:
 
    * Kalender-Fallback (falls aktiviert),
-&#x200B;- oder -
+- oder -
    * Standardnachricht.
 
 Ein Round-Robin-Fallback wird nur berücksichtigt, wenn keine geeigneten Agenten aus der primären Routing-Regel gefunden werden, nicht, wenn einzelne Agenten nicht reagieren.
@@ -104,7 +104,7 @@ Ein Round-Robin-Fallback wird nur berücksichtigt, wenn keine geeigneten Agenten
 
 <p>
 
-_&#x200B;**Konto-Routing**&#x200B;_
+_**Konto-Routing**_
 
 <table><thead>
   <tr>
@@ -130,7 +130,7 @@ _&#x200B;**Konto-Routing**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Benutzerdefiniertes Routing**&#x200B;_
+_**Benutzerdefiniertes Routing**_
 
 <table><thead>
   <tr>
@@ -156,7 +156,7 @@ _&#x200B;**Benutzerdefiniertes Routing**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Team-Routing**&#x200B;_
+_**Team-Routing**_
 
 <table><thead>
   <tr>
@@ -182,7 +182,7 @@ _&#x200B;**Team-Routing**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Round Robin-Routing**&#x200B;_
+_**Round Robin-Routing**_
 
 <table><thead>
   <tr>

@@ -4,7 +4,7 @@ description: Verwalten von Benutzerrollen und -berechtigungen - Marketo-Dokument
 title: Verwalten von Benutzerrollen und Berechtigungen
 exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
 feature: Users and Roles
-source-git-commit: c10ecc0ccad28f2e480343acefe10f5eca2ae578
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '489'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Marketo bietet mehrere integrierte Rollen mit unterschiedlichen Zugriffsebenen:
 
 Sie können die Rollen „Admin“ und „Standard-Benutzer“ nicht bearbeiten, aber die anderen. Sie können auch neue benutzerdefinierte Rollen erstellen, die den bestimmten Organisationsstrukturen in Ihrem Unternehmen entsprechen.
 
-## Marketo mit Adobe-Identität {#marketo-with-adobe-identity}
+## Marketo mit Adobe Identity {#marketo-with-adobe-identity}
 
 Wenn Sie Marketo mit Adobe Identity verwenden, finden Sie [ Liste der Profilbeschreibungen hier](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md#profile-levels).
 
@@ -103,7 +103,7 @@ Wenn Sie die Berechtigungen ändern müssen, die einer vorhandenen Rolle zugeord
 
    ![](assets/managing-user-roles-and-permissions-13.png)
 
-1. Ändern Sie bei **den**&#x200B;[!UICONTROL &#x200B; Rollenname &#x200B;]&#x200B;**und** Beschreibung ändern Sie die Auswahl der zugehörigen **[!UICONTROL Berechtigungen]** und klicken Sie abschließend auf **[!UICONTROL Speichern]**.
+1. Ändern Sie bei **[!UICONTROL den]** Rollenname **[!UICONTROL und]** Beschreibung ändern Sie die Auswahl der zugehörigen **[!UICONTROL Berechtigungen]** und klicken Sie abschließend auf **[!UICONTROL Speichern]**.
 
    ![](assets/managing-user-roles-and-permissions-14.png)
 

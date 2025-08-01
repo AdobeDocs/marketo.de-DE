@@ -4,7 +4,7 @@ description: Synchronisieren einer SFDC-Kampagne mit einem Programm - Marketo-Do
 title: Synchronisieren einer SFDC-Kampagne mit einem Programm
 exl-id: b95be580-c960-4a76-9d43-c7f624f43d03
 feature: Programs
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 1%
@@ -13,7 +13,7 @@ ht-degree: 1%
 
 # Synchronisieren einer SFDC-Kampagne mit einem Programm {#sync-an-sfdc-campaign-with-a-program}
 
-Mit Marketo Engage können Sie Ihre Programme mit [!DNL Salesforce] Kampagnen synchronisieren, um dieselbe Liste von Personen in beiden Systemen einschließlich ihres Status beizubehalten. Los geht‘s!
+Marketo Engage ermöglicht es Ihnen, Ihre Programme mit [!DNL Salesforce] Kampagnen zu synchronisieren, um die gleiche Liste von Personen in beiden Systemen einschließlich ihres Status beizubehalten. Los geht‘s!
 
 >[!PREREQUISITES]
 >

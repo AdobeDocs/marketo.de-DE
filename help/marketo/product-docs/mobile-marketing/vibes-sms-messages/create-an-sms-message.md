@@ -3,7 +3,7 @@ description: Erstellen einer SMS-Nachricht - Marketo-Dokumente - Produktdokument
 title: Erstellen einer SMS-Nachricht
 feature: Mobile Marketing
 exl-id: 94749ea4-2fe3-4d90-9b31-35700ddd1670
-source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '481'
 ht-degree: 2%

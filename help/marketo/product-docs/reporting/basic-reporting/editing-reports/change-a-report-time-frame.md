@@ -4,7 +4,7 @@ description: Ändern des Zeitrahmens für Berichte - Marketo-Dokumente - Produkt
 title: Ändern des Berichtszeitrahmens
 exl-id: 096e78c5-1a63-4a53-bed0-7cf2e40c4aee
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
@@ -43,7 +43,7 @@ ht-degree: 0%
    >
    >Um bestimmte Datumswerte festzulegen, wählen **[!UICONTROL Benutzerdefiniert]** aus dem Dropdown-Menü aus und geben Sie die Daten in die **[!UICONTROL Von]** und **[!UICONTROL Bis]** Kalenderfelder ein.
 
-   Klicken Sie auf **[!UICONTROL Bericht]**, um den Bericht für den ausgewählten Zeitraum anzuzeigen.\
+   Klicken Sie auf **[!UICONTROL Bericht]**, um den Bericht für den ausgewählten Zeitraum anzuzeigen.
    ![](assets/image2017-3-27-9-3a59-3a1.png)
 
    >[!MORELIKETHIS]

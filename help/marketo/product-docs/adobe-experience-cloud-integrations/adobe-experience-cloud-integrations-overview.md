@@ -3,7 +3,7 @@ description: Übersicht über Adobe Experience Cloud-Integrationen - Marketo-Dok
 title: Übersicht über Adobe Experience Cloud-Integrationen
 exl-id: ae75fb01-4b46-412f-b153-6f37c8de9b65
 feature: Integrations
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Übersicht über Adobe Experience Cloud-Integrationen{#adobe-experience-cloud-integrations-overview}
 
-Adobe bietet eine robuste Demand-Marketing-Lösung, die mit der nativen Zielgruppensynchronisierung der Adobe Experience Cloud-Produkte beginnt. Nutzen Sie einzigartige B2B-zentrierte Daten in Adobe Audience Manager und erschließen Sie leistungsstarke Anwendungsfälle für Demand Marketing sowie ungenutztes Potenzial für bestehende Adobe-Anwendungen.
+Adobe bietet eine robuste Demand Marketing-Lösung, die mit der nativen Zielgruppensynchronisierung der Adobe Experience Cloud-Produkte beginnt. Nutzen Sie einzigartige B2B-zentrierte Daten in Adobe Audience Manager und erschließen Sie leistungsstarke Anwendungsfälle für Demand Marketing sowie ungenutztes Potenzial für bestehende Adobe-Anwendungen.
 
 >[!NOTE]
 >
@@ -26,7 +26,7 @@ Adobe bietet eine robuste Demand-Marketing-Lösung, die mit der nativen Zielgrup
 
 * [Senden einer Liste an Adobe Experience Cloud](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md){target="_blank"}
 
-Ermöglicht die Synchronisierung von statischen Listen bekannter Personen vom Marketo Engage mit mehreren AEC-Programmen, wodurch bestehende Programme verbessert, neue Anwendungsfälle freigeschaltet und Multi-Channel-Kampagnen orchestriert werden. Diese Integration umfasst: Adobe Analytics, Adobe Target, Adobe Experience Manager, Adobe Audience Manager und Adobe Advertising Cloud.
+Ermöglicht die Synchronisierung von statischen Listen bekannter Personen aus Marketo Engage mit mehreren AEC-Programmen, wodurch bestehende Programme verbessert, neue Anwendungsfälle freigeschaltet und Multi-Channel-Kampagnen orchestriert werden. Diese Integration umfasst: Adobe Analytics, Adobe Target, Adobe Experience Manager, Adobe Audience Manager und Adobe Advertising Cloud.
 
 **Marketo-Integration mit Adobe Experience Manager**
 

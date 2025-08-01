@@ -4,7 +4,7 @@ description: Benutzerzugriff auf eine Workspace zulassen - Marketo-Dokumente - P
 title: Zulassen des Benutzerzugriffs auf eine Workspace
 exl-id: 8ccec529-ae28-4bf8-a9ba-4d9c7df809d9
 feature: Workspaces
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
@@ -46,4 +46,3 @@ Arbeitsbereiche können aus jedem Grund (z. B. Geschäftseinheit oder geografisc
 Nach dem Speichern der Änderungen sollte die Aktualisierung angezeigt werden.
 
 ![](assets/allow-user-access-to-a-workspace-5.png)
-

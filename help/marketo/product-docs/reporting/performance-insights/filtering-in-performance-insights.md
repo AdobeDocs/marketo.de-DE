@@ -4,7 +4,7 @@ description: Filtern in „Leistungseinblicke“ - Marketo-Dokumente - Produktdo
 title: Filtern in Performance Insights
 exl-id: c86260b7-fd5c-4d40-a8da-c9e3f09be14d
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 4%
@@ -45,37 +45,37 @@ Sie können einen Filter jederzeit entfernen, indem Sie auf das X daneben klicke
 
 ## Verfügbare Filter {#available-filters}
 
-<table> 
- <tbody> 
-  <tr> 
-   <td colspan="1"><strong><span class="uicontrol">ABM Kontoliste</span></strong></td> 
-   <td colspan="1">Wenn Sie Marketo ABM verwenden, werden alle Ihre Kontolisten mit MPI synchronisiert und über den Filter „ABM-Kontoliste“ angezeigt. Sie können eine Kontenliste auswählen, um die Ergebnisse nach diesen Konten zu filtern.<a href="https://docs.marketo.com/display/public/DOCS/Account-Based+Web+Marketing+with+ABM" rel="nofollow">Erfahren Sie mehr über ABM-Kontolisten.</a></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong><span class="uicontrol">ABM-Namenskonto</span></strong></td> 
-   <td colspan="1">Wenn Sie Marketo ABM verwenden, werden alle Ihre benannten Konten mit MPI synchronisiert und über den Filter „ABM Named Account“ angezeigt. Sie können ein benanntes Konto auswählen, um die Ergebnisse nach diesen Konten zu filtern.<a href="https://docs.marketo.com/x/eaCt" rel="nofollow">Erfahren Sie mehr über benannte ABM-Konten.</a></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong><span class="uicontrol">Benutzerdefiniertes Attribut</span></strong></td> 
-   <td colspan="1"><p>Diese werden von euch bestimmt. Alle Felder, <a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md" rel="nofollow"> Sie für </a> Opportunity-Analyse aktivieren, können in Performance Insights gefiltert werden.</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p><strong><span class="uicontrol">Investitionszeitraum</span></strong></p></td> 
-   <td colspan="1"><p>Zeitrahmen der Programmkosten.</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p><strong><span class="uicontrol">Opportunity</span></strong></p></td> 
-   <td colspan="1"><p>Opportunity-Typ wie im Opportunity-Objekt in Ihrem Salesforce (CRM)-Setup eingerichtet.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">Programm-Tag</span></strong></p></td> 
-   <td><p>Tags werden verwendet, um Programme zu beschreiben. Sie können beliebig viele davon mit jeweils eindeutigen Werten erstellen. <a href="/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md" rel="nofollow">Hier erfahren Sie, wie Sie mit Programm-Tags arbeiten.</a></p></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Arbeitsbereich</span></strong></td> 
-   <td><p>Arbeitsbereiche sind separate Bereiche in Marketo, die Marketing-Assets enthalten, z. B.: Programme, Landingpages, E-Mails und mehr. <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" rel="nofollow">Weitere Informationen zu Arbeitsbereichen finden Sie hier.</a></p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td colspan="1"><strong><span class="uicontrol">ABM Kontoliste</span></strong></td>
+   <td colspan="1">Wenn Sie Marketo ABM verwenden, werden alle Ihre Kontolisten mit MPI synchronisiert und über den Filter „ABM-Kontoliste“ angezeigt. Sie können eine Kontenliste auswählen, um die Ergebnisse nach diesen Konten zu filtern.<a href="https://docs.marketo.com/display/public/DOCS/Account-Based+Web+Marketing+with+ABM" rel="nofollow">Erfahren Sie mehr über ABM-Kontolisten.</a></td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong><span class="uicontrol">ABM-Namenskonto</span></strong></td>
+   <td colspan="1">Wenn Sie Marketo ABM verwenden, werden alle Ihre benannten Konten mit MPI synchronisiert und über den Filter „ABM Named Account“ angezeigt. Sie können ein benanntes Konto auswählen, um die Ergebnisse nach diesen Konten zu filtern.<a href="https://docs.marketo.com/x/eaCt" rel="nofollow">Erfahren Sie mehr über benannte ABM-Konten.</a></td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong><span class="uicontrol">Benutzerdefiniertes Attribut</span></strong></td>
+   <td colspan="1"><p>Diese werden von euch bestimmt. Alle Felder, <a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md" rel="nofollow"> Sie für </a> Opportunity-Analyse aktivieren, können in Performance Insights gefiltert werden.</p></td>
+  </tr>
+  <tr>
+   <td colspan="1"><p><strong><span class="uicontrol">Investitionszeitraum</span></strong></p></td>
+   <td colspan="1"><p>Zeitrahmen der Programmkosten.</p></td>
+  </tr>
+  <tr>
+   <td colspan="1"><p><strong><span class="uicontrol">Opportunity</span></strong></p></td>
+   <td colspan="1"><p>Opportunity-Typ wie im Opportunity-Objekt in Ihrem Salesforce (CRM)-Setup eingerichtet.</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">Programm-Tag</span></strong></p></td>
+   <td><p>Tags werden verwendet, um Programme zu beschreiben. Sie können beliebig viele davon mit jeweils eindeutigen Werten erstellen. <a href="/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md" rel="nofollow">Hier erfahren Sie, wie Sie mit Programm-Tags arbeiten.</a></p></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Arbeitsbereich</span></strong></td>
+   <td><p>Arbeitsbereiche sind separate Bereiche in Marketo, die Marketing-Assets enthalten, z. B.: Programme, Landingpages, E-Mails und mehr. <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" rel="nofollow">Weitere Informationen zu Arbeitsbereichen finden Sie hier.</a></p></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]

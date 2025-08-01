@@ -4,7 +4,7 @@ description: Grundlegendes zu Content Analytics - Marketo-Dokumente - Produktdok
 title: Grundlegendes zu Content Analytics
 exl-id: 9266fdfe-2a12-43b0-84ad-d12eb8589ed4
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 1%
@@ -35,39 +35,39 @@ Sie können auch eine Datei im CSV-Format exportieren, indem Sie auf das Symbol 
 
 Die Analytics-Tabelle enthält die folgenden Details:
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">Name</th> 
-   <th colspan="1" rowspan="1">Beschreibung</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>[!UICONTROL Titel]</strong></td> 
-   <td colspan="1" rowspan="1">Name des Assets mit digitalen Inhalten. Klicken Sie <strong>Titel</strong>, um die Inhalts-URL in einer neuen Registerkarte zu öffnen.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p><strong>Recommendation </strong><strong>icon</strong></p><p><img alt="—" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></p></td> 
-   <td colspan="1">Zeigt an, ob das Inhaltselement für Inhaltsempfehlungen <a href="#"> wurde</a>.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL -Ansichten]</strong></p></td> 
-   <td colspan="1" rowspan="1"><p>Die Anzahl der Ansichten von Web-Besuchern über das Inhalts-Asset. Die Häufigkeit, mit der sie angezeigt, geöffnet, angesehen oder heruntergeladen wurde. Klicken Sie auf die Anzahl der Anzeigen in der Spalte, um einen Drilldown durchzuführen und zu sehen, wer den Inhalt angezeigt hat</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>[!UICONTROL Direct Conversions]</strong></td> 
-   <td colspan="1" rowspan="1">Web-Besucherinnen und -Besucher, die den Inhalt angesehen und ein Formular während desselben Besuchs ausgefüllt haben</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p><strong>Analytics-Symbol</strong></p><p><img alt="--" width="17" src="assets/analytics-icon.png" data-linked-resource-id="10097027" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></p></td> 
-   <td colspan="1">Weitere Analysen zum Inhaltsteil anzeigen</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p><strong>Löschsymbol</strong></p><p><img alt="--" src="assets/image2015-12-7-10-3a36-3a52.png" data-linked-resource-id="10096391" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></p></td> 
-   <td colspan="1">Löscht den Inhalt aus Content Analytics</td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">Name</th>
+   <th colspan="1" rowspan="1">Beschreibung</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Titel]</strong></td>
+   <td colspan="1" rowspan="1">Name des Assets mit digitalen Inhalten. Klicken Sie <strong>Titel</strong>, um die Inhalts-URL in einer neuen Registerkarte zu öffnen.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><p><strong>Recommendation </strong><strong>icon</strong></p><p><img alt="—" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></p></td>
+   <td colspan="1">Zeigt an, ob das Inhaltselement für Inhaltsempfehlungen <a href="#"> wurde</a>.</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL-Ansichten]</strong></p></td>
+   <td colspan="1" rowspan="1"><p>Die Anzahl der Ansichten von Web-Besuchern über das Inhalts-Asset. Die Häufigkeit, mit der sie angezeigt, geöffnet, angesehen oder heruntergeladen wurde. Klicken Sie auf die Anzahl der Anzeigen in der Spalte, um einen Drilldown durchzuführen und zu sehen, wer den Inhalt angezeigt hat</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Direct Conversions]</strong></td>
+   <td colspan="1" rowspan="1">Web-Besucherinnen und -Besucher, die den Inhalt angesehen und ein Formular während desselben Besuchs ausgefüllt haben</td>
+  </tr>
+  <tr>
+   <td colspan="1"><p><strong>Analytics-Symbol</strong></p><p><img alt="--" width="17" src="assets/analytics-icon.png" data-linked-resource-id="10097027" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></p></td>
+   <td colspan="1">Weitere Analysen zum Inhaltsteil anzeigen</td>
+  </tr>
+  <tr>
+   <td colspan="1"><p><strong>Löschsymbol</strong></p><p><img alt="--" src="assets/image2015-12-7-10-3a36-3a52.png" data-linked-resource-id="10096391" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></p></td>
+   <td colspan="1">Löscht den Inhalt aus Content Analytics</td>
+  </tr>
+ </tbody>
 </table>
 
 ## Weitere Content Analytics anzeigen {#view-additional-content-analytics}
@@ -86,7 +86,7 @@ Zu den zusätzlichen Inhaltsanalysen gehören:
 
 * **[!UICONTROL Ansichten]**: Ansichten dieses Inhaltselements für den ausgewählten Zeitraum
 * **[!UICONTROL Direkte Konversionen]**: Web-Besucher, die den Inhalt angesehen und ein Formular während desselben Besuchs ausgefüllt haben.
-* **[!UICONTROL Konversionsrate]**&#x200B;**:** Eine prozentuale Konversionsrate, berechnet durch direkte Konversionen dividiert durch Klicks
+* **[!UICONTROL Konversionsrate]****:** Eine prozentuale Konversionsrate, berechnet durch direkte Konversionen dividiert durch Klicks
 
 **[!UICONTROL Trends]**
 
@@ -96,7 +96,7 @@ Zu den zusätzlichen Inhaltsanalysen gehören:
 
 ![](assets/six.png)
 
-Klicken Sie auf der Seite [!UICONTROL 0&rbrace;Content Analytics&quot; auf das Löschsymbol des Inhalts, den Sie löschen möchten. &#x200B;] Es wird eine Meldung angezeigt, die bestätigt, dass Sie den Inhalt löschen möchten.
+Klicken Sie auf der Seite [!UICONTROL 0}Content Analytics&quot; auf das Löschsymbol des Inhalts, den Sie löschen möchten. ] Es wird eine Meldung angezeigt, die bestätigt, dass Sie den Inhalt löschen möchten.
 
 >[!MORELIKETHIS]
 >

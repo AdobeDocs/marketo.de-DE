@@ -4,7 +4,7 @@ description: Erfahren Sie, wie Sie Marketo Sales Insight in der Salesforce Profe
 title: Konfigurieren von Marketo Sales Insight in Salesforce Professional Edition
 exl-id: fae63560-0bb3-46a9-94a3-cc27c1aa363e
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '762'
 ht-degree: 0%
@@ -201,7 +201,7 @@ Personenfelder für Marketo müssen den Salesforce-Kontaktfeldern zugeordnet wer
 
 1. Klicken Sie in Salesforce auf das **+** am Ende der Registerkartenleiste und dann auf **[!UICONTROL Marketo Sales Insight Config]**.
 
-1. Kopieren Sie die Anmeldeinformationen aus dem SOAP-API-Bedienfeld auf der Admin-Seite von Marketo Insight [0&rbrace; und fügen Sie sie im Abschnitt SOAP-API der Konfigurationsseite von Salesforce Sales Insight ein.](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"}
+1. Kopieren Sie die Anmeldeinformationen aus dem SOAP-API-Bedienfeld auf der Admin-Seite von Marketo Insight [0} und fügen Sie sie im Abschnitt SOAP-API der Konfigurationsseite von Salesforce Sales Insight ein.](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"}
 
 1. Kopieren Sie die Anmeldeinformationen aus dem Bedienfeld **[!UICONTROL REST]** in der [Marketo Sales Insight Admin-](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} und fügen Sie sie im Abschnitt REST-API der Salesforce Sales Insight-Konfigurationsseite ein.
 

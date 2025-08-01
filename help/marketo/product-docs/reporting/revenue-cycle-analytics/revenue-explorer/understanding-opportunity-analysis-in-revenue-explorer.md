@@ -4,7 +4,7 @@ description: Verstehen der Opportunity-Analyse im Umsatz-Explorer - Marketo-Doku
 title: Verstehen der Opportunity-Analyse im Umsatz-Explorer
 exl-id: 2ef45d3e-7640-4c47-86ae-d7ae45ed1dd4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '899'
 ht-degree: 10%
@@ -55,7 +55,7 @@ Im Folgenden finden Sie einige Berichte, die Sie im Bereich Opportunity-Analyse 
 
    ![](assets/image2015-7-21-10-3a35-3a45.png)
 
-## Dimensionen und Maßnahmen zur Opportunity-Analyse {#opportunity-analysis-dimensions-and-measures}
+## Opportunity-Analyse Dimensionen und Kennzahlen {#opportunity-analysis-dimensions-and-measures}
 
 Die Opportunity-Analyse bietet Ihnen Zugriff auf alle Lead-, Unternehmens- und Opportunity-bezogenen Dimensionen und Opportunity-bezogenen Messgrößen. Verwenden Sie diese Opportunity Analysis-Dimensionen und -Kennzahlen, um spezifische Fragen in Ihrem Bericht zu beantworten.
 

@@ -3,7 +3,7 @@ description: Zugriff auf Sales Insight entfernen - Marketo-Dokumente - Produktdo
 title: Zugriff auf Sales Insight entfernen
 exl-id: 3cda112a-524e-469b-a222-c0192b2f5301
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '373'
 ht-degree: 3%
@@ -20,53 +20,53 @@ Für den Zugriff auf alle [!DNL Sales Insight] Funktionen ist eine Berechtigung 
 
 **Objekteinstellungen**
 
-<table> 
- <tbody> 
- <tr> 
-   <td>BestBetsCache</td> 
-   <td>Lesen, Erstellen, Bearbeiten, Löschen, Alle anzeigen, Alle ändern</td> 
-  </tr> 
-  <tr> 
-   <td>[!DNL Best Bets] Details anzeigen</td> 
-   <td>Lesen, Erstellen, Bearbeiten, Löschen, Alle anzeigen, Alle ändern</td> 
-  </tr> 
-  <tr> 
-   <td>[!DNL Best Bets] Ansichten</td> 
-   <td>Lesen, Erstellen, Bearbeiten, Löschen, Alle anzeigen, Alle ändern</td> 
-  </tr> 
-  <tr> 
-   <td>EmailActivityCache</td> 
-   <td>Lesen, Erstellen, Bearbeiten, Löschen, Alle anzeigen, Alle ändern</td> 
-  </tr> 
-  <tr> 
-   <td>GetMethodArgus</td> 
-   <td>Lesen, Erstellen, Bearbeiten, Löschen, Alle anzeigen, Alle ändern</td> 
-  </tr> 
-  <tr> 
-   <td>GroupedWebActivityCache</td> 
-   <td>Lesen, Erstellen, Bearbeiten, Löschen, Alle anzeigen, Alle ändern</td> 
-  </tr> 
-  <tr> 
-   <td>InterestingMomentsCache</td> 
-   <td>Lesen, Erstellen, Bearbeiten, Löschen, Alle anzeigen, Alle ändern</td> 
-  </tr> 
-  <tr> 
-   <td>[!DNL Marketo Sales Insight] Konfiguration</td> 
-   <td>Lesen, Erstellen, Bearbeiten, Löschen, Alle anzeigen, Alle ändern</td> 
-  </tr> 
-  <tr> 
-   <td>Scoring-Cache</td> 
-   <td>Lesen, Erstellen, Bearbeiten, Löschen, Alle anzeigen, Alle ändern</td> 
-  </tr> 
-  <tr> 
-   <td>Werte</td> 
-   <td>Lesen, Erstellen, Bearbeiten, Löschen, Alle anzeigen, Alle ändern</td> 
-  </tr> 
-  <tr> 
-   <td>WebActivityCache</td> 
-   <td>Lesen, Erstellen, Bearbeiten, Löschen, Alle anzeigen, Alle ändern</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+ <tr>
+   <td>BestBetsCache</td>
+   <td>Lesen, Erstellen, Bearbeiten, Löschen, Alle anzeigen, Alle ändern</td>
+  </tr>
+  <tr>
+   <td>[!DNL Best Bets] Details anzeigen</td>
+   <td>Lesen, Erstellen, Bearbeiten, Löschen, Alle anzeigen, Alle ändern</td>
+  </tr>
+  <tr>
+   <td>[!DNL Best Bets] Ansichten</td>
+   <td>Lesen, Erstellen, Bearbeiten, Löschen, Alle anzeigen, Alle ändern</td>
+  </tr>
+  <tr>
+   <td>EmailActivityCache</td>
+   <td>Lesen, Erstellen, Bearbeiten, Löschen, Alle anzeigen, Alle ändern</td>
+  </tr>
+  <tr>
+   <td>GetMethodArgus</td>
+   <td>Lesen, Erstellen, Bearbeiten, Löschen, Alle anzeigen, Alle ändern</td>
+  </tr>
+  <tr>
+   <td>GroupedWebActivityCache</td>
+   <td>Lesen, Erstellen, Bearbeiten, Löschen, Alle anzeigen, Alle ändern</td>
+  </tr>
+  <tr>
+   <td>InterestingMomentsCache</td>
+   <td>Lesen, Erstellen, Bearbeiten, Löschen, Alle anzeigen, Alle ändern</td>
+  </tr>
+  <tr>
+   <td>[!DNL Marketo Sales Insight] Konfiguration</td>
+   <td>Lesen, Erstellen, Bearbeiten, Löschen, Alle anzeigen, Alle ändern</td>
+  </tr>
+  <tr>
+   <td>Scoring-Cache</td>
+   <td>Lesen, Erstellen, Bearbeiten, Löschen, Alle anzeigen, Alle ändern</td>
+  </tr>
+  <tr>
+   <td>Werte</td>
+   <td>Lesen, Erstellen, Bearbeiten, Löschen, Alle anzeigen, Alle ändern</td>
+  </tr>
+  <tr>
+   <td>WebActivityCache</td>
+   <td>Lesen, Erstellen, Bearbeiten, Löschen, Alle anzeigen, Alle ändern</td>
+  </tr>
+ </tbody>
 </table>
 
 * Apex Class Access: 159 Apex-Klassen, die mit „mkto_si“ beginnen
@@ -81,7 +81,7 @@ Für den Zugriff auf alle [!DNL Sales Insight] Funktionen ist eine Berechtigung 
 
    ![](assets/remove-sales-insight-access-1.png)
 
-1. Klicken [!UICONTROL &#x200B; unter &#x200B;] auf **[!UICONTROL Benutzer verwalten]** gefolgt von **[!UICONTROL Profile]**.
+1. Klicken [!UICONTROL  unter ] auf **[!UICONTROL Benutzer verwalten]** gefolgt von **[!UICONTROL Profile]**.
 
 1. Klicken Sie auf das Profil, das Sie aktualisieren möchten, und dann auf **[!UICONTROL Bearbeiten]**.
 

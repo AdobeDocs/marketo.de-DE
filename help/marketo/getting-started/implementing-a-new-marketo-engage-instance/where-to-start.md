@@ -1,9 +1,9 @@
 ---
-description: Best Practices bei der Implementierung einer neuen Marketo Engage-Instanz. Wenn Sie die durchgeführten Vorgänge nachverfolgen, können Sie das Marketo Engage optimal nutzen und Ihre Instanz für langfristige Datenhygiene und Effizienz einrichten. Benutzen Sie als neuer Administrator, der in einer neuen Instanz navigiert, diese Handbücher, um fokussiert und organisiert zu bleiben.
+description: Erfahren Sie mehr über die Best Practices bei der Implementierung einer neuen Marketo Engage-Instanz. Wenn Sie die durchgeführten Vorgänge nachverfolgen, können Sie Marketo Engage optimal nutzen und Ihre Instanz für langfristige Hygiene und Effizienz einrichten. Benutzen Sie als neuer Administrator, der in einer neuen Instanz navigiert, diese Handbücher, um fokussiert und organisiert zu bleiben.
 title: Wo Sie beginnen
 feature: Getting Started
 exl-id: 91b751ab-88c5-4575-96f8-166f62f007e2
-source-git-commit: abd80b3370f7fd107a6ae55edfeb17c3eeb358ec
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '281'
 ht-degree: 0%
@@ -28,7 +28,7 @@ Bevor Sie sich mit den unten stehenden Best-Practice-Checklisten befassen, stell
 
 ## Best Practice-Checklisten für Ihre neue Marketo Engage-Instanz {#best-practice-checklists-new-instance}
 
-Laden Sie die Marketo Engage-Instanz [Checklisten für neue Implementierungs-](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx){target="_blank"}) herunter oder gehen Sie durch die unten stehenden Online-Handbücher.
+Laden Sie die Marketo Engage[Instanz (Checklisten für neue Implementierungs-](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx){target="_blank"}) herunter oder gehen Sie durch die unten stehenden Online-Handbücher.
 
 * [Admin-Abschnitt](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/admin-section-checklist.md){target="_blank"}
 
@@ -44,7 +44,7 @@ Laden Sie die Marketo Engage-Instanz [Checklisten für neue Implementierungs-](/
 
 ## Vernetzung mit Kollegen {#connect-with-your-peers}
 
-Besuchen Sie die [Adobe Marketo Engage-Community](https://nation.marketo.com/){target="_blank"} (auch als Marketing-Nation bezeichnet), um mehr über Ihre Marketo Engage-Instanz von Marketo Engage-Mitarbeitern und -Mitbenutzern zu erfahren.
+Besuchen Sie die [Adobe Marketo Engage-Community](https://nation.marketo.com/){target="_blank"} (auch als Marketing-Nation bezeichnet), um von Marketo Engage-Mitarbeitern und anderen Benutzern mehr über Ihre Marketo Engage-Instanz zu erfahren.
 
 Erste Schritte in der Community:
 

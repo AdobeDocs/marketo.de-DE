@@ -4,7 +4,7 @@ description: Bearbeiten der Nachricht „Als Web-Seite anzeigen“ - Marketo-Dok
 title: Bearbeiten der Nachricht „Als Web-Seite anzeigen“
 exl-id: 5541fe6c-7297-4277-8355-ba7b4ac73e2e
 feature: Email Setup
-source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
@@ -37,7 +37,7 @@ Wenn Sie den Text &quot;[ als Web-Seite anzeigen](/help/marketo/product-docs/ema
    >
    >Der zweite Teil `##MKT_TOK##` ist der [!UICONTROL -]-Keks dieser Person. Dadurch wird sichergestellt, dass sie beim Klicken auf den Link entsprechend gecoacht werden.
 
-1. HTML Bearbeiten Sie die Versionen **[!UICONTROL Als Webseite anzeigen]** und **[!UICONTROL Als Webseite anzeigen]** nach Ihren Wünschen und klicken Sie auf **[!UICONTROL Änderungen speichern]**.
+1. HTML Bearbeiten Sie die Versionen **[!UICONTROL Als Web-Seite anzeigen]** und **[!UICONTROL Als Web-]** anzeigen nach Ihren Wünschen und klicken Sie auf **[!UICONTROL Änderungen speichern]**.
 
    ![](assets/edit-the-view-as-web-page-message-3.png)
 
@@ -45,14 +45,14 @@ Wenn Sie den Text &quot;[ als Web-Seite anzeigen](/help/marketo/product-docs/ema
 >
 >Vermeiden Sie Folgendes:
 >
->* Hinzufügen zusätzlicher URLs zu einem der HTML-Boxen
->* HTML in der Textversion einfügen
+>* Hinzufügen zusätzlicher URLs zu einem der HTML-Felder
+>* Einbetten von HTML in die Textversion
 
 Da haben Sie es. Senden Sie Test-E-Mails, um die Formatierung sicherzustellen.
 
 ## Standardtext „Als Web-Seite anzeigen“ {#default-view-as-web-page-text}
 
-Wenn Sie jemals zum Standardsystem „Als Web-Seite anzeigen[!UICONTROL &#x200B; zurückkehren müssen] kopieren Sie Folgendes:
+Wenn Sie jemals zum Standardsystem „Als Web-Seite anzeigen[!UICONTROL  zurückkehren müssen] kopieren Sie Folgendes:
 
 **[!UICONTROL Als Webseite anzeigen HTML]**:
 

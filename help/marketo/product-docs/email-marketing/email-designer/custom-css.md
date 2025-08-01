@@ -6,10 +6,10 @@ description: Erfahren Sie, wie Sie Ihrem E-Mail-Inhalt direkt in der E-Mail-Desi
 level: Intermediate
 feature: Email Designer
 exl-id: c191b44a-47ab-41f8-aa95-9268e359e5db
-source-git-commit: de3999dd6ede77c8fc591e24a69f062954b8c870
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '620'
-ht-degree: 29%
+ht-degree: 32%
 
 ---
 
@@ -33,7 +33,7 @@ Fügen Sie Ihr eigenes benutzerdefiniertes CSS direkt in der Marketo Engage E-Ma
 
    >[!NOTE]
    >
-   >Die Schaltfläche **[!UICONTROL Benutzerdefiniertes CSS hinzufügen]** ist nur verfügbar, wenn **[!UICONTROL Body]** ausgewählt ist. Sie können jedoch benutzerdefinierte CSS-Stile auf alle Komponenten in Ihrem Inhalt anwenden.
+   >Die Schaltfläche **[!UICONTROL Benutzerdefiniertes CSS hinzufügen]** ist nur verfügbar, wenn **[!UICONTROL Hauptteil]** ausgewählt ist. Sie können jedoch benutzerdefinierte CSS-Stile auf alle Komponenten in Ihrem Inhalt anwenden.
 
 1. Geben Sie Ihren CSS-Code in den entsprechenden Textbereich ein, der angezeigt wird. Stellen Sie sicher, dass das benutzerdefinierte CSS [gültig ist und der richtigen Syntax folgt](#use-valid-css). Klicken Sie auf **Speichern**, wenn Sie fertig sind.
 

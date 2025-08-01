@@ -3,7 +3,7 @@ description: Optionen für Massen-E-Mails - Marketo-Dokumente - Produktdokumenta
 title: Optionen für Massen-E-Mails
 exl-id: 08cc60d5-0db1-4dfa-9441-4c5e5a021d73
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '258'
 ht-degree: 3%
@@ -16,41 +16,41 @@ Der Massenversand von E-Mails ist eine hervorragende Möglichkeit, die Interakti
 
 **Gruppen-E-Mail vs. Auswählen und Senden**
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <th>Sendungstyp</th> 
-   <th>Maximale E-Mail-Anzahl</th> 
-   <th>Initiiert vom Senden</th> 
-   <th>Massenbearbeitung von E-Mails</th> 
-   <th>Jede E-Mail individuell bearbeiten</th> 
-   <th>Unterstützung von Vorlagen und dynamischen Feldern</th> 
-  </tr> 
-  <tr> 
-   <td>Gruppen-E-Mail</td> 
-   <td>1.000</td> 
-   <td>Wählen Sie eine Gruppe aus und klicken Sie auf die Schaltfläche "[!UICONTROL Group Actions]", oder geben Sie den Gruppennamen in das Feld An ein.</td> 
-   <td>Ja</td> 
-   <td>Nein</td> 
-   <td>Ja</td> 
-  </tr> 
-  <tr> 
-   <td>Auswählen und senden</td> 
-   <td>200</td> 
-   <td>Wählen Sie Personen im Raster aus und klicken Sie in der Aktionsleiste auf die Schaltfläche "[!UICONTROL E-Mail ausgewählt]" oder geben Sie Empfänger in die Seitenleiste für Massen-E-Mails ein.</td> 
-   <td>Ja</td> 
-   <td>Ja</td> 
-   <td>Ja</td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <th>Sendungstyp</th>
+   <th>Maximale E-Mail-Anzahl</th>
+   <th>Initiiert vom Senden</th>
+   <th>Massenbearbeitung von E-Mails</th>
+   <th>Jede E-Mail individuell bearbeiten</th>
+   <th>Unterstützung von Vorlagen und dynamischen Feldern</th>
+  </tr>
+  <tr>
+   <td>Gruppen-E-Mail</td>
+   <td>1.000</td>
+   <td>Wählen Sie eine Gruppe aus und klicken Sie auf die Schaltfläche "[!UICONTROL Group Actions]", oder geben Sie den Gruppennamen in das Feld An ein.</td>
+   <td>Ja</td>
+   <td>Nein</td>
+   <td>Ja</td>
+  </tr>
+  <tr>
+   <td>Auswählen und senden</td>
+   <td>200</td>
+   <td>Wählen Sie Personen im Raster aus und klicken Sie in der Aktionsleiste auf die Schaltfläche "[!UICONTROL E-Mail ausgewählt]" oder geben Sie Empfänger in die Seitenleiste für Massen-E-Mails ein.</td>
+   <td>Ja</td>
+   <td>Ja</td>
+   <td>Ja</td>
+  </tr>
+ </tbody>
 </table>
 
 **Mit Gruppen-E-Mail**

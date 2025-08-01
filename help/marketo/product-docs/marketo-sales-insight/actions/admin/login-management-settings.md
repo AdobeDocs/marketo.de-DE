@@ -3,7 +3,7 @@ description: Anmeldeverwaltungseinstellungen - Marketo-Dokumente - Produktdokume
 title: Einstellungen der Anmeldeverwaltung
 exl-id: 077f7f97-1413-4495-b2c9-94194e8dbcc2
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '453'
 ht-degree: 0%
@@ -30,7 +30,7 @@ Führen Sie die folgenden Schritte aus, um Ihre Einstellungen für die Anmeldeve
 
    ![](assets/login-management-settings-1.png)
 
-1. Klicken [!UICONTROL &#x200B; unter &quot;]&quot; auf **[!UICONTROL Allgemein]**.
+1. Klicken [!UICONTROL  unter &quot;]&quot; auf **[!UICONTROL Allgemein]**.
 
    ![](assets/login-management-settings-2.png)
 

@@ -4,7 +4,7 @@ title: Interaktionswerkzeuge in interaktiven Webinaren
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: c1dab337193c23d5c51acad6bd39a96af1b4d3ef
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1271'
 ht-degree: 0%
@@ -21,7 +21,7 @@ SCREENSHOT
 
 ### Teilen {#share}
 
-Ein Freigabe-Pod wird verwendet, um Inhalte im Raum freizugeben. Er kann zum Freigeben von Bildschirmen, Dokumenten und Whiteboards verwendet werden. Unterstützte Dateitypen, die freigegeben und in einem Share-Pod präsentiert werden können, sind Präsentation (PPT, PPTX), Dokumente (PDF), Audio (MP3), Video (MP4), Bilder (JPG, PNG), benutzerdefinierter Pod (POD, ZIP). Alle hochgeladenen Inhalte bleiben im Raum erhalten und sind sofort verfügbar. Weitere Informationen zum Share-Pod finden Sie in diesem Adobe-Hilfeartikel und in diesem Video.
+Ein Freigabe-Pod wird verwendet, um Inhalte im Raum freizugeben. Er kann zum Freigeben von Bildschirmen, Dokumenten und Whiteboards verwendet werden. Unterstützte Dateitypen, die freigegeben und in einem Share-Pod angezeigt werden können, sind Präsentation (PPT, PPTX), Dokumente (PDF), Audio (MP3), Video (MP4), Bilder (JPG, PNG), benutzerdefinierter Pod (POD, ZIP). Alle hochgeladenen Inhalte bleiben im Raum erhalten und sind sofort verfügbar. Weitere Informationen zum Share-Pod finden Sie in diesem Adobe-Hilfeartikel und in diesem Video.
 
 SCREENSHOT
 
@@ -33,7 +33,7 @@ SCREENSHOT
 
 Teilnehmende
 
-Der Teilnehmer-Pod wird zum Verwalten von Teilnehmern, deren Aktivitäten und Berechtigungen während des Ereignisses verwendet. Moderatoren und Moderatoren können Teilnehmernamen, Rollen und Status überwachen (z. B. Handzeichen nach oben oder Zustimmen). Der Pod wird auch zum Verwalten von Breakout-Sitzungen verwendet. Weitere Informationen zum Teilnehmerbereich finden Sie in diesem Adobe-Hilfeartikel und in diesem Video.
+Der Teilnehmer-Pod wird zum Verwalten von Teilnehmern, deren Aktivitäten und Berechtigungen während des Ereignisses verwendet. Moderatoren und Moderatoren können Teilnehmernamen, Rollen und Status überwachen (z. B. Handzeichen nach oben oder Zustimmen). Der Pod wird auch zum Verwalten von Breakout-Sitzungen verwendet. Weitere Informationen zum Teilnehmer-Pod finden Sie in diesem Adobe-Hilfeartikel und in diesem Video.
 
 SCREENSHOT
 
@@ -65,13 +65,13 @@ Die Präsentationsansicht des Fragenpults kann auch in den Host- und Präsentati
 
 SCREENSHOT
 
-Weitere Informationen zum Fragen und Antworten-Pod finden Sie in diesem Adobe-Hilfeartikel und in diesem Video.
+Weitere Informationen zum Pod mit Fragen und Antworten finden Sie in diesem Adobe-Hilfeartikel und in diesem Video.
 
 SCREENSHOT
 
 Umfrage
 
-Der Umfrage-Pod wird verwendet, um Fragen von Teilnehmern während der Sitzung zu stellen. Der Umfrage-Pod unterstützt Multiple Choice, Multiple Answer und Short Answer Type Questions. Die Veranstalter können wählen, die Ergebnisse an die Teilnehmer zu senden. Weitere Informationen zu Poll Pod finden Sie in diesem Adobe-Hilfeartikel und in diesem Video.
+Der Umfrage-Pod wird verwendet, um Fragen von Teilnehmern während der Sitzung zu stellen. Der Umfrage-Pod unterstützt Multiple Choice, Multiple Answer und Short Answer Type Questions. Die Veranstalter können wählen, die Ergebnisse an die Teilnehmer zu senden. Weitere Informationen zum Umfrage-Pod finden Sie in diesem Adobe-Hilfeartikel und in diesem Video.
 
 SCREENSHOT
 

@@ -4,7 +4,7 @@ description: Was ist Adobe Marketo Engage? - Marketo-Dokumente - Produktdokument
 title: Was ist Adobe Marketo Engage?
 exl-id: 7b76e910-6c01-4fdb-8ab8-f6b1abe13136
 feature: Getting Started
-source-git-commit: f0885ae2fcc1fe51768edc34bc4e814c19b9c315
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '286'
 ht-degree: 6%
@@ -17,7 +17,7 @@ Adobe Marketo Engage ist eine Marketing-Automatisierungssoftware. Die Marketing-
 
 ## Was kann ich in Marketo Engage tun? {#what-can-i-do-in-marketo-engage}
 
-Marketo Engage verfügt über eine Vielzahl großartiger Funktionen, mit denen Sie Ihre Marketingziele erreichen können. Dinge wie…
+Marketo Engage verfügt über eine Vielzahl großartiger Funktionen, mit denen Sie Ihre Marketing-Ziele erreichen können. Dinge wie…
 
 * Formulareditor
 * Landing-Page-Editor
@@ -43,7 +43,7 @@ Marketo Engage verfügt über eine Vielzahl großartiger Funktionen, mit denen S
 
 ## Muss ich das alles lernen? {#do-i-need-to-learn-all-of-that}
 
-Das tut ihr nicht. Es ist einfach, mit Marketo Engage zu beginnen, und es wird sich mit Ihnen weiterentwickeln. Sie können alles lernen, wenn Sie möchten, oder nur die Stücke verwenden, die Ihren Bedürfnissen entsprechen.
+Das tut ihr nicht. Es ist einfach, in Marketo Engage anzufangen, und es wird sich mit Ihnen weiterentwickeln. Sie können alles lernen, wenn Sie möchten, oder nur die Stücke verwenden, die Ihren Bedürfnissen entsprechen.
 
 ## Muss ich etwas einrichten? {#do-i-need-to-do-any-setup}
 
@@ -55,7 +55,7 @@ Nein! Wir haben eine Reihe einfacher Tutorials erstellt. [Erste Schritte hier](/
 
 ## Gibt es eine Liste von Elementen, die Beschränkungen abdecken, z. B. wie viele E-Mails ich insgesamt in einer Woche senden kann? {#list-of-limits}
 
-Da ist er. Statische Grenzwerte (und andere Parameter) sind [in diesem Artikel) ](https://helpx.adobe.com/de/legal/product-descriptions/adobe-marketo-engage---product-description.html#performance-guardrails){target="_blank"}.
+Da ist er. Statische Grenzwerte (und andere Parameter) sind [in diesem Artikel) ](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html#performance-guardrails){target="_blank"}.
 
 ## Wie lange behält Marketo meine Daten bei? {#data-retention-policy}
 
@@ -63,4 +63,4 @@ Bitte lesen Sie [diesen Blogpost von Marketing Nation](https://nation.marketo.co
 
 <br>
 
-Willkommen auf Marketo Engage!
+Willkommen in Marketo Engage!

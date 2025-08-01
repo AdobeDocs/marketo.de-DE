@@ -3,7 +3,7 @@ description: Insight-Vertriebsaktionen und DSGVO-Konformität - Marketo-Dokument
 title: Sales Insight-Aktionen und DSGVO-Compliance
 exl-id: 1ede23b5-97ff-465a-95b7-a3262cd25bb8
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1370'
 ht-degree: 8%
@@ -87,11 +87,11 @@ Es werden zwei Dropdown-Listen angezeigt: [!UICONTROL Autorisierungstyp] und [!U
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-2.png)
 
-Wenn Sie als [!UICONTROL Autorisierungstyp“ „Einverständnis] auswählen, werden zwei Pflichtfelder angezeigt: [!UICONTROL Einverständnisdatum] und [!UICONTROL Zweck der &#x200B;]&quot;. Diese beiden Felder sind nicht auf andere Optionen anwendbar.
+Wenn Sie als [!UICONTROL Autorisierungstyp“ „Einverständnis] auswählen, werden zwei Pflichtfelder angezeigt: [!UICONTROL Einverständnisdatum] und [!UICONTROL Zweck der ]&quot;. Diese beiden Felder sind nicht auf andere Optionen anwendbar.
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-3.png)
 
-Wenn &quot;[!UICONTROL Other]&quot; entweder für [!UICONTROL Autorisierungstyp] oder [!UICONTROL Source-Typ] ausgewählt wurde, können Sie Text eingeben, um den [!UICONTROL Source-Typ zu &#x200B;].
+Wenn &quot;[!UICONTROL Other]&quot; entweder für [!UICONTROL Autorisierungstyp] oder [!UICONTROL Source-Typ] ausgewählt wurde, können Sie Text eingeben, um den [!UICONTROL Source-Typ zu ].
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-4.png)
 
@@ -123,44 +123,44 @@ Nachdem Sie den richtigen Source-Typ für Ihre ausgewählten Kontakte ausgewähl
 
 Sie haben die Möglichkeit, Kontaktinformationen aus der Personendetailansicht zu exportieren. Beim Exportieren wird eine CSV-Datei mit den folgenden Spalten heruntergeladen:
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td>[!UICONTROL Vorname]</td> 
-   <td>[!UICONTROL -Website]</td> 
-   <td>[!DNL Facebook]</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Nachname]</td> 
-   <td>[!UICONTROL Sonstige]</td> 
-   <td>[!DNL Twitter]</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Firma]</td> 
-   <td>[!UICONTROL Aktualisiert um]</td> 
-   <td>[!DNL LinkedIn]</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Titel]</td> 
-   <td>[!UICONTROL erstellt um]</td> 
-   <td>[!UICONTROL exportiert um]</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL E-Mail-ID]</td> 
-   <td>[!DNL Salesforce] ID</td> 
-   <td><br></td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Telefonnummer]</td> 
-   <td>[!UICONTROL Personen-ID]</td> 
-   <td><br></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td>[!UICONTROL Vorname]</td>
+   <td>[!UICONTROL-Website]</td>
+   <td>[!DNL Facebook]</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Nachname]</td>
+   <td>[!UICONTROL Sonstige]</td>
+   <td>[!DNL Twitter]</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Firma]</td>
+   <td>[!UICONTROL Aktualisiert um]</td>
+   <td>[!DNL LinkedIn]</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Titel]</td>
+   <td>[!UICONTROL erstellt um]</td>
+   <td>[!UICONTROL exportiert um]</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL E-Mail-ID]</td>
+   <td>[!DNL Salesforce] ID</td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Telefonnummer]</td>
+   <td>[!UICONTROL Personen-ID]</td>
+   <td><br></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]
@@ -179,9 +179,9 @@ Um Kontaktinformationen zu exportieren, klicken Sie auf die drei vertikalen Punk
 
 Ein häufig falsch verstandener Bereich der DSGVO umfasst Kontakte, die sich von der Datenbank des Unternehmens abmelden. Um die neuen Regeln zum Schutz der Daten von Abmeldepflichtigen einzuhalten, wurde die folgende Funktion in [!DNL Sales Insight Actions] integriert:
 
-**Abmelde-Links:** Abmelde-Links werden automatisch an alle E-Mails angehängt, die von der Sales Connect-Webanwendung gesendet werden, um sicherzustellen, dass Kontakte eine barrierefreie Möglichkeit zum Opt-out erhalten.\
-**Abmeldesynchronisierung:** Benutzer können Abmeldungen mit und von ihrem CRM (Salesforce) synchronisieren, um sicherzustellen, dass die Abmeldungen auf dem neuesten Stand sind.\
-**Abmeldeverlauf:** Benutzer können historische Opt-outs und Opt-ins in der Personendetailansicht sehen.\
+**Abmelde-Links:** Abmelde-Links werden automatisch an alle E-Mails angehängt, die von der Sales Connect-Webanwendung gesendet werden, um sicherzustellen, dass Kontakte eine barrierefreie Möglichkeit zum Opt-out erhalten.
+**Abmeldesynchronisierung:** Benutzer können Abmeldungen mit und von ihrem CRM (Salesforce) synchronisieren, um sicherzustellen, dass die Abmeldungen auf dem neuesten Stand sind.
+**Abmeldeverlauf:** Benutzer können historische Opt-outs und Opt-ins in der Personendetailansicht sehen.
 **Abmeldeentfernung:** der Rückmeldung eines abgemeldeten Kontakts setzt voraus, dass der Benutzer über Administratorrechte verfügt und nachweist, dass der Kontakt seine neue Einwilligung zur Kontaktaufnahme erteilt hat.
 
 ## Künftige Updates {#future-updates}

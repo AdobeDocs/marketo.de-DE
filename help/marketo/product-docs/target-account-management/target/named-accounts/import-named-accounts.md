@@ -4,7 +4,7 @@ description: Importieren [!UICONTROL benannten Konten] - Marketo-Dokumente - Pro
 title: Importieren [!UICONTROL benannte Konten]
 exl-id: 3f40e567-9256-4efd-beea-4e818770759f
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '479'
 ht-degree: 0%
@@ -65,44 +65,44 @@ Haben Sie bereits eine CSV voller potenzieller Zielkonten? Importieren Sie sie d
 
 Szenarien bei der Deduplizierung [!UICONTROL nach Kontoname]:
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><strong>Datensatz mit vorhandenem Namen <span class="uicontrol">Benanntes Konto</span> importieren</strong></td> 
-   <td><p>Der vorhandene Datensatz wird aktualisiert.</p></td> 
-  </tr> 
-  <tr> 
-   <td><strong>Datensatz mit neuem Namen <span class="uicontrol">Benanntes Konto</span> wird importiert</strong></td> 
-   <td>Wir werden einen neuen Datensatz erstellen</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><strong>Datensatz mit vorhandenem Namen <span class="uicontrol">Benanntes Konto</span> importieren</strong></td>
+   <td><p>Der vorhandene Datensatz wird aktualisiert.</p></td>
+  </tr>
+  <tr>
+   <td><strong>Datensatz mit neuem Namen <span class="uicontrol">Benanntes Konto</span> wird importiert</strong></td>
+   <td>Wir werden einen neuen Datensatz erstellen</td>
+  </tr>
+ </tbody>
 </table>
 
 Szenarien bei der Deduplizierung [!UICONTROL nach Domain-Name]:
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><strong>Importieren eines Datensatzes mit einem neuen Kontonamen und einem neuen Domain-Namen</strong></td> 
-   <td>Wir erstellen ein neues <span class="uicontrol">Benanntes Konto</span> mit den angegebenen Informationen</td> 
-  </tr> 
-  <tr> 
-   <td><strong>Importieren eines Datensatzes mit einem vorhandenen Kontonamen und einem vorhandenen Domain-Namen</strong></td> 
-   <td>Wir werden das vorhandene <span class="uicontrol">Benannte Konto</span> aktualisieren</td> 
-  </tr> 
-   <tr> 
-   <td><strong>Importieren eines Datensatzes mit einem neuen Kontonamen und einem vorhandenen Domain-Namen</strong></td> 
-   <td>Wir hängen den neuen Kontonamen an das vorhandene <span class="uicontrol">Benannte Konto</span> an, das mit dem Domain-Namen übereinstimmt, und aktualisieren andere Informationen (z. B. Branche, Bundesland usw.)</td> 
-  </tr> 
-  <tr> 
-   <td><strong>Datensatz mit vorhandenem Namen <span class="uicontrol">Benanntes Konto</span> und neuem Domain-Namen wird importiert</strong></td> 
-   <td>Wir hängen den neuen Domain-Namen an das vorhandene <span class="uicontrol">Benanntes Konto</span> an, das mit dem Kontonamen übereinstimmt, und aktualisieren andere Informationen (z. B. Branche, Bundesland usw.)</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><strong>Importieren eines Datensatzes mit einem neuen Kontonamen und einem neuen Domain-Namen</strong></td>
+   <td>Wir erstellen ein neues <span class="uicontrol">Benanntes Konto</span> mit den angegebenen Informationen</td>
+  </tr>
+  <tr>
+   <td><strong>Importieren eines Datensatzes mit einem vorhandenen Kontonamen und einem vorhandenen Domain-Namen</strong></td>
+   <td>Wir werden das vorhandene <span class="uicontrol">Benannte Konto</span> aktualisieren</td>
+  </tr>
+   <tr>
+   <td><strong>Importieren eines Datensatzes mit einem neuen Kontonamen und einem vorhandenen Domain-Namen</strong></td>
+   <td>Wir hängen den neuen Kontonamen an das vorhandene <span class="uicontrol">Benannte Konto</span> an, das mit dem Domain-Namen übereinstimmt, und aktualisieren andere Informationen (z. B. Branche, Bundesland usw.)</td>
+  </tr>
+  <tr>
+   <td><strong>Datensatz mit vorhandenem Namen <span class="uicontrol">Benanntes Konto</span> und neuem Domain-Namen wird importiert</strong></td>
+   <td>Wir hängen den neuen Domain-Namen an das vorhandene <span class="uicontrol">Benanntes Konto</span> an, das mit dem Kontonamen übereinstimmt, und aktualisieren andere Informationen (z. B. Branche, Bundesland usw.)</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]
 >
->Wenn Marketo ein benanntes Konto anhängt, aktualisieren wir eine Regel (hinter den Kulissen), mit der wir Personen identifizieren können, die Teil des [!UICONTROL benannten Kontos“ sein &#x200B;]. Beispiel: Wenn Sie &quot;IBM&quot; in &quot;IBM, USA“ aktualisieren, werden Personen mit einem der Firmennamen mit dem &quot;[!UICONTROL &#x200B; Konto“ &#x200B;].
+>Wenn Marketo ein benanntes Konto anhängt, aktualisieren wir eine Regel (hinter den Kulissen), mit der wir Personen identifizieren können, die Teil des [!UICONTROL benannten Kontos“ sein ]. Beispiel: Wenn Sie &quot;IBM&quot; in &quot;IBM, USA“ aktualisieren, werden Personen mit einem der Firmennamen mit dem &quot;[!UICONTROL  Konto“ ].
 
 Wenn Marketo Datensätze findet, die wir als Duplikate sehen, wird nur der erste verarbeitet.

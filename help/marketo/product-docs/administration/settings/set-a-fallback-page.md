@@ -4,7 +4,7 @@ description: Erstellen einer Ausweichseite - Marketo-Dokumente - Produktdokument
 title: Festlegen einer Fallback-Seite
 exl-id: 2b073e4d-1b84-4602-a35c-08739c9086d7
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 0%
@@ -34,4 +34,3 @@ Fallback-Seiten sind die letzte Verteidigungslinie, wenn Ihre Landingpage offlin
 1. Geben Sie **[!UICONTROL Dialogfeld eine]** Ausweichseite“ ein und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/set-a-fallback-page-4.png)
-

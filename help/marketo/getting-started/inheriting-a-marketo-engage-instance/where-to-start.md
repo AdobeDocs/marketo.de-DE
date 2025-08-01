@@ -3,7 +3,7 @@ description: Erfahren Sie, wie Sie eine bestehende Marketo Engage-Instanz, die S
 title: Wo Sie beginnen
 feature: Getting Started
 exl-id: 819bddc4-0a92-4ff0-86c6-a93fc61dffac
-source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '450'
 ht-degree: 0%
@@ -42,7 +42,7 @@ Unser Community-Team führt Ihre Community-Profile in 4-6 Werktagen zusammen. So
 
 ## Starten Sie Ihre geerbte Marketo Engage-Instanz  {#jumpstart-your-inherited-marketo-engage-instance}
 
-Adobe hat unter Mitwirkung von Marketo Champions mehrere Checklisten für das Audit von Marketo Engage-geerbten Instanzen zusammengestellt, um Sie beim schnellen Einstieg zu unterstützen. Erfahren Sie, wie Sie durch die verschiedenen Bereiche von Marketo Engage navigieren und die verschiedenen Aufgaben ausführen, die für die Durchführung eines Audits erforderlich sind, einschließlich Links zur empfohlenen Hilfedokumentation.
+Adobe hat unter Mitwirkung von Marketo Champions mehrere Checklisten für die Prüfung von geerbten Marketo Engage-Instanzen zusammengestellt, damit Sie sofort loslegen können. Erfahren Sie, wie Sie durch die verschiedenen Bereiche von Marketo Engage navigieren und die verschiedenen Aufgaben ausführen, die für die Durchführung eines Audits erforderlich sind. Sie finden hier auch Links zur empfohlenen Hilfedokumentation.
 
 Sie können auch [Checklisten herunterladen](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) in Tabellenform.
 
@@ -58,12 +58,12 @@ Sie können auch [Checklisten herunterladen](/help/marketo/getting-started/inher
 
 ## Möglichkeiten, Hilfe zu erhalten {#ways-to-get-help}
 
-Benötigen Sie weitere Hilfe? Über die unten stehenden Links können Sie sich mit uns oder anderen Marketo Engage-Nutzern in Verbindung setzen.
+Benötigen Sie weitere Hilfe? Verbinden Sie sich über die unten stehenden Links mit uns oder anderen Marketo Engage-Benutzern.
 
 * Für technische Unterstützung bei Problemen, die nicht ordnungsgemäß funktionieren, wenden Sie sich an den **[Marketo Engage-Support](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}**.
 
-* Treten Sie mit anderen Marketo Engage-Anwendern in der **[Adobe Marketo Engage-Community in Verbindung und lernen Sie von ihnen ](https://nation.marketo.com/){target="_blank"}**.
+* Treten Sie mit anderen Marketo Engage-Benutzenden in der **[Adobe Marketo Engage-Community in Verbindung und lernen Sie von ihnen ](https://nation.marketo.com/){target="_blank"}**.
 
 * Wenn Sie praktische Unterstützung benötigen, um Ihre Marketo Engage-Instanz optimal zu nutzen, wenden Sie sich an **[Adobe Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}**.
 
-* Sehen Sie **[kuratierte Anleitungsvideos](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=de){target="_blank"}** über verschiedene Aspekte des Marketo Engage an.
+* Sehen Sie **[kuratierte Anleitungsvideos](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html){target="_blank"}** zu verschiedenen Aspekten von Marketo Engage an.

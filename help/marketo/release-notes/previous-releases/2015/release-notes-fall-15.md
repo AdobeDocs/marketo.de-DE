@@ -4,9 +4,9 @@ description: Versionshinweise - Herbst 2015 - Marketo-Dokumentation - Produktdok
 title: Versionshinweise - Herbst 2015
 exl-id: b8a43086-a4d8-432d-89ac-14c75c6f0609
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '967'
+source-wordcount: '966'
 ht-degree: 1%
 
 ---
@@ -33,7 +33,7 @@ Es können mehrere Abonnements in einer Smart-Liste erstellt werden. Es gibt ein
 
 [Benutzerdefinierte Marketo-Objekte](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 
-Einfaches Erstellen benutzerdefinierter Objekte über die Admin-Benutzeroberfläche. Wir unterstützen derzeit die Möglichkeit, ein benutzerdefiniertes 1:N-Objekt in Marketo zu erstellen und es mit einem Lead oder einem Unternehmen zu verbinden.
+Einfaches Erstellen benutzerdefinierter Objekte über die Admin-Benutzeroberfläche. Wir unterstützen derzeit die Möglichkeit, in Marketo ein benutzerdefiniertes 1::N-Objekt zu erstellen und es mit einem Lead oder einem Unternehmen zu verbinden.
 
 >[!NOTE]
 >
@@ -138,7 +138,7 @@ Der Rich-Text-Editor wird derzeit in mehreren Punkten verbessert. Nach der Verö
 
 ```
 <myCustomElement myCustomAttribute="foo">Hello World!</myCustomElement>
-<td background="someImage.png"> 
+<td background="someImage.png">
 ```
 
 ## [!DNL Microsoft Dynamics] - Synchronisierung validieren {#microsoft-dynamics-validate-sync}

@@ -4,7 +4,7 @@ description: Spezifische Kontoeinblicke - Marketo-Dokumente - Produktdokumentati
 title: Einblicke zu benannten Konten
 exl-id: 2bd9497e-ca5f-4fd6-8fd2-241419e97cba
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '418'
 ht-degree: 1%
@@ -33,21 +33,21 @@ Das Dashboard aggregiert wichtige Einblicke auf Kontoebene von allen Personen in
 
 ![](assets/three-new.png)
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><strong><span class="uicontrol">Kontobewertung</span></strong></td> 
-   <td><p>Sehen Sie sich die wöchentliche Interaktion basierend auf allen Kontobewertungen an, die Sie in <span class="uicontrol">Admin</span> erstellt haben. Sie können diese Kontobewertungen nebeneinander vergleichen. Um die wöchentliche Interaktion zu bestimmen, verwenden wir die maximale Interaktion an jedem beliebigen Wochentag.</p></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Vertriebskette</span></strong></td> 
-   <td>Zeigen Sie die Pipeline im Zeitverlauf an. Um die Pipeline im Zeitverlauf nach Woche zu bestimmen, nehmen wir die Pipeline am letzten Tag.</td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Umsatz</span></strong></td> 
-   <td>Umsatz im Zeitablauf anzeigen. Um den Umsatz im Zeitverlauf nach Woche zu ermitteln, berechnen wir die Summe aller in dieser Woche erzielten Einnahmen.</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><strong><span class="uicontrol">Kontobewertung</span></strong></td>
+   <td><p>Sehen Sie sich die wöchentliche Interaktion basierend auf allen Kontobewertungen an, die Sie in <span class="uicontrol">Admin</span> erstellt haben. Sie können diese Kontobewertungen nebeneinander vergleichen. Um die wöchentliche Interaktion zu bestimmen, verwenden wir die maximale Interaktion an jedem beliebigen Wochentag.</p></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Vertriebskette</span></strong></td>
+   <td>Zeigen Sie die Pipeline im Zeitverlauf an. Um die Pipeline im Zeitverlauf nach Woche zu bestimmen, nehmen wir die Pipeline am letzten Tag.</td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Umsatz</span></strong></td>
+   <td>Umsatz im Zeitablauf anzeigen. Um den Umsatz im Zeitverlauf nach Woche zu ermitteln, berechnen wir die Summe aller in dieser Woche erzielten Einnahmen.</td>
+  </tr>
+ </tbody>
 </table>
 
 **[!UICONTROL Interessante Momente]**

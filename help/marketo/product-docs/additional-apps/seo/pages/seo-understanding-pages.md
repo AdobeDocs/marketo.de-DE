@@ -4,7 +4,7 @@ description: SEO - Seitenverstehen - Marketo-Dokumente - Produktdokumentation
 title: SEO - Grundlegendes zu Seiten
 exl-id: c0fa5408-4b4f-4981-b4ba-20f40c475244
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '289'
 ht-degree: 1%
@@ -42,7 +42,7 @@ Die Registerkarte **[!UICONTROL Seiten]** zeigt an, wie gut einzelne Seiten auf 
 
 ## [!UICONTROL Probleme] Registerkarte {#issues-tab}
 
-Auf **[!UICONTROL Registerkarte &#x200B;]Probleme** können Sie festlegen, welche Verbesserungen Sie vornehmen können, um Ihren Optimierungswert und Ihr Ranking zu erhöhen.
+Auf **[!UICONTROL Registerkarte ]Probleme** können Sie festlegen, welche Verbesserungen Sie vornehmen können, um Ihren Optimierungswert und Ihr Ranking zu erhöhen.
 
 ![](assets/image2014-9-17-21-3a53-3a15.png)
 

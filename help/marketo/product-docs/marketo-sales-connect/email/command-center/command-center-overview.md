@@ -4,7 +4,7 @@ description: Übersicht über das Command Center - Marketo-Dokumente - Produktdo
 title: Übersicht über das Command Center
 exl-id: 141fa369-9ef9-48c7-a7ff-f5265d0e9ca5
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '576'
 ht-degree: 0%
@@ -23,59 +23,59 @@ Im E-Mail-Bereich des [!UICONTROL Command Center] können Sie Ihre gesamten E-Ma
 
 Der Abschnitt E-Mail bietet Ihnen einen Überblick über alle Ihre E-Mails und vereinfacht deren Organisation durch primäre Registerkarten und Unterregisterkarten, die als Ordner fungieren, in denen Ihre E-Mails automatisch basierend auf ihrem Status gespeichert werden.
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td title="Hintergrundfarbe: Grau"><p title=""><strong><span>Primär</span> </strong></p></td> 
-   <td title="Hintergrundfarbe: Grau"><p title=""><strong><span>Sekundär</span> </strong></p></td> 
-   <td title="Hintergrundfarbe: Grau"><p title=""><strong><span>Beschreibung</span> </strong></p></td> 
-  </tr> 
-  <tr> 
-   <td title="Hintergrundfarbe: Blau"><strong title="">Gesendet</strong></td> 
-   <td title="Hintergrundfarbe: Blau">[!UICONTROL übermittelt]</td> 
-   <td title="Hintergrundfarbe: Blau">E-Mails, die an den Empfänger gesendet wurden.</td> 
-  </tr> 
-  <tr> 
-   <td title="Hintergrundfarbe: Blau"><br></td> 
-   <td title="Hintergrundfarbe: Blau">[!UICONTROL archiviert]</td> 
-   <td title="Hintergrundfarbe: Blau">Vom Benutzer archivierte E-Mails, um das Tracking der E-Mails zu deaktivieren.</td> 
-  </tr> 
-  <tr> 
-   <td title="Hintergrundfarbe: Grau"><strong title="">Ausstehend</strong></td> 
-   <td title="Hintergrundfarbe: Grau">[!UICONTROL Geplant]</td> 
-   <td title="Hintergrundfarbe: Grau">E-Mails, die derzeit für den Versand geplant sind. Sobald eine E-Mail gesendet wurde, wird sie in den Ordner für zugestellte Nachrichten verschoben.</td> 
-  </tr> 
-  <tr> 
-   <td title="Hintergrundfarbe: Grau"><br></td> 
-   <td title="Hintergrundfarbe: Grau">[!UICONTROL -Entwurf]</td> 
-   <td title="Hintergrundfarbe: Grau"><p>Als Entwurf gespeicherte E-Mails.<br><strong>Hinweis:</strong> Nur einzelne E-Mails können als Entwürfe gespeichert werden. Massen-E-Mails (E-Mails auswählen und senden sowie Gruppen-E-Mails) werden nicht als Entwürfe gespeichert.</p></td> 
-  </tr> 
-  <tr> 
-   <td title="Hintergrundfarbe: Grau"><br></td> 
-   <td title="Hintergrundfarbe: Grau">[!UICONTROL wird ausgeführt]</td> 
-   <td title="Hintergrundfarbe: Grau">Dies ist ein Zwischenstatus, in den E-Mails versetzt werden, wenn sie am Versand teilnehmen. E-Mails sollten nur einige Augenblicke in Bearbeitung sein.</td> 
-  </tr> 
-  <tr> 
-   <td title="Hintergrundfarbe: Blau"><strong title="">Nicht übermittelt</strong></td> 
-   <td title="Hintergrundfarbe: Blau">[!UICONTROL fehlgeschlagen]</td> 
-   <td title="Hintergrundfarbe: Blau">E-Mails, die nicht zugestellt wurden.</td> 
-  </tr> 
-  <tr> 
-   <td title="Hintergrundfarbe: Blau"><br></td> 
-   <td title="Hintergrundfarbe: Blau">[!UICONTROL gebounct]</td> 
-   <td title="Hintergrundfarbe: Blau"><p>E-Mails, die vom E-Mail-Server der Empfänger abgelehnt wurden. <br><strong>Hinweis:</strong> Dies wird nur erkannt, wenn Sie ein älterer ToutApp-Benutzer sind und Zugriff auf MSC-Server als Versandkanal haben.</p></td> 
-  </tr> 
-  <tr> 
-   <td title="Hintergrundfarbe: Blau"><br></td> 
-   <td title="Hintergrundfarbe: Blau">[!UICONTROL Spam]</td> 
-   <td title="Hintergrundfarbe: Blau"><p>E-Mails, die vom Empfänger manuell als Spam gekennzeichnet wurden.<br><strong>Hinweis:</strong> Dies wird nur erkannt, wenn Sie ein älterer ToutApp-Benutzer sind und Zugriff auf MSC-Server als Versandkanal haben.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td title="Hintergrundfarbe: Grau"><p title=""><strong><span>Primär</span> </strong></p></td>
+   <td title="Hintergrundfarbe: Grau"><p title=""><strong><span>Sekundär</span> </strong></p></td>
+   <td title="Hintergrundfarbe: Grau"><p title=""><strong><span>Beschreibung</span> </strong></p></td>
+  </tr>
+  <tr>
+   <td title="Hintergrundfarbe: Blau"><strong title="">Gesendet</strong></td>
+   <td title="Hintergrundfarbe: Blau">[!UICONTROL übermittelt]</td>
+   <td title="Hintergrundfarbe: Blau">E-Mails, die an den Empfänger gesendet wurden.</td>
+  </tr>
+  <tr>
+   <td title="Hintergrundfarbe: Blau"><br></td>
+   <td title="Hintergrundfarbe: Blau">[!UICONTROL archiviert]</td>
+   <td title="Hintergrundfarbe: Blau">Vom Benutzer archivierte E-Mails, um das Tracking der E-Mails zu deaktivieren.</td>
+  </tr>
+  <tr>
+   <td title="Hintergrundfarbe: Grau"><strong title="">Ausstehend</strong></td>
+   <td title="Hintergrundfarbe: Grau">[!UICONTROL Geplant]</td>
+   <td title="Hintergrundfarbe: Grau">E-Mails, die derzeit für den Versand geplant sind. Sobald eine E-Mail gesendet wurde, wird sie in den Ordner für zugestellte Nachrichten verschoben.</td>
+  </tr>
+  <tr>
+   <td title="Hintergrundfarbe: Grau"><br></td>
+   <td title="Hintergrundfarbe: Grau">[!UICONTROL-Entwurf]</td>
+   <td title="Hintergrundfarbe: Grau"><p>Als Entwurf gespeicherte E-Mails.<br><strong>Hinweis:</strong> Nur einzelne E-Mails können als Entwürfe gespeichert werden. Massen-E-Mails (E-Mails auswählen und senden sowie Gruppen-E-Mails) werden nicht als Entwürfe gespeichert.</p></td>
+  </tr>
+  <tr>
+   <td title="Hintergrundfarbe: Grau"><br></td>
+   <td title="Hintergrundfarbe: Grau">[!UICONTROL wird ausgeführt]</td>
+   <td title="Hintergrundfarbe: Grau">Dies ist ein Zwischenstatus, in den E-Mails versetzt werden, wenn sie am Versand teilnehmen. E-Mails sollten nur einige Augenblicke in Bearbeitung sein.</td>
+  </tr>
+  <tr>
+   <td title="Hintergrundfarbe: Blau"><strong title="">Nicht übermittelt</strong></td>
+   <td title="Hintergrundfarbe: Blau">[!UICONTROL fehlgeschlagen]</td>
+   <td title="Hintergrundfarbe: Blau">E-Mails, die nicht zugestellt wurden.</td>
+  </tr>
+  <tr>
+   <td title="Hintergrundfarbe: Blau"><br></td>
+   <td title="Hintergrundfarbe: Blau">[!UICONTROL gebounct]</td>
+   <td title="Hintergrundfarbe: Blau"><p>E-Mails, die vom E-Mail-Server der Empfänger abgelehnt wurden. <br><strong>Hinweis:</strong> Dies wird nur erkannt, wenn Sie ein älterer ToutApp-Benutzer sind und Zugriff auf MSC-Server als Versandkanal haben.</p></td>
+  </tr>
+  <tr>
+   <td title="Hintergrundfarbe: Blau"><br></td>
+   <td title="Hintergrundfarbe: Blau">[!UICONTROL Spam]</td>
+   <td title="Hintergrundfarbe: Blau"><p>E-Mails, die vom Empfänger manuell als Spam gekennzeichnet wurden.<br><strong>Hinweis:</strong> Dies wird nur erkannt, wenn Sie ein älterer ToutApp-Benutzer sind und Zugriff auf MSC-Server als Versandkanal haben.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 ## Aufgaben verwalten {#manage-tasks}

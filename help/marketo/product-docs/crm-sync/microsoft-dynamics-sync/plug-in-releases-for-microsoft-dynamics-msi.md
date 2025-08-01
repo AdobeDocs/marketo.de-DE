@@ -4,7 +4,7 @@ description: Plug-in-Versionen für  [!DNL Microsoft Dynamics] -MSI - Marketo-Do
 title: Plug-in-Versionen für  [!DNL Microsoft Dynamics] .MSI
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '403'
 ht-degree: 1%
@@ -51,84 +51,84 @@ Und das war&#39;s! Nach dem Upgrade wird nur noch eine einzige MSI-Lösung angez
 
 ## Versionsaktualisierungen {#version-updates}
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>Veröffentlichungsdatum</th> 
-   <th>Version</th> 
-   <th>Hinweise</th> 
+<table>
+ <tbody>
+  <tr>
+   <th>Veröffentlichungsdatum</th>
+   <th>Version</th>
+   <th>Hinweise</th>
   </tr>
-  <tr> 
-   <td>02/14/24</td> 
-   <td>2,00,31</td> 
+  <tr>
+   <td>02/14/24</td>
+   <td>2,00,31</td>
    <td>Änderungen an der Paginierung bei anonymer Web-Aktivität.
    <p>
-   Verschlüsseln von geheimen Schlüsselinformationen aus der Benutzeransicht. Das Kennwort muss nach dem Import des neuen Pakets geändert werden, damit die Verschlüsselung erfolgt.</td> 
+   Verschlüsseln von geheimen Schlüsselinformationen aus der Benutzeransicht. Das Kennwort muss nach dem Import des neuen Pakets geändert werden, damit die Verschlüsselung erfolgt.</td>
   </tr>
-  <tr> 
-   <td>10/18/23</td> 
-   <td>2,00,30</td> 
-   <td>Konsolidierung des MSI-Fehlerprotokolls und Entfernen von Informationsbenachrichtigungen, die in der Marketo-Fehlerentität angezeigt werden.</td> 
+  <tr>
+   <td>10/18/23</td>
+   <td>2,00,30</td>
+   <td>Konsolidierung des MSI-Fehlerprotokolls und Entfernen von Informationsbenachrichtigungen, die in der Marketo-Fehlerentität angezeigt werden.</td>
   </tr>
-  <tr> 
-   <td>05/19/23</td> 
-   <td>2,00,29</td> 
-   <td>Fehlerkorrektur: Es wurden Web-Aktivitäten und Paginierungsprobleme „Interessante Momente“ im globalen Dashboard behoben.</td> 
+  <tr>
+   <td>05/19/23</td>
+   <td>2,00,29</td>
+   <td>Fehlerkorrektur: Es wurden Web-Aktivitäten und Paginierungsprobleme „Interessante Momente“ im globalen Dashboard behoben.</td>
   </tr>
-  <tr> 
-   <td>03/23/23</td> 
-   <td>2,00,28</td> 
-   <td>Es wurde ein <a href="https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip">neues Paket</a> für MSI für nicht-native Verbindungen mit dem CRM erstellt.</td> 
+  <tr>
+   <td>03/23/23</td>
+   <td>2,00,28</td>
+   <td>Es wurde ein <a href="https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip">neues Paket</a> für MSI für nicht-native Verbindungen mit dem CRM erstellt.</td>
   </tr>
-  <tr> 
-   <td>02/03/22</td> 
-   <td>2.0.0.27</td> 
-   <td>Konto-Layout für Einblicke: Interessante Momente, Bewertungsänderungen, Web-Aktivitäten, E-Mail-Aktivitäten.</td> 
+  <tr>
+   <td>02/03/22</td>
+   <td>2.0.0.27</td>
+   <td>Konto-Layout für Einblicke: Interessante Momente, Bewertungsänderungen, Web-Aktivitäten, E-Mail-Aktivitäten.</td>
   </tr>
-  <tr> 
-   <td>01/05/22</td> 
-   <td>2.0.0.26</td> 
-   <td>Score zur Programmakzeptanz für „E-Mail senden“.</td> 
+  <tr>
+   <td>01/05/22</td>
+   <td>2.0.0.26</td>
+   <td>Score zur Programmakzeptanz für „E-Mail senden“.</td>
   </tr>
-  <tr> 
-   <td>10/28/21</td> 
-   <td>2.0.0.25</td> 
-   <td>Metriken zur Bewertung der Produktakzeptanz, neues globales Dashboard (Web-Aktivität, E-Mail, Best Bets).</td> 
+  <tr>
+   <td>10/28/21</td>
+   <td>2.0.0.25</td>
+   <td>Metriken zur Bewertung der Produktakzeptanz, neues globales Dashboard (Web-Aktivität, E-Mail, Best Bets).</td>
   </tr>
-  <tr> 
-   <td>02/10/21</td> 
-   <td>2.0.0.22</td> 
-   <td>Entfernen Sie für die MSI-Lösung aktivierte automatische Audits und Dokumentationsänderungen.</td> 
+  <tr>
+   <td>02/10/21</td>
+   <td>2.0.0.22</td>
+   <td>Entfernen Sie für die MSI-Lösung aktivierte automatische Audits und Dokumentationsänderungen.</td>
   </tr>
-  <tr> 
-   <td>10/01/20</td> 
-   <td>2.0.0.21</td> 
-   <td>Fehlerbehebung: Zuweisen des Zugriffs auf MSI-API-Konfigurationsfelder für Benutzende mit der Rolle Sales Insight.</td> 
-  </tr> 
-  <tr> 
-   <td>07/20/20</td> 
-   <td>2.0.0.20</td> 
-   <td>Fehlerbehebung: Es wird eine Validierungsmeldung für nicht synchronisierte Datensätze hinzugefügt.</td> 
-  </tr> 
-  <tr> 
-   <td>06/12/20</td> 
-   <td>2.0.0.19</td> 
-   <td>Fehlerbehebung: Ausblenden des MSI Secret Password auf der MSD-API-Konfiguration.</td> 
-  </tr> 
-  <tr> 
-   <td>05/26/20</td> 
-   <td>2.0.0.18</td> 
-   <td>Fehlerbehebung: Ändern der MSI-Rollen-ID-Validierung für die Anzeige von MSI-Schaltflächen.</td> 
-  </tr> 
-  <tr> 
-   <td>05/21/20</td> 
-   <td>2.0.0.17</td> 
-   <td>Fehlerbehebung: Besitzerfeld einblenden und Felder nicht obligatorisch machen.</td> 
-  </tr> 
-  <tr> 
-   <td>04/28/20</td> 
-   <td>2.0.0.16</td> 
-   <td>Fehlerbehebung: Entfernen der MSD CRM-Sitemap, Einstellung der Link-Abhängigkeit.</td> 
-  </tr> 
- </tbody> 
+  <tr>
+   <td>10/01/20</td>
+   <td>2.0.0.21</td>
+   <td>Fehlerbehebung: Zuweisen des Zugriffs auf MSI-API-Konfigurationsfelder für Benutzende mit der Rolle Sales Insight.</td>
+  </tr>
+  <tr>
+   <td>07/20/20</td>
+   <td>2.0.0.20</td>
+   <td>Fehlerbehebung: Es wird eine Validierungsmeldung für nicht synchronisierte Datensätze hinzugefügt.</td>
+  </tr>
+  <tr>
+   <td>06/12/20</td>
+   <td>2.0.0.19</td>
+   <td>Fehlerbehebung: Ausblenden des MSI Secret Password auf der MSD-API-Konfiguration.</td>
+  </tr>
+  <tr>
+   <td>05/26/20</td>
+   <td>2.0.0.18</td>
+   <td>Fehlerbehebung: Ändern der MSI-Rollen-ID-Validierung für die Anzeige von MSI-Schaltflächen.</td>
+  </tr>
+  <tr>
+   <td>05/21/20</td>
+   <td>2.0.0.17</td>
+   <td>Fehlerbehebung: Besitzerfeld einblenden und Felder nicht obligatorisch machen.</td>
+  </tr>
+  <tr>
+   <td>04/28/20</td>
+   <td>2.0.0.16</td>
+   <td>Fehlerbehebung: Entfernen der MSD CRM-Sitemap, Einstellung der Link-Abhängigkeit.</td>
+  </tr>
+ </tbody>
 </table>

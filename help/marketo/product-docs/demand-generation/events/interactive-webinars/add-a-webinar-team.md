@@ -3,7 +3,7 @@ description: Webinar-Team hinzufügen - Marketo-Dokumente - Produktdokumentation
 title: Hinzufügen eines Webinar-Teams
 feature: Interactive Webinars
 exl-id: eff0b69a-0ffe-45b4-8170-cd57894ab926
-source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '411'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Ein Webinar-Team in interaktiven Webinaren besteht aus allen Rollen, die zum erf
 
 >[!NOTE]
 >
->Moderatoren und Co-Hosts in Marketo Engage sind den Rollen von Moderator und Host während des Webinar-Versands in Adobe Connect genau zugeordnet. Co-Hosts können die Layouts und Pods ändern, Moderatoren dagegen nicht.
+>Moderatoren und Co-Hosts in Marketo Engage sind den Rollen des Moderators und Hosts während des Webinar-Versands in Adobe Connect genau zugeordnet. Co-Hosts können die Layouts und Pods ändern, Moderatoren dagegen nicht.
 
 Der Referent ist eine externe Rolle, die an der Bereitstellung des Webinar-Erlebnisses beteiligt ist, während Co-Moderatoren als Referent agieren und administrative Aspekte der Webinar-Bereitstellung handhaben können. Co-Hosts können sowohl intern als auch extern sein. Externe Co-Moderatoren haben keinen Zugriff auf die Veranstaltungsprogramme für interaktive Webinare in Marketo, verfügen jedoch über Host-Berechtigungen während der Bereitstellung in Adobe Connect. Interne Co-Moderatoren haben Zugriff auf das Veranstaltungsprogramm für interaktive Webinare in Marketo sowie auf Hostberechtigungen während des Versands. Dadurch wird sichergestellt, dass die internen Co-Moderatoren die Zügel des Veranstaltungsprogramms für interaktive Webinare übernehmen können, wenn der ursprüngliche Ersteller des Programms für interaktive Webinare entweder nicht mehr zum Benutzerset für interaktive Webinare gehört oder noch nicht einmal ein Marketo-Benutzer ist.
 
@@ -42,7 +42,7 @@ Der Referent ist eine externe Rolle, die an der Bereitstellung des Webinar-Erleb
 
    >[!NOTE]
    >
-   >Wenn Sie **Interner Benutzer eines interaktiven Webinars** auswählen, müssen Sie einfach auf das **Verfügbare Hosts** klicken und aus der Liste der Personen auswählen, die als Benutzer eines interaktiven Webinars zum Marketo Engage hinzugefügt wurden. Bestehende Hosts sehen sich selbst nicht in dieser Dropdown-Liste, da sie bereits Hosts sind.
+   >Wenn Sie **Benutzer des internen interaktiven Webinars** auswählen, müssen Sie einfach auf das **Verfügbare Hosts** klicken und aus der Liste der Personen auswählen, die in Marketo Engage als Benutzer des interaktiven Webinars hinzugefügt wurden. Bestehende Hosts sehen sich selbst nicht in dieser Dropdown-Liste, da sie bereits Hosts sind.
 
 1. Geben Sie den Vornamen, Nachnamen und die E-Mail-Adresse des gewünschten Co-Hosts ein. Klicken Sie auf **Hinzufügen**.
 

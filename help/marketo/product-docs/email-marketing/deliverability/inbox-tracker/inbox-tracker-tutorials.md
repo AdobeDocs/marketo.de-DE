@@ -1,16 +1,16 @@
 ---
 description: Testen, Überwachen und Verstehen von Zustellbarkeitsproblemen mit Inbox Tracker.
-title: Tutorials des Posteingangs-Trackers
+title: Tutorials zur Posteingangsverfolgung
 feature: Deliverability
 exl-id: 23e2875d-e0ee-45a7-a79a-caa0b7310e55
-source-git-commit: d65903d64d068a6f919df78258654414f3b76426
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
 
 ---
 
-# Tutorials des Posteingangs-Trackers {#inbox-tracker-tutorials}
+# Tutorials zur Posteingangsverfolgung {#inbox-tracker-tutorials}
 
 Testen, Überwachen und Verstehen von Zustellbarkeitsproblemen mit E-Mail-Zustellbarkeits-Tools, die von der Inbox-Tracker-Plattform von Bird (früher MessageBird) unterstützt werden. Inbox Tracker ist eine einzelne Anwendung, die die Intelligenz Ihres Programms und die Weitsicht des E-Mail-Renderings/Inbox-Tests kombiniert, um die Leistung Ihrer E-Mails zu maximieren.
 

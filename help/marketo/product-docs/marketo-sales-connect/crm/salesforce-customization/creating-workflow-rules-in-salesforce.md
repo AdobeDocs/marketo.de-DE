@@ -4,7 +4,7 @@ description: Erstellen von Workflow-Regeln in Salesforce - Marketo-Dokumente - P
 title: Erstellen von Workflow-Regeln in Salesforce
 exl-id: 0cfce178-453b-4949-96aa-c327278a267d
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '468'
 ht-degree: 1%
@@ -25,29 +25,29 @@ Die Problemumgehung umfasst das Erstellen neuer Workflow-Regeln, um Werte aus ne
 
 Im Folgenden finden Sie die empfohlenen Namen der Workflow-Regeln und eine Beschreibung der einzelnen Regeln. Diese gelten für die Objekte [!UICONTROL Kontakt] und [!UICONTROL Lead]:
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td>Feld für interessante Momentenbeschreibung aktualisieren</td> 
-   <td><p>Kopieren von: Letzte Marketo Interaktion Beschreibung<br>Kopieren nach: Letzter interessanter Moment Beschreibung</p></td> 
-  </tr> 
-  <tr> 
-   <td>Feld für interessanten Moment aktualisieren</td> 
-   <td><p>Kopieren von: Letzter Marketo-Interaktionstyp<br>Kopieren nach: Typ des letzten interessanten Moments</p></td> 
-  </tr> 
-  <tr> 
-   <td>Source-Feld „Interessante Momente aktualisieren“</td> 
-   <td><p>Kopieren von: Letzte Marketo Interaktion Source<br>Kopieren nach: Letzter interessanter Moment Source</p></td> 
-  </tr> 
-  <tr> 
-   <td>Feld für interessante Momente aktualisieren</td> 
-   <td><p>Kopieren von: Letztes Marketo-Interaktionsdatum<br>Kopieren nach: Letztes interessantes Momentendat</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td>Feld für interessante Momentenbeschreibung aktualisieren</td>
+   <td><p>Kopieren von: Letzte Marketo Interaktion Beschreibung<br>Kopieren nach: Letzter interessanter Moment Beschreibung</p></td>
+  </tr>
+  <tr>
+   <td>Feld für interessanten Moment aktualisieren</td>
+   <td><p>Kopieren von: Letzter Marketo-Interaktionstyp<br>Kopieren nach: Typ des letzten interessanten Moments</p></td>
+  </tr>
+  <tr>
+   <td>Source-Feld „Interessante Momente aktualisieren“</td>
+   <td><p>Kopieren von: Letzte Marketo Interaktion Source<br>Kopieren nach: Letzter interessanter Moment Source</p></td>
+  </tr>
+  <tr>
+   <td>Feld für interessante Momente aktualisieren</td>
+   <td><p>Kopieren von: Letztes Marketo-Interaktionsdatum<br>Kopieren nach: Letztes interessantes Momentendat</p></td>
+  </tr>
+ </tbody>
 </table>
 
 ## Anleitung {#instructions}
@@ -64,7 +64,7 @@ Im Folgenden finden Sie die empfohlenen Namen der Workflow-Regeln und eine Besch
 
    ![](assets/three-1.png)
 
-1. Geben Sie als [!UICONTROL Regelname“ „Feld für interessanten Moment aktualisieren] ein. Wählen Sie die Optionsschaltfläche **[!UICONTROL erstellt und jedes Mal, wenn sie bearbeitet wird]** aus. Wählen Sie in [!UICONTROL &#x200B; Dropdown-Liste &#x200B;]Regelkriterien“ **[!UICONTROL Formel wird als „true“ ausgewertet]**. Suchen Sie nach der Funktion ISCHANGED und wählen Sie sie aus. Markieren Sie dann den Wert des Standardfelds und klicken Sie auf **[!UICONTROL Feld einfügen]**.
+1. Geben Sie als [!UICONTROL Regelname“ „Feld für interessanten Moment aktualisieren] ein. Wählen Sie die Optionsschaltfläche **[!UICONTROL erstellt und jedes Mal, wenn sie bearbeitet wird]** aus. Wählen Sie in [!UICONTROL  Dropdown-Liste ]Regelkriterien“ **[!UICONTROL Formel wird als „true“ ausgewertet]**. Suchen Sie nach der Funktion ISCHANGED und wählen Sie sie aus. Markieren Sie dann den Wert des Standardfelds und klicken Sie auf **[!UICONTROL Feld einfügen]**.
 
    ![](assets/four-1.png)
 
@@ -76,11 +76,11 @@ Im Folgenden finden Sie die empfohlenen Namen der Workflow-Regeln und eine Besch
 
    ![](assets/6.png)
 
-1. Wählen Sie in [!UICONTROL &#x200B; Dropdown-Liste &#x200B;]Workflow-Aktion hinzufügen **[!UICONTROL die Option „Neues Feld aktualisieren]**.
+1. Wählen Sie in [!UICONTROL  Dropdown-Liste ]Workflow-Aktion hinzufügen **[!UICONTROL die Option „Neues Feld aktualisieren]**.
 
    ![](assets/seven.png)
 
-1. Geben Sie [!UICONTROL &#x200B; Feld „Name] „Feld für interessanten Moment aktualisieren“ ein ([!UICONTROL Eindeutiger Name] wird automatisch generiert). Wählen Sie in [!UICONTROL &#x200B; Dropdown-Liste &#x200B;]Zu aktualisierendes Feld“ die Option **[!UICONTROL Beschreibung des letzten interessanten Moments]**. Wählen Sie das Optionsfeld **[!UICONTROL Formel zum Festlegen eines neuen Werts verwenden]** und klicken Sie dann auf **[!UICONTROL Formeleditor anzeigen]**.
+1. Geben Sie [!UICONTROL  Feld „Name] „Feld für interessanten Moment aktualisieren“ ein ([!UICONTROL Eindeutiger Name] wird automatisch generiert). Wählen Sie in [!UICONTROL  Dropdown-Liste ]Zu aktualisierendes Feld“ die Option **[!UICONTROL Beschreibung des letzten interessanten Moments]**. Wählen Sie das Optionsfeld **[!UICONTROL Formel zum Festlegen eines neuen Werts verwenden]** und klicken Sie dann auf **[!UICONTROL Formeleditor anzeigen]**.
 
    ![](assets/eight.png)
 

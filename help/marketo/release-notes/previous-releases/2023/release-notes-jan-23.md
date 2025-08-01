@@ -3,7 +3,7 @@ description: Januar 2023 - Versionshinweise zu Marketo - Produktdokumentation
 title: Versionshinweise – Januar 2023
 exl-id: 584f74e5-ed0a-4f2f-9a1e-93cb8804dec8
 feature: Release Information
-source-git-commit: 206952c2aaa9b568a9312def6d36b15f699791b3
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '626'
 ht-degree: 10%
@@ -16,7 +16,7 @@ Im Folgenden finden Sie alle Funktionen, die in der Version vom Januar 2023 enth
 
 >[!AVAILABILITY]
 >
->Mit einem Stern (![star](assets/yellow-star.png) gekennzeichnete Funktionen sind kostenpflichtige Add-ons. Weitere Informationen erhalten Sie von Ihrem Marketo Engage-Support-Mitarbeiter.
+>Mit einem Stern (![star](assets/yellow-star.png) gekennzeichnete Funktionen sind kostenpflichtige Add-ons. Weitere Informationen erhalten Sie vom Marketo Engage-Support.
 
 ## Standardfunktionen des Veröffentlichungszyklus {#standard-release-cycle-features}
 
@@ -31,12 +31,12 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    * Snippet-Listenansicht
    * Vorlagenliste für Landingpages
 
-  <table> 
-  <tr> 
+  <table>
+  <tr>
    <td><b>Status</b></td>
    <td><b>Dokumentation – Aktualisierungen</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Versendet</td>
    <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Kippschalter</a></td>
   </tr>
@@ -45,14 +45,14 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
 
 * **Verbessert von Komponente für E-Mail-Vorlagendetails und Snippet-Details verwendet**: Die Registerkarte Neu von der Benutzeroberfläche verwendet enthält zusätzliche Informationen zu den einzelnen von Assets verwendeten Assets, z. B. wann und von wem sie zuletzt geändert wurde. Sie können Analysen einfach durch die Such-, Sortier- und Filterfunktionen durchführen. Diese neue UI-Komponente wird ab der E-Mail-Vorlage und den Snippet-Assets integriert.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
    <td><b>Dokumentation – Aktualisierungen</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Versendet</td>
-   <td>Nicht zutreffend</td>
+   <td>k. A.</td>
   </tr>
   </tbody>
 </table>
@@ -63,14 +63,14 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
 
 * **Neu gestaltete Modale für Report Assets**: Neues Design für Berichtskonfigurationsmodale in der modernen Benutzeroberfläche mit aktualisiertem Erscheinungsbild sowie verbesserter Barrierefreiheit.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
    <td><b>Dokumentation – Aktualisierungen</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Versendet</td>
-   <td>Nicht zutreffend</td>
+   <td>k. A.</td>
   </tr>
   </tbody>
 </table>
@@ -79,16 +79,16 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
 
 </br>
 
-* **Marketo Measure Ultimate**: Ermöglicht die vollständige B2B-Attribution für Unternehmen mit mehreren CRM- und/oder Marketo Engage-Instanzen und unterschiedlichen Quelldatenanforderungen. Es bietet außerdem eine B2B-Attributionslösung für das Adobe von RT-CDP über freigegebene AEP-Daten.
+* **Marketo Measure Ultimate**: Ermöglicht die vollständige B2B-Attribution für Unternehmen mit mehreren CRM- und/oder Marketo Engage-Instanzen und unterschiedlichen Quelldatenanforderungen. Es bietet außerdem eine B2B-Attributionslösung für Adobe RT-CDP über freigegebene AEP-Daten.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
    <td><b>Dokumentation – Aktualisierungen</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Versendet</td>
-   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html?lang=de">Marketo Measure Ultimate</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html">Marketo Measure Ultimate</a></td>
   </tr>
   </tbody>
 </table>
@@ -99,12 +99,12 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
 
 * **Registerkarte Erweiterte Web-Services durch Hinzufügen von API-Informationen zum Massenexport**: Sie können jetzt die tägliche Kapazitätszuweisung für Ihre Abonnements und die Menge der täglichen Kapazitätszuweisung anzeigen, die in den letzten sieben Tagen verwendet wurde.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
    <td><b>Dokumentation – Aktualisierungen</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Versendet</td>
    <td><a href="/help/marketo/product-docs/administration/settings/bulk-export-api-information.md">Informationen zur Massenexport-API</a></td>
   </tr>
@@ -121,26 +121,26 @@ Die folgenden Funktionen folgen einem Agile-Format und werden an verschiedenen D
 
 * **Auswahlliste in der Informationserfassungskarte für Dynamic Chat definieren**: Um die Datenbereinigung sicherzustellen, können Sie Auswahllisten für Informationserfassungskarten definieren, damit Besuchende nur aus einer vordefinierten Liste von Optionen auswählen können.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
    <td><b>Dokumentation – Aktualisierungen</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Versendet</td>
-   <td>Nicht zutreffend</td>
+   <td>k. A.</td>
   </tr>
   </tbody>
 </table>
 
-* **Personalization in Besprechungsbestätigung für Dynamic Chat**: Kundendienstmitarbeiter können E-Mail-Bestätigungen für die Besprechungsbuchung mithilfe von Marketo Engage-Personen- und Firmenfeldern personalisieren, um eine bessere Interaktion mit Besuchern zu ermöglichen (z. B.: Besucher mit ihrem Vornamen in der E-Mail mit der automatisierten Besprechungsbuchungsbenachrichtigung begrüßen).
+* **Personalization in der Besprechungsbestätigung für Dynamic Chat**: Kundendienstmitarbeiter können E-Mail-Bestätigungen für die Besprechungsbuchung mithilfe von Personen- und Unternehmensfeldern von Marketo Engage personalisieren, um eine bessere Interaktion mit Besuchern zu ermöglichen (z. B.: Besucher mit ihrem Vornamen in der E-Mail mit der automatisierten Besprechungsbuchungsbenachrichtigung begrüßen).
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
    <td><b>Dokumentation – Aktualisierungen</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Versendet</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md">Kalender</a></td>
   </tr>
@@ -149,40 +149,40 @@ Die folgenden Funktionen folgen einem Agile-Format und werden an verschiedenen D
 
 * **Suchen in Stream-Designer**: Einfaches Suchen nach Inhalten in Stream-Designer, um Inhalte schnell auf allen Karten/Knoten in einem Stream zu finden (z. B. Suche in „SEO“, wobei alle Knoten mit dieser Zeichenfolge hervorgehoben werden).
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
    <td><b>Dokumentation – Aktualisierungen</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Versendet</td>
-   <td>Nicht zutreffend</td>
+   <td>k. A.</td>
   </tr>
   </tbody>
 </table>
 
 * **Chatbot-Datums-/Zeitauswahl für Dynamic Chat**: Web-Besuchende können die Kalenderauswahl verwenden, um ein Datum und eine Uhrzeit auszuwählen, anstatt das Datum manuell einzugeben.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
    <td><b>Dokumentation – Aktualisierungen</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Versendet</td>
-   <td>Nicht zutreffend</td>
+   <td>k. A.</td>
   </tr>
   </tbody>
 </table>
 
-* **E-Mail-Benachrichtigungen zu geplanten Meetings für Dynamic Chat**: Wenn ein Meeting über den Kalender eines Agenten gebucht wird, erhält der Agent eine E-Mail-Benachrichtigung über die Buchung, einschließlich detaillierter Informationen über das Dynamic Chat-Engagement des Besuchers.
+* **E-Mail-Benachrichtigungen zu geplanten Meetings für Dynamic Chat**: Wenn ein Meeting über den Kalender eines Agenten gebucht wird, erhält der Agent eine E-Mail-Benachrichtigung über die Buchung, einschließlich detaillierter Informationen über die Dynamic Chat-Interaktion des Besuchers.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
    <td><b>Dokumentation – Aktualisierungen</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Versendet</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/meeting-list.md">Meetings</a></td>
   </tr>

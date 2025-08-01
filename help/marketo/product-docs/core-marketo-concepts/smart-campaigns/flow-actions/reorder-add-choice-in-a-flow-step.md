@@ -4,7 +4,7 @@ description: Neuanordnen Auswahl in einem Flussschritt hinzufügen - Marketo-Dok
 title: Auswahl in einem Flussschritt neu anordnen
 exl-id: e76af93a-24df-48ba-b5f2-ea6e697e2f3a
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%

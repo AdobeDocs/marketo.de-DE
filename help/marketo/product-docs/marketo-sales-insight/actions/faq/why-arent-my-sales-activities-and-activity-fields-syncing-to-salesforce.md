@@ -2,7 +2,7 @@
 description: Warum werden meine Vertriebsaktivitäten und Aktivitätsfelder nicht mit Salesforce synchronisiert? - Marketo-Dokumente - Produktdokumentation
 title: Warum werden meine Vertriebsaktivitäten und Aktivitätsfelder nicht mit Salesforce synchronisiert?
 exl-id: 5da855f2-18c6-456a-9e5d-ef4499596b3c
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 0%
@@ -27,4 +27,4 @@ Wenn in Salesforce keine Aktualisierung der E[Mail-Attributfelder](/help/marketo
 
 >[!NOTE]
 >
->Die mit den Lead-, Kontakt-, Konto- und Opportunity-Objekten verknüpften Felder werden mit dem Sales Insight Salesforce-Package installiert. Felder, die mit dem Datensatztyp [Aufgabe/Aktivität verknüpft sind, müssen ](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md){target="_blank"} Salesforce-Admin erstellt werden.
+>Die mit den Lead-, Kontakt-, Konto- und Opportunity-Objekten verknüpften Felder werden mit dem Sales Insight Salesforce Package installiert. Felder, die mit dem Datensatztyp [Aufgabe/Aktivität verknüpft sind, müssen ](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md){target="_blank"} Salesforce-Admin erstellt werden.

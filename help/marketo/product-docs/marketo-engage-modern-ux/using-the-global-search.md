@@ -3,7 +3,7 @@ description: Verwenden der globalen Suche - Marketo-Dokumente - Produktdokumenta
 title: Verwenden der globalen Suche
 exl-id: eb50013b-9595-4fe1-bd5e-b2d5ca185de4
 feature: Modern UX
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 3%
@@ -40,27 +40,27 @@ Sie gelangen direkt zur gewünschten E-Mail.
 
 ![](assets/using-the-global-search-6.png)
 
-<table> 
+<table>
  <tbody>
   <tr>
-   <td>1</td> 
-   <td>Name des Elements/Ziels</td> 
+   <td>1</td>
+   <td>Name des Elements/Ziels</td>
   </tr>
   <tr>
-   <td>2</td> 
-   <td>Pfad (Breadcrumbs) zum entsprechenden Element/Ziel</td> 
+   <td>2</td>
+   <td>Pfad (Breadcrumbs) zum entsprechenden Element/Ziel</td>
   </tr>
   <tr>
-   <td>3</td> 
-   <td>Datum und Uhrzeit der letzten Änderung des Elements/Ziels</td> 
+   <td>3</td>
+   <td>Datum und Uhrzeit der letzten Änderung des Elements/Ziels</td>
   </tr>
   <tr>
-   <td>4</td> 
-   <td>Datum und Uhrzeit der Erstellung des Elements/Ziels</td> 
+   <td>4</td>
+   <td>Datum und Uhrzeit der Erstellung des Elements/Ziels</td>
   </tr>
   <tr>
-   <td>5</td> 
-   <td>Implementieren fokussierter Filter zur Eingrenzung der Suchergebnisse</td> 
+   <td>5</td>
+   <td>Implementieren fokussierter Filter zur Eingrenzung der Suchergebnisse</td>
   </tr>
  </tbody>
 </table>

@@ -2,7 +2,7 @@
 description: Marketo Sales Connect von Salesforce Lightning deinstallieren - Marketo-Dokumente - Produktdokumentation
 title: Marketo Sales Connect von Salesforce Lightning deinstallieren
 exl-id: 4af89222-22b1-4c08-8081-3dab89d1985b
-source-git-commit: 067525fec8a761f111433dca61278bed0b58cc2c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1192'
 ht-degree: 9%
@@ -11,7 +11,7 @@ ht-degree: 9%
 
 # Marketo Sales Connect von Salesforce Lightning deinstallieren {#uninstall-marketo-sales-connect-from-salesforce-lightning}
 
-So deinstallieren Sie das Marketo Sales Connect-Paket von Ihrem Salesforce-Konto, sobald Sie mit der Verwendung von Sales Insight-Aktionen beginnen.
+So deinstallieren Sie das Marketo Sales Connect-Paket von Ihrem Salesforce-Konto, sobald Sie Sales Insight-Aktionen verwenden.
 
 ## Entfernen von Sales Connect-Feldern aus dem Seiten-Layout {#remove-sales-connect-fields-from-page-layout}
 
@@ -297,9 +297,9 @@ Im Folgenden finden Sie eine Liste aller Objekte, die aus Ihrer Salesforce-Insta
   <td>MSC - Datum des letzten Marketing-Engagements</td>
   <td>Zeitstempel der Interaktion mit Marketing</td>
   <td>
-  <p>Konto 
-  <p>Kontakt 
-  <p>Lead 
+  <p>Konto
+  <p>Kontakt
+  <p>Lead
   <p>Opportunity</td>
   <td>Daten und Zeit</td>
  </tr>
@@ -307,9 +307,9 @@ Im Folgenden finden Sie eine Liste aller Objekte, die aus Ihrer Salesforce-Insta
   <td>MSC - Beschreibung des letzten Marketing-Engagements</td>
   <td>Beschreibung des Projekts</td>
   <td>
-  <p>Konto 
-  <p>Kontakt 
-  <p>Lead 
+  <p>Konto
+  <p>Kontakt
+  <p>Lead
   <p>Opportunity</td>
   <td>Text</td>
  </tr>
@@ -317,9 +317,9 @@ Im Folgenden finden Sie eine Liste aller Objekte, die aus Ihrer Salesforce-Insta
   <td>MSC - Letzte Marketing-Interaktion mit Source</td>
   <td>Source der Marketing-Interaktionen</td>
   <td>
-  <p>Konto 
-  <p>Kontakt 
-  <p>Lead 
+  <p>Konto
+  <p>Kontakt
+  <p>Lead
   <p>Opportunity</td>
   <td>Text</td>
  </tr>
@@ -327,9 +327,9 @@ Im Folgenden finden Sie eine Liste aller Objekte, die aus Ihrer Salesforce-Insta
   <td>MSC - Typ der letzten Marketing-Interaktion</td>
   <td>Art der Interaktion (z. B.: Web-Aktivität)</td>
   <td>
-  <p>Konto 
-  <p>Kontakt 
-  <p>Lead 
+  <p>Konto
+  <p>Kontakt
+  <p>Lead
   <p>Opportunity</td>
   <td>Text</td>
  </tr>
@@ -337,9 +337,9 @@ Im Folgenden finden Sie eine Liste aller Objekte, die aus Ihrer Salesforce-Insta
   <td>MSC - Letzte Aktivität nach Verkauf</td>
   <td>Letzte ausgehende Aktivität des Vertriebsteams</td>
   <td>
-  <p>Konto 
-  <p>Kontakt 
-  <p>Lead 
+  <p>Konto
+  <p>Kontakt
+  <p>Lead
   <p>Opportunity</td>
   <td>Daten und Zeit</td>
  </tr>
@@ -347,9 +347,9 @@ Im Folgenden finden Sie eine Liste aller Objekte, die aus Ihrer Salesforce-Insta
   <td>MSC - Zuletzt geantwortet</td>
   <td>Letzte E-Mail Antwort an Verkaufs-E-Mail</td>
   <td>
-  <p>Konto 
-  <p>Kontakt 
-  <p>Lead 
+  <p>Konto
+  <p>Kontakt
+  <p>Lead
   <p>Opportunity</td>
   <td>Daten und Zeit</td>
  </tr>
@@ -357,9 +357,9 @@ Im Folgenden finden Sie eine Liste aller Objekte, die aus Ihrer Salesforce-Insta
   <td>MSC - Aktuelle Verkaufskampagne</td>
   <td>Loggt den Namen der MSC-Kampagne, auf der sich der Kontakt/Lead befindet</td>
   <td>
-  <p>Konto 
-  <p>Kontakt 
-  <p>Lead 
+  <p>Konto
+  <p>Kontakt
+  <p>Lead
   <p>Opportunity</td>
   <td>Text</td>
  </tr>
@@ -377,9 +377,9 @@ Im Folgenden finden Sie eine Liste aller Objekte, die aus Ihrer Salesforce-Insta
   <td>MSC - Opt-out</td>
   <td>Opt-out-Feld</td>
   <td>
-  <p>Konto 
-  <p>Kontakt 
-  <p>Lead 
+  <p>Konto
+  <p>Kontakt
+  <p>Lead
   <p>Opportunity</td>
   <td>Kontrollkästchen</td>
  </tr>
@@ -395,9 +395,9 @@ Im Folgenden finden Sie eine Liste aller Objekte, die aus Ihrer Salesforce-Insta
   <td>MSC-E-Mail senden</td>
   <td>Verkaufs-E-Mails von Salesforce senden</td>
   <td>
-  <p>Konto 
-  <p>Kontakt 
-  <p>Lead 
+  <p>Konto
+  <p>Kontakt
+  <p>Lead
   <p>Opportunity</td>
  </tr>
  <tr>

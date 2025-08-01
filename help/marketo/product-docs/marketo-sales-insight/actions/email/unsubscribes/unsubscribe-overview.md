@@ -3,7 +3,7 @@ description: Übersicht über die Abmeldung - Marketo-Dokumente - Produktdokumen
 title: Übersicht über die Abmeldung
 exl-id: 7598efa9-9686-4dd0-840b-f8b6de4ab2be
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '342'
 ht-degree: 0%
@@ -52,25 +52,25 @@ Die Karte [!UICONTROL Abmeldeverlauf] hilft Admins und Benutzern, kontextuelle I
 
 ![](assets/unsubscribe-overview-5.png)
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td><strong>[!UICONTROL Datum]</strong></td> 
-   <td><p>Zeigt das Datum, an dem das Abmelden/erneute Abonnieren stattgefunden hat.</p></td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Details]</strong></td> 
-   <td><p>Erneut abonnieren: Ein [!DNL Sales Connect] hat die Abmeldung manuell aus dem Kontaktdatensatz entfernt. Möglicherweise werden auch Details zu den Gründen angezeigt, aus denen der Kontakt das Abonnement gekündigt hat.</p><p>Abo beenden: Das Abonnement des Kontakts wurde gekündigt.</p></td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Source]</strong></td> 
-   <td><p>[!DNL Salesforce] Synchronisierung: Die Abmeldung wurde von einer Synchronisierung mit [!DNL Salesforce] erfasst.</p><p>Manuell: Benutzende haben auf die Schaltfläche zum Abmelden geklickt, um sich abzumelden.</p><p>Angeklickter Link: Empfänger einer E-Mail hat auf den Abmelde-Link geklickt.</p><p>„Admin-Name“: Der Name eines Administrators wird angezeigt, wenn die Aktion zum erneuten Abonnieren von Kontakten ausgeführt wurde. Auf diese Weise erfahren Benutzende, wer die Abmeldung entfernt hat.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td><strong>[!UICONTROL Datum]</strong></td>
+   <td><p>Zeigt das Datum, an dem das Abmelden/erneute Abonnieren stattgefunden hat.</p></td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Details]</strong></td>
+   <td><p>Erneut abonnieren: Ein [!DNL Sales Connect] hat die Abmeldung manuell aus dem Kontaktdatensatz entfernt. Möglicherweise werden auch Details zu den Gründen angezeigt, aus denen der Kontakt das Abonnement gekündigt hat.</p><p>Abo beenden: Das Abonnement des Kontakts wurde gekündigt.</p></td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Source]</strong></td>
+   <td><p>[!DNL Salesforce] Synchronisierung: Die Abmeldung wurde von einer Synchronisierung mit [!DNL Salesforce] erfasst.</p><p>Manuell: Benutzende haben auf die Schaltfläche zum Abmelden geklickt, um sich abzumelden.</p><p>Angeklickter Link: Empfänger einer E-Mail hat auf den Abmelde-Link geklickt.</p><p>„Admin-Name“: Der Name eines Administrators wird angezeigt, wenn die Aktion zum erneuten Abonnieren von Kontakten ausgeführt wurde. Auf diese Weise erfahren Benutzende, wer die Abmeldung entfernt hat.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!MORELIKETHIS]

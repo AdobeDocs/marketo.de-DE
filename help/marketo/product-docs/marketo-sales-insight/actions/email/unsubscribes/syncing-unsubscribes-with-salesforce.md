@@ -3,7 +3,7 @@ description: Synchronisieren von Abmeldungen mit Salesforce - Marketo-Dokumente 
 title: Synchronisieren von Abmeldungen mit Salesforce
 exl-id: b5b0f625-e38c-4a03-81e7-010082001636
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '475'
 ht-degree: 1%
@@ -40,11 +40,11 @@ Benutzerinnen und Benutzer können entscheiden, ob sie ihre Abmeldungen mit dem 
 
    ![](assets/syncing-unsubscribes-with-salesforce-1.png)
 
-1. Wählen [!UICONTROL &#x200B; unter „Admin]Einstellungen die Option **[!UICONTROL Abmeldungen]** aus.
+1. Wählen [!UICONTROL  unter „Admin]Einstellungen die Option **[!UICONTROL Abmeldungen]** aus.
 
    ![](assets/syncing-unsubscribes-with-salesforce-2.png)
 
-1. Klicken Sie auf die **[!UICONTROL Integrationen]**. Aktivieren [!UICONTROL &#x200B; unter „Mit Salesforce synchronisieren] die nächtliche Synchronisierung.
+1. Klicken Sie auf die **[!UICONTROL Integrationen]**. Aktivieren [!UICONTROL  unter „Mit Salesforce synchronisieren] die nächtliche Synchronisierung.
 
    ![](assets/syncing-unsubscribes-with-salesforce-3.png)
 

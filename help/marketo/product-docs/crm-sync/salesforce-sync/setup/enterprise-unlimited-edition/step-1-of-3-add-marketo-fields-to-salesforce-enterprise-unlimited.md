@@ -4,7 +4,7 @@ description: Schritt 1 von 3 - Marketo-Felder zu Salesforce hinzufügen (Unterne
 title: Schritt 1 von 3 - Marketo-Felder zu Salesforce hinzufügen (Enterprise/Unlimited)
 exl-id: bcfba281-0d4b-42c3-b52a-ce1c3da884ba
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '753'
 ht-degree: 9%
@@ -53,47 +53,47 @@ Führen Sie die folgenden Schritte für jedes der drei benutzerdefinierten Felde
 
 1. Geben Sie [!UICONTROL Feldbezeichnung], [!UICONTROL Länge] und [!UICONTROL Feldname] für das Feld ein, wie in der folgenden Tabelle dargestellt.
 
-<table> 
- <thead> 
-  <tr> 
-   <th> 
+<table>
+ <thead>
+  <tr>
+   <th>
     <div>
-      Feldbezeichnung 
-    </div></th> 
-   <th> 
+      Feldbezeichnung
+    </div></th>
+   <th>
     <div>
-      Feldname 
-    </div></th> 
-   <th> 
+      Feldname
+    </div></th>
+   <th>
     <div>
-      Datentyp 
-    </div></th> 
-   <th> 
+      Datentyp
+    </div></th>
+   <th>
     <div>
-      Feldattribute 
-    </div></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>Ergebnis</td> 
-   <td>mkto71_lead_score</td> 
-   <td>Zahl</td> 
-   <td>Länge 10<br>Dezimalstellen 0 </td> 
-  </tr> 
-  <tr> 
-   <td>Akquisitionsdatum</td> 
-   <td>mkto71_Acquisition_Date</td> 
-   <td>Datum/Uhrzeit</td> 
-   <td> </td> 
-  </tr> 
-  <tr> 
-   <td>Akquirierungsprogramm</td> 
-   <td>mkto71_Acquisition_Program</td> 
-   <td>Text</td> 
-   <td>Länge 255</td> 
-  </tr> 
- </tbody> 
+      Feldattribute
+    </div></th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>Ergebnis</td>
+   <td>mkto71_lead_score</td>
+   <td>Zahl</td>
+   <td>Länge 10<br>Dezimalstellen 0 </td>
+  </tr>
+  <tr>
+   <td>Akquisitionsdatum</td>
+   <td>mkto71_Acquisition_Date</td>
+   <td>Datum/Uhrzeit</td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td>Akquirierungsprogramm</td>
+   <td>mkto71_Acquisition_Program</td>
+   <td>Text</td>
+   <td>Länge 255</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]
@@ -133,107 +133,107 @@ Führen Sie die folgenden Schritte für jedes der drei benutzerdefinierten Felde
 1. Führen Sie die Schritte 3 bis 10 für die Felder Score, Akquisitionsdatum und Akquise-Programm im Kontaktobjekt aus, genau wie Sie es für das Lead-Objekt getan haben.
 1. Optional können Sie das obige Verfahren für alle zusätzlichen benutzerdefinierten Felder aus dieser Tabelle verwenden.
 
-<table> 
- <thead> 
-  <tr> 
-   <th> 
+<table>
+ <thead>
+  <tr>
+   <th>
     <div>
-      Feldbezeichnung 
-    </div></th> 
-   <th> 
+      Feldbezeichnung
+    </div></th>
+   <th>
     <div>
-      Feldname 
-    </div></th> 
-   <th> 
+      Feldname
+    </div></th>
+   <th>
     <div>
-      Datentyp 
-    </div></th> 
-   <th> 
+      Datentyp
+    </div></th>
+   <th>
     <div>
-      Feldattribute 
-    </div></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>Akquisitionsprogramm-ID</td> 
-   <td>mkto71_Acquisition_Program_Id</td> 
-   <td>Zahl</td> 
-   <td>Länge 18<br>Dezimalstellen 0 </td> 
-  </tr> 
-  <tr> 
-   <td>Ursprünglicher Verweis</td> 
-   <td>mkto71_Original_Referrer</td> 
-   <td>Text</td> 
-   <td>Länge 255</td> 
-  </tr> 
-  <tr> 
-   <td>Ursprüngliche Such-Engine</td> 
-   <td>mkto71_original_search_engine</td> 
-   <td>Text</td> 
-   <td>Länge 255</td> 
-  </tr> 
-  <tr> 
-   <td>Ursprünglicher Suchausdruck</td> 
-   <td>mkto71_Original_Search_Phrase</td> 
-   <td>Text</td> 
-   <td>Länge 255</td> 
-  </tr> 
-  <tr> 
-   <td>Ursprüngliche Quelleninfo</td> 
-   <td>mkto71_Original_Source_Info</td> 
-   <td>Text</td> 
-   <td>Länge 255</td> 
-  </tr> 
-  <tr> 
-   <td>Ursprünglicher Quellentyp</td> 
-   <td>mkto71_original_Source_type</td> 
-   <td>Text</td> 
-   <td>Länge 255</td> 
-  </tr> 
-  <tr> 
-   <td>Abgeleiteter Ort</td> 
-   <td>mkto71_inferred_city</td> 
-   <td>Text</td> 
-   <td>Länge 255</td> 
-  </tr> 
-  <tr> 
-   <td>Abgeleitetes Unternehmen</td> 
-   <td>mkto71_inferred_company</td> 
-   <td>Text</td> 
-   <td>Länge 255</td> 
-  </tr> 
-  <tr> 
-   <td>Abgeleitetes Land</td> 
-   <td>mkto71_inferred_country</td> 
-   <td>Text</td> 
-   <td>Länge 255</td> 
-  </tr> 
-  <tr> 
-   <td>Abgeleiteter Stadtbereich</td> 
-   <td>mkto71_inferred_metropolitan_area</td> 
-   <td>Text</td> 
-   <td>Länge 255</td> 
-  </tr> 
-  <tr> 
-   <td>Abgleitete Vorwahl</td> 
-   <td>mkto71_inferred_phone_area_code</td> 
-   <td>Text</td> 
-   <td>Länge 255</td> 
-  </tr> 
-  <tr> 
-   <td>Abgeleitete Postleitzahl</td> 
-   <td>mkto71_inferred_postal_code</td> 
-   <td>Text</td> 
-   <td>Länge 255</td> 
-  </tr> 
-  <tr> 
-   <td>Abgeleitetes Bundesland/abgeleitete Region</td> 
-   <td>mkto71_inferred_state_region</td> 
-   <td>Text</td> 
-   <td>Länge 255</td> 
-  </tr> 
- </tbody> 
+      Feldattribute
+    </div></th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>Akquisitionsprogramm-ID</td>
+   <td>mkto71_Acquisition_Program_Id</td>
+   <td>Zahl</td>
+   <td>Länge 18<br>Dezimalstellen 0 </td>
+  </tr>
+  <tr>
+   <td>Ursprünglicher Verweis</td>
+   <td>mkto71_Original_Referrer</td>
+   <td>Text</td>
+   <td>Länge 255</td>
+  </tr>
+  <tr>
+   <td>Ursprüngliche Such-Engine</td>
+   <td>mkto71_original_search_engine</td>
+   <td>Text</td>
+   <td>Länge 255</td>
+  </tr>
+  <tr>
+   <td>Ursprünglicher Suchausdruck</td>
+   <td>mkto71_Original_Search_Phrase</td>
+   <td>Text</td>
+   <td>Länge 255</td>
+  </tr>
+  <tr>
+   <td>Ursprüngliche Quelleninfo</td>
+   <td>mkto71_Original_Source_Info</td>
+   <td>Text</td>
+   <td>Länge 255</td>
+  </tr>
+  <tr>
+   <td>Ursprünglicher Quellentyp</td>
+   <td>mkto71_original_Source_type</td>
+   <td>Text</td>
+   <td>Länge 255</td>
+  </tr>
+  <tr>
+   <td>Abgeleiteter Ort</td>
+   <td>mkto71_inferred_city</td>
+   <td>Text</td>
+   <td>Länge 255</td>
+  </tr>
+  <tr>
+   <td>Abgeleitetes Unternehmen</td>
+   <td>mkto71_inferred_company</td>
+   <td>Text</td>
+   <td>Länge 255</td>
+  </tr>
+  <tr>
+   <td>Abgeleitetes Land</td>
+   <td>mkto71_inferred_country</td>
+   <td>Text</td>
+   <td>Länge 255</td>
+  </tr>
+  <tr>
+   <td>Abgeleiteter Stadtbereich</td>
+   <td>mkto71_inferred_metropolitan_area</td>
+   <td>Text</td>
+   <td>Länge 255</td>
+  </tr>
+  <tr>
+   <td>Abgleitete Vorwahl</td>
+   <td>mkto71_inferred_phone_area_code</td>
+   <td>Text</td>
+   <td>Länge 255</td>
+  </tr>
+  <tr>
+   <td>Abgeleitete Postleitzahl</td>
+   <td>mkto71_inferred_postal_code</td>
+   <td>Text</td>
+   <td>Länge 255</td>
+  </tr>
+  <tr>
+   <td>Abgeleitetes Bundesland/abgeleitete Region</td>
+   <td>mkto71_inferred_state_region</td>
+   <td>Text</td>
+   <td>Länge 255</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]

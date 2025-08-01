@@ -3,9 +3,9 @@ description: März 2022 - Versionshinweise zu Marketo - Produktdokumentation
 title: März 2022 – Versionshinweise
 exl-id: 91826d56-a38e-44af-b798-17bfc016c311
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '749'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Die folgenden Funktionen werden ab dem 11. **2022 veröffentlicht** wobei in den
 
 ## Kanalübergreifende Orchestrierung {#cross-channel-orchestration}
 
-* **[!DNL Dynamic Chat]**: Maximieren Sie jede Gelegenheit auf Ihrer Website, indem Sie sowohl Leads als auch Konten mit proaktiven, ansprechenden und 1:1 personalisierten Gesprächen ansprechen. [Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} ermöglicht es Marketo Engage-Benutzern, Chat als wichtigen Teil integrierter kanalübergreifender Erlebnisse für B2B-Marketing- und -Verkaufs-Anwendungsfälle zu nutzen. Zu den Funktionen gehören: die Möglichkeit, Meetings direkt im Chat zu buchen, Lead-Routing, Starter-Vorlagen, Erstellung von Konversationen per Drag-and-Drop und vieles mehr. Dynamic Chat ist in allen Marketo Engage-Paketen enthalten und wird in diesem Jahr für alle Marketo Engage-Benutzer eingeführt.
+* **[!DNL Dynamic Chat]**: Maximieren Sie jede Gelegenheit auf Ihrer Website, indem Sie sowohl Leads als auch Konten mit proaktiven, ansprechenden und 1:1 personalisierten Konversationen ansprechen. [Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} ermöglicht es Marketo Engage-Benutzern, Chat als wichtigen Teil integrierter kanalübergreifender Erlebnisse für B2B-Marketing- und -Verkaufs-Anwendungsfälle zu nutzen. Zu den Funktionen gehören: die Möglichkeit, Meetings direkt im Chat zu buchen, Lead-Routing, Starter-Vorlagen, Erstellung von Konversationen per Drag-and-Drop und vieles mehr. Dynamic Chat ist in allen Marketo Engage-Paketen enthalten und wird in diesem Jahr für alle Marketo Engage-Benutzer eingeführt.
 
 * **Verbesserung der Filterung von E-Mail** Bot-Aktivitäten: Als Erweiterung der zuvor veröffentlichten Funktion [Filterung von E-Mail-Bot-Aktivitäten](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"} können Sie sich jetzt für die Protokollierung von Aktivitäten anmelden, die als Bots identifiziert werden. Anschließend können Sie Aktionen filtern und mit Triggern versehen, die auf Aktivitäten basieren, die als von Bots ausgeführt identifiziert wurden.
 

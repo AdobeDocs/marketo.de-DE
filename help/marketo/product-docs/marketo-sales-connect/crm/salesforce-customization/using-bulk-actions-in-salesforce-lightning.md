@@ -4,7 +4,7 @@ description: Verwenden von Massenaktionen in Salesforce Lightning - Marketo-Doku
 title: Verwenden von Massenaktionen in Salesforce Lightning
 exl-id: 72022507-6568-4cc2-b3b5-c1703a1493ad
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '388'
 ht-degree: 0%
@@ -39,10 +39,10 @@ Erfahren Sie, wie Sie Massenaktionen durchführen, z. B. Leads zu einer Kampagne
 
 1. Eine MSC-E-Mail wird angezeigt. Es umfasst die folgenden Funktionen:
 
-   a. Das Feld [!UICONTROL An] zeigt „Alle Wareneingänge“ an. Dies entspricht der Liste der Leads, die Sie in der Lead-Listenansicht ausgewählt haben\
-   b. Diese Liste ist im linken Bereich namens „Massenverarbeitung“ sichtbar - Sie können hier Empfänger hinzufügen/entfernen\
-   c. Sie können eine Vorlage auswählen oder Ihre eigene E-Mail erstellen\
-   d. Sie können die E-Mail sofort senden oder einen Zeitplan festlegen, um sie zu einem späteren Zeitpunkt zu senden
+   a. Das Feld [!UICONTROL An] zeigt „Alle Wareneingänge“ an. Dies entspricht der Liste der Leads, die Sie in der Lead-Listenansicht ausgewählt haben
+b. Diese Liste ist im linken Bereich namens „Massenverarbeitung“ sichtbar - Sie können hier Empfänger hinzufügen/entfernen
+c. Sie können eine Vorlage auswählen oder Ihre eigene E-Mail erstellen
+d. Sie können die E-Mail sofort senden oder einen Zeitplan festlegen, um sie zu einem späteren Zeitpunkt zu senden
 
    ![](assets/three-5.png)
 
@@ -70,7 +70,7 @@ Erfahren Sie, wie Sie Massenaktionen durchführen, z. B. Leads zu einer Kampagne
 
    ![](assets/eight-2.png)
 
-1. Eine neue Registerkarte mit dem Namen &quot;[!DNL Salesforce] Bridge&quot; wird geöffnet. Klicken Sie auf **[!UICONTROL Schaltfläche &#x200B;]Mit Gruppe fortfahren→**.
+1. Eine neue Registerkarte mit dem Namen &quot;[!DNL Salesforce] Bridge&quot; wird geöffnet. Klicken Sie auf **[!UICONTROL Schaltfläche ]Mit Gruppe fortfahren→**.
 
    ![](assets/nine-2.png)
 

@@ -3,7 +3,7 @@ description: On-Demand-Webinare - Marketo-Dokumente - Produktdokumentation
 title: On-Demand-Webinare
 feature: Interactive Webinars
 exl-id: 65bfc1d2-6382-4cfa-9560-69cbb0c37c42
-source-git-commit: 7de0aed6be29a304276f2b3f96dd60974b4c4eb6
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '449'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # On-Demand-Webinare {#on-demand-webinars}
 
-On-Demand-Webinare erfassen und verfeinern die Leads, die sich für Ihre Veranstaltung registriert haben und nicht teilgenommen haben. Sie möchten jedoch Informationen über die Veranstaltung erhalten, indem Sie sich die Aufzeichnung ansehen. Informationen wie Name, E-Mail-ID und Datum/Dauer der Sendung können auf Marketo Engage erfasst und zum Targeting dieser nicht angezeigten Leads verwendet werden.
+On-Demand-Webinare erfassen und verfeinern die Leads, die sich für Ihre Veranstaltung registriert haben und nicht teilgenommen haben. Sie möchten jedoch Informationen über die Veranstaltung erhalten, indem Sie sich die Aufzeichnung ansehen. Informationen wie Name, E-Mail-ID und Datum/Dauer der Beobachtung können in Marketo Engage erfasst und zum Targeting dieser nicht angezeigten Leads verwendet werden.
 
 Die URL für die Teilnahme am Webinar, die den Teilnehmern vor der Veranstaltung mitgeteilt wurde, kann verwendet werden, um die On-Demand-Aufzeichnung anzusehen. Wenn ein Teilnehmer, der nicht an der Live-Veranstaltung teilgenommen hat (z. B. ein Lead mit dem Programmstatus „No-Show„), auf die URL für die Teilnahme am Webinar klickt, ändert sich der Programmstatus dieses Leads von „No-Show“ in „Attended On-Demand“. Der Programmstatus der Leads, die das Ereignis live gesehen haben und den Status „Teilgenommen“ haben, wird nicht beeinflusst, wenn sie die Joining-URL aufrufen und die On-Demand-Aufzeichnung ansehen.
 

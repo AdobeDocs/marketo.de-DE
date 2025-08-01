@@ -6,10 +6,10 @@ hide: true
 hidefromtoc: true
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
 feature: Getting Started
-source-git-commit: d41a43d7579775c0c866e867f778962ff61ff044
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '2104'
-ht-degree: 0%
+source-wordcount: '2087'
+ht-degree: 1%
 
 ---
 
@@ -40,7 +40,7 @@ Einige Schritte erfordern Hilfe von Ihrem IT-Team.
 
 >[!IMPORTANT]
 >
->Wenn Ihr Marketo-Abonnement am/nach dem 31. Juli 2023 erstellt wurde oder bereits auf [Adobe Identity Management](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} migriert wurde, gelten die unten beschriebenen Schritte zum Hinzufügen eines Benutzers nicht für Sie. Siehe stattdessen [diesen Artikel](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"}.
+>Wenn Ihr Marketo-Abonnement am/nach dem 31. Juli 2023 erstellt wurde oder bereits zu [Adobe Identity Management](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} migriert wurde, gelten die unten beschriebenen Schritte zum Hinzufügen eines Benutzers nicht für Sie. Siehe stattdessen [diesen Artikel](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"}.
 
 Melden Sie sich bei Marketo [hier](https://app.marketo.com/){target="_blank"} mit den Anmeldedaten an, die Sie per E-Mail erhalten haben.
 
@@ -227,7 +227,6 @@ Unser Marketing-Team nutzt jetzt die Marketo-Plattform, um mit unseren Mitarbeit
 auf die Zulassungsliste setzen `3)` Marketo.
 
     * Wenn wir IP-Adressen in unserer E-Mail-Zulassungsliste verwenden, fügen Sie die unten aufgeführten IPs hinzu:
-
     199.15.212.0/22
     
     192.28.144.0/20
@@ -270,7 +269,7 @@ include:mktomail.com
 
 **`[DKIMDomain1]`**: Hosteintrag ist **`[HostRecord1]`** und der TXT-Wert ist **[TXTValue1]**.
 
-**`[DKIMDomain2]`**: Hosteintrag ist **`[HostRecord2]`** und der TXT-Wert ist **`[TXTValue2]`**.
+**`[DKIMDomain2]`**: Der Host-Eintrag lautet **`[HostRecord2]`** und der TXT-Wert **`[TXTValue2]`**.
 
 `[`Kopieren Sie **HostRecord** und **TXTValue** für jede **DKIMDomain**, die Sie eingerichtet haben, nachdem Sie den [Anweisungen hier](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md). Vergessen Sie nicht, jede Domain unter **Admin > E-Mail > DKIM** zu überprüfen, nachdem Ihr IT-Personal diesen Schritt abgeschlossen hat.`]`
 
@@ -347,10 +346,10 @@ Marketo verfügt über eine benutzerdefinierte Tracking-JavaScript ([!DNL Munchk
 
 >[!NOTE]
 >
->Erfahrung mit HTML, die zum Hinzufügen des Trackingcodes erforderlich ist.
+>Zum Hinzufügen des Trackingcodes ist Erfahrung mit HTML erforderlich.
 
 ## Leistungserwartungen {#performance-expectations}
 
-Was können Sie von Marketo in puncto Leistung erwarten? Er kann je nach Größe und Komplexität Ihrer Marketing-Kampagnen variieren. Sie können jedoch Leistungsstufen erwarten, die den Werten in der Spalte „Standard“ in mehreren Tabellen in der [Marketo Engage-Produktbeschreibung entsprechen](https://helpx.adobe.com/de/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. Die Spalten „Performance“ und „Performance Plus“ beziehen sich auf Leistungspakete, die [höhere Leistungsstufen“ ](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
+Was können Sie von Marketo in puncto Leistung erwarten? Er kann je nach Größe und Komplexität Ihrer Marketing-Kampagnen variieren. Sie können jedoch Leistungsstufen erwarten, die den Werten in der Spalte „Standard“ in mehreren Tabellen in der [Marketo Engage-Produktbeschreibung entsprechen](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. Die Spalten „Performance“ und „Performance Plus“ beziehen sich auf Leistungspakete, die [höhere Leistungsstufen“ ](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
 
 Alle Einrichtungsschritte sind abgeschlossen. Das Einzige, was noch übrig ist, ist einzutauchen und Marketo zu benutzen!

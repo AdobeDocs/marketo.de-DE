@@ -3,7 +3,7 @@ description: Erste Schritte mit interaktiven Webinaren - Marketo-Dokumente - Pro
 title: Erste Schritte mit interaktiven Webinaren
 feature: Interactive Webinars
 exl-id: 6e1409aa-a60a-4fb2-8abd-cdc0c20a20d9
-source-git-commit: 901a3416c9e9ac792ab0337cea102a8b3858f82a
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '286'
 ht-degree: 0%

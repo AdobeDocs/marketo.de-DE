@@ -4,7 +4,7 @@ description: Freigegebene und dedizierte IP-Adressen - Marketo-Dokumente - Produ
 title: Freigegebene und dedizierte IP-Adressen
 exl-id: 3d7a78f4-531a-4ad7-a20b-1385bd62d1d9
 feature: Deliverability
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '433'
 ht-degree: 0%
@@ -33,28 +33,28 @@ Wie üblich gibt es für beide Optionen Vor- und Nachteile.
 
 _Vorteile_
 
-**Reputation** - Sie besitzen Ihre Reputation und Zustellbarkeit.\
-**Monitoring** - Durch die Überwachung der Zustellbarkeitsberichte können Sie schnell auf Änderungen an Ihren Versandmetriken reagieren.\
+**Reputation** - Sie besitzen Ihre Reputation und Zustellbarkeit.
+**Monitoring** - Durch die Überwachung der Zustellbarkeitsberichte können Sie schnell auf Änderungen an Ihren Versandmetriken reagieren.
 **Problembehebung** - Es ist einfacher, Bereitstellungsprobleme zu untersuchen, zu verstehen und zu lösen.
 
 _Nachteile_
 
-**Volumenänderungen** - Volumenspitzen können sich negativ auf Ihre Reputation auswirken und müssen bewältigt werden.\
-**IP-Aufwärmprozess** - Reputation wird im Laufe der Zeit aufgebaut. Einige Internet Service Provider (ISPs) drosseln IP-Adressen ohne Volumenverlauf, sodass Sie in den ersten Wochen eine Reputation aufbauen müssen (Marketo kann Ihnen dabei helfen).\
+**Volumenänderungen** - Volumenspitzen können sich negativ auf Ihre Reputation auswirken und müssen bewältigt werden.
+**IP-Aufwärmprozess** - Reputation wird im Laufe der Zeit aufgebaut. Einige Internet Service Provider (ISPs) drosseln IP-Adressen ohne Volumenverlauf, sodass Sie in den ersten Wochen eine Reputation aufbauen müssen (Marketo kann Ihnen dabei helfen).
 **Kosten** - Für den Versand über eine dedizierte IP bei einem beliebigen Anbieter fallen in der Regel zusätzliche Kosten an.
 
 **Vor- und Nachteile einer freigegebenen IP**
 
 _Vorteile_
 
-**Gute Mitbewohner** - Wenn die Personen, mit denen Sie Ihre IP teilen, Best Practices beim Versand befolgen, würden Sie davon profitieren.\
-**Mailing-Häufigkeit** - Im Gegensatz zu dedizierten IPs ist keine Mindest-Mailing-Häufigkeit erforderlich, um sich für eine freigegebene IP zu qualifizieren.\
+**Gute Mitbewohner** - Wenn die Personen, mit denen Sie Ihre IP teilen, Best Practices beim Versand befolgen, würden Sie davon profitieren.
+**Mailing-Häufigkeit** - Im Gegensatz zu dedizierten IPs ist keine Mindest-Mailing-Häufigkeit erforderlich, um sich für eine freigegebene IP zu qualifizieren.
 **Kosten** - Für den Versand von einer freigegebenen IP-Adresse fallen keine zusätzlichen Kosten an.
 
 _Nachteile_
 
-**Schlechte Mitbewohner** - Wenn die Personen, mit denen Sie Ihre IP teilen, schlechte Versandpraktiken anwenden, können Ihre E-Mail-Kampagnen beeinträchtigt sein.\
-**Kontrolle** - Sie haben viel weniger Kontrolle über Ihre Absender-Reputation.\
+**Schlechte Mitbewohner** - Wenn die Personen, mit denen Sie Ihre IP teilen, schlechte Versandpraktiken anwenden, können Ihre E-Mail-Kampagnen beeinträchtigt sein.
+**Kontrolle** - Sie haben viel weniger Kontrolle über Ihre Absender-Reputation.
 **Problembehebung** - Es kann häufig schwieriger sein, ein Problem beim Senden von über freigegebene IPs zu beheben.
 
 >[!NOTE]

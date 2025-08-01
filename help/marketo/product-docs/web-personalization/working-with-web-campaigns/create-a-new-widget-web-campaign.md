@@ -4,7 +4,7 @@ description: Erstellen einer neuen Widget-Web-Kampagne - Marketo-Dokumente - Pro
 title: Erstellen einer neuen Widget-Web-Kampagne
 exl-id: e00f5be7-1d33-4659-8f38-b74b53eeb09f
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '629'
 ht-degree: 1%
@@ -37,60 +37,60 @@ Eine Web-Kampagne ist eine benutzerdefinierte Reaktion, die mit einem bestimmten
 
    ![](assets/preview.png)
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">Name</th> 
-   <th colspan="1" rowspan="1">Beschreibung</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1"><strong>Vorlagen</strong></td> 
-   <td colspan="1">Wählen Sie aus einer von mehreren vorgefertigten Vorlagen.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Anzeige am</strong></td> 
-   <td colspan="1">Ermöglicht die <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md" rel="nofollow"> (wann und wie) </a> Anzeige Ihrer Web-Kampagne.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Animieren von Ein-/Ausgängen</strong></td> 
-   <td colspan="1">Wird beim Ein- und/oder Beenden eines Dialogfelds festgelegt. Wählen Sie den Effekt (Drop, Blind, Slide, Fade, No Effect), die Dauer (in Sekunden) und die Richtung (nach oben, unten, links, rechts).</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Position</strong></td> 
-   <td colspan="1">Wählen Sie eine der vier Optionen für die Position des Widgets auf der Seite: Rechts, Links, Oben, Unten. Position % ist der Prozentsatz der Positionierung bezüglich der Position, an der das Widget auf der Browser-Seite angezeigt wird (z. B. wird „50 % unten“ dazu führen, dass das Widget halb unten auf der Seite angezeigt wird, „10 % links“ bewirkt, dass das Widget oben links auf der Seite angezeigt wird usw.).<br></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>Widget-Farbe</strong></td> 
-   <td colspan="1" rowspan="1"><p>Wählen Sie die Widget-Farbe aus einem Farbdiagramm aus oder geben Sie sie als RGB-Farbcode ein. Sie können auch die Transparenzstufe des Widget-Hintergrunds auswählen, indem Sie die Leiste am unteren Rand in beide Richtungen verschieben.</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>Widget-Schaltfläche</strong><br></p></td> 
-   <td colspan="1" rowspan="1">Passen Sie die Widget-Schaltfläche selbst an.<br>Pfeil: Ermöglicht die Auswahl aus mehreren verschiedenen Symbolen im rechten Dropdown-Menü. Die linke Dropdown-Liste bestimmt die Farbe.<br>Benutzerdefiniert: Fügen Sie die URL eines gehosteten Bilds ein. Akzeptierte Dateitypen: .JPEG, .GIF (einschließlich animierte), .PNG, .APNG, .SVG, .BMP.<br>Text: Ein Widget kann Text sein: Passen Sie seine Farbe, Größe und Schriftart an.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Anhaftend</strong></td> 
-   <td colspan="1">Durch Auswahl dieser Option wird sichergestellt, dass das Widget während der gesamten Besuchersitzung auf allen Web-Seiten angezeigt wird.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Minimieren eines Widgets in der Kampagnenanzeige</strong></td> 
-   <td colspan="1">Fügt ein Widget ein, hält es jedoch minimiert, sodass der Benutzer es anklicken muss, um es zu maximieren.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Standard wiederherstellen </strong></td> 
-   <td colspan="1">Stellt die ursprüngliche Standardeinstellung für das Widget wieder her, indem die Widget-Farbe auf die Standardoption Transparentes Grau festgelegt wird.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Vorschau auf Website </strong></td> 
-   <td colspan="1">Zeigen Sie Kampagnen eine Vorschau an, bevor sie gestartet werden.<br> 
-    <ul> 
-     <li>URL : Geben Sie eine Beispiel-URL ein, unter der die Kampagne ausgeführt werden soll, um ein Vorschaubeispiel dafür zu erhalten, wie die Kampagne live aussehen würde.</li> 
-     <li>Vorschau : Klicken Sie auf <strong>Vorschau</strong>, um ein neues Fenster der Beispiel-URL zu öffnen und zu sehen, wie die Kampagne reagiert (für <a href="https://chrome.google.com/extensions/detail/ldiddonjplchallbngbccbfdfeldohkj?hl=en" rel="nofollow"> beste Web-Kampagnenvorschau die Erweiterung </a>Chrome hinzufügen). </li> 
-     <li>Freigeben : Verwenden Sie die Schaltfläche Freigeben , um eine E-Mail an einen Kollegen mit einem Link zur Proxy-Kampagne zu senden.</li> 
-    </ul></td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">Name</th>
+   <th colspan="1" rowspan="1">Beschreibung</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1"><strong>Vorlagen</strong></td>
+   <td colspan="1">Wählen Sie aus einer von mehreren vorgefertigten Vorlagen.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Anzeige am</strong></td>
+   <td colspan="1">Ermöglicht die <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md" rel="nofollow"> (wann und wie) </a> Anzeige Ihrer Web-Kampagne.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Animieren von Ein-/Ausgängen</strong></td>
+   <td colspan="1">Wird beim Ein- und/oder Beenden eines Dialogfelds festgelegt. Wählen Sie den Effekt (Drop, Blind, Slide, Fade, No Effect), die Dauer (in Sekunden) und die Richtung (nach oben, unten, links, rechts).</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Position</strong></td>
+   <td colspan="1">Wählen Sie eine der vier Optionen für die Position des Widgets auf der Seite: Rechts, Links, Oben, Unten. Position % ist der Prozentsatz der Positionierung bezüglich der Position, an der das Widget auf der Browser-Seite angezeigt wird (z. B. wird „50 % unten“ dazu führen, dass das Widget halb unten auf der Seite angezeigt wird, „10 % links“ bewirkt, dass das Widget oben links auf der Seite angezeigt wird usw.).<br></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>Widget-Farbe</strong></td>
+   <td colspan="1" rowspan="1"><p>Wählen Sie die Widget-Farbe aus einem Farbdiagramm aus oder geben Sie sie als RGB-Farbcode ein. Sie können auch die Transparenzstufe des Widget-Hintergrunds auswählen, indem Sie die Leiste am unteren Rand in beide Richtungen verschieben.</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>Widget-Schaltfläche</strong><br></p></td>
+   <td colspan="1" rowspan="1">Passen Sie die Widget-Schaltfläche selbst an.<br>Pfeil: Ermöglicht die Auswahl aus mehreren verschiedenen Symbolen im rechten Dropdown-Menü. Die linke Dropdown-Liste bestimmt die Farbe.<br>Benutzerdefiniert: Fügen Sie die URL eines gehosteten Bilds ein. Akzeptierte Dateitypen: .JPEG, .GIF (einschließlich animierte), .PNG, .APNG, .SVG, .BMP.<br>Text: Ein Widget kann Text sein: Passen Sie seine Farbe, Größe und Schriftart an.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Anhaftend</strong></td>
+   <td colspan="1">Durch Auswahl dieser Option wird sichergestellt, dass das Widget während der gesamten Besuchersitzung auf allen Web-Seiten angezeigt wird.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Minimieren eines Widgets in der Kampagnenanzeige</strong></td>
+   <td colspan="1">Fügt ein Widget ein, hält es jedoch minimiert, sodass der Benutzer es anklicken muss, um es zu maximieren.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Standard wiederherstellen </strong></td>
+   <td colspan="1">Stellt die ursprüngliche Standardeinstellung für das Widget wieder her, indem die Widget-Farbe auf die Standardoption Transparentes Grau festgelegt wird.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Vorschau auf Website </strong></td>
+   <td colspan="1">Zeigen Sie Kampagnen eine Vorschau an, bevor sie gestartet werden.<br>
+    <ul>
+     <li>URL : Geben Sie eine Beispiel-URL ein, unter der die Kampagne ausgeführt werden soll, um ein Vorschaubeispiel dafür zu erhalten, wie die Kampagne live aussehen würde.</li>
+     <li>Vorschau : Klicken Sie auf <strong>Vorschau</strong>, um ein neues Fenster der Beispiel-URL zu öffnen und zu sehen, wie die Kampagne reagiert (für <a href="https://chrome.google.com/extensions/detail/ldiddonjplchallbngbccbfdfeldohkj?hl=en" rel="nofollow"> beste Web-Kampagnenvorschau die Erweiterung </a>Chrome hinzufügen). </li>
+     <li>Freigeben : Verwenden Sie die Schaltfläche Freigeben , um eine E-Mail an einen Kollegen mit einem Link zur Proxy-Kampagne zu senden.</li>
+    </ul></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]
@@ -113,13 +113,13 @@ Siehe [Klonen einer Web-](/help/marketo/product-docs/web-personalization/working
 
 ## Vorschau einer Web-Kampagne {#preview-a-web-campaign}
 
-Klicken Sie auf [!UICONTROL &#x200B; Seite &#x200B;]Web-Kampagnen **[!UICONTROL auf]** Vorschau“ der Web-Kampagne, die Sie in der Vorschau anzeigen möchten
+Klicken Sie auf [!UICONTROL  Seite ]Web-Kampagnen **[!UICONTROL auf]** Vorschau“ der Web-Kampagne, die Sie in der Vorschau anzeigen möchten
 
 ![](assets/widget-campaign-preview-hand.png)
 
 ## Löschen einer Web-Kampagne {#delete-a-web-campaign}
 
-1. Klicken Sie auf der [!UICONTROL Web]&#x200B;**[!UICONTROL Kampagnen]** auf die Web-Kampagne, die Sie löschen möchten.
+1. Klicken Sie auf der [!UICONTROL Web]**[!UICONTROL Kampagnen]** auf die Web-Kampagne, die Sie löschen möchten.
 
    ![](assets/widget-campaign-delete-hand.png)
 

@@ -3,7 +3,7 @@ description: TS-YYYY-MM-DD-Tradeshow-Programm - Marketo-Dokumentation
 title: TS-YYYY-MM-DD-Tradeshow-Programm
 feature: Programs
 exl-id: 39ef8d6e-392b-456e-a925-b1f6c2cb81d8
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '410'
 ht-degree: 15%
@@ -14,168 +14,168 @@ ht-degree: 15%
 
 Dies ist ein Beispiel für ein Messeprogramm mit Einladungen und Follow-up-E-Mails unter Verwendung eines Marketo Engage-Veranstaltungsprogramms.
 
-Wenden Sie sich für weitere Strategieunterstützung oder Hilfe bei der Anpassung eines Programms an das Adobe-Account-Team oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
+Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}, um weitere Unterstützung bei der Strategie oder bei der Anpassung eines Programms zu erhalten.
 
 ## Kanal-Zusammenfassung {#channel-summary}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Kanal</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Kanal</th>
    <th>Mitgliedschaftsstatus</th>
    <th>Analytics Behavior</th>
    <th>Programmtyp</th>
-  </tr> 
-  <tr> 
-   <td>Veranstaltung</td> 
-   <td>01-Invited 
+  </tr>
+  <tr>
+   <td>Ereignis</td>
+   <td>01-Invited
    <br/>02-waitlisted
    <br/>03-registriert
    <br/>04-Besuchter Stand
    <br/>05-Engaged auf der Messe - Erfolg
    <br/>06-Engaged auf der Post Show - Erfolg</td>
    <td>Einschließlich</td>
-   <td>Veranstaltung</td>
+   <td>Ereignis</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## Programm enthält die folgenden Assets {#program-contains-the-following-assets}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Typ</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Typ</th>
    <th>Vorlagenname</th>
    <th>Asset-Name</th>
-  </tr> 
-  <tr> 
-   <td>E-Mail</td> 
+  </tr>
+  <tr>
+   <td>E-Mail</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Schnellstart-E-Mail-Vorlage</a></td>
    <td>01-email-thank you</td>
   </tr>
-   <tr> 
-   <td>E-Mail</td> 
+   <tr>
+   <td>E-Mail</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Schnellstart-E-Mail-Vorlage</a></td>
    <td>02a- E-Mail - Einladung</td>
   </tr>
   <tr>
-  <tr> 
-   <td>Lokaler Bericht</td> 
+  <tr>
+   <td>Lokaler Bericht</td>
    <td> </td>
    <td>E-Mail-Leistung</td>
   </tr>
-  <tr> 
-   <td>Lokaler Bericht</td> 
+  <tr>
+   <td>Lokaler Bericht</td>
    <td> </td>
    <td>Programmleistung</td>
   </tr>
-  <tr> 
-   <td>Intelligente Kampagne</td> 
+  <tr>
+   <td>Intelligente Kampagne</td>
    <td> </td>
    <td>00 - Erfassungsprogramm</td>
   </tr>
-  <tr> 
-   <td>Intelligente Kampagne</td> 
+  <tr>
+   <td>Intelligente Kampagne</td>
    <td> </td>
    <td>01 - Einladung senden</td>
   </tr>
-   <tr> 
-   <td>Intelligente Kampagne</td> 
+   <tr>
+   <td>Intelligente Kampagne</td>
    <td> </td>
    <td>02 - Senden von Folge-E-Mails</td>
   </tr>
-   <tr> 
-   <td>Intelligente Kampagne</td> 
+   <tr>
+   <td>Intelligente Kampagne</td>
    <td> </td>
    <td>03 - Interagiert mit Follow-up-E-Mail (Erfolg)</td>
   </tr>
-  <tr> 
-   <td>Ordner</td> 
+  <tr>
+   <td>Ordner</td>
    <td> </td>
-   <td>Assets - enthält alle Kreativ-Assets 
+   <td>Assets - enthält alle Kreativ-Assets
 <br/>(Unterordner für E-Mail und Landingpages)</td>
   </tr>
-  <tr> 
-   <td>Ordner</td> 
+  <tr>
+   <td>Ordner</td>
    <td> </td>
    <td>Kampagnen - Alle intelligenten Kampagnen werden gespeichert</td>
   </tr>
-  <tr> 
-   <td>Ordner</td> 
+  <tr>
+   <td>Ordner</td>
    <td> </td>
    <td>Berichte</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ![](assets/ts-yyyy-mm-dd-tradeshow-program-1.png)
 
 ## Meine Token enthalten {#my-tokens-included}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Token-Typ</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Token-Typ</th>
    <th>Token-Name</th>
    <th>Wert</th>
   </tr>
-  <tr> 
-   <td>Kalenderdatei</td> 
+  <tr>
+   <td>Kalenderdatei</td>
    <td><code>{{my.AddToCalendar}}</code></td>
    <td>Für Details doppelklicken</td>
   </tr>
-  <tr> 
-   <td>Text</td> 
+  <tr>
+   <td>Text</td>
    <td><code>{{my.Email-FromAddress}}</code></td>
    <td>PlaceholderFrom.email@mydomain.com</td>
   </tr>
-  <tr> 
-   <td>Text</td> 
+  <tr>
+   <td>Text</td>
    <td><code>{{my.Email-FromName}}</code></td>
    <td><code><--My From Name Here--></code></td>
   </tr>
-  <tr> 
-   <td>Text</td> 
+  <tr>
+   <td>Text</td>
    <td><code>{{my.Email-ReplyToAddress}}</code></td>
    <td>reply-to.email@mydomain.com</td>
   </tr>
-  <tr> 
-   <td>Text</td> 
+  <tr>
+   <td>Text</td>
    <td><code>{{my.Event-Date}}</code></td>
    <td><code><--My Event Date--></code></td>
   </tr>
-   <tr> 
-   <td>RTF</td> 
+   <tr>
+   <td>RTF</td>
    <td><code>{{my.Event-Booth#}}</code></td>
    <td><code><--My Booth Number--></code></td>
   </tr>
-   <tr> 
-   <td>Text</td> 
+   <tr>
+   <td>Text</td>
    <td><code>{{my.Event-City}}</code></td>
    <td><code><--My Event City Here--></code></td>
   </tr>
-  <tr> 
-   <td>Text</td> 
+  <tr>
+   <td>Text</td>
    <td><code>{{my.Event-Date}}</code></td>
    <td><code><--My Event Date--></code></td>
   </tr>
-  <tr> 
-   <td>Text</td> 
+  <tr>
+   <td>Text</td>
    <td><code>{{my.Event-Time}}</code></td>
    <td><code><--My Event Time + TimeZone--></code></td>
   </tr>
-  <tr> 
-   <td>Text</td> 
+  <tr>
+   <td>Text</td>
    <td><code>{{my.Event-Title}}</code></td>
    <td><code><--My Event Title Here--></code></td>
   </tr>
-  <tr> 
-   <td>Text</td> 
+  <tr>
+   <td>Text</td>
    <td><code>{{my.Event-Type}}</code></td>
    <td>Fachmesse</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## Kollisionsregeln {#conflict-rules}

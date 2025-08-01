@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: 86a4ad2c-22c7-4543-bcb3-bca132b6afea
-source-git-commit: 7a847ece020ea0c0001241abf8e49b9eadf8edce
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '592'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 # Adobe Marketo Engage-Community {#marketo-engage-community}
 
-In der [Adobe Marketo Engage Community](https://nation.marketo.com/) (auch als Marketing-Nation bezeichnet) erfahren andere Benutzende sowie Marketo-Mitarbeiter mehr über Ihre Marketo Engage-Instanz. Bevor Sie loslegen, machen Sie sich kurz mit den [Community-Richtlinien](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines) vertraut.
+In der [Adobe Marketo Engage-](https://nation.marketo.com/) (auch als Marketing-Nation bezeichnet) erfahren andere Benutzende sowie Marketo-Mitarbeiter mehr über Ihre Marketo Engage-Instanz. Bevor Sie loslegen, machen Sie sich kurz mit den [Community-Richtlinien](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines) vertraut.
 
 ## Registrieren Ihres Benutzernamens {#register-your-username}
 
@@ -56,13 +56,13 @@ SCREENSHOT
 
 ## Blog-Beiträge lesen {#read-blog-posts}
 
-Dieser Abschnitt enthält hilfreiche Informationen von Marketo Engage-Anwendern (einschließlich mehrerer Champions) und Marketo-Mitarbeitern. Hinterlassen Sie unten Kommentare, wenn Sie zusätzliche Informationen benötigen.
+In diesem Abschnitt finden Sie hilfreiche Informationen von Marketo Engage-Benutzern (einschließlich mehrerer Champions) und Marketo-Mitarbeitern. Hinterlassen Sie unten Kommentare, wenn Sie zusätzliche Informationen benötigen.
 
 SCREENSHOT
 
 ## Eine Idee einreichen {#submit-an-idea}
 
-Wenn Sie jemals eine Idee haben, die das Marketo Engage verbessern würde, senden Sie sie in diesem Abschnitt. Sie können auch über bestehende Ideen abstimmen.
+Wenn Sie jemals eine Idee haben, die Marketo Engage verbessern würde, senden Sie sie in diesem Abschnitt . Sie können auch über bestehende Ideen abstimmen.
 
 SCREENSHOT
 
@@ -82,7 +82,7 @@ SCREENSHOT
 
 >[!NOTE]
 >
->Dies gilt nur für Personen, die mehrere Marketo Engage-Abonnements haben und bei der Anmeldung bei der Marketing Nation Community versehentlich mehrere Profile erstellt haben.
+>Dies gilt nur für diejenigen, die mehrere Marketo Engage-Abonnements haben und bei der Anmeldung bei der Marketing Nation-Community versehentlich mehrere Profile erstellt haben.
 
 Gehen Sie wie folgt vor, um den Verlauf über mehrere Community-Profile hinweg zusammenzuführen. Es wird empfohlen, das Community-Profil mit weniger Community-Aktivität zu überschreiben, da überschriebene Profildaten nicht abgerufen werden können.
 
@@ -98,4 +98,4 @@ Unser Community-Team führt Ihre Community-Profile in 4-6 Werktagen zusammen. Na
 
 <br>
 
-Willkommen auf Marketo Engage, und viel Spaß beim Erkunden der Marketing Nation!
+Willkommen in Marketo Engage, und viel Spaß beim Erkunden der Marketing Nation!

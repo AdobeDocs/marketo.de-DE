@@ -3,7 +3,7 @@ description: Anpassung interaktiver Webinare - Marketo-Dokumente - Produktdokume
 title: Anpassung interaktiver Webinare
 feature: Interactive Webinars
 exl-id: 52933cb6-7bce-4c81-ba3f-68eaf211e8eb
-source-git-commit: 1839ccb646e775b67efa8de7d2d2bf3dbbbefa72
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '740'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Sie können die folgenden Optionen anpassen:
 
 ## Berechtigungen erteilen {#grant-permissions}
 
-Bevor Benutzerinnen und Benutzer in Ihrem Unternehmen Ihre interaktiven Webinare anpassen können, muss ein Marketo Engage-Administrator zunächst Zugriff auf die gewünschten Rollen hinzufügen.
+Bevor Benutzerinnen und Benutzer in Ihrem Unternehmen Ihre interaktiven Webinare anpassen können, müssen Marketo Engage-Administratorinnen und -Administratoren zunächst Zugriff auf die gewünschten Rollen hinzufügen.
 
 1. Klicken Sie in Marketo Engage auf **[!UICONTROL Admin]**.
 

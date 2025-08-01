@@ -4,7 +4,7 @@ description: '[!DNL Sales Connect] für CRM - Marketo-Dokumente - Produktdokumen
 title: '[!DNL Sales Connect] für CRM'
 exl-id: c7344ec2-a16b-48a1-8e39-1bbd2818db80
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '676'
 ht-degree: 2%
@@ -21,7 +21,7 @@ Die folgenden Felder und Schaltflächen werden von der Metadaten-API in Salesfor
 
    ![](assets/one.png)
 
-1. Wählen [!UICONTROL &#x200B; unter „Admin] die Option **[!UICONTROL Salesforce]**.
+1. Wählen [!UICONTROL  unter „Admin] die Option **[!UICONTROL Salesforce]**.
 
    ![](assets/two.png)
 
@@ -49,7 +49,7 @@ Die Aktualisierungen des Pakets zur [!DNL Salesforce] enthalten Verbesserungen u
 
    ![](assets/sales-connect-customizations-for-crm-6.png)
 
-1. Klicken [!UICONTROL &#x200B; unter „Admin-]&quot; auf **[!UICONTROL Salesforce]**.
+1. Klicken [!UICONTROL  unter „Admin-]&quot; auf **[!UICONTROL Salesforce]**.
 
    ![](assets/sales-connect-customizations-for-crm-7.png)
 

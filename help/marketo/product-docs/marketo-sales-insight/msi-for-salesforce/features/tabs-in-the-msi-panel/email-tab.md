@@ -3,7 +3,7 @@ description: Registerkarte „E-Mail“ - Marketo-Dokumente - Produktdokumentati
 title: Registerkarte „E-Mail“
 exl-id: 2fbc966a-6409-4eca-8730-83843b03d19c
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 2%
@@ -23,7 +23,7 @@ Eine E-Mail mit dem Marketo-Symbol neben der Betreffzeile zeigt an, dass die E-M
 
 Sie können auf die Schaltfläche &quot;[!UICONTROL Versandstatus überprüfen] klicken, um eine neue Registerkarte zu öffnen, die den Versandstatus von E-Mails anzeigt:
 
-<table> 
+<table>
  <tbody>
   <tr>
    <td><strong>E-Mails von Marketo</strong></td>

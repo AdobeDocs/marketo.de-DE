@@ -4,7 +4,7 @@ description: Benutzerdefinierte RTP-Berichte in Google Universal Analytics - Mar
 title: Benutzerdefinierte RTP-Berichte in Google Universal Analytics
 exl-id: c8b1e653-03b8-48bc-b80d-3e6cdf3485c3
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '387'
 ht-degree: 4%
@@ -64,41 +64,41 @@ In diesem Artikel wird erläutert, wie Sie benutzerdefinierte RTP-Berichte für 
 
 1. Legen Sie im Abschnitt **Dimension-Drill** Downs die relevanten Dimensionen für jede Registerkarte wie folgt fest.
 
-<table> 
- <thead> 
-  <tr> 
-   <th> 
+<table>
+ <thead>
+  <tr>
+   <th>
     <div>
-      Name der Registerkarte 
-    </div></th> 
-   <th> 
+      Name der Registerkarte
+    </div></th>
+   <th>
     <div>
       Dimension-Drill-down
-    </div></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>Branche</td> 
-   <td><img src="assets/1.png" data-linked-resource-id="7514675" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>Gruppe</td> 
-   <td><img src="assets/2.png" data-linked-resource-id="7514674" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>Kategorie</td> 
-   <td><img src="assets/3.png" data-linked-resource-id="7514673" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>ABM</td> 
-   <td><img src="assets/5.png" data-linked-resource-id="7514677" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>Organisationen</td> 
-   <td><img src="assets/5.png" data-linked-resource-id="7514677" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
- </tbody> 
+    </div></th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>Branche</td>
+   <td><img src="assets/1.png" data-linked-resource-id="7514675" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>Gruppe</td>
+   <td><img src="assets/2.png" data-linked-resource-id="7514674" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>Kategorie</td>
+   <td><img src="assets/3.png" data-linked-resource-id="7514673" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>ABM</td>
+   <td><img src="assets/5.png" data-linked-resource-id="7514677" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>Organisationen</td>
+   <td><img src="assets/5.png" data-linked-resource-id="7514677" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+ </tbody>
 </table>
 
 1. Legen Sie keine Filter fest und legen Sie fest, dass dieser Bericht für &quot;**[!UICONTROL Website-Daten“ verfügbar]** (oder ändern Sie ihn, falls für ein bestimmtes Analytics-Konto relevant).
@@ -121,7 +121,7 @@ In diesem Artikel wird erläutert, wie Sie benutzerdefinierte RTP-Berichte für 
 
    ![](assets/image2015-3-22-16-3a23-3a36.png)
 
-1. Wählen Sie [!UICONTROL &#x200B; Abschnitt &#x200B;] die Metriken aus, die für Ihr Unternehmen relevant sind. Im Folgenden finden Sie eine Empfehlung:
+1. Wählen Sie [!UICONTROL  Abschnitt ] die Metriken aus, die für Ihr Unternehmen relevant sind. Im Folgenden finden Sie eine Empfehlung:
 
    ![](assets/image2015-3-22-16-3a24-3a57.png)
 
@@ -137,86 +137,86 @@ In diesem Artikel wird erläutert, wie Sie benutzerdefinierte RTP-Berichte für 
 
 1. Legen Sie im Abschnitt **Dimension-Drill** Downs die relevanten Dimensionen für jede Registerkarte wie folgt fest:
 
-<table> 
- <thead> 
-  <tr> 
-   <th> 
+<table>
+ <thead>
+  <tr>
+   <th>
     <div>
-      Name der Registerkarte 
-    </div></th> 
-   <th> 
+      Name der Registerkarte
+    </div></th>
+   <th>
     <div>
-      Dimension-Drill-down 
-    </div></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>Gesamte Interaktion</td> 
-   <td><img src="assets/a.png" data-linked-resource-id="7514683" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>Interaktion durch ABM</td> 
-   <td><img width="277" src="assets/4.png" data-linked-resource-id="7514678" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>Interaktion nach Kategorie</td> 
-   <td><img src="assets/a.png" data-linked-resource-id="7514683" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>Interaktion nach Gruppe</td> 
-   <td><img src="assets/c.png" data-linked-resource-id="7514681" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>Engagement der Industrie</td> 
-   <td><img src="assets/b.png" data-linked-resource-id="7514682" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
- </tbody> 
+      Dimension-Drill-down
+    </div></th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>Gesamte Interaktion</td>
+   <td><img src="assets/a.png" data-linked-resource-id="7514683" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>Interaktion durch ABM</td>
+   <td><img width="277" src="assets/4.png" data-linked-resource-id="7514678" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>Interaktion nach Kategorie</td>
+   <td><img src="assets/a.png" data-linked-resource-id="7514683" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>Interaktion nach Gruppe</td>
+   <td><img src="assets/c.png" data-linked-resource-id="7514681" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>Engagement der Industrie</td>
+   <td><img src="assets/b.png" data-linked-resource-id="7514682" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+ </tbody>
 </table>
 
 1. Legen Sie die folgenden Filter fest:
 
-<table> 
- <thead> 
-  <tr> 
-   <th> 
+<table>
+ <thead>
+  <tr>
+   <th>
     <div>
-      erh/exc 
-    </div></th> 
-   <th> 
+      erh/exc
+    </div></th>
+   <th>
     <div>
-      Feld 
-    </div></th> 
-   <th> 
+      Feld
+    </div></th>
+   <th>
     <div>
-      Übereinstimmungstyp 
-    </div></th> 
-   <th> 
+      Übereinstimmungstyp
+    </div></th>
+   <th>
     <div>
-      Werte 
-    </div></th> 
-   <th colspan="1"> 
+      Werte
+    </div></th>
+   <th colspan="1">
     <div>
-      Kommentare 
-    </div></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td><p>Einschließen</p></td> 
-   <td><p><span class="uicontrol">Ereigniskategorie</span></p></td> 
-   <td>Regex</td> 
-   <td>RTP-Kampagnen|RTP-Recommendations|RTP-Segmente</td> 
-   <td colspan="1">Filtert alle anderen benutzerspezifischen Ereignisse, die nicht mit RTP in Verbindung stehen.</td> 
-  </tr> 
-  <tr> 
-   <td>Ausschließen</td> 
-   <td><span class="uicontrol">Ereignistitel</span></td> 
-   <td>Regex</td> 
-   <td>#</td> 
-   <td colspan="1">Ermöglicht das Filtern von Kampagnenberichten mithilfe der Ziffer # im Kampagnennamen</td> 
-  </tr> 
- </tbody> 
+      Kommentare
+    </div></th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td><p>Einschließen</p></td>
+   <td><p><span class="uicontrol">Ereigniskategorie</span></p></td>
+   <td>Regex</td>
+   <td>RTP-Kampagnen|RTP-Recommendations|RTP-Segmente</td>
+   <td colspan="1">Filtert alle anderen benutzerspezifischen Ereignisse, die nicht mit RTP in Verbindung stehen.</td>
+  </tr>
+  <tr>
+   <td>Ausschließen</td>
+   <td><span class="uicontrol">Ereignistitel</span></td>
+   <td>Regex</td>
+   <td>#</td>
+   <td colspan="1">Ermöglicht das Filtern von Kampagnenberichten mithilfe der Ziffer # im Kampagnennamen</td>
+  </tr>
+ </tbody>
 </table>
 
 1. Legen Sie fest, dass dieser Bericht für &quot;**[!UICONTROL Website-Daten“ verfügbar]** (oder ändern Sie ihn bei Bedarf).

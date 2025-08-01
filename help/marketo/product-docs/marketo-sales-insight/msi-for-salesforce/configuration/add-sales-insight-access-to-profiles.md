@@ -3,7 +3,7 @@ description: Zugriff von Insight auf Profile hinzufügen - Marketo-Dokumente - P
 title: Hinzufügen von Insight-Zugriff für Vertriebsprofile
 exl-id: 269f9093-f530-4e3b-aac7-e317976cf0f0
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '395'
 ht-degree: 4%
@@ -68,7 +68,7 @@ Wenn Sie über ein dediziertes Profil für Ihre [!DNL Sales Insight] Benutzer ve
 
 1. Wählen Sie **[!UICONTROL Zuweisung bearbeiten]** aus.
 
-1. Wählen Sie Ihr [!DNL Sales Insight] aus der Liste und dann Ihr [!DNL Sales insight] Layout aus der Dropdown-Liste [!UICONTROL Auswählen &#x200B;]Seitenlayouts“ aus.
+1. Wählen Sie Ihr [!DNL Sales Insight] aus der Liste und dann Ihr [!DNL Sales insight] Layout aus der Dropdown-Liste [!UICONTROL Auswählen ]Seitenlayouts“ aus.
 
 1. Klicken Sie auf **[!UICONTROL Speichern]**, wenn Sie fertig sind.
 

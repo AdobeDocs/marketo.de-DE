@@ -4,7 +4,7 @@ description: Grundlegendes zum Bereich „Programmkostenanalyse“ - Marketo-Dok
 title: Grundlegendes zum Bereich „Programmkostenanalyse“
 exl-id: b59e07a2-c804-46a2-b0ca-127191fd2188
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 22%
@@ -33,7 +33,7 @@ Wie viel habe ich pro Programm und Monat ausgegeben?
 
 ![](assets/image2015-5-6-14-3a36-3a34.png)
 
-## Dimensionen und Maßnahmen zur Kostenanalyse des Programms {#program-cost-analysis-dimensions-and-measures}
+## Dimensionen und Maßnahmen der Programmkostenanalyse {#program-cost-analysis-dimensions-and-measures}
 
 >[!NOTE]
 >
@@ -51,25 +51,25 @@ Wie viel habe ich pro Programm und Monat ausgegeben?
 
 ## Mitgliedschaft {#membership}
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>Maßnahme</th> 
-   <th>Beschreibung</th> 
-  </tr> 
-  <tr> 
-   <td>Anteil neuer Namen</td> 
-   <td>Prozentsatz der Leads, die von einem Programm erworben wurden</td> 
-  </tr> 
-  <tr> 
-   <td>Mitglieder</td> 
-   <td>Leads in einem Programm insgesamt</td> 
-  </tr> 
-  <tr> 
-   <td>Neue Namen</td> 
-   <td>Gesamtzahl der von einem Programm erworbenen neuen Namen</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>Maßnahme</th>
+   <th>Beschreibung</th>
+  </tr>
+  <tr>
+   <td>Anteil neuer Namen</td>
+   <td>Prozentsatz der Leads, die von einem Programm erworben wurden</td>
+  </tr>
+  <tr>
+   <td>Mitglieder</td>
+   <td>Leads in einem Programm insgesamt</td>
+  </tr>
+  <tr>
+   <td>Neue Namen</td>
+   <td>Gesamtzahl der von einem Programm erworbenen neuen Namen</td>
+  </tr>
+ </tbody>
 </table>
 
 ## Programmattribute {#program-attributes}

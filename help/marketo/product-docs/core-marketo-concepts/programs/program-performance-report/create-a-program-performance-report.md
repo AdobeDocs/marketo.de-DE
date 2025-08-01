@@ -4,7 +4,7 @@ description: Erstellen eines Programmleistungsberichts - Marketo-Dokumente - Pro
 title: Erstellen eines Programmleistungsberichts
 exl-id: 0b4c3769-e4a8-47b0-aa2c-a21acaf9525c
 feature: Programs
-source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 6%
@@ -15,7 +15,7 @@ ht-degree: 6%
 
 Dieser Bericht bietet großartige Statistiken zu Ihren Programmen.
 
-1. [Erstellen Sie einen Bericht in einem Programm](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md){target="_blank"} und wählen Sie den **[!UICONTROL Programm-]**&#x200B;[Berichtstyp](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}.
+1. [Erstellen Sie einen Bericht in einem Programm](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md){target="_blank"} und wählen Sie den **[!UICONTROL Programm-]**[Berichtstyp](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}.
 1. Klicken Sie auf **[!UICONTROL Registerkarte]** Bericht“.
 1. Du bist da! Erkunden Sie Ihren Bericht, um zu sehen, wie Ihre Programme funktionieren.
 
@@ -27,29 +27,29 @@ Dieser Bericht bietet großartige Statistiken zu Ihren Programmen.
 
 Zu den Spalten in einem Programmleistungsbericht gehören:
 
-<table> 
- <thead> 
-  <tr> 
-   <th>Spalte</th> 
-   <th>Beschreibung</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>Kanal</td> 
-   <td>Der Kanaltyp des Programms.</td> 
-  </tr> 
-  <tr> 
-   <td>Neue Namen</td> 
-   <td>Neue Personen, die vom Programm erworben wurden.</td> 
-  </tr> 
-  <tr> 
-   <td>Erfolgreich</td> 
-   <td>Anzahl der Mitglieder, die erfolgreich waren, wie in den Programmstatus definiert. </td> 
-  </tr> 
-  <tr> 
-   <td>Gesamtkosten</td> 
-   <td><p>Summe aller Kosten des Programmzeitraums.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th>Spalte</th>
+   <th>Beschreibung</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>Kanal</td>
+   <td>Der Kanaltyp des Programms.</td>
+  </tr>
+  <tr>
+   <td>Neue Namen</td>
+   <td>Neue Personen, die vom Programm erworben wurden.</td>
+  </tr>
+  <tr>
+   <td>Erfolgreich</td>
+   <td>Anzahl der Mitglieder, die erfolgreich waren, wie in den Programmstatus definiert. </td>
+  </tr>
+  <tr>
+   <td>Gesamtkosten</td>
+   <td><p>Summe aller Kosten des Programmzeitraums.</p></td>
+  </tr>
+ </tbody>
 </table>

@@ -4,7 +4,7 @@ description: Einblicke in die Kontoliste - Marketo-Dokumente - Produktdokumentat
 title: Account List Insights
 exl-id: 27a4020b-b1e0-4f19-b676-2e6dc5fe9611
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 1%
@@ -29,17 +29,17 @@ Um das Dashboard einer Kontenliste anzuzeigen, klicken Sie einfach auf den Namen
 
 ![](assets/two-new-1.png)
 
-<table> 
- <tbody> 
-  <tr> 
-   <td colspan="1"><strong><span class="uicontrol">Vertriebskette</span></strong></td> 
-   <td colspan="1">Zeigen Sie die Pipeline im Zeitverlauf an. Um die Pipeline im Zeitverlauf nach Woche zu bestimmen, nehmen wir die Pipeline am letzten Tag.</td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Umsatz</span></strong></td> 
-   <td><p>Umsatz im Zeitablauf anzeigen. Um den Umsatz im Zeitverlauf nach Woche zu ermitteln, berechnen wir die Summe aller in dieser Woche erzielten Einnahmen.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td colspan="1"><strong><span class="uicontrol">Vertriebskette</span></strong></td>
+   <td colspan="1">Zeigen Sie die Pipeline im Zeitverlauf an. Um die Pipeline im Zeitverlauf nach Woche zu bestimmen, nehmen wir die Pipeline am letzten Tag.</td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Umsatz</span></strong></td>
+   <td><p>Umsatz im Zeitablauf anzeigen. Um den Umsatz im Zeitverlauf nach Woche zu ermitteln, berechnen wir die Summe aller in dieser Woche erzielten Einnahmen.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 ## Registerkarte „Benannte Konten“ {#named-accounts-tab}

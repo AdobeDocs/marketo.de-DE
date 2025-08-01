@@ -4,16 +4,16 @@ description: Syntax von E-Mail-Vorlagen - Marketo-Dokumente - Produktdokumentati
 title: E-Mail-Vorlagensyntax
 exl-id: 84d6c0a8-1108-4b7e-8b4f-ac0682c6bdbb
 feature: Email Editor
-source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '2449'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
 # E-Mail-Vorlagensyntax {#email-template-syntax}
 
-In Marketos neuer E-Mail-2.0-Version bestehen E-Mail-Vorlagen aus einer beliebigen Kombination von Elementen, Variablen, Modulen oder Containern. Jeder wird durch Hinzufügen einer Marketo-spezifischen Syntax zu Ihrem HTML definiert. Alte E-Mail-Vorlagen (v1.0) werden in E-Mail-Editor 2.0 unterstützt, enthalten jedoch nicht alle Funktionen des neuen Editors.
+In Marketos neuer E-Mail-2.0-Version bestehen E-Mail-Vorlagen aus einer beliebigen Kombination von Elementen, Variablen, Modulen oder Containern. Jeder wird durch Hinzufügen einer Marketo-spezifischen Syntax zu Ihrer HTML definiert. Alte E-Mail-Vorlagen (v1.0) werden in E-Mail-Editor 2.0 unterstützt, enthalten jedoch nicht alle Funktionen des neuen Editors.
 
 Die Marketo-E-Mail-Syntax funktioniert nur in Vorlagen und einzelnen E **Mails. Sie funktioniert nicht** wenn sie in Snippets oder Rich-Text-Token eingebettet ist.
 
@@ -40,7 +40,7 @@ Wenn Sie eine Region als Rich-Text definieren, können Benutzende ihren Inhalt b
 
 ### Option 1: mktEditable {#option-mkteditable}
 
-Da E-Mail-Editor 2.0 abwärtskompatibel ist, können einige alte E-Mail-Vorlagen Rich-Textelemente angeben, indem class=„mktEditable“ zu einem beliebigen HTML-Element hinzugefügt wird. Dies wird weiterhin unterstützt und die ID des Elements wird als Anzeigename im E-Mail-Editor verwendet.
+Da der E-Mail-Editor 2.0 abwärtskompatibel ist, können einige alte E-Mail-Vorlagen Rich-Textelemente angeben, indem class=„mktEditable“ zu einem beliebigen HTML-Element hinzugefügt wird. Dies wird weiterhin unterstützt und die ID des Elements wird als Anzeigename im E-Mail-Editor verwendet.
 
 Erforderliche Attribute
 
@@ -79,7 +79,7 @@ Beispiel:
 
 ## Bilder {#images}
 
-Zum Definieren bearbeitbarer Bildelemente stehen zwei Optionen zur Verfügung. Sie können entweder ein `<div>`, das einen Container angibt, in den das `<img>` eingefügt wird, oder ein `<img>` Tag verwenden. Wenn der Endbenutzer einfach ein Bild auswählen soll, das die Bild-URL zurückgibt (im Gegensatz zum DOM), lesen Sie den Abschnitt „Bildvariablen“ unten. Mit den folgenden beiden Optionen wird ein HTML-`<img>` eingefügt.
+Zum Definieren bearbeitbarer Bildelemente stehen zwei Optionen zur Verfügung. Sie können entweder ein `<div>`, das einen Container angibt, in den das `<img>` eingefügt wird, oder ein `<img>` Tag verwenden. Wenn der Endbenutzer einfach ein Bild auswählen soll, das die Bild-URL zurückgibt (im Gegensatz zum DOM), lesen Sie den Abschnitt „Bildvariablen“ unten. Mit den folgenden beiden Optionen wird ein HTML `<img>`-Element eingefügt.
 
 ### Option 1: Verwenden eines `<div>` {#option-use-a-div}
 
@@ -162,7 +162,7 @@ Beispiel:
 
 ## Variablen {#variables}
 
-Variablen sind wie Token. Definieren Sie sie zunächst mithilfe von `<meta>`-Tags im Abschnitt `<head>` Ihrer E-Mail-Vorlage und verwenden Sie sie dann in Ihrer Vorlage beliebig oft. Da sie in der Vorlage definiert sind, können Endbenutzer ihre Werte entsprechend ihren Regeln ändern. Beachten Sie, dass Sie eine Variable im Gültigkeitsbereich als lokal oder global definieren können. Wenn Sie eine Variable in einem „Modul“ verwenden (siehe unten) und ein Endbenutzer dieses Modul dupliziert, haben lokale Variablen unabhängige Werte, während globale Variablen für beide Module gelten.
+Variablen sind wie Token. Definieren Sie sie zunächst mithilfe von `<head>`-Tags im Abschnitt `<meta>` Ihrer E-Mail-Vorlage und verwenden Sie sie dann in Ihrer Vorlage beliebig oft. Da sie in der Vorlage definiert sind, können Endbenutzer ihre Werte entsprechend ihren Regeln ändern. Beachten Sie, dass Sie eine Variable im Gültigkeitsbereich als lokal oder global definieren können. Wenn Sie eine Variable in einem „Modul“ verwenden (siehe unten) und ein Endbenutzer dieses Modul dupliziert, haben lokale Variablen unabhängige Werte, während globale Variablen für beide Module gelten.
 
 ## String {#string}
 
@@ -175,7 +175,7 @@ Erforderliche Attribute
 
 Optionale Attribute
 
-* **allowHTML:** Boolean. Steuert, ob der Wert der Variablen mit HTML-Escape-Zeichen versehen wird. Die Standardeinstellung ist False, wenn ausgelassen.
+* **allowHTML:** Boolean. Steuert, ob der Wert der Variablen mit HTML-Escape-Zeichen versehen ist. Die Standardeinstellung ist False, wenn ausgelassen.
 * **default**: Standardwert für die Zeichenfolge. Leer, wenn weggelassen.
 * **mktoModuleScope**: Boolean. Steuert, ob die Variable lokal (true) oder global (false) ist, wenn sie in einem Modul verwendet wird. Die Standardeinstellung ist False, wenn ausgelassen.
 
@@ -284,9 +284,9 @@ Beispielverwendung:
 
 `${showFooter}`
 
-## HTML {#html-block}
+## HTML-Block {#html-block}
 
-Wenn Sie eine Variable als HTML-Block angeben, kann der Endbenutzer bzw. die Endbenutzerin wörtliches HTML aus dem E-Mail-Editor heraus eingeben. Sie geben eine HTML-Blockvariable mithilfe von `<meta>` mit class=„mktoHTML“ an
+Wenn Sie eine Variable als HTML-Block angeben, kann der Endbenutzer bzw. die Endbenutzerin wörtliche HTML aus dem E-Mail-Editor eingeben. Sie geben eine HTML-Blockvariable mithilfe von `<meta>` mit class=„mktoHTML“ an
 
 Erforderliche Attribute
 
@@ -295,7 +295,7 @@ Erforderliche Attribute
 
 Optionale Attribute
 
-* **default:** HTML-kodierter Wert, der als Standardinhalt des Blocks verwendet wird.
+* **Standard:** HTML-kodierter Wert, der als Standardinhalt des Blocks verwendet wird.
 * **mktoModuleScope**: Boolean. Steuert, ob die Variable lokal (true) oder global (false) ist, wenn sie in einem Modul verwendet wird. Die Standardeinstellung ist False, wenn ausgelassen.
 
 Beispieldeklaration:

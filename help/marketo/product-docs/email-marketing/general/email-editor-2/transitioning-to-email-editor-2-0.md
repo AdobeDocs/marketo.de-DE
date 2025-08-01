@@ -6,7 +6,7 @@ exl-id: eb9ec8cc-d6e8-4839-a4d9-608d2f264cbb
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '618'
 ht-degree: 0%
@@ -28,7 +28,7 @@ Standardmäßig werden alle Ihre vorhandenen E-Mails und E-Mail-Vorlagen als v1.
 
 Wenn Ihr Abonnement vor dem Wechsel zu [!DNL Email Editor 2.0] über E-Mails der Version 1.0 verfügt, tritt je nach aktuellem Status des Assets folgendes Verhalten auf:
 
-**Genehmigt** - Wenn Sie auf „Entwurf bearbeiten“ klicken, wird ein v2.0-Entwurf der genehmigten E-Mail erstellt. Wenn Sie dann den Entwurf der Version 2.0 genehmigen, wird der genehmigte Status der E-Mail zu v2.0, und es gibt keine Möglichkeit, zu v1.0 zurückzukehren.\
+**Genehmigt** - Wenn Sie auf „Entwurf bearbeiten“ klicken, wird ein v2.0-Entwurf der genehmigten E-Mail erstellt. Wenn Sie dann den Entwurf der Version 2.0 genehmigen, wird der genehmigte Status der E-Mail zu v2.0, und es gibt keine Möglichkeit, zu v1.0 zurückzukehren.
 **Entwurf** - Wenn Sie auf „Entwurf bearbeiten“ klicken, wird dieser Entwurf automatisch als v2.0 markiert. Zu diesem Zeitpunkt ist es nicht möglich, v1.0 zu verwerfen und wiederherzustellen, da es keine genehmigte Version des Assets gibt.
 **Mit Entwurf genehmigt** - Wenn Sie auf „Entwurf bearbeiten“ klicken, wird dieser Entwurf automatisch als v2.0 markiert. Aus diesem Grund gibt es auch keine Möglichkeit, den Entwurf wieder auf Version 1.0 zurückzusetzen.
 
@@ -40,14 +40,14 @@ Wenn Ihr Abonnement vor dem Wechsel zu [!DNL Email Editor 2.0] über E-Mail-Vorl
 
 Wenn Sie eine E-Mail-Vorlage genehmigen, die zuvor Version 1.0 war (in einem der oben genannten Status), wird das folgende Verhalten angezeigt:
 
-Für bestehende E-Mails der Version 1.0, die die Vorlage (früher Version 1.0) verwendeten:\
-**E-Mail v1.0 genehmigt** - Für diese E-Mail wird ein v2.0-Entwurf erstellt, wobei weiterhin die neu genehmigte v2.0-Vorlage verwendet wird. Sie erhält auch alle Vorlagenänderungen.\
-**E-Mail-Entwurf v1.0** - Der Entwurf bleibt v1.0, bis Sie auf „Entwurf bearbeiten“ klicken. Danach wird es automatisch als v2.0 markiert und erhält alle Vorlagenänderungen.\
+Für bestehende E-Mails der Version 1.0, die die Vorlage (früher Version 1.0) verwendeten:
+**E-Mail v1.0 genehmigt** - Für diese E-Mail wird ein v2.0-Entwurf erstellt, wobei weiterhin die neu genehmigte v2.0-Vorlage verwendet wird. Sie erhält auch alle Vorlagenänderungen.
+**E-Mail-Entwurf v1.0** - Der Entwurf bleibt v1.0, bis Sie auf „Entwurf bearbeiten“ klicken. Danach wird es automatisch als v2.0 markiert und erhält alle Vorlagenänderungen.
 **Mit E-Mail-Adresse Entwurf v1.0 genehmigt** - Der Entwurf bleibt v1.0, bis Sie auf „Entwurf bearbeiten“ klicken. Danach wird es automatisch als v2.0 markiert und erhält alle Vorlagenänderungen.
 
-Für bestehende E-Mails der Version 2.0, die die Vorlage (früher Version 1.0) verwendeten:\
-**Genehmigte E-Mail v2.0** - Für diese E-Mail wird ein v2.0-Entwurf erstellt, wobei die neu genehmigte Vorlage weiterhin „verwendet“ wird, und es werden alle Vorlagenänderungen empfangen.\
-**E-Mail-Entwurf v2.0** - Der Entwurf bleibt unverändert (v2.0) und erhält alle Vorlagenänderungen.\
+Für bestehende E-Mails der Version 2.0, die die Vorlage (früher Version 1.0) verwendeten:
+**Genehmigte E-Mail v2.0** - Für diese E-Mail wird ein v2.0-Entwurf erstellt, wobei die neu genehmigte Vorlage weiterhin „verwendet“ wird, und es werden alle Vorlagenänderungen empfangen.
+**E-Mail-Entwurf v2.0** - Der Entwurf bleibt unverändert (v2.0) und erhält alle Vorlagenänderungen.
 **Mit E-Mail-Adresse Entwurf v2.0 genehmigt** - Der Entwurf bleibt unverändert (v2.0) und erhält alle Vorlagenänderungen.
 
 >[!CAUTION]

@@ -4,7 +4,7 @@ description: Ranking und Tuning bei der Kontoprofilerstellung - Marketo-Dokument
 title: Ranking und Optimierung für Kontoprofile
 exl-id: 9c5d0a03-0ebe-43cc-95ef-faab19a7f673
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '401'
 ht-degree: 3%
@@ -13,7 +13,7 @@ ht-degree: 3%
 
 # Ranking und Optimierung für Kontoprofile {#account-profiling-ranking-and-tuning}
 
-Das Account Profiling identifiziert Ihr Ideal Customer Profile (ICP), ordnet Unternehmen in Ihrer Datenbank basierend auf dem ICP an und fügt ICP-Indikatordaten zu Konten hinzu, die als [!UICONTROL Named Accounts“ &#x200B;] werden.
+Das Account Profiling identifiziert Ihr Ideal Customer Profile (ICP), ordnet Unternehmen in Ihrer Datenbank basierend auf dem ICP an und fügt ICP-Indikatordaten zu Konten hinzu, die als [!UICONTROL Named Accounts“ ] werden.
 
 >[!IMPORTANT]
 >
@@ -27,37 +27,37 @@ Die Ergebnisse zeigen Ihnen alle Ihre bekannten Konten aufgeschlüsselt nach Kla
 
 Obwohl optional, empfehlen wir, das Kontrollkästchen Automatisch hochstufen zu aktivieren, da Sie dadurch viel Zeit sparen. Wenn Sie jedoch jedes Konto durchgehen und es [manuell hinzufügen](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts) möchten, lassen Sie einfach das Kontrollkästchen deaktiviert.
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><strong><span class="uicontrol">Rang</span></strong></td> 
-   <td> 
+<table>
+ <tbody>
+  <tr>
+   <td><strong><span class="uicontrol">Rang</span></strong></td>
+   <td>
     <div>
-      Konto-Rang basierend auf dem Idealkundenprofil. A ist die beste Passform, D die am wenigsten passende. 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Kauflust##</span></strong></td> 
-   <td> 
+      Konto-Rang basierend auf dem Idealkundenprofil. A ist die beste Passform, D die am wenigsten passende.
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Kauflust##</span></strong></td>
+   <td>
     <div>
-      Geschätzte Erhöhung der Konversionsrate im Vergleich zu einer nicht auf dem ICP basierenden Auswahl von Konten. 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Konten (%)</span></strong></td> 
-   <td> 
+      Geschätzte Erhöhung der Konversionsrate im Vergleich zu einer nicht auf dem ICP basierenden Auswahl von Konten.
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Konten (%)</span></strong></td>
+   <td>
     <div>
-      Prozentsatz der Konten in der Modelleingabe, die diesen Rang haben 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">% der Modellbasis</span></strong></td> 
-   <td> 
+      Prozentsatz der Konten in der Modelleingabe, die diesen Rang haben
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">% der Modellbasis</span></strong></td>
+   <td>
     <div>
-      Prozentsatz der Konten auf Modellbasis mit diesem Rang. 
-    </div></td> 
-  </tr> 
- </tbody> 
+      Prozentsatz der Konten auf Modellbasis mit diesem Rang.
+    </div></td>
+  </tr>
+ </tbody>
 </table>
 
 ## Modellabstimmung {#model-tuning}
@@ -72,86 +72,86 @@ Es stehen mehrere Registerkarten zur Auswahl, die eine gründliche Anpassung erm
 
 **Indikatorkategorien**
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><strong><span class="uicontrol">Compliance</span></strong></td> 
-   <td> 
+<table>
+ <tbody>
+  <tr>
+   <td><strong><span class="uicontrol">Compliance</span></strong></td>
+   <td>
     <div>
-      Zertifizierungen, Compliance-bezogene Stellen/Einstellungen. 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Funktionsweise</span></strong></td> 
-   <td> 
+      Zertifizierungen, Compliance-bezogene Stellen/Einstellungen.
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Funktionsweise</span></strong></td>
+   <td>
     <div>
-      betriebliche Tätigkeiten/Einstellungen. 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">STD</span></strong></td> 
-   <td> 
+      betriebliche Tätigkeiten/Einstellungen.
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">STD</span></strong></td>
+   <td>
     <div>
       Personalwesen oder Lohn- und Gehaltsabrechnungssoftware, Stellenangebote/Einstellungen im Personalbereich.
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Engineering</span></strong></td> 
-   <td> 
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Engineering</span></strong></td>
+   <td>
     <div>
-      Technologien, Rahmenbedingungen, ingenieurbezogene Stellen/Einstellungen. 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Vertrieb</span></strong></td> 
-   <td> 
+      Technologien, Rahmenbedingungen, ingenieurbezogene Stellen/Einstellungen.
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Vertrieb</span></strong></td>
+   <td>
     <div>
-      Lösungen und Software für Vertrieb, verkaufsbezogene Positionen/Einstellungen. 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Absicht</span></strong></td> 
-   <td> 
+      Lösungen und Software für Vertrieb, verkaufsbezogene Positionen/Einstellungen.
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Absicht</span></strong></td>
+   <td>
     <div>
-      Absichtsindikatoren. 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">IT</span></strong></td> 
-   <td> 
+      Absichtsindikatoren.
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">IT</span></strong></td>
+   <td>
     <div>
       Hardware- und Softwarelösungen, Technologien, IT-bezogene Stellen/Einstellungen.
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Finanzwesen</span></strong></td> 
-   <td> 
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Finanzwesen</span></strong></td>
+   <td>
     <div>
-      Finanzsoftware, finanzbezogene Positionen/Einstellungen. 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Marketing</span></strong></td> 
-   <td> 
+      Finanzsoftware, finanzbezogene Positionen/Einstellungen.
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Marketing</span></strong></td>
+   <td>
     <div>
-      Marketingtechnologien und -software, Stellen/Einstellungen im Zusammenhang mit Marketing. 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Business</span></strong></td> 
-   <td> 
+      Marketingtechnologien und -software, Stellen/Einstellungen im Zusammenhang mit Marketing.
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Business</span></strong></td>
+   <td>
     <div>
-      Forbes- oder Inc-Angebote oder Geschäftspartnerschaften. 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Kundenerlebnis und Kundenbeziehungen</span></strong></td> 
-   <td> 
+      Forbes- oder Inc-Angebote oder Geschäftspartnerschaften.
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Kundenerlebnis und Kundenbeziehungen</span></strong></td>
+   <td>
     <div>
       Customer Success und Customer Relations-Positionen/Einstellungen.
-    </div></td> 
-  </tr> 
- </tbody> 
+    </div></td>
+  </tr>
+ </tbody>
 </table>
 
 Eine Beschreibung jeder Spalte finden Sie, wenn Sie den Mauszeiger über die QuickInfos bewegen.

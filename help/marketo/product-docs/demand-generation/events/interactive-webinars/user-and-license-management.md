@@ -3,7 +3,7 @@ description: Benutzer- und Lizenzverwaltung - Marketo-Dokumente - Produktdokumen
 title: Benutzer- und Lizenzverwaltung
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
 feature: Interactive Webinars
-source-git-commit: 0ab3b8075923f58a9546acff8039d67126f22bf3
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '703'
 ht-degree: 2%
@@ -52,7 +52,7 @@ Erfahren Sie, wie Sie Benutzer hinzufügen und entfernen und Ihre aktuellen Lize
 
 ## Lizenznutzung {#license-usage}
 
-Interaktive Webinare bieten spezielle Lizenzen zum Erstellen von Ereignissen, die von Adobe Connect unterstützt werden. Jedes Mal, wenn eine Lizenz hinzugefügt wird, wird ein neues Lizenznutzungsfeld angezeigt. Marketo-Administratoren bzw. -Administratorinnen können die Lizenzen anzeigen (nicht bearbeiten), indem sie die folgenden Schritte ausführen. Wenden Sie sich an das Adobe-Account-Team (Ihren Account Manager), um zusätzliche Lizenzen zu erhalten.
+Interaktive Webinare bieten spezielle Lizenzen zum Erstellen von Ereignissen, die von Adobe Connect unterstützt werden. Jedes Mal, wenn eine Lizenz hinzugefügt wird, wird ein neues Lizenznutzungsfeld angezeigt. Marketo-Administratoren bzw. -Administratorinnen können die Lizenzen anzeigen (nicht bearbeiten), indem sie die folgenden Schritte ausführen. Wenden Sie sich an das Adobe Account Team (Ihren Account Manager), um zusätzliche Lizenzen zu erhalten.
 
 1. Navigieren Sie zum Bereich **Admin**.
 
@@ -66,34 +66,34 @@ Interaktive Webinare bieten spezielle Lizenzen zum Erstellen von Ereignissen, di
 
    ![](assets/user-and-license-management-11.png)
 
-<table> 
+<table>
   <tr>
-   <td width="20%"><b>Anfangsdatum</b></td>
+   <td width="20%"><b>Startdatum</b></td>
    <td width="80%">Datum, an dem die Lizenz beginnt.</td>
   </tr>
-  <tr> 
+  <tr>
    <td width="20%"><b>Ablaufdatum</b></td>
    <td width="80%">Datum, an dem die Lizenz abläuft.</td>
   </tr>
-  <tr> 
+  <tr>
    <td width="20%"><b>Typ</b></td>
    <td width="80%">Der Typ der erworbenen Lizenz. Es stehen drei Typen zur Verfügung: Shared Events License, Shared Rooms License, Additional Storage License.</td>
   </tr>
-  <tr> 
+  <tr>
    <td width="20%"><b>Veranstaltungskapazität</b></td>
    <td width="80%">Die maximale Anzahl von Teilnehmern, die in einer Veranstaltung untergebracht werden können.</td>
   </tr>
-  <tr> 
+  <tr>
    <td width="20%"><b>Veranstaltungen insgesamt</b></td>
    <td width="80%">Die Gesamtzahl der Ereignisse, die mit dieser Lizenz bereitgestellt wurden.</td>
   </tr>
-  <tr> 
+  <tr>
    <td width="20%"><b>Verbrauchte Ereignisse</b></td>
    <td width="80%">Die Gesamtzahl der abgeschlossenen Ereignisse.</td>
   </tr>
-  <tr> 
+  <tr>
    <td width="20%"><b>Speicherkapazität</b></td>
-   <td width="80%">Speichermenge, die für die Speicherung von Aufzeichnungen, Begleitmaterial, hero images, Dokumentationen und anderen Assets verfügbar ist.</td>
+   <td width="80%">Speichermenge, die für die Speicherung von Aufzeichnungen, Begleitmaterial, Hero-Bildern, Dokumentation und anderen Assets verfügbar ist.</td>
   </tr>
   </tbody>
 </table>
@@ -110,7 +110,7 @@ Interaktive Webinare bieten spezielle Lizenzen zum Erstellen von Ereignissen, di
 
 ## Benutzerzugang {#user-access}
 
-Interaktive Webinare bieten die Möglichkeit, die Nutzung zu regulieren, indem sie Marketo Engage-Benutzern Berechtigungen zum Erstellen und Bereitstellen interaktiver Webinare erteilen. Ein Benutzer eines interaktiven Webinars (oder ein Nicht-Benutzer) kann jedoch weiterhin Lese-/Bearbeitungszugriff auf Veranstaltungsprogramme für interaktive Webinare haben, die von anderen Benutzern erstellt wurden.
+Interaktive Webinare bieten die Möglichkeit, die Nutzung zu regulieren, indem sie Marketo Engage-Benutzern die Berechtigung erteilen, interaktive Webinare zu erstellen und bereitzustellen. Ein Benutzer eines interaktiven Webinars (oder ein Nicht-Benutzer) kann jedoch weiterhin Lese-/Bearbeitungszugriff auf Veranstaltungsprogramme für interaktive Webinare haben, die von anderen Benutzern erstellt wurden.
 
 Marketo-Benutzende, denen Berechtigungen für interaktive Webinare erteilt wurden und die Inhaber eines bestimmten Veranstaltungsprogramms für interaktive Webinare sind, können alle Funktionen für interaktive Webinare im Zusammenhang mit diesem Programm ausführen. Dazu gehören: Erstellen, Zugreifen auf, Ändern, Klonen, Verschieben und Löschen dieses Programms. Sobald dieser Benutzer jedoch kein Benutzer des interaktiven Webinars mehr ist, kann der Besitzer des Programms auf das Programm zugreifen und es verschieben, jedoch keine anderen Funktionen ausführen.
 

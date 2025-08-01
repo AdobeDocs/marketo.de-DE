@@ -6,7 +6,7 @@ exl-id: 283189ac-c817-479a-b896-91233980608c
 feature: Administration, Munchkin Tracking Code
 hide: true
 hidefromtoc: true
-source-git-commit: ea07c5c83c51fef4eb454562f041db685cf13775
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '698'
 ht-degree: 0%
@@ -45,9 +45,9 @@ Wenn Sie diesen Filter bereits in einer Smart-Liste verwenden (z. B. in einer Sm
 
 >[!NOTE]
 >
->**Trigger**: Besucht die Web-Seite, die Web-Seite ist die Preisseite\
->**Fluss**: Punktzahl ändern +10 und Interessanter Moment
->&#x200B;>**Web**: Seite mit angezeigten Preisen
+>**Trigger**: Besucht die Web-Seite, die Web-Seite ist die Preisseite
+>>**Fluss**: Punktzahl ändern +10 und Interessanter Moment
+>>**Web**: Seite mit angezeigten Preisen
 >
 >Bei [!DNL Munchkin] V2 tritt eine anonyme Person, die die Preisseite besucht, nicht sofort in die Kampagne ein. Sobald die anonyme Person bekannt wird, führen wir diese Kampagne auf ihr durch. Sie wird:
 >

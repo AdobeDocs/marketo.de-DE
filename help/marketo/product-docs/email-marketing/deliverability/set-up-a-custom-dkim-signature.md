@@ -4,7 +4,7 @@ description: Einrichten einer benutzerdefinierten DKIM-Signatur - Marketo-Dokume
 title: Einrichten einer benutzerdefinierten DKIM-Signatur
 exl-id: a7c6429e-14ee-439e-9f47-1b25b98d41e7
 feature: Deliverability
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '426'
 ht-degree: 1%
@@ -41,12 +41,12 @@ Sie können die DKIM-Signatur personalisieren, um die Domain(s) Ihrer Wahl wider
 
    ![](assets/set-up-a-custom-dkim-signature-4.png)
 
-   <table> 
+   <table>
    <tr>
    <td width="20%"><b>Selektor</b></td>
    <td>Eine eindeutige Zeichenfolge/Kennung, die verwendet wird, um den öffentlichen Schlüsselteil des DKIM-Eintrags zu finden. Es kann sich um eine beliebige Zeichenfolge oder eine eindeutige Kennung handeln, um den Zweck dieses DKIM-Schlüssels/Datensatzes zu trennen und zu identifizieren.</td>
    </tr>
-   <tr> 
+   <tr>
    <td width="20%"><b>Schlüsselgröße</b></td>
    <td>Die Sicherheitsstufe, mit der Ihre DKIM-Signatur verschlüsselt werden soll.</td>
    </tr>

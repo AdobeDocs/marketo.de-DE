@@ -4,7 +4,7 @@ description: Erstellen von Inhaltsmustern - Marketo-Dokumente - Produktdokumenta
 title: Inhaltsmutter erstellen
 exl-id: 963529fb-1b30-486c-b97d-3ff697f91258
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '367'
 ht-degree: 2%
@@ -27,7 +27,7 @@ Wenn Sie Inhaltsmuster festlegen, wird der Inhalt automatisch erkannt, wenn ein 
 
    ![](assets/content-settings-create-patterns-hand.png)
 
-1. Fügen Sie die URL-Erweiterung der Domain hinzu, in der sich die Webseite befindet. Wählen Sie die Kategorie aus (z[!UICONTROL &#x200B; B. &#x200B;], [!UICONTROL Artikel], [!UICONTROL Datenblatt], [!UICONTROL Pressemitteilung]).
+1. Fügen Sie die URL-Erweiterung der Domain hinzu, in der sich die Webseite befindet. Wählen Sie die Kategorie aus (z[!UICONTROL  B. ], [!UICONTROL Artikel], [!UICONTROL Datenblatt], [!UICONTROL Pressemitteilung]).
 
    ![](assets/content-settings-create-content-patterns-dm-hands.png)
 
@@ -56,31 +56,31 @@ Wenn Sie Inhaltsmuster festlegen, wird der Inhalt automatisch erkannt, wenn ein 
 
 Für _domain.com_:
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>URL-Muster</th> 
-   <th>Ergebnis</th> 
-  </tr> 
-  <tr> 
-   <td>Blog/*</td> 
-   <td><p>Ermittelt alle Inhalte, die dem Muster domain.com/blog/ entsprechen:</p><p>domain.com/blog/5-top-tricks</p><p>domain.com/blog/2017/new-year-solutions</p><p>domain.com/Blog/3-best-recipes</p></td> 
-  </tr> 
-  <tr> 
-   <td>Artikel/2017/*</td> 
-   <td><p>Ermittelt alle Inhalte, die dem Muster domain.com/article/2017/ entsprechen:</p><p>domain.com/article/2017/5-top-tricks</p></td> 
-  </tr> 
-  <tr> 
-   <td><img alt="—" width="80" src="assets/image2017-3-24-10-3a38-3a46.png" data-linked-resource-id="12976559" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11385579" title="--"></td> 
-   <td><p>Ermittelt alle URLs, die das Wort „Datenblätter“ enthalten:</p><p>domain.com/datasheets/5-top-tricks</p><p>domain.com/blog/5-top-datasheets</p></td> 
-  </tr> 
-  <tr> 
-   <td>Pressemitteilung</td> 
-   <td><p>Es wird nur eine exakte Übereinstimmung mit der HTML-Seite erkannt:</p><p>domain.com/press-release</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"> </td> 
-   <td colspan="1"><p>Wenn der URL-Ausdruck leer ist, erkennt das URL-Muster nur die Startseite:</p><p>domain.com</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>URL-Muster</th>
+   <th>Ergebnis</th>
+  </tr>
+  <tr>
+   <td>Blog/*</td>
+   <td><p>Ermittelt alle Inhalte, die dem Muster domain.com/blog/ entsprechen:</p><p>domain.com/blog/5-top-tricks</p><p>domain.com/blog/2017/new-year-solutions</p><p>domain.com/Blog/3-best-recipes</p></td>
+  </tr>
+  <tr>
+   <td>Artikel/2017/*</td>
+   <td><p>Ermittelt alle Inhalte, die dem Muster domain.com/article/2017/ entsprechen:</p><p>domain.com/article/2017/5-top-tricks</p></td>
+  </tr>
+  <tr>
+   <td><img alt="—" width="80" src="assets/image2017-3-24-10-3a38-3a46.png" data-linked-resource-id="12976559" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11385579" title="--"></td>
+   <td><p>Ermittelt alle URLs, die das Wort „Datenblätter“ enthalten:</p><p>domain.com/datasheets/5-top-tricks</p><p>domain.com/blog/5-top-datasheets</p></td>
+  </tr>
+  <tr>
+   <td>Pressemitteilung</td>
+   <td><p>Es wird nur eine exakte Übereinstimmung mit der HTML-Seite erkannt:</p><p>domain.com/press-release</p></td>
+  </tr>
+  <tr>
+   <td colspan="1"> </td>
+   <td colspan="1"><p>Wenn der URL-Ausdruck leer ist, erkennt das URL-Muster nur die Startseite:</p><p>domain.com</p></td>
+  </tr>
+ </tbody>
 </table>

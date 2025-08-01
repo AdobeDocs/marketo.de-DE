@@ -4,7 +4,7 @@ description: E-Mail-Link-Leistungsbericht - Marketo-Dokumente - Produktdokumenta
 title: E-Mail-Link-Leistungsbericht
 exl-id: 216af37d-561f-42ad-9f2c-3d9ee5dfd9d7
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 1%
@@ -41,35 +41,35 @@ Erstellen Sie einen E-Mail-Link-Leistungsbericht, um zu sehen, wie gut die Links
 
 [Spalten verfügbar](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) für einen E-Mail-Link-Leistungsbericht enthalten:
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">[!UICONTROL Column]</th> 
-   <th colspan="1" rowspan="1">Beschreibung</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1">[!UICONTROL Link]</td> 
-   <td colspan="1" rowspan="1">Gruppiert nach E-Mail-Name.<br>Klicken Sie auf das Pluszeichen (+), um alle in dieser E-Mail enthaltenen Links anzuzeigen.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">[!UICONTROL Klicks]</td> 
-   <td colspan="1" rowspan="1">Die Anzahl der Klicks auf diesen Link.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">% [!UICONTROL Klicks]</td> 
-   <td colspan="1" rowspan="1">Prozentsatz der gesamten Klicks auf alle Links in dieser E-Mail für diesen Link.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">[!UICONTROL Personen]</td> 
-   <td colspan="1" rowspan="1">Die Anzahl der Einzelpersonen, die auf den Link geklickt haben.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">% [!UICONTROL Personen]</td> 
-   <td colspan="1" rowspan="1">Prozentualer Anteil der eindeutigen Personen, die auf Links in dieser E-Mail geklickt haben, an diesem Link.</td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">[!UICONTROL Column]</th>
+   <th colspan="1" rowspan="1">Beschreibung</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1">[!UICONTROL Link]</td>
+   <td colspan="1" rowspan="1">Gruppiert nach E-Mail-Name.<br>Klicken Sie auf das Pluszeichen (+), um alle in dieser E-Mail enthaltenen Links anzuzeigen.</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1">[!UICONTROL Klicks]</td>
+   <td colspan="1" rowspan="1">Die Anzahl der Klicks auf diesen Link.</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1">% [!UICONTROL Klicks]</td>
+   <td colspan="1" rowspan="1">Prozentsatz der gesamten Klicks auf alle Links in dieser E-Mail für diesen Link.</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1">[!UICONTROL Personen]</td>
+   <td colspan="1" rowspan="1">Die Anzahl der Einzelpersonen, die auf den Link geklickt haben.</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1">% [!UICONTROL Personen]</td>
+   <td colspan="1" rowspan="1">Prozentualer Anteil der eindeutigen Personen, die auf Links in dieser E-Mail geklickt haben, an diesem Link.</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]

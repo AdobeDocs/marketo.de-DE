@@ -4,7 +4,7 @@ description: Erstellen einer neuen Zone in der Web-Kampagne - Marketo-Dokumente 
 title: Erstellen einer neuen Zone in einer Web-Kampagne
 exl-id: 5cbe80a2-5e20-4e35-a722-b4cb479b4df7
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '693'
 ht-degree: 1%
@@ -33,49 +33,49 @@ Eine Web-Kampagne ist eine benutzerdefinierte Reaktion, die mit einem bestimmten
    >
    >**Was ist eine Zonen-ID?**
    >
-   >Mit einer Zonen-ID möchten Sie Ihre &quot;[!UICONTROL &#x200B; Zone]-Web-Kampagne auf der Site platzieren. Um eine &quot;[!UICONTROL Zone-ID] zu finden, wählen Sie einfach auf Ihrer Website den Bereich aus, den Sie durch eine Web-Kampagne ersetzen möchten, und klicken Sie mit der rechten Maustaste darauf. In Chrome lautet die Option „Element überprüfen“, in anderen Browsern kann sie variieren.
+   >Mit einer Zonen-ID möchten Sie Ihre &quot;[!UICONTROL  Zone]-Web-Kampagne auf der Site platzieren. Um eine &quot;[!UICONTROL Zone-ID] zu finden, wählen Sie einfach auf Ihrer Website den Bereich aus, den Sie durch eine Web-Kampagne ersetzen möchten, und klicken Sie mit der rechten Maustaste darauf. In Chrome lautet die Option „Element überprüfen“, in anderen Browsern kann sie variieren.
    >
    >Anschließend möchten Sie die mit diesem Abschnitt der Website verknüpfte „ID“ suchen, die hervorgehoben ist, weil Sie dieses Element untersuchen. Wenn beispielsweise nach dem Rechtsklick in Chrome der hervorgehobene Text `<div id="featured-slider">` lautet, sollten Sie im Abschnitt „Zonenkennung“ „Vorgestellter Schieberegler“ eingeben. Normalerweise wird „div id“ verwendet, es können jedoch auch beliebige IDs verwendet werden, z. B. h1-ID, p-ID usw.
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">Name</th> 
-   <th colspan="1" rowspan="1">Beschreibung</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong> Bereichs-ID </strong></td> 
-   <td colspan="1" rowspan="1"><p>Geben Sie den Namen der ID ein, die im HTML-Code Ihres Website-Elements zu finden ist, das durch die Kampagne ersetzt wird.</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong> Anhaftend </strong></p></td> 
-   <td colspan="1" rowspan="1">Das Kontrollkästchen Beibehalten ist standardmäßig für die Kampagne In Zone aktiviert und behält die Kampagne In Zone in ihrer Position als Zonen-ID während der gesamten Besuchersitzung auf der Website bei. Es wird empfohlen, für „In Zone“ immer Sticky festzulegen.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong> Fading</strong> </p></td> 
-   <td colspan="1" rowspan="1">Wenn Sie das Kontrollkästchen Effekt verwenden und Überblenden aktivieren, wird der Bereich mit der Zonen-ID auf der Website überblendet. Wenn es sich bei der Einstiegszone um ein grafisches Banner handelt, wird die Seite zuerst geladen und die Kampagne wird dann mit einem Überblendungseffekt aktiviert.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Gleiten</strong></td> 
-   <td colspan="1">Wenn Sie das Kontrollkästchen Effekt verwenden und die Option Verschieben aktivieren, wird der Bereich für die Zonen-ID auf der Website verschoben. Wenn es sich bei der In-Zone um ein grafisches Banner handelt, wird die Seite zuerst geladen und die Kampagne wird dann mit einem Schiebeeffekt von links nach rechts aktiviert.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong> Rich-Text-Editor  </strong></td> 
-   <td colspan="1">Der Rich-Text-Editor ermöglicht Textformatierung, Verknüpfung und Bildeinfügung. <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md">Mehr dazu hier</a> .</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong> Vorschau auf Website   </strong></td> 
-   <td colspan="1">Zeigen Sie Kampagnen eine Vorschau an, bevor sie gestartet werden. <br> 
-    <ul> 
-     <li> URL : Geben Sie eine Beispiel-URL ein, unter der die Kampagne ausgeführt werden soll, um ein Vorschaubeispiel dafür zu erhalten, wie die Kampagne live aussehen würde.</li> 
-     <li>Gerät : Vorschau des Erscheinungsbilds Ihrer Kampagne nach Gerät: Desktop, Mobilgerät - Hochformat, Mobilgerät - Querformat, Tablet - Hochformat, Mobilgerät - Querformat.</li> 
-     <li> Vorschau : Klicken Sie auf <strong>Vorschau</strong>, um ein neues Fenster der Beispiel-URL zu öffnen und zu sehen, wie die Kampagne reagiert.</li> 
-     <li> Freigeben : Verwenden Sie die Schaltfläche Freigeben , um eine E-Mail an einen Kollegen mit einem Link zur Proxy-Kampagne zu senden.</li> 
-    </ul></td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">Name</th>
+   <th colspan="1" rowspan="1">Beschreibung</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1"><strong> Bereichs-ID </strong></td>
+   <td colspan="1" rowspan="1"><p>Geben Sie den Namen der ID ein, die im HTML-Code Ihres Website-Elements zu finden ist, das durch die Kampagne ersetzt wird.</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong> Anhaftend </strong></p></td>
+   <td colspan="1" rowspan="1">Das Kontrollkästchen Beibehalten ist standardmäßig für die Kampagne In Zone aktiviert und behält die Kampagne In Zone in ihrer Position als Zonen-ID während der gesamten Besuchersitzung auf der Website bei. Es wird empfohlen, für „In Zone“ immer Sticky festzulegen.</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong> Fading</strong> </p></td>
+   <td colspan="1" rowspan="1">Wenn Sie das Kontrollkästchen Effekt verwenden und Überblenden aktivieren, wird der Bereich mit der Zonen-ID auf der Website überblendet. Wenn es sich bei der Einstiegszone um ein grafisches Banner handelt, wird die Seite zuerst geladen und die Kampagne wird dann mit einem Überblendungseffekt aktiviert.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Gleiten</strong></td>
+   <td colspan="1">Wenn Sie das Kontrollkästchen Effekt verwenden und die Option Verschieben aktivieren, wird der Bereich für die Zonen-ID auf der Website verschoben. Wenn es sich bei der In-Zone um ein grafisches Banner handelt, wird die Seite zuerst geladen und die Kampagne wird dann mit einem Schiebeeffekt von links nach rechts aktiviert.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong> Rich-Text-Editor  </strong></td>
+   <td colspan="1">Der Rich-Text-Editor ermöglicht Textformatierung, Verknüpfung und Bildeinfügung. <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md">Mehr dazu hier</a> .</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong> Vorschau auf Website   </strong></td>
+   <td colspan="1">Zeigen Sie Kampagnen eine Vorschau an, bevor sie gestartet werden. <br>
+    <ul>
+     <li> URL : Geben Sie eine Beispiel-URL ein, unter der die Kampagne ausgeführt werden soll, um ein Vorschaubeispiel dafür zu erhalten, wie die Kampagne live aussehen würde.</li>
+     <li>Gerät : Vorschau des Erscheinungsbilds Ihrer Kampagne nach Gerät: Desktop, Mobilgerät - Hochformat, Mobilgerät - Querformat, Tablet - Hochformat, Mobilgerät - Querformat.</li>
+     <li> Vorschau : Klicken Sie auf <strong>Vorschau</strong>, um ein neues Fenster der Beispiel-URL zu öffnen und zu sehen, wie die Kampagne reagiert.</li>
+     <li> Freigeben : Verwenden Sie die Schaltfläche Freigeben , um eine E-Mail an einen Kollegen mit einem Link zur Proxy-Kampagne zu senden.</li>
+    </ul></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!TIP]

@@ -7,10 +7,10 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 3e0232c7-13bd-49e2-b7c7-cd389b5f0704
-source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '627'
-ht-degree: 67%
+ht-degree: 71%
 
 ---
 
@@ -65,8 +65,8 @@ Im Falle von HTML-Komponenten können nur bestimmte Elemente zu bearbeitbaren Fe
 Die folgenden Elemente können in einer HTML-Komponente zu bearbeitbaren Feldern gemacht werden:
 
 * Textteile
-* Eine vollständige URL für einen Link oder ein Bild (funktioniert nicht bei Teilen einer URL)
-* Gesamte CSS-Eigenschaft (funktioniert nicht bei partieller Eigenschaft)
+* Eine vollständige URL für Links oder Bilder (funktioniert nicht mit einer Teil-URL)
+* Eine vollständige CSS-Eigenschaft (funktioniert nicht mit einer Teileigenschaft)
 
 Im folgenden Code kann beispielsweise jedes rot hervorgehobene Element zu einer Eigenschaft gemacht werden:
 

@@ -3,7 +3,7 @@ description: OP-Lead-Management - Marketo-Dokumente - Produktdokumentation
 title: OP-Lead Management
 feature: Programs
 exl-id: bde644fe-d40b-4c9c-925d-a0f522e6de01
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 13%
@@ -12,68 +12,68 @@ ht-degree: 13%
 
 # OP-Lead Management {#op-lead-management}
 
-Dies ist ein Beispiel für Best Practice-Workflows für das Lead-Management, bei denen ein Marketo Engage-Standardprogramm verwendet wird, um Sie bei der Verwaltung von Datensätzen innerhalb Ihrer Marketo Engage-Datenbank in Ihrem CRM-System zu unterstützen.
+Dies ist ein Beispiel für Best Practice-Workflows für das Lead-Management, die ein Marketo Engage-Standardprogramm verwenden, um Sie bei der Verwaltung von Datensätzen in Ihrer Marketo Engage-Datenbank für Ihr CRM-System zu unterstützen.
 
 >[!NOTE]
 >
->Beim Marketo Engage werden Datensätze in Ihrer Datenbank als Personen/Personen bezeichnet. Die Lead-Verwaltung in diesem Beispiel bezieht sich auf die Datensätze in Ihrem CRM.
+>In Marketo Engage werden Datensätze in Ihrer Datenbank als Personen/Personen bezeichnet. Die Lead-Verwaltung in diesem Beispiel bezieht sich auf die Datensätze in Ihrem CRM.
 
-Wenden Sie sich für weitere Strategieunterstützung oder Hilfe bei der Anpassung eines Programms an das Adobe-Account-Team oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html).
+Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html), um weitere Unterstützung bei der Strategie oder bei der Anpassung eines Programms zu erhalten.
 
 ## Kanal-Zusammenfassung {#channel-summary}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Kanal</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Kanal</th>
    <th>Mitgliedschaftsstatus</th>
    <th>Analytics Behavior</th>
    <th>Programmtyp</th>
-  </tr> 
-  <tr> 
-   <td>Betrieblich</td> 
+  </tr>
+  <tr>
+   <td>Betrieblich</td>
    <td>01-Mitglied</td>
    <td>Betrieblich</td>
    <td>Standard</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## Programm enthält die folgenden Assets {#program-contains-the-following-assets}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Typ</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Typ</th>
    <th>Vorlagenname</th>
    <th>Asset-Name</th>
-  </tr> 
-  <tr> 
-   <td>Intelligente Kampagne</td> 
+  </tr>
+  <tr>
+   <td>Intelligente Kampagne</td>
    <td> </td>
    <td>01 - Neue Personen mit CRM synchronisieren</td>
   </tr>
-  <tr> 
-   <td>Intelligente Kampagne</td> 
+  <tr>
+   <td>Intelligente Kampagne</td>
    <td> </td>
    <td>02 - Marketing qualifiziert</td>
   </tr>
-  <tr> 
-   <td>E-Mail</td> 
+  <tr>
+   <td>E-Mail</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Schnellstart-E-Mail-Vorlage</a></td>
    <td>01 - E-MAIL - WARNHINWEIS - MQL</td>
   </tr>
-  <tr> 
-   <td>Ordner</td> 
+  <tr>
+   <td>Ordner</td>
    <td> </td>
    <td>Kampagnen</td>
   </tr>
-  <tr> 
-   <td>Ordner</td> 
+  <tr>
+   <td>Ordner</td>
    <td> </td>
    <td>E-Mail-Warnung</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ![](assets/op-lead-management-1.png)

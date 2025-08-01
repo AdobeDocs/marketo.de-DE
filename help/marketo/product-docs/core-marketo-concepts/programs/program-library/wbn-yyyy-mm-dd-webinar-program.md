@@ -3,7 +3,7 @@ description: WBN-YYYY-MM-DD-Webinar-Programm - Marketo-Dokumente - Produktdokume
 title: WBN-YYYY-MM-DD-Webinar-Programm
 feature: Programs
 exl-id: 0506606e-d09a-42d2-949f-a65371a29c00
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '591'
 ht-degree: 15%
@@ -14,280 +14,280 @@ ht-degree: 15%
 
 Dies ist ein Beispiel für ein Webinar-Programm mit Registrierungsverwaltung, drei Einladungs-E-Mails, Erinnerungs- und Follow-up-E-Mails unter Verwendung eines Marketo Engage-Veranstaltungsprogramms.
 
-Wenden Sie sich für weitere Strategieunterstützung oder Hilfe bei der Anpassung eines Programms an das Adobe-Account-Team oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
+Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}, um weitere Unterstützung bei der Strategie oder bei der Anpassung eines Programms zu erhalten.
 
 ## Kanal-Zusammenfassung {#channel-summary}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Kanal</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Kanal</th>
    <th>Mitgliedschaftsstatus</th>
    <th>Analytics Behavior</th>
    <th>Programmtyp</th>
-  </tr> 
-  <tr> 
-   <td>Veranstaltung</td> 
-   <td>01 - Eingeladen 
+  </tr>
+  <tr>
+   <td>Ereignis</td>
+   <td>01 - Eingeladen
    <br/>02 - Auf Warteliste
    <br/>03 - Registriert
    <br/>04 - Keine Anzeige
    <br/>05 - Teilgenommen - Erfolg
    <br/>06 - Teilgenommen/abgeholt - Erfolg</td>
    <td>Einschließlich</td>
-   <td>Veranstaltung
+   <td>Ereignis
    <p>(Integriert: Veranstaltung mit Webinar)</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## Programm enthält die folgenden Assets {#program-contains-the-following-assets}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Typ</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Typ</th>
    <th>Vorlagenname</th>
    <th>Asset-Name</th>
-  </tr> 
-  <tr> 
-   <td>E-Mail</td> 
+  </tr>
+  <tr>
+   <td>E-Mail</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Schnellstart-E-Mail-Vorlage</a></td>
    <td>01 - E-Mail - Einladung</td>
   </tr>
-   <tr> 
-   <td>E-Mail</td> 
+   <tr>
+   <td>E-Mail</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Schnellstart-E-Mail-Vorlage</a></td>
    <td>02 - E-Mail - Einladungs-Erinnerung</td>
   </tr>
-   <tr> 
-   <td>E-Mail</td> 
+   <tr>
+   <td>E-Mail</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Schnellstart-E-Mail-Vorlage</a></td>
    <td>03 - E-Mail - Einladungserinnerung - Letzte Chance</td>
   </tr>
-  <tr> 
-   <td>E-Mail</td> 
+  <tr>
+   <td>E-Mail</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Schnellstart-E-Mail-Vorlage</a></td>
    <td>04 - E-Mail - Anmeldebestätigung</td>
   </tr>
-  <tr> 
-   <td>E-Mail</td> 
+  <tr>
+   <td>E-Mail</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Schnellstart-E-Mail-Vorlage</a></td>
    <td>05 - E-Mail - Erinnerung</td>
   </tr>
-  <tr> 
-   <td>E-Mail</td> 
+  <tr>
+   <td>E-Mail</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Schnellstart-E-Mail-Vorlage</a></td>
    <td>06 -E-Mail - Follow-up - Teilgenommen</td>
   </tr>
-  <tr> 
-   <td>E-Mail</td> 
+  <tr>
+   <td>E-Mail</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Schnellstart-E-Mail-Vorlage</a></td>
    <td>07 - E-Mail - Follow-up - Keine Anzeige </td>
   </tr>
   <tr>
-  <tr> 
-   <td>Formular</td> 
+  <tr>
+   <td>Formular</td>
    <td> </td>
    <td>FM-Event-Registrierung</td>
   </tr>
-  <tr> 
-   <td>Landingpage</td> 
+  <tr>
+   <td>Landingpage</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Schnellstart-LP-Vorlage</a></td>
    <td>01 - LP - Registrierung</td>
   </tr>
-  <tr> 
-   <td>Landingpage</td> 
+  <tr>
+   <td>Landingpage</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Schnellstart-LP-Vorlage</a></td>
    <td>02 - LP - Danke</td>
   </tr>
-  <tr> 
-   <td>Landingpage</td> 
+  <tr>
+   <td>Landingpage</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Schnellstart-LP-Vorlage</a></td>
    <td>03 - LP - On Demand</td>
   </tr>
-  <tr> 
-   <td>Lokaler Bericht</td> 
+  <tr>
+   <td>Lokaler Bericht</td>
    <td> </td>
    <td>E-Mail-Leistung</td>
   </tr>
-   <tr> 
-   <td>Lokaler Bericht</td> 
+   <tr>
+   <td>Lokaler Bericht</td>
    <td> </td>
    <td>Landing Page-Leistung</td>
   </tr>
-  <tr> 
-   <td>Intelligente Kampagne</td> 
+  <tr>
+   <td>Intelligente Kampagne</td>
    <td> </td>
    <td>00 - Erfassungsprogramm</td>
   </tr>
-  <tr> 
-   <td>Intelligente Kampagne</td> 
+  <tr>
+   <td>Intelligente Kampagne</td>
    <td> </td>
    <td>01 - Registrierungen verarbeiten</td>
   </tr>
-   <tr> 
-   <td>Intelligente Kampagne</td> 
+   <tr>
+   <td>Intelligente Kampagne</td>
    <td> </td>
    <td>02a - Einladung senden</td>
   </tr>
-   <tr> 
-   <td>Intelligente Kampagne</td> 
+   <tr>
+   <td>Intelligente Kampagne</td>
    <td> </td>
    <td>02b - Erinnerung an Einladung senden</td>
   </tr>
-   <tr> 
-   <td>Intelligente Kampagne</td> 
+   <tr>
+   <td>Intelligente Kampagne</td>
    <td> </td>
    <td>02c - Einladungs-Erinnerung bei letzter Gelegenheit senden</td>
   </tr>
-  <tr> 
-   <td>Intelligente Kampagne</td> 
+  <tr>
+   <td>Intelligente Kampagne</td>
    <td> </td>
    <td>03. Erinnerung senden</td>
   </tr>
-  <tr> 
-   <td>Intelligente Kampagne</td> 
+  <tr>
+   <td>Intelligente Kampagne</td>
    <td> </td>
    <td>04 - Senden von Folge-E-Mails</td>
   </tr>
-  <tr> 
-   <td>Intelligente Kampagne</td> 
+  <tr>
+   <td>Intelligente Kampagne</td>
    <td> </td>
    <td>05 - Attended On-Demand (Programm Success)</td>
   </tr>
-  <tr> 
-   <td>Ordner</td> 
+  <tr>
+   <td>Ordner</td>
    <td> </td>
-   <td>Assets - enthält alle Kreativ-Assets 
+   <td>Assets - enthält alle Kreativ-Assets
 <br/>(Unterordner für E-Mail, Landingpages und Forms)</td>
   </tr>
-  <tr> 
-   <td>Ordner</td> 
+  <tr>
+   <td>Ordner</td>
    <td> </td>
    <td>Kampagnen - Alle intelligenten Kampagnen werden gespeichert</td>
   </tr>
-  <tr> 
-   <td>Ordner</td> 
+  <tr>
+   <td>Ordner</td>
    <td> </td>
    <td>Berichte</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ![](assets/wbn-yyyy-mm-dd-webinar-program-1.png)
 
 ## Meine Token enthalten {#my-tokens-included}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Token-Typ</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Token-Typ</th>
    <th>Token-Name</th>
    <th>Wert</th>
   </tr>
-  <tr> 
-   <td>Kalenderdatei</td> 
+  <tr>
+   <td>Kalenderdatei</td>
    <td><code>{{my.AddToCalendar}}</code></td>
    <td>Für Details doppelklicken</td>
   </tr>
-  <tr> 
-   <td>Text</td> 
+  <tr>
+   <td>Text</td>
    <td><code>{{my.DownloadURL-PresentationSlides}}</code></td>
    <td>my.DownloadURL?without=http:// </td>
   </tr>
-  <tr> 
-   <td>Text</td> 
+  <tr>
+   <td>Text</td>
    <td><code>{{my.Email-FromAddress}}</code></td>
    <td>PlaceholderFrom.email@mydomain.com</td>
   </tr>
-  <tr> 
-   <td>Text</td> 
+  <tr>
+   <td>Text</td>
    <td><code>{{my.Email-FromName}}</code></td>
    <td><code><--My From Name Here--></code></td>
   </tr>
-  <tr> 
-   <td>Text</td> 
+  <tr>
+   <td>Text</td>
    <td><code>{{my.Email-ReplyToAddress}}</code></td>
    <td>reply-to.email@mydomain.com</td>
   </tr>
-  <tr> 
-   <td>Text</td> 
+  <tr>
+   <td>Text</td>
    <td><code>{{my.Event-Date}}</code></td>
    <td><code><--My Event Date--></code></td>
   </tr>
-   <tr> 
-   <td>RTF</td> 
+   <tr>
+   <td>RTF</td>
    <td><code>{{my.Event-Description}}</code></td>
-   <td>Für Details doppelklicken  
-<br/><code><--My Event Description Here--></code> 
-<br/>Bearbeiten Sie diese Ereignisbeschreibung auf Programmebene auf der Registerkarte Meine Token . 
-<br/>Sie werden lernen: 
+   <td>Für Details doppelklicken
+<br/><code><--My Event Description Here--></code>
+<br/>Bearbeiten Sie diese Ereignisbeschreibung auf Programmebene auf der Registerkarte Meine Token .
+<br/>Sie werden lernen:
 <li>Aufzählungszeichen 1</li>
 <li>Aufzählungszeichen 2</li>
 <li>Aufzählungszeichen 3</li></td>
   </tr>
-  <tr> 
-   <td>Text</td> 
+  <tr>
+   <td>Text</td>
    <td><code>{{my.Event-Time}}</code></td>
    <td><code><--My Event Time + TimeZone--></code></td>
   </tr>
-  <tr> 
-   <td>Text</td> 
+  <tr>
+   <td>Text</td>
    <td><code>{{my.Event-Title}}</code></td>
    <td><code><--My Event Title Here--></code></td>
   </tr>
-  <tr> 
-   <td>Text</td> 
+  <tr>
+   <td>Text</td>
    <td><code>{{my.Event-Type}}</code></td>
    <td>Webinar</td>
   </tr>
-  <tr> 
-   <td>Text</td> 
+  <tr>
+   <td>Text</td>
    <td><code>{{my.PageURL-Download}}</code></td>
    <td>my.DownloadURL?without=http://</td>
   </tr>
-  <tr> 
-   <td>Text</td> 
+  <tr>
+   <td>Text</td>
    <td><code>{{my.PageURL-Registration}}</code></td>
    <td>my.RegistrationPageURL?without=http://</td>
   </tr>
-   <tr> 
-   <td>Text</td> 
+   <tr>
+   <td>Text</td>
    <td><code>{{my.PageURL-ThankYou}}</code></td>
    <td>my.ThankYouPageURL?without=http://</td>
   </tr>
-  <tr> 
-   <td>Text</td> 
+  <tr>
+   <td>Text</td>
    <td><code>{{my.Speaker1-Name}}</code></td>
    <td><code><--Speaker Name Here--></code></td>
   </tr>
-  <tr> 
-   <td>Text</td> 
+  <tr>
+   <td>Text</td>
    <td><code>{{my.Speaker1-Title}}</code></td>
    <td><code><--Speaker Title Here--></code></td>
   </tr>
-  <tr> 
-   <td>Text</td> 
+  <tr>
+   <td>Text</td>
    <td><code>{{my.Speaker2-Name}}</code></td>
    <td><code><--Speaker Name Here--></code></td>
   </tr>
-  <tr> 
-   <td>Text</td> 
+  <tr>
+   <td>Text</td>
    <td><code>{{my.Speaker2-Title}}</code></td>
    <td><code><--Speaker Title Here--></code></td>
   </tr>
-  <tr> 
-   <td>Text</td> 
+  <tr>
+   <td>Text</td>
    <td><code>{{my.Speaker3-Name}}</code></td>
    <td><code><--Speaker Name Here--></code></td>
   </tr>
- <tr> 
-   <td>Text</td> 
+ <tr>
+   <td>Text</td>
    <td><code>{{my.Speaker3-Title}}</code></td>
    <td><code><--Speaker Title Here--></code></td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## Kollisionsregeln {#conflict-rules}

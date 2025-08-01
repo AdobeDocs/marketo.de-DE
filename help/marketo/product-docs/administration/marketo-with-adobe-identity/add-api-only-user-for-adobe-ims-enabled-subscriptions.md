@@ -3,7 +3,7 @@ description: Nur API-Benutzer für Adobe IMS-fähige Abonnements hinzufügen - M
 title: Nur API-Benutzer für Adobe IMS-fähige Abonnements hinzufügen
 exl-id: bf908a50-de2f-4ea0-8d6a-5d7ed6d39ebf
 feature: Marketo with Adobe Identity
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%

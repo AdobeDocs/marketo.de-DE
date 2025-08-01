@@ -4,7 +4,7 @@ description: Übersicht über Web Personalization - Marketo-Dokumente - Produktd
 title: Übersicht über Web Personalization
 exl-id: 31445a69-9a3a-4350-a3eb-1af718e823b4
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '849'
 ht-degree: 1%
@@ -46,7 +46,7 @@ Die **[!UICONTROL Web Personalization]**-Kachel ist Ihr Zugriffspunkt zum Erstel
 
 >[!NOTE]
 >
->Um auf [!UICONTROL Account-Based Web &#x200B;] oder [!UICONTROL Website Retargeting] zuzugreifen, müssen Sie auf die Kachel [!UICONTROL Web Personalization] klicken, auch wenn Sie nicht über die [!UICONTROL Web Personalization]-App verfügen.
+>Um auf [!UICONTROL Account-Based Web ] oder [!UICONTROL Website Retargeting] zuzugreifen, müssen Sie auf die Kachel [!UICONTROL Web Personalization] klicken, auch wenn Sie nicht über die [!UICONTROL Web Personalization]-App verfügen.
 
 ## Organisationen {#organizations}
 
@@ -66,13 +66,13 @@ Auf der Registerkarte Organisationen werden alle Details (Name, Standort, Aktivi
 
 Das rechte Bedienfeld der Seite „Organisationen“ bietet die folgenden Funktionen und Einblicke:
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><p><strong>Tabellensymbol</strong>: Das Symbol oben rechts im Bedienfeld lädt die Tabelle Organisationen zur Offline-Verwendung im CSV-Format herunter</p><p><strong>[!UICONTROL E-Mail-Warnhinweis festlegen]</strong>: Sendet dem angemeldeten Benutzer jedes Mal eine E-Mail, wenn das ausgewählte Unternehmen die Website besucht</p><p><strong>[!UICONTROL Leads]</strong>: Öffnet die Lead-Tabelle der ausgewählten Organisation</p><p><strong>[!UICONTROL Share]</strong>: Öffnet ein Pop-up-Fenster zum Senden von E-Mails und zum Freigeben der Details der Organisation, die die Web-Seite besucht hat</p><p><strong>Standortsymbol</strong>: Zeigt das Land und die Stadt der ausgewählten Organisation an</p><p><strong>Links</strong>: Jigsaw, Whois, LinkedIn, Google, Twitter öffnet ein neues Fenster mit zusätzlichen Informationen von der jeweiligen Webseite, die zusätzliche insight für das ausgewählte Unternehmen anbieten</p><p><strong>[!UICONTROL Search]</strong>: Zeigt das Keyword an, das verwendet wird, wenn der Besucher über eine Suchmaschine angekommen ist</p><p><strong>[!UICONTROL Referrers]</strong>: Zeigt den URL-Link der Seite an, die den Traffic auf Ihre Site verwiesen hat</p><p><strong>[!UICONTROL Visitors]</strong>: Zeigt die Anzahl der Besuche, die Anzahl der von der ausgewählten Organisation angezeigten Seiten und deren E-Mail-Adresse (sofern sie ein Formular zum Senden ausgefüllt haben) sowie die Uhrzeit und das Datum des letzten Besuchs an</p><p><strong>[!UICONTROL Clickstream]</strong>: Zeigt eine Tabelle der Benutzeraktivität und des URL-Pfads auf der Website sowie die Dauer der Seitenbesuche an</p></td> 
-   <td><img src="assets/image2014-11-10-19-3a22-3a47.png" data-linked-resource-id="5046291" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="3571900"></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><p><strong>Tabellensymbol</strong>: Das Symbol oben rechts im Bedienfeld lädt die Tabelle Organisationen zur Offline-Verwendung im CSV-Format herunter</p><p><strong>[!UICONTROL E-Mail-Warnhinweis festlegen]</strong>: Sendet dem angemeldeten Benutzer jedes Mal eine E-Mail, wenn das ausgewählte Unternehmen die Website besucht</p><p><strong>[!UICONTROL Leads]</strong>: Öffnet die Lead-Tabelle der ausgewählten Organisation</p><p><strong>[!UICONTROL Share]</strong>: Öffnet ein Pop-up-Fenster zum Senden von E-Mails und zum Freigeben der Details der Organisation, die die Web-Seite besucht hat</p><p><strong>Standortsymbol</strong>: Zeigt das Land und die Stadt der ausgewählten Organisation an</p><p><strong>Links</strong>: Jigsaw, Whois, LinkedIn, Google, Twitter öffnet ein neues Fenster mit zusätzlichen Informationen von der jeweiligen Webseite, die zusätzliche insight für das ausgewählte Unternehmen anbieten</p><p><strong>[!UICONTROL Search]</strong>: Zeigt das Keyword an, das verwendet wird, wenn der Besucher über eine Suchmaschine angekommen ist</p><p><strong>[!UICONTROL Referrers]</strong>: Zeigt den URL-Link der Seite an, die den Traffic auf Ihre Site verwiesen hat</p><p><strong>[!UICONTROL Visitors]</strong>: Zeigt die Anzahl der Besuche, die Anzahl der von der ausgewählten Organisation angezeigten Seiten und deren E-Mail-Adresse (sofern sie ein Formular zum Senden ausgefüllt haben) sowie die Uhrzeit und das Datum des letzten Besuchs an</p><p><strong>[!UICONTROL Clickstream]</strong>: Zeigt eine Tabelle der Benutzeraktivität und des URL-Pfads auf der Website sowie die Dauer der Seitenbesuche an</p></td>
+   <td><img src="assets/image2014-11-10-19-3a22-3a47.png" data-linked-resource-id="5046291" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="3571900"></td>
+  </tr>
+ </tbody>
 </table>
 
 **Organisationen freigeben**
@@ -93,35 +93,35 @@ Auf der Seite Besucher werden alle Details und das Online-Verhalten jedes Besuch
 
 Das rechte Bedienfeld der Seite [!UICONTROL Besucher] bietet folgende Einblicke:
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">Name</th> 
-   <th colspan="1" rowspan="1">Beschreibung</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>Tabellensymbol</strong></td> 
-   <td colspan="1" rowspan="1">Oben rechts im Bedienfeld lädt das Symbol die Tabelle Besucher zur Offline-Nutzung im CSV-Format herunter</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>Organisationsname</strong></p></td> 
-   <td colspan="1" rowspan="1"> </td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>Kampagne einstellen</strong></td> 
-   <td colspan="1" rowspan="1">Ermöglicht das Einrichten einer mit dem ausgewählten Besucher verknüpften Campaign CTA</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Standort</strong></td> 
-   <td colspan="1">Zeigt Land, Bundesland und Stadt des Besuchers an</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>Clickstream</strong></td> 
-   <td colspan="1" rowspan="1">Zeigt eine Tabelle der Aktivität und des URL-Pfads des Besuchers auf der Website sowie die Dauer seiner Besuche auf den einzelnen Seiten an</td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">Name</th>
+   <th colspan="1" rowspan="1">Beschreibung</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>Tabellensymbol</strong></td>
+   <td colspan="1" rowspan="1">Oben rechts im Bedienfeld lädt das Symbol die Tabelle Besucher zur Offline-Nutzung im CSV-Format herunter</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>Organisationsname</strong></p></td>
+   <td colspan="1" rowspan="1"> </td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>Kampagne einstellen</strong></td>
+   <td colspan="1" rowspan="1">Ermöglicht das Einrichten einer mit dem ausgewählten Besucher verknüpften Campaign CTA</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Standort</strong></td>
+   <td colspan="1">Zeigt Land, Bundesland und Stadt des Besuchers an</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>Clickstream</strong></td>
+   <td colspan="1" rowspan="1">Zeigt eine Tabelle der Aktivität und des URL-Pfads des Besuchers auf der Website sowie die Dauer seiner Besuche auf den einzelnen Seiten an</td>
+  </tr>
+ </tbody>
 </table>
 
 ## Echtzeit {#real-time}
@@ -134,37 +134,37 @@ Auf der Seite „Echtzeit“ werden Besucher auf Ihrer Website in Echtzeit angez
 
 Die Echtzeit-Seite ist in 6 informative Tabellen mit Details zu den Besuchern vor Ort unterteilt:
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">Name</th> 
-   <th colspan="1" rowspan="1">Beschreibung</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>[!UICONTROL Visitors]</strong></td> 
-   <td colspan="1" rowspan="1"> Stellt die Anzahl der Besucher dar, die derzeit auf Ihrer Website sind</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL Klicks pro Minute]</strong></p></td> 
-   <td colspan="1" rowspan="1"> Ein Live-Liniendiagramm, das die Anzahl der Klicks pro Minute auf Ihrer Site anzeigt</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>[!UICONTROL Top Organisations]</strong></td> 
-   <td colspan="1" rowspan="1">Eine kurze Version der Tabelle „Organisationen“</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>[!UICONTROL Echtzeit-Segment]</strong></td> 
-   <td colspan="1">Die Anzahl der Besucherinnen und Besucher, die derzeit auf der Website sind und bestimmten Segmenten entsprechen</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>[!UICONTROL durchsucht derzeit]</strong></td> 
-   <td colspan="1">Die URL der Seiten, die derzeit von Besuchern vor Ort angezeigt werden</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>[!UICONTROL Top-Verweise]</strong></td> 
-   <td colspan="1" rowspan="1">Die Verweis-URL, über die der Besucher zu Ihrer Site gelangte</td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">Name</th>
+   <th colspan="1" rowspan="1">Beschreibung</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Visitors]</strong></td>
+   <td colspan="1" rowspan="1"> Stellt die Anzahl der Besucher dar, die derzeit auf Ihrer Website sind</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL Klicks pro Minute]</strong></p></td>
+   <td colspan="1" rowspan="1"> Ein Live-Liniendiagramm, das die Anzahl der Klicks pro Minute auf Ihrer Site anzeigt</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Top Organisations]</strong></td>
+   <td colspan="1" rowspan="1">Eine kurze Version der Tabelle „Organisationen“</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>[!UICONTROL Echtzeit-Segment]</strong></td>
+   <td colspan="1">Die Anzahl der Besucherinnen und Besucher, die derzeit auf der Website sind und bestimmten Segmenten entsprechen</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>[!UICONTROL durchsucht derzeit]</strong></td>
+   <td colspan="1">Die URL der Seiten, die derzeit von Besuchern vor Ort angezeigt werden</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Top-Verweise]</strong></td>
+   <td colspan="1" rowspan="1">Die Verweis-URL, über die der Besucher zu Ihrer Site gelangte</td>
+  </tr>
+ </tbody>
 </table>

@@ -4,7 +4,7 @@ description: Web-Seiten-Aktivitätsbericht - Marketo-Dokumente - Produktdokument
 title: Webseitenaktivitätsbericht
 exl-id: 35bd37bd-e7b9-4418-b2c9-af5989f44b9f
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '322'
 ht-degree: 3%
@@ -36,48 +36,48 @@ Sie können festlegen, dass bekannte Personen oder anonyme Personen angezeigt we
 
    >[!TIP]
    >
-   >Um herauszufinden, wer Ihre Site am häufigsten besucht, wählen [&#128279;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"} in der Spalte _Seitenansichten_ die Option Absteigend sortieren aus.
+   >Um herauszufinden, wer Ihre Site am häufigsten besucht, wählen [ ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"} in der Spalte _Seitenansichten_ die Option Absteigend sortieren aus.
 
-   [Marketo fügt Ihrer ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"} anonyme Website-Besucher hinzu, die Sie in diesem Bericht anzeigen können. Es bietet eine Fülle von Informationen, obwohl sie anonym sind.\
+   [Marketo fügt Ihrer ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"} anonyme Website-Besucher hinzu, die Sie in diesem Bericht anzeigen können. Es bietet eine Fülle von Informationen, obwohl sie anonym sind.
    [Spalten, die Sie auswählen können](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md){target="_blank"} für einen Web-Seiten-Aktivitätsbericht umfassen:
 
-<table> 
- <thead> 
-  <tr> 
-   <th>Spalte/n</th> 
-   <th>Beschreibung</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>Person</td> 
+<table>
+ <thead>
+  <tr>
+   <th>Spalte/n</th>
+   <th>Beschreibung</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>Person</td>
    <td>Name, Titel und Firma des Besuchers.<br><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md" target="_blank">Klicken</a></strong> um die besuchten Seiten anzuzeigen.</td>
-  </tr> 
-  <tr> 
-   <td>Erster/letzter Besuch (Zeitzone)</td> 
-   <td>Datum und Uhrzeit des ersten/letzten Besuchs durch eine Person dieses Unternehmens.</td> 
-  </tr> 
-  <tr> 
-   <td>Seitenansichten</td> 
+  </tr>
+  <tr>
+   <td>Erster/letzter Besuch (Zeitzone)</td>
+   <td>Datum und Uhrzeit des ersten/letzten Besuchs durch eine Person dieses Unternehmens.</td>
+  </tr>
+  <tr>
+   <td>Seitenansichten</td>
    <td>Anzahl der von diesem Besucher geladenen Seiten.</td>
-  </tr> 
-  <tr> 
-   <td>HTTP-Bezug</td> 
-   <td>URL der Seite mit dem Link, dem der Besucher zu Ihrer Seite gefolgt ist.</td> 
-  </tr> 
-  <tr> 
-   <td>Startseite</td> 
-   <td>Erste Seite, die die Person besuchte </td> 
-  </tr> 
-  <tr> 
-   <td>Abgeleitetes Unternehmen oder abgeleiteter ISP</td> 
-   <td>Das Unternehmen, wie aus der IP-Adresse der Besucher abgeleitet. <strong>Fett gedruckte Namen</strong> geben an, dass es sich um das Unternehmen und nicht um den ISP handelt. </td> 
-  </tr> 
-  <tr> 
-   <td>Abgeleitetes Land, Bundesland/Region und Stadt</td> 
-   <td>Geografischer Standort des Besuchers, abgeleitet aus seiner IP-Adresse.</td> 
-  </tr> 
- </tbody> 
+  </tr>
+  <tr>
+   <td>HTTP-Bezug</td>
+   <td>URL der Seite mit dem Link, dem der Besucher zu Ihrer Seite gefolgt ist.</td>
+  </tr>
+  <tr>
+   <td>Startseite</td>
+   <td>Erste Seite, die die Person besuchte </td>
+  </tr>
+  <tr>
+   <td>Abgeleitetes Unternehmen oder abgeleiteter ISP</td>
+   <td>Das Unternehmen, wie aus der IP-Adresse der Besucher abgeleitet. <strong>Fett gedruckte Namen</strong> geben an, dass es sich um das Unternehmen und nicht um den ISP handelt. </td>
+  </tr>
+  <tr>
+   <td>Abgeleitetes Land, Bundesland/Region und Stadt</td>
+   <td>Geografischer Standort des Besuchers, abgeleitet aus seiner IP-Adresse.</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!TIP]

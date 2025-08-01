@@ -4,7 +4,7 @@ description: Schnellaktionen verwenden, um Ihren Workflow zu beschleunigen - Mar
 title: Verwenden von Schnellaktionen zur Beschleunigung Ihres Workflows
 exl-id: 8cfc2fb4-d7b1-4a12-bf4e-37613345e65b
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '330'
 ht-degree: 3%
@@ -28,59 +28,59 @@ E-Mail-Schnellaktionen sind dynamisch und werden je nach den relevantesten Aktio
 
 **Archiviert**
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td>[!UICONTROL Archivierung aufheben]</td> 
-   <td>Verschiebt die E-Mail zurück in den Versandordner und reaktiviert das Ansicht-/Klick-Tracking.</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Löschen]</td> 
-   <td><p>Löscht die E-Mail.<br><strong>Hinweis:</strong> E-Mails, die im Rahmen einer Kampagne gesendet wurden, können nicht gelöscht werden.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td>[!UICONTROL Archivierung aufheben]</td>
+   <td>Verschiebt die E-Mail zurück in den Versandordner und reaktiviert das Ansicht-/Klick-Tracking.</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Löschen]</td>
+   <td><p>Löscht die E-Mail.<br><strong>Hinweis:</strong> E-Mails, die im Rahmen einer Kampagne gesendet wurden, können nicht gelöscht werden.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 **Entwurf und Geplant**
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td>[!UICONTROL Bearbeiten]</td> 
-   <td>Öffnet die E-Mail im Fenster zum Erstellen, das bearbeitet werden soll.</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Löschen]</td> 
-   <td><p>Löscht die E-Mail.<br><strong>Hinweis:</strong> E-Mails, die im Rahmen einer Kampagne gesendet wurden, können nicht gelöscht werden.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td>[!UICONTROL Bearbeiten]</td>
+   <td>Öffnet die E-Mail im Fenster zum Erstellen, das bearbeitet werden soll.</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Löschen]</td>
+   <td><p>Löscht die E-Mail.<br><strong>Hinweis:</strong> E-Mails, die im Rahmen einer Kampagne gesendet wurden, können nicht gelöscht werden.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 **Fehlgeschlagen, Bounce Messages und Spam**
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td>[!UICONTROL Erneut senden]</td> 
-   <td>Versucht sofort, die E-Mail erneut zu senden.</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Löschen]</td> 
-   <td><p>Löscht die E-Mail.<br><strong>Hinweis:</strong> E-Mails, die im Rahmen einer Kampagne gesendet wurden, können nicht gelöscht werden.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td>[!UICONTROL Erneut senden]</td>
+   <td>Versucht sofort, die E-Mail erneut zu senden.</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Löschen]</td>
+   <td><p>Löscht die E-Mail.<br><strong>Hinweis:</strong> E-Mails, die im Rahmen einer Kampagne gesendet wurden, können nicht gelöscht werden.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 **Folgemaßnahmen**

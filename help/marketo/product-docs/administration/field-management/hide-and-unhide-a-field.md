@@ -4,7 +4,7 @@ description: Ein- und Ausblenden eines Felds - Marketo-Dokumente - Produktdokume
 title: Ein- und Ausblenden eines Felds
 exl-id: 14395c31-d0f4-4aec-8592-a60a764a7263
 feature: Field Management
-source-git-commit: 37e6f60d2f26ce2c7a8c7564f33c6121a6a507a1
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 2%
@@ -13,7 +13,7 @@ ht-degree: 2%
 
 # Ein- und Ausblenden eines Felds {#hide-and-unhide-a-field}
 
-Wenn Sie ein Feld auf dem Marketo Engage nicht mehr verwenden, können Sie es in der Benutzeroberfläche ausblenden, sodass es nicht mehr in der Anwendung angezeigt wird.
+Wenn Sie ein Feld in Marketo Engage nicht mehr verwenden, können Sie es in der Benutzeroberfläche ausblenden, sodass es nicht mehr in der Anwendung angezeigt wird.
 
 ## Feld ausblenden {#hide-a-field}
 
@@ -57,9 +57,8 @@ Wenn Sie ein Feld auf dem Marketo Engage nicht mehr verwenden, können Sie es in
 
    ![](assets/hide-and-unhide-a-field-7.png)
 
-1. Suchen Sie das Feld und wählen Sie es aus. Klicken Sie in [!UICONTROL &#x200B; Dropdown]Liste Feldaktionen“ auf **[!UICONTROL Feld einblenden]**.
+1. Suchen Sie das Feld und wählen Sie es aus. Klicken Sie in [!UICONTROL  Dropdown]Liste Feldaktionen“ auf **[!UICONTROL Feld einblenden]**.
 
    ![](assets/hide-and-unhide-a-field-8.png)
 
    Tolle Arbeit! Jetzt wissen Sie, wie Sie Felder einblenden und wieder sichtbar machen können.
-

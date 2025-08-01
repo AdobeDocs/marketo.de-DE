@@ -4,7 +4,7 @@ description: Integrieren von RTP mit Google Universal Analytics - Marketo-Dokume
 title: Integrieren von RTP mit Google Universal Analytics
 exl-id: e8fc8730-c91d-44ad-8843-aa5b38f1ebd1
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '401'
 ht-degree: 3%
@@ -43,7 +43,6 @@ In diesem Beitrag wird erläutert, wie Sie die [!DNL Marketo Real-Time Personali
    1. Wählen Sie die **[!UICONTROL Konto].**
    1. Wählen Sie die **[!UICONTROL Eigenschaft].**
    1. Wählen Sie **[!UICONTROL Benutzerdefinierte Definitionen]** und **[!UICONTROL Benutzerdefinierte Dimensionen]** aus.
-
       ![](assets/image2014-11-29-11-3a2-3a32.png)
 
 1. Eine neue benutzerdefinierte Dimension hinzufügen. Klicken Sie auf **[!UICONTROL +Neue benutzerdefinierte Dimension]**
@@ -52,34 +51,34 @@ In diesem Beitrag wird erläutert, wie Sie die [!DNL Marketo Real-Time Personali
 
 1. Fügen Sie die folgenden **[!UICONTROL benutzerdefinierten Dimensionen] hinzu:**
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><p><strong>Benutzerdefinierter Dimension-Name</strong></p></td> 
-   <td><p><strong>Umfang</strong></p></td> 
-   <td><p><strong>Aktiv</strong></p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong>RTP-Organisation</strong></p></td> 
-   <td><p>Sitzung</p></td> 
-   <td><p align="center">✓</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong>RTP-Industry</strong></p></td> 
-   <td><p>Sitzung</p></td> 
-   <td><p align="center">✓</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong>RTP-Kategorie</strong></p></td> 
-   <td><p>Sitzung</p></td> 
-   <td><p align="center">✓</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong>RTP-Gruppe</strong></p></td> 
-   <td><p>Sitzung</p></td> 
-   <td><p align="center">✓</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><p><strong>Benutzerdefinierter Dimension-Name</strong></p></td>
+   <td><p><strong>Umfang</strong></p></td>
+   <td><p><strong>Aktiv</strong></p></td>
+  </tr>
+  <tr>
+   <td><p><strong>RTP-Organisation</strong></p></td>
+   <td><p>Sitzung</p></td>
+   <td><p align="center">✓</p></td>
+  </tr>
+  <tr>
+   <td><p><strong>RTP-Industry</strong></p></td>
+   <td><p>Sitzung</p></td>
+   <td><p align="center">✓</p></td>
+  </tr>
+  <tr>
+   <td><p><strong>RTP-Kategorie</strong></p></td>
+   <td><p>Sitzung</p></td>
+   <td><p align="center">✓</p></td>
+  </tr>
+  <tr>
+   <td><p><strong>RTP-Gruppe</strong></p></td>
+   <td><p>Sitzung</p></td>
+   <td><p align="center">✓</p></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]

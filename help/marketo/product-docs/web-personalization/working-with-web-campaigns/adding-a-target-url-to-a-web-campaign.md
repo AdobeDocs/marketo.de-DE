@@ -4,7 +4,7 @@ description: Hinzufügen einer Ziel-URL zu einer Web-Kampagne - Marketo-Dokument
 title: Hinzufügen einer Ziel-URL zu einer Web-Kampagne
 exl-id: 5fbb3f12-1474-46c3-8315-8d081422e154
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '257'
 ht-degree: 1%
@@ -29,23 +29,23 @@ Unter der Seite Kampagne festlegen befindet sich eine Ziel-URL, die die spezifis
 
    ![](assets/set-web-campaign-hands.jpg)
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">Name</th> 
-   <th colspan="1" rowspan="1">Beschreibung</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>[!UICONTROL Beliebige Seite]</strong></td> 
-   <td colspan="1" rowspan="1"><p>Kampagne darf auf jeder Seite angezeigt werden.</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL URL-Parameter beim Abgleichen einschließen]</strong></p></td> 
-   <td colspan="1" rowspan="1">Fügen Sie einen URL-Parameter hinzu, um Kampagnen-URLs, die diesen Parameter enthalten, abzugleichen und anzuzeigen. Z. B. campaign=cpc</td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">Name</th>
+   <th colspan="1" rowspan="1">Beschreibung</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Beliebige Seite]</strong></td>
+   <td colspan="1" rowspan="1"><p>Kampagne darf auf jeder Seite angezeigt werden.</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL URL-Parameter beim Abgleichen einschließen]</strong></p></td>
+   <td colspan="1" rowspan="1">Fügen Sie einen URL-Parameter hinzu, um Kampagnen-URLs, die diesen Parameter enthalten, abzugleichen und anzuzeigen. Z. B. campaign=cpc</td>
+  </tr>
+ </tbody>
 </table>
 
 ## Hinzufügen mehrerer URLs zur Ziel-URL {#adding-multiple-urls-to-target-url}

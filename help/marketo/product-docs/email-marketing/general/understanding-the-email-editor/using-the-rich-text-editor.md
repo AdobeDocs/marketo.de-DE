@@ -4,7 +4,7 @@ description: Verwenden des Rich-Text-Editors - Marketo-Dokumente - Produktdokume
 title: Verwenden des Rich-Text-Editors
 exl-id: 9b2d6d41-f947-4859-aad9-a10c15eb013a
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '739'
 ht-degree: 1%
@@ -41,19 +41,19 @@ Die Einstellung „Stammblockelement“ definiert, welche Tags Ihren Inhalt umsc
 
    Wenn Sie in einer E-Mail-Vorlage `<div class=“mktEditable”></div>` haben, sehen Sie das folgende Verhalten von HTML Source, wenn Sie den Abschnitt öffnen und im Editor „Text geht hierhin“ eingeben:
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>&lt;p&gt;</th> 
-   <th>&lt;div&gt;</th> 
-   <th>Keine</th> 
-  </tr> 
-  <tr> 
-   <td><p>&lt;div class=„mktEditable“&gt;<br>&lt;p&gt;Text hier&lt;/p&gt;<br>&lt;/div&gt;</p></td> 
-   <td><p>&lt;div class=„mktEditable“&gt;<br>&lt;div&gt;Text hier&lt;/div&gt;<br>&lt;/div&gt;</p></td> 
-   <td><p>&lt;div class=„mktEditable“&gt;<br>Text hier <br>&lt;/div&gt;</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>&lt;p&gt;</th>
+   <th>&lt;div&gt;</th>
+   <th>Keine</th>
+  </tr>
+  <tr>
+   <td><p>&lt;div class=„mktEditable“&gt;<br>&lt;p&gt;Text hier&lt;/p&gt;<br>&lt;/div&gt;</p></td>
+   <td><p>&lt;div class=„mktEditable“&gt;<br>&lt;div&gt;Text hier&lt;/div&gt;<br>&lt;/div&gt;</p></td>
+   <td><p>&lt;div class=„mktEditable“&gt;<br>Text hier <br>&lt;/div&gt;</p></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!TIP]

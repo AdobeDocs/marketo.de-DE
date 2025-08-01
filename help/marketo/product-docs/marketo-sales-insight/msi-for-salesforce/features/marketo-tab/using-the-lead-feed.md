@@ -4,7 +4,7 @@ description: Verwenden des Lead-Feeds - Marketo-Dokumente - Produktdokumentation
 title: Verwenden des Lead-Feeds
 exl-id: cdb10fe4-3006-4bae-b485-f7bfa95f1226
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '328'
 ht-degree: 2%
@@ -29,45 +29,45 @@ Beim Anzeigen in [!DNL Salesforce] verfügt jedes Element über:
 
 ![](assets/using-the-lead-feed-2.png)
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td><p>Element</p></td> 
-   <td><p>Beschreibung</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>A. Lead/Kontakt</p></td> 
-   <td><p>Person, die diesen interessanten Moment hatte</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>B. Ereignistyp</p></td> 
-   <td><p>Kategorie für diesen Moment - Web, E-Mail oder Meilenstein</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>C. Kontoname</p></td> 
-   <td><p>Unternehmensname</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>D. Uhrzeit</p></td> 
-   <td><p>Als dieser interessante Moment eintrat</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>E. Ereignisbeschreibung</p></td> 
-   <td><p>Grund für diesen interessanten Moment</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>F. Abonnieren</p></td> 
-   <td><p>E-Mail-Benachrichtigung für Ereignisse wie diese erhalten</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>G. Stern</p></td> 
-   <td><p>Diese Person ist eine Beste Wette (hohe Priorität)</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td><p>Element</p></td>
+   <td><p>Beschreibung</p></td>
+  </tr>
+  <tr>
+   <td><p>A. Lead/Kontakt</p></td>
+   <td><p>Person, die diesen interessanten Moment hatte</p></td>
+  </tr>
+  <tr>
+   <td><p>B. Ereignistyp</p></td>
+   <td><p>Kategorie für diesen Moment - Web, E-Mail oder Meilenstein</p></td>
+  </tr>
+  <tr>
+   <td><p>C. Kontoname</p></td>
+   <td><p>Unternehmensname</p></td>
+  </tr>
+  <tr>
+   <td><p>D. Uhrzeit</p></td>
+   <td><p>Als dieser interessante Moment eintrat</p></td>
+  </tr>
+  <tr>
+   <td><p>E. Ereignisbeschreibung</p></td>
+   <td><p>Grund für diesen interessanten Moment</p></td>
+  </tr>
+  <tr>
+   <td><p>F. Abonnieren</p></td>
+   <td><p>E-Mail-Benachrichtigung für Ereignisse wie diese erhalten</p></td>
+  </tr>
+  <tr>
+   <td><p>G. Stern</p></td>
+   <td><p>Diese Person ist eine Beste Wette (hohe Priorität)</p></td>
+  </tr>
+ </tbody>
 </table>
 
 ## RSS-Aktualisierungen werden abgerufen {#getting-rss-updates}

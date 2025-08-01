@@ -3,7 +3,7 @@ description: Versionshinweise - Juni 2022 - Marketo-Dokumente - Produktdokumenta
 title: Versionshinweise – Juni 2022
 exl-id: f4438ea8-1657-4955-9f9f-640b3ecf5caa
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '600'
 ht-degree: 0%
@@ -55,7 +55,7 @@ Die folgenden Funktionen werden ab dem 24. **2022 veröffentlicht** wobei die ve
 
 ![(Stern)](assets/yellow-star.png)
 
-* **[!DNL Sales Insight]Berechtigungssatz in[!DNL Salesforce]**: Administratoren können über den Berechtigungssatz für Marketo-Apps, der Teil des [!DNL Sales Insight]-[!DNL Salesforce] ist, [!DNL Sales Insight] Zugriff für eine begrenzte Anzahl von Personen auf Benutzerebene statt auf Profilebene gewähren.
+* **[!DNL Sales Insight]Berechtigungssatz in[!DNL Salesforce]**: Administratoren können über den Berechtigungssatz für Marketo-Apps, der Teil des [!DNL Sales Insight]-[!DNL Sales Insight] ist, [!DNL Salesforce] Zugriff für eine begrenzte Anzahl von Personen auf Benutzerebene statt auf Profilebene gewähren.
 
 * **Mein Marketo-Kachel-Update - [!DNL Sales Insight] Aktionen**: Marketo-Administratoren (und von ihnen benannte Benutzer) können jetzt über eine neue Kachel [!DNL Sales Insight] Aktionen auf der Seite Mein Marketo schnell zu ihrer [!DNL Sales Insight]-Instanz navigieren.
 

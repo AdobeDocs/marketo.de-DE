@@ -4,7 +4,7 @@ description: 'Legen Sie fest, wie Ihre Web-Kampagne angezeigt wird: Marketo-Doku
 title: Festlegen, wie Ihre Web-Kampagne angezeigt wird
 exl-id: fa0f2421-9536-4a3a-a28b-4f5b1b58ed56
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 2%
@@ -43,21 +43,21 @@ Geben Sie eine Zeitverzögerung (in Sekunden) an, damit Web-Kampagnen auf Ihrer 
 
    ![](assets/s2.png)
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><strong>[!UICONTROL Unterer Falz]</strong></td> 
-   <td>Zeigt die Kampagne an, wenn ein Besucher unter den Falz scrollt. Die Kampagne verschwindet, wenn ein Besucher über den Falz zurückscrollt.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Prozent]</strong></td> 
-   <td>Zeigt die Kampagne an, wenn ein Besucher zu einem vordefinierten Prozentsatz der Seite scrollt.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Pixel]</strong></td> 
-   <td><p>Zeigt die Kampagne an, wenn ein Besucher auf der Seite zum vordefinierten oberen Pixel scrollt.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><strong>[!UICONTROL Unterer Falz]</strong></td>
+   <td>Zeigt die Kampagne an, wenn ein Besucher unter den Falz scrollt. Die Kampagne verschwindet, wenn ein Besucher über den Falz zurückscrollt.</td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Prozent]</strong></td>
+   <td>Zeigt die Kampagne an, wenn ein Besucher zu einem vordefinierten Prozentsatz der Seite scrollt.</td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Pixel]</strong></td>
+   <td><p>Zeigt die Kampagne an, wenn ein Besucher auf der Seite zum vordefinierten oberen Pixel scrollt.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 ## Seite verlassen {#exit-intent}
@@ -68,7 +68,7 @@ Mit der Absichtserklärung wird die Web-Kampagne beim Beenden des Browsers mit d
 
    ![](assets/ei1.png)
 
-1. Es wird eine Meldung angezeigt, die Sie daran erinnert[!UICONTROL &#x200B; dass die &#x200B;] nicht mit Mobilgeräten kompatibel ist.
+1. Es wird eine Meldung angezeigt, die Sie daran erinnert[!UICONTROL  dass die ] nicht mit Mobilgeräten kompatibel ist.
 
    ![](assets/ei2.png)
 

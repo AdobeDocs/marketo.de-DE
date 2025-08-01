@@ -3,7 +3,7 @@ description: Konversationsflussübersicht - Marketo-Dokumente - Produktdokumenta
 title: Konversationsfluss - Übersicht
 feature: Dynamic Chat
 exl-id: c741886d-d672-471f-8902-208d25898afa
-source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '339'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Konversationsfluss - Übersicht {#conversational-flow-overview}
 
-Konversationsfluss entwerfen und ihn für jeden Besucher auf der Grundlage einer bestimmten Aktion (z. B. Klicken auf eine Aktionsaufruf-Schaltfläche, beim Laden der Seite, auf der Seite verbrachte Zeit usw.) Trigger.
+Konversationsfluss entwerfen und ihn für jeden Besucher auf der Grundlage einer bestimmten Aktion (z. B. Klicken auf eine call-to-action-Schaltfläche, beim Laden der Seite, auf der Seite verbrachte Zeit usw.) Trigger.
 
 ![](assets/conversational-flow-overview-1.png)
 
@@ -20,30 +20,30 @@ Konversationsfluss entwerfen und ihn für jeden Besucher auf der Grundlage einer
 
 Dialogfelder und Konversationsflüsse weisen zwar einige Ähnlichkeiten auf, sind aber zwei separate Funktionen.
 
-<table> 
- <tbody> 
-  <tr> 
-   <th style="width:50%">Dialoge</th> 
+<table>
+ <tbody>
+  <tr>
+   <th style="width:50%">Dialoge</th>
    <th style="width:50%">Konversationsflüsse</th>
-  </tr> 
-  <tr> 
-   <td>Dialogfelder sind zielgerichtet: Sie entwerfen eine Konversation für eine bestimmte Seite und Zielgruppe basierend auf den von Ihnen implementierten Parametern.</td> 
+  </tr>
+  <tr>
+   <td>Dialogfelder sind zielgerichtet: Sie entwerfen eine Konversation für eine bestimmte Seite und Zielgruppe basierend auf den von Ihnen implementierten Parametern.</td>
    <td>Konversationsflüsse werden ausgelöst - Sie entwerfen eine Konversation, die basierend auf der Aktion eines Besuchers ausgelöst werden kann, z. B. beim Ausfüllen eines Formulars, beim Klicken auf einen Link usw.</td>
   </tr>
-   <tr> 
-   <td>Wird nur in der Chatbot-Oberfläche unterstützt.</td> 
+   <tr>
+   <td>Wird nur in der Chatbot-Oberfläche unterstützt.</td>
    <td>Derzeit in einer Popup-Oberfläche unterstützt, weitere Schnittstellen sind geplant.</td>
   </tr>
   </tr>
-   <tr> 
-   <td>Für dasselbe Lead-Segment können mehrere Dialogfelder mit einer Prioritätsreihenfolge erstellt werden, sodass jeder Besucher das Dialogfeld nacheinander nach Priorität sieht, während er weiter interagiert.</td> 
-   <td>Konversationsflüsse haben keine Prioritätsreihenfolge und können beliebig oft von demselben Lead ausgelöst werden, basierend auf der ermittelten Aktionsaufforderung.</td>
+   <tr>
+   <td>Für dasselbe Lead-Segment können mehrere Dialogfelder mit einer Prioritätsreihenfolge erstellt werden, sodass jeder Besucher das Dialogfeld nacheinander nach Priorität sieht, während er weiter interagiert.</td>
+   <td>Konversationsflüsse haben keine Prioritätsreihenfolge und können beliebig oft durch denselben Lead ausgelöst werden, basierend auf der ermittelten call-to-action.</td>
   </tr>
   <tr>
    <td>Chatbot-Unterhaltungen basieren auf Dialogfeldern.</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Conversational Forms</a> in Marketo Engage basieren auf Conversational Flows.</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## Registerkarte Designer streamen {#stream-designer-tab}
@@ -82,7 +82,7 @@ Passen Sie in der unteren Hälfte der Registerkarte „Einstellungen“ den Konv
 
 >[!TIP]
 >
->Sehen Sie [Konversationen SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/?lang=de){target="_blank"} in Aktion!
+>Sehen Sie [Konversationen SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/){target="_blank"} in Aktion!
 
 >[!MORELIKETHIS]
 >

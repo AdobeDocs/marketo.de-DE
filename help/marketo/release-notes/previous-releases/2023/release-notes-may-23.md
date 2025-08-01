@@ -2,7 +2,7 @@
 description: Mai 2023 - Versionshinweise zu Marketo - Produktdokumentation
 title: Mai 2023 – Versionshinweise
 exl-id: beefd8ad-b0d2-4a6f-9f2e-74f03fc3abe7
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '345'
 ht-degree: 5%
@@ -15,7 +15,7 @@ Im Folgenden finden Sie alle Funktionen, die in der Version vom Mai 2023 enthalt
 
 >[!AVAILABILITY]
 >
->Mit einem Stern (![star](assets/yellow-star.png) gekennzeichnete Funktionen sind kostenpflichtige Add-ons. Weitere Informationen erhalten Sie von Ihrem Marketo Engage-Support-Mitarbeiter.
+>Mit einem Stern (![star](assets/yellow-star.png) gekennzeichnete Funktionen sind kostenpflichtige Add-ons. Weitere Informationen erhalten Sie vom Marketo Engage-Support.
 
 ## Standardfunktionen des Veröffentlichungszyklus {#standard-release-cycle-features}
 
@@ -25,28 +25,28 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
 
 </br>
 
-* **Adobe Experience Cloud-Benutzeroberfläche**: Richtet Marketo Engage an Experience Cloud aus, um ein konsistentes Navigationserlebnis über mehrere Experience Cloud-Lösungen hinweg in einer Benutzersitzung zu schaffen.
+* **Adobe Experience Cloud-Benutzeroberfläche**: Richtet Marketo Engage an Experience Cloud aus, um in einer Benutzersitzung ein konsistentes Navigationserlebnis über mehrere Experience Cloud-Lösungen hinweg zu schaffen.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
    <td><b>Dokumentation – Aktualisierungen</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Versendet</td>
-   <td><a href="/help/marketo/product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md">Übersicht über die Experience Cloud-Schnittstelle</a></td>
+   <td><a href="/help/marketo/product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md">Übersicht über die Experience Cloud-Benutzeroberfläche</a></td>
   </tr>
   </tbody>
 </table>
 
-* **Hilfezentrum für Marketo Engage**: Das Hilfezentrum bietet Marketo Engage-Benutzern einen zentralen Ort, um Hilferessourcen aus dem Produkt zu finden. Darüber hinaus bietet das Hilfe-Center Benutzenden die Möglichkeit, produktinterne Handbücher zu aktivieren, in denen die Verwendung wichtiger Funktionen erläutert wird.
+* **Marketo Engage-Hilfezentrum**: Das Hilfezentrum bietet Marketo Engage-Benutzern einen zentralen Ort, um Hilferessourcen aus dem Produkt heraus zu finden. Darüber hinaus bietet das Hilfe-Center Benutzenden die Möglichkeit, produktinterne Handbücher zu aktivieren, in denen die Verwendung wichtiger Funktionen erläutert wird.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
    <td><b>Dokumentation – Aktualisierungen</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Versendet</td>
    <td><a href="/help/marketo/getting-started/things-to-know/help-center.md">Hilfezentrum</a></td>
   </tr>
@@ -63,22 +63,22 @@ Die folgenden Funktionen folgen einem Agile-Format und werden an verschiedenen D
 
 * **Interaktive Webinare (zunächst begrenzte Verfügbarkeit)**:
 
-Interaktive Webinare ergänzen das vorhandene Ereignis- und Webinarerlebnis, indem sie Marketing-Experten ein natives und nahtloses Erlebnis bieten, um Ereignisse auf Marketo Engage zu erstellen, zu verwalten und bereitzustellen. Passen Sie Webinare je nach Ereignistyp an und fügen Sie bei Bedarf sogar Moderatoren hinzu. Erhalten Sie umfassende Interaktionseinblicke durch Adobe Connect-Funktionen wie Live-Umfragen, Chat, Fragen und Antworten, Web-Link-Klicks, Dokument-Downloads und mehr. Rufen Sie die Webinar-Aufzeichnung direkt im Marketo Engage ab und bewerten Sie ihre Leistung mit umfangreichen Dashboard-Metriken.
+Interaktive Webinare ergänzen das vorhandene Ereignis- und Webinarerlebnis, indem sie Marketing-Experten ein natives und nahtloses Erlebnis bieten, um Ereignisse in Marketo Engage zu erstellen, zu verwalten und bereitzustellen. Passen Sie Webinare je nach Ereignistyp an und fügen Sie bei Bedarf sogar Moderatoren hinzu. Erhalten Sie umfassende Interaktionseinblicke durch Adobe Connect-Funktionen wie Live-Umfragen, Chat, Fragen und Antworten, Web-Link-Klicks, Dokument-Downloads und mehr. Rufen Sie die Webinar-Aufzeichnung direkt in Marketo Engage ab und bewerten Sie ihre Leistung mit umfangreichen Dashboard-Metriken.
 
 Interaktive Webinare werden nach und nach eingeführt. Um einen früheren Zugriff anzufordern, füllen Sie bitte [dieses Formular](https://forms.office.com/r/Jf4zFVCH0T){target="_blank"} aus.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
    <td><b>Dokumentation – Aktualisierungen</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Rollout gestartet</td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html?lang=de">Übersicht über interaktive Webinare</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html">Übersicht über interaktive Webinare</a></td>
   </tr>
   </tbody>
 </table>
 
 ## Ankündigungen {#announcements}
 
-* **_Webinar zur Produktversion_**: [Webinar zur Marketo Engage vom März und Mai 2023](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}
+* **_Webinar zur Produktversion_**: [Webinar zur Marketo Engage-Version März und Mai 2023](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}

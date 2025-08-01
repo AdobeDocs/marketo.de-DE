@@ -3,7 +3,7 @@ description: Gruppen verwalten - Marketo-Dokumente - Produktdokumentation
 title: Gruppen verwalten
 exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '344'
 ht-degree: 0%
@@ -16,38 +16,38 @@ Erfahren Sie, wie Sie Ihre Gruppen in [!DNL Sales Insight Actions] verwalten.
 
 ## Gruppentypen {#group-types}
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <th>Gruppe</th> 
-   <th>Beschreibung</th> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Alle Personen]</td> 
-   <td>Alle Kontakte von allen Benutzern, die für Sie sichtbar sind.</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Dynamische Gruppen]</td> 
-   <td>Meine Kontakte: Alle Kontakte, deren Inhaber Sie sind.<br>Abmeldungen: Kontakte, die sich vom Erhalt von Korrespondenz abgemeldet haben.</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Meine Gruppen]</td> 
-   <td>Von Ihnen erstellte Gruppen. Sie können Ihre Kontakte enthalten oder Kontakte, die für Sie freigegeben wurden.</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Team Groups]</td> 
-   <td>Gruppen, die für und/oder von Ihnen freigegeben wurden. Sie können eigene Kontakte oder Kontakte enthalten, die Sie für Ihre Teammitglieder freigegeben haben.</td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <th>Gruppe</th>
+   <th>Beschreibung</th>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Alle Personen]</td>
+   <td>Alle Kontakte von allen Benutzern, die für Sie sichtbar sind.</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Dynamische Gruppen]</td>
+   <td>Meine Kontakte: Alle Kontakte, deren Inhaber Sie sind.<br>Abmeldungen: Kontakte, die sich vom Erhalt von Korrespondenz abgemeldet haben.</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Meine Gruppen]</td>
+   <td>Von Ihnen erstellte Gruppen. Sie können Ihre Kontakte enthalten oder Kontakte, die für Sie freigegeben wurden.</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Team Groups]</td>
+   <td>Gruppen, die für und/oder von Ihnen freigegeben wurden. Sie können eigene Kontakte oder Kontakte enthalten, die Sie für Ihre Teammitglieder freigegeben haben.</td>
+  </tr>
+ </tbody>
 </table>
 
 ## Erstellen einer Gruppe {#create-a-group}
 
-1. Klicken Sie auf [!UICONTROL &#x200B; Seite &#x200B;]Personen“ auf das **+** neben [!UICONTROL Gruppen].
+1. Klicken Sie auf [!UICONTROL  Seite ]Personen“ auf das **+** neben [!UICONTROL Gruppen].
 
    ![](assets/manage-groups-1.png)
 
@@ -59,7 +59,7 @@ Erfahren Sie, wie Sie Ihre Gruppen in [!DNL Sales Insight Actions] verwalten.
 
 ## Kontakte zu einer Gruppe hinzufügen {#add-contacts-to-a-group}
 
-1. Suchen Sie auf [!UICONTROL &#x200B; Seite &#x200B;]Personen“ die Gruppe, der Sie Personen hinzufügen möchten, und wählen Sie sie aus.
+1. Suchen Sie auf [!UICONTROL  Seite ]Personen“ die Gruppe, der Sie Personen hinzufügen möchten, und wählen Sie sie aus.
 
    ![](assets/manage-groups-3.png)
 
@@ -79,7 +79,7 @@ Erfahren Sie, wie Sie Ihre Gruppen in [!DNL Sales Insight Actions] verwalten.
 
 ## Freigeben einer Gruppe {#share-a-group}
 
-1. Suchen Sie auf [!UICONTROL &#x200B; Seite &#x200B;]Personen“ die Gruppe, die Sie freigeben möchten, und wählen Sie sie aus.
+1. Suchen Sie auf [!UICONTROL  Seite ]Personen“ die Gruppe, die Sie freigeben möchten, und wählen Sie sie aus.
 
    ![](assets/manage-groups-6.png)
 
@@ -95,7 +95,7 @@ Erfahren Sie, wie Sie Ihre Gruppen in [!DNL Sales Insight Actions] verwalten.
 
 ## Freigabe einer Gruppe aufheben {#unshare-a-group}
 
-1. Suchen Sie auf [!UICONTROL &#x200B; Seite &#x200B;]Personen“ die Gruppe, deren Freigabe Sie aufheben möchten, und wählen Sie sie aus.
+1. Suchen Sie auf [!UICONTROL  Seite ]Personen“ die Gruppe, deren Freigabe Sie aufheben möchten, und wählen Sie sie aus.
 
    ![](assets/manage-groups-9.png)
 
@@ -111,7 +111,7 @@ Erfahren Sie, wie Sie Ihre Gruppen in [!DNL Sales Insight Actions] verwalten.
 
 ## Eine Gruppe umbenennen {#rename-a-group}
 
-1. Suchen Sie auf [!UICONTROL &#x200B; Seite &#x200B;]Personen“ die Gruppe, die Sie umbenennen möchten, und wählen Sie sie aus.
+1. Suchen Sie auf [!UICONTROL  Seite ]Personen“ die Gruppe, die Sie umbenennen möchten, und wählen Sie sie aus.
 
    ![](assets/manage-groups-12.png)
 

@@ -2,7 +2,7 @@
 description: Übersicht über die Interaktionskarte - Marketo-Dokumente - Produktdokumentation
 title: Interaktionskarte - Übersicht
 exl-id: 01cb283d-06c2-4a99-86a9-39dea9550c08
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '750'
 ht-degree: 0%
@@ -75,13 +75,13 @@ Die obere Navigationsleiste enthält die folgenden Funktionen:
 
 Nein. Interaktionszuordnung ist vollständig abwärtskompatibel. Mit einem Klick auf eine Schaltfläche können Sie jede Ihrer vorhandenen Kampagnen in der visuellen Interaktionskarte anzeigen.
 
-**Bedeutet Engagement Map auf Marketo Engage, dass ich den Zugriff auf die Ordnerstruktur verliere und erneut lernen muss, wie man eine Smart Campaign erstellt?**
+**Bedeutet Engagement Map in Marketo Engage, dass ich den Zugriff auf die Ordnerstruktur verliere und erneut lernen muss, wie man eine Smart Campaign erstellt?**
 
-Nein. Das Tolle an Engagement Map ist, dass sie das Beste aus beiden Welten bietet. Sie ergänzt die derzeitige Art und Weise, wie Kampagnen erstellt werden. Alle Anwender erhalten weiterhin leistungsstarke Marketo Engage-Funktionen, die nun durch klare Visualisierungen ergänzt werden.
+Nein. Das Tolle an Engagement Map ist, dass sie das Beste aus beiden Welten bietet. Sie ergänzt die derzeitige Art und Weise, wie Kampagnen erstellt werden. Alle Anwender erhalten weiterhin die leistungsstarken Funktionen von Marketo Engage, die nun durch klare visuelle Elemente ergänzt werden.
 
 **Ist Engagement Map ein kostenpflichtiges Add-on?**
 
-Nein. Alle bestehenden und neuen Marketo Engage-Nutzer unter allen Abonnements haben Zugang zu dieser kostenlosen Funktion.
+Nein. Alle bestehenden und neuen Marketo Engage-Benutzer unter allen Abonnements haben Zugriff auf diese kostenlose Funktion.
 
 **Bin ich als Marketo Engage-Administrator dafür verantwortlich, die Interaktionskarte zu aktivieren/deaktivieren?**
 
@@ -95,7 +95,7 @@ Die Interaktionskarte zeichnet sich durch drei Schlüsselelemente aus:
 
 * Funktionalität: Alle Visualisierungen sind vorkonfiguriert, was die Verwendung erleichtert. Die verschachtelte Struktur ermöglicht es Ihnen, einzutauchen und das gesamte Bild zu erhalten.
 
-* Leistung: Sie behalten die gesamte Raffinesse des Marketo Engage, jetzt in einem visuellen Format.
+* Leistung: Sie behalten die gesamte Raffinesse von Marketo Engage, jetzt in einem visuellen Format.
 
 >[!MORELIKETHIS]
 >

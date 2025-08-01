@@ -4,7 +4,7 @@ description: Erstellen einer Freiform-Landingpage - Marketo-Dokumente - Produktd
 title: Erstellen einer Freiform-Landingpage
 exl-id: fc58cb1f-8567-47ce-b724-24e6e6bc9cce
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 2%
@@ -13,7 +13,7 @@ ht-degree: 2%
 
 # Erstellen einer Freiform-Landingpage {#create-a-free-form-landing-page}
 
-Freiform-Landingpages können als lokale Assets eines Programms oder im [!UICONTROL Design Studio) erstellt &#x200B;] global verwendet werden.
+Freiform-Landingpages können als lokale Assets eines Programms oder im [!UICONTROL Design Studio) erstellt ] global verwendet werden.
 
 >[!NOTE]
 >

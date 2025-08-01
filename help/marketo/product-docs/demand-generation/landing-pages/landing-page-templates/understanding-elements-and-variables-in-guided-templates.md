@@ -4,7 +4,7 @@ description: Grundlegendes zu Elementen und Variablen in geführten Vorlagen - M
 title: Grundlegendes zu Elementen und Variablen in geführten Vorlagen
 exl-id: c25c8b2b-d596-46f7-a570-b4a5cb5957a6
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 2%
@@ -41,21 +41,21 @@ Variablen sind Token-ähnliche Attribute, die über den geführten Landingpage-E
 
 Es gibt drei Variablentypen: Zeichenfolgenvariablen, Farbvariablen und boolesche Variablen.
 
-<table> 
- <tbody> 
-  <tr> 
-   <td>String</td> 
-   <td><p>Bearbeitbarer Text</p><p>Beispiel: Titel, Datumsangaben, Schaltflächenbeschriftungen</p></td> 
-  </tr> 
-  <tr> 
-   <td>Farbe</td> 
-   <td><p>Bearbeitbarer Hexadezimalcode für Farbe</p><p><img alt="—" src="assets/image2015-5-20-13-3a14-3a57.png" data-linked-resource-id="7515092" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="--"></p><p>Beispiel: Hintergrundfarbe, Schriftfarbe, Rahmenfarbe</p></td> 
-  </tr> 
-  <tr> 
-   <td>Boolesch</td> 
-   <td><p>Ein Hebel, der den Ein-/Aus-Status für Objekte oder Formate auf der Landingpage steuert</p><p><img alt="--" src="assets/image2015-5-20-13-3a14-3a25.png" data-linked-resource-id="7515091" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="--"></p><p>Beispiele: Fußzeile anzeigen (ja/nein), Spaltenanzahl (1/2), Google Analytics einbetten (true/false)</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td>String</td>
+   <td><p>Bearbeitbarer Text</p><p>Beispiel: Titel, Datumsangaben, Schaltflächenbeschriftungen</p></td>
+  </tr>
+  <tr>
+   <td>Farbe</td>
+   <td><p>Bearbeitbarer Hexadezimalcode für Farbe</p><p><img alt="—" src="assets/image2015-5-20-13-3a14-3a57.png" data-linked-resource-id="7515092" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="--"></p><p>Beispiel: Hintergrundfarbe, Schriftfarbe, Rahmenfarbe</p></td>
+  </tr>
+  <tr>
+   <td>Boolesch</td>
+   <td><p>Ein Hebel, der den Ein-/Aus-Status für Objekte oder Formate auf der Landingpage steuert</p><p><img alt="--" src="assets/image2015-5-20-13-3a14-3a25.png" data-linked-resource-id="7515091" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="--"></p><p>Beispiele: Fußzeile anzeigen (ja/nein), Spaltenanzahl (1/2), Google Analytics einbetten (true/false)</p></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!MORELIKETHIS]

@@ -4,7 +4,7 @@ description: Übersicht über Email Insights Analytics - Marketo-Dokumente - Pro
 title: Email Insights Analytics-Übersicht
 exl-id: 370720f7-bbe1-4143-b2be-15854e1ffe55
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 0%
@@ -55,7 +55,7 @@ Rechts auf der Seite finden Sie anhand geführter Metriken relevante Treiber. Kl
 
 >[!NOTE]
 >
->Sehen Sie [!UICONTROL &#x200B; oben &#x200B;] „Aktualisieren“? Wenn Sie sie sehen, müssen Sie manuell darauf klicken, um das Insights-Modul zu aktualisieren. Sie wird nur angezeigt, wenn Sie Änderungen an Filtern vorgenommen haben, durch die die aktuellen Werte ungültig würden.
+>Sehen Sie [!UICONTROL  oben ] „Aktualisieren“? Wenn Sie sie sehen, müssen Sie manuell darauf klicken, um das Insights-Modul zu aktualisieren. Sie wird nur angezeigt, wenn Sie Änderungen an Filtern vorgenommen haben, durch die die aktuellen Werte ungültig würden.
 
 Sie können auch angeben, was angezeigt wird (von links nach rechts): Alle, Zielgruppe, Inhalte und Plattform.
 

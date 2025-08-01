@@ -3,7 +3,7 @@ description: Synchronisieren von Meldungen zu Aufrufen und Anrufen - Marketo-Dok
 title: Nachrichten zu Aufruf- und Aufrufschlüsseln synchronisieren
 exl-id: a8df5b77-e594-4e06-8194-1758a3582cda
 feature: Veeva CRM
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '477'
 ht-degree: 10%

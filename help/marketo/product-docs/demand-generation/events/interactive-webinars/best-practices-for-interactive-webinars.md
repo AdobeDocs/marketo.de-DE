@@ -3,7 +3,7 @@ description: Best Practices für interaktive Webinare - Marketo-Dokumente - Prod
 title: Best Practices für interaktive Webinare
 feature: Interactive Webinars
 exl-id: fd9d7d03-8d92-45f7-9372-a2b6d2f4c635
-source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1704'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Zu diesem Zweck haben wir eine Liste mit Best Practices zusammengestellt, die be
 
 * Erstellen Sie ein Beispiel für ein interaktives Webinar (IW) und klonen Sie es jedes Mal, um zu vermeiden, dass Sie von Grund auf neu beginnen.
 
-* Wiederverwenden von Adobe Connect-Räumen, wenn dieselben Inhalte später erneut bereitgestellt werden. Navigieren Sie **Pods-** zum Pods-Menü, um den Chat-Verlauf sowie die Abfrage-/Quizergebnisse der letzten Sitzung zu löschen. Damit ist der Inhalt des Raums frei. Alle Daten aus vorherigen Sitzungen stehen weiterhin als Marketo Engage zur Verfügung.
+* Wiederverwenden von Adobe Connect-Räumen, wenn dieselben Inhalte später erneut bereitgestellt werden. Navigieren Sie **Pods-** zum Pods-Menü, um den Chat-Verlauf sowie die Abfrage-/Quizergebnisse der letzten Sitzung zu löschen. Damit ist der Inhalt des Raums frei. Alle Daten aus vorherigen Sitzungen stehen weiterhin in Marketo Engage zur Verfügung.
 
 * Vermeiden Sie die Planung von Rückgesprächen. Achten Sie darauf, dass Sie mindestens 30 Minuten Vorbereitungszeit haben, bevor Ihr Webinar beginnt. Auf diese Weise können Sie alle Änderungen an der Präsentation in letzter Minute hochladen, Ihr Mikrofon und Ihre Kamera anpassen und neue Präsentatoren mit der Benutzeroberfläche vertraut machen.
 
@@ -85,7 +85,7 @@ Zu diesem Zweck haben wir eine Liste mit Best Practices zusammengestellt, die be
 
 * **Fragen und Antworten**: Der Name des Teilnehmers, der die Frage eingereicht hat, und der Name des Gastgebers/Moderators, der geantwortet hat, können beide ausgeblendet werden. Dies erreichen Sie, indem Sie die Datenschutzoptionen im Abschnitt „Fragen und Antworten“ in den Zimmereinstellungen deaktivieren.
 
-* **Chat-Panel**: Das Chat-Panel ist ein Chat-Bereich, der nicht Teil der Sitzungsaufzeichnungen ist. Wenn Sie also nicht möchten, dass Chats in Aufzeichnungen angezeigt werden, verwenden Sie das Chat-Panel anstelle des Chat-Pods. [Hier klicken](https://helpx.adobe.com/de/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} um mehr über die Verwendung des Chat Panels zu erfahren.
+* **Chat-Panel**: Das Chat-Panel ist ein Chat-Bereich, der nicht Teil der Sitzungsaufzeichnungen ist. Wenn Sie also nicht möchten, dass Chats in Aufzeichnungen angezeigt werden, verwenden Sie das Chat-Panel anstelle des Chat-Pods. [Hier klicken](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} um mehr über die Verwendung des Chat Panels zu erfahren.
 
 * **Privater Chat**: Deaktivieren Sie den privaten Chat, um zu verhindern, dass Teilnehmer einen anderen Teilnehmer anpingen können. Dies kann erreicht werden, indem Sie die Option „Teilnehmern erlauben, privat zu chatten“ im Abschnitt „Chat“ in den Zimmereinstellungen deaktivieren.
 
@@ -113,7 +113,7 @@ Zu diesem Zweck haben wir eine Liste mit Best Practices zusammengestellt, die be
 
 ## Nach dem Versand {#post-delivery}
 
-* Nach der Durchführung des Webinars werden die Interaktionsdaten zusammen mit der Aufzeichnung in der Regel innerhalb von 1 bis 2 Stunden auf Marketo Engage zur Verfügung gestellt. Validieren Sie die Aufzeichnung und bestätigen Sie, ob die gesamte Webinar-Videoausgabe ordnungsgemäß erfasst wurde, sodass sie für die Freigabe für die Zielgruppe und die Nachverfolgung von On-Demand-Webinar-Daten verwendet werden kann.
+* Nach der Durchführung des Webinars werden die Interaktionsdaten zusammen mit der Aufzeichnung in Marketo Engage im Allgemeinen innerhalb von 1 bis 2 Stunden zur Verfügung gestellt. Validieren Sie die Aufzeichnung und bestätigen Sie, ob die gesamte Webinar-Videoausgabe ordnungsgemäß erfasst wurde, sodass sie für die Freigabe für die Zielgruppe und die Nachverfolgung von On-Demand-Webinar-Daten verwendet werden kann.
 
 * Erstellen Sie Pflegekampagnen, um die Leads der Teilnehmenden auf der Grundlage ihrer Interaktion mit interaktiven Webinar-Filtern/-Triggern weiter zu qualifizieren, und führen Sie Danksagungskampagnen/verpasste Kampagnen durch, um weitere Informationen über die Veranstaltung, den Link zur Aufzeichnung, Ereignisstatistiken und zukünftige Veranstaltungen bereitzustellen, damit die No-Shows wieder eine Verbindung zur Organisation herstellen können. Aktivitäten für Nicht-Shows, die die Aufzeichnung besuchen, können im Rahmen von On-Demand-Webinaren verfolgt werden und weitere Nurture-Kampagnen können über Filter/Trigger für On-Demand-Webinare für Nicht-Shows erstellt werden.
 
