@@ -68,7 +68,7 @@ Mit der Absichtserklärung wird die Web-Kampagne beim Beenden des Browsers mit d
 
    ![](assets/ei1.png)
 
-1. Es wird eine Meldung angezeigt, die Sie daran erinnert[!UICONTROL  dass die ] nicht mit Mobilgeräten kompatibel ist.
+1. Es wird eine Meldung angezeigt, die Sie daran erinnert[!UICONTROL &#x200B; dass die &#x200B;] nicht mit Mobilgeräten kompatibel ist.
 
    ![](assets/ei2.png)
 

@@ -47,9 +47,9 @@ In der komplexen Welt der B2B-Kaufprozesse ist es selten, dass eine einzelne Per
 >Zur Berechnung der Kontobewertungen müssen Sie zunächst Lead-Bewertungen erstellen. Marketo TAM aggregiert Lead-Bewertungen automatisch zu Konto-Bewertungen. Als Beispiel nehmen wir zwei der oben genannten Beispiele (_Account Product Interest Score_ und _Account Web Engagement Score_).
 >
 >Erstellen Sie zunächst Lead-Bewertungsfelder, die relevante Details aus jedem Lead eines Zielkontos erfassen.
->>Weisen Sie dann diese Lead-Bewertungen ihren jeweiligen Account-Bewertungen zu:
->>Kontobewertung für Produktzinsen = SUM (Bewertung für Lead-Produktzinsen)
->>Account Web Engagement Score = SUM (Lead Web Engagement Score)
+>&#x200B;>Weisen Sie dann diese Lead-Bewertungen ihren jeweiligen Account-Bewertungen zu:
+>&#x200B;>Kontobewertung für Produktzinsen = SUM (Bewertung für Lead-Produktzinsen)
+>&#x200B;>Account Web Engagement Score = SUM (Lead Web Engagement Score)
 
 >[!NOTE]
 >
@@ -65,7 +65,7 @@ Nachdem Sie die Lead-Bewertung konfiguriert haben, fahren Sie mit den folgenden 
 
    ![](assets/account-score-2.png)
 
-1. Klicken [!UICONTROL  in „Bewertungsfelder] auf **[!UICONTROL Bearbeiten]**.
+1. Klicken [!UICONTROL &#x200B; in „Bewertungsfelder] auf **[!UICONTROL Bearbeiten]**.
 
    ![](assets/account-score-3.png)
 
@@ -73,7 +73,7 @@ Nachdem Sie die Lead-Bewertung konfiguriert haben, fahren Sie mit den folgenden 
    >
    >Sie können bis zu **fünf** Felder zur Berechnung des [!UICONTROL Kontowerts] auswählen.
 
-1. Geben Sie [!UICONTROL  Namen „Kontobewertung] ein, klicken Sie auf die **[!UICONTROL Personenbewertung auswählen]** und wählen Sie den entsprechenden Wert aus.
+1. Geben Sie [!UICONTROL &#x200B; Namen „Kontobewertung] ein, klicken Sie auf die **[!UICONTROL Personenbewertung auswählen]** und wählen Sie den entsprechenden Wert aus.
 
    ![](assets/account-score-4.png)
 

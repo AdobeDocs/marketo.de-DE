@@ -15,7 +15,7 @@ ht-degree: 10%
 
 [!UICONTROL Spezifische Konten] enthalten die Personen aus den Unternehmen, an die Sie sich wenden. Das Dashboard enthält aktuelle Daten zu den einzelnen Attributen für alle benannten Konten.
 
-## Dashboard [!UICONTROL Benannte ]&quot; {#named-accounts-dashboard}
+## Dashboard [!UICONTROL Benannte &#x200B;]&quot; {#named-accounts-dashboard}
 
 ![](assets/one.png)
 

@@ -43,6 +43,7 @@ In diesem Beitrag wird erläutert, wie Sie die [!DNL Marketo Real-Time Personali
    1. Wählen Sie die **[!UICONTROL Konto].**
    1. Wählen Sie die **[!UICONTROL Eigenschaft].**
    1. Wählen Sie **[!UICONTROL Benutzerdefinierte Definitionen]** und **[!UICONTROL Benutzerdefinierte Dimensionen]** aus.
+
       ![](assets/image2014-11-29-11-3a2-3a32.png)
 
 1. Eine neue benutzerdefinierte Dimension hinzufügen. Klicken Sie auf **[!UICONTROL +Neue benutzerdefinierte Dimension]**

@@ -59,7 +59,7 @@ ht-degree: 11%
 
    >[!NOTE]
    >
-   >Wenn Sie den Datentyp eines Felds in [!DNL Salesforce] umbenennen oder ändern, werden alle Zuordnungen dieses Felds zum benutzerdefinierten Feld [!UICONTROL Programmteilnehmer“ ]. Sie können sie jedoch nach der Überprüfung dem neuen Feld zuordnen.
+   >Wenn Sie den Datentyp eines Felds in [!DNL Salesforce] umbenennen oder ändern, werden alle Zuordnungen dieses Felds zum benutzerdefinierten Feld [!UICONTROL Programmteilnehmer“ &#x200B;]. Sie können sie jedoch nach der Überprüfung dem neuen Feld zuordnen.
 
 ## Zuordnung von Salesforce-Feldern zu benutzerdefinierten Programmteilnehmerfeldern aufheben {#unmap-salesforce-fields-from-program-member-custom-fields}
 

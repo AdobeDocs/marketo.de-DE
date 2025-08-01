@@ -35,7 +35,7 @@ Sie können jede der verfügbaren Spalten so konfigurieren, dass sie im E-Mail-A
    <td>Name der Person in [!UICONTROL Sales Connect].</td>
   </tr>
   <tr>
-   <td><strong>[!UICONTROL-Adresse]</td>
+   <td><strong>[!UICONTROL -Adresse]</td>
    <td>Primäre E-Mail-Adresse der Person in [!UICONTROL Sales Connect].</td>
   </tr>
   <tr>
@@ -43,7 +43,7 @@ Sie können jede der verfügbaren Spalten so konfigurieren, dass sie im E-Mail-A
    <td>Wenn die E-Mail im Rahmen einer Kampagne gesendet wurde, wird der Name der Kampagne angezeigt. Wenn Sie auf dieses Feld klicken, gelangen Sie zur Einrichtungsseite dieser Kampagne.</td>
   </tr>
   <tr>
-   <td><strong>[!UICONTROL-Vorlage]</td>
+   <td><strong>[!UICONTROL -Vorlage]</td>
    <td>Zeigt den Namen der Vorlage an (wenn die E-Mail mit einer Vorlage gesendet wurde).</td>
   </tr>
   <tr>
@@ -87,7 +87,7 @@ Sie können jede der verfügbaren Spalten so konfigurieren, dass sie im E-Mail-A
    <td>Das Datum, an dem die E-Mail gesendet wurde.</td>
   </tr>
   <tr>
-   <td><strong>[!UICONTROL-Folgeaktionen]</td>
+   <td><strong>[!UICONTROL -Folgeaktionen]</td>
    <td>Schnelle Aktionsschaltflächen, die für die Nachverfolgung per E-Mail, Telefon, E-Mail oder Aufgabe verwendet werden können.</td>
   </tr>
   <tr>

@@ -21,7 +21,7 @@ Die folgenden Felder und Schaltflächen werden von der Metadaten-API in Salesfor
 
    ![](assets/one.png)
 
-1. Wählen [!UICONTROL  unter „Admin] die Option **[!UICONTROL Salesforce]**.
+1. Wählen [!UICONTROL &#x200B; unter „Admin] die Option **[!UICONTROL Salesforce]**.
 
    ![](assets/two.png)
 
@@ -49,7 +49,7 @@ Die Aktualisierungen des Pakets zur [!DNL Salesforce] enthalten Verbesserungen u
 
    ![](assets/sales-connect-customizations-for-crm-6.png)
 
-1. Klicken [!UICONTROL  unter „Admin-]&quot; auf **[!UICONTROL Salesforce]**.
+1. Klicken [!UICONTROL &#x200B; unter „Admin-]&quot; auf **[!UICONTROL Salesforce]**.
 
    ![](assets/sales-connect-customizations-for-crm-7.png)
 

@@ -43,7 +43,7 @@ Erweiterte [Filter) zur ](/help/marketo/product-docs/reporting/email-insights/fi
 
 ## [!UICONTROL sendet] {#sends}
 
-Untersuchen Sie auf [[!UICONTROL  Seite ]](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)Sendungen“ die Eigenschaften der letzten E-Mail-Kommunikation.
+Untersuchen Sie auf [[!UICONTROL &#x200B; Seite &#x200B;]](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)Sendungen“ die Eigenschaften der letzten E-Mail-Kommunikation.
 
 ![](assets/two.png)
 

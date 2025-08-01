@@ -28,7 +28,7 @@ Gehen Sie wie folgt vor, um die [!DNL Dynamic Chat]-Integration zu aktivieren.
 
 1. Melden Sie sich bei Ihrem [!DNL Salesforce] Konto an, klicken Sie auf das + -Symbol am Ende der Registerkartenleiste und klicken Sie auf **[!DNL Marketo Sales Insight Config]**.
 
-1. Klicken Sie, um das &quot;[!UICONTROL VisualForce-Bedienfeld“ ].
+1. Klicken Sie, um das &quot;[!UICONTROL VisualForce-Bedienfeld“ &#x200B;].
 
    ![](assets/dynamic-chat-integration-1.png)
 
@@ -82,7 +82,7 @@ Gleichermaßen enthalten die Konto- und Opportunity-Bedienfelder [!UICONTROL Nam
 
 ![](assets/dynamic-chat-integration-6.png)
 
-Die Registerkarte Chat ist auch in Ihrer Registerkarte Global Marketo enthalten. Es umfasst drei Aktivitätstypen ([!UICONTROL Interaktives ], [!UICONTROL Geplanter Termin], [!UICONTROL Ziel erreicht]) sowie die folgenden Spalten:
+Die Registerkarte Chat ist auch in Ihrer Registerkarte Global Marketo enthalten. Es umfasst drei Aktivitätstypen ([!UICONTROL Interaktives &#x200B;], [!UICONTROL Geplanter Termin], [!UICONTROL Ziel erreicht]) sowie die folgenden Spalten:
 
 * [!UICONTROL Person]
 * [!UICONTROL Konto]

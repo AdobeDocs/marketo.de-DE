@@ -15,7 +15,7 @@ ht-degree: 6%
 
 Dieser Bericht bietet großartige Statistiken zu Ihren Programmen.
 
-1. [Erstellen Sie einen Bericht in einem Programm](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md){target="_blank"} und wählen Sie den **[!UICONTROL Programm-]**[Berichtstyp](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}.
+1. [Erstellen Sie einen Bericht in einem Programm](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md){target="_blank"} und wählen Sie den **[!UICONTROL Programm-]**&#x200B;[Berichtstyp](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}.
 1. Klicken Sie auf **[!UICONTROL Registerkarte]** Bericht“.
 1. Du bist da! Erkunden Sie Ihren Bericht, um zu sehen, wie Ihre Programme funktionieren.
 

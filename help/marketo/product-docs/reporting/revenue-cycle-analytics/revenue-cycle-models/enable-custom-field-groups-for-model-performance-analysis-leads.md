@@ -60,7 +60,7 @@ Führen Sie diese Schritte aus, um eine benutzerdefinierte Feldergruppe für das
 
    >[!NOTE]
    >
-   >In diesem Beispiel wurde eine benutzerdefinierte Feldergruppe für ein Standardfeld (Status) aktiviert. Daher war nur der Bereich [!UICONTROL Modellleistungsanalyse (Leads] betroffen. Wenn eine benutzerdefinierte Feldergruppe für ein benutzerdefiniertes Personen- oder Unternehmensfeld aktiviert worden wäre, würde die aktivierte Gruppe im Abschnitt [!UICONTROL Modellleistungsanalyse (Leads)) auf ] Registerkarte Zusammenfassung synchronisieren angezeigt und die benutzerdefinierte Felderanzahl für Lead-, Kampagnen- und Opportunity-Analyse würde um eins steigen.
+   >In diesem Beispiel wurde eine benutzerdefinierte Feldergruppe für ein Standardfeld (Status) aktiviert. Daher war nur der Bereich [!UICONTROL Modellleistungsanalyse (Leads] betroffen. Wenn eine benutzerdefinierte Feldergruppe für ein benutzerdefiniertes Personen- oder Unternehmensfeld aktiviert worden wäre, würde die aktivierte Gruppe im Abschnitt [!UICONTROL Modellleistungsanalyse (Leads)) auf &#x200B;] Registerkarte Zusammenfassung synchronisieren angezeigt und die benutzerdefinierte Felderanzahl für Lead-, Kampagnen- und Opportunity-Analyse würde um eins steigen.
 
 1. Klicken Sie auf **[!UICONTROL Speichern]**.
 

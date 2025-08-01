@@ -87,11 +87,11 @@ Es werden zwei Dropdown-Listen angezeigt: [!UICONTROL Autorisierungstyp] und [!U
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-2.png)
 
-Wenn Sie als [!UICONTROL Autorisierungstyp“ „Einverständnis] auswählen, werden zwei Pflichtfelder angezeigt: [!UICONTROL Einverständnisdatum] und [!UICONTROL Zweck der ]&quot;. Diese beiden Felder sind nicht auf andere Optionen anwendbar.
+Wenn Sie als [!UICONTROL Autorisierungstyp“ „Einverständnis] auswählen, werden zwei Pflichtfelder angezeigt: [!UICONTROL Einverständnisdatum] und [!UICONTROL Zweck der &#x200B;]&quot;. Diese beiden Felder sind nicht auf andere Optionen anwendbar.
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-3.png)
 
-Wenn &quot;[!UICONTROL Other]&quot; entweder für [!UICONTROL Autorisierungstyp] oder [!UICONTROL Source-Typ] ausgewählt wurde, können Sie Text eingeben, um den [!UICONTROL Source-Typ zu ].
+Wenn &quot;[!UICONTROL Other]&quot; entweder für [!UICONTROL Autorisierungstyp] oder [!UICONTROL Source-Typ] ausgewählt wurde, können Sie Text eingeben, um den [!UICONTROL Source-Typ zu &#x200B;].
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-4.png)
 
@@ -132,7 +132,7 @@ Sie haben die Möglichkeit, Kontaktinformationen aus der Personendetailansicht z
  <tbody>
   <tr>
    <td>[!UICONTROL Vorname]</td>
-   <td>[!UICONTROL-Website]</td>
+   <td>[!UICONTROL -Website]</td>
    <td>[!DNL Facebook]</td>
   </tr>
   <tr>

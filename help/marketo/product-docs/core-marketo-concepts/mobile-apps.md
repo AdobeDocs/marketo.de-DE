@@ -12,4 +12,4 @@ ht-degree: 10%
 
 # Mobile Apps {#mobile-apps}
 
-** ![Ereignis-Check](assets/mobile-checkin-icon.png)in-Ereignis** [Check-in-Kunden können Ihre Ereignisse von einem Tablet aus einchecken.](https://docs.marketo.com/display/DOCS/Event+Check-in)     ** ![Marketo-Momente](assets/moments-icon.png)Marketo-**: [Marketo-Momente Sehen Sie sich an, was wichtig ist und wann es wichtig ist.](https://docs.marketo.com/display/DOCS/Marketo+Moments)
+**&#x200B; ![Ereignis-Check](assets/mobile-checkin-icon.png)in-Ereignis** [Check-in-Kunden können Ihre Ereignisse von einem Tablet aus einchecken.](https://docs.marketo.com/display/DOCS/Event+Check-in)     **&#x200B; ![Marketo-Momente](assets/moments-icon.png)Marketo-**: [Marketo-Momente Sehen Sie sich an, was wichtig ist und wann es wichtig ist.](https://docs.marketo.com/display/DOCS/Marketo+Moments)

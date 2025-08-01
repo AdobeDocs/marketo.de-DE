@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Implementieren von RTP in [!DNL Wordpress] {#implementing-rtp-on-wordpress}
 
-Um Ihr [!UICONTROL RTP-Tag ] implementieren, folgen Sie den folgenden Installationsanweisungen:
+Um Ihr [!UICONTROL RTP-Tag &#x200B;] implementieren, folgen Sie den folgenden Installationsanweisungen:
 
 1. Öffnen Sie die Datei **header.php** Ihres **[!DNL WordPress]Designs**.
 

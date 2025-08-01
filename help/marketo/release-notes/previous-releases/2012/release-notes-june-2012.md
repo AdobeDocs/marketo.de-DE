@@ -43,7 +43,7 @@ Auf den bestehenden Übersichtsseiten für Programme und Kampagnen wurden das Er
 
 ## [!UICONTROL Von] für Assets verwendet {#used-by-for-assets}
 
-Wir haben eine neue Registerkarte zu unseren Asset[!UICONTROL Zusammenfassungs-] namens &quot;[!UICONTROL  von“ ]!
+Wir haben eine neue Registerkarte zu unseren Asset[!UICONTROL Zusammenfassungs-] namens &quot;[!UICONTROL &#x200B; von“ &#x200B;]!
 
 ![](assets/image2014-9-23-10-3a24-3a5.png)
 
